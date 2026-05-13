@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 15 maja 2025 r.
+# o zmianie ustawy o Państwowym Ratownictwie Medycznym oraz niektórych innych ustaw
+
+*USTAWA z dnia 24 kwietnia 2025 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,9 +25,6 @@ domain: null
 | Data wydania | 2025-05-15 |
 | Ostatnia zmiana | 2025-05-20 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000637) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/637/text.pdf) |
-
-USTAWA z dnia 24 kwietnia 2025 r.
-o zmianie ustawy o Państwowym Ratownictwie Medycznym oraz niektórych innych ustaw
 
 **Art. 1.** W ustawie z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2025 r. poz. 91) wprowadza się następujące zmiany:
 
@@ -48,8 +47,8 @@ o zmianie ustawy o Państwowym Ratownictwie Medycznym oraz niektórych innych us
 
 5. Do egzaminu, o którym mowa ust. 1, może przystąpić policjant, funkcjonariusz, strażak i pracownik służb podległych ministrowi właściwemu do spraw wewnętrznych lub przez niego nadzorowanych, który:
 
-- **1)** odbył szkolenie KPP MSWiA i uzyskał pozytywny wynik ze wszystkich zajęć teoretycznych i praktycznych przypadku osoby, która nie posiada ważnego zaświadczenia o ukończeniu szkolenia KPP MSWiA i uzyskaniu tytułu ratownika albo ważnego zaświadczenia potwierdzającego kwalifikacje ratownika, albo
-- **2)** posiada ważne zaświadczenie o ukończeniu szkolenia KPP MSWiA i uzyskaniu tytułu ratownika albo ważne zaświadczenie potwierdzające kwalifikacje ratownika przypadku osoby, która potwierdza te kwalifikacje.
+- **1)** odbył szkolenie KPP MSWiA i uzyskał pozytywny wynik ze wszystkich zajęć teoretycznych i praktycznych – przypadku osoby, która nie posiada ważnego zaświadczenia o ukończeniu szkolenia KPP MSWiA i uzyskaniu tytułu ratownika albo ważnego zaświadczenia potwierdzającego kwalifikacje ratownika, albo
+- **2)** posiada ważne zaświadczenie o ukończeniu szkolenia KPP MSWiA i uzyskaniu tytułu ratownika albo ważne zaświadczenie potwierdzające kwalifikacje ratownika – przypadku osoby, która potwierdza te kwalifikacje.
 - **1)** wynoszenie karty testowej z sali egzaminacyjnej oraz kopiowanie, spisywanie lub fotografowanie pytań zawartych karcie testowej;
 - **2)** posiadanie urządzeń służących do przekazu lub odbioru informacji;
 - **3)** korzystanie z pomocy innej osoby.
@@ -79,9 +78,9 @@ o zmianie ustawy o Państwowym Ratownictwie Medycznym oraz niektórych innych us
 - **1)** oznaczenie podmiotu szkolącego;
 - **2)** datę i miejsce wydania zaświadczenia;
 - **3)** numer zaświadczenia;
-- **4)** nazwę ukończonego szkolenia KPP MSWiA; programem szkolenia KPP MSWiA, albo osoby, która zdała egzamin z zakresu wiedzy i umiejętności objętych programem szkolenia KPP MSWiA:
+- **4)** nazwę ukończonego szkolenia KPP MSWiA; programem szkolenia KPP MSWiA:
     - **a)** imię (imiona) i nazwisko,
-    - **b)** numer PESEL, a przypadku jego braku serię i numer paszportu albo innego dokumentu potwierdzającego tożsamość,
+    - **b)** numer PESEL, a przypadku jego braku – serię i numer paszportu albo innego dokumentu potwierdzającego tożsamość,
     - **c)** stopień służbowy;
 
 - **6)** datę ukończenia szkolenia KPP MSWiA;
@@ -156,8 +155,8 @@ o zmianie ustawy o Państwowym Ratownictwie Medycznym oraz niektórych innych us
 
 5. Do egzaminu, o którym mowa ust. 1, może przystąpić osoba, która:
 
-- **1)** odbyła szkolenie KPP MON i uzyskała pozytywny wynik ze wszystkich zajęć teoretycznych i praktycznych przypadku osoby, która nie posiada ważnego zaświadczenia o ukończeniu szkolenia KPP MON i uzyskaniu tytułu ratownika albo ważnego zaświadczenia potwierdzającego kwalifikacje ratownika, albo
-- **2)** posiada ważne zaświadczenie o ukończeniu szkolenia KPP MON i uzyskaniu tytułu ratownika albo ważne zaświadczenie potwierdzające kwalifikacje ratownika przypadku osoby, która potwierdza te kwalifikacje.
+- **1)** odbyła szkolenie KPP MON i uzyskała pozytywny wynik ze wszystkich zajęć teoretycznych i praktycznych – przypadku osoby, która nie posiada ważnego zaświadczenia o ukończeniu szkolenia KPP MON i uzyskaniu tytułu ratownika albo ważnego zaświadczenia potwierdzającego kwalifikacje ratownika, albo
+- **2)** posiada ważne zaświadczenie o ukończeniu szkolenia KPP MON i uzyskaniu tytułu ratownika albo ważne zaświadczenie potwierdzające kwalifikacje ratownika – przypadku osoby, która potwierdza te kwalifikacje.
 
 6. W trakcie egzaminu teoretycznego jest zabronione:
 
@@ -193,7 +192,7 @@ o zmianie ustawy o Państwowym Ratownictwie Medycznym oraz niektórych innych us
 - **4)** nazwę ukończonego szkolenia KPP MON;
 - **5)** dane osoby, która ukończyła szkolenie KPP MON i zdała egzamin z zakresu wiedzy i umiejętności objętych programem szkolenia KPP MON, albo osoby, która zdała egzamin z zakresu wiedzy i umiejętności objętych programem tego szkolenia:
     - **a)** imię (imiona) i nazwisko,
-    - **b)** numer PESEL, a przypadku jego braku serię i numer paszportu albo innego dokumentu potwierdzającego tożsamość,
+    - **b)** numer PESEL, a przypadku jego braku – serię i numer paszportu albo innego dokumentu potwierdzającego tożsamość,
     - **c)** stopień wojskowy;
 
 - **6)** termin odbywania szkolenia KPP MON;
@@ -205,6 +204,106 @@ o zmianie ustawy o Państwowym Ratownictwie Medycznym oraz niektórych innych us
 **Art. 16i.** Ratownik pełniący służbę albo wykonujący zadania zawodowe jednostce organizacyjnej podległej Ministrowi Obrony Narodowej lub przez niego nadzorowanej ma obowiązek aktualizacji wiedzy i umiejętności ratownika zakresie kwalifikowanej pierwszej pomocy.
 
 **Art. 16j.** Minister Obrony Narodowej porozumieniu z ministrem właściwym do spraw zdrowia określi, drodze rozporządzenia:
+
+**Art. 26e.**
+
+1. Dysponent zespołów ratownictwa medycznego zapewnia członkom zespołów ratownictwa medycznego dostęp do wsparcia psychologicznego udzielanego przez psychologa spełniającego wymagania, o których mowa art. 26a ust. 2.
+
+2. Wsparcie psychologiczne udzielane członkom zespołów ratownictwa medycznego ma na celu:
+
+- **1)** zapobieganie konsekwencjom zdrowotnym stresu zawodowego;
+- **2)** zwiększenie efektywności realizacji zadań przez członków zespołów ratownictwa medycznego.
+
+3. Zadania psychologa ramach wsparcia psychologicznego udzielanego członkom zespołów ratownictwa medycznego obejmują:
+
+- **1)** prewencję skutków stresorów zawodowych;
+- **2)** poradnictwo i pomoc psychologiczną zakresie problemów psychologicznych wpływających na dobrostan psychiczny członków zespołów ratownictwa medycznego;
+- **3)** interwencje psychologiczne sytuacjach kryzysowych.
+
+4. Zadania, o których mowa ust. 3, są podejmowane przez psychologa sytuacjach:
+
+- **1)** zgłoszenia przez członka zespołu ratownictwa medycznego problemów psychicznych mogących wpływać na poziom jego funkcjonowania psychicznego;
+- **2)** zaobserwowanych albo zgłoszonych przez dysponenta zespołów ratownictwa medycznego trudności członków tych zespołów pracy zespołowej lub indywidualnej;
+- **3)** stwierdzenia u członka zespołu ratownictwa medycznego symptomów świadczących o trudnościach psychicznych.
+
+5. Zadania, o których mowa ust. 3, są realizowane wyłącznie za zgodą członka zespołu ratownictwa medycznego, z zachowaniem zasad etyki zawodowej psychologa.
+
+6. Psycholog udzielający wsparcia psychicznego członkom zespołów ratownictwa medycznego opracowuje i przekazuje dysponentowi zespołów ratownictwa medycznego, do dnia 31 marca, raport roczny za rok poprzedni z realizacji zadań, o których mowa ust. 3, obejmujący wskazanie liczby i rodzaju zrealizowanych zadań oraz liczby osób, wobec których te zadania zostały zrealizowane.”;
+
+- **27)** art. 27:
+    - **a)** ust. 1 pkt 8 kropkę na końcu zastępuje się średnikiem i dodaje się pkt 9 brzmieniu: „9) współpraca oraz wymiana informacji z Krajowym Centrum Monitorowania Ratownictwa Medycznego, o którym mowa art. 27a ust. 1.”,
+    - **b)** ust. 1a skreśla się wyrazy „(Dz. U. z 2024 r. poz. 799 i 1897)”,
+    - **c)** ust. 3 uchyla się pkt 1;
+
+- **28)** art. 27a ust. 2 pkt 6 otrzymuje brzmienie: „6) całodobowe monitorowanie przebiegu zdarzeń obsługiwanych przez dyspozytorów medycznych oraz zespoły ratownictwa medycznego, tym zdarzeń, których skutki spowodowały stan nagłego zagrożenia zdrowotnego znacznej liczby osób, oraz współpraca i wspomaganie realizacji zadań przez krajowego koordynatora ratownictwa medycznego oraz wojewódzkich koordynatorów ratownictwa medycznego;”;
+- **29)** art. 27b ust. 18 pkt 1 wyrazy „lub wskazanego przez niego lekarza systemu” zastępuje się wyrazami „albo wskazaną przez niego osobę będącą lekarzem systemu, pielęgniarką systemu albo ratownikiem medycznym”;
+- **30)** art. 29:
+    - **a)** uchyla się ust. 3,
+    - **b)** ust. 5 uchyla się pkt 2, „6a. Osoba, z którą zawarto umowę na wykonywanie zadań wojewódzkiego koordynatora ratownictwa medycznego, jest obowiązana przed rozpoczęciem realizacji tych zadań przedstawić wojewodzie zaświadczenie o ukończeniu kursu uprawniającego do pracy na tym stanowisku.”;
+
+- **31)** art. 31:
+    - **a)** ust. 1 pkt 3 skreśla się wyrazy „pkt 1 i 3”,
+    - **b)** dodaje się ust. 3 brzmieniu: „3. Do obserwowania czynności związanych z udzielaniem świadczeń zdrowotnych oraz do oceny dokumentacji medycznej, ramach kontroli, o której mowa ust. 1 pkt 2, jest uprawniona wyłącznie osoba wykonująca zawód medyczny. Obserwowanie czynności związanych z udzielaniem świadczeń zdrowotnych prowadzi się sposób nienaruszający praw pacjenta.”;
+
+- **32)** art. 32:
+    - **a)** ust. 1 pkt 2 po wyrazach „lotnicze zespoły ratownictwa” dodaje się wyrazy „medycznego oraz motocyklowe jednostki ratunkowe”,
+    - **b)** ust. 3 po wyrazach „lotniczych zespołów ratownictwa medycznego” dodaje się wyrazy „oraz motocyklowych jednostek ratunkowych”;
+
+- **33)** art. 36:
+    - **a)** ust. 1: – pkt 2 otrzymuje brzmienie: „2) zespoły podstawowe:
+    - **a)** dwuosobowe, których skład wchodzą dwie osoby uprawnione do wykonywania medycznych czynności ratunkowych będące pielęgniarką systemu lub ratownikiem medycznym,
+    - **b)** trzyosobowe, których skład wchodzą trzy osoby uprawnione do wykonywania medycznych czynności ratunkowych będące pielęgniarką systemu lub ratownikiem medycznym;”, – dodaje się pkt 3 brzmieniu: „3) motocyklowe jednostki ratunkowe, których skład wchodzi co najmniej jedna osoba uprawniona do wykonywania medycznych czynności ratunkowych będąca lekarzem systemu, pielęgniarką systemu lub ratownikiem medycznym.”,
+    - **b)** dodaje się ust. 6 brzmieniu: „6. Kierownikiem motocyklowej jednostki ratunkowej, o której mowa ust. 1 pkt 3, jest osoba wskazana przez dysponenta tej jednostki, będąca lekarzem systemu, pielęgniarką systemu lub ratownikiem medycznym.”;
+
+- **34)** po art. 38 dodaje się art. 38a i art. 38b brzmieniu: „Art. 38a. 1. Lekarze, o których mowa art. 3 pkt 3 lit. c–f, są obowiązani do ukończenia kursu zakresie postępowania z osobami stanie nagłego zagrożenia zdrowotnego nie rzadziej niż raz na 48 miesięcy.
+
+2. Pielęgniarki, o których mowa art. 3 pkt 6 lit. b–d, są obowiązane do ukończenia kursu zakresie postępowania z osobami stanie nagłego zagrożenia zdrowotnego nie rzadziej niż raz na 48 miesięcy.
+
+3. Kursy, o których mowa ust. 1 i 2, zwane dalej „kursami stanów nagłych”, prowadzą:
+
+- **1)** uczelnie publiczne, które prowadzą kształcenie przygotowujące do wykonywania zawodu lekarza lub zawodu pielęgniarki,
+- **2)** dysponenci jednostek systemu,
+- **3)** Centrum Medycznego Kształcenia Podyplomowego, zwane dalej „CMKP” – na podstawie programów kursów stanów nagłych.
+
+4. Programy kursów stanów nagłych obejmują:
+
+- **1)** założenia organizacyjno-programowe określające rodzaj i cel kształcenia, czas jego trwania, sposób jego organizacji oraz sposób sprawdzania efektów uczenia;
+- **2)** plan nauczania;
+- **4)** wskazówki metodyczne;
+- **5)** standardy dotyczące kadry i bazy dydaktycznej;
+- **6)** warunki ukończenia kursów stanów nagłych.
+
+5. Programy kursów stanów nagłych są opracowywane przez zespoły ekspertów na podstawie zakresu problematyki kursów stanów nagłych.
+
+6. Zespoły ekspertów powołuje dyrektor CMKP spośród osób legitymujących się doświadczeniem zawodowym i dorobkiem naukowym dziedzinie właściwej dla programu kursu stanów nagłych.
+
+7. Programy kursów stanów nagłych opracowane przez zespoły ekspertów dyrektor CMKP redaguje i przedstawia do zatwierdzenia ministrowi właściwemu do spraw zdrowia.
+
+8. Dyrektor CMKP podaje do publicznej wiadomości zatwierdzone programy kursów stanów nagłych przez ich publikację na stronie internetowej CMKP.
+
+9. Warunkiem ukończenia kursu stanów nagłych jest uczestnictwo tym kursie i zdanie egzaminu obejmującego zagadnienia z programu tego kursu.
+
+10. Ukończenie kursu stanów nagłych jest potwierdzane przez podmiot prowadzący dany kurs zaświadczeniem.
+
+11. Zaświadczenie, o którym mowa ust. 10, zawiera następujące dane:
+
+- **1)** imię (imiona) i nazwisko uczestnika kursu stanów nagłych;
+- **2)** numer PESEL uczestnika kursu stanów nagłych, a przypadku jego braku – serię i numer paszportu albo innego dokumentu potwierdzającego tożsamość;
+- **3)** numer zaświadczenia;
+- **4)** zakres problematyki kursu stanów nagłych;
+- **5)** nazwę i siedzibę podmiotu prowadzącego kurs stanów nagłych;
+- **6)** termin realizacji kursu stanów nagłych;
+- **7)** informację o zakończeniu kursu stanów nagłych egzaminem;
+- **8)** podpis z podaniem imienia i nazwiska osoby reprezentującej podmiot prowadzący kurs stanów nagłych.
+
+12. Minister właściwy do spraw zdrowia określi, drodze rozporządzenia:
+
+- **1)** zakres problematyki kursów stanów nagłych, uwzględniając zakres wiedzy i umiejętności niezbędnych do wykonywania określonych świadczeń opieki zdrowotnej przez lekarza systemu lub pielęgniarkę systemu;
+- **2)** wzór zaświadczenia potwierdzającego odbycie kursu stanów nagłych, mając na celu konieczność zachowania przejrzystości dokumentowania ukończenia kursu stanów nagłych oraz potrzebę ujednolicenia zasad weryfikacji wiedzy i umiejętności zdobytych podczas kursów stanów nagłych.
+
+13. Dysponent jednostki jest obowiązany do zweryfikowania na podstawie zaświadczenia o ukończeniu kursu stanów nagłych, czy obowiązek, o którym mowa ust. 1 i 2, został zrealizowany.
+
+14. Koszty kursów stanów nagłych ponosi dysponent jednostki, u którego lekarz, o którym mowa ust. 1, lub pielęgniarka, o której mowa ust. 2, wykonuje zawód, lub podmiot prowadzący kurs. Koszty tych kursów mogą być również pokrywane ramach dofinansowania pochodzącego ze środków europejskich rozumieniu art. 2 pkt 5 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2024 r. poz. 1530, 1572, 1717, 1756 i 1907 oraz z 2025 r. poz. 39).
 
 **Art. 38b.**
 
@@ -219,9 +318,10 @@ o zmianie ustawy o Państwowym Ratownictwie Medycznym oraz niektórych innych us
 3. Przeszkolenie, o którym mowa ust. 1:
 
 - **1)** obejmuje zajęcia teoretyczne i praktyczne, z uwzględnieniem co najmniej elementów, o których mowa ust. 2;
-- **2)** trwa nie krócej niż 8 godzin dydaktycznych, przy czym godzina dydaktyczna trwa 45 minut.
 
 4. Przeszkolenie, o którym mowa ust. 1, jest finansowane przez wojewodę właściwego ze względu na siedzibę dysponenta zespołów ratownictwa medycznego.
+
+5. Przeszkolenie, o którym mowa ust. 1, może być również finansowane albo dofinansowywane:
 
 - **1)** przez dysponenta zespołów ratownictwa medycznego;
 - **2)** przez jednostkę samorządu terytorialnego;
@@ -248,13 +348,13 @@ o zmianie ustawy o Państwowym Ratownictwie Medycznym oraz niektórych innych us
 
 **Art. 45d.** Przepisów art. 44–45c nie stosuje się do motocyklowych jednostek ratunkowych.”;
 
+**Art. 2.** W ustawie z dnia 31 stycznia 1959 r. o cmentarzach i chowaniu zmarłych (Dz. U. z 2024 r. poz. 576) art. 11:
+
 **Art. 3.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2024 r. poz. 146, z późn. zm. ) art. 95d ust. 2:
 
 **Art. 4.** W ustawie z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2025 r. poz. 450 i 620) art. 99 dotychczasową treść oznacza się jako ust. 1 i dodaje ust. 2 brzmieniu: „2. Dodatek, o którym mowa ust. 1, przysługuje także pracownikom zatrudnionym systemie pracy zmianowej jednostkach systemu, o których mowa art. 32 ust. 1 pkt 2 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym.”.
 
-**Art. 5.** W ustawie z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. z 2024 r. poz. 814, 854 i 1897 oraz z 2025 r. poz. 129 i 619) art. 4 ust. 1 pkt 8 wyrazy „w art. 41” zastępuje się wyrazami „w art. 40 ust. 1”.
-
-**Art. 6.** W ustawie z dnia 22 listopada 2013 r. o systemie powiadamiania ratunkowego (Dz. U. z 2023 r. poz. 748 oraz z 2024 r. poz. 731 i 1222) wprowadza się następujące zmiany:
+**Art. 5.** W ustawie z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. z 2024 r. poz. 814, 854 i 1897 oraz z 2025 r. poz. 129 i 619) art. 4 ust. 1 pkt 8 wyrazy „w art. 41” zastępuje się wyrazami „w art. 40 ust. 1”. z 2024 r. poz. 731 i 1222) wprowadza się następujące zmiany:
 
 **Art. 7.** W ustawie z dnia 10 maja 2018 r. o zmianie ustawy o Państwowym Ratownictwie Medycznym oraz niektórych innych ustaw (Dz. U. poz. 1115, z późn. zm. ) po art. 19 dodaje się art. 19a brzmieniu: „Art. 19a. Wymagania dotyczące ukończenia kursu uprawniającego do pracy na stanowisku:
 
@@ -262,13 +362,9 @@ o zmianie ustawy o Państwowym Ratownictwie Medycznym oraz niektórych innych us
 
 **Art. 9.** W ustawie z dnia 17 sierpnia 2023 r. o niektórych zawodach medycznych (Dz. U. poz. 1972 oraz z 2024 r. poz. 1897) wprowadza się następujące zmiany:
 
-**Art. 10.** W ustawie z dnia 12 lipca 2024 r. Prawo komunikacji elektronicznej (Dz. U. poz. 1221) art. 337 ust. 1 części wspólnej po wyrazach „właściwemu terytorialnie centrum powiadamiania ratunkowego” dodaje się przecinek i wyrazy „właściwej terytorialnie dyspozytorni medycznej”.
+**Art. 10.** W ustawie z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej (Dz. U. poz. 1221) art. 337 ust. 1 części wspólnej po wyrazach „właściwemu terytorialnie centrum powiadamiania ratunkowego” dodaje się przecinek i wyrazy „właściwej terytorialnie dyspozytorni medycznej”. mowa art. 17 ust. 1 ustawy zmienianej art. 1, dostosują się do wymagań, o których mowa art. 15 ust. 1a i 1b ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, terminie do dnia 31 grudnia 2025 r. 2. W przypadku jednostek współpracujących z systemem, o których mowa art. 15 ust. 1 pkt 3–7 i 9 ustawy zmienianej art. 1, dopuszcza się stosowanie warunków, o których mowa art. 15 ust. 1a ustawy zmienianej art. 1, brzmieniu dotychczasowym, do dnia 31 grudnia 2025 r.
 
-**Art. 11.**
-
-1. Jednostki współpracujące z systemem, o których mowa art. 15 ust. 1 pkt 3–7 i 9 ustawy zmienianej art. 1, wpisane przed dniem wejścia życie niniejszej ustawy do rejestru jednostek współpracujących z systemem, o którym mowa art. 17 ust. 1 ustawy zmienianej art. 1, dostosują się do wymagań, o których mowa art. 15 ust. 1a i 1b ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, terminie do dnia 31 grudnia 2025 r.
-
-2. W przypadku jednostek współpracujących z systemem, o których mowa art. 15 ust. 1 pkt 3–7 i 9 ustawy zmienianej art. 1, dopuszcza się stosowanie warunków, o których mowa art. 15 ust. 1a ustawy zmienianej art. 1, brzmieniu dotychczasowym, do dnia 31 grudnia 2025 r. ustawy zmienianej art. 1, wszczętych i niezakończonych przed dniem wejścia życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
+**Art. 12.** Do prowadzenia szkoleń zakresie kwalifikowanej pierwszej pomocy, o których mowa art. 16 ust. 1 ustawy zmienianej art. 1, wszczętych i niezakończonych przed dniem wejścia życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
 
 **Art. 13.** Zaświadczenia o ukończeniu szkolenia zakresie kwalifikowanej pierwszej pomocy i uzyskaniu tytułu ratownika oraz zaświadczenia o zdaniu egzaminu potwierdzającego posiadanie tytułu ratownika wydane na podstawie przepisów wydanych na podstawie art. 16 ust. 2 ustawy zmienianej art. 1 zachowują ważność przez okres, na jaki zostały wydane.
 
@@ -296,11 +392,11 @@ o zmianie ustawy o Państwowym Ratownictwie Medycznym oraz niektórych innych us
 
 1. Lekarz systemu i pielęgniarka systemu, którzy dniu wejścia życie niniejszej ustawy są zatrudnieni jednostkach systemu, o których mowa art. 32 ust. 1 ustawy zmienianej art. 1, którzy spełniają wymagania odpowiednio dla lekarza systemu, o którym mowa art. 3 pkt 3 lit. c–f ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, i dla pielęgniarki systemu, o której mowa art. 3 pkt 6 lit. b–d ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, są obowiązani ukończyć kursy zakresie postępowania z osobami stanie nagłego zagrożenia zdrowotnego, o których mowa art. 38a ust. 1 i 2 ustawy zmienianej art. 1, zwane dalej „kursami stanów nagłych”, terminie do dnia 31 grudnia 2029 r.
 
-2. Lekarz systemu i pielęgniarka systemu, o których mowa ust. 1, którzy ukończyli nie wcześniej niż 24 miesiące przed dniem wejścia życie niniejszej ustawy kurs, którego program odpowiada programowi kursu stanów nagłych, są obowiązani ukończyć kurs stanów nagłych terminie 48 miesięcy od dnia ukończenia kursu, którego program odpowiada programowi kursu stanów nagłych.
+2. Lekarz systemu i pielęgniarka systemu, o których mowa ust. 1, którzy ukończyli nie wcześniej niż 24 miesiące przed dniem wejścia życie niniejszej ustawy kurs, którego program odpowiada programowi kursu stanów nagłych, są obowiązani ukończyć kurs stanów nagłych terminie 48 miesięcy od dnia ukończenia kursu, którego program odpowiada programowi kursu stanów nagłych. kursu stanów nagłych, ukończonego przez lekarza systemu i pielęgniarkę systemu, o których mowa ust. 2, odpowiada programowi kursu stanów nagłych.
 
-3. Dysponent jednostki rozumieniu art. 3 pkt 1 ustawy zmienianej art. 1, której lekarz systemu i pielęgniarka systemu, o których mowa ust. 2, są zatrudnieni, weryfikuje, czy program kursu, którego program odpowiada programowi kursu stanów nagłych, ukończonego przez lekarza systemu i pielęgniarkę systemu, o których mowa ust. 2, odpowiada programowi kursu stanów nagłych.
+**Art. 22.** Dyrektor Centrum Medycznego Kształcenia Podyplomowego podaje do publicznej wiadomości po raz pierwszy, sposób określony art. 38a ust. 8 ustawy zmienianej art. 1, programy kursów stanów nagłych zatwierdzone przez ministra właściwego do spraw zdrowia, terminie 6 miesięcy od dnia wejścia życie niniejszej ustawy.
 
-**Art. 22.** Dyrektor Centrum Medycznego Kształcenia Podyplomowego podaje do publicznej wiadomości po raz pierwszy, sposób określony art. 38a ust. 8 ustawy zmienianej art. 1, programy kursów stanów nagłych zatwierdzone przez ministra właściwego do spraw zdrowia, terminie 6 miesięcy od dnia wejścia życie niniejszej ustawy. albo ustawicznego rozwoju zawodowego odbył, nie wcześniej niż 24 miesiące przed dniem wejścia życie niniejszej ustawy, kurs lub inną formę szkolenia zakresie samoobrony oraz technik deeskalacyjnych, obejmujące co najmniej elementy, o których mowa art. 38b ust. 2 ustawy zmienianej art. 1, może nie odbyć przeszkolenia, o którym mowa art. 38b ust. 1 ustawy zmienianej art. 1, jeżeli przedstawi dysponentowi dokument potwierdzający odbycie tego kursu lub innej formy szkolenia.
+**Art. 23.** Członek zespołu ratownictwa medycznego, który ramach doskonalenia zawodowego, aktualizacji wiedzy albo ustawicznego rozwoju zawodowego odbył, nie wcześniej niż 24 miesiące przed dniem wejścia życie niniejszej ustawy, kurs lub inną formę szkolenia zakresie samoobrony oraz technik deeskalacyjnych, obejmujące co najmniej elementy, o których mowa art. 38b ust. 2 ustawy zmienianej art. 1, może nie odbyć przeszkolenia, o którym mowa art. 38b ust. 1 ustawy zmienianej art. 1, jeżeli przedstawi dysponentowi dokument potwierdzający odbycie tego kursu lub innej formy szkolenia.
 
 **Art. 24.** Do postępowań o wydanie opinii o celowości inwestycji, o których mowa art. 95d ust. 1 ustawy zmienianej art. 3, dotyczących zespołów ratownictwa medycznego lub dysponentów lotniczych zespołów ratownictwa medycznego, wszczętych i niezakończonych przed dniem wejścia życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej art. 3, brzmieniu nadanym niniejszą ustawą.
 

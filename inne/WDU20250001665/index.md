@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 28 listopada 2025 r.
+# o zmianie ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych
+
+*USTAWA z dnia 7 listopada 2025 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +25,6 @@ domain: null
 | Data wydania | 2025-11-28 |
 | Ostatnia zmiana | 2026-02-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001665) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1665/text.pdf) |
-
-Poz. 1665
-USTAWA z dnia 7 listopada 2025 r.
-o zmianie ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych
 
 **Art. 1.** W ustawie z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2025 r. poz. 913 i 1301) wprowadza się następujące zmiany:
 

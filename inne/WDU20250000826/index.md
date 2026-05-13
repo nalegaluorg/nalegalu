@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 25 czerwca 2025 r.
+# o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa
+
+*USTAWA z dnia 19 października 1991 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,19 +25,6 @@ domain: null
 | Data wydania | 2025-06-25 |
 | Ostatnia zmiana | 2026-03-20 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000826) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/826/text.pdf) |
-
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 13 czerwca 2025 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U.
-z 2024 r. poz. 589), z uwzględnieniem zmian wprowadzonych:
-1) ustawą z dnia 28 czerwca 2024 r. o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw (Dz. U. poz. 1089),
-2) ustawą z dnia 24 lipca 2024 r. o zmianie ustawy o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa oraz ustawy o wstrzymaniu sprzedaży nieruchomości Zasobu Własności Rolnej Skarbu Państwa oraz o zmianie niektórych ustaw (Dz. U. poz. 1230),
-3) ustawą z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620),
-4) ustawą z dnia 9 maja 2025 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (Dz. U. poz. 680) oraz zmian wynikających z przepisów ogłoszonych przed dniem 12 czerwca 2025 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 31, art. 32 ust. 1 i 2 oraz art. 44 ustawy z dnia 28 czerwca 2024 r. o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw (Dz. U. poz. 1089), które stanowią: „Art. 31. Do planów finansowych agencji wykonawczych, instytucji gospodarki budżetowej, państwowych funduszy celowych oraz państwowych i samorządowych osób prawnych na rok 2024 oraz do zmian tych planów stosuje się przepisy dotychczasowe.”
-
-**Art. 32.** „1. Przepisy art. 21, art. 24, art. 29 oraz art. 30 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się po raz pierwszy do projektów planów finansowych i planów finansowych agencji wykonawczych, instytucji gospodarki budżetowej, państwowych funduszy celowych oraz państwowych i samorządowych osób prawnych na rok 2025. 2. Przepis art. 43 ust. 1 ustawy zmienianej w art. 18, w brzmieniu nadanym niniejszą ustawą, stosuje się po raz pierwszy do projektu planu finansowego i planu finansowego Krajowego Zasobu Nieruchomości na rok 2025.” „Art. 44. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem art. 8 pkt 3 i 4 oraz art. 16 pkt 2, które wchodzą w życie z dniem 1 stycznia 2025 r.”;
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -140,7 +129,7 @@ z 2024 r. poz. 589), z uwzględnieniem zmian wprowadzonych:
 
 2. Z chwilą wykreślenia z rejestru wygasa zarząd ustanowiony na państwowych nieruchomościach rolnych i innych nieruchomościach oraz składnikach mienia określonych w art. 1 pkt 2, a także ustaje obowiązek wpłaty dywidendy. Krajowy Ośrodek wyznacza tymczasowego zarządcę majątku po zlikwidowanym przedsiębiorstwie.
 
-3. Organ założycielski przekazuje Krajowemu Ośrodkowi mienie oraz wierzytelności i zobowiązania po zlikwidowanym przedsiębiorstwie według stanu na dzień wykreślenia przedsiębiorstwa z rejestru, z wyjątkiem zobowiązań przedsiębiorstwa wobec Skarbu Państwa, które wygasają z dniem podjęcia decyzji o likwidacji.
+3. Organ założycielski przekazuje Krajowemu Ośrodkowi mienie oraz wierzytelności i zobowiązania po zlikwidowanym przedsiębiorstwie – według stanu na dzień wykreślenia przedsiębiorstwa z rejestru, z wyjątkiem zobowiązań przedsiębiorstwa wobec Skarbu Państwa, które wygasają z dniem podjęcia decyzji o likwidacji.
 
 3a. Egzekucja należności, przypadających od Krajowego Ośrodka z tytułu przyjętego zobowiązania, może być prowadzona tylko z mienia i pożytków z niego uzyskiwanych, przekazanego Krajowemu Ośrodkowi po tym zlikwidowanym przedsiębiorstwie, które zaciągnęło zobowiązanie.
 
@@ -186,7 +175,7 @@ z 2024 r. poz. 589), z uwzględnieniem zmian wprowadzonych:
 - **2)** na cele rolne 1 %, 2a) na cele mieszkaniowe, na realizację urządzeń infrastruktury technicznej oraz innych celów publicznych 1 %,
 - **3)** na inne cele 3 % wartości nieruchomości ustalonej w sposób określony w art. 30 ust. 1, z tym że wartość gruntu rolnego można ustalić w sposób określony w art. 30 ust. 2.
 
-2. Polska Akademia Nauk, Centrum Łukasiewicz i instytuty działające w ramach Sieci Badawczej Łukasiewicz oraz instytuty badawcze wnoszą z tytułu użytkowania wieczystego opłaty roczne równe cenie 20 kg żyta z hektara przeliczeniowego w rozumieniu przepisów o podatku rolnym. Opłaty te są wnoszone bez uprzedniego wezwania, na rachunek Krajowego Ośrodka, do dnia 15 lutego każdego roku za poprzedni rok kalendarzowy.
+2. Polska Akademia Nauk, Centrum Łukasiewicz i instytuty działające w ramach Sieci Badawczej Łukasiewicz oraz instytuty badawcze wnoszą z tytułu użytkowania wieczystego opłaty roczne równe cenie 20 kg żyta z hektara przeliczeniowego w rozumieniu przepisów o podatku rolnym. Opłaty te są wnoszone bez uprzedniego wezwania, na rachunek Krajowego Ośrodka, do dnia 15 lutego każdego roku – za poprzedni rok kalendarzowy.
 
 2a. O ustaleniu nowej albo zmianie dotychczasowej wysokości opłaty rocznej z tytułu użytkowania wieczystego, o której mowa w ust. 1, Dyrektor Generalny Krajowego Ośrodka zawiadamia na piśmie użytkownika wieczystego. Do obu rodzajów zawiadomień stosuje się odpowiednio przepisy o gospodarce nieruchomościami, dotyczące postępowania w razie wypowiedzenia opłaty rocznej z tytułu użytkowania wieczystego nieruchomości gruntowej.
 
@@ -220,7 +209,12 @@ z 2024 r. poz. 589), z uwzględnieniem zmian wprowadzonych:
 
 3. Projekt rocznego planu finansowego Zasobu zatwierdza minister właściwy do spraw rozwoju wsi i przekazuje ministrowi właściwemu do spraw finansów publicznych w trybie określonym w przepisach dotyczących prac nad projektem ustawy budżetowej.
 
-4. Środki finansowe z gospodarowania mieniem Zasobu przeznacza się na finansowanie obciążających mienie Zasobu zadań określonych w ustawie, a także zadań określonych przepisami o kształtowaniu ustroju rolnego oraz przepisami o realizacji prawa do rekompensaty z tytułu pozostawienia nieruchomości poza obecnymi granicami Rzeczypospolitej Polskiej.
+4. Środki finansowe z gospodarowania mieniem Zasobu przeznacza się na finansowanie:
+
+- **1)** obciążających mienie Zasobu zadań określonych w ustawie;
+- **2)** zadań określonych przepisami o kształtowaniu ustroju rolnego;
+- **3)** wsparcia działań na rzecz odnawialnych źródeł energii, w szczególności w rolnictwie, w tym na realizację inwestycji z zakresu odnawialnych źródeł energii realizowanych na gruntach Zasobu w zakresie budowy, przebudowy lub rozbudowy urządzeń lub instalacji związanych z pozyskiwaniem energii z odnawialnych źródeł energii, w szczególności biogazu rolniczego lub biometanu, w tym włączenia tych instalacji do sieci dystrybucyjnych lub przesyłowych;
+- **4)** zadań określonych przepisami o realizacji prawa do rekompensaty z tytułu pozostawienia nieruchomości poza obecnymi granicami Rzeczypospolitej Polskiej.
 
 5. W projekcie rocznego planu finansowego Zasobu ustala się limit wydatków przeznaczonych na funkcjonowanie biura Krajowego Ośrodka i oddziałów terenowych Krajowego Ośrodka, w wysokości równej planowanym kosztom funkcjonowania powiększonym o dodatnią różnicę planowanych wydatków majątkowych i planowanej amortyzacji, a także wydatków przeznaczonych na realizację zadań określonych w art. 9 ust. 2 ustawy z dnia 10 lutego 2017 r. o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. z 2025 r. poz. 294).
 
@@ -275,9 +269,7 @@ z 2024 r. poz. 589), z uwzględnieniem zmian wprowadzonych:
 
 **Art. 20g.** (uchylony)
 
-**Art. 20h.**
-
-- **2)** Zmiany planu finansowego Zasobu dokonywane zgodnie z art. 21 ust. 4 pkt 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, dotyczące realizacji przez Krajowy Ośrodek zadań mających na celu przeciwdziałanie skutkom choroby zakaźnej wywołanej wirusem SARS-CoV-2 w zakresie zadań określonych w niniejszej ustawie, a także zadań określonych przepisami o kształtowaniu ustroju rolnego oraz przepisami o realizacji prawa do rekompensaty z tytułu pozostawienia nieruchomości poza obecnymi granicami Rzeczypospolitej Polskiej nie wymagają uzyskania opinii sejmowej komisji właściwej do spraw budżetu.
+**Art. 20h.** Zmiany planu finansowego Zasobu dokonywane zgodnie z art. 21 ust. 4 pkt 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, dotyczące realizacji przez Krajowy Ośrodek zadań mających na celu przeciwdziałanie skutkom choroby zakaźnej wywołanej wirusem SARS-CoV-2 w zakresie zadań określonych w niniejszej ustawie, a także zadań określonych przepisami o kształtowaniu ustroju rolnego oraz przepisami o realizacji prawa do rekompensaty z tytułu pozostawienia nieruchomości poza obecnymi granicami Rzeczypospolitej Polskiej nie wymagają uzyskania opinii sejmowej komisji właściwej do spraw budżetu.
 
 **Art. 21.**
 
@@ -296,7 +288,7 @@ z 2024 r. poz. 589), z uwzględnieniem zmian wprowadzonych:
 
 3. Sumy hipotek, o których mowa w ust. 2, nie mogą łącznie przekroczyć kwoty 1 mld zł.
 
-**Art. 22a.** Przy ustalaniu, określonych w ustawie z dnia 29 sierpnia 1997 r. Prawo bankowe (Dz. U. z 2024 r. poz. 1646, 1685 i 1863 oraz z 2025 r. poz. 146, 222 i 525), granic koncentracji kredytów i innych zobowiązań Krajowego Ośrodka wobec BGŻ SA nie uwzględnia się zobowiązań finansowanych ze środków stanowiących mienie Zasobu.
+**Art. 22a.** Przy ustalaniu, określonych w ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2024 r. poz. 1646, 1685 i 1863 oraz z 2025 r. poz. 146, 222 i 525), granic koncentracji kredytów i innych zobowiązań Krajowego Ośrodka wobec BGŻ SA nie uwzględnia się zobowiązań finansowanych ze środków stanowiących mienie Zasobu.
 
 **Art. 23.**
 
@@ -315,7 +307,13 @@ z 2024 r. poz. 589), z uwzględnieniem zmian wprowadzonych:
 2. Minister właściwy do spraw rozwoju wsi, po zasięgnięciu opinii Dyrektora Generalnego Krajowego Ośrodka, ustali, w drodze rozporządzenia, szczegółowe przesłanki odroczenia, rozłożenia na raty lub umorzenia należności oraz tryb postępowania w tych sprawach. W szczególności, w rozporządzeniu należy określić okoliczności uzasadniające uznanie, że:
 
 - **1)** niemożność terminowego uregulowania należności przez dłużnika Krajowego Ośrodka jest uzasadniona względami, o których mowa w ust. 1;
-- **2)** należność jest nieściągalna.
+- **2)** należność jest nieściągalna. Art. 23aa. W przypadku gdy środki finansowe z gospodarowania mieniem Zasobu przeznaczone na realizację zadań określonych w art. 20 ust. 4 pkt 3 lub art. 32a ust. 1 pkt 1 nie zostały wydatkowane w danym roku albo zostały zwrócone, w szczególności w wyniku nieskutecznego lub nieważnego objęcia lub nabycia akcji lub udziałów w spółkach handlowych albo zmiany lub uchylenia uchwały właściwego organu spółki handlowej, środki te:
+- **1)** nie podlegają wpłacie do budżetu państwa;
+- **2)** nie stanowią podstawy do ustalania nadwyżki, o której mowa w art. 22 ust. 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, i nie stosuje się do nich art. 20 ust. 5c;
+- **3)** przeznacza się na zadania określone w:
+    - **a)** art. 20 ust. 4 pkt 3 lub
+    - **b)** art. 32a ust. 1 pkt 1, lub
+    - **c)** art. 4b ust. 2 ustawy z dnia 11 kwietnia 2003 r. o kształtowaniu ustroju rolnego.
 
 **Art. 23b.** (uchylony)
 
@@ -331,7 +329,7 @@ z 2024 r. poz. 589), z uwzględnieniem zmian wprowadzonych:
 
 - **1)** w pierwszej kolejności wydzierżawienia albo sprzedaży nieruchomości rolnych na powiększenie lub utworzenie gospodarstw rodzinnych, na zasadach określonych w rozdziałach 6 lub 8, z wyłączeniem nieruchomości rolnych:
     - **a)** o powierzchni mniejszej niż 1 ha lub
-    - **b)** które w miejscowym planie zagospodarowania przestrzennego, miejscowym planie rewitalizacji albo miejscowym planie odbudowy są przeznaczone na cele inne niż rolne lub w przypadku których w ostatecznej decyzji o warunkach zabudowy i zagospodarowania terenu sposób zagospodarowania i warunki zabudowy terenu, na którym nieruchomości rolne są położone, określony został jako inny niż rolny, a w przypadku braku miejscowego planu lub ostatecznej decyzji o warunkach zabudowy i zagospodarowania terenu nieruchomości objętych w planie ogólnym gminy inną strefą planistyczną niż strefa wielofunkcyjna z zabudową zagrodową, strefa produkcji rolniczej lub strefa otwarta, lub
+    - **b)** które w miejscowym planie zagospodarowania przestrzennego, miejscowym planie rewitalizacji albo miejscowym planie odbudowy są przeznaczone na cele inne niż rolne lub w przypadku których w ostatecznej decyzji o warunkach zabudowy i zagospodarowania terenu sposób zagospodarowania i warunki zabudowy terenu, na którym nieruchomości rolne są położone, określony został jako inny niż rolny, a w przypadku braku miejscowego planu lub ostatecznej decyzji o warunkach zabudowy i zagospodarowania terenu – nieruchomości objętych w planie ogólnym gminy inną strefą planistyczną niż strefa wielofunkcyjna z zabudową zagrodową, strefa produkcji rolniczej lub strefa otwarta, lub
     - **c)** w skład których wchodzi co najmniej 70 % nieużytków lub użytków rolnych klasy VI i VIz, wydzierżawianych na cele związane z pozyskiwaniem energii ze źródeł odnawialnych i znajdujących się poza granicami obszarów, na których utworzono, ustanowiono lub wyznaczono formy ochrony przyrody, o których mowa w art. 6 ust. 1 pkt 1–9 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2024 r. poz. 1478 i 1940);
 
 - **2)** oddania mienia na czas oznaczony do odpłatnego korzystania osobom prawnym lub fizycznym na zasadach określonych w rozdziale 8 i 9;
@@ -349,7 +347,7 @@ z 2024 r. poz. 589), z uwzględnieniem zmian wprowadzonych:
 4. Krajowy Ośrodek może nieodpłatnie przekazać Lasom Państwowym, wchodzące w skład Zasobu:
 
 - **1)** działki ewidencyjne użytkowane jako lasy;
-- **2)** grunty na cele związane z zalesianiem, pod warunkiem że jest to zgodne z ustaleniami miejscowego planu zagospodarowania przestrzennego, miejscowego planu rewitalizacji, miejscowego planu odbudowy lub ostateczną decyzją o warunkach zabudowy i zagospodarowania terenu, a w przypadku braku miejscowego planu lub ostatecznej decyzji o warunkach zabudowy i zagospodarowania terenu z ustaleniami planu ogólnego gminy;
+- **2)** grunty na cele związane z zalesianiem, pod warunkiem że jest to zgodne z ustaleniami miejscowego planu zagospodarowania przestrzennego, miejscowego planu rewitalizacji, miejscowego planu odbudowy lub ostateczną decyzją o warunkach zabudowy i zagospodarowania terenu, a w przypadku braku miejscowego planu lub ostatecznej decyzji o warunkach zabudowy i zagospodarowania terenu – z ustaleniami planu ogólnego gminy;
 - **3)** inne grunty na potrzeby gospodarki leśnej, na których nie jest możliwe prowadzenie racjonalnej gospodarki rolnej.
 
 4a. (uchylony) 4b. Przekazanie, o którym mowa w ust. 4, następuje w drodze umowy zawartej między Dyrektorem Generalnym Krajowego Ośrodka a nadleśniczym Lasów Państwowych. Przekazanie następuje w trybie określonym w art. 19.
@@ -359,31 +357,31 @@ z 2024 r. poz. 589), z uwzględnieniem zmian wprowadzonych:
 4d. W przypadku gdy Agencja Mienia Wojskowego:
 
 - **1)** przed upływem 10 lat, licząc od dnia przekazania nieruchomości przeznaczyła tę nieruchomość na inne cele niż określone w ust. 4c,
-- **2)** w okresie 10 lat od dnia przekazania nieruchomości nie wykorzystała jej na cele określone w ust. 4c Krajowy Ośrodek występuje do Agencji Mienia Wojskowego z żądaniem zwrotu przekazanej nieruchomości. Zwrot następuje w trybie określonym w art. 19.
+- **2)** w okresie 10 lat od dnia przekazania nieruchomości nie wykorzystała jej na cele określone w ust. 4c – Krajowy Ośrodek występuje do Agencji Mienia Wojskowego z żądaniem zwrotu przekazanej nieruchomości. Zwrot następuje w trybie określonym w art. 19.
 
 5. Nieruchomości wchodzące w skład Zasobu Krajowy Ośrodek może, w drodze umowy, nieodpłatnie przekazać na własność:
 
-- **1)** jednostce samorządu terytorialnego: poz. 274 oraz z 2025 r. poz. 680), poz. 680),
+- **1)** jednostce samorządu terytorialnego: poz. 274 oraz z 2025 r. poz. 680), z 2024 r. poz. 1190, 1473 i 1717 oraz z 2025 r. poz. 680),
     - **a)** na cele związane z realizacją inwestycji w rozumieniu przepisów ustawy z dnia 8 lipca 2010 r. o szczególnych zasadach przygotowania do realizacji inwestycji w zakresie budowli przeciwpowodziowych (Dz. U. z 2024 r.
-    - **b)** w celu umożliwienia realizacji miejscowego planu odbudowy, o którym mowa w ustawie z dnia 11 sierpnia 2001 r. o szczególnych zasadach odbudowy, remontów, przebudowy i rozbiórek obiektów budowlanych zniszczonych lub uszkodzonych w wyniku działania żywiołu (Dz. U. z 2024 r. poz. 1190, 1473 i 1717 oraz z 2025 r.
-    - **c)** na cele służące wykonywaniu zadań realizowanych przez te jednostki pod warunkiem że jest to zgodne z ustaleniami miejscowego planu zagospodarowania przestrzennego, miejscowego planu rewitalizacji, ostateczną decyzją o warunkach zabudowy i zagospodarowania terenu, a w przypadku braku miejscowego planu lub ostatecznej decyzji o warunkach zabudowy i zagospodarowania terenu z ustaleniami planu ogólnego gminy z tym że w przypadku nieruchomości o powierzchni co najmniej 2 ha za uprzednią zgodą ministra właściwego do spraw rozwoju wsi;
+    - **b)** w celu umożliwienia realizacji miejscowego planu odbudowy, o którym mowa w ustawie z dnia 11 sierpnia 2001 r. o szczególnych zasadach odbudowy, remontów, przebudowy i rozbiórek obiektów budowlanych zniszczonych lub uszkodzonych w wyniku działania żywiołu (Dz. U.
+    - **c)** na cele służące wykonywaniu zadań realizowanych przez te jednostki – pod warunkiem że jest to zgodne z ustaleniami miejscowego planu zagospodarowania przestrzennego, miejscowego planu rewitalizacji, ostateczną decyzją o warunkach zabudowy i zagospodarowania terenu, a w przypadku braku miejscowego planu lub ostatecznej decyzji o warunkach zabudowy i zagospodarowania terenu – z ustaleniami planu ogólnego gminy – z tym że w przypadku nieruchomości o powierzchni co najmniej 2 ha – za uprzednią zgodą ministra właściwego do spraw rozwoju wsi;
 
 - **2)** (uchylony)
-- **3)** osobom bezrobotnym bez prawa do zasiłku, które przez okres co najmniej 5 lat były pracownikami państwowych przedsiębiorstw gospodarki rolnej nieruchomości rolne o powierzchni do 2 hektarów na cele związane z zalesianiem, o którym mowa w przepisach ustawy z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. z 2023 r. poz. 2298).
+- **3)** osobom bezrobotnym bez prawa do zasiłku, które przez okres co najmniej 5 lat były pracownikami państwowych przedsiębiorstw gospodarki rolnej – nieruchomości rolne o powierzchni do 2 hektarów – na cele związane z zalesianiem, o którym mowa w przepisach ustawy z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. z 2023 r. poz. 2298).
 
 5a. W przypadku gdy nabywca, o którym mowa w ust. 5:
 
 - **1)** przed upływem 10 lat, licząc od dnia nabycia nieruchomości, zbył lub przeznaczył tę nieruchomość na inne cele niż określone w umowie,
-- **2)** w okresie 10 lat od dnia nabycia nieruchomości nie wykorzystał jej na cele określone w umowie Krajowy Ośrodek występuje do tego nabywcy z żądaniem zwrotu aktualnej wartości pieniężnej tej nieruchomości, ustalonej według zasad określonych w art. 30 ust. 1, natomiast od osób wymienionych w ust. 5 pkt 3 Krajowemu Ośrodkowi zwrot taki przysługuje, o ile Lasy Państwowe nie skorzystają z prawa pierwokupu. W przypadku zamiaru zbycia gruntu przez osoby wymienione w ust. 5 pkt 3 Lasom Państwowym przysługuje prawo pierwokupu tej nieruchomości, na zasadach określonych w przepisach o gospodarce nieruchomościami. 5aa. Krajowy Ośrodek może odstąpić od żądania, o którym mowa w ust. 5a, w przypadku gdy:
+- **2)** w okresie 10 lat od dnia nabycia nieruchomości nie wykorzystał jej na cele określone w umowie – Krajowy Ośrodek występuje do tego nabywcy z żądaniem zwrotu aktualnej wartości pieniężnej tej nieruchomości, ustalonej według zasad określonych w art. 30 ust. 1, natomiast od osób wymienionych w ust. 5 pkt 3 Krajowemu Ośrodkowi zwrot taki przysługuje, o ile Lasy Państwowe nie skorzystają z prawa pierwokupu. W przypadku zamiaru zbycia gruntu przez osoby wymienione w ust. 5 pkt 3 Lasom Państwowym przysługuje prawo pierwokupu tej nieruchomości, na zasadach określonych w przepisach o gospodarce nieruchomościami. 5aa. Krajowy Ośrodek może odstąpić od żądania, o którym mowa w ust. 5a, w przypadku gdy:
 - **1)** nieruchomość zostanie wykorzystana przez jednostkę samorządu terytorialnego na inny cel niż określony w umowie, jeżeli cel ten mieści się w zakresie określonym w ust. 5 pkt 1 lub
 - **2)** nieruchomość zostanie przekazana na cele publiczne, o których mowa w art. 6 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami nieodpłatnie, albo za odpłatnością stanowiącą równowartość poniesionych przez jednostkę samorządu terytorialnego udokumentowanych nakładów na przekazaną nieruchomość, lub
 - **3)** nastąpi zwrot do Zasobu nieruchomości będącej przedmiotem nieodpłatnego przekazania.
 
-5b. (uchylony) 5c. Krajowy Ośrodek może, w drodze umowy, nieodpłatnie przekazać na własność jednostce samorządu terytorialnego nieruchomości wchodzące w skład Zasobu, zajęte pod drogi gminne, powiatowe i wojewódzkie oraz grunty faktycznie wykorzystywane jako drogi. Krajowy Ośrodek może przekazać również inne grunty z przeznaczeniem na te cele, pod warunkiem że jest to zgodne z ustaleniami miejscowego planu zagospodarowania przestrzennego, miejscowego planu rewitalizacji, miejscowego planu odbudowy lub ostateczną decyzją o warunkach zabudowy i zagospodarowania terenu, a w przypadku braku miejscowego planu lub ostatecznej decyzji o warunkach zabudowy i zagospodarowania terenu z ustaleniami planu ogólnego gminy.
+5b. (uchylony) 5c. Krajowy Ośrodek może, w drodze umowy, nieodpłatnie przekazać na własność jednostce samorządu terytorialnego nieruchomości wchodzące w skład Zasobu, zajęte pod drogi gminne, powiatowe i wojewódzkie oraz grunty faktycznie wykorzystywane jako drogi. Krajowy Ośrodek może przekazać również inne grunty z przeznaczeniem na te cele, pod warunkiem że jest to zgodne z ustaleniami miejscowego planu zagospodarowania przestrzennego, miejscowego planu rewitalizacji, miejscowego planu odbudowy lub ostateczną decyzją o warunkach zabudowy i zagospodarowania terenu, a w przypadku braku miejscowego planu lub ostatecznej decyzji o warunkach zabudowy i zagospodarowania terenu – z ustaleniami planu ogólnego gminy.
 
 5d. Krajowy Ośrodek, za zgodą ministra właściwego do spraw rozwoju wsi, może bez przeprowadzenia przetargu, w drodze umowy, wydzierżawić lub wynająć nieruchomości wchodzące w skład Zasobu:
 
-- **1)** jednostce samorządu terytorialnego na cele związanie z realizacją i rozbudową obiektów użyteczności publicznej, tworzeniem nowych miejsc pracy oraz rozwojem lokalnym realizowanym przez jednostki samorządu terytorialnego, w tym w ramach partnerstwa publiczno-prywatnego, pod warunkiem że jest to zgodne z ustaleniami miejscowego planu zagospodarowania przestrzennego, miejscowego planu rewitalizacji, miejscowego planu odbudowy lub ostateczną decyzją o warunkach zabudowy i zagospodarowania terenu, a w przypadku braku miejscowego planu lub ostatecznej decyzji o warunkach zabudowy i zagospodarowania terenu z ustaleniami planu ogólnego gminy;
+- **1)** jednostce samorządu terytorialnego na cele związanie z realizacją i rozbudową obiektów użyteczności publicznej, tworzeniem nowych miejsc pracy oraz rozwojem lokalnym realizowanym przez jednostki samorządu terytorialnego, w tym w ramach partnerstwa publiczno-prywatnego, pod warunkiem że jest to zgodne z ustaleniami miejscowego planu zagospodarowania przestrzennego, miejscowego planu rewitalizacji, miejscowego planu odbudowy lub ostateczną decyzją o warunkach zabudowy i zagospodarowania terenu, a w przypadku braku miejscowego planu lub ostatecznej decyzji o warunkach zabudowy i zagospodarowania terenu – z ustaleniami planu ogólnego gminy;
 - **2)** państwowej osobie prawnej na cele związane z realizacją jej zadań statutowych.
 
 6. Z zastrzeżeniem art. 44 ust. 1, urządzenia, obiekty i sieci: energetyczne, wodnokanalizacyjne, ciepłownicze oraz telekomunikacyjne Krajowy Ośrodek może w drodze umowy przekazać, wraz z niezbędnymi gruntami, na własność jednostkom prowadzącym działalność w tym zakresie. Przekazanie na rzecz jednostek państwowych i komunalnych może nastąpić nieodpłatnie.
@@ -451,14 +449,14 @@ z 2024 r. poz. 589), z uwzględnieniem zmian wprowadzonych:
 
 - **1)** ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa lub
 - **2)** organu założycielskiego lub organu nadzorującego państwową osobę prawną lub państwową jednostkę organizacyjną, lub
-- **3)** państwowej osoby prawnej lub państwowej jednostki organizacyjnej w przypadku gdy organem założycielskim lub organem nadzorującym ten podmiot jest minister właściwy do spraw rozwoju wsi złożony do ministra właściwego do spraw rozwoju wsi za pośrednictwem Dyrektora Generalnego Krajowego Ośrodka.
+- **3)** państwowej osoby prawnej lub państwowej jednostki organizacyjnej – w przypadku gdy organem założycielskim lub organem nadzorującym ten podmiot jest minister właściwy do spraw rozwoju wsi – złożony do ministra właściwego do spraw rozwoju wsi za pośrednictwem Dyrektora Generalnego Krajowego Ośrodka.
 
 1b. Dyrektor Generalny Krajowego Ośrodka wydaje opinię w sprawie możliwości przekazania nieruchomości wchodzących w skład Zasobu na wyposażenie lub doposażenie państwowej osoby prawnej lub państwowej jednostki organizacyjnej, a następnie przekazuje ją wraz z wnioskiem, o którym mowa w ust. 1a, ministrowi właściwemu do spraw rozwoju wsi.
 
 2. W przypadku gdy nabywca, o którym mowa w ust. 1:
 
 - **1)** przed upływem 10 lat, licząc od dnia nabycia nieruchomości, zbył lub przeznaczył tę nieruchomość na inne cele niż określone w umowie,
-- **2)** w okresie 10 lat nie wykorzystał jej na cele określone w umowie Krajowy Ośrodek występuje do tego podmiotu z żądaniem zwrotu aktualnej wartości pieniężnej tej nieruchomości, ustalonej według zasad określonych w przepisach o gospodarce nieruchomościami.
+- **2)** w okresie 10 lat nie wykorzystał jej na cele określone w umowie – Krajowy Ośrodek występuje do tego podmiotu z żądaniem zwrotu aktualnej wartości pieniężnej tej nieruchomości, ustalonej według zasad określonych w przepisach o gospodarce nieruchomościami.
 
 **Art. 24b.**
 
@@ -530,7 +528,7 @@ z 2024 r. poz. 589), z uwzględnieniem zmian wprowadzonych:
 - **3)** oznaczenie księgi wieczystej prowadzonej dla nieruchomości;
 - **4)** opis budynków i innych składników majątkowych przeznaczonych do sprzedaży;
 - **5)** cenę nieruchomości określoną na podstawie art. 30;
-- **6)** przeznaczenie nieruchomości w miejscowym planie zagospodarowania przestrzennego, a w przypadku braku tego planu profil funkcjonalny strefy planistycznej obejmującej nieruchomość w planie ogólnym gminy.
+- **6)** przeznaczenie nieruchomości w miejscowym planie zagospodarowania przestrzennego, a w przypadku braku tego planu – profil funkcjonalny strefy planistycznej obejmującej nieruchomość w planie ogólnym gminy.
 
 3. Informację o zamiarze sprzedaży nieruchomości, której wartość szacunkowa przekracza równowartość dziesięciu tysięcy kwintali żyta, ustaloną stosownie do przepisów o podatku rolnym, Krajowy Ośrodek ogłasza w prasie o zasięgu co najmniej wojewódzkim.
 
@@ -568,8 +566,8 @@ z 2024 r. poz. 589), z uwzględnieniem zmian wprowadzonych:
 
 1a. (uchylony) 1aa. Do okresu, o którym mowa w ust. 1 pkt 3, dolicza się:
 
-- **1)** okres umowy dzierżawy, z przedmiotu której wyłączono całość lub część gruntów w przypadku wydzierżawienia na podstawie art. 39 ust. 2 pkt 6 lub 7;
-- **2)** okres dzierżawy dotychczasowego dzierżawcy w przypadku zmiany dzierżawcy dokonanej na podstawie art. 39c. 1ab. Jeżeli nabywana nieruchomość rolna ma wejść w skład wspólności majątkowej małżeńskiej, wystarczające jest, gdy pierwszeństwo określone w ust. 1 pkt 3 przysługuje jednemu z małżonków.
+- **1)** okres umowy dzierżawy, z przedmiotu której wyłączono całość lub część gruntów – w przypadku wydzierżawienia na podstawie art. 39 ust. 2 pkt 6 lub 7;
+- **2)** okres dzierżawy dotychczasowego dzierżawcy – w przypadku zmiany dzierżawcy dokonanej na podstawie art. 39c. 1ab. Jeżeli nabywana nieruchomość rolna ma wejść w skład wspólności majątkowej małżeńskiej, wystarczające jest, gdy pierwszeństwo określone w ust. 1 pkt 3 przysługuje jednemu z małżonków.
 
 1b. Nabycie nieruchomości, o których mowa w ust. 1, następuje po cenie ustalonej zgodnie z art. 30.
 
@@ -585,7 +583,7 @@ z 2024 r. poz. 589), z uwzględnieniem zmian wprowadzonych:
 
 1h. Nieruchomość Zasobu lub jej część może być sprzedana bez przetargu, jeżeli może poprawić warunki zagospodarowania nieruchomości przyległej stanowiącej własność osoby chcącej nabyć tę nieruchomość lub jej część, o ile nieruchomość ta nie może być zagospodarowana samodzielnie.
 
-2. Nieruchomości, które nie zostały sprzedane na zasadach określonych w przepisach ust. 1, art. 17a i art. 42 albo co do których przepisy te nie mają zastosowania, podlegają sprzedaży w trybie publicznego przetargu ustnego (licytacja), z tym że nieruchomości rolne o powierzchni od 1 ha oraz nieruchomości, które w miejscowym planie zagospodarowania przestrzennego, miejscowym planie rewitalizacji albo miejscowym planie odbudowy są przeznaczone na cele rolne lub w przypadku których w ostatecznej decyzji o warunkach zabudowy i zagospodarowania terenu sposób zagospodarowania i warunki zabudowy terenu, na którym te nieruchomości są położone, określony został jako rolny, a w przypadku braku miejscowego planu lub ostatecznej decyzji o warunkach zabudowy i zagospodarowania terenu które w planie ogólnym gminy są położone w strefie wielofunkcyjnej z zabudową zagrodową, w strefie produkcji rolniczej lub strefie otwartej, podlegają w pierwszej kolejności sprzedaży w trybie przetargu, w którym mogą uczestniczyć wyłącznie podmioty, o których mowa w ust. 3b.
+2. Nieruchomości, które nie zostały sprzedane na zasadach określonych w przepisach ust. 1, art. 17a i art. 42 albo co do których przepisy te nie mają zastosowania, podlegają sprzedaży w trybie publicznego przetargu ustnego (licytacja), z tym że nieruchomości rolne o powierzchni od 1 ha oraz nieruchomości, które w miejscowym planie zagospodarowania przestrzennego, miejscowym planie rewitalizacji albo miejscowym planie odbudowy są przeznaczone na cele rolne lub w przypadku których w ostatecznej decyzji o warunkach zabudowy i zagospodarowania terenu sposób zagospodarowania i warunki zabudowy terenu, na którym te nieruchomości są położone, określony został jako rolny, a w przypadku braku miejscowego planu lub ostatecznej decyzji o warunkach zabudowy i zagospodarowania terenu – które w planie ogólnym gminy są położone w strefie wielofunkcyjnej z zabudową zagrodową, w strefie produkcji rolniczej lub strefie otwartej, podlegają w pierwszej kolejności sprzedaży w trybie przetargu, w którym mogą uczestniczyć wyłącznie podmioty, o których mowa w ust. 3b.
 
 3. Krajowy Ośrodek może przeprowadzić przetarg ofert pisemnych (konkurs ofert) na sprzedaż nieruchomości rolnych, w którym:
 
@@ -610,8 +608,8 @@ z 2024 r. poz. 589), z uwzględnieniem zmian wprowadzonych:
 - **8)** rolnicy indywidualni, którzy zbyli nieruchomość rolną na cele związane z realizacją Inwestycji lub Inwestycji Towarzyszącej w rozumieniu ustawy z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym lub zostali wywłaszczeni na cele określone w tej ustawie, oraz osoby, które utraciły status rolnika indywidualnego w wyniku zbycia nieruchomości na cele określone w tej ustawie lub zostały wywłaszczone na te cele. 3ba. W przetargach ograniczonych skierowanych do podmiotów, o których mowa w ust. 3b, nie może uczestniczyć podmiot, który:
 - **1)** kiedykolwiek nabył z Zasobu nieruchomości o powierzchni łącznej co najmniej 300 ha użytków rolnych, przy czym do powierzchni tej wlicza się powierzchnię użytków rolnych, które zostały nabyte z Zasobu, a następnie zbyte, chyba że zbycie nastąpiło na cele publiczne, o których mowa w art. 6 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, lub
 - **2)** naruszył chociażby jedno z postanowień umowy określonych w art. 29a ust. 1 pkt 1 lub 2, lub 3, lub
-- **3)** w dniu opublikowania wykazu, o którym mowa w art. 28 ust. 1, na stronie podmiotowej Biuletynu Informacji Publicznej Krajowego Ośrodka posiadał udziały lub akcje w spółkach handlowych będących właścicielami nieruchomości rolnych lub w spółce zależnej lub dominującej, w rozumieniu ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96), w stosunku do takiej spółki, z wyjątkiem: 3bb. Krajowy Ośrodek może organizować przetargi, o których mowa w ust. 3b, w których oprócz:
-    - **a)** akcji dopuszczonych do obrotu na rynku giełdowym w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2024 r. poz. 722 i 1863 oraz z 2025 r. poz. 146),
+- **3)** w dniu opublikowania wykazu, o którym mowa w art. 28 ust. 1, na stronie podmiotowej Biuletynu Informacji Publicznej Krajowego Ośrodka posiadał udziały lub akcje w spółkach handlowych będących właścicielami nieruchomości rolnych lub w spółce zależnej lub dominującej, w rozumieniu ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96), w stosunku do takiej spółki, z wyjątkiem: z 2024 r. poz. 722 i 1863 oraz z 2025 r. poz. 146), 3bb. Krajowy Ośrodek może organizować przetargi, o których mowa w ust. 3b, w których oprócz:
+    - **a)** akcji dopuszczonych do obrotu na rynku giełdowym w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U.
     - **b)** akcji lub udziałów w spółce, będącej grupą producentów rolnych, o której mowa w ustawie z dnia 15 września 2000 r. o grupach producentów rolnych i ich związkach oraz o zmianie innych ustaw (Dz. U. z 2023 r. poz. 1145).
 
 - **1)** rolników indywidualnych, o których mowa w ust. 3b pkt 1, może uczestniczyć również osoba, która nie spełnia wymogu dotyczącego okresu osobistego prowadzenia gospodarstwa rolnego lub wymogu dotyczącego okresu zamieszkiwania, określonych w art. 6 ust. 1 ustawy z dnia 11 kwietnia 2003 r. o kształtowaniu ustroju rolnego, w przypadku gdy osoba ta:
@@ -653,9 +651,9 @@ z 2024 r. poz. 589), z uwzględnieniem zmian wprowadzonych:
 
 9. Dyrektor oddziału terenowego Krajowego Ośrodka:
 
-- **1)** powtarza czynności przetargowe albo unieważnia przetarg w przypadku uwzględnienia choćby jednego z zastrzeżeń, o których mowa w ust. 6 i 7;
-- **2)** oddala zastrzeżenia w przypadku ich nieuwzględnienia;
-- **3)** pozostawia zastrzeżenia bez rozpoznania w przypadku ich wniesienia po terminie, o którym mowa w ust. 6 i 7, albo przez osobę inną niż osoba, która zgłosiła zamiar uczestniczenia w przetargu, lub uczestnik przetargu.
+- **1)** powtarza czynności przetargowe albo unieważnia przetarg – w przypadku uwzględnienia choćby jednego z zastrzeżeń, o których mowa w ust. 6 i 7;
+- **2)** oddala zastrzeżenia – w przypadku ich nieuwzględnienia;
+- **3)** pozostawia zastrzeżenia bez rozpoznania – w przypadku ich wniesienia po terminie, o którym mowa w ust. 6 i 7, albo przez osobę inną niż osoba, która zgłosiła zamiar uczestniczenia w przetargu, lub uczestnik przetargu.
 
 10. Rozstrzygnięcie, o którym mowa w ust. 9, doręcza się osobie, która wniosła zastrzeżenia i zamieszcza się je na stronie podmiotowej Biuletynu Informacji Publicznej Krajowego Ośrodka. Uważa się, że rozstrzygnięcie, o którym mowa w ust. 9, zostało doręczone osobie, która wniosła zastrzeżenie, z dniem zamieszczenia rozstrzygnięcia na stronie podmiotowej Biuletynu Informacji Publicznej Krajowego Ośrodka.
 
@@ -665,7 +663,7 @@ z 2024 r. poz. 589), z uwzględnieniem zmian wprowadzonych:
 
 - **1)** utrzymuje w mocy rozstrzygnięcie dyrektora oddziału terenowego Krajowego Ośrodka;
 - **2)** zarządza powtórzenie czynności przetargowych przez dyrektora oddziału terenowego Krajowego Ośrodka albo unieważnia przetarg;
-- **3)** pozostawia zastrzeżenia bez rozpoznania w przypadku wniesienia zastrzeżeń po terminie, o którym mowa w ust. 11, albo przez osobę inną niż wskazana w ust. 6 i 7, albo w przypadku stwierdzenia okoliczności, o których mowa w ust. 9 pkt 3.
+- **3)** pozostawia zastrzeżenia bez rozpoznania – w przypadku wniesienia zastrzeżeń po terminie, o którym mowa w ust. 11, albo przez osobę inną niż wskazana w ust. 6 i 7, albo w przypadku stwierdzenia okoliczności, o których mowa w ust. 9 pkt 3.
 
 13. Do obliczania terminów, o których mowa w ust. 6, 7 i 11, stosuje się przepisy Kodeksu postępowania administracyjnego.
 
@@ -681,26 +679,26 @@ z 2024 r. poz. 589), z uwzględnieniem zmian wprowadzonych:
     - **a)** niedotrzymania przez nabywcę nieruchomości któregokolwiek ze zobowiązań, o których mowa w pkt 1 i 2, albo
     - **b)** złożenia nieprawdziwego oświadczenia, o którym mowa w art. 29b ust. 1.
 
-1a. Przepisu ust. 1 nie stosuje się do umowy sprzedaży nieruchomości rolnej, która w miejscowym planie zagospodarowania przestrzennego, miejscowym planie rewitalizacji albo miejscowym planie odbudowy jest przeznaczona na cele inne niż rolne lub w przypadku której w ostatecznej decyzji o warunkach zabudowy i zagospodarowania terenu sposób zagospodarowania i warunki zabudowy terenu, na którym ta nieruchomość jest położona, określony został jako inny niż rolny, a w przypadku braku miejscowego planu lub ostatecznej decyzji o warunkach zabudowy i zagospodarowania terenu która objęta jest w planie ogólnym gminy inną strefą planistyczną niż strefa wielofunkcyjna z zabudową zagrodową, strefa produkcji rolniczej lub strefa otwarta.
+1a. Przepisu ust. 1 nie stosuje się do umowy sprzedaży nieruchomości rolnej, która w miejscowym planie zagospodarowania przestrzennego, miejscowym planie rewitalizacji albo miejscowym planie odbudowy jest przeznaczona na cele inne niż rolne lub w przypadku której w ostatecznej decyzji o warunkach zabudowy i zagospodarowania terenu sposób zagospodarowania i warunki zabudowy terenu, na którym ta nieruchomość jest położona, określony został jako inny niż rolny, a w przypadku braku miejscowego planu lub ostatecznej decyzji o warunkach zabudowy i zagospodarowania terenu – która objęta jest w planie ogólnym gminy inną strefą planistyczną niż strefa wielofunkcyjna z zabudową zagrodową, strefa produkcji rolniczej lub strefa otwarta.
 
 2. Do osobistego prowadzenia działalności rolniczej, o której mowa w ust. 1 pkt 1, stosuje się odpowiednio przepis art. 2a pkt 6.
 
 3. Umowa, o której mowa w ust. 1, zawiera zastrzeżenie, że postanowienia, o którym mowa w ust. 1 pkt 3, nie stosuje się w przypadku:
 
 - **1)** przeniesienia własności nieruchomości nabytej z Zasobu:
-    - **a)** na rzecz zstępnego, wstępnego, przysposobionego lub przysposabiającego, a w przypadku ich braku krewnego w linii bocznej albo
+    - **a)** na rzecz zstępnego, wstępnego, przysposobionego lub przysposabiającego, a w przypadku ich braku – krewnego w linii bocznej albo
     - **b)** za pisemną zgodą Krajowego Ośrodka;
 
 - **2)** udzielenia pisemnej zgody przez Krajowy Ośrodek na ustanowienie hipoteki na nieruchomości nabytej z Zasobu.
 
 4. Krajowy Ośrodek może wyrazić zgodę na:
 
-- **1)** przeniesienie własności nieruchomości nabytej z Zasobu w przypadku gdy nabywca nieruchomości jest osobą fizyczną:
+- **1)** przeniesienie własności nieruchomości nabytej z Zasobu – w przypadku gdy nabywca nieruchomości jest osobą fizyczną:
     - **a)** zamierzającą powiększyć gospodarstwo rodzinne albo
     - **b)** posiadającą kwalifikacje rolnicze i zamierzającą utworzyć gospodarstwo rodzinne, albo
     - **c)** której przyznano pomoc finansową, o której mowa w art. 3 ust. 1 pkt 6 lit. a ustawy z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020;
 
-- **2)** ustanowienie hipoteki na nieruchomości nabytej z Zasobu w przypadku gdy hipoteka ma stanowić zabezpieczenie spłaty kredytu zaciąganego na:
+- **2)** ustanowienie hipoteki na nieruchomości nabytej z Zasobu – w przypadku gdy hipoteka ma stanowić zabezpieczenie spłaty kredytu zaciąganego na:
     - **a)** zakup nieruchomości rolnej na powiększenie gospodarstwa rodzinnego lub
     - **b)** zakup inwentarza żywego lub maszyn i urządzeń służących do prowadzenia gospodarstwa rodzinnego, lub
     - **c)** budowę, rozbudowę lub modernizację budynków służących prowadzeniu produkcji rolniczej, lub
@@ -781,7 +779,7 @@ z 2024 r. poz. 589), z uwzględnieniem zmian wprowadzonych:
 
 - **1)** dokumenty, jakie nabywca nieruchomości składa w celu ustalenia, czy jego sytuacja pozwala na spłatę należności rozłożonej na raty i na zabezpieczenie spłaty kwoty tej należności,
 - **2)** szczegółowe warunki rozkładania spłaty należności na raty,
-- **3)** wysokość oprocentowania należności, której spłata została rozłożona na raty mając na względzie należyte zabezpieczenie spłaty należności rozłożonej na roczne lub półroczne raty.
+- **3)** wysokość oprocentowania należności, której spłata została rozłożona na raty – mając na względzie należyte zabezpieczenie spłaty należności rozłożonej na roczne lub półroczne raty.
 
 **Art. 32.** Minister właściwy do spraw rozwoju wsi określi, w drodze rozporządzenia:
 
@@ -789,8 +787,8 @@ z 2024 r. poz. 589), z uwzględnieniem zmian wprowadzonych:
 
 1. Krajowy Ośrodek, za zgodą ministra właściwego do spraw rozwoju wsi wydaną na uzasadniony wniosek Dyrektora Generalnego Krajowego Ośrodka, może:
 
-- **1)** obejmować lub nabywać, a na wniosek ministra właściwego do spraw rozwoju wsi obejmuje lub nabywa, odpłatnie albo nieodpłatnie akcje lub udziały w spółkach handlowych,
-- **2)** nabywać, a na wniosek ministra właściwego do spraw rozwoju wsi nabywa, odpłatnie albo nieodpłatnie nieruchomości lub ich części oraz przedsiębiorstwa lub zorganizowane części przedsiębiorstw w rozumieniu Kodeksu cywilnego na własność Skarbu Państwa, jeżeli wymaga tego realizacja zadań wynikających z polityki państwa w zakresie wdrażania i stosowania instrumentów wsparcia rolnictwa, aktywnej polityki rolnej, rozwoju obszarów wiejskich oraz wspierania rozwoju sektora rolno-spożywczego.
+- **1)** obejmować lub nabywać, a na wniosek ministra właściwego do spraw rozwoju wsi – obejmuje lub nabywa, odpłatnie albo nieodpłatnie akcje lub udziały w spółkach handlowych,
+- **2)** nabywać, a na wniosek ministra właściwego do spraw rozwoju wsi – nabywa, odpłatnie albo nieodpłatnie nieruchomości lub ich części oraz przedsiębiorstwa lub zorganizowane części przedsiębiorstw w rozumieniu Kodeksu cywilnego – na własność Skarbu Państwa, jeżeli wymaga tego realizacja zadań wynikających z polityki państwa w zakresie wdrażania i stosowania instrumentów wsparcia rolnictwa, aktywnej polityki rolnej, rozwoju obszarów wiejskich, wspierania rozwoju sektora rolno-spożywczego, a także wsparcia działań na rzecz odnawialnych źródeł energii, w szczególności w rolnictwie.
 
 1a. W przypadku nabycia, w trybie określonym w ust. 1, prawa użytkowania wieczystego ustanowionego na nieruchomości Skarbu Państwa prawo to wygasa, a nieruchomość ta wchodzi w skład Zasobu.
 
@@ -859,11 +857,11 @@ z 2024 r. poz. 589), z uwzględnieniem zmian wprowadzonych:
 
 2. Decyzja o wygaśnięciu zarządu przysługującego jednostkom organizacyjnym:
 
-- **1)** resortu obrony narodowej wymaga zgody Ministra Obrony Narodowej lub upoważnionego przez niego organu;
-- **2)** Policji, Państwowej Straży Pożarnej, Straży Granicznej lub jednostkom wojskowym podległym ministrowi właściwemu do spraw wewnętrznych wymaga zgody ministra właściwego do spraw wewnętrznych;
-- **3)** Agencji Bezpieczeństwa Wewnętrznego wymaga zgody Szefa Agencji Bezpieczeństwa Wewnętrznego;
-- **4)** Agencji Wywiadu wymaga zgody Szefa Agencji Wywiadu;
-- **5)** Centralnego Biura Antykorupcyjnego wymaga zgody Szefa Centralnego Biura Antykorupcyjnego.
+- **1)** resortu obrony narodowej – wymaga zgody Ministra Obrony Narodowej lub upoważnionego przez niego organu;
+- **2)** Policji, Państwowej Straży Pożarnej, Straży Granicznej lub jednostkom wojskowym podległym ministrowi właściwemu do spraw wewnętrznych – wymaga zgody ministra właściwego do spraw wewnętrznych;
+- **3)** Agencji Bezpieczeństwa Wewnętrznego – wymaga zgody Szefa Agencji Bezpieczeństwa Wewnętrznego;
+- **4)** Agencji Wywiadu – wymaga zgody Szefa Agencji Wywiadu;
+- **5)** Centralnego Biura Antykorupcyjnego – wymaga zgody Szefa Centralnego Biura Antykorupcyjnego.
 
 3. Przepisy ust. 1 i 2 stosuje się również do nieruchomości rolnych pozostających w zarządzie państwowych jednostek organizacyjnych nieposiadających osobowości prawnej, które nabyły te nieruchomości na własność Skarbu Państwa.
 
@@ -912,7 +910,7 @@ z 2024 r. poz. 589), z uwzględnieniem zmian wprowadzonych:
 
 **Art. 38b.**
 
-1. Krajowy Ośrodek, w drodze umowy, oddaje do odpłatnego korzystania nieruchomości Zasobu przedsiębiorcy posiadającemu koncesję na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża albo koncesję na wydobywanie węglowodorów ze złoża udzieloną na podstawie ustawy z dnia 9 czerwca 2011 r. Prawo geologiczne i górnicze (Dz. U. z 2024 r. poz. 1290), na czas nie dłuższy niż czas obowiązywania koncesji.
+1. Krajowy Ośrodek, w drodze umowy, oddaje do odpłatnego korzystania nieruchomości Zasobu przedsiębiorcy posiadającemu koncesję na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża albo koncesję na wydobywanie węglowodorów ze złoża udzieloną na podstawie ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2024 r. poz. 1290), na czas nie dłuższy niż czas obowiązywania koncesji.
 
 2. Umowa, o której mowa w ust. 1, określa w szczególności:
 
@@ -932,7 +930,7 @@ z 2024 r. poz. 589), z uwzględnieniem zmian wprowadzonych:
 
 6. W przypadku przeniesienia koncesji, o której mowa w ust. 1, przedsiębiorca, na rzecz którego została przeniesiona koncesja wstępuje z mocy prawa w prawa i obowiązki wynikające z umowy, o której mowa w ust. 1.
 
-7. W przypadku cofnięcia koncesji, o której mowa w ust. 1, jej wygaśnięcia lub utraty mocy, umowa, o której mowa w ust. 1, ulega rozwiązaniu. Przepis art. 39 ust. 1 ustawy z dnia 9 czerwca 2011 r. Prawo geologiczne i górnicze stosuje się.
+7. W przypadku cofnięcia koncesji, o której mowa w ust. 1, jej wygaśnięcia lub utraty mocy, umowa, o której mowa w ust. 1, ulega rozwiązaniu. Przepis art. 39 ust. 1 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze stosuje się.
 
 **Art. 38c.** Krajowy Ośrodek może udzielić zezwolenia na czasowe zajęcie nieruchomości wchodzących w skład Zasobu na potrzeby wskazane przez inwestora we wniosku o zajęcie nieruchomości. Przepisy Kodeksu cywilnego dotyczące najmu stosuje się odpowiednio.
 
@@ -956,7 +954,7 @@ z 2024 r. poz. 589), z uwzględnieniem zmian wprowadzonych:
     - **c)** dokonane wpłaty pieniężne na kapitał zakładowy albo akcyjny spółki wynoszą co najmniej 20 % wartości majątku obrotowego i ruchomych środków trwałych, wykazanej w bilansie gospodarstwa za rok obrotowy poprzedzający rok, w którym ma być zawarta umowa dzierżawy,
     - **d)** co najmniej 20 % udziałów lub akcji w spółce zostało objętych przez administratora albo przez pracownika gospodarstwa lub jedną z tych osób łącznie z inną osobą niezatrudnioną w gospodarstwie;
 
-- **6)** wydzierżawienie następuje w związku z wyłączeniem, za zgodą dzierżawcy, z przedmiotu umowy dzierżawy całości gruntów albo ich części, które w miejscowym planie zagospodarowania przestrzennego, miejscowym planie rewitalizacji albo miejscowym planie odbudowy są przeznaczone na cele inne niż rolne lub w przypadku których w ostatecznej decyzji o warunkach zabudowy i zagospodarowania terenu sposób zagospodarowania i warunki zabudowy terenu, na którym te grunty są położone, określony został jako inny niż rolny, a w przypadku braku miejscowego planu lub ostatecznej decyzji o warunkach zabudowy i zagospodarowania terenu które objęte są w planie ogólnym gminy inną strefą planistyczną niż strefa wielofunkcyjna z zabudową zagrodową, strefa produkcji rolniczej lub strefa otwarta, z zastrzeżeniem że powierzchnia wydzierżawianej bez przetargu nieruchomości wyrażona w hektarach przeliczeniowych nie powinna być większa od wyłączonej z umowy dzierżawy;
+- **6)** wydzierżawienie następuje w związku z wyłączeniem, za zgodą dzierżawcy, z przedmiotu umowy dzierżawy całości gruntów albo ich części, które w miejscowym planie zagospodarowania przestrzennego, miejscowym planie rewitalizacji albo miejscowym planie odbudowy są przeznaczone na cele inne niż rolne lub w przypadku których w ostatecznej decyzji o warunkach zabudowy i zagospodarowania terenu sposób zagospodarowania i warunki zabudowy terenu, na którym te grunty są położone, określony został jako inny niż rolny, a w przypadku braku miejscowego planu lub ostatecznej decyzji o warunkach zabudowy i zagospodarowania terenu – które objęte są w planie ogólnym gminy inną strefą planistyczną niż strefa wielofunkcyjna z zabudową zagrodową, strefa produkcji rolniczej lub strefa otwarta, z zastrzeżeniem że powierzchnia wydzierżawianej bez przetargu nieruchomości wyrażona w hektarach przeliczeniowych nie powinna być większa od wyłączonej z umowy dzierżawy;
 - **7)** wydzierżawienie następuje w związku z wyłączeniem z przedmiotu umowy dzierżawy całości gruntów albo ich części w wyniku powstałego na tych gruntach, na podstawie art. 24 ust. 7 i 7c, trwałego zarządu, z zastrzeżeniem, że powierzchnia wydzierżawianej bez przetargu nieruchomości wyrażona w hektarach przeliczeniowych nie powinna być większa od wyłączonej z umowy dzierżawy;
 - **8)** umowa dzierżawy nieruchomości dotyczy nieruchomości nabytej w przypadku, o którym mowa w art. 32b ust. 1, i jest zawierana z osobą wskazaną w tym przepisie, w związku ze złożeniem na podstawie art. 32b ust. 3 wniosku o wydzierżawienie tej osobie zbywanej nieruchomości bez przetargu;
 - **9)** przedmiotem dzierżawy ma być przedsiębiorstwo lub zorganizowana część przedsiębiorstwa w rozumieniu Kodeksu cywilnego, które zostały nabyte w trybie określonym w art. 32a ust. 1.
@@ -970,7 +968,7 @@ z 2024 r. poz. 589), z uwzględnieniem zmian wprowadzonych:
 
 - **1)** niezłożenia oświadczenia, o którym mowa w ust. 2 pkt 1, najpóźniej na trzy miesiące przed zakończeniem dzierżawy i nieuzgodnienia nowych warunków dzierżawy w terminie miesiąca od złożenia oświadczenia,
 - **2)** nieuzgodnienia warunków dzierżawy między Krajowym Ośrodkiem a podmiotami, o których mowa w ust. 2 pkt 3 i 4, w terminie trzech miesięcy od dnia ogłoszenia wykazu nieruchomości przeznaczonych do dzierżawy,
-- **3)** niezawarcia umowy dzierżawy między Krajowym Ośrodkiem a spółką, o której mowa w ust. 2 pkt 5, w terminie sześciu miesięcy od dnia ogłoszenia wykazu nieruchomości przeznaczonych do dzierżawy wydzierżawienie nieruchomości następuje na zasadach określonych w ust. 1.
+- **3)** niezawarcia umowy dzierżawy między Krajowym Ośrodkiem a spółką, o której mowa w ust. 2 pkt 5, w terminie sześciu miesięcy od dnia ogłoszenia wykazu nieruchomości przeznaczonych do dzierżawy – wydzierżawienie nieruchomości następuje na zasadach określonych w ust. 1.
 
 4a. W razie nieprzedstawienia przez Krajowy Ośrodek dotychczasowemu dzierżawcy nieruchomości stanowiska odnośnie warunków dalszego dzierżawienia tej nieruchomości, w terminie miesiąca od dnia złożenia oświadczenia, o którym mowa w ust. 2 pkt 1, domniemywa się, że Krajowy Ośrodek wyraził zgodę na dalsze dzierżawienie nieruchomości na dotychczasowych warunkach przez okres roku.
 

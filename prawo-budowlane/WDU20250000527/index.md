@@ -30,7 +30,7 @@ domain: null
 
 **Art. 2.** W ustawie z dnia 5 lipca 2018 r. ułatwieniach przygotowaniu realizacji inwestycji mieszkaniowych oraz inwestycji towarzyszących (Dz. U. z 2024 r. poz. 195) 59 wyrazy „1 stycznia 2026 r.” zastępuje wyrazami „1 lipca 2026 r.”.
 
-**Art. 3.** W ustawie z dnia 16 czerwca 2023 r. zmianie ustawy Prawo geologiczne górnicze oraz niektórych innych ustaw (Dz. U. poz. 2029) 50 4 wyrazy „1 stycznia 2026 r.” zastępuje wyrazami „1 lipca 2026 r.”.
+**Art. 3.** W ustawie z dnia 16 czerwca 2023 r. zmianie ustawy – Prawo geologiczne górnicze oraz niektórych innych ustaw (Dz. U. poz. 2029) 50 4 wyrazy „1 stycznia 2026 r.” zastępuje wyrazami „1 lipca 2026 r.”.
 
 **Art. 4.** W ustawie z dnia 7 lipca 2023 r. zmianie ustawy planowaniu zagospodarowaniu przestrzennym oraz niektórych innych ustaw (Dz. U. poz. 1688 oraz z 2024 r. poz. 1824) wprowadza następujące zmiany:
 

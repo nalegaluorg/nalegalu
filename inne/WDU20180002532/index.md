@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 31 grudnia 2018 r.
+# o zmianie ustawy o szczególnych rozwiązaniach związanych z organizacją w Rzeczypospolitej Polskiej sesji Konferencji Stron Ramowej konwencji Narodów Zjednoczonych w sprawie zmian klimatu
+
+*USTAWA z dnia 14 grudnia 2018 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +25,6 @@ domain: null
 | Data wydania | 2018-12-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002532) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2532/text.pdf) |
-
-Poz. 2532
-USTAWA z dnia 14 grudnia 2018 r.
-o zmianie ustawy o szczególnych rozwiązaniach związanych z organizacją w Rzeczypospolitej Polskiej sesji Konferencji Stron Ramowej konwencji Narodów Zjednoczonych w sprawie zmian klimatu
 
 **Art. 1.** W ustawie z dnia 10 stycznia 2018 r. o szczególnych rozwiązaniach związanych z organizacją w Rzeczypospolitej Polskiej sesji Konferencji Stron Ramowej konwencji Narodów Zjednoczonych w sprawie zmian klimatu (Dz. U. poz. 2223) w art. 32:
 

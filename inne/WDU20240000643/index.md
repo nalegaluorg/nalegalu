@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 26 kwietnia 2024 r.
+# w sprawie ogłoszenia jednolitego tekstu ustawy o przewozie towarów niebezpiecznych
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 21 marca 2024 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2024-06-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000643) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/643/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 21 marca 2024 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o przewozie towarów niebezpiecznych
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych (Dz. U. z 2022 r. poz. 2147), z uwzględnieniem zmian wprowadzonych ustawą z dnia 26 maja 2023 r. o zmianie ustawy Prawo o ruchu drogowym oraz niektórych innych ustaw (Dz. U. poz. 1123) oraz zmian wynikających z przepisów ogłoszonych przed dniem 14 marca 2024 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 19 i art. 22 ustawy z dnia 26 maja 2023 r. o zmianie ustawy Prawo o ruchu drogowym oraz niektórych innych ustaw (Dz. U. poz. 1123), które stanowią: „Art. 19. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 31 ustawy zmienianej w art. 6 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 31 ustawy zmienianej w art. 6, nie dłużej jednak niż przez okres 12 miesięcy od dnia wejścia w życie niniejszej ustawy.” „Art. 22. Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia, z wyjątkiem:
 1) art. 2 pkt 1‒5, pkt 6 w zakresie art. 27e ust. 1 pkt 1 i 3 i ust. 2–11, oraz pkt 9‒13, art. 5 pkt 16, art. 10 oraz art. 13–15, które wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia;

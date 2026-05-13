@@ -10,7 +10,7 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# UITAWA lIracy kadencji rad .nadzorczycb Za!dadu 1,Jbezpiecze4 USr AWA' z dnia 24 czerwca ,1983 '-' inspekcjI W trosce stanu 491 stwa· higieny oraz celu zapewnienia zawodowym- warunków do sprawowania' j kontr.oli przepisów prawa pracy' stanowi có :ij przestrzeganie przepisów prawa, 'Aw tym postanowień układów zbioro~ych i regulaminów' zakresie stwa l higieny ochrony kobiet, młodo -danych i osób urlopów i czasu Wacy, z przy Rozdzia1 1 Przepisy ogól.ne•
+# z dnia 24 czerwca 1983 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,34 +24,163 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19830350163) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1983/163/text.pdf) |
 
-**Art. 1.** Społeczna inspekcja jest ; ,przez pracowników, na celu pe·wnienie prZez bezpiecznych I higienie. nych warunków .piacy oraz pracowniczych. określonych prZepis~cłt praw~ ,. \ Art. inspekcja "pracy reprezentuje inte resy wszystkich pracowników i Jest 'kie,rowana przez organizacje zwifizkowe. Społecznąlnspekcję wzakładiie dla zaklddu _ ,inspektorzy pra cy dla grupowi · insp,ektorzy dla inspekcji do potrzeb ze struktury pracy., Zadania orga~h:acia .. spółecznej Inspekcji pracy• i chorób zawod()wych, ustalaniu i przyczyn wy pad,ków przy ,zgodnie. z przepisami prawa
+o społecznej inspekcji W trosce o systematyczną poprawę stanu bezpieczeństwa higieny oraz celu zapewnienia związkom zawodowym niezbędnych warunków do sprawowania skutecznej kontroli przestrzegania przepisów prawa stanowi się, co następuje:
 
-**Art. 7.**
+#### Rozdział 1 Przepisy ogólne
 
-1. Społeczny nie ze swoiCh na zasadach okreslonych wart. pr'2;ed okresu, którym mowa wart. 6 ust. 2. 'ust., I. na wniosek: organizacjj co najmniej jednej pracovmików.' inspektdr przestaje wypadku zrzeczenia jej ustania .tasunku "
+**Art. 1.** Społeczna inspekcja jest służbą społeczną pełnioną przez pracowników, mającą na celu zapewnienie przez zakłady bezpiecznych higienicznych warunków oraz ochronę uprawnień pracowniczych, określonych przepisach prawa pracy.
 
-4. W Wypadkach, kt.órych, m,owaw ust 2 i3, prze prowadza wybory inspekto ra 3 Uprawnienia zasady Inspektorów Art. 8'. 1. pracy-ma, ,prawo era'z oddzi2Ju soWriy uprs' których mowa !lrt. Kierownik ,oraz podejmuje decyzje sprawie, stwierdzonych informuje tym inspektora ')
+**Art. 2.** Społeczna inspekcja reprezentuje interesy wszystkich pracowników zakładach jest kierowana przez zakładowe organizacje związkowe.
 
-**Art. 10.** I. W razie naruszenia przez pracownika przepisów i zasad higieny' zwraca pracew nikowi na tych p:'zepisow zasad. 2. W wypadku gdy zachowanie pracownika na nowisku wskazuje na przepisów i zasad bezpie.czellstwa i higieny pracy' wykonywania pi'acy sposób' bezpieczny ,dla ,siebie innych pracowników, zwraca do kierownika komóCki orga nizacyjnej cza'sowe pracownika od tej go. 'z przepisallli zasadami 1 higieny
+**Art. 3.**
+
+1. Społeczną inspekcję zakładzie tworzą:
+
+- **1)** zakładowy społeczny inspektor – dla całego zakładu pracy;
+- **2)** oddziałowi (wydziałowi) społeczni inspektorzy – dla poszczególnych oddziałów (wydziałów);
+- **3)** grupowi społeczni inspektorzy – dla komórek organizacyjnych oddziałów (wydziałów).
+
+2. Zakładowe organizacje związkowe dostosowują organizację społecznej inspekcji do potrzeb wynikających ze struktury zakładu pracy.
+
+#### Rozdział 2 Zadania organizacja społecznej inspekcji
+
+**Art. 4.** Społeczni inspektorzy mają prawo: układów zbiorowych regulaminów pracy, szczególności zakresie bezpieczeństwa higieny pracy, uprawnień pracowników związanych z rodzicielstwem, młodocianych osób niepełnosprawnych, urlopów czasu pracy, świadczeń z tytułu wypadków przy chorób zawodowych;
+
+**Art. 5.**
+
+1. Społecznym inspektorem może być pracownik danego zakładu pracy, który jest członkiem związku zawodowego nie zajmuje stanowiska kierownika zakładu lub stanowiska kierowniczego bezpośrednio podległego kierownikowi zakładu.
+
+2. Zakładowe organizacje związkowe mogą postanowić, że społecznym inspektorem może być również pracownik zakładu niebędący członkiem związku zawodowego. zakładzie, a oddziałowy lub grupowy społeczny inspektor – co najmniej dwuletni staż tej branży co najmniej jeden rok danym zakładzie.
+
+**Art. 6.**
+
+1. Społecznych inspektorów wybierają odwołują pracownicy zakładu pracy.
+
+2. Społecznych inspektorów wybiera się na okres 4 lat.
+
+3. Zakładowych oddziałowych (wydziałowych) społecznych inspektorów wybiera:
+
+- **1)** zakładach lub oddziałach (wydziałach) liczących do 300 pracowników – ogólne zebranie pracowników zakładu lub oddziału (wydziału);
+- **2)** zakładach lub oddziałach (wydziałach) liczących powyżej 300 pracowników:
+    - **a)** zakładowego społecznego inspektora – zebranie oddziałowych (wydziałowych) grupowych społecznych inspektorów pracy,
+    - **b)** oddziałowego (wydziałowego) społecznego inspektora – zebranie grupowych społecznych inspektorów pracy.
+
+4. Grupowych społecznych inspektorów wybiera ogólne zebranie pracowników komórek organizacyjnych oddziału (wydziału).
+
+5. W zakładach, których nie wybrano grupowych społecznych inspektorów pracy, tryb wyborów społecznych inspektorów pracy, o którym mowa ust. 3 pkt 2, określają zakładowe organizacje związkowe.
+
+6. Wybory społecznych inspektorów przeprowadzają zakładowe organizacje związkowe na podstawie uchwalonych przez siebie regulaminów wyborów.
+
+7. Ogólnokrajowe organizacje związkowe mogą ustalać ramowe wytyczne do regulaminów wyborów społecznych inspektorów pracy.
+
+- **1)** zakładowych organizacji związkowych;
+- **2)** co najmniej jednej piątej pracowników.
+
+3. Społeczny inspektor przestaje pełnić swoją funkcję również wypadku zrzeczenia się jej lub ustania stosunku pracy.
+
+4. W wypadkach, o których mowa ust. 2 3, przeprowadza się uzupełniające wybory społecznego inspektora pracy.
+
+#### Rozdział 3 Uprawnienia zasady postępowania społecznych inspektorów
+
+**Art. 8.**
+
+1. Społeczny inspektor ma prawo wstępu każdym czasie do pomieszczeń urządzeń zakładu dla wykonywania zadań określonych art. 4.
+
+2. Społeczny inspektor ma prawo żądać od kierownika zakładu oraz oddziału (wydziału) od pracowników informacji oraz okazania dokumentów sprawach wchodzących zakres jego działania.
+
+3. Wykonywanie czynności, o których mowa ust. 1 2, następuje z zachowaniem przepisów o ochronie informacji niejawnych.
+
+**Art. 9.**
+
+1. W razie stwierdzenia, że nie są przestrzegane przepisy, o których mowa art. 4, społeczny inspektor informuje o tym kierownika zakładu oraz oddziału (wydziału), czyniąc jednocześnie stosowny zapis księgach, o których mowa art. 12.
+
+2. Kierownik zakładu oraz oddziału (wydziału) podejmuje decyzje sprawie usunięcia stwierdzonych nieprawidłowości informuje o tym społecznego inspektora pracy. niedostateczną znajomość przepisów zasad bezpieczeństwa higieny oraz nieumiejętność wykonywania sposób bezpieczny dla siebie lub innych pracowników, społeczny inspektor zwraca się do kierownika właściwej komórki organizacyjnej o czasowe odsunięcie pracownika od tej zapoznanie go z przepisami zasadami bezpieczeństwa higieny pracy.
 
 **Art. 11.**
 
-1. Na podstawie oddzia (w.ydzialowegcr) lub grupowego inspektora spoJeczny kierownikowi formi'e pisemnej,' zalecenie terminie stwierdzonych
+1. Na podstawie ustaleń własnych, oddziałowego (wydziałowego) lub grupowego społecznego inspektora zakładowy społeczny inspektor wydaje kierownikowi zakładu pracy, formie pisemnej, zalecenie usunięcia określonym terminie stwierdzonych uchybień.
 
-2. W Ta,zie wypadek przy pracy' do kierowni'kazaklad'u, pracy' natychmia'stowe tego a padku odpowiednich wydaje, mie pisemnej, zalecenie wstrzymania danegodzenia technicznego lub robót, zawiadamIa tym kowe. Kierowriik sprzeciw od zalecenia -'inspektora pracY' do inspektora, Inspekcji "Pracy. Sprz.eciw od za'Iecenia, którym mewa, w' usL wnosi terminie dil,i od dnia zalecenia, od .zalecenia, mowa razie wniesienia sprzeciw~, 'o który~ mowa ust. Inspekcji Pracy wydaje prawne widziane (w przepisach -, o' Inspekcji Pr'acy._ Art. i2, jest uwag oraz uwag, przeznaczone do 'zilpis.ow spelec'z2: trmowa ze inspektoLempracy nie' m'oże być rozwiązana bez wypowiedzenia z jego winy, bez up,rzedhiej zgody zakladowychorganizacji wych. Przepisu ust. nie stosuje się razie lik~idacji a ra,zie przez nego inspektora wieku emerytalnego albo uzyska nia prawa do renty z zaficzeni.a do I lub U grupy inwalidów. Art pra'cy jest inspektorom pracy' odpowiednie warunki realizacji' (
+2. W razie bezpośredniego zagrożenia mogącego spowodować wypadek przy pracy, zakładowy społeczny inspektor występuje do kierownika zakładu o natychmiastowe usunięcie tego zagrożenia, a wypadku niepodjęcia odpowiednich działań wydaje, formie pisemnej, zalecenie wstrzymania danego urządzenia technicznego lub określonych robót, zawiadamiając o tym równocześnie zakładowe organizacje związkowe.
 
-2. Koszty z inspekcji ponosi
+3. Kierownik zakładu może wnieść sprzeciw od zalecenia zakładowego społecznego inspektora do właściwego inspektora Państwowej Inspekcji Pracy. Sprzeciw od zalecenia, o którym mowa ust. 1, wnosi się terminie 7 dni od dnia doręczenia zalecenia, a od zalecenia, o którym mowa ust. 2 – niezwłocznie.
 
-**Art. 15.** Społeczni inspektorzy powinni wysw-oje w' zasadzie pozag(Jdzinami_ W razie wykonywania swoich czyn w. gqdzinach lub uczestnic a naradach' szkoleniach', inspektorzy prawo wynagrodzenia. W razie znacznego zadaniami wynika z' funkcji. inspektma kierownik. nl!' wniosek zaklad'owych oT§a nizacji wynagm dzenie do nie wynagrodzenia 3U godzin os.oby inspektora szczególnie uzasadnionych wypadkach kierow nik na wniosek organizacji wynagrodzenie, któ rym mowa ust. 3, do nie wynagrodzenia, godzin W których szczegól ne zagrożenie zdrowia i żyba pracowników'i a warunki nadzoru, kierownik na wniosek organizacji na Czas funkcji inspektora z wykonywania z za'chowaniemprawa do wyna: grodzenia. 6. W wypadku, którym mowa' w, ust. 5, zachowuje przez' tzas funkcji prawo do':' wynagrodzenia. jakie mu na stanDwisku zajmowanym dniu oddele,gowania. z. zmian tego wynagwdzenia, jakie, okresie tli. Ogólnokrajowe organizacje wytyczne d'o ins.pelUorów Art. 18~ L Inspekcja Pracy udziefapo mocy inspekcji' ·t'QaJizacji jej przez poradnictwo prawne, specjalistycz oraz szkolenie. Inspektorzy Inspekcji Pracy kontrole i uwag spo inspektorów pracy.. Art.' 19. Na umotywowany wniosek sp~łecznego inspektora użgodniony z zakładowy mi organizacjami spraw zagro zdrowia i pracowników, inspektorzy' Inspekcji Pracy kontrole oraz sprawach wykroczenia przeciwko prawom pracownika. Art. Zakładowy pracy' ma prawo kontrolach przeprowadzanych przez inspektora Inspe]ccji Pracy oraz podsllmowaniu kontroli.
+4. W razie wniesienia sprzeciwu, o którym mowa ust. 3, inspektor Państwowej Inspekcji Pracy wydaje decyzję lub podejmuje inne środki prawne przewidziane przepisach o Państwowej Inspekcji Pracy.
 
-**Art. 21.** Irispekcja Sanitarna, Do Technicznego oraz inne organy nadzoru kontroli warunków / .inspekcji prat:y _pomo€y wykonywaniu jej 5 naruszenie przepisów inspekcji
+**Art. 12.**
+
+1. Zakład jest zobowiązany założyć zakładową księgę zaleceń uwag oraz oddziałowe (wydziałowe) księgi uwag, przeznaczone do zapisów społecznych inspektorów pracy.
+
+2. Księgi, o których mowa ust. 1, przechowuje się miejscu ustalonym przez kierownika zakładu oraz udostępnia do wglądu zakładowym
+
+**Art. 13.**
+
+1. Zakład nie może wypowiedzieć ani rozwiązać umowy o pracę z pracownikiem pełniącym funkcję społecznego inspektora czasie trwania mandatu oraz okresie roku po jego wygaśnięciu, chyba że zachodzą przyczyny uzasadniające rozwiązanie umowy o pracę bez wypowiedzenia. W takim wypadku rozwiązanie umowy o pracę może nastąpić po uprzednim uzyskaniu zgody statutowo właściwego organu zakładowej organizacji związkowej.
+
+2. Przepis ust. 1 nie narusza art. 40 Kodeksu pracy.
+
+3. Zakład nie może wypowiedzieć pracownikowi pełniącemu funkcję społecznego inspektora warunków płacy na jego niekorzyść okresie ustalonym ust. 1, chyba że wypowiedzenie stało się konieczne z przyczyn, o których mowa art. 43 Kodeksu pracy.
+
+4. Przepisy ust. 1–3 stosuje się odpowiednio wypadku, gdy pracownik jest zatrudniony na podstawie mianowania lub spółdzielczej umowy o pracę.
+
+**Art. 14.**
+
+1. Zakład jest zobowiązany zapewnić społecznym inspektorom odpowiednie warunki realizacji ich zadań.
+
+2. Koszty związane z działalnością społecznej inspekcji ponosi zakład pracy.
+
+**Art. 15.**
+
+1. Społeczni inspektorzy powinni wykonywać swoje czynności zasadzie poza godzinami pracy.
+
+2. W razie konieczności wykonywania swoich czynności godzinach lub uczestniczenia naradach szkoleniach, społeczni inspektorzy zachowują prawo do wynagrodzenia.
+
+3. W razie znacznego obciążenia zadaniami wynikającymi z pełnienia funkcji społecznego inspektora pracy, kierownik zakładu na wniosek zakładowych organizacji związkowych może ustalić miesięczne wynagrodzenie zryczałtowane do wysokości nieprzekraczającej wynagrodzenia za 30 godzin osoby pełniącej funkcję społecznego inspektora pracy.
+
+5. W zakładach pracy, których występuje szczególne zagrożenie zdrowia życia pracowników, a warunki wymagają stałego społecznego nadzoru, kierownik zakładu pracy, na wniosek zakładowych organizacji związkowych, może zwolnić na czas pełnienia funkcji zakładowego społecznego inspektora z obowiązku wykonywania pracy, z zachowaniem prawa do wynagrodzenia.
+
+6. W wypadku, o którym mowa ust. 5, zakładowy społeczny inspektor zachowuje przez czas pełnienia funkcji prawo do wynagrodzenia, jakie przysługiwało mu na stanowisku zajmowanym dniu oddelegowania, z uwzględnieniem zmian tego wynagrodzenia, jakie nastąpią okresie oddelegowania.
+
+**Art. 16.**
+
+1. Ogólnokrajowe organizacje związkowe mogą określać wytyczne do działalności społecznych inspektorów pracy.
+
+2. Określenie wytycznych, o których mowa ust. 1, stosunku do zakładów podległych Ministrowi Obrony Narodowej lub Ministrowi Spraw Wewnętrznych następuje porozumieniu z właściwym ministrem.
+
+#### Rozdział 4 Współdziałanie społecznej inspekcji z Państwową Inspekcją Pracy oraz innymi organami nadzoru kontroli warunków
+
+**Art. 17.** Społeczni inspektorzy współdziałają z Państwową Inspekcją Pracy innymi organami nadzoru kontroli warunków zakresie ustalonym ustawą oraz wytycznymi, o których mowa art. 16.
+
+**Art. 18.**
+
+1. Państwowa Inspekcja Pracy udziela pomocy społecznej inspekcji realizacji jej zadań, szczególności przez poradnictwo prawne, specjalistyczną prasę oraz szkolenie. zagrożenia zdrowia życia pracowników, inspektorzy Państwowej Inspekcji Pracy przeprowadzają kontrole oraz wszczynają postępowanie sprawach o wykroczenia przeciwko prawom pracownika.
+
+**Art. 20.** Zakładowy społeczny inspektor ma prawo uczestniczyć kontrolach przeprowadzanych zakładzie przez inspektora Państwowej Inspekcji Pracy oraz podsumowaniu kontroli.
+
+**Art. 21.** Państwowa Inspekcja Sanitarna, Urząd Dozoru Technicznego oraz inne organy nadzoru kontroli warunków obowiązane są udzielać społecznej inspekcji pomocy wykonywaniu jej zadań.
+
+#### Rozdział 5 Odpowiedzialność za naruszenie przepisów o społecznej inspekcji
 
 **Art. 22.**
 
-1. Kto imieniu narusza przepisy niniejszej ustawy. a inspektora pr:acy. podlega karze grzywny do 20000 "2. Tej samej karze pódlega, kto' nie wykonuje lecenia inspektora Orzekanie kary grzywny trybie okre waTt. 284-290 Kodeksu 6 .Pr.zepisy I Art. 23; 1. Wytyczne do przeprowadzenia pierwszych wyborów społecznych inspektorów określi Rada Palistwa.
+1. Kto działając imieniu zakładu narusza przepisy niniejszej ustawy, a szczególności uniemożliwia działalność społecznego inspektora pracy, podlega karze grzywny do 2500 zł.
 
-2. Dó czasu wytycznych, których mowa rady pracownicze, a których mowa ust. oba przedstawicielstwa pracownicze. Przewodniczący Rady· Państwa: H. Ja6lo;r~i Sekretarz Rady Szymanek RADY MINISTRÓW ania 24 C1!erwca 1983' r. "prawie przedłutenla' kadencJI, rad nadzorczych Zakładu Ubezpieczeń' Spolee;ZDych I" Jego oddzlałów. Na p~dsta wie art: 111 ust. pkt ustawy z d·nia 13 kwietnia 1960 r. a' rent, i opieki spo (Dz. tJ. z 1960 t. Nr 2Ó, poz. 119, z 1.912 r. Nr 11, poz, oraz z 1914 r. Nr 39, poz. 231 i Nr 41, paz. 280) L dni\! 30 czerWca 1983 r. rad nadzorczych przedłużasiędqdnia 31 grudnia 19~4 r.
+2. Tej samej karze podlega, kto nie wykonuje zalecenia zakładowego społecznego inspektora pracy.
 
-2. wchodzi. w' z dniem l lipca 1983 r. ,/ co Prezes Rady Ministrpw: z. .. ,do Iul. ~ pocztowa Bil. 60B
+3. Orzekanie następuje na podstawie wniosku pochodzącego od inspektora trybie określonym dziale VII Kodeksu postępowania sprawach o wykroczenia.
 
+#### Rozdział 6 Przepisy przejściowe końcowe
+
+**Art. 23.**
+
+1. Wytyczne do przeprowadzenia pierwszych wyborów społecznych inspektorów określi Rada Państwa.
+
+2. Do czasu określenia wytycznych, o których mowa art. 16 – wytyczne takie określi Rada Państwa. związkowych stosuje się odpowiednio do rad pracowniczych, utworzonych na podstawie przepisów ustawy o pracownikach urzędów państwowych oraz art. 15 ustawy z dnia 8 października 1982 r. o związkach zawodowych (Dz. U. Nr 32, poz. 216).
+
+2. W zakładach, gdzie działają zakładowe organizacje związkowe rady pracownicze, o których mowa ust. 1, społeczną inspekcją kierują oba przedstawicielstwa pracownicze.
+
+**Art. 25.** Społeczni inspektorzy wybrani po dniu 31 grudnia 1982 r. pełnią swoje funkcje do czasu nowych wyborów.
+
+**Art. 26.** Traci moc ustawa z dnia 4 lutego 1950 r. o społecznej inspekcji (Dz. U. z 1955 r. Nr 20, poz. 134 oraz z 1965 r. Nr 13, poz. 91).
+
+**Art. 27.** Ustawa wchodzi życie z dniem ogłoszenia .
 

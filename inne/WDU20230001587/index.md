@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 10 sierpnia 2023 r.
+# o odpadach
+
+*USTAWA z dnia 14 grudnia 2012 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,48 +25,6 @@ domain: null
 | Data wydania | 2023-08-10 |
 | Ostatnia zmiana | 2026-03-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001587) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1587/text.pdf) |
-
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 7 lipca 2023 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2022 r. poz. 699), z uwzględnieniem zmian wprowadzonych:
-1) ustawą z dnia 17 listopada 2021 r. o zmianie ustawy o odpadach oraz niektórych innych ustaw (Dz. U. poz. 2151 oraz z 2022 r. poz. 2687),
-2) ustawą z dnia 12 maja 2022 r. o portowych urządzeniach do odbioru odpadów ze statków (Dz. U. poz. 1250),
-3) ustawą z dnia 22 lipca 2022 r. o zmianie niektórych ustaw w celu przeciwdziałania przestępczości środowiskowej (Dz. U. poz. 1726),
-4) ustawą z dnia 7 października 2022 r. o szczególnych rozwiązaniach służących ochronie odbiorców energii elektrycznej w 2023 roku w związku z sytuacją na rynku energii elektrycznej (Dz. U. poz. 2127),
-5) ustawą z dnia 1 grudnia 2022 r. o zmianie ustawy o paszach oraz ustawy o odpadach (Dz. U. poz. 2722),
-6) ustawą z dnia 8 lutego 2023 r. o zmianie ustawy o szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na rynku paliw oraz niektórych innych ustaw (Dz. U. poz. 295),
-7) ustawą z dnia 14 kwietnia 2023 r. o zmianie ustawy o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej oraz niektórych innych ustaw (Dz. U. poz. 877) oraz zmian wynikających z przepisów ogłoszonych przed dniem 29 czerwca 2023 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 13 ust. 7 i art. 19 ustawy z dnia 17 listopada 2021 r. o zmianie ustawy o odpadach oraz niektórych innych ustaw (Dz. U. poz. 2151 oraz z 2022 r. poz. 2687), które stanowią:
-
-**Art. 13.** „7. Dokumenty DPR i EDPR, o których mowa w ustawie zmienianej w art. 5, które obejmują okres od dnia 1 stycznia 2022 r. do dnia 31 grudnia 2024 r., są sporządzane zgodnie z przepisami dotychczasowymi.” „Art. 19. Ustawa wchodzi w życie z dniem 1 stycznia 2022 r., z wyjątkiem art. 1 pkt 35 i pkt 40 lit. a, które wchodzą w życie z dniem 1 stycznia 2025 r.”;
-
-**Art. 54.**
-
-1. Do postępowań w sprawie o wydanie nowego pozwolenia na wytwarzanie odpadów, wszczętych i niezakończonych ostateczną decyzją przed dniem 1 stycznia 2026 r., przepisy art. 193 ust. 1c–1e ustawy zmienianej w art. 43 stosuje się.
-
-2. Do postępowań w sprawie wydania nowego zezwolenia na zbieranie odpadów, zezwolenia na przetwarzanie odpadów lub zezwolenia na zbieranie i przetwarzanie odpadów, wszczętych i niezakończonych ostateczną decyzją przed dniem 1 stycznia 2026 r., przepisy art. 226a ustawy zmienianej w art. 45 stosuje się.
-
-**Art. 55.** Przepisy art. 48a ustawy zmienianej w art. 45, w brzmieniu nadanym niniejszą ustawą, mają również zastosowanie do ostatecznych postanowień wydanych przed dniem wejścia w życie ustawy.”
-
-**Art. 60.** „2. Przepisy art. 226a ustawy zmienianej w art. 45 tracą moc z dniem 1 stycznia 2026 r.” „Art. 61. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem:
-
-**Art. 14.**
-
-1. Sprawozdanie, o którym mowa w art. 73 ust. 1 ustawy zmienianej w art. 6 w brzmieniu nadanym niniejszą ustawą, składane za rok 2023 przez:
-
-- **1)** przedsiębiorców, o których mowa w art. 3b ust. 1 i 2 ustawy zmienianej w art. 1 nie obejmuje informacji o wysokości należnej opłaty, o której mowa w art. 3b ust. 1 tej ustawy;
-- **2)** przedsiębiorców, o których mowa w art. 3k ust. 1 i 2 ustawy zmienianej w art. 1 nie obejmuje informacji o wysokości należnej opłaty, o której mowa w art. 3k ust. 1 i 2 tej ustawy;
-- **3)** przedsiębiorców, o których mowa w art. 11b ust. 1 pkt 1 ustawy zmienianej w art. 1 nie obejmuje informacji, o których mowa w art. 73 ust. 2 pkt 3a lit. h ustawy zmienianej w art. 6 w brzmieniu nadanym niniejszą ustawą.
-
-2. W przypadku, o którym mowa w ust. 1, sprawozdanie za rok 2023 obejmuje okres od dnia wejścia w życie niniejszej ustawy do dnia 31 grudnia 2023 r.
-
-3. Przedsiębiorcy, o których mowa w art. 8d ust. 1 ustawy zmienianej w art. 1, lub autoryzowani przedstawiciele, o których mowa w art. 8a ust. 1 ustawy zmienianej w art. 1, wyznaczeni przez producentów, o których mowa w art. 2 pkt 9d lit. a ustawy zmienianej w art. 1, w zakresie sprzedaży narzędzi połowowych zawierających tworzywa sztuczne, sporządzają po raz pierwszy sprawozdanie, o którym mowa w art. 73 ust. 1 ustawy zmienianej w art. 6 w brzmieniu nadanym niniejszą ustawą, za rok 2024.” „Art. 22. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
-
-- **1)** art. 2, art. 5, art. 9–11 oraz art. 19, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
-- **2)** art. 1 pkt 5 w zakresie art. 3b ust. 3 i pkt 18 w zakresie art. 40a pkt 3 oraz art. 7 pkt 4 w zakresie art. 14b i pkt 9, które wchodzą w życie z dniem 1 lipca 2024 r.;
-- **3)** art. 8 pkt 2, który wchodzi w życie z dniem 22 grudnia 2024 r.;
-- **4)** art. 8 pkt 1, który wchodzi w życie z dniem 30 marca 2025 r.”. Marszałek Sejmu: E. Witek USTAWA z dnia 14 grudnia 2012 r. o odpadach
 
 ### DZIAŁ I Przepisy ogólne
 
@@ -80,64 +40,64 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 
 1. Ilekroć w ustawie jest mowa o:
 
-- **1)** bioodpadach rozumie się przez to ulegające biodegradacji odpady z ogrodów i parków, odpady żywności i kuchenne z gospodarstw domowych, gastronomii, w tym restauracji, stołówek oraz zakładów zbiorowego żywienia, biur, hurtowni i jednostek handlu detalicznego, a także podobne odpady z zakładów produkujących lub wprowadzających do obrotu żywność;
-- **2)** gospodarowaniu odpadami rozumie się przez to zbieranie, transport lub przetwarzanie odpadów, w tym sortowanie, wraz z nadzorem nad wymienionymi działaniami, a także późniejsze postępowanie z miejscami unieszkodliwiania odpadów oraz działania wykonywane w charakterze sprzedawcy odpadów lub pośrednika w obrocie odpadami;
-- **3)** gospodarce odpadami rozumie się przez to wytwarzanie odpadów i gospodarowanie odpadami;
-- **4)** komunalnych osadach ściekowych rozumie się przez to pochodzący z oczyszczalni ścieków osad z komór fermentacyjnych oraz innych instalacji służących do oczyszczania ścieków komunalnych oraz innych ścieków o składzie zbliżonym do składu ścieków komunalnych;
-- **5)** magazynowaniu odpadów rozumie się przez to czasowe przechowywanie odpadów obejmujące:
+- **1)** bioodpadach – rozumie się przez to ulegające biodegradacji odpady z ogrodów i parków, odpady żywności i kuchenne z gospodarstw domowych, gastronomii, w tym restauracji, stołówek oraz zakładów zbiorowego żywienia, biur, hurtowni i jednostek handlu detalicznego, a także podobne odpady z zakładów produkujących lub wprowadzających do obrotu żywność;
+- **2)** gospodarowaniu odpadami – rozumie się przez to zbieranie, transport lub przetwarzanie odpadów, w tym sortowanie, wraz z nadzorem nad wymienionymi działaniami, a także późniejsze postępowanie z miejscami unieszkodliwiania odpadów oraz działania wykonywane w charakterze sprzedawcy odpadów lub pośrednika w obrocie odpadami;
+- **3)** gospodarce odpadami – rozumie się przez to wytwarzanie odpadów i gospodarowanie odpadami;
+- **4)** komunalnych osadach ściekowych – rozumie się przez to pochodzący z oczyszczalni ścieków osad z komór fermentacyjnych oraz innych instalacji służących do oczyszczania ścieków komunalnych oraz innych ścieków o składzie zbliżonym do składu ścieków komunalnych;
+- **5)** magazynowaniu odpadów – rozumie się przez to czasowe przechowywanie odpadów obejmujące:
     - **a)** wstępne magazynowanie odpadów przez ich wytwórcę,
     - **b)** tymczasowe magazynowanie odpadów przez prowadzącego zbieranie odpadów,
     - **c)** magazynowanie odpadów przez prowadzącego przetwarzanie odpadów;
 
-- **6)** odpadach rozumie się przez to każdą substancję lub przedmiot, których posiadacz pozbywa się, zamierza się pozbyć lub do których pozbycia się jest obowiązany;
-- **6a)** odpadach budowlanych i rozbiórkowych rozumie się przez to odpady powstałe podczas robót budowlanych;
-- **7)** odpadach komunalnych rozumie się przez to odpady powstające w gospodarstwach domowych oraz odpady pochodzące od innych wytwórców odpadów, które ze względu na swój charakter i skład są podobne do odpadów z gospodarstw domowych, w szczególności niesegregowane (zmieszane) odpady komunalne i odpady selektywnie zebrane:
+- **6)** odpadach – rozumie się przez to każdą substancję lub przedmiot, których posiadacz pozbywa się, zamierza się pozbyć lub do których pozbycia się jest obowiązany;
+- **6a)** odpadach budowlanych i rozbiórkowych – rozumie się przez to odpady powstałe podczas robót budowlanych;
+- **7)** odpadach komunalnych – rozumie się przez to odpady powstające w gospodarstwach domowych oraz odpady pochodzące od innych wytwórców odpadów, które ze względu na swój charakter i skład są podobne do odpadów z gospodarstw domowych, w szczególności niesegregowane (zmieszane) odpady komunalne i odpady selektywnie zebrane:
     - **a)** z gospodarstw domowych, w tym papier i tektura, szkło, metale, tworzywa sztuczne, bioodpady, drewno, tekstylia, opakowania, zużyty sprzęt elektryczny i elektroniczny, zużyte baterie i akumulatory oraz odpady wielkogabarytowe, w tym materace i meble, oraz
-    - **b)** ze źródeł innych niż gospodarstwa domowe, jeżeli odpady te są podobne pod względem charakteru i składu do odpadów z gospodarstw domowych przy czym odpady komunalne nie obejmują odpadów z produkcji, rolnictwa, leśnictwa, rybołówstwa, zbiorników bezodpływowych, sieci kanalizacyjnej oraz z oczyszczalni ścieków, w tym osadów ściekowych, pojazdów wycofanych z eksploatacji oraz odpadów budowlanych i rozbiórkowych; niesegregowane (zmieszane) odpady komunalne pozostają niesegregowanymi (zmieszanymi) odpadami komunalnymi, nawet jeżeli zostały poddane przetwarzaniu odpadów, ale przetwarzanie to nie zmieniło w sposób znaczący ich właściwości;
+    - **b)** ze źródeł innych niż gospodarstwa domowe, jeżeli odpady te są podobne pod względem charakteru i składu do odpadów z gospodarstw domowych – przy czym odpady komunalne nie obejmują odpadów z produkcji, rolnictwa, leśnictwa, rybołówstwa, zbiorników bezodpływowych, sieci kanalizacyjnej oraz z oczyszczalni ścieków, w tym osadów ściekowych, pojazdów wycofanych z eksploatacji oraz odpadów budowlanych i rozbiórkowych; niesegregowane (zmieszane) odpady komunalne pozostają niesegregowanymi (zmieszanymi) odpadami komunalnymi, nawet jeżeli zostały poddane przetwarzaniu odpadów, ale przetwarzanie to nie zmieniło w sposób znaczący ich właściwości;
 
-- **8)** odpadach medycznych rozumie się przez to odpady powstające w związku z udzielaniem świadczeń zdrowotnych oraz prowadzeniem badań i doświadczeń naukowych w zakresie medycyny;
-- **9)** odpadach obojętnych rozumie się przez to odpady, które nie ulegają istotnym przemianom fizycznym, chemicznym lub biologicznym; są nierozpuszczalne, nie wchodzą w reakcje fizyczne ani chemiczne, nie powodują zanieczyszczenia środowiska lub zagrożenia dla życia lub zdrowia ludzi, nie ulegają biodegradacji i nie wpływają niekorzystnie na materię, z którą się kontaktują; ogólna zawartość zanieczyszczeń w tych odpadach oraz zdolność do ich wymywania, a także negatywne oddziaływanie na środowisko odcieku są nieznaczne, a w szczególności nie stanowią zagrożenia dla jakości wód powierzchniowych, wód podziemnych, gleby i ziemi;
-- **10)** odpadach ulegających biodegradacji rozumie się przez to odpady, które ulegają rozkładowi tlenowemu lub beztlenowemu przy udziale mikroorganizmów;
-- **11)** odpadach weterynaryjnych rozumie się przez to odpady powstające w związku z badaniem, leczeniem zwierząt lub świadczeniem usług weterynaryjnych, a także w związku z prowadzeniem badań naukowych i doświadczeń na zwierzętach;
+- **8)** odpadach medycznych – rozumie się przez to odpady powstające w związku z udzielaniem świadczeń zdrowotnych oraz prowadzeniem badań i doświadczeń naukowych w zakresie medycyny;
+- **9)** odpadach obojętnych – rozumie się przez to odpady, które nie ulegają istotnym przemianom fizycznym, chemicznym lub biologicznym; są nierozpuszczalne, nie wchodzą w reakcje fizyczne ani chemiczne, nie powodują zanieczyszczenia środowiska lub zagrożenia dla życia lub zdrowia ludzi, nie ulegają biodegradacji i nie wpływają niekorzystnie na materię, z którą się kontaktują; ogólna zawartość zanieczyszczeń w tych odpadach oraz zdolność do ich wymywania, a także negatywne oddziaływanie na środowisko odcieku są nieznaczne, a w szczególności nie stanowią zagrożenia dla jakości wód powierzchniowych, wód podziemnych, gleby i ziemi;
+- **10)** odpadach ulegających biodegradacji – rozumie się przez to odpady, które ulegają rozkładowi tlenowemu lub beztlenowemu przy udziale mikroorganizmów;
+- **11)** odpadach weterynaryjnych – rozumie się przez to odpady powstające w związku z badaniem, leczeniem zwierząt lub świadczeniem usług weterynaryjnych, a także w związku z prowadzeniem badań naukowych i doświadczeń na zwierzętach;
 - **12)** (uchylony)
-- **13)** odpadach z wypadków rozumie się przez to odpady powstające podczas prowadzenia akcji ratowniczej lub gaśniczej, z wyłączeniem: poz. 877), o zapobieganiu szkodom w środowisku i ich naprawie (Dz. U. z 2020 r. poz. 2187);
-    - **a)** odpadów powstałych w wyniku poważnej awarii lub poważnej awarii przemysłowej, w rozumieniu art. 3 pkt 23 i 24 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (Dz. U. z 2022 r. poz. 2556 i 2687 oraz z 2023 r.
-    - **b)** odpadów powstałych w wyniku szkody w środowisku, o której mowa w art. 6 pkt 11 ustawy z dnia 13 kwietnia 2007 r.
+- **13)** odpadach z wypadków – rozumie się przez to odpady powstające podczas prowadzenia akcji ratowniczej lub gaśniczej, z wyłączeniem:
+    - **a)** odpadów powstałych w wyniku poważnej awarii lub poważnej awarii przemysłowej, w rozumieniu art. 3 pkt 23 i 24 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2022 r. poz. 2556 i 2687 oraz z 2023 r. poz. 877),
+    - **b)** odpadów powstałych w wyniku szkody w środowisku, o której mowa w art. 6 pkt 11 ustawy z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom w środowisku i ich naprawie (Dz. U. z 2020 r. poz. 2187);
 
-- **13a)** odpadach żywności rozumie się przez to żywność w rozumieniu art. 2 rozporządzenia (WE) nr 178/2002 Parlamentu Europejskiego i Rady z dnia 28 stycznia 2002 r. ustanawiającego ogólne zasady i wymagania prawa żywnościowego, powołującego Europejski Urząd ds. Bezpieczeństwa Żywności oraz ustanawiającego procedury w zakresie bezpieczeństwa żywności (Dz. Urz. WE L 31 z 01.02.2002, str. 1, z późn. zm. ), która stała się odpadami;
-- **14)** odzysku rozumie się przez to jakikolwiek proces, którego głównym wynikiem jest to, aby odpady służyły użytecznemu zastosowaniu przez zastąpienie innych materiałów, które w przeciwnym przypadku zostałyby użyte do spełnienia danej funkcji, lub w wyniku którego odpady są przygotowywane do spełnienia takiej funkcji w danym zakładzie lub ogólnie w gospodarce;
-- **15)** odzysku energii rozumie się przez to termiczne przekształcanie odpadów w celu odzyskania energii;
-- **15a)** odzysku materiałów rozumie się przez to każdy odzysk inny niż odzysk energii i ponowne przetwarzanie na materiały, które mogą zostać wykorzystane jako paliwa lub inne środki wytwarzania energii; odzysk materiałów obejmuje w szczególności przygotowanie do ponownego użycia, recykling i prace ziemne;
-- **16)** olejach odpadowych rozumie się przez to wszelkie mineralne lub syntetyczne oleje smarowe lub przemysłowe, które przestały się nadawać do użytku, do jakiego były pierwotnie przeznaczone, w szczególności zużyte oleje z silników spalinowych i oleje przekładniowe, oleje smarowe, oleje turbinowe oraz oleje hydrauliczne;
-- **17)** PCB rozumie się przez to polichlorowane bifenyle, polichlorowane trifenyle, monometylotetrachlorodifenylometan, monometylodichlorodifenylometan, monometylodibromodifenylometan oraz mieszaniny zawierające jakąkolwiek z tych substancji w ilości powyżej 0,005% wagowo łącznie;
-- **18)** ponownym użyciu rozumie się przez to działanie polegające na wykorzystywaniu produktów lub części produktów niebędących odpadami ponownie do tego samego celu, do którego były przeznaczone;
-- **19)** posiadaczu odpadów rozumie się przez to wytwórcę odpadów lub osobę fizyczną, osobę prawną oraz jednostkę organizacyjną nieposiadającą osobowości prawnej będące w posiadaniu odpadów; domniemywa się, że władający powierzchnią ziemi jest posiadaczem odpadów znajdujących się na nieruchomości;
-- **20)** pośredniku w obrocie odpadami rozumie się przez to każdego, kto organizuje przetwarzanie odpadów w imieniu innych podmiotów, w tym również podmiot, który nie obejmuje odpadów fizycznie w posiadanie;
-- **20a)** prowadzącym zakład recyklingu statków rozumie się przez to prowadzącego zakład recyklingu statków w rozumieniu art. 3 ust. 1 pkt 8 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1257/2013 z dnia 20 listopada 2013 r. w sprawie recyklingu statków oraz zmieniającego rozporządzenie (WE) nr 1013/2006 i dyrektywę 2009/16/WE (Dz. Urz. UE L 330 z 10.12.2013, str. 1), zwanego dalej „rozporządzeniem 1257/2013”;
-- **20b)** pracach ziemnych rozumie się przez to każdy odzysk, w ramach którego odpady inne niż niebezpieczne są wykorzystywane do przywracania wartości użytkowych lub przyrodniczych wyrobiskom i zapadliskom lub do celów inżynieryjnych na potrzeby kształtowania krajobrazu; odpady wykorzystywane do prac ziemnych zastępują materiały niebędące odpadami, nadają się do wyżej wymienionych celów i ograniczają się do masy bezwzględnie koniecznej do osiągnięcia tych celów;
-- **21)** przetwarzaniu rozumie się przez to procesy odzysku lub unieszkodliwiania, w tym przygotowanie poprzedzające odzysk lub unieszkodliwianie;
-- **22)** przygotowaniu do ponownego użycia rozumie się przez to odzysk polegający na sprawdzeniu, czyszczeniu lub naprawie, w ramach którego produkty lub części produktów, które wcześniej stały się odpadami, są przygotowywane do tego, aby mogły być ponownie wykorzystywane bez jakichkolwiek innych czynności wstępnego przetwarzania;
-- **23)** recyklingu rozumie się przez to odzysk, w ramach którego odpady są ponownie przetwarzane na produkty, materiały lub substancje wykorzystywane w pierwotnym celu lub innych celach; obejmuje to ponowne przetwarzanie materiału organicznego (recykling organiczny), ale nie obejmuje odzysku energii i ponownego przetwarzania na materiały, które mają być wykorzystane jako paliwa lub do prac ziemnych;
-- **23a)** recyklingu statków rozumie się przez to recykling statków w rozumieniu art. 3 ust. 1 pkt 6 rozporządzenia 1257/2013;
-- **24)** selektywnym zbieraniu rozumie się przez to zbieranie, w ramach którego dany strumień odpadów, w celu ułatwienia specyficznego przetwarzania, obejmuje jedynie odpady charakteryzujące się takimi samymi właściwościami i takimi samymi cechami;
-- **25)** składowisku odpadów rozumie się przez to obiekt budowlany przeznaczony do składowania odpadów;
-- **26)** spalarni odpadów rozumie się przez to zakład lub jego część przeznaczone do termicznego przekształcania odpadów z odzyskiem lub bez odzysku wytwarzanej energii cieplnej, obejmujące instalacje i urządzenia służące do prowadzenia procesu termicznego przekształcania odpadów wraz z oczyszczaniem gazów odlotowych i wprowadzaniem ich do powietrza, kontrolą, sterowaniem i monitorowaniem procesów oraz instalacjami związanymi z przyjmowaniem, wstępnym przetwarzaniem i magazynowaniem odpadów dostarczonych do termicznego przekształcania oraz instalacjami związanymi z magazynowaniem i przetwarzaniem substancji otrzymanych w wyniku spalania i oczyszczania gazów odlotowych; jeżeli współspalanie odpadów odbywa się w taki sposób, że głównym celem tej instalacji nie jest wytwarzanie energii ani wytwarzanie produktów materialnych, tylko termiczne przekształcenie odpadów, wówczas instalacja ta uważana jest za spalarnię odpadów;
-- **27)** sprzedawcy odpadów rozumie się przez to podmiot, który nabywa, a następnie zbywa odpady, we własnym imieniu, w tym również podmiot, który nie obejmuje odpadów fizycznie w posiadanie;
-- **28)** stosowaniu komunalnych osadów ściekowych rozumie się przez to rozprowadzanie komunalnych osadów ściekowych na powierzchni ziemi lub wprowadzanie ich do gleby;
-- **28a)** systemie rozszerzonej odpowiedzialności producenta rozumie się przez to zestaw środków podjętych w celu zapewnienia, aby wprowadzający produkty, w tym produkty w opakowaniach, ponosili odpowiedzialność finansową albo odpowiedzialność finansową i organizacyjną na etapie cyklu życia produktu, gdy staje się on odpadem;
-- **29)** termicznym przekształcaniu odpadów rozumie się przez to:
+- **13a)** odpadach żywności – rozumie się przez to żywność w rozumieniu art. 2 rozporządzenia (WE) nr 178/2002 Parlamentu Europejskiego i Rady z dnia 28 stycznia 2002 r. ustanawiającego ogólne zasady i wymagania prawa żywnościowego, powołującego Europejski Urząd ds. Bezpieczeństwa Żywności oraz ustanawiającego procedury w zakresie bezpieczeństwa żywności (Dz. Urz. WE L 31 z 01.02.2002, str. 1, z późn. zm. ), która stała się odpadami;
+- **14)** odzysku – rozumie się przez to jakikolwiek proces, którego głównym wynikiem jest to, aby odpady służyły użytecznemu zastosowaniu przez zastąpienie innych materiałów, które w przeciwnym przypadku zostałyby użyte do spełnienia danej funkcji, lub w wyniku którego odpady są przygotowywane do spełnienia takiej funkcji w danym zakładzie lub ogólnie w gospodarce;
+- **15)** odzysku energii – rozumie się przez to termiczne przekształcanie odpadów w celu odzyskania energii;
+- **15a)** odzysku materiałów – rozumie się przez to każdy odzysk inny niż odzysk energii i ponowne przetwarzanie na materiały, które mogą zostać wykorzystane jako paliwa lub inne środki wytwarzania energii; odzysk materiałów obejmuje w szczególności przygotowanie do ponownego użycia, recykling i prace ziemne;
+- **16)** olejach odpadowych – rozumie się przez to wszelkie mineralne lub syntetyczne oleje smarowe lub przemysłowe, które przestały się nadawać do użytku, do jakiego były pierwotnie przeznaczone, w szczególności zużyte oleje z silników spalinowych i oleje przekładniowe, oleje smarowe, oleje turbinowe oraz oleje hydrauliczne;
+- **17)** PCB – rozumie się przez to polichlorowane bifenyle, polichlorowane trifenyle, monometylotetrachlorodifenylometan, monometylodichlorodifenylometan, monometylodibromodifenylometan oraz mieszaniny zawierające jakąkolwiek z tych substancji w ilości powyżej 0,005% wagowo łącznie;
+- **18)** ponownym użyciu – rozumie się przez to działanie polegające na wykorzystywaniu produktów lub części produktów niebędących odpadami ponownie do tego samego celu, do którego były przeznaczone;
+- **19)** posiadaczu odpadów – rozumie się przez to wytwórcę odpadów lub osobę fizyczną, osobę prawną oraz jednostkę organizacyjną nieposiadającą osobowości prawnej będące w posiadaniu odpadów; domniemywa się, że władający powierzchnią ziemi jest posiadaczem odpadów znajdujących się na nieruchomości;
+- **20)** pośredniku w obrocie odpadami – rozumie się przez to każdego, kto organizuje przetwarzanie odpadów w imieniu innych podmiotów, w tym również podmiot, który nie obejmuje odpadów fizycznie w posiadanie;
+- **20a)** prowadzącym zakład recyklingu statków – rozumie się przez to prowadzącego zakład recyklingu statków w rozumieniu art. 3 ust. 1 pkt 8 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1257/2013 z dnia 20 listopada 2013 r. w sprawie recyklingu statków oraz zmieniającego rozporządzenie (WE) nr 1013/2006 i dyrektywę 2009/16/WE (Dz. Urz. UE L 330 z 10.12.2013, str. 1), zwanego dalej „rozporządzeniem 1257/2013”;
+- **20b)** pracach ziemnych – rozumie się przez to każdy odzysk, w ramach którego odpady inne niż niebezpieczne są wykorzystywane do przywracania wartości użytkowych lub przyrodniczych wyrobiskom i zapadliskom lub do celów inżynieryjnych na potrzeby kształtowania krajobrazu; odpady wykorzystywane do prac ziemnych zastępują materiały niebędące odpadami, nadają się do wyżej wymienionych celów i ograniczają się do masy bezwzględnie koniecznej do osiągnięcia tych celów;
+- **21)** przetwarzaniu – rozumie się przez to procesy odzysku lub unieszkodliwiania, w tym przygotowanie poprzedzające odzysk lub unieszkodliwianie;
+- **22)** przygotowaniu do ponownego użycia – rozumie się przez to odzysk polegający na sprawdzeniu, czyszczeniu lub naprawie, w ramach którego produkty lub części produktów, które wcześniej stały się odpadami, są przygotowywane do tego, aby mogły być ponownie wykorzystywane bez jakichkolwiek innych czynności wstępnego przetwarzania;
+- **23)** recyklingu – rozumie się przez to odzysk, w ramach którego odpady są ponownie przetwarzane na produkty, materiały lub substancje wykorzystywane w pierwotnym celu lub innych celach; obejmuje to ponowne przetwarzanie materiału organicznego (recykling organiczny), ale nie obejmuje odzysku energii i ponownego przetwarzania na materiały, które mają być wykorzystane jako paliwa lub do prac ziemnych;
+- **23a)** recyklingu statków – rozumie się przez to recykling statków w rozumieniu art. 3 ust. 1 pkt 6 rozporządzenia 1257/2013;
+- **24)** selektywnym zbieraniu – rozumie się przez to zbieranie, w ramach którego dany strumień odpadów, w celu ułatwienia specyficznego przetwarzania, obejmuje jedynie odpady charakteryzujące się takimi samymi właściwościami i takimi samymi cechami;
+- **25)** składowisku odpadów – rozumie się przez to obiekt budowlany przeznaczony do składowania odpadów;
+- **26)** spalarni odpadów – rozumie się przez to zakład lub jego część przeznaczone do termicznego przekształcania odpadów z odzyskiem lub bez odzysku wytwarzanej energii cieplnej, obejmujące instalacje i urządzenia służące do prowadzenia procesu termicznego przekształcania odpadów wraz z oczyszczaniem gazów odlotowych i wprowadzaniem ich do powietrza, kontrolą, sterowaniem i monitorowaniem procesów oraz instalacjami związanymi z przyjmowaniem, wstępnym przetwarzaniem i magazynowaniem odpadów dostarczonych do termicznego przekształcania oraz instalacjami związanymi z magazynowaniem i przetwarzaniem substancji otrzymanych w wyniku spalania i oczyszczania gazów odlotowych; jeżeli współspalanie odpadów odbywa się w taki sposób, że głównym celem tej instalacji nie jest wytwarzanie energii ani wytwarzanie produktów materialnych, tylko termiczne przekształcenie odpadów, wówczas instalacja ta uważana jest za spalarnię odpadów;
+- **27)** sprzedawcy odpadów – rozumie się przez to podmiot, który nabywa, a następnie zbywa odpady, we własnym imieniu, w tym również podmiot, który nie obejmuje odpadów fizycznie w posiadanie;
+- **28)** stosowaniu komunalnych osadów ściekowych – rozumie się przez to rozprowadzanie komunalnych osadów ściekowych na powierzchni ziemi lub wprowadzanie ich do gleby;
+- **28a)** systemie rozszerzonej odpowiedzialności producenta – rozumie się przez to zestaw środków podjętych w celu zapewnienia, aby wprowadzający produkty, w tym produkty w opakowaniach, ponosili odpowiedzialność finansową albo odpowiedzialność finansową i organizacyjną na etapie cyklu życia produktu, gdy staje się on odpadem;
+- **29)** termicznym przekształcaniu odpadów – rozumie się przez to:
     - **a)** spalanie odpadów przez ich utlenianie,
     - **b)** inne niż wskazane w lit. a procesy termicznego przetwarzania odpadów, w tym pirolizę, zgazowanie i proces plazmowy, o ile substancje powstające podczas tych procesów są następnie spalane;
 
-- **30)** unieszkodliwianiu odpadów rozumie się przez to proces niebędący odzyskiem, nawet jeżeli wtórnym skutkiem takiego procesu jest odzysk substancji lub energii;
-- **31)** współspalarni odpadów rozumie się przez to zakład lub jego część, których głównym przedmiotem działalności jest wytwarzanie energii lub produktów, w których wraz z paliwami są przekształcane termicznie odpady w celu odzyskania zawartej w nich energii lub w celu ich unieszkodliwiania, obejmujące instalacje i urządzenia służące do prowadzenia procesu termicznego przekształcania wraz z oczyszczaniem gazów odlotowych i wprowadzaniem ich do atmosfery, kontrolą, sterowaniem i monitorowaniem procesów, instalacjami związanymi z przyjmowaniem, wstępnym przetwarzaniem i magazynowaniem odpadów dostarczonych do termicznego przekształcania oraz instalacjami związanymi z magazynowaniem i przetwarzaniem substancji otrzymanych w wyniku spalania i oczyszczania gazów odlotowych;
-- **32)** wytwórcy odpadów rozumie się przez to każdego, którego działalność lub bytowanie powoduje powstawanie odpadów (pierwotny wytwórca odpadów), oraz każdego, kto przeprowadza wstępną obróbkę, mieszanie lub inne działania powodujące zmianę charakteru lub składu tych odpadów; wytwórcą odpadów powstających w wyniku świadczenia usług w zakresie budowy, rozbiórki, remontu obiektów, czyszczenia zbiorników lub urządzeń oraz sprzątania, konserwacji i napraw jest podmiot, który świadczy usługę, chyba że umowa o świadczenie usługi stanowi inaczej; wytwórcą odpadów zdawanych do portowych urządzeń do odbioru odpadów ze statków w rozumieniu art. 5 pkt 9 ustawy z dnia 12 maja 2022 r. o portowych urządzeniach do odbioru odpadów (Dz. U. poz. 1250) jest podmiot świadczący usługę odbioru odpadów w porcie lub przystani morskiej;
-- **33)** zapobieganiu powstawaniu odpadów rozumie się przez to środki zastosowane w odniesieniu do produktu, materiału lub substancji, zanim staną się one odpadami, zmniejszające:
+- **30)** unieszkodliwianiu odpadów – rozumie się przez to proces niebędący odzyskiem, nawet jeżeli wtórnym skutkiem takiego procesu jest odzysk substancji lub energii;
+- **31)** współspalarni odpadów – rozumie się przez to zakład lub jego część, których głównym przedmiotem działalności jest wytwarzanie energii lub produktów, w których wraz z paliwami są przekształcane termicznie odpady w celu odzyskania zawartej w nich energii lub w celu ich unieszkodliwiania, obejmujące instalacje i urządzenia służące do prowadzenia procesu termicznego przekształcania wraz z oczyszczaniem gazów odlotowych i wprowadzaniem ich do atmosfery, kontrolą, sterowaniem i monitorowaniem procesów, instalacjami związanymi z przyjmowaniem, wstępnym przetwarzaniem i magazynowaniem odpadów dostarczonych do termicznego przekształcania oraz instalacjami związanymi z magazynowaniem i przetwarzaniem substancji otrzymanych w wyniku spalania i oczyszczania gazów odlotowych;
+- **32)** wytwórcy odpadów – rozumie się przez to każdego, którego działalność lub bytowanie powoduje powstawanie odpadów (pierwotny wytwórca odpadów), oraz każdego, kto przeprowadza wstępną obróbkę, mieszanie lub inne działania powodujące zmianę charakteru lub składu tych odpadów; wytwórcą odpadów powstających w wyniku świadczenia usług w zakresie budowy, rozbiórki, remontu obiektów, czyszczenia zbiorników lub urządzeń oraz sprzątania, konserwacji i napraw jest podmiot, który świadczy usługę, chyba że umowa o świadczenie usługi stanowi inaczej; wytwórcą odpadów zdawanych do portowych urządzeń do odbioru odpadów ze statków w rozumieniu art. 5 pkt 9 ustawy z dnia 12 maja 2022 r. o portowych urządzeniach do odbioru odpadów (Dz. U. poz. 1250) jest podmiot świadczący usługę odbioru odpadów w porcie lub przystani morskiej;
+- **33)** zapobieganiu powstawaniu odpadów – rozumie się przez to środki zastosowane w odniesieniu do produktu, materiału lub substancji, zanim staną się one odpadami, zmniejszające:
     - **a)** ilość odpadów, w tym również przez ponowne użycie lub wydłużenie okresu dalszego używania produktu,
     - **b)** negatywne oddziaływanie wytworzonych odpadów na środowisko i zdrowie ludzi,
     - **c)** zawartość substancji niebezpiecznych w materiałach i produktach;
 
-- **34)** zbieraniu odpadów rozumie się przez to gromadzenie odpadów przed ich transportem do miejsc przetwarzania, w tym wstępne sortowanie nieprowadzące do zasadniczej zmiany charakteru i składu odpadów i niepowodujące zmiany klasyfikacji odpadów oraz tymczasowe magazynowanie odpadów, o którym mowa w pkt 5 lit. b.
+- **34)** zbieraniu odpadów – rozumie się przez to gromadzenie odpadów przed ich transportem do miejsc przetwarzania, w tym wstępne sortowanie nieprowadzące do zasadniczej zmiany charakteru i składu odpadów i niepowodujące zmiany klasyfikacji odpadów oraz tymczasowe magazynowanie odpadów, o którym mowa w pkt 5 lit. b.
 
 2. Niewyczerpujący wykaz procesów odzysku określa załącznik nr 1 do ustawy.
 
@@ -147,7 +107,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 
 3b. Za odpady niepalne mogą zostać uznane także odpady należące do kategorii innych niż wymienione w załączniku nr 2a do ustawy, jeżeli nie mogą one brać udziału w procesie spalania (nie są zdolne do palenia się), a przez to nie mogą wpływać na rozwój pożaru oraz jego moc, w szczególności ze względu na sposób magazynowania lub składowania tych odpadów, ich skład chemiczny lub postać, niezależnie od przyjętych kodów odpadów zawartych w przepisach wydanych na podstawie art. 4 ust. 3.
 
-3c. Uznania odpadów, o których mowa w ust. 3b, za niepalne dokonuje się indywidualnie w każdym przypadku w odniesieniu do określonego stanu faktycznego. Przy dokonywaniu uznania odpadów za niepalne można na zasadzie dobrowolności, o której mowa w art. 8 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2022 r. poz. 2057 oraz z 2023 r. poz. 1088), wykorzystać opinie rzeczoznawców do spraw zabezpieczeń przeciwpożarowych lub osób, o których mowa w art. 4 ust. 2a tej ustawy, a w przypadku braku takiej możliwości instytutów badawczych lub ośrodków naukowych specjalizujących się w badaniach w zakresie palności.
+3c. Uznania odpadów, o których mowa w ust. 3b, za niepalne dokonuje się indywidualnie w każdym przypadku w odniesieniu do określonego stanu faktycznego. Przy dokonywaniu uznania odpadów za niepalne można na zasadzie dobrowolności, o której mowa w art. 8 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2022 r. poz. 2057 oraz z 2023 r. poz. 1088), wykorzystać opinie rzeczoznawców do spraw zabezpieczeń przeciwpożarowych lub osób, o których mowa w art. 4 ust. 2a tej ustawy, a w przypadku braku takiej możliwości – instytutów badawczych lub ośrodków naukowych specjalizujących się w badaniach w zakresie palności.
 
 4. Odpady niebezpieczne oznaczają odpady wykazujące co najmniej jedną spośród właściwości niebezpiecznych. Właściwości powodujące, że odpady są odpadami niebezpiecznymi, oraz warunki uznania odpadów za niebezpieczne, z wyjątkiem warunków uznania odpadów za posiadające właściwości zakaźne, określają przepisy rozporządzenia Komisji (UE) nr 1357/2014 z dnia 18 grudnia 2014 r. zastępującego załącznik III do dyrektywy Parlamentu Europejskiego i Rady 2008/98/WE w sprawie odpadów oraz uchylającej niektóre dyrektywy (Dz. Urz. UE L 365 z 19.12.2014, str. 89, z późn. zm. ), zwanego dalej „rozporządzeniem (UE) nr 1357/2014”, oraz rozporządzenia Rady (UE) 2017/997 z dnia 8 czerwca 2017 r. zmieniającego załącznik III do dyrektywy Parlamentu Europejskiego i Rady 2008/98/WE w odniesieniu do niebezpiecznej właściwości HP 14 „Ekotoksyczne” (Dz. Urz. UE L 150 z 14.06.2017, str. 1), zwanego dalej „rozporządzeniem (UE) 2017/997”.
 
@@ -197,7 +157,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 
 3. Do zgłoszenia zmiany klasyfikacji odpadów niebezpiecznych na odpady inne niż niebezpieczne dołącza się wyniki badań właściwości odpadów przewidzianych do zmiany klasyfikacji oraz ocenę tych wyników badań w odniesieniu do badanych właściwości odpadów, uwzględniając przepisy rozporządzenia (UE) nr 1357/2014 i rozporządzenia (UE) 2017/997 oraz przepisy wydane na podstawie art. 3 ust. 5.
 
-4. Badania właściwości odpadów, o których mowa w ust. 3, wykonują wyłącznie laboratoria, o których mowa w art. 147a ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska. W celu przeprowadzenia badania laboratoria pobierają próbki odpadów objętych zgłoszeniem.
+4. Badania właściwości odpadów, o których mowa w ust. 3, wykonują wyłącznie laboratoria, o których mowa w art. 147a ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska. W celu przeprowadzenia badania laboratoria pobierają próbki odpadów objętych zgłoszeniem.
 
 5. Marszałek województwa wydaje decyzję zatwierdzającą zmianę klasyfikacji odpadów niebezpiecznych na odpady inne niż niebezpieczne albo decyzję o wyrażeniu sprzeciwu.
 
@@ -205,8 +165,8 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 
 1. Marszałek województwa przekazuje ministrowi właściwemu do spraw klimatu:
 
-- **1)** kopie zgłoszeń zmiany kwalifikacji odpadów niebezpiecznych na odpady inne niż niebezpieczne wraz z kopiami wyników badań właściwości odpadów w terminie miesiąca od dnia doręczenia decyzji;
-- **2)** zbiorczą informację za dany rok o liczbie zgłoszeń, decyzji zatwierdzających zmianę klasyfikacji odpadów niebezpiecznych na odpady inne niż niebezpieczne oraz decyzji o wyrażeniu sprzeciwu w terminie do dnia 31 marca następnego roku.
+- **1)** kopie zgłoszeń zmiany kwalifikacji odpadów niebezpiecznych na odpady inne niż niebezpieczne wraz z kopiami wyników badań właściwości odpadów – w terminie miesiąca od dnia doręczenia decyzji;
+- **2)** zbiorczą informację za dany rok o liczbie zgłoszeń, decyzji zatwierdzających zmianę klasyfikacji odpadów niebezpiecznych na odpady inne niż niebezpieczne oraz decyzji o wyrażeniu sprzeciwu – w terminie do dnia 31 marca następnego roku.
 
 2. Wymóg przekazania dokumentów, o których mowa w ust. 1 pkt 1, nie dotyczy przypadku, gdy od decyzji marszałka województwa zatwierdzającej zmianę klasyfikacji odpadów niebezpiecznych na odpady inne niż niebezpieczne albo od decyzji o wyrażeniu sprzeciwu wniesiono odwołanie, które przekazano ministrowi właściwemu do spraw klimatu.
 
@@ -231,7 +191,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 - **5)** opis procesu produkcyjnego, w którym powstaje przedmiot lub substancja, i procesu, w którym zostaną one wykorzystane;
 - **6)** informacje wskazujące na spełnienie warunków, o których mowa w art. 10.
 
-3. Do zgłoszenia uznania przedmiotu lub substancji za produkt uboczny dołącza się dowody potwierdzające spełnienie warunków, o których mowa w art. 10. Dowodami mogą być w szczególności umowy potwierdzające wykorzystanie przedmiotu lub substancji do określonych celów lub potwierdzające właściwości przedmiotu lub substancji wyniki badań, wykonanych przez laboratoria, o których mowa w art. 147a ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska.
+3. Do zgłoszenia uznania przedmiotu lub substancji za produkt uboczny dołącza się dowody potwierdzające spełnienie warunków, o których mowa w art. 10. Dowodami mogą być w szczególności umowy potwierdzające wykorzystanie przedmiotu lub substancji do określonych celów lub potwierdzające właściwości przedmiotu lub substancji wyniki badań, wykonanych przez laboratoria, o których mowa w art. 147a ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska.
 
 4. Marszałek województwa, w drodze decyzji wydawanej po zasięgnięciu opinii wojewódzkiego inspektora ochrony środowiska właściwego ze względu na miejsce wytwarzania przedmiotu lub substancji, potwierdza spełnienie warunków uznania za produkt uboczny albo stwierdza niespełnienie tych warunków.
 
@@ -247,7 +207,10 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 
 4f. W przypadku dokonywania zmian w procesie produkcyjnym, w którym powstają przedmiot lub substancja uznane za produkt uboczny, lub w procesie, w którym są one wykorzystywane, wytwórca przedmiotu lub substancji jest obowiązany do dokonania nowego zgłoszenia uznania przedmiotu lub substancji za produkt uboczny. Przepisy ust. 2–4e stosuje się.
 
-5. Przepisów ust. 1–4 nie stosuje się do przedmiotów lub substancji, które spełniają warunki uznania za produkt uboczny, stanowiących produkty przetworzenia drewna takich jak kora, strużyny, odziomki pomanipulacyjne, wałki połuszczarskie, trociny, wióry, zrębki, zrzyny, szczapy i inne pochodzące z przetworzenia tych produktów, w tym brykiety i pelety, stanowiących mechanicznie przetworzony naturalny surowiec drzewny niezawierający jakichkolwiek innych substancji.
+5. Przepisów ust. 1–4 nie stosuje się do przedmiotów lub substancji, które spełniają warunki uznania za produkt uboczny, stanowiących:
+
+- **1)** produkty przetworzenia drewna, takich jak: kora, strużyny, odziomki pomanipulacyjne, wałki połuszczarskie, trociny, wióry, zrębki, zrzyny, szczapy i inne pochodzące z przetworzenia tych produktów, w tym brykiety i pelety, stanowiących mechanicznie przetworzony naturalny surowiec drzewny niezawierający jakichkolwiek innych substancji;
+- **2)** substraty określone w przepisach wydanych na podstawie art. 4 ust. 3 ustawy z dnia 13 lipca 2023 r. o ułatwieniach w przygotowaniu i realizacji inwestycji w zakresie biogazowni rolniczych, a także ich funkcjonowaniu (Dz. U. poz. 1597), wykorzystywane do produkcji biogazu w rozumieniu art. 2 pkt 1 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii (Dz. U. z 2023 r. poz. 1436 i 1597) lub biogazu rolniczego w rozumieniu art. 2 pkt 2 tej ustawy.
 
 6. Jeżeli szczegółowe warunki uznania przedmiotu lub substancji za produkt uboczny, o których mowa w art. 10 pkt 5, nie zostały określone w przepisach prawa Unii Europejskiej, minister właściwy do spraw klimatu może określić, w drodze rozporządzenia, odrębnie dla jednej lub kilku spraw, dla niektórych przedmiotów lub substancji, szczegółowe warunki uznania przedmiotu lub substancji za produkt uboczny, kierując się względami ochrony środowiska oraz życia lub zdrowia ludzi.
 
@@ -271,14 +234,14 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
     - **c)** przedmiot lub substancja spełniają wymagania techniczne dla zastosowania do konkretnych celów oraz wymagania określone w przepisach, w szczególności dotyczących chemikaliów i produktów mających zastosowanie do danego przedmiotu lub danej substancji, i w normach mających zastosowanie do danego produktu,
     - **d)** zastosowanie przedmiotu lub substancji nie prowadzi do negatywnych skutków dla życia, zdrowia ludzi lub środowiska;
 
-- **2)** szczegółowe warunki utraty statusu odpadów, które są określone w przepisach prawa Unii Europejskiej albo w przepisach wydanych na podstawie ust. 1a, a jeżeli nie zostały określone w tych przepisach w zezwoleniu na przetwarzanie odpadów.
+- **2)** szczegółowe warunki utraty statusu odpadów, które są określone w przepisach prawa Unii Europejskiej albo w przepisach wydanych na podstawie ust. 1a, a jeżeli nie zostały określone w tych przepisach – w zezwoleniu na przetwarzanie odpadów.
 
 1a. Minister właściwy do spraw klimatu w porozumieniu odpowiednio z ministrem właściwym do spraw: budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, energii, gospodarki, gospodarki morskiej, łączności, informatyzacji, rolnictwa, transportu, żeglugi śródlądowej, wewnętrznych, zdrowia oraz Ministrem Obrony Narodowej, może określić, w drodze rozporządzenia, odrębnie dla jednej lub kilku spraw, dla niektórych odpadów, szczegółowe warunki utraty statusu odpadów, obejmujące w szczególności:
 
 - **1)** odpady wykorzystywane w procesie odzysku;
 - **2)** dopuszczalne procesy i techniki przetwarzania tych odpadów;
 - **3)** kryteria jakościowe stosowane do materiałów powstałych w procesie odzysku, które utraciły status odpadów, zgodnie z mającymi zastosowanie normami dotyczącymi produktów obejmującymi w razie potrzeby dopuszczalne wartości zanieczyszczeń;
-- **4)** wymogi dotyczące systemu gospodarowania, aby wykazać zgodność z warunkami utraty statusu odpadów, obejmujące jeżeli to niezbędne kontrolę jakości i monitorowanie własnej działalności, a także akredytację;
+- **4)** wymogi dotyczące systemu gospodarowania, aby wykazać zgodność z warunkami utraty statusu odpadów, obejmujące – jeżeli to niezbędne – kontrolę jakości i monitorowanie własnej działalności, a także akredytację;
 - **5)** wymogi dotyczące oceny oraz oświadczenia o zgodności z warunkami utraty statusu odpadów.
 
 1b. Wydając rozporządzenie, o którym mowa w ust. 1a, minister właściwy do spraw klimatu uwzględnia możliwy negatywny wpływ przedmiotów lub substancji, które utraciły status odpadów, na zdrowie lub życie ludzi oraz środowisko.
@@ -287,8 +250,8 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 
 3. Przedmiot lub substancja, które utraciły status odpadów, do czasu gdy są po raz pierwszy:
 
-- **1)** używane w przypadku gdy nie zostały wprowadzone do obrotu lub
-- **2)** wprowadzane do obrotu powinny spełniać warunki utraty statusu odpadów, o których mowa w ust. 1.
+- **1)** używane – w przypadku gdy nie zostały wprowadzone do obrotu lub
+- **2)** wprowadzane do obrotu – powinny spełniać warunki utraty statusu odpadów, o których mowa w ust. 1.
 
 **Art. 15.** Zakazuje się łącznego magazynowania odpadów i przedmiotu lub substancji, które utraciły status odpadów, a także magazynowania przedmiotu lub substancji, które utraciły status odpadów w miejscach przeznaczonych do magazynowania odpadów lub składowania odpadów.
 
@@ -320,7 +283,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 
 2. Odpady, których powstaniu nie udało się zapobiec, posiadacz odpadów w pierwszej kolejności jest obowiązany poddać odzyskowi.
 
-3. Odzysk, o którym mowa w ust. 2, polega w pierwszej kolejności na przygotowaniu odpadów przez ich posiadacza do ponownego użycia lub poddaniu recyklingowi, a jeżeli nie jest to możliwe z przyczyn technologicznych lub nie jest uzasadnione z przyczyn ekologicznych lub ekonomicznych poddaniu innym procesom odzysku.
+3. Odzysk, o którym mowa w ust. 2, polega w pierwszej kolejności na przygotowaniu odpadów przez ich posiadacza do ponownego użycia lub poddaniu recyklingowi, a jeżeli nie jest to możliwe z przyczyn technologicznych lub nie jest uzasadnione z przyczyn ekologicznych lub ekonomicznych – poddaniu innym procesom odzysku.
 
 3a. Jeżeli jest to niezbędne do zapewnienia odzysku zgodnego z ust. 3 lub ułatwienia lub udoskonalenia tego odzysku, posiadacz odpadów, z wyjątkiem wytwórcy odpadów nieprowadzącego ich odzysku, przed odzyskiem lub podczas odzysku usuwa niebezpieczne substancje, mieszaniny i składniki z odpadów niebezpiecznych w celu zapewnienia przetworzenia tych odpadów zgodnie z art. 16 i art. 17 ust. 1.
 
@@ -350,7 +313,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 - **1)** promowaniu i wspieraniu zrównoważonych modeli produkcji i konsumpcji;
 - **2)** zachęcaniu do projektowania, wytwarzania i korzystania z produktów, które są zasobooszczędne, trwałe, nadające się do naprawy, ponownego użycia i modernizacji oraz do nieskracania sztucznie cyklu życia produktów;
 - **3)** zachęcaniu do ponownego używania produktów i tworzenia systemów promujących ich naprawę i ponowne użycie, w szczególności w odniesieniu do sprzętu elektrycznego i elektronicznego, tekstyliów, mebli, opakowań oraz materiałów i produktów budowlanych;
-- **4)** wspieraniu dostępności części zamiennych, instrukcji obsługi, informacji technicznych lub innych narzędzi, sprzętu lub oprogramowania pozwalających na naprawę i ponowne użycie produktów bez szkody dla ich jakości i bezpieczeństwa jeżeli nie prowadzi to do naruszenia prawa własności intelektualnej;
+- **4)** wspieraniu dostępności części zamiennych, instrukcji obsługi, informacji technicznych lub innych narzędzi, sprzętu lub oprogramowania pozwalających na naprawę i ponowne użycie produktów bez szkody dla ich jakości i bezpieczeństwa – jeżeli nie prowadzi to do naruszenia prawa własności intelektualnej;
 - **5)** zmniejszeniu powstawania odpadów w procesach związanych z produkcją przemysłową, wydobywaniem kopalin ze złóż i z wytwórczością oraz budową i rozbiórką, przy uwzględnieniu najlepszych dostępnych technik;
 - **6)** zmniejszeniu wytwarzania odpadów żywności w produkcji podstawowej, przetwórstwie i wytwarzaniu, w sprzedaży detalicznej i innej dystrybucji żywności, w usługach gastronomicznych oraz w gospodarstwach domowych;
 - **7)** zachęcaniu do dokonywania darowizn produktów spożywczych i do innych form redystrybucji żywności, przy zachowaniu pierwszeństwa przeznaczania dla ludzi przed wykorzystaniem jako paszy dla zwierząt czy przetwarzania na produkty niespożywcze;
@@ -368,12 +331,12 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 
 1. Odpady, z uwzględnieniem hierarchii sposobów postępowania z odpadami, w pierwszej kolejności poddaje się przetwarzaniu w miejscu ich powstania.
 
-2. Odpady, które nie mogą być przetworzone w miejscu ich powstania, przekazuje się, uwzględniając hierarchię sposobów postępowania z odpadami oraz najlepszą dostępną technikę, o której mowa w art. 207 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska, lub technologię, o której mowa w art. 143 tej ustawy, do najbliżej położonych miejsc, w których mogą być przetworzone.
+2. Odpady, które nie mogą być przetworzone w miejscu ich powstania, przekazuje się, uwzględniając hierarchię sposobów postępowania z odpadami oraz najlepszą dostępną technikę, o której mowa w art. 207 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, lub technologię, o której mowa w art. 143 tej ustawy, do najbliżej położonych miejsc, w których mogą być przetworzone.
 
 3. Zakazuje się:
 
 - **1)** stosowania komunalnych osadów ściekowych,
-- **2)** unieszkodliwiania zakaźnych odpadów medycznych i zakaźnych odpadów weterynaryjnych poza obszarem województwa, na którym zostały wytworzone.
+- **2)** unieszkodliwiania zakaźnych odpadów medycznych i zakaźnych odpadów weterynaryjnych – poza obszarem województwa, na którym zostały wytworzone.
 
 4. Zakazuje się przywozu na obszar województwa odpadów, o których mowa w ust. 3, wytworzonych poza obszarem tego województwa, do celów, o których mowa w ust. 3.
 
@@ -414,7 +377,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 
 2. W przypadkach określonych w przepisach odrębnych koszty gospodarowania odpadami ponosi określony w tych przepisach wprowadzający produkty do obrotu na terytorium kraju. Do kosztów tych zalicza się koszty:
 
-- **1)** selektywnego zbierania odpadów powstałych z produktów, a następnie ich transportu i przetwarzania oraz koszty niezbędne do realizacji innych celów i zadań, o których mowa w przepisach odrębnych, pomniejszone o przychody z ponownego użycia, ze sprzedaży materiałów pochodzących z przetwarzania tych odpadów, a w przypadku wprowadzenia systemu kaucyjnego z nieodebranej kaucji;
+- **1)** selektywnego zbierania odpadów powstałych z produktów, a następnie ich transportu i przetwarzania oraz koszty niezbędne do realizacji innych celów i zadań, o których mowa w przepisach odrębnych, pomniejszone o przychody z ponownego użycia, ze sprzedaży materiałów pochodzących z przetwarzania tych odpadów, a w przypadku wprowadzenia systemu kaucyjnego – z nieodebranej kaucji;
 - **2)** informowania posiadaczy odpadów powstałych z produktów o środkach służących zapobieganiu powstawaniu odpadów, zakładach zajmujących się ponownym użyciem i przygotowaniem do ponownego użycia, systemach zbierania odpadów oraz o sposobach zapobiegania zaśmiecaniu;
 - **3)** gromadzenia danych dotyczących produktów wprowadzanych do obrotu oraz zbierania i przetwarzania odpadów powstałych z produktów, a także sprawozdawczości w tym zakresie.
 
@@ -487,7 +450,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 
 - **1)** naruszenie szczegółowych wymagań dla transportu odpadów,
 - **2)** przemieszczanie odpadów do nieuprawnionego odbiorcy,
-- **3)** naruszenie przepisów o międzynarodowym przemieszczaniu odpadów pojazd wraz z odpadami może zostać zatrzymany przez Krajową Administrację Skarbową, Straż Graniczną, Policję, Inspekcję Transportu Drogowego oraz organy Inspekcji Ochrony Środowiska.
+- **3)** naruszenie przepisów o międzynarodowym przemieszczaniu odpadów – pojazd wraz z odpadami może zostać zatrzymany przez Krajową Administrację Skarbową, Straż Graniczną, Policję, Inspekcję Transportu Drogowego oraz organy Inspekcji Ochrony Środowiska.
 
 2. Zatrzymany pojazd wraz z odpadami jest kierowany do najbliższego dostępnego miejsca wyznaczonego w wojewódzkim planie gospodarki odpadami spełniającego warunki magazynowania odpadów. Plan ten w części dotyczącej wyznaczenia miejsc spełniających warunki magazynowania odpadów podlega zaopiniowaniu przez właściwych starostów, na terenie działania których mają zostać wyznaczone te miejsca. Starosta wyraża opinię w terminie nie dłuższym niż miesiąc od dnia otrzymania planu. Nieudzielenie opinii w tym terminie uznaje się za opinię pozytywną.
 
@@ -496,9 +459,9 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 - **1)** nadzorowaniu przejazdu tego pojazdu przez funkcjonariuszy lub inspektorów podmiotów, o których mowa w ust. 1, albo
 - **2)** usunięciu pojazdu przez jego przewiezienie lub holowanie.
 
-2b. Dyspozycję przewiezienia lub holowania pojazdu wydaje się podmiotowi, któremu starosta właściwy ze względu na miejsce kontroli powierzył zadanie usuwania pojazdów w trybie art. 130a ust. 5f ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym (Dz. U. z 2023 r. poz. 1047, 919, 1053, 1088, 1123 i 1193), a jeżeli jest to niemożliwe, dyspozycję wydaje się innemu przedsiębiorcy prowadzącemu działalność gospodarczą obejmującą usuwanie pojazdów.
+2b. Dyspozycję przewiezienia lub holowania pojazdu wydaje się podmiotowi, któremu starosta właściwy ze względu na miejsce kontroli powierzył zadanie usuwania pojazdów w trybie art. 130a ust. 5f ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2023 r. poz. 1047, 919, 1053, 1088, 1123 i 1193), a jeżeli jest to niemożliwe, dyspozycję wydaje się innemu przedsiębiorcy prowadzącemu działalność gospodarczą obejmującą usuwanie pojazdów.
 
-2c. Jeżeli w związku z ujawnieniem przypadków, o których mowa w ust. 1, niezbędne jest przeprowadzenie czynności, o których mowa w art. 217, art. 228 oraz art. 308 § 1 i 2 ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego (Dz. U. z 2022 r. poz. 1375, z późn. zm. ), skierowanie, o którym mowa w ust. 2, jest realizowane po wykonaniu tych czynności.
+2c. Jeżeli w związku z ujawnieniem przypadków, o których mowa w ust. 1, niezbędne jest przeprowadzenie czynności, o których mowa w art. 217, art. 228 oraz art. 308 § 1 i 2 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2022 r. poz. 1375, z późn. zm. ), skierowanie, o którym mowa w ust. 2, jest realizowane po wykonaniu tych czynności.
 
 3. Miejsca, o których mowa w ust. 2, wyznacza się uwzględniając jedno miejsce magazynowania odpadów na 1 mln mieszkańców w województwie, nie więcej jednak niż trzy miejsca w województwie.
 
@@ -522,7 +485,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 
 13. Egzekucji, o której mowa w ust. 12, nie wszczyna się, a wszczętą umarza, jeżeli od dnia doręczenia prawomocnego postanowienia, o którym mowa w ust. 8, upłynęło 5 lat.
 
-14. W zakresie nieuregulowanym w ustawie do wydania dyspozycji przewiezienia lub holowania pojazdu stosuje się odpowiednio przepisy wydane na podstawie art. 130a ust. 11 ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym dotyczące dyspozycji usunięcia pojazdu.
+14. W zakresie nieuregulowanym w ustawie do wydania dyspozycji przewiezienia lub holowania pojazdu stosuje się odpowiednio przepisy wydane na podstawie art. 130a ust. 11 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym dotyczące dyspozycji usunięcia pojazdu.
 
 **Art. 24b.**
 
@@ -573,19 +536,19 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 - **5)** tworzywa sztuczne, w tym folia, oraz opony i inne odpady z gumy,
 - **6)** drewno i odpady drewnopochodne,
 - **7)** odpady pochodzące z przetwarzania odpadów komunalnych, z wyłączeniem odpadów pochodzących z termicznego przetwarzania odpadów,
-- **8)** odpady wielomateriałowe złożone z materiałów, o których mowa w pkt 2, 3, 5 lub 6 posiadacz odpadów obowiązany do uzyskania zezwolenia na zbieranie odpadów lub zezwolenia na przetwarzanie odpadów, pozwolenia na wytwarzanie odpadów uwzględniającego zbieranie lub przetwarzanie odpadów lub pozwolenia zintegrowanego uwzględniającego zbieranie lub przetwarzanie odpadów, prowadzący magazynowanie odpadów lub zarządzający składowiskiem odpadów zapewnia wojewódzkiemu inspektorowi ochrony środowiska właściwemu ze względu na lokalizację miejsca magazynowania lub składowania odpadów dostępność obrazu z wizyjnego systemu kontroli tego miejsca w czasie rzeczywistym przez system teleinformatyczny.
+- **8)** odpady wielomateriałowe złożone z materiałów, o których mowa w pkt 2, 3, 5 lub 6 – posiadacz odpadów obowiązany do uzyskania zezwolenia na zbieranie odpadów lub zezwolenia na przetwarzanie odpadów, pozwolenia na wytwarzanie odpadów uwzględniającego zbieranie lub przetwarzanie odpadów lub pozwolenia zintegrowanego uwzględniającego zbieranie lub przetwarzanie odpadów, prowadzący magazynowanie odpadów lub zarządzający składowiskiem odpadów zapewnia wojewódzkiemu inspektorowi ochrony środowiska właściwemu ze względu na lokalizację miejsca magazynowania lub składowania odpadów dostępność obrazu z wizyjnego systemu kontroli tego miejsca w czasie rzeczywistym przez system teleinformatyczny.
 
 6g. Wojewódzki inspektor ochrony środowiska wykorzystuje dostęp do rejestrowanego obrazu w czasie rzeczywistym w przypadku:
 
 - **1)** prowadzonej kontroli, o której mowa w art. 9 ustawy z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska (Dz. U. z 2023 r. poz. 824 i 1195);
-- **2)** powzięcia uzasadnionego podejrzenia popełnienia przestępstwa przeciwko środowisku określonego w art. 182, art. 183 lub art. 186 ustawy z dnia 6 czerwca 1997 r. Kodeks karny (Dz. U. z 2022 r. poz. 1138, z późn. zm. ) albo wykroczenia określonego w art. 154 § 2 ustawy z dnia 20 maja 1971 r. Kodeks wykroczeń (Dz. U. z 2022 r. poz. 2151, z późn. zm. ), albo wykroczeń, o których mowa w art. 10b ust. 1 pkt 1–15 ustawy z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska.
+- **2)** powzięcia uzasadnionego podejrzenia popełnienia przestępstwa przeciwko środowisku określonego w art. 182, art. 183 lub art. 186 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2022 r. poz. 1138, z późn. zm. ) albo wykroczenia określonego w art. 154 § 2 ustawy z dnia 20 maja 1971 r. – Kodeks wykroczeń (Dz. U. z 2022 r. poz. 2151, z późn. zm. ), albo wykroczeń, o których mowa w art. 10b ust. 1 pkt 1–15 ustawy z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska.
 
 6h. Posiadacz odpadów obowiązany do uzyskania zezwolenia na zbieranie odpadów lub zezwolenia na przetwarzanie odpadów, pozwolenia na wytwarzanie odpadów uwzględniającego zbieranie lub przetwarzanie odpadów lub pozwolenia zintegrowanego uwzględniającego zbieranie lub przetwarzanie odpadów, prowadzący magazynowanie odpadów lub zarządzający składowiskiem odpadów zapewnia dostępność obrazu w czasie rzeczywistym wojewódzkiemu inspektorowi ochrony środowiska, o którym mowa w ust. 6f, przez przekazanie informacji umożliwiających logowanie do wizyjnego systemu kontroli miejsca magazynowania lub składowania odpadów w sposób zapewniający zachowanie tych informacji w poufności. Informacje te mogą podlegać weryfikacji przez wojewódzkiego inspektora ochrony środowiska, która polega na próbnym zalogowaniu się przez wojewódzkiego inspektora ochrony środowiska do wizyjnego systemu kontroli miejsca magazynowania lub składowania odpadów, w terminie ustalonym z podmiotem, którego ta weryfikacja dotyczy.
 
 6i. W przypadku miejsca magazynowania lub składowania odpadów:
 
 - **1)** w jednostkach organizacyjnych podległych albo nadzorowanych przez Ministra Obrony Narodowej,
-- **2)** stanowiącego element obiektów, instalacji, urządzeń i usług ujętych w jednolitym wykazie obiektów, instalacji, urządzeń i usług wchodzących w skład infrastruktury krytycznej, o którym mowa w art. 5b ust. 7 pkt 1 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym (Dz. U. z 2023 r. poz. 122) nie stosuje się przepisów ust. 6f–6h.
+- **2)** stanowiącego element obiektów, instalacji, urządzeń i usług ujętych w jednolitym wykazie obiektów, instalacji, urządzeń i usług wchodzących w skład infrastruktury krytycznej, o którym mowa w art. 5b ust. 7 pkt 1 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym (Dz. U. z 2023 r. poz. 122) – nie stosuje się przepisów ust. 6f–6h.
 
 6j. Przepisów ust. 6a–6i nie stosuje się do odpadów wymienionych w załączniku nr 2a do ustawy oraz odpadów uznanych za niepalne zgodnie z art. 3 ust. 3c, niebędących odpadami niebezpiecznymi.
 
@@ -603,7 +566,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 
 2. Z zastrzeżeniem art. 26a, w przypadku nieusunięcia odpadów zgodnie z ust. 1, wójt, burmistrz lub prezydent miasta, w drodze decyzji wydawanej z urzędu, nakazuje posiadaczowi odpadów usunięcie odpadów z miejsca nieprzeznaczonego do ich składowania lub magazynowania, z wyjątkiem przypadku, gdy obowiązek usunięcia odpadów jest skutkiem wydania decyzji o cofnięciu decyzji związanej z gospodarką odpadami, stwierdzenia nieważności, uchylenia lub wygaśnięcia decyzji związanej z gospodarką odpadami.
 
-3. Nakaz usunięcia odpadów, o którym mowa w ust. 2, z terenów zamkniętych oraz z nieruchomości, którymi gmina włada jako władający powierzchnią ziemi, a niebędących w posiadaniu innego podmiotu wydaje właściwy regionalny dyrektor ochrony środowiska.
+3. Nakaz usunięcia odpadów, o którym mowa w ust. 2, z terenów zamkniętych oraz z nieruchomości, którymi gmina włada jako władający powierzchnią ziemi, a niebędących w posiadaniu innego podmiotu – wydaje właściwy regionalny dyrektor ochrony środowiska.
 
 3a. Decyzję, o której mowa w ust. 2, wydaje się w stosunku do wszystkich posiadaczy odpadów odpowiedzialnych za gospodarowanie odpadami, o których mowa w ust. 1. Za wykonanie obowiązków wskazanych w decyzji posiadacze odpadów odpowiedzialni są solidarnie.
 
@@ -611,7 +574,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 
 3c. Właściwy organ może zmienić, bez odszkodowania, sposób wykonania decyzji, o której mowa w ust. 2, w przypadku gdy wykonanie decyzji w sposób w niej wskazany okaże się niemożliwe lub może stwarzać zagrożenia dla życia, zdrowia lub środowiska lub inny sposób wykonania jest bardziej racjonalny ze względu na wymagania ochrony środowiska lub ze względów ekonomicznych przy zachowaniu właściwego poziomu ochrony życia, zdrowia ludzi i środowiska.
 
-4. Jeżeli posiadacz odpadów nie posiada tytułu prawnego do nieruchomości, z której jest obowiązany usunąć odpady, władający powierzchnią ziemi jest obowiązany umożliwić posiadaczowi odpadów usunięcie odpadów z tej nieruchomości, a w przypadku wykonania zastępczego decyzji organowi egzekucyjnemu.
+4. Jeżeli posiadacz odpadów nie posiada tytułu prawnego do nieruchomości, z której jest obowiązany usunąć odpady, władający powierzchnią ziemi jest obowiązany umożliwić posiadaczowi odpadów usunięcie odpadów z tej nieruchomości, a w przypadku wykonania zastępczego decyzji – organowi egzekucyjnemu.
 
 5. Władającemu powierzchnią ziemi przysługuje od posiadacza odpadów wynagrodzenie za udostępnienie nieruchomości.
 
@@ -627,9 +590,9 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 
 2. Właściwym organem w sprawach, o których mowa w ust. 1, jest:
 
-- **1)** w przypadku terenów zamkniętych oraz nieruchomości, którymi gmina włada jako władający powierzchnią ziemi regionalny dyrektor ochrony środowiska;
-- **2)** w przypadku gdy obowiązek usunięcia odpadów powstał w związku z wydaniem decyzji o cofnięciu decyzji związanej z gospodarką odpadami, stwierdzeniem nieważności, uchyleniem lub wygaśnięciem decyzji związanej z gospodarką odpadami organ właściwy do wydania tej decyzji;
-- **3)** w pozostałych przypadkach wójt, burmistrz lub prezydent miasta.
+- **1)** w przypadku terenów zamkniętych oraz nieruchomości, którymi gmina włada jako władający powierzchnią ziemi – regionalny dyrektor ochrony środowiska;
+- **2)** w przypadku gdy obowiązek usunięcia odpadów powstał w związku z wydaniem decyzji o cofnięciu decyzji związanej z gospodarką odpadami, stwierdzeniem nieważności, uchyleniem lub wygaśnięciem decyzji związanej z gospodarką odpadami – organ właściwy do wydania tej decyzji;
+- **3)** w pozostałych przypadkach – wójt, burmistrz lub prezydent miasta.
 
 3. W celu wykonania obowiązków, o których mowa w ust. 1, właściwy organ określa, w drodze decyzji skierowanej do władającego powierzchnią ziemi:
 
@@ -637,7 +600,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 - **2)** zakres i sposób przeprowadzenia działań mających na celu usunięcie odpadów przez ten organ;
 - **3)** termin rozpoczęcia i zakończenia działań, o których mowa w pkt 2.
 
-4. Decyzja, o której mowa w ust. 3, podlega natychmiastowemu wykonaniu. Przepisów art. 61 § 3 i 4 ustawy z dnia 30 sierpnia 2002 r. Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2023 r. poz. 259 i 803) nie stosuje się.
+4. Decyzja, o której mowa w ust. 3, podlega natychmiastowemu wykonaniu. Przepisów art. 61 § 3 i 4 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2023 r. poz. 259 i 803) nie stosuje się.
 
 5. Decyzję, o której mowa w ust. 3, wydaje się po zasięgnięciu opinii w sprawie spełnienia przesłanek konieczności niezwłocznego usunięcia odpadów:
 
@@ -663,9 +626,9 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 10. Roszczenie o zwrot:
 
 - **1)** kosztów, o których mowa w ust. 6,
-- **2)** różnicy, o której mowa w ust. 8 przedawnia się po upływie 10 lat od dnia, w którym decyzja, o której mowa odpowiednio w ust. 8 albo 9, stała się ostateczna.
+- **2)** różnicy, o której mowa w ust. 8 – przedawnia się po upływie 10 lat od dnia, w którym decyzja, o której mowa odpowiednio w ust. 8 albo 9, stała się ostateczna.
 
-11. Do należności z tytułu obowiązku zwrotu kosztów poniesionych przez właściwy organ, w ramach realizacji działań polegających na usunięciu odpadów i gospodarowaniu nimi, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2022 r. poz. 2651, z późn. zm. ), z tym że uprawnienia organów podatkowych przysługują właściwemu organowi.
+11. Do należności z tytułu obowiązku zwrotu kosztów poniesionych przez właściwy organ, w ramach realizacji działań polegających na usunięciu odpadów i gospodarowaniu nimi, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2022 r. poz. 2651, z późn. zm. ), z tym że uprawnienia organów podatkowych przysługują właściwemu organowi.
 
 12. Przepisów ust. 1–11 nie stosuje się, w przypadku gdy:
 
@@ -685,8 +648,8 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 2. Wytwórca odpadów lub inny posiadacz odpadów może zlecić wykonanie obowiązku gospodarowania odpadami wyłącznie podmiotom, które posiadają:
 
 - **1)** zezwolenie na zbieranie odpadów lub zezwolenie na przetwarzanie odpadów, lub
-- **2)** koncesję na podziemne składowanie odpadów, pozwolenie zintegrowane, decyzję zatwierdzającą program gospodarowania odpadami wydobywczymi, zezwolenie na prowadzenie obiektu unieszkodliwiania odpadów wydobywczych lub wpis do rejestru działalności regulowanej w zakresie odbierania odpadów komunalnych od właścicieli nieruchomości na podstawie odrębnych przepisów, lub
-- **3)** wpis do rejestru w zakresie, o którym mowa w art. 50 ust. 1 pkt 5 chyba że działalność taka nie wymaga uzyskania decyzji lub wpisu do rejestru.
+- **2)** koncesję na podziemne składowanie odpadów, pozwolenie zintegrowane, decyzję zatwierdzającą program gospodarowania odpadami wydobywczymi, zezwolenie na prowadzenie obiektu unieszkodliwiania odpadów wydobywczych lub wpis do rejestru działalności regulowanej w zakresie odbierania odpadów komunalnych od właścicieli nieruchomości – na podstawie odrębnych przepisów, lub
+- **3)** wpis do rejestru w zakresie, o którym mowa w art. 50 ust. 1 pkt 5 – chyba że działalność taka nie wymaga uzyskania decyzji lub wpisu do rejestru.
 
 3. Jeżeli wytwórca odpadów lub inny posiadacz odpadów przekazuje odpady następnemu posiadaczowi odpadów, który posiada decyzję wymienioną w ust. 2 pkt 1 lub 2 albo posiada wpis do rejestru w zakresie, o którym mowa w art. 50 ust. 1 pkt 5 lit. a, odpowiedzialność za gospodarowanie odpadami, z chwilą ich przekazania, przechodzi na tego następnego posiadacza odpadów.
 
@@ -714,7 +677,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 10. Minister właściwy do spraw klimatu, w drodze rozporządzenia:
 
 - **1)** określi listę rodzajów odpadów, które osoba fizyczna lub jednostka organizacyjna niebędące przedsiębiorcami mogą poddawać odzyskowi na potrzeby własne, oraz dopuszczalne metody odzysku,
-- **2)** może określić dla niektórych rodzajów odpadów, o których mowa w pkt 1, warunki magazynowania odpadów przeznaczonych do wykorzystania na potrzeby własne oraz dopuszczalne ilości, które te podmioty mogą przyjąć i magazynować w ciągu roku, lub sposób określenia tych ilości kierując się właściwościami odpadów oraz możliwościami ich bezpiecznego wykorzystania.
+- **2)** może określić dla niektórych rodzajów odpadów, o których mowa w pkt 1, warunki magazynowania odpadów przeznaczonych do wykorzystania na potrzeby własne oraz dopuszczalne ilości, które te podmioty mogą przyjąć i magazynować w ciągu roku, lub sposób określenia tych ilości – kierując się właściwościami odpadów oraz możliwościami ich bezpiecznego wykorzystania.
 
 **Art. 28.**
 
@@ -777,7 +740,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 
 6. W zezwoleniu na spalanie odpadów poza instalacjami i urządzeniami określa się:
 
-- **1)** rodzaj odpadów przewidzianych do spalania poza instalacjami i urządzeniami, w tym podstawowy skład chemiczny i właściwości odpadów w przypadku, o którym mowa w ust. 5;
+- **1)** rodzaj odpadów przewidzianych do spalania poza instalacjami i urządzeniami, w tym podstawowy skład chemiczny i właściwości odpadów – w przypadku, o którym mowa w ust. 5;
 - **2)** ilość odpadów poszczególnych rodzajów poddawanych spalaniu w okresie roku;
 - **3)** miejsce spalania odpadów;
 - **4)** warunki spalania odpadów danego rodzaju poza instalacjami i urządzeniami;
@@ -810,7 +773,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 
 5. W decyzji o wstrzymaniu działalności określa się termin wstrzymania działalności, uwzględniając potrzebę bezpiecznego dla środowiska zaprzestania wykonywania działalności w sposób, o którym mowa w ust. 1–1b. Termin wstrzymania działalności nie może być dłuższy niż rok od dnia doręczenia decyzji o wstrzymaniu działalności.
 
-5a. Decyzja, o której mowa w ust. 1a lub 1b, podlega natychmiastowemu wykonaniu. Przepisów art. 61 § 3 i 4 ustawy z dnia 30 sierpnia 2002 r. Prawo o postępowaniu przed sądami administracyjnymi nie stosuje się.
+5a. Decyzja, o której mowa w ust. 1a lub 1b, podlega natychmiastowemu wykonaniu. Przepisów art. 61 § 3 i 4 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi nie stosuje się.
 
 6. Po stwierdzeniu, że ustały przyczyny wstrzymania działalności, wojewódzki inspektor ochrony środowiska, na wniosek zainteresowanego, wyraża, w drodze decyzji, zgodę na podjęcie wstrzymanej działalności.
 
@@ -861,7 +824,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
     - **d)** informacje o rodzajach i ilości odpadów poddawanych poszczególnym procesom unieszkodliwiania, również w instalacjach położonych poza terytorium kraju,
     - **e)** informacje o istniejących systemach gospodarowania odpadami, w tym zbierania odpadów,
     - **f)** informacje o rodzajach, rozmieszczeniu i mocy przerobowej istniejących i istotnych dla systemu gospodarki odpadami instalacji odzysku i unieszkodliwiania odpadów, w tym o rozwiązaniach dotyczących olejów odpadowych, odpadów niebezpiecznych, odpadów komunalnych, odpadów zawierających znaczne ilości surowców najistotniejszych z ekonomicznego punktu widzenia, których dostawy są obarczone wysokim ryzykiem, zwanych dalej „surowcami krytycznymi”, lub innych strumieni odpadów,
-    - **g)** informacje o problemach w zakresie gospodarki odpadami, w tym ocenę: konieczności zamknięcia istniejących instalacji gospodarowania odpadami i potrzeby budowy dodatkowej infrastruktury gospodarowania odpadami zgodnie z zasadą bliskości oraz konieczności realizacji inwestycji w celu zaspokojenia istniejących potrzeb jeżeli jest to uzasadnione, istniejących systemów zbierania odpadów, w tym rodzajów odpadów objętych tymi systemami i terytorialnego zakresu selektywnego zbierania odpadów, środków służących poprawie funkcjonowania tych systemów oraz potrzeby stworzenia nowych systemów zbierania odpadów, uwzględniającą jeżeli to konieczne podstawowe informacje związane z obszarem, dla którego jest sporządzany plan gospodarki odpadami, w szczególności położenie geograficzne, sytuację demograficzną, sytuację gospodarczą oraz warunki glebowe, hydrogeologiczne i hydrologiczne, mogące mieć wpływ na lokalizację instalacji gospodarowania odpadami,
+    - **g)** informacje o problemach w zakresie gospodarki odpadami, w tym ocenę: – konieczności zamknięcia istniejących instalacji gospodarowania odpadami i potrzeby budowy dodatkowej infrastruktury gospodarowania odpadami zgodnie z zasadą bliskości oraz konieczności realizacji inwestycji w celu zaspokojenia istniejących potrzeb – jeżeli jest to uzasadnione, – istniejących systemów zbierania odpadów, w tym rodzajów odpadów objętych tymi systemami i terytorialnego zakresu selektywnego zbierania odpadów, środków służących poprawie funkcjonowania tych systemów oraz potrzeby stworzenia nowych systemów zbierania odpadów, – uwzględniającą – jeżeli to konieczne – podstawowe informacje związane z obszarem, dla którego jest sporządzany plan gospodarki odpadami, w szczególności położenie geograficzne, sytuację demograficzną, sytuację gospodarczą oraz warunki glebowe, hydrogeologiczne i hydrologiczne, mogące mieć wpływ na lokalizację instalacji gospodarowania odpadami,
     - **h)** ocenę inwestycji i środków finansowych, w tym w odniesieniu do jednostek samorządu terytorialnego, niezbędnych do zaspokojenia potrzeb, o których mowa w lit. g tiret pierwsze,
     - **i)** informacje o środkach mających na celu przeciwdziałanie umieszczaniu odpadów nadających się do poddania recyklingowi lub innemu odzyskowi, w szczególności odpadów komunalnych, na składowisku, z wyjątkiem odpadów, których składowanie zapewnia wynik najlepszy dla środowiska,
     - **j)** informacje o środkach na rzecz zwalczania zaśmiecania środowiska lądowego i morskiego oraz przeciwdziałania temu zaśmiecaniu i usuwaniu wszystkich rodzajów odpadów,
@@ -871,8 +834,8 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 - **3)** przyjęte cele w zakresie gospodarki odpadami z podaniem terminów ich osiągnięcia, w tym cele dotyczące zapobiegania powstawaniu odpadów i ograniczania ilości odpadów komunalnych ulegających biodegradacji kierowanych na składowisko odpadów;
 - **4)** kierunki działań w zakresie zapobiegania powstawaniu odpadów oraz kształtowania systemu gospodarki odpadami, podejmowanych dla osiągnięcia celów, o których mowa w pkt 3, w tym:
     - **a)** rozwiązania dotyczące olejów odpadowych, odpadów niebezpiecznych, odpadów komunalnych, odpadów zawierających znaczne ilości surowców krytycznych oraz innych strumieni odpadów,
-    - **b)** określenie polityki w zakresie gospodarki odpadami wraz z planowanymi technologiami i metodami jej realizacji lub polityki w zakresie postępowania z odpadami stwarzającymi problemy z ich zagospodarowaniem, w tym: środki, jakie należy zastosować, aby udoskonalić z punktu widzenia ochrony środowiska przygotowanie do ponownego użycia, recykling, inny niż recykling odzysk oraz unieszkodliwianie odpadów, środki zachęcające do selektywnego zbierania bioodpadów w celu ich kompostowania, fermentacji lub przetwarzania w inny sposób, który zapewnia wysoki poziom ochrony środowiska, stosowania bezpiecznych dla środowiska materiałów wyprodukowanych z bioodpadów, przy zachowaniu wysokiego poziomu ochrony życia i zdrowia ludzi oraz środowiska,
-    - **c)** informacje dotyczące kryteriów lokalizacji instalacji gospodarowania odpadami oraz mocy przerobowych przyszłych instalacji unieszkodliwiania odpadów lub istotnych dla systemu gospodarki odpadami instalacji odzysku jeżeli jest to konieczne;
+    - **b)** określenie polityki w zakresie gospodarki odpadami wraz z planowanymi technologiami i metodami jej realizacji lub polityki w zakresie postępowania z odpadami stwarzającymi problemy z ich zagospodarowaniem, w tym: – środki, jakie należy zastosować, aby udoskonalić z punktu widzenia ochrony środowiska przygotowanie do ponownego użycia, recykling, inny niż recykling odzysk oraz unieszkodliwianie odpadów, – środki zachęcające do selektywnego zbierania bioodpadów w celu ich kompostowania, fermentacji lub przetwarzania w inny sposób, który zapewnia wysoki poziom ochrony środowiska, stosowania bezpiecznych dla środowiska materiałów wyprodukowanych z bioodpadów, przy zachowaniu wysokiego poziomu ochrony życia i zdrowia ludzi oraz środowiska,
+    - **c)** informacje dotyczące kryteriów lokalizacji instalacji gospodarowania odpadami oraz mocy przerobowych przyszłych instalacji unieszkodliwiania odpadów lub istotnych dla systemu gospodarki odpadami instalacji odzysku – jeżeli jest to konieczne;
 
 - **4a)** kierunki działań w celu zapobiegania powstawaniu odpadów z produktów, w tym opakowań jednorazowego użytku z tworzyw sztucznych, oraz działania służące zmniejszeniu stosowania produktów jednorazowego użytku z tworzyw sztucznych wymienionych w załączniku nr 6 do ustawy z dnia 11 maja 2001 r. o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej (Dz. U. z 2020 r. poz. 1903 oraz z 2023 r. poz. 877) będących opakowaniami;
 - **5)** harmonogram, określenie wykonawców i sposobu finansowania oraz przewidywane koszty zadań wynikających z przyjętych kierunków działań, o których mowa w pkt 4;
@@ -886,9 +849,9 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 - **1)** cele dotyczące zapobiegania powstawaniu odpadów;
 - **2)** opis istniejących środków służących zapobieganiu powstawaniu odpadów, z wyodrębnieniem ponownego użycia, oraz ich wkład w zapobieganie powstawaniu odpadów;
 - **3)** wskaźniki jakościowe lub ilościowe w celu monitorowania i oceny wdrażania środków służących zapobieganiu powstawaniu odpadów, z wyodrębnieniem ponownego użycia, w szczególności dotyczące ilości wytwarzanych odpadów oraz pomiaru poziomów odpadów żywności;
-- **4)** informacje o wpływie instrumentów ekonomicznych i innych środków określonych w załączniku nr 4a do ustawy na zapobieganie powstawaniu odpadów jeżeli jest to konieczne;
-- **5)** ocenę użyteczności środków określonych w załączniku nr 5 do ustawy lub innych stosowanych środków jeżeli jest to konieczne;
-- **6)** określenie surowców krytycznych, które są istotne przy podejmowaniu działań w zakresie zapobiegania powstawaniu odpadów jeżeli jest to konieczne;
+- **4)** informacje o wpływie instrumentów ekonomicznych i innych środków określonych w załączniku nr 4a do ustawy na zapobieganie powstawaniu odpadów – jeżeli jest to konieczne;
+- **5)** ocenę użyteczności środków określonych w załączniku nr 5 do ustawy lub innych stosowanych środków – jeżeli jest to konieczne;
+- **6)** określenie surowców krytycznych, które są istotne przy podejmowaniu działań w zakresie zapobiegania powstawaniu odpadów – jeżeli jest to konieczne;
 - **7)** działania rekomendowane do realizacji w zakresie zapobiegania powstawaniu odpadów, w tym działania zapobiegające temu, aby produkty zawierające surowce krytyczne nie stały się odpadami.
 
 1b. Program zapobiegania powstawaniu odpadów żywności obejmuje:
@@ -898,7 +861,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 - **3)** wskaźniki jakościowe lub ilościowe w celu monitorowania i oceny wdrażania środków służących zapobieganiu powstawaniu odpadów żywności;
 - **4)** działania rekomendowane do realizacji w zakresie zapobiegania powstawaniu odpadów żywności.
 
-2. W przypadku przeprowadzenia strategicznej oceny oddziaływania planu gospodarki odpadami na środowisko podsumowanie, o którym mowa w art. 55 ust. 3 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2023 r. poz. 1094 i 1113), a w przypadku odstąpienia od jej przeprowadzenia uzasadnienie, o którym mowa w art. 42 pkt 2 tej ustawy, stanowi załącznik do planu.
+2. W przypadku przeprowadzenia strategicznej oceny oddziaływania planu gospodarki odpadami na środowisko podsumowanie, o którym mowa w art. 55 ust. 3 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2023 r. poz. 1094 i 1113), a w przypadku odstąpienia od jej przeprowadzenia – uzasadnienie, o którym mowa w art. 42 pkt 2 tej ustawy, stanowi załącznik do planu.
 
 3. Plany gospodarki odpadami mogą zawierać, z uwzględnieniem uwarunkowań geograficznych i obszaru objętego planem, następujące informacje:
 
@@ -918,7 +881,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 
 5. (uchylony) 5a. (uchylony)
 
-6. Instalacją komunalną jest instalacja do przetwarzania niesegregowanych (zmieszanych) odpadów komunalnych lub pozostałości z przetwarzania tych odpadów, określona na liście, o której mowa w art. 38b ust. 1 pkt 1, spełniająca wymagania najlepszej dostępnej techniki, o której mowa w art. 207 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska, lub technologii, o której mowa w art. 143 tej ustawy, zapewniająca:
+6. Instalacją komunalną jest instalacja do przetwarzania niesegregowanych (zmieszanych) odpadów komunalnych lub pozostałości z przetwarzania tych odpadów, określona na liście, o której mowa w art. 38b ust. 1 pkt 1, spełniająca wymagania najlepszej dostępnej techniki, o której mowa w art. 207 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, lub technologii, o której mowa w art. 143 tej ustawy, zapewniająca:
 
 - **1)** mechaniczno-biologiczne przetwarzanie niesegregowanych (zmieszanych) odpadów komunalnych i wydzielanie z niesegregowanych (zmieszanych) odpadów komunalnych frakcji nadających się w całości lub w części do odzysku, lub
 - **2)** (uchylony)
@@ -958,7 +921,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 
 3. Zarząd województwa przekazuje ministrowi właściwemu do spraw klimatu uchwalony wojewódzki plan gospodarki odpadami, w postaci papierowej, w terminie miesiąca od dnia uchwalenia planu.
 
-4. Projekt wojewódzkiego planu gospodarki odpadami podlega zaopiniowaniu przez organy wykonawcze gmin z obszaru województwa, niebędących członkami związków międzygminnych, oraz organy wykonawcze związków międzygminnych lub związków metropolitalnych, a w zakresie związanym z ochroną wód przez właściwego dyrektora regionalnego zarządu gospodarki wodnej Państwowego Gospodarstwa Wodnego Wody Polskie.
+4. Projekt wojewódzkiego planu gospodarki odpadami podlega zaopiniowaniu przez organy wykonawcze gmin z obszaru województwa, niebędących członkami związków międzygminnych, oraz organy wykonawcze związków międzygminnych lub związków metropolitalnych, a w zakresie związanym z ochroną wód – przez właściwego dyrektora regionalnego zarządu gospodarki wodnej Państwowego Gospodarstwa Wodnego Wody Polskie.
 
 5. Po zaopiniowaniu projektu wojewódzkiego planu gospodarki odpadami przez organy, o których mowa w ust. 4, zarząd województwa jest obowiązany przekazać projekt wojewódzkiego planu gospodarki odpadami do zaopiniowania, a projekt planu inwestycyjnego do uzgodnienia, ministrowi właściwemu do spraw klimatu.
 
@@ -996,7 +959,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 1. Ministrowie, o których mowa w art. 36a ust. 1, oraz ministrowie realizujący zadania określone w KPZPO, w tym w programie zapobiegania powstawaniu odpadów żywności, przekazują ministrowi właściwemu do spraw klimatu coroczną informację o:
 
 - **1)** stanie realizacji celów i działań określonych w KPZPO, w tym w programie zapobiegania powstawaniu odpadów żywności, wraz z oceną ich efektywności,
-- **2)** wartości wskaźników, o których mowa w art. 35 ust. 1a pkt 3 oraz ust. 1b pkt 3 w terminie do dnia 30 czerwca za poprzedni rok kalendarzowy.
+- **2)** wartości wskaźników, o których mowa w art. 35 ust. 1a pkt 3 oraz ust. 1b pkt 3 – w terminie do dnia 30 czerwca za poprzedni rok kalendarzowy.
 
 2. Zarząd województwa przekazuje ministrowi właściwemu do spraw klimatu coroczną informację o stanie realizacji działań w zakresie zapobiegania powstawaniu odpadów na terenie województwa wraz z oceną ich efektywności w terminie do dnia 30 czerwca za poprzedni rok kalendarzowy.
 
@@ -1059,8 +1022,8 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 
 3. Sprawozdanie z realizacji:
 
-- **1)** krajowego planu gospodarki odpadami przygotowuje i przedkłada Radzie Ministrów minister właściwy do spraw klimatu, w terminie 18 miesięcy po upływie okresu sprawozdawczego;
-- **2)** wojewódzkiego planu gospodarki odpadami przygotowuje i przedkłada sejmikowi województwa oraz ministrowi właściwemu do spraw klimatu zarząd województwa, w terminie 12 miesięcy po upływie okresu sprawozdawczego.
+- **1)** krajowego planu gospodarki odpadami – przygotowuje i przedkłada Radzie Ministrów minister właściwy do spraw klimatu, w terminie 18 miesięcy po upływie okresu sprawozdawczego;
+- **2)** wojewódzkiego planu gospodarki odpadami – przygotowuje i przedkłada sejmikowi województwa oraz ministrowi właściwemu do spraw klimatu zarząd województwa, w terminie 12 miesięcy po upływie okresu sprawozdawczego.
 
 **Art. 40.**
 
@@ -1086,7 +1049,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
     - **c)** dla instalacji komunalnych,
     - **d)** do wydania zezwolenia na zbieranie odpadów, w przypadku gdy maksymalna łączna masa wszystkich rodzajów odpadów magazynowanych w okresie roku przekracza 3000 Mg;
 
-- **2)** starosta w pozostałych przypadkach.
+- **2)** starosta – w pozostałych przypadkach.
 
 4. Organem właściwym do wydania zezwolenia na zbieranie odpadów i zezwolenia na przetwarzanie odpadów na terenach zamkniętych jest regionalny dyrektor ochrony środowiska.
 
@@ -1096,7 +1059,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 
 6a. Organ właściwy wydaje zezwolenie na zbieranie odpadów lub zezwolenie na przetwarzanie odpadów po zasięgnięciu opinii wójta, burmistrza lub prezydenta miasta, właściwych ze względu na miejsce prowadzenia zbierania odpadów lub przetwarzania odpadów. Wymóg zasięgania opinii prezydenta miasta nie dotyczy prezydenta miasta na prawach powiatu, jeżeli jest on organem właściwym do wydania zezwolenia.
 
-6b. W przypadku niewydania opinii w terminie określonym w art. 106 § 3 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803) przyjmuje się, że wydano opinię pozytywną.
+6b. W przypadku niewydania opinii w terminie określonym w art. 106 § 3 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803) przyjmuje się, że wydano opinię pozytywną.
 
 7. (uchylony)
 
@@ -1114,7 +1077,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 
 2. Do wojewódzkiego inspektora ochrony środowiska oraz komendanta powiatowego (miejskiego) Państwowej Straży Pożarnej z wnioskiem o przeprowadzenie kontroli występuje właściwy organ, przekazując kopię niezbędnej do przeprowadzenia kontroli dokumentacji, w szczególności wniosku, o którym mowa w art. 42 ust. 1 lub 2, oraz operatu przeciwpożarowego, o którym mowa w art. 42 ust. 4b pkt 1, wraz z postanowieniem, o którym mowa w art. 42 ust. 4c.
 
-2a. Jeżeli wniosek o przeprowadzenie kontroli dotyczy instalacji objętej obowiązkiem uzyskania pozwolenia zintegrowanego, kontrola wojewódzkiego inspektora ochrony środowiska oraz postanowienie, o którym mowa w ust. 3, nie dotyczą oceny wymagań, o których mowa w art. 204 ust. 1 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska.
+2a. Jeżeli wniosek o przeprowadzenie kontroli dotyczy instalacji objętej obowiązkiem uzyskania pozwolenia zintegrowanego, kontrola wojewódzkiego inspektora ochrony środowiska oraz postanowienie, o którym mowa w ust. 3, nie dotyczą oceny wymagań, o których mowa w art. 204 ust. 1 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska.
 
 3. Po przeprowadzeniu kontroli wojewódzki inspektor ochrony środowiska niezwłocznie wydaje postanowienie w przedmiocie spełnienia wymagań określonych w przepisach ochrony środowiska. Na postanowienie nie służy zażalenie.
 
@@ -1130,11 +1093,11 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 
 6. W przypadku istotnej zmiany zezwolenia na zbieranie odpadów, zezwolenia na przetwarzanie odpadów lub pozwolenia na wytwarzanie odpadów uwzględniającego zbieranie lub przetwarzanie odpadów stosuje się przepisy ust. 1–5a.
 
-7. Do kontroli, o której mowa w ust. 1, 1a i 6, nie stosuje się art. 48 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców (Dz. U. z 2023 r. poz. 221, 641 i 803).
+7. Do kontroli, o której mowa w ust. 1, 1a i 6, nie stosuje się art. 48 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2023 r. poz. 221, 641 i 803).
 
 8. Przepisów dotyczących przeprowadzania kontroli przez komendanta powiatowego (miejskiego) Państwowej Straży Pożarnej oraz wykonania operatu przeciwpożarowego, o którym mowa w art. 42 ust. 4b pkt 1, nie stosuje się w przypadku:
 
-- **1)** zakładu stwarzającego zagrożenie wystąpienia poważnej awarii przemysłowej, o którym mowa w art. 3 pkt 48a ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska;
+- **1)** zakładu stwarzającego zagrożenie wystąpienia poważnej awarii przemysłowej, o którym mowa w art. 3 pkt 48a ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska;
 - **2)** zezwoleń na zbieranie odpadów, zezwoleń na przetwarzanie odpadów oraz pozwoleń na wytwarzanie odpadów uwzględniających zbieranie lub przetwarzanie odpadów, które dotyczą wyłącznie odpadów niepalnych.
 
 9. Do kontroli, o której mowa w ust. 1a, stosuje się odpowiednio przepisy ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2022 r. poz. 1969 oraz z 2023 r. poz. 240, 347, 641 i 1088) dotyczące czynności kontrolno-rozpoznawczych.
@@ -1184,7 +1147,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
     - **c)** największej masy odpadów, które mogłyby być magazynowane w tym samym czasie w instalacji, obiekcie budowlanym lub jego części lub innym miejscu magazynowania odpadów, wynikającej z wymiarów instalacji, obiektu budowlanego lub jego części lub innego miejsca magazynowania odpadów,
     - **d)** całkowitej pojemności (wyrażonej w Mg) instalacji, obiektu budowlanego lub jego części lub innego miejsca magazynowania odpadów;
 
-- **6)** szczegółowy opis stosowanej metody lub metod przetwarzania odpadów, w tym wskazanie procesu przetwarzania zgodnie z załącznikami nr 1 i 2 do ustawy, oraz opis procesu technologicznego z podaniem rocznej mocy przerobowej instalacji lub urządzenia, a w uzasadnionych przypadkach, w szczególności w przypadku instalacji do termicznego przekształcania odpadów także godzinowej mocy przerobowej;
+- **6)** szczegółowy opis stosowanej metody lub metod przetwarzania odpadów, w tym wskazanie procesu przetwarzania zgodnie z załącznikami nr 1 i 2 do ustawy, oraz opis procesu technologicznego z podaniem rocznej mocy przerobowej instalacji lub urządzenia, a w uzasadnionych przypadkach, w szczególności w przypadku instalacji do termicznego przekształcania odpadów – także godzinowej mocy przerobowej;
 - **6a)** wskazanie rodzajów odpadów, które mogą utracić status odpadów, w przypadku gdy utrata statusu odpadów jest przewidywana, oraz informacje o spełnieniu warunków określonych w art. 14 ust. 1 pkt 1, a ponadto:
     - **a)** informacje o spełnieniu szczegółowych warunków utraty statusu odpadów, o których mowa w art. 14 ust. 1 pkt 2, jeżeli zostały określone w przepisach prawa Unii Europejskiej albo w przepisach wydanych na podstawie art. 14 ust. 1a,
     - **b)** proponowane szczegółowe warunki utraty statusu odpadów, o których mowa w art. 14 ust. 1 pkt 2, jeżeli nie zostały określone w przepisach prawa Unii Europejskiej albo w przepisach wydanych na podstawie art. 14 ust. 1a;
@@ -1197,11 +1160,11 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
     - **a)** minimalnej i maksymalnej ilości odpadów niebezpiecznych, ich najniższej i najwyższej wartości kalorycznej oraz maksymalnej zawartości zanieczyszczeń, w szczególności PCB, pentachlorofenolu (PCP), chloru, fluoru, siarki i metali ciężkich,
     - **b)** środków, które zostaną podjęte w celu zagwarantowania, że ciepło wytworzone w trakcie termicznego przekształcania odpadów będzie odzyskiwane w zakresie, w jakim jest to wykonalne, przez produkcję ciepła, wytwarzanie pary technologicznej lub energii elektrycznej,
     - **c)** sposobów zapobiegania powstawaniu odpadów lub ograniczania ilości odpadów i ich negatywnego oddziaływania na środowisko,
-    - **d)** dalszego sposobu gospodarowania odpadami, z uwzględnieniem zbierania, transportu, odzysku i unieszkodliwiania odpadów w przypadku zezwoleń dotyczących instalacji do termicznego przekształcania odpadów;
+    - **d)** dalszego sposobu gospodarowania odpadami, z uwzględnieniem zbierania, transportu, odzysku i unieszkodliwiania odpadów – w przypadku zezwoleń dotyczących instalacji do termicznego przekształcania odpadów;
 
 - **12)** (uchylony)
-- **13)** informacje, o których mowa w art. 98 ust. 1 w przypadku zezwoleń na przetwarzanie dotyczących unieszkodliwiania odpadów pochodzących z procesów wytwarzania dwutlenku tytanu oraz z przetwarzania tych odpadów, przez ich składowanie do ustalenia zagrożeń, jakie te odpady mogą powodować dla życia lub zdrowia ludzi oraz dla środowiska;
-- **13a)** informacje, o których mowa w art. 102a ust. 1 pkt 1–4 w przypadku zezwolenia na przetwarzanie dla prowadzącego zakład recyklingu statków;
+- **13)** informacje, o których mowa w art. 98 ust. 1 – w przypadku zezwoleń na przetwarzanie dotyczących unieszkodliwiania odpadów pochodzących z procesów wytwarzania dwutlenku tytanu oraz z przetwarzania tych odpadów, przez ich składowanie – do ustalenia zagrożeń, jakie te odpady mogą powodować dla życia lub zdrowia ludzi oraz dla środowiska;
+- **13a)** informacje, o których mowa w art. 102a ust. 1 pkt 1–4 – w przypadku zezwolenia na przetwarzanie dla prowadzącego zakład recyklingu statków;
 - **13b)** proponowaną formę i wysokość zabezpieczenia roszczeń, o którym mowa w art. 48a;
 - **14)** informacje wymagane na podstawie odrębnych przepisów.
 
@@ -1211,17 +1174,17 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 
 - **1)** zaświadczenie o niekaralności:
     - **a)** posiadacza odpadów będącego osobą fizyczną prowadzącą działalność gospodarczą,
-    - **b)** wspólnika, prokurenta, członka zarządu lub członka rady nadzorczej posiadacza odpadów będącego osobą prawną albo jednostką organizacyjną nieposiadającą osobowości prawnej za przestępstwa przeciwko środowisku lub przestępstwa, o których mowa w art. 163, art. 164 lub art. 168 w związku z art. 163 § 1 ustawy z dnia 6 czerwca 1997 r. Kodeks karny;
+    - **b)** wspólnika, prokurenta, członka zarządu lub członka rady nadzorczej posiadacza odpadów będącego osobą prawną albo jednostką organizacyjną nieposiadającą osobowości prawnej – za przestępstwa przeciwko środowisku lub przestępstwa, o których mowa w art. 163, art. 164 lub art. 168 w związku z art. 163 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny;
 
 - **2)** zaświadczenie o niekaralności posiadacza odpadów za przestępstwa przeciwko środowisku na podstawie przepisów ustawy z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary (Dz. U. z 2023 r. poz. 659);
 - **3)** oświadczenie o niekaralności osób, o których mowa w pkt 1, lub o liczbie prawomocnych wyroków skazujących te osoby, za wykroczenia określone w art. 183, art. 189 ust. 2 pkt 6 lub art. 191;
 - **4)** oświadczenie, że w stosunku do:
     - **a)** osoby, o której mowa w pkt 1 lit. a,
-    - **b)** posiadacza odpadów będącego osobą prawną albo jednostką organizacyjną nieposiadającą osobowości prawnej, wspólnika, prokurenta, członka zarządu lub członka rady nadzorczej tego posiadacza odpadów prowadzącego działalność gospodarczą jako osoba fizyczna w ostatnich 10 latach nie wydano ostatecznej decyzji o cofnięciu zezwolenia na zbieranie odpadów, zezwolenia na przetwarzanie odpadów, zezwolenia na zbieranie i przetwarzanie odpadów lub pozwolenia na wytwarzanie odpadów uwzględniającego zbieranie i przetwarzanie odpadów lub nie wymierzono co najmniej trzykrotnie administracyjnej kary pieniężnej, o której mowa w art. 194, w wysokości przekraczającej łącznie kwotę 150 000 zł;
+    - **b)** posiadacza odpadów będącego osobą prawną albo jednostką organizacyjną nieposiadającą osobowości prawnej, wspólnika, prokurenta, członka zarządu lub członka rady nadzorczej tego posiadacza odpadów prowadzącego działalność gospodarczą jako osoba fizyczna – w ostatnich 10 latach nie wydano ostatecznej decyzji o cofnięciu zezwolenia na zbieranie odpadów, zezwolenia na przetwarzanie odpadów, zezwolenia na zbieranie i przetwarzanie odpadów lub pozwolenia na wytwarzanie odpadów uwzględniającego zbieranie i przetwarzanie odpadów lub nie wymierzono co najmniej trzykrotnie administracyjnej kary pieniężnej, o której mowa w art. 194, w wysokości przekraczającej łącznie kwotę 150 000 zł;
 
 - **5)** oświadczenie, że wspólnik, prokurent, członek zarządu lub członek rady nadzorczej posiadacza odpadów nie jest lub nie był wspólnikiem, prokurentem, członkiem rady nadzorczej lub członkiem zarządu innego przedsiębiorcy:
     - **a)** w stosunku do którego w ostatnich 10 latach wydano ostateczną decyzję o cofnięciu zezwolenia na zbieranie odpadów, zezwolenia na przetwarzanie odpadów, zezwolenia na zbieranie i przetwarzanie odpadów lub pozwolenia na wytwarzanie odpadów uwzględniającego zbieranie i przetwarzanie odpadów lub
-    - **b)** któremu wymierzono co najmniej trzykrotnie administracyjną karę pieniężną, o której mowa w art. 194, w ostatnich 10 latach, w wysokości przekraczającej łącznie kwotę 150 000 zł za naruszenia popełnione w czasie, gdy jest lub był wspólnikiem, prokurentem, członkiem rady nadzorczej lub członkiem zarządu tego innego przedsiębiorcy.
+    - **b)** któremu wymierzono co najmniej trzykrotnie administracyjną karę pieniężną, o której mowa w art. 194, w ostatnich 10 latach, w wysokości przekraczającej łącznie kwotę 150 000 zł – za naruszenia popełnione w czasie, gdy jest lub był wspólnikiem, prokurentem, członkiem rady nadzorczej lub członkiem zarządu tego innego przedsiębiorcy.
 
 3b. Oświadczenia, o których mowa w ust. 3a pkt 3–5, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań.
 
@@ -1234,13 +1197,13 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 - **1)** zbieranie odpadów niebezpiecznych,
 - **2)** przetwarzanie odpadów przez wypełnianie terenów niekorzystnie przekształconych,
 - **3)** zbieranie odpadów komunalnych lub odpadów pochodzących z przetwarzania odpadów komunalnych,
-- **4)** przetwarzanie odpadów komunalnych lub odpadów pochodzących z przetwarzania odpadów komunalnych posiadacz odpadów, z wyłączeniem jednostek budżetowych, dołącza dokument potwierdzający prawo własności, prawo użytkowania wieczystego, prawo użytkowania albo umowę dzierżawy nieruchomości, o której mowa w art. 41b ust. 1.
+- **4)** przetwarzanie odpadów komunalnych lub odpadów pochodzących z przetwarzania odpadów komunalnych – posiadacz odpadów, z wyłączeniem jednostek budżetowych, dołącza dokument potwierdzający prawo własności, prawo użytkowania wieczystego, prawo użytkowania albo umowę dzierżawy nieruchomości, o której mowa w art. 41b ust. 1.
 
 4b. Do wniosku o zezwolenie na zbieranie odpadów oraz do wniosku o zezwolenie na przetwarzanie odpadów dołącza się:
 
 - **1)** operat przeciwpożarowy, zawierający warunki ochrony przeciwpożarowej instalacji, obiektu lub jego części lub innego miejsca magazynowania odpadów, uzgodnione z komendantem powiatowym (miejskim) Państwowej Straży Pożarnej, wykonany przez:
-    - **a)** rzeczoznawcę do spraw zabezpieczeń przeciwpożarowych, o którym mowa w rozdziale 2a ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej w przypadku gdy organem właściwym jest marszałek województwa albo regionalny dyrektor ochrony środowiska,
-    - **b)** osobę, o której mowa w art. 4 ust. 2a tej ustawy w przypadku gdy organem właściwym jest starosta;
+    - **a)** rzeczoznawcę do spraw zabezpieczeń przeciwpożarowych, o którym mowa w rozdziale 2a ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej – w przypadku gdy organem właściwym jest marszałek województwa albo regionalny dyrektor ochrony środowiska,
+    - **b)** osobę, o której mowa w art. 4 ust. 2a tej ustawy – w przypadku gdy organem właściwym jest starosta;
 
 - **2)** postanowienie, o którym mowa w ust. 4c.
 
@@ -1283,7 +1246,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 
 - **1)** numer identyfikacji podatkowej (NIP) posiadacza odpadów;
 - **2)** rodzaj i masę odpadów przewidywanych do przetworzenia i powstających w wyniku przetwarzania w okresie roku;
-- **3)** miejsce i dopuszczoną metodę lub metody przetwarzania odpadów, ze wskazaniem procesu przetwarzania zgodnie z załącznikami nr 1 i 2 do ustawy, oraz opis procesu technologicznego z podaniem rocznej mocy przerobowej instalacji lub urządzenia, a w uzasadnionych przypadkach, w szczególności w przypadku instalacji do termicznego przekształcania odpadów także godzinowej mocy przerobowej;
+- **3)** miejsce i dopuszczoną metodę lub metody przetwarzania odpadów, ze wskazaniem procesu przetwarzania zgodnie z załącznikami nr 1 i 2 do ustawy, oraz opis procesu technologicznego z podaniem rocznej mocy przerobowej instalacji lub urządzenia, a w uzasadnionych przypadkach, w szczególności w przypadku instalacji do termicznego przekształcania odpadów – także godzinowej mocy przerobowej;
 - **3a)** rodzaje odpadów, które utracą status odpadów, w przypadku gdy utrata statusu odpadów jest przewidywana, oraz szczegółowe warunki utraty statusu odpadów, o których mowa w art. 14 ust. 1 pkt 2, jeżeli nie zostały określone w przepisach prawa Unii Europejskiej albo w przepisach wydanych na podstawie art. 14 ust. 1a;
 - **4)** dodatkowe warunki przetwarzania odpadów, jeżeli wymaga tego rodzaj odpadów, w szczególności niebezpiecznych, lub potrzeba zachowania wymagań ochrony życia, zdrowia ludzi lub środowiska;
 - **5)** wskazanie:
@@ -1292,8 +1255,8 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
     - **c)** największej masy odpadów, które mogłyby być magazynowane w tym samym czasie w instalacji, obiekcie budowlanym lub jego części lub innym miejscu magazynowania odpadów, wynikającej z wymiarów instalacji, obiektu budowlanego lub jego części lub innego miejsca magazynowania odpadów,
     - **d)** całkowitej pojemności (wyrażonej w Mg) instalacji, obiektu budowlanego lub jego części lub innego miejsca magazynowania odpadów;
 
-- **6)** minimalną i maksymalną ilość odpadów niebezpiecznych, ich najniższą i najwyższą wartość kaloryczną oraz maksymalną zawartość zanieczyszczeń, w szczególności PCB, pentachlorofenolu (PCP), chloru, fluoru, siarki i metali ciężkich w przypadku zezwoleń dotyczących instalacji do termicznego przekształcania odpadów;
-- **7)** (uchylony) 7a) informacje, o których mowa w art. 102a ust. 1 pkt 1–4 w przypadku zezwolenia na przetwarzanie dla prowadzącego zakład recyklingu statków;
+- **6)** minimalną i maksymalną ilość odpadów niebezpiecznych, ich najniższą i najwyższą wartość kaloryczną oraz maksymalną zawartość zanieczyszczeń, w szczególności PCB, pentachlorofenolu (PCP), chloru, fluoru, siarki i metali ciężkich – w przypadku zezwoleń dotyczących instalacji do termicznego przekształcania odpadów;
+- **7)** (uchylony) 7a) informacje, o których mowa w art. 102a ust. 1 pkt 1–4 – w przypadku zezwolenia na przetwarzanie dla prowadzącego zakład recyklingu statków;
 - **7b)** wymagania wynikające z warunków ochrony przeciwpożarowej instalacji, obiektu budowlanego lub jego części lub innego miejsca magazynowania odpadów;
 - **8)** informacje wynikające z przepisów odrębnych;
 - **9)** czas obowiązywania zezwolenia.
@@ -1333,8 +1296,8 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 - **1)** podmiot prowadzący działalność inną niż działalność gospodarcza w zakresie gospodarowania odpadami, który zbiera odpady opakowaniowe i odpady w postaci zużytych artykułów konsumpcyjnych, w tym zbieranie leków i opakowań po lekach przez apteki, przyjmowanie zużytych artykułów konsumpcyjnych w sklepach, systemy zbierania odpadów w szkołach, placówkach oświatowo-wychowawczych, urzędach i instytucjach (nieprofesjonalna działalność w zakresie zbierania odpadów);
 - **2)** osobę fizyczną i jednostkę organizacyjną niebędące przedsiębiorcami, wykorzystujące odpady na potrzeby własne, zgodnie z art. 27 ust. 8;
 - **3)** osobę władającą powierzchnią ziemi, na której są stosowane komunalne osady ściekowe w celach, o których mowa w art. 96 ust. 1 pkt 1–3;
-- **4)** podmiot obowiązany do uzyskania pozwolenia zintegrowanego, o którym mowa w ustawie z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska;
-- **5)** posiadacza odpadów prowadzącego działalność w zakresie unieszkodliwiania odpadów przez ich składowanie w składowiskach podziemnych, który jest obowiązany do uzyskania koncesji na prowadzenie takiej działalności na podstawie ustawy z dnia 9 czerwca 2011 r. Prawo geologiczne i górnicze;
+- **4)** podmiot obowiązany do uzyskania pozwolenia zintegrowanego, o którym mowa w ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska;
+- **5)** posiadacza odpadów prowadzącego działalność w zakresie unieszkodliwiania odpadów przez ich składowanie w składowiskach podziemnych, który jest obowiązany do uzyskania koncesji na prowadzenie takiej działalności na podstawie ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze;
 - **6)** posiadacza odpadów obowiązanego do uzyskania decyzji zatwierdzającej program gospodarowania odpadami wydobywczymi lub zezwolenia na prowadzenie obiektu unieszkodliwiania odpadów wydobywczych, o których mowa w ustawie z dnia 10 lipca 2008 r. o odpadach wydobywczych (Dz. U. z 2022 r. poz. 2336);
 - **7)** wytwórcę odpadów, który wytwarzane przez siebie odpady, niebędące odpadami niebezpiecznymi, unieszkodliwia w miejscu ich wytworzenia zgodnie z wymaganiami określonymi w przepisach wydanych na podstawie ust. 3;
 - **8)** posiadacza odpadów, który poddaje odzyskowi odpady zgodnie z wymaganiami określonymi w przepisach wydanych na podstawie ust. 3;
@@ -1344,13 +1307,17 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 - **12)** podmiot:
     - **a)** zajmujący się wytwarzaniem, przechowywaniem, transportem lub wprowadzaniem na rynek pasz leczniczych lub produktów pośrednich,
     - **b)** który jedynie transportuje lub przechowuje pasze lecznicze lub produkty pośrednie wyłącznie w zaplombowanych opakowaniach lub pojemnikach,
-    - **c)** prowadzący handel detaliczny paszami leczniczymi dla zwierząt domowych który zbiera niezużyte lub przeterminowane pasze lecznicze lub produkty pośrednie od podmiotów, które jedynie kupują, przechowują lub transportują pasze lecznicze do stosowania wyłącznie w swoim gospodarstwie, od posiadaczy zwierząt futerkowych oraz posiadaczy zwierząt domowych.
+    - **c)** prowadzący handel detaliczny paszami leczniczymi dla zwierząt domowych – który zbiera niezużyte lub przeterminowane pasze lecznicze lub produkty pośrednie od podmiotów, które jedynie kupują, przechowują lub transportują pasze lecznicze do stosowania wyłącznie w swoim gospodarstwie, od posiadaczy zwierząt futerkowych oraz posiadaczy zwierząt domowych;
 
-2. Podmiot, o którym mowa w ust. 1 pkt 1, jest obowiązany posiadać umowę zawartą w formie pisemnej pod rygorem nieważności, z posiadaczem odpadów posiadającym zezwolenie na zbieranie odpadów lub zezwolenie na przetwarzanie odpadów wymienionych w ust. 1 pkt 1, dotyczącą co najmniej nieodpłatnego przyjmowania odpadów.
+- **13)** zbierającego odpady opakowaniowe powstałe z opakowań, o których mowa w załączniku nr 1a do ustawy z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi (Dz. U. z 2024 r. poz. 927 i 1911), przekazane mu przez podmioty, o których mowa w pkt 1.
+
+2. Podmiot, o którym mowa w ust. 1 pkt 1, jest obowiązany posiadać umowę zawartą w formie pisemnej pod rygorem nieważności, z posiadaczem odpadów posiadającym zezwolenie na zbieranie odpadów lub zezwolenie na przetwarzanie odpadów wymienionych w ust. 1 pkt 1, dotyczącą co najmniej nieodpłatnego przyjmowania odpadów, z tym że w przypadku odpadów opakowaniowych powstałych z opakowań, o których mowa w załączniku nr 1a do ustawy z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi, umowa może być zawarta ze zbierającym odpady opakowaniowe, o którym mowa w ust. 1 pkt 13.
 
 2a. Podmiot, o którym mowa w ust. 1 pkt 12, jest obowiązany posiadać umowę zawartą w formie pisemnej pod rygorem nieważności z posiadaczem odpadów posiadającym odpowiednio zezwolenie na zbieranie odpadów lub zezwolenie na przetwarzanie odpadów wymienionych w ust. 1 pkt 12.
 
-3. Minister właściwy do spraw gospodarki w porozumieniu z ministrem właściwym do spraw klimatu określi, w drodze rozporządzenia, rodzaje i ilość odpadów, jakie mogą być objęte zwolnieniem, o którym mowa w ust. 1 pkt 7 i 8, oraz metodę przetwarzania odpadów, która ma być zastosowana, a w przypadku odpadów niebezpiecznych także szczegółowe warunki zwolnień w zakresie odzysku odpadów, kierując się właściwościami odpadów oraz potencjalnym zagrożeniem dla środowiska w trakcie przetwarzania odpadów.
+2b. Zbierający odpady opakowaniowe, o którym mowa w ust. 1 pkt 13, może posiadać umowę zawartą w formie pisemnej pod rygorem nieważności z posiadaczem odpadów posiadającym zezwolenie na zbieranie odpadów lub zezwolenie na przetwarzanie odpadów wymienionych w ust. 1 pkt 13, dotyczącą co najmniej nieodpłatnego przyjmowania odpadów.
+
+3. Minister właściwy do spraw gospodarki w porozumieniu z ministrem właściwym do spraw klimatu określi, w drodze rozporządzenia, rodzaje i ilość odpadów, jakie mogą być objęte zwolnieniem, o którym mowa w ust. 1 pkt 7 i 8, oraz metodę przetwarzania odpadów, która ma być zastosowana, a w przypadku odpadów niebezpiecznych – także szczegółowe warunki zwolnień w zakresie odzysku odpadów, kierując się właściwościami odpadów oraz potencjalnym zagrożeniem dla środowiska w trakcie przetwarzania odpadów.
 
 4. Wytwórca odpadów, który prowadzi zbieranie odpadów lub przetwarzanie odpadów, może być zwolniony z obowiązku uzyskania odrębnego zezwolenia na prowadzenie tej działalności, jeżeli posiada pozwolenie na wytwarzanie odpadów.
 
@@ -1377,22 +1344,22 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 1a. Właściwy organ odmawia wydania zezwolenia na zbieranie odpadów lub zezwolenia na przetwarzanie odpadów przedsiębiorcy będącemu osobą prawną albo jednostką organizacyjną nieposiadającą osobowości prawnej, jeżeli w stosunku do:
 
 - **1)** tego przedsiębiorcy lub
-- **2)** wspólnika, prokurenta, członka rady nadzorczej lub członka zarządu tego przedsiębiorcy, prowadzącego działalność gospodarczą jako osoba fizyczna wydano decyzję, o której mowa w art. 47 ust. 2, a nie minęło 10 lat od dnia, gdy decyzja o cofnięciu zezwolenia stała się ostateczna.
+- **2)** wspólnika, prokurenta, członka rady nadzorczej lub członka zarządu tego przedsiębiorcy, prowadzącego działalność gospodarczą jako osoba fizyczna – wydano decyzję, o której mowa w art. 47 ust. 2, a nie minęło 10 lat od dnia, gdy decyzja o cofnięciu zezwolenia stała się ostateczna.
 
 1b. Przepis ust. 1a stosuje się także, jeżeli wspólnik, prokurent, członek rady nadzorczej lub członek zarządu tego przedsiębiorcy jest lub był, w czasie gdy zostało popełnione naruszenie, z powodu którego cofnięto zezwolenie na zbieranie odpadów lub zezwolenie na przetwarzanie odpadów, wspólnikiem, prokurentem, członkiem rady nadzorczej lub członkiem zarządu innego przedsiębiorcy, w stosunku do którego wydano decyzję o cofnięciu zezwolenia, a nie minęło 10 lat od dnia, w którym decyzja o cofnięciu zezwolenia stała się ostateczna.
 
-1c. Właściwy organ odmawia wydania zezwolenia na zbieranie odpadów lub zezwolenia na przetwarzanie odpadów przedsiębiorcy będącemu osobą fizyczną, jeżeli osoba ta została ukarana prawomocnym wyrokiem sądu za przestępstwa przeciwko środowisku lub przestępstwa, o których mowa w art. 163, art. 164 lub art. 168 w związku z art. 163 § 1 ustawy z dnia 6 czerwca 1997 r. Kodeks karny.
+1c. Właściwy organ odmawia wydania zezwolenia na zbieranie odpadów lub zezwolenia na przetwarzanie odpadów przedsiębiorcy będącemu osobą fizyczną, jeżeli osoba ta została ukarana prawomocnym wyrokiem sądu za przestępstwa przeciwko środowisku lub przestępstwa, o których mowa w art. 163, art. 164 lub art. 168 w związku z art. 163 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny.
 
 1d. Właściwy organ odmawia wydania zezwolenia na zbieranie odpadów lub zezwolenia na przetwarzanie odpadów przedsiębiorcy będącemu osobą prawną albo jednostką organizacyjną nieposiadającą osobowości prawnej, jeżeli:
 
 - **1)** wobec przedsiębiorcy prawomocnie orzeczono karę pieniężną za przestępstwa przeciwko środowisku na podstawie przepisów ustawy z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary;
-- **2)** wspólnikiem, prokurentem, członkiem rady nadzorczej lub członkiem zarządu tego przedsiębiorcy jest osoba, która została skazana prawomocnym wyrokiem sądu za przestępstwa przeciwko środowisku lub przestępstwa, o których mowa w art. 163, art. 164 lub art. 168 w związku z art. 163 § 1 ustawy z dnia 6 czerwca 1997 r. Kodeks karny.
+- **2)** wspólnikiem, prokurentem, członkiem rady nadzorczej lub członkiem zarządu tego przedsiębiorcy jest osoba, która została skazana prawomocnym wyrokiem sądu za przestępstwa przeciwko środowisku lub przestępstwa, o których mowa w art. 163, art. 164 lub art. 168 w związku z art. 163 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny.
 
 1e. Właściwy organ odmawia wydania zezwolenia na zbieranie odpadów lub zezwolenia na przetwarzanie odpadów:
 
 - **1)** przedsiębiorcy będącemu osobą prawną albo jednostką organizacyjną nieposiadającą osobowości prawnej, jeżeli co najmniej trzykrotnie:
     - **a)** będący osobą fizyczną wspólnik, prokurent, członek rady nadzorczej lub członek zarządu tego przedsiębiorcy został skazany prawomocnym wyrokiem sądu za wykroczenia, o których mowa w art. 183, art. 189 ust. 2 pkt 6 lub art. 191,
-    - **b)** wymierzono administracyjną karę pieniężną, o której mowa w art. 194, w ostatnich 10 latach, w wysokości przekraczającej łącznie kwotę 150 000 zł: temu przedsiębiorcy, wspólnikowi, prokurentowi, członkowi zarządu lub członkowi rady nadzorczej tego przedsiębiorcy prowadzącemu działalność gospodarczą jako osoba fizyczna, innemu przedsiębiorcy, którego wspólnikiem, prokurentem, członkiem rady nadzorczej lub członkiem zarządu, w czasie gdy zostało popełnione naruszenie, z powodu którego wymierzono administracyjną karę pieniężną, jest lub był wspólnik, prokurent, członek zarządu lub członek rady nadzorczej posiadacza odpadów składającego wniosek;
+    - **b)** wymierzono administracyjną karę pieniężną, o której mowa w art. 194, w ostatnich 10 latach, w wysokości przekraczającej łącznie kwotę 150 000 zł: – temu przedsiębiorcy, – wspólnikowi, prokurentowi, członkowi zarządu lub członkowi rady nadzorczej tego przedsiębiorcy prowadzącemu działalność gospodarczą jako osoba fizyczna, – innemu przedsiębiorcy, którego wspólnikiem, prokurentem, członkiem rady nadzorczej lub członkiem zarządu, w czasie gdy zostało popełnione naruszenie, z powodu którego wymierzono administracyjną karę pieniężną, jest lub był wspólnik, prokurent, członek zarządu lub członek rady nadzorczej posiadacza odpadów składającego wniosek;
 
 - **2)** przedsiębiorcy będącemu osobą fizyczną, jeżeli co najmniej trzykrotnie:
     - **a)** został on skazany prawomocnym wyrokiem sądu za wykroczenia, o których mowa w art. 183, art. 189 ust. 2 pkt 6 lub art. 191,
@@ -1435,7 +1402,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 1. Posiadacz odpadów obowiązany do uzyskania zezwolenia na zbieranie odpadów lub zezwolenia na przetwarzanie odpadów, z wyłączeniem zarządzającego składowiskiem odpadów, jest obowiązany do ustanowienia zabezpieczenia roszczeń w wysokości umożliwiającej pokrycie kosztów wykonania zastępczego:
 
 - **1)** decyzji nakazującej posiadaczowi odpadów usunięcie odpadów z miejsca nieprzeznaczonego do ich składowania lub magazynowania, o której mowa w art. 26 ust. 2,
-- **2)** obowiązku wynikającego z art. 47 ust. 5 w tym usunięcia odpadów i ich zagospodarowania łącznie z odpadami stanowiącymi pozostałości z akcji gaśniczej lub usunięcia negatywnych skutków w środowisku lub szkód w środowisku w rozumieniu ustawy z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom w środowisku i ich naprawie w ramach prowadzonej działalności polegającej na zbieraniu lub przetwarzaniu odpadów.
+- **2)** obowiązku wynikającego z art. 47 ust. 5 – w tym usunięcia odpadów i ich zagospodarowania łącznie z odpadami stanowiącymi pozostałości z akcji gaśniczej lub usunięcia negatywnych skutków w środowisku lub szkód w środowisku w rozumieniu ustawy z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom w środowisku i ich naprawie w ramach prowadzonej działalności polegającej na zbieraniu lub przetwarzaniu odpadów.
 
 1a. Jeżeli w przypadku, o którym mowa w art. 26a ust. 1, posiadacz odpadów nie zwrócił poniesionych przez właściwy organ kosztów działań polegających na usunięciu odpadów i gospodarowaniu nimi zgodnie z art. 26a ust. 6, środki z zabezpieczenia roszczeń przeznacza się na pokrycie tych kosztów.
 
@@ -1464,7 +1431,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 
 8. W przypadku zmiany okoliczności faktycznych mających wpływ na wysokość określonego zabezpieczenia roszczeń lub jego formę, podmiot jest obowiązany do złożenia wniosku o zmianę formy lub wysokości zabezpieczenia roszczeń. Zmiana następuje w drodze postanowienia, na które przysługuje zażalenie.
 
-9. Zabezpieczenie roszczeń w formie depozytu jest wpłacane na odrębny rachunek bankowy wskazany przez organ właściwy do wydania zezwolenia na zbieranie odpadów lub zezwolenia na przetwarzanie odpadów, a zabezpieczenie roszczeń w formie gwarancji bankowej, gwarancji ubezpieczeniowej lub polisy ubezpieczeniowej jest składane do tego organu, a w przypadku decyzji wydawanych przez regionalnego dyrektora ochrony środowiska do wojewody właściwego ze względu na miejsce prowadzenia działalności.
+9. Zabezpieczenie roszczeń w formie depozytu jest wpłacane na odrębny rachunek bankowy wskazany przez organ właściwy do wydania zezwolenia na zbieranie odpadów lub zezwolenia na przetwarzanie odpadów, a zabezpieczenie roszczeń w formie gwarancji bankowej, gwarancji ubezpieczeniowej lub polisy ubezpieczeniowej jest składane do tego organu, a w przypadku decyzji wydawanych przez regionalnego dyrektora ochrony środowiska – do wojewody właściwego ze względu na miejsce prowadzenia działalności.
 
 10. Posiadacz odpadów jest obowiązany wpłacić zabezpieczenie roszczeń w formie depozytu i poinformować o tym organ właściwy do wydania zezwolenia na zbieranie odpadów lub zezwolenia na przetwarzanie odpadów albo złożyć oryginały gwarancji bankowej, gwarancji ubezpieczeniowej lub polisy ubezpieczeniowej organowi, o którym mowa w ust. 9, w terminie 2 tygodni od dnia doręczenia ostatecznego postanowienia, o którym mowa w ust. 7 lub 8.
 
@@ -1516,7 +1483,8 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 - **2)** wprowadzających produkty w opakowaniach,
 - **3)** prowadzących jednostki handlu detalicznego lub hurtowego, w których są oferowane torby na zakupy z tworzywa sztucznego, objęte opłatą recyklingową, o której mowa w art. 40a ustawy z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi (Dz. U. z 2023 r. poz. 160 i 877),
 - **4)** gospodarujących odpadami,
-- **5)** będących przedsiębiorcami, o których mowa w art. 3b ust. 1 i 2 ustawy z dnia 11 maja 2001 r. o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej zwany dalej „rejestrem”.
+- **5)** będących przedsiębiorcami, o których mowa w art. 3b ust. 1 i 2 ustawy z dnia 11 maja 2001 r. o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej,
+- **6)** podmiotów reprezentujących prowadzących systemy kaucyjne, o których mowa w art. 40g ust. 2 ustawy z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi, zwanych dalej „podmiotami reprezentującymi” – zwany dalej „rejestrem”.
 
 2. Marszałek województwa dokonuje wpisu do rejestru na wniosek lub z urzędu.
 
@@ -1581,14 +1549,15 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
     - **d)** prowadzących zakłady recyklingu statków,
     - **e)** wytwórców odpadów obowiązanych do prowadzenia ewidencji odpadów, z wyłączeniem posiadaczy odpadów wymienionych w art. 51 ust. 1 pkt 1 i 2;
 
-- **6)** z zakresu ustawy z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi organizacji samorządu gospodarczego, o których mowa w art. 25 ust. 1 tej ustawy, a także przedsiębiorców: o gospodarce opakowaniami i odpadami opakowaniowymi;
+- **6)** z zakresu ustawy z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi – organizacji samorządu gospodarczego, o których mowa w art. 25 ust. 1 tej ustawy, a także przedsiębiorców:
     - **a)** będących organizacjami odzysku opakowań,
-    - **b)** dokonujących wewnątrzwspólnotowej dostawy: odpadów opakowaniowych, produktów w opakowaniach,
-    - **c)** eksportujących: odpady opakowaniowe, opakowania, produkty w opakowaniach,
+    - **b)** dokonujących wewnątrzwspólnotowej dostawy: – odpadów opakowaniowych, – produktów w opakowaniach,
+    - **c)** eksportujących: – odpady opakowaniowe, – opakowania, – produkty w opakowaniach,
     - **d)** prowadzących recykling odpadów opakowaniowych,
     - **e)** wprowadzających opakowania,
     - **f)** wprowadzających produkty w opakowaniach,
-    - **g)** przedsiębiorców prowadzących jednostki handlu detalicznego lub hurtowego, w których są oferowane torby na zakupy z tworzywa sztucznego, objęte opłatą recyklingową, o której mowa w art. 40a ustawy z dnia 13 czerwca 2013 r.
+    - **g)** przedsiębiorców prowadzących jednostki handlu detalicznego lub hurtowego, w których są oferowane torby na zakupy z tworzywa sztucznego, objęte opłatą recyklingową, o której mowa w art. 40a ustawy z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi,
+    - **h)** podmiotów reprezentujących;
 
 - **7)** z zakresu ustawy z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach (Dz. U. z 2022 r. poz. 2519 oraz z 2023 r. poz. 877):
     - **a)** punktów selektywnego zbierania odpadów komunalnych prowadzonych samodzielnie przez gminę lub wspólnie z inną gminą lub gminami,
@@ -1614,8 +1583,8 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 - **2)** posiadacza odpadów, który uzyskał pozwolenie na wytwarzanie odpadów,
 - **3)** posiadacza odpadów, który uzyskał zezwolenie na zbieranie odpadów lub zezwolenie na przetwarzanie odpadów,
 - **4)** podmiotu, który uzyskał decyzję zatwierdzającą program gospodarowania odpadami wydobywczymi lub zezwolenie na prowadzenie obiektu unieszkodliwiania odpadów wydobywczych,
-- **5)** podmiotu, który uzyskał koncesję na podziemne składowanie odpadów na podstawie ustawy z dnia 9 czerwca 2011 r. Prawo geologiczne i górnicze
-- **6)** (uchylony) jeżeli nie uzyskali wpisu do rejestru na podstawie art. 50 ust. 2.
+- **5)** podmiotu, który uzyskał koncesję na podziemne składowanie odpadów na podstawie ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze
+- **6)** (uchylony) – jeżeli nie uzyskali wpisu do rejestru na podstawie art. 50 ust. 2.
 
 2. Nie podlegają wpisowi do rejestru:
 
@@ -1629,56 +1598,57 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 
 1. W przypadku podmiotów wpisywanych do rejestru na wniosek, rejestr zawiera następujące informacje:
 
-- **1)** imię i nazwisko lub nazwę podmiotu oraz adres zamieszkania lub siedziby, adres e-mail, a w przypadku wyznaczenia autoryzowanego przedstawiciela, o którym mowa odpowiednio w art. 26 ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym albo art. 8a ust. 1 ustawy z dnia 11 maja 2001 r. o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej również kod pocztowy, miejscowość, nazwę ulicy, numer domu i lokalu, kraj, numer telefonu i faksu oraz osobę do kontaktu, a także imię i nazwisko lub nazwę oraz adres zamieszkania lub siedziby producenta, który wyznaczył tego autoryzowanego przedstawiciela;
+- **1)** imię i nazwisko lub nazwę podmiotu oraz adres zamieszkania lub siedziby, adres e-mail, a w przypadku wyznaczenia autoryzowanego przedstawiciela, o którym mowa odpowiednio w art. 26 ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym albo art. 8a ust. 1 ustawy z dnia 11 maja 2001 r. o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej – również kod pocztowy, miejscowość, nazwę ulicy, numer domu i lokalu, kraj, numer telefonu i faksu oraz osobę do kontaktu, a także imię i nazwisko lub nazwę oraz adres zamieszkania lub siedziby producenta, który wyznaczył tego autoryzowanego przedstawiciela;
 - **2)** numer identyfikacji podatkowej (NIP) oraz europejski numer identyfikacji podatkowej, o ile został nadany;
-- **3)** (uchylony) 3a) numer PESEL w przypadku podmiotów będących osobami fizycznymi nieobowiązanymi do posiadania numeru identyfikacji podatkowej (NIP);
+- **3)** (uchylony) 3a) numer PESEL – w przypadku podmiotów będących osobami fizycznymi nieobowiązanymi do posiadania numeru identyfikacji podatkowej (NIP);
 - **4)** z zakresu ustawy z dnia 11 maja 2001 r. o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej w odniesieniu do:
-    - **a)** przedsiębiorcy wprowadzającego do obrotu produkty lub autoryzowanego przedstawiciela, o którym mowa w art. 8a ust. 1 tej ustawy: informację o sposobie wykonania obowiązku zapewnienia odzysku, a w szczególności recyklingu, odpadów powstałych z produktów, nazwę i numer rejestrowy organizacji odzysku, która przejęła obowiązek zapewnienia odzysku i recyklingu odpadów powstałych z produktów, o ile została zawarta umowa z organizacją odzysku, wykaz producentów, z którymi autoryzowany przedstawiciel zawarł umowę, o której mowa w art. 8a ust. 2 tej ustawy, zawierający ich imię i nazwisko lub nazwę oraz adres zamieszkania lub siedziby w przypadku autoryzowanego przedstawiciela,
-    - **b)** prowadzącego recykling odpadów powstałych z produktów wymienionych w załączniku nr 4a do tej ustawy: kod i nazwę rodzaju odpadów przyjmowanych do recyklingu, informację o stosowanym procesie recyklingu, adres miejsca prowadzenia działalności w zakresie recyklingu, informację o decyzjach związanych z recyklingiem odpadów, informację o wdrożonym systemie jakości, systemie zarządzania środowiskowego albo o ich braku, informację o rocznej mocy przerobowej instalacji do recyklingu w odniesieniu do poszczególnych rodzajów odpadów,
-    - **c)** prowadzącego odzysk odpadów powstałych z produktów wymienionych w załączniku nr 4a do tej ustawy: kod i nazwę rodzaju odpadów przyjmowanych do odzysku, informację o stosowanym procesie odzysku, adres miejsca prowadzenia działalności w zakresie odzysku, informację o decyzjach związanych z odzyskiem, informację o wdrożonym systemie jakości, systemie zarządzania środowiskowego albo o ich braku, informację o masie poszczególnych rodzajów odpadów dopuszczonych do odzysku wraz z podaniem rocznej mocy przerobowej instalacji lub urządzenia służących do odzysku,
-    - **d)** dokonującego eksportu odpadów powstałych z produktów wymienionych w załączniku nr 4a do tej ustawy oraz wewnątrzwspólnotowej dostawy odpadów powstałych z produktów wymienionych w załączniku nr 4a do tej ustawy w celu poddania ich odzyskowi i recyklingowi: kod i nazwę rodzajów odpadów powstałych z produktów wymienionych w załączniku nr 4a do tej ustawy przyjmowanych w celu eksportu lub wewnątrzwspólnotowej dostawy, informację o decyzjach związanych z gospodarką odpadami,
-    - **e)** organizacji odzysku: informację o rodzaju produktów wymienionych w załączniku nr 4a do tej ustawy, w stosunku do których organizacja odzysku zamierza wykonywać obowiązek zapewniania odzysku i recyklingu odpadów z nich powstałych, informację o wdrożonym systemie jakości, systemie zarządzania środowiskowego albo o ich braku,
-    - **f)** przedsiębiorcy wprowadzającego do obrotu produkty jednorazowego użytku z tworzyw sztucznych lub autoryzowanego przedstawiciela, o którym mowa w art. 8a ust. 1 tej ustawy: informację o rodzaju prowadzonej działalności, informacje o rodzajach wprowadzanych do obrotu produktów jednorazowego użytku z tworzyw sztucznych,
-    - **g)** przedsiębiorcy wprowadzającego do obrotu narzędzia połowowe zawierające tworzywa sztuczne informację o rodzaju prowadzonej działalności,
-    - **h)** przedsiębiorców, o których mowa w art. 3b ust. 1 i 2 tej ustawy informację o: rodzaju prowadzonej działalności, rodzajach oferowanych produktów jednorazowego użytku z tworzyw sztucznych wymienionych w załączniku nr 6 do tej ustawy będących opakowaniami objętych opłatą, o której mowa w art. 3b ust. 1 tej ustawy, miejscu albo miejscach prowadzenia działalności;
+    - **a)** przedsiębiorcy wprowadzającego do obrotu produkty lub autoryzowanego przedstawiciela, o którym mowa w art. 8a ust. 1 tej ustawy: – informację o sposobie wykonania obowiązku zapewnienia odzysku, a w szczególności recyklingu, odpadów powstałych z produktów, – nazwę i numer rejestrowy organizacji odzysku, która przejęła obowiązek zapewnienia odzysku i recyklingu odpadów powstałych z produktów, o ile została zawarta umowa z organizacją odzysku, – wykaz producentów, z którymi autoryzowany przedstawiciel zawarł umowę, o której mowa w art. 8a ust. 2 tej ustawy, zawierający ich imię i nazwisko lub nazwę oraz adres zamieszkania lub siedziby – w przypadku autoryzowanego przedstawiciela,
+    - **b)** prowadzącego recykling odpadów powstałych z produktów wymienionych w załączniku nr 4a do tej ustawy: – kod i nazwę rodzaju odpadów przyjmowanych do recyklingu, – informację o stosowanym procesie recyklingu, – adres miejsca prowadzenia działalności w zakresie recyklingu, – informację o decyzjach związanych z recyklingiem odpadów, – informację o wdrożonym systemie jakości, systemie zarządzania środowiskowego albo o ich braku, – informację o rocznej mocy przerobowej instalacji do recyklingu w odniesieniu do poszczególnych rodzajów odpadów,
+    - **c)** prowadzącego odzysk odpadów powstałych z produktów wymienionych w załączniku nr 4a do tej ustawy: – kod i nazwę rodzaju odpadów przyjmowanych do odzysku, – informację o stosowanym procesie odzysku, – adres miejsca prowadzenia działalności w zakresie odzysku, – informację o decyzjach związanych z odzyskiem, – informację o wdrożonym systemie jakości, systemie zarządzania środowiskowego albo o ich braku, – informację o masie poszczególnych rodzajów odpadów dopuszczonych do odzysku wraz z podaniem rocznej mocy przerobowej instalacji lub urządzenia służących do odzysku,
+    - **d)** dokonującego eksportu odpadów powstałych z produktów wymienionych w załączniku nr 4a do tej ustawy oraz wewnątrzwspólnotowej dostawy odpadów powstałych z produktów wymienionych w załączniku nr 4a do tej ustawy w celu poddania ich odzyskowi i recyklingowi: – kod i nazwę rodzajów odpadów powstałych z produktów wymienionych w załączniku nr 4a do tej ustawy przyjmowanych w celu eksportu lub wewnątrzwspólnotowej dostawy, – informację o decyzjach związanych z gospodarką odpadami,
+    - **e)** organizacji odzysku: – informację o rodzaju produktów wymienionych w załączniku nr 4a do tej ustawy, w stosunku do których organizacja odzysku zamierza wykonywać obowiązek zapewniania odzysku i recyklingu odpadów z nich powstałych, – informację o wdrożonym systemie jakości, systemie zarządzania środowiskowego albo o ich braku,
+    - **f)** przedsiębiorcy wprowadzającego do obrotu produkty jednorazowego użytku z tworzyw sztucznych lub autoryzowanego przedstawiciela, o którym mowa w art. 8a ust. 1 tej ustawy: – informację o rodzaju prowadzonej działalności, – informacje o rodzajach wprowadzanych do obrotu produktów jednorazowego użytku z tworzyw sztucznych,
+    - **g)** przedsiębiorcy wprowadzającego do obrotu narzędzia połowowe zawierające tworzywa sztuczne – informację o rodzaju prowadzonej działalności,
+    - **h)** przedsiębiorców, o których mowa w art. 3b ust. 1 i 2 tej ustawy – informację o: – rodzaju prowadzonej działalności, – rodzajach oferowanych produktów jednorazowego użytku z tworzyw sztucznych wymienionych w załączniku nr 6 do tej ustawy będących opakowaniami objętych opłatą, o której mowa w art. 3b ust. 1 tej ustawy, – miejscu albo miejscach prowadzenia działalności;
 
 - **5)** z zakresu ustawy z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji w odniesieniu do:
-    - **a)** wprowadzającego pojazdy: informację o rodzaju prowadzonej działalności, informację o stacjach demontażu i punktach zbierania pojazdów działających w ramach sieci zbierania pojazdów wraz z datą, od której dana stacja lub punkt funkcjonuje w sieci, oraz datę, do której dane stacje lub punkty funkcjonowały w tej sieci, w przypadku zaprzestania ich funkcjonowania,
-    - **b)** prowadzącego punkt zbierania pojazdów: adres punktu zbierania pojazdów, informację o decyzjach związanych z gospodarką odpadami,
-    - **c)** prowadzącego stację demontażu: adres stacji demontażu, informację o stosowanych procesach przetwarzania, informację o decyzjach związanych z gospodarką odpadami, informację o wdrożonym systemie jakości, systemie zarządzania środowiskowego albo o ich braku,
-    - **d)** prowadzącego strzępiarkę: adres strzępiarki, informację o decyzjach związanych z gospodarką odpadami, informację o wdrożonym systemie jakości, systemie zarządzania środowiskowego albo o ich braku;
+    - **a)** wprowadzającego pojazdy: – informację o rodzaju prowadzonej działalności, – informację o stacjach demontażu i punktach zbierania pojazdów działających w ramach sieci zbierania pojazdów wraz z datą, od której dana stacja lub punkt funkcjonuje w sieci, oraz datę, do której dane stacje lub punkty funkcjonowały w tej sieci, w przypadku zaprzestania ich funkcjonowania,
+    - **b)** prowadzącego punkt zbierania pojazdów: – adres punktu zbierania pojazdów, – informację o decyzjach związanych z gospodarką odpadami,
+    - **c)** prowadzącego stację demontażu: – adres stacji demontażu, – informację o stosowanych procesach przetwarzania, – informację o decyzjach związanych z gospodarką odpadami, – informację o wdrożonym systemie jakości, systemie zarządzania środowiskowego albo o ich braku,
+    - **d)** prowadzącego strzępiarkę: – adres strzępiarki, – informację o decyzjach związanych z gospodarką odpadami, – informację o wdrożonym systemie jakości, systemie zarządzania środowiskowego albo o ich braku;
 
 - **6)** z zakresu ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym w odniesieniu do:
-    - **a)** wprowadzającego sprzęt lub autoryzowanego przedstawiciela: informację o rodzaju prowadzonej działalności, nazwę marki sprzętu, numer i nazwę grupy sprzętu, typ sprzętu (sprzęt przeznaczony dla gospodarstw domowych lub sprzęt inny niż przeznaczony dla gospodarstw domowych), informację o umowie z organizacją odzysku sprzętu elektrycznego i elektronicznego, o której mowa w art. 11 ust. 3 tej ustawy, a w przypadku wprowadzającego sprzęt, który wprowadził do obrotu sprzęt przeznaczony dla gospodarstw domowych, który nie zawarł umowy z organizacją odzysku sprzętu elektrycznego i elektronicznego informację o masie sprzętu, który zamierza wprowadzić do obrotu w danym roku kalendarzowym, zaliczonego do poszczególnych grup sprzętu oraz o formie i wysokości zabezpieczenia finansowego, o którym mowa w art. 27 ust. 1 tej ustawy, informację o stosowanej technice sprzedaży sprzętu, wykaz producentów sprzętu, z którymi autoryzowany przedstawiciel zawarł umowę, o której mowa w art. 26 ust. 3 tej ustawy, zawierający ich imię i nazwisko lub nazwę oraz adres zamieszkania lub siedziby w przypadku autoryzowanego przedstawiciela,
-    - **b)** zbierającego zużyty sprzęt: numer i nazwę grupy sprzętu, z której powstał zebrany przez niego zużyty sprzęt, adresy miejsc, w których jest zbierany zużyty sprzęt, informację o decyzjach związanych z gospodarką odpadami,
-    - **c)** prowadzącego zakład przetwarzania: numer i nazwę grupy sprzętu, z której powstał przyjmowany przez niego zużyty sprzęt, adres zakładu przetwarzania, informację o rocznej mocy przerobowej zakładu przetwarzania, informację o zbieranym zużytym sprzęcie, w tym adresy miejsc, w których jest zbierany zużyty sprzęt, informację o decyzjach związanych z gospodarką odpadami, informację o wdrożonym systemie jakości, systemie zarządzania środowiskowego albo o ich braku,
-    - **d)** prowadzącego działalność w zakresie recyklingu: kod i nazwę rodzaju przyjmowanych odpadów, informację o stosowanym procesie recyklingu, informację o rocznej mocy przerobowej instalacji służącej do recyklingu, adres miejsca prowadzenia działalności w zakresie recyklingu, informację o decyzjach związanych z recyklingiem odpadów, informację o wdrożonym systemie jakości, systemie zarządzania środowiskowego albo o ich braku,
-    - **e)** prowadzącego działalność w zakresie innych niż recykling procesów odzysku: kod i nazwę rodzajów przyjmowanych odpadów, informację o stosowanym procesie odzysku, informację o rocznej mocy przerobowej instalacji służącej do odzysku, adres miejsca prowadzenia działalności w zakresie odzysku, informację o decyzjach związanych z odzyskiem odpadów, informację o wdrożonym systemie jakości, systemie zarządzania środowiskowego albo o ich braku,
-    - **f)** organizacji odzysku sprzętu elektrycznego i elektronicznego: wykaz autoryzowanych przedstawicieli z informacją o imieniu i nazwisku lub nazwie oraz adresie zamieszkania lub siedziby producentów sprzętu, którzy ich wyznaczyli, lub wykaz wprowadzających sprzęt, z którymi organizacja zawarła umowy, o których mowa w art. 11 ust. 3 tej ustawy, zawierający firmy przedsiębiorców oraz oznaczenia ich siedzib i numery rejestrowe, kopię zaświadczenia wydanego przez bank prowadzący rachunek organizacji odzysku sprzętu elektrycznego i elektronicznego o wpłacie kwoty równej wysokości kapitału zakładowego organizacji odzysku sprzętu elektrycznego i elektronicznego na pokrycie tego kapitału;
+    - **a)** wprowadzającego sprzęt lub autoryzowanego przedstawiciela: – informację o rodzaju prowadzonej działalności, – nazwę marki sprzętu, numer i nazwę grupy sprzętu, typ sprzętu (sprzęt przeznaczony dla gospodarstw domowych lub sprzęt inny niż przeznaczony dla gospodarstw domowych), – informację o umowie z organizacją odzysku sprzętu elektrycznego i elektronicznego, o której mowa w art. 11 ust. 3 tej ustawy, a w przypadku wprowadzającego sprzęt, który wprowadził do obrotu sprzęt przeznaczony dla gospodarstw domowych, który nie zawarł umowy z organizacją odzysku sprzętu elektrycznego i elektronicznego – informację o masie sprzętu, który zamierza wprowadzić do obrotu w danym roku kalendarzowym, zaliczonego do poszczególnych grup sprzętu oraz o formie i wysokości zabezpieczenia finansowego, o którym mowa w art. 27 ust. 1 tej ustawy, – informację o stosowanej technice sprzedaży sprzętu, – wykaz producentów sprzętu, z którymi autoryzowany przedstawiciel zawarł umowę, o której mowa w art. 26 ust. 3 tej ustawy, zawierający ich imię i nazwisko lub nazwę oraz adres zamieszkania lub siedziby – w przypadku autoryzowanego przedstawiciela,
+    - **b)** zbierającego zużyty sprzęt: – numer i nazwę grupy sprzętu, z której powstał zebrany przez niego zużyty sprzęt, – adresy miejsc, w których jest zbierany zużyty sprzęt, – informację o decyzjach związanych z gospodarką odpadami,
+    - **c)** prowadzącego zakład przetwarzania: – numer i nazwę grupy sprzętu, z której powstał przyjmowany przez niego zużyty sprzęt, – adres zakładu przetwarzania, – informację o rocznej mocy przerobowej zakładu przetwarzania, – informację o zbieranym zużytym sprzęcie, w tym adresy miejsc, w których jest zbierany zużyty sprzęt, – informację o decyzjach związanych z gospodarką odpadami, – informację o wdrożonym systemie jakości, systemie zarządzania środowiskowego albo o ich braku,
+    - **d)** prowadzącego działalność w zakresie recyklingu: – kod i nazwę rodzaju przyjmowanych odpadów, – informację o stosowanym procesie recyklingu, – informację o rocznej mocy przerobowej instalacji służącej do recyklingu, – adres miejsca prowadzenia działalności w zakresie recyklingu, – informację o decyzjach związanych z recyklingiem odpadów, – informację o wdrożonym systemie jakości, systemie zarządzania środowiskowego albo o ich braku,
+    - **e)** prowadzącego działalność w zakresie innych niż recykling procesów odzysku: – kod i nazwę rodzajów przyjmowanych odpadów, – informację o stosowanym procesie odzysku, – informację o rocznej mocy przerobowej instalacji służącej do odzysku, – adres miejsca prowadzenia działalności w zakresie odzysku, – informację o decyzjach związanych z odzyskiem odpadów, – informację o wdrożonym systemie jakości, systemie zarządzania środowiskowego albo o ich braku,
+    - **f)** organizacji odzysku sprzętu elektrycznego i elektronicznego: – wykaz autoryzowanych przedstawicieli z informacją o imieniu i nazwisku lub nazwie oraz adresie zamieszkania lub siedziby producentów sprzętu, którzy ich wyznaczyli, lub wykaz wprowadzających sprzęt, z którymi organizacja zawarła umowy, o których mowa w art. 11 ust. 3 tej ustawy, zawierający firmy przedsiębiorców oraz oznaczenia ich siedzib i numery rejestrowe, – kopię zaświadczenia wydanego przez bank prowadzący rachunek organizacji odzysku sprzętu elektrycznego i elektronicznego o wpłacie kwoty równej wysokości kapitału zakładowego organizacji odzysku sprzętu elektrycznego i elektronicznego na pokrycie tego kapitału;
 
 - **7)** z zakresu ustawy z dnia 24 kwietnia 2009 r. o bateriach i akumulatorach w odniesieniu do:
-    - **a)** wprowadzającego baterie lub akumulatory: informację o rodzaju wprowadzanych baterii i akumulatorów, informację o sposobie realizowania obowiązków wynikających z ustawy, a w przypadku realizacji obowiązków za pośrednictwem innego podmiotu dane tego podmiotu, informację o marce wprowadzanych baterii i akumulatorów, o ile posiada on taką informację,
-    - **b)** prowadzącego zakład przetwarzania zużytych baterii lub zużytych akumulatorów: informację o rodzajach przetwarzanych baterii i akumulatorów oraz o prowadzonych procesach przetwarzania i recyklingu, informację o decyzjach związanych z gospodarką odpadami, informację o rocznej mocy przerobowej zakładu przetwarzania, informację o wdrożonym systemie jakości, systemie zarządzania środowiskowego albo o ich braku,
+    - **a)** wprowadzającego baterie lub akumulatory: – informację o rodzaju wprowadzanych baterii i akumulatorów, – informację o sposobie realizowania obowiązków wynikających z ustawy, a w przypadku realizacji obowiązków za pośrednictwem innego podmiotu – dane tego podmiotu, – informację o marce wprowadzanych baterii i akumulatorów, o ile posiada on taką informację,
+    - **b)** prowadzącego zakład przetwarzania zużytych baterii lub zużytych akumulatorów: – informację o rodzajach przetwarzanych baterii i akumulatorów oraz o prowadzonych procesach przetwarzania i recyklingu, – informację o decyzjach związanych z gospodarką odpadami, – informację o rocznej mocy przerobowej zakładu przetwarzania, – informację o wdrożonym systemie jakości, systemie zarządzania środowiskowego albo o ich braku,
     - **c)** podmiotu pośredniczącego: − wykaz wprowadzających baterie lub akumulatory, z którymi podmiot pośredniczący zawarł umowę, o której mowa w art. 28 ust. 4 tej ustawy, zawierający firmy przedsiębiorców oraz oznaczenia ich siedzib i numery rejestrowe, − informację o wdrożonym systemie zarządzania środowiskowego albo o jego braku;
 
 - **7a)** z zakresu ustawy z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi w odniesieniu do:
-    - **a)** organizacji odzysku opakowań: wskazanie rodzajów opakowań, w stosunku do których organizacja odzysku opakowań zamierza wykonywać obowiązek zapewniania recyklingu odpadów opakowaniowych, informację o wdrożonym systemie jakości, systemie zarządzania środowiskowego albo o ich braku,
-    - **b)** przedsiębiorców eksportujących odpady opakowaniowe oraz przedsiębiorców dokonujących wewnątrzwspólnotowej dostawy odpadów opakowaniowych: kod i rodzaj odpadów opakowaniowych przyjmowanych w celu poddania ich recyklingowi poza terytorium kraju, informację o decyzjach związanych z gospodarowaniem odpadami,
-    - **c)** przedsiębiorców prowadzących recykling odpadów opakowaniowych: kod i rodzaj odpadów opakowaniowych przyjmowanych do recyklingu, informację o decyzjach związanych z gospodarowaniem odpadami, informację o stosowanym procesie odzysku, informację o masie poszczególnych rodzajów odpadów dopuszczonych do odzysku wraz z podaniem rocznej mocy przerobowej instalacji lub urządzenia służących do odzysku, informację o miejscu prowadzenia działalności w zakresie recyklingu, informację o wdrożonym systemie jakości, systemie zarządzania środowiskowego albo o ich braku,
-    - **d)** wprowadzających produkty w opakowaniach: informację o sposobie wykonania obowiązku zapewnienia recyklingu odpadów opakowaniowych samodzielnie, za pośrednictwem organizacji odzysku opakowań lub organizacji samorządu gospodarczego, o której mowa w art. 25 ust. 1 tej ustawy, nazwę i numer rejestrowy organizacji odzysku opakowań, której zlecili wykonanie obowiązku zapewnienia recyklingu odpadów opakowaniowych, nazwę i numer rejestrowy organizacji samorządu gospodarczego, o której mowa w art. 25 ust. 1 tej ustawy w przypadku wprowadzających produkty w opakowaniach wielomateriałowych lub wprowadzających środki niebezpieczne w opakowaniach, którzy przystąpili do porozumienia, o którym mowa w art. 25 tej ustawy, informację o sposobie wykonania obowiązku osiągnięcia rocznego poziomu selektywnego zbierania odpadów opakowaniowych, o którym mowa w art. 21a ust. 1 tej ustawy, samodzielnie albo za pośrednictwem organizacji odzysku opakowań,
-    - **e)** wprowadzających opakowania oraz eksportujących produkty w opakowaniach i dokonujących wewnątrzwspólnotowej dostawy produktów w opakowaniach: informację o rodzaju prowadzonej działalności, informację o rodzaju wytwarzanych, przywożonych z zagranicy oraz wywożonych za granicę opakowań,
-    - **f)** organizacji samorządu gospodarczego, o której mowa w art. 25 ust. 1 tej ustawy informację o zakresie i terminie realizacji zawartego przez tę organizację porozumienia z marszałkiem województwa,
-    - **g)** przedsiębiorców prowadzących jednostki handlu detalicznego lub hurtowego, w których są oferowane torby na zakupy z tworzywa sztucznego, objęte opłatą recyklingową, o której mowa w art. 40a ustawy z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi: informację o rodzaju prowadzonej działalności, informację o miejscu albo miejscach prowadzenia działalności;
+    - **a)** organizacji odzysku opakowań: – wskazanie rodzajów opakowań, w stosunku do których organizacja odzysku opakowań zamierza wykonywać obowiązek zapewniania recyklingu odpadów opakowaniowych, – informację o wdrożonym systemie jakości, systemie zarządzania środowiskowego albo o ich braku,
+    - **b)** przedsiębiorców eksportujących odpady opakowaniowe oraz przedsiębiorców dokonujących wewnątrzwspólnotowej dostawy odpadów opakowaniowych: – kod i rodzaj odpadów opakowaniowych przyjmowanych w celu poddania ich recyklingowi poza terytorium kraju, – informację o decyzjach związanych z gospodarowaniem odpadami,
+    - **c)** przedsiębiorców prowadzących recykling odpadów opakowaniowych: – kod i rodzaj odpadów opakowaniowych przyjmowanych do recyklingu, – informację o decyzjach związanych z gospodarowaniem odpadami, – informację o stosowanym procesie odzysku, – informację o masie poszczególnych rodzajów odpadów dopuszczonych do odzysku wraz z podaniem rocznej mocy przerobowej instalacji lub urządzenia służących do odzysku, – informację o miejscu prowadzenia działalności w zakresie recyklingu, – informację o wdrożonym systemie jakości, systemie zarządzania środowiskowego albo o ich braku,
+    - **d)** wprowadzających produkty w opakowaniach: – informację o sposobie wykonania obowiązku zapewnienia recyklingu odpadów opakowaniowych samodzielnie, za pośrednictwem organizacji odzysku opakowań lub organizacji samorządu gospodarczego, o której mowa w art. 25 ust. 1 tej ustawy, – nazwę i numer rejestrowy organizacji odzysku opakowań, której zlecili wykonanie obowiązku zapewnienia recyklingu odpadów opakowaniowych, – nazwę i numer rejestrowy organizacji samorządu gospodarczego, o której mowa w art. 25 ust. 1 tej ustawy – w przypadku wprowadzających produkty w opakowaniach wielomateriałowych lub wprowadzających środki niebezpieczne w opakowaniach, którzy przystąpili do porozumienia, o którym mowa w art. 25 tej ustawy, – nazwę i numer rejestrowy podmiotu reprezentującego, któremu zlecili wykonanie obowiązku osiągnięcia poziomów selektywnego zbierania opakowań i odpadów opakowaniowych, o ile została zawarta umowa z podmiotem reprezentującym,
+    - **e)** wprowadzających opakowania oraz eksportujących produkty w opakowaniach i dokonujących wewnątrzwspólnotowej dostawy produktów w opakowaniach: – informację o rodzaju prowadzonej działalności, – informację o rodzaju wytwarzanych, przywożonych z zagranicy oraz wywożonych za granicę opakowań,
+    - **f)** organizacji samorządu gospodarczego, o której mowa w art. 25 ust. 1 tej ustawy – informację o zakresie i terminie realizacji zawartego przez tę organizację porozumienia z marszałkiem województwa,
+    - **g)** przedsiębiorców prowadzących jednostki handlu detalicznego lub hurtowego, w których są oferowane torby na zakupy z tworzywa sztucznego, objęte opłatą recyklingową, o której mowa w art. 40a ustawy z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi: – informację o rodzaju prowadzonej działalności, – informację o miejscu albo miejscach prowadzenia działalności,
+    - **h)** podmiotów reprezentujących: – wskazanie rodzajów opakowań, dla których podmiot reprezentujący tworzy system kaucyjny w rozumieniu art. 8 pkt 13a ustawy z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi, zwany dalej „systemem kaucyjnym”, – informację o wdrożonym systemie jakości, systemie zarządzania środowiskowego albo o ich braku;
 
-- **7b)** z zakresu ustawy z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach w odniesieniu do podmiotu, który uzyskał wpis do rejestru działalności regulowanej w zakresie odbierania odpadów komunalnych od właścicieli nieruchomości nazwę gminy, powiatu i województwa, w których podmiot ten odbiera odpady komunalne;
+- **7b)** z zakresu ustawy z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach w odniesieniu do podmiotu, który uzyskał wpis do rejestru działalności regulowanej w zakresie odbierania odpadów komunalnych od właścicieli nieruchomości – nazwę gminy, powiatu i województwa, w których podmiot ten odbiera odpady komunalne;
 - **8)** z zakresu niniejszej ustawy w odniesieniu do:
-    - **a)** transportującego odpady kod i nazwę rodzajów transportowanych odpadów,
-    - **b)** sprzedawcy odpadów kod i nazwę rodzajów nabywanych i zbywanych odpadów,
-    - **c)** pośrednika w obrocie odpadami kod i nazwę rodzajów odpadów będących przedmiotem obrotu,
-    - **d)** posiadacza odpadów, o którym mowa w art. 50 ust. 1 pkt 5 lit. a: kod i nazwę rodzajów przetwarzanych odpadów, informację o przyczynie zwolnienia z obowiązku uzyskania zezwolenia na przetwarzanie odpadów,
-    - **e)** prowadzącego zakład recyklingu statków: adres zakładu recyklingu statków, informację o decyzjach związanych z gospodarką odpadami, informację o metodzie recyklingu statków, informację o rodzaju i wielkości statków, które można poddać recyklingowi statków, informację o ograniczeniach i uwarunkowaniach w funkcjonowaniu zakładu recyklingu statków, w tym dotyczących gospodarowania odpadami niebezpiecznymi, informację o maksymalnej rocznej wielkości recyklingu statków, którą oblicza się jako sumę mas statków wyrażoną w tonach masy statku pustego (LDT) w rozumieniu art. 3 ust. 1 pkt 24 rozporządzenia 1257/2013,
-    - **f)** wytwórcy odpadów informację o miejscu wytwarzania odpadów niepodlegających obowiązkowi uzyskania pozwolenia na wytwarzanie odpadów albo pozwolenia zintegrowanego,
-    - **g)** punktu selektywnego zbierania odpadów komunalnych, o którym mowa w art. 45 ust. 1 pkt 11: adres punktu selektywnego zbierania odpadów komunalnych, kod i nazwę rodzajów zbieranych odpadów komunalnych.
+    - **a)** transportującego odpady – kod i nazwę rodzajów transportowanych odpadów,
+    - **b)** sprzedawcy odpadów – kod i nazwę rodzajów nabywanych i zbywanych odpadów,
+    - **c)** pośrednika w obrocie odpadami – kod i nazwę rodzajów odpadów będących przedmiotem obrotu,
+    - **d)** posiadacza odpadów, o którym mowa w art. 50 ust. 1 pkt 5 lit. a: – kod i nazwę rodzajów przetwarzanych odpadów, – informację o przyczynie zwolnienia z obowiązku uzyskania zezwolenia na przetwarzanie odpadów,
+    - **e)** prowadzącego zakład recyklingu statków: – adres zakładu recyklingu statków, – informację o decyzjach związanych z gospodarką odpadami, – informację o metodzie recyklingu statków, – informację o rodzaju i wielkości statków, które można poddać recyklingowi statków, – informację o ograniczeniach i uwarunkowaniach w funkcjonowaniu zakładu recyklingu statków, w tym dotyczących gospodarowania odpadami niebezpiecznymi, – informację o maksymalnej rocznej wielkości recyklingu statków, którą oblicza się jako sumę mas statków wyrażoną w tonach masy statku pustego (LDT) w rozumieniu art. 3 ust. 1 pkt 24 rozporządzenia 1257/2013,
+    - **f)** wytwórcy odpadów – informację o miejscu wytwarzania odpadów niepodlegających obowiązkowi uzyskania pozwolenia na wytwarzanie odpadów albo pozwolenia zintegrowanego,
+    - **g)** punktu selektywnego zbierania odpadów komunalnych, o którym mowa w art. 45 ust. 1 pkt 11: – adres punktu selektywnego zbierania odpadów komunalnych, – kod i nazwę rodzajów zbieranych odpadów komunalnych.
 
 2. W przypadku podmiotów wpisanych do rejestru z urzędu, rejestr zawiera następujące informacje:
 
@@ -1686,7 +1656,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 - **2)** numer identyfikacji podatkowej (NIP), o ile został nadany;
 - **2a)** adres e-mail;
 - **3)** (uchylony)
-- **4)** odpowiednio informację o decyzjach związanych z gospodarką odpadami, a także o decyzji zatwierdzającej program gospodarowania odpadami wydobywczymi, zezwoleniu na prowadzenie obiektu unieszkodliwiania odpadów wydobywczych, o których mowa w ustawie z dnia 10 lipca 2008 r. o odpadach wydobywczych, koncesji na podziemne składowanie odpadów, o której mowa w ustawie z dnia 9 czerwca 2011 r. Prawo geologiczne i górnicze lub o wpisie do rejestru działalności regulowanej w zakresie odbierania odpadów komunalnych od właścicieli nieruchomości na podstawie ustawy z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach;
+- **4)** odpowiednio informację o decyzjach związanych z gospodarką odpadami, a także o decyzji zatwierdzającej program gospodarowania odpadami wydobywczymi, zezwoleniu na prowadzenie obiektu unieszkodliwiania odpadów wydobywczych, o których mowa w ustawie z dnia 10 lipca 2008 r. o odpadach wydobywczych, koncesji na podziemne składowanie odpadów, o której mowa w ustawie z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze lub o wpisie do rejestru działalności regulowanej w zakresie odbierania odpadów komunalnych od właścicieli nieruchomości – na podstawie ustawy z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach;
 - **5)** informacje zawarte w decyzjach, o których mowa w pkt 4:
     - **a)** nazwę i adres instalacji lub nazwę i adres miejsca zbierania odpadów,
     - **b)** informacje o rodzajach odpadów wytwarzanych, zbieranych lub przetwarzanych,
@@ -1695,7 +1665,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 
 - **6)** informację o wdrożonym systemie jakości, systemie zarządzania środowiskowego albo o ich braku;
 - **7)** (uchylony)
-- **8)** wskazanie, czy jest prowadzona regeneracja olejów odpadowych lub inny recykling w przypadku przetwarzania olejów odpadowych;
+- **8)** wskazanie, czy jest prowadzona regeneracja olejów odpadowych lub inny recykling – w przypadku przetwarzania olejów odpadowych;
 - **9)** współrzędne geograficzne instalacji:
     - **a)** składowisk odpadów,
     - **b)** obiektów unieszkodliwiania odpadów wydobywczych,
@@ -1723,22 +1693,22 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 
 3. Przedsiębiorca zagraniczny wykonujący działalność w zakresie, o którym mowa w art. 50 ust. 1, składa wniosek o wpis do rejestru:
 
-- **1)** za pośrednictwem osoby upoważnionej do jego reprezentowania, zgodnie z art. 16 ustawy z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2022 r. poz. 470), do marszałka województwa właściwego ze względu na siedzibę oddziału jeżeli ustanowił oddział na terytorium Rzeczypospolitej Polskiej;
-- **2)** bezpośrednio do Marszałka Województwa Mazowieckiego jeżeli nie ustanowił oddziału na terytorium Rzeczypospolitej Polskiej.
+- **1)** za pośrednictwem osoby upoważnionej do jego reprezentowania, zgodnie z art. 16 ustawy z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2022 r. poz. 470), do marszałka województwa właściwego ze względu na siedzibę oddziału – jeżeli ustanowił oddział na terytorium Rzeczypospolitej Polskiej;
+- **2)** bezpośrednio do Marszałka Województwa Mazowieckiego – jeżeli nie ustanowił oddziału na terytorium Rzeczypospolitej Polskiej.
 
 3a. Przedsiębiorca zagraniczny, będący wprowadzającym baterie lub akumulatory w rozumieniu ustawy z dnia 24 kwietnia 2009 r. o bateriach i akumulatorach, składa wniosek o wpis do rejestru:
 
-- **1)** za pośrednictwem osoby upoważnionej do jego reprezentowania, zgodnie z art. 16 ustawy z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej, do marszałka województwa właściwego ze względu na siedzibę oddziału jeżeli ustanowił oddział na terytorium Rzeczypospolitej Polskiej;
-- **2)** za pośrednictwem podmiotu pośredniczącego, z którym zawarł umowę, o której mowa w art. 28 ust. 4 ustawy z dnia 24 kwietnia 2009 r. o bateriach i akumulatorach, do marszałka województwa właściwego ze względu na siedzibę podmiotu pośredniczącego jeżeli nie ustanowił oddziału na terytorium Rzeczypospolitej Polskiej.
+- **1)** za pośrednictwem osoby upoważnionej do jego reprezentowania, zgodnie z art. 16 ustawy z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej, do marszałka województwa właściwego ze względu na siedzibę oddziału – jeżeli ustanowił oddział na terytorium Rzeczypospolitej Polskiej;
+- **2)** za pośrednictwem podmiotu pośredniczącego, z którym zawarł umowę, o której mowa w art. 28 ust. 4 ustawy z dnia 24 kwietnia 2009 r. o bateriach i akumulatorach, do marszałka województwa właściwego ze względu na siedzibę podmiotu pośredniczącego – jeżeli nie ustanowił oddziału na terytorium Rzeczypospolitej Polskiej.
 
 4. (uchylony)
 
 5. Wniosek o wpis do rejestru zawiera:
 
 - **1)** imię i nazwisko lub nazwę podmiotu oraz adres zamieszkania lub siedziby, adres e-mail, a w przypadku wyznaczenia autoryzowanego przedstawiciela, o którym mowa w art. 26 ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym, również kod pocztowy, miejscowość, nazwę ulicy, numer domu i lokalu, kraj, numer telefonu i faksu oraz osobę do kontaktu, a także imię i nazwisko lub nazwę, adres zamieszkania lub siedziby producenta, który go wyznaczył, oraz wykaz wprowadzających sprzęt, którzy mogą korzystać z uprawnienia, o którym mowa w art. 25 ust. 1 tej ustawy, 1a) imię i nazwisko lub nazwę podmiotu oraz adres zamieszkania lub siedziby, adres e-mail, a w przypadku wyznaczenia autoryzowanego przedstawiciela, o którym mowa w art. 8a ust. 1 ustawy z dnia 11 maja 2001 r. o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej, również kod pocztowy, miejscowość, nazwę ulicy, numer domu i lokalu, kraj, numer telefonu i faksu oraz osobę do kontaktu, a także imię i nazwisko lub nazwę, adres zamieszkania lub siedziby producenta, który go wyznaczył, oraz wykaz przedsiębiorców wprowadzających do obrotu produkty jednorazowego użytku z tworzyw sztucznych lub przedsiębiorców wprowadzających do obrotu narzędzia połowowe zawierające tworzywa sztuczne, którzy mogą korzystać z uprawnienia, o którym mowa w art. 8b ust. 1 tej ustawy,
-- **2)** numer identyfikacji podatkowej (NIP), o ile posiada, a w przypadku wprowadzających baterie lub akumulatory także europejski numer identyfikacji podatkowej, o ile został nadany, 2a) imię i nazwisko oraz adres e-mail osoby uprawnionej do reprezentacji podmiotu,
+- **2)** numer identyfikacji podatkowej (NIP), o ile posiada, a w przypadku wprowadzających baterie lub akumulatory – także europejski numer identyfikacji podatkowej, o ile został nadany, 2a) imię i nazwisko oraz adres e-mail osoby uprawnionej do reprezentacji podmiotu,
 - **3)** (uchylony)
-- **4)** imię i nazwisko oraz adres e-mail osoby wypełniającej formularz rejestrowy oraz odpowiednio informacje, o których mowa w art. 52 ust. 1, stosownie do zakresu działalności.
+- **4)** imię i nazwisko oraz adres e-mail osoby wypełniającej formularz rejestrowy – oraz odpowiednio informacje, o których mowa w art. 52 ust. 1, stosownie do zakresu działalności.
 
 6. Podmiot wykonujący działalność w więcej niż jednym zakresie, o którym mowa w art. 50 ust. 1, składa jeden wniosek o wpis do rejestru. Wniosek zawiera odpowiednio wszystkie wymagane informacje, o których mowa w art. 52 ust. 1, stosownie do zakresów działalności, którą podmiot zamierza wykonywać.
 
@@ -1751,12 +1721,12 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 - **2)** w przypadku wprowadzającego sprzęt lub autoryzowanego przedstawiciela, o którym mowa w art. 26 ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym:
     - **a)** kopię umowy z organizacją odzysku sprzętu elektrycznego i elektronicznego, o ile została zawarta,
     - **b)** kopię dokumentu potwierdzającego wniesienie zabezpieczenia finansowego, o którym mowa w art. 27 ust. 1 ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym, o ile zabezpieczenie finansowe jest wymagane,
-    - **c)** kopię umowy, o której mowa w art. 26 ust. 3 ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym w przypadku autoryzowanego przedstawiciela;
+    - **c)** kopię umowy, o której mowa w art. 26 ust. 3 ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym – w przypadku autoryzowanego przedstawiciela;
 
-- **3)** w przypadku organizacji odzysku sprzętu elektrycznego i elektronicznego, o której mowa w ustawie z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym kopię zaświadczenia wydanego przez bank prowadzący rachunek lub lokatę terminową organizacji odzysku sprzętu elektrycznego i elektronicznego o wpłacie kwoty równej wysokości kapitału zakładowego organizacji odzysku sprzętu elektrycznego i elektronicznego na pokrycie tego kapitału albo oświadczenie o wpłacie tej kwoty;
-- **4)** w przypadku organizacji odzysku, o której mowa w ustawie z dnia 11 maja 2001 r. o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej kopię zaświadczenia wydanego przez bank prowadzący rachunek organizacji odzysku o wpłacie kwoty równej wysokości kapitału zakładowego organizacji odzysku na pokrycie tego kapitału albo oświadczenie o wpłacie tej kwoty;
-- **5)** w przypadku wprowadzających baterie lub akumulatory informację potwierdzającą dobrowolny udział w systemie ekozarządzania i audytu (EMAS), o ile uczestniczą w systemie ekozarządzania i audytu (EMAS);
-- **6)** w przypadku wprowadzających pojazdy umowy z przedsiębiorcami prowadzącymi stacje demontażu zawarte w postaci elektronicznej albo kopie tych umów zawartych w postaci papierowej;
+- **3)** w przypadku organizacji odzysku sprzętu elektrycznego i elektronicznego, o której mowa w ustawie z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym – kopię zaświadczenia wydanego przez bank prowadzący rachunek lub lokatę terminową organizacji odzysku sprzętu elektrycznego i elektronicznego o wpłacie kwoty równej wysokości kapitału zakładowego organizacji odzysku sprzętu elektrycznego i elektronicznego na pokrycie tego kapitału albo oświadczenie o wpłacie tej kwoty;
+- **4)** w przypadku organizacji odzysku, o której mowa w ustawie z dnia 11 maja 2001 r. o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej – kopię zaświadczenia wydanego przez bank prowadzący rachunek organizacji odzysku o wpłacie kwoty równej wysokości kapitału zakładowego organizacji odzysku na pokrycie tego kapitału albo oświadczenie o wpłacie tej kwoty;
+- **5)** w przypadku wprowadzających baterie lub akumulatory – informację potwierdzającą dobrowolny udział w systemie ekozarządzania i audytu (EMAS), o ile uczestniczą w systemie ekozarządzania i audytu (EMAS);
+- **6)** w przypadku wprowadzających pojazdy – umowy z przedsiębiorcami prowadzącymi stacje demontażu zawarte w postaci elektronicznej albo kopie tych umów zawartych w postaci papierowej;
 - **7)** w przypadku autoryzowanego przedstawiciela, o którym mowa w art. 8a ust. 1 ustawy z dnia 11 maja 2001 r. o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej, kopię umowy, o której mowa w art. 8a ust. 2 tej ustawy.
 
 8. Oświadczenie, o którym mowa w ust. 7 pkt 1 lit. b, pkt 3 i 4, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań.
@@ -1802,7 +1772,8 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 - **6)** wprowadzających do obrotu opony,
 - **7)** wprowadzających do obrotu oleje smarowe,
 - **8)** wprowadzających do obrotu produkty jednorazowego użytku z tworzyw sztucznych,
-- **9)** wprowadzających do obrotu narzędzia połowowe zawierające tworzywa sztuczne podlega opłacie rejestrowej.
+- **9)** wprowadzających do obrotu narzędzia połowowe zawierające tworzywa sztuczne,
+- **10)** podmiotów reprezentujących – podlega opłacie rejestrowej.
 
 2. Opłaty rejestrowej nie uiszcza przedsiębiorca wpisany do rejestru, o którym mowa w ustawie z dnia 15 lipca 2011 r. o krajowym systemie ekozarządzania i audytu (EMAS) (Dz. U. z 2022 r. poz. 2013), który składając wniosek o wpis do rejestru przedłoży informację potwierdzającą dobrowolny udział w systemie ekozarządzania i audytu (EMAS).
 
@@ -1819,7 +1790,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 8. Minister właściwy do spraw klimatu w porozumieniu z ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia, wysokość stawek:
 
 - **1)** opłaty rejestrowej,
-- **2)** opłaty rocznej biorąc pod uwagę koszty prowadzenia rejestru oraz że opłaty te nie powinny stanowić przeszkody w uzyskaniu wpisu do rejestru albo w wykonywaniu działalności gospodarczej, zwłaszcza dla mikroprzedsiębiorców oraz małych i średnich przedsiębiorców.
+- **2)** opłaty rocznej – biorąc pod uwagę koszty prowadzenia rejestru oraz że opłaty te nie powinny stanowić przeszkody w uzyskaniu wpisu do rejestru albo w wykonywaniu działalności gospodarczej, zwłaszcza dla mikroprzedsiębiorców oraz małych i średnich przedsiębiorców.
 
 **Art. 58.**
 
@@ -1839,7 +1810,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 1. Podmiot wpisany do rejestru jest obowiązany do złożenia marszałkowi województwa wniosku o zmianę wpisu w rejestrze przy użyciu aktualizacyjnego formularza elektronicznego za pośrednictwem indywidualnego konta w Bazie danych o produktach i opakowaniach oraz o gospodarce odpadami, w przypadku zmiany:
 
 - **1)** informacji zawartych w rejestrze,
-- **2)** zakresu prowadzonej działalności wymagającej wpisu do rejestru w terminie 30 dni od dnia, w którym nastąpiła zmiana.
+- **2)** zakresu prowadzonej działalności wymagającej wpisu do rejestru – w terminie 30 dni od dnia, w którym nastąpiła zmiana.
 
 2. Przepisy art. 53 ust. 1, 3 i 7 stosuje się odpowiednio.
 
@@ -1870,7 +1841,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 - **3)** stwierdzenia rażących nieprawidłowości w wykonywaniu obowiązków określonych w przepisach ustawy;
 - **4)** stwierdzenia rażących nieprawidłowości w wykonywaniu obowiązków określonych w przepisach ustawy z dnia 11 maja 2001 r. o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej, ustawy z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji, ustawy z dnia 24 kwietnia 2009 r. o bateriach i akumulatorach, ustawy z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi oraz ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym;
 - **5)** stwierdzenia trwałego zaprzestania wykonywania przez podmiot działalności wymagającej wpisu do rejestru;
-- **6)** niewniesienia w wymaganej wysokości zabezpieczenia finansowego, o którym mowa w art. 27 ust. 1 ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym w przypadku wprowadzającego sprzęt, który wprowadził do obrotu sprzęt przeznaczony dla gospodarstw domowych;
+- **6)** niewniesienia w wymaganej wysokości zabezpieczenia finansowego, o którym mowa w art. 27 ust. 1 ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym – w przypadku wprowadzającego sprzęt, który wprowadził do obrotu sprzęt przeznaczony dla gospodarstw domowych;
 - **7)** niezłożenia zaświadczenia albo dokumentu potwierdzającego wysokość gwarancji bankowej lub gwarancji ubezpieczeniowej, o których mowa w art. 64 ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym;
 - **8)** niezłożenia zaświadczenia, o którym mowa w art. 6 ust. 4a ustawy z dnia 11 maja 2001 r. o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej.
 
@@ -1880,7 +1851,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 
 **Art. 65.**
 
-1. Do wniosku o wpis do rejestru oraz wniosku o zmianę wpisu w rejestrze stosuje się art. 64 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
+1. Do wniosku o wpis do rejestru oraz wniosku o zmianę wpisu w rejestrze stosuje się art. 64 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
 2. (uchylony)
 
@@ -1927,11 +1898,11 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
     - **d)** karty ewidencji zużytego sprzętu elektrycznego i elektronicznego,
     - **e)** karty ewidencji pojazdów wycofanych z eksploatacji;
 
-- **2)** w przypadku sprzedawcy odpadów i pośrednika w obrocie odpadami, niebędących posiadaczami odpadów karty ewidencji odpadów niebezpiecznych;
+- **2)** w przypadku sprzedawcy odpadów i pośrednika w obrocie odpadami, niebędących posiadaczami odpadów – karty ewidencji odpadów niebezpiecznych;
 - **3)** w przypadku:
     - **a)** podmiotu odbierającego odpady komunalne od właścicieli nieruchomości,
     - **b)** posiadacza odpadów prowadzącego zbieranie lub przetwarzanie odpadów komunalnych,
-    - **c)** transportującego odpady komunalne karty przekazania odpadów komunalnych.
+    - **c)** transportującego odpady komunalne – karty przekazania odpadów komunalnych.
 
 2. W przypadku posiadacza odpadów przekazującego odpady do składowania oraz zarządzającego składowiskiem odpadów ewidencja odpadów obejmuje dodatkowo dokumenty, o których mowa w dziale VIII w rozdziale 1:
 
@@ -1944,20 +1915,20 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 - **2)** numer rejestrowy, o którym mowa w art. 54 ust. 1;
 - **3)** numer identyfikacji podatkowej (NIP), o ile został nadany;
 - **4)** imię i nazwisko lub nazwę sprzedawcy odpadów lub pośrednika w obrocie odpadami oraz adres zamieszkania lub siedziby, o ile przekazanie odpadów odbywa się z udziałem tych podmiotów;
-- **5)** imię i nazwisko osoby sporządzającej w przypadku karty ewidencji odpadów;
+- **5)** imię i nazwisko osoby sporządzającej – w przypadku karty ewidencji odpadów;
 - **6)** imię i nazwisko lub nazwę oraz adres zamieszkania lub siedziby władającego powierzchnią ziemi, na której są stosowane komunalne osady ściekowe w celach, o których mowa w art. 96 ust. 1 pkt 1–3;
 - **7)** rodzaj prowadzonej działalności w zakresie gospodarki odpadami, w szczególności wytwarzania, zbierania, odzysku lub unieszkodliwiania odpadów;
-- **8)** adres miejsca pochodzenia odpadów, w tym spoza terytorium kraju z wyłączeniem wytwórców odpadów;
+- **8)** adres miejsca pochodzenia odpadów, w tym spoza terytorium kraju – z wyłączeniem wytwórców odpadów;
 - **9)** masę odpadów lub suchą masę odpadów oraz kod i rodzaj odpadów;
-- **10)** sposób gospodarowania odpadami w przypadku posiadacza odpadów prowadzącego przetwarzanie odpadów;
+- **10)** sposób gospodarowania odpadami – w przypadku posiadacza odpadów prowadzącego przetwarzanie odpadów;
 - **11)** adres miejsca przeznaczenia odpadów, a w przypadku przeznaczenia odpadów poza terytorium kraju również datę rozpoczęcia transportu, rodzaj środka transportu oraz przewidywaną metodę przetwarzania odpadów;
-- **12)** masę oraz rodzaj produktów i materiałów powstałych w wyniku przygotowania do ponownego użycia, recyklingu lub innego odzysku w przypadku posiadacza odpadów prowadzącego odzysk.
+- **12)** masę oraz rodzaj produktów i materiałów powstałych w wyniku przygotowania do ponownego użycia, recyklingu lub innego odzysku – w przypadku posiadacza odpadów prowadzącego odzysk.
 
 3a. Karta przekazania odpadów zawiera dodatkowo informacje o:
 
 - **1)** dacie i godzinie rozpoczęcia transportu odpadów i ich dostarczenia do następnego posiadacza odpadów;
-- **2)** numerach rejestracyjnych środków transportu odpadów stanowiących pojazd albo zespół pojazdów, w rozumieniu art. 2 pkt 31 i 49 ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym;
-- **3)** numerach pojemników oraz numerze certyfikatu wymaganych dla składowania odpadów rtęci metalicznej w przypadku posiadacza odpadów przekazującego odpady rtęci metalicznej do czasowego składowania na składowisku odpadów niebezpiecznych przeznaczonym do czasowego składowania odpadów rtęci metalicznej oraz w przypadku zarządzającego składowiskiem odpadów niebezpiecznych przeznaczonym do czasowego składowania odpadów rtęci metalicznej przekazującego te odpady do dalszego unieszkodliwienia.
+- **2)** numerach rejestracyjnych środków transportu odpadów stanowiących pojazd albo zespół pojazdów, w rozumieniu art. 2 pkt 31 i 49 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym;
+- **3)** numerach pojemników oraz numerze certyfikatu wymaganych dla składowania odpadów rtęci metalicznej – w przypadku posiadacza odpadów przekazującego odpady rtęci metalicznej do czasowego składowania na składowisku odpadów niebezpiecznych przeznaczonym do czasowego składowania odpadów rtęci metalicznej oraz w przypadku zarządzającego składowiskiem odpadów niebezpiecznych przeznaczonym do czasowego składowania odpadów rtęci metalicznej przekazującego te odpady do dalszego unieszkodliwienia.
 
 3b. Karta ewidencji odpadów zawiera dodatkowo informacje o:
 
@@ -2006,7 +1977,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 
 6. Dokumenty ewidencji odpadów, o których mowa w ust. 1, sporządza się za pośrednictwem indywidualnego konta w Bazie danych o produktach i opakowaniach oraz o gospodarce odpadami.
 
-7. W przypadku awarii systemu teleinformatycznego, w którym Baza danych o produktach i opakowaniach oraz o gospodarce odpadami jest prowadzona, uniemożliwiającej sporządzanie dokumentów ewidencji odpadów w sposób określony w ust. 6, sporządza się dokumenty ewidencji odpadów w formie papierowej lub elektronicznej poza Bazą danych o produktach i opakowaniach oraz o gospodarce odpadami, przez czas trwania awarii. W przypadku zastosowania formy papierowej przekazujący odpady sporządza kartę przekazania odpadów lub kartę przekazania odpadów komunalnych w odpowiedniej liczbie egzemplarzy dla każdego z posiadaczy odpadów przekazującego odpady, każdego transportującego odpady oraz przejmującego odpady.
+7. W przypadku awarii systemu teleinformatycznego, w którym Baza danych o produktach i opakowaniach oraz o gospodarce odpadami jest prowadzona, uniemożliwiającej sporządzanie dokumentów ewidencji odpadów w sposób określony w ust. 6, sporządza się dokumenty ewidencji odpadów w formie papierowej lub elektronicznej poza Bazą danych o produktach i opakowaniach oraz o gospodarce odpadami, przez czas trwania awarii. W przypadku zastosowania formy papierowej przekazujący odpady sporządza kartę przekazania odpadów lub kartę przekazania odpadów komunalnych w odpowiedniej liczbie egzemplarzy dla każdego z posiadaczy odpadów – przekazującego odpady, każdego transportującego odpady oraz przejmującego odpady.
 
 8. Administrator Bazy danych o produktach i opakowaniach oraz o gospodarce odpadami zamieszcza komunikat o czasie trwania awarii na swojej stronie Biuletynu Informacji Publicznej oraz na stronie internetowej rejestru umożliwiającej dostęp do indywidualnego konta w Bazie danych o produktach i opakowaniach oraz o gospodarce odpadami, o ile jest to technicznie możliwe.
 
@@ -2054,9 +2025,9 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 
 1. Posiadacz odpadów prowadzi kartę ewidencji odpadów dla każdego rodzaju odpadów odrębnie, z tym że:
 
-- **1)** dla komunalnych osadów ściekowych stosowanych w celach, o których mowa w art. 96 ust. 1 wytwórca tych osadów prowadzi kartę ewidencji komunalnych osadów ściekowych;
-- **2)** dla zużytego sprzętu elektrycznego i elektronicznego przedsiębiorca prowadzący zakład przetwarzania w rozumieniu ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym prowadzi kartę ewidencji zużytego sprzętu elektrycznego i elektronicznego;
-- **3)** dla pojazdów wycofanych z eksploatacji przedsiębiorca prowadzący stację demontażu lub punkt zbierania pojazdów, o których mowa w ustawie z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji, prowadzi kartę ewidencji pojazdów wycofanych z eksploatacji.
+- **1)** dla komunalnych osadów ściekowych stosowanych w celach, o których mowa w art. 96 ust. 1 – wytwórca tych osadów prowadzi kartę ewidencji komunalnych osadów ściekowych;
+- **2)** dla zużytego sprzętu elektrycznego i elektronicznego – przedsiębiorca prowadzący zakład przetwarzania w rozumieniu ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym prowadzi kartę ewidencji zużytego sprzętu elektrycznego i elektronicznego;
+- **3)** dla pojazdów wycofanych z eksploatacji – przedsiębiorca prowadzący stację demontażu lub punkt zbierania pojazdów, o których mowa w ustawie z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji, prowadzi kartę ewidencji pojazdów wycofanych z eksploatacji.
 
 2. (uchylony)
 
@@ -2097,34 +2068,47 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 - **3)** przedsiębiorca wprowadzający do obrotu produkty, o których mowa w ustawie z dnia 11 maja 2001 r. o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej, lub autoryzowany przedstawiciel, o którym mowa w art. 8a ust. 1 tej ustawy;
 - **4)** wprowadzający pojazdy, o którym mowa w ustawie z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji;
 - **5)** wprowadzający sprzęt lub autoryzowany przedstawiciel;
-- **6)** wprowadzający baterie lub akumulatory, o którym mowa w ustawie z dnia 24 kwietnia 2009 r. o bateriach i akumulatorach.
+- **6)** wprowadzający baterie lub akumulatory, o którym mowa w ustawie z dnia 24 kwietnia 2009 r. o bateriach i akumulatorach;
+- **7)** podmiot reprezentujący.
 
 2. Sprawozdanie, o którym mowa w ust. 1, zawiera co najmniej:
 
 - **1)** dane identyfikujące podmiot:
     - **a)** numer rejestrowy,
     - **b)** imię i nazwisko lub nazwę podmiotu oraz adres zamieszkania lub siedziby,
-    - **c)** numer identyfikacji podatkowej (NIP), o ile został nadany, a w przypadku wprowadzającego baterie lub akumulatory także europejski numer identyfikacji podatkowej, o ile został nadany;
+    - **c)** numer identyfikacji podatkowej (NIP), o ile został nadany, a w przypadku wprowadzającego baterie lub akumulatory – także europejski numer identyfikacji podatkowej, o ile został nadany;
     - **d)** (uchylona)
 
-- **2)** w zakresie opakowań i odpadów opakowaniowych informacje o:
-    - **a)** masie wytworzonych i przywiezionych z zagranicy opakowań według rodzajów materiałów, z jakich zostały wykonane, w tym o: opakowaniach jednorazowego użytku, opakowaniach wielokrotnego użytku, przestrzeganiu ograniczeń wynikających z art. 11 ust. 1 pkt 2 ustawy z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi, toksyczności lub zagrożeniach ze strony materiałów opakowaniowych lub składników stosowanych do produkcji opakowań,
+- **2)** w zakresie opakowań i odpadów opakowaniowych informacje o: o gospodarce opakowaniami i odpadami opakowaniowymi, o gospodarce opakowaniami i odpadami opakowaniowymi,
+    - **a)** masie wytworzonych i przywiezionych z zagranicy opakowań według rodzajów materiałów, z jakich zostały wykonane, w tym o: – opakowaniach jednorazowego użytku, – opakowaniach wielokrotnego użytku, – przestrzeganiu ograniczeń wynikających z art. 11 ust. 1 pkt 2 ustawy z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi, – toksyczności lub zagrożeniach ze strony materiałów opakowaniowych lub składników stosowanych do produkcji opakowań,
     - **b)** liczbie wprowadzonych do obrotu lekkich toreb na zakupy z tworzywa sztucznego,
-    - **c)** masie opakowań, w tym opakowań środków niebezpiecznych, w których zostały wprowadzone do obrotu produkty, z podziałem na poszczególne ich rodzaje,
-    - **d)** masie poddanych recyklingowi odpadów opakowaniowych, w tym odpadów opakowaniowych powstałych z opakowań środków niebezpiecznych, z podziałem na poszczególne ich rodzaje oraz z uwzględnieniem podziału na odpady pochodzące z gospodarstw domowych i ze źródeł innych niż gospodarstwa domowe, a także z podziałem według sposobu ich recyklingu, da) masie tworzyw sztucznych pochodzących z recyklingu wykorzystanej do wytworzenia opakowań na napoje będących butelkami jednorazowego użytku z tworzyw sztucznych o pojemności do trzech litrów, włącznie z ich zakrętkami i wieczkami z tworzyw sztucznych, oraz masie wprowadzonych do obrotu takich opakowań, włącznie z ich zakrętkami i wieczkami z tworzyw sztucznych, z podziałem na butelki, których głównym składnikiem jest politereftalan etylenu, oraz pozostałe butelki,
-    - **e)** osiągniętych poziomach recyklingu odpadów opakowaniowych, w tym odpadów opakowaniowych powstałych z opakowań środków niebezpiecznych, z podziałem na poszczególne ich rodzaje, ea) osiągniętym poziomie udziału wagowego tworzyw sztucznych pochodzących z recyklingu w wytworzonych opakowaniach na napoje będących butelkami jednorazowego użytku z tworzyw sztucznych o pojemności do trzech litrów, włącznie z ich zakrętkami i wieczkami z tworzyw sztucznych, eb) osiągniętym poziomie udziału wagowego tworzyw sztucznych pochodzących z recyklingu w wytworzonych opakowaniach na napoje będących butelkami jednorazowego użytku z tworzyw sztucznych o pojemności do trzech litrów, włącznie z ich zakrętkami i wieczkami z tworzyw sztucznych, których głównym składnikiem jest politereftalan etylenu, ec) osiągniętym poziomie selektywnego zbierania odpadów opakowaniowych powstałych z opakowań na napoje będących butelkami jednorazowego użytku z tworzyw sztucznych o pojemności do trzech litrów,
-    - **f)** wysokości należnej opłaty produktowej, obliczonej oddzielnie, z podziałem na poszczególne rodzaje opakowań i dla wszystkich opakowań razem, w tym opakowań środków niebezpiecznych w przypadku nieosiągnięcia wymaganego poziomu recyklingu, poziomu udziału wagowego tworzyw sztucznych pochodzących z recyklingu w opakowaniach na napoje będących butelkami jednorazowego użytku z tworzyw sztucznych o pojemności do trzech litrów, poziomu udziału wagowego tworzyw sztucznych pochodzących z recyklingu w wytworzonych opakowaniach na napoje będących butelkami jednorazowego użytku z tworzyw sztucznych o pojemności do trzech litrów, których głównym składnikiem jest politereftalan etylenu, oraz poziomu selektywnego zbierania odpadów opakowaniowych powstałych z opakowań na napoje będących butelkami jednorazowego użytku z tworzyw sztucznych o pojemności do trzech litrów,
-    - **g)** masie wywiezionych za granicę opakowań, według rodzajów materiałów, z jakich zostały wykonane, z podziałem na opakowania jednorazowego użytku oraz opakowania wielokrotnego użytku w przypadku przedsiębiorcy, który eksportuje lub dokonuje wewnątrzwspólnotowej dostawy opakowań lub produktów w opakowaniach,
+    - **c)** masie opakowań, w tym opakowań środków niebezpiecznych, w których zostały wprowadzone do obrotu produkty, z podziałem na poszczególne ich rodzaje, ca) masie opakowań, w których zostały wprowadzone do obrotu produkty będące napojami, z podziałem na poszczególne rodzaje opakowań, o których mowa w załączniku nr 1a do ustawy z dnia 13 czerwca 2013 r.
+    - **d)** masie poddanych recyklingowi odpadów opakowaniowych, w tym odpadów opakowaniowych powstałych z opakowań środków niebezpiecznych, z podziałem na poszczególne ich rodzaje oraz z uwzględnieniem podziału na odpady pochodzące z gospodarstw domowych i ze źródeł innych niż gospodarstwa domowe, a także z podziałem według sposobu ich recyklingu, da) masie tworzyw sztucznych pochodzących z recyklingu wykorzystanej do wytworzenia opakowań na napoje będących butelkami jednorazowego użytku z tworzyw sztucznych o pojemności do trzech litrów, włącznie z ich zakrętkami i wieczkami z tworzyw sztucznych, oraz masie wprowadzonych do obrotu takich opakowań, włącznie z ich zakrętkami i wieczkami z tworzyw sztucznych, z podziałem na butelki, których głównym składnikiem jest politereftalan etylenu, oraz pozostałe butelki, db) masie zebranych selektywnie odpadów opakowaniowych, z wyszczególnieniem zebranych w ramach systemu kaucyjnego, z podziałem na poszczególne rodzaje opakowań, o których mowa w załączniku nr 1a do ustawy z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi, dc) wysokości pobranej kaucji za opakowania, o których mowa w poz. 3 załącznika nr 1a do ustawy z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi, dd) wysokości zwróconej kaucji za opakowania, o których mowa w poz. 3 załącznika nr 1a do ustawy z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi, de) ilości przekazanych do odbiorcy opakowań z produktem, o których mowa w poz. 3 załącznika nr 1a do ustawy z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi, df) ilości odebranych opakowań, o których mowa w poz. 3 załącznika nr 1a do ustawy z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi,
+    - **e)** osiągniętych poziomach recyklingu odpadów opakowaniowych, w tym odpadów opakowaniowych powstałych z opakowań środków niebezpiecznych, z podziałem na poszczególne ich rodzaje, ea) osiągniętym poziomie udziału wagowego tworzyw sztucznych pochodzących z recyklingu w wytworzonych opakowaniach na napoje będących butelkami jednorazowego użytku z tworzyw sztucznych o pojemności do trzech litrów, włącznie z ich zakrętkami i wieczkami z tworzyw sztucznych, eb) osiągniętym poziomie udziału wagowego tworzyw sztucznych pochodzących z recyklingu w wytworzonych opakowaniach na napoje będących butelkami jednorazowego użytku z tworzyw sztucznych o pojemności do trzech litrów, włącznie z ich zakrętkami i wieczkami z tworzyw sztucznych, których głównym składnikiem jest politereftalan etylenu, ec) osiągniętych poziomach selektywnego zbierania w ramach systemu kaucyjnego opakowań i odpadów opakowaniowych, z podziałem na poszczególne rodzaje opakowań, o których mowa w załączniku nr 1a do ustawy z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi, ed) osiągniętych poziomach selektywnego zbierania opakowań i odpadów opakowaniowych, z podziałem na poszczególne rodzaje opakowań, o których mowa w załączniku nr 1a do ustawy z dnia 13 czerwca 2013 r.
+    - **f)** wysokości należnej opłaty produktowej, obliczonej oddzielnie, z podziałem na poszczególne rodzaje opakowań i dla wszystkich opakowań razem, w tym opakowań środków niebezpiecznych – w przypadku nieosiągnięcia wymaganego poziomu recyklingu, poziomu udziału wagowego tworzyw sztucznych pochodzących z recyklingu w opakowaniach na napoje będących butelkami jednorazowego użytku z tworzyw sztucznych o pojemności do trzech litrów, poziomu udziału wagowego tworzyw sztucznych pochodzących z recyklingu w wytworzonych opakowaniach na napoje będących butelkami jednorazowego użytku z tworzyw sztucznych o pojemności do trzech litrów, których głównym składnikiem jest politereftalan etylenu, oraz poziomu selektywnego zbierania odpadów opakowaniowych powstałych z opakowań na napoje będących butelkami jednorazowego użytku z tworzyw sztucznych o pojemności do trzech litrów, fa) wysokości należnej opłaty produktowej, obliczonej oddzielnie, z podziałem na poszczególne rodzaje opakowań, o których mowa w załączniku nr 1a do ustawy z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi,
+    - **g)** masie wywiezionych za granicę opakowań, według rodzajów materiałów, z jakich zostały wykonane, z podziałem na opakowania jednorazowego użytku oraz opakowania wielokrotnego użytku – w przypadku przedsiębiorcy, który eksportuje lub dokonuje wewnątrzwspólnotowej dostawy opakowań lub produktów w opakowaniach,
     - **h)** przeprowadzonych publicznych kampaniach edukacyjnych wraz ze wskazaniem wysokości środków przeznaczonych na ten cel lub wysokości należnych środków, o których mowa w art. 19 ust. 4 pkt 2 ustawy z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi, oraz o wysokości środków, które powinny zostać przeznaczone na publiczne kampanie edukacyjne;
 
-- **2a)** w zakresie lekkich i pozostałych toreb na zakupy z tworzywa sztucznego objętych opłatą recyklingową, o której mowa w art. 40a ustawy z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi informację o liczbie nabytych i wydanych lekkich i pozostałych toreb na zakupy z tworzywa sztucznego;
+- **2a)** w zakresie lekkich i pozostałych toreb na zakupy z tworzywa sztucznego objętych opłatą recyklingową, o której mowa w art. 40a ustawy z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi – informację o liczbie nabytych i wydanych lekkich i pozostałych toreb na zakupy z tworzywa sztucznego;
+- **2b)** w zakresie funkcjonowania systemu kaucyjnego informacje o: o gospodarce opakowaniami i odpadami opakowaniowymi, które te jednostki i punkty zbierają,
+    - **a)** wysokości środków przeznaczonych na funkcjonowanie systemu kaucyjnego, w tym gospodarowanie opakowaniami i odpadami opakowaniowymi w ramach systemu kaucyjnego,
+    - **b)** jednostkach handlu detalicznego i hurtowego oraz innych punktach zbierających opakowania i odpady opakowaniowe, które uczestniczą w systemie kaucyjnym, z podziałem na poszczególne rodzaje opakowań, o których mowa w załączniku nr 1a do ustawy z dnia 13 czerwca 2013 r.
+    - **c)** wysokości pobranej, zwróconej oraz nieodebranej kaucji, z podziałem na poszczególne rodzaje opakowań, o których mowa w załączniku nr 1a do ustawy z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi,
+    - **d)** masie opakowań, w których produkty będące napojami zostały wprowadzone do obrotu przez wprowadzających, którzy przystąpili do systemu kaucyjnego prowadzonego przez podmiot reprezentujący składający to sprawozdanie, z podziałem na poszczególne rodzaje opakowań, o których mowa w załączniku nr 1a do ustawy z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi,
+    - **e)** masie odpadów opakowaniowych, z podziałem na poszczególne rodzaje opakowań, o których mowa w załączniku nr 1a do ustawy z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi, z których powstały, zebranych selektywnie w ramach systemu kaucyjnego,
+    - **f)** masie opakowań, z podziałem na poszczególne rodzaje opakowań zebranych selektywnie w ramach systemu kaucyjnego,
+    - **g)** wysokości należnej opłaty produktowej, obliczonej oddzielnie, z podziałem na poszczególne rodzaje opakowań, o których mowa w załączniku nr 1a do ustawy z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi,
+    - **h)** sposobach gospodarowania odpadami opakowaniowymi zebranymi selektywnie w ramach systemu kaucyjnego,
+    - **i)** średniej liczbie rotacji, jaką w danym roku odbyły opakowania wielokrotnego użytku,
+    - **j)** wprowadzających produkty w opakowaniach na napoje oraz wprowadzających bezpośrednio produkty w opakowaniach na napoje, którzy przystąpili do systemu kaucyjnego prowadzonego przez podmiot reprezentujący składający to sprawozdanie, w postaci listy tych podmiotów zawierającej imiona i nazwiska lub nazwy tych wprowadzających oraz ich numery rejestrowe;
+
 - **3)** w zakresie produktów wymienionych w załączniku nr 4a do ustawy z dnia 11 maja 2001 r. o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej, z podziałem na określone w tym załączniku rodzaje produktów, informacje o:
     - **a)** masie produktów wprowadzonych do obrotu,
     - **b)** masie poddanych odzyskowi i recyklingowi odpadów poużytkowych,
     - **c)** osiągniętych poziomach odzysku i recyklingu odpadów poużytkowych,
-    - **d)** wysokości należnej opłaty produktowej, obliczonej oddzielnie dla poszczególnych produktów wymienionych w załączniku nr 4a do tej ustawy w przypadku nieosiągnięcia wymaganego poziomu odzysku i recyklingu;
+    - **d)** wysokości należnej opłaty produktowej, obliczonej oddzielnie dla poszczególnych produktów wymienionych w załączniku nr 4a do tej ustawy – w przypadku nieosiągnięcia wymaganego poziomu odzysku i recyklingu;
 
-- **3a)** w zakresie produktów jednorazowego użytku z tworzyw sztucznych wymienionych w załącznikach nr 6, 9 i 10 do ustawy z dnia 11 maja 2001 r. o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej oraz narzędzi połowowych zawierających tworzywa sztuczne, o których mowa w tej ustawie, z podziałem na rodzaje tych produktów oraz narzędzi połowowych informacje o:
+- **3a)** w zakresie produktów jednorazowego użytku z tworzyw sztucznych wymienionych w załącznikach nr 6, 9 i 10 do ustawy z dnia 11 maja 2001 r. o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej oraz narzędzi połowowych zawierających tworzywa sztuczne, o których mowa w tej ustawie, z podziałem na rodzaje tych produktów oraz narzędzi połowowych – informacje o:
     - **a)** masie i liczbie wprowadzonych do obrotu w danym roku kalendarzowym produktów jednorazowego użytku z tworzyw sztucznych wymienionych w załączniku nr 6 do tej ustawy będących opakowaniami oraz wymienionych w pkt 1 i 4 w sekcji I załącznika nr 9 do tej ustawy, w tym zawartości tworzyw sztucznych,
     - **b)** masie wprowadzonych do obrotu w danym roku kalendarzowym narzędzi połowowych zawierających tworzywa sztuczne oraz masie zebranych narzędzi połowowych stanowiących odpady zawierających tworzywa sztuczne,
     - **c)** osiągniętych poziomach selektywnego zbierania narzędzi połowowych stanowiących odpady zawierających tworzywa sztuczne,
@@ -2140,18 +2124,20 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
     - **b)** liczbie dni, w których do zapewnienia sieci zbierania pojazdów brakowało kolejnych stacji demontażu lub punktów zbierania pojazdów,
     - **c)** wysokości należnej opłaty za brak sieci zbierania pojazdów;
 
-- **5)** w zakresie sprzętu oraz zużytego sprzętu w rozumieniu ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym:
-    - **a)** informacje o: masie sprzętu wprowadzonego do obrotu, z podziałem na grupy sprzętu, z wyodrębnieniem paneli fotowoltaicznych, oraz na sprzęt przeznaczony dla gospodarstw domowych i na sprzęt inny niż przeznaczony dla gospodarstw domowych, masie zebranego zużytego sprzętu pochodzącego z gospodarstw domowych oraz z innych źródeł niż gospodarstwa domowe, masie zużytego sprzętu przetworzonego w zakładzie przetwarzania, masie zużytego sprzętu przygotowanego do ponownego użycia, masie odpadów powstałych ze zużytego sprzętu przygotowanych do ponownego użycia, poddanych recyklingowi, innym niż recykling procesom odzysku oraz unieszkodliwianiu, z podziałem na grupy sprzętu, z wyodrębnieniem paneli fotowoltaicznych, masie odpadów powstałych ze zużytego sprzętu wywiezionych z terytorium kraju w celu poddania ich recyklingowi, innym niż recykling procesom odzysku, oraz unieszkodliwianiu, z podziałem na odpady wywiezione na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego w rozumieniu art. 4 pkt 5 ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym oraz na terytorium państwa niebędącego tym państwem członkowskim, z podziałem na grupy sprzętu, z wyodrębnieniem paneli fotowoltaicznych, osiągniętym minimalnym rocznym poziomie zbierania zużytego sprzętu, poziomie odzysku oraz poziomie przygotowania do ponownego użycia i recyklingu zużytego sprzętu, z podziałem na grupy sprzętu, wysokości należnej opłaty produktowej, obliczonej oddzielnie, dla poszczególnych grup sprzętu w przypadku nieosiągnięcia wymaganego minimalnego rocznego poziomu zbierania zużytego sprzętu, poziomu odzysku lub poziomu przygotowania do ponownego użycia i recyklingu zużytego sprzętu,
-    - **b)** wykaz zakładów przetwarzania, z których prowadzącymi została zawarta umowa, o której mowa w art. 23 ust. 1 ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym, przez wprowadzającego sprzęt lub organizację odzysku sprzętu elektrycznego i elektronicznego, za pośrednictwem której autoryzowany przedstawiciel lub wprowadzający sprzęt realizuje obowiązki wynikające z tej ustawy, zawierający: imię i nazwisko lub nazwę podmiotu prowadzącego zakład przetwarzania, z którym została zawarta umowa, oraz adres zamieszkania lub siedziby, numer identyfikacji podatkowej (NIP), o ile został nadany, adresy zakładów przetwarzania, numer i nazwę grupy sprzętu, z którego powstał przyjmowany przez prowadzącego zakład przetwarzania zużyty sprzęt, informację o zdolnościach przetwórczych zakładów przetwarzania, wskazanie, na jaki okres zawarto umowy z prowadzącymi zakłady przetwarzania,
-    - **c)** informacje o sposobie przeprowadzenia publicznych kampanii edukacyjnych ze wskazaniem, czy obowiązek ten był zrealizowany samodzielnie, czy za pośrednictwem organizacji odzysku sprzętu elektrycznego i elektronicznego, przy czym w przypadku wprowadzającego sprzęt przeprowadzającego publiczne kampanie edukacyjne samodzielnie informacje o wysokości: środków przeznaczonych na ten cel lub wysokości należnych środków, o których mowa w art. 15 ust. 3 pkt 2 ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym, osiągniętego przychodu netto z tytułu wprowadzania do obrotu sprzętu elektrycznego i elektronicznego na terytorium kraju w poprzednim roku kalendarzowym;
+- **5)** w zakresie sprzętu oraz zużytego sprzętu w rozumieniu ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym: o zużytym sprzęcie elektrycznym i elektronicznym, przez wprowadzającego sprzęt lub organizację odzysku sprzętu elektrycznego i elektronicznego, za pośrednictwem której autoryzowany przedstawiciel lub wprowadzający sprzęt realizuje obowiązki wynikające z tej ustawy, zawierający: – imię i nazwisko lub nazwę podmiotu prowadzącego zakład przetwarzania, z którym została zawarta umowa, oraz adres zamieszkania lub siedziby, – numer identyfikacji podatkowej (NIP), o ile został nadany, – adresy zakładów przetwarzania, – numer i nazwę grupy sprzętu, z którego powstał przyjmowany przez prowadzącego zakład przetwarzania zużyty sprzęt, – informację o zdolnościach przetwórczych zakładów przetwarzania, – wskazanie, na jaki okres zawarto umowy z prowadzącymi zakłady przetwarzania, o zużytym sprzęcie elektrycznym i elektronicznym, – osiągniętego przychodu netto z tytułu wprowadzania do obrotu sprzętu elektrycznego i elektronicznego na terytorium kraju w poprzednim roku kalendarzowym;
+    - **a)** informacje o: – masie sprzętu wprowadzonego do obrotu, z podziałem na grupy sprzętu, z wyodrębnieniem paneli fotowoltaicznych, oraz na sprzęt przeznaczony dla gospodarstw domowych i na sprzęt inny niż przeznaczony dla gospodarstw domowych, – masie zebranego zużytego sprzętu pochodzącego z gospodarstw domowych oraz z innych źródeł niż gospodarstwa domowe, masie zużytego sprzętu przetworzonego w zakładzie przetwarzania, masie zużytego sprzętu przygotowanego do ponownego użycia, masie odpadów powstałych ze zużytego sprzętu przygotowanych do ponownego użycia, poddanych recyklingowi, innym niż recykling procesom odzysku oraz unieszkodliwianiu, z podziałem na grupy sprzętu, z wyodrębnieniem paneli fotowoltaicznych, – masie odpadów powstałych ze zużytego sprzętu wywiezionych z terytorium kraju w celu poddania ich recyklingowi, innym niż recykling procesom odzysku, oraz unieszkodliwianiu, z podziałem na odpady wywiezione na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego w rozumieniu art. 4 pkt 5 ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym oraz na terytorium państwa niebędącego tym państwem członkowskim, z podziałem na grupy sprzętu, z wyodrębnieniem paneli fotowoltaicznych, – osiągniętym minimalnym rocznym poziomie zbierania zużytego sprzętu, z podziałem na grupy sprzętu, z wyodrębnieniem paneli fotowoltaicznych, poziomie odzysku oraz poziomie przygotowania do ponownego użycia i recyklingu zużytego sprzętu, z podziałem na grupy sprzętu, – wysokości należnej opłaty produktowej, obliczonej oddzielnie, dla poszczególnych grup sprzętu, a w przypadku grupy sprzętu nr 4 obliczonej oddzielnie dla paneli fotowoltaicznych oraz pozostałego sprzętu z tej grupy – w przypadku nieosiągnięcia wymaganego minimalnego rocznego poziomu zbierania zużytego sprzętu, – wysokości należnej opłaty produktowej, obliczonej oddzielnie, dla poszczególnych grup sprzętu – w przypadku nieosiągnięcia wymaganego poziomu odzysku lub poziomu przygotowania do ponownego użycia i recyklingu zużytego sprzętu,
+    - **b)** wykaz zakładów przetwarzania, z których prowadzącymi została zawarta umowa, o której mowa w art. 23 ust. 1 ustawy z dnia 11 września 2015 r.
+    - **c)** informacje o sposobie przeprowadzenia publicznych kampanii edukacyjnych ze wskazaniem, czy obowiązek ten był zrealizowany samodzielnie, czy za pośrednictwem organizacji odzysku sprzętu elektrycznego i elektronicznego, przy czym w przypadku wprowadzającego sprzęt przeprowadzającego publiczne kampanie edukacyjne samodzielnie informacje o wysokości: – środków przeznaczonych na ten cel lub wysokości należnych środków, o których mowa w art. 15 ust. 3 pkt 2 ustawy z dnia 11 września 2015 r.
 
 - **6)** w zakresie baterii i akumulatorów oraz zużytych baterii i zużytych akumulatorów:
     - **a)** informacje o rodzaju i masie wprowadzonych do obrotu baterii i akumulatorów,
-    - **b)** wykaz zakładów przetwarzania zużytych baterii lub zużytych akumulatorów, z których prowadzącymi wprowadzający baterie lub akumulatory ma zawartą umowę, o której mowa w art. 36 ust. 1 ustawy z dnia 24 kwietnia 2009 r. o bateriach i akumulatorach, zawierający: numer rejestrowy prowadzącego zakład przetwarzania zużytych baterii lub zużytych akumulatorów, imię i nazwisko lub nazwę oraz adres zamieszkania lub siedziby prowadzącego zakład przetwarzania zużytych baterii lub zużytych akumulatorów, numer identyfikacji podatkowej (NIP) prowadzącego zakład przetwarzania zużytych baterii lub zużytych akumulatorów, o ile został nadany, informacje o masie i rodzajach przetworzonych zużytych baterii i zużytych akumulatorów, w rozumieniu ustawy z dnia 24 kwietnia 2009 r. o bateriach i akumulatorach,
+    - **b)** wykaz zakładów przetwarzania zużytych baterii lub zużytych akumulatorów, z których prowadzącymi wprowadzający baterie lub akumulatory ma zawartą umowę, o której mowa w art. 36 ust. 1 ustawy z dnia 24 kwietnia 2009 r. o bateriach i akumulatorach, zawierający: – numer rejestrowy prowadzącego zakład przetwarzania zużytych baterii lub zużytych akumulatorów, – imię i nazwisko lub nazwę oraz adres zamieszkania lub siedziby prowadzącego zakład przetwarzania zużytych baterii lub zużytych akumulatorów, – numer identyfikacji podatkowej (NIP) prowadzącego zakład przetwarzania zużytych baterii lub zużytych akumulatorów, o ile został nadany, – informacje o masie i rodzajach przetworzonych zużytych baterii i zużytych akumulatorów, w rozumieniu ustawy z dnia 24 kwietnia 2009 r. o bateriach i akumulatorach,
     - **c)** informacje o przeprowadzonych publicznych kampaniach edukacyjnych wraz ze wskazaniem wysokości środków przeznaczonych na ten cel lub wysokości należnych środków, o których mowa w art. 37 ust. 4 pkt 2 ustawy z dnia 24 kwietnia 2009 r. o bateriach i akumulatorach,
-    - **d)** w przypadku zużytych baterii przenośnych i zużytych akumulatorów przenośnych: informacje o osiągniętych poziomach zbierania zużytych baterii przenośnych i zużytych akumulatorów przenośnych, informacje o wysokości należnej opłaty produktowej w przypadku nieosiągnięcia wymaganych poziomów zbierania zużytych baterii przenośnych i zużytych akumulatorów przenośnych, wykaz punktów zbierania zużytych baterii przenośnych lub zużytych akumulatorów przenośnych prowadzonych przez zbierającego zużyte baterie lub zużyte akumulatory, z którym wprowadzający baterie lub akumulatory zawarł umowę, o której mowa w art. 32 ust. 1 ustawy z dnia 24 kwietnia 2009 r. o bateriach i akumulatorach, oraz wykaz miejsc odbioru, z których zbierający zużyte baterie lub zużyte akumulatory odbiera zużyte baterie przenośne lub zużyte akumulatory przenośne.
+    - **d)** w przypadku zużytych baterii przenośnych i zużytych akumulatorów przenośnych: – informacje o osiągniętych poziomach zbierania zużytych baterii przenośnych i zużytych akumulatorów przenośnych, – informacje o wysokości należnej opłaty produktowej – w przypadku nieosiągnięcia wymaganych poziomów zbierania zużytych baterii przenośnych i zużytych akumulatorów przenośnych, – wykaz punktów zbierania zużytych baterii przenośnych lub zużytych akumulatorów przenośnych prowadzonych przez zbierającego zużyte baterie lub zużyte akumulatory, z którym wprowadzający baterie lub akumulatory zawarł umowę, o której mowa w art. 32 ust. 1 ustawy z dnia 24 kwietnia 2009 r. o bateriach i akumulatorach, oraz wykaz miejsc odbioru, z których zbierający zużyte baterie lub zużyte akumulatory odbiera zużyte baterie przenośne lub zużyte akumulatory przenośne.
 
 3. Sprawozdanie, o którym mowa w ust. 1, w przypadku wprowadzającego sprzęt, o którym mowa w art. 2 ust. 3 ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym, nie zawiera informacji, o których mowa w ust. 2 pkt 5 lit. a tiret drugie, trzecie i czwarte, oraz wykazu zakładów przetwarzania, o którym mowa w ust. 2 pkt 5 lit. b.
+
+4. Sprawozdanie, o którym mowa w ust. 1, w zakresie informacji, o których mowa w ust. 2 pkt 2 lit. ca, db, ec oraz fa, w przypadku wprowadzającego produkty w opakowaniach na napoje, który zawarł umowę z podmiotem reprezentującym, w zakresie tych informacji, jest sporządzane przez ten podmiot.
 
 **Art. 74.**
 
@@ -2159,7 +2145,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 
 - **1)** obowiązek określony w art. 3 ust. 1 ustawy z dnia 11 maja 2001 r. o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej,
 - **2)** obowiązki wprowadzającego sprzęt określone w ustawie z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym,
-- **3)** obowiązek określony w art. 17 ust. 1 ustawy z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi wykonuje odpowiednio organizacja odzysku albo organizacja odzysku sprzętu elektrycznego i elektronicznego albo organizacja odzysku opakowań, roczne sprawozdanie, o którym mowa w art. 73 ust. 1, w zakresie realizacji tych obowiązków sporządza ta organizacja.
+- **3)** obowiązek określony w art. 17 ust. 1 ustawy z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi – wykonuje odpowiednio organizacja odzysku albo organizacja odzysku sprzętu elektrycznego i elektronicznego albo organizacja odzysku opakowań, roczne sprawozdanie, o którym mowa w art. 73 ust. 1, w zakresie realizacji tych obowiązków sporządza ta organizacja.
 
 1a. W przypadku autoryzowanego przedstawiciela sprawozdanie, o którym mowa w art. 73 ust. 1, sporządza organizacja odzysku sprzętu elektrycznego i elektronicznego, o której mowa w ustawie z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym; do sprawozdania dołącza się wykaz wprowadzających sprzęt, o którym mowa w art. 25 ust. 3 ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym.
 
@@ -2167,9 +2153,9 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 
 2. Sprawozdanie, o którym mowa w ust. 1, zawiera informacje, o których mowa w art. 73 ust. 2 pkt 1, a także informacje określone w:
 
-- **1)** art. 73 ust. 2 pkt 2 w przypadku organizacji odzysku opakowań, o której mowa w ustawie z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi;
-- **2)** art. 73 ust. 2 pkt 3 w przypadku organizacji odzysku, o której mowa w ustawie z dnia 11 maja 2001 r. o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej;
-- **3)** art. 73 ust. 2 pkt 5 oraz wykaz przedsiębiorców, w odniesieniu do których organizacja odzysku sprzętu elektrycznego i elektronicznego wykonywała obowiązki określone w ustawie z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym w przypadku organizacji odzysku sprzętu elektrycznego i elektronicznego.
+- **1)** art. 73 ust. 2 pkt 2 – w przypadku organizacji odzysku opakowań, o której mowa w ustawie z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi;
+- **2)** art. 73 ust. 2 pkt 3 – w przypadku organizacji odzysku, o której mowa w ustawie z dnia 11 maja 2001 r. o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej;
+- **3)** art. 73 ust. 2 pkt 5 oraz wykaz przedsiębiorców, w odniesieniu do których organizacja odzysku sprzętu elektrycznego i elektronicznego wykonywała obowiązki określone w ustawie z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym – w przypadku organizacji odzysku sprzętu elektrycznego i elektronicznego.
 
 3. W przypadku otwarcia likwidacji albo ogłoszenia upadłości organizacji odzysku opakowań, przyjęty przez nią obowiązek ponownie staje się, z dniem otwarcia likwidacji albo ogłoszenia upadłości, obowiązkiem wprowadzającego produkty w opakowaniach, od którego został on przejęty, w odniesieniu do masy opakowań wprowadzonych przez niego do obrotu od dnia 1 stycznia roku kalendarzowego, w którym nastąpiło otwarcie likwidacji lub ogłoszenie upadłości organizacji odzysku opakowań.
 
@@ -2202,7 +2188,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 - **1)** wytwórca obowiązany do prowadzenia ewidencji odpadów;
 - **2)** prowadzący działalność polegającą na gospodarowaniu odpadami, z wyłączeniem prowadzącego odbieranie odpadów komunalnych, w zakresie:
     - **a)** zbierania odpadów,
-    - **b)** przetwarzania odpadów obowiązany do prowadzenia ewidencji odpadów;
+    - **b)** przetwarzania odpadów – obowiązany do prowadzenia ewidencji odpadów;
 
 - **3)** podmiot prowadzący działalność polegającą na wydobywaniu odpadów ze składowiska odpadów lub ze zwałowiska odpadów, na podstawie zgody na wydobywanie odpadów lub decyzji zatwierdzającej instrukcję prowadzenia składowiska odpadów w fazie poeksploatacyjnej.
 
@@ -2214,15 +2200,15 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
     - **c)** numer identyfikacji podatkowej (NIP), o ile został nadany;
     - **d)** (uchylona)
 
-- **2)** w przypadku podmiotu, o którym mowa w ust. 1 informacje o:
+- **2)** w przypadku podmiotu, o którym mowa w ust. 1 – informacje o:
     - **a)** masie i rodzajach odpadów,
     - **b)** sposobie gospodarowania odpadami, o ile podmiot gospodaruje odpadami,
     - **c)** instalacjach i urządzeniach służących do przetwarzania tych odpadów, w tym dane techniczne i informacje na temat funkcjonowania instalacji i urządzenia, takie jak terminy i czas trwania postoju lub awarii oraz liczba godzin pracy na dobę, o ile podmiot przetwarza odpady,
-    - **d)** informacje, o których mowa w art. 99 ust. 1 w przypadku posiadacza odpadów pochodzących z procesów wytwarzania dwutlenku tytanu oraz z przetwarzania tych odpadów,
-    - **e)** masie i rodzaju produktów i materiałów powstałych w wyniku przygotowania do ponownego użycia, recyklingu lub innego odzysku w przypadku posiadacza odpadów prowadzącego odzysk,
+    - **d)** informacje, o których mowa w art. 99 ust. 1 – w przypadku posiadacza odpadów pochodzących z procesów wytwarzania dwutlenku tytanu oraz z przetwarzania tych odpadów,
+    - **e)** masie i rodzaju produktów i materiałów powstałych w wyniku przygotowania do ponownego użycia, recyklingu lub innego odzysku – w przypadku posiadacza odpadów prowadzącego odzysk,
     - **f)** masie i rodzajach wytworzonych odpadów żywności;
 
-- **3)** w przypadku wytwórcy komunalnych osadów ściekowych stosowanych w celach, o których mowa w art. 96 ust. 1 informacje o:
+- **3)** w przypadku wytwórcy komunalnych osadów ściekowych stosowanych w celach, o których mowa w art. 96 ust. 1 – informacje o:
     - **a)** adresie oczyszczalni ścieków,
     - **b)** rodzaju przeprowadzonej obróbki komunalnych osadów ściekowych,
     - **c)** masie i suchej masie komunalnych osadów ściekowych,
@@ -2231,7 +2217,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
     - **f)** miejscu i powierzchni stosowania komunalnych osadów ściekowych,
     - **g)** celu stosowania komunalnych osadów ściekowych;
 
-- **4)** w przypadku przedsiębiorcy prowadzącego stację demontażu pojazdów, o której mowa w ustawie z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji informacje o:
+- **4)** w przypadku przedsiębiorcy prowadzącego stację demontażu pojazdów, o której mowa w ustawie z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji – informacje o:
     - **a)** liczbie, markach, masie i roku produkcji pojazdów oraz masie pojazdów wycofanych z eksploatacji, przyjętych do stacji demontażu,
     - **b)** masie odpadów poddanych odzyskowi, w tym recyklingowi, oraz przekazanych do odzysku, w tym recyklingu, a także masie przeznaczonych do ponownego użycia przedmiotów wyposażenia i części wymontowanych z pojazdów wycofanych z eksploatacji,
     - **c)** masie odpadów poddanych unieszkodliwianiu lub przekazanych do unieszkodliwiania,
@@ -2240,23 +2226,23 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
     - **f)** osiągniętym w danej stacji demontażu poziomie odzysku i recyklingu,
     - **g)** wysokości należnej opłaty za nieosiągnięcie wymaganego poziomu odzysku i recyklingu;
 
-- **5)** w przypadku przedsiębiorcy prowadzącego strzępiarkę, o której mowa w ustawie z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji informacje o:
+- **5)** w przypadku przedsiębiorcy prowadzącego strzępiarkę, o której mowa w ustawie z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji – informacje o:
     - **a)** wynikach próby strzępienia odpadów pochodzących z pojazdów wycofanych z eksploatacji, jeżeli w roku, którego dotyczy sprawozdanie przeprowadzono próby strzępienia odpadów pochodzących z pojazdów wycofanych z eksploatacji,
     - **b)** masie odpadów przeznaczonych do recyklingu, odzysku energii oraz unieszkodliwiania, powstałych ze strzępienia odpadów pochodzących z pojazdów wycofanych z eksploatacji;
 
-- **6)** w przypadku zbierającego zużyty sprzęt w rozumieniu ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym informacje o:
+- **6)** w przypadku zbierającego zużyty sprzęt w rozumieniu ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym – informacje o:
     - **a)** masie zebranego zużytego sprzętu pochodzącego z gospodarstw domowych oraz z innych źródeł niż gospodarstwa domowe, z podaniem numeru i nazwy grupy sprzętu, z wyodrębnieniem paneli fotowoltaicznych,
     - **b)** masie zużytego sprzętu przekazanego do prowadzącego zakład przetwarzania, z podaniem numeru i nazwy grupy sprzętu, z wyodrębnieniem paneli fotowoltaicznych;
 
-- **7)** w przypadku prowadzącego zakład przetwarzania w rozumieniu ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym informacje o: o zużytym sprzęcie elektrycznym i elektronicznym oraz państwa niebędące tymi państwami członkowskimi, w celu poddania recyklingowi, innym niż recykling procesom odzysku lub unieszkodliwianiu, z podaniem numeru i nazwy grupy sprzętu, z wyodrębnieniem paneli fotowoltaicznych;
+- **7)** w przypadku prowadzącego zakład przetwarzania w rozumieniu ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym – informacje o:
     - **a)** adresie zakładu przetwarzania,
     - **b)** masie zużytego sprzętu elektrycznego i elektronicznego przyjętego przez prowadzącego zakład przetwarzania, z podaniem numeru i nazwy grupy sprzętu, z wyodrębnieniem paneli fotowoltaicznych, z którego powstał ten zużyty sprzęt, oraz o procesach przetwarzania,
     - **c)** kodzie, rodzaju i masie odpadów powstałych ze zużytego sprzętu, przekazanych prowadzącemu działalność w zakresie recyklingu, innych niż recykling procesów odzysku lub unieszkodliwiania, oraz o masie zużytego sprzętu, a także o kodzie i masie odpadów powstałych ze zużytego sprzętu przygotowanych do ponownego użycia, z podaniem typu procesu zastosowanego w zakładzie przetwarzania oraz numeru i nazwy grupy sprzętu, z wyodrębnieniem paneli fotowoltaicznych,
-    - **d)** kodzie, rodzaju i masie odpadów powstałych ze zużytego sprzętu wywiezionych z terytorium kraju w podziale na inne niż Rzeczpospolita Polska państwa członkowskie w rozumieniu art. 4 pkt 5 ustawy z dnia 11 września 2015 r.
+    - **d)** kodzie, rodzaju i masie odpadów powstałych ze zużytego sprzętu wywiezionych z terytorium kraju w podziale na inne niż Rzeczpospolita Polska państwa członkowskie w rozumieniu art. 4 pkt 5 ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym oraz państwa niebędące tymi państwami członkowskimi, w celu poddania recyklingowi, innym niż recykling procesom odzysku lub unieszkodliwianiu, z podaniem numeru i nazwy grupy sprzętu, z wyodrębnieniem paneli fotowoltaicznych;
 
-- **8)** w przypadku prowadzącego działalność w zakresie recyklingu oraz prowadzącego działalność w zakresie innych niż recykling procesów odzysku, o których mowa w ustawie z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym informacje o kodzie i masie odpadów powstałych ze zużytego sprzętu przyjętych oraz poddanych odpowiednio recyklingowi lub innym niż recykling procesom odzysku wraz z podaniem typu procesu;
-- **9)** w przypadku prowadzącego działalność w zakresie zbierania zużytych baterii lub zużytych akumulatorów informacje o masie zebranych zużytych baterii przenośnych lub zużytych akumulatorów przenośnych, ogółem i z podziałem na poszczególnych wprowadzających baterie lub akumulatory, z którymi ten zbierający ma zawartą umowę, o której mowa w art. 32 ust. 1 ustawy z dnia 24 kwietnia 2009 r. o bateriach i akumulatorach lub zbiorcze informacje o masie zebranych zużytych baterii przenośnych i zużytych akumulatorów przenośnych w przypadku zbierającego, który ma podpisaną umowę z podmiotem pośredniczącym, o którym mowa w ustawie z dnia 24 kwietnia 2009 r. o bateriach i akumulatorach;
-- **10)** w przypadku prowadzącego zakład przetwarzania zużytych baterii lub zużytych akumulatorów informacje o:
+- **8)** w przypadku prowadzącego działalność w zakresie recyklingu oraz prowadzącego działalność w zakresie innych niż recykling procesów odzysku, o których mowa w ustawie z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym – informacje o kodzie i masie odpadów powstałych ze zużytego sprzętu przyjętych oraz poddanych odpowiednio recyklingowi lub innym niż recykling procesom odzysku wraz z podaniem typu procesu;
+- **9)** w przypadku prowadzącego działalność w zakresie zbierania zużytych baterii lub zużytych akumulatorów – informacje o masie zebranych zużytych baterii przenośnych lub zużytych akumulatorów przenośnych, ogółem i z podziałem na poszczególnych wprowadzających baterie lub akumulatory, z którymi ten zbierający ma zawartą umowę, o której mowa w art. 32 ust. 1 ustawy z dnia 24 kwietnia 2009 r. o bateriach i akumulatorach lub zbiorcze informacje o masie zebranych zużytych baterii przenośnych i zużytych akumulatorów przenośnych w przypadku zbierającego, który ma podpisaną umowę z podmiotem pośredniczącym, o którym mowa w ustawie z dnia 24 kwietnia 2009 r. o bateriach i akumulatorach;
+- **10)** w przypadku prowadzącego zakład przetwarzania zużytych baterii lub zużytych akumulatorów – informacje o:
     - **a)** rodzaju i masie przyjętych do przetwarzania zużytych baterii i zużytych akumulatorów,
     - **b)** rodzaju i masie przetworzonych zużytych baterii i zużytych akumulatorów,
     - **c)** osiągniętych poziomach recyklingu,
@@ -2266,9 +2252,9 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 
 1. Podmioty obowiązane do sporządzenia sprawozdań, o których mowa w art. 73, art. 74a i art. 75, składają je w terminie do dnia 15 marca za poprzedni rok kalendarzowy marszałkowi województwa właściwemu ze względu na:
 
-- **1)** siedzibę lub miejsce zamieszkania przedsiębiorcy w przypadku sprawozdania o produktach, opakowaniach i o gospodarowaniu odpadami z nich powstającymi oraz sprawozdania o przeprowadzonych publicznych kampaniach edukacyjnych; w przypadku braku siedziby lub miejsca zamieszkania na terytorium Rzeczypospolitej Polskiej właściwy miejscowo jest Marszałek Województwa Mazowieckiego;
-- **2)** miejsce wytwarzania, zbierania lub przetwarzania odpadów w przypadku sprawozdania o wytwarzanych odpadach i gospodarowaniu odpadami;
-- **3)** miejsce prowadzenia przez przedsiębiorcę jednostki handlu detalicznego lub hurtowego, w której są oferowane torby na zakupy z tworzywa sztucznego, objęte opłatą recyklingową, o której mowa w art. 40a ustawy z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi w przypadku sprawozdania o liczbie nabytych i wydanych lekkich i pozostałych toreb na zakupy z tworzywa sztucznego;
+- **1)** siedzibę lub miejsce zamieszkania przedsiębiorcy – w przypadku sprawozdania o produktach, opakowaniach i o gospodarowaniu odpadami z nich powstającymi oraz sprawozdania o przeprowadzonych publicznych kampaniach edukacyjnych; w przypadku braku siedziby lub miejsca zamieszkania na terytorium Rzeczypospolitej Polskiej właściwy miejscowo jest Marszałek Województwa Mazowieckiego;
+- **2)** miejsce wytwarzania, zbierania lub przetwarzania odpadów – w przypadku sprawozdania o wytwarzanych odpadach i gospodarowaniu odpadami;
+- **3)** miejsce prowadzenia przez przedsiębiorcę jednostki handlu detalicznego lub hurtowego, w której są oferowane torby na zakupy z tworzywa sztucznego, objęte opłatą recyklingową, o której mowa w art. 40a ustawy z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi – w przypadku sprawozdania o liczbie nabytych i wydanych lekkich i pozostałych toreb na zakupy z tworzywa sztucznego;
 - **4)** miejsce prowadzenia przez przedsiębiorcę jednostki handlu detalicznego, jednostki handlu hurtowego lub jednostki gastronomicznej, o których mowa w art. 3b ust. 1 ustawy z dnia 11 maja 2001 r. o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej, lub lokalizację urządzenia vendingowego, o którym mowa w art. 3b ust. 2 tej ustawy.
 
 2. Podmioty obowiązane do sporządzania sprawozdań, o których mowa w art. 73, art. 74a i art. 75, sporządzają te sprawozdania za pośrednictwem indywidualnego konta w Bazie danych o produktach i opakowaniach oraz o gospodarce odpadami.
@@ -2281,7 +2267,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 
 4. (uchylony)
 
-5. Do terminu złożenia sprawozdań, o którym mowa w art. 76 ust. 1, stosuje się art. 57 § 4 i 5 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
+5. Do terminu złożenia sprawozdań, o którym mowa w art. 76 ust. 1, stosuje się art. 57 § 4 i 5 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
 6. Sprawozdania sporządzane za pośrednictwem indywidualnego konta w Bazie danych o produktach i opakowaniach oraz o gospodarce odpadami nie wymagają opatrzenia ich podpisem.
 
@@ -2318,7 +2304,8 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
     - **a)** recyklingu odpadów powstałych z opakowań, o których mowa w pkt 1, aa) odzysku i recyklingu odpadów powstałych z produktów, o których mowa w pkt 2,
     - **b)** odzysku i recyklingu pojazdów,
     - **c)** zbierania, odzysku, przygotowania do ponownego użycia i recyklingu zużytego sprzętu elektrycznego i elektronicznego,
-    - **d)** zbierania, recyklingu i wydajności recyklingu zużytych baterii i zużytych akumulatorów;
+    - **d)** zbierania, recyklingu i wydajności recyklingu zużytych baterii i zużytych akumulatorów,
+    - **e)** selektywnego zbierania opakowań i odpadów opakowaniowych;
 
 - **5)** rodzajach i ilości wytwarzanych odpadów oraz ich wytwórcach;
 - **6)** ilości i jakości komunalnych osadów ściekowych, ich wytwórcach, miejscach zastosowania i podmiotach władających powierzchnią ziemi, na której te osady zostały zastosowane;
@@ -2365,8 +2352,8 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 
 1b. Dane osobowe, o których mowa w ust. 1a, przechowuje się:
 
-- **1)** w przypadku dokumentów ewidencji odpadów przez 5 lat, licząc od końca roku kalendarzowego, w którym zostały sporządzone te dokumenty;
-- **2)** w przypadku dokumentów innych niż dokumenty ewidencji odpadów przez 100 lat, licząc od końca roku kalendarzowego, w którym zostały sporządzone te dokumenty.
+- **1)** w przypadku dokumentów ewidencji odpadów – przez 5 lat, licząc od końca roku kalendarzowego, w którym zostały sporządzone te dokumenty;
+- **2)** w przypadku dokumentów innych niż dokumenty ewidencji odpadów – przez 10 lat, licząc od końca roku kalendarzowego, w którym zostały sporządzone te dokumenty.
 
 1c. Dane osobowe, o których mowa w ust. 1a, podlegają zabezpieczeniom zapobiegającym nadużyciom lub niezgodnemu z prawem dostępowi lub przekazywaniu polegającym co najmniej na:
 
@@ -2381,7 +2368,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 
 3. Marszałek województwa zamieszcza w BDO kopie ostatecznych decyzji w zakresie gospodarki odpadami, o których mowa w art. 79 ust. 2.
 
-4. Organy właściwe do wydawania decyzji w zakresie gospodarki odpadami oraz innych decyzji wydawanych na podstawie niniejszej ustawy przekazują do właściwego marszałka województwa w terminie nie dłuższym niż 30 dni od dnia, w którym decyzja stała się ostateczna kopie ostatecznych decyzji w formie dokumentu elektronicznego w rozumieniu przepisów ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne w celu umieszczenia ich w BDO.
+4. Organy właściwe do wydawania decyzji w zakresie gospodarki odpadami oraz innych decyzji wydawanych na podstawie niniejszej ustawy przekazują do właściwego marszałka województwa – w terminie nie dłuższym niż 30 dni od dnia, w którym decyzja stała się ostateczna – kopie ostatecznych decyzji w formie dokumentu elektronicznego w rozumieniu przepisów ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne – w celu umieszczenia ich w BDO.
 
 5. Właściwym marszałkiem województwa, o którym mowa w ust. 4, jest marszałek tego województwa, na obszarze którego znajduje się obszar właściwości organu, który wydał decyzję w I instancji.
 
@@ -2405,6 +2392,8 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 
 9. Zadania administratora BDO są finansowane ze środków budżetu państwa z części pozostającej w dyspozycji ministra właściwego do spraw klimatu lub ze środków Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej.
 
+10. Zadania administratora BDO dotyczące utrzymania i rozwoju BDO mogą być finansowane dodatkowo ze środków przeznaczonych na rozwój projektów cyfrowych i teleinformatycznych.
+
 **Art. 82.**
 
 1. BDO jest prowadzona w systemie teleinformatycznym w rozumieniu art. 3 pkt 3 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
@@ -2416,7 +2405,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 1. Dostęp do BDO posiadają:
 
 - **1)** minister właściwy do spraw klimatu,
-- **2)** administrator, jeżeli nie jest nim minister właściwy do spraw klimatu, 2a) minister właściwy do spraw środowiska,
+- **2)** administrator, jeżeli nie jest nim minister właściwy do spraw klimatu, 2a) (uchylony)
 - **3)** minister właściwy do spraw gospodarki,
 - **4)** minister właściwy do spraw rolnictwa,
 - **5)** minister właściwy do spraw transportu,
@@ -2436,11 +2425,13 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 - **19)** Policja,
 - **20)** Inspekcja Transportu Drogowego,
 - **21)** organy nadzoru górniczego,
-- **22)** zarząd związku metropolitalnego realizujący zadania z zakresu gospodarki odpadami komunalnymi zwani dalej „użytkownikami”, z tym że dostęp do rejestru odbywa się zgodnie z art. 49 ust. 7.
+- **22)** zarząd związku metropolitalnego realizujący zadania z zakresu gospodarki odpadami komunalnymi,
+- **23)** Krajowa Administracja Skarbowa,
+- **24)** Instytut Ochrony Środowiska ‒ Państwowy Instytut Badawczy – zwani dalej „użytkownikami”, z tym że dostęp do rejestru odbywa się zgodnie z art. 49 ust. 7.
 
 2. Użytkownicy posiadają uprawnienia do nieodpłatnego dostępu do BDO w zakresie związanym z ich kompetencjami i zadaniami.
 
-2a. Użytkownicy, o których mowa w ust. 1 pkt 1, 2, 7 oraz 12–21, posiadają możliwość weryfikacji zgodności ze stanem rzeczywistym prowadzonej przez posiadaczy odpadów ewidencji odpadów.
+2a. Użytkownicy, o których mowa w ust. 1 pkt 1, 2, 7 i 12–24, posiadają możliwość weryfikacji zgodności ze stanem rzeczywistym prowadzonej przez posiadaczy odpadów ewidencji odpadów.
 
 3. Administrator BDO współpracuje z Szefem Krajowego Centrum Informacji Kryminalnej w zakresie niezbędnym do realizacji jego zadań ustawowych.
 
@@ -2448,7 +2439,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 
 **Art. 84a.**
 
-- **51)** 1. W przypadku doręczenia pisma w formie dokumentu elektronicznego za pośrednictwem indywidualnego konta w BDO przez organ administracji publicznej doręczenie jest skuteczne, jeżeli adresat potwierdzi odbiór pisma, w sposób wskazany w pouczeniu dotyczącym sposobu odbioru pisma zawartym w zawiadomieniu.
+1. W przypadku doręczenia pisma w formie dokumentu elektronicznego za pośrednictwem indywidualnego konta w BDO przez organ administracji publicznej doręczenie jest skuteczne, jeżeli adresat potwierdzi odbiór pisma, w sposób wskazany w pouczeniu dotyczącym sposobu odbioru pisma zawartym w zawiadomieniu.
 
 2. W przypadku nieodebrania pisma w formie dokumentu elektronicznego w sposób, o którym mowa w ust. 1, organ administracji publicznej po upływie 7 dni, licząc od dnia wysłania zawiadomienia, przesyła powtórne zawiadomienie o możliwości odebrania tego pisma.
 
@@ -2552,7 +2543,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 - **2)** do uprawy roślin przeznaczonych do produkcji kompostu,
 - **3)** do uprawy roślin nieprzeznaczonych do spożycia i do produkcji pasz,
 - **4)** do rekultywacji terenów, w tym gruntów na cele rolne,
-- **5)** przy dostosowaniu gruntów do określonych potrzeb wynikających z planów gospodarki odpadami, planów zagospodarowania przestrzennego lub decyzji o warunkach zabudowy i zagospodarowania terenu odbywa się z zachowaniem warunków określonych w ust. 2–13.
+- **5)** przy dostosowaniu gruntów do określonych potrzeb wynikających z planów gospodarki odpadami, miejscowych planów zagospodarowania przestrzennego lub decyzji o warunkach zabudowy i zagospodarowania terenu – odbywa się z zachowaniem warunków określonych w ust. 2–13.
 
 2. Komunalne osady ściekowe mogą być przekazywane do stosowania władającemu powierzchnią ziemi wyłącznie przez wytwórcę tych osadów.
 
@@ -2577,17 +2568,17 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 12. Zakazuje się stosowania komunalnych osadów ściekowych:
 
 - **1)** na obszarach parków narodowych i rezerwatów przyrody;
-- **2)** na terenach ochrony pośredniej stref ochronnych ujęć wody, w przypadku ich ustanowienia w akcie prawa miejscowego wydanym na podstawie art. 135 ust. 1 pkt 2 ustawy z dnia 20 lipca 2017 r. Prawo wodne (Dz. U. z 2022 r. poz. 2625 i 2687 oraz z 2023 r. poz. 295, 412 i 877);
+- **2)** na terenach ochrony pośredniej stref ochronnych ujęć wody, w przypadku ich ustanowienia w akcie prawa miejscowego wydanym na podstawie art. 135 ust. 1 pkt 2 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2022 r. poz. 2625 i 2687 oraz z 2023 r. poz. 295, 412 i 877);
 - **3)** w pasie gruntu o szerokości 50 m bezpośrednio przylegającego do brzegów jezior i cieków;
 - **4)** na obszarach szczególnego zagrożenia powodzią oraz na terenach czasowo podtopionych i bagiennych;
 - **5)** na terenach czasowo zamarzniętych i pokrytych śniegiem;
 - **6)** na gruntach o dużej przepuszczalności, stanowiących w szczególności piaski luźne i słabogliniaste oraz piaski gliniaste lekkie, jeżeli poziom wód gruntowych znajduje się na głębokości mniejszej niż 1,5 m poniżej powierzchni gruntu;
 - **7)** na gruntach rolnych o spadku przekraczającym 10%;
-- **8)** na obszarach ochronnych zbiorników wód śródlądowych, w przypadku ich ustanowienia w akcie prawa miejscowego wydanym na podstawie art. 141 ust. 1 ustawy z dnia 20 lipca 2017 r. Prawo wodne;
+- **8)** na obszarach ochronnych zbiorników wód śródlądowych, w przypadku ich ustanowienia w akcie prawa miejscowego wydanym na podstawie art. 141 ust. 1 ustawy z dnia 20 lipca 2017 r. – Prawo wodne;
 - **9)** na terenach objętych pozostałymi formami ochrony przyrody niewymienionymi w pkt 1, jeżeli osady ściekowe zostały wytworzone poza tymi terenami;
 - **10)** na terenach położonych w odległości mniejszej niż 100 m od ujęcia wody, domu mieszkalnego lub zakładu produkcji żywności;
 - **11)** na gruntach, na których rosną rośliny sadownicze i warzywa, z wyjątkiem drzew owocowych;
-- **12)** na gruntach przeznaczonych pod uprawę roślin jagodowych i warzyw, których części jadalne bezpośrednio stykają się z ziemią i są spożywane w stanie surowym w ciągu 18 miesięcy poprzedzających zbiory i w czasie zbiorów;
+- **12)** na gruntach przeznaczonych pod uprawę roślin jagodowych i warzyw, których części jadalne bezpośrednio stykają się z ziemią i są spożywane w stanie surowym – w ciągu 18 miesięcy poprzedzających zbiory i w czasie zbiorów;
 - **13)** na gruntach wykorzystywanych na pastwiska i łąki;
 - **14)** na gruntach wykorzystywanych do upraw pod osłonami.
 
@@ -2653,11 +2644,15 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 
 **Art. 101a.**
 
-1. Odpady budowlane i rozbiórkowe zbiera się oraz odbiera selektywnie, z podziałem co najmniej na: drewno, metale, szkło, tworzywa sztuczne, gips, odpady mineralne, w tym beton, cegłę, płytki i materiały ceramiczne oraz kamienie.
+1. Wytwórca odpadów budowlanych i rozbiórkowych jest obowiązany do zapewnienia wysegregowania z wytworzonych przez siebie odpadów budowlanych i rozbiórkowych, których powstaniu nie mógł zapobiec zgodnie z art. 18 ust. 1, co najmniej: drewna, metali, szkła, tworzyw sztucznych, gipsu i odpadów mineralnych, w tym betonu, cegły, płytek i materiałów ceramicznych oraz kamieni w celu zapewnienia przydatności do przygotowania do ponownego użycia, recyklingu lub innego odzysku, chyba że wysegregowanie nie jest technologicznie możliwe lub brak wysegregowania pozwala na przygotowanie do ponownego użycia, recykling lub inny odzysk.
 
-2. Obowiązku, o którym mowa w ust. 1, nie stosuje się do gospodarstw domowych, punktów selektywnego zbierania odpadów komunalnych ani do odpadów budowlanych i rozbiórkowych, dla których nie ma obowiązku prowadzenia ewidencji odpadów określonych w przepisach wydanych na podstawie art. 66 ust. 5.
+2. W przypadku gdy wytwórcą odpadów budowlanych i rozbiórkowych jest osoba fizyczna niebędąca przedsiębiorcą, obowiązek określony w ust. 1 wykonuje następny posiadacz odpadów, któremu ten wytwórca przekazał te odpady budowlane i rozbiórkowe.
 
-3. Odpady budowlane i rozbiórkowe, które nie zostały zebrane i odebrane w sposób selektywny, podlegają sortowaniu co najmniej na: drewno, metale, szkło, tworzywa sztuczne, gips, odpady mineralne, w tym beton, cegłę, płytki i materiały ceramiczne oraz kamienie.
+3. Wytwórca odpadów budowlanych i rozbiórkowych oraz następny posiadacz odpadów, o którym mowa w ust. 2, mogą zlecić wykonanie obowiązku określonego w ust. 1 podmiotowi, o którym mowa w art. 27 ust. 2, w drodze umowy określającej dalsze zagospodarowanie wysegregowanych odpadów, zawartej w formie pisemnej pod rygorem nieważności.
+
+4. Odpowiedzialność za wykonanie obowiązku, o którym mowa w ust. 1, ponoszą solidarnie wytwórca odpadów budowlanych i rozbiórkowych, następny posiadacz odpadów, o którym mowa w ust. 2, oraz podmiot, o którym mowa w art. 27 ust. 2.
+
+5. Posiadacz odpadów wysegregowanych zgodnie z ust. 1 jest obowiązany do zapewnienia dalszego zagospodarowania tych odpadów zgodnie z art. 18 ust. 2–7.
 
 #### Rozdział 7 Odpady metali
 
@@ -2695,7 +2690,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 - **2)** informację o rodzaju i wielkości statków, które można poddać recyklingowi statków;
 - **3)** informację o ograniczeniach i uwarunkowaniach w funkcjonowaniu zakładu recyklingu statków, w tym dotyczące gospodarowania odpadami niebezpiecznymi;
 - **4)** informację o maksymalnej rocznej wielkości recyklingu statków, którą oblicza się jako sumę masy statków wyrażoną w tonach masy statku pustego (LDT) w rozumieniu art. 3 ust. 1 pkt 24 rozporządzenia 1257/2013;
-- **5)** zaświadczenie o zgodności z wymogami, o których mowa w art. 13 ust. 1 lit. b–j rozporządzenia 1257/2013, wydane przez uznaną organizację upoważnioną zgodnie z art. 8 ust. 1 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2022 r. poz. 515, 1604, 2185 i 2687 oraz z 2023 r. poz. 261), wydane nie wcześniej niż 3 miesiące przed dniem złożenia wniosku.
+- **5)** zaświadczenie o zgodności z wymogami, o których mowa w art. 13 ust. 1 lit. b– j rozporządzenia 1257/2013, wydane przez uznaną organizację upoważnioną zgodnie z art. 8 ust. 1 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2022 r. poz. 515, 1604, 2185 i 2687 oraz z 2023 r. poz. 261), wydane nie wcześniej niż 3 miesiące przed dniem złożenia wniosku.
 
 2. Do wniosku o przedłużenie zezwolenia na przetwarzanie dla prowadzącego zakład recyklingu statków dołącza się zaświadczenie, o którym mowa w ust. 1 pkt 5.
 
@@ -2724,7 +2719,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 1. Odpady składuje się:
 
 - **1)** na składowisku odpadów;
-- **2)** w podziemnym składowisku odpadów, o którym mowa w ustawie z dnia 9 czerwca 2011 r. Prawo geologiczne i górnicze;
+- **2)** w podziemnym składowisku odpadów, o którym mowa w ustawie z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze;
 - **3)** w obiekcie unieszkodliwiania odpadów wydobywczych, o którym mowa w ustawie z dnia 10 lipca 2008 r. o odpadach wydobywczych.
 
 2. Wyróżnia się następujące typy składowisk odpadów:
@@ -2771,7 +2766,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 
 **Art. 110.**
 
-1. Podstawową charakterystykę odpadów sporządza wytwórca lub posiadacz odpadów odpowiedzialny za gospodarowanie odpadami, kierujący odpady do składowania na składowisko odpadów, a w przypadku odpadów komunalnych podmiot odbierający odpady komunalne od właścicieli nieruchomości, o którym mowa w ustawie z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach.
+1. Podstawową charakterystykę odpadów sporządza wytwórca lub posiadacz odpadów odpowiedzialny za gospodarowanie odpadami, kierujący odpady do składowania na składowisko odpadów, a w przypadku odpadów komunalnych – podmiot odbierający odpady komunalne od właścicieli nieruchomości, o którym mowa w ustawie z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach.
 
 2. Podstawowa charakterystyka odpadów zawiera:
 
@@ -2800,7 +2795,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 - **1)** obojętnych, określonych w przepisach wydanych na podstawie art. 118,
 - **2)** dla których wszelkie informacje niezbędne do sporządzenia podstawowej charakterystyki są znane i uzasadnione, zgodnie z wymaganiami dotyczącymi składowania odpadów, określonymi w decyzjach właściwych organów,
 - **3)** dla których wykonywanie badań jest niepraktyczne lub dla których testy zgodności nie mogą zostać wykonane ze względów technicznych lub właściwe metody badań poszczególnych kryteriów dopuszczania, o których mowa w przepisach wydanych na podstawie art. 118, są niedostępne,
-- **4)** komunalnych o ile pochodzą od jednego wytwórcy odpadów i stanowią jeden strumień odpadów.
+- **4)** komunalnych – o ile pochodzą od jednego wytwórcy odpadów i stanowią jeden strumień odpadów.
 
 6. W przypadku odpadów komunalnych, za jeden strumień odpadów uznaje się odpady pochodzące z jednego regionu gospodarki odpadami komunalnymi.
 
@@ -2865,7 +2860,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 
 **Art. 117.**
 
-1. Kryteria dopuszczania odpadów do składowania na składowisku odpadów danego typu uważa się za spełnione, jeżeli są potwierdzone badaniami laboratoryjnymi wykonanymi przez laboratorium, o którym mowa w art. 147a ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska.
+1. Kryteria dopuszczania odpadów do składowania na składowisku odpadów danego typu uważa się za spełnione, jeżeli są potwierdzone badaniami laboratoryjnymi wykonanymi przez laboratorium, o którym mowa w art. 147a ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska.
 
 2. Kryteria dopuszczania odpadów do składowania na składowisku odpadów danego typu obejmują:
 
@@ -2915,9 +2910,9 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 
 1. Okres przygotowania do budowy, budowy oraz prowadzenia składowiska odpadów obejmuje fazy:
 
-- **1)** przedeksploatacyjną okres poprzedzający uzyskanie pierwszej ostatecznej decyzji zatwierdzającej instrukcję prowadzenia składowiska odpadów;
-- **2)** eksploatacyjną okres od dnia uzyskania pierwszej ostatecznej decyzji zatwierdzającej instrukcję prowadzenia składowiska odpadów do dnia zakończenia rekultywacji składowiska odpadów;
-- **3)** poeksploatacyjną okres 30 lat liczony od dnia zakończenia rekultywacji składowiska odpadów.
+- **1)** przedeksploatacyjną – okres poprzedzający uzyskanie pierwszej ostatecznej decyzji zatwierdzającej instrukcję prowadzenia składowiska odpadów;
+- **2)** eksploatacyjną – okres od dnia uzyskania pierwszej ostatecznej decyzji zatwierdzającej instrukcję prowadzenia składowiska odpadów do dnia zakończenia rekultywacji składowiska odpadów;
+- **3)** poeksploatacyjną – okres 30 lat liczony od dnia zakończenia rekultywacji składowiska odpadów.
 
 2. Dzień zakończenia rekultywacji składowiska odpadów jest równocześnie dniem zamknięcia tego składowiska.
 
@@ -2936,7 +2931,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 6. Minister właściwy do spraw klimatu określi, w drodze rozporządzenia:
 
 - **1)** szczegółowe wymagania dotyczące lokalizacji, budowy i prowadzenia składowiska odpadów, jakim odpowiadają poszczególne typy składowisk odpadów,
-- **2)** zakres, czas i częstotliwość oraz sposób i warunki prowadzenia monitoringu składowisk odpadów kierując się zależnościami między możliwością występowania zagrożeń dla życia i zdrowia ludzi oraz dla środowiska a lokalizacją, technicznymi parametrami i sposobem prowadzenia składowiska odpadów oraz uwzględniając zjawiska przyrodnicze i uwarunkowania geologiczne, a także systemy kontroli poszczególnych elementów środowiska, oraz kierując się specyficznymi wymaganiami dotyczącymi składowania niektórych rodzajów odpadów.
+- **2)** zakres, czas i częstotliwość oraz sposób i warunki prowadzenia monitoringu składowisk odpadów – kierując się zależnościami między możliwością występowania zagrożeń dla życia i zdrowia ludzi oraz dla środowiska a lokalizacją, technicznymi parametrami i sposobem prowadzenia składowiska odpadów oraz uwzględniając zjawiska przyrodnicze i uwarunkowania geologiczne, a także systemy kontroli poszczególnych elementów środowiska, oraz kierując się specyficznymi wymaganiami dotyczącymi składowania niektórych rodzajów odpadów.
 
 **Art. 125.**
 
@@ -2954,9 +2949,9 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 
 2. Wyznaczenie lokalizacji składowiska odpadów:
 
-- **1)** w pobliżu lotnisk wymaga zgody organów administracji lotniczej;
-- **2)** w pobliżu obiektów zabytkowych lub na terenie, na którym znajdują się zabytki archeologiczne wymaga zgody wojewódzkiego konserwatora zabytków;
-- **3)** w obszarze pasa nadbrzeżnego oraz portów i przystani morskich wymaga zgody dyrektora urzędu morskiego.
+- **1)** w pobliżu lotnisk – wymaga zgody organów administracji lotniczej;
+- **2)** w pobliżu obiektów zabytkowych lub na terenie, na którym znajdują się zabytki archeologiczne – wymaga zgody wojewódzkiego konserwatora zabytków;
+- **3)** w obszarze pasa nadbrzeżnego oraz portów i przystani morskich – wymaga zgody dyrektora urzędu morskiego.
 
 3. Organ właściwy do wydania dla składowiska odpadów decyzji o warunkach zabudowy i zagospodarowania terenu odmawia wydania decyzji w przypadku:
 
@@ -2965,7 +2960,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 
 **Art. 127.**
 
-1. Wniosek o wydanie pozwolenia na budowę składowiska odpadów, z zastrzeżeniem przepisów ustawy z dnia 7 lipca 1994 r. Prawo budowlane, dodatkowo zawiera:
+1. Wniosek o wydanie pozwolenia na budowę składowiska odpadów, z zastrzeżeniem przepisów ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, dodatkowo zawiera:
 
 - **1)** imię i nazwisko lub nazwę podmiotu oraz adres zamieszkania lub siedziby oraz adres składowiska odpadów;
 - **2)** określenie rodzajów odpadów przewidzianych do składowania na składowisku odpadów;
@@ -3000,7 +2995,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 
 **Art. 129.**
 
-1. Decyzję zatwierdzającą instrukcję prowadzenia składowiska odpadów wydaje, na wniosek zarządzającego składowiskiem, marszałek województwa, a w przypadku przedsięwzięć i zdarzeń na terenach zamkniętych regionalny dyrektor ochrony środowiska. Właściwość miejscową organu określa się według miejsca lokalizacji składowiska odpadów.
+1. Decyzję zatwierdzającą instrukcję prowadzenia składowiska odpadów wydaje, na wniosek zarządzającego składowiskiem, marszałek województwa, a w przypadku przedsięwzięć i zdarzeń na terenach zamkniętych – regionalny dyrektor ochrony środowiska. Właściwość miejscową organu określa się według miejsca lokalizacji składowiska odpadów.
 
 2. Wniosek o wydanie decyzji zatwierdzającej instrukcję prowadzenia składowiska odpadów zawiera:
 
@@ -3015,7 +3010,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 - **3)** kopię świadectwa stwierdzającego kwalifikacje kierownika składowiska odpadów w zakresie gospodarowania odpadami, odpowiednie do prowadzonych procesów przetwarzania odpadów;
 - **4)** zaświadczenie o niekaralności zarządzającego składowiskiem:
     - **a)** a w przypadku zarządzającego składowiskiem będącego osobą prawną albo jednostką organizacyjną nieposiadającą osobowości prawnej, także jego wspólnika, prokurenta, członka rady nadzorczej lub członka zarządu, za przestępstwa przeciwko środowisku,
-    - **b)** będącego osobą fizyczną, a w przypadku zarządzającego składowiskiem będącego osobą prawną albo jednostką organizacyjną nieposiadającą osobowości prawnej, jego wspólnika, prokurenta, członka rady nadzorczej lub członka zarządu, za przestępstwa, o których mowa w art. 163, art. 164 lub art. 168 w związku z art. 163 § 1 ustawy z dnia 6 czerwca 1997 r. Kodeks karny.
+    - **b)** będącego osobą fizyczną, a w przypadku zarządzającego składowiskiem będącego osobą prawną albo jednostką organizacyjną nieposiadającą osobowości prawnej, jego wspólnika, prokurenta, członka rady nadzorczej lub członka zarządu, za przestępstwa, o których mowa w art. 163, art. 164 lub art. 168 w związku z art. 163 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny.
 
 4. Instrukcja prowadzenia składowiska odpadów obejmuje fazę eksploatacyjną oraz fazę poeksploatacyjną i zawiera:
 
@@ -3156,7 +3151,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 1. Wydobywanie odpadów:
 
 - **1)** z zamkniętego składowiska odpadów nieposiadającego instrukcji prowadzenia składowiska odpadów,
-- **2)** ze zwałowiska odpadów wymaga uzyskania zgody na wydobywanie odpadów.
+- **2)** ze zwałowiska odpadów – wymaga uzyskania zgody na wydobywanie odpadów.
 
 2. Przez zwałowisko odpadów rozumie się miejsce składowania odpadów przemysłowych, dla którego nie było wymagane uzyskanie decyzji dotyczącej lokalizacji lub decyzji o pozwoleniu na budowę.
 
@@ -3229,7 +3224,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 
 - **1)** składowisko odpadów lub jego wydzielona część nie spełnia wymogów technicznych lub formalnych określonych w przepisach prawa lub
 - **2)** w wyniku przeprowadzonej kontroli wojewódzki inspektor ochrony środowiska stwierdzi, że na składowisku odpadów innych niż niebezpieczne i obojętne, na którym są składowane odpady komunalne, co najmniej od roku nie są przyjmowane odpady, lub
-- **3)** pojemność składowiska odpadów, określona w zatwierdzonej instrukcji prowadzenia składowiska odpadów, została zapełniona właściwy organ, o którym mowa w art. 129 ust. 1, sporządza ekspertyzę dotyczącą zamknięcia składowiska odpadów lub jego wydzielonej części oraz nową instrukcję prowadzenia składowiska odpadów.
+- **3)** pojemność składowiska odpadów, określona w zatwierdzonej instrukcji prowadzenia składowiska odpadów, została zapełniona – właściwy organ, o którym mowa w art. 129 ust. 1, sporządza ekspertyzę dotyczącą zamknięcia składowiska odpadów lub jego wydzielonej części oraz nową instrukcję prowadzenia składowiska odpadów.
 
 2. Ekspertyza dotycząca zamknięcia składowiska odpadów lub jego wydzielonej części określa w szczególności:
 
@@ -3282,14 +3277,14 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 
 2. Warunkiem przejęcia składowiska odpadów jest ustanowienie zabezpieczenia roszczeń przez podmiot zainteresowany przejęciem składowiska odpadów oraz wyrażenie zgody przez:
 
-- **1)** podmiot zainteresowany przejęciem składowiska odpadów na przyjęcie wszystkich praw i obowiązków zawartych w decyzjach, o których mowa w ust. 1 pkt 1;
-- **2)** zarządzającego dotychczas składowiskiem odpadów na przejęcie składowiska odpadów przez podmiot, o którym mowa w pkt 1.
+- **1)** podmiot zainteresowany przejęciem składowiska odpadów – na przyjęcie wszystkich praw i obowiązków zawartych w decyzjach, o których mowa w ust. 1 pkt 1;
+- **2)** zarządzającego dotychczas składowiskiem odpadów – na przejęcie składowiska odpadów przez podmiot, o którym mowa w pkt 1.
 
 3. Podmioty, o których mowa w ust. 2, wyrażają zgodę, składając pisemne oświadczenia.
 
 4. Przeniesienie praw i obowiązków może nastąpić w przypadku, gdy podmiot zainteresowany przejęciem składowiska odpadów daje rękojmię prawidłowego wykonania obowiązków wynikających z decyzji, o których mowa w ust. 1 pkt 1.
 
-5. Przeniesienie praw i obowiązków z pozwolenia zintegrowanego następuje na zasadach określonych w ustawie z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska.
+5. Przeniesienie praw i obowiązków z pozwolenia zintegrowanego następuje na zasadach określonych w ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska.
 
 6. Przeniesienie praw i obowiązków następuje na wniosek podmiotu zainteresowanego przejęciem składowiska odpadów.
 
@@ -3336,14 +3331,14 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 1. Termiczne przekształcanie:
 
 - **1)** odpadów niebezpiecznych,
-- **2)** stałych odpadów komunalnych stanowi proces unieszkodliwiania D10, wymieniony w załączniku nr 2 do ustawy.
+- **2)** stałych odpadów komunalnych – stanowi proces unieszkodliwiania D10, wymieniony w załączniku nr 2 do ustawy.
 
 2. Termiczne przekształcanie, w celu odzysku energii:
 
 - **1)** odpadów opakowaniowych,
 - **2)** odpadów innych niż niebezpieczne,
 - **3)** stałych odpadów komunalnych w spalarniach odpadów przeznaczonych do przetwarzania stałych odpadów komunalnych, których efektywność energetyczna jest co najmniej równa wartościom określonym w załączniku nr 1 do ustawy,
-- **4)** odpadów, o których mowa w art. 163 stanowi proces odzysku R1, wymieniony w załączniku nr 1 do ustawy.
+- **4)** odpadów, o których mowa w art. 163 – stanowi proces odzysku R1, wymieniony w załączniku nr 1 do ustawy.
 
 2a. Zakazuje się przekazywania do termicznego przekształcania odpadów selektywnie zebranych w celu przygotowania ich do ponownego użycia lub recyklingu, z wyjątkiem odpadów powstających w wyniku dalszego przetwarzania odpadów selektywnie zebranych, jeżeli w tym przypadku termiczne przekształcanie zapewnia wynik najlepszy dla środowiska, zgodnie z hierarchią sposobów postępowania z odpadami.
 
@@ -3364,10 +3359,10 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 2. Zarządzający spalarnią odpadów lub współspalarnią odpadów, przyjmując odpady do ich termicznego przekształcenia, jest obowiązany również do:
 
 - **1)** ustalenia masy odpadów;
-- **2)** sprawdzenia zgodności przyjmowanych odpadów z danymi zawartymi w:
+- **2)** sprawdzenia zgodności przyjmowanych odpadów z danymi zawartymi w: w sprawie przemieszczania odpadów – w przypadku przywozu odpadów z zagranicy,
     - **a)** karcie przekazania odpadów,
-    - **b)** dokumentach wymaganych na podstawie rozporządzenia (WE) nr 1013/2006 Parlamentu Europejskiego i Rady z dnia 14 czerwca 2006 r. w sprawie przemieszczania odpadów w przypadku przywozu odpadów z zagranicy,
-    - **c)** dokumentach wymaganych przepisami o transporcie towarów niebezpiecznych w przypadku transportu odpadów stanowiących towary niebezpieczne.
+    - **b)** dokumentach wymaganych na podstawie rozporządzenia (WE) nr 1013/2006 Parlamentu Europejskiego i Rady z dnia 14 czerwca 2006 r.
+    - **c)** dokumentach wymaganych przepisami o transporcie towarów niebezpiecznych – w przypadku transportu odpadów stanowiących towary niebezpieczne.
 
 3. Zarządzający spalarnią odpadów lub współspalarnią odpadów, przyjmując odpady niebezpieczne do ich termicznego przekształcenia, jest obowiązany również do:
 
@@ -3483,7 +3478,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 - **3)** tryb przeprowadzania egzaminu w zakresie gospodarowania odpadami,
 - **4)** sposób uiszczenia opłaty związanej z przeprowadzeniem egzaminu w zakresie gospodarowania odpadami i wydaniem świadectwa stwierdzającego kwalifikacje w zakresie gospodarowania odpadami,
 - **5)** wysokość wynagrodzenia członków komisji egzaminacyjnej,
-- **6)** wzór świadectwa stwierdzającego kwalifikacje w zakresie gospodarowania odpadami mając na uwadze konieczność sprawnego przeprowadzenia egzaminu i zapewnienia należytego sprawdzenia wiadomości zainteresowanych oraz kierując się potrzebą zapewnienia prawidłowego unieszkodliwiania odpadów oraz potrzebami ochrony środowiska.
+- **6)** wzór świadectwa stwierdzającego kwalifikacje w zakresie gospodarowania odpadami – mając na uwadze konieczność sprawnego przeprowadzenia egzaminu i zapewnienia należytego sprawdzenia wiadomości zainteresowanych oraz kierując się potrzebą zapewnienia prawidłowego unieszkodliwiania odpadów oraz potrzebami ochrony środowiska.
 
 ### DZIAŁ IX Zadania z zakresu administracji rządowej realizowane przez samorząd województwa i przepisy szczególne w postępowaniu o wydanie decyzji z zakresu gospodarki odpadami
 
@@ -3493,7 +3488,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 
 **Art. 170.**
 
-1. Do postępowań w sprawach zezwolenia na zbieranie odpadów, zezwolenia na przetwarzanie odpadów, zezwolenia na zbieranie i przetwarzanie odpadów, decyzji zatwierdzającej instrukcję prowadzenia składowiska odpadów, zgody na zamknięcie składowiska odpadów lub jego wydzielonej części oraz zgody na wydobywanie odpadów ze składowiska odpadów nie stosuje się art. 31 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
+1. Do postępowań w sprawach zezwolenia na zbieranie odpadów, zezwolenia na przetwarzanie odpadów, zezwolenia na zbieranie i przetwarzanie odpadów, decyzji zatwierdzającej instrukcję prowadzenia składowiska odpadów, zgody na zamknięcie składowiska odpadów lub jego wydzielonej części oraz zgody na wydobywanie odpadów ze składowiska odpadów nie stosuje się art. 31 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
 1a. Przepis ust. 1 stosuje się do postępowań w sprawach potwierdzenia spełnienia warunków uznania przedmiotu lub substancji za produkt uboczny albo stwierdzenia niespełnienia tych warunków.
 
@@ -3547,7 +3542,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 2. Kto nie dopełnia ciążących na nim obowiązków w zakresie:
 
 - **1)** posiadania w trakcie transportu odpadów potwierdzenia wygenerowanego z BDO, zgodnie z art. 69 ust. 1a,
-- **2)** posiadania w trakcie transportu odpadów komunalnych potwierdzenia wygenerowanego z BDO, zgodnie z art. 71a ust. 3 podlega karze grzywny.
+- **2)** posiadania w trakcie transportu odpadów komunalnych potwierdzenia wygenerowanego z BDO, zgodnie z art. 71a ust. 3
 
 3. Tej samej karze podlega, kto wbrew przepisowi art. 72 nie przechowuje przez określony czas, nie udostępnia lub nie przedkłada dokumentów i wszelkich danych, o których mowa w art. 72 ust. 1.
 
@@ -3617,7 +3612,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 
 **Art. 192.** Kto będąc zarządzającym spalarnią odpadów lub współspalarnią odpadów:
 
-**Art. 193.** Orzekanie w sprawach, o których mowa w art. 171–192 następuje na zasadach i w trybie określonych w ustawie z dnia 24 sierpnia 2001 r. Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2022 r. poz. 1124).
+**Art. 193.** Orzekanie w sprawach, o których mowa w art. 171–192 następuje na zasadach i w trybie określonych w ustawie z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2022 r. poz. 1124).
 
 #### Rozdział 2 Administracyjne kary pieniężne
 
@@ -3638,13 +3633,13 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 - **5a)** nieumieszczanie numeru rejestrowego na dokumentach sporządzanych w związku z prowadzoną działalnością, wbrew obowiązkowi, o którym mowa w art. 63;
 - **5b)** nieprowadzenie ewidencji odpadów albo prowadzenie tej ewidencji w sposób nieterminowy lub niezgodnie ze stanem rzeczywistym;
 - **6)** dokonanie zrzutu olejów odpadowych do wód, gleby lub ziemi, wbrew zakazowi, o którym mowa w art. 93;
-- **6a)** nieprowadzenie selektywnego zbierania, odbierania i sortowania odpadów budowlanych i rozbiórkowych, wbrew obowiązkowi określonemu w art. 101a;
+- **6a)** niezapewnienie wysegregowania odpadów budowlanych i rozbiórkowych wbrew przepisom art. 101a ust. 1–3;
 - **7)** rozcieńczanie lub sporządzanie mieszanin odpadów ze sobą lub z innymi substancjami lub przedmiotami, o którym mowa w art. 122 ust. 3;
 - **8)** wydobywanie odpadów, niezgodnie z przepisami, o których mowa w art. 143 ust. 2 i art. 144;
 - **8a)** przekazywanie do termicznego przekształcania odpadów selektywnie zebranych w celu przygotowania ich do ponownego użycia lub recyklingu, wbrew obowiązkowi określonemu w art. 158 ust. 2a;
 - **9)** przekazywanie niesegregowanych (zmieszanych) odpadów komunalnych do termicznego przekształcania niezgodnie z przepisami art. 158 ust. 3 i 4.
 
-2. Przepisów ust. 1 i 4 nie stosuje się, w przypadku gdy za naruszenie może być ustalona opłata podwyższona, o której mowa w art. 293 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska.
+2. Przepisów ust. 1 i 4 nie stosuje się, w przypadku gdy za naruszenie może być ustalona opłata podwyższona, o której mowa w art. 293 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska.
 
 3. Administracyjna kara pieniężna za naruszenia, o których mowa w ust. 1, wynosi nie mniej niż 1000 zł i nie może przekroczyć 1 000 000 zł.
 
@@ -3663,7 +3658,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 1. Administracyjną karę pieniężną wymierza się za niedostarczanie odpadów przez transportującego odpady, wbrew przepisom art. 24 ust. 4, do:
 
 - **1)** posiadacza odpadów,
-- **2)** miejsca przeznaczenia odpadów wskazanego przez zlecającego usługę transportu odpadów.
+- **2)** miejsca przeznaczenia odpadów – wskazanego przez zlecającego usługę transportu odpadów.
 
 2. Kara, o której mowa w ust. 1, wynosi nie mniej niż 1000 zł i nie może przekroczyć 100 000 zł.
 
@@ -3695,13 +3690,13 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 
 2. Wpływy z administracyjnych kar pieniężnych wojewódzki inspektor ochrony środowiska przekazuje na rachunek bankowy Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej w terminie do końca następnego miesiąca po upływie każdego kwartału.
 
-**Art. 202.** W sprawach dotyczących administracyjnych kar pieniężnych stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa, z tym że uprawnienia organu podatkowego przysługują wojewódzkiemu inspektorowi ochrony środowiska.
+**Art. 202.** W sprawach dotyczących administracyjnych kar pieniężnych stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, z tym że uprawnienia organu podatkowego przysługują wojewódzkiemu inspektorowi ochrony środowiska.
 
 ### DZIAŁ XI Zmiany w przepisach obowiązujących, przepisy przejściowe, dostosowujące i końcowe
 
 #### Rozdział 1 Zmiany w przepisach obowiązujących
 
-**Art. 203.** Ilekroć w obowiązujących przepisach jest mowa o ustawie z dnia 27 kwietnia 2001 r. o odpadach należy przez to rozumieć ustawę z dnia 14 grudnia 2012 r. o odpadach. Art. 204–221. (pominięte)
+**Art. 203.** Ilekroć w obowiązujących przepisach jest mowa o ustawie z dnia 27 kwietnia 2001 r. o odpadach – należy przez to rozumieć ustawę z dnia 14 grudnia 2012 r. o odpadach. Art. 204–221. (pominięte)
 
 #### Rozdział 2 Przepisy epizodyczne, przejściowe, dostosowujące i końcowe
 
@@ -3717,7 +3712,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 
 **Art. 226a.**
 
-- **54)** 1. W okresie do dnia 31 grudnia 2025 r. zezwolenie na zbieranie odpadów lub zezwolenie na przetwarzanie odpadów nie wygasa ze względu na upływ czasu, na jaki zostało wydane, jeżeli posiadacz odpadów w terminie nie później niż trzy miesiące przed upływem tego czasu złoży wniosek o wydanie nowego zezwolenia na zbieranie odpadów lub zezwolenia na przetwarzanie odpadów.
+11¹. W okresie do dnia 31 grudnia 2026 r. zezwolenie na zbieranie odpadów lub zezwolenie na przetwarzanie odpadów nie wygasa ze względu na upływ czasu, na jaki zostało wydane, jeżeli posiadacz odpadów w terminie nie później niż trzy miesiące przed upływem tego czasu złoży wniosek o wydanie nowego zezwolenia na zbieranie odpadów lub zezwolenia na przetwarzanie odpadów.
 
 2. Dotychczasowe zezwolenie na zbieranie odpadów zezwolenie na przetwarzanie odpadów wygasa w dniu następującym po dniu, w którym:
 
@@ -3726,6 +3721,8 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 
 3. W przypadku, o którym mowa w ust. 1, posiadacz odpadów jest zobowiązany do utrzymania zabezpieczenia roszczeń, o którym mowa w art. 48a, przez okres obowiązywania zezwolenia na zbieranie odpadów lub zezwolenia na przetwarzanie odpadów i po zakończeniu obowiązywania tych zezwoleń, do czasu uzyskania ostatecznej decyzji o zwrocie zabezpieczenia roszczeń, o której mowa w art. 48a ust. 18.
 
+**Art. 226b.** Do dnia 31 grudnia 2027 r. właściwy organ, o którym mowa w art. 26a ust. 2, może otrzymać środki z budżetu państwa z przeznaczeniem na wykonanie działań, o których mowa w art. 26a ust. 1. W przypadku gdy właściwym organem jest organ jednostki samorządu terytorialnego, kwota dofinansowania może stanowić więcej niż 80 % kosztów wykonania tych działań. Kwota dofinansowania nie może być wyższa niż 99 % kosztów wykonania tych działań.
+
 **Art. 227.** Krajowy plan gospodarki odpadami oraz wojewódzkie plany gospodarki odpadami uchwalone na podstawie przepisów dotychczasowych stają się odpowiednio krajowym planem gospodarki odpadami oraz wojewódzkimi planami gospodarki odpadami w rozumieniu przepisów niniejszej ustawy.
 
 **Art. 227a.**
@@ -3733,6 +3730,17 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 1. Zarząd województwa przygotuje i przedłoży sejmikowi województwa oraz ministrowi właściwemu do spraw klimatu sprawozdanie z realizacji wojewódzkiego planu gospodarki odpadami za okres sprawozdawczy obejmujący lata 2017–2019 w terminie 16 miesięcy po upływie tego okresu sprawozdawczego.
 
 2. Minister właściwy do spraw klimatu przygotuje i przedłoży Radzie Ministrów sprawozdanie z realizacji krajowego planu gospodarki odpadami za okres sprawozdawczy obejmujący lata 2017–2019 w terminie 22 miesięcy po upływie tego okresu sprawozdawczego.
+
+**Art. 227b.**
+
+1. W latach 2025–2027 wpływy z opłat rejestrowych i opłat rocznych, o których mowa w art. 57 ust. 1 i 3, stanowią w:
+
+- **1)** 35,65 % dochód budżetu województwa;
+- **2)** 64,35 % przychód Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej.
+
+2. Wpływy, o których mowa w ust. 1, przeznacza się na prowadzenie rejestru oraz administrowanie i serwisowanie BDO.
+
+3. Wpływy, o których mowa w ust. 1, powiększone o przychody z oprocentowania rachunków bankowych i pomniejszone o dochody budżetu województwa, o których mowa w ust. 1 pkt 1, marszałek województwa przekazuje w terminie do dnia 30 czerwca roku kalendarzowego następującego po roku, w którym zostały wniesione, na rachunek bankowy Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej.
 
 **Art. 228.**
 
@@ -3788,7 +3796,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 
 4. Inne niż wymienione w ust. 3 podmioty, podlegające z urzędu wpisowi do rejestru, o którym mowa w art. 49 ust. 1, zgodnie z art. 51 ust. 1, spełniające wymagania do uzyskania tego wpisu w dniu utworzenia rejestru, są wpisywane do tego rejestru w terminie 6 miesięcy od dnia jego utworzenia.
 
-5. W przypadku gdy marszałek województwa, dokonując z urzędu wpisu do rejestru, o którym mowa w art. 49 ust. 1, stwierdzi brak informacji wymaganych na podstawie niniejszej ustawy, wzywa podmiot, o którym mowa w ust. 3 lub 4, do złożenia brakujących informacji. W przypadku nieuzupełnienia brakujących informacji w wyznaczonym terminie marszałek województwa nie dokonuje wpisu do rejestru z urzędu. Przepis art. 64 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego stosuje się odpowiednio.
+5. W przypadku gdy marszałek województwa, dokonując z urzędu wpisu do rejestru, o którym mowa w art. 49 ust. 1, stwierdzi brak informacji wymaganych na podstawie niniejszej ustawy, wzywa podmiot, o którym mowa w ust. 3 lub 4, do złożenia brakujących informacji. W przypadku nieuzupełnienia brakujących informacji w wyznaczonym terminie marszałek województwa nie dokonuje wpisu do rejestru z urzędu. Przepis art. 64 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego stosuje się odpowiednio.
 
 6. W przypadku nieuzupełnienia brakujących informacji w wyznaczonym terminie, podmiot o którym mowa w ust. 3 lub 4, jest obowiązany do złożenia wniosku o wpis do rejestru.
 
@@ -3796,7 +3804,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 
 8. Podmioty, które posiadają w dniu wejścia w życie niniejszej ustawy wpis do dotychczasowych rejestrów, są zwolnione z obowiązku uiszczenia opłaty rejestrowej.
 
-9. Po upływie 6 miesięcy od dnia utworzenia rejestru lub z dniem uzyskania wpisu do rejestru, o którym mowa w art. 49 ust. 1, przez podmiot, o którym mowa w ust. 2–4, wygasają wpisy do rejestru prowadzonego na podstawie przepisów dotychczasowych odpowiednio przez Głównego Inspektora Ochrony Środowiska lub przez starostę.
+9. Po upływie 6 miesięcy od dnia utworzenia rejestru lub z dniem uzyskania wpisu do rejestru, o którym mowa w art. 49 ust. 1, przez podmiot, o którym mowa w ust. 2– 4, wygasają wpisy do rejestru prowadzonego na podstawie przepisów dotychczasowych odpowiednio przez Głównego Inspektora Ochrony Środowiska lub przez starostę.
 
 10. Przepisy art. 208 pkt 2, art. 209 pkt 10 w zakresie uchylenia art. 37 pkt 1, art. 213 pkt 11, art. 214 pkt 35, art. 219 pkt 1 oraz art. 220 pkt 19 i 20 stosuje się od dnia utworzenia rejestru.
 
@@ -3826,7 +3834,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 
 3. (uchylony)
 
-4. W przypadku, o którym mowa w ust. 1, przekazujący odpady sporządza kartę przekazania odpadów lub kartę przekazania odpadów komunalnych w odpowiedniej liczbie egzemplarzy dla każdego z posiadaczy odpadów przekazującego odpady, każdego transportującego odpady oraz przejmującego odpady.
+4. W przypadku, o którym mowa w ust. 1, przekazujący odpady sporządza kartę przekazania odpadów lub kartę przekazania odpadów komunalnych w odpowiedniej liczbie egzemplarzy dla każdego z posiadaczy odpadów – przekazującego odpady, każdego transportującego odpady oraz przejmującego odpady.
 
 5. Wzór karty przekazania odpadów sporządzanej w przypadku, o którym mowa w ust. 1, określa załącznik nr 5a do ustawy.
 
@@ -3854,12 +3862,12 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 
 1. Podmioty, o których mowa w art. 73 i art. 75, obowiązane przed dniem wejścia w życie niniejszej ustawy do sporządzania i składania:
 
-- **1)** zbiorczych zestawień danych o rodzajach i ilości odpadów, o sposobach gospodarowania nimi oraz o instalacjach i urządzeniach służących do odzysku i unieszkodliwiania tych odpadów na podstawie art. 37 ust. 1 i 2 ustawy, o której mowa w art. 252,
-- **2)** sprawozdań na podstawie art. 4 ust. 5, art. 10 ust. 1 i 2 oraz art. 15 ust. 1 ustawy z dnia 11 maja 2001 r. o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej,
-- **3)** sprawozdań na podstawie art. 7 ust. 1 i art. 9 ust. 3 ustawy z dnia 11 maja 2001 r. o opakowaniach i odpadach opakowaniowych,
-- **4)** sprawozdań na podstawie art. 15 ust. 1, art. 30 ust. 1 i art. 38 ust. 3 ustawy z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji,
-- **5)** sprawozdań na podstawie art. 24 ust. 1, art. 31 ust. 1, art. 51 ust. 1, art. 56 ust. 1 i art. 67 ust. 1 oraz wykazu zakładów przetwarzania, o którym mowa w art. 33 ust. 4 ustawy z dnia 29 lipca 2005 r. o zużytym sprzęcie elektrycznym i elektronicznym,
-- **6)** sprawozdań na podstawie art. 34 ust. 2, art. 35 ust. 1, art. 36 ust. 4, art. 37 ust. 6, art. 41 ust. 3, art. 59 ust. 3 i art. 64 ust. 5 ustawy z dnia 24 kwietnia 2009 r. o bateriach i akumulatorach sporządzają i składają je, za lata 2012–2014, stosując przepisy dotychczasowe, z tym że ten, kto wbrew obowiązkowi, nie sporządza i nie przekazuje tych zbiorczych zestawień danych, sprawozdań lub wykazu zakładów przetwarzania lub wykonuje ten obowiązek nieterminowo lub niezgodnie ze stanem rzeczywistym podlega karze, o której mowa w art. 200.
+- **1)** zbiorczych zestawień danych o rodzajach i ilości odpadów, o sposobach gospodarowania nimi oraz o instalacjach i urządzeniach służących do odzysku i unieszkodliwiania tych odpadów – na podstawie art. 37 ust. 1 i 2 ustawy, o której mowa w art. 252,
+- **2)** sprawozdań – na podstawie art. 4 ust. 5, art. 10 ust. 1 i 2 oraz art. 15 ust. 1 ustawy z dnia 11 maja 2001 r. o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej,
+- **3)** sprawozdań – na podstawie art. 7 ust. 1 i art. 9 ust. 3 ustawy z dnia 11 maja 2001 r. o opakowaniach i odpadach opakowaniowych,
+- **4)** sprawozdań – na podstawie art. 15 ust. 1, art. 30 ust. 1 i art. 38 ust. 3 ustawy z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji,
+- **5)** sprawozdań – na podstawie art. 24 ust. 1, art. 31 ust. 1, art. 51 ust. 1, art. 56 ust. 1 i art. 67 ust. 1 oraz wykazu zakładów przetwarzania, o którym mowa w art. 33 ust. 4 ustawy z dnia 29 lipca 2005 r. o zużytym sprzęcie elektrycznym i elektronicznym,
+- **6)** sprawozdań – na podstawie art. 34 ust. 2, art. 35 ust. 1, art. 36 ust. 4, art. 37 ust. 6, art. 41 ust. 3, art. 59 ust. 3 i art. 64 ust. 5 ustawy z dnia 24 kwietnia 2009 r. o bateriach i akumulatorach – sporządzają i składają je, za lata 2012–2014, stosując przepisy dotychczasowe, z tym że ten, kto wbrew obowiązkowi, nie sporządza i nie przekazuje tych zbiorczych zestawień danych, sprawozdań lub wykazu zakładów przetwarzania lub wykonuje ten obowiązek nieterminowo lub niezgodnie ze stanem rzeczywistym podlega karze, o której mowa w art. 200.
 
 2. Do złożonych zbiorczych zestawień danych i sprawozdań, o których mowa w ust. 1, stosuje się przepisy dotychczasowe.
 
@@ -3867,18 +3875,18 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 
 1. Podmioty, o których mowa w art. 73 i art. 75, obowiązane przed dniem wejścia w życie niniejszej ustawy do sporządzania i składania:
 
-- **1)** zbiorczych zestawień danych o rodzajach i ilości odpadów, o sposobach gospodarowania nimi oraz o instalacjach i urządzeniach służących do odzysku i unieszkodliwiania tych odpadów na podstawie art. 37 ust. 1 i 2 ustawy, o której mowa w art. 252,
-- **2)** sprawozdań na podstawie art. 15 ust. 1, art. 30 ust. 1 i art. 38 ust. 3 ustawy z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji,
-- **3)** sprawozdań na podstawie art. 24 ust. 1, art. 31 ust. 1, art. 40, art. 51 ust. 1, art. 56 ust. 1 i art. 67 ust. 1 oraz wykazu zakładów przetwarzania, o którym mowa w art. 33 ust. 4 ustawy z dnia 29 lipca 2005 r. o zużytym sprzęcie elektrycznym i elektronicznym,
-- **4)** sprawozdań na podstawie art. 34 ust. 2, art. 35 ust. 1, art. 36 ust. 4, art. 37 ust. 6, art. 41 ust. 3, art. 59 ust. 3 i art. 64 ust. 5 ustawy z dnia 24 kwietnia 2009 r. o bateriach i akumulatorach sporządzają i składają je, za rok 2015 i za rok 2016, stosując przepisy dotychczasowe, z tym że ten, kto wbrew obowiązkowi, nie sporządza i nie przekazuje tych zbiorczych zestawień danych, sprawozdań lub wykazu zakładów przetwarzania lub wykonuje ten obowiązek nieterminowo lub niezgodnie ze stanem rzeczywistym podlega karze grzywny, o której mowa w art. 180a.
+- **1)** zbiorczych zestawień danych o rodzajach i ilości odpadów, o sposobach gospodarowania nimi oraz o instalacjach i urządzeniach służących do odzysku i unieszkodliwiania tych odpadów – na podstawie art. 37 ust. 1 i 2 ustawy, o której mowa w art. 252,
+- **2)** sprawozdań – na podstawie art. 15 ust. 1, art. 30 ust. 1 i art. 38 ust. 3 ustawy z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji,
+- **3)** sprawozdań – na podstawie art. 24 ust. 1, art. 31 ust. 1, art. 40, art. 51 ust. 1, art. 56 ust. 1 i art. 67 ust. 1 oraz wykazu zakładów przetwarzania, o którym mowa w art. 33 ust. 4 ustawy z dnia 29 lipca 2005 r. o zużytym sprzęcie elektrycznym i elektronicznym,
+- **4)** sprawozdań – na podstawie art. 34 ust. 2, art. 35 ust. 1, art. 36 ust. 4, art. 37 ust. 6, art. 41 ust. 3, art. 59 ust. 3 i art. 64 ust. 5 ustawy z dnia 24 kwietnia 2009 r. o bateriach i akumulatorach – sporządzają i składają je, za rok 2015 i za rok 2016, stosując przepisy dotychczasowe, z tym że ten, kto wbrew obowiązkowi, nie sporządza i nie przekazuje tych zbiorczych zestawień danych, sprawozdań lub wykazu zakładów przetwarzania lub wykonuje ten obowiązek nieterminowo lub niezgodnie ze stanem rzeczywistym podlega karze grzywny, o której mowa w art. 180a.
 
 2. Do złożonych zbiorczych zestawień danych i sprawozdań, o których mowa w ust. 1, stosuje się przepisy dotychczasowe. Art. 237aa. 1. Podmioty, o których mowa w art. 73 i art. 75, obowiązane przed dniem wejścia w życie niniejszej ustawy do sporządzania i składania:
 
-- **1)** zbiorczych zestawień danych o rodzajach i ilości odpadów, o sposobach gospodarowania nimi oraz o instalacjach i urządzeniach służących do odzysku i unieszkodliwiania tych odpadów na podstawie art. 37 ust. 1 i 2 ustawy, o której mowa w art. 252,
-- **2)** sprawozdań na podstawie art. 15 ust. 1, art. 30 ust. 1 i art. 38 ust. 3 ustawy z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji,
-- **3)** sprawozdań na podstawie art. 34 ust. 2, art. 35 ust. 1, art. 36 ust. 4, art. 37 ust. 6, art. 41 ust. 3, art. 59 ust. 3 i art. 64 ust. 5 ustawy z dnia 24 kwietnia 2009 r. o bateriach i akumulatorach sporządzają i składają je, za rok 2017 i za rok 2018, stosując przepisy dotychczasowe, z tym że ten, kto wbrew obowiązkowi, nie sporządza i nie przekazuje tych zbiorczych zestawień danych lub sprawozdań lub wykonuje ten obowiązek nieterminowo lub niezgodnie ze stanem rzeczywistym, podlega karze grzywny, o której mowa w art. 180a.
+- **1)** zbiorczych zestawień danych o rodzajach i ilości odpadów, o sposobach gospodarowania nimi oraz o instalacjach i urządzeniach służących do odzysku i unieszkodliwiania tych odpadów – na podstawie art. 37 ust. 1 i 2 ustawy, o której mowa w art. 252,
+- **2)** sprawozdań – na podstawie art. 15 ust. 1, art. 30 ust. 1 i art. 38 ust. 3 ustawy z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji,
+- **3)** sprawozdań – na podstawie art. 34 ust. 2, art. 35 ust. 1, art. 36 ust. 4, art. 37 ust. 6, art. 41 ust. 3, art. 59 ust. 3 i art. 64 ust. 5 ustawy z dnia 24 kwietnia 2009 r. o bateriach i akumulatorach – sporządzają i składają je, za rok 2017 i za rok 2018, stosując przepisy dotychczasowe, z tym że ten, kto wbrew obowiązkowi, nie sporządza i nie przekazuje tych zbiorczych zestawień danych lub sprawozdań lub wykonuje ten obowiązek nieterminowo lub niezgodnie ze stanem rzeczywistym, podlega karze grzywny, o której mowa w art. 180a.
 
-2. Do złożonych zbiorczych zestawień danych i sprawozdań, o których mowa w ust. 1, stosuje się przepisy dotychczasowe. Art. 237ab. 1. Podmioty, o których mowa w art. 73 ust. 1 pkt 3, obowiązane przed dniem wejścia w życie niniejszej ustawy do sporządzania i składania sprawozdań na podstawie art. 4 ust. 5, art. 10 ust. 1 i 2 oraz art. 15 ust. 1 ustawy z dnia 11 maja 2001 r. o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej w zakresie dotyczącym produktów, o których mowa w załączniku nr 4a do tej ustawy, sporządzają i składają je, za rok 2017 i za rok 2018, stosując odpowiednio przepisy dotychczasowe, z tym że ten, kto wbrew obowiązkowi, nie sporządza i nie przekazuje tych zbiorczych zestawień danych lub sprawozdań lub wykonuje ten obowiązek nieterminowo lub niezgodnie ze stanem rzeczywistym, podlega karze grzywny, o której mowa w art. 180a.
+2. Do złożonych zbiorczych zestawień danych i sprawozdań, o których mowa w ust. 1, stosuje się przepisy dotychczasowe. Art. 237ab. 1. Podmioty, o których mowa w art. 73 ust. 1 pkt 3, obowiązane przed dniem wejścia w życie niniejszej ustawy do sporządzania i składania sprawozdań na podstawie art. 4 ust. 5, art. 10 ust. 1 i 2 oraz art. 15 ust. 1 ustawy z dnia 11 maja 2001 r. o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej – w zakresie dotyczącym produktów, o których mowa w załączniku nr 4a do tej ustawy, sporządzają i składają je, za rok 2017 i za rok 2018, stosując odpowiednio przepisy dotychczasowe, z tym że ten, kto wbrew obowiązkowi, nie sporządza i nie przekazuje tych zbiorczych zestawień danych lub sprawozdań lub wykonuje ten obowiązek nieterminowo lub niezgodnie ze stanem rzeczywistym, podlega karze grzywny, o której mowa w art. 180a.
 
 2. Do złożonych sprawozdań, o których mowa w ust. 1, stosuje się odpowiednio przepisy dotychczasowe.
 
@@ -3888,17 +3896,17 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 
 - **1)** dane identyfikujące podmiot:
     - **a)** imię i nazwisko lub nazwę podmiotu oraz adres zamieszkania lub siedziby,
-    - **b)** numer identyfikacji podatkowej (NIP), o ile został nadany, a w przypadku wprowadzającego baterie lub akumulatory także europejski numer identyfikacji podatkowej, o ile został nadany,
+    - **b)** numer identyfikacji podatkowej (NIP), o ile został nadany, a w przypadku wprowadzającego baterie lub akumulatory – także europejski numer identyfikacji podatkowej, o ile został nadany,
     - **c)** numer REGON, o ile został nadany;
 
 - **2)** w zależności od rodzaju działalności odpowiednio:
-    - **a)** masie wytworzonych i przywiezionych z zagranicy opakowań według rodzajów materiałów, z jakich zostały wykonane, w tym: o opakowaniach wielokrotnego użytku, o przestrzeganiu ograniczeń wynikających z art. 11 ust. 1 pkt 2 ustawy z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi,
+    - **a)** masie wytworzonych i przywiezionych z zagranicy opakowań według rodzajów materiałów, z jakich zostały wykonane, w tym: – o opakowaniach wielokrotnego użytku, – o przestrzeganiu ograniczeń wynikających z art. 11 ust. 1 pkt 2 ustawy z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi,
     - **b)** masie opakowań, w których zostały wprowadzone do obrotu produkty, z podziałem na poszczególne ich rodzaje,
     - **c)** masie poddanych odzyskowi i recyklingowi odpadów opakowaniowych, z podziałem na poszczególne ich rodzaje oraz z uwzględnieniem podziału na odpady pochodzące z gospodarstw domowych i z innych źródeł niż gospodarstwa domowe, a także według sposobu ich odzysku i recyklingu,
     - **d)** osiągniętych poziomach odzysku i recyklingu odpadów opakowaniowych, z podziałem na poszczególne ich rodzaje,
-    - **e)** wysokości należnej opłaty produktowej, obliczonej oddzielnie, z podziałem na poszczególne rodzaje opakowań w przypadku nieosiągnięcia wymaganego poziomu odzysku lub recyklingu,
-    - **f)** masie wywiezionych za granicę opakowań, według rodzajów materiałów, z jakich zostały wykonane, z wyszczególnieniem opakowań wielokrotnego użytku w przypadku przedsiębiorcy, który eksportuje lub dokonuje wewnątrzwspólnotowej dostawy opakowań lub produktów w opakowaniach,
-    - **g)** informacje o sposobie wykonania obowiązku prowadzenia publicznych kampanii edukacyjnych, a w przypadku samodzielnego wykonania tego obowiązku także o przeprowadzonych przez przedsiębiorcę publicznych kampaniach edukacyjnych wraz ze wskazaniem poniesionych na ten cel kosztów.
+    - **e)** wysokości należnej opłaty produktowej, obliczonej oddzielnie, z podziałem na poszczególne rodzaje opakowań – w przypadku nieosiągnięcia wymaganego poziomu odzysku lub recyklingu,
+    - **f)** masie wywiezionych za granicę opakowań, według rodzajów materiałów, z jakich zostały wykonane, z wyszczególnieniem opakowań wielokrotnego użytku – w przypadku przedsiębiorcy, który eksportuje lub dokonuje wewnątrzwspólnotowej dostawy opakowań lub produktów w opakowaniach,
+    - **g)** informacje o sposobie wykonania obowiązku prowadzenia publicznych kampanii edukacyjnych, a w przypadku samodzielnego wykonania tego obowiązku – także o przeprowadzonych przez przedsiębiorcę publicznych kampaniach edukacyjnych wraz ze wskazaniem poniesionych na ten cel kosztów.
 
 2. W przypadku gdy obowiązek określony w art. 17 ust. 1 ustawy z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi wykonuje organizacja odzysku opakowań, roczne sprawozdanie, o którym mowa w ust. 1, w zakresie realizacji tych obowiązków sporządza ta organizacja.
 
@@ -3936,7 +3944,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 
 **Art. 237d.**
 
-1. Podmioty, o których mowa w art. 73 i art. 75, obowiązane przed dniem wejścia w życie niniejszej ustawy do sporządzania i składania sprawozdań w zakresie sprzętu elektrycznego i elektronicznego oraz zużytego sprzętu na podstawie art. 24 ust. 1, art. 31 ust. 1, art. 40, art. 51 ust. 1, art. 56 ust. 1 i art. 67 ust. 1 ustawy z dnia 29 lipca 2005 r. o zużytym sprzęcie elektrycznym i elektronicznym oraz wykazu zakładów przetwarzania, o którym mowa w art. 33 ust. 4 tej ustawy, sporządzają i składają je, za rok 2017, stosując przepisy dotychczasowe, z tym że:
+1. Podmioty, o których mowa w art. 73 i art. 75, obowiązane przed dniem wejścia w życie niniejszej ustawy do sporządzania i składania sprawozdań w zakresie sprzętu elektrycznego i elektronicznego oraz zużytego sprzętu – na podstawie art. 24 ust. 1, art. 31 ust. 1, art. 40, art. 51 ust. 1, art. 56 ust. 1 i art. 67 ust. 1 ustawy z dnia 29 lipca 2005 r. o zużytym sprzęcie elektrycznym i elektronicznym oraz wykazu zakładów przetwarzania, o którym mowa w art. 33 ust. 4 tej ustawy, sporządzają i składają je, za rok 2017, stosując przepisy dotychczasowe, z tym że:
 
 - **1)** sprawozdania za okres od dnia 1 stycznia 2017 r. do dnia 30 czerwca 2017 r. i wykaz zakładów przetwarzania za rok 2017 składa się w terminie do dnia 15 marca 2018 r.;
 - **2)** jeżeli obowiązki wprowadzającego sprzęt wykonuje organizacja odzysku sprzętu elektrycznego i elektronicznego, sprawozdanie za rok 2017 sporządzane i składane na podstawie art. 24 ust. 1, art. 31 ust. 1 i art. 67 ust. 1 ustawy z dnia 29 lipca 2005 r. o zużytym sprzęcie elektrycznym i elektronicznym sporządza organizacja odzysku sprzętu elektrycznego i elektronicznego, oddzielnie dla każdego wprowadzającego sprzęt i autoryzowanego przedstawiciela, dla których wykonuje obowiązki, i składa do Głównego Inspektora Ochrony Środowiska;
@@ -4022,7 +4030,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 
 2. Prawa i obowiązki wynikające z decyzji, o których mowa w ust. 1, mogą być przeniesione na inny podmiot, jeżeli podmiot ten daje rękojmię prawidłowego wykonania obowiązków wynikających z tych decyzji i wyrazi zgodę na przejęcie wszystkich praw i obowiązków wynikających z tych decyzji.
 
-3. Organem właściwym w sprawach, o których mowa w ust. 1 i 2, jest marszałek województwa, a w przypadku przedsięwzięć i zdarzeń na terenach zamkniętych regionalny dyrektor ochrony środowiska.
+3. Organem właściwym w sprawach, o których mowa w ust. 1 i 2, jest marszałek województwa, a w przypadku przedsięwzięć i zdarzeń na terenach zamkniętych – regionalny dyrektor ochrony środowiska.
 
 **Art. 245.** Zachowują ważność uzyskane przed dniem wejścia w życie niniejszej ustawy świadectwa stwierdzające kwalifikacje w zakresie gospodarowania odpadami wydane na podstawie art. 49 ustawy, o której mowa w art. 252.
 
@@ -4054,74 +4062,83 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 
 1. W latach 2016–2030 maksymalny limit wydatków ministra właściwego do spraw klimatu będący skutkiem finansowym wejścia w życie niniejszej ustawy wynosi w:
 
-- **1)** 2016 r. 1000 tys. zł;
-- **2)** 2017 r. 636,5 tys. zł;
-- **3)** 2018 r. 1080 tys. zł;
-- **4)** 2019 r. 3436,5 tys. zł;
-- **5)** 2020 r. 2211 tys. zł;
-- **6)** 2021 r. 2079 tys. zł;
-- **7)** 2022 r. 2937 tys. zł;
-- **8)** 2023 r. 2932 tys. zł;
-- **9)** 2024 r. 2932 tys. zł;
-- **10)** 2025 r. 2932 tys. zł;
-- **11)** 2026 r. 2932 tys. zł;
-- **12)** 2027 r. 2932 tys. zł;
-- **13)** 2028 r. 2932 tys. zł;
-- **14)** 2029 r. 2932 tys. zł;
-- **15)** 2030 r. 2932 tys. zł.
+- **1)** 2016 r. – 1000 tys. zł;
+- **2)** 2017 r. – 636,5 tys. zł;
+- **3)** 2018 r. – 1080 tys. zł;
+- **4)** 2019 r. – 3436,5 tys. zł;
+- **5)** 2020 r. – 2211 tys. zł;
+- **6)** 2021 r. – 2079 tys. zł;
+- **7)** 2022 r. – 2937 tys. zł;
+- **8)** 2023 r. – 2932 tys. zł;
+- **9)** 2024 r. – 2932 tys. zł;
+- **10)** 2025 r. – 2932 tys. zł;
+- **11)** 2026 r. – 2932 tys. zł;
+- **12)** 2027 r. – 2932 tys. zł;
+- **13)** 2028 r. – 2932 tys. zł;
+- **14)** 2029 r. – 2932 tys. zł;
+- **15)** 2030 r. – 2932 tys. zł.
 
 1a. W latach 2022–2030 maksymalny limit wydatków ministra właściwego do spraw gospodarki będący skutkiem finansowym wejścia w życie niniejszej ustawy wynosi w:
 
-- **1)** 2022 r. 245 tys. zł;
-- **2)** 2023 r. 244 tys. zł;
-- **3)** 2024 r. 244 tys. zł;
-- **4)** 2025 r. 244 tys. zł;
-- **5)** 2026 r. 244 tys. zł;
-- **6)** 2027 r. 244 tys. zł;
-- **7)** 2028 r. 244 tys. zł;
-- **8)** 2029 r. 244 tys. zł;
-- **9)** 2030 r. 244 tys. zł.
+- **1)** 2022 r. – 245 tys. zł;
+- **2)** 2023 r. – 244 tys. zł;
+- **3)** 2024 r. – 244 tys. zł;
+- **4)** 2025 r. – 244 tys. zł;
+- **5)** 2026 r. – 244 tys. zł;
+- **6)** 2027 r. – 244 tys. zł;
+- **7)** 2028 r. – 244 tys. zł;
+- **8)** 2029 r. – 244 tys. zł;
+- **9)** 2030 r. – 244 tys. zł.
 
 1b. W latach 2022–2030 maksymalny limit wydatków ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa będący skutkiem finansowym wejścia w życie niniejszej ustawy wynosi w:
 
-- **1)** 2022 r. 122 tys. zł;
-- **2)** 2023 r. 122 tys. zł;
-- **3)** 2024 r. 122 tys. zł;
-- **4)** 2025 r. 122 tys. zł;
-- **5)** 2026 r. 122 tys. zł;
-- **6)** 2027 r. 122 tys. zł;
-- **7)** 2028 r. 122 tys. zł;
-- **8)** 2029 r. 122 tys. zł;
-- **9)** 2030 r. 122 tys. zł.
+- **1)** 2022 r. – 122 tys. zł;
+- **2)** 2023 r. – 122 tys. zł;
+- **3)** 2024 r. – 122 tys. zł;
+- **4)** 2025 r. – 122 tys. zł;
+- **5)** 2026 r. – 122 tys. zł;
+- **6)** 2027 r. – 122 tys. zł;
+- **7)** 2028 r. – 122 tys. zł;
+- **8)** 2029 r. – 122 tys. zł;
+- **9)** 2030 r. – 122 tys. zł.
 
-2. W latach 2016–2025 maksymalny limit wydatków budżetów samorządów województw będący skutkiem finansowym wejścia w życie niniejszej ustawy wynosi w:
+2. W latach 2016–2034 maksymalny limit wydatków budżetów samorządów województw będący skutkiem finansowym wejścia w życie niniejszej ustawy wynosi w:
 
-- **1)** 2016 r. 0 zł;
-- **2)** 2017 r. 0 zł;
-- **3)** 2018 r. 0 zł;
-- **4)** 2019 r. 2219 tys. zł;
-- **5)** 2020 r. 2219 tys. zł;
-- **6)** 2021 r. 2219 tys. zł;
-- **7)** 2022 r. 2219 tys. zł;
-- **8)** 2023 r. 2219 tys. zł;
-- **9)** 2024 r. 2219 tys. zł;
-- **10)** 2025 r. 2219 tys. zł.
+- **1)** 2016 r. – 0 zł;
+- **2)** 2017 r. – 0 zł;
+- **3)** 2018 r. – 0 zł;
+- **4)** 2019 r. – 2219 tys. zł;
+- **5)** 2020 r. – 2219 tys. zł;
+- **6)** 2021 r. – 2219 tys. zł;
+- **7)** 2022 r. – 2219 tys. zł;
+- **8)** 2023 r. – 2219 tys. zł;
+- **9)** 2024 r. – 2219 tys. zł;
+- **10)** 2025 r. – 2219 tys. zł;
+- **11)** 2026 r. – 2 219 tys. zł;
+- **12)** 2027 r. – 2 219 tys. zł;
+- **13)** 2028 r. – 2 219 tys. zł;
+- **14)** 2029 r. – 2 219 tys. zł;
+- **15)** 2030 r. – 2 219 tys. zł;
+- **16)** 2031 r. – 2 219 tys. zł;
+- **17)** 2032 r. – 2 219 tys. zł;
+- **18)** 2033 r. – 2 219 tys. zł;
+- **19)** 2034 r. – 2 219 tys. zł.
 
 3. W latach 2016–2028 maksymalny limit wydatków Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej będący skutkiem finansowym wejścia w życie niniejszej ustawy wynosi w:
 
-- **1)** 2016 r. 5500 tys. zł;
-- **2)** 2017 r. 0 zł;
-- **3)** 2018 r. 3250 tys. zł;
-- **4)** 2019 r. 14 624 tys. zł;
-- **5)** 2020 r. 9854 tys. zł;
-- **6)** 2021 r. 12 480 tys. zł;
-- **7)** 2022 r. 12 910 tys. zł;
-- **8)** 2023 r. 12 786 tys. zł;
-- **9)** 2024 r. 13 096 tys. zł;
-- **10)** 2025 r. 1400 tys. zł;
-- **11)** 2026 r. 2200 tys. zł;
-- **12)** 2027 r. 1400 tys. zł;
-- **13)** 2028 r. 1400 tys. zł.
+- **1)** 2016 r. – 5500 tys. zł;
+- **2)** 2017 r. – 0 zł;
+- **3)** 2018 r. – 3250 tys. zł;
+- **4)** 2019 r. – 14 624 tys. zł;
+- **5)** 2020 r. – 9854 tys. zł;
+- **6)** 2021 r. – 12 480 tys. zł;
+- **7)** 2022 r. – 12 910 tys. zł;
+- **8)** 2023 r. – 12 786 tys. zł;
+- **9)** 2024 r. – 13 096 tys. zł;
+- **10)** 2025 r. – 35 165 tys. zł;
+- **11)** 2026 r. – 28 565 tys. zł;
+- **12)** 2027 r. – 30 565 tys. zł;
+- **13)** 2028 r. – 1400 tys. zł.
 
 4. W przypadku przekroczenia lub zagrożenia przekroczenia przyjętego na dany rok budżetowy maksymalnego limitu wydatków, wprowadza się mechanizmy korygujące polegające na ograniczeniu wydatków związanych z funkcjonowaniem BDO.
 
@@ -4142,4 +4159,42 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach
 **Art. 252.** Traci moc ustawa z dnia 27 kwietnia 2001 r. o odpadach (Dz. U. z 2010 r. poz. 1243, z późn. zm. ).
 
 **Art. 253.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia , z wyjątkiem przepisów:
+
+## Załącznik nr 4 — a PRZYKŁADOWE INSTRUMENTY EKONOMICZNE I INNE ŚRODKI, KTÓRE MAJĄ ZACHĘCAĆ DO STOSOWANIA HIERARCHII SPOSOBÓW POSTĘPOWANIA Z ODPADAMI
+
+1. Opłaty za składowanie i spalanie odpadów oraz ograniczenia w stosowaniu tych procesów zachęcające do zapobiegania powstawaniu odpadów i do recyklingu, przy utrzymaniu składowania jako najmniej pożądanej metody gospodarowania odpadami.
+2. Systemy opłat proporcjonalnych do ilości odpadów pobieranych od wytwórców odpadów na podstawie rzeczywistej ilości wytwarzanych odpadów zachęcających do segregowania u źródła odpadów podlegających recyklingowi oraz do zmniejszenia ilości odpadów mieszanych.
+3. Zachęty podatkowe do nieodpłatnego oddawania produktów, zwłaszcza żywności.
+4. Systemy rozszerzonej odpowiedzialności producenta w odniesieniu do różnych rodzajów odpadów oraz środki służące poprawie ich skuteczności, rentowności zarządzania.
+5. Systemy zwrotu kaucji i inne środki zachęcające do wydajnego zbierania zużytych produktów i materiałów.
+6. Należyte planowanie inwestycji w infrastrukturę gospodarowania odpadami, w tym z wykorzystaniem funduszy unijnych.
+7. Zrównoważone zamówienia publiczne zachęcające do lepszego gospodarowania odpadami i wykorzystywania produktów i materiałów pochodzących recyklingu.
+8. Stopniowe znoszenie dopłat niezgodnych z hierarchią postępowania z odpadami.
+9. Stosowanie środków fiskalnych lub innych środków wspierających wykorzystywanie produktów i materiałów przygotowanych do ponownego użycia lub poddanych recyklingowi.
+10. Wspieranie badań i innowacji dotyczących zaawansowanych technologii recyklingu i regeneracji produktów.
+11. Wykorzystanie najlepszych dostępnych technik przetwarzania odpadów.
+12. Zachęty gospodarcze dla organów jednostek samorządu terytorialnego oraz administracji rządowej w województwie, zwłaszcza wspierające zapobieganie powstawaniu odpadów oraz rozbudowę systemów selektywnego zbierania, bez wspierania składowania i spalania.
+13. Publiczne kampanie podnoszenia poziomu świadomości, zwłaszcza dotyczące selektywnego zbierania odpadów, zapobiegania ich powstawaniu i zmniejszania ich ilości, a także uwzględnianie tych zagadnień w edukacji i szkoleniach.
+14. Systemy koordynacji działań wszystkich organów publicznych uczestniczących w gospodarowaniu odpadami, w tym z wykorzystaniem środków elektronicznych.
+15. Wspieranie stałego dialogu i współpracy między wszystkimi zainteresowanymi stronami dotyczących gospodarowania odpadami oraz zachęcanie do zawierania dobrowolnych porozumień i do sporządzania przez przedsiębiorstwa sprawozdań dotyczących odpadów.
+Załącznik nr PRZYKŁADY ŚRODKÓW SŁUŻĄCYCH ZAPOBIEGANIU POWSTAWANIU ODPADÓW Środki, które mogą mieć wpływ na warunki ramowe związane z wytwarzaniem odpadów
+1. Wykorzystanie środków planowania lub innych instrumentów ekonomicznych wspierających efektywne wykorzystanie zasobów.
+2. Promocja badań i rozwoju w obszarze pozyskiwania czystszych i bardziej oszczędnych produktów i technologii oraz upowszechnianie i wykorzystywanie wyników takich badań i rozwoju.
+3. Opracowanie na wszystkich poziomach skutecznych i przydatnych wskaźników presji na środowisko związanej z wytwarzaniem odpadów, przy czym celem tych wskaźników ma być przyczynienie się do zapobiegania powstawaniu odpadów, od porównywania produktów na poziomie Wspólnoty, przez działania podjęte przez władze lokalne, po środki ogólnokrajowe.
+Środki, które mogą mieć wpływ na fazę projektu, produkcji i dystrybucji
+4. Promocja ekoprojektowania (systematycznego uwzględniania aspektów środowiskowych przy projektowaniu produktu z zamiarem poprawienia charakterystyki oddziaływania, jakie dany produkt wywiera na środowisko przez cały cykl życia).
+5. Dostarczanie informacji o technikach zapobiegania powstawaniu odpadów z zamiarem ułatwiania wprowadzania najlepszych dostępnych technik w przemyśle.
+6. Organizacja szkoleń dla właściwych organów w zakresie wprowadzania wymogów dotyczących zapobiegania powstawaniu odpadów do decyzji wydawanych na podstawie ustawy o odpadach i ustawy – Prawo ochrony środowiska.
+7. Objęcie środkami zapobiegania wytwarzaniu odpadów instalacji niepodlegających pozwoleniom zintegrowanym. W odpowiednich przypadkach środki takie mogą zawierać oceny i plany zapobiegania powstawaniu odpadów.
+8. Wykorzystanie kampanii informacyjnych oraz zapewnienie wsparcia finansowego, decyzyjnego i innego rodzaju wsparcia dla przedsiębiorstw. Środki takie będą szczególnie skuteczne, jeżeli będą skierowane i dostosowane do małych i średnich przedsiębiorstw i będą działały przez sieci istniejących powiązań gospodarczych.
+9. Stosowanie dobrowolnych umów, paneli konsumentów i producentów lub negocjacji sektorowych, zmierzających do tego, aby dane przedsiębiorstwa lub sektory przemysłu wyznaczały własne plany lub cele zapobiegania powstawaniu odpadów lub udoskonalały nieoszczędne produkty lub opakowania.
+10. Promocja wiarygodnych systemów zarządzania środowiskiem, w tym EMAS i ISO 14001.
+Środki, które mogą mieć wpływ na fazę konsumpcji i użytkowania
+11. Instrumenty ekonomiczne, takie jak zachęty do czystych zakupów lub wprowadzenie obowiązkowej zapłaty przez konsumentów za dany artykuł lub element opakowania, który w przeciwnym wypadku byłby wydawany bezpłatnie.
+12. Wykorzystanie kampanii informacyjnych i kierowanie informacji do ogółu społeczeństwa lub konkretnej grupy konsumentów.
+13. Promocja wiarygodnego etykietowania ekologicznego.
+14. Porozumienia z sektorem przemysłu, np. dotyczące paneli produktów podobnych do prowadzonych w ramach zintegrowanych polityk produktowych lub umowy z detalistami w sprawie dostępności informacji o zapobieganiu powstawaniu odpadów oraz w sprawie produktów powodujących mniejsze oddziaływanie na środowisko.
+15. W kontekście zamówień publicznych i zaopatrzenia przedsiębiorstw włączanie kryteriów związanych z ochroną środowiska i zapobieganiem powstawaniu odpadów do zaproszeń do składania ofert i kontraktów, zgodnie z Podręcznikiem na temat ekologicznych zamówień publicznych, opublikowanym przez Komisję Europejską 29 października 2004 r.
+16. Propagowanie ponownego użycia lub naprawy wyrzucanych produktów lub ich składników, w szczególności przez stosowanie środków edukacyjnych, ekonomicznych, logistycznych i innych, takich jak wspieranie lub tworzenie akredytowanych sieci napraw i ponownego użycia, zwłaszcza w regionach gęsto zaludnionych.
+WZÓR KARTY PRZEKAZANIA ODPADÓW WZÓR KARTY PRZEKAZANIA ODPADÓW KOMUNALNYCH – WZÓR KARTY PRZEKAZANIA ODPADÓW KOMUNALNYCH – TRYB ODBIORU ODPADÓW WZÓR KARTY EWIDENCJI ODPADÓW WZÓR KARTY EWIDENCJI ZUŻYTEGO SPRZĘTU ELEKTRYCZNEGO WZÓR KARTY EWIDENCJI POJAZDÓW WYCOFANYCH WZÓR KARTY EWIDENCJI ODPADÓW NIEBEZPIECZNYCH Załącznik nr
 

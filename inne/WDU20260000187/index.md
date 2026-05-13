@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 18 lutego 2026 r.
+# o zawodzie psychologa oraz samorządzie zawodowym psychologów
+
+*USTAWA z dnia 23 stycznia 2026 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,9 +25,6 @@ domain: null
 | Data wydania | 2026-02-18 |
 | Ostatnia zmiana | 2026-02-20 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000187) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/187/text.pdf) |
-
-USTAWA z dnia 23 stycznia 2026 r.
-o zawodzie psychologa oraz samorządzie zawodowym psychologów
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -61,7 +60,7 @@ o zawodzie psychologa oraz samorządzie zawodowym psychologów
     - **a)** studia pierwszego stopnia na kierunku psychologia i studia drugiego stopnia na kierunku psychologia oraz uzyskała tytuł zawodowy magistra na tym kierunku albo
     - **b)** jednolite studia magisterskie na kierunku psychologia oraz uzyskała tytuł zawodowy magistra na tym kierunku lub
 
-- **2)** posiada dyplom wydany w państwie innym niż państwo członkowskie Unii Europejskiej, uznany w Rzeczypospolitej Polskiej zgodnie z przepisami ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. ) za równoważny z dyplomem i tytułem zawodowym, o którym mowa w pkt 1, lub
+- **2)** posiada dyplom wydany w państwie innym niż państwo członkowskie Unii Europejskiej, uznany w Rzeczypospolitej Polskiej zgodnie z przepisami ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. ) za równoważny z dyplomem i tytułem zawodowym, o którym mowa w pkt 1, lub
 - **3)** posiada kwalifikacje do wykonywania zawodu psychologa nabyte w państwie członkowskim Unii Europejskiej, uznane w Rzeczypospolitej Polskiej zgodnie z przepisami ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2026 r. poz. 166);
 - **4)** korzysta z pełni praw publicznych oraz posiada pełną zdolność do czynności prawnych;
 - **5)** swoim dotychczasowym zachowaniem daje rękojmię prawidłowego wykonywania zawodu psychologa, w szczególności nie była prawomocnie skazana za przestępstwo umyślne ścigane z oskarżenia publicznego;
@@ -69,8 +68,8 @@ o zawodzie psychologa oraz samorządzie zawodowym psychologów
 
 6. Wymaganie, o którym mowa w ust. 5 pkt 6, uznaje się za spełnione w przypadku:
 
-- **1)** złożenia oświadczenia o znajomości języka polskiego w stopniu niezbędnym do wykonywania zawodu psychologa w przypadku osób będących obywatelami Rzeczypospolitej Polskiej i osób będących obywatelami państwa członkowskiego Unii Europejskiej;
-- **2)** przedstawienia dokumentu potwierdzającego legitymowanie się znajomością języka polskiego co najmniej na poziomie B2 w skali globalnej biegłości językowej według „Common European Framework of Reference for Languages: learning, teaching, assessment (CEFR) Europejski system opisu kształcenia językowego: uczenie się, nauczanie, ocenianie (ESOKJ)” w przypadku cudzoziemców niebędących obywatelami państwa członkowskiego Unii Europejskiej.
+- **1)** złożenia oświadczenia o znajomości języka polskiego w stopniu niezbędnym do wykonywania zawodu psychologa – w przypadku osób będących obywatelami Rzeczypospolitej Polskiej i osób będących obywatelami państwa członkowskiego Unii Europejskiej;
+- **2)** przedstawienia dokumentu potwierdzającego legitymowanie się znajomością języka polskiego co najmniej na poziomie B2 w skali globalnej biegłości językowej według „Common European Framework of Reference for Languages: learning, teaching, assessment (CEFR) – Europejski system opisu kształcenia językowego: uczenie się, nauczanie, ocenianie (ESOKJ)” – w przypadku cudzoziemców niebędących obywatelami państwa członkowskiego Unii Europejskiej.
 
 7. Obowiązek, o którym mowa w ust. 6 pkt 2, uważa się za spełniony, jeżeli osoba ubiegająca się o przyznanie prawa wykonywania zawodu psychologa ukończyła studia w języku polskim lub uzyskała świadectwo dojrzałości po zdaniu egzaminu maturalnego w języku polskim.
 
@@ -82,12 +81,12 @@ o zawodzie psychologa oraz samorządzie zawodowym psychologów
 - **2)** dane osobowe psychologa:
     - **a)** imię (imiona) i nazwisko,
     - **b)** nazwisko rodowe,
-    - **c)** numer PESEL, a w przypadku braku numeru PESEL nazwę i numer dokumentu potwierdzającego tożsamość oraz nazwę państwa, które go wydało,
+    - **c)** numer PESEL, a w przypadku braku numeru PESEL – nazwę i numer dokumentu potwierdzającego tożsamość oraz nazwę państwa, które go wydało,
     - **d)** obywatelstwo,
     - **e)** adres miejsca zamieszkania,
     - **f)** adres do korespondencji,
     - **g)** numer telefonu oraz adres poczty elektronicznej, jeżeli posiada,
-    - **h)** dane dotyczące wykształcenia: nazwę i adres siedziby uczelni, numer i datę wydania dyplomu, tytuł zawodowy;
+    - **h)** dane dotyczące wykształcenia: – nazwę i adres siedziby uczelni, – numer i datę wydania dyplomu, – tytuł zawodowy;
 
 - **3)** informację o dopełnieniu obowiązku ustawicznego rozwoju zawodowego, o którym mowa w art. 29 ust. 1;
 - **4)** datę podjęcia uchwały o skreśleniu psychologa z Rejestru wraz z podaniem przyczyny;
@@ -125,7 +124,7 @@ o zawodzie psychologa oraz samorządzie zawodowym psychologów
 
 - **1)** imię (imiona) i nazwisko;
 - **2)** nazwisko rodowe;
-- **3)** numer PESEL, a w przypadku braku numeru PESEL nazwę i numer dokumentu potwierdzającego tożsamość oraz nazwę państwa, które go wydało;
+- **3)** numer PESEL, a w przypadku braku numeru PESEL – nazwę i numer dokumentu potwierdzającego tożsamość oraz nazwę państwa, które go wydało;
 - **4)** obywatelstwo;
 - **5)** adres miejsca zamieszkania;
 - **6)** adres do korespondencji;
@@ -161,7 +160,7 @@ o zawodzie psychologa oraz samorządzie zawodowym psychologów
 - **2)** tłumacza przysięgłego uprawnionego do dokonywania takich tłumaczeń w państwach członkowskich Unii Europejskiej lub Europejskiego Obszaru Gospodarczego (EOG);
 - **3)** konsula.
 
-6. Do dokumentów, o których mowa w ust. 5 pkt 3, stosuje się art. 31 ust. 2 ustawy z dnia 28 listopada 2014 r. Prawo o aktach stanu cywilnego (Dz. U. z 2025 r. poz. 594 i 1006).
+6. Do dokumentów, o których mowa w ust. 5 pkt 3, stosuje się art. 31 ust. 2 ustawy z dnia 28 listopada 2014 r. – Prawo o aktach stanu cywilnego (Dz. U. z 2025 r. poz. 594 i 1006).
 
 **Art. 10.** Jeżeli wniosek o wpis do Rejestru nie spełnia wymagań, o których mowa w art. 8 lub art. 9, regionalna rada wzywa osobę ubiegającą się o przyznanie prawa wykonywania zawodu psychologa do uzupełnienia lub poprawienia wniosku w terminie 30 dni od dnia doręczenia wezwania, z pouczeniem, że nieusunięcie tych braków spowoduje pozostawienie wniosku bez rozpoznania.
 
@@ -184,7 +183,7 @@ o zawodzie psychologa oraz samorządzie zawodowym psychologów
 
 6. Od ostatecznej uchwały w sprawie wpisu do Rejestru i odmowy wpisu do Rejestru służy osobie ubiegającej się o przyznanie prawa wykonywania zawodu psychologa skarga do sądu administracyjnego. Skargę do sądu administracyjnego może wnieść także minister właściwy do spraw pracy.
 
-7. W sprawach ostatecznej uchwały w sprawie wpisu do Rejestru i odmowy wpisu do Rejestru minister właściwy do spraw pracy może wziąć udział w toczącym się postępowaniu sądowoadministracyjnym na prawach przysługujących prokuratorowi. Przepis art. 8 § 1 ustawy z dnia 30 sierpnia 2002 r. Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2026 r. poz. 143) stosuje się odpowiednio.
+7. W sprawach ostatecznej uchwały w sprawie wpisu do Rejestru i odmowy wpisu do Rejestru minister właściwy do spraw pracy może wziąć udział w toczącym się postępowaniu sądowoadministracyjnym na prawach przysługujących prokuratorowi. Przepis art. 8 § 1 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2026 r. poz. 143) stosuje się odpowiednio.
 
 **Art. 13.**
 
@@ -193,7 +192,7 @@ o zawodzie psychologa oraz samorządzie zawodowym psychologów
 2. Wniosek o:
 
 - **1)** zmianę danych objętych wnioskiem o wpis do Rejestru,
-- **2)** skreślenie z Rejestru nie podlega opłacie.
+- **2)** skreślenie z Rejestru – nie podlega opłacie.
 
 3. Regionalna rada wydaje zaświadczenie o wpisie do Rejestru. Za wydanie zaświadczenia regionalna rada pobiera opłatę w wysokości 50 zł.
 
@@ -240,7 +239,7 @@ o zawodzie psychologa oraz samorządzie zawodowym psychologów
 
 5. Od uchwały regionalnej rady, o której mowa w ust. 4, psychologowi służy odwołanie do Krajowej Rady. Przepisy art. 12 ust. 3–7 stosuje się odpowiednio.
 
-**Art. 15.** Do uchwał regionalnej rady i Krajowej Rady w sprawie wpisu do Rejestru, odmowy wpisu do Rejestru, skreślenia psychologa z Rejestru oraz o trwałej niezdolności psychologa do wykonywania zawodu stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2025 r. poz. 1691) dotyczące decyzji administracyjnej.
+**Art. 15.** Do uchwał regionalnej rady i Krajowej Rady w sprawie wpisu do Rejestru, odmowy wpisu do Rejestru, skreślenia psychologa z Rejestru oraz o trwałej niezdolności psychologa do wykonywania zawodu stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2025 r. poz. 1691) dotyczące decyzji administracyjnej.
 
 **Art. 16.**
 
@@ -302,7 +301,7 @@ o zawodzie psychologa oraz samorządzie zawodowym psychologów
 
 3. Wskazany przez regionalną radę opiekun ma obowiązek podjęcia współpracy z psychologiem.
 
-4. Psycholog może być jednocześnie opiekunem niewięcej niż 3 psychologów, a w szczególnie uzasadnionych przypadkach na jego wniosek i za zgodą regionalnej rady większej liczby.
+4. Psycholog może być jednocześnie opiekunem niewięcej niż 3 psychologów, a w szczególnie uzasadnionych przypadkach – na jego wniosek i za zgodą regionalnej rady – większej liczby.
 
 **Art. 19.**
 
@@ -413,7 +412,7 @@ o zawodzie psychologa oraz samorządzie zawodowym psychologów
 - **1)** diagnoza psychologiczna polegająca na rozpoznawaniu za pomocą metod psychologicznych, opartych na dowodach naukowych, właściwości funkcjonowania psychologicznego odbiorcy świadczeń psychologicznych oraz ich psychologicznych przyczyn i skutków,
 - **2)** opiniowanie psychologiczne polegające na opisie aktualnego funkcjonowania psychologicznego odbiorcy świadczeń psychologicznych, sporządzonym pisemnie na podstawie przeprowadzonego badania psychologicznego,
 - **3)** orzekanie psychologiczne na podstawie odrębnych przepisów polegające na formułowaniu pisemnej diagnozy psychologicznej o aktualnym funkcjonowaniu odbiorcy świadczeń psychologicznych,
-- **4)** udzielanie pomocy psychologicznej polegającej na stosowaniu form oddziaływania psychologicznego ukierunkowanych na rozwój, podnoszenie jakości życia, profilaktykę, zachowanie i przywracanie zdrowia psychicznego, zapobieganie, zmniejszanie i usuwanie nieprawidłowości dotyczących zdrowia psychicznego odbiorcy świadczeń psychologicznych oraz wsparcie w sytuacji doświadczenia kryzysu, traumy lub stresu zwane dalej „świadczeniami psychologicznymi”.
+- **4)** udzielanie pomocy psychologicznej polegającej na stosowaniu form oddziaływania psychologicznego ukierunkowanych na rozwój, podnoszenie jakości życia, profilaktykę, zachowanie i przywracanie zdrowia psychicznego, zapobieganie, zmniejszanie i usuwanie nieprawidłowości dotyczących zdrowia psychicznego odbiorcy świadczeń psychologicznych oraz wsparcie w sytuacji doświadczenia kryzysu, traumy lub stresu – zwane dalej „świadczeniami psychologicznymi”.
 
 3. Zastrzeżenie udzielania świadczeń psychologicznych, o których mowa w ust. 2 pkt 4, przez psychologa nie ogranicza prawa do podejmowania poszczególnych działań mieszczących się w zakresie udzielania pomocy psychologicznej przez osoby, które nie posiadają prawa wykonywania zawodu psychologa, jeżeli są one realizowane w związku z wykonywaniem zadań określonych w odrębnych przepisach.
 
@@ -423,7 +422,7 @@ o zawodzie psychologa oraz samorządzie zawodowym psychologów
 
 6. Psycholog posiadający tytuł specjalisty w dziedzinie mającej zastosowanie w ochronie zdrowia uzyskany na podstawie ustawy z dnia 24 lutego 2017 r. o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia (Dz. U. z 2025 r. poz. 342) uzyskuje kompetencje i kwalifikacje niezbędne do udzielania świadczeń zdrowotnych w zakresie wiedzy i umiejętności określonych w programie specjalizacji i jest osobą wykonującą zawód medyczny w rozumieniu art. 2 ust. 1 pkt 2 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2026 r. poz. 156).
 
-7. Psycholog podczas udzielania świadczeń psychologicznych oraz w związku z ich udzielaniem korzysta z ochrony przewidzianej dla funkcjonariuszy publicznych na zasadach określonych w ustawie z dnia 6 czerwca 1997 r. Kodeks karny (Dz. U. z 2025 r. poz. 383, 1818 i 1872).
+7. Psycholog podczas udzielania świadczeń psychologicznych oraz w związku z ich udzielaniem korzysta z ochrony przewidzianej dla funkcjonariuszy publicznych na zasadach określonych w ustawie z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2025 r. poz. 383, 1818 i 1872).
 
 **Art. 24.** Za wykonywanie zawodu psychologa uważa się również:
 
@@ -431,7 +430,7 @@ o zawodzie psychologa oraz samorządzie zawodowym psychologów
 
 1. Podjęcie i wykonywanie świadczeń psychologicznych następuje za zgodą odbiorcy świadczeń psychologicznych, po uprzednim poinformowaniu go o jego prawach określonych w ustawie oraz celu i zakresie planowanych świadczeń psychologicznych.
 
-2. Jeżeli odrębne przepisy nie stanowią inaczej, w przypadku gdy odbiorcą świadczeń psychologicznych jest małoletni lub osoba ubezwłasnowolniona, zgodę wyraża jego przedstawiciel ustawowy, a w sytuacji braku przedstawiciela ustawowego opiekun faktyczny, po otrzymaniu informacji o prawach odbiorcy świadczeń psychologicznych określonych w ustawie oraz celu i zakresie planowanych świadczeń psychologicznych.
+2. Jeżeli odrębne przepisy nie stanowią inaczej, w przypadku gdy odbiorcą świadczeń psychologicznych jest małoletni lub osoba ubezwłasnowolniona, zgodę wyraża jego przedstawiciel ustawowy, a w sytuacji braku przedstawiciela ustawowego – opiekun faktyczny, po otrzymaniu informacji o prawach odbiorcy świadczeń psychologicznych określonych w ustawie oraz celu i zakresie planowanych świadczeń psychologicznych.
 
 3. Jeżeli odbiorca świadczeń psychologicznych ukończył 16 lat, dla podjęcia i wykonywania świadczeń psychologicznych wymagana jest także jego zgoda, po uprzednim udzieleniu informacji o jego prawach określonych w ustawie oraz celu i zakresie planowanych świadczeń psychologicznych.
 
@@ -474,9 +473,9 @@ o zawodzie psychologa oraz samorządzie zawodowym psychologów
 - **1)** wynika to z odrębnych przepisów;
 - **2)** zachowanie tajemnicy może stanowić niebezpieczeństwo dla życia lub zdrowia odbiorcy świadczeń psychologicznych lub innych osób;
 - **3)** zachodzi potrzeba, wyłącznie w celu udzielenia dalszych świadczeń psychologicznych, przekazania osobie, o której mowa w art. 26 ust. 7, niezbędnych informacji o odbiorcy świadczeń psychologicznych związanych z udzielanym świadczeniem psychologicznym, po uprzednim uzyskaniu na to zgody odbiorcy świadczeń psychologicznych lub jego przedstawiciela ustawowego;
-- **4)** świadczenie psychologiczne zostało wykonane na zlecenie podmiotu uprawnionego na podstawie odrębnych przepisów wyłącznie w odniesieniu do tego podmiotu;
+- **4)** świadczenie psychologiczne zostało wykonane na zlecenie podmiotu uprawnionego na podstawie odrębnych przepisów – wyłącznie w odniesieniu do tego podmiotu;
 - **5)** odbiorca świadczeń psychologicznych lub jego przedstawiciel ustawowy wyrazi pisemną zgodę na ujawnienie tajemnicy, po uprzednim poinformowaniu o skutkach jej ujawnienia, chyba że dobro odbiorcy świadczeń psychologicznych jest zagrożone, a zgodę na ujawnienie tajemnicy wyraził wyłącznie przedstawiciel ustawowy;
-- **6)** psycholog składa zeznania i wyjaśnienia w trakcie postępowania w przedmiocie odpowiedzialności dyscyplinarnej psychologów w zakresie okoliczności objętych postępowaniem.
+- **6)** psycholog składa zeznania i wyjaśnienia w trakcie postępowania w przedmiocie odpowiedzialności dyscyplinarnej psychologów – w zakresie okoliczności objętych postępowaniem.
 
 3. W przypadku gdy świadczenie psychologiczne jest udzielane jednocześnie więcej niż jednemu odbiorcy świadczeń psychologicznych, pisemna zgoda na ujawnienie tajemnicy jest wymagana od wszystkich odbiorców tego świadczenia psychologicznego.
 
@@ -486,7 +485,7 @@ o zawodzie psychologa oraz samorządzie zawodowym psychologów
 
 6. Zwolnienia z tajemnicy, o którym mowa w ust. 5, nie stosuje się, jeżeli ujawnieniu tajemnicy sprzeciwiła się inna osoba bliska lub za życia sprzeciwił się temu odbiorca świadczeń psychologicznych. Sprzeciw dołącza się do dokumentacji psychologicznej odbiorcy świadczeń psychologicznych.
 
-7. W przypadku sporu między osobami bliskimi o ujawnienie tajemnicy lub o zakres jej ujawnienia zgodę na ujawnienie tajemnicy wyraża sąd, o którym mowa w art. 628 ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568, z późn. zm. ), w postępowaniu nieprocesowym na wniosek osoby bliskiej lub psychologa. Psycholog może wystąpić z wnioskiem do sądu także w przypadku uzasadnionych wątpliwości, czy osoba występująca o ujawnienie tajemnicy lub sprzeciwiająca się jej ujawnieniu jest osobą bliską. Sąd, wyrażając zgodę na ujawnienie tajemnicy, może określić zakres jej ujawnienia.
+7. W przypadku sporu między osobami bliskimi o ujawnienie tajemnicy lub o zakres jej ujawnienia zgodę na ujawnienie tajemnicy wyraża sąd, o którym mowa w art. 628 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568, z późn. zm. ), w postępowaniu nieprocesowym na wniosek osoby bliskiej lub psychologa. Psycholog może wystąpić z wnioskiem do sądu także w przypadku uzasadnionych wątpliwości, czy osoba występująca o ujawnienie tajemnicy lub sprzeciwiająca się jej ujawnieniu jest osobą bliską. Sąd, wyrażając zgodę na ujawnienie tajemnicy, może określić zakres jej ujawnienia.
 
 **Art. 28.**
 
@@ -498,8 +497,8 @@ o zawodzie psychologa oraz samorządzie zawodowym psychologów
     - **a)** imię (imiona) i nazwisko,
     - **b)** datę urodzenia,
     - **c)** adres miejsca zamieszkania,
-    - **d)** numer PESEL, a w przypadku braku numeru PESEL nazwę i numer dokumentu potwierdzającego tożsamość oraz nazwę państwa, które go wydało,
-    - **e)** w przypadku gdy odbiorcą świadczeń psychologicznych jest małoletni imiona i nazwiska przedstawicieli ustawowych oraz adresy ich miejsc zamieszkania, a w przypadku gdy odbiorcą świadczeń psychologicznych jest osoba ubezwłasnowolniona imię (imiona) i nazwisko przedstawiciela ustawowego oraz adres jego miejsca zamieszkania;
+    - **d)** numer PESEL, a w przypadku braku numeru PESEL – nazwę i numer dokumentu potwierdzającego tożsamość oraz nazwę państwa, które go wydało,
+    - **e)** w przypadku gdy odbiorcą świadczeń psychologicznych jest małoletni – imiona i nazwiska przedstawicieli ustawowych oraz adresy ich miejsc zamieszkania, a w przypadku gdy odbiorcą świadczeń psychologicznych jest osoba ubezwłasnowolniona – imię (imiona) i nazwisko przedstawiciela ustawowego oraz adres jego miejsca zamieszkania;
 
 - **2)** oznaczenie psychologa udzielającego świadczeń psychologicznych obejmujące jego imię (imiona) i nazwisko oraz numer wpisu do Rejestru;
 - **3)** nazwę i adres siedziby podmiotu, w którym udzielono świadczeń psychologicznych;
@@ -673,7 +672,7 @@ o zawodzie psychologa oraz samorządzie zawodowym psychologów
 
 3. Minister właściwy do spraw pracy może zwrócić się do Krajowego Zjazdu, regionalnego zjazdu, Krajowej Rady lub regionalnej rady z wnioskiem o podjęcie uchwały w sprawie należącej do właściwości samorządu psychologów.
 
-4. Wniosek, o którym mowa w ust. 3, rozpatruje najbliższy Krajowy Zjazd albo regionalny zjazd, a Krajowa Rada albo regionalna rada w terminie 30 dni od dnia jego doręczenia.
+4. Wniosek, o którym mowa w ust. 3, rozpatruje najbliższy Krajowy Zjazd albo regionalny zjazd, a Krajowa Rada albo regionalna rada – w terminie 30 dni od dnia jego doręczenia.
 
 5. Przepisów ust. 1–3 nie stosuje się do uchwał w sprawie wpisu do Rejestru, odmowy wpisu do Rejestru oraz skreślenia psychologa z Rejestru.
 
@@ -762,7 +761,7 @@ o zawodzie psychologa oraz samorządzie zawodowym psychologów
 - **1)** datę, godzinę i miejsce Krajowego Zjazdu oraz porządek obrad;
 - **2)** sposób i czas trwania rejestracji uczestnictwa w Krajowym Zjeździe.
 
-3. Ogłoszenie o Krajowym Zjeździe jest wysyłane delegatom na wskazane przez nich adresy poczty elektronicznej. W szczególnie uzasadnionych przypadkach ogłoszenie może być przesłane listem poleconym za pośrednictwem operatora wyznaczonego w rozumieniu art. 3 pkt 13 ustawy z dnia 23 listopada 2012 r. Prawo pocztowe (Dz. U. z 2025 r. poz. 366, 820 i 1456) na adres do korespondencji wskazany przez delegata zgodnie z art. 5 ust. 9 pkt 2 lit. f.
+3. Ogłoszenie o Krajowym Zjeździe jest wysyłane delegatom na wskazane przez nich adresy poczty elektronicznej. W szczególnie uzasadnionych przypadkach ogłoszenie może być przesłane listem poleconym za pośrednictwem operatora wyznaczonego w rozumieniu art. 3 pkt 13 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2025 r. poz. 366, 820 i 1456) na adres do korespondencji wskazany przez delegata zgodnie z art. 5 ust. 9 pkt 2 lit. f.
 
 4. Prawo uczestnictwa w Krajowym Zjeździe mają delegaci będący członkami samorządu psychologów w dniu rejestracji uczestnictwa w Krajowym Zjeździe.
 
@@ -775,7 +774,7 @@ o zawodzie psychologa oraz samorządzie zawodowym psychologów
 - **1)** Krajowej Komisji Rewizyjnej,
 - **2)** co najmniej jednej regionalnej rady,
 - **3)** ministra właściwego do spraw pracy,
-- **4)** co najmniej 1000 członków samorządu psychologów wskazujący proponowany porządek obrad lub konieczność podjęcia określonej uchwały wraz z jej projektem.
+- **4)** co najmniej 1000 członków samorządu psychologów – wskazujący proponowany porządek obrad lub konieczność podjęcia określonej uchwały wraz z jej projektem.
 
 2. Nadzwyczajny Krajowy Zjazd zwołuje się w terminie 30 dni od dnia doręczenia wniosku, o którym mowa w ust. 1.
 
@@ -876,7 +875,7 @@ o zawodzie psychologa oraz samorządzie zawodowym psychologów
 
 - **1)** regionalnej komisji rewizyjnej,
 - **2)** co najmniej 10 % członków regionalnej izby,
-- **3)** ministra właściwego do spraw pracy wskazujący proponowany porządek obrad lub konieczność podjęcia określonej uchwały wraz z jej projektem.
+- **3)** ministra właściwego do spraw pracy – wskazujący proponowany porządek obrad lub konieczność podjęcia określonej uchwały wraz z jej projektem.
 
 2. Nadzwyczajny regionalny zjazd zwołuje się niezwłocznie, niepóźniej jednak niż w terminie 30 dni od dnia doręczenia wniosku, o którym mowa w ust. 1.
 
@@ -963,7 +962,7 @@ o zawodzie psychologa oraz samorządzie zawodowym psychologów
 
 2. Celem czynności sprawdzających jest wstępne zbadanie okoliczności koniecznych do ustalenia, czy istnieją podstawy do wszczęcia postępowania wyjaśniającego. W trakcie czynności sprawdzających nie przeprowadza się dowodu z opinii biegłego ani czynności wymagających spisania protokołu, z wyjątkiem możliwości przesłuchania w charakterze świadka osoby składającej skargę na psychologa.
 
-3. Celem postępowania wyjaśniającego jest ustalenie, czy został popełniony czyn mogący stanowić przewinienie dyscyplinarne, wyjaśnienie okoliczności sprawy, a w przypadku stwierdzenia znamion przewinienia dyscyplinarnego ustalenie obwinionego oraz zebranie, zabezpieczenie i w niezbędnym zakresie utrwalenie dowodów dla sądu dyscyplinarnego.
+3. Celem postępowania wyjaśniającego jest ustalenie, czy został popełniony czyn mogący stanowić przewinienie dyscyplinarne, wyjaśnienie okoliczności sprawy, a w przypadku stwierdzenia znamion przewinienia dyscyplinarnego – ustalenie obwinionego oraz zebranie, zabezpieczenie i w niezbędnym zakresie utrwalenie dowodów dla sądu dyscyplinarnego.
 
 **Art. 67.**
 
@@ -1064,7 +1063,7 @@ o zawodzie psychologa oraz samorządzie zawodowym psychologów
 
 **Art. 79.**
 
-1. Pokrzywdzonemu przysługuje zażalenie na postanowienie o odmowie wszczęcia postępowania wyjaśniającego, a stronom na postanowienie o jego umorzeniu. Uprawnionym do złożenia zażalenia przysługuje prawo wglądu do akt sprawy.
+1. Pokrzywdzonemu przysługuje zażalenie na postanowienie o odmowie wszczęcia postępowania wyjaśniającego, a stronom – na postanowienie o jego umorzeniu. Uprawnionym do złożenia zażalenia przysługuje prawo wglądu do akt sprawy.
 
 2. Zażalenie wnosi się do właściwego regionalnego sądu dyscyplinarnego, a w przypadku gdy postanowienie, o którym mowa w ust. 1, wydał Krajowy Rzecznik Dyscyplinarny, zażalenie wnosi się do Krajowego Sądu Dyscyplinarnego, w terminie 14 dni od dnia otrzymania odpisu postanowienia. Zażalenie wnosi się za pośrednictwem rzecznika dyscyplinarnego, który wydał zaskarżone postanowienie.
 
@@ -1168,7 +1167,7 @@ o zawodzie psychologa oraz samorządzie zawodowym psychologów
 
 **Art. 89.**
 
-1. W przypadku gdy przewinienie dyscyplinarne objęte jednym postępowaniem popełniło dwóch lub więcej obwinionych wpisanych do Rejestru w różnych regionalnych izbach, właściwy jest regionalny sąd dyscyplinarny, w którego okręgu popełniono przewinienie dyscyplinarne, a jeżeli miejsca tego ustalić nie można sąd dyscyplinarny regionalnej izby, w której wszczęto najpierw postępowanie w przedmiocie odpowiedzialności dyscyplinarnej psychologów.
+1. W przypadku gdy przewinienie dyscyplinarne objęte jednym postępowaniem popełniło dwóch lub więcej obwinionych wpisanych do Rejestru w różnych regionalnych izbach, właściwy jest regionalny sąd dyscyplinarny, w którego okręgu popełniono przewinienie dyscyplinarne, a jeżeli miejsca tego ustalić nie można – sąd dyscyplinarny regionalnej izby, w której wszczęto najpierw postępowanie w przedmiocie odpowiedzialności dyscyplinarnej psychologów.
 
 2. Spory o właściwość miejscową, jeżeli ustalenie właściwości zgodnie z ust. 1 jest niemożliwe, rozstrzyga Krajowy Sąd Dyscyplinarny.
 
@@ -1198,7 +1197,7 @@ o zawodzie psychologa oraz samorządzie zawodowym psychologów
 
 **Art. 93.**
 
-1. W przypadku stwierdzenia po rozpoczęciu przewodu sądowego okoliczności wskazujących, że postępowanie w przedmiocie odpowiedzialności dyscyplinarnej psychologów nie powinno być wszczęte albo wszczęte postępowanie powinno zostać umorzone, sąd dyscyplinarny umarza postępowanie. W przypadku ujawnienia okoliczności, o których mowa w art. 75 pkt 1 albo 2, sąd dyscyplinarny wydaje orzeczenie uniewinniające obwinionego, a jeżeli obwiniony w chwili popełnienia czynu był niepoczytalny umarza postępowanie.
+1. W przypadku stwierdzenia po rozpoczęciu przewodu sądowego okoliczności wskazujących, że postępowanie w przedmiocie odpowiedzialności dyscyplinarnej psychologów nie powinno być wszczęte albo wszczęte postępowanie powinno zostać umorzone, sąd dyscyplinarny umarza postępowanie. W przypadku ujawnienia okoliczności, o których mowa w art. 75 pkt 1 albo 2, sąd dyscyplinarny wydaje orzeczenie uniewinniające obwinionego, a jeżeli obwiniony w chwili popełnienia czynu był niepoczytalny – umarza postępowanie.
 
 2. Sąd dyscyplinarny może umorzyć postępowanie w przedmiocie odpowiedzialności dyscyplinarnej psychologów, jeżeli przewinienie dyscyplinarne jest mniejszej wagi albo orzeczenie wobec obwinionego kary byłoby oczywiście niecelowe ze względu na rodzaj i wysokość kary prawomocnie orzeczonej za ten sam czyn w innym postępowaniu przewidzianym przez ustawy, a interes pokrzywdzonego temu się nie sprzeciwia.
 
@@ -1289,7 +1288,7 @@ o zawodzie psychologa oraz samorządzie zawodowym psychologów
 - **6)** rozstrzygnięcie sądu dyscyplinarnego;
 - **7)** uzasadnienie;
 - **8)** dokładne określenie przypisanego obwinionemu czynu oraz jego kwalifikację prawną;
-- **9)** rozstrzygnięcie co do kary, a w razie potrzeby co do zaliczenia na jej poczet tymczasowego zawieszenia w prawie wykonywania zawodu psychologa.
+- **9)** rozstrzygnięcie co do kary, a w razie potrzeby – co do zaliczenia na jej poczet tymczasowego zawieszenia w prawie wykonywania zawodu psychologa.
 
 2. Uzasadnienie zawiera:
 
@@ -1318,7 +1317,7 @@ o zawodzie psychologa oraz samorządzie zawodowym psychologów
 
 2. Odwołanie wnosi się za pośrednictwem regionalnego sądu dyscyplinarnego, który wydał zaskarżone orzeczenie.
 
-3. Cofnięcie odwołania przez składającą je stronę przed rozpoczęciem rozprawy odwoławczej wiąże Krajowy Sąd Dyscyplinarny, który pozostawia odwołanie bez rozpoznania, o ile nie zachodzą przesłanki z art. 439 § 1 pkt 1 i 2 oraz 5–10 ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego (Dz. U. z 2025 r. poz. 46, 304, 1178, 1420 i 1872).
+3. Cofnięcie odwołania przez składającą je stronę przed rozpoczęciem rozprawy odwoławczej wiąże Krajowy Sąd Dyscyplinarny, który pozostawia odwołanie bez rozpoznania, o ile nie zachodzą przesłanki z art. 439 § 1 pkt 1 i 2 oraz 5–10 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2025 r. poz. 46, 304, 1178, 1420 i 1872).
 
 **Art. 104.**
 
@@ -1344,7 +1343,7 @@ o zawodzie psychologa oraz samorządzie zawodowym psychologów
 
 2. Kasację w stosunku do tego samego obwinionego i od tego samego orzeczenia każdy uprawniony może wnieść tylko raz.
 
-**Art. 108.** Kasacja może być wniesiona z powodu uchybień wymienionych w art. 439 § 1 ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego lub innego rażącego naruszenia prawa. Kasacja może być wniesiona również z powodu niewspółmierności kary.
+**Art. 108.** Kasacja może być wniesiona z powodu uchybień wymienionych w art. 439 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego lub innego rażącego naruszenia prawa. Kasacja może być wniesiona również z powodu niewspółmierności kary.
 
 **Art. 109.** Strony, minister właściwy do spraw pracy i Prezes Krajowej Rady wnoszą kasację do Sądu Najwyższego za pośrednictwem Krajowego Sądu Dyscyplinarnego.
 
@@ -1363,7 +1362,7 @@ o zawodzie psychologa oraz samorządzie zawodowym psychologów
     - **a)** obwiniony nie popełnił czynu albo jego czyn nie stanowił przewinienia dyscyplinarnego lub nie podlegał karze,
     - **b)** sąd dyscyplinarny umorzył postępowanie, błędnie przyjmując, że obwiniony popełnił zarzucany mu czyn.
 
-2. Czyn, o którym mowa w ust. 1 pkt 1, musi być ustalony prawomocnym wyrokiem skazującym, chyba że orzeczenie takie nie może zapaść z przyczyn wymienionych w art. 17 § 1 pkt 4–11 lub art. 22 § 1 ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego.
+2. Czyn, o którym mowa w ust. 1 pkt 1, musi być ustalony prawomocnym wyrokiem skazującym, chyba że orzeczenie takie nie może zapaść z przyczyn wymienionych w art. 17 § 1 pkt 4–11 lub art. 22 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego.
 
 **Art. 112.** Postępowanie przed sądem dyscyplinarnym zakończone prawomocnym orzeczeniem można wznowić w przypadku uchylenia lub istotnej zmiany treści prawomocnego wyroku lub orzeczenia, z powodu którego to postępowanie zostało umorzone.
 
@@ -1371,7 +1370,7 @@ o zawodzie psychologa oraz samorządzie zawodowym psychologów
 
 1. Wznowienie postępowania może nastąpić na wniosek strony lub z urzędu.
 
-2. Postępowanie wznawia się z urzędu tylko w przypadku ujawnienia się jednego z uchybień wymienionych w art. 439 § 1 ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego.
+2. Postępowanie wznawia się z urzędu tylko w przypadku ujawnienia się jednego z uchybień wymienionych w art. 439 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego.
 
 3. Wznowienie postępowania nie może nastąpić z przyczyn, o których mowa w ust. 2, jeżeli były one przedmiotem rozpoznania w trybie kasacji.
 
@@ -1438,15 +1437,15 @@ o zawodzie psychologa oraz samorządzie zawodowym psychologów
 - **8)** adnotację o postanowieniu wydanym w trybie art. 87;
 - **9)** datę zatarcia kary dyscyplinarnej.
 
-3. Dane, o których mowa w ust. 2, są udostępniane na wniosek sądu, organów ścigania lub organów administracji rządowej w zakresie niezbędnym do realizacji zadań ustawowych.
+3. Dane, o których mowa w ust. 2, są udostępniane na wniosek sądu, organów ścigania lub organów administracji rządowej – w zakresie niezbędnym do realizacji zadań ustawowych.
 
 **Art. 123.**
 
 1. Zatarcie kary dyscyplinarnej następuje z urzędu, w przypadku ukarania karą określoną w:
 
-- **1)** art. 94 ust. 1 pkt 1–3 po upływie 3 lat,
-- **2)** art. 94 ust. 1 pkt 4 po upływie 5 lat,
-- **3)** art. 94 ust. 1 pkt 5 po upływie 10 lat od dnia ich wykonania, jeżeli w tym okresie osoba ukarana nie została ponownie ukarana dyscyplinarnie.
+- **1)** art. 94 ust. 1 pkt 1–3 – po upływie 3 lat,
+- **2)** art. 94 ust. 1 pkt 4 – po upływie 5 lat,
+- **3)** art. 94 ust. 1 pkt 5 – po upływie 10 lat – od dnia ich wykonania, jeżeli w tym okresie osoba ukarana nie została ponownie ukarana dyscyplinarnie.
 
 2. Zatarcie kary dyscyplinarnej, o której mowa w art. 94 ust. 1 pkt 6, następuje z urzędu po upływie 15 lat od dnia uprawomocnienia się orzeczenia o ukaraniu, jeżeli w tym okresie ukarany nie został ponownie ukarany dyscyplinarnie.
 
@@ -1476,13 +1475,13 @@ o zawodzie psychologa oraz samorządzie zawodowym psychologów
 
 **Art. 129.**
 
-1. Orzekanie w sprawach o czyny, o których mowa w art. 126 i art. 128, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2025 r. poz. 860, 1178, 1661, 1814, 1818 i 1872).
+1. Orzekanie w sprawach o czyny, o których mowa w art. 126 i art. 128, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2025 r. poz. 860, 1178, 1661, 1814, 1818 i 1872).
 
-2. Orzekanie w sprawach o czyny, o których mowa w art. 127, następuje w trybie przepisów ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego.
+2. Orzekanie w sprawach o czyny, o których mowa w art. 127, następuje w trybie przepisów ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego.
 
 #### Rozdział 7 Zmiany w przepisach
 
-**Art. 130.** W ustawie z dnia 26 stycznia 1982 r. Karta Nauczyciela (Dz. U. z 2024 r. poz. 986, z późn. zm. ) wprowadza się następujące zmiany:
+**Art. 130.** W ustawie z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2024 r. poz. 986, z późn. zm. ) wprowadza się następujące zmiany:
 
 **Art. 131.** W ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2025 r. poz. 636, 718 i 1366) wprowadza się następujące zmiany:
 
@@ -1490,7 +1489,7 @@ o zawodzie psychologa oraz samorządzie zawodowym psychologów
 
 **Art. 133.** W ustawie z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego (Dz. U. z 2024 r. poz. 917) w art. 5 w ust. 3:
 
-**Art. 134.** W ustawie z dnia 6 czerwca 1997 r. Kodeks postępowania karnego (Dz. U. z 2025 r. poz. 46, 304, 1178, 1420 i 1872) w art. 180 w § 2 w zdaniu pierwszym po wyrazach „doradcy podatkowego,” dodaje się wyrazy „psychologa,”.
+**Art. 134.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2025 r. poz. 46, 304, 1178, 1420 i 1872) w art. 180 w § 2 w zdaniu pierwszym po wyrazach „doradcy podatkowego,” dodaje się wyrazy „psychologa,”.
 
 **Art. 135.** W ustawie z dnia 27 czerwca 1997 r. o służbie medycyny pracy (Dz. U. z 2022 r. poz. 437) w art. 18 w ust. 3 pkt 3 otrzymuje brzmienie: „3) regionalnego rzecznika dyscyplinarnego o wszczęcie postępowania dyscyplinarnego, o którym mowa w art. 64 ustawy z dnia 23 stycznia 2026 r. o zawodzie psychologa oraz samorządzie zawodowym psychologów (Dz. U. poz. 187).”.
 
@@ -1498,7 +1497,7 @@ o zawodzie psychologa oraz samorządzie zawodowym psychologów
 
 **Art. 137.** W ustawie z dnia 21 maja 1999 r. o broni i amunicji (Dz. U. z 2024 r. poz. 485 oraz z 2025 r. poz. 1795) w art. 15c w ust. 1 pkt 1 otrzymuje brzmienie: „1) prawo wykonywania zawodu psychologa, o którym mowa w art. 5 ust. 1 ustawy z dnia 23 stycznia 2026 r. o zawodzie psychologa oraz samorządzie zawodowym psychologów (Dz. U. poz. 187),”.
 
-**Art. 138.** W ustawie z dnia 15 września 2000 r. Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96 oraz z 2026 r. poz. 176) art. 88 otrzymuje brzmienie: „Art. 88. Partnerami w spółce mogą być osoby uprawnione do wykonywania następujących zawodów: adwokata, aptekarza, architekta, fizjoterapeuty, inżyniera budownictwa, biegłego rewidenta, brokera ubezpieczeniowego, diagnosty laboratoryjnego, doradcy podatkowego, maklera papierów wartościowych, doradcy inwestycyjnego, księgowego, lekarza, lekarza dentysty, lekarza weterynarii, notariusza, pielęgniarki, położnej, psychologa, radcy prawnego, rzecznika patentowego, rzeczoznawcy majątkowego i tłumacza przysięgłego.”.
+**Art. 138.** W ustawie z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96 oraz z 2026 r. poz. 176) art. 88 otrzymuje brzmienie: „Art. 88. Partnerami w spółce mogą być osoby uprawnione do wykonywania następujących zawodów: adwokata, aptekarza, architekta, fizjoterapeuty, inżyniera budownictwa, biegłego rewidenta, brokera ubezpieczeniowego, diagnosty laboratoryjnego, doradcy podatkowego, maklera papierów wartościowych, doradcy inwestycyjnego, księgowego, lekarza, lekarza dentysty, lekarza weterynarii, notariusza, pielęgniarki, położnej, psychologa, radcy prawnego, rzecznika patentowego, rzeczoznawcy majątkowego i tłumacza przysięgłego.”.
 
 **Art. 139.** W ustawie z dnia 8 czerwca 2001 r. o zawodzie psychologa i samorządzie zawodowym psychologów (Dz. U. z 2019 r. poz. 1026) w art. 8 w ust. 1 pkt 1 otrzymuje brzmienie: „1) uzyskała:
 
@@ -1510,9 +1509,9 @@ o zawodzie psychologa oraz samorządzie zawodowym psychologów
 
 **Art. 143.** W ustawie z dnia 13 maja 2016 r. o przeciwdziałaniu zagrożeniom przestępczością na tle seksualnym i ochronie małoletnich (Dz. U. z 2026 r. poz. 110) w art. 22j w ust. 6 pkt 5 otrzymuje brzmienie: „5) psychologa, o której mowa w art. 27 ustawy z dnia 23 stycznia 2026 r. o zawodzie psychologa oraz samorządzie zawodowym psychologów (Dz. U. poz. 187);”.
 
-**Art. 144.** W ustawie z dnia 14 grudnia 2016 r. Prawo oświatowe (Dz. U. z 2025 r. poz. 1043, 1160 i 1837) wprowadza się następujące zmiany:
+**Art. 144.** W ustawie z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2025 r. poz. 1043, 1160 i 1837) wprowadza się następujące zmiany:
 
-**Art. 145.** W ustawie z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. ) w art. 68:
+**Art. 145.** W ustawie z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. ) w art. 68:
 
 **Art. 146.** W ustawie z dnia 30 sierpnia 2019 r. o Państwowej Komisji do spraw przeciwdziałania wykorzystaniu seksualnemu małoletnich poniżej lat 15 (Dz. U. z 2024 r. poz. 94) w art. 3c w ust. 1 pkt 6 otrzymuje brzmienie: „6) psychologa, o której mowa w art. 27 ust. 1 ustawy z dnia 23 stycznia 2026 r. o zawodzie psychologa oraz samorządzie zawodowym psychologów (Dz. U. poz. 187);”.
 
@@ -1525,9 +1524,9 @@ o zawodzie psychologa oraz samorządzie zawodowym psychologów
 - **1)** ukończyła w Rzeczypospolitej Polskiej studia drugiego stopnia na kierunku psychologia oraz uzyskała tytuł zawodowy magistra na kierunku psychologia niezależnie od kierunku ukończenia studiów pierwszego stopnia lub
 - **2)** ukończyła w Rzeczypospolitej Polskiej jednolite studia magisterskie na kierunku psychologia oraz uzyskała tytuł zawodowy magistra na kierunku psychologia, lub
 - **3)** ukończyła w Rzeczypospolitej Polskiej jednolite studia magisterskie na kierunku psychologia zdrowia oraz uzyskała tytuł zawodowy magistra na kierunku psychologia zdrowia, lub
-- **4)** posiada dyplom wydany w państwie innym niż państwo członkowskie Unii Europejskiej, uznany w Rzeczypospolitej Polskiej zgodnie z przepisami ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce za równoważny z dyplomem i tytułem zawodowym, o którym mowa w pkt 1–3, lub
+- **4)** posiada dyplom wydany w państwie innym niż państwo członkowskie Unii Europejskiej, uznany w Rzeczypospolitej Polskiej zgodnie z przepisami ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce za równoważny z dyplomem i tytułem zawodowym, o którym mowa w pkt 1–3, lub
 - **5)** nabyła w państwie członkowskim Unii Europejskiej kwalifikacje uprawniające do wykonywania zawodu psychologa w państwie ich uzyskania, lub
-- **6)** posiada dyplom magistra filozofii chrześcijańskiej ze specjalizacją filozoficzno-psychologiczną uzyskany na Katolickim Uniwersytecie Lubelskim do dnia 1 października 1981 r. lub dyplom magistra filozofii chrześcijańskiej w zakresie psychologii uzyskany w Akademii Teologii Katolickiej do dnia 31 grudnia 1992 r. jest wpisywana do Rejestru, na swój wniosek złożony w okresie 2 lat od dnia wejścia w życie ustawy, jeżeli spełnia wymagania, o których mowa w art. 5 ust. 5 pkt 4–6.
+- **6)** posiada dyplom magistra filozofii chrześcijańskiej ze specjalizacją filozoficzno-psychologiczną uzyskany na Katolickim Uniwersytecie Lubelskim do dnia 1 października 1981 r. lub dyplom magistra filozofii chrześcijańskiej w zakresie psychologii uzyskany w Akademii Teologii Katolickiej do dnia 31 grudnia 1992 r. – jest wpisywana do Rejestru, na swój wniosek złożony w okresie 2 lat od dnia wejścia w życie ustawy, jeżeli spełnia wymagania, o których mowa w art. 5 ust. 5 pkt 4–6.
 
 2. Do wniosku o wpis do Rejestru osoby, o której mowa w ust. 1, przepisy art. 8 i art. 9 stosuje się odpowiednio.
 
@@ -1537,7 +1536,7 @@ o zawodzie psychologa oraz samorządzie zawodowym psychologów
 
 5. Osoba wpisana do Rejestru w trybie, o którym mowa w ust. 1, może wykonywać zawód psychologa bez konieczności realizacji współpracy z opiekunem, o której mowa w art. 17 ust. 1, jeżeli wykonywała czynności określone w art. 23 ust. 2 lub 4, lub art. 24 pkt 1, 2 i 4 przez co najmniej 2 lata w okresie ostatnich 10 lat przed dniem wejścia w życie ustawy i w terminie 14 dni od dnia doręczenia uchwały w sprawie wpisu do Rejestru złożyła właściwej regionalnej radzie pisemne oświadczenie, że wykonywała czynności określone w art. 23 ust. 2 lub 4, lub art. 24 pkt 1, 2 i 4 przez co najmniej 2 lata w okresie ostatnich 10 lat przed dniem wejścia w życie ustawy. Oświadczenie składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
-6. W celu weryfikacji informacji zawartych w oświadczeniu, o którym mowa w ust. 5, właściwa regionalna rada może wezwać, a na wniosek ministra właściwego do spraw pracy wzywa osobę wpisaną do Rejestru zgodnie z ust. 1, do przekazania dokumentów potwierdzających te informacje, wyznaczając termin niekrótszy niż 30 dni od dnia doręczenia wezwania.
+6. W celu weryfikacji informacji zawartych w oświadczeniu, o którym mowa w ust. 5, właściwa regionalna rada może wezwać, a na wniosek ministra właściwego do spraw pracy – wzywa osobę wpisaną do Rejestru zgodnie z ust. 1, do przekazania dokumentów potwierdzających te informacje, wyznaczając termin niekrótszy niż 30 dni od dnia doręczenia wezwania.
 
 7. W przypadku niedostarczenia dokumentów w terminie, o którym mowa w ust. 6, lub gdy dostarczone dokumenty nie potwierdzają wykonywania czynności, o których mowa w art. 23 ust. 2 lub 4, lub art. 24 pkt 1, 2 i 4, regionalna rada wskazuje opiekuna osobie, o której mowa w ust. 6. Przepisy art. 18 ust. 1, 3 i 4 stosuje się.
 
@@ -1550,7 +1549,7 @@ o zawodzie psychologa oraz samorządzie zawodowym psychologów
 1. Osoba, która do dnia wejścia w życie ustawy rozpoczęła w Rzeczypospolitej Polskiej:
 
 - **1)** studia drugiego stopnia na kierunku psychologia, niezależnie od kierunku ukończenia studiów pierwszego stopnia, po uzyskaniu tytułu zawodowego magistra na kierunku psychologia, lub
-- **2)** jednolite studia magisterskie na kierunku psychologia zdrowia, po uzyskaniu tytułu zawodowego magistra na kierunku psychologia zdrowia jest wpisywana do Rejestru, na swój wniosek złożony w okresie 4 lat od dnia wejścia w życie ustawy, jeżeli spełnia wymagania, o których mowa w art. 5 ust. 5 pkt 4–6. Przepisy art. 8 i art. 9 stosuje się odpowiednio.
+- **2)** jednolite studia magisterskie na kierunku psychologia zdrowia, po uzyskaniu tytułu zawodowego magistra na kierunku psychologia zdrowia – jest wpisywana do Rejestru, na swój wniosek złożony w okresie 4 lat od dnia wejścia w życie ustawy, jeżeli spełnia wymagania, o których mowa w art. 5 ust. 5 pkt 4–6. Przepisy art. 8 i art. 9 stosuje się odpowiednio.
 
 2. Osoba, o której mowa w ust. 1, ma obowiązek realizacji współpracy z opiekunem, o której mowa w art. 17 ust. 1.
 
@@ -1586,7 +1585,7 @@ o zawodzie psychologa oraz samorządzie zawodowym psychologów
 
 5. W skład Komitetu wchodzi:
 
-- **1)** przewodniczący Komitetu minister właściwy do spraw pracy albo przedstawiciel ministra właściwego do spraw pracy w randze co najmniej zastępcy dyrektora komórki organizacyjnej urzędu obsługującego tego ministra;
+- **1)** przewodniczący Komitetu – minister właściwy do spraw pracy albo przedstawiciel ministra właściwego do spraw pracy w randze co najmniej zastępcy dyrektora komórki organizacyjnej urzędu obsługującego tego ministra;
 - **2)** nie więcej niż 10 członków powołanych przez ministra właściwego do spraw pracy spośród reprezentantów organizacji, o których mowa w ust. 2.
 
 6. Minister właściwy do spraw pracy dokonuje wyboru członków Komitetu, biorąc pod uwagę liczebność członków organizacji, o których mowa w ust. 2, oraz okres ich działalności.
@@ -1617,14 +1616,14 @@ o zawodzie psychologa oraz samorządzie zawodowym psychologów
 - **1)** prowadzi spis psychologów na potrzeby przeprowadzenia pierwszych wyborów organów samorządu psychologów, zwany dalej „spisem psychologów”;
 - **2)** dokonuje wpisu do spisu psychologów;
 - **3)** organizuje i zwołuje w drodze zarządzenia:
-    - **a)** pierwszy Krajowy Zjazd w terminie roku od dnia powołania Komitetu,
-    - **b)** pierwsze regionalne zjazdy w terminie 6 miesięcy od dnia zwołania pierwszego Krajowego Zjazdu.
+    - **a)** pierwszy Krajowy Zjazd – w terminie roku od dnia powołania Komitetu,
+    - **b)** pierwsze regionalne zjazdy – w terminie 6 miesięcy od dnia zwołania pierwszego Krajowego Zjazdu.
 
 2. Zgłoszenie do spisu psychologów zawiera następujące dane osoby ubiegającej się o wpis:
 
 - **1)** imię (imiona) i nazwisko;
 - **2)** nazwisko rodowe;
-- **3)** numer PESEL, a w przypadku braku numeru PESEL nazwę i numer dokumentu potwierdzającego tożsamość oraz nazwę państwa, które go wydało;
+- **3)** numer PESEL, a w przypadku braku numeru PESEL – nazwę i numer dokumentu potwierdzającego tożsamość oraz nazwę państwa, które go wydało;
 - **4)** obywatelstwo;
 - **5)** adres miejsca zamieszkania;
 - **6)** adres do korespondencji;
@@ -1632,7 +1631,7 @@ o zawodzie psychologa oraz samorządzie zawodowym psychologów
 
 3. Do zgłoszenia do spisu psychologów osoba ubiegająca się o wpis dołącza:
 
-- **1)** kopie dokumentów potwierdzających spełnienie wymagań, o których mowa w art. 147 ust. 1 pkt 1–6, oraz w przypadku zmiany imienia (imion) lub nazwiska dokumenty potwierdzające tę zmianę;
+- **1)** kopie dokumentów potwierdzających spełnienie wymagań, o których mowa w art. 147 ust. 1 pkt 1–6, oraz w przypadku zmiany imienia (imion) lub nazwiska – dokumenty potwierdzające tę zmianę;
 - **2)** oświadczenie, że:
     - **a)** korzysta z pełni praw publicznych oraz posiada pełną zdolność do czynności prawnych,
     - **b)** nie została skazana prawomocnym wyrokiem sądu za popełnienie przestępstwa umyślnego ściganego z oskarżenia publicznego oraz nie toczy się przeciwko niej postępowanie karne o przestępstwo umyślne ścigane z oskarżenia publicznego;
@@ -1694,16 +1693,16 @@ o zawodzie psychologa oraz samorządzie zawodowym psychologów
 
 1. W latach 2026–2035 maksymalny limit wydatków z budżetu państwa w części pozostającej w dyspozycji ministra właściwego do spraw pracy będących konsekwencją wejścia w życie ustawy wynosi 8,22 mln zł, przy czym w kolejnych latach wyniesie maksymalnie w:
 
-- **1)** 2026 r. 0,98 mln zł;
-- **2)** 2027 r. 1,34 mln zł;
-- **3)** 2028 r. 2,45 mln zł;
-- **4)** 2029 r. 0,46 mln zł;
-- **5)** 2030 r. 0,47 mln zł;
-- **6)** 2031 r. 0,48 mln zł;
-- **7)** 2032 r. 0,49 mln zł;
-- **8)** 2033 r. 0,50 mln zł;
-- **9)** 2034 r. 0,52 mln zł;
-- **10)** 2035 r. 0,53 mln zł.
+- **1)** 2026 r. – 0,98 mln zł;
+- **2)** 2027 r. – 1,34 mln zł;
+- **3)** 2028 r. – 2,45 mln zł;
+- **4)** 2029 r. – 0,46 mln zł;
+- **5)** 2030 r. – 0,47 mln zł;
+- **6)** 2031 r. – 0,48 mln zł;
+- **7)** 2032 r. – 0,49 mln zł;
+- **8)** 2033 r. – 0,50 mln zł;
+- **9)** 2034 r. – 0,52 mln zł;
+- **10)** 2035 r. – 0,53 mln zł.
 
 2. W przypadku przekroczenia lub zagrożenia przekroczenia przyjętego na dany rok budżetowy limitu wydatków określonego w ust. 1 stosuje się mechanizm korygujący polegający na zmniejszeniu kosztów wykonywania zadań publicznych przez ograniczenie kosztów administracyjnych.
 

@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 18 grudnia 2025 r.
+# o zmianie ustawy – Kodeks wykroczeń oraz ustawy – Kodeks postępowania w sprawach o wykroczenia
+
+*USTAWA z dnia 7 listopada 2025 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +25,6 @@ domain: null
 | Data wydania | 2025-12-18 |
 | Ostatnia zmiana | 2026-01-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001814) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1814/text.pdf) |
-
-Poz. 1814
-USTAWA z dnia 7 listopada 2025 r.
-o zmianie ustawy – Kodeks wykroczeń oraz ustawy – Kodeks postępowania w sprawach o wykroczenia
 
 **Art. 1.** W ustawie z dnia 20 maja 1971 r. – Kodeks wykroczeń (Dz. U. z 2025 r. poz. 734 i 1676) wprowadza się następujące zmiany:
 

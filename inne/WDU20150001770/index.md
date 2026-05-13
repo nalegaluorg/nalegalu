@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 2 listopada 2015 r.
+# o finansowaniu niektórych świadczeń zdrowotnych w latach 2015–2018
+
+*USTAWA z dnia 25 września 2015 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +25,6 @@ domain: null
 | Data wydania | 2015-11-02 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001770) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1770/text.pdf) |
-
-Poz. 1770
-USTAWA z dnia 25 września 2015 r.
-o finansowaniu niektórych świadczeń zdrowotnych w latach 2015–2018
 
 **Art. 1.**
 

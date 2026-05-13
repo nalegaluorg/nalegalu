@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 15 maja 1998 r.
+# o zmianie ustawy o gwarancjach wolności sumienia i wyznania oraz o zmianie niektórych ustaw
+
+*USTAWA z dnia 26 czerwca 1997 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,227 +26,212 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19980590375) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1998/375/text.pdf) |
 
-Nr 59 375
-USTAWA z dnia 26 czerwca 1997 r.
+**Art. 1.** W ustawie z dnia 17 maja 1989 r. o gwarancjach wolności sumienia i wyznania (Dz.U. Nr 29, poz. 155, z 1990 r. Nr 51, poz. 297, Nr 55, poz. 321 i Nr 86, poz. 504, z 1991 r. Nr 95, poz. 425 oraz z 1993 r. Nr 7, poz. 34) wprowadza się następujące zmiany:
 
-**Art. 1.** W ustawie z dnia 17 maja 1989 r. o gwaran cjach sumienia i wyznania (Dz. U. Nr 29, poz. 155, z 1990 r. Nr 51, poz. 297, Nr 55, poz. 321 i Nr 86, poz. 504, z 1991 r. Nr 95, poz. 425 oraz z 1993 r. Nr 7, poz. 34) wprowadza zmiany:
+**Art. 30.** Prawo wpisu do rejestru kościołów i innych związków wyznaniowych, zwanego dalej "rejestrem", prowadzonego przez Ministra Spraw Wewnętrznych i Administracji, jest realizowane przez złożenie temu ministrowi, zwanemu dalej "organem rejestrowym," deklaracji o utworzeniu kościoła lub innego związku wyznaniowego i wniosku o wpis do rejestru.
 
 **Art. 31.**
 
-1. Prawo wniesienia wniosku, o którym mowa wart. co naj mniej obywatelom polskim posia do prawnych.
+1. Prawo wniesienia wniosku, o którym mowa w art. 30, przysługuje co najmniej 100 obywatelom polskim posiadającym pełną zdolność do czynności prawnych.
 
-2. We wniosku, o którym mowa w ust. 1, wnioskodawcy zawiera swoje imiona i nazwiska, daty urodzenia, miejsca zamieszkania, nu mery i cechy dokumentów oraz notarialnie potwierdzo ne podpisy.
+2. We wniosku, o którym mowa w ust. 1, wnioskodawcy składają listę zawierającą swoje imiona i nazwiska, daty urodzenia, miejsca zamieszkania, numery i cechy dokumentów tożsamości oraz składają notarialnie potwierdzone podpisy.
 
-**Art. 1.** Wniosek, o którym mowa wart. powinien
+**Art. 32.**
+
+1. Wniosek, o którym mowa w art. 30, powinien zawierać:
+
+- **1)** listę, o której mowa w art. 31 ust. 2,
+- **2)** informację o dotychczasowych formach życia religijnego i metodach działania kościoła lub innego związku wyznaniowego na terytorium Rzeczypospolitej Polskiej,
+- **3)** informację o podstawowych celach, źródłach i zasadach doktrynalnych, obrzędach religijnych,
+- **4)** adres siedziby kościoła lub innego związku wyznaniowego, imiona i nazwiska, datę urodzenia, adres zamieszkania, numer i cechy dokumentu tożsamości osób wchodzących do kierowniczych organów wykonawczych,
+- **5)** statut.
+
+2. Statut powinien określać w szczególności:
+
+- **1)** nazwę kościoła lub innego związku wyznaniowego różną od nazw innych organizacji,
+- **2)** teren działania i siedzibę władz,
+- **3)** cele działalności oraz formy i zasady ich realizacji,
+- **4)** organy, sposób ich powoływania i odwoływania, zakres kompetencji oraz tryb podejmowania decyzji,
+- **5)** źródła finansowania,
+- **6)** tryb dokonywania zmian statutu,
+- **7)** sposób reprezentowania na zewnątrz oraz zaciągania zobowiązań majątkowych,
+- **8)** sposób nabywania i utraty członkostwa oraz prawa i obowiązki członków,
+- **9)** sposób powoływania, odwoływania oraz kompetencje osób duchownych, o których mowa w art. 12 ust. 3, o ile kościół lub inny związek wyznaniowy przewiduje tworzenie takich stanowisk, niowego i przeznaczenie pozostałego majątku.
+
+3. Jeżeli kościół lub inny związek wyznaniowy przewiduje tworzenie jednostek organizacyjnych, zakonów lub diakonatów mających osobowość prawną, w statucie powinny być określone ich nazwy, teren działania, siedziby, zakres uprawnień oraz zasady tworzenia, znoszenia i przekształcania tych jednostek oraz ich organy, zakres kompetencji, tryb podejmowania decyzji, sposób powoływania i odwoływania tych organów, sposób reprezentowania na zewnątrz oraz zaciągania zobowiązań majątkowych.
+
+4. Jeżeli kościół lub inny związek wyznaniowy stanowi część organizacji o zasięgu międzynarodowym, w statucie powinny być określone zakres i formy wzajemnych stosunków.
+
+5. Jeżeli kościół lub inny związek wyznaniowy przewiduje tworzenie jednostek organizacyjnych bez osobowości prawnej, w statucie powinny być określone nazwy, zasady tworzenia, znoszenia i przekształcania tych jednostek.
 
 **Art. 33.**
 
-1. W trakcie w sprawie wpisu do rejestru organ rejestrowy od wnioskodawców wyja wniosku w zakresie okre wart. 32, a do odpowiednich organów wych o sprawdzanie za wartych we wniosku danych.
+1. W trakcie postępowania w sprawie wpisu do rejestru, organ rejestrowy może żądać od wnioskodawców wyjaśnień treści wniosku w zakresie określonym w art. 32, a także zwracać się do odpowiednich organów państwowych o sprawdzanie prawdziwości zawartych we wniosku danych.
 
-2. organ rejestrowy w trakcie po w sprawie wpisu do reje stru stwierdzi braki lub uchybienia w wniosku, w zakresie nym wart. 32, wyznacza dwumie termin ich a po tego terminu wydaje o odmowie wpisu do rejestru.
+2. Jeżeli organ rejestrowy w trakcie postępowania w sprawie wpisu do rejestru stwierdzi braki lub uchybienia w treści wniosku, w zakresie określonym w art. 32, wyznacza dwumiesięczny termin ich uzupełnienia, a po upływie tego terminu wydaje decyzję o odmowie wpisu do rejestru.
 
-3. wniosek zawiera postanowienia w z przepi sami ustaw stwo i publiczny, zdrowie, rodzi albo podstawowe prawa i wol innych osób, organ rejestrowy wydaje o odmowie wpisu do rejestru.
+3. Jeżeli wniosek zawiera postanowienia pozostające w sprzeczności z przepisami ustaw chroniącymi bezpieczeństwo i porządek publiczny, zdrowie, moralność publiczną, władzę rodzicielską albo podstawowe prawa i wolności innych osób, organ rejestrowy wydaje decyzję o odmowie wpisu do rejestru.
 
-4. Decyzje, o których mowa w ust. 2 i 3, powinny wydane w terminie 3 od daty wania o wpis do rejestru. Od decyzji tych prawo skargi do Na czelnego Administracyjnego w trybie przepisów Kodeksu wania administracyjnego.
+4. Decyzje, o których mowa w ust. 2 i 3, powinny być wydane w terminie 3 miesięcy od daty wszczęcia postępowania o wpis do rejestru. Od decyzji tych przysługuje prawo skargi do Naczelnego Sądu Administracyjnego w trybie przepisów Kodeksu postępowania administracyjnego.
 
 **Art. 34.**
 
-1. nie wska zane wart. 33 ust. 2 i 3, organ rejestro wy wydaje, w terminie 3 od deklaracji, o wpisie do rejestru.
+1. Jeżeli nie zachodzą okoliczności wskazane w art. 33 ust. 2 i 3, organ rejestrowy wydaje, w terminie 3 miesięcy od zgłoszenia deklaracji, decyzję o wpisie do rejestru.
 
-2. Z wpisu do rejestru lub inny wyznaniowy uzyskuje, jako oraz korzysta ze wszystkich i podlega w ustawach.
+2. Z chwilą wpisu do rejestru kościół lub inny związek wyznaniowy uzyskuje, jako całość, osobowość prawną oraz korzysta ze wszystkich uprawnień i podlega obowiązkom określonym w ustawach. cyjnych, zakonów i diakonatów, o których mowa w art. 32 ust. 3.
 
-3. Przepis ust. 2 stosuje odpowiednio do jednostek organizacyjnych, zako nów i diakonatów, o których mowa wart. 32 ust. 3.
-
-4. Do i innych wy znaniowych wpisanych do rejestru stosuje odpowiednio przepisy art. 14 i 15.
+4. Do kościołów i innych związków wyznaniowych wpisanych do rejestru stosuje się odpowiednio przepisy art. 14 i 15.
 
 **Art. 35.**
 
-1. Zmiany statutu lub innego wyznaniowego wpisanego do rejestru dokonuje w trybie obo przy ich rejestrowaniu.
+1. Zmiany statutu kościoła lub innego związku wyznaniowego wpisanego do rejestru dokonuje się w trybie obowiązującym przy ich rejestrowaniu.
 
-2. Organ rejestrowy aktualizacji danych wpis do rejestru, wart. 32 ust. 1 pkt 2- 5.
+2. Organ rejestrowy może domagać się aktualizacji danych warunkujących wpis do rejestru, określonych w art. 32 ust. 1 pkt 2-5.
 
 **Art. 36.**
 
-1. z rejestru podlega:
+1. Wykreśleniu z rejestru podlega:
 
-- **1)** lub inny wyznanio wy, którego sytuacja prawna i ma uregulowana wod ustawie,
-- **2)** lub inny wyznanio wy, który organ reje strowy o zaprzestaniu swojej dzia
-- **3)** lub inny wyznanio wy, który cechy uzyskanie wpisu do rejestru; doty czy to w lub innego wyznaniowego, który w 3 lat nie na organu rejestrowego i nie wpisów do reje stru w zakresie wart. 32 ust. 1 pkt 4.
+- **1)** kościół lub inny związek wyznaniowy, którego sytuacja prawna i majątkowa została uregulowana w odrębnej ustawie,
+- **2)** kościół lub inny związek wyznaniowy, który zawiadomił organ rejestrowy o zaprzestaniu swojej działalności,
+- **3)** kościół lub inny związek wyznaniowy, który utracił cechy warunkujące uzyskanie wpisu do rejestru; dotyczy to w szczególności kościoła lub innego związku wyznaniowego, który w ciągu 3 lat nie odpowiedział na żądanie organu rejestrowego i nie zaktualizował wpisów do rejestru w zakresie określonym w art. 32 ust. 1 pkt 4.
 
-2. z rejestru na podstawie decyzji Ministra Spraw We i Administracji.
+2. Wykreślenie z rejestru następuje na podstawie decyzji Ministra Spraw Wewnętrznych i Administracji.
 
-3. W przypadku decyzji o z rejestru na podstawie ust. 1 pkt 2, Minister Spraw i Ad ministracji wyznacza likwidatora, sto odpowiednio przepisy Prawa o stowarzyszeniach.
+3. W przypadku decyzji o wykreśleniu z rejestru na podstawie ust. 1 pkt 2, Minister Spraw Wewnętrznych i Administracji wyznacza likwidatora, stosując odpowiednio przepisy Prawa o stowarzyszeniach.
 
-4. Przepis ust. 3 ma zastosowa nie, zawiadomienie o zaprzesta niu lub innego wyznaniowego nie li kwidatora.
+4. Przepis ust. 3 ma również zastosowanie, jeżeli zawiadomienie o zaprzestaniu działalności kościoła lub innego związku wyznaniowego nie określa likwidatora.
 
-5. statut lub innego wyznaniowego nie stanowi inaczej, po czeniu likwidacyjnego przeznaczony na cele w dro dze decyzji Ministra Spraw nych i Administracji.
+5. Jeżeli statut kościoła lub innego związku wyznaniowego nie stanowi inaczej, majątek pozostały po zakończeniu postępowania likwidacyjnego może być przeznaczony wyłącznie na cele charytatywno-opiekuńcze w drodze decyzji Ministra Spraw Wewnętrznych i Administracji.
 
-6. Od decyzji, o których mowa w ust. 2-5, prawo skargi do Naczel nego Administracyjnego w try bie przepisów Kodeksu administracyjnego.
+6. Od decyzji, o których mowa w ust. 2-5, przysługuje prawo skargi do Naczelnego Sądu Administracyjnego w trybie przepisów Kodeksu postępowania administracyjnego.
 
 **Art. 36a.**
 
-1. Organ rejestrowy lub prokurator mo do wojewódzkiego o stwierdzenie lub innego wyzna niowego z przepisami prawa, o któ rych mowa wart. 27 ust. 1, lub ze sta tutem, o którym mowa wart. 32.
+1. Organ rejestrowy lub prokurator może wystąpić do sądu wojewódzkiego o stwierdzenie niezgodności działania kościoła lub innego związku wyznaniowego z przepisami prawa, o których mowa w art. 27 ust. 1, lub ze statutem, o którym mowa w art. 32. łalność kościoła lub innego związku wyznaniowego rażąco narusza prawo lub postanowienia statutu, organ rejestrowy wykreśli z rejestru ten kościół lub inny związek wyznaniowy.
 
-2. W razie stwierdzenia prawomocnym wyrokiem lub innego wyznaniowego narusza prawo lub postano wienia statutu, organ rejestrowy wy z rejestru ten lub inny wyznaniowy.
+**Art. 37.** Minister Spraw Wewnętrznych i Administracji określa, w drodze rozporządzenia, zasady i sposób prowadzenia rejestru, dane i informacje podlegające wpisowi, sposób, formę i termin aktualizacji wpisów do rejestru, warunki udostępniania rejestru, wydawania wyciągów z rejestru oraz sposób wykreślania kościoła lub innego związku wyznaniowego z rejestru.
 
-**Art. 37.** Minister Spraw i Admini stracji w drodze zasady i sposób prowadzenia rejestru, dane i informacje wpisowi, sposób, i termin aktualizacji wpi sów do rejestru, warunki rejestru, wydawania z reje stru oraz sposób lub innego wyznaniowego z re jestru.
-
-**Art. 38.** Przepisy niniejszego stosuje odpowiednio do krajowych organizacji one Do utworzenia ta kiej organizacji jest wymagana deklara cja podpisana przez co najmniej dwóch w Rzeczypospolitej Polskiej i innych wyznaniowych." ;
-
-**Art. 38a.**
-
-1. Tworzy dalej w celu ostatecznego uregulowania spraw stwem a i ich osobami prawnymi, które roszczenia w trybie i na zasadach w:
-
-- **1)** art. 24-26 ustawy z dnia 13 maja 1994 r. o stosunku do Ko Ewangelicko-Reformowane go w Rzeczypospolitej Polskiej (Dz. U. Nr 73, poz. 324),
-- **2)** art. 37 ustawy z dnia 30 czerwca 1995 r. o stosunku do Ko Ewangelicko-Metodystycz nego w Rzeczypospolitej Polskiej (Dz. U. Nr 97, poz. 479),
-- **3)** art. 40-42 ustawy z dnia 30 czerw ca 1995 r. o stosunku do Baptystów w Rzeczypospolitej Polskiej (Dz. U. Nr 97, poz. 480),
-- **4)** art. 35 ustawy z dnia 30 czerwca 1995 r. o stosunku do Ko Adwentystów Dnia Siódme go w Rzeczypospolitej Polskiej (Dz. U. Nr 97, poz. 481).
-
-2. Roszczenia wobec do Komisji w terminie do dnia 31 grudnia 1998 r. i inne wyznaniowe, nie wymienione w ust. 1, a krajowe organizacje we wniosku, na rzecz Skarbu nierucho lub ich uprzed nio tych i ków wyznaniowych oraz krajowych or ganizacji
-
-3. Do oceny wania regulacyjnego w sprawach, o których mowa w ust. 2, odpo wiednie zastosowanie przepisy ustaw wskazanych w ust. 1 pkt 1-4.
-
-4. przywrócenie osobie prawnej nie jest z uwagi na trudne do przeszkody, przyzna je jej a je nie jest to osobie tej przyznaje odszkodowanie ustalo ne przepisów o niu
-
-5. Rada Ministrów w drodze roz z mienia których stwowych jednostek organizacyjnych lub gmin nieru zamienna lub na mo odszkodowania.
+**Art. 38.** Przepisy niniejszego działu stosuje się odpowiednio do krajowych organizacji międzykościelnych, jeżeli mają one mieć osobowość prawną. Do utworzenia takiej organizacji jest wymagana deklaracja podpisana przez władze co najmniej dwóch działających w Rzeczypospolitej Polskiej kościołów i innych związków wyznaniowych.";
 
 **Art. 38b.**
 
-1. Przedmiotem regula cyjnego ne przekazanie na nierucho lub ich które osób prawnych do 1945 r. na Ziemiach Zachodnich i w celu przy wrócenia w nich sprawowania kultu religijnego, wychowawczej, charytatywno-opie i
+1. Przedmiotem postępowania regulacyjnego może być również nieodpłatne przekazanie na własność nieruchomości lub ich części, które były własnością kościelnych osób prawnych działających do 1945 r. na Ziemiach Zachodnich i Północnych, w celu przywrócenia w nich sprawowania kultu religijnego, działalności oświatowo-wychowawczej, charytatywno-opiekuńczej i opiekuńczo-wychowawczej.
 
-2. W razie dokonania regu lacji, o której mowa w ust. 1, wanie ulega umorzeniu.
+2. W razie niemożności dokonania regulacji, o której mowa w ust. 1, postępowanie ulega umorzeniu.
 
-**Art. 38c.** Majątek nieruchomy, przekazany na gminie w trybie ustawy z dnia 10 maja 1990 r. - Przepisy wprowadza o terytorial nym i o pracownikach dowych (Dz. U. Nr 32, poz. 191, Nr 43, poz. 253 i Nr 92, poz. 541, z 1991 r. Nr 34, poz. 151, z 1992 r. Nr 6, poz. 20, z 1993 r. Nr 40, poz. 180, z 1994 r. Nr 1, poz. 3 i Nr 65, poz. 285, z 1996 r. Nr 23, poz. 102 i Nr 106, poz. 496 oraz z 1997 r. Nr 9, poz.
+**Art. 38c.** Majątek nieruchomy, przekazany na własność gminie w trybie ustawy z dnia 10 maja 1990 r. - Przepisy wprowadzające ustawę o samorządzie terytorialnym i ustawę o pracownikach samorządowych (Dz.U. Nr 32, poz. 191, Nr 43, poz. 253 i Nr 92, poz. 541, z 1991 r. Nr 34, poz. 151, z 1992 r. Nr 6, poz. 20, z 1993 r. Nr 40, poz. 180, z 1994 r. Nr 1, poz. 3, Nr 65, poz. 285, z 1996 r. Nr 23, poz. 102, Nr 106, poz. 496 oraz z 1997 r. Nr 9, poz. 43), podlega postępowaniu, o którym mowa w art. 38a i 38b.
 
 **Art. 38d.**
 
-1. Komisji, tryb regulacyjnego oraz wy nagrodzenie dla Komisji i personelu pomocniczego w drodze Minister Spraw i Administracji w poro zumieniu z o któ rych mowa wart. 38a ust. 1 pkt 1-4.
+1. Liczebność Komisji, szczegółowy tryb postępowania regulacyjnego oraz wynagrodzenie dla członków Komisji i personelu pomocniczego określa, w drodze zarządzenia, Minister Spraw Wewnętrznych i Administracji w porozumieniu z władzami kościołów, o których mowa w art. 38a ust. 1 pkt 14.
 
-2. Komisja rozpatruje sprawy w zespo w których wchodzi po dwóch wyzna czonych przez Ministra Spraw We i Administracji i lub wyznaniowego, którego wniosek dotyczy.
+2. Komisja rozpatruje sprawy w zespołach orzekających, w skład których wchodzi po dwóch członków wyznaczonych przez Ministra Spraw Wewnętrznych i Administracji i władze kościoła lub związku wyznaniowego, którego wniosek dotyczy.
 
-3. regulacyjne wszczyna z wniosku w Komi sji. po otrzymaniu wniosku o regulacyjnego bada, czy jest ono do puszczalne, a wniosek niedopuszczal ny odrzuca.
+3. Postępowanie regulacyjne wszczyna się z chwilą złożenia wniosku w Komisji. Zespół orzekający po otrzymaniu wniosku o wszczęcie postępowania regulacyjnego bada, czy jest ono dopuszczalne, a wniosek niedopuszczalny odrzuca. chomości, w stosunku do których wszczęto postępowanie regulacyjne, ulegają zawieszeniu, a sądy i organy prowadzące postępowania administracyjne przekazują ich akta do Komisji.
 
-4. lub admini stracyjne w stosunku do których po regulacyjne, za wieszeniu, a i organy ce administracyjne ich akta do Komisji.
+5. Uczestnikami postępowania regulacyjnego są, oprócz wnioskodawcy, wszystkie zainteresowane jednostki państwowe, samorządowe i kościelne.
 
-5. Uczestnikami regula cyjnego oprócz wnioskodawcy, wszystkie zainteresowane jednostki i
+6. Uczestnicy postępowania regulacyjnego mogą zawrzeć ugodę przed zespołem orzekającym. Jeżeli ugoda nie zostanie zawarta, zespół orzekający wydaje orzeczenie.
 
-6. Uczestnicy regulacyj nego przed ze ugoda nie zostanie zawarta, wydaje orzeczenie.
+7. Regulacja nie może naruszać praw nabytych przez niepaństwowe osoby trzecie, a w szczególności przez inne kościoły i związki wyznaniowe oraz rolników indywidualnych.
 
-7. Regulacja nie praw na bytych przez osoby trzecie, a w przez inne i wyznaniowe oraz rolników indywidualnych.
+8. Ugody zawarte przed zespołem orzekającym, jak i orzeczenia uwzględniające wniosek, powinny określać:
 
-8. Ugody zawarte przed orze wniosek, powinny
+- **1)** stan prawny nieruchomości,
+- **2)** związane z tym stanem obowiązki uczestników post ępowania, a w szczególności obowiązek wydania nieruchomości w wyznaczonym terminie, jeżeli nie znajduje się ona we władaniu wnioskodawcy,
+- **3)** w razie przyznania odszkodowania, obowiązek i termin zapłaty należnej z tego tytułu kwoty.
 
-- **1)** stan prawny
-- **2)** z tym stanem uczestników a w wydania w wyznaczonym terminie, nie znajduje ona we wnioskodawcy,
-- **3)** w razie przyznania odszkodowania, i termin z tego kwoty.
-
-9. Od orzeczenia nie
+9. Od orzeczenia zespołu orzekającego nie przysługuje odwołanie.
 
 **Art. 38e.**
 
-1. Ugody i orzeczenia moc wych egzekucyjnych.
+1. Ugody i orzeczenia mają moc sądowych tytułów egzekucyjnych.
 
-2. Ugody i orzeczenia podsta do dokonywania wpisów w gach wieczystych i w ewidencji grun tów.
+2. Ugody i orzeczenia stanowią podstawę do dokonywania wpisów w księgach wieczystych i w ewidencji gruntów.
 
 **Art. 38f.**
 
-1. regulacyjne jest wolne od
+1. Postępowanie regulacyjne jest wolne od opłat.
 
-2. Nabycie lub ich na podstawie ugody lub orzeczenia jest wolne od podatków i z tym a ce z tego wpisy do wieczystych i ich wolne od
+2. Nabycie własności nieruchomości lub ich części na podstawie ugody lub orzeczenia jest wolne od podatków i opłat z tym związanych, a wynikające z tego wpisy do ksiąg wieczystych i ich zakładanie są wolne od opłat.
 
 **Art. 38g.**
 
-1. nie uzgodni orzeczenia, zawiadamia o tym pisem nie uczestników regu lacyjnego.
+1. Jeżeli zespół orzekający nie uzgodni orzeczenia, zawiadamia o tym pisemnie uczestników postępowania regulacyjnego.
 
-2. Uczestnicy regulacyj nego w terminie mie od otrzymania zawiadomienia, o zawieszonego po lub admini stracyjnego, a nie ono - na pod rygorem roszcze nia. Przy rozpoznawaniu sprawy stosuje zasady wart. 38a i 38b.";
+2. Uczestnicy postępowania regulacyjnego mogą, w terminie sześciu miesięcy od otrzymania zawiadomienia, wystąpić o podjęcie zawieszonego postępowania sądowego lub administracyjnego, a jeżeli nie było ono wszczęte - wystąpić na drogę sądową pod rygorem wygaśnięcia roszczenia. Przy rozpoznawaniu sprawy sąd stosuje zasady określone w art. 38a i 38b.";
 
-- **18)** art. 40 otrzymuje brzmienie: "Art. 40. Stosunki z i innymi wyznaniowymi na podstawie wpisu do rejestru regulowane w drodze ustawy.";
-- **19)** wart. 41 ust. 1 i oznaczenie ust. 2;
-- **20)** wart. 42 w ust. 4 wyrazy "Ministrem - Kierowni kiem do Spraw wy razami "Ministrem Spraw i Admini stracji";
-- **21)** w pierwszym akapicie wart. 1 ust. 1, art. 3 ust. 3, art. 7 ust. 1, art. 9 ust. 1, art. 10 ust. 1 ustawy, w przypadkach, wyrazy "Polska Rzeczpospolita Ludowa" tymi w odpowiednich przypadkach wyrazami "Rzeczpospolita Polska".
+- **18)** art. 40 otrzymuje brzmienie: niowymi działającymi na podstawie wpisu do rejestru mogą być regulowane w drodze odrębnej ustawy.";
+- **19)** w art. 41 skreśla się ust. 1 i oznaczenie ust. 2;
+- **20)** w art. 42 w ust. 4 wyrazy "Ministrem - Kierownikiem Urzędu do Spraw Wyznań" zastępuje się wyrazami "Ministrem Spraw Wewnętrznych i Administracji";
+- **21)** użyte w pierwszym akapicie preambuły, w art. 1 ust. 1, art. 3 ust. 3, art. 7 ust. 1, art. 9 ust. 1, art. 10 ust. 1 ustawy, w różnych przypadkach, wyrazy "Polska Rzeczpospolita Ludowa" zastępuje się użytymi w odpowiednich przypadkach wyrazami "Rzeczpospolita Polska".
 
-**Art. 2.** W ustawie z dnia 17 maja 1989 r. o stosunku do Katolickiego w Rzeczypospolitej Polskiej (Dz. U. Nr 29, poz. 154, z 1990 r. Nr 51, poz. 297, Nr 55, poz. 321 i Nr 86, poz. 504, z 1991 r. Nr 95, poz. 425 i Nr 107, poz. 459, z 1993 r. Nr 7, poz. 34, z 1994 r. Nr 1, poz. 3 oraz z 1997 r. Nr 28, poz. 153, Nr 96, poz. 590 i Nr 141, poz. 943) art. 56 otrzymuje brzmienie: "Art. 56. Wolne od celnych z zagranicy dla osób praw nych dary:
+**Art. 2.** W ustawie z dnia 17 maja 1989 r. o stosunku Państwa do Kościoła Katolickiego w Rzeczypospolitej Polskiej (Dz.U. Nr 29, poz. 154, z 1990 r. Nr 51, poz. 297, Nr 55, poz. 321, Nr 86, poz. 504, z 1991 r. Nr 95, poz. 425, Nr 107, poz. 459, z 1993 r. Nr 7, poz. 34, z 1994 r. Nr 1, poz. 3 oraz z 1997 r. Nr 28, poz. 153, Nr 96, poz. 590 i Nr 141, poz. 943) art. 56 otrzymuje brzmienie: "Art. 56. Wolne od opłat celnych są przesyłane z zagranicy dla kościelnych osób prawnych dary:
 
-**Art. 3.** W ustawie z dnia 4 lipca 1991 r. o stosunku Państwa do Polskiego Autokefalicznego Kościoła Pra wosławnego (Dz. U. Nr 66, poz. 287 i Nr 95, poz. 425, z 1993 r. Nr 7, poz. 34 oraz z 1994 r. Nr 1, poz. 3) wpro wadza zmiany:
+**Art. 3.** W ustawie z dnia 4 lipca 1991 r. o stosunku Państwa do Polskiego Autokefalicznego Kościoła Prawosławnego (Dz.U. Nr 66, poz. 287, Nr 95, poz. 425, z 1993 r. Nr 7, poz. 34 oraz z 1994 r. Nr 1, poz. 3) wprowadza się następujące zmiany:
 
 **Art. 48b.**
 
-1. Ugody i orzeczenia moc wych egzekucyjnych.
+1. Ugody i orzeczenia mają moc sądowych tytułów egzekucyjnych.
 
-2. Ugody i orzeczenia podsta do dokonywania wpisów w gach wieczystych i w ewidencji grun tów.
+2. Ugody i orzeczenia stanowią podstawę do dokonywania wpisów w księgach wieczystych i w ewidencji gruntów.
 
 **Art. 48c.**
 
-1. regulacyjne jest wolne od
+1. Postępowanie regulacyjne jest wolne od opłat.
 
-2. Nabycie lub ich na podstawie ugody lub orzeczenia jest wolne od podatków i z tym a z tego wpisy do wieczystych i ich wolne od
+2. Nabycie własności nieruchomości lub ich części na podstawie ugody lub orzeczenia jest wolne od podatków i opłat z tym związanych, a wynikające z tego wpisy do ksiąg wieczystych i ich zakładanie są wolne od opłat.
 
 **Art. 48d.**
 
-1. nie uzgodni orzeczenia, zawiadamia o tym pisem nie uczestników regula cyjnego.
+1. Jeżeli zespół orzekający nie uzgodni orzeczenia, zawiadamia o tym pisemnie uczestników postępowania regulacyjnego.
 
-2. Uczestnicy regulacyjne go w terminie od otrzymania zawiadomienia o zawieszonego wania lub administracyjne go, a nie ono - wy na pod rygorem roszczenia. Przy rozpozna waniu sprawy stosuje zasady okre wart. 47 ust. 1, art. 48 ust. 2 i art. 50.
+2. Uczestnicy postępowania regulacyjnego mogą w terminie sześciu miesięcy od otrzymania zawiadomienia wystąpić o podjęcie zawieszonego postępowania sądowego lub administracyjnego, a jeżeli nie było ono wszczęte - wystąpić na drogę sądową pod rygorem wygaśnięcia roszczenia. Przy rozpoznawaniu sprawy sąd stosuje zasady określone w art. 47 ust. 1, art. 48 ust. 2 i art. 50.
 
 **Art. 48e.**
 
-1. Na wniosek lub jego osób prawnych wojewoda lub inny organ w imieniu Skarbu prawa z nieru albo organy gmin w zakresie swoich nie lub jego oso bom prawnym nieruchomo lub ich
+1. Na wniosek Kościoła lub jego osób prawnych, wojewoda lub inny organ wykonujący w imieniu Skarbu Państwa prawa wynikające z własności nieruchomości albo organy gmin w zakresie swoich właściwości - mogą nieodpłatnie przekazać Kościołowi lub jego osobom prawnym własność nieruchomości lub ich części:
 
-- **1)** one do sprawo wania kultu religijnego lub osób prawnych w za kresie lub
-- **2)** w celu utworzenia lub gospodarstwa rolnego parafii na Ziemiach Zachodnich i nocnych, o powierzchni do 15 ha rolnych dla jednej parafii.
+- **1)** jeżeli są one niezbędne do sprawowania kultu religijnego lub działalności kościelnych osób prawnych w zakresie charytatywno-opiekuńczym lub oświatowowychowawczym,
+- **2)** w celu utworzenia lub powiększenia gospodarstwa rolnego parafii działających na Ziemiach Zachodnich i Północnych, o powierzchni do 15 ha użytków rolnych łącznie dla jednej parafii.
+- **5)** po art. 52 dodaje się art. 52a w brzmieniu: "Art. 52a. Wnioski, o których mowa w art. 48e ust. 1, mogą być składane w terminie do dnia 31 grudnia 1998 r.".
 
-2. Przepis art. 46 ust. 4 stosuje odpo wiednio.";
+**Art. 4.** W ustawie z dnia 13 maja 1994 r. o stosunku Państwa do Kościoła EwangelickoAugsburskiego w Rzeczypospolitej Polskiej (Dz.U. Nr 73, poz. 323) wprowadza się następujące zmiany:
 
-- **5)** po art. 52 dodaje art. 52a w brzmieniu: "Art. 52a. Wnioski, o których mowa wart. 48e ust. 1, w terminie do dnia 31 grudnia 1998 r."
-
-**Art. 4.** W ustawie z dnia 13 maja 1994 r. o stosunku do Ewangelicko-Augsburskiego w Rzeczypospolitej Polskiej (Dz. U. Nr 73, poz. 323) wprowadza zmiany:
+**Art. 5.** W ustawie z dnia 13 maja 1994 r. o stosunku Państwa do Kościoła EwangelickoReformowanego w Rzeczypospolitej Polskiej (Dz.U. Nr 73, poz. 324) wprowadza się następujące zmiany:
 
 **Art. 26b.**
 
-1. Na wniosek lub jego osób prawnych wojewoda lub inny organ w imieniu Skarbu prawa z nieru albo organy gmin w zakresie swoich - nieod lub jego osobom prawnym nierucho lub ich
+1. Na wniosek Kościoła lub jego osób prawnych, wojewoda lub inny organ wykonujący w imieniu Skarbu Państwa prawa wynikające z własności nieruchomości albo organy gmin w zakresie swoich właściwości - mogą nieodpłatnie przekazać Kościołowi lub jego osobom prawnym własność nieruchomości lub ich części: lub działalności kościelnych osób prawnych w zakresie charytatywno-opiekuńczym lub oświatowowychowawczym,
 
-- **1)** one do sprawo wania kultu religijnego lub osób prawnych w za kresie cha rytatywno-opieku lub
-- **2)** w celu utworzenia lub gospodarstwa rolnego parafii na Ziemiach Zachodnich i nocnych, o powierzchni do 15 ha rolnych dla jednej parafii.
+- **2)** w celu utworzenia lub powiększenia gospodarstwa rolnego parafii działających na Ziemiach Zachodnich i Północnych, o powierzchni do 15 ha użytków rolnych łącznie dla jednej parafii.
 
-2. Przepis art. 23 ust. 3 stosuje odpo wiednio.";
+2. Przepis art. 23 ust. 3 stosuje się odpowiednio.";
 
-- **5)** po art. 27 dodaje art. 27a w brzmieniu: "Art. 27a. Wnioski, o których mowa wart. 26b, mo w terminie do dnia 31 grudnia 1998 r."
+- **5)** po art. 27 dodaje się art. 27a w brzmieniu: "Art. 27a. Wnioski, o których mowa w art. 26b, mogą być składane w terminie do dnia 31 grudnia 1998 r.".
 
-6. W ustawie z dnia 30 czerwca 1995 r. o sto sunku do Ewangelicko-Metodystycz nego w Rzeczypospolitej Polskiej (Dz. U. Nr 97, poz. 479) wprowadza zmiany:
+**Art. 6.** W ustawie z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła EwangelickoMetodystycznego w Rzeczypospolitej Polskiej (Dz.U. Nr 97, poz. 479) wprowadza się następujące zmiany:
 
-- **1)** art. 4 otrzymuje brzmienie: "Art. 4. i jego osoby prawne prawnymi parafii i organizacji metody stycznych na terytorium Rze czypospolitej Polskiej przed dniem 1 wrze 1939 r.";
-- **2)** po art. 11 dodaje art. lla w brzmieniu: "Art. 11 a. 1. zawarte w formie przewi dzianej Prawem Ko skutki cywilne, odpowiada wymaganiom w Kodeksie rodzinnym i
+**Art. 7.** W ustawie z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Chrześcijan Baptystów w Rzeczypospolitej Polskiej (Dz.U. Nr 97, poz. 480) wprowadza się następujące zmiany:
 
-2. przed o zawarciu stwa, Prawo Ko
+**Art. 8.** W ustawie z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Adwentystów Dnia Siódmego w Rzeczypospolitej Polskiej (Dz.U. Nr 97, poz. 481) wprowadza się następujące zmiany:
 
-- **3)** wart. 13 ust. 2;
-- **4)** art. 30 otrzymuje brzmienie: "Art. 30. Wolne od celnych z zagranicy dla osób praw nych dary:
-- **1)** przeznaczone na cele kultowe, cha i -wychowawcze, z wyro bów akcyzowych oraz samocho dów osobowych,
-- **2)** maszyny, i po ligraficzne oraz papier.";
-- **5)** po art. 36 dodaje art. 36a w brzmieniu: "Art. 36a. 1. Na wniosek osób praw nych wszczyna re gulacyjne w przedmiocie go przekazania na nierucho moscl lub ich uprzednio Episkopalnego Metodystycznego (Bischofli che Methodistische Kirche) i Ewangelickiej (Evangelische Ge meinschaft), w celu przywrócenia w nich sprawowania kultu religijnego, czej, i opie ku owawczej.
+**Art. 9.** W ustawie z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Polskokatolickiego w Rzeczypospolitej Polskiej (Dz.U. Nr 97, poz. 482) wprowadza się następujące zmiany:
 
-2. Wnioski w sprawach, o których mowa w ust. 1, do dnia 31 grudnia 1998 r. na zasadach i w try bie w dziale lila ustawy z dnia 17 maja 1989 r. o gwarancjach sumienia i wyznania (Dz. U. Nr 29, poz. 155, z 1990 r. Nr 51, poz. 297, Nr 55, poz. 321 i Nr 86, poz. 504, z 1991 r. Nr 95, poz. 425, z 1993 r. Nr 7, poz. 34 oraz z 1998 r. Nr 59, poz. 375).";
+**Art. 10.** W ustawie z dnia 20 lutego 1997 r. o stosunku Państwa do gmin wyznaniowych żydowskich w Rzeczypospolitej Polskiej (Dz.U. Nr 41, poz. 251) wprowadza się następujące zmiany:
 
-- **6)** w do ustawy "Wykaz parafii Ewangelicko-Metodystycznego w Rzeczypospoli tej Polskiej" wyrazy "Parafia wyrazami "Parafia .
+**Art. 11.** W ustawie z dnia 20 lutego 1997 r. o stosunku Państwa do Kościoła Katolickiego Mariawitów w Rzeczypospolitej Polskiej (Dz.U. Nr 41, poz. 252) w art. 10 skreśla się ust. 2.
 
-**Art. 7.** W ustawie z dnia 30 czerwca 1995 r. o sto sunku do Baptystów w Rzeczypospolitej Polskiej (Dz. U. Nr 97, poz. 480) wprowadza zmiany:
+**Art. 12.** W ustawie z dnia 20 lutego 1997 r. o stosunku Państwa do Kościoła Starokatolickiego Mariawitów w Rzeczypospolitej Polskiej (Dz.U. Nr 41, poz. 253) wprowadza się następujące zmiany: "Art. 8a. 1. Małżeństwo zawarte w formie przewidzianej prawem wewnętrznym Kościoła wywołuje skutki cywilne, jeżeli odpowiada wymaganiom określonym w Kodeksie rodzinnym i opiekuńczym. 2. Osobę duchowną, przed którą składa się oświadczenia o zawarciu małżeństwa, określa prawo wewnętrzne Kościoła.";
 
-**Art. 8.** W ustawie z dnia 30 czerwca 1995 r. o sto sunku do Adwentystów Dnia Siód mego w Rzeczypospolitej Polskiej (Dz. U. Nr 97, poz. 481) wprowadza zmiany:
+**Art. 13.** W ustawie z dnia 20 lutego 1997 r. o stosunku Państwa do Kościoła Zielonoświątkowego w Rzeczypospolitej Polskiej (Dz.U. Nr 41, poz. 254) wprowadza się następujące zmiany:
 
-**Art. 9.** W ustawie z dnia 30 czerwca 1995 r. o sto sunku do Polskokatolickiego w Rze czypospolitej Polskiej (Dz. U. Nr 97, poz. 482) wprowa dza zmiany:
+**Art. 14.** Wnioski w sprawie wszczęcia postępowania regulacyjnego, o których mowa w art. 48a ustawy nowelizowanej w art. 3, w art. 26a ustawy nowelizowanej w art. 5 i w art. 42a ustawy nowelizowanej w art. 7, wnosi się w terminie 3 miesięcy od dnia wejścia w życie ustawy.
 
-**Art. 10.** W ustawie z dnia 20 lutego 1997 r. o stosun ku do gmin wyznaniowych w Rze czypospolitej Polskiej (Dz. U. Nr 41, poz. 251) wprowa dza zmiany:
+**Art. 15.** Pozostają w mocy wpisy do rejestru kościołów i innych związków wyznaniowych dokonane na podstawie przepisów dotychczasowych, w szczególności nie jest wymagane uzupełnienie listy osób zgłaszających.
 
-**Art. 11.** W ustawie z dnia 20 lutego 1997 r. o stosu n ku do Katolickiego Mariawitów w Rzeczypospolitej Polskiej (Dz. U. Nr 41, poz. 252) wart. 10 ust. 2.
+**Art. 16.** Minister Spraw Wewnętrznych i Administracji ogłosi w Dzienniku Ustaw Rzeczypospolitej Polskiej jednolity tekst ustawy z dnia 17 maja 1989 r. o gwarancjach wolności sumienia i wyznania, z uwzględnieniem zmian wynikających z przepisów ogłoszonych przed dniem wydania jednolitego tekstu.
 
-**Art. 12.** W ustawie z dnia 20 lutego 1997 r.o stosun ku do Starokatolickiego Mariawitów w Rzeczypospolitej Polskiej (Dz. U. Nr 41, poz. 253) wprowadza zmiany:
-
-**Art. 13.** W ustawie z dnia 20 lutego 1997 r. o stosun ku do w Rze czypospolitej Polskiej (Dz. U. Nr 41, poz. 254) wprowa dza zmiany:
-
-**Art. 14.** Wnioski w sprawie nia regulacyjnego, o których mowa wart. 48a ustawy nowelizowanej wart. 3, wart. 26a ustawy nowelizowa nej wart. 5 i wart. 42a ustawy nowelizowanej wart. 7, wnosi w terminie 3 od dnia w cie ustawy.
-
-**Art. 15.** Pozostają w mocy wpisy do rejestru i innych wyznaniowych dokonane na podstawie przepisów dotychczasowych, w szczególno nie jest wymagane listy osób
-
-**Art. 16.** Minister Spraw i Admini stracji w Dzienniku Ustaw Rzeczypospolitej Pol skiej jednolity tekst ustawy z dnia 17 maja 1989 r. o gwarancjach sumienia i wyznania, z zmian z przepisów przed dniem wydania jednolitego tekstu.
-
-**Art. 17.** Ustawa wchodzi w po 14 dni od dnia Prezydent Rzeczypospolitej Polskiej: A. 376 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 4 maja 1998 r. w sprawie zasad i trybu przyznawania gminom subwencji drogowej. Na podstawie art. 27 f ust. 1 ustawy z dnia 10 grud nia 1993 r. o finansowaniu gmin (Dz. U. z 1998 r. Nr 30, poz. 164) co 1. subwencji drogowej dla gminy ustala subwencji drogowej, o której mowa wart. 12 ust. 2 ustawy o finansowaniu gmin (Dz. U. z 1998 r. Nr 30, poz. 164), zwanej dalej przez gminy w ogólnej kwocie subwencji drogowej,wyliczony zgodnie z 2. 2. gminy w ogólnej kwocie subwencji drogowej, obliczony do jedenastego miej sca po przecinku, jest równy procentowemu dochodów gminy z podatku od trans portowych za 1997 r., w transportowych, poza o których mowa wart. 8 ustawy z dnia 12 stycznia 1991 r. o podatkach i lokalnych (Dz. U. Nr 9, poz. 31 i Nr 101, poz. 444, z 1992 r. Nr 21, poz. 86, z 1994 r. Nr 123, poz. 600, z 1996 r. Nr 91, poz. 409 i Nr 149, poz. 704 oraz z 1997 r. Nr 5, poz. 24, Nr 107, poz. 689, Nr 121, poz. 770 i Nr 123, poz. 780), w ogólnej kwocie tych dochodów. 3. 1. Dochody gminy oraz docho dów, o których mowa w 1, ustala na podstawie informacji gmin o dochodach z podatku od ków transportowych za 1997 r., wzoru w z stanu dochodów na 31 grudnia 1997 r. 2. Informacje, o których mowa w ust. 1, gminy prze do Ministerstwa Finansów w terminie do dnia 31 lipca 1998 r. 4. 1. Minister Finansów informuje gminy o czynniku, o którym mowa w 2, oraz o rocz nej kwoty subwencji drogowej, o której mowa w 1, w terminie 7 dni od dnia ustawy wej, z ust. 2 i 3. 2. W 1998 r. Minister Finansów informuje gminy o o którym mowa w 2, obliczonym stanu zrealizowanych dochodów gminy na 31 grudnia 1997 r., oraz o rocznej kwo ty subwencji drogowej, o której mowa w 1, zgodnie z o dochodach gminy, o których mowa w 2, w terminie do dnia 31 maja 1998 r. 3. W 1998 r. Minister Finansów informuje gminy o ostatecznym o którym mowa w 2, obliczonym w oparciu o przez gminy
+**Art. 17.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

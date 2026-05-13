@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 26 sierpnia 2024 r.
+# o ochronie zabytków i opiece nad zabytkami
+
+*USTAWA z dnia 23 lipca 2003 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,26 +26,11 @@ domain: null
 | Ostatnia zmiana | 2026-04-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001292) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1292/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 19 sierpnia 2024 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o ochronie zabytków i opiece nad zabytkami
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2022 r. poz. 840), z uwzględnieniem zmian wprowadzonych:
-1) wyrokiem Trybunału Konstytucyjnego z dnia 11 maja 2023 r. sygn. akt P 12/18 (Dz. U. poz. 951),
-2) ustawą z dnia 7 lipca 2023 r. o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym oraz niektórych innych ustaw (Dz. U. poz. 1688),
-3) ustawą z dnia 13 lipca 2023 r. o zmianie ustawy o ochronie zabytków i opiece nad zabytkami (Dz. U. poz. 1904 oraz z 2024 r. poz. 647) oraz zmian wynikających z przepisów ogłoszonych przed dniem 2 sierpnia 2024 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 78 ustawy z dnia 7 lipca 2023 r. o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym oraz niektórych innych ustaw (Dz. U. poz. 1688), który stanowi: „Art. 78. Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem:
-1) art. 1 pkt 62 lit. e w zakresie ust. 3b oraz art. 67 ust. 3 pkt 3, które wchodzą w życie z dniem 1 stycznia 2025 r.;
-2) art. 1 pkt 10 w zakresie art. 8f i art. 8g ust. 3 i 4, pkt 12 w zakresie art. 13b pkt 1 i art. 13i ust. 3 pkt 4, 7 i 11, pkt 17 lit. d, g i lit. k w zakresie pkt 13c, pkt 25 w zakresie art. 27b ust. 4 pkt 3 i 7, pkt 29 lit. b, pkt 38 lit. b tiret drugie, tiret trzecie w zakresie pkt 7b i tiret piąte w zakresie pkt 11, pkt 39 w zakresie art. 37eb ust. 4 pkt 1 i art. 37ec ust. 2 pkt 3 i 8, pkt 45 lit. a tiret drugie, trzecie i tiret szóste w zakresie pkt 7, pkt 47 lit. a tiret czwarte i szóste, pkt 53 i 60, pkt 62 lit. b i f, pkt 63 i 64, art. 6 pkt 1 lit. a i b, art. 11–13, art. 14 pkt 2 lit. b, art. 16 pkt 3, art. 22 pkt 1 i 3, art. 27 pkt 4–9, art. 37 pkt 2 lit. d w zakresie ust. 8 i 9, art. 39 pkt 2, art. 41 pkt 1 w zakresie pkt 4a, art. 43 pkt 1, 3, 5, 10, pkt 11 lit. b i pkt 13 lit. a w zakresie ust. 1, art. 54, art. 56 ust. 2, art. 62, art. 67 ust. 3 pkt 3 i art. 75–77, które wchodzą w życie z dniem 1 stycznia 2026 r.”;
-2) art. 2 i art. 3 ustawy z dnia 13 lipca 2023 r. o zmianie ustawy o ochronie zabytków i opiece nad zabytkami (Dz. U.
-poz. 1904 oraz z 2024 r. poz. 647), które stanowią: „Art. 2. 1. Postępowania w sprawie wydania pozwolenia, o którym mowa w art. 36 ust. 1 pkt 12 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym, wszczęte i niezakończone decyzją ostateczną przed dniem wejścia w życie niniejszej ustawy umarza się.
-2. Do postępowań w sprawie przyznania nagród, o których mowa w art. 34 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym, wszczętych i niezakończonych decyzją ostateczną przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 Art. 121–138. (pominięte)
-
-**Art. 3.** Ustawa wchodzi w życie z dniem 1 maja 2025 r.”. Marszałek Sejmu: S. Hołownia USTAWA z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami
 
 #### Rozdział 1 Przepisy ogólne
 
-**Art. 1.** Ustawa określa przedmiot, zakres i formy ochrony zabytków oraz opieki nad nimi, zasady tworzenia krajowego programu ochrony zabytków i opieki nad zabytkami oraz finansowania prac konserwatorskich, restauratorskich i robót budowlanych przy zabytkach, a także organizację organów ochrony zabytków.
+**Art. 1.** Ustawa określa:
 
 **Art. 2.**
 
@@ -71,12 +58,12 @@ Art. 121–138. (pominięte)
     - **g)** parkami, ogrodami i innymi formami zaprojektowanej zieleni,
     - **h)** miejscami upamiętniającymi wydarzenia historyczne bądź działalność wybitnych osobistości lub instytucji;
 
-- **2)** zabytki ruchome będące, w szczególności: z 2022 r. poz. 2393),
+- **2)** zabytki ruchome będące, w szczególności:
     - **a)** dziełami sztuk plastycznych, rzemiosła artystycznego i sztuki użytkowej,
     - **b)** kolekcjami stanowiącymi zbiory przedmiotów zgromadzonych i uporządkowanych według koncepcji osób, które tworzyły te kolekcje,
     - **c)** numizmatami oraz pamiątkami historycznymi, a zwłaszcza militariami, sztandarami, pieczęciami, odznakami, medalami i orderami,
     - **d)** wytworami techniki, a zwłaszcza urządzeniami, środkami transportu oraz maszynami i narzędziami świadczącymi o kulturze materialnej, charakterystycznymi dla dawnych i nowych form gospodarki, dokumentującymi poziom nauki i rozwoju cywilizacyjnego,
-    - **e)** materiałami bibliotecznymi, o których mowa w art. 5 ustawy z dnia 27 czerwca 1997 r. o bibliotekach (Dz. U.
+    - **e)** materiałami bibliotecznymi, o których mowa w art. 5 ustawy z dnia 27 czerwca 1997 r. o bibliotekach (Dz. U. z 2022 r. poz. 2393),
     - **f)** instrumentami muzycznymi,
     - **g)** wytworami sztuki ludowej i rękodzieła oraz innymi obiektami etnograficznymi,
     - **h)** przedmiotami upamiętniającymi wydarzenia historyczne bądź działalność wybitnych osobistości lub instytucji;
@@ -199,7 +186,7 @@ Art. 121–138. (pominięte)
 - **10)** pojedynczych lub znajdujących się w zbiorach książek, które mają więcej niż 100 lat i ich wartość jest wyższa niż 50 000 euro,
 - **11)** map drukowanych, które mają więcej niż 200 lat,
 - **12)** środków transportu, które mają więcej niż 75 lat i ich wartość jest wyższa niż 50 000 euro,
-- **13)** innych kategorii, niewymienionych w pkt 1–12, obejmujących zabytki, które mają więcej niż 50 lat i ich wartość jest wyższa niż 50 000 euro na podstawie decyzji wydanej przez ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego, z urzędu albo na wniosek właściciela zabytku ruchomego. Art. 14aa. 1. Od dnia wszczęcia postępowania w sprawie wpisu zabytku na Listę Skarbów Dziedzictwa do dnia, w którym decyzja w tej sprawie stanie się ostateczna, przy zabytku, którego dotyczy postępowanie, zabrania się prowadzenia prac konserwatorskich i restauratorskich oraz podejmowania innych działań, które mogłyby prowadzić do naruszenia substancji lub zmiany wyglądu zabytku.
+- **13)** innych kategorii, niewymienionych w pkt 1–12, obejmujących zabytki, które mają więcej niż 50 lat i ich wartość jest wyższa niż 50 000 euro – na podstawie decyzji wydanej przez ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego, z urzędu albo na wniosek właściciela zabytku ruchomego. Art. 14aa. 1. Od dnia wszczęcia postępowania w sprawie wpisu zabytku na Listę Skarbów Dziedzictwa do dnia, w którym decyzja w tej sprawie stanie się ostateczna, przy zabytku, którego dotyczy postępowanie, zabrania się prowadzenia prac konserwatorskich i restauratorskich oraz podejmowania innych działań, które mogłyby prowadzić do naruszenia substancji lub zmiany wyglądu zabytku.
 
 2. Przepisu ust. 1 nie stosuje się do zabytku:
 
@@ -251,7 +238,7 @@ Art. 121–138. (pominięte)
 - **3a)** zasad i warunków sytuowania obiektów małej architektury;
 - **4)** składowania lub magazynowania odpadów.
 
-2. W razie ograniczenia sposobu korzystania z nieruchomości na skutek ustanowienia zakazów i ograniczeń, o których mowa w ust. 1, stosuje się odpowiednio przepisy art. 131–134 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (Dz. U. z 2024 r. poz. 54, 834 i 1089).
+2. W razie ograniczenia sposobu korzystania z nieruchomości na skutek ustanowienia zakazów i ograniczeń, o których mowa w ust. 1, stosuje się odpowiednio przepisy art. 131–134 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2024 r. poz. 54, 834 i 1089).
 
 **Art. 18.**
 
@@ -344,7 +331,7 @@ Art. 121–138. (pominięte)
 - **1)** zabytkami wpisanymi do rejestru, 1a) zabytkami wpisanymi na Listę Skarbów Dziedzictwa,
 - **2)** muzealiami, o których mowa w art. 21 ust. 1 i 1a ustawy z dnia 21 listopada 1996 r. o muzeach (Dz. U. z 2022 r. poz. 385),
 - **3)** materiałami bibliotecznymi, o których mowa w art. 5 ustawy z dnia 27 czerwca 1997 r. o bibliotekach, należącymi do narodowego zasobu bibliotecznego,
-- **4)** materiałami archiwalnymi, o których mowa w art. 1 ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach utraconymi przez właściciela w wyniku popełnienia czynu zabronionego, określonego w art. 278 § 1 i 3, art. 279 § 1, art. 280–283 albo art. 284 § 1–3 ustawy z dnia 6 czerwca 1997 r. Kodeks karny (Dz. U. z 2024 r. poz. 17).
+- **4)** materiałami archiwalnymi, o których mowa w art. 1 ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach – utraconymi przez właściciela w wyniku popełnienia czynu zabronionego, określonego w art. 278 § 1 i 3, art. 279 § 1, art. 280–283 albo art. 284 § 1–3 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2024 r. poz. 17).
 
 3. Wpisu do krajowego rejestru utraconych dóbr kultury dokonuje się na wniosek Policji, prokuratora, wojewódzkiego konserwatora zabytków, Naczelnego Dyrektora Archiwów Państwowych, właściciela rzeczy, o której mowa w ust. 2, lub osoby kierującej jednostką organizacyjną, w zbiorach albo zasobach której rzecz się znajdowała.
 
@@ -446,7 +433,7 @@ Art. 121–138. (pominięte)
 1. (utracił moc) 1a. Osoba fizyczna lub jednostka organizacyjna, która zamierza realizować:
 
 - **1)** roboty budowlane przy zabytku nieruchomym wpisanym do rejestru lub objętym ochroną konserwatorską na podstawie ustaleń miejscowego planu zagospodarowania przestrzennego lub znajdującym się w ewidencji wojewódzkiego konserwatora zabytków albo
-- **2)** roboty ziemne lub dokonać zmiany charakteru dotychczasowej działalności na terenie, na którym znajdują się zabytki archeologiczne, co doprowadzić może do przekształcenia lub zniszczenia zabytku archeologicznego jest obowiązana, z zastrzeżeniem art. 82a ust. 1, pokryć koszty badań archeologicznych oraz ich dokumentacji, jeżeli przeprowadzenie tych badań jest niezbędne w celu ochrony tych zabytków.
+- **2)** roboty ziemne lub dokonać zmiany charakteru dotychczasowej działalności na terenie, na którym znajdują się zabytki archeologiczne, co doprowadzić może do przekształcenia lub zniszczenia zabytku archeologicznego – jest obowiązana, z zastrzeżeniem art. 82a ust. 1, pokryć koszty badań archeologicznych oraz ich dokumentacji, jeżeli przeprowadzenie tych badań jest niezbędne w celu ochrony tych zabytków.
 
 2. Zakres i rodzaj niezbędnych badań archeologicznych, o których mowa w ust. 1a, ustala wojewódzki konserwator zabytków w drodze decyzji, wyłącznie w takim zakresie, w jakim roboty budowlane albo roboty ziemne lub zmiana charakteru dotychczasowej działalności na terenie, na którym znajdują się zabytki archeologiczne, zniszczą lub uszkodzą zabytek archeologiczny.
 
@@ -490,11 +477,7 @@ Art. 121–138. (pominięte)
 
 3. W terminie 3 dni od dnia przyjęcia zawiadomienia, o którym mowa w ust. 1 i 2, wojewódzki konserwator zabytków jest obowiązany dokonać oględzin znalezionego przedmiotu i miejsca jego znalezienia oraz, w razie potrzeby, zorganizować badania archeologiczne.
 
-4. O znalezieniu przedmiotu, o którym mowa w ust. 1, na polskich obszarach morskich należy niezwłocznie zawiadomić właściwego dyrektora urzędu morskiego.
-
-**Art. 33a.**
-
-- **8)** 1. Kto w wyniku poszukiwań, o których mowa w art. 36b ust. 1, znalazł lub pozyskał przedmiot, co do którego istnieje przypuszczenie, że jest on zabytkiem archeologicznym albo innym zabytkiem ruchomym, jest obowiązany zabezpieczyć ten przedmiot i oznakować miejsce jego znalezienia oraz niezwłocznie zawiadomić o tym właściwego wojewódzkiego konserwatora zabytków.
+4. O znalezieniu przedmiotu, o którym mowa w ust. 1, na polskich obszarach morskich należy niezwłocznie zawiadomić właściwego dyrektora urzędu morskiego. <Art. 33a. 1. Kto w wyniku poszukiwań, o których mowa w art. 36b ust. 1, znalazł lub pozyskał przedmiot, co do którego istnieje przypuszczenie, że jest on zabytkiem archeologicznym albo innym zabytkiem ruchomym, jest obowiązany zabezpieczyć ten przedmiot i oznakować miejsce jego znalezienia oraz niezwłocznie zawiadomić o tym właściwego wojewódzkiego konserwatora zabytków.
 
 2. W przypadku znalezienia lub pozyskania na obszarze nie większym niż 100 m co najmniej trzech przedmiotów, co do których istnieje przypuszczenie, że są one zabytkami archeologicznymi, prowadzący poszukiwania, o których mowa w art. 36b ust. 1, obowiązany jest niezwłocznie zawiadomić o tym właściwego wojewódzkiego konserwatora zabytków i wstrzymać poszukiwania do czasu przeprowadzenia czynności, o których mowa w ust. 3, jednak na okres nie dłuższy niż 30 dni od dnia przyjęcia zawiadomienia przez właściwego wojewódzkiego konserwatora zabytków. W zawiadomieniu należy wskazać lokalizację znalezionych przedmiotów.
 
@@ -502,19 +485,11 @@ Art. 121–138. (pominięte)
 
 4. Wojewódzki konserwator zabytków w terminie 30 dni od dnia zakończenia oględzin dokonuje oceny, czy znaleziony lub pozyskany przedmiot jest zabytkiem, i informuje zawiadamiającego o ustaleniach i dalszych działaniach co do znalezionego przedmiotu.
 
-5. Po ustaleniu, że znaleziony lub pozyskany przedmiot jest zabytkiem, wojewódzki konserwator zabytków niezwłocznie zamieszcza informacje o znalezionym zabytku w rejestrze poszukiwań.
-
-**Art. 34.**
-
-- **9)** 1. Osobom, które odkryły bądź przypadkowo znalazły zabytek archeologiczny, przysługuje nagroda, jeżeli dopełniły one obowiązków określonych odpowiednio w art. 32 ust. 1 lub w art. 33 ust. 1.
+5. Po ustaleniu, że znaleziony lub pozyskany przedmiot jest zabytkiem, wojewódzki konserwator zabytków niezwłocznie zamieszcza informacje o znalezionym zabytku w rejestrze poszukiwań.> [Art. 34. 1. Osobom, które odkryły bądź przypadkowo znalazły zabytek archeologiczny, przysługuje nagroda, jeżeli dopełniły one obowiązków określonych odpowiednio w art. 32 ust. 1 lub w art. 33 ust. 1.
 
 2. Przepisu ust. 1 nie stosuje się do osób zajmujących się zawodowo badaniami archeologicznymi lub zatrudnionych w grupach zorganizowanych w celu prowadzenia takich badań.
 
-3. Warunki i tryb przyznawania nagród określi, w drodze rozporządzenia, minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, ustalając rodzaje nagród, źródła ich finansowania i wysokość nagród pieniężnych.
-
-**Art. 34.**
-
-- **10)** 1. Osobom, które odkryły w trakcie prowadzenia robót budowlanych lub ziemnych, przypadkowo znalazły albo znalazły lub pozyskały w wyniku poszukiwań, o których mowa w art. 36b ust. 1, zabytek archeologiczny, przysługuje nagroda pieniężna albo dyplom, jeżeli dopełniły obowiązków określonych odpowiednio w art. 32 ust. 1, art. 33 ust. 1 lub w art. 33a ust. 1 i 2.
+3. Warunki i tryb przyznawania nagród określi, w drodze rozporządzenia, minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, ustalając rodzaje nagród, źródła ich finansowania i wysokość nagród pieniężnych.] <Art. 34. 1. Osobom, które odkryły w trakcie prowadzenia robót budowlanych lub ziemnych, przypadkowo znalazły albo znalazły lub pozyskały w wyniku poszukiwań, o których mowa w art. 36b ust. 1, zabytek archeologiczny, przysługuje nagroda pieniężna albo dyplom, jeżeli dopełniły obowiązków określonych odpowiednio w art. 32 ust. 1, art. 33 ust. 1 lub w art. 33a ust. 1 i 2.
 
 2. Nagrodę pieniężną przyznaje się, gdy zabytek archeologiczny posiada szczególną wartość historyczną, artystyczną lub naukową, a w pozostałych przypadkach przyznaje się dyplom.
 
@@ -524,85 +499,38 @@ Art. 121–138. (pominięte)
 
 5. Nagrody pieniężne wypłaca się ze środków finansowych przewidzianych w części budżetu państwa, której dysponentem jest minister właściwy do spraw kultury i ochrony dziedzictwa narodowego.
 
-6. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze rozporządzenia, tryb przyznawania nagród pieniężnych i dyplomów, uwzględniając konieczność zapewnienia przejrzystości i sprawności postępowania.
+6. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze rozporządzenia, tryb przyznawania nagród pieniężnych i dyplomów, uwzględniając konieczność zapewnienia przejrzystości i sprawności postępowania.>
 
-**Art. 35.**
-
-1. Przedmioty będące zabytkami archeologicznymi odkrytymi, przypadkowo znalezionymi albo pozyskanymi w wyniku badań archeologicznych, stanowią własność Skarbu Państwa.
-
-1. Przedmioty będące zabytkami archeologicznymi:
-
-- **1)** odkrytymi,
-- **2)** znalezionymi przypadkowo,
-- **3)** znalezionymi lub pozyskanymi w wyniku poszukiwań, o których mowa w art. 36b ust. 1,
-- **4)** pozyskanymi w wyniku badań archeologicznych stanowią własność Skarbu Państwa.
-
-2. Własność Skarbu Państwa stanowią również przedmioty będące zabytkami archeologicznymi, pozyskane w wyniku poszukiwań, o których mowa w art. 36 ust. 1 pkt 12.
-
-2. (uchylony)
-
-3. Miejsce przechowywania zabytków archeologicznych odkrytych, przypadkowo znalezionych albo pozyskanych w wyniku badań archeologicznych bądź poszukiwań, o których mowa w art. 36 ust. 1 pkt 12, określa wojewódzki konserwator zabytków, przekazując je, w drodze decyzji, w depozyt muzeum lub innej jednostce organizacyjnej, za jej zgodą.
-
-3. Miejsce przechowywania zabytków archeologicznych odkrytych, znalezionych przypadkowo, znalezionych lub pozyskanych w wyniku poszukiwań, o których mowa w art. 36b ust. 1, albo pozyskanych w wyniku badań archeologicznych określa wojewódzki konserwator zabytków, przekazując je, w drodze decyzji, w depozyt muzeum lub innej jednostce organizacyjnej za jej zgodą.
-
-4. Przekazanie zabytków archeologicznych muzeum lub innej jednostce organizacyjnej może nastąpić w przypadku, gdy jednostka ta zapewni:
-
-- **1)** ich trwałe przechowanie;
-- **2)** przeprowadzenie inwentaryzacji i odpowiednich prac konserwatorskich;
-- **3)** udostępnianie tych zabytków w celach naukowych.
-
-5. Wojewódzki konserwator zabytków może wydać decyzję o cofnięciu oddania w depozyt zabytków archeologicznych, jeżeli muzeum lub inna jednostka organizacyjna nie zapewnia warunków, o których mowa w ust. 4.
-
-6. Na wniosek dyrektora muzeum zabytki archeologiczne, będące w depozycie tego muzeum, mogą być przekazane na jego własność na podstawie decyzji wojewódzkiego konserwatora zabytków.
+**Art. 35.** [1. Przedmioty będące zabytkami archeologicznymi odkrytymi, przypadkowo znalezionymi albo pozyskanymi w wyniku badań archeologicznych, stanowią własność Skarbu Państwa.] <1. Przedmioty będące zabytkami archeologicznymi:
 
 **Art. 36.**
 
 1. Pozwolenia wojewódzkiego konserwatora zabytków wymaga:
 
-- **1)** prowadzenie prac konserwatorskich, restauratorskich lub robót budowlanych przy zabytku wpisanym do rejestru, w tym prac polegających na usunięciu drzewa lub krzewu z nieruchomości lub jej części będącej wpisanym do rejestru parkiem, ogrodem lub inną formą zaprojektowanej zieleni;
-- **2)** wykonywanie robót budowlanych w otoczeniu zabytku;
+- **1)** prowadzenie prac konserwatorskich, restauratorskich lub robót budowlanych przy zabytku wpisanym do rejestru, w tym prac polegających na usunięciu drzewa lub krzewu z nieruchomości lub jej części będącej wpisanym do rejestru parkiem, ogrodem lub inną formą zaprojektowanej zieleni; <1a) prowadzenie robót górniczych przy zabytku wpisanym do rejestru;
+- **1b)** usunięcie drzewa lub krzewu z nieruchomości lub jej części będącej wpisanym do rejestru parkiem, ogrodem lub inną formą zaprojektowanej zieleni z innego powodu niż prowadzenie prac konserwatorskich i restauratorskich, o których mowa w pkt 1;> [2) wykonywanie robót budowlanych w otoczeniu zabytku;]
 - **3)** prowadzenie badań konserwatorskich zabytku wpisanego do rejestru;
 - **4)** prowadzenie badań architektonicznych zabytku wpisanego do rejestru;
 - **5)** prowadzenie badań archeologicznych;
-- **6)** przemieszczanie zabytku nieruchomego wpisanego do rejestru;
-- **7)** trwałe przeniesienie zabytku ruchomego wpisanego do rejestru, z naruszeniem ustalonego tradycją wystroju wnętrza, w którym zabytek ten się znajduje;
-- **8)** dokonywanie podziału zabytku nieruchomego wpisanego do rejestru;
-- **9)** zmiana przeznaczenia zabytku wpisanego do rejestru lub sposobu korzystania z tego zabytku;
+- **6)** przemieszczanie zabytku nieruchomego wpisanego do rejestru; [7) trwałe przeniesienie zabytku ruchomego wpisanego do rejestru, z naruszeniem ustalonego tradycją wystroju wnętrza, w którym zabytek ten się znajduje;]
+- **8)** dokonywanie podziału zabytku nieruchomego wpisanego do rejestru; [9) zmiana przeznaczenia zabytku wpisanego do rejestru lub sposobu korzystania z tego zabytku;
 - **10)** umieszczanie na zabytku wpisanym do rejestru: urządzeń technicznych, tablic reklamowych lub urządzeń reklamowych w rozumieniu art. 2 pkt 16b i 16c ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2024 r. poz. 1130) oraz napisów, z zastrzeżeniem art. 12 ust. 1;
-- **11)** podejmowanie innych działań, które mogłyby prowadzić do naruszenia substancji lub zmiany wyglądu zabytku wpisanego do rejestru, z wyłączeniem działań polegających na usuwaniu drzew lub krzewów z terenu nieruchomości lub jej części niebędącej wpisanym do rejestru parkiem, ogrodem albo inną formą zaprojektowanej zieleni;
-- **12)** poszukiwanie ukrytych lub porzuconych zabytków ruchomych, w tym zabytków archeologicznych, przy użyciu wszelkiego rodzaju urządzeń elektronicznych i technicznych oraz sprzętu do nurkowania;
-- **12)** (uchylony)
-- **13)** wydobycie wielkogabarytowego zabytku ruchomego, wymagające użycia maszyn budowlanych.
-
-1a. Przy zabytku wpisanym na Listę Skarbów Dziedzictwa można prowadzić:
-
+- **11)** podejmowanie innych działań, które mogłyby prowadzić do naruszenia substancji lub zmiany wyglądu zabytku wpisanego do rejestru, z wyłączeniem działań polegających na usuwaniu drzew lub krzewów z terenu nieruchomości lub jej części niebędącej wpisanym do rejestru parkiem, ogrodem albo inną formą zaprojektowanej zieleni;] [12) poszukiwanie ukrytych lub porzuconych zabytków ruchomych, w tym zabytków archeologicznych, przy użyciu wszelkiego rodzaju urządzeń elektronicznych i technicznych oraz sprzętu do nurkowania;] <13) wydobycie wielkogabarytowego zabytku ruchomego, wymagające użycia maszyn budowlanych.> 1a. Przy zabytku wpisanym na Listę Skarbów Dziedzictwa można prowadzić:
 - **1)** prace konserwatorskie,
 - **2)** prace restauratorskie,
-- **3)** badania konserwatorskie na podstawie pozwolenia wydanego przez ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego.
-
-1b. Poszukiwania ukrytych lub porzuconych zabytków ruchomych na polskich obszarach morskich przy użyciu urządzenia elektronicznego lub technicznego można prowadzić na podstawie pozwolenia dyrektora urzędu morskiego wydanego w uzgodnieniu z wojewódzkim konserwatorem zabytków właściwym dla siedziby urzędu morskiego.
-
-2. Na polskich obszarach morskich pozwolenie na podejmowanie działań, o których mowa w ust. 1 pkt 5 i 12, wydaje dyrektor urzędu morskiego w uzgodnieniu z wojewódzkim konserwatorem zabytków właściwym dla miejsca siedziby urzędu morskiego.
-
-2. Na polskich obszarach morskich pozwolenie na podejmowanie działań, o których mowa w ust. 1 pkt 5, wydaje dyrektor urzędu morskiego w uzgodnieniu z wojewódzkim konserwatorem zabytków właściwym dla miejsca siedziby urzędu morskiego.
-
-2a. Wojewódzki konserwator zabytków może uzależnić podjęcie działań objętych pozwoleniem, o którym mowa w ust. 1, od przekazania przez wnioskodawcę w oznaczonym terminie określonych informacji dotyczących działań wymienionych w pozwoleniu, zastrzegając odpowiedni warunek w treści pozwolenia. Do warunku stosuje się art. 162 § 1 Kodeksu postępowania administracyjnego.
+- **3)** badania konserwatorskie – na podstawie pozwolenia wydanego przez ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego. <1aa. W przypadku gdy pozwolenie, o którym mowa w ust. 1 pkt 1, obejmuje usunięcie drzewa lub krzewu oraz w przypadku pozwolenia, o którym mowa w ust. 1 pkt 1b, jeżeli jednocześnie jest wymagane uzyskanie zezwolenia, o którym mowa w art. 83 ust. 1 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2024 r. poz. 1478 i 1940 oraz z 2025 r. poz. 884), albo dokonanie zgłoszenia, o którym mowa w art. 83f ust. 4 tej ustawy, wojewódzki konserwator zabytków rozstrzyga w sprawie usunięcia drzewa lub krzewu w pozwoleniu, o którym mowa w ust. 1 pkt 1 albo 1b. Nie wydaje się zezwolenia, o którym mowa w art. 83 ust. 1 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody, oraz nie dokonuje się zgłoszenia, o którym mowa w art. 83f ust. 4 tej ustawy. Do wydania decyzji w sprawie pozwolenia stosuje się odpowiednio przepisy art. 83a ust. 2a–6, art. 83c, art. 83d ust. 1–4 i 6, art. 84 ust. 1–3, art. 85 ust. 1–4 i 5–7 oraz art. 86 ust. 1 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody. 1ab. W przypadku, o którym mowa w ust. 1aa, opłatę za usunięcie drzewa lub krzewu ustala się, przyjmując wysokość stawek określoną w przepisach wydanych na podstawie art. 85 ust. 4b ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody. Do uiszczenia opłat za usunięcie drzewa lub krzewu stosuje się art. 87 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody. 1ac. Jeżeli przyczyną usunięcia drzewa lub krzewu jest realizacja inwestycji wymagającej uzyskania pozwolenia na prowadzenie robót budowlanych, o którym mowa w ust. 1 pkt 1, lub pozwolenia na rozbiórkę, pozwolenia na budowę albo dokonania zgłoszenia robót budowlanych zgodnie z przepisami Prawa budowlanego, pozwolenie na usunięcie drzewa lub krzewu wykonuje się pod warunkiem uzyskania pozwoleń na prowadzenie robót budowlanych lub dokonania zgłoszenia robót budowlanych, które kolidują z drzewami lub krzewami, będącymi przedmiotem zezwolenia. Przepisu nie stosuje się do inwestycji liniowych celu publicznego. 1ad. Jeżeli w terminie 5 lat od dnia, w którym pozwolenie dotyczące usunięcia drzewa lub krzewu z nieruchomości stanowiącej własność osoby fizycznej na cele niezwiązane z prowadzeniem działalności gospodarczej stało się ostateczne, wystąpiono o wydanie decyzji o pozwolenie na budowę albo dokonano zgłoszenia budowy lub wykonywania innych robót budowlanych zgodnie z przepisami Prawa budowlanego, a budowa lub roboty budowlane mają związek z prowadzeniem działalności gospodarczej i będą realizowane na części nieruchomości, na której rosło usunięte drzewo, stosuje się odpowiednio przepisy art. 83f ust. 17–20 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody. 1ae. W przypadkach, o których mowa w art. 83f ust. 1 pkt 13 i 14 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody, nie wydaje się pozwolenia, o którym mowa w ust. 1 pkt 1b. 1af. W przypadku uzależnienia wydania pozwolenia, na podstawie ust. 1aa, od przesadzenia drzewa lub krzewu albo wykonania nasadzeń zastępczych oraz odroczenia opłaty za usunięcie drzewa lub krzewu, stosuje się odpowiednio przepisy art. 84 ust. 4–8 oraz art. 86 ust. 2 i 3 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody.> <1b. Poszukiwania ukrytych lub porzuconych zabytków ruchomych na polskich obszarach morskich przy użyciu urządzenia elektronicznego lub technicznego można prowadzić na podstawie pozwolenia dyrektora urzędu morskiego wydanego w uzgodnieniu z wojewódzkim konserwatorem zabytków właściwym dla siedziby urzędu morskiego.> [2. Na polskich obszarach morskich pozwolenie na podejmowanie działań, o których mowa w ust. 1 pkt 5 i 12, wydaje dyrektor urzędu morskiego w uzgodnieniu z wojewódzkim konserwatorem zabytków właściwym dla miejsca siedziby urzędu morskiego.] <2. Na polskich obszarach morskich pozwolenie na podejmowanie działań, o których mowa w ust. 1 pkt 5, wydaje dyrektor urzędu morskiego w uzgodnieniu z wojewódzkim konserwatorem zabytków właściwym dla miejsca siedziby urzędu morskiego.> 2a. Wojewódzki konserwator zabytków może uzależnić podjęcie działań objętych pozwoleniem, o którym mowa w ust. 1, od przekazania przez wnioskodawcę w oznaczonym terminie określonych informacji dotyczących działań wymienionych w pozwoleniu, zastrzegając odpowiedni warunek w treści pozwolenia. Do warunku stosuje się art. 162 § 1 Kodeksu postępowania administracyjnego.
 
 2b. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego może uzależnić podjęcie działań objętych pozwoleniem, o którym mowa w ust. 1a, od przekazania przez wnioskodawcę w oznaczonym terminie określonych informacji dotyczących działań wymienionych w pozwoleniu, zastrzegając odpowiedni warunek w treści pozwolenia. Do warunku stosuje się art. 162 § 1 Kodeksu postępowania administracyjnego.
 
 3. Pozwolenia, o których mowa w ust. 1 i 1a, mogą określać warunki, które zapobiegną uszkodzeniu lub zniszczeniu zabytku.
 
-4. Wojewódzki konserwator zabytków może uzależnić wydanie pozwolenia na podejmowanie działań, o których mowa w ust. 1 pkt 6, 9 i 11, od przeprowadzenia, na koszt wnioskodawcy, niezbędnych badań konserwatorskich, architektonicznych lub archeologicznych. Egzemplarz dokumentacji badań jest przekazywany nieodpłatnie wojewódzkiemu konserwatorowi zabytków.
+4. Wojewódzki konserwator zabytków może uzależnić wydanie pozwolenia na podejmowanie działań, o których mowa w ust. 1 pkt 6, [9 i 11,] od przeprowadzenia, na koszt wnioskodawcy, niezbędnych badań konserwatorskich, architektonicznych lub archeologicznych. Egzemplarz dokumentacji badań jest przekazywany nieodpłatnie wojewódzkiemu konserwatorowi zabytków.
 
 4a. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego może uzależnić wydanie pozwolenia na podejmowanie działań, o których mowa w ust. 1a pkt 1 i 2, od przeprowadzenia, na koszt wnioskodawcy, niezbędnych badań konserwatorskich. Egzemplarz dokumentacji badań jest przekazywany nieodpłatnie ministrowi.
 
-5. Pozwolenia, o których mowa w ust. 1 i 1a, wydaje się na wniosek osoby fizycznej lub jednostki organizacyjnej posiadającej tytuł prawny do korzystania z zabytku wpisanego na Listę Skarbów Dziedzictwa albo do rejestru, wynikający z prawa własności, użytkowania wieczystego, trwałego zarządu albo ograniczonego prawa rzeczowego lub stosunku zobowiązaniowego.
+5. Pozwolenia, o których mowa w ust. 1 i 1a, wydaje się na wniosek osoby fizycznej lub jednostki organizacyjnej posiadającej tytuł prawny do korzystania z zabytku wpisanego na Listę Skarbów Dziedzictwa albo do rejestru, wynikający z prawa własności, użytkowania wieczystego, trwałego zarządu albo ograniczonego prawa rzeczowego lub stosunku zobowiązaniowego. <5a. Pozwolenie, o którym mowa w ust. 1 pkt 1b, może być wydane również na wniosek właściciela urządzeń, o których mowa w art. 49 § 1 Kodeksu cywilnego, jeżeli drzewo lub krzew zagrażają funkcjonowaniu tych urządzeń. Przepisy art. 83e ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody stosuje się odpowiednio.>
 
-6. Pozwolenie na prowadzenie badań archeologicznych wydaje się na wniosek osoby fizycznej lub jednostki organizacyjnej posiadającej tytuł prawny do korzystania z nieruchomości, wynikający z prawa własności, użytkowania wieczystego, trwałego zarządu albo ograniczonego prawa rzeczowego lub stosunku zobowiązaniowego.
-
-7. Pozwolenie na prowadzenie badań konserwatorskich przy zabytku wpisanym na Listę Skarbów Dziedzictwa, badań konserwatorskich i architektonicznych przy zabytku wpisanym do rejestru albo badań archeologicznych lub poszukiwań ukrytych bądź porzuconych zabytków ruchomych, w tym zabytków archeologicznych, wydaje się również na wniosek osób fizycznych albo jednostek organizacyjnych zamierzających prowadzić te badania lub poszukiwania. W przypadku nieuzyskania zgody właściciela lub posiadacza nieruchomości na przeprowadzenie tych badań lub poszukiwań przepisy art. 30 ust. 1 i 2 stosuje się odpowiednio.
-
-7. Pozwolenie na prowadzenie badań konserwatorskich przy zabytku wpisanym na Listę Skarbów Dziedzictwa, badań konserwatorskich i architektonicznych przy zabytku wpisanym do rejestru albo badań archeologicznych wydaje się również na wniosek osób fizycznych albo jednostek organizacyjnych zamierzających prowadzić te badania. W przypadku nieuzyskania zgody właściciela nieruchomości i posiadacza nieruchomości na przeprowadzenie tych badań przepisy art. 30 ust. 1 i 2 stosuje się odpowiednio.
+6. Pozwolenie na prowadzenie badań archeologicznych wydaje się na wniosek osoby fizycznej lub jednostki organizacyjnej posiadającej tytuł prawny do korzystania z nieruchomości, wynikający z prawa własności, użytkowania wieczystego, trwałego zarządu albo ograniczonego prawa rzeczowego lub stosunku zobowiązaniowego. [7. Pozwolenie na prowadzenie badań konserwatorskich przy zabytku wpisanym na Listę Skarbów Dziedzictwa, badań konserwatorskich i architektonicznych przy zabytku wpisanym do rejestru albo badań archeologicznych lub poszukiwań ukrytych bądź porzuconych zabytków ruchomych, w tym zabytków archeologicznych, wydaje się również na wniosek osób fizycznych albo jednostek organizacyjnych zamierzających prowadzić te badania lub poszukiwania. W przypadku nieuzyskania zgody właściciela lub posiadacza nieruchomości na przeprowadzenie tych badań lub poszukiwań przepisy art. 30 ust. 1 i 2 stosuje się odpowiednio.] <7. Pozwolenie na prowadzenie badań konserwatorskich przy zabytku wpisanym na Listę Skarbów Dziedzictwa, badań konserwatorskich i architektonicznych przy zabytku wpisanym do rejestru albo badań archeologicznych wydaje się również na wniosek osób fizycznych albo jednostek organizacyjnych zamierzających prowadzić te badania. W przypadku nieuzyskania zgody właściciela nieruchomości i posiadacza nieruchomości na przeprowadzenie tych badań przepisy art. 30 ust. 1 i 2 stosuje się odpowiednio.>
 
 8. Uzyskanie pozwolenia wojewódzkiego konserwatora zabytków na podjęcie robót budowlanych przy zabytku wpisanym do rejestru nie zwalnia z obowiązku uzyskania pozwolenia na budowę albo zgłoszenia, w przypadkach określonych przepisami Prawa budowlanego.
 
@@ -610,11 +538,61 @@ Art. 121–138. (pominięte)
 
 1. Osoba fizyczna lub jednostka organizacyjna występująca z wnioskiem o pozwolenie na prowadzenie prac konserwatorskich, prac restauratorskich lub badań konserwatorskich przy zabytku wpisanym na Listę Skarbów Dziedzictwa albo na prowadzenie prac konserwatorskich, prac restauratorskich, badań konserwatorskich lub badań architektonicznych przy zabytku wpisanym do rejestru albo badań archeologicznych jest obowiązana zapewnić kierowanie tymi pracami oraz badaniami albo samodzielne ich wykonywanie przez osoby spełniające odpowiednio wymagania, o których mowa w art. 37a ust. 1 i 2, art. 37b ust. 1 i 3, art. 37d ust. 1 albo art. 37e ust. 1.
 
-2. Osoba fizyczna lub jednostka organizacyjna występująca z wnioskiem o pozwolenie na prowadzenie robót budowlanych przy zabytku nieruchomym wpisanym do rejestru jest obowiązana zapewnić kierowanie tymi robotami oraz wykonywanie nadzoru inwestorskiego przez osoby spełniające wymagania, o których mowa w art. 37c.
+2. Osoba fizyczna lub jednostka organizacyjna występująca z wnioskiem o pozwolenie na prowadzenie robót budowlanych przy zabytku nieruchomym wpisanym do rejestru jest obowiązana zapewnić kierowanie tymi robotami oraz wykonywanie nadzoru inwestorskiego przez osoby spełniające wymagania, o których mowa w art. 37c. <Art. 36aa. 1. Zgłoszenia wojewódzkiemu konserwatorowi zabytków wymaga:
 
-**Art. 36b.**
+- **1)** wykonywanie robót budowlanych w otoczeniu zabytku;
+- **2)** trwałe przeniesienie zabytku ruchomego wpisanego do rejestru, z naruszeniem ustalonego tradycją wystroju wnętrza, w którym zabytek ten się znajduje;
+- **3)** zmiana przeznaczenia zabytku wpisanego do rejestru lub sposobu korzystania z tego zabytku;
+- **4)** umieszczenie na zabytku wpisanym do rejestru: urządzeń technicznych, tablic reklamowych lub urządzeń reklamowych w rozumieniu art. 2 pkt 16b i 16c ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2024 r. poz. 1130, 1907 i 1940 oraz z 2025 r. poz. 527, 680 i 1668) oraz napisów, z zastrzeżeniem art. 12 ust. 1;
+- **5)** podejmowanie innych działań, które mogłyby prowadzić do naruszenia substancji lub zmiany wyglądu zabytku wpisanego do rejestru, z wyłączeniem działań polegających na usuwaniu drzew lub krzewów z nieruchomości lub jej części wpisanej do rejestru zabytków, lecz niebędącej parkiem, ogrodem lub inną formą zaprojektowanej zieleni.
 
-- **25)** 1. Poszukiwania ukrytych lub porzuconych zabytków ruchomych przy użyciu urządzeń elektronicznych lub technicznych może prowadzić osoba pełnoletnia pod warunkiem posiadania zgody właściciela nieruchomości i posiadacza nieruchomości oraz po dokonaniu zgłoszenia poszukiwań do rejestru poszukiwań.
+2. Zgłoszenia dokonuje osoba fizyczna lub jednostka organizacyjna, o której mowa w art. 36 ust. 5, zamierzająca prowadzić działania, o których mowa w ust. 1.
+
+3. Wojewódzki konserwator zabytków wnosi sprzeciw, w drodze decyzji, w terminie 60 dni od dnia doręczenia zgłoszenia.
+
+4. Do realizacji działań, o których mowa w ust. 1, można przystąpić, jeżeli wojewódzki konserwator zabytków nie wniósł sprzeciwu w terminie, o którym mowa w ust. 3.
+
+5. Wojewódzki konserwator zabytków może z urzędu, przed upływem terminu, o którym mowa w ust. 3, wydać zaświadczenie o braku podstaw do wniesienia sprzeciwu. Wydanie zaświadczenia wyłącza możliwość wniesienia sprzeciwu oraz uprawnia do rozpoczęcia działań.
+
+6. W przypadku nierozpoczęcia działań, o których mowa w ust. 1, przed upływem 2 lat od określonego w zgłoszeniu terminu ich rozpoczęcia rozpoczęcie tych działań wymaga dokonania ponownego zgłoszenia.
+
+7. W razie konieczności uzupełnienia zgłoszenia wojewódzki konserwator zabytków nakłada na zgłaszającego, w drodze postanowienia, obowiązek uzupełnienia, w określonym terminie, brakujących dokumentów lub informacji. Nałożenie obowiązku przerywa bieg terminu, o którym mowa w ust. 3. Termin ten biegnie na nowo od dnia następującego po dniu doręczenia organowi dokumentów lub informacji określonych w postanowieniu. W przypadku niewykonania obowiązku uzupełnienia brakujących dokumentów lub informacji wojewódzki konserwator zabytków wnosi sprzeciw w terminie 60 dni od dnia następującego po dniu, w którym upłynął termin wykonania tego obowiązku.
+
+8. Wojewódzki konserwator zabytków wnosi sprzeciw, jeżeli:
+
+- **1)** zgłoszenie dotyczy działań objętych obowiązkiem uzyskania pozwolenia, o którym mowa w art. 36 ust. 1;
+- **2)** zgłoszenie dotyczy działań już rozpoczętych lub wykonanych;
+- **3)** zgłoszone roboty budowlane naruszają ustalenia ochrony zabytków w miejscowym planie zagospodarowania przestrzennego, decyzji o warunkach zabudowy lub innych decyzji, o których mowa w art. 7 pkt 4;
+- **4)** zgłoszone działania są niezgodne z przepisami uchwały, o której mowa w art. 37a ust. 1 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym;
+- **5)** zgłoszone działania naruszają warunki, zakazy lub ograniczenia określone w uchwale o utworzeniu parku kulturowego;
+- **6)** zgłoszone działania spowodują:
+    - **a)** uszczerbek dla wartości zabytku lub
+    - **b)** uszkodzenie lub zniszczenie zabytku, lub
+    - **c)** niewłaściwe korzystanie z zabytku.
+
+9. Za dzień wniesienia sprzeciwu uznaje się dzień określony w art. 122b Kodeksu postępowania administracyjnego.
+
+10. Wojewódzki konserwator zabytków może wnieść sprzeciw i nałożyć w nim obowiązek uzyskania pozwolenia na prowadzenie działań, o których mowa w ust. 1, jeżeli ich realizacja mogłaby spowodować:
+
+- **1)** uszczerbek dla wartości zabytku lub
+- **2)** uszkodzenie lub zniszczenie zabytku, lub
+- **3)** niewłaściwe korzystanie z zabytku, lub
+- **4)** zagrożenie dla zabytku kradzieżą, zaginięciem lub nielegalnym wywozem za granicę.
+
+11. W przypadku gdy wojewódzki konserwator zabytków nie wniósł sprzeciwu, na wniosek zgłaszającego wydaje zaświadczenie o niezgłoszeniu sprzeciwu.
+
+12. Do zgłoszeń stosuje się odpowiednio przepisy rozdziałów 12 i 13 w dziale II Kodeksu postępowania administracyjnego. Na potrzeby stosowania przepisów, o których mowa w zdaniu pierwszym, przyjmuje się, że w przypadku bezskutecznego upływu terminu, o którym mowa w ust. 3, wojewódzki konserwator zabytków orzekł ostatecznie o przyjęciu zgłoszenia w dniu następującym po upływie tego terminu.
+
+13. Osoba fizyczna lub jednostka organizacyjna, o której mowa w art. 36 ust. 5, zamierzająca prowadzić działania, o których mowa w ust. 1, zamiast dokonania zgłoszenia może wystąpić z wnioskiem o wydanie pozwolenia na prowadzenie tych działań.
+
+14. Zgłoszenie zawiera:
+
+- **1)** wskazanie osoby fizycznej lub jednostki organizacyjnej, o której mowa w art. 36 ust. 5, zamierzającej prowadzić działania, o których mowa w ust. 1, dokonującej zgłoszenia oraz jej adres zamieszkania lub siedziby;
+- **2)** wskazanie zabytku, z uwzględnieniem miejsca jego położenia lub przechowywania lub miejsca prowadzenia robót budowlanych, o których mowa w ust. 1 pkt 1;
+- **3)** pełnomocnictwo, jeżeli zgłaszający działa przez pełnomocnika;
+- **4)** inne informacje i dokumenty określone w przepisach wydanych na podstawie art. 37 ust. 1 pkt 2.
+
+15. Dokonanie zgłoszenia wojewódzkiemu konserwatorowi zabytków nie zwalnia z obowiązku uzyskania pozwolenia na budowę albo dokonania zgłoszenia, w przypadkach określonych przepisami Prawa budowlanego.> <Art. 36b. 1. Poszukiwania ukrytych lub porzuconych zabytków ruchomych przy użyciu urządzeń elektronicznych lub technicznych może prowadzić osoba pełnoletnia pod warunkiem posiadania zgody właściciela nieruchomości i posiadacza nieruchomości oraz po dokonaniu zgłoszenia poszukiwań do rejestru poszukiwań.
 
 2. Zgłoszenia poszukiwań, o których mowa w ust. 1, dokonuje się przed rozpoczęciem poszukiwań za pomocą aplikacji mobilnej udostępnionej przez ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego.
 
@@ -635,7 +613,8 @@ Art. 121–138. (pominięte)
 
 **Art. 36c.**
 
-- **25)** 1. Zabrania się poszukiwań, o których mowa w art. 36b ust. 1, na obszarach:
+1. Zabrania się poszukiwań, o których mowa w art. 36b ust. 1, na obszarach:
+
 - **1)** będących zabytkami wpisanymi do rejestru, wpisanymi do rejestru wraz z otoczeniem lub ujętymi w ewidencji zabytków i w odległości mniejszej niż 10 metrów od nich;
 - **2)** będących zabytkami uznanymi za pomnik historii;
 - **3)** parków kulturowych;
@@ -651,7 +630,7 @@ Art. 121–138. (pominięte)
 
 **Art. 36d.**
 
-- **25)** 1. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego prowadzi w systemie teleinformatycznym rejestr zgłoszonych poszukiwań, o których mowa w art. 36b ust. 1, oraz znalezionych zabytków, o których mowa w art. 33a ust. 5, zwany dalej „rejestrem poszukiwań”.
+1. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego prowadzi w systemie teleinformatycznym rejestr zgłoszonych poszukiwań, o których mowa w art. 36b ust. 1, oraz znalezionych zabytków, o których mowa w art. 33a ust. 5, zwany dalej „rejestrem poszukiwań”.
 
 2. W rejestrze poszukiwań gromadzi się następujące dane i informacje:
 
@@ -682,26 +661,20 @@ Art. 121–138. (pominięte)
 
 7. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego jest obowiązany do udostępniania i upowszechniania informacji przestrzennej o obszarach, o których mowa w art. 36c ust. 1.
 
-8. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze rozporządzenia, szczegółowe warunki techniczne działania aplikacji mobilnej, o której mowa w art. 36b ust. 2, oraz szczegółowy tryb dokonywania zgłoszeń poszukiwań, o których mowa w art. 36b ust. 1, uwzględniając konieczność zapewnienia efektywności postępowania oraz sprawności działania aplikacji mobilnej.
+8. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze rozporządzenia, szczegółowe warunki techniczne działania aplikacji mobilnej, o której mowa w art. 36b ust. 2, oraz szczegółowy tryb dokonywania zgłoszeń poszukiwań, o których mowa w art. 36b ust. 1, uwzględniając konieczność zapewnienia efektywności postępowania oraz sprawności działania aplikacji mobilnej.>
 
 **Art. 37.**
 
-1. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze rozporządzenia:
+1. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze rozporządzenia: [1) tryb wydawania pozwoleń, o których mowa w art. 36 ust. 1 i 1a;] <1) tryb wydawania pozwoleń, o których mowa w [art. 36 ust. 1–1aa] <art. 36 ust. 1–1aa i 1b> oraz art. 36aa ust. 10, oraz dokonywania zgłoszeń, o których mowa w art. 36aa ust. 1;> [2) dane i informacje, które zawierają wnioski o wydanie pozwoleń, o których mowa w art. 36 ust. 1 i 1a, oraz dokumentację dołączaną do wniosków niezbędną do ich rozpatrzenia;] <2) dane i informacje, które zawierają wnioski o wydanie pozwoleń, o których mowa w [art. 36 ust. 1–1aa] <art. 36 ust. 1–1aa i 1b> oraz art. 36aa ust. 10, oraz zgłoszenia, o których mowa w art. 36aa ust. 1, oraz dokumentację dołączaną do wniosków i zgłoszeń, niezbędną do ich rozpatrzenia;> <2a) wzory wniosków o wydanie pozwoleń, o których mowa w art. 36 ust. 1–1aa oraz art. 36aa ust. 10, oraz zgłoszeń, o których mowa w art. 36aa ust. 1;> [3) dane i informacje, które zawierają pozwolenia, o których mowa w art. 36 ust. 1 i 1a, oraz warunki, które mogą zostać w nich zastrzeżone;] <3) dane i informacje, które zawierają pozwolenia, o których mowa w [art. 36 ust. 1–1aa] <art. 36 ust. 1–1aa i 1b>oraz art. 36aa ust. 10, oraz warunki, które mogą zostać w nich zastrzeżone;>
 
-- **1)** tryb wydawania pozwoleń, o których mowa w art. 36 ust. 1 i 1a;
-- **1)** tryb wydawania pozwoleń, o których mowa w art. 36 ust. 1–1b;
-- **2)** dane i informacje, które zawierają wnioski o wydanie pozwoleń, o których mowa w art. 36 ust. 1 i 1a, oraz dokumentację dołączaną do wniosków niezbędną do ich rozpatrzenia;
-- **2)** dane i informacje, które zawierają wnioski o wydanie pozwoleń, o których mowa w art. 36 ust. 1–1b, oraz dokumentację dołączaną do wniosków niezbędną do ich rozpatrzenia;
-- **3)** dane i informacje, które zawierają pozwolenia, o których mowa w art. 36 ust. 1 i 1a, oraz warunki, które mogą zostać w nich zastrzeżone;
-- **3)** dane i informacje, które zawierają pozwolenia, o których mowa w art. 36 ust. 1–1b, oraz warunki, które mogą zostać w nich zastrzeżone;
-- **4)** elementy, które zawiera dokumentacja prac konserwatorskich i prac restauratorskich prowadzonych przy zabytku ruchomym wpisanym do rejestru albo na Listę Skarbów Dziedzictwa oraz dokumentacja badań archeologicznych.
-
-2. Tryb wydawania pozwoleń, o których mowa w ust. 1 pkt 1, określa się, uwzględniając właściwość organów do ich wydawania oraz konieczność zapewnienia sprawności prowadzonego postępowania o wydanie pozwolenia, w tym sposób postępowania w przypadku, gdy wykonawca podejmowanych działań jest wyłaniany w drodze postępowania o udzielenie zamówienia publicznego.
+- **4)** elementy, które zawiera dokumentacja prac konserwatorskich i prac restauratorskich prowadzonych przy zabytku ruchomym wpisanym do rejestru albo na Listę Skarbów Dziedzictwa oraz dokumentacja badań archeologicznych. [2. Tryb wydawania pozwoleń, o których mowa w ust. 1 pkt 1, określa się, uwzględniając właściwość organów do ich wydawania oraz konieczność zapewnienia sprawności prowadzonego postępowania o wydanie pozwolenia, w tym sposób postępowania w przypadku, gdy wykonawca podejmowanych działań jest wyłaniany w drodze postępowania o udzielenie zamówienia publicznego.] <2. Tryb wydawania pozwoleń i dokonywania zgłoszeń, o których mowa w ust. 1 pkt 1, określa się, uwzględniając właściwość organów do ich wydawania oraz konieczność zapewnienia sprawności prowadzonego postępowania.>
 
 3. Dane, informacje i dokumentację, o których mowa w ust. 1 pkt 2 i 3, określa się, uwzględniając potrzebę dokonania wszechstronnej oceny wpływu planowanych działań na zabytek, jednak bez konieczności ponoszenia przez wnioskodawcę dodatkowych kosztów, konieczność wskazania takich warunków prowadzenia tych działań, które zapewniają zachowanie zabytku w jak najlepszym stanie, oraz wskazania:
 
 - **1)** imienia, nazwiska i adresu osoby lub nazwy, siedziby i adresu jednostki organizacyjnej, które wystąpiły z wnioskiem lub
-- **2)** imienia, nazwiska i adresu osoby kierującej, samodzielnie wykonującej albo sprawującej nadzór inwestorski nad działaniami, o których mowa w art. 36 ust. 1.
+- **2)** imienia, nazwiska i adresu osoby kierującej, samodzielnie wykonującej albo sprawującej nadzór inwestorski nad działaniami, o których mowa w art. 36 ust.
+
+1. <3a. Wzory wniosków i zgłoszeń, o których mowa w ust. 1 pkt 2a, określa się, uwzględniając konieczność zapewnienia przejrzystości danych podawanych przy ich wypełnianiu.>
 
 4. Elementy, o których mowa w ust. 1 pkt 4, określa się tak, aby poszczególne etapy prac konserwatorskich i prac restauratorskich prowadzonych przy zabytku ruchomym wpisanym do rejestru albo na Listę Skarbów Dziedzictwa oraz badań archeologicznych były udokumentowane i uwzględniały wszystkie okoliczności prowadzonych prac, a także obejmowały:
 
@@ -716,7 +689,7 @@ Art. 121–138. (pominięte)
 2. W dziedzinach nieobjętych programem studiów wyższych, o których mowa w ust. 1, pracami konserwatorskimi, pracami restauratorskimi lub badaniami konserwatorskimi, prowadzonymi przy zabytkach wpisanych do rejestru albo na Listę Skarbów Dziedzictwa, kieruje osoba, która posiada:
 
 - **1)** świadectwo ukończenia szkoły średniej zawodowej oraz tytuł zawodowy albo wykształcenie średnie lub średnie branżowe i dyplom potwierdzający posiadanie kwalifikacji zawodowych w zawodach odpowiadających danej dziedzinie lub
-- **2)** dyplom mistrza w zawodzie odpowiadającym danej dziedzinie oraz która przez co najmniej 4 lata brała udział w pracach konserwatorskich, pracach restauratorskich lub badaniach konserwatorskich, prowadzonych przy zabytkach wpisanych do rejestru, na Listę Skarbów Dziedzictwa, do inwentarza muzeum będącego instytucją kultury lub innych zabytkach zaliczanych do jednej z kategorii, o których mowa w art. 14a ust. 2.
+- **2)** dyplom mistrza w zawodzie odpowiadającym danej dziedzinie – oraz która przez co najmniej 4 lata brała udział w pracach konserwatorskich, pracach restauratorskich lub badaniach konserwatorskich, prowadzonych przy zabytkach wpisanych do rejestru, na Listę Skarbów Dziedzictwa, do inwentarza muzeum będącego instytucją kultury lub innych zabytkach zaliczanych do jednej z kategorii, o których mowa w art. 14a ust. 2.
 
 3. Przepisy ust. 1 i 2 stosuje się do osób, które samodzielnie wykonują prace konserwatorskie, prace restauratorskie lub badania konserwatorskie, prowadzone przy zabytkach wpisanych do rejestru.
 
@@ -736,7 +709,7 @@ Art. 121–138. (pominięte)
 
 - **1)** ukończyła studia drugiego stopnia lub jednolite studia magisterskie, na kierunku architektura lub architektura i urbanistyka, lub
 - **2)** ukończyła studia drugiego stopnia lub jednolite studia magisterskie, których program obejmował zajęcia lub grupy zajęć umożliwiające nabycie wiedzy i umiejętności w zakresie prowadzenia badań architektonicznych w wymiarze co najmniej 60 godzin lub którym przypisano co najmniej 6 punktów ECTS, lub
-- **3)** ukończyła studia podyplomowe w zakresie prowadzenia badań architektonicznych oraz która po ukończeniu tych studiów przez co najmniej 6 miesięcy brała udział w badaniach architektonicznych prowadzonych przy zabytkach nieruchomych wpisanych do rejestru lub inwentarza muzeum będącego instytucją kultury.
+- **3)** ukończyła studia podyplomowe w zakresie prowadzenia badań architektonicznych – oraz która po ukończeniu tych studiów przez co najmniej 6 miesięcy brała udział w badaniach architektonicznych prowadzonych przy zabytkach nieruchomych wpisanych do rejestru lub inwentarza muzeum będącego instytucją kultury.
 
 2. Przepis ust. 1 stosuje się do osób, które samodzielnie wykonują badania architektoniczne zabytków wpisanych do rejestru.
 
@@ -828,8 +801,8 @@ Art. 121–138. (pominięte)
 
 2b. Wojewódzki konserwator zabytków, w terminie 14 dni od dnia otrzymania zastrzeżeń do zaleceń pokontrolnych:
 
-- **1)** zmienia zalecenia pokontrolne i przekazuje je wraz z uzasadnieniem kontrolowanej osobie fizycznej lub kierownikowi kontrolowanej jednostki organizacyjnej w przypadku stwierdzenia zasadności całości lub części zastrzeżeń albo
-- **2)** odmawia zmiany zaleceń pokontrolnych i swoje stanowisko wraz z uzasadnieniem przekazuje kontrolowanej osobie fizycznej lub kierownikowi kontrolowanej jednostki organizacyjnej w przypadku nieuwzględnienia zastrzeżeń w całości.
+- **1)** zmienia zalecenia pokontrolne i przekazuje je wraz z uzasadnieniem kontrolowanej osobie fizycznej lub kierownikowi kontrolowanej jednostki organizacyjnej – w przypadku stwierdzenia zasadności całości lub części zastrzeżeń albo
+- **2)** odmawia zmiany zaleceń pokontrolnych i swoje stanowisko wraz z uzasadnieniem przekazuje kontrolowanej osobie fizycznej lub kierownikowi kontrolowanej jednostki organizacyjnej – w przypadku nieuwzględnienia zastrzeżeń w całości.
 
 3. W przypadku kontroli jednostki organizacyjnej wojewódzki konserwator zabytków może zażądać przeprowadzenia postępowania służbowego lub innego przewidzianego prawem przeciwko osobom winnym dopuszczenia do powstania uchybień i poinformowania go w określonym terminie o podjętych działaniach zmierzających do usunięcia tych uchybień.
 
@@ -841,11 +814,11 @@ Art. 121–138. (pominięte)
 
 1. Wojewódzki konserwator zabytków wydaje decyzję o wstrzymaniu wykonywanych bez jego pozwolenia lub w sposób odbiegający od zakresu i warunków określonych w pozwoleniu:
 
-- **1)** prac konserwatorskich, restauratorskich, badań konserwatorskich lub architektonicznych przy zabytku wpisanym do rejestru;
-- **2)** robót budowlanych przy zabytku wpisanym do rejestru lub w jego otoczeniu;
-- **3)** badań archeologicznych lub poszukiwań, o których mowa w art. 36 ust. 1 pkt 12;
-- **3)** badań archeologicznych;
-- **4)** innych działań, o których mowa w art. 36 ust. 1 pkt 6–8, 10 i 11, przy zabytku wpisanym do rejestru.
+- **1)** prac konserwatorskich, restauratorskich, badań konserwatorskich lub architektonicznych przy zabytku wpisanym do rejestru; [2) robót budowlanych przy zabytku wpisanym do rejestru lub w jego otoczeniu;] <2) robót budowlanych przy zabytku wpisanym do rejestru;> <2a) robót górniczych;
+- **2b)** działań, o których mowa w art. 36 ust. 1 pkt 1b;> [3) badań archeologicznych lub poszukiwań, o których mowa w art. 36 ust. 1 pkt 12;] <3) badań archeologicznych;> [4) innych działań, o których mowa w art. 36 ust. 1 pkt 6–8, 10 i 11, przy zabytku wpisanym do rejestru.] <4) działań, o których mowa w art. 36 ust. 1 pkt 6 i 8, przy zabytku wpisanym do rejestru;> <1a. Wojewódzki konserwator zabytków wydaje decyzję o wstrzymaniu działań, o których mowa w art. 36aa ust. 1, prowadzonych:
+- **1)** bez wymaganego zgłoszenia albo
+- **2)** pomimo wniesienia sprzeciwu od zgłoszenia, albo
+- **3)** w sposób niezgodny z dokonanym zgłoszeniem.>
 
 2. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego wydaje decyzję o wstrzymaniu wykonywanych bez jego pozwolenia lub w sposób odbiegający od zakresu i warunków określonych w pozwoleniu prac konserwatorskich, restauratorskich lub badań konserwatorskich przy zabytku wpisanym na Listę Skarbów Dziedzictwa.
 
@@ -861,12 +834,7 @@ Art. 121–138. (pominięte)
 
 - **1)** nakazującej przywrócenie zabytku do poprzedniego stanu lub uporządkowanie terenu, z określeniem terminu wykonania tych czynności albo
 - **2)** nakładającej obowiązek uzyskania pozwolenia wojewódzkiego konserwatora zabytków na prowadzenie wstrzymanych badań, prac, robót lub innych działań przy zabytku, przy czym wniosek o wydanie tego pozwolenia składa się w terminie nie dłuższym niż 7 dni od dnia doręczenia decyzji, albo
-- **3)** nakładającej obowiązek podjęcia określonych czynności w celu doprowadzenia wykonywanych badań, prac, robót lub innych działań przy zabytku do zgodności z zakresem i warunkami określonymi w pozwoleniu, wskazując termin wykonania tych czynności, albo
-- **4)** zakazującej prowadzenia wstrzymanych działań.
-
-1a. Wojewódzki konserwator zabytków wydaje decyzję w sprawie pozwolenia, o którym mowa w ust. 1 pkt 2, w terminie nie dłuższym niż 30 dni od dnia złożenia wniosku o wydanie tego pozwolenia.
-
-2. W przypadku nieuzyskania pozwolenia, o którym mowa w ust. 1 pkt 2, albo niewykonania obowiązku określonego w ust. 1 pkt 3, wojewódzki konserwator zabytków wydaje decyzję nakazującą przywrócenie zabytku do poprzedniego stanu lub uporządkowanie terenu, z określeniem terminu wykonania tych czynności.
+- **3)** nakładającej obowiązek podjęcia określonych czynności w celu doprowadzenia wykonywanych badań, prac, robót lub innych działań przy zabytku do zgodności z zakresem i warunkami określonymi w pozwoleniu, wskazując termin wykonania tych czynności, albo [4) zakazującej prowadzenia wstrzymanych działań.] <4) zakazującej prowadzenia wstrzymanych działań, albo > <5) nakładającej obowiązek podjęcia określonych czynności w celu doprowadzenia zabytku do jak najlepszego stanu, wskazując termin wykonania tych czynności.> 1a. Wojewódzki konserwator zabytków wydaje decyzję w sprawie pozwolenia, o którym mowa w ust. 1 pkt 2, w terminie nie dłuższym niż 30 dni od dnia złożenia wniosku o wydanie tego pozwolenia. [2. W przypadku nieuzyskania pozwolenia, o którym mowa w ust. 1 pkt 2, albo niewykonania obowiązku określonego w ust. 1 pkt 3, wojewódzki konserwator zabytków wydaje decyzję nakazującą przywrócenie zabytku do poprzedniego stanu lub uporządkowanie terenu, z określeniem terminu wykonania tych czynności.] <2. W przypadku nieuzyskania pozwolenia, o którym mowa w ust. 1 pkt 2, albo niewykonania obowiązku określonego w ust. 1 pkt 3, wojewódzki konserwator zabytków wydaje decyzję nakazującą przywrócenie zabytku do poprzedniego stanu lub uporządkowanie terenu albo decyzję nakładającą obowiązek podjęcia określonych czynności w celu doprowadzenia zabytku do jak najlepszego stanu, z określeniem terminu wykonania tych czynności.>
 
 3. Po wykonaniu obowiązku, o którym mowa w ust. 1 pkt 3, wojewódzki konserwator zabytków wydaje pozwolenie na wznowienie wstrzymanych badań, prac, robót lub innych działań przy zabytku.
 
@@ -876,25 +844,29 @@ Art. 121–138. (pominięte)
 - **2)** nakładającej obowiązek podjęcia określonych czynności w celu doprowadzenia zabytku do jak najlepszego stanu, wskazując termin wykonania tych czynności, albo
 - **3)** zakazującej dalszego prowadzenia wstrzymanych działań.
 
-4. Osoba, która dopuściła się naruszenia przepisów o zabytkach lub naruszyła zakres i warunki określone w pozwoleniu, jest obowiązana na swój koszt wykonać czynności nakazane w decyzji, o której mowa w ust. 1 pkt 1 i 3, ust. 2 albo ust. 3a pkt 1 i 2.
+4. Osoba, która dopuściła się naruszenia przepisów o zabytkach lub naruszyła zakres i warunki określone w pozwoleniu, jest obowiązana na swój koszt wykonać czynności nakazane w decyzji, o której mowa w [ust. 1 pkt 1 i 3] <ust. 1 pkt 1, 3 i 5>, ust. 2 albo ust. 3a pkt 1 i 2. <5. Decyzja, o której mowa w ust. 1, nie zwalnia z obowiązku uzyskania pozwoleń, o których mowa w art. 36 ust. 1, albo dokonania zgłoszeń, o których mowa w art. 36aa ust. 1, jeżeli są wymagane.
+
+6. Przepisy ust. 1 pkt 1, 2, 4 i 5 oraz ust. 1a, 2 i 4 stosuje się odpowiednio do decyzji, o której mowa w art. 43 ust. 1a.>
 
 **Art. 45.**
 
 1. W przypadku gdy bez wymaganego pozwolenia wojewódzkiego konserwatora zabytków lub w sposób odbiegający od zakresu i warunków określonych w pozwoleniu wykonano przy zabytku wpisanym do rejestru:
 
 - **1)** prace konserwatorskie lub restauratorskie,
-- **2)** roboty budowlane,
+- **2)** roboty budowlane, <2a) roboty górnicze, 2b) działania, o których mowa w art. 36 ust. 1 pkt 1b,>
 - **3)** badania konserwatorskie,
 - **4)** badania architektoniczne,
-- **5)** inne działania, o których mowa w art. 36 ust. 1 pkt 6–8 i 10–12 wojewódzki konserwator zabytków wydaje decyzję nakazującą przywrócenie zabytku do poprzedniego stanu lub uporządkowanie terenu, określając termin wykonania tych czynności, albo zobowiązującą do doprowadzenia zabytku do jak najlepszego stanu we wskazany sposób i w określonym terminie.
+- **5)** inne działania, o których mowa [w art. 36 ust. 1 pkt 6–8 i 10–12] <w art. 36 ust. 1 pkt 6 [, 8 i 12] <i 8>> – wojewódzki konserwator zabytków wydaje decyzję nakazującą właścicielowi albo jednostce organizacyjnej posiadającej zabytek w trwałym zarządzie albo posiadaczowi zabytku na terenach zamkniętych, o których mowa w art. 2 pkt 9 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2024 r. poz. 1151 i 1824 oraz z 2025 r. poz. 1019), na podstawie umowy, której przedmiotem jest oddanie nieruchomości do korzystania, albo użytkownikowi wieczystemu gruntu, na którym zabytek się znajduje, przywrócenie zabytku do poprzedniego stanu lub uporządkowanie terenu, określając termin wykonania tych czynności, albo zobowiązującą właściciela albo jednostkę organizacyjną posiadającą zabytek w trwałym zarządzie, albo posiadacza zabytku na terenach zamkniętych, albo użytkownika wieczystego gruntu, na którym zabytek się znajduje, do doprowadzenia zabytku do jak najlepszego stanu we wskazany sposób i w określonym terminie. [1a. Jeżeli prace konserwatorskie lub restauratorskie, roboty budowlane, badania konserwatorskie, badania architektoniczne lub działania, o których mowa w art. 36 ust. 1 pkt 7, 8 i 10–12, wykonane przy zabytku wpisanym do rejestru bez wymaganego pozwolenia wojewódzkiego konserwatora zabytków lub w sposób odbiegający od zakresu i warunków określonych w pozwoleniu lub przemieszczenie zabytku nieruchomego wpisanego do rejestru bez wymaganego pozwolenia wojewódzkiego konserwatora zabytków, lub w sposób odbiegający od zakresu i warunków określonych w pozwoleniu, nie powodują jego zniszczenia, uszkodzenia lub nie skutkują niewłaściwym korzystaniem z zabytku i nie zachodzi potrzeba uporządkowania terenu, wojewódzki konserwator zabytków wydaje decyzję o odstąpieniu od nałożenia obowiązków, o których mowa w ust. 1. Wojewódzki konserwator zabytków może nałożyć obowiązek wykonania w określonym terminie, nie krótszym niż miesiąc, dokumentacji wykonanych prac, robót lub badań.] <1a. Jeżeli prace konserwatorskie lub restauratorskie, roboty budowlane, badania konserwatorskie, badania architektoniczne, roboty górnicze lub działania, o których mowa w art. 36 ust. 1 pkt 1b, 6 [, 8 i 12] <i 8>, wykonane przy zabytku wpisanym do rejestru bez wymaganego pozwolenia wojewódzkiego konserwatora zabytków lub w sposób odbiegający od zakresu i warunków określonych w pozwoleniu, nie powodują jego zniszczenia lub uszkodzenia lub innego uszczerbku dla wartości zabytku lub nie skutkują niewłaściwym korzystaniem z zabytku i nie zachodzi potrzeba uporządkowania terenu, wojewódzki konserwator zabytków wydaje decyzję o odstąpieniu od nałożenia obowiązków, o których mowa w ust. 1. Wojewódzki konserwator zabytków może w tej decyzji nałożyć obowiązek wykonania w określonym terminie, nie krótszym niż miesiąc, dokumentacji wykonanych prac, robót lub badań.>
 
 2. W przypadku gdy bez wymaganego pozwolenia ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego lub w sposób odbiegający od zakresu i warunków określonych w pozwoleniu wykonano przy zabytku wpisanym na Listę Skarbów Dziedzictwa prace konserwatorskie, restauratorskie, badania konserwatorskie, lub wykonano inne działania polegające na:
 
 - **1)** trwałym przeniesieniu tego zabytku z naruszeniem ustalonego tradycją wystroju wnętrza, w którym zabytek ten się znajduje,
 - **2)** zmianie przeznaczenia tego zabytku lub sposobu korzystania z niego,
-- **3)** podejmowaniu innych, niż określone w art. 43 ust. 1 pkt 1 czynności, które mogłyby prowadzić do zmiany wyglądu tego zabytku minister właściwy do spraw kultury i ochrony dziedzictwa narodowego wydaje decyzję nakazującą przywrócenie zabytku do poprzedniego stanu, określając termin wykonania tej czynności, albo zobowiązującą do doprowadzenia zabytku do jak najlepszego stanu we wskazany sposób i w określonym terminie.
+- **3)** podejmowaniu innych, niż określone w art. 43 ust. 1 pkt 1 czynności, które mogłyby prowadzić do zmiany wyglądu tego zabytku – minister właściwy do spraw kultury i ochrony dziedzictwa narodowego wydaje decyzję nakazującą przywrócenie zabytku do poprzedniego stanu, określając termin wykonania tej czynności, albo zobowiązującą do doprowadzenia zabytku do jak najlepszego stanu we wskazany sposób i w określonym terminie.
 
-3. W przypadkach, o których mowa w ust. 1 i 2, przepis art. 44 ust. 4 stosuje się odpowiednio.
+3. (uchylony) <4. Przepisy ust. 1 i 1a stosuje się odpowiednio w przypadku zrealizowania działań, o których mowa w art. 36aa ust. 1, bez wymaganego zgłoszenia albo pomimo wniesienia sprzeciwu od zgłoszenia, albo w sposób niezgodny z dokonanym zgłoszeniem.
+
+5. Decyzja, o której mowa w ust. 1, nie zwalnia z obowiązku uzyskania pozwoleń, o których mowa w art. 36 ust. 1, albo dokonania zgłoszeń, o których mowa w art. 36aa ust. 1, jeżeli są wymagane.>
 
 **Art. 46.**
 
@@ -908,9 +880,15 @@ Art. 121–138. (pominięte)
 
 **Art. 47.**
 
-1. Wojewódzki konserwator zabytków może wznowić postępowanie w sprawie wydanego pozwolenia, o którym mowa w art. 36 ust. 1, a następnie zmienić je lub cofnąć, w drodze decyzji, jeżeli w trakcie wykonywania badań, prac, robót lub innych działań określonych w pozwoleniu wystąpiły nowe fakty i okoliczności, mogące doprowadzić do uszkodzenia lub zniszczenia zabytku.
+1. Wojewódzki konserwator zabytków może w drodze decyzji zmienić lub cofnąć wydane pozwolenie, o którym mowa w art. 36 ust. 1, jeżeli w trakcie wykonywania działań określonych w pozwoleniu wystąpiły nowe fakty lub okoliczności, mogące doprowadzić do uszkodzenia lub zniszczenia zabytku.
 
-2. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego może wznowić postępowanie w sprawie wydanego pozwolenia, o którym mowa w art. 36 ust. 1a, a następnie zmienić je lub cofnąć, w drodze decyzji, jeżeli w trakcie wykonywania prac lub badań określonych w pozwoleniu wystąpiły nowe fakty i okoliczności, mogące doprowadzić do uszkodzenia lub zniszczenia zabytku.
+2. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego może w drodze decyzji zmienić lub cofnąć wydane pozwolenie, o którym mowa w art. 36 ust. 1a, jeżeli w trakcie wykonywania prac lub badań określonych w pozwoleniu wystąpiły nowe fakty i okoliczności, mogące doprowadzić do uszkodzenia lub zniszczenia zabytku.
+
+3. Wojewódzki konserwator zabytków może wstrzymać wykonanie pozwolenia, o którym mowa w art. 36 ust. 1, jeżeli zachodzi prawdopodobieństwo zmiany lub cofnięcia tego pozwolenia.
+
+4. Postanowienie o wstrzymaniu wykonania pozwolenia, o którym mowa w art. 36 ust. 1, wygasa po upływie 3 miesięcy od dnia jego doręczenia, jeżeli w tym terminie wojewódzki konserwator zabytków nie wyda decyzji o zmianie lub cofnięciu tego pozwolenia. <5. Wojewódzki konserwator zabytków może wydać decyzję o wstrzymaniu działań, o których mowa w art. 36aa ust. 1, wykonywanych na podstawie zgłoszenia, jeżeli w trakcie ich wykonywania wystąpiły nowe fakty lub okoliczności, mogące doprowadzić do uszkodzenia lub zniszczenia zabytku.
+
+6. Decyzja, o której mowa w ust. 5, wygasa, jeżeli w terminie 2 miesięcy od dnia jej doręczenia wojewódzki konserwator zabytków nie wyda decyzji nakazującej uzyskanie pozwolenia na wstrzymane działania, o których mowa w art. 36aa ust. 1.>
 
 **Art. 47a.**
 
@@ -926,7 +904,7 @@ Art. 121–138. (pominięte)
 
 4. Postanowienie o wstrzymaniu wykonania pozwolenia, o którym mowa w art. 36 ust. 1, wygasa po upływie 3 miesięcy od dnia jego doręczenia, jeżeli w tym terminie minister właściwy do spraw kultury i ochrony dziedzictwa narodowego nie wyda decyzji o uchyleniu lub zmianie tego pozwolenia.
 
-**Art. 48.** Dyrektor urzędu morskiego, w uzgodnieniu z wojewódzkim konserwatorem zabytków właściwym dla miejsca siedziby urzędu morskiego, może, w drodze decyzji:
+**Art. 48.** Dyrektor urzędu morskiego, w uzgodnieniu z wojewódzkim konserwatorem zabytków właściwym dla miejsca siedziby urzędu morskiego, może, w drodze decyzji: [1) wstrzymać prowadzone bez pozwolenia, o którym mowa w art. 36 ust. 2, badania lub poszukiwania albo] <1) wstrzymać prowadzone bez pozwolenia, o którym mowa w art. 36 ust. 1b lub 2, odpowiednio poszukiwania lub badania albo> [2) zmienić lub cofnąć, w wyniku wznowienia postępowania, wydane pozwolenie, o którym mowa w art. 36 ust. 2, jeżeli wystąpiły nowe fakty i okoliczności, mogące doprowadzić do uszkodzenia lub zniszczenia zabytku, albo] <2) zmienić lub cofnąć, w wyniku wznowienia postępowania, wydane pozwolenie, o którym mowa w art. 36 ust. 1b lub 2, jeżeli wystąpiły nowe fakty i okoliczności, mogące doprowadzić do uszkodzenia lub zniszczenia zabytku, albo> [3) cofnąć wydane pozwolenie, o którym mowa w art. 36 ust. 2, jeżeli badania lub poszukiwania są prowadzone niezgodnie z zakresem i warunkami określonymi w tym pozwoleniu.] <3) cofnąć wydane pozwolenie, o którym mowa w art. 36 ust. 1b lub 2, jeżeli badania lub poszukiwania są prowadzone niezgodnie z zakresem i warunkami określonymi w tym pozwoleniu.>
 
 **Art. 49.**
 
@@ -942,7 +920,7 @@ Art. 121–138. (pominięte)
 
 5. Przepisu ust. 4 nie stosuje się do zabytków nieruchomych stanowiących własność Skarbu Państwa.
 
-6. Wierzytelność Skarbu Państwa z tytułu wykonania zastępczego prac konserwatorskich lub robót budowlanych przy zabytku nieruchomym wojewoda, w porozumieniu z Generalnym Konserwatorem Zabytków, może, w drodze decyzji, umorzyć w całości albo w części lub rozłożyć na raty jeżeli stwierdzono nieściągalność wierzytelności lub jej ściągnięcie spowoduje znaczny uszczerbek dla sytuacji materialnej osoby lub jednostki, o których mowa w ust. 1.
+6. Wierzytelność Skarbu Państwa z tytułu wykonania zastępczego prac konserwatorskich lub robót budowlanych przy zabytku nieruchomym wojewoda, w porozumieniu z Generalnym Konserwatorem Zabytków, może, w drodze decyzji, umorzyć w całości albo w części lub rozłożyć na raty – jeżeli stwierdzono nieściągalność wierzytelności lub jej ściągnięcie spowoduje znaczny uszczerbek dla sytuacji materialnej osoby lub jednostki, o których mowa w ust. 1.
 
 7. Wykreślenie hipoteki przymusowej z księgi wieczystej następuje na wniosek wojewody na podstawie decyzji, o której mowa w ust. 6. Jeżeli nieruchomość nie posiada księgi wieczystej, wniosek i decyzję składa się do zbioru dokumentów.
 
@@ -995,7 +973,7 @@ Art. 121–138. (pominięte)
 - **1)** wpisane do rejestru,
 - **2)** wpisane na Listę Skarbów Dziedzictwa,
 - **3)** wchodzące w skład zbiorów publicznych, które stanowią własność Skarbu Państwa, jednostek samorządu terytorialnego lub innych jednostek organizacyjnych zaliczanych do sektora finansów publicznych,
-- **4)** wpisane do inwentarza muzeum albo wchodzące w skład narodowego zasobu bibliotecznego nie mogą być wywożone za granicę na stałe, z wyjątkiem przypadków określonych w art. 26 i art. 42 ustawy z dnia 25 maja 2017 r. o restytucji narodowych dóbr kultury, gdy wywóz odbywa się w wykonaniu prawomocnego wyroku nakazującego zwrot zagranicznego narodowego dobra kultury, o którym mowa w art. 18 ust. 1 tej ustawy, na terytorium państwa Unii Europejskiej albo na podstawie pozwoleń, o których mowa w art. 39 ust. 1 lub art. 43 ust. 1 tej ustawy.
+- **4)** wpisane do inwentarza muzeum albo wchodzące w skład narodowego zasobu bibliotecznego – nie mogą być wywożone za granicę na stałe, z wyjątkiem przypadków określonych w art. 26 i art. 42 ustawy z dnia 25 maja 2017 r. o restytucji narodowych dóbr kultury, gdy wywóz odbywa się w wykonaniu prawomocnego wyroku nakazującego zwrot zagranicznego narodowego dobra kultury, o którym mowa w art. 18 ust. 1 tej ustawy, na terytorium państwa Unii Europejskiej albo na podstawie pozwoleń, o których mowa w art. 39 ust. 1 lub art. 43 ust. 1 tej ustawy.
 
 **Art. 52.**
 
@@ -1085,7 +1063,7 @@ Art. 121–138. (pominięte)
 - **5)** zabytki przywiezione z zagranicy przez osoby korzystające z przywilejów lub immunitetów dyplomatycznych, w tym przywiezione w celu urządzenia wnętrz przedstawicielstw dyplomatycznych i urzędów konsularnych;
 - **6)** dzieła twórców żyjących niewpisane do inwentarzy muzeów albo niewchodzące w skład narodowego zasobu bibliotecznego;
 - **6a)** dzieła twórców żyjących podlegające zwrotowi na terytorium państwa Unii Europejskiej na podstawie prawomocnego wyroku nakazującego zwrot zagranicznego narodowego dobra kultury, o którym mowa w art. 18 ust. 1 ustawy z dnia 25 maja 2017 r. o restytucji narodowych dóbr kultury;
-- **7)** zabytki przemieszczane przez terytorium Rzeczypospolitej Polskiej z terytorium państwa członkowskiego Unii Europejskiej na terytorium państwa niebędącego członkiem Unii Europejskiej i objęte kategoriami A.1–A.15 wymienionymi w załączniku do rozporządzenia Rady (EWG) nr 116/2009 z dnia 18 grudnia 2008 r. w sprawie wywozu dóbr kultury (Dz. Urz. WE L 39 z dnia 10.02.2009), jeżeli ich wartość jest niższa od progów finansowych wymienionych w pkt B tego załącznika;
+- **7)** zabytki przemieszczane przez terytorium Rzeczypospolitej Polskiej z terytorium państwa członkowskiego Unii Europejskiej na terytorium państwa niebędącego członkiem Unii Europejskiej i objęte kategoriami A.1–A.15 wymienionymi w załączniku do rozporządzenia 116/2009, jeżeli ich wartość jest niższa od progów finansowych wymienionych w pkt B tego załącznika;
 - **8)** zabytki, które posiadają potwierdzenie wwozu wystawione przez organ celny lub Straż Graniczną zgodnie z art. 59 ust. 3 pkt 4.
 
 2. Jeżeli wywóz zabytku jest dokonywany bez pozwolenia, o którym mowa w art. 51 ust. 1 i 3, a cechy zabytku wskazują, że jego wywóz wymaga pozwolenia, organ Straży Granicznej lub organ celny może zażądać od osoby dokonującej wywozu zabytku okazania dokumentu potwierdzającego fakt, że wywożony zabytek nie wymaga pozwolenia.
@@ -1153,7 +1131,11 @@ Art. 121–138. (pominięte)
 
 **Art. 61.** Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze rozporządzenia, tryb składania wniosków i wydawania jednorazowego pozwolenia na stały wywóz zabytku za granicę, jednorazowego i wielokrotnych pozwoleń na czasowy wywóz zabytku za granicę oraz wzory tych pozwoleń, kierując się potrzebą ujednolicenia tych dokumentów oraz koniecznością zapewnienia ochrony tym zabytkom.
 
-#### Rozdział 6 (uchylony)
+#### Rozdział 5a Organ właściwy w sprawach wydawania pozwoleń wymaganych na przywóz dóbr kultury z terytorium państwa niebędącego członkiem Unii Europejskiej
+
+**Art. 61a.** Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego jest organem właściwym w sprawach wydawania pozwoleń na przywóz dóbr kultury, o których mowa w art. 4 ust. 1 rozporządzenia 2019/880.
+
+#### Rozdział 6
 
 #### Rozdział 7 Zasady finansowania opieki nad zabytkami
 
@@ -1265,7 +1247,7 @@ Art. 121–138. (pominięte)
 4. Środki Narodowego Funduszu Ochrony Zabytków są przeznaczane na dofinansowanie:
 
 - **1)** nakładów koniecznych na wykonanie prac konserwatorskich lub restauratorskich przy zabytku wpisanym na Listę Skarbów Dziedzictwa,
-- **2)** nakładów koniecznych na wykonanie prac konserwatorskich, restauratorskich lub robót budowlanych przy zabytku wpisanym do rejestru na zasadach określonych w niniejszym rozdziale.
+- **2)** nakładów koniecznych na wykonanie prac konserwatorskich, restauratorskich lub robót budowlanych przy zabytku wpisanym do rejestru – na zasadach określonych w niniejszym rozdziale.
 
 5. Koszty obsługi Narodowego Funduszu Ochrony Zabytków są pokrywane ze środków tego Funduszu.
 
@@ -1307,17 +1289,7 @@ Art. 121–138. (pominięte)
 
 6. Sprawozdanie z realizacji wojewódzkiego programu opieki nad zabytkami jest przekazywane Generalnemu Konserwatorowi Zabytków i właściwemu wojewódzkiemu konserwatorowi zabytków w celu jego wykorzystania przy opracowywaniu, aktualizacji i realizacji krajowego programu ochrony zabytków i opieki nad zabytkami.
 
-**Art. 88.**
-
-1. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego opracowuje krajowy plan ochrony zabytków na wypadek konfliktu zbrojnego i sytuacji kryzysowych oraz koordynuje realizację zadań mających na celu zabezpieczenie zabytków przed skutkami zagrożeń wynikających z sytuacji kryzysowych.
-
-2. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze rozporządzenia, organizację i sposób ochrony zabytków na wypadek konfliktu zbrojnego i sytuacji kryzysowych, z uwzględnieniem zadań administracji odpowiedniego stopnia i jednostek organizacyjnych posiadających zabytki, wskazując sposób prowadzenia prac zabezpieczających.
-
-3. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego przedstawia Dyrektorowi Generalnemu Organizacji Narodów Zjednoczonych do spraw Wychowania, Nauki i Kultury wniosek o wpis zabytku do „Międzynarodowego Rejestru Dóbr Kulturalnych Objętych Ochroną Specjalną”, w celu objęcia tego zabytku ochroną na podstawie Konwencji o ochronie dóbr kulturalnych w razie konfliktu zbrojnego, podpisanej w Hadze w dniu 14 maja 1954 r. (Dz. U. z 1957 r. poz. 212 i 215).
-
-4. W celu koordynacji przedsięwzięć związanych z ochroną zabytków w razie konfliktu zbrojnego Rada Ministrów może utworzyć, w drodze rozporządzenia, Polski Komitet Doradczy, będący jej organem pomocniczym.
-
-5. W rozporządzeniu należy określić organizację Polskiego Komitetu Doradczego, zakres i tryb jego działania oraz sposób finansowania działalności Komitetu, uwzględniając, w szczególności, wymagania związane z powoływaniem i odwoływaniem przewodniczącego, sekretarza i członków Komitetu, zadania Komitetu, sposób głosowania oraz jego obsługi administracyjnej.
+**Art. 88.** [1. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego opracowuje krajowy plan ochrony zabytków na wypadek konfliktu zbrojnego i sytuacji kryzysowych oraz koordynuje realizację zadań mających na celu zabezpieczenie zabytków przed skutkami zagrożeń wynikających z sytuacji kryzysowych.] [2. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze rozporządzenia, organizację i sposób ochrony zabytków na wypadek konfliktu zbrojnego i sytuacji kryzysowych, z uwzględnieniem zadań administracji odpowiedniego stopnia i jednostek organizacyjnych posiadających zabytki, wskazując sposób prowadzenia prac zabezpieczających.] 3. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego przedstawia Dyrektorowi Generalnemu Organizacji Narodów Zjednoczonych do spraw Wychowania, Nauki i Kultury wniosek o wpis zabytku do „Międzynarodowego Rejestru Dóbr Kulturalnych Objętych Ochroną Specjalną”, w celu objęcia tego zabytku ochroną na podstawie Konwencji o ochronie dóbr kulturalnych w razie konfliktu zbrojnego, podpisanej w Hadze w dniu 14 maja 1954 r. (Dz. U. z 1957 r. poz. 212 i 215). 4. W celu koordynacji przedsięwzięć związanych z ochroną zabytków w razie konfliktu zbrojnego Rada Ministrów może utworzyć, w drodze rozporządzenia, Polski Komitet Doradczy, będący jej organem pomocniczym. 5. W rozporządzeniu należy określić organizację Polskiego Komitetu Doradczego, zakres i tryb jego działania oraz sposób finansowania działalności Komitetu, uwzględniając, w szczególności, wymagania związane z powoływaniem i odwoływaniem przewodniczącego, sekretarza i członków Komitetu, zadania Komitetu, sposób głosowania oraz jego obsługi administracyjnej.
 
 #### Rozdział 9 Organizacja organów ochrony zabytków
 
@@ -1404,6 +1376,17 @@ Art. 121–138. (pominięte)
 3. W sprawach o wydawanie pozwoleń, określonych w art. 51 ust. 1 i 3, na wywóz zabytków będących materiałami bibliotecznymi za granicę, prowadzącym postępowanie w pierwszej instancji jest Dyrektor Biblioteki Narodowej, a organem wyższego stopnia minister właściwy do spraw kultury i ochrony dziedzictwa narodowego.
 
 4. Zadania określone w art. 12 ust. 1, art. 16 ust. 1 i 3–5, art. 22 ust. 4, art. 32 ust. 2, art. 33 ust. 2, art. 50 ust. 3 i 4 pkt 2, art. 87 ust. 1 oraz art. 103 i 105 są zadaniami własnymi organów i jednostek samorządu terytorialnego wskazanych w tych przepisach.
+
+**Art. 93a.**
+
+1. Właściwość miejscową wojewódzkich konserwatorów zabytków ustala się według miejsca:
+
+- **1)** położenia zabytku nieruchomego;
+- **2)** przechowywania zabytku ruchomego.
+
+2. W przypadku gdy zabytek nieruchomy położony jest na terenie dwóch lub więcej województw, właściwego wojewódzkiego konserwatora zabytków wyznacza minister właściwy do spraw kultury i ochrony dziedzictwa narodowego w drodze postanowienia.
+
+3. Wojewódzki konserwator zabytków właściwy w dniu wszczęcia postępowania dotyczącego zabytku ruchomego pozostaje właściwy do czasu jego zakończenia.
 
 **Art. 94.** W postępowaniach administracyjnych dotyczących historycznych układów urbanistycznych i ruralistycznych, historycznych zespołów budowlanych oraz terenów, na których znajduje się znaczna ilość zabytków archeologicznych, strony tych postępowań mogą być zawiadamiane o decyzjach i innych czynnościach ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego lub wojewódzkiego konserwatora zabytków przez obwieszczenie lub w inny zwyczajowo przyjęty w danej miejscowości sposób publicznego ogłaszania.
 
@@ -1561,7 +1544,7 @@ Art. 121–138. (pominięte)
 - **1)** uszkodzeniu, zniszczeniu, zaginięciu lub kradzieży zabytku, nie później niż w terminie 14 dni od dnia powzięcia wiadomości o wystąpieniu zdarzenia,
 - **2)** zagrożeniu dla zabytku, nie później niż w terminie 14 dni od dnia powzięcia wiadomości o wystąpieniu zagrożenia,
 - **3)** zmianie miejsca przechowania zabytku ruchomego, w terminie miesiąca od dnia nastąpienia tej zmiany,
-- **4)** zmianach dotyczących stanu prawnego zabytku, nie później niż w terminie miesiąca od dnia ich wystąpienia lub powzięcia o nich wiadomości podlega karze pieniężnej w wysokości od 500 do 2000 zł.
+- **4)** zmianach dotyczących stanu prawnego zabytku, nie później niż w terminie miesiąca od dnia ich wystąpienia lub powzięcia o nich wiadomości – podlega karze pieniężnej w wysokości od 500 do 2000 zł.
 
 2. Karę pieniężną, o której mowa w ust. 1, nakłada w drodze decyzji organ ochrony zabytków, którego właściciel lub posiadacz obowiązany był powiadomić.
 
@@ -1579,17 +1562,7 @@ Art. 121–138. (pominięte)
 
 2. Karę pieniężną, o której mowa w ust. 1, nakłada w drodze decyzji organ ochrony zabytków, któremu uniemożliwiono lub utrudniono dostęp do zabytku.
 
-**Art. 107d.**
-
-1. Kto bez pozwolenia wojewódzkiego konserwatora zabytków podejmuje działania, o których mowa w art. 36 ust. 1 pkt 1–5, podlega karze pieniężnej w wysokości od 500 do 500 000 zł.
-
-2. Kto podejmuje działania, o których mowa w art. 36 ust. 1 pkt 1–5, niezgodnie z zakresem lub warunkami określonymi w pozwoleniu wojewódzkiego konserwatora zabytków, podlega karze pieniężnej w wysokości od 500 do 500 000 zł.
-
-3. Kto bez pozwolenia ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego podejmuje działania, o których mowa w art. 36 ust. 1a, podlega karze pieniężnej w wysokości od 500 do 500 000 zł.
-
-4. Kto podejmuje działania, o których mowa w art. 36 ust. 1a, niezgodnie z zakresem lub warunkami określonymi w pozwoleniu ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego, podlega karze pieniężnej w wysokości od 500 do 500 000 zł.
-
-5. Karę pieniężną, o której mowa w ust. 1–4, nakłada w drodze decyzji organ ochrony zabytków, który wydał pozwolenie bądź był właściwy do wydania pozwolenia.
+**Art. 107d.** [1. Kto bez pozwolenia wojewódzkiego konserwatora zabytków podejmuje działania, o których mowa w art. 36 ust. 1 pkt 1–5, podlega karze pieniężnej w wysokości od 500 do 500 000 zł.] <1. Kto bez pozwolenia wojewódzkiego konserwatora zabytków podejmuje działania, o których mowa w art. 36 ust. 1 pkt 1–1b i 3–5, podlega karze pieniężnej w wysokości od 500 do 500 000 zł.> [2. Kto podejmuje działania, o których mowa w art. 36 ust. 1 pkt 1–5, niezgodnie z zakresem lub warunkami określonymi w pozwoleniu wojewódzkiego konserwatora zabytków, podlega karze pieniężnej w wysokości od 500 do 500 000 zł.] <2. Kto podejmuje działania, o których mowa w art. 36 ust. 1 pkt 1–1b i 3– 5, niezgodnie z zakresem lub warunkami określonymi w pozwoleniu wojewódzkiego konserwatora zabytków, podlega karze pieniężnej w wysokości od 500 do 500 000 zł.> 3. Kto bez pozwolenia ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego podejmuje działania, o których mowa w art. 36 ust. 1a, podlega karze pieniężnej w wysokości od 500 do 500 000 zł. 4. Kto podejmuje działania, o których mowa w art. 36 ust. 1a, niezgodnie z zakresem lub warunkami określonymi w pozwoleniu ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego, podlega karze pieniężnej w wysokości od 500 do 500 000 zł. 5. Karę pieniężną, o której mowa w ust. 1–4, nakłada w drodze decyzji organ ochrony zabytków, który wydał pozwolenie bądź był właściwy do wydania pozwolenia. <Art. 107da. 1. Kto bez wymaganego zgłoszenia albo pomimo wniesienia sprzeciwu od zgłoszenia, albo w sposób niezgodny z dokonanym zgłoszeniem wykonuje roboty budowlane w otoczeniu zabytku, podlega karze pieniężnej w wysokości od 500 do 50 000 zł. 2. Karę pieniężną, o której mowa w ust. 1, nakłada w drodze decyzji organ ochrony zabytków właściwy w sprawie zgłoszenia.>
 
 **Art. 107e.**
 
@@ -1615,13 +1588,37 @@ Art. 121–138. (pominięte)
 
 3. W razie skazania za przestępstwo określone w ust. 1 polegające na zniszczeniu zabytku sąd orzeka na rzecz Narodowego Funduszu Ochrony Zabytków nawiązkę w wysokości do wartości zniszczonego zabytku.
 
-4. W razie skazania za przestępstwo określone w ust. 1 polegające na uszkodzeniu zabytku sąd orzeka obowiązek przywrócenia stanu poprzedniego, a jeśli obowiązek taki nie byłby wykonalny nawiązkę na rzecz Narodowego Funduszu Ochrony Zabytków w wysokości do wartości uszkodzenia zabytku.
+4. W razie skazania za przestępstwo określone w ust. 1 polegające na uszkodzeniu zabytku sąd orzeka obowiązek przywrócenia stanu poprzedniego, a jeśli obowiązek taki nie byłby wykonalny – nawiązkę na rzecz Narodowego Funduszu Ochrony Zabytków w wysokości do wartości uszkodzenia zabytku.
 
 5. W razie skazania za przestępstwo określone w ust. 2 sąd może orzec na rzecz Narodowego Funduszu Ochrony Zabytków nawiązkę w wysokości od trzykrotnego do trzydziestokrotnego minimalnego wynagrodzenia.
 
 **Art. 108a.**
 
-1. Kto wprowadza na terytorium Rzeczypospolitej Polskiej dobro kultury określone w części A załącznika do rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/880 z dnia 17 kwietnia 2019 r. w sprawie wprowadzania i przywozu dóbr kultury (Dz. Urz. UE L 151 z 07.06.2019, str. 1), wyprowadzone z terytorium państwa niebędącego członkiem Unii Europejskiej, w którym dobro kultury powstało lub zostało odkryte, z naruszeniem przepisów ustawowych lub wykonawczych tego państwa, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
+1. Kto wprowadza na terytorium Rzeczypospolitej Polskiej dobro kultury określone w części A załącznika do rozporządzenia 2019/880, wyprowadzone z terytorium państwa niebędącego członkiem Unii Europejskiej, w którym dobro kultury powstało lub zostało odkryte, z naruszeniem przepisów ustawowych lub wykonawczych tego państwa, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
+
+2. W wypadku mniejszej wagi, sprawca podlega grzywnie.
+
+3. Sąd może orzec przepadek dobra kultury, chociażby nie stanowiło ono własności sprawcy.
+
+**Art. 108b.**
+
+1. Kto bez wymaganego pozwolenia, o którym mowa w art. 4 ust. 1 rozporządzenia 2019/880, przywozi na terytorium Rzeczypospolitej Polskiej dobro kultury wymienione w części B załącznika do tego rozporządzenia, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
+
+2. W wypadku mniejszej wagi, sprawca podlega grzywnie.
+
+3. Sąd może orzec przepadek dobra kultury, chociażby nie stanowiło ono własności sprawcy.
+
+**Art. 108c.**
+
+1. Kto we wniosku, o którym mowa w art. 4 ust. 4 rozporządzenia 2019/880, lub w oświadczeniu, o którym mowa w art. 5 tego rozporządzenia, podaje nieprawdę lub zataja prawdę co do okoliczności, o których mowa w tych przepisach, podlega karze pozbawienia wolności do lat 3.
+
+2. W wypadku mniejszej wagi, sprawca podlega grzywnie.
+
+3. Sąd może orzec przepadek dobra kultury, chociażby nie stanowiło ono własności sprawcy.
+
+**Art. 108d.**
+
+1. Kto dobro kultury objęte procedurą odprawy czasowej w rozumieniu art. 250 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 952/2013 z dnia 9 października 2013 r. ustanawiającego unijny kodeks celny (Dz. Urz. UE L 269 z 10.10.2013, str. 1, z późn. zm. ) w związku z wystawieniem go na komercyjnych targach sztuki, o których mowa w art. 5 ust. 1 rozporządzenia wykonawczego Komisji (UE) 2021/1079 z dnia 24 czerwca 2021 r. ustanawiającego szczegółowe zasady wykonania niektórych przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/880 w sprawie wprowadzania i przywozu dóbr kultury (Dz. Urz. UE L 234 z 02.07.2021, str. 67), zgłasza do innej procedury celnej, o której mowa w art. 2 pkt 3 rozporządzenia 2019/880, bez pozwolenia, o którym mowa w art. 4 ust. 1 tego rozporządzenia, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
 
 2. W wypadku mniejszej wagi, sprawca podlega grzywnie.
 
@@ -1631,31 +1628,19 @@ Art. 121–138. (pominięte)
 
 1. Kto bez pozwolenia wywozi zabytek za granicę albo po wywiezieniu go za granicę nie przywozi na terytorium Rzeczypospolitej Polskiej w okresie ważności pozwolenia albo, w przypadku o którym mowa w art. 56a ust. 8, w terminie 60 dni od dnia, w którym decyzja o odmowie wydania kolejnego pozwolenia na czasowy wywóz zabytku za granicę stała się ostateczna albo od dnia otrzymania informacji o pozostawieniu wniosku o wydanie kolejnego pozwolenia na czasowy wywóz zabytku za granicę bez rozpatrzenia, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
 
-2. Jeżeli sprawca czynu określonego w ust. 1 działa nieumyślnie, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
+1a. Kto bez pozwolenia, o którym mowa w art. 2 rozporządzenia 116/2009, wywozi niebędące zabytkiem dobro kultury poza obszar celny Unii Europejskiej albo po wywiezieniu zgodnie z pozwoleniem nie przywozi na obszar celny Unii Europejskiej dobra kultury w okresie ważności pozwolenia, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
 
-3. W razie skazania za przestępstwo określone w ust. 1 sąd orzeka, a w razie skazania za przestępstwo określone w ust. 2 sąd może orzec, nawiązkę na wskazany cel społeczny związany z opieką nad zabytkami w wysokości od trzykrotnego do trzydziestokrotnego minimalnego wynagrodzenia.
+2. Jeżeli sprawca czynu określonego w ust. 1 albo 1a działa nieumyślnie, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
 
-4. Sąd może orzec przepadek zabytku, chociażby nie stanowił on własności sprawcy.
+3. W razie skazania za przestępstwo określone w ust. 1 albo 1a sąd orzeka, a w razie skazania za przestępstwo określone w ust. 2 sąd może orzec, nawiązkę na wskazany cel społeczny związany z opieką nad zabytkami w wysokości od trzykrotnego do trzydziestokrotnego minimalnego wynagrodzenia.
+
+4. Sąd może orzec przepadek zabytku albo dobra kultury, chociażby nie stanowiły one własności sprawcy.
 
 **Art. 109a.** Kto podrabia lub przerabia zabytek w celu użycia go w obrocie zabytkami, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
 
-**Art. 109b.** Kto rzecz ruchomą zbywa jako zabytek ruchomy albo zbywa zabytek jako inny zabytek, wiedząc, że są one podrobione lub przerobione, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
+**Art. 109b.** Kto rzecz ruchomą zbywa jako zabytek ruchomy albo zbywa zabytek jako inny zabytek, wiedząc, że są one podrobione lub przerobione, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2. [Art. 109c. Kto bez pozwolenia albo wbrew warunkom pozwolenia poszukuje ukrytych lub porzuconych zabytków, w tym przy użyciu wszelkiego rodzaju urządzeń elektronicznych i technicznych oraz sprzętu do nurkowania, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.] <Art. 109d. 1. Kto wbrew postanowieniom art. 36c ust. 1 poszukuje ukrytych lub porzuconych zabytków ruchomych przy użyciu urządzenia elektronicznego lub technicznego podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2. 2. Tej samej karze podlega, kto na polskich obszarach morskich bez pozwolenia albo wbrew warunkom pozwolenia poszukuje ukrytych lub porzuconych zabytków ruchomych przy użyciu urządzenia elektronicznego lub technicznego.
 
-**Art. 109c.**
-
-- **34)** Kto bez pozwolenia albo wbrew warunkom pozwolenia poszukuje ukrytych lub porzuconych zabytków, w tym przy użyciu wszelkiego rodzaju urządzeń elektronicznych i technicznych oraz sprzętu do nurkowania, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
-
-**Art. 109c.** (uchylony)
-
-**Art. 109d.**
-
-- **36)** 1. Kto wbrew postanowieniom art. 36c ust. 1 poszukuje ukrytych lub porzuconych zabytków ruchomych przy użyciu urządzenia elektronicznego lub technicznego podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
-
-2. Tej samej karze podlega, kto na polskich obszarach morskich bez pozwolenia albo wbrew warunkom pozwolenia poszukuje ukrytych lub porzuconych zabytków ruchomych przy użyciu urządzenia elektronicznego lub technicznego.
-
-**Art. 109e.**
-
-- **36)** Kto prowadzi poszukiwania ukrytych lub porzuconych zabytków ruchomych przy użyciu urządzenia elektronicznego lub technicznego bez dopełnienia obowiązku dokonania zgłoszenia poszukiwań, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
+**Art. 109e.** Kto prowadzi poszukiwania ukrytych lub porzuconych zabytków ruchomych przy użyciu urządzenia elektronicznego lub technicznego bez dopełnienia obowiązku dokonania zgłoszenia poszukiwań, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.>
 
 **Art. 110.**
 
@@ -1693,15 +1678,9 @@ Art. 121–138. (pominięte)
 
 1. Kto niezwłocznie nie powiadomił wojewódzkiego konserwatora zabytków lub wójta (burmistrza, prezydenta miasta) albo dyrektora urzędu morskiego o przypadkowym odkryciu przedmiotu, co do którego istnieje przypuszczenie, iż jest on zabytkiem archeologicznym, a także nie zabezpieczył, przy użyciu dostępnych środków, tego przedmiotu i miejsca jego znalezienia, podlega karze grzywny.
 
-2. W razie popełnienia wykroczenia określonego w ust. 1 można orzec nawiązkę do wysokości dwudziestokrotnego minimalnego wynagrodzenia na wskazany cel społeczny związany z opieką nad zabytkami.
+2. W razie popełnienia wykroczenia określonego w ust. 1 można orzec nawiązkę do wysokości dwudziestokrotnego minimalnego wynagrodzenia na wskazany cel społeczny związany z opieką nad zabytkami. <Art. 116a. Kto niezwłocznie nie zawiadomił właściwego wojewódzkiego konserwatora zabytków o znalezieniu lub pozyskaniu, w wyniku poszukiwań, o których mowa w art. 36b ust. 1, przedmiotu, co do którego istnieje przypuszczenie, że jest on zabytkiem archeologicznym lub innym zabytkiem ruchomym, nie zabezpieczył lub nie oznaczył jego miejsca znalezienia podlega karze grzywny.
 
-**Art. 116a.**
-
-- **37)** Kto niezwłocznie nie zawiadomił właściwego wojewódzkiego konserwatora zabytków o znalezieniu lub pozyskaniu, w wyniku poszukiwań, o których mowa w art. 36b ust. 1, przedmiotu, co do którego istnieje przypuszczenie, że jest on zabytkiem archeologicznym lub innym zabytkiem ruchomym, nie zabezpieczył lub nie oznaczył jego miejsca znalezienia podlega karze grzywny.
-
-**Art. 116b.**
-
-- **37)** Kto niezwłocznie nie zawiadomił właściwego wojewódzkiego konserwatora zabytków o znalezieniu lub pozyskaniu na obszarze nie większym niż 100 m co najmniej trzech przedmiotów, co do których istnieje przypuszczenie, że są one zabytkami archeologicznymi lub nie wstrzymał poszukiwań do czasu przeprowadzenia czynności, o których mowa w art. 33a ust. 3, podlega karze grzywny.
+**Art. 116b.** Kto niezwłocznie nie zawiadomił właściwego wojewódzkiego konserwatora zabytków o znalezieniu lub pozyskaniu na obszarze nie większym niż 100 m co najmniej trzech przedmiotów, co do których istnieje przypuszczenie, że są one zabytkami archeologicznymi lub nie wstrzymał poszukiwań do czasu przeprowadzenia czynności, o których mowa w art. 33a ust. 3, podlega karze grzywny.>
 
 **Art. 117.** (uchylony)
 

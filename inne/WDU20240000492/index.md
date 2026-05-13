@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 2 kwietnia 2024 r.
+# o zmianie zakresu obowiązywania Traktatu o konwencjonalnych siłach zbrojnych w Europie, podpisanego w Paryżu dnia 19 listopada 1990 r.
+
+*USTAWA z dnia 7 marca 2024 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +25,6 @@ domain: null
 | Data wydania | 2024-04-02 |
 | Ostatnia zmiana | 2024-08-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000492) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/492/text.pdf) |
-
-Poz. 492
-USTAWA z dnia 7 marca 2024 r.
-o zmianie zakresu obowiązywania Traktatu o konwencjonalnych siłach zbrojnych w Europie, podpisanego w Paryżu dnia 19 listopada 1990 r.
 
 **Art. 1.** Wyraża się zgodę na dokonanie przez Prezydenta Rzeczypospolitej Polskiej zmiany zakresu obowiązywania Traktatu o konwencjonalnych siłach zbrojnych w Europie, podpisanego w Paryżu dnia 19 listopada 1990 r., przez zawieszenie jego stosowania.
 

@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 28 kwietnia 2017 r.
+# o zmianie ustawy o repatriacji oraz niektórych innych ustaw
+
+*USTAWA z dnia 7 kwietnia 2017 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,18 +26,41 @@ domain: null
 | Ostatnia zmiana | 2025-08-01 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000858) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/858/text.pdf) |
 
-USTAWA z dnia 7 kwietnia 2017 r.
-o zmianie ustawy o repatriacji oraz niektórych innych ustaw
-
 **Art. 1.** W ustawie z dnia 9 listopada 2000 r. o repatriacji (Dz. U. z 2014 r. poz. 1392, z 2015 r. poz. 1274 oraz z 2017 r. poz. 60) wprowadza się następujące zmiany:
 
 **Art. 3a.** Funkcję Pełnomocnika Rządu do Spraw Repatriacji, zwanego dalej „Pełnomocnikiem”, pełni sekretarz lub podsekretarz stanu urzędzie obsługującym ministra właściwego do spraw wewnętrznych, powoływany i odwoływany przez Prezesa Rady Ministrów, na wniosek ministra właściwego do spraw wewnętrznych.
 
+**Art. 3b.**
+
+1. Do zadań Pełnomocnika należy szczególności:
+
+- **1)** wydawanie decyzji sprawie:
+    - **a)** przyznania osobie, która chce przybyć do Rzeczypospolitej Polskiej na podstawie wizy krajowej celu repatriacji, miejsca ośrodku adaptacyjnym dla repatriantów, zwanym dalej „ośrodkiem”,
+    - **b)** przedłużenia pobytu repatrianta ośrodku,
+    - **c)** pozbawienia miejsca ośrodku repatrianta, który uporczywie narusza obowiązki określone regulaminie organizacyjno-porządkowym,
+    - **d)** przyznania repatriantowi świadczenia, o którym mowa art. 20c ust. 1;
+
+- **2)** koordynowanie działań na rzecz pomocy repatriantom;
+- **3)** powierzanie prowadzenia ośrodków organizacjom społecznym, stowarzyszeniom lub osobom prawnym;
+- **4)** sprawowanie nadzoru nad działalnością ośrodków; oraz rejestru, o którym mowa art. 33 ust. 3;
+- **6)** analizowanie rynku pracy pod względem możliwości zatrudnienia repatriantów;
+- **7)** zajmowanie stanowiska wobec projektów aktów prawnych zakresie repatriacji;
+- **8)** składanie do wiadomości Rady Ministrów corocznego sprawozdania z realizacji ustawy, którym przedstawia się, szczególności:
+    - **a)** liczbę osób, które przybyły do Rzeczypospolitej Polskiej na podstawie wizy krajowej celu repatriacji danym roku,
+    - **b)** wykaz ośrodków oraz liczbę osób nich przebywających,
+    - **c)** ocenę realizacji zadań przez dany ośrodek,
+    - **d)** wykaz zadań zrealizowanych przez Pełnomocnika,
+    - **e)** kwotę środków wydatkowanych na realizację procesu repatriacji, tym wysokość kwoty pomocy udzielonej repatriantom, o której mowa art. 17 ust. 1 i art. 17b ust. 1, oraz świadczenia, o którym mowa art. 20c ust. 1;
+
+- **9)** zamieszczanie informacji o działalności Pełnomocnika i Rady do Spraw Repatriacji oraz o powołaniu i odwołaniu jej członków i przewodniczącego Biuletynie Informacji Publicznej – na stronach podmiotowych urzędu obsługującego ministra właściwego do spraw wewnętrznych.
+
+2. Sprawozdanie, o którym mowa ust. 1 pkt 8, Pełnomocnik przedkłada terminie do dnia 31 marca roku następującego po roku, którym sprawozdanie jest sporządzane.
+
+3. Od decyzji Pełnomocnika wydawanych pierwszej instancji przysługuje wniosek o ponowne rozpatrzenie sprawy przez ten sam organ.
+
 **Art. 3c.**
 
-1. Pełnomocnik, wydając decyzję sprawie przyznania miejsca ośrodku osobie, która chce przybyć do Rzeczypospolitej Polskiej na podstawie wizy krajowej celu repatriacji, bierze pod uwagę czas oczekiwania na wydanie wizy krajowej celu repatriacji osób ujętych ewidencji osób ubiegających się o wydanie wizy krajowej celu repatriacji, które nie posiadają warunków do osiedlenia się Rzeczypospolitej Polskiej.
-
-2. W decyzji, o której mowa ust. 1, Pełnomocnik wskazuje ośrodek, termin umieszczenia repatrianta ośrodku oraz okres jego pobytu ośrodku, nie dłuższy jednak niż 90 dni.
+1. Pełnomocnik, wydając decyzję sprawie przyznania miejsca ośrodku osobie, która chce przybyć do Rzeczypospolitej Polskiej na podstawie wizy krajowej celu repatriacji, bierze pod uwagę czas oczekiwania na wydanie wizy krajowej celu repatriacji osób ujętych ewidencji osób ubiegających się o wydanie wizy krajowej celu repatriacji, które nie posiadają warunków do osiedlenia się Rzeczypospolitej Polskiej. termin umieszczenia repatrianta ośrodku oraz okres jego pobytu ośrodku, nie dłuższy jednak niż 90 dni.
 
 3. Pełnomocnik, na uzasadniony wniosek repatrianta, może wydać decyzję o przedłużeniu jego pobytu ośrodku o kolejne 90 dni, szczególności przypadku gdy repatriant obowiązany do opuszczenia ośrodka:
 
@@ -44,11 +69,13 @@ o zmianie ustawy o repatriacji oraz niektórych innych ustaw
 
 4. Pełnomocnik wydaje decyzję, o której mowa ust. 1, terminie nie dłuższym niż 3 lata od dnia wydania przez konsula decyzji o zakwalifikowaniu do wydania wizy krajowej celu repatriacji.
 
-5. W przypadku braku wolnych miejsc o ś rodku termin, o którym mowa ust. 4, mo ż e by ć przedłu ż ony przez Pełnomocnika, drodze decyzji, na okres nie dłu ż szy ni ż 2 lata.
+5. W przypadku braku wolnych miejsc ośrodku termin, o którym mowa ust. 4, może być przedłużony przez Pełnomocnika, drodze decyzji, na okres nie dłuższy niż 2 lata.
 
 **Art. 3d.**
 
-1. Wła ś ciwe organy administracji rz ą dowej s ą obowi ą zane do współpracy z Pełnomocnikiem i udzielania mu pomocy, szczególno ś ci przez udost ę pnianie mu informacji i dokumentów niezb ę dnych do realizacji jego zada ń . rządu terytorialnego i organizacjami pozarządowymi.
+1. Właściwe organy administracji rządowej są obowiązane do współpracy z Pełnomocnikiem i udzielania mu pomocy, szczególności przez udostępnianie mu informacji i dokumentów niezbędnych do realizacji jego zadań.
+
+2. Pełnomocnik, celu właściwej realizacji powierzonych mu zadań, współpracuje z organami jednostek samorządu terytorialnego i organizacjami pozarządowymi.
 
 **Art. 3e.**
 
@@ -67,8 +94,7 @@ o zmianie ustawy o repatriacji oraz niektórych innych ustaw
 2. Do zadań Rady należy:
 
 - **1)** zgłaszanie propozycji zakresie usprawnienia organizacji procesu repatriacji;
-- **2)** zajmowanie stanowiska wobec projektów aktów prawnych zakresie repatriacji;
-- **3)** wyrażanie, na wniosek Pełnomocnika, opinii we wszystkich sprawach z zakresu repatriacji.
+- **2)** zajmowanie stanowiska wobec projektów aktów prawnych zakresie repatriacji; repatriacji.
 
 3. Rada składa się z 5 członków powoływanych przez Prezesa Rady Ministrów na wniosek Pełnomocnika spośród osób wyróżniających się wiedzą i doświadczeniem zakresie repatriacji.
 
@@ -102,13 +128,13 @@ o zmianie ustawy o repatriacji oraz niektórych innych ustaw
 
 10. Wiceprzewodniczący Rady wykonuje zadania przewodniczącego Rady razie jego nieobecności.
 
-11. Po upływie kadencji Rady dotychczasowy przewodniczący Rady pełni swoje obowiązki do czasu powołania nowego przewodniczącego Rady.
+11. Po upływie kadencji Rady dotychczasowy przewodniczący Rady pełni swoje obowiązki do czasu powołania nowego przewodniczącego Rady. i realizację jej zadań, diety, a także zwrot kosztów podróży i zakwaterowania na zasadach określonych przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2016 r. poz. 1666, 2138 i 2255 oraz z 2017 r. poz. 60).
 
-12. Członkowie Rady otrzymują wynagrodzenie za udział pracach Rady i realizację jej zadań, diety, a także zwrot kosztów podró ż y i zakwaterowania na zasadach okre ś lonych przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2016 r. poz. 1666, 2138 i 2255 oraz z 2017 r. poz. 60).
+13. Obsługę finansową oraz kancelaryjno-biurową Rady zapewnia urząd obsługujący ministra właściwego do spraw wewnętrznych.
 
-13. Obsług ę finansow ą oraz kancelaryjno-biurow ą Rady zapewnia urz ą d obsługuj ą cy ministra wła ś ciwego do spraw wewn ę trznych.
+14. Tryb pracy Rady jest określony regulaminie przyjętym drodze zarządzenia Pełnomocnika.
 
-14. Tryb pracy Rady jest okre ś lony regulaminie przyj ę tym drodze zarz ą dzenia Pełnomocnika. i Rady oraz jej pozostałych członków nie go miesięcznego wynagrodzenia sektorze przedsiębiorstw bez wypłat nagród z zysku czwartym kwartale roku poprzedniego, ogłoszonego przez Prezesa Głównego Urzędu Statystycznego, uwzględniając zakres i warunki wykonywanych zadań.”;
+15. Prezes Rady Ministrów określi, drodze rozporządzenia, wysokość wynagrodzenia przewodniczącego i wiceprzewodniczącego Rady oraz jej pozostałych członków wysokości nie wyższej niż jednokrotność przeciętnego miesięcznego wynagrodzenia sektorze przedsiębiorstw bez wypłat nagród z zysku czwartym kwartale roku poprzedniego, ogłoszonego przez Prezesa Głównego Urzędu Statystycznego, uwzględniając zakres i warunki wykonywanych zadań.”;
 
 - **6)** tytule rozdziału 2 skreśla się wyrazy „i udzielanie zezwoleń na pobyt stały na terytorium Rzeczypospolitej Polskiej członkom najbliższej rodziny repatrianta”;
 - **7)** art. 5:
@@ -118,8 +144,7 @@ o zmianie ustawy o repatriacji oraz niektórych innych ustaw
     - **d)** uchyla się ust. 4a;
 
 - **8)** art. 6 dodaje się ust. 3 brzmieniu: „3. Konsul zwraca wnioskodawcy przekazane przez niego oryginały dokumentów, o których mowa ust. 1 i 2, z wyjątkiem zagranicznych dokumentów umożliwiających sporządzenie polskiego aktu stanu cywilnego.”;
-- **9)** uchyla się art. 8;
-- **10)** art. 9 i art. 10 otrzymują brzmienie: „Art. 9. 1. Wiza krajowa celu repatriacji może być wydana osobie, która spełnia łącznie następujące warunki:
+- **9)** uchyla się art. 8; „Art. 9. 1. Wiza krajowa celu repatriacji może być wydana osobie, która spełnia łącznie następujące warunki:
 - **1)** jest polskiego pochodzenia;
 - **2)** była deportowana lub zesłana przez władze Związku Socjalistycznych Republik Radzieckich;
 - **3)** przed dniem wejścia życie ustawy zamieszkiwała na stałe na terytorium obecnych Republiki Armenii, Republiki Azerbejdżanu, Gruzji, Republiki Kazachstanu, Republiki Kirgiskiej, Republiki Tadżykistanu, Turkmenistanu, Republiki Uzbekistanu albo azjatyckiej części Federacji Rosyjskiej.
@@ -135,15 +160,13 @@ o zmianie ustawy o repatriacji oraz niektórych innych ustaw
 1. Rada Ministrów może określić, drodze rozporządzenia:
 
 - **1)** państwa lub części państw inne niż wymienione art. 9 ust. 1 pkt 3, których obywatele polskiego pochodzenia mogą ubiegać się o wydanie wizy krajowej celu repatriacji;
-- **2)** termin na złożenie wniosku o wydanie wizy krajowej celu repatriacji przez osoby polskiego pochodzenia, do których rozporządzenie będzie miało zastosowanie, uwzględniając potrzebę zapewnienia tym osobom sprawnego postępowania sprawie repatriacji.
-
-2. Rada Ministrów, wydając rozporządzenie, o którym mowa ust. 1, ma na celu zapewnienie możliwości repatriacji osobom polskiego pochodzenia, które:
-
+- **2)** termin na złożenie wniosku o wydanie wizy krajowej celu repatriacji przez osoby polskiego pochodzenia, do których rozporządzenie będzie miało zastosowanie, uwzględniając potrzebę zapewnienia tym osobom sprawnego postępowania sprawie repatriacji. na celu zapewnienie możliwości repatriacji osobom polskiego pochodzenia, które:
 - **1)** są dyskryminowane ze względów religijnych, narodowościowych lub politycznych lub
 - **2)** z uwagi na sytuację panującą kraju zamieszkania lub jego części są narażone na utratę życia lub zdrowia.”;
 - **11)** po art. 10 dodaje się art. 10a i art. 10b brzmieniu: „Art. 10a. Wydania wizy krajowej celu repatriacji odmawia się osobie, jeżeli:
 - **1)** utraciła obywatelstwo polskie nabyte drodze repatriacji lub
-- **2)** repatriowała si ę z terytorium Rzeczypospolitej Polskiej albo Polskiej Rzeczypospolitej Ludowej na podstawie umów repatriacyjnych zawartych latach 1944–1957 przez Rzeczpospolit ą Polsk ą albo przez Polsk ą Rzeczpospolit ą Ludow ą z Białorusk ą Socjalistyczn ą Republik ą Radzieck ą , Ukrai ń sk ą Socjalistyczn ą Republik ą Radzieck ą , Litewsk ą Socjalistyczn ą Republik ą Radzieck ą lub Zwi ą zkiem Socjalistycznych Republik Radzieckich do jednego z państw będących stroną tych umów, lub pospolitej Polskiej, lub
+- **2)** repatriowała się z terytorium Rzeczypospolitej Polskiej albo Polskiej Rzeczypospolitej Ludowej na podstawie umów repatriacyjnych zawartych latach 1944–1957 przez Rzeczpospolitą Polską albo przez Polską Rzeczpospolitą Ludową z Białoruską Socjalistyczną Republiką Radziecką, Ukraińską Socjalistyczną Republiką Radziecką, Litewską Socjalistyczną Republiką Radziecką lub Związkiem Socjalistycznych Republik Radzieckich do jednego z państw będących stroną tych umów, lub
+- **3)** czasie pobytu poza granicami Rzeczypospolitej Polskiej działała na szkodę podstawowych interesów Rzeczypospolitej Polskiej, lub
 - **4)** uczestniczyła lub uczestniczy łamaniu praw człowieka, lub
 - **5)** jej dane znajdują się Systemie Informacyjnym Schengen do celów odmowy wjazdu, lub
 - **6)** wymagają tego względy obronności lub bezpieczeństwa państwa lub ochrony bezpieczeństwa i porządku publicznego, lub
@@ -153,9 +176,7 @@ o zmianie ustawy o repatriacji oraz niektórych innych ustaw
 
 1. Osoba ubiegająca się o wydanie wizy krajowej celu repatriacji składa osobiście wniosek o jej wydanie do konsula.
 
-2. W szczególnych przypadkach, uzasadnionych osobistą sytuacją osoby, o której mowa ust. 1, konsul może odstąpić od wymogu osobistego złożenia wniosku, o którym mowa ust. 1.
-
-3. Wniosek, o którym mowa ust. 1, składa się na formularzu, który zawiera:
+2. W szczególnych przypadkach, uzasadnionych osobistą sytuacją osoby, o której mowa ust. 1, konsul może odstąpić od wymogu osobistego złożenia wniosku, o którym mowa ust. 1. zawiera:
 
 - **1)** następujące dane i informacje dotyczące wnioskodawcy:
     - **a)** imię (imiona) i nazwisko,
@@ -186,12 +207,13 @@ o zmianie ustawy o repatriacji oraz niektórych innych ustaw
 
 - **1)** życiorys wnioskodawcy;
 - **2)** aktualne fotografie wnioskodawcy;
-- **3)** odpis aktu urodzenia wnioskodawcy;
 - **4)** dokumenty poświadczające aktualny stan cywilny wnioskodawcy;
-- **5)** dokumenty potwierdzaj ą ce miejsce stałego zamieszkania na terytorium, o którym mowa art. 9 ust. 1 pkt 3;
+- **5)** dokumenty potwierdzające miejsce stałego zamieszkania na terytorium, o którym mowa art. 9 ust. 1 pkt 3;
 - **6)** dokumenty, o których mowa art. 6;
-- **7)** inne dokumenty potwierdzaj ą ce okoliczno ś ci wymienione we wniosku;
-- **8)** o ś wiadczenie, pod rygorem odpowiedzialno ś ci karnej za składanie fałszywych zezna ń , ż e dane zawarte we wniosku są prawdziwe. jej rodzice lub opiekunowie prawni albo jedno z rodziców lub jeden z opiekunów prawnych.
+- **7)** inne dokumenty potwierdzające okoliczności wymienione we wniosku;
+- **8)** oświadczenie, pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań, że dane zawarte we wniosku są prawdziwe.
+
+5. Wniosek, o którym mowa ust. 1, imieniu osoby małoletniej lub ubezwłasnowolnionej całkowicie składają jej rodzice lub opiekunowie prawni albo jedno z rodziców lub jeden z opiekunów prawnych.
 
 6. Do wniosku, o którym mowa ust. 1, składanego imieniu osoby małoletniej, dołącza się dokumenty, o których mowa ust. 4 pkt 1–3 i pkt 5–7, zakresie wymaganym dla rodziców osoby małoletniej.
 
@@ -201,7 +223,7 @@ o zmianie ustawy o repatriacji oraz niektórych innych ustaw
 
 - **12)** art. 11:
     - **a)** ust. 1 otrzymuje brzmienie: „1. Osobie, która nie posiada zapewnionego Rzeczypospolitej Polskiej lokalu mieszkalnego i utrzymania lub miejsca ośrodku, a spełnia pozostałe warunki do uzyskania wizy krajowej celu repatriacji, konsul wydaje decyzję o zakwalifikowaniu do wydania wizy krajowej celu repatriacji.”,
-    - **b)** ust. 2: pkt 5 kropkę zastępuje się przecinkiem i dodaje się wyraz „lub”, dodaje się pkt 6–8 brzmieniu: „6) dane osoby polskiego pochodzenia znajdują się Systemie Informacyjnym Schengen do celów odmowy wjazdu, lub
+    - **b)** ust. 2: – pkt 5 kropkę zastępuje się przecinkiem i dodaje się wyraz „lub”, „6) dane osoby polskiego pochodzenia znajdują się Systemie Informacyjnym Schengen do celów odmowy wjazdu, lub
 
 - **7)** wymagają tego względy obronności lub bezpieczeństwa państwa lub ochrony bezpieczeństwa i porządku publicznego, lub
 - **8)** obowiązuje wpis danych osoby polskiego pochodzenia do wykazu cudzoziemców, których pobyt na terytorium Rzeczypospolitej Polskiej jest niepożądany.”,
@@ -217,112 +239,15 @@ o zmianie ustawy o repatriacji oraz niektórych innych ustaw
 - **2)** uchwała rady gminy zawierająca zobowiązanie do zapewnienia warunków do osiedlenia się przez okres nie krótszy niż 2 lata;
 - **3)** oświadczenie obywatela polskiego, osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej, mających siedzibę na terytorium Rzeczypospolitej Polskiej, zawierające zobowiązanie do zapewnienia warunków do osiedlenia się przez okres nie krótszy niż 2 lata.
 
-4. Decyzja, uchwała oraz oświadczenie, o których mowa ust. 3, zawierają szczególności wskazanie ośrodka lub lokalu mieszkalnego oraz formy udostępnienia tego lokalu.
+4. Decyzja, uchwała oraz oświadczenie, o których mowa ust. 3, zawierają szczególności wskazanie ośrodka lub lokalu mieszkalnego oraz formy udostępnienia tego lokalu. dotyczyć wyłącznie wstępnych, zstępnych lub rodzeństwa tej osoby.
 
-5. O ś wiadczenie obywatela polskiego, o którym mowa ust. 3 pkt 3, mo ż e dotyczy ć wył ą cznie wst ę pnych, zst ę pnych lub rodze ń stwa tej osoby.
+6. Dowód potwierdzający posiadanie lub zapewnienie źródeł utrzymania Rzeczypospolitej Polskiej nie jest wymagany przypadku osób małoletnich oraz osób, którym przysługują uprawnienia emerytalne lub rentowe na terytorium Rzeczypospolitej Polskiej.
 
-6. Dowód potwierdzaj ą cy posiadanie lub zapewnienie ź ródeł utrzymania Rzeczypospolitej Polskiej nie jest wymagany przypadku osób małoletnich oraz osób, którym przysługuj ą uprawnienia emerytalne lub rentowe na terytorium Rzeczypospolitej Polskiej. wydaniem decyzji o zakwalifikowaniu do jej wydania a dniem, którym zostały spełnione przesłanki do wydania tej wizy, wnioskodawca jest obowiązany poinformować konsula o zmianie danych oraz przedstawić dokumenty potwierdzające te zmiany.”;
-
-- **14)** art. 12b ust. 1 i 2 otrzymują brzmienie: „1. Wizę krajową celu repatriacji lub decyzję o zakwalifikowaniu do wydania wizy krajowej celu repatriacji wydaje albo odmawia jej wydania konsul właściwy ze względu na miejsce zamieszkania osoby ubiegającej się o jej wydanie po uzyskaniu zgody ministra właściwego do spraw wewnętrznych. Jeżeli przemawia za tym uzasadniony interes wnioskodawcy, minister właściwy do spraw zagranicznych może wyznaczyć innego konsula.
-
-2. Przed wyrażeniem zgody, o której mowa ust. 1, minister właściwy do spraw wewnętrznych zwraca się z wnioskiem do Komendanta Głównego Straży Granicznej, Komendanta Głównego Policji oraz Szefa Agencji Bezpieczeństwa Wewnętrznego, a razie potrzeby także do Szefa Agencji Wywiadu, Prezesa Instytutu Pamięci Narodowej Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu lub wojewody o przekazanie danych i informacji o osobie ubiegającej się o wydanie wizy krajowej celu repatriacji, mających znaczenie dla przeprowadzenia postępowania.”;
-
-- **15)** po art. 12b dodaje się art. 12c brzmieniu: „Art. 12c. 1. Osoba ubiegająca się o wydanie wizy krajowej celu repatriacji, przedstawiając dowody potwierdzające posiadanie lub zapewnienie warunków do osiedlenia się, może zwrócić się do konsula z wnioskiem o sporządzenie polskiego aktu stanu cywilnego rejestrze stanu cywilnego jednym z trybów przewidzianych ustawie z dnia 28 listopada 2014 r. Prawo o aktach stanu cywilnego (Dz. U. z 2016 r. poz. 2064).
-
-2. Do wniosku, o którym mowa ust. 1, dołącza się zagraniczne dokumenty umożliwiające sporządzenie polskiego aktu stanu cywilnego.
-
-3. Konsul przygotowuje dokumentację związaną z wnioskiem, o którym mowa ust. 1, oraz dokonuje jej tłumaczenia na język polski lub poświadcza przedłożone tłumaczenie tej dokumentacji.
-
-4. Konsul przekazuje wniosek oraz dokumenty, o których mowa ust. 1 i 2, kierownikowi urzędu stanu cywilnego wybranemu przez osobę, o której mowa ust. 1.”;
-
-- **16)** uchyla się art. 14 i art. 15;
-- **17)** art. 16 otrzymuje brzmienie: „Art. 16. 1. Za repatrianta może być uznana osoba, która spełnia łącznie następujące warunki:
-- **1)** jest polskiego pochodzenia;
-- **2)** przed dniem wejścia życie ustawy zamieszkiwała na stałe na terytorium, o którym mowa art. 9 ust. 1 pkt 3;
-- **3)** nie zachodzą wobec niej okoliczności, o których mowa art. 10a;
-- **4)** przebywała na terytorium Rzeczypospolitej Polskiej na podstawie zezwolenia, o którym mowa art. 144 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2016 r. poz. 1990, 1948 i 2066 oraz z 2017 r. poz. 60 i 858), lub przysługującego jej związku z odbywaniem studiów prawa pobytu, o którym mowa art. 16 ust. 1 pkt 3 ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. z 2014 r. poz. 1525, z 2015 r. poz. 1274 oraz z 2016 r. poz. 904);
-- **5)** złoży wniosek do wojewody terminie 12 miesięcy od dnia ukończenia szkoły wyższej.
-
-2. Za repatrianta może być także uznana osoba, która spełnia łącznie następujące warunki:
-
-- **1)** jest polskiego pochodzenia;
-- **2)** przed dniem wejścia życie ustawy zamieszkiwała na stałe na terytorium, o którym mowa art. 9 ust. 1 pkt 3;
-- **3)** nie zachodzą wobec niej okoliczności, o których mowa art. 10a;
-- **4)** przebywała na terytorium Rzeczypospolitej Polskiej na podstawie zezwolenia na pobyt stały lub zezwolenia na osiedlenie się, lub prawa stałego pobytu;
-- **5)** posiada Rzeczypospolitej Polskiej ź ródło utrzymania oraz tytuł prawny do zajmowania lokalu mieszkalnego.
-
-3. Do warunku, o którym mowa ust. 2 pkt 5, przepis art. 12 ust. 6 stosuje si ę odpowiednio.”;
-
-- **18)** po art. 16 dodaje si ę art. 16a–16c brzmieniu: „Art. 16a. 1. Decyzj ę sprawie uznania za repatrianta wydaje wojewoda wła ś ciwy ze wzgl ę du na zamierzone miejsce osiedlenia się osoby, o której mowa art. 16 ust. 1 lub 2.
-- **1)** następujące dane i informacje dotyczące wnioskodawcy:
-    - **a)** imię (imiona) i nazwisko,
-    - **b)** nazwisko rodowe, nazwiska wcześniej używane,
-    - **c)** imię i nazwisko rodowe ojca,
-    - **d)** imię i nazwisko rodowe matki,
-    - **e)** datę urodzenia,
-    - **f)** płeć,
-    - **g)** miejsce i kraj urodzenia,
-    - **h)** miejsce zamieszkania za granicą,
-    - **i)** stan cywilny,
-    - **j)** obywatelstwo, inne posiadane obywatelstwa,
-    - **k)** narodowość, pochodzenie,
-    - **l)** adres zamieszkania,
-    - **m)** informację o karalności,
-    - **n)** numer PESEL, jeżeli został nadany;
-
-- **2)** dane i informacje, o których mowa pkt 1, dotyczące małżonka wnioskodawcy;
-- **3)** dane i informacje, o których mowa pkt 1, dotyczące osób małoletnich pozostających pod władzą rodzicielską wnioskodawcy, jeżeli wniosek obejmuje takie osoby;
-- **4)** informację na temat podstaw pobytu na terytorium Rzeczypospolitej Polskiej;
-- **5)** informację na temat posiadanego Rzeczypospolitej Polskiej źródła utrzymania;
-- **6)** informację na temat tytułu prawnego do lokalu mieszkalnego zajmowanego na terytorium Rzeczypospolitej Polskiej;
-- **7)** oświadczenie złożone pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań, że dane zawarte we wniosku są prawdziwe;
-- **8)** uzasadnienie.
-
-3. Do wniosku, o którym mowa ust. 2, dołącza się:
-
-- **1)** życiorys wnioskodawcy;
-- **2)** aktualne fotografie wnioskodawcy;
-- **3)** decyzję konsula o stwierdzeniu polskiego pochodzenia wnioskodawcy;
-- **4)** poświadczoną urzędowo kopię ważnego dokumentu potwierdzającego tożsamość i obywatelstwo wnioskodawcy;
-- **5)** odpis aktu urodzenia wnioskodawcy;
-- **6)** odpis aktu małżeństwa lub inny dokument określający stan cywilny wnioskodawcy;
-- **7)** poświadczoną urzędowo kopię karty pobytu wnioskodawcy;
-- **8)** dokumenty potwierdzające fakt zamieszkiwania przez wnioskodawcę na stałe przed dniem wejścia życie ustawy na terytorium, o którym mowa art. 9 ust. 1 pkt 3.
-
-4. Osoba ubiegająca się o uznanie za repatrianta, nieposiadająca decyzji konsula o stwierdzeniu jej polskiego pochodzenia, dołącza do wniosku, o którym mowa ust. 2, dokumenty, o których mowa art. 6.
-
-5. Wojewoda przekazuje dokumenty, o których mowa art. 6, wraz z wnioskiem, o którym mowa ust. 2, konsulowi właściwemu ze względu na ostatnie miejsce stałego zamieszkania za granicą osoby ubiegającej się o uznanie za repatrianta, celu wydania decyzji sprawie stwierdzenia jej polskiego pochodzenia.
-
-6. Osoba, o której mowa art. 16 ust. 1, dołącza do wniosku, o którym mowa ust. 2, zaświadczenie, że pobierała nauk ę szkole wy ż szej na podstawie przepisów o podejmowaniu i odbywaniu studiów przez osoby nieb ę d ą ce obywatelami polskimi, oraz odpis dyplomu.
-
-7. Wniosek, o którym mowa ust. 2, imieniu osoby małoletniej lub ubezwłasnowolnionej całkowicie składaj ą jej rodzice lub opiekunowie prawni albo jedno z rodziców lub jeden z opiekunów prawnych. ców nie ubiega o uznanie za repatrianta,
-
-- **1)** złożone przed konsulem pisemne oświadczenie drugiego z rodziców o wyrażeniu zgody na nabycie przez osobę małoletnią obywatelstwa polskiego albo
-- **2)** wyrok sądu pozbawiający władzy rodzicielskiej drugie z rodziców.
-
-9. Do wniosku, o którym mowa ust. 2, obejmującego osobę małoletnią pozostającą pod opieką dołącza się zgodę opiekuna wyrażoną pisemnym oświadczeniu złożonym przed konsulem.
-
-10. Oświadczenia, o których mowa ust. 8 pkt 1 i ust. 9, mogą być złożone konsulowi za pośrednictwem wojewody.
-
-11. Do wniosku, o którym mowa ust. 2, obejmującego osobę małoletnią, która ukończyła 16 lat, dołącza się jej pisemne oświadczenie o wyrażeniu zgody na nabycie obywatelstwa polskiego.
-
-12. Formularz wniosku, o którym mowa ust. 2, wypełnia się języku polskim.
-
-13. Dokumenty sporządzone języku obcym składa się wraz z ich tłumaczeniem na język polski sporządzonym lub poświadczonym przez tłumacza przysięgłego.
-
-14. Jeżeli wniosek, o którym mowa ust. 2, zawiera braki formalne, wojewoda wzywa do jego uzupełnienia terminie 30 dni od dnia doręczenia wezwania, pod rygorem pozostawienia wniosku bez rozpoznania.
-
-15. Minister właściwy do spraw wewnętrznych określi, drodze rozporządzenia:
-
-- **1)** wzór formularza wniosku, o którym mowa ust. 2;
-- **2)** liczbę fotografii dołączanych do wniosku i szczegółowe wymogi dotyczące tych fotografii;
-- **3)** wymogi formalne dotyczące dowodów dołączanych do wniosku.
-
-16. W rozporządzeniu, o którym mowa ust. 15, minister właściwy do spraw wewnętrznych uwzględni potrzebę zapewnienia sprawności postępowania sprawie o uznanie za repatrianta i możliwość skutecznej weryfikacji spełniania warunków uznania za repatrianta.
+**Art. 12a.** Jeżeli dane objęte wnioskiem o wydanie wizy krajowej celu repatriacji uległy zmianie okresie między wydaniem decyzji o zakwalifikowaniu do jej wydania a dniem, którym zostały spełnione przesłanki do wydania tej wizy, wnioskodawca jest obowiązany poinformować konsula o zmianie danych oraz przedstawić dokumenty potwierdzające te zmiany.”;
 
 **Art. 16b.**
 
-1. Przed wydaniem decyzji sprawie uznania za repatrianta wojewoda zwraca się z wnioskiem do Szefa Agencji Bezpieczeństwa Wewnętrznego oraz Szefa Agencji Wywiadu, a razie potrzeby także do komendanta oddziału Straży Granicznej, komendanta wojewódzkiego (Stołecznego) Policji oraz Prezesa Instytutu Pamięci Narodowej Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu o przekazanie danych i informacji o osobie ubiegającej się o wydanie tej decyzji mających znaczenie dla prowadzonego postępowania.
+1. Przed wydaniem decyzji sprawie uznania za repatrianta wojewoda zwraca się z wnioskiem do Szefa Agencji Bezpieczeństwa Wewnętrznego oraz Szefa Agencji Wywiadu, a razie potrzeby także do komendanta oddziału Straży Granicznej, komendanta wojewódzkiego (Stołecznego) Policji oraz Prezesa Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu o przekazanie danych i informacji o osobie ubiegającej się o wydanie tej decyzji mających znaczenie dla prowadzonego postępowania.
 
 2. Podmioty, do których wojewoda zwrócił się o przekazanie informacji, udostępniają je terminie 30 dni od dnia otrzymania wniosku, zakresie niezbędnym dla prowadzonego postępowania.
 
@@ -337,9 +262,10 @@ o zmianie ustawy o repatriacji oraz niektórych innych ustaw
 2. Po wydaniu decyzji o uznaniu za repatrianta, przy ustalaniu prawa osoby, o której mowa art. 16 ust. 1 lub 2, do świadczeń emerytalnych i rentowych na terytorium Rzeczypospolitej Polskiej oraz ich wysokości, okresy zatrudnienia za granicą uwzględnia się jako okresy składkowe.”;
 
 - **19)** art. 17 otrzymuje brzmienie: „Art. 17. 1. Pełnomocnik udziela repatriantowi, drodze decyzji, jednorazowo, pomocy ze środków budżetu państwa na:
-- **1)** pokrycie kosztów przejazdu lub przelotu oraz przewozu mienia do Rzeczypospolitej Polskiej wysokości dwukrotności ceny biletu kolejowego drugiej klasy od najbliższej miejscu zamieszkania repatrianta za granicą stacji kolejowej do miejsca osiedlenia się Rzeczypospolitej Polskiej;
-- **2)** zagospodarowanie i bie żą ce utrzymanie, wysoko ś ci dwukrotnego przeci ę tnego miesi ę cznego wynagrodzenia brutto gospodarce narodowej, ogłaszanego przez Prezesa Głównego Urz ę du Statystycznego Dzienniku Urz ę dowym Rzeczypospolitej Polskiej „Monitor Polski”, kwartale poprzedzaj ą cym dzie ń przyznania pomocy;
-- **3)** pokrycie kosztów zwi ą zanych z podj ę ciem Rzeczypospolitej Polskiej nauki przez osob ę małoletni ą , podlegaj ą c ą obowi ą zkowi szkolnemu rozumieniu art. 35 ust. 2 ustawy z dnia 14 grudnia 2016 r. Prawo o ś wiatowe (Dz. U. z 2017 r. poz. 59), wysoko ś ci przeci ę tnego miesi ę cznego wynagrodzenia na ka ż de dziecko. Rzeczypospolitej Polskiej z terytorium, o którym mowa art. 9 ust. 1 pkt 3, i który poniósł koszty z remontem, adaptacją lub wyposażeniem lokalu mieszkalnego miejscu osiedlenia się Rzeczypospolitej Polskiej, na jego wniosek, drodze decyzji, pomocy finansowej ze środków budżetu państwa na częściowe pokrycie poniesionych, udokumentowanych przez repatrianta kosztów, wysokości do 6000 zł na jednego repatrianta.
+- **1)** pokrycie kosztów przejazdu lub przelotu oraz przewozu mienia do Rzeczypospolitej Polskiej wysokości dwukrotności ceny biletu kolejowego drugiej klasy od najbliższej miejscu zamieszkania repatrianta za granicą stacji kolejowej do miejsca osiedlenia się Rzeczypospolitej Polskiej; przeciętnego miesięcznego wynagrodzenia brutto gospodarce narodowej, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, kwartale poprzedzającym dzień przyznania pomocy;
+- **3)** pokrycie kosztów związanych z podjęciem Rzeczypospolitej Polskiej nauki przez osobę małoletnią, podlegającą obowiązkowi szkolnemu rozumieniu art. 35 ust. 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2017 r. poz. 59), wysokości przeciętnego miesięcznego wynagrodzenia na każde dziecko.
+
+2. Starosta właściwy ze względu na miejsce osiedlenia się repatrianta udziela repatriantowi, który przybył do Rzeczypospolitej Polskiej z terytorium, o którym mowa art. 9 ust. 1 pkt 3, i który poniósł koszty związane z remontem, adaptacją lub wyposażeniem lokalu mieszkalnego miejscu osiedlenia się Rzeczypospolitej Polskiej, na jego wniosek, drodze decyzji, pomocy finansowej ze środków budżetu państwa na częściowe pokrycie poniesionych, udokumentowanych przez repatrianta kosztów, wysokości do 6000 zł na jednego repatrianta.
 
 3. Pomoc, o której mowa ust. 1 pkt 2, nie przysługuje repatriantom umieszczonym ośrodku na podstawie decyzji sprawie przyznania miejsca ośrodku.
 
@@ -347,9 +273,7 @@ o zmianie ustawy o repatriacji oraz niektórych innych ustaw
 
 5. Kwota pomocy, o której mowa ust. 2, ulega corocznie od dnia 1 stycznia podwyższeniu stosunku do analogicznego okresu roku poprzedniego, przy zastosowaniu wskaźnika wzrostu cen towarów i usług konsumpcyjnych okresie pierwszych trzech kwartałów, ogłaszanego komunikacie Prezesa Głównego Urzędu Statystycznego Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, terminie 15 dni po upływie trzeciego kwartału.
 
-6. Kwotę stanowiącą równowartość pomocy, o której mowa ust. 1 i 2, wypłaca starosta właściwy ze względu na miejsce osiedlenia się repatrianta.
-
-7. Zadania starosty, o których mowa ust. 2 i 6, są zadaniami zleconymi z zakresu administracji rządowej.
+6. Kwotę stanowiącą równowartość pomocy, o której mowa ust. 1 i 2, wypłaca starosta właściwy ze względu na miejsce osiedlenia się repatrianta. z zakresu administracji rządowej.
 
 8. W przypadku, o którym mowa ust. 4, kwotę stanowiącą równowartość pomocy, o której mowa ust. 1 pkt 1, wypłaca konsul i informuje o tym Pełnomocnika.”;
 
@@ -368,19 +292,18 @@ o zmianie ustawy o repatriacji oraz niektórych innych ustaw
 
 4. Do wniosku, o którym mowa art. 17 ust. 2, dołącza się:
 
-- **1)** kopię dowodu osobistego wnioskodawcy, a jeżeli wnioskodawcą jest osoba małoletnia kopię dowodu osobistego repatrianta, pod którego opieką pozostaje;
+- **1)** kopię dowodu osobistego wnioskodawcy, a jeżeli wnioskodawcą jest osoba małoletnia – kopię dowodu osobistego repatrianta, pod którego opieką pozostaje;
 - **2)** dowód poniesienia kosztów, o których mowa art. 17 ust. 2, a przypadku osoby małoletniej, dowód poniesienia kosztów przez repatrianta, pod opieką którego pozostaje.
 
 5. Kwoty stanowiące równowartość pomocy, o której mowa art. 17 ust. 1 i 2, wypłaca się terminie 45 dni od dnia wydania decyzji tej sprawie.
 
 6. Minister właściwy do spraw wewnętrznych określi, drodze rozporządzenia, wzór formularza wniosku, o którym mowa art. 17 ust. 2, mając na uwadze potrzebę zapewnienia sprawności postępowania o przyznanie pomocy oraz kompletności danych przedstawianych we wniosku.
 
-**Art. 17b.**
+- **1)** który przybył do Rzeczypospolitej Polskiej na podstawie wizy krajowej wydanej celu repatriacji, posiadając dowód potwierdzający zapewnienie warunków do osiedlenia się postaci oświadczenia obywatela polskiego, o którym mowa art. 12 ust. 3 pkt 3, lub
+- **2)** któremu upłynął okres pobytu ośrodku – na jego wniosek, drodze decyzji, pomocy finansowej na zaspokojenie potrzeb mieszkaniowych.
 
-1. Pełnomocnik udziela repatriantowi:
+2. Pomocy finansowej, o której mowa ust. 1, udziela się formie dopłaty do:
 
-- **1)** który przybył do Rzeczypospolitej Polskiej na podstawie wizy krajowej wydanej celu repatriacji, posiadając dowód potwierdzaj ą cy zapewnienie warunków do osiedlenia si ę postaci o ś wiadczenia obywatela polskiego, o którym mowa art. 12 ust. 3 pkt 3, lub
-- **2)** któremu upłyn ą ł okres pobytu o ś rodku na jego wniosek, drodze decyzji, pomocy finansowej na zaspokojenie potrzeb mieszkaniowych.
 - **1)** czynszu najmu lokalu mieszkalnego lub budynku mieszkalnego albo
 - **2)** opłaty do zakwaterowania domu studenckim, albo
 - **3)** kosztów nabycia lokalu mieszkalnego lub budynku mieszkalnego.
@@ -404,9 +327,7 @@ o zmianie ustawy o repatriacji oraz niektórych innych ustaw
 8. Wysokość pomocy finansowej formie dopłaty, o której mowa ust. 2 pkt 2, nie może miesiącu przekraczać kwoty:
 
 - **1)** 300 zł na repatrianta;
-- **2)** miesięcznej opłaty za zakwaterowanie domu studenckim.
-
-9. Repatriant może złożyć wniosek o zamianę formy pomocy finansowej, o której mowa ust. 1, z dopłaty, o której mowa ust. 2 pkt 1, na dopłatę, o której mowa ust. 2 pkt 2, oraz z dopłaty, o której mowa ust. 2 pkt 2, na dopłatę, o której mowa ust. 2 pkt 1. Przepisy art. 17c stosuje się odpowiednio.
+- **2)** miesięcznej opłaty za zakwaterowanie domu studenckim. o której mowa ust. 1, z dopłaty, o której mowa ust. 2 pkt 1, na dopłatę, o której mowa ust. 2 pkt 2, oraz z dopłaty, o której mowa ust. 2 pkt 2, na dopłatę, o której mowa ust. 2 pkt 1. Przepisy art. 17c stosuje się odpowiednio.
 
 10. Repatriant może złożyć wniosek o zamianę formy pomocy finansowej, o której mowa ust. 1, z dopłaty, o której mowa ust. 2 pkt 1 lub 2, na dopłatę, o której mowa ust. 2 pkt 3. Przepisy art. 17c stosuje się odpowiednio.
 
@@ -425,16 +346,15 @@ o zmianie ustawy o repatriacji oraz niektórych innych ustaw
 
 1. Repatriant składa wniosek, o którym mowa art. 17b ust. 1, osobiście.
 
-2. Do repatrianta będącego osobą małoletnią lub ubezwłasnowolnioną całkowicie stosuje się przepis art. 17a ust. 2.
+2. Do repatrianta będącego osobą małoletnią lub ubezwłasnowolnioną całkowicie stosuje się przepis art. 17a ust. 2. który zawiera następujące dane dotyczące wnioskodawcy:
 
-3. Wniosek, o którym mowa art. 17b ust. 1, składa si ę na formularzu, który zawiera nast ę puj ą ce dane dotycz ą ce wnioskodawcy:
-
-- **1)** imi ę (imiona) i nazwisko;
+- **1)** imię (imiona) i nazwisko;
 - **2)** nazwisko rodowe;
+- **3)** imiona rodziców;
 - **4)** nazwisko rodowe matki;
 - **5)** datę urodzenia;
 - **6)** numer PESEL;
-- **7)** serię i numer dowodu osobistego, a jeżeli wnioskodawcą jest osoba małoletnia serię i numer dowodu osobistego repatrianta, pod którego opieką pozostaje;
+- **7)** serię i numer dowodu osobistego, a jeżeli wnioskodawcą jest osoba małoletnia – serię i numer dowodu osobistego repatrianta, pod którego opieką pozostaje;
 - **8)** adres:
     - **a)** wynajmowanego lokalu mieszkalnego lub budynku mieszkalnego albo
     - **b)** miejsca zakwaterowania domu studenckim, albo
@@ -450,9 +370,7 @@ o zmianie ustawy o repatriacji oraz niektórych innych ustaw
 
 7. Repatriant zawiadamia niezwłocznie Pełnomocnika o każdej zmianie danych zawartych we wniosku, o którym mowa art. 17b ust. 1, oraz o zbyciu lokalu mieszkalnego lub budynku mieszkalnego, o którym mowa art. 17b ust. 13, pod rygorem zwrotu udzielonej pomocy i jej nieudzielenia razie ponownego złożenia wniosku.
 
-8. Kwotę pomocy finansowej formie dopłaty, o której mowa art. 17b ust. 2 pkt 3, wypłaca Pełnomocnik po przedstawieniu przez repatrianta aktu notarialnego umowy sprzedaży lokalu mieszkalnego lub budynku mieszkalnego, przelewem bankowym na rachunek, o którym mowa ust. 3 pkt 9.
-
-9. Pełnomocnik rozpatruje wnioski o udzielenie pomocy finansowej, o której mowa art. 17b ust. 1, według kolejności wpływu.
+8. Kwotę pomocy finansowej formie dopłaty, o której mowa art. 17b ust. 2 pkt 3, wypłaca Pełnomocnik po przedstawieniu przez repatrianta aktu notarialnego umowy sprzedaży lokalu mieszkalnego lub budynku mieszkalnego, przelewem bankowym na rachunek, o którym mowa ust. 3 pkt 9. o której mowa art. 17b ust. 1, według kolejności wpływu.
 
 10. Kwoty pomocy finansowej formie dopłaty, o której mowa art. 17b ust. 2 pkt 1 lub 2, wypłaca Pełnomocnik raz miesiącu terminie do 5 dnia każdego miesiąca, przelewem bankowym na rachunek, o którym mowa ust. 3 pkt 9.
 
@@ -468,8 +386,9 @@ o zmianie ustawy o repatriacji oraz niektórych innych ustaw
 
 2. Repatriantowi może być udzielona pomoc przez zapewnienie uczestniczenia bezpłatnych kursach języka polskiego i adaptacji społeczeństwie polskim.
 
-3. Minister właściwy do spraw oświaty i wychowania oraz minister właściwy do spraw szkolnictwa wyższego organizuj ą kursy, o których mowa ust. 1 i 2, lub mog ą zleci ć ich organizacj ę organizacji społecznej posiadaj ą cej znacz ą cy dorobek zakresie pomocy repatriantom, z wyj ą tkiem kursów j ę zyka polskiego zapewnionych przez o ś rodek zgodnie z art. 20b ust. 1 pkt 8.”;
+3. Minister właściwy do spraw oświaty i wychowania oraz minister właściwy do spraw szkolnictwa wyższego organizują kursy, o których mowa ust. 1 i 2, lub mogą zlecić ich organizację organizacji społecznej posiadającej polskiego zapewnionych przez ośrodek zgodnie z art. 20b ust. 1 pkt 8.”;
 
+- **22)** uchyla się art. 19;
 - **23)** art. 20 otrzymuje brzmienie: „Art. 20. Organy stanowiące jednostek samorządu terytorialnego określają formy, wysokość i tryb przyznawania pomocy dla repatrianta przez te jednostki.”;
 - **24)** po rozdziale 4 dodaje się rozdziały 4a i 4b brzmieniu: „Rozdział 4a Ośrodki adaptacyjne dla repatriantów
 
@@ -484,11 +403,9 @@ o zmianie ustawy o repatriacji oraz niektórych innych ustaw
 - **3)** całodobowy dostęp do pomieszczeń i urządzeń umożliwiających samodzielne przygotowanie posiłku;
 - **4)** całodobowy dostęp do pomieszczeń i urządzeń higieniczno-sanitarnych;
 - **5)** środki czystości niezbędne do utrzymania higieny osobistej, tym przeznaczone dla osób małoletnich;
-- **6)** możliwość wykonywania na własny koszt, a szczególnie uzasadnionych przypadkach na koszt ośrodka połączeń telefonicznych przy użyciu urządzeń pozostających na wyposażeniu ośrodka, tym z telefaksu;
+- **6)** możliwość wykonywania na własny koszt, a szczególnie uzasadnionych przypadkach – na koszt ośrodka połączeń telefonicznych przy użyciu urządzeń pozostających na wyposażeniu ośrodka, tym z telefaksu;
 - **7)** bezpłatny dostęp do szerokopasmowego Internetu;
-- **8)** możliwość uczestniczenia zajęciach adaptacyjno-integracyjnych oraz zajęciach umożliwiających poznanie historii, tradycji i zwyczajów polskich, a także kursach języka polskiego i kursach zawodowych.
-
-2. Minister właściwy do spraw wewnętrznych określi, drodze rozporządzenia, minimalne wymagania dotyczące wyposażenia ośrodków, mając na uwadze potrzebę zapewnienia repatriantom odpowiednich warunków mieszkaniowych oraz adaptacyjno-integracyjnych.
+- **8)** możliwość uczestniczenia zajęciach adaptacyjno-integracyjnych oraz zajęciach umożliwiających poznanie historii, tradycji i zwyczajów polskich, a także kursach języka polskiego i kursach zawodowych. rozporządzenia, minimalne wymagania dotyczące wyposażenia ośrodków, mając na uwadze potrzebę zapewnienia repatriantom odpowiednich warunków mieszkaniowych oraz adaptacyjno-integracyjnych.
 
 **Art. 20c.**
 
@@ -506,13 +423,13 @@ o zmianie ustawy o repatriacji oraz niektórych innych ustaw
 
 2. Konkurs przeprowadza się z zachowaniem zasad przejrzystości i równego traktowania uczestniczących nim podmiotów.
 
-3. Do konkursu mog ą zgłosi ć si ę organizacje społeczne, stowarzyszenia albo osoby prawne, których statut obejmuje prowadzenie działalno ś ci:
+3. Do konkursu mogą zgłosić się organizacje społeczne, stowarzyszenia albo osoby prawne, których statut obejmuje prowadzenie działalności:
 
-- **1)** zakresie pomocy społecznej, tym udzielanie pomocy rodzinom i osobom trudnej sytuacji ż yciowej oraz wyrównywanie szans tych rodzin i osób, lub
-- **2)** na rzecz integracji zawodowej i społecznej osób zagro ż onych wykluczeniem społecznym, lub
+- **1)** zakresie pomocy społecznej, tym udzielanie pomocy rodzinom i osobom trudnej sytuacji życiowej oraz wyrównywanie szans tych rodzin i osób, lub
+- **2)** na rzecz integracji zawodowej i społecznej osób zagrożonych wykluczeniem społecznym, lub
+- **3)** charytatywnej, lub
 - **4)** na rzecz osób niepełnosprawnych, lub
 - **5)** na rzecz osób wieku emerytalnym, lub
-- **6)** sferze oświaty i wychowania, lub
 - **7)** na rzecz rodziny, macierzyństwa, rodzicielstwa oraz upowszechniania i ochrony praw dziecka.
 
 4. Ogłoszenie o konkursie zamieszcza się Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw wewnętrznych oraz dzienniku lub tygodniku o zasięgu ogólnopolskim, regionalnym lub lokalnym.
@@ -534,8 +451,7 @@ o zmianie ustawy o repatriacji oraz niektórych innych ustaw
 - **3)** analizę możliwości zatrudnienia repatrianta na terenie gminy, której ośrodek ma być zlokalizowany;
 - **4)** określenie maksymalnej liczby miejsc przeznaczonych dla repatriantów budynku, którym ośrodek ma być zlokalizowany;
 - **5)** informację o dotychczasowej działalności podmiotu uczestniczącego konkursie;
-- **6)** dokumentację potwierdzającą prowadzenie działalności, o której mowa ust. 3;
-- **7)** kopię dokumentu potwierdzającego tytuł prawny do nieruchomości, której ośrodek ma być zlokalizowany;
+- **6)** dokumentację potwierdzającą prowadzenie działalności, o której mowa ust. 3; której ośrodek ma być zlokalizowany;
 - **8)** informację o posiadanych zasobach kadrowych, niezbędnych do zapewnienia prowadzenia ośrodka, tym informację o kandydacie do pełnienia funkcji kierownika ośrodka;
 - **9)** zarys programu zajęć i kursów, o których mowa art. 20b ust. 1 pkt 8, wraz z informacją o planowanej współpracy z państwowymi lub samorządowymi instytucjami kultury tym zakresie;
 - **10)** dane kontaktowe podmiotu uczestniczącego konkursie;
@@ -552,20 +468,19 @@ o zmianie ustawy o repatriacji oraz niektórych innych ustaw
 
 2. Z przebiegu konkursu Pełnomocnik sporządza protokół.
 
-3. Wyniki konkursu ogłasza się niezwłocznie po dokonaniu wyboru podmiotu lub podmiotów prowadzących o ś rodki sposób, o którym mowa art. 20e ust. 4.
+3. Wyniki konkursu ogłasza się niezwłocznie po dokonaniu wyboru podmiotu lub podmiotów prowadzących ośrodki sposób, o którym mowa art. 20e ust. 4.
 
 **Art. 20g.**
 
-1. Pełnomocnik, niezwłocznie po ogłoszeniu wyników konkursu, zawiera umow ę z podmiotem lub podmiotami prowadz ą cymi o ś rodki.
+1. Pełnomocnik, niezwłocznie po ogłoszeniu wyników konkursu, zawiera umowę z podmiotem lub podmiotami prowadzącymi ośrodki.
 
-2. W umowie okre ś la si ę szczególno ś ci:
+2. W umowie określa się szczególności:
 
 - **1)** szczegółowy zakres zadań podmiotu prowadzącego ośrodek;
+- **2)** prawa i obowiązki stron;
 - **3)** zasady finansowania ośrodka;
 - **4)** sposób postępowania przypadku naruszenia umowy lub niewywiązania się z niej;
-- **5)** termin, na jaki umowa zostaje zawarta.
-
-3. Pełnomocnik powierza prowadzenie ośrodka wybranemu podmiotowi na okres nie dłuższy niż 5 lat od dnia zawarcia umowy.
+- **5)** termin, na jaki umowa zostaje zawarta. okres nie dłuższy niż 5 lat od dnia zawarcia umowy.
 
 4. Prowadzenie ośrodka jest finansowane ze środków budżetu państwa.
 
@@ -595,11 +510,7 @@ o zmianie ustawy o repatriacji oraz niektórych innych ustaw
 
 4. Podmiot prowadzący ośrodek zakresie prowadzenia zajęć i kursów, o których mowa art. 20b ust. 1 pkt 8, może współpracować z państwowymi lub samorządowymi instytucjami kultury.
 
-5. Repatriant po ukończeniu kursu zawodowego ustalonym wymiarze godzinowym otrzymuje zaświadczenie o jego ukończeniu, wystawione przez osoby, które go prowadziły.
-
-**Art. 20i.**
-
-1. Kierownik ośrodka poucza repatrianta o przysługujących mu prawach i obowiązkach oraz zapoznaje go z treścią regulaminu organizacyjno-porządkowego, co repatriant potwierdza formie pisemnego oświadczenia.
+5. Repatriant po ukończeniu kursu zawodowego ustalonym wymiarze godzinowym otrzymuje zaświadczenie o jego ukończeniu, wystawione przez osoby, które go prowadziły. prawach i obowiązkach oraz zapoznaje go z treścią regulaminu organizacyjno-porządkowego, co repatriant potwierdza formie pisemnego oświadczenia.
 
 2. Repatriant umieszczony ośrodku jest obowiązany:
 
@@ -614,10 +525,10 @@ o zmianie ustawy o repatriacji oraz niektórych innych ustaw
 
 4. Na terenie ośrodka zabrania się:
 
-- **1)** spo ż ywania alkoholu oraz przyjmowania ś rodków odurzaj ą cych lub substancji psychotropowych;
+- **1)** spożywania alkoholu oraz przyjmowania środków odurzających lub substancji psychotropowych;
 - **2)** palenia wyrobów tytoniowych poza miejscami do tego wyznaczonymi.
 
-**Art. 20j.** Minister wła ś ciwy do spraw wewn ę trznych okre ś li, drodze rozporz ą dzenia, regulamin organizacyjno-porz ą dkowy o ś rodka obejmuj ą cy:
+**Art. 20j.** Minister właściwy do spraw wewnętrznych określi, drodze rozporządzenia, regulamin organizacyjno-porządkowy ośrodka obejmujący:
 
 **Art. 20k.**
 
@@ -627,9 +538,7 @@ o zmianie ustawy o repatriacji oraz niektórych innych ustaw
 
 - **1)** realizacji postanowień umowy, o której mowa art. 20g ust. 1;
 - **2)** zapewniania warunków, o których mowa art. 20b ust. 1;
-- **3)** spełnienia minimalnych wymagań dotyczących wyposażenia ośrodka, określonych przepisach wydanych na podstawie art. 20b ust. 2.
-
-3. Pełnomocnik, sprawując nadzór nad funkcjonowaniem ośrodków, może je wizytować.
+- **3)** spełnienia minimalnych wymagań dotyczących wyposażenia ośrodka, określonych przepisach wydanych na podstawie art. 20b ust. 2. je wizytować.
 
 4. Pełnomocnik podczas wizytowania ośrodka ma prawo:
 
@@ -664,16 +573,17 @@ o zmianie ustawy o repatriacji oraz niektórych innych ustaw
 
 - **1)** imię i nazwisko;
 - **2)** datę urodzenia;
-- **3)** obywatelstwo;
 - **4)** stan cywilny;
 - **5)** płeć;
 - **6)** okres pobytu ośrodku.
 
 3. Kierownik ośrodka:
 
-- **1)** udost ę pnia dane zawarte ewidencji Pełnomocnikowi na ka ż de żą danie;
+- **1)** udostępnia dane zawarte ewidencji Pełnomocnikowi na każde żądanie;
 - **2)** aktualizuje dane zawarte ewidencji;
-- **3)** informuje Pełnomocnika o wszelkich zmianach dokonywanych ewidencji. Osoba wspierająca repatrianta
+- **3)** informuje Pełnomocnika o wszelkich zmianach dokonywanych ewidencji.
+
+#### Rozdział 4b Osoba wspierająca repatrianta
 
 **Art. 20n.**
 
@@ -695,10 +605,7 @@ o zmianie ustawy o repatriacji oraz niektórych innych ustaw
 1. Osobą wspierającą może być osoba, która:
 
 - **1)** posiada doświadczenie realizacji projektów lub innych działań mających na celu przeciwdziałanie wykluczeniu społecznemu;
-- **2)** nie była skazana prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe.
-
-2. Zadaniem osoby wspierającej jest udzielanie repatriantowi pomocy adaptacji na terytorium Rzeczypospolitej Polskiej, polegającej szczególności na:
-
+- **2)** nie była skazana prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe. adaptacji na terytorium Rzeczypospolitej Polskiej, polegającej szczególności na:
 - **1)** udzielaniu informacji o sposobie załatwienia istotnych dla repatrianta spraw z zakresu opieki medycznej, szkolnictwa, pomocy socjalnej oraz zatrudnienia;
 - **2)** wspieraniu repatrianta załatwianiu spraw, o których mowa pkt 1, szczególności zakresie sporządzania jego imieniu pism urzędowych;
 - **3)** asystowaniu repatriantowi podeszłym wieku podczas wizyt lekarskich.
@@ -719,19 +626,16 @@ o zmianie ustawy o repatriacji oraz niektórych innych ustaw
 
 2. Osoba wspierająca, za zgodą repatrianta, ma prawo do występowania do właściwych organów władzy publicznej, organizacji oraz instytucji o udzielenie informacji niezbędnych do udzielenia pomocy repatriantowi, tym informacji zawierających dane osobowe repatrianta.”;
 
-- **25)** art. 21:
+- **25)** art. 21: której zobowiązała się do zapewnienia lokalu mieszkalnego repatriantom i do zawarcia, na czas nieokreślony, umowy nadającej im tytuł prawny do lokalu mieszkalnego.”,
     - **a)** ust. 1 i 2 otrzymują brzmienie: „1. Gminie, która zapewni lokal mieszkalny repatriantowi, udziela się dotacji z budżetu państwa na podstawie porozumienia zawartego z właściwym wojewodą. Dotacja może być przyznana wysokości do 25 000 zł na repatrianta.
+    - **b)** ust. 5 otrzymuje brzmienie: „5. Przy udzielaniu dotacji gminie, która zapewni lokal mieszkalny repatriantowi, uwzględnia się wielkość lokalu mieszkalnego, jego wyposażenie i stan techniczny oraz lokalizację, a także ewentualne koszty poniesione przez gminę związku z zapewnieniem repatriantowi lokalu mieszkalnego.”,
+    - **c)** ust. 6 pkt 1 otrzymuje brzmienie: „1) szczegółowy opis pomocy mieszkaniowej udzielonej repatriantowi;”,
+    - **d)** dodaje się ust. 7 brzmieniu: „7. Repatriantowi nie przysługują roszczenia z tytułu zapewnienia różnych gminach różnych warunków lokalu mieszkalnego, jeżeli gminy te otrzymały dotację z budżetu państwa, o której mowa ust. 1.”;
 
-2. Dotacji udziela się gminie, której rada gminy podjęła uchwałę, której zobowiązała się do zapewnienia lokalu mieszkalnego repatriantom i do zawarcia, na czas nieokre ś lony, umowy nadaj ą cej im tytuł prawny do lokalu mieszkalnego.”,
-
-- **b)** ust. 5 otrzymuje brzmienie: „5. Przy udzielaniu dotacji gminie, która zapewni lokal mieszkalny repatriantowi, uwzgl ę dnia si ę wielko ść lokalu mieszkalnego, jego wyposa ż enie i stan techniczny oraz lokalizacj ę , a tak ż e ewentualne koszty poniesione przez gminę związku z zapewnieniem repatriantowi lokalu mieszkalnego.”, „1) szczegółowy opis pomocy mieszkaniowej udzielonej repatriantowi;”,
-- **d)** dodaje się ust. 7 brzmieniu: „7. Repatriantowi nie przysługują roszczenia z tytułu zapewnienia różnych gminach różnych warunków lokalu mieszkalnego, jeżeli gminy te otrzymały dotację z budżetu państwa, o której mowa ust. 1.”;
-- **26)** art. 22:
+- **26)** art. 22: „Rozdział 6a Odznaka honorowa „Zasłużony dla repatriacji”
     - **a)** ust. 1 otrzymuje brzmienie: „1. Gmina może udzielić repatriantowi, na jego wniosek, pomocy polegającej na przeprowadzeniu remontu, adaptacji lub na wyposażeniu lokalu mieszkalnego miejscu osiedlenia się Rzeczypospolitej Polskiej.”,
     - **b)** ust. 3 otrzymuje brzmienie: „3. Gmina otrzymuje z budżetu państwa dotację celową na realizację zadania, o którym mowa ust. 1, do wysokości 6000 zł na repatrianta.”,
     - **c)** dodaje się ust. 6 brzmieniu: „6. Repatriant składa wniosek, o którym mowa ust. 1, osobiście do wójta (burmistrza, prezydenta miasta) właściwego ze względu na miejsce osiedlenia się repatrianta terminie 2 lat od dnia nabycia przez repatrianta obywatelstwa polskiego.”;
-
-- **27)** po rozdziale 6 dodaje się rozdział 6a brzmieniu: „Rozdział 6a Odznaka honorowa „Zasłużony dla repatriacji”
 
 **Art. 28a.**
 
@@ -754,21 +658,18 @@ o zmianie ustawy o repatriacji oraz niektórych innych ustaw
 - **5)** obywatelstwo;
 - **6)** datę przyznania odznaki.
 
-7. Pełnomocnik, po powzięciu informacji o zgonie osoby, której została przyznana odznaka, o której mowa ust. 1, zarządza protokolarne i komisyjne usunięcie danych dotyczących tej osoby z ewidencji.
-
-**Art. 28b.**
-
-1. Wniosek o przyznanie odznaki, o której mowa art. 28a ust. 1, zawiera:
+7. Pełnomocnik, po powzięciu informacji o zgonie osoby, której została przyznana odznaka, o której mowa ust. 1, zarządza protokolarne i komisyjne usunięcie danych dotyczących tej osoby z ewidencji. zawiera:
 
 - **1)** następujące dane dotyczące osoby przedstawionej do wyróżnienia:
     - **a)** imię (imiona) i nazwisko,
     - **b)** numer PESEL,
-    - **c)** dat ę i miejsce urodzenia,
+    - **c)** datę i miejsce urodzenia,
     - **d)** imiona rodziców,
-    - **e)** pa ń stwo zamieszkania,
+    - **e)** państwo zamieszkania,
     - **f)** obywatelstwo,
     - **g)** adres do korespondencji;
 
+- **2)** informacje uzasadniające przyznanie odznaki, o której mowa art. 28a ust. 1;
 - **3)** nazwę albo imię i nazwisko i podpis wnioskodawcy lub osoby działającej imieniu wnioskodawcy oraz datę złożenia wniosku.
 
 2. Prezes Rady Ministrów rozpatruje wniosek o przyznanie odznaki, o której mowa art. 28a ust. 1, terminie 60 dni od dnia jego otrzymania.
@@ -778,8 +679,8 @@ o zmianie ustawy o repatriacji oraz niektórych innych ustaw
 - **1)** wzór wniosku o przyznanie odznaki, o której mowa art. 28a ust. 1,
 - **2)** wzór i sposób noszenia odznaki, o której mowa art. 28a ust. 1,
 - **3)** wzór legitymacji potwierdzającej przyznanie odznaki, o której mowa art. 28a ust. 1,
-- **4)** sposób prowadzenia ewidencji informacji o osobach, którym została przyznana odznaka, o której mowa art. 28a ust. 1 mając na uwadze potrzebę ujednolicenia sposobu składania wniosków, wzornictwo stosowane polskiej falerystyce oraz zakres danych wpisywanych do ewidencji.”;
-- **28)** art. 29 i art. 30 otrzymują brzmienie: „Art. 29. 1. W celu umożliwienia kandydatom na repatriantów poszukiwań właściwych warunków do osiedlenia się Rzeczypospolitej Polskiej Pełnomocnik prowadzi ewidencję lokali mieszkalnych i źródeł utrzymania dla repatriantów.
+- **4)** sposób prowadzenia ewidencji informacji o osobach, którym została przyznana odznaka, o której mowa art. 28a ust. 1 – mając na uwadze potrzebę ujednolicenia sposobu składania wniosków, wzornictwo stosowane polskiej falerystyce oraz zakres danych wpisywanych do ewidencji.”;
+- **28)** art. 29 i art. 30 otrzymują brzmienie: „Art. 29. 1. W celu umożliwienia kandydatom na repatriantów poszukiwań właściwych warunków do osiedlenia się Rzeczypospolitej Polskiej repatriantów.
 
 2. Ewidencję, o której mowa ust. 1, prowadzi się systemie teleinformatycznym, na podstawie uchwał i oświadczeń przekazanych przez podmioty, o których mowa art. 12 ust. 3 pkt 2 i 3.
 
@@ -804,16 +705,17 @@ o zmianie ustawy o repatriacji oraz niektórych innych ustaw
 - **1)** imię (imiona) i nazwisko;
 - **2)** nazwisko rodowe;
 - **3)** imię i nazwisko rodowe ojca;
-- **4)** imię i nazwisko rodowe matki;
 - **5)** datę urodzenia;
 - **6)** miejsce i kraj urodzenia;
 - **7)** stan cywilny;
 - **8)** miejsce zamieszkania za granicą i miejsce zamierzonego osiedlenia się Rzeczypospolitej Polskiej;
-- **9)** narodowo ść i pochodzenie etniczne;
+- **9)** narodowość i pochodzenie etniczne;
 - **10)** obywatelstwo;
 - **11)** zawód, wykształcenie oraz kwalifikacje zawodowe;
-- **12)** informacj ę o oczekiwaniach co do sposobu zapewnienia warunków do osiedlenia si ę ;
-- **13)** informację o prześladowaniach politycznych i narodowościowych. art. 12 ust. 3 pkt 2 i 3, na ich pisemny wniosek.
+- **12)** informację o oczekiwaniach co do sposobu zapewnienia warunków do osiedlenia się;
+- **13)** informację o prześladowaniach politycznych i narodowościowych.
+
+4. Dane i informacje, o których mowa ust. 3 pkt 1, 2, 11 i 12, są udostępniane podmiotom, o których mowa art. 12 ust. 3 pkt 2 i 3, na ich pisemny wniosek.
 
 5. Dane i informacje, o których mowa ust. 3, przechowuje się do czasu wydania osobom, których dotyczą, wizy krajowej celu repatriacji.
 
@@ -824,9 +726,7 @@ o zmianie ustawy o repatriacji oraz niektórych innych ustaw
 
 2. Minister właściwy do spraw wewnętrznych i wojewoda, każdy zakresie swojej właściwości, prowadzą rejestr dotyczący uznania za repatrianta.
 
-3. Minister właściwy do spraw wewnętrznych, Pełnomocnik, wojewoda i konsul, każdy zakresie swojej właściwości, prowadzą rejestr dotyczący udzielania pomocy repatriantom ze środków budżetu państwa.
-
-4. Rejestry, o których mowa ust. 1–3, wchodzą skład krajowego zbioru rejestrów, ewidencji i wykazu sprawach cudzoziemców, o którym mowa art. 449 ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach.”;
+3. Minister właściwy do spraw wewnętrznych, Pełnomocnik, wojewoda i konsul, każdy zakresie swojej właściwości, prowadzą rejestr dotyczący udzielania pomocy repatriantom ze środków budżetu państwa. rejestrów, ewidencji i wykazu sprawach cudzoziemców, o którym mowa art. 449 ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach.”;
 
 - **31)** po art. 33 dodaje się art. 33a i art. 33b brzmieniu: „Art. 33a. W rejestrach, o których mowa art. 33 ust. 1–3, gromadzi się i przechowuje:
 - **1)** informacje o wnioskach i wydanych rozstrzygnięciach odpowiednio sprawach:
@@ -849,21 +749,21 @@ o zmianie ustawy o repatriacji oraz niektórych innych ustaw
     - **l)** numer PESEL,
     - **m)** datę opuszczenia ośrodka.
 
-**Art. 33b.** W postępowaniach prowadzonych na podstawie przepisów niniejszej ustawy mogą być przetwarzane następujące dane i informacje dotyczące osób objętych wnioskami, o których mowa art. 33a pkt 1, bez ich zgody:
+**Art. 33b.** W postępowaniach prowadzonych na podstawie przepisów niniejszej ustawy mogą być przetwarzane następujące dane i informacje zgody:
 
 **Art. 35.** Dane lub informacje przechowywane rejestrach, o których mowa art. 33 ust. 1–3 i art. 34 ust. 1, udostępnia się:
 
 **Art. 35b.** Do sposobu i trybu udostępniania danych zawartych rejestrach, o których mowa art. 33 ust. 1–3, za pomocą urządzeń telekomunikacyjnych stosuje się przepisy art. 453–456 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach oraz przepisy wydane na podstawie art. 457 i art. 458 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach.”;
 
-**Art. 2.** W ustawie z dnia 28 lipca 1983 r. o podatku od spadków i darowizn (Dz. U. z 2017 r. poz. 833) art. 4 ust. 1 pkt 17 kropk ę zast ę puje si ę ś rednikiem i dodaje si ę pkt 18 brzmieniu: „18) nabycie drodze dziedziczenia, zapisu zwykłego, zapisu windykacyjnego, dalszego zapisu, polecenia testamentowego lub darowizny własno ś ci (współwłasno ś ci) budynku mieszkalnego lub lokalu mieszkalnego stanowi ą cego odr ę bn ą nieruchomo ść , spółdzielczego własno ś ciowego prawa do lokalu mieszkalnego lub udziału takim prawie, spółdzielczego prawa do domu jednorodzinnego albo udziału takim prawie przez repatrianta, jeżeli spełnia warunki określone art. 16 ust. 2 pkt 2 i 3; przepisy art. 16 ust. 7 i 8 stosuje się odpowiednio.”. nych (Dz. U. z 2016 r. poz. 1793, z zm. ) wprowadza zmiany:
+**Art. 2.** W ustawie z dnia 28 lipca 1983 r. o podatku od spadków i darowizn (Dz. U. z 2017 r. poz. 833) art. 4 ust. 1 pkt 17 kropkę zastępuje się średnikiem i dodaje się pkt 18 brzmieniu: „18) nabycie drodze dziedziczenia, zapisu zwykłego, zapisu windykacyjnego, dalszego zapisu, polecenia testamentowego lub darowizny własności (współwłasności) budynku mieszkalnego lub lokalu mieszkalnego stanowiącego odrębną nieruchomość, spółdzielczego własnościowego prawa do lokalu mieszkalnego lub udziału takim prawie, spółdzielczego prawa do domu jednorodzinnego albo udziału takim prawie przez repatrianta, jeżeli spełnia warunki określone art. 16 ust. 2 pkt 2 i 3; przepisy art. 16 ust. 7 i 8 stosuje się odpowiednio.”.
 
-**Art. 4.** W ustawie z dnia 27 lipca 2005 r. Prawo o szkolnictwie wyższym (Dz. U. z 2016 r. poz. 1842, 1933, 2169 i 2260 oraz z 2017 r. poz. 60 i 777) art. 43:
+**Art. 3.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2016 r. poz. 1793, z późn. zm. ) wprowadza się następujące zmiany:
 
 **Art. 5.** W ustawie z dnia 7 września 2007 r. o Karcie Polaka (Dz. U. z 2014 r. poz. 1187, z 2015 r. poz. 1274, z 2016 r. poz. 753 i 2066 oraz z 2017 r. poz. 60) wprowadza się następujące zmiany:
 
 **Art. 6.** W ustawie z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2016 r. poz. 1990, 1948 i 2066 oraz z 2017 r. poz. 60) wprowadza się następujące zmiany:
 
-**Art. 7.** W ustawie z dnia 25 czerwca 2015 r. Prawo konsularne (Dz. U. poz. 1274, z 2016 r. poz. 1579 oraz z 2017 r. poz. 132 i 813) art. 34 pkt 7 otrzymuje brzmienie: „7) wydaje decyzje sprawie stwierdzenia polskiego pochodzenia oraz decyzje o zakwalifikowaniu do wydania wizy krajowej celu repatriacji, może przyznawać i wypłacać pomoc ze środków budżetu państwa lub pokrywać koszty uczestnictwa kursie języka polskiego, a także dokonuje tłumaczenia na język polski lub poświadcza tłumaczenie zagranicznych dokumentów umożliwiających sporządzenie polskiego aktu stanu cywilnego, o których mowa art. 12c ust. 2 ustawy z dnia 9 listopada 2000 r. o repatriacji (Dz. U. z 2014 r. poz. 1392, z 2015 r. poz. 1274 oraz z 2017 r. poz. 60 i 858), i przekazuje je, wraz z wnioskiem o sporządzenie polskiego aktu stanu cywilnego rejestrze stanu cywilnego, kierownikowi urzędu stanu cywilnego wybranemu przez osobę, o której mowa art. 12c ust. 1 tej ustawy;”.
+**Art. 7.** W ustawie z dnia 25 czerwca 2015 r. – Prawo konsularne (Dz. U. poz. 1274, z 2016 r. poz. 1579 oraz z 2017 r. poz. 132 i 813) art. 34 pkt 7 otrzymuje brzmienie: „7) wydaje decyzje sprawie stwierdzenia polskiego pochodzenia oraz decyzje o zakwalifikowaniu do wydania wizy krajowej celu repatriacji, może przyznawać i wypłacać pomoc ze środków budżetu państwa lub pokrywać koszty uczestnictwa kursie języka polskiego, a także dokonuje tłumaczenia na język polski lub poświadcza tłumaczenie zagranicznych dokumentów umożliwiających sporządzenie polskiego aktu stanu cywilnego, o których mowa art. 12c ust. 2 ustawy z dnia 9 listopada 2000 r. o repatriacji (Dz. U. z 2014 r. poz. 1392, z 2015 r. poz. 1274 oraz z 2017 r. poz. 60 i 858), i przekazuje je, wraz z wnioskiem o sporządzenie polskiego aktu stanu cywilnego rejestrze stanu cywilnego, kierownikowi urzędu stanu cywilnego wybranemu przez osobę, o której mowa art. 12c ust. 1 tej ustawy;”.
 
 **Art. 8.** Rada Ministrów przedłoży Sejmowi Rzeczypospolitej Polskiej i Senatowi Rzeczypospolitej Polskiej informację o wykonaniu ustawy oraz o skutkach jej stosowania po 2 latach jej obowiązywania, do dnia 30 września 2019 r.
 
@@ -871,7 +771,7 @@ o zmianie ustawy o repatriacji oraz niektórych innych ustaw
 
 1. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 18 ust. 4 ustawy zmienianej art. 1 zachowują moc do dnia wejścia życie nowych przepisów wykonawczych wydanych na podstawie art. 18 ust. 4 ustawy zmienianej art. 1, jednak nie dłużej niż przez 6 miesięcy od dnia wejścia życie niniejszej ustawy.
 
-2. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 13a ustawy zmienianej art. 3 zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych na podstawie art. 13a ustawy zmienianej art. 3 brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 6 miesięcy od dnia wejścia życie niniejszej ustawy.
+2. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 13a ustawy zmienianej art. 3 zachowują moc do dnia wejścia życie przepisów brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 6 miesięcy od dnia wejścia życie niniejszej ustawy.
 
 **Art. 10.** Do postępowań wszczętych na podstawie przepisów ustawy zmienianej art. 1 i niezakończonych przed dniem wejścia życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 
@@ -883,9 +783,21 @@ o zmianie ustawy o repatriacji oraz niektórych innych ustaw
 
 **Art. 12.** Decyzje o przyrzeczeniu wydania wizy krajowej celu repatriacji wydane na podstawie art. 11 ustawy zmienianej art. 1 brzmieniu dotychczasowym zachowują ważność.
 
-**Art. 13.** Konsul, terminie 90 dni od dnia wej ś cia ż ycie niniejszej ustawy, przeka ż e dane zawarte rejestrze, o którym mowa art. 32 pkt 1 ustawy zmienianej art. 1, do rejestru, o którym mowa art. 33 ust. 1 ustawy zmienianej art. 1 brzmieniu nadanym niniejsz ą ustaw ą .
+**Art. 13.** Konsul, terminie 90 dni od dnia wejścia życie niniejszej ustawy, przekaże dane zawarte rejestrze, o którym mowa art. 32 pkt 1 ustawy zmienianej art. 1, do rejestru, o którym mowa art. 33 ust. 1 ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą.
 
-**Art. 14.** Do opodatkowania podatkiem od spadków i darowizn nabycia własno ś ci rzeczy lub praw maj ą tkowych, które nast ą piło przed dniem wej ś cia ż ycie niniejszej ustawy, stosuje si ę przepisy dotychczasowe. tom, o których mowa art. 17b ust. 1 pkt 1 ustawy zmienianej art. 1, którzy przybyli na terytorium Rzeczypospolitej Polskiej przed dniem wejścia życie niniejszej ustawy. 2. Repatriantowi oraz jego małżonkowi i małoletniemu dziecku pozostającemu pod władzą rodzicielską co najmniej jednego z małżonków, którzy przybyli na terytorium Rzeczypospolitej Polskiej nie wcześniej niż 12 miesięcy przed dniem wejścia życie niniejszej ustawy, Pełnomocnik Rządu do Spraw Repatriacji może przyznać pomoc, o której mowa art. 17b ust. 1 ustawy zmienianej art. 1. 3. Pełnomocnik Rządu do Spraw Repatriacji, wydając decyzję o przyznaniu pomocy, o której mowa art. 17b ust. 1 ustawy zmienianej art. 1, bierze szczególności pod uwagę rodzaj i zakres dotychczas udzielonej pomocy oraz warunki bytowe osób, o których mowa ust. 2. 4. W przypadku, o którym mowa ust. 2, przepisy art. 17b i art. 17c ustawy zmienianej art. 1 stosuje się odpowiednio. 5. W przypadku, o którym mowa ust. 2, wniosek o przyznanie pomocy, o której mowa art. 17b ust. 1 ustawy zmienianej art. 1, należy złożyć nie później niż do dnia 31 grudnia 2017 r.
+**Art. 14.** Do opodatkowania podatkiem od spadków i darowizn nabycia własności rzeczy lub praw majątkowych, które nastąpiło przed dniem wejścia życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
+
+**Art. 15.**
+
+1. Pomoc finansowa, o której mowa art. 17b ust. 1 ustawy zmienianej art. 1, nie przysługuje repatriantom, o których mowa art. 17b ust. 1 pkt 1 ustawy zmienianej art. 1, którzy przybyli na terytorium Rzeczypospolitej Polskiej przed dniem wejścia życie niniejszej ustawy.
+
+2. Repatriantowi oraz jego małżonkowi i małoletniemu dziecku pozostającemu pod władzą rodzicielską co najmniej jednego z małżonków, którzy przybyli na wejścia życie niniejszej ustawy, Pełnomocnik Rządu do Spraw Repatriacji może przyznać pomoc, o której mowa art. 17b ust. 1 ustawy zmienianej art. 1.
+
+3. Pełnomocnik Rządu do Spraw Repatriacji, wydając decyzję o przyznaniu pomocy, o której mowa art. 17b ust. 1 ustawy zmienianej art. 1, bierze szczególności pod uwagę rodzaj i zakres dotychczas udzielonej pomocy oraz warunki bytowe osób, o których mowa ust. 2.
+
+4. W przypadku, o którym mowa ust. 2, przepisy art. 17b i art. 17c ustawy zmienianej art. 1 stosuje się odpowiednio.
+
+5. W przypadku, o którym mowa ust. 2, wniosek o przyznanie pomocy, o której mowa art. 17b ust. 1 ustawy zmienianej art. 1, należy złożyć nie później niż do dnia 31 grudnia 2017 r.
 
 **Art. 16.** Ustanawia się Pełnomocnika Rządu do Spraw Repatriacji.
 
@@ -901,22 +813,34 @@ o zmianie ustawy o repatriacji oraz niektórych innych ustaw
 
 **Art. 19.**
 
-1. W latach 2017–2026 maksymalny limit wydatków z budżetu państwa będących skutkiem finansowym ustawy wynosi 474 133 tys. zł, z tym że w:
+1. W latach 2017–2026 maksymalny limit wydatków z budżetu państwa będących skutkiem finansowym ustawy wynosi 559 133 tys. zł, tym w:
 
-- **1)** 2017 r. 24 689 tys. zł;
-- **2)** 2018 r. 63 150 tys. zł;
-- **3)** 2019 r. 58 505 tys. zł;
-- **4)** 2020 r. 52 167 tys. zł;
-- **5)** 2021 r. 46 837 tys. zł;
-- **6)** 2022 r. 45 757 tys. zł;
-- **7)** 2023 r. 45 757 tys. zł;
-- **8)** 2024 r. 45 757 tys. zł;
-- **9)** 2025 r. 45 757 tys. zł;
-- **10)** 2026 r. 45 757 tys. zł.
+- **1)** 2017 r. – 24 689 tys. zł;
+- **2)** 2018 r. – 63 150 tys. zł;
+- **3)** 2019 r. – 58 505 tys. zł;
+- **4)** 2020 r. – 52 167 tys. zł;
+- **5)** 2021 r. – 46 837 tys. zł;
+- **6)** 2022 r. – 60 757 tys. zł;
+- **8)** 2024 r. – 45 757 tys. zł;
+- **9)** 2025 r. – 80 757 tys. zł;
+- **10)** 2026 r. – 80 757 tys. zł.
 
-2. Minister właściwy do spraw wewnętrznych oraz Pełnomocnik Rządu do Spraw Repatriacji monitorują wykorzystanie limitu wydatków, o którym mowa ust. 1, oraz wdrażają mechanizm korygujący, o którym mowa ust. 3.
+1a. W latach 2027–2036 maksymalny limit wydatków z budżetu państwa będących skutkiem finansowym ustawy wynosi 807 570 tys. zł, tym w:
 
-3. W przypadku przekroczenia lub zagrożenia przekroczenia przyjętego na dany rok budżetowy maksymalnego limitu wydatków budżetu państwa, o którym mowa ust. 1, zostanie zastosowany mechanizm korygujący polegający na ograniczeniu wydatków związanych z kosztami funkcjonowania systemu repatriacji, tym ograniczeniu liczby wydawanych przez Pełnomocnika Rządu do Spraw Repatriacji decyzji sprawie przyznania miejsca ośrodku adaptacyjnym dla repatriantów lub przedłużenia pobytu repatrianta takim ośrodku.
+- **1)** 2027 r. – 80 757 tys. zł;
+- **2)** 2028 r. – 80 757 tys. zł;
+- **3)** 2029 r. – 80 757 tys. zł;
+- **4)** 2030 r. – 80 757 tys. zł;
+- **5)** 2031 r. – 80 757 tys. zł;
+- **6)** 2032 r. – 80 757 tys. zł;
+- **7)** 2033 r. – 80 757 tys. zł;
+- **8)** 2034 r. – 80 757 tys. zł;
+- **9)** 2035 r. – 80 757 tys. zł;
+- **10)** 2036 r. – 80 757 tys. zł.
 
-**Art. 20.** Ustawa wchodzi życie z dniem 1 maja 2017 r., z wyjątkiem art. 17 ust. 1 pkt 3 ustawy zmienianej art. 1 brzmieniu nadanym niniejsz ą ustaw ą , który wchodzi ż ycie z dniem 1 wrze ś nia 2017 r. Prezydent Rzeczypospolitej Polskiej: A. Duda
+2. Minister właściwy do spraw wewnętrznych oraz Pełnomocnik Rządu do Spraw Repatriacji monitorują wykorzystanie limitu wydatków, o którym mowa ust. 1 i 1a, oraz wdrażają mechanizm korygujący, o którym mowa ust. 3.
+
+3. W przypadku przekroczenia lub zagrożenia przekroczenia przyjętego na dany rok budżetowy maksymalnego limitu wydatków budżetu państwa, o którym mowa ust. 1 i 1a, zostanie zastosowany mechanizm korygujący polegający na ograniczeniu wydatków związanych z kosztami funkcjonowania systemu repatriacji, tym ograniczeniu liczby wydawanych przez Pełnomocnika Rządu do Spraw Repatriacji decyzji sprawie przyznania miejsca ośrodku adaptacyjnym dla repatriantów lub przedłużenia pobytu repatrianta takim ośrodku.
+
+**Art. 20.** Ustawa wchodzi życie z dniem 1 maja 2017 r., z wyjątkiem art. 17 ust. 1 pkt 3 ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą, który wchodzi życie z dniem 1 września 2017 r.
 

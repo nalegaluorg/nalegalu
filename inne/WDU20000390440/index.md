@@ -10,7 +10,9 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# Ustawa z dnia 16 marca 2000 r. o Chrześcijańskiej Akademii Teologicznej w Warszawie.
+# o Chrześcijańskiej Akademii Teologicznej w Warszawie
+
+*USTAWA z dnia 16 marca 2000 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -26,17 +28,29 @@ domain: null
 
 **Art. 1.**
 
-1. Chrześcijańska Akademia Teologiczna 2. Wydział Teologiczny Akademii pozostaje ponadw Warszawie, zwana dalej ŃAkademią”, jest uczelnią to pod nadzorem władz właściwych Kościołów w zapaństwową utworzoną w 1954 r. z Wydziału Teologii kresie określonym przez statut uczelni. Ewangelickiej Uniwersytetu Warszawskiego.
+1. Chrześcijańska Akademia Teologiczna w Warszawie, zwana dalej „Akademią”, jest uczelnią publiczną utworzoną w 1954 r. z Wydziału Teologii Ewangelickiej Uniwersytetu Warszawskiego.
 
-**Art. 4.** Z dniem wejścia w życie niniejszej ustawy 2. Akademia nawiązuje do tradycji Studium Teolo- Akademia zachowuje wszystkie swoje dotychczasowe gii Prawosławnej Uniwersytetu Warszawskiego. prawa iwiążą ją jej dotychczasowe zobowiązania. 3. Siedzibą Akademii jest Warszawa. Art. 5. Mienie, obejmujące własność i inne prawa majątkowe Akademii, będące w jej posiadaniu przed
+2. Akademia nawiązuje do tradycji Studium Teologii Prawosławnej Uniwersytetu Warszawskiego.
 
-**Art. 2.** Podstawowym kierunkiem działalności Aka- dniem wejścia w życie niniejszej ustawy, pozostaje demii jest kształcenie oraz prowadzenie badań nauko- mieniem Akademii. wych w zakresie nauk teologicznych i humanistycznych. Art. 6. Ustawa wchodzi wżycie po upływie 14 dni
+3. Siedzibą Akademii jest Warszawa.
+
+**Art. 2.** Podstawowym kierunkiem działalności Akademii jest kształcenie oraz prowadzenie badań naukowych w zakresie nauk teologicznych i humanistycznych.
 
 **Art. 3.**
 
-1. Nadzór nad Akademią sprawuje minister właściwy do spraw szkolnictwa wyższego. od dnia ogłoszenia. Dziennik Ustaw Nr 39 — 2483 — Poz. 440, 441 i 442 Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 440 USTAWA zdnia 16 marca 2000 r. oChrześcijańskiej Akademii Teologicznej wWarszawie. 441 USTAWA zdnia 16 marca 2000 r. oratyfikacji Umowy między Stronami Traktatu Północnoatlantyckiego owspółpracy wdziedzinie informacji atomowych, sporządzonej wParyżu dnia 18 czerwca 1964 r.
+1. Nadzór nad Akademią sprawuje minister właściwy do spraw szkolnictwa wyższego i nauki.
 
-**Art. 1.** Wyraża się zgodę na dokonanie przez Prezy- Art. 2. Ustawa wchodzi w życie po upływie 14 dni denta Rzeczypospolitej Polskiej ratyfikacji Umowy od dnia ogłoszenia. między Stronami Traktatu Północnoatlantyckiego owspółpracy wdziedzinie informacji atomowych, sporządzonej wParyżu dnia 18 czerwca 1964 r. Prezydent Rzeczypospolitej Polskiej:A. Kwaśniewski 442 USTAWA zdnia 14 kwietnia 2000 r. ozmianie ustawy ozasadach przekazywania zakładowych budynków mieszkalnych przez przedsiębiorstwa państwowe.
+2. Wydział Teologiczny Akademii pozostaje ponadto pod nadzorem władz właściwych Kościołów w zakresie określonym przez statut uczelni.
 
-**Art. 1.** Wustawie zdnia 12 paêdziernika 1994 r. oza- 1) wart. 1: sadach przekazywania zakładowych budynków mieszkalnych przez przedsiębiorstwa państwowe (Dz. U. a) ust. 1 otrzymuje brzmienie: Nr119, poz. 567, z1996 r. Nr 52, poz. 236 i z1997 r. Nr6, Ń1. Ustawa reguluje zasady itryb przekazywania poz. 32) wprowadza się następujące zmiany: przez przedsiębiorstwa państwowe gruntów
+**Art. 3a.**
+
+1. Akademia otrzymuje subwencję ze środków finansowych, o których mowa w art. 365 pkt 1 lub 2 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2021 r. poz. 478 i 619), w wysokości nie niższej niż ustalona na rok poprzedni na podstawie algorytmu podziału środków finansowych, o którym mowa odpowiednio w art. 368 ust. 2 lub 3 tej ustawy.
+
+2. Minister właściwy do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych udziela Akademii dotacji podmiotowej na dofinansowanie wynagrodzeń nauczycieli akademickich wykonujących pracę w Wydziale Teologicznym, wraz z pochodnymi od tych wynagrodzeń.
+
+**Art. 4.** Z dniem wejścia w życie niniejszej ustawy Akademia zachowuje wszystkie swoje dotychczasowe prawa i wiążą ją jej dotychczasowe zobowiązania.
+
+**Art. 5.** Mienie, obejmujące własność i inne prawa majątkowe Akademii, będące w jej posiadaniu przed dniem wejścia w życie niniejszej ustawy, pozostaje mieniem Akademii.
+
+**Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 

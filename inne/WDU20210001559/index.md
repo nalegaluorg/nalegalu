@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, 25 sierpnia 2021 r.
+# zmianie ustawy Agencji Badań Medycznych oraz niektórych innych ustaw
+
+*USTAWA dnia 24 czerwca 2021 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,28 +26,25 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001559) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1559/text.pdf) |
 
-USTAWA 24 czerwca 2021 r.
-o zmianie ustawy o Agencji Badań Medycznych oraz niektórych innych ustaw
+**Art. 1.** W ustawie dnia 21 lutego 2019 r. Agencji Badań Medycznych (Dz. U. 2020 r. poz. 2150) wprowadza się następujące zmiany:
 
-**Art. 1.** W 21 lutego 2019 r. o Agencji Badań Medycznych (Dz. U. 2020 r. poz. 2150) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie dnia 5 grudnia 1996 r. zawodach lekarza i lekarza dentysty (Dz. U. 2021 r. poz. 790) art. 7c dodaje się ust. 4 brzmieniu: „4. Minister właściwy do spraw zdrowia może upoważnić Naczelną Radę Lekarską do wykonania jego imieniu zadań określonych art. 14, art. 17 ust. 6, art. 34 ust. 2 i 3, art. 35, art. 36 ust. 1 i art. 37–39 ustawy dnia 22 listopada 2018 r. dokumentach publicznych.”.
 
-**Art. 3.** W 27 lipca 2001 r. o diagnostyce laboratoryjnej (Dz. U. 2021 r. poz. 866) art. 10:
+**Art. 4.** W ustawie dnia 27 sierpnia 2004 r. świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. 2021 r. poz. 1285 i 1292) wprowadza się następujące zmiany:
 
-**Art. 4.** W 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. 2021 r. poz. 1285 1292) wprowadza się następujące zmiany:
+**Art. 5.** W ustawie dnia 8 września 2006 r. Państwowym Ratownictwie Medycznym (Dz. U. 2020 r. poz. 882, 2112 i 2401 oraz 2021 r. poz. 159) art. 33a wprowadza się następujące zmiany:
 
-**Art. 6.** W 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych (Dz. U. 2021 r. poz. 523 1292) po art. 37a dodaje się art. 37b brzmieniu: „Art. 37b. 1. Lek lub środek spożywczy specjalnego przeznaczenia żywieniowego stosowany ramach programu lekowego lub chemioterapii, dla którego nie wydano kolejnej decyzji o objęciu refundacją, a który jest dostępny na terytorium Rzeczypospolitej Polskiej, przy jednoczesnym braku alternatywnej opcji terapeutycznej ramach tego programu lekowego lub chemioterapii, za zgodą ministra właściwego do spraw zdrowia wydaną na wniosek Prezesa Funduszu, może być finansowany przez tego Prezesa na dotychczasowych warunkach wynikających ostatniej decyzji o objęciu refundacją dotyczącej tego leku lub środka spożywczego specjalnego przeznaczenia żywieniowego, wyłącznie świadczeniobiorcom, którzy rozpoczęli proces leczenia tym programie lub chemioterapii najpóźniej ostatnim dniu obowiązywania tej decyzji, do ukończenia terapii, nie dłużej jednak niż przez okres roku od zakończenia obowiązywania decyzji o objęciu refundacją leku lub środka spożywczego specjalnego przeznaczenia żywieniowego stosowanego ramach programu lekowego lub chemioterapii. 2. W celu objęcia finansowaniem leku lub środka spożywczego specjalnego przeznaczenia żywieniowego, o którym mowa ust. 1, podmiot odpowiedzialny, o którym mowa 6 września 2001 r. Prawo farmaceutyczne, składa wniosek do Prezesa Funduszu, najpóźniej terminie 14 dni od ogłoszenia pierwszego obwieszczenia, o którym mowa art. 37 ust. 1, wydanego po wygaśnięciu ostatniej decyzji, o której mowa ust. 1. 3. Wniosek, o którym mowa ust. 2, zawiera:
+**Art. 6.** W ustawie dnia 12 maja 2011 r. refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych (Dz. U. 2021 r. poz. 523 i 1292) po art. 37a dodaje się art. 37b brzmieniu: „Art. 37b. 1. Lek lub środek spożywczy specjalnego przeznaczenia żywieniowego stosowany ramach programu lekowego lub chemioterapii, dla którego nie wydano kolejnej decyzji objęciu refundacją, a który jest dostępny na terytorium Rzeczypospolitej Polskiej, przy jednoczesnym braku alternatywnej opcji terapeutycznej ramach tego programu lekowego lub chemioterapii, za zgodą ministra właściwego do spraw zdrowia wydaną na wniosek Prezesa Funduszu, może być finansowany przez tego Prezesa na dotychczasowych warunkach wynikających ostatniej decyzji objęciu refundacją dotyczącej tego leku lub środka spożywczego specjalnego przeznaczenia żywieniowego, wyłącznie świadczeniobiorcom, którzy rozpoczęli proces leczenia tym programie lub chemioterapii najpóźniej ostatnim dniu obowiązywania tej decyzji, do ukończenia terapii, nie dłużej jednak niż przez okres roku od dnia zakończenia obowiązywania decyzji objęciu refundacją leku lub środka spożywczego specjalnego przeznaczenia żywieniowego stosowanego ramach programu lekowego lub chemioterapii. 2. W celu objęcia finansowaniem leku lub środka spożywczego specjalnego przeznaczenia żywieniowego, którym mowa ust. 1, podmiot odpowiedzialny, którym mowa ustawie dnia 6 września 2001 r. – Prawo farmaceutyczne, składa wniosek do Prezesa Funduszu, najpóźniej terminie 14 dni od dnia ogłoszenia pierwszego obwieszczenia, którym mowa art. 37 ust. 1, wydanego po wygaśnięciu ostatniej decyzji, której mowa ust. 1. 3. Wniosek, którym mowa ust. 2, zawiera:
 
-**Art. 7.** W 15 lipca 2011 r. o zawodach pielęgniarki położnej (Dz. U. 2021 r. poz. 479) art. 41:
+**Art. 7.** W ustawie dnia 15 lipca 2011 r. zawodach pielęgniarki i położnej (Dz. U. 2021 r. poz. 479) art. 41:
 
-**Art. 8.** W 25 września 2015 r. o zawodzie fizjoterapeuty (Dz. U. 2021 r. poz. 553) art. 24:
+**Art. 8.** W ustawie dnia 25 września 2015 r. zawodzie fizjoterapeuty (Dz. U. 2021 r. poz. 553) art. 24:
 
-**Art. 9.** W 21 lutego 2019 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw (Dz. U. poz. 399, późn. zm. ) art. 18 ust. 1 otrzymuje brzmienie: „1. Do 31 grudnia 2026 r. „administratorem TOPSOR”, o którym mowa art. 33a ust. 4a ustawy zmienianej art. 4, brzmieniu nadanym ustawą 24 czerwca 2021 r. o zmianie ustawy o Agencji Badań Medycznych oraz niektórych innych ustaw (Dz. U. 2021 r. poz. 1559), jest podmiot leczniczy utworzony przez ministra właściwego do spraw zdrowia celu realizacji zadań lotniczych zespołów ratownictwa medycznego.”.
-
-**Art. 10.** W 10 grudnia 2020 r. o zawodzie farmaceuty (Dz. U. 2021 r. poz. 97) art. 17:
+**Art. 10.** W ustawie dnia 10 grudnia 2020 r. zawodzie farmaceuty (Dz. U. 2021 r. poz. 97) art. 17:
 
 **Art. 11.** Wydane na podstawie przepisów dotychczasowych dokumenty:
 
 **Art. 12.** Dotychczasowe przepisy wykonawcze wydane na podstawie:
 
-**Art. 13.** Ustawa wchodzi życie po upływie 14 dni od ogłoszenia, wyjątkiem:
+**Art. 13.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, wyjątkiem:
 

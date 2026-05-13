@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 25 września 2023 r.
+# w sprawie ogłoszenia jednolitego tekstu ustawy o jakości handlowej artykułów rolno-spożywczych
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 2 sierpnia 2023 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001980) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1980/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 2 sierpnia 2023 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o jakości handlowej artykułów rolno-spożywczych
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2022 r. poz. 1688), z uwzględnieniem zmian wprowadzonych:
 1) ustawą z dnia 7 października 2022 r. o zmianie niektórych ustaw w celu uproszczenia procedur administracyjnych dla obywateli i przedsiębiorców (Dz. U. poz. 2185),
 2) ustawą z dnia 7 października 2022 r. o zmianie ustawy o jakości handlowej artykułów rolno-spożywczych oraz ustawy o ochronie roślin przed agrofagami (Dz. U. poz. 2254),

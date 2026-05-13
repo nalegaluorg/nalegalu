@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 14 sierpnia 2024 r.
+# o zmianie ustawy o dochodzeniu roszczeń postępowaniu grupowym oraz niektórych innych ustaw
+
+*USTAWA z dnia 24 lipca 2024 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,12 +26,11 @@ domain: null
 | Ostatnia zmiana | 2024-08-21 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001237) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1237/text.pdf) |
 
-USTAWA z dnia 24 lipca 2024 r.
-o zmianie ustawy o dochodzeniu roszczeń postępowaniu grupowym oraz niektórych innych ustaw
-
 **Art. 1.** W ustawie z dnia 17 grudnia 2009 r. o dochodzeniu roszczeń postępowaniu grupowym (Dz. U. z 2023 r. poz. 1212) wprowadza się następujące zmiany:
 
-**Art. 4b.** W przypadku wytoczenia powództwa postępowaniu grupowym sprawach o stwierdzenie stosowania praktyk naruszających ogólne interesy konsumentów podmiot upoważniony nie jest obowiązany do udowodnienia szkody poniesionej przez konsumentów ani winy pozwanego. wziąć udział toczącym się postępowaniu grupowym sprawach o stwierdzenie stosowania praktyk naruszających ogólne interesy konsumentów, jeżeli według jego oceny wymaga tego ochrona konsumentów. W takim przypadku do Prezesa Urzędu Ochrony Konkurencji i Konsumentów stosuje się odpowiednio przepisy o prokuratorze.”;
+**Art. 4b.** W przypadku wytoczenia powództwa postępowaniu grupowym sprawach o stwierdzenie stosowania praktyk naruszających ogólne interesy konsumentów podmiot upoważniony nie jest obowiązany do udowodnienia szkody poniesionej przez konsumentów ani winy pozwanego.
+
+**Art. 4c.** Prezes Urzędu Ochrony Konkurencji i Konsumentów związku z wykonywaniem swoich zadań może wziąć udział toczącym się postępowaniu grupowym sprawach o stwierdzenie stosowania praktyk naruszających ogólne interesy konsumentów, jeżeli według jego oceny wymaga tego ochrona konsumentów. W takim przypadku do Prezesa Urzędu Ochrony Konkurencji i Konsumentów stosuje się odpowiednio przepisy o prokuratorze.”; „Art. 5a. 1. W postępowaniu grupowym sprawach o roszczenia związane ze stosowaniem praktyk naruszających ogólne interesy konsumentów podmiot upoważniony może ustalić porozumieniu z członkami grupy opłatę związku z przystąpieniem do grupy. 2. Wysokość opłaty, o której mowa ust. 1, nie może przekraczać 5 % wartości dochodzonego przez członka grupy roszczenia pieniężnego, jednak nie może być wyższa niż 2000 zł, a przypadku roszczenia niepieniężnego wysokość ustalonej opłaty nie może być wyższa niż 1000 zł. 3. Podmiot upoważniony zwraca opłatę, o której mowa ust. 1, przypadku:
 
 **Art. 5b.** Opłata, o której mowa art. 5a ust. 1, stanowi jedyny koszt, jaki konsument ponosi z tytułu wytoczenia i prowadzenia przez podmiot upoważniony powództwa postępowaniu grupowym sprawach o roszczenia związane ze stosowaniem praktyk naruszających ogólne interesy konsumentów.”;
 
@@ -61,7 +62,15 @@ o zmianie ustawy o dochodzeniu roszczeń postępowaniu grupowym oraz niektórych
 - **2)** strona, która złożyła wniosek o wyjawienie lub wydanie środka dowodowego, rzeczywiście czyni to wyłącznie na potrzeby postępowania grupowego, którym złożono wniosek;
 - **3)** wyjawienie lub wydanie środka dowodowego nie wpłynie negatywnie na skuteczność postępowań prowadzonych przez Prezesa Urzędu Ochrony Konkurencji i Konsumentów, dotyczących naruszenia zbiorowych interesów konsumentów lub o uznanie postanowień wzorca umowy za niedozwolone.
 
-**Art. 16d.** Jeżeli wniosek dotyczy środka dowodowego znajdującego się aktach sprawy prowadzonej przez organ ochrony konsumentów, tym organ ochrony konsumentów innego państwa członkowskiego Unii Europejskiej, sąd prowadzący postępowanie grupowe z powództwa podmiotu upoważnionego może nakazać temu organowi wyjawienie lub wydanie takiego środka tylko wówczas, gdy jego uzyskanie od strony postępowania jest niemożliwe lub nadmiernie utrudnione. stępowaniu grupowym z powództwa podmiotu upoważnionego zawiera tajemnicę przedsiębiorstwa lub inną tajemnicę podlegającą ochronie prawnej na podstawie odrębnych przepisów oraz jest to niezbędne dla zapobieżenia ujawnieniu takiej tajemnicy, sąd, na wniosek obowiązanego do wyjawienia lub wydania środka dowodowego albo z urzędu, może niezbędnym zakresie ograniczyć, drodze postanowienia, prawo wglądu do tego dowodu lub określić szczegółowe zasady zapoznawania się z tym dowodem i korzystania z niego, szczególności ograniczyć lub wyłączyć jego kopiowanie lub utrwalanie inny sposób. 2. W przypadku zmiany okoliczności, które uzasadniały nakazanie wyjawienia lub wydania środka dowodowego, obowiązany do wyjawienia lub wydania środka dowodowego może żądać uchylenia lub zmiany prawomocnego postanowienia nakazującego wyjawienie lub wydanie środka dowodowego, jeżeli postanowienie to nie zostało jeszcze wykonane. 3. Na postanowienie sądu przedmiocie wniosku o wyjawienie lub wydanie środka dowodowego lub uchylenie lub zmianę prawomocnego postanowienia nakazującego wyjawienie lub wydanie środka dowodowego, przysługuje zażalenie do sądu drugiej instancji stronom, a także osobie trzeciej i organowi ochrony konsumentów, tym organowi ochrony konsumentów innego państwa członkowskiego Unii Europejskiej, obowiązanym do wyjawienia lub wydania środka dowodowego.
+**Art. 16d.** Jeżeli wniosek dotyczy środka dowodowego znajdującego się aktach sprawy prowadzonej przez organ ochrony konsumentów, tym organ ochrony konsumentów innego państwa członkowskiego Unii Europejskiej, sąd prowadzący postępowanie grupowe z powództwa podmiotu upoważnionego może nakazać temu organowi wyjawienie lub wydanie takiego środka tylko wówczas, gdy jego uzyskanie od strony postępowania jest niemożliwe lub nadmiernie utrudnione.
+
+**Art. 16e.**
+
+1. W przypadku gdy dowód uzyskany wyniku wyjawienia lub wydania środka dowodowego postępowaniu grupowym z powództwa podmiotu upoważnionego zawiera tajemnicę przedsiębiorstwa lub inną tajemnicę podlegającą ochronie prawnej na podstawie odrębnych przepisów oraz jest to niezbędne dla zapobieżenia ujawnieniu takiej tajemnicy, sąd, na wniosek obowiązanego do wyjawienia lub wydania środka dowodowego albo z urzędu, może wanie lub utrwalanie inny sposób.
+
+2. W przypadku zmiany okoliczności, które uzasadniały nakazanie wyjawienia lub wydania środka dowodowego, obowiązany do wyjawienia lub wydania środka dowodowego może żądać uchylenia lub zmiany prawomocnego postanowienia nakazującego wyjawienie lub wydanie środka dowodowego, jeżeli postanowienie to nie zostało jeszcze wykonane.
+
+3. Na postanowienie sądu przedmiocie wniosku o wyjawienie lub wydanie środka dowodowego lub uchylenie lub zmianę prawomocnego postanowienia nakazującego wyjawienie lub wydanie środka dowodowego, przysługuje zażalenie do sądu drugiej instancji stronom, a także osobie trzeciej i organowi ochrony konsumentów, tym organowi ochrony konsumentów innego państwa członkowskiego Unii Europejskiej, obowiązanym do wyjawienia lub wydania środka dowodowego.
 
 **Art. 16f.** Prawomocne postanowienie nakazujące wyjawienie lub wydanie środka dowodowego postępowaniu grupowym z powództwa podmiotu upoważnionego stanowi tytuł wykonawczy przeciwko obowiązanemu do wyjawienia lub wydania środka dowodowego.
 
@@ -92,13 +101,14 @@ o zmianie ustawy o dochodzeniu roszczeń postępowaniu grupowym oraz niektórych
 
 - **1)** złej wierze złożyła wniosek o wyjawienie lub wydanie środka dowodowego lub
 - **2)** naruszyła ograniczenia dotyczące prawa wglądu do dowodu, zapoznawania się z nim lub korzystania z niego, ustanowione przez sąd zgodnie z art. 16e ust. 1, lub
-- **3)** wykorzystała dowód innym celu niż na potrzeby toczącego się postępowania sąd pomija dowód uzyskany na podstawie postanowienia nakazującego wyjawienie lub wydanie tego środka dowodowego wydanego na wniosek tej strony. grzywnę wysokości do 50 000 złotych.
+- **3)** wykorzystała dowód innym celu niż na potrzeby toczącego się postępowania – sąd pomija dowód uzyskany na podstawie postanowienia nakazującego wyjawienie lub wydanie tego środka dowodowego wydanego na wniosek tej strony.
 
-3. Na postanowienie o nałożeniu grzywny, o którym mowa ust. 2, przysługuje zażalenie do sądu drugiej instancji.”;
+2. Sąd może postanowieniu nałożyć na stronę, która dopuściła się zachowania, o którym mowa ust. 1, grzywnę wysokości do 50 000 złotych.
 
-- **16)** art. 17 po ust. 3 dodaje się ust. 3a brzmieniu: „3a. Przepisu ust. 3 nie stosuje się przypadku, o którym mowa art. 19a ust. 1.”;
+3. Na postanowienie o nałożeniu grzywny, o którym mowa ust. 2, przysługuje zażalenie do sądu drugiej instancji.”; „3a. Przepisu ust. 3 nie stosuje się przypadku, o którym mowa art. 19a ust. 1.”;
+
 - **17)** po art. 18 dodaje się art. 18a brzmieniu: „Art. 18a. Na wniosek co najmniej połowy członków grupy sąd może dokonać zmiany podmiotu upoważnionego. Wniosek powinien wskazywać proponowany podmiot upoważniony oraz zawierać jego oświadczenie o wyrażeniu zgody na prowadzenie postępowania na rzecz członków grupy. Przepisy art. 18 ust. 2 i 3 stosuje się odpowiednio.”;
-- **18)** po art. 19 dodaje się art. 19a brzmieniu: „Art. 19a. 1. Członek grupy, którego dotyczy postępowanie grupowe sprawach o roszczenia związane ze stosowaniem praktyk naruszających ogólne interesy konsumentów, może, drodze oświadczenia złożonego przed sądem, wystąpić z grupy przypadku zawarcia ugody, jeżeli nie zgadza się z jej warunkami terminie 2 tygodni od dnia poinformowania go o zawartej ugodzie.
+- **18)** po art. 19 dodaje się art. 19a brzmieniu: „Art. 19a. 1. Członek grupy, którego dotyczy postępowanie grupowe sprawach o roszczenia związane ze stosowaniem praktyk naruszających ogólne interesy konsumentów, może, drodze oświadczenia złożonego przed sądem, wystąpić z grupy przypadku zawarcia ugody, jeżeli nie zgadza się z jej warunkami – terminie 2 tygodni od dnia poinformowania go o zawartej ugodzie.
 
 2. W przypadku wystąpienia z grupy przez członka grupy sąd umarza postępowanie zakresie dotyczącym roszczenia tego członka, a przypadku wydania wyroku przez sąd pierwszej instancji, sąd drugiej instancji uchyla ten wyrok i umarza postępowanie zakresie dotyczącym roszczenia tego członka.”;
 
@@ -123,12 +133,11 @@ o zmianie ustawy o dochodzeniu roszczeń postępowaniu grupowym oraz niektórych
 
 1. Niezależnie od grzywny nałożonej na podstawie art. 23b ust. 1 sąd, celu przymuszenia pozwanego do wykonania prawomocnego wyroku wydanego sprawie o stwierdzenie stosowania praktyk naruszających ogólne interesy konsumentów, postanowieniu może nałożyć na pozwanego grzywnę wysokości do 50 000 złotych za każdy dzień opóźnienia wykonaniu tego wyroku, nie większej jednak niż 5 000 000 złotych.
 
-2. Na postanowienie o nałożeniu grzywny, o którym mowa ust. 1, przysługuje zażalenie do sądu drugiej instancji.”. ustawy otrzymuje brzmienie: „ Niniejsza ustawa zakresie swojej regulacji wdraża:
+2. Na postanowienie o nałożeniu grzywny, o którym mowa ust. 1, przysługuje zażalenie do sądu drugiej instancji.”.
 
-- **1)** dyrektywę 2000/31/WE Parlamentu Europejskiego i Rady z dnia 8 czerwca 2000 r. sprawie niektórych aspektów prawnych usług społeczeństwa informacyjnego, szczególności handlu elektronicznego ramach rynku wewnętrznego (dyrektywa o handlu elektronicznym) (Dz. Urz. WE L 178 z 17.07.2000, str. 1 Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 25, str. 399 oraz Dz. Urz. UE L 277 z 27.10.2022, str. 1);
-- **2)** dyrektywę Parlamentu Europejskiego i Rady (UE) 2020/1828 z dnia 25 listopada 2020 r. sprawie powództw przedstawicielskich wytaczanych celu ochrony zbiorowych interesów konsumentów i uchylającą dyrektywę 2009/22/WE (Dz. Urz. UE L 409 z 04.12.2020, str. 1, Dz. Urz. UE L 265 z 12.10.2022, str. 1, Dz. Urz. UE L 277 z 27.10.2022, str. 1, Dz. Urz. UE L 135 z 23.05.2023, str. 1 oraz Dz. Urz. UE L 2023/2854 z 22.12.2023).”.
+**Art. 2.** W ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2024 r. poz. 1061) odnośnik nr 1 do tytułu ustawy otrzymuje brzmienie: „ Niniejsza ustawa zakresie swojej regulacji wdraża: rynku wewnętrznego (dyrektywa o handlu elektronicznym) (Dz. Urz. WE L 178 z 17.07.2000, str. 1 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 25, str. 399 oraz Dz. Urz. UE L 277 z 27.10.2022, str. 1);
 
-**Art. 3.** W ustawie z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550, z późn. zm. ) do tytułu ustawy dodaje się odnośnik nr 1 brzmieniu: „ Niniejsza ustawa zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2020/1828 z dnia 25 listopada 2020 r. sprawie powództw przedstawicielskich wytaczanych celu ochrony zbiorowych interesów konsumentów i uchylającą dyrektywę 2009/22/WE (Dz. Urz. UE L 409 z 04.12.2020, str. 1, Dz. Urz. UE L 265 z 12.10.2022, str. 1, Dz. Urz. UE L 277 z 27.10.2022, str. 1, Dz. Urz. UE L 135 z 23.05.2023, str. 1 oraz Dz. Urz. UE L 2023/2854 z 22.12.2023).”.
+**Art. 3.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550, z późn. zm. ) do tytułu ustawy dodaje się odnośnik nr 1 brzmieniu: „ Niniejsza ustawa zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2020/1828 z dnia 25 listopada 2020 r. sprawie powództw przedstawicielskich wytaczanych celu ochrony zbiorowych interesów konsumentów i uchylającą dyrektywę 2009/22/WE (Dz. Urz. UE L 409 z 04.12.2020, str. 1, Dz. Urz. UE L 265 z 12.10.2022, str. 1, Dz. Urz. UE L 277 z 27.10.2022, str. 1, Dz. Urz. UE L 135 z 23.05.2023, str. 1 oraz Dz. Urz. UE L 2023/2854 z 22.12.2023).”.
 
 **Art. 4.** W ustawie z dnia 28 lipca 2005 r. o kosztach sądowych sprawach cywilnych (Dz. U. z 2024 r. poz. 959) wprowadza się następujące zmiany:
 
@@ -143,18 +152,39 @@ o zmianie ustawy o dochodzeniu roszczeń postępowaniu grupowym oraz niektórych
 2. Podmiotem upoważnionym wpisanym do rejestru, który jest uprawniony do wytaczania powództw ramach grupowych postępowań krajowych oraz grupowych postępowań transgranicznych:
 
 - **1)** na rzecz klientów podmiotu rynku finansowego rozumieniu art. 2 pkt 1 ustawy z dnia 5 sierpnia 2015 r. o rozpatrywaniu reklamacji przez podmioty rynku finansowego, o Rzeczniku Finansowym i o Funduszu Edukacji Finansowej (Dz. U. z 2024 r. poz. 1109),
-- **2)** sprawach wynikających z umowy o świadczenie usług lub wykonywania czynności na rzecz osoby fizycznej przez instytucję finansową rozumieniu art. 4 pkt 4 ustawy z dnia 5 sierpnia 2015 r. o nadzorze makroostrożnościowym nad systemem finansowym i zarządzaniu kryzysowym systemie finansowym (Dz. U. z 2024 r. poz. 559) jest Rzecznik Finansowy. art. 46f oraz art. 46h–46r.
+- **2)** sprawach wynikających z umowy o świadczenie usług lub wykonywania czynności na rzecz osoby fizycznej przez instytucję finansową rozumieniu art. 4 pkt 4 ustawy z dnia 5 sierpnia 2015 r. o nadzorze makroostrożnościowym nad systemem finansowym i zarządzaniu kryzysowym systemie finansowym (Dz. U. z 2024 r. poz. 559) – jest Rzecznik Finansowy.
 
-**Art. 46c.** Podmiot upoważniony wpisany do rejestru:
+3. Do Rzecznika Finansowego nie stosuje się przepisów art. 46c pkt 2 lit. h oraz pkt 3, art. 46e ust. 4 zdanie drugie, art. 46f oraz art. 46h–46r.
+
+- **1)** określa regulaminie zasady wnoszenia i rozpatrywania wniosku o wytoczenie powództwa ramach grupowego postępowania krajowego oraz grupowego postępowania transgranicznego, tym zasady finansowania tego postępowania oraz przekazania dokumentów, które dołącza się do tego wniosku;
+- **2)** udostępnia do wiadomości publicznej sposób jasny i zrozumiały, szczególności na swojej stronie internetowej:
+    - **a)** dane kontaktowe, obejmujące nazwę, adres siedziby oraz adres miejsca wykonywania działalności, jeżeli jest inny niż adres siedziby, a także adres poczty elektronicznej tego podmiotu,
+    - **b)** regulamin, o którym mowa pkt 1,
+    - **c)** numer wpisu do rejestru,
+    - **d)** informacje o sektorach objętych zakresem działania tego podmiotu upoważnionego, zgodnie z przepisami prawa Unii Europejskiej, o których mowa załączniku I do dyrektywy 2020/1828, oraz przepisami je wdrażającymi lub służącymi ich stosowaniu,
+    - **e)** informacje o językach urzędowych, których jest możliwe złożenie wniosku o wytoczenie powództwa ramach grupowego postępowania krajowego lub grupowego postępowania transgranicznego lub przystąpienie do postępowania grupowego,
+    - **f)** informacje o prawie wystąpienia z postępowania grupowego i skutkach tego wystąpienia,
+    - **g)** informacje o rodzajach opłat i kosztów związanych z udziałem postępowaniu grupowym ramach grupowego postępowania krajowego lub grupowego postępowania transgranicznego oraz informacje o ich wysokości i zasadach ich naliczania albo informacje o niepobieraniu takich opłat i kosztów,
+    - **h)** informacje o źródłach finansowania postępowania przez inne podmioty oraz informacje o źródłach finansowania tego podmiotu upoważnionego,
+    - **i)** informacje na temat skutków prawnych danego sposobu zakończenia postępowania grupowego,
+    - **j)** informacje o przesłankach, na podstawie których ten podmiot upoważniony może odmówić wytoczenia powództwa ramach grupowego postępowania krajowego lub grupowego postępowania transgranicznego,
+    - **k)** informacje o powództwach, jakie zamierza wytoczyć ramach grupowych postępowań krajowych i grupowych postępowań transgranicznych, ze wskazaniem pozwanego oraz rodzajów naruszeń,
+    - **l)** informacje o grupowych postępowaniach krajowych i grupowych postępowaniach transgranicznych, wytoczonych z powództwa tego podmiotu upoważnionego lub prowadzonych z jego udziałem, oraz etapie, na jakim postępowania te aktualnie się znajdują, szczególności o ich zakończeniu,
+    - **m)** informacje o rodzajach naruszeń będących przedmiotem powództw wytoczonych przez ten podmiot upoważniony lub postępowań prowadzonych z jego udziałem ramach grupowych postępowań krajowych i grupowych postępowań transgranicznych;
+
+- **3)** posiada opracowane formie pisemnej zasady należytego reprezentowania konsumentów grupowym postępowaniu krajowym i grupowym postępowaniu transgranicznym, a także wewnętrzny system kontroli przestrzegania tych zasad, celu zapobiegania wpływom, o których mowa art. 46h pkt 5;
+- **4)** informuje konsumentów objętych grupowym postępowaniem krajowym lub grupowym postępowaniem transgranicznym o wynikach tego postępowania, szczególności o odrzuceniu lub oddaleniu powództwa ramach tego postępowania;
+- **5)** posiada wewnętrzne regulacje, które są stosowane przez podmiot upoważniony ramach prowadzonych grupowych postępowań krajowych oraz grupowych postępowań transgranicznych, tym dotyczące przesłanek, na podstawie których podmiot upoważniony może odmówić wytoczenia powództwa ramach tego postępowania.
 
 **Art. 46d.**
 
 1. Podmiot upoważniony wpisany do rejestru przed wytoczeniem powództwa ramach grupowego postępowania krajowego przypadku, o którym mowa art. 1a ust. 1–3 albo 5 ustawy z dnia 17 grudnia 2009 r. o dochodzeniu roszczeń postępowaniu grupowym, zawiadamia o tym na piśmie Prezesa Urzędu.
 
+2. Zawiadomienie, o którym mowa ust. 1, poza oznaczeniem podmiotu upoważnionego, zawiera informacje o:
+
 - **1)** rodzaju powództwa;
 - **2)** okolicznościach uzasadniających wytoczenie powództwa ze wskazaniem szczególności:
     - **a)** opisu naruszenia,
-    - **b)** okresu trwania naruszenia lub posiadanych informacji o okresie trwania naruszenia,
     - **c)** społecznych, ekonomicznych lub prawnych skutków naruszenia lub posiadanych informacji o takich skutkach,
     - **d)** przepisów, które zostały naruszone przez przedsiębiorcę, przeciwko któremu pozew ma być skierowany;
 
@@ -187,11 +217,9 @@ o zmianie ustawy o dochodzeniu roszczeń postępowaniu grupowym oraz niektórych
 - **3)** informacje o rodzaju naruszeń i przedsiębiorcach, wobec których zostały wytoczone powództwa ramach grupowych postępowań krajowych i grupowych postępowań transgranicznych;
 - **4)** informacje o liczbie wniosków o wytoczenie powództwa ramach grupowych postępowań krajowych oraz grupowych postępowań transgranicznych, którym nie nadano biegu, wraz ze wskazaniem przesłanek, na podstawie których nastąpiła odmowa wytoczenia powództwa;
 - **5)** ocenę skuteczności grupowych postępowań krajowych i grupowych postępowań transgranicznych prowadzonych z powództwa wytoczonego przez podmiot upoważniony, ze wskazaniem przewidywanych sposobów poprawy tej skuteczności;
-- **6)** informacje o liczbie, przedmiocie i rozstrzygnięciu skarg i wniosków, które wpłynęły do podmiotu upoważnionego związku z wytoczonymi powództwami. zdanie nie zawiera informacji, o których mowa ust. 3, Prezes Urzędu wzywa podmiot upoważniony do przekazania lub uzupełnienia tego sprawozdania terminie 14 dni od dnia doręczenia wezwania. W wezwaniu, o którym mowa zdaniu pierwszym, Prezes Urzędu poucza podmiot upoważniony, że nieprzekazanie lub nieuzupełnienie tego sprawozdania terminie spowoduje wszczęcie przez Prezesa Urzędu postępowania, o którym mowa art. 46n ust. 1.
+- **6)** informacje o liczbie, przedmiocie i rozstrzygnięciu skarg i wniosków, które wpłynęły do podmiotu upoważnionego związku z wytoczonymi powództwami.
 
-**Art. 46f.**
-
-1. Zadania podmiotu upoważnionego wpisanego do rejestru mogą być finansowane szczególności ze środków pochodzących:
+4. Jeżeli podmiot upoważniony nie przekazał sprawozdania, o którym mowa ust. 1, lub przekazane sprawozdanie nie zawiera informacji, o których mowa ust. 3, Prezes Urzędu wzywa podmiot upoważniony do przekazania lub uzupełnienia tego sprawozdania terminie 14 dni od dnia doręczenia wezwania. W wezwaniu, o którym mowa zdaniu pierwszym, Prezes Urzędu poucza podmiot upoważniony, że nieprzekazanie lub nieuzupełnienie tego sprawozdania terminie spowoduje wszczęcie przez Prezesa Urzędu postępowania, o którym mowa art. 46n ust. 1.
 
 - **1)** z opłat pobieranych od konsumentów, według zasad określonych regulaminie, o którym mowa art. 46c pkt 1;
 - **2)** wpłat od przedsiębiorców, jeżeli są spełnione warunki określone art. 46h pkt 5.
@@ -217,15 +245,15 @@ o zmianie ustawy o dochodzeniu roszczeń postępowaniu grupowym oraz niektórych
 
 - **1)** nazwę podmiotu, adres siedziby oraz adres miejsca wykonywania działalności, jeżeli jest inny niż adres siedziby, adres strony internetowej, a także adres poczty elektronicznej tego podmiotu;
 - **2)** dokument potwierdzający spełnianie warunku określonego art. 46h pkt 1;
-- **3)** dokumenty dotyczące struktury podmiotu, źródeł i sposobów jego finansowania oraz zasad wynagradzania osób, które działają na rzecz ochrony konsumentów ramach grupowych postępowań krajowych oraz grupowych postępowań transgranicznych tym podmiocie, oraz informacje o podmiotach, z którymi wiąże ich podległość służbowa albo inny stosunek prawny; krajowych oraz grupowych postępowań transgranicznych, tym dotyczące przesłanek, na podstawie których podmiot może odmówić wytoczenia powództwa;
-- **5)** informację, czy podmiot ten będzie pobierał opłaty związane z udziałem postępowaniu grupowym, ze wskazaniem rodzaju tych opłat i ich wysokości oraz zasad ich naliczania;
+- **3)** dokumenty dotyczące struktury podmiotu, źródeł i sposobów jego finansowania oraz zasad wynagradzania osób, które działają na rzecz ochrony konsumentów ramach grupowych postępowań krajowych oraz grupowych postępowań transgranicznych tym podmiocie, oraz informacje o podmiotach, z którymi wiąże ich podległość służbowa albo inny stosunek prawny;
+- **4)** wewnętrzne regulacje, które będą stosowane przez podmiot ramach prowadzonych grupowych postępowań krajowych oraz grupowych postępowań transgranicznych, tym dotyczące przesłanek, na podstawie których podmiot może odmówić wytoczenia powództwa;
 - **6)** informację o sektorach objętych zakresem działania podmiotu, zgodnie z przepisami prawa Unii Europejskiej, o których mowa załączniku I do dyrektywy 2020/1828, oraz przepisami je wdrażającymi lub służącymi ich stosowaniu.
 
 2. Do wniosku o wpis do rejestru podmiot dołącza:
 
 - **1)** statut;
 - **2)** dokumenty potwierdzające spełnianie warunków określonych art. 46h pkt 5;
-- **3)** oświadczenie, że nie toczy się wobec niego postępowanie upadłościowe oraz że nie jest on niewypłacalny rozumieniu art. 11 ustawy z dnia 28 lutego 2003 r. Prawo upadłościowe;
+- **3)** oświadczenie, że nie toczy się wobec niego postępowanie upadłościowe oraz że nie jest on niewypłacalny rozumieniu art. 11 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe;
 - **4)** dokument opisujący zasady należytego reprezentowania konsumentów postępowaniu grupowym i wewnętrzny system kontroli ich przestrzegania, o których mowa art. 46c pkt 3.
 
 **Art. 46j.** Wniosek o wpis do rejestru składa się na piśmie postaci papierowej albo postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
@@ -260,21 +288,11 @@ o zmianie ustawy o dochodzeniu roszczeń postępowaniu grupowym oraz niektórych
 
 **Art. 46p.**
 
-1. Postępowanie sprawie wykreślenia podmiotu upoważnionego z rejestru powinno być zakończone terminie 4 miesięcy od dnia jego wszczęcia. Przepisy rozdziału 7 dziale I ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572) stosuje się odpowiednio.
+1. Postępowanie sprawie wykreślenia podmiotu upoważnionego z rejestru powinno być zakończone terminie 4 miesięcy od dnia jego wszczęcia. Przepisy rozdziału 7 dziale I ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572) stosuje się odpowiednio.
 
-2. Decyzji o wykreśleniu podmiotu upoważnionego z rejestru może być nadany rygor natychmiastowej wykonalności, jeżeli wymaga tego ważny interes konsumentów. dawcy lub podmiotowi upoważnionemu służy wniosek o ponowne rozpatrzenie sprawy.
+2. Decyzji o wykreśleniu podmiotu upoważnionego z rejestru może być nadany rygor natychmiastowej wykonalności, jeżeli wymaga tego ważny interes konsumentów.
 
-**Art. 46r.**
-
-1. Prezes Urzędu co najmniej raz na 5 lat weryfikuje:
-
-- **1)** spełnianie przez podmioty upoważnione wpisane do rejestru warunków określonych art. 46h;
-- **2)** prawidłowość wykonywania działalności przez podmioty upoważnione wpisane do rejestru, szczególności przez analizę sprawozdań z ich działalności.
-
-2. W uzasadnionych przypadkach, szczególności razie:
-
-- **1)** zgłoszenia przez państwo członkowskie Unii Europejskiej lub Komisję Europejską, że podmiot upoważniony wpisany do rejestru uprawniony do prowadzenia grupowego postępowania transgranicznego nie spełnia warunków określonych art. 46h,
-- **2)** przekazania przez sąd odpisu zarządzenia lub postanowienia na podstawie art. 10aa ust. 7 ustawy z dnia 17 grudnia 2009 r. o dochodzeniu roszczeń postępowaniu grupowym Prezes Urzędu dokonuje weryfikacji, o której mowa ust. 1, bez zbędnej zwłoki.
+**Art. 46q.** Od decyzji, o których mowa art. 46k ust. 1, art. 46n ust. 2 i art. 46o ust. 2, odpowiednio wnioskodawcy lub podmiotowi upoważnionemu służy wniosek o ponowne rozpatrzenie sprawy.
 
 **Art. 46s.**
 
@@ -296,7 +314,7 @@ o zmianie ustawy o dochodzeniu roszczeń postępowaniu grupowym oraz niektórych
 
 **Art. 46t.** Prezes Urzędu umieszcza na stronie internetowej Urzędu adres strony internetowej Komisji Europejskiej, na której publikowany jest wykaz podmiotów upoważnionych prowadzony przez Komisję Europejską na podstawie art. 5 ust. 1 dyrektywy 2020/1828.”;
 
-**Art. 7.** Prezes Urzędu Ochrony Konkurencji i Konsumentów z urzędu wpisuje Rzecznika Finansowego do rejestru, o którym mowa art. 4 pkt 13a ustawy zmienianej art. 5. Informację o wpisie Prezes Urzędu Ochrony Konkurencji i Konsumentów przesyła niezwłocznie Rzecznikowi Finansowemu.
+**Art. 6.** Do spraw prowadzonych postępowaniu grupowym wszczętych i niezakończonych przed dniem wejścia życie niniejszej ustawy stosuje się przepisy ustawy zmienianej art. 1, brzmieniu dotychczasowym. sumentów przesyła niezwłocznie Rzecznikowi Finansowemu.
 
 **Art. 8.** Prezes Urzędu Ochrony Konkurencji i Konsumentów przekazuje Komisji Europejskiej po raz pierwszy informacje, o których mowa art. 46s ust. 2 ustawy zmienianej art. 5, do dnia 26 czerwca 2027 r.
 

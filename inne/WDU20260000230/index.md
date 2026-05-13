@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 26 lutego 2026 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy wymianie informacji z organami ścigania państw członkowskich Unii Europejskiej, państw trzecich, agencjami Unii Europejskiej oraz organizacjami międzynarodowymi
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 17 lutego 2026 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2026-02-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000230) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/230/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 17 lutego 2026 r.
-sprawie ogłoszenia jednolitego tekstu ustawy wymianie informacji z organami ścigania państw członkowskich Unii Europejskiej, państw trzecich, agencjami Unii Europejskiej oraz organizacjami międzynarodowymi
 1. Na podstawie 16 ust. zdanie pierwsze ustawy z dnia 20 lipca 2000 r. ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 16 września 2011 r. wymianie informacji z organami ścigania państw członkowskich Unii Europejskiej, państw trzecich, agencjami Unii Europejskiej oraz organizacjami międzynarodowymi (Dz. U. z 2023 r. poz. 783), z uwzględnieniem zmian wprowadzonych:
 1) ustawą z dnia 9 maja 2025 r. zmianie ustawy Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 820),
 2) ustawą z dnia 7 listopada 2025 r. zmianie ustawy wymianie informacji z organami ścigania państw członkowskich Unii Europejskiej, państw trzecich, agencjami Unii Europejskiej oraz organizacjami międzynarodowymi (Dz. U.
@@ -41,7 +41,7 @@ poz. 820), który stanowi: „Art. 34. Ustawa wchodzi życie po upływie 30 dni 
 
 **Art. 5.** Dotychczasowe przepisy wykonawcze wydane na podstawie 10 ustawy zmienianej zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych na podstawie 10 ustawy zmienianej 1, brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż 12 miesięcy od dnia wejścia życie niniejszej ustawy.
 
-**Art. 6.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem 11 zakresie 11c, który wchodzi życie z dniem 12 czerwca 2027 r.”. USTAWA z dnia 16 września 2011 r. wymianie informacji z organami ścigania państw członkowskich Unii Europejskiej, państw trzecich, agencjami Unii Europejskiej oraz organizacjami międzynarodowymi
+**Art. 6.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem 11 zakresie 11c, który wchodzi życie z dniem 12 czerwca 2027 r.”. Marszałek Sejmu: W. Czarzasty USTAWA z dnia 16 września 2011 r. wymianie informacji z organami ścigania państw członkowskich Unii Europejskiej, państw trzecich, agencjami Unii Europejskiej oraz organizacjami międzynarodowymi
 
 #### Rozdział Przepisy ogólne
 

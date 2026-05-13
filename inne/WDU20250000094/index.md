@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 23 stycznia 2025 r.
+# w sprawie ogłoszenia jednolitego tekstu ustawy o Rządowym Funduszu Rozwoju Dróg
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +24,6 @@ domain: null
 | Ostatnia zmiana | 2025-01-24 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000094) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/94/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 15 stycznia 2025 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o Rządowym Funduszu Rozwoju Dróg
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 23 października 2018 r. o Rządowym Funduszu Rozwoju Dróg (Dz. U. z 2023 r. poz. 1983), z uwzględnieniem zmian wprowadzonych:
 1) ustawą z dnia 1 października 2024 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (Dz. U. poz. 1473),
 2) ustawą z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572),
@@ -1254,19 +1252,19 @@ Art. 40–42. (pominięte)
 
 1. Maksymalny limit wydatków z budżetu państwa przeznaczonych na dofinansowanie Funduszu wynosi w roku:
 
-- **1)** 2018 1 100 000 tys. zł;
-- **2)** 2019 500 000 tys. zł;
-- **3)** 2020 5 400 000 tys. zł;
-- **4)** 2021 3 600 000 tys. zł;
-- **5)** 2022 500 000 tys. zł;
+- **1)** 2018 1 100 tys. zł;
+- **2)** 2019 500 tys. zł;
+- **3)** 2020 5 400 tys. zł;
+- **4)** 2021 3 600 tys. zł;
+- **5)** 2022 500 tys. zł;
 - **6)** 2023 674 123 tys. zł;
 - **7)** 2024 1 908 626 tys. zł;
 - **8)** 2025 1 958 626 tys. zł;
 - **9)** 2026 1 958 626 tys. zł;
-- **10)** 2027 1 650 000 tys. zł;
-- **11)** 2028 1 750 000 tys. zł;
-- **12)** 2029 1 600 000 tys. zł;
-- **13)** 2030 1 600 000 tys. zł.
+- **10)** 2027 1 650 tys. zł;
+- **11)** 2028 1 750 tys. zł;
+- **12)** 2029 1 600 tys. zł;
+- **13)** 2030 1 600 tys. zł.
 
 2. Minister właściwy do spraw transportu monitoruje wykorzystanie limitów wydatków, o których mowa w ust. 1, oraz jest odpowiedzialny za wdrożenie mechanizmu korygującego, o którym mowa w ust. 3.
 

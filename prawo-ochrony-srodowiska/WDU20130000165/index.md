@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 4 lutego 2013 r.
+# o zmianie ustawy – Prawo wodne oraz niektórych innych ustaw
+
+*USTAWA z dnia 4 stycznia 2013 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,18 +26,17 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000165) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/165/text.pdf) |
 
-USTAWA z dnia 4 stycznia 2013 r.
-o zmianie ustawy Prawo wodne oraz niektórych innych ustaw
-
-**Art. 1.** W ustawie z dnia 18 lipca 2001 r. Prawo wodne (Dz. U. z 2012 r. poz. 145, z późn. zm. ) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 18 lipca 2001 r. – Prawo wodne (Dz. U. z 2012 r. poz. 145, z późn. zm. ) wprowadza się następujące zmiany:
 
 **Art. 61a.**
 
-1. Przepisy niniejszego rozdziału oraz przepisy dotyczące monitoringu wód morskich stosuje się do wód morza terytorialnego i wyłącznej strefy ekonomicznej Rzeczypospolitej Polskiej rozumieniu ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej oraz wód przybrzeżnych. Rzeczypospolitej Polskiej, o której mowa ust. 1, oraz wód przybrzeżnych.
+1. Przepisy niniejszego rozdziału oraz przepisy dotyczące monitoringu wód morskich stosuje się do wód morza terytorialnego i wyłącznej strefy ekonomicznej Rzeczypospolitej Polskiej rozumieniu ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej oraz wód przybrzeżnych.
+
+2. Przepisy niniejszego rozdziału oraz przepisy dotyczące monitoringu wód morskich stosuje się również do dna morskiego i skały macierzystej, znajdujących się na obszarze morza terytorialnego, wyłącznej strefy ekonomicznej Rzeczypospolitej Polskiej, o której mowa ust. 1, oraz wód przybrzeżnych.
 
 **Art. 61b.**
 
-1. W celu ochrony środowiska wód morskich opracowuje się i wdraża strategię morską, na zasadach określonych ustawie.
+1. W celu ochrony środowiska wód morskich opracowuje się i wdraża strategię morską, na zasadach
 
 2. Strategia morska stanowi następujący zespół działań:
 
@@ -65,10 +66,11 @@ o zmianie ustawy Prawo wodne oraz niektórych innych ustaw
 
 1. Wstępna ocena stanu środowiska wód morskich zawiera:
 
-- **1)** analizę podstawowych cech i właściwości wód morskich i obecnego stanu środowiska wód morskich, obejmującą szczególności charakterystykę: topografia i batymetria dna morskiego, roczny, sezonowy i przestrzenny rozkład temperatury oraz zasolenia wody, występowanie lodu morskiego, rozkłady i prędkości prądów morskich, wypływanie wód głębinowych, ekspozycję na fale, mieszanie wód, przezroczystość wody oraz wymianę wód, przestrzenny i czasowy rozkład substancji biogennych (rozpuszczony azot nieorganiczny DIN, azot całkowity TN, rozpuszczony fosfor nieorganiczny DIP, fosfor całkowity TP, całkowity węgiel organiczny TOC) i tlenu, pionowe profile pH, pCO2 lub inne parametry wykorzystywane do określenia zakwaszenia wód morskich,
-    - **b)** typów siedlisk, zawierającą: dominujące typy lub typ siedlisk na dnie morskim i słupie wody z opisem charakterystycznych właściwości fizycznych, takich jak głębokość, rozkłady temperatury oraz zasolenia wody, prądy morskie, falowanie, struktura i substrat dna morskiego, oraz chemicznych wód morskich, identyfikację i kartowanie typów siedlisk będących przedmiotem szczególnego zainteresowania pod względem naukowym lub odniesieniu do różnorodności biologicznej, tym określonych umowach międzynarodowych, których Rzeczpospolita Polska jest stroną, siedliska obszarach, które ze względu na swoje cechy charakterystyczne, położenie lub znaczenie strategiczne zasługują na szczególną uwagę; do tej kategorii zalicza się obszary podlegające intensywnym presjom lub presjom o specyficznym charakterze, a także obszary kwalifikujące się do objęcia formą ochrony przyrody rozumieniu ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody,
-    - **c)** cech biologicznych wód morskich, zawierającą: opis zbiorowisk biologicznych powiązanych z przeważającymi typami siedlisk na dnie morskim lub słupie wody, zawierający informacje o typowych zbiorowiskach fitoplanktonu i zooplanktonu, tym o typowych gatunkach oraz ich zmienności sezonowej i geograficznej, informacje o roślinach okrytonasiennych, makroglonach i bezkręgowej faunie dennej, tym o ich składzie gatunkowym, biomasie i zmienności rocznej lub sezonowej, informacje o strukturze populacji ryb, tym o różnorodności biologicznej, rozmieszczeniu, strukturze wiekowej oraz wielkości populacji ryb, opis dynamiki populacji, naturalny i rzeczywisty obszar występowania oraz stan populacji gatunków ssaków, gadów oraz ptaków morskich występujących regionie Morza Bałtyckiego, opis dynamiki populacji, naturalny i rzeczywisty obszar występowania oraz stan populacji gatunków innych niż wymienione tiret czwartym występujących regionie Morza Bałtyckiego określonych przepisach dotyczących tych gatunków, tym umowach międzynarodowych, których Rzeczpospolita Polska jest stroną, wykaz czasowego występowania różnorodności biologicznej oraz rozmieszczenia przestrzennego gatunków obcych lub, razie konieczności, odrębnych genetycznie gatunków rodzimych występujących regionie Morza Bałtyckiego,
-    - **d)** cech i właściwości wód morskich innych niż wymienione lit. a–c, zawierającą: opis przypadków występowania substancji chemicznych, tym niebezpiecznych substancji chemicznych, zanieczyszczenia osadów, gorących punktów określonych przepisach prawa międzynarodowego dotyczących ochrony środowiska morskiego regionu Morza Bałtyckiego, zagrożeń dla zdrowia ludzkiego oraz zanieczyszczenia fauny i flory, szczególnie przeznaczonej do spożycia przez ludzi, opis innych cech typowych lub szczególnych dla regionu Morza Bałtyckiego;
+- **1)** analizę podstawowych cech i właściwości wód morskich i obecnego stanu środowiska wód morskich, obejmującą szczególności charakterystykę:
+    - **a)** następujących właściwości fizycznych, chemicznych i hydromorfologicznych wód morskich: – topografia i batymetria dna morskiego, – roczny, sezonowy i przestrzenny rozkład temperatury oraz zasolenia wody, występowanie lodu morskiego, rozkłady i prędkości prądów morskich, wypływanie wód głębinowych, ekspozycję na fale, mieszanie wód, przezroczystość wody oraz wymianę wód, całkowity – TN, rozpuszczony fosfor nieorganiczny – DIP, fosfor całkowity – TP, całkowity węgiel organiczny – TOC) i tlenu, – pionowe profile pH, pCO2 lub inne parametry wykorzystywane do określenia zakwaszenia wód morskich,
+    - **b)** typów siedlisk, zawierającą: – dominujące typy lub typ siedlisk na dnie morskim i słupie wody z opisem charakterystycznych właściwości fizycznych, takich jak głębokość, rozkłady temperatury oraz zasolenia wody, prądy morskie, falowanie, struktura i substrat dna morskiego, oraz chemicznych wód morskich, – identyfikację i kartowanie typów siedlisk będących przedmiotem szczególnego zainteresowania pod względem naukowym lub odniesieniu do różnorodności biologicznej, tym określonych umowach międzynarodowych, których Rzeczpospolita Polska jest stroną, – siedliska obszarach, które ze względu na swoje cechy charakterystyczne, położenie lub znaczenie strategiczne zasługują na szczególną uwagę; do tej kategorii zalicza się obszary podlegające intensywnym presjom lub presjom o specyficznym charakterze, a także obszary kwalifikujące się do objęcia formą ochrony przyrody rozumieniu ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody,
+    - **c)** cech biologicznych wód morskich, zawierającą: – opis zbiorowisk biologicznych powiązanych z przeważającymi typami siedlisk na dnie morskim lub słupie wody, zawierający informacje o typowych zbiorowiskach fitoplanktonu i zooplanktonu, tym o typowych gatunkach oraz ich zmienności sezonowej i geograficznej, – informacje o roślinach okrytonasiennych, makroglonach i bezkręgowej faunie dennej, tym o ich składzie gatunkowym, biomasie i zmienności rocznej lub sezonowej, – informacje o strukturze populacji ryb, tym o różnorodności biologicznej, rozmieszczeniu, strukturze wiekowej oraz wielkości populacji ryb, – opis dynamiki populacji, naturalny i rzeczywisty obszar występowania oraz stan populacji gatunków ssaków, gadów oraz ptaków morskich występujących regionie Morza Bałtyckiego, – opis dynamiki populacji, naturalny i rzeczywisty obszar występowania oraz stan populacji gatunków innych niż wymienione tiret czwartym występujących regionie Morza Bałtyckiego określonych przepisach dotyczących tych gatunków, tym umowach międzynarodowych, których Rzeczpospolita Polska jest stroną, – wykaz czasowego występowania różnorodności biologicznej oraz rozmieszczenia przestrzennego gatunków obcych lub, razie konieczności, odrębnych genetycznie gatunków rodzimych występujących regionie Morza Bałtyckiego,
+    - **d)** cech i właściwości wód morskich innych niż wymienione lit. a–c, zawierającą: – opis przypadków występowania substancji chemicznych, tym niebezpiecznych substancji chemicznych, zanieczyszczenia osadów, gorących punktów określonych przepisach prawa międzynarodowego dotyczących ochrony środowiska morskiego regionu Morza Bałtyckiego, zagrożeń dla zdrowia ludzkiego oraz zanieczyszczenia fauny i flory, szczególnie przeznaczonej do spożycia przez ludzi, – opis innych cech typowych lub szczególnych dla regionu Morza Bałtyckiego;
 
 - **2)** analizę dominujących presji i oddziaływań pochodzenia lądowego i morskiego na wody morskie, tym presji i oddziaływań antropogenicznych, obejmującą skutki kumulacyjne i synergiczne;
 - **3)** analizę ekonomiczną i społeczną użytkowania wód morskich oraz kosztów degradacji środowiska wód morskich.
@@ -76,9 +78,12 @@ o zmianie ustawy Prawo wodne oraz niektórych innych ustaw
 2. Wstępna ocena stanu środowiska wód morskich uwzględnia:
 
 - **1)** wskaźniki zastosowane ocenie stanu i sposobie klasyfikacji wód przejściowych, przybrzeżnych i morza terytorialnego określone przepisach dotyczących tych wskaźników;
-- **2)** wskaźniki inne niż wskazane pkt 1 umożliwiające dokonanie kompleksowej oceny stanu środowiska wód mor1) zestawienie dominujących presji i oddziaływań pochodzenia lądowego na wody morskie, tym presji i oddziaływań antropogenicznych, zawierające szczególności wykaz następujących presji i oddziaływań:
-    - **a)** znaczące zmiany struktury termicznej wód morskich, tym powodowane przez odprowadzanie wód chłodniczych z elektrowni,
-    - **b)** znaczące zmiany poziomu zasolenia, tym powodowane przez konstrukcje ograniczające przepływ, zrzut lub pobór wody,
+- **2)** wskaźniki inne niż wskazane pkt 1 umożliwiające dokonanie kompleksowej oceny stanu środowiska wód morskich, szczególności oceny tematyczne przeprowadzone zgodnie z postanowieniami Konwencji Helsińskiej.
+
+3. Na potrzeby opracowania analizy, o której mowa ust. 1 pkt 2, sporządza się:
+
+- **1)** zestawienie dominujących presji i oddziaływań pochodzenia lądowego na wody morskie, tym presji i oddziaływań antropogenicznych, zawierające szczególności wykaz następujących presji i oddziaływań:
+    - **a)** znaczące zmiany struktury termicznej wód morskich, tym powodowane przez odprowadzanie wód chłodniczych z elektrowni, pobór wody,
     - **c)** wprowadzanie związków syntetycznych, szczególności określonych przepisach prawa Unii Europejskiej dotyczących polityki wodnej, i substancji priorytetowych istotnych dla środowiska morskiego, takich jak substancje czynne biologicznie, pestycydy, środki farmaceutyczne, pochodzących ze źródeł rozproszonych, z opadów atmosferycznych lub ładunków doprowadzanych rzekami,
     - **d)** wprowadzanie substancji i związków niesyntetycznych, tym metali ciężkich i węglowodorów, pochodzących ze źródeł punktowych, z opadów atmosferycznych lub ładunków doprowadzanych rzekami,
     - **e)** wprowadzanie radionuklidów,
@@ -103,11 +108,13 @@ o zmianie ustawy Prawo wodne oraz niektórych innych ustaw
     - **a)** eksploatacja selektywna organizmów morskich, tym powodowana przez badania i eksploatację żywych zasobów dna morskiego i podłoża,
     - **b)** eksploatacja selektywna gatunków zwierząt, obejmująca przypadkowe połowy gatunków niebędących gatunkami docelowymi, tym powodowana przez połowy komercyjne i rekreacyjne.
 
+4. Zestawienie, o którym mowa ust. 3 pkt 2, nie obejmuje presji i oddziaływań pochodzenia morskiego na wody morskie wynikających z działalności rybackiej.
+
 **Art. 61i.**
 
 1. Wstępną ocenę stanu środowiska wód morskich opracowuje Główny Inspektor Ochrony Środowiska uzgodnieniu z ministrem właściwym do spraw gospodarki morskiej, ministrem właściwym do spraw rybołówstwa oraz Prezesem Krajowego Zarządu Gospodarki Wodnej.
 
-2. Główny Inspektor Ochrony Środowiska informuje organy właściwe do opracowania analizy, o której mowa art. 61h ust. 1 pkt 3, oraz sporządzenia zestawień, o których mowa art. 61h ust. 3, o przystąpieniu do opracowania wstępnej oceny stanu środowiska wód morskich. Główny Inspektor Ochrony Środowiska wskazuje informacji termin przekazania analizy i zestawień.
+2. Główny Inspektor Ochrony Środowiska informuje organy właściwe do opracowania analizy, o której mowa wstępnej oceny stanu środowiska wód morskich. Główny Inspektor Ochrony Środowiska wskazuje informacji termin przekazania analizy i zestawień.
 
 3. Analizę, o której mowa art. 61h ust. 1 pkt 3, opracowuje minister właściwy do spraw gospodarki morskiej i przekazuje wraz z danymi i informacjami wykorzystanymi do jej opracowania oraz uzyskanymi przy jej opracowaniu Głównemu Inspektorowi Ochrony Środowiska.
 
@@ -135,11 +142,11 @@ o zmianie ustawy Prawo wodne oraz niektórych innych ustaw
 
 12. Minister właściwy do spraw gospodarki wodnej przedkłada Komisji Europejskiej wstępną ocenę stanu środowiska wód morskich wraz z zestawem właściwości typowych dla dobrego stanu środowiska wód morskich po uzyskaniu zgody Rady Ministrów.
 
-13. Wstępna ocena stanu środowiska wód morskich podlega przeglądowi co 6 lat i razie potrzeby aktualizacji. mowa art. 61h ust. 1 pkt 3, oraz zestawień, o których mowa art. 61h ust. 3, i przekazują ich wyniki wraz z danymi i informacjami wykorzystanymi do dokonania ich aktualizacji oraz uzyskanymi przy ich aktualizacji Głównemu Inspektorowi Ochrony Środowiska, nie później niż na 5 miesięcy przed terminem przeprowadzenia przeglądu wstępnej oceny stanu środowiska wód morskich.
+13. Wstępna ocena stanu środowiska wód morskich podlega przeglądowi co 6 lat i razie potrzeby aktualizacji.
 
-15. Aktualizacja wstępnej oceny stanu środowiska wód morskich obejmuje, oprócz danych zawartych we wstępnej ocenie stanu środowiska wód morskich:
+14. Minister właściwy do spraw gospodarki morskiej, minister właściwy do spraw rybołówstwa i Prezes Krajowego Zarządu Gospodarki Wodnej przeprowadzają przegląd i razie potrzeby aktualizację odpowiednio analizy, o której mowa art. 61h ust. 1 pkt 3, oraz zestawień, o których mowa art. 61h ust. 3, i przekazują ich wyniki wraz z danymi i informacjami wykorzystanymi do dokonania ich aktualizacji oraz uzyskanymi przy ich aktualizacji Głównemu Inspektorowi Ochrony Środowiska, nie później niż na 5 miesięcy przed terminem przeprowadzenia przeglądu wstępnej oceny stanu środowiska wód morskich. ocenie stanu środowiska wód morskich:
 
-- **1)** p odsumowanie wszelkich zmian lub uaktualnień dokonanych od dnia opracowania wstępnej oceny stanu środowiska wód morskich;
+- **1)** podsumowanie wszelkich zmian lub uaktualnień dokonanych od dnia opracowania wstępnej oceny stanu środowiska wód morskich;
 - **2)** prezentację aktualnych wyników monitoringu wód morskich i obecnego stanu środowiska wód morskich.
 
 16. Minister właściwy do spraw gospodarki wodnej informuje Komisję Europejską, Komisję Ochrony Środowiska Morza Bałtyckiego oraz zainteresowane państwa członkowskie Unii Europejskiej o aktualizacjach wstępnej oceny stanu środowiska wód morskich. Informacja jest przekazywana terminie 3 miesięcy od dnia dokonania aktualizacji wstępnej oceny stanu środowiska wód morskich.
@@ -167,11 +174,11 @@ o zmianie ustawy Prawo wodne oraz niektórych innych ustaw
     - **f)** utrzymanie integralności dna morskiego na poziomie zapewniającym ochronę struktury i funkcji ekosystemów bentosowych oraz brak negatywnego wpływu na te ekosystemy,
     - **g)** stałą zmianę właściwości hydrograficznych niepowodującą negatywnego wpływu na ekosystemy morskie,
     - **h)** utrzymanie stężenia substancji zanieczyszczających na poziomie niepowodującym zanieczyszczenia wód morskich,
-    - **i)** utrzymanie poziomów substancji zanieczyszczających rybach oraz skorupiakach i mięczakach przeznaj) utrzymanie właściwości i ilości odpadów na poziomie niepowodującym szkód środowisku wód morskich, przejściowych i przybrzeżnych,
+    - **i)** utrzymanie poziomów substancji zanieczyszczających rybach oraz skorupiakach i mięczakach przeznaczonych do spożycia przez ludzi nieprzekraczających poziomów określonych normach lub przepisach dotyczących poziomów tych substancji,
+    - **j)** utrzymanie właściwości i ilości odpadów na poziomie niepowodującym szkód środowisku wód morskich, przejściowych i przybrzeżnych,
     - **k)** utrzymanie energii wprowadzanej do wód morskich, tym podmorskiego hałasu, na poziomie niepowodującym negatywnego wpływu na środowisko wód morskich;
 
 - **2)** sposób klasyfikacji wskaźników powiązaniu z cechami, o których mowa pkt 1;
-- **3)** sposób oceny stanu środowiska wód morskich.
 
 2. Jeżeli którakolwiek z cech, o których mowa ust. 1 pkt 1, nie ma zastosowania do wód regionu Morza Bałtyckiego, fakt ten wskazuje się i uzasadnia zestawie właściwości typowych dla dobrego stanu środowiska wód morskich.
 
@@ -196,11 +203,13 @@ o zmianie ustawy Prawo wodne oraz niektórych innych ustaw
 
 6. Minister właściwy do spraw gospodarki wodnej przedkłada Komisji Europejskiej projekt zestawu właściwości typowych dla dobrego stanu środowiska wód morskich wraz ze wstępną oceną stanu środowiska wód morskich po uzyskaniu zgody Rady Ministrów. Projekt zestawu właściwości typowych dla dobrego stanu środowiska wód morskich wraz ze wstępną oceną stanu środowiska wód morskich jest przedkładany terminie 3 miesięcy od dnia uzyskania zgody Rady Ministrów.
 
-7. Zestaw właściwości typowych dla dobrego stanu środowiska wód morskich jest przyjmowany, jeżeli terminie 6 miesięcy od dnia przedłożenia jego projektu Komisja Europejska nie odrzuci projektu zestawu właściwości typowych dla dobrego stanu środowiska wód morskich całości albo części. skiej oraz powszechnym charakterem zestawu.
+7. Zestaw właściwości typowych dla dobrego stanu środowiska wód morskich jest przyjmowany, jeżeli terminie 6 miesięcy od dnia przedłożenia jego projektu Komisja Europejska nie odrzuci projektu zestawu właściwości typowych dla dobrego stanu środowiska wód morskich całości albo części.
+
+8. Minister właściwy do spraw gospodarki wodnej przyjmuje zestaw właściwości typowych dla dobrego stanu środowiska wód morskich, drodze rozporządzenia, kierując się potrzebą uwzględnienia stanowiska Komisji Europejskiej oraz powszechnym charakterem zestawu.
 
 9. Jeżeli Komisja Europejska odrzuci projekt zestawu właściwości typowych dla dobrego stanu środowiska wód morskich części, minister właściwy do spraw gospodarki wodnej opracowuje poprawiony projekt zestawu właściwości typowych dla dobrego stanu środowiska wód morskich, kierując się stanowiskiem Komisji Europejskiej. Do poprawionego projektu zestawu stosuje się odpowiednio przepisy ust. 1 i 6–8.
 
-10. Jeżeli Komisja Europejska odrzuci projekt zestawu właściwości typowych dla dobrego stanu środowiska wód morskich całości, opracowuje się nowy projekt zestawu właściwości typowych dla dobrego stanu środowiska wód morskich, zgodnie z ust. 1–8 i art. 61k, kierując się stanowiskiem Komisji Europejskiej.
+10. Jeżeli Komisja Europejska odrzuci projekt zestawu właściwości typowych dla dobrego stanu środowiska wód morskich, zgodnie z ust. 1–8 i art. 61k, kierując się stanowiskiem Komisji Europejskiej.
 
 11. Zestaw właściwości typowych dla dobrego stanu środowiska wód morskich podlega przeglądowi co 6 lat i razie potrzeby aktualizacji.
 
@@ -230,13 +239,14 @@ o zmianie ustawy Prawo wodne oraz niektórych innych ustaw
 - **7)** charakterystykę działań niezbędnych do osiągnięcia celów środowiskowych dla wód morskich;
 - **8)** charakterystykę parametrów służących do monitorowania postępu i ukierunkowania działań podejmowanych dla osiągnięcia celów środowiskowych dla wód morskich;
 - **9)** charakterystykę referencyjnych punktów odniesienia, jeżeli została sporządzona;
-- **10)** potrzebę uwzględniania zagadnień społecznych, gospodarczych i przestrzennych przy wyznaczaniu celów środowadzić do osiągnięcia zgodnego z nimi:
+- **10)** potrzebę uwzględniania zagadnień społecznych, gospodarczych i przestrzennych przy wyznaczaniu celów środowiskowych dla wód morskich;
+- **11)** analizę celów środowiskowych dla wód morskich i związanych z nimi wskaźników, o których mowa art. 61k ust. 1 pkt 1, oraz referencyjnych punktów odniesienia, pozwalającą ocenić, czy realizacja tych celów może doprowadzić do osiągnięcia zgodnego z nimi:
     - **a)** stanu środowiska wód morskich,
     - **b)** dobrego stanu środowiska wód regionu Morza Bałtyckiego innych państw członkowskich Unii Europejskiej.
 
 **Art. 61o.**
 
-1. Projekt zestawu celów środowiskowych dla wód morskich opracowuje Prezes Krajowego Zarządu Gospodarki Wodnej uzgodnieniu z ministrem właściwym do spraw gospodarki, ministrem właściwym do spraw gospodarki morskiej, ministrem właściwym do spraw gospodarki wodnej, ministrem właściwym do spraw rolnictwa, ministrem właściwym do spraw rybołówstwa, ministrem właściwym do spraw środowiska i ministrem właściwym do spraw zdrowia.
+1. Projekt zestawu celów środowiskowych dla wód morskich opracowuje Prezes Krajowego Zarządu Gospodarki Wodnej uzgodnieniu z ministrem właściwym do spraw gospodarki, ministrem właściwym do spraw gospodarki morskiej, ministrem właściwym do spraw gospodarki wodnej, ministrem właściwym do spraw rolnictwa, ministrem właściwym do spraw rybołówstwa, ministrem właściwym do spraw środowiska i ministrem właściwym do
 
 2. Prezes Krajowego Zarządu Gospodarki Wodnej, zapewniając aktywny udział wszystkich zainteresowanych opracowaniu zestawu celów środowiskowych dla wód morskich, zamieszcza Biuletynie Informacji Publicznej Krajowego Zarządu Gospodarki Wodnej, celu zgłoszenia uwag, projekt zestawu celów środowiskowych dla wód morskich.
 
@@ -264,14 +274,14 @@ o zmianie ustawy Prawo wodne oraz niektórych innych ustaw
 
 **Art. 61p.**
 
-1. Cele środowiskowe dla wód morskich należy osiągnąć terminach określonych zestawie celów środowiskowych dla wód morskich. wód morskich uniemożliwia co najmniej jeden z następujących powodów:
+1. Cele środowiskowe dla wód morskich należy osiągnąć terminach określonych zestawie celów środowiskowych dla wód morskich.
+
+2. Dopuszcza się możliwość odstąpienia od osiągnięcia celów środowiskowych dla wód morskich przy zastosowaniu działań określonych krajowym programie ochrony wód morskich, jeżeli osiągnięcie celów środowiskowych dla wód morskich uniemożliwia co najmniej jeden z następujących powodów:
 
 - **1)** działanie lub brak działania wpływającego na stan środowiska wód morskich, za które Rzeczpospolita Polska nie jest odpowiedzialna;
 - **2)** przyczyny naturalne;
 - **3)** siła wyższa;
-- **4)** zmiany fizycznych właściwości wód morskich spowodowane przez działania podjęte ważnym interesie publicznym, który został uznany za istotniejszy od negatywnego oddziaływania na środowisko, tym oddziaływania transgranicznego, pod warunkiem że nie wykluczają one sposób trwały osiągnięcia dobrego stanu środowiska morskiego innych państw członkowskich Unii Europejskiej i nie zagrażają osiągnięciu takiego stanu.
-
-3. Dopuszcza się także odstąpienie od osiągnięcia terminach, o których mowa ust. 1, celów środowiskowych dla wód morskich, jeżeli występują warunki naturalne niepozwalające na szybką poprawę stanu środowiska wód morskich.
+- **4)** zmiany fizycznych właściwości wód morskich spowodowane przez działania podjęte ważnym interesie publicznym, który został uznany za istotniejszy od negatywnego oddziaływania na środowisko, tym oddziaływania transgranicznego, pod warunkiem że nie wykluczają one sposób trwały osiągnięcia dobrego stanu środowiska mor3. Dopuszcza się także odstąpienie od osiągnięcia terminach, o których mowa ust. 1, celów środowiskowych dla wód morskich, jeżeli występują warunki naturalne niepozwalające na szybką poprawę stanu środowiska wód morskich.
 
 4. W krajowym programie ochrony wód morskich określa się obszary wód morskich, tym ich granice, dla których, przy zastosowaniu działań określonych krajowym programie ochrony wód morskich, nie zostaną osiągnięte cele środowiskowe dla wód morskich z powodów i przyczyn wskazanych odpowiednio ust. 2 albo 3, jeżeli obszary takie występują.
 
@@ -297,14 +307,15 @@ o zmianie ustawy Prawo wodne oraz niektórych innych ustaw
 - **4)** sieć obszarów wód morskich objętych formą ochrony przyrody rozumieniu ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody;
 - **5)** analizę wpływu poszczególnych działań podstawowych, o których mowa pkt 1, i działań doraźnych, o których mowa art. 61p ust. 5, na stan środowiska wód morskich, tym analizę kosztów i korzyści związanych z ich podjęciem;
 - **6)** analizę wpływu działań podstawowych, o których mowa pkt 1, i działań doraźnych, o których mowa art. 61p ust. 5, na wody pozostające poza obszarem wód morskich, celu zminimalizowania zagrożeń i, jeżeli jest to możliwe, uzyskania pozytywnego wpływu na te wody;
-- **7)** sposób podejmowania działań podstawowych, o których mowa pkt 1, i działań doraźnych, o których mowa art. 61p ust. 5, oraz stopień, jakim przyczyniają się one do osiągnięcia celów środowiskowych dla wód morwód morskich określa działania doraźne, o których mowa art. 61p ust. 5, od podjęcia których można odstąpić. Odstąpienie od podjęcia działań doraźnych nie może spowodować dalszego pogorszenia się stanu środowiska wód morskich oraz wystąpienia zagrożenia dla złagodzenia negatywnego oddziaływania na wody regionu Morza Bałtyckiego lub wody morskie innych państw członkowskich Unii Europejskiej, jeżeli oddziaływanie takie występuje.
+- **7)** sposób podejmowania działań podstawowych, o których mowa pkt 1, i działań doraźnych, o których mowa art. 61p ust. 5, oraz stopień, jakim przyczyniają się one do osiągnięcia celów środowiskowych dla wód morskich.
+
+2. W przypadku gdy nie występuje znaczące zagrożenie dla stanu środowiska wód morskich lub koszty podjęcia działań zapobiegających wystąpieniu tego zagrożenia byłyby nieproporcjonalnie wysokie, krajowy program ochrony wód morskich określa działania doraźne, o których mowa art. 61p ust. 5, od podjęcia których można odstąpić. Odstąpienie od podjęcia działań doraźnych nie może spowodować dalszego pogorszenia się stanu środowiska wód morskich oraz wystąpienia zagrożenia dla złagodzenia negatywnego oddziaływania na wody regionu Morza Bałtyckiego lub wody morskie innych państw członkowskich Unii Europejskiej, jeżeli oddziaływanie takie występuje.
 
 3. Przy opracowywaniu krajowego programu ochrony wód morskich uwzględnia się:
 
 - **1)** ustalenia programów, o których mowa art. 43 ust. 1 i art. 113 ust. 1 pkt 1;
 - **2)** działania zakresie zarządzania jakością wody kąpieliskach, o których mowa art. 34a ust. 1;
-- **3)** zasadę zrównoważonego rozwoju;
-- **4)** opłacalność i techniczną wykonalność planowanych do określenia nim działań oraz koszty i korzyści z nich wynikające;
+- **3)** zasadę zrównoważonego rozwoju; wynikające;
 - **5)** konsekwencje wyznaczenia obszarów, o których mowa art. 61p ust. 4, dla innych państw członkowskich Unii Europejskiej położonych regionie Morza Bałtyckiego.
 
 **Art. 61s.**
@@ -330,15 +341,15 @@ o zmianie ustawy Prawo wodne oraz niektórych innych ustaw
 
 9. Minister właściwy do spraw gospodarki wodnej przedkłada Komisji Europejskiej oraz zainteresowanym państwom członkowskim Unii Europejskiej projekt krajowego programu ochrony wód morskich. Projekt krajowego programu ochrony wód morskich jest przedkładany terminie 3 miesięcy od dnia jego uzgodnienia z członkami Rady Ministrów.
 
-10. Krajowy program ochrony wód morskich jest przyjmowany, jeżeli terminie 6 miesięcy od dnia przedłożenia jego projektu Komisja Europejska nie odrzuci projektu krajowego programu ochrony wód morskich całości albo
+10. Krajowy program ochrony wód morskich jest przyjmowany, jeżeli terminie 6 miesięcy od dnia przedłożenia jego projektu Komisja Europejska nie odrzuci projektu krajowego programu ochrony wód morskich całości albo części.
+
+11. Rada Ministrów przyjmuje krajowy program ochrony wód morskich, drodze rozporządzenia, kierując się potrzebą uwzględnienia stanowiska Komisji Europejskiej oraz powszechnym charakterem programu.
 
 12. Jeżeli Komisja Europejska odrzuci projekt krajowego programu ochrony wód morskich części, minister właściwy do spraw gospodarki wodnej opracowuje poprawiony projekt krajowego programu ochrony wód morskich, kierując się stanowiskiem Komisji Europejskiej. Do poprawionego projektu krajowego programu ochrony wód morskich stosuje się odpowiednio przepisy ust. 1 i 8–11.
 
 13. Jeżeli Komisja Europejska odrzuci projekt krajowego programu ochrony wód morskich całości, opracowuje się nowy projekt krajowego programu ochrony wód morskich zgodnie z ust. 1–11 i art. 61r.
 
 14. Minister właściwy do spraw gospodarki wodnej przedkłada Komisji Europejskiej sprawozdanie o postępach we wdrażaniu krajowego programu ochrony wód morskich. Sprawozdanie jest przedkładane terminie 3 lat od dnia przyjęcia krajowego programu ochrony wód morskich, a następnie po każdej jego aktualizacji.
-
-15. Krajowy program ochrony wód morskich podlega przeglądowi co 6 lat i razie potrzeby aktualizacji.
 
 16. Minister właściwy do spraw gospodarki wodnej informuje Komisję Europejską, Komisję Ochrony Środowiska Morza Bałtyckiego i zainteresowane państwa członkowskie Unii Europejskiej o aktualizacjach krajowego programu ochrony wód morskich po uzyskaniu zgody Rady Ministrów. Informacja jest przekazywana terminie 3 miesięcy od dnia dokonania aktualizacji krajowego programu ochrony wód morskich.
 
@@ -364,14 +375,14 @@ o zmianie ustawy Prawo wodne oraz niektórych innych ustaw
 - **12)** opracowuje krajowy program ochrony wód morskich.”;
 - **6)** art. 110 ust. 3 i 4 otrzymują brzmienie: „3. Instytut Meteorologii i Gospodarki Wodnej jest obowiązany udostępniać nieodpłatnie informacje o stanie atmosfery i hydrosfery, przetwarzane wyniku realizacji standardowych procedur, organom władzy publicznej oraz właścicielom wód lub działającym ich imieniu zarządcom, jak również uczelniom, instytutom badawczym oraz jednostkom naukowym Polskiej Akademii Nauk na potrzeby badań naukowych i dydaktycznych.
 
-4. Państwowy Instytut Geologiczny jest obowiązany udostępniać nieodpłatnie zebrane informacje o stanie zasobów wód podziemnych, przetwarzane wyniku realizacji standardowych procedur, organom władzy publicznej, jak również uczelniom, instytutom badawczym oraz jednostkom naukowym Państwowej Akademii Nauk na potrzeby badań
+4. Państwowy Instytut Geologiczny jest obowiązany udostępniać nieodpłatnie zebrane informacje o stanie zasobów wód podziemnych, przetwarzane wyniku realizacji standardowych procedur, organom władzy publicznej, jak również uczelniom, instytutom badawczym oraz jednostkom naukowym Państwowej Akademii Nauk na potrzeby badań naukowych i dydaktycznych.”;
 
-- **a)** ust. 1 otrzymuje brzmienie: „1. Monitoring wód ma na celu pozyskanie informacji o stanie:
+- **7)** art. 155a:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Monitoring wód ma na celu pozyskanie informacji o stanie:
+
 - **1)** wód powierzchniowych i podziemnych oraz obszarów chronionych, o których mowa art. 113 ust. 4, na potrzeby planowania gospodarowaniu wodami oraz oceny osiągania celów środowiskowych;
-- **2)** wód morskich na potrzeby oceny osiągania celów środowiskowych dla wód morskich oraz bieżącej oceny stanu środowiska wód morskich.”,
+- **2)** wód morskich na potrzeby oceny osiągania celów środowiskowych dla wód morskich oraz bieżącej oceny stanu środowiska wód morskich.”, „Art. 155c. 1. Główny Inspektor Ochrony Środowiska opracowuje program monitoringu wód morskich zawierający wykaz stanowisk badań monitoringowych z przyporządkowaniem im zakresu i częstotliwości prowadzenia pomiarów i badań oraz metodyk referencyjnych lub warunków zapewnienia jakości pomiarów i badań dla poszczególnych wskaźników, o których mowa art. 61k ust. 1 pkt 1.
     - **b)** dodaje się ust. 9 brzmieniu: „9. Inspekcja Ochrony Środowiska prowadzi monitoring wód, o którym mowa ust. 1 pkt 2, współpracując z organami administracji morskiej oraz organami administracji rybołówstwa morskiego.”;
-
-- **8)** dziale VI rozdziale 6a dodaje się art. 155c–155e brzmieniu: „Art. 155c. 1. Główny Inspektor Ochrony Środowiska opracowuje program monitoringu wód morskich zawierający wykaz stanowisk badań monitoringowych z przyporządkowaniem im zakresu i częstotliwości prowadzenia pomiarów i badań oraz metodyk referencyjnych lub warunków zapewnienia jakości pomiarów i badań dla poszczególnych wskaźników, o których mowa art. 61k ust. 1 pkt 1.
 
 2. Przy opracowywaniu programu monitoringu wód morskich bierze się pod uwagę potrzebę:
 
@@ -385,7 +396,9 @@ o zmianie ustawy Prawo wodne oraz niektórych innych ustaw
 - **8)** opracowywania specyfikacji technicznych i ujednoliconych metod monitorowania stanu środowiska wód morskich sposób zapewniający porównywalność informacji o stanie środowiska wód morskich na poziomie Unii Europejskiej;
 - **9)** zapewniania, zakresie, jakim jest to możliwe, zgodności programu monitoringu wód morskich z programami opracowywanymi przez inne państwa członkowskie Unii Europejskiej położone regionie Morza Bałtyckiego oraz państwa leżące poza granicami Unii Europejskiej, które graniczą z regionem Morza Bałtyckiego, tym przy wykorzystaniu najbardziej odpowiednich dla regionu Morza Bałtyckiego wytycznych dotyczących monitorowania stanu środowiska wód;
 - **10)** uwzględniania oceny zmian cech i właściwości wód morskich, o których mowa art. 61h ust. 1, a także, razie konieczności, nowych i przyszłych zagrożeń ekosystemów morskich;
-- **11)** uwzględniania właściwości fizycznych, chemicznych, hydromorfologicznych i biologicznych wód morskich, typów siedlisk oraz presji i oddziaływań na wody morskie zawartych analizie, o której mowa art. 61h ust. 1 pkt 2, tym ich naturalnej zmienności, jak również potrzebę przeprowadzenia oceny postępów realizacji celów środowiskowych dla wód morskich z zastosowaniem wskaźników, o których mowa art. 61k ust. 1 pkt 1, oraz ich granicznych i docelowych punktów odniesienia o ile zostały ustalone. Ochrony Środowiska, celu zgłoszenia uwag, projekt programu monitoringu wód morskich.
+- **11)** uwzględniania właściwości fizycznych, chemicznych, hydromorfologicznych i biologicznych wód morskich, typów siedlisk oraz presji i oddziaływań na wody morskie zawartych analizie, o której mowa art. 61h ust. 1 pkt 2, tym ich naturalnej zmienności, jak również potrzebę przeprowadzenia oceny postępów realizacji celów środowiskowych dla wód morskich z zastosowaniem wskaźników, o których mowa art. 61k ust. 1 pkt 1, oraz ich granicznych i docelowych punktów odniesienia – o ile zostały ustalone.
+
+3. Główny Inspektor Ochrony Środowiska, zapewniając aktywny udział wszystkich zainteresowanych opracowaniu programu monitoringu wód morskich, zamieszcza Biuletynie Informacji Publicznej Głównego Inspektoratu Ochrony Środowiska, celu zgłoszenia uwag, projekt programu monitoringu wód morskich.
 
 4. W terminie 21 dni od dnia zamieszczenia projektu programu monitoringu wód morskich Biuletynie Informacji Publicznej Głównego Inspektoratu Ochrony Środowiska zainteresowani mogą składać, do Głównego Inspektora Ochrony Środowiska, uwagi, formie pisemnej lub elektronicznej, do ustaleń zawartych projekcie tego dokumentu.
 
@@ -393,7 +406,7 @@ o zmianie ustawy Prawo wodne oraz niektórych innych ustaw
 
 6. Po zakończeniu konsultacji, zgodnie z ust. 3–5, Główny Inspektor Ochrony Środowiska przekazuje program monitoringu wód morskich ministrowi właściwemu do spraw gospodarki wodnej.
 
-7. Minister właściwy do spraw gospodarki wodnej przedkłada Komisji Europejskiej program monitoringu wód morskich po uzyskaniu zgody Rady Ministrów. Program monitoringu wód morskich jest przedkładany terminie 3 miesięcy od dnia uzyskania zgody Rady Ministrów.
+7. Minister właściwy do spraw gospodarki wodnej przedkłada Komisji Europejskiej program monitoringu wód 3 miesięcy od dnia uzyskania zgody Rady Ministrów.
 
 8. Program monitoringu wód morskich jest wdrażany, jeżeli terminie 6 miesięcy od dnia jego przedłożenia Komisja Europejska nie odrzuci programu monitoringu wód morskich całości albo części.
 
@@ -413,7 +426,7 @@ o zmianie ustawy Prawo wodne oraz niektórych innych ustaw
 
 - **1)** rodzaje i kryteria wyznaczania stanowisk badań monitoringowych, zapewniając pobór próbek punktach pomiarowych zlokalizowanych na obszarach morskich rozumieniu ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej;
 - **2)** zakres i częstotliwość prowadzenia pomiarów i badań poszczególnych wskaźników, o których mowa art. 61k ust. 1 pkt 1;
-- **3)** metodyki referencyjne dla poszczególnych wskaźników, o których mowa art. 61k ust. 1 pkt 1, a dla wskaźników, dla których nie ustalono metodyki referencyjnej warunki zapewnienia jakości pomiarów.
+- **3)** metodyki referencyjne dla poszczególnych wskaźników, o których mowa art. 61k ust. 1 pkt 1, a dla wskaźników, dla których nie ustalono metodyki referencyjnej – warunki zapewnienia jakości pomiarów.
 
 2. Minister, wydając rozporządzenie, o którym mowa ust. 1, kieruje się:
 
@@ -421,27 +434,25 @@ o zmianie ustawy Prawo wodne oraz niektórych innych ustaw
 - **2)** potrzebą prowadzenia monitoringu wód morskich sposób skoordynowany i spójny regionie Morza Bałtyckiego;
 - **3)** potrzebą zapewnienia informacji niezbędnych dla opracowania programu monitoringu wód morskich;
 - **4)** oddziaływaniami na stan środowiska wód regionu Morza Bałtyckiego o charakterze transgranicznym;
-- **5)** potrzebą zapewnienia zgodności metod monitorowania regionie Morza Bałtyckiego celu ułatwienia porównania wyników monitoringu. z dnia 4 marca 2010 r. o infrastrukturze informacji przestrzennej.
+- **5)** potrzebą zapewnienia zgodności metod monitorowania regionie Morza Bałtyckiego celu ułatwienia porównania wyników monitoringu.
+
+**Art. 155e.**
+
+1. Główny Inspektor Ochrony Środowiska udostępnia Komisji Europejskiej dane i informacje wykorzystane do opracowania programu monitoringu wód morskich oraz uzyskane przy jego opracowaniu, zgodnie z ustawą z dnia 4 marca 2010 r. o infrastrukturze informacji przestrzennej.
 
 2. Nie później niż terminie 6 miesięcy od dnia udostępnienia Komisji Europejskiej danych i informacji, o którym mowa ust. 1, Główny Inspektor Ochrony Środowiska udostępnia te dane i informacje również Europejskiej Agencji Środowiska, o której mowa rozporządzeniu Parlamentu Europejskiego i Rady (WE) nr 401/2009 z dnia 23 kwietnia 2009 r. sprawie Europejskiej Agencji Środowiska oraz Europejskiej Sieci Informacji i Obserwacji Środowiska.
 
 3. Przepisy ust. 1 i 2 stosuje się odpowiednio do danych i informacji wykorzystanych do aktualizacji programu monitoringu wód morskich oraz uzyskanych przy jego aktualizacji.”.
 
-**Art. 2.** W ustawie z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2003 r. Nr 153, poz. 1502, z późn. zm. ) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2003 r. Nr 153, poz. 1502, z późn. zm. ) wprowadza się następujące zmiany: „ Niniejsza ustawa dokonuje zakresie swojej regulacji wdrożenia dyrektywy Parlamentu Europejskiego i Rady 2008/56/WE z dnia 17 czerwca 2008 r. ustanawiającej ramy działań Wspólnoty dziedzinie polityki środowiska morskiego (dyrektywa ramowa sprawie strategii morskiej) (Dz. Urz. UE L 164 z 25.06.2008, str. 19).”;
 
-**Art. 3.** W ustawie z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska (Dz. U. z 2007 r. Nr 44, poz. 287, z późn. zm. ) art. 2 ust. 1 po pkt 17 dodaje się pkt 17a brzmieniu: „17a) wykonywanie zadań określonych ustawie z dnia 18 lipca 2001 r. Prawo wodne (Dz. U. z 2012 r. poz. 145, z późn. zm. );”.
+**Art. 3.** W ustawie z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska (Dz. U. z 2007 r. Nr 44, poz. 287, z późn. zm. ) art. 2 ust. 1 po pkt 17 dodaje się pkt 17a brzmieniu: „17a) wykonywanie zadań określonych ustawie z dnia 18 lipca 2001 r. – Prawo wodne (Dz. U. z 2012 r. poz. 145, z późn. zm. );”.
 
-**Art. 4.** W ustawie z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (Dz. U. z 2008 r. Nr 25, poz. 150, z późn. zm. ) wprowadza się następujące zmiany:
+**Art. 4.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2008 r. Nr 25, poz. 150, z późn. zm. ) wprowadza się następujące zmiany:
 
 **Art. 5.** W ustawie z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2009 r. Nr 151, poz. 1220, z późn. zm. ) wprowadza się następujące zmiany:
 
 **Art. 6.** W ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. Nr 199, poz. 1227, z późn. zm. ) wprowadza się następujące zmiany:
-
-**Art. 7.**
-
-1. Dobry stan środowiska wód morskich należy osiągnąć terminie do dnia 31 grudnia 2020 r.
-
-2. Dopuszcza się odstąpienie od osiągnięcia dobrego stanu środowiska wód morskich. Przepisy art. 61p ust. 2–6 ustawy zmienianej art. 1 stosuje się odpowiednio.
 
 **Art. 8.** Główny Inspektor Ochrony Środowiska:
 
@@ -457,10 +468,7 @@ o zmianie ustawy Prawo wodne oraz niektórych innych ustaw
 
 4. W przypadku, o którym mowa ust. 2, minister właściwy do spraw gospodarki wodnej informuje Komisję Europejską o terminach opracowania i wdrożenia krajowego programu ochrony wód morskich.
 
-- **1)** sporządzi zestawienie dominujących presji i oddziaływań pochodzenia morskiego na wody morskie, tym presji i oddziaływań antropogenicznych, o którym mowa art. 61h ust. 3 pkt 2 ustawy zmienianej art. 1, terminie 3 miesięcy od dnia wejścia życie ustawy;
-- **2)** opracuje analizę ekonomiczną i społeczną użytkowania wód morskich oraz kosztów degradacji środowiska wód morskich, o której mowa art. 61h ust. 1 pkt 3 ustawy zmienianej art. 1, terminie 3 miesięcy od dnia wejścia życie ustawy.
-
-**Art. 12.** Minister właściwy do spraw rybołówstwa sporządzi zestawienie dominujących presji i oddziaływań pochodzenia morskiego na wody morskie wynikających z działalności rybackiej, tym presji i oddziaływań antropogenicznych, o którym mowa art. 61h ust. 3 pkt 3 ustawy zmienianej art. 1, terminie 3 miesięcy od dnia wejścia życie ustawy.
+**Art. 11.** Minister właściwy do spraw gospodarki morskiej:
 
 **Art. 13.** Organy administracji właściwe sprawach, o których mowa art. 21 ust. 2 pkt 28 lit. h ustawy zmienianej art. 6 brzmieniu nadanym niniejszą ustawą, zamieszczą dane o obszarach wód morskich objętych formami ochrony przyrody rozumieniu ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody publicznie dostępnych wykazach, o których mowa art. 21 ustawy zmienianej art. 6, terminie do dnia 31 grudnia 2013 r.
 
@@ -470,16 +478,16 @@ o zmianie ustawy Prawo wodne oraz niektórych innych ustaw
 
 1. W latach 2013–2022 maksymalny limit wydatków Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej będący skutkiem finansowym ustawy wynosi w:
 
-- **1)** 2013 r. 500 tys. zł;
-- **2)** 2014 r. 1500 tys. zł;
-- **3)** 2015 r. 500 tys. zł;
-- **4)** 2016 r. 500 tys. zł;
-- **5)** 2017 r. 1100 tys. zł;
-- **6)** 2018 r. 500 tys. zł;
-- **7)** 2019 r. 1000 tys. zł;
-- **8)** 2020 r. 1500 tys. zł;
-- **9)** 2021 r. 500 tys. zł;
-- **10)** 2022 r. 500 tys. zł.
+- **1)** 2013 r. – 500 tys. zł;
+- **2)** 2014 r. – 1500 tys. zł;
+- **3)** 2015 r. – 500 tys. zł;
+- **4)** 2016 r. – 500 tys. zł;
+- **5)** 2017 r. – 1100 tys. zł;
+- **6)** 2018 r. – 500 tys. zł;
+- **7)** 2019 r. – 1000 tys. zł;
+- **8)** 2020 r. – 1500 tys. zł;
+- **9)** 2021 r. – 500 tys. zł;
+- **10)** 2022 r. – 500 tys. zł.
 
 2. W przypadku przekroczenia lub zagrożenia przekroczenia przyjętego na dany rok budżetowy maksymalnego limitu wydatków, o których mowa ust. 1, wprowadza się mechanizmy korygujące polegające na zmniejszeniu kosztów realizacji zadań.
 

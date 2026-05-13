@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# Ustawa z dnia 30 lipca 2004 r. o uposażeniu posłów do Parlamentu Europejskiego wybranych w Rzeczypospolitej Polskiej
+# o uposażeniu posłów do Parlamentu Europejskiego wybranych Rzeczypospolitej Polskiej
+
+*USTAWA z dnia 30 lipca 2004 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -26,33 +28,58 @@ domain: null
 
 **Art. 1.**
 
-1. Posłom do Parlamentu Europejskiego wybranym Rzeczypospolitej Polskiej, zwanym dalej Ńposłami do Parlamentu Europejskiego”, przysługuje okresie sprawowania mandatu, licząc od pierwszego posiedzenia Parlamentu Europejskiego, uposażenie wypłacane miesięcznie, także za niepełne miesiące sprawowania mandatu.
+1. Posłom do Parlamentu Europejskiego wybranym Rzeczypospolitej Polskiej wyborach przeprowadzonych dniu 7 czerwca 2009 r., którzy sprawowali mandat posła do Parlamentu Europejskiego kadencji trwającej latach 2004-2009, oraz podjęli, na podstawie art. 25 ust. 1 decyzji Parlamentu Europejskiego nr 2005/684/WE, Euratom z dnia 28 września 2005 r. sprawie przyjęcia statutu posła do Parlamentu Europejskiego (Dz. Urz. UE L 262 z
 
-2. Posłom do Parlamentu Europejskiego, którzy obejmują mandat trakcie trwania kadencji Parlamentu Europejskiego, przysługuje okresie sprawowania mandatu, licząc od pierwszego posiedzenia Parlamentu Europejskiego, którym wzięli udział, uposażenie wypłacane miesięcznie, także za niepełne
+07. 10.2005, str. 1), decyzję o pobieraniu uposażenia, przysługuje okresie sprawowania mandatu, licząc od pierwszego posiedzenia Parlamentu Europejskiego, uposażenie wypłacane miesięcznie, także za niepełne miesiące sprawowania mandatu.
 
-3. Okres pobierania uposażenia jest traktowany jak okres zatrudnienia.
-
-**Art. 3.** Wydatki wynikające uprawnień określonych ustawie są pokrywane budżetu państwa części dotyczącej Kancelarii Sejmu.
-
-**Art. 4.**
-
-1. Posłowi do Parlamentu Europejskiego, który uległ wypadkowi przy sprawowaniu mandatu, przysługują świadczenia na zasadach wysokości określonych przepisami o ubezpieczeniu społecznym tytułu wypadków przy pracy chorób zawodowych.
-
-2. Minister właściwy do spraw zabezpieczenia spomiesiące sprawowania mandatu. łecznego, wporozumieniu zministrem właściwym do spraw pracy, po zasięgnięciu opinii Marszałka Sejmu,
+2. Posłom do Parlamentu Europejskiego, o których mowa ust. 1, którzy obejmują mandat trakcie trwania kadencji Parlamentu Europejskiego, przysługuje okresie sprawowania mandatu, licząc od pierwszego posiedzenia Parlamentu Europejskiego, którym wzięli udział, uposażenie wypłacane miesięcznie, także za niepełne miesiące sprawowania mandatu.
 
 **Art. 2.**
 
-1. Uposażenie odpowiada wysokości wyna- określa, drodze rozporządzenia: grodzenia podsekretarza stanu, ustalonego na podsta- 1) wzór dokumentu potwierdzającego okres wysowie przepisów o wynagrodzeniu osób zajmujących kość pobieranego uposażenia składek od tego kierownicze stanowiska państwowe, wyłączeniem świadczenia; dodatku tytułu wysługi lat.
+1. Uposażenie odpowiada wysokości wynagrodzenia podsekretarza stanu, ustalonego na podstawie przepisów o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe, z wyłączeniem dodatku z tytułu wysługi lat.
 
-- **2)** skład zespołu powypadkowego badającego oko2. Uposażenie jest traktowane jako wynagrodzenie liczności przyczyny wypadku przy sprawowaniu ze stosunku pracy. mandatu oraz zakres zadań Kancelarii Sejmu stosunku do poszkodowanych tych wypadkach posłów do Parlamentu Europejskiego, uwzględniając wszczególności czynności niezbędne do ustalenia uprawnienia do świadczeń należnych tytułu wypadku. USTAWA dnia 30 lipca 2004 o uposażeniu posłów do Parlamentu Europejskiego wybranych Rzeczypospolitej Polskiej ——————— 1924 USTAWA dnia 23 lipca 2004 o ratyfikacji Konwencji o pomocy prawnej sprawach karnych pomiędzy Państwami Członkowskimi Unii Europejskiej, sporządzonej Brukseli dnia 29 maja 2000 r., oraz Protokołu do Konwencji o pomocy prawnej sprawach karnych pomiędzy Państwami Członkowskimi Unii Europejskiej dnia 29 maja 2000 r., sporządzonego Luksemburgu dnia 16 paêdziernika 2001
+2. Uposażenie jest traktowane jako wynagrodzenie ze stosunku pracy.
 
-**Art. 1.** Wyraża się zgodę na dokonanie przez Pre- skiej zdnia 29 maja 2000 r., sporządzonego wLuksemzydenta Rzeczypospolitej Polskiej ratyfikacji Konwen- burgu dnia 16 paêdziernika 2001 cji o pomocy prawnej sprawach karnych pomiędzy Państwami Członkowskimi Unii Europejskiej, sporzą- Art. 2. Ustawa wchodzi życie po upływie 14 dni dzonej wBrukseli dnia 29 maja 2000 r., oraz Protokołu od dnia ogłoszenia. do Konwencji opomocy prawnej wsprawach karnych pomiędzy Państwami Członkowskimi Unii Europej- Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski poz. 887, póên. zm. ) wprowadza się następujące zmiany:
+3. Okres pobierania uposażenia jest traktowany jak okres zatrudnienia.
 
-**Art. 6.** W ustawie dnia 30 paêdziernika 2002 o ubezpieczeniu społecznym tytułu wypadków przy pracy ichorób zawodowych (Dz. U. 199, poz. 1673, póên. zm.
+**Art. 3.** Wydatki wynikające z uprawnień określonych ustawie są pokrywane z budżetu państwa części dotyczącej Kancelarii Sejmu.
 
-**Art. 7.** W ustawie dnia 23 stycznia 2003 o powszechnym ubezpieczeniu Narodowym Funduszu Zdrowia (Dz. U. 45, poz. 391, zpóên. zm. ) wprowadza się następujące zmiany:
+**Art. 3a.**
 
-**Art. 8.** W 2004 wydatki wynikające uprawnień określonych wustawie są pokrywane ze środków budżetu państwa przekazanych na ten cel Kancelarii Sejmu.
+1. Posłowie do Parlamentu Europejskiego wybrani Rzeczypospolitej Polskiej są obowiązani do złożenia oświadczenia o swoim stanie majątkowym. Oświadczenie o stanie majątkowym dotyczy majątku odrębnego oraz objętego informacje o:
 
-**Art. 9.** Ustawa wchodzi życie dniem ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski ——————— 1926 ROZPORZÑDZENIE PREZYDENTA RZECZYPOSPOLITEJ POLSKIEJ dnia 13 sierpnia 2004 sprawie przekazania Wojewódzkim Sądom Administracyjnym Gorzowie Wielkopolskim Kielcach rozpoznawania spraw obszaru województwa lubuskiego świętokrzyskiego należących do właściwości Wojewódzkich Sądów Administracyjnych Poznaniu Krakowie Na podstawie art. 13 § 3 ustawy zdnia 30 sierpnia 2002 Prawo o postępowaniu przed sądami admi§ 1. Wojewódzkiemu Sądowi Administracyjnemu Gorzowie Wielkopolskim przekazuje się sprawy, ———————
+- **1)** zasobach pieniężnych, nieruchomościach, uczestnictwie spółkach cywilnych lub osobowych spółkach handlowych, udziałach i akcjach spółkach handlowych, o nabytym od Skarbu Państwa, innej państwowej osoby prawnej, jednostek samorządu terytorialnego, ich związków lub komunalnej osoby prawnej, mieniu, które podlegało zbyciu drodze przetargu, a także o prowadzonej działalności gospodarczej i stanowiskach zajmowanych spółkach handlowych;
+- **2)** dochodach osiąganych z tytułu zatrudnienia lub innej działalności zarobkowej lub zajęć, z podaniem kwot uzyskiwanych z każdego tytułu;
+- **3)** mieniu ruchomym o wartości powyżej 10 000 złotych;
+- **4)** zobowiązaniach pieniężnych o wartości powyżej 10 000 złotych, tym zaciągniętych kredytach i pożyczkach oraz warunkach, na jakich zostały udzielone.
+
+2. Wzór oświadczenia o stanie majątkowym stanowi załącznik do ustawy.
+
+3. Oświadczenie o stanie majątkowym składa się dwóch egzemplarzach Marszałkowi następujących terminach:
+
+- **1)** do dnia pierwszego posiedzenia Parlamentu Europejskiego, którym bierze udział poseł do Parlamentu Europejskiego wybrany Rzeczypospolitej Polskiej, wraz z informacją o sposobie i terminach zaprzestania prowadzenia działalności gospodarczej z wykorzystaniem majątku Skarbu Państwa lub samorządu terytorialnego związku z wyborem na posła do Parlamentu Europejskiego oraz z informacją o posiadaniu majątku Skarbu Państwa lub samorządu terytorialnego;
+- **2)** do dnia 30 kwietnia każdego roku, według stanu na dzień 31 grudnia roku poprzedniego, dołączając kopię rocznego zeznania podatkowego (PIT);
+- **3)** terminie miesiąca od dnia zarządzenia nowych wyborów do Parlamentu Europejskiego.
+
+4. Jeden egzemplarz oświadczenia o stanie majątkowym Marszałek przekazuje do urzędu skarbowego właściwego ze względu na miejsce zamieszkania posła do Parlamentu Europejskiego wybranego Rzeczypospolitej Polskiej.
+
+5. Informacje zawarte oświadczeniu o stanie majątkowym są jawne, z wyłączeniem informacji o adresie zamieszkania posła do Parlamentu Europejskiego wybranego Rzeczypospolitej Polskiej oraz o miejscu położenia nieruchomości. wiadomości publicznej przez Marszałka formie zapisu elektronicznego.
+
+6. Analizy danych zawartych oświadczeniach o stanie majątkowym dokonują właściwe urzędy skarbowe. Są one uprawnione do porównania treści analizowanego oświadczenia z treścią uprzednio złożonych oświadczeń oraz z dołączoną kopią rocznego zeznania podatkowego (PIT). Wyniki analizy przedstawia się Marszałkowi Sejmu, który podaje je do wiadomości publicznej formie zapisu elektronicznego.
+
+7. Oświadczenie o stanie majątkowym przechowuje się przez 6 lat.
+
+8. Niezłożenie oświadczenia o stanie majątkowym powoduje utratę do czasu złożenia oświadczenia, prawa do uposażenia.
+
+9. Podanie nieprawdy lub zatajenie prawdy oświadczeniu o stanie majątkowym powoduje odpowiedzialność na podstawie art. 233 § 1 Kodeksu karnego.
+
+**Art. 4.** (uchylony).
+
+**Art. 5.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. Nr 137, poz. 887, z późn. zm. ) wprowadza się następujące zmiany:
+
+**Art. 7.** W ustawie z dnia 23 stycznia 2003 r. o powszechnym ubezpieczeniu Narodowym Funduszu Zdrowia (Dz. U. Nr 45, poz. 391, z późn. zm. ) wprowadza się następujące zmiany:
+
+**Art. 8.** W 2004 r. wydatki wynikające z uprawnień określonych ustawie są pokrywane ze środków budżetu państwa przekazanych na ten cel Kancelarii Sejmu.
+
+**Art. 9.** Ustawa wchodzi życie z dniem ogłoszenia. z dnia 30 lipca 2004 r. Uwaga! 1. Osoba składająca oświadczenie o stanie majątkowym obowiązana jest do zgodnego prawdą, starannego i zupełnego wypełnienia każdej z rubryk. 2. Jeżeli poszczególne rubryki nie znajdują konkretnym przypadku zastosowania, należy wpisać „nie dotyczy”. 3. Oświadczenie o stanie majątkowym dotyczy majątku kraju i za granicą. 4. Oświadczenie o stanie majątkowym obejmuje również wierzytelności pieniężne. Oświadczenie o stanie majątkowym Ja, niżej podpisany(a), ................................ urodzony(a) ................................................ zamieszkały(a) po zapoznaniu się z przepisami ustawy z dnia 30 lipca 2004 r. o uposażeniu posłów do Parlamentu Europejskiego wybranych Rzeczypospolitej Polskiej (Dz.U. Nr 187, poz.
 

@@ -10,7 +10,9 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# W ustawie dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. 1998 r. 21, poz. 94, 106, poz. 668 113, poz. 717, 1999 r. 99, poz. 1152, 2000 r. 19, poz. 239, 43, poz. 489, 107, poz.1127 iNr120, poz. 1268 oraz z2001 r. 11, poz.84 iNr 28, poz. 301) wprowadza następujące zmiany: tytuł działu ósmego otrzymuje brzmienie: ŃOchrona pracy kobiet oraz mężczyzn wychowujących dziecko”;
+# o rentach strukturalnych w rolnictwie
+
+*USTAWA z dnia 26 kwietnia 2001 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,89 +26,202 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010520539) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/539/text.pdf) |
 
-2) wart. 180 § 4 dodaje § 5 i6 wbrzmieniu: Ń§ 5. Pracownica może wystąpić pracodawcy zwnioskiem oskrócenie wymiaru urlopu macierzyńskiego, określając jego wymiar,iwcześniej powrócić pracy. Pracodawca kuńczego wnioskiem wszczęcie postępowania sprawie przysposobienia dziecka, przysługuje urlopu warunkach urlopu macierzyńskiego wwymiarze: 22 tygodni, dłużej jednak niż ukończenia przez dziecko 12 miesięcy życia,
-2) 35 tygodni, wprzypadku jednoczesnego przyjęcia wychowanie więcej niż jednego dziecka wystąpienia sądu opiekuńczego wnioskiem wszczęcie postępowania sprawie ich przysposobienia, dłużej jednak niż ukończenia przez każde zdzieci obowiązany zaakceptować ten wniosek. 12 miesięcy życia.”;
-Skrócony urlop może trwać krócej niż 16 tygodni. 4) wart. 189 § 6. Oile pracownica, októrej mowa w§ 5, skróci wymiar urlopu macierzyńskiego, wnioskiem pracodawcy owykorzystanie pozostałej części urlopu macierzyńskiego może wystąpić pracownik ojciec wychowujący dziecko. Pracodawca obowiązany zaakceptować ten wniosek. Wymiar urlopu pracownika może być dłuższy niż różnica pomiędzy wymiarem urlopu macierzyńskiego określonym § 1 a wymiarem urlopu określonym we wniosku, októrym mowa w§ 5.”;
-3) art. 183 otrzymuje brzmienie: ŃArt. 183. Pracownicy, która przyjęła dziecko wychowanie wystąpiła sądu opie§ 2 otrzymuje brzmienie: Ń§ Przepis art. 183 stosuje także pracownicy, która przyjęła dziecko wychowanie jako rodzina zastępcza, wyjątkiem rodziny zastępczej pełniącej zadania pogotowia rodzinnego.” Wymiar urlopu warunkach urlopu macierzyńskiego, októrym mowa wart. 183 ustawy wymienionej wart. 1, stosuje także pracownic korzystających zurlopu warunkach urlopu macierzyńskiego wdniu wejścia wżycie ustawy.
-3. Ustawa wchodzi wżycie zdniem ogłoszenia.
-Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski
-USTAWA zdnia 26 kwietnia 2001 r.
-orentach strukturalnych wrolnictwie.
-1.1. Ustawa określa: Określenia użyte wustawie oznaczają:
-4) gospodarstwo rolne gospodarstwo rolne rozumieniu przepisów opodatku rolnym,
-5) przekazanie rolnego odpłatne nieodpłatne przeniesienie własności gruntów wchodzących skład tego gospodarstwa, drodze umowy, rzecz osoby fizycznej prawnej albo jednostki organizacyjnej nieposiadającej osobowości prawnej, jak również przejęcie tych gruntów własność Skarbu Państwa, wdrodze decyzji Prezesa Agencji Własności Rolnej Skarbu Państwa,
-6) najniższa emerytura kwota najniższej emerytury określona przepisach emeryturach rentach zFunduszu Ubezpieczeń Społecznych.
-3. Prawo przysługuje rolnikowi, który spełnia łącznie następujące warunki: ma ukończone 55 lat, lecz osiągnął 60 lat, jeżeli kobietą, albo ma ukończone 60 lat, lecz osiągnął 65 lat, jeżeli mężczyzną,
-2)podlegał ubezpieczeniu emerytalno-rentowemu, określonemu przepisach ubezpieczeniu społecznym rolników, przez okres wymagany uzyskania emerytury rolniczej chwilą ukończenia 55 lat, jeżeli kobietą,albo 60 lat, jeżeli mężczyzną,
-3)prowadził nieprzerwanie działalność rolniczą okresie 10 lat bezpośrednio poprzedzających zgłoszenie wniosku rentę strukturalną działalność ta była jedynym głównym êródłem jego utrzymania,
-4) zaprzestał prowadzenia działalności rolniczej,
-5) przekazał gospodarstwo rolne ołącznej powierzchni wynoszącej co najmniej 3 ha.
-Uznaje się, że działalność rolnicza była jedynym głównym êródłem utrzymania rolnika, jeżeli wokresie 10 lat, októrym mowa wust. 1 pkt 3, podlegał on ubezpieczeniu emerytalno-rentowemu, określonemu wprzepisach oubezpieczeniu społecznym rolników, przez co najmniej 5 lat, zczego co najmniej 2 lata tego ubezpieczenia przypadały okres bezpośrednio przed zgłoszeniem wniosku orentę strukturalną.
-3. Gospodarstwo rolne, którym mowa ust. 1
-5. Prawo przysługuje rolnikowi, któryma ustalone emerytury ubezpieczenia społecznego zaopatrzenia emerytalnego albo który objęty innym niż rolnicze ubezpieczeniem społecznym zaopatrzeniem emerytalnym.
-Jeżeli rolnika mają zastosowanie przepisy ust. 1, przysługuje jego małżonkowi, ile spełnia warunki określone art. 3 ust.
-3. Prawo przysługuje, jeżeli skład rolnego, którym mowa art. 3 ust. 1 pkt 5, wchodzą grunty przejęte trybie niniejszej ustawy, chyba że rolnik prowadził działalność rolniczą wpowiększonym gospodarstwie co najmniej 5 lat.
-6. Warunek przekazania rolnego, októrym mowa wart. 3 ust. 1 pkt 5, uważa za spełniony, jeżeli grunty wchodzące skład tego gospodarstwa przekazane zostały powiększenie jednego kilku gospodarstw już istniejących, zastrzeżeniem ust. 2 i3.
-Powierzchnia powiększonego może być mniejsza niż 15 ha, zzastrzeżeniem ust. 3.
-3. Rada Ministrów może określić, drodze rozporządzenia, województwa powiaty, których powierzchnia powiększonego może być mniejsza od 15 ha, określając wymaganą wdanym województwie powiecie powierzchnię powiększonego gospodarstwa, przy uwzględnieniu średniej powierzchni rolnego wwojewództwie powiecie.
-7. Umowa oprzekazaniu rolnego, októrym mowa wart. 3 ust. 1 pkt 5, poza wymaganiami określonymi odrębnymi przepisami, powinna zawierać oświadczenia stron tej umowy spełnieniu warunków określonych wart. 6 iart. 8.
-Za sporządzenie aktu notarialnego umowy darowizny dożywocia wzwiązku zprzekazaniem gospodarstwa rolnego podstawie postanowienia, którym mowa art. 18 ust. 3, pobiera opłatę stałą wwysokości określonej przez ministra właściwego spraw sprawiedliwości dla potrzeb ustawy ubezpieczeniu społecznym rolników.
-2) prowadzi działalność rolniczą od co najmniej 5 lat.
-3. Umowa, októrej mowa wart. 7, może być zawarta zosobą prawną albo jednostką organizacyjną nieposiadającą osobowości prawnej, jeżeli działalność rolnicza należy zakresu jej działania.
-9.1. Na wniosek rolnika, który ma możliwości przekazania całości części rolnego warunkach określonych wart. 6 iart. 8, wskazane we wniosku nieruchomości wchodzące skład tego przejmuje nieodpłatnie własność Skarbu Państwa.
-Na własność Skarbu Państwa mogą być przejęte wyłącznie nieruchomości wolne od obciążeń, wyjątkiem służebności gruntowych.
-3. Przejęcie nieruchomości, których mowa ust. 1, następuje drodze decyzji Prezesa Agencji Własności Rolnej Skarbu Państwa.
-4. Od decyzji, której mowa ust. 3, przysługuje odwołanie ministra właściwego spraw rozwoju wsi, terminie zasadach określonych przepisach Kodeksu postępowania administracyjnego.
-5. Nieruchomości przejęte wdrodze decyzji, októrej mowa wust. 3, wchodzą wskład Zasobu Własności Rolnej Skarbu Państwa.
-6. Agencja Własności Rolnej Skarbu Państwa gospodaruje przejętymi nieruchomościami zasadach określonych przepisach gospodarowaniu nieruchomościami rolnymi Skarbu Państwa.
-10.Warunek zaprzestania prowadzenia działalności rolniczej, którym mowa art. 3 ust. 1 pkt 4, uważa za spełniony, jeżeli przekazaniu gospodarstwa rolnego ani uprawniony strukturalnej, ani jego małżonek: właścicielem (współwłaścicielem) posiadaczem działki gruntu, która ze względu powierzchnię podlega opodatkowaniu podatkiem rolnym,
-2) prowadzi działu specjalnego produkcji rolnej rozumieniu przepisów podatku dochodowym od osób fizycznych, wyjątkiem prowadzenia pasiek.
-szu Ubezpieczeń Społecznych.
-13. Wypłata ulega zawieszeniu, zzastrzeżeniem ust. 3 i4, jeżeli uprawniony podejmie prowadzenie działalności podlegającej obowiązkowi ubezpieczenia społecznego bez względu wysokość osiąganego przychodu.
-Za działalność podlegającą obowiązkowi ubezpieczenia społecznego uważa zatrudnienie inną pracę zarobkową albo prowadzenie pozarolniczej działalności, októrych mowa wprzepisach oemeryturach rentach Funduszu Ubezpieczeń Społecznych oraz przepisach osystemie ubezpieczeń społecznych.
-3. W przypadku podjęcia prowadzenia pozarolniczej działalności, októrej mowa wust. 2, wypłata renty ulega zawieszeniu wpołowie.
-4. Wprzypadku podjęcia prowadzenia działalności innej niż wymieniona wust. 3 wypłata strukturalnej ulega zawieszeniu wcałości.
-14.Rentę strukturalną wypłaca osiągnięcia wieku emerytalnego albo czasu nabycia prawa emerytury ubezpieczenia społecznego zaopatrzenia emerytalnego, dłużej jednak niż przez 5 lat.
-15. Jeżeli uprawniony jego małżonek podejmie prowadzenie działalności rolniczej jako właściciel (współwłaściciel) posiadacz rolnego, strukturalnej ustaje inie podlega przywróceniu.
-16. Prezes Kasy Rolniczego Ubezpieczenia Społecznego, zwany dalej ŃPrezesem Kasy”, wydaje decyzje sprawach przyznania rent strukturalnych oraz wypłaca świadczenia ztego tytułu.
-Prezes Kasy może upoważnić pracowników Kasy Rolniczego Ubezpieczenia Społecznego, zwanej dalej ŃKasą”, wydawania decyzji sprawach, których mowa wust.
-3. Od decyzji Prezesa Kasy sprawie przyznania przysługuje odwołanie ministra właściwego spraw rozwoju wsi terminie za4. Wniosek złożony terminie, którym mowa wust. 1, zostanie odesłany rolnikowi.
-5. Jeżeli rolnik pozostaje związku małżeńskim, wniosek powinien obejmować także małżonka rolnika.
-6. Do wniosku należy dołączyć dokumenty uzasadniające strukturalnej.
-7. Renty strukturalne przyznane woparciu owniosek, októrym mowa wust. 1, wypłaca wcześniej niż od dnia 1 stycznia następnego roku kalendarzowego.
-18. Prezes Kasy przeprowadza weryfikację wniosków, októrych mowa wart. 17 ust. 2, wterminie dnia 30 czerwca danego roku.
-Jeżeli wyniku weryfikacji wniosku okaże się, że: rolnik spełnia inie spełni dnia 31 grudnia następnego roku kalendarzowego warunków określonych wart. 3 ust. 1 pkt 1—3
-2) rolnik właścicielem rolnego opowierzchni co najmniej 3 ha, współwłaścicielem takiego wraz zmałżonkiem,ani właścicielem takiego małżonek rolnika Prezes Kasy wydaje decyzję odmawiającą przyznania prawa strukturalnej.
-3. Jeżeli wyniku weryfikacji złożonego wniosku okaże się,że rolnik spełnia spełni dnia 31 grudnia następnego roku kalendarzowego warunkiokreślone wart. 3 ust. 1 pkt 1—3 oraz właścicielem gospodarstwa rolnego powierzchni co najmniej 3 ha współwłaścicielem takiego wraz małżonkiem, właścicielem takiego małżonek rolnika, Prezes Kasy wydaje postanowienie ospełnieniu tych warunków.
-4. Na postanowienie, októrym mowa wust. 3, przysługuje zażalenie.
-5. W postanowieniu, którym mowa ust. 3, zamieszcza również informacje opozostałych warunkach niezbędnych przyznania strukturalnej.
-6. Podczas weryfikacji wniosku Prezes Kasy stwier20. Prezes Kasy może wezwać wnioskodawcę oraz przejmującego gospodarstwo złożenia wyjaśnień dodatkowych dokumentów mających wpływ ustalenie prawa strukturalnej.
-Minister właściwy spraw rozwoju wsi określi, drodze rozporządzenia, szczegółowe zasady tryb postępowania sprawie przyznawania wypłaty rent strukturalnych, mając uwadze procedurę składania, przyjmowania, dokumentowania weryfikacji wniosków ustalenie prawa strukturalnej, przyznawania prawa iwypłaty świadczeń oraz dokumentowania przekazania rolnego zaprzestania prowadzenia działalności rolniczej.
-21. Renty strukturalne finansowane są zbudżetu państwa.
-Kwota środków przeznaczanych finansowarent strukturalnych określana corocznie wustawie budżetowej.
-3. Ârodki finansowe przeznaczone wypłatę rent strukturalnych Prezes Kasy gromadzi odrębnym rachunku bankowym.
-4. Ze środków, októrych mowa wust. 3, finansuje także koszty obsługi rent strukturalnych przez Kasę wysokości 3,5% planowanych wydatków te świadczenia.
-5. Przychody irozchody środków, októrych mowa wust. 2, Prezes Kasy ujmuje wplanie rzeczowo-finansowym Kasy oraz wsprawozdaniu rocznym.
-22. Wustawie zdnia 26 lipca 1991 r. opodatku dochodowym od osób fizycznych (Dz. U. 2000 r.
-Nr14, poz. 176, 22, poz. 270, 60, poz. 703, 70, poz. 816, 104, poz. 1104, 117, poz. 1228 iNr 122, poz. 1324 oraz 2001 r. 4, poz. 27 8, poz. 64) wart. 34 wprowadza następujące zmiany: poz.484, z2000 r. 6, poz. 70, 12, poz. 136, 48, poz. 550 iNr 122, poz. 1323 orazz2001 r. 4, poz. 24) art.29 ust. 3bpkt 1 otrzymuje brzmienie: Ń1) rolnicy podlegający obowiązkowemu ubezpieczeniu emerytalno-rentowemu podstawie przepisów ubezpieczeniu społecznym rolników, jeżeli mają miejsce zamieszkania posiadają gospodarstwo rolne gminie, terenie której położona nieruchomość wystawiana przetargu, oraz zamierzają powiększyć to gospodarstwo powierzchni nieprzekraczającej 100 ha przeliczeniowych wrozumieniu przepisów opodatku rolnym lub”.
-24. W ustawie dnia 6 lutego 1997 r. pozumie przez to osobę objętą zaopatrzeniem emerytalno-rentowym pobierającą rentę strukturalną, podstawie odrębnych przepisów,”.
-25. Do przetargów wszczętych przed dniem wejścia życie niniejszej ustawy przepis art. 29 ust. 3b pkt 1 ustawy, której mowa art. 23, stosuje wbrzmieniu dotychczasowym.
-26. Ostateczny termin składania wniosków przyznanie upływa dniem 31marca 2010 r.
-27. Ustawa wchodzi wżycie zdniem 1 stycznia 2002 r.
-wszechnym ubezpieczeniu zdrowotnym (Dz. U. 28, poz. 153 75, poz. 468, 1998 r. 117, poz. 756, Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 540 ROZPORZÑDZENIE PREZESA RADY MINISTRÓW zdnia 21 maja 2001 r.
-zmieniające rozporządzenie wsprawie nadania statutu Urzędowi Regulacji Energetyki.
-Na podstawie art. 21 ust. 6 ustawy zdnia 10 kwietnia 1997 r. Prawo energetyczne (Dz. U. 54, poz. 348 158, poz. 1042, 1998 r. 94, poz. 594, 106, poz. 668 162, poz. 1126, 1999 r. 88, poz. 980, 91, poz. 1042 110, poz. 1255 oraz 2000 r. 43, poz. 489, 48, poz. 555 103, poz.1099) zarządza się, co następuje: § W załączniku rozporządzenia Prezesa Rady Ministrów dnia 15 paêdziernika 1997 r. sprawie 130, poz. 859 1998 r. 162, poz. 1151) § 3 wust. 1 wprowadza następujące zmiany: pkt 4 otrzymuje brzmienie: Ń4) Departament Promowania Konkurencji,”;
-2) dodaje pkt 13 wbrzmieniu: Ń13) Samodzielny Zespół Spraw Ochrony Informacji Niejawnych.” nadania statutu Urzędowi Regulacji Energetyki (Dz. U.
-§ Rozporządzenie wchodzi życie upływie 14dni od dnia ogłoszenia.
-Prezes Rady Ministrów: J. Buzek 541 ROZPORZÑDZENIE PREZESA RADY MINISTRÓW zdnia 21 maja 2001 r.
+#### Rozdział 1 Przepisy ogólne
 
-#### Rozdział 1 Wsprawach nieuregulowanych wustawie stosuje odpowiednio przepisy ubezpieczeniu społeczPrzepisy ogólne nym rolników.
+**Art. 1.**
 
-#### Rozdział 2 Warunki nabywania prawa
+1. Ustawa określa:
 
-#### Rozdział 4 Zasady postępowania wsprawach rent strukturalnych
+- **1)** warunki nabywania prawa do renty strukturalnej;
+- **2)** wysokość i zasady wypłacania renty strukturalnej;
+- **3)** zasady postępowania w sprawach rent strukturalnych;
+- **4)** sposób finansowania rent strukturalnych.
+
+2. W sprawach nieuregulowanych w ustawie stosuje się odpowiednio przepisy o ubezpieczeniu społecznym rolników.
+
+**Art. 2.** Określenia użyte w ustawie oznaczają:
+
+#### Rozdział 2 Warunki nabywania prawa do renty strukturalnej
+
+**Art. 3.**
+
+1. Prawo do renty strukturalnej przysługuje rolnikowi, który spełnia łącznie następujące warunki:
+
+- **1)** ma ukończone 55 lat, lecz nie osiągnął 60 lat, jeżeli jest kobietą, albo ma ukończone 60 lat, lecz nie osiągnął 65 lat, jeżeli jest mężczyzną;
+- **2)** podlegał ubezpieczeniu emerytalno-rentowemu, określonemu w przepisach o ubezpieczeniu społecznym rolników, przez okres wymagany do uzyskania emerytury rolniczej z chwilą ukończenia 55 lat, jeżeli jest kobietą, albo 60 lat, jeżeli jest mężczyzną;
+- **3)** prowadził nieprzerwanie działalność rolniczą w okresie 10 lat bezpośrednio poprzedzających zgłoszenie wniosku o rentę strukturalną i działalność ta była jedynym lub głównym źródłem jego utrzymania;
+- **4)** zaprzestał prowadzenia działalności rolniczej;
+- **5)** przekazał gospodarstwo rolne o łącznej powierzchni wynoszącej co najmniej 3 ha.
+
+2. Uznaje się, że działalność rolnicza była jedynym lub głównym źródłem utrzymania rolnika, jeżeli w okresie 10 lat, o którym mowa w ust. 1 pkt 3, podlegał on ubezpieczeniu emerytalno-rentowemu, określonemu w przepisach o ubezpieczeniu społecznym rolników, przez co najmniej 5 lat, z czego co najmniej 2 lata tego ubezpieczenia przypadały na okres bezpośrednio przed zgłoszeniem wniosku o rentę strukturalną.
+
+3. Gospodarstwo rolne, o którym mowa w ust. 1 pkt 5, może być przekazane, jeżeli przez okres co najmniej ostatnich 5 lat przed złożeniem wniosku o przyznanie renty strukturalnej stanowiło własność rolnika lub jego małżonka lub współwłasność małżonków.
+
+4. Przepisy dotyczące rolnika stosuje się odpowiednio do małżonka rolnika.
+
+**Art. 4.**
+
+1. Jeżeli rolnik pozostaje w związku małżeńskim, postępowanie w sprawie renty strukturalnej dotyczy obojga małżonków.
+
+2. Renta strukturalna przysługuje, jeżeli rolnik i jego małżonek spełniają jednocześnie warunki określone w art. 3 ust. 1 pkt 1–4, z zastrzeżeniem art. 5 ust. 2, oraz przekażą gospodarstwo rolne, o którym mowa w art. 3 ust. 1 pkt 5.
+
+**Art. 5.**
+
+1. Prawo do renty strukturalnej nie przysługuje rolnikowi, który ma ustalone prawo do emerytury lub renty z ubezpieczenia społecznego lub zaopatrzenia emerytalnego albo który jest objęty innym niż rolnicze ubezpieczeniem społecznym lub zaopatrzeniem emerytalnym.
+
+2. Jeżeli do rolnika mają zastosowanie przepisy ust. 1, prawo do renty strukturalnej przysługuje jego małżonkowi, o ile spełnia warunki określone w art. 3 ust. 1.
+
+3. Prawo do renty strukturalnej nie przysługuje, jeżeli w skład gospodarstwa rolnego, o którym mowa w art. 3 ust. 1 pkt 5, wchodzą grunty przejęte w trybie niniejszej ustawy, chyba że rolnik prowadził działalność rolniczą w powiększonym gospodarstwie co najmniej 5 lat.
+
+**Art. 6.**
+
+1. Warunek przekazania gospodarstwa rolnego, o którym mowa w art. 3 ust. 1 pkt 5, uważa się za spełniony, jeżeli grunty wchodzące w skład tego gospodarstwa przekazane zostały na powiększenie jednego lub kilku gospodarstw już istniejących, z zastrzeżeniem ust. 2 i 3.
+
+2. Powierzchnia powiększonego gospodarstwa nie może być mniejsza niż 15 ha, z zastrzeżeniem ust. 3.
+
+3. Rada Ministrów może określić, w drodze rozporządzenia, województwa lub powiaty, w których powierzchnia powiększonego gospodarstwa może być mniejsza od 15 ha, określając wymaganą w danym województwie lub powiecie powierzchnię powiększonego gospodarstwa, przy uwzględnieniu średniej powierzchni gospodarstwa rolnego w województwie lub powiecie.
+
+**Art. 7.**
+
+1. Umowa o przekazaniu gospodarstwa rolnego, o którym mowa w art. 3 ust. 1 pkt 5, poza wymaganiami określonymi odrębnymi przepisami, powinna zawierać oświadczenia stron tej umowy o spełnieniu warunków określonych w art. 6 i art. 8.
+
+2. (uchylony)
+
+**Art. 8.**
+
+1. Umowa, o której mowa w art. 7, może być zawarta z osobą fizyczną, która spełnia łącznie następujące warunki:
+
+- **1)** jest rolnikiem;
+- **2)** posiada kwalifikacje rolnicze;
+- **3)** nie ma ustalonego prawa do emerytury lub renty z ubezpieczenia społecznego lub zaopatrzenia emerytalnego.
+
+2. Uważa się, że osoba fizyczna przejmująca gospodarstwo rolne posiada kwalifikacje rolnicze, jeżeli:
+
+- **1)** uzyskała zasadnicze zawodowe, zasadnicze branżowe, średnie lub średnie branżowe albo wyższe wykształcenie rolnicze lub ekonomiczne o specjalności przydatnej do prowadzenia działalności rolniczej, lub
+- **2)** prowadzi działalność rolniczą od co najmniej 5 lat.
+
+3. Umowa, o której mowa w art. 7, może być zawarta z osobą prawną albo jednostką organizacyjną nieposiadającą osobowości prawnej, jeżeli działalność rolnicza należy do zakresu jej działania.
+
+**Art. 9.**
+
+1. Na wniosek rolnika, który nie ma możliwości przekazania całości lub części gospodarstwa rolnego na warunkach określonych w art. 6 i art. 8, wskazane we wniosku nieruchomości wchodzące w skład tego gospodarstwa przejmuje się nieodpłatnie na własność Skarbu Państwa.
+
+2. Na własność Skarbu Państwa mogą być przejęte wyłącznie nieruchomości wolne od obciążeń, z wyjątkiem służebności gruntowych.
+
+3. Przejęcie nieruchomości, o których mowa w ust. 1, następuje w drodze decyzji Prezesa Agencji Własności Rolnej Skarbu Państwa .
+
+4. Od decyzji, o której mowa w ust. 3, przysługuje odwołanie do ministra właściwego do spraw rozwoju wsi, w terminie i na zasadach określonych w przepisach Kodeksu postępowania administracyjnego.
+
+5. Nieruchomości przejęte w drodze decyzji, o której mowa w ust. 3, wchodzą w skład Zasobu Własności Rolnej Skarbu Państwa.
+
+6. Agencja Własności Rolnej Skarbu Państwa gospodaruje przejętymi nieruchomościami na zasadach określonych w przepisach o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa.
+
+**Art. 10.** Warunek zaprzestania prowadzenia działalności rolniczej, o którym mowa w art. 3 ust. 1 pkt 4, uważa się za spełniony, jeżeli po przekazaniu gospodarstwa rolnego ani uprawniony do renty strukturalnej, ani jego małżonek:
+
+#### Rozdział 3 Wysokość i zasady wypłacania renty strukturalnej
+
+**Art. 11.**
+
+1. Wysokość renty strukturalnej stanowi półtorakrotność najniższej emerytury.
+
+2. Jeżeli do renty strukturalnej uprawniony jest rolnik i jego małżonek, każdemu z uprawnionych przysługuje świadczenie w wysokości określonej w ust. 1.
+
+**Art. 12.** W przypadku zmiany wysokości najniższej emerytury rentę strukturalną wypłaca się w odpowiednio zmienionej wysokości, z uwzględnieniem terminów waloryzacji emerytur i rent przysługujących na podstawie przepisów o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
+
+**Art. 13.**
+
+1. Wypłata renty strukturalnej ulega zawieszeniu, z zastrzeżeniem ust. 3 i 4, jeżeli uprawniony do renty strukturalnej podejmie prowadzenie działalności podlegającej obowiązkowi ubezpieczenia społecznego bez względu na wysokość osiąganego przychodu.
+
+2. Za działalność podlegającą obowiązkowi ubezpieczenia społecznego uważa się zatrudnienie lub inną pracę zarobkową albo prowadzenie pozarolniczej działalności, o których mowa w przepisach o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz przepisach o systemie ubezpieczeń społecznych.
+
+3. W przypadku podjęcia prowadzenia pozarolniczej działalności, o której mowa w ust. 2, wypłata renty strukturalnej ulega zawieszeniu w połowie.
+
+4. W przypadku podjęcia prowadzenia działalności innej niż wymieniona w ust. 3 wypłata renty strukturalnej ulega zawieszeniu w całości.
+
+**Art. 14.** Rentę strukturalną wypłaca się do osiągnięcia wieku emerytalnego albo do czasu nabycia prawa do renty lub emerytury z ubezpieczenia społecznego lub zaopatrzenia emerytalnego, nie dłużej jednak niż przez 5 lat.
+
+**Art. 15.** Jeżeli uprawniony do renty strukturalnej lub jego małżonek podejmie prowadzenie działalności rolniczej jako właściciel (współwłaściciel) lub posiadacz gospodarstwa rolnego, prawo do renty strukturalnej ustaje i nie podlega przywróceniu.
+
+#### Rozdział 4 Zasady postępowania w sprawach rent strukturalnych
+
+**Art. 16.**
+
+1. Prezes Kasy Rolniczego Ubezpieczenia Społecznego, zwany dalej „Prezesem Kasy”, wydaje decyzje w sprawach przyznania rent strukturalnych oraz wypłaca świadczenia z tego tytułu.
+
+2. Prezes Kasy może upoważnić pracowników Kasy Rolniczego Ubezpieczenia Społecznego, zwanej dalej „Kasą”, do wydawania decyzji w sprawach, o których mowa w ust. 1.
+
+3. Od decyzji Prezesa Kasy w sprawie przyznania renty strukturalnej przysługuje odwołanie do ministra właściwego do spraw rozwoju wsi w terminie i na zasadach określonych w przepisach Kodeksu postępowania administracyjnego.
+
+**Art. 17.**
+
+1. Wniosek o przyznanie renty strukturalnej, zwany dalej „wnioskiem”, należy złożyć w I kwartale danego roku.
+
+2. Postępowanie w sprawie przyznania renty strukturalnej wszczyna się na podstawie wniosku rolnika złożonego w jednostce organizacyjnej Kasy, w której jest on ubezpieczony.
+
+3. Do złożenia wniosku w danym roku uprawnieni są rolnicy, którzy ukończą wiek, o którym mowa w art. 3 ust. 1 pkt 1, nie później niż do dnia 31 grudnia następnego roku kalendarzowego.
+
+4. Wniosek złożony po terminie, o którym mowa w ust. 1, zostanie odesłany rolnikowi.
+
+5. Jeżeli rolnik pozostaje w związku małżeńskim, wniosek powinien obejmować także małżonka rolnika.
+
+6. Do wniosku należy dołączyć dokumenty uzasadniające prawo do renty strukturalnej.
+
+7. Renty strukturalne przyznane w oparciu o wniosek, o którym mowa w ust. 1, wypłaca się nie wcześniej niż od dnia 1 stycznia następnego roku kalendarzowego.
+
+**Art. 18.**
+
+1. Prezes Kasy przeprowadza weryfikację wniosków, o których mowa w art. 17 ust. 2, w terminie do dnia 30 czerwca danego roku.
+
+2. Jeżeli w wyniku weryfikacji wniosku okaże się, że:
+
+- **1)** rolnik nie spełnia i nie spełni do dnia 31 grudnia następnego roku kalendarzowego warunków określonych w art. 3 ust. 1 pkt 1–3 lub
+- **2)** rolnik nie jest właścicielem gospodarstwa rolnego o powierzchni co najmniej 3 ha, współwłaścicielem takiego gospodarstwa wraz z małżonkiem, ani właścicielem takiego gospodarstwa nie jest małżonek rolnika – Prezes Kasy wydaje decyzję odmawiającą przyznania prawa do renty strukturalnej.
+
+3. Jeżeli w wyniku weryfikacji złożonego wniosku okaże się, że rolnik spełnia lub spełni do dnia 31 grudnia następnego roku kalendarzowego warunki określone w art. 3 ust. 1 pkt 1–3 oraz jest właścicielem gospodarstwa rolnego o powierzchni co najmniej 3 ha lub współwłaścicielem takiego gospodarstwa wraz z małżonkiem, lub właścicielem takiego gospodarstwa jest małżonek rolnika, Prezes Kasy wydaje postanowienie o spełnieniu tych warunków.
+
+4. Na postanowienie, o którym mowa w ust. 3, nie przysługuje zażalenie.
+
+5. W postanowieniu, o którym mowa w ust. 3, zamieszcza się również informacje o pozostałych warunkach niezbędnych do przyznania renty strukturalnej.
+
+6. Podczas weryfikacji wniosku Prezes Kasy stwierdza także, czy zachodzą okoliczności, o których mowa w art. 5, oraz ustala, czy dalsze postępowanie o rentę strukturalną dotyczyć będzie małżonków, czy tylko jednego z nich. W zakresie uprawnień każdego z małżonków Prezes Kasy wydaje odpowiednio decyzję lub postanowienie, o których mowa w ust. 2 i 3.
+
+**Art. 19.**
+
+1. Prezes Kasy wydaje decyzję w sprawie przyznania renty strukturalnej w ciągu 30 dni od wyjaśnienia ostatniej okoliczności niezbędnej do wydania decyzji.
+
+2. Rentę strukturalną wypłaca się od miesiąca, w którym zostały spełnione wszystkie warunki określone w art. 3 ust. 1, z uwzględnieniem art. 17 ust. 7.
+
+**Art. 20.**
+
+1. Prezes Kasy może wezwać wnioskodawcę oraz przejmującego gospodarstwo do złożenia wyjaśnień lub dodatkowych dokumentów mających wpływ na ustalenie prawa do renty strukturalnej.
+
+2. Minister właściwy do spraw rozwoju wsi określi, w drodze rozporządzenia, szczegółowe zasady i tryb postępowania w sprawie przyznawania i wypłaty rent strukturalnych, mając na uwadze procedurę składania, przyjmowania, dokumentowania i weryfikacji wniosków o ustalenie prawa do renty strukturalnej, przyznawania prawa i wypłaty świadczeń oraz dokumentowania przekazania gospodarstwa rolnego i zaprzestania prowadzenia działalności rolniczej.
 
 #### Rozdział 5 Sposób finansowania rent strukturalnych
 
-#### Rozdział 6 Zmiany wprzepisach obowiązujących, przepisy przejściowe iprzepis końcowy
+**Art. 21.**
+
+1. Renty strukturalne finansowane są z budżetu państwa.
+
+2. Kwota środków przeznaczanych na finansowanie rent strukturalnych określana jest corocznie w ustawie budżetowej.
+
+3. Środki finansowe przeznaczone na wypłatę rent strukturalnych Prezes Kasy gromadzi na odrębnym rachunku bankowym.
+
+4. Ze środków, o których mowa w ust. 3, finansuje się także koszty obsługi rent strukturalnych przez Kasę w wysokości do 3,5% planowanych wydatków na te świadczenia.
+
+5. Przychody i rozchody środków, o których mowa w ust. 2, Prezes Kasy ujmuje w planie rzeczowo-finansowym Kasy oraz w sprawozdaniu rocznym.
+
+#### Rozdział 6 Zmiany w przepisach obowiązujących, przepisy przejściowe i przepis końcowy
+
+**Art. 22.** (pominięty)
+
+**Art. 23.** (pominięty)
+
+**Art. 24.** (pominięty)
+
+**Art. 25.** (pominięty)
+
+**Art. 26.** Ostateczny termin składania wniosków o przyznanie renty strukturalnej upływa z dniem 31 grudnia 2003 r.
+
+**Art. 27.** Ustawa wchodzi w życie z dniem 1 stycznia 2002 r.
 

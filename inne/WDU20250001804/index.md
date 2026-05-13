@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 17 grudnia
+# Ustawa z dnia 21 listopada 2025 r. o zmianie ustawy o podatku od wydobycia niektórych kopalin oraz niektórych innych ust
+
+*USTAWA dnia 21 listopada 2025 o zmianie ustawy o podatku od wydobycia niektórych kopalin oraz niektórych innych ustaw*
 
 | Pole | Wartość |
 |---|---|
@@ -24,84 +26,83 @@ domain: null
 | Ostatnia zmiana | 2026-01-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001804) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1804/text.pdf) |
 
-USTAWA dnia 21 listopada o zmianie o podatku od wydobycia niektórych kopalin niektórych innych ustaw
-
-**Art. 1.** ustawie dnia 2 marca 2012 o podatku od wydobycia niektórych kopalin (Dz. 2022 1539) wprowadza się następujące zmiany:
+**Art. 1.** ustawie dnia 2 marca 2012 o podatku od wydobycia niektórych kopalin (Dz. U. 2022 poz. 1539) wprowadza się następujące zmiany:
 
 **Art. 10c.**
 
-1. Prawo odliczenia od podatku wysokości określonej art. 10b ust. 1 odniesieniu kwalifikowanych nakładów inwestycyjnych poniesionych dnia poprzedzającego dzień, którym po raz pierwszy powstał obowiązek podatkowy tytułu czynności, o której mowa art. 5 ust. 1 lub 2, przysługuje również podmiotowi niebędącemu podatnikiem, któremu udzielone koncesje na poszukiwanie lub rozpoznawanie złóż zawierających miedź srebro lub koncesje na wydobycie miedzi srebra, ale który związku tymi koncesjami jeszcze nie wydobywa miedzi srebra.
+1. Prawo odliczenia od podatku wysokości określonej art. 10b 1 odniesieniu kwalifikowanych nakładów inwestycyjnych poniesionych dnia poprzedzającego dzień, którym po raz pierwszy powstał obowiązek podatkowy tytułu czynności, o której mowa art. 5 1 lub 2, przysługuje również podmiotowi niebędącemu podatnikiem, któremu zostały udzielone koncesje na poszukiwanie lub rozpoznawanie złóż zawierających miedź oraz srebro lub koncesje na wydobycie miedzi oraz srebra, ale który związku tymi koncesjami jeszcze nie wydobywa miedzi oraz srebra.
 
-2. przypadku podmiotu, o którym mowa ust. 1, wysokość przysługującego odliczenia, o którym mowa art. 10b ust. 1, jest sumowana narastająco dnia poprzedzającego dzień powstania obowiązku podatkowego tytułu czynności, o której mowa art. 5 ust. 1 lub 2, a następnie rozliczana za miesięczne okresy rozliczeniowe zgodnie ust. 3–5.
+2. przypadku podmiotu, o którym mowa 1, wysokość przysługującego odliczenia, o którym mowa art. 10b 1, jest sumowana narastająco dnia poprzedzającego dzień powstania obowiązku podatkowego tytułu czynności, o której mowa art. 5 1 lub 2, a następnie rozliczana za miesięczne okresy rozliczeniowe zgodnie 3–5.
 
-3. Kwalifikowane nakłady inwestycyjne poniesione dnia poprzedzającego dzień powstania obowiązku podatkowego tytułu czynności, o której mowa art. 5 ust. 1 lub 2, mogą być rozliczone ramach przysługującego odliczenia, o którym mowa art. 10b ust. 1, za miesięczny okres rozliczeniowy, którym podmiot, o którym mowa ust. 1, stał się podatnikiem tytułu czynności, o której mowa art. 5 ust. 1 lub 2.
+3. Kwalifikowane nakłady inwestycyjne poniesione dnia poprzedzającego dzień powstania obowiązku podatkowego tytułu czynności, o której mowa art. 5 1 lub 2, mogą być rozliczone ramach przysługującego odliczenia, o którym mowa art. 10b 1, za miesięczny okres rozliczeniowy, którym podmiot, o którym mowa 1, stał się podatnikiem tytułu czynności, o której mowa art. 5 1 lub 2.
 
-4. Nierozliczone rozliczeniu za miesięczny okres rozliczeniowy, o którym mowa ust. 3, kwalifikowane nakłady inwestycyjne poniesione przez podmiot, o którym mowa ust. 1, mogą być rozliczone za kolejne miesięczne okresy rozliczeniowe, jednak nie dłużej niż ciągu 15 lat, licząc od końca roku kalendarzowego, którym podmiot ten stał się podatnikiem tytułu czynności, o której mowa art. 5 ust. 1 lub 2.
+4. Nierozliczone rozliczeniu za miesięczny okres rozliczeniowy, o którym mowa 3, kwalifikowane nakłady inwestycyjne poniesione przez podmiot, o którym mowa 1, mogą być rozliczone za kolejne miesięczne okresy rozliczeniowe, jednak nie dłużej niż ciągu 15 lat, licząc od końca roku kalendarzowego, którym podmiot ten stał się podatnikiem tytułu czynności, o której mowa art. 5 1 lub 2.
 
-5. przypadku gdy po upływie 10 lat, licząc od końca roku kalendarzowego, którym poniesione kwalifikowane nakłady inwestycyjne, podmiot, o którym mowa ust. 1, dokona zbycia środka trwałego lub wartości niematerialnej prawnej, których dotyczą te nakłady, lub odda je używania innemu podmiotowi, podmiot, o którym mowa ust. 1, zachowuje prawo odliczenia tych kwalifikowanych nakładów inwestycyjnych. Przysługujące odliczenie kwalifikowanych nakładów inwestycyjnych następuje zgodnie ust. 3 4.
+5. przypadku gdy po upływie 10 lat, licząc od końca roku kalendarzowego, którym zostały poniesione kwalifikowane nakłady inwestycyjne, podmiot, o którym mowa 1, dokona zbycia środka trwałego lub wartości niematerialnej i prawnej, których dotyczą te nakłady, lub odda je używania innemu podmiotowi, podmiot, o którym mowa 1, zachowuje prawo odliczenia tych kwalifikowanych nakładów inwestycyjnych. Przysługujące odliczenie kwalifikowanych nakładów inwestycyjnych następuje zgodnie 3 i 4.
 
-6. przypadku podmiotu, o którym mowa ust. 1, obowiązek przechowywania ksiąg rachunkowych związanych ich prowadzeniem dokumentów trwa dnia poprzedzającego dzień powstania obowiązku podatkowego tytułu czynności, o której mowa art. 5 ust. 1 lub 2. Po tym dniu przechowywania tych dokumentacji ma zastosowanie termin określony art. 10b ust. 12.
+6. przypadku podmiotu, o którym mowa 1, obowiązek przechowywania ksiąg rachunkowych i związanych ich prowadzeniem dokumentów trwa dnia poprzedzającego dzień powstania obowiązku podatkowego tytułu czynności, o której mowa art. 5 1 lub 2. Po tym dniu przechowywania tych dokumentacji ma zastosowanie termin określony art. 10b 12.
 
-7. przypadku całkowitej rezygnacji prowadzenia przedsięwzięć inwestycyjnych przed dniem powstania obowiązku podatkowego tytułu czynności, o której mowa art. 5 ust. 1 lub 2, ustaje obowiązek przechowywania ksiąg rachunkowych zakresie, o którym mowa art. 10b ust. 10 11, związanych ich prowadzeniem dokumentów czelnikowi urzędu skarbowego oświadczenie o tej rezygnacji, które powinno zawierać:
+7. przypadku całkowitej rezygnacji prowadzenia przedsięwzięć inwestycyjnych przed dniem powstania obowiązku podatkowego tytułu czynności, o której mowa art. 5 1 lub 2, ustaje obowiązek przechowywania ksiąg czelnikowi urzędu skarbowego oświadczenie o tej rezygnacji, które powinno zawierać:
 
-- **1)** nazwę albo imię nazwisko adres siedziby albo zamieszkania, a także numer identyfikacji podatkowej (NIP) podmiotu;
-- **2)** wskazanie łącznej wysokości poniesionych kwalifikowanych nakładów inwestycyjnych łącznej wysokości kwalifikowanych nakładów inwestycyjnych, które przysługiwałyby odliczenia zgodnie art. 10b ust. 1, gdyby podmiot nie podjął decyzji o całkowitej rezygnacji prowadzenia przedsięwzięć inwestycyjnych;
-- **3)** wskazanie daty miejsca złożenia oświadczenia;
+- **1)** nazwę albo imię i nazwisko oraz adres siedziby albo zamieszkania, a także numer identyfikacji podatkowej (NIP) podmiotu;
+- **2)** wskazanie łącznej wysokości poniesionych kwalifikowanych nakładów inwestycyjnych i łącznej wysokości kwalifikowanych nakładów inwestycyjnych, które przysługiwałyby odliczenia zgodnie art. 10b 1, gdyby podmiot nie podjął decyzji o całkowitej rezygnacji prowadzenia przedsięwzięć inwestycyjnych;
+- **3)** wskazanie daty i miejsca złożenia oświadczenia;
 - **4)** czytelny podpis składającego oświadczenie.
 
-9. Podmiot, o którym mowa ust. 1, jest obowiązany, bez wezwania, składać właściwemu naczelnikowi urzędu skarbowego informację o wysokości kwalifikowanych nakładów inwestycyjnych za rok kalendarzowy terminie 25 stycznia roku następującego po tym roku kalendarzowym. przypadku gdy ciągu roku kalendarzowego podmiot, o którym mowa ust. 1, stał się podatnikiem tytułu czynności, o której mowa art. 5 ust. 1 lub 2, informację o wysokości kwalifikowanych nakładów inwestycyjnych za okres od początku tego roku dnia poprzedzającego dzień, którym stał się podatnikiem, podmiot ten składa terminie 25. dnia miesiąca następującego po miesiącu, którym stał się podatnikiem.
+9. Podmiot, o którym mowa 1, jest obowiązany, bez wezwania, składać właściwemu naczelnikowi urzędu skarbowego informację o wysokości kwalifikowanych nakładów inwestycyjnych za rok kalendarzowy terminie 25 stycznia roku następującego po tym roku kalendarzowym. przypadku gdy ciągu roku kalendarzowego podmiot, o którym mowa 1, stał się podatnikiem tytułu czynności, o której mowa art. 5 1 lub 2, informację o wysokości kwalifikowanych nakładów inwestycyjnych za okres od początku tego roku dnia poprzedzającego dzień, którym stał się podatnikiem, podmiot ten składa terminie 25. dnia miesiąca następującego po miesiącu, którym stał się podatnikiem.
 
-10. Informacja, o której mowa ust. 9, zawiera dane o przedsięwzięciach inwestycyjnych, kwalifikowanych nakładach inwestycyjnych przysługujących tego tytułu odliczeniach dane podmiotu, o którym mowa ust. 1.
+10. Informacja, o której mowa 9, zawiera dane o przedsięwzięciach inwestycyjnych, kwalifikowanych nakładach inwestycyjnych i przysługujących tego tytułu odliczeniach oraz dane podmiotu, o którym mowa 1.
 
-11. Informację, o której mowa ust. 9, składa się za pomocą środków komunikacji elektronicznej.
+11. Informację, o której mowa 9, składa się za pomocą środków komunikacji elektronicznej.
 
-12. Pełnomocnictwo podpisywania deklaracji składanej za pomocą środków komunikacji elektronicznej udzielone na podstawie przepisów działu III rozdziału 9a dnia 29 sierpnia 1997 Ordynacja podatkowa (Dz. 111, późn. zm. ) obejmuje również upoważnienie podpisywania informacji, o której mowa ust. 9.
+12. Pełnomocnictwo podpisywania deklaracji składanej za pomocą środków komunikacji elektronicznej udzielone na podstawie przepisów działu III rozdziału 9a ustawy dnia 29 sierpnia 1997 – Ordynacja podatkowa (Dz. U. 2025 poz. 111, późn. zm. ) obejmuje również upoważnienie podpisywania informacji, o której mowa
 
-13. Do korekty informacji, o której mowa ust. 9, stosuje się odpowiednio przepisy działu III rozdziału 10 dnia 29 sierpnia 1997 Ordynacja podatkowa.
+9.
 
-14. zakresie nieuregulowanym ust. 1–13 stosuje się odpowiednio przepisy art. 10b ust. 2, 3, 6 8–11.
+13. Do korekty informacji, o której mowa 9, stosuje się odpowiednio przepisy działu III rozdziału 10 ustawy dnia 29 sierpnia 1997 – Ordynacja podatkowa.
+
+14. zakresie nieuregulowanym 1–13 stosuje się odpowiednio przepisy art. 10b 2, 3, 6 i 8–11.
 
 15. Minister właściwy spraw finansów publicznych określi, drodze rozporządzenia:
 
-- **1)** szczegółowy zakres danych, jakie powinna zawierać informacja, o której mowa ust. 9, wraz niezbędnymi pouczeniami,
-- **2)** sposób przesyłania informacji, o której mowa ust. 9, za pomocą środków komunikacji elektronicznej,
-- **3)** rodzaje podpisu elektronicznego, którymi powinna być opatrzona informacja, o której mowa ust. 9 uwzględniając możliwość monitorowania poniesionych przez podmiot kwalifikowanych nakładów inwestycyjnych przysługujących tego tytułu odliczeń, potrzebę zapewnienia bezpieczeństwa, wiarygodności niezaprzeczalności danych zawartych informacji potrzebę ich ochrony przed nieuprawnionym dostępem, a także wymagania dla poszczególnych rodzajów podpisu elektronicznego.”;
+- **1)** szczegółowy zakres danych, jakie powinna zawierać informacja, o której mowa 9, wraz niezbędnymi pouczeniami,
+- **2)** sposób przesyłania informacji, o której mowa 9, za pomocą środków komunikacji elektronicznej,
+- **3)** rodzaje podpisu elektronicznego, którymi powinna być opatrzona informacja, o której mowa 9 – uwzględniając możliwość monitorowania poniesionych przez podmiot kwalifikowanych nakładów inwestycyjnych i przysługujących tego tytułu odliczeń, potrzebę zapewnienia bezpieczeństwa, wiarygodności i niezaprzeczalności danych zawartych informacji oraz potrzebę ich ochrony przed nieuprawnionym dostępem, a także wymagania dla poszczególnych rodzajów podpisu elektronicznego.”;
 - **7)** art. 11:
-    - **a)** ust. 1 wyrazy „w zakresie” zastępuje się wyrazami „w sprawie”,
-    - **b)** po ust. 1 dodaje się ust. 1a brzmieniu: „1a. Organami podatkowymi właściwymi dla podmiotów, o których mowa art. 10c ust. 1, są naczelnik urzędu skarbowego dyrektor izby administracji skarbowej, właściwi ze względu na:
+    - **a)** 1 wyrazy „w zakresie” zastępuje się wyrazami „w sprawie”,
+    - **b)** po 1 dodaje się 1a brzmieniu: „1a. Organami podatkowymi właściwymi dla podmiotów, o których mowa art. 10c 1, są naczelnik urzędu skarbowego oraz dyrektor izby administracji skarbowej, właściwi ze względu na:
 
-- **1)** adres siedziby podmiotu przypadku osób prawnych jednostek organizacyjnych niemających osobowości prawnej albo
-- **2)** miejsce zamieszkania podmiotu przypadku osób fizycznych.”,
-    - **c)** uchyla się ust. 2, pkt 1 otrzymuje brzmienie: „1) urzędy skarbowe lub urząd skarbowy izby administracji skarbowej lub izbę administracji skarbowej, których odpowiednio naczelnicy dyrektorzy są właściwi sprawie podatku właściwi dla podmiotów, o których mowa art. 10c ust. 1, a także terytorialny zasięg ich działania,”, po pkt 1 dodaje się pkt 1a brzmieniu: „1a) właściwość organów podatkowych, jeżeli nie można ustalić właściwości miejscowej sposób określony ust. 1 1a,”, część wspólna otrzymuje brzmienie: „– uwzględniając gospodarcze potrzeby podatników podmiotów, o których mowa art. 10c ust. 1, potrzebę zapewnienia sprawnego poboru podatku.”;
+- **1)** adres siedziby podmiotu – przypadku osób prawnych oraz jednostek organizacyjnych niemających osobowości prawnej albo
+    - **d)** 3: – pkt 1 otrzymuje brzmienie: „1) urzędy skarbowe lub urząd skarbowy i izby administracji skarbowej lub izbę administracji skarbowej, których odpowiednio naczelnicy i dyrektorzy są właściwi sprawie podatku i właściwi dla podmiotów, o których mowa art. 10c 1, a także terytorialny zasięg ich działania,”, – po pkt 1 dodaje się pkt 1a brzmieniu: „1a) właściwość organów podatkowych, jeżeli nie można ustalić właściwości miejscowej sposób określony 1 i 1a,”, – część wspólna otrzymuje brzmienie: „– uwzględniając gospodarcze potrzeby podatników i podmiotów, o których mowa art. 10c 1, oraz potrzebę zapewnienia sprawnego poboru podatku.”;
 
 - **8)** art. 12:
-    - **a)** wprowadzenie wyliczenia otrzymuje brzmienie: „Organ udzielający koncesji na wydobycie miedzi, srebra, gazu ziemnego lub ropy naftowej koncesji na poszukiwanie lub rozpoznawanie złóż zawierających miedź, srebro, gaz ziemny lub ropę naftową informuje ministra właściwego spraw finansów publicznych o:”,
-    - **b)** pkt 1 otrzymuje brzmienie: „1) udzieleniu, zmianie treści, stwierdzeniu wygaśnięcia cofnięciu koncesji na wydobycie miedzi, srebra, gazu ziemnego lub ropy naftowej koncesji na poszukiwanie lub rozpoznawanie złóż zawierających miedź, srebro, gaz ziemny lub ropę naftową o ich treści,”;
+    - **a)** wprowadzenie wyliczenia otrzymuje brzmienie: „Organ udzielający koncesji na wydobycie miedzi, srebra, gazu ziemnego lub ropy naftowej oraz koncesji na poszukiwanie lub rozpoznawanie złóż zawierających miedź, srebro, gaz ziemny lub ropę naftową informuje ministra właściwego spraw finansów publicznych o:”,
+    - **b)** pkt 1 otrzymuje brzmienie: „1) udzieleniu, zmianie treści, stwierdzeniu wygaśnięcia oraz cofnięciu koncesji na wydobycie miedzi, srebra, gazu ziemnego lub ropy naftowej oraz koncesji na poszukiwanie lub rozpoznawanie złóż zawierających miedź, srebro, gaz ziemny lub ropę naftową oraz o ich treści,”;
 
-- **9)** art. 16 ust. 2 wyrazy „w formie” zastępuje się wyrazami „w postaci”;
-- **10)** po art. 22a dodaje się art. 22b brzmieniu: „Art. 22b. 1. okresie od dnia 1 stycznia 2026 dnia 31 grudnia 2026 stawkę podatku za tonę wydobytej miedzi, o której mowa art. 7 ust. 2, oblicza się według następującego wzoru: stawka podatku = [0,033 × średnia cena miedzi + (0,001 × średnia cena miedzi) ] × 0,74 przy czym maksymalna stawka podatku wynosi 16 000 zł za tonę.
+- **9)** art. 16 2 wyrazy „w formie” zastępuje się wyrazami „w postaci”;
+- **10)** po art. 22a dodaje się art. 22b brzmieniu: „Art. 22b. 1. okresie od dnia 1 stycznia 2026 dnia 31 grudnia 2026 stawkę podatku za tonę wydobytej miedzi, o której mowa art. 7 2, oblicza się według następującego wzoru: stawka podatku = [0,033 × średnia cena miedzi + (0,001 × średnia cena miedzi) ] × 0,74 – przy czym maksymalna stawka podatku wynosi 16 000 zł za tonę.
 
-2. okresie od dnia 1 stycznia 2027 dnia 31 grudnia 2028 stawkę podatku za tonę wydobytej miedzi, o której mowa art. 7 ust. 2, oblicza się według następującego wzoru: stawka podatku = [0,033 × średnia cena miedzi + (0,001 × średnia cena miedzi) ] × 0,68 przy czym maksymalna stawka podatku wynosi 16 000 zł za tonę.
+2. okresie od dnia 1 stycznia 2027 dnia 31 grudnia 2028 stawkę podatku za tonę wydobytej miedzi, o której mowa art. 7 2, oblicza się według następującego wzoru: stawka podatku = [0,033 × średnia cena miedzi + (0,001 × średnia cena miedzi) ] × 0,68 – przy czym maksymalna stawka podatku wynosi 16 000 zł za tonę.
 
-3. okresie od dnia 1 stycznia 2026 dnia 31 grudnia 2026 stawkę podatku za kilogram wydobytego srebra, o której mowa art. 7 ust. 4, oblicza się według następującego wzoru: stawka podatku = [0,125 × średnia cena srebra + (0,001 × średnia cena srebra) ] × 0,74 przy czym maksymalna stawka podatku wynosi 2100 zł za kilogram.
+3. okresie od dnia 1 stycznia 2026 dnia 31 grudnia 2026 stawkę podatku za kilogram wydobytego srebra, o której mowa art. 7 4, oblicza się według następującego wzoru: stawka podatku = [0,125 × średnia cena srebra + (0,001 × średnia cena srebra) ] × 0,74 – przy czym maksymalna stawka podatku wynosi 2100 zł za kilogram.
 
-4. okresie od dnia 1 stycznia 2027 dnia 31 grudnia 2028 stawkę podatku za kilogram wydobytego srebra, o której mowa art. 7 ust. 4, oblicza się według następującego wzoru: stawka podatku = [0,125 × średnia cena srebra + (0,001 × średnia cena srebra) ] × 0,68 przy czym maksymalna stawka podatku wynosi 2100 zł za kilogram.”;
+4. okresie od dnia 1 stycznia 2027 dnia 31 grudnia 2028 stawkę podatku za kilogram wydobytego srebra, o której mowa art. 7 4, oblicza się według następującego wzoru: stawka podatku = [0,125 × średnia cena srebra + (0,001 × średnia cena srebra) ] × 0,68 – przy czym maksymalna stawka podatku wynosi 2100 zł za kilogram.”;
 
-- **11)** dodaje się załącznik brzmieniu określonym załączniku niniejszej ustawy.
+- **11)** dodaje się załącznik ustawy brzmieniu określonym załączniku niniejszej ustawy. „11. Przepisu 1 pkt 45 nie stosuje się wydatków dotyczących kwalifikowanych nakładów inwestycyjnych rozumieniu ustawy dnia 2 marca 2012 o podatku od wydobycia niektórych kopalin (Dz. U. 2022 poz. 1539 oraz 2025 poz. 1804), wysokości dokonanego odliczenia, o którym mowa art. 10b 1 tej ustawy.”.
 
-**Art. 2.** ustawie dnia 26 lipca 1991 o podatku dochodowym od osób fizycznych (Dz. 163, późn. zm. ) art. 23 dodaje się ust. 11 brzmieniu: „11. Przepisu ust. 1 pkt 45 nie stosuje się wydatków dotyczących kwalifikowanych nakładów inwestycyjnych rozumieniu dnia 2 marca 2012 o podatku od wydobycia niektórych kopalin (Dz. 2022 1539
+**Art. 3.** ustawie dnia 15 lutego 1992 o podatku dochodowym od osób prawnych (Dz. U. 2025 poz. 278, późn. zm. ) art. 16 dodaje się 10 brzmieniu: „10. Przepisu 1 pkt 48 nie stosuje się wydatków dotyczących kwalifikowanych nakładów inwestycyjnych rozumieniu ustawy dnia 2 marca 2012 o podatku od wydobycia niektórych kopalin (Dz. U. 2022 poz. 1539 oraz 2025 poz. 1804), wysokości dokonanego odliczenia, o którym mowa art. 10b 1 tej ustawy.”.
 
-**Art. 4.** ustawie dnia 29 sierpnia 1997 Ordynacja podatkowa (Dz. 111, późn. zm. ) art. 272 pkt 7 kropkę zastępuje się średnikiem dodaje się pkt 8 brzmieniu: „8) sprawdzenie terminowości składania informacji o wysokości kwalifikowanych nakładów inwestycyjnych zgodnie przepisami dnia 2 marca 2012 o podatku od wydobycia niektórych kopalin (Dz. 2022 1539 1804), stwierdzenie formalnej poprawności tych informacji weryfikację danych nich zawartych.”.
+**Art. 4.** ustawie dnia 29 sierpnia 1997 – Ordynacja podatkowa (Dz. U. 2025 poz. 111, późn. zm. ) art. 272 pkt 7 kropkę zastępuje się średnikiem i dodaje się pkt 8 brzmieniu: „8) sprawdzenie terminowości składania informacji o wysokości kwalifikowanych nakładów inwestycyjnych zgodnie przepisami ustawy dnia 2 marca 2012 o podatku od wydobycia niektórych kopalin (Dz. U. 2022 poz. 1539 oraz 2025 poz. 1804), stwierdzenie formalnej poprawności tych informacji oraz weryfikację danych nich zawartych.”.
 
 **Art. 5.**
 
-1. Przepis art. 10b art. 10c zmienianej art. 1 stosuje się kwalifikowanych nakładów inwestycyjnych poniesionych od dnia 1 stycznia 2026
+1. Przepis art. 10b i art. 10c ustawy zmienianej art. 1 stosuje się kwalifikowanych nakładów inwestycyjnych poniesionych od dnia 1 stycznia 2026
 
-2. przypadku podmiotu będącego podatnikiem podatku od wydobycia niektórych kopalin tytułu wydobycia miedzi srebra kwalifikowane nakłady inwestycyjne poniesione okresie od dnia 1 stycznia 2026 dnia 31 grudnia 2028 mogą zostać odliczone od podatku od wydobycia niektórych kopalin przypadającego zapłaty najpóźniej za grudzień 2043 r., przy czym po raz pierwszy mogą być odliczone od podatku od wydobycia niektórych kopalin przypadającego zapłaty za styczeń 2029
+2. przypadku podmiotu będącego podatnikiem podatku od wydobycia niektórych kopalin tytułu wydobycia miedzi oraz srebra kwalifikowane nakłady inwestycyjne poniesione okresie od dnia 1 stycznia 2026 dnia 31 grudnia 2028 mogą zostać odliczone od podatku od wydobycia niektórych kopalin przypadającego zapłaty najpóźniej za grudzień 2043 r., przy czym po raz pierwszy mogą być odliczone od podatku od wydobycia niektórych kopalin przypadającego zapłaty za styczeń 2029
 
-3. przypadku podmiotu niebędącego dniu 31 grudnia 2028 podatnikiem podatku od wydobycia niektórych kopalin tytułu wydobycia miedzi srebra kwalifikowane nakłady inwestycyjne poniesione okresie od dnia 1 stycznia 2026 dnia 31 grudnia 2028 mogą zostać odliczone od podatku od wydobycia niektórych kopalin przypadającego zapłaty najpóźniej za grudzień 15. roku, licząc od końca roku, którym podmiot ten stał się podatnikiem tego podatku.
+3. przypadku podmiotu niebędącego dniu 31 grudnia 2028 podatnikiem podatku od wydobycia niektórych kopalin tytułu wydobycia miedzi oraz srebra kwalifikowane nakłady inwestycyjne poniesione okresie od dnia 1 stycznia 2026 dnia 31 grudnia 2028 mogą zostać odliczone od podatku od wydobycia niektórych kopalin przypadającego zapłaty najpóźniej za grudzień 15. roku, licząc od końca roku, którym podmiot ten stał się podatnikiem tego podatku.
 
-**Art. 6.** Organ wydający koncesję na poszukiwanie lub rozpoznawanie złóż zawierających miedź srebro informuje ministra właściwego spraw finansów publicznych o wydanych koncesjach na poszukiwanie lub rozpoznawanie złóż zawierających miedź srebro o ich treści terminie 30 dni od dnia wejścia życie niniejszej ustawy.
+**Art. 6.** Organ wydający koncesję na poszukiwanie lub rozpoznawanie złóż zawierających miedź i srebro informuje ministra właściwego spraw finansów publicznych o wydanych koncesjach na poszukiwanie lub rozpoznawanie złóż zawierających miedź i srebro oraz o ich treści terminie 30 dni od dnia wejścia życie niniejszej ustawy.
 
-**Art. 7.** Ustawa wchodzi życie dniem 1 stycznia 2026 Prezydent Rzeczypospolitej Polskiej: K. Nawrocki WYKAZ RODZAJÓW PRZEDSIĘWZIĘĆ INWESTYCYJNYCH Lp. Rodzaje przedsięwzięć inwestycyjnych 1 budowa kompleksów szybowych infrastruktury towarzyszącej 2 budowa rozbudowa systemów klimatyzacji wentylacji 3 wykonanie wyrobisk zabudowa infrastruktury technicznej 4 zakup samojezdnych maszyn górniczych zakup lub modernizacja maszyn urządzeń zakup, modernizacja, wytworzenie lub ulepszenie 5 instalacji związanych wydobywaniem miedzi srebra lub składowaniem odpadów wydobywczych, tym odpadów powstałych procesie produkcji koncentratów 6 budowa komór maszyn ciężkich, komór przeglądowo-naprawczych lub komór funkcyjnych ich wyposażenie maszyny, urządzenia instalacje 7 budowa obiektu unieszkodliwiania odpadów wydobywczych, tym odpadów powstałych procesie produkcji koncentratów, infrastruktury towarzyszącej 8 budowa rozbudowa systemu gospodarowania wodą kopalnianą technologiczną 9 zakup lub modernizacja maszyn urządzeń zakup, modernizacja, wytworzenie lub ulepszenie instalacji związanych przeróbką rudy miedzi nabycie gruntów, tym prawa wieczystego ich użytkowania, celu wydobycia miedzi srebra 10 lub budowy (rozbudowy) obiektów składowania odpadów wydobywczych, tym odpadów powstałych procesie produkcji koncentratów nakłady na poszukiwanie rozpoznawanie złóż uzyskanie praw wydobywania miedzi 11 srebra ze złóż poniesione celu uzyskania koncesji lub związku uzyskanymi koncesjami odpowiednio na poszukiwanie, rozpoznawanie lub wydobywanie miedzi srebra 12 budowa, rozbudowa, przebudowa lub modernizacja budynków budowli związanych bezpośrednio realizacją przedsięwzięć inwestycyjnych 13 nakłady poniesione związane na likwidację zakończeniem infrastruktury działalności lub rekultywację wydobywczej gruntów miedzi po działalności srebra, górniczej tym nakłady
+**Art. 7.** Ustawa wchodzi życie dniem 1 stycznia 2026 Prezydent Rzeczypospolitej Polskiej: K. Nawrocki WYKAZ RODZAJÓW PRZEDSIĘWZIĘĆ INWESTYCYJNYCH Lp. Rodzaje przedsięwzięć inwestycyjnych 1 budowa kompleksów szybowych i infrastruktury towarzyszącej 2 budowa i rozbudowa systemów klimatyzacji i wentylacji 3 wykonanie wyrobisk oraz zabudowa infrastruktury technicznej 4 zakup samojezdnych maszyn górniczych zakup lub modernizacja maszyn i urządzeń oraz zakup, modernizacja, wytworzenie lub ulepszenie 5 instalacji związanych wydobywaniem miedzi oraz srebra lub składowaniem odpadów wydobywczych, tym odpadów powstałych procesie produkcji koncentratów 6 budowa komór maszyn ciężkich, komór przeglądowo-naprawczych lub komór funkcyjnych oraz ich wyposażenie maszyny, urządzenia i instalacje 7 budowa obiektu unieszkodliwiania odpadów wydobywczych, tym odpadów powstałych procesie produkcji koncentratów, oraz infrastruktury towarzyszącej 8 budowa i rozbudowa systemu gospodarowania wodą kopalnianą i technologiczną 9 zakup lub modernizacja maszyn i urządzeń oraz zakup, modernizacja, wytworzenie lub ulepszenie instalacji związanych przeróbką rudy miedzi nabycie gruntów, tym prawa wieczystego ich użytkowania, celu wydobycia miedzi oraz srebra 10 lub budowy (rozbudowy) obiektów składowania odpadów wydobywczych, tym odpadów powstałych procesie produkcji koncentratów nakłady na poszukiwanie i rozpoznawanie złóż oraz uzyskanie praw wydobywania miedzi 11 oraz srebra ze złóż poniesione celu uzyskania koncesji lub związku uzyskanymi koncesjami odpowiednio na poszukiwanie, rozpoznawanie lub wydobywanie miedzi oraz srebra 12 budowa, rozbudowa, przebudowa lub modernizacja budynków i budowli związanych bezpośrednio realizacją przedsięwzięć inwestycyjnych 13 nakłady poniesione związane na likwidację zakończeniem infrastruktury działalności lub rekultywację wydobywczej gruntów miedzi po działalności oraz srebra, górniczej tym nakłady
 

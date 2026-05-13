@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 19 sierpnia 2022 r.
+# o zmianie ustawy o Polskiej Organizacji Turystycznej oraz ustawy o grach hazardowych
+
+*USTAWA z dnia 5 sierpnia 2022 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +25,6 @@ domain: null
 | Data wydania | 2022-08-19 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001751) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1751/text.pdf) |
-
-Poz. 1751
-USTAWA z dnia 5 sierpnia 2022 r.
-o zmianie ustawy o Polskiej Organizacji Turystycznej oraz ustawy o grach hazardowych
 
 **Art. 1.** W ustawie z dnia 25 czerwca 1999 r. o Polskiej Organizacji Turystycznej (Dz. U. z 2022 r. poz. 1015) w art. 3:
 

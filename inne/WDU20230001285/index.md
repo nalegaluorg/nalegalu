@@ -10,7 +10,9 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 6 lipca 2023 r.
+# o konsumenckiej pożyczce lombardowej
+
+*USTAWA z dnia 14 kwietnia 2023 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,7 @@ domain: null
 | Ostatnia zmiana | 2024-07-31 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001285) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1285/text.pdf) |
 
-USTAWA z dnia 14 kwietnia 2023 r.
-o konsumenckiej pożyczce lombardowej
+Art. 51–56. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -33,7 +34,7 @@ o konsumenckiej pożyczce lombardowej
 
 **Art. 2.**
 
-1. Przepisy ustawy stosuje się także do umów o pożyczkę lombardową zawieranych z osobą fizyczną prowadzącą gospodarstwo rolne w rozumieniu art. 6 pkt 4 ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2023 r. poz. 208, 337 i 641).
+1. (uchylony)
 
 2. Przepisów ustawy nie stosuje się do banków, oddziałów banków zagranicznych oraz spółdzielczych kas oszczędnościowo-kredytowych.
 
@@ -47,7 +48,7 @@ o konsumenckiej pożyczce lombardowej
 
 - **1)** celem tej umowy jest oddanie do dyspozycji konsumentowi środków pieniężnych lub rzeczy oznaczonych tylko co do gatunku, wierzytelności lub innych praw majątkowych, których wartość jest lub może być określona kwotą pieniężną,
 - **2)** zawarcie tej umowy wiąże się z ustanowieniem zabezpieczenia spełniającego warunki, o których mowa w art. 3 pkt 10,
-- **3)** konsument jest zobowiązany do poniesienia kosztów związanych z tą umową w razie wątpliwości przyjmuje się, że strony zawarły umowę konsumenckiej pożyczki lombardowej.
+- **3)** konsument jest zobowiązany do poniesienia kosztów związanych z tą umową – w razie wątpliwości przyjmuje się, że strony zawarły umowę konsumenckiej pożyczki lombardowej.
 
 2. W przypadku gdy przedsiębiorca zawarł z konsumentem więcej niż jedną umowę, ale z zawartych umów wynika, że ich celem było ukształtowanie stosunku prawnego, o którym mowa w ust. 1, przyjmuje się, że strony zawarły umowę konsumenckiej pożyczki lombardowej. W takim przypadku przyjmuje się, że dniem zawarcia umowy konsumenckiej pożyczki lombardowej jest dzień zawarcia pierwszej z tych umów.
 
@@ -136,32 +137,32 @@ o konsumenckiej pożyczce lombardowej
     - **a)** zwrócić przedmiot zabezpieczenia lombardowego,
     - **b)** wystawić na żądanie odpowiednio konsumenta lub jego małżonka, lub współwłaściciela potwierdzenie przeniesienia własności przedmiotu zabezpieczenia lombardowego.
 
-3. W przypadku braku zapłaty przez konsumenta całości albo części całkowitej kwoty do spłaty w umówionym terminie albo w terminie ustalonym zgodnie z art. 16 ust. 2, przedmiot zabezpieczenia lombardowego staje się własnością przedsiębiorcy wykonującego działalność lombardową, chyba że przedmiot zabezpieczenia lombardowego nie stanowi własności konsumenta albo jego małżonek lub którykolwiek ze współwłaścicieli nie wyraził zgody na ustanowienie zabezpieczenia, jeżeli taka zgoda była wymagana przepisami prawa lub umowa konsumenckiej pożyczki lombardowej stanowi inaczej, albo przedsiębiorca wcześniej stał się właścicielem tego przedmiotu zabezpieczenia. Przepis art. 169 ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny stosuje się.
+3. W przypadku braku zapłaty przez konsumenta całości albo części całkowitej kwoty do spłaty w umówionym terminie albo w terminie ustalonym zgodnie z art. 16 ust. 2, przedmiot zabezpieczenia lombardowego staje się własnością przedsiębiorcy wykonującego działalność lombardową, chyba że przedmiot zabezpieczenia lombardowego nie stanowi własności konsumenta albo jego małżonek lub którykolwiek ze współwłaścicieli nie wyraził zgody na ustanowienie zabezpieczenia, jeżeli taka zgoda była wymagana przepisami prawa lub umowa konsumenckiej pożyczki lombardowej stanowi inaczej, albo przedsiębiorca wcześniej stał się właścicielem tego przedmiotu zabezpieczenia. Przepis art. 169 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny stosuje się.
 
 4. W przypadku gdy przedmiot zabezpieczenia lombardowego stał się własnością przedsiębiorcy wykonującego działalność lombardową, przedsiębiorca ten zaspokaja wierzytelność wynikającą z umowy konsumenckiej pożyczki lombardowej przez sprzedaż przedmiotu zabezpieczenia lombardowego w trybie określonym w ustawie.
 
 **Art. 12.**
 
-1. W przypadku wcześniejszej spłaty całości kwoty konsumenckiej pożyczki lombardowej całkowity koszt tej pożyczki pomniejszony o poniesione przez przedsiębiorcę bezzwrotne koszty sądowe lub bezzwrotne koszty na rzecz organów administracji publicznej ulega proporcjonalnemu obniżeniu o kwotę równą pozostałym kosztom przypadającym za okres, o który skrócono okres, na jaki ta pożyczka została udzielona, chociażby konsument poniósł je przed spłatą. Kwotę tego obniżenia oblicza się przy zastosowaniu metody liniowej, według następującego wzoru: KO = CKPL x LD/n w którym poszczególne symbole oznaczają: KO kwotę obniżenia, CKPL całkowity koszt konsumenckiej pożyczki lombardowej pomniejszony o poniesione przez przedsiębiorcę bezzwrotne koszty sądowe lub bezzwrotne koszty na rzecz organów administracji publicznej, LD liczbę dni, o którą skrócono okres, na jaki została udzielona konsumencka pożyczka lombardowa, n okres spłaty wyrażony w dniach.
+1. W przypadku wcześniejszej spłaty całości kwoty konsumenckiej pożyczki lombardowej całkowity koszt tej pożyczki pomniejszony o poniesione przez przedsiębiorcę bezzwrotne koszty sądowe lub bezzwrotne koszty na rzecz organów administracji publicznej ulega proporcjonalnemu obniżeniu o kwotę równą pozostałym kosztom przypadającym za okres, o który skrócono okres, na jaki ta pożyczka została udzielona, chociażby konsument poniósł je przed spłatą. Kwotę tego obniżenia oblicza się przy zastosowaniu metody liniowej, według następującego wzoru: KO = CKPL x LD/n w którym poszczególne symbole oznaczają: KO – kwotę obniżenia, CKPL – całkowity koszt konsumenckiej pożyczki lombardowej pomniejszony o poniesione przez przedsiębiorcę bezzwrotne koszty sądowe lub bezzwrotne koszty na rzecz organów administracji publicznej, LD – liczbę dni, o którą skrócono okres, na jaki została udzielona konsumencka pożyczka lombardowa, n – okres spłaty wyrażony w dniach.
 
 2. W przypadku spłaty części kwoty konsumenckiej pożyczki lombardowej przed terminem przepis ust. 1 stosuje się odpowiednio.
 
 **Art. 13.**
 
-1. Maksymalną wysokość pozaodsetkowych kosztów konsumenckiej pożyczki lombardowej oblicza się według wzoru: MPKPL ≤ (KPL × 10%) + (KPL× n/R × 10%) w którym poszczególne symbole oznaczają: MPKPL maksymalną wysokość pozaodsetkowych kosztów konsumenckiej pożyczki lombardowej, KPL kwotę konsumenckiej pożyczki lombardowej, n okres spłaty wyrażony w dniach, R liczbę dni w roku.
+1. Maksymalną wysokość pozaodsetkowych kosztów konsumenckiej pożyczki lombardowej oblicza się według wzoru: MPKPL ≤ (KPL × 10 %) + (KPL× n/R × 10 %) w którym poszczególne symbole oznaczają: MPKPL – maksymalną wysokość pozaodsetkowych kosztów konsumenckiej pożyczki lombardowej, KPL – kwotę konsumenckiej pożyczki lombardowej, n – okres spłaty wyrażony w dniach, R – liczbę dni w roku.
 
-2. Pozaodsetkowe koszty konsumenckiej pożyczki lombardowej, o których mowa w ust. 1, nie mogą być wyższe niż 45% kwoty konsumenckiej pożyczki lombardowej.
+2. Pozaodsetkowe koszty konsumenckiej pożyczki lombardowej, o których mowa w ust. 1, nie mogą być wyższe niż 45 % kwoty konsumenckiej pożyczki lombardowej.
 
 3. W przypadku przedłużenia terminu zapłaty całkowitej kwoty do spłaty maksymalna wysokość pozaodsetkowych kosztów konsumenckiej pożyczki lombardowej jest obliczana zgodnie z ust. 1 i 2, z uwzględnieniem nowego okresu spłaty tej pożyczki.
 
-**Art. 14.** Odsetki od kwoty konsumenckiej pożyczki lombardowej nie mogą przekraczać wysokości odsetek maksymalnych określonych w art. 359 § 2 ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny.
+**Art. 14.** Odsetki od kwoty konsumenckiej pożyczki lombardowej nie mogą przekraczać wysokości odsetek maksymalnych określonych w art. 359 § 21 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny.
 
 **Art. 15.**
 
 1. W przypadku naruszenia przez przedsiębiorcę wykonującego działalność lombardową przepisów art. 10, art. 13 ust. 2 lub art. 14:
 
-- **1)** konsument po złożeniu temu przedsiębiorcy pisemnego oświadczenia zwraca całkowitą kwotę do spłaty bez odsetek i pozaodsetkowych kosztów umowy konsumenckiej pożyczki lombardowej w terminie i w sposób ustalony w tej umowie w przypadku gdy umowa konsumenckiej pożyczki lombardowej nie została przez konsumenta wykonana;
-- **2)** konsumentowi przysługuje roszczenie wobec tego przedsiębiorcy o zwrot różnicy między zapłaconą przez tego konsumenta całkowitą kwotą do spłaty a wypłaconą mu przez przedsiębiorcę wykonującego działalność lombardową kwotą konsumenckiej pożyczki lombardowej w przypadku wykonania przez konsumenta umowy konsumenckiej pożyczki lombardowej.
+- **1)** konsument po złożeniu temu przedsiębiorcy pisemnego oświadczenia zwraca całkowitą kwotę do spłaty bez odsetek i pozaodsetkowych kosztów umowy konsumenckiej pożyczki lombardowej w terminie i w sposób ustalony w tej umowie – w przypadku gdy umowa konsumenckiej pożyczki lombardowej nie została przez konsumenta wykonana;
+- **2)** konsumentowi przysługuje roszczenie wobec tego przedsiębiorcy o zwrot różnicy między zapłaconą przez tego konsumenta całkowitą kwotą do spłaty a wypłaconą mu przez przedsiębiorcę wykonującego działalność lombardową kwotą konsumenckiej pożyczki lombardowej – w przypadku wykonania przez konsumenta umowy konsumenckiej pożyczki lombardowej.
 
 2. Roszczenie, o którym mowa w ust. 1 pkt 2, przedawnia się z upływem roku od dnia wykonania umowy konsumenckiej pożyczki lombardowej przez konsumenta.
 
@@ -171,13 +172,13 @@ o konsumenckiej pożyczce lombardowej
 
 2. Jeżeli umowa konsumenckiej pożyczki lombardowej nie określa terminu zapłaty całkowitej kwoty do spłaty, konsument dokonuje zapłaty tej kwoty w wysokości obliczonej zgodnie z art. 15 ust. 1 pkt 1, w terminie:
 
-- **1)** dwóch miesięcy od dnia wypłaty konsumentowi kwoty konsumenckiej pożyczki lombardowej w przypadku gdy kwota ta nie przekracza 3000 zł;
-- **2)** dwóch lat od dnia wypłaty konsumentowi kwoty konsumenckiej pożyczki lombardowej w przypadku gdy kwota ta przekracza 3000 zł i nie przekracza 30 000 zł;
-- **3)** pięciu lat od dnia wypłaty konsumentowi kwoty konsumenckiej pożyczki lombardowej w przypadku gdy kwota ta przekracza 30 000 zł.
+- **1)** dwóch miesięcy od dnia wypłaty konsumentowi kwoty konsumenckiej pożyczki lombardowej – w przypadku gdy kwota ta nie przekracza 3000 zł;
+- **2)** dwóch lat od dnia wypłaty konsumentowi kwoty konsumenckiej pożyczki lombardowej – w przypadku gdy kwota ta przekracza 3000 zł i nie przekracza 30 000 zł;
+- **3)** pięciu lat od dnia wypłaty konsumentowi kwoty konsumenckiej pożyczki lombardowej – w przypadku gdy kwota ta przekracza 30 000 zł.
 
 **Art. 17.**
 
-1. W terminie 30 dni od dnia upływu terminu zapłaty całkowitej kwoty do spłaty, konsument ma prawo do zapłaty niezapłaconej części całkowitej kwoty do spłaty, według stanu na dzień terminu zapłaty całkowitej kwoty do spłaty, powiększonej o nie więcej niż 20% pozostającej na dzień skorzystania z tego prawa niezapłaconej części całkowitej kwoty do spłaty.
+1. W terminie 30 dni od dnia upływu terminu zapłaty całkowitej kwoty do spłaty, konsument ma prawo do zapłaty niezapłaconej części całkowitej kwoty do spłaty, według stanu na dzień terminu zapłaty całkowitej kwoty do spłaty, powiększonej o nie więcej niż 20 % pozostającej na dzień skorzystania z tego prawa niezapłaconej części całkowitej kwoty do spłaty.
 
 2. Zabezpieczenie lombardowe wygasa z chwilą zapłaty przez konsumenta kwoty obliczonej zgodnie z ust. 1. W takim przypadku przedsiębiorca wykonujący działalność lombardową niezwłocznie zwraca przedmiot zabezpieczenia lombardowego.
 
@@ -197,16 +198,16 @@ o konsumenckiej pożyczce lombardowej
 1. Najpóźniej w chwili wyrażenia przez konsumenta woli związania się umową konsumenckiej pożyczki lombardowej na odległość, przedsiębiorca wykonujący działalność lombardową przekazuje konsumentowi, w sposób określony w art. 7 ust. 2, informacje, o których mowa w art. 7 ust. 1 i art. 10 ust. 1, a także informacje o:
 
 - **1)** sposobie porozumiewania się z konsumentem,
-- **2)** opłatach za transport, usługi pocztowe oraz innych kosztach związanych z udzieleniem konsumenckiej pożyczki lombardowej, a gdy nie można ustalić wysokości tych opłat i kosztów o obowiązku ich uiszczenia,
+- **2)** opłatach za transport, usługi pocztowe oraz innych kosztach związanych z udzieleniem konsumenckiej pożyczki lombardowej, a gdy nie można ustalić wysokości tych opłat i kosztów – o obowiązku ich uiszczenia,
 - **3)** kosztach korzystania ze środka porozumiewania się na odległość w celu zawarcia umowy konsumenckiej pożyczki lombardowej na odległość, w przypadku gdy są wyższe niż stosowane zwykle w przypadku korzystania z tego środka porozumiewania się,
 - **4)** prawie odstąpienia od umowy,
 - **5)** odsetkach należnych przedsiębiorcy wykonującemu działalność lombardową w przypadku odstąpienia przez konsumenta od umowy konsumenckiej pożyczki lombardowej zawartej na odległość oraz stawce dziennej tych odsetek,
-- **6)** kosztach sądowych lub kosztach na rzecz organów administracji publicznej ponoszonych przez przedsiębiorcę wykonującego działalność lombardową w związku z zawarciem umowy konsumenckiej pożyczki lombardowej, które nie podlegają zwrotowi w przypadku odstąpienia przez konsumenta od umowy w sposób jednoznaczny i zrozumiały oraz odpowiadający rodzajowi użytego środka porozumiewania się na odległość.
+- **6)** kosztach sądowych lub kosztach na rzecz organów administracji publicznej ponoszonych przez przedsiębiorcę wykonującego działalność lombardową w związku z zawarciem umowy konsumenckiej pożyczki lombardowej, które nie podlegają zwrotowi – w przypadku odstąpienia przez konsumenta od umowy – w sposób jednoznaczny i zrozumiały oraz odpowiadający rodzajowi użytego środka porozumiewania się na odległość.
 
 2. W przypadku naruszenia przez przedsiębiorcę wykonującego działalność lombardową przepisu ust. 1:
 
-- **1)** konsument po złożeniu temu przedsiębiorcy pisemnego oświadczenia zwraca całkowitą kwotę do spłaty bez odsetek i pozaodsetkowych kosztów umowy konsumenckiej pożyczki lombardowej w terminie i w sposób ustalony w tej umowie w przypadku gdy umowa konsumenckiej pożyczki lombardowej nie została przez konsumenta wykonana;
-- **2)** konsumentowi przysługuje roszczenie wobec przedsiębiorcy wykonującego działalność lombardową o zwrot różnicy między zapłaconą przez konsumenta całkowitą kwotą do spłaty a wypłaconą mu przez przedsiębiorcę wykonującego działalność lombardową kwotą konsumenckiej pożyczki lombardowej w przypadku wykonania przez konsumenta umowy konsumenckiej pożyczki lombardowej.
+- **1)** konsument po złożeniu temu przedsiębiorcy pisemnego oświadczenia zwraca całkowitą kwotę do spłaty bez odsetek i pozaodsetkowych kosztów umowy konsumenckiej pożyczki lombardowej w terminie i w sposób ustalony w tej umowie – w przypadku gdy umowa konsumenckiej pożyczki lombardowej nie została przez konsumenta wykonana;
+- **2)** konsumentowi przysługuje roszczenie wobec przedsiębiorcy wykonującego działalność lombardową o zwrot różnicy między zapłaconą przez konsumenta całkowitą kwotą do spłaty a wypłaconą mu przez przedsiębiorcę wykonującego działalność lombardową kwotą konsumenckiej pożyczki lombardowej – w przypadku wykonania przez konsumenta umowy konsumenckiej pożyczki lombardowej.
 
 3. Roszczenie, o którym mowa w ust. 2 pkt 2, przedawnia się z upływem roku od dnia wykonania umowy konsumenckiej pożyczki lombardowej przez konsumenta.
 
@@ -308,7 +309,7 @@ o konsumenckiej pożyczce lombardowej
 
 2. W przypadku naruszenia przez przedsiębiorcę wykonującego działalność lombardową terminów, o których mowa w ust. 1, przedsiębiorca ten traci uprawnienie określone w art. 34 ust. 3.
 
-**Art. 32.** Cena wywoławcza przedmiotu zabezpieczenia lombardowego w drugiej aukcji nie może być niższa niż 90% ceny wywoławczej ustalonej w pierwszej aukcji. Przepis art. 29 ust. 3 stosuje się odpowiednio.
+**Art. 32.** Cena wywoławcza przedmiotu zabezpieczenia lombardowego w drugiej aukcji nie może być niższa niż 90 % ceny wywoławczej ustalonej w pierwszej aukcji. Przepis art. 29 ust. 3 stosuje się odpowiednio.
 
 **Art. 33.** Jeżeli przedmiot zabezpieczenia lombardowego nie zostanie sprzedany w drugiej aukcji, przedsiębiorca wykonujący działalność lombardową dokonuje jego sprzedaży bez konieczności ogłaszania kolejnej aukcji.
 
@@ -319,9 +320,9 @@ o konsumenckiej pożyczce lombardowej
 2. Przedsiębiorca wykonujący działalność lombardową przekazuje konsumentowi nadwyżkę niezwłocznie, nie później niż w terminie 7 dni od dnia:
 
 - **1)** otrzymania przez tego przedsiębiorcę kwoty ze sprzedaży przedmiotu zabezpieczenia lombardowego;
-- **2)** upływu ustawowego terminu odstąpienia od umowy przez kupującego przedmiot zabezpieczenia − w przypadku zakupu tego przedmiotu na odległość albo poza lokalem przedsiębiorstwa.
+- **2)** upływu ustawowego terminu odstąpienia od umowy przez kupującego przedmiot zabezpieczenia – w przypadku zakupu tego przedmiotu na odległość albo poza lokalem przedsiębiorstwa.
 
-3. Nadwyżka może zostać pomniejszona przez przedsiębiorcę wykonującego działalność lombardową o nie więcej niż 20% nadwyżki. W takim przypadku przedsiębiorca wykonujący działalność lombardową zwraca konsumentowi pozostałą część nadwyżki.
+3. Nadwyżka może zostać pomniejszona przez przedsiębiorcę wykonującego działalność lombardową o nie więcej niż 20 % nadwyżki. W takim przypadku przedsiębiorca wykonujący działalność lombardową zwraca konsumentowi pozostałą część nadwyżki.
 
 4. Kwota pomniejszenia nadwyżki, o którym mowa w ust. 3, stanowi przychód przedsiębiorcy wykonującego działalność lombardową i nie jest wliczana do całkowitego kosztu konsumenckiej pożyczki lombardowej.
 
@@ -343,7 +344,7 @@ o konsumenckiej pożyczce lombardowej
 
 **Art. 37.**
 
-1. Działalność lombardowa jest działalnością regulowaną w rozumieniu ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców (Dz. U. z 2023 r. poz. 221, 641 i 803) i wymaga wpisu do rejestru przedsiębiorców wykonujących działalność lombardową, zwanego dalej „rejestrem”.
+1. Działalność lombardowa jest działalnością regulowaną w rozumieniu ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236) i wymaga wpisu do rejestru przedsiębiorców wykonujących działalność lombardową, zwanego dalej „rejestrem”.
 
 2. Za dzień rozpoczęcia działalności przez przedsiębiorcę wykonującego działalność lombardową uważa się dzień dokonania wpisu do rejestru.
 
@@ -377,8 +378,8 @@ o konsumenckiej pożyczce lombardowej
 
 3. Do wniosku, o którym mowa w ust. 1, załącza się:
 
-- **1)** oświadczenie o spełnianiu przez spółkę warunków, o których mowa w art. 35 ust. 5, o następującej treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. Kodeks karny oświadczam, że środki na pokrycie kapitału zakładowego nie pochodzą z kredytu, pożyczki, emisji obligacji lub ze źródeł nieudokumentowanych.”; klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń;
-- **2)** informację uzyskaną z Krajowego Rejestru Karnego w zakresie skazania za przestępstwa, o których mowa w art. 36, dotyczącą każdego z członków zarządu, rady nadzorczej, komisji rewizyjnej lub prokurentów przedsiębiorcy wykonującego działalność lombardową lub ich oświadczenia o następującej treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. Kodeks karny oświadczam, że nie byłem skazany za przestępstwa, o których mowa w art. 36 ustawy z dnia 14 kwietnia 2023 r. o konsumenckiej pożyczce lombardowej.”; klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń;
+- **1)** oświadczenie o spełnianiu przez spółkę warunków, o których mowa w art. 35 ust. 5, o następującej treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny oświadczam, że środki na pokrycie kapitału zakładowego nie pochodzą z kredytu, pożyczki, emisji obligacji lub ze źródeł nieudokumentowanych.”; klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń;
+- **2)** informację uzyskaną z Krajowego Rejestru Karnego w zakresie skazania za przestępstwa, o których mowa w art. 36, dotyczącą każdego z członków zarządu, rady nadzorczej, komisji rewizyjnej lub prokurentów przedsiębiorcy wykonującego działalność lombardową lub ich oświadczenia o następującej treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny oświadczam, że nie byłem skazany za przestępstwa, o których mowa w art. 36 ustawy z dnia 14 kwietnia 2023 r. o konsumenckiej pożyczce lombardowej.”; klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń;
 - **3)** dowód uiszczenia opłaty za wniosek o wpis do rejestru.
 
 4. Komisja Nadzoru Finansowego dokonuje wpisu do rejestru w terminie 14 dni od dnia otrzymania wniosku.
@@ -399,7 +400,7 @@ o konsumenckiej pożyczce lombardowej
 
 **Art. 40.**
 
-1. Komisja Nadzoru Finansowego niezależnie od przypadków określonych w art. 43 ust. 3 pkt 1 i 2 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców odmawia, w drodze decyzji, dokonania wpisu do rejestru, jeżeli:
+1. Komisja Nadzoru Finansowego niezależnie od przypadków określonych w art. 43 ust. 3 pkt 1 i 2 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców odmawia, w drodze decyzji, dokonania wpisu do rejestru, jeżeli:
 
 - **1)** przedsiębiorca ubiegający się o wpis nie spełnia warunków, o których mowa w art. 35 ust. 1, 4 lub 5, lub art. 36;
 - **2)** wniosek, o którym mowa w art. 39 ust. 1, jest niekompletny i nie został uzupełniony w wyznaczonym terminie lub dane zawarte w tym wniosku są niezgodne ze stanem faktycznym.
@@ -410,7 +411,7 @@ o konsumenckiej pożyczce lombardowej
 
 4. Dane przedsiębiorcy, któremu Komisja Nadzoru Finansowego odmówiła wpisu do rejestru, są przechowywane przez Komisję Nadzoru Finansowego przez okres trzech lat od dnia odmowy dokonania wpisu.
 
-**Art. 41.** Upoważniony pracownik Urzędu Komisji Nadzoru Finansowego, za pośrednictwem systemu, o którym mowa w art. 3a ust. 1 ustawy z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2023 r. poz. 685 i 825), niezwłocznie przekazuje właściwemu sądowi rejestrowemu informację o wykreśleniu przedsiębiorcy z rejestru.
+**Art. 41.** Upoważniony pracownik Urzędu Komisji Nadzoru Finansowego, za pośrednictwem systemu, o którym mowa w art. 3a ust. 1 ustawy z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2024 r. poz. 979), niezwłocznie przekazuje właściwemu sądowi rejestrowemu informację o wykreśleniu przedsiębiorcy z rejestru.
 
 **Art. 42.**
 
@@ -420,7 +421,7 @@ o konsumenckiej pożyczce lombardowej
 
 3. Koszty prowadzenia rejestru są pokrywane z opłat, o których mowa w ust. 1 i 2.
 
-**Art. 43.** Kontrolę przestrzegania przez przedsiębiorców wykonujących działalność lombardową przepisów ustawy przeprowadza Inspekcja Handlowa, działając na podstawie ustawy z dnia 15 grudnia 2000 r. o Inspekcji Handlowej (Dz. U. z 2020 r. poz. 1706 oraz z 2023 r. poz. 877 i 1285).
+**Art. 43.** Kontrolę przestrzegania przez przedsiębiorców wykonujących działalność lombardową przepisów ustawy przeprowadza Inspekcja Handlowa, działając na podstawie ustawy z dnia 15 grudnia 2000 r. o Inspekcji Handlowej (Dz. U. z 2024 r. poz. 312).
 
 **Art. 44.** Reklama działalności lombardowej może być prowadzona pod warunkiem umieszczenia w niej komunikatu wyraźnie wskazującego na wykonywanie działalności lombardowej.
 
@@ -436,21 +437,9 @@ o konsumenckiej pożyczce lombardowej
 
 **Art. 49.** Kto, będąc odpowiedzialnym za zwrot konsumentowi nadwyżki kwoty uzyskanej ze sprzedaży przedmiotu zabezpieczenia lombardowego przekraczającej całkowitą kwotę do spłaty, nie dokonuje zwrotu konsumentowi tej nadwyżki lub dokonuje tego zwrotu niezgodnie z zasadami określonymi w art. 34 ust. 2 lub 3, podlega karze grzywny do 100 000 zł.
 
-**Art. 50.** Orzekanie w sprawach o czyny, o których mowa w art. 45–49, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2022 r. poz. 1124).
+**Art. 50.** Orzekanie w sprawach o czyny, o których mowa w art. 45–49, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2024 r. poz. 977).
 
 #### Rozdział 7 Zmiany w przepisach
-
-**Art. 51.** W ustawie z dnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. z 2022 r. poz. 1360, 2337 i 2339 oraz z 2023 r. poz. 326) wprowadza się następujące zmiany:
-
-**Art. 52.** W ustawie z dnia 15 grudnia 2000 r. o Inspekcji Handlowej (Dz. U. z 2020 r. poz. 1706 oraz z 2023 r. poz. 877) w art. 3 w ust. 1 po pkt 2i dodaje się pkt 2j w brzmieniu: „2j) kontrola przestrzegania przez przedsiębiorców wykonujących działalność lombardową przepisów ustawy z dnia 14 kwietnia 2023 r. o konsumenckiej pożyczce lombardowej (Dz. U. poz. 1285);”.
-
-**Art. 53.** W ustawie z dnia 12 maja 2011 r. o kredycie konsumenckim (Dz. U. z 2023 r. poz. 1028) wprowadza się następujące zmiany:
-
-**Art. 54.** W ustawie z dnia 30 maja 2014 r. o prawach konsumenta (Dz. U. z 2020 r. poz. 287, z 2021 r. poz. 2105 oraz z 2022 r. poz. 2337 i 2581) w art. 43 po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Przepisów niniejszego rozdziału nie stosuje się do umowy konsumenckiej pożyczki lombardowej zawieranej na odległość, o której mowa w ustawie z dnia 14 kwietnia 2023 r. o konsumenckiej pożyczce lombardowej (Dz. U. poz. 1285).”.
-
-**Art. 55.** W ustawie z dnia 5 sierpnia 2015 r. o rozpatrywaniu reklamacji przez podmioty rynku finansowego, o Rzeczniku Finansowym i o Funduszu Edukacji Finansowej (Dz. U. z 2022 r. poz. 187, 1488 i 2640 oraz z 2023 r. poz. 556 i 825) w art. 2:
-
-**Art. 56.** W ustawie z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2023 r. poz. 1124) w art. 2 w ust. 1 w pkt 25 kropkę zastępuje się średnikiem i dodaje się pkt 26 w brzmieniu: „26) przedsiębiorcy wykonujący działalność lombardową, o których mowa w ustawie z dnia 14 kwietnia 2023 r. o konsumenckiej pożyczce lombardowej (Dz. U. poz. 1285).”.
 
 #### Rozdział 8 Przepisy przejściowe i przepis końcowy
 
@@ -472,5 +461,5 @@ o konsumenckiej pożyczce lombardowej
 
 **Art. 59.** Przepisów ustawy nie stosuje się do umów zawartych przed dniem jej wejścia w życie.
 
-**Art. 60.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda FORMULARZ INFORMACYJNY DOTYCZĄCY UMOWY KONSUMENCKIEJ POŻYCZKI LOMBARDOWEJ 1. Dane konsumenta Imię Nazwisko Adres zamieszkania 2. Dane przedsiębiorcy wykonującego działalność lombardową Przedsiębiorca wykonujący działalność (firma) lombardową: Adres (w tym adres do korespondencji, jeżeli jest inny niż adres siedziby) Siedziba Numer w rejestrze przedsiębiorców wykonujących działalność lombardową Adres poczty elektronicznej (jeżeli posiada) Numer telefonu (jeżeli posiada) Numer faksu (jeżeli posiada) Adres strony internetowej (jeżeli posiada) 3. Opis głównych cech konsumenckiej pożyczki lombardowej Kwota konsumenckiej pożyczki lombardowej Kwota: […] zł (słownie: […] zł) i sposób jej ustalania Jest to maksymalna kwota wszystkich środków Sposób ustalenia kwoty konsumenckiej pożyczki pieniężnych, nieobejmujących kwot przeznaczanych lombardowej na pokrycie kosztów udzielanej konsumenckiej pożyczki lombardowej, które zostaną oddane do dyspozycji konsumentowi na podstawie zawartej umowy konsumenckiej pożyczki lombardowej Termin i sposób wypłaty kwoty konsumenckiej Kwota konsumenckiej pożyczki lombardowej pożyczki lombardowej zostanie wypłacona: w następującym terminie […]*; w następujący sposób […]** * (np. „w terminie najpóźniej 2 dni roboczych od dnia zawarcia umowy konsumenckiej pożyczki lombardowej”) ** (np. „przelewem na wskazany przez konsumenta rachunek bankowy”) Zasady i terminy zapłaty całkowitej kwoty Zapłata będzie dokonana na następujących do spłaty warunkach: wskazanie kwoty, liczby i częstotliwości płatności rat konsumenckiej pożyczki lombardowej w przypadku zapłaty jednorazowo należy wskazać całość kwoty w wysokości […] zł (słownie: […] zł, płatna do […] dnia od dnia udostępnienia środków) Całkowita kwota do spłaty Kwota […] zł (słownie: […] zł) Jest to suma kwoty konsumenckiej pożyczki lombardowej oraz wszelkich kosztów, które należy ponieść w związku z umową konsumenckiej pożyczki lombardowej Sposób ustanowienia zabezpieczenia (należy wskazać sposób ustanowienia zabezpieczenia lombardowego lombardowego, o którym mowa w art. 3 pkt 10 ustawy) Przedmiot zabezpieczenia lombardowego Jest to określenie rzeczy ruchomej, która stanowi zabezpieczenie udzielonej konsumenckiej pożyczki lombardowej, obejmujące wskazanie jej rodzaju, marki lub cech szczególnych, o ile je posiada Szacunkowa wartość przedmiotu zabezpieczenia lombardowego i sposób ustalenia tej wartości Jest to oszacowana przez przedsiębiorcę wykonującego działalność lombardową wartość przedmiotu mającego stanowić zabezpieczenie konsumenckiej pożyczki lombardowej 4. Koszty konsumenckiej pożyczki lombardowej Całkowity koszt konsumenckiej pożyczki Na całkowity koszt konsumenckiej pożyczki lombardowej i jego składniki lombardowej, wynoszący […] zł (słownie: […] zł), Wysokość wszelkich kosztów do poniesienia przez składają się: konsumenta w związku z umową konsumenckiej (należy wskazać wysokość każdego z kosztów pożyczki lombardowej składających się na całkowity koszt udzielanej konsumenckiej pożyczki lombardowej) Skutek braku zapłaty całkowitej kwoty do spłaty W przypadku niezapłacenia w całości lub części całkowitej kwoty do spłaty przedmiot zabezpieczenia lombardowego zostanie wystawiony na sprzedaż przez przedsiębiorcę wykonującego działalność lombardową po upływie 30 dni od dnia upływu terminu zapłaty całkowitej kwoty do spłaty Sposób sprzedaży przedmiotu zabezpieczenia (należy wskazać tryb sprzedaży w zależności lombardowego od szacunkowej wartości przedmiotu zabezpieczenia W jaki sposób i w jakim terminie rzecz ruchoma, lombardowego: aukcja elektroniczna / sprzedaż stanowiąca przedmiot zabezpieczenia lombardowego, bezpośrednia) zostanie sprzedana w przypadku braku zapłaty całkowitej kwoty do spłaty lub jej części w terminie 5. Inne ważne informacje Sposób i zasady rozliczenia kwoty nadwyżki W przypadku sprzedaży przedmiotu zabezpieczenia ze sprzedaży przedmiotu zabezpieczenia lombardowego zostanie wypłacona kwota lombardowego odpowiadająca różnicy pomiędzy pozostającą na W jaki sposób i w jakim terminie od dnia sprzedaży dzień sprzedaży niezapłaconą częścią całkowitej rozliczona zostanie nadwyżka uzyskana ze sprzedaży kwoty do spłaty a kwotą uzyskaną ze sprzedaży przedmiotu zabezpieczenia lombardowego, przedmiotu zabezpieczenia lombardowego. w przypadku braku zapłaty całkowitej kwoty do spłaty lub jej części w terminie Kwota ta zostanie pomniejszona o […]%.* * (jeżeli % kwoty jest pobierany przez przedsiębiorcę wykonującego działalność lombardową) Prawo do zapłaty całkowitej kwoty do spłaty po W przypadku braku zapłaty całkowitej kwoty terminie do spłaty lub jej części w terminie przedmiot zabezpieczenia lombardowego może być odkupiony przez konsumenta w terminie 30 dni od dnia upływu terminu zapłaty całkowitej kwoty do spłaty określonej w umowie za następującą cenę: pozostająca na dzień odkupu część całkowitej kwoty do spłaty […]% kwoty pozostającej na dzień odkupu części całkowitej kwoty do spłaty Procedura i zasady rozpatrywania reklamacji (należy opisać procedurę reklamacyjną, W przypadku złożenia reklamacji zostanie ona w szczególności zasady i tryb zgłaszania reklamacji rozpatrzona na zasadach i w trybie określonych oraz termin jej rozpatrzenia przez przedsiębiorcę w procedurze stosowanej przez przedsiębiorcę wykonującego działalność lombardową) 6. Dodatkowe informacje podawane w przypadku umowy konsumenckiej pożyczki lombardowej zawieranej na odległość Sposób porozumiewania się z konsumentem Przyjęte sposoby kontaktu, takie jak numer telefonu, adres e-mail Koszty korzystania ze środka porozumiewania się na odległość w celu zawarcia umowy konsumenckiej pożyczki lombardowej (w przypadku stosowania kosztów wyższych niż stosowane zwykle w przypadku korzystania z tego środka porozumiewania się) Opłaty za transport, usługi pocztowe oraz inne koszty (w przypadku gdy nie można ustalić wysokości tych opłat i kosztów informacja o obowiązku ich uiszczenia) Wysokość opłat i kosztów do poniesienia przez konsumenta w związku z zawarciem umowy konsumenckiej pożyczki lombardowej Odstąpienie od umowy Konsumentowi przysługuje prawo odstąpienia od umowy konsumenckiej pożyczki lombardowej zawartej na odległość, w terminie 7 dni od dnia jej zawarcia Odsetki należne przedsiębiorcy wykonującemu W przypadku odstąpienia od umowy konsumenckiej działalność lombardową w przypadku odstąpienia pożyczki lombardowej należne będą odsetki na rzecz przez konsumenta od umowy konsumenckiej przedsiębiorcy wykonującego działalność pożyczki lombardowej zawartej na odległość lombardową, liczone od dnia wypłaty kwoty oraz stawka dzienna tych odsetek konsumenckiej pożyczki lombardowej do dnia dokonania jej zwrotu przez konsumenta za każdy dzień. Stawka dzienna wynosić będzie […] zł (słownie: […] zł) Koszty, które nie podlegają zwrotowi W przypadku odstąpienia od umowy konsumenckiej w przypadku odstąpienia od umowy pożyczki lombardowej następujące bezzwrotne konsumenckiej pożyczki lombardowej koszty poniesione przez przedsiębiorcę wykonującego działalność lombardową w związku z zawarciem tej umowy nie podlegają zwrotowi: koszty sądowe: […] zł (słownie: […] zł)* koszty ponoszone na rzecz organów administracji publicznej: […] zł (słownie: […] zł)* * (należy wskazać tylko wtedy, jeżeli takie koszty zostały poniesione, np. w związku z ustanowieniem zabezpieczenia lombardowego)
+**Art. 60.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia . Załącznik do ustawy z dnia 14 kwietnia 2023 r. (Dz. U. z 2024 r. poz. 1111) FORMULARZ INFORMACYJNY DOTYCZĄCY UMOWY KONSUMENCKIEJ POŻYCZKI LOMBARDOWEJ 1. Dane konsumenta 2. Dane przedsiębiorcy wykonującego działalność lombardową 3. Opis głównych cech konsumenckiej pożyczki lombardowej 4. Koszty konsumenckiej pożyczki lombardowej 5. Inne ważne informacje 6. Dodatkowe informacje podawane w przypadku umowy konsumenckiej pożyczki lombardowej zawieranej na odległość
 

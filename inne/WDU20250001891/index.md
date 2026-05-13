@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 31 grudnia 2025 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 7 listopada 2025 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2026-01-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001891) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1891/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 7 listopada 2025 r.
-sprawie ogłoszenia jednolitego tekstu ustawy biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym
 1. Na podstawie 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 11 maja 2017 r. biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym (Dz. U.
 z 2024 r. poz. 1035), z uwzględnieniem zmian wprowadzonych ustawą z dnia 6 grudnia 2024 r. zmianie ustawy rachunkowości, ustawy biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym oraz niektórych innych ustaw (Dz. U. poz. 1863) oraz zmian wynikających z przepisów ogłoszonych przed dniem 6 listopada 2025 r.
 Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje 16–32, 34 i 35 ustawy z dnia 6 grudnia 2024 r. zmianie ustawy rachunkowości, ustawy biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym oraz niektórych innych ustaw (Dz. U. poz. 1863), które stanowią: „Art. 16. 1. Atestacja sprawozdawczości zrównoważonego rozwoju za rok obrotowy, który rozpoczął się przed dniem 1 stycznia 2025 r., może zostać przeprowadzona na podstawie umowy zawartej kierownika jednostki przed dniem wejścia życie niniejszej pod warunkiem że wybór firmy audytorskiej do przeprowadzenia tej atestacji nie był dokonany kierownika tej jednostki.
@@ -43,9 +43,9 @@ Art. 216–263. (pominięte)
 
 **Art. 18.**
 
-1. Do dnia 31 grudnia 2026 r. biegli rewidenci, których 17 ust. 1, są obowiązani odbyć szkolenie zakresie sprawozdawczości zrównoważonego rozwoju, sprawozdawczości zrównoważonego rozwoju grupy kapitałowej oraz atestacji sprawozdawczości zrównoważonego rozwoju ramach obligatoryjnego doskonalenia Do dnia 1 marca 2027 r. Krajowa Rada Biegłych Rewidentów podejmuje uchwałę wykreśleniu z rejestru biegłych rewidentów informacji uprawnieniu do atestacji sprawozdawczości zrównoważonego rozwoju przypadku nieodbycia biegłego rewidenta obligatoryjnego doskonalenia zawodowego terminie określonym ust. 1.
+1. Do dnia 31 grudnia 2026 r. biegli rewidenci, których 17 ust. 1, są obowiązani odbyć szkolenie zakresie sprawozdawczości zrównoważonego rozwoju, sprawozdawczości zrównoważonego rozwoju grupy kapitałowej oraz atestacji sprawozdawczości zrównoważonego rozwoju ramach obligatoryjnego doskonalenia zawodowego, tym zakresie, którym 14 ust. 2a ustawy zmienianej Do dnia 1 marca 2027 r. Krajowa Rada Biegłych Rewidentów podejmuje uchwałę wykreśleniu z rejestru biegłych rewidentów informacji uprawnieniu do atestacji sprawozdawczości zrównoważonego rozwoju przypadku nieodbycia biegłego rewidenta obligatoryjnego doskonalenia zawodowego terminie określonym ust. 1.
 
-3. Do uchwał Krajowej Rady Biegłych Rewidentów dotyczących wykreślenia z rejestru biegłych rewidentów informacji, ust. 2, stosuje się odpowiednio przepisy ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572).
+3. Do uchwał Krajowej Rady Biegłych Rewidentów dotyczących wykreślenia z rejestru biegłych rewidentów informacji, ust. 2, stosuje się odpowiednio przepisy ustawy z dnia 14 czerwca 1960 r. Kodeks
 
 4. Odwołania od uchwał, których ust. 3, wnosi się do Polskiej Agencji Nadzoru Audytowego, za pośrednictwem Krajowej Rady Biegłych Rewidentów, terminie 14 dni od dnia ich doręczenia.
 
@@ -76,11 +76,10 @@ Art. 216–263. (pominięte)
 1. Krajowa Rada Biegłych Rewidentów określi, drodze uchwał:
 
 - **1)** zakres tematyczny oraz minimalną liczbę godzin szkolenia, którym 18 ust. 1, tym dopuszczalną liczbę godzin przypadającą na samokształcenie, którym 9 ust. 3 ustawy zmienianej 2;
-- **2)** krajowe standardy atestacji sprawozdawczości zrównoważonego rozwoju, których 22a lit. b Krajowa Rada Biegłych Rewidentów podejmuje i doręcza uchwały, których ust. 1, Radzie Polskiej Agencji Nadzoru Audytowego terminie 30 dni od dnia wejścia życie niniejszej ustawy.
+- **2)** krajowe standardy atestacji sprawozdawczości zrównoważonego rozwoju, których 22a lit. b ustawy zmienianej Krajowa Rada Biegłych Rewidentów podejmuje i doręcza uchwały, których ust. 1, Radzie Polskiej Agencji Nadzoru Audytowego terminie 30 dni od dnia wejścia życie niniejszej ustawy.
 
 3. Uchwały, których ust. 1, podlegają zatwierdzeniu Radę Polskiej Agencji Nadzoru Audytowego trybie 102 ustawy zmienianej 2, przy czym:
 
-- **1)** termin, którym 102 ust. 1 ustawy zmienianej 2, wynosi miesiąc;
 - **2)** terminy, których 102 ust. 2–5 ustawy zmienianej 2, wynoszą 15 dni;
 - **3)** przepisów 102 ust. 6 i 7 ustawy zmienianej nie stosuje się.
 
@@ -1660,6 +1659,7 @@ Art. 216–263. (pominięte)
 - **3)** przygotowywanie projektu rocznego sprawozdania Agencji, którym 90 ust. 5;
 - **4)** sporządzanie rocznego sprawozdania finansowego Agencji;
 - **5)** prowadzenie gospodarki finansowej Agencji;
+- **6)** zarządzanie majątkiem Agencji.
 
 3. Prezes Agencji kieruje pracami Agencji przy pomocy Zastępcy Prezesa Agencji.
 
@@ -2460,7 +2460,7 @@ Art. 216–263. (pominięte)
 
 **Art. 140.**
 
-1. Nie wszczyna się postępowania dyscyplinarnego, a wszczęte umarza, sprawie czynu, za który na biegłego rewidenta wpisanego na listę, którym 46 1, może zostać nałożona kara administracyjna, 183 ust. 1. Jeżeli biegły rewident, którym ust. 1, został skreślony z listy, można wszcząć lub wznowić postępowanie
+1. Nie wszczyna się postępowania dyscyplinarnego, a wszczęte umarza, sprawie czynu, za który na biegłego rewidenta wpisanego na listę, którym 46 1, może zostać nałożona kara administracyjna, 183 ust. 1. Jeżeli biegły rewident, którym ust. 1, został skreślony z listy, można wszcząć lub wznowić postępowanie dyscyplinarne odniesieniu do czynu, którym ust. 1.
 
 3. Biegły rewident, który został skreślony z listy, nie podlega wpisowi na listę do czasu prawomocnego zakończenia postępowania dyscyplinarnego dotyczącego czynu, którym ust. 1, jeżeli postępowanie dyscyplinarne jest toku lub zostanie wszczęte terminie 3 miesięcy od dnia skreślenia biegłego rewidenta z listy.
 
@@ -2550,7 +2550,11 @@ Art. 216–263. (pominięte)
 
 **Art. 156.**
 
-1. Rozprawa przed Krajowym Sądem Dyscyplinarnym jest jawna, chyba że jawność rozprawy zagraża ujawnieniu tajemnicy zawodowej biegłych rewidentów albo zachodzą inne określone przepisami prawa przyczyny wyłączenia jawności. W toku postępowania dyscyplinarnego korespondencja może być doręczana, za zgodą stron, także przy użyciu środków komunikacji elektronicznej rozumieniu 5 ustawy z dnia 18 lipca 2002 r. świadczeniu usług drogą elekArt. 157. 1. Niestawiennictwo obwinionego lub jego obrońcy na rozprawę lub posiedzenie Krajowego Sądu Dyscyplinarnego lub wezwanie Krajowego Rzecznika Dyscyplinarnego trakcie dochodzenia dyscyplinarnego nie wstrzymuje rozpoznania sprawy lub przeprowadzenia czynności, chyba że należycie usprawiedliwią oni swoją nieobecność, jednocześnie wnosząc odroczenie lub przerwanie rozprawy lub posiedzenia, lub nieprzeprowadzanie czynności przed Krajowym Rzecznikiem Dyscyplinarnym, albo Krajowy Sąd Dyscyplinarny lub Krajowy Rzecznik Dyscyplinarny z ważnych przyczyn uzna ich obecność za konieczną. Za należyte usprawiedliwienie niestawiennictwa obwinionego lub jego obrońcy na rozprawę przed Krajowym Sądem Dyscyplinarnym lub wezwanie Krajowego Rzecznika Dyscyplinarnego rozumie się wskazanie i uprawdopodobnienie wyjątkowych przyczyn, zaś przypadku choroby, przedstawienie zaświadczenia lekarskiego wystawionego lekarza sądowego, potwierdzającego niemożność stawienia się na rozprawę przed Krajowym Sądem Dyscyplinarnym lub wezwanie Krajowego Rzecznika Dyscyplinarnego.
+1. Rozprawa przed Krajowym Sądem Dyscyplinarnym jest jawna, chyba że jawność rozprawy zagraża ujawnieniu tajemnicy zawodowej biegłych rewidentów albo zachodzą inne określone przepisami prawa przyczyny wyłączenia jawności. W toku postępowania dyscyplinarnego korespondencja może być doręczana, za zgodą stron, także przy użyciu środków komunikacji elektronicznej rozumieniu 5 ustawy z dnia 18 lipca 2002 r. świadczeniu usług drogą elektroniczną. W takim przypadku dowodem doręczenia jest potwierdzenie transmisji danych.
+
+**Art. 157.**
+
+1. Niestawiennictwo obwinionego lub jego obrońcy na rozprawę lub posiedzenie Krajowego Sądu Dyscyplinarnego lub wezwanie Krajowego Rzecznika Dyscyplinarnego trakcie dochodzenia dyscyplinarnego nie wstrzymuje rozpoznania sprawy lub przeprowadzenia czynności, chyba że należycie usprawiedliwią oni swoją nieobecność, jednocześnie wnosząc odroczenie lub przerwanie rozprawy lub posiedzenia, lub nieprzeprowadzanie czynności przed Krajowym Rzecznikiem Dyscyplinarnym, albo Krajowy Sąd Dyscyplinarny lub Krajowy Rzecznik Dyscyplinarny z ważnych przyczyn uzna ich obecność za konieczną. Za należyte usprawiedliwienie niestawiennictwa obwinionego lub jego obrońcy na rozprawę przed Krajowym Sądem Dyscyplinarnym lub wezwanie Krajowego Rzecznika Dyscyplinarnego rozumie się wskazanie i uprawdopodobnienie wyjątkowych przyczyn, zaś przypadku choroby, przedstawienie zaświadczenia lekarskiego wystawionego lekarza sądowego, potwierdzającego niemożność stawienia się na rozprawę przed Krajowym Sądem Dyscyplinarnym lub wezwanie Krajowego Rzecznika Dyscyplinarnego.
 
 3. Za nieusprawiedliwione niestawiennictwo, odmowę złożenia zeznań lub przyrzeczenia świadka lub biegłego, Krajowy Sąd Dyscyplinarny lub Krajowy Rzecznik Dyscyplinarny może nałożyć karę porządkową wysokości do 5000 zł. Świadek lub biegły nie podlega karze, jeżeli nie był uprzedzony skutkach niestawiennictwa, odmowy złożenia zeznań lub przyrzeczenia.
 

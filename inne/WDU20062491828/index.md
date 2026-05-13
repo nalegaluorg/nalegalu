@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# Ustawa z dnia 7 grudnia 2006 r. o zmianie ustawy o podatkach i opłatach lokalnych oraz o zmianie niektórych innych ustaw
+# o zmianie ustawy o podatkach i opłatach lokalnych oraz o zmianie niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,20 +24,17 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062491828) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/1828/text.pdf) |
 
-2. Agencja jest państwową osobą prawną.
-3. Siedzibą Agencji jest miasto stołeczne War-
+**Art. 1.** W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z 2006 r. Nr 121, poz. 844, Nr 220, poz. 1601, Nr 225, poz. 1635 i Nr 245, poz. 1775) wprowadza się następujące zmiany:
 
-**Art. 1.** W ustawie dnia 12 stycznia 1991 o po- po pkt 2 dodaje pkt 2a brzmieniu: datkach opłatach lokalnych (Dz. U. 2006 121, Ń2a) grunty pod morskimi wodami wepoz. 844, 220, poz. 1601, 225, poz. 1635 245, wnętrznymi;”, poz. 1775) wprowadza następujące zmiany: pkt 4
+**Art. 2.** W ustawie z dnia 30 listopada 1995 r. o pomocy państwa spłacie niektórych kredytów mieszkaniowych, udzielaniu premii gwarancyjnych oraz refundacji bankom wypłaconych premii gwarancyjnych (Dz. U. z 2003 r. Nr 119, poz. 1115, z 2004 r. Nr 213, poz. 2157, z 2005 r. Nr 94, poz. 786 oraz z 2006 r. Nr 53, poz. 385) 7 ust. 2d otrzymuje brzmienie: „2d. Prezes Głównego Urzędu Statystycznego ogłasza, terminie 15 dni po upływie trzeciego kwartału, komunikacie, Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, wskaźnik, o którym mowa ust. 2c.”.
 
-**Art. 2.** W ustawie dnia 30 listopada 1995 o pomocy państwa spłacie niektórych kredytów mieszkaniowych, udzielaniu premii gwarancyjnych refundacji bankom wypłaconych premii gwarancyjnych (Dz. U. 2003 119, poz. 1115, 2004 213, poz.2157, z2005 94, poz. 786 z2006 53, poz. 385) art. 7 2d Ń2d. Prezes Głównego Urzędu Statystycznego ogłasza, terminie 15 dni po upływie trzeciego konsumpcyjnych okresie pierwszych trzech kwartałów wstosunku analogicznego okresu roku poprzedniego, ogłaszanego wkomunikacie Prezesa Głównego Urzędu Statystycznego Dzienniku Urzędowym Rzeczypospolitej Polskiej ŃMonitor Polski”, wterminie 15 dni po upływie trzeciego kwartału.”.
+**Art. 3.** W ustawie z dnia 9 listopada 2000 r. o repatriacji (Dz. U. z 2004 r. Nr 53, poz. 532 oraz z 2005 r. Nr 94, poz. 788) wprowadza się następujące zmiany:
 
-**Art. 4.** Wustawie zdnia 15 marca 2002 oustroju miasta stołecznego Warszawy (Dz. U. 41, poz. 361 127, poz. 1087 2006 249, poz. 1826) art. 12 3 pkt uchyla lit. c.
+**Art. 4.** W ustawie z dnia 15 marca 2002 r. o ustroju miasta stołecznego Warszawy (Dz. U. Nr 41, poz. 361 i Nr 127, poz. 1087) 12 ust. 3 pkt 1 uchyla się lit. c.
 
-**Art. 5.** W ustawie dnia 13 listopada 2003 o dochodach jednostek samorządu terytorialnego (Dz. U. 203, poz. 1966, 2005 249, poz. 2104 z2006 141, poz. 1011 225, poz. 1635) wart. 4 wprowadza następujące zmiany: kwartału, komunikacie, Dzienniku Urzędo- 1) pkt uchyla lit. f; wym Rzeczypospolitej Polskiej ŃMonitor Polski”, wskaênik, o mowa 2c.”. 2) pkt 2 lit. c
+**Art. 5.** W ustawie z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego (Dz. U. Nr 203, poz. 1966, z 2005 r. Nr 249, poz. 2104 oraz z 2006 r. Nr 141, poz. 1011) 4 ust. 1 wprowadza się następujące zmiany:
 
-**Art. 3.** Wustawie zdnia 9 listopada 2000 orepa- Ńc) miejscowej, uzdrowiskowej posiadania triacji (Dz. U. 2004 53, poz. 532 2005 psów,”. 94, poz. 788) wprowadza następujące zmiany:
+**Art. 6.** Dotychczasowe przepisy wykonawcze wydane na podstawie 7 ust. 5, 9 ust. 8 i 9 ustawy, o której mowa 1, zachowują moc do czasu wejścia życie nowych przepisów wykonawczych.
 
-**Art. 6.** Dotychczasowe przepisy wykonawcze wy1) art. 17 4a dane podstawie art. 7 5, art. 9 8 i9 ustawy, Ń4a. Kwota, o której mowa 4, ulega corocz- o której mowa art. 1, zachowują moc czasu wejnie dnia stycznia podwyższeniu przy za- ścia życie nowych przepisów wykonawczych. stosowaniu wskaênika wzrostu cen towarów usług konsumpcyjnych okresie pierw- Art. 7. Ustawa wchodzi życie dniem stycznia szych trzech kwartałów wstosunku analo- 2007 r., zwyjątkiem art. pkt 1, pkt 6 lit. atiret drugie, gicznego okresu roku poprzedniego, ogłasza- pkt 7, pkt 8 lit. a lit. d, pkt 9, pkt 12, pkt 14, pkt 15, nego komunikacie Prezesa Głównego art.4 iart. 5, które wchodzą wżycie zdniem stycznia Urzędu Statystycznego Dzienniku Urzędo- 2008 wym Rzeczypospolitej Polskiej ŃMonitor Polski”, terminie 15 dni po upływie trzeciego kwartału.”; Prezydent Rzeczypospolitej Polskiej: L. Kaczyński 1829 USTAWA dnia 8 grudnia 2006 o Polskiej Agencji ˚eglugi Powietrznej
-
-#### Rozdział Przepisy ogólne
+**Art. 7.** Ustawa wchodzi życie z dniem 1 stycznia 2007 r., z wyjątkiem 1 pkt 1, pkt 6 lit. a tiret drugie, pkt 7, pkt 8 lit. a i lit. d, pkt 9, pkt 12, pkt 14, pkt 15, 4 i 5, które wchodzą życie z dniem 1 stycznia 2008 r.
 

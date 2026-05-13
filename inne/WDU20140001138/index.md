@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 28 sierpnia 2014 r.
+# o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw
+
+*USTAWA z dnia 22 lipca 2014 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,14 +26,13 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001138) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1138/text.pdf) |
 
-USTAWA z dnia 22 lipca 2014 r.
-o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw
-
 **Art. 1.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2008 r. Nr 164, poz. 1027, z późn. zm. ) wprowadza się następujące zmiany:
 
 **Art. 32b.**
 
-1. Świadczeniodawca sporządzający dokumentację medyczną dotyczącą diagnostyki onkologicznej lub leczenia onkologicznego ma obowiązek sporządzić i przekazać nieodpłatnie świadczeniobiorcy posiadającemu kartę diagnostyki i leczenia onkologicznego kopię tej dokumentacji, za której wykonanie świadczeniodawca nie pobiera opłaty, o której mowa w art. 28 ust. 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2012 r. poz. 159 i 742 oraz z 2013 r. poz. 1245). Kopia dokumentacji medycznej dotyczącej diagnostyki onkologicznej i leczenia onkologicznego stanowi załącznik do karty diagnostyki i leczenia onkologicznego.
+1. Świadczeniodawca sporządzający dokumentację medyczną dotyczącą diagnostyki onkologicznej lub leczenia onkologicznego ma obowiązek sporządzić i przekazać nieodpłatnie świadczeniobiorcy posiadającemu kartę diagnostyki i leczenia onkologicznego kopię tej dokumentacji, za której wykonanie świadczeniodawca nie pobiera opłaty, o której mowa w art. 28 ust. 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2012 r. poz. 159 i 742 oraz z 2013 r. poz.
+
+- **1245)** . Kopia dokumentacji medycznej dotyczącej diagnostyki onkologicznej i leczenia onkologicznego stanowi załącznik do karty diagnostyki i leczenia onkologicznego.
 
 2. W przypadku:
 
@@ -47,13 +48,14 @@ o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków p
     - **b)** datę urodzenia,
     - **c)** oznaczenie płci,
     - **d)** adres miejsca zamieszkania,
-    - **e)** numer PESEL, jeżeli został nadany, w przypadku noworodka numer PESEL jednego z rodziców lub opiekuna prawnego, a w przypadku osób, które nie mają nadanego numeru PESEL rodzaj i numer dokumentu potwierdzającego tożsamość,
-    - **f)** w przypadku gdy świadczeniobiorcą jest osoba małoletnia, całkowicie ubezwłasnowolniona lub niezdolna do świadomego wyrażenia zgody nazwisko i imię (imiona) przedstawiciela ustawowego albo opiekuna faktycznego w rozumieniu art. 3 ust. 1 pkt 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta, oraz adres jego miejsca zamieszkania;
+    - **e)** numer PESEL, jeżeli został nadany, w przypadku noworodka – numer PESEL jednego z rodziców lub opiekuna prawnego, a w przypadku osób, które nie mają nadanego numeru PESEL – rodzaj i numer dokumentu potwierdzającego tożsamość,
+    - **f)** w przypadku gdy świadczeniobiorcą jest osoba małoletnia, całkowicie ubezwłasnowolniona lub niezdolna do świadomego wyrażenia zgody – nazwisko i imię (imiona) przedstawiciela ustawowego albo opiekuna faktycznego w rozumieniu art. 3 ust. 1 pkt 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta, oraz adres jego miejsca zamieszkania;
 
 - **2)** oznaczenie świadczeniodawcy, w tym lekarza, który udzielił świadczeń opieki zdrowotnej;
 - **3)** datę sporządzenia;
 - **4)** dane dotyczące objawów;
 - **5)** dane dotyczące badań diagnostycznych;
+- **6)** dane o skierowaniu do lekarza specjalisty;
 - **7)** dane dotyczące diagnostyki onkologicznej;
 - **8)** rozpoznanie;
 - **9)** dane dotyczące oceny jakości diagnostyki onkologicznej;
@@ -65,7 +67,7 @@ o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków p
 
 5. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, wzór karty diagnostyki i leczenia onkologicznego, mając na celu zapewnienie właściwej realizacji diagnostyki onkologicznej lub leczenia onkologicznego.”;
 
-- **26)** w art. 33 ust. 2 otrzymuje brzmienie: „2. Skierowanie, o którym mowa w ust. 1, wymaga potwierdzenia przez oddział wojewódzki Funduszu właściwy ze względu na miejsce zamieszkania świadczeniobiorcy, a jeżeli nie można ustalić miejsca jego zamieszkania oddział wojewódzki Funduszu właściwy dla siedziby świadczeniodawcy, który wystawił skierowanie. Do potwierdzenia oraz odmowy potwierdzania skierowania, o którym mowa w ust. 1, nie stosuje się przepisów Kodeksu postępowania administracyjnego.”;
+- **26)** w art. 33 ust. 2 otrzymuje brzmienie: „2. Skierowanie, o którym mowa w ust. 1, wymaga potwierdzenia przez oddział wojewódzki Funduszu właściwy ze względu na miejsce zamieszkania świadczeniobiorcy, a jeżeli nie można ustalić miejsca jego zamieszkania – oddział wojewódzki Funduszu właściwy dla siedziby świadczeniodawcy, który wystawił skierowanie. Do potwierdzenia oraz odmowy potwierdzania skierowania, o którym mowa w ust. 1, nie stosuje się przepisów Kodeksu postępowania administracyjnego.”;
 - **27)** po art. 33a dodaje się art. 33b w brzmieniu: „Art. 33b. 1. W przypadku gdy stan zdrowia świadczeniobiorcy wymaga wykonywania procedur medycznych stosowanych w leczeniu szpitalnym, ale nie wymaga udzielania całodobowych lub całodziennych świadczeń opieki zdrowotnej w odpowiednio urządzonych, stałych pomieszczeniach podmiotu leczniczego, świadczeniodawca zapewnia bezpłatnie na wniosek świadczeniobiorcy zakwaterowanie w innym miejscu, w którym świadczy się usługi hotelarskie w rozumieniu przepisów ustawy z dnia 29 sierpnia 1997 r. o usługach turystycznych (Dz. U. z 2014 r. poz. 196 i 822) w zakresie krótkotrwałego, ogólnie dostępnego wynajmowania domów, mieszkań i pokoi. Informację tę odnotowuje się w dokumentacji medycznej.
 
 2. Świadczeniobiorcy, który korzysta z zakwaterowania na podstawie ust. 1, przysługuje bezpłatnie, na jego wniosek, transport z miejsca tego zakwaterowania do miejsca udzielania świadczeń. Informację tę odnotowuje się w dokumentacji medycznej.
@@ -86,7 +88,7 @@ o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków p
 - **2)** innych niż określone w pkt 1 istotnych problemów zdrowotnych dotyczących całej lub określonej grupy świadczeniobiorców przy istniejących możliwościach eliminowania bądź ograniczania tych problemów;
 - **3)** wdrożenia nowych procedur medycznych i przedsięwzięć profilaktycznych.
 
-4. Programy polityki zdrowotnej opracowywane, wdrażane, realizowane i finansowane przez jednostki samorządu terytorialnego, w przypadku gdy dotyczą świadczeń gwarantowanych objętych programami, o których mowa w ust. 1,
+4. Programy polityki zdrowotnej opracowywane, wdrażane, realizowane i finansowane przez jednostki samorządu terytorialnego, w przypadku gdy dotyczą świadczeń gwarantowanych objętych programami, o których mowa w ust. 1, realizowanymi przez ministrów oraz Fundusz, muszą być z nimi spójne merytorycznie i organizacyjnie.
 
 5. Programy, o których mowa w ust. 1, mogą być realizowane w okresie jednego roku albo wielu lat.
 
@@ -98,8 +100,8 @@ o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków p
 
 3. Agencja sporządza opinię w sprawie projektu programu polityki zdrowotnej w terminie 2 miesięcy od dnia otrzymania projektu tego programu na podstawie kryteriów, o których mowa w:
 
-- **1)** art. 31a ust. 1 w przypadku programów polityki zdrowotnej opracowanych przez ministra;
-- **2)** art. 31a ust. 1 i art. 48 ust. 4 w przypadku programów polityki zdrowotnej opracowanych przez jednostkę samorządu terytorialnego.
+- **1)** art. 31a ust. 1 – w przypadku programów polityki zdrowotnej opracowanych przez ministra;
+- **2)** art. 31a ust. 1 i art. 48 ust. 4 – w przypadku programów polityki zdrowotnej opracowanych przez jednostkę samorządu terytorialnego.
 
 **Art. 48b.**
 
@@ -121,14 +123,14 @@ o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków p
 
 - **29)** w art. 57 w ust. 2 uchyla się pkt 3 i 6;
 - **30)** w art. 66 ust. 2 otrzymuje brzmienie: „2. Status członka rodziny osoby ubezpieczonej oraz status członka rodziny będącego osobą uprawnioną do świadczeń opieki zdrowotnej na podstawie przepisów o koordynacji zwalnia z obowiązku ubezpieczenia zdrowotnego z tytułów, o których mowa w ust. 1 pkt 17–20, 26–28b, 30 i 33.”;
-- **31)** w art. 67 w ust. 5 pkt 2 otrzymuje brzmienie: „2) wyższą wygasa po upływie 4 miesięcy od ukończenia studiów lub studiów doktoranckich albo skreślenia z listy studentów lub uczestników studiów doktoranckich.”;
+- **31)** w art. 67 w ust. 5 pkt 2 otrzymuje brzmienie: „2) wyższą – wygasa po upływie 4 miesięcy od ukończenia studiów lub studiów doktoranckich albo skreślenia z listy studentów lub uczestników studiów doktoranckich.”;
 - **32)** w art. 73 pkt 4 otrzymuje brzmienie: „4) osób, o których mowa w art. 66 ust. 1 pkt 20 i 22, powstaje z dniem immatrykulacji lub przyjęcia na studia doktoranckie i złożenia oświadczenia o niepodleganiu obowiązkowi ubezpieczenia zdrowotnego z innego tytułu, a wygasa z dniem ukończenia studiów lub studiów doktoranckich albo skreślenia z listy studentów lub skreślenia z listy uczestników studiów doktoranckich;”;
 - **33)** w art. 75 po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „1a. W przypadku dokonywania wypłaty emerytury lub renty z innego państwa członkowskiego, bank kieruje do oddziału wojewódzkiego Funduszu, właściwego ze względu na miejsce zamieszkania osoby otrzymującej takie świadczenie, zapytanie dotyczące podlegania przez tę osobę ubezpieczeniu zdrowotnemu w Rzeczypospolitej Polskiej.
 
-1b. W przypadku, o którym mowa w ust. 1a, zgłoszenie do ubezpieczenia zdrowotnego następuje do 15. dnia miesiąca następującego po miesiącu, w którym bank otrzymał od oddziału wojewódzkiego Funduszu informację potwierdzającą podleganie danej osoby ubezpieczeniu zdrowotnemu w Rzeczypospolitej Polskiej z tytułu pobierania polskiej
+1b. W przypadku, o którym mowa w ust. 1a, zgłoszenie do ubezpieczenia zdrowotnego następuje do 15. dnia miesiąca następującego po miesiącu, w którym bank otrzymał od oddziału wojewódzkiego Funduszu informację potwierdzającą podleganie danej osoby ubezpieczeniu zdrowotnemu w Rzeczypospolitej Polskiej z tytułu pobierania polskiej emerytury lub renty.”;
 
 - **34)** art. 89 otrzymuje brzmienie: „Art. 89. Od kwoty nieprzekazanych w terminie przez Zakład Ubezpieczeń Społecznych, Kasę Rolniczego Ubezpieczenia Społecznego oraz podmiot zobowiązany do przekazania składek za osoby, o których mowa w art. 66 ust. 1 pkt 8a, składek na ubezpieczenie zdrowotne wraz z należnymi odsetkami Prezes Funduszu pobiera odsetki za zwłokę na zasadach i w wysokości określonych dla zaległości podatkowych.”;
-- **35)** po dziale IV dodaje się dział IVa w brzmieniu: „Dział IVa Ocena potrzeb zdrowotnych
+- **35)** po dziale IV dodaje się dział IVa w brzmieniu: „DZIAŁ IVA Ocena potrzeb zdrowotnych
 
 **Art. 95a.**
 
@@ -138,19 +140,19 @@ o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków p
 
 3. Mapę Regionalną sporządza się raz na 5 lat.
 
-4. Narodowy Instytut Zdrowia Publicznego Państwowy Zakład Higieny przygotowuje projekt Mapy Regionalnej, w szczególności na podstawie danych epidemiologicznych, demograficznych i danych z rejestru podmiotów wykonujących działalność leczniczą, oraz przekazuje go właściwemu wojewodzie w terminie do dnia 15 października roku poprzedzającego o 1 rok kalendarzowy pierwszy rok obowiązywania Mapy Regionalnej.
+4. Narodowy Instytut Zdrowia Publicznego – Państwowy Zakład Higieny przygotowuje projekt Mapy Regionalnej, w szczególności na podstawie danych epidemiologicznych, demograficznych i danych z rejestru podmiotów wykonujących działalność leczniczą, oraz przekazuje go właściwemu wojewodzie w terminie do dnia 15 października roku poprzedzającego o 1 rok kalendarzowy pierwszy rok obowiązywania Mapy Regionalnej.
 
-5. Wojewoda na podstawie projektu, o którym mowa w ust. 4, sporządza Mapę Regionalną i przekazuje ją do Narodowego Instytutu Zdrowia Publicznego Państwowego Zakładu Higieny w terminie do dnia 1 lutego roku poprzedzającego pierwszy rok obowiązywania Mapy Regionalnej.
+5. Wojewoda na podstawie projektu, o którym mowa w ust. 4, sporządza Mapę Regionalną i przekazuje ją do Narodowego Instytutu Zdrowia Publicznego – Państwowego Zakładu Higieny w terminie do dnia 1 lutego roku poprzedzającego pierwszy rok obowiązywania Mapy Regionalnej.
 
-6. Narodowy Instytut Zdrowia Publicznego Państwowy Zakład Higieny na podstawie Map Regionalnych sporządza Ogólnopolską Mapę Potrzeb Zdrowotnych, zwaną dalej „Mapą Ogólnopolską”.
+6. Narodowy Instytut Zdrowia Publicznego – Państwowy Zakład Higieny na podstawie Map Regionalnych sporządza Ogólnopolską Mapę Potrzeb Zdrowotnych, zwaną dalej „Mapą Ogólnopolską”.
 
-7. Mapę Ogólnopolską i Mapy Regionalne, zwane dalej „mapami”, Narodowy Instytut Zdrowia Publicznego Państwowy Zakład Higieny przekazuje ministrowi właściwemu do spraw zdrowia do zatwierdzenia do dnia 1 kwietnia roku poprzedzającego pierwszy rok obowiązywania tych map.
+7. Mapę Ogólnopolską i Mapy Regionalne, zwane dalej „mapami”, Narodowy Instytut Zdrowia Publicznego – Państwowy Zakład Higieny przekazuje ministrowi właściwemu do spraw zdrowia do zatwierdzenia do dnia 1 kwietnia roku poprzedzającego pierwszy rok obowiązywania tych map.
 
 8. Minister właściwy do spraw zdrowia zatwierdza mapy w terminie do dnia 1 czerwca roku poprzedzającego pierwszy rok obowiązywania tych map. Przed zatwierdzeniem minister właściwy do spraw zdrowia może dokonać zmian map.
 
 9. Zatwierdzone mapy są publikowane na stronach Biuletynu Informacji Publicznej urzędu obsługującego ministra właściwego do spraw zdrowia oraz urzędów obsługujących wojewodów.
 
-10. Narodowy Instytut Zdrowia Publicznego Państwowy Zakład Higieny monitoruje aktualność map. Narodowy Instytut Zdrowia Publicznego Państwowy Zakład Higieny przekazuje ministrowi właściwemu do spraw zdrowia corocznie do dnia 30 czerwca wyniki monitorowania map za rok poprzedni.
+10. Narodowy Instytut Zdrowia Publicznego – Państwowy Zakład Higieny monitoruje aktualność map. Narodowy Instytut Zdrowia Publicznego – Państwowy Zakład Higieny przekazuje ministrowi właściwemu do spraw zdrowia corocznie do dnia 30 czerwca wyniki monitorowania map za rok poprzedni.
 
 11. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, zakres treści map, kierując się potrzebą zapewnienia skutecznego narzędzia planowania zabezpieczenia właściwej dostępności do świadczeń opieki zdrowotnej, z uwzględnieniem specyfiki potrzeb zdrowotnych społeczności lokalnych.
 
@@ -161,7 +163,7 @@ o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków p
 - **1)** jeden przedstawiciel wojewody;
 - **2)** jeden przedstawiciel marszałka województwa;
 - **3)** jeden przedstawiciel dyrektora oddziału wojewódzkiego Funduszu;
-- **4)** jeden przedstawiciel Narodowego Instytutu Zdrowia Publicznego Państwowego Zakładu Higieny;
+- **4)** jeden przedstawiciel Narodowego Instytutu Zdrowia Publicznego – Państwowego Zakładu Higieny;
 - **5)** jeden przedstawiciel wojewódzkiego Urzędu Statystycznego;
 - **6)** jeden przedstawiciel szkół wyższych kształcących na kierunkach medycznych mających siedzibę na terenie województwa;
 - **7)** jeden przedstawiciel konwentu powiatów danego województwa;
@@ -187,8 +189,8 @@ o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków p
 
 4. Do określenia wartości inwestycji zalicza się następujące rodzaje poniesionych lub planowanych kosztów:
 
-- **1)** przygotowania do realizacji inwestycji budowlanych oraz innych zmian w obiektach budowlanych, o których mowa w art. 3 pkt 1 ustawy z dnia 7 lipca 1994 r. Prawo budowlane (Dz. U. z 2013 r. poz. 1409, z późn. zm. ), wraz z usługami towarzyszącymi, w tym obsługą inwestorską, oraz zakupu obiektów budowlanych, w szczególności kosztów opracowania dokumentacji projektowej, zakupu i przygotowania gruntu pod budowę oraz ekspertyz, świadectw, operatów, studiów, pomiarów geodezyjnych i prac geologicznych oraz prac archeologicznych, dotyczących tych inwestycji;
-- **2)** realizacji inwestycji budowlanych oraz innych zmian w obiektach budowlanych, o których mowa w art. 3 pkt 1 ustawy z dnia 7 lipca 1994 r. Prawo budowlane, wraz z usługami towarzyszącymi, w tym obsługą inwestorską;
+- **1)** przygotowania do realizacji inwestycji budowlanych oraz innych zmian w obiektach budowlanych, o których mowa w art. 3 pkt 1 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2013 r. poz. 1409, z późn. zm. ), wraz z usługami towarzyszącymi, w tym obsługą inwestorską, oraz zakupu obiektów budowlanych, w szczególności kosztów opracowania dokumentacji projektowej, zakupu i przygotowania gruntu pod budowę oraz ekspertyz, świadectw, operatów, studiów, pomiarów geodezyjnych i prac geologicznych oraz prac archeologicznych, dotyczących tych inwestycji;
+- **2)** realizacji inwestycji budowlanych oraz innych zmian w obiektach budowlanych, o których mowa w art. 3 pkt 1 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, wraz z usługami towarzyszącymi, w tym obsługą inwestorską;
 - **3)** zakupu obiektów budowlanych;
 - **4)** zakupu lub wytworzenia we własnym zakresie środków trwałych;
 - **5)** transportu i montażu oraz innych kosztów ponoszonych w celu przekazania środków trwałych do używania;
@@ -240,7 +242,7 @@ o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków p
 
 **Art. 9.** W ustawie z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. Nr 113, poz. 657, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 10.** W ustawie z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych (Dz. U. Nr 122, poz. 696, z późn. zm. ) w art. 2 pkt 1 otrzymuje brzmienie: „1) Agencja Agencję Oceny Technologii Medycznych i Taryfikacji działającą na podstawie ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2008 r. Nr 164, poz. 1027, z późn. zm. );”.
+**Art. 10.** W ustawie z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych (Dz. U. Nr 122, poz. 696, z późn. zm. ) w art. 2 pkt 1 otrzymuje brzmienie: „1) Agencja – Agencję Oceny Technologii Medycznych i Taryfikacji działającą na podstawie ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2008 r. Nr 164, poz. 1027, z późn. zm. );”.
 
 **Art. 11.** Osoby wchodzące w skład organów Narodowego Funduszu Zdrowia, powołane przed dniem wejścia w życie niniejszej ustawy, pełnią tę funkcję do czasu powołania nowych organów.
 
@@ -259,38 +261,7 @@ o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków p
 
 4. Prezes Agencji Oceny Technologii Medycznych sporządzi plan finansowy Agencji na 2015 r. na podstawie planu finansowego Agencji Oceny Technologii Medycznych na 2015 r. oraz z uwzględnieniem ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, i przekazuje go w terminie do dnia 7 grudnia 2014 r. ministrowi właściwemu do spraw zdrowia w celu zatwierdzenia.
 
-**Art. 13.**
-
-1. W latach 2015–2024 maksymalny limit kosztów Agencji z tytułu realizacji zadań w zakresie taryfikacji świadczeń, o której mowa w art. 31t ust. 5–8 ustawy, o której mowa w art. 1 ustawy, w brzmieniu nadanym niniejszą ustawą, wynosi:
-
-- **1)** 2015 r. 46 399 tys. zł;
-- **2)** 2016 r. 48 732 tys. zł;
-- **3)** 2017 r. 51 065 tys. zł;
-- **4)** 2018 r. 53 399 tys. zł;
-- **5)** 2019 r. 55 732 tys. zł;
-- **6)** 2020 r. 58 065 tys. zł;
-- **7)** 2021 r. 60 399 tys. zł;
-- **8)** 2022 r. 62 732 tys. zł;
-- **9)** 2023 r. 65 065 tys. zł;
-- **10)** 2024 r. 67 399 tys. zł.
-
-2. W latach 2015–2024 maksymalny limit kosztów wynagrodzeń w Agencji, z tytułu realizacji zadań w zakresie taryfikacji świadczeń, o której mowa w art. 31t ust. 5–8 ustawy, o której mowa w art. 1 ustawy, w brzmieniu nadanym niniejszą ustawą, wynosi:
-
-- **1)** 2015 r. 6631 tys. zł;
-- **2)** 2016 r. 6631 tys. zł;
-- **3)** 2017 r. 6797 tys. zł;
-- **4)** 2018 r. 6960 tys. zł;
-- **6)** 2020 r. 7298 tys. zł;
-- **7)** 2021 r. 7473 tys. zł;
-- **8)** 2022 r. 7653 tys. zł;
-- **9)** 2023 r. 7829 tys. zł;
-- **10)** 2024 r. 8009 tys. zł.
-
-3. Prezes Agencji monitoruje wykorzystanie rocznych limitów kosztów, o których mowa w ust. 1 i 2, oraz wdraża mechanizmy korygujące, o których mowa w ust. 4 i 5.
-
-4. W przypadku gdy koszty, o których mowa w ust. 1, po pierwszym półroczu danego roku przekroczą 65% limitów przewidzianych na ten rok, wysokość tych kosztów, w tym w szczególności kosztów pozyskiwania danych niezbędnych do ustalenia taryfy świadczeń, obniża się w drugim półroczu o kwotę gwarantującą, że limity te nie zostaną przekroczone.
-
-5. W przypadku gdy koszty, o których mowa w ust. 2, po pierwszym półroczu danego roku przekroczą 65% limitów przewidzianych na ten rok, wysokość tych kosztów obniża się w drugim półroczu o kwotę gwarantującą, że limity te nie zostaną przekroczone.
+**Art. 13.** (uchylony)
 
 **Art. 14.** W latach 2015 i 2016 odpis na taryfikację świadczeń, o którym mowa w art. 31t ust. 5–8 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, na dany rok obrotowy wynosi 0,07% planowanych należnych przychodów z tytułu składek na ubezpieczenie zdrowotne za ten rok obrotowy określonych w planie finansowym Narodowego Funduszu Zdrowia, o którym mowa w art. 121 ust. 3 albo 4, albo ust. 5, albo art. 123 ust. 3 ustawy, o której mowa w art. 1. Jeżeli wysokość kosztów w zakresie taryfikacji wynikających z planu finansowego Agencji na 2015 r. jest wyższa od wysokości kosztów w zakresie taryfikacji wynikającej ze sprawozdania z wykonania planu finansowego Agencji za ten rok, wysokość odpisu na taryfikację świadczeń w planie finansowym Agencji na 2016 r. zmniejsza się o tę różnicę.
 
@@ -315,16 +286,18 @@ o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków p
 1. Świadczeniobiorca, który przed dniem wejścia w życie niniejszej ustawy:
 
 - **1)** oczekiwał na diagnostykę mającą na celu rozpoznanie nowotworu złośliwego,
-- **2)** rozpoczął diagnostykę mającą na celu rozpoznanie nowotworu złośliwego może, po dniu wejścia w życie ustawy, uzyskać na swój wniosek od lekarza, o którym mowa w art. 55 ust. 2a ustawy, o której mowa w art. 1, kartę diagnostyki i leczenia onkologicznego na zasadach określonych w ustawie, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą.
+- **2)** rozpoczął diagnostykę mającą na celu rozpoznanie nowotworu złośliwego – może, po dniu wejścia w życie ustawy, uzyskać na swój wniosek od lekarza, o którym mowa w art. 55 ust. 2a ustawy, o której mowa w art. 1, kartę diagnostyki i leczenia onkologicznego na zasadach określonych w ustawie, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą.
+
+2. Przepisu ust. 1 nie stosuje się do nowotworów skóry, z wyjątkiem czerniaka skóry.
 
 **Art. 19.**
 
 1. Mapy potrzeb zdrowotnych, o których mowa w art. 95a ust. 1 i 6 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, na dwa następujące po wejściu w życie niniejszej ustawy okresy, sporządza się wyłącznie w odniesieniu do świadczeń opieki zdrowotnej z zakresu leczenia szpitalnego. Mapy te sporządza minister właściwy do spraw zdrowia do dnia:
 
-- **1)** 1 kwietnia 2016 r. w przypadku map sporządzanych na okres od dnia 30 czerwca 2016 r. do dnia 31 grudnia 2018 r.;
-- **2)** 31 maja 2018 r. w przypadku map sporządzanych na okres od dnia 1 stycznia 2019 r. do dnia 31 grudnia 2021 r.
+- **1)** 1 kwietnia 2016 r. – w przypadku map sporządzanych na okres od dnia 30 czerwca 2016 r. do dnia 31 grudnia 2018 r.;
+- **2)** 31 maja 2018 r. – w przypadku map sporządzanych na okres od dnia 1 stycznia 2019 r. do dnia 31 grudnia 2021 r.
 
-2. Do dnia ogłoszenia pierwszych map potrzeb zdrowotnych, o których mowa w art. 95a ust. 1 i 6 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, w odniesieniu do świadczeń opieki zdrowotnej z zakresu ambulatoryjnej opieki specjalistycznej, opinia, o której mowa w art. 95d ust. 2 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, jest wydawana na podstawie danych z rejestru podmiotów wykonujących działalność leczniczą, po zasięgnięciu opinii dyrektora właściwego oddziału wojewódzkiego Funduszu.
+2. (uchylony)
 
 3. Do dnia ogłoszenia pierwszych regionalnych map potrzeb zdrowotnych zgodnie z art. 95a ust. 9 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, oraz ustalenia priorytetów dla regionalnej polityki zdrowotnej, o których mowa w art. 95c ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, dyrektor oddziału wojewódzkiego Narodowego Funduszu Zdrowia sporządza plan zakupu świadczeń opieki zdrowotnej, o którym mowa w art. 131b ust. 1 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, na następny rok, uwzględniając stan dostępności do świadczeń opieki zdrowotnej na obszarze województwa.
 
@@ -346,7 +319,11 @@ o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków p
 
 **Art. 24.** Przepisu art. 148 ust. 2 pkt 2 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, nie stosuje się do:
 
-**Art. 25.** Przepisy wykonawcze wydane na podstawie art. 10 ust. 3, art. 13a, art. 23a ust. 3, art. 137 ust. 9, art. 139 ust. 5 i art. 190 ust. 3 ustawy, o której mowa w art. 1, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 10 ust. 3, art. 13a, art. 23a ust. 3, art. 137, art. 139 ust. 9 i art. 190 ust. 3 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
+**Art. 25.**
+
+1. Przepisy wykonawcze wydane na podstawie art. 10 ust. 3, art. 23a ust. 3, art. 137 ust. 9, art. 139 ust. 5 i art. 190 ust. 3 ustawy, o której mowa w art. 1, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 10 ust. 3, art. 23a ust. 3, art. 137, art. 139 ust. 9 i art. 190 ust. 3 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
+
+2. Przepisy wykonawcze wydane na podstawie art. 13a ustawy, o której mowa w art. 1, utrzymane w mocy na podstawie art. 12 ust. 2 ustawy z dnia 10 października 2014 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw (Dz. U. poz. 000), zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 13a ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż do dnia 1 marca 2015 r.
 
 **Art. 26.** Ustawa wchodzi w życie z dniem 1 stycznia 2015 r., z wyjątkiem:
 

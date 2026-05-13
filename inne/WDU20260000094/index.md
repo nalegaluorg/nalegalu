@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 28 stycznia 2026 r.
+# w sprawie ogłoszenia jednolitego tekstu ustawy o Narodowym Instytucie Wolności Centrum Rozwoju Społeczeństwa Obywatelskiego
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 9 stycznia 2026 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2026-01-29 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000094) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/94/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 9 stycznia 2026 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o Narodowym Instytucie Wolności Centrum Rozwoju Społeczeństwa Obywatelskiego
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 15 września 2017 r. o Narodowym Instytucie Wolności Centrum Rozwoju Społeczeństwa Obywatelskiego (Dz. U. z 2023 r. poz. 1618), z uwzględnieniem zmian wprowadzonych ustawą z dnia 4 kwietnia 2025 r. o zmianie ustawy o Narodowym Instytucie Wolności Centrum Rozwoju Społeczeństwa Obywatelskiego (Dz. U. poz. 531) oraz zmian wynikających z przepisów ogłoszonych przed dniem 8 stycznia 2026 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 2 ustawy z dnia 4 kwietnia 2025 r. o zmianie ustawy o Narodowym Instytucie Wolności Centrum Rozwoju Społeczeństwa Obywatelskiego (Dz. U.
 poz. 531), który stanowi: „Art. 2. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.”.

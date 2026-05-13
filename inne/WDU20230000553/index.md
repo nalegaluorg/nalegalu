@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 23 marca 2023 r.
+# o zmianie ustawy o inwestycjach w zakresie elektrowni wiatrowych oraz niektórych innych ustaw
+
+*USTAWA z dnia 9 marca 2023 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,9 +25,6 @@ domain: null
 | Data wydania | 2023-03-23 |
 | Ostatnia zmiana | 2025-07-10 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000553) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/553/text.pdf) |
-
-USTAWA z dnia 9 marca 2023 r.
-o zmianie ustawy o inwestycjach w zakresie elektrowni wiatrowych oraz niektórych innych ustaw
 
 **Art. 1.** W ustawie z dnia 20 maja 2016 r. o inwestycjach w zakresie elektrowni wiatrowych (Dz. U. z 2021 r. poz. 724) wprowadza się następujące zmiany:
 
@@ -41,36 +40,36 @@ o zmianie ustawy o inwestycjach w zakresie elektrowni wiatrowych oraz niektóryc
 
 2. W przypadku lokalizacji elektrowni wiatrowej odległość elektrowni od:
 
-- **1)** parku narodowego jest równa lub większa od dziesięciokrotności całkowitej wysokości elektrowni wiatrowej;
-- **2)** rezerwatu przyrody wynosi nie mniej niż 500 metrów.
+- **1)** parku narodowego – jest równa lub większa od dziesięciokrotności całkowitej wysokości elektrowni wiatrowej;
+- **2)** rezerwatu przyrody – wynosi nie mniej niż 500 metrów.
 
 3. Ustanawianie parków narodowych i rezerwatów przyrody nie wymaga zachowania odległości, o których mowa w ust. 2.
 
 4. Przez odległości, o których mowa w ust. 2, rozumie się najkrótszy odcinek łączący punkt na granicy obszaru, dla którego ustanowiono formę ochrony przyrody, o której mowa w ust. 2, i linię, o której mowa w art. 5 ust. 1 pkt 6.”;
 
-- **8)** w art. 5:
-    - **a)** w ust. 1: wprowadzenie do wyliczenia otrzymuje brzmienie: „Przez odległości, o których mowa w art. 4 ust. 1 i 4, rozumie się najkrótsze odcinki między:”, w pkt 1 skreśla się wyrazy „w skład której wchodzi funkcja mieszkaniowa,”, pkt 2 otrzymuje brzmienie: „2) granicą terenu objętego decyzją WZ albo decyzją LICP dotyczącą inwestycji, o której mowa w pkt 1, na którym jest możliwa lokalizacja tej inwestycji, albo”, po pkt 2 dodaje się pkt 2a w brzmieniu: „2a) granicą terenu objętego inwestycją mieszkaniową określoną w uchwale o ustaleniu lokalizacji inwestycji mieszkaniowej, o której mowa w art. 7 ust. 4 ustawy z dnia 5 lipca 2018 r. o ułatwieniach w przygotowaniu i realizacji inwestycji mieszkaniowych oraz inwestycji towarzyszących (Dz. U. z 2021 r. poz. 1538), albo”, pkt 4 i 5 otrzymują brzmienie: „4) okręgiem, którego promień jest równy połowie średnicy wirnika wraz z łopatami, a środek jest środkiem okręgu opisanego na obrysie wieży istniejącej lub planowanej elektrowni wiatrowej, w przypadku:
+- **8)** w art. 5: o ułatwieniach w przygotowaniu i realizacji inwestycji mieszkaniowych oraz inwestycji towarzyszących (Dz. U. z 2021 r. poz. 1538), albo”, – pkt 4 i 5 otrzymują brzmienie: „4) okręgiem, którego promień jest równy połowie średnicy wirnika wraz z łopatami, a środek jest środkiem okręgu opisanego na obrysie wieży istniejącej lub planowanej elektrowni wiatrowej, w przypadku:
+    - **a)** w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „Przez odległości, o których mowa w art. 4 ust. 1 i 4, rozumie się najkrótsze odcinki między:”, – w pkt 1 skreśla się wyrazy „w skład której wchodzi funkcja mieszkaniowa,”, – pkt 2 otrzymuje brzmienie: „2) granicą terenu objętego decyzją WZ albo decyzją LICP dotyczącą inwestycji, o której mowa w pkt 1, na którym jest możliwa lokalizacja tej inwestycji, albo”, – po pkt 2 dodaje się pkt 2a w brzmieniu: „2a) granicą terenu objętego inwestycją mieszkaniową określoną w uchwale o ustaleniu lokalizacji inwestycji mieszkaniowej, o której mowa w art. 7 ust. 4 ustawy z dnia 5 lipca 2018 r.
     - **a)** wydawania pozwolenia na budowę dla elektrowni wiatrowej lub
     - **b)** lokalizowania, wydawania decyzji WZ, decyzji LICP, decyzji o środowiskowych uwarunkowaniach, pozwolenia na budowę lub wnoszenia sprzeciwu wobec zgłoszenia, o którym mowa w przepisach prawa budowlanego, dla budynku mieszkalnego albo budynku o funkcji mieszanej, w przypadku gdy dla wszystkich elektrowni wiatrowych przewidzianych na terenie, którego sposób zagospodarowania określony w planie miejscowym, decyzji WZ albo decyzji LICP dopuszcza budowę elektrowni wiatrowej, wydano pozwolenia na budowę, albo
 
-- **5)** linią rozgraniczającą teren, którego sposób zagospodarowania określony w planie miejscowym dopuszcza budowę elektrowni wiatrowej, albo granicą terenu objętego decyzją WZ albo decyzją LICP, na którym jest możliwa lokalizacja elektrowni wiatrowej, albo okręgiem, którego promień jest równy połowie średnicy wirnika wraz z łopatami, a środek jest środkiem okręgu opisanego na obrysie wieży istniejącej elektrowni wiatrowej, w zależności od tego, która odległość jest krótsza w przypadku lokalizowania, wydawania decyzji WZ, decyzji LICP, decyzji o środowiskowych uwarunkowaniach, pozwolenia na budowę lub wnoszenia sprzeciwu wobec zgłoszenia, o którym mowa w przepisach prawa budowlanego, dla budynku mieszkalnego albo budynku o funkcji mieszanej, w przypadku gdy:
+- **5)** linią rozgraniczającą teren, którego sposób zagospodarowania określony w planie miejscowym dopuszcza budowę elektrowni wiatrowej, albo granicą terenu objętego decyzją WZ albo decyzją LICP, na którym jest możliwa lokalizacja elektrowni wiatrowej, albo okręgiem, którego promień jest równy połowie średnicy wirnika wraz z łopatami, a środek jest środkiem okręgu opisanego na obrysie wieży istniejącej elektrowni wiatrowej, w zależności od tego, która odległość jest krótsza – w przypadku lokalizowania, wydawania decyzji WZ, decyzji LICP, decyzji o środowiskowych uwarunkowaniach, pozwolenia na budowę lub wnoszenia sprzeciwu wobec zgłoszenia, o którym mowa w przepisach prawa budowlanego, dla budynku mieszkalnego albo budynku o funkcji mieszanej, w przypadku gdy:
     - **a)** dla żadnej elektrowni wiatrowej lub nie dla wszystkich elektrowni wiatrowych przewidzianych na terenie, którego sposób zagospodarowania określony w planie miejscowym, decyzji WZ albo decyzji LICP umożliwia lokalizację elektrowni wiatrowej, wydano pozwolenie na budowę lub gdy
     - **b)** budynek mieszkalny albo budynek o funkcji mieszanej jest lokalizowany jednocześnie z elektrownią wiatrową, lub gdy
-    - **c)** sposób zagospodarowania określony w planie miejscowym, decyzji WZ albo decyzji LICP nie przesądza liczby tych elektrowni wiatrowych, albo”, dodaje się pkt 6 w brzmieniu: „6) linią rozgraniczającą teren, którego sposób zagospodarowania określony w planie miejscowym dopuszcza budowę elektrowni wiatrowej w przypadku lokalizowania elektrowni wiatrowej.”,
+    - **c)** sposób zagospodarowania określony w planie miejscowym, decyzji WZ albo decyzji LICP nie przesądza liczby tych elektrowni wiatrowych, albo”, – dodaje się pkt 6 w brzmieniu: „6) linią rozgraniczającą teren, którego sposób zagospodarowania określony w planie miejscowym dopuszcza budowę elektrowni wiatrowej – w przypadku lokalizowania elektrowni wiatrowej.”,
     - **b)** w ust. 2 wyrazy „w ust. 1 pkt 1 i 4” zastępuje się wyrazami „w ust. 1 pkt 1, 4 i 5”,
     - **c)** uchyla się ust. 3;
 
 - **9)** art. 6 otrzymuje brzmienie: „Art. 6. Odległość określoną lub wskazaną zgodnie z:
 - **1)** art. 4 uwzględniają:
-    - **a)** organy gminy oraz wojewoda przy sporządzaniu oraz uchwalaniu albo przyjmowaniu planu miejscowego albo jego zmiany,
-    - **b)** organy gminy oraz wojewoda przy wydawaniu decyzji WZ i decyzji LICP,
-    - **c)** organy administracji architektoniczno-budowlanej przy wydawaniu pozwolenia na budowę oraz ocenie zasadności wniesienia sprzeciwu wobec zgłoszenia, o którym mowa w przepisach prawa budowlanego,
-    - **d)** organy wydające decyzje o środowiskowych uwarunkowaniach przy wydawaniu tych decyzji;
+    - **a)** organy gminy oraz wojewoda – przy sporządzaniu oraz uchwalaniu albo przyjmowaniu planu miejscowego albo jego zmiany,
+    - **b)** organy gminy oraz wojewoda – przy wydawaniu decyzji WZ i decyzji LICP,
+    - **c)** organy administracji architektoniczno-budowlanej – przy wydawaniu pozwolenia na budowę oraz ocenie zasadności wniesienia sprzeciwu wobec zgłoszenia, o którym mowa w przepisach prawa budowlanego,
+    - **d)** organy wydające decyzje o środowiskowych uwarunkowaniach – przy wydawaniu tych decyzji;
 
 - **2)** art. 4a uwzględniają:
-    - **a)** organy gminy oraz wojewoda przy sporządzaniu oraz uchwalaniu albo przyjmowaniu planu miejscowego albo jego zmiany,
-    - **b)** organy gminy oraz wojewoda przy wydawaniu decyzji WZ, decyzji LICP, decyzji o ustaleniu lokalizacji strategicznej inwestycji w zakresie sieci przesyłowych, o której mowa w art. 5 ust. 1 ustawy z dnia 24 lipca 2015 r. o przygotowaniu i realizacji strategicznych inwestycji w zakresie sieci przesyłowych,
-    - **c)** organy administracji architektoniczno-budowlanej przy wydawaniu pozwolenia na budowę oraz ocenie zasadności wniesienia sprzeciwu wobec zgłoszenia, o którym mowa w przepisach prawa budowlanego.”;
+    - **a)** organy gminy oraz wojewoda – przy sporządzaniu oraz uchwalaniu albo przyjmowaniu planu miejscowego albo jego zmiany,
+    - **b)** organy gminy oraz wojewoda – przy wydawaniu decyzji WZ, decyzji LICP, decyzji o ustaleniu lokalizacji strategicznej inwestycji w zakresie sieci przesyłowych, o której mowa w art. 5 ust. 1 ustawy z dnia 24 lipca 2015 r. o przygotowaniu i realizacji strategicznych inwestycji w zakresie sieci przesyłowych,
+    - **c)** organy administracji architektoniczno-budowlanej – przy wydawaniu pozwolenia na budowę oraz ocenie zasadności wniesienia sprzeciwu wobec zgłoszenia, o którym mowa w przepisach prawa budowlanego.”;
 
 - **10)** po art. 6 dodaje się art. 6a–6g w brzmieniu: „Art. 6a. Wójt, burmistrz albo prezydent miasta gminy, w której jest lokalizowana elektrownia wiatrowa, ogłasza w prasie miejscowej, przez obwieszczenie oraz udostępnienie w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu gminy lub miasta, na stronie podmiotowej urzędu gminy lub miasta, a także w sposób zwyczajowo przyjęty w danej miejscowości, informację o podjęciu uchwały o przystąpieniu do sporządzenia planu miejscowego, na podstawie którego ma być lokalizowana elektrownia wiatrowa, określając formę, miejsce i termin składania wniosków do planu miejscowego, nie krótszy niż 21 dni od dnia ogłoszenia.
 
@@ -120,7 +119,7 @@ o zmianie ustawy o inwestycjach w zakresie elektrowni wiatrowych oraz niektóryc
 
 4. Obwieszczenie, o którym mowa w ust. 3, zawiera również informacje, o których mowa w ust. 2 pkt 2–4.
 
-5. Mieszkaniec gminy może zgłosić chęć objęcia udziału w mocy zainstalowanej elektrowni wiatrowej nie większego niż 2 kW na każdy własny punkt poboru energii w rozumieniu art. 3 pkt 67 ustawy z dnia 10 kwietnia 1997 r. Prawo energetyczne.
+5. Mieszkaniec gminy może zgłosić chęć objęcia udziału w mocy zainstalowanej elektrowni wiatrowej nie większego niż 2 kW na każdy własny punkt poboru energii w rozumieniu art. 3 pkt 67 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne.
 
 6. Wójt, burmistrz albo prezydent miasta gminy, na terenie której jest zlokalizowana elektrownia wiatrowa, w terminie 60 dni od dnia następującego po upływie terminu składania zgłoszeń, o których mowa w ust. 3, przekazuje inwestorowi listę mieszkańców gminy zainteresowanych zawarciem umowy z inwestorem wraz z szacowanym zapotrzebowaniem na moc zainstalowaną, adresami oraz informacjami o punktach poboru energii, po uprzedniej weryfikacji danych potwierdzających adres zamieszkania.
 
@@ -134,7 +133,7 @@ o zmianie ustawy o inwestycjach w zakresie elektrowni wiatrowych oraz niektóryc
 
 11. Koszt objęcia udziału w mocy zainstalowanej elektrowni wiatrowej stanowi iloczyn tego udziału, wyrażonego w kW, oraz kosztu budowy elektrowni wiatrowej, o którym mowa w ust. 2 pkt 4.
 
-12. Maksymalny koszt budowy elektrowni wiatrowej oblicza się według wzoru: WKBew=CRew ∗ RWPew∗6,7/1000 gdzie poszczególne symbole oznaczają: WKBew maksymalny koszt budowy elektrowni wiatrowej, wyrażony w zł na kW, CRew cenę referencyjną dla instalacji o łącznej mocy zainstalowanej większej niż 1 MW, wykorzystującej do wytwarzania energii elektrycznej wyłącznie energię wiatru na lądzie, określoną w przepisach wykonawczych wydanych na podstawie art. 77 ust. 3 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii, wyrażoną w zł na MWh, obowiązującą w dniu przekazania wójtowi, burmistrzowi albo prezydentowi miasta gminy informacji, o której mowa w ust. 2, RWPew referencyjny roczny wolumen produkcji energii elektrycznej dla elektrowni wiatrowej w odniesieniu do 1 MW mocy zainstalowanej, wynoszący 3300 MWh/MW.
+12. Maksymalny koszt budowy elektrowni wiatrowej oblicza się według wzoru: WKBew = CRew ∗ RWPew∗6,7/1000 gdzie poszczególne symbole oznaczają: WKBew – maksymalny koszt budowy elektrowni wiatrowej, wyrażony w zł na kW, CRew – cenę referencyjną dla instalacji o łącznej mocy zainstalowanej większej niż 1 MW, wykorzystującej do wytwarzania energii elektrycznej wyłącznie energię wiatru na lądzie, określoną w przepisach wykonawczych wydanych na podstawie art. 77 ust. 3 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii, wyrażoną w zł na MWh, obowiązującą w dniu przekazania wójtowi, burmistrzowi albo prezydentowi miasta gminy informacji, o której mowa w ust. 2, RWPew – referencyjny roczny wolumen produkcji energii elektrycznej dla elektrowni wiatrowej w odniesieniu do 1 MW mocy zainstalowanej, wynoszący 3300 MWh/MW.
 
 13. Reprezentant prosumentów określony w umowie, o której mowa w ust. 8, przekazuje operatorowi systemu dystrybucyjnego elektroenergetycznego, do sieci którego jest przyłączana elektrownia wiatrowa, nie później niż w terminie 30 dni przed dniem planowanego rozpoczęcia wytwarzania energii elektrycznej w tej elektrowni, zgłoszenie instalacji odnawialnego źródła energii, o którym mowa w art. 5 ust. 3 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii. Przepisów art. 5 ust. 1a–1c ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii nie stosuje się.”;
 
@@ -148,7 +147,7 @@ o zmianie ustawy o inwestycjach w zakresie elektrowni wiatrowych oraz niektóryc
 
 4. Jeżeli w gminie pobliskiej nie ma uchwalonego planu miejscowego dla obszaru, o którym mowa w ust. 3, albo dla tego obszaru obowiązuje plan miejscowy, który umożliwia zabudowę budynkami mieszkalnymi lub budynkami o funkcji mieszanej, organ administracji architektoniczno-budowlanej odmawia wydania pozwolenia na budowę wyłącznie w odniesieniu do tych elektrowni wiatrowych, dla których odległość, o której mowa w ust. 3, wykracza poza granice gminy, w której jest lokalizowana elektrownia wiatrowa.”;
 
-- **12)** po art. 7a dodaje się art. 7aa w brzmieniu: „Art. 7aa. 1. W przypadku gdy w postępowaniu w sprawie wydania pozwolenia na budowę dla elektrowni wiatrowej liczba stron przekracza dwadzieścia, stosuje się przepis art. 49 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2022 r. poz. 2000 i 2185).
+- **12)** po art. 7a dodaje się art. 7aa w brzmieniu: „Art. 7aa. 1. W przypadku gdy w postępowaniu w sprawie wydania pozwolenia na budowę dla elektrowni wiatrowej liczba stron przekracza dwadzieścia, stosuje się przepis art. 49 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2022 r. poz. 2000 i 2185).
 
 2. Przepisu ust. 1 nie stosuje się do inwestora.”;
 
@@ -195,7 +194,7 @@ o zmianie ustawy o inwestycjach w zakresie elektrowni wiatrowych oraz niektóryc
 
 - **1)** spełnia wymagania do pracy na wysokościach wynikające z przepisów dotyczących bezpieczeństwa i higieny pracy oraz inne określone przez producenta elementów technicznych elektrowni wiatrowej;
 - **2)** ma uprawnienia w zakresie obsługi urządzeń transportu bliskiego w elektrowni wiatrowej;
-- **3)** ma kwalifikacje potwierdzone odpowiednim świadectwem kwalifikacyjnym, o którym mowa w art. 54 ust. 1 ustawy z dnia 10 kwietnia 1997 r. Prawo energetyczne;
+- **3)** ma kwalifikacje potwierdzone odpowiednim świadectwem kwalifikacyjnym, o którym mowa w art. 54 ust. 1 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne;
 - **4)** ma udokumentowane co najmniej roczne doświadczenie zawodowe w zakresie wykonywania czynności i przeglądów serwisowych elementów technicznych elektrowni wiatrowych, instalacji mających na celu wytwarzanie, przesyłanie lub dystrybucję energii elektrycznej lub instalacji przemysłowych;
 - **5)** przeszedł przeszkolenie w zakresie zasad funkcjonowania i eksploatacji określonego typu elektrowni wiatrowej, której elementy techniczne będą poddawane czynnościom i przeglądom serwisowym;
 - **6)** przeszedł przeszkolenie w zakresie ewakuacji z elektrowni wiatrowych.
@@ -232,9 +231,9 @@ o zmianie ustawy o inwestycjach w zakresie elektrowni wiatrowych oraz niektóryc
 - **1)** wykaz osób oraz kopie dokumentów potwierdzających spełnienie wymagań, o których mowa w art. 8d ust. 3;
 - **2)** kopie lub elektroniczne kopie dokumentacji określającej procedury, o których mowa w art. 8d ust. 5;
 - **3)** dowód wniesienia opłaty za przeprowadzenie certyfikacji i wpis do rejestru;
-- **4)** oświadczenie wnioskodawcy będącego osobą fizyczną lub osób reprezentujących wnioskodawcę, w przypadku wnioskodawcy niebędącego osobą fizyczną, o następującej treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia, wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. Kodeks karny, oświadczam, że posiadam pełną zdolność do czynności prawnych, korzystam z pełni praw publicznych i nie byłem skazany prawomocnym wyrokiem za przestępstwo przeciwko wiarygodności dokumentów i obrotowi gospodarczemu.”; klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+- **4)** oświadczenie wnioskodawcy będącego osobą fizyczną lub osób reprezentujących wnioskodawcę, w przypadku wnioskodawcy niebędącego osobą fizyczną, o następującej treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia, wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, oświadczam, że posiadam pełną zdolność do czynności prawnych, korzystam z pełni praw publicznych i nie byłem skazany prawomocnym wyrokiem za przestępstwo przeciwko wiarygodności dokumentów i obrotowi gospodarczemu.”; klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
-5. Wykaz osób, o którym mowa w ust. 4 pkt 1, zawiera dane osobowe personelu wykonującego czynności i przeglądy serwisowe elementów technicznych, o którym mowa w art. 8d ust. 3, w zakresie imienia, nazwiska oraz numeru PESEL albo numeru i serii dokumentu potwierdzającego tożsamość w przypadku osób nieposiadających numeru PESEL.
+5. Wykaz osób, o którym mowa w ust. 4 pkt 1, zawiera dane osobowe personelu wykonującego czynności i przeglądy serwisowe elementów technicznych, o którym mowa w art. 8d ust. 3, w zakresie imienia, nazwiska oraz numeru PESEL albo numeru i serii dokumentu potwierdzającego tożsamość – w przypadku osób nieposiadających numeru PESEL.
 
 **Art. 8f.**
 
@@ -282,11 +281,11 @@ o zmianie ustawy o inwestycjach w zakresie elektrowni wiatrowych oraz niektóryc
 
 4. W skład Komitetu wchodzi po jednym przedstawicielu:
 
-- **1)** organu administracji rządowej ministra właściwego do spraw gospodarki,
+- **1)** organu administracji rządowej – ministra właściwego do spraw gospodarki,
 - **2)** ogólnopolskich stowarzyszeń i organizacji konsumenckich,
 - **3)** ogólnopolskich stowarzyszeń i organizacji pracodawców,
 - **4)** ogólnopolskich stowarzyszeń i organizacji gospodarczych,
-- **5)** ogólnopolskich, niezależnych stowarzyszeń i organizacji technicznych dających rękojmię prawidłowego wykonywania zadań członka Komitetu.
+- **5)** ogólnopolskich, niezależnych stowarzyszeń i organizacji technicznych – dających rękojmię prawidłowego wykonywania zadań członka Komitetu.
 
 5. Członkiem Komitetu nie może być osoba skazana prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe, niemająca pełnej zdolności do czynności prawnych lub karana dyscyplinarnie.
 
@@ -312,7 +311,7 @@ o zmianie ustawy o inwestycjach w zakresie elektrowni wiatrowych oraz niektóryc
 
 3. Komitet rozpatruje odwołania w składzie trzyosobowym, w terminie nie dłuższym niż 30 dni od dnia otrzymania odwołania.
 
-4. Nadanie odwołania w polskiej placówce pocztowej operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. Prawo pocztowe (Dz. U. z 2022 r. poz. 896, 1933 i 2042) lub w placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej, złożenie go w polskim urzędzie konsularnym lub złożenie go za pomocą środków komunikacji elektronicznej, o których mowa w ustawie z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną, po opatrzeniu kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym, jest równoznaczne z zachowaniem terminu wniesienia go do Komitetu.
+4. Nadanie odwołania w polskiej placówce pocztowej operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2022 r. poz. 896, 1933 i 2042) lub w placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej, złożenie go w polskim urzędzie konsularnym lub złożenie go za pomocą środków komunikacji elektronicznej, o których mowa w ustawie z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną, po opatrzeniu kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym, jest równoznaczne z zachowaniem terminu wniesienia go do Komitetu.
 
 5. Wniesienie odwołania w terminie wstrzymuje wykreślenie z rejestru.
 
@@ -345,7 +344,7 @@ o zmianie ustawy o inwestycjach w zakresie elektrowni wiatrowych oraz niektóryc
 
 3. Wysokość kary pieniężnej, o której mowa w ust. 1, nie może być niższa niż 10 000 zł i nie może być wyższa niż 5% przychodu ukaranego przedsiębiorcy, osiągniętego w poprzednim roku podatkowym, a jeżeli kara pieniężna jest związana z działalnością prowadzoną na podstawie koncesji albo wpisu do rejestru działalności regulowanej, wysokość kary nie może być niższa niż 10 000 zł i nie może być wyższa niż 5% przychodu ukaranego przedsiębiorcy, wynikającego z działalności koncesjonowanej albo działalności wykonywanej na podstawie wpisu do rejestru działalności regulowanej, osiągniętego w poprzednim roku podatkowym.
 
-4. W przypadku gdy ukarany przedsiębiorca w poprzednim roku podatkowym nie osiągnął przychodu, Prezes URE, wymierzając karę pieniężną, uwzględnia ostatni ustalony przychód osiągnięty przez tego przedsiębiorcę w roku podatkowym, a jeżeli kara pieniężna jest związana z działalnością prowadzoną na podstawie koncesji albo wpisu do rejestru działalności regulowanej ostatni ustalony przychód z działalności koncesjonowanej albo działalności wykonywanej na podstawie wpisu do rejestru działalności regulowanej.
+4. W przypadku gdy ukarany przedsiębiorca w poprzednim roku podatkowym nie osiągnął przychodu, Prezes URE, wymierzając karę pieniężną, uwzględnia ostatni ustalony przychód osiągnięty przez tego przedsiębiorcę w roku podatkowym, a jeżeli kara pieniężna jest związana z działalnością prowadzoną na podstawie koncesji albo wpisu do rejestru działalności regulowanej – ostatni ustalony przychód z działalności koncesjonowanej albo działalności wykonywanej na podstawie wpisu do rejestru działalności regulowanej.
 
 5. Wysokość kary pieniężnej, w przypadku o którym mowa w ust. 4, nie może być niższa niż dolny próg kary określony w ust. 3.
 
@@ -361,17 +360,17 @@ o zmianie ustawy o inwestycjach w zakresie elektrowni wiatrowych oraz niektóryc
 
 11. Kara pieniężna, o której mowa w ust. 1, podlega ściągnięciu w trybie przepisów o postępowaniu egzekucyjnym w administracji.
 
-12. W sprawach dotyczących kary pieniężnej, o której mowa w ust. 1, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2022 r. poz. 2651 i 2707 oraz z 2023 r. poz. 180, 326 i 511), z wyłączeniem art. 68 § 1–3.
+12. W sprawach dotyczących kary pieniężnej, o której mowa w ust. 1, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2022 r. poz. 2651 i 2707 oraz z 2023 r. poz. 180, 326 i 511), z wyłączeniem art. 68 § 1–3.
 
-13. Od decyzji Prezesa URE wydanej na podstawie ust. 2 stronie służy odwołanie do Sądu Okręgowego w Warszawie sądu ochrony konkurencji i konsumentów, w terminie dwutygodniowym od dnia jej doręczenia. Odwołanie wnosi się za pośrednictwem Prezesa URE.
+13. Od decyzji Prezesa URE wydanej na podstawie ust. 2 stronie służy odwołanie do Sądu Okręgowego w Warszawie – sądu ochrony konkurencji i konsumentów, w terminie dwutygodniowym od dnia jej doręczenia. Odwołanie wnosi się za pośrednictwem Prezesa URE.
 
-14. Postępowanie w sprawie odwołania od decyzji Prezesa URE toczy się według przepisów ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm. ) o postępowaniu w sprawach z zakresu regulacji energetyki.”;
+14. Postępowanie w sprawie odwołania od decyzji Prezesa URE toczy się według przepisów ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm. ) o postępowaniu w sprawach z zakresu regulacji energetyki.”;
 
 - **16)** w art. 13 uchyla się ust. 3b;
 - **17)** w art. 14 uchyla się ust. 3;
 - **18)** w art. 15 uchyla się ust. 3–5.
 
-**Art. 2.** W ustawie z dnia 7 lipca 1994 r. Prawo budowlane (Dz. U. z 2021 r. poz. 2351, z późn. zm. ) w art. 35 po ust. 6a dodaje się ust. 6b w brzmieniu: „6b. Przepisu ust. 1 pkt 1 lit. a nie stosuje się do tymczasowych obiektów budowlanych stanowiących urządzenia infrastruktury technicznej, służące do pomiaru wietrzności na terenach, dla których w planie miejscowym ustalono przeznaczenie umożliwiające realizację produkcji, górnictwa i wydobycia lub gospodarowania odpadami w rozumieniu przepisów wydanych na podstawie art. 16 ust. 2 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2022 r. poz. 503, 1846, 2185 i 2747 oraz z 2023 r. poz. 553) .”.
+**Art. 2.** W ustawie z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2021 r. poz. 2351, z późn. zm. ) w art. 35 po ust. 6a dodaje się ust. 6b w brzmieniu: „6b. Przepisu ust. 1 pkt 1 lit. a nie stosuje się do tymczasowych obiektów budowlanych stanowiących urządzenia infrastruktury technicznej, służące do pomiaru wietrzności na terenach, dla których w planie miejscowym ustalono przeznaczenie umożliwiające realizację produkcji, górnictwa i wydobycia lub gospodarowania odpadami w rozumieniu przepisów wydanych na podstawie art. 16 ust. 2 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2022 r. poz. 503, 1846, 2185 i 2747 oraz z 2023 r. poz. 553).”.
 
 **Art. 3.** W ustawie z dnia 21 grudnia 2000 r. o dozorze technicznym (Dz. U. z 2022 r. poz. 1514) w art. 37 w pkt 20 kropkę zastępuje się średnikiem i dodaje się pkt 21 w brzmieniu: „21) wykonywanie czynności związanych z certyfikacją i prowadzeniem rejestru przedsiębiorców uprawnionych do wykonywania czynności i przeglądów serwisowych elementów technicznych elektrowni wiatrowych oraz innych obowiązków, o których mowa w rozdziale 2a ustawy z dnia 20 maja 2016 r. o inwestycjach w zakresie elektrowni wiatrowych (Dz. U. z 2021 r. poz. 724 oraz z 2023 r. poz. 553).”.
 
@@ -422,11 +421,11 @@ o zmianie ustawy o inwestycjach w zakresie elektrowni wiatrowych oraz niektóryc
 
 **Art. 10.**
 
-1. Jeżeli w planie miejscowym, o którym mowa w art. 15 ust. 2, ust. 7 pkt 1 lub ust. 8 ustawy zmienianej w art. 1, przewiduje się lokalizację budynku mieszkalnego albo budynku o funkcji mieszanej, organ administracji architektoniczno-budowlanej odmawia wydania pozwolenia na budowę, a w przypadku zgłoszenia wnosi sprzeciw, jeżeli inwestycja w zakresie tego budynku nie spełnia wymogu zachowania odległości nie mniejszej niż 700 metrów od elektrowni wiatrowej, z wyjątkiem elektrowni wiatrowych, dla których decyzja o pozwoleniu na budowę stała się ostateczna przed dniem wejścia w życie niniejszej ustawy.
+1. Jeżeli w planie miejscowym, o którym mowa w art. 15 ust. 2, ust. 7 pkt 1 lub ust. 8 ustawy zmienianej w art. 1, przewiduje się lokalizację budynku mieszkalnego albo budynku o funkcji mieszanej, organ administracji architektoniczno-budowlanej odmawia wydania pozwolenia na budowę, a w przypadku zgłoszenia – wnosi sprzeciw, jeżeli inwestycja w zakresie tego budynku nie spełnia wymogu zachowania odległości nie mniejszej niż 700 metrów od elektrowni wiatrowej, z wyjątkiem elektrowni wiatrowych, dla których decyzja o pozwoleniu na budowę stała się ostateczna przed dniem wejścia w życie niniejszej ustawy.
 
 2. Jeżeli w planie miejscowym, o którym mowa w art. 15 ust. 2, ust. 7 pkt 1 lub ust. 8 ustawy zmienianej w art. 1, przewiduje się lokalizację budynku mieszkalnego albo budynku o funkcji mieszanej, a lokalizacja takiego budynku wymaga uzyskania decyzji o środowiskowych uwarunkowaniach, organ prowadzący postępowanie w sprawie decyzji o środowiskowych uwarunkowaniach odmawia zgody na realizację przedsięwzięcia, jeżeli inwestycja w zakresie tego budynku nie spełnia wymogu zachowania odległości nie mniejszej niż 700 metrów od elektrowni wiatrowej, z wyjątkiem elektrowni wiatrowych, dla których decyzja o pozwoleniu na budowę stała się ostateczna przed dniem wejścia w życie niniejszej ustawy.
 
-**Art. 11.** W przypadku decyzji WZ wydanej na podstawie postępowań, o których mowa w art. 14 ust. 1 i 2 ustawy zmienianej w art. 1, oraz decyzji WZ, o których mowa w art. 14 ust. 4 ustawy zmienianej w art. 1, dla których przed dniem wejścia w życie niniejszej ustawy nie wydano pozwolenia na budowę, organ administracji architektoniczno-budowlanej odmawia wydania pozwolenia na budowę, a w przypadku zgłoszenia wnosi sprzeciw, jeżeli inwestycja w zakresie budynku mieszkalnego albo budynku o funkcji mieszanej nie spełnia wymogu zachowania odległości nie mniejszej niż 700 metrów od elektrowni wiatrowej, z wyjątkiem elektrowni wiatrowych, dla których decyzja o pozwoleniu na budowę stała się ostateczna przed dniem wejścia w życie niniejszej ustawy.
+**Art. 11.** W przypadku decyzji WZ wydanej na podstawie postępowań, o których mowa w art. 14 ust. 1 i 2 ustawy zmienianej w art. 1, oraz decyzji WZ, o których mowa w art. 14 ust. 4 ustawy zmienianej w art. 1, dla których przed dniem wejścia w życie niniejszej ustawy nie wydano pozwolenia na budowę, organ administracji architektoniczno-budowlanej odmawia wydania pozwolenia na budowę, a w przypadku zgłoszenia – wnosi sprzeciw, jeżeli inwestycja w zakresie budynku mieszkalnego albo budynku o funkcji mieszanej nie spełnia wymogu zachowania odległości nie mniejszej niż 700 metrów od elektrowni wiatrowej, z wyjątkiem elektrowni wiatrowych, dla których decyzja o pozwoleniu na budowę stała się ostateczna przed dniem wejścia w życie niniejszej ustawy.
 
 **Art. 12.** Do lokalizowania lub budowy budynku mieszkalnego albo budynku o funkcji mieszanej na podstawie decyzji WZ albo decyzji LICP, albo lokalizowania takiego budynku na podstawie planu miejscowego, w przypadku określania odległości takiego budynku od elektrowni wiatrowej, dla której decyzja o pozwoleniu na budowę stała się ostateczna przed dniem wejścia w życie niniejszej ustawy, nie stosuje się przepisu art. 4 ust. 4 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.
 
@@ -446,11 +445,11 @@ o zmianie ustawy o inwestycjach w zakresie elektrowni wiatrowych oraz niektóryc
 
 2. Do postępowań w sprawie wydania pozwolenia na budowę lub decyzji o środowiskowych uwarunkowaniach dotyczących budynku mieszkalnego albo budynku o funkcji mieszanej, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
 
-3. Zgłoszenia budowy budynków, o których mowa w art. 29 ust. 1 pkt 1 ustawy z dnia 7 lipca 1994 r. Prawo budowlane (Dz. U. z 2021 r. poz. 2351, z późn. zm. ), w stosunku do których przed dniem wejścia w życie niniejszej ustawy organ nie wniósł sprzeciwu, pozostają skuteczne.
+3. Zgłoszenia budowy budynków, o których mowa w art. 29 ust. 1 pkt 1 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2021 r. poz. 2351, z późn. zm. ), w stosunku do których przed dniem wejścia w życie niniejszej ustawy organ nie wniósł sprzeciwu, pozostają skuteczne.
 
-4. Do zgłoszeń budowy budynków, o których mowa w art. 29 ust. 1 pkt 1 ustawy z dnia 7 lipca 1994 r. Prawo budowlane, dokonanych przed dniem wejścia w życie niniejszej ustawy, dla których przed dniem wejścia w życie niniejszej ustawy nie upłynął termin na wniesienie sprzeciwu, stosuje się przepisy dotychczasowe.
+4. Do zgłoszeń budowy budynków, o których mowa w art. 29 ust. 1 pkt 1 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, dokonanych przed dniem wejścia w życie niniejszej ustawy, dla których przed dniem wejścia w życie niniejszej ustawy nie upłynął termin na wniesienie sprzeciwu, stosuje się przepisy dotychczasowe.
 
-5. Zgłoszenia budowy budynków, o których mowa w art. 29 ust. 1 pkt 1a ustawy z dnia 7 lipca 1994 r. Prawo budowlane, które zostały dokonane przed dniem wejścia w życie niniejszej ustawy, pozostają skuteczne.
+5. Zgłoszenia budowy budynków, o których mowa w art. 29 ust. 1 pkt 1a ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, które zostały dokonane przed dniem wejścia w życie niniejszej ustawy, pozostają skuteczne.
 
 6. Do postępowań w przedmiocie wydania decyzji WZ albo decyzji LICP dla budynku mieszkalnego lub budynku o funkcji mieszanej, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.
 
@@ -472,32 +471,32 @@ o zmianie ustawy o inwestycjach w zakresie elektrowni wiatrowych oraz niektóryc
 
 **Art. 21.** Prezes Urzędu Dozoru Technicznego nadaje Komitetowi Odwoławczemu, o którym mowa w art. 8l ust. 1 ustawy zmienianej w art. 1, regulamin, o którym mowa w art. 8l ust. 9 ustawy zmienianej w art. 1, w terminie 45 dni od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 22.** Do inwestycji polegających na budowie elektrowni wiatrowej, które uzyskały decyzję o pozwoleniu na budowę przed dniem 2 lipca 2024 r., przepisów art. 6g ustawy zmienianej w art. 1 nie stosuje się.
+**Art. 22.** Do inwestycji polegających na budowie elektrowni wiatrowej, które uzyskały decyzję o pozwoleniu na budowę przed dniem 20 października 2026 r., przepisów art. 6g ustawy zmienianej w art. 1 nie stosuje się.
 
 **Art. 23.**
 
 1. Maksymalny limit wydatków z budżetu państwa przeznaczonych na wykonywanie zadań Ministra Sprawiedliwości, wynikających z niniejszej ustawy wynosi w roku:
 
-- **1)** 2023 383 088 zł;
-- **2)** 2024 411 488 zł;
-- **3)** 2025 433 389 zł;
-- **4)** 2026 451 638 zł;
-- **5)** 2027 470 749 zł;
-- **6)** 2028 490 766 zł;
-- **7)** 2029 511 734 zł;
-- **8)** 2030 533 703 zł;
-- **9)** 2031 556 723 zł;
-- **10)** 2032 580 848 zł.
+- **1)** 2023 – 383 088 zł;
+- **2)** 2024 – 411 488 zł;
+- **3)** 2025 – 433 389 zł;
+- **4)** 2026 – 451 638 zł;
+- **5)** 2027 – 470 749 zł;
+- **6)** 2028 – 490 766 zł;
+- **7)** 2029 – 511 734 zł;
+- **8)** 2030 – 533 703 zł;
+- **9)** 2031 – 556 723 zł;
+- **10)** 2032 – 580 848 zł.
 
 2. Minister Sprawiedliwości monitoruje wykorzystanie limitu wydatków, o którym mowa w ust. 1.
 
 3. W przypadku przekroczenia lub zagrożenia przekroczenia przyjętego na dany rok budżetowy maksymalnego limitu wydatków określonego w ust. 1 oraz w przypadku, gdy część planowanych wydatków, o których mowa w ust. 1, przypadająca proporcjonalnie na okres od początku roku kalendarzowego do końca danego kwartału została przekroczona:
 
-- **1)** po pierwszym kwartale co najmniej o 20%,
-- **2)** po dwóch kwartałach co najmniej o 15%,
-- **3)** po trzech kwartałach co najmniej o 10% Minister Sprawiedliwości stosuje mechanizm korygujący polegający na obniżeniu kosztów realizacji zadań, o których mowa w ust. 1.
+- **1)** po pierwszym kwartale – co najmniej o 20%,
+- **2)** po dwóch kwartałach – co najmniej o 15%,
+- **3)** po trzech kwartałach – co najmniej o 10% – Minister Sprawiedliwości stosuje mechanizm korygujący polegający na obniżeniu kosztów realizacji zadań, o których mowa w ust. 1.
 
 4. W przypadku gdy wielkość wydatków w poszczególnych miesiącach jest zgodna z planem finansowym, przepisu ust. 3 nie stosuje się.
 
-**Art. 24.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 10 w zakresie art. 6g, który wchodzi w życie z dniem 2 lipca 2024 r. Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 24.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 10 w zakresie art. 6g, który wchodzi w życie z dniem 20 października 2026 r.
 

@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# Ustawa z dnia 5 stycznia 2011 r. o zmianie ustawy o ochronie granicy państwowej
+# o zmianie ustawy o ochronie granicy państwowej
+
+*USTAWA z dnia 5 stycznia 2011 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,5 +26,7 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110500255) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/255/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 12 października 1990 r. b) gdy na pokładzie nie ma żadnych o ochronie granicy państwowej (Dz. U. z 2009 r. Nr 12, osób, poz. 67 oraz z 2010 r. Nr 164, poz. 1108) wprowadza c) g dy jest użyty jako środek ataku o chasię następujące zmiany: rakterze terrorystycznym.
+**Art. 1.** W ustawie z dnia 12 października 1990 r. o ochronie granicy państwowej (Dz. U. z 2009 r. Nr 12, poz. 67 oraz z 2010 r. Nr 164, poz. 1108) wprowadza się następujące zmiany:
+
+**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

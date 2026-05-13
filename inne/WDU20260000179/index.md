@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 17 lutego 2026 r.
+# o ustanowieniu Dnia Inwalidy Wojennego W uznaniu zasług i poświęcenia osób, które w wyniku działań wojennych doznały trwałego uszczerbku na zdrowiu, wyrażając szacunek dla ich cierpienia, odwagi i poświęcenia na rzecz Ojczyzny, stanowi się, co następuje:
+
+*USTAWA z dnia 23 stycznia 2026 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +25,6 @@ domain: null
 | Data wydania | 2026-02-17 |
 | Ostatnia zmiana | 2026-02-20 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000179) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/179/text.pdf) |
-
-Poz. 179
-USTAWA z dnia 23 stycznia 2026 r.
-o ustanowieniu Dnia Inwalidy Wojennego W uznaniu zasług i poświęcenia osób, które w wyniku działań wojennych doznały trwałego uszczerbku na zdrowiu, wyrażając szacunek dla ich cierpienia, odwagi i poświęcenia na rzecz Ojczyzny, stanowi się, co następuje:
 
 **Art. 1.** Ustanawia się dzień 12 kwietnia Dniem Inwalidy Wojennego.
 

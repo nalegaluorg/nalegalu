@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 2 lutego 2001 r.
+# o zmianie ustawy o systemie ubezpieczeń społecznych oraz niekt(cid:243)rych innych ustaw
+
+*USTAWA z dnia 11 stycznia 2001 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,54 +26,56 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010080064) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/64/text.pdf) |
 
-USTAWA zdnia 11 stycznia 2001 r.
-ozmianie ustawy osystemie ubezpieczeń społecznych oraz niektórych innych ustaw.
+**Art. 1.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz.U. Nr 137, poz. 887, Nr 162, poz. 1118 i 1126, z 1999 r. Nr 26, poz. 228, Nr 60, poz. 636, Nr 72, poz. 802, Nr 78, poz. 875 i Nr 110, poz. 1256 oraz z 2000 r. Nr 9, poz. 118, Nr 95, poz. 1041, Nr 104, poz. 1104 i Nr 119, poz. 1249) wprowadza się następujące zmiany:
 
-**Art. 1.** W ustawie z dnia 13 paêdziernika 1998 r. o systemie ubezpieczeń społecznych (Dz.U. 137, poz. 887, 162, poz. 1118 i 1126, z 1999 r. 26, poz. 228, 60, poz. 636, 72, poz. 802, 78, poz.875 iNr 110, poz. 1256 oraz z2000 r. 9, poz. 118, 95, poz. 1041, 104, poz. 1104 iNr 119, poz. 1249) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 28 lipca 1983 r. o podatku od spadk(cid:243)w i darowizn (Dz.U. z 1997 r. Nr 16, poz. 89, Nr 137, poz. 926, Nr 139, poz. 932 oraz z 2000 r. Nr 22, poz. 270 i Nr 120, poz. 1268) art. 3 po pkt 4 dodaje się pkt 5 brzmieniu: (cid:132)5) nabycie drodze spadku środk(cid:243)w zgromadzonych na rachunku zmarłego członka otwartego funduszu emerytalnego,(cid:148).
 
-**Art. 2.** W ustawie z dnia 28 lipca 1983 r. o podatku od spadków i darowizn (Dz.U. z 1997 r. 16, poz. 89, 137, poz. 926iNr 139, poz. 932 oraz z2000 r. 22, poz. 270 iNr 120, poz. 1268) wart. 3 po pkt 4 dodaje się pkt 5 wbrzmieniu: Ń5) nabycie w drodze spadku środków zgromadzonych na rachunku zmarłego członka otwartego funduszu emerytalnego.”
+**Art. 3.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od os(cid:243)b fizycznych (Dz.U. z 2000 r. Nr 14, poz. 176, Nr 22, poz. 270, Nr 60, poz. 703, Nr 70, poz. 816, Nr 104, poz. 1104, Nr 117, poz. 1228 i Nr 122, poz. 1324) wprowadza się następujące zmiany:
 
-**Art. 3.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz.U. z2000 r. 14, poz. 176, 22, poz. 270, 60, poz. 703, 70, poz.816, 104, poz. 1104, 117, poz. 1228 iNr 122, poz. 1324 oraz z 2001 r. 4, poz. 27) wprowadza się
+**Art. 4.** W ustawie z dnia 14 grudnia 1995 r. o sp(cid:243)łdzielczych kasach oszczędnościowokredytowych (Dz.U. z 1996 r. Nr 1, poz. 2 i z 1999 r. Nr 101, poz. 1178) wprowadza się następujące zmiany:
 
-**Art. 4.** W ustawie z dnia 14 grudnia 1995 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz.U. z1996 r. 1, poz. 2 iz1999 r. 101, poz. 1178) wprowadza się następujące zmiany:
+**Art. 5.** W ustawie z dnia 6 lutego 1997 r. o powszechnym ubezpieczeniu zdrowotnym (Dz.U. Nr 28, poz. 153, Nr 75, poz. 468, z 1998 r. Nr 117, poz. 756, Nr 137, poz. 887, Nr 144, poz. 929, Nr 162, poz. 1116, z 1999 r. Nr 45, poz. 439, Nr 49, poz. 483, Nr 63, poz. 700, Nr 70, poz. 777, Nr 72, poz. 802, Nr 109, poz. 1236, Nr 110, poz. 1255 i 1256 oraz z 2000 r. Nr 12, poz. 136, Nr 18, poz. 230, Nr 95, poz. 1041 i Nr 122, poz. 1314 i poz. 1324) wprowadza się następujące zmiany:
 
-**Art. 5.** W ustawie z dnia 6 lutego 1997 r. o powszechnym ubezpieczeniu zdrowotnym (Dz.U. 28, poz. 153 i 75, poz. 468, z 1998 r. 117, poz. 756, 137, poz. 887, 144, poz. 929 i 162, poz. 1116, z1999 r. 45, poz. 439, 49, poz. 483, 63, poz. 700, 70, poz. 777, 72, poz. 802, 109, poz. 1236, 110, poz. 1255 i 1256 oraz z 2000 r. 12, poz. 136, 18, poz. 230, 95, poz. 1041 i 122, poz. 1311 i1324) wprowadza się następujące zmiany:
+**Art. 6.** W ustawie z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych (Dz.U. Nr 139, poz. 934, z 1998 r. Nr 98, poz. 610, Nr 106, poz. 668 i Nr 162, poz. 1118, z 1999 r. Nr 110, poz. 1256 oraz z 2000 r. Nr 60, poz. 702) wprowadza się następujące zmiany: (cid:132)Art. 129a. 1. Osoby, kt(cid:243)rym na podstawie art. 128, otwarty fundusz emerytalny otworzył rachunek, mają prawo do jednorazowej wypłaty wszystkich środk(cid:243)w zgromadzonych na rachunku, terminie 14 dni od daty złożenia wniosku razie:
 
-**Art. 6.** Wustawie zdnia 28 sierpnia 1997 r. oorganizacji i funkcjonowaniu funduszy emerytalnych (Dz.U. 139, poz. 934, z1998 r. 98, poz. 610, 106, poz. 668 iNr 162, poz. 1118, z1999 r. 110, poz. 1256 oraz z2000 r. 60, poz. 702) wprowadza się następujące zmiany:
+**Art. 7.** W ustawie z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz.U. Nr 140, poz. 938, z 1998 r. Nr 160, poz. 1063 oraz z 2000 r. Nr 53, poz. 648, Nr 62, poz. 718 i Nr 119, poz. 1252) art. 51 ust. 1 po pkt 3 dodaje się pkt 3a brzmieniu: (cid:132)3a) Krajowej Sp(cid:243)łdzielczej Kasy Oszczędnościowo-Kredytowej - dla cel(cid:243)w przeprowadzania rozliczeń, o kt(cid:243)rych mowa art. 3 ust. 1 ustawy z dnia 14 grudnia 1995 r. o sp(cid:243)łdzielczych kasach oszędnościowo-kredytowych (Dz.U. z 1996 r. Nr 1, poz. 2 i z 1999 r. Nr 101, poz. 1178),(cid:148).
 
-**Art. 7.** Wustawie zdnia 29 sierpnia 1997 r. oNarodowym Banku Polskim (Dz.U. 140, poz. 938, z1998r. 160, poz. 1063 oraz z 2000 r. 53, poz. 648, 62, poz. 718 iNr 119, poz. 1252) wart. 51 wust. 1 po pkt 3 dodaje się pkt 3awbrzmieniu: Ń3a) Krajowej Spółdzielczej Kasy Oszczędnościowo-Kredytowej dla celów przeprowadzania ubezpieczeń społecznych (Dz.U. rozliczeń, októrych mowa wart. 3 ust. 1 ustawy z dnia 14 grudnia 1995 r. o spółdzielczych kasach oszędnościowo-kredytowych (Dz. U. z1996 r. 1, poz. 2,z1999 r. 101, poz.1178 i z 2001 r. 8, poz. 64),”.
+**Art. 8.** W ustawie z dnia 29 sierpnia 1997 r. - Prawo bankowe (Dz.U. Nr 140, poz. 939, z 1998 r. Nr 160, poz. 1063 i Nr 162, poz. 1118, z 1999 r. Nr 11, poz. 95 i Nr 40, poz. 399 oraz z 2000 r. Nr 93, poz. 1027, Nr 94, poz. 1037, Nr 114, poz. 1191, Nr 116, poz. 1216, Nr 119, poz. 1252 i Nr 122, poz. 1316) art. 50 po ust. 3 dodaje się ust. 4 brzmieniu: (cid:132)4. Ograniczenia, o kt(cid:243)rym mowa ust. 3, nie stosuje się przypadku opłacania składek na ubezpieczenia społeczne oraz innych składek, do poboru kt(cid:243)rych zobowiązany jest Zakład Ubezpieczeń Społecznych.(cid:148).
 
-**Art. 8.** W ustawie z dnia 29 sierpnia 1997 r. Prawo bankowe (Dz.U. 140, poz. 939, z 1998 r. 160, poz. 1063 i 162, poz. 1118, z 1999 r. 11, poz. 95 iNr40, poz. 399 oraz z2000 r. 93, poz. 1027, 94, poz. 1037, 114, poz. 1191, 116, poz. 1216, 119, poz. 1252 iNr 122, poz. 1316) wart. 50 po ust. 3 dodaje się ust. 4 wbrzmieniu: Ń4. Ograniczenia, októrym mowa wust. 3, nie stosuje się w przypadku opłacania składek na ubezpieczenia społeczne oraz innych składek, do poboru których zobowiązany jest Zakład Ubezpieczeń Społecznych.”
+**Art. 9.** W ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. Nr 162, poz. 1118, z 1999 r. Nr 38, poz. 360, Nr 70, poz. 774, Nr 72, poz. 801 i 802 i Nr 106, poz. 1215 oraz z 2000 r. Nr 2, poz. 26, Nr 9, poz. 118, Nr 19, poz. 238, Nr 56, poz. 678 i Nr 84, poz. 948) wprowadza się następujące zmiany:
 
-**Art. 9.** W ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. 162, poz. 1118, z1999 r. 38, poz. 360, 70, poz. 774, 72, poz. 801 i802 iNr 106, poz. 1215 oraz z 2000 r. 2, poz. 26, 9, poz. 118, 19, poz. 238, 56, poz. 678 i 84, poz. 948) wprowadza się rytury, mogą być wypłacane w innych niż określone w ust. 1 terminach ustalonych wdecyzji organu rentowego.”
+**Art. 10.** Przepis(cid:243)w art. 47 ust. 4b i 4d ustawy, o kt(cid:243)rej mowa art. 1, nie stosuje się do wpłat składek dokonywanych za pośrednictwem państwowego przedsiębiorstwa użyteczności publicznej (cid:132)Poczta Polska(cid:148), przez okres 6 miesięcy od dnia ogłoszenia ustawy.
 
-**Art. 10.** Przepisów art. 47 ust. 4bi4dustawy, októrej mowa wart. 1, nie stosuje się do wpłat składek dokonywanych za pośrednictwem państwowego przedsiębiorstwa użyteczności publicznej ŃPoczta Polska”, przez okres 6 miesięcy od dnia ogłoszenia ustawy.
-
-**Art. 11.** Termin, o którym mowa w art. 47 ust. 9 ustawy wymienionej wart. 1, wynosi:
+**Art. 11.** Termin, o kt(cid:243)rym mowa art. 47 ust. 9 ustawy wymienionej art. 1, wynosi:
 
 **Art. 12.**
 
-1. Płatnicy składek zobowiązani są przekazywać dokumenty, o których mowa w art. 47a ust. 1 ustawy,októrej mowa wart. 1, poprzez teletransmisję danych wformie dokumentu elektronicznego zaktualnego programu informatycznego udostępnionego przez Zakład nie póêniej niż po upływie: następujące zmiany: 1) 5 miesięcy jeżeli rozliczają składki lub składki na ubezpieczenie zdrowotne łącznie za co najmniej
+1. Płatnicy składek zobowiązani są przekazywać dokumenty, o kt(cid:243)rych mowa art. 47a ust. 1, ustawy o kt(cid:243)rej mowa art. 1, poprzez teletransmisję danych formie dokumentu elektronicznego z aktualnego programu informatycznego udostępnionego przez Zakład nie p(cid:243)źniej niż po upływie:
 
-- **1)** po art. 125 dodaje się art. 125awbrzmieniu: 1000 ubezpieczonych, ŃArt. 125a. 1. Płatnik składek jest zobowiązany na 2) 6 miesięcy jeżeli rozliczają składki lub składki na żądanie organu rentowego do wy- ubezpieczenie zdrowotne łącznie za mniej niż stawienia dokumentów (zaświad- 1000, aco najmniej 100 ubezpieczonych, czeń) w celu udowodnienia okresów 3) 7 miesięcy jeżeli rozliczają składki lub składki na składkowych, o których mowa w ubezpieczenie zdrowotne łącznie za mniej niż 100, art. 6 ust. 1 pkt 1, okresów nieskład- aco najmniej 21 ubezpieczonych. kowych, o których mowa w art. 7 pkt 1, oraz wysokości podstawy wy- 2. Do czasu wykonania obowiązku, októrym mowa miaru składek, z uwzględnieniem wust. 1, płatnicy składek zobowiązani są przekazywać ust. 2 i3. dokumenty wformie wydruku zaktualnego programu
+- **1)** 5 miesięcy - jeżeli rozliczają składki lub składki na ubezpieczenie zdrowotne łącznie za co najmniej 1 000 ubezpieczonych,
+- **2)** 6 miesięcy - jeżeli rozliczają składki lub składki na ubezpieczenie zdrowotne łącznie za mniej niż 1 000, a co najmniej 100 ubezpieczonych,
+- **3)** 7 miesięcy - jeżeli rozliczają składki lub składki na ubezpieczenie zdrowotne łącznie za mniej niż 100, a co najmniej 21 ubezpieczonych. bowiązani są przekazywać dokumenty formie wydruku z aktualnego programu informatycznego udostępnianego przez Zakład nie p(cid:243)źniej niż po upływie:
+- **1)** 1 miesiąca - jeżeli rozliczają składki lub składki na ubezpieczenie zdrowotne łącznie za co najmniej 1 000 ubezpieczonych,
+- **2)** 2 miesięcy - jeżeli rozliczają składki lub składki na ubezpieczenie zdrowotne łącznie za mniej niż 1 000, a co najmniej 100 ubezpieczonych,
+- **3)** 3 miesięcy - jeżeli rozliczają składki lub składki na ubezpieczenie zdrowotne łącznie za mniej niż 100, a co najmniej 21 ubezpieczonych.
 
-2. Od osoby opłacającej składki na wła- informatycznego udostępnianego przez Zakład nie sne ubezpieczenia emerytalne i ren- póêniej niż po upływie: towe organ rentowy może żądać 1) 1 miesiąca jeżeli rozliczają składki lub składki na przedłożenia dowodów potwierdza- ubezpieczenie zdrowotne łącznie za co najmniej jących opłacanie składek oraz wyso- 1000 ubezpieczonych, kości podstawy wymiaru składek za okres przypadający po dniu 31 grud- 2) 2 miesięcy jeżeli rozliczają składki lub składki na nia 1998 r. ubezpieczenie zdrowotne łącznie za mniej niż
+3. Liczbę ubezpieczonych ustala się według stanu na koniec miesiąca poprzedzającego miesiąc, kt(cid:243)rym powstały obowiązki określone ust. 1 i 2.
 
-3. Przepis ust. 1 stosuje się odpowied- 1000, aco najmniej 100 ubezpieczonych, nio w celu udowodnienia przypada- 3) 3 miesięcy jeżeli rozliczają składki lub składki na jących po dniu 31 grudnia 1998 r. ubezpieczenie zdrowotne łącznie za mniej niż 100, okresów pracy w szczególnych wa- aco najmniej 21 ubezpieczonych. runkach lub w szczególnym charakterze, okresów pracy górniczej oraz 3. Liczbę ubezpieczonych ustala się według stanu okresów zatrudnienia na kolei.”; na koniec miesiąca poprzedzającego miesiąc, w którym powstały obowiązki określone wust. 1 i2.
+4. Terminy, o kt(cid:243)rych mowa ust. 1 i 2, biegną od dnia wejścia życie ustawy.
 
-- **2)** wart. 130:
-    - **a)** wust. 1 na końcu dodaje się wyrazy Ńi5, chyba 4. Terminy, októrych mowa wust. 1 i2, biegną od że umowy międzynarodowe stanowią inaczej”, dnia wejścia wżycie ustawy.
-    - **b)** ust. 4 i5 otrzymują brzmienie: Ń4. Za dzień wypłaty świadczeń przekazywanych za granicę uważa się dzień przekazania należności do banku lub innej instytucji pośredniczącej wwypłacie świadczeń.
-
-5. Âwiadczenia przekazywane za granicę, ustalone w kwotach niższych od najniższej emeArt. 13. Kto, jako płatnik składek albo osoba obowiązana do działania w imieniu płatnika, nie dopełnia obowiązku przekazywania dokumentów związanych zubezpieczeniami społecznymi iubezpieczeniem zdrowotnym wformie określonej wart. 12, podlega karze grzywny do 5 000 złotych.
+**Art. 13.** Kto, jako płatnik składek albo osoba obowiązana do działania imieniu płatnika, nie dopełnia obowiązku przekazywania dokument(cid:243)w związanych z ubezpieczeniami społecznymi i ubezpieczeniem zdrowotnym formie określonej art. 12, podlega karze grzywny do 5 000 złotych.
 
 **Art. 14.**
 
-1. Przekazywanie ubezpieczonym informa- w decyzji organu rentowego, poczynając od terminu cji określonej w art. 50 ust. 1 ustawy, o której mowa 25 lutego. wart. 1, wczęści dotyczącej wysokości składek zaewidencjonowanych na koncie ubezpieczonego na dzień Art. 16. Do czasu wydania przepisów wykonaw31 grudnia 2000 r., Zakład rozpocznie nie póêniej niż od czych przewidzianych w ustawie zachowują moc dodnia 31 sierpnia 2001 r. i zakończy do dnia 31 sierpnia tychczasowe przepisy wykonawcze, jeżeli nie są 2002 r., zzastrzeżeniem ust. 2i 3. sprzeczne zustawą.
+1. Przekazywanie ubezpieczonym informacji określonej art. 50 ust. 1 ustawy, o kt(cid:243)rej mowa art. 1, części dotyczącej wysokości składek zaewidencjonowanych na koncie ubezpieczonego na dzień 31 grudnia 2000 r., Zakład rozpocznie nie p(cid:243)źniej niż od dnia 31 sierpnia 2001 r. i zakończy do dnia 31 sierpnia 2002 r., z zastrzeżeniem ust. 2-3.
 
-2. Informacja, októrej mowa wust. 1, nie uwzględ- Art. 17.Ustawa wchodzi wżycie po upływie 14 dni nia waloryzacji składek. od dnia ogłoszenia, zwyjątkiem:
+2. Informacja, o kt(cid:243)rej mowa ust. 1, nie uwzględnia waloryzacji składek.
 
-3. W przypadku przeprowadzenia postępowania 1) art. 1 pkt 2, 3, 4 i 6 lit. b), które wchodzą w życie wyjaśniającego wzakresie danych zgromadzonych na zmocą obowiązującą od dnia 1 stycznia 1999 r., koncie ubezpieczonego informację, o której mowa w ust. 1, Zakład przekazuje ubezpieczonemu po jego 2) art. 1 pkt 1 lit. a) pierwsze, drugie itrzecie tiret, pkt5, zakończeniu. 11 lit. a)—b) if)—h) ipkt 18 lit. a)—c) oraz art. 5 i8, które wchodzą w życie po upływie 3 miesięcy od dnia wejścia wżycie ustawy.
+3. W przypadku przeprowadzenia postępowania wyjaśniającego zakresie danych zgromadzonych na koncie ubezpieczonego informację, o kt(cid:243)rej mowa ust. 1, Zakład przekazuje ubezpieczonemu po jego zakończeniu.
 
-**Art. 15.** Wroku 2001 jednorazowa wypłata, októrej mowa wart. 90 ust. 6 i7 ustawy wymienionej wart. 9, Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski nastąpi w terminach płatności świadczeń, ustalonych 65 ROZPORZÑDZENIE PREZESA RADY MINISTRÓW zdnia 31 stycznia 2001 r. wsprawie określenia wysokości wynagrodzenia za udział wposiedzeniach Rady Telekomunikacji. Na podstawie art. 115 ust. 5 ustawy zdnia 21 lipca 2) 150% dla członka, 2000 r. Prawo telekomunikacyjne (Dz. U. 73, poz.852) zarządza się, co następuje: przeciętnego wynagrodzenia miesięcznego w sektorze przedsiębiorstw z grudnia poprzedniego roku, § 1. Członkom Rady Telekomunikacji przysługuje za ogłoszonego przez Prezesa Głównego Urzędu Statyudział wposiedzeniach miesięczne wynagrodzenie ry- stycznego w Dzienniku Urzędowym Rzeczypospolitej czałtowe, płatne zdołu na koniec miesiąca,wwysoko- Polskiej ŃMonitor Polski”. ści: § 2. Rozporządzenie wchodzi w życie po upływie
+**Art. 15.** W roku 2001 jednorazowa wypłata, o kt(cid:243)rej mowa art. 90 ust. 6 i 7 ustawy wymienionej art. 9, nastąpi terminach płatności świadczeń, ustalonych decyzji organu rentowego, poczynając od terminu 25 lutego.
+
+**Art. 16.** Do czasu wydania przepis(cid:243)w wykonawczych przewidzianych ustawie zachowują moc dotychczasowe przepisy wykonawcze, jeżeli nie są sprzeczne z ustawą.
+
+**Art. 17.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 

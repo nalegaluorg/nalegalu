@@ -10,7 +10,9 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# " łOI ..
+# o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe
+
+*USTAWA z dnia 31 lipca 1981 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,20 +26,93 @@ domain: null
 | Ostatnia zmiana | 2025-11-04 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19810200101) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1981/101/text.pdf) |
 
-Hpca ." : o wynagroozeDłu., osób tzaj~tlją~~~h 'Jd~r~wh1cze '~tanowiSkaPąństwow~.
-Art~ l:tf<:h!~ia ~iędeh~tY:dnf~ :5paźtiii~r~ika f972:i. .na'uko:w~;~~"~ illstytuci~~~:uk6wym: l;lb naukowo-b~daw: , ';0 ,k,ierownicze osoba ,.ta ,profesora ,zwyczajnego Nr poz.' z' r., Nr hib'p,rofesora' 'nadzwyczajnego. . "--, : ",>poz.: ' 2;:', Ósbbiezajiliuj~~el ~~ferowniczE!' ,stab6"Wiśk~; pań ", ': Aft.2; ' UsUrwa"'u~talaia'Ś~dywynagradzaniaosób, stwowe, która pełni również ·iiiną fu~kcję,'l>rzYŚlug'ilje':jed. .' . ;kietQwnicze 'stanowiska . ,; " - ' " ' przepisach niniejszej ustawy w' przepilach. " '; , :" "', -,' r,', prezesa Rady .. · .....
-..
-" strqw"marszałkaSejmu, zastępcy przewodnic;,~ącego,.'. , ).rt.' OsObY;,od'Yoiane~:,. kierowniczych .stalJ.o,;
-; wiceprezesa Rady Ministrów, 'wisk l{omisji,Plano\Va. nywaJ:lia 'funkcji }).a .Jych ."stanowlskachwskutek 'niaprzy Rady '. kadencji, U8;t. 2., prawo do.
-Rady Izby ,Kon- dotychczaSOWego" , tr'ol,I; "mjnistra, prezesaj\jarodowegoBanku Polskiego, 'iN którym mowa ~zefąK.anceIa.rH Sejmll, •. . . ' . - .' ust. pracy'niżejplątnef,przysł\l.,guJe .. przez ten ()kies:--do.o,' " ~) :pi,~Iwszeg~: pręzes~ ' Sądu, Nal~yższe'go,proku;atora ',datek w~yrówn,awczy., Dodatek wyrówn.awczy stanoWi róż generalreg<;> Polskiej. Rzeczyp()spolitej Ludowej; szefa wynagr,odzeftiemp9Qier;anYIll' na .kierowni.
-Rady czymstano,\\,:lsku a wynagrodzeniem ·'pobie.;
-Izby Kontroli. pre.i.esa lanym'w .• , ...• .'. " ,cyjnego, prezesa Sądu Najwyzszego, 'z-astę'pcy eproku- Art.. Szczegółowe zasady wynagradzanIa osóli r<Hora. generalnego Polskiej. Rzeczypospolitej, Ludowej, zajmujący{;h kierovinicze 'stanowiska państwowe 'oraz ' wiceprezesę Naczelnego Sądu Ą,dministracy jnego, .pre~ sąk.ośćwynagrodzenia. ryczałtowego, oklóryin mowa VI.
-zE!sa tlI Publikacji i Widowisk, . . . ' , ' gIowp.ego. inspektora "P HI!;y, " wicepre'z~sa Gł6wriego ' art. ust. ustali .w drodze. uchwały: , Urzędu Kontroli Publikacji'i' Widowisk,zastępcygłów~ : f( Sejm'-:'dla csqb zajmujących stanowiska, wymieQlon.
-, " , '," w art.,2-,pkt ~3) pr~zesa Pcl~kjeJ Akademii Nauk, szefa Urzędu'R acly 2) Rada Panstwa '- dla os~bza,jmujący~hstanowis)(4 MinistróW, /" Komisji Plano- , wymienione . . w ,art , , pkt2i '.' ,,' /_ ; ' waniaprzy iRadzie Ministrów,podsekretau,! .lwi-' Ministrów. - ..
-. cemini~tra), wiceprezesa Naródowegó BankuPoiskie- ' wymienione ':W alt. 2'pkt 3. ' " .' kięrownika urzędu. centraJnegó,wicepr,ezesa ,Pol-2.· liJchwaW,o. którythJrtowa w~śt; '1.po(;lIegaj4'ogłoe szeniu w Dziepniku ' , ,Sekretarza' naukowego: ,;MonitórP()lski"\ Akademii Nauk, sekretar'7;y 'Polskiej... Art. Ustalepieia'Siłdwy'l1ag,~adzanJaosób1:ajm:u14" cychkierow,nicze" stanowiska w de. .
-" ceotI:al-. ,kreCie'" o' którym 'inctwa w nego, dyrektora ge.rieralnegó.,,/', ministerstwach organów, Polskiel;iednoczOlleJ Partii R!>botdach' centralnych;' wicewojewody, . wiceprężycien~1l niczej i stronnictw,politYCZIlych: .. ,.' '.' ...... .' .
-m\asta '8tophiaviojewódzkiego -:' 050- -, Art 8;', • wehia.
-.b(iIlii ~Jmującymikierowniczestańówi~ka państ'Yo:we,.. Jest <,ld',podatkll ",ynagrodz,eń i ;skł~dki ~el~eme.;
+**Art. 1.** Uchyla się dekret z dnia 5 października 1972 r. o uposażeniu osób zajmujących kierownicze stanowiska państwowe (Dz. U. poz. 269 oraz z 1973 r. poz. 276).
 
-**Art. 3.** ., L, Wyp~grodzenie osębzajmujących ki~'row~,~ rytaln-e analogiczllie'. jak .w ynagrod'ze.ru,e 'pracowników za trudnionych. w jednostkach .. gospodarki' zas~d~ić~ego c .dodatku. funl{l:Y jnego'. ' ;, ' Dodatki' funk,cyjne, wolne są również podatku wyrÓw.kierownkze .... st:enowiska , dodatki ta- lat '.w: ' zasad OIlQwi/tzuj4cych, pntcównikovipal'i-stwoAd., 4.'J. ' klerownicze stanowisko we przyznane' .wynagrodzenie z stdJej dodatkowej 'pracy, w charakterze nau szkol? nawtzego. c. , ,:, Art, albo pracow!1ika 9. . Ustawa wchodzI' w:iycie z ,dnienl: l" ,z Kontroli Publlkacji nego oddTIia: '1981 Rady Panstwa;' Sekretarz Rady " 10.2:' , z ri:i a ,lipCa 1981-, r. )f;l,pra wJE!, nauczycieli , Na podstawie 'art. ,23liśtawy z dricia '27k~iet~ia: ~',19n'r., N,r, i6, ' ppz.H4;,'Z19't3 r. Nr 12" póz, 89-'1 1 ',19ł~, ro -Karta praw' i' ()bowi~zkc)wnituczYiciela'(Pz: U. " 1~1, r. Nr n, ,poz. ,43) zarząd,zasię •. co następuje:
+**Art. 2.** Ustawa ustala zasady wynagradzania osób zajmujących kierownicze stanowiska państwowe:
+
+**Art. 2a.**
+
+1. Wynagrodzenie Prezydenta składa się z wynagrodzenia zasadniczego odpowiadającego 9,8-krotności kwoty bazowej oraz dodatku funkcyjnego odpowiadającego 4,2-krotności kwoty bazowej, której wysokość ustaloną według odrębnych zasad określa ustawa budżetowa, z tym że kwota bazowa jest corocznie waloryzowana o wzrost wynagrodzeń na dany rok budżetowy w stosunku do roku poprzedniego (średnioroczny wskaźnik wzrostu wynagrodzeń).
+
+2. W 1997 r. wynagrodzenie Prezydenta ustala się w wysokości wynagrodzenia przysługującego Prezydentowi w grudniu 1996 r.
+
+3. W 2002 r. wynagrodzenie Prezydenta ustala się w wysokości wynagrodzenia przysługującego Prezydentowi w grudniu 2001 r.
+
+4. W 2003 r. wynagrodzenie Prezydenta ustala się w wysokości wynagrodzenia przysługującego Prezydentowi w grudniu 2002 r.
+
+5. Za okres od dnia 1 marca 2009 r. do dnia 31 grudnia 2009 r. wynagrodzenie Prezydenta ustala się w wysokości wynagrodzenia przysługującego Prezydentowi w grudniu 2008 r.
+
+6. W 2010 r. miesięczne wynagrodzenie Prezydenta ustala się w wysokości wynagrodzenia przysługującego Prezydentowi w grudniu 2008 r.
+
+7. W 2011 r. miesięczne wynagrodzenie Prezydenta ustala się w wysokości wynagrodzenia przysługującego Prezydentowi w grudniu 2008 r.
+
+**Art. 3.**
+
+1. Wynagrodzenie osób zajmujących kierownicze stanowiska państwowe, wymienionych w art. 2 pkt 2–4, składa się z wynagrodzenia zasadniczego i dodatku funkcyjnego.
+
+2. Wynagrodzenie osób zajmujących kierownicze stanowiska państwowe ustala się na podstawie kwoty bazowej, której wysokość ustaloną według odrębnych zasad określa ustawa budżetowa, z tym że kwota bazowa jest corocznie waloryzowana o wzrost wynagrodzeń na dany rok budżetowy w stosunku do roku poprzedniego (średnioroczny wskaźnik wzrostu wynagrodzeń).
+
+2a. W 1997 r. wynagrodzenie osób zajmujących kierownicze stanowiska państwowe, wymienionych w art. 2 pkt 2–4, ustala się w wysokości wynagrodzenia przysługującego tym osobom w grudniu 1996 r.
+
+2b. W 2002 r. wynagrodzenie osób zajmujących kierownicze stanowiska państwowe, wymienionych w art. 2 pkt 2–4, ustala się w wysokości wynagrodzenia przysługującego tym osobom w grudniu 2001 r., z wyłączeniem Prezesa, pierwszego zastępcy Prezesa i wiceprezesa Narodowego Banku Polskiego.
+
+2c. W 2003 r. wynagrodzenie osób zajmujących kierownicze stanowiska państwowe, wymienionych w art. 2 pkt 2–4, ustala się w wysokości wynagrodzenia przysługującego tym osobom w grudniu 2002 r.
+
+2d. Za okres od dnia 1 marca 2009 r. do dnia 31 grudnia 2009 r. wynagrodzenie osób zajmujących kierownicze stanowiska państwowe, wymienionych w art. 2 pkt 2–4, ustala się w wysokości wynagrodzenia przysługującego tym osobom w grudniu 2008 r.
+
+2e. W 2010 r. miesięczne wynagrodzenie osób zajmujących kierownicze stanowiska państwowe, wymienionych w art. 2 pkt 2–4, ustala się w wysokości wynagrodzenia przysługującego tym osobom w grudniu 2008 r.
+
+2f. W 2011 r. miesięczne wynagrodzenie osób zajmujących kierownicze stanowiska państwowe, wymienionych w art. 2 pkt 2–4, ustala się w wysokości wynagrodzenia przysługującego tym osobom w grudniu 2008 r.
+
+3. Szczegółowe zasady wynagradzania osób zajmujących kierownicze stanowiska państwowe, o których mowa w ust. 1, ustala Prezydent w drodze rozporządzenia.
+
+**Art. 3a.** (uchylony)
+
+**Art. 3b.** Do osób zajmujących kierownicze stanowiska państwowe stosuje się odpowiednio przepisy art. 22, 23, 24 ust. 2, art. 26 i 28 ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych (Dz. U. z 2020 r. poz. 537 oraz z 2021 r. poz. 2447 i 2448).
+
+**Art. 4.**
+
+1. Osobie zajmującej kierownicze stanowisko państwowe z tytułu stałej dodatkowej pracy w charakterze nauczyciela akademickiego w szkole wyższej albo pracownika naukowego w instytucie naukowym lub naukowo-badawczym przysługuje wynagrodzenie na zasadach określonych w przepisach szczególnych.
+
+2. Z zastrzeżeniem ust. 1 osobie zajmującej kierownicze stanowisko państwowe, która pełni również inną funkcję, przysługuje jedno, wybrane przez nią wynagrodzenie przewidziane w przepisach niniejszej ustawy bądź w odrębnych przepisach.
+
+**Art. 5.**
+
+1. Osoby odwołane z kierowniczych stanowisk państwowych oraz osoby, które zaprzestały wykonywania funkcji na tych stanowiskach wskutek upływu kadencji, zachowują, z zastrzeżeniem ust. 2, prawo do dotychczasowego wynagrodzenia przez okres:
+
+- **1)** jednego miesiąca – jeżeli funkcję tę pełniły przez okres nie dłuższy niż 3 miesiące;
+- **2)** dwóch miesięcy – jeżeli funkcję tę pełniły przez okres dłuższy niż 3 miesiące i nie dłuższy niż 12 miesięcy;
+- **3)** trzech miesięcy – jeżeli funkcję tę pełniły przez okres dłuższy niż 12 miesięcy.
+
+2. W razie podjęcia w okresie, o którym mowa w ust. 1, pracy niżej płatnej przysługuje przez ten okres dodatek wyrównawczy. Dodatek wyrównawczy stanowi różnicę pomiędzy wynagrodzeniem pobieranym na kierowniczym stanowisku państwowym a wynagrodzeniem pobieranym w nowym miejscu pracy.
+
+**Art. 5a.**
+
+1. Prezydentowi Rzeczypospolitej Polskiej, Marszałkowi Sejmu, Marszałkowi Senatu, Prezesowi Rady Ministrów, małżonkom tych osób oraz członkom rodzin będącym na ich utrzymaniu, przysługuje prawo do świadczeń opieki zdrowotnej w razie nagłego zachorowania lub urazu, wypadku, zatrucia lub konieczności natychmiastowego leczenia szpitalnego.
+
+2. Prezydentowi Rzeczypospolitej Polskiej, Prezesowi Rady Ministrów oraz towarzyszącym im członkom rodzin, a także Marszałkowi i Marszałkowi Senatu, prawo do świadczeń opieki leczniczej w zakresie określonym w ust. 1 przysługuje również w trakcie oficjalnych podróży krajowych i zagranicznych oraz oficjalnych wizyt zagranicznych.
+
+3. Członkom personelu dyplomatycznego i konsularnego akredytowanego w Rzeczypospolitej Polskiej i ich rodzinom, w odniesieniu do państw, z którymi zostały podpisane umowy o świadczenie usług medycznych, przysługuje prawo do świadczeń zdrowotnych w zakresie określonym tymi umowami.
+
+4. Świadczenia, o których mowa w ust. 1–3, przysługują niezależnie od świadczeń określonych w przepisach o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych i są finansowane z budżetu państwa, z części, którą dysponuje minister właściwy do spraw wewnętrznych, oraz udzielane przez podmioty lecznicze tworzone przez ministra właściwego do spraw wewnętrznych lub Ministra Obrony Narodowej.
+
+5. Prezes Rady Ministrów określi, w drodze rozporządzenia, po zasięgnięciu opinii Prezydenta Rzeczypospolitej Polskiej, Marszałka i Marszałka Senatu, szczegółowy zakres oraz warunki udzielania świadczeń opieki zdrowotnej, o których mowa w ust. 1, uwzględniając rodzaj udzielanych świadczeń oraz dostęp do uzyskania tych świadczeń.
+
+**Art. 5b.**
+
+1. Osobie zajmującej kierownicze stanowisko państwowe przysługuje lokal służący do zaspokojenia potrzeb mieszkaniowych, zwany dalej „lokalem”, na czas zajmowania stanowiska, jeżeli osoba ta i jej małżonek nie dysponują innym lokalem w miejscowości, w której objęła ona stanowisko, z zastrzeżeniem ust. 2.
+
+2. Prezydent Rzeczypospolitej Polskiej, Marszałek Sejmu, Marszałek Senatu i Prezes Rady Ministrów mogą obejmować lokale służące do zaspokojenia potrzeb reprezentacyjnych i mieszkaniowych na czas zajmowania tych stanowisk niezależnie od posiadania innych lokali.
+
+3. W sprawach, o których mowa w ust. 1 i 2, nie stosuje się przepisów ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego (Dz. U. z 2022 r. poz. 172).
+
+4. Rada Ministrów określi, w drodze rozporządzenia, warunki i tryb obejmowania i zwalniania lokali przez osoby zajmujące kierownicze stanowiska państwowe.
+
+**Art. 6.** (uchylony)
+
+**Art. 7.** (uchylony)
+
+**Art. 8.** (uchylony)
+
+**Art. 9.** Ustawa wchodzi w życie z dniem 1 września 1981 r.
 

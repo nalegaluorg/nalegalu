@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 21 lipca 2023 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy o budowie zabezpieczenia granicy państwowej
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ dnia 7 lipca 2023 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001390) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1390/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ dnia 7 lipca 2023 r.
-sprawie ogłoszenia jednolitego tekstu ustawy o budowie zabezpieczenia granicy państwowej
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy dnia 29 października 2021 r. o budowie zabezpieczenia granicy państwowej (Dz. U. poz. 1992), uwzględnieniem zmian wprowadzonych:
 1) ustawą dnia 13 stycznia 2023 r. o zmianie ustawy o pomocy obywatelom Ukrainy związku konfliktem zbrojnym na terytorium tego państwa oraz niektórych innych ustaw (Dz. U. poz. 185),
 2) ustawą dnia 14 kwietnia 2023 r. o zmianie nazw uczelni służb państwowych nadzorowanych przez ministra właściwego do spraw wewnętrznych, o zmianie ustawy o Policji, ustawy o Straży Granicznej, ustawy o Państwowej Straży Pożarnej oraz niektórych innych ustaw (Dz. U. poz. 1088) oraz zmian wynikających przepisów ogłoszonych przed dniem 6 lipca 2023 r.
@@ -42,7 +42,7 @@ f) pkt 21 lit. g i h, które wchodzą życie dniem 1 kwietnia 2023 r.;
 3) art. 11, który wchodzi życie dniem 1 września 2023 r.;
 4) art. 13, który wchodzi życie po upływie 6 miesięcy od dnia ogłoszenia;
 5) art. 17, który wchodzi życie dniem 24 sierpnia 2023 r.”;
-2) art. 29 ustawy dnia 14 kwietnia 2023 r. o zmianie nazw uczelni służb państwowych nadzorowanych przez ministra właściwego do spraw wewnętrznych, o zmianie ustawy o Policji, ustawy o Straży Granicznej, ustawy o Państwowej Straży Pożarnej oraz niektórych innych ustaw (Dz. U. poz. 1088), który stanowi: „Art. 29. Ustawa wchodzi życie pierwszego dnia miesiąca następującego po upływie miesiąca od dnia ogłoszenia, wyjątkiem przepisów:
+2) art. 29 ustawy dnia 14 kwietnia 2023 r. o zmianie nazw uczelni służb państwowych nadzorowanych przez ministra „Art. 29. Ustawa wchodzi życie pierwszego dnia miesiąca następującego po upływie miesiąca od dnia ogłoszenia, wyjątkiem przepisów:
 1) art. 2 pkt 21 i 22, które wchodzą życie dniem 1 stycznia 2024 r.;
 2) art. 3, art. 7, art. 8 pkt 3 i 4, art. 9, art. 13 ust. 2 i art. 16–26, które wchodzą życie dniem 1 października 2023 r.;
 3) art. 10, art. 12 i art. 28, które wchodzą życie po upływie 14 dni od dnia ogłoszenia.”.

@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 15 października 2015 r.
+# o zmianie ustawy – Prawo energetyczne oraz niektórych innych ustaw
+
+*USTAWA z dnia 11 września 2015 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,10 +26,7 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001618) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1618/text.pdf) |
 
-USTAWA z dnia 11 września 2015 r.
-o zmianie ustawy Prawo energetyczne oraz niektórych innych ustaw
-
-**Art. 1.** W ustawie z dnia 10 kwietnia 1997 r. Prawo energetyczne (Dz. U. z 2012 r. poz. 1059, z późn. zm. ) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2012 r. poz. 1059, z późn. zm. ) wprowadza się następujące zmiany:
 
 **Art. 23b.**
 
@@ -55,7 +54,7 @@ o zmianie ustawy Prawo energetyczne oraz niektórych innych ustaw
 
 4. Pracownik kontrolujący doręcza podmiotowi kontrolowanemu lub osobie przez niego upoważnionej upoważnienie do przeprowadzenia kontroli REMIT.
 
-5. W razie nieobecności podmiotu kontrolowanego lub osoby przez niego upoważnionej, upoważnienie do przeprowadzenia kontroli REMIT może być okazane innemu pracownikowi podmiotu kontrolowanego, który może być uznany za osobę, o której mowa art. 97 ustawy z dnia 23 kwietnia 1964 r. − Kodeks cywilny (Dz. U. z 2014 r. zwłocznie podmiotowi kontrolowanemu, nie później jednak niż trzeciego dnia od dnia wszczęcia tej kontroli.
+5. W razie nieobecności podmiotu kontrolowanego lub osoby przez niego upoważnionej, upoważnienie do przeprowadzenia kontroli REMIT może być okazane innemu pracownikowi podmiotu kontrolowanego, który może być uznany za osobę, o której mowa art. 97 ustawy z dnia 23 kwietnia 1964 r. − Kodeks cywilny (Dz. U. z 2014 r. poz. 121, z późn. zm. ), lub przywołanemu świadkowi, którym powinien być funkcjonariusz publiczny, niebędący jednak pracownikiem organu przeprowadzającego kontrolę. W takim przypadku upoważnienie doręcza się niezwłocznie podmiotowi kontrolowanemu, nie później jednak niż trzeciego dnia od dnia wszczęcia tej kontroli.
 
 **Art. 23d.**
 
@@ -64,7 +63,6 @@ o zmianie ustawy Prawo energetyczne oraz niektórych innych ustaw
 - **1)** wstępu na grunt oraz do budynków, lokali lub innych pomieszczeń oraz środków transportu podmiotu kontrolowanego;
 - **2)** żądania udostępnienia akt, ksiąg, wszelkiego rodzaju dokumentów nośników informacji związanych z przedmiotem kontroli oraz ich odpisów wyciągów, a także sporządzania z nich notatek kopii;
 - **3)** żądania od osób, o których mowa art. 23e ust. 1, ustnych wyjaśnień dotyczących przedmiotu kontroli;
-- **4)** żądania informacji od osób, które biorą lub brały udział sposób pośredni lub bezpośredni zawieraniu kontrolowanych transakcji;
 - **5)** przeprowadzania kontroli siedzibie podmiotu kontrolowanego.
 
 2. Osobie upoważnionej do udziału kontroli REMIT na podstawie art. 23c ust. 2 przysługują uprawnienia pracownika kontrolującego, o których mowa ust. 1 pkt 1 2, oraz uprawnienie do udziału wraz z pracownikiem kontrolującym przeszukaniu, o którym mowa art. 23g.
@@ -94,13 +92,15 @@ o zmianie ustawy Prawo energetyczne oraz niektórych innych ustaw
 
 2. Podmiot kontrolowany dokonuje potwierdzenia za zgodność z oryginałem sporządzonych kopii dokumentów wydruków. W przypadku odmowy potwierdzenia za zgodność z oryginałem potwierdza je pracownik kontrolujący, o czym czyni wzmiankę protokole kontroli.
 
-3. Czynności kontrolne mogą być podejmowane również poza siedzibą podmiotu kontrolowanego, szczególności siedzibie URE, jeżeli jest to uzasadnione charakterem tych czynności oraz może przyczynić się do szybszego skuteczniejszego przeprowadzenia kontroli. księgi, dokumenty inne informatyczne nośniki danych rozumieniu przepisów o informatyzacji działalności podmiotów realizujących zadania publiczne, mogące mieć wpływ na ustalenie stanu faktycznego istotnego dla prowadzonego postępowania, pracownik kontrolujący toku kontroli REMIT może również dokonać przeszukania tych pomieszczeń lub rzeczy, za zgodą sądu ochrony konkurencji konsumentów, udzieloną na wniosek Prezesa URE.
+3. Czynności kontrolne mogą być podejmowane również poza siedzibą podmiotu kontrolowanego, szczególności siedzibie URE, jeżeli jest to uzasadnione charakterem tych czynności oraz może przyczynić się do szybszego skuteczniejszego przeprowadzenia kontroli.
+
+**Art. 23g.**
+
+1. Jeżeli istnieją uzasadnione podstawy do przypuszczenia, że lokalu mieszkalnym lub jakimkolwiek innym pomieszczeniu, nieruchomości lub środku transportu są przechowywane przedmioty, akta, księgi, dokumenty inne informatyczne nośniki danych rozumieniu przepisów o informatyzacji działalności podmiotów realizujących zadania publiczne, mogące mieć wpływ na ustalenie stanu faktycznego istotnego dla prowadzonego postępowania, pracownik kontrolujący toku kontroli REMIT może również dokonać przeszukania tych pomieszczeń lub rzeczy, za zgodą sądu ochrony konkurencji konsumentów, udzieloną na wniosek Prezesa URE.
 
 2. Jeżeli zachodzi uzasadnione podejrzenie poważnego naruszenia przepisów ustawy, szczególności wtedy, gdy mogłoby dojść do zatarcia dowodów, z wnioskiem, o którym mowa ust. 1, Prezes URE może wystąpić przed wszczęciem postępowania kontrolnego.
 
 3. Sąd ochrony konkurencji konsumentów wydaje ciągu 48 godzin postanowienie sprawie, o której mowa ust. 1. Na postanowienie sądu ochrony konkurencji konsumentów nie przysługuje zażalenie.
-
-4. W sprawach nieuregulowanych ustawie przepisy ustawy z dnia 6 czerwca 1997 r. − Kodeks postępowania karnego (Dz. U. Nr 89, poz. 555, z późn. zm. ) mające zastosowanie do przeszukania stosuje się odpowiednio.
 
 **Art. 23h.**
 
@@ -125,7 +125,7 @@ o zmianie ustawy Prawo energetyczne oraz niektórych innych ustaw
 
 1. Przedmioty podlegające zajęciu, o którym mowa art. 23i ust. 1, czasie kontroli REMIT należy, po dokonaniu oględzin sporządzeniu protokołu zajęcia, zabrać albo oddać na przechowanie osobie godnej zaufania z zaznaczeniem obowiązku ich przedstawienia na każde żądanie Prezesa URE.
 
-2. Protokół zajęcia przedmiotów powinien zawierać: oznaczenie sprawy, z którą zajęcie ma związek, podanie dokładnej godziny rozpoczęcia zakończenia czynności, dokładną listę zajętych przedmiotów i, miarę potrzeby,
+2. Protokół zajęcia przedmiotów powinien zawierać: oznaczenie sprawy, z którą zajęcie ma związek, podanie dokładnej godziny rozpoczęcia zakończenia czynności, dokładną listę zajętych przedmiotów i, miarę potrzeby, ich opis, a ponadto wskazanie postanowienia Prezesa URE o zajęciu. Protokół podpisuje dokonujący zajęcia przedstawiciel podmiotu kontrolowanego.
 
 3. Dokonujący zajęcia przedmiotów jest obowiązany do natychmiastowego wręczenia osobom zainteresowanym pokwitowania stwierdzającego, jakie przedmioty przez kogo zostały zajęte, oraz do niezwłocznego powiadomienia osoby, której przedmioty zostały zajęte.
 
@@ -138,7 +138,6 @@ o zmianie ustawy Prawo energetyczne oraz niektórych innych ustaw
 2. Protokół kontroli powinien zawierać szczególności:
 
 - **1)** wskazanie nazwy albo imienia nazwiska oraz adresu podmiotu kontrolowanego;
-- **2)** datę rozpoczęcia zakończenia kontroli;
 - **3)** imię, nazwisko stanowisko pracownika kontrolującego;
 - **4)** określenie przedmiotu zakresu kontroli;
 - **5)** opis stanu faktycznego ustalonego trakcie kontroli oraz wykaz dowodów zebranych toku kontroli;
@@ -171,7 +170,9 @@ o zmianie ustawy Prawo energetyczne oraz niektórych innych ustaw
 
 **Art. 23m.**
 
-1. Prezes URE, Przewodniczący Komisji Nadzoru Finansowego oraz Prezes Urzędu Ochrony Konkurencji Konsumentów współpracują wzajemnie przekazują informacje, tym informacje prawnie chronione na podstawie odrębnych przepisów, zakresie niezbędnym do wykonywania zadań wynikających z rozporządzenia 1227/2011, tym na potrzeby prowadzonej kontroli lub postępowania wyjaśniającego, o których mowa art. 23b. Organy te są obowiązane zapewnić ochronę informacji przekazywanych na podstawie rozporządzenia 1227/2011 oraz zapobiegać ich niezgodnemu z prawem wykorzystywaniu. konsumentów.
+1. Prezes URE, Przewodniczący Komisji Nadzoru Finansowego oraz Prezes Urzędu Ochrony Konkurencji Konsumentów współpracują wzajemnie przekazują informacje, tym informacje prawnie chronione na podstawie odrębnych przepisów, zakresie niezbędnym do wykonywania zadań wynikających z rozporządzenia 1227/2011, tym na potrzeby prowadzonej kontroli lub postępowania wyjaśniającego, o których mowa art. 23b. Organy te są obowiązane zapewnić ochronę informacji przekazywanych na podstawie rozporządzenia 1227/2011 oraz zapobiegać ich niezgodnemu z prawem wykorzystywaniu.
+
+2. Do przekazywania przez Prezesa Urzędu Ochrony Konkurencji Konsumentów informacji, o których mowa ust. 1, stosuje się odpowiednio art. 73 ust. 3 4 ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji konsumentów.
 
 3. Organy, o których mowa ust. 1, mogą zawierać porozumienia o współpracy wymianie informacji.
 
@@ -187,7 +188,7 @@ o zmianie ustawy Prawo energetyczne oraz niektórych innych ustaw
 
 **Art. 23o.**
 
-1. W przypadku gdy związku z podejrzeniem popełnienia przestępstwa określonego art. 57a–57d postępowanie przygotowawcze jest prowadzone z urzędu lub na podstawie zawiadomienia Prezesa URE lub innego podmiotu, prokurator zawiadamia o tym Prezesa URE, wskazując zawiadomieniu firmę (nazwę) lub inne oznaczenie podmiotu, pod którym prowadzi on działalność, związku z którą jest prowadzone postępowanie.
+1. W przypadku gdy związku z podejrzeniem popełnienia przestępstwa określonego art. 57a–57d
 
 2. Prokurator lub sąd sprawach o przestępstwa określone art. 57a–57d przekazują Prezesowi URE informacje o prawomocnej odmowie wszczęcia postępowania przygotowawczego albo o prawomocnym umorzeniu postępowania przygotowawczego, a przypadku wniesienia aktu oskarżenia informację o prawomocnym orzeczeniu sądu.
 
@@ -210,8 +211,9 @@ o zmianie ustawy Prawo energetyczne oraz niektórych innych ustaw
 
 7. Do zawiadomienia o podejrzeniu popełnienia przestępstwa dołącza się akta postępowania wyjaśniającego z załącznikami.
 
-8. Zamknięcie postępowania wyjaśniającego nie stanowi przeszkody do ponownego jego przeprowadzenia o ten sam czyn, chyba że nastąpiło przedawnienie karalności przestępstwa.”; „Art. 28b. Tajemnica służbowa, o której mowa art. 17 rozporządzenia 1227/2011, może być ujawniana wyłącznie na żądanie:
+8. Zamknięcie postępowania wyjaśniającego nie stanowi przeszkody do ponownego jego przeprowadzenia o ten sam czyn, chyba że nastąpiło przedawnienie karalności przestępstwa.”;
 
+- **6)** po art. 28a dodaje się art. 28b art. 28c brzmieniu: „Art. 28b. Tajemnica służbowa, o której mowa art. 17 rozporządzenia 1227/2011, może być ujawniana wyłącznie na żądanie:
 - **1)** sądu lub prokuratora związku z:
     - **a)** toczącym się przeciwko osobie fizycznej, będącej stroną umowy, czynności lub transakcji objętych tajemnicą służbową, postępowaniem karnym lub karnym skarbowym,
     - **b)** toczącym się postępowaniem karnym lub karnym skarbowym o przestępstwo popełnione związku z działaniem osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej, będącej stroną umowy, czynności lub transakcji objętych tajemnicą służbową,
@@ -221,8 +223,7 @@ o zmianie ustawy Prawo energetyczne oraz niektórych innych ustaw
     - **a)** przeciwko osobie fizycznej, będącej stroną umowy, czynności lub transakcji objętych tajemnicą służbową,
     - **b)** popełnione zakresie działalności osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej, będącej stroną umowy, czynności lub transakcji objętych tajemnicą służbową;
 
-- **3)** Prezesa Najwyższej Izby Kontroli lub upoważnionego przez niego kontrolera − zakresie danych dotyczących jednostki kontrolowanej, niezbędnych do ustalenia stanu faktycznego prowadzonym postępowaniu kontrolnym dotyczącym tej jednostki, określonym ustawie z dnia 23 grudnia 1994 r. o Najwyższej Izbie Kontroli (Dz. U. z 2015 r. poz. 1096);
-- **4)** Agencji Bezpieczeństwa Wewnętrznego, Służby Kontrwywiadu Wojskowego, Agencji Wywiadu, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Policji, Żandarmerii Wojskowej, Straży Granicznej, Służby Więziennej, Biura Ochrony Rządu ich upoważnionych pisemnie funkcjonariuszy lub żołnierzy − zakresie niezbędnym do przeprowadzenia postępowania sprawdzającego na podstawie przepisów o ochronie informacji niejawnych;
+- **3)** Prezesa Najwyższej Izby Kontroli lub upoważnionego przez niego kontrolera − zakresie danych dotyczących jednostki kontrolowanej, niezbędnych do ustalenia stanu faktycznego prowadzonym postępowaniu kontrolnym dotyczącym tej jednostki, określonym ustawie z dnia 23 grudnia 1994 r. o Najwyższej Izbie Kontroli (Dz. U. z 2015 r. poz. 1096); nej, Służby Więziennej, Biura Ochrony Rządu ich upoważnionych pisemnie funkcjonariuszy lub żołnierzy − zakresie niezbędnym do przeprowadzenia postępowania sprawdzającego na podstawie przepisów o ochronie informacji niejawnych;
 - **5)** Prezesa URE − związku z wykonywaniem zadań wynikających z rozporządzenia 1227/2011;
 - **6)** Prezesa Urzędu Ochrony Konkurencji Konsumentów − zakresie realizacji zadań wynikających z ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji konsumentów;
 - **7)** Przewodniczącego Komisji Nadzoru Finansowego − zakresie realizacji zadań wynikających z ustawy z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. z 2015 r. poz. 614, z późn. zm. );
@@ -230,6 +231,7 @@ o zmianie ustawy Prawo energetyczne oraz niektórych innych ustaw
 - **9)** Agencji Bezpieczeństwa Wewnętrznego − jeżeli jest to konieczne do skutecznego zapobieżenia popełnieniu przestępstwa, jego wykrycia albo ustalenia sprawców uzyskania dowodów, na zasadach trybie określonych art. 34 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2010 r. Nr 29, poz. 154, z późn. zm. );
 - **10)** Centralnego Biura Antykorupcyjnego − jeżeli jest to konieczne do skutecznego zapobieżenia popełnieniu przestępstwa, jego wykrycia albo ustalenia sprawców uzyskania dowodów, na zasadach trybie określonych art. 23 ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. z 2014 r. poz. 1411, z późn. zm. );
 - **11)** komornika sądowego − związku z toczącym się postępowaniem egzekucyjnym lub zabezpieczającym sprawie roszczeń wobec podmiotu będącego stroną umowy lub innej czynności prawnej objętej tajemnicą służbową − zakresie informacji dotyczących tego podmiotu;
+- **12)** administracyjnego organu egzekucyjnego − związku z toczącym się postępowaniem egzekucyjnym lub zabezpieczającym.
 
 **Art. 28c.** Zakazu ujawniania tajemnicy służbowej, o której mowa art. 17 rozporządzenia 1227/2011, nie narusza przekazywanie takiej informacji:
 
@@ -249,9 +251,7 @@ o zmianie ustawy Prawo energetyczne oraz niektórych innych ustaw
 
 **Art. 57c.** Kto wbrew zakazowi, o którym mowa art. 3 ust. 1 lit. b rozporządzenia 1227/2011, ujawnia informację wewnętrzną jakiejkolwiek innej osobie, podlega grzywnie do 1000 stawek dziennych, karze ograniczenia wolności albo pozbawienia wolności do lat 3.
 
-**Art. 57d.** Kto wbrew zakazowi, o którym mowa art. 3 ust. 1 lit. c rozporządzenia 1227/2011, zaleca innej osobie oparciu o informację wewnętrzną nabycie lub zbycie produktów energetycznych sprzedawanych obrocie hurtowym, do których odnosi się ta informacja, lub nakłania inną osobę oparciu o informację wewnętrzną do nabycia lub zbycia takich produktów, podlega grzywnie do 1000 stawek dziennych, karze ograniczenia wolności albo pozbawienia wolności do lat 3.
-
-**Art. 57e.** Kto wbrew obowiązkowi, o którym mowa art. 17 rozporządzenia 1227/2011, ujawnia tajemnicę służbową rozumieniu tego przepisu, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
+**Art. 57d.** Kto wbrew zakazowi, o którym mowa art. 3 ust. 1 lit. c rozporządzenia 1227/2011, zaleca innej osobie oparciu o informację wewnętrzną nabycie lub zbycie produktów energetycznych sprzedawanych obrocie hurtowym, do których odnosi się ta informacja, lub nakłania inną osobę oparciu o informację wewnętrzną do nabycia lub zbycia takich produktów, podlega grzywnie do 1000 stawek dziennych, karze ograniczenia wolności albo pozbawienia wolności do lat 3. podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
 
 **Art. 57f.** Kto, zawodowo zajmując się pośredniczeniem zawieraniu transakcji, wbrew obowiązkowi, o którym mowa art. 15 rozporządzenia 1227/2011, nie przekazuje Prezesowi URE informacji o każdym uzasadnionym podejrzeniu manipulacji na rynku lub próbie manipulacji na rynku lub informacji o każdym uzasadnionym podejrzeniu niewłaściwego wykorzystywania informacji wewnętrznej, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 3.”.
 
@@ -261,7 +261,7 @@ o zmianie ustawy Prawo energetyczne oraz niektórych innych ustaw
 
 **Art. 4.** W ustawie z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. z 2015 r. poz. 614, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 5.** W ustawie z dnia 16 lutego 2007 r. o ochronie konkurencji konsumentów (Dz. U. z 2015 r. poz. 184) art. 31 po pkt 16 dodaje się pkt 16a brzmieniu: „16a) współpraca z Agencją do spraw Współpracy Organów Regulacji Energetyki, z organem właściwym do spraw regulacji gospodarki paliwami energią oraz organem właściwym sprawach nadzoru nad rynkiem finansohurtowego rynku energii (Dz. Urz. UE L 326 z 08.12.2011, str. 1).”.
+**Art. 5.** W ustawie z dnia 16 lutego 2007 r. o ochronie konkurencji konsumentów (Dz. U. z 2015 r. poz. 184) art. 31 po pkt 16 dodaje się pkt 16a brzmieniu: „16a) współpraca z Agencją do spraw Współpracy Organów Regulacji Energetyki, z organem właściwym do spraw regulacji gospodarki paliwami energią oraz organem właściwym sprawach nadzoru nad rynkiem finansowym, zakresie niezbędnym do wykonywania obowiązków wynikających z rozporządzenia Parlamentu Europejskiego Rady (UE) nr 1227/2011 z dnia 25 października 2011 r. sprawie integralności przejrzystości hurtowego rynku energii (Dz. Urz. UE L 326 z 08.12.2011, str. 1).”.
 
 **Art. 6.**
 

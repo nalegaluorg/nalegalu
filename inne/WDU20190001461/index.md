@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 5 sierpnia 2019 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 19 lipca 2019 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2024-05-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001461) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1461/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 19 lipca 2019 r.
-sprawie ogłoszenia jednolitego tekstu ustawy o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523 oraz z 2018 r. poz. 2243) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523), z uwzględnieniem zmian wprowadzonych ustawą z dnia 9 listopada 2018 r. o zmianie niektórych ustaw związku ze wzmocnieniem nadzoru nad rynkiem finansowym oraz ochrony inwestorów na tym rynku (Dz. U. poz. 2243) oraz zmian wynikających z przepisów ogłoszonych przed dniem 16 lipca 2019 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 47 ust. 1 i art. 48 ustawy z dnia 9 listopada 2018 r. o zmianie niektórych ustaw związku ze wzmocnieniem nadzoru nad rynkiem finansowym oraz ochrony inwestorów na tym rynku (Dz. U. poz. 2243), które stanowią:
 
@@ -120,7 +120,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy o ogłaszaniu aktów normatywnych 
     - **b)** (uchylona)
     - **c)** uchwalenia wotum zaufania Radzie Ministrów oraz absolutorium dla Rady Ministrów,
     - **d)** uchwalenia wotum nieufności Radzie Ministrów lub ministrowi,
-    - **e)** pociągnięcia do odpowiedzialności przed Trybunałem Stanu,
+    - **f)** rozwiązania organu stanowiącego jednostki samorządu terytorialnego,
     - **g)** wyboru, powoływania lub odwoływania na określone Konstytucji lub ustawach stanowiska państwowe; uchwałę o powołaniu lub odwołaniu wymagającym zgody Senatu ogłasza się po wyrażeniu takiej zgody;
 
 - **3)** uchwały Senatu dotyczące:

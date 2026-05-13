@@ -10,7 +10,9 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 11 sierpnia
+# dodatku węglowym
+
+*USTAWA z dnia 5 sierpnia 2022 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,50 +26,79 @@ domain: null
 | Ostatnia zmiana | 2024-09-04 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001692) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1692/text.pdf) |
 
-USTAWA dnia 5 sierpnia dodatku węglowym
-
-**Art. 1.** Ustawa reguluje zasady tryb przyznawania, wypłacania oraz wysokość dodatku węglowego oraz właściwość organów tych sprawach.
+**Art. 1.** Ustawa reguluje zasady i tryb przyznawania, wypłacania oraz wysokość dodatku węglowego oraz właściwość organów tych sprawach.
 
 **Art. 2.**
 
-1. Dodatek węglowy przysługuje osobie gospodarstwie domowym, przypadku gdy głównym źródłem ogrzewania gospodarstwa domowego jest kocioł na paliwo stałe, kominek, koza, ogrzewacz powietrza, trzon kuchenny, piecokuchnia, kuchnia węglowa lub piec kaflowy na paliwo stałe, zasilane paliwami stałymi, wpisane lub zgłoszone do centralnej ewidencji emisyjności budynków, której mowa art. 27a 1 ustawy dnia 21 listopada 2008 wspieraniu termomodernizacji remontów oraz centralnej ewidencji emisyjności budynków (Dz. U. 438, 1561 1576).
+1. Dodatek węglowy przysługuje osobie gospodarstwie domowym przypadku, gdy głównym źródłem ogrzewania gospodarstwa domowego jest kocioł na paliwo stałe, kominek, koza, ogrzewacz powietrza, trzon kuchenny, piecokuchnia, kuchnia węglowa lub piec kaflowy na paliwo stałe, zasilane paliwami stałymi, wpisane lub zgłoszone do centralnej ewidencji emisyjności budynków, której mowa art. 27a ust. 1 ustawy z dnia 21 listopada 2008 r. wspieraniu termomodernizacji i remontów oraz centralnej ewidencji emisyjności budynków (Dz. U. z 2023 r. poz. 2496 oraz z 2024 r. poz. 1089), do dnia 11 sierpnia 2022 r., albo po tym dniu – przypadku głównych źródeł ogrzewania wpisanych lub zgłoszonych po raz pierwszy do centralnej ewidencji emisyjności budynków, których mowa art. 27g ust. 1 tej ustawy.
 
-2. Przez gospodarstwo domowe, którym mowa 1, rozumie się:
+2. Przez gospodarstwo domowe, którym mowa ust. 1, rozumie się:
 
-- **1)** osobę fizyczną samotnie zamieszkującą gospodarującą (gospodarstwo domowe jednoosobowe) albo
-- **2)** osobę fizyczną oraz osoby nią spokrewnione lub niespokrewnione pozostające faktycznym związku, wspólnie nią zamieszkujące gospodarujące (gospodarstwo domowe wieloosobowe).
+- **1)** osobę fizyczną samotnie zamieszkującą i gospodarującą (gospodarstwo domowe jednoosobowe) albo
+- **2)** osobę fizyczną oraz osoby z nią spokrewnione lub niespokrewnione pozostające faktycznym związku, wspólnie z nią zamieszkujące i gospodarujące (gospodarstwo domowe wieloosobowe).
 
-3. Przez paliwa stałe rozumie się węgiel kamienny, brykiet lub pelet zawierające co najmniej 85% węgla kamiennego.
+3. Przez paliwa stałe rozumie się węgiel kamienny, brykiet lub pelet zawierające co najmniej 85 % węgla kamiennego.
+
+3a. W przypadku gdy pod jednym adresem miejsca zamieszkania zamieszkuje więcej niż jedno gospodarstwo domowe, jeden dodatek węglowy przysługuje dla wszystkich gospodarstw domowych zamieszkujących pod tym adresem. Pozostałe wnioski pozostawia się bez rozpoznania.
+
+3c. W przypadku gdy pod jednym adresem miejsca zamieszkania zamieszkuje więcej niż jedno gospodarstwo domowe i terminie do dnia 30 listopada 2022 r. nie jest możliwe ustalenie odrębnego adresu miejsca zamieszkania dla poszczególnych gospodarstw domowych zamieszkujących pod tym adresem odrębnych lokalach, nie stosuje się ust. 3a i 3b do gospodarstwa domowego, którego źródłem ogrzewania jest oddzielne lub współdzielone źródło ciepła.
+
+3d. W przypadku, którym mowa ust. 3c, gospodarstwu domowemu, które zajmuje lokal, dla którego nie było możliwe ustalenie odrębnego adresu, wójt, burmistrz albo prezydent miasta przyznaje dodatek węglowy drodze decyzji administracyjnej, jeżeli wyniku przeprowadzenia wywiadu środowiskowego organ ten ustalił zamieszkiwanie pod jednym adresem odrębnych lokalach kilku gospodarstw domowych oraz wykorzystywanie przez te gospodarstwa oddzielnego lub współdzielonego źródła ogrzewania. Z przeprowadzonego wywiadu środowiskowego sporządza się notatkę służbową. Wójt, burmistrz albo prezydent miasta dokonuje wpisu źródła ciepła do centralnej ewidencji emisyjności budynków, której mowa art. 27a ust. 1 ustawy z dnia 21 listopada 2008 r. wspieraniu termomodernizacji i remontów oraz centralnej ewidencji emisyjności budynków, jeżeli źródło nie było wcześniej zgłoszone do tej ewidencji, bez konieczności składania odpowiedniej deklaracji.
+
+3e. W przypadku gdy lokalu, którym mowa ust. 3d, zamieszkuje więcej niż jedno gospodarstwo domowe, jeden dodatek węglowy przysługuje dla wszystkich gospodarstw domowych zamieszkujących tym lokalu.
 
 4. W przypadku gdy wniosek wypłatę dodatku węglowego dla gospodarstwa domowego wieloosobowego złożyła więcej niż jedna osoba, dodatek ten przyznawany jest wnioskodawcy, który złożył taki wniosek jako pierwszy.
 
-5. Dodatek węglowy nie przysługuje osobie gospodarstwie domowym, na potrzeby którego zostało zakupione paliwo stałe, po cenie od przedsiębiorcy, których mowa art. 2 1 ustawy dnia 23 czerwca szczególnych rozwiązaniach służących ochronie odbiorców niektórych paliw stałych związku sytuacją na rynku tych paliw (Dz. U. 1477).
+5. Dodatek węglowy nie przysługuje osobie gospodarstwie domowym, na potrzeby którego zostało zakupione paliwo stałe, po cenie i od przedsiębiorcy, których mowa art. 2 ust. 1 ustawy z dnia 23 czerwca 2022 r. szczególnych rozwiązaniach służących ochronie odbiorców niektórych paliw stałych związku z sytuacją na rynku tych paliw (Dz. U. poz. 1477 i 1692). niektórych źródeł ciepła związku z sytuacją na rynku paliw (Dz. U. z 2023 r. poz. 1772, 1693 i 2760 oraz z 2024 r. poz. 859).
 
 6. Na potrzeby składania wniosków wypłatę dodatku węglowego przyjmuje się, że jedna osoba może wchodzić skład tylko jednego gospodarstwa domowego.
 
-- **1)** osobom posiadającym obywatelstwo polskie mającym miejsce zamieszkania przebywającym na terytorium Rzeczypospolitej Polskiej;
-- **2)** cudzoziemcom mającym miejsce zamieszkania przebywającym na terytorium Rzeczypospolitej Polskiej:
-    - **a)** na podstawie zezwolenia na pobyt stały, zezwolenia na pobyt rezydenta długoterminowego Unii Europejskiej, zezwolenia na pobyt czasowy udzielonego związku okolicznością, której mowa art. 159 1 pkt 1 lit. c lub d lub art. 186 1 pkt 3 ustawy dnia 12 grudnia 2013 cudzoziemcach (Dz. U. 2021 2354, późn. zm. ), lub związku uzyskaniem Rzeczypospolitej Polskiej statusu uchodźcy lub ochrony uzupełniającej,
-    - **b)** związku uzyskaniem Rzeczypospolitej Polskiej zgody na pobyt ze względów humanitarnych lub zgody na pobyt tolerowany;
+7. Jeżeli umowy międzynarodowe nie stanowią inaczej, dodatek węglowy przysługuje:
 
-- **3)** mającym miejsce zamieszkania przebywającym na terytorium Rzeczypospolitej Polskiej obywatelom państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia Wolnym Handlu (EFTA) stron umowy Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej oraz członkom ich rodzin rozumieniu art. 2 pkt 4 ustawy dnia 14 lipca 2006 wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe tego terytorium obywateli państw członkowskich Unii Europejskiej członków ich rodzin (Dz. U. 2021
-- **1697)** , posiadającym prawo pobytu lub prawo stałego pobytu na terytorium Rzeczypospolitej Polskiej.
+- **1)** osobom posiadającym obywatelstwo polskie mającym miejsce zamieszkania i przebywającym na terytorium Rzeczypospolitej Polskiej;
+- **2)** cudzoziemcom mającym miejsce zamieszkania i przebywającym na terytorium Rzeczypospolitej Polskiej: cudzoziemcach (Dz. U. z 2024 r. poz. 769), lub związku z uzyskaniem Rzeczypospolitej Polskiej statusu uchodźcy lub ochrony uzupełniającej,
+    - **a)** na podstawie zezwolenia na pobyt stały, zezwolenia na pobyt rezydenta długoterminowego Unii Europejskiej, zezwolenia na pobyt czasowy udzielonego związku z okolicznością, której mowa art. 159 ust. 1 pkt 1 lit. c lub d lub art. 186 ust. 1 pkt 3 ustawy z dnia 12 grudnia 2013 r.
+    - **b)** związku z uzyskaniem Rzeczypospolitej Polskiej zgody na pobyt ze względów humanitarnych lub zgody na pobyt tolerowany;
 
-8. Dodatek węglowy dla gospodarstwa domowego, którym mowa 1, wynosi 3000 złotych.
+- **3)** mającym miejsce zamieszkania i przebywającym na terytorium Rzeczypospolitej Polskiej obywatelom państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia Wolnym Handlu (EFTA) – stron umowy Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej oraz członkom ich rodzin rozumieniu art. 2 pkt 4 ustawy z dnia 14 lipca 2006 r. wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. z 2024 r. poz. 633), posiadającym prawo pobytu lub prawo stałego pobytu na terytorium Rzeczypospolitej Polskiej.
 
-9. Wniosek wypłatę dodatku węglowego składa się terminie do dnia 30 listopada
+8. Dodatek węglowy dla gospodarstwa domowego, którym mowa ust. 1, wynosi 3000 złotych.
 
-10. Wnioski wypłatę dodatku węglowego złożone po dniu 30 listopada pozostawia się bez rozpoznania.
-
-11. Dodatek węglowy wypłaca się terminie do miesiąca od dnia złożenia wniosku jego wypłatę.
+9. Wniosek wypłatę dodatku węglowego składa się terminie do dnia 30 listopada 2022 r. złożenia wniosku jego wypłatę.
 
 12. Wniosek wypłatę dodatku węglowego składa się gminie właściwej ze względu na miejsce zamieszkania osoby składającej ten wniosek.
 
-13. Wniosek wypłatę dodatku węglowego składa się na piśmie lub za pomocą środków komunikacji elektronicznej rozumieniu art. 2 pkt 5 ustawy dnia 18 lipca 2002 świadczeniu usług drogą elektroniczną (Dz. U. 2020 344).
+13. Wniosek wypłatę dodatku węglowego składa się na piśmie lub za pomocą środków komunikacji elektronicznej rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. świadczeniu usług drogą elektroniczną (Dz. U. z 2020 r. poz. 344).
 
-14. W przypadku złożenia wniosku wypłatę dodatku węglowego za pomocą środków komunikacji elektronicznej wniosek ten opatruje się kwalifikowanym podpisem elektronicznym lub uwierzytelnia wykorzystaniem profilu zaufanego.
+14. W przypadku złożenia wniosku wypłatę dodatku węglowego za pomocą środków komunikacji elektronicznej wniosek ten opatruje się kwalifikowanym podpisem elektronicznym lub podpisem zaufanym albo podpisem osobistym.
 
-15. Wójt, burmistrz albo prezydent miasta dokonuje weryfikacji wniosku wypłatę dodatku węglowego, szczególności zakresie zgłoszenia lub wpisania głównego źródła ogrzewania centralnej ewidencji emisyjności budynków, której mowa art. 27a 1 ustawy dnia 21 listopada 2008 wspieraniu termomodernizacji remontów oraz centralnej ewidencji emisyjności budynków.
+14a. Minister właściwy do spraw informatyzacji może udostępnić usługę umożliwiającą złożenie wniosku za jego pośrednictwem za pomocą środków komunikacji elektronicznej, tym przy użyciu aplikacji mObywatel rozumieniu ustawy z dnia 26 maja 2023 r. aplikacji mObywatel (Dz. U. poz. 1234 oraz z 2024 r. poz. 854).
+
+14b. Wniosek złożony przy użyciu aplikacji mObywatel opatruje się zaawansowaną pieczęcią elektroniczną ministra właściwego do spraw informatyzacji, po uwierzytelnieniu wnioskodawcy z wykorzystaniem certyfikatu podstawowego, którym mowa art. 2 pkt 2 ustawy z dnia 26 maja 2023 r. aplikacji mObywatel.
+
+15. Wójt, burmistrz albo prezydent miasta dokonuje weryfikacji wniosku wypłatę dodatku węglowego, szczególności zakresie zgłoszenia lub wpisania głównego źródła ogrzewania centralnej ewidencji emisyjności budynków, której mowa art. 27a ust. 1 ustawy z dnia 21 listopada 2008 r. wspieraniu termomodernizacji i remontów oraz centralnej ewidencji emisyjności budynków.
+
+15a. Dokonując weryfikacji wniosku wypłatę dodatku węglowego, wójt, burmistrz albo prezydent miasta bierze pod uwagę szczególności:
+
+- **1)** informacje wynikające z deklaracji wysokości opłaty za gospodarowanie odpadami komunalnymi, której mowa art. 6m ustawy z dnia 13 września 1996 r. utrzymaniu czystości i porządku gminach (Dz. U. z 2024 r. poz. 399);
+- **2)** informacje uzyskane związku z postępowaniem przyznanie: z 2024 r. poz. 421 i 858), poz. 1335);
+    - **b)** świadczenia wychowawczego, którym mowa art. 4 ustawy z dnia 11 lutego 2016 r. pomocy państwa wychowywaniu dzieci (Dz. U.
+    - **c)** dodatku osłonowego, którym mowa art. 2 ust. 1 ustawy z dnia 17 grudnia 2021 r. dodatku osłonowym (Dz. U. z 2024 r. poz. 953),
+    - **d)** dodatku mieszkaniowego, którym mowa art. 2 ustawy z dnia 21 czerwca 2001 r. dodatkach mieszkaniowych (Dz. U. z 2023 r.
+
+- **3)** dane zgromadzone rejestrze PESEL oraz rejestrze mieszkańców, których mowa odpowiednio art. 6 ust. 1 i art. 6a ust. 1 ustawy z dnia 24 września 2010 r. ewidencji ludności (Dz. U. z 2024 r. poz. 736 i 854).
+
+15b. Jeżeli podczas weryfikacji wniosku wypłatę dodatku węglowego wystąpią wątpliwości dotyczące gospodarstwa domowego wnioskodawcy, wójt, burmistrz albo prezydent miasta może przeprowadzić wywiad środowiskowy, który ma na celu ustalenie faktycznego stanu danego gospodarstwa domowego zgodnie z art. 2 ust. 2 odpowiednio pkt 1 i 2, odnośnie samotnego zamieszkiwania przypadku jednoosobowych gospodarstw domowych oraz wspólnie stale zamieszkujących i gospodarujących z wnioskodawcą przypadku gospodarstw domowych wieloosobowych. Przepis art. 3 ust. 2 stosuje się.
+
+15c. Wywiad środowiskowy przeprowadza się miejscu zamieszkania wnioskodawcy.
+
+15d. W toku wywiadu środowiskowego ustala się, czy stan faktyczny danego gospodarstwa domowego jest zgodny z informacjami podanymi we wniosku wypłatę dodatku węglowego.
+
+15e. Niewyrażenie zgody na przeprowadzenie wywiadu środowiskowego, którym mowa ust. 15b, stanowi podstawę do odmowy przyznania dodatku węglowego.
+
+15f. W przypadku posiadania informacji wskazujących, że osoba, która nie złożyła wniosku wypłatę dodatku węglowego, spełnia warunki jego przyznania wynikające z ustawy, wójt, burmistrz albo prezydent miasta może przeprowadzić wywiad środowiskowy celu ustalenia prawa do tego dodatku. Z przeprowadzonego ciepła do centralnej ewidencji emisyjności budynków, której mowa art. 27a ust. 1 ustawy z dnia 21 listopada 2008 r. wspieraniu termomodernizacji i remontów oraz centralnej ewidencji emisyjności budynków, jeżeli źródło nie było wcześniej zgłoszone do tej ewidencji. Przepis art. 3 ust. 2 stosuje się.
+
+15g. Dodatek węglowy przysługuje osobie gospodarstwie domowym także, gdy główne źródło ogrzewania gospodarstwa domowego, którym mowa art. 2 ust. 1, nie zostało zgłoszone lub wpisane do centralnej ewidencji emisyjności budynków, której mowa art. 27a ust. 1 ustawy z dnia 21 listopada 2008 r. wspieraniu termomodernizacji i remontów oraz centralnej ewidencji emisyjności budynków, do dnia 11 sierpnia 2022 r., a wyniku przeprowadzenia wywiadu środowiskowego ustalono, że źródłem ogrzewania tego gospodarstwa jest źródło, którym mowa art. 2 ust. 1. Z przeprowadzonego wywiadu środowiskowego sporządza się notatkę służbową. Wpis do centralnej ewidencji emisyjności budynków, której mowa art. 27a ust. 1 ustawy z dnia 21 listopada 2008 r. wspieraniu termomodernizacji i remontów oraz centralnej ewidencji emisyjności budynków, dokonywany jest przez wójta, burmistrza albo prezydenta miasta z urzędu bez konieczności składania odpowiedniej deklaracji.
 
 16. Przyznanie przez wójta, burmistrza albo prezydenta miasta dodatku węglowego nie wymaga wydania decyzji. Odmowa przyznania dodatku węglowego, uchylenie oraz rozstrzygnięcie sprawie nienależnie pobranego dodatku węglowego wymagają wydania decyzji.
 
@@ -75,27 +106,29 @@ USTAWA dnia 5 sierpnia dodatku węglowym
 
 18. Nieodebranie informacji przyznaniu dodatku węglowego nie wstrzymuje wypłaty tego dodatku.
 
-19. Minister właściwy do spraw energii określi, drodze rozporządzenia, wzór wniosku wypłatę dodatku węglowego, mając na względzie zapewnienie przejrzystości komunikatywności tego wniosku.
-
 **Art. 3.**
 
-1. Do postępowania sprawie wypłaty dodatku węglowego przepisy art. 23 3, 12 13, art. 24a 1 2, art. 25 3 4, art. 29, art. 30 art. 30a ustawy dnia 28 listopada 2003 świadczeniach rodzinnych (Dz. U.
+1. Do postępowania sprawie wypłaty dodatku węglowego przepisy art. 23 ust. 3, 12 i 13, art. 24a ust. 1 i 2, art. 25 ust. 3 i 4, art. 29, art. 30 i art. 30a ustawy z dnia 28 listopada 2003 r. świadczeniach rodzinnych stosuje się odpowiednio, przy czym ilekroć tych przepisach jest mowa rodzinie, rozumie się przez to gospodarstwo domowe, którym mowa art. 2 ust. 2.
 
-- **615¹²⁶⁵)** stosuje się odpowiednio, przy czym ilekroć tych przepisach jest mowa rodzinie, rozumie się przez to gospodarstwo domowe, którym mowa art. 2 2. gminy albo kierownika ośrodka pomocy społecznej, a przypadku przekształcenia ośrodka pomocy społecznej centrum usług społecznych na podstawie przepisów ustawy dnia 19 lipca 2019 realizowaniu usług społecznych przez centrum usług społecznych (Dz. U. 1818) dyrektora centrum usług społecznych, lub kierownika innej jednostki organizacyjnej gminy, a także inną osobę na wniosek kierownika ośrodka pomocy społecznej, dyrektora centrum usług społecznych lub innej jednostki organizacyjnej gminy do prowadzenia postępowań sprawach dotyczących wypłaty dodatku węglowego.
+2. Wójt, burmistrz albo prezydent miasta może, na piśmie utrwalonym postaci papierowej lub elektronicznej, upoważnić swojego zastępcę, pracownika urzędu gminy albo kierownika ośrodka pomocy społecznej, a przypadku przekształcenia ośrodka pomocy społecznej centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. realizowaniu usług społecznych przez centrum usług społecznych (Dz. U. poz. 1818) – dyrektora centrum usług społecznych, lub kierownika innej jednostki organizacyjnej gminy, a także inną osobę na wniosek kierownika ośrodka pomocy społecznej, dyrektora centrum usług społecznych lub innej jednostki organizacyjnej gminy do prowadzenia postępowań sprawach dotyczących wypłaty dodatku węglowego.
 
-3. W sprawach nieuregulowanych niniejszą ustawą stosuje się przepisy ustawy dnia 14 czerwca 1960 Kodeks postępowania administracyjnego (Dz. U. 2021 735, 1491 2052 oraz 1301).
+3. W sprawach nieuregulowanych niniejszą ustawą stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572).
 
 4. Informacje przedstawione we wniosku wypłatę dodatku węglowego składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
+5. Wójt, burmistrz albo prezydent miasta zamieszcza widocznym miejscu oraz publikuje Biuletynie Informacji Publicznej informację przeprowadzaniu przez osoby posiadające kwalifikacje kominiarskie okresowej kontroli źródeł ogrzewania, zgodnie z przepisami wydanymi na podstawie art. 13 ust. 1 i 2 ustawy z dnia 24 sierpnia 1991 r. ochronie przeciwpożarowej (Dz. U. z 2024 r. poz. 275).
+
 **Art. 4.**
 
-1. Wypłata dodatku węglowego jest zadaniem zleconym gminie.
+1. Wypłata dodatku węglowego jest zadaniem zleconym gminie. szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 568, z późn. zm. ).
 
-2. Wojewodowie przekazują środki gminom granicach kwot określonych na realizację wypłat dodatku węglowego Funduszu Przeciwdziałania COVID-19, którym mowa art. 65 1 ustawy dnia 31 marca 2020 zmianie ustawy szczególnych rozwiązaniach związanych zapobieganiem, przeciwdziałaniem zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. 568, późn. zm. ).
+3. Gmina składa wojewodzie wniosek przyznanie środków terminie do dnia 30 listopada 2022 r. Do dnia 15 grudnia 2022 r. gmina może złożyć korektę wniosku.
 
-3. Gmina składa wojewodzie wniosek przyznanie środków terminie do dnia 30 listopada Do dnia 15 grudnia gmina może złożyć korektę wniosku.
+4. Środki na realizację wypłat dodatku węglowego są przekazywane gminom przez wojewodę, na podstawie wniosku, którym mowa ust. 3, miesięcznych ratach.
 
-4. Środki na realizację wypłat dodatku węglowego są przekazywane gminom przez wojewodę, na podstawie wniosku, którym mowa 3, miesięcznych ratach. Nadpłata środków może być zaliczana na poczet kwoty należnej miesiącu następnym, wyjątkiem nadpłaty za grudzień r., która podlega przekazaniu na rachunek właściwego urzędu wojewódzkiego terminie do dnia 20 stycznia 2023
+4a. Wójt, burmistrz albo prezydent miasta, terminie do 1. i 15. dnia każdego miesiąca, którym może być wypłacany dodatek węglowy, informuje właściwego wojewodę wysokości niewykorzystanych środków przekazanych przez wojewodę na wypłatę dodatku węglowego.
+
+4b. W terminie wskazanym przez wojewodę wójt, burmistrz albo prezydent miasta zwracają niewykorzystane środki przekazane na wypłatę dodatku węglowego, wysokości wskazanej przez wojewodę, na rachunek właściwego urzędu wojewódzkiego.
 
 5. Gmina przeznacza całość odsetek od otrzymanych środków na przedsięwzięcia służące zwiększeniu efektywności energetycznej.
 
@@ -103,85 +136,83 @@ USTAWA dnia 5 sierpnia dodatku węglowym
 
 **Art. 5.**
 
-1. Gminy otrzymują środki na realizację wypłat dodatku węglowego Funduszu Przeciwdziałania COVID-19, którym mowa art. 65 1 ustawy dnia 31 marca 2020 zmianie ustawy szczególnych rozwiązaniach związanych zapobieganiem, przeciwdziałaniem zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw, granicach kwot określonych na ten cel planie tego Funduszu.
+1. Gminy otrzymują środki na realizację wypłat dodatku węglowego z Funduszu Przeciwdziałania COVID-19, którym mowa art. 65 ust. 1 ustawy z dnia 31 marca 2020 r. zmianie ustawy szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw, granicach kwot określonych na ten cel planie tego Funduszu.
 
-2. Przy ustalaniu wysokości środków na realizację wypłat dodatku węglowego uwzględnia się koszty wypłacania odbiorcom dodatku węglowego, wysokości 2% łącznej kwoty dotacji wypłaconych gminie.
+3. Wójt, burmistrz albo prezydent miasta przedstawia wojewodzie rozliczenie środków na realizację wypłat dodatku węglowego z wyodrębnieniem liczby i kwoty wypłaconych dodatków węglowych, otrzymanych w:
 
-3. Wójt, burmistrz albo prezydent miasta przedstawia wojewodzie, terminie do dnia 15 stycznia 2023 r., rozliczenie środków na realizację wypłat dodatku węglowego wyodrębnieniem liczby kwoty wypłaconych dodatków węglowych.
+- **1)** 2022 r. – do dnia 15 stycznia 2023 r.;
+- **2)** 2023 r. – do dnia 28 lutego 2023 r.
 
-4. Wniosek przekazanie środków na wypłaty dodatku węglowego dla gmin wojewoda składa do ministra właściwego do spraw energii. Minister właściwy do spraw energii przekazuje środki wojewodom. Wojewodowie przedstawiają ministrowi właściwemu do spraw energii zbiorcze rozliczenie środków oraz przekazują niewykorzystane środki do Funduszu Przeciwdziałania COVID-19, którym mowa art. 65 1 ustawy dnia 31 marca 2020 zmianie ustawy szczególnych rozwiązaniach związanych zapobieganiem, przeciwdziałaniem zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw, do dnia 31 stycznia 2023
+4. Wniosek przekazanie środków na wypłaty dodatku węglowego dla gmin wojewoda składa do ministra właściwego do spraw energii. Minister właściwy do spraw energii przekazuje środki wojewodom. Wojewodowie przedstawiają ministrowi właściwemu do spraw energii zbiorcze rozliczenie środków oraz przekazują niewykorzystane środki do Funduszu Przeciwdziałania COVID-19, którym mowa art. 65 ust. 1 ustawy z dnia 31 marca 2020 r. zmianie ustawy szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw, otrzymanych w:
+
+- **1)** 2022 r. – do dnia 31 stycznia 2023 r.;
+- **2)** 2023 r. – do dnia 15 marca 2023 r.
+
+5. Wojewoda całość odsetek od otrzymanych środków przekazuje na rachunek Funduszu Przeciwdziałania COVID-19, którym mowa art. 65 ust. 1 ustawy z dnia 31 marca 2020 r. zmianie ustawy szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw.
+
+6. Wójt, burmistrz albo prezydent miasta przedstawia wojewodzie informację liczbie toczących się postępowań sprawie wypłaty dodatku węglowego, których związku z wniesieniem odwołania nie zapadło prawomocne rozstrzygnięcie organu administracji publicznej lub sądu administracyjnego, którego skutkiem jest przyznanie dodatku, oraz łącznej wysokości dodatków węglowych będącej przedmiotem tych postępowań, terminie do dnia 15 czerwca latach 2023–2025.
+
+7. Wojewodowie przedstawiają ministrowi właściwemu do spraw energii zbiorczą informację liczbie toczących się postępowań sprawie wypłaty dodatku węglowego, których związku z wniesieniem odwołania nie zapadło prawomocne
+
+2025.
+
+8. Jeżeli dodatek węglowy został przyznany na skutek prawomocnego rozstrzygnięcia organu administracji publicznej lub sądu administracyjnego postępowaniu sprawie wypłaty dodatku węglowego, wójt, burmistrz albo prezydent miasta może zwrócić się do wojewody z wnioskiem przyznanie środków na ten cel po terminie, którym mowa ust. 4.
+
+9. Wypłata dodatków, których mowa ust. 8, od dnia 1 stycznia 2025 r. jest zadaniem zleconym gminie, finansowanym ze środków budżetu państwa.
+
+10. Wojewoda składa wniosek przyznanie środków na pokrycie dodatku węglowego, którym mowa ust. 8, terminie:
+
+- **1)** do dnia 30 listopada 2024 r. – do ministra właściwego do spraw energii;
+- **2)** od dnia 1 stycznia 2025 r. – do ministra właściwego do spraw finansów publicznych – z rezerwy celowej budżetu państwa na zobowiązania wymagalne Skarbu Państwa.
+
+11. Wojewoda terminie do dnia 31 grudnia 2024 r. składa korektę zbiorczego rozliczenia środków, którym mowa ust. 4.
 
 **Art. 6.**
 
-1. Bank Gospodarstwa Krajowego może zaciągać kredyty emitować obligacje na rynku krajowym na rynkach zagranicznych, których środki przeznaczone są na utworzenie linii kredytowej dla przedsiębiorców będących przedsiębiorstwami energetycznymi, których działalność jest całości lub przeważającej części związana wytwarzaniem ciepła jest objęta wymogiem uzyskania koncesji, których mowa art. 32 1 ustawy dnia 10 kwietnia 1997 Prawo energetyczne (Dz. U. 1385). dnia 29 sierpnia 1997 Prawo bankowe (Dz. U. 2021 2439 2447 oraz 830, 872, 1358 1488) są udzielane celu zagwarantowania ciągłości dostaw ciepła do odbiorców na cele mieszkaniowe lub użyteczności publicznej, szczególności na potrzeby zakupu rozliczenia węgla kamiennego, okresie od dnia wejścia życie niniejszej ustawy do dnia 30 czerwca 2024 r., ile po złożeniu przez przedsiębiorcę, którym mowa 1, wniosku kredyt lub pożyczkę innej instytucji finansowej nie uzyskał on takiego finansowania, szczególności nie uzyskał kredytu zabezpieczonego poręczeniem lub gwarancją, których mowa art. 21a 1 ustawy dnia 12 marca pomocy obywatelom Ukrainy związku konfliktem zbrojnym na terytorium tego państwa (Dz. U. 583, późn. zm. ). Wartość kredytu, ramach linii kredytowej, udzielonego przedsiębiorcy, którym mowa 1, nie może przekroczyć kwoty 20 000 000 zł. Minister właściwy do spraw energii akceptuje regulamin udzielania kredytów ramach linii kredytowej przedstawiony przez Bank Gospodarstwa Krajowego.
+1. Bank Gospodarstwa Krajowego może zaciągać kredyty i emitować obligacje na rynku krajowym i na rynkach zagranicznych, z których środki przeznaczone są na utworzenie linii kredytowej dla przedsiębiorców będących przedsiębiorstwami energetycznymi, których działalność jest całości lub przeważającej części związana z wytwarzaniem ciepła i jest objęta wymogiem uzyskania koncesji, których mowa art. 32 ust. 1 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2024 r. poz. 266, 834 i 859).
 
-3. Zobowiązania Banku Gospodarstwa Krajowego tytułu kredytów obligacji, których mowa 1, są objęte gwarancją Skarbu Państwa, reprezentowanego przez ministra właściwego do spraw finansów publicznych.
+2. Kredyty ramach linii kredytowej dla przedsiębiorców, których mowa ust. 1, trybie przewidzianym ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2023 r. poz. 2488 oraz z 2024 r. poz. 879) są udzielane celu zagwarantowania ciągłości dostaw ciepła do odbiorców na cele mieszkaniowe lub użyteczności publicznej, szczególności na potrzeby zakupu i rozliczenia węgla kamiennego, okresie od dnia wejścia życie niniejszej ustawy do dnia 30 czerwca 2024 r., ile po złożeniu przez przedsiębiorcę, którym mowa ust. 1, wniosku kredyt lub pożyczkę innej instytucji finansowej nie uzyskał on takiego (Dz. U. z 2024 r. poz. 167, 232, 834, 854, 858 i 1089). Wartość kredytu, ramach linii kredytowej, udzielonego przedsiębiorcy, którym mowa ust. 1, nie może przekroczyć kwoty 20 000 000 zł. Minister właściwy do spraw energii akceptuje regulamin udzielania kredytów ramach linii kredytowej przedstawiony przez Bank Gospodarstwa Krajowego.
 
-4. Do gwarancji, której mowa 3, nie stosuje się przepisów ustawy dnia 8 maja 1997 poręczeniach gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U. 1613), wyjątkiem przepisów art. 43b, art. 44, art. 45 art. 46 tej ustawy, które stosuje się odpowiednio.
+3. Zobowiązania Banku Gospodarstwa Krajowego z tytułu kredytów i obligacji, których mowa ust. 1, są objęte gwarancją Skarbu Państwa, reprezentowanego przez ministra właściwego do spraw finansów publicznych.
 
-5. Gwarancja, której mowa 3, jest udzielana do wysokości 100% pozostających do spłaty świadczeń pieniężnych wynikających kredytu albo wyemitowanych obligacji, objętych gwarancją, wraz ze 100% należnych odsetek od tej kwoty innych kosztów bezpośrednio związanych tym kredytem albo tymi obligacjami nie może przekroczyć 2 000 000 000 zł.
+4. Do gwarancji, której mowa ust. 3, nie stosuje się przepisów ustawy z dnia 8 maja 1997 r. poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U. z 2024 r. poz. 291), z wyjątkiem przepisów art. 43b, art. 44, art. 45 i art. 46 tej ustawy, które stosuje się odpowiednio.
 
-6. Bank Gospodarstwa Krajowego jest zwolniony obowiązku ustanowienia zabezpieczenia na rzecz Skarbu Państwa tytułu gwarancji, której mowa 3, wniesienia opłaty prowizyjnej od tej gwarancji.
+5. Gwarancja, której mowa ust. 3, jest udzielana do wysokości 100 % pozostających do spłaty świadczeń pieniężnych wynikających z kredytu albo wyemitowanych obligacji, objętych gwarancją, wraz ze 100 % należnych odsetek od tej kwoty i innych kosztów bezpośrednio związanych z tym kredytem albo tymi obligacjami i nie może przekroczyć 2 000 000 000 zł.
 
-7. Gwarancja, której mowa 3, jest skuteczna pod warunkiem złożenia przez ministra właściwego do spraw finansów publicznych, imieniu Skarbu Państwa, oświadczenia objęciu gwarancją zobowiązania tytułu kredytu lub obligacji, których mowa 1.
+6. Bank Gospodarstwa Krajowego jest zwolniony z obowiązku ustanowienia zabezpieczenia na rzecz Skarbu Państwa z tytułu gwarancji, której mowa ust. 3, i wniesienia opłaty prowizyjnej od tej gwarancji.
 
-8. Minister właściwy do spraw finansów publicznych wykonuje czynności zmierzające do odzyskania kwot zapłaconych tytułu wykonania gwarancji, której mowa 3.
+7. Gwarancja, której mowa ust. 3, jest skuteczna pod warunkiem złożenia przez ministra właściwego do spraw finansów publicznych, imieniu Skarbu Państwa, oświadczenia objęciu gwarancją zobowiązania z tytułu kredytu lub obligacji, których mowa ust. 1.
 
-9. Rada Ministrów może umorzyć całości lub części wierzytelności Skarbu Państwa, powstałe tytułu udzielonej gwarancji, której mowa 3, na wniosek ministra właściwego do spraw finansów publicznych.
+8. Minister właściwy do spraw finansów publicznych wykonuje czynności zmierzające do odzyskania kwot zapłaconych z tytułu wykonania gwarancji, której mowa ust. 3.
 
-10. Do emisji przez Bank Gospodarstwa Krajowego obligacji, których mowa 1, stosuje się odpowiednio przepisy rozdziału 6a ustawy dnia 27 października 1994 autostradach płatnych oraz Krajowym Funduszu Drogowym (Dz. U. 659 1079).
-
-**Art. 7.** W ustawie dnia 17 listopada 1964 Kodeks postępowania cywilnego (Dz. U. 2021 1805, późn. zm. ) art. 833 § 6 otrzymuje brzmienie: „§ 6. Nie podlegają egzekucji świadczenia alimentacyjne, świadczenia pieniężne wypłacane przypadku bezskuteczności egzekucji alimentów, świadczenia rodzinne, dodatki rodzinne, pielęgnacyjne, porodowe, dla sierot zupełnych, zasiłki dla opiekunów, świadczenia pomocy społecznej, świadczenia integracyjne, świadczenie wychowawcze, świadczenie dobry start, jednorazowe świadczenie, którym mowa art. 10 ustawy dnia 4 listopada 2016 wsparciu kobiet ciąży rodzin „Za życiem” (Dz. U. 2020 1329), rodzinny kapitał opiekuńczy, którym mowa ustawie dnia 17 listopada 2021 rodzinnym kapitale opiekuńczym (Dz. U. 2270), dofinansowanie obniżenia opłaty rodzica za pobyt dziecka żłobku, klubie dziecięcym lub u dziennego opiekuna, którym mowa art. 64c 1 ustawy dnia 4 lutego 2011 opiece nad dziećmi wieku do lat 3 (Dz. U. 1324 1383), dodatek osłonowy, którym mowa ustawie dnia 17 grudnia 2021 dodatku osłonowym (Dz. U. 1 202), oraz dodatek węglowy, którym mowa ustawie dnia 5 sierpnia dodatku węglowym (Dz. U. 1692).”.
-
-**Art. 9.** W ustawie dnia 26 lipca 1991 podatku dochodowym od osób fizycznych (Dz. U. 2021 1128, późn. zm. ) wprowadza się następujące zmiany:
-
-**Art. 10.** W ustawie dnia 29 sierpnia 1997 Prawo bankowe (Dz. U. 2021 2439 2447 oraz 830, 872, 1358 1488) wprowadza się następujące zmiany:
-
-**Art. 11.** W ustawie dnia 12 marca 2004 pomocy społecznej (Dz. U. 2021 2268 2270 oraz 1, 66 1079) art. 8 4 pkt 17 kropkę zastępuje się średnikiem dodaje się pkt 18 brzmieniu: „18) kwoty dodatku węglowego, którym mowa art. 2 1 ustawy dnia 5 sierpnia dodatku węglowym (Dz. U. 1692).”.
-
-**Art. 12.** W ustawie dnia 21 lipca 2006 nadzorze nad rynkiem finansowym (Dz. U. 660, 872 1488) art. 12 2 pkt 1 lit. zh średnik zastępuje się przecinkiem dodaje się lit. zi brzmieniu: „zi) wydawania decyzji, której mowa art. 174 3a ustawy dnia 10 czerwca 2016 Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji;”.
-
-**Art. 13.** W ustawie dnia 12 lutego 2009 udzielaniu przez Skarb Państwa wsparcia instytucjom finansowym (Dz. U. 618) wprowadza się następujące zmiany:
-
-**Art. 14.** W ustawie dnia 27 sierpnia 2009 finansach publicznych (Dz. U. 1634) art. 212 1 pkt 7 otrzymuje brzmienie: „7) kwotę wydatków na spłatę przypadających danym roku budżetowym, zgodnie zawartą umową, wymagalnych zobowiązań tytułu udzielonych przez jednostkę samorządu terytorialnego poręczeń gwarancji;”.
-
-**Art. 15.** W ustawie dnia 10 czerwca 2016 Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. 793 872) art. 174:
-
-**Art. 16.** W ustawie dnia 27 października 2017 finansowaniu zadań oświatowych (Dz. U. 2021 1930 2445 oraz 1116) po art. 75a dodaje się art. 75aa brzmieniu: „Art. 75aa. Do udzielania dotacji celowej, której mowa art. 75a, nie stosuje się przepisów ustawy dnia 14 czerwca 1960 Kodeks postępowania administracyjnego.”.
-
-**Art. 17.** W ustawie dnia 28 grudnia 2018 zmianie ustawy podatku akcyzowym oraz niektórych innych ustaw (Dz. U. 2538, późn. zm. ) wprowadza się następujące zmiany:
-
-**Art. 18.** W ustawie dnia 31 lipca 2019 świadczeniu uzupełniającym dla osób niezdolnych do samodzielnej egzystencji (Dz. U. 1006) art. 2 2 po wyrazach „ustawy dnia 17 grudnia 2021 dodatku osłonowym (Dz. U. 1 202),” dodaje się wyrazy „dodatku węglowego, którym mowa art. 2 1 ustawy dnia 5 sierpnia dodatku węglowym (Dz. U. 1692),”.
-
-**Art. 19.** W ustawie dnia 31 marca 2020 zmianie ustawy szczególnych rozwiązaniach związanych zapobieganiem, przeciwdziałaniem zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. 568, późn. zm. ) art. 65 5 pkt 5 kropkę zastępuje się średnikiem dodaje się pkt 6 brzmieniu: „6) wypłaty obsługę dodatku węglowego, którym mowa art. 2 1 ustawy dnia 5 sierpnia dodatku węglowym (Dz. U. 1692).”.
-
-**Art. 20.** W ustawie dnia 17 grudnia 2021 dodatku osłonowym (Dz. U. 1 202) art. 2 po 17 dodaje się 17a brzmieniu: „17a. Wójt, burmistrz albo prezydent miasta dokonuje weryfikacji wniosku wypłatę dodatku osłonowego, szczególności zakresie zgłoszenia lub wpisania głównego źródła ogrzewania centralnej ewidencji emisyjności budynków, której mowa art. 27a 1 ustawy dnia 21 listopada 2008 wspieraniu termomodernizacji remontów oraz centralnej ewidencji emisyjności budynków.”. gazowych związku sytuacją na rynku gazu (Dz. U. 202 1477) po art. 13 dodaje się art. 13a brzmieniu: „Art. 13a. 1. Przedsiębiorstwo energetyczne dostarczające paliwa gazowe do odbiorców, których mowa art. 62b 1 pkt 2 lit. a ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, dołącza do faktur za paliwa gazowe odebrane wystawionych tym odbiorcom po dniu 30 września informację wpływie ustawy na cenę paliw gazowych dla tych odbiorców. 2. Podmioty, których mowa art. 62b 1 pkt 2 lit. b c ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, przekazują informację, której mowa 1, osobom zużywającym paliwo gazowe na potrzeby zużycia przez gospodarstwa domowe, niebędącym odbiorcami, których mowa art. 45a 2 ustawy zmienianej art. 1, wraz rozliczeniami zużycia paliwa gazowego przez te osoby r., zgodnie obowiązującą umową albo dotychczasową praktyką zakresie tych rozliczeń, wystawionymi po dniu 30 września 3. Minister właściwy do spraw energii udostępnia Biuletynie Informacji Publicznej na stronie podmiotowej obsługującego go urzędu wzór informacji załączanej do faktury, której mowa 1.”.
-
-**Art. 22.** W ustawie dnia 12 marca pomocy obywatelom Ukrainy związku konfliktem zbrojnym na terytorium tego państwa (Dz. U. 583, późn. zm. ) wprowadza się następujące zmiany:
-
-**Art. 23.** W ustawie dnia 23 czerwca szczególnych rozwiązaniach służących ochronie odbiorców niektórych paliw stałych związku sytuacją na rynku tych paliw (Dz. U. 1477) wprowadza się następujące zmiany:
+9. Rada Ministrów może umorzyć całości lub części wierzytelności Skarbu Państwa, powstałe z tytułu udzielonej gwarancji, której mowa ust. 3, na wniosek ministra właściwego do spraw finansów publicznych. z 2024 r. poz. 321). Art. 7‒23. (pominięte)
 
 **Art. 24.**
 
-1. W roku nadwyżka, ponad określoną ustawie budżetowej na rok dnia 17 grudnia 2021 (Dz. U. 270) prognozę wysokości wpłaty części rocznego zysku Narodowego Banku Polskiego (wpłata zysku NBP), której mowa art. 69 4 ustawy dnia 29 sierpnia 1997 Narodowym Banku Polskim (Dz. U.
+1. W roku 2022 nadwyżka, ponad określoną ustawie budżetowej na rok 2022 z dnia 17 grudnia 2021 r. (Dz. U. z 2022 r. poz. 270) prognozę wysokości wpłaty części rocznego zysku Narodowego Banku Polskiego (wpłata z zysku NBP), której mowa art. 69 ust. 4 ustawy z dnia 29 sierpnia 1997 r. Narodowym Banku Polskim (Dz. U. z 2022 r. poz. 2025), podlega przekazaniu do Funduszu Przeciwdziałania COVID-19, którym mowa art. 65 ust. 1 ustawy zmienianej art. 19 .
 
-- **492⁶⁵⁵)** , podlega przekazaniu do Funduszu Przeciwdziałania COVID-19, którym mowa art. 65 1 ustawy zmienianej art. 19. 1, dokona obliczenia kwoty nadwyżki przekaże ją na rachunek bankowy Funduszu Przeciwdziałania COVID-19, którym mowa art. 65 1 ustawy zmienianej art. 19, terminie do 14 dni od dnia wejścia życie niniejszej ustawy.
+2. Naczelnik urzędu skarbowego, do którego Narodowy Bank Polski odprowadził wpłatę z zysku, której mowa ust. 1, dokona obliczenia kwoty nadwyżki i przekaże ją na rachunek bankowy Funduszu Przeciwdziałania COVID-19, którym mowa art. 65 ust. 1 ustawy zmienianej art. 19 , terminie do 14 dni od dnia wejścia życie niniejszej ustawy.
 
-3. Kwota przekazana przez naczelnika urzędu skarbowego, której mowa 2, pomniejsza dochody budżetu państwa tytułu wpłaty zysku NBP.
+3. Kwota przekazana przez naczelnika urzędu skarbowego, której mowa ust. 2, pomniejsza dochody budżetu państwa z tytułu wpłaty z zysku NBP.
 
-**Art. 25.** Do sprzedaży niektórych paliw stałych dla gospodarstw domowych oraz przyznawania wypłat rekompensat przedsiębiorcom, których mowa art. 2 1 ustawy zmienianej art. 23, dokonanych przed dniem wejścia życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej art. 23 brzmieniu dotychczasowym, przy czym:
+**Art. 25.** Do sprzedaży niektórych paliw stałych dla gospodarstw domowych oraz przyznawania i wypłat rekompensat przedsiębiorcom, których mowa art. 2 ust. 1 ustawy zmienianej art. 23 , dokonanych przed dniem wejścia życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej art. 23 brzmieniu dotychczasowym, przy czym:
 
-**Art. 26.** W przypadku systemu ochrony, którym mowa rozdziale 10a ustawy zmienianej art. 10, utworzonego przed dniem wejścia życie niniejszej ustawy uczestnicy tego systemu ochrony dostosują umowę systemu ochrony do warunków określonych art. 130c 5 ustawy zmienianej art. 10 brzmieniu nadanym niniejszą ustawą terminie 6 miesięcy od dnia wejścia życie niniejszej ustawy.
+**Art. 26.** W przypadku systemu ochrony, którym mowa rozdziale 10a ustawy zmienianej art. 10 , utworzonego przed dniem wejścia życie niniejszej ustawy uczestnicy tego systemu ochrony dostosują umowę systemu ochrony do warunków określonych art. 130c ust. 5 ustawy zmienianej art. 10 brzmieniu nadanym niniejszą ustawą terminie 6 miesięcy od dnia wejścia życie niniejszej ustawy.
 
 **Art. 27.**
 
-1. Maksymalny limit wydatków Funduszu Przeciwdziałania COVID-19, którym mowa art. 65 1 ustawy zmienianej art. 19, przeznaczonych na dodatki węglowe wynosi 11 500 000 000 zł.
+1. Maksymalny limit wydatków z Funduszu Przeciwdziałania COVID-19, którym mowa art. 65 ust. 1 ustawy zmienianej art. 19 , przeznaczonych na dodatki węglowe wynosi w:
 
-2. Minister właściwy do spraw energii monitoruje wykorzystanie limitu wydatków, którym mowa 1.
+- **1)** 2022 r. – 13 500 000 000 zł.;
+- **2)** 2023 r. – 2 000 000 000 zł;
+- **3)** 2024 r. – 5 000 000 zł;
+- **4)** latach 2025–2035 – 500 000 zł.
 
-3. W przypadku gdy wykorzystanie środków wyniesie więcej niż 95% środków, których mowa 1, wysokość wypłacanych dodatków węglowych podlega proporcjonalnemu obniżeniu tak, aby łączna wysokość wypłacanych dodatków była równa maksymalnemu limitowi środków finansowych przeznaczanych na przyznanie dodatków.
+2. Minister właściwy do spraw energii monitoruje wykorzystanie limitu wydatków, którym mowa ust. 1.
 
-**Art. 28.** Do ustalania na lata 2023–2025 relacji, której mowa art. 243 1 ustawy zmienianej art. 14, przepisów art. 243 1 pkt 4 oraz 3 pkt 2 ustawy zmienianej art. 14 nie stosuje się.
+3. W przypadku gdy wykorzystanie środków wyniesie więcej niż 95 % środków, których mowa ust. 1, wysokość wypłacanych dodatków węglowych podlega proporcjonalnemu obniżeniu tak, aby łączna wysokość wypłacanych dodatków była równa maksymalnemu limitowi środków finansowych przeznaczanych na przyznanie dodatków.
 
-**Art. 29.** Ustawa wchodzi życie dniem następującym po dniu ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 28.** Do ustalania na lata 2023–2025 relacji, której mowa art. 243 ust. 1 ustawy zmienianej art. 14 , przepisów art. 243 ust. 1 pkt 4 oraz ust. 3 pkt 2 ustawy zmienianej art. 14 nie stosuje się.
+
+**Art. 29.** Ustawa wchodzi życie z dniem następującym po dniu ogłoszenia .
 

@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# Ustawa z dnia 27 lipca 2005 r. o zmianie ustawy - Kodeks karny, ustawy - Kodeks postępowania karnego i ustawy - Kodeks karny wykonawczy
+# o zmianie ustawy - Kodeks karny, ustawy - Kodeks postępowania karnego i ustawy - Kodeks karny wykonawczy
+
+*USTAWA z dnia 27 lipca 2005 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,13 +26,11 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051631363) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/1363/text.pdf) |
 
-**Art. 1.** W ustawie dnia 6 czerwca 1997 Kodeks karny (Dz. 88, 553, zpóên. zm. ) wprowadza następujące zmiany:
+**Art. 1.** W ustawie z dnia 6 czerwca 1997 r. - Kodeks karny (Dz.U. Nr 88, poz. 553, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie dnia 6 czerwca 1997 Kodeks postępowania karnego (Dz. 89, 555, póên. zm. ) 275 2 otrzymuje brzmienie: Ń§ 2. Oddany pod dozór ma obowiązek stosowania do wymagań zawartych postanowieniu wania dozoru.”.
+**Art. 2.** W ustawie z dnia 6 czerwca 1997 r. - Kodeks postępowania karnego (Dz.U. Nr 89, poz. 55, z późn. zm. ) art. 275 § 2 otrzymuje brzmienie: „§ 2. Oddany pod dozór ma obowiązek stosowania się do wymagań zawartych postanowieniu sądu lub prokuratora. Obowiązek ten może polegać na zakazie opuszczania określonego miejsca pobytu, zgłaszaniu się do organu dozorującego określonych odstępach czasu, zawiadamianiu go o zamierzonym wyjeździe oraz o terminie powrotu, a także na innych ograniczeniach jego swobody, niezbędnych do wykonywania dozoru.”.
 
-**Art. 3.** W ustawie dnia 6 czerwca 1997 Kodeks karny wykonawczy (Dz. 90, 557, póên. zm. ) wprowadza następujące zmiany:
+**Art. 3.** W ustawie z dnia 6 czerwca 1997 r. - Kodeks karny wykonawczy (Dz.U. Nr 90, poz. 557, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 4.** Ustawa wchodzi życie po upływie 30 dni od dnia ogłoszenia, zwyjątkiem przepisów 3 pkt 3 4, które wchodzą życie dniem 1 stycznia 2006 Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 1364 USTAWA dnia 28 lipca 2005 o zmianie ustawy Prawo budowlane oraz o zmianie niektórych innych ustaw
-
-**Art. 1.** W ustawie dnia 7 lipca 1994 Prawo budowlane (Dz. 2003 207, 2016, póên. zm.
+**Art. 4.** Ustawa wchodzi życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem przepisów art. 3 pkt 3 i 4, które wchodzą życie z dniem 1 stycznia 2006 r.
 

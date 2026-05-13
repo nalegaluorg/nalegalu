@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 31 grudnia
+# 2550
 
 | Pole | Wartość |
 |---|---|
@@ -24,31 +24,31 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002550) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2550/text.pdf) |
 
-USTAWA dnia 12 grudnia o zmianie o systemie ubezpieczeń społecznych oraz o Krajowej Administracji Skarbowej
+USTAWA 12 grudnia ustawy oraz ustawy Administracji
 
-**Art. 1.** W ustawie dnia 13 października 1998 o systemie ubezpieczeń społecznych (Dz. poz. 300, późn. zm. ) wprowadza następujące zmiany:
+**Art. 1.** W ustawie (Dz. 300, późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 3.** Do okresów ustalania podstawy wymiaru na ubezpieczenia emerytalne i rentowe, o których mowa 18c 11 pkt 6 zmienianej 1 brzmieniu nadanym niniejszą ustawą, zalicza okresy ustalania najniższej podstawy wymiaru na ubezpieczenia emerytalne i rentowe zgodnie 18c 1 zmienianej 1 brzmieniu dotychczasowym.
+**Art. 3.** Do okresów ustalania podstawy wymiaru składek na ubezpieczenia emerytalne rentowe, których art. 18c 11 pkt 6 ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą, zalicza się okresy ustalania najniższej podstawy wymiaru składek na ubezpieczenia emerytalne rentowe zgodnie art. 18c 1 ustawy zmienianej art. 1 brzmieniu dotychczasowym.
 
 **Art. 4.**
 
-1. Ubezpieczony, który na 2020 ustalał najniższą podstawę wymiaru na ubezpieczenia emerytalne i rentowe zgodnie 18c 1 zmienianej 1 brzmieniu dotychczasowym po wejściu życie niniejszej ustala podstawę wymiaru na te ubezpieczenia zgodnie 18c 1 zmienianej 1 brzmieniu nadanym niniejszą ustawą bez złożenia zgłoszenia wyrejestrowania i ponownego zgłoszenia do ubezpieczeń społecznych, o których mowa 36 14 zmienianej 1.
+1. Ubezpieczony, który na 2020 ustalał najniższą podstawę wymiaru składek na ubezpieczenia emerytalne rentowe zgodnie art. 18c 1 ustawy zmienianej art. 1 brzmieniu dotychczasowym po wejściu życie niniejszej ustawy ustala podstawę wymiaru składek na te ubezpieczenia zgodnie art. 18c 1 ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą bez złożenia zgłoszenia wyrejestrowania ponownego zgłoszenia do społecznych, których art. 36 14 ustawy zmienianej art. 1.
 
-2. Ubezpieczony, o którym mowa 1, przekazuje:
+2. Ubezpieczony, którym 1, przekazuje:
 
-- **1)** informację, o której mowa 18c zmienianej 1 brzmieniu dotychczasowym odpowiednio imiennym raporcie miesięcznym albo deklaracji rozliczeniowej, składanych za styczeń 2020 r., oraz
-- **2)** informację, o której mowa 18c zmienianej 1 brzmieniu nadanym niniejszą ustawą odpowiednio imiennym raporcie miesięcznym albo deklaracji rozliczeniowej, składanych za luty 2020 terminach określonych 47 1 pkt 1 3 zmienianej 1.
+- **1)** informację, której art. 18c 9 ustawy zmienianej art. 1 brzmieniu dotychczasowym odpowiednio imiennym raporcie miesięcznym albo deklaracji rozliczeniowej, składanych za styczeń 2020 r., oraz
+- **2)** informację, której art. 18c 9 ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą odpowiednio imiennym raporcie miesięcznym albo deklaracji rozliczeniowej, składanych za luty 2020 – terminach określonych art. 47 1 pkt 1 lub 3 ustawy zmienianej art. 1.
 
 **Art. 5.**
 
-1. Ubezpieczony, o którym mowa 8 6 pkt 1 zmienianej 1, który ustala na 2020 podstawę wymiaru na ubezpieczenia emerytalne i rentowe zgodnie 18c 1 zmienianej 1 brzmieniu nadanym niniejszą ustawą i:
+1. Ubezpieczony, którym art. 8 6 pkt 1 ustawy zmienianej art. 1, który ustala na 2020 podstawę wymiaru składek na ubezpieczenia emerytalne rentowe zgodnie art. 18c 1 ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą i:
 
-- **1)** przed dniem wejścia życie niniejszej ustalał podstawę wymiaru na ubezpieczenia emerytalne i rentowe sposób inny niż określony 18c 1 zmienianej 1 brzmieniu dotychczasowym zawiadamia Zakład Ubezpieczeń Społecznych o zmianie danych dotyczących tytułu ubezpieczenia przez złożenie zgłoszenia wyrejestrowania i ponownego zgłoszenia do ubezpieczeń społecznych, o którym mowa 36 14 zmienianej 1, zawierającego prawidłowe dane,
-- **2)** rozpoczął wznowił prowadzenie pozarolniczej działalności gospodarczej lutym 2020 r., dokonuje zgłoszenia do ubezpieczeń społecznych, o którym mowa 36 4b zmienianej 1 terminie do końca lutego 2020
+- **1)** przed dniem wejścia życie niniejszej ustawy ustalał podstawę wymiaru składek na ubezpieczenia emerytalne rentowe sposób inny niż określony art. 18c 1 ustawy zmienianej art. 1 brzmieniu dotychczasowym zawiadamia Zakład Ubezpieczeń Społecznych danych dotyczących tytułu ubezpieczenia przez złożenie zgłoszenia wyrejestrowania ponownego zgłoszenia do społecznych, którym art. 36 14 ustawy zmienianej art. 1, zawierającego prawidłowe dane,
+- **2)** rozpoczął lub wznowił prowadzenie pozarolniczej działalności lutym 2020 r., dokonuje zgłoszenia do społecznych, którym art. 36 4b ustawy zmienianej art. 1 – terminie do końca lutego 2020
 
-2. Jeżeli termin określony 1 jest krótszy niż 7 dni, ubezpieczony składa zgłoszenie wyrejestrowania i ponownego zgłoszenia do ubezpieczeń społecznych albo zgłoszenie do ubezpieczeń społecznych, terminie 7 dni odpowiednio od zaistnienia zmiany danych albo od daty powstania obowiązku ubezpieczenia.
+2. Jeżeli termin określony 1 jest krótszy niż 7 dni, ubezpieczony składa zgłoszenie wyrejestrowania ponownego zgłoszenia do albo zgłoszenie do społecznych, terminie 7 dni odpowiednio od zaistnienia zmiany danych albo od daty powstania obowiązku ubezpieczenia.
 
-3. Objęcie dobrowolnie ubezpieczeniem chorobowym przypadkach, o których mowa 1, następuje od dnia wskazanego we wniosku o objęcie ubezpieczeniami emerytalnym, rentowymi i chorobowym, o ile ubezpieczony dokona zgłoszenia, o którym mowa odpowiednio 1 pkt 1 2, terminie określonym 1.
+3. Objęcie dobrowolnie ubezpieczeniem chorobowym przypadkach, których 1, następuje od wskazanego we wniosku objęcie ubezpieczeniami emerytalnym, rentowymi chorobowym, ile ubezpieczony dokona zgłoszenia, którym odpowiednio 1 pkt 1 lub 2, terminie określonym 1.
 
 **Art. 6.** Ustawa wchodzi życie dniem 1 lutego 2020
 

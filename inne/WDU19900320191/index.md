@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# Prezydent Rzeczypospolitej Polskiej: W. Jaruzelski 191
+# Przepisy wprowadzające ustawę o samorządzie terytorialnym i ustawę o pracownikach samorządowych
+
+*USTAWA z dnia 10 maja 1990 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,136 +26,336 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19900320191) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1990/191/text.pdf) |
 
-USTAWA 10 maja 1990 r.
-Przepisy terytorialnym pracownikach Przepisy ogólne
+#### Rozdział 1 Przepisy ogólne
 
-**Art. 1.** Ustawa terytorialnym oraz usta wa pracownikach dniem 27 maja 1990 r.
+**Art. 1.** Ustawa o samorządzie terytorialnym oraz ustawa o pracownikach samorządowych wchodzą życie z dniem 27 maja 1990 r.
 
-**Art. 1.** Z dniem ustawy samo terytorialnym moc:
+**Art. 2.**
 
-**Art. 1.** Jednostki terytorialnego stopnia podstawowego (miasta, gminy). dniu ustawy, a miasto Warszawa, miasto Kraków miasto obszar, granice dniu ustawy status miasta ten status rozumieniu 4 3 ustawy terytorialnym. przepisach jest radzie narodowej gminnej, miejskiej. dzielnicowej lub wspólnej dla miasta gminy terenowym organie administracji 4. Przepis 3 stosuje odpowiednio narodo wych miasta Warszawy, miasta Krakowa miasta oraz terenowych organów administracji wowej stopnia wojewódzkiego tych miastach takim zakresie, jakim dotyczy kompetencji zakresu tych gmin.
+1. Z dniem wejścia życie ustawy o samorządzie terytorialnym tracą moc:
+
+- **1)** art. 98 ustawy z dnia 25 stycznia 1958 r. o radach narodowych (Dz.U. z 1975 r. Nr 26, poz. 139, z 1977 r. Nr 11, poz. 44, z 1978 r. Nr 14, poz. 61 i Nr 31, poz. 130, z 1980 r. Nr 4, poz. 8, z 1982 r. Nr 45, poz. 289 i z 1983 r. Nr 41, poz. 185),
+- **2)** ustawa z dnia 30 marca 1965 r. o sądach społecznych (Dz.U. Nr 13, poz. 92, z 1974 r. Nr 24, poz. 142 oraz z 1983 r. Nr 41, poz. 185),
+- **3)** ustawa z dnia 20 lipca 1983 r. o systemie rad narodowych i samorządu terytorialnego (Dz.U. z 1988 r. Nr 26, poz. 183 i z 1989 r. Nr 34, poz. 178), chyba że przepisy poniższe stanowią inaczej.
+
+2. Z dniem wejścia życie ustawy o samorządzie terytorialnym tracą moc także inne przepisy dotyczące spraw niej unormowanych, chyba że przepisy poniższe stanowią inaczej.
+
+**Art. 3.**
+
+1. Jednostki podziału terytorialnego państwa stopnia podstawowego (miasta, gminy), istniejące dniu wejścia życie ustawy, a także miasto stołeczne Warszawa, miasto Kraków i miasto Łódź, zachowują dotychczasową nazwę, obszar, granice i siedzibę władz. Uchwały wojewódzkich rad narodowych sprawie zmiany granic miast i gmin zachowują ważność, nawet jeżeli ich wejście życie miałoby nastąpić po dniu wejścia życie ustawy.
+
+2. Miejscowości posiadające dniu wejścia życie ustawy status miasta zachowują ten status rozumieniu art. 4 ust. 3 ustawy o samorządzie terytorialnym. miejskiej, dzielnicowej lub wspólnej dla miasta i gminy bądź o terenowym organie administracji państwowej stopnia podstawowego albo o organach władzy lub administracji państwowej stopnia podstawowego - rozumie się przez to odpowiednie organy gminy, chyba że przepis szczególny stanowi inaczej.
+
+4. Przepis ust. 3 stosuje się odpowiednio do rad narodowych miasta stołecznego Warszawy, miasta Krakowa i miasta Łodzi oraz do terenowych organów administracji państwowej stopnia wojewódzkiego tych miastach takim zakresie, jakim dotyczy zadań i kompetencji należących do zakresu działania tych gmin.
 
 **Art. 4.**
 
-1. W jednostkach terytorialnego, których dniu ustawy 8 marca 1990 r. Ordynacja wyborcza gmin (Dz. U. Nr 16, poz. 96) wspólne dla miasta nim gminy, utworzone na podstawie przepisu 21 ustawy wymienionej wart. 3, wybiera wspólne ustawie teryto rialnym. W terminie 31 grudnia 1990 r. Rada Mini strów rozstrzygnie podziale organów wspólnych, których 1, lub gmin, odpowiednio przepisy 4 ustawy terytorialnym. W wypadku którym 2, przepis 114 oraz 114 ustawy Ordynacja wyborcza gmin stosuje odpowiednio.
+1. W jednostkach podziału terytorialnego, których dniu wejścia życie ustawy z dnia 8 marca 1990 r. - Ordynacja wyborcza do rad gmin (Dz.U. Nr 16, poz. 96) działały wspólne organy dla miasta i sąsiadującej z nim gminy, utworzone na podstawie przepisu art. 21 ust. 1 ustawy wymienionej art. 2 ust. 1 pkt 3, wybiera się wspólne organy określone ustawie o samorządzie terytorialnym.
 
-4. W wypadku zmian podziale terytorialnym, prze prowadzanych terminie 31 grudnia 1991 r., na tworzeniu jednej gminy dwóch lub jednostek, radni dotychczasowej rady gminy nymi nowych jednostkach od miejsca swojego zamieszkania.
+2. W terminie do dnia 30 września 1991 r. Rada Ministrów rozstrzygnie o podziale organów wspólnych, o których mowa ust. 1, lub o połączeniu gmin, stosując odpowiednio przepisy art. 4 ust. 1 i 2 ustawy o samorządzie terytorialnym.
 
-5. W wypadku, którym 4, przeprowadzone wybory Przepis 114 oraz 114 ustawy Ordynacja wyborcza gmin stosuje odpowiednio. Nabycie mienia komunalnego
+3. W wypadku podziału, o którym mowa ust. 2, przepis art. 114 ust. 1 pkt 2 oraz art. 114 ust. 2 ustawy - Ordynacja wyborcza do rad gmin stosuje się odpowiednio.
+
+4. W wypadku zmian podziale terytorialnym, przeprowadzanych terminie do dnia 31 grudnia 1991 r., polegających na tworzeniu z jednej gminy dwóch lub więcej jednostek, radni dotychczasowej rady gminy stają się radnymi rad nowych jednostkach zależności od miejsca swojego zamieszkania.
+
+5. W wypadku, o którym mowa ust. 4, mogą być przeprowadzone wybory uzupełniające. Przepis art. 114 ust. 1 pkt 2 oraz art. 114 ust. 2 ustawy - Ordynacja wyborcza do rad gmin stosuje się odpowiednio.
+
+6. W wypadku o którym mowa ust. 4, do czasu wyboru nowych zarządów gmin stosuje się następujące zasady:
+
+- **1)** wypadku wyłączenia z istniejącej gminy nowej gminy funkcje zarządu obu gminach sprawuje zarząd dotychczasowy,
+- **2)** wypadku utworzenia z jednej gminy ulegającej zniesieniu dwóch lub więcej jednostek podziału terytorialnego, funkcje zarządu dla wszystkich nowo tworzonych gmin sprawuje zarząd dotychczas istniejącej gminy, więcej gmin części ich terytorium, funkcje zarządu nowo utworzonej gminy sprawuje zarząd jednej z tych gmin, wskazany przez sejmik samorządowy.
+
+7. W wypadku podziału organów wspólnych dla miast i sąsiadujących z nimi gmin, funkcję zarządu dla miasta i gminy sprawuje zarząd dotychczasowy.
+
+#### Rozdział 2 Nabycie mienia komunalnego
 
 **Art. 5.**
 
-1. dalsze przepisy inaczej. mienie ogólnonarodowe do: tych województwach miejskich,
+1. Jeżeli dalsze przepisy nie stanowią inaczej, mienie ogólnonarodowe (państwowe) należące do:
 
-- **2)** dla których okre organu
-- **3)** innych jednostek organizacyjnych podpo organom staje dniu niniejszej ustawy mocy prawa mieniem tych miast, jest ich granicach administracyjnych, chyba przepis szczegól ny stanowi inaczej. dalsze przepisy inaczej, mienie ogólnonarodowe pub licznej, dniu ustawy do:
-- **1)** narodowych terenowych organów administracji stopnia wojewódzkiego,
-- **2)** dla których okre organu
-- **3)** innych jednostek organizacyjnych dkowanych organom przekazuje jako mienie komunalne gminom kom gmin, jest ono wykonywania ich
+- **1)** rad narodowych i terenowych organów administracji państwowej stopnia podstawowego,
+- **2)** przedsiębiorstw państwowych, dla których organy określone pkt 1 pełnią funkcję organu założycielskiego,
+- **3)** zakładów i innych jednostek organizacyjnych podporządkowanych organom określonym pkt 1 – staje się dniu wejścia życie niniejszej ustawy z mocy prawa mieniem właściwych gmin.
 
-4. Gminie, na jej wniosek, przekaza ne mienie ogólnonarodowe inne wymie nione 1-3, jest ono jej
+2. Jeżeli dalsze przepisy nie stanowią inaczej, mienie ogólnonarodowe (państwowe) służące użyteczności publicznej, należące do:
+
+- **1)** rad narodowych miasta stołecznego Warszawy, miasta Krakowa i miasta Łodzi oraz terenowych organów administracji państwowej stopnia wojewódzkiego tych województwach miejskich,
+- **2)** przedsiębiorstw państwowych, dla których organy określone pkt 1 pełnią funkcję organu założycielskiego,
+- **3)** zakładów i innych jednostek organizacyjnych podporządkowanych organom określonym pkt 1 – staje się dniu wejścia życie niniejszej ustawy z mocy prawa mieniem tych miast, jeżeli jest położone ich granicach administracyjnych, chyba że przepis szczególny stanowi inaczej. (państwowe) służące użyteczności publicznej, należące dniu wejścia życie ustawy do:
+- **1)** rad narodowych i terenowych organów administracji państwowej stopnia wojewódzkiego,
+- **2)** przedsiębiorstw państwowych, dla których organy określone pkt 1 pełnią funkcję organu założycielskiego,
+- **3)** zakładów i innych jednostek organizacyjnych podporządkowanych organom określonym pkt 1 – przekazuje się jako mienie komunalne gminom i związkom gmin, jeżeli jest ono niezbędne do wykonywania ich zadań.
+
+4. Gminie, na jej wniosek, może być także przekazane mienie ogólnonarodowe (państwowe) inne niż wymienione ust. 1-3, jeżeli jest ono związane z realizacją jej zadań.
 
 **Art. 6.**
 
-1. Niepodzielne mienia komunalne go, którym wart. 5 1-3, realizacji jednej gminy utworzenia odpowiedniego komunalnego lub zawarcia porozu mienia dotychczasowym terminie jednego roku od ustawy terytorialnym gminy mienia, którym 1, wojewoda wyznaczenie Do sprawowania mieniem wspólnym stosuje odpowiednio przepisy Kode ksu cywilnego.
+1. Niepodzielne składniki mienia komunalnego, o którym mowa art. 5 ust. 1-3, służące realizacji zadań więcej niż jednej gminy pozostają - do czasu utworzenia odpowiedniego związku komunalnego lub zawarcia porozumienia dotychczasowym zarządzie.
+
+2. Jeżeli terminie jednego roku od dnia wejścia życie ustawy o samorządzie terytorialnym gminy nie przejmą mienia, o którym mowa ust. 1, wojewoda wystąpi do sądu o wyznaczenie zarządcy. Do sprawowania zarządu mieniem wspólnym stosuje się odpowiednio przepisy Kodeksu cywilnego.
 
 **Art. 7.**
 
-1. Mienie gminne rozumieniu przepisu, którym wart. 1, staje dniem ustawy terytorialnym mocy prawa mieniem gminy, na której obszarze jest Przepis narusza praw osób trzecich wymienionego tym przepisie mienia, tym praw wspólnot gruntowych utworzonym na obszarze dotychczaso wych które mieniem gminnym, stosuje odpowiednio przepisy stwowych. Rada Ministrów, drodze szczególny tryb wych wymienionych wart. 5 3, których jest konieczny przekazaniem mienia komunalnego gminom lub ich
+1. Mienie gminne rozumieniu przepisu, o którym mowa art. 2 ust. 1 pkt 1, staje się z dniem wejścia życie ustawy o samorządzie terytorialnym z mocy prawa mieniem gminy, na której obszarze jest położone.
 
-**Art. 9.** Prawa podmiotom wymienio nym wart. 5 ich na odpowiada im jednostki komunalne: dotyczy to praw wieczys tego.
+2. Przepis ust. 1 nie narusza praw osób trzecich do wymienionego tym przepisie mienia, tym także praw wspólnot gruntowych i leśnych.
 
-**Art. 10.** Uwłaszczenie gmin, którym wart. 5 2, narusza prawa korzystania na dotych czasowych zasadach ze mienia przed zagraniczne Polsce.
+3. Sołectwom, utworzonym na obszarze dotychczasowych sołectw, które dysponowały mieniem gminnym, właściwe organy gminy przekażą składniki mienia komunalnego, o których mowa ust.1. Dotyczy to także składników mienia położonych poza obszarem gminy, której znajduje się sołectwo. założycielskiego pełnią terenowe organy administracji państwowej określone art. 5 ust. 1-3, stając się przedsiębiorstwami komunalnymi, zachowują osobowość prawną.
+
+2. (skreślony).
+
+3. Rada Ministrów, drodze rozporządzenia, może określić szczególny tryb podziału przedsiębiorstw państwowych wymienionych art. 5 ust. 3, których podział jest konieczny związku z przekazaniem mienia komunalnego gminom lub ich związkom.
+
+**Art. 9.** Prawa przysługujące podmiotom wymienionym art. 5 i ich obowiązki - przechodzą na odpowiadające im jednostki komunalne: dotyczy to szczególności praw i obowiązków wynikających z użytkowania wieczystego.
+
+**Art. 10.** Uwłaszczenie gmin, o którym mowa art. 5 ust. 1 i 2, nie narusza prawa do korzystania na dotychczasowych zasadach ze składników mienia przez przedsiębiorstwa zagraniczne działające Polsce.
 
 **Art. 11.**
 
-1. mienia ogólnonarodowego stwowego), których wart. 5 1-3, mieniem komunalnym,
+1. Składniki mienia ogólnonarodowego (państwowego), o których mowa art. 5 ust. 1-3, nie stają się mieniem komunalnym, jeżeli:
 
-- **1)** wykonywaniu publicznych organów administracji oraz organów
-- **2)** lub jednostek organizacyjnych zadania charakterze ogólnokrajowym lub ponadwojewódzkim, niem przepisu 14,
-- **3)** Funduszu Ziemi, niem przepisu 15. Rada Ministrów, drodze wykaz jednostek, których
+- **1)** służą wykonywaniu zadań publicznych należących do właściwości organów administracji rządowej, sądów oraz organów władzy państwowej,
+- **2)** należą do przedsiębiorstw państwowych lub jednostek organizacyjnych wykonujących zadania o charakterze ogólnokrajowym lub ponadwojewódzkim, z zastrzeżeniem przepisu art. 14,
+- **3)** należą do Państwowego Funduszu Ziemi, z zastrzeżeniem przepisu art 15.
 
-**Art. 12.** Nie podlega mienie ogólnona rodowe niego:
+2. Rada Ministrów, drodze rozporządzenia, określi wykaz przedsiębiorstw i jednostek, o których mowa ust. 1 pkt 2.
 
-**Art. 13.**
+**Art. 12.** Nie podlega uwłaszczeniu mienie ogólnonarodowe (państwowe), jeżeli korzystają z niego:
 
-1. nieruchomy, pr:rekazany na gmin trybie niniejszej ustawy, podlega regulacyjnemu, którym wart. 61--63 ustawy 17 maja 1989 r. stosunku Katolic
+**Art. 14.** Grunty należące do przedsiębiorstw państwowych nie podlegających komunalizacji na podstawie niniejszej ustawy i nie wykorzystywane zgodnie ze społeczno-gospodarczym przeznaczeniem tych gruntów przekazuje się na wniosek gmin, złożony do dnia 31 grudnia 1992 r., na własność tych gmin, na których obszarze są położone.
+
+**Art. 15.** (skreślony).
 
 **Art. 16.**
 
-1. Nabycie mienia na podstawie niniejszej ustawy na podstawie ustawy szczególnej, wydanej terminie 31 grudnia 1990 r., zmiana kompetencji zakresie administracji publicznej, która przekazania na rzecz Skarbu mienia komunalnego nabytego trybie niniej szej ustawy przekazanie takie za zwrotem Skarb poniesionych stosownie 226 Kodeksu cywilnego.
+1. Nabycie mienia na podstawie niniejszej ustawy następuje nieodpłatnie.
+
+2. Jeżeli na podstawie ustawy szczególnej, wydanej terminie do dnia 31 grudnia 1990 r., nastąpi zmiana zadań i kompetencji zakresie administracji publicznej, która wymagać będzie przekazania na rzecz Skarbu Państwa składników mienia komunalnego nabytego trybie niniejszej ustawy - przekazanie takie nastąpi nieodpłatnie, za zwrotem przez Skarb Państwa nakładów poniesionych przez gminę, stosownie do art. 226 § 1 Kodeksu cywilnego.
 
 **Art. 17.**
 
-1. Gminy spisy inwentaryzacyjne mienia, którym wart. 5 2, 8, 14 15. Spisy, których 1, komisje inwentaryzacyjne trzech od daty komisji gminy. mienia innego na na podstawie których ujawnia prawa.
+1. Gminy sporządzają spisy inwentaryzacyjne mienia, o którym mowa art. 5 ust. 1 i 2.
 
-4. Spisy inwentaryzacyjne mienia oraz odpisy protoko publicznego siedzibie gminy okres 30 dni, tym sposób zwyczajowo na danym terenie.
+2. Spisy, o których mowa ust. 1, sporządzane są przez komisje inwentaryzacyjne ciągu trzech miesięcy od daty powołania komisji przez radę gminy.
 
-5. W terminie, którym 4, osoba, której interes prawny dotyczy zawartych spisie inwen taryzacyjnym mienia, komisji inwentaryzacyjnej.
+3. Przejęcie mienia innego niż określone ust. 1 następuje na podstawie protokołów, których ujawnia się również zobowiązania i prawa.
 
-6. Komisja inwentaryzacyjna rozpatruje razie ich odpowie dnio zmienia ustalenia zawarte spisie.
+4. Spisy inwentaryzacyjne mienia oraz odpisy protokołów wykłada się do publicznego wglądu siedzibie zarządu gminy przez okres 30 dni, informując o tym sposób zwyczajowo przyjęty na danym terenie.
 
-7. Rada Ministrów sposób dokonywania inwen taryzacji, której 1.
+5. W terminie, o którym mowa ust. 4, osoba, której interes prawny dotyczy ustaleń zawartych spisie inwentaryzacyjnym mienia, może zgłosić zastrzeżenia do komisji inwentaryzacyjnej. razie ich uwzględnienia odpowiednio zmienia ustalenia zawarte spisie.
+
+7. Rada Ministrów określi sposób dokonywania inwentaryzacji, o której mowa ust. 1.
+
+**Art. 17a.**
+
+1. Gminy są zobowiązane do przekazywania wojewodom spisów inwentaryzacyjnych nieruchomości, które stały się własnością gmin z mocy prawa na podstawie art. 5 ust. 1 i 2.
+
+2. Termin przekazywania, o którym mowa ust. 1, upływa z dniem 31 grudnia 2005 r.
+
+3. (uchylony)
 
 **Art. 18.**
 
-1. Wojewoda wydaje decyzje sprawie stwierdzenia nabycia mienia mocy prawa, sprawie jego przekazania zakresie unormowanym Tworzy jako organ od decyzji, których 1. Prezes Rady Ministrów Krajowej Komisji oraz tryb jej przedmiocie wpisu, którym 1, wolne jest od
+1. Wojewoda wydaje decyzje sprawie stwierdzenia nabycia mienia z mocy prawa, sprawie jego przekazania - zakresie unormowanym ustawą.
+
+2. Tworzy się Krajową Komisję Uwłaszczeniową, zwaną dalej „Komisją”, jako organ odwoławczy od decyzji, o których mowa ust. 1.
+
+2a. Siedzibą Komisji jest miasto stołeczne Warszawa.
+
+3. (uchylony)
+
+4. Do postępowania sprawach, o których mowa ust. 1 i 2, stosuje się odpowiednio przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2016 r. poz. 23, 868, 966, 1579 i 2138).
+
+**Art. 18a.**
+
+1. W skład Komisji wchodzi 6 członków, tym przewodniczący.
+
+2. Członków Komisji powołuje i odwołuje minister właściwy do spraw administracji publicznej.
+
+3. Minister właściwy do spraw administracji publicznej spośród członków Komisji wyznacza jej przewodniczącego.
+
+4. W skład Komisji może zostać powołana osoba, która:
+
+- **1)** ukończyła wyższe studia prawnicze Rzeczypospolitej Polskiej lub zagraniczne studia prawnicze uznane Rzeczypospolitej Polskiej i uzyskała tytuł magistra lub równorzędny,
+- **2)** posiada wiedzę z zakresu administracji,
+- **3)** posiada co najmniej 5-letni okres zatrudnienia jednostkach sektora finansów publicznych,
+- **4)** daje rękojmię prawidłowej realizacji zadań Komisji.
+
+2. Przewodniczący Komisji, odrębnie do każdej sprawy, wyznacza skład orzekający, zwany dalej „składem”, oraz jego przewodniczącego.
+
+3. Decyzje składu zapadają większością głosów. Członek składu może złożyć zdanie odrębne, które wraz z uzasadnieniem dołącza się do akt sprawy.
+
+4. Decyzje podpisują przewodniczący i członkowie składu.
+
+5. Uzasadnienie decyzji sporządza przewodniczący składu.
+
+6. W przypadku niemożności wydania decyzji przez Komisję z przyczyn, o których mowa art. 24 § 1 związku z art. 27 § 1 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, danej sprawie decyzję wydaje minister właściwy do spraw administracji publicznej.
+
+**Art. 18c.**
+
+1. Członkowie Komisji otrzymują zryczałtowane wynagrodzenie miesięczne.
+
+2. Minister właściwy do spraw administracji publicznej określi, drodze rozporządzenia, wysokość wynagrodzenia przewodniczącego oraz pozostałych członków Komisji, mając na względzie zakres obowiązków oraz złożoność realizowanych przez nich zadań.
+
+3. Obsługę organizacyjną Komisji zapewnia urząd obsługujący ministra właściwego do spraw administracji publicznej.
+
+4. Za udział pracach Komisji i jej składów członkom Komisji przysługują diety i inne należności określone przepisach sprawie należności przysługujących pracownikowi zatrudnionemu państwowej lub samorządowej jednostce sfery budżetowej z tytułu podróży służbowej na obszarze kraju.
+
+5. Koszty wynagrodzeń członków Komisji, koszty obsługi organizacyjnej Komisji oraz zwrot kosztów i diet, o których mowa ust. 4, są pokrywane z budżetu państwa, z części, której dysponentem jest minister właściwy do spraw administracji publicznej.
+
+**Art. 18d.**
+
+1. Członkowie Komisji są obowiązani do złożenia oświadczenia o swoim stanie majątkowym na zasadach określonych ustawie z dnia 21 sierpnia funkcje publiczne (Dz. U. z 2006 r. poz. 1584, z późn. zm. ).
+
+2. Członkowie Komisji składają oświadczenie o stanie majątkowym ministrowi właściwemu do spraw administracji publicznej, który dokonuje analizy zawartych nim danych.
+
+**Art. 19.** Roszczenia cywilnoprawne związane z nabyciem mienia komunalnego mogą być dochodzone przed sądem powszechnym.
+
+**Art. 20.**
+
+1. Prawomocna decyzja sprawie stwierdzenia nabycia mienia komunalnego z mocy prawa lub przekazania stanowi podstawę do wpisu księdze wieczystej.
+
+2. Prawomocną decyzję, o której mowa ust. 1, przesyła się terminie 30 dni od jej uprawomocnienia do właściwego biura notarialnego.
+
+3. Postępowanie przedmiocie wpisu, o którym mowa ust. 1, wolne jest od opłat sądowych.
 
 **Art. 21.**
 
-1. przed miotem trybie niniejszej ustawy wniesiony uprzednio handlowej lub gmina lub inna komunalna osoba prawna terminie trzech od nabycia tego lub ze dysponowanie tym ma zaspokajaniu zbiorowych potrzeb lokalnej albo dalsze lub komunalnej osoby prawnej jest sprzeczne przepisami ustawy terytorialnym. Przepisu stosuje podmiotów zagranicznych. 3 Przepisy
+1. Jeżeli składnik majątkowy będący przedmiotem uwłaszczenia trybie niniejszej ustawy wniesiony był uprzednio do kapitału zakładowego spółki handlowej lub spółdzielni, gmina lub inna komunalna osoba prawna może terminie trzech miesięcy od dnia nabycia własności tego składnika majątkowego żądać rozwiązania spółki przez sąd lub wycofać udziały ze spółdzielni, jeżeli dysponowanie tym składnikiem majątkowym służyć ma zaspokajaniu zbiorowych potrzeb społeczności lokalnej albo jeżeli dalsze działanie spółki lub członkostwo komunalnej osoby prawnej spółdzielni jest sprzeczne z przepisami ustawy o samorządzie terytorialnym.
 
-**Art. 22.** Osoby funkcje terenowych organów administracji ogólnej stopnia podstawowego wyboru wójta, burmistrza lub prezydenta miasta odpowiednio ich funkcje za ten okres wynagrodzenie gminy na dotychczaso wych zasadach.
+2. Przepisu ust. 1 nie stosuje się do spółek z udziałem podmiotów zagranicznych.
+
+#### Rozdział 3 Przepisy przejściowe
+
+**Art. 22.**
+
+1. Osoby pełniące funkcje terenowych organów administracji państwowej o właściwości ogólnej stopnia podstawowego pełnią do czasu wyboru okres wynagrodzenie z budżetu gminy na dotychczasowych zasadach.
+
+2. Poza osobami, o których mowa ust. 1, do czasu wyboru wójta, burmistrza lub prezydenta miasta ich funkcję mogą również pełnić zakresie swojej dotychczasowej właściwości oraz posiadanych dotychczas uprawnień:
+
+- **1)** osoby pełniące funkcje terenowych organów administracji państwowej o właściwości szczególnej oraz kierowników urzędów stanu cywilnego i ich zastępców,
+- **2)** osoby upoważnione do załatwiania określonych spraw na podstawie art. 135 ust. 3 ustawy wymienionej art. 2 ust. 1 pkt 3 albo art. 268a Kodeksu postępowania administracyjnego.
 
 **Art. 23.**
 
-1. Osobom funkcje cego rady narodowej na zasadach wart. 109 ustawy, której wart. 3, razie powrotu pracy powodu jego lub likwidacji uprawnienia przewi dziane wart. 8 ustawy 28 grudnia 1989 r. szczegól nych zasadach pracownikami stosunków pracy przyczyn pracy oraz zmianie niektórych ustaw (Dz. U. 1990 r. Nr4, poz. 19 Nr 10, poz.
+1. Osobom pełniącym funkcje przewodniczącego rady narodowej na zasadach określonych art. 109 ustawy, o której mowa art. 2 ust. 1 pkt 3, razie niemożności powrotu do zakładu pracy z powodu jego upadłości lub likwidacji przysługują uprawnienia przewidziane art. 8 ustawy z dnia 28 grudnia 1989 r. o szczególnych zasadach rozwiązywania z pracownikami stosunków pracy z przyczyn dotyczących zakładu pracy oraz o zmianie niektórych ustaw (Dz.U. Z 1990 r. Nr 4, poz. 19 i Nr 10, poz. 59), jeżeli dotychczas nie skorzystały z tych uprawnień.
 
-- **59)** . dotychczas tych rady narodowej stopnia podsta wowego gminy, a rady narodowej stopnia wojewódz kiego wojewódzkiego.
+2. Przewodniczącemu rady narodowej stopnia podstawowego odprawę pieniężną wypłaca się z budżetu gminy, a przewodniczącemu rady narodowej stopnia wojewódzkiego - z budżetu wojewódzkiego.
 
-**Art. 24¹.** Do uchwalenia gminy regulaminu organizacyjnego gminy, na podstawie statutu dotychczasowego terenowego organu administracji Przepis stosuje odpowiednio dotych czasowych miasta Warszawy, miasta
+**Art. 24.**
+
+1. Do czasu uchwalenia przez radę gminy regulaminu organizacyjnego urzędu gminy, urząd działa na podstawie statutu dotychczasowego urzędu terenowego organu administracji państwowej.
+
+2. Przepis ust. 1 stosuje się odpowiednio do dotychczasowych urzędów miasta stołecznego Warszawy, miasta Krakowa i miasta Łodzi, które z dniem wejścia życie ustawy o samorządzie terytorialnym stają się odpowiednio urzędami miasta stołecznego Warszawy, miasta Krakowa i miasta Łodzi i działają granicach terytorialnych tych miast.
+
+3. Do czasu zorganizowania urzędów wojewódzkich miastach, o których mowa ust. 2, funkcje tych urzędów pełnią urzędy tych miast. administracyjnych, wszczęte i nie zakończone decyzją ostateczną przed dniem wejścia życie ustawy o samorządzie terytorialnym, są załatwiane przez właściwe organy lub upoważnione podmioty, z zachowaniem dotychczasowego toku instancji.
 
 **Art. 26.**
 
-1. Organy gmin pro wadzenie spraw powierzonych terenowym organom ad ministracji stopnia podstawowego na zasadach wart. 135 4 ustawy wymienionej wart. 3, które gminy lub zleconych zakresu administracji Kierownicy jednostek organizacyjnych, którym po wierzono prowadzenie spraw na zasadach wart. 135 6 ustawy wymienionej wart. 3, je nadal na dotychczasowych zasadach. Organy kierownicy jednostek organizacyjnych, pro sprawy, których 2, je 31 grudnia 1990 r.
+1. Organy właściwych gmin przejmują prowadzenie spraw powierzonych terenowym organom administracji państwowej stopnia podstawowego na zasadach określonych art. 135 ust. 4 ustawy wymienionej art. 2 ust. 1 pkt 3, które należeć będą do zadań własnych gminy lub zadań zleconych z zakresu administracji rządowej.
 
-4. na podstawie narodowych stopnia podstawowego pomocy gminach co najmniej 31 grudnia 1991
+2. Kierownicy jednostek organizacyjnych, którym powierzono prowadzenie spraw na zasadach określonych art. 135 ust. 6 ustawy wymienionej art. 2 ust. 1 pkt 3, mogą je nadal prowadzić na dotychczasowych zasadach.
 
-**Art. 27.** Znosi kolegialne opiniodawczo -doradcze przy radach narodowych terenowych organach administracji
+3. Organy i kierownicy jednostek organizacyjnych, prowadzący sprawy, o których mowa ust. 1 i 2, mogą je prowadzić do dnia 31 grudnia 1990 r.
+
+4. Powołane na podstawie uchwał rad narodowych stopnia podstawowego ośrodki pomocy społecznej działają gminach co najmniej do dnia 31 grudnia 1991 r.
+
+**Art. 27.** Znosi się kolegialne organy opiniodawczo-doradcze działające przy radach narodowych i terenowych organach administracji państwowej.
 
 **Art. 28.**
 
-1. Utrzymuje wsi, tym wyboru organów 31 grudnia 1990 r. W okresie, którym 1, zakresu wsi mie niem dyspozycji dotychczasowych samo wsi prowadzenie gospodarczej oraz czynów zakresie dotych czasowym. W okresie, którym 1, powierzone im na podstawie przepisów funkcje administracyjne.
+1. Utrzymuje się dotychczasową organizację samorządu mieszkańców wsi, tym sołtysów, do czasu wyboru organów sołectw, nie dłużej niż do dnia 31 grudnia 1990 r.
 
-**Art. 29.** Utrzymuje miast osiedlach, obwodach domach odpowiednich rady gminy, 31 grudnia 1990 r. Przepis 28 stosuje odpowiednio.
+2. W okresie, o którym mowa ust. 1, do zakresu działania samorządu mieszkańców wsi należy zarząd mieniem pozostającym dyspozycji dotychczasowych samorządów wsi i prowadzenie własnej działalności gospodarczej i społecznej oraz czynów społecznych zakresie dotychczasowym.
 
-**Art. 30.** W administracyjnym wym oraz innych prowadzonych na podstawie ustaw, sprawach na wniosek albo prowadzonych jego udzia dotych rady narodowe tych miast zakresie 26 ustawy, której wart. Wojewodowie wojewódzkich dziennikach wykazy, których 2, terminie dwa od odpowiedniej gminy. 4. Akty prawa miejscowego zamieszczone wyka zach, których 1, moc dniem wykazów. 5. Do uregulowania na podstawie przepisów mocy przepisy zasad trybu wydawania oraz rozpowszechniania wojewódzkich dzien ników
+3. W okresie, o którym mowa ust. 1, sołtysi pełnią powierzone im na podstawie odrębnych przepisów funkcje administracyjne.
+
+**Art. 29.** Utrzymuje się samorząd mieszkańców miast osiedlach, obwodach i domach do czasu odpowiednich ustaleń rady gminy, nie dłużej niż do dnia 31 grudnia 1990 r. Przepis art. 28 ust. 2 stosuje się odpowiednio. postępowaniach, prowadzonych na podstawie ustaw, sprawach wszczętych na wniosek samorządu mieszkańców albo prowadzonych z jego udziałem organy samorządu mieszkańców zachowują dotychczasowe uprawnienia do dnia 31 grudnia 1990 r. Po tym terminie uprawnienia te przejmuje rada gminy, chyba że powołano nowe organy sołectw lub dzielnic (osiedli) na podstawie ustawy o samorządzie terytorialnym.
+
+**Art. 31.**
+
+1. Rady gmin uchwalą i ogłoszą terminie do dnia 31 grudnia 1990 r. wykazy aktów prawa miejscowego, wydanych przez rady narodowe i terenowe organy administracji państwowej o właściwości ogólnej stopnia podstawowego przed dniem wejścia życie niniejszej ustawy i nadal obowiązujących na obszarze tych gmin.
+
+2. Wykazy, o których mowa ust. 1, sporządzone przez rady miejskie miasta stołecznego Warszawy, miasta Krakowa i miasta Łodzi obejmują akty prawa miejscowego, wydane przez rady narodowe tych miast zakresie art. 26 ustawy, o której mowa art. 2 ust. 1 pkt 3.
+
+3. Wojewodowie ogłoszą wojewódzkich dziennikach urzędowych wykazy, o których mowa ust. 1 i 2, terminie nie dłuższym niż dwa miesiące od powzięcia odpowiedniej uchwały przez radę gminy.
+
+4. Akty prawa miejscowego nie zamieszczone wykazach, o których mowa ust. 1, tracą moc z dniem ogłoszenia wykazów.
+
+5. Do czasu uregulowania na podstawie odrębnych przepisów pozostają mocy przepisy dotyczące zasad i trybu wydawania oraz rozpowszechniania wojewódzkich dzienników urzędowych.
 
 **Art. 32.**
 
-1. W Warszawie, Krakowie utrzymuje dotychczasowy na dzielnice, chyba rada miejska postanowi inaczej, przepisu 5 4 ustawy samo terytorialnym. Przepis stosuje odpowiednio dzielnic miastach Poznaniu Do organizacji zakresu dzielnic oraz wyboru ich miastach, których 2, dzielnicowe jako delegatury miasta.
+1. W mieście stołecznym Warszawie, mieście Krakowie i mieście Łodzi utrzymuje się dotychczasowy podział na dzielnice, chyba że rada miejska postanowi inaczej, z zastrzeżeniem przepisu art. 5 ust. 4 ustawy o samorządzie terytorialnym.
 
-**Art. 33.**
+2. Przepis ust. 1 stosuje się odpowiednio do dzielnic miastach Poznaniu i Wrocławiu.
 
-1. Do 31 grudnia '1990 r. stosuje dotychczasowe przepisy gospodarce finansowej naro dowych, przepis szczególny stanowi inaczej, uchwalone na 1990 r. rady narodowe 31 grudnia 1990 r. W razie nieuch walenia na 1990 r., ten uchwala rada gminy zgodnie 1. Fundusze celowe utworzone rady narodowe stopnia podstawowego na podstawie 48 ustawy, której wart. 3, utrzymuje 31 grudnia 1990 r. jako fundusze celowe gmin, chyba rada gminy postanowi inaczej.
+3. Do czasu określenia organizacji i zakresu działania dzielnic oraz wyboru ich rad miastach, o których mowa ust. 1 i 2, urzędy dzielnicowe działają jako delegatury urzędu miasta. gospodarce finansowej rad narodowych, jeżeli przepis szczególny nie stanowi inaczej.
 
-4. Terenowe fundusze celowe utworzone na podstawie odrębnych przepisów utrzymuje się 'do ~nia 31 grudnia 1990 r.
+2. Budżety uchwalone na 1990 r. przez rady narodowe obowiązują do dnia 31 grudnia 1990 r. W razie nieuchwalenia przez radę narodową budżetu na 1990 r., budżet ten uchwala rada gminy zgodnie z zasadą określona ust. 1.
 
-**Art. 34.** 1, Przekazanie gminom realizowanych 4. Przepis stosuje odpowiednio przejmowanych od organów znoszonych oraz powierzonych drodze lub porozumienia, których wart. 26 1.
+3. Fundusze celowe utworzone przez rady narodowe stopnia podstawowego na podstawie art. 48 ust. 2 ustawy, o której mowa art. 2 ust. 1 pkt 3, utrzymuje się do dnia 31 grudnia 1990 r. jako fundusze celowe gmin, chyba że rada gminy postanowi inaczej.
+
+4. Terenowe fundusze celowe utworzone na podstawie odrębnych przepisów utrzymuje się do dnia 31 grudnia 1990 r.
+
+**Art. 34.**
+
+1. Przekazanie gminom zadań realizowanych dotychczas przez wojewódzkie rady narodowe i ich organy następuje łącznie ze środkami finansowymi, przewidzianymi na ich realizację budżetach wojewódzkich na 1990 r. oraz podziale funduszy celowych.
+
+2. Przekazanie gminom składników mienia komunalnego następuje łącznie z przekazaniem środków przewidzianych na ich utrzymanie (eksploatację) budżetach wojewódzkich na 1990 r. oraz podziale funduszy celowych.
+
+3. Przekazanie organom terenowej administracji rządowej zadań realizowanych dotychczas przez rady narodowe stopnia podstawowego i ich organy następuje łącznie ze środkami finansowymi przewidywanymi na realizację tych zadań budżetach rad narodowych stopnia podstawowego na 1990 r. oraz podziale funduszy celowych.
+
+4. Przepis ust. 1 stosuje się odpowiednio do zadań przejmowanych od organów znoszonych oraz do zadań powierzonych drodze upoważnienia lub porozumienia, o których mowa art. 26 ust. 1.
 
 **Art. 35.**
 
-1. Rada gminy kontroluje wykonywanie bu planów terenowych funduszy celowych oraz zmian toku ich wykonywania, poprzez lub zmniejszanie kredytów Rezerwy inne rozdzielone wojewódzkich wojewodowie terminie 30 czerwca 1990 r.
+1. Rada gminy kontroluje wykonywanie budżetu i planów terenowych funduszy celowych oraz może dokonywać zmian toku ich wykonywania, szczególności poprzez zwiększanie lub zmniejszanie kredytów budżetowych.
+
+2. Rezerwy i inne nie rozdzielone środki z budżetów wojewódzkich wojewodowie rozdzielą terminie do dnia 30 czerwca 1990 r.
 
 **Art. 36.**
 
-1. narodo wych terenowych organów administracji stop nia podstawowego dniem ustawy terytorialnym ciami gmin. narodowych mias ta Warszawy, miasta Krakowa miasta oraz terenowych organów administracji stopnia wo jewódzkiego tych miastach dniem ustawy terytorialnym gmin, kom petencji zakresu tych gmin. Skarb przejmuje wierzytel zadaniami wart. 34 3 oraz miasta Warszawy, miasta Krakowa miasta oraz inne rady delegatów sejmiku a ustala termin wyboru wójta, burmistrza lub prezydenta miasta oraz termin komisji inwentaryzacyjnej, jednak okresie dwóch tygodni. W czasie pierwszej sesji rady osoba, której wart. 22, informuje stanie gminy, zakresie mienia, które podlega przekazaniu gminie, oraz innych dla gminy sprawach.
+1. Zobowiązania i wierzytelności rad narodowych i terenowych organów administracji państwowej stopnia podstawowego stają się, z dniem wejścia właściwych gmin, z zastrzeżeniem ust. 3 pkt 2.
+
+2. Zobowiązania i wierzytelności rad narodowych miasta stołecznego Warszawy, miasta Krakowa i miasta Łodzi oraz terenowych organów administracji państwowej stopnia wojewódzkiego tych miastach stają się, z dniem wejścia życie ustawy o samorządzie terytorialnym, zobowiązaniami i wierzytelnościami właściwych gmin, jeżeli dotyczą kompetencji należących do zakresu działania tych gmin, z zastrzeżeniem ust. 3 pkt 2.
+
+3. Skarb Państwa przejmuje:
+
+- **1)** zobowiązania i wierzytelności dotyczące zadań określonych art. 34 ust. 3,
+- **2)** zobowiązania i wierzytelności rad narodowych i terenowych organów administracji państwowej stopnia podstawowego i stopnia wojewódzkiego, dotyczące infrastruktury technicznej, socjalnej i usługowej oraz obiektów oświaty, zdrowia i kultury, zwanych dalej inwestycjami infrastrukturalnymi, zakresie rzeczowym określonym umowach zawartych przed dniem 27 maja 1990 r. przez te organy ze spółdzielniami mieszkaniowymi, związku z kompleksową realizacją budownictwa mieszkaniowego, z zastrzeżeniem ust. 48,
+- **3)** zobowiązania i wierzytelności rad narodowych i terenowych organów administracji państwowej stopnia podstawowego i stopnia wojewódzkiego wynikające z prawomocnych orzeczeń sądowych i decyzji administracyjnych wydanych przed dniem 27 maja 1990 r. oraz zobowiązania i wierzytelności powstałe związku z wykonaniem tych orzeczeń sądowych i decyzji administracyjnych,
+- **4)** zobowiązania wynikłe z zawinionego działania lub zaniechania działania rad narodowych i terenowych organów administracji państwowej stopnia podstawowego i wojewódzkiego, mające miejsce przed dniem 27 maja 1990 r., stwierdzone prawomocnymi orzeczeniami sądowymi,
+- **5)** inne zobowiązania i wierzytelności rad narodowych i terenowych organów administracji państwowej stopnia wojewódzkiego, z zastrzeżeniem ust. 2. ust. 3 pkt 2, polega na:
+- **1)** spłacie kredytów bankowych zaciągniętych przez spółdzielnie mieszkaniowe i gminy na finansowanie realizacji inwestycji infrastrukturalnych,
+- **2)** zrefundowaniu spółdzielniom mieszkaniowym i gminom środków własnych wydatkowanych na spłatę kredytów bankowych, o których mowa pkt 1, a także odsetek należnych od tych kredytów,
+- **3)** zrefundowaniu spółdzielniom mieszkaniowym i gminom środków własnych wydatkowanych na dotychczasowe finansowanie realizacji inwestycji infrastrukturalnych i na ich dokończenie, zakresie rzeczowym określonym umowach, o których mowa ust. 3 pkt 2.
+
+5. Środki własne spółdzielni mieszkaniowych i gmin są refundowane wysokości odpowiadającej kwotom wydatkowanym na cele określone ust. 4 pkt 2 i
+
+3.
+
+6. Refundacji ze środków budżetu państwa podlegają również środki własne gmin, które na podstawie wyroków sądowych były lub będą przekazane spółdzielniom mieszkaniowym związku z regulowaniem należności za wykonanie inwestycji infrastrukturalnych, określonych ust. 3 pkt 2.
+
+7. Kredyty bankowe zaciągnięte na finansowanie realizacji inwestycji infrastrukturalnych są spłacane ze środków budżetu państwa trybie i terminach ustalonych umowach zawartych przez Ministra Finansów z prezesami zarządów banków, które udzieliły takich kredytów.
+
+8. Minister Finansów, drodze rozporządzenia, określi tryb i terminy dokonywania latach 1996-2000 refundacji, o której mowa ust. 4 pkt 2 i 3 oraz ust. 5 i 6.
+
+#### Rozdział 4 Przepisy końcowe
+
+**Art. 37.**
+
+1. Pierwszą sesję nowo wybranej rady gminy zwołuje przewodniczący właściwej terytorialnie komisji wyborczej ciągu siedmiu dni od ogłoszenia zbiorczych wyników wyborów przez Generalnego Komisarza Wyborczego, powierzając otwarcie sesji jednemu z najstarszych wiekiem radnych. sejmiku samorządowego, a także ustala termin wyboru wójta, burmistrza lub prezydenta miasta oraz termin powołania przez radę komisji inwentaryzacyjnej, nie później jednak niż okresie dwóch tygodni.
+
+3. W czasie pierwszej sesji rady osoba, o której mowa art. 22, informuje radę o stanie budżetu gminy, zakresie mienia, które podlega przekazaniu gminie, oraz o innych ważnych dla gminy sprawach.
 
 **Art. 38.**
 
-1. Pierwsze posiedzenie sejmiku wego 1990 r. wojewoda terminie czternastu dni od otrzymania wszystkich gmin sprawie wyborów delegatów sejmiku Na pierwszym posiedzeniu sejmiku go wojewoda przedstawia sytuacji gospodar czej województwa innych dla województwa sprawach.
+1. Pierwsze posiedzenie sejmiku samorządowego 1990 r. zwołuje wojewoda terminie czternastu dni od otrzymania wszystkich uchwał rad gmin sprawie wyborów delegatów do sejmiku samorządowego.
 
-**Art. 39.** Przez wart. 77 9 ustawy terytorialnym woje wody" woje wody, których wart. 4 3 ustawy 22 marca 1990 terenowych organach administracji ogólnej (Dz. U. Nr 21, poz. 123).
+2. Na pierwszym posiedzeniu sejmiku samorządowego wojewoda przedstawia informację o sytuacji gospodarczej województwa i innych ważnych dla województwa sprawach.
 
-**Art. 40.** Ustawa wchodzi dniem 27 maja 990 11 2, 17 7 18 3, które dniem Prezydent Rzeczypospolitej Polskiej: W. Jaruzelski 192 RADY MINISTRÓW 11 maja 1990 r. sprawie Na podstawie 13 4 ustawy 22 listopada 1973 r. zagospodarowaniu lasów (Dz. U. Nr 48, poz. 283 1982 r. Nr 11, poz.
+**Art. 39.** Przez użyte art. 77 ust. 1 pkt 9 ustawy o samorządzie terytorialnym określenie „zarządzenie wojewody” należy rozumieć rozporządzenia i zarządzenia wojewody, o których mowa art. 4 ust. 3 ustawy z dnia 22 marca 1990 r. o terenowych organach rządowej administracji ogólnej (Dz.U. Nr 21, poz. 123).
+
+**Art. 40.** Ustawa wchodzi życie z dniem 27 maja 1990 r., z wyjątkiem art. 11 ust. 2, art. 17 ust. 7 i art. 18 ust. 3, które wchodzą życie z dniem ogłoszenia.
 

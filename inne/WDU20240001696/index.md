@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 20 listopada 2024 r.
+# w sprawie ogłoszenia jednolitego tekstu ustawy o emeryturach pomostowych
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 7 listopada 2024 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2024-11-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001696) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1696/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 7 listopada 2024 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o emeryturach pomostowych
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 19 grudnia 2008 r. o emeryturach pomostowych (Dz. U. z 2023 r. poz. 164), z uwzględnieniem zmian wprowadzonych:
 1) ustawą z dnia 28 lipca 2023 r. o zmianie ustawy o emeryturach pomostowych oraz niektórych innych ustaw (Dz. U.
 poz. 1667),
@@ -171,8 +171,8 @@ Art. 43–48. (pominięte)
 
 2. Współczynnik X określający, jaka część wymogów do wcześniejszej emerytury została spełniona do dnia 31 grudnia 2008 r. oblicza się według następującego wzoru:
 
-- **1)** w przypadku kobiet: 18 18 20 15 − − =   W S S W X
-- **2)** w przypadku mężczyzn: 2 5 1 5 1 1 8 8 − − =   W W S S X gdzie: S oznacza okresy składkowe i nieskładkowe w rozumieniu ustawy o emeryturach i rentach z FUS, osiągnięte przed dniem 1 stycznia 2009 r., S oznacza okres wykonywania przed dniem 1 stycznia 2009 r. pracy w szczególnych warunkach lub w szczególnym charakterze w rozumieniu przepisów ustawy o emeryturach i rentach z FUS, W oznacza obniżony wiek emerytalny w rozumieniu przepisów ustawy o emeryturach i rentach z FUS, W oznacza wiek ubezpieczonego w dniu 31 grudnia 2008 r. w pełnych latach zaokrąglonych w górę.
+- **1)** w przypadku kobiet: −18 =   20 15 −18 S S W X W
+- **2)** w przypadku mężczyzn: −18 =   25 15 −18 S S W X W gdzie: S oznacza okresy składkowe i nieskładkowe w rozumieniu ustawy o emeryturach i rentach z FUS, osiągnięte przed dniem 1 stycznia 2009 r., S oznacza okres wykonywania przed dniem 1 stycznia 2009 r. pracy w szczególnych warunkach lub w szczególnym charakterze w rozumieniu przepisów ustawy o emeryturach i rentach z FUS, W oznacza obniżony wiek emerytalny w rozumieniu przepisów ustawy o emeryturach i rentach z FUS, W oznacza wiek ubezpieczonego w dniu 31 grudnia 2008 r. w pełnych latach zaokrąglonych w górę.
 
 3. Jeżeli wartość któregokolwiek z ułamków, o których mowa w ust. 2, przekroczy 1, przyjmuje się, że wartość ta wynosi 1.
 

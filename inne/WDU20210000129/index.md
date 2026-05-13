@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 19 stycznia 2021 r.
+# o nasiennictwie
+
+*USTAWA z dnia 9 listopada 2012 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,24 +26,7 @@ domain: null
 | Ostatnia zmiana | 2026-01-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000129) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/129/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 8 grudnia 2020 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o nasiennictwie
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 9 listopada 2012 r. o nasiennictwie (Dz. U. z 2019 r. poz. 568), z uwzględnieniem zmian wprowadzonych:
-1) ustawą z dnia 13 lutego 2020 r. o Państwowej Inspekcji Ochrony Roślin i Nasiennictwa (Dz. U. poz. 425 i 695),
-2) ustawą z dnia 14 maja 2020 r. o zmianie niektórych ustaw w zakresie działań osłonowych w związku z rozprzestrzenianiem się wirusa SARS-CoV-2 (Dz. U. poz. 875) oraz zmian wynikających z przepisów ogłoszonych przed dniem 3 grudnia 2020 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) odnośnika nr 1 oraz art. 64–66, art. 68 i art. 70 ustawy z dnia 13 lutego 2020 r. o Państwowej Inspekcji Ochrony Roślin i Nasiennictwa (Dz. U. poz. 425 i 695), które stanowią: „ Niniejsza ustawa służy stosowaniu:
-1) rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1107/2009 z dnia 21 października 2009 r. dotyczącego wprowadzania do obrotu środków ochrony roślin i uchylającego dyrektywy Rady 79/117/EWG i 91/414/EWG (Dz. Urz. UE L 309 z 24.11.2009, str. 1, z późn. zm.);
-2) rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/2031 z dnia 26 października 2016 r. w sprawie środków ochronnych przeciwko agrofagom roślin, zmieniającego rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 228/2013, (UE) nr 652/2014 i (UE) nr 1143/2014 oraz uchylającego dyrektywy Rady 69/464/EWG, 74/647/EWG, 93/85/EWG, 98/57/WE, 2000/29/WE, 2006/91/WE i 2007/33/WE (Dz. Urz. UE L 317 z 23.11.2016, str. 4, z późn. zm.);
-3) rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/625 z dnia 15 marca 2017 r. w sprawie kontroli urzędowych i innych czynności urzędowych przeprowadzanych w celu zapewnienia stosowania prawa żywnościowego i paszowego oraz zasad dotyczących zdrowia i dobrostanu zwierząt, zdrowia roślin i środków ochrony roślin, zmieniającego rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 999/2001, (WE) nr 396/2005, (WE) nr 1069/2009, (WE) nr 1107/2009, (UE) nr 1151/2012, (UE) nr 652/2014, (UE) 2016/429 i (UE) 2016/2031, rozporządzenia Rady (WE) nr 1/2005 i (WE) nr 1099/2009 oraz dyrektywy Rady 98/58/WE, 1999/74/WE, 2007/43/WE, 2008/119/WE i 2008/120/WE, oraz uchylającego rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 854/2004 i (WE) nr 882/2004, dyrektywy Rady 89/608/EWG, 89/662/EWG, 90/425/EWG, 91/496/EWG, 96/23/WE, 96/93/WE i 97/78/WE oraz decyzję Rady 92/438/EWG (rozporządzenie w sprawie kontroli urzędowych) (Dz. Urz. UE L 95 z 07.04.2017, str. 1, z późn. zm.).” „Art. 64. 1. Decyzje wydane na podstawie przepisów ustawy zmienianej w art. 46 przed dniem wejścia w życie niniejszej ustawy zachowują moc.
-2. Do spraw określonych w ustawie zmienianej w art. 46 objętych postępowaniami wszczętymi i niezakończonymi przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe, z tym że do spraw o udzielenie upoważnienia, o którym mowa w:
-1) art. 98 ust. 2 ustawy zmienianej w art. 46, objętych postępowaniami wszczętymi i niezakończonymi ostateczną decyzją przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotyczące udzielania upoważnienia, o którym mowa w art. 98 ust. 2 pkt 1 ustawy zmienianej w art. 46 w brzmieniu nadanym niniejszą ustawą;
-2) art. 103 ust. 6 ustawy zmienianej w art. 46, objętych postępowaniami wszczętymi i niezakończonymi ostateczną decyzją przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotyczące udzielania upoważnienia, o którym mowa w art. 103 ust. 6 ustawy zmienianej w art. 46 w brzmieniu nadanym niniejszą ustawą.
 Art. 127–130. (pominięte)
-
-**Art. 65.** Upoważnienia i akredytacje udzielone na podstawie przepisów ustawy zmienianej w art. 46 stają się akredytacjami i upoważnieniami w rozumieniu ustawy zmienianej w art. 46 w brzmieniu nadanym niniejszą ustawą.
-
-**Art. 66.** Do kontroli przeprowadzanych w ramach nadzoru, o którym mowa w art. 81 ust. 1 ustawy zmienianej w art. 46, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.” „Art. 68. 1. Dotychczasowe przepisy wykonawcze wydane na podstawie:
 
 ## TYTUŁ I Przepisy ogólne
 
@@ -49,20 +34,22 @@ Art. 127–130. (pominięte)
 
 1. Ustawa reguluje sprawy:
 
-- **1)** rejestracji odmian oraz wytwarzania, oceny i kontroli materiału siewnego odmian gatunków roślin uprawnych określonych w: WE L 193 z 20.07.2002, str. 60, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 36, str. 340), zwanej dalej „dyrektywą Rady 2002/56/WE”,
-    - **a)** art. 2 ust. 1 pkt A lit. a dyrektywy Rady 66/401/EWG z dnia 14 czerwca 1966 r. w sprawie obrotu materiałem siewnym roślin pastewnych (Dz. Urz. WE L 125 z 11.07.1966, str. 2298, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 1, str. 55), zwanej dalej „dyrektywą Rady 66/401/EWG”,
-    - **b)** art. 2 ust. 1 pkt A dyrektywy Rady 66/402/EWG z dnia 14 czerwca 1966 r. w sprawie obrotu materiałem siewnym roślin zbożowych (Dz. Urz. WE L 125 z 11.07.1966, str. 2309, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 1, str. 66), zwanej dalej „dyrektywą Rady 66/402/EWG”,
-    - **c)** art. 2 ust. 1 lit. b dyrektywy Rady 2002/54/WE z dnia 13 czerwca 2002 r. w sprawie obrotu materiałem siewnym buraka (Dz. Urz. WE L 193 z 20.07.2002, str. 12, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 36, str. 292), zwanej dalej „dyrektywą Rady 2002/54/WE”,
-    - **d)** art. 2 ust. 1 lit. b dyrektywy Rady 2002/55/WE z dnia 13 czerwca 2002 r. w sprawie obrotu materiałem siewnym warzyw (Dz. Urz. WE L 193 z 20.07.2002, str. 33, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 36, str. 313), zwanej dalej „dyrektywą Rady 2002/55/WE”,
-    - **e)** dyrektywie Rady 2002/56/WE z dnia 13 czerwca 2002 r. w sprawie obrotu sadzeniakami ziemniaków (Dz. Urz.
-    - **f)** art. 2 ust. 1 lit. b dyrektywy Rady 2002/57/WE z dnia 13 czerwca 2002 r. w sprawie obrotu materiałem siewnym roślin oleistych i włóknistych (Dz. Urz. WE L 193 z 20.07.2002, str. 74, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 36, str. 354), zwanej dalej „dyrektywą Rady 2002/57/WE”,
+- **1)** rejestracji odmian oraz wytwarzania, oceny i kontroli materiału siewnego odmian gatunków roślin uprawnych określonych w: WE L 125 z 11.07.1966, str. 2298, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 1, str. 55), zwanej dalej „dyrektywą Rady 66/401/EWG”, w sprawie obrotu materiałem siewnym roślin zbożowych (Dz. Urz. WE L 125 z 11.07.1966, str. 2309, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 1, str. 66), zwanej dalej „dyrektywą Rady 66/402/EWG”, w sprawie obrotu materiałem siewnym buraka (Dz. Urz. WE L 193 z 20.07.2002, str. 12, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 36, str. 292), zwanej dalej „dyrektywą Rady 2002/54/WE”, w sprawie obrotu materiałem siewnym warzyw (Dz. Urz. WE L 193 z 20.07.2002, str. 33, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 36, str. 313), zwanej dalej „dyrektywą Rady 2002/55/WE”,
+    - **a)** art. 2 ust. 1 pkt A lit. a dyrektywy Rady 66/401/EWG z dnia 14 czerwca 1966 r. w sprawie obrotu materiałem siewnym roślin pastewnych (Dz. Urz.
+    - **b)** art. 2 ust. 1 pkt A dyrektywy Rady 66/402/EWG z dnia 14 czerwca 1966 r.
+    - **c)** art. 2 ust. 1 lit. b dyrektywy Rady 2002/54/WE z dnia 13 czerwca 2002 r.
+    - **d)** art. 2 ust. 1 lit. b dyrektywy Rady 2002/55/WE z dnia 13 czerwca 2002 r.
+    - **e)** dyrektywie Rady 2002/56/WE z dnia 13 czerwca 2002 r. w sprawie obrotu sadzeniakami ziemniaków (Dz. Urz. WE L 193 z 20.07.2002, str. 60, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 36, str.
+
+- **340)** , zwanej dalej „dyrektywą Rady 2002/56/WE”, w sprawie obrotu materiałem siewnym roślin oleistych i włóknistych (Dz. Urz. WE L 193 z 20.07.2002, str. 74, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 36, str. 354), zwanej dalej „dyrektywą Rady 2002/57/WE”,
+    - **f)** art. 2 ust. 1 lit. b dyrektywy Rady 2002/57/WE z dnia 13 czerwca 2002 r.
     - **g)** dyrektywie Rady 2008/72/WE z dnia 15 lipca 2008 r. w sprawie obrotu materiałem rozmnożeniowym oraz nasadzeniowym warzyw, innym niż nasiona (Dz. Urz. UE L 205 z 01.08.2008, str. 8) w załączniku nr 2,
     - **h)** dyrektywie Rady 2008/90/WE z dnia 29 września 2008 r. w sprawie obrotu materiałem rozmnożeniowym roślin sadowniczych oraz roślinami sadowniczymi przeznaczonymi do produkcji owoców (Dz. Urz. UE L 267 z 08.10.2008, str. 28) w załączniku nr 1, 1a) rejestracji odmian oraz wytwarzania, oceny i kontroli materiału siewnego odmian gatunków roślin uprawnych tradycyjnie uprawianych na terytorium Rzeczypospolitej Polskiej, zwanych dalej „odmianami tradycyjnymi”,
 
 - **2)** wytwarzania, oceny i kontroli materiału siewnego następujących roślin uprawnych:
     - **a)** roślin ozdobnych lub użytkowanych jako rośliny ozdobne,
     - **b)** nieprzeznaczonych do obrotu na obszarze Unii Europejskiej odmian gatunków roślin rolniczych objętych systemami oceny określonymi przez Organizację Współpracy Gospodarczej i Rozwoju (OECD), ogłoszonymi na stronach internetowych tej organizacji,
-    - **c)** sadzonek winorośli oraz obrotu tym materiałem.
+    - **c)** sadzonek winorośli – oraz obrotu tym materiałem.
 
 2. Przepisy ustawy w zakresie rejestracji odmian, wytwarzania, oceny i kontroli materiału siewnego oraz obrotu materiałem siewnym dotyczą również gatunków roślin stosowanych do uszlachetniania odmian gatunków roślin, o których mowa w ust. 1 pkt 1 i 1a.
 
@@ -74,77 +61,77 @@ Art. 127–130. (pominięte)
 
 1. W rozumieniu ustawy określenie:
 
-- **1)** odmiana oznacza zbiorowość roślin w obrębie botanicznej jednostki systematycznej najniższego znanego stopnia, która:
+- **1)** odmiana – oznacza zbiorowość roślin w obrębie botanicznej jednostki systematycznej najniższego znanego stopnia, która:
     - **a)** jest określona na podstawie przejawianych właściwości wynikających z określonego genotypu lub kombinacji genotypów,
     - **b)** różni się od każdej innej zbiorowości roślin na podstawie co najmniej jednej z przejawianych właściwości,
     - **c)** pozostaje niezmieniona po rozmnożeniu;
 
-- **2)** odmiana mieszańcowa oznacza odmianę, której materiał siewny jest wytwarzany za każdym razem przez krzyżowanie określonych zbiorowości roślin zgodnie ze sposobem i kolejnością podanymi przez zachowującego odmianę;
-- **3)** składnik odmiany mieszańcowej oznacza odmianę lub linię rośliny wykorzystywaną za każdym razem w procesie wytwarzania odmiany mieszańcowej;
-- **4)** odmiana regionalna (odmiana dla zachowania bioróżnorodności) oznacza populację miejscową lub odmianę naturalnie przystosowaną do warunków lokalnych, zagrożoną postępującą z czasem utratą różnorodności genetycznej między populacjami i w obrębie populacji lub odmian tego samego gatunku lub ograniczeniem bazy genetycznej gatunku spowodowanym ingerencją człowieka lub zmianami warunków środowiskowych (erozja genetyczna) roślin rolniczych lub roślin warzywnych;
-- **5)** odmiana amatorska (odmiana odkryta i wyprowadzona do uprawy w szczególnych warunkach) oznacza odmianę roślin warzywnych odkrytą i wyprowadzoną z przeznaczeniem do uprawy w szczególnych warunkach agrotechnicznych, klimatycznych lub glebowych, która nie ma znaczenia dla towarowej produkcji warzyw, ale ma znaczenie dla zachowania bioróżnorodności;
-- **6)** populacja miejscowa oznacza zbiór populacji gatunku rośliny albo zbiór jednorodnego genetycznie wegetatywnego potomstwa pojedynczej rośliny w ramach gatunku rośliny (klony), który w sposób naturalny przystosował się do warunków środowiskowych regionu pochodzenia;
-- **7)** zachowanie odmiany oznacza działalność zmierzającą do wytworzenia materiału siewnego danej odmiany, która zapewni jej charakterystyczne właściwości, wyrównanie i trwałość;
-- **8)** materiał siewny oznacza rośliny lub ich części przeznaczone do siewu, sadzenia, szczepienia, okulizacji lub innego sposobu rozmnażania roślin, w tym materiał siewny spełniający wymagania w zakresie wytwarzania i jakości dla danej kategorii, i stanowi:
-    - **a)** materiał siewny roślin rolniczych obejmujący nasiona roślin rolniczych odmian gatunków objętych przepisami dotyczącymi wytwarzania i jakości, a w przypadku ziemniaka bulwy, zwane dalej „sadzeniakami ziemniaka”,
+- **2)** odmiana mieszańcowa – oznacza odmianę, której materiał siewny jest wytwarzany za każdym razem przez krzyżowanie określonych zbiorowości roślin zgodnie ze sposobem i kolejnością podanymi przez zachowującego odmianę;
+- **3)** składnik odmiany mieszańcowej – oznacza odmianę lub linię rośliny wykorzystywaną za każdym razem w procesie wytwarzania odmiany mieszańcowej;
+- **4)** odmiana regionalna (odmiana dla zachowania bioróżnorodności) – oznacza populację miejscową lub odmianę naturalnie przystosowaną do warunków lokalnych, zagrożoną postępującą z czasem utratą różnorodności genetycznej między populacjami i w obrębie populacji lub odmian tego samego gatunku lub ograniczeniem bazy genetycznej gatunku spowodowanym ingerencją człowieka lub zmianami warunków środowiskowych (erozja genetyczna) roślin rolniczych lub roślin warzywnych;
+- **5)** odmiana amatorska (odmiana odkryta i wyprowadzona do uprawy w szczególnych warunkach) – oznacza odmianę roślin warzywnych odkrytą i wyprowadzoną z przeznaczeniem do uprawy w szczególnych warunkach agrotechnicznych, klimatycznych lub glebowych, która nie ma znaczenia dla towarowej produkcji warzyw, ale ma znaczenie dla zachowania bioróżnorodności;
+- **6)** populacja miejscowa – oznacza zbiór populacji gatunku rośliny albo zbiór jednorodnego genetycznie wegetatywnego potomstwa pojedynczej rośliny w ramach gatunku rośliny (klony), który w sposób naturalny przystosował się do warunków środowiskowych regionu pochodzenia;
+- **7)** zachowanie odmiany – oznacza działalność zmierzającą do wytworzenia materiału siewnego danej odmiany, która zapewni jej charakterystyczne właściwości, wyrównanie i trwałość;
+- **8)** materiał siewny – oznacza rośliny lub ich części przeznaczone do siewu, sadzenia, szczepienia, okulizacji lub innego sposobu rozmnażania roślin, w tym materiał siewny spełniający wymagania w zakresie wytwarzania i jakości dla danej kategorii, i stanowi:
+    - **a)** materiał siewny roślin rolniczych obejmujący nasiona roślin rolniczych odmian gatunków objętych przepisami dotyczącymi wytwarzania i jakości, a w przypadku ziemniaka – bulwy, zwane dalej „sadzeniakami ziemniaka”,
     - **b)** materiał siewny roślin warzywnych obejmujący nasiona roślin warzywnych odmian gatunków objętych przepisami dotyczącymi wytwarzania i jakości,
     - **c)** (uchylona)
     - **d)** materiał szkółkarski obejmujący części roślin, w tym podkładki, zrazy, wstawki i oczka, całe rośliny oraz nasiona, przeznaczone do rozmnażania i produkcji roślin sadowniczych, z wyłączeniem winorośli,
     - **e)** materiał rozmnożeniowy roślin warzywnych obejmujący części roślin lub rośliny, w tym podkładki, z wyłączeniem nasion, przeznaczone do rozmnażania i produkcji roślin warzywnych,
     - **f)** materiał rozmnożeniowy roślin ozdobnych obejmujący nasiona, części roślin lub rośliny, w tym podkładki, przeznaczone do rozmnażania i produkcji roślin ozdobnych lub użytkowanych w celach ozdobnych,
-    - **g)** materiał nasadzeniowy roślin warzywnych lub ozdobnych obejmujący całe rośliny uzyskane z materiału rozmnożeniowego, a w przypadku roślin warzywnych z materiału siewnego, przeznaczone do nasadzeń w celu produkcji warzyw lub roślin ozdobnych,
+    - **g)** materiał nasadzeniowy roślin warzywnych lub ozdobnych obejmujący całe rośliny uzyskane z materiału rozmnożeniowego, a w przypadku roślin warzywnych – z materiału siewnego, przeznaczone do nasadzeń w celu produkcji warzyw lub roślin ozdobnych,
     - **h)** materiał rozmnożeniowy winorośli obejmujący sadzonki i szczepy ukorzenione, pędy jednoroczne i pędy niezdrewniałe, podkładki oraz zrazy, przeznaczone do rozmnażania i produkcji winorośli;
 
-- **9)** materiał mateczny oznacza materiał wytworzony przez zachowującego odmianę w sposób zapewniający zachowanie właściwych cech tej odmiany, przeznaczony do wytworzenia materiału siewnego kategorii elitarny w urzędowej ocenie materiału siewnego lub materiału siewnego kategorii standard;
-- **10)** materiał siewny kategorii elitarny roślin rolniczych i warzywnych oznacza:
-    - **a)** materiał siewny przedbazowy wytworzony przez zachowującego odmianę, stanowiący rozmnożenia poprzedzające materiał siewny bazowy, przeznaczony do produkcji materiału siewnego bazowego lub dla zachowującego odmianę również do produkcji materiału siewnego kategorii kwalifikowany,
-    - **b)** materiał siewny bazowy wytworzony z materiału siewnego przedbazowego lub z materiału matecznego w przypadku gdy jest wytwarzany przez zachowującego odmianę, przeznaczony do produkcji materiału siewnego kategorii kwalifikowany;
+- **9)** materiał mateczny – oznacza materiał wytworzony przez zachowującego odmianę w sposób zapewniający zachowanie właściwych cech tej odmiany, przeznaczony do wytworzenia materiału siewnego kategorii elitarny w urzędowej ocenie materiału siewnego lub materiału siewnego kategorii standard;
+- **10)** materiał siewny kategorii elitarny roślin rolniczych i warzywnych – oznacza:
+    - **a)** materiał siewny przedbazowy wytworzony przez zachowującego odmianę, stanowiący rozmnożenia poprzedzające materiał siewny bazowy, przeznaczony do produkcji materiału siewnego bazowego lub dla zachowującego odmianę – również do produkcji materiału siewnego kategorii kwalifikowany,
+    - **b)** materiał siewny bazowy wytworzony z materiału siewnego przedbazowego lub z materiału matecznego – w przypadku gdy jest wytwarzany przez zachowującego odmianę, przeznaczony do produkcji materiału siewnego kategorii kwalifikowany;
 
-- **10a)** materiał siewny kategorii elitarny roślin sadowniczych oznacza:
+- **10a)** materiał siewny kategorii elitarny roślin sadowniczych – oznacza:
     - **a)** rośliny stanowiące rozmnożenia poprzedzające materiał siewny przedbazowy (rośliny kandydackie), przeznaczone do produkcji materiału siewnego przedbazowego,
-    - **b)** materiał siewny przedbazowy wytworzony przez zachowującego odmianę, stanowiący rozmnożenia poprzedzające materiał siewny bazowy, przeznaczony do produkcji materiału siewnego bazowego lub dla zachowującego odmianę również do produkcji materiału siewnego kategorii kwalifikowany,
-    - **c)** materiał siewny bazowy wytworzony z materiału siewnego przedbazowego lub z materiału matecznego w przypadku gdy jest wytwarzany przez zachowującego odmianę, przeznaczony do produkcji materiału siewnego kategorii kwalifikowany;
+    - **b)** materiał siewny przedbazowy wytworzony przez zachowującego odmianę, stanowiący rozmnożenia poprzedzające materiał siewny bazowy, przeznaczony do produkcji materiału siewnego bazowego lub dla zachowującego odmianę – również do produkcji materiału siewnego kategorii kwalifikowany,
+    - **c)** materiał siewny bazowy wytworzony z materiału siewnego przedbazowego lub z materiału matecznego – w przypadku gdy jest wytwarzany przez zachowującego odmianę, przeznaczony do produkcji materiału siewnego kategorii kwalifikowany;
 
-- **11)** materiał siewny kategorii kwalifikowany oznacza materiał siewny wyprodukowany bezpośrednio z materiału siewnego kategorii elitarny, przeznaczony do produkcji materiału siewnego kategorii kwalifikowany kolejnych rozmnożeń lub do produkcji innej niż produkcja materiału siewnego;
-- **12)** materiał siewny kategorii standard oznacza:
+- **11)** materiał siewny kategorii kwalifikowany – oznacza materiał siewny wyprodukowany bezpośrednio z materiału siewnego kategorii elitarny, przeznaczony do produkcji materiału siewnego kategorii kwalifikowany kolejnych rozmnożeń lub do produkcji innej niż produkcja materiału siewnego;
+- **12)** materiał siewny kategorii standard – oznacza:
     - **a)** materiał siewny roślin warzywnych, spełniający wymagania w zakresie wytwarzania i jakości dla tej kategorii, wytworzony z materiału matecznego, materiału siewnego kategorii elitarny lub kategorii kwalifikowany przez zachowującego odmianę i przez niego oceniony, przeznaczony do celów innych niż produkcja materiału siewnego,
     - **b)** materiał siewny odmiany regionalnej lub odmiany amatorskiej, spełniający wymagania w zakresie wytwarzania i jakości dla tej kategorii, wytworzony przez zachowującego odmianę i przez niego oceniony, przeznaczony do celów innych niż produkcja materiału siewnego,
     - **c)** materiał rozmnożeniowy winorośli, pochodzący z rozmnożenia materiału kategorii elitarny, kategorii kwalifikowany lub kategorii standard, przeznaczony głównie do produkcji innej niż produkcja materiału siewnego;
 
-- **13)** materiał szkółkarski CAC (Conformitas agraria communitatis) oznacza materiał szkółkarski wytworzony przez dostawcę i przez niego oceniony, spełniający wymagania w zakresie wytwarzania i jakości określone dla tego materiału;
-- **14)** materiał siewny kategorii handlowy oznacza materiał siewny określonych gatunków roślin pastewnych, oleistych lub włóknistych, spełniający wymagania w zakresie jakości określone dla tej kategorii materiału siewnego;
-- **15)** materiał siewny odmiany regionalnej oznacza materiał siewny wytworzony przez zachowującego odmianę i przez niego oceniony, spełniający wymagania w zakresie wytwarzania i jakości określone dla tego materiału;
-- **16)** sadzonki winorośli oznacza wytworzone na terytorium Rzeczypospolitej Polskiej sadzonki przeznaczone do rozmnożeń i nasadzeń winorośli, spełniające wymagania w zakresie wytwarzania i jakości określone dla tego materiału siewnego;
-- **17)** partia materiału siewnego oznacza określoną ilość:
+- **13)** materiał szkółkarski CAC (Conformitas agraria communitatis) – oznacza materiał szkółkarski wytworzony przez dostawcę i przez niego oceniony, spełniający wymagania w zakresie wytwarzania i jakości określone dla tego materiału;
+- **14)** materiał siewny kategorii handlowy – oznacza materiał siewny określonych gatunków roślin pastewnych, oleistych lub włóknistych, spełniający wymagania w zakresie jakości określone dla tej kategorii materiału siewnego;
+- **15)** materiał siewny odmiany regionalnej – oznacza materiał siewny wytworzony przez zachowującego odmianę i przez niego oceniony, spełniający wymagania w zakresie wytwarzania i jakości określone dla tego materiału;
+- **16)** sadzonki winorośli – oznacza wytworzone na terytorium Rzeczypospolitej Polskiej sadzonki przeznaczone do rozmnożeń i nasadzeń winorośli, spełniające wymagania w zakresie wytwarzania i jakości określone dla tego materiału siewnego;
+- **17)** partia materiału siewnego – oznacza określoną ilość:
     - **a)** materiału siewnego odmiany jednolitą pod względem jej właściwości,
     - **b)** materiału siewnego mieszanek o składzie kilku odmian lub gatunków roślin określonym przez prowadzącego obrót,
     - **c)** jednostek materiału rozmnożeniowego lub nasadzeniowego możliwą do zidentyfikowania ze względu na jego jednorodność i pochodzenie;
 
-- **18)** stopień kwalifikacji oznacza kolejne rozmnożenie materiału siewnego odmiany zgodnie z jej właściwościami;
-- **19)** obrót oznacza oferowanie do sprzedaży, sprzedaż, dostawę materiału siewnego lub inny sposób dysponowania tym materiałem, z wyłączeniem materiału siewnego przeznaczonego do:
+- **18)** stopień kwalifikacji – oznacza kolejne rozmnożenie materiału siewnego odmiany zgodnie z jej właściwościami;
+- **19)** obrót – oznacza oferowanie do sprzedaży, sprzedaż, dostawę materiału siewnego lub inny sposób dysponowania tym materiałem, z wyłączeniem materiału siewnego przeznaczonego do:
     - **a)** oceny i kontroli,
     - **b)** przerobu, uszlachetniania i pakowania,
     - **c)** innych celów niż siew i sadzenie,
     - **d)** celów naukowych, doświadczalnych i hodowli roślin;
 
-- **20)** hodowca oznacza osobę fizyczną, osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, która:
+- **20)** hodowca – oznacza osobę fizyczną, osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, która:
     - **a)** wyhodowała albo odkryła i wyprowadziła odmianę albo
     - **b)** jest lub była pracodawcą osoby, o której mowa w lit. a, albo zawarła umowę, w ramach której inna strona tej umowy wyhodowała albo odkryła i wyprowadziła odmianę, albo
     - **c)** jest następcą prawnym osób, o których mowa w lit. a lub b;
 
-- **21)** zachowujący odmianę oznacza hodowcę lub inną osobę fizyczną, osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, prowadzącą działalność zmierzającą do wytworzenia materiału siewnego odmiany, która to działalność zapewni odmianie charakterystyczne właściwości, wyrównanie i trwałość;
-- **22)** zgłaszający odmianę oznacza składającego wniosek o wpis odmiany do rejestru odmian, zachowującego odmianę lub inny podmiot, którym może być osoba fizyczna, osoba prawna albo jednostka organizacyjna nieposiadająca osobowości prawnej, mająca miejsce zamieszkania albo siedzibę na terytorium Rzeczypospolitej Polskiej lub innych państw będących członkami Unii Europejskiej;
-- **23)** producent oznacza osobę fizyczną, osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, która wytwarza materiał siewny;
-- **24)** prowadzący obrót oznacza osobę fizyczną, osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, która prowadzi obrót materiałem siewnym roślin rolniczych lub roślin warzywnych;
-- **25)** dostawca oznacza osobę fizyczną, osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, która wytwarza materiał szkółkarski, sadzonki winorośli, materiał rozmnożeniowy lub materiał nasadzeniowy roślin warzywnych i ozdobnych lub użytkowanych jako ozdobne lub prowadzi obrót tym materiałem;
-- **26)** nieprofesjonalny odbiorca oznacza osobę fizyczną, która nabywa materiał siewny w celu użycia na potrzeby własne i nie przeznacza tego materiału oraz wytworzonych z niego produktów na cele zarobkowe;
-- **27)** państwa członkowskie oznacza państwa będące członkami Unii Europejskiej;
-- **28)** państwa trzecie oznacza państwa niebędące członkami Unii Europejskiej;
-- **29)** państwa stowarzyszone oznacza państwa trzecie, które są państwami członkowskimi Europejskiego Porozumienia o Wolnym Handlu (EFTA);
-- **30)** wspólnotowy katalog oznacza wykaz odmian roślin rolniczych i warzywnych Unii Europejskiej i państw stowarzyszonych, których materiał siewny jest dopuszczony do obrotu na terytorium państw członkowskich;
-- **31)** wspólnotowy wykaz odmian oznacza wykaz odmian roślin sadowniczych państw członkowskich i państw stowarzyszonych, dopuszczonych do wytwarzania i obrotu na terytorium państw członkowskich;
-- **32)** próba urzędowa oznacza próbę materiału siewnego pobraną w ramach urzędowych działań;
-- **33)** systemy OECD oznacza stosowane przez Rzeczpospolitą Polską następujące systemy nasienne OECD dla kwalifikacji odmianowej nasion wprowadzanych do obrotu międzynarodowego:
+- **21)** zachowujący odmianę – oznacza hodowcę lub inną osobę fizyczną, osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, prowadzącą działalność zmierzającą do wytworzenia materiału siewnego odmiany, która to działalność zapewni odmianie charakterystyczne właściwości, wyrównanie i trwałość;
+- **22)** zgłaszający odmianę – oznacza składającego wniosek o wpis odmiany do rejestru odmian, zachowującego odmianę lub inny podmiot, którym może być osoba fizyczna, osoba prawna albo jednostka organizacyjna nieposiadająca osobowości prawnej, mająca miejsce zamieszkania albo siedzibę na terytorium Rzeczypospolitej Polskiej lub innych państw będących członkami Unii Europejskiej;
+- **23)** producent – oznacza osobę fizyczną, osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, która wytwarza materiał siewny;
+- **24)** prowadzący obrót – oznacza osobę fizyczną, osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, która prowadzi obrót materiałem siewnym roślin rolniczych lub roślin warzywnych;
+- **25)** dostawca – oznacza osobę fizyczną, osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, która wytwarza materiał szkółkarski, sadzonki winorośli, materiał rozmnożeniowy lub materiał nasadzeniowy roślin warzywnych i ozdobnych lub użytkowanych jako ozdobne lub prowadzi obrót tym materiałem;
+- **26)** nieprofesjonalny odbiorca – oznacza osobę fizyczną, która nabywa materiał siewny w celu użycia na potrzeby własne i nie przeznacza tego materiału oraz wytworzonych z niego produktów na cele zarobkowe;
+- **27)** państwa członkowskie – oznacza państwa będące członkami Unii Europejskiej;
+- **28)** państwa trzecie – oznacza państwa niebędące członkami Unii Europejskiej;
+- **29)** państwa stowarzyszone – oznacza państwa trzecie, które są państwami członkowskimi Europejskiego Porozumienia o Wolnym Handlu (EFTA);
+- **30)** wspólnotowy katalog – oznacza wykaz odmian roślin rolniczych i warzywnych Unii Europejskiej i państw stowarzyszonych, których materiał siewny jest dopuszczony do obrotu na terytorium państw członkowskich;
+- **31)** wspólnotowy wykaz odmian – oznacza wykaz odmian roślin sadowniczych państw członkowskich i państw stowarzyszonych, dopuszczonych do wytwarzania i obrotu na terytorium państw członkowskich;
+- **32)** próba urzędowa – oznacza próbę materiału siewnego pobraną w ramach urzędowych działań;
+- **33)** systemy OECD – oznacza stosowane przez Rzeczpospolitą Polską następujące systemy nasienne OECD dla kwalifikacji odmianowej nasion wprowadzanych do obrotu międzynarodowego:
     - **a)** system OECD dla kwalifikacji odmianowej nasion traw i roślin strączkowych oraz motylkowatych drobnonasiennych wprowadzanych do obrotu międzynarodowego,
     - **b)** system OECD dla kwalifikacji odmianowej nasion zbóż wprowadzanych do obrotu międzynarodowego,
     - **c)** system OECD dla kwalifikacji odmianowej nasion buraka cukrowego i pastewnego wprowadzanych do obrotu międzynarodowego,
@@ -155,7 +142,7 @@ Art. 127–130. (pominięte)
 
 - **1)** Państwową Inspekcję Ochrony Roślin i Nasiennictwa, zwaną dalej „Państwową Inspekcją”,
 - **2)** osobę prawną upoważnioną przepisami ustawy do działań w imieniu organów państwa,
-- **3)** osobę fizyczną upoważnioną do działań pomocniczych prowadzonych pod kontrolą organów państwa uważa się za urzędowe działania w rozumieniu przepisów Unii Europejskiej dotyczących nasiennictwa.
+- **3)** osobę fizyczną upoważnioną do działań pomocniczych prowadzonych pod kontrolą organów państwa – uważa się za urzędowe działania w rozumieniu przepisów Unii Europejskiej dotyczących nasiennictwa.
 
 3. Działania, o których mowa w ust. 2, obejmują w szczególności badania odrębności, wyrównania i trwałości lub badania wartości gospodarczej odmiany, sporządzanie opisu odmian, zwanego dalej „urzędowym opisem”, ocenę materiału siewnego, pobieranie prób materiału siewnego oraz kontrolę materiału siewnego.
 
@@ -179,7 +166,7 @@ Art. 127–130. (pominięte)
 
 1. Odmianę wpisuje się do krajowego rejestru, jeżeli jest odrębna, wyrównana i trwała oraz jeżeli:
 
-- **1)** ma zadowalającą wartość gospodarczą w przypadku gatunków roślin rolniczych i cykorii korzeniowej;
+- **1)** ma zadowalającą wartość gospodarczą – w przypadku gatunków roślin rolniczych i cykorii korzeniowej;
 - **2)** ma nadaną nazwę zgodną z wymaganiami określonymi w przepisach rozporządzenia Rady (WE) nr 2100/94 z dnia 27 lipca 1994 r. w sprawie wspólnotowego systemu ochrony odmian roślin (Dz. Urz. WE L 227 z 01.09.1994, str. 1; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 16, str. 390, z późn. zm.) lub rozporządzenia Komisji (WE) nr 637/2009 z dnia 22 lipca 2009 r. ustanawiającego reguły wykonawcze co do odpowiedniego nazewnictwa odmian gatunków roślin rolniczych i warzywnych (Dz. Urz. WE L 191 z 23.07.2009, str. 10);
 - **3)** jest zachowywana, a zachowujący odmianę posiada jej materiał siewny w ilości wystarczającej do prowadzenia badań tej odmiany.
 
@@ -200,8 +187,8 @@ Art. 127–130. (pominięte)
 1. Odmianę uznaje się za odrębną, jeżeli w dniu złożenia wniosku o wpis odmiany do krajowego rejestru różni się ona w sposób wyraźny co najmniej jedną właściwością od innej odmiany:
 
 - **1)** co do której został złożony wniosek o wpis do krajowego rejestru lub która została wpisana do krajowego rejestru, lub odpowiedniego rejestru innego niż Rzeczpospolita Polska państwa członkowskiego, lub
-- **2)** która jest wpisana do wspólnotowych katalogów, a w przypadku odmiany rośliny sadowniczej do odpowiednich rejestrów innych państw członkowskich lub do wspólnotowego wykazu odmian roślin sadowniczych;
-- **3)** powszechnie znanej w rozumieniu art. 66 ust. 2 w przypadku roślin sadowniczych.
+- **2)** która jest wpisana do wspólnotowych katalogów, a w przypadku odmiany rośliny sadowniczej – do odpowiednich rejestrów innych państw członkowskich lub do wspólnotowego wykazu odmian roślin sadowniczych;
+- **3)** powszechnie znanej w rozumieniu art. 66 ust. 2 – w przypadku roślin sadowniczych.
 
 2. Odmianę uznaje się za wyrównaną, jeżeli przy uwzględnieniu sposobu rozmnażania właściwego dla tej odmiany jest ona wystarczająco jednolita pod względem właściwości branych pod uwagę przy badaniach odrębności, jak również innych właściwości użytych do opisu tej odmiany.
 
@@ -225,19 +212,19 @@ Art. 127–130. (pominięte)
 
 1. Wniosek o wpis odmiany do krajowego rejestru zawiera:
 
-- **1)** imię i nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę zgłaszającego odmianę, z tym że w przypadku gdy zgłaszającym odmianę jest osoba fizyczna prowadząca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby miejsce i adres wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby;
-- **2)** imię i nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę hodowcy, z tym że w przypadku gdy hodowcą jest osoba fizyczna prowadząca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby miejsce i adres wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby;
-- **3)** imię i nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę zachowującego odmianę, z tym że w przypadku gdy zachowującym odmianę jest osoba fizyczna prowadząca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby miejsce i adres wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby;
+- **1)** imię i nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę zgłaszającego odmianę, z tym że w przypadku gdy zgłaszającym odmianę jest osoba fizyczna prowadząca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby – miejsce i adres wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby;
+- **2)** imię i nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę hodowcy, z tym że w przypadku gdy hodowcą jest osoba fizyczna prowadząca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby – miejsce i adres wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby;
+- **3)** imię i nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę zachowującego odmianę, z tym że w przypadku gdy zachowującym odmianę jest osoba fizyczna prowadząca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby – miejsce i adres wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby;
 - **4)** nazwę rodzaju lub gatunku rośliny uprawnej w języku polskim i nazwę botaniczną;
 - **5)** oznaczenie odmiany na etapie hodowli (nazwę hodowlaną odmiany);
 - **6)** proponowaną nazwę odmiany;
-- **6a)** proponowany okres wpisu odmiany do krajowego rejestru w przypadku roślin sadowniczych;
+- **6a)** proponowany okres wpisu odmiany do krajowego rejestru – w przypadku roślin sadowniczych;
 - **7)** wskazanie miejsca zachowania odmiany;
 - **8)** wskazanie państwa, w którym odmiana została wyhodowana albo odkryta i wyprowadzona;
 - **9)** oświadczenie:
-    - **a)** o zamiarze produkcji materiału siewnego wyłącznie kategorii standard w przypadku roślin warzywnych,
-    - **b)** że materiał siewny nie będzie wykorzystywany do uprawy na cele pastewne w przypadku odmian traw,
-    - **c)** o przeznaczeniu odmiany wyłącznie do wywozu do państw trzecich w przypadku odmian przeznaczonych wyłącznie do wywozu do państw trzecich;
+    - **a)** o zamiarze produkcji materiału siewnego wyłącznie kategorii standard – w przypadku roślin warzywnych,
+    - **b)** że materiał siewny nie będzie wykorzystywany do uprawy na cele pastewne – w przypadku odmian traw,
+    - **c)** o przeznaczeniu odmiany wyłącznie do wywozu do państw trzecich – w przypadku odmian przeznaczonych wyłącznie do wywozu do państw trzecich;
 
 - **10)** informację o złożeniu wniosku o wpis odmiany do rejestru lub o przyznanie wyłącznego prawa hodowcy do odmiany w innym niż Rzeczpospolita Polska państwie członkowskim lub państwie trzecim.
 
@@ -245,9 +232,9 @@ Art. 127–130. (pominięte)
 
 - **1)** upoważnienie do reprezentowania hodowcy lub zachowującego odmianę we wszystkich sprawach związanych z wpisem odmiany do krajowego rejestru, jeżeli wniosku nie składa hodowca lub zachowujący odmianę;
 - **2)** kwestionariusz techniczny zawierający opis odmiany albo składników odmiany mieszańcowej, jeżeli podlegają one badaniom, o których mowa w art. 14 ust. 1;
-- **2a)** kwestionariusz techniczny uwzględniający opis odmiany zawierający cechy charakterystyczne odmiany określone w przepisach wydanych na podstawie ust. 8 w przypadku odmian roślin sadowniczych, które mają być wpisane na sadowniczą listę B, o której mowa w art. 19 ust. 4 pkt 2;
-- **3)** pisemną zgodę hodowcy: o ochronie prawnej odmian roślin (Dz. U. z 2018 r. poz. 432 oraz z 2020 r. poz. 288), zwanym dalej „wyłącznym prawem do odmiany”, lub chroniony wyłącznym prawem hodowcy do odmiany w innym niż Rzeczpospolita Polska państwie członkowskim lub państwie trzecim,
-    - **a)** składników odmiany mieszańcowej na ich wykorzystanie do hodowli, jeżeli składnik tej odmiany mieszańcowej jest chroniony wyłącznym prawem hodowcy do odmiany zgodnie z przepisami ustawy z dnia 26 czerwca 2003 r.
+- **2a)** kwestionariusz techniczny uwzględniający opis odmiany zawierający cechy charakterystyczne odmiany określone w przepisach wydanych na podstawie ust. 8 – w przypadku odmian roślin sadowniczych, które mają być wpisane na sadowniczą listę B, o której mowa w art. 19 ust. 4 pkt 2;
+- **3)** pisemną zgodę hodowcy:
+    - **a)** składników odmiany mieszańcowej na ich wykorzystanie do hodowli, jeżeli składnik tej odmiany mieszańcowej jest chroniony wyłącznym prawem hodowcy do odmiany zgodnie z przepisami ustawy z dnia 26 czerwca 2003 r. o ochronie prawnej odmian roślin (Dz. U. z 2018 r. poz. 432 oraz z 2020 r. poz. 288), zwanym dalej „wyłącznym prawem do odmiany”, lub chroniony wyłącznym prawem hodowcy do odmiany w innym niż Rzeczpospolita Polska państwie członkowskim lub państwie trzecim,
     - **b)** odmiany macierzystej chronionej wyłącznym prawem do odmiany na jej użycie, jeżeli została wykorzystana do hodowli odmiany pochodnej;
 
 - **4)** kopię dowodu uiszczenia opłaty za złożenie wniosku o wpis odmiany do krajowego rejestru, o której mowa w art. 24 ust. 1.
@@ -255,11 +242,13 @@ Art. 127–130. (pominięte)
 3. Do wniosku, o którym mowa w ust. 1, można dołączyć:
 
 - **1)** listę osób fizycznych, które brały udział w wyhodowaniu albo odkryciu i wyprowadzeniu odmiany, pod warunkiem że osoby te wyraziły na to zgodę na piśmie;
-- **2)** urzędowy opis sporządzony przez jednostkę zajmującą się rejestracją odmian w innym niż Rzeczpospolita Polska państwie członkowskim lub państwie trzecim w przypadku odmian roślin sadowniczych.
+- **2)** urzędowy opis sporządzony przez jednostkę zajmującą się rejestracją odmian w innym niż Rzeczpospolita Polska państwie członkowskim lub państwie trzecim – w przypadku odmian roślin sadowniczych.
 
-4. Lista osób fizycznych, o której mowa w ust. 3, zawiera imię i nazwisko oraz adres i miejsce zamieszkania osoby, która wzięła udział w wyhodowaniu albo odkryciu i wyprowadzeniu odmiany, z tym że w przypadku gdy osoba ta prowadzi działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby miejsce i adres wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby.
+4. Lista osób fizycznych, o której mowa w ust. 3, zawiera imię i nazwisko oraz adres i miejsce zamieszkania osoby, która wzięła udział w wyhodowaniu albo odkryciu i wyprowadzeniu odmiany, z tym że w przypadku gdy osoba ta prowadzi działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby – miejsce i adres wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby.
 
 5. Wniosek o wpis odmiany do krajowego rejestru oraz załączniki, o których mowa w ust. 2 pkt 1 i 2 oraz w ust. 3 pkt 1, składa się na formularzach udostępnionych na stronie internetowej administrowanej przez Centralny Ośrodek.
+
+5a. Wniosek o wpis odmiany do krajowego rejestru i załączniki, o których mowa w ust. 2 i 3, można złożyć za pomocą systemu teleinformatycznego, o którym mowa w art. 32b ust. 1.
 
 6. Dane, o których mowa w ust. 2 pkt 2, nie mogą być udostępniane bez zgody zgłaszającego odmianę wyrażonej na piśmie.
 
@@ -269,7 +258,7 @@ Art. 127–130. (pominięte)
 
 **Art. 14.**
 
-1. Przed wpisaniem odmiany do krajowego rejestru Centralny Ośrodek przeprowadza badania odrębności, wyrównania i trwałości, zwane dalej „badaniami OWT”, zgodnie z metodykami opracowanymi na podstawie metodyk Wspólnotowego Urzędu Odmian Roślin (CPVO) albo wytycznych Międzynarodowego Związku Ochrony Nowych Odmian Roślin (UPOV), a w przypadku ich braku zgodnie z metodykami badań opracowanymi przez dyrektora Centralnego Ośrodka.
+1. Przed wpisaniem odmiany do krajowego rejestru Centralny Ośrodek przeprowadza badania odrębności, wyrównania i trwałości, zwane dalej „badaniami OWT”, zgodnie z metodykami opracowanymi na podstawie metodyk Wspólnotowego Urzędu Odmian Roślin (CPVO) albo wytycznych Międzynarodowego Związku Ochrony Nowych Odmian Roślin (UPOV), a w przypadku ich braku – zgodnie z metodykami badań opracowanymi przez dyrektora Centralnego Ośrodka.
 
 2. Przed wpisaniem odmiany roślin rolniczych do krajowego rejestru Centralny Ośrodek przeprowadza badania wartości gospodarczej odmiany, zwane dalej „badaniami WGO”, zgodnie z metodykami badań opracowanymi przez dyrektora Centralnego Ośrodka.
 
@@ -286,7 +275,7 @@ Art. 127–130. (pominięte)
 8. Centralny Ośrodek może:
 
 - **1)** zlecić innemu podmiotowi przeprowadzenie badań, o których mowa w ust. 1 lub 2, lub części tych badań;
-- **2)** uznać wyniki badań OWT wykonanych za granicą, jeżeli są przeprowadzone zgodnie z metodykami albo wytycznymi, o których mowa w ust. 1, a w przypadku ich braku zgodnie z metodykami albo wytycznymi opracowanymi przez jednostkę zajmującą się rejestracją odmian w innym niż Rzeczpospolita Polska państwie członkowskim lub państwie trzecim.
+- **2)** uznać wyniki badań OWT wykonanych za granicą, jeżeli są przeprowadzone zgodnie z metodykami albo wytycznymi, o których mowa w ust. 1, a w przypadku ich braku – zgodnie z metodykami albo wytycznymi opracowanymi przez jednostkę zajmującą się rejestracją odmian w innym niż Rzeczpospolita Polska państwie członkowskim lub państwie trzecim.
 
 **Art. 15.**
 
@@ -343,32 +332,32 @@ Art. 127–130. (pominięte)
 
 2. Dla poszczególnych grup roślin ustala się następujące oznaczenia literowe:
 
-- **1)** R rośliny rolnicze;
-- **2)** W rośliny warzywne;
-- **3)** S rośliny sadownicze.
+- **1)** R – rośliny rolnicze;
+- **2)** W – rośliny warzywne;
+- **3)** S – rośliny sadownicze.
 
 3. W krajowym rejestrze spośród roślin warzywnych wyodrębnia się odmiany, których materiał siewny może być uznany za materiał siewny:
 
-- **1)** kategorii elitarny, kategorii kwalifikowany lub kategorii standard warzywna lista A;
-- **2)** wyłącznie kategorii standard warzywna lista B.
+- **1)** kategorii elitarny, kategorii kwalifikowany lub kategorii standard – warzywna lista A;
+- **2)** wyłącznie kategorii standard – warzywna lista B.
 
 4. W krajowym rejestrze spośród roślin sadowniczych wyodrębnia się odmiany:
 
-- **1)** z urzędowym opisem sadownicza lista A;
-- **2)** z urzędowo uznanym opisem, o którym mowa w art. 16 ust. 4a sadownicza lista B.
+- **1)** z urzędowym opisem – sadownicza lista A;
+- **2)** z urzędowo uznanym opisem, o którym mowa w art. 16 ust. 4a – sadownicza lista B.
 
 **Art. 20.**
 
 1. Wpisu do krajowego rejestru dokonuje się na okres:
 
-- **1)** wskazany przez zachowującego odmianę, nie dłuższy niż 30 lat w przypadku roślin sadowniczych,
-- **2)** 10 lat w przypadku odmian pozostałych gatunków roślin licząc od roku kalendarzowego następującego po roku, w którym dokonano wpisu odmiany do krajowego rejestru.
+- **1)** wskazany przez zachowującego odmianę, nie dłuższy niż 30 lat – w przypadku roślin sadowniczych,
+- **2)** 10 lat – w przypadku odmian pozostałych gatunków roślin – licząc od roku kalendarzowego następującego po roku, w którym dokonano wpisu odmiany do krajowego rejestru.
 
 2. Na wniosek zachowującego odmianę okres wpisu odmiany w krajowym rejestrze może być przedłużony:
 
-- **1)** na okres wskazany przez zachowującego odmianę, nie dłuższy niż 30 lat, jeżeli odmiana nadal spełnia wymagania dotyczące odrębności, wyrównania i trwałości oraz jest uprawiana w przypadku roślin sadowniczych;
-- **2)** o 10 lat, jeżeli odmiana nadal spełnia wymagania dotyczące odrębności, wyrównania i trwałości oraz jest uprawiana w przypadku roślin warzywnych;
-- **3)** o 10 lat, jeżeli odmiana nadal spełnia wymagania dotyczące odrębności, wyrównania i trwałości, jest uprawiana oraz ma znaczenie gospodarcze w przypadku roślin rolniczych.
+- **1)** na okres wskazany przez zachowującego odmianę, nie dłuższy niż 30 lat, jeżeli odmiana nadal spełnia wymagania dotyczące odrębności, wyrównania i trwałości oraz jest uprawiana – w przypadku roślin sadowniczych;
+- **2)** o 10 lat, jeżeli odmiana nadal spełnia wymagania dotyczące odrębności, wyrównania i trwałości oraz jest uprawiana – w przypadku roślin warzywnych;
+- **3)** o 10 lat, jeżeli odmiana nadal spełnia wymagania dotyczące odrębności, wyrównania i trwałości, jest uprawiana oraz ma znaczenie gospodarcze – w przypadku roślin rolniczych.
 
 2a. Do wniosku o przedłużenie okresu wpisu odmiany w krajowym rejestrze przepis art. 13 ust. 1 pkt 6a stosuje się odpowiednio.
 
@@ -386,6 +375,8 @@ Art. 127–130. (pominięte)
 - **2)** o odmowie przedłużenia okresu wpisu odmiany w krajowym rejestrze, jeżeli odmiana nie spełnia wymagań określonych w ust. 2.
 
 8. Od decyzji, o których mowa w ust. 7, zachowującemu odmianę przysługuje odwołanie do ministra właściwego do spraw rolnictwa.
+
+9. Wniosek o przedłużenie okresu wpisu odmiany w krajowym rejestrze i kopię dowodu uiszczenia opłaty za złożenie tego wniosku, o której mowa w art. 24 ust. 1, można złożyć za pomocą systemu teleinformatycznego, o którym mowa w art. 32b ust. 1.
 
 **Art. 21.**
 
@@ -409,7 +400,7 @@ Art. 127–130. (pominięte)
 
 3. Wniosek, o którym mowa w ust. 2, zawiera:
 
-- **1)** imię i nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę wnioskodawcy składającego wniosek, z tym że w przypadku gdy wnioskodawcą składającym wniosek jest osoba fizyczna prowadząca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby miejsce i adres wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby;
+- **1)** imię i nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę wnioskodawcy składającego wniosek, z tym że w przypadku gdy wnioskodawcą składającym wniosek jest osoba fizyczna prowadząca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby – miejsce i adres wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby;
 - **2)** nazwę rodzaju lub gatunku rośliny uprawnej w języku polskim i nazwę botaniczną;
 - **3)** nazwę odmiany;
 - **4)** wskazanie miejsca zachowania odmiany;
@@ -419,6 +410,8 @@ Art. 127–130. (pominięte)
 4. Do wniosku, o którym mowa w ust. 2, dołącza się kopię dowodu uiszczenia opłaty za złożenie wniosku, o której mowa w art. 24 ust. 2.
 
 5. Wniosek, o którym mowa w ust. 2, składa się na formularzu udostępnionym na stronie internetowej administrowanej przez Centralny Ośrodek.
+
+5a. Wniosek, o którym mowa w ust. 2, i kopię dowodu uiszczenia opłaty za złożenie wniosku, o której mowa w art. 24 ust. 2, można złożyć za pomocą systemu teleinformatycznego, o którym mowa w art. 32b ust. 1.
 
 6. Podmiot, o którym mowa w ust. 2:
 
@@ -461,10 +454,10 @@ Art. 127–130. (pominięte)
 - **2)** odmiana przestała spełniać wymagania dotyczące wyrównania lub trwałości;
 - **3)** odmianę zarejestrowano na podstawie fałszywych dowodów;
 - **4)** odmiana zagraża zdrowiu ludzi, zwierząt lub roślin;
-- **5)** zachowujący odmianę:
+- **5)** zachowujący odmianę: 1, co najmniej od 6 miesięcy, lub
     - **a)** złożył wniosek o skreślenie odmiany z krajowego rejestru lub
-    - **b)** zalega z uiszczeniem opłat za wpis odmiany do krajowego rejestru i utrzymanie odmiany w krajowym rejestrze, o których mowa w art. 24 ust. 1, co najmniej od 6 miesięcy, lub
-    - **c)** nie dostarczył bezpłatnie materiału siewnego odmiany w ilości wystarczającej do przeprowadzenia badań w przypadku odmian roślin sadowniczych;
+    - **b)** zalega z uiszczeniem opłat za wpis odmiany do krajowego rejestru i utrzymanie odmiany w krajowym rejestrze, o których mowa w art. 24 ust.
+    - **c)** nie dostarczył bezpłatnie materiału siewnego odmiany w ilości wystarczającej do przeprowadzenia badań – w przypadku odmian roślin sadowniczych;
 
 - **6)** informacje o odmianie zawarte w opisie odmiany uległy zmianie i nie zostały uzupełnione zgodnie z art. 23 ust. 3.
 
@@ -477,7 +470,7 @@ Art. 127–130. (pominięte)
 - **1)** zachowujący odmianę:
     - **a)** nie dostarcza informacji niezbędnych do jej badania i oceny lub
     - **b)** zaprzestał zachowywania odmiany, lub
-    - **c)** nie dostarczył bezpłatnie materiału siewnego odmiany w ilości wystarczającej do przeprowadzenia badań w przypadku odmian roślin rolniczych i warzywnych, lub
+    - **c)** nie dostarczył bezpłatnie materiału siewnego odmiany w ilości wystarczającej do przeprowadzenia badań – w przypadku odmian roślin rolniczych i warzywnych, lub
     - **d)** uniemożliwia przeprowadzenie kontroli zachowania odmiany, lub
     - **e)** nadał odmianie wpisanej do krajowego rejestru nazwę niespełniającą wymagań, o których mowa w art. 6 ust. 1 pkt 2, lub
 
@@ -520,14 +513,14 @@ Art. 127–130. (pominięte)
 1. Odmianę regionalną wpisuje się do krajowego rejestru, jeżeli:
 
 - **1)** ma znaczenie w określonym regionie, w którym odmiana ta była tradycyjnie uprawiana i do którego naturalnie się przystosowała, zwanym dalej „regionem pochodzenia”, dla:
-    - **a)** zachowania materiału genetycznego w jego naturalnym otoczeniu, a w przypadku gatunków roślin uprawnych w środowisku rolniczego gospodarowania, w którym gatunki wykształciły swoje właściwości wyróżniające (zachowania in situ),
+    - **a)** zachowania materiału genetycznego w jego naturalnym otoczeniu, a w przypadku gatunków roślin uprawnych – w środowisku rolniczego gospodarowania, w którym gatunki wykształciły swoje właściwości wyróżniające (zachowania in situ),
     - **b)** zrównoważonego wykorzystania zasobów genetycznych roślin populacji miejscowych i odmian przystosowanych naturalnie do warunków lokalnych i zagrożonych erozją genetyczną;
 
 - **2)** jest odrębna, wyrównana i trwała, przy czym jeżeli poziom wyrównania jest określany na podstawie występowania roślin nietypowych, stosuje się 10% standard populacyjny przy przynajmniej 90% prawdopodobieństwie;
 - **3)** zachowujący odmianę nadał odmianie nazwę zgodnie z wymaganiami, o których mowa w art. 6 ust. 1 pkt 2, przy czym odmianie tej można nadać więcej niż jedną nazwę, jeżeli nazwy te są od dawna znane;
 - **4)** jest zachowywana w regionie pochodzenia;
 - **5)** nie jest wpisana do krajowego rejestru albo wspólnotowego katalogu jako odmiana inna niż odmiana regionalna albo odmiana amatorska lub
-- **6)** została skreślona z krajowego rejestru albo wspólnotowego katalogu co najmniej 2 lata przed dniem złożenia wniosku o jej wpis do krajowego rejestru albo dniem upływu okresu ustalonego na podstawie art. 104 ust. 2 w przypadku, o którym mowa w art. 104 ust. 1 pkt 2;
+- **6)** została skreślona z krajowego rejestru albo wspólnotowego katalogu co najmniej 2 lata przed dniem złożenia wniosku o jej wpis do krajowego rejestru albo dniem upływu okresu ustalonego na podstawie art. 104 ust. 2 – w przypadku, o którym mowa w art. 104 ust. 1 pkt 2;
 - **7)** nie została zgłoszona w celu przyznania wyłącznego prawa do odmiany albo nie jest chroniona wyłącznym prawem do odmiany, albo nie została zgłoszona do ochrony, albo nie jest chroniona przez Wspólnotowy Urząd Odmian Roślin (CPVO).
 
 2. Odmianę amatorską wpisuje się do krajowego rejestru, jeżeli odmiana nie ma znaczenia dla towarowej produkcji warzyw oraz spełnia warunki, o których mowa w ust. 1 pkt 2, 3 i 5–7.
@@ -540,7 +533,7 @@ Art. 127–130. (pominięte)
 
 3. Wniosek, o którym mowa w ust. 1, zawiera:
 
-- **1)** imię i nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę zachowującego odmianę regionalną, z tym że w przypadku gdy zachowującym odmianę regionalną jest osoba fizyczna prowadząca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby miejsce i adres wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby;
+- **1)** imię i nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę zachowującego odmianę regionalną, z tym że w przypadku gdy zachowującym odmianę regionalną jest osoba fizyczna prowadząca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby – miejsce i adres wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby;
 - **2)** nazwę rodzaju lub gatunku rośliny uprawnej w języku polskim i nazwę botaniczną;
 - **3)** nazwę odmiany regionalnej;
 - **4)** wskazanie miejsca zachowania;
@@ -561,12 +554,12 @@ Art. 127–130. (pominięte)
 
 2. Wniosek o wpis odmiany regionalnej oraz odmiany amatorskiej do krajowego rejestru zawiera:
 
-- **1)** imię i nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę zachowującego odpowiednio odmianę regionalną albo amatorską, z tym że w przypadku gdy zachowującym odpowiednio odmianę regionalną albo amatorską jest osoba fizyczna prowadząca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby miejsce i adres wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby;
+- **1)** imię i nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę zachowującego odpowiednio odmianę regionalną albo amatorską, z tym że w przypadku gdy zachowującym odpowiednio odmianę regionalną albo amatorską jest osoba fizyczna prowadząca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby – miejsce i adres wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby;
 - **2)** nazwę rodzaju lub gatunku rośliny uprawnej w języku polskim i nazwę botaniczną;
 - **3)** nazwę odpowiednio odmiany regionalnej albo odmiany amatorskiej;
 - **4)** wskazanie miejsca zachowania odpowiednio odmiany regionalnej albo odmiany amatorskiej;
-- **5)** wskazanie regionu pochodzenia, którego położenie określa się zgodnie z granicami jednostek zasadniczego trójstopniowego podziału terytorialnego państwa w przypadku odmian regionalnych;
-- **6)** datę skreślenia odmiany odpowiednio z krajowego rejestru lub wspólnotowego katalogu albo dzień wygaśnięcia okresu określonego w art. 104 ust. 2 w przypadku, o którym mowa w art. 104 ust. 1 pkt 2.
+- **5)** wskazanie regionu pochodzenia, którego położenie określa się zgodnie z granicami jednostek zasadniczego trójstopniowego podziału terytorialnego państwa – w przypadku odmian regionalnych;
+- **6)** datę skreślenia odmiany odpowiednio z krajowego rejestru lub wspólnotowego katalogu albo dzień wygaśnięcia okresu określonego w art. 104 ust. 2 – w przypadku, o którym mowa w art. 104 ust. 1 pkt 2.
 
 3. Do wniosku, o którym mowa w ust. 1, dołącza się:
 
@@ -579,9 +572,11 @@ Art. 127–130. (pominięte)
 
 - **1)** wyniki badań OWT przeprowadzonych przez jednostki inne niż Centralny Ośrodek,
 - **2)** informacje o wiedzy uzyskanej w trakcie uprawy, rozmnażania i wykorzystania odpowiednio odmiany regionalnej albo odmiany amatorskiej,
-- **3)** informacje dotyczące odpowiednio odmiany regionalnej albo odmiany amatorskiej inne niż określone w pkt 2, uzyskane w szczególności od jednostek odpowiedzialnych za genetyczne zasoby roślin lub od organizacji wyznaczonych do tego celu przez inne niż Rzeczpospolita Polska państwa członkowskie jeżeli zachowujący odmianę je posiada.
+- **3)** informacje dotyczące odpowiednio odmiany regionalnej albo odmiany amatorskiej inne niż określone w pkt 2, uzyskane w szczególności od jednostek odpowiedzialnych za genetyczne zasoby roślin lub od organizacji wyznaczonych do tego celu przez inne niż Rzeczpospolita Polska państwa członkowskie – jeżeli zachowujący odmianę je posiada.
 
 5. Wniosek o wpis odmiany regionalnej albo odmiany amatorskiej do krajowego rejestru oraz kwestionariusz techniczny składa się na formularzach udostępnionych na stronie internetowej administrowanej przez Centralny Ośrodek.
+
+5a. Wniosek o wpis odmiany regionalnej albo odmiany amatorskiej do krajowego rejestru i załączniki, o których mowa w ust. 3 i 4, można złożyć za pomocą systemu teleinformatycznego, o którym mowa w art. 32b ust. 1.
 
 6. Dane, o których mowa w ust. 3 pkt 3, nie mogą być udostępniane bez pisemnej zgody zachowującego odmianę regionalną albo odmianę amatorską.
 
@@ -616,11 +611,19 @@ Art. 127–130. (pominięte)
 
 - **1)** wpisu odmiany regionalnej i odmiany amatorskiej do krajowego rejestru,
 - **2)** skreślenia odmiany regionalnej i odmiany amatorskiej z krajowego rejestru,
-- **3)** przedłużenia okresu wpisu odmiany regionalnej i odmiany amatorskiej w krajowym rejestrze zachowującemu odmianę przysługuje odwołanie do ministra właściwego do spraw rolnictwa.
+- **3)** przedłużenia okresu wpisu odmiany regionalnej i odmiany amatorskiej w krajowym rejestrze – zachowującemu odmianę przysługuje odwołanie do ministra właściwego do spraw rolnictwa.
 
 6. W przypadku odmian regionalnych i odmian amatorskich nie pobiera się opłat za czynności, o których mowa w art. 24 ust. 1 i 2.
 
 **Art. 32a.** Do odmian regionalnych i odmian amatorskich, w przypadku gdy odmiana jest zachowywana przez więcej niż jednego zachowującego odmianę, przepisy art. 22 stosuje się odpowiednio.
+
+**Art. 32b.**
+
+1. Dyrektor Centralnego Ośrodka buduje i utrzymuje system teleinformatyczny umożliwiający złożenie wniosków, o których mowa w art. 13 ust. 1, art. 20 ust. 2, art. 22 ust. 2 i art. 30 ust. 1, i załączników, o których mowa w art. 13 ust. 2 i 3, art. 20 ust. 5, art. 22 ust. 4 i art. 30 ust. 3 i 4, administruje tym systemem i udostępnia go wnioskodawcy.
+
+2. System teleinformatyczny, o którym mowa w ust. 1, umożliwia wprowadzanie, przechowywanie, przetwarzanie i agregowanie informacji określonych w art. 13 ust. 1–3, art. 20 ust. 2 i 5, art. 22 ust. 3 i 4 oraz art. 30 ust. 2–4, w tym następujących danych osobowych – imienia i nazwiska oraz adresu i miejsca zamieszkania albo nazwy oraz adresu i siedziby wnioskodawcy, z tym że w przypadku gdy wnioskodawcą jest osoba fizyczna prowadząca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby – miejsca i adresu wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby.
+
+3. Wprowadzenie przez wnioskodawcę lub osobę uprawnioną do jego reprezentowania informacji, o których mowa w ust. 2, w systemie teleinformatycznym, o którym mowa w ust. 1, następuje po uwierzytelnieniu w tym systemie w sposób określony w art. 20a ust. 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2025 r. poz. 1703).
 
 ## TYTUŁ III Wytwarzanie i ocena materiału siewnego
 
@@ -669,12 +672,14 @@ Art. 127–130. (pominięte)
 
 2. Wniosek o dokonanie oceny polowej materiału siewnego składają:
 
-- **1)** zachowujący odmianę lub upoważniona przez niego osoba, która będzie prowadzić obrót materiałem siewnym w przypadku odmian chronionych wyłącznym prawem do odmiany;
-- **2)** prowadzący obrót w przypadku odmian niechronionych wyłącznym prawem do odmiany.
+- **1)** zachowujący odmianę lub upoważniona przez niego osoba, która będzie prowadzić obrót materiałem siewnym – w przypadku odmian chronionych wyłącznym prawem do odmiany;
+- **2)** prowadzący obrót – w przypadku odmian niechronionych wyłącznym prawem do odmiany.
 
 3. Wniosek o dokonanie oceny polowej materiału siewnego na plantacji nasiennej obsianej lub obsadzonej materiałem matecznym lub materiałem siewnym kategorii elitarny o obniżonej zdolności kiełkowania może złożyć wyłącznie zachowujący odmianę, w odniesieniu do własnych odmian.
 
 4. Wniosek o dokonanie oceny polowej materiału siewnego składa się do wojewódzkiego inspektora ochrony roślin i nasiennictwa, zwanego dalej „wojewódzkim inspektorem”, właściwego ze względu na położenie plantacji nasiennej.
+
+4a. Wniosek o dokonanie oceny polowej materiału siewnego składa się na formularzu udostępnionym na stronie internetowej administrowanej przez wojewódzki inspektorat ochrony roślin i nasiennictwa.
 
 5. Wniosek o dokonanie oceny polowej materiału siewnego wieloletnich roślin rolniczych składa się w każdym roku oceny polowej.
 
@@ -682,16 +687,16 @@ Art. 127–130. (pominięte)
 
 7. Wniosek o dokonanie oceny polowej materiału siewnego zawiera:
 
-- **1)** imię i nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę prowadzącego obrót, z tym że w przypadku gdy prowadzącym obrót jest osoba fizyczna prowadząca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby miejsce i adres wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby, oraz numer identyfikacji podatkowej (NIP) prowadzącego obrót, jeżeli został nadany;
-- **2)** imię i nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę producenta, z tym że w przypadku gdy producentem jest osoba fizyczna prowadząca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby miejsce i adres wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby;
+- **1)** imię i nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę prowadzącego obrót, z tym że w przypadku gdy prowadzącym obrót jest osoba fizyczna prowadząca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby – miejsce i adres wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby, oraz numer identyfikacji podatkowej (NIP) prowadzącego obrót, jeżeli został nadany;
+- **2)** imię i nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę producenta, z tym że w przypadku gdy producentem jest osoba fizyczna prowadząca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby – miejsce i adres wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby;
 - **3)** określenie miejsca położenia plantacji nasiennej, w tym nazwę miejscowości, gminy i powiatu oraz dwucyfrowy symbol województwa i dwucyfrowy symbol powiatu danego województwa;
 - **4)** nazwę odmiany i gatunku rośliny uprawnej;
-- **5)** formułę mieszańca w przypadku odmian mieszańcowych;
+- **5)** formułę mieszańca – w przypadku odmian mieszańcowych;
 - **6)** określenie stopnia kwalifikacji wysianego materiału siewnego oraz numer i datę świadectwa oceny laboratoryjnej lub informacji o wynikach badania materiału siewnego, z wyłączeniem materiału matecznego;
 - **7)** numer partii materiału siewnego użytego do siewu, z wyłączeniem materiału matecznego;
 - **8)** oznaczenie powierzchni plantacji nasiennej;
 - **9)** określenie roku założenia plantacji nasiennej;
-- **10)** określenie roku zbioru materiału siewnego w przypadku roślin o dwuletnim cyklu produkcyjnym oraz roślin wieloletnich;
+- **10)** określenie roku zbioru materiału siewnego – w przypadku roślin o dwuletnim cyklu produkcyjnym oraz roślin wieloletnich;
 - **11)** informację o przedplonie;
 - **12)** określenie przewidywanej:
     - **a)** wielkości zbioru,
@@ -699,16 +704,16 @@ Art. 127–130. (pominięte)
 
 - **13)** informację o tym, czy plantacja nasienna jest kwalifikowana zgodnie z:
     - **a)** systemami OECD,
-    - **b)** systemem określonym przez Europejską Komisję Gospodarczą Organizacji Narodów Zjednoczonych (EKG ONZ) w przypadku sadzeniaków ziemniaka.
+    - **b)** systemem określonym przez Europejską Komisję Gospodarczą Organizacji Narodów Zjednoczonych (EKG ONZ) – w przypadku sadzeniaków ziemniaka.
 
 8. Do wniosku o dokonanie oceny polowej materiału siewnego dołącza się:
 
-- **1)** oświadczenie zachowującego odmianę, że materiał siewny został wyprodukowany zgodnie z metodyką hodowli przyjętą dla danej odmiany, oraz własne oznaczenie odmiany identyfikujące materiał siewny użyty do siewu w przypadku zgłaszania do oceny polowej materiału siewnego na plantacji obsianej albo obsadzonej materiałem matecznym;
-- **2)** opis składników odmiany mieszańcowej w przypadku zgłaszania do oceny polowej odmiany mieszańcowej; w opisie nie uwzględnia się składników, którymi są odmiany wpisane do krajowego rejestru lub wspólnotowych katalogów;
+- **1)** oświadczenie zachowującego odmianę, że materiał siewny został wyprodukowany zgodnie z metodyką hodowli przyjętą dla danej odmiany, oraz własne oznaczenie odmiany identyfikujące materiał siewny użyty do siewu – w przypadku zgłaszania do oceny polowej materiału siewnego na plantacji obsianej albo obsadzonej materiałem matecznym;
+- **2)** opis składników odmiany mieszańcowej – w przypadku zgłaszania do oceny polowej odmiany mieszańcowej; w opisie nie uwzględnia się składników, którymi są odmiany wpisane do krajowego rejestru lub wspólnotowych katalogów;
 - **3)** oryginał albo kopię protokołu pobrania próby materiału siewnego do oceny tożsamości i czystości odmianowej;
-- **4)** oryginał albo kopię dokumentu zakupu zawierającego w szczególności numer partii i stopień kwalifikacji w przypadku zgłaszania do oceny polowej materiału siewnego na plantacji nasiennej obsianej albo obsadzonej materiałem siewnym kategorii elitarny albo kategorii kwalifikowany, z wyłączeniem plantacji nasiennej obsianej albo obsadzonej przez zachowującego odmianę materiałem siewnym własnej odmiany w gospodarstwie będącym w jego posiadaniu;
-- **5)** dla partii materiału siewnego wytworzonego poza terytorium Rzeczypospolitej Polskiej dokument potwierdzający spełnienie wymagań jakościowych, a w przypadku sadzeniaków ziemniaka również wymagań zdrowotności, wystawiony przez właściwy dla danego państwa urząd kwalifikacyjny.
-- **6)** oryginał albo kopię decyzji dyrektora Centralnego Ośrodka w sprawie wyrażenia zgody na wprowadzenie do obrotu materiału siewnego przeznaczonego do testów lub doświadczeń polowych albo zgody w tym zakresie właściwego urzędu państwa członkowskiego, o których mowa w art. 108 ust. 1 i 2 w przypadku zgłaszania do oceny materiału siewnego na plantacji nasiennej obsianej lub obsadzonej materiałem siewnym odmian roślin rolniczych lub warzywnych, zgłoszonych do krajowego rejestru lub rejestrów innych państw członkowskich, przeznaczonym do testów i doświadczeń polowych.
+- **4)** oryginał albo kopię dokumentu zakupu zawierającego w szczególności numer partii i stopień kwalifikacji – w przypadku zgłaszania do oceny polowej materiału siewnego na plantacji nasiennej obsianej albo obsadzonej materiałem siewnym kategorii elitarny albo kategorii kwalifikowany, z wyłączeniem plantacji nasiennej obsianej albo obsadzonej przez zachowującego odmianę materiałem siewnym własnej odmiany w gospodarstwie będącym w jego posiadaniu;
+- **5)** dla partii materiału siewnego wytworzonego poza terytorium Rzeczypospolitej Polskiej dokument potwierdzający spełnienie wymagań jakościowych, a w przypadku sadzeniaków ziemniaka – również wymagań zdrowotności, wystawiony przez właściwy dla danego państwa urząd kwalifikacyjny.
+- **6)** oryginał albo kopię decyzji dyrektora Centralnego Ośrodka w sprawie wyrażenia zgody na wprowadzenie do obrotu materiału siewnego przeznaczonego do testów lub doświadczeń polowych albo zgody w tym zakresie właściwego urzędu państwa członkowskiego, o których mowa w art. 108 ust. 1 i 2 – w przypadku zgłaszania do oceny materiału siewnego na plantacji nasiennej obsianej lub obsadzonej materiałem siewnym odmian roślin rolniczych lub warzywnych, zgłoszonych do krajowego rejestru lub rejestrów innych państw członkowskich, przeznaczonym do testów i doświadczeń polowych.
 
 9. W przypadku wniosku o dokonanie oceny polowej materiału siewnego wieloletnich roślin rolniczych dokumenty, o których mowa w ust. 8, dołącza się tylko w pierwszym roku oceny.
 
@@ -716,7 +721,7 @@ Art. 127–130. (pominięte)
 
 - **1)** świadectwo Międzynarodowego Związku Oceny Nasion (ISTA) oraz certyfikat stwierdzający stopień kwalifikacji lub kategorię materiału siewnego, spełniające wymagania odpowiedniego systemu OECD;
 - **2)** etykietę każdej partii materiału siewnego użytego do obsiewu plantacji;
-- **3)** oświadczenie zachowującego odmianę, że materiał siewny został wyprodukowany zgodnie z metodyką hodowli przyjętą dla danej odmiany oraz własne oznaczenie odmiany identyfikujące materiał siewny użyty do siewu w przypadku zgłaszania do oceny polowej materiału siewnego na plantacji obsianej albo obsadzonej materiałem matecznym;
+- **3)** oświadczenie zachowującego odmianę, że materiał siewny został wyprodukowany zgodnie z metodyką hodowli przyjętą dla danej odmiany oraz własne oznaczenie odmiany identyfikujące materiał siewny użyty do siewu – w przypadku zgłaszania do oceny polowej materiału siewnego na plantacji obsianej albo obsadzonej materiałem matecznym;
 - **4)** pisemną zgodę właściwego urzędu kwalifikacyjnego państwa trzeciego, w którym odmiana jest wpisana do rejestru i której materiał siewny podlega wytwarzaniu.
 
 11. Wnioskodawca, składając wniosek o dokonanie oceny polowej materiału siewnego roślin rolniczych lub warzywnych:
@@ -726,6 +731,8 @@ Art. 127–130. (pominięte)
 
 12. Danych, o których mowa w ust. 8 pkt 2, nie udostępnia się bez pisemnej zgody zachowującego odmianę.
 
+12a. Wniosek o dokonanie oceny polowej materiału siewnego, upoważnienie zachowującego odmianę do złożenia wniosku w jego imieniu i załączniki, o których mowa w ust. 8, 10 i 11, można złożyć za pomocą systemu teleinformatycznego, o którym mowa w art. 36b ust. 1.
+
 13. (uchylony)
 
 **Art. 36a.**
@@ -733,6 +740,14 @@ Art. 127–130. (pominięte)
 1. Wnioskodawca, który złożył wniosek o dokonanie oceny polowej materiału siewnego roślin rolniczych lub warzywnych, przechowuje etykiety dotyczące partii materiału siewnego użytego do siewu lub sadzenia do czasu zakończenia oceny tego materiału i okazuje je na żądanie organu dokonującego oceny albo przekazuje je producentowi materiału siewnego.
 
 2. W przypadku gdy wnioskodawca przekaże producentowi materiału siewnego etykiety, o których mowa w ust. 1, producent materiału siewnego jest obowiązany do przechowywania etykiet do czasu zakończenia oceny tego materiału i okazywania etykiet na żądanie organu dokonującego oceny.
+
+**Art. 36b.**
+
+1. Główny Inspektor buduje i utrzymuje system teleinformatyczny umożliwiający złożenie wniosków, o których mowa w art. 36 ust. 2, i załączników, o których mowa w art. 36 ust. 8, 10 i 11, administruje tym systemem i udostępnia go wnioskodawcy.
+
+2. System teleinformatyczny, o którym mowa w ust. 1, umożliwia wprowadzanie, przechowywanie, przetwarzanie i agregowanie informacji określonych w art. 36 ust. 7, 8, 10 i 11 i informacji zawartych w upoważnieniu zachowującego odmianę do złożenia wniosku w jego imieniu, w tym następujących danych osobowych – imienia i nazwiska oraz adresu i miejsca zamieszkania albo nazwy oraz adresu i siedziby wnioskodawcy, z tym że w przypadku gdy wnioskodawcą jest osoba fizyczna prowadząca działalność gospodarczą zamiast adresu i miejsca zamieszkania tej osoby – miejsca i adresu wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby, oraz numeru identyfikacji podatkowej (NIP) prowadzącego obrót, jeżeli został nadany.
+
+3. Wprowadzenie przez wnioskodawcę lub osobę uprawnioną do jego reprezentowania informacji, o których mowa w ust. 2, w systemie teleinformatycznym, o którym mowa w ust. 1, następuje po uwierzytelnieniu w tym systemie w sposób określony w art. 20a ust. 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
 
 **Art. 37.** Przy wytwarzaniu materiału siewnego kategorii kwalifikowany powierzchnia plantacji nasiennych roślin rolniczych nie może być mniejsza niż:
 
@@ -764,16 +779,13 @@ Art. 127–130. (pominięte)
 
 1. Oceny materiału siewnego roślin rolniczych i warzywnych dokonuje, jeżeli przepisy ustawy nie stanowią inaczej, wojewódzki inspektor właściwy ze względu na:
 
-- **1)** położenie plantacji w przypadku oceny polowej;
-- **2)** miejsce pobierania prób w przypadku oceny laboratoryjnej oraz oceny weryfikacyjnej;
+- **1)** położenie plantacji – w przypadku oceny polowej;
 - **2)** (uchylony)
-- **3)** miejsce dokonywania przerobu w przypadku oceny cech zewnętrznych.
+- **3)** miejsce dokonywania przerobu – w przypadku oceny cech zewnętrznych.
 
 2. Jeżeli wojewódzki inspektor, o którym mowa w ust. 1, nie może dokonać oceny materiału siewnego, Główny Inspektor Ochrony Roślin i Nasiennictwa, zwany dalej „Głównym Inspektorem”, wskazuje innego wojewódzkiego inspektora, który dokona oceny tego materiału.
 
-**Art. 42a.**
-
-- **5)** Oceny laboratoryjnej materiału siewnego roślin rolniczych i warzywnych dokonuje Główny Inspektor.
+**Art. 42a.** Oceny laboratoryjnej materiału siewnego roślin rolniczych i warzywnych dokonuje Główny Inspektor.
 
 **Art. 43.**
 
@@ -789,13 +801,11 @@ Art. 127–130. (pominięte)
 
 **Art. 44.**
 
-1. Oceny laboratoryjnej materiału siewnego roślin rolniczych i warzywnych dokonują laboratoria wojewódzkich inspektoratów ochrony roślin i nasiennictwa, zwane dalej „urzędowymi laboratoriami”.
-
 1. Oceny laboratoryjnej materiału siewnego roślin rolniczych i warzywnych dokonują laboratoria Głównego Inspektora, zwane dalej „urzędowymi laboratoriami”.
 
 2. Oceny laboratoryjnej materiału siewnego roślin warzywnych, w celu uznania go za materiał siewny kategorii standard własnych odmian, dokonuje zachowujący odmianę.
 
-3. Oceny laboratoryjnej materiału siewnego roślin rolniczych i warzywnych, z zastrzeżeniem art. 45, mogą dokonywać również laboratoria, które uzyskały akredytację wojewódzkiego inspektora, zwane dalej „akredytowanymi laboratoriami”: Oceny laboratoryjnej materiału siewnego roślin rolniczych i warzywnych, z uwzględnieniem art. 45 ust. 1, mogą dokonywać również laboratoria, które uzyskały akredytację Głównego Inspektora, zwane dalej „akredytowanymi laboratoriami”:
+3. Oceny laboratoryjnej materiału siewnego roślin rolniczych i warzywnych, z uwzględnieniem art. 45 ust. 1, mogą dokonywać również laboratoria, które uzyskały akredytację Głównego Inspektora, zwane dalej „akredytowanymi laboratoriami”:
 
 - **1)** prowadzone przez prowadzącego obrót w odniesieniu do własnego materiału siewnego;
 - **2)** których działalność nie jest w żaden sposób powiązana z hodowlą, wytwarzaniem i obrotem materiałem siewnym gatunków (samodzielne laboratoria).
@@ -829,7 +839,7 @@ Art. 127–130. (pominięte)
 3. Próby, o których mowa w ust. 2, mogą być pobierane w sposób automatyczny za pomocą urządzenia do automatycznego pobierania prób, jeżeli:
 
 - **1)** urządzenie to zapewnia pobranie reprezentatywnej próby ogólnej nasion do oceny laboratoryjnej materiału siewnego, a w szczególności:
-    - **a)** mechanizm pobierający próby pierwotne jest zainstalowany w strumieniu nasion linii technologicznej, który pobiera: niewielkie ilości nasion z całego przekroju strumienia nasion, próbę ogólną z całej partii w sposób ciągły lub cykliczny,
+    - **a)** mechanizm pobierający próby pierwotne jest zainstalowany w strumieniu nasion linii technologicznej, który pobiera: – niewielkie ilości nasion z całego przekroju strumienia nasion, – próbę ogólną z całej partii w sposób ciągły lub cykliczny,
     - **b)** połączenie mechanizmu pobierającego próby pierwotne i pojemnika na próbę ogólną oraz ten pojemnik są zabezpieczone przed dostępem osób trzecich;
 
 - **2)** urządzenie to posiada płynną i precyzyjną regulację wielkości pobieranej próby;
@@ -837,11 +847,11 @@ Art. 127–130. (pominięte)
 
 4. Pobieranie prób materiału siewnego do oceny laboratoryjnej za pomocą urządzenia do automatycznego pobierania prób wymaga uzyskania zgody wojewódzkiego inspektora wydanej w drodze decyzji.
 
-5. Decyzja, o której mowa w ust. 4, jest wydawana, na wniosek prowadzącego obrót, przez wojewódzkiego inspektora właściwego ze względu na miejsce zamieszkania albo siedzibę prowadzącego obrót, albo miejsce wykonywania działalności gospodarczej, jeżeli jest inne niż miejsce zamieszkania prowadzącego obrót w przypadku gdy prowadzącym obrót jest osoba fizyczna prowadząca działalność gospodarczą.
+5. Decyzja, o której mowa w ust. 4, jest wydawana, na wniosek prowadzącego obrót, przez wojewódzkiego inspektora właściwego ze względu na miejsce zamieszkania albo siedzibę prowadzącego obrót, albo miejsce wykonywania działalności gospodarczej, jeżeli jest inne niż miejsce zamieszkania prowadzącego obrót – w przypadku gdy prowadzącym obrót jest osoba fizyczna prowadząca działalność gospodarczą.
 
 6. Wniosek, o którym mowa w ust. 5, zawiera:
 
-- **1)** imię i nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę prowadzącego obrót, z tym że w przypadku gdy prowadzącym obrót jest osoba fizyczna prowadząca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby miejsce i adres wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby;
+- **1)** imię i nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę prowadzącego obrót, z tym że w przypadku gdy prowadzącym obrót jest osoba fizyczna prowadząca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby – miejsce i adres wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby;
 - **2)** typ i warunki techniczne oraz oznaczenie identyfikacyjne urządzenia do automatycznego pobierania prób;
 - **3)** imię i nazwisko osoby fizycznej, o której mowa w art. 47 ust. 1 pkt 2, odpowiedzialnej za prawidłowe pobieranie prób w sposób automatyczny.
 
@@ -849,7 +859,7 @@ Art. 127–130. (pominięte)
 
 8. W decyzji, o której mowa w ust. 4, określa się:
 
-- **1)** imię i nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę prowadzącego obrót, z tym że w przypadku gdy prowadzącym obrót jest osoba fizyczna prowadząca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby miejsce i adres wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby;
+- **1)** imię i nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę prowadzącego obrót, z tym że w przypadku gdy prowadzącym obrót jest osoba fizyczna prowadząca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby – miejsce i adres wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby;
 - **2)** imię i nazwisko osoby fizycznej, o której mowa w art. 47 ust. 1 pkt 2, odpowiedzialnej za prawidłowe pobieranie prób w sposób automatyczny;
 - **3)** typ oraz oznaczenie identyfikacyjne urządzenia do automatycznego pobierania prób;
 - **4)** okres, na jaki została wydana zgoda na pobieranie prób materiału siewnego do oceny laboratoryjnej za pomocą urządzenia do automatycznego pobierania prób.
@@ -883,10 +893,10 @@ Art. 127–130. (pominięte)
 - **2)** nazwę gatunku rośliny uprawnej;
 - **3)** nazwę odmiany;
 - **4)** oznaczenie stopnia kwalifikacji;
-- **5)** numer partii materiału siewnego, a w przypadku próby sadzeniaków ziemniaka do oceny weryfikacyjnej numer świadectwa oceny polowej;
+- **5)** numer partii materiału siewnego, a w przypadku próby sadzeniaków ziemniaka do oceny weryfikacyjnej – numer świadectwa oceny polowej;
 - **6)** datę pobrania próby;
-- **7)** informację o wielkości partii materiału siewnego, a w przypadku próby sadzeniaków ziemniaka do oceny weryfikacyjnej informację o wielkości plantacji nasiennej;
-- **8)** podpis właściciela partii materiału siewnego lub osoby upoważnionej, a w przypadku próby sadzeniaków ziemniaka do oceny weryfikacyjnej właściciela plantacji nasiennej lub osoby upoważnionej;
+- **7)** informację o wielkości partii materiału siewnego, a w przypadku próby sadzeniaków ziemniaka do oceny weryfikacyjnej – informację o wielkości plantacji nasiennej;
+- **8)** podpis właściciela partii materiału siewnego lub osoby upoważnionej, a w przypadku próby sadzeniaków ziemniaka do oceny weryfikacyjnej – właściciela plantacji nasiennej lub osoby upoważnionej;
 - **9)** podpis urzędowego próbobiorcy albo akredytowanego próbobiorcy.
 
 5. Próby materiału siewnego pobrane do oceny laboratoryjnej przechowuje się przez okres wskazany w przepisach wydanych na podstawie art. 51 pkt 3.
@@ -899,11 +909,7 @@ Art. 127–130. (pominięte)
 
 **Art. 49.**
 
-1. Jeżeli składający wniosek o dokonanie oceny polowej, oceny laboratoryjnej, oceny weryfikacyjnej lub oceny cech zewnętrznych materiału siewnego roślin rolniczych lub warzywnych nie zgadza się z wynikiem oceny dokonanej przez wojewódzkiego inspektora, może złożyć wniosek o ponowne dokonanie oceny do Głównego Inspektora za pośrednictwem tego wojewódzkiego inspektora.
-
 1. Jeżeli składający wniosek o dokonanie oceny polowej lub oceny cech zewnętrznych materiału siewnego roślin rolniczych lub warzywnych nie zgadza się z wynikiem oceny dokonanej przez wojewódzkiego inspektora, może złożyć wniosek o ponowne dokonanie oceny do Głównego Inspektora za pośrednictwem tego wojewódzkiego inspektora.
-
-2. Jeżeli składający wniosek o dokonanie oceny polowej, oceny laboratoryjnej, oceny weryfikacyjnej lub oceny cech zewnętrznych materiału siewnego roślin rolniczych lub warzywnych nie zgadza się z wynikiem oceny dokonanej przez akredytowane podmioty, może złożyć wniosek o ponowne dokonanie oceny do wojewódzkiego inspektora właściwego ze względu na miejsce dokonywania oceny.
 
 2. Jeżeli składający wniosek o dokonanie oceny polowej lub oceny cech zewnętrznych materiału siewnego roślin rolniczych lub warzywnych nie zgadza się z wynikiem oceny dokonanej przez akredytowane podmioty, może złożyć wniosek o ponowne dokonanie oceny do wojewódzkiego inspektora właściwego ze względu na miejsce dokonywania oceny.
 
@@ -913,10 +919,10 @@ Art. 127–130. (pominięte)
 
 4. Ponowne dokonanie oceny polowej lub oceny cech zewnętrznych może być przeprowadzone z udziałem urzędowego kwalifikatora albo akredytowanego kwalifikatora, który dokonał oceny, o której mowa w ust. 1 lub 2.
 
-5. Wniosek, o którym mowa w ust. 1 i 2, składa się w terminie 7 dni, a w przypadku: Wniosek, o którym mowa w ust. 1–2a, składa się w terminie 7 dni, a w przypadku:
+5. Wniosek, o którym mowa w ust. 1–2a, składa się w terminie 7 dni, a w przypadku:
 
-- **1)** oceny polowej lub oceny cech zewnętrznych w terminie 3 dni,
-- **2)** oceny polowej mieszańca kukurydzy w terminie dnia bezpośrednio w siedzibie wojewódzkiego inspektora właściwego ze względu na położenie plantacji.
+- **1)** oceny polowej lub oceny cech zewnętrznych – w terminie 3 dni,
+- **2)** oceny polowej mieszańca kukurydzy – w terminie dnia – bezpośrednio w siedzibie wojewódzkiego inspektora właściwego ze względu na położenie plantacji.
 
 6. Termin, o którym mowa w ust. 5, biegnie od dnia otrzymania świadectwa albo informacji, o których mowa w art. 73 ust. 1, przez wnioskodawcę lub osobę przez niego wskazaną, która była obecna przy ocenie materiału siewnego.
 
@@ -930,8 +936,8 @@ Art. 127–130. (pominięte)
 
 4. Po dokonaniu degradacji:
 
-- **1)** całej partii materiału siewnego wydaje się świadectwo oceny laboratoryjnej, z tym że w przypadku gdy świadectwo oceny laboratoryjnej zostało już wydane, nowe świadectwo oceny laboratoryjnej wydaje się po uprzednim anulowaniu świadectwa oceny laboratoryjnej, dokonanym przez przekreślenie świadectwa i umieszczenie na nim wyrazu „anulowano” oraz opatrzeniu go podpisem kierownika laboratorium oceny nasion właściwego ze względu na miejsce dokonania degradacji lub kierownika akredytowanego laboratorium;
-- **2)** części partii materiału siewnego zdegradowanej części partii nadaje się nowy numer partii oraz wydaje się świadectwo oceny laboratoryjnej, z tym że w przypadku gdy świadectwo oceny laboratoryjnej zostało już wydane, umieszcza się na nim informację o ilości zdegradowanego materiału siewnego oraz wyrazy „częściowa degradacja” i na podstawie tego świadectwa wydaje się nowe świadectwo oceny laboratoryjnej; na nowym świadectwie umieszcza się wyrazy „częściowa degradacja” oraz opatruje je podpisem kierownika laboratorium oceny nasion właściwego ze względu na miejsce dokonania degradacji lub kierownika akredytowanego laboratorium.
+- **1)** całej partii materiału siewnego – wydaje się świadectwo oceny laboratoryjnej, z tym że w przypadku gdy świadectwo oceny laboratoryjnej zostało już wydane, nowe świadectwo oceny laboratoryjnej wydaje się po uprzednim anulowaniu świadectwa oceny laboratoryjnej, dokonanym przez przekreślenie świadectwa i umieszczenie na nim wyrazu „anulowano” oraz opatrzeniu go podpisem kierownika laboratorium oceny nasion właściwego ze względu na miejsce dokonania degradacji lub kierownika akredytowanego laboratorium;
+- **2)** części partii materiału siewnego – zdegradowanej części partii nadaje się nowy numer partii oraz wydaje się świadectwo oceny laboratoryjnej, z tym że w przypadku gdy świadectwo oceny laboratoryjnej zostało już wydane, umieszcza się na nim informację o ilości zdegradowanego materiału siewnego oraz wyrazy „częściowa degradacja” i na podstawie tego świadectwa wydaje się nowe świadectwo oceny laboratoryjnej; na nowym świadectwie umieszcza się wyrazy „częściowa degradacja” oraz opatruje je podpisem kierownika laboratorium oceny nasion właściwego ze względu na miejsce dokonania degradacji lub kierownika akredytowanego laboratorium.
 
 5. Degradacji partii materiału siewnego lub części partii materiału siewnego dokonuje się bez wykonania oceny laboratoryjnej materiału siewnego.
 
@@ -951,7 +957,7 @@ Art. 127–130. (pominięte)
 
 5. Wniosek, o którym mowa w ust. 3, zawiera:
 
-- **1)** imię i nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę zachowującego odmianę regionalną, z tym że w przypadku gdy zachowującym odmianę regionalną jest osoba fizyczna prowadząca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby miejsce i adres wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby;
+- **1)** imię i nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę zachowującego odmianę regionalną, z tym że w przypadku gdy zachowującym odmianę regionalną jest osoba fizyczna prowadząca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby – miejsce i adres wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby;
 - **2)** nazwę rodzaju lub gatunku rośliny uprawnej w języku polskim i nazwę botaniczną;
 - **3)** nazwę odmiany;
 - **4)** wskazanie regionu pochodzenia, którego położenie określa się zgodnie z granicami jednostek zasadniczego trójstopniowego podziału terytorialnego państwa;
@@ -963,16 +969,16 @@ Art. 127–130. (pominięte)
 
 1. Zachowujący odmianę dokonuje oceny polowej i oceny laboratoryjnej materiału siewnego:
 
-- **1)** odmian regionalnych roślin rolniczych własnych odmian w celu uznania go za materiał siewny spełniający wymagania określone dla kategorii kwalifikowany;
-- **2)** odmian regionalnych roślin warzywnych własnych odmian w celu uznania go za materiał siewny kategorii kwalifikowany lub kategorii standard;
-- **3)** odmian amatorskich własnych odmian w celu uznania go za materiał siewny kategorii standard.
+- **1)** odmian regionalnych roślin rolniczych własnych odmian – w celu uznania go za materiał siewny spełniający wymagania określone dla kategorii kwalifikowany;
+- **2)** odmian regionalnych roślin warzywnych własnych odmian – w celu uznania go za materiał siewny kategorii kwalifikowany lub kategorii standard;
+- **3)** odmian amatorskich własnych odmian – w celu uznania go za materiał siewny kategorii standard.
 
 2. Zachowujący odmianę pobiera próby do:
 
 - **1)** oceny laboratoryjnej materiału siewnego odmian regionalnych i odmian amatorskich;
 - **2)** oceny weryfikacyjnej sadzeniaków ziemniaka odmian regionalnych.
 
-3. Zachowujący odmianę składa wojewódzkiemu inspektorowi właściwemu ze względu na miejsce zamieszkania albo siedzibę zachowującego odmianę, albo miejsce wykonywania działalności gospodarczej, jeżeli jest inne niż miejsce zamieszkania zachowującego odmianę w przypadku gdy zachowującym odmianę jest osoba fizyczna prowadząca działalność gospodarczą, wykaz prowadzonych plantacji nasiennych odmian regionalnych, który zawiera informacje określone w art. 36 ust. 7 pkt 2–4, 7 i 9.
+3. Zachowujący odmianę składa wojewódzkiemu inspektorowi właściwemu ze względu na miejsce zamieszkania albo siedzibę zachowującego odmianę, albo miejsce wykonywania działalności gospodarczej, jeżeli jest inne niż miejsce zamieszkania zachowującego odmianę – w przypadku gdy zachowującym odmianę jest osoba fizyczna prowadząca działalność gospodarczą, wykaz prowadzonych plantacji nasiennych odmian regionalnych, który zawiera informacje określone w art. 36 ust. 7 pkt 2–4, 7 i 9.
 
 4. Wykaz, o którym mowa w ust. 3, składa się w terminie określonym dla składania wniosków o dokonanie oceny polowej materiału siewnego.
 
@@ -991,8 +997,8 @@ Art. 127–130. (pominięte)
 
 2. Próby do oceny tożsamości i czystości odmianowej materiału siewnego pobiera się:
 
-- **1)** na wniosek prowadzącego obrót będącego właścicielem partii podlegającej ocenie tożsamości i czystości odmianowej w przypadku partii materiału siewnego, o którym mowa w ust. 1 pkt 1 i 2;
-- **2)** losowo, na podstawie protokołu pobrania próby w przypadku partii materiału siewnego, o których mowa w ust. 1 pkt 3.
+- **1)** na wniosek prowadzącego obrót będącego właścicielem partii podlegającej ocenie tożsamości i czystości odmianowej – w przypadku partii materiału siewnego, o którym mowa w ust. 1 pkt 1 i 2;
+- **2)** losowo, na podstawie protokołu pobrania próby – w przypadku partii materiału siewnego, o których mowa w ust. 1 pkt 3.
 
 3. Próby, o których mowa w ust. 2, pobierają wyłącznie urzędowi próbobiorcy.
 
@@ -1001,7 +1007,7 @@ Art. 127–130. (pominięte)
 5. W przypadku gdy partia materiału siewnego, o którym mowa w ust. 1 pkt 1 i 2:
 
 - **1)** nie została zgłoszona w celu pobrania urzędowej próby do oceny tożsamości i czystości odmianowej lub
-- **2)** nie została poddana ocenie tożsamości i czystości odmianowej z powodu nieuiszczenia opłaty, o której mowa w art. 115 ust. 1 pkt 1 materiał siewny wytworzony z tej partii ocenia się w najniższym stopniu kwalifikacji przewidzianym dla danego gatunku.
+- **2)** nie została poddana ocenie tożsamości i czystości odmianowej z powodu nieuiszczenia opłaty, o której mowa w art. 115 ust. 1 pkt 1 – materiał siewny wytworzony z tej partii ocenia się w najniższym stopniu kwalifikacji przewidzianym dla danego gatunku.
 
 6. Ocenę tożsamości i czystości odmianowej materiału siewnego prowadzi się na poletkach kontrolnych. Ocena ta ma na celu w szczególności sprawdzenie, czy badana partia materiału siewnego jest zgodna z:
 
@@ -1010,8 +1016,8 @@ Art. 127–130. (pominięte)
 
 7. Ocena tożsamości i czystości odmianowej materiału siewnego składa się z:
 
-- **1)** oceny wstępnej obejmującej partie materiału siewnego stanowiące materiał wyjściowy do kolejnych rozmnożeń, prowadzonej równolegle z oceną polową;
-- **2)** oceny następczej obejmującej wytworzone i wprowadzone do obrotu partie materiału siewnego, prowadzonej w sezonie wegetacyjnym następującym po roku zbioru.
+- **1)** oceny wstępnej – obejmującej partie materiału siewnego stanowiące materiał wyjściowy do kolejnych rozmnożeń, prowadzonej równolegle z oceną polową;
+- **2)** oceny następczej – obejmującej wytworzone i wprowadzone do obrotu partie materiału siewnego, prowadzonej w sezonie wegetacyjnym następującym po roku zbioru.
 
 8. Jeżeli w trakcie oceny wstępnej, o której mowa w ust. 7 pkt 1, stwierdzi się brak tożsamości odmianowej badanej partii materiału siewnego, to jest to podstawa do dyskwalifikacji plantacji nasiennej obsianej tą partią.
 
@@ -1029,8 +1035,8 @@ Art. 127–130. (pominięte)
 
 2. Główny Inspektor przekazuje dyrektorowi Centralnego Ośrodka:
 
-- **1)** informacje o planowanej liczbie prób materiału siewnego przeznaczonych do oceny tożsamości i czystości odmianowej w sezonie poprzedzającym ocenę;
-- **2)** wykaz pobranych prób materiału siewnego wysłanych do oceny tożsamości i czystości odmianowej na dany sezon wegetacyjny.
+- **1)** informacje o planowanej liczbie prób materiału siewnego przeznaczonych do oceny tożsamości i czystości odmianowej – w sezonie poprzedzającym ocenę;
+- **2)** wykaz pobranych prób materiału siewnego wysłanych do oceny tożsamości i czystości odmianowej – na dany sezon wegetacyjny.
 
 3. Informację o wynikach oceny tożsamości i czystości odmianowej partii materiału siewnego dyrektor Centralnego Ośrodka niezwłocznie po uzyskaniu tych wyników przekazuje:
 
@@ -1083,8 +1089,8 @@ Art. 127–130. (pominięte)
 
 16. Jeżeli z ustaleń komisji zawartych w protokole, o którym mowa w ust. 13, wynika, że:
 
-- **1)** wystąpiły nieprawidłowości mające wpływ na wynik oceny tożsamości i czystości odmianowej dyrektor Centralnego Ośrodka unieważnia wynik oceny tożsamości i czystości odmianowej, przekreślając informację o wynikach oceny tożsamości i czystości odmianowej badanej partii materiału siewnego i umieszczając wyraz „anulowano” oraz opatrując ją podpisem i datą;
-- **2)** nie wystąpiły nieprawidłowości mające wpływ na wynik oceny tożsamości i czystości odmianowej dyrektor Centralnego Ośrodka pisemnie informuje o podtrzymaniu wyniku oceny tożsamości i czystości odmianowej badanej partii materiału siewnego.
+- **1)** wystąpiły nieprawidłowości mające wpływ na wynik oceny tożsamości i czystości odmianowej – dyrektor Centralnego Ośrodka unieważnia wynik oceny tożsamości i czystości odmianowej, przekreślając informację o wynikach oceny tożsamości i czystości odmianowej badanej partii materiału siewnego i umieszczając wyraz „anulowano” oraz opatrując ją podpisem i datą;
+- **2)** nie wystąpiły nieprawidłowości mające wpływ na wynik oceny tożsamości i czystości odmianowej – dyrektor Centralnego Ośrodka pisemnie informuje o podtrzymaniu wyniku oceny tożsamości i czystości odmianowej badanej partii materiału siewnego.
 
 17. Do wydawania informacji, o której mowa w ust. 3, nie stosuje się przepisów Kodeksu postępowania administracyjnego.
 
@@ -1105,7 +1111,7 @@ Art. 127–130. (pominięte)
 - **1)** różne gatunki roślin uprawnych (mieszanka gatunkowa);
 - **2)** różne odmiany jednego gatunku (mieszanka odmianowa).
 
-3. W skład mieszanki materiału siewnego mogą również wchodzić składniki, do których nie stosuje się przepisów ustawy. Łączny udział tych składników w składzie mieszanki materiału siewnego powinien wynosić nie więcej niż 10%.
+3. W skład mieszanki materiału siewnego mogą również wchodzić składniki, do których nie stosuje się przepisów ustawy.
 
 4. Mieszanki materiału siewnego roślin warzywnych, o których mowa w ust. 2 pkt 2:
 
@@ -1121,7 +1127,6 @@ Art. 127–130. (pominięte)
 
 7. Świadectwo mieszanki wydaje:
 
-- **1)** wojewódzki inspektor, na wniosek prowadzącego obrót, sporządzającego mieszankę, albo
 - **1)** Główny Inspektor, na wniosek prowadzącego obrót, sporządzającego mieszankę, albo
 - **2)** akredytowane laboratorium należące do prowadzącego obrót, o którym mowa w pkt 1, sporządzającego mieszankę.
 
@@ -1135,7 +1140,7 @@ Art. 127–130. (pominięte)
 
 - **1)** rodzaje mieszanek materiału siewnego, ich skład gatunkowy oraz typ użytkowania,
 - **2)** sposób postępowania przy sporządzaniu mieszanek materiału siewnego roślin pastewnych przeznaczonych na cele paszowe,
-- **3)** wzór świadectwa mieszanki mając na uwadze właściwości biologiczne poszczególnych gatunków roślin, możliwości ich wykorzystania na cele pastewne oraz istniejące technologie sporządzania mieszanek materiału siewnego, a także zapewnienie jednolitego sposobu dokumentowania wyników oceny mieszanki materiału siewnego.
+- **3)** wzór świadectwa mieszanki – mając na uwadze właściwości biologiczne poszczególnych gatunków roślin, możliwości ich wykorzystania na cele pastewne oraz istniejące technologie sporządzania mieszanek materiału siewnego, a także zapewnienie jednolitego sposobu dokumentowania wyników oceny mieszanki materiału siewnego.
 
 #### Rozdział 2 Mieszanki nasienne roślin pastewnych przeznaczone dla ochrony środowiska
 
@@ -1174,7 +1179,7 @@ Art. 127–130. (pominięte)
 
 - **1)** informuje właściwego ze względu na położenie obszaru źródłowego regionalnego dyrektora ochrony środowiska o wyznaczonym miejscu zbioru mieszanki dla ochrony środowiska zbieranej bezpośrednio lub składników uprawianej mieszanki dla ochrony środowiska, w terminie 14 dni przed zbiorem;
 - **2)** umożliwia przeprowadzenie kontroli w zakresie wytwarzania i jakości mieszanek dla ochrony środowiska, w tym pobieranie prób do badań;
-- **3)** udziela informacji lub wyjaśnień w zakresie prowadzonej produkcji na żądanie wojewódzkiego inspektora.
+- **3)** udziela informacji lub wyjaśnień w zakresie prowadzonej produkcji – na żądanie wojewódzkiego inspektora.
 
 2. Kontrole, o których mowa w ust. 1 pkt 2, są przeprowadzane przez wojewódzkiego inspektora przynajmniej raz w danym sezonie wegetacyjnym.
 
@@ -1189,18 +1194,18 @@ Art. 127–130. (pominięte)
 - **1)** w trakcie produkcji identyfikuje i monitoruje zagrożenia dla danej uprawy wynikające w szczególności z czynników zewnętrznych (punkty krytyczne) określonych przez dostawcę;
 - **2)** prowadzi dokumentację dotyczącą:
     - **a)** (uchylona)
-    - **b)** roślin, które: zostały zakupione i otrzymane od innych podmiotów, są w produkcji, zostały sprzedane i wysłane do innych podmiotów;
+    - **b)** roślin, które: – zostały zakupione i otrzymane od innych podmiotów, – są w produkcji, – zostały sprzedane i wysłane do innych podmiotów;
 
 - **3)** zapewnia identyfikację poszczególnych partii materiału podczas produkcji;
 - **4)** pobiera, w razie potrzeby, próby do oceny laboratoryjnej dokonywanej przez urzędowe laboratorium lub akredytowane laboratorium;
 - **5)** informuje wojewódzkiego inspektora o wystąpieniu organizmów kwarantannowych w rozumieniu przepisów o ochronie roślin;
 - **6)** umożliwia przeprowadzenie kontroli wytwarzania materiału, w tym pobieranie prób;
-- **7)** udziela informacji lub wyjaśnień w zakresie prowadzonej produkcji na żądanie wojewódzkiego inspektora.
+- **7)** udziela informacji lub wyjaśnień w zakresie prowadzonej produkcji – na żądanie wojewódzkiego inspektora.
 
 2. Dostawca wytwarzający materiał szkółkarski, materiał rozmnożeniowy lub materiał nasadzeniowy roślin warzywnych i ozdobnych oraz sadzonki winorośli przechowuje dokumentację, o której mowa w ust. 1 pkt 2, w zakresie:
 
-- **1)** materiału rozmnożeniowego i materiału nasadzeniowego roślin warzywnych i ozdobnych przez 12 miesięcy od zakończenia cyklu produkcyjnego;
-- **2)** materiału szkółkarskiego oraz sadzonek winorośli przez 3 lata od zakończenia cyklu produkcyjnego.
+- **1)** materiału rozmnożeniowego i materiału nasadzeniowego roślin warzywnych i ozdobnych – przez 12 miesięcy od zakończenia cyklu produkcyjnego;
+- **2)** materiału szkółkarskiego oraz sadzonek winorośli – przez 3 lata od zakończenia cyklu produkcyjnego.
 
 3. Przepisu ust. 1 pkt 2 lit. b nie stosuje się do dokumentów sprzedaży dla nieprofesjonalnych odbiorców.
 
@@ -1208,8 +1213,8 @@ Art. 127–130. (pominięte)
 
 4. Dostawca prowadzący wyłącznie obrót materiałem szkółkarskim, materiałem rozmnożeniowym i materiałem nasadzeniowym roślin warzywnych i ozdobnych oraz sadzonkami winorośli, prowadzi dokumentację dotyczącą zakupu lub sprzedaży tego materiału, z wyłączeniem dokumentów sprzedaży dla nieprofesjonalnych odbiorców, oraz przechowuje ją przez:
 
-- **1)** 3 lata odpowiednio od dnia zakupu albo sprzedaży tego materiału w przypadku materiału szkółkarskiego i sadzonek winorośli;
-- **2)** 12 miesięcy odpowiednio od dnia zakupu albo sprzedaży tego materiału w przypadku materiału rozmnożeniowego i materiału nasadzeniowego roślin warzywnych i ozdobnych.
+- **1)** 3 lata odpowiednio od dnia zakupu albo sprzedaży tego materiału – w przypadku materiału szkółkarskiego i sadzonek winorośli;
+- **2)** 12 miesięcy odpowiednio od dnia zakupu albo sprzedaży tego materiału – w przypadku materiału rozmnożeniowego i materiału nasadzeniowego roślin warzywnych i ozdobnych.
 
 5. Kontrole, o których mowa w ust. 1 pkt 6, są przeprowadzane przez wojewódzkiego inspektora właściwego ze względu na miejsce produkcji materiału szkółkarskiego oraz materiału rozmnożeniowego i materiału nasadzeniowego roślin warzywnych i ozdobnych oraz sadzonek winorośli.
 
@@ -1217,11 +1222,11 @@ Art. 127–130. (pominięte)
 
 **Art. 65.**
 
-1. Materiał szkółkarski podlega ocenie polowej, ocenie cech zewnętrznych oraz w zależności od gatunku i kategorii tego materiału ocenie laboratoryjnej lub ocenie tożsamości i czystości odmianowej.
+1. Materiał szkółkarski podlega ocenie polowej, ocenie cech zewnętrznych oraz – w zależności od gatunku i kategorii tego materiału – ocenie laboratoryjnej lub ocenie tożsamości i czystości odmianowej.
 
 1a. Ocena laboratoryjna materiału szkółkarskiego obejmuje również badanie gleby i podłoża w zakresie obecności organizmów szkodliwych.
 
-2. Materiał rozmnożeniowy i materiał nasadzeniowy roślin warzywnych i ozdobnych podlegają ocenie polowej oraz ocenie cech zewnętrznych, a w przypadku nasion roślin ozdobnych ocenie laboratoryjnej.
+2. Materiał rozmnożeniowy i materiał nasadzeniowy roślin warzywnych i ozdobnych podlegają ocenie polowej oraz ocenie cech zewnętrznych, a w przypadku nasion roślin ozdobnych – ocenie laboratoryjnej.
 
 3. Sadzonki winorośli podlegają ocenie polowej, ocenie tożsamości i czystości odmianowej oraz ocenie cech zewnętrznych.
 
@@ -1256,8 +1261,6 @@ Art. 127–130. (pominięte)
 
 1. Oceny polowej materiału szkółkarskiego kategorii elitarny i kategorii kwalifikowany dokonuje wojewódzki inspektor właściwy ze względu na położenie plantacji na wniosek dostawcy.
 
-2. Oceny laboratoryjnej materiału szkółkarskiego kategorii elitarny i kategorii kwalifikowany dokonuje wojewódzki inspektor właściwy ze względu na miejsce pobrania próby lub jednostka organizacyjna upoważniona, w drodze decyzji, przez wojewódzkiego inspektora właściwego ze względu na siedzibę tej jednostki.
-
 2. Oceny laboratoryjnej materiału szkółkarskiego kategorii elitarny i kategorii kwalifikowany dokonuje Główny Inspektor lub jednostka organizacyjna upoważniona, w drodze decyzji, przez Głównego Inspektora.
 
 2a. Próby materiału szkółkarskiego kategorii elitarny i kategorii kwalifikowany pobiera wojewódzki inspektor albo dostawca tego materiału.
@@ -1290,9 +1293,13 @@ Art. 127–130. (pominięte)
 
 2. Wniosek, o którym mowa w ust. 1, składa się w terminie umożliwiającym właściwe dokonanie oceny polowej, określonym w przepisach wydanych na podstawie art. 72 pkt 1.
 
+2a. Wniosek o dokonanie oceny polowej materiału szkółkarskiego kategorii elitarny lub kategorii kwalifikowany składa się na formularzu udostępnionym na stronie internetowej administrowanej przez wojewódzki inspektorat ochrony roślin i nasiennictwa.
+
+2b. Wniosek o dokonanie oceny polowej materiału szkółkarskiego kategorii elitarny lub kategorii kwalifikowany i załączniki, o których mowa w ust. 4, można złożyć za pomocą systemu teleinformatycznego, o którym mowa w art. 71a ust. 1.
+
 3. Wniosek o dokonanie oceny polowej materiału szkółkarskiego kategorii elitarny lub kategorii kwalifikowany zawiera:
 
-- **1)** imię i nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę dostawcy, z tym że w przypadku gdy dostawcą jest osoba fizyczna prowadząca działalność gospodarczą zamiast adresu i miejsca zamieszkania tej osoby miejsce i adres wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby;
+- **1)** imię i nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę dostawcy, z tym że w przypadku gdy dostawcą jest osoba fizyczna prowadząca działalność gospodarczą zamiast adresu i miejsca zamieszkania tej osoby – miejsce i adres wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby;
 - **2)** określenie miejsca położenia plantacji, w tym nazwę miejscowości, gminy i powiatu oraz dwucyfrowy symbol województwa i dwucyfrowy symbol powiatu danego województwa;
 - **3)** informacje o:
     - **a)** rodzaju materiału, jego ilości i powierzchni plantacji,
@@ -1306,9 +1313,17 @@ Art. 127–130. (pominięte)
 - **1)** oświadczenie dostawcy będącego zachowującym odmianę, że materiał został wyprodukowany zgodnie z metodyką hodowli przyjętą dla danej odmiany albo
 - **2)** świadectwo oceny polowej albo szkółkarski dokument towarzyszący, albo etykietę urzędową wydaną dla tego materiału;
 - **3)** oryginał lub kopię dokumentu zakupu materiału;
-- **4)** informację o wynikach oceny laboratoryjnej w przypadku gdy materiał podlega ocenie laboratoryjnej lub zostały pobrane próby gleby i podłoża.
+- **4)** informację o wynikach oceny laboratoryjnej – w przypadku gdy materiał podlega ocenie laboratoryjnej lub zostały pobrane próby gleby i podłoża.
 
 5. Jeżeli składający wniosek o dokonanie oceny polowej lub oceny laboratoryjnej materiału szkółkarskiego kategorii elitarny lub kategorii kwalifikowany nie zgadza się z wynikiem oceny, może złożyć wniosek o ponowne dokonanie oceny do Głównego Inspektora. Przepisy art. 49 ust. 3–6 stosuje się odpowiednio.
+
+**Art. 71a.**
+
+1. Główny Inspektor buduje i utrzymuje system teleinformatyczny umożliwiający złożenie wniosku, o którym mowa w art. 71 ust. 1, i załączników, o których mowa w art. 71 ust. 4, administruje tym systemem i udostępnia go wnioskodawcy.
+
+2. System teleinformatyczny, o którym mowa w ust. 1, umożliwia wprowadzanie, przechowywanie, przetwarzanie i agregowanie informacji określonych w art. 71 ust. 3 i 4 i informacji zawartych w upoważnieniu zachowującego odmianę do złożenia wniosku w jego imieniu, w tym następujących danych osobowych – imienia i nazwiska oraz adresu i miejsca zamieszkania albo nazwy oraz adresu i siedziby wnioskodawcy, z tym że w przypadku gdy wnioskodawcą jest osoba fizyczna prowadząca działalność gospodarczą zamiast adresu i miejsca zamieszkania tej osoby – miejsca i adresu wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby, oraz numeru identyfikacji podatkowej (NIP) prowadzącego obrót, jeżeli został nadany.
+
+3. Wprowadzenie przez wnioskodawcę lub osobę uprawnioną do jego reprezentowania informacji, o których mowa w ust. 2, w systemie teleinformatycznym, o którym mowa w ust. 1, następuje po uwierzytelnieniu w tym systemie w sposób określony w art. 20a ust. 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
 
 **Art. 72.** Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia:
 
@@ -1320,12 +1335,12 @@ Art. 127–130. (pominięte)
 
 1. Na podstawie wyników poszczególnych ocen materiału siewnego, z wyłączeniem oceny, o której mowa w art. 53 ust. 1 i art. 54 ust. 1, oraz oceny, o której mowa w art. 70 ust. 5–9, podmiot dokonujący oceny wydaje:
 
-- **1)** świadectwo oceny polowej w przypadku uznania, że plantacja spełnia wymagania w zakresie wytwarzania, jakości lub zdrowotności;
-- **2)** świadectwo oceny laboratoryjnej w przypadku uznania, że oceniana partia materiału siewnego spełnia wymagania w zakresie jakości lub zdrowotności;
-- **3)** świadectwo oceny weryfikacyjnej w przypadku uznania, że oceniana plantacja sadzeniaków ziemniaka spełnia wymagania w zakresie zdrowotności;
-- **4)** świadectwo oceny cech zewnętrznych w przypadku uznania, że oceniana partia sadzeniaków ziemniaka spełnia wymagania w zakresie jakości;
-- **5)** informację o dyskwalifikacji w przypadku dyskwalifikacji materiału siewnego w poszczególnych ocenach, gdy oceniany materiał nie spełnia wymagań w zakresie wytwarzania, jakości lub zdrowotności;
-- **6)** informację o wynikach badania w przypadku dokonania okresowej oceny laboratoryjnej, o której mowa w art. 48.
+- **1)** świadectwo oceny polowej – w przypadku uznania, że plantacja spełnia wymagania w zakresie wytwarzania, jakości lub zdrowotności;
+- **2)** świadectwo oceny laboratoryjnej – w przypadku uznania, że oceniana partia materiału siewnego spełnia wymagania w zakresie jakości lub zdrowotności;
+- **3)** świadectwo oceny weryfikacyjnej – w przypadku uznania, że oceniana plantacja sadzeniaków ziemniaka spełnia wymagania w zakresie zdrowotności;
+- **4)** świadectwo oceny cech zewnętrznych – w przypadku uznania, że oceniana partia sadzeniaków ziemniaka spełnia wymagania w zakresie jakości;
+- **5)** informację o dyskwalifikacji – w przypadku dyskwalifikacji materiału siewnego w poszczególnych ocenach, gdy oceniany materiał nie spełnia wymagań w zakresie wytwarzania, jakości lub zdrowotności;
+- **6)** informację o wynikach badania – w przypadku dokonania okresowej oceny laboratoryjnej, o której mowa w art. 48.
 
 2. Świadectwa i informacje, o których mowa w ust. 1, w przypadku oceny materiału siewnego roślin rolniczych i warzywnych wydaje się niezwłocznie po uzyskaniu wyników oceny materiału siewnego, w miejscu dokonania tej oceny.
 
@@ -1333,7 +1348,7 @@ Art. 127–130. (pominięte)
 
 4. Świadectwo ISTA wydaje laboratorium oceny nasion ISTA, posiadające akredytację ISTA, na podstawie przeprowadzanych przez to laboratorium badań próby materiału siewnego.
 
-5. Świadectwo oceny laboratoryjnej wydaje się dla każdej ocenianej partii materiału siewnego, a świadectwo oceny weryfikacyjnej dla ocenianej plantacji.
+5. Świadectwo oceny laboratoryjnej wydaje się dla każdej ocenianej partii materiału siewnego, a świadectwo oceny weryfikacyjnej – dla ocenianej plantacji.
 
 6. Świadectwo oceny polowej materiału siewnego, świadectwo oceny laboratoryjnej materiału siewnego oraz informacja o dyskwalifikacji i informacja o wynikach badania po okresowej ocenie laboratoryjnej zawierają w szczególności:
 
@@ -1344,7 +1359,7 @@ Art. 127–130. (pominięte)
 - **5)** oznaczenie podmiotu zgłaszającego materiał siewny do oceny;
 - **6)** nazwę gatunku;
 - **7)** nazwę odmiany;
-- **8)** numer partii wysianego albo ocenionego materiału siewnego albo numer świadectwa oceny polowej w przypadku sadzeniaków ziemniaka;
+- **8)** numer partii wysianego albo ocenionego materiału siewnego albo numer świadectwa oceny polowej – w przypadku sadzeniaków ziemniaka;
 - **9)** dane o wielkości plantacji albo partii;
 - **10)** wynik oceny materiału siewnego.
 
@@ -1369,8 +1384,8 @@ Art. 127–130. (pominięte)
 
 2. Upoważnień lub akredytacji, o których mowa w art. 43 ust. 1 i 2 oraz art. 47 ust. 1, udziela się w przypadku:
 
-- **1)** kwalifikatorów do oceny polowej poszczególnych grup roślin;
-- **2)** próbobiorców do pobierania prób poszczególnych rodzajów materiału siewnego.
+- **1)** kwalifikatorów – do oceny polowej poszczególnych grup roślin;
+- **2)** próbobiorców – do pobierania prób poszczególnych rodzajów materiału siewnego.
 
 **Art. 76.** Akredytowanym laboratorium może być laboratorium:
 
@@ -1378,12 +1393,7 @@ Art. 127–130. (pominięte)
 
 **Art. 78.**
 
-1. Akredytacji kwalifikatorom lub próbobiorcom udziela, na wniosek prowadzącego obrót, w drodze decyzji, wojewódzki inspektor właściwy ze względu na miejsce zamieszkania albo siedzibę prowadzącego obrót, albo miejsce wykonywania działalności gospodarczej, jeżeli jest inne niż miejsce zamieszkania prowadzącego obrót w przypadku gdy prowadzącym obrót jest osoba fizyczna prowadząca działalność gospodarczą.
-
-2. Akredytacji laboratorium udziela, w drodze decyzji, wojewódzki inspektor właściwy ze względu na:
-
-- **1)** miejsce zamieszkania albo siedzibę prowadzącego obrót, albo miejsce wykonywania działalności gospodarczej, jeżeli jest inne niż miejsce zamieszkania prowadzącego obrót, w przypadku gdy prowadzącym obrót jest osoba fizyczna prowadząca działalność gospodarczą na wniosek prowadzącego obrót;
-- **2)** siedzibę samodzielnego laboratorium na wniosek tego laboratorium.
+1. Akredytacji kwalifikatorom lub próbobiorcom udziela, na wniosek prowadzącego obrót, w drodze decyzji, wojewódzki inspektor właściwy ze względu na miejsce zamieszkania albo siedzibę prowadzącego obrót, albo miejsce wykonywania działalności gospodarczej, jeżeli jest inne niż miejsce zamieszkania prowadzącego obrót – w przypadku gdy prowadzącym obrót jest osoba fizyczna prowadząca działalność gospodarczą.
 
 2. Akredytacji laboratorium udziela, w drodze decyzji, Główny Inspektor.
 
@@ -1391,15 +1401,15 @@ Art. 127–130. (pominięte)
 
 4. Wniosek o udzielenie akredytacji zawiera:
 
-- **1)** imię i nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę prowadzącego obrót, z tym że w przypadku gdy prowadzącym obrót jest osoba fizyczna prowadząca działalność gospodarczą zamiast adresu i miejsca zamieszkania tej osoby miejsce i adres wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby, a w przypadku samodzielnego laboratorium nazwę oraz siedzibę i adres laboratorium;
-- **2)** imię i nazwisko osoby, której ma być udzielona akredytacja w przypadku kwalifikatorów lub próbobiorców;
+- **1)** imię i nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę prowadzącego obrót, z tym że w przypadku gdy prowadzącym obrót jest osoba fizyczna prowadząca działalność gospodarczą zamiast adresu i miejsca zamieszkania tej osoby – miejsce i adres wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby, a w przypadku samodzielnego laboratorium – nazwę oraz siedzibę i adres laboratorium;
+- **2)** imię i nazwisko osoby, której ma być udzielona akredytacja – w przypadku kwalifikatorów lub próbobiorców;
 - **3)** zakres akredytacji.
 
 5. Do wniosku o udzielenie akredytacji dołącza się:
 
 - **1)** dokument potwierdzający posiadanie odpowiednich kwalifikacji zawodowych;
 - **2)** kopię zaświadczenia, o którym mowa w art. 75 ust. 1 pkt 3;
-- **3)** zgodę prowadzącego obrót, którego materiał siewny będzie oceniany w przypadku akredytacji laboratorium do oceny materiału siewnego będącego własnością innego prowadzącego obrót;
+- **3)** zgodę prowadzącego obrót, którego materiał siewny będzie oceniany – w przypadku akredytacji laboratorium do oceny materiału siewnego będącego własnością innego prowadzącego obrót;
 - **4)** kopię dowodu uiszczenia opłaty za udzielenie akredytacji, o której mowa w art. 115 ust. 1 pkt 4 i 5.
 
 6. Wniosek o udzielenie akredytacji laboratorium zawiera ponadto imię i nazwisko pracownika, który będzie pełnił funkcję kierownika tego laboratorium oraz imiona i nazwiska analityków nasiennych.
@@ -1431,11 +1441,6 @@ Art. 127–130. (pominięte)
 
 1. Szkolenia, o których mowa w art. 75 ust. 1 pkt 3 i art. 79 ust. 3, mogą być prowadzone przez:
 
-- **1)** wojewódzkiego inspektora lub
-- **2)** jednostki organizacyjne upoważnione przez wojewódzkiego inspektora właściwego ze względu na siedzibę tych jednostek, zwane dalej „ośrodkami szkoleniowymi”.
-
-1. Szkolenia, o których mowa w art. 75 ust. 1 pkt 3 i art. 79 ust. 3, mogą być prowadzone przez:
-
 - **1)** Głównego Inspektora lub
 - **2)** wojewódzkiego inspektora, lub
 - **3)** jednostki organizacyjne upoważnione przez wojewódzkiego inspektora właściwego ze względu na siedzibę tych jednostek, zwane dalej „ośrodkami szkoleniowymi”.
@@ -1446,8 +1451,6 @@ Art. 127–130. (pominięte)
 
 **Art. 81.**
 
-1. Wojewódzki inspektor sprawuje nadzór nad pracą urzędowych kwalifikatorów, urzędowych próbobiorców, akredytowanych kwalifikatorów, akredytowanych próbobiorców oraz urzędowych laboratoriów i akredytowanych laboratoriów, w tym analityków nasiennych.
-
 1. Wojewódzki inspektor sprawuje nadzór nad pracą urzędowych kwalifikatorów i akredytowanych kwalifikatorów oraz urzędowych próbobiorców i akredytowanych próbobiorców.
 
 1a. Główny Inspektor sprawuje nadzór nad pracą urzędowych laboratoriów i akredytowanych laboratoriów, w tym analityków nasiennych.
@@ -1456,55 +1459,47 @@ Art. 127–130. (pominięte)
 
 2a. W ramach nadzoru Główny Inspektor kontroluje pracę podmiotów wymienionych w ust. 1a, w zakresie przestrzegania przepisów, w szczególności dotyczących obowiązujących metodyk oceny materiału siewnego oraz wymagań w zakresie wytwarzania i oceny materiału siewnego.
 
-3. Przeprowadzając kontrolę pracy podmiotów wymienionych w ust. 1, wojewódzki inspektor może w szczególności: Przeprowadzając kontrolę pracy podmiotów wymienionych w ust. 1 i 1a, odpowiednio wojewódzki inspektor albo Główny Inspektor może w szczególności:
+3. Przeprowadzając kontrolę pracy podmiotów wymienionych w ust. 1 i 1a, odpowiednio wojewódzki inspektor albo Główny Inspektor może w szczególności:
 
 - **1)** uczestniczyć w ocenie polowej, ocenie cech zewnętrznych, ocenie laboratoryjnej lub pobieraniu prób materiału siewnego, dokonywanych przez te podmioty lub sprawdzać prawidłowość wykonywania tych czynności;
 - **2)** sprawdzać dokumentację dotyczącą dokonanej oceny lub pobrania prób materiału siewnego;
 - **3)** żądać od kontrolowanego podmiotu udzielania, w wyznaczonym terminie, pisemnych lub ustnych wyjaśnień w sprawach objętych przedmiotem kontroli.
 
-4. Jeżeli w trakcie przeprowadzania kontroli wojewódzki inspektor stwierdzi, że akredytowani kwalifikatorzy, akredytowani próbobiorcy oraz akredytowane laboratoria nie spełniają warunków niezbędnych do wykonywania odpowiednio oceny polowej materiału siewnego, oceny cech zewnętrznych materiału siewnego albo oceny laboratoryjnej materiału siewnego, lub pobierania prób materiału siewnego, w szczególności: Jeżeli w trakcie przeprowadzania kontroli odpowiednio wojewódzki inspektor albo Główny Inspektor stwierdzi, że akredytowani kwalifikatorzy, akredytowani próbobiorcy oraz akredytowane laboratoria nie spełniają warunków niezbędnych do wykonywania odpowiednio oceny polowej materiału siewnego, oceny cech zewnętrznych materiału siewnego albo oceny laboratoryjnej materiału siewnego lub pobierania prób materiału siewnego, w szczególności:
+4. Jeżeli w trakcie przeprowadzania kontroli odpowiednio wojewódzki inspektor albo Główny Inspektor stwierdzi, że akredytowani kwalifikatorzy, akredytowani próbobiorcy oraz akredytowane laboratoria nie spełniają warunków niezbędnych do wykonywania odpowiednio oceny polowej materiału siewnego, oceny cech zewnętrznych materiału siewnego albo oceny laboratoryjnej materiału siewnego lub pobierania prób materiału siewnego, w szczególności:
 
-- **1)** w przypadku kwalifikatorów i próbobiorców:
+- **1)** w przypadku kwalifikatorów i próbobiorców: 10 w wyznaczonym terminie,
     - **a)** dokonują oceny lub pobierania prób materiału siewnego niezgodnie z przepisami lub
     - **b)** nie wykonali określonej minimalnej liczby ocen lub pobrania prób materiału siewnego, lub
     - **c)** nie dysponują wymaganym sprzętem, lub
-    - **d)** nie składają wojewódzkiemu inspektorowi dokumentów określonych w ust. 10 w wyznaczonym terminie,
+    - **d)** nie składają wojewódzkiemu inspektorowi dokumentów określonych w ust.
 
 - **2)** w przypadku laboratoriów:
     - **a)** nie mają odpowiednich warunków lokalowych oraz wyposażenia technicznego niezbędnego do wykonywania oceny laboratoryjnej materiału siewnego lub
     - **b)** ocena jest wykonywana nierzetelnie lub niezgodnie z przepisami, lub
-    - **c)** nie składają wojewódzkiemu inspektorowi dokumentów określonych w ust. 10 w wyznaczonym terminie,
     - **c)** nie składają wojewódzkiemu inspektorowi albo Głównemu Inspektorowi dokumentów określonych w ust. 10 w wyznaczonym terminie,
     - **d)** nie zatrudniają co najmniej 2 analityków nasiennych,
-    - **e)** nie wprowadzają do systemu teleinformatycznego prowadzonego przez Państwową Inspekcję danych zawartych w świadectwach oceny laboratoryjnej i informacjach o dyskwalifikacji w zależności od zakresu i stopnia stwierdzonych uchybień, w drodze decyzji, cofa akredytację albo nakazuje usunięcie stwierdzonych uchybień w określonym terminie lub nakazuje odbycie szkolenia doskonalącego.
+    - **e)** nie wprowadzają do systemu teleinformatycznego prowadzonego przez Państwową Inspekcję danych zawartych w świadectwach oceny laboratoryjnej i informacjach o dyskwalifikacji – w zależności od zakresu i stopnia stwierdzonych uchybień, w drodze decyzji, cofa akredytację albo nakazuje usunięcie stwierdzonych uchybień w określonym terminie lub nakazuje odbycie szkolenia doskonalącego.
 
 5. W przypadku cofnięcia akredytacji podmiot może ponownie ubiegać się o uzyskanie akredytacji po upływie roku od dnia, w którym decyzja o cofnięciu akredytacji stała się ostateczna.
 
 6. Do urzędowych kwalifikatorów i urzędowych próbobiorców przepisy ust. 4 pkt 1 i ust. 5 stosuje się odpowiednio.
 
-7. Jeżeli w trakcie przeprowadzania kontroli wojewódzki inspektor stwierdzi: Jeżeli w trakcie przeprowadzania kontroli odpowiednio wojewódzki inspektor albo Główny Inspektor stwierdzi:
+7. Jeżeli w trakcie przeprowadzania kontroli odpowiednio wojewódzki inspektor albo Główny Inspektor stwierdzi:
 
-- **1)** że plantacja nasienna, a w przypadku oceny cech zewnętrznych partia materiału siewnego zostały ocenione nieprawidłowo przez akredytowanych kwalifikatorów unieważnia wynik oceny polowej albo oceny cech zewnętrznych materiału siewnego, przekreślając świadectwo oceny polowej albo oceny cech zewnętrznych i umieszczając na nim wyraz „anulowano” oraz opatrując je podpisem osoby kontrolującej i datą;
-- **2)** nieprawidłowości w pracy akredytowanych próbobiorców unieważnia pobranie prób i wyniki oceny laboratoryjnej materiału siewnego dokonanej na próbach pobranych przez danego próbobiorcę, przekreślając protokół pobrania próby i świadectwo oceny laboratoryjnej i umieszczając na nich wyraz „anulowano” oraz opatrując je podpisem osoby kontrolującej i datą;
+- **1)** że plantacja nasienna, a w przypadku oceny cech zewnętrznych – partia materiału siewnego – zostały ocenione nieprawidłowo przez akredytowanych kwalifikatorów – unieważnia wynik oceny polowej albo oceny cech zewnętrznych materiału siewnego, przekreślając świadectwo oceny polowej albo oceny cech zewnętrznych i umieszczając na nim wyraz „anulowano” oraz opatrując je podpisem osoby kontrolującej i datą;
+- **2)** nieprawidłowości w pracy akredytowanych próbobiorców – unieważnia pobranie prób i wyniki oceny laboratoryjnej materiału siewnego dokonanej na próbach pobranych przez danego próbobiorcę, przekreślając protokół pobrania próby i świadectwo oceny laboratoryjnej i umieszczając na nich wyraz „anulowano” oraz opatrując je podpisem osoby kontrolującej i datą;
 - **3)** nieprawidłowości w pracy akredytowanych laboratoriów:
     - **a)** unieważnia wyniki oceny laboratoryjnej materiału siewnego, przekreślając świadectwo oceny laboratoryjnej i umieszczając na nim wyraz „anulowano” oraz opatrując je podpisem osoby kontrolującej i datą,
     - **b)** zatrzymuje etykiety lub plomby wydane na podstawie nieprawidłowo wykonanej oceny materiału siewnego.
-
-8. W przypadkach, o których mowa w ust. 7, wojewódzki inspektor przeprowadza odpowiednio kontrolną ocenę polową materiału siewnego albo kontrolną ocenę cech zewnętrznych materiału siewnego albo kontrolną ocenę laboratoryjną materiału siewnego lub kontrolne pobranie prób materiału siewnego oraz wydaje nowe świadectwo lub informację, o której mowa w art. 73 ust. 1 pkt 5.
 
 8. W przypadkach, o których mowa w ust. 7, odpowiednio wojewódzki inspektor albo Główny Inspektor przeprowadza kontrolną ocenę polową materiału siewnego albo kontrolną ocenę cech zewnętrznych materiału siewnego, albo kontrolną ocenę laboratoryjną materiału siewnego lub kontrolne pobranie prób materiału siewnego oraz wydaje nowe świadectwo lub informację, o której mowa w art. 73 ust. 1 pkt 5.
 
 9. Jeżeli zainteresowany podmiot nie zgadza się z kontrolną oceną polową materiału siewnego albo kontrolną oceną cech zewnętrznych materiału siewnego, albo kontrolną oceną laboratoryjną materiału siewnego, o której mowa w ust. 8, może zwrócić się do Głównego Inspektora z wnioskiem o ponowne dokonanie oceny. Przepisy art. 49 ust. 3–6 stosuje się odpowiednio.
 
-10. Akredytowani próbobiorcy, akredytowani kwalifikatorzy i akredytowane laboratoria składają wojewódzkiemu inspektorowi:
-
-- **1)** kopie świadectw i informacji, o których mowa w art. 73 ust. 1, oraz dokumentacji, o której mowa w art. 43 ust. 5, art. 44 ust. 6 i art. 47 ust. 4, w terminie 7 dni odpowiednio od dnia dokonania oceny polowej materiału siewnego, oceny cech zewnętrznych materiału siewnego, oceny laboratoryjnej materiału siewnego, pobrania próby, wydania świadectwa albo informacji lub sporządzenia protokołu pobrania prób;
-- **2)** pisemne sprawozdania z dokonanej oceny laboratoryjnej materiału siewnego w formie uzgodnionej z wojewódzkim inspektorem w przypadku laboratoriów.
-
 10. Akredytowani próbobiorcy, akredytowani kwalifikatorzy oraz akredytowane laboratoria składają odpowiednio wojewódzkiemu inspektorowi albo Głównemu Inspektorowi:
 
 - **1)** kopie świadectw i informacji, o których mowa w art. 73 ust. 1, oraz dokumentacji, o której mowa w art. 43 ust. 5, art. 44 ust. 6 i art. 47 ust. 4, w terminie 7 dni odpowiednio od dnia dokonania oceny polowej materiału siewnego, oceny cech zewnętrznych materiału siewnego, oceny laboratoryjnej materiału siewnego, pobrania próby, wydania świadectwa albo informacji lub sporządzenia protokołu pobrania prób;
-- **2)** pisemne sprawozdania z dokonanej oceny laboratoryjnej materiału siewnego w formie uzgodnionej z Głównym Inspektorem w przypadku laboratoriów.
+- **2)** pisemne sprawozdania z dokonanej oceny laboratoryjnej materiału siewnego w formie uzgodnionej z Głównym Inspektorem – w przypadku laboratoriów.
 
 **Art. 82.**
 
@@ -1523,7 +1518,7 @@ Art. 127–130. (pominięte)
 - **5)** programy szkoleń, o których mowa w art. 75 ust. 1 pkt 3 i art. 79 ust. 3,
 - **6)** szczegółowe warunki kadrowe, organizacyjne i techniczne, jakie powinny spełniać ośrodki szkoleniowe,
 - **7)** wzór zaświadczenia, o którym mowa w art. 75 ust. 1 pkt 3,
-- **8)** warunki i sposób przeprowadzania egzaminu kończącego szkolenie, o którym mowa w art. 75 ust. 1 pkt 3, oraz sposób przechowywania dokumentacji w tym zakresie mając na uwadze odpowiednio zapewnienie właściwego dokonania oceny polowej materiału siewnego, oceny cech zewnętrznych, pobierania prób materiału siewnego i wykonywania oceny laboratoryjnej materiału siewnego, a także zapewnienie przez ośrodki szkoleniowe właściwego poziomu prowadzenia szkoleń, w tym środków dydaktycznych, pomieszczeń, miejsc do prowadzenia zajęć praktycznych i materiałów szkoleniowych, oraz prawidłowego przeprowadzenia egzaminu kończącego szkolenie.
+- **8)** warunki i sposób przeprowadzania egzaminu kończącego szkolenie, o którym mowa w art. 75 ust. 1 pkt 3, oraz sposób przechowywania dokumentacji w tym zakresie – mając na uwadze odpowiednio zapewnienie właściwego dokonania oceny polowej materiału siewnego, oceny cech zewnętrznych, pobierania prób materiału siewnego i wykonywania oceny laboratoryjnej materiału siewnego, a także zapewnienie przez ośrodki szkoleniowe właściwego poziomu prowadzenia szkoleń, w tym środków dydaktycznych, pomieszczeń, miejsc do prowadzenia zajęć praktycznych i materiałów szkoleniowych, oraz prawidłowego przeprowadzenia egzaminu kończącego szkolenie.
 
 2. Minister właściwy do spraw rolnictwa ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, wykaz ośrodków szkoleniowych upoważnionych do prowadzenia szkoleń w zakresie oceny polowej materiału siewnego, oceny cech zewnętrznych, pobierania prób materiału siewnego oraz oceny laboratoryjnej materiału siewnego, podając nazwę i adres oraz siedzibę ośrodka szkoleniowego oraz zakres udzielonego upoważnienia.
 
@@ -1535,13 +1530,13 @@ Art. 127–130. (pominięte)
 
 **Art. 84.**
 
-1. Obrót materiałem siewnym roślin rolniczych i warzywnych może prowadzić przedsiębiorca, w tym przedsiębiorca wytwarzający materiał siewny, który zgłosi zamiar prowadzenia obrotu tym materiałem siewnym wojewódzkiemu inspektorowi właściwemu ze względu na miejsce zamieszkania albo siedzibę przedsiębiorcy, albo miejsce wykonywania działalności gospodarczej, jeżeli jest inne niż miejsce zamieszkania przedsiębiorcy w przypadku gdy przedsiębiorcą jest osoba fizyczna prowadząca działalność gospodarczą.
+1. Obrót materiałem siewnym roślin rolniczych i warzywnych może prowadzić przedsiębiorca, w tym przedsiębiorca wytwarzający materiał siewny, który zgłosi zamiar prowadzenia obrotu tym materiałem siewnym wojewódzkiemu inspektorowi właściwemu ze względu na miejsce zamieszkania albo siedzibę przedsiębiorcy, albo miejsce wykonywania działalności gospodarczej, jeżeli jest inne niż miejsce zamieszkania przedsiębiorcy – w przypadku gdy przedsiębiorcą jest osoba fizyczna prowadząca działalność gospodarczą.
 
 2. Zgłoszenia, o którym mowa w ust. 1, dokonuje się w terminie 7 dni przed planowanym dniem rozpoczęcia prowadzenia obrotu materiałem siewnym.
 
 3. Zgłoszenie, o którym mowa w ust. 1, zawiera następujące dane:
 
-- **1)** firmę, imię i nazwisko oraz adres i miejsce zamieszkania albo adres i siedzibę przedsiębiorcy, z tym że w przypadku gdy prowadzącym przedsiębiorcą jest osoba fizyczna prowadząca działalność gospodarczą zamiast adresu i miejsca zamieszkania tej osoby miejsce i adres wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby;
+- **1)** firmę, imię i nazwisko oraz adres i miejsce zamieszkania albo adres i siedzibę przedsiębiorcy, z tym że w przypadku gdy prowadzącym przedsiębiorcą jest osoba fizyczna prowadząca działalność gospodarczą zamiast adresu i miejsca zamieszkania tej osoby – miejsce i adres wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby;
 - **2)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile przedsiębiorca taki numer posiada;
 - **3)** numer identyfikacji podatkowej (NIP), a w przypadku nieposiadania tego numeru, numer PESEL, jeżeli taki numer posiada;
 - **4)** wskazanie rodzaju wykonywanej działalności;
@@ -1580,7 +1575,7 @@ Art. 127–130. (pominięte)
 
 **Art. 87.**
 
-1. Obrót materiałem szkółkarskim, materiałem rozmnożeniowym lub materiałem nasadzeniowym roślin warzywnych i ozdobnych oraz sadzonkami winorośli może prowadzić dostawca, w tym dostawca wytwarzający taki materiał, jeżeli zgłosi zamiar prowadzenia obrotu tym materiałem siewnym wojewódzkiemu inspektorowi właściwemu ze względu na miejsce zamieszkania albo siedzibę dostawcy, albo miejsce wykonywania działalności gospodarczej, jeżeli jest inne niż miejsce zamieszkania dostawcy w przypadku gdy dostawcą jest osoba fizyczna prowadząca działalność gospodarczą.
+1. Obrót materiałem szkółkarskim, materiałem rozmnożeniowym lub materiałem nasadzeniowym roślin warzywnych i ozdobnych oraz sadzonkami winorośli może prowadzić dostawca, w tym dostawca wytwarzający taki materiał, jeżeli zgłosi zamiar prowadzenia obrotu tym materiałem siewnym wojewódzkiemu inspektorowi właściwemu ze względu na miejsce zamieszkania albo siedzibę dostawcy, albo miejsce wykonywania działalności gospodarczej, jeżeli jest inne niż miejsce zamieszkania dostawcy – w przypadku gdy dostawcą jest osoba fizyczna prowadząca działalność gospodarczą.
 
 2. Zgłoszenia, o którym mowa w ust. 1, dokonuje się w terminie 7 dni przed planowanym dniem rozpoczęcia prowadzenia obrotu materiałem siewnym.
 
@@ -1591,10 +1586,10 @@ Art. 127–130. (pominięte)
 
 4. Zgłoszenie, o którym mowa w ust. 1, zawiera następujące dane:
 
-- **1)** imię i nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę dostawcy, z tym że w przypadku gdy dostawcą jest osoba fizyczna prowadząca działalność gospodarczą zamiast adresu i miejsca zamieszkania tej osoby miejsce i adres wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby;
+- **1)** imię i nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę dostawcy, z tym że w przypadku gdy dostawcą jest osoba fizyczna prowadząca działalność gospodarczą zamiast adresu i miejsca zamieszkania tej osoby – miejsce i adres wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby;
 - **2)** numer identyfikacji podatkowej (NIP), a w przypadku nieposiadania tego numeru, numer PESEL, jeżeli taki numer posiada;
-- **3)** wskazanie rodzaju działalności, której ma dotyczyć wpis do ewidencji dostawców, z podaniem grup roślin uprawnych, a w przypadku materiału szkółkarskiego wskazanie przez dostawcę głównych rodzajów lub gatunków uprawnych objętych jego działalnością;
-- **3a)** oświadczenie o tym, że dostawca będzie dokonywać pobierania prób, oceny cech zewnętrznych, oceny tożsamości i czystości odmianowej wytwarzanego przez siebie materiału oraz pobierania prób gleby i podłoża, w których jest wytwarzany ten materiał w przypadku dostawców materiału szkółkarskiego kategorii elitarny i kategorii kwalifikowany, którzy będą dokonywać tych czynności;
+- **3)** wskazanie rodzaju działalności, której ma dotyczyć wpis do ewidencji dostawców, z podaniem grup roślin uprawnych, a w przypadku materiału szkółkarskiego – wskazanie przez dostawcę głównych rodzajów lub gatunków uprawnych objętych jego działalnością;
+- **3a)** oświadczenie o tym, że dostawca będzie dokonywać pobierania prób, oceny cech zewnętrznych, oceny tożsamości i czystości odmianowej wytwarzanego przez siebie materiału oraz pobierania prób gleby i podłoża, w których jest wytwarzany ten materiał – w przypadku dostawców materiału szkółkarskiego kategorii elitarny i kategorii kwalifikowany, którzy będą dokonywać tych czynności;
 - **4)** imię i nazwisko osoby upoważnionej do kontaktów z wojewódzkim inspektorem;
 - **5)** datę i podpis dostawcy albo osoby upoważnionej do reprezentowania dostawcy.
 
@@ -1648,9 +1643,9 @@ Art. 127–130. (pominięte)
 
 1. Prowadzący obrót:
 
-- **1)** składa wojewódzkiemu inspektorowi właściwemu ze względu na miejsce zamieszkania albo siedzibę prowadzącego obrót, albo miejsce wykonywania działalności, jeżeli jest inne niż miejsce zamieszkania prowadzącego obrót w przypadku gdy prowadzącym obrót jest osoba fizyczna prowadząca działalność gospodarczą, pisemne informacje dotyczące obrotu materiałem siewnym, w tym materiałem przywożonym z państw trzecich;
+- **1)** składa wojewódzkiemu inspektorowi właściwemu ze względu na miejsce zamieszkania albo siedzibę prowadzącego obrót, albo miejsce wykonywania działalności, jeżeli jest inne niż miejsce zamieszkania prowadzącego obrót – w przypadku gdy prowadzącym obrót jest osoba fizyczna prowadząca działalność gospodarczą, pisemne informacje dotyczące obrotu materiałem siewnym, w tym materiałem przywożonym z państw trzecich;
 - **2)** prowadzi dokumentację dotyczącą:
-    - **a)** wytwarzania materiału siewnego w przypadku gdy został on przez niego wytworzony lub zakontraktowany,
+    - **a)** wytwarzania materiału siewnego – w przypadku gdy został on przez niego wytworzony lub zakontraktowany,
     - **b)** procesów technologicznych przerobu, a w szczególności czyszczenia, suszenia, sortowania, otoczkowania i zaprawiania, pakowania i przepakowywania,
     - **c)** sposobu postępowania z materiałem siewnym niezaliczonym do kategorii elitarny, kategorii kwalifikowany lub kategorii standard,
     - **d)** tworzenia partii materiału siewnego z materiału siewnego wytworzonego przez różnych producentów lub w różnych latach,
@@ -1666,18 +1661,18 @@ Art. 127–130. (pominięte)
 5. Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia:
 
 - **1)** zakres i terminy składania informacji, o których mowa w ust. 1 pkt 1, z uwzględnieniem poszczególnych gatunków oraz danych o produkcji własnej, zakupie, sprzedaży i zapasach, pozwalających zbilansować obrót materiałem siewnym u każdego prowadzącego obrót na terytorium Rzeczypospolitej Polskiej,
-- **2)** sposób prowadzenia dokumentacji, o której mowa w ust. 1 pkt 2 mając na uwadze specyfikę wytwarzania, przerobu i przygotowania poszczególnych grup roślin lub gatunków partii materiału siewnego do wprowadzenia do obrotu oraz prowadzenie w jednolity sposób dokumentacji dotyczącej materiału siewnego, a także zapewnienie jednolitego sposobu składania informacji.
+- **2)** sposób prowadzenia dokumentacji, o której mowa w ust. 1 pkt 2 – mając na uwadze specyfikę wytwarzania, przerobu i przygotowania poszczególnych grup roślin lub gatunków partii materiału siewnego do wprowadzenia do obrotu oraz prowadzenie w jednolity sposób dokumentacji dotyczącej materiału siewnego, a także zapewnienie jednolitego sposobu składania informacji.
 
 **Art. 93.**
 
 1. Zachowujący odmianę wprowadzający do obrotu materiał siewny roślin warzywnych kategorii standard własnych odmian:
 
-- **1)** przechowuje przez 3 lata dokumentację dotyczącą wytworzenia każdej partii materiału siewnego i udostępnia ją wojewódzkiemu inspektorowi właściwemu ze względu na miejsce zamieszkania albo siedzibę zachowującego odmianę, albo miejsce wykonywania działalności gospodarczej, jeżeli jest inne niż miejsce zamieszkania zachowującego odmianę w przypadku gdy zachowującym odmianę jest osoba fizyczna prowadząca działalność gospodarczą, lub właściwym urzędom innego niż Rzeczpospolita Polska państwa członkowskiego;
+- **1)** przechowuje przez 3 lata dokumentację dotyczącą wytworzenia każdej partii materiału siewnego i udostępnia ją wojewódzkiemu inspektorowi właściwemu ze względu na miejsce zamieszkania albo siedzibę zachowującego odmianę, albo miejsce wykonywania działalności gospodarczej, jeżeli jest inne niż miejsce zamieszkania zachowującego odmianę – w przypadku gdy zachowującym odmianę jest osoba fizyczna prowadząca działalność gospodarczą, lub właściwym urzędom innego niż Rzeczpospolita Polska państwa członkowskiego;
 - **2)** przechowuje przez 2 lata próby wzorcowe z każdej:
     - **a)** partii materiału siewnego wytworzonej i wprowadzonej do obrotu, licząc od dnia wprowadzenia tej partii do obrotu,
-    - **b)** partii materiału siewnego odmian skreślonych z krajowego rejestru, licząc od dnia ich skreślenia i udostępnia wojewódzkiemu inspektorowi właściwemu ze względu na miejsce zamieszkania albo siedzibę zachowującego odmianę, albo miejsce wykonywania działalności gospodarczej, jeżeli jest inne niż miejsce zamieszkania zachowującego odmianę w przypadku gdy zachowującym odmianę jest osoba fizyczna prowadząca działalność gospodarczą lub właściwym urzędom innego niż Rzeczpospolita Polska państwa członkowskiego;
+    - **b)** partii materiału siewnego odmian skreślonych z krajowego rejestru, licząc od dnia ich skreślenia – i udostępnia wojewódzkiemu inspektorowi właściwemu ze względu na miejsce zamieszkania albo siedzibę zachowującego odmianę, albo miejsce wykonywania działalności gospodarczej, jeżeli jest inne niż miejsce zamieszkania zachowującego odmianę – w przypadku gdy zachowującym odmianę jest osoba fizyczna prowadząca działalność gospodarczą lub właściwym urzędom innego niż Rzeczpospolita Polska państwa członkowskiego;
 
-- **3)** składa wojewódzkiemu inspektorowi właściwemu ze względu na miejsce zamieszkania albo siedzibę zachowującego odmianę albo miejsce wykonywania działalności gospodarczej, jeżeli jest inne niż miejsce zamieszkania zachowującego odmianę w przypadku gdy zachowującym odmianę jest osoba fizyczna prowadząca działalność gospodarczą sprawozdanie na piśmie o ilości wprowadzonego do obrotu materiału siewnego.
+- **3)** składa wojewódzkiemu inspektorowi właściwemu ze względu na miejsce zamieszkania albo siedzibę zachowującego odmianę albo miejsce wykonywania działalności gospodarczej, jeżeli jest inne niż miejsce zamieszkania zachowującego odmianę – w przypadku gdy zachowującym odmianę jest osoba fizyczna prowadząca działalność gospodarczą sprawozdanie na piśmie o ilości wprowadzonego do obrotu materiału siewnego.
 
 2. Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia, wielkość prób wzorcowych, o których mowa w ust. 1 pkt 2, oraz terminy i zakres składania sprawozdania, o którym mowa w ust. 1 pkt 3, mając na względzie zbilansowanie obrotu materiałem siewnym roślin warzywnych kategorii standard oraz zapewnienie prawidłowego przeprowadzenia kontroli.
 
@@ -1705,8 +1700,8 @@ Art. 127–130. (pominięte)
 
 1. Materiał siewny znajdujący się w obrocie zaopatruje się w etykiety wydawane przez:
 
-- **1)** wojewódzkiego inspektora dla materiału siewnego wytworzonego na terytorium Rzeczypospolitej Polskiej albo
-- **2)** właściwy urząd innego niż Rzeczpospolita Polska państwa członkowskiego dla materiału siewnego wytworzonego na terytorium tego państwa, albo
+- **1)** wojewódzkiego inspektora – dla materiału siewnego wytworzonego na terytorium Rzeczypospolitej Polskiej albo
+- **2)** właściwy urząd innego niż Rzeczpospolita Polska państwa członkowskiego – dla materiału siewnego wytworzonego na terytorium tego państwa, albo
 - **3)** prowadzącego obrót.
 
 2. Etykiety, o których mowa w ust. 1 pkt 1 i 2, są etykietami urzędowymi.
@@ -1747,14 +1742,14 @@ Art. 127–130. (pominięte)
 
 **Art. 98.**
 
-- **42)** 1. Etykiety i plomby urzędowe, na wniosek prowadzącego obrót, wydaje odpłatnie wojewódzki inspektor.
+1. Etykiety i plomby urzędowe, na wniosek prowadzącego obrót, wydaje odpłatnie wojewódzki inspektor.
 
 2. Wojewódzki inspektor może upoważnić prowadzącego obrót do:
 
 - **1)** wypełniania etykiet urzędowych albo
 - **2)** wydawania etykiet urzędowych.
 
-3. W zakresie nieuregulowanym w niniejszym artykule do udzielenia upoważnienia, o którym mowa w ust. 2, stosuje się przepisy działu II rozdziału 8a Kodeksu postępowania administracyjnego, z tym że termin określony w art. 122a § 2 liczy się od dnia złożenia przez prowadzącego obrót oświadczenia do wojewódzkiego inspektora właściwego ze względu na miejsce zamieszkania albo siedzibę prowadzącego obrót, albo miejsce wykonywania działalności gospodarczej, jeżeli jest inne niż miejsce zamieszkania prowadzącego obrót w przypadku gdy prowadzącym obrót jest osoba fizyczna wykonująca działalność gospodarczą.
+3. W zakresie nieuregulowanym w niniejszym artykule do udzielenia upoważnienia, o którym mowa w ust. 2, stosuje się przepisy działu II rozdziału 8a Kodeksu postępowania administracyjnego, z tym że termin określony w art. 122a § 2 liczy się od dnia złożenia przez prowadzącego obrót oświadczenia do wojewódzkiego inspektora właściwego ze względu na miejsce zamieszkania albo siedzibę prowadzącego obrót, albo miejsce wykonywania działalności gospodarczej, jeżeli jest inne niż miejsce zamieszkania prowadzącego obrót – w przypadku gdy prowadzącym obrót jest osoba fizyczna wykonująca działalność gospodarczą.
 
 4. Oświadczenie, o którym mowa w ust. 3, zawiera:
 
@@ -1805,7 +1800,7 @@ Art. 127–130. (pominięte)
 - **7)** nazwę botaniczną;
 - **8)** nazwę odmiany albo jej opis;
 - **9)** liczbę roślin objętych dokumentem dostawcy;
-- **10)** nazwę państwa, w którym dokonano zbioru materiału w przypadku importu z państw trzecich.
+- **10)** nazwę państwa, w którym dokonano zbioru materiału – w przypadku importu z państw trzecich.
 
 4. Dokumentem dostawcy może być paszport roślin, jeżeli zawiera informacje, o których mowa w ust. 3 pkt 1, 3, 7 i 9.
 
@@ -1817,8 +1812,8 @@ Art. 127–130. (pominięte)
 
 1. Materiał szkółkarski kategorii elitarny i kategorii kwalifikowany zaopatruje się w etykiety wydawane przez:
 
-- **1)** wojewódzkiego inspektora dla materiału wytworzonego na terytorium Rzeczypospolitej Polskiej albo
-- **2)** właściwy urząd innego niż Rzeczpospolita Polska państwa członkowskiego dla materiału wytworzonego na terytorium tego państwa.
+- **1)** wojewódzkiego inspektora – dla materiału wytworzonego na terytorium Rzeczypospolitej Polskiej albo
+- **2)** właściwy urząd innego niż Rzeczpospolita Polska państwa członkowskiego – dla materiału wytworzonego na terytorium tego państwa.
 
 2. Etykiety, o których mowa w ust. 1, są etykietami urzędowymi.
 
@@ -1859,7 +1854,7 @@ Art. 127–130. (pominięte)
 2. Szkółkarski dokument dostawcy zawiera:
 
 - **1)** informacje określone w przepisach wydanych na podstawie art. 103c pkt 2 oraz oznaczenie odbiorcy;
-- **2)** co najmniej nazwę botaniczną, nazwę odmiany albo opis tej odmiany dla materiału przeznaczonego dla nieprofesjonalnych odbiorców roślin sadowniczych.
+- **2)** co najmniej nazwę botaniczną, nazwę odmiany albo opis tej odmiany – dla materiału przeznaczonego dla nieprofesjonalnych odbiorców roślin sadowniczych.
 
 3. Szkółkarski dokument dostawcy jest wydawany przez dostawcę w dwóch egzemplarzach, przy czym jeden egzemplarz dołącza się do każdej przesyłki zawierającej materiał, o którym mowa w ust. 1, a drugi pozostawia u dostawcy.
 
@@ -1884,7 +1879,8 @@ Art. 127–130. (pominięte)
 - **3)** materiał szkółkarski kategorii elitarny, materiał szkółkarski kategorii kwalifikowany i materiał szkółkarski CAC odmian roślin chronionych wyłącznym prawem do odmiany, wpisanych do krajowego rejestru, lub odmian powszechnie znanych;
 - **4)** sadzonki winorośli;
 - **5)** materiał siewny kategorii elitarny, kategorii kwalifikowany i kategorii standard winorośli;
-- **6)** sadzonki winorośli dopuszczone do obrotu na podstawie decyzji Komisji 2010/680/UE z dnia 9 listopada 2010 r. zwalniającej Bułgarię, Republikę Czeską, Danię, Niemcy, Estonię, Irlandię, Hiszpanię, Francję, Cypr, Łotwę, Litwę, Maltę, Niderlandy, Polskę, Słowenię, Słowację, Finlandię, Szwecję i Zjednoczone Królestwo z obowiązku stosowania do niektórych gatunków dyrektyw Rady 66/401/EWG, 66/402/EWG, 68/193/EWG, 1999/105/WE, 2002/54/WE, 2002/55/WE i 2002/57/WE w sprawie obrotu materiałem siewnym roślin pastewnych, materiałem siewnym roślin zbożowych, materiałem do wegetatywnego rozmnażania winorośli, leśnym materiałem rozmnożeniowym, materiałem siewnym buraka, materiałem siewnym warzyw oraz materiałem siewnym roślin oleistych i włóknistych (Dz. Urz. UE L 292 z 10.11.2010, str. 57);
+- **6)** sadzonki winorośli dopuszczone do obrotu na podstawie decyzji Komisji 2010/680/UE z dnia 9 listopada 2010 r. zwalniającej Bułgarię, Republikę Czeską, Danię, Niemcy, Estonię, Irlandię, Hiszpanię, Francję, Cypr, Łotwę, Litwę, Maltę, Niderlandy, Polskę, Słowenię, Słowację, Finlandię, Szwecję i Zjednoczone Królestwo z obowiązku stosowania do niektórych gatunków dyrektyw Rady 66/401/EWG, 66/402/EWG, 68/193/EWG, 1999/105/WE, 2002/54/WE, 2002/55/WE i 2002/57/WE w sprawie obrotu materiałem siewnym roślin pastewnych, materiałem siewnym roślin zbożowych, materiałem do wegetatywnego rozmnażania winorośli, leśnym materiałem rozmnożeniowym, materiałem siewnym buraka, materiałem siewnym warzyw oraz materiałem siewnym roślin oleistych i włóknistych (Dz. Urz. UE L 292 z 10.11.2010, str.
+- **57)** ;
 - **7)** materiał szkółkarski kategorii elitarny, materiał szkółkarski kategorii kwalifikowany i materiał szkółkarski CAC podkładek nienależących do odmiany;
 - **8)** materiał siewny kategorii elitarny i kategorii kwalifikowany odmian roślin rolniczych pochodzących z państw trzecich objętych systemem OECD, nieprzeznaczony do obrotu na obszarze Unii Europejskiej;
 - **9)** materiał rozmnożeniowy i materiał nasadzeniowy roślin warzywnych uzyskany z materiału siewnego kategorii elitarny, kategorii kwalifikowany lub kategorii standard odmian wpisanych do krajowego rejestru lub wspólnotowego katalogu, lub rejestru państwa stowarzyszonego albo skreślonych z krajowego rejestru lub wspólnotowego katalogu, lub rejestru państwa stowarzyszonego;
@@ -1904,11 +1900,13 @@ Art. 127–130. (pominięte)
 - **18)** materiał siewny odmian amatorskich;
 - **19)** mieszanki dla ochrony środowiska;
 - **20)** materiał siewny wytworzony w ramach tymczasowego eksperymentu;
-- **21)** materiał siewny kategorii elitarny, a w przypadku koniczyny łąkowej również materiał siewny kategorii elitarny oraz materiał siewny kategorii kwalifikowany, który nie spełnia określonych dla danej kategorii wymagań w zakresie zdolności kiełkowania.
+- **21)** materiał siewny kategorii elitarny, a w przypadku koniczyny łąkowej – również materiał siewny kategorii elitarny oraz materiał siewny kategorii kwalifikowany, który nie spełnia określonych dla danej kategorii wymagań w zakresie zdolności kiełkowania.
 
 2. Materiał siewny, o którym mowa w ust. 1 pkt 2, może znajdować się w obrocie w terminie podanym przy skreślonej odmianie w krajowym rejestrze, odpowiednich rejestrach innych niż Rzeczpospolita Polska państw członkowskich lub wspólnotowym katalogu lub rejestrze państwa stowarzyszonego.
 
-3. Materiał siewny, o którym mowa w ust. 1 pkt 16, może znajdować się w obrocie w okresie i ilościach określonych w decyzji, o której mowa w art. 108 ust. 3.
+3. Materiał siewny, o którym mowa w ust. 1 pkt 16, może znajdować się w obrocie w okresie i ilościach określonych w decyzji, o której mowa w art. 108 ust.
+
+3.
 
 4. Materiał siewny, o którym mowa w ust. 1 pkt 17, może znajdować się w obrocie w okresie, ilościach i regionie pochodzenia określonych w decyzji, o której mowa w art. 109 ust. 1.
 
@@ -1953,7 +1951,7 @@ Art. 127–130. (pominięte)
 
 - **1)** szczegółowe terminy składania wniosku, o którym mowa w ust. 4,
 - **2)** wzór wniosku, o którym mowa w ust. 4,
-- **3)** warunki i sposób wprowadzania do obrotu materiału siewnego, o którym mowa w ust. 1 mając na względzie przepisy Unii Europejskiej obowiązujące w tym zakresie oraz zapewnienie właściwej identyfikacji tego materiału siewnego w obrocie, a także zapewnienie sprawnego i poprawnego składania wniosków.
+- **3)** warunki i sposób wprowadzania do obrotu materiału siewnego, o którym mowa w ust. 1 – mając na względzie przepisy Unii Europejskiej obowiązujące w tym zakresie oraz zapewnienie właściwej identyfikacji tego materiału siewnego w obrocie, a także zapewnienie sprawnego i poprawnego składania wniosków.
 
 **Art. 105a.** (uchylony)
 
@@ -1967,14 +1965,14 @@ Art. 127–130. (pominięte)
 
 3. Wniosek, o którym mowa w ust. 2, zawiera:
 
-- **1)** imię i nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę prowadzącego obrót, z tym że w przypadku gdy prowadzącym obrót jest osoba fizyczna prowadząca działalność gospodarczą zamiast adresu i miejsca zamieszkania tej osoby miejsce i adres wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby;
+- **1)** imię i nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę prowadzącego obrót, z tym że w przypadku gdy prowadzącym obrót jest osoba fizyczna prowadząca działalność gospodarczą zamiast adresu i miejsca zamieszkania tej osoby – miejsce i adres wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby;
 - **2)** określenie rodzaju mieszanki (mieszanka dla ochrony środowiska zbierana bezpośrednio albo uprawiana mieszanka dla ochrony środowiska);
 - **3)** procentowy skład wagowy poszczególnych składników mieszanki dla ochrony środowiska, z podaniem gatunków;
-- **4)** zdolność kiełkowania poszczególnych składników mieszanki dla ochrony środowiska objętych przepisami ustawy w przypadku uprawianych mieszanek dla ochrony środowiska;
+- **4)** zdolność kiełkowania poszczególnych składników mieszanki dla ochrony środowiska objętych przepisami ustawy – w przypadku uprawianych mieszanek dla ochrony środowiska;
 - **5)** określenie proponowanej do wprowadzenia do obrotu ilości mieszanki dla ochrony środowiska;
 - **6)** wskazanie regionu pochodzenia mieszanki dla ochrony środowiska, którego położenie określa się zgodnie z granicami jednostek zasadniczego trójstopniowego podziału terytorialnego państwa;
 - **7)** wskazanie obszaru źródłowego;
-- **8)** określenie miejsca zbioru, a w przypadku uprawianych mieszanek dla ochrony środowiska dodatkowo miejsca rozmnażania;
+- **8)** określenie miejsca zbioru, a w przypadku uprawianych mieszanek dla ochrony środowiska – dodatkowo miejsca rozmnażania;
 - **9)** termin i sposób zbioru mieszanek zbieranych bezpośrednio;
 - **10)** określenie rodzaju siedliska występującego w miejscu zbioru;
 - **11)** rok zbioru mieszanki dla ochrony środowiska.
@@ -1983,7 +1981,7 @@ Art. 127–130. (pominięte)
 
 5. W decyzji, o której mowa w ust. 1, określa się:
 
-- **1)** imię i nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę prowadzącego obrót, z tym że w przypadku gdy prowadzącym obrót jest osoba fizyczna prowadząca działalność gospodarczą zamiast adresu i miejsca zamieszkania tej osoby miejsce i adres wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby;
+- **1)** imię i nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę prowadzącego obrót, z tym że w przypadku gdy prowadzącym obrót jest osoba fizyczna prowadząca działalność gospodarczą zamiast adresu i miejsca zamieszkania tej osoby – miejsce i adres wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby;
 - **2)** ilość mieszanki dla ochrony środowiska, jaka może być wprowadzona do obrotu;
 - **3)** region pochodzenia mieszanki dla ochrony środowiska, którego położenie określa się zgodnie z granicami jednostek zasadniczego trójstopniowego podziału terytorialnego państwa;
 - **4)** okres, w jakim wprowadza się mieszankę dla ochrony środowiska do obrotu;
@@ -1994,7 +1992,7 @@ Art. 127–130. (pominięte)
 7. Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia:
 
 - **1)** terminy składania wniosku, o którym mowa w ust. 2,
-- **2)** wzór wniosku, o którym mowa w ust. 2 biorąc pod uwagę cechy biologiczne poszczególnych grup roślin i gatunków oraz konieczność właściwego i sprawnego zbilansowania ilości mieszanek dla ochrony środowiska, a także zapewnienie sprawnego i poprawnego składania wniosków.
+- **2)** wzór wniosku, o którym mowa w ust. 2 – biorąc pod uwagę cechy biologiczne poszczególnych grup roślin i gatunków oraz konieczność właściwego i sprawnego zbilansowania ilości mieszanek dla ochrony środowiska, a także zapewnienie sprawnego i poprawnego składania wniosków.
 
 **Art. 107.** Minister właściwy do spraw rolnictwa przekazuje, na wniosek Komisji Europejskiej lub właściwych organów państw członkowskich, informacje dotyczące ilości mieszanek dla ochrony środowiska wprowadzonych do obrotu na terytorium Rzeczypospolitej Polskiej oraz organów, o których mowa w art. 106 ust. 2.
 
@@ -2010,10 +2008,10 @@ Art. 127–130. (pominięte)
 
 4. Wniosek, o którym mowa w ust. 3, zawiera:
 
-- **1)** imię i nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę zachowującego odmianę, z tym że w przypadku gdy zachowującym odmianę jest osoba fizyczna prowadząca działalność gospodarczą zamiast adresu i miejsca zamieszkania tej osoby miejsce i adres wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby;
+- **1)** imię i nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę zachowującego odmianę, z tym że w przypadku gdy zachowującym odmianę jest osoba fizyczna prowadząca działalność gospodarczą zamiast adresu i miejsca zamieszkania tej osoby – miejsce i adres wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby;
 - **2)** nazwę rodzaju lub gatunku rośliny w języku polskim i nazwę botaniczną oraz:
-    - **a)** w przypadku roślin rolniczych: opis odmiany, powierzchnię plantacji nasiennej i przewidywany zbiór materiału siewnego z przeznaczeniem do testów lub doświadczeń polowych, ilość materiału siewnego proponowaną do wprowadzenia do obrotu z przeznaczeniem do testów lub doświadczeń polowych, państwo członkowskie, w którym będą przeprowadzane testy lub doświadczenia polowe, miejsce prowadzenia zachowania odmiany,
-    - **b)** w przypadku roślin warzywnych: opis odmiany, miejsce prowadzenia zachowania odmiany, potwierdzenie przyjęcia odmiany do badań przez właściwy urząd państwa członkowskiego, w przypadku zgłoszenia odmiany w tym państwie.
+    - **a)** w przypadku roślin rolniczych: – opis odmiany, – powierzchnię plantacji nasiennej i przewidywany zbiór materiału siewnego z przeznaczeniem do testów lub doświadczeń polowych, – ilość materiału siewnego proponowaną do wprowadzenia do obrotu z przeznaczeniem do testów lub doświadczeń polowych, – państwo członkowskie, w którym będą przeprowadzane testy lub doświadczenia polowe, – miejsce prowadzenia zachowania odmiany,
+    - **b)** w przypadku roślin warzywnych: – opis odmiany, – miejsce prowadzenia zachowania odmiany, – potwierdzenie przyjęcia odmiany do badań przez właściwy urząd państwa członkowskiego, w przypadku zgłoszenia odmiany w tym państwie.
 
 5. Dyrektor Centralnego Ośrodka wydaje zgodę na wprowadzenie do obrotu materiału siewnego odmiany z przeznaczeniem do testów lub doświadczeń polowych:
 
@@ -2024,10 +2022,10 @@ Art. 127–130. (pominięte)
 
 - **1)** nazwę gatunku;
 - **2)** nazwę odmiany;
-- **3)** ilość materiału siewnego, jaka może być wprowadzona do obrotu w przypadku roślin rolniczych;
-- **4)** okres, na jaki została wydana zgoda na wprowadzenie do obrotu materiału siewnego odmiany z przeznaczeniem do testów lub doświadczeń polowych jednak nie dłuższy niż rok;
-- **5)** nazwę państwa, w którym będą przeprowadzane testy lub doświadczenia polowe w przypadku roślin rolniczych;
-- **6)** powierzchnię plantacji nasiennej w przypadku roślin rolniczych.
+- **3)** ilość materiału siewnego, jaka może być wprowadzona do obrotu – w przypadku roślin rolniczych;
+- **4)** okres, na jaki została wydana zgoda na wprowadzenie do obrotu materiału siewnego odmiany z przeznaczeniem do testów lub doświadczeń polowych – jednak nie dłuższy niż rok;
+- **5)** nazwę państwa, w którym będą przeprowadzane testy lub doświadczenia polowe – w przypadku roślin rolniczych;
+- **6)** powierzchnię plantacji nasiennej – w przypadku roślin rolniczych.
 
 7. Kopię decyzji, o której mowa w ust. 3, dyrektor Centralnego Ośrodka przesyła do ministra właściwego do spraw rolnictwa oraz do Głównego Inspektora.
 
@@ -2035,22 +2033,22 @@ Art. 127–130. (pominięte)
 
 9. Ilość materiału siewnego odmiany rośliny rolniczej, na którą została wydana zgoda na wprowadzenie do obrotu, nie może przekraczać wartości procentowych materiału siewnego danego gatunku stosowanego rocznie do zasiewów w państwie członkowskim, w którym będą przeprowadzane testy lub doświadczenia polowe dla:
 
-- **1)** pszenicy twardej 0,05%;
-- **2)** bobiku, grochu siewnego, jęczmienia, owsa, pszenicy zwyczajnej 0,3%;
-- **3)** pozostałych gatunków 0,1%.
+- **1)** pszenicy twardej – 0,05%;
+- **2)** bobiku, grochu siewnego, jęczmienia, owsa, pszenicy zwyczajnej – 0,3%;
+- **3)** pozostałych gatunków – 0,1%.
 
 10. Jeżeli ilość materiału siewnego określona w ust. 9 nie wystarcza do obsiania 10 ha, dyrektor Centralnego Ośrodka, w drodze decyzji, wydaje zgodę na wprowadzenie do obrotu materiału siewnego w ilości niezbędnej do obsiania 10 ha.
 
 11. Zainteresowany podmiot może złożyć wniosek o przedłużenie okresu, na jaki została wydana zgoda, o której mowa w ust. 3, jeżeli odmiana jest nadal poddawana badaniom:
 
-- **1)** w przypadku roślin rolniczych za każdym razem, na okres nie dłuższy niż rok;
-- **2)** w przypadku roślin warzywnych maksymalnie dwukrotnie, na okresy nie dłuższe niż rok.
+- **1)** w przypadku roślin rolniczych – za każdym razem, na okres nie dłuższy niż rok;
+- **2)** w przypadku roślin warzywnych – maksymalnie dwukrotnie, na okresy nie dłuższe niż rok.
 
 12. Do wniosku, o którym mowa w ust. 11, dołącza się:
 
 - **1)** kopię pierwszej decyzji, o której mowa w ust. 3;
 - **2)** informacje dotyczące opisu, zachowania odmiany, wartości gospodarczej odmiany albo praktycznej wiedzy z jej uprawy uzupełniające informacje zawarte we wniosku, o którym mowa w ust. 3;
-- **3)** zaświadczenie wydane przez właściwy urząd innego niż Rzeczpospolita Polska państwa członkowskiego potwierdzające, że odmiana nadal jest poddawana badaniom w przypadku roślin warzywnych.
+- **3)** zaświadczenie wydane przez właściwy urząd innego niż Rzeczpospolita Polska państwa członkowskiego potwierdzające, że odmiana nadal jest poddawana badaniom – w przypadku roślin warzywnych.
 
 13. Dyrektor Centralnego Ośrodka, w drodze decyzji:
 
@@ -2073,7 +2071,7 @@ Art. 127–130. (pominięte)
 
 3. Wniosek, o którym mowa w ust. 2, zawiera:
 
-- **1)** imię i nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę zachowującego odmianę regionalną, z tym że w przypadku gdy zachowującym odmianę regionalną jest osoba fizyczna prowadząca działalność gospodarczą zamiast adresu i miejsca zamieszkania tej osoby miejsce i adres wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby;
+- **1)** imię i nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę zachowującego odmianę regionalną, z tym że w przypadku gdy zachowującym odmianę regionalną jest osoba fizyczna prowadząca działalność gospodarczą zamiast adresu i miejsca zamieszkania tej osoby – miejsce i adres wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby;
 - **2)** nazwę rodzaju lub gatunku rośliny uprawnej w języku polskim oraz nazwę botaniczną;
 - **3)** nazwę odmiany regionalnej;
 - **4)** położenie i powierzchnię plantacji nasiennej oraz przewidywaną ilość materiału siewnego odmiany regionalnej, jaka może być wprowadzona do obrotu.
@@ -2082,8 +2080,8 @@ Art. 127–130. (pominięte)
 
 5. Ilość materiału siewnego odmiany regionalnej roślin rolniczych, na jaką została wydana zgoda, o której mowa w ust. 1, nie może przekraczać wartości procentowych materiału siewnego danego gatunku stosowanego rocznie do zasiewów na terytorium Rzeczypospolitej Polskiej dla:
 
-- **1)** rzepaku, jęczmienia, pszenicy, grochu, słonecznika, kukurydzy i ziemniaka 0,3%;
-- **2)** pozostałych gatunków 0,5%.
+- **1)** rzepaku, jęczmienia, pszenicy, grochu, słonecznika, kukurydzy i ziemniaka – 0,3%;
+- **2)** pozostałych gatunków – 0,5%.
 
 6. Jeżeli ilość materiału siewnego odmiany regionalnej roślin rolniczych określona w ust. 5 nie wystarcza do obsiania 100 ha, minister właściwy do spraw rolnictwa w decyzji, o której mowa w ust. 1, określa ilość materiału siewnego niezbędną do obsiania 100 ha.
 
@@ -2109,7 +2107,7 @@ Art. 127–130. (pominięte)
 
 5. Wniosek, o którym mowa w ust. 3, zawiera:
 
-- **1)** imię i nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę zachowującego odmianę, z tym że w przypadku gdy zachowującym odmianę jest osoba fizyczna prowadząca działalność gospodarczą zamiast adresu i miejsca zamieszkania tej osoby miejsce i adres wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby;
+- **1)** imię i nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę zachowującego odmianę, z tym że w przypadku gdy zachowującym odmianę jest osoba fizyczna prowadząca działalność gospodarczą zamiast adresu i miejsca zamieszkania tej osoby – miejsce i adres wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby;
 - **2)** nazwę rodzaju lub gatunku rośliny uprawnej w języku polskim i nazwę botaniczną;
 - **3)** nazwę odmiany regionalnej;
 - **4)** wskazanie regionu pochodzenia, którego położenie określa się zgodnie z granicami jednostek zasadniczego trójstopniowego podziału terytorialnego państwa;
@@ -2177,8 +2175,8 @@ Art. 127–130. (pominięte)
 
 6. Opłatę, o której mowa w ust. 1 pkt 11, wnosi się corocznie, w terminie do dnia 15 lutego, na podstawie rachunku wystawionego przez:
 
-- **1)** wojewódzkiego inspektora w przypadku nadzoru nad pracą akredytowanych kwalifikatorów i akredytowanych próbobiorców;
-- **2)** Głównego Inspektora w przypadku nadzoru nad akredytowanymi laboratoriami.
+- **1)** wojewódzkiego inspektora – w przypadku nadzoru nad pracą akredytowanych kwalifikatorów i akredytowanych próbobiorców;
+- **2)** Głównego Inspektora – w przypadku nadzoru nad akredytowanymi laboratoriami.
 
 7. Opłaty, o których mowa w ust. 1 pkt 1–3 i 10, pobiera się również w przypadku materiału siewnego odmian roślin rolniczych objętych systemami OECD, nieprzeznaczonych do obrotu na obszarze Unii Europejskiej.
 
@@ -2192,7 +2190,7 @@ Art. 127–130. (pominięte)
 
 **Art. 118.** Minister właściwy do spraw rolnictwa w porozumieniu z ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia:
 
-## TYTUŁ VIa Dotacje do badań podstawowych w hodowli roślin i nasiennictwie
+## TYTUŁ VIA Dotacje do badań podstawowych w hodowli roślin i nasiennictwie
 
 **Art. 118a.**
 
@@ -2204,7 +2202,7 @@ Art. 127–130. (pominięte)
 
 **Art. 119.** Z państw trzecich może być przywożony wyłącznie materiał siewny dopuszczony do obrotu.
 
-**Art. 120.** Prowadzący obrót materiałem siewnym lub dostawca, który przywiózł z państw trzecich materiał siewny, w terminie 3 dni od dnia odprawy celnej, informuje wojewódzkiego inspektora właściwego ze względu na miejsce zamieszkania albo siedzibę prowadzącego obrót lub dostawcy, albo miejsce wykonywania działalności gospodarczej, jeżeli jest inne niż miejsce zamieszkania prowadzącego obrót lub dostawcy w przypadku gdy prowadzącym obrót jest osoba fizyczna prowadząca działalność gospodarczą, o ilości i rodzaju przywiezionego materiału siewnego oraz przedstawia dokumenty dotyczące wytwarzania i jakości tego materiału.
+**Art. 120.** Prowadzący obrót materiałem siewnym lub dostawca, który przywiózł z państw trzecich materiał siewny, w terminie 3 dni od dnia odprawy celnej, informuje wojewódzkiego inspektora właściwego ze względu na miejsce zamieszkania albo siedzibę prowadzącego obrót lub dostawcy, albo miejsce wykonywania działalności gospodarczej, jeżeli jest inne niż miejsce zamieszkania prowadzącego obrót lub dostawcy – w przypadku gdy prowadzącym obrót jest osoba fizyczna prowadząca działalność gospodarczą, o ilości i rodzaju przywiezionego materiału siewnego oraz przedstawia dokumenty dotyczące wytwarzania i jakości tego materiału.
 
 ## TYTUŁ VIII Kontrola materiału siewnego
 
@@ -2224,7 +2222,7 @@ Art. 127–130. (pominięte)
 
 5. Decyzje, o których mowa w ust. 4, podlegają natychmiastowemu wykonaniu.
 
-6. Do podmiotów, o których mowa w art. 86 ust. 1 i art. 87 ust. 1, niebędących przedsiębiorcami w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców (Dz. U. z 2019 r. poz. 1292 i 1495 oraz z 2020 r. poz. 424 i 1086), przepisy rozdziału 5 tej ustawy stosuje się odpowiednio.
+6. Do podmiotów, o których mowa w art. 86 ust. 1 i art. 87 ust. 1, niebędących przedsiębiorcami w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2019 r. poz. 1292 i 1495 oraz z 2020 r. poz. 424 i 1086), przepisy rozdziału 5 tej ustawy stosuje się odpowiednio.
 
 **Art. 122.**
 
@@ -2238,19 +2236,19 @@ Art. 127–130. (pominięte)
 
 **Art. 123.**
 
-1. Kto prowadzi obrót materiałem siewnym niezgodnie z warunkami określonymi w art. 104 ust. 1–7, jest obowiązany do wycofania go z obrotu na własny koszt oraz do wniesienia na rachunek wojewódzkiego inspektoratu właściwego ze względu na miejsce zamieszkania albo siedzibę prowadzącego obrót albo dostawcy, albo miejsce wykonywania działalności gospodarczej, jeżeli jest inne niż miejsce zamieszkania prowadzącego obrót albo dostawcy w przypadku gdy prowadzącym obrót jest osoba fizyczna prowadząca działalność gospodarczą, materiałem siewnym, opłaty sankcyjnej stanowiącej 200% kwoty należnej za sprzedany lub dostarczony materiał siewny.
+1. Kto prowadzi obrót materiałem siewnym niezgodnie z warunkami określonymi w art. 104 ust. 1–7, jest obowiązany do wycofania go z obrotu na własny koszt oraz do wniesienia na rachunek wojewódzkiego inspektoratu właściwego ze względu na miejsce zamieszkania albo siedzibę prowadzącego obrót albo dostawcy, albo miejsce wykonywania działalności gospodarczej, jeżeli jest inne niż miejsce zamieszkania prowadzącego obrót albo dostawcy – w przypadku gdy prowadzącym obrót jest osoba fizyczna prowadząca działalność gospodarczą, materiałem siewnym, opłaty sankcyjnej stanowiącej 200% kwoty należnej za sprzedany lub dostarczony materiał siewny.
 
 2. Kto prowadzi obrót materiałem siewnym bez zgłoszenia właściwemu wojewódzkiemu inspektorowi zamiaru prowadzenia obrotu materiałem siewnym jest obowiązany do wniesienia na rachunek wojewódzkiego inspektoratu właściwego ze względu na miejsce zamieszkania lub siedzibę prowadzącego obrót albo dostawcy, opłaty sankcyjnej w wysokości 2270 zł, na podstawie decyzji wojewódzkiego inspektora właściwego ze względu na miejsce zamieszkania lub siedzibę prowadzącego obrót albo dostawcy.
 
 3. Kto zastosował materiał siewny, co do którego zakaz stosowania wprowadzono w przepisach wydanych na podstawie art. 104 ust. 9, jest obowiązany do zniszczenia roślin oraz do wniesienia na rachunek wojewódzkiego inspektoratu właściwego ze względu na miejsce zastosowania, opłaty sankcyjnej stanowiącej 200% wartości tego materiału siewnego.
 
-4. Stwierdzenia, o którym mowa w ust. 1, że obrót materiałem siewnym jest prowadzony niezgodnie z warunkami określonymi w art. 104 ust. 1–7 dokonuje, w drodze decyzji, wojewódzki inspektor właściwy ze względu na miejsce zamieszkania albo siedzibę prowadzącego obrót albo dostawcy, albo miejsce wykonywania działalności gospodarczej, jeżeli jest inne niż miejsce zamieszkania prowadzącego obrót albo dostawcy w przypadku gdy prowadzącym obrót albo dostawcą jest osoba fizyczna prowadząca działalność gospodarczą, określając w tej decyzji ilość sprzedanego lub dostarczonego materiału siewnego i wysokość opłaty sankcyjnej, o której mowa w ust. 1.
+4. Stwierdzenia, o którym mowa w ust. 1, że obrót materiałem siewnym jest prowadzony niezgodnie z warunkami określonymi w art. 104 ust. 1–7 dokonuje, w drodze decyzji, wojewódzki inspektor właściwy ze względu na miejsce zamieszkania albo siedzibę prowadzącego obrót albo dostawcy, albo miejsce wykonywania działalności gospodarczej, jeżeli jest inne niż miejsce zamieszkania prowadzącego obrót albo dostawcy – w przypadku gdy prowadzącym obrót albo dostawcą jest osoba fizyczna prowadząca działalność gospodarczą, określając w tej decyzji ilość sprzedanego lub dostarczonego materiału siewnego i wysokość opłaty sankcyjnej, o której mowa w ust. 1.
 
 5. Stwierdzenia, o którym mowa w ust. 3, że zastosowano materiał siewny, co do którego obowiązuje zakaz stosowania wprowadzony w przepisach wydanych na podstawie art. 104 ust. 9 dokonuje, w drodze decyzji, wojewódzki inspektor właściwy ze względu na miejsce zastosowania tego materiału, określając w tej decyzji ilość i wartość zastosowanego materiału siewnego, sposób zniszczenia roślin oraz wysokość opłaty sankcyjnej, o której mowa w ust. 3.
 
 6. W przypadku gdy ilości i wartości zastosowanego materiału siewnego, co do którego obowiązuje zakaz stosowania wprowadzony w przepisach wydanych na podstawie art. 104 ust. 9, nie można określić w oparciu o dokument nabycia tego materiału, wojewódzki inspektor ustala ilość i wartość tego materiału biorąc pod uwagę powierzchnię, na której został zastosowany materiał siewny oraz stosowane w sezonie wegetacyjnym na obszarze danego województwa średnie ceny materiału siewnego i średnie normy wysiewu dla gatunku, którego materiał siewny został zastosowany.
 
-**Art. 124.** Opłata sankcyjna, o której mowa w art. 123, stanowi dochód budżetu państwa i stosuje się do niej przepisy działu III ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2020 r. poz. 1325, 1423, 2122 i 2123).
+**Art. 124.** Opłata sankcyjna, o której mowa w art. 123, stanowi dochód budżetu państwa i stosuje się do niej przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2020 r. poz. 1325, 1423, 2122 i 2123).
 
 **Art. 125.** Egzekucja opłat wynikających z decyzji, o których mowa w art. 123 ust. 2, 4 i 5, następuje w trybie przepisów o postępowaniu egzekucyjnym w administracji.
 
@@ -2280,10 +2278,10 @@ Art. 127–130. (pominięte)
 - **18)** nie składa wojewódzkiemu inspektorowi wykazu prowadzonych plantacji nasiennych odmian regionalnych, o którym mowa w art. 53 ust. 3,
 - **19)** wydaje świadectwa albo informacje wymienione w art. 73 ust. 1, które są niezgodne ze wzorami określonymi w przepisach wydanych na podstawie art. 73 ust. 8,
 - **20)** nie oznacza partii materiału siewnego wytworzonego na terytorium Rzeczypospolitej Polskiej numerem utworzonym zgodnie z przepisami wydanymi na podstawie art. 40 pkt 6, art. 72 pkt 2 lit. e lub art. 72a pkt 2,
-- **21)** będąc zachowującym odmianę wprowadzającym do obrotu materiał siewny kategorii standard roślin warzywnych własnych odmian:
+- **21)** będąc zachowującym odmianę wprowadzającym do obrotu materiał siewny kategorii standard roślin warzywnych własnych odmian: 93 ust. 1 pkt 3,
     - **a)** nie przechowuje lub nie udostępnia wojewódzkiemu inspektorowi dokumentacji, o której mowa w art. 93 ust. 1 pkt 1, lub
     - **b)** nie przechowuje lub nie udostępnia wojewódzkiemu inspektorowi lub właściwemu urzędowi innego niż Rzeczpospolita Polska państwa członkowskiego prób, o których mowa w art. 93 ust. 1 pkt 2, lub
-    - **c)** nie składa wojewódzkiemu inspektorowi sprawozdania o ilości wprowadzonego do obrotu materiału siewnego, o którym mowa w art. 93 ust. 1 pkt 3,
+    - **c)** nie składa wojewódzkiemu inspektorowi sprawozdania o ilości wprowadzonego do obrotu materiału siewnego, o którym mowa w art.
 
 - **22)** prowadzi obrót materiałem siewnym z przeznaczeniem do testów lub doświadczeń polowych niezgodnie z decyzją, o której mowa w art. 108 ust. 3,
 - **23)** nie informuje dyrektora Centralnego Ośrodka o ilości wprowadzonego do obrotu materiału siewnego, o którym mowa w art. 108 ust. 8, w terminie określonym w tym przepisie,
@@ -2300,19 +2298,13 @@ Art. 127–130. (pominięte)
 - **34)** nie przechowuje etykiet zgodnie z art. 36a,
 - **35)** nie przechowuje kopii dokumentu dostawcy, szkółkarskiego dokumentu towarzyszącego lub szkółkarskiego dokumentu dostawcy zgodnie z art. 102 ust. 6, art. 103a ust. 7 lub art. 103b ust. 6,
 - **36)** (uchylony)
-- **37)** prowadzi obrót materiałem siewnym wbrew zakazowi wprowadzonemu w przepisach wydanych na podstawie art. 104 ust. 9a podlega karze grzywny.
+- **37)** prowadzi obrót materiałem siewnym wbrew zakazowi wprowadzonemu w przepisach wydanych na podstawie art. 104 ust. 9a – podlega karze grzywny.
 
 2. Orzekanie w sprawach określonych w ust. 1 następuje w trybie przepisów Kodeksu postępowania w sprawach o wykroczenia.
 
-## TYTUŁ X 51) Przepisy zmieniające, epizodyczne, przejściowe i końcowe
+## TYTUŁ X Przepisy zmieniające, epizodyczne, przejściowe i końcowe
 
-**Art. 130a.**
-
-- **52)** W okresie obowiązywania na obszarze Rzeczypospolitej Polskiej stanu zagrożenia epidemicznego lub stanu epidemii ogłoszonych na podstawie ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2020 r. poz. 1845 i 2112) w związku z zakażeniami wirusem SARS-CoV-2 oraz w okresie od dnia odwołania tych stanów do dnia 31 grudnia 2020 r.:
-- **1)** nie przeprowadza się szkoleń, o których mowa w art. 79 ust. 3 i 5;
-- **2)** nie stosuje się przepisów:
-    - **a)** art. 64 ust. 6,
-    - **b)** art. 79 ust. 4 i 6.
+**Art. 130a.** W okresie obowiązywania na obszarze Rzeczypospolitej Polskiej stanu zagrożenia epidemicznego lub stanu epidemii ogłoszonych na podstawie ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2020 r. poz. 1845 i 2112) w związku z zakażeniami wirusem SARSCoV-2 oraz w okresie od dnia odwołania tych stanów do dnia 31 grudnia 2020 r.:
 
 **Art. 131.** Do spraw wszczętych na podstawie ustawy, o której mowa w art. 140, i niezakończonych do dnia wejścia w życie niniejszej ustawy decyzją ostateczną stosuje się przepisy dotychczasowe.
 

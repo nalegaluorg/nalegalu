@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 11 grudnia 2024 r.
+# o finansowaniu działań zmierzających do zwiększenia zdolności produkcji amunicji
+
+*USTAWA z dnia 27 listopada 2024 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +25,6 @@ domain: null
 | Data wydania | 2024-12-11 |
 | Ostatnia zmiana | 2024-12-16 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001826) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1826/text.pdf) |
-
-Poz. 1826
-USTAWA z dnia 27 listopada 2024 r.
-o finansowaniu działań zmierzających do zwiększenia zdolności produkcji amunicji
 
 **Art. 1.** Ustawa określa dodatkowe źródła finansowania działań zmierzających do zwiększenia zdolności produkcji amunicji na terytorium Rzeczypospolitej Polskiej, obejmujących realizację strategicznie ważnych inwestycji dla bezpieczeństwa kraju.
 

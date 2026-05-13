@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 8 stycznia 2016
+# Ustawa z dnia 30 grudnia 2015 r. o zmianie ustawy o służbie cywilnej oraz niektórych innych ustaw
+
+*USTAWA dnia 30 grudnia 2015 o zmianie o służbie cywilnej oraz niektórych innych ustaw*
 
 | Pole | Wartość |
 |---|---|
@@ -24,9 +26,7 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000034) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/34/text.pdf) |
 
-USTAWA dnia 30 grudnia o zmianie o służbie cywilnej oraz niektórych innych ustaw
-
-**Art. 1.** W ustawie dnia 21 listopada 2008 o służbie cywilnej (Dz. 2014 1111, późn. zm. ) wprowadza następujące zmiany:
+**Art. 1.** W ustawie dnia 21 listopada 2008 o służbie cywilnej (Dz. 2014 1111, późn. zm. ) wprowadza się następujące zmiany:
 
 **Art. 20.**
 
@@ -54,23 +54,26 @@ USTAWA dnia 30 grudnia o zmianie o służbie cywilnej oraz niektórych innych us
 
 2. Prezes Rady Ministrów odwołuje członka Rady również razie złożenia przez niego rezygnacji.
 
-3. W przypadku wygaśnięcia członkostwa Radzie lub odwołania członka Rady przed upływem kadencji,
+3. W przypadku wygaśnięcia członkostwa Radzie lub odwołania członka Rady przed upływem kadencji, Prezes Rady Ministrów powołuje nowego członka Rady na okres do końca tej kadencji.
 
-2. Obsługę prac Rady zapewnia Kancelaria Prezesa Rady Ministrów.”;
+**Art. 23.**
 
-- **7)** uchyla 24;
+1. Tryb pracy Rady określa regulamin uchwalany przez Rade.
+
+2. Obsługę prac Rady zapewnia Kancelaria Prezesa Rady Ministrów.”; ̨
+
+- **7)** uchyla się 24;
 - **8)** 25 ust. 4 pkt 2 lit. c otrzymuje brzmienie: „c) organizowanie naboru na wolne stanowiska urzędnicze,”;
 - **9)** 26 ust. 1 otrzymuje brzmienie: „1. Dyrektor generalny urzędu organizuje nabór kandydatów do korpusu służby cywilnej, zastrzeżeniem przepisów rozdziału 4.”;
-- **10)** 36:
     - **a)** ust. 1 otrzymuje brzmienie: „1. Osoby podejmujące po raz pierwszy pracę służbie cywilnej odbywają służbę przygotowawczą, zastrzeżeniem ust. 6, 6a 7.”,
-    - **b)** po ust. 6 dodaje ust. 6a brzmieniu: „6a. Osoby zatrudnionej na wyższym stanowisku służbie cywilnej nie kieruje na służbę przygotowawczą.”;
+    - **b)** po ust. 6 dodaje się ust. 6a brzmieniu: „6a. Osoby zatrudnionej na wyższym stanowisku służbie cywilnej nie kieruje się na służbę przygotowawczą.”;
 
-- **11)** 51 uchyla ust. 3;
+- **11)** 51 uchyla się ust. 3;
 - **12)** 53:
     - **a)** pkt 2 otrzymuje brzmienie: „2) nie była skazana prawomocnym wyrokiem orzekającym zakaz zajmowania stanowisk kierowniczych urzędach organów władzy publicznej lub pełnienia funkcji związanych dysponowaniem środkami publicznymi;”,
-    - **b)** uchyla pkt 4 5;
+    - **b)** uchyla się pkt 4 5;
 
-- **13)** po 53 dodaje 53a brzmieniu: „Art. 53a. 1. Osoby na stanowiska, o których mowa 52 pkt 1, powołuje odwołuje właściwy minister, kierownik urzędu centralnego, Szef Kancelarii Prezesa Rady Ministrów lub wojewoda.
+- **13)** po 53 dodaje się 53a brzmieniu: „Art. 53a. 1. Osoby na stanowiska, o których mowa 52 pkt 1, powołuje odwołuje właściwy minister, kierownik urzędu centralnego, Szef Kancelarii Prezesa Rady Ministrów lub wojewoda.
 
 2. Osoby na stanowiska, o których mowa 52 pkt 2, powołuje odwołuje dyrektor generalny urzędu.
 
@@ -78,7 +81,7 @@ USTAWA dnia 30 grudnia o zmianie o służbie cywilnej oraz niektórych innych us
 
 4. Osoby na stanowiska, o których mowa 52 pkt 4, powołuje odwołuje dyrektor Biura Nasiennictwa Leśnego.
 
-5. Powołanie na stanowiska, o których mowa ust. 1–4, jest równoznaczne nawiązaniem stosunku pracy na podstawie powołania, rozumieniu przepisów dnia 26 czerwca 1974 Kodeks pracy (Dz. 2014 1502, późn. zm. ).
+5. Powołanie na stanowiska, o których mowa ust. 1–4, jest równoznaczne nawiązaniem stosunku pracy na podstawie powołania, rozumieniu przepisów dnia 26 czerwca 1974 – Kodeks pracy (Dz. 2014 1502, późn. zm. ).
 
 6. Urzędnikowi służby cywilnej oraz pracownikowi służby cywilnej powołanemu na stanowisko, o którym mowa 52 pkt 2–4, dyrektor generalny urzędu, którym jest on zatrudniony, udziela urlopu bezpłatnego na czas powołania.
 
@@ -88,12 +91,13 @@ USTAWA dnia 30 grudnia o zmianie o służbie cywilnej oraz niektórych innych us
 
 9. Po zakończeniu urlopu bezpłatnego dyrektor generalny urzędu wyznacza urzędnikowi służby cywilnej oraz pracownikowi służby cywilnej stanowisko pracy zgodne jego kwalifikacjami umiejętnościami zawodowymi.”;
 
-- **14)** 54 uchyla ust. 1 2–6;
+- **14)** 54 uchyla się ust. 1 2–6;
+- **15)** uchyla się 55–61;
 - **16)** 64 65 otrzymują brzmienie: „Art. 64. 1. Przeniesienie urzędnika służby cywilnej oraz pracownika służby cywilnej do innego urzędu, także innej miejscowości, na jego wniosek lub za jego zgodą, może nastąpić każdym czasie.
 
 2. Przeniesienia, o którym mowa ust. 1, dokonuje dyrektor generalny urzędu, którym urzędnik służby cywilnej oraz pracownik służby cywilnej ma być zatrudniony, porozumieniu dyrektorem generalnym urzędu, którym dotychczas jest zatrudniony.
 
-**Art. 65.** Przeniesienie urzędnika służby cywilnej oraz pracownika służby cywilnej poza korpus służby cywilnej następuje na podstawie odrębnych przepisów.”;
+**Art. 65.** Przeniesienie urzędnika służby cywilnej oraz pracownika służby cywilnej poza korpus służby cywilnej następuje na podstawie odrębnych przepisów.”; „Art. 68. 1. Stosunek pracy urzędnika służby cywilnej oraz pracownika służby cywilnej tymczasowo aresztowanego ulega mocy prawa zawieszeniu. W okresie zawieszenia urzędnik służby cywilnej oraz pracownik służby cywilnej otrzymuje połowę wynagrodzenia przysługującego mu do dnia tymczasowego aresztowania. 2. W przypadku umorzenia postępowania karnego albo wydania wyroku uniewinniającego urzędnikowi służby cywilnej oraz pracownikowi służby cywilnej należy wypłacić pozostałą część wynagrodzenia miesięcznego; nie dotyczy to warunkowego umorzenia postępowania karnego. 3. Okres zawieszenia stosunku pracy wskutek tymczasowego aresztowania wlicza się do okresu zatrudnienia, od którego zależą uprawnienia pracownicze urzędnika służby cywilnej oraz pracownika służby cywilnej.
 
 **Art. 69.**
 
@@ -103,18 +107,20 @@ USTAWA dnia 30 grudnia o zmianie o służbie cywilnej oraz niektórych innych us
 
 3. W okresie zawieszenia, o którym mowa ust. 1, urzędnik służby cywilnej oraz pracownik służby cywilnej zachowuje prawo do wynagrodzenia oraz innych uprawnień świadczeń przysługujących służbie cywilnej.
 
-4. Okres zawieszenia wlicza do okresu zatrudnienia, od którego zależą uprawnienia pracownicze urzędnika służby cywilnej oraz pracownika służby cywilnej.”;
+4. Okres zawieszenia wlicza się do okresu zatrudnienia, od którego zależą uprawnienia pracownicze urzędnika służby cywilnej oraz pracownika służby cywilnej.”;
 
 - **18)** 72 otrzymuje brzmienie: „Art. 72. W okresie wypowiedzenia urzędnik służby cywilnej oraz pracownik służby cywilnej może być zwolniony pełnienia obowiązków, zachowaniem prawa do wynagrodzenia.”;
 - **19)** 74 75 otrzymują brzmienie: „Art. 74. Dyrektor generalny urzędu rozwiązuje stosunek pracy lub stwierdza wygaśnięcie stosunku pracy urzędnika służby cywilnej oraz pracownika służby cywilnej.
 
-**Art. 75.** W razie przeniesienia urzędnika służby cywilnej oraz pracownika służby cywilnej do innego urzędu jego akta osobowe wraz pozostałą dokumentacją sprawach związanych ze stosunkiem pracy przekazuje do urzędu, którym urzędnik służby cywilnej oraz pracownik służby cywilnej ma być zatrudniony.”;
+**Art. 75.** W razie przeniesienia urzędnika służby cywilnej oraz pracownika służby cywilnej do innego urzędu jego akta osobowe wraz pozostałą dokumentacją sprawach związanych ze stosunkiem pracy przekazuje się do urzędu, którym urzędnik służby cywilnej oraz pracownik służby cywilnej ma być zatrudniony.”;
 
-**Art. 2.** W ustawie dnia 4 września 1997 o działach administracji rządowej (Dz. 812, późn. zm. ) 33c otrzymuje brzmienie: „Art. 33c. W razie stwierdzenia nieprawidłowości przebiegu naboru na stanowisko kierownika jednostki organizacyjnej podległej lub nadzorowanej przez Prezesa Rady Ministrów lub właściwego ministra, na które na podArt. 3. W ustawie dnia 13 października 1998 o systemie ubezpieczeń społecznych (Dz. 121, późn. zm. ) wprowadza następujące zmiany:
+**Art. 2.** W ustawie dnia 4 września 1997 o działach administracji rządowej (Dz. 2015 812, późn. zm. ) 33c otrzymuje brzmienie: „Art. 33c. W razie stwierdzenia nieprawidłowości przebiegu naboru na stanowisko kierownika jednostki organizacyjnej podległej lub nadzorowanej przez Prezesa Rady Ministrów lub właściwego ministra, na które na podstawie odrębnych przepisów przeprowadza się otwarty konkurencyjny nabór, Prezes Rady Ministrów może zarządzić ponowne przeprowadzenie naboru.”.
+
+**Art. 3.** W ustawie dnia 13 października 1998 o systemie ubezpieczeń społecznych (Dz. 2015 121, późn. zm. ) wprowadza się następujące zmiany:
 
 **Art. 4.** W ustawie dnia 27 lipca 2001 o służbie zagranicznej (Dz. Nr 128, 1403, późn. zm. ) 28a otrzymuje brzmienie: „Art. 28a. 1. Na kierownicze stanowisko urzędzie obsługującym ministra właściwego do spraw zagranicznych, będące wyższym stanowiskiem służbie cywilnej, może zostać powołany członek personelu dyplomatyczno-konsularnego lub inna osoba spełniająca wymagania określone 12 ust. 1 pkt 2–5, którzy spełniają dodatkowo wymagania określone 53 dnia 21 listopada 2008 o służbie cywilnej. 2. Na stanowisko zastępcy dyrektora biura urzędzie obsługującym ministra właściwego do spraw zagranicznych może zostać powołany także członek personelu pomocniczego lub inna osoba spełniająca wymagania określone 12 ust. 1 pkt 4 5, którzy spełniają dodatkowo wymagania określone 53 dnia 21 listopada 2008 o służbie cywilnej. 3. Na stanowiska dyrektorów biur do spraw budżetu finansów, administracyjnych majątkowych placówek zagranicznych, a także informatyki urzędzie obsługującym ministra właściwego do spraw zagranicznych może zostać powołany także członek personelu pomocniczego lub inna osoba spełniająca wymagania określone 12 ust. 1 pkt 4 5, którzy spełniają dodatkowo wymagania określone 53 dnia 21 listopada 2008 o służbie cywilnej.”.
 
-**Art. 5.** W ustawie dnia 6 września 2001 o dostępie do informacji publicznej (Dz. 2058) 6 ust. 1 pkt 3 uchyla lit. h.
+**Art. 5.** W ustawie dnia 6 września 2001 o dostępie do informacji publicznej (Dz. 2015 2058) 6 ust. 1 pkt 3 uchyla się lit. h.
 
 **Art. 6.**
 
@@ -122,15 +128,17 @@ USTAWA dnia 30 grudnia o zmianie o służbie cywilnej oraz niektórych innych us
 
 2. Wcześniejsze rozwiązanie stosunku pracy może nastąpić za wypowiedzeniem.
 
-3. Przepisów ust. 1 2 nie stosuje do urzędników służby cywilnej, do których mają zastosowanie przepisy rozdziału 5 zmienianej 1, brzmieniu nadanym niniejszą ustawą.
+3. Przepisów ust. 1 2 nie stosuje się do urzędników służby cywilnej, do których mają zastosowanie przepisy rozdziału 5 zmienianej 1, brzmieniu nadanym niniejszą ustawą.
 
-**Art. 7.** W przypadku wygaśnięcia stosunku pracy, o którym mowa 6 ust. 1, lub wypowiedzenia, o którym mowa 6 ust. 2, przysługuje odprawa pieniężna przewidziana dla pracowników, którymi stosunki pracy rozwiązuje powodu likwidacji urzędu.
+**Art. 7.** W przypadku wygaśnięcia stosunku pracy, o którym mowa 6 ust. 1, lub wypowiedzenia, o którym mowa 6 ust. 2, przysługuje odprawa pieniężna przewidziana dla pracowników, którymi stosunki pracy rozwiązuje się powodu likwidacji urzędu.
 
 **Art. 8.** Postępowania dotyczące naboru na wyższe stanowiska służbie cywilnej wszczęte na podstawie dotychczasowych przepisów niezakończone przed dniem wejścia życie niniejszej ulegają zakończeniu tym dniem.
 
-**Art. 9.** Do ocen okresowych niezakończonych przed dniem wejścia życie niniejszej stosuje przepisy dotychczasowe.
+**Art. 9.** Do ocen okresowych niezakończonych przed dniem wejścia życie niniejszej stosuje się przepisy dotychczasowe.
 
-**Art. 10.** Znosi Radę Służby Cywilnej. o której mowa 1, brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez okres 3 miesięcy od dnia wejścia życie niniejszej ustawy.
+**Art. 10.** Znosi się Radę Służby Cywilnej.
+
+**Art. 11.** Dotychczasowe przepisy wykonawcze wydane na podstawie 82 99 ustawy, o której mowa 1, zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych na podstawie 82 99 ustawy, o której mowa 1, brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez okres 3 miesięcy od dnia wejścia życie niniejszej ustawy.
 
 **Art. 12.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
 

@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 31 grudnia 2002 Nr 238 2019
+# o zmianie niekt(cid:243)rych ustaw w związku z dostosowaniem do prawa Unii Europejskiej
+
+*USTAWA z dnia 5 grudnia 2002 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,15 +26,11 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20022382019) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/2019/text.pdf) |
 
-USTAWA zdnia 5 grudnia 2002 ozmianie niektórych ustaw wzwiązku zdostosowaniem do prawa Unii Europejskiej.
+**Art. 1.** W ustawie z dnia 12 lipca 1995 r. o ochronie roślin uprawnych (Dz.U. z 2002 r. Nr 171, poz. 1398) po art. 59 dodaje się art. 59a w brzmieniu: (cid:132)Art. 59a. Przepisy art. 13f stosuje się od dnia przystąpienia Rzeczypospolitej Polskiej do Unii Europejskiej.(cid:148).
 
-**Art. 1.** Wustawie zdnia 12 lipca 1995 oochronie ŃArt. 59a.Przepisy art. 13fstosuje się dnia przystąroślin uprawnych (Dz. U. z2002 Nr 171, poz. 1398) po pienia Rzeczypospolitej Polskiej do Unii Euart. 59 dodaje się art. 59awbrzmieniu: ropejskiej.”.
+**Art. 2.** W ustawie z dnia 29 listopada 2000 r. o organizacji rynk(cid:243)w owoc(cid:243)w i warzyw, rynku chmielu, rynku tytoniu oraz rynku suszu paszowego (Dz.U. z 2001 r. Nr 3, poz. 19) w art. 75 pkt 2 otrzymuje brzmienie: (cid:132)2) art. 9 ust. 3 pkt 2 oraz art. 15-21, kt(cid:243)re wchodzą w życie z dniem przystąpienia Rzeczypospolitej Polskiej do Unii Europejskiej.(cid:148).
 
-**Art. 2.** Wustawie zdnia 29 listopada 2000 oorganizacji rynków owoców i warzyw, rynku chmielu, rynku tytoniu rynku suszu paszowego (Dz. U. z2001 Nr 3, poz. 19) wart. 75 pkt 2 otrzymuje brzmienie: Ń2) art. 9 ust. 3 pkt 2 art. 15—21, które wchodzą ——————— Dziennik Ustaw Nr 238 — 15410 — Poz. 2019 i 2020
+**Art. 3.** W ustawie z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego (Dz.U. Nr 117, poz. 1007) wprowadza się następujące zmiany:
 
-**Art. 3.** Wustawie z dnia 21 czerwca 2002 omate- 2) wart. 73 skreśla się wyrazy Ń , ztym że przepisy rozriałach wybuchowych przeznaczonych do użytku cy- działu 3, 4 i 5 wchodzą w życie dnia 1 stycznia wilnego (Dz. U. Nr 117, poz. 1007) wprowadza się na- 2003 r”. stępujące zmiany:
-
-**Art. 4.** Ustawa wchodzi wżycie zdniem 31 grudnia
-
-**Art. 1.** W ustawie z dnia 26 listopada 1998 o dostosowaniu górnictwa węgla kamiennego do funkcjonowania w warunkach gospodarki rynkowej szczególnych uprawnieniach i zadaniach gmin górniczych (Dz. U. Nr 162, poz. 1112, z 2001 Nr 5, poz. 41 i Nr 154, poz. 1802 z 2002 Nr 216, poz. 1826) wprowadza się następujące zmiany:
+**Art. 4.** Ustawa wchodzi w życie z dniem 31 grudnia 2002 r.
 

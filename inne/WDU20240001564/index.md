@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 22 października 2024 r.
+# Prawo o adwokaturze
+
+*USTAWA z dnia 26 maja 1982 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,22 +25,6 @@ domain: null
 | Data wydania | 2024-10-22 |
 | Ostatnia zmiana | 2026-03-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001564) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1564/text.pdf) |
-
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 11 października 2024 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy Prawo o adwokaturze
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 26 maja 1982 r. Prawo o adwokaturze (Dz. U. z 2022 r. poz. 1184), z uwzględnieniem zmian wprowadzonych:
-1) wyrokiem Trybunału Konstytucyjnego z dnia 7 czerwca 2022 r. sygn. akt SK 68/19 (Dz. U. poz. 1268),
-2) ustawą z dnia 7 lipca 2023 r. o zmianie ustawy Kodeks postępowania cywilnego, ustawy Prawo o ustroju sądów powszechnych, ustawy Kodeks postępowania karnego oraz niektórych innych ustaw (Dz. U. poz. 1860) oraz zmian wynikających z przepisów ogłoszonych przed dniem 10 października 2024 r.
-2. Podany w załączniku do niniejszego obwieszczenia jednolity tekst ustawy nie obejmuje art. 40 ustawy z dnia 7 lipca 2023 r. o zmianie ustawy Kodeks postępowania cywilnego, ustawy Prawo o ustroju sądów powszechnych, ustawy Kodeks postępowania karnego oraz niektórych innych ustaw (Dz. U. poz. 1860), który stanowi: „Art. 40. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
-1) art. 28 pkt 1, art. 30 pkt 2–6, art. 31 pkt 1 lit. a, c–e, f w zakresie pkt 67 lit. b, oraz lit. g i h, pkt 2–4 oraz art. 39 ust. 1 i 2, które wchodzą w życie z dniem 1 października 2023 r.;
-2) art. 2 pkt 1, pkt 6 lit. b, pkt 14, 16 i 17 oraz art. 33, które wchodzą w życie z dniem 1 stycznia 2024 r.;
-3) art. 6, art. 7, art. 9, art. 12, art. 13, art. 17–19 i art. 21 pkt 2 w zakresie art. 13 § 3a pkt 1 oraz art. 22, art. 23, art. 25 i art. 38, które wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia;
-4) art. 1 pkt 1–14, 21 i 33, art. 2 pkt 6 lit. a, pkt 8, 12 i 15, art. 3 pkt 1, 6, 10 i 16–20, art. 4, art. 5, art. 10, art. 11, art. 24 pkt 1, art. 28 pkt 2 w zakresie uchylenia art. 15zzs ust. 1 pkt 1 i 2, ust. 2 i 3, art. 28 pkt 3 oraz art. 39 ust. 3, które wchodzą w życie po upływie 6 miesięcy od dnia ogłoszenia;
-5) art. 30 pkt 1, art. 31 pkt 1 lit. b oraz f w zakresie pkt 67 lit. c, które wchodzą w życie z dniem 14 marca 2024 r.;
-6) art. 14, który wchodzi w życie z dniem 1 października 2029 r.”.
-Marszałek Sejmu: S. Hołownia
-USTAWA z dnia 26 maja 1982 r.
-Prawo o adwokaturze
 
 ### DZIAŁ I Przepisy ogólne
 
@@ -72,7 +58,9 @@ Prawo o adwokaturze
 
 1. Zawód adwokata polega na świadczeniu pomocy prawnej, a w szczególności na udzielaniu porad prawnych, sporządzaniu opinii prawnych, opracowywaniu projektów aktów prawnych oraz występowaniu przed sądami i urzędami.
 
-1a. (utracił moc) 1b. Adwokat ma prawo sporządzania poświadczeń odpisów dokumentów za zgodność z okazanym oryginałem w zakresie określonym odrębnymi przepisami. Poświadczenie powinno zawierać podpis adwokata, datę i oznaczenie miejsca jego sporządzenia, na żądanie również godzinę dokonania czynności. Jeżeli dokument zawiera cechy szczególne (dopiski, poprawki lub uszkodzenia) adwokat stwierdza to w poświadczeniu.
+1a. (utracił moc) 1b. Adwokat ma prawo sporządzania poświadczeń odpisów dokumentów za zgodność z okazanym oryginałem w zakresie określonym odrębnymi przepisami. Poświadczenie powinno zawierać podpis adwokata, datę i oznaczenie miejsca jego sporządzenia, na żądanie – również godzinę dokonania czynności. Jeżeli dokument zawiera cechy szczególne (dopiski, poprawki lub uszkodzenia) adwokat stwierdza to w poświadczeniu.
+
+1c. Adwokat może poświadczyć dokument w postaci elektronicznej w systemach teleinformatycznych, o których mowa w art. 175da ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2024 r. poz. 334 i 1907 oraz z 2025 r. poz. 526, 820 i 1172), w sposób w nich przewidziany.
 
 2. Pomoc prawna świadczona jest osobom fizycznym, podmiotom gospodarczym oraz jednostkom organizacyjnym.
 
@@ -129,7 +117,7 @@ Prawo o adwokaturze
 4. Obowiązek zachowania tajemnicy zawodowej nie dotyczy informacji:
 
 - **1)** udostępnianych na podstawie przepisów o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu,
-- **2)** przekazywanych na podstawie przepisów rozdziału 11a działu III ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2023 r. poz. 2383 i 2760 oraz z 2024 r. poz. 879) w zakresie określonym tymi przepisami.
+- **2)** przekazywanych na podstawie przepisów rozdziału 11a działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2023 r. poz. 2383 i 2760 oraz z 2024 r. poz. 879) – w zakresie określonym tymi przepisami.
 
 **Art. 7.**
 
@@ -217,13 +205,13 @@ Prawo o adwokaturze
 
 1. Okres przechowywania danych osobowych wynosi:
 
-- **1)** 5 lat od końca roku, w którym zakończyło się postępowanie, w którym dane osobowe zostały zgromadzone w przypadku danych osobowych przetwarzanych przez organy adwokatury oraz organy izb adwokackich w zakresie niezbędnym do prawidłowej realizacji zadań publicznych określonych w ustawie oraz danych osobowych przetwarzanych w ramach nadzoru nad adwokaturą;
-- **2)** 10 lat od końca roku, w którym zakończyło się postępowanie, w którym dane osobowe zostały zgromadzone w przypadku danych osobowych przetwarzanych:
-    - **a)** w toku prowadzonych przez organy adwokatury oraz organy izb adwokackich postępowań: administracyjnych, w zakresie skarg i wniosków, innych przewidzianych przez ustawę lub wydane na podstawie ustawy akty prawne organów samorządu adwokackiego dotyczących adwokatów, aplikantów adwokackich lub osób ubiegających się o wpis na listę adwokatów lub listę aplikantów adwokackich, a także osób przystępujących do egzaminu wstępnego na aplikację adwokacką i egzaminu adwokackiego,
+- **1)** 5 lat od końca roku, w którym zakończyło się postępowanie, w którym dane osobowe zostały zgromadzone – w przypadku danych osobowych przetwarzanych przez organy adwokatury oraz organy izb adwokackich w zakresie niezbędnym do prawidłowej realizacji zadań publicznych określonych w ustawie oraz danych osobowych przetwarzanych w ramach nadzoru nad adwokaturą;
+- **2)** 10 lat od końca roku, w którym zakończyło się postępowanie, w którym dane osobowe zostały zgromadzone – w przypadku danych osobowych przetwarzanych:
+    - **a)** w toku prowadzonych przez organy adwokatury oraz organy izb adwokackich postępowań: – administracyjnych, – w zakresie skarg i wniosków, – innych przewidzianych przez ustawę lub wydane na podstawie ustawy akty prawne organów samorządu adwokackiego dotyczących adwokatów, aplikantów adwokackich lub osób ubiegających się o wpis na listę adwokatów lub listę aplikantów adwokackich, a także osób przystępujących do egzaminu wstępnego na aplikację adwokacką i egzaminu adwokackiego,
     - **b)** w ramach nadzoru nad postępowaniami, o których mowa w lit. a,
     - **c)** przez adwokatów w ramach wykonywania zawodu;
 
-- **3)** 15 lat od końca roku, w którym zakończyło się postępowanie, w którym dane osobowe zostały zgromadzone w przypadku danych osobowych przetwarzanych w toku prowadzonych przez organy adwokatury oraz organy izb adwokackich postępowań dyscyplinarnych wobec adwokatów i aplikantów adwokackich oraz podczas wykonywania kompetencji nadzorczych nad postępowaniami dyscyplinarnymi w sprawach adwokatów i aplikantów adwokackich.
+- **3)** 15 lat od końca roku, w którym zakończyło się postępowanie, w którym dane osobowe zostały zgromadzone – w przypadku danych osobowych przetwarzanych w toku prowadzonych przez organy adwokatury oraz organy izb adwokackich postępowań dyscyplinarnych wobec adwokatów i aplikantów adwokackich oraz podczas wykonywania kompetencji nadzorczych nad postępowaniami dyscyplinarnymi w sprawach adwokatów i aplikantów adwokackich.
 
 2. Po upływie okresów, o których mowa w ust. 1, w przypadku danych osobowych przetwarzanych przez adwokatów w ramach wykonywania zawodu, dane osobowe ulegają usunięciu.
 
@@ -251,13 +239,13 @@ Prawo o adwokaturze
 
 **Art. 22.** (uchylony)
 
-**Art. 23.** Adwokat członek zespołu ma prawo do:
+**Art. 23.** Adwokat – członek zespołu ma prawo do:
 
 **Art. 24.**
 
-- **3)** 1. Adwokaci członkowie zespołów i ich rodziny mają na równi z pracownikami prawo do świadczeń z tytułu ubezpieczenia na wypadek choroby, macierzyństwa i ubezpieczenia rodzinnego oraz z tytułu powszechnego zaopatrzenia emerytalnego pracowników i ich rodzin, przy czym przy ustalaniu prawa do świadczeń i ich wysokości pracę w zespołach traktuje się jako zatrudnienie, a otrzymywane wynagrodzenie jako wynagrodzenie z tytułu zatrudnienia.
+- **3)** 1. Adwokaci – członkowie zespołów i ich rodziny mają na równi z pracownikami prawo do świadczeń z tytułu ubezpieczenia na wypadek choroby, macierzyństwa i ubezpieczenia rodzinnego oraz z tytułu powszechnego zaopatrzenia emerytalnego pracowników i ich rodzin, przy czym przy ustalaniu prawa do świadczeń i ich wysokości pracę w zespołach traktuje się jako zatrudnienie, a otrzymywane wynagrodzenie – jako wynagrodzenie z tytułu zatrudnienia.
 
-2. Zasiłek chorobowy dla adwokatów członków zespołów jest wypłacany przez Zakład Ubezpieczeń Społecznych począwszy od pierwszego dnia niezdolności do pracy.
+2. Zasiłek chorobowy dla adwokatów – członków zespołów jest wypłacany przez Zakład Ubezpieczeń Społecznych począwszy od pierwszego dnia niezdolności do pracy.
 
 3. Składki na ubezpieczenie społeczne opłacają zespoły adwokackie, spółki jawne, partnerskie lub komandytowe, o których mowa w art. 4a ust. 1. Adwokaci wykonujący zawód w kancelariach adwokackich lub w spółkach cywilnych opłacają składki osobiście.
 
@@ -266,7 +254,7 @@ Prawo o adwokaturze
 5. Minister właściwy do spraw zabezpieczenia społecznego, po zasięgnięciu opinii Naczelnej Rady Adwokackiej, w drodze rozporządzenia, określa:
 
 - **1)** (uchylony)
-- **2)** zasady i tryb zaliczania okresów wykonywania zawodu adwokackiego w kancelariach indywidualnych przed dniem 1 stycznia 1966 r. przy ustalaniu uprawnień emerytalnych.
+- **2)** zasady i tryb zaliczania okresów wykonywania zawodu adwokackiego w kancelariach indywidualnych przed dniem 1 stycznia 1966 r. – przy ustalaniu uprawnień emerytalnych.
 
 6. (uchylony)
 
@@ -288,7 +276,7 @@ Prawo o adwokaturze
 
 **Art. 28.**
 
-1. Adwokat może odmówić udzielenia pomocy prawnej tylko z ważnych powodów, o których informuje zainteresowanego. Wątpliwości co do udzielenia lub odmowy udzielenia pomocy prawnej rozstrzyga okręgowa rada adwokacka, a w wypadkach niecierpiących zwłoki dziekan.
+1. Adwokat może odmówić udzielenia pomocy prawnej tylko z ważnych powodów, o których informuje zainteresowanego. Wątpliwości co do udzielenia lub odmowy udzielenia pomocy prawnej rozstrzyga okręgowa rada adwokacka, a w wypadkach niecierpiących zwłoki – dziekan.
 
 2. W sprawach, w których pomoc prawna ma z mocy przepisów prawa nastąpić z urzędu, zwolnić adwokata od udzielenia tej pomocy może tylko organ, który go wyznaczył, chyba że przepis szczególny stanowi inaczej.
 
@@ -362,9 +350,11 @@ Prawo o adwokaturze
 
 **Art. 37d.**
 
-- **4)** 1. Adwokat wykonujący zawód jest obowiązany posiadać konto w portalu informacyjnym, o którym mowa w art. 53e § 1 ustawy z dnia 27 lipca 2001 r. Prawo o ustroju sądów powszechnych (Dz. U. z 2024 r. poz. 334).
+1. Adwokat wykonujący zawód jest obowiązany posiadać konto w portalu informacyjnym, o którym mowa w art. 53e § 1 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2024 r. poz. 334).
 
-2. Dziekan okręgowej rady adwokackiej występuje do Ministra Sprawiedliwości o usunięcie konta w portalu informacyjnym w przypadkach, o których mowa w art. 4b, albo w przypadku skreślenia adwokata z listy adwokatów, z wyjątkiem przypadku, o którym mowa w art. 72 ust. 1 pkt 3.
+2. (uchylony)
+
+3. Okręgowa rada adwokacka jest obowiązana posiadać konto w portalu informacyjnym, o którym mowa w art. 53e § 1 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych.
 
 ### DZIAŁ III Izby adwokackie
 
@@ -376,7 +366,7 @@ Prawo o adwokaturze
 
 **Art. 41.**
 
-1. Zwyczajne zgromadzenie izby zwoływane przez okręgową radę adwokacką odbywa się raz do roku.
+1. Zwyczajne zgromadzenie izby – zwoływane przez okręgową radę adwokacką – odbywa się raz do roku.
 
 2. Nadzwyczajne zgromadzenie zwołuje się na żądanie Prezydium Naczelnej Rady Adwokackiej, okręgowej rady adwokackiej, komisji rewizyjnej lub jednej trzeciej adwokatów członków izby. Zgromadzenie zwołuje się w ciągu sześciu tygodni od zgłoszenia żądania.
 
@@ -398,7 +388,7 @@ Prawo o adwokaturze
 
 2. Do zakresu działania okręgowej rady adwokackiej należy występowanie do organów rejestrowych lub ewidencyjnych z wnioskiem o wszczęcie postępowania o wykreślenie z rejestru lub ewidencji podmiotu prowadzącego działalność w zakresie pomocy prawnej niezgodnie z przepisami ustawy.
 
-3. Okręgowa rada adwokacka może zawiesić w czynnościach zawodowych, do czasu uiszczenia należności, adwokata, który zalega pomimo wezwania z zapłatą składki dłużej niż 6 miesięcy.
+3. Okręgowa rada adwokacka może zawiesić w czynnościach zawodowych, do czasu uiszczenia należności, adwokata, który zalega – pomimo wezwania – z zapłatą składki dłużej niż 6 miesięcy.
 
 **Art. 45.**
 
@@ -436,7 +426,9 @@ Prawo o adwokaturze
 
 2. Okręgowa rada adwokacka prowadzi listę prawników zagranicznych na zasadach określonych w ustawie z dnia 5 lipca 2002 r. o świadczeniu przez prawników zagranicznych pomocy prawnej w Rzeczypospolitej Polskiej.
 
-3. Okręgowa rada adwokacka prowadzi w systemie teleinformatycznym udostępnianym przez Naczelną Radę Adwokacką listy, o których mowa w ust. 1 i 2. Okręgowa rada adwokacka umożliwia Naczelnej Radzie Adwokackiej dostęp do tych list.
+3. Okręgowa rada adwokacka prowadzi w systemie teleinformatycznym udostępnianym przez Naczelną Radę Adwokacką listy, o których mowa w ust. 1 i
+
+2. Okręgowa rada adwokacka umożliwia Naczelnej Radzie Adwokackiej dostęp do tych list.
 
 **Art. 50.** Do zakresu działania sądu dyscyplinarnego należy wydawanie orzeczeń w sprawach dyscyplinarnych członków izby.
 
@@ -490,7 +482,7 @@ Prawo o adwokaturze
 
 **Art. 58a.**
 
-1. Naczelna Rada Adwokacka zapewnia sądom, Ministrowi Sprawiedliwości, Prokuratorowi Generalnemu, prokuratorom powszechnych i wojskowych jednostek organizacyjnych prokuratury oraz prokuratorom Instytutu Pamięci Narodowej Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu dostęp do list, o których mowa w art. 49 ust. 1 i 2, za pośrednictwem systemu teleinformatycznego, w zakresie imienia i nazwiska adwokata, aplikanta adwokackiego lub prawnika zagranicznego, numeru PESEL, o ile adwokat, aplikant adwokacki lub prawnik zagraniczny go posiada, daty uchwały o wpisie na listę i numeru wpisu na listę, daty uchwały o skreśleniu z listy, informacji o zawieszeniu w czynnościach zawodowych, w przypadku adwokatów i prawników zagranicznych formy wykonywania zawodu i adresu siedziby zawodowej, a w przypadku aplikantów adwokackich informacji o prawie zastępowania adwokata w zakresie określonym w art. 77 ust. 1 i 2.
+1. Naczelna Rada Adwokacka zapewnia sądom, Ministrowi Sprawiedliwości, Prokuratorowi Generalnemu, prokuratorom powszechnych i wojskowych jednostek organizacyjnych prokuratury ) oraz prokuratorom Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu dostęp do list, o których mowa w art. 49 ust. 1 i 2, za pośrednictwem systemu teleinformatycznego, w zakresie imienia i nazwiska adwokata, aplikanta adwokackiego lub prawnika zagranicznego, numeru PESEL, o ile adwokat, aplikant adwokacki lub prawnik zagraniczny go posiada, daty uchwały o wpisie na listę i numeru wpisu na listę, daty uchwały o skreśleniu z listy, informacji o zawieszeniu w czynnościach zawodowych, w przypadku adwokatów i prawników zagranicznych – formy wykonywania zawodu i adresu siedziby zawodowej, a w przypadku aplikantów adwokackich – informacji o prawie zastępowania adwokata w zakresie określonym w art. 77 ust. 1 i 2.
 
 2. Naczelna Rada Adwokacka udostępnia na swojej stronie internetowej informacje o adwokatach, aplikantach adwokackich i prawnikach zagranicznych obejmujące imię i nazwisko adwokata, aplikanta adwokackiego lub prawnika zagranicznego oraz numer wpisu na listę.
 
@@ -557,12 +549,12 @@ Prawo o adwokaturze
 - **3)** osób, które zajmowały stanowisko sędziego, prokuratora lub wykonywały zawód radcy prawnego albo notariusza;
 - **3a)** osób, które zajmowały stanowisko asesora sądowego przez okres co najmniej 2 lat;
 - **4)** osób, które zdały egzamin sędziowski lub prokuratorski po dniu 1 stycznia 1991 r. lub egzamin notarialny po dniu 22 kwietnia 1991 r. oraz w okresie 5 lat przed złożeniem wniosku o wpis na listę adwokatów, łącznie przez okres co najmniej 3 lat:
-    - **a)** zajmowały stanowisko asesora prokuratorskiego, referendarza sądowego, starszego referendarza sądowego, aplikanta sądowego, aplikanta prokuratorskiego, asystenta prokuratora, asystenta sędziego lub były zatrudnione w Sądzie Najwyższym, Trybunale Konstytucyjnym lub w międzynarodowym organie sądowym, w szczególności w Trybunale Sprawiedliwości Unii Europejskiej lub Europejskim Trybunale Praw Człowieka i wykonywały zadania odpowiadające czynnościom asystenta sędziego lub
+    - **a)** zajmowały stanowisko asesora prokuratorskiego, referendarza sądowego, starszego referendarza sądowego, aplikanta sądowego, aplikanta prokuratorskiego, asystenta prokuratora, asystenta sędziego, starszego asystenta sędziego lub były zatrudnione w Sądzie Najwyższym, Trybunale Konstytucyjnym lub w międzynarodowym organie sądowym, w szczególności w Trybunale Sprawiedliwości Unii Europejskiej lub Europejskim Trybunale Praw Człowieka i wykonywały zadania odpowiadające czynnościom asystenta sędziego lub
     - **b)** wykonywały na podstawie umowy o pracę lub umowy cywilnoprawnej wymagające wiedzy prawniczej czynności bezpośrednio związane ze świadczeniem pomocy prawnej przez adwokata lub radcę prawnego w kancelarii adwokackiej, zespole adwokackim, spółce cywilnej, jawnej, partnerskiej, komandytowej lub komandytowo-akcyjnej, o których mowa w art. 4a ust. 1, lub kancelarii radcy prawnego, spółce cywilnej, jawnej, partnerskiej, komandytowej lub komandytowo-akcyjnej, o których mowa w art. 8 ust. 1 ustawy z dnia 6 lipca 1982 r. o radcach prawnych (Dz. U. z 2024 r. poz. 499), lub
     - **c)** były zatrudnione w urzędach organów władzy publicznej lub w państwowych jednostkach organizacyjnych i wykonywały wymagające wiedzy prawniczej czynności bezpośrednio związane z tworzeniem projektów ustaw, rozporządzeń lub aktów prawa miejscowego;
 
 - **5)** osób, które posiadają stopień naukowy doktora nauk prawnych oraz w okresie 5 lat przed złożeniem wniosku o wpis na listę adwokatów, łącznie przez okres co najmniej 3 lat:
-    - **a)** zajmowały stanowisko referendarza sądowego, starszego referendarza sądowego, aplikanta sądowego, aplikanta prokuratorskiego, asystenta sędziego, asystenta prokuratora lub
+    - **a)** zajmowały stanowisko referendarza sądowego, starszego referendarza sądowego, aplikanta sądowego, aplikanta prokuratorskiego, asystenta sędziego, starszego asystenta sędziego, asystenta prokuratora lub
     - **b)** wykonywały wymagające wiedzy prawniczej czynności bezpośrednio związane ze świadczeniem pomocy prawnej przez adwokata lub radcę prawnego na podstawie umowy o pracę lub umowy cywilnoprawnej w kancelarii adwokackiej, zespole adwokackim, spółce cywilnej, jawnej, partnerskiej, komandytowej lub komandytowo-akcyjnej, o których mowa w art. 4a ust. 1, lub kancelarii radcy prawnego, spółce cywilnej, jawnej, partnerskiej, komandytowej lub komandytowo-akcyjnej, o których mowa w art. 8 ust. 1 ustawy z dnia 6 lipca 1982 r. o radcach prawnych, lub
     - **c)** były zatrudnione w urzędach organów władzy publicznej lub w państwowych jednostkach organizacyjnych i wykonywały wymagające wiedzy prawniczej czynności bezpośrednio związane z tworzeniem projektów ustaw, rozporządzeń lub aktów prawa miejscowego, lub
     - **d)** były zatrudnione w Trybunale Konstytucyjnym lub międzynarodowym organie sądowym, w szczególności w Trybunale Sprawiedliwości Unii Europejskiej lub Europejskim Trybunale Praw Człowieka, i wykonywały zadania odpowiadające czynnościom asystenta sędziego.
@@ -572,7 +564,7 @@ Prawo o adwokaturze
 2. Do egzaminu adwokackiego składanego przed komisją, o której mowa w art. 78, bez odbycia aplikacji adwokackiej, mogą przystąpić:
 
 - **1)** doktorzy nauk prawnych;
-- **2)** osoby, które przez okres co najmniej 4 lat w okresie nie dłuższym niż 6 lat przed złożeniem wniosku o dopuszczenie do egzaminu były zatrudnione na stanowisku referendarza sądowego, starszego referendarza sądowego, asystenta prokuratora, asystenta sędziego lub były zatrudnione w Sądzie Najwyższym, Trybunale Konstytucyjnym lub w międzynarodowym organie sądowym, w szczególności w Trybunale Sprawiedliwości Unii Europejskiej lub Europejskim Trybunale Praw Człowieka i wykonywały zadania odpowiadające czynnościom asystenta sędziego;
+- **2)** osoby, które przez okres co najmniej 4 lat w okresie nie dłuższym niż 6 lat przed złożeniem wniosku o dopuszczenie do egzaminu były zatrudnione na stanowisku referendarza sądowego, starszego referendarza sądowego, asystenta prokuratora, asystenta sędziego, starszego asystenta sędziego lub były zatrudnione w Sądzie Najwyższym, Trybunale Konstytucyjnym lub w międzynarodowym organie sądowym, w szczególności w Trybunale Sprawiedliwości Unii Europejskiej lub Europejskim Trybunale Praw Człowieka i wykonywały zadania odpowiadające czynnościom asystenta sędziego;
 - **3)** osoby, które po ukończeniu wyższych studiów prawniczych przez okres co najmniej 4 lat w okresie nie dłuższym niż 6 lat przed złożeniem wniosku o dopuszczenie do egzaminu wykonywały na podstawie umowy o pracę lub umowy cywilnoprawnej wymagające wiedzy prawniczej czynności bezpośrednio związane ze świadczeniem pomocy prawnej przez adwokata lub radcę prawnego w kancelarii adwokackiej, zespole adwokackim, spółce cywilnej, jawnej, partnerskiej, komandytowej lub komandytowo-akcyjnej, o których mowa w art. 4a ust. 1, lub kancelarii radcy prawnego, spółce cywilnej, jawnej, partnerskiej, komandytowej lub komandytowo-akcyjnej, o których mowa w art. 8 ust. 1 ustawy z dnia 6 lipca 1982 r. o radcach prawnych;
 - **4)** osoby, które po ukończeniu wyższych studiów prawniczych przez okres co najmniej 4 lat w okresie nie dłuższym niż 6 lat przed złożeniem wniosku o dopuszczenie do egzaminu były zatrudnione w urzędach organów władzy publicznej i wykonywały wymagające wiedzy prawniczej czynności bezpośrednio związane ze świadczeniem pomocy prawnej na rzecz tych urzędów;
 - **4a)** osoby, które po ukończeniu aplikacji legislacyjnej przez okres co najmniej 4 lat w okresie nie dłuższym niż 6 lat przed złożeniem wniosku o dopuszczenie do egzaminu były zatrudnione w urzędach organów władzy publicznej lub w państwowych jednostkach organizacyjnych i wykonywały wymagające wiedzy prawniczej czynności bezpośrednio związane z tworzeniem projektów ustaw, rozporządzeń lub aktów prawa miejscowego;
@@ -599,9 +591,9 @@ Prawo o adwokaturze
 
 - **1)** informację o niekaralności z Krajowego Rejestru Karnego opatrzoną datą nie wcześniejszą niż miesiąc przed złożeniem wniosku;
 - **2)** oświadczenie, o którym mowa w art. 7 ust. 1 ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów (Dz. U. z 2024 r. poz. 273 i 834), albo informację, o której mowa w art. 7 ust. 3a tej ustawy, w przypadku osób urodzonych przed dniem 1 sierpnia 1972 r.;
-- **3)** umowy o pracę wraz z dokumentami określającymi zakres obowiązków lub zaświadczeniami od pracodawcy określającymi zakres obowiązków, lub umowy cywilnoprawne wraz z oświadczeniem o złożeniu deklaracji do właściwego urzędu skarbowego oraz zapłaceniu podatku wynikającego z tytułu tych umów w przypadku osób, o których mowa w art. 66 ust. 1 pkt 4 i 5;
-- **4)** dokument zaświadczający uzyskanie stopnia naukowego doktora nauk prawnych w przypadku osób, o których mowa w art. 66 ust. 1 pkt 5;
-- **5)** zaświadczenie adwokata lub radcy prawnego, z którego wynikać będzie, że osoba ubiegająca się o wpis wykonywała wymagające wiedzy prawniczej czynności bezpośrednio związane ze świadczeniem pomocy prawnej przez adwokata lub radcę prawnego w przypadku osób, o których mowa w art. 66 ust. 1 pkt 4 lit. b i pkt 5 lit. b;
+- **3)** umowy o pracę wraz z dokumentami określającymi zakres obowiązków lub zaświadczeniami od pracodawcy określającymi zakres obowiązków, lub umowy cywilnoprawne wraz z oświadczeniem o złożeniu deklaracji do właściwego urzędu skarbowego oraz zapłaceniu podatku wynikającego z tytułu tych umów – w przypadku osób, o których mowa w art. 66 ust. 1 pkt 4 i 5;
+- **4)** dokument zaświadczający uzyskanie stopnia naukowego doktora nauk prawnych – w przypadku osób, o których mowa w art. 66 ust. 1 pkt 5;
+- **5)** zaświadczenie adwokata lub radcy prawnego, z którego wynikać będzie, że osoba ubiegająca się o wpis wykonywała wymagające wiedzy prawniczej czynności bezpośrednio związane ze świadczeniem pomocy prawnej przez adwokata lub radcę prawnego – w przypadku osób, o których mowa w art. 66 ust. 1 pkt 4 lit. b i pkt 5 lit. b;
 - **6)** dokumenty zaświadczające co najmniej 3-letni okres zatrudnienia w urzędach organów władzy publicznej lub w państwowych jednostkach organizacyjnych i wykonywania wymagających wiedzy prawniczej czynności bezpośrednio związanych z tworzeniem projektów ustaw, rozporządzeń lub aktów prawa miejscowego w przypadku osób, o których mowa w art. 66 ust. 1 pkt 4 lit. c i pkt 5 lit. c;
 - **7)** dokument zaświadczający uzyskanie pozytywnego wyniku z egzaminu sędziowskiego, prokuratorskiego lub notarialnego.
 
@@ -751,7 +743,7 @@ Prawo o adwokaturze
 
 10. Członkowie zespołu do przygotowania pytań testowych są zobowiązani do przedstawienia Ministrowi Sprawiedliwości pisemnego uzasadnienia prawidłowych odpowiedzi zgłoszonych przez nich pytań testowych, w przypadku zaistnienia wątpliwości dotyczących treści pytań testowych, a w szczególności w toku procedury odwoławczej od uchwały ustalającej wynik egzaminu wstępnego.
 
-11. Do wydrukowania i doręczenia zestawów pytań testowych poszczególnym komisjom kwalifikacyjnym nie stosuje się przepisów ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320), jeżeli wartość zamówienia jest mniejsza niż progi unijne, o których mowa w art. 3 ust. 1 tej ustawy.
+11. Do wydrukowania i doręczenia zestawów pytań testowych poszczególnym komisjom kwalifikacyjnym nie stosuje się przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320), jeżeli wartość zamówienia jest mniejsza niż progi unijne, o których mowa w art. 3 ust. 1 tej ustawy.
 
 12. Minister Sprawiedliwości, po zasięgnięciu opinii Naczelnej Rady Adwokackiej i Krajowej Rady Radców Prawnych, określi, w drodze rozporządzenia:
 
@@ -759,7 +751,7 @@ Prawo o adwokaturze
 - **2)** tryb i sposób ustalania wykazu tytułów aktów prawnych, o którym mowa w ust. 6,
 - **3)** tryb i sposób zgłaszania propozycji pytań testowych i prawidłowych odpowiedzi, przygotowania, przechowywania oraz przekazywania komisjom kwalifikacyjnym zestawu pytań testowych wraz z kartą odpowiedzi i wykazu prawidłowych odpowiedzi na egzamin wstępny,
 - **4)** tryb i sposób zapewnienia zgodności wykazu prawidłowych odpowiedzi z obowiązującym stanem prawnym,
-- **5)** tryb i sposób zapewnienia obsługi administracyjno-biurowej zespołu do przygotowania pytań testowych uwzględniając konieczność prawidłowego i efektywnego przeprowadzenia naboru na aplikację, w szczególności konieczność zapewnienia zgodności wykazu tytułów aktów prawnych z zakresem przedmiotowym egzaminu wstępnego oraz konieczność zabezpieczenia pytań testowych przed ich nieuprawnionym ujawnieniem, oraz
+- **5)** tryb i sposób zapewnienia obsługi administracyjno-biurowej zespołu do przygotowania pytań testowych – uwzględniając konieczność prawidłowego i efektywnego przeprowadzenia naboru na aplikację, w szczególności konieczność zapewnienia zgodności wykazu tytułów aktów prawnych z zakresem przedmiotowym egzaminu wstępnego oraz konieczność zabezpieczenia pytań testowych przed ich nieuprawnionym ujawnieniem, oraz
 - **6)** wysokość wynagrodzenia przewodniczącego i członków zespołu, uwzględniając nakład ich pracy i zakres obowiązków oraz liczbę kandydatów.
 
 13. Minister Sprawiedliwości określi, w drodze rozporządzenia, tryb i sposób udzielenia zamówienia, o którym mowa w ust. 11, zapewniając zachowanie uczciwej konkurencji oraz równe traktowanie wykonawców i mając na uwadze konieczność zabezpieczenia pytań testowych przed ich nieuprawnionym ujawnieniem.
@@ -805,7 +797,7 @@ Prawo o adwokaturze
 
 1a. W przypadku wydania postanowienia o pozostawieniu zgłoszenia bez rozpoznania, wydania decyzji odmawiającej dopuszczenia do udziału w egzaminie wstępnym albo złożenia nie później niż 14 dni przed terminem egzaminu wstępnego pisemnego oświadczenia kandydata o odstąpieniu od udziału w egzaminie wstępnym, dwie trzecie uiszczonej opłaty podlega zwrotowi na pisemny wniosek kandydata złożony przewodniczącemu komisji kwalifikacyjnej w terminie 30 dni od dnia złożenia tego wniosku.
 
-2. Minister Sprawiedliwości po zasięgnięciu opinii Naczelnej Rady Adwokackiej określa, w drodze rozporządzenia, wysokość opłaty nie wyższą niż równowartość minimalnego wynagrodzenia za pracę, o którym mowa w ustawie z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2020 r. poz. 2207 oraz z 2023 r. poz. 1667), zwanego dalej „minimalnym wynagrodzeniem” uwzględniając konieczność prawidłowego i efektywnego przeprowadzenia egzaminu wstępnego.
+2. Minister Sprawiedliwości po zasięgnięciu opinii Naczelnej Rady Adwokackiej określa, w drodze rozporządzenia, wysokość opłaty – nie wyższą niż równowartość minimalnego wynagrodzenia za pracę, o którym mowa w ustawie z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2020 r. poz. 2207 oraz z 2023 r. poz. 1667), zwanego dalej „minimalnym wynagrodzeniem” – uwzględniając konieczność prawidłowego i efektywnego przeprowadzenia egzaminu wstępnego.
 
 **Art. 75e.**
 
@@ -844,7 +836,7 @@ Prawo o adwokaturze
 - **2)** wysokość wynagrodzenia przewodniczącego i członków komisji kwalifikacyjnej, uwzględniając liczbę osób, które złożyły zgłoszenie o przystąpienie do egzaminu wstępnego, zakres i nakład ich pracy w zorganizowaniu i w przebiegu egzaminu wstępnego oraz tryb wypłacania tego wynagrodzenia,
 - **3)** szczegółowy tryb i sposób przeprowadzania egzaminu wstępnego, w szczególności:
     - **a)** sposób działania komisji kwalifikacyjnej,
-    - **b)** sposób zorganizowania obsługi administracyjnej i technicznej komisji kwalifikacyjnej przez okręgowe rady adwokackie, w tym przekazywania środków, sprawowania nadzoru nad ich wydatkowaniem i rozliczania wydatków związanych z tą obsługą uwzględniając konieczność prawidłowego, terminowego i efektywnego przeprowadzenia naboru na aplikację i przebiegu egzaminu wstępnego oraz zapewnienia zachowania bezstronności pracy komisji kwalifikacyjnej.
+    - **b)** sposób zorganizowania obsługi administracyjnej i technicznej komisji kwalifikacyjnej przez okręgowe rady adwokackie, w tym przekazywania środków, sprawowania nadzoru nad ich wydatkowaniem i rozliczania wydatków związanych z tą obsługą – uwzględniając konieczność prawidłowego, terminowego i efektywnego przeprowadzenia naboru na aplikację i przebiegu egzaminu wstępnego oraz zapewnienia zachowania bezstronności pracy komisji kwalifikacyjnej.
 
 **Art. 75f.**
 
@@ -956,7 +948,7 @@ Prawo o adwokaturze
 
 **Art. 76b.**
 
-- **10)** 1. Aplikacja adwokacka jest odpłatna.
+- **9)** 1. Aplikacja adwokacka jest odpłatna.
 
 2. Szkolenie aplikantów adwokackich pokrywane jest z opłat wnoszonych przez aplikantów do właściwej okręgowej rady adwokackiej.
 
@@ -976,7 +968,7 @@ Prawo o adwokaturze
 
 4. Uprawnienia, o których mowa w ust. 1, dotyczą również spraw objętych świadczeniem pomocy prawnej z urzędu.
 
-5. Aplikant adwokacki może sporządzać i podpisywać pisma procesowe związane z występowaniem adwokata przed sądami, organami ścigania i organami państwowymi, samorządowymi i innymi instytucjami z wyraźnego upoważnienia adwokata, z wyłączeniem apelacji, skargi kasacyjnej i skargi konstytucyjnej.
+5. Aplikant adwokacki może sporządzać i podpisywać pisma procesowe związane z występowaniem adwokata przed sądami, organami ścigania i organami państwowymi, samorządowymi i innymi instytucjami – z wyraźnego upoważnienia adwokata, z wyłączeniem apelacji, skargi kasacyjnej i skargi konstytucyjnej.
 
 **Art. 77a.**
 
@@ -985,7 +977,7 @@ Prawo o adwokaturze
 2. W skład zespołu wchodzą:
 
 - **1)** czterej adwokaci delegowani przez Naczelną Radę Adwokacką,
-- **2)** czterej przedstawiciele Ministra Sprawiedliwości których wiedza i doświadczenie dają rękojmię prawidłowego przygotowania egzaminu adwokackiego.
+- **2)** czterej przedstawiciele Ministra Sprawiedliwości – których wiedza i doświadczenie dają rękojmię prawidłowego przygotowania egzaminu adwokackiego.
 
 3. Pracami zespołu kieruje przewodniczący lub w przypadku jego nieobecności zastępca, powołani przez Ministra Sprawiedliwości spośród osób, o których mowa w ust. 2 pkt 2.
 
@@ -1003,12 +995,12 @@ Prawo o adwokaturze
 
 10. Ostateczną treść zadań wraz z opisami istotnych zagadnień ustala zespół większością głosów w obecności co najmniej 5 członków zespołu. W razie równej liczby głosów rozstrzyga głos przewodniczącego zespołu.
 
-11. Do wydrukowania i doręczenia zadań wraz z opisami istotnych zagadnień poszczególnym komisjom egzaminacyjnym, o których mowa w art. 78 ust. 1, nie stosuje się przepisów ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych, jeżeli wartość zamówienia jest mniejsza niż progi unijne, o których mowa w art. 3 ust. 1 tej ustawy.
+11. Do wydrukowania i doręczenia zadań wraz z opisami istotnych zagadnień poszczególnym komisjom egzaminacyjnym, o których mowa w art. 78 ust. 1, nie stosuje się przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych, jeżeli wartość zamówienia jest mniejsza niż progi unijne, o których mowa w art. 3 ust. 1 tej ustawy.
 
 12. Minister Sprawiedliwości, po zasięgnięciu opinii Naczelnej Rady Adwokackiej, określi, w drodze rozporządzenia:
 
 - **1)** tryb i sposób działania zespołu,
-- **2)** tryb i sposób zgłaszania propozycji zadań wraz z opisami istotnych zagadnień, ich przygotowania, przechowywania oraz przekazywania komisjom egzaminacyjnym, o których mowa w art. 78 ust. 1, zadań na egzamin adwokacki uwzględniając konieczność prawidłowego i efektywnego przeprowadzenia egzaminu adwokackiego, w szczególności konieczność zabezpieczenia zadań przed ich nieuprawnionym ujawnieniem;
+- **2)** tryb i sposób zgłaszania propozycji zadań wraz z opisami istotnych zagadnień, ich przygotowania, przechowywania oraz przekazywania komisjom egzaminacyjnym, o których mowa w art. 78 ust. 1, zadań na egzamin adwokacki – uwzględniając konieczność prawidłowego i efektywnego przeprowadzenia egzaminu adwokackiego, w szczególności konieczność zabezpieczenia zadań przed ich nieuprawnionym ujawnieniem;
 - **3)** wysokość wynagrodzenia przewodniczącego i członków zespołu, uwzględniając nakład ich pracy i zakres obowiązków.
 
 13. Minister Sprawiedliwości określi, w drodze rozporządzenia, tryb i sposób udzielenia zamówienia, o którym mowa w ust. 11, mając na uwadze konieczność zachowania zasad uczciwej konkurencji oraz równego traktowania wykonawców i zabezpieczenia zadań oraz opisów istotnych zagadnień przed ich nieuprawnionym ujawnieniem.
@@ -1053,7 +1045,7 @@ Prawo o adwokaturze
 - **4)** szczegółowy tryb i sposób przeprowadzania egzaminu adwokackiego, w szczególności:
     - **a)** sposób działania komisji egzaminacyjnych,
     - **b)** czas trwania poszczególnych części egzaminu adwokackiego,
-    - **c)** sposób zorganizowania obsługi administracyjnej i technicznej komisji egzaminacyjnych przez okręgowe rady adwokackie, w tym przekazywania środków, sprawowania nadzoru nad ich wydatkowaniem i rozliczania wydatków związanych z tą obsługą uwzględniając konieczność prawidłowego, terminowego i efektywnego przeprowadzenia egzaminu, zapewnienia zachowania bezstronności pracy komisji egzaminacyjnych oraz konieczność uzyskania informacji niezbędnych do prawidłowego przeprowadzenia egzaminu adwokackiego.
+    - **c)** sposób zorganizowania obsługi administracyjnej i technicznej komisji egzaminacyjnych przez okręgowe rady adwokackie, w tym przekazywania środków, sprawowania nadzoru nad ich wydatkowaniem i rozliczania wydatków związanych z tą obsługą – uwzględniając konieczność prawidłowego, terminowego i efektywnego przeprowadzenia egzaminu, zapewnienia zachowania bezstronności pracy komisji egzaminacyjnych oraz konieczność uzyskania informacji niezbędnych do prawidłowego przeprowadzenia egzaminu adwokackiego.
 
 **Art. 78a.**
 
@@ -1074,7 +1066,7 @@ Prawo o adwokaturze
 - **2)** życiorys;
 - **3)** dokument zaświadczający uzyskanie stopnia naukowego doktora nauk prawnych;
 - **4)** kopię dokumentu potwierdzającego ukończenie wyższych studiów prawniczych w Rzeczypospolitej Polskiej i uzyskanie tytułu magistra lub zagranicznych studiów prawniczych uznanych w Rzeczypospolitej Polskiej;
-- **5)** dokumenty zaświadczające co najmniej 4-letni okres zatrudnienia, o którym mowa w art. 66 ust. 2 pkt 2, na stanowiskach referendarza sądowego, starszego referendarza sądowego, asystenta prokuratora lub asystenta sędziego, a w przypadku osób, które były zatrudnione w Sądzie Najwyższym, Trybunale Konstytucyjnym lub w międzynarodowym organie sądowym, w szczególności w Trybunale Sprawiedliwości Unii Europejskiej lub Europejskim Trybunale Praw Człowieka i wykonywały zadania odpowiadające czynnościom asystenta sędziego również dokumenty określające zakres ich obowiązków;
+- **5)** dokumenty zaświadczające co najmniej 4-letni okres zatrudnienia, o którym mowa w art. 66 ust. 2 pkt 2, na stanowiskach referendarza sądowego, starszego referendarza sądowego, asystenta prokuratora, asystenta sędziego lub starszego asystenta sędziego, a w przypadku osób, które były zatrudnione w Sądzie Najwyższym, Trybunale Konstytucyjnym lub w międzynarodowym organie sądowym, w szczególności w Trybunale Sprawiedliwości Unii Europejskiej lub Europejskim Trybunale Praw Człowieka i wykonywały zadania odpowiadające czynnościom asystenta sędziego – również dokumenty określające zakres ich obowiązków;
 - **6)** dokumenty zaświadczające co najmniej 4-letni okres wykonywania na podstawie umowy o pracę lub umów cywilnoprawnych wymagających wiedzy prawniczej czynności bezpośrednio związanych ze świadczeniem pomocy prawnej przez adwokata lub radcę prawnego w kancelarii adwokackiej, zespole adwokackim, spółce cywilnej, jawnej, partnerskiej, komandytowej lub komandytowo-akcyjnej, o których mowa w art. 4a ust. 1, lub kancelarii radcy prawnego, spółce cywilnej, jawnej, partnerskiej, komandytowej lub komandytowo-akcyjnej, o których mowa w art. 8 ust. 1 ustawy z dnia 6 lipca 1982 r. o radcach prawnych;
 - **7)** dokumenty zaświadczające co najmniej 4-letni okres zatrudnienia w urzędach organów władzy publicznej i wykonywania wymagających wiedzy prawniczej czynności bezpośrednio związanych ze świadczeniem pomocy prawnej na rzecz tych urzędów;
 - **7a)** dokument zaświadczający o ukończeniu aplikacji legislacyjnej oraz dokumenty zaświadczające co najmniej 4-letni okres zatrudnienia w urzędach organów władzy publicznej lub w państwowych jednostkach organizacyjnych i wykonywania wymagających wiedzy prawniczej czynności bezpośrednio związanych z tworzeniem projektów ustaw, rozporządzeń lub aktów prawa miejscowego;
@@ -1086,8 +1078,8 @@ Prawo o adwokaturze
 
 5. Osoby, o których mowa w:
 
-- **1)** ust. 3 składają wniosek najpóźniej w terminie 21 dni,
-- **2)** ust. 4 składają wniosek najpóźniej w terminie 45 dni przed dniem rozpoczęcia egzaminu adwokackiego. Przepisy art. 75c ust. 4–9 stosuje się odpowiednio.
+- **1)** ust. 3 – składają wniosek najpóźniej w terminie 21 dni,
+- **2)** ust. 4 – składają wniosek najpóźniej w terminie 45 dni – przed dniem rozpoczęcia egzaminu adwokackiego. Przepisy art. 75c ust. 4– 9 stosuje się odpowiednio.
 
 **Art. 78b.**
 
@@ -1095,7 +1087,7 @@ Prawo o adwokaturze
 
 1a. W przypadku wydania postanowienia o pozostawieniu zgłoszenia bez rozpoznania, wydania decyzji odmawiającej dopuszczenia do udziału w egzaminie adwokackim albo złożenia nie później niż 14 dni przed terminem egzaminu adwokackiego pisemnego oświadczenia kandydata o odstąpieniu od udziału w egzaminie adwokackim, dwie trzecie uiszczonej opłaty podlega zwrotowi na pisemny wniosek kandydata złożony przewodniczącemu komisji egzaminacyjnej w terminie 30 dni od dnia złożenia tego wniosku.
 
-2. Minister Sprawiedliwości po zasięgnięciu opinii Naczelnej Rady Adwokackiej określa, w drodze rozporządzenia, wysokość opłaty egzaminacyjnej nie wyższą niż równowartość minimalnego wynagrodzenia uwzględniając konieczność prawidłowego i efektywnego przeprowadzenia egzaminu adwokackiego.
+2. Minister Sprawiedliwości po zasięgnięciu opinii Naczelnej Rady Adwokackiej określa, w drodze rozporządzenia, wysokość opłaty egzaminacyjnej – nie wyższą niż równowartość minimalnego wynagrodzenia – uwzględniając konieczność prawidłowego i efektywnego przeprowadzenia egzaminu adwokackiego.
 
 **Art. 78c.**
 
@@ -1133,7 +1125,7 @@ Prawo o adwokaturze
     - **c)** dobra (4),
     - **d)** dostateczna (3);
 
-- **2)** ocena negatywna niedostateczna (2).
+- **2)** ocena negatywna – niedostateczna (2).
 
 11. Podczas egzaminu adwokackiego zdający nie może posiadać urządzeń służących do przekazu lub odbioru informacji.
 
@@ -1152,12 +1144,12 @@ Prawo o adwokaturze
 4. Ostateczną ocenę z pracy pisemnej dotyczącej danego zadania z części egzaminu adwokackiego stanowi średnia ocen cząstkowych przyznanych przez każdego z egzaminatorów, przy czym:
 
 - **1)** oceny pozytywne to:
-    - **a)** celująca jeżeli średnia arytmetyczna wystawionych ocen wynosi 6,00,
-    - **b)** bardzo dobra jeżeli średnia arytmetyczna wystawionych ocen wynosi 5,00 lub 5,50,
-    - **c)** dobra jeżeli średnia arytmetyczna wystawionych ocen wynosi 4,00 lub 4,50,
-    - **d)** dostateczna jeżeli średnia arytmetyczna wystawionych ocen wynosi 3,00 lub 3,50;
+    - **a)** celująca – jeżeli średnia arytmetyczna wystawionych ocen wynosi 6,00,
+    - **b)** bardzo dobra – jeżeli średnia arytmetyczna wystawionych ocen wynosi 5,00 lub 5,50,
+    - **c)** dobra – jeżeli średnia arytmetyczna wystawionych ocen wynosi 4,00 lub 4,50,
+    - **d)** dostateczna – jeżeli średnia arytmetyczna wystawionych ocen wynosi 3,00 lub 3,50;
 
-- **2)** ocena negatywna niedostateczna jeżeli średnia arytmetyczna wystawionych ocen wynosi 2,00 lub 2,50.
+- **2)** ocena negatywna – niedostateczna – jeżeli średnia arytmetyczna wystawionych ocen wynosi 2,00 lub 2,50.
 
 5. W przypadku gdy przynajmniej dwie oceny cząstkowe z prac pisemnych zdającego dotyczących zadań z różnych części egzaminu adwokackiego są negatywne, a średnia arytmetyczna, o której mowa w ust. 4, wskazuje na pozytywną ostateczną ocenę tych prac, komisja egzaminacyjna:
 
@@ -1190,8 +1182,8 @@ Prawo o adwokaturze
 
 3. Do składu komisji odwoławczej kandydatów na członków wskazują:
 
-- **1)** Minister Sprawiedliwości 5 członków, spośród których wyznacza przewodniczącego;
-- **2)** Naczelna Rada Adwokacka 4 członków spośród osób, których wiedza i doświadczenie dają rękojmię rzetelnego rozpoznania odwołań.
+- **1)** Minister Sprawiedliwości – 5 członków, spośród których wyznacza przewodniczącego;
+- **2)** Naczelna Rada Adwokacka – 4 członków – spośród osób, których wiedza i doświadczenie dają rękojmię rzetelnego rozpoznania odwołań.
 
 4. Przewodniczącemu i członkom komisji odwoławczej za udział w jej pracach przysługuje wynagrodzenie.
 
@@ -1219,7 +1211,7 @@ Prawo o adwokaturze
 - **2)** termin powołania komisji odwoławczej,
 - **3)** wysokość wynagrodzenia przewodniczącego i członków komisji odwoławczej, uwzględniając zakres i nakład ich pracy oraz tryb jego wypłacania,
 - **4)** tryb i sposób działania komisji odwoławczej,
-- **5)** sposób zapewnienia obsługi administracyjno-biurowej komisji odwoławczej uwzględniając konieczność prawidłowego i terminowego rozpoznawania odwołań oraz zapewnienia zachowania bezstronności pracy członków komisji odwoławczej.
+- **5)** sposób zapewnienia obsługi administracyjno-biurowej komisji odwoławczej – uwzględniając konieczność prawidłowego i terminowego rozpoznawania odwołań oraz zapewnienia zachowania bezstronności pracy członków komisji odwoławczej.
 
 **Art. 78i.** W przypadku nieuzyskania pozytywnego wyniku z egzaminu adwokackiego, zdający może przystępować do kolejnych egzaminów adwokackich, z tym że egzamin ten zdaje w całości.
 
@@ -1320,9 +1312,9 @@ Prawo o adwokaturze
 
 **Art. 88.**
 
-1. Nie można wszcząć postępowania dyscyplinarnego, jeżeli od czasu popełnienia przewinienia upłynęły trzy lata, a w przypadkach przewidzianych w art. 8 ust. 2 rok.
+1. Nie można wszcząć postępowania dyscyplinarnego, jeżeli od czasu popełnienia przewinienia upłynęły trzy lata, a w przypadkach przewidzianych w art. 8 ust. 2 – rok.
 
-2. W razie wszczęcia postępowania dyscyplinarnego przed upływem terminu, o którym mowa w ust. 1, karalność przewinienia dyscyplinarnego ustaje, jeżeli od czasu jego popełnienia upłynęło pięć lat, a w przypadkach przewidzianych w art. 8 ust. 2 trzy lata.
+2. W razie wszczęcia postępowania dyscyplinarnego przed upływem terminu, o którym mowa w ust. 1, karalność przewinienia dyscyplinarnego ustaje, jeżeli od czasu jego popełnienia upłynęło pięć lat, a w przypadkach przewidzianych w art. 8 ust. 2 – trzy lata.
 
 3. Jeżeli czyn zawiera znamiona przestępstwa, przedawnienie dyscyplinarne następuje dopiero z upływem okresu przedawnienia karalności przestępstwa.
 
@@ -1350,7 +1342,7 @@ Prawo o adwokaturze
 
 2a. W wypadku określonym w ust. 2 Ministrowi Sprawiedliwości przysługują prawa strony.
 
-3. Jeżeli adwokat świadczy w państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronie umowy o Europejskim Obszarze Gospodarczym pomoc prawną na podstawie obowiązujących tam przepisów o świadczeniu pomocy prawnej przez prawników z Unii Europejskiej, sąd dyscyplinarny, który wszczął postępowanie dyscyplinarne, niezwłocznie zawiadamia o tym właściwy organ w tym państwie, przesyłając temu organowi odpis wniosku, o którym mowa w ust. 1.
+3. Jeżeli adwokat świadczy w państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym pomoc prawną na podstawie obowiązujących tam przepisów o świadczeniu pomocy prawnej przez prawników z Unii Europejskiej, sąd dyscyplinarny, który wszczął postępowanie dyscyplinarne, niezwłocznie zawiadamia o tym właściwy organ w tym państwie, przesyłając temu organowi odpis wniosku, o którym mowa w ust. 1.
 
 **Art. 91.**
 
@@ -1397,7 +1389,7 @@ Prawo o adwokaturze
 
 1. Właściwy do rozpoznania sprawy jest sąd dyscyplinarny izby adwokackiej, której obwiniony jest członkiem w chwili wszczęcia postępowania dyscyplinarnego.
 
-2. Jeżeli przewinienie objęte jedną sprawą popełniło dwóch lub więcej obwinionych wpisanych na listę adwokatów lub aplikantów adwokackich w różnych izbach, właściwy jest sąd dyscyplinarny, w którego okręgu popełniono przewinienie, a jeżeli miejsca tego ustalić nie można sąd dyscyplinarny izby, w której wszczęto najpierw postępowanie dyscyplinarne.
+2. Jeżeli przewinienie objęte jedną sprawą popełniło dwóch lub więcej obwinionych wpisanych na listę adwokatów lub aplikantów adwokackich w różnych izbach, właściwy jest sąd dyscyplinarny, w którego okręgu popełniono przewinienie, a jeżeli miejsca tego ustalić nie można – sąd dyscyplinarny izby, w której wszczęto najpierw postępowanie dyscyplinarne.
 
 3. Spory o właściwość miejscową, jeżeli ustalenie właściwości zgodnie z ust. 2 jest niemożliwe, rozstrzyga Wyższy Sąd Dyscyplinarny.
 
@@ -1405,9 +1397,9 @@ Prawo o adwokaturze
 
 **Art. 93.**
 
-1. Stronami w dochodzeniu są obwiniony i pokrzywdzony, a w postępowaniu przed sądem dyscyplinarnym oskarżyciel, obwiniony i pokrzywdzony.
+1. Stronami w dochodzeniu są obwiniony i pokrzywdzony, a w postępowaniu przed sądem dyscyplinarnym – oskarżyciel, obwiniony i pokrzywdzony.
 
-2. Oskarżycielami w postępowaniu przed sądem dyscyplinarnym izby adwokackiej są rzecznik dyscyplinarny, a przed Wyższym Sądem Dyscyplinarnym Rzecznik Dyscyplinarny Adwokatury, a także ich zastępcy, wykonujący czynności zlecone przez rzeczników.
+2. Oskarżycielami w postępowaniu przed sądem dyscyplinarnym izby adwokackiej są rzecznik dyscyplinarny, a przed Wyższym Sądem Dyscyplinarnym – Rzecznik Dyscyplinarny Adwokatury, a także ich zastępcy, wykonujący czynności zlecone przez rzeczników.
 
 3. Obwinionym jest adwokat lub aplikant adwokacki, co do którego wydano postanowienie o przedstawieniu zarzutów.
 
@@ -1425,7 +1417,7 @@ Prawo o adwokaturze
 
 4. Orzeczenia wydanego pod nieobecność obwinionego lub jego obrońcy nie uważa się za zaoczne.
 
-5. Należyte usprawiedliwienie niestawiennictwa obwinionego lub jego obrońcy na rozprawie lub na wezwanie rzecznika dyscyplinarnego wymaga wskazania i uprawdopodobnienia wyjątkowych przyczyn, zaś w przypadku choroby przedstawienia zaświadczenia lekarskiego potwierdzającego niemożność stawienia się na wezwanie lub zawiadomienie organu prowadzącego postępowanie.
+5. Należyte usprawiedliwienie niestawiennictwa obwinionego lub jego obrońcy na rozprawie lub na wezwanie rzecznika dyscyplinarnego wymaga wskazania i uprawdopodobnienia wyjątkowych przyczyn, zaś w przypadku choroby – przedstawienia zaświadczenia lekarskiego potwierdzającego niemożność stawienia się na wezwanie lub zawiadomienie organu prowadzącego postępowanie.
 
 **Art. 94.** Obwiniony ma prawo do ustanowienia obrońcy, którym może być wyłącznie adwokat lub radca prawny.
 
@@ -1447,9 +1439,9 @@ Prawo o adwokaturze
 
 1. (uchylony)
 
-2. Karę za nieusprawiedliwione niestawiennictwo, za odmowę zeznań lub przyrzeczenia, nakłada na świadka lub biegłego na wniosek sądu dyscyplinarnego lub rzecznika dyscyplinarnego sąd rejonowy właściwy według miejsca zamieszkania świadka lub biegłego. Świadek lub biegły nie podlega karze, jeżeli nie był uprzedzony o skutkach niestawiennictwa, odmowy złożenia zeznań lub przyrzeczenia.
+2. Karę za nieusprawiedliwione niestawiennictwo, za odmowę zeznań lub przyrzeczenia, nakłada na świadka lub biegłego – na wniosek sądu dyscyplinarnego lub rzecznika dyscyplinarnego – sąd rejonowy właściwy według miejsca zamieszkania świadka lub biegłego. Świadek lub biegły nie podlega karze, jeżeli nie był uprzedzony o skutkach niestawiennictwa, odmowy złożenia zeznań lub przyrzeczenia.
 
-3. Przymusowe sprowadzenie świadka zarządza na wniosek sądu dyscyplinarnego lub rzecznika dyscyplinarnego właściwy sąd rejonowy.
+3. Przymusowe sprowadzenie świadka zarządza – na wniosek sądu dyscyplinarnego lub rzecznika dyscyplinarnego – właściwy sąd rejonowy.
 
 **Art. 95f.** (uchylony)
 
@@ -1497,13 +1489,13 @@ Prawo o adwokaturze
 
 - **1)** sądy,
 - **2)** prokuratury,
-- **3)** właściwe ze względu na charakter prowadzonych przez danego adwokata spraw organy administracji rządowej i samorządu terytorialnego w okręgu izby adwokackiej, w której adwokat albo aplikant adwokacki jest wpisany na listę, a w sprawie adwokata wykonującego zawód radcy prawnego radę okręgowej izby radców prawnych.
+- **3)** właściwe ze względu na charakter prowadzonych przez danego adwokata spraw organy administracji rządowej i samorządu terytorialnego – w okręgu izby adwokackiej, w której adwokat albo aplikant adwokacki jest wpisany na listę, a w sprawie adwokata wykonującego zawód radcy prawnego – radę okręgowej izby radców prawnych.
 
 4. Usunięcie wzmianki o ukaraniu dyscyplinarnym następuje z urzędu po upływie:
 
 - **1)** 3 lat od dnia uprawomocnienia się orzeczenia dyscyplinarnego orzekającego karę upomnienia, karę nagany lub karę pieniężną,
 - **2)** 5 lat od odbycia kary zawieszenia w czynnościach zawodowych,
-- **3)** 15 lat w stosunku do adwokata albo 7 lat i 6 miesięcy w stosunku do aplikanta adwokackiego od dnia uprawomocnienia się orzeczenia dyscyplinarnego orzekającego karę wydalenia z adwokatury jeżeli adwokat lub aplikant adwokacki nie zostanie w tym czasie ukarany lub nie zostanie wszczęte przeciwko niemu postępowanie dyscyplinarne.
+- **3)** 15 lat w stosunku do adwokata albo 7 lat i 6 miesięcy w stosunku do aplikanta adwokackiego od dnia uprawomocnienia się orzeczenia dyscyplinarnego orzekającego karę wydalenia z adwokatury – jeżeli adwokat lub aplikant adwokacki nie zostanie w tym czasie ukarany lub nie zostanie wszczęte przeciwko niemu postępowanie dyscyplinarne.
 
 5. (uchylony)
 

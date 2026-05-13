@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 26 lutego 2024 r.
+# w sprawie ogłoszenia jednolitego tekstu ustawy o Instytucie Współpracy Polsko-Węgierskiej im. Wacława Felczaka
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 20 lutego 2024 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000251) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/251/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 20 lutego 2024 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o Instytucie Współpracy Polsko-Węgierskiej im. Wacława Felczaka
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 8 lutego 2018 r. o Instytucie Współpracy Polsko-Węgierskiej im. Wacława Felczaka (Dz. U.
 poz. 538), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 7 lipca 2023 r. o zmianie ustawy o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2023 oraz niektórych innych ustaw (Dz. U. poz. 1586) oraz zmian wynikających z przepisów ogłoszonych przed dniem 14 lutego 2024 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
@@ -146,7 +146,6 @@ Kodeks pracy.
 22. Uchwały Rady zapadają zwykłą większością głosów w obecności co najmniej połowy liczby członków Rady Instytutu. W przypadku równej liczby głosów rozstrzyga głos przewodniczącego Rady Instytutu.
 23. 1. Oddziałem zamiejscowym kieruje dyrektor powoływany i odwoływany przez Dyrektora Instytutu.
 2. Powołanie, o którym mowa w ust. 1, stanowi nawiązanie stosunku pracy na podstawie powołania w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. Kodeks pracy.
-w przepisach o finansach publicznych.
 2. Przychodami są:
 1) dotacja podmiotowa z budżetu państwa;
 2) przychody z działalności gospodarczej prowadzonej na zasadach określonych w art. 6;
@@ -226,6 +225,5 @@ c) w okresie trzech lat przed dniem złożenia wniosku o udzielenie wsparcia nar
 36. Prezes Rady Ministrów powołuje członków:
 1) Międzynarodowej Rady pierwszej kadencji,
 2) Rady pierwszej kadencji w terminie 3 miesięcy od dnia wejścia w życie ustawy.
-projekt planu finansowego na rok 2018. Przepis art. 25 ust. 3 stosuje się odpowiednio.
 38. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 

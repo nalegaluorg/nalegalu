@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 10 czerwca 2016 r.
+# o zmianie ustawy o publicznej służbie krwi oraz niektórych innych ustaw
+
+*USTAWA z dnia 20 maja 2016 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,14 +26,11 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000823) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/823/text.pdf) |
 
-USTAWA z dnia 20 maja 2016 r.
-o zmianie ustawy o publicznej służbie krwi oraz niektórych innych ustaw
-
 **Art. 1.** W ustawie z dnia 22 sierpnia 1997 r. o publicznej służbie krwi (Dz. U. z 2014 r. poz. 332) wprowadza się następujące zmiany:
 
 **Art. 1a.** Przepisów ustawy nie stosuje się do:
 
-**Art. 2.** Krew i jej składniki są pobierane, na zasadach określonych w ustawie, w celach leczniczych do przetoczenia biorcy krwi, przetworzenia w produkty krwiopochodne, o których mowa w ustawie z dnia 6 września 2001 r. Prawo farmaceutyczne (Dz. U. z 2008 r. poz. 271, z późn. zm. ), lub jako materiał wyjściowy do produkcji wyrobów medycznych, o których mowa w ustawie z dnia 20 maja 2010 r. o wyrobach medycznych (Dz. U. z 2015 r. poz. 876 i 1918 oraz z 2016 r. poz. 542).
+**Art. 2.** Krew i jej składniki są pobierane, na zasadach określonych w ustawie, w celach leczniczych do przetoczenia biorcy krwi, przetworzenia w produkty krwiopochodne, o których mowa w ustawie z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2008 r. poz. 271, z późn. zm. ), lub jako materiał wyjściowy do produkcji wyrobów medycznych, o których mowa w ustawie z dnia 20 maja 2010 r. o wyrobach medycznych (Dz. U. z 2015 r. poz. 876 i 1918 oraz z 2016 r. poz. 542).
 
 **Art. 3.**
 
@@ -44,30 +43,30 @@ o zmianie ustawy o publicznej służbie krwi oraz niektórych innych ustaw
     - **b)** w ust. 3 pkt 4 otrzymuje brzmienie: „4) Centrum Krwiodawstwa i Krwiolecznictwa utworzone przez ministra właściwego do spraw wewnętrznych, zwane dalej „Centrum MSWiA”.”;
 
 - **3)** art. 5 otrzymuje brzmienie: „Art. 5. Użyte w ustawie określenia oznaczają:
-- **1)** bank krwi jednostkę lub komórkę organizacyjną przedsiębiorstwa podmiotu leczniczego w rozumieniu ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2015 r. poz. 618, z późn. zm. ), w której przechowuje się i wydaje krew i jej składniki wyłącznie dla potrzeb podmiotów leczniczych do przetoczeń w podmiotach leczniczych wykonujących działalność leczniczą w rodzaju stacjonarne i całodobowe świadczenia zdrowotne;
-- **2)** biorca krwi osobę, której przetoczono krew lub jej składniki;
-- **3)** dawca krwi osobę, która oddała krew lub jej składniki do celów innych niż badania diagnostyczne;
-- **4)** dobra praktyka pobierania krwi i jej składników, badania, preparatyki, przechowywania, wydawania i transportu wszystkie elementy ustalonych procedur, które łącznie pozwalają uzyskać produkt w postaci krwi lub jej składników, zgodny z ustaloną specyfikacją i spełniający określone normy;
-- **5)** kandydat na dawcę krwi osobę, która zgłosiła się do jednostki organizacyjnej publicznej służby krwi, o której mowa w art. 4 ust. 3 pkt 2–4, po raz pierwszy, z zamiarem oddania krwi lub jej składników do celów innych niż badania diagnostyczne lub przetoczenia autologiczne;
-- **6)** kontrola jakości element systemu jakości dotyczący spełniania norm jakości krwi lub jej składników;
-- **7)** krew krew pełną przygotowywaną z przeznaczeniem do celów określonych w ustawie;
-- **8)** krew rzadkiej grupy krew, na której składnikach morfotycznych nie występują antygeny stwierdzane u więcej niż 99% populacji ludzkiej i przez to trudno osiągalna dla biorców z alloprzeciwciałami skierowanymi do tych antygenów, a także krew dla pacjentów z przeciwciałami skierowanymi do kilku antygenów, której częstotliwość występowania jest niższa niż 1%;
-- **9)** niepożądana reakcja niezamierzoną i niekorzystną reakcję u dawcy krwi lub biorcy krwi, związaną czasowo z przetoczeniem lub pobraniem krwi lub jej składników;
-- **10)** niepożądane zdarzenie niezamierzone i niekorzystne zdarzenie związane z pobieraniem, badaniem, preparatyką, przechowywaniem, wydawaniem i transportem krwi lub jej składników, mające miejsce przed, w trakcie, lub po przetoczeniu krwi lub jej składnika, mogące prowadzić do wystąpienia niepożądanej reakcji;
-- **11)** norma wymagania będące podstawą do porównań;
-- **12)** państwo członkowskie państwo członkowskie Unii Europejskiej lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronę umowy o Europejskim Obszarze Gospodarczym;
-- **13)** pobranie allogeniczne pobranie krwi lub jej składników od jednej osoby z przeznaczeniem do przetoczenia wyłącznie innej osobie, wykorzystania w wyrobach określonych w ustawie z dnia 20 maja 2010 r. o wyrobach medycznych albo jako materiał wyjściowy do wytwarzania produktów krwiopochodnych;
-- **14)** pobranie autologiczne pobranie krwi lub jej składników od danej osoby z przeznaczeniem do przetoczenia wyłącznie tej osobie lub innego zastosowania u tej osoby;
-- **15)** poważna niepożądana reakcja niezamierzoną reakcję organizmu dawcy krwi lub biorcy krwi, związaną z oddawaniem krwi lub jej składników lub ich przetoczeniem, prowadzącą do śmierci, zagrożenia życia, utraty sprawności, pogorszenia stanu zdrowia lub powodującą hospitalizację lub chorobę albo ich przedłużenie;
-- **16)** poważne niepożądane zdarzenie zdarzenie związane z pobieraniem, badaniem, preparatyką, przechowywaniem, wydawaniem i transportem krwi lub jej składników lub ich przetoczeniem, które mogłoby doprowadzić do śmierci, stanowić zagrożenie życia, spowodować utratę sprawności, pogorszenie stanu zdrowia lub hospitalizację lub chorobę albo ich przedłużenie;
-- **17)** pracownia immunologii transfuzjologicznej jednostkę lub komórkę organizacyjną przedsiębiorstwa podmiotu leczniczego, w której wykonuje się badania z zakresu immunologii transfuzjologicznej, w tym badania grup krwi, wykrywanie przeciwciał oraz próby zgodności serologicznej krwi i jej składników;
-- **18)** preparatyka każdy etap przygotowywania składnika krwi, od pobrania krwi do wydania jej składnika, polegający na rozdzieleniu krwi na składniki lub wykonaniu czynności, podczas których niezbędna jest ingerencja w zamknięty układ danego składnika krwi, skutkujący koniecznością zmiany etykiety ostatecznej lub koniecznością wykonania i oznakowania nowych próbek pilotujących;
-- **19)** składniki krwi frakcje krwi o właściwościach leczniczych uzyskiwane różnymi metodami, w szczególności: krwinki czerwone, krwinki białe, krwinki płytkowe, osocze, krioprecypitat;
-- **20)** SOP standardowe procedury operacyjne zawierające pisemne instrukcje opisujące sposób przeprowadzania lub przebieg określonych procesów;
-- **21)** specyfikacja opis kryteriów, które muszą być spełnione w celu osiągnięcia wymaganej normy;
-- **22)** system e-krew system teleinformatyczny publicznej służby krwi;
-- **23)** system zapewnienia jakości działania, od pobrania krwi lub jej składników do ich wydania, mające na celu zagwarantowanie, że jakość krwi i jej składników odpowiada wymaganym normom;
-- **24)** zarządzanie jakością skoordynowane działania polegające na kierowaniu organizacją systemu jakości w jednostkach organizacyjnych publicznej służby krwi, o których mowa w art. 4 ust. 3 pkt 2–4, oraz nadzorowaniu tych jednostek.”;
+- **1)** bank krwi – jednostkę lub komórkę organizacyjną przedsiębiorstwa podmiotu leczniczego w rozumieniu ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2015 r. poz. 618, z późn. zm. ), w której przechowuje się i wydaje krew i jej składniki wyłącznie dla potrzeb podmiotów leczniczych do przetoczeń w podmiotach leczniczych wykonujących działalność leczniczą w rodzaju stacjonarne i całodobowe świadczenia zdrowotne;
+- **2)** biorca krwi – osobę, której przetoczono krew lub jej składniki;
+- **3)** dawca krwi – osobę, która oddała krew lub jej składniki do celów innych niż badania diagnostyczne;
+- **4)** dobra praktyka pobierania krwi i jej składników, badania, preparatyki, przechowywania, wydawania i transportu – wszystkie elementy ustalonych procedur, które łącznie pozwalają uzyskać produkt w postaci krwi lub jej składników, zgodny z ustaloną specyfikacją i spełniający określone normy;
+- **5)** kandydat na dawcę krwi – osobę, która zgłosiła się do jednostki organizacyjnej publicznej służby krwi, o której mowa w art. 4 ust. 3 pkt 2–4, po raz pierwszy, z zamiarem oddania krwi lub jej składników do celów innych niż badania diagnostyczne lub przetoczenia autologiczne;
+- **6)** kontrola jakości – element systemu jakości dotyczący spełniania norm jakości krwi lub jej składników;
+- **7)** krew – krew pełną przygotowywaną z przeznaczeniem do celów określonych w ustawie;
+- **8)** krew rzadkiej grupy – krew, na której składnikach morfotycznych nie występują antygeny stwierdzane u więcej niż 99% populacji ludzkiej i przez to trudno osiągalna dla biorców z alloprzeciwciałami skierowanymi do tych antygenów, a także krew dla pacjentów z przeciwciałami skierowanymi do kilku antygenów, której częstotliwość występowania jest niższa niż 1%;
+- **9)** niepożądana reakcja – niezamierzoną i niekorzystną reakcję u dawcy krwi lub biorcy krwi, związaną czasowo z przetoczeniem lub pobraniem krwi lub jej składników;
+- **10)** niepożądane zdarzenie – niezamierzone i niekorzystne zdarzenie związane z pobieraniem, badaniem, preparatyką, przechowywaniem, wydawaniem i transportem krwi lub jej składników, mające miejsce przed, w trakcie, lub po przetoczeniu krwi lub jej składnika, mogące prowadzić do wystąpienia niepożądanej reakcji;
+- **11)** norma – wymagania będące podstawą do porównań;
+- **12)** państwo członkowskie – państwo członkowskie Unii Europejskiej lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronę umowy o Europejskim Obszarze Gospodarczym;
+- **13)** pobranie allogeniczne – pobranie krwi lub jej składników od jednej osoby z przeznaczeniem do przetoczenia wyłącznie innej osobie, wykorzystania w wyrobach określonych w ustawie z dnia 20 maja 2010 r. o wyrobach medycznych albo jako materiał wyjściowy do wytwarzania produktów krwiopochodnych;
+- **14)** pobranie autologiczne – pobranie krwi lub jej składników od danej osoby z przeznaczeniem do przetoczenia wyłącznie tej osobie lub innego zastosowania u tej osoby;
+- **15)** poważna niepożądana reakcja – niezamierzoną reakcję organizmu dawcy krwi lub biorcy krwi, związaną z oddawaniem krwi lub jej składników lub ich przetoczeniem, prowadzącą do śmierci, zagrożenia życia, utraty sprawności, pogorszenia stanu zdrowia lub powodującą hospitalizację lub chorobę albo ich przedłużenie;
+- **16)** poważne niepożądane zdarzenie – zdarzenie związane z pobieraniem, badaniem, preparatyką, przechowywaniem, wydawaniem i transportem krwi lub jej składników lub ich przetoczeniem, które mogłoby doprowadzić do śmierci, stanowić zagrożenie życia, spowodować utratę sprawności, pogorszenie stanu zdrowia lub hospitalizację lub chorobę albo ich przedłużenie;
+- **17)** pracownia immunologii transfuzjologicznej – jednostkę lub komórkę organizacyjną przedsiębiorstwa podmiotu leczniczego, w której wykonuje się badania z zakresu immunologii transfuzjologicznej, w tym badania grup krwi, wykrywanie przeciwciał oraz próby zgodności serologicznej krwi i jej składników;
+- **18)** preparatyka – każdy etap przygotowywania składnika krwi, od pobrania krwi do wydania jej składnika, polegający na rozdzieleniu krwi na składniki lub wykonaniu czynności, podczas których niezbędna jest ingerencja w zamknięty układ danego składnika krwi, skutkujący koniecznością zmiany etykiety ostatecznej lub koniecznością wykonania i oznakowania nowych próbek pilotujących;
+- **19)** składniki krwi – frakcje krwi o właściwościach leczniczych uzyskiwane różnymi metodami, w szczególności: krwinki czerwone, krwinki białe, krwinki płytkowe, osocze, krioprecypitat;
+- **20)** SOP – standardowe procedury operacyjne zawierające pisemne instrukcje opisujące sposób przeprowadzania lub przebieg określonych procesów;
+- **21)** specyfikacja – opis kryteriów, które muszą być spełnione w celu osiągnięcia wymaganej normy;
+- **22)** system e-krew – system teleinformatyczny publicznej służby krwi;
+- **23)** system zapewnienia jakości – działania, od pobrania krwi lub jej składników do ich wydania, mające na celu zagwarantowanie, że jakość krwi i jej składników odpowiada wymaganym normom;
+- **24)** zarządzanie jakością – skoordynowane działania polegające na kierowaniu organizacją systemu jakości w jednostkach organizacyjnych publicznej służby krwi, o których mowa w art. 4 ust. 3 pkt 2–4, oraz nadzorowaniu tych jednostek.”;
 - **4)** art. 6–8 otrzymują brzmienie: „Art. 6. 1. Dawcy krwi przysługuje tytuł „Honorowy Dawca Krwi”.
 
 2. Honorowy Dawca Krwi otrzymuje legitymację „Honorowego Dawcy Krwi” wydaną przez jednostkę organizacyjną publicznej służby krwi, w której dawca krwi oddał krew lub jej składniki.
@@ -75,17 +74,17 @@ o zmianie ustawy o publicznej służbie krwi oraz niektórych innych ustaw
 3. Dawcy krwi:
 
 - **1)** kobiecie, która oddała w dowolnym okresie co najmniej 5 litrów krwi lub odpowiadającą tej objętości ilość jej składników,
-- **2)** mężczyźnie, który oddał w dowolnym okresie co najmniej 6 litrów krwi lub odpowiadającą tej objętości ilość jej składników przysługuje tytuł „Zasłużony Honorowy Dawca Krwi III stopnia” i brązowa odznaka honorowa „Zasłużony Honorowy Dawca Krwi III stopnia”.
+- **2)** mężczyźnie, który oddał w dowolnym okresie co najmniej 6 litrów krwi lub odpowiadającą tej objętości ilość jej składników – przysługuje tytuł „Zasłużony Honorowy Dawca Krwi III stopnia” i brązowa odznaka honorowa „Zasłużony Honorowy Dawca Krwi III stopnia”.
 
 4. Dawcy krwi:
 
 - **1)** kobiecie, która oddała w dowolnym okresie co najmniej 10 litrów krwi lub odpowiadającą tej objętości ilość jej składników,
-- **2)** mężczyźnie, który oddał w dowolnym okresie co najmniej 12 litrów krwi lub odpowiadającą tej objętości ilość jej składników przysługuje tytuł „Zasłużony Honorowy Dawca Krwi II stopnia” i srebrna odznaka honorowa „Zasłużony Honorowy Dawca Krwi II stopnia”.
+- **2)** mężczyźnie, który oddał w dowolnym okresie co najmniej 12 litrów krwi lub odpowiadającą tej objętości ilość jej składników – przysługuje tytuł „Zasłużony Honorowy Dawca Krwi II stopnia” i srebrna odznaka honorowa „Zasłużony Honorowy Dawca Krwi II stopnia”.
 
 5. Dawcy krwi:
 
 - **1)** kobiecie, która oddała w dowolnym okresie co najmniej 15 litrów krwi lub odpowiadającą tej objętości ilość jej składników,
-- **2)** mężczyźnie, który oddał w dowolnym okresie co najmniej 18 litrów krwi lub odpowiadającą tej objętości ilość jej składników przysługuje tytuł „Zasłużony Honorowy Dawca Krwi I stopnia” i złota odznaka honorowa „Zasłużony Honorowy Dawca Krwi I stopnia”.
+- **2)** mężczyźnie, który oddał w dowolnym okresie co najmniej 18 litrów krwi lub odpowiadającą tej objętości ilość jej składników – przysługuje tytuł „Zasłużony Honorowy Dawca Krwi I stopnia” i złota odznaka honorowa „Zasłużony Honorowy Dawca Krwi I stopnia”.
 
 6. Odznakę, o której mowa w ust. 3–5, wraz z legitymacją „Zasłużonego Honorowego Dawcy Krwi”, wydaje Polski Czerwony Krzyż, na podstawie danych przekazanych przez jednostkę organizacyjną publicznej służby krwi, w której dawca krwi oddał krew lub jej składniki o objętości uprawniającej do nadania tej odznaki. O wydaniu odznaki wraz z legitymacją Polski Czerwony Krzyż zawiadamia jednostkę organizacyjną publicznej służby krwi, która przekazała dane, będące podstawą jej nadania. Przekazanie danych przez jednostkę organizacyjną publicznej służby krwi do Polskiego Czerwonego Krzyża wymaga zgody dawcy krwi wyrażonej w formie pisemnej.
 
@@ -96,7 +95,7 @@ o zmianie ustawy o publicznej służbie krwi oraz niektórych innych ustaw
 9. Legitymacje, o których mowa w ust. 2 i 6, zawierają następujące dane:
 
 - **1)** imię i nazwisko dawcy krwi;
-- **2)** numer PESEL, a w przypadku osób, które nie mają nadanego numeru PESEL serię, numer oraz rodzaj dokumentu stwierdzającego tożsamość dawcy krwi;
+- **2)** numer PESEL, a w przypadku osób, które nie mają nadanego numeru PESEL – serię, numer oraz rodzaj dokumentu stwierdzającego tożsamość dawcy krwi;
 - **3)** nazwę i adres jednostki wystawiającej legitymację;
 - **4)** oznaczenie stopnia odznaki, o której mowa w ust. 3–5.
 
@@ -106,15 +105,15 @@ o zmianie ustawy o publicznej służbie krwi oraz niektórych innych ustaw
 
 - **1)** wzory odznak, o których mowa w ust. 3–5,
 - **2)** wzory legitymacji, o których mowa w ust. 2 i 6,
-- **3)** zakres i sposób prowadzenia ewidencji, o której mowa w ust. 7 mając na celu zapewnienie sprawnego wydawania legitymacji i odznak, prawidłowego dokumentowania nadanych tytułów, prawdziwości danych i jednolitości tych wzorów oraz uwzględniając stopnie nadawanych odznak.
+- **3)** zakres i sposób prowadzenia ewidencji, o której mowa w ust. 7 – mając na celu zapewnienie sprawnego wydawania legitymacji i odznak, prawidłowego dokumentowania nadanych tytułów, prawdziwości danych i jednolitości tych wzorów oraz uwzględniając stopnie nadawanych odznak.
 
 **Art. 7.**
 
-1. Zasłużonemu Honorowemu Dawcy Krwi, który oddał co najmniej 20 litrów krwi lub odpowiadającą tej objętości ilość jej składników, mogą być nadawane ordery i odznaczenia oraz odznaka „Honorowy Dawca Krwi Zasłużony dla Zdrowia Narodu”.
+1. Zasłużonemu Honorowemu Dawcy Krwi, który oddał co najmniej 20 litrów krwi lub odpowiadającą tej objętości ilość jej składników, mogą być nadawane ordery i odznaczenia oraz odznaka „Honorowy Dawca Krwi – Zasłużony dla Zdrowia Narodu”.
 
 2. Wraz z odznaką wydaje się legitymację zawierającą dane, o których mowa w ust. 4 pkt 1.
 
-3. Odznakę „Honorowy Dawca Krwi Zasłużony dla Zdrowia Narodu” nadaje minister właściwy do spraw zdrowia na wniosek:
+3. Odznakę „Honorowy Dawca Krwi – Zasłużony dla Zdrowia Narodu” nadaje minister właściwy do spraw zdrowia na wniosek:
 
 - **1)** kierownika jednostki organizacyjnej publicznej służby krwi, w której dawca krwi oddał krew lub jej składniki o objętości uprawniającej do nadania odznaki;
 - **2)** organów ogólnopolskich stowarzyszeń honorowych dawców krwi.
@@ -123,7 +122,7 @@ o zmianie ustawy o publicznej służbie krwi oraz niektórych innych ustaw
 
 - **1)** dane dawcy krwi:
     - **a)** imię i nazwisko,
-    - **b)** numer PESEL, a w przypadku osób, które nie mają nadanego numeru PESEL serię, numer oraz rodzaj dokumentu stwierdzającego tożsamość,
+    - **b)** numer PESEL, a w przypadku osób, które nie mają nadanego numeru PESEL – serię, numer oraz rodzaj dokumentu stwierdzającego tożsamość,
     - **c)** adres miejsca zamieszkania i adres do korespondencji;
 
 - **2)** informację o objętości pobranej od dawcy krwi lub równoważnej ilości jej składników.
@@ -132,13 +131,13 @@ o zmianie ustawy o publicznej służbie krwi oraz niektórych innych ustaw
 
 - **1)** wzory:
     - **a)** wniosku o nadanie odznaki, o którym mowa w ust. 3,
-    - **b)** legitymacji i odznaki „Honorowy Dawca Krwi Zasłużony dla Zdrowia Narodu”,
+    - **b)** legitymacji i odznaki „Honorowy Dawca Krwi – Zasłużony dla Zdrowia Narodu”,
 
-- **2)** sposób dokumentowania objętości oddanej krwi lub równoważnej ilości jej składników do celów nadania odznaki „Honorowy Dawca Krwi Zasłużony dla Zdrowia Narodu” mając na uwadze zapewnienie jednolitości tych wzorów oraz uwzględniając dane, które powinien zawierać wniosek, oraz objętość oddanej krwi lub równoważnej ilości jej składników, a także potrzebę zachowania jednolitości dokumentowania objętości oddanej krwi lub jej składników oraz sprawnego trybu nadawania odznaki.
+- **2)** sposób dokumentowania objętości oddanej krwi lub równoważnej ilości jej składników do celów nadania odznaki „Honorowy Dawca Krwi – Zasłużony dla Zdrowia Narodu” – mając na uwadze zapewnienie jednolitości tych wzorów oraz uwzględniając dane, które powinien zawierać wniosek, oraz objętość oddanej krwi lub równoważnej ilości jej składników, a także potrzebę zachowania jednolitości dokumentowania objętości oddanej krwi lub jej składników oraz sprawnego trybu nadawania odznaki.
 
 **Art. 8.** Równoważnymi ilościami składników krwi odpowiadającymi 1 litrowi oddanej krwi uprawniającymi do tytułu i jednej z odznak, o których mowa w art. 6 ust. 3–5 i art. 7 ust. 1, są:
 
-**Art. 12.** Dawcy krwi, który w związku z zabiegiem pobrania krwi lub jej składników lub w związku z zabiegiem uodpornienia doznał uszkodzenia ciała lub rozstroju zdrowia, przysługuje odszkodowanie na podstawie ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. z 2016 r. poz. 380 i 585).”;
+**Art. 12.** Dawcy krwi, który w związku z zabiegiem pobrania krwi lub jej składników lub w związku z zabiegiem uodpornienia doznał uszkodzenia ciała lub rozstroju zdrowia, przysługuje odszkodowanie na podstawie ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2016 r. poz. 380 i 585).”;
 
 **Art. 16.**
 
@@ -157,7 +156,7 @@ o zmianie ustawy o publicznej służbie krwi oraz niektórych innych ustaw
 - **1)** dane osobowe kandydata na dawcę krwi lub dawcy krwi:
     - **a)** imię i nazwisko,
     - **b)** datę urodzenia,
-    - **c)** numer PESEL, a w przypadku osób, które nie mają nadanego numeru PESEL serię, numer oraz rodzaj dokumentu stwierdzającego tożsamość;
+    - **c)** numer PESEL, a w przypadku osób, które nie mają nadanego numeru PESEL – serię, numer oraz rodzaj dokumentu stwierdzającego tożsamość;
 
 - **2)** istotne dane mogące mieć wpływ na stan zdrowia kandydata na dawcę krwi lub dawcy krwi oraz bezpieczeństwo biorcy krwi;
 - **3)** numer donacji.
@@ -171,7 +170,7 @@ o zmianie ustawy o publicznej służbie krwi oraz niektórych innych ustaw
 - **5)** przeciwwskazania do pobrania krwi i jej składników,
 - **6)** dopuszczalną ilość oddawanej krwi i jej składników oraz częstotliwość ich oddawania,
 - **7)** szczegółowe warunki dopuszczenia do zabiegu uodpornienia lub innych zabiegów wykonywanych w celu uzyskania osocza lub surowic diagnostycznych,
-- **8)** zakres informacji, które powinny być przekazane kandydatowi na dawcę krwi i dawcy krwi przed jej oddaniem, w szczególności dotyczących roli krwi w organizmie i jej znaczenia dla pacjenta, procedury pobrania krwi lub jej składników, konieczności przeprowadzenia badań kwalifikacyjnych i wywiadu medycznego, przebiegu pobrania krwi lub jej składników, możliwych następstw dla stanu zdrowia dawcy krwi, możliwości rezygnacji przez dawcę krwi z oddania krwi lub jej składników, możliwym sposobie wykorzystania krwi i jej składników, w tym o możliwości ich przetworzenia, umożliwiających wyrażenie zgody na oddanie krwi lub jej składników mając na uwadze zapewnienie bezpieczeństwa dawcy krwi i biorcy krwi, skuteczności informowania kandydata na dawcę krwi i dawcy krwi o dyskwalifikacji oraz jednolitości danych zbieranych w ramach przeprowadzania wywiadu medycznego.
+- **8)** zakres informacji, które powinny być przekazane kandydatowi na dawcę krwi i dawcy krwi przed jej oddaniem, w szczególności dotyczących roli krwi w organizmie i jej znaczenia dla pacjenta, procedury pobrania krwi lub jej składników, konieczności przeprowadzenia badań kwalifikacyjnych i wywiadu medycznego, przebiegu pobrania krwi lub jej składników, możliwych następstw dla stanu zdrowia dawcy krwi, możliwości rezygnacji przez dawcę krwi z oddania krwi lub jej składników, możliwym sposobie wykorzystania krwi i jej składników, w tym o możliwości ich przetworzenia, umożliwiających wyrażenie zgody na oddanie krwi lub jej składników – mając na uwadze zapewnienie bezpieczeństwa dawcy krwi i biorcy krwi, skuteczności informowania kandydata na dawcę krwi i dawcy krwi o dyskwalifikacji oraz jednolitości danych zbieranych w ramach przeprowadzania wywiadu medycznego.
 
 **Art. 17.**
 
@@ -186,7 +185,7 @@ o zmianie ustawy o publicznej służbie krwi oraz niektórych innych ustaw
 5. System e-krew zawiera następujące dane kandydatów na dawców krwi i dawców krwi, w tym kandydatów na dawców krwi i dawców krwi, którzy podlegają stałej albo czasowej dyskwalifikacji:
 
 - **1)** imię i nazwisko;
-- **2)** numer PESEL, a w przypadku osób, które nie mają nadanego numeru PESEL serię, numer oraz rodzaj dokumentu stwierdzającego tożsamość;
+- **2)** numer PESEL, a w przypadku osób, które nie mają nadanego numeru PESEL – serię, numer oraz rodzaj dokumentu stwierdzającego tożsamość;
 - **3)** datę i miejsce urodzenia;
 - **4)** płeć;
 - **5)** grupę krwi, z uwzględnieniem fenotypu i wszystkich składników krwi;
@@ -197,13 +196,13 @@ o zmianie ustawy o publicznej służbie krwi oraz niektórych innych ustaw
 - **10)** typ dawcy krwi: honorowy, autologiczny, pierwszorazowy, wielokrotny stały i wielokrotny powtórny;
 - **11)** wyniki badań laboratoryjnych w kierunku obecności czynników chorobotwórczych;
 - **12)** przyczyny stałej albo czasowej dyskwalifikacji;
-- **13)** datę, od której rozpoczyna się stała lub czasowa dyskwalifikacja, a w przypadku czasowej dyskwalifikacji datę planowanego i faktycznego końca okresu dyskwalifikacji;
+- **13)** datę, od której rozpoczyna się stała lub czasowa dyskwalifikacja, a w przypadku czasowej dyskwalifikacji – datę planowanego i faktycznego końca okresu dyskwalifikacji;
 - **14)** adres miejsca zamieszkania;
 - **15)** numer telefonu, jeżeli posiada;
 - **16)** adres poczty elektronicznej, jeżeli posiada;
 - **17)** adres do korespondencji;
 - **18)** informację o przyznanych odznakach, o których mowa w art. 6 ust. 3–5 i art. 7 ust. 1;
-- **19)** stopień wojskowy oraz numer lub nazwę jednostki wojskowej w przypadku Wojskowego Centrum.
+- **19)** stopień wojskowy oraz numer lub nazwę jednostki wojskowej – w przypadku Wojskowego Centrum.
 
 6. Dane, o których mowa w ust. 5 pkt 19, są dostępne wyłącznie dla Wojskowego Centrum.
 
@@ -249,7 +248,7 @@ o zmianie ustawy o publicznej służbie krwi oraz niektórych innych ustaw
     - **e)** wskazanie do transfuzji,
     - **f)** numer księgi głównej przyjęć i wypisów oraz księgi chorych oddziału,
     - **g)** pełną nazwę zamawianego składnika, liczbę jego jednostek lub opakowań, ze wskazaniem grupy krwi ABO, RhD oraz, w razie potrzeby, z rozszerzonym fenotypem grupy krwi oraz innych antygenów składnika krwi,
-    - **h)** potwierdzenie przetoczenia danego składnika krwi, a gdy przetoczenie nie miało miejsca wskazanie sposobu postępowania z niewykorzystanym składnikiem krwi.
+    - **h)** potwierdzenie przetoczenia danego składnika krwi, a gdy przetoczenie nie miało miejsca – wskazanie sposobu postępowania z niewykorzystanym składnikiem krwi.
 
 9. System e-krew zawiera dane dotyczące niepożądanych reakcji i niepożądanych zdarzeń, w tym poważnych niepożądanych reakcji i poważnych niepożądanych zdarzeń, odnoszących się do jednostki organizacyjnej publicznej służby krwi, obejmujące:
 
@@ -280,7 +279,7 @@ o zmianie ustawy o publicznej służbie krwi oraz niektórych innych ustaw
 
 - **1)** sposób i format przekazywania danych objętych wpisem do systemu e-krew między systemem e-krew, systemami teleinformatycznymi podmiotów leczniczych oraz Systemem Monitorowania Zagrożeń,
 - **2)** sposób i format przekazywania danych pochodzących z urządzeń specjalistycznych funkcjonujących w jednostkach, o których mowa w art. 4 ust. 3, do systemu e-krew,
-- **3)** sposób rozstrzygania rozbieżności danych mając na celu zapewnienie jednolitości systemu e-krew, anonimowości kandydata na dawcę krwi lub dawców krwi oraz zabezpieczenie danych przed nieuprawnionym dostępem, nieuprawnionym ujawnieniem lub pozyskaniem, a także ich modyfikacją, uszkodzeniem, zniszczeniem lub utratą.
+- **3)** sposób rozstrzygania rozbieżności danych – mając na celu zapewnienie jednolitości systemu e-krew, anonimowości kandydata na dawcę krwi lub dawców krwi oraz zabezpieczenie danych przed nieuprawnionym dostępem, nieuprawnionym ujawnieniem lub pozyskaniem, a także ich modyfikacją, uszkodzeniem, zniszczeniem lub utratą.
 
 18. W przypadku pobierania krwi i jej składników od żołnierzy zawodowych pełniących służbę poza granicami państwa i osób zatrudnionych w jednostkach wykonujących zadania poza granicami państwa przepisy wydane na podstawie ust. 17 stosuje się w zakresie nieokreślonym w przepisach wydanych na podstawie ust. 19.
 
@@ -324,18 +323,18 @@ o zmianie ustawy o publicznej służbie krwi oraz niektórych innych ustaw
 - **1)** sposób i organizację leczenia krwią w podmiotach leczniczych wykonujących działalność leczniczą w rodzaju stacjonarne i całodobowe świadczenia zdrowotne, w których przebywają pacjenci ze wskazaniami do leczenia krwią i jej składnikami, w tym zadania: kierownika tego podmiotu, ordynatora albo lekarza kierującego oddziałem oraz lekarzy i pielęgniarek,
 - **2)** organizację banku krwi oraz pracowni serologii lub pracowni immunologii transfuzjologicznej podmiotu leczniczego, a także sposób sprawowania nadzoru nad działaniem banku krwi oraz pracowni serologii lub pracowni immunologii transfuzjologicznej w podmiocie leczniczym wykonującym działalność leczniczą w rodzaju stacjonarne i całodobowe świadczenia zdrowotne, w którym przebywają pacjenci ze wskazaniami do leczenia krwią i jej składnikami, w tym kwalifikacje i doświadczenie kierownika tego banku krwi albo pracowni serologii lub pracowni immunologii transfuzjologicznej oraz jego zadania,
 - **3)** sposób prowadzenia dokumentacji medycznej dotyczącej leczenia krwią i jej składnikami,
-- **4)** sposób zapewnienia dostępu do badań z zakresu serologii lub immunologii transfuzjologicznej mając na uwadze potrzebę zapewnienia odpowiedniego poziomu leczenia krwią i jej składnikami, zapewnienie bezpieczeństwa biorców krwi, sprawności i bezpieczeństwa wszystkich czynności związanych z leczeniem krwią oraz czytelności i jednolitości prowadzonej dokumentacji.”;
+- **4)** sposób zapewnienia dostępu do badań z zakresu serologii lub immunologii transfuzjologicznej – mając na uwadze potrzebę zapewnienia odpowiedniego poziomu leczenia krwią i jej składnikami, zapewnienie bezpieczeństwa biorców krwi, sprawności i bezpieczeństwa wszystkich czynności związanych z leczeniem krwią oraz czytelności i jednolitości prowadzonej dokumentacji.”;
 - **17)** art. 22 otrzymuje brzmienie: „Art. 22. 1. Podmiot leczniczy wykonujący działalność leczniczą w rodzaju stacjonarne i całodobowe świadczenia zdrowotne jest obowiązany niezwłocznie, jednak nie później niż w terminie 24 godzin, powiadomić Instytut za pośrednictwem właściwej jednostki organizacyjnej publicznej służby krwi, o której mowa w art. 23 ust. 3a, 4a i 5a, o każdym przypadku wystąpienia poważnego niepożądanego zdarzenia lub poważnej niepożądanej reakcji, związanych z przygotowaniem do przetoczenia krwi i jej składników, w trakcie przetaczania krwi i jej składników lub po ich przetoczeniu oraz o każdym przypadku podejrzenia lub stwierdzenia choroby, która może być spowodowana przetoczeniem.
 
 2. Jednostka organizacyjna publicznej służby krwi, o której mowa w art. 23 ust. 3a, 4a i 5a, jest obowiązana przeprowadzić, we współdziałaniu z podmiotem leczniczym wykonującym działalność leczniczą w rodzaju stacjonarne i całodobowe świadczenia zdrowotne, postępowanie wyjaśniające w celu ustalenia przyczyny wystąpienia przypadków, o których mowa w ust. 1, i podjąć działania zapobiegawcze.”;
 
-- **18)** w art. 23:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Instytut jest instytutem badawczym w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2016 r. poz. 371), nadzorowanym przez ministra właściwego do spraw zdrowia, i jest dofinansowywany w formie dotacji z budżetu państwa, z części będącej w dyspozycji ministra właściwego do spraw zdrowia, w zakresie zadań określonych w art. 25.”,
+- **18)** w art. 23: poz. 371), nadzorowanym przez ministra właściwego do spraw zdrowia, i jest dofinansowywany w formie dotacji z budżetu państwa, z części będącej w dyspozycji ministra właściwego do spraw zdrowia, w zakresie zadań określonych w art. 25.”,
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Instytut jest instytutem badawczym w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2016 r.
     - **b)** w ust. 3 w części wspólnej wyrazy „art. 27 pkt 3–7” zastępuje się wyrazami „art. 27 ust. 1 pkt 1, 3–5, 7, 8 i 11–13”,
     - **c)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Regionalne centrum jest jednostką organizacyjną publicznej służby krwi właściwą dla podmiotów leczniczych, innych niż regionalne centra, których miejsce udzielania świadczeń zdrowotnych znajduje się na obszarze działania danego regionalnego centrum, określonego w statucie nadanym przez ministra właściwego do spraw zdrowia.”,
     - **d)** w ust. 4 w pkt 1 wyrazy „art. 27 pkt 3–6” zastępuje się wyrazami „art. 27 ust. 1 pkt 1, 3–5, 7 i 11–13”,
     - **e)** po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. Wojskowe Centrum jest jednostką organizacyjną publicznej służby krwi właściwą dla podmiotów leczniczych, dla których podmiotem tworzącym jest Minister Obrony Narodowej, oraz utworzonych i prowadzonych przez Skarb Państwa reprezentowany przez tego ministra.”,
-    - **f)** w ust. 5: wprowadzenie do wyliczenia otrzymuje brzmienie: „Centrum MSWiA jest:”, w części wspólnej wyrazy „art. 27 pkt 3–6” zastępuje się wyrazami „art. 27 ust. 1 pkt 1, 3–5, 7 i 11–13”,
+    - **f)** w ust. 5: – wprowadzenie do wyliczenia otrzymuje brzmienie: „Centrum MSWiA jest:”, – w części wspólnej wyrazy „art. 27 pkt 3–6” zastępuje się wyrazami „art. 27 ust. 1 pkt 1, 3–5, 7 i 11–13”,
     - **g)** po ust. 5 dodaje się ust. 5a w brzmieniu: „5a. Centrum MSWiA jest jednostką organizacyjną publicznej służby krwi właściwą dla podmiotów leczniczych, dla których podmiotem tworzącym jest minister właściwy do spraw wewnętrznych, oraz utworzonych i prowadzonych przez Skarb Państwa reprezentowany przez tego ministra.”;
 
 - **19)** art. 24 otrzymuje brzmienie: „Art. 24. Minister właściwy do spraw zdrowia:
@@ -387,7 +386,7 @@ o zmianie ustawy o publicznej służbie krwi oraz niektórych innych ustaw
 
 - **14)** organizowanie i przeprowadzanie szkoleń z zakresu krwiodawstwa i krwiolecznictwa;
 - **15)** prowadzenie pracowni konsultacyjnych w zakresie badań immunohematologicznych;
-- **16)** wykonywanie zadań związanych z obronnością państwa, w tym zadań mobilizacyjnych, w zakresie krwiodawstwa i krwiolecznictwa w przypadku Wojskowego Centrum.
+- **16)** wykonywanie zadań związanych z obronnością państwa, w tym zadań mobilizacyjnych, w zakresie krwiodawstwa i krwiolecznictwa – w przypadku Wojskowego Centrum.
 
 2. Zadanie, o którym mowa w ust. 1 pkt 5, właściwa jednostka organizacyjna publicznej służby krwi realizuje na podstawie zamówienia indywidualnego lub zbiorczego na krew i jej składniki. W przypadku uzyskania przez podmiot leczniczy, dla którego podmiotem tworzącym jest minister właściwy do spraw wewnętrznych lub Minister Obrony Narodowej, zezwolenia wydanego przez jednostkę organizacyjną publicznej służby krwi, o której mowa w art. 4 ust. 3 pkt 3 i 4, zadanie to może być realizowane, na rzecz tego podmiotu leczniczego, przez najbliższą terytorialnie jednostkę organizacyjną publicznej służby krwi.
 
@@ -435,7 +434,7 @@ o zmianie ustawy o publicznej służbie krwi oraz niektórych innych ustaw
 
 **Art. 2.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2012 r. poz. 361, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 3.** W ustawie z dnia 6 września 2001 r. Prawo farmaceutyczne (Dz. U. z 2008 r. poz. 271, z późn. zm. ) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2008 r. poz. 271, z późn. zm. ) wprowadza się następujące zmiany:
 
 **Art. 4.** W ustawie z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2016 r. poz. 186) w art. 29 w ust. 1 po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) dokumentacji medycznej zawierającej dane niezbędne do monitorowania losów krwi i jej składników, która jest przechowywana przez okres 30 lat, licząc od końca roku kalendarzowego, w którym dokonano ostatniego wpisu;”.
 
@@ -449,19 +448,19 @@ o zmianie ustawy o publicznej służbie krwi oraz niektórych innych ustaw
 
 1. System e-krew, o którym mowa w art. 17 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, zastępuje rejestr, o którym mowa w art. 17 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym.
 
-2. Jednostki organizacyjne publicznej służby krwi, od dnia 1 stycznia 2020 r., przekazują dane, o których mowa w art. 30 ust. 2 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, oraz dane dotyczące zgłoszeń, o których mowa w art. 30 ust. 4a tej ustawy, w brzmieniu nadanym niniejszą ustawą, do systemu e-krew, o którym mowa w art. 17 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+2. Jednostki organizacyjne publicznej służby krwi od dnia 1 czerwca 2022 r. przekazują dane, o których mowa w art. 30 ust. 2 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, oraz dane dotyczące zgłoszeń, o których mowa w art. 30 ust. 6 tej ustawy, w brzmieniu nadanym niniejszą ustawą, do systemu e-krew, o którym mowa w art. 17 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
 **Art. 9.**
 
-1. Dane, o których mowa w art. 17 ust. 5 i 7–9 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, będą przekazywane do systemu e-krew, o którym mowa w art. 17 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, w pełnym zakresie od dnia 1 stycznia 2020 r., z zastrzeżeniem ust. 2 i 3.
+1. Dane, o których mowa w art. 17 ust. 5 i 7–9 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, będą przekazywane do systemu e-krew, o którym mowa w art. 17 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, w pełnym zakresie od dnia 1 czerwca 2022 r., z zastrzeżeniem ust. 2 i 3.
 
-2. Do dnia 31 grudnia 2019 r.:
+2. Do dnia 31 maja 2022 r.:
 
 - **1)** jednostki organizacyjne publicznej służby krwi, o których mowa w art. 4 ust. 3 pkt 2–4 ustawy zmienianej w art. 1, wykonują zadanie, o którym mowa w art. 27 pkt 2 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, w zakresie danych, o których mowa w ust. 3;
 - **2)** jednostka organizacyjna publicznej służby krwi, o której mowa w art. 4 ust. 3 pkt 1 ustawy zmienianej w art. 1, wykonuje zadanie, o którym mowa w art. 25 pkt 8 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, w zakresie danych, o których mowa w ust. 3;
 - **3)** w zakresie zadań, o których mowa w pkt 1 i 2, administratorami danych, w tym gromadzonych w systemie e-krew, są odpowiednie jednostki organizacyjne publicznej służby krwi, o których mowa w art. 4 ust. 3 ustawy zmienianej w art. 1.
 
-3. Przekazywanie danych, o których mowa w art. 17 ust. 5 i 7–9 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, do systemu e-krew, o którym mowa w art. 17 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, może odbywać się od dnia wejścia w życie ustawy do dnia 31 grudnia 2019 r. w zakresie wynikającym z możliwości technicznych systemu e-krew. Minimalny zakres przekazywanych danych obejmuje następujące dane dawcy krwi:
+3. Przekazywanie danych, o których mowa w art. 17 ust. 5 i 7–9 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, do systemu e-krew, o którym mowa w art. 17 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, może odbywać się od dnia wejścia w życie ustawy do dnia 31 maja 2022 r. w zakresie wynikającym z możliwości technicznych systemu e-krew. Minimalny zakres przekazywanych danych obejmuje następujące dane dawcy krwi:
 
 - **1)** imię i nazwisko;
 - **2)** numer PESEL;
@@ -470,13 +469,13 @@ o zmianie ustawy o publicznej służbie krwi oraz niektórych innych ustaw
 - **5)** numer karty identyfikacyjnej lub legitymacji dawcy krwi;
 - **6)** datę i przyczynę skreślenia z rejestru dawców krwi, jeżeli takie zdarzenie zaistniało.
 
-**Art. 10.** Legitymacje „Honorowego Dawcy Krwi”, „Zasłużonego Honorowego Dawcy Krwi” oraz „Honorowego Dawcy Krwi Zasłużonego dla Zdrowia Narodu” wydane przed dniem wejścia w życie ustawy zachowują ważność po tym dniu.
+**Art. 10.** Legitymacje „Honorowego Dawcy Krwi”, „Zasłużonego Honorowego Dawcy Krwi” oraz „Honorowego Dawcy Krwi – Zasłużonego dla Zdrowia Narodu” wydane przed dniem wejścia w życie ustawy zachowują ważność po tym dniu.
 
 **Art. 11.**
 
 1. Dopuszcza się wydawanie legitymacji „Honorowego Dawcy Krwi”, na dotychczasowych zasadach, do wyczerpania zapasów, jednak nie dłużej niż przez okres 12 miesięcy od dnia wejścia w życie ustawy.
 
-2. Dopuszcza się wydawanie legitymacji oraz odznak „Zasłużonego Honorowego Dawcy Krwi” oraz „Honorowego Dawcy Krwi Zasłużonego dla Zdrowia Narodu”, według wzoru określonego w przepisach wydanych na podstawie art. 7 ust. 4 i art. 8 ust. 3 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, do wyczerpania zapasów, jednak nie dłużej niż przez okres 12 miesięcy od dnia wejścia w życie ustawy.
+2. Dopuszcza się wydawanie legitymacji oraz odznak „Zasłużonego Honorowego Dawcy Krwi” oraz „Honorowego Dawcy Krwi – Zasłużonego dla Zdrowia Narodu”, według wzoru określonego w przepisach wydanych na podstawie art. 7 ust. 4 i art. 8 ust. 3 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, do wyczerpania zapasów, jednak nie dłużej niż przez okres 12 miesięcy od dnia wejścia w życie ustawy.
 
 **Art. 12.**
 
@@ -498,10 +497,10 @@ o zmianie ustawy o publicznej służbie krwi oraz niektórych innych ustaw
 
 1. W latach 2017–2019 i w 2023 r. maksymalny limit wydatków budżetu państwa będących skutkiem finansowym ustawy w części pozostającej w dyspozycji ministra właściwego do spraw zdrowia wyniesie 45 460 tys. zł, z tym że w poszczególnych latach wyniesie odpowiednio:
 
-- **1)** 2017 r. 2620 tys. zł;
-- **2)** 2018 r. 3900 tys. zł;
-- **3)** 2019 r. 11 940 tys. zł;
-- **4)** 2023 r. 27 000 tys. zł.
+- **1)** 2017 r. – 2620 tys. zł;
+- **2)** 2018 r. – 3900 tys. zł;
+- **3)** 2019 r. – 11 940 tys. zł;
+- **4)** 2023 r. – 27 000 tys. zł.
 
 2. W przypadku przekroczenia lub zagrożenia przekroczenia przyjętego na dany rok budżetowy maksymalnego limitu wydatków, o którym mowa w ust. 1, zostaną zastosowane mechanizmy korygujące polegające na ograniczeniu wydatków ponoszonych na rozwój oraz zmiany w zakresie funkcjonalności systemu e-krew, o którym mowa w art. 17 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, wynikające z doświadczeń podmiotów korzystających z tego systemu.
 
@@ -509,7 +508,9 @@ o zmianie ustawy o publicznej służbie krwi oraz niektórych innych ustaw
 
 **Art. 15.**
 
-1. Przepisy wykonawcze wydane na podstawie art. 7 ust. 4, art. 8 ust. 3, art. 14 ust. 1i, art. 16, art. 17 ust. 3, art. 21 ust. 2 i 3 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 6 ust. 11, art. 7 ust. 5, art. 14 ust. 1i, art. 16 ust. 7, art. 17 ust. 17, art. 21 ust. 7 i 8 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez okres 12 miesięcy od dnia wejścia w życie ustawy.
+1. Przepisy wykonawcze wydane na podstawie art. 7 ust. 4, art. 8 ust. 3, art. 14 ust. 1i, art. 16, art. 21 ust. 2 i 3 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 6 ust. 11, art. 7 ust. 5, art. 14 ust. 1i, art. 16 ust. 7, art. 21 ust. 7 i 8 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez okres 12 miesięcy od dnia wejścia w życie ustawy.
+
+1a. Przepisy wykonawcze wydane na podstawie art. 17 ust. 3 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 17 ust. 17 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż do dnia 31 maja 2022 r.
 
 2. Przepisy wykonawcze wydane na podstawie art. 19 ust. 2 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, zachowują moc do dnia 31 grudnia 2016 r.
 

@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 12 lutego 2026 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy kontroli administracji rządowej Na podstawie 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 15 lipca 2011 r. kontroli administracji rządowej (Dz. U. z 2020 r. poz. 224), z uwzględnieniem zmian wprowadzonych ustawą z dnia 25 lipca 2025 r. zmianie ustawy informatyzacji działalności podmiotów realizujących zadania publiczne oraz niektórych innych ustaw (Dz. U. poz. 1158) oraz zmian wynikających z przepisów ogłoszonych przed dniem 6 lutego 2026 r.
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 9 lutego 2026 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2026-02-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000158) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/158/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 9 lutego 2026 r.
-sprawie ogłoszenia jednolitego tekstu ustawy kontroli administracji rządowej Na podstawie 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 15 lipca 2011 r. kontroli administracji rządowej (Dz. U. z 2020 r. poz. 224), z uwzględnieniem zmian wprowadzonych ustawą z dnia 25 lipca 2025 r. zmianie ustawy informatyzacji działalności podmiotów realizujących zadania publiczne oraz niektórych innych ustaw (Dz. U. poz. 1158) oraz zmian wynikających z przepisów ogłoszonych przed dniem 6 lutego 2026 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje 11 i 17 ustawy z dnia 25 lipca 2025 r. zmianie ustawy informatyzacji działalności podmiotów realizujących zadania publiczne oraz niektórych innych ustaw (Dz. U. poz. 1158), które stanowią: „Art. 11. Do kontroli prowadzonych na podstawie ustawy zmienianej 2, wszczętych i niezakończonych przed dniem wejścia życie stosuje się przepisy dotychczasowe.” „Art. 17. Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem 1 10 zakresie 12k–12n, 11 lit. a i e, 12, 13 lit. b i c, 14, 15, 19–21 oraz 27, które wchodzą życie po upływie 18 miesięcy od dnia ogłoszenia.”.
 Marszałek Sejmu: W. Czarzasty
 USTAWA z dnia 15 lipca 2011 r.

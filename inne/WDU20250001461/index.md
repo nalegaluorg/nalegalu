@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 24 października 2025 r.
+# o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych
+
+*USTAWA z dnia 27 sierpnia 2004 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,38 +26,6 @@ domain: null
 | Ostatnia zmiana | 2026-04-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001461) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1461/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 26 września 2025 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2024 r. poz. 146), z uwzględnieniem zmian wprowadzonych:
-1) ustawą z dnia 15 maja 2024 r. o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka „Aktywny rodzic” (Dz. U. poz. 858),
-2) ustawą z dnia 12 lipca 2024 r. Przepisy wprowadzające ustawę Prawo komunikacji elektronicznej (Dz. U. poz. 1222),
-3) ustawą z dnia 27 września 2024 r. o zmianie ustawy o rencie socjalnej oraz niektórych innych ustaw (Dz. U. poz. 1615),
-4) ustawą z dnia 5 grudnia 2024 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw (Dz. U. z 2025 r. poz. 129),
-5) ustawą z dnia 6 grudnia 2024 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. poz. 1915),
-6) ustawą z dnia 24 stycznia 2025 r. o zmianie niektórych ustaw w związku z przystąpieniem Rzeczypospolitej Polskiej do wzmocnionej współpracy w zakresie Prokuratury Europejskiej (Dz. U. poz. 304),
-7) ustawą z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620),
-8) ustawą z dnia 24 kwietnia 2025 r. o zmianie ustawy o Państwowym Ratownictwie Medycznym oraz niektórych innych ustaw (Dz. U. poz. 637),
-9) ustawą z dnia 4 czerwca 2025 r. o Krajowej Sieci Kardiologicznej (Dz. U. poz. 779),
-10) ustawą z dnia 25 lipca 2025 r. o zmianie ustawy o systemie ubezpieczeń społecznych oraz niektórych innych ustaw (Dz. U. poz. 1083),
-11) ustawą z dnia 25 lipca 2025 r. o zmianie ustawy o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych oraz ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. poz. 1192),
-12) ustawą z dnia 5 sierpnia 2025 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz ustawy o działalności leczniczej (Dz. U. poz. 1211) oraz zmian wynikających z przepisów ogłoszonych przed dniem 25 września 2025 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje
-1) art. 88 ustawy z dnia 15 maja 2024 r. o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka „Aktywny rodzic” (Dz. U. poz. 858), który stanowi: „Art. 88. Ustawa wchodzi w życie z dniem 1 października 2024 r., z wyjątkiem:
-1) art. 5, art. 55 ust. 4–7, art. 68 pkt 18 i 19, art. 75 ust. 14 i art. 78–81, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
-2) art. 68 pkt 3 i art. 86, które wchodzą w życie z dniem 28 czerwca 2024 r.;
-3) art. 68 pkt 7 lit. a tiret pierwsze, pkt 8, pkt 9, pkt 10 lit. a tiret pierwsze i pkt 11, art. 76 i art. 77, które wchodzą w życie z dniem 1 czerwca 2025 r.;
-4) art. 68 pkt 4, pkt 15 lit. b, pkt 16 lit. b, pkt 17 lit. a i pkt 18 lit. d oraz art. 83, które wchodzą w życie z dniem 1 stycznia 2026 r.”;
-2) art. 124 ustawy z dnia 12 lipca 2024 r. Przepisy wprowadzające ustawę Prawo komunikacji elektronicznej (Dz. U.
-poz. 1222), który stanowi: „Art. 124. Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem:
-1) art. 1, art. 39 pkt 11 lit. b w zakresie art. 16a ust. 4 pkt 2c i 2d, art. 46 pkt 5, art. 52 pkt 1, art. 63, art. 68 ust. 2, art. 80 ust. 3 i 5–8 oraz art. 120, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
-2) art. 44 pkt 9 w zakresie art. 20 ust. 1 pkt 2 lit. b, który wchodzi w życie z dniem 1 grudnia 2024 r.;
-3) art. 39 pkt 24 i 27, które wchodzą w życie z dniem 1 stycznia 2025 r.;
-4) art. 39 pkt 31, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia;
-5) art. 49 i art. 106, które wchodzą w życie z dniem 18 października 2024 r.”;
-3) art. 12 ustawy z dnia 27 września 2024 r. o zmianie ustawy o rencie socjalnej oraz niektórych innych ustaw (Dz. U.
-poz. 1615), który stanowi: „Art. 12. Ustawa wchodzi w życie z dniem 1 stycznia 2025 r.”;
-4) art. 7 ustawy z dnia 5 grudnia 2024 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw (Dz. U. z 2025 r. poz. 129), który stanowi: „Art. 7. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
-5) art. 2–4 i art. 6 ustawy z dnia 6 grudnia 2024 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. poz. 1915), które stanowią: „Art. 2. W przypadku osób prowadzących działalność pozarolniczą, o których mowa w art. 8 ust. 6 pkt 1, 3, 4 i 5 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2024 r. poz. 497, 863, 1243 i 1615) oraz w art. 18 ust. 1 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236, 1222 i 1871), opłacających podatek dochodowy na zasadach określonych w art. 27, art. 30c lub art. 30ca ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2024 r. poz. 226, z późn. zm. ), przepisy art. 81 ust. 2 zdanie pierwsze, ust. 2c pkt 5 i ust. 2zd pkt 3 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, oraz art. 81 ust. 2ze ustawy zmienianej w art. 1 stosuje się do rozliczenia składek na ubezpieczenie zdrowotne należnych za okres od dnia 1 lutego 2025 r.
 Art. 31la. 1. Taryfikacja świadczeń opieki zdrowotnej jest prowadzona na podstawie planu taryfikacji Agencji sporządzanego na rok kalendarzowy.
 2. Prezes Agencji sporządza projekt planu taryfikacji Agencji i przedstawia go do zaopiniowania Prezesowi Funduszu oraz Radzie do spraw Taryfikacji, o której mowa w art. 31sa, w terminie do dnia 1 czerwca roku poprzedzającego rok, którego dotyczy ten plan. Prezes Funduszu oraz Rada do spraw Taryfikacji przedstawiają opinie w terminie 14 dni od dnia otrzymania planu. Niewydanie opinii w tym terminie jest równoznaczne z opinią pozytywną.
 3. Prezes Agencji przesyła ministrowi właściwemu do spraw zdrowia plan taryfikacji Agencji z opinią Prezesa Funduszu i Rady do spraw Taryfikacji, o której mowa w art. 31sa, do zatwierdzenia w terminie do dnia 16 czerwca roku poprzedzającego rok, którego dotyczy ten plan.
@@ -76,18 +46,17 @@ b) skutków następstw choroby lub stanu zdrowia;
 6) analizę skutków finansowych dla systemu ochrony zdrowia, w tym dla podmiotów zobowiązanych do finansowania świadczeń opieki zdrowotnej ze środków publicznych;
 6a) ocenę wpływu proponowanej taryfy świadczeń na strukturę udzielanych świadczeń opieki zdrowotnej, w szczególności pod względem zwiększenia udziału świadczeń udzielanych w trybie ambulatoryjnym, z uwzględnieniem racjonalizacji procesu leczenia i efektywności wydatkowania środków publicznych;
 7) inne dostępne dane niezbędne do ustalenia taryfy świadczeń.
-4. Prezes Agencji publikuje raport w sprawie ustalenia taryfy świadczeń w Biuletynie Informacji Publicznej Agencji.
-Do raportu w sprawie ustalenia taryfy świadczeń można zgłaszać uwagi w terminie 7 dni od dnia jego opublikowania.
-5. Osoby, które zgłaszają uwagi do opublikowanego raportu w sprawie ustalenia taryfy świadczeń, składają oświadczenie, o którym mowa w art. 31sa ust. 8a. Oświadczenie składa się wraz ze zgłoszonymi uwagami do raportu w sprawie ustalenia taryfy świadczeń.
+4. Prezes Agencji publikuje raport w sprawie ustalenia taryfy świadczeń w Biuletynie Informacji Publicznej Agencji. Do raportu w sprawie ustalenia taryfy świadczeń można zgłaszać uwagi w terminie 7 dni od dnia jego opublikowania.
+5. Osoby, które zgłaszają uwagi do opublikowanego raportu w sprawie ustalenia taryfy świadczeń, składają oświadczenie, o którym mowa w art. 31sa ust. 8a.
+Oświadczenie składa się wraz ze zgłoszonymi uwagami do raportu w sprawie ustalenia taryfy świadczeń.
 6. Uwagi zgłoszone do raportu w sprawie ustalenia taryfy świadczeń są zamieszczane w Biuletynie Informacji Publicznej Agencji wraz z wypełnionym oświadczeniem, o którym mowa w ust. 5, i są dostępne przez 6 miesięcy od dnia ich publikacji.
 7. Prezes Agencji przekazuje Radzie do spraw Taryfikacji raport w sprawie ustalenia taryfy świadczeń oraz zgłoszone uwagi, o których mowa w ust. 4 zdanie drugie, celem wydania stanowiska w sprawie ustalenia taryfy świadczeń. Przed wydaniem stanowiska w sprawie ustalenia taryfy świadczeń Rada do spraw Taryfikacji może prowadzić na posiedzeniu konsultacje w sprawie taryfy z:
 1) konsultantem krajowym w dziedzinie medycyny związanej ze świadczeniem opieki zdrowotnej podlegającym taryfikacji,
 2) przedstawicielami ogólnopolskich towarzystw naukowych w dziedzinie medycyny związanej ze świadczeniem opieki zdrowotnej podlegającym taryfikacji,
 3) przedstawicielami organizacji świadczeniodawców,
 4) przedstawicielami organizacji społecznych działających na rzecz praw pacjentów,
-5) innymi podmiotami lub osobami, których udział w konsultacjach jest istotny w ocenie Rady do spraw Taryfikacji dla ustalenia taryfy świadczeń jeżeli te osoby lub podmioty złożyły przed posiedzeniem Rady do spraw Taryfikacji oświadczenia, o których mowa w art. 31sa ust. 8a.
-7a. Przewodniczący lub wiceprzewodniczący Rady do spraw Taryfikacji analizuje złożone oświadczenia, o których mowa w ust. 7, kierując się zasadą równego traktowania osób składających oświadczenia oraz biorąc pod uwagę rodzaj zgłoszonego powiązania branżowego, jego charakter i okoliczności zgłoszonego powiązania branżowego, a także ewentualny wpływ zadeklarowanego powiązania branżowego na postępowanie prowadzone przez Radę do spraw Taryfikacji.
-Analiza jest wykonywana w oparciu o sposób i tryb określone w przepisach wydanych na podstawie ust. 7c, w celu zapewnienia obiektywności rozstrzygnięć podejmowanych przez Radę i efektywności prowadzonych przez nią postępowań oraz niedopuszczenia do udziału w konsultacjach osób lub wyłączenia z konsultacji osób, w stosunku do których ujawnił się konflikt interesów budzący uzasadnione wątpliwości co do ich bezstronności.
+5) innymi podmiotami lub osobami, których udział w konsultacjach jest istotny w ocenie Rady do spraw Taryfikacji dla ustalenia taryfy świadczeń – jeżeli te osoby lub podmioty złożyły przed posiedzeniem Rady do spraw Taryfikacji oświadczenia, o których mowa w art. 31sa ust. 8a.
+7a. Przewodniczący lub wiceprzewodniczący Rady do spraw Taryfikacji analizuje złożone oświadczenia, o których mowa w ust. 7, kierując się zasadą równego traktowania osób składających oświadczenia oraz biorąc pod uwagę rodzaj zgłoszonego powiązania branżowego, jego charakter i okoliczności zgłoszonego powiązania branżowego, a także ewentualny wpływ zadeklarowanego powiązania branżowego na postępowanie prowadzone przez Radę do spraw Taryfikacji. Analiza jest wykonywana w oparciu o sposób i tryb określone w przepisach wydanych na podstawie ust. 7c, w celu zapewnienia obiektywności rozstrzygnięć podejmowanych przez Radę i efektywności prowadzonych przez nią postępowań oraz niedopuszczenia do udziału w konsultacjach osób lub wyłączenia z konsultacji osób, w stosunku do których ujawnił się konflikt interesów budzący uzasadnione wątpliwości co do ich bezstronności.
 7b. Przewodniczący lub wiceprzewodniczący Rady do spraw Taryfikacji na podstawie dokonanej analizy, o której mowa w ust. 7a, dopuszcza do udziału w konsultacjach, odmawia dopuszczenia do udziału w konsultacjach lub wyłącza z konsultacji osoby, o których mowa w ust. 7.
 7c. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, sposób i tryb analizy składanych oświadczeń, o których mowa w ust. 7 i art. 31sa ust. 10 i 11, oraz składanych deklaracji, o których mowa w art. 31s ust. 12 i 15, uwzględniając konieczność oceny bezstronności osób biorących udział w prowadzonych postępowaniach.
 8. Składający oświadczenie, o którym mowa w ust. 7, jest obowiązany do zawarcia w nim klauzuli o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań.
@@ -99,7 +68,7 @@ Art. 31lc. 1. Minister właściwy do spraw zdrowia oraz Agencja przetwarzają da
 1) zadań ministra właściwego do spraw zdrowia określonych w art. 11;
 2) zadań Agencji określonych w art. 31n.
 2. W celu realizacji zadań Agencji określonych w art. 31n minister właściwy do spraw zdrowia oraz Agencja przetwarzają następujące dane:
-1) numer PESEL świadczeniobiorcy, a w przypadku jego braku rodzaj, serię i numer dokumentu potwierdzającego tożsamość;
+1) numer PESEL świadczeniobiorcy, a w przypadku jego braku – rodzaj, serię i numer dokumentu potwierdzającego tożsamość;
 2) adres miejsca zamieszkania świadczeniobiorcy;
 3) dotyczące udzielania oraz finansowania świadczeń opieki zdrowotnej;
 4) stanowisko pracy osoby zatrudnionej u świadczeniodawców, o których mowa w ust. 4, na podstawie umowy o pracę lub świadczącej usługi na podstawie umowy cywilnoprawnej, lub w ramach podwykonawstwa, w zakresie, w jakim dane te dotyczą osób biorących udział w realizacji świadczeń udzielanych w ramach umowy o udzielanie świadczeń opieki zdrowotnej;
@@ -111,43 +80,37 @@ Art. 31lc. 1. Minister właściwy do spraw zdrowia oraz Agencja przetwarzają da
 1) stanowisko pracy;
 2) zanonimizowane dane o wysokości poszczególnych składowych wynagrodzenia i wymiarze zatrudnienia oraz kosztów zatrudnienia ponoszonych przez świadczeniodawcę, w zakresie, w jakim dane te dotyczą osób biorących udział w realizacji świadczeń udzielanych w ramach umowy o udzielanie świadczeń opieki zdrowotnej;
 3) dane dotyczące udzielania oraz finansowania świadczeń opieki zdrowotnej.
-4c. Wytyczne dotyczące sposobu przekazywania danych, o których mowa w ust. 4a, określa Prezes Agencji i publikuje je w Biuletynie Informacji Publicznej Agencji.
+4c. Wytyczne dotyczące sposobu przekazywania danych, o których mowa w ust.
+4a, określa Prezes Agencji i publikuje je w Biuletynie Informacji Publicznej Agencji.
 4d. Dane, o których mowa w ust. 4a, są wykorzystywane przez Agencję w celu realizacji zadań określonych w art. 31n pkt 1a, 2c i 4c–4g.
 5. Agencja jest obowiązana do przekazywania danych udostępnianych przez świadczeniodawców ministrowi właściwemu do spraw zdrowia, na jego wniosek.
 6. Świadczeniodawcy, którzy zawarli umowę o udzielanie świadczeń opieki zdrowotnej, są obowiązani do stosowania standardu rachunku kosztów opracowanego na podstawie zaleceń określonych w przepisach wydanych na podstawie ust. 7.
 7. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, zalecenia dotyczące standardu rachunku kosztów u świadczeniodawców, o których mowa w ust. 6, kierując się potrzebą ujednolicenia sposobu identyfikowania, gromadzenia, przetwarzania, prezentowania i interpretowania informacji o kosztach świadczeń opieki zdrowotnej.
 8. Przepisów ust. 6 i przepisów wydanych na podstawie ust. 7 nie stosuje się do świadczeniodawców:
 1) udzielających świadczeń opieki zdrowotnej wyłącznie w zakresie podstawowej opieki zdrowotnej;
-2) którzy nie prowadzą ksiąg rachunkowych na podstawie ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U.
-z 2023 r. poz. 120, z późn. zm. );
+2) którzy nie prowadzą ksiąg rachunkowych na podstawie ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, z późn. zm. );
 3) o których mowa w art. 5 pkt 41 lit. d.
-Art. 31ld. 20) 1. Agencja jest upoważniona do przetwarzania:
-1) danych, o których mowa w art. 23 ust. 2 pkt 4 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, dotyczących podmiotów leczniczych, które sporządziły programy naprawcze, o których mowa w art. 59 ust. 4 i art. 88a ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, zwane dalej „programami naprawczymi”,
+Art. 31ld. 1. Agencja jest upoważniona do przetwarzania:
+1) danych, o których mowa w art. 23 ust. 2 pkt 4 ustawy z dnia 28 kwietnia 2011 r.
+o systemie informacji w ochronie zdrowia, dotyczących podmiotów leczniczych, które sporządziły programy naprawcze, o których mowa w art. 59 ust. 4 i art. 88a ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, zwane dalej „programami naprawczymi”,
 2) danych zawartych w programach naprawczych oraz zmianach i kwartalnych aktualizacjach tych programów,
 3) danych zawartych w sprawozdaniach rocznych i końcowych z realizacji programów naprawczych,
 4) danych zawartych w analizach, o których mowa w art. 59 ust. 5 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej,
 5) danych zawartych w stanowiskach, o których mowa w art. 59a ust. 1 pkt 1 i 2 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej,
-6) danych zawartych w rocznych sprawozdaniach finansowych, o których mowa w art. 53 ust. 1 ustawy z dnia 29 września 1994 r. o rachunkowości, w sprawozdaniach z badania sprawozdań finansowych, o których mowa w art. 69 ust. 1 pkt 2 tej ustawy, jeżeli podlegały one badaniu, w odpisach uchwał lub postanowień organu zatwierdzającego o zatwierdzeniu rocznego sprawozdania finansowego i podziale zysku lub pokryciu straty, o których mowa w art. 69 ust. 1 pkt 3 tej ustawy,
+6) danych zawartych w rocznych sprawozdaniach finansowych, o których mowa w art. 53 ust. 1 ustawy z dnia 29 września 1994 r. o rachunkowości, w sprawozdaniach z badania sprawozdań finansowych, o których mowa w art. 69 ust. 1 pkt 2 tej ustawy, jeżeli podlegały one badaniu, w odpisach uchwał lub postanowień organu zatwierdzającego o zatwierdzeniu rocznego sprawozdania finansowego i podziale zysku lub pokryciu straty, o których mowa w art. 69 ust.
+1 pkt 3 tej ustawy,
 7) innych danych dotyczących funkcjonowania podmiotów leczniczych, ich sytuacji operacyjnej i ekonomiczno-finansowej, w tym informacji dotyczących wdrożenia standardu rachunku kosztów zgodnie z przepisami wydanymi na podstawie art. 31lc ust. 7, z wyjątkiem danych dotyczących świadczeniodawców, o których mowa w art. 31lc ust. 8,
 8) danych dotyczących bezpośrednich i pośrednich kosztów udzielania świadczeń opieki zdrowotnej, z wyjątkiem danych dotyczących świadczeniodawców, o których mowa w art. 31lc ust. 8,
-9) danych o zasobach kadrowych, sprzętowych, diagnostycznych i lokalowych podmiotów leczniczych w celu realizacji zadania określonego w art. 31n pkt 4g i dokonywania analiz na rzecz systemu ochrony zdrowia.
+9) danych o zasobach kadrowych, sprzętowych, diagnostycznych i lokalowych podmiotów leczniczych – w celu realizacji zadania określonego w art. 31n pkt 4g i dokonywania analiz na rzecz systemu ochrony zdrowia.
 2. Jednostka podległa ministrowi właściwemu do spraw zdrowia właściwa w zakresie systemów informacyjnych ochrony zdrowia zapewnia Agencji dostęp, w sposób ciągły, do danych, o których mowa w art. 23 ust. 2 pkt 4 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, dotyczących podmiotów leczniczych, które sporządziły programy naprawcze.
 3. Kierownik podmiotu leczniczego, którego program naprawczy podlega analizie, o której mowa w art. 59c ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, przekazuje nieodpłatnie dane, o których mowa w ust. 1 pkt 3–8, w formie i terminie uzgodnionych z Prezesem Agencji. Uzgadniając formę i termin przekazania danych podmiot leczniczy i Agencja uwzględniają ich zakres. Termin ten nie może być krótszy niż 7 dni.
 4. Prezes Funduszu udostępnia Agencji dane, o których mowa w ust. 1 pkt 9, w terminie określonym przez Prezesa Agencji, jednak nie krótszym niż 7 dni.
-5. Podmioty lecznicze, których programy naprawcze podlegają analizie, o której mowa w art. 59c ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, oraz ich podmioty tworzące współdziałają z Agencją przy realizacji zadania określonego w art. 31n pkt 4g przez nieodpłatne udostępnianie Agencji informacji źródłowych i założeń metodologicznych przyjętych do przygotowania programów naprawczych i analiz, o których mowa w art. 59 ust. 5 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, oraz innych materiałów, na podstawie których zostały zaplanowane działania naprawcze, w formie i terminie uzgodnionych z Prezesem Agencji. Uzgadniając formę i termin przekazania informacji, założeń i materiałów, podmiot leczniczy i Agencja uwzględniają ich zakres. Termin ten nie może być krótszy niż 7 dni.
+5. Podmioty lecznicze, których programy naprawcze podlegają analizie, o której mowa w art. 59c ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, oraz ich podmioty tworzące współdziałają z Agencją przy realizacji zadania określonego w art.
+31n pkt 4g przez nieodpłatne udostępnianie Agencji informacji źródłowych i założeń metodologicznych przyjętych do przygotowania programów naprawczych i analiz, o których mowa w art. 59 ust. 5 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, oraz innych materiałów, na podstawie których zostały zaplanowane działania naprawcze, w formie i terminie uzgodnionych z Prezesem Agencji.
+Uzgadniając formę i termin przekazania informacji, założeń i materiałów, podmiot leczniczy i Agencja uwzględniają ich zakres. Termin ten nie może być krótszy niż 7 dni.
 Art. 161ba. 1. Transport sanitarny wykonywany jest specjalistycznymi środkami transportu lądowego, wodnego i lotniczego.
 2. Środki transportu sanitarnego, o których mowa w ust. 1, muszą spełniać cechy techniczne i jakościowe określone w Polskich Normach przenoszących europejskie normy zharmonizowane.
 Art. 196–228. (pominięte)
-
-**Art. 3.** Do rozliczenia składek na ubezpieczenie zdrowotne osób, o których mowa w art. 81 ust. 2e ustawy zmienianej w art. 1, należnych za okres do dnia 31 grudnia 2024 r. stosuje się przepisy ustawy zmienianej w art. 1 w brzmieniu dotychczasowym.
-
-**Art. 4.** W przypadku składek na ubezpieczenie zdrowotne należnych odpowiednio za rok 2025 albo za rok składkowy obejmujący okres od dnia 1 lutego 2025 r. do dnia 31 stycznia 2026 r.:
-
-**Art. 4.** Do postępowań w sprawie określenia taryfy świadczeń w danym zakresie lub rodzaju wszczętych i niezakończonych do dnia wejścia w życie niniejszej ustawy stosuje się przepisy ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
-
-**Art. 5.** Świadczeniodawca, o którym mowa w art. 132b ust. 1b ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, może zaprzestać udzielania świadczeń nocnej i świątecznej opieki zdrowotnej świadczeniobiorcom, którzy ukończyli 18. rok życia, po upływie 6 miesięcy od dnia przekazania przez niego dyrektorowi właściwego oddziału wojewódzkiego Narodowego Funduszu Zdrowia wniosku o wprowadzenie zmiany w umowie o udzielanie świadczeń opieki zdrowotnej, pod warunkiem wprowadzenia do tej umowy zastrzeżenia, o którym mowa w art. 132b ust. 1b ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
-
-**Art. 6.** Do postępowań w sprawie zawarcia umowy o udzielanie świadczeń opieki zdrowotnej wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy art. 142, art. 149, art. 151, art. 153 i art. 154 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym.” „Art. 9. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Marszałek Sejmu: S. Hołownia USTAWA z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych
 
 ### DZIAŁ I Przepisy ogólne
 
@@ -159,17 +122,17 @@ Art. 196–228. (pominięte)
 
 1. Do korzystania ze świadczeń opieki zdrowotnej finansowanych ze środków publicznych na zasadach określonych w ustawie mają prawo:
 
-- **1)** osoby objęte powszechnym obowiązkowym i dobrowolnym ubezpieczeniem zdrowotnym, zwane dalej „ubezpieczonymi”,
+- **1)** osoby objęte powszechnym – obowiązkowym i dobrowolnym ubezpieczeniem zdrowotnym, zwane dalej „ubezpieczonymi”,
 - **2)** inne niż ubezpieczeni osoby posiadające miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej, które posiadają obywatelstwo polskie lub uzyskały w Rzeczypospolitej Polskiej status uchodźcy lub ochronę uzupełniającą, lub zezwolenie na pobyt czasowy udzielone w związku z okolicznością, o której mowa w art. 159 ust. 1 pkt 1 lit. c lub d ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2025 r. poz. 1079), spełniające kryterium dochodowe, o którym mowa w art. 8 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2025 r. poz. 1214), co do których nie stwierdzono okoliczności, o której mowa w art. 12 tej ustawy, na zasadach i w zakresie określonych dla ubezpieczonych,
-- **3)** inne niż wymienione w pkt 1 i 2 osoby, które nie ukończyły 18. roku życia: poz. 658), jeżeli mają miejsce zamieszkania na terytorium państwa członkowskiego UE lub EFTA lub Zjednoczonego Królestwa,
+- **3)** inne niż wymienione w pkt 1 i 2 osoby, które nie ukończyły 18. roku życia:
     - **a)** posiadające obywatelstwo polskie lub
     - **b)** które uzyskały w Rzeczypospolitej Polskiej status uchodźcy lub ochronę uzupełniającą lub zezwolenie na pobyt czasowy udzielone w związku z okolicznością, o której mowa w art. 159 ust. 1 pkt 1 lit. c lub d ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, posiadające miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej, lub
     - **c)** pobierające rentę rodzinną, jeżeli mają miejsce zamieszkania na terytorium państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA), zwanego dalej „państwem członkowskim UE lub EFTA”, lub Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej, zwanego dalej „Zjednoczonym Królestwem”, lub
-    - **d)** pobierające świadczenie pieniężne, o którym mowa w ustawie z dnia 8 lutego 2023 r. o świadczeniu pieniężnym przysługującym członkom rodziny funkcjonariuszy lub żołnierzy zawodowych, których śmierć nastąpiła w związku ze służbą albo podjęciem poza służbą czynności ratowania życia lub zdrowia ludzkiego albo mienia (Dz. U.
+    - **d)** pobierające świadczenie pieniężne, o którym mowa w ustawie z dnia 8 lutego 2023 r. o świadczeniu pieniężnym przysługującym członkom rodziny funkcjonariuszy lub żołnierzy zawodowych, których śmierć nastąpiła w związku ze służbą albo podjęciem poza służbą czynności ratowania życia lub zdrowia ludzkiego albo mienia (Dz. U. poz. 658), jeżeli mają miejsce zamieszkania na terytorium państwa członkowskiego UE lub EFTA lub Zjednoczonego Królestwa,
 
 - **4)** inne niż wymienione w pkt 1–3 osoby posiadające miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej, które są w okresie ciąży, porodu lub połogu:
     - **a)** posiadające obywatelstwo polskie lub
-    - **b)** które uzyskały w Rzeczypospolitej Polskiej status uchodźcy lub ochronę uzupełniającą, lub zezwolenie na pobyt czasowy udzielone w związku z okolicznością, o której mowa w art. 159 ust. 1 pkt 1 lit. c lub d ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach zwane dalej „świadczeniobiorcami”.
+    - **b)** które uzyskały w Rzeczypospolitej Polskiej status uchodźcy lub ochronę uzupełniającą, lub zezwolenie na pobyt czasowy udzielone w związku z okolicznością, o której mowa w art. 159 ust. 1 pkt 1 lit. c lub d ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach – zwane dalej „świadczeniobiorcami”.
 
 2. Osobom nieposiadającym obywatelstwa polskiego, innym niż świadczeniobiorcy, świadczenia zdrowotne udzielane są na zasadach określonych w przepisach odrębnych i umowach międzynarodowych.
 
@@ -179,9 +142,9 @@ Art. 196–228. (pominięte)
 
 - **1)** osoby posiadające obywatelstwo państwa członkowskiego UE lub EFTA lub Zjednoczonego Królestwa, zamieszkujące na terytorium państwa członkowskiego UE lub EFTA lub Zjednoczonego Królestwa,
 - **2)** osoby nieposiadające obywatelstwa państwa członkowskiego UE lub EFTA, lub Zjednoczonego Królestwa, które przebywają na terytorium Rzeczypospolitej Polskiej na podstawie wizy w celu wykonywania pracy, zezwolenia na pobyt czasowy z wyłączeniem zezwolenia udzielonego na podstawie art. 181 ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, zezwolenia na pobyt stały, zezwolenia na pobyt rezydenta długoterminowego Unii Europejskiej, zgody na pobyt ze względów humanitarnych, zgody na pobyt tolerowany, wizy wydanej w celu przyjazdu ze względów humanitarnych, z uwagi na interes państwa lub zobowiązania międzynarodowe, 2a) osoby, które uzyskały w Rzeczypospolitej Polskiej status uchodźcy lub ochronę uzupełniającą albo korzystają z ochrony czasowej na jej terytorium, 2b) osoby ubiegające się w Rzeczypospolitej Polskiej o udzielenie ochrony międzynarodowej i małżonkowie, w imieniu których występują z wnioskiem o udzielenie ochrony międzynarodowej, którzy posiadają zaświadczenie wydane na podstawie art. 35 ustawy z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2025 r. poz. 223, 389, 619 i 621),
-- **3)** osoby nieposiadające obywatelstwa państwa członkowskiego UE lub EFTA, lub Zjednoczonego Królestwa, legalnie zamieszkujące na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego UE lub EFTA, lub Zjednoczonego Królestwa, 3a) studenci i doktoranci, którzy odbywają kształcenie w Rzeczypospolitej Polskiej, absolwenci, którzy odbywają w Rzeczypospolitej Polskiej obowiązkowy staż, oraz odbywający kursy języka polskiego lub kursy przygotowawcze do podjęcia nauki w języku polskim, o których mowa w przepisach odrębnych, nieposiadający obywatelstwa państwa członkowskiego UE lub EFTA i niebędący osobami, o których mowa w ust. 1 pkt 3, jeżeli zostali uznani za osoby pochodzenia polskiego w rozumieniu przepisów o repatriacji lub posiadają ważną Kartę Polaka jeżeli podlegają zgodnie z art. 66 obowiązkowi ubezpieczenia zdrowotnego albo ubezpieczają się dobrowolnie na zasadach określonych w art. 68;
-- **4)** osoby posiadające obywatelstwo państwa członkowskiego UE lub EFTA, lub Zjednoczonego Królestwa, niezamieszkujące na terytorium państwa członkowskiego UE lub EFTA, lub Zjednoczonego Królestwa, jeżeli podlegają obowiązkowi ubezpieczenia zdrowotnego na terytorium Rzeczypospolitej Polskiej i są objęte:
-    - **a)** ubezpieczeniami emerytalnym i rentowymi na podstawie przepisów ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2025 r. poz. 350, z późn. zm. ),
+- **3)** osoby nieposiadające obywatelstwa państwa członkowskiego UE lub EFTA, lub Zjednoczonego Królestwa, legalnie zamieszkujące na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego UE lub EFTA, lub Zjednoczonego Królestwa, 3a) studenci i doktoranci, którzy odbywają kształcenie w Rzeczypospolitej Polskiej, absolwenci, którzy odbywają w Rzeczypospolitej Polskiej obowiązkowy staż, oraz odbywający kursy języka polskiego lub kursy przygotowawcze do podjęcia nauki w języku polskim, o których mowa w przepisach odrębnych, nieposiadający obywatelstwa państwa członkowskiego UE lub EFTA i niebędący osobami, o których mowa w ust. 1 pkt 3, jeżeli zostali uznani za osoby pochodzenia polskiego w rozumieniu przepisów o repatriacji lub posiadają ważną Kartę Polaka – jeżeli podlegają zgodnie z art. 66 obowiązkowi ubezpieczenia zdrowotnego albo ubezpieczają się dobrowolnie na zasadach określonych w art. 68;
+- **4)** osoby posiadające obywatelstwo państwa członkowskiego UE lub EFTA, lub Zjednoczonego Królestwa, niezamieszkujące na terytorium państwa członkowskiego UE lub EFTA, lub Zjednoczonego Królestwa, jeżeli podlegają obowiązkowi ubezpieczenia zdrowotnego na terytorium Rzeczypospolitej Polskiej i są objęte: z 2025 r. poz. 350, z późn. zm. ),
+    - **a)** ubezpieczeniami emerytalnym i rentowymi na podstawie przepisów ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U.
     - **b)** ubezpieczeniem społecznym rolników na podstawie przepisów ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2025 r. poz. 197, 620, 621 i 1160).
 
 1a. Ubezpieczonymi są także inne niż wymienione w ust. 1 pkt 2–3 osoby nieposiadające obywatelstwa państwa członkowskiego UE lub EFTA, lub Zjednoczonego Królestwa, jeżeli podlegają obowiązkowi ubezpieczenia zdrowotnego zgodnie z art. 66 ust. 1 pkt 1.
@@ -191,7 +154,7 @@ Art. 196–228. (pominięte)
 - **1)** studenci i doktoranci, którzy odbywają kształcenie w Rzeczypospolitej Polskiej, oraz absolwenci, którzy odbywają w Rzeczypospolitej Polskiej obowiązkowy staż, nieposiadający obywatelstwa państwa członkowskiego UE lub EFTA, lub Zjednoczonego Królestwa i niebędący osobami, o których mowa w ust. 1 pkt 3 i 3a,
 - **2)** członkowie zakonów oraz alumni wyższych seminariów duchownych i teologicznych, postulanci, nowicjusze i junioryści zakonów i ich odpowiednicy, którzy nie posiadają obywatelstwa państwa członkowskiego UE lub EFTA, lub Zjednoczonego Królestwa i nie są osobami, o których mowa w ust. 1 pkt 3, a przebywają na terytorium Rzeczypospolitej Polskiej na podstawie wizy, zezwolenia na pobyt czasowy, zezwolenia na pobyt stały, zezwolenia na pobyt rezydenta długoterminowego Unii Europejskiej, zgody na pobyt ze względów humanitarnych, zgody na pobyt tolerowany lub uzyskali w Rzeczypospolitej Polskiej status uchodźcy lub ochronę uzupełniającą albo korzystają z ochrony czasowej na jej terytorium, 2a) (uchylony)
 - **3)** odbywający staż adaptacyjny,
-- **4)** odbywający kursy języka polskiego oraz kursy przygotowawcze do podjęcia nauki w języku polskim, o których mowa w przepisach odrębnych, nieposiadający obywatelstwa państwa członkowskiego UE lub EFTA, lub Zjednoczonego Królestwa i niebędący osobami, o których mowa w ust. 1 pkt 3 i 3a jeżeli ubezpieczają się dobrowolnie na zasadach określonych w art. 68;
+- **4)** odbywający kursy języka polskiego oraz kursy przygotowawcze do podjęcia nauki w języku polskim, o których mowa w przepisach odrębnych, nieposiadający obywatelstwa państwa członkowskiego UE lub EFTA, lub Zjednoczonego Królestwa i niebędący osobami, o których mowa w ust. 1 pkt 3 i 3a – jeżeli ubezpieczają się dobrowolnie na zasadach określonych w art. 68;
 - **5)** członkowie rodzin osób, o których mowa w ust. 1 pkt 1 i 3, zamieszkujący na terytorium państwa członkowskiego UE lub EFTA, lub Zjednoczonego Królestwa, jeżeli nie są osobami podlegającymi obowiązkowi ubezpieczenia zdrowotnego, o których mowa w art. 66 ust. 1, z zastrzeżeniem art. 66 ust. 2 i 3, ani nie są osobami uprawnionymi do świadczeń opieki zdrowotnej na podstawie przepisów o koordynacji;
 - **6)** członkowie rodzin osób, o których mowa w ust. 1 pkt 2 i 2a oraz ust. 1a, zamieszkujący na terytorium Rzeczypospolitej Polskiej, jeżeli nie są osobami podlegającymi obowiązkowi ubezpieczenia zdrowotnego, o których mowa w art. 66 ust. 1, z zastrzeżeniem art. 66 ust. 2 i 3.
 
@@ -233,9 +196,9 @@ Art. 196–228. (pominięte)
 3. W przypadku gdy jednostka lub jednostki samorządu terytorialnego są w rozumieniu przepisów o działalności leczniczej:
 
 - **1)** podmiotami tworzącymi dla podmiotu leczniczego,
-- **2)** jedynymi albo większościowymi wspólnikami, albo akcjonariuszami w spółce kapitałowej będącej podmiotem leczniczym który udziela świadczeń gwarantowanych w zakresie odpowiadającym przedmiotowi umowy, o której mowa w ust. 1, umowę tę zawiera się w pierwszej kolejności z tym podmiotem.
+- **2)** jedynymi albo większościowymi wspólnikami, albo akcjonariuszami w spółce kapitałowej będącej podmiotem leczniczym – który udziela świadczeń gwarantowanych w zakresie odpowiadającym przedmiotowi umowy, o której mowa w ust. 1, umowę tę zawiera się w pierwszej kolejności z tym podmiotem.
 
-4. W przypadku, o którym mowa w ust. 3, nie przeprowadza się konkursu ofert, o którym mowa w ust. 1. Do zawarcia tej umowy nie stosuje się przepisów ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320, z późn. zm. ).
+4. W przypadku, o którym mowa w ust. 3, nie przeprowadza się konkursu ofert, o którym mowa w ust. 1. Do zawarcia tej umowy nie stosuje się przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320, z późn. zm. ).
 
 5. Umowa, o której mowa w ust. 1, określa w szczególności:
 
@@ -311,8 +274,8 @@ Art. 196–228. (pominięte)
 
 2. Zakres dodatkowych potrzeb zdrowotnych ustala się z uwzględnieniem:
 
-- **1)** opinii konsultanta z danej dziedziny medycyny, o którym mowa w art. 5 ustawy z dnia 6 listopada 2008 r. o konsultantach w ochronie zdrowia (Dz. U. z 2025 r. poz. 254) w odniesieniu do Ministra Obrony Narodowej;
-- **2)** opinii konsultanta z danej dziedziny medycyny, o którym mowa w art. 4 ust. 1 ustawy z dnia 6 listopada 2008 r. o konsultantach w ochronie zdrowia w odniesieniu do ministra właściwego do spraw wewnętrznych, Szefa Agencji Bezpieczeństwa Wewnętrznego albo Szefa Agencji Wywiadu.
+- **1)** opinii konsultanta z danej dziedziny medycyny, o którym mowa w art. 5 ustawy z dnia 6 listopada 2008 r. o konsultantach w ochronie zdrowia (Dz. U. z 2025 r. poz. 254) – w odniesieniu do Ministra Obrony Narodowej;
+- **2)** opinii konsultanta z danej dziedziny medycyny, o którym mowa w art. 4 ust. 1 ustawy z dnia 6 listopada 2008 r. o konsultantach w ochronie zdrowia – w odniesieniu do ministra właściwego do spraw wewnętrznych, Szefa Agencji Bezpieczeństwa Wewnętrznego albo Szefa Agencji Wywiadu.
 
 3. W przypadku gdy konsultant, o którym mowa w ust. 2, nie został powołany, zasięga się opinii właściwego konsultanta krajowego z danej lub pokrewnej dziedziny medycyny, farmacji oraz innych dziedzin mających zastosowanie w ochronie zdrowia.
 
@@ -360,7 +323,7 @@ Art. 196–228. (pominięte)
 
 **Art. 12.** Przepisy ustawy nie naruszają przepisów o świadczeniach opieki zdrowotnej udzielanych bezpłatnie bez względu na uprawnienia z tytułu ubezpieczenia zdrowotnego na podstawie:
 
-**Art. 12a.** Przepisów ustawy, z wyłączeniem art. 48 ust. 1b, przepisów określających zasady i tryb finansowania z budżetu państwa świadczeń opieki zdrowotnej, przepisów określających kolejność udzielania świadczeń opieki zdrowotnej w szpitalach, świadczeń specjalistycznych w ambulatoryjnej opiece zdrowotnej oraz stacjonarnych i całodobowych świadczeń zdrowotnych innych niż szpitalne oraz przepisów określających prawo do świadczeń opieki zdrowotnej na podstawie przepisów o koordynacji, nie stosuje się wobec osób, którym świadczenia zdrowotne są udzielane bezpłatnie, bez względu na uprawnienia z tytułu ubezpieczenia zdrowotnego, na podstawie art. 102 pkt 1 i art. 115 § 1 ustawy z dnia 6 czerwca 1997 r. Kodeks karny wykonawczy (Dz. U. z 2025 r. poz. 911).
+**Art. 12a.** Przepisów ustawy, z wyłączeniem art. 48 ust. 1b, przepisów określających zasady i tryb finansowania z budżetu państwa świadczeń opieki zdrowotnej, przepisów określających kolejność udzielania świadczeń opieki zdrowotnej w szpitalach, świadczeń specjalistycznych w ambulatoryjnej opiece zdrowotnej oraz stacjonarnych i całodobowych świadczeń zdrowotnych innych niż szpitalne oraz przepisów określających prawo do świadczeń opieki zdrowotnej na podstawie przepisów o koordynacji, nie stosuje się wobec osób, którym świadczenia zdrowotne są udzielane bezpłatnie, bez względu na uprawnienia z tytułu ubezpieczenia zdrowotnego, na podstawie art. 102 pkt 1 i art. 115 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. z 2025 r. poz. 911).
 
 **Art. 13.** Świadczenia opieki zdrowotnej udzielane świadczeniobiorcom innym niż ubezpieczeni są finansowane z budżetu państwa, chyba że przepisy odrębne stanowią inaczej.
 
@@ -395,12 +358,12 @@ Art. 196–228. (pominięte)
 - **14)** leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych dostępnych w aptece na receptę;
 - **15)** programów lekowych określonych w przepisach ustawy o refundacji;
 - **16)** leków stosowanych w chemioterapii określonych w przepisach ustawy o refundacji;
-- **17)** leków nieposiadających pozwolenia na dopuszczenie do obrotu na terytorium Rzeczypospolitej Polskiej, sprowadzanych z zagranicy na warunkach i w trybie określonym w art. 4 ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne, pod warunkiem że w stosunku do tych leków wydano decyzję o objęciu refundacją na podstawie ustawy o refundacji;
+- **17)** leków nieposiadających pozwolenia na dopuszczenie do obrotu na terytorium Rzeczypospolitej Polskiej, sprowadzanych z zagranicy na warunkach i w trybie określonym w art. 4 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne, pod warunkiem że w stosunku do tych leków wydano decyzję o objęciu refundacją na podstawie ustawy o refundacji;
 - **17a)** ratunkowego dostępu do technologii lekowych;
 - **18)** środków spożywczych specjalnego przeznaczenia żywieniowego, sprowadzonych z zagranicy na warunkach i w trybie określonym w art. 29a ustawy z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia (Dz. U. z 2023 r. poz. 1448), pod warunkiem, że w stosunku do tych środków wydano decyzję o objęciu refundacją na podstawie ustawy o refundacji;
-- **19)** stwierdzenia w związku z wydaniem zaświadczenia, o którym mowa w art. 133 § 2b ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego (Dz. U. z 2025 r. poz. 46, 304 i 1178), że stan zdrowia osoby, która udzieliła pełnomocnictwa pocztowego do odbioru przesyłek pocztowych w placówce pocztowej w rozumieniu ustawy z dnia 23 listopada 2012 r. Prawo pocztowe (Dz. U. z 2025 r. poz. 366 i 820), uniemożliwia lub w znacznym stopniu utrudnia osobiste odebranie pisma w placówce pocztowej.
+- **19)** stwierdzenia w związku z wydaniem zaświadczenia, o którym mowa w art. 133 § 2b ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2025 r. poz. 46, 304 i 1178), że stan zdrowia osoby, która udzieliła pełnomocnictwa pocztowego do odbioru przesyłek pocztowych w placówce pocztowej w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2025 r. poz. 366 i 820), uniemożliwia lub w znacznym stopniu utrudnia osobiste odebranie pisma w placówce pocztowej.
 
-2a. Świadczeniobiorcy przysługują również świadczenia gwarantowane udzielane za pośrednictwem systemu teleinformatycznego udostępnionego przez jednostkę podległą ministrowi właściwemu do spraw zdrowia właściwą w zakresie systemów informacyjnych ochrony zdrowia lub Fundusz. Do zawarcia umowy o udzielanie tych świadczeń stosuje się przepisy ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych. Umowa obejmuje udzielanie świadczeń na całym terytorium Rzeczypospolitej Polskiej.
+2a. Świadczeniobiorcy przysługują również świadczenia gwarantowane udzielane za pośrednictwem systemu teleinformatycznego udostępnionego przez jednostkę podległą ministrowi właściwemu do spraw zdrowia właściwą w zakresie systemów informacyjnych ochrony zdrowia lub Fundusz. Do zawarcia umowy o udzielanie tych świadczeń stosuje się przepisy ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych. Umowa obejmuje udzielanie świadczeń na całym terytorium Rzeczypospolitej Polskiej.
 
 3. (uchylony)
 
@@ -428,7 +391,7 @@ Art. 196–228. (pominięte)
 
 1. Świadczeniobiorca przebywający w zakładzie opiekuńczo-leczniczym, pielęgnacyjno-opiekuńczym lub w zakładzie rehabilitacji leczniczej, który udziela świadczeń całodobowych, ponosi koszty wyżywienia i zakwaterowania. Miesięczną opłatę ustala się w wysokości odpowiadającej 250 % najniższej emerytury, z tym że opłata nie może być wyższa niż kwota odpowiadająca 70 % miesięcznego dochodu świadczeniobiorcy w rozumieniu przepisów o pomocy społecznej.
 
-2. Miesięczną opłatę za wyżywienie i zakwaterowanie dziecka do ukończenia 18. roku życia, a jeżeli kształci się dalej do ukończenia 26. roku życia, przebywającego w zakładzie opiekuńczo-leczniczym, pielęgnacyjno-opiekuńczym lub w zakładzie rehabilitacji leczniczej, który udziela świadczeń całodobowych, ustala się w wysokości odpowiadającej 200 % najniższej emerytury, z tym że opłata nie może być wyższa niż kwota odpowiadająca 70 % miesięcznego dochodu na osobę w rodzinie w rozumieniu przepisów o pomocy społecznej. W przypadku dziecka pozbawionego opieki i wychowania rodziców umieszczonego w zakładzie opiekuńczo-leczniczym, w zakładzie pielęgnacyjno-opiekuńczym lub w zakładzie rehabilitacji leczniczej przez sąd opłata ta wynosi nie mniej niż 200 % najniższej emerytury.
+2. Miesięczną opłatę za wyżywienie i zakwaterowanie dziecka do ukończenia 18. roku życia, a jeżeli kształci się dalej – do ukończenia 26. roku życia, przebywającego w zakładzie opiekuńczo-leczniczym, pielęgnacyjno-opiekuńczym lub w zakładzie rehabilitacji leczniczej, który udziela świadczeń całodobowych, ustala się w wysokości odpowiadającej 200 % najniższej emerytury, z tym że opłata nie może być wyższa niż kwota odpowiadająca 70 % miesięcznego dochodu na osobę w rodzinie w rozumieniu przepisów o pomocy społecznej. W przypadku dziecka pozbawionego opieki i wychowania rodziców umieszczonego w zakładzie opiekuńczo-leczniczym, w zakładzie pielęgnacyjno-opiekuńczym lub w zakładzie rehabilitacji leczniczej przez sąd opłata ta wynosi nie mniej niż 200 % najniższej emerytury.
 
 3. Opłatę, o której mowa w ust. 2 zdanie drugie, w przypadku dziecka pozbawionego opieki i wychowania rodziców umieszczonego w zakładzie opiekuńczo-leczniczym, w zakładzie pielęgnacyjno-opiekuńczym lub w zakładzie rehabilitacji leczniczej przez sąd, ponosi powiat właściwy ze względu na miejsce urodzenia dziecka. Jeżeli nie można ustalić powiatu właściwego ze względu na miejsce urodzenia dziecka, właściwy do ponoszenia opłaty jest powiat miejsca siedziby sądu, który orzekł o umieszczeniu dziecka w zakładzie opiekuńczo-leczniczym, w zakładzie pielęgnacyjno-opiekuńczym lub w zakładzie rehabilitacji leczniczej.
 
@@ -485,12 +448,12 @@ Art. 196–228. (pominięte)
 
 2. Świadczeniodawca umieszcza w harmonogramie przyjęć świadczeniobiorcę, wyznaczając termin udzielenia świadczenia w następujący sposób:
 
-- **1)** świadczeniobiorcy zgłaszającemu się po raz pierwszy:
-    - **a)** w przypadku przyjęcia w dniu zgłoszenia termin udzielenia świadczenia w dniu zgłoszenia,
-    - **b)** posiadającemu prawo do korzystania poza kolejnością ze świadczeń opieki zdrowotnej termin udzielenia świadczenia ustalony w sposób, o którym mowa w art. 47c ust. 4,
-    - **c)** innemu niż wymieniony w lit. a i b termin udzielenia świadczenia wynikający z prowadzonej listy oczekujących na udzielenie świadczenia, zgodnie z art. 20;
+- **1)** świadczeniobiorcy zgłaszającemu się po raz pierwszy w celu uzyskania danego świadczenia opieki zdrowotnej:
+    - **a)** w przypadku przyjęcia w dniu zgłoszenia – termin udzielenia świadczenia w dniu zgłoszenia,
+    - **b)** posiadającemu prawo do korzystania poza kolejnością ze świadczeń opieki zdrowotnej – termin udzielenia świadczenia ustalony w sposób, o którym mowa w art. 47c ust. 4 albo 4a,
+    - **c)** innemu niż wymieniony w lit. a i b – termin udzielenia świadczenia wynikający z listy oczekujących na udzielenie świadczenia, o której mowa w art. 20 ust. 1a albo ust. 12 pkt 1, albo ust. 12 pkt 2, albo termin udzielenia świadczenia wyznaczony w ramach centralnej elektronicznej rejestracji, o której mowa w art. 23c ust. 1;
 
-- **2)** świadczeniobiorcy kontynuującemu leczenie termin udzielenia świadczenia wynikający z planu leczenia.
+- **2)** świadczeniobiorcy kontynuującemu leczenie – termin udzielenia świadczenia wynikający z planu leczenia.
 
 3. W przypadku świadczeniobiorcy, któremu udzielono świadczenia opieki zdrowotnej w stanie nagłym, wpis w harmonogramie przyjęć może zostać dokonany także niezwłocznie po udzieleniu tego świadczenia.
 
@@ -499,19 +462,21 @@ Art. 196–228. (pominięte)
 - **1)** dane, o których mowa w art. 20 ust. 2 pkt 3 lit. b–h oraz j;
 - **2)** dane dotyczące terminu udzielenia świadczenia:
     - **a)** termin wyznaczony w dniu wpisu w harmonogramie przyjęć,
-    - **b)** informację o rezerwacji terminu w przypadku gdy świadczeniobiorca wybrał termin późniejszy niż wskazany przez świadczeniodawcę oraz w przypadku, o którym mowa w art. 20 ust. 9b,
+    - **b)** informację o rezerwacji terminu – w przypadku gdy świadczeniobiorca wybrał termin późniejszy niż wskazany przez świadczeniodawcę oraz w przypadku, o którym mowa w art. 20 ust. 9b,
     - **c)** zmianę terminu wraz z podaniem przyczyny tej zmiany, a w przypadku gdy przyczyną zmiany terminu jest zmiana kategorii świadczeniobiorcy, o której mowa w pkt 3, także uzasadnienie tej zmiany;
 
 - **3)** kategorię świadczeniobiorcy:
-    - **a)** przyjęty na bieżąco w przypadku świadczeniobiorcy, któremu udzielono świadczenia w dniu zgłoszenia, z wyłączeniem świadczeniobiorcy, o którym mowa w lit. d i f,
-    - **b)** oczekujący w przypadku świadczeniobiorcy wpisywanego na listę oczekujących,
-    - **c)** oczekujący objęty diagnostyką onkologiczną lub leczeniem onkologicznym na podstawie karty diagnostyki i leczenia onkologicznego w przypadku świadczeniobiorcy wpisywanego na listę oczekujących, o której mowa w art. 20 ust. 12 pkt 1,
-    - **d)** posiadający prawo do korzystania poza kolejnością ze świadczeń opieki zdrowotnej ze wskazaniem podstawy tego prawa,
+    - **a)** przyjęty na bieżąco – w przypadku świadczeniobiorcy, któremu udzielono świadczenia w dniu zgłoszenia, z wyłączeniem świadczeniobiorcy, o którym mowa w lit. d i f,
+    - **b)** oczekujący – w przypadku świadczeniobiorcy wpisywanego na listę oczekujących na udzielenie świadczenia albo któremu wyznaczono termin udzielenia świadczenia w ramach centralnej elektronicznej rejestracji, o której mowa w art. 23c ust. 1, albo którego umieszczono w centralnym wykazie oczekujących na wyznaczenie terminu udzielenia świadczenia opieki zdrowotnej prowadzonym dla świadczeń opieki zdrowotnej, o których mowa w przepisach wydanych na podstawie art. 23h ust. 2 pkt 1, zwanym dalej „centralnym wykazem oczekujących”,
+    - **c)** oczekujący objęty diagnostyką onkologiczną lub leczeniem onkologicznym na podstawie karty diagnostyki i leczenia onkologicznego – w przypadku świadczeniobiorcy wpisywanego na listę oczekujących na udzielenie świadczenia, o której mowa w art. 20 ust. 12 pkt 1, albo któremu wyznaczono termin udzielenia świadczenia w ramach centralnej elektronicznej rejestracji, o której mowa w art. 23c ust. 1, albo którego umieszczono w centralnym wykazie oczekujących,>
+    - **d)** posiadający prawo do korzystania poza kolejnością ze świadczeń opieki zdrowotnej – ze wskazaniem podstawy tego prawa,
     - **e)** kontynuujący leczenie,
     - **f)** przyjęty w stanie nagłym,
-    - **g)** oczekujący objęty opieką kardiologiczną na podstawie elektronicznej Karty Opieki Kardiologicznej, o której mowa w art. 39 ust. 1 ustawy z dnia 4 czerwca 2025 r. o Krajowej Sieci Kardiologicznej (Dz. U. poz. 779) w przypadku świadczeniobiorcy wpisywanego na listę oczekujących, o której mowa w art. 20 ust. 12 pkt 2;
+    - **g)** oczekujący objęty opieką kardiologiczną na podstawie elektronicznej Karty Opieki Kardiologicznej, o której mowa w art. 39 ust. 1 ustawy z dnia 4 czerwca 2025 r. o Krajowej Sieci Kardiologicznej (Dz. U. poz. 779) – w przypadku świadczeniobiorcy wpisywanego na listę oczekujących na udzielenie świadczenia, o której mowa w art. 20 ust. 12 pkt 2, albo któremu wyznaczono termin udzielenia świadczenia w ramach centralnej elektronicznej rejestracji, o której mowa w art. 23c ust. 1, albo którego umieszczono w centralnym wykazie oczekujących;
 
 - **4)** datę i przyczynę skreślenia z harmonogramu przyjęć.
+
+4a. W przypadku świadczeń opieki zdrowotnej, o których mowa w przepisach wydanych na podstawie art. 23h ust. 2 pkt 1, w harmonogramie przyjęć nie wpisuje się informacji, o której mowa w ust. 4 pkt 2 lit. b.
 
 5. Świadczeniodawca może nie wpisywać w harmonogramie przyjęć terminu udzielenia świadczenia w przypadku świadczeń:
 
@@ -547,12 +512,12 @@ Art. 196–228. (pominięte)
     - **b)** datę i godzinę wpisu,
     - **c)** identyfikator skierowania, o którym mowa w art. 59aa ust. 4,
     - **d)** imię i nazwisko świadczeniobiorcy,
-    - **e)** numer PESEL, a w przypadku jego braku serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość świadczeniobiorcy,
+    - **e)** numer PESEL, a w przypadku jego braku – serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość świadczeniobiorcy,
     - **f)** rozpoznanie lub powód przyjęcia,
     - **g)** adres świadczeniobiorcy,
-    - **h)** numer telefonu lub oznaczenie innego sposobu komunikacji ze świadczeniobiorcą lub jego opiekunem,
-    - **i)** dane dotyczące terminu udzielenia świadczenia: termin oznaczony przez wskazanie daty (dzień, miesiąc, rok); jeżeli planowany termin przekracza 6 miesięcy, licząc od daty wpisu na listę oczekujących na udzielenie świadczenia, świadczeniodawca może, w chwili wpisywania na listę, wskazać termin z dokładnością do tygodnia, miesiąca i roku; w tym przypadku data udzielenia świadczenia powinna być ustalona nie później niż na 14 dni przed planowanym terminem udzielenia świadczenia; art. 19a ust. 5 stosuje się odpowiednio, informację o rezerwacji terminu w przypadku gdy świadczeniobiorca wybrał termin późniejszy niż wskazany przez świadczeniodawcę oraz w przypadku, o którym mowa w ust. 9b, uwzględniane przy wyznaczaniu terminu kryterium medyczne określone w przepisach wydanych na podstawie ust. 11, zmianę terminu wraz z podaniem przyczyny, a w przypadku gdy przyczyną jest zmiana kryterium medycznego określonego w przepisach wydanych na podstawie ust. 11, także uzasadnienie tej zmiany, informację o uwzględnieniu, przy wyznaczaniu terminu, daty zgłoszenia u świadczeniodawcy, który zakończył wykonywanie umowy o udzielanie świadczeń opieki zdrowotnej w przypadku, o którym mowa w ust. 10b, informację o przywróceniu na listę oczekujących na udzielenie świadczenia w przypadku, o którym mowa w ust. 10f,
-    - **j)** imię i nazwisko oraz podpis osoby dokonującej wpisu w kolejnej pozycji prowadzonej przez siebie listy oczekujących na udzielenie świadczenia;
+    - **h)** numer telefonu lub adres poczty elektronicznej służące do komunikacji ze świadczeniobiorcą lub osobą trzecią, za pośrednictwem której dokonano zgłoszenia, w celu zapewnienia komunikacji ze świadczeniobiorcą,
+    - **i)** dane dotyczące terminu udzielenia świadczenia: – termin oznaczony przez wskazanie daty (dzień, miesiąc, rok); jeżeli planowany termin przekracza 6 miesięcy, licząc od daty wpisu na listę oczekujących na udzielenie świadczenia, świadczeniodawca może, w chwili wpisywania na listę, wskazać termin z dokładnością do tygodnia, miesiąca i roku; w tym przypadku data udzielenia świadczenia powinna być ustalona nie później niż na 14 dni przed planowanym terminem udzielenia świadczenia; art. 19a ust. 5 stosuje się odpowiednio, – informację o rezerwacji terminu – w przypadku gdy świadczeniobiorca wybrał termin późniejszy niż wskazany przez świadczeniodawcę oraz w przypadku, o którym mowa w ust. 9b, – uwzględniane przy wyznaczaniu terminu kryterium medyczne określone w przepisach wydanych na podstawie ust. 11, – zmianę terminu wraz z podaniem przyczyny, a w przypadku gdy przyczyną jest zmiana kryterium medycznego określonego w przepisach wydanych na podstawie ust. 11, także uzasadnienie tej zmiany, – informację o uwzględnieniu, przy wyznaczaniu terminu, daty zgłoszenia u świadczeniodawcy, który zakończył wykonywanie umowy o udzielanie świadczeń opieki zdrowotnej w przypadku, o którym mowa w ust. 10b, – informację o przywróceniu na listę oczekujących na udzielenie świadczenia w przypadku, o którym mowa w ust. 10f,
+    - **j)** imię i nazwisko oraz podpis osoby dokonującej wpisu – w kolejnej pozycji prowadzonej przez siebie listy oczekujących na udzielenie świadczenia;
 
 - **4)** wpisuje datę i przyczynę skreślenia świadczeniobiorcy z prowadzonej przez siebie listy oczekujących na udzielenie świadczenia;
 - **5)** przechowuje oryginał skierowania w postaci papierowej przekazany przez świadczeniobiorcę, w przypadku świadczeń opieki zdrowotnej udzielanych na podstawie skierowania;
@@ -561,9 +526,9 @@ Art. 196–228. (pominięte)
 2a. W przypadku świadczeń opieki zdrowotnej udzielanych na podstawie skierowania, świadczeniobiorca jest obowiązany:
 
 - **1)** dostarczyć świadczeniodawcy oryginał skierowania w postaci papierowej, nie później niż w terminie 14 dni roboczych od dnia dokonania wpisu na listę oczekujących, pod rygorem skreślenia z listy oczekujących, albo
-- **2)** udostępnić świadczeniodawcy, przed dokonaniem wpisu na listę oczekujących na udzielenie świadczenia: 2aa. Do terminu dostarczenia świadczeniodawcy oryginału skierowania w postaci papierowej stosuje się przepisy art. 165 ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568 i 1841 oraz z 2025 r. poz. 620 i 1172). 2ab. W przypadku, o którym mowa w ust. 2a pkt 2, świadczeniodawca dokonuje wpisu na listę oczekujących na udzielenie świadczenia przez określenie odpowiedniego statusu skierowania, o którym mowa w przepisach wydanych na podstawie art. 59aa ust. 2, w systemie teleinformatycznym, o którym mowa w art. 7 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia.
+- **2)** udostępnić świadczeniodawcy, przed dokonaniem wpisu na listę oczekujących na udzielenie świadczenia: 2aa. Do terminu dostarczenia świadczeniodawcy oryginału skierowania w postaci papierowej stosuje się przepisy art. 165 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568 i 1841 oraz z 2025 r. poz. 620 i 1172). 2ab. W przypadku, o którym mowa w ust. 2a pkt 2, świadczeniodawca dokonuje wpisu na listę oczekujących na udzielenie świadczenia przez określenie odpowiedniego statusu skierowania, o którym mowa w przepisach wydanych na podstawie art. 59aa ust. 2, w systemie teleinformatycznym, o którym mowa w art. 7 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia.
     - **a)** klucz dostępu do skierowania, o którym mowa w art. 59b ust. 1 pkt 1, albo
-    - **b)** kod dostępu, o którym mowa w art. 59b ust. 1 pkt 2, oraz numer PESEL, a w przypadku jego braku serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość.
+    - **b)** kod dostępu, o którym mowa w art. 59b ust. 1 pkt 2, oraz numer PESEL, a w przypadku jego braku – serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość.
 
 2b. W przypadku skreślenia świadczeniobiorcy z listy oczekujących w wyniku rezygnacji z udzielenia świadczenia, niezgłoszenia się na ustalony termin udzielenia świadczenia albo zakończenia przez świadczeniodawcę wykonywania umowy o udzielenie świadczeń opieki zdrowotnej świadczeniodawca:
 
@@ -584,7 +549,7 @@ Art. 196–228. (pominięte)
 
 7. W razie zmiany stanu zdrowia świadczeniobiorcy, wskazującej na potrzebę wcześniejszego niż w ustalonym terminie udzielenia świadczenia, świadczeniobiorca informuje o tym świadczeniodawcę, który, jeżeli wynika to z kryteriów medycznych, koryguje odpowiednio termin udzielenia świadczenia i informuje niezwłocznie świadczeniobiorcę o nowym terminie.
 
-8. W przypadku wystąpienia okoliczności, których nie można było przewidzieć w chwili ustalania terminu udzielenia świadczenia opieki zdrowotnej, a które uniemożliwiają zachowanie terminu wynikającego z listy oczekujących, świadczeniodawca informuje świadczeniobiorcę w każdy dostępny sposób o zmianie terminu wynikającego ze zmiany kolejności udzielenia świadczenia i jej przyczynie. Przepis ten dotyczy także przypadku zmiany terminu udzielenia świadczenia opieki zdrowotnej na wcześniejszy. W przypadku gdy świadczeniobiorca nie wyraża zgody na zmianę terminu udzielenia świadczenia opieki zdrowotnej na wcześniejszy, świadczeniodawca informuje o możliwości zmiany terminu następnego świadczeniobiorcę z listy oczekujących, zgodnie z kolejnością ustaloną na podstawie zgłoszenia.
+8. W przypadku wystąpienia okoliczności, których nie można było przewidzieć w chwili ustalania terminu udzielenia świadczenia, a które uniemożliwiają zachowanie terminu wynikającego z listy oczekujących na udzielenie świadczenia, świadczeniodawca informuje świadczeniobiorcę w każdy dostępny sposób o zmianie terminu wynikającego ze zmiany kolejności udzielenia świadczenia opieki zdrowotnej i jej przyczynie. Przepis ten dotyczy także przypadku zmiany terminu udzielenia świadczenia na wcześniejszy. W przypadku gdy świadczeniobiorca nie wyraża zgody na zmianę terminu udzielenia świadczenia na wcześniejszy, świadczeniodawca informuje o możliwości zmiany terminu następnego świadczeniobiorcę z listy oczekujących na udzielenie świadczenia, zgodnie z kolejnością ustaloną na podstawie zgłoszenia.
 
 8a. W przypadku, o którym mowa w ust. 8, przekazanie świadczeniobiorcy informacji o zmianie terminu udzielenia świadczenia, w przypadku świadczeń, dla których do planowanego terminu udzielenia świadczenia pozostało więcej niż 180 dni, może odbywać się raz na trzy miesiące.
 
@@ -602,11 +567,7 @@ Art. 196–228. (pominięte)
 
 10b. Świadczeniodawca, do którego zgłasza się świadczeniobiorca, ustala kolejność przyjęć, z uwzględnieniem daty zgłoszenia u świadczeniodawcy, który zakończył wykonywanie umowy o udzielanie świadczeń opieki zdrowotnej.
 
-10c. Świadczeniodawca, który zakończył wykonywanie umowy o udzielanie świadczeń opieki zdrowotnej, jest obowiązany wydać świadczeniobiorcy zaświadczenie o wpisaniu na listę oczekujących wraz z podaniem daty zgłoszenia się świadczeniobiorcy. Za wydanie zaświadczenia świadczeniobiorca nie ponosi opłaty.
-
-10d. Fundusz informuje w każdy dostępny sposób świadczeniobiorców wpisanych na listy oczekujących u świadczeniodawcy, który zakończył wykonywanie umowy o udzielanie świadczeń opieki zdrowotnej, o możliwości udzielenia świadczenia opieki zdrowotnej przez innych świadczeniodawców, którzy zawarli umowę o udzielanie świadczeń opieki zdrowotnej, oraz o pierwszym wolnym terminie udzielenia świadczenia.
-
-10e. W przypadku niezgłoszenia się na ustalony termin udzielenia świadczenia, świadczeniobiorca podlega skreśleniu z listy oczekujących, chyba że uprawdopodobni, że niezgłoszenie się nastąpiło z powodu siły wyższej.
+10c. Świadczeniodawca, który zakończył wykonywanie umowy o udzielanie świadczeń opieki zdrowotnej, jest obowiązany wydać świadczeniobiorcy zaświadczenie o wpisaniu na listę oczekujących wraz z podaniem daty zgłoszenia się świadczeniobiorcy. Za wydanie zaświadczenia świadczeniobiorca nie ponosi opłaty. [10d. Fundusz informuje w każdy dostępny sposób świadczeniobiorców wpisanych na listy oczekujących u świadczeniodawcy, który zakończył wykonywanie umowy o udzielanie świadczeń opieki zdrowotnej, o możliwości udzielenia świadczenia opieki zdrowotnej przez innych świadczeniodawców, którzy zawarli umowę o udzielanie świadczeń opieki zdrowotnej, oraz o pierwszym wolnym terminie udzielenia świadczenia.] <10d. Fundusz informuje w każdy dostępny sposób świadczeniobiorców wpisanych na listy oczekujących na udzielenie świadczenia u świadczeniodawcy, który zakończył wykonywanie umowy o udzielanie świadczeń opieki zdrowotnej, o możliwości udzielenia świadczenia opieki zdrowotnej przez innych świadczeniodawców, którzy zawarli umowę o udzielanie świadczeń opieki zdrowotnej, oraz o prognozowanym czasie oczekiwania na udzielenie świadczenia opieki zdrowotnej, o którym mowa w art. 23 ust. 2a.> 10e. W przypadku niezgłoszenia się na ustalony termin udzielenia świadczenia, świadczeniobiorca podlega skreśleniu z listy oczekujących, chyba że uprawdopodobni, że niezgłoszenie się nastąpiło z powodu siły wyższej.
 
 10f. Wniosek o przywrócenie na listę oczekujących świadczeniobiorca jest obowiązany zgłosić niezwłocznie, nie później niż w terminie 7 dni od dnia ustania przyczyny niezgłoszenia się na ustalony termin udzielenia świadczenia. W przypadku przywrócenia na listę oczekujących przepis ust. 10b stosuje się odpowiednio. 10fa. W przypadku gdy świadczeniobiorca otrzyma więcej niż jedno skierowanie, o którym mowa w przepisach wydanych na podstawie art. 59aa ust. 2, na takie samo świadczenie opieki zdrowotnej, przepis ust. 10 stosuje się.
 
@@ -616,8 +577,8 @@ Art. 196–228. (pominięte)
 
 12. Świadczeniodawca prowadzi odrębne listy oczekujących na udzielenie świadczenia dla świadczeniobiorców objętych:
 
-- **1)** diagnostyką onkologiczną lub leczeniem onkologicznym;
-- **2)** diagnostyką kardiologiczną lub leczeniem kardiologicznym. Do tych list nie stosuje się przepisów wydanych na podstawie ust. 11.
+- **1)** diagnostyką onkologiczną lub leczeniem onkologicznym na podstawie karty diagnostyki i leczenia onkologicznego;
+- **2)** opieką kardiologiczną, o której mowa w art. 2 pkt 12 ustawy z dnia 4 czerwca 2025 r. o Krajowej Sieci Kardiologicznej. Do tych list nie stosuje się przepisów wydanych na podstawie ust. 11.
 
 13. Świadczeniodawca umieszcza świadczeniobiorcę, z wyjątkiem świadczeniobiorcy znajdującego się w stanie nagłym, na liście określonej w ust. 12 pkt 1 na podstawie karty diagnostyki i leczenia onkologicznego oraz następujących kryteriów medycznych opartych na aktualnej wiedzy medycznej:
 
@@ -643,35 +604,22 @@ Art. 196–228. (pominięte)
 
 1. Świadczeniodawca, o którym mowa w art. 19a ust. 1, przekazuje co miesiąc Funduszowi informację obejmującą:
 
-- **1)** dla każdej kategorii świadczeniobiorcy, o której mowa w art. 19a ust. 4 pkt 3 liczbę osób wpisanych w harmonogramie przyjęć według stanu na ostatni dzień miesiąca;
-- **2)** dla każdego świadczeniobiorcy wpisanego do kategorii oczekujący, o której mowa w art. 19a ust. 4 pkt 3 lit. b dane, o których mowa w art. 20 ust. 2 pkt 3 lit. d i e, według stanu na ostatni dzień miesiąca ze wskazaniem kryterium medycznego określonego w przepisach wydanych na podstawie art. 20 ust. 11, a w przypadku zmiany w okresie sprawozdawczym kategorii, o której mowa w art. 19a ust. 4 pkt 3 także wskazanie kategorii posiadanej przed dokonaniem i po dokonaniu zmiany;
+- **1)** dla każdej kategorii świadczeniobiorcy, o której mowa w art. 19a ust. 4 pkt 3 – liczbę osób wpisanych w harmonogramie przyjęć według stanu na ostatni dzień miesiąca;
+- **2)** dla każdego świadczeniobiorcy wpisanego do kategorii oczekujący, o której mowa w art. 19a ust. 4 pkt 3 lit. b – dane, o których mowa w art. 20 ust. 2 pkt 3 lit. d i e, według stanu na ostatni dzień miesiąca ze wskazaniem kryterium medycznego określonego w przepisach wydanych na podstawie art. 20 ust. 11, a w przypadku zmiany w okresie sprawozdawczym kategorii, o której mowa w art. 19a ust. 4 pkt 3 – także wskazanie kategorii posiadanej przed dokonaniem i po dokonaniu zmiany;
 - **3)** dane określone w przepisach wydanych na podstawie art. 190 ust. 1.
 
 2. Fundusz publikuje na swojej stronie internetowej, aktualizując co najmniej raz w miesiącu, informację o:
 
-- **1)** liczbie świadczeniobiorców wpisanych do kategorii oczekujący, o której mowa w art. 19a ust. 4 pkt 3 lit. b, przekazaną przez świadczeniodawcę;
-- **2)** średnim czasie oczekiwania w danym miesiącu, obliczonym na podstawie dokumentów rozliczeniowych za dany miesiąc;
-- **3)** możliwości udzielenia świadczenia przez innych świadczeniodawców, którzy zawarli umowę o udzielanie świadczeń opieki zdrowotnej.
-
-3. Fundusz informuje świadczeniobiorcę o możliwości udzielenia świadczenia opieki zdrowotnej przez świadczeniodawców, którzy zawarli umowę o udzielanie świadczeń opieki zdrowotnej, średnim czasie oczekiwania na dane świadczenie opieki zdrowotnej oraz o pierwszym wolnym terminie udzielenia świadczenia.
-
-4. Świadczeniodawca, o którym mowa w art. 20 ust. 1, przekazuje każdego dnia roboczego, z wyłączeniem sobót, niedziel oraz dni ustawowo wolnych od pracy, Funduszowi informację o pierwszym wolnym terminie udzielenia świadczenia według stanu na dzień poprzedzający, z wyłączeniem świadczeń, dla których jest prowadzona lista oczekujących, o której mowa w art. 20 ust. 12, oraz świadczeń, w przypadku których świadczeniodawca może nie wpisywać w harmonogramie przyjęć terminu udzielenia świadczenia, o których mowa w art. 19a ust. 5.
+- **1)** liczbie świadczeniobiorców wpisanych do kategorii oczekujący, o której mowa w art. 19a ust. 4 pkt 3 lit. b, przekazaną przez świadczeniodawcę; [2) średnim czasie oczekiwania w danym miesiącu, obliczonym na podstawie dokumentów rozliczeniowych za dany miesiąc;] <2) prognozowanym czasie oczekiwania na udzielenie świadczenia opieki zdrowotnej;>
+- **3)** możliwości udzielenia świadczenia przez innych świadczeniodawców, którzy zawarli umowę o udzielanie świadczeń opieki zdrowotnej. <2a. Prognozowany czas oczekiwania na udzielenie świadczenia opieki zdrowotnej Fundusz oblicza co miesiąc dla każdej listy oczekujących na udzielenie świadczenia prowadzonej przez świadczeniodawcę zgodnie z przepisami wydanymi na podstawie art. 190 ust. 1, z wyłączeniem list, o których mowa w art. 20 ust. 12, oddzielnie dla każdej grupy oczekujących wyodrębnionej ze względu na kryteria medyczne, o których mowa w przepisach wydanych na podstawie art. 20 ust. 11, na podstawie średniego rzeczywistego czasu oczekiwania obliczanego i przekazywanego przez świadczeniodawców zgodnie z przepisami wydanymi na podstawie art. 190 ust. 1.> [3. Fundusz informuje świadczeniobiorcę o możliwości udzielenia świadczenia opieki zdrowotnej przez świadczeniodawców, którzy zawarli umowę o udzielanie świadczeń opieki zdrowotnej, średnim czasie oczekiwania na dane świadczenie opieki zdrowotnej oraz o pierwszym wolnym terminie udzielenia świadczenia.] <3. Fundusz informuje świadczeniobiorcę o możliwości udzielenia świadczenia opieki zdrowotnej przez świadczeniodawców, którzy zawarli umowę o udzielanie świadczeń opieki zdrowotnej, oraz o prognozowanym czasie oczekiwania na udzielenie tego świadczenia.> [4. Świadczeniodawca, o którym mowa w art. 20 ust. 1, przekazuje każdego dnia roboczego, z wyłączeniem sobót, niedziel oraz dni ustawowo wolnych od pracy, Funduszowi informację o pierwszym wolnym terminie udzielenia świadczenia według stanu na dzień poprzedzający, z wyłączeniem świadczeń, dla których jest prowadzona lista oczekujących, o której mowa w art. 20 ust. 12, oraz świadczeń, w przypadku których świadczeniodawca może nie wpisywać w harmonogramie przyjęć terminu udzielenia świadczenia, o których mowa w art. 19a ust. 5.
 
 4a. W przypadku ograniczonych możliwości technicznych świadczeniodawcy, Prezes Funduszu może wyrazić zgodę na przekazywanie informacji o pierwszym wolnym terminie udzielenia świadczenia przez świadczeniodawcę raz w tygodniu.
 
-5. Informację, o której mowa w ust. 4 i 4a, Fundusz publikuje na swojej stronie internetowej, aktualizując ją w dniu przekazania przez danego świadczeniodawcę.
+5. Informację, o której mowa w ust. 4 i 4a, Fundusz publikuje na swojej stronie internetowej, aktualizując ją w dniu przekazania przez danego świadczeniodawcę.] [6. Świadczeniodawca, na umotywowany wniosek Prezesa Funduszu, jest obowiązany dostarczyć niezwłocznie inne niż określone w ust. 9 informacje dotyczące realizacji obowiązków, o których mowa w ust. 1–5, 7 i 8.] <6. Świadczeniodawca, na umotywowany wniosek Prezesa Funduszu, jest obowiązany dostarczyć niezwłocznie inne niż określone w ust. 9 informacje dotyczące realizacji obowiązków, o których mowa w ust. 1 i 2 oraz w art. 20.>
 
-6. Świadczeniodawca, na umotywowany wniosek Prezesa Funduszu, jest obowiązany dostarczyć niezwłocznie inne niż określone w ust. 9 informacje dotyczące realizacji obowiązków, o których mowa w ust. 1–5, 7 i 8.
+7. W przypadku uzasadnionego podejrzenia niewykonywania lub niewłaściwego wykonywania przez świadczeniodawcę obowiązków, o których mowa w art. 20, Prezes Funduszu przeprowadza kontrolę u tego świadczeniodawcy. [8. Prezes Funduszu tworzy centralny wykaz informacji o liczbie oczekujących na udzielenie świadczenia opieki zdrowotnej i średnim czasie oczekiwania w poszczególnych oddziałach wojewódzkich Funduszu na podstawie informacji, o których mowa w ust. 2, 4 i 4a.] <8. Prezes Funduszu tworzy centralny wykaz informacji o liczbie oczekujących na udzielenie świadczenia opieki zdrowotnej i prognozowanym czasie oczekiwania na udzielenie świadczenia opieki zdrowotnej w poszczególnych oddziałach wojewódzkich Funduszu na podstawie informacji, o których mowa w ust. 2.> [9. Prezes Funduszu udziela świadczeniobiorcom informacji o danych zawartych w wykazie, o którym mowa w ust. 8, oraz informacji, o której mowa w ust. 4 i 4a, w szczególności przez bezpłatną linię telefoniczną.] <9. Prezes Funduszu udziela świadczeniobiorcom informacji o danych zawartych w wykazie, o którym mowa w ust. 8, w szczególności za pośrednictwem bezpłatnej linii telefonicznej.> [10. Prezes Funduszu przekazuje na bieżąco informacje, o których mowa w ust. 4, 4a i 8, do systemu, o którym mowa w art. 7 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia.] <10. Prezes Funduszu przekazuje na bieżąco informacje, o których mowa w ust. 8, do systemu teleinformatycznego, o którym mowa w art. 7 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia.>
 
-7. W przypadku uzasadnionego podejrzenia niewykonywania lub niewłaściwego wykonywania przez świadczeniodawcę obowiązków, o których mowa w art. 20, Prezes Funduszu przeprowadza kontrolę u tego świadczeniodawcy.
-
-8. Prezes Funduszu tworzy centralny wykaz informacji o liczbie oczekujących na udzielenie świadczenia opieki zdrowotnej i średnim czasie oczekiwania w poszczególnych oddziałach wojewódzkich Funduszu na podstawie informacji, o których mowa w ust. 2, 4 i 4a.
-
-9. Prezes Funduszu udziela świadczeniobiorcom informacji o danych zawartych w wykazie, o którym mowa w ust. 8, oraz informacji, o której mowa w ust. 4 i 4a, w szczególności przez bezpłatną linię telefoniczną.
-
-10. Prezes Funduszu przekazuje na bieżąco informacje, o których mowa w ust. 4, 4a i 8, do systemu, o którym mowa w art. 7 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia.
-
-11. Przepisu ust. 1 nie stosuje się do świadczeniodawców, którzy prowadzą listy oczekujących na udzielenie świadczenia w aplikacji udostępnionej przez Prezesa Funduszu zgodnie z art. 190 ust. 1a.
+11. Przepisu ust. 1 nie stosuje się do świadczeniodawców, którzy prowadzą listy oczekujących na udzielenie świadczenia w aplikacji udostępnionej przez Prezesa Funduszu zgodnie z art. 190 ust. 1a. <12. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, sposób obliczania prognozowanego czasu oczekiwania na udzielenie świadczenia opieki zdrowotnej, mając na uwadze konieczność zapewnienia świadczeniobiorcy wiarygodnej i przejrzystej informacji o czasie oczekiwania na udzielenie świadczenia opieki zdrowotnej.>
 
 **Art. 23a.**
 
@@ -686,6 +634,182 @@ Art. 196–228. (pominięte)
 1. Fundusz jest obowiązany do kontaktu ze świadczeniobiorcami w celu przypominania o wyznaczonym terminie udzielenia świadczeń, dla których są prowadzone harmonogramy przyjęć w aplikacji udostępnionej przez Prezesa Funduszu, zgodnie z art. 190 ust. 1a.
 
 2. W przypadku gdy Fundusz otrzyma od świadczeniobiorcy informację o niemożności stawienia się u świadczeniodawcy w terminie określonym w trybie art. 20 ust. 2, 7 lub 8, lub o rezygnacji ze świadczenia opieki zdrowotnej, jest on obowiązany poinformować o tym niezwłocznie świadczeniodawcę, w którego harmonogramie przyjęć został wpisany świadczeniobiorca.
+
+**Art. 23c.**
+
+1. Centralna elektroniczna rejestracja na świadczenia opieki zdrowotnej, o których mowa w przepisach wydanych na podstawie art. 23h ust. 2 pkt 1, jest prowadzona przy wykorzystaniu funkcjonalności systemu teleinformatycznego, o którym mowa w art. 7 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, wspólnie dla wszystkich świadczeniodawców udzielających tych świadczeń.
+
+2. Dla świadczeń opieki zdrowotnej, o których mowa w przepisach wydanych na podstawie art. 23h ust. 2 pkt 1, nie prowadzi się list oczekujących na udzielenie świadczenia.
+
+3. W celu prowadzenia centralnej elektronicznej rejestracji świadczeniodawca jest obowiązany:
+
+- **1)** udostępniać w systemie teleinformatycznym, o którym mowa w art. 7 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, harmonogramy przyjęć prowadzone zgodnie z art. 19a wraz z dostępnymi terminami udzielenia świadczenia, za okres określony w przepisach wydanych na podstawie art. 23h ust. 2 pkt 2, nie dłuższy jednak niż 5 lat, oraz informacje o:
+    - **a)** sposobie udzielania świadczenia opieki zdrowotnej – w bezpośrednim kontakcie ze świadczeniobiorcą lub za pośrednictwem systemów teleinformatycznych lub systemów łączności,
+    - **b)** miejscu udzielania świadczenia opieki zdrowotnej,
+    - **c)** kodach obowiązującej Międzynarodowej Klasyfikacji Procedur Medycznych i obowiązującej Międzynarodowej Klasyfikacji Chorób i Problemów Zdrowotnych charakteryzujących udzielane świadczenia opieki zdrowotnej,
+    - **d)** udzielaniu świadczeń opieki zdrowotnej dzieciom w podziale na przedziały wiekowe ustalone między Funduszem a świadczeniodawcą zgodnie z przepisami wydanymi na podstawie art. 190 ust. 1;
+
+- **2)** aktualizować na bieżąco udostępniane harmonogramy przyjęć, o których mowa w pkt 1, oraz dostępne terminy udzielenia świadczenia;
+- **3)** przekazywać do systemu teleinformatycznego, o którym mowa w art. 7 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, dane usługobiorców, o których mowa w art. 4 ust. 3 pkt 1 lit. a, g, i, n oraz o tej ustawy.
+
+4. W celu prowadzenia centralnej elektronicznej rejestracji świadczeniodawca może przekazywać do systemu teleinformatycznego, o którym mowa w art. 7 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia:
+
+- **1)** informację o imieniu i nazwisku pracownika medycznego udzielającego świadczenia opieki zdrowotnej oraz o jego identyfikatorze, o którym mowa w art. 17c ust. 5 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia;
+- **2)** inne dane umożliwiające dokonanie zgłoszenia centralnego, o którym mowa w art. 23e ust. 1.
+
+5. Centralny wykaz oczekujących zawiera dane:
+
+- **1)** ze zgłoszenia centralnego, o którym mowa w art. 23e ust. 1;
+- **2)** o kryteriach wybranych przez świadczeniobiorcę, o których mowa w art. 23e ust. 6, w tym imię i nazwisko oraz identyfikator pracownika medycznego udzielającego świadczeń opieki zdrowotnej, o którym mowa w art. 17c ust. 5 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia.
+
+6. Przy ustalaniu kolejności udzielania świadczeń opieki zdrowotnej, o których mowa w przepisach wydanych na podstawie art. 23h ust. 2 pkt 1, dla świadczeniobiorców objętych diagnostyką onkologiczną lub leczeniem onkologicznym na podstawie karty diagnostyki i leczenia onkologicznego oraz dla świadczeniobiorców objętych opieką kardiologiczną, o której mowa w art. 2 pkt 12 ustawy z dnia 4 czerwca 2025 r. o Krajowej Sieci Kardiologicznej:
+
+- **1)** nie stosuje się przepisów wydanych na podstawie art. 20 ust. 11;
+- **2)** uwzględnia się terminy udzielania świadczeń obejmujących świadczenia gwarantowane z zakresu leczenia szpitalnego oraz z zakresu ambulatoryjnej opieki specjalistycznej określone w przepisach wydanych na podstawie art. 31d.
+
+7. Dane, o których mowa w ust. 3 pkt 1, oraz dane zawarte w centralnym wykazie oczekujących i w zgłoszeniu centralnym, o którym mowa w art. 23e ust. 1, są przekazywane Funduszowi w celu:
+
+- **1)** kontrolowania prawidłowości realizacji przez świadczeniodawców obowiązków, o których mowa w ust. 3;
+- **2)** rozliczania kosztów udzielonych świadczeń opieki zdrowotnej;
+- **3)** monitorowania dostępności świadczeń opieki zdrowotnej;
+- **4)** rozpatrywania wniosków świadczeniobiorców, o których mowa w art. 42f ust. 1 i art. 42i ust. 1.
+
+8. Dla każdego świadczenia opieki zdrowotnej, o którym mowa w przepisach wydanych na podstawie art. 23h ust. 2 pkt 1, minister właściwy do spraw zdrowia publikuje na stronie internetowej z oznaczeniem domeny „gov.pl” powiązanej z Internetowym Kontem Pacjenta, o którym mowa w art. 7a ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, informacje o:
+
+- **1)** liczbie świadczeniobiorców objętych centralną elektroniczną rejestracją:
+    - **a)** wpisanych w harmonogramie przyjęć,
+    - **b)** umieszczonych w centralnym wykazie oczekujących – według stanu na ostatni dzień miesiąca, w podziale na świadczeniobiorców wyodrębnionych ze względu na kryteria medyczne, o których mowa w przepisach wydanych na podstawie art. 20 ust. 11;
+
+- **2)** prognozowanym czasie oczekiwania na udzielenie świadczenia opieki zdrowotnej;
+- **3)** możliwości udzielenia świadczeń opieki zdrowotnej przez świadczeniodawców, którzy zawarli umowę o udzielanie świadczeń opieki zdrowotnej, w tym ze wskazaniem informacji o udzielaniu świadczeń opieki zdrowotnej dzieciom w podziale na przedziały wiekowe ustalone między Funduszem a świadczeniodawcą zgodnie z przepisami wydanymi na podstawie art. 190 ust. 1.
+
+9. Prognozowany czas oczekiwania na udzielenie świadczenia opieki zdrowotnej jest obliczany i raz dziennie aktualizowany przez administratora systemu teleinformatycznego, o którym mowa w art. 7 ust. 2 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, dla każdego świadczeniodawcy udzielającego świadczeń opieki zdrowotnej, o których mowa w przepisach wydanych na podstawie art. 23h ust. 2 pkt 1, oddzielnie dla każdej grupy oczekujących wyodrębnionej ze względu na kryteria medyczne, o których mowa w przepisach wydanych na podstawie art. 20 ust. 11.
+
+10. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, sposób obliczania prognozowanego czasu oczekiwania na udzielenie świadczeń opieki zdrowotnej, o których mowa w przepisach wydanych na podstawie art. 23h ust. 2 pkt 1, mając na uwadze charakter danych gromadzonych w ramach centralnej elektronicznej rejestracji oraz konieczność zapewnienia świadczeniobiorcy wiarygodnej i przejrzystej informacji o dostępnych terminach udzielenia świadczenia.
+
+**Art. 23d.**
+
+1. Centralna elektroniczna rejestracja jest prowadzona w sposób zapewniający poszanowanie zasady sprawiedliwego, równego, niedyskryminującego i przejrzystego dostępu do świadczeń opieki zdrowotnej.
+
+2. Do prowadzenia centralnej elektronicznej rejestracji na świadczenia opieki zdrowotnej, o których mowa w przepisach wydanych na podstawie art. 23h ust. 2 pkt 1, nie stosuje się przepisów art. 23.
+
+**Art. 23e.**
+
+1. Podstawą do wyznaczenia terminu udzielenia świadczenia w ramach centralnej elektronicznej rejestracji w przypadku świadczeniobiorcy zgłaszającego się do świadczeniodawcy po raz pierwszy w celu uzyskania danego świadczenia opieki zdrowotnej jest oświadczenie świadczeniobiorcy złożone osobiście lub za pośrednictwem osoby trzeciej o zamiarze uzyskania wybranego świadczenia opieki zdrowotnej, zwane dalej „zgłoszeniem centralnym”.
+
+2. Zgłoszenie centralne obejmuje:
+
+- **1)** dane, o których mowa w art. 20 ust. 2 pkt 3 lit. b–f oraz h;
+- **2)** dane, o których mowa w art. 4 ust. 3 pkt 1 lit. n oraz o ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, jeżeli dotyczy;
+- **3)** dane zawarte w skierowaniu, o którym mowa w przepisach wydanych na podstawie art. 30 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2024 r. poz. 581), a w przypadku świadczeń opieki zdrowotnej udzielanych na podstawie skierowań wystawianych w postaci elektronicznej, o których mowa w art. 59aa ust. 2 – także kod dostępu, o którym mowa w art. 59b ust. 1 pkt 2, oraz numer PESEL, a w przypadku jego braku – serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość, albo klucz dostępu do skierowania, o którym mowa w art. 59b ust. 1 pkt 1;
+- **4)** unikalny numer identyfikujący karty diagnostyki i leczenia onkologicznego, datę wydania decyzji o założeniu karty i rozpoznanie, o których mowa w art. 40 ust. 4 pkt 6 lit. b, g oraz k ustawy z dnia 9 marca 2023 r. o Krajowej Sieci Onkologicznej, oraz wskazanie odpowiedniego etapu diagnostyki onkologicznej lub leczenia onkologicznego określonego w przepisach wydanych na podstawie art. 190 ust. 1, jeżeli dotyczy;
+- **5)** unikalny numer identyfikujący elektroniczną Kartę Opieki Kardiologicznej, o której mowa w art. 40 ust. 1 pkt 6 lit. i ustawy z dnia 4 czerwca 2025 r. o Krajowej Sieci Kardiologicznej, jeżeli dotyczy;
+- **6)** informację o kategorii medycznej, do której świadczeniobiorca został zakwalifikowany zgodnie z kryteriami medycznymi, o których mowa w przepisach wydanych na podstawie art. 20 ust. 11, ustalonej na podstawie skierowania, jeżeli dotyczy, albo o kryteriach medycznych, o których mowa w art. 20 ust. 13 i 15;
+- **7)** inne istotne do przyjęcia zgłoszenia centralnego dane dotyczące stanu zdrowia świadczeniobiorcy lub dane dotyczące świadczenia opieki zdrowotnej, jeżeli dotyczy.
+
+3. Zgłoszenia centralnego można dokonać:
+
+- **1)** za pośrednictwem Internetowego Konta Pacjenta, o którym mowa w art. 7a ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, w dowolnym czasie albo
+- **2)** bezpośrednio u świadczeniodawcy, w tym osobiście lub telefonicznie, w dniach i godzinach udzielania świadczeń opieki zdrowotnej przez danego świadczeniodawcę, albo z wykorzystaniem środków komunikacji elektronicznej.
+
+4. Zgłoszenia centralnego na diagnostykę onkologiczną lub leczenie onkologiczne udzielane na podstawie karty diagnostyki i leczenia onkologicznego dokonuje się w sposób, o którym mowa w ust. 3 pkt 2, u świadczeniodawcy udzielającego takich świadczeń opieki zdrowotnej, a w przypadku świadczeniobiorców objętych opieką onkologiczną w rozumieniu art. 2 pkt 9 ustawy z dnia 9 marca 2023 r. o Krajowej Sieci Onkologicznej – również za pośrednictwem infolinii onkologicznej, o której mowa w art. 20 ust. 1 tej ustawy.
+
+5. Zgłoszenia centralnego można dokonać wyłącznie w sposób określony w ust. 3 pkt 2 w przypadku:
+
+- **1)** wystawienia skierowania w przypadkach, o których mowa w art. 59aa ust. 3;
+- **2)** świadczeń opieki zdrowotnej, o których mowa w art. 57 ust. 2 pkt 8–14;
+- **3)** rejestracji osób, którym świadczenia zdrowotne są udzielane bezpłatnie, bez względu na uprawnienia z tytułu ubezpieczenia zdrowotnego, na podstawie art. 102 pkt 1 i art. 115 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy.
+
+6. Przy dokonywaniu zgłoszenia centralnego świadczeniobiorca samodzielnie lub za pośrednictwem osoby trzeciej może określić kryteria, które dotyczą w szczególności:
+
+- **1)** terminu udzielenia świadczenia;
+- **2)** świadczeniodawcy, u którego chciałby uzyskać świadczenie opieki zdrowotnej;
+- **3)** zakresu terytorialnego, w jakim chciałby uzyskać świadczenie opieki zdrowotnej – z uwzględnieniem województwa, miasta lub odległości od wskazanej lokalizacji;
+- **4)** pracownika medycznego, który ma udzielić świadczenia opieki zdrowotnej;
+- **5)** sposobu udzielenia świadczenia opieki zdrowotnej, jeżeli świadczeniodawca umożliwia wybór takiego kryterium;
+- **6)** posiadania prawa do korzystania poza kolejnością ze świadczeń opieki zdrowotnej.
+
+7. Kryteria, o których mowa w ust. 6, mogą być modyfikowane przez świadczeniobiorcę samodzielnie lub za pośrednictwem osoby trzeciej albo świadczeniodawcę, po dokonaniu zgłoszenia centralnego.
+
+8. W przypadku zmiany stanu zdrowia świadczeniobiorcy wskazującej na potrzebę pilnego udzielenia świadczenia opieki zdrowotnej świadczeniobiorca informuje o tym świadczeniodawcę, u którego:
+
+- **1)** wyznaczono termin udzielenia świadczenia albo
+- **2)** wystawiono skierowanie.
+
+9. Świadczeniodawca, o którym mowa w ust. 8, jeżeli wynika to z kryteriów medycznych, o których mowa w przepisach wydanych na podstawie art. 20 ust. 11, albo, o których mowa w art. 20 ust. 13 i 15, zmienia określoną w zgłoszeniu centralnym kategorię medyczną świadczeniobiorcy, o której mowa w przepisach wydanych na podstawie art. 20 ust. 11, oraz wyznaczony termin udzielenia świadczenia. W przypadku świadczeniobiorcy umieszczonego w centralnym wykazie oczekujących zmienioną kategorię medyczną, o której mowa w przepisach wydanych na podstawie art. 20 ust. 11, uwzględnia się przy ustalaniu kolejności udzielania świadczeń opieki zdrowotnej.
+
+10. W przypadku świadczeń opieki zdrowotnej udzielanych na podstawie skierowania, o którym mowa w art. 59aa ust. 1, zgłoszenia centralnego można dokonać na podstawie tylko jednego skierowania na udzielenie danego świadczenia opieki zdrowotnej, niezależnie od tego, czy świadczeniobiorcy wystawiono więcej niż jedno skierowanie na to świadczenie opieki zdrowotnej.
+
+11. Jeżeli świadczeniobiorca dokona zgłoszenia centralnego w sposób, o którym mowa w ust. 3 pkt 2, w czasie braku dostępu do systemu teleinformatycznego, o którym mowa w art. 7 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, z przyczyn nieleżących po stronie świadczeniodawcy, niezwłocznie po uzyskaniu dostępu do tego systemu świadczeniodawca wyznacza świadczeniobiorcy termin udzielenia świadczenia albo, jeśli wyznaczenie terminu udzielenia świadczenia w przypadku świadczenia opieki zdrowotnej, o którym mowa w przepisach wydanych na podstawie art. 23h ust. 2 pkt 1, nie jest możliwe, umieszcza go w centralnym wykazie oczekujących. <Art. 23f. 1. Centralna elektroniczna rejestracja jest prowadzona z wykorzystaniem narzędzia asystenta głosowego.
+
+2. Nagrania dźwięku lub transkrypcje nagrania uzyskane w wyniku prowadzenia centralnej elektronicznej rejestracji z wykorzystaniem narzędzia asystenta głosowego, zawierające dane, o których mowa w art. 7 ust. 1a ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, minister właściwy do spraw zdrowia przetwarza wyłącznie w celu prowadzenia centralnej elektronicznej rejestracji.
+
+3. Nagrania dźwięku lub transkrypcje nagrania uzyskane w wyniku prowadzenia centralnej elektronicznej rejestracji z wykorzystaniem narzędzia asystenta głosowego, zawierające dane, o których mowa w art. 7 ust. 1a ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, przechowuje jednostka podległa ministrowi właściwemu do spraw zdrowia właściwa w zakresie systemów informacyjnych ochrony zdrowia, przez okres nie dłuższy niż 3 lata, licząc od końca roku kalendarzowego, w którym nagranie zostało zarejestrowane.
+
+4. Przetwarzanie danych głosowych narzędzia asystenta głosowego nie może prowadzić do identyfikacji lub weryfikacji tożsamości świadczeniobiorcy na podstawie cech biometrycznych głosu i nie może być wykorzystywane do analizy cech osobowościowych, stanu emocjonalnego lub stanu zdrowia świadczeniobiorcy. Narzędzie asystenta głosowego nie utrwala i nie wykorzystuje wzorców głosowych służących do identyfikacji lub weryfikacji danych biometrycznych w rozumieniu art. 4 pkt 14 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ).>
+
+**Art. 23g.**
+
+1. Termin udzielenia świadczenia w ramach centralnej elektronicznej rejestracji jest wyznaczany świadczeniobiorcy z uwzględnieniem:
+
+- **1)** prawa świadczeniobiorcy do korzystania poza kolejnością ze świadczeń opieki zdrowotnej;
+- **2)** kategorii medycznej, do której świadczeniobiorca został zakwalifikowany zgodnie z kryteriami medycznymi, o których mowa w przepisach wydanych na podstawie art. 20 ust. 11;
+- **3)** kryteriów medycznych, o których mowa w art. 20 ust. 13 i 15;
+- **4)** kryteriów, o których mowa w art. 23e ust. 6;
+- **5)** daty dokonania zgłoszenia centralnego;
+- **6)** daty zgłoszenia przez świadczeniobiorcę na udzielenie świadczenia opieki zdrowotnej, jeżeli zgłoszenie zostało dokonane przed umożliwieniem przez świadczeniodawcę dokonywania przez świadczeniobiorcę zgłoszenia centralnego;
+- **7)** terminów udzielania świadczeń obejmujących świadczenia gwarantowane z zakresu leczenia szpitalnego oraz z zakresu ambulatoryjnej opieki specjalistycznej określonych w przepisach wydanych na podstawie art. 31d.
+
+2. Termin udzielenia świadczenia wyznaczony świadczeniobiorcy przed umożliwieniem przez świadczeniodawcę dokonywania przez świadczeniobiorcę zgłoszenia centralnego, staje się terminem udzielenia świadczenia w centralnej elektronicznej rejestracji na świadczenie opieki zdrowotnej, o którym mowa w przepisach wydanych na podstawie art. 23h ust. 2 pkt 1.
+
+3. Jeżeli wyznaczenie świadczeniobiorcy terminu udzielenia świadczenia nie jest możliwe w okresie, o którym mowa w przepisach wydanych na podstawie art. 23h ust. 2 pkt 4, świadczeniobiorca zostaje umieszczony w centralnym wykazie oczekujących oraz otrzymuje informację o prognozowanym terminie udzielenia świadczenia.
+
+4. W przypadku pojawienia się wolnego terminu udzielenia świadczenia termin ten zostaje wyznaczony świadczeniobiorcy umieszczonemu w centralnym wykazie oczekujących.
+
+5. Termin udzielenia świadczenia wyznaczony świadczeniobiorcy może zostać zmieniony przez:
+
+- **1)** świadczeniobiorcę osobiście lub za pośrednictwem osoby trzeciej lub
+- **2)** świadczeniodawcę w przypadku:
+    - **a)** zmiany przez świadczeniodawcę kwalifikacji świadczeniobiorcy do kategorii medycznej ustalonej zgodnie z kryteriami medycznymi, o których mowa w przepisach wydanych na podstawie art. 20 ust. 11, w przypadku zmiany stanu zdrowia świadczeniobiorcy wskazującej na potrzebę wcześniejszego niż w ustalonym terminie udzielenia świadczenia,
+    - **b)** konieczności udzielenia świadczenia opieki zdrowotnej świadczeniobiorcom uprawnionym do korzystania ze świadczeń opieki zdrowotnej poza kolejnością,
+    - **c)** wystąpienia okoliczności, których nie można było przewidzieć w chwili ustalania terminu udzielenia świadczenia, uniemożliwiających zachowanie terminu wynikającego z harmonogramu przyjęć prowadzonego przez świadczeniodawcę.
+
+6. Świadczeniobiorca otrzymuje powiadomienie o:
+
+- **1)** wyznaczeniu mu terminu udzielenia świadczenia w ramach centralnej elektronicznej rejestracji albo umieszczeniu go w centralnym wykazie oczekujących;
+- **2)** zmianie terminu udzielenia świadczenia w ramach centralnej elektronicznej rejestracji, w tym o zmianie tego terminu albo rezygnacji z niego dokonanych przez świadczeniobiorcę oraz o zmianie terminu udzielenia świadczenia dokonanej przez świadczeniodawcę.
+
+7. Świadczeniodawca informuje świadczeniobiorcę o przyczynie zmiany terminu udzielenia świadczenia, a w przypadku, o którym mowa w ust. 5 pkt 2 lit. a – także o zmienionej kwalifikacji do kategorii medycznej.
+
+8. W przypadku zmiany terminu, o której mowa w ust. 5 pkt 2, świadczeniodawca proponuje świadczeniobiorcy inny termin udzielenia świadczenia opieki zdrowotnej u tego świadczeniodawcy, a jeżeli nie jest to możliwe, świadczeniobiorca zgłaszający się po raz pierwszy na udzielenie świadczenia opieki zdrowotnej zostaje umieszczony w centralnym wykazie oczekujących, z zachowaniem kolejności jego zgłoszenia.
+
+9. Do rezygnacji z wyznaczonego terminu udzielenia świadczenia lub do wycofania zgłoszenia centralnego stosuje się odpowiednio przepis art. 23e ust. 3.
+
+10. W przypadku niezgłoszenia się w ustalonym terminie udzielenia świadczenia świadczeniobiorca podlega skreśleniu z harmonogramu przyjęć i centralnego wykazu oczekujących, chyba że uprawdopodobni, że niezgłoszenie się w ustalonym terminie nastąpiło z powodu siły wyższej. Przepis art. 20 ust. 10f stosuje się odpowiednio.
+
+11. W przypadku skreślenia świadczeniobiorcy z harmonogramu przyjęć prowadzonego przez wybranego świadczeniodawcę i centralnego wykazu oczekujących w wyniku niezgłoszenia się w ustalonym terminie udzielenia świadczenia opieki zdrowotnej albo zakończenia przez świadczeniodawcę wykonywania umowy o udzielanie świadczeń opieki zdrowotnej z danego zakresu świadczeń opieki zdrowotnej:
+
+- **1)** świadczeniodawca zwraca oryginał skierowania świadczeniobiorcy – w przypadku skierowania w postaci papierowej;
+- **2)** w celu ponownego użycia skierowania w postaci elektronicznej zmienia się status skierowania w Systemie P1, a zmiana ta jest realizowana przez: o systemie informacji w ochronie zdrowia,
+    - **a)** System P1 – w przypadku rezygnacji z udzielenia świadczenia dokonanej przez świadczeniobiorcę za pośrednictwem Internetowego Konta Pacjenta, o którym mowa w art. 7a ust. 1 ustawy z dnia 28 kwietnia 2011 r.
+    - **b)** świadczeniodawcę – w przypadkach innych niż określony w lit. a.
+
+12. W przypadku zakończenia przez świadczeniodawcę wykonywania umowy o udzielanie świadczeń opieki zdrowotnej świadczeniodawca przenosi świadczeniobiorcę umieszczonego w harmonogramie przyjęć do centralnego wykazu oczekujących z uwzględnieniem daty dokonania zgłoszenia centralnego.
+
+13. Świadczeniobiorcy kontynuującego leczenie nie umieszcza się w centralnym wykazie oczekujących. W przypadku świadczeniobiorcy kontynuującego leczenie termin udzielenia świadczenia w ramach centralnej elektronicznej rejestracji wyznacza świadczeniodawca, u którego jest kontynuowane leczenie, zgodnie z planem leczenia świadczeniobiorcy. Świadczeniobiorca kontynuujący leczenie może samodzielnie lub za pośrednictwem osoby trzeciej odwołać wyznaczony przez świadczeniodawcę termin udzielenia świadczenia. Ponowne wyznaczenie terminu udzielenia świadczenia lub jego zmiana wymaga bezpośredniego uzgodnienia ze świadczeniodawcą.
+
+**Art. 23h.**
+
+1. Przepisy wydane na podstawie ust. 2 pkt 1 uwzględniają świadczenie opieki zdrowotnej wynikające z analizy przeprowadzonej przez ministra właściwego do spraw zdrowia uwzględniającej liczbę oczekujących i czas oczekiwania na udzielenie tego świadczenia oraz warunki, jakie muszą być spełnione w celu uzyskania świadczenia opieki zdrowotnej.
+
+2. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
+
+- **1)** świadczenia opieki zdrowotnej objęte centralną elektroniczną rejestracją,
+- **2)** okres, za który są udostępniane harmonogramy przyjęć prowadzone zgodnie z art. 19a, wraz z dostępnymi terminami udzielenia świadczenia,
+- **3)** sposób powiadamiania świadczeniobiorcy o wyznaczeniu mu terminu udzielenia świadczenia opieki zdrowotnej w ramach centralnej elektronicznej rejestracji i zmianach tego terminu oraz przekazywania świadczeniobiorcy innych informacji dotyczących tego świadczenia,
+- **4)** okres weryfikacji dostępnych terminów udzielenia danego świadczenia opieki zdrowotnej – mając na uwadze zagwarantowanie dostępu do świadczeń opieki zdrowotnej, zapewnienie bezpieczeństwa i integralności danych przetwarzanych na potrzeby centralnej elektronicznej rejestracji oraz specyfikę realizacji świadczeń opieki zdrowotnej objętych centralną elektroniczną rejestracją.
+
+**Art. 23i.** W przypadku uwzględnienia świadczenia opieki zdrowotnej w przepisach wydanych na podstawie art. 23h ust. 2 pkt 1 świadczeniodawca jest obowiązany do:
 
 **Art. 24.** Przepisów art. 19–23 nie stosuje się do świadczeń opieki zdrowotnej z zakresu przeszczepów udzielanych osobom, które są wpisywane na krajowe listy osób oczekujących na przeszczepienie komórek, tkanek i narządów, zgodnie z przepisami o pobieraniu i przeszczepianiu komórek, tkanek i narządów.
 
@@ -722,13 +846,11 @@ Art. 196–228. (pominięte)
 
 3. (uchylony)
 
-4. Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw kultury fizycznej, po zasięgnięciu opinii Prezesa Funduszu i Naczelnej Rady Lekarskiej, określi, w drodze rozporządzenia, tryb orzekania o zdolności do uprawiania danego sportu przez dzieci i młodzież do ukończenia 21. roku życia oraz przez zawodników pomiędzy
-
-21. a 23. rokiem życia, uwzględniając potrzebę szczególnej ochrony zdrowia dzieci i młodzieży.
+4. Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw kultury fizycznej, po zasięgnięciu opinii Prezesa Funduszu i Naczelnej Rady Lekarskiej, określi, w drodze rozporządzenia, tryb orzekania o zdolności do uprawiania danego sportu przez dzieci i młodzież do ukończenia 21. roku życia oraz przez zawodników pomiędzy 21. a 23. rokiem życia, uwzględniając potrzebę szczególnej ochrony zdrowia dzieci i młodzieży.
 
 **Art. 28.** (uchylony)
 
-**Art. 29.** Świadczeniobiorca ma prawo wyboru świadczeniodawcy udzielającego ambulatoryjnych świadczeń specjalistycznych spośród tych świadczeniodawców, którzy zawarli umowy o udzielanie świadczeń opieki zdrowotnej, z zastrzeżeniem art. 325 i art. 599 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny, art. 153 ust. 7a ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2025 r. poz. 914), art. 115 § 1a Kodeksu karnego wykonawczego, art. 112 ust. 1 i 2 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. z 2024 r. poz. 978 i 1228) oraz art. 21 i art. 36 ust. 1 ustawy z dnia 17 sierpnia 2023 r. o szczególnej opiece geriatrycznej (Dz. U. z 2024 r. poz. 1666 i 1897).
+**Art. 29.** Świadczeniobiorca ma prawo wyboru świadczeniodawcy udzielającego ambulatoryjnych świadczeń specjalistycznych spośród tych świadczeniodawców, którzy zawarli umowy o udzielanie świadczeń opieki zdrowotnej, z zastrzeżeniem art. 325 i art. 599 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny, art. 153 ust. 7a ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2025 r. poz. 914), art. 115 § 1a Kodeksu karnego wykonawczego, art. 112 ust. 1 i 2 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. z 2024 r. poz. 978 i
 
 **Art. 30.** Świadczeniobiorca ma prawo wyboru szpitala spośród szpitali, które zawarły umowę o udzielanie świadczeń opieki zdrowotnej, z zastrzeżeniem art. 325 i art. 599 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny, art. 153 ust. 7a ustawy z dnia 12 października 1990 r. o Straży Granicznej, art. 115 § 1a Kodeksu karnego wykonawczego i art. 112 ust. 1 i 2 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich.
 
@@ -742,8 +864,8 @@ Art. 196–228. (pominięte)
 
 4. Świadczenia, o których mowa w ust. 3, są udzielane po przedstawieniu dokumentu potwierdzającego:
 
-- **1)** wiek w przypadku dzieci i młodzieży;
-- **2)** ciążę lub połóg w przypadku kobiet.
+- **1)** wiek – w przypadku dzieci i młodzieży;
+- **2)** ciążę lub połóg – w przypadku kobiet.
 
 #### Rozdział 1a Kwalifikowanie świadczeń opieki zdrowotnej jako świadczeń gwarantowanych
 
@@ -816,11 +938,11 @@ Art. 196–228. (pominięte)
 
 9. Prezes Agencji niezwłocznie zamieszcza zlecenia i rekomendacje na stronie internetowej Agencji oraz w Biuletynie Informacji Publicznej Agencji na zasadach określonych w przepisach o dostępie do informacji publicznej. Art. 31ca. 1. Minister właściwy do spraw zdrowia może zlecić Prezesowi Agencji przygotowanie rekomendacji dotyczącej zasadności stosowania leków w ramach Programu Szczepień Ochronnych, o którym mowa w przepisach o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi.
 
-2. Po otrzymaniu zlecenia, o którym mowa w ust. 1, Prezes Agencji wzywa podmiot odpowiedzialny w rozumieniu ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne do przekazania:
+2. Po otrzymaniu zlecenia, o którym mowa w ust. 1, Prezes Agencji wzywa podmiot odpowiedzialny w rozumieniu ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne do przekazania:
 
 - **1)** analizy klinicznej,
 - **2)** analizy ekonomicznej,
-- **3)** analizy wpływu na budżet podmiotu zobowiązanego do finansowania świadczeń ze środków publicznych o których mowa w art. 25 pkt 14 lit. c tiret pierwsze do trzeciego ustawy o refundacji w terminie 3 miesięcy od dnia otrzymania wezwania.
+- **3)** analizy wpływu na budżet podmiotu zobowiązanego do finansowania świadczeń ze środków publicznych – o których mowa w art. 25 pkt 14 lit. c tiret pierwsze do trzeciego ustawy o refundacji w terminie 3 miesięcy od dnia otrzymania wezwania.
 
 3. Do przygotowania rekomendacji, o której mowa w ust. 1, stosuje się przepisy art. 31c ust. 3–9. Rekomendację wydaje się w terminie 2 miesięcy od dnia otrzymania analiz określonych w ust. 2 albo od upływu terminu na ich przekazanie.
 
@@ -833,7 +955,7 @@ Art. 196–228. (pominięte)
 1. Minister właściwy do spraw zdrowia może:
 
 - **1)** usunąć dane świadczenie opieki zdrowotnej z wykazu świadczeń gwarantowanych albo dokonać zmiany poziomu lub sposobu finansowania lub warunków realizacji świadczenia gwarantowanego, działając z urzędu lub na wniosek,
-- **2)** dokonać zmiany technologii medycznej, działając z urzędu uwzględniając kryteria określone w art. 31a ust. 1.
+- **2)** dokonać zmiany technologii medycznej, działając z urzędu – uwzględniając kryteria określone w art. 31a ust. 1.
 
 1a. Usunięcie danego świadczenia opieki zdrowotnej z wykazu świadczeń gwarantowanych, dokonanie zmiany poziomu lub sposobu finansowania świadczeń gwarantowanych oraz zmiana technologii medycznej następuje po uzyskaniu rekomendacji Prezesa Agencji.
 
@@ -842,9 +964,9 @@ Art. 196–228. (pominięte)
 2. Wnioski w sprawach, o których mowa w ust. 1 pkt 1, mogą składać do ministra właściwego do spraw zdrowia:
 
 - **1)** konsultanci krajowi z dziedziny medycyny odpowiedniej dla danego świadczenia opieki zdrowotnej;
-- **2)** stowarzyszenia będące zgodnie z postanowieniami ich statutów towarzystwami naukowymi o zasięgu krajowym za pośrednictwem konsultantów, o których mowa w pkt 1;
+- **2)** stowarzyszenia będące zgodnie z postanowieniami ich statutów towarzystwami naukowymi o zasięgu krajowym – za pośrednictwem konsultantów, o których mowa w pkt 1;
 - **3)** Prezes Funduszu;
-- **4)** stowarzyszenia i fundacje, których celem statutowym jest ochrona praw pacjenta za pośrednictwem konsultantów, o których mowa w pkt 1.
+- **4)** stowarzyszenia i fundacje, których celem statutowym jest ochrona praw pacjenta – za pośrednictwem konsultantów, o których mowa w pkt 1.
 
 3. Wnioski w sprawach, o których mowa w ust. 1 pkt 1, zawierają:
 
@@ -879,7 +1001,7 @@ Art. 196–228. (pominięte)
 
 - **1)** usunięcia danego świadczenia opieki zdrowotnej z wykazu świadczeń gwarantowanych albo
 - **2)** zmiany poziomu lub sposobu finansowania świadczenia gwarantowanego, albo
-- **3)** zmiany technologii medycznej zwany dalej „raportem w sprawie oceny świadczenia opieki zdrowotnej”.
+- **3)** zmiany technologii medycznej – zwany dalej „raportem w sprawie oceny świadczenia opieki zdrowotnej”.
 
 2. Raport w sprawie oceny świadczenia opieki zdrowotnej zawiera:
 
@@ -1004,8 +1126,8 @@ Art. 196–228. (pominięte)
 
 - **1)** posiada tytuł zawodowy magistra lub równorzędny w dziedzinie nauk medycznych, farmaceutycznych, ekonomicznych, prawnych lub technicznych;
 - **2)** posiada wiedzę z zakresu ochrony zdrowia oraz oceny świadczeń opieki zdrowotnej, farmakoekonomiki, systemów finansowania świadczeń zdrowotnych oraz ekonomiki zdrowia;
-- **3)** posiada co najmniej 3-letni okres zatrudnienia na stanowiskach kierowniczych w:
-    - **a)** podmiotach, o których mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. ), lub
+- **3)** posiada co najmniej 3-letni okres zatrudnienia na stanowiskach kierowniczych w: poz. 1571, z późn. zm. ), lub
+    - **a)** podmiotach, o których mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r.
     - **b)** jednostkach podległych lub nadzorowanych przez ministra właściwego do spraw zdrowia;
 
 - **4)** nie została skazana prawomocnym wyrokiem za umyślnie popełnione przestępstwo lub przestępstwo skarbowe;
@@ -1090,7 +1212,8 @@ Art. 196–228. (pominięte)
 5. Członkom Rady Przejrzystości przysługuje:
 
 - **1)** wynagrodzenie nieprzekraczające 3500 zł za udział w każdym posiedzeniu Rady Przejrzystości, jednak nie więcej niż 10 500 zł miesięcznie;
-- **2)** zwrot kosztów przejazdu w wysokości i na warunkach określonych w przepisach wydanych na podstawie art. 77 § 2 Kodeksu pracy (Dz. U. z 2025 r. poz. 277 i 807).
+- **2)** zwrot kosztów przejazdu w wysokości i na warunkach określonych w przepisach wydanych na podstawie art. 77 § 2 Kodeksu pracy (Dz. U. z 2025 r. poz. 277 i
+- **807)** .
 
 6. Do zadań Rady Przejrzystości należy:
 
@@ -1118,10 +1241,10 @@ Art. 196–228. (pominięte)
 - **5)** prowadzić działalności gospodarczej w zakresie, o którym mowa w pkt 1 i 2;
 - **6)** wykonywać zajęć zarobkowych na podstawie stosunku pracy, umowy o świadczenie usług zarządczych, umowy zlecenia, umowy o dzieło lub innej umowy o podobnym charakterze zawartej z podmiotami, o których mowa w pkt 1–3, chyba że złożą oświadczenie o wykonywaniu zajęć zarobkowych na rzecz określonych podmiotów i wskażą ich zakres.
 
-8a. Kandydaci na członków Rady Przejrzystości przed powołaniem do składu tej Rady składają ministrowi właściwemu do spraw zdrowia, a członkowie Rady Przejrzystości przed każdym posiedzeniem tej Rady składają Prezesowi Agencji, pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. Kodeks karny, oświadczenie o:
+8a. Kandydaci na członków Rady Przejrzystości przed powołaniem do składu tej Rady składają ministrowi właściwemu do spraw zdrowia, a członkowie Rady Przejrzystości przed każdym posiedzeniem tej Rady składają Prezesowi Agencji, pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, oświadczenie o:
 
 - **1)** zaistnieniu lub niezaistnieniu okoliczności określonych w ust. 8,
-- **2)** wykonywaniu lub niewykonywaniu zajęć zarobkowych na podstawie stosunku pracy, umowy o świadczenie usług zarządczych, umowy zlecenia, umowy o dzieło lub innej umowy o podobnym charakterze zawartej z podmiotami, o których mowa w ust. 8 pkt 1–3 zwane dalej „deklaracją o powiązaniach branżowych”, dotyczące ich samych, ich małżonków, zstępnych i wstępnych w linii prostej oraz osób, z którymi pozostają we wspólnym pożyciu.
+- **2)** wykonywaniu lub niewykonywaniu zajęć zarobkowych na podstawie stosunku pracy, umowy o świadczenie usług zarządczych, umowy zlecenia, umowy o dzieło lub innej umowy o podobnym charakterze zawartej z podmiotami, o których mowa w ust. 8 pkt 1–3 – zwane dalej „deklaracją o powiązaniach branżowych”, dotyczące ich samych, ich małżonków, zstępnych i wstępnych w linii prostej oraz osób, z którymi pozostają we wspólnym pożyciu.
 
 8b. Deklaracja o powiązaniach branżowych jest składana w przypadku:
 
@@ -1135,9 +1258,9 @@ Art. 196–228. (pominięte)
 
 - **1)** powód jej złożenia i wskazanie okresu, za jaki jest składana;
 - **2)** imię (imiona) i nazwisko osoby składającej deklarację;
-- **3)** numer PESEL osoby składającej deklarację, a jeżeli nie posiada datę i miejsce urodzenia oraz obywatelstwo;
+- **3)** numer PESEL osoby składającej deklarację, a jeżeli nie posiada – datę i miejsce urodzenia oraz obywatelstwo;
 - **4)** imię (imiona) i nazwisko: małżonka, wstępnych i zstępnych w linii prostej oraz osób, z którymi składający deklarację pozostaje we wspólnym pożyciu;
-- **5)** numery PESEL osób pozostających we wspólnym pożyciu z osobą składającą deklarację, a jeżeli nie posiadają datę i miejsce urodzenia oraz obywatelstwo;
+- **5)** numery PESEL osób pozostających we wspólnym pożyciu z osobą składającą deklarację, a jeżeli nie posiadają – datę i miejsce urodzenia oraz obywatelstwo;
 - **6)** oświadczenie o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
 9. Zaistnienie okoliczności, o których mowa w ust. 8 pkt 1–6, skutkuje odwołaniem członka ze składu Rady Przejrzystości.
@@ -1150,7 +1273,7 @@ Art. 196–228. (pominięte)
 
 11. (uchylony)
 
-12. Osoby niebędące członkami Rady Przejrzystości, którym zleca się przygotowanie ekspertyzy pisemnej lub ustnej lub innego opracowania dla Rady albo w związku z przygotowywaniem ekspertyzy, rekomendacji lub opinii dla Prezesa Agencji, albo w związku z przygotowywaniem stanowiska lub opinii dla Rady składają każdorazowo przed przyjęciem zlecenia deklarację o powiązaniach branżowych dla każdej przygotowanej ekspertyzy, rekomendacji, stanowiska lub opinii.
+12. Osoby niebędące członkami Rady Przejrzystości, którym zleca się przygotowanie ekspertyzy pisemnej lub ustnej lub innego opracowania dla Rady – albo w związku z przygotowywaniem ekspertyzy, rekomendacji lub opinii dla Prezesa Agencji, albo w związku z przygotowywaniem stanowiska lub opinii dla Rady – składają każdorazowo przed przyjęciem zlecenia deklarację o powiązaniach branżowych dla każdej przygotowanej ekspertyzy, rekomendacji, stanowiska lub opinii.
 
 12a. Prezes Agencji analizuje deklaracje o powiązaniach branżowych złożone przez osoby, o których mowa w ust. 12, kierując się zasadą równego traktowania osób składających deklaracje oraz biorąc pod uwagę rodzaj zgłoszonego powiązania branżowego, jego charakter i okoliczności zgłoszonego powiązania branżowego, a także ewentualny wpływ zadeklarowanego powiązania branżowego na postępowanie prowadzone przez Radę Przejrzystości. Analiza jest wykonywana w oparciu o sposób i tryb określone w przepisach wydanych na podstawie art. 31lb ust. 7c, w celu zapewnienia obiektywności rozstrzygnięć podejmowanych przez Agencję, efektywności prowadzonych przez nią postępowań oraz niedopuszczania do udziału w tych postępowaniach osób, w stosunku do których ujawnił się konflikt interesów budzący uzasadnione wątpliwości co do ich bezstronności.
 
@@ -1237,7 +1360,7 @@ Art. 196–228. (pominięte)
 - **5)** prowadzić działalności gospodarczej w zakresie, o którym mowa w pkt 1 lub 2;
 - **6)** wykonywać zajęć zarobkowych na podstawie stosunku pracy, umowy o świadczenie usług zarządczych, umowy zlecenia, umowy o dzieło lub innej umowy o podobnym charakterze zawartej z podmiotami, o których mowa w pkt 1 lub 2.
 
-8a. Kandydaci na członków Rady do spraw Taryfikacji przed powołaniem do składu tej Rady składają ministrowi właściwemu do spraw zdrowia, a członkowie Rady do spraw Taryfikacji przed każdym posiedzeniem tej Rady składają Prezesowi Agencji, pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. Kodeks karny, oświadczenie o zaistnieniu lub niezaistnieniu okoliczności określonych w ust. 8, zwane dalej „oświadczeniem o powiązaniach branżowych”, dotyczące ich samych, ich małżonków, zstępnych i wstępnych w linii prostej oraz osób, z którymi pozostają we wspólnym pożyciu.
+8a. Kandydaci na członków Rady do spraw Taryfikacji przed powołaniem do składu tej Rady składają ministrowi właściwemu do spraw zdrowia, a członkowie Rady do spraw Taryfikacji przed każdym posiedzeniem tej Rady składają Prezesowi Agencji, pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, oświadczenie o zaistnieniu lub niezaistnieniu okoliczności określonych w ust. 8, zwane dalej „oświadczeniem o powiązaniach branżowych”, dotyczące ich samych, ich małżonków, zstępnych i wstępnych w linii prostej oraz osób, z którymi pozostają we wspólnym pożyciu.
 
 8b. Oświadczenie o powiązaniach branżowych jest składane w przypadku:
 
@@ -1252,9 +1375,9 @@ Art. 196–228. (pominięte)
 
 - **1)** powód jego złożenia i wskazanie okresu, za jaki jest składane;
 - **2)** imię (imiona) i nazwisko osoby składającej oświadczenie;
-- **3)** numer PESEL osoby składającej oświadczenie, a jeżeli nie posiada datę i miejsce urodzenia oraz obywatelstwo;
+- **3)** numer PESEL osoby składającej oświadczenie, a jeżeli nie posiada – datę i miejsce urodzenia oraz obywatelstwo;
 - **4)** imię (imiona) i nazwisko: małżonka, wstępnych i zstępnych w linii prostej oraz osób, z którymi składający oświadczenie pozostaje we wspólnym pożyciu;
-- **5)** numery PESEL osób pozostających we wspólnym pożyciu z osobą składającą oświadczenie, a jeżeli nie posiadają datę i miejsce urodzenia oraz obywatelstwo;
+- **5)** numery PESEL osób pozostających we wspólnym pożyciu z osobą składającą oświadczenie, a jeżeli nie posiadają – datę i miejsce urodzenia oraz obywatelstwo;
 - **6)** oświadczenie o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
 9. Zaistnienie okoliczności, o których mowa w ust. 8, skutkuje odwołaniem członka ze składu Rady do spraw Taryfikacji.
@@ -1263,7 +1386,7 @@ Art. 196–228. (pominięte)
 
 9b. W przypadku poświadczenia nieprawdy w oświadczeniu o powiązaniach branżowych minister właściwy do spraw zdrowia odwołuje członka Rady do spraw Taryfikacji.
 
-10. Osoby niebędące członkami Rady do spraw Taryfikacji, którym zleca się przygotowanie ekspertyzy pisemnej lub ustnej lub innego opracowania dla Rady albo w związku z przygotowywaniem ekspertyzy, rekomendacji lub opinii dla Prezesa Agencji, albo w związku z przygotowywaniem stanowiska lub opinii dla Rady składają każdorazowo przed przyjęciem zlecenia oświadczenie o powiązaniach branżowych dla każdej przygotowanej ekspertyzy, rekomendacji, stanowiska lub opinii.
+10. Osoby niebędące członkami Rady do spraw Taryfikacji, którym zleca się przygotowanie ekspertyzy pisemnej lub ustnej lub innego opracowania dla Rady – albo w związku z przygotowywaniem ekspertyzy, rekomendacji lub opinii dla Prezesa Agencji, albo w związku z przygotowywaniem stanowiska lub opinii dla Rady – składają każdorazowo przed przyjęciem zlecenia oświadczenie o powiązaniach branżowych dla każdej przygotowanej ekspertyzy, rekomendacji, stanowiska lub opinii.
 
 10a. Prezes Agencji analizuje oświadczenia o powiązaniach branżowych złożone przez osoby, o których mowa w ust. 10, kierując się zasadą równego traktowania osób składających oświadczenia oraz biorąc pod uwagę rodzaj zgłoszonego powiązania branżowego, jego charakter i okoliczności zgłoszonego powiązania branżowego, a także ewentualny wpływ zadeklarowanego powiązania branżowego na postępowanie prowadzone przez Radę do spraw Taryfikacji. Analiza jest wykonywana w oparciu o sposób i tryb określone w przepisach wydanych na podstawie art. 31lb ust. 7c, w celu zapewnienia obiektywności rozstrzygnięć podejmowanych przez Agencję, efektywności prowadzonych przez nią postępowań oraz niedopuszczania do udziału w tych postępowaniach osób, w stosunku do których ujawnił się konflikt interesów budzący uzasadnione wątpliwości co do ich bezstronności.
 
@@ -1408,7 +1531,7 @@ Art. 196–228. (pominięte)
 2. Świadczeniobiorca, u którego:
 
 - **1)** w wyniku diagnostyki onkologicznej stwierdzono nowotwór złośliwy lub miejscowo złośliwy,
-- **2)** lekarz udzielający świadczeń szpitalnych lub świadczeń w ramach programów zdrowotnych stwierdził nowotwór złośliwy lub miejscowo złośliwy ma prawo do leczenia onkologicznego na podstawie karty diagnostyki i leczenia onkologicznego bez skierowania, o którym mowa w art. 57 ust. 1 lub art. 58.
+- **2)** lekarz udzielający świadczeń szpitalnych lub świadczeń w ramach programów zdrowotnych stwierdził nowotwór złośliwy lub miejscowo złośliwy – ma prawo do leczenia onkologicznego na podstawie karty diagnostyki i leczenia onkologicznego bez skierowania, o którym mowa w art. 57 ust. 1 lub art. 58.
 
 2a. (uchylony)
 
@@ -1442,12 +1565,12 @@ Art. 196–228. (pominięte)
 
 17. (uchylony)
 
-18. (uchylony) Art. 32aa. 28) 1. Świadczeniobiorca, u którego lekarz podstawowej opieki zdrowotnej albo lekarz udzielający ambulatoryjnych świadczeń specjalistycznych stwierdził podejrzenie choroby układu krążenia, ma prawo do diagnostyki kardiologicznej na podstawie elektronicznej Karty Opieki Kardiologicznej, o której mowa w art. 39 ust. 1 ustawy z dnia 4 czerwca 2025 r. o Krajowej Sieci Kardiologicznej, bez skierowania, o którym mowa w art. 32.
+18. (uchylony) Art. 32aa. 1. Świadczeniobiorca, u którego lekarz podstawowej opieki zdrowotnej albo lekarz udzielający ambulatoryjnych świadczeń specjalistycznych stwierdził podejrzenie choroby układu krążenia, ma prawo do diagnostyki kardiologicznej na podstawie elektronicznej Karty Opieki Kardiologicznej, o której mowa w art. 39 ust. 1 ustawy z dnia 4 czerwca 2025 r. o Krajowej Sieci Kardiologicznej, bez skierowania, o którym mowa w art. 32.
 
 2. Świadczeniobiorca, u którego:
 
 - **1)** w wyniku diagnostyki kardiologicznej stwierdzono chorobę układu krążenia,
-- **2)** lekarz udzielający świadczeń szpitalnych lub świadczeń w ramach programów zdrowotnych stwierdził chorobę układu krążenia ma prawo do opieki kardiologicznej na podstawie elektronicznej Karty Opieki Kardiologicznej, o której mowa w art. 39 ust. 1 ustawy z dnia 4 czerwca 2025 r. o Krajowej Sieci Kardiologicznej, bez skierowania, o którym mowa w art. 33a, art. 57 ust. 1, art. 58 lub art. 59.
+- **2)** lekarz udzielający świadczeń szpitalnych lub świadczeń w ramach programów zdrowotnych stwierdził chorobę układu krążenia – ma prawo do opieki kardiologicznej na podstawie elektronicznej Karty Opieki Kardiologicznej, o której mowa w art. 39 ust. 1 ustawy z dnia 4 czerwca 2025 r. o Krajowej Sieci Kardiologicznej, bez skierowania, o którym mowa w art. 33a, art. 57 ust. 1, art. 58 lub art. 59.
 
 **Art. 32b.** (uchylony)
 
@@ -1463,12 +1586,12 @@ Art. 196–228. (pominięte)
 
 3. Świadczeniobiorca ponosi koszty przejazdu na leczenie uzdrowiskowe albo rehabilitację uzdrowiskową i z leczenia uzdrowiskowego albo rehabilitacji uzdrowiskowej oraz częściową odpłatność za wyżywienie i zakwaterowanie w sanatorium uzdrowiskowym. Podmiot zobowiązany do finansowania świadczeń opieki zdrowotnej ze środków publicznych pokrywa do wysokości określonej w umowie Funduszu z sanatorium uzdrowiskowym różnicę kosztów wyżywienia i zakwaterowania ubezpieczonego.
 
-4. Dzieci i młodzież do ukończenia lat 18, a jeżeli kształcą się dalej do ukończenia lat 26, dzieci niepełnosprawne w znacznym stopniu bez ograniczenia wieku, a także dzieci uprawnione do renty rodzinnej nie ponoszą odpłatności za koszty wyżywienia i zakwaterowania w szpitalu uzdrowiskowym dla dzieci, sanatorium uzdrowiskowym dla dzieci i sanatorium uzdrowiskowym.
+4. Dzieci i młodzież do ukończenia lat 18, a jeżeli kształcą się dalej – do ukończenia lat 26, dzieci niepełnosprawne w znacznym stopniu – bez ograniczenia wieku, a także dzieci uprawnione do renty rodzinnej nie ponoszą odpłatności za koszty wyżywienia i zakwaterowania w szpitalu uzdrowiskowym dla dzieci, sanatorium uzdrowiskowym dla dzieci i sanatorium uzdrowiskowym.
 
 5. Minister właściwy do spraw zdrowia, po zasięgnięciu opinii Prezesa Funduszu oraz Naczelnej Rady Lekarskiej, określi, w drodze rozporządzenia:
 
 - **1)** sposób wystawiania skierowania na leczenie uzdrowiskowe albo rehabilitację uzdrowiskową przez lekarza ubezpieczenia zdrowotnego,
-- **2)** tryb potwierdzania skierowania na leczenie uzdrowiskowe albo rehabilitację uzdrowiskową oraz wzór tego skierowania uwzględniając konieczność weryfikacji celowości skierowania na leczenie uzdrowiskowe albo rehabilitację uzdrowiskową.
+- **2)** tryb potwierdzania skierowania na leczenie uzdrowiskowe albo rehabilitację uzdrowiskową oraz wzór tego skierowania – uwzględniając konieczność weryfikacji celowości skierowania na leczenie uzdrowiskowe albo rehabilitację uzdrowiskową.
 
 **Art. 33a.**
 
@@ -1478,11 +1601,13 @@ Art. 196–228. (pominięte)
 
 - **1)** sposób i tryb kierowania osób do zakładów opiekuńczo-leczniczych i pielęgnacyjno-opiekuńczych,
 - **2)** dokumentację wymaganą przy kierowaniu osób do zakładów opiekuńczo-leczniczych i pielęgnacyjno-opiekuńczych, w tym wzory: wniosku o wydanie skierowania do zakładu, zaświadczenia lekarskiego oraz wywiadu pielęgniarskiego,
-- **3)** sposób ustalania odpłatności za pobyt w zakładach opiekuńczo-leczniczych i pielęgnacyjno-opiekuńczych uwzględniając konieczność ujednolicenia trybu kierowania do zakładów oraz możliwość weryfikacji celowości skierowania do zakładów.
+- **3)** sposób ustalania odpłatności za pobyt w zakładach opiekuńczo-leczniczych i pielęgnacyjno-opiekuńczych – uwzględniając konieczność ujednolicenia trybu kierowania do zakładów oraz możliwość weryfikacji celowości skierowania do zakładów.
 
 **Art. 33b.**
 
-1. W przypadku gdy stan zdrowia świadczeniobiorcy wymaga wykonywania procedur medycznych stosowanych w leczeniu szpitalnym, ale nie wymaga udzielania całodobowych lub całodziennych świadczeń opieki zdrowotnej w odpowiednio urządzonych, stałych pomieszczeniach podmiotu leczniczego, świadczeniodawca zapewnia bezpłatnie na wniosek świadczeniobiorcy zakwaterowanie w innym miejscu, w którym świadczy się usługi hotelarskie w rozumieniu przepisów ustawy z dnia 29 sierpnia 1997 r. o usługach hotelarskich oraz usługach pilotów wycieczek i przewodników turystycznych (Dz. U. z 2023 r. poz. 1944) w zakresie krótkotrwałego, ogólnie dostępnego wynajmowania domów, mieszkań i pokoi. Informację tę odnotowuje się w dokumentacji medycznej.
+1. W przypadku gdy stan zdrowia świadczeniobiorcy wymaga wykonywania procedur medycznych stosowanych w leczeniu szpitalnym, ale nie wymaga udzielania całodobowych lub całodziennych świadczeń opieki zdrowotnej w odpowiednio urządzonych, stałych pomieszczeniach podmiotu leczniczego, świadczeniodawca zapewnia bezpłatnie na wniosek świadczeniobiorcy zakwaterowanie w innym miejscu, w którym świadczy się usługi hotelarskie w rozumieniu przepisów ustawy z dnia 29 sierpnia 1997 r. o usługach hotelarskich oraz usługach pilotów wycieczek i przewodników turystycznych (Dz. U. z 2023 r. poz.
+
+- **1944)** w zakresie krótkotrwałego, ogólnie dostępnego wynajmowania domów, mieszkań i pokoi. Informację tę odnotowuje się w dokumentacji medycznej.
 
 2. Świadczeniobiorcy, który korzysta z zakwaterowania na podstawie ust. 1, przysługuje bezpłatnie, na jego wniosek, transport z miejsca tego zakwaterowania do miejsca udzielania świadczeń.
 
@@ -1523,7 +1648,7 @@ Art. 196–228. (pominięte)
 - **1)** konieczności podjęcia natychmiastowego leczenia w podmiocie leczniczym;
 - **2)** wynikających z potrzeby zachowania ciągłości leczenia.
 
-2. Świadczeniobiorcy, na podstawie zlecenia lekarza ubezpieczenia zdrowotnego lub felczera ubezpieczenia zdrowotnego, przysługuje bezpłatny przejazd środkami transportu sanitarnego w przypadku dysfunkcji narządu ruchu uniemożliwiającej korzystanie ze środków transportu publicznego, w celu odbycia leczenia do najbliższego podmiotu leczniczego udzielającego świadczeń we właściwym zakresie, i z powrotem.
+2. Świadczeniobiorcy, na podstawie zlecenia lekarza ubezpieczenia zdrowotnego lub felczera ubezpieczenia zdrowotnego, przysługuje bezpłatny przejazd środkami transportu sanitarnego – w przypadku dysfunkcji narządu ruchu uniemożliwiającej korzystanie ze środków transportu publicznego, w celu odbycia leczenia – do najbliższego podmiotu leczniczego udzielającego świadczeń we właściwym zakresie, i z powrotem.
 
 3. W przypadkach niewymienionych w ust. 1 i 2 na podstawie zlecenia lekarza ubezpieczenia zdrowotnego lub felczera ubezpieczenia zdrowotnego świadczeniobiorcy przysługuje przejazd środkami transportu sanitarnego odpłatnie lub za częściową odpłatnością.
 
@@ -1542,13 +1667,13 @@ Art. 196–228. (pominięte)
 2. Świadczenia opieki zdrowotnej niezakwalifikowane jako świadczenia gwarantowane, odpłatne świadczenia opieki zdrowotnej udzielane:
 
 - **1)** funkcjonariuszom Policji, Straży Granicznej, Biura Ochrony Rządu, Służby Ochrony Państwa, strażakom Państwowej Straży Pożarnej, a także pracownikom tych służb, po ich zwolnieniu ze służby lub ustaniu umowy o pracę, a także
-- **2)** funkcjonariuszom Agencji Bezpieczeństwa Wewnętrznego i Agencji Wywiadu po ich zwolnieniu ze służby w związku z urazami nabytymi podczas wykonywania zadań poza granicami państwa, pokrywa się z budżetu państwa z części, której dysponentem jest odpowiednio minister właściwy do spraw wewnętrznych, Szef Agencji Bezpieczeństwa Wewnętrznego albo Szef Agencji Wywiadu.
+- **2)** funkcjonariuszom Agencji Bezpieczeństwa Wewnętrznego i Agencji Wywiadu po ich zwolnieniu ze służby – w związku z urazami nabytymi podczas wykonywania zadań poza granicami państwa, pokrywa się z budżetu państwa z części, której dysponentem jest odpowiednio minister właściwy do spraw wewnętrznych, Szef Agencji Bezpieczeństwa Wewnętrznego albo Szef Agencji Wywiadu.
 
 2a. Prezes Rady Ministrów, Minister Obrony Narodowej oraz minister właściwy do spraw wewnętrznych, każdy w swoim zakresie, określą, w drodze rozporządzenia:
 
 - **1)** szczegółowe warunki otrzymywania świadczeń opieki zdrowotnej, o których mowa w ust. 1, 1a i 2;
 - **2)** tryb postępowania w sprawach, o których mowa w pkt 1,
-- **3)** sposób i tryb finansowania ponoszonych kosztów uwzględniając zasady wydatkowania środków publicznych.
+- **3)** sposób i tryb finansowania ponoszonych kosztów – uwzględniając zasady wydatkowania środków publicznych.
 
 #### Rozdział 2a Świadczenia opieki zdrowotnej udzielone poza granicami kraju
 
@@ -1598,9 +1723,9 @@ Art. 196–228. (pominięte)
 1. Fundusz dokonuje zwrotu kosztów w wysokości odpowiadającej kwocie:
 
 - **1)** finansowania danego świadczenia gwarantowanego stosowanej w rozliczeniach między Funduszem a świadczeniodawcami z tytułu umowy o udzielanie świadczeń opieki zdrowotnej;
-- **2)** finansowania danego świadczenia gwarantowanego w przypadku medycznych czynności ratunkowych wykonanych przez zespoły ratownictwa medycznego oraz świadczeń udzielanych w ramach programów zdrowotnych finansowanych z budżetu państwa;
+- **2)** finansowania danego świadczenia gwarantowanego – w przypadku medycznych czynności ratunkowych wykonanych przez zespoły ratownictwa medycznego oraz świadczeń udzielanych w ramach programów zdrowotnych finansowanych z budżetu państwa;
 - **3)** limitu finansowania danego leku, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego, zawartych w danym wskazaniu w wykazie, o którym mowa w art. 37 ust. 1 ustawy o refundacji, z uwzględnieniem odpłatności, o której mowa w art. 14 ustawy o refundacji, w zakresie dotyczącym leków, środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych, o których mowa w art. 6 ust. 1 pkt 1 ustawy o refundacji, lub mających w tym wykazie swój odpowiednik refundowany w danym wskazaniu, w rozumieniu art. 2 pkt 13 ustawy o refundacji;
-- **4)** odpowiadającej wartości wyrobu medycznego, nie wyższej niż limit finansowania ze środków publicznych dla danego wyrobu medycznego wynikający z przepisów wydanych na podstawie art. 38 ust. 4 ustawy o refundacji, z uwzględnieniem przepisów art. 47 ust. 1–2a w przypadku świadczeń, o których mowa w art. 15 ust. 2 pkt 9.
+- **4)** odpowiadającej wartości wyrobu medycznego, nie wyższej niż limit finansowania ze środków publicznych dla danego wyrobu medycznego wynikający z przepisów wydanych na podstawie art. 38 ust. 4 ustawy o refundacji, z uwzględnieniem przepisów art. 47 ust. 1–2a – w przypadku świadczeń, o których mowa w art. 15 ust. 2 pkt 9.
 
 2. W przypadku gdy procedura medyczna wykonana na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego UE lub EOG mieści się w zakresie świadczeń gwarantowanych, nie mając dokładnego odpowiednika wśród procedur medycznych wykonywanych w kraju, za podstawę zwrotu kosztów przyjmuje się kwotę finansowania procedury medycznej, mieszczącej się w zakresie tych świadczeń, najbardziej zbliżonej pod względem medycznym do procedury wykonanej na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego UE lub EOG.
 
@@ -1653,21 +1778,21 @@ Art. 196–228. (pominięte)
 
 4. Wniosek o zwrot kosztów zawiera:
 
-- **1)** imię i nazwisko oraz numer PESEL świadczeniobiorcy, a w przypadku jego braku numer dokumentu potwierdzającego tożsamość i datę urodzenia;
+- **1)** imię i nazwisko oraz numer PESEL świadczeniobiorcy, a w przypadku jego braku – numer dokumentu potwierdzającego tożsamość i datę urodzenia;
 - **2)** adres miejsca zamieszkania świadczeniobiorcy oraz adres do korespondencji;
-- **3)** imię i nazwisko oraz numer PESEL przedstawiciela ustawowego świadczeniobiorcy, a w przypadku jego braku numer dokumentu potwierdzającego tożsamość i datę urodzenia, jeżeli wniosek o zwrot kosztów składa przedstawiciel ustawowy;
+- **3)** imię i nazwisko oraz numer PESEL przedstawiciela ustawowego świadczeniobiorcy, a w przypadku jego braku – numer dokumentu potwierdzającego tożsamość i datę urodzenia, jeżeli wniosek o zwrot kosztów składa przedstawiciel ustawowy;
 - **4)** adres miejsca zamieszkania oraz adres do korespondencji przedstawiciela ustawowego świadczeniobiorcy, jeżeli wniosek o zwrot kosztów składa przedstawiciel ustawowy;
 - **5)** termin i państwo udzielenia świadczenia opieki zdrowotnej, którego dotyczy wniosek o zwrot kosztów;
 - **6)** łączną kwotę, którą uiszczono za świadczenie opieki zdrowotnej, którego dotyczy wniosek o zwrot kosztów, z podaniem waluty;
 - **7)** numer telefonu lub adres poczty elektronicznej świadczeniobiorcy lub jego przedstawiciela ustawowego, jeżeli posiada;
 - **8)** numer decyzji, o której mowa w art. 42f ust. 1, jeżeli świadczenie opieki zdrowotnej, którego dotyczy wniosek o zwrot kosztów, znajduje się w wykazie, o którym mowa w art. 42e ust. 1;
-- **9)** numer rachunku bankowego, w przypadku gdy zwrot kosztów ma zostać dokonany w drodze przelewu bankowego, a w przypadku rachunku prowadzonego za granicą również inne niezbędne dane tego rachunku;
+- **9)** numer rachunku bankowego, w przypadku gdy zwrot kosztów ma zostać dokonany w drodze przelewu bankowego, a w przypadku rachunku prowadzonego za granicą – również inne niezbędne dane tego rachunku;
 - **10)** imię i nazwisko oraz adres posiadacza rachunku bankowego, jeżeli rachunek ten nie należy do świadczeniobiorcy, którego dotyczy wniosek o zwrot kosztów;
 - **11)** adres, na który ma zostać przekazany przekaz pocztowy, jeżeli zwrot kosztów ma zostać dokonany w drodze przekazu pocztowego;
 - **12)** spis załączników do wniosku o zwrot kosztów;
 - **13)** oświadczenie osoby składającej wniosek, złożone pod rygorem odpowiedzialności karnej z art. 233 § 1 i 2 Kodeksu karnego, że dane zawarte we wniosku są zgodne ze stanem faktycznym.
 
-4a. W przypadku recepty transgranicznej w postaci elektronicznej, we wniosku o zwrot kosztów podaje się klucz dostępu do recepty lub pakietu recept, o którym mowa w art. 96b ust. 1 pkt 1 ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne.
+4a. W przypadku recepty transgranicznej w postaci elektronicznej, we wniosku o zwrot kosztów podaje się klucz dostępu do recepty lub pakietu recept, o którym mowa w art. 96b ust. 1 pkt 1 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne.
 
 5. Do wniosku o zwrot kosztów dołącza się:
 
@@ -1683,7 +1808,7 @@ Art. 196–228. (pominięte)
 
 - **1)** dane wystawcy rachunku oraz datę jego wystawienia;
 - **2)** dane świadczeniobiorcy, którego dotyczy wniosek o zwrot kosztów;
-- **3)** dane niezbędne do zidentyfikowania świadczenia, którego dotyczy wniosek o zwrot kosztów, w szczególności informacje umożliwiające określenie kodów Międzynarodowej Klasyfikacji Procedur Medycznych ICD-9 oraz Międzynarodowej Statystycznej Klasyfikacji Chorób i Problemów Zdrowotnych ICD-10 albo dane dotyczące wydanych leków, środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych.
+- **3)** dane niezbędne do zidentyfikowania świadczenia, którego dotyczy wniosek o zwrot kosztów, w szczególności informacje umożliwiające określenie kodów Międzynarodowej Klasyfikacji Procedur Medycznych ICD-9 oraz obowiązującej Międzynarodowej Klasyfikacji Chorób i Problemów Zdrowotnych albo dane dotyczące wydanych leków, środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych.
 
 7. W przypadku gdy rachunek, o którym mowa w ust. 5 pkt 1, nie zawiera danych, o których mowa w ust. 6 pkt 3, dane te powinny być zawarte w dołączonej do wniosku o zwrot kosztów dokumentacji.
 
@@ -1718,7 +1843,7 @@ Art. 196–228. (pominięte)
 
 - **1)** uchylenia decyzji, o której mowa w ust. 1, i rozpatrzenia sprawy co do istoty,
 - **2)** uchylenia decyzji, o której mowa w ust. 1, w przypadku wznowienia postępowania,
-- **3)** nieważności decyzji, o której mowa w ust. 1 po dokonaniu przez Fundusz zwrotu kosztów świadczeniobiorca, który otrzymał zwrot kosztów, jest obowiązany do zwrotu nienależnie otrzymanej kwoty.
+- **3)** nieważności decyzji, o której mowa w ust. 1 – po dokonaniu przez Fundusz zwrotu kosztów świadczeniobiorca, który otrzymał zwrot kosztów, jest obowiązany do zwrotu nienależnie otrzymanej kwoty.
 
 21. Kwota, o której mowa w ust. 20, podlega ściągnięciu w trybie przepisów o postępowaniu egzekucyjnym w administracji. Prezes Funduszu wydaje decyzję administracyjną ustalającą obowiązek zwrotu tej kwoty, jej wysokość oraz termin płatności. Decyzja Prezesa Funduszu jest ostateczna. Od decyzji przysługuje skarga do sądu administracyjnego.
 
@@ -1763,9 +1888,9 @@ Art. 196–228. (pominięte)
 4. Wniosek, o którym mowa w ust. 1, zawiera:
 
 - **1)** w części wypełnianej przez świadczeniobiorcę, jego przedstawiciela ustawowego, małżonka, krewnego lub powinowatego do drugiego stopnia w linii prostej, osobę pozostającą we wspólnym pożyciu lub osobę upoważnioną przez świadczeniobiorcę:
-    - **a)** imię i nazwisko oraz numer PESEL wnioskodawcy, a w przypadku jego braku numer dokumentu potwierdzającego tożsamość i datę urodzenia wnioskodawcy,
+    - **a)** imię i nazwisko oraz numer PESEL wnioskodawcy, a w przypadku jego braku – numer dokumentu potwierdzającego tożsamość i datę urodzenia wnioskodawcy,
     - **b)** adres miejsca zamieszkania oraz adres do korespondencji świadczeniobiorcy,
-    - **c)** imię i nazwisko oraz numer PESEL przedstawiciela ustawowego świadczeniobiorcy, małżonka, krewnego lub powinowatego do drugiego stopnia w linii prostej, osoby pozostającej we wspólnym pożyciu lub osoby upoważnionej przez świadczeniobiorcę, a w przypadku jego braku numer dokumentu potwierdzającego tożsamość i datę urodzenia, jeżeli wniosek składa przedstawiciel ustawowy, małżonek, krewny lub powinowaty do drugiego stopnia w linii prostej, osoba pozostająca we wspólnym pożyciu lub osoba upoważniona przez świadczeniobiorcę,
+    - **c)** imię i nazwisko oraz numer PESEL przedstawiciela ustawowego świadczeniobiorcy, małżonka, krewnego lub powinowatego do drugiego stopnia w linii prostej, osoby pozostającej we wspólnym pożyciu lub osoby upoważnionej przez świadczeniobiorcę, a w przypadku jego braku – numer dokumentu potwierdzającego tożsamość i datę urodzenia, jeżeli wniosek składa przedstawiciel ustawowy, małżonek, krewny lub powinowaty do drugiego stopnia w linii prostej, osoba pozostająca we wspólnym pożyciu lub osoba upoważniona przez świadczeniobiorcę,
     - **d)** adres miejsca zamieszkania oraz adres do korespondencji przedstawiciela ustawowego świadczeniobiorcy, małżonka, krewnego lub powinowatego do drugiego stopnia w linii prostej, osoby pozostającej we wspólnym pożyciu lub osoby upoważnionej przez świadczeniobiorcę, jeżeli wniosek składa przedstawiciel ustawowy, małżonek, krewny lub powinowaty do drugiego stopnia w linii prostej, osoba pozostająca we wspólnym pożyciu lub osoba upoważniona przez świadczeniobiorcę,
     - **e)** numer telefonu lub adres poczty elektronicznej świadczeniobiorcy, jego przedstawiciela ustawowego, małżonka, krewnego lub powinowatego do drugiego stopnia w linii prostej, osoby pozostającej we wspólnym pożyciu lub osoby upoważnionej przez świadczeniobiorcę, jeżeli posiada,
     - **f)** wskazanie podmiotu udzielającego świadczeń zdrowotnych, działającego w innym państwie członkowskim UE lub EOG, mającego udzielić świadczeń opieki zdrowotnej, których dotyczy wniosek, wraz z uzasadnieniem,
@@ -1775,7 +1900,7 @@ Art. 196–228. (pominięte)
     - **a)** imię i nazwisko lekarza wypełniającego wniosek,
     - **b)** pieczątkę, nadruk albo naklejkę zawierające numer prawa wykonywania zawodu oraz specjalizację lekarza wypełniającego wniosek,
     - **c)** pieczątkę, nadruk albo naklejkę zawierające nazwę i adres świadczeniodawcy, u którego lekarz wypełniający wniosek udziela świadczeń opieki zdrowotnej,
-    - **d)** rozpoznanie kliniczne dotyczące problemu zdrowotnego, stanowiącego przyczynę złożenia wniosku, oraz rozpoznania współistniejące, z zastosowaniem Międzynarodowej Statystycznej Klasyfikacji Chorób i Problemów Zdrowotnych ICD-10,
+    - **d)** rozpoznanie kliniczne dotyczące problemu zdrowotnego, stanowiącego przyczynę złożenia wniosku, oraz rozpoznania współistniejące, z zastosowaniem obowiązującej Międzynarodowej Klasyfikacji Chorób i Problemów Zdrowotnych,
     - **e)** informację o dotychczasowym przebiegu choroby i zastosowanym leczeniu,
     - **f)** prognozę prawdopodobnego dalszego przebiegu choroby,
     - **g)** wskazanie szczegółowego zakresu leczenia lub badań diagnostycznych, których dotyczy wniosek,
@@ -1785,7 +1910,10 @@ Art. 196–228. (pominięte)
 
 5. Do wniosku, o którym mowa w ust. 1:
 
-- **1)** dołącza się oświadczenie wnioskodawcy o wpisie świadczeniobiorcy, którego dotyczy wniosek, na listę oczekujących na udzielenie świadczenia oraz o zakwalifikowaniu do kategorii medycznej, ustalonej zgodnie z kryteriami medycznymi określonymi w przepisach wydanych na podstawie art. 20 ust. 11, i terminie udzielenia świadczenia, ze wskazaniem świadczeniodawcy prowadzącego tę listę, oraz dokumentację medyczną, a w przypadku dokumentacji medycznej sporządzonej w języku obcym tłumaczenie tej dokumentacji na język polski; tłumaczenie nie musi być sporządzone przez tłumacza przysięgłego;
+- **1)** dołącza się:
+    - **a)** dokumentację medyczną, a w przypadku dokumentacji medycznej sporządzonej w języku obcym – tłumaczenie tej dokumentacji na język polski, które nie musi być sporządzone przez tłumacza przysięgłego,
+    - **b)** oświadczenie wnioskodawcy o: – wpisie świadczeniobiorcy, którego dotyczy wniosek, na listę oczekujących na udzielenie świadczenia oraz zakwalifikowaniu do kategorii medycznej ustalonej zgodnie z kryteriami medycznymi, o których mowa w przepisach wydanych na podstawie art. 20 ust. 11, i terminie udzielenia świadczenia, ze wskazaniem świadczeniodawcy prowadzącego tę listę – w przypadku świadczeń opieki zdrowotnej, na które są prowadzone listy oczekujących, albo – dokonanym zgłoszeniu centralnym w przypadku świadczeń opieki zdrowotnej, o których mowa w przepisach wydanych na podstawie art. 23h ust. 2 pkt 1, oraz umieszczeniu świadczeniobiorcy w centralnym wykazie oczekujących lub wyznaczeniu terminu udzielenia świadczenia u wybranego świadczeniodawcy;
+
 - **2)** można dołączyć oświadczenie, że świadczeniobiorca na podstawie wniosku, o którym mowa w ust. 1, sprzeciwia się wydaniu zgody, o której mowa w art. 42i ust. 1.
 
 6. Przy rozpatrywaniu wniosku, o którym mowa w ust. 1, uwzględnia się pilność danego przypadku ocenianą przy uwzględnieniu aktualnego stanu zdrowia świadczeniobiorcy, stopnia odczuwanych dolegliwości lub charakteru jego niepełnosprawności, historii choroby i przewidywanego jej rozwoju.
@@ -1814,8 +1942,8 @@ Art. 196–228. (pominięte)
 
 2. Prezes Funduszu może wydać wnioskodawcy, który uzyskał zgodę, o której mowa w ust. 1, na wniosek podmiotu uprawnionego, w drodze decyzji administracyjnej, zgodę na pokrycie kosztów transportu:
 
-- **1)** do miejsca udzielenia świadczeń w innym państwie członkowskim UE lub EFTA, lub Zjednoczonym Królestwie najtańszym środkiem komunikacji możliwym do zastosowania w aktualnym stanie zdrowia, w przypadkach uzasadnionych stanem zdrowia;
-- **2)** do miejsca leczenia lub zamieszkania w kraju najtańszym środkiem komunikacji możliwym do zastosowania w aktualnym stanie zdrowia, w przypadkach uzasadnionych stanem zdrowia.
+- **1)** do miejsca udzielenia świadczeń w innym państwie członkowskim UE lub EFTA, lub Zjednoczonym Królestwie – najtańszym środkiem komunikacji możliwym do zastosowania w aktualnym stanie zdrowia, w przypadkach uzasadnionych stanem zdrowia;
+- **2)** do miejsca leczenia lub zamieszkania w kraju – najtańszym środkiem komunikacji możliwym do zastosowania w aktualnym stanie zdrowia, w przypadkach uzasadnionych stanem zdrowia.
 
 2a. Wniosek, o którym mowa w ust. 1, 2 i 9, może zostać złożony również w formie dokumentu elektronicznego, opatrzonego kwalifikowanym podpisem elektronicznym, podpisem osobistym albo podpisem zaufanym. Wymagane załączniki mogą być odwzorowane cyfrowo.
 
@@ -1826,9 +1954,9 @@ Art. 196–228. (pominięte)
 5. Wniosek, o którym mowa w ust. 1, zawiera:
 
 - **1)** w części wypełnianej przez wnioskodawcę, jego przedstawiciela ustawowego, małżonka, krewnego lub powinowatego do drugiego stopnia w linii prostej, osobę pozostającą we wspólnym pożyciu lub osobę upoważnioną przez wnioskodawcę:
-    - **a)** imię i nazwisko oraz numer PESEL wnioskodawcy, a w przypadku jego braku numer dokumentu potwierdzającego tożsamość i datę urodzenia wnioskodawcy,
+    - **a)** imię i nazwisko oraz numer PESEL wnioskodawcy, a w przypadku jego braku – numer dokumentu potwierdzającego tożsamość i datę urodzenia wnioskodawcy,
     - **b)** adres miejsca zamieszkania oraz adres do korespondencji wnioskodawcy,
-    - **c)** imię i nazwisko oraz numer PESEL przedstawiciela ustawowego wnioskodawcy, małżonka, krewnego lub powinowatego do drugiego stopnia w linii prostej, osoby pozostającej we wspólnym pożyciu lub osoby upoważnionej przez wnioskodawcę, a w przypadku jego braku numer dokumentu potwierdzającego tożsamość i datę urodzenia, jeżeli wniosek składa przedstawiciel ustawowy, małżonek, krewny lub powinowaty do drugiego stopnia w linii prostej, osoba pozostająca we wspólnym pożyciu lub osoba upoważniona przez wnioskodawcę,
+    - **c)** imię i nazwisko oraz numer PESEL przedstawiciela ustawowego wnioskodawcy, małżonka, krewnego lub powinowatego do drugiego stopnia w linii prostej, osoby pozostającej we wspólnym pożyciu lub osoby upoważnionej przez wnioskodawcę, a w przypadku jego braku – numer dokumentu potwierdzającego tożsamość i datę urodzenia, jeżeli wniosek składa przedstawiciel ustawowy, małżonek, krewny lub powinowaty do drugiego stopnia w linii prostej, osoba pozostająca we wspólnym pożyciu lub osoba upoważniona przez wnioskodawcę,
     - **d)** adres miejsca zamieszkania oraz adres do korespondencji przedstawiciela ustawowego wnioskodawcy, małżonka, krewnego lub powinowatego do drugiego stopnia w linii prostej, osoby pozostającej we wspólnym pożyciu lub osoby upoważnionej przez wnioskodawcę, jeżeli wniosek składa przedstawiciel ustawowy, małżonek, krewny lub powinowaty do drugiego stopnia w linii prostej, osoba pozostająca we wspólnym pożyciu lub osoba upoważniona przez wnioskodawcę,
     - **e)** numer telefonu lub adres poczty elektronicznej wnioskodawcy, jego przedstawiciela ustawowego, małżonka, krewnego lub powinowatego do drugiego stopnia w linii prostej, osoby pozostającej we wspólnym pożyciu lub osoby upoważnionej przez wnioskodawcę, jeżeli posiada,
     - **f)** wskazanie podmiotu udzielającego świadczeń zdrowotnych, działającego w innym państwie członkowskim UE lub EFTA, lub Zjednoczonym Królestwie, w którym mają zostać udzielone świadczenia opieki zdrowotnej, których dotyczy wniosek, wraz z uzasadnieniem,
@@ -1838,7 +1966,7 @@ Art. 196–228. (pominięte)
     - **a)** imię i nazwisko lekarza wypełniającego wniosek,
     - **b)** pieczątkę, nadruk albo naklejkę zawierające numer prawa wykonywania zawodu oraz specjalizację lekarza wypełniającego wniosek,
     - **c)** pieczątkę, nadruk albo naklejkę zawierające nazwę i adres świadczeniodawcy, u którego lekarz wypełniający wniosek udziela świadczeń opieki zdrowotnej,
-    - **d)** rozpoznanie kliniczne dotyczące problemu zdrowotnego, stanowiącego przyczynę złożenia wniosku, oraz rozpoznania współistniejące, z zastosowaniem Międzynarodowej Statystycznej Klasyfikacji Chorób i Problemów Zdrowotnych ICD-10,
+    - **d)** rozpoznanie kliniczne dotyczące problemu zdrowotnego, stanowiącego przyczynę złożenia wniosku, oraz rozpoznania współistniejące, z zastosowaniem obowiązującej Międzynarodowej Klasyfikacji Chorób i Problemów Zdrowotnych,
     - **e)** informację o dotychczasowym przebiegu choroby i zastosowanym leczeniu,
     - **f)** prognozę prawdopodobnego dalszego przebiegu choroby,
     - **g)** wskazanie szczegółowego zakresu leczenia lub badań diagnostycznych, których dotyczy wniosek,
@@ -1855,7 +1983,7 @@ Art. 196–228. (pominięte)
 - **1)** nazwę i adres podmiotu udzielającego świadczeń zdrowotnych w innym państwie członkowskim UE lub EFTA, lub Zjednoczonym Królestwie, w którym przebywa wnioskodawca;
 - **2)** wskazanie miejsca leczenia w kraju, jeżeli wniosek dotyczy pokrycia kosztów transportu do miejsca leczenia.
 
-9. W przypadku gdy wnioskodawca przebywa w szpitalu na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego UE lub EFTA, lub Zjednoczonego Królestwa, korzystając ze świadczeń udzielanych na podstawie przepisów o koordynacji, Prezes Funduszu wydaje, na wniosek podmiotu uprawnionego, w drodze decyzji administracyjnej, zgodę na pokrycie kosztów transportu do miejsca dalszego leczenia w kraju najtańszym środkiem transportu możliwym do zastosowania w aktualnym stanie zdrowia wnioskodawcy, gdy przewidywane koszty dalszego leczenia za granicą przewyższają koszty transportu i leczenia w kraju.
+9. W przypadku gdy wnioskodawca przebywa w szpitalu na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego UE lub EFTA, lub Zjednoczonego Królestwa, korzystając ze świadczeń udzielanych na podstawie przepisów o koordynacji, Prezes Funduszu wydaje, na wniosek podmiotu uprawnionego, w drodze decyzji administracyjnej, zgodę na pokrycie kosztów transportu do miejsca dalszego leczenia w kraju – najtańszym środkiem transportu możliwym do zastosowania w aktualnym stanie zdrowia wnioskodawcy, gdy przewidywane koszty dalszego leczenia za granicą przewyższają koszty transportu i leczenia w kraju.
 
 9a. W decyzji, o której mowa w ust. 9, Prezes Funduszu wskazuje świadczeniodawcę, posiadającego umowę z Funduszem, który przeprowadzi dalsze leczenie w kraju, po dokonaniu niezbędnych uzgodnień z tym świadczeniodawcą.
 
@@ -1882,9 +2010,9 @@ Art. 196–228. (pominięte)
 4. Wniosek, o którym mowa w ust. 1, zawiera:
 
 - **1)** w części wypełnianej przez wnioskodawcę, jego przedstawiciela ustawowego, małżonka, krewnego lub powinowatego do drugiego stopnia w linii prostej, osobę pozostającą we wspólnym pożyciu lub osobę upoważnioną przez wnioskodawcę:
-    - **a)** imię i nazwisko oraz numer PESEL wnioskodawcy, a w przypadku jego braku numer dokumentu potwierdzającego tożsamość i datę urodzenia wnioskodawcy,
+    - **a)** imię i nazwisko oraz numer PESEL wnioskodawcy, a w przypadku jego braku – numer dokumentu potwierdzającego tożsamość i datę urodzenia wnioskodawcy,
     - **b)** adres miejsca zamieszkania oraz adres do korespondencji wnioskodawcy,
-    - **c)** imię i nazwisko oraz numer PESEL przedstawiciela ustawowego wnioskodawcy, małżonka, krewnego lub powinowatego do drugiego stopnia w linii prostej, osoby pozostającej we wspólnym pożyciu lub osoby upoważnionej przez wnioskodawcę, a w przypadku jego braku numer dokumentu potwierdzającego tożsamość i datę urodzenia, jeżeli wniosek składa przedstawiciel ustawowy, małżonek, krewny lub powinowaty do drugiego stopnia w linii prostej, osoba pozostająca we wspólnym pożyciu lub osoba upoważniona przez wnioskodawcę,
+    - **c)** imię i nazwisko oraz numer PESEL przedstawiciela ustawowego wnioskodawcy, małżonka, krewnego lub powinowatego do drugiego stopnia w linii prostej, osoby pozostającej we wspólnym pożyciu lub osoby upoważnionej przez wnioskodawcę, a w przypadku jego braku – numer dokumentu potwierdzającego tożsamość i datę urodzenia, jeżeli wniosek składa przedstawiciel ustawowy, małżonek, krewny lub powinowaty do drugiego stopnia w linii prostej, osoba pozostająca we wspólnym pożyciu lub osoba upoważniona przez wnioskodawcę,
     - **d)** adres miejsca zamieszkania oraz adres do korespondencji przedstawiciela ustawowego wnioskodawcy, małżonka, krewnego lub powinowatego do drugiego stopnia w linii prostej, osoby pozostającej we wspólnym pożyciu lub osoby upoważnionej przez wnioskodawcę, jeżeli wniosek składa przedstawiciel ustawowy, małżonek, krewny lub powinowaty do drugiego stopnia w linii prostej, osoba pozostająca we wspólnym pożyciu lub osoba upoważniona przez wnioskodawcę,
     - **e)** numer telefonu lub adres poczty elektronicznej wnioskodawcy, jego przedstawiciela ustawowego, małżonka, krewnego lub powinowatego do drugiego stopnia w linii prostej, osoby pozostającej we wspólnym pożyciu lub osoby upoważnionej przez wnioskodawcę, jeżeli posiada,
     - **f)** oświadczenie, złożone pod rygorem odpowiedzialności karnej z art. 233 § 1 i 2 Kodeksu karnego, że dane zawarte we wniosku są zgodne ze stanem faktycznym;
@@ -1893,7 +2021,7 @@ Art. 196–228. (pominięte)
     - **a)** imię i nazwisko lekarza wypełniającego wniosek,
     - **b)** pieczątkę, nadruk albo naklejkę zawierające numer prawa wykonywania zawodu oraz specjalizację lekarza wypełniającego wniosek oraz tytuł lub stopień naukowy,
     - **c)** pieczątkę, nadruk albo naklejkę zawierające nazwę i adres świadczeniodawcy, u którego lekarz wypełniający wniosek udziela świadczeń opieki zdrowotnej,
-    - **d)** rozpoznanie kliniczne dotyczące problemu zdrowotnego, stanowiącego przyczynę złożenia wniosku, oraz rozpoznania współistniejące, z zastosowaniem Międzynarodowej Statystycznej Klasyfikacji Chorób i Problemów Zdrowotnych ICD-10,
+    - **d)** rozpoznanie kliniczne dotyczące problemu zdrowotnego, stanowiącego przyczynę złożenia wniosku, oraz rozpoznania współistniejące, z zastosowaniem obowiązującej Międzynarodowej Klasyfikacji Chorób i Problemów Zdrowotnych,
     - **e)** informację o dotychczasowym przebiegu choroby i zastosowanym leczeniu,
     - **f)** prognozę prawdopodobnego dalszego przebiegu choroby,
     - **g)** wskazanie szczegółowego zakresu leczenia lub badań diagnostycznych, których dotyczy wniosek,
@@ -1916,7 +2044,7 @@ Art. 196–228. (pominięte)
 2. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
 
 - **1)** tryb składania i rozpatrywania wniosków, o których mowa w art. 42f ust. 1, art. 42i ust. 1, 2 i 9 oraz art. 42j ust. 1 i 2, oraz wzory tych wniosków,
-- **2)** tryb pokrywania kosztów, o których mowa w art. 42i ust. 2 i 9 oraz art. 42j ust. 1 i 2 mając na względzie zapewnienie sprawności postępowania oraz celowość wydatkowania środków publicznych.
+- **2)** tryb pokrywania kosztów, o których mowa w art. 42i ust. 2 i 9 oraz art. 42j ust. 1 i 2 – mając na względzie zapewnienie sprawności postępowania oraz celowość wydatkowania środków publicznych.
 
 #### Rozdział 3 Szczególne uprawnienia do świadczeń opieki zdrowotnej
 
@@ -1925,7 +2053,7 @@ Art. 196–228. (pominięte)
 1. Świadczeniobiorcy, który posiada tytuł „Zasłużonego Honorowego Dawcy Krwi” lub „Zasłużonego Dawcy Przeszczepu” i przedstawi legitymację „Zasłużonego Honorowego Dawcy Krwi” lub „Zasłużonego Dawcy Przeszczepu”, przysługuje bezpłatne, do wysokości limitu finansowania, o którym mowa w art. 6 ust. 2 ustawy o refundacji, zaopatrzenie w leki objęte wykazem:
 
 - **1)** o którym mowa w art. 37 ustawy o refundacji, w zakresie kategorii, o której mowa w art. 6 ust. 1 pkt 1 lit. a tej ustawy,
-- **2)** leków, które świadczeniobiorca posiadający tytuł „Zasłużonego Honorowego Dawcy Krwi” lub „Zasłużonego Dawcy Przeszczepu” może stosować w związku z oddawaniem krwi lub w związku z oddawaniem szpiku lub innych regenerujących się komórek i tkanek albo narządów na podstawie recepty wystawionej przez osobę uprawnioną w rozumieniu art. 2 pkt 14 ustawy o refundacji.
+- **2)** leków, które świadczeniobiorca posiadający tytuł „Zasłużonego Honorowego Dawcy Krwi” lub „Zasłużonego Dawcy Przeszczepu” może stosować w związku z oddawaniem krwi lub w związku z oddawaniem szpiku lub innych regenerujących się komórek i tkanek albo narządów – na podstawie recepty wystawionej przez osobę uprawnioną w rozumieniu art. 2 pkt 14 ustawy o refundacji.
 
 2. Osoba przedstawiająca receptę do realizacji jest obowiązana do okazania dokumentu, o którym mowa w ust. 1.
 
@@ -1941,7 +2069,7 @@ Art. 196–228. (pominięte)
 1. Świadczeniobiorcom:
 
 - **1)** do ukończenia 18. roku życia,
-- **2)** po ukończeniu 65. roku życia przysługuje bezpłatne zaopatrzenie w leki, środki spożywcze specjalnego przeznaczenia żywieniowego oraz wyroby medyczne określone w wykazie, o którym mowa w art. 37 ust. 1 ustawy o refundacji, ustalonym w sposób określony w ust. 2, na podstawie recepty wystawionej przez osobę uprawnioną w rozumieniu art. 2 pkt 14 ustawy o refundacji, w tym również posiadającą prawo wykonywania zawodu, która zaprzestała jego wykonywania i wystawia receptę dla siebie albo dla małżonka, albo dla osoby pozostającej we wspólnym pożyciu, albo dla krewnych lub powinowatych w linii prostej, a w linii bocznej do stopnia pokrewieństwa między dziećmi rodzeństwa.
+- **2)** po ukończeniu 65. roku życia – przysługuje bezpłatne zaopatrzenie w leki, środki spożywcze specjalnego przeznaczenia żywieniowego oraz wyroby medyczne określone w wykazie, o którym mowa w art. 37 ust. 1 ustawy o refundacji, ustalonym w sposób określony w ust. 2, na podstawie recepty wystawionej przez osobę uprawnioną w rozumieniu art. 2 pkt 14 ustawy o refundacji, w tym również posiadającą prawo wykonywania zawodu, która zaprzestała jego wykonywania i wystawia receptę dla siebie albo dla małżonka, albo dla osoby pozostającej we wspólnym pożyciu, albo dla krewnych lub powinowatych w linii prostej, a w linii bocznej do stopnia pokrewieństwa między dziećmi rodzeństwa.
 
 1a. Uprawnienie świadczeniobiorcy określone w ust. 1:
 
@@ -1973,7 +2101,7 @@ Art. 196–228. (pominięte)
 
 - **1)** wystawiona przez:
     - **a)** lekarza lub położną, o których mowa w ust. 2, lub
-    - **b)** innego lekarza na podstawie zaświadczenia wystawionego przez lekarza lub położną, o których mowa w ust. 2;
+    - **b)** innego lekarza – na podstawie zaświadczenia wystawionego przez lekarza lub położną, o których mowa w ust. 2;
 
 - **2)** zrealizowana w terminie miesiąca od dnia jej wystawienia albo od oznaczonej na recepcie daty realizacji „od dnia”.
 
@@ -2021,7 +2149,7 @@ Art. 196–228. (pominięte)
 
 - **1)** które są inwalidami wojskowymi,
 - **2)** które doznały uszczerbku na zdrowiu w okolicznościach określonych w art. 7 i art. 8 ustawy z dnia 29 maja 1974 r. o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin i nie zostały zaliczone do żadnej z grup inwalidów,
-- **3)** wymienionym w art. 42 i art. 59 ustawy z dnia 29 maja 1974 r. o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin przysługuje bezpłatne, do wysokości limitu finansowania ze środków publicznych zaopatrzenie w leki objęte wykazem, o którym mowa w art. 37 ust. 1 ustawy o refundacji, w zakresie kategorii, o której mowa w art. 6 ust. 1 pkt 1 lit. a ustawy o refundacji.
+- **3)** wymienionym w art. 42 i art. 59 ustawy z dnia 29 maja 1974 r. o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin – przysługuje bezpłatne, do wysokości limitu finansowania ze środków publicznych zaopatrzenie w leki objęte wykazem, o którym mowa w art. 37 ust. 1 ustawy o refundacji, w zakresie kategorii, o której mowa w art. 6 ust. 1 pkt 1 lit. a ustawy o refundacji.
 
 2. Osobom, o których mowa w ust. 1, receptę może wystawić osoba uprawniona w rozumieniu art. 2 pkt 14 ustawy o refundacji.
 
@@ -2053,7 +2181,7 @@ Art. 196–228. (pominięte)
 - **5)** żołnierzami zastępczej służby wojskowej, o których mowa w art. 1 ust. 1 ustawy z dnia 2 września 1994 r. o świadczeniu pieniężnym i uprawnieniach przysługujących żołnierzom zastępczej służby wojskowej przymusowo zatrudnianym w kopalniach węgla, kamieniołomach, zakładach rud uranu i batalionach budowlanych, którzy otrzymali jednorazowe odszkodowanie w związku z przymusowym zatrudnieniem w zakładach pozyskiwania i wzbogacania rud uranowych, określone w art. 5a ust. 1 tej ustawy,
 - **6)** innymi, niż określeni w pkt 5, żołnierzami zastępczej służby wojskowej, o których mowa w art. 1 ust. 1 ustawy z dnia 2 września 1994 r. o świadczeniu pieniężnym i uprawnieniach przysługujących żołnierzom zastępczej służby wojskowej przymusowo zatrudnianym w kopalniach węgla, kamieniołomach, zakładach rud uranu i batalionach budowlanych, w odniesieniu do których orzeczone zostało inwalidztwo będące następstwem przymusowego zatrudnienia, w miejscach wymienionych w art. 1 ust. 1 tej ustawy,
 - **7)** cywilnymi niewidomymi ofiarami działań wojennych,
-- **8)** weteranami poszkodowanymi, których ustalony procentowy uszczerbek na zdrowiu wynosi co najmniej 30 % przysługuje bezpłatne zaopatrzenie w leki o kategorii dostępności „Rp” lub „Rpz” oraz środki spożywcze specjalnego przeznaczenia żywieniowego objęte decyzją o refundacji, dopuszczone do obrotu na terytorium Rzeczypospolitej Polskiej.
+- **8)** weteranami poszkodowanymi, których ustalony procentowy uszczerbek na zdrowiu wynosi co najmniej 30 % – przysługuje bezpłatne zaopatrzenie w leki o kategorii dostępności „Rp” lub „Rpz” oraz środki spożywcze specjalnego przeznaczenia żywieniowego objęte decyzją o refundacji, dopuszczone do obrotu na terytorium Rzeczypospolitej Polskiej.
 
 2. Osobom, o których mowa w ust. 1, receptę może wystawić osoba uprawniona w rozumieniu art. 2 pkt 14 ustawy o refundacji.
 
@@ -2093,7 +2221,7 @@ Art. 196–228. (pominięte)
 
 2b. W przypadku gdy cena wyrobów medycznych jest wyższa od wysokości limitu finansowania ze środków publicznych, określonego w przepisach wydanych na podstawie art. 38 ust. 4 ustawy o refundacji, wówczas weteranom poszkodowanym, o których mowa w ust. 2a, służy prawo do dofinansowania kwotą wykraczającą poza wysokość limitu finansowania ze środków publicznych, określonego w przepisach wydanych na podstawie art. 38 ust. 4 ustawy o refundacji.
 
-2c. Dofinansowanie, o którym mowa w ust. 2b, może być dokonane ze środków budżetu państwa, z części pozostającej w dyspozycji Ministra Obrony Narodowej w odniesieniu do weteranów poszkodowanych-żołnierzy, z części pozostającej w dyspozycji ministra właściwego do spraw wewnętrznych w odniesieniu do weteranów poszkodowanych-funkcjonariuszy Policji, Straży Granicznej, Służby Ochrony Państwa i Państwowej Straży Pożarnej, z części pozostającej w dyspozycji Szefa Agencji Bezpieczeństwa Wewnętrznego w odniesieniu do weteranów poszkodowanych-funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego albo z części pozostającej w dyspozycji Szefa Agencji Wywiadu w odniesieniu do weteranów poszkodowanych-funkcjonariuszy Agencji Wywiadu.
+2c. Dofinansowanie, o którym mowa w ust. 2b, może być dokonane ze środków budżetu państwa, z części pozostającej w dyspozycji Ministra Obrony Narodowej – w odniesieniu do weteranów poszkodowanych-żołnierzy, z części pozostającej w dyspozycji ministra właściwego do spraw wewnętrznych – w odniesieniu do weteranów poszkodowanych-funkcjonariuszy Policji, Straży Granicznej, Służby Ochrony Państwa i Państwowej Straży Pożarnej, z części pozostającej w dyspozycji Szefa Agencji Bezpieczeństwa Wewnętrznego – w odniesieniu do weteranów poszkodowanych-funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego albo z części pozostającej w dyspozycji Szefa Agencji Wywiadu – w odniesieniu do weteranów poszkodowanych-funkcjonariuszy Agencji Wywiadu.
 
 2d. Prezes Rady Ministrów, Minister Obrony Narodowej i minister właściwy do spraw wewnętrznych, każdy w swoim zakresie, określą, w drodze rozporządzenia, warunki i tryb ubiegania się o dofinansowanie kosztów, o których mowa w ust. 2b. Rozporządzenie powinno zapewnić sprawność postępowania w tych sprawach oraz adekwatność udzielanego dofinansowania w stosunku do ceny wyrobów medycznych.
 
@@ -2134,16 +2262,20 @@ Art. 196–228. (pominięte)
 - **9)** osoby deportowane do pracy przymusowej;
 - **10)** uprawnieni żołnierze lub pracownicy, których ustalony procentowy uszczerbek na zdrowiu wynosi co najmniej 30 %;
 - **11)** weterani poszkodowani, których ustalony procentowy uszczerbek na zdrowiu wynosi co najmniej 30 %;
-- **12)** dawcy krwi, którzy oddali co najmniej 3 donacje krwi lub jej składników, w tym osocza po chorobie COVID-19 na podstawie zaświadczenia, o którym mowa w art. 9a ust. 3 ustawy z dnia 22 sierpnia 1997 r. o publicznej służbie krwi (Dz. U. z 2024 r. poz. 1782);
+- **12)** dawcy krwi, którzy oddali co najmniej 3 donacje krwi lub jej składników, w tym osocza po chorobie COVID-19 – na podstawie zaświadczenia, o którym mowa w art. 9a ust. 3 ustawy z dnia 22 sierpnia 1997 r. o publicznej służbie krwi (Dz. U. z 2024 r. poz. 1782);
 - **13)** żołnierze zawodowi, o których mowa w art. 287 ust. 2 i 3 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny, w przypadku korzystania ze świadczeń w podmiotach leczniczych, dla których podmiotem tworzącym jest Minister Obrony Narodowej, oraz przez niego nadzorowanych;
 - **14)** żołnierze pełniący terytorialną służbę wojskową, o których mowa w art. 325 ust. 2 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny, w przypadku korzystania ze świadczeń udzielanych w podmiotach leczniczych, dla których podmiotem tworzącym jest Minister Obrony Narodowej, oraz przez niego nadzorowanych;
 - **15)** osoby, które legitymują się zaświadczeniem, o którym mowa w art. 67zb ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta, przez okres wskazany w tym zaświadczeniu, nie dłużej niż 5 lat od dnia wydania zaświadczenia.
 
-2. Korzystanie poza kolejnością ze świadczeń opieki zdrowotnej w zakresie świadczeń opieki zdrowotnej w szpitalach i świadczeń specjalistycznych w ambulatoryjnej opiece zdrowotnej oznacza, że świadczeniodawca udziela tych świadczeń poza kolejnością przyjęć wynikającą z prowadzonej przez niego listy oczekujących, o której mowa w art. 20 ust. 2.
+2. Korzystanie poza kolejnością ze świadczeń opieki zdrowotnej w zakresie świadczeń opieki zdrowotnej w szpitalach i świadczeń specjalistycznych w ambulatoryjnej opiece zdrowotnej oznacza, że świadczeniodawca udziela tych świadczeń poza kolejnością przyjęć wynikającą z prowadzonej przez niego listy oczekujących, o której mowa w art. 20 ust. 2, albo ze zgłoszeń centralnych – w przypadku świadczeń opieki zdrowotnej, o których mowa w przepisach wydanych na podstawie art. 23h ust. 2 pkt 1.
+
+2a. Osoba posiadająca prawo do korzystania poza kolejnością ze świadczeń opieki zdrowotnej, zgłaszająca się po raz pierwszy w celu uzyskania danego świadczenia opieki zdrowotnej może być wpisana tylko do jednego harmonogramu przyjęć prowadzonego przez jednego świadczeniodawcę.
 
 3. Świadczeniodawca udziela świadczeń opieki zdrowotnej, o których mowa w ust. 1 i 2, w dniu zgłoszenia.
 
 4. W przypadku gdy udzielenie świadczenia nie jest możliwe w dniu zgłoszenia, świadczeniodawca wyznacza inny termin poza kolejnością przyjęć wynikającą z prowadzonej przez niego listy oczekujących. Świadczenie z zakresu ambulatoryjnej opieki specjalistycznej nie może być udzielone w terminie późniejszym niż w ciągu 7 dni roboczych od dnia zgłoszenia.
+
+4a. W przypadku świadczenia opieki zdrowotnej, o którym mowa w przepisach wydanych na podstawie art. 23h ust. 2 pkt 1, jeżeli udzielenie tego świadczenia nie jest możliwe w dniu dokonania zgłoszenia centralnego świadczeniodawca, do którego świadczeniobiorca się zgłosił, wyznacza inny termin poza kolejnością przyjęć wynikającą z prowadzonego przez niego harmonogramu przyjęć. Świadczenie z zakresu ambulatoryjnej opieki specjalistycznej nie może być udzielone w terminie późniejszym niż w okresie 7 dni roboczych od dnia dokonania zgłoszenia centralnego.
 
 5. W miejscach rejestracji pacjentów do udzielania świadczeń opieki zdrowotnej, w miejscach udzielania świadczeń podstawowej opieki zdrowotnej oraz w aptekach, odpowiednio świadczeniodawca albo kierownik apteki uwidacznia pisemną informację o uprawnieniach określonych w ust. 1–4.
 
@@ -2159,7 +2291,7 @@ Art. 196–228. (pominięte)
 
 3. Świadczeniodawca może kontynuować podawanie leku finansowanego w ramach ratunkowego dostępu do technologii lekowej temu samemu świadczeniobiorcy, po upływie jednego z okresów, o których mowa w ust. 2, pod warunkiem potwierdzenia przez lekarza specjalistę w dziedzinie medycyny odpowiedniej ze względu na chorobę lub problem zdrowotny świadczeniobiorcy skuteczności leczenia świadczeniobiorcy tym lekiem.
 
-4. Finansowanie w ramach ratunkowego dostępu do technologii lekowej, o którym mowa w ust. 1, może dotyczyć wyłącznie leku, który jest dopuszczony do obrotu zgodnie z art. 3 ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne lub pozostaje w obrocie na podstawie art. 29 ust. 5 lub 6 tej ustawy oraz jest dostępny na rynku.
+4. Finansowanie w ramach ratunkowego dostępu do technologii lekowej, o którym mowa w ust. 1, może dotyczyć wyłącznie leku, który jest dopuszczony do obrotu zgodnie z art. 3 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne lub pozostaje w obrocie na podstawie art. 29 ust. 5 lub 6 tej ustawy oraz jest dostępny na rynku.
 
 **Art. 47e.** (uchylony)
 
@@ -2170,14 +2302,14 @@ Art. 196–228. (pominięte)
 - **1)** ogłasza w Biuletynie Informacji Publicznej informację o tym przekroczeniu;
 - **2)** informuje o przekroczeniu ministra właściwego do spraw zdrowia.
 
-2. W przypadku zaistnienia okoliczności, o których mowa w ust. 1, podmiot odpowiedzialny w rozumieniu art. 2 pkt 24 ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne lub przedstawiciel podmiotu odpowiedzialnego w rozumieniu art. 2 pkt 35a tej ustawy, gdy podmiot odpowiedzialny nie ma siedziby na terytorium Rzeczypospolitej Polskiej, jest obowiązany do złożenia, w terminie 90 dni od dnia zamieszczenia ogłoszenia, o którym mowa w ust. 1 pkt 1, w Biuletynie Informacji Publicznej, wniosku, o którym mowa w art. 24 ust. 1 pkt 1 ustawy o refundacji, dla leku w tym wskazaniu.
+2. W przypadku zaistnienia okoliczności, o których mowa w ust. 1, podmiot odpowiedzialny w rozumieniu art. 2 pkt 24 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne lub przedstawiciel podmiotu odpowiedzialnego w rozumieniu art. 2 pkt 35a tej ustawy, gdy podmiot odpowiedzialny nie ma siedziby na terytorium Rzeczypospolitej Polskiej, jest obowiązany do złożenia, w terminie 90 dni od dnia zamieszczenia ogłoszenia, o którym mowa w ust. 1 pkt 1, w Biuletynie Informacji Publicznej, wniosku, o którym mowa w art. 24 ust. 1 pkt 1 ustawy o refundacji, dla leku w tym wskazaniu.
 
 3. W przypadku gdy:
 
 - **1)** podmiot odpowiedzialny nie złożył wniosku w terminie określonym w ust. 2, albo nie uzupełnił braków formalnych wniosku o refundację w terminie określonym przez ministra właściwego do spraw zdrowia,
 - **2)** została wydana decyzja o umorzeniu postępowania o objęciu refundacją i ustalenia urzędowej ceny wszczęta z wniosku, o którym mowa w ust. 2,
 - **3)** została wydana rekomendacja, o której mowa w art. 35 ust. 6 pkt 2 ustawy o refundacji, w odniesieniu do danej substancji czynnej w tym wskazaniu,
-- **4)** została wydana decyzja o odmowie objęcia refundacją i ustalenia urzędowej ceny zbytu, o której mowa w art. 11 ustawy o refundacji, w odniesieniu do danej substancji czynnej w tym wskazaniu lek nie jest finansowany w ramach ratunkowego dostępu do technologii lekowych.
+- **4)** została wydana decyzja o odmowie objęcia refundacją i ustalenia urzędowej ceny zbytu, o której mowa w art. 11 ustawy o refundacji, w odniesieniu do danej substancji czynnej w tym wskazaniu – lek nie jest finansowany w ramach ratunkowego dostępu do technologii lekowych.
 
 4. Informacje, o których mowa w ust. 3, udostępnia się niezwłocznie po zaistnieniu okoliczności, o których mowa w ust. 1, na stronie internetowej urzędu obsługującego ministra właściwego do spraw zdrowia oraz na stronie podmiotowej Biuletynu Informacji Publicznej urzędu obsługującego ministra właściwego do spraw zdrowia.
 
@@ -2254,14 +2386,14 @@ Art. 196–228. (pominięte)
 
 7. Prezes Agencji sporządza opinię, o której mowa w ust. 4, w terminie 2 miesięcy od dnia otrzymania projektu programu polityki zdrowotnej albo poprawionego projektu programu. Opinię sporządza się na podstawie kryteriów, o których mowa w:
 
-- **1)** art. 31a ust. 1 w przypadku projektu programu polityki zdrowotnej opracowanego przez ministra;
-- **2)** art. 31a ust. 1 i art. 48 ust. 4 w przypadku projektu programu polityki zdrowotnej opracowanego przez jednostkę samorządu terytorialnego.
+- **1)** art. 31a ust. 1 – w przypadku projektu programu polityki zdrowotnej opracowanego przez ministra;
+- **2)** art. 31a ust. 1 i art. 48 ust. 4 – w przypadku projektu programu polityki zdrowotnej opracowanego przez jednostkę samorządu terytorialnego.
 
 8. W celu sporządzenia opinii, o której mowa w ust. 4:
 
 - **1)** Agencja sporządza raport w sprawie oceny projektu programu polityki zdrowotnej na podstawie kryteriów, o których mowa w:
-    - **a)** art. 31a ust. 1 w przypadku projektu programu polityki zdrowotnej opracowanego przez ministra,
-    - **b)** art. 31a ust. 1 i art. 48 ust. 4 w przypadku projektu programu polityki zdrowotnej opracowanego przez jednostkę samorządu terytorialnego;
+    - **a)** art. 31a ust. 1 – w przypadku projektu programu polityki zdrowotnej opracowanego przez ministra,
+    - **b)** art. 31a ust. 1 i art. 48 ust. 4 – w przypadku projektu programu polityki zdrowotnej opracowanego przez jednostkę samorządu terytorialnego;
 
 - **2)** Prezes Agencji przekazuje raport, o którym mowa w pkt 1, Radzie Przejrzystości;
 - **3)** Rada Przejrzystości na podstawie raportu, o którym mowa w pkt 1, przedstawia opinię w sprawie projektu programu polityki zdrowotnej, którą przekazuje Prezesowi Agencji.
@@ -2362,7 +2494,7 @@ Art. 196–228. (pominięte)
 
 5. Fundusz dokonuje wyboru realizatora programu zdrowotnego i zawiera z nim umowę na zasadach i w trybie określonych dla umów o udzielanie świadczeń opieki zdrowotnej.
 
-6. Do wyboru realizatorów programów, o których mowa w ust. 1 i 1a, nie stosuje się przepisów ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych oraz przepisów o prowadzeniu działalności pożytku publicznego na podstawie zlecenia realizacji zadań publicznych, o których mowa w rozdziale 2 działu II ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie.
+6. Do wyboru realizatorów programów, o których mowa w ust. 1 i 1a, nie stosuje się przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych oraz przepisów o prowadzeniu działalności pożytku publicznego na podstawie zlecenia realizacji zadań publicznych, o których mowa w rozdziale 2 działu II ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie.
 
 **Art. 48c.**
 
@@ -2396,7 +2528,7 @@ Art. 196–228. (pominięte)
 - **1)** cel programu pilotażowego;
 - **2)** okres realizacji programu pilotażowego;
 - **3)** zakres i rodzaj świadczeń opieki zdrowotnej, których dotyczy program pilotażowy;
-- **4)** w przypadkach wynikających z celu programu pilotażowego populację zamieszkującą określony obszar terytorialny objętą programem pilotażowym;
+- **4)** w przypadkach wynikających z celu programu pilotażowego – populację zamieszkującą określony obszar terytorialny objętą programem pilotażowym;
 - **5)** warunki organizacji świadczeń opieki zdrowotnej oraz warunki ich realizacji, w tym dotyczące personelu medycznego i wyposażenia w sprzęt i aparaturę medyczną;
 - **6)** sposób rozliczania świadczeń opieki zdrowotnej, w tym wysokość kapitacyjnej stawki rocznej, ceny jednostkowej jednostki rozliczeniowej lub ryczałtu, w tym ryczałtu na populację objętą programem pilotażowym;
 - **7)** sposób wyboru świadczeniodawcy przez świadczeniobiorcę, z uwzględnieniem zasad realizacji świadczeń opieki zdrowotnej na podstawie skierowania i prowadzenia listy oczekujących na udzielenie świadczenia, lub sposób objęcia przez świadczeniodawcę danej populacji świadczeniami opieki zdrowotnej;
@@ -2432,7 +2564,7 @@ Art. 196–228. (pominięte)
 
 - **1)** imię (imiona) i nazwisko;
 - **2)** datę urodzenia;
-- **3)** numer PESEL, a w przypadku nieposiadania numeru PESEL numer paszportu lub innego dokumentu potwierdzającego tożsamość;
+- **3)** numer PESEL, a w przypadku nieposiadania numeru PESEL – numer paszportu lub innego dokumentu potwierdzającego tożsamość;
 - **4)** numer identyfikacyjny instytucji ubezpieczenia zdrowotnego;
 - **5)** dwuznakowy kod ISO 3166-1 dla Rzeczypospolitej Polskiej;
 - **6)** datę ważności karty;
@@ -2453,7 +2585,7 @@ Art. 196–228. (pominięte)
 - **1)** wzór karty ubezpieczenia zdrowotnego oraz sposób jej wykonania, uwzględniając przepisy Unii Europejskiej w sprawie wzoru Europejskiej Karty Ubezpieczenia Zdrowotnego,
 - **2)** wzór wniosku o wydanie karty ubezpieczenia zdrowotnego,
 - **3)** szczegółowy zakres danych zawartych na karcie ubezpieczenia zdrowotnego oraz ich format,
-- **4)** tryb wydawania i anulowania karty ubezpieczenia zdrowotnego uwzględniając konieczność identyfikacji ubezpieczonych, potwierdzania prawa ubezpieczonych do świadczeń opieki zdrowotnej i elektronicznego potwierdzania wykonanych świadczeń, konieczność zapewnienia przejrzystości danych zawartych na karcie ubezpieczenia zdrowotnego oraz sprawność postępowania w sprawie wydawania i anulowania karty ubezpieczenia zdrowotnego.
+- **4)** tryb wydawania i anulowania karty ubezpieczenia zdrowotnego – uwzględniając konieczność identyfikacji ubezpieczonych, potwierdzania prawa ubezpieczonych do świadczeń opieki zdrowotnej i elektronicznego potwierdzania wykonanych świadczeń, konieczność zapewnienia przejrzystości danych zawartych na karcie ubezpieczenia zdrowotnego oraz sprawność postępowania w sprawie wydawania i anulowania karty ubezpieczenia zdrowotnego.
 
 10. Rozporządzenie, o którym mowa w ust. 9, może także określać dokumenty mogące pełnić funkcję karty ubezpieczenia zdrowotnego, uwzględniając możliwość potwierdzenia przez te dokumenty prawa do świadczeń opieki zdrowotnej oraz funkcję potwierdzenia udzielenia tych świadczeń.
 
@@ -2461,13 +2593,13 @@ Art. 196–228. (pominięte)
 
 1. Świadczeniobiorca ubiegający się o udzielenie świadczenia opieki zdrowotnej jest obowiązany przedstawić:
 
-- **1)** kartę ubezpieczenia zdrowotnego w przypadku ubezpieczonego oraz osób, do których stosuje się art. 67 ust. 4–7;
-- **2)** dokument, o którym mowa w art. 54 ust. 1 w przypadku świadczeniobiorcy innego niż ubezpieczony.
+- **1)** kartę ubezpieczenia zdrowotnego – w przypadku ubezpieczonego oraz osób, do których stosuje się art. 67 ust. 4–7;
+- **2)** dokument, o którym mowa w art. 54 ust. 1 – w przypadku świadczeniobiorcy innego niż ubezpieczony.
 
 2. Przedstawienie przez świadczeniobiorcę dokumentów, o których mowa w ust. 1, nie jest wymagane, jeżeli zostaną spełnione łącznie następujące warunki:
 
 - **1)** świadczeniobiorca potwierdzi swoją tożsamość przez okazanie dowodu osobistego, paszportu, prawa jazdy, legitymacji szkolnej albo przy użyciu dokumentu mObywatel, o którym mowa w art. 2 pkt 8 ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel (Dz. U. z 2024 r. poz. 1275 i 1717 oraz z 2025 r. poz. 1019); legitymacja szkolna może być okazana jedynie przez osobę, która nie ukończyła 18. roku życia;
-- **1a)** w przypadku osób uprawnionych na podstawie art. 37 ust. 1 ustawy wskazanej w art. 12 pkt 13, osoba uprawniona może potwierdzić swoją tożsamość także przez okazanie dokumentu potwierdzającego tożsamość innego niż wymieniony w pkt 1;
+- **1a)** (uchylony)
 - **2)** świadczeniodawca lub niebędąca świadczeniodawcą osoba uprawniona w rozumieniu art. 2 pkt 14 ustawy o refundacji uzyska potwierdzenie prawa do świadczeń opieki zdrowotnej osoby ubiegającej się o udzielenie świadczenia opieki zdrowotnej w sposób określony w ust. 3.
 
 2a. Świadczeniodawca udzielający świadczeń opieki zdrowotnej za pośrednictwem systemów teleinformatycznych lub systemów łączności może potwierdzać tożsamość świadczeniobiorcy, na podstawie danych przekazanych przez tego świadczeniobiorcę za pośrednictwem tych systemów. W razie niepotwierdzenia prawa świadczeniobiorcy do świadczeń opieki zdrowotnej w sposób określony w ust. 1 lub 3, świadczeniobiorca może złożyć oświadczenie o przysługującym mu prawie do świadczeń opieki zdrowotnej także za pośrednictwem systemów, o których mowa w zdaniu pierwszym. Przepisy ust. 7, 8 i 9 stosuje się odpowiednio.
@@ -2484,15 +2616,15 @@ Art. 196–228. (pominięte)
 
 7. Świadczeniobiorca składający oświadczenie, o którym mowa w ust. 6, jest obowiązany do zawarcia w nim klauzuli następującej treści: „Posiadam prawo do korzystania ze świadczeń opieki zdrowotnej finansowanych ze środków publicznych.”.
 
-7a. W sytuacji udzielania świadczeniobiorcy stacjonarnych albo całodobowych świadczeń opieki zdrowotnej, oświadczenie, o którym mowa w ust. 6, obejmuje okres od dnia rozpoczęcia udzielania świadczenia do dnia zakończenia udzielania świadczenia, nie dłuższy jednak niż do końca miesiąca następującego po miesiącu rozpoczęcia udzielania świadczenia. W przypadku, gdy świadczenie opieki zdrowotnej trwa dłużej świadczeniobiorca składa kolejne oświadczenie, które obejmuje okres nie dłuższy niż jeden miesiąc.
+7a. W sytuacji udzielania świadczeniobiorcy stacjonarnych albo całodobowych świadczeń opieki zdrowotnej, oświadczenie, o którym mowa w ust. 6, obejmuje okres od dnia rozpoczęcia udzielania świadczenia do dnia zakończenia udzielania świadczenia, nie dłuższy jednak niż do końca miesiąca następującego po miesiącu rozpoczęcia udzielania świadczenia. W przypadku, gdy świadczenie opieki zdrowotnej trwa dłużej – świadczeniobiorca składa kolejne oświadczenie, które obejmuje okres nie dłuższy niż jeden miesiąc.
 
-8. Oświadczenie, o którym mowa w ust. 6, zawiera imię i nazwisko, adres zamieszkania, wskazanie podstawy prawa do świadczeń opieki zdrowotnej, numer PESEL oraz wskazanie dokumentu, na podstawie którego świadczeniodawca potwierdził tożsamość świadczeniobiorcy, a w przypadku osób nieposiadających numeru PESEL dane, o których mowa w art. 188 ust. 4 pkt 9. Świadczeniodawca albo niebędąca świadczeniodawcą osoba uprawniona w rozumieniu art. 2 pkt 14 ustawy o refundacji potwierdza podpisem na oświadczeniu dane identyfikujące dokument, na podstawie którego potwierdzono tożsamość.
+8. Oświadczenie, o którym mowa w ust. 6, zawiera imię i nazwisko, adres zamieszkania, wskazanie podstawy prawa do świadczeń opieki zdrowotnej, numer PESEL oraz wskazanie dokumentu, na podstawie którego świadczeniodawca potwierdził tożsamość świadczeniobiorcy, a w przypadku osób nieposiadających numeru PESEL – dane, o których mowa w art. 188 ust. 4 pkt 9. Świadczeniodawca albo niebędąca świadczeniodawcą osoba uprawniona w rozumieniu art. 2 pkt 14 ustawy o refundacji potwierdza podpisem na oświadczeniu dane identyfikujące dokument, na podstawie którego potwierdzono tożsamość.
 
 9. W przypadku świadczeniobiorców małoletnich oraz innych osób nieposiadających pełnej zdolności do czynności prawnych oświadczenie, o którym mowa w ust. 6, składa przedstawiciel ustawowy albo opiekun prawny lub faktyczny w rozumieniu ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta. Przepisy ust. 7 i 8 stosuje się odpowiednio.
 
 10. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, wzory oświadczeń, o których mowa w ust. 6 i 9, mając na względzie zapewnienie czytelności oświadczeń.
 
-11. W stanach nagłych lub w przypadku, gdy ze względu na stan zdrowia nie jest możliwe złożenie oświadczenia, o którym mowa w ust. 6, świadczenie opieki zdrowotnej zostaje udzielone pomimo braku potwierdzenia prawa do świadczeń opieki zdrowotnej w sposób wskazany w ust. 1, 3 lub 6. W takim przypadku osoba, której udzielono świadczenia opieki zdrowotnej, jest obowiązana do przedstawienia dokumentu potwierdzającego prawo do świadczeń opieki zdrowotnej albo złożenia oświadczenia, o którym mowa w ust. 6, w terminie 14 dni od dnia rozpoczęcia udzielania świadczenia opieki zdrowotnej, a jeżeli świadczenie to jest udzielane w oddziale szpitalnym, w terminie 7 dni od dnia zakończenia udzielania świadczenia opieki zdrowotnej pod rygorem obciążenia tej osoby kosztami udzielonych jej świadczeń.
+11. W stanach nagłych lub w przypadku, gdy ze względu na stan zdrowia nie jest możliwe złożenie oświadczenia, o którym mowa w ust. 6, świadczenie opieki zdrowotnej zostaje udzielone pomimo braku potwierdzenia prawa do świadczeń opieki zdrowotnej w sposób wskazany w ust. 1, 3 lub 6. W takim przypadku osoba, której udzielono świadczenia opieki zdrowotnej, jest obowiązana do przedstawienia dokumentu potwierdzającego prawo do świadczeń opieki zdrowotnej albo złożenia oświadczenia, o którym mowa w ust. 6, w terminie 14 dni od dnia rozpoczęcia udzielania świadczenia opieki zdrowotnej, a jeżeli świadczenie to jest udzielane w oddziale szpitalnym, w terminie 7 dni od dnia zakończenia udzielania świadczenia opieki zdrowotnej – pod rygorem obciążenia tej osoby kosztami udzielonych jej świadczeń.
 
 12. Późniejsze niż przewidziane terminami określonymi w ust. 11, jednak w okresie nie dłuższym niż 1 rok, licząc od dnia upływu tych terminów, przedstawienie dokumentu potwierdzającego prawo do świadczeń opieki zdrowotnej albo złożenie oświadczenia, o którym mowa w ust. 6, nie może stanowić podstawy odmowy przez świadczeniodawcę zwolnienia świadczeniobiorcy z obowiązku poniesienia kosztów udzielonego świadczenia opieki zdrowotnej albo zwrotu tych kosztów.
 
@@ -2503,12 +2635,12 @@ Art. 196–228. (pominięte)
 15. Fundusz nie może odmówić świadczeniodawcy sfinansowania świadczenia opieki zdrowotnej z powodu braku prawa do świadczeń opieki zdrowotnej osoby, która uzyskała to świadczenie, albo żądać od niebędącej świadczeniodawcą osoby uprawnionej w rozumieniu art. 2 pkt 14 ustawy o refundacji zwrotu kosztów świadczenia opieki zdrowotnej poniesionych przez Fundusz pomimo braku prawa do świadczeń opieki zdrowotnej osoby, która uzyskała to świadczenie na podstawie recepty wystawionej przez osobę uprawnioną, jeżeli:
 
 - **1)** w dniu udzielenia tego świadczenia potwierdził, w sposób określony w ust. 3, prawo świadczeniobiorcy do świadczeń opieki zdrowotnej albo świadczeniobiorca ten w tym dniu przedstawił dokument potwierdzający prawo do świadczeń opieki zdrowotnej lub złożył oświadczenie, o którym mowa w ust. 2a albo 6,
-- **2)** świadczeniobiorca w terminie przedstawił dokument potwierdzający prawo do świadczeń opieki zdrowotnej lub złożył oświadczenie, o którym mowa w ust. 6, w przypadkach określonych w ust. 11 jeżeli świadczenie to zostało zrealizowane zgodnie z warunkami umowy o udzielanie świadczeń opieki zdrowotnej zawartej ze świadczeniodawcą albo zgodnie z zasadami wystawiania recept refundowanych, w przypadku gdy świadczenie zostało zrealizowane na podstawie takiej recepty.
+- **2)** świadczeniobiorca w terminie przedstawił dokument potwierdzający prawo do świadczeń opieki zdrowotnej lub złożył oświadczenie, o którym mowa w ust. 6, w przypadkach określonych w ust. 11 – jeżeli świadczenie to zostało zrealizowane zgodnie z warunkami umowy o udzielanie świadczeń opieki zdrowotnej zawartej ze świadczeniodawcą albo zgodnie z zasadami wystawiania recept refundowanych, w przypadku gdy świadczenie zostało zrealizowane na podstawie takiej recepty.
 
 16. W przypadku gdy świadczenie opieki zdrowotnej zostało udzielone pomimo braku prawa do świadczeń opieki zdrowotnej w wyniku:
 
 - **1)** posługiwania się kartą ubezpieczenia zdrowotnego albo innym dokumentem potwierdzającym prawo do świadczeń opieki zdrowotnej przez osobę, która utraciła to prawo w okresie ważności karty albo innego dokumentu, albo 1a) potwierdzenia prawa do świadczeń w sposób określony w ust. 3 osób, o których mowa w art. 52 ust. 1, albo
-- **2)** złożenia oświadczenia, o którym mowa w ust. 2a albo 6 osoba, której udzielono świadczenia opieki zdrowotnej, jest obowiązana do uiszczenia kosztów tego świadczenia, z wyłączeniem osoby, której udzielono świadczenia, o którym mowa w art. 15 ust. 2 pkt 1.
+- **2)** złożenia oświadczenia, o którym mowa w ust. 2a albo 6 – osoba, której udzielono świadczenia opieki zdrowotnej, jest obowiązana do uiszczenia kosztów tego świadczenia, z wyłączeniem osoby, której udzielono świadczenia, o którym mowa w art. 15 ust. 2 pkt 1.
 
 17. Obowiązku, o którym mowa w ust. 16, nie stosuje się do osoby, która w chwili przedstawienia innego dokumentu potwierdzającego prawo do świadczeń opieki zdrowotnej albo złożenia oświadczenia o przysługującym jej prawie do świadczeń opieki zdrowotnej działała w usprawiedliwionym błędnym przekonaniu, że posiada prawo do świadczeń opieki zdrowotnej.
 
@@ -2538,7 +2670,7 @@ Art. 196–228. (pominięte)
 
 - **1)** ubezpieczonym,
 - **2)** osobom uprawnionym do świadczeń na podstawie przepisów o koordynacji,
-- **3)** osobom, o których mowa w art. 2 ust. 1 pkt 2–4 oraz art. 12 pkt 2–4, 6 i 9 świadczeniodawca może przedstawić na jednym rachunku łącznie.
+- **3)** osobom, o których mowa w art. 2 ust. 1 pkt 2–4 oraz art. 12 pkt 2–4, 6 i 9 – świadczeniodawca może przedstawić na jednym rachunku łącznie.
 
 **Art. 51.**
 
@@ -2556,7 +2688,7 @@ Art. 196–228. (pominięte)
 
 - **1)** imiona i nazwisko;
 - **2)** datę urodzenia;
-- **3)** numer PESEL, a w przypadku gdy osobie, o której mowa w ust. 1, nie nadano tego numeru serię i numer paszportu albo numer identyfikacyjny innego dokumentu, na podstawie którego możliwe jest ustalenie danych osobowych;
+- **3)** numer PESEL, a w przypadku gdy osobie, o której mowa w ust. 1, nie nadano tego numeru – serię i numer paszportu albo numer identyfikacyjny innego dokumentu, na podstawie którego możliwe jest ustalenie danych osobowych;
 - **4)** adres miejsca zamieszkania;
 - **5)** nazwę instytucji zagranicznej, na koszt której będą udzielane świadczenia opieki zdrowotnej;
 - **6)** adres miejsca zamieszkania lub pobytu na terytorium Rzeczypospolitej Polskiej;
@@ -2575,7 +2707,7 @@ Art. 196–228. (pominięte)
 2. Jeżeli poświadczenie albo dokument, o których mowa w ust. 1, nie zostaną przedstawione w przypadku:
 
 - **1)** stanu nagłego,
-- **2)** porodu przepisy art. 50 ust. 11–15 i 18–22 stosuje się odpowiednio.
+- **2)** porodu – przepisy art. 50 ust. 11–15 i 18–22 stosuje się odpowiednio.
 
 **Art. 54.**
 
@@ -2595,7 +2727,7 @@ Art. 196–228. (pominięte)
 - **3)** stwierdzeniu spełniania kryterium dochodowego, o którym mowa w art. 8 ustawy z dnia 12 marca 2004 r. o pomocy społecznej;
 - **4)** stwierdzeniu braku okoliczności, o której mowa w art. 12 ustawy z dnia 12 marca 2004 r. o pomocy społecznej, w wyniku przeprowadzenia rodzinnego wywiadu środowiskowego, o którym mowa w pkt 2.
 
-4. Decyzję, o której mowa w ust. 1, wydaje się na wniosek świadczeniobiorcy, a w przypadku stanu nagłego na wniosek świadczeniodawcy udzielającego świadczenia opieki zdrowotnej, złożony niezwłocznie po udzieleniu świadczenia.
+4. Decyzję, o której mowa w ust. 1, wydaje się na wniosek świadczeniobiorcy, a w przypadku stanu nagłego – na wniosek świadczeniodawcy udzielającego świadczenia opieki zdrowotnej, złożony niezwłocznie po udzieleniu świadczenia.
 
 5. Wójt (burmistrz, prezydent) gminy właściwej ze względu na miejsce zamieszkania świadczeniobiorcy może wszcząć postępowanie w celu wydania decyzji, o której mowa w ust. 1, również z urzędu lub na wniosek Funduszu.
 
@@ -2604,7 +2736,7 @@ Art. 196–228. (pominięte)
 7. Prawo do świadczeń opieki zdrowotnej na podstawie decyzji, o której mowa w ust. 1, przysługuje przez okres 90 dni od dnia określonego w decyzji, którym jest:
 
 - **1)** dzień złożenia wniosku,
-- **2)** w przypadku udzielania świadczeń w stanie nagłym dzień udzielenia świadczenia chyba że w tym okresie świadczeniobiorca zostanie objęty ubezpieczeniem zdrowotnym.
+- **2)** w przypadku udzielania świadczeń w stanie nagłym – dzień udzielenia świadczenia – chyba że w tym okresie świadczeniobiorca zostanie objęty ubezpieczeniem zdrowotnym.
 
 8. W przypadku wydania decyzji, o której mowa w ust. 1, z urzędu przez wójta (burmistrza, prezydenta) gminy właściwej ze względu na miejsce zamieszkania świadczeniobiorcy, prawo do świadczeń opieki zdrowotnej przysługuje od dnia określonego w decyzji przez okres 90 dni od tego dnia.
 
@@ -2618,7 +2750,7 @@ Art. 196–228. (pominięte)
 - **1)** każdej zmianie w sytuacji dochodowej lub majątkowej;
 - **2)** objęciu ubezpieczeniem zdrowotnym.
 
-11. Wójt (burmistrz, prezydent) gminy właściwej ze względu na miejsce zamieszkania świadczeniobiorcy może upoważnić kierownika ośrodka pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych (Dz. U. poz. 1818 oraz z 2025 r. poz. 620) dyrektora centrum usług społecznych, do załatwiania spraw i wydawania decyzji w jego imieniu dotyczących potwierdzania prawa do świadczeń opieki zdrowotnej.
+11. Wójt (burmistrz, prezydent) gminy właściwej ze względu na miejsce zamieszkania świadczeniobiorcy może upoważnić kierownika ośrodka pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych (Dz. U. poz. 1818 oraz z 2025 r. poz. 620) – dyrektora centrum usług społecznych, do załatwiania spraw i wydawania decyzji w jego imieniu dotyczących potwierdzania prawa do świadczeń opieki zdrowotnej.
 
 12. Przepisów ust. 1–11 nie stosuje się do medycznych czynności ratunkowych udzielanych świadczeniobiorcom innym niż ubezpieczeni przez jednostki systemu, o których mowa w art. 32 ust. 1 pkt 2 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym, w warunkach pozaszpitalnych.
 
@@ -2652,7 +2784,7 @@ Art. 196–228. (pominięte)
 - **10a)** dla cywilnych niewidomych ofiar działań wojennych;
 - **11)** w zakresie leczenia uzależnień:
     - **a)** dla osób zgłaszających się z powodu uzależnienia,
-    - **b)** dla osób zgłaszających się z powodu współuzależnienia osób spokrewnionych lub niespokrewnionych z osobą uzależnioną, wspólnie z nią zamieszkujących i gospodarujących, oraz osób, których stan psychiczny powstał na skutek pozostawania w związku emocjonalnym z osobą uzależnioną;
+    - **b)** dla osób zgłaszających się z powodu współuzależnienia – osób spokrewnionych lub niespokrewnionych z osobą uzależnioną, wspólnie z nią zamieszkujących i gospodarujących, oraz osób, których stan psychiczny powstał na skutek pozostawania w związku emocjonalnym z osobą uzależnioną;
 
 - **12)** dla uprawnionego żołnierza lub pracownika, w zakresie leczenia urazów lub chorób nabytych podczas wykonywania zadań poza granicami państwa, oraz uprawnionego żołnierza lub pracownika, którego ustalony procentowy uszczerbek na zdrowiu wynosi co najmniej 30 %;
 - **13)** dla weterana poszkodowanego, w zakresie leczenia urazów lub chorób nabytych podczas wykonywania zadań poza granicami państwa, oraz dla weterana poszkodowanego, których ustalony procentowy uszczerbek na zdrowiu wynosi co najmniej 30 %;
@@ -2694,20 +2826,31 @@ Art. 196–228. (pominięte)
 - **3)** identyfikator skierowania;
 - **4)** datę wystawienia skierowania;
 - **5)** imię i nazwisko świadczeniobiorcy;
+- **5a)** płeć i datę urodzenia świadczeniobiorcy;
+- **5b)** adres miejsca zamieszkania świadczeniobiorcy;
 - **6)** nazwę usługodawcy w rozumieniu art. 2 pkt 15 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia oraz identyfikator usługodawcy, o którym mowa w art. 17c ust. 3 tej ustawy;
-- **7)** imię i nazwisko osoby wystawiającej skierowanie;
+- **6a)** nazwę zakładu leczniczego podmiotu leczniczego oraz 14-cyfrowy numer REGON usługodawcy w rozumieniu art. 2 pkt 15 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, jeżeli dotyczy;
+- **6b)** nazwę i niepowtarzalny kod identyfikujący jednostkę organizacyjną zakładu leczniczego w strukturze organizacyjnej podmiotu leczniczego stanowiący część V systemu resortowych kodów identyfikacyjnych, o którym mowa w przepisach wydanych na podstawie art. 105 ust. 5 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, jeżeli dotyczy;
+- **6c)** nazwę i niepowtarzalny kod identyfikujący komórkę organizacyjną zakładu leczniczego podmiotu leczniczego w strukturze organizacyjnej podmiotu leczniczego stanowiący część VII systemu resortowych kodów identyfikacyjnych, o którym mowa w przepisach wydanych na podstawie art. 105 ust. 5 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, jeżeli dotyczy;
+- **6d)** kod charakteryzujący specjalność komórki organizacyjnej zakładu leczniczego podmiotu leczniczego stanowiący część VIII systemu resortowych kodów identyfikacyjnych, o którym mowa w przepisach wydanych na podstawie art. 105 ust. 5 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, jeżeli dotyczy;
+- **6e)** adres miejsca wystawienia skierowania;
+- **6f)** numer umowy z Funduszem, w ramach wykonania której skierowanie zostało wystawione;
+- **7)** imię i nazwisko osoby wystawiającej skierowanie oraz imię i nazwisko osoby upoważnionej do wystawienia skierowania, jeżeli dotyczy;
 - **8)** identyfikator pracownika medycznego, o którym mowa w art. 17c ust. 5 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia;
-- **9)** numer telefonu do świadczeniodawcy wystawiającego skierowanie;
+- **9)** numer telefonu lub adres poczty elektronicznej świadczeniodawcy wystawiającego skierowanie;
 - **10)** typ skierowania;
 - **11)** informację „przypadek pilny”, jeżeli dotyczy;
 - **12)** oznaczenie rodzaju podmiotu, do którego kieruje się świadczeniobiorcę, jeżeli dotyczy;
-- **13)** wskazane przez osobę wystawiającą skierowanie miejsce jego realizacji, jeżeli dotyczy.
+- **13)** wskazane przez osobę wystawiającą skierowanie miejsce jego realizacji, jeżeli dotyczy;
+- **14)** oznaczenie rodzaju badania lub leczenia, na które kieruje się świadczeniobiorcę, z zastosowaniem obowiązującej Międzynarodowej Klasyfikacji Procedur Medycznych lub rodzaju konsultacji;
+- **15)** informacje dodatkowe dla osoby realizującej skierowanie lub dla świadczeniobiorcy, jeżeli mogą okazać się istotne w procesie udzielania świadczenia opieki zdrowotnej;
+- **16)** rozpoznanie kliniczne dotyczące problemu zdrowotnego stanowiącego przyczynę wystawienia skierowania oraz rozpoznania współistniejące z zastosowaniem obowiązującej Międzynarodowej Klasyfikacji Chorób i Problemów Zdrowotnych.
 
 2. Informację, o której mowa w ust. 1, świadczeniobiorca otrzymuje:
 
 - **1)** na wskazany w systemie informacji w ochronie zdrowia, o którym mowa w ustawie z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, adres poczty elektronicznej, jeżeli dotyczy;
-- **2)** na wskazany w systemie informacji w ochronie zdrowia numer telefonu, w postaci wiadomości zawierającej co najmniej kod dostępu oraz informację o konieczności podania numeru PESEL na żądanie świadczeniobiorcy wyrażone w Internetowym Koncie Pacjenta, o którym mowa w art. 7a ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia;
-- **3)** w postaci wydruku w przypadku braku wskazania w systemie informacji w ochronie zdrowia, o którym mowa w ustawie z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, danych, o których mowa w pkt 1 i 2, oraz na żądanie świadczeniobiorcy, albo w innej uzgodnionej postaci zawierającej co najmniej klucz dostępu do skierowania lub kod dostępu.
+- **2)** na wskazany w systemie informacji w ochronie zdrowia numer telefonu, w postaci wiadomości zawierającej co najmniej kod dostępu oraz informację o konieczności podania numeru PESEL – na żądanie świadczeniobiorcy wyrażone w Internetowym Koncie Pacjenta, o którym mowa w art. 7a ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia;
+- **3)** w postaci wydruku – w przypadku braku wskazania w systemie informacji w ochronie zdrowia, o którym mowa w ustawie z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, danych, o których mowa w pkt 1 i 2, oraz na żądanie świadczeniobiorcy, albo w innej uzgodnionej postaci zawierającej co najmniej klucz dostępu do skierowania lub kod dostępu.
 
 2a. Informacja o wystawionym skierowaniu może zawierać fotokody, w tym kody QR, oraz komunikaty nadawane przez system teleinformatyczny, o którym mowa w art. 7 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia.
 
@@ -2788,14 +2931,14 @@ Art. 196–228. (pominięte)
 
 2. Czas trwania wszystkich kontroli Funduszu w miejscach, o których mowa w art. 61i ust. 1, w roku kalendarzowym, z wyłączeniem kontroli realizacji umowy o udzielanie świadczeń opieki zdrowotnej w zakresie leczenia szpitalnego oraz kontroli, o której mowa w art. 61v, nie może przekraczać w odniesieniu do łącznej kwoty wypłaconej podmiotowi kontrolowanemu przez Fundusz za rok poprzedni według stanu na dzień 31 stycznia roku następnego w wysokości:
 
-- **1)** do 2 000 000 zł 12 dni roboczych;
-- **2)** do 10 000 000 zł 18 dni roboczych;
-- **3)** do 50 000 000 zł 24 dni roboczych;
-- **4)** powyżej 50 000 000 zł 48 dni roboczych.
+- **1)** do 2 000 000 zł – 12 dni roboczych;
+- **2)** do 10 000 000 zł – 18 dni roboczych;
+- **3)** do 50 000 000 zł – 24 dni roboczych;
+- **4)** powyżej 50 000 000 zł – 48 dni roboczych.
 
 3. Czas trwania wszystkich kontroli Funduszu w miejscach, o których mowa w art. 61i ust. 1, w roku kalendarzowym w przypadku kontroli, o których mowa w art. 61a ust. 2, z wyłączeniem kontroli, o której mowa w art. 61v, nie może przekraczać 20 dni roboczych.
 
-4. Nie można równocześnie podejmować i prowadzić więcej niż jednej kontroli działalności podmiotu kontrolowanego w zakresie, o którym mowa w art. 61a ust. 1–3, art. 61zb i art. 173, z wyłączeniem kontroli, o której mowa w art. 61v.
+4. Nie można równocześnie podejmować i prowadzić więcej niż jednej kontroli działalności podmiotu kontrolowanego w zakresie, o którym mowa w art. 61a ust. 1– 3, art. 61zb i art. 173, z wyłączeniem kontroli, o której mowa w art. 61v.
 
 5. Prezes Funduszu nie przeprowadza kontroli, w przypadku gdy ma ona dotyczyć zakresu przedmiotowego kontroli objętego uprzednio zakończoną kontrolą, z wyłączeniem kontroli, o której mowa w art. 61v.
 
@@ -2845,7 +2988,7 @@ Art. 196–228. (pominięte)
 - **10)** podpis osoby udzielającej upoważnienia z podaniem imienia i nazwiska oraz zajmowanego stanowiska lub funkcji;
 - **11)** pouczenie o prawach i obowiązkach podmiotu kontrolowanego.
 
-6. Kontroler oraz osoba, o której mowa w ust. 2, podczas przeprowadzania kontroli albo poszczególnych czynności kontrolnych, korzysta z ochrony przewidzianej w ustawie z dnia 6 czerwca 1997 r. Kodeks karny (Dz. U. z 2025 r. poz. 383) dla funkcjonariuszy publicznych.
+6. Kontroler oraz osoba, o której mowa w ust. 2, podczas przeprowadzania kontroli albo poszczególnych czynności kontrolnych, korzysta z ochrony przewidzianej w ustawie z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2025 r. poz. 383) dla funkcjonariuszy publicznych.
 
 **Art. 61f.**
 
@@ -2866,7 +3009,7 @@ Art. 196–228. (pominięte)
 - **1)** obejmujących warunki realizacji świadczeń gwarantowanych wynikających z przepisów wydanych na podstawie art. 31d oraz z przepisów art. 146 ust. 1 i 2 i art. 159 ust. 2,
 - **2)** o których mowa w art. 61a ust. 1 pkt 3 i 4,
 - **3)** o których mowa w art. 61a ust. 2,
-- **4)** o których mowa w art. 61a ust. 3, których uprawdopodobnione skutki finansowe wynoszą co najmniej 10 000 zł , z wyłączeniem kontroli realizacji recept otaksowanych za pośrednictwem systemu, o którym mowa w art. 7 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia w przypadku których zawiadomienie następuje najpóźniej w chwili rozpoczęcia kontroli.
+- **4)** o których mowa w art. 61a ust. 3, których uprawdopodobnione skutki finansowe wynoszą co najmniej 10 000 zł , z wyłączeniem kontroli realizacji recept otaksowanych za pośrednictwem systemu, o którym mowa w art. 7 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia – w przypadku których zawiadomienie następuje najpóźniej w chwili rozpoczęcia kontroli.
 
 2. Rozpoczęcie kontroli nie może nastąpić później niż przed upływem 30 dni od dnia doręczenia zawiadomienia o kontroli.
 
@@ -2895,7 +3038,7 @@ Art. 196–228. (pominięte)
 
 1. Kontroler lub osoba, o której mowa w art. 61e ust. 2, rozpoczynając kontrolę albo poszczególne czynności kontrolne, okazuje upoważnienie do przeprowadzenia kontroli wraz z legitymacją służbową albo dokumentem stwierdzającym tożsamość kierownikowi podmiotu kontrolowanego albo osobie przez niego upoważnionej.
 
-2. W razie nieobecności kierownika podmiotu kontrolowanego lub osoby przez niego upoważnionej dokumenty, o których mowa w ust. 1, kontroler lub osoba, o której mowa w art. 61e ust. 2, okazuje pracownikowi podmiotu kontrolowanego, który może być uznany za osobę, o której mowa w art. 97 ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. z 2025 r. poz. 1071 i 1172), zwanemu dalej „pracownikiem czynnym”, albo przywołanemu świadkowi będącemu funkcjonariuszem publicznym w rozumieniu art. 115 § 13 ustawy z dnia 6 czerwca 1997 r. Kodeks karny, niebędącemu pracownikiem Funduszu.
+2. W razie nieobecności kierownika podmiotu kontrolowanego lub osoby przez niego upoważnionej dokumenty, o których mowa w ust. 1, kontroler lub osoba, o której mowa w art. 61e ust. 2, okazuje pracownikowi podmiotu kontrolowanego, który może być uznany za osobę, o której mowa w art. 97 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2025 r. poz. 1071 i 1172), zwanemu dalej „pracownikiem czynnym”, albo przywołanemu świadkowi będącemu funkcjonariuszem publicznym w rozumieniu art. 115 § 13 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, niebędącemu pracownikiem Funduszu.
 
 **Art. 61i.**
 
@@ -2961,7 +3104,7 @@ Art. 196–228. (pominięte)
 - **1)** przerwę w kontroli,
 - **2)** przedłużenie czasu trwania kontroli na czas niezbędny do przeprowadzenia czynności kontrolnych, określając termin tego przedłużenia,
 - **3)** odstąpienie od kontroli z przyczyn niezależnych od Funduszu,
-- **4)** rozszerzenie zakresu przedmiotowego kontroli o czym niezwłocznie powiadamia podmiot kontrolowany.
+- **4)** rozszerzenie zakresu przedmiotowego kontroli – o czym niezwłocznie powiadamia podmiot kontrolowany.
 
 **Art. 61k.**
 
@@ -3029,7 +3172,7 @@ Art. 196–228. (pominięte)
 
 1. W razie potrzeby ustalenia stanu faktycznego obiektów budowlanych lub rzeczy, które są wykorzystywane przez podmiot kontrolowany przy realizacji umowy o udzielanie świadczeń opieki zdrowotnej albo uprawnień lub obowiązków wynikających z przepisów prawa, albo ustalenia przebiegu określonych czynności, kontroler lub osoba, o której mowa w art. 61e ust. 2, może przeprowadzić oględziny.
 
-2. Oględziny przeprowadza się w obecności kierownika właściwej komórki organizacyjnej lub pracownika wyznaczonego przez kierownika podmiotu kontrolowanego, a w razie ich nieobecności, w obecności pracownika czynnego albo przywołanego świadka będącego funkcjonariuszem publicznym w rozumieniu art. 115 § 13 ustawy z dnia 6 czerwca 1997 r. Kodeks karny, niebędącego pracownikiem Funduszu.
+2. Oględziny przeprowadza się w obecności kierownika właściwej komórki organizacyjnej lub pracownika wyznaczonego przez kierownika podmiotu kontrolowanego, a w razie ich nieobecności, w obecności pracownika czynnego albo przywołanego świadka będącego funkcjonariuszem publicznym w rozumieniu art. 115 § 13 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, niebędącego pracownikiem Funduszu.
 
 3. Z przebiegu i wyników oględzin sporządza się protokół.
 
@@ -3139,13 +3282,14 @@ Art. 196–228. (pominięte)
 - **3)** nie był karany za popełnione z winy umyślnej przestępstwo lub przestępstwo skarbowe;
 - **4)** ma wyższe wykształcenie;
 - **5)** złożył egzamin kwalifikacyjny na stanowisko kontrolera z wynikiem pozytywnym;
-- **6)** nie pełnił służby zawodowej ani nie pracował w organach bezpieczeństwa państwa wymienionych w art. 2 ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów (Dz. U. z 2024 r. poz. 1632, 1897 i 1940), ani nie był ich współpracownikiem.
+- **6)** nie pełnił służby zawodowej ani nie pracował w organach bezpieczeństwa państwa wymienionych w art. 2 ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów (Dz. U. z 2024 r. poz. 1632, 1897 i
+- **1940)** , ani nie był ich współpracownikiem.
 
 3a. Potwierdzenie spełniania warunków, o których mowa w ust. 3 pkt 1–3, może nastąpić na podstawie oświadczenia.
 
 3b. Potwierdzenie spełniania warunku, o którym mowa w ust. 3 pkt 6, następuje na podstawie oświadczenia lustracyjnego lub informacji o złożeniu oświadczenia lustracyjnego składanych na zasadach określonych w ustawie z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów.
 
-4. Kontrolera powołuje i odwołuje Prezes Funduszu. Z dniem powołania dotychczasowa umowa o pracę przekształca się w stosunek pracy na podstawie powołania, o którym mowa w przepisach ustawy z dnia 26 czerwca 1974 r. Kodeks pracy.
+4. Kontrolera powołuje i odwołuje Prezes Funduszu. Z dniem powołania dotychczasowa umowa o pracę przekształca się w stosunek pracy na podstawie powołania, o którym mowa w przepisach ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
 
 5. Egzamin kwalifikacyjny na stanowisko kontrolera obejmuje:
 
@@ -3192,14 +3336,14 @@ Art. 196–228. (pominięte)
 
 3. Pisma, oświadczenia, wyjaśnienia, postanowienia oraz wnioski składane w trakcie kontroli, Prezes Funduszu, kontrolerzy, osoby, o których mowa w art. 61e ust. 2, oraz podmiot kontrolowany sporządzają w formie dokumentu elektronicznego, opatrując je kwalifikowanym podpisem elektronicznym albo podpisem zaufanym.
 
-4. W przypadku wystąpienia okoliczności, o których mowa w ust. 2, dokumenty, o których mowa w ust. 3, sporządza się w postaci papierowej i doręcza za pośrednictwem operatora pocztowego w rozumieniu art. 3 pkt 13 ustawy z dnia 23 listopada 2012 r. Prawo pocztowe, przez kontrolerów lub przez pracowników podmiotu kontrolowanego.
+4. W przypadku wystąpienia okoliczności, o których mowa w ust. 2, dokumenty, o których mowa w ust. 3, sporządza się w postaci papierowej i doręcza za pośrednictwem operatora pocztowego w rozumieniu art. 3 pkt 13 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe, przez kontrolerów lub przez pracowników podmiotu kontrolowanego.
 
 5. Dokumenty, o których mowa w ust. 3, podmiot kontrolowany wnosi w trakcie kontroli do kontrolera na elektroniczną skrzynkę podawczą Funduszu utworzoną na podstawie ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
 
 6. Prezes Funduszu i kontrolerzy doręczają dokumenty, o których mowa w ust. 3, podmiotowi kontrolowanemu:
 
 - **1)** na jego elektroniczną skrzynkę podawczą utworzoną na podstawie ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne, jeżeli jest podmiotem publicznym w rozumieniu tej ustawy;
-- **2)** na adres elektroniczny wskazany Funduszowi w przypadku podmiotu innego niż określony w pkt 1.
+- **2)** na adres elektroniczny wskazany Funduszowi – w przypadku podmiotu innego niż określony w pkt 1.
 
 7. Dokumenty w postaci elektronicznej przekazywane za pomocą środków komunikacji elektronicznej, o których mowa w ust. 3, są sporządzane w jednym z formatów danych określonych w przepisach wydanych na podstawie art. 18 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
 
@@ -3227,10 +3371,10 @@ Art. 196–228. (pominięte)
 
 1. Obowiązkowi ubezpieczenia zdrowotnego podlegają:
 
-- **1)** osoby spełniające warunki do objęcia ubezpieczeniami społecznymi lub ubezpieczeniem społecznym rolników, które są: Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236, z późn. zm. ) lub przepisów o ubezpieczeniach społecznych lub ubezpieczeniu społecznym rolników,
+- **1)** osoby spełniające warunki do objęcia ubezpieczeniami społecznymi lub ubezpieczeniem społecznym rolników, które są:
     - **a)** pracownikami w rozumieniu ustawy o systemie ubezpieczeń społecznych,
     - **b)** rolnikami lub ich domownikami w rozumieniu przepisów o ubezpieczeniu społecznym rolników, ba) pomocnikami rolnika w rozumieniu przepisów o ubezpieczeniu społecznym rolników,
-    - **c)** osobami prowadzącymi działalność pozarolniczą lub osobami z nimi współpracującymi, z wyłączeniem osób, które zawiesiły wykonywanie działalności gospodarczej na podstawie przepisów ustawy z dnia 6 marca 2018 r.
+    - **c)** osobami prowadzącymi działalność pozarolniczą lub osobami z nimi współpracującymi, z wyłączeniem osób, które zawiesiły wykonywanie działalności gospodarczej na podstawie przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236, z późn. zm. ) lub przepisów o ubezpieczeniach społecznych lub ubezpieczeniu społecznym rolników,
     - **d)** osobami wykonującymi pracę nakładczą,
     - **e)** osobami wykonującymi pracę na podstawie umowy agencyjnej lub umowy zlecenia albo innej umowy o świadczenie usług, do której stosuje się przepisy Kodeksu cywilnego dotyczące zlecenia lub osobami z nimi współpracującymi,
     - **f)** osobami duchownymi,
@@ -3239,8 +3383,8 @@ Art. 196–228. (pominięte)
     - **i)** osobami pobierającymi świadczenie szkoleniowe wypłacane po ustaniu zatrudnienia,
     - **j)** marynarzami, o których mowa w art. 6 ust. 1 pkt 24 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych;
 
-- **1a)** osoby, o których mowa w art. 18 ust. 1 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców, oraz osoby z nimi współpracujące, z wyłączeniem osób, które zawiesiły wykonywanie działalności gospodarczej na podstawie przepisów ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców;
-- **2)** żołnierze odbywający zasadniczą służbę wojskową, pełniący terytorialną służbę wojskową, zawodową służbę wojskową w trakcie kształcenia, żołnierze powołani do służby w aktywnej rezerwie w dniach pełnienia tej służby, żołnierze pasywnej rezerwy powołani na ćwiczenia wojskowe w dniach odbywania tych ćwiczeń lub pełniący służbę wojskową w razie ogłoszenia mobilizacji i w czasie wojny o ile nie podlegają obowiązkowi ubezpieczenia z innego tytułu;
+- **1a)** osoby, o których mowa w art. 18 ust. 1 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, oraz osoby z nimi współpracujące, z wyłączeniem osób, które zawiesiły wykonywanie działalności gospodarczej na podstawie przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców;
+- **2)** żołnierze odbywający zasadniczą służbę wojskową, pełniący terytorialną służbę wojskową, zawodową służbę wojskową w trakcie kształcenia, żołnierze powołani do służby w aktywnej rezerwie w dniach pełnienia tej służby, żołnierze pasywnej rezerwy powołani na ćwiczenia wojskowe w dniach odbywania tych ćwiczeń lub pełniący służbę wojskową w razie ogłoszenia mobilizacji i w czasie wojny – o ile nie podlegają obowiązkowi ubezpieczenia z innego tytułu;
 - **3)** osoby odbywające służbę zastępczą;
 - **4)** osoby podlegające kwalifikacji wojskowej pełniące służbę w Policji, Straży Granicznej i Służbie Ochrony Państwa;
 - **5)** żołnierze zawodowi;
@@ -3307,8 +3451,8 @@ Art. 196–228. (pominięte)
 
 - **1)** pkt 2;
 - **2)** pkt 16, którym przyznano rentę na podstawie przepisów o zaopatrzeniu inwalidów wojennych i wojskowych oraz członków ich rodzin, jak również osób, które utraciły wzrok w wyniku działań wojennych w latach 1939–1945 lub eksplozji niewypałów i niewybuchów pozostałych po tych działaniach, otrzymujących dochody z tytułu emerytury lub renty zwolnione z podatku dochodowego od osób fizycznych na podstawie odrębnych przepisów;
-- **3)** pkt 17, 18, 20, 20a i 24 niepobierających zasiłku dla bezrobotnych lub stypendium;
-- **4)** pkt 25 niepobierających zasiłku przedemerytalnego lub świadczenia przedemerytalnego;
+- **3)** pkt 17, 18, 20, 20a i 24 – niepobierających zasiłku dla bezrobotnych lub stypendium;
+- **4)** pkt 25 – niepobierających zasiłku przedemerytalnego lub świadczenia przedemerytalnego;
 - **5)** pkt 31, 31a i 31b.
 
 1a. Przepisu ust. 1 nie stosuje się do osób, o których mowa w art. 66 ust. 1 pkt 8a, oraz członków ich rodzin.
@@ -3323,8 +3467,8 @@ Art. 196–228. (pominięte)
 
 5. Prawo do świadczeń opieki zdrowotnej dla osób, które ukończyły:
 
-- **1)** szkołę ponadpodstawową wygasa po upływie 6 miesięcy od dnia zakończenia nauki albo skreślenia z listy uczniów;
-- **2)** studia lub szkołę doktorską wygasa po upływie 4 miesięcy od ich ukończenia albo skreślenia z listy studentów lub listy doktorantów.
+- **1)** szkołę ponadpodstawową – wygasa po upływie 6 miesięcy od dnia zakończenia nauki albo skreślenia z listy uczniów;
+- **2)** studia lub szkołę doktorską – wygasa po upływie 4 miesięcy od ich ukończenia albo skreślenia z listy studentów lub listy doktorantów.
 
 6. Osoba, o której mowa w ust. 2, pomimo wygaśnięcia obowiązku ubezpieczenia ma wraz z członkami rodziny, o których mowa w art. 3 ust. 2 pkt 5 i 6, prawo do świadczeń opieki zdrowotnej w okresie pobierania przez tę osobę zasiłku przyznanego na podstawie przepisów o ubezpieczeniu chorobowym lub wypadkowym, którego nie zalicza się do podstawy wymiaru składki na ubezpieczenie zdrowotne.
 
@@ -3360,8 +3504,6 @@ Art. 196–228. (pominięte)
 - **4)** 150 % dochodów przyjętych jako podstawa wymiaru składki dla osoby, której przerwa w ubezpieczeniu zdrowotnym i opłacaniu składek wynosi nieprzerwanie powyżej 5 lat do 10 lat;
 - **5)** 200 % dochodów przyjętych jako podstawa wymiaru składki dla osoby, której przerwa w ubezpieczeniu zdrowotnym i opłacaniu składek wynosi nieprzerwanie powyżej 10 lat.
 
-8a. W przypadku marynarzy będących osobami, o których mowa w art. 3 ust. 1 pkt 1 i 2, z wyłączeniem osób przebywających na terytorium Rzeczypospolitej Polskiej na podstawie zgody na pobyt ze względów humanitarnych lub zgody na pobyt tolerowany, oraz w pkt 2a, z wyłączeniem osób korzystających z ochrony czasowej na terytorium Rzeczypospolitej Polskiej, do okresu, o którym mowa w ust. 8, nie wlicza się okresu ich zatrudnienia na statkach morskich o obcej przynależności.
-
 8a. (uchylony)
 
 9. Opłata nie dotyczy osób wymienionych w art. 3 ust. 2.
@@ -3374,11 +3516,9 @@ Art. 196–228. (pominięte)
 
 **Art. 69.**
 
-1. Obowiązek ubezpieczenia zdrowotnego osób, o których mowa w art. 66 ust. 1 pkt 1 lit. a i c–i, powstaje i wygasa w terminach określonych w przepisach o ubezpieczeniach społecznych.
-
 1. Obowiązek ubezpieczenia zdrowotnego osób, o których mowa w art. 66 ust. 1 pkt 1 lit. a i c‒j, powstaje i wygasa w terminach określonych w przepisach o ubezpieczeniach społecznych.
 
-1a. Do ubezpieczenia zdrowotnego osób, które na podstawie przepisów ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców zawiesiły wykonywanie działalności gospodarczej, stosuje się odpowiednio art. 68.
+1a. Do ubezpieczenia zdrowotnego osób, które na podstawie przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców zawiesiły wykonywanie działalności gospodarczej, stosuje się odpowiednio art. 68.
 
 1b. Do powstania i wygaśnięcia obowiązku ubezpieczenia zdrowotnego osób, o których mowa w art. 66 ust. 1 pkt 1a, stosuje się odpowiednio terminy określone w przepisach o ubezpieczeniach społecznych dla osób, o których mowa w art. 66 ust. 1 pkt 1 lit. c.
 
@@ -3418,11 +3558,13 @@ Art. 196–228. (pominięte)
 
 2. Do ubezpieczenia zdrowotnego osób, o których mowa w art. 66 ust. 1 pkt 2–8 i 8b–15 oraz członków ich rodzin, stosuje się odpowiednio przepisy dotyczące zasad, trybu i terminu zgłaszania do ubezpieczeń społecznych oraz wyrejestrowywania z tych ubezpieczeń, z zastrzeżeniem art. 77.
 
-3. Osoby, o których mowa w art. 66 ust. 1 pkt 1 lit. c, będące przedsiębiorcami w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców, a także osoby, o których mowa w art. 18 ust. 1 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców, mogą dokonywać zgłoszenia do ubezpieczenia zdrowotnego, zgłoszenia do ubezpieczenia zdrowotnego członków rodziny, zgłoszenia wyrejestrowania z ubezpieczenia zdrowotnego lub zmiany danych wykazanych w tych zgłoszeniach, na podstawie przepisów ustawy z dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy (Dz. U. z 2022 r. poz. 541, z 2024 r. poz. 1841 oraz z 2025 r. poz. 769).
+3. Osoby, o których mowa w art. 66 ust. 1 pkt 1 lit. c, będące przedsiębiorcami w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, a także osoby, o których mowa w art. 18 ust. 1 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, mogą dokonywać zgłoszenia do ubezpieczenia zdrowotnego, zgłoszenia do ubezpieczenia zdrowotnego członków rodziny, zgłoszenia wyrejestrowania z ubezpieczenia zdrowotnego lub zmiany danych wykazanych w tych zgłoszeniach, na podstawie przepisów ustawy z dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy (Dz. U. z 2022 r. poz. 541, z 2024 r. poz. 1841 oraz z 2025 r. poz. 769).
 
 **Art. 75.**
 
-1. Osoby pobierające emeryturę lub rentę lub rodzicielskie świadczenie uzupełniające zgłasza do ubezpieczenia zdrowotnego jednostka organizacyjna Zakładu Ubezpieczeń Społecznych określona w przepisach o systemie ubezpieczeń społecznych, właściwa do wydania decyzji w sprawach świadczeń, Kasa Rolniczego Ubezpieczenia Społecznego, właściwy organ emerytalny lub instytucja wypłacająca emeryturę lub rentę albo bank dokonujący wypłaty emerytury lub renty z zagranicy do 15. dnia miesiąca następującego po miesiącu, w którym powstał obowiązek ubezpieczenia lub zaistniały zmiany dotyczące tego obowiązku.
+1. Osoby pobierające emeryturę lub rentę lub rodzicielskie świadczenie uzupełniające zgłasza do ubezpieczenia zdrowotnego jednostka organizacyjna Zakładu Ubezpieczeń Społecznych określona w przepisach o systemie ubezpieczeń społecznych, właściwa do wydania decyzji w sprawach świadczeń, Kasa Rolniczego Ubezpieczenia Społecznego, właściwy organ emerytalny lub instytucja wypłacająca emeryturę lub rentę albo bank dokonujący wypłaty emerytury lub renty z zagranicy do
+
+15. dnia miesiąca następującego po miesiącu, w którym powstał obowiązek ubezpieczenia lub zaistniały zmiany dotyczące tego obowiązku.
 
 1a. W przypadku dokonywania wypłaty emerytury lub renty pochodzącej z innego niż Rzeczpospolita Polska państwa członkowskiego UE lub EFTA, lub ze Zjednoczonego Królestwa bank kieruje do Funduszu zapytanie dotyczące podlegania przez tę osobę ubezpieczeniu zdrowotnemu w Rzeczypospolitej Polskiej z tytułu pobierania polskiej emerytury lub renty.
 
@@ -3438,7 +3580,7 @@ Art. 196–228. (pominięte)
 
 4. Osoby, o których mowa w art. 66 ust. 1 pkt 17, 18, 20 i 20a, zgłaszają do ubezpieczenia zdrowotnego odpowiednio szkoły, uczelnie, podmioty prowadzące szkoły doktorskie, placówki pełniące funkcje resocjalizacyjne, wychowawcze lub opiekuńcze i domy pomocy społecznej.
 
-5. Dzieci, o których mowa w art. 66 ust. 1 pkt 19, zgłasza do ubezpieczenia zdrowotnego ośrodek pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych centrum usług społecznych, na wniosek opiekuna prawnego lub faktycznego dziecka albo z własnej inicjatywy.
+5. Dzieci, o których mowa w art. 66 ust. 1 pkt 19, zgłasza do ubezpieczenia zdrowotnego ośrodek pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych – centrum usług społecznych, na wniosek opiekuna prawnego lub faktycznego dziecka albo z własnej inicjatywy.
 
 6. Osoby, o których mowa w art. 66 ust. 1 pkt 21, zgłasza do ubezpieczenia zdrowotnego odpowiednio wyższe seminarium duchowne albo teologiczne lub zakon albo jego odpowiednik.
 
@@ -3457,21 +3599,21 @@ Art. 196–228. (pominięte)
 - **5)** instytucja dialogu społecznego,
 - **6)** instytucja partnerstwa lokalnego,
 - **7)** organizacja pozarządowa działająca na rzecz rozwoju zasobów ludzkich i przeciwdziałania bezrobociu,
-- **8)** podmiot, o którym mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce,
+- **8)** podmiot, o którym mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce,
 - **9)** organizacja pracodawców,
 - **10)** związek zawodowy,
 - **11)** wojewódzki ośrodek doradztwa rolniczego,
-- **12)** ośrodek poradnictwa zawodowego i psychologicznego korzystający z publicznych środków wspólnotowych i publicznych środków krajowych na podstawie umowy o dofinansowanie projektu albo decyzji, o których mowa w ustawie z dnia 20 kwietnia 2004 r. o Narodowym Planie Rozwoju (Dz. U. z 2022 r. poz. 260), ustawie z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2025 r. poz. 198), w ustawie z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. z 2020 r. poz. 818) albo w ustawie z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021–2027 (Dz. U. poz. 1079 oraz z 2024 r. poz. 1717).
+- **12)** ośrodek poradnictwa zawodowego i psychologicznego – korzystający z publicznych środków wspólnotowych i publicznych środków krajowych na podstawie umowy o dofinansowanie projektu albo decyzji, o których mowa w ustawie z dnia 20 kwietnia 2004 r. o Narodowym Planie Rozwoju (Dz. U. z 2022 r. poz. 260), ustawie z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2025 r. poz. 198), w ustawie z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. z 2020 r. poz. 818) albo w ustawie z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021–2027 (Dz. U. poz. 1079 oraz z 2024 r. poz. 1717).
 
 9b. Osoby, o których mowa w art. 66 ust. 1 pkt 24b, zgłasza do ubezpieczenia zdrowotnego właściwy powiatowy urząd pracy.
 
-10. Osoby, o których mowa w art. 66 ust. 1 pkt 26, zgłasza do ubezpieczenia zdrowotnego ośrodek pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych centrum usług społecznych.
+10. Osoby, o których mowa w art. 66 ust. 1 pkt 26, zgłasza do ubezpieczenia zdrowotnego ośrodek pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych – centrum usług społecznych.
 
 11. Osoby, o których mowa w art. 66 ust. 1 pkt 28–28b, zgłasza do ubezpieczenia zdrowotnego wójt, burmistrz lub prezydent miasta.
 
 11a. Osoby, o których mowa w art. 66 ust. 1 pkt 28c i 28d, zgłasza do ubezpieczenia zdrowotnego Zakład Ubezpieczeń Społecznych.
 
-12. Osoby, o których mowa w art. 66 ust. 1 pkt 29 i 30, zgłasza do ubezpieczenia zdrowotnego ośrodek pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych centrum usług społecznych, realizujące indywidualny program zatrudnienia socjalnego lub indywidualny program wychodzenia z bezdomności lub ośrodek pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych centrum usług społecznych, realizujące kontrakt socjalny, o którym mowa w art. 108 ust. 2 ustawy z dnia 12 marca 2004 r. o pomocy społecznej.
+12. Osoby, o których mowa w art. 66 ust. 1 pkt 29 i 30, zgłasza do ubezpieczenia zdrowotnego ośrodek pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych – centrum usług społecznych, realizujące indywidualny program zatrudnienia socjalnego lub indywidualny program wychodzenia z bezdomności lub ośrodek pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych – centrum usług społecznych, realizujące kontrakt socjalny, o którym mowa w art. 108 ust. 2 ustawy z dnia 12 marca 2004 r. o pomocy społecznej.
 
 13. Osoby, o których mowa w art. 66 ust. 1 pkt 27, zgłasza do ubezpieczenia zdrowotnego powiatowe centrum pomocy rodzinie realizujące indywidualny program integracji.
 
@@ -3515,13 +3657,13 @@ Art. 196–228. (pominięte)
 
 2. Zgłoszenia, o których mowa w ust. 1, zawierają:
 
-- **1)** wskazanie oddziału wojewódzkiego Funduszu właściwego ze względu na miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej, a w przypadku braku miejsca zamieszkania na terytorium Rzeczypospolitej Polskiej wskazanie oddziału wojewódzkiego Funduszu wybranego przez osobę zgłaszaną do ubezpieczenia zdrowotnego;
+- **1)** wskazanie oddziału wojewódzkiego Funduszu właściwego ze względu na miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej, a w przypadku braku miejsca zamieszkania na terytorium Rzeczypospolitej Polskiej – wskazanie oddziału wojewódzkiego Funduszu wybranego przez osobę zgłaszaną do ubezpieczenia zdrowotnego;
 - **2)** (uchylony)
 - **3)** nazwisko i imię;
 - **4)** datę urodzenia;
 - **4a)** płeć;
 - **5)** adres zamieszkania;
-- **6)** numer PESEL, a w przypadku gdy ubezpieczonemu nie nadano numeru PESEL serię i numer dowodu osobistego lub paszportu.
+- **6)** numer PESEL, a w przypadku gdy ubezpieczonemu nie nadano numeru PESEL – serię i numer dowodu osobistego lub paszportu.
 
 3. W przypadku zgłoszenia do ubezpieczenia zdrowotnego członków rodzin, o których mowa w art. 3 ust. 2 pkt 5 i 6, podmiot obowiązany do zgłoszenia ubezpieczonego przesyła odpowiednio do Zakładu Ubezpieczeń Społecznych albo do Kasy Rolniczego Ubezpieczenia Społecznego dane wymienione w ust. 2 oraz następujące dane dotyczące członka rodziny:
 
@@ -3530,8 +3672,8 @@ Art. 196–228. (pominięte)
 - **3)** adres zamieszkania;
 - **4)** stopień pokrewieństwa;
 - **5)** informację o znacznym stopniu niepełnosprawności;
-- **6)** numer PESEL, a w przypadku gdy członkowi rodziny nie nadano numeru PESEL serię i numer dowodu osobistego lub paszportu;
-- **7)** informację o pozostawaniu we wspólnym gospodarstwie domowym z ubezpieczonym w przypadku osób, o których mowa w art. 5 pkt 3 lit. c.
+- **6)** numer PESEL, a w przypadku gdy członkowi rodziny nie nadano numeru PESEL – serię i numer dowodu osobistego lub paszportu;
+- **7)** informację o pozostawaniu we wspólnym gospodarstwie domowym z ubezpieczonym – w przypadku osób, o których mowa w art. 5 pkt 3 lit. c.
 
 **Art. 78.** Na wniosek ministra właściwego do spraw finansów publicznych kontrolę w zakresie realizacji zadań ubezpieczenia zdrowotnego określonych przepisami ustawy przeprowadza:
 
@@ -3545,7 +3687,7 @@ Art. 196–228. (pominięte)
 
 **Art. 79a.**
 
-1. Składka na ubezpieczenie zdrowotne osób prowadzących działalność pozarolniczą, o których mowa w art. 8 ust. 6 pkt 1, 3, 4 i 5 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych oraz w art. 18 ust. 1 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców, opłacających podatek dochodowy na zasadach określonych w art. 30c ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych wynosi 4,9 % podstawy wymiaru składki, jednak nie mniej niż kwota odpowiadająca 9 %:
+1. Składka na ubezpieczenie zdrowotne osób prowadzących działalność pozarolniczą, o których mowa w art. 8 ust. 6 pkt 1, 3, 4 i 5 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych oraz w art. 18 ust. 1 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, opłacających podatek dochodowy na zasadach określonych w art. 30c ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych wynosi 4,9 % podstawy wymiaru składki, jednak nie mniej niż kwota odpowiadająca 9 %:
 
 - **1)** minimalnego wynagrodzenia obowiązującego w pierwszym dniu roku składkowego, o którym mowa w art. 81 ust. 2, w przypadku składki obliczanej od miesięcznej podstawy jej wymiaru;
 - **2)** iloczynu liczby miesięcy w roku składkowym, o którym mowa w art. 81 ust. 2, i minimalnego wynagrodzenia obowiązującego w pierwszym dniu tego roku składkowego, w przypadku składki obliczanej od rocznej podstawy jej wymiaru.
@@ -3557,7 +3699,7 @@ Art. 196–228. (pominięte)
 1. (uchylony) 1a. Składka na ubezpieczenie zdrowotne osób, o których mowa w art. 66 ust. 1 pkt 1 lit. b i pkt 34, oraz domowników rolników, którzy prowadzą działalność w zakresie działów specjalnych w rozumieniu art. 6 pkt 5 ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników, zwanych dalej „działami specjalnymi”, i dodatkowo w gospodarstwie rolnym, z wyłączeniem rolników prowadzących działalność:
 
 - **1)** wyłącznie w zakresie działów specjalnych i ich domowników,
-- **2)** w zakresie działów specjalnych i dodatkowo w gospodarstwie rolnym za każdą osobę podlegającą ubezpieczeniu wynosi 1 zł za każdy pełny hektar przeliczeniowy użytków rolnych w gospodarstwie rolnym, przyjęty dla celów ustalenia wymiaru składek na ubezpieczenie społeczne rolników. W gospodarstwach rolnych o powierzchni poniżej 1 hektara przeliczeniowego użytków rolnych składka wynosi 1 zł.
+- **2)** w zakresie działów specjalnych i dodatkowo w gospodarstwie rolnym – za każdą osobę podlegającą ubezpieczeniu wynosi 1 zł za każdy pełny hektar przeliczeniowy użytków rolnych w gospodarstwie rolnym, przyjęty dla celów ustalenia wymiaru składek na ubezpieczenie społeczne rolników. W gospodarstwach rolnych o powierzchni poniżej 1 hektara przeliczeniowego użytków rolnych składka wynosi 1 zł.
 
 2. Rolnik prowadzący działalność w zakresie działów specjalnych opłaca składki na ubezpieczenie zdrowotne od deklarowanej podstawy wymiaru składki odpowiadającej:
 
@@ -3570,11 +3712,9 @@ Art. 196–228. (pominięte)
 
 **Art. 81.**
 
-1. Do ustalenia podstawy wymiaru składek na ubezpieczenie zdrowotne osób, o których mowa w art. 66 ust. 1 pkt 1 lit. a, d–i i pkt 3 i 35, stosuje się przepisy określające podstawę wymiaru składek na ubezpieczenia emerytalne i rentowe tych osób, z zastrzeżeniem ust. 5, 6 i 10.
-
 1. Do ustalenia podstawy wymiaru składek na ubezpieczenie zdrowotne osób, o których mowa w art. 66 ust. 1 pkt 1 lit. a, d‒j, pkt 3 i 35, stosuje się przepisy określające podstawę wymiaru składek na ubezpieczenia emerytalne i rentowe tych osób, z zastrzeżeniem ust. 5, 6 i 10.
 
-2. Roczną podstawę wymiaru składki na ubezpieczenie zdrowotne osób prowadzących działalność pozarolniczą, o których mowa w art. 8 ust. 6 pkt 1, 3, 4 i 5 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych oraz art. 18 ust. 1 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców, opłacających podatek dochodowy na zasadach określonych w art. 27, art. 30c lub art. 30ca ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, stanowi dochód z działalności gospodarczej ustalony za rok kalendarzowy jako różnica między osiągniętymi przychodami w rozumieniu ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych a poniesionymi kosztami uzyskania tych przychodów w rozumieniu ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, z uwzględnieniem art. 14c, art. 22 ust. 4a i 4b oraz art. 24 ust. 1 i ust. 2 zdanie pierwsze ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, pomniejszony o kwotę opłaconych w tym roku składek na ubezpieczenia emerytalne, rentowe, chorobowe i wypadkowe, jeżeli nie zostały zaliczone do kosztów uzyskania przychodów. Podstawa wymiaru składki w nowej wysokości obowiązuje od 1 lutego danego roku do 31 stycznia roku następnego, zwanego dalej „rokiem składkowym”.
+2. Roczną podstawę wymiaru składki na ubezpieczenie zdrowotne osób prowadzących działalność pozarolniczą, o których mowa w art. 8 ust. 6 pkt 1, 3, 4 i 5 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych oraz art. 18 ust. 1 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, opłacających podatek dochodowy na zasadach określonych w art. 27, art. 30c lub art. 30ca ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, stanowi dochód z działalności gospodarczej ustalony za rok kalendarzowy jako różnica między osiągniętymi przychodami w rozumieniu ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych a poniesionymi kosztami uzyskania tych przychodów w rozumieniu ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, z uwzględnieniem art. 14c, art. 22 ust. 4a i 4b oraz art. 24 ust. 1 i ust. 2 zdanie pierwsze ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, pomniejszony o kwotę opłaconych w tym roku składek na ubezpieczenia emerytalne, rentowe, chorobowe i wypadkowe, jeżeli nie zostały zaliczone do kosztów uzyskania przychodów. Podstawa wymiaru składki w nowej wysokości obowiązuje od 1 lutego danego roku do 31 stycznia roku następnego, zwanego dalej „rokiem składkowym”.
 
 2a. Podstawa wymiaru składki na ubezpieczenie zdrowotne osób, o których mowa w art. 66 ust. 1 pkt 1 lit. e zatrudnionych jako niania, o której mowa w ustawie z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3 (Dz. U. z 2025 r. poz. 798), sprawujących opiekę nad dziećmi na podstawie umowy uaktywniającej stanowi przychód, z zastrzeżeniem, że podstawę wymiaru składek na ubezpieczenie zdrowotne opłacanych przez Zakład Ubezpieczeń Społecznych ze środków budżetu państwa stanowi kwota nie wyższa niż wysokość minimalnego wynagrodzenia za pracę w danym roku kalendarzowym ustalona zgodnie z przepisami o minimalnym wynagrodzeniu za pracę.
 
@@ -3588,7 +3728,7 @@ Art. 196–228. (pominięte)
 - **4)** dochód ustalony w sposób, o którym mowa w pkt 3, jest pomniejszany o sumę dochodów ustalonych za miesiące poprzedzające i o różnicę między sumą składek na ubezpieczenia emerytalne, rentowe, chorobowe i wypadkowe, zapłaconych od początku roku, a sumą składek odliczonych w poprzednich miesiącach; dochód nie jest pomniejszany o składki, które zostały zaliczone do kosztów uzyskania przychodów;
 - **5)** przy obliczaniu dochodów, o których mowa w pkt 1 i 3, stosuje się art. 24 ust. 1 i ust. 2 zdanie pierwsze ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych oraz uwzględnia się art. 14c oraz art. 22 ust. 4a i 4b ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych; w przypadku osób prowadzących podatkową księgę przychodów i rozchodów dochód, o którym mowa w pkt 1 i 3, ustala się z uwzględnieniem art. 44 ust. 2 zdanie drugie ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych. 2ca. (uchylony) 2d. W przypadku gdy podstawa wymiaru składki na ubezpieczenie zdrowotne w danym miesiącu, ustalona zgodnie z ust. 2c, jest niższa od kwoty minimalnego wynagrodzenia obowiązującego w pierwszym dniu roku składkowego, podstawę wymiaru składki na ubezpieczenie zdrowotne za ten miesiąc stanowi ta kwota.
 
-2e. Roczną podstawę wymiaru składki na ubezpieczenie zdrowotne osób prowadzących działalność pozarolniczą, o których mowa w art. 8 ust. 6 pkt 1, 3, 4 i 5 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych oraz w art. 18 ust. 1 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców, które stosują opodatkowanie w formie ryczałtu od przychodów ewidencjonowanych zgodnie z przepisami ustawy z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. z 2025 r. poz. 843), stanowi:
+2e. Roczną podstawę wymiaru składki na ubezpieczenie zdrowotne osób prowadzących działalność pozarolniczą, o których mowa w art. 8 ust. 6 pkt 1, 3, 4 i 5 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych oraz w art. 18 ust. 1 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, które stosują opodatkowanie w formie ryczałtu od przychodów ewidencjonowanych zgodnie z przepisami ustawy z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. z 2025 r. poz. 843), stanowi:
 
 - **1)** iloczyn liczby miesięcy w roku kalendarzowym podlegania ubezpieczeniu zdrowotnemu i kwoty odpowiadającej 60 % przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw w czwartym kwartale roku poprzedniego, włącznie z wypłatami z zysku, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, jeżeli osiągnięte przychody z działalności gospodarczej w rozumieniu ustawy z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne nie przekroczyły w tym okresie kwoty 60 000 zł;
 - **2)** iloczyn liczby miesięcy w roku kalendarzowym podlegania ubezpieczeniu zdrowotnemu i kwoty przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw w czwartym kwartale roku poprzedniego, włącznie z wypłatami z zysku, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, jeżeli osiągnięte przychody z działalności gospodarczej w rozumieniu ustawy z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne przekroczyły w tym okresie kwotę 60 000 zł i nie przekroczyły kwoty 300 000 zł;
@@ -3618,7 +3758,7 @@ Art. 196–228. (pominięte)
 
 - **1)** dane płatnika składek:
     - **a)** imię i nazwisko,
-    - **b)** numer NIP i REGON, a jeżeli płatnikowi składek nie nadano tych numerów lub jednego z nich numer PESEL lub serię i numer dowodu osobistego albo paszportu,
+    - **b)** numer NIP i REGON, a jeżeli płatnikowi składek nie nadano tych numerów lub jednego z nich – numer PESEL lub serię i numer dowodu osobistego albo paszportu,
     - **c)** adres do korespondencji,
     - **d)** nazwę skróconą płatnika składek,
     - **e)** wskazanie rachunku płatniczego prowadzonego w kraju lub wydanego w kraju instrumentu płatniczego;
@@ -3637,27 +3777,27 @@ Art. 196–228. (pominięte)
 
 2u. Odmowa zwrotu kwoty, o której mowa w ust. 2i, następuje w drodze decyzji wydanej przez Zakład Ubezpieczeń Społecznych, udostępnionej w formie dokumentu elektronicznego opatrzonego kwalifikowanym podpisem elektronicznym, podpisem zaufanym, podpisem osobistym albo kwalifikowaną pieczęcią elektroniczną Zakładu Ubezpieczeń Społecznych, na profilu informacyjnym płatnika składek, utworzonym w systemie teleinformatycznym udostępnionym przez Zakład Ubezpieczeń Społecznych.
 
-2v. Od decyzji o odmowie, o której mowa w ust. 2u, przysługuje odwołanie do właściwego sądu w terminie i według zasad określonych w przepisach ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego dla postępowań w sprawach z zakresu ubezpieczeń społecznych. Przepisy art. 83 ust. 5–7 i art. 83a ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych stosuje się odpowiednio. 2va. Decyzje, postanowienia, zawiadomienia, wezwania, informacje i inne pisma w sprawie zwrotu wypłaconej kwoty, o którym mowa w ust. 2x, Zakład Ubezpieczeń Społecznych może doręczyć w postaci elektronicznej na profilu informacyjnym płatnika składek utworzonym w systemie teleinformatycznym udostępnionym przez Zakład Ubezpieczeń Społecznych. Informacja o umieszczeniu na profilu informacyjnym decyzji, postanowienia, zawiadomienia, wezwania, informacji lub innego pisma w sprawie zwrotu wypłaconej kwoty zostaje przesłana przez Zakład Ubezpieczeń Społecznych płatnikowi składek, który otrzymał zwrot wypłaconej kwoty, na wskazany adres poczty elektronicznej lub numer telefonu. 2vb. Decyzje, postanowienia, zawiadomienia, wezwania, informacje i inne pisma, o których mowa w ust. 2va, opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym, podpisem osobistym, kwalifikowaną pieczęcią elektroniczną Zakładu Ubezpieczeń Społecznych albo zamieszcza się w nich imię, nazwisko i stanowisko służbowe osoby upoważnionej do ich wydania. 2vc. W przypadku, o którym mowa w ust. 2va, decyzje, postanowienia, zawiadomienia, wezwania, informacje i inne pisma w sprawie zwrotu wypłaconej kwoty uznaje się za doręczone:
+2v. Od decyzji o odmowie, o której mowa w ust. 2u, przysługuje odwołanie do właściwego sądu w terminie i według zasad określonych w przepisach ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego dla postępowań w sprawach z zakresu ubezpieczeń społecznych. Przepisy art. 83 ust. 5–7 i art. 83a ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych stosuje się odpowiednio. 2va. Decyzje, postanowienia, zawiadomienia, wezwania, informacje i inne pisma w sprawie zwrotu wypłaconej kwoty, o którym mowa w ust. 2x, Zakład Ubezpieczeń Społecznych może doręczyć w postaci elektronicznej na profilu informacyjnym płatnika składek utworzonym w systemie teleinformatycznym udostępnionym przez Zakład Ubezpieczeń Społecznych. Informacja o umieszczeniu na profilu informacyjnym decyzji, postanowienia, zawiadomienia, wezwania, informacji lub innego pisma w sprawie zwrotu wypłaconej kwoty zostaje przesłana przez Zakład Ubezpieczeń Społecznych płatnikowi składek, który otrzymał zwrot wypłaconej kwoty, na wskazany adres poczty elektronicznej lub numer telefonu. 2vb. Decyzje, postanowienia, zawiadomienia, wezwania, informacje i inne pisma, o których mowa w ust. 2va, opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym, podpisem osobistym, kwalifikowaną pieczęcią elektroniczną Zakładu Ubezpieczeń Społecznych albo zamieszcza się w nich imię, nazwisko i stanowisko służbowe osoby upoważnionej do ich wydania. 2vc. W przypadku, o którym mowa w ust. 2va, decyzje, postanowienia, zawiadomienia, wezwania, informacje i inne pisma w sprawie zwrotu wypłaconej kwoty uznaje się za doręczone:
 
 - **1)** w momencie ich odbioru na profilu informacyjnym;
-- **2)** po upływie 14 dni od dnia umieszczenia decyzji, postanowienia, zawiadomienia, wezwania, informacji i innego pisma w sprawie zwrotu wypłaconej kwoty na profilu informacyjnym w przypadku ich nieodebrania.
+- **2)** po upływie 14 dni od dnia umieszczenia decyzji, postanowienia, zawiadomienia, wezwania, informacji i innego pisma w sprawie zwrotu wypłaconej kwoty na profilu informacyjnym – w przypadku ich nieodebrania.
 
 2w. Środki na zwrot kwot, o których mowa w ust. 2i, potrąca się ze składek przekazywanych przez Zakład Ubezpieczeń Społecznych do Narodowego Funduszu Zdrowia.
 
 2x. W przypadku stwierdzenia, że płatnik składek wprowadził Zakład Ubezpieczeń Społecznych w błąd, jest on zobowiązany do zwrotu wypłaconej kwoty, o której mowa w ust. 2i, w terminie 30 dni od dnia uprawomocnienia się decyzji o obowiązku opłacenia należności. Do zwrotu należności stosuje się odpowiednio przepisy art. 84 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych dotyczące zwrotu nienależnych pobranych świadczeń.
 
-2y. Korekta podstawy wymiaru składek i należnej składki na ubezpieczenie zdrowotne wykazywanych w dokumentach rozliczeniowych za ubezpieczonych, o których mowa w art. 8 ust. 6 pkt 1, 3, 4 i 5 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, za poszczególne miesiące danego roku kalendarzowego może być składana do Zakładu Ubezpieczeń Społecznych do dnia przekazania wniosku, o którym mowa w ust. 2m, a w przypadku jego nieprzekazania nie później niż do końca drugiego miesiąca, licząc od upływu terminu do złożenia zeznania, o którym mowa w art. 45 ust. 1 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, za ten rok kalendarzowy. 2ya. Podstawę wymiaru składki na ubezpieczenie zdrowotne osób współpracujących z osobami prowadzącymi działalność pozarolniczą oraz osobami, o których mowa w art. 18 ust. 1 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców, stanowi kwota odpowiadająca 75 % przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw w czwartym kwartale roku poprzedniego, włącznie z wypłatami z zysku, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”. Składka w nowej wysokości obowiązuje od dnia 1 stycznia do dnia 31 grudnia danego roku kalendarzowego.
+2y. Korekta podstawy wymiaru składek i należnej składki na ubezpieczenie zdrowotne wykazywanych w dokumentach rozliczeniowych za ubezpieczonych, o których mowa w art. 8 ust. 6 pkt 1, 3, 4 i 5 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, za poszczególne miesiące danego roku kalendarzowego może być składana do Zakładu Ubezpieczeń Społecznych do dnia przekazania wniosku, o którym mowa w ust. 2m, a w przypadku jego nieprzekazania – nie później niż do końca drugiego miesiąca, licząc od upływu terminu do złożenia zeznania, o którym mowa w art. 45 ust. 1 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, za ten rok kalendarzowy. 2ya. Podstawę wymiaru składki na ubezpieczenie zdrowotne osób współpracujących z osobami prowadzącymi działalność pozarolniczą oraz osobami, o których mowa w art. 18 ust. 1 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, stanowi kwota odpowiadająca 75 % przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw w czwartym kwartale roku poprzedniego, włącznie z wypłatami z zysku, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”. Składka w nowej wysokości obowiązuje od dnia 1 stycznia do dnia 31 grudnia danego roku kalendarzowego.
 
-2z. Podstawę wymiaru składki na ubezpieczenie zdrowotne osób prowadzących działalność pozarolniczą, o których mowa w art. 8 ust. 6 pkt 1 i 3 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych oraz w art. 18 ust. 1 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców, które stosują opodatkowanie w formie karty podatkowej zgodnie z przepisami ustawy z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne, stanowi kwota minimalnego wynagrodzenia obowiązującego w dniu 1 stycznia danego roku. 2za. Podstawę wymiaru składki na ubezpieczenie zdrowotne pozostałych osób prowadzących działalność pozarolniczą wymienionych w art. 8 ust. 6 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, innych niż wskazane w ust. 2, 2e, 2z i 2zaa, stanowi kwota przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw w czwartym kwartale roku poprzedniego, włącznie z wypłatami z zysku, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”. Składka w nowej wysokości obowiązuje od dnia 1 stycznia do dnia 31 grudnia danego roku kalendarzowego. 2zaa. Do osób prowadzących działalność pozarolniczą wymienionych w art. 8 ust. 6 pkt 2 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, które jednocześnie prowadzą inną działalność pozarolniczą wymienioną w art. 8 ust. 6 tej ustawy, z której opłacają podatek dochodowy z działalności gospodarczej na zasadach określonych w art. 27, art. 30c lub art. 30ca ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych lub na zasadach określonych w ustawie z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne, stosuje się przepisy ust. 2 lub 2e oraz odpowiednio przepisy art. 82 ust. 2a lub 2b. 2zb. W przypadku gdy Zakład Ubezpieczeń Społecznych po upływie terminu, o którym mowa w ust. 2y, stwierdzi, że należna składka na ubezpieczenie zdrowotne ustalona od rocznej podstawy wymiaru jest wyższa od sumy składek rozliczonych za poszczególne miesiące danego roku kalendarzowego albo roku składkowego, to powstałą różnicę przypisuje się do miesiąca, o którym mowa w ust. 2k. 2zc. W przypadku gdy ubezpieczony, o którym mowa w ust. 2c, 2f i 2h, nie przekaże informacji o miesięcznym dochodzie lub przychodzie z działalności gospodarczej, Zakład Ubezpieczeń Społecznych ustala z urzędu za ten miesiąc podstawę wymiaru składki na ubezpieczenie zdrowotne w kwocie:
+2z. Podstawę wymiaru składki na ubezpieczenie zdrowotne osób prowadzących działalność pozarolniczą, o których mowa w art. 8 ust. 6 pkt 1 i 3 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych oraz w art. 18 ust. 1 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, które stosują opodatkowanie w formie karty podatkowej zgodnie z przepisami ustawy z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne, stanowi kwota minimalnego wynagrodzenia obowiązującego w dniu 1 stycznia danego roku. 2za. Podstawę wymiaru składki na ubezpieczenie zdrowotne pozostałych osób prowadzących działalność pozarolniczą wymienionych w art. 8 ust. 6 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, innych niż wskazane w ust. 2, 2e, 2z i 2zaa, stanowi kwota przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw w czwartym kwartale roku poprzedniego, włącznie z wypłatami z zysku, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”. Składka w nowej wysokości obowiązuje od dnia 1 stycznia do dnia 31 grudnia danego roku kalendarzowego. 2zaa. Do osób prowadzących działalność pozarolniczą wymienionych w art. 8 ust. 6 pkt 2 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, które jednocześnie prowadzą inną działalność pozarolniczą wymienioną w art. 8 ust. 6 tej ustawy, z której opłacają podatek dochodowy z działalności gospodarczej na zasadach określonych w art. 27, art. 30c lub art. 30ca ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych lub na zasadach określonych w ustawie z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne, stosuje się przepisy ust. 2 lub 2e oraz odpowiednio przepisy art. 82 ust. 2a lub 2b. 2zb. W przypadku gdy Zakład Ubezpieczeń Społecznych po upływie terminu, o którym mowa w ust. 2y, stwierdzi, że należna składka na ubezpieczenie zdrowotne ustalona od rocznej podstawy wymiaru jest wyższa od sumy składek rozliczonych za poszczególne miesiące danego roku kalendarzowego albo roku składkowego, to powstałą różnicę przypisuje się do miesiąca, o którym mowa w ust. 2k. 2zc. W przypadku gdy ubezpieczony, o którym mowa w ust. 2c, 2f i 2h, nie przekaże informacji o miesięcznym dochodzie lub przychodzie z działalności gospodarczej, Zakład Ubezpieczeń Społecznych ustala z urzędu za ten miesiąc podstawę wymiaru składki na ubezpieczenie zdrowotne w kwocie:
 
-- **1)** minimalnego wynagrodzenia obowiązującego pierwszego dnia roku składkowego dla ubezpieczonego, o którym mowa w ust. 2c;
-- **2)** 60 % przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw w czwartym kwartale roku poprzedniego, włącznie z wypłatami z zysku, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” dla ubezpieczonego, o którym mowa w ust. 2f i 2h. Tak ustalona kwota składki może ulec zmianie w wyniku kontroli lub w przypadku przekazania danych odpowiednio przez Szefa Krajowej Administracji Skarbowej lub właściwego naczelnika urzędu skarbowego. Przepis ust. 2zb stosuje się odpowiednio. 2zd. Ilekroć w ust. 2, 2b–2c, 2d–2f, 2g i 2h–2zc jest mowa o przychodach lub kosztach ich uzyskania, w rozumieniu ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych lub ustawy z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne, nie uwzględnia się w tych przychodach i kosztach ich uzyskania:
-- **1)** przychodów osiągniętych i kosztów poniesionych w okresie zawieszenia wykonywania działalności gospodarczej na podstawie przepisów ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców, z wyłączeniem przychodów rozliczanych w tym okresie na podstawie art. 14c ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych i kosztów potrąconych w tym okresie na podstawie art. 22 ust. 4a i 4b ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych;
+- **1)** minimalnego wynagrodzenia obowiązującego pierwszego dnia roku składkowego – dla ubezpieczonego, o którym mowa w ust. 2c;
+- **2)** 60 % przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw w czwartym kwartale roku poprzedniego, włącznie z wypłatami z zysku, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” – dla ubezpieczonego, o którym mowa w ust. 2f i 2h. Tak ustalona kwota składki może ulec zmianie w wyniku kontroli lub w przypadku przekazania danych odpowiednio przez Szefa Krajowej Administracji Skarbowej lub właściwego naczelnika urzędu skarbowego. Przepis ust. 2zb stosuje się odpowiednio. 2zd. Ilekroć w ust. 2, 2b–2c, 2d–2f, 2g i 2h–2zc jest mowa o przychodach lub kosztach ich uzyskania, w rozumieniu ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych lub ustawy z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne, nie uwzględnia się w tych przychodach i kosztach ich uzyskania:
+- **1)** przychodów osiągniętych i kosztów poniesionych w okresie zawieszenia wykonywania działalności gospodarczej na podstawie przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, z wyłączeniem przychodów rozliczanych w tym okresie na podstawie art. 14c ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych i kosztów potrąconych w tym okresie na podstawie art. 22 ust. 4a i 4b ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych;
 - **2)** przychodów niepodlegających opodatkowaniu podatkiem dochodowym innych niż określone w art. 21 ust. 1 pkt 63a, 63b i 152–154 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych;
 - **3)** przychodów, o których mowa w art. 14 ust. 2 pkt 1 i 19 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, i kosztów uzyskania przychodów, o których mowa w art. 23 ust. 1 pkt 1 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych;
 - **4)** przychodów osiągniętych i kosztów poniesionych w miesiącu, w którym ubezpieczony spełniał warunki do zwolnienia z obowiązku opłacania składki na podstawie art. 82 ust. 8–9a. 2ze. Osoba, o której mowa w ust. 2, może uwzględnić osiągnięte przychody, o których mowa w art. 14 ust. 2 pkt 1 i 19 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, i poniesione koszty uzyskania tych przychodów, o których mowa w art. 23 ust. 1 pkt 1 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, w rocznej podstawie wymiaru składki na ubezpieczenie zdrowotne. Przychody i koszty, o których mowa w zdaniu pierwszym, wykazywane są w dokumencie rozliczeniowym, o którym mowa w ust. 2k, wraz z oświadczeniem o uwzględnieniu tych przychodów i kosztów w rocznej podstawie wymiaru składki na ubezpieczenie zdrowotne. 2zf. Ilekroć w ust. 2, 2b–2c, 2d–2f, 2g i 2h–2zc jest mowa o składkach na ubezpieczenia emerytalne, rentowe, chorobowe i wypadkowe, nie uwzględnia się w ich kwotach składek opłaconych w miesiącu, w którym ubezpieczony spełniał warunki do zwolnienia z obowiązku opłacania składki na podstawie art. 82 ust. 8–9a.
 
-3. Podstawę wymiaru składek dla osób, o których mowa w art. 66 ust. 1 pkt 5–13, stanowi kwota odpowiadająca uposażeniu tych osób.
+3. Podstawę wymiaru składek dla osób, o których mowa w art. 66 ust. 1 pkt 5– 13, stanowi kwota odpowiadająca uposażeniu tych osób.
 
 4. Podstawę wymiaru składek dla osób, o których mowa w art. 66 ust. 1 pkt 4, stanowi kwota odpowiadająca wysokości specjalnego zasiłku opiekuńczego przysługującego na podstawie przepisów o świadczeniach rodzinnych.
 
@@ -3693,7 +3833,7 @@ Art. 196–228. (pominięte)
 - **13)** osób, o których mowa w art. 66 ust. 1 pkt 36, jest kwota odpowiadająca wysokości pobieranego stypendium;
 - **14)** osoby, o której mowa w art. 66 ust. 1 pkt 38, jest kwota podstawy wymiaru składki, o której mowa w art. 18 ust. 8b ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych.
 
-9. W przypadku przyznania ubezpieczonemu prawa do emerytury, renty lub zasiłków z ubezpieczenia społecznego albo świadczeń pieniężnych dla cywilnych ofiar wojny za okres, za który ubezpieczony pobierał świadczenie z innego właściwego organu emerytalnego lub rentowego, zasiłek, dodatek szkoleniowy, stypendium lub inne świadczenie pieniężne z tytułu pozostawania bez pracy albo zasiłek przedemerytalny lub świadczenie przedemerytalne w wysokości uwzględniającej zaliczkę na podatek dochodowy od osób fizycznych i składkę na ubezpieczenie zdrowotne Zakład Ubezpieczeń Społecznych przy ustalaniu podstawy wymiaru składek na ubezpieczenie zdrowotne odejmuje te kwoty od przyznanego świadczenia.
+9. W przypadku przyznania ubezpieczonemu prawa do emerytury, renty lub zasiłków z ubezpieczenia społecznego albo świadczeń pieniężnych dla cywilnych ofiar wojny za okres, za który ubezpieczony pobierał świadczenie z innego właściwego organu emerytalnego lub rentowego, zasiłek, dodatek szkoleniowy, stypendium lub inne świadczenie pieniężne z tytułu pozostawania bez pracy albo zasiłek przedemerytalny lub świadczenie przedemerytalne w wysokości uwzględniającej zaliczkę na podatek dochodowy od osób fizycznych i składkę na ubezpieczenie zdrowotne – Zakład Ubezpieczeń Społecznych przy ustalaniu podstawy wymiaru składek na ubezpieczenie zdrowotne odejmuje te kwoty od przyznanego świadczenia.
 
 10. Podstawą wymiaru składek na ubezpieczenie zdrowotne dla osób, o których mowa w art. 66 ust. 1 pkt 1 lit. f i pkt 21, z wyłączeniem osób duchownych będących podatnikami podatku dochodowego od osób fizycznych lub zryczałtowanego podatku dochodowego od przychodów osób duchownych, jest kwota odpowiadająca wysokości specjalnego zasiłku opiekuńczego przysługującego na podstawie przepisów o świadczeniach rodzinnych.
 
@@ -3729,7 +3869,7 @@ Art. 196–228. (pominięte)
 
 4. Jeżeli ubezpieczony, o którym mowa w art. 81 ust. 2z lub 2za, uzyskuje przychody z więcej niż jednej spółki w ramach tego samego rodzaju działalności, o której mowa w ust. 5 pkt 1–5, składka na ubezpieczenie zdrowotne opłacana jest odrębnie od każdej prowadzonej spółki.
 
-4a. Przepisy ust. 3 i 4 stosuje się odpowiednio do osób, o których mowa w art. 18 ust. 1 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców.
+4a. Przepisy ust. 3 i 4 stosuje się odpowiednio do osób, o których mowa w art. 18 ust. 1 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
 
 5. Rodzajami działalności są:
 
@@ -3769,13 +3909,13 @@ Art. 196–228. (pominięte)
 11. W przypadku gdy osoba duchowna, która nie jest podatnikiem zryczałtowanego podatku dochodowego od przychodów osób duchownych, uzyskuje przychód jedynie z tytułu do objęcia obowiązkiem ubezpieczenia zdrowotnego, o którym mowa w:
 
 - **1)** art. 66 ust. 1 pkt 1 lit. a albo
-- **2)** art. 66 ust. 1 pkt 16 składka na ubezpieczenie zdrowotne opłacana jest wyłącznie z tytułu, z którego osoba ta uzyskuje przychód.
+- **2)** art. 66 ust. 1 pkt 16 – składka na ubezpieczenie zdrowotne opłacana jest wyłącznie z tytułu, z którego osoba ta uzyskuje przychód.
 
 **Art. 83.**
 
 1. W przypadku gdy składka na ubezpieczenie zdrowotne obliczona przez płatnika, o którym mowa w art. 85 ust. 1–13, zgodnie z przepisami art. 79 i art. 81, jest wyższa od kwoty ustalonej zgodnie z ust. 2b, składkę obliczoną za poszczególne miesiące obniża się do wysokości tej kwoty.
 
-2. W przypadku nieobliczania przez płatnika, o którym mowa w art. 85 ust. 1–13, zaliczki na podatek dochodowy od osób fizycznych od przychodów wolnych od podatku dochodowego zgodnie z przepisami ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, składkę obliczoną za poszczególne miesiące obniża się do wysokości 0 zł, z zastrzeżeniem ust. 3.
+2. W przypadku nieobliczania przez płatnika, o którym mowa w art. 85 ust. 1– 13, zaliczki na podatek dochodowy od osób fizycznych od przychodów wolnych od podatku dochodowego zgodnie z przepisami ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, składkę obliczoną za poszczególne miesiące obniża się do wysokości 0 zł, z zastrzeżeniem ust. 3.
 
 2a. W przypadku gdy składka na ubezpieczenie zdrowotne obliczona od przychodu wolnego od podatku dochodowego na podstawie art. 21 ust. 1 pkt 148 i 152–154 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych jest wyższa od kwoty ustalonej zgodnie z ust. 2b, którą płatnik obliczyłby, gdyby przychód ubezpieczonego nie był zwolniony od podatku dochodowego na podstawie tego przepisu, składkę obliczoną za poszczególne miesiące obniża się do wysokości tej kwoty.
 
@@ -3788,7 +3928,7 @@ Art. 196–228. (pominięte)
 - **3)** przychód ubezpieczonego wolny od podatku dochodowego na podstawie art. 21 ust. 1 pkt 74 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, od którego płatnik nie oblicza zaliczki na ten podatek, w stosunku do ubezpieczonych, o których mowa w art. 66 ust. 1 pkt 16,
 - **4)** przychód ubezpieczonego zwolniony od podatku na podstawie umów o unikaniu podwójnego opodatkowania lub innych umów międzynarodowych, od którego płatnik nie oblicza zaliczki na ten podatek, w stosunku do ubezpieczonych, o których mowa w art. 66 ust. 1 pkt 1 i 16,
 - **5)** inny niż wymieniony w pkt 4 przychód ubezpieczonego, od którego płatnik nie oblicza zaliczki na podatek dochodowy od osób fizycznych na podstawie art. 32 ust. 6 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych,
-- **6)** przychód z tytułu wykonywania pracy na podstawie umowy zlecenia albo innej umowy o świadczenie usług, do której zgodnie z przepisami Kodeksu cywilnego stosuje się przepisy dotyczące zlecenia, lub przychód z tytułu pełnienia funkcji członka rady nadzorczej, od którego, na mocy przepisów ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, pobiera się zryczałtowany podatek dochodowy składkę na ubezpieczenie zdrowotne płatnik, o którym mowa w art. 85 ust. 1–13, oblicza zgodnie z przepisami art. 79 i 81.
+- **6)** przychód z tytułu wykonywania pracy na podstawie umowy zlecenia albo innej umowy o świadczenie usług, do której zgodnie z przepisami Kodeksu cywilnego stosuje się przepisy dotyczące zlecenia, lub przychód z tytułu pełnienia funkcji członka rady nadzorczej, od którego, na mocy przepisów ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, pobiera się zryczałtowany podatek dochodowy – składkę na ubezpieczenie zdrowotne płatnik, o którym mowa w art. 85 ust. 1–13, oblicza zgodnie z przepisami art. 79 i 81.
 
 **Art. 84.**
 
@@ -3800,14 +3940,14 @@ Art. 196–228. (pominięte)
 
 - **1)** nazwisko i imię;
 - **2)** adres zamieszkania;
-- **3)** numer PESEL, a w przypadku jego nienadania numer i serię innego dokumentu potwierdzającego tożsamość ubezpieczonego wymienionego w ust. 2 lub numer dokumentu potwierdzającego jego prawo do świadczeń opieki zdrowotnej na podstawie przepisów o koordynacji;
+- **3)** numer PESEL, a w przypadku jego nienadania – numer i serię innego dokumentu potwierdzającego tożsamość ubezpieczonego wymienionego w ust. 2 lub numer dokumentu potwierdzającego jego prawo do świadczeń opieki zdrowotnej na podstawie przepisów o koordynacji;
 - **4)** okres, którego dotyczy składka na ubezpieczenie zdrowotne.
 
 **Art. 84a.** Składkę na ubezpieczenie zdrowotne, o której mowa w art. 80 ust. 1a, w gospodarstwach rolnych o powierzchni od 6 hektarów przeliczeniowych użytków rolnych, przyjętych dla celów ustalenia wymiaru składek na ubezpieczenie społeczne rolników, oraz składkę, o której mowa w art. 80 ust. 3a, opłaca rolnik.
 
 **Art. 85.**
 
-1. Za osobę pozostającą w stosunku pracy, w stosunku służbowym albo odbywającą służbę zastępczą składkę jako płatnik oblicza, pobiera z dochodu ubezpieczonego i odprowadza pracodawca, a w razie wypłaty świadczeń pracowniczych z Funduszu Gwarantowanych Świadczeń Pracowniczych , o których mowa w ustawie z dnia 29 grudnia 1993 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy (Dz. U. z 2002 r. poz. 85, z późn. zm. ) podmiot obowiązany do wypłaty tych świadczeń.
+1. Za osobę pozostającą w stosunku pracy, w stosunku służbowym albo odbywającą służbę zastępczą składkę jako płatnik oblicza, pobiera z dochodu ubezpieczonego i odprowadza pracodawca, a w razie wypłaty świadczeń pracowniczych z Funduszu Gwarantowanych Świadczeń Pracowniczych , o których mowa w ustawie z dnia 29 grudnia 1993 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy (Dz. U. z 2002 r. poz. 85, z późn. zm. ) – podmiot obowiązany do wypłaty tych świadczeń.
 
 2. Za osobę pobierającą świadczenie szkoleniowe wypłacane po ustaniu zatrudnienia składkę jako płatnik oblicza, pobiera z dochodu ubezpieczonego i odprowadza podmiot, który wypłaca to świadczenie.
 
@@ -3825,7 +3965,7 @@ Art. 196–228. (pominięte)
 
 7. Za członków rolniczych spółdzielni produkcyjnych i spółdzielni kółek rolniczych oraz członków ich rodzin składkę jako płatnik oblicza, pobiera z dochodu ubezpieczonego i odprowadza spółdzielnia.
 
-8. Za osobę pobierającą uposażenie posła składkę jako płatnik oblicza, pobiera z dochodu ubezpieczonego i odprowadza Kancelaria Sejmu, a za osobę pobierającą uposażenie senatora Kancelaria Senatu.
+8. Za osobę pobierającą uposażenie posła składkę jako płatnik oblicza, pobiera z dochodu ubezpieczonego i odprowadza Kancelaria Sejmu, a za osobę pobierającą uposażenie senatora – Kancelaria Senatu.
 
 9. Za osobę pobierającą emeryturę lub rentę lub rodzicielskie świadczenie uzupełniające składkę jako płatnik oblicza, pobiera z kwoty emerytury lub renty, o której mowa w art. 81 ust. 8 pkt 2 i ust. 9, albo z kwoty rodzicielskiego świadczenia uzupełniającego, o której mowa w art. 81 ust. 8 pkt 2a, i odprowadza jednostka organizacyjna Zakładu Ubezpieczeń Społecznych określona w przepisach o systemie ubezpieczeń społecznych, właściwa do wydawania decyzji w sprawach świadczeń, Kasa Rolniczego Ubezpieczenia Społecznego, inny właściwy organ emerytalny lub rentowy lub instytucja wypłacająca emeryturę lub rentę albo bank dokonujący wypłaty emerytury lub renty z zagranicy.
 
@@ -3841,7 +3981,7 @@ Art. 196–228. (pominięte)
 
 14. Za osobę współpracującą z osobą prowadzącą pozarolniczą działalność składkę oblicza, odprowadza i finansuje ze środków własnych osoba prowadząca pozarolniczą działalność.
 
-14a. Za osobę współpracującą z osobą, o której mowa w art. 18 ust. 1 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców, składkę oblicza, odprowadza i finansuje ze środków własnych osoba, o której mowa w art. 18 ust. 1 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców.
+14a. Za osobę współpracującą z osobą, o której mowa w art. 18 ust. 1 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, składkę oblicza, odprowadza i finansuje ze środków własnych osoba, o której mowa w art. 18 ust. 1 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
 
 15. Za osobę korzystającą z urlopu wychowawczego składkę na ubezpieczenie zdrowotne oblicza pracodawca albo rolnicza spółdzielnia produkcyjna.
 
@@ -3864,17 +4004,17 @@ Art. 196–228. (pominięte)
 - **3)** osób, o których mowa w art. 66 ust. 1 pkt 4, opłaca się z budżetu państwa, z części pozostającej w dyspozycji ministra właściwego do spraw wewnętrznych;
 - **3a)** osób, o których mowa w art. 66 ust. 1 pkt 15, w zakresie, w jakim osobom tym nie wypłaca się wynagrodzenia z uwagi na sprawowanie urzędu delegowanego prokuratora europejskiego, opłaca ich pracodawca w Rzeczypospolitej Polskiej na podstawie wysokości ostatniego wynagrodzenia przed objęciem tego urzędu;
 - **4)** (uchylony)
-- **5)** dzieci, o których mowa w art. 66 ust. 1 pkt 19, opłaca ośrodek pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych centrum usług społecznych;
+- **5)** dzieci, o których mowa w art. 66 ust. 1 pkt 19, opłaca ośrodek pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych – centrum usług społecznych;
 - **6)** (uchylony)
 - **7)** (uchylony)
-- **8)** osób, o których mowa w art. 66 ust. 1 pkt 26, opłaca ośrodek pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych centrum usług społecznych;
+- **8)** osób, o których mowa w art. 66 ust. 1 pkt 26, opłaca ośrodek pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych – centrum usług społecznych;
 - **9)** osób, o których mowa w art. 66 ust. 1 pkt 28–28b, opłaca wójt, burmistrz lub prezydent miasta;
 - **9a)** osób, o których mowa w art. 66 ust. 1 pkt 28c i 28d, opłaca Zakład Ubezpieczeń Społecznych;
 - **10)** osób, o których mowa w art. 66 ust. 1 pkt 27, opłaca powiatowe centrum pomocy rodzinie realizujące indywidualny program integracji;
-- **11)** osób, o których mowa w art. 66 ust. 1 pkt 29 i 30, opłaca ośrodek pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych centrum usług społecznych, realizujące indywidualny program wychodzenia z bezdomności lub kierujące do uczestnictwa w zajęciach w centrum integracji społecznej lub ośrodek pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych centrum usług społecznych, realizujące kontrakt socjalny, o którym mowa w art. 108 ust. 2 ustawy z dnia 12 marca 2004 r. o pomocy społecznej;
+- **11)** osób, o których mowa w art. 66 ust. 1 pkt 29 i 30, opłaca ośrodek pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych – centrum usług społecznych, realizujące indywidualny program wychodzenia z bezdomności lub kierujące do uczestnictwa w zajęciach w centrum integracji społecznej lub ośrodek pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych – centrum usług społecznych, realizujące kontrakt socjalny, o którym mowa w art. 108 ust. 2 ustawy z dnia 12 marca 2004 r. o pomocy społecznej;
 - **12)** (uchylony)
 - **13)** osób, o których mowa w art. 66 ust. 1 pkt 32 i 32a, opłaca Zakład Ubezpieczeń Społecznych;
-- **13a)** osób zatrudnionych jako niania, o której mowa w ustawie z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3, opłaca Zakład Ubezpieczeń Społecznych od podstawy stanowiącej kwotę nie wyższą niż wysokość minimalnego wynagrodzenia za pracę ustalonego zgodnie z przepisami o minimalnym wynagrodzeniu za pracę;
+- **13a)** osób zatrudnionych jako niania, o której mowa w ustawie z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3, opłaca Zakład Ubezpieczeń Społecznych – od podstawy stanowiącej kwotę nie wyższą niż wysokość minimalnego wynagrodzenia za pracę ustalonego zgodnie z przepisami o minimalnym wynagrodzeniu za pracę;
 - **14)** (uchylony)
 - **15)** osób, o których mowa w art. 66 ust. 1 pkt 36, niekorzystających ze świadczenia określonego w art. 41a ust. 1 ustawy z dnia 23 stycznia 2009 r. o Krajowej Szkole Sądownictwa i Prokuratury, opłaca Krajowa Szkoła Sądownictwa i Prokuratury;
 - **15a)** osób, o których mowa w art. 21 ust. 1 pkt 151 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, od części wynagrodzenia, które podlega zwolnieniu od podatku dochodowego, opłaca pracodawca;
@@ -3897,9 +4037,9 @@ Art. 196–228. (pominięte)
 
 **Art. 87.**
 
-1. Osoby i jednostki organizacyjne, o których mowa w art. 80 ust. 2, art. 84, art. 85 i art. 86, są obowiązane, bez uprzedniego wezwania, opłacić i rozliczyć składki na ubezpieczenie zdrowotne za każdy miesiąc kalendarzowy w trybie i na zasadach oraz w terminie przewidzianych dla składek na ubezpieczenie społeczne, a jeżeli do tych osób i jednostek nie stosuje się przepisów o ubezpieczeniu społecznym w terminie do 15. dnia następnego miesiąca.
+1. Osoby i jednostki organizacyjne, o których mowa w art. 80 ust. 2, art. 84, art. 85 i art. 86, są obowiązane, bez uprzedniego wezwania, opłacić i rozliczyć składki na ubezpieczenie zdrowotne za każdy miesiąc kalendarzowy w trybie i na zasadach oraz w terminie przewidzianych dla składek na ubezpieczenie społeczne, a jeżeli do tych osób i jednostek nie stosuje się przepisów o ubezpieczeniu społecznym – w terminie do 15. dnia następnego miesiąca.
 
-1a. Rolnicy, o których mowa w art. 84a, są obowiązani opłacać, bez uprzedniego wezwania, składki na ubezpieczenie zdrowotne za każdą osobę podlegającą ubezpieczeniu, za każdy miesiąc, kwartalnie w terminach określonych dla składek na ubezpieczenie społeczne rolników.
+1a. Rolnicy, o których mowa w art. 84a, są obowiązani opłacać, bez uprzedniego wezwania, składki na ubezpieczenie zdrowotne za każdą osobę podlegającą ubezpieczeniu, za każdy miesiąc, kwartalnie – w terminach określonych dla składek na ubezpieczenie społeczne rolników.
 
 1b. Składka na ubezpieczenie zdrowotne od emerytur i rent rolniczych wypłacanych raz na kwartał jest odprowadzana w całości w terminie do 15. dnia miesiąca następującego po miesiącu, w którym świadczenie zostało wypłacone.
 
@@ -3914,8 +4054,7 @@ Art. 196–228. (pominięte)
 
 4. Składki na ubezpieczenie zdrowotne:
 
-- **1)** osób wymienionych w art. 66 ust. 1 pkt 1 lit. a i c–i, pkt 1a, 3–8, 8b–16a, 19, 21–24 i 24b pobierających zasiłek dla bezrobotnych lub stypendium, pkt 24a i 25 pobierających zasiłek przedemerytalny lub świadczenie przedemerytalne, pkt 26–30 i 32–33 oraz w art. 68 są opłacane i ewidencjonowane w Zakładzie Ubezpieczeń Społecznych, z zastrzeżeniem pkt 2;
-- **1)** osób wymienionych w art. 66 ust. 1 pkt 1 lit. a i c‒j, pkt 1a, 3‒8, 8b‒16a, 19, 21‒24 i 24b pobierających zasiłek dla bezrobotnych lub stypendium, pkt 24a i 25 pobierających zasiłek przedemerytalny lub świadczenie przedemerytalne, pkt 26‒30 i 32‒33 oraz w art. 68 są opłacane i ewidencjonowane w Zakładzie Ubezpieczeń Społecznych, z zastrzeżeniem pkt 2;
+- **1)** osób wymienionych w art. 66 ust. 1 pkt 1 lit. a i c‒j, pkt 1a, 3‒8, 8b‒16a, 19, 21‒ 24 i 24b – pobierających zasiłek dla bezrobotnych lub stypendium, pkt 24a i 25 – pobierających zasiłek przedemerytalny lub świadczenie przedemerytalne, pkt 26‒30 i 32‒33 oraz w art. 68 są opłacane i ewidencjonowane w Zakładzie Ubezpieczeń Społecznych, z zastrzeżeniem pkt 2;
 - **1a)** osób wymienionych w art. 66 ust. 1 pkt 8a są opłacane i ewidencjonowane w centrali Funduszu;
 - **2)** osób wymienionych w art. 66 ust. 1 pkt 1 lit. b i ba oraz pkt 16 pobierających świadczenia emerytalno-rentowe z Kasy Rolniczego Ubezpieczenia Społecznego oraz osób wymienionych w art. 66 ust. 1 pkt 34 są opłacane i ewidencjonowane w Kasie Rolniczego Ubezpieczenia Społecznego;
 - **3)** osób wymienionych w art. 66 ust. 1 pkt 36 są opłacane i ewidencjonowane w Zakładzie Ubezpieczeń Społecznych.
@@ -3930,7 +4069,7 @@ Art. 196–228. (pominięte)
 
 6. Zakład Ubezpieczeń Społecznych przekazuje pobrane składki na ubezpieczenie zdrowotne i należności pochodne od składek niezwłocznie do centrali Funduszu, nie później niż w ciągu 3 dni roboczych od dnia ich wpływu na rachunek, o którym mowa w art. 47 ust. 4 pkt 2 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych.
 
-7. Zakład Ubezpieczeń Społecznych, Kasa Rolniczego Ubezpieczenia Społecznego oraz podmiot zobowiązany do przekazania składek za osoby, o których mowa w art. 66 ust. 1 pkt 8a, przekazują nieodpłatnie do centrali Funduszu lub na jego wniosek do oddziału wojewódzkiego Funduszu, dane o ubezpieczonych oraz zgłoszonych do ubezpieczenia zdrowotnego członkach rodzin ubezpieczonych, określone w art. 188 ust. 4 pkt 1, 7–9 i 13, oraz o opłaconych za nich składkach na ubezpieczenie zdrowotne, przekazane w zgłoszeniu, o którym mowa w art. 77 ust. 1 i 3, i w imiennym raporcie miesięcznym, oraz o odsetkach za zwłokę, w terminie 15 dni roboczych od dnia wpływu składek i odsetek oraz dokumentów umożliwiających ustalenie ich wysokości i rozdzielenie ich na ubezpieczonych.
+7. Zakład Ubezpieczeń Społecznych, Kasa Rolniczego Ubezpieczenia Społecznego oraz podmiot zobowiązany do przekazania składek za osoby, o których mowa w art. 66 ust. 1 pkt 8a, przekazują nieodpłatnie do centrali Funduszu lub – na jego wniosek – do oddziału wojewódzkiego Funduszu, dane o ubezpieczonych oraz zgłoszonych do ubezpieczenia zdrowotnego członkach rodzin ubezpieczonych, określone w art. 188 ust. 4 pkt 1, 7–9 i 13, oraz o opłaconych za nich składkach na ubezpieczenie zdrowotne, przekazane w zgłoszeniu, o którym mowa w art. 77 ust. 1 i 3, i w imiennym raporcie miesięcznym, oraz o odsetkach za zwłokę, w terminie 15 dni roboczych od dnia wpływu składek i odsetek oraz dokumentów umożliwiających ustalenie ich wysokości i rozdzielenie ich na ubezpieczonych.
 
 8. Zakład Ubezpieczeń Społecznych, Kasa Rolniczego Ubezpieczenia Społecznego oraz podmiot zobowiązany do przekazania składek za osoby, o których mowa w art. 66 ust. 1 pkt 8a, przekazują nieodpłatnie centrali Funduszu lub oddziałowi wojewódzkiemu Funduszu, na ich wniosek, dane związane z:
 
@@ -3950,16 +4089,16 @@ Art. 196–228. (pominięte)
 10a. Organ prowadzący rejestr PESEL udostępnia centrali Funduszu za pomocą środków komunikacji elektronicznej:
 
 - **1)** nowo nadane numery PESEL i odpowiadające im imiona, nazwiska i nazwiska rodowe oraz wskazanie rodzaju i numeru dokumentu potwierdzającego tożsamość danej osoby;
-- **2)** numery PESEL dzieci i ich rodziców, których dane są gromadzone w rejestrze PESEL jeżeli są dostępne;
+- **2)** numery PESEL dzieci i ich rodziców, których dane są gromadzone w rejestrze PESEL – jeżeli są dostępne;
 - **3)** numery PESEL i odpowiadające im imiona, nazwiska i nazwiska rodowe osób, których zgon został zgłoszony;
-- **3a)** informację, że numer PESEL został nadany w trybie, o którym mowa w art. 4 ustawy wskazanej w art. 12 pkt 13;
+- **3a)** informację o statusie, o którym mowa w art. 8 ust. 24a lit. d ustawy z dnia 24 września 2010 r. o ewidencji ludności (Dz. U. z 2025 r. poz. 274, z późn. zm. );
 - **4)** informacje o zmianie danych, o których mowa w pkt 1–3a.
 
 10b. Organ prowadzący rejestr PESEL i Fundusz uzgadniają format udostępnianych danych, o których mowa w ust. 10a.
 
 10c. Zakład Ubezpieczeń Społecznych, Kasa Rolniczego Ubezpieczenia Społecznego oraz podmiot zobowiązany do przekazania składek za osoby, o których mowa w art. 66 ust. 1 pkt 8a, przekazują do centrali Funduszu odpowiednio dane dotyczące wszystkich osób pobierających zasiłki, o których mowa w art. 67 ust. 6, i wszystkich osób, które złożyły wniosek o emeryturę lub rentę, o których mowa w art. 67 ust. 7, z zastrzeżeniem ust. 10f, oraz o pracownikach korzystających z urlopu bezpłatnego.
 
-10d. Zakres danych dotyczących wszystkich osób posiadających prawo do zasiłku, o których mowa w art. 67 ust. 6, i wszystkich osób, które złożyły wniosek o emeryturę lub rentę, o których mowa w art. 67 ust. 7, obejmuje dane, o których mowa w art. 188 ust. 4 pkt 1, 3, 4, 7 i 9, tytuł uprawnienia oraz datę odpowiednio powstania i ustania prawa do zasiłku albo datę zgłoszenia wniosku o emeryturę lub rentę, a w przypadku osób, o których mowa w art. 67 ust. 6 także okres, na który przyznano prawo do zasiłku, określony w decyzji Zakładu Ubezpieczeń Społecznych.
+10d. Zakres danych dotyczących wszystkich osób posiadających prawo do zasiłku, o których mowa w art. 67 ust. 6, i wszystkich osób, które złożyły wniosek o emeryturę lub rentę, o których mowa w art. 67 ust. 7, obejmuje dane, o których mowa w art. 188 ust. 4 pkt 1, 3, 4, 7 i 9, tytuł uprawnienia oraz datę odpowiednio powstania i ustania prawa do zasiłku albo datę zgłoszenia wniosku o emeryturę lub rentę, a w przypadku osób, o których mowa w art. 67 ust. 6 – także okres, na który przyznano prawo do zasiłku, określony w decyzji Zakładu Ubezpieczeń Społecznych.
 
 10e. Zakres danych dotyczących pracowników korzystających z urlopu bezpłatnego obejmuje dane, o których mowa w art. 188 ust. 4 pkt 1, 3, 4, 7 i 9, oraz datę rozpoczęcia i zakończenia urlopu bezpłatnego.
 
@@ -3978,30 +4117,29 @@ Art. 196–228. (pominięte)
 1. Zakład Ubezpieczeń Społecznych przekazuje do centrali Funduszu nieodpłatnie, w postaci elektronicznej, dane:
 
 - **1)** osób, którym wypłacono zasiłek chorobowy z ubezpieczenia społecznego w razie choroby i macierzyństwa albo z ubezpieczenia społecznego z tytułu wypadków przy pracy i chorób zawodowych albo zasiłek opiekuńczy z tytułu konieczności osobistego sprawowania opieki nad chorym członkiem rodziny z ubezpieczenia społecznego w razie choroby i macierzyństwa obejmujące:
-    - **a)** numer PESEL, a w razie gdy nie nadano numeru PESEL rodzaj, serię i numer dokumentu potwierdzającego tożsamość,
+    - **a)** numer PESEL, a w razie gdy nie nadano numeru PESEL – rodzaj, serię i numer dokumentu potwierdzającego tożsamość,
     - **b)** informacje o rodzaju wypłaconego świadczenia,
 
 - **2)** osób pobierających rentę z tytułu niezdolności do pracy obejmujące:
-    - **a)** numer PESEL, a w razie gdy nie nadano numeru PESEL rodzaj, serię i numer dokumentu potwierdzającego tożsamość,
+    - **a)** numer PESEL, a w razie gdy nie nadano numeru PESEL – rodzaj, serię i numer dokumentu potwierdzającego tożsamość,
     - **b)** symbol renty,
     - **c)** informację, czy renta jest stała czy okresowa,
 
-- **3)** numer PESEL, a w razie gdy nie nadano numeru PESEL rodzaj, serię i numer dokumentu potwierdzającego tożsamość, osób, którym przyznano jednorazowe odszkodowanie z ubezpieczenia społecznego z tytułu wypadków przy pracy i chorób zawodowych,
+- **3)** numer PESEL, a w razie gdy nie nadano numeru PESEL – rodzaj, serię i numer dokumentu potwierdzającego tożsamość, osób, którym przyznano jednorazowe odszkodowanie z ubezpieczenia społecznego z tytułu wypadków przy pracy i chorób zawodowych,
 - **4)** osób skierowanych na rehabilitację leczniczą w ramach prewencji rentowej obejmujące:
-    - **a)** numer PESEL, a w razie gdy nie nadano numeru PESEL rodzaj, serię i numer dokumentu potwierdzającego tożsamość,
-    - **b)** rodzaj schorzenia uzasadniającego skierowanie na rehabilitację leczniczą oraz schorzenia współistniejącego, jeżeli takie zostało wskazane w orzeczeniu lekarza orzecznika Zakładu Ubezpieczeń Społecznych lub komisji lekarskiej Zakładu Ubezpieczeń Społecznych o potrzebie rehabilitacji leczniczej, ustalonych według Międzynarodowej Statystycznej Klasyfikacji Chorób i Problemów Zdrowotnych ICD-10,
+    - **a)** numer PESEL, a w razie gdy nie nadano numeru PESEL – rodzaj, serię i numer dokumentu potwierdzającego tożsamość, [b) rodzaj schorzenia uzasadniającego skierowanie na rehabilitację leczniczą oraz schorzenia współistniejącego, jeżeli takie zostało wskazane w orzeczeniu lekarza orzecznika Zakładu Ubezpieczeń Społecznych lub komisji lekarskiej Zakładu Ubezpieczeń Społecznych o potrzebie rehabilitacji leczniczej, ustalonych według obowiązującej Międzynarodowej Klasyfikacji Chorób i Problemów Zdrowotnych,] <b) rodzaj schorzenia uzasadniającego skierowanie na rehabilitację leczniczą oraz schorzenia współistniejącego, jeżeli takie zostało wskazane w orzeczeniu lekarza orzecznika Zakładu Ubezpieczeń Społecznych lub fizjoterapeuty, o którym mowa w przepisach o zawodzie fizjoterapeuty, o potrzebie rehabilitacji leczniczej, ustalonych według obowiązującej Międzynarodowej Klasyfikacji Chorób i Problemów Zdrowotnych,>
     - **c)** okres rehabilitacji leczniczej,
 
 - **5)** osób, którym na podstawie art. 23 ustawy z dnia 30 października 2002 r. o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych (Dz. U. z 2025 r. poz. 257, 620 i 1083) przyznano świadczenia zdrowotne z zakresu stomatologii, szczepień ochronnych lub wyrobów medycznych obejmujące:
-    - **a)** numer PESEL, a w razie gdy nie nadano numeru PESEL rodzaj, serię i numer dokumentu potwierdzającego tożsamość,
+    - **a)** numer PESEL, a w razie gdy nie nadano numeru PESEL – rodzaj, serię i numer dokumentu potwierdzającego tożsamość,
     - **b)** informację, z jakiego zakresu jest świadczenie,
-    - **c)** wysokość świadczenia w celu monitorowania stanu zdrowia i zapotrzebowania ubezpieczonych na świadczenia zdrowotne oraz leki i wyroby medyczne, a także dokonywania analiz przepływu środków publicznych przeznaczonych na finansowanie świadczeń opieki zdrowotnej.
+    - **c)** wysokość świadczenia – w celu monitorowania stanu zdrowia i zapotrzebowania ubezpieczonych na świadczenia zdrowotne oraz leki i wyroby medyczne, a także dokonywania analiz przepływu środków publicznych przeznaczonych na finansowanie świadczeń opieki zdrowotnej.
 
 2. Dane, o których mowa w ust. 1, Zakład Ubezpieczeń Społecznych przekazuje do dnia 30 kwietnia danego roku za poprzedni rok kalendarzowy.
 
 3. Dane, o których mowa w ust. 1 pkt 2, Zakład Ubezpieczeń Społecznych przekazuje według stanu na dzień 31 grudnia poprzedniego roku kalendarzowego.
 
-4. Dane, o których mowa w ust. 1, Zakład Ubezpieczeń Społecznych przekazuje także na wniosek centrali Funduszu, zawierający numer PESEL osoby, której dane dotyczą, a w razie gdy nie nadano numeru PESEL rodzaj, serię i numer dokumentu potwierdzającego tożsamość tej osoby, w terminie 10 dni od dnia otrzymania wniosku, według stanu na dzień złożenia wniosku.
+4. Dane, o których mowa w ust. 1, Zakład Ubezpieczeń Społecznych przekazuje także na wniosek centrali Funduszu, zawierający numer PESEL osoby, której dane dotyczą, a w razie gdy nie nadano numeru PESEL – rodzaj, serię i numer dokumentu potwierdzającego tożsamość tej osoby, w terminie 10 dni od dnia otrzymania wniosku, według stanu na dzień złożenia wniosku.
 
 5. Centrala Funduszu jest obowiązana do udostępniania ministrowi właściwemu do spraw zdrowia oraz jednostce podległej ministrowi właściwemu do spraw zdrowia właściwej w zakresie systemów informacyjnych w ochronie zdrowia danych, o których mowa w ust. 1, w celu dokonywania analiz na rzecz systemu ochrony zdrowia.
 
@@ -4063,7 +4201,7 @@ Art. 196–228. (pominięte)
 
 3. Wyniki analiz, o których mowa w ust. 1 pkt 1, są aktualizowane co roku i zamieszczane przez ministra właściwego do spraw zdrowia w Biuletynie Informacji Publicznej na stronie podmiotowej tego ministra oraz przekazywane do zamieszczenia w Biuletynie Informacji Publicznej na stronie podmiotowej właściwego wojewody.
 
-4. Minister właściwy do spraw zdrowia, w celu realizacji zadań, o których mowa w ust. 1, może zlecić Agencji, Funduszowi oraz Narodowemu Instytutowi Zdrowia Publicznego Państwowemu Zakładowi Higieny przygotowanie niezbędnych danych i analiz.
+4. Minister właściwy do spraw zdrowia, w celu realizacji zadań, o których mowa w ust. 1, może zlecić Agencji, Funduszowi oraz Narodowemu Instytutowi Zdrowia Publicznego – Państwowemu Zakładowi Higieny przygotowanie niezbędnych danych i analiz.
 
 5. Minister właściwy do spraw zdrowia, w celu realizacji zadań, o których mowa w ust. 1, współpracuje z wojewodami w zakresie określania w mapie rekomendowanych kierunków działań dla danego województwa.
 
@@ -4087,7 +4225,7 @@ Art. 196–228. (pominięte)
 
 3. Krajowy plan może obejmować działania podejmowane w celu przeciwdziałania wystąpieniu stanu zagrożenia epidemicznego albo stanu epidemii, o których mowa w ustawie z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, oraz zwalczania skutków wystąpienia tych stanów.
 
-4. Minister właściwy do spraw zdrowia przekazuje projekt krajowego planu Radzie Dialogu Społecznego, Prezesowi Funduszu, Prezesowi Agencji oraz Dyrektorowi Narodowego Instytutu Zdrowia Publicznego Państwowego Zakładu Higieny, konsultantom krajowym w ochronie zdrowia, Dyrektorowi Narodowego Instytutu Kardiologii, Dyrektorowi Narodowego Instytutu Onkologii do zaopiniowania z terminem zgłaszania uwag 30 dni od dnia jego otrzymania. Niewydanie opinii w tym terminie jest równoznaczne z opinią pozytywną.
+4. Minister właściwy do spraw zdrowia przekazuje projekt krajowego planu Radzie Dialogu Społecznego, Prezesowi Funduszu, Prezesowi Agencji oraz Dyrektorowi Narodowego Instytutu Zdrowia Publicznego – Państwowego Zakładu Higieny, konsultantom krajowym w ochronie zdrowia, Dyrektorowi Narodowego Instytutu Kardiologii, Dyrektorowi Narodowego Instytutu Onkologii do zaopiniowania z terminem zgłaszania uwag 30 dni od dnia jego otrzymania. Niewydanie opinii w tym terminie jest równoznaczne z opinią pozytywną.
 
 5. Krajowy plan ustala się na okres 5 lat.
 
@@ -4142,7 +4280,7 @@ Art. 196–228. (pominięte)
 - **2)** zgodności z krajowym planem,
 - **3)** zgodności z innymi dokumentami strategicznymi w ochronie zdrowia,
 - **4)** celowości uwzględnienia działań wykraczających poza zakres rekomendowanych kierunków działań przedstawionych w mapie,
-- **5)** adekwatności przyjętych w projekcie wojewódzkiego planu działań do potrzeb zdrowotnych i wyzwań organizacji systemu opieki zdrowotnej wymagających podjęcia działań koordynowanych na poziomie województwa a następnie zatwierdza projekt wojewódzkiego planu albo przekazuje wojewodzie uwagi do projektu.
+- **5)** adekwatności przyjętych w projekcie wojewódzkiego planu działań do potrzeb zdrowotnych i wyzwań organizacji systemu opieki zdrowotnej wymagających podjęcia działań koordynowanych na poziomie województwa – a następnie zatwierdza projekt wojewódzkiego planu albo przekazuje wojewodzie uwagi do projektu.
 
 7. Minister właściwy do spraw zdrowia zatwierdza wojewódzki plan po uwzględnieniu uwag przez wojewodę.
 
@@ -4184,7 +4322,7 @@ Art. 196–228. (pominięte)
 - **6)** jeden przedstawiciel konwentu powiatów danego województwa;
 - **7)** jeden przedstawiciel państwowego wojewódzkiego inspektora sanitarnego;
 - **8)** jeden przedstawiciel Rzecznika Praw Pacjenta;
-- **9)** jeden przedstawiciel dyrektora Narodowego Instytutu Zdrowia Publicznego Państwowego Zakładu Higieny;
+- **9)** jeden przedstawiciel dyrektora Narodowego Instytutu Zdrowia Publicznego – Państwowego Zakładu Higieny;
 - **10)** jeden przedstawiciel ministra właściwego do spraw zdrowia.
 
 3. Wojewoda powołuje członków wojewódzkiej rady, z tym że członkowie, o których mowa w ust. 2 pkt 3–10, są powoływani na wniosek właściwego organu lub podmiotu.
@@ -4212,9 +4350,9 @@ Art. 196–228. (pominięte)
 
 12. Szczegółowy tryb pracy wojewódzkiej rady określa regulamin pracy wojewódzkiej rady uchwalony przez wojewódzką radę.
 
-13. Członkom wojewódzkiej rady oraz osobom, o których mowa w ust. 10, w związku z wykonywanymi czynnościami przysługuje zwrot kosztów przejazdu w wysokości i na warunkach określonych w przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy.
+13. Członkom wojewódzkiej rady oraz osobom, o których mowa w ust. 10, w związku z wykonywanymi czynnościami przysługuje zwrot kosztów przejazdu w wysokości i na warunkach określonych w przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
 
-14. Pracodawca jest obowiązany zwolnić pracownika od pracy na czas niezbędny do wzięcia udziału w posiedzeniach wojewódzkiej rady. W przypadku skorzystania przez pracownika ze zwolnienia od pracy pracodawca wydaje zaświadczenie określające wysokość utraconego wynagrodzenia za czas tego zwolnienia w celu uzyskania przez pracownika od wojewody rekompensaty pieniężnej z tego tytułu w wysokości przewidzianej w zaświadczeniu, chyba że obowiązujące u danego pracodawcy przepisy prawa pracy przewidują zachowanie przez pracownika prawa do wynagrodzenia za czas zwolnienia.
+14. Pracodawca jest obowiązany zwolnić pracownika od pracy na czas niezbędny do wzięcia udziału w posiedzeniach wojewódzkiej rady. W przypadku skorzystania przez pracownika ze zwolnienia od pracy pracodawca wydaje zaświadczenie określające wysokość utraconego wynagrodzenia za czas tego zwolnienia w celu uzyskania przez pracownika od wojewody rekompensaty pieniężnej z tego tytułu – w wysokości przewidzianej w zaświadczeniu, chyba że obowiązujące u danego pracodawcy przepisy prawa pracy przewidują zachowanie przez pracownika prawa do wynagrodzenia za czas zwolnienia.
 
 15. Koszty funkcjonowania wojewódzkiej rady są pokrywane z budżetu państwa z części pozostającej w dyspozycji wojewody.
 
@@ -4226,13 +4364,13 @@ Art. 196–228. (pominięte)
     - **a)** nowego podmiotu leczniczego,
     - **b)** nowych jednostek lub komórek organizacyjnych zakładu leczniczego podmiotu leczniczego,
 
-- **2)** innej niż inwestycja określona w pkt 1, dotyczącej wykonywania działalności leczniczej polegającej na udzielaniu świadczeń zdrowotnych której wartość kosztorysowa na dzień złożenia wniosku przekracza 2 mln zł.
+- **2)** innej niż inwestycja określona w pkt 1, dotyczącej wykonywania działalności leczniczej polegającej na udzielaniu świadczeń zdrowotnych – której wartość kosztorysowa na dzień złożenia wniosku przekracza 2 mln zł.
 
 1a. Wniosek o wydanie opinii, o której mowa w ust. 1, dotyczy inwestycji, której części tworzą komplementarną całość i są niezbędne do prawidłowego udzielania świadczeń opieki zdrowotnej.
 
-1b. Przez inną inwestycję, o której mowa w ust. 1 pkt 2, rozumie się roboty budowlane w rozumieniu art. 3 pkt 7 ustawy z dnia 7 lipca 1994 r. Prawo budowlane (Dz. U. z 2025 r. poz. 418 i 1080) lub wyposażenie zakładu leczniczego podmiotu leczniczego, jeżeli działania te stanowią główny cel tej inwestycji.
+1b. Przez inną inwestycję, o której mowa w ust. 1 pkt 2, rozumie się roboty budowlane w rozumieniu art. 3 pkt 7 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2025 r. poz. 418 i 1080) lub wyposażenie zakładu leczniczego podmiotu leczniczego, jeżeli działania te stanowią główny cel tej inwestycji.
 
-1c. Zmiana adresu miejsca udzielania świadczeń zdrowotnych lub połączenie, podział albo przekształcenie spółek, o których mowa w art. 1 § 2 ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96), lub spółki, o której mowa w art. 860 § 1 ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny, stanowiące podstawę zmiany wpisu do rejestru, o którym mowa w art. 100 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, nie stanowi inwestycji, o której mowa w ust. 1, jeżeli jej głównym celem nie była budowa, przebudowa obiektu lub wyposażenie zakładu leczniczego podmiotu leczniczego i nie wpływa na zakres udzielanych świadczeń opieki zdrowotnej.
+1c. Zmiana adresu miejsca udzielania świadczeń zdrowotnych lub połączenie, podział albo przekształcenie spółek, o których mowa w art. 1 § 2 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96), lub spółki, o której mowa w art. 860 § 1 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny, stanowiące podstawę zmiany wpisu do rejestru, o którym mowa w art. 100 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, nie stanowi inwestycji, o której mowa w ust. 1, jeżeli jej głównym celem nie była budowa, przebudowa obiektu lub wyposażenie zakładu leczniczego podmiotu leczniczego i nie wpływa na zakres udzielanych świadczeń opieki zdrowotnej.
 
 1d. Przepisów ust. 1–1c nie stosuje się w przypadku inwestycji, która będzie realizowana na potrzeby obronności lub bezpieczeństwa państwa.
 
@@ -4261,7 +4399,7 @@ Art. 196–228. (pominięte)
 
 4. Do określenia wartości inwestycji, o których mowa w ust. 1, zalicza się następujące rodzaje poniesionych lub planowanych kosztów na dzień złożenia wniosku:
 
-- **1)** przygotowania do realizacji inwestycji budowlanej oraz innych zmian w obiekcie budowlanym, o którym mowa w art. 3 pkt 1 ustawy z dnia 7 lipca 1994 r. Prawo budowlane, zwanym dalej „obiektem budowlanym”, wraz z usługami towarzyszącymi, w tym obsługą inwestorską, oraz zakupu obiektu budowlanego, w szczególności opracowania dokumentacji projektowej, zakupu i przygotowania gruntu pod budowę oraz ekspertyz, świadectw, operatów, studiów, pomiarów geodezyjnych i prac geologicznych oraz prac archeologicznych, dotyczących inwestycji budowlanej;
+- **1)** przygotowania do realizacji inwestycji budowlanej oraz innych zmian w obiekcie budowlanym, o którym mowa w art. 3 pkt 1 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, zwanym dalej „obiektem budowlanym”, wraz z usługami towarzyszącymi, w tym obsługą inwestorską, oraz zakupu obiektu budowlanego, w szczególności opracowania dokumentacji projektowej, zakupu i przygotowania gruntu pod budowę oraz ekspertyz, świadectw, operatów, studiów, pomiarów geodezyjnych i prac geologicznych oraz prac archeologicznych, dotyczących inwestycji budowlanej;
 - **2)** realizacji inwestycji budowlanej oraz innych zmian w obiekcie budowlanym wraz z usługami towarzyszącymi, w tym obsługą inwestorską;
 - **3)** zakupu obiektu budowlanego;
 - **4)** zakupu lub wytworzenia we własnym zakresie środka trwałego, z wyjątkiem tego, którego wartość początkowa nie przekracza kwoty określonej w art. 16f ust. 3 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2025 r. poz. 278, z późn. zm. ), z zastrzeżeniem pkt 5;
@@ -4270,7 +4408,7 @@ Art. 196–228. (pominięte)
 - **7)** zmiany w środkach trwałych powodującej ich ulepszenie w rozumieniu przepisów o rachunkowości;
 - **8)** zakupu wartości niematerialnej i prawnej, jeżeli:
     - **a)** jej wartość początkowa jest wyższa od kwoty określonej w art. 16f ust. 3 ustawy wymienionej w pkt 4,
-    - **b)** jest pierwszym wyposażeniem obiektu budowlanego bez względu na jego wartość;
+    - **b)** jest pierwszym wyposażeniem obiektu budowlanego – bez względu na jego wartość;
 
 - **9)** innych, jeżeli na podstawie odrębnych przepisów podlegają finansowaniu lub dofinansowaniu ze środków budżetu państwa przeznaczonych na inwestycje.
 
@@ -4280,7 +4418,7 @@ Art. 196–228. (pominięte)
 
 - **1)** wykonującego działalność leczniczą,
 - **2)** zamierzającego wykonywać działalność leczniczą,
-- **3)** zamierzającego utworzyć podmiot leczniczy zwanego dalej „podmiotem wnioskującym”.
+- **3)** zamierzającego utworzyć podmiot leczniczy – zwanego dalej „podmiotem wnioskującym”.
 
 2. Wniosek o wydanie opinii, o której mowa w art. 95d ust. 1, składa się do organu wydającego opinię w postaci elektronicznej. Wniosek opatrzony jest kwalifikowanym podpisem elektronicznym, podpisem zaufanym lub podpisem osobistym.
 
@@ -4295,7 +4433,7 @@ Art. 196–228. (pominięte)
     - **b)** uzasadnienie celowości inwestycji,
     - **c)** okres realizacji inwestycji,
     - **d)** wskazanie miejsca realizacji inwestycji,
-    - **e)** źródła finansowania inwestycji oraz rodzaje poniesionych lub planowanych kosztów, o których mowa w art. 95d ust. 4, a w przypadku inwestycji budowlanej również jej szacunkową wartość na dzień złożenia wniosku w podziale na grupy kosztów,
+    - **e)** źródła finansowania inwestycji oraz rodzaje poniesionych lub planowanych kosztów, o których mowa w art. 95d ust. 4, a w przypadku inwestycji budowlanej – również jej szacunkową wartość na dzień złożenia wniosku w podziale na grupy kosztów,
     - **f)** inne informacje dotyczące inwestycji;
 
 - **5a)** (uchylony)
@@ -4332,7 +4470,7 @@ Art. 196–228. (pominięte)
 
 2. Członek Komisji może być odwołany:
 
-- **1)** na wniosek podmiotu wymienionego w art. 95ea ust. 2 pkt 1–3 i 5 albo z urzędu w przypadku, o którym mowa w art. 95ea ust. 2 pkt 4, jeżeli w ocenie podmiotu wskazany przez niego przedstawiciel nie realizuje należycie powierzonych mu zadań, lub
+- **1)** na wniosek podmiotu wymienionego w art. 95ea ust. 2 pkt 1–3 i 5 albo z urzędu – w przypadku, o którym mowa w art. 95ea ust. 2 pkt 4, jeżeli w ocenie podmiotu wskazany przez niego przedstawiciel nie realizuje należycie powierzonych mu zadań, lub
 - **2)** z urzędu, jeżeli nie spełnia wymagań, o których mowa w ust. 1.
 
 3. Członkowie Komisji, ich małżonkowie, zstępni i wstępni w linii prostej do drugiego stopnia oraz osoby, z którymi członkowie tej Komisji pozostają we wspólnym pożyciu, oraz osoby związane z nimi z tytułu przysposobienia, opieki lub kurateli nie mogą:
@@ -4340,7 +4478,7 @@ Art. 196–228. (pominięte)
 - **1)** posiadać akcji lub udziałów w podmiocie leczniczym,
 - **2)** być członkami zarządu lub organów nadzorczych podmiotu leczniczego,
 - **3)** być członkami organów spółdzielni, stowarzyszeń lub fundacji wykonujących działalność leczniczą w formie podmiotu leczniczego,
-- **4)** wykonywać zajęć zarobkowych na podstawie stosunku pracy, umowy o świadczenie usług zarządczych, umowy zlecenia, umowy o dzieło albo innej umowy, do której zgodnie z Kodeksem cywilnym stosuje się przepisy dotyczące zlecenia, zawartej z podmiotem leczniczym który wystąpił z wnioskiem o wydanie opinii o celowości inwestycji, której wartość kosztorysowa przekracza 50 mln zł. Powody wyłączenia trwają także po ustaniu małżeństwa, faktycznego pozostawania we wspólnym pożyciu, przysposobienia, opieki lub kurateli.
+- **4)** wykonywać zajęć zarobkowych na podstawie stosunku pracy, umowy o świadczenie usług zarządczych, umowy zlecenia, umowy o dzieło albo innej umowy, do której zgodnie z Kodeksem cywilnym stosuje się przepisy dotyczące zlecenia, zawartej z podmiotem leczniczym – który wystąpił z wnioskiem o wydanie opinii o celowości inwestycji, której wartość kosztorysowa przekracza 50 mln zł. Powody wyłączenia trwają także po ustaniu małżeństwa, faktycznego pozostawania we wspólnym pożyciu, przysposobienia, opieki lub kurateli.
 
 4. Kandydaci na członków Komisji i członkowie Komisji przed każdym posiedzeniem Komisji, jednak nie później niż 10 dni od dnia wpływu do systemu IOWISZ wniosku o wydanie opinii o celowości inwestycji, której wartość kosztorysowa przekracza 50 mln zł, składają ministrowi właściwemu do spraw zdrowia oświadczenie dotyczące niezachodzenia okoliczności, o których mowa w ust. 3, pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń, dotyczące ich samych oraz ich małżonków, zstępnych i wstępnych w linii prostej do drugiego stopnia, osób, z którymi pozostają we wspólnym pożyciu, oraz osób związanych z nimi z tytułu przysposobienia, opieki lub kurateli. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
@@ -4393,22 +4531,22 @@ Art. 196–228. (pominięte)
 - **2)** krajowego planu albo wojewódzkiego planu;
 - **3)** danych z rejestru podmiotów wykonujących działalność leczniczą;
 - **4)** mapy;
-- **5)** opinii dyrektora właściwego oddziału wojewódzkiego Funduszu w przypadku gdy organem wydającym opinię jest wojewoda;
-- **6)** opinii Prezesa Funduszu w przypadku gdy organem wydającym opinię jest minister właściwy do spraw zdrowia;
+- **5)** opinii dyrektora właściwego oddziału wojewódzkiego Funduszu – w przypadku gdy organem wydającym opinię jest wojewoda;
+- **6)** opinii Prezesa Funduszu – w przypadku gdy organem wydającym opinię jest minister właściwy do spraw zdrowia;
 - **7)** informacji przedstawionych w innych, złożonych wcześniej wnioskach, o których mowa w art. 95e ust. 1, oraz wydanych opiniach, o których mowa w art. 95d ust. 1, w zakresie, w jakim uwzględniają one realizację mapy, oraz krajowego planu albo wojewódzkiego planu;
-- **8)** opinii Komisji w przypadku inwestycji, których wartość kosztorysowa przekracza 50 mln zł.
+- **8)** opinii Komisji – w przypadku inwestycji, których wartość kosztorysowa przekracza 50 mln zł.
 
 4. W terminie 7 dni od dnia złożenia kompletnego wniosku o wydanie opinii, o której mowa w art. 95d ust. 1, organ wydający opinię przekazuje, za pośrednictwem systemu IOWISZ, wypełniony przez podmiot wnioskujący formularz Instrumentu Oceny Wniosków Inwestycyjnych w Sektorze Zdrowia do zaopiniowania:
 
-- **1)** dyrektorowi właściwego oddziału wojewódzkiego Funduszu w przypadku gdy organem wydającym opinię jest wojewoda;
-- **2)** Prezesowi Funduszu w przypadku gdy organem wydającym opinię jest minister właściwy do spraw zdrowia.
+- **1)** dyrektorowi właściwego oddziału wojewódzkiego Funduszu – w przypadku gdy organem wydającym opinię jest wojewoda;
+- **2)** Prezesowi Funduszu – w przypadku gdy organem wydającym opinię jest minister właściwy do spraw zdrowia.
 
 5. Podmioty określone w ust. 4 wydają opinie, o których mowa w ust. 3 pkt 5 i 6, w terminie 14 dni od dnia doręczenia, za pośrednictwem systemu IOWISZ, wniosku Instrumentu Oceny Wniosków Inwestycyjnych w Sektorze Zdrowia. Opinie te przekazuje się odpowiednio wojewodzie albo ministrowi właściwemu do spraw zdrowia za pośrednictwem systemu IOWISZ.
 
 6. Opinie, o których mowa w ust. 3 pkt 5 i 6, wydaje się na formularzu Instrumentu Oceny Wniosków Inwestycyjnych w Sektorze Zdrowia na podstawie danych zawartych we wniosku, uwzględniając:
 
-- **1)** krajowy plan w przypadku gdy organem wydającym opinię jest minister właściwy do spraw zdrowia, a wniosek dotyczy inwestycji innej niż określona w pkt 1a;
-- **1a)** wojewódzki plan w przypadku gdy organem wydającym opinię jest wojewoda albo minister właściwy do spraw zdrowia, a inwestycja, której dotyczy wniosek, zaspokaja wyłącznie potrzeby zdrowotne o charakterze lokalnym;
+- **1)** krajowy plan – w przypadku gdy organem wydającym opinię jest minister właściwy do spraw zdrowia, a wniosek dotyczy inwestycji innej niż określona w pkt 1a;
+- **1a)** wojewódzki plan – w przypadku gdy organem wydającym opinię jest wojewoda albo minister właściwy do spraw zdrowia, a inwestycja, której dotyczy wniosek, zaspokaja wyłącznie potrzeby zdrowotne o charakterze lokalnym;
 - **2)** dane z rejestru podmiotów wykonujących działalność leczniczą;
 - **3)** mapę.
 - **4)** (uchylony)
@@ -4432,7 +4570,7 @@ Art. 196–228. (pominięte)
 - **5)** określenie, czy opinia jest pozytywna czy negatywna;
 - **6)** całkowity wynik punktowy obliczony zgodnie z przepisami wydanymi na podstawie art. 95h;
 - **7)** wygenerowane elektronicznie zestawienie punktów przyznanych przez odpowiednio organ wydający opinię, Prezesa Funduszu albo dyrektora właściwego oddziału wojewódzkiego Funduszu, za spełnienie poszczególnych kryteriów przez podmiot wnioskujący oraz ich uzasadnienie;
-- **8)** pouczenie o możliwości wniesienia protestu do ministra właściwego do spraw zdrowia zawierające wskazanie terminu wniesienia protestu, a także formy i trybu jego wniesienia w przypadku opinii negatywnej;
+- **8)** pouczenie o możliwości wniesienia protestu do ministra właściwego do spraw zdrowia zawierające wskazanie terminu wniesienia protestu, a także formy i trybu jego wniesienia – w przypadku opinii negatywnej;
 - **9)** kwalifikowany podpis elektroniczny, podpis zaufany lub podpis osobisty osoby upoważnionej do wydania opinii z podaniem jej imienia i nazwiska oraz stanowiska służbowego. Art. 95ga. Pozytywna opinia o celowości inwestycji jest ważna 3 lata od dnia jej wydania.
 
 **Art. 95h.**
@@ -4441,13 +4579,13 @@ Art. 196–228. (pominięte)
 
 - **1)** wzór wniosku zawierającego formularz Instrumentu Oceny Wniosków Inwestycyjnych w Sektorze Zdrowia wraz ze wskazaniem kryteriów oceny inwestycji, przypisaniem im wagi oraz określeniem skali punktów możliwych do uzyskania w zakresie poszczególnych kryteriów,
 - **2)** sposób obliczania całkowitego wyniku punktowego w zakresie dokonywania oceny celowości, o której mowa w art. 95d ust. 1, w tym sposób obliczania tego wyniku przez każdy z podmiotów określonych w art. 95f ust. 9,
-- **3)** minimalną liczbę punktów wymaganą do uzyskania pozytywnej opinii, o której mowa w art. 95d ust. 1 mając na celu uwzględnienie w opinii mapy, krajowego planu i wojewódzkiego planu, zapewnienie jednolitości wniosków, porównywalnej i spójnej metodyki dokonywania oceny celowości inwestycji i jej przejrzystości oraz jej zbieżności z potrzebami istotnymi z punktu widzenia ochrony zdrowia.
+- **3)** minimalną liczbę punktów wymaganą do uzyskania pozytywnej opinii, o której mowa w art. 95d ust. 1 – mając na celu uwzględnienie w opinii mapy, krajowego planu i wojewódzkiego planu, zapewnienie jednolitości wniosków, porównywalnej i spójnej metodyki dokonywania oceny celowości inwestycji i jej przejrzystości oraz jej zbieżności z potrzebami istotnymi z punktu widzenia ochrony zdrowia.
 
 2. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
 
 - **1)** wzór wniosku zawierającego formularz Instrumentu Oceny Wniosków Inwestycyjnych w Sektorze Zdrowia wraz ze wskazaniem kryteriów oceny inwestycji pozostających bez wpływu na zakres udzielanych świadczeń opieki zdrowotnej, przypisaniem im wagi oraz określeniem skali punktów możliwych do uzyskania w zakresie poszczególnych kryteriów,
 - **2)** sposób obliczania całkowitego wyniku punktowego w zakresie dokonywania oceny celowości, o której mowa w art. 95d ust. 1, w tym sposób obliczania tego wyniku przez każdy z podmiotów określonych w art. 95f ust. 9,
-- **3)** minimalną liczbę punktów wymaganą do uzyskania pozytywnej opinii, o której mowa w art. 95d ust. 1 mając na celu uwzględnienie w opinii mapy, krajowego planu i wojewódzkiego planu, zapewnienie jednolitości wniosków, porównywalnej i spójnej metodyki dokonywania oceny celowości inwestycji i jej przejrzystości oraz jej zbieżności z potrzebami istotnymi z punktu widzenia ochrony zdrowia.
+- **3)** minimalną liczbę punktów wymaganą do uzyskania pozytywnej opinii, o której mowa w art. 95d ust. 1 – mając na celu uwzględnienie w opinii mapy, krajowego planu i wojewódzkiego planu, zapewnienie jednolitości wniosków, porównywalnej i spójnej metodyki dokonywania oceny celowości inwestycji i jej przejrzystości oraz jej zbieżności z potrzebami istotnymi z punktu widzenia ochrony zdrowia.
 
 **Art. 95i.**
 
@@ -4507,7 +4645,7 @@ Art. 196–228. (pominięte)
 
 **Art. 95j.**
 
-1. Po wyczerpaniu postępowania odwoławczego przed ministrem właściwym do spraw zdrowia w przypadku utrzymania negatywnej opinii w sprawie protestu podmiot, który otrzymał tę opinię, może w tym zakresie wnieść skargę do wojewódzkiego sądu administracyjnego zgodnie z art. 3 § 3 ustawy z dnia 30 sierpnia 2002 r. Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2024 r. poz. 935 i 1685 oraz z 2025 r. poz. 769).
+1. Po wyczerpaniu postępowania odwoławczego przed ministrem właściwym do spraw zdrowia w przypadku utrzymania negatywnej opinii w sprawie protestu podmiot, który otrzymał tę opinię, może w tym zakresie wnieść skargę do wojewódzkiego sądu administracyjnego zgodnie z art. 3 § 3 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2024 r. poz. 935 i 1685 oraz z 2025 r. poz. 769).
 
 2. Skargę, o której mowa w ust. 1, wnosi się w terminie 14 dni od dnia doręczenia opinii w sprawie protestu bezpośrednio do właściwego wojewódzkiego sądu administracyjnego wraz z kompletną dokumentacją w sprawie. Skarga podlega wpisowi stałemu.
 
@@ -4531,7 +4669,7 @@ Art. 196–228. (pominięte)
 
 3. Na prawo do wniesienia skargi do sądu administracyjnego nie wpływa negatywnie błędne pouczenie lub brak pouczenia, o którym mowa w art. 95i ust. 8 pkt 7.
 
-4. W zakresie nieuregulowanym w art. 95j i ust. 1–3 do postępowania przed sądami administracyjnymi stosuje się odpowiednio przepisy ustawy z dnia 30 sierpnia 2002 r. Prawo o postępowaniu przed sądami administracyjnymi określone dla aktów lub czynności, o których mowa w art. 3 § 2 pkt 4 z wyłączeniem art. 52–55, art. 61 § 3–6, art. 115–122, art. 146, art. 150 i art. 152 tej ustawy.
+4. W zakresie nieuregulowanym w art. 95j i ust. 1–3 do postępowania przed sądami administracyjnymi stosuje się odpowiednio przepisy ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi określone dla aktów lub czynności, o których mowa w art. 3 § 2 pkt 4 z wyłączeniem art. 52–55, art. 61 § 3–6, art. 115–122, art. 146, art. 150 i art. 152 tej ustawy.
 
 ### DZIAŁ IVB System podstawowego szpitalnego zabezpieczenia świadczeń opieki zdrowotnej
 
@@ -4596,11 +4734,11 @@ Art. 196–228. (pominięte)
     - **w)** urologia dla dzieci;
 
 - **4)** poziom szpitali onkologicznych lub pulmonologicznych:
-    - **a)** dla szpitali onkologicznych: brachyterapia, ginekologia onkologiczna, chemioterapia hospitalizacja, chirurgia onkologiczna, chirurgia onkologiczna dla dzieci, hematologia, onkologia i hematologia dziecięca, onkologia kliniczna, radioterapia, terapia izotopowa, transplantologia kliniczna, transplantologia kliniczna dla dzieci,
-    - **b)** dla szpitali pulmonologicznych: chemioterapia hospitalizacja, chirurgia klatki piersiowej, chirurgia klatki piersiowej dla dzieci, choroby płuc, choroby płuc dla dzieci;
+    - **a)** dla szpitali onkologicznych: – brachyterapia, – ginekologia onkologiczna, – chemioterapia hospitalizacja, – chirurgia onkologiczna, – chirurgia onkologiczna dla dzieci, – hematologia, – onkologia i hematologia dziecięca, – onkologia kliniczna, – radioterapia, – terapia izotopowa, – transplantologia kliniczna, – transplantologia kliniczna dla dzieci,
+    - **b)** dla szpitali pulmonologicznych: – chemioterapia hospitalizacja, – chirurgia klatki piersiowej, – chirurgia klatki piersiowej dla dzieci, – choroby płuc, – choroby płuc dla dzieci;
 
-- **5)** poziom szpitali pediatrycznych wszystkie profile systemu zabezpieczenia dla dzieci w zakresie leczenia szpitalnego;
-- **6)** poziom szpitali ogólnopolskich wszystkie profile systemu zabezpieczenia w zakresie leczenia szpitalnego.
+- **5)** poziom szpitali pediatrycznych – wszystkie profile systemu zabezpieczenia dla dzieci w zakresie leczenia szpitalnego;
+- **6)** poziom szpitali ogólnopolskich – wszystkie profile systemu zabezpieczenia w zakresie leczenia szpitalnego.
 
 **Art. 95m.**
 
@@ -4610,16 +4748,16 @@ Art. 196–228. (pominięte)
 
 3. Świadczeniodawcę kwalifikuje się do systemu zabezpieczenia, jeżeli spełnia łącznie następujące warunki:
 
-- **1)** w odniesieniu do poziomów, o których mowa w art. 95l ust. 2 pkt 1–5:
-    - **a)** udziela świadczeń opieki zdrowotnej w ramach szpitalnego oddziału ratunkowego albo izby przyjęć, na podstawie umowy o udzielanie świadczeń opieki zdrowotnej, której okres trwania wynosi co najmniej 2 ostatnie lata kalendarzowe w przypadku poziomów, o których mowa w art. 95l ust. 2 pkt 1–3 i 5,
-    - **b)** udziela świadczeń opieki zdrowotnej w ramach profilu systemu zabezpieczenia anestezjologia i intensywna terapia lub anestezjologia i intensywna terapia dla dzieci (jeden z poziomów referencyjnych), na podstawie umowy o udzielanie świadczeń opieki zdrowotnej, której okres trwania wynosi co najmniej 2 ostatnie lata kalendarzowe w przypadku poziomów, o których mowa w art. 95l ust. 2 pkt 2 i 3, z zastrzeżeniem ust. 9,
-    - **c)** spełnia kryteria kwalifikacji do jednego z tych poziomów określone w ust. 6 albo 7 lub 8 oraz szczegółowe kryteria kwalifikacji określone w przepisach wydanych na podstawie ust. 12 pkt 1,
-    - **d)** do dnia ogłoszenia wykazu, o którym mowa w art. 95n ust. 1, posiada umowę o udzielanie świadczeń opieki zdrowotnej w zakresie leczenia szpitalnego spełniającą łącznie następujące warunki: okres trwania umowy, w zakresie profili systemu zabezpieczenia kwalifikujących danego świadczeniodawcę do danego poziomu systemu zabezpieczenia, wynosi co najmniej 2 ostatnie lata kalendarzowe, umowa, w odniesieniu do wszystkich profili systemu zabezpieczenia kwalifikujących danego świadczeniodawcę do danego poziomu systemu zabezpieczenia, dotyczy udzielania świadczeń w trybie hospitalizacji określonym w przepisach wydanych na podstawie art. 31d, z wyłączeniem hospitalizacji planowej;
+- **1)** w odniesieniu do poziomów, o których mowa w art. 95l ust. 2 pkt 1–5: 9, 6 albo 7 lub 8 oraz szczegółowe kryteria kwalifikacji określone w przepisach wydanych na podstawie ust. 12 pkt 1,
+    - **a)** udziela świadczeń opieki zdrowotnej w ramach szpitalnego oddziału ratunkowego albo izby przyjęć, na podstawie umowy o udzielanie świadczeń opieki zdrowotnej, której okres trwania wynosi co najmniej 2 ostatnie lata kalendarzowe – w przypadku poziomów, o których mowa w art. 95l ust. 2 pkt 1–3 i 5,
+    - **b)** udziela świadczeń opieki zdrowotnej w ramach profilu systemu zabezpieczenia anestezjologia i intensywna terapia lub anestezjologia i intensywna terapia dla dzieci (jeden z poziomów referencyjnych), na podstawie umowy o udzielanie świadczeń opieki zdrowotnej, której okres trwania wynosi co najmniej 2 ostatnie lata kalendarzowe – w przypadku poziomów, o których mowa w art. 95l ust. 2 pkt 2 i 3, z zastrzeżeniem ust.
+    - **c)** spełnia kryteria kwalifikacji do jednego z tych poziomów określone w ust.
+    - **d)** do dnia ogłoszenia wykazu, o którym mowa w art. 95n ust. 1, posiada umowę o udzielanie świadczeń opieki zdrowotnej w zakresie leczenia szpitalnego spełniającą łącznie następujące warunki: – okres trwania umowy, w zakresie profili systemu zabezpieczenia kwalifikujących danego świadczeniodawcę do danego poziomu systemu zabezpieczenia, wynosi co najmniej 2 ostatnie lata kalendarzowe, – umowa, w odniesieniu do wszystkich profili systemu zabezpieczenia kwalifikujących danego świadczeniodawcę do danego poziomu systemu zabezpieczenia, dotyczy udzielania świadczeń w trybie hospitalizacji określonym w przepisach wydanych na podstawie art. 31d, z wyłączeniem hospitalizacji planowej;
 
-- **2)** w odniesieniu do poziomu, o którym mowa w art. 95l ust. 2 pkt 6:
-    - **a)** jest: instytutem, o którym mowa w art. 3 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych, albo podmiotem leczniczym utworzonym i prowadzonym przez uczelnię medyczną w rozumieniu przepisów o działalności leczniczej albo przez Skarb Państwa reprezentowany przez ministra,
+- **2)** w odniesieniu do poziomu, o którym mowa w art. 95l ust. 2 pkt 6: o instytutach badawczych, albo – podmiotem leczniczym utworzonym i prowadzonym przez uczelnię medyczną w rozumieniu przepisów o działalności leczniczej albo przez Skarb Państwa reprezentowany przez ministra,
+    - **a)** jest: – instytutem, o którym mowa w art. 3 ustawy z dnia 30 kwietnia 2010 r.
     - **b)** spełnia kryteria kwalifikacji do tego poziomu określone w ust. 6,
-    - **c)** do dnia ogłoszenia wykazu, o którym mowa w art. 95n ust. 1, posiada umowę o udzielanie świadczeń opieki zdrowotnej w zakresie leczenia szpitalnego spełniającą łącznie następujące warunki: okres trwania umowy wynosi co najmniej 2 ostatnie lata kalendarzowe, umowa dotyczy udzielania świadczeń w trybie hospitalizacji określonym w przepisach wydanych na podstawie art. 31d, z wyłączeniem hospitalizacji planowej;
+    - **c)** do dnia ogłoszenia wykazu, o którym mowa w art. 95n ust. 1, posiada umowę o udzielanie świadczeń opieki zdrowotnej w zakresie leczenia szpitalnego spełniającą łącznie następujące warunki: – okres trwania umowy wynosi co najmniej 2 ostatnie lata kalendarzowe, – umowa dotyczy udzielania świadczeń w trybie hospitalizacji określonym w przepisach wydanych na podstawie art. 31d, z wyłączeniem hospitalizacji planowej;
 
 - **3)** posiada autoryzację, o której mowa w ustawie z dnia 16 czerwca 2023 r. o jakości w opiece zdrowotnej i bezpieczeństwie pacjenta (Dz. U. poz. 1692), w zakresie profili systemu zabezpieczenia kwalifikujących danego świadczeniodawcę do danego poziomu systemu zabezpieczenia.
 
@@ -4629,22 +4767,22 @@ Art. 196–228. (pominięte)
 
 6. Kwalifikacji świadczeniodawcy do danego poziomu systemu zabezpieczenia, o którym mowa w art. 95l ust. 2, dokonuje się w oparciu o następującą, minimalną liczbę profili systemu zabezpieczenia określonego rodzaju:
 
-- **1)** dla poziomu określonego w art. 95l ust. 2 pkt 1 dwa profile systemu zabezpieczenia spośród wskazanych w art. 95l ust. 4 pkt 1;
-- **2)** dla poziomu określonego w art. 95l ust. 2 pkt 2 sześć profili systemu zabezpieczenia spośród wskazanych w art. 95l ust. 4 pkt 1 i 2, w tym trzy profile systemu zabezpieczenia spośród wskazanych w art. 95l ust. 4 pkt 2;
-- **3)** dla poziomu określonego w art. 95l ust. 2 pkt 3 osiem profili systemu zabezpieczenia spośród wskazanych w art. 95l ust. 4 pkt 1–3, w tym trzy profile systemu zabezpieczenia spośród wskazanych w art. 95l ust. 4 pkt 3;
+- **1)** dla poziomu określonego w art. 95l ust. 2 pkt 1 – dwa profile systemu zabezpieczenia spośród wskazanych w art. 95l ust. 4 pkt 1;
+- **2)** dla poziomu określonego w art. 95l ust. 2 pkt 2 – sześć profili systemu zabezpieczenia spośród wskazanych w art. 95l ust. 4 pkt 1 i 2, w tym trzy profile systemu zabezpieczenia spośród wskazanych w art. 95l ust. 4 pkt 2;
+- **3)** dla poziomu określonego w art. 95l ust. 2 pkt 3 – osiem profili systemu zabezpieczenia spośród wskazanych w art. 95l ust. 4 pkt 1–3, w tym trzy profile systemu zabezpieczenia spośród wskazanych w art. 95l ust. 4 pkt 3;
 - **4)** dla poziomu określonego w art. 95l ust. 2 pkt 4:
-    - **a)** w zakresie dotyczącym szpitali onkologicznych sześć profili systemu zabezpieczenia spośród wskazanych w art. 95l ust. 4 pkt 4 lit. a,
-    - **b)** w zakresie dotyczącym szpitali pulmonologicznych dwa profile systemu zabezpieczenia spośród wskazanych w art. 95l ust. 4 pkt 4 lit. b;
+    - **a)** w zakresie dotyczącym szpitali onkologicznych – sześć profili systemu zabezpieczenia spośród wskazanych w art. 95l ust. 4 pkt 4 lit. a,
+    - **b)** w zakresie dotyczącym szpitali pulmonologicznych – dwa profile systemu zabezpieczenia spośród wskazanych w art. 95l ust. 4 pkt 4 lit. b;
 
-- **5)** dla poziomu określonego w art. 95l ust. 2 pkt 5 trzy profile systemu zabezpieczenia spośród profili systemu zabezpieczenia, o których mowa w art. 95l ust. 4 pkt 5;
-- **6)** dla poziomu określonego w art. 95l ust. 2 pkt 6 jeden profil systemu zabezpieczenia spośród profili systemu zabezpieczenia, o których mowa w art. 95l ust. 4 pkt 6.
+- **5)** dla poziomu określonego w art. 95l ust. 2 pkt 5 – trzy profile systemu zabezpieczenia spośród profili systemu zabezpieczenia, o których mowa w art. 95l ust. 4 pkt 5;
+- **6)** dla poziomu określonego w art. 95l ust. 2 pkt 6 – jeden profil systemu zabezpieczenia spośród profili systemu zabezpieczenia, o których mowa w art. 95l ust. 4 pkt 6.
 
 7. W przypadkach uzasadnionych koniecznością zapewnienia odpowiedniego dostępu do świadczeń opieki zdrowotnej, jako kryterium kwalifikacji do danego poziomu systemu zabezpieczenia, o którym mowa w art. 95l ust. 2, może zostać ustalona mniejsza liczba profili systemu zabezpieczenia, w stosunku do liczby profili systemu zabezpieczenia wskazanej w ust. 6, nie mniejsza jednak niż:
 
-- **1)** dla poziomów określonych w art. 95l ust. 2 pkt 1–3 jeden profil systemu zabezpieczenia charakteryzujący dany poziom;
+- **1)** dla poziomów określonych w art. 95l ust. 2 pkt 1–3 – jeden profil systemu zabezpieczenia charakteryzujący dany poziom;
 - **2)** dla poziomu określonego w art. 95l ust. 2 pkt 4:
-    - **a)** w zakresie dotyczącym szpitali onkologicznych trzy profile systemu zabezpieczenia charakteryzujące ten poziom,
-    - **b)** w zakresie dotyczącym szpitali pulmonologicznych jeden profil systemu zabezpieczenia charakteryzujący ten poziom.
+    - **a)** w zakresie dotyczącym szpitali onkologicznych – trzy profile systemu zabezpieczenia charakteryzujące ten poziom,
+    - **b)** w zakresie dotyczącym szpitali pulmonologicznych – jeden profil systemu zabezpieczenia charakteryzujący ten poziom.
 
 8. Kwalifikacja świadczeniodawcy do systemu zabezpieczenia w oparciu o liczbę profili systemu zabezpieczenia wskazanych w ust. 7 następuje przy jednoczesnym spełnieniu przez świadczeniodawcę co najmniej jednego z warunków dodatkowych w zakresie:
 
@@ -4661,11 +4799,11 @@ Art. 196–228. (pominięte)
     - **a)** z zakresu ambulatoryjnej opieki specjalistycznej, określone w przepisach wydanych na podstawie art. 31d, realizowanych w poradniach przyszpitalnych, z wyjątkiem dializy otrzewnowej lub hemodializy, z zastrzeżeniem, że w przypadku porad specjalistycznych, dotyczy to porad specjalistycznych odpowiadających profilom systemu zabezpieczenia wskazanym zgodnie z ust. 12 pkt 4,
     - **b)** z zakresu rehabilitacji leczniczej, określonych w przepisach wydanych na podstawie art. 31d, realizowane w warunkach: ośrodka lub oddziału dziennego lub stacjonarnych,
 
-- **2)** w przypadku poziomu systemu zabezpieczenia, o którym mowa w art. 95l ust. 2 pkt 3 w ramach wszystkich profili systemu zabezpieczenia, w zakresie leczenia szpitalnego w trybie hospitalizacji, określonych w przepisach wydanych na podstawie art. 31d pod warunkiem posiadania do dnia ogłoszenia wykazu, o którym mowa w art. 95n ust. 1, umowy o udzielanie świadczeń opieki zdrowotnej co do świadczeń gwarantowanych wskazanych w pkt 1 i 2, której okres trwania wynosi co najmniej 2 ostatnie lata kalendarzowe.
+- **2)** w przypadku poziomu systemu zabezpieczenia, o którym mowa w art. 95l ust. 2 pkt 3 – w ramach wszystkich profili systemu zabezpieczenia, w zakresie leczenia szpitalnego w trybie hospitalizacji, określonych w przepisach wydanych na podstawie art. 31d – pod warunkiem posiadania do dnia ogłoszenia wykazu, o którym mowa w art. 95n ust. 1, umowy o udzielanie świadczeń opieki zdrowotnej co do świadczeń gwarantowanych wskazanych w pkt 1 i 2, której okres trwania wynosi co najmniej 2 ostatnie lata kalendarzowe.
 
 11. W celu zagwarantowania ciągłości i kompleksowości udzielanych świadczeń opieki zdrowotnej, świadczeniodawcy, w ramach poszczególnych poziomów systemu zabezpieczenia, zapewniają świadczeniobiorcom również dostęp do świadczeń opieki zdrowotnej udzielanych:
 
-- **1)** w ramach dodatkowych profili systemu zabezpieczenia innych niż określone dla danego świadczeniodawcy na podstawie ust. 6 i 7 dla profili systemu zabezpieczenia w zakresie leczenia szpitalnego w trybie hospitalizacji określonych w przepisach wydanych na podstawie art. 31d lub
+- **1)** w ramach dodatkowych profili systemu zabezpieczenia innych niż określone dla danego świadczeniodawcy na podstawie ust. 6 i 7 – dla profili systemu zabezpieczenia w zakresie leczenia szpitalnego w trybie hospitalizacji określonych w przepisach wydanych na podstawie art. 31d lub
 - **2)** w ramach dodatkowych zakresów lub rodzajów świadczeń innych niż określone w ust. 10.
 
 12. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
@@ -4673,7 +4811,7 @@ Art. 196–228. (pominięte)
 - **1)** szczegółowe kryteria kwalifikacji świadczeniodawców do poszczególnych poziomów systemu zabezpieczenia,
 - **2)** dodatkowe profile systemu zabezpieczenia, zakresy i rodzaje świadczeń, w ramach których świadczeniodawcy zakwalifikowani do poszczególnych poziomów systemu zabezpieczenia mogą udzielać świadczeń opieki zdrowotnej w ramach danego poziomu systemu zabezpieczenia, o których mowa w ust. 11,
 - **3)** dodatkowe kryteria, po spełnieniu których świadczeniodawcy mogą udzielać świadczeń opieki zdrowotnej w ramach dodatkowych profili systemu zabezpieczenia, zakresów i rodzajów świadczeń, w ramach danego poziomu systemu zabezpieczenia, o których mowa w ust. 11,
-- **4)** wskazanie porad specjalistycznych odpowiadających poszczególnym profilom systemu zabezpieczenia, o których mowa w ust. 10 pkt 1 lit. a uwzględniając potrzebę zabezpieczenia odpowiedniego dostępu do świadczeń opieki zdrowotnej, a także zapewnienie ciągłości i kompleksowości udzielanych świadczeń opieki zdrowotnej.
+- **4)** wskazanie porad specjalistycznych odpowiadających poszczególnym profilom systemu zabezpieczenia, o których mowa w ust. 10 pkt 1 lit. a – uwzględniając potrzebę zabezpieczenia odpowiedniego dostępu do świadczeń opieki zdrowotnej, a także zapewnienie ciągłości i kompleksowości udzielanych świadczeń opieki zdrowotnej.
 
 **Art. 95n.**
 
@@ -4691,7 +4829,7 @@ Art. 196–228. (pominięte)
 5. W przypadkach niezakwalifikowania do systemu zabezpieczenia, kwalifikacji do niewłaściwego poziomu systemu zabezpieczenia lub niewłaściwego wskazania profili systemu zabezpieczenia, zakresów lub rodzajów, o których mowa w ust. 1 pkt 2:
 
 - **1)** świadczeniodawca posiadający w dniu ogłoszenia wykazu, o którym mowa w ust. 1, umowę o udzielanie świadczeń opieki zdrowotnej, dotyczącą udzielania świadczeń z zakresu leczenia szpitalnego, w trybie hospitalizacji określonym w przepisach wydanych na podstawie art. 31d albo
-- **2)** świadczeniodawca, którego dotyczy wystąpienie Prezesa Funduszu o wydanie opinii, o której mowa w ust. 3 może wnieść do Prezesa Funduszu, w terminie 7 dni od dnia ogłoszenia wykazu, o którym mowa w ust. 1, środek odwoławczy w postaci protestu.
+- **2)** świadczeniodawca, którego dotyczy wystąpienie Prezesa Funduszu o wydanie opinii, o której mowa w ust. 3 – może wnieść do Prezesa Funduszu, w terminie 7 dni od dnia ogłoszenia wykazu, o którym mowa w ust. 1, środek odwoławczy w postaci protestu.
 
 6. Protest zawiera:
 
@@ -4721,7 +4859,7 @@ Art. 196–228. (pominięte)
 10. Protest i odwołanie nie podlegają rozpatrzeniu, jeżeli:
 
 - **1)** zostały wniesione po terminie,
-- **2)** nie spełniają wymagań określonych w ust. 5, 6 i 8 o czym Prezes Funduszu albo minister właściwy do spraw zdrowia informuje na piśmie świadczeniodawcę wnoszącego protest lub odwołanie, w terminie 7 dni od dnia wniesienia protestu albo odwołania.
+- **2)** nie spełniają wymagań określonych w ust. 5, 6 i 8 – o czym Prezes Funduszu albo minister właściwy do spraw zdrowia informuje na piśmie świadczeniodawcę wnoszącego protest lub odwołanie, w terminie 7 dni od dnia wniesienia protestu albo odwołania.
 
 11. W przypadku, o którym mowa w ust. 10, Prezes Funduszu albo minister właściwy do spraw zdrowia wydaje postanowienie w przedmiocie nierozpatrzenia protestu albo odwołania, na które służy zażalenie, do którego stosuje się przepisy Kodeksu postępowania administracyjnego.
 
@@ -4733,7 +4871,7 @@ Art. 196–228. (pominięte)
 
 - **1)** niezawarcia umowy, o której mowa w art. 159a, w terminie trzech miesięcy od dnia ogłoszenia wykazu, o którym mowa w ust. 1, albo
 - **2)** stwierdzenia niespełniania przez świadczeniodawcę kryteriów kwalifikacji do systemu zabezpieczenia lub do danego poziomu systemu zabezpieczenia po ogłoszeniu wykazu, o którym mowa w ust. 1, lub
-- **3)** niewłaściwego wskazania profili systemu zabezpieczenia, zakresów lub rodzajów, o których mowa w ust. 1 pkt 2 Prezes Funduszu dokonuje odpowiedniej zmiany w tym wykazie, polegającej na usunięciu świadczeniodawcy z wykazu, kwalifikacji do innego poziomu zabezpieczenia lub wskazania profili systemu zabezpieczenia, zakresów lub rodzajów, o których mowa w ust. 1 pkt 2, w ramach których może on udzielać świadczeń opieki zdrowotnej w systemie zabezpieczenia.
+- **3)** niewłaściwego wskazania profili systemu zabezpieczenia, zakresów lub rodzajów, o których mowa w ust. 1 pkt 2 – Prezes Funduszu dokonuje odpowiedniej zmiany w tym wykazie, polegającej na usunięciu świadczeniodawcy z wykazu, kwalifikacji do innego poziomu zabezpieczenia lub wskazania profili systemu zabezpieczenia, zakresów lub rodzajów, o których mowa w ust. 1 pkt 2, w ramach których może on udzielać świadczeń opieki zdrowotnej w systemie zabezpieczenia.
 
 15. Do postępowania, o którym mowa w ust. 14, przepisy ust. 5–13 stosuje się odpowiednio.
 
@@ -4761,8 +4899,8 @@ Art. 196–228. (pominięte)
 
 5. Kierowników komórek organizacyjnych, o których mowa w ust. 4:
 
-- **1)** w centrali Funduszu powołuje Prezes Funduszu na wspólny wniosek Ministra Obrony Narodowej, ministra właściwego do spraw wewnętrznych oraz Ministra Sprawiedliwości;
-- **2)** w oddziałach wojewódzkich Funduszu powołuje dyrektor oddziału wojewódzkiego Funduszu na wspólny wniosek Ministra Obrony Narodowej, ministra właściwego do spraw wewnętrznych oraz Ministra Sprawiedliwości.
+- **1)** w centrali Funduszu – powołuje Prezes Funduszu na wspólny wniosek Ministra Obrony Narodowej, ministra właściwego do spraw wewnętrznych oraz Ministra Sprawiedliwości;
+- **2)** w oddziałach wojewódzkich Funduszu – powołuje dyrektor oddziału wojewódzkiego Funduszu na wspólny wniosek Ministra Obrony Narodowej, ministra właściwego do spraw wewnętrznych oraz Ministra Sprawiedliwości.
 
 6. Oddziały wojewódzkie Funduszu tworzone są zgodnie z podziałem terytorialnym państwa. W oddziałach wojewódzkich mogą być tworzone placówki terenowe na zasadach określonych w statucie Funduszu.
 
@@ -4782,18 +4920,28 @@ Art. 196–228. (pominięte)
 - **2)** przeprowadzanie konkursów ofert, rokowań i zawieranie umów o udzielanie świadczeń opieki zdrowotnej, a także monitorowanie ich realizacji i rozliczanie;
 - **2a)** finansowanie świadczeń opieki zdrowotnej udzielanych osobom, o których mowa w art. 2 ust. 1 pkt 3 i 4 oraz w art. 12 pkt 2–4, 6 i 9;
 - **2b)** (uchylony) 2c) finansowanie leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych przysługujących świadczeniobiorcom, o których mowa w art. 43a ust. 1;
-- **2d)** organizacja wspólnych postępowań na zakup leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych przysługujących świadczeniobiorcom, w przypadku, o którym mowa w art. 132 ust. 2a, prowadzonych na podstawie przepisów ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych;
+- **2d)** organizacja wspólnych postępowań na zakup leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych przysługujących świadczeniobiorcom, w przypadku, o którym mowa w art. 132 ust. 2a, prowadzonych na podstawie przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych;
 - **2e)** finansowanie leków i wyrobów medycznych przysługujących świadczeniobiorcom, o których mowa w art. 43b ust. 1;
-- **2f)** finansowanie świadczeń opieki zdrowotnej udzielanych osobom do ukończenia 18. roku życia, w zakresie zwiększonych kwot zobowiązania Funduszu wobec świadczeniodawców z tytułu udzielania tych świadczeń zgodnie z art. 136 ust. 2 pkt 1c;
+- **2f)** finansowanie świadczeń opieki zdrowotnej udzielanych osobom do ukończenia
+
+18. roku życia, w zakresie zwiększonych kwot zobowiązania Funduszu wobec świadczeniodawców z tytułu udzielania tych świadczeń zgodnie z art. 136 ust. 2 pkt 1c;
+
 - **2g)** finansowanie świadczeń opieki zdrowotnej udzielanych poza granicami kraju, przysługujących świadczeniobiorcom na podstawie art. 42d, 42i i 42j;
-- **2h)** finansowanie świadczeń opieki zdrowotnej udzielanych osobom do ukończenia 18. roku życia, związanych z diagnostyką genetyczną, zakwalifikowanych jako świadczenia gwarantowane z zakresów, o których mowa w art. 15 ust. 2 pkt 2 i 3;
+- **2h)** finansowanie świadczeń opieki zdrowotnej udzielanych osobom do ukończenia
+
+18. roku życia, związanych z diagnostyką genetyczną, zakwalifikowanych jako świadczenia gwarantowane z zakresów, o których mowa w art. 15 ust. 2 pkt 2 i 3;
+
 - **2i)** finansowanie leków w ramach ratunkowego dostępu do technologii lekowych, o którym mowa w art. 47d;
+- **2j)** finansowanie świadczeń opieki zdrowotnej udzielanych osobom do ukończenia
+
+18. roku życia w zakresie leczenia chorób rzadkich produktami leczniczymi terapii zaawansowanej, podawanymi jednorazowo w leczeniu szpitalnym, nieobjętych finansowaniem na podstawie art. 15 ust. 2;
+
 - **3)** finansowanie świadczeń opieki zdrowotnej udzielanych świadczeniobiorcom innym niż ubezpieczeni spełniającym kryterium dochodowe, o którym mowa w art. 8 ustawy z dnia 12 marca 2004 r. o pomocy społecznej, co do których nie stwierdzono okoliczności, o której mowa w art. 12 tej ustawy;
 - **3a)** finansowanie medycznych czynności ratunkowych świadczeniobiorcom;
 - **3b)** (uchylony) 3c) dokonywanie zwrotu kosztów w przypadku świadczeń gwarantowanych finansowanych z budżetu państwa, z zastrzeżeniem art. 42b ust. 2;
 - **3d)** finansowanie zakupu szczepionek, o których mowa w art. 18 ust. 5 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi oraz wskazanych w obwieszczeniu, o którym mowa w art. 18 ust. 5d tej ustawy, oraz produktów leczniczych, o których mowa w art. 18a ust. 2 tej ustawy;
 - **3e)** finansowanie zakupu produktów leczniczych i wyrobów medycznych, o których mowa w art. 48 ust. 1b;
-- **3f)** finansowanie wykonywania przez apteki ogólnodostępne zadań, o których mowa w art. 94 ust. 13 ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne;
+- **3f)** finansowanie wykonywania przez apteki ogólnodostępne zadań, o których mowa w art. 94 ust. 13 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne;
 - **4)** opracowywanie, wdrażanie, realizowanie, finansowanie, monitorowanie, nadzorowanie i kontrolowanie programów zdrowotnych;
 - **4a)** wdrażanie, finansowanie, monitorowanie i ewaluacja programów pilotażowych, o których mowa w art. 48e ust. 5;
 - **4b)** opracowywanie, ustalanie, wdrażanie, finansowanie, monitorowanie, ewaluacja oraz nadzór i kontrola programów pilotażowych, o których mowa w art. 48e ust. 7;
@@ -4805,11 +4953,12 @@ Art. 196–228. (pominięte)
 - **8)** prowadzenie Centralnego Wykazu Ubezpieczonych;
 - **9)** prowadzenie działalności promocyjnej i informacyjnej w zakresie ochrony zdrowia, w tym promowanie Internetowego Konta Pacjenta, o którym mowa w art. 7a ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia;
 - **10)** wyliczanie kwot, o których mowa w art. 4 i art. 34 ustawy o refundacji oraz w art. 102 ust. 5 pkt 29;
-- **11)** monitorowanie i koordynowanie realizacji uprawnień wynikających z art. 24a–24c, art. 44 ust. 1a–1c, art. 46 ust. 7–9, art. 47 ust. 2 i 2a, art. 47c oraz art. 57 ust. 2 pkt 10, 12 i 13;
+- **11)** monitorowanie i koordynowanie realizacji uprawnień wynikających z art. 24a– 24c, art. 44 ust. 1a–1c, art. 46 ust. 7–9, art. 47 ust. 2 i 2a, art. 47c oraz art. 57 ust. 2 pkt 10, 12 i 13;
 - **12)** wykonywanie zadań Krajowego Punktu Kontaktowego do spraw Transgranicznej Opieki Zdrowotnej, zwanego dalej „KPK”;
-- **13)** realizacja programów rządowych, o których mowa w art. 7 ust. 1 ustawy z dnia 23 października 2018 r. o Funduszu Solidarnościowym (Dz. U. z 2024 r. poz. 1848), w zakresie wsparcia zdrowotnego osób niepełnosprawnych;
+- **13)** realizacja programów rządowych, o których mowa w art. 7 ust. 1 ustawy z dnia 23 października 2018 r. o Funduszu Solidarnościowym (Dz. U. z 2024 r. poz.
+- **1848)** , w zakresie wsparcia zdrowotnego osób niepełnosprawnych;
 - **14)** finansowanie zadań, o których mowa w art. 15 ust. 1 pkt 5 i 6 oraz ust. 2 pkt 1 i 2 ustawy z dnia 21 lutego 2019 r. o Agencji Badań Medycznych (Dz. U. z 2025 r. poz. 259), przez przekazywanie środków finansowych Agencji Badań Medycznych w postaci odpisu, o którym mowa w ust. 3e;
-- **15)** finansowanie wydawania zaświadczeń, o których mowa w art. 133 § 2b ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego, oraz czynności związanych z ich wydawaniem;
+- **15)** finansowanie wydawania zaświadczeń, o których mowa w art. 133 § 2b ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, oraz czynności związanych z ich wydawaniem;
 - **16)** wspieranie zadań finansowanych w ramach Funduszu Rozwoju Kultury Fizycznej, o którym mowa w art. 86 ustawy z dnia 19 listopada 2009 r. o grach hazardowych (Dz. U. z 2025 r. poz. 595);
 - **17)** wspieranie zadań z zakresu zdrowia publicznego dotyczących profilaktyki i rozwiązywania problemów alkoholowych realizowanych ze środków Funduszu Rozwiązywania Problemów Hazardowych, o którym mowa w art. 88 ustawy z dnia 19 listopada 2009 r. o grach hazardowych;
 - **18)** przygotowywanie i przekazywanie ministrowi właściwemu do spraw zdrowia danych i analiz niezbędnych do sporządzenia mapy;
@@ -4825,7 +4974,7 @@ Art. 196–228. (pominięte)
 3a. Do zadań Funduszu należy rozliczanie z instytucjami właściwymi lub instytucjami miejsca zamieszkania w państwach członkowskich UE lub EFTA, lub Zjednoczonym Królestwie:
 
 - **1)** kosztów świadczeń opieki zdrowotnej finansowanych z budżetu państwa z części pozostającej w dyspozycji ministra właściwego do spraw zdrowia, o których mowa w art. 11 ust. 1 pkt 4;
-- **2)** kosztów medycznych czynności ratunkowych wykonanych przez zespoły ratownictwa medycznego, o których mowa w ustawie z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym, z wyłączeniem kosztów medycznych czynności ratunkowych wykonywanych przez lotnicze zespoły ratownictwa medycznego w stosunku do osób uprawnionych do tych świadczeń na podstawie przepisów o koordynacji.
+- **2)** kosztów medycznych czynności ratunkowych wykonanych przez zespoły ratownictwa medycznego, o których mowa w ustawie z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym, z wyłączeniem kosztów medycznych czynności ratunkowych wykonywanych przez lotnicze zespoły ratownictwa medycznego – w stosunku do osób uprawnionych do tych świadczeń na podstawie przepisów o koordynacji.
 
 3b. Minister właściwy do spraw zdrowia, po ostatecznym rozliczeniu ze świadczeniodawcą świadczeń, o których mowa w art. 11 ust. 1 pkt 4, obciąża Fundusz kosztami tych świadczeń oraz przekazuje niezbędną dokumentację dotyczącą udzielonych świadczeń wraz z kopią dokumentu potwierdzającego prawo do tych świadczeń na podstawie przepisów o koordynacji. Środki zwrócone przez instytucję państwa członkowskiego UE lub EFTA, lub Zjednoczonego Królestwa Fundusz przekazuje na rachunek urzędu ministra właściwego do spraw zdrowia w terminie 21 dni od dnia zidentyfikowania podstawy zwrotu.
 
@@ -4866,7 +5015,7 @@ Art. 196–228. (pominięte)
 
 8b. Fundusz może otrzymywać dotację celową z budżetu państwa na finansowanie części kosztów realizacji zadania, o którym mowa w ust. 3 pkt 4c.
 
-8c. Fundusz otrzymuje dotację z Funduszu Medycznego na finansowanie kosztów realizacji zadań, o których mowa w ust. 3 pkt 2f–2i.
+8c. Fundusz otrzymuje dotację z Funduszu Medycznego na finansowanie kosztów realizacji zadań, o których mowa w ust. 3 pkt 2f–2j.
 
 8d. Prezes Funduszu składa do dysponenta Funduszu Medycznego wniosek o przekazanie dotacji celowej, w wysokości odpowiadającej kwocie wydatkowanej przez Fundusz w miesiącach poprzedzających, na pokrycie wydatków na realizację zadania, o którym mowa w ust. 3 pkt 2i, w terminie do 20. dnia danego miesiąca kalendarzowego.
 
@@ -4935,8 +5084,8 @@ Art. 196–228. (pominięte)
 
 3. Techniczno-organizacyjną obsługę:
 
-- **1)** Rady Funduszu i Prezesa Funduszu zapewnia centrala Funduszu;
-- **2)** rady oddziału wojewódzkiego Funduszu i dyrektora oddziału wojewódzkiego Funduszu zapewnia oddział wojewódzki Funduszu.
+- **1)** Rady Funduszu i Prezesa Funduszu – zapewnia centrala Funduszu;
+- **2)** rady oddziału wojewódzkiego Funduszu i dyrektora oddziału wojewódzkiego Funduszu – zapewnia oddział wojewódzki Funduszu.
 
 **Art. 99.**
 
@@ -5055,7 +5204,7 @@ Art. 196–228. (pominięte)
 - **3a)** przeprowadzanie postępowań o zawarcie umów, zawieranie i rozliczanie umów o udzielanie świadczeń opieki zdrowotnej;
 - **4)** przygotowywanie i przedstawianie Radzie Funduszu corocznych prognoz, o których mowa w art. 120 ust. 1 i 3;
 - **5)** opracowywanie projektu planu finansowego Funduszu na podstawie projektów planów finansowych oddziałów wojewódzkich Funduszu, prognoz, o których mowa w art. 120 ust. 1 i 2;
-- **6)** sporządzanie rocznego planu finansowego Funduszu po otrzymaniu opinii Rady Funduszu, komisji właściwej do spraw finansów publicznych oraz komisji właściwej do spraw zdrowia Sejmu Rzeczypospolitej Polskiej;
+- **6)** sporządzanie rocznego planu finansowego Funduszu po otrzymaniu opinii Rady Funduszu, komisji właściwej do spraw finansów publicznych oraz komisji właściwej do spraw zdrowia Rzeczypospolitej Polskiej;
 - **7)** sporządzanie projektu planu pracy Funduszu;
 - **8)** realizacja rocznego planu finansowego i planu pracy Funduszu;
 - **9)** sporządzanie projektu rzeczowego planu wydatków inwestycyjnych na następny rok;
@@ -5071,7 +5220,7 @@ Art. 196–228. (pominięte)
 - **16)** występowanie z wnioskiem do ministra właściwego do spraw zdrowia o odwoływanie dyrektora oddziału wojewódzkiego Funduszu;
 - **17)** (uchylony)
 - **18)** wykonywanie uchwał Rady Funduszu;
-- **19)** przedstawianie Radzie Funduszu innych informacji o pracy Funduszu w formie, zakresie i terminach określonych przez Radę Funduszu;
+- **19)** przedstawianie Radzie Funduszu innych informacji o pracy Funduszu – w formie, zakresie i terminach określonych przez Radę Funduszu;
 - **20)** przekazywanie ministrowi właściwemu do spraw zdrowia uchwał Rady Funduszu podlegających badaniu w trybie art. 163, w terminie 3 dni roboczych od dnia ich uchwalenia;
 - **21)** nadzór nad realizacją zadań oddziałów wojewódzkich Funduszu;
 - **21a)** przeprowadzanie kontroli, o której mowa w dziale IIIA;
@@ -5092,12 +5241,12 @@ Art. 196–228. (pominięte)
     - **a)** kwocie refundacji,
     - **b)** liczbie zrefundowanych opakowań,
     - **c)** udziale w kwocie refundacji w grupie limitowej,
-    - **d)** zmianie wartości, o których mowa w lit. a–c, w odniesieniu do poprzedniego miesiąca oraz tego samego miesiąca poprzedniego roku leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych, wraz z podaniem grupy limitowej, nazwy międzynarodowej, nazwy handlowej oraz numeru GTIN zgodnego z systemem GS1, lub innego kodu jednoznacznie identyfikującego wyrób medyczny lub środek spożywczy specjalnego przeznaczenia żywieniowego;
+    - **d)** zmianie wartości, o których mowa w lit. a–c, w odniesieniu do poprzedniego miesiąca oraz tego samego miesiąca poprzedniego roku – leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych, wraz z podaniem grupy limitowej, nazwy międzynarodowej, nazwy handlowej oraz numeru GTIN zgodnego z systemem GS1, lub innego kodu jednoznacznie identyfikującego wyrób medyczny lub środek spożywczy specjalnego przeznaczenia żywieniowego;
 
 - **31a)** podawanie co miesiąc do publicznej wiadomości w zakresie, o którym mowa w art. 6 ust. 1 pkt 2 i 3 ustawy o refundacji, na podstawie danych przekazywanych do Funduszu zgodnie z przepisami wydanymi na podstawie art. 190 ust. 1 i 2, informacji o:
     - **a)** kwocie refundacji,
     - **b)** udziale w kwocie refundacji w grupie limitowej,
-    - **c)** zmianie wartości, o których mowa w lit. a i b, w odniesieniu do poprzedniego miesiąca oraz tego samego miesiąca poprzedniego roku leków, środków spożywczych specjalnego przeznaczenia żywieniowego, wraz z podaniem grupy limitowej, nazwy międzynarodowej, nazwy handlowej oraz numeru GTIN zgodnego z systemem GS1, lub innego kodu jednoznacznie identyfikującego wyrób medyczny lub środek spożywczy specjalnego przeznaczenia żywieniowego;
+    - **c)** zmianie wartości, o których mowa w lit. a i b, w odniesieniu do poprzedniego miesiąca oraz tego samego miesiąca poprzedniego roku – leków, środków spożywczych specjalnego przeznaczenia żywieniowego, wraz z podaniem grupy limitowej, nazwy międzynarodowej, nazwy handlowej oraz numeru GTIN zgodnego z systemem GS1, lub innego kodu jednoznacznie identyfikującego wyrób medyczny lub środek spożywczy specjalnego przeznaczenia żywieniowego;
 
 - **32)** monitorowanie, nadzorowanie i kontrolowanie wykonania zawartych w decyzji o objęciu refundacją instrumentów dzielenia ryzyka, o których mowa w art. 11 ust. 5 ustawy o refundacji, oraz informowanie ministra właściwego do spraw zdrowia w zakresie wypełnienia przez wnioskodawcę postanowień zawartych w tej decyzji;
 - **33)** realizacja zadań, o których mowa w art. 22 ustawy z dnia 19 sierpnia 2011 r. o weteranach działań poza granicami państwa;
@@ -5123,9 +5272,9 @@ Art. 196–228. (pominięte)
 - **52)** wskazanie, zgodnie z art. 21 ustawy z dnia 4 czerwca 2025 r. o Krajowej Sieci Kardiologicznej, ośrodków kardiologicznych, które obejmą opieką kardiologiczną świadczeniobiorców objętych tą opieką w ośrodku, który został wykreślony z wykazu, o którym mowa w art. 13 ust. 3 tej ustawy;
 - **53)** ustalanie wysokości ryczałtu, o którym mowa w art. 35 ust. 1 ustawy z dnia 4 czerwca 2025 r. o Krajowej Sieci Kardiologicznej.
 
-5a. Prezesowi Funduszu przysługują środki ochrony prawnej, o których mowa w art. 506–590 ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych, w prowadzonych przez świadczeniodawców postępowaniach o udzielenie zamówienia publicznego na zakup refundowanych ze środków publicznych leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych.
+5a. Prezesowi Funduszu przysługują środki ochrony prawnej, o których mowa w art. 506–590 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych, w prowadzonych przez świadczeniodawców postępowaniach o udzielenie zamówienia publicznego na zakup refundowanych ze środków publicznych leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych.
 
-6. W przypadku nieobecności lub czasowej niemożności sprawowania funkcji, w okresie nie dłuższym niż 6 miesięcy, Prezesa Funduszu zastępuje, na podstawie jego pisemnego upoważnienia, jeden z zastępców Prezesa Funduszu. W przypadku gdy udzielenie przez niego takiego upoważnienia nie jest możliwe upoważnienia udziela minister właściwy do spraw zdrowia.
+6. W przypadku nieobecności lub czasowej niemożności sprawowania funkcji, w okresie nie dłuższym niż 6 miesięcy, Prezesa Funduszu zastępuje, na podstawie jego pisemnego upoważnienia, jeden z zastępców Prezesa Funduszu. W przypadku gdy udzielenie przez niego takiego upoważnienia nie jest możliwe – upoważnienia udziela minister właściwy do spraw zdrowia.
 
 6a. W przypadku śmierci Prezesa Funduszu albo odwołania ze sprawowanej funkcji, do czasu powołania nowego Prezesa Funduszu jego obowiązki pełni Zastępca Prezesa wyznaczony przez ministra właściwego do spraw zdrowia.
 
@@ -5284,7 +5433,7 @@ Art. 196–228. (pominięte)
 - **2a)** opiniowanie projektu planu zakupu świadczeń opieki zdrowotnej na obszarze województwa, w tym również w zakresie zgodności z krajowym planem i wojewódzkim planem;
 - **3)** opiniowanie sprawozdania z wykonania planu finansowego oddziału wojewódzkiego Funduszu za dany rok;
 - **4)** monitorowanie prawidłowości postępowania w sprawie zawarcia umów o udzielanie świadczeń opieki zdrowotnej oraz realizacji tych umów;
-- **5)** monitorowanie, na podstawie przekazanych przez dyrektora oddziału wojewódzkiego informacji, o których mowa w art. 23 ust. 2 i 4, sposobu wykonywania przez świadczeniodawców obowiązków, o których mowa w art. 20 i art. 21;
+- **5)** monitorowanie, na podstawie przekazanych przez dyrektora oddziału wojewódzkiego informacji, o których mowa w art. 23 ust. 2, sposobu wykonywania przez świadczeniodawców obowiązków, o których mowa w art. 20 i art. 21;
 - **6)** kontrolowanie bieżącej działalności oddziału wojewódzkiego Funduszu we wszystkich dziedzinach jego działalności;
 - **7)** występowanie do Prezesa Funduszu z wnioskiem o wszczęcie kontroli w zakresie, o którym mowa w art. 61a ust. 1–3;
 - **8)** (uchylony)
@@ -5353,7 +5502,7 @@ Art. 196–228. (pominięte)
 - **6)** przeprowadza postępowania o zawarcie umów z dysponentami zespołów ratownictwa medycznego na wykonywanie medycznych czynności ratunkowych, zawiera i rozlicza realizacje tych umów;
 - **7)** w zakresie udzielonego pełnomocnictwa wykonuje zadania związane z zawieraniem i rozliczaniem umów:
     - **a)** o udzielanie świadczeń opieki zdrowotnej,
-    - **b)** o realizację: programów zdrowotnych, programów pilotażowych,
+    - **b)** o realizację: – programów zdrowotnych, – programów pilotażowych,
     - **c)** dobrowolnego ubezpieczenia zdrowotnego, o którym mowa w art. 68,
     - **d)** o których mowa w art. 41 ustawy o refundacji;
 
@@ -5440,7 +5589,7 @@ Art. 196–228. (pominięte)
 1. Oddział wojewódzki Funduszu finansuje:
 
 - **1)** świadczeniodawcy, mającemu siedzibę na terenie województwa, z którym zawarto umowę o udzielanie świadczeń opieki zdrowotnej, koszty świadczeń opieki zdrowotnej udzielonych na terenie danego województwa świadczeniobiorcy innemu niż ubezpieczony, spełniającemu kryterium dochodowe, o którym mowa w art. 8 ustawy z dnia 12 marca 2004 r. o pomocy społecznej, co do którego nie stwierdzono istnienia okoliczności, o której mowa w art. 12 tej ustawy, z zastrzeżeniem ust. 2,
-- **2)** aptece, mającej siedzibę na terenie województwa, koszty leków, środków spożywczych specjalnego przeznaczenia żywieniowego i wyrobów medycznych wydawanych osobie, o której mowa w pkt 1 o ile finansowanie tych kosztów nie wynika z przepisów określonych w art. 12 i 13 lub umów międzynarodowych.
+- **2)** aptece, mającej siedzibę na terenie województwa, koszty leków, środków spożywczych specjalnego przeznaczenia żywieniowego i wyrobów medycznych wydawanych osobie, o której mowa w pkt 1 – o ile finansowanie tych kosztów nie wynika z przepisów określonych w art. 12 i 13 lub umów międzynarodowych.
 
 1a. Oddział wojewódzki Funduszu finansuje świadczeniodawcy, mającemu siedzibę na terenie województwa, z którym zawarto umowę o udzielanie świadczeń opieki zdrowotnej, koszty świadczeń opieki zdrowotnej udzielonych na terenie danego województwa osobom, o których mowa w art. 2 ust. 1 pkt 3 i 4 oraz w art. 12 pkt 2–4, 6 i 9, z zastrzeżeniem ust. 2.
 
@@ -5466,7 +5615,7 @@ Art. 196–228. (pominięte)
 
 **Art. 109a.**
 
-1. Prezes Funduszu wydaje interpretacje indywidualne, o których mowa w art. 34 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców, w zakresie spraw dotyczących objęcia ubezpieczeniem zdrowotnym. Interpretacje indywidualne wraz z wnioskiem o wydanie interpretacji, po usunięciu danych identyfikujących wnioskodawcę oraz inne podmioty wskazane w treści interpretacji, Fundusz niezwłocznie zamieszcza w Biuletynie Informacji Publicznej.
+1. Prezes Funduszu wydaje interpretacje indywidualne, o których mowa w art. 34 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, w zakresie spraw dotyczących objęcia ubezpieczeniem zdrowotnym. Interpretacje indywidualne wraz z wnioskiem o wydanie interpretacji, po usunięciu danych identyfikujących wnioskodawcę oraz inne podmioty wskazane w treści interpretacji, Fundusz niezwłocznie zamieszcza w Biuletynie Informacji Publicznej.
 
 2. Do spraw, o których mowa w ust. 1, nie należą sprawy dotyczące składek na ubezpieczenie zdrowotne należące do właściwości organów ubezpieczeń społecznych na podstawie art. 62a ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników oraz na podstawie art. 83d ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych.
 
@@ -5484,7 +5633,7 @@ Art. 196–228. (pominięte)
 - **4)** członkami organów lub pracownikami jednostek samorządu terytorialnego;
 - **5)** członkami organów zakładu ubezpieczeń prowadzącego działalność ubezpieczeniową na podstawie ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. z 2024 r. poz. 838, z późn. zm. );
 - **6)** właścicielami akcji lub udziałów w spółkach handlowych prowadzących podmioty, o których mowa w pkt 2;
-- **7)** właścicielami w spółkach handlowych więcej niż 10 % akcji lub udziałów przedstawiających więcej niż 10 % kapitału zakładowego w każdej z tych spółek, w przypadku spółek innych niż określone w pkt 6;
+- **7)** właścicielami w spółkach handlowych więcej niż 10 % akcji lub udziałów przedstawiających więcej niż 10 % kapitału zakładowego – w każdej z tych spółek, w przypadku spółek innych niż określone w pkt 6;
 - **8)** posłami, posłami do Parlamentu Europejskiego albo senatorami;
 - **9)** członkami Rady Funduszu oraz rad oddziałów wojewódzkich Funduszu.
 
@@ -5493,7 +5642,7 @@ Art. 196–228. (pominięte)
 - **1)** podejmować zatrudnienia u innego pracodawcy;
 - **2)** wykonywać działalności gospodarczej.
 
-3. W przypadku gdy osoba najbliższa, w rozumieniu art. 115 § 11 ustawy z dnia 6 czerwca 1997 r. Kodeks karny, kontrolera jest świadczeniodawcą albo właścicielem apteki lub świadczeniodawcy, kontroler jest obowiązany do poinformowania Prezesa Funduszu o tym fakcie w terminie 7 dni od dnia powołania na stanowisko, a także w trakcie pełnienia funkcji, jeżeli w tym czasie jego osoba najbliższa stała się świadczeniodawcą albo właścicielem apteki lub świadczeniodawcy w terminie 7 dni od zaistnienia tego faktu.
+3. W przypadku gdy osoba najbliższa, w rozumieniu art. 115 § 11 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, kontrolera jest świadczeniodawcą albo właścicielem apteki lub świadczeniodawcy, kontroler jest obowiązany do poinformowania Prezesa Funduszu o tym fakcie w terminie 7 dni od dnia powołania na stanowisko, a także w trakcie pełnienia funkcji, jeżeli w tym czasie jego osoba najbliższa stała się świadczeniodawcą albo właścicielem apteki lub świadczeniodawcy – w terminie 7 dni od zaistnienia tego faktu.
 
 4. Kontroler nie może przed upływem dwóch lat od dnia sporządzenia wystąpienia pokontrolnego być zatrudniony lub wykonywać innych zajęć w podmiotach kontrolowanych, których dotyczy to wystąpienie.
 
@@ -5523,7 +5672,7 @@ Art. 196–228. (pominięte)
 - **2)** odsetki od nieopłaconych w terminie składek na ubezpieczenie zdrowotne;
 - **3)** darowizny i zapisy;
 - **4)** środki przekazane na realizację zadań zleconych w zakresie określonym w ustawie;
-- **5)** dotacje, w tym dotacje celowe przeznaczone na finansowanie zadań, o których mowa w art. 97 ust. 3 pkt 2f–2i i 4c;
+- **5)** dotacje, w tym dotacje celowe przeznaczone na finansowanie zadań, o których mowa w art. 97 ust. 3 pkt 2f–2j i 4c;
 - **5a)** dotacja podmiotowa z budżetu państwa, o której mowa w art. 97 ust. 8a;
 - **6)** środki uzyskane z tytułu roszczeń regresowych;
 - **7)** przychody z lokat;
@@ -5534,7 +5683,7 @@ Art. 196–228. (pominięte)
 - **7f)** kwoty, o których mowa w art. 6b ust. 3 ustawy z dnia 23 października 2018 r. o Funduszu Solidarnościowym;
 - **7g)** środki uzyskane z tytułu opłat, o których mowa w art. 12a ust. 1 oraz art. 12i ust. 1 ustawy z dnia 11 września 2015 r. o zdrowiu publicznym;
 - **7h)** środki uzyskane z tytułu opłat, o których mowa w art. 9 ust. 11 i 21 ustawy z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi;
-- **7i)** środki, o których mowa w art. 331 ust. 11 ustawy z dnia 12 lipca 2024 r. Prawo komunikacji elektronicznej (Dz. U. poz. 1221 oraz z 2025 r. poz. 637 i 820);
+- **7i)** środki, o których mowa w art. 331 ust. 11 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej (Dz. U. poz. 1221 oraz z 2025 r. poz. 637 i 820);
 - **8)** inne przychody.
 
 1a. Przychody, o których mowa w ust. 1, zmniejsza się o odpis dla Agencji, o którym mowa w art. 31t ust. 5–9, o odpis dla Agencji Badań Medycznych, o którym mowa w art. 97 ust. 3e, oraz o odpis dla Funduszu Kompensacyjnego, o którym mowa w art. 97 ust. 3i i 3j.
@@ -5576,7 +5725,7 @@ Art. 196–228. (pominięte)
     - **b)** rezerwy na koszty realizacji zadań wynikających z przepisów o koordynacji,
     - **c)** (uchylona)
     - **d)** rezerwy na koszty realizacji zadań wynikających z art. 42b,
-    - **e)** kosztów świadczeń opieki zdrowotnej: programów pilotażowych, świadczeń, o których mowa w art. 15 ust. 2 pkt 8 i 12, świadczeń, o których mowa w art. 15 ust. 2a, których wysokość nie jest zależna od parametrów wskazanych w ust. 3,
+    - **e)** kosztów świadczeń opieki zdrowotnej: – programów pilotażowych, – świadczeń, o których mowa w art. 15 ust. 2 pkt 8 i 12, – świadczeń, o których mowa w art. 15 ust. 2a, – których wysokość nie jest zależna od parametrów wskazanych w ust. 3,
     - **f)** kosztów realizacji zadań, o których mowa w art. 97 ust. 3 pkt 3d i 3e;
 
 - **2)** planowanych kosztów poszczególnych oddziałów wojewódzkich Funduszu, w tym:
@@ -5628,7 +5777,7 @@ Art. 196–228. (pominięte)
 1. Prezes Funduszu opracowuje projekt planu finansowego Funduszu i przedstawia go, w celu zaopiniowania, w terminie do dnia 1 lipca roku poprzedzającego rok, którego dotyczy ten plan:
 
 - **1)** Radzie Funduszu;
-- **2)** komisji właściwej do spraw finansów publicznych oraz komisji właściwej do spraw zdrowia Sejmu Rzeczypospolitej Polskiej.
+- **2)** komisji właściwej do spraw finansów publicznych oraz komisji właściwej do spraw zdrowia Rzeczypospolitej Polskiej.
 
 2. Niewydanie opinii, o których mowa w ust. 1, w terminie 14 dni od dnia otrzymania projektu planu finansowego jest równoznaczne z wydaniem pozytywnej opinii.
 
@@ -5655,9 +5804,9 @@ Art. 196–228. (pominięte)
 
 1. Zmiany planu finansowego Funduszu można dokonać w przypadku zaistnienia sytuacji, których nie można było przewidzieć w chwili zatwierdzenia albo ustalenia planu.
 
-2. Zmiany planu finansowego Funduszu zatwierdzonego w trybie, o którym mowa w art. 121 ust. 4, może dokonać Prezes Funduszu. Przepisy art. 121 ust. 1–4 stosuje się odpowiednio.
+2. Zmiany planu finansowego Funduszu zatwierdzonego w trybie, o którym mowa w art. 121 ust. 4, może dokonać Prezes Funduszu. Przepisy art. 121 ust. 1– 4 stosuje się odpowiednio.
 
-3. Zmiany planu finansowego Funduszu ustalonego zgodnie z art. 121 ust. 5 albo art. 123 ust. 3 może dokonać minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw finansów publicznych na uzasadniony wniosek Prezesa Funduszu. Do wniosku o zmianę planu dołącza się opinię Rady Funduszu, opinie komisji właściwej do spraw finansów publicznych oraz komisji właściwej do spraw zdrowia Sejmu Rzeczypospolitej Polskiej.
+3. Zmiany planu finansowego Funduszu ustalonego zgodnie z art. 121 ust. 5 albo art. 123 ust. 3 może dokonać minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw finansów publicznych na uzasadniony wniosek Prezesa Funduszu. Do wniosku o zmianę planu dołącza się opinię Rady Funduszu, opinie komisji właściwej do spraw finansów publicznych oraz komisji właściwej do spraw zdrowia Rzeczypospolitej Polskiej.
 
 4. Prezes Funduszu, po poinformowaniu ministra właściwego do spraw zdrowia i ministra właściwego do spraw finansów publicznych, może dokonać przesunięcia kosztów w planie finansowym centrali Funduszu oraz przesunięcia kosztów w ramach kosztów administracyjnych w planie finansowym Funduszu, a także dokonać zmiany planu finansowego w zakresie środków przekazywanych Narodowemu Funduszowi Zdrowia z dotacji budżetu państwa lub Funduszu Medycznego.
 
@@ -5728,7 +5877,7 @@ Art. 196–228. (pominięte)
 
 2. Rada Funduszu przyjmuje sprawozdanie, o którym mowa w ust. 1, w terminie 15 dni od dnia jego otrzymania.
 
-3. Sprawozdanie, o którym mowa w ust. 1, podlega zatwierdzeniu przez ministra właściwego do spraw finansów publicznych po zasięgnięciu opinii ministra właściwego do spraw zdrowia i po uzyskaniu opinii komisji właściwej do spraw finansów publicznych oraz komisji właściwej do spraw zdrowia Sejmu Rzeczypospolitej Polskiej.
+3. Sprawozdanie, o którym mowa w ust. 1, podlega zatwierdzeniu przez ministra właściwego do spraw finansów publicznych po zasięgnięciu opinii ministra właściwego do spraw zdrowia i po uzyskaniu opinii komisji właściwej do spraw finansów publicznych oraz komisji właściwej do spraw zdrowia Rzeczypospolitej Polskiej.
 
 4. Niewydanie opinii, o których mowa w ust. 3, w terminie 14 dni od dnia otrzymania projektu sprawozdania jest równoznaczne z wydaniem opinii pozytywnych.
 
@@ -5739,7 +5888,7 @@ Art. 196–228. (pominięte)
 2. Minister właściwy do spraw finansów publicznych w porozumieniu z ministrem właściwym do spraw zdrowia określi, w drodze rozporządzenia, szczegółowe zasady prowadzenia gospodarki finansowej Funduszu, w tym:
 
 - **1)** rodzaje sprawozdań, o których mowa w ust. 1, sposób ich tworzenia oraz terminy przekazywania,
-- **2)** sposób tworzenia planu finansowego i rocznego sprawozdania z wykonania planu finansowego oraz ich wzory uwzględniając konieczność zapewnienia prawidłowego i rzetelnego gospodarowania środkami publicznymi.
+- **2)** sposób tworzenia planu finansowego i rocznego sprawozdania z wykonania planu finansowego oraz ich wzory – uwzględniając konieczność zapewnienia prawidłowego i rzetelnego gospodarowania środkami publicznymi.
 
 **Art. 131a.** (uchylony)
 
@@ -5787,7 +5936,7 @@ Art. 196–228. (pominięte)
 - **8)** koszty ujęte w planie finansowym Funduszu Kompensacyjnego Szczepień Ochronnych, o którym mowa w art. 17b ust. 1 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi,
 - **9)** koszty ujęte w rocznym planie finansowym Funduszu Kompensacyjnego Badań Klinicznych, o którym mowa w art. 41 ust. 5 ustawy z dnia 9 marca 2023 r. o badaniach klinicznych produktów leczniczych stosowanych u ludzi (Dz. U. poz. 605 oraz z 2025 r. poz. 779),
 - **10)** odpis dla Funduszu Kompensacyjnego, o którym mowa w art. 97 ust. 3i i 3j,
-- **11)** wydatki budżetowe w części budżetu państwa, której dysponentem jest Rzecznik Praw Pacjenta po wyłączeniu planowanych transferów środków finansowych otrzymanych ze źródeł, o których mowa w pkt 1–11.
+- **11)** wydatki budżetowe w części budżetu państwa, której dysponentem jest Rzecznik Praw Pacjenta – po wyłączeniu planowanych transferów środków finansowych otrzymanych ze źródeł, o których mowa w pkt 1–11.
 
 4. Zasady określone w ust. 1 są uwzględniane przez Radę Ministrów w projektach ustaw budżetowych albo projektach ustaw o prowizorium budżetowym.
 
@@ -5868,6 +6017,8 @@ Art. 196–228. (pominięte)
 
 10. Prezes Funduszu określa szczegółowe warunki umów, o których mowa w ust. 7.
 
+**Art. 132d.** W przypadku, o którym mowa w art. 27c ust. 2 ustawy z dnia 7 października 2020 r. o Funduszu Medycznym, koszt produktu leczniczego terapii zaawansowanej jest pokrywany przez Fundusz w wysokości wynikającej z rachunku lub faktury dokumentującej zakup tego produktu leczniczego. Kopię rachunku lub faktury świadczeniodawca przekazuje Prezesowi Funduszu w terminie określonym w przepisach wydanych na podstawie art. 137 ust. 2.
+
 **Art. 133.** Świadczeniodawcy mogą zlecać podwykonawcom udzielanie świadczeń opieki zdrowotnej w ramach umowy o udzielanie świadczeń opieki zdrowotnej zawartej z Funduszem, jeżeli umowa tak stanowi. Przepis art. 132 ust. 3 stosuje się odpowiednio.
 
 **Art. 134.**
@@ -5882,8 +6033,8 @@ Art. 196–228. (pominięte)
 
 2. Fundusz realizuje zasadę jawności:
 
-- **1)** umów przez zamieszczenie na swojej stronie internetowej informacji o każdej zawartej umowie, z uwzględnieniem maksymalnej kwoty zobowiązania Funduszu wobec świadczeniodawcy wynikającej z zawartej umowy, rodzaju, liczby i ceny zakupionych świadczeń albo rodzaju zakupionych świadczeń, liczby jednostek rozliczeniowych (miara przyjęta do określenia wartości świadczenia opieki zdrowotnej w określonym zakresie lub rodzaju, w szczególności: punkt, porada, osobodzień) wyrażających wartość świadczenia oraz cenę jednostki rozliczeniowej, a także maksymalnej kwoty zobowiązania Funduszu wobec świadczeniodawcy wynikającej ze wszystkich zawartych umów;
-- **2)** ofert, z wyłączeniem informacji stanowiących tajemnicę przedsiębiorcy, które zastrzeżone zostały przez świadczeniodawcę w szczególności przez umożliwienie wglądu do tych ofert.
+- **1)** umów – przez zamieszczenie na swojej stronie internetowej informacji o każdej zawartej umowie, z uwzględnieniem maksymalnej kwoty zobowiązania Funduszu wobec świadczeniodawcy wynikającej z zawartej umowy, rodzaju, liczby i ceny zakupionych świadczeń albo rodzaju zakupionych świadczeń, liczby jednostek rozliczeniowych (miara przyjęta do określenia wartości świadczenia opieki zdrowotnej w określonym zakresie lub rodzaju, w szczególności: punkt, porada, osobodzień) wyrażających wartość świadczenia oraz cenę jednostki rozliczeniowej, a także maksymalnej kwoty zobowiązania Funduszu wobec świadczeniodawcy wynikającej ze wszystkich zawartych umów;
+- **2)** ofert, z wyłączeniem informacji stanowiących tajemnicę przedsiębiorcy, które zastrzeżone zostały przez świadczeniodawcę – w szczególności przez umożliwienie wglądu do tych ofert.
 
 3. Informacje, o których mowa w ust. 2 pkt 1, zamieszcza się w terminie 14 dni od dnia zawarcia umowy o udzielanie świadczeń opieki zdrowotnej.
 
@@ -5893,7 +6044,7 @@ Art. 196–228. (pominięte)
 
 - **1)** rodzaj i zakres udzielanych świadczeń opieki zdrowotnej;
 - **2)** warunki udzielania świadczeń opieki zdrowotnej;
-- **2a)** sposób realizacji instrumentów dzielenia ryzyka, o których mowa w art. 11 ust. 5 ustawy o refundacji, dotyczących danego leku albo środka spożywczego specjalnego przeznaczenia żywieniowego w przypadku umowy o udzielanie świadczeń opieki zdrowotnej z zakresu, o którym mowa w art. 15 ust. 2 pkt 15 i 16;
+- **2a)** sposób realizacji instrumentów dzielenia ryzyka, o których mowa w art. 11 ust. 5 ustawy o refundacji, dotyczących danego leku albo środka spożywczego specjalnego przeznaczenia żywieniowego – w przypadku umowy o udzielanie świadczeń opieki zdrowotnej z zakresu, o którym mowa w art. 15 ust. 2 pkt 15 i 16;
 - **3)** wykaz podwykonawców oraz wymagania dla nich inne niż techniczne i sanitarne, określone w odrębnych przepisach;
 - **4)** zasady rozliczeń pomiędzy Funduszem a świadczeniodawcami;
 - **5)** kwotę zobowiązania Funduszu wobec świadczeniodawcy;
@@ -5944,7 +6095,7 @@ Art. 196–228. (pominięte)
 4a. W przypadku rozwiązania umowy, o której mowa w art. 159a, do rozliczenia świadczeń opieki zdrowotnej, finansowanych w formie ryczałtu systemu zabezpieczenia i udzielonych do dnia:
 
 - **1)** wypowiedzenia umowy i od dnia wypowiedzenia do dnia rozwiązania umowy w danym lub następnym okresie rozliczeniowym,
-- **2)** rozwiązania umowy w danym okresie rozliczeniowym nie stosuje się przepisów ust. 1–3.
+- **2)** rozwiązania umowy w danym okresie rozliczeniowym – nie stosuje się przepisów ust. 1–3.
 
 4b. Świadczenia, o których mowa w ust. 4a, są rozliczane na podstawie ich prawidłowo sprawozdanego wykonania, zgodnie z przepisami wydanymi na podstawie art. 146 ust. 1 pkt 2, z uwzględnieniem cen tych świadczeń przyjętych do ustalenia ryczałtu systemu zabezpieczenia, do wysokości kwoty odpowiadającej kwocie ustalonego ryczałtu systemu zabezpieczenia proporcjonalnej do części okresu rozliczeniowego przypadającej na okres do dnia rozwiązania umowy, o której mowa w art. 159a.
 
@@ -5953,7 +6104,7 @@ Art. 196–228. (pominięte)
 6. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
 
 - **1)** sposób ustalania ryczałtu systemu zabezpieczenia,
-- **2)** wykaz świadczeń opieki zdrowotnej wymagających ustalenia odrębnego sposobu finansowania, o których mowa w art. 136 ust. 2 pkt 2 mając na względzie konieczność zabezpieczenia odpowiedniego dostępu do świadczeń opieki zdrowotnej oraz zapewnienia stabilności finansowania systemu zabezpieczenia.
+- **2)** wykaz świadczeń opieki zdrowotnej wymagających ustalenia odrębnego sposobu finansowania, o których mowa w art. 136 ust. 2 pkt 2 – mając na względzie konieczność zabezpieczenia odpowiedniego dostępu do świadczeń opieki zdrowotnej oraz zapewnienia stabilności finansowania systemu zabezpieczenia.
 
 **Art. 137.**
 
@@ -5968,7 +6119,7 @@ Art. 196–228. (pominięte)
 
 2. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, ogólne warunki umów o udzielanie świadczeń opieki zdrowotnej, kierując się interesem świadczeniobiorców oraz koniecznością zapewnienia właściwego wykonania umów.
 
-**Art. 138.** Do zawierania umów o udzielanie świadczeń opieki zdrowotnej nie stosuje się przepisów ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych, z wyjątkiem umowy, o której mowa w art. 15 ust. 2a.
+**Art. 138.** Do zawierania umów o udzielanie świadczeń opieki zdrowotnej nie stosuje się przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych, z wyjątkiem umowy, o której mowa w art. 15 ust. 2a.
 
 **Art. 139.**
 
@@ -5984,7 +6135,7 @@ Art. 196–228. (pominięte)
 - **1)** nazwę zamawiającego i adres jego siedziby;
 - **2)** określenie wartości i przedmiotu zamówienia;
 - **3)** wymagane kwalifikacje zawodowe i techniczne świadczeniodawców, z uwzględnieniem Polskich Norm wprowadzających normy europejskie, europejskich aprobat technicznych lub norm państw członkowskich Unii Europejskiej wprowadzających europejskie normy zharmonizowane oraz klasyfikacji statystycznych wydanych na podstawie przepisów o statystyce publicznej;
-- **4)** wskazanie świadczeniodawców zapraszanych do rokowań w przypadku rokowań;
+- **4)** wskazanie świadczeniodawców zapraszanych do rokowań – w przypadku rokowań;
 - **5)** określenie obszaru terytorialnego, dla którego jest przeprowadzane postępowanie w sprawie zawarcia umowy o udzielanie świadczeń opieki zdrowotnej, oraz wskazanie maksymalnej liczby umów o udzielanie świadczeń opieki zdrowotnej, które zostaną zawarte po przeprowadzeniu tego postępowania, zgodnie z planem finansowym Funduszu i planem zakupu świadczeń opieki zdrowotnej.
 
 4. Prezes Funduszu powołuje i odwołuje komisję konkursową w celu przeprowadzenia postępowania w sprawie zawarcia umowy o udzielanie świadczeń opieki zdrowotnej.
@@ -6057,8 +6208,8 @@ Art. 196–228. (pominięte)
 
 4. Ofertę sporządza się w języku polskim oraz podpisuje w przypadku postaci:
 
-- **1)** papierowej podpisem własnoręcznym;
-- **2)** elektronicznej kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
+- **1)** papierowej – podpisem własnoręcznym;
+- **2)** elektronicznej – kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
 
 4a. W przypadku gdy przekazywanie ofert odbywa się przy użyciu środków komunikacji elektronicznej, zapewnia się zachowanie integralności, autentyczności, nienaruszalności danych i ich poufności w ramach wymiany i przechowywania informacji, w tym zapewnia się możliwość zapoznania się z treścią ofert wyłącznie po upływie terminu na ich złożenie. Przepisów ust. 2 pkt 2 i 3 i ust. 3 nie stosuje się.
 
@@ -6100,7 +6251,7 @@ Art. 196–228. (pominięte)
 
 - **1)** przedmiot postępowania w sprawie zawarcia umowy o udzielanie świadczeń opieki zdrowotnej;
 - **2)** szczegółowe warunki umów o udzielanie świadczeń opieki zdrowotnej, obejmujące w szczególności obszar terytorialny, dla którego jest przeprowadzane postępowanie w sprawie zawarcia umów ze świadczeniodawcami, z uwzględnieniem taryfy świadczeń w przypadku jej ustalenia w danym zakresie oraz mając na uwadze konieczność stosowania ułatwień w obiegu dokumentacji, w tym ich elektronizacji;
-- **3)** w przypadku organizacji wspólnych postępowań, o których mowa w art. 97 ust. 3 pkt 2d zakres tych postępowań.
+- **3)** w przypadku organizacji wspólnych postępowań, o których mowa w art. 97 ust. 3 pkt 2d – zakres tych postępowań.
 
 2. Szczegółowe warunki umów, o których mowa w ust. 1 pkt 2, nie mogą dotyczyć warunków realizacji danego świadczenia gwarantowanego, określonych w rozporządzeniach wydanych na podstawie art. 31d.
 
@@ -6130,7 +6281,7 @@ Art. 196–228. (pominięte)
 - **2)** kompleksowości,
 - **3)** dostępności,
 - **4)** ciągłości,
-- **5)** ceny udzielanych świadczeń opieki zdrowotnej.
+- **5)** ceny – udzielanych świadczeń opieki zdrowotnej.
 
 2. Przy porównaniu ofert w toku postępowania w sprawie zawarcia umowy o udzielanie świadczeń opieki zdrowotnej uwzględnia się także, czy świadczeniodawca przekazał Agencji w terminie dane, o których mowa w art. 31lc ust. 2.
 
@@ -6224,6 +6375,16 @@ Art. 196–228. (pominięte)
 
 8. (uchylony)
 
+**Art. 154a.**
+
+1. W przypadku stwierdzenia niewykonania przez świadczeniodawcę obowiązku, o którym mowa w art. 23i pkt 1, w terminie określonym w tym przepisie, Fundusz wstrzymuje płatności należności z tytułu realizacji świadczeń opieki zdrowotnej objętych tym obowiązkiem do czasu jego wykonania, jednak nie dłużej niż na trzy miesiące. W okresie wstrzymania płatności świadczeniodawcy nie przysługuje prawo do odsetek ani do innych roszczeń z tytułu tego wstrzymania.
+
+2. Po upływie 6 miesięcy od dnia uwzględnienia świadczenia opieki zdrowotnej w przepisach wydanych na podstawie art. 23h ust. 2 pkt 1, Fundusz finansuje świadczeniodawcy wyłącznie to świadczenie opieki zdrowotnej, którego termin udzielenia został wyznaczony z wykorzystaniem centralnej elektronicznej rejestracji albo stał się takim terminem zgodnie z art. 23g ust. 2.
+
+3. Przepisu ust. 2 nie stosuje się w przypadku, gdy świadczeniodawca wykaże, że dokonanie centralnego zgłoszenia lub wyznaczenie terminu udzielenia świadczenia nie było możliwe z przyczyn nieleżących po stronie świadczeniodawcy.
+
+4. Świadczenie opieki zdrowotnej udzielone świadczeniobiorcy w okresie obowiązywania umowy o udzielanie świadczeń opieki zdrowotnej w sposób sprzeczny z ust. 2 nie stanowi zobowiązania Funduszu wynikającego z tej umowy.
+
 **Art. 155.**
 
 1. Do umów o udzielanie świadczeń opieki zdrowotnej stosuje się przepisy Kodeksu cywilnego, jeżeli przepisy ustawy nie stanowią inaczej.
@@ -6234,8 +6395,8 @@ Art. 196–228. (pominięte)
 
 4. Umowę o udzielanie świadczeń opieki zdrowotnej podpisuje się w przypadku postaci:
 
-- **1)** papierowej podpisem własnoręcznym;
-- **2)** elektronicznej kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
+- **1)** papierowej – podpisem własnoręcznym;
+- **2)** elektronicznej – kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
 
 5. Jeżeli umowa o udzielanie świadczeń opieki zdrowotnej nie stanowi inaczej, przeniesienie na osobę trzecią praw i obowiązków wynikających z umowy wymaga pisemnej zgody Prezesa Funduszu.
 
@@ -6326,14 +6487,16 @@ Art. 196–228. (pominięte)
 2. W dodatkowym postępowaniu mogą brać udział świadczeniodawcy spełniający warunki dotyczące:
 
 - **1)** personelu medycznego lub
-- **2)** wyposażenia w sprzęt i aparaturę medyczną w zakresie warunków wymaganych od świadczeniodawców, określonych w przepisach wydanych na podstawie art. 31d, oraz pozostałe warunki realizacji świadczeń gwarantowanych, określone w tych przepisach.
+- **2)** wyposażenia w sprzęt i aparaturę medyczną – w zakresie warunków wymaganych od świadczeniodawców, określonych w przepisach wydanych na podstawie art. 31d, oraz pozostałe warunki realizacji świadczeń gwarantowanych, określone w tych przepisach.
 
 3. W wyniku rozstrzygnięcia dodatkowego postępowania, o którym mowa w ust. 1, może być zawarta ze świadczeniodawcą, o którym mowa w ust. 2, umowa o udzielanie świadczeń opieki zdrowotnej, w danym zakresie świadczeń gwarantowanych:
 
 - **1)** wyłącznie raz;
 - **2)** na okres nie dłuższy niż rok.
 
-4. Do dodatkowego postępowania stosuje się odpowiednio przepisy art. 139–161. Przepisu art. 149 ust. 1 pkt 7, w zakresie warunków dotyczących personelu medycznego albo warunków dotyczących wyposażenia w sprzęt i aparaturę medyczną, wymaganych od świadczeniodawców, określonych w przepisach wydanych na podstawie art. 31d, nie stosuje się.
+4. Do dodatkowego postępowania stosuje się odpowiednio przepisy art. 139–
+
+161. Przepisu art. 149 ust. 1 pkt 7, w zakresie warunków dotyczących personelu medycznego albo warunków dotyczących wyposażenia w sprzęt i aparaturę medyczną, wymaganych od świadczeniodawców, określonych w przepisach wydanych na podstawie art. 31d, nie stosuje się.
 
 5. Przy ustalaniu w umowie zawartej ze świadczeniodawcami, o których mowa w ust. 2, ceny świadczenia opieki zdrowotnej uwzględnia się zakres niedostosowania się tych świadczeniodawców do warunków, o których mowa w przepisach wydanych na podstawie art. 31d. W przypadku tych świadczeniodawców cena świadczenia opieki zdrowotnej jest niższa od najniższej ceny określonej w umowie o udzielanie świadczeń opieki zdrowotnej zawartej przez Prezesa Funduszu, o którym mowa w ust. 1, ze świadczeniodawcą spełniającym warunki określone w przepisach wydanych na podstawie art. 31d, dla tego samego rodzaju i zakresu świadczeń gwarantowanych oraz okresu obowiązywania ceny.
 
@@ -6455,7 +6618,7 @@ Art. 196–228. (pominięte)
 
 5. Jeżeli w ciągu 7 dni od dnia doręczenia wezwania termin posiedzenia nie zostanie ustalony, zostanie ustalony z naruszeniem terminu określonego w wezwaniu lub minister właściwy do spraw zdrowia nie zostanie poinformowany o ustalonym terminie i miejscu posiedzenia, minister może zwołać posiedzenie podmiotów, o których mowa w ust. 1, na koszt Funduszu.
 
-6. Uprawnienia ministra właściwego do spraw zdrowia określone w ust. 1–5 przysługują również ministrowi właściwemu do spraw finansów publicznych. Minister właściwy do spraw finansów publicznych i minister właściwy do spraw zdrowia informują się wzajemnie o wystąpieniu z żądaniem zwołania posiedzenia, o którym mowa w ust. 1, oraz o podjętych działaniach.
+6. Uprawnienia ministra właściwego do spraw zdrowia określone w ust. 1– 5 przysługują również ministrowi właściwemu do spraw finansów publicznych. Minister właściwy do spraw finansów publicznych i minister właściwy do spraw zdrowia informują się wzajemnie o wystąpieniu z żądaniem zwołania posiedzenia, o którym mowa w ust. 1, oraz o podjętych działaniach.
 
 **Art. 169.**
 
@@ -6466,7 +6629,7 @@ Art. 196–228. (pominięte)
 - **1)** działań powodujących niezrównoważenie przychodów z kosztami Funduszu;
 - **2)** niezatwierdzenia sprawozdania finansowego Funduszu;
 - **3)** niezatwierdzenia rocznego sprawozdania z wykonania planu finansowego Funduszu;
-- **4)** przekroczenia terminów, o których mowa w rozdziale 2 działu V z wyłączeniem przepisów dotyczących planu finansowego Funduszu;
+- **4)** przekroczenia terminów, o których mowa w rozdziale 2 działu V – z wyłączeniem przepisów dotyczących planu finansowego Funduszu;
 - **5)** nieprawidłowości w zakresie sprawozdań, o których mowa w art. 131 ust. 1.
 
 **Art. 170.**
@@ -6577,8 +6740,9 @@ Art. 196–228. (pominięte)
 - **10)** prowadzenia i utrzymywania elektronicznego systemu monitorowania programów lekowych, o którym mowa w art. 188c;
 - **10a)** prowadzenia prac analitycznych i prognostycznych związanych z realizacją świadczeń opieki zdrowotnej;
 - **11)** prowadzenia i utrzymywania elektronicznego systemu monitorowania programów zdrowotnych, o którym mowa w art. 188e;
-- **12)** przypominania o wyznaczonym terminie udzielenia świadczenia opieki zdrowotnej;
-- **13)** przekazywania świadczeniobiorcom i świadczeniodawcom informacji z zakresu profilaktyki i zdrowego trybu życia, uzyskanych w ramach przetwarzania danych, o których mowa w pkt 8.
+- **12)** przypominania o wyznaczonym terminie udzielenia świadczenia;
+- **13)** przekazywania świadczeniobiorcom i świadczeniodawcom informacji z zakresu profilaktyki i zdrowego trybu życia, uzyskanych w ramach przetwarzania danych, o których mowa w pkt 8;
+- **14)** obsługi centralnej elektronicznej rejestracji.
 
 1a. Fundusz przetwarza dane osobowe osób, o których mowa w art. 2 ust. 1 pkt 2, w celu:
 
@@ -6627,7 +6791,7 @@ Art. 196–228. (pominięte)
 
 - **1)** ubezpieczonych w celu określonym w ust. 1 pkt 4–8 oraz w celu realizacji zadań, o których mowa w art. 11 ust. 1 pkt 1a;
 - **2)** osób uprawnionych do świadczeń opieki zdrowotnej na podstawie przepisów o koordynacji w celu określonym w ust. 2 pkt 2 i 3 oraz w celu realizacji zadań, o których mowa w art. 11 ust. 1 pkt 1a;
-- **3)** osób, o których mowa w art. 2 ust. 1 pkt 2–4, w celu określonym w ust. 1 pkt 4–8 oraz w celu realizacji zadań, o których mowa w art. 11 ust. 1 pkt 1a.
+- **3)** osób, o których mowa w art. 2 ust. 1 pkt 2–4, w celu określonym w ust. 1 pkt 4– 8 oraz w celu realizacji zadań, o których mowa w art. 11 ust. 1 pkt 1a.
 
 4. W celu realizacji zadań, o których mowa w ust. 1–3, minister właściwy do spraw zdrowia i Fundusz przetwarzają następujące dane:
 
@@ -6640,7 +6804,7 @@ Art. 196–228. (pominięte)
 - **6)** (uchylony)
 - **7)** numer PESEL;
 - **8)** (uchylony)
-- **9)** seria i numer dowodu osobistego, paszportu lub innego dokumentu stwierdzającego tożsamość w przypadku osób, które nie mają nadanego numeru PESEL;
+- **9)** seria i numer dowodu osobistego, paszportu lub innego dokumentu stwierdzającego tożsamość – w przypadku osób, które nie mają nadanego numeru PESEL;
 - **10)** adres zamieszkania;
 - **11)** adres czasowego miejsca pobytu na terytorium Rzeczypospolitej Polskiej, jeżeli dana osoba nie ma na terytorium Rzeczypospolitej Polskiej miejsca zamieszkania;
 - **11a)** adres zameldowania;
@@ -6675,14 +6839,16 @@ Art. 196–228. (pominięte)
 - **32)** informacje, czy członek rodziny pozostaje we wspólnym gospodarstwie domowym;
 - **33)** kod przyczyny wyrejestrowania z tytułu ubezpieczenia zdrowotnego;
 - **34)** numer telefonu;
-- **35)** adres e-mail.
+- **35)** adres e-mail;
+- **36)** niepowtarzalny identyfikator nadany przez państwo członkowskie Unii Europejskiej dla celów transgranicznej identyfikacji, o którym mowa w rozporządzeniu wykonawczym Komisji (UE) 2015/1501 z dnia 8 września 2015 r. w sprawie ram interoperacyjności, na podstawie art. 12 ust. 8 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 910/2014 w sprawie identyfikacji elektronicznej i usług zaufania w odniesieniu do transakcji elektronicznych na rynku wewnętrznym (Dz. Urz. UE L 235 z 09.09.2015, str. 1, z późn. zm. );
+- **37)** jednostkowe dane medyczne w rozumieniu art. 2 pkt 7 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia.
 
 5. Świadczeniodawcy działający w ramach umów z Funduszem obowiązani są do gromadzenia i przekazywania Funduszowi danych dotyczących udzielanych świadczeń zdrowotnych.
 
 5a. Informacje i dane zgromadzone w Funduszu udostępnia się:
 
-- **1)** nieodpłatnie organom egzekucyjnym określonym w art. 19 i art. 20 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2025 r. poz. 132 i 620) w zakresie niezbędnym do prowadzenia postępowania egzekucyjnego;
-- **2)** odpłatnie komornikom sądowym w zakresie niezbędnym do prowadzenia postępowania egzekucyjnego lub zabezpieczającego albo wykonywania postanowienia o zabezpieczeniu spadku lub sporządzania spisu inwentarza.
+- **1)** nieodpłatnie organom egzekucyjnym określonym w art. 19 i art. 20 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2025 r. poz. 132 i 620) – w zakresie niezbędnym do prowadzenia postępowania egzekucyjnego;
+- **2)** odpłatnie komornikom sądowym – w zakresie niezbędnym do prowadzenia postępowania egzekucyjnego lub zabezpieczającego albo wykonywania postanowienia o zabezpieczeniu spadku lub sporządzania spisu inwentarza.
 
 5b. Opłata za udzielenie przez Fundusz komornikom sądowym informacji i danych, dotyczących jednego świadczeniobiorcy lub jednego płatnika składek, wynosi 50 zł.
 
@@ -6693,7 +6859,9 @@ Art. 196–228. (pominięte)
 5e. Informacje i dane zgromadzone w Funduszu, w zakresie wskazanym w ust. 5f, udostępnia się nieodpłatnie, drogą elektroniczną, następującym podmiotom:
 
 - **1)** za pośrednictwem ministra właściwego do spraw rodziny:
-    - **a)** organowi właściwemu, o którym mowa w art. 3 pkt 11 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2025 r. poz. 1208), i wojewodzie w celu weryfikacji prawa do świadczeń rodzinnych osób ubiegających się o te świadczenia lub osób je pobierających oraz członków ich rodzin,
+    - **a)** organowi właściwemu, o którym mowa w art. 3 pkt 11 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2025 r. poz.
+
+- **1208)** , i wojewodzie w celu weryfikacji prawa do świadczeń rodzinnych osób ubiegających się o te świadczenia lub osób je pobierających oraz członków ich rodzin,
     - **b)** organowi właściwemu wierzyciela, o którym mowa w art. 2 pkt 10 ustawy z dnia 7 września 2007 r. o pomocy osobom uprawnionym do alimentów (Dz. U. z 2025 r. poz. 438 i 620), w celu weryfikacji prawa do świadczeń z funduszu alimentacyjnego osób ubiegających się o te świadczenia lub osób je pobierających oraz członków ich rodzin;
     - **c)** (uchylona)
     - **d)** (uchylona)
@@ -6702,9 +6870,10 @@ Art. 196–228. (pominięte)
     - **a)** umożliwienia organom właściwym i wojewodom weryfikacji prawa do świadczeń, o których mowa w pkt 1,
     - **b)** w celu monitorowania przez ministra właściwego do spraw rodziny realizacji świadczeń, o których mowa w pkt 1;
 
-- **3)** Zakładowi Ubezpieczeń Społecznych w celu weryfikacji prawa do świadczenia wychowawczego, o którym mowa w ustawie z dnia 11 lutego 2016 r. o pomocy państwa w wychowywaniu dzieci (Dz. U. z 2024 r. poz. 1576 oraz z 2025 r. poz. 619), świadczenia dobry start, świadczenia wspierającego, o którym mowa w ustawie z dnia 7 lipca 2023 r. o świadczeniu wspierającym, oraz świadczeń „aktywny rodzic”, o których mowa w ustawie z dnia 15 maja 2024 r. o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka „Aktywny rodzic” (Dz. U. poz. 858 oraz z 2025 r. poz. 619 i 1083).
+- **3)** Zakładowi Ubezpieczeń Społecznych w celu weryfikacji prawa do świadczenia wychowawczego, o którym mowa w ustawie z dnia 11 lutego 2016 r. o pomocy państwa w wychowywaniu dzieci (Dz. U. z 2024 r. poz. 1576 oraz z 2025 r. poz.
+- **619)** , świadczenia dobry start, świadczenia wspierającego, o którym mowa w ustawie z dnia 7 lipca 2023 r. o świadczeniu wspierającym, oraz świadczeń „aktywny rodzic”, o których mowa w ustawie z dnia 15 maja 2024 r. o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka – „Aktywny rodzic” (Dz. U. poz. 858 oraz z 2025 r. poz. 619 i 1083).
 
-5f. Zakres udostępnianych danych i informacji obejmuje: imię i nazwisko, numer PESEL, a w przypadku gdy nie nadano numeru PESEL numer i serię dokumentu potwierdzającego tożsamość, a także informację o prawie do świadczeń opieki zdrowotnej według stanu na dzień udostępniania. W przypadku osoby, która nie ukończyła 18. roku życia i nie została zgłoszona do ubezpieczenia zdrowotnego, informacja o prawie do świadczeń obejmuje także informację, że dana osoba nie jest objęta ubezpieczeniem zdrowotnym.
+5f. Zakres udostępnianych danych i informacji obejmuje: imię i nazwisko, numer PESEL, a w przypadku gdy nie nadano numeru PESEL – numer i serię dokumentu potwierdzającego tożsamość, a także informację o prawie do świadczeń opieki zdrowotnej według stanu na dzień udostępniania. W przypadku osoby, która nie ukończyła 18. roku życia i nie została zgłoszona do ubezpieczenia zdrowotnego, informacja o prawie do świadczeń obejmuje także informację, że dana osoba nie jest objęta ubezpieczeniem zdrowotnym.
 
 5g. Minister właściwy do spraw rodziny i Fundusz uzgadniają warunki techniczne i organizacyjne wymiany danych, o której mowa w ust. 5e pkt 1 i 2.
 
@@ -6750,21 +6919,31 @@ Art. 196–228. (pominięte)
 
 - **1)** dokonywania oceny spełniania przez świadczeniobiorców kryteriów włączenia do programu zdrowotnego oraz oceny badań i kwalifikacji świadczeniobiorców do grup ryzyka;
 - **2)** rozliczania świadczeń opieki zdrowotnej udzielonych w związku z realizacją programów zdrowotnych;
-- **3)** monitorowania zapotrzebowania na świadczenia opieki zdrowotnej oraz stanu zdrowia świadczeniobiorców, w związku z realizacją programów zdrowotnych;
+- **3)** monitorowania zapotrzebowania na świadczenia opieki zdrowotnej oraz stanu zdrowia świadczeniobiorców w związku z realizacją programów zdrowotnych;
 - **4)** prowadzenia profilaktyki zdrowotnej, w szczególności przez informowanie świadczeniobiorców o możliwości korzystania ze świadczeń opieki zdrowotnej, w tym świadczeń mających na celu profilaktykę zdrowotną;
-- **5)** dokonywania oceny skuteczności programów zdrowotnych.
+- **5)** dokonywania oceny skuteczności i jakości programów zdrowotnych;
+- **6)** umożliwienia monitorowania dalszego postępowania ze świadczeniobiorcami objętymi programami zdrowotnymi.
 
-2. W elektronicznym systemie monitorowania programów zdrowotnych przetwarza się dane, o których mowa w art. 188 ust. 4 pkt 1, 3, 4, 7, 9–11, 11b, 15, 16, 17 i 26, oraz jednostkowe dane medyczne w rozumieniu art. 2 pkt 7 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, związane z prowadzeniem profilaktyki zdrowotnej, w tym dane o udzielonych świadczeniach opieki zdrowotnej.
+2. Elektroniczny system monitorowania programów zdrowotnych, o którym mowa w ust. 1, jest częścią Systemu Rejestru Usług Medycznych – „RUM – NFZ”, o którym mowa w art. 22 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia.
 
-3. Dane, o których mowa w ust. 2, są przekazywane do elektronicznego systemu monitorowania programów zdrowotnych przez świadczeniodawców realizujących programy zdrowotne.
+3. W elektronicznym systemie monitorowania programów zdrowotnych mogą być przetwarzane dane, o których mowa w art. 188 ust. 4 i art. 188a, oraz informacje dotyczące wykształcenia świadczeniobiorcy.
 
-4. Dostęp do danych przetwarzanych w elektronicznym systemie monitorowania programów zdrowotnych mają:
+4. Dane oraz informacje, o których mowa w ust. 3, są przekazywane do elektronicznego systemu monitorowania programów zdrowotnych przez świadczeniodawców lub mogą być przekazywane przez świadczeniobiorców za pośrednictwem systemu teleinformatycznego, o którym mowa w art. 7 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia.
+
+5. Bazę danych osobowych zasilających elektroniczny system monitorowania programów zdrowotnych stanowi Centralny Wykaz Ubezpieczonych.
+
+6. Dostęp do danych przetwarzanych w elektronicznym systemie monitorowania programów zdrowotnych mają:
 
 - **1)** Fundusz;
-- **2)** minister właściwy do spraw zdrowia, w zakresie niezbędnym do realizacji zadań, o których mowa w ust. 1 pkt 3–5, jeżeli obowiązek ich realizacji wynika z przepisów prawa, programów polityki zdrowotnej lub programów wieloletnich ustanowionych na podstawie art. 136 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych;
-- **3)** świadczeniodawcy, o których mowa w ust. 3, w zakresie przekazywanych przez nich danych.
+- **2)** minister właściwy do spraw zdrowia w zakresie niezbędnym do realizacji zadań, o których mowa w ust. 1 pkt 3–5, jeżeli obowiązek ich realizacji wynika z przepisów prawa, programów polityki zdrowotnej lub programów wieloletnich ustanowionych na podstawie art. 136 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych;
+- **3)** świadczeniodawcy, o których mowa w ust. 4, w zakresie przekazywanych przez nich danych;
+- **4)** jednostka podległa ministrowi właściwemu do spraw zdrowia właściwa w zakresie systemów informacyjnych ochrony zdrowia w zakresie niezbędnym do realizacji celów, o których mowa w ust. 1 pkt 1 i 4;
+- **5)** Narodowy Instytut Onkologii im. Marii Skłodowskiej-Curie – Państwowy Instytut Badawczy w Warszawie w zakresie niezbędnym do realizacji celów, o których mowa w ust. 1 pkt 3, 5 i 6;
+- **6)** świadczeniodawcy podstawowej opieki zdrowotnej w zakresie niezbędnym do realizacji celów, o których mowa w ust. 1 pkt 1, 3, 4 i 6, oraz celów wskazanych w ustawie z dnia 27 października 2017 r. o podstawowej opiece zdrowotnej.
 
-5. Dane, o których mowa w ust. 2, mogą być udostępniane, na podstawie pisemnej umowy, podmiotom biorącym udział w realizacji programów polityki zdrowotnej lub programów wieloletnich ustanowionych na podstawie art. 136 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, w zakresie, o którym mowa w ust. 1 pkt 3–5.
+7. Dane oraz informacje, o których mowa w ust. 3, mogą być udostępniane, na podstawie pisemnej umowy, podmiotom biorącym udział w realizacji programów polityki zdrowotnej lub programów wieloletnich ustanowionych na podstawie art. 136 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych w zakresie, o którym mowa w ust. 1 pkt 3–5.
+
+8. Fundusz przekazuje do systemu teleinformatycznego, o którym mowa w art. 7 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, dane oraz informacje, o których mowa w ust. 3, pozwalające na dokonywanie oceny spełniania przez świadczeniobiorców kryteriów włączenia do programu zdrowotnego, w celu weryfikacji dopuszczalności dokonania zgłoszenia centralnego na świadczenie opieki zdrowotnej realizowane w ramach programu zdrowotnego.
 
 **Art. 189.**
 
@@ -6788,7 +6967,7 @@ Art. 196–228. (pominięte)
 
 - **1)** zakres informacji zawartych w rocznych i okresowych sprawozdaniach z działalności Funduszu,
 - **2)** wzór sprawozdania okresowego z działalności Funduszu oraz sposób i terminy jego przekazywania ministrowi właściwemu do spraw zdrowia,
-- **3)** minimalny zakres zbiorczych informacji przekazywanych przez Fundusz wojewodom oraz marszałkom województw na podstawie art. 189a, sposób i terminy ich przekazywania oraz wzór budowy komunikatów elektronicznych służących do przekazywania tych informacji uwzględniając zakres zadań wykonywanych przez te podmioty oraz konieczność zapewnienia jednolitości przekazywanych informacji.
+- **3)** minimalny zakres zbiorczych informacji przekazywanych przez Fundusz wojewodom oraz marszałkom województw na podstawie art. 189a, sposób i terminy ich przekazywania oraz wzór budowy komunikatów elektronicznych służących do przekazywania tych informacji – uwzględniając zakres zadań wykonywanych przez te podmioty oraz konieczność zapewnienia jednolitości przekazywanych informacji.
 
 4. (uchylony)
 
@@ -6819,20 +6998,20 @@ Art. 196–228. (pominięte)
 - **1)** nazwisko i imię;
 - **2)** numer PESEL;
 - **3)** (uchylony)
-- **4)** seria i numer dowodu osobistego lub paszportu w przypadku osób, które nie mają nadanego numeru PESEL;
+- **4)** seria i numer dowodu osobistego lub paszportu – w przypadku osób, które nie mają nadanego numeru PESEL;
 - **5)** dane dotyczące rodzaju i zakresu udzielonych świadczeniobiorcom innym niż ubezpieczeni świadczeń opieki zdrowotnej, w zakresie określonym w przepisach wydanych na podstawie art. 190 ust. 1.
 
 3a. Informacje i dane zgromadzone w Funduszu oraz w Agencji udostępnia się nieodpłatnie ministrowi właściwemu do spraw zdrowia oraz jednostce podległej ministrowi właściwemu do spraw zdrowia, właściwej w zakresie systemów informacyjnych ochrony zdrowia, w celu dokonywania analiz na rzecz systemu ochrony zdrowia zlecanych przez ministra właściwego do spraw zdrowia.
 
 4. Minister Obrony Narodowej, Minister Sprawiedliwości, minister właściwy do spraw wewnętrznych, minister właściwy do spraw finansów publicznych oraz minister właściwy do spraw zdrowia przetwarzają informacje niezbędne do realizacji zadań wynikających z ustawy.
 
-**Art. 191a.** Rozliczenia ze świadczeniodawcami i aptekami Fundusz realizuje poprzez System Rejestru Usług Medycznych „RUM NFZ”, o którym mowa w ustawie z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia.
+**Art. 191a.** Rozliczenia ze świadczeniodawcami i aptekami Fundusz realizuje poprzez System Rejestru Usług Medycznych – „RUM – NFZ”, o którym mowa w ustawie z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia.
 
 **Art. 192.**
 
 1. Fundusz na żądanie świadczeniobiorcy informuje go o:
 
-- **1)** posiadanym w danym dniu prawie do świadczeń opieki zdrowotnej oraz podstawie tego prawa, a w przypadku gdy prawo do świadczeń opieki zdrowotnej wynika z objęcia ubezpieczeniem zdrowotnym, także o dacie zgłoszenia do ubezpieczenia zdrowotnego oraz numerze identyfikacji podatkowej (NIP) i numerze REGON płatnika ubezpieczenia zdrowotnego na podstawie informacji przetwarzanych w Centralnym Wykazie Ubezpieczonych;
+- **1)** posiadanym w danym dniu prawie do świadczeń opieki zdrowotnej oraz podstawie tego prawa, a w przypadku gdy prawo do świadczeń opieki zdrowotnej wynika z objęcia ubezpieczeniem zdrowotnym, także o dacie zgłoszenia do ubezpieczenia zdrowotnego oraz numerze identyfikacji podatkowej (NIP) i numerze REGON płatnika ubezpieczenia zdrowotnego – na podstawie informacji przetwarzanych w Centralnym Wykazie Ubezpieczonych;
 - **2)** udzielonych mu świadczeniach opieki zdrowotnej oraz kwocie środków publicznych wydatkowanych na sfinansowanie tych świadczeń.
 
 2. Minister właściwy do spraw zdrowia, po zasięgnięciu opinii Prezesa Funduszu, określi, w drodze rozporządzenia, sposób, tryb i terminy występowania do Funduszu oraz udostępniania przez Fundusz informacji, o których mowa w ust. 1, mając na uwadze zakres informacji, o jaką występuje świadczeniobiorca, konieczność zapewnienia właściwej identyfikacji i uwierzytelniania świadczeniobiorcy i osoby działającej w cudzym imieniu oraz ochrony danych osobowych przed nieuprawnionym dostępem lub ujawnieniem.
@@ -6846,7 +7025,7 @@ Art. 196–228. (pominięte)
 1. Fundusz może zwrócić się z wnioskiem do:
 
 - **1)** świadczeniobiorcy o informację w zakresie udzielonych mu świadczeń opieki zdrowotnej,
-- **2)** świadczeniodawcy o nieodpłatne udostępnienie dokumentacji medycznej w celu potwierdzenia udzielenia świadczeń opieki zdrowotnej;
+- **2)** świadczeniodawcy o nieodpłatne udostępnienie dokumentacji medycznej – w celu potwierdzenia udzielenia świadczeń opieki zdrowotnej;
 - **3)** apteki o udostępnienie recept realizowanych w postaci papierowej w celu potwierdzenia realizacji recept na refundowane leki, środki spożywcze specjalnego przeznaczenia żywieniowego oraz wyroby medyczne.
 
 2. Informacje i dokumenty, o których mowa w ust. 1, mogą być wykorzystywane przez Fundusz w celu prowadzenia czynności, o których mowa w dziale IIIA, z zachowaniem ograniczeń wynikających z przepisów art. 61z.

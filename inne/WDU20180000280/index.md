@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 31 stycznia 2018 r.
+# w sprawie ogłoszenia jednolitego tekstu ustawy o szczególnych zasadach rozliczeń podatku od towarów i usług oraz dokonywania zwrotu środków publicznych przeznaczonych na realizację projektów finansowanych z udziałem środków pochodzących z budżetu Unii Europejskiej lub od państw członkowskich Europejskiego Porozumienia o Wolnym Handlu przez jednostki samorządu terytorialnego
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 11 stycznia 2018 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,13 +26,9 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000280) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/280/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 11 stycznia 2018 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o szczególnych zasadach rozlicze ń podatku od towarów i usług oraz dokonywania zwrotu ś rodków publicznych przeznaczonych na realizacj ę projektów finansowanych z udziałem ś rodków pochodz ą cych z bud ż etu Unii Europejskiej lub od pa ń stw członkowskich Europejskiego Porozumienia o Wolnym Handlu przez jednostki samorz ą du terytorialnego
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 5 września 2016 r. o szczególnych zasadach rozliczeń podatku od towarów i usług oraz dokonywania zwrotu środków publicznych przeznaczonych na realizację projektów finansowanych z udziałem środków pochodzących z budżetu Unii Europejskiej lub od państw członkowskich Europejskiego Porozumienia o Wolnym Handlu przez jednostki samorządu terytorialnego (Dz. U. poz. 1454), z uwzględnieniem zmian wprowadzonych ustawą z dnia 16 listopada 2016 r. Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 oraz z 2017 r.
-poz. 379, 1926 i 2409) oraz zmian wynikających z przepisów ogłoszonych przed dniem 9 stycznia 2018 r.
+1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 5 września 2016 r. o szczególnych zasadach rozliczeń podatku od towarów i usług oraz dokonywania zwrotu środków publicznych przeznaczonych na realizację projektów finansowanych z udziałem środków pochodzących z budżetu Unii Europejskiej lub od państw członkowskich Europejskiego Porozumienia o Wolnym Handlu przez jednostki samorządu terytorialnego (Dz. U. poz. 1454), z uwzględnieniem zmian wprowadzonych ustawą z dnia 16 listopada 2016 r. Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 oraz z 2017 r. poz. 379, 1926 i 2409) oraz zmian wynikających z przepisów ogłoszonych przed dniem 9 stycznia 2018 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 20 i art. 21 ustawy z dnia 5 września 2016 r. o szczególnych zasadach rozliczeń podatku od towarów i usług oraz dokonywania zwrotu środków publicznych przeznaczonych na realizację projektów finansowanych z udziałem środków pochodzących z budżetu Unii Europejskiej lub od państw członkowskich Europejskiego Porozumienia o Wolnym Handlu przez jednostki samorządu terytorialnego (Dz. U. poz. 1454), które stanowią: „Art. 20. W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2014 r.
-poz. 851, z późn. zm. ) w art. 12 w ust. 4 po pkt 9 dodaje się pkt 9a w brzmieniu: „9a) środków finansowych otrzymanych przez samorządowy zakład budżetowy z budżetu jednostki samorządu terytorialnego wynikających z rozliczenia podatku od towarów i usług związanego z tym zakładem;”.
+1) art. 20 i art. 21 ustawy z dnia 5 września 2016 r. o szczególnych zasadach rozliczeń podatku od towarów i usług oraz dokonywania zwrotu środków publicznych przeznaczonych na realizację projektów finansowanych z udziałem środków pochodzących z budżetu Unii Europejskiej lub od państw członkowskich Europejskiego Porozumienia o Wolnym Handlu przez jednostki samorządu terytorialnego (Dz. U. poz. 1454), które stanowią: „Art. 20. W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2014 r. poz. 851, z późn. zm. ) w art. 12 w ust. 4 po pkt 9 dodaje się pkt 9a w brzmieniu: „9a) środków finansowych otrzymanych przez samorządowy zakład budżetowy z budżetu jednostki samorządu terytorialnego wynikających z rozliczenia podatku od towarów i usług związanego z tym zakładem;”.
 
 **Art. 21.** W ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, z późn. zm. ) wprowadza się następujące zmiany:
 
@@ -42,9 +40,9 @@ poz. 851, z późn. zm. ) w art. 12 w ust. 4 po pkt 9 dodaje się pkt 9a w brzmi
 
 #### Rozdział 2 Zasady dokonywania rozliczeń podatku przez jednostki samorządu terytorialnego
 
-**Art. 3.** Jednostka samorz ą du terytorialnego jest obowi ą zana do podj ę cia rozliczania podatku wraz ze wszystkimi jednostkami organizacyjnymi najpó ź niej od dnia 1 stycznia 2017 r.
+**Art. 3.** Jednostka samorządu terytorialnego jest obowiązana do podjęcia rozliczania podatku wraz ze wszystkimi jednostkami organizacyjnymi najpóźniej od dnia 1 stycznia 2017 r.
 
-**Art. 4.** Jednostka samorz ą du terytorialnego, której jednostki organizacyjne rozliczały si ę jako odr ę bni podatnicy, wst ę puje z dniem podj ę cia rozliczania podatku wraz ze wszystkimi jednostkami organizacyjnymi we wszystkie przewidziane w przepisach dotycz ą cych podatku prawa i obowi ą zki jednostek organizacyjnych.
+**Art. 4.** Jednostka samorządu terytorialnego, której jednostki organizacyjne rozliczały się jako odrębni podatnicy, wstępuje z dniem podjęcia rozliczania podatku wraz ze wszystkimi jednostkami organizacyjnymi we wszystkie przewidziane w przepisach dotyczących podatku prawa i obowiązki jednostek organizacyjnych.
 
 **Art. 5.**
 
@@ -74,9 +72,9 @@ poz. 851, z późn. zm. ) w art. 12 w ust. 4 po pkt 9 dodaje się pkt 9a w brzmi
 
 **Art. 9.** Przepisy art. 4, art. 6 i art. 8 stosuje się również w przypadku podjęcia przez jednostkę samorządu terytorialnego wspólnego rozliczania podatku wraz ze wszystkimi jednostkami organizacyjnymi przed dniem wejścia w życie ustawy.
 
-**Art. 10.** W zakresie, w jakim nastąpiła zmiana kwalifikowalności podatku w części dotyczącej kwoty podatku naliczonego z tytułu nabycia towarów i usług finansowanej ze ś rodków przeznaczonych na realizacj ę projektów w zwi ą zku z wyrokiem Trybunału Sprawiedliwo ś ci, jednostce samorz ą du terytorialnego nie przysługuje prawo do dokonania obni ż enia kwoty podatku nale ż nego o t ę kwot ę podatku naliczonego, równie ż w ramach korekty, o której mowa w art. 86 ust. 13 i 13a ustawy o podatku od towarów i usług, oraz w trybie art. 91 ust. 7–8 ustawy o podatku od towarów i usług, je ż eli przed dniem wej ś cia w ż ycie ustawy nie dokonano zwrotu ś rodków przeznaczonych na realizacj ę projektów w cz ęś ci zwi ą zanej ze zmianą kwalifikowalności podatku.
+**Art. 10.** W zakresie, w jakim nastąpiła zmiana kwalifikowalności podatku w części dotyczącej kwoty podatku naliczonego z tytułu nabycia towarów i usług finansowanej ze środków przeznaczonych na realizację projektów w związku z wyrokiem Trybunału Sprawiedliwości, jednostce samorządu terytorialnego nie przysługuje prawo do dokonania obniżenia kwoty podatku należnego o tę kwotę podatku naliczonego, również w ramach korekty, o której mowa w art. 86 ust. 13 i 13a ustawy o podatku od towarów i usług, oraz w trybie art. 91 ust. 7–8 ustawy o podatku od towarów i usług, jeżeli przed dniem wejścia w życie ustawy nie dokonano zwrotu środków przeznaczonych na realizację projektów w części związanej ze zmianą kwalifikowalności podatku.
 
-#### Rozdział 3 Zasady dokonywania przez jednostki samorz ą du terytorialnego korekt rozlicze ń podatku za okresy rozliczeniowe upływaj ą ce przed dniem podj ę cia przez nie rozliczania podatku wraz ze wszystkimi jednostkami organizacyjnymi
+#### Rozdział 3 Zasady dokonywania przez jednostki samorządu terytorialnego korekt rozliczeń podatku za okresy rozliczeniowe upływające przed dniem podjęcia przez nie rozliczania podatku wraz ze wszystkimi jednostkami organizacyjnymi
 
 **Art. 11.**
 
@@ -136,7 +134,7 @@ poz. 851, z późn. zm. ) w art. 12 w ust. 4 po pkt 9 dodaje się pkt 9a w brzmi
 
 **Art. 17.**
 
-1. Jednostka samorz ą du terytorialnego lub jej jednostka organizacyjna nie jest obowi ą zana do zwrotu ś rodków przeznaczonych na realizacj ę projektów w takim zakresie, w jakim nast ą piła zmiana kwalifikowalno ś ci podatku w cz ęś ci dotycz ą cej kwoty podatku naliczonego z tytułu nabycia towarów i usług finansowanej ze ś rodków przeznaczonych na realizacj ę projektów w zwi ą zku z wyrokiem Trybunału Sprawiedliwo ś ci.
+1. Jednostka samorządu terytorialnego lub jej jednostka organizacyjna nie jest obowiązana do zwrotu środków przeznaczonych na realizację projektów w takim zakresie, w jakim nastąpiła zmiana kwalifikowalności podatku w części dotyczącej kwoty podatku naliczonego z tytułu nabycia towarów i usług finansowanej ze środków przeznaczonych na realizację projektów w związku z wyrokiem Trybunału Sprawiedliwości.
 
 2. Przepis ust. 1 stosuje się pod warunkiem, że jednostka samorządu terytorialnego nie dokonała przed dniem wejścia w życie ustawy obniżenia kwoty podatku należnego o kwotę podatku naliczonego z tytułu nabycia towarów i usług finansowaną ze środków przeznaczonych na realizację projektów, o której mowa w ust. 1, również w ramach korekty, o której mowa w art. 86 ust. 13 i 13a ustawy o podatku od towarów i usług, oraz w trybie art. 91 ust. 7–8 ustawy o podatku od towarów i usług.
 
@@ -169,7 +167,7 @@ poz. 851, z późn. zm. ) w art. 12 w ust. 4 po pkt 9 dodaje się pkt 9a w brzmi
 
 - **5)** 1. Postępowania podatkowe, kontrole celno-skarbowe, kontrole podatkowe oraz czynności sprawdzające w zakresie podatku:
 - **1)** wszczęte i niezakończone przed dniem wejścia w życie ustawy,
-- **2)** wszczęte od dnia wejścia w życie ustawy w odniesieniu do jednostki samorz ą du terytorialnego lub jej jednostek organizacyjnych obejmuj ą tylko rozliczenie podatku odpowiednio tej jednostki samorz ą du terytorialnego lub jej jednostki organizacyjnej.
+- **2)** wszczęte od dnia wejścia w życie ustawy w odniesieniu do jednostki samorządu terytorialnego lub jej jednostek organizacyjnych obejmują tylko rozliczenie podatku odpowiednio tej jednostki samorządu terytorialnego lub jej jednostki organizacyjnej.
 
 2. Organy podatkowe właściwe w dniu wszczęcia postępowania podatkowego, kontroli celno-skarbowej, kontroli podatkowej oraz czynności sprawdzających w zakresie podatku, o których mowa w ust. 1 pkt 1, pozostają właściwe we wszystkich sprawach związanych z podatkiem, które są przedmiotem tych postępowań, kontroli lub czynności sprawdzających, chociażby w trakcie postępowania, kontroli lub czynności sprawdzających jednostka samorządu terytorialnego podjęła wspólne rozliczanie podatku wraz ze wszystkimi jednostkami organizacyjnymi.
 

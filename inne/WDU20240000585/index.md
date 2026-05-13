@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 17 kwietnia 2024 r.
+# o ostateczności rozrachunku w systemach płatności i systemach rozrachunku papierów wartościowych oraz zasadach nadzoru nad tymi systemami
+
+*USTAWA z dnia 24 sierpnia 2001 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,24 +25,6 @@ domain: null
 | Data wydania | 2024-04-17 |
 | Ostatnia zmiana | 2026-03-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000585) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/585/text.pdf) |
-
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 12 kwietnia 2024 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o ostateczności rozrachunku w systemach płatności i systemach rozrachunku papierów wartościowych oraz zasadach nadzoru nad tymi systemami
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 24 sierpnia 2001 r. o ostateczności rozrachunku w systemach płatności i systemach rozrachunku papierów wartościowych oraz zasadach nadzoru nad tymi systemami (Dz. U. z 2022 r. poz. 1581), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 16 sierpnia 2023 r. o zmianie niektórych ustaw w związku z zapewnieniem rozwoju rynku finansowego oraz ochrony inwestorów na tym rynku (Dz. U. poz. 1723) oraz zmian wynikających z przepisów ogłoszonych przed dniem 12 kwietnia 2024 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 73 ustawy z dnia 16 sierpnia 2023 r. o zmianie niektórych ustaw w związku z zapewnieniem rozwoju rynku finansowego oraz ochrony inwestorów na tym rynku (Dz. U. poz. 1723), który stanowi: „Art. 73. Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem:
-1) art. 26, który wchodzi w życie z dniem ogłoszenia;
-2) art. 3 pkt 1 lit. a, art. 30 oraz art. 42, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
-3) art. 17 pkt 47 lit. f w zakresie art. 89 ust. 4d pkt 3, art. 19 pkt 6 i 22, art. 27 oraz art. 29 pkt 16 i 18, art. 40 i art. 71, które wchodzą w życie z dniem 1 października 2023 r.;
-4) art. 2, art. 3 pkt 4, art. 13, art. 15 pkt 24, art. 23 pkt 36 lit. b i pkt 48, art. 39, art. 41, art. 51 i art. 62 ust. 2, które wchodzą w życie z dniem 1 stycznia 2024 r.;
-5) art. 15 pkt 16 lit. c, który wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia;
-6) art. 14 pkt 1 lit. a i pkt 37, art. 17 pkt 10 oraz art. 29 pkt 11, które wchodzą w życie po upływie 9 miesięcy od dnia ogłoszenia;
-7) art. 38 pkt 2, który wchodzi w życie z dniem 1 czerwca 2024 r.;
-8) art. 20, który wchodzi w życie z dniem 1 lipca 2024 r.;
-9) art. 32 pkt 11 lit. b, który wchodzi w życie po upływie 18 miesięcy od dnia ogłoszenia;
-10) art. 19 pkt 4, który wchodzi w życie z dniem 1 stycznia 2025 r.”.
-Marszałek Sejmu: S. Hołownia
-USTAWA z dnia 24 sierpnia 2001 r.
-o ostateczności rozrachunku w systemach płatności i systemach rozrachunku papierów wartościowych oraz zasadach nadzoru nad tymi systemami
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -56,7 +40,7 @@ o ostateczności rozrachunku w systemach płatności i systemach rozrachunku pap
 
 2. Komisja Nadzoru Finansowego, zwana dalej „KNF”, może, w indywidualnych przypadkach, uznać za system rozrachunku papierów wartościowych podlegające prawu polskiemu prawne powiązania pomiędzy dwoma uczestnikami, nie uwzględniając agenta rozrachunkowego, CCP, izby rozliczeniowej ani uczestnika pośredniego, jeżeli tacy występują, określające zasady realizacji przez tych uczestników zleceń rozrachunku, o których mowa w art. 1 pkt 12 lit. b, gdy uznanie takie jest zasadne ze względu na ryzyko systemowe.
 
-**Art. 2a.** Prezes NBP w odniesieniu do systemów płatności, a KNF w odniesieniu do systemów rozrachunku papierów wartościowych może uznać, że ze względu na ryzyko systemowe uczestnicy pośredni są uznani za uczestników, pod warunkiem że uczestnicy pośredni są znani systemowi.
+**Art. 2a.** Prezes NBP w odniesieniu do systemów płatności, a KNF w odniesieniu do systemów rozrachunku papierów wartościowych może uznać, że ze względu na ryzyko systemowe uczestnicy pośredni są uznani za uczestników, pod warunkiem że uczestnicy pośredni są znani systemowi. Nie stanowi to ograniczenia odpowiedzialności uczestnika, za którego pośrednictwem uczestnik pośredni przekazuje zlecenia rozrachunku do systemu.
 
 **Art. 2b.** Porozumienie między podmiotami prowadzącymi systemy interoperacyjne nie stanowi systemu.
 
@@ -66,12 +50,12 @@ o ostateczności rozrachunku w systemach płatności i systemach rozrachunku pap
 
 **Art. 4.**
 
-1. Przepisy ustawy, przepisy art. 66, art. 67, art. 80 i art. 135–137 ustawy z dnia 28 lutego 2003 r. Prawo upadłościowe oraz przepisy art. 242, art. 244, art. 245, art. 254, art. 255 i art. 309 ustawy z dnia 15 maja 2015 r. Prawo restrukturyzacyjne, dotyczące skutków ogłoszenia upadłości lub otwarcia postępowania restrukturyzacyjnego wobec podmiotu mającego siedzibę na terytorium Rzeczypospolitej Polskiej, będącego uczestnikiem systemu, stosuje się odpowiednio:
+1. Przepisy ustawy, przepisy art. 66, art. 67, art. 80 i art. 135–137 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe oraz przepisy art. 242, art. 244, art. 245, art. 254, art. 255 i art. 309 ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne, dotyczące skutków ogłoszenia upadłości lub otwarcia postępowania restrukturyzacyjnego wobec podmiotu mającego siedzibę na terytorium Rzeczypospolitej Polskiej, będącego uczestnikiem systemu, stosuje się odpowiednio:
 
 - **1)** w razie wydania orzeczenia albo decyzji o likwidacji, zawieszeniu lub ograniczeniu prowadzenia działalności uczestnika, a także w razie podjęcia innych środków prawnych względem uczestnika, skutkujących zawieszeniem lub ograniczeniem realizacji zleceń rozrachunku w systemie dotyczącym tego uczestnika;
 - **2)** do orzeczeń, postanowień lub decyzji wydanych wobec tego uczestnika przez zagraniczny sąd lub inny organ w ramach zagranicznych postępowań upadłościowych.
 
-2. Przepisy ustawy, przepisy art. 66, art. 67, art. 80 i art. 135–137 ustawy z dnia 28 lutego 2003 r. Prawo upadłościowe oraz przepisy art. 242, art. 244, art. 245, art. 254, art. 255 i art. 309 ustawy z dnia 15 maja 2015 r. Prawo restrukturyzacyjne, dotyczące skutków ogłoszenia upadłości lub otwarcia postępowania restrukturyzacyjnego wobec podmiotu mającego siedzibę poza terytorium Rzeczypospolitej Polskiej, będącego uczestnikiem systemu płatności lub systemu rozrachunku papierów wartościowych, stosuje się odpowiednio w razie podjęcia wobec tego podmiotu zagranicznego postępowania upadłościowego.
+2. Przepisy ustawy, przepisy art. 66, art. 67, art. 80 i art. 135–137 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe oraz przepisy art. 242, art. 244, art. 245, art. 254, art. 255 i art. 309 ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne, dotyczące skutków ogłoszenia upadłości lub otwarcia postępowania restrukturyzacyjnego wobec podmiotu mającego siedzibę poza terytorium Rzeczypospolitej Polskiej, będącego uczestnikiem systemu płatności lub systemu rozrachunku papierów wartościowych, stosuje się odpowiednio w razie podjęcia wobec tego podmiotu zagranicznego postępowania upadłościowego.
 
 **Art. 5.** Skutki prawne wynikające z ogłoszenia upadłości, otwarcia postępowania restrukturyzacyjnego lub podjęcia zagranicznego postępowania upadłościowego wobec podmiotu mającego siedzibę na terytorium Rzeczypospolitej Polskiej, będącego uczestnikiem systemu płatności lub systemu rozrachunku papierów wartościowych podlegających prawu innego państwa członkowskiego, odnoszące się do praw i obowiązków tego podmiotu pozostających w związku z uczestnictwem w takim systemie, są określone przez prawo właściwe dla tego systemu.
 
@@ -83,11 +67,11 @@ o ostateczności rozrachunku w systemach płatności i systemach rozrachunku pap
 
 3. Jeżeli zasady funkcjonowania wszystkich współpracujących ze sobą systemów interoperacyjnych nie stanowią inaczej, na zasady funkcjonowania systemu interoperacyjnego określające moment wprowadzenia zlecenia rozrachunku do systemu oraz moment, od którego zlecenie rozrachunku nie może zostać odwołane, nie mają wpływu na zasady funkcjonowania systemów, z którymi dany system współpracuje, w tym także systemów podlegających prawu innego państwa członkowskiego.
 
-**Art. 6a.** Jeżeli w wyniku rozliczenia zleceń rozrachunku w jednym systemie przeprowadzany jest rozrachunek w drugim systemie, skutki, o których mowa w art. 136 i art. 137 ustawy z dnia 28 lutego 2003 r. Prawo upadłościowe albo w art. 254 i art. 255 ustawy z dnia 15 maja 2015 r. Prawo restrukturyzacyjne, wynikające z wprowadzenia zlecenia rozrachunku do pierwszego systemu, mają zastosowanie odpowiednio do wynikających z tego rozliczenia zleceń rozrachunku realizowanych w drugim systemie.
+**Art. 6a.** Jeżeli w wyniku rozliczenia zleceń rozrachunku w jednym systemie przeprowadzany jest rozrachunek w drugim systemie, skutki, o których mowa w art. 136 i art. 137 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe albo w art. 254 i art. 255 ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne, wynikające z wprowadzenia zlecenia rozrachunku do pierwszego systemu, mają zastosowanie odpowiednio do wynikających z tego rozliczenia zleceń rozrachunku realizowanych w drugim systemie.
 
 **Art. 7.**
 
-1. W zakresie uregulowanym w ustawie oraz w art. 66, art. 67, art. 80 i art. 135−137 ustawy z dnia 28 lutego 2003 r. Prawo upadłościowe albo w art. 242, art. 244, art. 245, art. 254, art. 255 i art. 309 ustawy z dnia 15 maja 2015 r. Prawo restrukturyzacyjne skutki ogłoszenia upadłości uczestnika systemu powstają z chwilą otrzymania przez NBP powiadomienia o ogłoszeniu upadłości, otwarciu postępowania restrukturyzacyjnego, wydaniu orzeczenia albo decyzji o likwidacji, zawieszeniu lub ograniczeniu prowadzenia działalności uczestnika, lub informacji o podjęciu innych środków prawnych względem uczestnika skutkujących zawieszeniem lub ograniczeniem realizacji zleceń rozrachunku w systemie dotyczącym tego uczestnika.
+1. W zakresie uregulowanym w ustawie oraz w art. 66, art. 67, art. 80 i art. 135−137 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe albo w art. 242, art. 244, art. 245, art. 254, art. 255 i art. 309 ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne skutki ogłoszenia upadłości uczestnika systemu powstają z chwilą otrzymania przez NBP powiadomienia o ogłoszeniu upadłości, otwarciu postępowania restrukturyzacyjnego, wydaniu orzeczenia albo decyzji o likwidacji, zawieszeniu lub ograniczeniu prowadzenia działalności uczestnika, lub informacji o podjęciu innych środków prawnych względem uczestnika skutkujących zawieszeniem lub ograniczeniem realizacji zleceń rozrachunku w systemie dotyczącym tego uczestnika.
 
 2. W przypadku ogłoszenia upadłości albo otwarcia postępowania restrukturyzacyjnego wobec niebędącego uczestnikiem podmiotu prowadzącego system interoperacyjny przepis ust. 1 stosuje się odpowiednio.
 
@@ -134,15 +118,23 @@ o ostateczności rozrachunku w systemach płatności i systemach rozrachunku pap
 
 2. Przepis ust. 1 stosuje się odpowiednio do podmiotów mających siedzibę na terytorium Rzeczypospolitej Polskiej, będących uczestnikami systemów płatności lub systemów rozrachunku papierów wartościowych podlegających prawu innego państwa członkowskiego.
 
+**Art. 14a.**
+
+1. Podmiot prowadzący system płatności określa kryteria i warunki uczestnictwa w tym systemie płatności oraz zasady jego funkcjonowania, z uwzględnieniem potrzeby zapewnienia sprawnego i bezpiecznego funkcjonowania systemu płatności oraz ostateczności rozrachunku zleceń rozrachunku realizowanych w tym systemie płatności.
+
+2. NBP określa kryteria i warunki uczestnictwa w prowadzonych przez siebie systemach płatności oraz zasady funkcjonowania tych systemów płatności, uwzględniając realizację zadań NBP.
+
+3. NBP może żądać od podmiotu ubiegającego się o uczestnictwo w systemie płatności, o którym mowa w ust. 2, lub uczestniczącego w takim systemie płatności przekazania niezbędnych dokumentów, w tym wydanych przez odpowiednie organy, w celu dokonania oceny spełniania przez ten podmiot kryteriów i warunków uczestnictwa w takim systemie płatności.
+
 **Art. 15.**
 
-1. Przepisy art. 4–7 i art. 11–14 ustawy oraz art. 22 ust. 1 pkt 4, art. 66, art. 67, art. 80 i art. 135–137 ustawy z dnia 28 lutego 2003 r. Prawo upadłościowe oraz art. 227 ust. 1 pkt 10, art. 242, art. 244, art. 245, art. 254, art. 255 i art. 309 ustawy z dnia 15 maja 2015 r. Prawo restrukturyzacyjne stosuje się do systemów rozrachunku papierów wartościowych prowadzonych na podstawie ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, do innych systemów rozrachunku papierów wartościowych prowadzonych przez Krajowy Depozyt Papierów Wartościowych S.A. lub przez spółkę, której Krajowy Depozyt Papierów Wartościowych S.A. przekazał wykonywanie czynności z zakresu zadań, o których mowa w art. 48 ust. 1 pkt 6 lub ust. 2 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, oraz do systemów prowadzonych przez NBP.
+1. Przepisy art. 4–7, art. 11–14 i art. 14a ust. 2 i 3 ustawy oraz art. 22 ust. 1 pkt 4, art. 66, art. 67, art. 80 i art. 135–137 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe oraz art. 227 ust. 1 pkt 10, art. 242, art. 244, art. 245, art. 254, art. 255 i art. 309 ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne stosuje się do systemów rozrachunku papierów wartościowych prowadzonych na podstawie ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, do innych systemów rozrachunku papierów wartościowych prowadzonych przez Krajowy Depozyt Papierów Wartościowych S.A. lub przez spółkę, której Krajowy Depozyt Papierów Wartościowych S.A. przekazał wykonywanie czynności z zakresu zadań, o których mowa w art. 48 ust. 1 pkt 6 lub ust. 2 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, oraz do systemów prowadzonych przez NBP.
 
-2. Przepisy art. 4–7 i art. 11–14 ustawy oraz art. 22 ust. 1 pkt 4, art. 66, art. 67, art. 80 i art. 135–137 ustawy z dnia 28 lutego 2003 r. Prawo upadłościowe oraz art. 227 ust. 1 pkt 10, art. 242, art. 244, art. 245, art. 254, art. 255 i art. 309 ustawy z dnia 15 maja 2015 r. Prawo restrukturyzacyjne stosuje się także do systemów innych niż systemy wskazane w ust. 1, wskazanych przez ministra właściwego do spraw instytucji finansowych, w drodze rozporządzenia, wydanego po zasięgnięciu opinii Prezesa NBP oraz KNF.
+2. Przepisy art. 4–7, art. 11–14 i art. 14a ust. 1 ustawy oraz art. 22 ust. 1 pkt 4, art. 66, art. 67, art. 80 i art. 135–137 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe oraz art. 227 ust. 1 pkt 10, art. 242, art. 244, art. 245, art. 254, art. 255 i art. 309 ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne stosuje się także do systemów innych niż systemy wskazane w ust. 1, w których istnieje ryzyko wystąpienia sytuacji, w której niewywiązanie się ze zobowiązań przez uczestnika systemu może spowodować niewywiązanie się ze zobowiązań przez innego jego uczestnika lub uczestników (ryzyko systemowe), określonych w przepisach wydanych na podstawie ust. 3.
 
-3. Minister właściwy do spraw instytucji finansowych wydając rozporządzenie, o którym mowa w ust. 2, wskazuje te systemy, w których istnieje ryzyko wystąpienia sytuacji, w której niewywiązanie się z zobowiązań przez uczestnika systemu może spowodować niewywiązanie się z zobowiązań przez innego jego uczestnika lub uczestników (ryzyko systemowe).
+3. Minister właściwy do spraw instytucji finansowych, po zasięgnięciu opinii Prezesa NBP oraz KNF, określi, w drodze rozporządzenia, systemy inne niż wskazane w ust. 1, w których istnieje ryzyko wystąpienia ryzyka systemowego, uwzględniając konieczność zapewnienia stabilności i bezpieczeństwa systemów płatności.
 
-**Art. 15a.** Przepisy art. 66, art. 67, art. 80 i art. 135–137 ustawy z dnia 28 lutego 2003 r. Prawo upadłościowe oraz przepisy art. 242, art. 244, art. 245, art. 254, art. 255 i art. 309 ustawy z dnia 15 maja 2015 r. Prawo restrukturyzacyjne stosuje się odpowiednio do niebędącego uczestnikiem podmiotu prowadzącego system interoperacyjny.
+**Art. 15a.** Przepisy art. 66, art. 67, art. 80 i art. 135–137 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe oraz przepisy art. 242, art. 244, art. 245, art. 254, art. 255 i art. 309 ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne stosuje się odpowiednio do niebędącego uczestnikiem podmiotu prowadzącego system interoperacyjny.
 
 #### Rozdział 3 Zasady nadzoru
 
@@ -185,7 +177,7 @@ o ostateczności rozrachunku w systemach płatności i systemach rozrachunku pap
 - **1)** rozpoczęciu funkcjonowania systemu, dołączając listę jego uczestników,
 - **2)** zmianie uczestników systemu, w tym zmianie uczestników pośrednich, jeżeli zostali oni uznani za uczestników zgodnie z art. 2a,
 - **3)** zmianie danych dotyczących firmy, siedziby i adresu podmiotu prowadzącego system,
-- **4)** zakończeniu funkcjonowania systemu w terminie 7 dni od dnia wystąpienia takiego zdarzenia.
+- **4)** zakończeniu funkcjonowania systemu – w terminie 7 dni od dnia wystąpienia takiego zdarzenia.
 
 5. Na żądanie Prezesa NBP wnioskodawca przekazuje niezwłocznie, nie później jednak niż w terminie 7 dni od dnia otrzymania żądania, teksty jednolite zmienianych dokumentów określających zasady funkcjonowania systemu.
 
@@ -211,7 +203,9 @@ o ostateczności rozrachunku w systemach płatności i systemach rozrachunku pap
 - **3)** w zasadach funkcjonowania systemu zostały wprowadzone zmiany bez uzyskania zezwolenia, o którym mowa w art. 16 ust. 3;
 - **4)** system nie rozpoczął funkcjonowania w terminie 12 miesięcy od dnia wydania zezwolenia;
 - **5)** system nie funkcjonuje w okresie dłuższym niż 12 kolejnych miesięcy;
-- **6)** podmiot prowadzący system nie wykonał zalecenia, o którym mowa w ust. 6b.
+- **6)** podmiot prowadzący system nie wykonał zalecenia, o którym mowa w ust.
+
+6b.
 
 2a. W przypadkach, o których mowa w ust. 2 pkt 1–3 i 6, Prezes NBP może wydać decyzję o czasowym, częściowym albo całkowitym wstrzymaniu funkcjonowania systemu, jeżeli nie jest uzasadnione cofnięcie zezwolenia ze względu na wagę naruszenia i jego ograniczony wpływ na sprawne i bezpieczne funkcjonowanie systemu.
 
@@ -246,7 +240,7 @@ o ostateczności rozrachunku w systemach płatności i systemach rozrachunku pap
 
 #### Rozdział 4 Przepisy szczegółowe
 
-**Art. 20.** Jeżeli podmiotem prowadzącym system jest spółka handlowa w rozumieniu Kodeksu spółek handlowych, na spółkę przejmującą lub spółkę nowo zawiązaną powstałą w związku z połączeniem lub podziałem nie przechodzi zezwolenie, o którym mowa w art. 16 ust. 1 lub 3.
+**Art. 20.** Jeżeli podmiotem prowadzącym system jest spółka handlowa w rozumieniu Kodeksu spółek handlowych, na spółkę przejmującą lub spółkę nowo zawiązaną – powstałą w związku z połączeniem lub podziałem – nie przechodzi zezwolenie, o którym mowa w art. 16 ust. 1 lub 3.
 
 **Art. 21.** (uchylony)
 

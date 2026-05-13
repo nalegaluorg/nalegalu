@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# 26, 149, 34, 198 86, 504, 1991 31, 128, 41, 179, 73, 321, 105, 452, 106, 457 107, 460, 1993 28, 127, 47, 212 134, 646, 1994 27, 96 127, 627, 1995 60, 310, 85, 426, 90, 446, 141, 700 147, 713, 1996 41, 177 45, 199 1997 9, 44, 23, 117, 43, 272, 54, 348, 60, zmian przepisów przed dniem wydania jednolitego tekstu.
+# o zmianie ustaw o regionalnych izbach obrachunkowych, o samorządzie terytorialnym oraz o finansowaniu gmin
+
+*USTAWA z dnia 20 sierpnia 1997 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,22 +26,28 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971130734) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/734/text.pdf) |
 
-**Art. 9.** Ustawa wchodzi dniem 1 stycznia 1999 r., art. 1 pkt 1-3, 5-10, 22 pkt 33 art. 7 8, które po dni od dnia Prezydent Rzeczypospolitej Polskiej: A. USTAWA dnia 20 sierpnia 1997 o zmianie ustawo regionalnych izbach obrachunkowych, o terytorialnym o finansowaniu gmin.
-
-**Art. 1.** ustawie dnia 7 1992 o re gionalnych izbach obrachunkowych (Dz. U. 85, 428, 1994 76, 344, 1995 124, 601, 1996 58, 262 106, 496 1997 28, 153, 41, 255 106,
+**Art. 1.** W ustawie z dnia 7 października 1992 r. o regionalnych izbach obrachunkowych (Dz.U. Nr 85, poz. 428, z 1994 r. Nr 76, poz. 344, z 1995 r. Nr 124, poz. 601, z 1996 r. Nr 58, poz. 262 i Nr 106, poz. 496 oraz z 1997 r. Nr 28, poz. 153, Nr 41, poz. 255 i Nr 106, poz. 679) wprowadza się następujące zmiany:
 
 **Art. 25b.**
 
-1. wniosków zawartych pokontrolnych roz kolegia izb.
+1. Zastrzeżenia do wniosków zawartych wystąpieniach pokontrolnych rozpatrują kolegia izb.
 
-2. Kolegium lub Przed ciem sprawy przeprowadzenie dodatkowych czyn kontrolnych.
+2. Kolegium może zastrzeżenia oddalić lub uwzględnić. Przed rozstrzygnięciem sprawy kolegium może zarządzić przeprowadzenie dodatkowych czynności kontrolnych.
 
-3. sprawach odwo ,,3a. Nieetatowi otrzy stosowny dzeniem, o którym mowa 6. Do nie etatowych stosuje odpowiednio przepisy art. 25 1-3 ustawy o terytorialnym, tym stosunku pracy izby.",
+3. Uchwały kolegium sprawach odwoławczych zapadają zwykłą większością głosów, na posiedzeniu niejawnym.
 
-- **c)** 4 5;
-- **22)** 27 wyrazy "do 5000000
+4. Rozpatrzenie zastrzeżenia powinno nastąpić terminie 30 dni.";
 
-**Art. 2.** ustawie dnia 8 marca 1990 o dzie terytorialnym (Dz. U. 1996 13, 74, 58, 261, 106, 496 132, 622 1997 9, 43, 106, 679 107,
+- **21)** 26:
+    - **a)** ust. 3 otrzymuje brzmienie: "3. Stosunek pracy z przewodniczącym kolegium, jego zastępcą oraz pozostałymi etatowymi członkami kolegium izby nawiązuje się na podstawie powołania.",
+    - **b)** po ust. 3 dodaje się ust. 3a brzmieniu: "3a. Nieetatowi członkowie kolegium izby otrzymują stosowny ryczałt określony rozporządzeniem, o którym mowa ust. 6. Do nieetatowych członków kolegium izby stosuje się odpowiednio przepisy 25 ust. 1-3 ustawy o samorządzie terytorialnym z tym, że zgodę na rozwiązanie stosunku pracy wyraża kolegium izby.",
+    - **c)** skreśla się ust. 4 i 5;
 
-**Art. 3.** ustawie dnia 10 grudnia 1993 o finan sowaniu gmin (Dz. U. 129, 600, 1994 105, 509, 1995 124, 601 154, 794, 1996 149, 704 156, 77 4 1997 79, 484) 25 2
+- **22)** 27 skreśla się wyrazy "do 5 000 000 złotych".
+
+**Art. 2.** W ustawie z dnia 8 marca 1990 r. o samorządzie terytorialnym (Dz.U. z 1996 r. Nr 13, poz. 74, Nr 58, poz. 261, Nr 106, poz. 496 i Nr 132, poz. 622 oraz z 1997 r. Nr 9, poz. 43, Nr 106, poz. 679 i Nr 107, poz. 686) wprowadza się następujące zmiany:
+
+**Art. 3.** W ustawie z dnia 10 grudnia 1993 r. o finansowaniu gmin (Dz.U. Nr 129, poz. 600, z 1994 r. Nr 105, poz. 509, z 1995 r. Nr 124, poz. 601 i Nr 154, poz. 794, z 1996 r. Nr 149, poz. 704 i Nr 156, poz. 774 oraz z 1997 r. Nr 79, poz. 484) 25 ust. 2 skreśla się.
+
+**Art. 4.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, z tym że 1 ust. 2 pkt 2 oraz 10 ust. 2-4 ustawy, o której mowa 1, wchodzą życie z dniem 1 stycznia 1999 r.
 

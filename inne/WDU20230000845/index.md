@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 4 maja 2023 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy przeciwdziałaniu nieuczciwym praktykom rynkowym
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ dnia 7 kwietnia 2023 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000845) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/845/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ dnia 7 kwietnia 2023 r.
-sprawie ogłoszenia jednolitego tekstu ustawy przeciwdziałaniu nieuczciwym praktykom rynkowym
 1. Na podstawie 16 ust. 1 zdanie pierwsze ustawy dnia 20 lipca 2000 r. ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy dnia 23 sierpnia 2007 r. przeciwdziałaniu nieuczciwym praktykom rynkowym (Dz. U. 2017 r.
 poz. 2070), uwzględnieniem zmian wprowadzonych ustawą dnia 1 grudnia 2022 r. zmianie ustawy prawach konsumenta oraz niektórych innych ustaw (Dz. U. poz. 2581) oraz zmian wynikających przepisów ogłoszonych przed dniem 6 kwietnia 2023 r.
 Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje 9 i 11 ustawy dnia 1 grudnia 2022 r. zmianie ustawy prawach konsumenta oraz niektórych innych ustaw (Dz. U. poz. 2581), które stanowią: „Art. 9. Do postępowań dotyczących roszczeń, których 12 ust. 1 ustawy zmienianej 5, wszczętych i niezakończonych przed dniem wejścia życie niniejszej ustawy stosuje się przepis 12 ust. 1 ustawy zmienianej brzmieniu nadanym niniejszą ustawą.” „Art. 11. Ustawa wchodzi życie dniem 1 stycznia 2023 r.”.
@@ -89,7 +89,7 @@ Art. 18–20. (pominięte)
 
 5. Przy ocenie, czy praktyka rynkowa wprowadza błąd zaniechanie, należy uwzględnić wszystkie jej elementy oraz okoliczności wprowadzenia produktu na rynek, tym sposób jego prezentacji.
 
-6. W przypadku gdy ze specyfiki środka komunikowania się konsumentami stosowanego dla danej praktyki rynkowej wynikają ograniczenia przestrzenne lub czasowe, ograniczenia te i wszystkie środki podjęte przedsiębiorcę celu udostępnienia informacji konsumentom inny sposób uwzględnia się przy ocenie, czy doszło do pominięcia informacji. dliwości i przejrzystości dla użytkowników biznesowych korzystających usług pośrednictwa internetowego (Dz. Urz. UE L 186 11.07.2019, str. 57).
+6. W przypadku gdy ze specyfiki środka komunikowania się konsumentami stosowanego dla danej praktyki rynkowej wynikają ograniczenia przestrzenne lub czasowe, ograniczenia te i wszystkie środki podjęte przedsiębiorcę celu udostępnienia informacji konsumentom inny sposób uwzględnia się przy ocenie, czy doszło do pominięcia informacji. UE L 186 11.07.2019, str. 57).
 
 **Art. 7.** Nieuczciwymi praktykami rynkowymi każdych okolicznościach są następujące praktyki rynkowe wprowadzające błąd:
 

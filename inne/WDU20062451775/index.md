@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# Ń6) umyślnie powoduje opuszczenie przez suŃ4) będąc pierwszym przetwórcą, zbywa suro- rowiec tytoniowy punktu odbioru surowca wiec tytoniowy lub surowiec tytoniowy po tytoniowego lub przyjmuje ten surowiec pierwszym przetworzeniu niezgodnie z wa- wcelu innym niż określony wart. 30 7”.
+# o zmianie ustawy o postępowaniu w sprawach dotyczących pomocy publicznej i niektórych innych ustaw
+
+*USTAWA z dnia 7 grudnia 2006 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,44 +26,56 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062451775) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/1775/text.pdf) |
 
-runkami określonymi art. 29 1 lub 2,”, Art. 2.Pierwsi przetwórcy dostosują swoją działalność do wymagań określonych wart. 29 3 ustawy,
-b) po pkt 4 dodaje się pkt 4a brzmieniu: októrej mowa wart. 1, wterminie 30 dni od dnia wejŃ4a) będąc pierwszym przetwórcą, przechowuje ścia życie niniejszej ustawy.
-surowiec tytoniowy lub surowiec tytonio- Art. 3. Ustawa wchodzi życie po upływie 14 dni wy po pierwszym przetworzeniu niezgod- od dnia ogłoszenia.
-nie z warunkami określonymi art.29 3,”, Prezydent Rzeczypospolitej Polskiej: L. Kaczyński
-USTAWA z dnia 7 grudnia 2006 r.
-o zmianie ustawy o postępowaniu sprawach dotyczących publicznej i niektórych innych ustaw
+**Art. 1.** W ustawie z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. Nr 123, poz. 1291 oraz z 2006 r. Nr 191, poz. 1411) wprowadza się następujące zmiany:
 
-**Art. 1.** W ustawie z dnia 30 kwietnia 2004 r. o po- rotem produktami rybołówstwa (Dz. Urz. stępowaniu wsprawach dotyczących publicz- UE L 291 z 14.09.2004, str. 3), nej (Dz. U. 123, poz. 1291 oraz z 2006 r. 191, e) rozporządzeniem Komisji (WE) nr 1/2004 poz. 1411) wprowadza się następujące zmiany: z dnia 23 grudnia 2003 r. sprawie stoso1) art. 1 pkt 2 otrzymuje brzmienie: wania art. 87 i88 Traktatu WE wodniesieniu do państwa dla małych i średnich Ń2) zasady współpracy Prezesa Urzędu Ochrony przedsiębiorstw prowadzących działalność Konkurencji i Konsumentów, zwanego dalej związaną z produkcją, przetwórstwem i obŃPrezesem Urzędu”, oraz ministra właściwego rotem produktami rolnymi (Dz. Urz. UE L 1 do spraw rolnictwa zpodmiotami opracowują- z3.01.2004, str. 1; Dz. Urz. UE Polskie wydacymi programy pomocowe, podmiotami nie specjalne, rozdz. 8, t. 3, str. 24);”, udzielającymi pomocy, podmiotami ubiegającymi się o pomoc oraz beneficjentami pomo- b) po pkt 4 dodaje się pkt 4a brzmieniu: cy, zakresie publicznej;”; Ń4a) rozporządzeniu o de minimis wrolnictwie irybołówstwie należy przez
+**Art. 9.** Notyfikacji podlega również zmiana, o której mowa w art. 4 ust. 1 rozporządzenia Komisji (WE) nr 794/2004 z dnia 21 kwietnia 2004 r. w sprawie wykonania rozporządzenia Rady (WE) nr 659/1999 ustanawiającego szczegółowe zasady stosowania art. 93 Traktatu WE (Dz.Urz. UE L 140 z 30.4.2004, str. 1; Dz.Urz. UE Polskie wydanie specjalne, rozdz. 8, t. 4, str. 3), zatwierdzonego przez Komisję, zgodnie z art. 88 Traktatu WE, programu pomocowego, pocję.”;
 
-**Art. 2.** W ustawie z dnia 15 listopada 1984 r. o podatku rolnym (Dz. U. z2006 r. 136, poz. 969 i 191, poz. 1412) art. 13e otrzymuje brzmienie: ŃArt. 13e. Rada gminy, drodze uchwały, może wprowadzić inne zwolnienia i ulgi przedmiotowe niż określone ustawie, z uwzględnieniem przepisów dotyczących publicznej.”.
+**Art. 2.** W ustawie z dnia 15 listopada 1984 r. o podatku rolnym (Dz. U. z 2006 r. Nr 136, poz. 969 i Nr 191, poz. 1412) art. 13e otrzymuje brzmienie: „Art. 13e. Rada gminy, w drodze uchwały, może wprowadzić inne zwolnienia i ulgi przedmiotowe niż określone w ustawie, z uwzględnieniem przepisów dotyczących pomocy publicznej.”.
 
-**Art. 3.** W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z 2006 r. 121, poz. 844, 220, poz. 1601 i 225, poz. 1635) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z 2006 r. Nr 121, poz. 844, Nr 220, poz. 1601 i Nr 225, poz. 1635) wprowadza się następujące zmiany:
 
-**Art. 4.** W ustawie z dnia 28 września 1991 r. o lasach (Dz. U. z 2005 r. 45, poz. 435, z póên. zm. ) art. 14 5 otrzymuje brzmienie: Ń5. Właściciele lub użytkownicy wieczyści gruntów mogą otrzymać dotacje z budżetu państwa przeznaczone na całkowite lub częściowe pokrycie kosztów zalesienia gruntów, o których mowa 3. Decyzję sprawie przyznania środków na pokrycie tych kosztów wydaje starosta na wniosek właściciela lub użytkownika wieczystego, po zaopiniowaniu przez wójta (burmistrza, prezydenta miasta), zuwzględnieniem przepisów dotyczących publicznej.”.
+**Art. 20c.** W przypadkach, o których mowa w art. 5 ust. 2-4, art. 10 ust. 2 oraz w art. 19 pkt 1, jeżeli uchwała rady gminy przewiduje udzielanie pomocy publicznej, pomoc ta jest udzielana jako pomoc de minimis.
 
-**Art. 5.** W ustawie z dnia 29 sierpnia 1997 r. Prawo bankowe (Dz. U. z 2002 r. 72, poz. 665, z póên. zm. ) art. 105 1 pkt 2 lit. p kropkę zastępuje się przecinkiem i dodaje się lit. r brzmieniu: Ńr) Prezesa Urzędu Ochrony Konkurencji i KonsuArt. 6. W ustawie z dnia 30 paêdziernika 2002 r. o podatku leśnym (Dz. U. 200, poz. 1682, z póên. zm. mentów zakresie określonym ustawą z dnia 30 kwietnia 2004 r. o postępowaniu sprawach dotyczących publicznej (Dz. U. 123, ) art. 7 3 otrzymuje brzmienie: Ń3. Rada gminy, drodze uchwały, może wprowadzić inne zwolnienia przedmiotowe niż określone 1, z uwzględnieniem przepisów dotyczących publicznej.”.
+**Art. 20d.**
 
-**Art. 7.** Wustawie zdnia 22 września 2006 r. oprzejrzystości stosunków finansowych pomiędzy organami publicznymi a przedsiębiorcami publicznymi oraz o przejrzystości finansowej niektórych przedsiębiorców (Dz. U. 191, poz. 1411) wart. 21 pkt 3 otrzymuje brzmienie: Ń3) art. 44 1 otrzymuje brzmienie: Ń1. Za niewykonanie lub nienależyte wykonanie obowiązków, o których mowa art. 21 2 i art. 39, oraz za utrudnianie przeprowadzenia kontroli u beneficjenta pomocy, Prezes Urzędu, a zakresie publicznej rolnictwie lub rybołówstwie minister właściwy do spraw rolnictwa, może, drodze decyzji, nałożyć na beneficjenta karę pieniężną do wysokości równowartości 10 000 euro.”.”.
+1. Rada Ministrów określi, w drodze rozporządzeń, warunki udzielania zwolnień, o których mowa w art. 7 ust. 3, art. 12 ust. 4 oraz w art. 19 pkt 3, stanowiących pomoc publiczną, mając na uwadze zapewnienie zgodności udzielania pomocy z warunkami dopuszczalności tej pomocy określonymi w przepisach Unii Europejskiej.
+
+2. Projekt uchwały rady gminy przewidujący udzielanie pomocy publicznej, który nie uwzględnia warunków określonych w rozporządzeniach wydanych na podstawie ust. 1, podlega notyfikacji Komisji Europejskiej, chyba że projekt ten przewiduje:
+
+- **1)** udzielanie pomocy w ramach wyłączeń grupowych,
+- **2)** udzielanie pomocy de minimis.”.
+
+**Art. 4.** W ustawie z dnia 28 września 1991 r. o lasach (Dz. U. z 2005 r. Nr 45, poz. 435, z późn. zm. ) w art. 14 ust. 5 otrzymuje brzmienie: „5. Właściciele lub użytkownicy wieczyści gruntów mogą otrzymać dotacje z budżetu państwa przeznaczone na całkowite lub częściowe pokrycie kosztów zalesienia gruntów, o których mowa w ust. 3. Decyzję w sprawie przyznania środków na pokrycie tych kosztów wydaje starosta na wniosek właściciela lub użytkownika wieczystego, po zaopiniowaniu przez wójta (burmistrza, prezydenta miasta), z uwzględnieniem przepisów dotyczących pomocy publicznej.”.
+
+**Art. 5.** W ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2002 r. Nr 72, poz. 665, z późn. zm. ) w art. 105 w ust. 1 w pkt 2 w lit. p kropkę zastępuje się przecinkiem i dodaje się lit. r w brzmieniu: „r) Prezesa Urzędu Ochrony Konkurencji i Konsumentów w zakresie określonym ustawą z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. Nr 123, poz. 1291 oraz z 2006 r. Nr 191, poz. 1411 i Nr 245, poz. 1775),”.
+
+**Art. 6.** W ustawie z dnia 30 października 2002 r. o podatku leśnym (Dz. U. Nr 200, poz. 1682, z późn. zm. ) w art. 7 ust. 3 otrzymuje brzmienie: „3. Rada gminy, w drodze uchwały, może wprowadzić inne zwolnienia przedmiotowe niż określone w ust. 1, z uwzględnieniem przepisów dotyczących pomocy publicznej.”.
+
+**Art. 7.** W ustawie z dnia 22 września 2006 r. o przejrzystości stosunków finansowych pomiędzy organami publicznymi a przedsiębiorcami publicznymi oraz o przejrzystości finansowej niektórych przedsiębiorców (Dz. U. Nr 191, poz. 1411) w art. 21 pkt 3 otrzymuje brzmienie: „3) w art. 44 ust. 1 otrzymuje brzmienie: „1. Za niewykonanie lub nienależyte wykonanie obowiązków, o których mowa w art. 21 ust. 2 i art. 39, oraz za utrudnianie przeprowadzenia kontroli u beneficjenta pomocy, Prezes Urzędu, a w zakresie pomocy publicznej w rolnictwie lub rybołówstwie – minister właściwy do spraw rolnictwa, może, w drodze decyzji, nałożyć na beneficjenta karę pieniężną do wysokości równowartości 10 000 euro.””.
 
 **Art. 8.**
 
-1. Podmiot ubiegający się opomoc de minimis wrolnictwie lub rybołówstwie jest obowiązany do przedstawienia podmiotowi udzielającemu oświadczenia, że okresie od dnia 1 stycznia 2005 r. do dnia wejścia życie niniejszej ustawy:
+1. Podmiot ubiegający się o pomoc de minimis w rolnictwie lub rybołówstwie jest obowiązany do przedstawienia podmiotowi udzielającemu pomocy oświadczenia, że w okresie od dnia 1 stycznia 2005 r. do dnia wejścia w życie niniejszej ustawy:
 
-- **1)** nie otrzymał de minimis rolnictwie lub rybołówstwie albo
-- **2)** otrzymał pomoc de minimis wrolnictwie lub rybołówstwie, ze wskazaniem szczególności podmiotu, który udzielił pomocy, dnia otrzymania pomocy, podstawy prawnej, wysokości, formy iprzeznaczenia tej pomocy.
+- **1)** nie otrzymał pomocy de minimis w rolnictwie lub rybołówstwie albo w szczególności podmiotu, który udzielił pomocy, dnia otrzymania pomocy, podstawy prawnej, wysokości, formy i przeznaczenia tej pomocy.
 
-2. Obowiązek, októrym mowa wust. 1, wygasa po upływie 3 lat od dnia wejścia życie niniejszej ustawy.
+2. Obowiązek, o którym mowa w ust. 1, wygasa po upływie 3 lat od dnia wejścia w życie niniejszej ustawy.
 
 **Art. 9.**
 
-1. Podmiot udzielający de minimis rolnictwie lub rybołówstwie jest obowiązany do przekazania ministrowi właściwemu do spraw rolnictwa, terminie miesiąca od dnia wejścia życie niniejszej ustawy, informacji oudzielonej przez ten podmiot de minimis rolnictwie lub rybołówstwie wokresie od dnia 1 stycznia 2005 r. do dnia wejścia wżycie niniejszej ustawy, ze wskazaniem wszczególności dnia udzielenia pomocy, podstawy prawnej, wysokości, formy i przeznaczenia tej pomocy.
+1. Podmiot udzielający pomocy de minimis w rolnictwie lub rybołówstwie jest obowiązany do przekazania ministrowi właściwemu do spraw rolnictwa, w terminie miesiąca od dnia wejścia w życie niniejszej ustawy, informacji o udzielonej przez ten podmiot pomocy de minimis w rolnictwie lub rybołówstwie w okresie od dnia 1 stycznia 2005 r. do dnia wejścia w życie niniejszej ustawy, ze wskazaniem w szczególności dnia udzielenia pomocy, podstawy prawnej, wysokości, formy i przeznaczenia tej pomocy.
 
-2. Informacja, o której mowa 1, jest przekazywana za pośrednictwem organu nadzorującego mu do spraw rolnictwa. nionej art. 1 zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych na podstawie
+2. Informacja, o której mowa w ust. 1, jest przekazywana za pośrednictwem organu nadzorującego podmiot udzielający pomocy, a w przypadku braku takiego organu – bezpośrednio ministrowi właściwemu do spraw rolnictwa.
 
 **Art. 10.**
 
-1. W przypadku programu pomocowego, art. 5 4, art. 35 iart. 37 6 tej ustawy, wbrzmiektórym akt prawa miejscowego wydany na podsta- niu nadanym niniejszą ustawą. wie ustawy, októrej mowa wart. 3, przewiduje udzielanie publicznej zgodnie zwarunkami udziela- Art. 12. Marszałek Sejmu ogłosi tekst jednolity nia określonymi rozporządzeniu wydanym ustawy, októrej mowa wart. 1, wterminie 3 miesięcy na podstawie art. 70 3 ustawy, o której mowa od dnia wejścia życie niniejszej ustawy. art. 1, notyfikacji podlega wyłącznie projekt tego rozporządzenia. Art. 13. Ustawa wchodzi wżycie po upływie 14 dni od dnia ogłoszenia.
+1. W przypadku programu pomocowego, w którym akt prawa miejscowego wydany na podstawie ustawy, o której mowa w art. 3, przewiduje udzielanie pomocy publicznej zgodnie z warunkami udzielania pomocy określonymi w rozporządzeniu wydanym na podstawie art. 70 ust. 3 ustawy, o której mowa w art. 1, notyfikacji podlega wyłącznie projekt tego rozporządzenia.
 
-2. Przepisy art. 8 2 i art. 33a ustawy, o której mowa art. 1, brzmieniu nadanym niniejszą ustawą, stosuje się odpowiednio. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński 1776 ROZPORZÑDZENIE PREZYDENTA RZECZYPOSPOLITEJ POLSKIEJ z dnia 18 grudnia 2006 r. zmieniające rozporządzenie sprawie ustalenia liczby stanowisk sędziowskich Naczelnym Sądzie Administracyjnym oraz liczby wiceprezesów Na podstawie art. 33 ustawy zdnia 25 lipca 2002 r. Ń§ 1. Liczbę stanowisk sędziowskich Naczelnym Prawo o ustroju sądów administracyjnych (Dz. U. Sądzie Administracyjnym ustala się na 85, 153, poz. 1269 oraz z 2005 r. 169, poz. 1417) za- tym 4 stanowiska wiceprezesów.”. rządza się, co następuje: § 2. Rozporządzenie wchodzi wżycie zdniem ogło§ 1. W rozporządzeniu Prezydenta Rzeczypospoli- szenia. tej Polskiej z dnia 18 lutego 2004 r. sprawie ustalenia liczby stanowisk sędziowskich Naczelnym Są- Prezydent Rzeczypospolitej Polskiej: dzie Administracyjnym oraz liczby wiceprezesów L. Kaczyński (Dz. U. 26, poz. 228 i 187, poz. 1928) § 1 otrzy- Prezes Rady Ministrów: muje brzmienie: J. Kaczyński 1777 ROZPORZÑDZENIE PREZYDENTA RZECZYPOSPOLITEJ POLSKIEJ z dnia 22 grudnia 2006 r. zmieniające rozporządzenie sprawie szczegółowych zasad wynagradzania osób zajmujących kierownicze stanowiska państwowe Na podstawie art. 3 3 ustawy z dnia 31 lipca 1981 r. o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe (Dz. U. 20, poz. 101, z póên. zm. ) zarządza się, co następuje: ———————
+2. Przepis art. 8 ust. 2 i art. 33a ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się odpowiednio.
 
+**Art. 11.** Przepisy wykonawcze wydane na podstawie art. 5 ust. 3, art. 35 i art. 37 ust. 4 ustawy wymienionej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 5 ust. 4, art. 35 i art. 37 ust. 6 tej ustawy, w brzmieniu nadanym niniejszą ustawą.
+
+**Art. 12.** Marszałek ogłosi tekst jednolity ustawy, o której mowa w art. 1, w terminie 3 miesięcy od dnia wejścia w życie niniejszej ustawy.
+
+**Art. 13.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 28 stycznia 2025 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy o stanie klęski żywiołowej
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 15 stycznia 2025 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2025-01-29 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000112) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/112/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 15 stycznia 2025 r.
-sprawie ogłoszenia jednolitego tekstu ustawy o stanie klęski żywiołowej
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 18 kwietnia 2002 r. o stanie klęski żywiołowej (Dz. U. z 2017 r. poz. 1897), z uwzględnieniem zmian wprowadzonych ustawą z dnia 21 listopada 2024 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (Dz. U. poz. 1717) oraz zmian wynikających z przepisów ogłoszonych przed dniem 13 stycznia 2025 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 46 ustawy z dnia 21 listopada 2024 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (Dz. U. poz. 1717), który stanowi: „Art. 46. Ustawa wchodzi życie z dniem następującym po dniu ogłoszenia, z wyjątkiem art. 19 pkt 7 zakresie art. 43a, który wchodzi życie z dniem ogłoszenia, z mocą od dnia 9 września 2024 r.”.
 Marszałek Sejmu: S. Hołownia
@@ -239,7 +239,7 @@ Art. 29–33. (pominięte)
 
 5. Wojewoda może uchylić całości lub części zarządzenie lub decyzję wójta (burmistrza, prezydenta miasta), starosty albo pełnomocników, o których mowa art. 9 ust. 5 i art. 10 ust. 5.
 
-6. Minister właściwy do spraw administracji publicznej może uchylić całości lub części rozporządzenie lub decyzję wojewody albo pełnomocnika, o którym mowa art. 11 ust. 4. ratowniczych mogą być wprowadzone ograniczenia transporcie drogowym, kolejowym i lotniczym oraz ruchu jednostek pływających na śródlądowych drogach wodnych, morskich wodach wewnętrznych i morzu terytorialnym.
+6. Minister właściwy do spraw administracji publicznej może uchylić całości lub części rozporządzenie lub decyzję wojewody albo pełnomocnika, o którym mowa art. 11 ust. 4. stek pływających na śródlądowych drogach wodnych, morskich wodach wewnętrznych i morzu terytorialnym.
 
 2. Minister właściwy do spraw transportu zakresie transportu drogowego, kolejowego i lotniczego, minister właściwy do spraw żeglugi śródlądowej zakresie ruchu jednostek pływających na śródlądowych drogach wodnych, a minister właściwy do spraw gospodarki morskiej zakresie ruchu na morskich wodach wewnętrznych i morzu terytorialnym, porozumieniu z ministrem właściwym do spraw administracji publicznej, ministrem właściwym do spraw wewnętrznych i Ministrem Obrony Narodowej, drodze rozporządzenia, może wprowadzić ograniczenia, o których mowa ust. 1, oraz określić zakres tych ograniczeń z uwzględnieniem konieczności zapewnienia warunków pozwalających na sprawne zapobieganie lub zwalczanie skutków klęski żywiołowej przy jednoczesnym zminimalizowaniu uciążliwości wynikłych dla innych użytkowników z wprowadzonych ograniczeń.
 
@@ -269,7 +269,7 @@ Art. 29–33. (pominięte)
 - **8)** wbrew obowiązkowi określonemu art. 21 ust. 1 pkt 8 nie stosuje określonych środków zapewniających ochronę środowiska,
 - **9)** wbrew obowiązkowi określonemu art. 21 ust. 1 pkt 9 nie stosuje środków lub zabiegów niezbędnych do zwalczania chorób zakaźnych zwierząt,
 - **10)** wbrew obowiązkowi określonemu art. 21 ust. 1 pkt 10 nie opróżnia lub nie zabezpiecza lokalu mieszkalnego lub innych pomieszczeń,
-- **11)** wbrew obowiązkowi określonemu art. 21 ust. 1 pkt 11 nie dokonuje przymusowych rozbiórek i wyburzeń budynków lub innych obiektów budowlanych albo ich części, z określonych miejsc, obszarów lub obiektów,
+- **11)** wbrew obowiązkowi określonemu art. 21 ust. 1 pkt 11 nie dokonuje przymusowych rozbiórek i wyburzeń budynków lub innych obiektów budowlanych albo ich części,
 - **13)** wbrew obowiązkowi określonemu art. 21 ust. 1 pkt 13 nie stosuje się do nakazu albo zakazu przebywania określonych miejscach i obiektach oraz na określonych obszarach,
 - **14)** wbrew zakazowi określonemu art. 21 ust. 1 pkt 14 i 17 narusza wprowadzone ograniczenia organizując lub przeprowadzając imprezę masową albo strajk,
 - **15)** wbrew obowiązkowi określonemu art. 21 ust. 1 pkt 15 nie stosuje się do nakazu albo zakazu określonego sposobu przemieszczania się,

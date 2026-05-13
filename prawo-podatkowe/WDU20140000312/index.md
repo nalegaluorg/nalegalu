@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 13 marca 2014
+# Ustawa z dnia 7 lutego 2014 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw
+
+*USTAWA dnia 7 lutego 2014 zmianie ustawy podatku od towarów usług oraz niektórych innych ustaw*
 
 | Pole | Wartość |
 |---|---|
@@ -24,19 +26,15 @@ domain: null
 | Ostatnia zmiana | 2024-04-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000312) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/312/text.pdf) |
 
-USTAWA dnia 7 lutego 2014 zmianie ustawy podatku od towarów usług oraz niektórych innych ustaw
-
 **Art. 1.** W ustawie dnia 11 marca 2004 podatku od towarów usług (Dz. U. 2011 Nr 177, 1054, późn. zm. ) wprowadza się następujące zmiany:
-
-**Art. 2.** W ustawie dnia 26 lipca 1991 podatku dochodowym od osób fizycznych (Dz. U. 361, późn. zm. ) wprowadza się następujące zmiany:
 
 **Art. 3.** W ustawie dnia 15 lutego 1992 podatku dochodowym od osób prawnych (Dz. U. 2011 Nr 74, 397, późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 4.** W ustawie dnia 20 czerwca 1997 Prawo ruchu drogowym (Dz. U. 1137, późn. zm. ) wprowadza się następujące zmiany:
+**Art. 4.** W ustawie dnia 20 czerwca 1997 – Prawo ruchu drogowym (Dz. U. 2012 1137, późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 5.** W ustawie dnia 10 września 1999 Kodeks karny skarbowy (Dz. U. 2013 186, późn. zm. ) po art. 56 dodaje się art. 56a brzmieniu: „Art. 56a. § 1. Podatnik, który wbrew obowiązkowi nie składa właściwemu organowi podatkowemu informacji, której mowa art. 86a ust. 12 ustawy dnia 11 marca 2004 podatku od towarów usług, albo składa ją po terminie lub podaje niej dane niezgodne ze stanem rzeczywistym, dokonując odliczenia podatku niezgodnie przepisami podatku od towarów usług, podlega karze grzywny do 720 stawek dziennych.
+**Art. 5.** W ustawie dnia 10 września 1999 – Kodeks karny skarbowy (Dz. U. 2013 186, późn. zm. ) po art. 56 dodaje się art. 56a brzmieniu: „Art. 56a. § 1. Podatnik, który wbrew obowiązkowi nie składa właściwemu organowi podatkowemu informacji, której mowa art. 86a ust. 12 ustawy dnia 11 marca 2004 podatku od towarów usług, albo składa ją po terminie lub podaje niej dane niezgodne ze stanem rzeczywistym, dokonując odliczenia podatku niezgodnie przepisami podatku od towarów usług, podlega karze grzywny do 720 stawek dziennych.
 
-**Art. 6.** W ustawie dnia 16 listopada 2006 opłacie skarbowej (Dz. U. 1282, późn. zm. ) załączniku części II uchyla się ust. 11.
+**Art. 6.** W ustawie dnia 16 listopada 2006 opłacie skarbowej (Dz. U. 2012 1282, późn. zm. ) załączniku części II uchyla się ust. 11.
 
 **Art. 7.**
 
@@ -48,8 +46,7 @@ USTAWA dnia 7 lutego 2014 zmianie ustawy podatku od towarów usług oraz niektó
     - **b)** dostawy towarów, dla której zgodnie art. 17 ust. 1 pkt 5 ustawy zmienianej art. 1 podatnikiem jest ich nabywca,
     - **c)** wewnątrzwspólnotowego nabycia towarów,
 
-- **3)** należnego, przypadku, którym mowa art. 33a ustawy zmienianej art. 1,
-- **4)** wynikającej otrzymanego dokumentu celnego, deklaracji importowej przypadku, którym mowa art. 33b ustawy zmienianej art. 1, oraz decyzji, których mowa art. 33 ust. 2 3 oraz art. 34 tej ustawy nie więcej jednak niż odpowiednio 5000 zł lub 6000 zł, nie stosuje się przepisu art. 8 ust. 2 pkt 1 ustawy zmienianej art. 1.
+- **4)** wynikającej otrzymanego dokumentu celnego, deklaracji importowej przypadku, którym mowa art. 33b ustawy zmienianej art. 1, oraz decyzji, których mowa art. 33 ust. 2 3 oraz art. 34 tej ustawy – nie więcej jednak niż odpowiednio 5000 zł lub 6000 zł, nie stosuje się przepisu art. 8 ust. 2 pkt 1 ustawy zmienianej art. 1.
 
 2. Na potrzeby ust. 1 przepis art. 8 ust. 6 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, stosuje się odpowiednio.
 
@@ -69,7 +66,7 @@ USTAWA dnia 7 lutego 2014 zmianie ustawy podatku od towarów usług oraz niektó
 
 1. Przepisy art. 90b ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, stosuje się do pojazdów samochodowych nabytych, importowanych lub wytworzonych przez podatnika od dnia wejścia życie niniejszej ustawy, zastrzeżeniem ust. 2.
 
-2. Przepisy art. 90b ust. 1 pkt 2 oraz ust. 6 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, stosuje
+2. Przepisy art. 90b ust. 1 pkt 2 oraz ust. 6 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, stosuje się również odpowiednio do sprzedaży pojazdów samochodowych, których mowa art. 7.
 
 **Art. 12.**
 
@@ -77,11 +74,8 @@ USTAWA dnia 7 lutego 2014 zmianie ustawy podatku od towarów usług oraz niektó
 
 - **1)** samochodów osobowych;
 - **2)** innych niż samochody osobowe pojazdów samochodowych dopuszczalnej masie całkowitej nieprzekraczającej 3,5 tony, których liczba miejsc (siedzeń) łącznie miejscem dla kierowcy wynosi:
-    - **a)** 1 jeżeli dopuszczalna ładowność jest mniejsza niż 425 kg,
-    - **b)** 2 jeżeli dopuszczalna ładowność jest mniejsza niż 493 kg,
-    - **c)** 3 lub więcej jeżeli dopuszczalna ładowność jest mniejsza niż 500 kg.
-
-2. Przepis ust. 1 nie dotyczy pojazdów samochodowych, które są wykorzystywane przez podatnika wyłącznie do działalności gospodarczej.
+    - **a)** 1 – jeżeli dopuszczalna ładowność jest mniejsza niż 425 kg,
+    - **b)** 2 – jeżeli dopuszczalna ładowność jest mniejsza niż 493 kg, łalności gospodarczej.
 
 3. Dopuszczalna ładowność pojazdu oraz liczba miejsc (siedzeń), których mowa ust. 1 pkt 2, są określane na podstawie dokumentów wydanych zgodnie przepisami ruchu drogowym. Pojazdy, które dokumentach, których mowa zdaniu pierwszym, nie mają określonej dopuszczalnej ładowności lub liczby miejsc, uznaje się również za samochody osobowe, których mowa ust. 1 pkt 1.
 
@@ -109,5 +103,5 @@ USTAWA dnia 7 lutego 2014 zmianie ustawy podatku od towarów usług oraz niektó
 
 **Art. 16.** Przepis art. 7 stosuje się do rozliczeń za okresy rozliczeniowe rozpoczynające się od dnia 1 stycznia 2014
 
-**Art. 17.** Ustawa wchodzi życie dniem 1 kwietnia 2014 r., wyjątkiem art. 1 pkt 7 8, art. 4 art. 6, które wchodzą życie dniem 1 stycznia 2015
+**Art. 17.** Ustawa wchodzi życie dniem 1 kwietnia 2014 r., wyjątkiem art. 1 pkt 7 8, art. 4 art. 6, które wchodzą życie dniem 1 stycznia 2015 Prezydent Rzeczypospolitej Polskiej: B. Komorowski
 

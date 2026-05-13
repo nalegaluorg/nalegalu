@@ -23,7 +23,7 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 1996-05-09 |
 | Data wydania | 1996-06-29 |
-| Ostatnia zmiana | 2026-04-21 |
+| Ostatnia zmiana | 2026-05-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19960730350) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1996/350/text.pdf) |
 
 Art. 48–55. (pominięte)

@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 listopada 2017 r.
+# o zmianie niektórych ustaw celu poprawy otoczenia prawnego działalności innowacyjnej
+
+*USTAWA z dnia 9 listopada 2017 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,30 +26,25 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002201) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2201/text.pdf) |
 
-USTAWA z dnia 9 listopada 2017 r.
-o zmianie niektórych ustaw celu poprawy otoczenia prawnego działalno ś ci innowacyjnej
-
 **Art. 1.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2016 r. poz. 2032, z późn. zm. ) wprowadza się następujące zmiany:
 
 **Art. 2.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2016 r. poz. 1888, z późn. zm. ) wprowadza się następujące zmiany:
 
 **Art. 3.** W ustawie z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2016 r. poz. 1047 i 2255 oraz z 2017 r. poz. 61, 245, 791 i 1089) załączniku nr 1 części „Dodatkowe informacje i objaśnienia” ust. 2 pkt 10 kropkę zastępuje się średnikiem i dodaje się pkt 11 brzmieniu: „11) informacje o kosztach związanych z pracami badawczymi i pracami rozwojowymi, które nie zostały zakwalifikowane zgodnie z art. 33 ust. 2 do wartości niematerialnych i prawnych.”.
 
-**Art. 4.** W ustawie z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz. U. z 2016 r. poz. 359 i 2260 oraz z 2017 r. poz. 1089 i 1475) wprowadza się następujące zmiany:
-
 **Art. 5.** W ustawie z dnia 21 grudnia 2000 r. o dozorze technicznym (Dz. U. z 2017 r. poz. 1040 i 1555) wprowadza się następujące zmiany:
 
 **Art. 6.** W ustawie z dnia 11 kwietnia 2001 r. o rzecznikach patentowych (Dz. U. z 2017 r. poz. 1314) wprowadza się następujące zmiany:
 
-**Art. 7.** W ustawie z dnia 16 lipca 2004 r. Prawo telekomunikacyjne (Dz. U. z 2017 r. poz. 1907) wprowadza się następujące zmiany:
-
-**Art. 8.** W ustawie z dnia 27 lipca 2005 r. Prawo o szkolnictwie wyższym (Dz. U. z 2017 r. poz. 2183) wprowadza się następujące zmiany:
+**Art. 7.** W ustawie z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2017 r. poz. 1907) wprowadza się następujące zmiany:
 
 **Art. 9.** W ustawie z dnia 30 maja 2008 r. o niektórych formach wspierania działalności innowacyjnej (Dz. U. z 2015 r. poz. 1710, z 2016 r. poz. 1206 oraz z 2017 r. poz. 1089) wprowadza się następujące zmiany:
 
 **Art. 21a.** Minister właściwy do spraw gospodarki ustanawia programy obszarze innowacyjności gospodarki realizujące politykę innowacyjną państwa, dotyczące szczególności:
 
 **Art. 21b.** Minister właściwy do spraw gospodarki udziela pomocy finansowej, ramach programów ustanowionych zgodnie z art. 21a, z przeznaczeniem na:
+
+**Art. 21c.** Pomoc finansowa, o której mowa art. 21b, jest udzielana:
 
 **Art. 21d.**
 
@@ -57,7 +54,6 @@ o zmianie niektórych ustaw celu poprawy otoczenia prawnego działalno ś ci inn
 - **2)** podmiotowi określonemu art. 21c pkt 2–5, niebędącemu osobą fizyczną, jeżeli członek jego organów zarządzających bądź wspólnik spółki osobowej został skazany prawomocnym wyrokiem za przestępstwa, o których mowa pkt 1;
 - **3)** podmiotowi określonemu art. 21c pkt 2–5, który:
     - **a)** posiada zaległości z tytułu należności publicznoprawnych lub
-    - **b)** pozostaje pod zarządem komisarycznym bądź znajduje się toku likwidacji albo postępowania upadłościowego;
 
 - **4)** podmiotowi zbiorowemu, wobec którego sąd orzekł zakaz korzystania z dotacji, subwencji lub innych form wsparcia finansowego środkami publicznymi.
 
@@ -81,9 +77,13 @@ o zmianie niektórych ustaw celu poprawy otoczenia prawnego działalno ś ci inn
 - **2)** tryb przeprowadzenia konkursu,
 - **3)** szczegółowe wymagania, o których mowa ust. 1,
 - **4)** przedmiot konkursu, tym zadania przewidziane do realizacji,
-- **5)** kwot ę przeznaczon ą na finansowanie konkursu maj ą c na uwadze potrzeb ę zapewnienia sprawnej organizacji i cele ustanowionych programów zgodnie z art. 21a.
+- **5)** kwotę przeznaczoną na finansowanie konkursu – mając na uwadze potrzebę zapewnienia sprawnej organizacji i cele ustanowionych programów zgodnie z art. 21a.
 
-5. Podmiot, o którym mowa ust. 1, otrzymuje ś rodki finansowe na organizowanie i finansowanie programów ustanowionych zgodnie z art. 21a. nie z art. 21a przekazywane podmiotowi na rzecz rozwoju o którym mowa art. 21f ust. 1, na podstawie umowy.
+5. Podmiot, o którym mowa ust. 1, otrzymuje środki finansowe na organizowanie i finansowanie programów ustanowionych zgodnie z art. 21a.
+
+**Art. 21g.**
+
+1. Środki finansowe przeznaczone na organizowanie i finansowanie programów ustanowionych zgodnie z art. 21a są przekazywane podmiotowi działającemu na rzecz rozwoju innowacyjności, o którym mowa art. 21f ust. 1, na podstawie umowy.
 
 2. Umowa, o której mowa ust. 1, określa szczególności:
 
@@ -99,9 +99,7 @@ o zmianie niektórych ustaw celu poprawy otoczenia prawnego działalno ś ci inn
 
 2. Przepis ust. 1 może być odpowiednio stosowany przypadku pomocy finansowej udzielanej ze środków innych niż pochodzące z budżetu Unii Europejskiej.
 
-**Art. 21i.** Minister właściwy do spraw gospodarki określi, drodze rozporządzenia, szczegółowe przeznaczenie oraz szczegółowe warunki udzielania pomocy finansowej, o której mowa art. 21b, uwzględniając efektywne i skuteczne jej wykorzystanie oraz zapewnienie przejrzystości jej udzielania, a także cele programów ustanowionych zgodnie z art. 21a.”.
-
-**Art. 10.** W ustawie z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2017 r. poz. 1158 i 1452) art. 17 po ust. 5 dodaje się ust. 5a brzmieniu: „5a. W przypadku utworzenia przez instytut spółki kapitałowej, o której mowa ust. 5, celu realizacji przedsięwzięć z zakresu infrastruktury badawczej lub zarządzania nią, a także obejmowania lub nabywania akcji i udziałów takich spółkach, minister nadzorujący przed wydaniem zgody, o której mowa ust. 5, zasięga opinii ministra właściwego do spraw nauki.”.
+**Art. 21i.** Minister właściwy do spraw gospodarki określi, drodze rozporządzenia, szczegółowe przeznaczenie oraz szczegółowe warunki udzielania pomocy finansowej, o której mowa art. 21b, uwzględniając efektywne i skuteczne jej wykorzystanie oraz zapewnienie przejrzystości jej udzielania, a także cele programów ustanowionych zgodnie z art. 21a.”. „5a. W przypadku utworzenia przez instytut spółki kapitałowej, o której mowa ust. 5, celu realizacji przedsięwzięć z zakresu infrastruktury badawczej lub zarządzania nią, a także obejmowania lub nabywania akcji i udziałów takich spółkach, minister nadzorujący przed wydaniem zgody, o której mowa ust. 5, zasięga opinii ministra właściwego do spraw nauki.”.
 
 **Art. 11.** W ustawie z dnia 30 kwietnia 2010 r. o Narodowym Centrum Badań i Rozwoju (Dz. U. z 2017 r. poz. 1447 i 1556) wprowadza się następujące zmiany:
 
@@ -121,7 +119,9 @@ o zmianie niektórych ustaw celu poprawy otoczenia prawnego działalno ś ci inn
 
 **Art. 17.**
 
-1. Monitoringiem, o którym mowa art. 13b ust. 1 ustawy zmienianej art. 8 brzmieniu nadanym niniejsz ą ustaw ą zakresie doktorantów i absolwentów studiów trzeciego stopnia oraz osób, które uzyskały stopie ń doktora lub doktora habilitowanego, s ą obj ę te osoby, które rozpocz ę ły studia trzeciego stopnia lub uzyskały stopie ń doktora lub doktora habilitowanego nie wcze ś niej ni ż 2016 r. wa art. 13b ust. 1 ustawy zmienianej art. 8 brzmieniu nadanym zakresie doktorantów i absolwentów studiów trzeciego stopnia oraz osób, które uzyskały stopień doktora lub doktora habilitowanego.
+1. Monitoringiem, o którym mowa art. 13b ust. 1 ustawy zmienianej art. 8 brzmieniu nadanym niniejszą ustawą zakresie doktorantów i absolwentów studiów trzeciego stopnia oraz osób, które uzyskały stopień doktora lub doktora habilitowanego, są objęte osoby, które rozpoczęły studia trzeciego stopnia lub uzyskały stopień doktora lub doktora habilitowanego nie wcześniej niż 2016 r.
+
+2. W 2017 r. minister właściwy do spraw szkolnictwa wyższego nie udostępnia wyników monitoringu, o którym mowa art. 13b ust. 1 ustawy zmienianej art. 8 brzmieniu nadanym niniejszą ustawą zakresie dotyczącym doktorantów i absolwentów studiów trzeciego stopnia oraz osób, które uzyskały stopień doktora lub doktora habilitowanego.
 
 **Art. 18.** Do postępowań sprawie przyznania statusu centrum badawczo-rozwojowego wszczętych i niezakończonych przed dniem wejścia życie niniejszej ustawy stosuje się przepisy ustawy zmienianej art. 9 brzmieniu nadanym niniejszą ustawą.
 
@@ -140,11 +140,10 @@ o zmianie niektórych ustaw celu poprawy otoczenia prawnego działalno ś ci inn
 - **1)** roczne sprawozdanie z realizacji planu finansowego Funduszu, terminie do dnia 31 stycznia 2018 r.;
 - **2)** kwartalne sprawozdanie o stanie zobowiązań według tytułów dłużnych oraz poręczeń i gwarancji, terminie do dnia 31 stycznia 2018 r.;
 - **3)** kwartalne sprawozdanie o stanie należności oraz wybranych aktywów finansowych, terminie do dnia 31 stycznia 2018 r.;
-- **4)** sprawozdania z wykonania planu finansowego państwowego funduszu celowego, terminie do dnia 1 marca 2018 r.;
 - **5)** roczne sprawozdanie uzupełniające o stanie zobowiązań według tytułów dłużnych, terminie do dnia 5 lutego 2018 r.;
 - **6)** roczne sprawozdanie uzupełniające o stanie należności z tytułu papierów wartościowych według wartości księgowej, terminie do dnia 5 lutego 2018 r.;
 - **7)** roczne sprawozdanie z wykonania planu finansowego państwowego funduszu celowego układzie zadaniowym, terminie do dnia 5 marca 2018 r.;
-- **8)** bilans oraz sprawozdanie z wpływów i wydatków według stanu na dzień likwidacji Funduszu, wraz ze wstępnym wykonaniem za 2017 r. do końca lutego 2018 r. oraz z danymi ostatecznymi do dnia 31 marca 2018 r.
+- **8)** bilans oraz sprawozdanie z wpływów i wydatków według stanu na dzień likwidacji Funduszu, wraz ze wstępnym wykonaniem za 2017 r. – do końca lutego 2018 r. oraz z danymi ostatecznymi – do dnia 31 marca 2018 r.
 
 6. Sprawozdania określone ust. 5 pkt 2–7 są sporządzane zgodnie z przepisami wydanymi na podstawie art. 41 ust. 2, 4 i 5 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2017 r. poz. 2077).
 

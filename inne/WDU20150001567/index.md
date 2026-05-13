@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# Poz. 1567
+# Ustawa z dnia 5 sierpnia 2015 r. o zmianie ustawy o zatrudnieniu socjalnym oraz niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,29 +24,26 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001567) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1567/text.pdf) |
 
-USTAWA 5 sierpnia 2015 zmianie zatrudnieniu socjalnym niektórych innych ustaw
-
-**Art. 1.** W ustawie 13 czerwca 2003 zatrudnieniu socjalnym (Dz. 2011 Nr 43, poz. 225 Nr 205, poz. 1211 2015 poz. 1220) wprowadza następujące zmiany:
+**Art. 1.** W ustawie 13 czerwca 2003 zatrudnieniu socjalnym (Dz. 2011 Nr 43, poz. 225 Nr 205, poz. 1211 2015 poz. 1220) wprowadza się następujące zmiany:
 
 **Art. 18d.**
 
-1. Przy ministrze właściwym spraw zabezpieczenia społecznego działa Rada Zatrudnienia Socjalnego jako organ opiniodawczo-doradczy sprawach zatrudnienia socjalnego. właściwy spraw zabezpieczenia społecznego na okres 3 lat.
+1. Przy ministrze właściwym do spraw zabezpieczenia społecznego działa Rada Zatrudnienia Socjalnego jako organ opiniodawczo-doradczy sprawach zatrudnienia socjalnego.
 
-3. Członkowie Rady Zatrudnienia Socjalnego pełnią swoje funkcje społecznie.
+2. Do zakresu działania Rady Zatrudnienia Socjalnego należy:
 
-4. Członkowie Rady Zatrudnienia Socjalnego korzystają ze zwolnień pracy celu uczestniczenia posiedzeniach Rady przysługuje im zwrot kosztów delegacji ze środków budżetu ministra właściwego spraw zabezpieczenia społecznego.
+- **1)** opiniowanie projektów aktów prawnych inicjowanie zmian przepisów prawa zakresie zatrudnienia socjalnego;
+- **2)** przygotowywanie ekspertyz dotyczących wybranych obszarów zatrudnienia socjalnego;
+- **3)** przedstawianie ministrowi właściwemu do spraw zabezpieczenia społecznego okresowych informacji swojej działalności;
+- **4)** przyjmowanie opiniowanie dla ministra właściwego do spraw zabezpieczenia społecznego wniosków nagrody specjalne za wybitne osiągnięcia zakresie zatrudnienia socjalnego.
 
-5. Koszty związane obsługą Rady Zatrudnienia Socjalnego są pokrywane ze środków budżetu ministra właściwego spraw zabezpieczenia społecznego.
+**Art. 18e.**
 
-6. Rada Zatrudnienia Socjalnego może, za zgodą ministra właściwego spraw zabezpieczenia społecznego, zapraszać współpracy ekspertów inne osoby niebędące jej członkami. Do udziału osób zaproszonych posiedzeniach Rady stosuje odpowiednio 4.
+1. Rada Zatrudnienia Socjalnego składa się nie więcej niż 15 osób reprezentujących podmioty zatrudnienia socjalnego, wojewodów, organizacje społeczne zawodowe. kolegialności pomocniczości prac Rady.”.
 
-7. Minister właściwy spraw zabezpieczenia społecznego określi, drodze rozporządzenia, tryb zgłaszania kandydatów na członków Rady Zatrudnienia Socjalnego, organizację tryb działania Rady, uwzględniając zasadę kolegialności pomocniczości prac Rady.”.
+**Art. 2.** W ustawie 17 listopada 1964 – Kodeks postępowania cywilnego (Dz. 2014 poz. 101, późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie 17 listopada 1964 – Kodeks postępowania cywilnego (Dz. 2014 poz. 101, późn. zm. ) wprowadza następujące zmiany:
-
-**Art. 3.** W ustawie 20 kwietnia 2004 promocji zatrudnienia instytucjach rynku pracy (Dz. 2015 poz. 149, późn. zm. ) wprowadza następujące zmiany:
-
-**Art. 4.** W ustawie 27 kwietnia 2006 spółdzielniach socjalnych (Dz. Nr 94, poz. 651, późn. zm. ) wprowadza następujące zmiany:
+**Art. 3.** W ustawie 20 kwietnia 2004 promocji zatrudnienia instytucjach rynku pracy (Dz. 2015 poz. 149, późn. zm. ) wprowadza się następujące zmiany:
 
 **Art. 5.** Ustawa wchodzi życie po upływie 14 dni od ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
 

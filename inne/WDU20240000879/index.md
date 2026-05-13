@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 17 czerwca 2024 r.
+# o zmianie ustawy o wymianie informacji podatkowych z innymi państwami oraz niektórych innych ustaw
+
+*USTAWA z dnia 23 maja 2024 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,12 +26,10 @@ domain: null
 | Ostatnia zmiana | 2024-06-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000879) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/879/text.pdf) |
 
-USTAWA z dnia 23 maja 2024 r.
-o zmianie ustawy o wymianie informacji podatkowych z innymi państwami oraz niektórych innych ustaw
-Art. 75ze. 1. Szef Krajowej Administracji Skarbowej przekazuje, terminie 2 miesięcy od zakończenia okresu sprawozdawczego, drodze automatycznej wymiany, informacje odnoszące się do sprzedawcy podlegającego raportowaniu określone art. 75c właściwemu organowi państwa uczestniczącego, którego rezydentem jest sprzedawca podlegający raportowaniu, a przypadku sprzedawcy podlegającego raportowaniu, który świadczy usługi udostępnienia nieruchomości także właściwemu organowi państwa uczestniczącego, którym położona jest nieruchomość.
-2. Szef Krajowej Administracji Skarbowej przekazuje do centralnego rejestru, o którym mowa art. 75zf ust. 2, informacje, o których mowa art. 75c pkt 2.
-1) przypadku państw członkowskich za pomocą środków komunikacji elektronicznej, według formatu określonego rozporządzeniu Komisji (UE) nr 2015/2378;
-2) przypadku państw uczestniczących innych niż państwa członkowskie za pomocą środków komunikacji elektronicznej, według formatu ustalonego przez ministra właściwego do spraw finansów publicznych na podstawie wymagań oraz standardów określonych przez OECD zakresie obowiązkowej automatycznej wymiany informacji o sprzedawcach.
+Art. 75ze. 1. Szef Krajowej Administracji Skarbowej przekazuje, terminie 2 miesięcy od zakończenia okresu sprawozdawczego, drodze automatycznej wymiany, informacje odnoszące się do sprzedawcy podlegającego raportowaniu określone art. 75c właściwemu organowi państwa uczestniczącego, którego rezydentem jest sprzedawca podlegający raportowaniu, a przypadku sprzedawcy podlegającego raportowaniu, który świadczy usługi udostępnienia nieruchomości – także właściwemu organowi państwa uczestniczącego, którym położona jest nieruchomość.
+3. Automatyczna wymiana informacji, o których mowa ust. 1, odbywa się:
+1) przypadku państw członkowskich – za pomocą środków komunikacji elektronicznej, według formatu określonego rozporządzeniu Komisji (UE) nr 2015/2378;
+2) przypadku państw uczestniczących innych niż państwa członkowskie – za pomocą środków komunikacji elektronicznej, według formatu ustalonego przez ministra właściwego do spraw finansów publicznych na podstawie wymagań oraz standardów określonych przez OECD zakresie obowiązkowej automatycznej wymiany informacji o sprzedawcach.
 4. Szef Krajowej Administracji Skarbowej, celu usprawnienia współpracy, może zawierać z właściwym organem innego państwa uczestniczącego porozumienia dwustronne lub wielostronne zakresie szczegółowego sposobu i trybu wymiany informacji o sprzedawcach.
 Art. 75zf. 1. Szef Krajowej Administracji Skarbowej powiadamia właściwe organy państw członkowskich oraz Komisję Europejską o indywidualnym numerze operatora platformy.
 2. Szef Krajowej Administracji Skarbowej zwraca się do Komisji Europejskiej o skreślenie raportującego operatora platformy z prowadzonego przez nią centralnego rejestru przypadku unieważnienia indywidualnego numeru operatora platformy, o którym mowa art. 75x ust. 1, albo cofnięcia indywidualnego numeru operatora platformy, o którym mowa art. 75y ust. 1.
@@ -43,40 +43,9 @@ b) ust. 5 wprowadzenie do wyliczenia otrzymuje brzmienie: „Informacje, o któr
 
 **Art. 1.** W ustawie z dnia 9 marca 2017 r. o wymianie informacji podatkowych z innymi państwami (Dz. U. z 2023 r. poz. 241) wprowadza się następujące zmiany:
 
-**Art. 6c.**
+**Art. 10b.**
 
-1. W przypadku gdy doszło do naruszenia ochrony danych związku z ich przetwarzaniem przez Szefa Krajowej Administracji Skarbowej na potrzeby wykonywania zadań wynikających z ustawy, Szef Krajowej Administracji Skarbowej niezwłocznie zgłasza Komisji Europejskiej to naruszenie ochrony danych, a także wszelkie późniejsze działania zmierzające do usunięcia tego naruszenia ochrony danych.
-
-2. Szef Krajowej Administracji Skarbowej może zawiesić trybie natychmiastowym wymianę informacji podatkowych z państwem członkowskim, którym doszło do naruszenia ochrony danych, jeżeli to naruszenie ochrony danych nie może zostać niezwłocznie i odpowiednio powstrzymane. O zawieszeniu wymiany informacji podatkowych Szef Krajowej Administracji powiadamia na piśmie Komisję Europejską oraz państwo członkowskie, którego to naruszenie ochrony danych dotyczy.
-
-3. Szef Krajowej Administracji Skarbowej wyjaśnia okoliczności naruszenia ochrony danych, powstrzymuje naruszenie ochrony danych i podejmuje działania naprawcze celu usunięcia naruszenia ochrony danych, a jeżeli naruszenie ochrony danych nie może zostać niezwłocznie i odpowiednio powstrzymane, występuje do Komisji Europejskiej z wnioskiem o zawieszenie dostępu do wspólnej platformy stworzonej przez Unię Europejską na potrzeby wszystkich transmisji dokonywanych drogą elektroniczną między właściwymi organami państw członkowskich.
-
-4. Po usunięciu naruszenia ochrony danych Szef Krajowej Administracji Skarbowej:
-
-- **1)** przekazuje Komisji Europejskiej informację o usunięciu tego naruszenia ochrony danych;
-- **2)** może wystąpić do Komisji Europejskiej z wnioskiem o wspólne sprawdzenie, czy działania naprawcze podjęte celu usunięcia naruszenia ochrony danych były skuteczne.
-
-5. Szef Krajowej Administracji Skarbowej ustala procedury naprawcze na wypadek naruszenia ochrony danych, które niezwłocznie wdraża życie przypadku zaistnienia takiego naruszenia ochrony danych.”;
-
-- **7)** tytuł działu II otrzymuje brzmienie: „Wymiana informacji podatkowych na wniosek i z urzędu”;
-- **8)** art. 10 otrzymuje brzmienie: „Art. 10. 1. Wniosek o udzielenie informacji podatkowych zawiera:
-- **1)** dane identyfikujące podmiot, którego informacje podatkowe mają dotyczyć, tym imię i nazwisko lub nazwę (firmę), adres lub inne posiadane dane niezbędne do identyfikacji podmiotu, którego wniosek dotyczy, jeżeli dane te są dostępne;
-- **2)** wskazanie zakresu żądanych informacji podatkowych;
-- **3)** stwierdzenie, że wyczerpano możliwości uzyskania informacji podatkowych na podstawie przepisów prawa krajowego wnioskującego państwa członkowskiego;
-- **4)** zobowiązanie do objęcia tajemnicą udzielonych informacji podatkowych zgodnie z przepisami prawa krajowego wnioskującego państwa członkowskiego;
-- **5)** wskazanie przewidywalnego związku informacji podatkowych, których dotyczy wniosek.
-
-2. W celu wykazania przewidywalnego związku informacji podatkowych, o którym mowa ust. 1 pkt 5, organ podatkowy wskazuje co najmniej:
-
-- **1)** cel wykorzystania żądanych informacji podatkowych;
-- **2)** że zakres żądanych informacji podatkowych jest istotny do celów stosowania i wykonywania przepisów prawa podatkowego wnioskującego państwa członkowskiego.”;
-- **9)** po art. 10 dodaje się art. 10a i art. 10b brzmieniu: „Art. 10a. W przypadku gdy wniosek o udzielenie informacji podatkowych dotyczy grupy podatników, których nie można zidentyfikować indywidualnie, wniosek ten zawiera co najmniej:
-- **1)** szczegółowy opis grupy podatników;
-- **2)** wskazanie mających zastosowanie przepisów prawa oraz faktów, na podstawie których istnieją podstawy, aby sądzić, że podatnicy nie zastosowali się do obowiązujących przepisów prawa;
-- **3)** wyjaśnienie, jaki sposób informacje podatkowe, których dotyczy wniosek, miałyby pomóc ustaleniu, czy podatnicy zastosowali się do obowiązujących przepisów prawa;
-- **4)** stosownych przypadkach wskazanie faktów i okoliczności wskazujących na udział osoby trzeciej, która czynnie przyczyniła się do potencjalnego, niezgodnego z obowiązującymi przepisami prawa działania podatników. wych istnieją przesłanki przeprowadzenia postępowania, kontroli lub czynności, organ ten występuje z uzasadnionym wnioskiem o ich przeprowadzenie.
-
-2. Jeżeli ocenie organu podatkowego przeprowadzenie postępowania, kontroli lub czynności, o przeprowadzenie których występuje z wnioskiem właściwy organ państwa członkowskiego, nie jest konieczne, niezwłocznie informuje się ten organ o przyczynach odmowy ich przeprowadzenia.”;
+1. Jeżeli ocenie organu podatkowego występującego z wnioskiem o udzielenie informacji podatkowych istnieją przesłanki przeprowadzenia postępowania, kontroli lub czynności, organ ten występuje z uzasadnionym wnioskiem o ich przeprowadzenie. nie których występuje z wnioskiem właściwy organ państwa członkowskiego, nie jest konieczne, niezwłocznie informuje się ten organ o przyczynach odmowy ich przeprowadzenia.”;
 
 - **10)** art. 11:
     - **a)** ust. 3 zdanie pierwsze otrzymuje brzmienie: „Postępowanie powinno być zakończone bez zbędnej zwłoki, nie później jednak niż terminie 3 miesięcy, licząc od dnia otrzymania wniosku.”,
@@ -95,8 +64,8 @@ b) ust. 5 wprowadzenie do wyliczenia otrzymuje brzmienie: „Informacje, o któr
 - **8)** praw autorskich lub praw pokrewnych, praw do projektów wynalazczych, znaków towarowych i wzorów zdobniczych, tym również sprzedaży tych praw, należności za udostępnienie tajemnicy receptury lub procesu produkcyjnego, za użytkowanie lub prawo do użytkowania urządzenia przemysłowego, handlowego lub naukowego, tym także środka transportu, oraz za informacje związane ze zdobytym doświadczeniem dziedzinie przemysłowej, handlowej lub naukowej (know-how).”,
     - **b)** po ust. 1 dodaje się ust. 1a brzmieniu: „1a. Przepis ust. 1 ma zastosowanie do dochodów osiągniętych roku podatkowym przez podatników:
 
-- **1)** podatku dochodowego od osób fizycznych mających miejsce zamieszkania na terytorium danego państwa członkowskiego przypadku dochodów z tytułów określonych ust. 1 pkt 1–8,
-- **2)** podatku dochodowego od osób prawnych mających siedzibę lub zarząd na terytorium danego państwa członkowskiego przypadku dochodów z tytułów określonych ust. 1 pkt 8 które zostały wykazane deklaracjach składanych przez płatników podatku dochodowego od osób fizycznych i podatku dochodowego od osób prawnych.”, „Art. 18. Szef Krajowej Administracji Skarbowej, celu usprawnienia współpracy, może zawierać z właściwym organem państwa członkowskiego lub państwa trzeciego porozumienia dwustronne lub wielostronne zakresie szczegółowego sposobu i trybu wymiany informacji podatkowych.”;
+- **1)** podatku dochodowego od osób fizycznych mających miejsce zamieszkania na terytorium danego państwa członkowskiego – przypadku dochodów z tytułów określonych ust. 1 pkt 1–8,
+- **2)** podatku dochodowego od osób prawnych mających siedzibę lub zarząd na terytorium danego państwa członkowskiego – przypadku dochodów z tytułów określonych ust. 1 pkt 8 – które zostały wykazane deklaracjach składanych przez płatników podatku dochodowego od osób fizycznych i podatku dochodowego od osób prawnych.”, „Art. 18. Szef Krajowej Administracji Skarbowej, celu usprawnienia współpracy, może zawierać z właściwym organem państwa członkowskiego lub państwa trzeciego porozumienia dwustronne lub wielostronne zakresie szczegółowego sposobu i trybu wymiany informacji podatkowych.”;
     - **c)** dodaje się ust. 3 brzmieniu: „3. Informacje podatkowe, o których mowa ust. 1, obejmują także numer identyfikacji podatkowej podatnika nadany przez państwo członkowskie miejsca zamieszkania, siedziby lub zarządu, jeżeli jest dostępny.”;
 
 - **13)** art. 19:
@@ -125,7 +94,7 @@ b) ust. 5 wprowadzenie do wyliczenia otrzymuje brzmienie: „Informacje, o któr
 2. Upoważnieni przedstawiciele właściwego organu państwa członkowskiego biorący udział we wspólnej kontroli na terytorium Rzeczypospolitej Polskiej mają prawo:
 
 - **1)** przesłuchiwać świadków oraz strony ramach przeprowadzanego dowodu z zeznań świadka lub przesłuchania strony;
-- **2)** przeglądać i utrwalać dokumenty i inne dowody związane ze sprawą. Polskiej, Szef Krajowej Administracji Skarbowej:
+- **2)** przeglądać i utrwalać dokumenty i inne dowody związane ze sprawą.
 - **1)** wyznacza osoby zatrudnione lub funkcjonariuszy pełniących służbę jednostkach organizacyjnych Krajowej Administracji Skarbowej, którzy będą, jako upoważnieni przedstawiciele właściwego organu Rzeczypospolitej Polskiej, odpowiedzialni za nadzorowanie i koordynowanie wspólnej kontroli, lub
 - **2)** występuje o wyznaczenie osób zatrudnionych organach podatkowych innych niż organy Krajowej Administracji Skarbowej, które będą, jako upoważnieni przedstawiciele właściwego organu Rzeczypospolitej Polskiej, odpowiedzialne za nadzorowanie i koordynowanie wspólnej kontroli.
 
@@ -159,9 +128,9 @@ b) ust. 5 wprowadzenie do wyliczenia otrzymuje brzmienie: „Informacje, o któr
 6. Osobie, której dotyczy wspólna kontrola, przysługują prawa i ciążą na niej obowiązki takie jak ramach odpowiedniej kontroli, postępowania wyjaśniającego lub innych działań prowadzonych bez udziału upoważnionych przedstawicieli właściwego organu państwa członkowskiego.”;
 
 - **15)** art. 23 ust. 1 otrzymuje brzmienie: „1. W sprawach nieuregulowanych art. 8–14 stosuje się odpowiednio przepisy:
-- **1)** działu IV rozdziałów 1, 2 i 5, rozdziału 6, z wyłączeniem art. 156 § 2 i 3, rozdziałów 8 i 9, rozdziału 11, z wyłączeniem art. 182–185, rozdziału 14 oraz art. 143 ustawy Ordynacja podatkowa;
+- **1)** działu IV rozdziałów 1, 2 i 5, rozdziału 6, z wyłączeniem art. 156 § 2 i 3, rozdziałów 8 i 9, rozdziału 11, z wyłączeniem art. 182–185, rozdziału 14 oraz art. 143 ustawy – Ordynacja podatkowa;
 - **2)** działu IV ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej.”;
-- **16)** art. 24 ust. 1 pkt 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „aktywach finansowych rozumie się przez to szczególności:”;
+- **16)** art. 24 ust. 1 pkt 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „aktywach finansowych – rozumie się przez to szczególności:”;
 - **17)** uchyla się art. 30; „Z wykonywania obowiązków, o których mowa art. 6b, art. 27 oraz art. 28, jest wyłączona polska instytucja finansowa będąca:”;
 - **19)** art. 34 ust. 5 pkt 3 wyrazy „w formie elektronicznej” zastępuje się wyrazami „w postaci elektronicznej”;
 - **20)** art. 50 ust. 6:
@@ -172,7 +141,7 @@ b) ust. 5 wprowadzenie do wyliczenia otrzymuje brzmienie: „Informacje, o któr
     - **a)** pkt 2 wyrazy „w formie papierowej” zastępuje się wyrazami „w postaci papierowej”,
     - **b)** pkt 3 wyrazy „w formie elektronicznej” zastępuje się wyrazami „w postaci elektronicznej”;
 
-- **22)** art. 70 ust. 5 pkt 8 otrzymuje brzmienie: „8) podpis osoby upoważnionej, z podaniem jej imienia i nazwiska oraz stanowiska służbowego, a jeżeli wynik kontroli został wydany formie dokumentu elektronicznego kwalifikowany podpis elektroniczny, podpis zaufany albo podpis osobisty.”;
+- **22)** art. 70 ust. 5 pkt 8 otrzymuje brzmienie: „8) podpis osoby upoważnionej, z podaniem jej imienia i nazwiska oraz stanowiska służbowego, a jeżeli wynik kontroli został wydany formie dokumentu elektronicznego – kwalifikowany podpis elektroniczny, podpis zaufany albo podpis osobisty.”;
 - **23)** art. 71 ust. 1 wyrazy „na pisemne żądanie” zastępuje się wyrazami „na sporządzone na piśmie żądanie”;
 - **24)** po art. 71 dodaje się art. 71a brzmieniu: „Art. 71a. 1. Jeżeli raportująca instytucja finansowa lub inny podmiot zawiera porozumienie sprzeczne danych okolicznościach z przedmiotem lub celem ustawy, którego głównym celem lub jednym z głównych celów jest uniknięcie obowiązków stosowania procedur należytej staranności lub procedur sprawozdawczych, a sposób działania był sztuczny, uznaje się na potrzeby obowiązków określonych przepisach niniejszego działu, że takie porozumienie nie zostało zawarte.
 
@@ -188,59 +157,62 @@ b) ust. 5 wprowadzenie do wyliczenia otrzymuje brzmienie: „Informacje, o któr
 
 1. Ilekroć niniejszym dziale jest mowa o:
 
-- **1)** aktywnym sprzedawcy rozumie się przez to sprzedawcę, który wykonuje stosowną czynność okresie sprawozdawczym albo któremu przysługuje wynagrodzenie związku z wykonywaniem stosownej czynności okresie sprawozdawczym;
-- **2)** głównym adresie rozumie się przez to adres głównego miejsca pobytu sprzedawcy będącego osobą fizyczną albo adres siedziby sprzedawcy będącego podmiotem;
-- **3)** grupie obiektów rozumie się przez to nieruchomości i ich części, tym pomieszczenia przynależne, położone pod tym samym adresem oraz udziały tych nieruchomościach, będące własnością tej samej osoby i oferowane na platformie przez tego samego sprzedawcę;
-- **4)** identyfikatorze rachunku finansowego rozumie się przez to dostępny dla operatora platformy unikatowy identyfikator rozumieniu art. 2 pkt 33 ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych, niepowtarzalny numer identyfikacyjny lub niepowtarzalne informacje referencyjne rachunku bankowego, rachunku spółdzielczej kasie oszczędnościowo-kredytowej lub innego rachunku służącego do wykonywania transakcji płatniczych, na który jest wpłacane lub na którym jest uznawane wynagrodzenie;
-- **5)** kwalifikowanej jurysdykcji spoza Unii Europejskiej rozumie się przez to państwo lub terytorium spoza Unii Europejskiej, które zawarło z Rzecząpospolitą Polską skuteczną kwalifikującą umowę i ujęło Rzeczpospolitą Polską prowadzonym przez siebie wykazie państw i terytoriów, które zawarły skuteczną kwalifikującą umowę; na podstawie skutecznej kwalifikującej umowy;
-- **7)** kwalifikowanym operatorze platformy spoza Unii Europejskiej rozumie się przez to operatora platformy, który:
+- **1)** aktywnym sprzedawcy – rozumie się przez to sprzedawcę, który wykonuje stosowną czynność okresie sprawozdawczym albo któremu przysługuje wynagrodzenie związku z wykonywaniem stosownej czynności okresie sprawozdawczym;
+- **2)** głównym adresie – rozumie się przez to adres głównego miejsca pobytu sprzedawcy będącego osobą fizyczną albo adres siedziby sprzedawcy będącego podmiotem;
+- **3)** grupie obiektów – rozumie się przez to nieruchomości i ich części, tym pomieszczenia przynależne, położone pod tym samym adresem oraz udziały tych nieruchomościach, będące własnością tej samej osoby i oferowane na platformie przez tego samego sprzedawcę;
+- **4)** identyfikatorze rachunku finansowego – rozumie się przez to dostępny dla operatora platformy unikatowy identyfikator rozumieniu art. 2 pkt 33 ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych, niepowtarzalny numer identyfikacyjny lub niepowtarzalne informacje referencyjne rachunku bankowego, rachunku spółdzielczej kasie oszczędnościowo-kredytowej lub innego rachunku służącego do wykonywania transakcji płatniczych, na który jest wpłacane lub na którym jest uznawane wynagrodzenie; Polską prowadzonym przez siebie wykazie państw i terytoriów, które zawarły skuteczną kwalifikującą umowę;
+- **6)** kwalifikowanej stosownej czynności – rozumie się przez to stosowną czynność objętą automatyczną wymianą na podstawie skutecznej kwalifikującej umowy;
+- **7)** kwalifikowanym operatorze platformy spoza Unii Europejskiej – rozumie się przez to operatora platformy, który:
     - **a)** jest rezydentem do celów podatkowych kwalifikowanej jurysdykcji spoza Unii Europejskiej lub
-    - **b)** jest zarejestrowany lub posiada miejsce zarządu, tym faktyczny zarząd, kwalifikowanej jurysdykcji spoza Unii Europejskiej jeżeli wszystkie stosowne czynności, których wykonywanie umożliwia, są kwalifikowanymi stosownymi czynnościami;
+    - **b)** jest zarejestrowany lub posiada miejsce zarządu, tym faktyczny zarząd, kwalifikowanej jurysdykcji spoza Unii Europejskiej – jeżeli wszystkie stosowne czynności, których wykonywanie umożliwia, są kwalifikowanymi stosownymi czynnościami;
 
-- **8)** numerze identyfikacji VAT rozumie się przez to niepowtarzalny numer służący do identyfikacji podatnika lub osoby prawnej niebędącej podatnikiem zarejestrowanej na potrzeby podatku od towarów i usług lub podatku od wartości dodanej;
-- **9)** okresie sprawozdawczym rozumie się przez to rok kalendarzowy, za który jest przekazywana informacja o sprzedawcach, o której mowa art. 75b ust. 1;
-- **10)** operatorze platformy rozumie się przez to podmiot, który zawiera umowy ze sprzedawcami celu udostępnienia im platformy albo jej części;
-- **11)** państwie uczestniczącym rozumie się przez to:
+- **8)** numerze identyfikacji VAT – rozumie się przez to niepowtarzalny numer służący do identyfikacji podatnika lub osoby prawnej niebędącej podatnikiem zarejestrowanej na potrzeby podatku od towarów i usług lub podatku od wartości dodanej;
+- **9)** okresie sprawozdawczym – rozumie się przez to rok kalendarzowy, za który jest przekazywana informacja o sprzedawcach, o której mowa art. 75b ust. 1;
+- **10)** operatorze platformy – rozumie się przez to podmiot, który zawiera umowy ze sprzedawcami celu udostępnienia im platformy albo jej części;
+- **11)** państwie uczestniczącym – rozumie się przez to:
     - **a)** Rzeczpospolitą Polską oraz inne państwo członkowskie,
     - **b)** kwalifikowaną jurysdykcję spoza Unii Europejskiej,
     - **c)** państwo lub terytorium, z którym Rzeczpospolita Polska zawarła porozumienie stanowiące podstawę automatycznej wymiany informacji o sprzedawcach, niebędące kwalifikowaną jurysdykcją spoza Unii Europejskiej;
 
-- **12)** platformie rozumie się przez to, z zastrzeżeniem ust. 2:
+- **12)** platformie – rozumie się przez to, z zastrzeżeniem ust. 2:
     - **a)** oprogramowanie, tym stronę internetową albo jej część,
-    - **b)** aplikacje, tym aplikacje mobilne które są dostępne dla użytkowników i umożliwiają sprzedawcom łączność z innymi użytkownikami celu wykonywania, bezpośrednio lub pośrednio, stosownej czynności na rzecz tych użytkowników, a także ustalenia dotyczące poboru i wypłaty wynagrodzenia z tytułu stosownej czynności;
+    - **b)** aplikacje, tym aplikacje mobilne – które są dostępne dla użytkowników i umożliwiają sprzedawcom łączność z innymi użytkownikami celu wykonywania, bezpośrednio lub pośrednio, stosownej czynności na rzecz tych użytkowników, a także ustalenia dotyczące poboru i wypłaty wynagrodzenia z tytułu stosownej czynności;
 
-- **13)** podmiocie rozumie się przez to osobę prawną, jednostkę organizacyjną nieposiadającą osobowości prawnej lub trust, a także umowę, szczególności spółki cywilnej, na podstawie której strony, które ją zawarły, zamierzają wspólnie realizować określone niej cele lub zadania;
-- **14)** raportującym operatorze platformy rozumie się przez to raportującego operatora platformy z Unii Europejskiej i raportującego operatora platformy spoza Unii Europejskiej;
-- **15)** raportującym operatorze platformy spoza Unii Europejskiej rozumie się przez to operatora platformy, z wyjątkiem wyłączonego operatora platformy, umożliwiającego wykonywanie stosownej czynności dotyczącej udostępnienia nieruchomości położonej na terytorium państwa uczestniczącego lub stosownej czynności przez sprzedawcę podlegającego raportowaniu, który nie jest raportującym operatorem platformy z Unii Europejskiej ani kwalifikowanym operatorem platformy spoza Unii Europejskiej;
-- **16)** raportującym operatorze platformy z Unii Europejskiej rozumie się przez to operatora platformy, z wyjątkiem wyłączonego operatora platformy, będącego rezydentem do celów podatkowych Rzeczypospolitej Polskiej albo innym państwie członkowskim, a przypadku gdy operator platformy nie ma rezydencji do celów podatkowych państwie członkowskim operatora platformy, który:
+- **13)** podmiocie – rozumie się przez to osobę prawną, jednostkę organizacyjną nieposiadającą osobowości prawnej lub trust, a także umowę, szczególności spółki cywilnej, na podstawie której strony, które ją zawarły, zamierzają wspólnie realizować określone niej cele lub zadania;
+- **14)** raportującym operatorze platformy – rozumie się przez to raportującego operatora platformy z Unii Europejskiej i raportującego operatora platformy spoza Unii Europejskiej;
+- **15)** raportującym operatorze platformy spoza Unii Europejskiej – rozumie się przez to operatora platformy, z wyjątkiem wyłączonego operatora platformy, umożliwiającego wykonywanie stosownej czynności dotyczącej udostępnienia nieruchomości położonej na terytorium państwa uczestniczącego lub stosownej czynności przez sprzedawcę podlegającego raportowaniu, który nie jest raportującym operatorem platformy z Unii Europejskiej ani kwalifikowanym operatorem platformy spoza Unii Europejskiej;
+- **16)** raportującym operatorze platformy z Unii Europejskiej – rozumie się przez to operatora platformy, z wyjątkiem wyłączonego operatora platformy, będącego rezydentem do celów podatkowych Rzeczypospolitej Polskiej albo innym państwie członkowskim, a przypadku gdy operator platformy nie ma rezydencji do celów podatkowych państwie członkowskim – operatora platformy, który:
     - **a)** jest zarejestrowany państwie członkowskim, przy czym nie stanowi rejestracji dokonanie jednorazowej rejestracji zgodnie z art. 75u ust. 1, lub
     - **b)** posiada miejsce zarządu, tym faktyczny zarząd, państwie członkowskim, lub
     - **c)** posiada zagraniczny zakład państwie członkowskim i nie jest kwalifikowanym operatorem platformy spoza Unii Europejskiej;
 
-- **17)** skutecznej kwalifikującej umowie rozumie się przez to umowę między państwem członkowskim a państwem lub terytorium spoza Unii Europejskiej przewidującą automatyczną wymianę informacji równoważnych informacjom, o których mowa art. 75c, jeżeli akcie wykonawczym Komisji Europejskiej, o którym mowa art. 8ac ust. 7 dyrektywy 2011/16/UE, potwierdzono równoważność tych informacji; wolnym momencie okresu sprawozdawczego jest zarejestrowany na platformie i wykonuje stosowną czynność;
-- **19)** sprzedawcy podlegającym raportowaniu rozumie się przez to aktywnego sprzedawcę niebędącego wyłączonym sprzedawcą, który jest rezydentem państwie uczestniczącym lub udostępnił nieruchomość położoną państwie uczestniczącym;
-- **20)** stosownej czynności rozumie się przez to jedną z poniższych czynności wykonywaną za wynagrodzeniem:
+- **17)** skutecznej kwalifikującej umowie – rozumie się przez to umowę między państwem członkowskim a państwem lub terytorium spoza Unii Europejskiej przewidującą automatyczną wymianę informacji równoważnych
+- **18)** sprzedawcy – rozumie się przez to użytkownika platformy będącego osobą fizyczną albo podmiotem, który dowolnym momencie okresu sprawozdawczego jest zarejestrowany na platformie i wykonuje stosowną czynność;
+- **19)** sprzedawcy podlegającym raportowaniu – rozumie się przez to aktywnego sprzedawcę niebędącego wyłączonym sprzedawcą, który jest rezydentem państwie uczestniczącym lub udostępnił nieruchomość położoną państwie uczestniczącym;
+- **20)** stosownej czynności – rozumie się przez to jedną z poniższych czynności wykonywaną za wynagrodzeniem:
     - **a)** udostępnienie nieruchomości, ich części, tym pomieszczeń przynależnych, lub udziału nieruchomościach,
     - **b)** usługę świadczoną osobiście obejmującą pracę wykonywaną trybie zadaniowym lub czasowym przez osobę fizyczną działającą niezależnie albo na rzecz lub imieniu podmiotu, wykonywaną na żądanie użytkownika online lub fizycznie offline po umożliwieniu jej wykonania za pośrednictwem platformy,
     - **c)** sprzedaż towarów,
-    - **d)** udostępnienie środka transportu z wyjątkiem czynności wykonywanej przez sprzedawcę będącego pracownikiem raportującego operatora platformy lub podmiotu powiązanego raportującego operatora platformy;
+    - **d)** udostępnienie środka transportu – z wyjątkiem czynności wykonywanej przez sprzedawcę będącego pracownikiem raportującego operatora platformy lub podmiotu powiązanego raportującego operatora platformy;
 
-- **21)** TIN rozumie się przez to numer identyfikacyjny podatnika, a przypadku braku takiego numeru jego funkcjonalny odpowiednik, stosowany przez państwo rezydencji do identyfikacji osoby fizycznej lub podmiotu celach podatkowych, tym NIP lub PESEL;
-- **22)** towarach rozumie się przez to rzeczy rozumieniu art. 45 ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny;
-- **23)** wyłączonym operatorze platformy rozumie się przez to operatora platformy, który wskazał właściwemu organowi, że przyjęty model biznesowy platformy nie obejmuje sprzedawców podlegających raportowaniu;
-- **24)** wyłączonym sprzedawcy rozumie się przez to sprzedawcę:
-    - **a)** będącego: rządem państwa uczestniczącego lub innego państwa lub terytorium, jednostką terytorialną niższego szczebla państwa uczestniczącego lub innego państwa lub terytorium, tym stanem, prowincją, okręgiem lub gminą, agencją lub instytucją państwa uczestniczącego lub innego państwa lub terytorium będącymi całości własnością danego państwa lub terytorium, agencją lub instytucją będącymi całości własnością rządu lub jednostki terytorialnej, o których mowa tiret pierwszym i drugim, lub
+- **21)** TIN – rozumie się przez to numer identyfikacyjny podatnika, a przypadku braku takiego numeru – jego funkcjonalny odpowiednik, stosowany przez państwo rezydencji do identyfikacji osoby fizycznej lub podmiotu celach podatkowych, tym NIP lub PESEL;
+- **22)** towarach – rozumie się przez to rzeczy rozumieniu art. 45 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny;
+- **23)** wyłączonym operatorze platformy – rozumie się przez to operatora platformy, który wskazał właściwemu organowi, że przyjęty model biznesowy platformy nie obejmuje sprzedawców podlegających raportowaniu;
+- **24)** wyłączonym sprzedawcy – rozumie się przez to sprzedawcę:
+    - **a)** będącego: – rządem państwa uczestniczącego lub innego państwa lub terytorium, – jednostką terytorialną niższego szczebla państwa uczestniczącego lub innego państwa lub terytorium, tym stanem, prowincją, okręgiem lub gminą, – agencją lub instytucją państwa uczestniczącego lub innego państwa lub terytorium będącymi całości własnością danego państwa lub terytorium, – agencją lub instytucją będącymi całości własnością rządu lub jednostki terytorialnej, o których mowa tiret pierwszym i drugim, lub
     - **b)** będącego podmiotem, którego akcje są przedmiotem regularnego obrotu na regulowanym rynku papierów wartościowych, lub podmiotem powiązanym podmiotu, którego akcje są przedmiotem takiego obrotu, lub
     - **c)** będącego podmiotem, któremu operator platformy umożliwił okresie sprawozdawczym wykonanie ponad 2000 stosownych czynności dotyczących udostępnienia nieruchomości wchodzących skład grupy obiektów, lub
     - **d)** któremu operator platformy umożliwił okresie sprawozdawczym wykonanie mniej niż 30 stosownych czynności dotyczących sprzedaży towarów, jeżeli łączne wynagrodzenie tym okresie na jego rzecz nie przekroczyło równowartości 2000 euro;
 
-- **25)** wynagrodzeniu rozumie się przez to zapłatę, dowolnej formie, pomniejszoną o składki, opłaty, prowizje lub podatki zatrzymane lub pobrane przez operatora platformy, dokonaną lub uznaną na rzecz sprzedawcy związku z wykonywaniem stosownej czynności, jeżeli wartość pieniężna tej zapłaty jest znana operatorowi platformy albo operator platformy jest stanie ustalić tę wartość rozsądny sposób.
+- **25)** wynagrodzeniu – rozumie się przez to zapłatę, dowolnej formie, pomniejszoną o składki, opłaty, prowizje lub podatki zatrzymane lub pobrane przez operatora platformy, dokonaną lub uznaną na rzecz sprzedawcy związku z wykonywaniem stosownej czynności, jeżeli wartość pieniężna tej zapłaty jest znana operatorowi platformy albo operator platformy jest stanie ustalić tę wartość rozsądny sposób.
 
 2. Nie stanowi platformy oprogramowanie, które, nie ingerując wykonywanie stosownej czynności, umożliwia wyłącznie:
 
 - **1)** przetwarzanie płatności odniesieniu do stosownej czynności lub
 - **2)** wystawianie przez użytkowników ofert lub reklamowanie przez nich stosownej czynności, lub
-- **3)** przekierowywanie lub przenoszenie użytkowników na platformę. jeden z podmiotów kontroluje drugi podmiot lub obydwa podmioty pozostają pod wspólną kontrolą, przy czym:
+
+3. Podmiot jest podmiotem powiązanym, o którym mowa ust. 1 pkt 20 i pkt 24 lit. b, innego podmiotu, jeżeli jeden z podmiotów kontroluje drugi podmiot lub obydwa podmioty pozostają pod wspólną kontrolą, przy czym:
+
 - **1)** kontrola obejmuje posiadanie, bezpośrednio lub pośrednio, ponad 50 % praw głosu lub 50 % udziałów kapitale danym podmiocie;
 - **2)** przypadku udziału pośredniego wymóg posiadania ponad 50 % udziałów kapitale lub praw głosu drugiego podmiotu ustala się, mnożąc wysokości udziałów na kolejnych poziomach;
 - **3)** uznaje się, że osoba posiadająca ponad 50 % praw głosu posiada 100 % tych praw.
@@ -259,7 +231,7 @@ b) ust. 5 wprowadzenie do wyliczenia otrzymuje brzmienie: „Informacje, o któr
 
 2. Informacja o sprzedawcach jest tworzona na podstawie wzoru dokumentu elektronicznego zamieszczonego Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych.
 
-3. Pełnomocnictwo do podpisywania deklaracji składanej za pomocą środków komunikacji elektronicznej udzielone na podstawie przepisów działu III rozdziału 9a ustawy Ordynacja podatkowa obejmuje również upoważnienie do podpisywania informacji o sprzedawcach.
+3. Pełnomocnictwo do podpisywania deklaracji składanej za pomocą środków komunikacji elektronicznej udzielone na podstawie przepisów działu III rozdziału 9a ustawy – Ordynacja podatkowa obejmuje również upoważnienie do podpisywania informacji o sprzedawcach.
 
 4. Wyłączony operator platformy najpóźniej dniu rozpoczęcia działalności jako operator platformy oraz terminie do końca miesiąca następującego po zakończeniu okresu sprawozdawczego wskazuje informacji o sprzedawcach, że przyjęty model biznesowy platformy nie obejmuje sprzedawców podlegających raportowaniu.
 
@@ -287,7 +259,7 @@ b) ust. 5 wprowadzenie do wyliczenia otrzymuje brzmienie: „Informacje, o któr
 
 2. W przypadku niezastosowania się operatora platformy do wezwania Szef Krajowej Administracji Skarbowej ponownie wzywa operatora platformy do złożenia informacji o sprzedawcach albo jej skorygowania terminie 30 dni od dnia doręczenia wezwania.
 
-3. Do doręczania wezwań przepisy działu IV rozdziału 5 ustawy Ordynacja podatkowa stosuje się odpowiednio.
+3. Do doręczania wezwań przepisy działu IV rozdziału 5 ustawy – Ordynacja podatkowa stosuje się odpowiednio.
 
 **Art. 75j.** Raportujący operator platformy jest obowiązany przechowywać informacje i dowody, o których mowa art. 75c, art. 75g, art. 75k, art. 75l ust. 4, art. 75m i art. 75o–75q, przez okres 5 lat, licząc od końca roku, którym upłynął termin przekazania informacji o sprzedawcach.
 
@@ -328,7 +300,7 @@ b) ust. 5 wprowadzenie do wyliczenia otrzymuje brzmienie: „Informacje, o któr
 1. Raportujący operator platformy jest obowiązany dopełnić procedur należytej staranności do dnia:
 
 - **1)** 31 grudnia okresu sprawozdawczego;
-- **2)** 31 grudnia drugiego okresu sprawozdawczego przypadku sprzedawców, którzy byli zarejestrowani na platformie na dzień, którym podmiot stał się raportującym operatorem platformy.
+- **2)** 31 grudnia drugiego okresu sprawozdawczego – przypadku sprzedawców, którzy byli zarejestrowani na platformie na dzień, którym podmiot stał się raportującym operatorem platformy.
 
 2. Raportujący operator platformy może opierać się na procedurach należytej staranności przeprowadzonych odniesieniu do poprzednich okresów sprawozdawczych, pod warunkiem że:
 
@@ -353,7 +325,7 @@ b) ust. 5 wprowadzenie do wyliczenia otrzymuje brzmienie: „Informacje, o któr
 
 2. Operator platformy, o którym mowa ust. 1, jest obowiązany powiadomić Szefa Krajowej Administracji Skarbowej o dokonanym wyborze elektronicznie, za pomocą formularza rejestracyjnego zgodnie z art. 75u ust. 3–9.
 
-3. Raportujący operator platformy powiadamia o wyborze Rzeczypospolitej Polskiej pozostałe państwa członkowskie, których spełnia warunki uznania za raportującego operatora platformy. którym będzie wypełniać obowiązki sprawozdawcze wynikające z sekcji III załącznika V dyrektywy 2011/16/UE, jest obowiązany powiadomić Szefa Krajowej Administracji Skarbowej o dokonanym wyborze elektronicznie, za pomocą formularza rejestracyjnego zgodnie z art. 75u ust. 5–9, przekazując następujące informacje:
+3. Raportujący operator platformy powiadamia o wyborze Rzeczypospolitej Polskiej pozostałe państwa członkowskie, których spełnia warunki uznania za raportującego operatora platformy. jest obowiązany powiadomić Szefa Krajowej Administracji Skarbowej o dokonanym wyborze elektronicznie, za pomocą formularza rejestracyjnego zgodnie z art. 75u ust. 5–9, przekazując następujące informacje:
 
 - **1)** nazwę;
 - **2)** główny adres;
@@ -383,22 +355,22 @@ b) ust. 5 wprowadzenie do wyliczenia otrzymuje brzmienie: „Informacje, o któr
 
 - **2)** informacje dotyczące pełnomocnika upoważnionego do podpisywania informacji o sprzedawcach oraz korekt formularza rejestracyjnego:
     - **a)** imię, nazwisko i datę urodzenia,
-    - **b)** TIN, jeżeli jest dostępny, inny numer identyfikacyjny,
+    - **c)** przypadku braku TIN – numer i serię paszportu lub innego dokumentu potwierdzającego tożsamość albo inny numer identyfikacyjny,
     - **d)** państwo wydania dokumentu, o którym mowa lit. c,
-    - **e)** dane pełnomocnika oraz dane wystawcy kwalifikowanego certyfikatu podpisu elektronicznego, zawarte kwalifikowanym certyfikacie podpisu elektronicznego przypadku gdy pełnomocnik będzie opatrywał dokumenty kwalifikowanym podpisem elektronicznym,
-    - **f)** numer PESEL pełnomocnika posługującego się podpisem zaufanym przypadku gdy nie są przekazywane dane, o których mowa lit. e,
-    - **g)** adres do doręczeń elektronicznych przypadku gdy pełnomocnikiem jest adwokat, radca prawny lub doradca podatkowy albo osoba, o której mowa art. 138c § 2 ustawy Ordynacja podatkowa,
+    - **e)** dane pełnomocnika oraz dane wystawcy kwalifikowanego certyfikatu podpisu elektronicznego, zawarte kwalifikowanym certyfikacie podpisu elektronicznego – przypadku gdy pełnomocnik będzie opatrywał dokumenty kwalifikowanym podpisem elektronicznym,
+    - **f)** numer PESEL pełnomocnika posługującego się podpisem zaufanym – przypadku gdy nie są przekazywane dane, o których mowa lit. e,
+    - **g)** adres do doręczeń elektronicznych – przypadku gdy pełnomocnikiem jest adwokat, radca prawny lub doradca podatkowy albo osoba, o której mowa art. 138c § 2 ustawy – Ordynacja podatkowa,
     - **h)** numer telefonu,
     - **i)** adres poczty elektronicznej,
     - **j)** oświadczenie raportującego operatora platformy o upoważnieniu pełnomocnika do podpisywania informacji o sprzedawcach oraz korekt formularza rejestracyjnego.
 
-4. Do doręczania potwierdzenia nadania indywidualnego numeru operatora platformy, o którym mowa art. 75v ust. 1, oraz innych pism zakresie związanym ze stosowaniem przepisów art. 75w–75y oraz rozdziału 5 przepisy działu IV rozdziału 5 ustawy Ordynacja podatkowa stosuje się odpowiednio.
+4. Do doręczania potwierdzenia nadania indywidualnego numeru operatora platformy, o którym mowa art. 75v ust. 1, oraz innych pism zakresie związanym ze stosowaniem przepisów art. 75w–75y oraz rozdziału 5 przepisy działu IV rozdziału 5 ustawy – Ordynacja podatkowa stosuje się odpowiednio.
 
 5. Formularz rejestracyjny jest sporządzany na podstawie wzoru dokumentu elektronicznego zamieszczonego Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych.
 
 6. Raportujący operator platformy powiadamia niezwłocznie Szefa Krajowej Administracji Skarbowej o korekcie informacji zawartych formularzu rejestracyjnym. Powiadomienia dokonuje się elektronicznie, za pomocą formularza rejestracyjnego, podając kompletne i aktualne dane.
 
-7. Pełnomocnictwo do podpisywania deklaracji składanej za pomocą środków komunikacji elektronicznej udzielone na podstawie przepisów działu III rozdziału 9a ustawy Ordynacja podatkowa, obejmuje również upoważnienie do podpisywania formularza rejestracyjnego.
+7. Pełnomocnictwo do podpisywania deklaracji składanej za pomocą środków komunikacji elektronicznej udzielone na podstawie przepisów działu III rozdziału 9a ustawy – Ordynacja podatkowa, obejmuje również upoważnienie do podpisywania formularza rejestracyjnego.
 
 8. Formularz rejestracyjny może być podpisany przez osobę uprawnioną do reprezentacji, przy czym takim przypadku nie jest dopuszczalne podpisanie tego formularza przez pełnomocnika.
 
@@ -413,6 +385,15 @@ b) ust. 5 wprowadzenie do wyliczenia otrzymuje brzmienie: „Informacje, o któr
 2. Szef Krajowej Administracji Skarbowej wydaje potwierdzenie nadania indywidualnego numeru operatora platformy niezwłocznie po jego nadaniu.
 
 **Art. 75w.** Szef Krajowej Administracji Skarbowej wydaje postanowienie o pozostawieniu formularza rejestracyjnego bez rozpatrzenia, przypadku gdy:
+
+**Art. 75x.**
+
+1. Szef Krajowej Administracji Skarbowej unieważnia z urzędu, drodze decyzji, indywidualny numer operatora platformy, przypadku gdy:
+
+- **1)** raportującemu operatorowi platformy został uprzednio nadany indywidualny numer operatora platformy albo numer identyfikacyjny do celów sprawozdawczych zgodnie z dyrektywą 2011/16/UE innym państwie członkowskim;
+- **2)** indywidualny numer operatora platformy nadano na podstawie fałszywych lub fikcyjnych danych.
+
+2. Nie można posługiwać się unieważnionym indywidualnym numerem operatora platformy, a unieważniony indywidualny numer operatora platformy nie może zostać ponownie nadany.
 
 **Art. 75y.**
 
@@ -452,7 +433,7 @@ b) ust. 5 wprowadzenie do wyliczenia otrzymuje brzmienie: „Informacje, o któr
 
 1. W zakresie nieuregulowanym niniejszym rozdziale do postępowań sprawie pozostawienia formularza rejestracyjnego bez rozpatrzenia, unieważnienia i cofnięcia indywidualnego numeru operatora platformy stosuje się odpowiednio przepisy działu IV ustawy − Ordynacja podatkowa.
 
-2. W zakresie wydawania potwierdzeń nadania indywidualnego numeru operatora platformy stosuje się odpowiednio przepisy działu VIIIA ustawy Ordynacja podatkowa.
+2. W zakresie wydawania potwierdzeń nadania indywidualnego numeru operatora platformy stosuje się odpowiednio przepisy działu VIIIA ustawy – Ordynacja podatkowa.
 
 3. Decyzja o unieważnieniu indywidualnego numeru operatora platformy oraz decyzja o cofnięciu indywidualnego numeru operatora platformy są natychmiast wykonalne. Kontrola raportujących operatorów platform Art. 75za. Szef Krajowej Administracji Skarbowej przeprowadza kontrolę wykonywania przez raportującego operatora platformy obowiązków zakresie stosowania procedur należytej staranności oraz obowiązków sprawozdawczych określonych niniejszym dziale, zwaną dalej niniejszym dziale „kontrolą”. Art. 75zb. 1. Z czynności kontrolnych sporządza się protokół kontroli. Kontrolowany, który nie zgadza się z ustaleniami kontroli zawartymi protokole, może terminie 14 dni od dnia jego doręczenia przedstawić zastrzeżenia lub wyjaśnienia, wskazując równocześnie stosowne dowody.
 
@@ -473,13 +454,13 @@ b) ust. 5 wprowadzenie do wyliczenia otrzymuje brzmienie: „Informacje, o któr
 - **5)** opis przebiegu kontroli;
 - **6)** końcowe ustalenia i wnioski zawierające informację o stwierdzeniu nieprawidłowości albo ich braku;
 - **7)** wskazanie terminu usunięcia nieprawidłowości, jeżeli zostały stwierdzone;
-- **8)** podpis osoby upoważnionej, z podaniem jej imienia i nazwiska oraz stanowiska służbowego, a jeżeli wynik kontroli został wydany formie dokumentu elektronicznego kwalifikowany podpis elektroniczny, podpis zaufany albo podpis osobisty tej osoby.
+- **8)** podpis osoby upoważnionej, z podaniem jej imienia i nazwiska oraz stanowiska służbowego, a jeżeli wynik kontroli został wydany formie dokumentu elektronicznego – kwalifikowany podpis elektroniczny, podpis zaufany albo podpis osobisty tej osoby.
 
 7. Termin, o którym mowa ust. 6 pkt 7, nie może być krótszy niż miesiąc ani dłuższy niż 6 miesięcy, licząc od dnia doręczenia wyniku kontroli.
 
 8. Kontrolowany jest obowiązany poinformować Szefa Krajowej Administracji Skarbowej o sposobie usunięcia stwierdzonych nieprawidłowości lub przyczynach ich nieusunięcia bez zbędnej zwłoki, nie później jednak niż terminie 14 dni, licząc od dnia upływu wyznaczonego terminu ich usunięcia. Art. 75zc. 1. W przypadku wystąpienia uchybień lub nieprawidłowości, których wyjaśnienie nie wymaga przeprowadzenia kontroli, raportujący operator platformy, na pisemne żądanie Szefa Krajowej Administracji Skarbowej, jest obowiązany do udzielenia informacji niezbędnych do ich wyjaśnienia.
 
-2. W żądaniu, o którym mowa ust. 1, określa się zakres żądanych informacji oraz termin ich przekazania, nie krótszy jednak niż 14 dni, licząc od dnia doręczenia żądania. Art. 75zd. W zakresie nieuregulowanym niniejszym rozdziale do kontroli stosuje się odpowiednio przepisy działu IV rozdziału 1, z wyłączeniem art. 127 i art. 128, rozdziału 2, rozdziału 3, z wyłączeniem art. 133 i art. 133a, rozdziału 3a, rozdziału 4, z wyłączeniem art. 139, rozdziałów 5, 6, 9−11, 14, 16, 22 i 23 oraz działu VI, z wyłączeniem art. 281, art. 282a, art. 291 i art. 292, ustawy Ordynacja podatkowa.
+2. W żądaniu, o którym mowa ust. 1, określa się zakres żądanych informacji oraz termin ich przekazania, nie krótszy jednak niż 14 dni, licząc od dnia doręczenia żądania. Art. 75zd. W zakresie nieuregulowanym niniejszym rozdziale do kontroli stosuje się odpowiednio przepisy działu IV rozdziału 1, z wyłączeniem art. 127 i art. 128, rozdziału 2, rozdziału 3, z wyłączeniem art. 133 i art. 133a, rozdziału 3a, rozdziału 4, z wyłączeniem art. 139, rozdziałów 5, 6, 9−11, 14, 16, 22 i 23 oraz działu VI, z wyłączeniem art. 281, art. 282a, art. 291 i art. 292, ustawy – Ordynacja podatkowa.
 
 #### Rozdział 6 Obowiązki organu
 
@@ -492,22 +473,22 @@ b) ust. 5 wprowadzenie do wyliczenia otrzymuje brzmienie: „Informacje, o któr
 - **3)** zastosowania się do ponownego wezwania, o którym mowa art. 75i ust. 2,
 - **4)** stosowania procedur należytej staranności, tym gromadzenia dokumentacji, określonych przepisach działu IIIA rozdziału 3,
 - **5)** powiadomienia Szefa Krajowej Administracji Skarbowej, o którym mowa art. 75t ust. 4,
-- **6)** jednorazowej rejestracji Rzeczypospolitej Polskiej zgodnie z art. 75u ust. 1 przypadku braku rejestracji innym wybranym państwie członkowskim,
+- **6)** jednorazowej rejestracji Rzeczypospolitej Polskiej zgodnie z art. 75u ust. 1 – przypadku braku rejestracji innym wybranym państwie członkowskim,
 - **7)** przekazania Szefowi Krajowej Administracji Skarbowej informacji, o których mowa art. 75zb ust. 8 lub art. 75zc ust. 1,
-- **8)** usunięcia terminie nieprawidłowości stwierdzonych wyniku kontroli, o którym mowa art. 75zb ust. 4 podlega karze pieniężnej.
+- **8)** usunięcia terminie nieprawidłowości stwierdzonych wyniku kontroli, o którym mowa art. 75zb ust. 4 – podlega karze pieniężnej.
+- **29)** art. 91:
+    - **a)** ust. 1 i 2 otrzymują brzmienie: „1. Karę pieniężną, o której mowa art. 89–90b, nakłada Szef Krajowej Administracji Skarbowej, drodze decyzji, wysokości nie większej niż 1 000 000 zł.
 
-2. Wyłączony operator platformy rozumieniu art. 75a ust. 1 pkt 23, który nie dopełnia obowiązku, o którym mowa art. 75b ust. 4, podlega karze pieniężnej.”;
-
-- **a)** ust. 1 i 2 otrzymują brzmienie: „1. Karę pieniężną, o której mowa art. 89–90b, nakłada Szef Krajowej Administracji Skarbowej, drodze decyzji, wysokości nie większej niż 1 000 000 zł.
-
-2. Ustalając wysokość kary pieniężnej, o której mowa art. 89–90b, Szef Krajowej Administracji Skarbowej uwzględnia rodzaj i zakres niedopełnienia obowiązku oraz dotychczasowe wykonywanie określonych ustawą obowiązków przez podmiot, na który jest nakładana kara pieniężna, a także wysokość jego całkowitego obrotu za rok obrotowy poprzedzający rok nałożenia kary, a przypadku podmiotu rozpoczynającego działalność okres od rozpoczęcia prowadzenia działalności gospodarczej do dnia wszczęcia postępowania o nałożenie kary pieniężnej.”,
+2. Ustalając wysokość kary pieniężnej, o której mowa art. 89–90b, Szef Krajowej Administracji Skarbowej uwzględnia rodzaj i zakres niedopełnienia obowiązku oraz dotychczasowe wykonywanie określonych ustawą obowiązków przez podmiot, na który jest nakładana kara pieniężna, a także wysokość jego całkowitego obrotu za rok obrotowy poprzedzający rok nałożenia kary, a przypadku podmiotu rozpoczynającego działalność – okres od rozpoczęcia prowadzenia działalności gospodarczej do dnia wszczęcia postępowania o nałożenie kary pieniężnej.”,
 
 - **b)** ust. 4 otrzymuje brzmienie: „4. Kara pieniężna, o której mowa art. 89–90b, stanowi dochód budżetu państwa.”,
 - **c)** ust. 6 otrzymuje brzmienie: „6. Kary pieniężne, o których mowa art. 89–90b, podlegają egzekucji trybie przepisów o postępowaniu egzekucyjnym administracji zakresie egzekucji obowiązków o charakterze pieniężnym.”.
 
-**Art. 2.** W ustawie z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2023 r. poz. 2383 i 2760) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2023 r. poz. 2383 i 2760) wprowadza się następujące zmiany:
 
-**Art. 4.** W ustawie z dnia 10 września 1999 r. Kodeks karny skarbowy (Dz. U. z 2024 r. poz. 628 i 850) po art. 80c dodaje się art. 80ca i art. 80cb brzmieniu: „Art. 80ca. § 1. Kto, działając imieniu lub interesie instytucji finansowej lub instytucji obowiązanej, wbrew przepisom ustawy z dnia 9 marca 2017 r. o wymianie informacji podatkowych z innymi państwami, nie dopełnia obowiązku udzielenia posiadanych informacji, o których mowa odpowiednio art. 4 ust. 1 lub 1a tej ustawy, lub udziela tych informacji niezgodnie z posiadanymi danymi, podlega karze grzywny do 180 stawek dziennych.
+**Art. 3.** W ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2023 r. poz. 2488) art. 105 ust. 1 pkt 2 po lit. e dodaje się lit. ea brzmieniu: „ea) ministra właściwego do spraw finansów publicznych i Szefa Krajowej Administracji Skarbowej zakresie określonym przepisach ustawy z dnia 9 marca 2017 r. o wymianie informacji podatkowych z innymi państwami (Dz. U. z 2023 r. poz. 241 oraz z 2024 r. poz. 879),”.
+
+**Art. 4.** W ustawie z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. z 2024 r. poz. 628 i 850) po art. 80c dodaje się art. 80ca i art. 80cb brzmieniu: „Art. 80ca. § 1. Kto, działając imieniu lub interesie instytucji finansowej lub instytucji obowiązanej, wbrew przepisom ustawy z dnia 9 marca 2017 r. o wymianie informacji podatkowych z innymi państwami, nie dopełnia obowiązku udzielenia posiadanych informacji, o których mowa odpowiednio art. 4 ust. 1 lub 1a tej ustawy, lub udziela tych informacji niezgodnie z posiadanymi danymi, podlega karze grzywny do 180 stawek dziennych.
 
 **Art. 5.** W ustawie z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z 2024 r. poz. 512) art. 9f ust. 1 po pkt 5ca dodaje się pkt 5cb brzmieniu: „5cb) ministrowi właściwemu do spraw finansów publicznych i Szefowi Krajowej Administracji Skarbowej zakresie określonym przepisach ustawy z dnia 9 marca 2017 r. o wymianie informacji podatkowych z innymi państwami (Dz. U. z 2023 r. poz. 241 oraz z 2024 r. poz. 879);”.
 
@@ -521,13 +502,15 @@ b) ust. 5 wprowadzenie do wyliczenia otrzymuje brzmienie: „Informacje, o któr
 
 1. Przepisy działu IIIA i działu VI ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, oraz art. 80cb ustawy zmienianej art. 4 stosuje się również do podmiotu, który dowolnym momencie okresie od dnia 1 stycznia 2023 r. do dnia poprzedzającego dzień wejścia życie niniejszej ustawy spełniał warunki uznania go za raportującego operatora platformy rozumieniu art. 75a ust. 1 pkt 14 ustawy zmienianej art. 1, przy czym taki raportujący operator platformy jest obowiązany dopełnić:
 
-- **1)** do dnia 31 grudnia 2024 r. procedur określonych dziale IIIA rozdziale 3 ustawy zmienianej art. 1 przypadku sprzedawców, którzy tym okresie byli zarejestrowani na platformie;
-- **2)** do dnia 31 stycznia 2025 r. procedur określonych dziale IIIA rozdziale 2 ustawy zmienianej art. 1 przypadku czynności, których wykonanie umożliwił tym okresie sprzedawcom podlegającym raportowaniu zidentyfikowanym zgodnie z pkt 1;
-- **3)** do dnia 31 grudnia 2024 r. obowiązku jednorazowej rejestracji albo powiadomienia o dokonanym wyborze innego niż Rzeczpospolita Polska państwa członkowskiego, o którym mowa odpowiednio art. 75u ust. 1 i 2 oraz art. 75t ust. 4 ustawy zmienianej art. 1 przypadku gdy termin określony odpowiednio art. 75u ust. 1 i 2 oraz art. 75t ust. 5 upłynął przed dniem wejścia życie niniejszej ustawy.
+- **1)** do dnia 31 grudnia 2024 r. procedur określonych dziale IIIA rozdziale 3 ustawy zmienianej art. 1 – przypadku sprzedawców, którzy tym okresie byli zarejestrowani na platformie;
+- **2)** do dnia 31 stycznia 2025 r. procedur określonych dziale IIIA rozdziale 2 ustawy zmienianej art. 1 – przypadku czynności, których wykonanie umożliwił tym okresie sprzedawcom podlegającym raportowaniu zidentyfikowanym zgodnie z pkt 1;
+- **3)** do dnia 31 grudnia 2024 r. obowiązku jednorazowej rejestracji albo powiadomienia o dokonanym wyborze innego niż Rzeczpospolita Polska państwa członkowskiego, o którym mowa odpowiednio art. 75u ust. 1 i 2 oraz art. 75t ust. 4 ustawy zmienianej art. 1 – przypadku gdy termin określony odpowiednio art. 75u ust. 1 i 2 oraz art. 75t ust. 5 upłynął przed dniem wejścia życie niniejszej ustawy.
 
 2. W przypadku, o którym mowa ust. 1, przepisów art. 75o ust. 5 i 6 ustawy zmienianej art. 1 nie stosuje się.
 
-3. Nie podlega karze pieniężnej, o której mowa art. 90b ust. 1 pkt 1 i 2 ustawy zmienianej art. 1, raportujący operator platformy rozumieniu art. 75a ust. 1 pkt 14 tej ustawy, posiadający dowody na to, że bezskutecznie wystąpił ponownie o informacje zgodnie z art. 75o ust. 4 tej ustawy lub że wystąpienie do sprzedawcy nie było możliwe, przypadku czynności, których wykonanie umożliwił temu sprzedawcy okresie od dnia 1 stycznia 2023 r. do dnia poprzedzającego dzień wejścia życie niniejszej ustawy. W takim przypadku nie wszczyna się postępowania sprawach o przestępstwa skarbowe lub wykroczenia skarbowe. łalność jako operator platformy przed dniem wejścia życie niniejszej ustawy, realizuje obowiązek, o którym mowa art. 75b ust. 4 ustawy zmienianej art. 1, terminie do dnia 31 grudnia 2024 r. Obowiązek, o którym mowa art. 75b ust. 4 ustawy zmienianej art. 1, wykonywany po zakończeniu okresu sprawozdawczego, wyłączony operator platformy rozumieniu art. 75a ust. 1 pkt 23 ustawy zmienianej art. 1 jest obowiązany po raz pierwszy spełnić terminie do dnia 31 stycznia 2025 r.
+3. Nie podlega karze pieniężnej, o której mowa art. 90b ust. 1 pkt 1 i 2 ustawy zmienianej art. 1, raportujący operator platformy rozumieniu art. 75a ust. 1 pkt 14 tej ustawy, posiadający dowody na to, że bezskutecznie wystąpił ponownie których wykonanie umożliwił temu sprzedawcy okresie od dnia 1 stycznia 2023 r. do dnia poprzedzającego dzień wejścia życie niniejszej ustawy. W takim przypadku nie wszczyna się postępowania sprawach o przestępstwa skarbowe lub wykroczenia skarbowe.
+
+4. Jeżeli wyłączony operator platformy rozumieniu art. 75a ust. 1 pkt 23 ustawy zmienianej art. 1 rozpoczął działalność jako operator platformy przed dniem wejścia życie niniejszej ustawy, realizuje obowiązek, o którym mowa art. 75b ust. 4 ustawy zmienianej art. 1, terminie do dnia 31 grudnia 2024 r. Obowiązek, o którym mowa art. 75b ust. 4 ustawy zmienianej art. 1, wykonywany po zakończeniu okresu sprawozdawczego, wyłączony operator platformy rozumieniu art. 75a ust. 1 pkt 23 ustawy zmienianej art. 1 jest obowiązany po raz pierwszy spełnić terminie do dnia 31 stycznia 2025 r.
 
 **Art. 10.**
 
@@ -560,7 +543,9 @@ b) ust. 5 wprowadzenie do wyliczenia otrzymuje brzmienie: „Informacje, o któr
 
 **Art. 19.** Do czasu uzyskania zdolności operacyjnej przez bazę danych, o której mowa art. 21 ust. 5 dyrektywy Rady 2011/16/UE z dnia 15 lutego 2011 r. sprawie współpracy administracyjnej dziedzinie opodatkowania i uchylającej dyrektywę 77/799/EWG (Dz. Urz. UE L 64 z 11.03.2011, str. 1, z późn. zm. ), Szef Krajowej Administracji Skarbowej przekazuje co roku Komisji Europejskiej statystyki dotyczące automatycznej wymiany informacji przekazywanych przez operatorów platform rozumieniu art. 75a ust. 1 pkt 10 ustawy zmienianej art. 1.
 
-**Art. 20.** Do dnia wejścia życie art. 75b ust. 5 i art. 75u ust. 10 ustawy zmienianej art. 1 informacja o sprzedawcach, o której mowa art. 75b ust. 1 ustawy zmienianej art. 1, i formularz rejestracyjny, o którym mowa art. 75u ust. 1 ustawy zmienianej art. 1, są przesyłane sposób określony przepisach wydanych na podstawie art. 193a § 3 ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2023 r. poz. 2383 i 2760) i zgodnie z wymaganiami określonymi tych przepisach.
+**Art. 20.** Do dnia wejścia życie art. 75b ust. 5 i art. 75u ust. 10 ustawy zmienianej art. 1 informacja o sprzedawcach, o której mowa art. 75b ust. 1 ustawy zmienianej art. 1, i formularz rejestracyjny, o którym mowa art. 75u ust. 1 ustawy zmienianej art. 1, są przesyłane sposób określony przepisach wydanych na podstawie art. 193a § 3 ustawy
 
 **Art. 21.** Do wystąpień obcych władz o przeprowadzenie kontroli jednoczesnej, otrzymanych przed dniem wejścia życie niniejszej ustawy, stosuje się przepisy art. 291a § 3 ustawy zmienianej art. 2, brzmieniu dotychczasowym, oraz art. 88 ust. 3 ustawy zmienianej art. 7, brzmieniu dotychczasowym.
+
+**Art. 22.** Ustawa wchodzi życie z dniem 1 lipca 2024 r., z wyjątkiem:
 

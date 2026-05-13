@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 26 czerwca 2025 r.
+# o Krajowym Zasobie Nieruchomości Mając na względzie wynikający z art. 75 Konstytucji Rzeczypospolitej Polskiej obowiązek prowadzenia przez władze publiczne polityki sprzyjającej zaspokojeniu potrzeb mieszkaniowych obywateli oraz wynikający z art. 5 Konstytucji Rzeczypospolitej Polskiej obowiązek kierowania się zasadą zrównoważonego rozwoju, a także zadania władz publicznych realizowane w szczególności przez wprowadzanie instrumentów zwiększających dostępność mieszkań i kształtowanie stabilnych ram finansowania budownictwa mieszkaniowego, uchwala się niniejszą ustawę.
+
+*USTAWA z dnia 20 lipca 2017 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,23 +26,7 @@ domain: null
 | Ostatnia zmiana | 2026-04-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000834) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/834/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 13 czerwca 2025 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o Krajowym Zasobie Nieruchomości
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 20 lipca 2017 r. o Krajowym Zasobie Nieruchomości (Dz. U. z 2024 r. poz. 1026), z uwzględnieniem zmian wprowadzonych:
-1) ustawą z dnia 7 lipca 2023 r. o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym oraz niektórych innych ustaw (Dz. U. poz. 1688, z 2024 r. poz. 1824 oraz z 2025 r. poz. 527),
-2) ustawą z dnia 28 czerwca 2024 r. o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw (Dz. U.
-poz. 1089),
-3) ustawą z dnia 20 grudnia 2024 r. o Radzie Fiskalnej (Dz. U. z 2025 r. poz. 39),
-4) ustawą z dnia 9 maja 2025 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (Dz. U. poz. 680) oraz zmian wynikających z przepisów ogłoszonych przed dniem 11 czerwca 2025 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 78 ustawy z dnia 7 lipca 2023 r. o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym oraz niektórych innych ustaw (Dz. U. poz. 1688, z 2024 r. poz. 1824 oraz z 2025 r. poz. 527), który stanowi: „Art. 78. Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem:
-1) (uchylony);
-2) art. 1 pkt 60 i art. 62, które wchodzą w życie z dniem 1 stycznia 2026 r.;
-3) art. 1 pkt 10 w zakresie art. 8f i art. 8g ust. 3 i 4, pkt 12 w zakresie art. 13b pkt 1 i art. 13i ust. 3 pkt 4, 7 i 11, pkt 17 lit. d, g i lit. k w zakresie pkt 13c, pkt 25 w zakresie art. 27b ust. 4 pkt 3 i 7, pkt 29 lit. b, pkt 38 lit. b tiret drugie, tiret trzecie w zakresie pkt 7b i tiret piąte w zakresie pkt 11, pkt 39 w zakresie art. 37eb ust. 4 pkt 1 i art. 37ec ust. 2 pkt 3 i 8, pkt 45 lit. a tiret drugie i trzecie oraz tiret szóste w zakresie pkt 7, pkt 47 lit. a tiret czwarte i szóste, pkt 53, pkt 62 lit. b, lit. e w zakresie ust. 3b i lit. f, pkt 63 i 64, art. 6 pkt 1 lit. a i b, art. 11–13, art. 14 pkt 2 lit. b, art. 16 pkt 3, art. 22 pkt 1 i 3, art. 27 pkt 4–9, art. 37 pkt 2 lit. d w zakresie ust. 8 i 9, art. 39 pkt 2, art. 41 pkt 1 w zakresie pkt 4a, art. 43 pkt 1, 3, 5 i 10, pkt 11 lit. b i pkt 13 lit. a w zakresie ust. 1, art. 54, art. 56 ust. 2, art. 67 ust. 3 pkt 3 i art. 75–77, które wchodzą w życie z dniem 1 lipca 2026 r.”;
-2) art. 32 ust. 2 i art. 44 ustawy z dnia 28 czerwca 2024 r. o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw (Dz. U. poz. 1089), które stanowią:
 Art. 112–128. (pominięte)
-
-**Art. 32.** „2. Przepis art. 43 ust. 1 ustawy zmienianej w art. 18, w brzmieniu nadanym niniejszą ustawą, stosuje się po raz pierwszy do projektu planu finansowego i planu finansowego Krajowego Zasobu Nieruchomości na rok 2025.” „Art. 44. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem art. 8 pkt 3 i 4 oraz art. 16 pkt 2, które wchodzą w życie z dniem 1 stycznia 2025 r.”;
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -52,7 +38,7 @@ Art. 112–128. (pominięte)
 - **2)** gospodarowania nieruchomościami wchodzącymi w skład Zasobu Nieruchomości, zwanego dalej „Zasobem”;
 - **3)** kwalifikowania i przekazywania nieruchomości do Zasobu, które stanowią przedmiot:
     - **a)** własności Skarbu Państwa, w tym powierzonych Krajowemu Ośrodkowi Wsparcia Rolnictwa oraz Agencji Mienia Wojskowego i nie zostały oddane w użytkowanie wieczyste,
-    - **b)** użytkowania wieczystego Skarbu Państwa którymi gospodarują właściwe organy,
+    - **b)** użytkowania wieczystego Skarbu Państwa – którymi gospodarują właściwe organy,
     - **c)** własności spółek Skarbu Państwa,
     - **d)** własności Skarbu Państwa i są przedmiotem użytkowania wieczystego spółek Skarbu Państwa.
 
@@ -72,31 +58,31 @@ Art. 112–128. (pominięte)
 
 4. KZN jest obowiązany do gospodarowania nieruchomościami wchodzącymi w skład Zasobu z zachowaniem szczególnej staranności oraz zgodnie z zasadami prawidłowej gospodarki.
 
-5. W celu realizacji zadań określonych w art. 5 ust. 1 KZN uprawniony jest do bezpłatnego wykorzystywania danych zgromadzonych w systemie ewidencji gruntów i budynków, o którym mowa w ustawie z dnia 17 maja 1989 r. Prawo geodezyjne i kartograficzne (Dz. U. z 2024 r. poz. 1151 i 1824), oraz danych znajdujących się w zasobach Agencji Restrukturyzacji i Modernizacji Rolnictwa.
+5. W celu realizacji zadań określonych w art. 5 ust. 1 KZN uprawniony jest do bezpłatnego wykorzystywania danych zgromadzonych w systemie ewidencji gruntów i budynków, o którym mowa w ustawie z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2024 r. poz. 1151 i 1824), oraz danych znajdujących się w zasobach Agencji Restrukturyzacji i Modernizacji Rolnictwa.
 
 **Art. 3.**
 
 1. Użyte w ustawie określenia oznaczają:
 
-- **1)** (uchylony) 1a) cena nieruchomości cenę nieruchomości ustaloną na podstawie wartości rynkowej określonej w operacie szacunkowym sporządzonym przez rzeczoznawcę majątkowego;
-- **2)** inwestycja mieszkaniowa przedsięwzięcie, w wyniku którego powstanie budynek mieszkalny, w którym zostanie wyodrębnione przynajmniej jedno mieszkanie;
-- **3)** mieszkanie samodzielny lokal mieszkalny w rozumieniu art. 2 ust. 2 zdanie pierwsze ustawy z dnia 24 czerwca 1994 r. o własności lokali (Dz. U. z 2021 r. poz. 1048 oraz z 2023 r. poz. 1688), znajdujący się w budynku mieszkalnym wielorodzinnym lub budynku mieszkalnym jednorodzinnym, albo budynek mieszkalny jednorodzinny w rozumieniu art. 3 pkt 2a ustawy z dnia 7 lipca 1994 r. Prawo budowlane (Dz. U. z 2025 r. poz. 418), w którym nie wydzielono lokali mieszkalnych;
-- **4)** mieszkanie na wynajem mieszkanie zrealizowane na nieruchomości pochodzącej z Zasobu, przeznaczone na wynajem na podstawie umowy najmu instytucjonalnego lub najmu instytucjonalnego z dojściem do własności;
+- **1)** (uchylony) 1a) cena nieruchomości – cenę nieruchomości ustaloną na podstawie wartości rynkowej określonej w operacie szacunkowym sporządzonym przez rzeczoznawcę majątkowego;
+- **2)** inwestycja mieszkaniowa – przedsięwzięcie, w wyniku którego powstanie budynek mieszkalny, w którym zostanie wyodrębnione przynajmniej jedno mieszkanie;
+- **3)** mieszkanie – samodzielny lokal mieszkalny w rozumieniu art. 2 ust. 2 zdanie pierwsze ustawy z dnia 24 czerwca 1994 r. o własności lokali (Dz. U. z 2021 r. poz. 1048 oraz z 2023 r. poz. 1688), znajdujący się w budynku mieszkalnym wielorodzinnym lub budynku mieszkalnym jednorodzinnym, albo budynek mieszkalny jednorodzinny w rozumieniu art. 3 pkt 2a ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2025 r. poz. 418), w którym nie wydzielono lokali mieszkalnych;
+- **4)** mieszkanie na wynajem – mieszkanie zrealizowane na nieruchomości pochodzącej z Zasobu, przeznaczone na wynajem na podstawie umowy najmu instytucjonalnego lub najmu instytucjonalnego z dojściem do własności albo będące przedmiotem spółdzielczego lokatorskiego prawa do lokalu mieszkalnego;
 - **5)** (uchylony)
 - **6)** (uchylony)
 - **7)** (uchylony)
 - **8)** (uchylony)
 - **9)** (uchylony)
 - **10)** (uchylony)
-- **11)** realizacja uzbrojenia technicznego budowę, przebudowę, rozbiórkę lub remont:
-    - **a)** sieci uzbrojenia terenu, w rozumieniu art. 2 pkt 11 ustawy z dnia 17 maja 1989 r. Prawo geodezyjne i kartograficzne, w tym przyłączy,
+- **11)** realizacja uzbrojenia technicznego – budowę, przebudowę, rozbiórkę lub remont:
+    - **a)** sieci uzbrojenia terenu, w rozumieniu art. 2 pkt 11 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne, w tym przyłączy,
     - **b)** dróg i zjazdów w celu zapewnienia dostępu do drogi publicznej;
 
-- **11a)** spółka Skarbu Państwa spółkę z ograniczoną odpowiedzialnością albo spółkę akcyjną, której wszystkie udziały albo akcje należą do:
+- **11a)** spółka Skarbu Państwa – spółkę z ograniczoną odpowiedzialnością albo spółkę akcyjną, której wszystkie udziały albo akcje należą do:
     - **a)** Skarbu Państwa lub
     - **b)** spółki z ograniczoną odpowiedzialnością albo spółki akcyjnej, której wszystkie udziały albo akcje należą do Skarbu Państwa;
 
-- **12)** właściwy organ starostę wykonującego zadania z zakresu administracji rządowej, prezydenta miasta na prawach powiatu wykonującego zadania z zakresu administracji rządowej, Dyrektora Generalnego Krajowego Ośrodka Wsparcia Rolnictwa lub Prezesa Agencji Mienia Wojskowego.
+- **12)** właściwy organ – starostę wykonującego zadania z zakresu administracji rządowej, prezydenta miasta na prawach powiatu wykonującego zadania z zakresu administracji rządowej, Dyrektora Generalnego Krajowego Ośrodka Wsparcia Rolnictwa lub Prezesa Agencji Mienia Wojskowego.
 
 2. (uchylony)
 
@@ -152,7 +138,7 @@ Art. 112–128. (pominięte)
 - **3)** z jednostką samorządu terytorialnego,
 - **4)** (uchylony)
 - **5)** ze spółkami z większościowym udziałem państwowych osób prawnych,
-- **6)** z funduszem inwestycyjnym, którego portfelem inwestycyjnym zarządza podmiot, o którym mowa w pkt 2 lub 5 wnosząc nieruchomość wchodzącą w skład Zasobu jako aport.
+- **6)** z funduszem inwestycyjnym, którego portfelem inwestycyjnym zarządza podmiot, o którym mowa w pkt 2 lub 5 – wnosząc nieruchomość wchodzącą w skład Zasobu jako aport.
 
 2. Do czasu zrealizowania celu spółki celowej wyłącznymi udziałowcami, akcjonariuszami lub wspólnikami mogą być wyłącznie podmioty, o których mowa w ust. 1.
 
@@ -197,21 +183,23 @@ Art. 112–128. (pominięte)
 - **1)** położeniu i oznaczeniu nieruchomości według ewidencji gruntów i budynków;
 - **2)** numerze księgi wieczystej, o ile jest założona;
 - **3)** powierzchni nieruchomości według ewidencji gruntów i budynków;
-- **4)** przeznaczeniu nieruchomości ustalonym w miejscowym planie zagospodarowania przestrzennego, a w razie jego braku w profilu funkcjonalnym strefy planistycznej obejmującej nieruchomość w planie ogólnym gminy;
-- **4a)** podjętych uchwałach na podstawie ustawy z dnia 5 lipca 2018 r. o ułatwieniach w przygotowaniu i realizacji inwestycji mieszkaniowych oraz inwestycji towarzyszących (Dz. U. z 2024 r. poz. 195 oraz z 2025 r. poz. 527) oraz wydanych decyzjach o warunkach zabudowy i zagospodarowania terenu;
-- **4a)** wydanych decyzjach o warunkach zabudowy i zagospodarowania terenu;
-- **5)** stanie prawnym nieruchomości, w szczególności o:
+- **4)** przeznaczeniu nieruchomości ustalonym w miejscowym planie zagospodarowania przestrzennego, a w razie jego braku – w profilu funkcjonalnym strefy planistycznej obejmującej nieruchomość w planie ogólnym gminy; [4a) podjętych uchwałach na podstawie ustawy z dnia 5 lipca 2018 r. o ułatwieniach w przygotowaniu i realizacji inwestycji mieszkaniowych oraz inwestycji towarzyszących (Dz. U. z 2024 r. poz. 195 oraz z 2025 r. poz. 527) oraz wydanych decyzjach o warunkach zabudowy i zagospodarowania terenu;] <4a) wydanych decyzjach o warunkach zabudowy i zagospodarowania terenu;>
+- **5)** stanie prawnym nieruchomości, w szczególności o: z 2024 r. poz. 1112, 1881 i 1940), – ustawy z dnia 12 lutego 2009 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie lotnisk użytku publicznego (Dz. U. z 2024 r. poz. 1464) i dotyczących zezwolenia na realizację inwestycji w zakresie lotniska użytku publicznego, – ustawy z dnia 24 kwietnia 2009 r. o inwestycjach w zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu (Dz. U. z 2024 r. poz. 1286 i 1881) i dotyczących lokalizacji inwestycji w zakresie terminalu oraz inwestycji towarzyszącej, – ustawy z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych (Dz. U. z 2025 r. poz. 311) i dotyczących lokalizacji regionalnej sieci szerokopasmowej, – ustawy z dnia 8 lipca 2010 r. o szczególnych zasadach przygotowania do realizacji inwestycji w zakresie budowli przeciwpowodziowych (Dz. U. z 2024 r. poz. 274 oraz z 2025 r. poz. 680) i dotyczących pozwolenia na realizację takich inwestycji, – ustawy z dnia 29 czerwca 2011 r. o przygotowaniu i realizacji inwestycji w zakresie obiektów energetyki jądrowej oraz inwestycji towarzyszących (Dz. U. z 2024 r. poz. 1410 i 1572 oraz z 2025 r. poz.
     - **a)** ograniczonych prawach rzeczowych ustanowionych na nieruchomości, w tym hipotekach,
     - **b)** użytkowaniu wieczystym,
     - **c)** umowach i porozumieniach dotyczących nieruchomości lub jej części, w tym umowach zawartych przez właściwy organ,
     - **d)** zgłoszonych roszczeniach wobec nieruchomości lub jej części, w których właściwy organ reprezentuje Skarb Państwa jako stronę lub jest świadkiem, lub posiada o nich informacje,
-    - **e)** toczących się, dotyczących nieruchomości lub sytuowanych na nich obiektów budowlanych, postępowaniach administracyjnych, w tym prowadzonych na podstawie przepisów: ustawy z dnia 7 lipca 1994 r. Prawo budowlane, ustawy z dnia 10 kwietnia 2003 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg publicznych (Dz. U. z 2024 r. poz. 311) i dotyczących zezwolenia na realizację inwestycji drogowej, ustawy z dnia 28 marca 2003 r. o transporcie kolejowym i dotyczących lokalizacji linii kolejowej, ustawy z dnia 7 września 2007 r. o przygotowaniu finałowego turnieju Mistrzostw Europy w Piłce Nożnej UEFA EURO 2012 (Dz. U. z 2020 r. poz. 2008) i dotyczących lokalizacji przedsięwzięć Euro 2012, ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2024 r. poz. 1112, 1881 i 1940), ustawy z dnia 12 lutego 2009 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie lotnisk użytku publicznego (Dz. U. z 2024 r. poz. 1464) i dotyczących zezwolenia na realizację inwestycji w zakresie lotniska użytku publicznego, ustawy z dnia 24 kwietnia 2009 r. o inwestycjach w zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu (Dz. U. z 2024 r. poz. 1286 i 1881) i dotyczących lokalizacji inwestycji w zakresie terminalu oraz inwestycji towarzyszącej, ustawy z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych (Dz. U. z 2025 r. poz. 311) i dotyczących lokalizacji regionalnej sieci szerokopasmowej, ustawy z dnia 8 lipca 2010 r. o szczególnych zasadach przygotowania do realizacji inwestycji w zakresie budowli przeciwpowodziowych (Dz. U. z 2024 r. poz. 274 oraz z 2025 r. poz. 680) i dotyczących pozwolenia na realizację takich inwestycji, ustawy z dnia 29 czerwca 2011 r. o przygotowaniu i realizacji inwestycji w zakresie obiektów energetyki jądrowej oraz inwestycji towarzyszących (Dz. U. z 2024 r. poz. 1410 i 1572 oraz z 2025 r. poz. 393) i dotyczących lokalizacji inwestycji w zakresie budowy obiektu energetyki jądrowej oraz inwestycji towarzyszącej, ustawy z dnia 24 lipca 2015 r. o przygotowaniu i realizacji strategicznych inwestycji w zakresie sieci przesyłowych (Dz. U. z 2024 r. poz. 1199) i dotyczących lokalizacji lub realizacji inwestycji w zakresie strategicznych inwestycji w zakresie sieci przesyłowych, ustawy z dnia 24 lutego 2017 r. o inwestycjach w zakresie budowy drogi wodnej łączącej Zalew Wiślany z Zatoką Gdańską (Dz. U. z 2024 r. poz. 285) i realizacji inwestycji w zakresie budowy tej drogi wodnej, ustawy z dnia 7 kwietnia 2017 r. o inwestycjach w zakresie budowy lub przebudowy toru wodnego Świnoujście Szczecin do głębokości 12,5 metra (Dz. U. poz. 990) i realizacji inwestycji w zakresie toru wodnego Świnoujście Szczecin, ustawy z dnia 11 sierpnia 2021 r. o przygotowaniu i realizacji inwestycji w zakresie odbudowy Pałacu Saskiego, Pałacu Brühla oraz kamienic przy ulicy Królewskiej w Warszawie (Dz. U. z 2024 r. poz. 578), ustawy z dnia 5 lipca 2018 r. o ułatwieniach w przygotowaniu i realizacji inwestycji mieszkaniowych oraz inwestycji towarzyszących, ustawy z dnia 22 lutego 2019 r. o przygotowaniu i realizacji strategicznych inwestycji w sektorze naftowym (Dz. U. z 2024 r. poz. 1839),
+    - **e)** toczących się, dotyczących nieruchomości lub sytuowanych na nich obiektów budowlanych, postępowaniach administracyjnych, w tym prowadzonych na podstawie przepisów: – ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, – ustawy z dnia 10 kwietnia 2003 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg publicznych (Dz. U. z 2024 r. poz. 311) i dotyczących zezwolenia na realizację inwestycji drogowej, – ustawy z dnia 28 marca 2003 r. o transporcie kolejowym i dotyczących lokalizacji linii kolejowej, – ustawy z dnia 7 września 2007 r. o przygotowaniu finałowego turnieju Mistrzostw Europy w Piłce Nożnej UEFA EURO 2012 (Dz. U. z 2020 r. poz. 2008) i dotyczących lokalizacji przedsięwzięć Euro 2012, – ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U.
+
+- **393)** i dotyczących lokalizacji inwestycji w zakresie budowy obiektu energetyki jądrowej oraz inwestycji towarzyszącej, – ustawy z dnia 24 lipca 2015 r. o przygotowaniu i realizacji strategicznych inwestycji w zakresie sieci przesyłowych (Dz. U. z 2024 r. poz. 1199) i dotyczących lokalizacji lub realizacji inwestycji w zakresie strategicznych inwestycji w zakresie sieci przesyłowych, – ustawy z dnia 24 lutego 2017 r. o inwestycjach w zakresie budowy drogi wodnej łączącej Zalew Wiślany z Zatoką Gdańską (Dz. U. z 2024 r. poz. 285) i realizacji inwestycji w zakresie budowy tej drogi wodnej, – ustawy z dnia 7 kwietnia 2017 r. o inwestycjach w zakresie budowy lub przebudowy toru wodnego Świnoujście – Szczecin do głębokości 12,5 metra (Dz. U. poz. 990) i realizacji inwestycji w zakresie toru wodnego Świnoujście – Szczecin, – ustawy z dnia 11 sierpnia 2021 r. o przygotowaniu i realizacji inwestycji w zakresie odbudowy Pałacu Saskiego, Pałacu Brühla oraz kamienic przy ulicy Królewskiej w Warszawie (Dz. U. z 2024 r. poz.
+- **578)** , – ustawy z dnia 5 lipca 2018 r. o ułatwieniach w przygotowaniu i realizacji inwestycji mieszkaniowych oraz inwestycji towarzyszących, – ustawy z dnia 22 lutego 2019 r. o przygotowaniu i realizacji strategicznych inwestycji w sektorze naftowym (Dz. U. z 2024 r. poz.
+- **1839)** ,
     - **f)** toczących się, dotyczących nieruchomości lub sytuowanych na nich obiektów budowlanych, postępowaniach sądowych, w których właściwy organ reprezentuje Skarb Państwa jako stronę lub jest świadkiem, lub posiada o nich informacje,
     - **g)** podstawie prawnej nabycia nieruchomości, o ile jest znana;
 
 - **6)** dotychczasowym sposobie zagospodarowania nieruchomości, w tym informacje, czy nieruchomość jest wykorzystywana na cele publiczne, wraz ze wskazaniem tych celów;
 - **7)** ograniczeniach w korzystaniu z nieruchomości wynikających z przepisów prawa lub rozstrzygnięć i decyzji;
-- **8)** wydanych pozwoleniach na budowę, pozwoleniach na rozbiórkę oraz decyzjach o zatwierdzeniu projektu budowlanego albo projektu zagospodarowania działki lub terenu lub projektu architektoniczno-budowlanego, obejmujących całość lub część nieruchomości oraz zgłoszeń dotyczących wolno stojących budynków mieszkalnych jednorodzinnych, sieci oraz kontenerowych stacji transformatorowych, o których mowa odpowiednio w art. 29 ust. 1 pkt 1, 2 oraz 3 ustawy z dnia 7 lipca 1994 r. Prawo budowlane;
+- **8)** wydanych pozwoleniach na budowę, pozwoleniach na rozbiórkę oraz decyzjach o zatwierdzeniu projektu budowlanego albo projektu zagospodarowania działki lub terenu lub projektu architektoniczno-budowlanego, obejmujących całość lub część nieruchomości oraz zgłoszeń dotyczących wolno stojących budynków mieszkalnych jednorodzinnych, sieci oraz kontenerowych stacji transformatorowych, o których mowa odpowiednio w art. 29 ust. 1 pkt 1, 2 oraz 3 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane;
 - **9)** budowlach lub budynkach znajdujących się na tej nieruchomości, w szczególności budynkach, w których wyodrębniono lokale mieszkalne.
 
 3. Wykazy nieruchomości, o których mowa w ust. 1, zawierają również informacje o tym, czy nieruchomość:
@@ -223,7 +211,7 @@ Art. 112–128. (pominięte)
 - **5)** jest położona:
     - **a)** na obszarach szczególnego zagrożenia powodzią,
     - **b)** na terenach osuwisk oraz terenach zagrożonych ruchami masowymi ziemi,
-    - **c)** w odległości od elektrowni wiatrowej, innej niż mikroinstalacja odnawialnego źródła energii, mniejszej niż dziesięciokrotność całkowitej wysokości tej elektrowni, w rozumieniu przepisów dotyczących lokalizacji i realizacji elektrowni wiatrowych,
+    - **c)** w odległości od elektrowni wiatrowej, innej niż mikroinstalacja odnawialnego źródła energii, mniejszej niż dziesięcio-krotność całkowitej wysokości tej elektrowni, w rozumieniu przepisów dotyczących lokalizacji i realizacji elektrowni wiatrowych,
     - **d)** na obszarze parku narodowego, rezerwatu przyrody, parku krajobrazowego, na obszarze chronionego krajobrazu lub na terenie obszaru Natura 2000,
     - **e)** na obszarze rewitalizacji lub w jego sąsiedztwie,
     - **f)** na terenie specjalnej strefy ekonomicznej lub w jej sąsiedztwie,
@@ -258,10 +246,10 @@ Art. 112–128. (pominięte)
 
 1. W przypadku przedstawienia stanowiska, o którym mowa w art. 11, przed przekazaniem do Zasobu Prezes KZN występuje z wnioskiem o sporządzenie opinii do:
 
-- **1)** ministra właściwego do spraw rozwoju wsi w odniesieniu do nieruchomości powierzonej Krajowemu Ośrodkowi Wsparcia Rolnictwa;
-- **2)** Ministra Obrony Narodowej w odniesieniu do nieruchomości powierzonej Agencji Mienia Wojskowego;
-- **3)** podmiotu uprawnionego do wykonywania praw z udziałów albo akcji należących do Skarbu Państwa w jednoosobowej spółce Skarbu Państwa albo spółce, w której wszystkie udziały albo akcje należą do Skarbu Państwa i jednoosobowej spółki Skarbu Państwa w odniesieniu do nieruchomości oznaczonej w wykazie nieruchomości, o którym mowa w art. 10, sporządzonym przez jednoosobową spółkę Skarbu Państwa albo spółkę, w której wszystkie udziały albo akcje należą do Skarbu Państwa i jednoosobowej spółki Skarbu Państwa;
-- **4)** podmiotu uprawnionego do wykonywania praw z udziałów albo akcji należących do Skarbu Państwa w jednoosobowej spółce Skarbu Państwa w odniesieniu do nieruchomości oznaczonej w wykazie nieruchomości, o którym mowa w art. 10, sporządzonym przez spółkę, w której wszystkie udziały albo akcje należą do jednoosobowej spółki Skarbu Państwa.
+- **1)** ministra właściwego do spraw rozwoju wsi – w odniesieniu do nieruchomości powierzonej Krajowemu Ośrodkowi Wsparcia Rolnictwa;
+- **2)** Ministra Obrony Narodowej – w odniesieniu do nieruchomości powierzonej Agencji Mienia Wojskowego;
+- **3)** podmiotu uprawnionego do wykonywania praw z udziałów albo akcji należących do Skarbu Państwa w jednoosobowej spółce Skarbu Państwa albo spółce, w której wszystkie udziały albo akcje należą do Skarbu Państwa i jednoosobowej spółki Skarbu Państwa – w odniesieniu do nieruchomości oznaczonej w wykazie nieruchomości, o którym mowa w art. 10, sporządzonym przez jednoosobową spółkę Skarbu Państwa albo spółkę, w której wszystkie udziały albo akcje należą do Skarbu Państwa i jednoosobowej spółki Skarbu Państwa;
+- **4)** podmiotu uprawnionego do wykonywania praw z udziałów albo akcji należących do Skarbu Państwa w jednoosobowej spółce Skarbu Państwa – w odniesieniu do nieruchomości oznaczonej w wykazie nieruchomości, o którym mowa w art. 10, sporządzonym przez spółkę, w której wszystkie udziały albo akcje należą do jednoosobowej spółki Skarbu Państwa.
 
 2. Podmioty, o których mowa w ust. 1 pkt 3 i 4, sporządzają opinie, o których mowa w ust. 1, w formie przewidzianej w przepisach określających ich funkcjonowanie.
 
@@ -283,7 +271,7 @@ Art. 112–128. (pominięte)
 
 **Art. 13a.** W odniesieniu do nieruchomości, o których mowa w art. 11, którymi gospodaruje starosta, Prezes KZN występuje do wojewody właściwego ze względu na miejsce położenia nieruchomości, zwanego dalej „wojewodą”, z wnioskiem o rozstrzygnięcie sprawy przekazania nieruchomości do Zasobu. Rozstrzygnięcie wojewody przekazywane jest Prezesowi KZN oraz właściwemu organowi. W przypadku rozstrzygnięcia nakazującego przekazanie nieruchomości, KZN sporządza protokół zdawczo-odbiorczy, który stanowi podstawę przekazania nieruchomości do Zasobu. W tym przypadku protokół zdawczo-odbiorczy podpisuje wojewoda w zastępstwie właściwego organu. Przepis ust. 2 stosuje się odpowiednio.
 
-**Art. 14.** Do przedstawienia stanowiska, o którym mowa w art. 11, sporządzenia opinii, o której mowa w art. 12 ust. 1, i wydania rozstrzygnięć, o których mowa w art. 13 ust. 3 i art. 13a, nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572) oraz ustawy z dnia 30 sierpnia 2002 r. Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2024 r. poz. 935 i 1685).
+**Art. 14.** Do przedstawienia stanowiska, o którym mowa w art. 11, sporządzenia opinii, o której mowa w art. 12 ust. 1, i wydania rozstrzygnięć, o których mowa w art. 13 ust. 3 i art. 13a, nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572) oraz ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2024 r. poz. 935 i 1685).
 
 **Art. 15.** (uchylony)
 
@@ -394,7 +382,7 @@ Art. 112–128. (pominięte)
 
 **Art. 22b.**
 
-1. Przekazanie nieruchomości do Zasobu przez spółkę Skarbu Państwa następuje na podstawie protokołu przekazania nieruchomości spisanego na wniosek KZN i zawierającego oświadczenie przedstawiciela KZN o przyjęciu nieruchomości do Zasobu. Protokół przekazania nieruchomości spisuje się w formie aktu notarialnego. Przepisy art. 92 § 4 i 4 ustawy z dnia 14 lutego 1991 r. Prawo o notariacie (Dz. U. z 2024 r. poz. 1001 oraz z 2025 r. poz. 479) stosuje się odpowiednio.
+1. Przekazanie nieruchomości do Zasobu przez spółkę Skarbu Państwa następuje na podstawie protokołu przekazania nieruchomości spisanego na wniosek KZN i zawierającego oświadczenie przedstawiciela KZN o przyjęciu nieruchomości do Zasobu. Protokół przekazania nieruchomości spisuje się w formie aktu notarialnego. Przepisy art. 92 § 4 i 4 ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2024 r. poz. 1001 oraz z 2025 r. poz. 479) stosuje się odpowiednio.
 
 2. Protokół przekazania nieruchomości zawiera w szczególności oznaczenie nieruchomości według numeru księgi wieczystej i oznaczenie stron, zgodnie z treścią protokołu zdawczo-odbiorczego oraz postanowienia w zakresie przekazania prawa własności i innych praw rzeczowych na rzecz Skarbu Państwa i powierzenia wykonywania tych praw KZN.
 
@@ -476,7 +464,7 @@ Art. 112–128. (pominięte)
 
 5. (uchylony)
 
-6. Do rozstrzygnięcia, o którym mowa w ust. 4, nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego oraz ustawy z dnia 30 sierpnia 2002 r. Prawo o postępowaniu przed sądami administracyjnymi.
+6. Do rozstrzygnięcia, o którym mowa w ust. 4, nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego oraz ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi.
 
 **Art. 28.**
 
@@ -577,7 +565,7 @@ Art. 112–128. (pominięte)
 
 8. Minister właściwy do spraw rozwoju regionalnego określi, w drodze rozporządzenia, wysokość wynagrodzenia członków Rady Nadzorczej za udział w jej pracach, mając na względzie zapewnienie proporcjonalności wysokości tego wynagrodzenia do zakresu i charakteru powierzonych obowiązków oraz efektywność prac Rady Nadzorczej, z uwzględnieniem przepisów o wynagrodzeniu członków rad nadzorczych spółek Skarbu Państwa.
 
-9. Członkom Rady Nadzorczej zamieszkałym poza miejscowością, w której odbywa się posiedzenie, i biorącym udział w posiedzeniu przysługuje prawo do zwrotu kosztów podróży i noclegów na warunkach określonych w przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2025 r. poz. 277).
+9. Członkom Rady Nadzorczej zamieszkałym poza miejscowością, w której odbywa się posiedzenie, i biorącym udział w posiedzeniu przysługuje prawo do zwrotu kosztów podróży i noclegów na warunkach określonych w przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277).
 
 10. Członkowie Rady Nadzorczej pobierają wynagrodzenie na zasadach określonych w art. 8 pkt 8 ustawy z dnia 3 marca 2000 r. o wynagradzaniu osób kierujących niektórymi podmiotami prawnymi (Dz. U. z 2019 r. poz. 2136), z tym że wysokość wynagrodzenia ustala minister, o którym mowa w ust. 4.
 
@@ -620,7 +608,7 @@ Art. 112–128. (pominięte)
 
 1. Prezesa KZN powołuje minister właściwy do spraw rozwoju regionalnego spośród osób wyłonionych w drodze otwartego i konkurencyjnego naboru.
 
-2. Powołanie, o którym mowa w ust. 1, stanowi nawiązanie stosunku pracy na podstawie powołania w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. Kodeks pracy.
+2. Powołanie, o którym mowa w ust. 1, stanowi nawiązanie stosunku pracy na podstawie powołania w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
 
 3. Prezesa KZN odwołuje minister właściwy do spraw rozwoju regionalnego.
 
@@ -675,7 +663,7 @@ Art. 112–128. (pominięte)
 
 - **1)** nazwę i adres KZN;
 - **2)** określenie stanowiska, na które był prowadzony nabór;
-- **3)** imiona i nazwiska wybranych kandydatów oraz ich miejsca zamieszkania w rozumieniu przepisów ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. z 2024 r. poz. 1061 i 1237) albo informację o niewyłonieniu kandydata.
+- **3)** imiona i nazwiska wybranych kandydatów oraz ich miejsca zamieszkania w rozumieniu przepisów ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2024 r. poz. 1061 i 1237) albo informację o niewyłonieniu kandydata.
 
 12. Umieszczenie w Biuletynie Informacji Publicznej urzędu obsługującego ministra właściwego do spraw rozwoju regionalnego ogłoszenia o naborze oraz informacji o wyniku naboru jest bezpłatne.
 
@@ -733,7 +721,7 @@ Art. 112–128. (pominięte)
 
 2. Prezes KZN działa przy pomocy zastępców Prezesa KZN w liczbie nie większej niż dwóch. Zastępców Prezesa KZN powołuje i odwołuje minister właściwy do spraw rozwoju regionalnego.
 
-3. Powołanie, o którym mowa w ust. 2, stanowi nawiązanie stosunku pracy na podstawie powołania w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. Kodeks pracy.
+3. Powołanie, o którym mowa w ust. 2, stanowi nawiązanie stosunku pracy na podstawie powołania w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
 
 **Art. 40.**
 
@@ -749,7 +737,7 @@ Art. 112–128. (pominięte)
 
 3. Dyrektora Biura powołuje i odwołuje Prezes KZN.
 
-4. Powołanie, o którym mowa w ust. 3, stanowi nawiązanie stosunku pracy na podstawie powołania w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. Kodeks pracy.
+4. Powołanie, o którym mowa w ust. 3, stanowi nawiązanie stosunku pracy na podstawie powołania w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
 
 5. Prezes KZN dokonuje czynności w sprawach z zakresu prawa pracy w stosunku do pracowników Biura.
 
@@ -776,7 +764,7 @@ Art. 112–128. (pominięte)
 
 5. Po upływie terminu składania dokumentów, określonego w ogłoszeniu o naborze, niezwłocznie ogłasza się listę kandydatów, którzy spełniają wymagania formalne określone w ogłoszeniu o naborze, przez umieszczenie listy w miejscu powszechnie dostępnym w siedzibie KZN oraz publikację listy w Biuletynie Informacji Publicznej KZN.
 
-6. Lista, o której mowa w ust. 5, zawiera imiona i nazwiska kandydatów oraz ich miejsca zamieszkania w rozumieniu przepisów ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny.
+6. Lista, o której mowa w ust. 5, zawiera imiona i nazwiska kandydatów oraz ich miejsca zamieszkania w rozumieniu przepisów ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny.
 
 7. Z przeprowadzonego naboru kandydatów do zatrudnienia na wolne stanowiska pracy w Biurze sporządza się protokół.
 
@@ -794,7 +782,7 @@ Art. 112–128. (pominięte)
 
 - **1)** nazwę i adres Biura;
 - **2)** określenie stanowiska pracy, na które był przeprowadzany nabór;
-- **3)** imię, nazwisko i miejsce zamieszkania kandydata w rozumieniu przepisów ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny;
+- **3)** imię, nazwisko i miejsce zamieszkania kandydata w rozumieniu przepisów ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny;
 - **4)** uzasadnienie dokonanego wyboru albo uzasadnienie niedokonania wyboru żadnego kandydata.
 
 12. Jeżeli stosunek pracy osoby wyłonionej w drodze naboru ustał w ciągu 3 miesięcy od dnia nawiązania stosunku pracy, można zatrudnić na tym samym stanowisku kolejną osobę spośród najlepszych kandydatów wymienionych w protokole tego naboru. Przepisy ust. 9–11 stosuje się odpowiednio.
@@ -823,7 +811,7 @@ Art. 112–128. (pominięte)
 
 3. (uchylony)
 
-4. Prezes KZN sporządza plan finansowy w układzie zadaniowym na rok budżetowy i dwa kolejne lata.
+4. Prezes KZN sporządza plan finansowy w układzie zadaniowym na rok budżetowy.
 
 **Art. 44.**
 
@@ -865,8 +853,8 @@ Art. 112–128. (pominięte)
 
 2. Prezes KZN przedstawia ministrowi, o którym mowa w art. 31 ust. 3:
 
-- **1)** kwartalne sprawozdanie z realizacji planu finansowego KZN zatwierdzone przez Radę Nadzorczą w terminie do końca miesiąca następującego po kwartale, którego dotyczy sprawozdanie;
-- **2)** do zatwierdzenia roczne sprawozdanie finansowe KZN opracowane przez Prezesa KZN wraz ze sprawozdaniem z badania sporządzonym przez firmę audytorską i opinią Rady Nadzorczej w terminie do dnia 30 kwietnia roku następującego po roku, którego dotyczy sprawozdanie.
+- **1)** kwartalne sprawozdanie z realizacji planu finansowego KZN zatwierdzone przez Radę Nadzorczą – w terminie do końca miesiąca następującego po kwartale, którego dotyczy sprawozdanie;
+- **2)** do zatwierdzenia – roczne sprawozdanie finansowe KZN opracowane przez Prezesa KZN wraz ze sprawozdaniem z badania sporządzonym przez firmę audytorską i opinią Rady Nadzorczej – w terminie do dnia 30 kwietnia roku następującego po roku, którego dotyczy sprawozdanie.
 
 3. Kwartalne sprawozdanie z realizacji planu finansowego KZN zawiera co najmniej informacje o:
 
@@ -879,7 +867,7 @@ Art. 112–128. (pominięte)
 
 5. W kwartalnym sprawozdaniu z realizacji planu finansowego KZN dane wykazuje się za kwartał oraz narastająco od początku roku obrotowego do końca kwartału, którego sprawozdanie dotyczy.
 
-6. Kwartalne sprawozdanie z realizacji planu finansowego KZN, według stanu na koniec IV kwartału, zawiera omówienie wykonania planu finansowego KZN, a w przypadku powstania rozbieżności między planem a jego faktycznym wykonaniem informację o tych rozbieżnościach i przyczynach ich powstania.
+6. Kwartalne sprawozdanie z realizacji planu finansowego KZN, według stanu na koniec IV kwartału, zawiera omówienie wykonania planu finansowego KZN, a w przypadku powstania rozbieżności między planem a jego faktycznym wykonaniem – informację o tych rozbieżnościach i przyczynach ich powstania.
 
 7. Do kwartalnego sprawozdania z realizacji planu finansowego KZN dołącza się część opisową wykonania planowanych przychodów i kosztów.
 
@@ -958,8 +946,9 @@ Art. 112–128. (pominięte)
     - **b)** podnoszenie walorów gospodarczych nieruchomości wchodzących w skład Zasobu, w tym podejmowanie działań, których wynikiem będzie przygotowanie nieruchomości do zabudowy, w szczególności przez podział nieruchomości lub scalenie i podział nieruchomości adekwatny do jej przyszłej funkcji lub realizację uzbrojenia technicznego, ba) pokrycie kosztów tworzenia spółek, o których mowa w art. 7 ust. 1, oraz tworzenia społecznych inicjatyw mieszkaniowych i przystępowania do społecznych inicjatyw mieszkaniowych lub towarzystw budownictwa społecznego,
     - **c)** pokrycie kosztów realizacji uzbrojenia technicznego nieruchomości przekazanych do KZN lub nabytych przez KZN na rzecz Skarbu Państwa,
     - **d)** finansowanie lub współfinansowanie realizacji uzbrojenia technicznego służącego nieruchomościom przeznaczonym na cele mieszkaniowego zasobu gminy lub budownictwa czynszowego,
-    - **e)** dofinansowanie Funduszu Dopłat, o którym mowa w ustawie z dnia 5 grudnia 2002 r. o dopłatach do oprocentowania kredytów mieszkaniowych o stałej stopie procentowej (Dz. U. z 2024 r. poz. 1368 i 1473), oraz Funduszu Termomodernizacji i Remontów, o którym mowa w ustawie z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków (Dz. U. z 2024 r. poz. 1446, 1473, 1572, 1635 i 1940 oraz z 2025 r. poz. 680) z tym że środki gromadzone na Funduszu Społecznej Inicjatywy Mieszkaniowej KZN przeznacza się wyłącznie na realizację zadań, o których mowa w art. 5 ust. 1 pkt 5;
+    - **e)** dofinansowanie Funduszu Dopłat, o którym mowa w ustawie z dnia 5 grudnia 2002 r. o dopłatach do oprocentowania kredytów mieszkaniowych o stałej stopie procentowej (Dz. U. z 2024 r. poz. 1368 i
 
+- **1473)** , oraz Funduszu Termomodernizacji i Remontów, o którym mowa w ustawie z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków (Dz. U. z 2024 r. poz. 1446, 1473, 1572, 1635 i 1940 oraz z 2025 r. poz. 680) – z tym że środki gromadzone na Funduszu Społecznej Inicjatywy Mieszkaniowej KZN przeznacza się wyłącznie na realizację zadań, o których mowa w art. 5 ust. 1 pkt 5;
 - **2)** pokrycie kosztów funkcjonowania KZN.
 
 2. Przeznaczając środki KZN na finansowanie lub współfinansowanie realizacji uzbrojenia technicznego służącego nieruchomościom przeznaczonym na cele mieszkaniowego zasobu gminy lub budownictwa czynszowego, uwzględnia się przyczynienie się tej realizacji do istotnego, na danym obszarze, zwiększenia liczby mieszkań wchodzących w skład mieszkaniowego zasobu gminy lub realizowanych w ramach budownictwa czynszowego lub do istotnego zmniejszenia się liczby mieszkań wchodzących w skład mieszkaniowego zasobu gminy lub realizowanych w ramach budownictwa czynszowego o poziomie wyposażenia nieodpowiadającemu warunkom technicznym dla pomieszczeń mieszkalnych, przyczynienie się do zwiększenia efektywności realizacji programów rewitalizacji w danej gminie, a także występujące na danym obszarze istotne trudności w uzyskaniu mieszkania z mieszkaniowego zasobu gminy, w szczególności, gdy prognozowany czas oczekiwania na mieszkanie z mieszkaniowego zasobu gminy przekracza 5 lat.
@@ -1013,13 +1002,13 @@ Art. 112–128. (pominięte)
 - **2a)** wysokość wnoszonych środków w przypadku wniosku o wyrażenie zgody, o której mowa w art. 35 pkt 9 i 10, jeżeli w ramach objętej nią czynności przewidziano przeznaczenie tych środków na objęcie udziałów lub akcji w społecznych inicjatywach mieszkaniowych lub towarzystwach budownictwa społecznego;
 - **3)** sposób dokonania czynności prawnej;
 - **4)** uzasadnienie gospodarcze czynności prawnej;
-- **5)** uzasadnienie powiązania celu publicznego z budownictwem mieszkaniowym w przypadku zgody, o której mowa w art. 51a ust. 3.
+- **5)** uzasadnienie powiązania celu publicznego z budownictwem mieszkaniowym – w przypadku zgody, o której mowa w art. 51a ust. 3.
 
 6. Do wniosku, o którym mowa w ust. 5, dołącza się:
 
 - **1)** dokumenty potwierdzające:
     - **a)** tytuł prawny do nieruchomości,
-    - **b)** wartość nieruchomości z wyjątkiem wniosku o wyrażenie zgody, o której mowa w art. 35 pkt 9 i 10, jeżeli w ramach objętej nią czynności nie przewidziano wniesienia jako aportu nieruchomości wchodzącej w skład Zasobu;
+    - **b)** wartość nieruchomości – z wyjątkiem wniosku o wyrażenie zgody, o której mowa w art. 35 pkt 9 i 10, jeżeli w ramach objętej nią czynności nie przewidziano wniesienia jako aportu nieruchomości wchodzącej w skład Zasobu;
 
 - **2)** projekt umowy, na podstawie której ma być dokonana czynność prawna;
 - **3)** inne dokumenty potwierdzające dane i informacje zawarte we wniosku.
@@ -1062,7 +1051,7 @@ Art. 112–128. (pominięte)
 1. Nieodpłatne przekazanie nieruchomości jednostce samorządu terytorialnego, związkowi jednostek samorządu terytorialnego lub spółce celowej z wyłącznym udziałem jednostki samorządu terytorialnego może nastąpić w drodze umowy:
 
 - **1)** w celu realizacji inwestycji mieszkaniowej, w wyniku której powstaną lokale wchodzące w skład mieszkaniowego zasobu gminy;
-- **2)** w przypadku nieruchomości położonych na obszarze rewitalizacji lub w jego sąsiedztwie w celu realizacji działań rewitalizacyjnych;
+- **2)** w przypadku nieruchomości położonych na obszarze rewitalizacji lub w jego sąsiedztwie – w celu realizacji działań rewitalizacyjnych;
 - **3)** na cele związane z realizacją inwestycji w rozumieniu przepisów ustawy z dnia 8 lipca 2010 r. o szczególnych zasadach przygotowania do realizacji inwestycji w zakresie budowli przeciwpowodziowych;
 - **4)** w celu umożliwienia realizacji miejscowego planu odbudowy, o którym mowa w ustawie z dnia 11 sierpnia 2001 r. o szczególnych zasadach odbudowy, remontów, przebudowy i rozbiórek obiektów budowlanych zniszczonych lub uszkodzonych w wyniku działania żywiołu;
 - **5)** jeżeli są przeznaczone w miejscowym planie zagospodarowania przestrzennego na cele związane z realizacją inwestycji infrastrukturalnych służących wykonywaniu zadań własnych w zakresie wodociągów i zaopatrzenia w wodę, kanalizacji, usuwania i oczyszczania ścieków komunalnych, utrzymania czystości i porządku oraz urządzeń sanitarnych, wysypisk i unieszkodliwiania odpadów komunalnych, ochrony zdrowia, pomocy społecznej, edukacji publicznej, kultury i kultury fizycznej, zakładania lub rozszerzania cmentarzy komunalnych albo jeżeli położony jest na nich cmentarz;
@@ -1073,7 +1062,7 @@ Art. 112–128. (pominięte)
 2. Nieruchomości wchodzące w skład Zasobu mogą być również przedmiotem umowy o nieodpłatnym przekazaniu nieruchomości jednostce samorządu terytorialnego lub związkowi jednostek samorządu terytorialnego w celu realizacji na tej nieruchomości:
 
 - **1)** przedsięwzięcia mającego na celu utworzenie mieszkań treningowych lub wspomaganych, noclegowni, schroniska dla bezdomnych lub ogrzewalni;
-- **2)** obiektów infrastruktury technicznej lub infrastruktury społecznej, rozumianej jako obiekty budowlane służące realizacji celów publicznych w zakresie pomocy społecznej, edukacji i wychowania, kultury, zdrowia i sportu oraz tereny zieleni publicznej wraz z terenami, obiektami i urządzeniami niezbędnymi do ich funkcjonowania;
+- **2)** obiektów infrastruktury technicznej lub infrastruktury społecznej, rozumianej jako obiekty budowlane służące realizacji celów publicznych w zakresie pomocy społecznej, edukacji i wychowania, kultury, zdrowia i sportu oraz tereny zieleni publicznej – wraz z terenami, obiektami i urządzeniami niezbędnymi do ich funkcjonowania;
 - **3)** inwestycji uzupełniającej, o której mowa w ustawie z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2024 r. poz. 1130, 1907 i 1940 oraz z 2025 r. poz. 527 i 680).
 
 3. W przypadku zbycia lub przeznaczenia nieruchomości na inny cel, niż określony w umowie, przed upływem 10 lat od dnia jej nieodpłatnego przekazania, KZN występuje do jednostki samorządu terytorialnego, związku jednostek samorządu terytorialnego lub spółki celowej z wyłącznym udziałem jednostki samorządu terytorialnego z żądaniem zwrotu wartości rynkowej nieruchomości, określonej na dzień żądania. KZN może odstąpić od żądania zwrotu, jeżeli nieruchomość zostanie zbyta lub przeznaczona na cele publiczne.
@@ -1193,7 +1182,7 @@ Art. 112–128. (pominięte)
 - **2)** tryb powoływania i sposób działania komisji przetargowej,
 - **3)** sposób sporządzania oraz treść protokołu z przeprowadzonego przetargu,
 - **4)** tryb postępowania w przypadku zaskarżenia przetargu,
-- **5)** tryb postępowania przy przeprowadzaniu poszczególnych rodzajów przetargów oraz warunki organizowania przetargu ograniczonego kierując się zapewnieniem sprawności, efektywności oraz przejrzystości prowadzonych postępowań.
+- **5)** tryb postępowania przy przeprowadzaniu poszczególnych rodzajów przetargów oraz warunki organizowania przetargu ograniczonego – kierując się zapewnieniem sprawności, efektywności oraz przejrzystości prowadzonych postępowań.
 
 **Art. 55.**
 
@@ -1337,7 +1326,7 @@ Art. 112–128. (pominięte)
 
 3. Sumy hipotek, o których mowa w ust. 2, nie mogą łącznie przekroczyć kwoty 350 000 000 zł.
 
-#### Rozdział 6 (uchylony)
+#### Rozdział 6
 
 #### Rozdział 7 (uchylony)
 
@@ -1416,7 +1405,7 @@ Art. 112–128. (pominięte)
 
 2. Prezes KZN przedstawia ministrowi właściwemu do spraw rozwoju regionalnego kwartalne sprawozdania z wykonanych czynności kontrolnych, zatwierdzone przez Radę Nadzorczą, nie później niż po upływie 60 dni po kwartale, którego dotyczy sprawozdanie.
 
-#### Rozdział 9 (uchylony)
+#### Rozdział 9
 
 #### Rozdział 10 Zmiany w przepisach obowiązujących
 
@@ -1458,8 +1447,8 @@ Art. 112–128. (pominięte)
 
 1. Starostowie wykonujący zadania z zakresu administracji rządowej oraz prezydenci miast na prawach powiatu wykonujący zadania z zakresu administracji rządowej sporządzają pierwsze wykazy nieruchomości, o których mowa w art. 10 ust. 1, i przekazują je wojewodom właściwym ze względu na miejsce położenia nieruchomości w terminie:
 
-- **1)** 60 dni od dnia wejścia w życie ustawy w przypadku wykazów nieruchomości, o których mowa w art. 10 ust. 1 pkt 1;
-- **2)** 180 dni od dnia wejścia w życie ustawy w przypadku wykazów nieruchomości, o których mowa w art. 10 ust. 1 pkt 2.
+- **1)** 60 dni od dnia wejścia w życie ustawy – w przypadku wykazów nieruchomości, o których mowa w art. 10 ust. 1 pkt 1;
+- **2)** 180 dni od dnia wejścia w życie ustawy – w przypadku wykazów nieruchomości, o których mowa w art. 10 ust. 1 pkt 2.
 
 2. Terminy, o których mowa w ust. 1, stosuje się odpowiednio w przypadku przekazania do KZN pierwszych wykazów nieruchomości, o których mowa w art. 10 ust. 1, przez Dyrektora Generalnego Krajowego Ośrodka Wsparcia Rolnictwa, Prezesa Agencji Mienia Wojskowego oraz Dyrektora Generalnego Lasów Państwowych.
 
@@ -1497,16 +1486,16 @@ Art. 112–128. (pominięte)
 
 1. Maksymalny limit środków budżetu państwa, do wysokości których mogą być udzielone KZN dotacje, o których mowa w art. 43 ust. 2 pkt 2 i art. 46 ust. 1 pkt 1 i 2, nie może przekroczyć w poszczególnych latach:
 
-- **1)** w 2017 r. 25 mln zł;
-- **2)** w 2018 r. 125 mln zł;
-- **3)** w 2019 r. 50 mln zł;
-- **4)** w 2020 r. 0 mln zł;
-- **5)** w 2021 r. 0 mln zł;
-- **6)** w 2022 r. 0 mln zł;
-- **7)** w 2023 r. 0 mln zł;
-- **8)** w 2024 r. 0 mln zł;
-- **9)** w 2025 r. 0 mln zł;
-- **10)** w 2026 r. 0 mln zł.
+- **1)** w 2017 r. – 25 mln zł;
+- **2)** w 2018 r. – 125 mln zł;
+- **3)** w 2019 r. – 50 mln zł;
+- **4)** w 2020 r. – 0 mln zł;
+- **5)** w 2021 r. – 0 mln zł;
+- **6)** w 2022 r. – 0 mln zł;
+- **7)** w 2023 r. – 0 mln zł;
+- **8)** w 2024 r. – 0 mln zł;
+- **9)** w 2025 r. – 0 mln zł;
+- **10)** w 2026 r. – 0 mln zł.
 
 2. (uchylony)
 
@@ -1514,9 +1503,9 @@ Art. 112–128. (pominięte)
 
 4. W przypadku przekroczenia lub zagrożenia przekroczenia przyjętego na dany rok budżetowy maksymalnego limitu wydatków określonego w ust. 1 oraz w przypadku gdy część planowanych wydatków, o których mowa w ust. 1, przypadająca proporcjonalnie na okres od początku roku kalendarzowego do końca danego kwartału, została przekroczona:
 
-- **1)** po pierwszym kwartale co najmniej o 20 %,
-- **2)** po dwóch kwartałach co najmniej o 15 %,
-- **3)** po trzech kwartałach co najmniej o 10 % minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa zobowiązuje Prezesa KZN do stosowania mechanizmu korygującego polegającego na obniżeniu kosztów realizacji zadań przez KZN.
+- **1)** po pierwszym kwartale – co najmniej o 20 %,
+- **2)** po dwóch kwartałach – co najmniej o 15 %,
+- **3)** po trzech kwartałach – co najmniej o 10 % – minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa zobowiązuje Prezesa KZN do stosowania mechanizmu korygującego polegającego na obniżeniu kosztów realizacji zadań przez KZN.
 
 **Art. 141.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia , z wyjątkiem art. 4 ust. 6, art. 17, art. 129, art. 130, art. 132–134 i art. 140, które wchodzą w życie w dniu następującym po dniu ogłoszenia.
 

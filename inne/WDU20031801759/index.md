@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# mieniu przepisów prawa budowlanego. 4. Zwrotu kosztów udzielonych gwarancji zapłaty
+# o zmianie ustawy o gospodarowaniu niektórymi składnikami mienia Skarbu Państwa oraz o Agencji Mienia Wojskowego oraz o zmianie niektórych innych ustaw
+
+*USTAWA z dnia 11 września 2003 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,35 +26,29 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031801759) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/1759/text.pdf) |
 
-**Art. 2.**
+**Art. 1.** W ustawie z dnia 30 maja 1996 r. o gospodarowaniu niektórymi składnikami mienia Skarbu Państwa oraz o Agencji Mienia Wojskowego (Dz.U. Nr 90, poz. 405 i Nr 156, poz. 775, z 1997 r. Nr 80, poz. 509 i Nr 121, poz. 770, z 2000 r. Nr 48, poz. 550 i Nr 95, poz. 1041, z 2001 r. Nr 154, poz. 1800, z 2002 r. Nr 240, poz. 2055 oraz z 2003 r. Nr 1, poz. 15) wprowadza się następujące zmiany:
 
-1. Gwarancji zapłaty za roboty budowlane, dokonuje się wysokości powszechnie przyjętej, niezwanej dalej Ńgwarancją zapłaty”, udziela się celu przekraczającej 2 % gwarantowanej kwoty. zabezpieczenia terminowej zapłaty za wykonanie ro- Art. 5. 1. Jeżeli wykonawca nie uzyska wystarczabót budowlanych. jącej gwarancji zapłaty odpowiednim, wyznaczonym przez siebie terminie, uprawniony jest wstrzy2. Gwarancją zapłaty jest gwarancja bankowa mania się od wykonywania robót ioddania obiektu zaubezpieczeniowa, a także akredytywa bankowa mawiającemu. poręczenie banku udzielone wykonawcy robót budowlanych na zlecenie zamawiającego wykonanie 2. Po wyznaczeniu na piśmie dodatkowego termitych robót. nu udzielenia gwarancji zapłaty jego bezskutecznym upływie wykonawca uprawniony jest odstąArt. 3. 1. Nie można przez czynność prawną wyłą- pienia od umowy winy zamawiającego. czyć ani ograniczyć prawa żądania gwarancji zapłaty. 3. Brak wystarczającej gwarancji zapłaty stanowi przeszkodę wykonywaniu robót budowlanych
-
-2. Wypowiedzenie umowy spowodowane żąda- przyczyn dotyczących zamawiającego uprawnia niem gwarancji zapłaty jest bezskuteczne. wykonawcę żądania wynagrodzenia na podstawie 639 Kodeksu cywilnego.
-
-**Art. 4.**
-
-1. Wykonawca robót budowlanych może każdym czasie żądać od zamawiającego gwarancji Art. 6. Wykonywanie uprawnień przewidzianych zapłaty wysokości ewentualnego roszczenia ztytu- przepisami niniejszej ustawy nie narusza przepisów łu wynagrodzenia, wynikającego zumowy ze zle- Kodeksu cywilnego o wykonaniu zobowiązań skutceń dodatkowych. kach ich niewykonania.
-
-**Art. 7.** Przepisów ustawy nie stosuje się umów 2. Udzielenie gwarancji zapłaty nie stoi na prze- zawartych przed dniem wejścia życie ustawy. szkodzie żądaniu dalszych gwarancji łącznej wysokości określonej ust. 1. Art. 8. Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia. 3. Zamawiający może żądać zwrotu kosztów udzielonych gwarancji zapłaty części, jakiej dokonał Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski USTAWA dnia 11 września 2003 o zmianie ustawy o gospodarowaniu niektórymi składnikami mienia Skarbu Państwa o Agencji Mienia Wojskowego o zmianie niektórych innych ustaw
-
-**Art. 1.** W ustawie dnia 30 maja 1996 o gospo- Państwa o Agencji Mienia Wojskowego (Dz. U. darowaniu niektórymi składnikami mienia Skarbu Nr90, 405, zpóên. zm. ) wprowadza się następuniem będącym we władaniu tych jednostek, niewykorzystywanym realizacji ich zadań,
+**Art. 4d.** Mienie ruchome Skarbu Państwa będące na wyposażeniu polskich jednostek wojskowych poza granicami państwa, niewykorzystywane przez te jednostki do realizacji ich zadań, jeżeli jego wartość jest niższa od kosztów jego transportu do kraju, zagospodarowuje organ wojskowy wyznaczony przez Ministra Obrony Narodowej w państwie pobytu polskiej jednostki wojskowej przez sprzedaż, przekazanie na cele charytatywne lub likwidację. Środki finansowe uzyskane ze sprzedaży tego mienia stanowią dochód środka specjalnego określonego w art. 11 ust. 1 ustawy z dnia 25 maja 2001 r. o przebudowie i modernizacji technicznej oraz finansowaniu Sił Zbrojnych Rzeczypospolitej Polskiej w latach 2001–2006 (Dz.U. Nr 76, poz. 804, Nr 85, poz. 925, Nr 154, poz. 1802 oraz z 2002 r. Nr 205, poz. 1731).”;
 
 **Art. 31a.**
 
-1. Minister właściwy spraw wewnętrznych zjego upoważnienia inny organ może, po uzgodnieniu zPrezesem Agencji, przekazać Agencji zagospodarowania niewykorzystywane mienie Skarbu Państwa, będące trwałym zarządzie organów ijednostek organizacyjnych mu podległych przez niego nadzorowanych inne mienie będące we władaniu tych jednostek.
+1. Minister właściwy do spraw wewnętrznych, lub z jego upoważnienia inny organ może, po uzgodnieniu z Prezesem Agencji, przekazać Agencji do zagospodarowania niewykorzystywane mienie Skarbu Państwa, będące w trwałym zarządzie organów i jednostek organizacyjnych mu podległych lub przez niego nadzorowanych oraz inne mienie będące we władaniu tych jednostek.
 
-2. Przekazanie mienia, októrym mowa ust. 1, prowadzenie jego ewidencji gospodarowanie tym mieniem następuje trybie na zasadach określonych ustawie.
+2. Przekazanie mienia, o którym mowa w ust. 1, prowadzenie jego ewidencji oraz gospodarowanie tym mieniem następuje w trybie i na zasadach określonych w ustawie.
 
 **Art. 31b.**
 
-1. Tworzy się środek specjalny wrozuwania mieniem Skarbu Państwa, októrym mowa wart. 31a ust.1.
+1. Tworzy się środek specjalny w rozumieniu art. 21 ustawy z dnia 26 listopada 1998 r. o finansach publicznych (Dz.U. z 2003 r. Nr 15, poz. 148, Nr 45, poz. 391, Nr 65, poz. 594, Nr 96, poz. 874 i Nr 166, poz. 1611), na którym gromadzi się środki finansowe z tytułów, o których mowa w ust. 2. Dysponentem tych środków jest minister właściwy do spraw wewnętrznych.
 
-3. Ârodek specjalny, o którym mowa ust. 1, przeznaczony jest na realizację zadań inwestycyjnych na modernizację uzbrojenia wyposażenia organów jednostek podległych ministrowi właściwemu spraw wewnętrznych przez niego nadzorowanych.”.
+2. Na środek specjalny, o którym mowa w ust. 1, Agencja przekazuje 93% dochodów uzyskanych z gospodarowania mieniem Skarbu Państwa, o którym mowa w art. 31a ust. 1.
 
-**Art. 2.** W ustawie dnia 15 lutego 1992 o podatku dochodowym od osób prawnych (Dz. U. 2000 54, 654, póên. zm. ) 17 ust. 1 pkt4ł otrzymuje brzmienie: Ń4ł) dochody Agencji Mienia Wojskowego, części przeznaczonej na inwestycje:
+3. Środek specjalny, o którym mowa w ust. 1, przeznaczony jest na realizację zadań inwestycyjnych oraz na modernizację uzbrojenia i wyposażenia organów i jednostek podległych ministrowi właściwemu do spraw wewnętrznych lub przez niego nadzorowanych.”.
 
-**Art. 3.** Wustawie zdnia 3 marca 2000 owynagradzaniu osób kierujących niektórymi podmiotami prawnymi (Dz. U. 26, 306, póên. zm.
+**Art. 2.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz.U. z 2000 r. Nr 54, poz. 654, Nr 60, poz. 700 i 703, Nr 86, poz. 958, Nr 717, poz. 1228, Nr 122, poz. 1315 i 1324, Nr 103, poz. 1100, z 2001 r. Nr 105, poz. 1150, Nr 125, poz. 1363, Nr 110, poz. 1190, z 2002 r. Nr 15, poz. 253, Nr 74, poz. 676, Nr 93, poz. 820, Nr 141, poz. 1179, Nr 169, poz. 1384, Nr 199, poz. 1672, Nr 200, poz. 874 i Nr 137, poz. 1302) w art. 17 w ust. 1 pkt 4ł otrzymuje brzmienie: „4ł) dochody Agencji Mienia Wojskowego, w części przeznaczonej na inwestycje:
 
-**Art. 4.** W ustawie dnia 25 maja 2001 o przebudowie modernizacji technicznej finansowaniu Sił Zbrojnych Rzeczypospolitej Polskiej latach 2001—2006 (Dz. U. 76, 804, 85, 925 1802 2002 205, 1731) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 3 marca 2000 r. o wynagradzaniu osób kierujących niektórymi podmiotami prawnymi (Dz.U. Nr 26, poz. 306, z 2001 r. Nr 85, poz. 926 i Nr 154, poz. 1799, z 2002 r. Nr 113, poz. 984 oraz z 2003 r. Nr 45, poz. 391 i Nr 60, poz.
+
+**Art. 4.** W ustawie z dnia 25 maja 2001 r. o przebudowie i modernizacji technicznej oraz finansowaniu Sił Zbrojnych Rzeczypospolitej Polskiej w latach 2001-2006 (Dz.U.
+
+**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

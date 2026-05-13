@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 16 stycznia 2026 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy o ułatwieniach przygotowaniu i realizacji inwestycji zakresie biogazowni rolniczych, a także ich funkcjonowaniu
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 9 stycznia 2026 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2026-01-20 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000052) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/52/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 9 stycznia 2026 r.
-sprawie ogłoszenia jednolitego tekstu ustawy o ułatwieniach przygotowaniu i realizacji inwestycji zakresie biogazowni rolniczych, a także ich funkcjonowaniu
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 13 lipca 2023 r. o ułatwieniach przygotowaniu i realizacji inwestycji zakresie biogazowni rolniczych, a także ich funkcjonowaniu (Dz. U. poz. 1597), z uwzględnieniem zmian wprowadzonych ustawą z dnia 4 kwietnia 2025 r.
 o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym oraz niektórych innych ustaw (Dz. U. poz. 527) oraz zmian wynikających z przepisów ogłoszonych przed dniem 9 stycznia 2026 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
@@ -35,8 +35,6 @@ o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym oraz niektórych 
 
 **Art. 11.** W ustawie z dnia 10 kwietnia 1997 r. Prawo energetyczne (Dz. U. z 2022 r. poz. 1385, z późn. zm. ) art. 7:
 
-**Art. 12.** W ustawie z dnia 2 marca 2001 r. o wyrobie alkoholu etylowego oraz wytwarzaniu wyrobów tytoniowych (Dz. U. z 2023 r. poz. 463) art. 12 ust. 1 części wspólnej wyraz „grzywnie” zastępuje się wyrazami „karze grzywny”.
-
 **Art. 13.** W ustawie z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2023 r. poz. 977 i 1506) wprowadza się następujące zmiany:
 
 **Art. 14.** W ustawie z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych (Dz. U. z 2022 r. poz. 403 i 2411) wprowadza się następujące zmiany:
@@ -44,6 +42,8 @@ o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym oraz niektórych 
 **Art. 35d.** W 2024 r. i 2025 r.:
 
 **Art. 15.** W ustawie z dnia 10 lipca 2007 r. o nawozach i nawożeniu (Dz. U. z 2023 r. poz. 569) wprowadza się następujące zmiany:
+
+**Art. 16.** W ustawie z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2023 r. poz. 1587) art. 11 ust. 5 otrzymuje brzmienie: „5. Przepisów ust. 1–4 nie stosuje się do przedmiotów lub substancji, które spełniają warunki uznania za produkt uboczny, stanowiących:
 
 **Art. 17.** W ustawie z dnia 20 lutego 2015 r. o odnawialnych źródłach energii (Dz. U. z 2023 r. poz. 1436) wprowadza się następujące zmiany:
 
@@ -125,7 +125,7 @@ o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym oraz niektórych 
 
 - **1)** przeniesieniu własności, użytkowania wieczystego, udziału we własności albo użytkowaniu wieczystym całości albo części nieruchomości, na której jest zlokalizowana biogazownia rolnicza, na inny podmiot niż podmiot uprawniony albo oddaniu całości albo części tej nieruchomości użytkowanie, dzierżawę lub najem innemu podmiotowi niż podmiot uprawniony albo zawarciu innej umowy uprawniającej do korzystania lub pobierania pożytków z tej nieruchomości przez inny podmiot niż podmiot uprawniony,
 - **2)** przeniesieniu własności, udziału we własności całości albo części biogazowni rolniczej na inny podmiot niż podmiot uprawniony albo oddaniu całości albo części biogazowni rolniczej użytkowanie, dzierżawę lub najem innemu podmiotowi niż podmiot uprawniony albo zawarciu innej umowy uprawniającej do korzystania lub pobierania pożytków z całości albo części biogazowni rolniczej przez inny podmiot niż podmiot uprawniony,
-- **3)** sprzedaży akcji lub udziałów albo przeniesieniu całości praw i obowiązków spółce osobowej oraz czynność prawna podmiotu uprawnionego obciążająca rzeczowo lub obligacyjnie akcje, udziały lub prawa i obowiązki spółce osobowej taki sposób, że spółka handlowa wyniku tej czynności przestanie spełniać warunki określone art. 3 ust. 1 pkt 9 jest nieważna, z wyłączeniem czynności prawnej mającej na celu ustanowienie zabezpieczenia spłaty wierzytelności banku lub innej instytucji finansowej, finansujących lub współfinansujących budowę lub funkcjonowanie biogazowni rolniczej podmiotu uprawnionego lub prowadzenie gospodarstwa rolnego lub działu specjalnego produkcji rolnej przez podmiot uprawniony, lub wykonywanie działalności przez podmiot uprawniony. przestał spełniać warunki określone art. 3 ust. 1:
+- **3)** sprzedaży akcji lub udziałów albo przeniesieniu całości praw i obowiązków spółce osobowej oraz czynność prawna podmiotu uprawnionego obciążająca rzeczowo lub obligacyjnie akcje, udziały lub prawa i obowiązki spółce osobowej taki sposób, że spółka handlowa wyniku tej czynności przestanie spełniać warunki określone art. 3 ust. 1 pkt 9 jest nieważna, z wyłączeniem czynności prawnej mającej na celu ustanowienie zabezpieczenia spłaty wierzytelności banku lub innej instytucji finansowej, finansujących lub współfinansujących budowę lub funkcjonowanie biogazowni rolniczej podmiotu uprawnionego lub prowadzenie gospodarstwa rolnego lub działu specjalnego produkcji rolnej przez podmiot uprawniony, lub wykonywanie działalności przez podmiot uprawniony.
 - **1)** podmiot ten jest obowiązany do poinformowania, formie pisemnej, Dyrektora Generalnego Krajowego Ośrodka Wsparcia Rolnictwa, zwanego dalej „Dyrektorem Generalnym KOWR”, o tym fakcie terminie 30 dni od dnia, którym przestał spełniać te warunki;
 - **2)** Dyrektor Generalny KOWR wyznacza temu podmiotowi termin niedłuższy niż 12 miesięcy od dnia, którym przestał spełniać te warunki, na powierzenie wykonywania działalności biogazowni rolniczej innemu podmiotowi uprawionemu.
 
@@ -195,7 +195,7 @@ o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym oraz niektórych 
 
 12. Wójt (burmistrz, prezydent miasta) niepóźniej niż terminie 3 dni od dnia zamieszczenia wniosku, o którym mowa ust. 1, na stronie podmiotowej Biuletynu Informacji Publicznej gminy, a jeżeli gmina nie ma strony podmiotowej Biuletynu Informacji Publicznej na stronie internetowej gminy, powiadamia o możliwości przedstawiania opinii:
 
-- **1)** gminną lub inną właściwą, rozumieniu art. 8 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, komisję urbanistyczno-architektoniczną; nadany status uzdrowiska albo status obszaru ochrony uzdrowiskowej, zgodnie z przepisami ustawy z dnia 28 lipca 2005 r. o lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych (Dz. U. z 2025 r. poz. 1135);
+- **1)** gminną lub inną właściwą, rozumieniu art. 8 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, komisję urbanistyczno-architektoniczną; 2005 r. o lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych (Dz. U. z 2025 r. poz. 1135);
 - **3)** dyrektora regionalnego zarządu gospodarki wodnej Państwowego Gospodarstwa Wodnego Wody Polskie odniesieniu do inwestycji obejmujących wykonanie urządzeń wodnych;
 - **4)** organ właściwy sprawach ochrony gruntów rolnych odniesieniu do gruntów rolnych rozumieniu przepisów ustawy z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych;
 - **5)** właściwy organ Państwowego Gospodarstwa Wodnego Wody Polskie odniesieniu do nieruchomości, na których znajdują się urządzenia melioracji wodnych;
@@ -277,7 +277,7 @@ o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym oraz niektórych 
 
 1. Do postępowań o wydanie decyzji o pozwoleniu na budowę dotyczących biogazowni rolniczych, wszczętych i niezakończonych przed dniem wejścia życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej art. 9, brzmieniu dotychczasowym, a jeżeli podmiot, który złożył wniosek o wszczęcie tego postępowania, złoży organowi, przed którym toczy się to postępowanie, oświadczenie, o którym mowa art. 5 ust. 1 pkt 2, wraz z wnioskiem o stosowanie toczącym się postępowaniu przepisów dotyczących inwestycji zakresie biogazowni rolniczych spełniających warunki określone art. 4 ust. 1 stosuje się przepisy niniejszej ustawy oraz ustawy zmienianej art. 9, brzmieniu nadanym niniejszą ustawą.
 
-2. W przypadku złożenia wniosku o stosowanie postępowaniu, o którym mowa ust. 1, przepisów dotyczących inwestycji zakresie biogazowni rolniczych spełniających warunki określone art. 4 ust. 1, początek terminu, o którym mowa art. 35 ust. 6 pkt 2 ustawy zmienianej art. 9, liczy się od dnia złożenia tego wniosku. kresie biogazowni rolniczych, wszczętych i niezakończonych przed dniem wejścia życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej art. 10, brzmieniu dotychczasowym, a jeżeli podmiot, który złożył wniosek o wszczęcie tego postępowania, złoży organowi, przed którym toczy się to postępowanie, oświadczenie, o którym mowa art. 5 ust. 1 pkt 2, wraz z wnioskiem o stosowanie toczącym się postępowaniu przepisów dotyczących inwestycji zakresie biogazowni rolniczych spełniających warunki określone art. 4 ust. 1 stosuje się przepisy niniejszej ustawy oraz ustawy zmienianej art. 10, brzmieniu nadanym niniejszą ustawą.
+2. W przypadku złożenia wniosku o stosowanie postępowaniu, o którym mowa ust. 1, przepisów dotyczących inwestycji zakresie biogazowni rolniczych spełniających warunki określone art. 4 ust. 1, początek terminu, o którym mowa art. 35 ust. 6 pkt 2 ustawy zmienianej art. 9, liczy się od dnia złożenia tego wniosku. przepisy ustawy zmienianej art. 10, brzmieniu dotychczasowym, a jeżeli podmiot, który złożył wniosek o wszczęcie tego postępowania, złoży organowi, przed którym toczy się to postępowanie, oświadczenie, o którym mowa art. 5 ust. 1 pkt 2, wraz z wnioskiem o stosowanie toczącym się postępowaniu przepisów dotyczących inwestycji zakresie biogazowni rolniczych spełniających warunki określone art. 4 ust. 1 stosuje się przepisy niniejszej ustawy oraz ustawy zmienianej art. 10, brzmieniu nadanym niniejszą ustawą.
 
 2. Na wniosek właściciela gruntu rolnego wyłączonego z produkcji rolniczej pod biogazownię rolniczą zlokalizowaną na nieruchomości, do której tytuł prawny posiada podmiot uprawniony prowadzący gospodarstwo rolne, który jest gruntem określonym art. 2 ust. 1 pkt 3a ustawy zmienianej art. 10, brzmieniu nadanym niniejszą ustawą, organ, który wydał pierwszej instancji decyzję zezwalającą na wyłączenie tego gruntu z produkcji, stwierdza jej wygaśnięcie. Uiszczona należność i opłaty roczne nie podlegają zwrotowi.
 

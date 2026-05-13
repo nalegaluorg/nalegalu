@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 8 lutego 2022 r.
+# o zasadach pokrywania kosztów powstałych u wytwórców w związku z przedterminowym rozwiązaniem umów długoterminowych sprzedaży mocy i energii elektrycznej
+
+*USTAWA z dnia 29 czerwca 2007 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,15 +25,6 @@ domain: null
 | Data wydania | 2022-02-08 |
 | Ostatnia zmiana | 2026-03-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000311) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/311/text.pdf) |
-
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 2 grudnia 2021 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o zasadach pokrywania kosztów powstałych u wytwórców w związku z przedterminowym rozwiązaniem umów długoterminowych sprzedaży mocy i energii elektrycznej
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 29 czerwca 2007 r. o zasadach pokrywania kosztów powstałych u wytwórców w związku z przedterminowym rozwiązaniem umów długoterminowych sprzedaży mocy i energii elektrycznej (Dz. U. z 2019 r.
-poz. 1874), z uwzględnieniem zmian wprowadzonych ustawą z dnia 23 lipca 2021 r. o zmianie ustawy o rynku mocy oraz niektórych innych ustaw (Dz. U. poz. 1505) oraz zmian wynikających z przepisów ogłoszonych przed dniem 2 grudnia 2021 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje odnośnika nr 1 oraz art. 18 ustawy z dnia 23 lipca 2021 r. o zmianie ustawy o rynku mocy oraz niektórych innych ustaw (Dz. U. poz. 1505), które stanowią: „ Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/943 z dnia 5 czerwca 2019 r. w sprawie rynku wewnętrznego energii elektrycznej (Dz. Urz. UE L 158 z 14.06.2019, str. 54).” „Art. 18. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 6, który wchodzi w życie z dniem 1 lipca 2024 r.”.
-Marszałek Sejmu: E. Witek
-USTAWA z dnia 29 czerwca 2007 r.
-o zasadach pokrywania kosztów powstałych u wytwórców w związku z przedterminowym rozwiązaniem umów długoterminowych sprzedaży mocy i energii elektrycznej
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -114,12 +107,12 @@ o zasadach pokrywania kosztów powstałych u wytwórców w związku z przedtermi
     - **a)** sumę iloczynów stawki opłaty przejściowej, w odniesieniu do odbiorców końcowych, o których mowa w art. 10 ust. 1 pkt 1, przyłączonych do sieci danego płatnika opłaty przejściowej oraz liczby tych odbiorców,
     - **b)** sumę iloczynów stawki opłaty przejściowej i mocy umownej każdego odbiorcy końcowego, o którym mowa w art. 10 ust. 1 pkt 2 i 3, przyłączonego do sieci danego płatnika opłaty przejściowej,
 
-- **2)** odbiorcy końcowego przyłączonego bezpośrednio do sieci przesyłowej elektroenergetycznej oblicza się jako iloczyn stawki opłaty przejściowej i mocy umownej tego odbiorcy, o którym mowa w art. 10 ust. 1 pkt 2 lit. c, albo pkt 3 na podstawie danych rzeczywistych dotyczących liczby odbiorców i ich mocy umownej w danym okresie rozliczeniowym.
+- **2)** odbiorcy końcowego przyłączonego bezpośrednio do sieci przesyłowej elektroenergetycznej oblicza się jako iloczyn stawki opłaty przejściowej i mocy umownej tego odbiorcy, o którym mowa w art. 10 ust. 1 pkt 2 lit. c, albo pkt 3 – na podstawie danych rzeczywistych dotyczących liczby odbiorców i ich mocy umownej w danym okresie rozliczeniowym.
 
 3. Płatnik opłaty przejściowej ustala w taryfie za usługi przesyłania lub dystrybucji energii elektrycznej w rozumieniu przepisów prawa energetycznego opłatę końcową równą wysokości:
 
-- **1)** stawki opłaty przejściowej obowiązującej w danym roku w odniesieniu do odbiorców końcowych, o których mowa w art. 10 ust. 1 pkt 1, wyrażonej w złotych na miesiąc w przypadku odbiorców, o których mowa w art. 10 ust. 1 pkt 1;
-- **2)** odpowiadającej iloczynowi stawki opłaty przejściowej obowiązującej w danym roku w odniesieniu do odbiorców, o których mowa w art. 10 ust. 1 pkt 2 i 3, i mocy umownej tych odbiorców w przypadku odbiorców, o których mowa w art. 10 ust. 1 pkt 2 i 3.
+- **1)** stawki opłaty przejściowej obowiązującej w danym roku w odniesieniu do odbiorców końcowych, o których mowa w art. 10 ust. 1 pkt 1, wyrażonej w złotych na miesiąc – w przypadku odbiorców, o których mowa w art. 10 ust. 1 pkt 1;
+- **2)** odpowiadającej iloczynowi stawki opłaty przejściowej obowiązującej w danym roku w odniesieniu do odbiorców, o których mowa w art. 10 ust. 1 pkt 2 i 3, i mocy umownej tych odbiorców – w przypadku odbiorców, o których mowa w art. 10 ust. 1 pkt 2 i 3.
 
 4. Przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie przesyłania lub dystrybucji energii elektrycznej, niebędące płatnikiem opłaty przejściowej, ustala w taryfie za usługi przesyłania lub dystrybucji energii elektrycznej opłatę z tytułu świadczenia usługi dystrybucyjnej związanej z zakupem usługi udostępniania krajowego systemu elektroenergetycznego wynikającą z kosztu ponoszonego przez to przedsiębiorstwo w związku z uiszczaną na rzecz płatnika opłaty przejściowej opłatą końcową do wysokości ponoszonych kosztów.
 
@@ -141,24 +134,24 @@ o zasadach pokrywania kosztów powstałych u wytwórców w związku z przedtermi
 
 2. Stawki opłaty przejściowej w odniesieniu do odbiorców końcowych, o których mowa w ust. 1:
 
-- **1)** pkt 1 wyraża się w złotych na miesiąc;
-- **2)** pkt 2 i 3 wyraża się w złotych na miesiąc za kW mocy umownej.
+- **1)** pkt 1 – wyraża się w złotych na miesiąc;
+- **2)** pkt 2 i 3 – wyraża się w złotych na miesiąc za kW mocy umownej.
 
 **Art. 11.**
 
 1. W okresie od dnia powstania obowiązku uiszczania opłaty przejściowej do dnia 31 grudnia 2008 r. stawki tej opłaty netto wynoszą:
 
-- **1)** 0,45 zł na miesiąc w odniesieniu do odbiorców, o których mowa w art. 10 ust. 1 pkt 1 lit. a;
-- **2)** 1,90 zł na miesiąc w odniesieniu do odbiorców, o których mowa w art. 10 ust. 1 pkt 1 lit. b;
-- **3)** 6,00 zł na miesiąc w odniesieniu do odbiorców, o których mowa w art. 10 ust. 1 pkt 1 lit. c;
-- **4)** 1,65 zł na miesiąc na kW mocy umownej w odniesieniu do odbiorców, o których mowa w art. 10 ust. 1 pkt 2 lit. a;
-- **5)** 4,10 zł na miesiąc na kW mocy umownej w odniesieniu do odbiorców, o których mowa w art. 10 ust. 1 pkt 2 lit. b;
-- **6)** 7,65 zł na miesiąc na kW mocy umownej w odniesieniu do odbiorców, o których mowa w art. 10 ust. 1 pkt 2 lit. c;
-- **7)** 2,10 zł na miesiąc na kW mocy umownej w odniesieniu do odbiorców, o których mowa w art. 10 ust. 1 pkt 3.
+- **1)** 0,45 zł na miesiąc – w odniesieniu do odbiorców, o których mowa w art. 10 ust. 1 pkt 1 lit. a;
+- **2)** 1,90 zł na miesiąc – w odniesieniu do odbiorców, o których mowa w art. 10 ust. 1 pkt 1 lit. b;
+- **3)** 6,00 zł na miesiąc – w odniesieniu do odbiorców, o których mowa w art. 10 ust. 1 pkt 1 lit. c;
+- **4)** 1,65 zł na miesiąc na kW mocy umownej – w odniesieniu do odbiorców, o których mowa w art. 10 ust. 1 pkt 2 lit. a;
+- **5)** 4,10 zł na miesiąc na kW mocy umownej – w odniesieniu do odbiorców, o których mowa w art. 10 ust. 1 pkt 2 lit. b;
+- **6)** 7,65 zł na miesiąc na kW mocy umownej – w odniesieniu do odbiorców, o których mowa w art. 10 ust. 1 pkt 2 lit. c;
+- **7)** 2,10 zł na miesiąc na kW mocy umownej – w odniesieniu do odbiorców, o których mowa w art. 10 ust. 1 pkt 3.
 
 2. Wysokość stawki, o której mowa w ust. 1, ulega obniżeniu proporcjonalnie do współczynnika, oznaczonego symbolem „S ”, jeżeli w terminie, o którym mowa w art. 5 ust. 1, nie zostaną rozwiązane, na mocy umów rozwiązujących, wszystkie umowy długoterminowe, o których mowa w załączniku nr 1 do ustawy.
 
-3. Współczynnik oznaczony symbolem „S ” oblicza się według wzoru: K S  K gdzie poszczególne symbole oznaczają: K sumę kosztów osieroconych określonych w załączniku nr 2 do ustawy obliczoną dla wytwórców, którzy otrzymują środki na pokrycie kosztów osieroconych na zasadach określonych w ustawie, K sumę kosztów osieroconych określonych w załączniku nr 2 do ustawy.
+3. Współczynnik oznaczony symbolem „S ” oblicza się według wzoru: K S = K gdzie poszczególne symbole oznaczają: K – sumę kosztów osieroconych określonych w załączniku nr 2 do ustawy obliczoną dla wytwórców, którzy otrzymują środki na pokrycie kosztów osieroconych na zasadach określonych w ustawie, K – sumę kosztów osieroconych określonych w załączniku nr 2 do ustawy.
 
 4. (uchylony)
 
@@ -166,13 +159,13 @@ o zasadach pokrywania kosztów powstałych u wytwórców w związku z przedtermi
 
 1. Stawki opłaty przejściowej od dnia 1 stycznia 2017 r. na miesiąc wynoszą netto:
 
-- **1)** 0,45 zł w odniesieniu do odbiorców, o których mowa w art. 10 ust. 1 pkt 1 lit. a;
-- **2)** 1,90 zł w odniesieniu do odbiorców, o których mowa w art. 10 ust. 1 pkt 1 lit. b;
-- **3)** 6,50 zł w odniesieniu do odbiorców, o których mowa w art. 10 ust. 1 pkt 1 lit. c;
-- **4)** 1,65 zł na kW mocy umownej w odniesieniu do odbiorców, o których mowa w art. 10 ust. 1 pkt 2 lit. a;
-- **5)** 3,80 zł na kW mocy umownej w odniesieniu do odbiorców, o których mowa w art. 10 ust. 1 pkt 2 lit. b;
-- **6)** 3,93 zł na kW mocy umownej w odniesieniu do odbiorców, o których mowa w art. 10 ust. 1 pkt 2 lit. c;
-- **7)** 1,10 zł na kW mocy umownej w odniesieniu do odbiorców, o których mowa w art. 10 ust. 1 pkt 3.
+- **1)** 0,45 zł – w odniesieniu do odbiorców, o których mowa w art. 10 ust. 1 pkt 1 lit. a;
+- **2)** 1,90 zł – w odniesieniu do odbiorców, o których mowa w art. 10 ust. 1 pkt 1 lit. b;
+- **3)** 6,50 zł – w odniesieniu do odbiorców, o których mowa w art. 10 ust. 1 pkt 1 lit. c;
+- **4)** 1,65 zł na kW mocy umownej – w odniesieniu do odbiorców, o których mowa w art. 10 ust. 1 pkt 2 lit. a;
+- **5)** 3,80 zł na kW mocy umownej – w odniesieniu do odbiorców, o których mowa w art. 10 ust. 1 pkt 2 lit. b;
+- **6)** 3,93 zł na kW mocy umownej – w odniesieniu do odbiorców, o których mowa w art. 10 ust. 1 pkt 2 lit. c;
+- **7)** 1,10 zł na kW mocy umownej – w odniesieniu do odbiorców, o których mowa w art. 10 ust. 1 pkt 3.
 
 2. Przez stawkę opłaty przejściowej netto, o której mowa w ust. 1, rozumie się stawkę tej opłaty pomniejszoną o należny podatek od towarów i usług.
 
@@ -180,13 +173,13 @@ o zasadach pokrywania kosztów powstałych u wytwórców w związku z przedtermi
 
 1. Stawki opłaty przejściowej od dnia 1 stycznia 2019 r. na miesiąc wynoszą netto:
 
-- **1)** 0,02 zł w odniesieniu do odbiorców, o których mowa w art. 10 ust. 1 pkt 1 lit. a;
-- **2)** 0,10 zł w odniesieniu do odbiorców, o których mowa w art. 10 ust. 1 pkt 1 lit. b;
-- **3)** 0,33 zł w odniesieniu do odbiorców, o których mowa w art. 10 ust. 1 pkt 1 lit. c;
-- **4)** 0,08 zł na kW mocy umownej w odniesieniu do odbiorców, o których mowa w art. 10 ust. 1 pkt 2 lit. a;
-- **5)** 0,19 zł na kW mocy umownej w odniesieniu do odbiorców, o których mowa w art. 10 ust. 1 pkt 2 lit. b;
-- **6)** 0,20 zł na kW mocy umownej w odniesieniu do odbiorców, o których mowa w art. 10 ust. 1 pkt 2 lit. c;
-- **7)** 0,06 zł na kW mocy umownej w odniesieniu do odbiorców, o których mowa w art. 10 ust. 1 pkt 3.
+- **1)** 0,02 zł – w odniesieniu do odbiorców, o których mowa w art. 10 ust. 1 pkt 1 lit. a;
+- **2)** 0,10 zł – w odniesieniu do odbiorców, o których mowa w art. 10 ust. 1 pkt 1 lit. b;
+- **3)** 0,33 zł – w odniesieniu do odbiorców, o których mowa w art. 10 ust. 1 pkt 1 lit. c;
+- **4)** 0,08 zł na kW mocy umownej – w odniesieniu do odbiorców, o których mowa w art. 10 ust. 1 pkt 2 lit. a;
+- **5)** 0,19 zł na kW mocy umownej – w odniesieniu do odbiorców, o których mowa w art. 10 ust. 1 pkt 2 lit. b;
+- **6)** 0,20 zł na kW mocy umownej – w odniesieniu do odbiorców, o których mowa w art. 10 ust. 1 pkt 2 lit. c;
+- **7)** 0,06 zł na kW mocy umownej – w odniesieniu do odbiorców, o których mowa w art. 10 ust. 1 pkt 3.
 
 2. Przez stawkę opłaty przejściowej netto, o której mowa w ust. 1, rozumie się stawkę tej opłaty pomniejszoną o należny podatek od towarów i usług.
 
@@ -199,17 +192,17 @@ o zasadach pokrywania kosztów powstałych u wytwórców w związku z przedtermi
 1. Płatnicy opłaty przejściowej przekazują operatorowi informacje zawierające dane rzeczywiste o:
 
 - **1)** liczbie odbiorców, o których mowa w art. 10 ust. 1 pkt 1,
-- **2)** mocy umownej w odniesieniu do odbiorców, o których mowa w art. 10 ust. 1 pkt 2 i 3 do 6. dnia miesiąca następującego po okresie rozliczeniowym.
+- **2)** mocy umownej – w odniesieniu do odbiorców, o których mowa w art. 10 ust. 1 pkt 2 i 3 – do 6. dnia miesiąca następującego po okresie rozliczeniowym.
 
 2. Okresem rozliczeniowym, gdy rozliczenia są dokonywane między:
 
 - **1)** operatorem a:
     - **a)** płatnikiem opłaty przejściowej,
-    - **b)** odbiorcą końcowym przyłączonym bezpośrednio do sieci przesyłowej elektroenergetycznej jest miesiąc kalendarzowy;
+    - **b)** odbiorcą końcowym przyłączonym bezpośrednio do sieci przesyłowej elektroenergetycznej – jest miesiąc kalendarzowy;
 
 - **2)** płatnikiem opłaty przejściowej a:
     - **a)** odbiorcą końcowym,
-    - **b)** przedsiębiorstwem, o którym mowa w art. 9 ust. 4 jest okres, w którym są dokonywane rozliczenia za energię elektryczną i usługi przesyłowe.
+    - **b)** przedsiębiorstwem, o którym mowa w art. 9 ust. 4 – jest okres, w którym są dokonywane rozliczenia za energię elektryczną i usługi przesyłowe.
 
 **Art. 15.**
 
@@ -233,10 +226,10 @@ o zasadach pokrywania kosztów powstałych u wytwórców w związku z przedtermi
 
 1. Zarządca Rozliczeń S.A. od dnia przedterminowego rozwiązania umów długoterminowych na mocy umów rozwiązujących, o którym mowa w art. 5 ust. 1, tworzy, na rachunku opłaty przejściowej, zasób środków dla utrzymania płynności wypłat środków na pokrycie kosztów osieroconych oraz kosztów, o których mowa w art. 44, zwany dalej „zasobem płynnościowym”.
 
-2. Począwszy od 2009 r. wysokość zasobu płynnościowego, oznaczoną symbolem „B ”, dla każdego roku „i”, oblicza się według wzoru: B  1,1  K  b  K gdzie poszczególne symbole oznaczają: p wytwórcę, K kwotę kosztów osieroconych obliczoną dla wytwórcy, który:
+2. Począwszy od 2009 r. wysokość zasobu płynnościowego, oznaczoną symbolem „B ”, dla każdego roku „i”, oblicza się według wzoru: B = 1,1  K − b  K gdzie poszczególne symbole oznaczają: p – wytwórcę, K – kwotę kosztów osieroconych obliczoną dla wytwórcy, który:
 
-- **1)** do wniosku, o którym mowa w art. 24 ust. 1, dołączył oświadczenie o wyborze korekty, o której mowa w art. 30 ust. 1, według wzoru: K K  1s    1s  gdzie poszczególne symbole oznaczają: K kwotę kosztów osieroconych określoną w załączniku nr 3 do ustawy, dla roku poprzedzającego dany rok kalendarzowy „i”, j kolejne lata pomiędzy rokiem 2007 a rokiem „i–1”, s stopę aktualizacji w wysokości równej stopie aktualizacji, oznaczonej symbolem „s ”, z roku poprzedniego, s stopę aktualizacji równą rentowności pięcioletnich obligacji skarbowych emitowanych na najbliższy dzień poprzedzający dzień 30 czerwca danego roku „j”, według danych opublikowanych przez ministra właściwego do spraw finansów publicznych oraz Główny Urząd Statystyczny, powiększonej o różnicę pomiędzy stopą kredytu redyskontowego a stopą depozytową Narodowego Banku Polskiego obowiązującymi w dniu 30 czerwca danego roku „j”;
-- **2)** do wniosku, o którym mowa w art. 24 ust. 1, w roku „i–2”, dołączył oświadczenie o wyborze korekty, o której mowa w art. 30 ust. 2, w wysokości określonej dla tego wytwórcy dla roku „i–1” w załączniku nr 4 do ustawy, b współczynnik korygujący, który wynosi: 0,9 dla roku „i” obejmującego 2009 r. i 2010 r., 0,5 dla roku „i” od roku 2011 do roku 2026, K kwotę zaliczki na rok „i”, w wysokości określonej we wniosku, o którym mowa w art. 24 ust. 1.
+- **1)** do wniosku, o którym mowa w art. 24 ust. 1, dołączył oświadczenie o wyborze korekty, o której mowa w art. 30 ust. 1, według wzoru: ( ) ( ) gdzie poszczególne symbole oznaczają: K – kwotę kosztów osieroconych określoną w załączniku nr 3 do ustawy, dla roku poprzedzającego dany rok kalendarzowy „i”, j – kolejne lata pomiędzy rokiem 2007 a rokiem „i–1”, s – stopę aktualizacji w wysokości równej stopie aktualizacji, oznaczonej symbolem „s ”, z roku poprzedniego, s – stopę aktualizacji równą rentowności pięcioletnich obligacji skarbowych emitowanych na najbliższy dzień poprzedzający dzień 30 czerwca danego roku „j”, według danych opublikowanych przez ministra właściwego do spraw finansów publicznych oraz Główny Urząd Statystyczny, powiększonej o różnicę pomiędzy stopą kredytu redyskontowego a stopą depozytową Narodowego Banku Polskiego obowiązującymi w dniu 30 czerwca danego roku „j”;
+- **2)** do wniosku, o którym mowa w art. 24 ust. 1, w roku „i–2”, dołączył oświadczenie o wyborze korekty, o której mowa w art. 30 ust. 2, w wysokości określonej dla tego wytwórcy dla roku „i–1” w załączniku nr 4 do ustawy, b – współczynnik korygujący, który wynosi: – 0,9 dla roku „i” obejmującego 2009 r. i 2010 r., – 0,5 dla roku „i” od roku 2011 do roku 2026, K – kwotę zaliczki na rok „i”, w wysokości określonej we wniosku, o którym mowa w art. 24 ust. 1.
 
 3. Wysokość zasobu płynnościowego, oznaczoną symbolem „B ”, w danym roku „i”, oblicza się z uwzględnieniem tych wytwórców, dla których nie dokonano korekty, o której mowa w art. 31 ust. 1, i nie wypłacono im kwoty kosztów osieroconych w wysokości określonej w załączniku nr 3 do ustawy.
 
@@ -256,7 +249,7 @@ o zasadach pokrywania kosztów powstałych u wytwórców w związku z przedtermi
 
 - **1)** odsetek od środków zgromadzonych na rachunku opłaty przejściowej,
 - **2)** lokat, o których mowa w art. 54 ust. 1,
-- **3)** dodatniej różnicy między sumą kwot otrzymanych od wytwórców w wyniku korekt, o których mowa w art. 30 ust. 1 i 2, art. 31 ust. 1 oraz art. 46 ust. 1, a sumą kwot wypłaconych na pokrycie kosztów osieroconych w wyniku tych korekt suma tych środków jest przeznaczana na pokrycie kosztów osieroconych.
+- **3)** dodatniej różnicy między sumą kwot otrzymanych od wytwórców w wyniku korekt, o których mowa w art. 30 ust. 1 i 2, art. 31 ust. 1 oraz art. 46 ust. 1, a sumą kwot wypłaconych na pokrycie kosztów osieroconych w wyniku tych korekt – suma tych środków jest przeznaczana na pokrycie kosztów osieroconych.
 
 2. Jeżeli w wyniku uwzględnienia środków, o których mowa w ust. 1, stawka opłaty przejściowej w danym roku byłaby mniejsza niż jeden grosz, nie pobiera się opłaty przejściowej.
 
@@ -310,13 +303,13 @@ o zasadach pokrywania kosztów powstałych u wytwórców w związku z przedtermi
 
 2. Wniosek, o którym mowa w ust. 1, zawiera:
 
-- **1)** oznaczenie wytwórcy jego firmę, siedzibę i adres;
+- **1)** oznaczenie wytwórcy – jego firmę, siedzibę i adres;
 - **2)** wysokość wnioskowanej kwoty zaliczki;
 - **3)** oznaczenie roku, którego wniosek dotyczy.
 
 3. Do wniosku należy dołączyć oświadczenie o wyborze sposobu dokonania korekty, o której mowa w art. 30 ust. 1 albo ust. 2.
 
-4. Prezes URE, w drodze decyzji administracyjnej, ustala zaktualizowaną na dany rok „i” kwotę kosztów osieroconych, o której mowa w załączniku nr 3 do ustawy, oznaczoną symbolem „K ”, dla danego wytwórcy na rok następny, według wzoru:   K  K  1s gdzie poszczególne symbole oznaczają: K kwotę kosztów osieroconych, o której mowa w załączniku nr 3 do ustawy, dla danego roku „i”, j kolejne lata między rokiem 2007 a rokiem „i”, s stopę aktualizacji, o której mowa w art. 18 ust. 2.
+4. Prezes URE, w drodze decyzji administracyjnej, ustala zaktualizowaną na dany rok „i” kwotę kosztów osieroconych, o której mowa w załączniku nr 3 do ustawy, oznaczoną symbolem „K ”, dla danego wytwórcy na rok następny, według wzoru: K = K  ( 1+s ) gdzie poszczególne symbole oznaczają: K – kwotę kosztów osieroconych, o której mowa w załączniku nr 3 do ustawy, dla danego roku „i”, j – kolejne lata między rokiem 2007 a rokiem „i”, s – stopę aktualizacji, o której mowa w art. 18 ust. 2.
 
 5. Obliczoną zaktualizowaną na dany rok „i” kwotę kosztów osieroconych Prezes URE ogłasza w Biuletynie URE do dnia 31 lipca każdego roku.
 
@@ -327,9 +320,9 @@ o zasadach pokrywania kosztów powstałych u wytwórców w związku z przedtermi
 
 **Art. 25.**
 
-1. Od decyzji administracyjnej, o której mowa w art. 24 ust. 4, wytwórcy służy odwołanie do Sądu Okręgowego w Warszawie sądu ochrony konkurencji i konsumentów, w terminie 14 dni od dnia jej doręczenia.
+1. Od decyzji administracyjnej, o której mowa w art. 24 ust. 4, wytwórcy służy odwołanie do Sądu Okręgowego w Warszawie – sądu ochrony konkurencji i konsumentów, w terminie 14 dni od dnia jej doręczenia.
 
-2. Postępowanie w sprawie odwołania, o którym mowa w ust. 1, toczy się według przepisów ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, 1981 i 2052) o postępowaniu w sprawach z zakresu regulacji energetyki.
+2. Postępowanie w sprawie odwołania, o którym mowa w ust. 1, toczy się według przepisów ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, 1981 i 2052) o postępowaniu w sprawach z zakresu regulacji energetyki.
 
 3. Wniesienie odwołania nie wstrzymuje wykonania decyzji administracyjnej.
 
@@ -347,22 +340,22 @@ o zasadach pokrywania kosztów powstałych u wytwórców w związku z przedtermi
 
 **Art. 27.**
 
-1. Wysokość kosztów osieroconych wytwórcy, oznaczonych symbolem „K ”, oblicza się według wzoru: gdzie poszczególne symbole oznaczają: N wartość księgową netto rzeczowych środków trwałych i środków trwałych w budowie zaktualizowaną na koniec 2004 r. pomniejszoną o odpisy amortyzacyjne z lat 2005–2006, z uwzględnieniem ust. 2, S sumę zaktualizowanej wartości wyników finansowych netto z działalności operacyjnej wytwórcy, skorygowanych o amortyzację, dostępnych do obsługi zainwestowanego kapitału własnego i obcego od dnia 1 stycznia 2007 r. do roku, w którym wygasa najdłuższa umowa długoterminowa danego wytwórcy, obliczaną w sposób określony w ust. 3, R wartość aktywów danego wytwórcy po zakończeniu okresu korygowania, obliczaną w sposób określony w ust. 5, P wysokość dotacji i umorzeń związanych z majątkiem służącym do wytwarzania energii elektrycznej objętym umowami długoterminowymi.
+1. Wysokość kosztów osieroconych wytwórcy, oznaczonych symbolem „K ”, oblicza się według wzoru: K = N−S −R−P gdzie poszczególne symbole oznaczają: N – wartość księgową netto rzeczowych środków trwałych i środków trwałych w budowie zaktualizowaną na koniec 2004 r. pomniejszoną o odpisy amortyzacyjne z lat 2005–2006, z uwzględnieniem ust. 2, S – sumę zaktualizowanej wartości wyników finansowych netto z działalności operacyjnej wytwórcy, skorygowanych o amortyzację, dostępnych do obsługi zainwestowanego kapitału własnego i obcego od dnia 1 stycznia 2007 r. do roku, w którym wygasa najdłuższa umowa długoterminowa danego wytwórcy, obliczaną w sposób określony w ust. 3, R – wartość aktywów danego wytwórcy po zakończeniu okresu korygowania, obliczaną w sposób określony w ust. 5, P – wysokość dotacji i umorzeń związanych z majątkiem służącym do wytwarzania energii elektrycznej objętym umowami długoterminowymi.
 
 2. Przy obliczaniu wartości „N”, o której mowa w ust. 1:
 
 - **1)** wartość księgową netto rzeczowych środków trwałych i środków trwałych w budowie zaktualizowaną na koniec 2004 r. oblicza się dla wytwórców, u których:
-    - **a)** dokonano przeszacowania majątku jako sumę zaktualizowanej wartości księgowej netto rzeczowych środków trwałych w roku, w którym dokonano przeszacowania majątku i nakładów na środki trwałe, poniesionych w okresie od dnia przeszacowania tego majątku i nakładów na środki trwałe do dnia 31 grudnia 2004 r., pomniejszonych o sumę odpisów amortyzacyjnych związanych z wytwarzaniem energii elektrycznej,
-    - **b)** nie dokonano przeszacowania majątku jako sumę zaktualizowanej wartości nakładów na środki trwałe, pomniejszoną o sumę odpisów amortyzacyjnych związanych z wytwarzaniem energii elektrycznej;
+    - **a)** dokonano przeszacowania majątku – jako sumę zaktualizowanej wartości księgowej netto rzeczowych środków trwałych w roku, w którym dokonano przeszacowania majątku i nakładów na środki trwałe, poniesionych w okresie od dnia przeszacowania tego majątku i nakładów na środki trwałe do dnia 31 grudnia 2004 r., pomniejszonych o sumę odpisów amortyzacyjnych związanych z wytwarzaniem energii elektrycznej,
+    - **b)** nie dokonano przeszacowania majątku – jako sumę zaktualizowanej wartości nakładów na środki trwałe, pomniejszoną o sumę odpisów amortyzacyjnych związanych z wytwarzaniem energii elektrycznej;
 
 - **2)** wartości nakładów na środki trwałe poniesione do dnia 31 grudnia 2004 r., pomniejszone o sumę odpisów amortyzacyjnych związanych z wytwarzaniem energii elektrycznej, aktualizuje się skorygowanym skumulowanym wskaźnikiem zmian cen nakładów inwestycyjnych, obliczonym jako iloczyn wskaźników zmian tych cen w poszczególnych latach, pomniejszonych o 3 punkty procentowe, przy czym, jeżeli wskaźnik ten za dany rok wynosi mniej niż 3 punkty procentowe, przyjmuje się wskaźnik równy jeden; aktualizacji tej dokonuje się za okres od dnia przeszacowania majątku w przypadku, o którym mowa w pkt 1 lit. a, albo od dnia poniesienia wydatków w przypadku, o którym mowa w pkt 1 lit. b, do dnia 31 grudnia 2004 r.;
-- **3)** w obliczeniach zaktualizowanej wartości księgowej netto rzeczowych środków trwałych uwzględnia się wartość planowanych nakładów inwestycyjnych w okresie od dnia 1 maja 2004 r. do dnia 31 grudnia 2007 r., jeżeli koszty związane z dokończeniem rozpoczętej inwestycji będą niższe od kosztów powstałych w wyniku zaniechania jej kontynuowania w przypadku wytwórcy, który do dnia wejścia w życie ustawy nie oddał do użytku jednostki wytwórczej objętej umową długoterminową.
+- **3)** w obliczeniach zaktualizowanej wartości księgowej netto rzeczowych środków trwałych uwzględnia się wartość planowanych nakładów inwestycyjnych w okresie od dnia 1 maja 2004 r. do dnia 31 grudnia 2007 r., jeżeli koszty związane z dokończeniem rozpoczętej inwestycji będą niższe od kosztów powstałych w wyniku zaniechania jej kontynuowania – w przypadku wytwórcy, który do dnia wejścia w życie ustawy nie oddał do użytku jednostki wytwórczej objętej umową długoterminową.
 
-3. Sumę, oznaczoną symbolem „S ”, o której mowa w ust. 1, oblicza się według wzoru:      W S 1 r gdzie poszczególne symbole oznaczają: j kolejne lata począwszy od roku 2007 do ostatniego roku okresu korygowania, W wartość wyniku finansowego netto z działalności operacyjnej wytwórcy, skorygowanego o amortyzację, dostępnego do obsługi zainwestowanego kapitału własnego i obcego dla roku kalendarzowego „j”, przy czym wartość wyniku finansowego netto dla roku, w którym wygasa najdłuższa umowa długoterminowa danego wytwórcy, jest pomniejszona proporcjonalnie do ilości dni obowiązywania tej umowy w tym roku, obliczaną w sposób określony w ust. 4, r stopę dyskonta równą wielkości średnioważonego kosztu kapitału, t liczbę lat między rokiem 2007 a rokiem „j”.
+3. Sumę, oznaczoną symbolem „S ”, o której mowa w ust. 1, oblicza się według wzoru: ( ) =  + W S 1 r gdzie poszczególne symbole oznaczają: j – kolejne lata począwszy od roku 2007 do ostatniego roku okresu korygowania, W – wartość wyniku finansowego netto z działalności operacyjnej wytwórcy, skorygowanego o amortyzację, dostępnego do obsługi zainwestowanego kapitału własnego i obcego dla roku kalendarzowego „j”, przy czym wartość wyniku finansowego netto dla roku, w którym wygasa najdłuższa umowa długoterminowa danego wytwórcy, jest pomniejszona proporcjonalnie do ilości dni obowiązywania tej umowy w tym roku, obliczaną w sposób określony w ust. 4, r – stopę dyskonta równą wielkości średnioważonego kosztu kapitału, t – liczbę lat między rokiem 2007 a rokiem „j”.
 
-4. Wartość wyniku finansowego, oznaczonego symbolem „W ”, o którym mowa w ust. 3, oblicza się według wzoru: W (D K )(1T )A gdzie poszczególne symbole oznaczają: D przychody ze sprzedaży energii elektrycznej, rezerw mocy i usług systemowych na rynku konkurencyjnym, K koszty działalności operacyjnej związanej ze sprzedażą energii elektrycznej, rezerw mocy i usług systemowych, T obowiązującą w danym roku stawkę podatku dochodowego od osób prawnych; w przypadku gdy różnica przychodów ze sprzedaży energii elektrycznej, rezerw mocy i usług systemowych na rynku konkurencyjnym i kosztów działalności operacyjnej związanej ze sprzedażą energii elektrycznej, rezerw mocy i usług systemowych, pomniejszoną o koszty finansowe wynikające z zobowiązań związanych z umowami długoterminowymi oraz koszty finansowe konieczne do poniesienia ze względu na utrzymanie płynności finansowej jest ujemna, to należy przyjąć stawkę podatku dochodowego od osób prawnych równą zero, A amortyzację w odniesieniu do rzeczowych środków trwałych związanych z wytwarzaniem energii elektrycznej, o których mowa w symbolu „N”, obliczaną zgodnie z przepisami ustawy, o której mowa w art. 20 ust. 2, dla roku kalendarzowego „j”, przy czym wartość amortyzacji dla roku, w którym wygasa najdłuższa umowa długoterminowa danego wytwórcy, pomniejsza się proporcjonalnie do ilości dni obowiązywania tej umowy w tym roku.
+4. Wartość wyniku finansowego, oznaczonego symbolem „W ”, o którym mowa w ust. 3, oblicza się według wzoru: W =(D −K )(1−T )+A gdzie poszczególne symbole oznaczają: D – przychody ze sprzedaży energii elektrycznej, rezerw mocy i usług systemowych na rynku konkurencyjnym, K – koszty działalności operacyjnej związanej ze sprzedażą energii elektrycznej, rezerw mocy i usług systemowych, T – obowiązującą w danym roku stawkę podatku dochodowego od osób prawnych; w przypadku gdy różnica przychodów ze sprzedaży energii elektrycznej, rezerw mocy i usług systemowych na rynku konkurencyjnym i kosztów działalności operacyjnej związanej ze sprzedażą energii elektrycznej, rezerw mocy i usług systemowych, pomniejszoną o koszty finansowe wynikające z zobowiązań związanych z umowami długoterminowymi oraz koszty finansowe konieczne do poniesienia ze względu na utrzymanie płynności finansowej jest ujemna, to należy przyjąć stawkę podatku dochodowego od osób prawnych równą zero, A – amortyzację w odniesieniu do rzeczowych środków trwałych związanych z wytwarzaniem energii elektrycznej, o których mowa w symbolu „N”, obliczaną zgodnie z przepisami ustawy, o której mowa w art. 20 ust. 2, dla roku kalendarzowego „j”, przy czym wartość amortyzacji dla roku, w którym wygasa najdłuższa umowa długoterminowa danego wytwórcy, pomniejsza się proporcjonalnie do ilości dni obowiązywania tej umowy w tym roku.
 
-5. Wartość aktywów, oznaczoną symbolem „R”, o której mowa w ust. 1, oblicza się według wzoru:  1 r  N A R     gdzie poszczególne symbole oznaczają: N wartość księgową netto rzeczowych środków trwałych i środków trwałych w budowie na koniec 2004 r. pomniejszoną o odpisy amortyzacyjne z lat 2005–2006, j kolejne lata począwszy od roku 2007 do ostatniego roku okresu korygowania, A amortyzację, o której mowa w ust. 4, r stopę dyskonta równą wielkości średnioważonego kosztu kapitału, t liczbę lat między rokiem 2007 a ostatnim rokiem okresu korygowania.
+5. Wartość aktywów, oznaczoną symbolem „R”, o której mowa w ust. 1, oblicza się według wzoru: ( ) N − A R = 1+r  gdzie poszczególne symbole oznaczają: N – wartość księgową netto rzeczowych środków trwałych i środków trwałych w budowie na koniec 2004 r. pomniejszoną o odpisy amortyzacyjne z lat 2005–2006, j – kolejne lata począwszy od roku 2007 do ostatniego roku okresu korygowania, A – amortyzację, o której mowa w ust. 4, r – stopę dyskonta równą wielkości średnioważonego kosztu kapitału, t – liczbę lat między rokiem 2007 a ostatnim rokiem okresu korygowania.
 
 **Art. 28.**
 
@@ -371,7 +364,7 @@ o zasadach pokrywania kosztów powstałych u wytwórców w związku z przedtermi
 - **1)** wartości wyniku finansowego, oznaczonego symbolem „W ”, o którym mowa w art. 27 ust. 3,
 - **2)** wielkości sprzedaży energii elektrycznej oraz wysokości cen za tę energię,
 - **3)** wytwarzania energii elektrycznej oraz kosztów jej wytwarzania,
-- **4)** wysokości kosztów nieodebranego paliwa gazowego, o których mowa w art. 44 ust. 1 za rok kalendarzowy poprzedzający rok, w którym dane są przekazywane.
+- **4)** wysokości kosztów nieodebranego paliwa gazowego, o których mowa w art. 44 ust. 1 – za rok kalendarzowy poprzedzający rok, w którym dane są przekazywane.
 
 2. Jeżeli wytwórca będący stroną umowy rozwiązującej wchodzi w skład grupy kapitałowej, do przekazywania danych, o których mowa w ust. 1, są obowiązane także, wchodzące w skład tej grupy, inne podmioty wykonujące działalność gospodarczą w zakresie wytwarzania energii elektrycznej w jednostkach wytwórczych wymienionych w załączniku nr 7 do ustawy.
 
@@ -388,7 +381,7 @@ o zasadach pokrywania kosztów powstałych u wytwórców w związku z przedtermi
 2. Sprawozdanie, o którym mowa w ust. 1, zawiera w szczególności informacje dotyczące:
 
 - **1)** kalkulacji kosztów osieroconych za rok poprzedni;
-- **2)** zmiany sytuacji na rynku energii elektrycznej, z uwzględnieniem cech rynku energii, o których mowa w art. 49 ust. 3 ustawy z dnia 10 kwietnia 1997 r. Prawo energetyczne.
+- **2)** zmiany sytuacji na rynku energii elektrycznej, z uwzględnieniem cech rynku energii, o których mowa w art. 49 ust. 3 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne.
 
 3. Minister właściwy do spraw energii na podstawie informacji, o których mowa w ust. 1 oraz w art. 57, opracowuje i przedstawia Prezesowi Urzędu Ochrony Konkurencji i Konsumentów, zwanemu dalej „Prezesem UOKiK”, corocznie do dnia 31 maja, raport z realizacji ustawy.
 
@@ -396,12 +389,12 @@ o zasadach pokrywania kosztów powstałych u wytwórców w związku z przedtermi
 
 **Art. 30.**
 
-1. Prezes URE, do dnia 31 lipca każdego roku kalendarzowego „i”, w drodze decyzji administracyjnej, ustala wysokość korekty rocznej kosztów osieroconych, oznaczoną symbolem „K ”, dla roku poprzedzającego dany rok kalendarzowy, dla wytwórcy, który w oświadczeniu, o którym mowa w art. 24 ust. 3, wskazał ten sposób dokonywania korekty, według wzoru:     1 s K 1 r W K K                 gdzie poszczególne symbole oznaczają: K kwotę kosztów osieroconych dla danego wytwórcy określoną w załączniku nr 3 do ustawy, dla roku poprzedzającego dany rok kalendarzowy „i”, i rok, w którym jest obliczana korekta roczna kosztów osieroconych, j kolejne lata między rokiem 2007 a rokiem poprzedzającym dany rok kalendarzowy „i”, s stopę aktualizacji, o której mowa w art. 18 ust. 2, W różnicę między rzeczywistą wartością wyniku finansowego netto z działalności operacyjnej, skorygowanego o amortyzację, dostępnego do obsługi zainwestowanego kapitału własnego i obcego dla roku poprzedzającego dany rok kalendarzowy „i”, w którym jest obliczana korekta roczna kosztów osieroconych, a prognozowaną wartością tego wyniku dla roku poprzedzającego dany rok kalendarzowy „i”, w którym jest obliczana ta korekta, określoną w załączniku nr 5 do ustawy, K wypłaconą wytwórcy kwotę zaliczek na poczet kosztów osieroconych w roku poprzedzającym dany rok kalendarzowy „i”, r stopę dyskonta, określoną w załączniku nr 6 do ustawy.
+1. Prezes URE, do dnia 31 lipca każdego roku kalendarzowego „i”, w drodze decyzji administracyjnej, ustala wysokość korekty rocznej kosztów osieroconych, oznaczoną symbolem „K ”, dla roku poprzedzającego dany rok kalendarzowy, dla wytwórcy, który w oświadczeniu, o którym mowa w art. 24 ust. 3, wskazał ten sposób dokonywania korekty, według wzoru: ( ) K K W ( 1 s ) K 1 r     =   −    + −  +  gdzie poszczególne symbole oznaczają: K – kwotę kosztów osieroconych dla danego wytwórcy określoną w załączniku nr 3 do ustawy, dla roku poprzedzającego dany rok kalendarzowy „i”, i – rok, w którym jest obliczana korekta roczna kosztów osieroconych, j – kolejne lata między rokiem 2007 a rokiem poprzedzającym dany rok kalendarzowy „i”, s – stopę aktualizacji, o której mowa w art. 18 ust. 2, W – różnicę między rzeczywistą wartością wyniku finansowego netto z działalności operacyjnej, skorygowanego o amortyzację, dostępnego do obsługi zainwestowanego kapitału własnego i obcego dla roku poprzedzającego dany rok kalendarzowy „i”, w którym jest obliczana korekta roczna kosztów osieroconych, a prognozowaną wartością tego wyniku dla roku poprzedzającego dany rok kalendarzowy „i”, w którym jest obliczana ta korekta, określoną w załączniku nr 5 do ustawy, K – wypłaconą wytwórcy kwotę zaliczek na poczet kosztów osieroconych w roku poprzedzającym dany rok kalendarzowy „i”, r – stopę dyskonta, określoną w załączniku nr 6 do ustawy.
 
-2. Prezes URE do dnia 31 lipca każdego roku ustala, w drodze decyzji administracyjnej, wysokość korekty rocznej kosztów osieroconych, oznaczoną symbolem „K ”, dla roku poprzedzającego dany rok kalendarzowy, dla wytwórcy, który w oświadczeniu, o którym mowa w art. 24 ust. 3, wskazał ten sposób dokonywania korekty, według wzoru:  K  W  R  O   W  K gdzie poszczególne symbole oznaczają: W wskaźnik wcześniejszej spłaty zadłużenia, równy: 1,2 dla wytwórcy, który do wniosku, o którym mowa w art. 24 ust. 1, dołączył zobowiązanie o przeznaczeniu co najmniej 20% kwoty wynikającej z raty spłaty zadłużenia i odsetek, o których mowa w symbolach R i O , w roku, którego dotyczy wniosek, na przedterminową spłatę zadłużenia wynikającego z umów kredytowych i umów pożyczek:
+2. Prezes URE do dnia 31 lipca każdego roku ustala, w drodze decyzji administracyjnej, wysokość korekty rocznej kosztów osieroconych, oznaczoną symbolem „K ”, dla roku poprzedzającego dany rok kalendarzowy, dla wytwórcy, który w oświadczeniu, o którym mowa w art. 24 ust. 3, wskazał ten sposób dokonywania korekty, według wzoru:  K = W ( R + O ) − W − K gdzie poszczególne symbole oznaczają: W – wskaźnik wcześniejszej spłaty zadłużenia, równy: – 1,2 dla wytwórcy, który do wniosku, o którym mowa w art. 24 ust. 1, dołączył zobowiązanie o przeznaczeniu co najmniej 20% kwoty wynikającej z raty spłaty zadłużenia i odsetek, o których mowa w symbolach R i O , w roku, którego dotyczy wniosek, na przedterminową spłatę zadłużenia wynikającego z umów kredytowych i umów pożyczek: – na finansowanie nakładów na rzeczowe środki trwałe i środki trwałe w budowie, oznaczone symbolem N, o którym mowa w art. 27 ust. 1, O – kwotę odsetek zapłaconych w roku „i–1”, wynikających z umów kredytowych, umów pożyczek, umowy o emisję obligacji i papierów dłużnych – zawartych przed dniem 1 maja 2004 r. – a dla wytwórców, którzy do dnia wejścia w życie ustawy nie oddali jednostki wytwórczej do użytku, zawartych do dnia 1 stycznia 2007 r. – na finansowanie nakładów na rzeczowe środki trwałe i środki trwałe w budowie, oznaczone symbolem N, o którym mowa w art. 27 ust. 1, W – wartość wyniku finansowego na działalności operacyjnej wytwórcy, skorygowanego o amortyzację, o którym mowa w art. 27 ust. 3, w roku „i–1”, K – kwotę zaliczek, o których mowa w ust. 1, i – rok, w którym jest obliczana korekta roczna kosztów osieroconych.
 
 - **a)** na finansowanie nakładów na rzeczowe środki trwałe i środki trwałe w budowie, oznaczone symbolem N, o którym mowa w art. 27 ust. 1, zawartych przed dniem 1 maja 2004 r., a dla wytwórców, którzy do dnia wejścia w życie ustawy nie oddali jednostki wytwórczej do użytku, zawartych do dnia 1 stycznia 2007 r.,
-- **b)** na refinansowanie zobowiązań, o których mowa w lit. a, 1 dla pozostałych wytwórców, R ratę spłaty zadłużenia spłaconego w roku „i–1”, wynikającego z umów kredytowych, umów pożyczek, umowy o emisję obligacji i papierów dłużnych zawartych przed dniem 1 maja 2004 r. a dla wytwórców, którzy do dnia wejścia w życie ustawy nie oddali jednostki wytwórczej do użytku, zawartych do dnia 1 stycznia 2007 r. na finansowanie nakładów na rzeczowe środki trwałe i środki trwałe w budowie, oznaczone symbolem N, o którym mowa w art. 27 ust. 1, O kwotę odsetek zapłaconych w roku „i–1”, wynikających z umów kredytowych, umów pożyczek, umowy o emisję obligacji i papierów dłużnych zawartych przed dniem 1 maja 2004 r. a dla wytwórców, którzy do dnia wejścia w życie ustawy nie oddali jednostki wytwórczej do użytku, zawartych do dnia 1 stycznia 2007 r. na finansowanie nakładów na rzeczowe środki trwałe i środki trwałe w budowie, oznaczone symbolem N, o którym mowa w art. 27 ust. 1, W wartość wyniku finansowego na działalności operacyjnej wytwórcy, skorygowanego o amortyzację, o którym mowa w art. 27 ust. 3, w roku „i–1”, K kwotę zaliczek, o których mowa w ust. 1, i rok, w którym jest obliczana korekta roczna kosztów osieroconych.
+- **b)** na refinansowanie zobowiązań, o których mowa w lit. a, – 1 dla pozostałych wytwórców, R – ratę spłaty zadłużenia spłaconego w roku „i–1”, wynikającego z umów kredytowych, umów pożyczek, umowy o emisję obligacji i papierów dłużnych – zawartych przed dniem 1 maja 2004 r. – a dla wytwórców, którzy do dnia wejścia w życie ustawy nie oddali jednostki wytwórczej do użytku, zawartych do dnia 1 stycznia 2007 r.
 
 3. W przypadku refinansowania przez wytwórców zobowiązań wynikających z umów kredytu, pożyczki lub zobowiązań z tytułu emisji papierów wartościowych, zaciągniętych przed dniem 1 maja 2004 r. na finansowanie nakładów na rzeczowe środki trwałe i środki trwałe w budowie, oznaczone symbolem N, o którym mowa w art. 27 ust. 1, koszty ponoszone przez wytwórców wynikające z refinansowania są uwzględniane w symbolach R , O , o których mowa w ust. 2, do wysokości nie wyższej niż wynikającej z kwot określonych w załączniku nr 4 do ustawy dla danego wytwórcy w danym roku.
 
@@ -415,9 +408,9 @@ o zasadach pokrywania kosztów powstałych u wytwórców w związku z przedtermi
 
 **Art. 31.**
 
-1. Prezes URE, do dnia 31 sierpnia roku „i” następującego po zakończeniu okresu korygowania, w drodze decyzji administracyjnej, ustala dla wytwórcy wysokość korekty końcowej kosztów osieroconych, oznaczonej symbolem „K ”, według wzoru:          K  K K     1s    1s      gdzie poszczególne symbole oznaczają: K należną kwotę kosztów osieroconych obliczaną w sposób określony w ust. 2, j kolejne lata kalendarzowe między rokiem 2007 a ostatnim rokiem okresu korygowania, K sumę rat zaliczek wypłaconych wytwórcy w danym roku „j” i kwoty korekty rocznej wypłaconej albo zwróconej przez wytwórcę Zarządcy Rozliczeń S.A. w danym roku „j”, s stopę aktualizacji, o której mowa w art. 18 ust. 2.
+1. Prezes URE, do dnia 31 sierpnia roku „i” następującego po zakończeniu okresu korygowania, w drodze decyzji administracyjnej, ustala dla wytwórcy wysokość korekty końcowej kosztów osieroconych, oznaczonej symbolem „K ”, według wzoru: ( ) ( )      K  K =K −    1+s    1+s      gdzie poszczególne symbole oznaczają: K – należną kwotę kosztów osieroconych obliczaną w sposób określony w ust. 2, j – kolejne lata kalendarzowe między rokiem 2007 a ostatnim rokiem okresu korygowania, K – sumę rat zaliczek wypłaconych wytwórcy w danym roku „j” i kwoty korekty rocznej wypłaconej albo zwróconej przez wytwórcę Zarządcy Rozliczeń S.A. w danym roku „j”, s – stopę aktualizacji, o której mowa w art. 18 ust. 2.
 
-2. Należną kwotę kosztów osieroconych, oznaczoną symbolem „K ”, o której mowa w ust. 1, oblicza się według wzoru:                                t W M K N A R P t 1 r 1 s gdzie poszczególne symbole oznaczają: N zaktualizowaną wartość księgową netto rzeczowych środków trwałych i środków trwałych w budowie oznaczoną symbolem „N”, o której mowa w art. 27, skorygowaną o różnicę między planowaną wartością nakładów inwestycyjnych rozpoczętych przed dniem 1 maja 2004 r. i kontynuowanych zgodnie z umową długoterminową po tym dniu do dnia 31 grudnia 2007 r. a rzeczywiście poniesioną wartością tych nakładów, u rok, w którym nastąpiło przedterminowe rozwiązanie umów długoterminowych na mocy umów rozwiązujących, n kolejne lata między rokiem 2007 a rokiem „u”, A amortyzację w odniesieniu do rzeczowych środków trwałych związanych z wytwarzaniem energii elektrycznej, o których mowa w symbolu „N”, o której mowa w art. 27 ust. 4, dla danego roku „n”, t liczbę dni w roku „n”, t liczbę dni w danym roku „n”, w okresie od dnia 1 stycznia do dnia, w którym nastąpiło przedterminowe rozwiązanie umów długoterminowych na mocy umów rozwiązujących, W rzeczywistą wartość wyniku finansowego netto na działalności operacyjnej, skorygowanego o amortyzację, dostępnego do obsługi zainwestowanego kapitału własnego i obcego w okresie korygowania, obliczoną w sposób określony w art. 27 ust. 4, r stopę dyskonta określoną w załączniku nr 6 do ustawy, R wartość aktywów danego wytwórcy po zakończeniu okresu korygowania, obliczaną w sposób określony w art. 27 ust. 5, P wielkość, o której mowa w art. 27 ust. 1, j kolejne lata kalendarzowe między rokiem 2007 a ostatnim rokiem okresu korygowania, M kwotę zmniejszenia lub zwiększenia wysokości korekty rocznej kosztów osieroconych, o której mowa w art. 37 ust. 3, s stopę aktualizacji, o której mowa w art. 18 ust. 2.
+2. Należną kwotę kosztów osieroconych, oznaczoną symbolem „K ”, o której mowa w ust. 1, oblicza się według wzoru: ( ) ( )          = − −  − − −    +    +    t W M K N A R P t 1 r 1 s gdzie poszczególne symbole oznaczają: N – zaktualizowaną wartość księgową netto rzeczowych środków trwałych i środków trwałych w budowie oznaczoną symbolem „N”, o której mowa w art. 27, skorygowaną o różnicę między planowaną wartością nakładów inwestycyjnych rozpoczętych przed dniem 1 maja 2004 r. i kontynuowanych zgodnie z umową długoterminową po tym dniu do dnia 31 grudnia 2007 r. a rzeczywiście poniesioną wartością tych nakładów, u – rok, w którym nastąpiło przedterminowe rozwiązanie umów długoterminowych na mocy umów rozwiązujących, n – kolejne lata między rokiem 2007 a rokiem „u”, A – amortyzację w odniesieniu do rzeczowych środków trwałych związanych z wytwarzaniem energii elektrycznej, o których mowa w symbolu „N”, o której mowa w art. 27 ust. 4, dla danego roku „n”, t – liczbę dni w roku „n”, t – liczbę dni w danym roku „n”, w okresie od dnia 1 stycznia do dnia, w którym nastąpiło przedterminowe rozwiązanie umów długoterminowych na mocy umów rozwiązujących, W – rzeczywistą wartość wyniku finansowego netto na działalności operacyjnej, skorygowanego o amortyzację, dostępnego do obsługi zainwestowanego kapitału własnego i obcego w okresie korygowania, obliczoną w sposób określony w art. 27 ust. 4, r – stopę dyskonta określoną w załączniku nr 6 do ustawy, R – wartość aktywów danego wytwórcy po zakończeniu okresu korygowania, obliczaną w sposób określony w art. 27 ust. 5, P – wielkość, o której mowa w art. 27 ust. 1, j – kolejne lata kalendarzowe między rokiem 2007 a ostatnim rokiem okresu korygowania, M – kwotę zmniejszenia lub zwiększenia wysokości korekty rocznej kosztów osieroconych, o której mowa w art. 37 ust. 3, s – stopę aktualizacji, o której mowa w art. 18 ust. 2.
 
 3. Przepisy art. 30 ust. 6 stosuje się do wysokości korekty, o której mowa w ust. 1.
 
@@ -429,8 +422,8 @@ o zasadach pokrywania kosztów powstałych u wytwórców w związku z przedtermi
 
 2. Wysokość korekt, o których mowa w art. 30 ust. 1 i 2 oraz art. 31 ust. 1, koryguje się w przypadku, gdy:
 
-- **1)** wynik prognozowany i rzeczywisty był dodatni o dodatnią różnicę pomiędzy wynikiem rzeczywistym a prognozowanym W , o którym mowa w art. 30 ust. 1, podmiotu wchodzącego w skład grupy kapitałowej i wykonującego działalność gospodarczą w zakresie wytwarzania energii elektrycznej na terytorium Rzeczypospolitej Polskiej;
-- **2)** wynik prognozowany był ujemny, a wynik rzeczywisty dodatni o rzeczywisty wynik finansowy na działalności operacyjnej podmiotu wchodzącego w skład grupy kapitałowej i wykonującego działalność gospodarczą w zakresie wytwarzania energii elektrycznej na terytorium Rzeczypospolitej Polskiej.
+- **1)** wynik prognozowany i rzeczywisty był dodatni – o dodatnią różnicę pomiędzy wynikiem rzeczywistym a prognozowanym W , o którym mowa w art. 30 ust. 1, podmiotu wchodzącego w skład grupy kapitałowej i wykonującego działalność gospodarczą w zakresie wytwarzania energii elektrycznej na terytorium Rzeczypospolitej Polskiej;
+- **2)** wynik prognozowany był ujemny, a wynik rzeczywisty dodatni – o rzeczywisty wynik finansowy na działalności operacyjnej podmiotu wchodzącego w skład grupy kapitałowej i wykonującego działalność gospodarczą w zakresie wytwarzania energii elektrycznej na terytorium Rzeczypospolitej Polskiej.
 
 3. W przypadku gdy korekty, o których mowa w art. 30 ust. 1 i 2 oraz art. 31 ust. 1, dla wytwórców wchodzących w skład grupy kapitałowej są dodatnie, wartości wynikające z ust. 2 pomniejszają wysokość korekty, o której mowa w art. 30 ust. 1 i 2, proporcjonalnie do udziału kwoty maksymalnej kosztów osieroconych ustalonej dla danego wytwórcy w sumie kwot maksymalnych tych kosztów wszystkich wytwórców wchodzących w skład tej grupy.
 
@@ -450,12 +443,12 @@ o zasadach pokrywania kosztów powstałych u wytwórców w związku z przedtermi
 1. W przypadku gdy wartość korekty, ustalona w decyzji, o której mowa w:
 
 - **1)** art. 30 ust. 1 i 2, jest:
-    - **a)** dodatnia Zarządca Rozliczeń S.A. wypłaca wytwórcy kwotę korekty rocznej kosztów osieroconych,
-    - **b)** ujemna wytwórca zwraca Zarządcy Rozliczeń S.A., na rachunek opłaty przejściowej, kwotę korekty rocznej kosztów osieroconych w terminie do dnia 30 września każdego roku;
+    - **a)** dodatnia – Zarządca Rozliczeń S.A. wypłaca wytwórcy kwotę korekty rocznej kosztów osieroconych,
+    - **b)** ujemna – wytwórca zwraca Zarządcy Rozliczeń S.A., na rachunek opłaty przejściowej, kwotę korekty rocznej kosztów osieroconych – w terminie do dnia 30 września każdego roku;
 
 - **2)** art. 31 ust. 1, jest:
-    - **a)** dodatnia Zarządca Rozliczeń S.A. wypłaca wytwórcy kwotę korekty końcowej kosztów osieroconych,
-    - **b)** ujemna wytwórca zwraca Zarządcy Rozliczeń S.A., na rachunek opłaty przejściowej, kwotę korekty końcowej kosztów osieroconych w terminie do dnia 31 grudnia roku następującego po zakończeniu okresu korygowania.
+    - **a)** dodatnia – Zarządca Rozliczeń S.A. wypłaca wytwórcy kwotę korekty końcowej kosztów osieroconych,
+    - **b)** ujemna – wytwórca zwraca Zarządcy Rozliczeń S.A., na rachunek opłaty przejściowej, kwotę korekty końcowej kosztów osieroconych – w terminie do dnia 31 grudnia roku następującego po zakończeniu okresu korygowania.
 
 2. Suma zwracanych przez wytwórcę kwot korekt rocznych oraz końcowych kosztów osieroconych, o których mowa w ust. 1 pkt 1 lit. b i pkt 2 lit. b, nie może przekroczyć sumy środków finansowych wypłaconych temu wytwórcy na pokrycie jego kosztów osieroconych.
 
@@ -465,9 +458,9 @@ o zasadach pokrywania kosztów powstałych u wytwórców w związku z przedtermi
 
 2. W przypadku gdy różnica, o której mowa w ust. 1, wynosi:
 
-- **1)** mniej niż 35% kwoty wypłaconej za dany rok zaliczki odsetek nie nalicza się;
-- **2)** nie mniej niż 35% i nie więcej niż 60% kwoty wypłaconej za dany rok zaliczki Prezes URE nalicza odsetki w wysokości równej stopie aktualizacji s , o której mowa w art. 18 ust. 2, powiększonej o 2 punkty procentowe;
-- **3)** więcej niż 60% kwoty wypłaconej za dany rok zaliczki Prezes URE nalicza odsetki w wysokości równej stopie aktualizacji s , o której mowa w art. 18 ust. 2, powiększonej o 4 punkty procentowe.
+- **1)** mniej niż 35% kwoty wypłaconej za dany rok zaliczki – odsetek nie nalicza się;
+- **2)** nie mniej niż 35% i nie więcej niż 60% kwoty wypłaconej za dany rok zaliczki – Prezes URE nalicza odsetki w wysokości równej stopie aktualizacji s , o której mowa w art. 18 ust. 2, powiększonej o 2 punkty procentowe;
+- **3)** więcej niż 60% kwoty wypłaconej za dany rok zaliczki – Prezes URE nalicza odsetki w wysokości równej stopie aktualizacji s , o której mowa w art. 18 ust. 2, powiększonej o 4 punkty procentowe.
 
 3. Odsetki, o których mowa w ust. 2 pkt 2 i 3, nalicza się od dnia, w którym wytwórca otrzymał pierwszą ratę zaliczki na dany rok.
 
@@ -479,7 +472,7 @@ o zasadach pokrywania kosztów powstałych u wytwórców w związku z przedtermi
 
 **Art. 36.**
 
-1. Wytwórca będący stroną umowy rozwiązującej, któremu w okresie korygowania wygasła koncesja na wykonywanie działalności gospodarczej w zakresie wytwarzania energii elektrycznej i nie wystąpił o przedłużenie jej ważności w trybie określonym w art. 39 ustawy z dnia 10 kwietnia 1997 r. Prawo energetyczne albo wytwórcy temu cofnięto koncesję na wykonywanie tej działalności:
+1. Wytwórca będący stroną umowy rozwiązującej, któremu w okresie korygowania wygasła koncesja na wykonywanie działalności gospodarczej w zakresie wytwarzania energii elektrycznej i nie wystąpił o przedłużenie jej ważności w trybie określonym w art. 39 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne albo wytwórcy temu cofnięto koncesję na wykonywanie tej działalności:
 
 - **1)** nie otrzymuje środków na pokrycie kosztów osieroconych;
 - **2)** w przypadku otrzymywania środków, o których mowa w art. 22 ust. 1, jest obowiązany niezwłocznie zwrócić te środki na rachunek opłaty przejściowej, pomniejszając je o wysokość środków zwróconych do Zarządcy Rozliczeń S.A. zgodnie z art. 34 ust. 1 pkt 1 lit. b.
@@ -499,18 +492,18 @@ o zasadach pokrywania kosztów powstałych u wytwórców w związku z przedtermi
 
 - **1)** wielkość sprzedaży energii elektrycznej przez wytwórcę będącego stroną umowy rozwiązującej w danym roku kalendarzowym jest mniejsza o ponad 20% od wielkości sprzedaży tej energii w roku poprzednim lub
 - **2)** koszty związane z wytwarzaniem energii elektrycznej poniesione przez wytwórcę będącego stroną umowy rozwiązującej w danym roku kalendarzowym są wyższe o ponad 20% od średnich kosztów innych przedsiębiorstw energetycznych wykonujących działalność gospodarczą w zakresie wytwarzania energii elektrycznej na terytorium Rzeczypospolitej Polskiej, o zbliżonych parametrach technicznych wytwarzania tej energii, w tym samym roku kalendarzowym, lub
-- **3)** średnia cena sprzedawanej energii elektrycznej przez wytwórcę w danym roku kalendarzowym jest niższa o ponad 5% od średniej ceny rynkowej liczonej dla przedsiębiorstw energetycznych wykonujących działalność gospodarczą w zakresie wytwarzania energii elektrycznej na terytorium Rzeczypospolitej Polskiej, o zbliżonych parametrach technicznych wytwarzania energii, w tym samym roku kalendarzowym Prezes URE występuje do tego wytwórcy o przedstawienie pisemnych wyjaśnień w tym zakresie.
+- **3)** średnia cena sprzedawanej energii elektrycznej przez wytwórcę w danym roku kalendarzowym jest niższa o ponad 5% od średniej ceny rynkowej liczonej dla przedsiębiorstw energetycznych wykonujących działalność gospodarczą w zakresie wytwarzania energii elektrycznej na terytorium Rzeczypospolitej Polskiej, o zbliżonych parametrach technicznych wytwarzania energii, w tym samym roku kalendarzowym – Prezes URE występuje do tego wytwórcy o przedstawienie pisemnych wyjaśnień w tym zakresie.
 
 2. Wyjaśnienia, o których mowa w ust. 1, wytwórca przekazuje Prezesowi URE w ciągu 14 dni od dnia otrzymania wystąpienia Prezesa URE.
 
 3. Jeżeli Prezes URE na podstawie pisemnych wyjaśnień przedstawionych przez wytwórcę stwierdzi, że różnica, o której mowa w ust. 1, nie była spowodowana okolicznościami, za które wytwórca nie ponosi odpowiedzialności, niezwłocznie zawiadamia o tym pisemnie wytwórcę, a w najbliższej korekcie, o której mowa w art. 30 ust. 1, jeżeli jej wartość jest:
 
-- **1)** dodatnia pomniejsza należną kwotę tej korekty, albo
-- **2)** ujemna lub równa zeru powiększa należną kwotę tej korekty o kwotę do 25% kwoty kosztów osieroconych określonych w załączniku nr 3 do ustawy dla roku, którego dotyczyły różnice, o których mowa w ust. 1, uwzględniając stopień zaniżenia wartości wyniku finansowego netto z działalności operacyjnej, o którym mowa w art. 27 ust. 3, oraz rodzaj i wielkość ujemnych następstw dla tego wytwórcy.
+- **1)** dodatnia – pomniejsza należną kwotę tej korekty, albo
+- **2)** ujemna lub równa zeru – powiększa należną kwotę tej korekty – o kwotę do 25% kwoty kosztów osieroconych określonych w załączniku nr 3 do ustawy dla roku, którego dotyczyły różnice, o których mowa w ust. 1, uwzględniając stopień zaniżenia wartości wyniku finansowego netto z działalności operacyjnej, o którym mowa w art. 27 ust. 3, oraz rodzaj i wielkość ujemnych następstw dla tego wytwórcy.
 
 **Art. 38.**
 
-1. W przypadku gdy wytwórca będący stroną umowy rozwiązującej nie zwróci Zarządcy Rozliczeń S.A. kwot, o których mowa w art. 34 ust. 1 pkt 1 lit. b i pkt 2 lit. b, w art. 35 ust. 4, w art. 36 ust. 2 oraz w art. 37 ust. 3 pkt 2, decyzja administracyjna Prezesa URE podlega wykonaniu w drodze egzekucji sądowej prowadzonej na zasadach i trybie określonym w ustawie z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego, po nadaniu przez sąd klauzuli wykonalności.
+1. W przypadku gdy wytwórca będący stroną umowy rozwiązującej nie zwróci Zarządcy Rozliczeń S.A. kwot, o których mowa w art. 34 ust. 1 pkt 1 lit. b i pkt 2 lit. b, w art. 35 ust. 4, w art. 36 ust. 2 oraz w art. 37 ust. 3 pkt 2, decyzja administracyjna Prezesa URE podlega wykonaniu w drodze egzekucji sądowej prowadzonej na zasadach i trybie określonym w ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, po nadaniu przez sąd klauzuli wykonalności.
 
 2. Z wnioskiem o nadanie klauzuli wykonalności występuje Zarządca Rozliczeń S.A.
 
@@ -522,7 +515,7 @@ o zasadach pokrywania kosztów powstałych u wytwórców w związku z przedtermi
 
 3. Wniosek, o którym mowa w ust. 1, zawiera oznaczenie:
 
-- **1)** wytwórcy jego firmę, siedzibę i adres;
+- **1)** wytwórcy – jego firmę, siedzibę i adres;
 - **2)** jednostki wytwórczej objętej umową długoterminową.
 
 4. Do wniosku, o którym mowa w ust. 1, należy dołączyć określone w umowie rozwiązującej dokumenty potwierdzające spełnienie przez tę jednostkę warunków technicznych.
@@ -552,7 +545,7 @@ o zasadach pokrywania kosztów powstałych u wytwórców w związku z przedtermi
 
 **Art. 42.**
 
-1. Środki otrzymane przez wytwórcę od Zarządcy Rozliczeń S.A. na pokrycie kosztów osieroconych uznaje się za zwrot wydatków związanych z otrzymaniem, nabyciem albo wytworzeniem we własnym zakresie środków trwałych oraz wartości niematerialnych i prawnych związanych z wytwarzaniem energii elektrycznej, od których dokonuje się odpisów amortyzacyjnych, zgodnie z art. 16a–16m ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych w kwocie nieprzekraczającej sumy wartości początkowej tych środków trwałych oraz wartości niematerialnych i prawnych pomniejszonej o odpisy amortyzacyjne dokonane zgodnie z art. 16a–16m ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustalanej na dzień otrzymania poszczególnych zaliczek na pokrycie kosztów osieroconych oraz kwot korekty rocznej i końcowej zgodnie z art. 34 ust. 1.
+1. Środki otrzymane przez wytwórcę od Zarządcy Rozliczeń S.A. na pokrycie kosztów osieroconych uznaje się za zwrot wydatków związanych z otrzymaniem, nabyciem albo wytworzeniem we własnym zakresie środków trwałych oraz wartości niematerialnych i prawnych związanych z wytwarzaniem energii elektrycznej, od których dokonuje się odpisów amortyzacyjnych, zgodnie z art. 16a–16m ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych – w kwocie nieprzekraczającej sumy wartości początkowej tych środków trwałych oraz wartości niematerialnych i prawnych pomniejszonej o odpisy amortyzacyjne dokonane zgodnie z art. 16a–16m ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustalanej na dzień otrzymania poszczególnych zaliczek na pokrycie kosztów osieroconych oraz kwot korekty rocznej i końcowej zgodnie z art. 34 ust. 1.
 
 2. Otrzymanie środków, o których mowa w ust. 1, nie ma wpływu na wysokość odpisów amortyzacyjnych od środków trwałych oraz wartości niematerialnych i prawnych dokonanych, zgodnie z art. 16a–16m ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, do dnia otrzymania poszczególnych zaliczek na pokrycie kosztów osieroconych. Odpisów z tytułu zużycia środków trwałych oraz wartości niematerialnych i prawnych, o których mowa w ust. 1, nie uznaje się za koszt uzyskania przychodów od tej części ich wartości, która odpowiada kwocie otrzymanych przez wytwórcę środków na pokrycie kosztów osieroconych od miesiąca następującego po miesiącu otrzymania poszczególnych kwot zaliczek oraz kwot korekty rocznej i końcowej zgodnie z art. 34 ust. 1.
 
@@ -568,7 +561,7 @@ o zasadach pokrywania kosztów powstałych u wytwórców w związku z przedtermi
 
 #### Rozdział 6 Zasady pokrywania i korygowania kosztów powstałych w jednostkach opalanych gazem ziemnym
 
-**Art. 44.** Dla wytwórców wymienionych w załączniku nr 8 do ustawy będących stroną umowy rozwiązującej, którzy zawarli długoterminowe umowy na dostawę gazu ziemnego przed dniem 1 maja 2004 r., ustala się, w związku z obowiązkiem odbioru gazu ziemnego na poziomie wynikającym z zakontraktowanej ilości tego paliwa, kwoty, oznaczone symbolem „K ”, na pokrycie kosztów zużycia odebranego gazu ziemnego i kosztów nieodebranego gazu ziemnego, obliczane według wzoru: K A(J J )W gdzie poszczególne symbole oznaczają: A ilość energii elektrycznej (w megawatogodzinach) możliwej do wytworzenia przez wytwórcę wymienionego w załączniku nr 8 do ustawy z gazu ziemnego nabytego w ramach obowiązku zapłaty za określoną ilość gazu ziemnego, niezależnie od ilości pobranego gazu, J średnioroczny koszt gazu ziemnego nabytego w ramach obowiązku zapłaty za określoną jego ilość, niezależnie od ilości pobranego gazu na podstawie umowy zawartej przed dniem 1 maja 2004 r., dla danego wytwórcy obliczony z uwzględnieniem poniesionych kosztów jego dostarczania, wyrażony w złotych na MWh, J J J średnioroczny koszt węgla zużywanego na wytworzenie energii elektrycznej w jednostkach wytwórczych centralnie dysponowanych opalanych węglem na terenie Rzeczypospolitej Polskiej obliczony z uwzględnieniem kosztów jego transportu, wyrażony w złotych na MWh, W współczynnik korygujący, którego wartość wynosi: 1 dla wytwórców nabywających gaz ziemny pochodzący ze złóż krajowych, dla pozostałych wytwórców, gdzie: J średnioroczny koszt gazu ziemnego dla wytwórców nabywających gaz ziemny pochodzący ze złóż krajowych w danym roku obliczony z uwzględnieniem poniesionych kosztów jego dostarczania, wyrażony w złotych na MWh, J średnioroczny koszt gazu ziemnego dla pozostałych wytwórców w danym roku obliczony z uwzględnieniem poniesionych kosztów jego dostarczania, wyrażony w złotych na MWh.
+**Art. 44.** Dla wytwórców wymienionych w załączniku nr 8 do ustawy będących stroną umowy rozwiązującej, którzy zawarli długoterminowe umowy na dostawę gazu ziemnego przed dniem 1 maja 2004 r., ustala się, w związku z obowiązkiem odbioru gazu ziemnego na poziomie wynikającym z zakontraktowanej ilości tego paliwa, kwoty, oznaczone symbolem „K ”, na pokrycie kosztów zużycia odebranego gazu ziemnego i kosztów nieodebranego gazu ziemnego, obliczane według wzoru: K =A(J −J )W gdzie poszczególne symbole oznaczają: A – ilość energii elektrycznej (w megawatogodzinach) możliwej do wytworzenia przez wytwórcę wymienionego w załączniku nr 8 do J J ustawy z gazu ziemnego nabytego w ramach obowiązku zapłaty za określoną ilość gazu ziemnego, niezależnie od ilości pobranego gazu, J – średnioroczny koszt gazu ziemnego nabytego w ramach obowiązku zapłaty za określoną jego ilość, niezależnie od ilości pobranego gazu na podstawie umowy zawartej przed dniem 1 maja 2004 r., dla danego wytwórcy obliczony z uwzględnieniem poniesionych kosztów jego dostarczania, wyrażony w złotych na MWh, J – średnioroczny koszt węgla zużywanego na wytworzenie energii elektrycznej w jednostkach wytwórczych centralnie dysponowanych opalanych węglem na terenie Rzeczypospolitej Polskiej obliczony z uwzględnieniem kosztów jego transportu, wyrażony w złotych na MWh, W – współczynnik korygujący, którego wartość wynosi: – 1 dla wytwórców nabywających gaz ziemny pochodzący ze złóż krajowych, – dla pozostałych wytwórców, gdzie: J – średnioroczny koszt gazu ziemnego dla wytwórców nabywających gaz ziemny pochodzący ze złóż krajowych w danym roku obliczony z uwzględnieniem poniesionych kosztów jego dostarczania, wyrażony w złotych na MWh, J – średnioroczny koszt gazu ziemnego dla pozostałych wytwórców w danym roku obliczony z uwzględnieniem poniesionych kosztów jego dostarczania, wyrażony w złotych na MWh.
 
 **Art. 45.**
 
@@ -576,7 +569,7 @@ o zasadach pokrywania kosztów powstałych u wytwórców w związku z przedtermi
 
 2. Wniosek, o którym mowa w ust. 1, zawiera:
 
-- **1)** oznaczenie wytwórcy jego firmę, siedzibę i adres;
+- **1)** oznaczenie wytwórcy – jego firmę, siedzibę i adres;
 - **2)** wysokość wnioskowanej kwoty zaliczki;
 - **3)** oznaczenie roku, którego wniosek dotyczy.
 
@@ -588,7 +581,7 @@ o zasadach pokrywania kosztów powstałych u wytwórców w związku z przedtermi
 
 **Art. 46.**
 
-1. Prezes URE, do dnia 31 lipca każdego roku kalendarzowego „i”, w drodze decyzji administracyjnej, ustala dla wytwórcy wymienionego w załączniku nr 8 do ustawy wysokość korekty rocznej kosztów, o których mowa w art. 44, oznaczoną symbolem  K , dla roku poprzedzającego dany rok kalendarzowy, według wzoru:  K  K  K gdzie poszczególne symbole oznaczają: K kwota kosztów, o których mowa w art. 44, dla roku „i–1”, obliczana według wzoru: K  A   J  J    C  C   W gdzie poszczególne symbole oznaczają: A ilość energii elektrycznej wytworzoną przez danego wytwórcę w roku „i–1”, wynikającą z ilości gazu zakupionego na podstawie umowy z dostawcą paliwa gazowego, obowiązującej w roku „i–1”, J średnioroczny faktyczny koszt gazu na jedną megawatogodzinę produkcji w roku „i–1” poniesiony przez danego wytwórcę, obliczony z uwzględnieniem całości opłat poniesionych w roku „i–1” na rzecz dostawcy gazu oraz kosztów przesyłu gazu, J średnioroczny jednostkowy koszt węgla zużywanego na wytworzenie jednej megawatogodziny energii elektrycznej w roku „i–1” u wytwórców eksploatujących jednostki centralnie dysponowane opalane węglem, z uwzględnieniem kosztów transportu węgla, J J C średnią cenę energii elektrycznej wytworzonej przez danego wytwórcę w jednostkach opalanych gazem w roku „i–1”, C średnią cenę energii elektrycznej wytworzonej w jednostkach centralnie dysponowanych opalanych węglem w roku „i–1”, W współczynnik korygujący, którego wartość wynosi: 1 dla wytwórców nabywających gaz ziemny pochodzący ze złóż krajowych, dla pozostałych wytwórców, gdzie: J średnioroczny koszt gazu ziemnego dla wytwórców nabywających gaz ziemny pochodzący ze złóż krajowych w roku „i–1” obliczony z uwzględnieniem poniesionych kosztów jego dostarczania, wyrażony w złotych na MWh, J średnioroczny koszt gazu ziemnego dla pozostałych wytwórców w roku „i–1” obliczony z uwzględnieniem poniesionych kosztów jego dostarczania, wyrażony w złotych na MWh, K kwota zaliczki wypłaconej wytwórcy za rok „i–1” z tytułu pokrycia kosztów, o których mowa w art. 44.
+1. Prezes URE, do dnia 31 lipca każdego roku kalendarzowego „i”, w drodze decyzji administracyjnej, ustala dla wytwórcy wymienionego w załączniku nr 8 do ustawy wysokość korekty rocznej kosztów, o których mowa w art. 44, oznaczoną symbolem  K , dla roku poprzedzającego dany rok kalendarzowy, według wzoru:  K = K − K gdzie poszczególne symbole oznaczają: K – kwota kosztów, o których mowa w art. 44, dla roku „i–1”, obliczana według wzoru: K = A  ( J − J ) − ( C − C )  W gdzie poszczególne symbole oznaczają: A – ilość energii elektrycznej wytworzoną przez danego wytwórcę w roku „i–1”, wynikającą z ilości gazu zakupionego na podstawie umowy z dostawcą paliwa gazowego, obowiązującej w roku „i–1”, J – średnioroczny faktyczny koszt gazu na jedną megawatogodzinę produkcji w roku „i–1” poniesiony przez danego wytwórcę, obliczony z uwzględnieniem całości opłat poniesionych w roku „i–1” na rzecz dostawcy gazu oraz kosztów przesyłu gazu, J – średnioroczny jednostkowy koszt węgla zużywanego na wytworzenie jednej megawatogodziny energii elektrycznej w roku „i–1” u wytwórców eksploatujących jednostki centralnie J J dysponowane opalane węglem, z uwzględnieniem kosztów transportu węgla, C – średnią cenę energii elektrycznej wytworzonej przez danego wytwórcę w jednostkach opalanych gazem w roku „i–1”, C – średnią cenę energii elektrycznej wytworzonej w jednostkach centralnie dysponowanych opalanych węglem w roku „i–1”, W – współczynnik korygujący, którego wartość wynosi: – 1 dla wytwórców nabywających gaz ziemny pochodzący ze złóż krajowych, – dla pozostałych wytwórców, gdzie: J – średnioroczny koszt gazu ziemnego dla wytwórców nabywających gaz ziemny pochodzący ze złóż krajowych w roku „i–1” obliczony z uwzględnieniem poniesionych kosztów jego dostarczania, wyrażony w złotych na MWh, J – średnioroczny koszt gazu ziemnego dla pozostałych wytwórców w roku „i–1” obliczony z uwzględnieniem poniesionych kosztów jego dostarczania, wyrażony w złotych na MWh, K – kwota zaliczki wypłaconej wytwórcy za rok „i–1” z tytułu pokrycia kosztów, o których mowa w art. 44.
 
 2. W obliczeniach korekt, o których mowa w ust. 1, nie uwzględnia się kosztów wynikających ze zmian wprowadzonych do umowy długoterminowej na dostawę gazu, o której mowa w art. 44, po dniu wejścia w życie ustawy, skutkujących zwiększeniem ilości gazu ziemnego podlegającego obowiązkowi zapłaty za tę ilość gazu, niezależnie od ilości pobranego gazu.
 
@@ -596,7 +589,7 @@ o zasadach pokrywania kosztów powstałych u wytwórców w związku z przedtermi
 
 4. W przypadku gdy ilość energii elektrycznej wytworzonej przez danego wytwórcę w jednostkach opalanych gazem ziemnym w roku „i–1” była mniejsza od ilości energii elektrycznej możliwej do wytworzenia przez wytwórcę oznaczonej symbolem A, o którym mowa w art. 44, kwotę korekty powiększa się o faktycznie poniesione koszty nieodebranego gazu zgodnie z umową długoterminową na dostawę gazu, o której mowa w art. 44, w roku „i–1”.
 
-5. W przypadku gdy w danym roku średnia cena jednej megawatogodziny energii elektrycznej na rynku konkurencyjnym, ogłoszona przez Prezesa URE na podstawie art. 23 ust. 2 pkt 18 lit. b ustawy z dnia 10 kwietnia 1997 r. Prawo energetyczne, jest wyższa niż koszty wytworzenia jednej megawatogodziny przez danego wytwórcę wymienionego w załączniku nr 8 do ustawy, nie wypłaca się kwot na pokrycie kosztów, o których mowa w art. 44. W takim przypadku wytwórca, który otrzymał zaliczki na podstawie art. 45, obowiązany jest do ich zwrotu w terminie określonym w art. 34 ust. 1 pkt 1.
+5. W przypadku gdy w danym roku średnia cena jednej megawatogodziny energii elektrycznej na rynku konkurencyjnym, ogłoszona przez Prezesa URE na podstawie art. 23 ust. 2 pkt 18 lit. b ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, jest wyższa niż koszty wytworzenia jednej megawatogodziny przez danego wytwórcę wymienionego w załączniku nr 8 do ustawy, nie wypłaca się kwot na pokrycie kosztów, o których mowa w art. 44. W takim przypadku wytwórca, który otrzymał zaliczki na podstawie art. 45, obowiązany jest do ich zwrotu w terminie określonym w art. 34 ust. 1 pkt 1.
 
 6. Przepisy:
 
@@ -617,7 +610,7 @@ o zasadach pokrywania kosztów powstałych u wytwórców w związku z przedtermi
 
 2. Siedzibą Zarządcy Rozliczeń S.A. jest miasto stołeczne Warszawa.
 
-**Art. 48.** W zakresie nieuregulowanym niniejszą ustawą do Zarządcy Rozliczeń S.A. stosuje się przepisy ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych (Dz. U. z 2020 r. poz. 1526 i 2320 oraz z 2021 r. poz. 2052).
+**Art. 48.** W zakresie nieuregulowanym niniejszą ustawą do Zarządcy Rozliczeń S.A. stosuje się przepisy ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2020 r. poz. 1526 i 2320 oraz z 2021 r. poz. 2052).
 
 **Art. 49.**
 
@@ -628,7 +621,7 @@ o zasadach pokrywania kosztów powstałych u wytwórców w związku z przedtermi
 - **3)** przekazywanie wytwórcy, o którym mowa w pkt 1, środków na pokrycie jego kosztów osieroconych oraz kosztów, o których mowa w art. 44;
 - **4)** sporządzanie i przedstawianie pisemnych informacji i sprawozdań, o których mowa w:
     - **a)** (uchylona)
-    - **b)** art. 57 ministrowi właściwemu do spraw energii;
+    - **b)** art. 57 – ministrowi właściwemu do spraw energii;
 
 - **5)** wykonywanie innych zadań określonych w odrębnych ustawach.
 
@@ -638,19 +631,17 @@ o zasadach pokrywania kosztów powstałych u wytwórców w związku z przedtermi
 
 1. Operator obejmuje wszystkie akcje Zarządcy Rozliczeń S.A.
 
-2. Akcje Zarządcy Rozliczeń S.A. mogą zostać pokryte wyłącznie wkładami pieniężnymi wniesionymi w całości przed jej zarejestrowaniem.
+2. Akcje Zarządcy Rozliczeń S.A. mogą zostać pokryte wyłącznie wkładami pieniężnymi wniesionymi w całości przed jej zarejestrowaniem. [3. Akcje Zarządcy Rozliczeń S.A. są akcjami imiennymi i nie podlegają zamianie na akcje na okaziciela.]
 
-3. Akcje Zarządcy Rozliczeń S.A. są akcjami imiennymi i nie podlegają zamianie na akcje na okaziciela.
-
-4. Przepisy ust. 1–3 stosuje się odpowiednio w przypadku podwyższenia kapitału zakładowego Zarządcy Rozliczeń S.A.
+4. Przepisy [ust. 1–3] <ust. 1 i 2> stosuje się odpowiednio w przypadku podwyższenia kapitału zakładowego Zarządcy Rozliczeń S.A.
 
 **Art. 51.**
 
 1. Akcje Zarządcy Rozliczeń S.A. nie mogą być zbywane ani obciążane, z wyjątkiem nieodpłatnego ich przekazania na rzecz Skarbu Państwa.
 
-2. Akcje Zarządcy Rozliczeń S.A. nie podlegają zajęciu w trybie przepisów ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2020 r. poz. 1427, z późn. zm. ) oraz przepisów ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego.
+2. Akcje Zarządcy Rozliczeń S.A. nie podlegają zajęciu w trybie przepisów ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2020 r. poz. 1427, z późn. zm. ) oraz przepisów ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego.
 
-3. Na akcjach Zarządcy Rozliczeń S.A. nie można ustanawiać zabezpieczenia zobowiązań podatkowych w trybie przepisów działu III rozdziału 3 ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2021 r. poz. 1540, 1598, 2076 i 2105).
+3. Na akcjach Zarządcy Rozliczeń S.A. nie można ustanawiać zabezpieczenia zobowiązań podatkowych w trybie przepisów działu III rozdziału 3 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2021 r. poz. 1540, 1598, 2076 i 2105).
 
 **Art. 52.** Kapitał zakładowy Zarządcy Rozliczeń S.A. nie może być obniżany.
 
@@ -664,7 +655,7 @@ o zasadach pokrywania kosztów powstałych u wytwórców w związku z przedtermi
 
 - **1)** skarbowych papierach wartościowych,
 - **2)** obligacjach gwarantowanych lub poręczanych przez Skarb Państwa,
-- **3)** depozytach bankowych i dłużnych papierach wartościowych emitowanych, poręczanych lub gwarantowanych przez banki w walucie polskiej z uwzględnieniem ust. 3.
+- **3)** depozytach bankowych i dłużnych papierach wartościowych emitowanych, poręczanych lub gwarantowanych przez banki w walucie polskiej – z uwzględnieniem ust. 3.
 
 2. Termin wymagalności lokat, o których mowa w ust. 1, Zarządca Rozliczeń S.A. powinien dostosować do terminu wypłat kwot na pokrycie kosztów osieroconych, kosztów, o których mowa w art. 44, oraz terminów spłaty zaciągniętego zadłużenia.
 
@@ -699,7 +690,7 @@ o zasadach pokrywania kosztów powstałych u wytwórców w związku z przedtermi
 
 3. (uchylony)
 
-4. Przepisu art. 459 ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych nie stosuje się do Zarządcy Rozliczeń S.A., z wyjątkiem ust. 2.
+4. Przepisu art. 459 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych nie stosuje się do Zarządcy Rozliczeń S.A., z wyjątkiem ust. 2.
 
 **Art. 57.** Zarządca Rozliczeń S.A. składa ministrowi właściwemu do spraw energii corocznie, w terminie do końca pierwszego kwartału, sprawozdanie ze swojej działalności, w tym informacje o wpływach z opłaty przejściowej i stanie środków na rachunku opłaty przejściowej, kwotach wypłaconych wytwórcom na pokrycie kosztów osieroconych oraz kosztów, o których mowa w art. 44, kosztach działalności, bieżącym i planowanym zadłużeniu spółki oraz przedstawia, na żądanie ministra właściwego do spraw energii, informacje z zakresu swojej działalności.
 
@@ -721,11 +712,11 @@ o zasadach pokrywania kosztów powstałych u wytwórców w związku z przedtermi
 
 **Art. 60.**
 
-1. Przedsiębiorstwa energetyczne wykonujące działalność gospodarczą w zakresie przesyłania lub dystrybucji energii elektrycznej z pierwszym dniem miesiąca następującego po upływie 210 dni od dnia wejścia w życie ustawy zaprzestają pobierania opłaty przesyłowej w części wynikającej ze składnika wyrównawczego stawki systemowej określonego w przepisach wydanych na podstawie art. 46 ust. 3 i 4 ustawy z dnia 10 kwietnia 1997 r. Prawo energetyczne.
+1. Przedsiębiorstwa energetyczne wykonujące działalność gospodarczą w zakresie przesyłania lub dystrybucji energii elektrycznej z pierwszym dniem miesiąca następującego po upływie 210 dni od dnia wejścia w życie ustawy zaprzestają pobierania opłaty przesyłowej w części wynikającej ze składnika wyrównawczego stawki systemowej określonego w przepisach wydanych na podstawie art. 46 ust. 3 i 4 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne.
 
 2. W terminie 210 dni od dnia wejścia w życie ustawy, przedsiębiorstwa energetyczne wykonujące działalność gospodarczą w zakresie przesyłania lub dystrybucji energii elektrycznej dostosują taryfy, które będą stosowane od dnia, o którym mowa w ust. 1, do zasad określonych w ustawie.
 
-3. Prezes URE może zażądać, aby przedsiębiorstwa energetyczne wykonujące działalność gospodarczą w zakresie przesyłania lub dystrybucji energii elektrycznej, w określonym terminie, nie krótszym niż 21 dni, przedłożyły do zatwierdzenia taryfy kalkulowane bez uwzględnienia kosztów wymienionych w art. 45 ust. 1a ustawy z dnia 10 kwietnia 1997 r. Prawo energetyczne, które będą stosowane od dnia, o którym mowa w ust. 1.
+3. Prezes URE może zażądać, aby przedsiębiorstwa energetyczne wykonujące działalność gospodarczą w zakresie przesyłania lub dystrybucji energii elektrycznej, w określonym terminie, nie krótszym niż 21 dni, przedłożyły do zatwierdzenia taryfy kalkulowane bez uwzględnienia kosztów wymienionych w art. 45 ust. 1a ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, które będą stosowane od dnia, o którym mowa w ust. 1.
 
 4. Przepisy ust. 1 i 2 nie wyłączają obowiązku opracowywania taryf na zasadach i w trybie określonych w przepisach prawa energetycznego.
 
@@ -741,5 +732,5 @@ o zasadach pokrywania kosztów powstałych u wytwórców w związku z przedtermi
 
 **Art. 64.** Pierwsze przekazanie sprawozdania, o którym mowa w art. 29 ust. 1, nastąpi do dnia 30 kwietnia 2009 r.
 
-**Art. 65.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia , z wyjątkiem art. 24, art. 30, art. 45 i art. 46, które wchodzą w życie z dniem 1 stycznia 2008 r. WYKAZ WYTWÓRCÓW STRON UMÓW DŁUGOTERMINOWYCH SPRZEDAŻY MOCY I ENERGII ELEKTRYCZNEJ, JEDNOSTEK WYTWÓRCZYCH OBJĘTYCH TYMI UMOWAMI ORAZ PLANOWANE DATY SPEŁNIENIA WARUNKÓW TECHNICZNYCH Lp. Nazwa wytwórcy (firma) Umowa długoterminowa Jednostka Wskazanie, czy data zawarcia i okres, na wytwórcza jednostki wytwórcze który została zawarta zostały oddane do użytku, a w przypadku jednostek wytwórczych nieoddanych planowana data spełnienia warunków technicznych 1 2 3 4 5 1 Grupa Kapitałowa BOT Górnictwo i Energetyka S.A. z siedzibą w Łodzi Przedsiębiorstwo Elektrow- Umowa na dostawę mocy Bloki nr 1–4 Oddane do użytku 1.1 nia Opole S.A. z siedzibą i energii elektrycznej z dnia w Brzeziu k. Opola 27 września 1996 r., zawarta na okres do dnia 31 grudnia 2012 r. Przedsiębiorstwo Elektrow- Umowa na dostawę mocy Bloki nr 1–10 Oddano do użytku bloki 1.2 nia Turów S.A. z siedzibą i energii elektrycznej z dnia nr 1–6 oraz 8–10; w Bogatyni 26 sierpnia 1994 r., zawarta blok nr 7 do likwidacji na okres do dnia 16 grudnia 2016 r. 2 Południowy Koncern Ener- Umowa na dostawę mocy getyczny S.A. z siedzibą i energii elektrycznej z dnia w Katowicach 12 kwietnia 1995 r., zawarta z Elektrownią Jaworzno III S.A. (obecnie Południowy Koncern Energetyczny S.A.), na okres do dnia 31 grudnia 2008 r. Umowa na dostawę mocy i energii elektrycznej z dnia 30 września 1996 r., zawarta z Elektrownią Łaziska S.A. (obecnie Południowy Koncern Energetyczny S.A.), na okres do dnia 31 grudnia 2011 r. Umowa na dostawę mocy i energii elektrycznej z dnia 18 grudnia 1996 r., zawarta z Elektrownią Siersza S.A. (obecnie Południowy Koncern Energetyczny S.A.), na okres do dnia 31 grudnia 2012 r. Bloki nr 1–6 Bloki nr 9–12 Bloki nr 6 i 7 Oddane do użytku Oddane do użytku Oddane do użytku 1 2 3 4 5 Umowa na dostawę mocy Bloki nr 3 i 6 Oddane do użytku i energii elektrycznej z dnia 27 czerwca 1996 r., zawarta z Elektrownią Siersza S.A. (obecnie Południowy Koncern Energetyczny S.A.), na okres do dnia 30 kwietnia 2008 r. Umowa na dostawę mocy Bloki nr 1 i 2 Oddane do użytku i energii elektrycznej z dnia El. Jaworzno II 12 września 1996 r., zawarta z Elektrownią Jaworzno III S.A. (obecnie Południowy Koncern Energetyczny S.A.), na okres do dnia 31 grudnia 2011 r. Umowa na dostawę energii Blok ciepłowniczy Oddany do użytku elektrycznej z dnia 11 grudnia 1996 r., zawarta z EC Katowice S.A. (obecnie Południowy Koncern Energetyczny S.A.), na okres do dnia 31 grudnia 2011 r. 3 Elektrownia Kozienice S.A. Umowa na dostawę mocy Bloki nr 9 i 10 Oddane do użytku z siedzibą w Świerżach Gór- i energii elektrycznej z dnia nych 12 września 1997 r., zawarta na okres do dnia 31 grudnia 2014 r. 4 Zespół Elektrowni Dolna Umowa na dostawę mocy Odra S.A. z siedzibą i energii elektrycznej z dnia w Nowym Czarnowie 27 czerwca 1996 r., zawarta na okres do dnia 31 grudnia 2010 r. Umowa na dostawę mocy i energii elektrycznej z dnia 15 czerwca 1998 r., zawarta na okres do dnia 31 grudnia 2009 r. Umowa na dostawę mocy i energii elektrycznej z dnia 13 czerwca 1997 r., zawarta na okres do dnia 31 grudnia 2009 r. Bloki nr 1 i 2 Bloki nr 7 i 8 Bloki nr 1 i 2 Elektrownia Pomorzany Oddane do użytku Oddane do użytku Oddane do użytku 5 Grupa kapitałowa ZE PAK S.A. z siedzibą w Koninie 5.1 Przedsiębiorstwo Elektrow- Umowa na dostawę mocy Blok w Elektrowni Do dnia 31 grudnia nia Pątnów II Sp. z o.o. i energii elektrycznej z dnia Pątnów II 2007 r. z siedzibą w Koninie 19 grudnia 1996 r., zawarta na okres do dnia 30 marca 2027 r. 1 2 3 4 5 6 Elektrociepłownia Kraków Umowa na dostawę energii Bloki nr 1–4 Oddane do użytku S.A. z siedzibą w Krakowie elektrycznej z dnia 6 maja 1998 r., zawarta na okres do dnia 31 grudnia 2013 r. 7 Elektrociepłownia Rzeszów Umowa na dostawę energii Blok gazowo- Oddany do użytku S.A. z siedzibą w Rzeszowie elektrycznej z dnia 28 sierp- -parowy nia 1998 r., zawarta na okres do dnia 30 czerwca 2012 r. 8 Elektrociepłownia Nowa Umowa na dostawę energii Blok parowo- Oddany do użytku Sarzyna Sp. z o.o. z siedzibą elektrycznej z dnia -gazowy w Nowej Sarzynie 28 kwietnia 1997 r., zawarta na okres do dnia 1 czerwca 2020 r. 9 Elektrociepłownia Lublin- Umowa na dostawę energii Blok gazowo- Oddany do użytku -Wrotków Sp. z o.o. elektrycznej z dnia 15 lipca -parowy z siedzibą w Lublinie 1997 r., zawarta na okres do dnia 11 kwietnia 2010 r. 10 Elektrociepłownia Chorzów Umowa na dostawę energii Bloki nr 1 i 2 Oddane do użytku ELCHO S.A. z siedzibą elektrycznej z dnia 30 grudw Chorzowie nia 1998 r., zawarta na okres do dnia 31 października 2023 r. 11 Elektrociepłownia Zielona Umowa na dostawę energii Blok gazowo- Oddany do użytku Góra S.A. z siedzibą elektrycznej z dnia 24 lipca -parowy w Zielonej Górze 1998 r., zawarta na okres do dnia 1 lipca 2024 r. 12 Elektrociepłownia Gorzów Umowa na dostawę energii Blok gazowo- Oddany do użytku S.A. z siedzibą w Gorzowie elektrycznej z dnia 11 lipca -parowy Wielkopolskim 1996 r., zawarta na okres do dnia 15 lutego 2009 r. MAKSYMALNE WYSOKOŚCI KOSZTÓW OSIEROCONYCH DLA POSZCZEGÓLNYCH WYTWÓRCÓW (W TYS. ZŁ NA DZIEŃ 1 STYCZNIA 2007 R.) Lp. Nazwa wytwórcy Maksymalna wysokość Maksymalna kosztów osieroconych wysokość kosztów, o których mowa w art. 44 1 Grupa Kapitałowa 4 536 851 BOT Górnictwo i Energetyka S.A., w tym: 1.1 Elektrownia Opole S.A. 1 965 700 1.2 Elektrownia Turów S.A. 2 571 151 2 Południowy Koncern Energetyczny S.A. 1 479 745 3 Elektrownia Kozienice S.A. 623 612 4 Zespół Elektrowni Dolna Odra S.A. 633 496 5 Grupa Kapitałowa ZE PAK S.A., 1 377 880 w tym: 5.1 Przedsiębiorstwo Elektrownia Pątnów II 1 377 880 Sp. z o.o. 6 Elektrociepłownia Kraków S.A. 0 7 Elektrociepłownia Rzeszów S.A. 297 415 124 395 8 Elektrociepłownia Nowa Sarzyna Sp. z o.o. 777 535 340 655 9 Elektrociepłownia Lublin-Wrotków Sp. z o.o. 425 263 191 480 10 Elektrociepłownia Chorzów ELCHO S.A. 888 581 11 Elektrociepłownia Zielona Góra S.A. 464 297 313 477 12 Elektrociepłownia Gorzów S.A. 72 755 35 273 Razem (KOm) 11 577 430 1 005 280 Kwota kosztów osieroconych dla danego roku dla wyniku finansowego prognozowanego w załączniku 2007 2008 2009 2010 2011 2012 2017 2018 2019 2020 2021 2022 KWOTY ZALICZEK NA POCZET KOSZTÓW OSIEROCONYCH NA LATA 2007–2025 150 801,327 150 801,327 150 801,327 150 801,327 137 045,986 125 313,949 125 313,949 125 313,949 125 313,949 116 054,798 145 759,141 145 759,141 145 759,141 145 759,141 64 035,957 53 909,998 53 909,998 53 909,998 53 909,998 31 044,053 45 201,735 45 201,735 45 201,735 45 201,735 42 107,477 49 043,178 21 362,164 21 362,164 21 362,164 21 362,164 19 910,505 22 277,567 22 277,567 22 277,567 22 277,567 21 269,310 39 230,083 39 230,083 39 230,083 39 230,083 35 307,899 38 854,132 38 854,132 38 854,132 38 854,132 39 742,179 22 755,776 22 755,776 22 755,776 22 755,776 21 104,913 8567,989 8567,989 8567,989 8567,989 7 551,994 PROGNOZOWANA WARTOŚĆ WYNIKU FINANSOWEGO NETTO Z DZIAŁALNOŚCI OPERACYJNEJ, DOSTĘPNEGO DO OBSŁUGI ZAINWESTOWANEGO KAPITAŁU WŁASNEGO I STOPA DYSKONTA Rok 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 r 11,2 11,2 11,2 11,2 11,2 11,2 11,2 11,2 11,2 11,2 11,2 11,2 11,2 WYKAZ JEDNOSTEK WYTWÓRCZYCH UWZGLĘDNIONYCH W KALKULACJI KOSZTÓW OSIEROCONYCH WYTWÓRCÓW I UWZGLĘDNIANY W KOREKTACH KOSZTÓW OSIEROCONYCH Lp. Nazwa wytwórcy lub podmiot Jednostka wytwórcza 1 2 3 1 BOT Górnictwo i Energetyka S.A. 1.1 Elektrownia Opole S.A. Elektrownia Opole bloki 1-4 1.2 Elektrownia Bełchatów S.A. Elektrownia Bełchatów 1-4 Elektrownia Bełchatów 5-12 1.3 Elektrownia Turów S.A. Elektrownia Turów bloki 1-3 Elektrownia Turów bloki 4-6 Elektrownia Turów bloki 8-10 2 Zespół Elektrowni Pątnów-Adamów-Konin S.A. Elektrownia Konin kolektor Elektrownia Pątnów II Elektrownia Konin bloki 8, 9 Elektrownia Adamów bloki 1-5 Elektrownia Pątnów bloki 1-6 3 Południowy Koncern Energetyczny S.A. Elektrownia Jaworzno II Blok 2 JA II blok 3 [JW2 1-03] JA II układ kolekt. [JW2 1-01, 1-04, 1-06] Elektrownia Jaworzno III Elektrownia Jaworzno III bloki 1, 2, 5, 6 z IOS Elektrownia Jaworzno III bloki 3, 4 bez IOS Elektrownia Łagisza bloki 6, 7 Elektrownia Siersza bloki 1, 2 Elektrownia Siersza bloki 3, 6 Elektrownia Łaziska bloki 1, 2 Elektrownia Łaziska bloki 9-12 Elektrociepłownia Bielsko-Biała Elektrociepłownia Elektrociepłownia Bielsko-Biała I Elektrociepłownia Katowice Elektrownia Halemba bloki 1-4 Elektrownia Blachownia Elektrownia Łagisza bloki 1-5 bez IOS Elektrownia Siersza bloki 4, 5 bez IOS 1 2 3 4 Elektrownia Kozienice S.A. Elektrownia Kozienice bloki 2, 4 Elektrownia Kozienice bloki 9, 10 Elektrownia Kozienice bloki 1, 8 Elektrownia Kozienice bloki 3, 5 Elektrownia Kozienice bloki 6, 7 5 Zespół Elektrowni Dolna Odra S.A. Elektrownia Dolna Odra bloki 1, 2 Elektrownia Dolna Odra Pomorzany 1, 2 Elektrownia Dolna Odra bloki 7, 8 Elektrownia Dolna Odra bloki 3, 4 Elektrownia Dolna Odra bloki 5, 6 EC Szczecin 6 Elektrociepłownia Kraków S.A. Elektrociepłownia Kraków bloki 3, 4 Elektrociepłownia Kraków bloki 1, 2 7 Elektrociepłownia Zielona Góra S.A. Elektrociepłownia Zielona Góra część gazowa Elektrociepłownia Zielona Góra część węglowa 8 Elektrociepłownia Rzeszów S.A. Elektrociepłownia Rzeszów 9 Elektrociepłownia Nowa Sarzyna Sp. z o.o. Elektrociepłownia Nowa Sarzyna 10 Elektrociepłownia Lublin-Wrotków Sp. z o.o. Elektrociepłownia Lublin-Wrotków 11 Elektrociepłownia Chorzów ELCHO Sp. z o.o. Elektrociepłownia Chorzów ELCHO 12 Elektrociepłownia Gorzów S.A. Elektrociepłownia Gorzów część gazowa Elektrociepłownia Gorzów część węglowa ZALICZKI NA POCZET KOSZTÓW OKREŚLONYCH W ROZDZIALE [DANE W TYS. ZŁ WEDŁUG WARTOŚCI NA DZIEŃ 1 STYCZNIA Wytwórca 2007 2008 2009 2010 2011 2012 EC Lublin-Wrotków 61 005 58 154 56 924 15 397 EC Rzeszów 25 225 24 037 23 486 22 665 20 082 8 899 EC Nowa Sarzyna 39 893 37 972 36 901 35 496 31 529 28 015 EC Zielona Góra 30 922 27 280 25 873 23 665 21 805 20 144 Elektrociepłownia 16 607 16 236 2 430 Gorzów S.A. 2017 2018 2019 2020 2021 2022 EC Lublin-Wrotków EC Rzeszów EC Nowa Sarzyna 15 098 14 866 13 107 4 866 EC Zielona Góra 12 723 15 587 14 123 13 626 13 172 12 089
+**Art. 65.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia , z wyjątkiem art. 24, art. 30, art. 45 i art. 46, które wchodzą w życie z dniem 1 stycznia 2008 r. 1189.TO 1189.TO
 

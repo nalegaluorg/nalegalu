@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 24 stycznia 2024 r.
+# w sprawie ogłoszenia jednolitego tekstu ustawy o ustanowieniu „Programu modernizacji Policji, Straży Granicznej, Państwowej Straży Pożarnej i Służby Ochrony Państwa w latach 2022–2025”, o ustanowieniu „Programu modernizacji Służby Więziennej w latach 2022–2025” oraz o zmianie ustawy o Policji i niektórych innych ustaw
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 16 stycznia 2024 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000086) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/86/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 16 stycznia 2024 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o ustanowieniu „Programu modernizacji Policji, Straży Granicznej, Państwowej Straży Pożarnej i Służby Ochrony Państwa w latach 2022–2025”, o ustanowieniu „Programu modernizacji Służby Więziennej w latach 2022–2025” oraz o zmianie ustawy o Policji i niektórych innych ustaw
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 17 grudnia 2021 r. o ustanowieniu „Programu modernizacji Policji, Straży Granicznej, Państwowej Straży Pożarnej i Służby Ochrony Państwa w latach 2022–2025”, o ustanowieniu „Programu modernizacji Służby Więziennej w latach 2022–2025” oraz o zmianie ustawy o Policji i niektórych innych ustaw (Dz. U. poz. 2448), z uwzględnieniem zmian wprowadzonych ustawą z dnia 14 kwietnia 2023 r. o zmianie nazwy uczelni służb państwowych nadzorowanej przez Ministra Sprawiedliwości i o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 1053) oraz zmian wynikających z przepisów ogłoszonych przed dniem 16 stycznia 2024 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1) art. 13–20 oraz załącznika nr 7 do ustawy z dnia 17 grudnia 2021 r. o ustanowieniu „Programu modernizacji Policji, Straży Granicznej, Państwowej Straży Pożarnej i Służby Ochrony Państwa w latach 2022–2025”, o ustanowieniu „Programu modernizacji Służby Więziennej w latach 2022–2025” oraz o zmianie ustawy o Policji i niektórych innych ustaw (Dz. U. poz. 2448), które stanowią: „Art. 13. W ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2021 r. poz. 1882, 2333 i 2447) wprowadza się następujące zmiany:

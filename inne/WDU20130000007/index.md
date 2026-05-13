@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 4 stycznia 2013 r.
+# o zmianie ustawy o bezpieczeństwie i ratownictwie w górach i na zorganizowanych terenach narciarskich oraz ustawy o ochronie przyrody
+
+*USTAWA z dnia 9 listopada 2012 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +25,6 @@ domain: null
 | Data wydania | 2013-01-04 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000007) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/7/text.pdf) |
-
-Poz. 7
-USTAWA z dnia 9 listopada 2012 r.
-o zmianie ustawy o bezpieczeństwie i ratownictwie w górach i na zorganizowanych terenach narciarskich oraz ustawy o ochronie przyrody
 
 **Art. 1.** W ustawie z dnia 18 sierpnia 2011 r. o bezpieczeństwie i ratownictwie w górach i na zorganizowanych terenach narciarskich (Dz. U. Nr 208, poz. 1241) w art. 17 ust. 4 otrzymuje brzmienie: „4. Opłaty za wstęp do parku narodowego lub na niektóre jego obszary, o których mowa w art. 12 ust. 3 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2009 r. Nr 151, poz. 1220, z późn. zm. ), przekazuje się w wysokości 15% wpływów pomniejszonych o należny podatek od towarów i usług za każdy kwartał podmiotom uprawnionym do wykonywania ratownictwa górskiego na obszarze, na którym znajduje się określony park narodowy, z przeznaczeniem na dofinansowanie zadań w zakresie ratownictwa górskiego nieobjętych umową, o której mowa w ust. 1.”.
 

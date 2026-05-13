@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 15 maja 2024 r.
+# o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług przez podmioty gospodarcze
+
+*USTAWA z dnia 26 kwietnia 2024 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,9 +26,6 @@ domain: null
 | Ostatnia zmiana | 2024-05-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000731) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/731/text.pdf) |
 
-USTAWA z dnia 26 kwietnia 2024 r.
-o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług przez podmioty gospodarcze
-
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa określa:
@@ -39,17 +38,18 @@ o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług
 
 - **1)** konsumenckich systemów sprzętu komputerowego ogólnego przeznaczenia i ich systemów operacyjnych,
 - **2)** terminali:
-    - **a)** płatniczych, będących urządzeniami, których głównym przeznaczeniem jest umożliwianie dokonywania płatności z użyciem instrumentów płatniczych rozumieniu art. 2 pkt 10 ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. z 2024 r. poz. 30 i 731) fizycznym punkcie sprzedaży, bankomatów i wpłatomatów, automatów biletowych, urządzeń do odprawy, interaktywnych terminali przeznaczonych do udzielania informacji, z wyjątkiem terminali instalowanych jako zintegrowane części pojazdów samochodowych, statków powietrznych, statków wodnych i taboru kolejowego,
+    - **a)** płatniczych, będących urządzeniami, których głównym przeznaczeniem jest umożliwianie dokonywania płatności z użyciem instrumentów płatniczych rozumieniu art. 2 pkt 10 ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. z 2024 r. poz. 30 i 731) fizycznym punkcie sprzedaży,
+    - **b)** samoobsługowych przeznaczonych do oferowania lub świadczenia usług objętych ustawą: – bankomatów i wpłatomatów, – automatów biletowych, – urządzeń do odprawy,
 
 - **3)** konsumenckich urządzeń końcowych z interaktywnymi zdolnościami obliczeniowymi wykorzystywanych do oferowania lub świadczenia usług:
     - **a)** telekomunikacyjnych,
     - **b)** dostępu do audiowizualnych usług medialnych,
 
-- **4)** czytników książek elektronicznych zwanych dalej „produktami”.
+- **4)** czytników książek elektronicznych – zwanych dalej „produktami”.
 
 2. Przepisy ustawy stosuje się do oferowanych lub świadczonych na rzecz konsumentów usług:
 
-- **1)** telekomunikacyjnych, z wyjątkiem usług transmisji wykorzystywanych do oferowania lub świadczenia usług komunikacji maszyna maszyna,
+- **1)** telekomunikacyjnych, z wyjątkiem usług transmisji wykorzystywanych do oferowania lub świadczenia usług komunikacji maszyna – maszyna,
 - **2)** dostępu do audiowizualnych usług medialnych,
 - **3)** towarzyszących usługom autobusowego i autokarowego transportu pasażerskiego, usługom wodnego transportu pasażerskiego oraz usługom lotniczego i kolejowego transportu pasażerskiego zakresie:
     - **a)** stron internetowych,
@@ -60,11 +60,15 @@ o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług
 
 - **4)** bankowości detalicznej,
 - **5)** rozpowszechniania książek elektronicznych,
-- **6)** handlu elektronicznego zwanych dalej „usługami”.
+- **6)** handlu elektronicznego – zwanych dalej „usługami”.
 
-3. Wymagania dostępności produktów i usług określone ustawie są wymaganiami zakresie dostępności dla osób niepełnosprawnych lub projektowania z przeznaczeniem dla wszystkich użytkowników, o których mowa przepisach ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych (Dz. U. z 2023 r. poz. 1605 i 1720), odniesieniu do produktów i usług.
+3. Wymagania dostępności produktów i usług określone ustawie są wymaganiami zakresie dostępności dla osób niepełnosprawnych lub projektowania z przeznaczeniem dla wszystkich użytkowników, o których mowa przepisach ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2023 r. poz. 1605 i 1720), odniesieniu do produktów i usług.
 
 **Art. 4.** Przepisów ustawy nie stosuje się do:
+
+**Art. 5.** Użyte ustawie określenia oznaczają:
+
+**Art. 6.** Minister właściwy do spraw rozwoju regionalnego zakresie dostępności produktów i usług:
 
 #### Rozdział 2 Zapewnianie spełniania wymagań dostępności produktów i usług
 
@@ -74,15 +78,15 @@ o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług
 
 - **1)** instrukcje, etykiety i ostrzeżenia dotyczące użytkowania produktu, które zostały zamieszczone lub na produkcie, są:
     - **a)** udostępniane za pomocą więcej niż jednego kanału sensorycznego,
-    - **b)** przedstawione: sposób zapewniający ich zrozumiałość i postrzegalność, za pomocą czcionki o odpowiednim rozmiarze i kroju, z uwzględnieniem przewidywalnych warunków użytkowania oraz z zastosowaniem wystarczającego kontrastu i odstępów między literami, wierszami i akapitami;
+    - **b)** przedstawione: – sposób zapewniający ich zrozumiałość i postrzegalność, – za pomocą czcionki o odpowiednim rozmiarze i kroju, z uwzględnieniem przewidywalnych warunków użytkowania oraz z zastosowaniem wystarczającego kontrastu i odstępów między literami, wierszami i akapitami;
 
-- **2)** instrukcje dotyczące użytkowania produktu, szczególności instrukcje dotyczące dostępu do funkcji produktu, sposobu ich aktywacji i ich interoperacyjności z narzędziami wspomagającymi, które nie zostały zamieszczone lub na produkcie, są udostępnione publicznie inny sposób, szczególności za pośrednictwem strony internetowej, wraz z wprowadzeniem do obrotu produktu z dołączoną informacją o miejscu ich udostępnienia zamieszczoną na produkcie lub opakowaniu produktu oraz: czone lub na produkcie, są udostępnione publicznie inny sposób, szczególności za pośrednictwem strony internetowej, wraz z wprowadzeniem do obrotu produktu z dołączoną informacją o miejscu ich udostępnienia zamieszczoną na produkcie lub opakowaniu produktu oraz spełniają wymagania dostępności określone pkt 1, pkt 2 lit. b tiret pierwszym i lit. c;
+- **2)** instrukcje dotyczące użytkowania produktu, szczególności instrukcje dotyczące dostępu do funkcji produktu, sposobu ich aktywacji i ich interoperacyjności z narzędziami wspomagającymi, które nie zostały zamieszczone lub na produkcie, są udostępnione publicznie inny sposób, szczególności za pośrednictwem strony internetowej, wraz z wprowadzeniem do obrotu produktu z dołączoną informacją o miejscu ich udostępnienia zamieszczoną na produkcie lub opakowaniu produktu oraz:
     - **a)** spełniają wymagania dostępności określone pkt 1,
-    - **b)** obejmują: alternatywną prezentację treści nietekstowych, opis interfejsu użytkownika, informacje o spełnianiu przez produkt wymagań dostępności określonych odpowiednio art. 8–11 oraz informacje, jakie rozwiązania zostały przyjęte celu spełniania tych wymagań,
+    - **b)** obejmują: – alternatywną prezentację treści nietekstowych, – opis interfejsu użytkownika, – informacje o spełnianiu przez produkt wymagań dostępności określonych odpowiednio art. 8–11 oraz informacje, jakie rozwiązania zostały przyjęte celu spełniania tych wymagań,
     - **c)** są przedstawione formatach tekstowych umożliwiających wykorzystanie ich alternatywnej i wspomagającej komunikacji, które mogą być przedstawiane za pomocą więcej niż jednego kanału sensorycznego,
     - **d)** obejmują opis oprogramowania i sprzętu łączących produkt z narzędziami wspomagającymi wraz z wykazem narzędzi wspomagających, które były testowane razem z produktem;
 
-- **4)** informacje na opakowaniu produktu spełniają wymagania dostępności określone pkt 1.
+- **3)** instrukcje dotyczące instalacji, konserwacji, przechowywania i pozbywania się produktu, które nie zostały zamieszczone lub na produkcie, są udostępnione publicznie inny sposób, szczególności za pośrednictwem strony internetowej, wraz z wprowadzeniem do obrotu produktu z dołączoną informacją o miejscu ich udostępnienia zamieszczoną na produkcie lub opakowaniu produktu oraz spełniają wymagania dostępności określone pkt 1, pkt 2 lit. b tiret pierwszym i lit. c;
 
 2. Przepisów ust. 1 pkt 3 i 4 nie stosuje się do terminali.
 
@@ -93,13 +97,13 @@ o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług
 1. Poza spełnianiem wymagań dostępności, o których mowa art. 7 ust. 1 pkt 1 i 2 oraz art. 8, terminal:
 
 - **1)** jest wyposażony technologię syntezy mowy języku interfejsu użytkownika;
-- **2)** umożliwia: liwe do rozróżnienia za pomocą dotyku.
+- **2)** umożliwia:
     - **a)** podłączenie przewodowego stereofonicznego zestawu słuchawkowego,
     - **b)** rozpoczęcie korzystania z właściwości zapewniających spełnianie wymagań dostępności bez konieczności ich aktywowania.
 
-3. Jeżeli wymagana jest reakcja użytkownika określonym czasie, terminal informuje o tym za pośrednictwem więcej niż jednego kanału sensorycznego oraz zapewnia możliwość wydłużenia czasu na tę reakcję.
+2. Występujące terminalu klawisze i przełączniki są oznaczone za pomocą wystarczającego kontrastu oraz są możliwe do rozróżnienia za pomocą dotyku.
 
-4. Jeżeli terminal wykorzystuje elementy dźwiękowe, zapewnia się ich kompatybilność z narzędziami wspomagającymi, tym wzmacniającymi dźwięk.
+3. Jeżeli wymagana jest reakcja użytkownika określonym czasie, terminal informuje o tym za pośrednictwem więcej niż jednego kanału sensorycznego oraz zapewnia możliwość wydłużenia czasu na tę reakcję. cymi, tym wzmacniającymi dźwięk.
 
 **Art. 10.** Poza spełnianiem wymagań dostępności, o których mowa art. 7 i art. 8, czytnik książek elektronicznych jest wyposażony technologię syntezy mowy języku interfejsu użytkownika.
 
@@ -111,7 +115,7 @@ o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług
 
 2. W ramach oferowania i świadczenia usług zapewnia się:
 
-- **1)** udzielanie informacji postaci papierowej lub elektronicznej o oferowanych i świadczonych usługach oraz, przypadku produktów wykorzystywanych ramach oferowania lub świadczenia usług udzielanie informacji o związku tych produktów z usługą, funkcjach i właściwościach zapewniających spełnianie wymagań dostępności oraz ich interoperacyjności z narzędziami wspomagającymi, a także informacji niezbędnych do korzystania z usługi:
+- **1)** udzielanie informacji postaci papierowej lub elektronicznej o oferowanych i świadczonych usługach oraz, przypadku produktów wykorzystywanych ramach oferowania lub świadczenia usług – udzielanie informacji o związku tych produktów z usługą, funkcjach i właściwościach zapewniających spełnianie wymagań dostępności oraz ich interoperacyjności z narzędziami wspomagającymi, a także informacji niezbędnych do korzystania z usługi:
     - **a)** za pomocą więcej niż jednego kanału sensorycznego,
     - **b)** sposób zapewniający ich zrozumiałość,
     - **c)** formatach tekstowych umożliwiających wykorzystanie ich alternatywnej i wspomagającej komunikacji, które mogą być przedstawiane za pomocą więcej niż jednego kanału sensorycznego,
@@ -121,7 +125,9 @@ o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług
 - **2)** udzielanie informacji, o których mowa pkt 1, postaci elektronicznej sposób zapewniający postrzegalność, funkcjonalność, zrozumiałość i kompatybilność tych informacji;
 - **3)** jednolitość stron internetowych i aplikacji mobilnych przez zapewnienie ich postrzegalności, funkcjonalności, zrozumiałości i kompatybilności.
 
-**Art. 13.** Poza spełnianiem wymagań dostępności, o których mowa art. 12, ramach usług telekomunikacyjnych zapewnia się przekazywanie komunikacji głosowej wraz z komunikacją tekstową czasie rzeczywistym, a przypadku gdy dostępna jest transmisja obrazu pełną konwersację. nych usług medialnych zapewnia się:
+**Art. 13.** Poza spełnianiem wymagań dostępności, o których mowa art. 12, ramach usług telekomunikacyjnych zapewnia się przekazywanie komunikacji głosowej wraz z komunikacją tekstową czasie rzeczywistym, a przypadku gdy dostępna jest transmisja obrazu – pełną konwersację.
+
+**Art. 14.** Poza spełnianiem wymagań dostępności, o których mowa art. 12, ramach usług dostępu do audiowizualnych usług medialnych zapewnia się:
 
 **Art. 15.**
 
@@ -138,51 +144,26 @@ o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług
 2. Informacja, o której mowa ust. 1 pkt 1 lit. b, zawiera szczególności informacje na temat spełniania wymagań określonych w:
 
 - **1)** art. 6 pkt 1 oraz pkt 3 lit. a i b ustawy z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami;
-- **2)** art. 5 ust. 1 pkt 1 lit. d oraz pkt 4 ustawy z dnia 7 lipca 1994 r. Prawo budowlane (Dz. U. z 2024 r. poz. 725).
+- **2)** art. 5 ust. 1 pkt 1 lit. d oraz pkt 4 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2024 r. poz. 725).
 
 **Art. 16.** Poza spełnianiem wymagań dostępności, o których mowa art. 12, ramach usług bankowości detalicznej zapewnia się:
 
 **Art. 17.** Poza spełnianiem wymagań dostępności, o których mowa art. 12, ramach usług rozpowszechniania książek elektronicznych zapewnia się:
 
-**Art. 19.**
-
-1. Jeżeli produkt albo usługa posiadają funkcje lub właściwości, które nie są objęte wymaganiami dostępności określonymi art. 7–18, podmiot gospodarczy stosuje do nich odpowiednie kryteria funkcjonalne.
-
-2. Kryteria funkcjonalne, o których mowa ust. 1, obejmują:
-
-- **1)** jeżeli korzystanie z produktu albo usługi angażuje wzrok zapewnienie, że:
-    - **a)** co najmniej jeden tryb obsługi produktu albo sposób korzystania z usługi: nie wymaga zaangażowania wzroku, umożliwia korzystanie z tego produktu albo z tej usługi użytkownikowi przy ograniczonej zdolności widzenia, nie wymaga od użytkownika zdolności widzenia barw,
-    - **b)** ograniczone jest prawdopodobieństwo wywołania ataków padaczki fotogennej;
-
-- **2)** jeżeli korzystanie z produktu albo usługi angażuje słuch zapewnienie, że co najmniej jeden tryb obsługi produktu albo sposób korzystania z usługi:
-    - **a)** nie wymaga zaangażowania słuchu,
-    - **b)** wykorzystuje zaawansowane funkcje dźwiękowe i umożliwia korzystanie z tego produktu albo z tej usługi użytkownikowi przy ograniczonej zdolności słyszenia;
-
-- **3)** jeżeli korzystanie z produktu albo usługi wymaga użycia głosu zapewnienie, że co najmniej jeden tryb obsługi produktu albo sposób korzystania z usługi nie wymaga wydawania dźwięków za pomocą aparatu mowy;
-- **4)** jeżeli korzystanie z produktu albo usługi wymaga obsługi manualnej lub siły fizycznej zapewnienie, że co najmniej jeden tryb obsługi produktu albo sposób korzystania z usługi:
-    - **a)** nie wymaga wykonywania czynności z zakresu motoryki małej, sprawności manualnej i siły fizycznej rękach ani jednoczesnego poruszania więcej niż jednym przełącznikiem,
-    - **b)** umożliwia korzystanie z produktu albo usługi przy ograniczonym zasięgu ruchów;
-
-- **5)** zapewnienie, że:
-    - **a)** elementy umożliwiające korzystanie z produktu albo usługi znajdują się zasięgu wszystkich użytkowników,
-    - **b)** co najmniej jeden tryb obsługi produktu albo sposób korzystania z usługi obejmuje funkcje lub właściwości upraszczające i ułatwiające obsługę tego produktu albo korzystanie z tej usługi,
-    - **c)** co najmniej jeden tryb obsługi produktu albo sposób korzystania z usługi pozwalają na zachowanie prywatności podczas korzystania z funkcji lub właściwości produktu albo usługi zapewniających spełnianie wymagań dostępności.
-
-3. Kryteria funkcjonalne, o których mowa ust. 1, mogą być stosowane zamiast jednego wymagania dostępności albo większej liczby wymagań dostępności określonych art. 7–18, o ile zastosowanie tych kryteriów funkcjonalnych prowadzi do równoważnej albo większej dostępności produktu albo usługi dla osób ze szczególnymi potrzebami ramach korzystania z tego produktu albo usługi zgodnie z ich przeznaczeniem.
-
-4. Kryteria funkcjonalne, o których mowa ust. 1, uznaje się za wymagania dostępności umożliwiające korzystanie z produktu albo usługi przez osoby ze szczególnymi potrzebami i stosuje się do nich przepisy ustawy.
+**Art. 18.** Poza spełnianiem wymagań dostępności, o których mowa art. 12, ramach usług handlu elektronicznego zapewnia się:
 
 **Art. 20.**
 
-1. Jeżeli produkt albo usługa są zgodne z odpowiednimi postanowieniami norm zharmonizowanych lub specyfikacji technicznych albo ich częściami, uznaje się, że taki produkt albo taka usługa spełniają wymagania dostępności zakresie, jakim te wymagania są objęte tymi normami zharmonizowanymi lub specyfikacjami technicznymi albo ich częściami. określone w:
+1. Jeżeli produkt albo usługa są zgodne z odpowiednimi postanowieniami norm zharmonizowanych lub specyfikacji technicznych albo ich częściami, uznaje się, że taki produkt albo taka usługa spełniają wymagania dostępności zakresie, jakim te wymagania są objęte tymi normami zharmonizowanymi lub specyfikacjami technicznymi albo ich częściami.
 
-- **1)** rozporządzeniu (WE) nr 261/2004 Parlamentu Europejskiego i Rady z dnia 11 lutego 2004 r. ustanawiającym wspólne zasady odszkodowania i pomocy dla pasażerów przypadku odmowy przyjęcia na pokład albo odwołania lub dużego opóźnienia lotów, uchylającym rozporządzenie (EWG) nr 295/91 (Dz. Urz. UE L 46 z 17.02.2004, str. 1, z późn. zm. Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 8, str. 10),
-- **2)** rozporządzeniu (WE) nr 1107/2006 Parlamentu Europejskiego i Rady z dnia 5 lipca 2006 r. sprawie praw osób niepełnosprawnych oraz osób o ograniczonej sprawności ruchowej podróżujących drogą lotniczą (Dz. Urz. UE L 204 z 26.07.2006, str. 1),
+2. Usługi spełniające wymagania dostępności zakresie informacji oraz wymagania informowania o dostępności określone w:
+
+- **1)** rozporządzeniu (WE) nr 261/2004 Parlamentu Europejskiego i Rady z dnia 11 lutego 2004 r. ustanawiającym wspólne zasady odszkodowania i pomocy dla pasażerów przypadku odmowy przyjęcia na pokład albo odwołania lub dużego opóźnienia lotów, uchylającym rozporządzenie (EWG) nr 295/91 (Dz. Urz. UE L 46 z 17.02.2004, str. 1, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 8, str. 10), z 26.07.2006, str. 1),
 - **3)** rozporządzeniu Komisji (UE) nr 1300/2014 z dnia 18 listopada 2014 r. sprawie technicznych specyfikacji interoperacyjności odnoszących się do dostępności systemu kolei Unii dla osób niepełnosprawnych i osób o ograniczonej możliwości poruszania się (Dz. Urz. UE L 356 z 12.12.2014, str. 110, z późn. zm. ),
 - **4)** rozporządzeniu Komisji (UE) nr 454/2011 z dnia 5 maja 2011 r. sprawie technicznej specyfikacji interoperacyjności odnoszącej się do podsystemu „Aplikacje telematyczne dla przewozów pasażerskich” transeuropejskiego systemu kolei (Dz. Urz. UE L 123 z 12.05.2011, str. 11, z późn. zm. ),
 - **5)** rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 1177/2010 z dnia 24 listopada 2010 r. o prawach pasażerów podróżujących drogą morską i drogą wodną śródlądową oraz zmieniającym rozporządzenie (WE) nr 2006/2004,
 - **6)** rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 181/2011 z dnia 16 lutego 2011 r. dotyczącym praw pasażerów transporcie autobusowym i autokarowym oraz zmieniającym rozporządzenie (WE) nr 2006/2004,
-- **7)** rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2021/782 z dnia 29 kwietnia 2021 r. dotyczącym praw i obowiązków pasażerów ruchu kolejowym (Dz. Urz. UE L 172 z 17.05.2021, str. 1) uznaje się za spełniające odpowiednie wymagania dostępności.
+- **7)** rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2021/782 z dnia 29 kwietnia 2021 r. dotyczącym praw i obowiązków pasażerów ruchu kolejowym (Dz. Urz. UE L 172 z 17.05.2021, str. 1) – uznaje się za spełniające odpowiednie wymagania dostępności.
 
 **Art. 21.**
 
@@ -207,12 +188,12 @@ o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług
 - **1)** jednorazowe koszty organizacyjne ponoszone związku:
     - **a)** z zatrudnieniem dodatkowego personelu dysponującego wiedzą fachową zakresie dostępności produktów albo usług,
     - **b)** ze szkoleniem personelu i nabywaniem kompetencji zakresie dostępności produktów albo usług,
+    - **c)** z opracowaniem nowych procesów celu uwzględnienia dostępności rozwoju produktu albo usługi,
     - **d)** z opracowaniem wytycznych dotyczących dostępności produktów albo usług,
     - **e)** z zapoznaniem się z przepisami zakresie dostępności produktów albo usług;
 
 - **2)** bieżące koszty produkcji i rozwoju ponoszone związku z:
     - **a)** projektowaniem funkcji lub właściwości zapewniających spełnianie wymagań dostępności przez produkt albo usługę,
-    - **b)** realizacją procesów wytwórczych,
     - **c)** testowaniem produktu albo usługi zakresie dostępności,
     - **d)** opracowaniem dokumentacji dotyczącej czynności, o których mowa lit. a–c.
 
@@ -240,13 +221,13 @@ o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług
 
 **Art. 22.** W przypadku gdy udostępniane są usługi wsparcia związane z produktem albo usługą, szczególności:
 
+#### Rozdział 3 Obowiązki podmiotów gospodarczych
+
 **Art. 23.**
 
 1. Producent zapewnia, że produkty, które wprowadza do obrotu, spełniają wymagania dostępności.
 
-2. Producent dokonuje oceny zgodności produktu z wymaganiami dostępności na podstawie wewnętrznej kontroli produkcji.
-
-3. W ramach wewnętrznej kontroli produkcji, o której mowa ust. 2, producent sporządza dokumentację techniczną produktu zawierającą niezbędne informacje pozwalające na ocenę zgodności projektu, produkcji i działania produktu z mającymi zastosowanie wymaganiami dostępności, tym co najmniej:
+2. Producent dokonuje oceny zgodności produktu z wymaganiami dostępności na podstawie wewnętrznej kontroli produkcji. cymi zastosowanie wymaganiami dostępności, tym co najmniej:
 
 - **1)** ogólny opis produktu;
 - **2)** wykaz norm zharmonizowanych lub specyfikacji technicznych albo ich części stosowanych do produktu albo opisy rozwiązań przyjętych celu spełniania odpowiednich wymagań dostępności, przypadku gdy takie normy zharmonizowane lub specyfikacje techniczne albo ich części nie zostały zastosowane.
@@ -286,13 +267,11 @@ o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług
 
 **Art. 26.**
 
-1. Producent umieszcza na produkcie, a przypadku gdy jest to niemożliwe ze względu na wielkość lub charakter produktu na opakowaniu lub dokumencie dołączonym do produktu, nazwę typu, numer partii, numer serii lub inne informacje umożliwiające jego identyfikację. produktu na opakowaniu lub dokumencie dołączonym do produktu, swoje imię i nazwisko lub nazwę (firmę) oraz zarejestrowaną nazwę handlową lub zarejestrowany znak towarowy, jeżeli je posiada, oraz swoje dane kontaktowe, tym wskazanie jednego punktu kontaktowego z producentem. Dane kontaktowe są podawane języku polskim.
+1. Producent umieszcza na produkcie, a przypadku gdy jest to niemożliwe ze względu na wielkość lub charakter produktu – na opakowaniu lub dokumencie dołączonym do produktu, nazwę typu, numer partii, numer serii lub inne informacje umożliwiające jego identyfikację.
 
-3. Producent dołącza do produktu lub udostępnia publicznie instrukcje, ostrzeżenia, etykiety oraz informacje, o których mowa art. 7 ust. 1.
+2. Producent umieszcza na produkcie, a przypadku gdy jest to niemożliwe ze względu na wielkość lub charakter produktu – na opakowaniu lub dokumencie dołączonym do produktu, swoje imię i nazwisko lub nazwę (firmę) oraz zarejestrowaną nazwę handlową lub zarejestrowany znak towarowy, jeżeli je posiada, oraz swoje dane kontaktowe, tym wskazanie jednego punktu kontaktowego z producentem. Dane kontaktowe są podawane języku polskim.
 
-**Art. 27.**
-
-1. W przypadku powzięcia uzasadnionej wątpliwości, że produkt nie spełnia wymagań dostępności, producent niezwłocznie podejmuje działania naprawcze niezbędne do zapewnienia zgodności produktu z tymi wymaganiami albo wycofuje z obrotu produkt.
+3. Producent dołącza do produktu lub udostępnia publicznie instrukcje, ostrzeżenia, etykiety oraz informacje, o których mowa art. 7 ust. 1. cofuje z obrotu produkt.
 
 2. Producent niezwłocznie informuje właściwy organ nadzoru rynku, o którym mowa art. 38 ust. 3, oraz odpowiednie organy nadzoru rynku pozostałych państwach członkowskich Unii Europejskiej, których produkt został udostępniony na rynku, o niespełnianiu przez produkt wymagań dostępności oraz o podjętych działaniach naprawczych albo o wycofaniu z obrotu produktu.
 
@@ -329,16 +308,16 @@ o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług
 
 - **2)** udzielać informacji na temat procesu oferowania lub świadczenia usługi i jego monitorowania formie pisemnej, postaci papierowej lub elektronicznej oraz sposób dostępny dla osób ze szczególnymi potrzebami określony art. 12 ust. 2;
 - **3)** przechowywać informacje, o których mowa pkt 1 i 2, przez cały okres, przez który usługa pozostaje jego ofercie;
-- **4)** uwzględniać zmiany dotyczące oferowania lub świadczenia usługi, zmiany wymagań dostępności oraz zmiany normach zharmonizowanych lub specyfikacjach technicznych, na podstawie których deklaruje się zgodność usługi z wymaganiami dostępności; zgodności usługi z tymi wymaganiami;
+- **4)** uwzględniać zmiany dotyczące oferowania lub świadczenia usługi, zmiany wymagań dostępności oraz zmiany normach zharmonizowanych lub specyfikacjach technicznych, na podstawie których deklaruje się zgodność usługi z wymaganiami dostępności;
+- **5)** przypadku gdy usługa nie spełnia wymagań dostępności, podejmować działania naprawcze niezbędne do zapewnienia zgodności usługi z tymi wymaganiami;
 - **6)** niezwłocznie poinformować właściwy organ nadzoru rynku, o którym mowa art. 38 ust. 3, o niespełnianiu przez usługę wymagań dostępności, podając informacje na temat niespełniania wymagań dostępności oraz o podjętych działaniach naprawczych;
 - **7)** na żądanie Prezesa Zarządu PFRON lub właściwego organu nadzoru rynku, o którym mowa art. 38 ust. 3, terminie określonym żądaniu, udzielać informacji koniecznych do wykazania zgodności usługi z wymaganiami dostępności, formie pisemnej, postaci papierowej lub elektronicznej;
-- **8)** współpracować z Prezesem Zarządu PFRON lub właściwym organem nadzoru rynku, o którym mowa art. 38 ust. 3, zakresie działań naprawczych podejmowanych celu zapewnienia zgodności usługi z wymaganiami dostępności.
 
 **Art. 33.**
 
 1. W informacji, o której mowa art. 32 ust. 2 pkt 1 lit. a, usługodawca podaje informację o:
 
-- **1)** aktualnym stanie zapewnienia warunków niezbędnych do korzystania przez osoby ze szczególnymi potrzebami z pomieszczeń oraz budynków użyteczności publicznej wykorzystywanych do oferowania lub świadczenia usług oraz otaczającej je infrastruktury zakresie, jakim te warunki umożliwiają korzystanie z usługi, lub
+- **1)** aktualnym stanie zapewnienia warunków niezbędnych do korzystania przez osoby ze szczególnymi potrzebami z pomieszczeń oraz budynków użyteczności publicznej wykorzystywanych do oferowania lub świadczenia usług oraz otaczającej je infrastruktury – zakresie, jakim te warunki umożliwiają korzystanie z usługi, lub
 - **2)** posiadanym przez usługodawcę certyfikacie dostępności, o którym mowa art. 19 ust. 1 ustawy z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami, jeżeli został wydany.
 
 2. Informacja, o której mowa ust. 1 pkt 1, zawiera szczególności informacje, o których mowa art. 15 ust. 2.
@@ -376,9 +355,12 @@ o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług
 
 3. Skargę, która nie zawiera informacji określonych ust. 1, pozostawia się bez rozpatrzenia.
 
-- **1)** na piśmie osobiście u podmiotu gospodarczego albo wysłana przesyłką pocztową rozumieniu art. 3 pkt 21 ustawy z dnia 23 listopada 2012 r. Prawo pocztowe (Dz. U. z 2023 r. poz. 1640 oraz z 2024 r. poz. 467), albo wysłana na adres do doręczeń elektronicznych rozumieniu art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2023 r. poz. 285, 1860 i 2699), wpisany do bazy adresów elektronicznych, o której mowa art. 25 tej ustawy;
-- **2)** ustnie telefonicznie albo osobiście do protokołu podczas wizyty konsumenta u podmiotu gospodarczego;
-- **3)** postaci elektronicznej z wykorzystaniem środków komunikacji elektronicznej, o ile takie środki zostały do tego celu wskazane przez podmiot gospodarczy.
+**Art. 37.**
+
+1. Skarga może być złożona:
+
+- **1)** na piśmie – osobiście u podmiotu gospodarczego albo wysłana przesyłką pocztową rozumieniu art. 3 pkt 21 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2023 r. poz. 1640 oraz z 2024 r. poz. 467), albo wysłana na adres do doręczeń elektronicznych rozumieniu art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2023 r. poz. 285, 1860 i 2699), wpisany do bazy adresów elektronicznych, o której mowa art. 25 tej ustawy;
+- **2)** ustnie – telefonicznie albo osobiście do protokołu podczas wizyty konsumenta u podmiotu gospodarczego;
 
 2. Podmiot gospodarczy rozpatruje skargę i udziela odpowiedzi sposób wskazany zgodnie z art. 36 ust. 1 pkt 2 terminie 30 dni od dnia otrzymania skargi.
 
@@ -389,8 +371,8 @@ o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług
 5. Odpowiedź, o której mowa ust. 2, zawiera szczególności:
 
 - **1)** informację o wyniku rozpatrzenia skargi oraz przypadku gdy skarga:
-    - **a)** nie została uwzględniona uzasadnienie faktyczne i prawne,
-    - **b)** została uwzględniona określenie terminu, nie dłuższego niż 6 miesięcy od dnia udzielenia tej odpowiedzi, którym żądanie skarżącego zostanie zrealizowane;
+    - **a)** nie została uwzględniona – uzasadnienie faktyczne i prawne,
+    - **b)** została uwzględniona – określenie terminu, nie dłuższego niż 6 miesięcy od dnia udzielenia tej odpowiedzi, którym żądanie skarżącego zostanie zrealizowane;
 
 - **2)** imię i nazwisko osoby upoważnionej przez podmiot gospodarczy do udzielenia odpowiedzi wraz ze wskazaniem stanowiska, które zajmuje tym podmiocie gospodarczym.
 
@@ -409,25 +391,23 @@ o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług
 - **1)** kontrolę zakresie spełniania wymagań dostępności, o których mowa art. 7–19, przez wprowadzone do obrotu produkty i oferowane lub świadczone usługi oraz zakresie wykonywania przez podmioty gospodarcze obowiązków, o których mowa art. 22, art. 23, art. 24 ust. 1–5 i 7, art. 25–27, art. 28 ust. 2 i 3, art. 29, art. 30, art. 32, art. 33 oraz art. 34 ust. 1–3;
 - **2)** kontrolę, o której mowa art. 25 ust. 3 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/1020 z dnia 20 czerwca 2019 r. sprawie nadzoru rynku i zgodności produktów oraz zmieniającego dyrektywę 2004/42/WE oraz rozporządzenia (WE) nr 765/2008 i (UE) nr 305/2011 (Dz. Urz. UE L 169 z 25.06.2019, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem (UE) 2019/1020”, produktów, które mają zostać objęte procedurą dopuszczenia do obrotu;
 - **3)** postępowania sprawie spełniania wymagań dostępności, o których mowa art. 7–19, przez wprowadzone do obrotu produkty i oferowane lub świadczone usługi oraz sprawie wykonywania przez podmioty gospodarcze obowiązków, o których mowa art. 22, art. 23, art. 24 ust. 1–5 i 7, art. 25–27, art. 28 ust. 2 i 3, art. 29, art. 30, art. 32, art. 33 oraz art. 34 ust. 1–3.
+
+2. System nadzoru rynku tworzą:
+
 - **1)** Prezes Zarządu PFRON;
 - **2)** organy nadzoru rynku, o których mowa ust. 3;
 - **3)** organy celne.
-
-3. Organami nadzoru rynku odniesieniu do:
-
 - **1)** konsumenckich urządzeń końcowych z interaktywnymi zdolnościami obliczeniowymi wykorzystywanych do oferowania lub świadczenia usług telekomunikacyjnych i usług dostępu do audiowizualnych usług medialnych, terminali, usług telekomunikacyjnych i usług dostępu do audiowizualnych usług medialnych, konsumenckich systemów sprzętu komputerowego ogólnego przeznaczenia i ich systemów operacyjnych, czytników książek elektronicznych i usług rozpowszechniania książek elektronicznych jest Prezes Urzędu Komunikacji Elektronicznej,
 - **2)** usług handlu elektronicznego jest minister właściwy do spraw informatyzacji,
 - **3)** usług bankowości detalicznej jest Rzecznik Finansowy,
 - **4)** usług towarzyszących usługom autobusowego i autokarowego transportu pasażerskiego są wojewódzcy inspektorzy transportu drogowego,
 - **5)** usług towarzyszących usługom kolejowego transportu pasażerskiego jest Prezes Urzędu Transportu Kolejowego,
 - **6)** usług towarzyszących usługom lotniczego transportu pasażerskiego jest Prezes Urzędu Lotnictwa Cywilnego,
-- **7)** usług towarzyszących usługom wodnego transportu pasażerskiego są dyrektorzy urzędów morskich zakresie transportu morskiego i Dyrektor Urzędu Żeglugi Śródlądowej Bydgoszczy zakresie transportu wodnego śródlądowego zwani dalej „organami nadzoru rynku”.
+- **7)** usług towarzyszących usługom wodnego transportu pasażerskiego są dyrektorzy urzędów morskich zakresie transportu morskiego i Dyrektor Urzędu Żeglugi Śródlądowej Bydgoszczy zakresie transportu wodnego śródlądowego – zwani dalej „organami nadzoru rynku”.
 
 **Art. 39.** Prezes Zarządu PFRON:
 
 **Art. 40.** Organy nadzoru rynku sprawują nadzór nad rynkiem przez:
-
-**Art. 41.** Na wniosek Prezesa Zarządu PFRON organy nadzoru rynku przekazują informacje, tym dane statystyczne:
 
 **Art. 42.**
 
@@ -461,11 +441,11 @@ o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług
 
 2. Zgodność kopii z oryginałem dokumentu, o której mowa ust. 1 pkt 1, potwierdza kontrolowany podmiot gospodarczy lub osoba przez niego upoważniona, a przypadku odmowy potwierdzenia zgodność z oryginałem potwierdza osoba kontrolująca, o czym czyni wzmiankę protokole kontroli.
 
-3. Jeżeli dokumenty, o których mowa ust. 1 pkt 1, sporządzono języku obcym, osoba kontrolująca może żądać, zakresie niezbędnym do przeprowadzenia kontroli, tłumaczenia tych dokumentów na język polski. darczego oraz do poruszania się na tym terenie, tych obiektach i tych pomieszczeniach za okazaniem legitymacji służbowej oraz upoważnienia do przeprowadzenia kontroli.
+3. Jeżeli dokumenty, o których mowa ust. 1 pkt 1, sporządzono języku obcym, osoba kontrolująca może żądać, zakresie niezbędnym do przeprowadzenia kontroli, tłumaczenia tych dokumentów na język polski.
 
-5. Osoba kontrolująca podlega przepisom bezpieczeństwa i higieny pracy obowiązującym kontrolowanym podmiocie gospodarczym.
+4. Osoba kontrolująca jest uprawniona do wstępu na teren, do obiektów i pomieszczeń kontrolowanego podmiotu gospodarczego oraz do poruszania się na tym terenie, tych obiektach i tych pomieszczeniach za okazaniem legitymacji służbowej oraz upoważnienia do przeprowadzenia kontroli.
 
-**Art. 46.** Podmiot gospodarczy będący posiadaniu produktów lub dokumentów objętych zakresem kontroli przeprowadzanej u innego podmiotu gospodarczego, który uczestniczy udostępnianiu na rynku produktu będącego przedmiotem kontroli, jest obowiązany, na żądanie Prezesa Zarządu PFRON lub właściwych organów nadzoru rynku, do ich udostępnienia oraz umożliwienia pobrania próbek produktów do badań.
+5. Osoba kontrolująca podlega przepisom bezpieczeństwa i higieny pracy obowiązującym kontrolowanym podmiocie gospodarczym. kontroli, jest obowiązany, na żądanie Prezesa Zarządu PFRON lub właściwych organów nadzoru rynku, do ich udostępnienia oraz umożliwienia pobrania próbek produktów do badań.
 
 **Art. 47.**
 
@@ -511,10 +491,14 @@ o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług
 - **1)** udzielania informacji i wyjaśnień;
 - **2)** sporządzania we własnym zakresie i udostępniania kopii dokumentów, tym wydruków danych posiadanych postaci elektronicznej, wskazanych przez osobę kontrolującą;
 - **3)** zapewniania wydzielonych miejsc do przechowywania dowodów i produktów.
+
+**Art. 50.**
+
+1. Z przeprowadzonej kontroli sporządza się protokół kontroli, który zawiera szczególności:
+
 - **1)** wskazanie imienia i nazwiska lub nazwy (firmy) oraz adresu kontrolowanego podmiotu gospodarczego;
 - **2)** daty rozpoczęcia i zakończenia kontroli;
 - **3)** imię, nazwisko i stanowisko służbowe osoby kontrolującej;
-- **4)** określenie przedmiotu i zakresu kontroli;
 - **5)** opis stanu faktycznego ustalonego toku kontroli;
 - **6)** wykaz i opis załączników;
 - **7)** pouczenie kontrolowanego podmiotu gospodarczego o prawie zgłaszania zastrzeżeń i uwag do protokołu kontroli;
@@ -550,10 +534,13 @@ o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług
 
 2. W przypadku stwierdzenia, że podmiot gospodarczy nie dokonał oceny, o której mowa art. 21 ust. 2, albo dokonał jej lub zastosował kryteria, o których mowa art. 21 ust. 3, sposób nieprawidłowy, Prezes Zarządu PFRON lub właściwy organ nadzoru rynku wzywają ten podmiot gospodarczy do dokonania tej oceny i przedstawienia jej wyników, terminie nie krótszym niż 60 dni.
 
-3. Jeżeli podmiot gospodarczy, terminie, o którym mowa ust. 2, nie dokonał oceny, o której mowa art. 21 ust. 2, i nie przedstawił wyników tej oceny, Prezes Zarządu PFRON lub właściwy organ nadzoru rynku wszczynają postępowanie, o którym mowa art. 53 albo art. 63. produkt nie spełnia wymagań dostępności, z uwzględnieniem art. 21 ust. 1, lub nie zostały wykonane obowiązki, o których mowa art. 22, art. 23, art. 24 ust. 1–5 i 7, art. 25–27, art. 28 ust. 2 i 3, art. 29, art. 30 oraz art. 34 ust. 1–3:
+3. Jeżeli podmiot gospodarczy, terminie, o którym mowa ust. 2, nie dokonał oceny, o której mowa art. 21 ust. 2, i nie przedstawił wyników tej oceny, Prezes Zarządu PFRON lub właściwy organ nadzoru rynku wszczynają postępowanie, o którym mowa art. 53 albo art. 63.
+
+**Art. 52.**
+
+1. W przypadku gdy wyniku kontroli Prezes Zarządu PFRON lub właściwy organ nadzoru rynku ustalą, że produkt nie spełnia wymagań dostępności, z uwzględnieniem art. 21 ust. 1, lub nie zostały wykonane obowiązki, o których mowa art. 22, art. 23, art. 24 ust. 1–5 i 7, art. 25–27, art. 28 ust. 2 i 3, art. 29, art. 30 oraz art. 34 ust. 1–3:
 
 - **1)** wzywają podmiot gospodarczy do podjęcia działań naprawczych niezbędnych do zapewnienia zgodności produktu z wymaganiami dostępności lub wykonywania tych obowiązków albo do wycofania z obrotu produktu oraz przedstawienia, wyznaczonym terminie, nie dłuższym niż 120 dni od dnia otrzymania wezwania, dowodów potwierdzających dokonanie tych czynności;
-- **2)** mogą, drodze decyzji, zakazać udostępniania na rynku produktu na okres nie dłuższy niż 180 dni.
 
 2. W przypadku gdy wyniku kontroli Prezes Zarządu PFRON lub właściwy organ nadzoru rynku ustalą, że produkt, o którym mowa ust. 1, stwarza zagrożenie dla zdrowia lub bezpieczeństwa konsumentów, wzywają podmiot gospodarczy do powiadomienia konsumentów o tym fakcie, określając sposób tego powiadomienia, oraz wyznaczają termin na przedstawienie dowodów potwierdzających dokonanie tego powiadomienia.
 
@@ -592,22 +579,23 @@ o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług
 
 1. Prezes Zarządu PFRON i organy nadzoru rynku na zasadach określonych rozporządzeniu (UE) 2019/1020 wprowadzają do systemu informacyjnego i komunikacyjnego, o którym mowa art. 34 tego rozporządzenia, zwanego dalej „systemem ICSMS”, informacje dotyczące produktów zakresie spełniania wymagań dostępności, stosunku do których została przeprowadzona kontrola.
 
+2. Informacje, o których mowa ust. 1, obejmują szczególności:
+
 - **1)** dane konieczne do identyfikacji produktu;
 - **2)** informacje na temat pochodzenia produktu;
 - **3)** opis niespełniania przez produkt wymagań dostępności ze wskazaniem, czy wynika to z którejkolwiek z następujących przyczyn:
     - **a)** niespełniania przez produkt mających zastosowanie wymagań dostępności,
-    - **b)** braków lub błędów normach zharmonizowanych lub specyfikacjach technicznych będących podstawą domniemania zgodności;
 
 - **4)** rodzaj i okres obowiązywania środków zastosowanych na podstawie art. 52 ust. 1 i art. 56 ust. 1;
 - **5)** stanowisko przedstawione toku kontroli przez podmiot gospodarczy.
 
-3. W przypadku gdy terminie 3 miesięcy od dnia otrzymania powiadomienia o wprowadzeniu do systemu ICSMS informacji, o której mowa ust. 2 pkt 4, Komisja Europejska, inne niż Rzeczpospolita Polska państwo członkowskie Unii Europejskiej lub państwo członkowskie Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) strona umowy o Europejskim Obszarze Gospodarczym nie zgłoszą sprzeciwu wobec zastosowanego środka, o którym mowa art. 52 ust. 1 pkt 2 i art. 56 ust. 1, środek ten uznaje się za zasadny.
+3. W przypadku gdy terminie 3 miesięcy od dnia otrzymania powiadomienia o wprowadzeniu do systemu ICSMS informacji, o której mowa ust. 2 pkt 4, Komisja Europejska, inne niż Rzeczpospolita Polska państwo członkowskie Unii Europejskiej lub państwo członkowskie Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) – strona umowy o Europejskim Obszarze Gospodarczym nie zgłoszą sprzeciwu wobec zastosowanego środka, o którym mowa art. 52 ust. 1 pkt 2 i art. 56 ust. 1, środek ten uznaje się za zasadny.
 
-4. W przypadku gdy terminie, o którym mowa ust. 3, Komisja Europejska, inne niż Rzeczpospolita Polska państwo członkowskie Unii Europejskiej lub państwo członkowskie Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) strona umowy o Europejskim Obszarze Gospodarczym, zgłoszą sprzeciw wobec zastosowanego środka, o którym mowa art. 52 ust. 1 pkt 2 i art. 56 ust. 1, środek ten uznaje się za niezasadny na podstawie decyzji Komisji Europejskiej. Prezes Zarządu PFRON lub właściwy organ nadzoru rynku uchylają decyzję o zastosowaniu tego środka.
+4. W przypadku gdy terminie, o którym mowa ust. 3, Komisja Europejska, inne niż Rzeczpospolita Polska państwo członkowskie Unii Europejskiej lub państwo członkowskie Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) – strona umowy o Europejskim Obszarze Gospodarczym, zgłoszą sprzeciw wobec zastosowanego środka, o którym mowa art. 52 ust. 1 pkt 2 i art. 56 ust. 1, środek ten uznaje się za niezasadny na podstawie decyzji Komisji Europejskiej. Prezes Zarządu PFRON lub właściwy organ nadzoru rynku uchylają decyzję o zastosowaniu tego środka.
 
-**Art. 59.** Prezes Zarządu PFRON z urzędu lub na wniosek właściwego organu nadzoru rynku może wyrazić sprzeciw wobec środków zastosowanych związku ze stwierdzeniem niezgodności produktu z wymaganiami dostępności przez organ nadzoru rynku innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym, które zostały wprowadzone do systemu ICSMS.
+**Art. 59.** Prezes Zarządu PFRON z urzędu lub na wniosek właściwego organu nadzoru rynku może wyrazić sprzeciw wobec środków zastosowanych związku ze stwierdzeniem niezgodności produktu z wymaganiami dostępności przez organ nadzoru rynku innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, które zostały wprowadzone do systemu ICSMS.
 
-**Art. 60.** W przypadku gdy organ nadzoru rynku innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym wydał decyzję zakazującą wprowadzenia do obrotu produktu albo nakazującą ograniczenie udostępniania na rynku produktu lub nakazującą wycofanie z obrotu produktu, Prezes Zarządu PFRON lub właściwy organ nadzoru rynku sprawdzają, czy produkt, którego dotyczy decyzja, jest udostępniany na terytorium Rzeczypospolitej Polskiej i drodze decyzji podejmują odpowiednie działania celu wdrożenia środków, o których mowa decyzji organu nadzoru rynku innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym.
+**Art. 60.** W przypadku gdy organ nadzoru rynku innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym wydał decyzję zakazującą wprowadzenia do obrotu produktu albo nakazującą ograniczenie udostępniania na rynku produktu lub nakazującą wycofanie z obrotu produktu, Prezes Zarządu PFRON lub właściwy organ nadzoru rynku sprawdzają, czy produkt, którego dotyczy decyzja, jest udostępniany na terytorium Rzeczypospolitej Polskiej i drodze decyzji podejmują odpowiednie działania celu wdrożenia środków, o których mowa decyzji organu nadzoru rynku innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym.
 
 **Art. 61.**
 
@@ -623,13 +611,11 @@ o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług
 
 6. Właściwy organ nadzoru rynku może zwrócić się do importera produktu będącego przedmiotem opinii, o której mowa ust. 5, o udzielenie dodatkowych informacji, przekazanie dokumentów lub udzielenie wyjaśnień dotyczących tego produktu.
 
-7. Organy celne współpracują z Prezesem Zarządu PFRON i organami nadzoru rynku oraz udostępniają na ich wniosek dane dotyczące podmiotów gospodarczych dokonujących przywozu produktów z państw innych niż państwa członkowskie Unii Europejskiej i państwa członkowskie Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym, tym informacje objęte tajemnicą skarbową, zakresie niezbędnym do realizowania przez Prezesa Zarządu PFRON i organy nadzoru rynku działań ramach systemu nadzoru rynku. niają na ich wniosek dane i informacje dotyczące podmiotów gospodarczych, tym objęte tajemnicą skarbową, zakresie niezbędnym do przeprowadzania kontroli.
+7. Organy celne współpracują z Prezesem Zarządu PFRON i organami nadzoru rynku oraz udostępniają na ich wniosek dane dotyczące podmiotów gospodarczych dokonujących przywozu produktów z państw innych niż państwa członkowskie Unii Europejskiej i państwa członkowskie Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, tym informacje objęte tajemnicą skarbową, zakresie niezbędnym do realizowania przez Prezesa Zarządu PFRON i organy nadzoru rynku działań ramach systemu nadzoru rynku.
 
-9. Szczegółowe zasady współpracy między organami celnymi a Prezesem Zarządu PFRON lub organami nadzoru rynku mogą zostać określone drodze porozumienia.
+8. Naczelnicy urzędów skarbowych współpracują z Prezesem Zarządu PFRON i organami nadzoru rynku oraz udostępniają na ich wniosek dane i informacje dotyczące podmiotów gospodarczych, tym objęte tajemnicą skarbową, zakresie niezbędnym do przeprowadzania kontroli.
 
-**Art. 62.**
-
-1. W przypadku gdy wyniku kontroli Prezes Zarządu PFRON lub właściwy organ nadzoru rynku ustalą, że usługa nie spełnia wymagań dostępności, z uwzględnieniem art. 21 ust. 1, lub nie zostały wykonane obowiązki, o których mowa art. 32 i art. 33:
+9. Szczegółowe zasady współpracy między organami celnymi a Prezesem Zarządu PFRON lub organami nadzoru rynku mogą zostać określone drodze porozumienia. mowa art. 32 i art. 33:
 
 - **1)** wzywają usługodawcę do podjęcia działań naprawczych niezbędnych do zapewnienia zgodności usługi z wymaganiami dostępności lub wykonania obowiązków albo do zaprzestania oferowania lub świadczenia usługi oraz przedstawienia, wyznaczonym terminie nie dłuższym niż 120 dni od dnia otrzymania wezwania, dowodów potwierdzających dokonanie tych czynności;
 - **2)** mogą, drodze decyzji, zakazać oferowania lub świadczenia usługi na okres nie dłuższy niż 180 dni.
@@ -666,12 +652,12 @@ o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług
 
 - **1)** produktu albo usługi, których dotyczy zawiadomienie;
 - **2)** wymagania dostępności, którego nie spełnia produkt albo usługa;
-- **3)** podmiotu gospodarczego, który udostępnia na rynku produkt albo oferuje lub świadczy usługę, które nie spełniają wymagań dostępności. imię i nazwisko, adres do korespondencji lub adres e-mail, lub numer telefonu zależności od wskazanego przez składającego zawiadomienie preferowanego sposobu kontaktu oraz wskazanie sposobu kontaktu ze składającym zawiadomienie.
+- **3)** podmiotu gospodarczego, który udostępnia na rynku produkt albo oferuje lub świadczy usługę, które nie spełniają wymagań dostępności.
 
-4. Zawiadomienie może być złożone:
+3. W celu uzyskania informacji, o której mowa art. 68 ust. 1 pkt 2 oraz ust. 3, 4 i 6, zawiadomienie może zawierać imię i nazwisko, adres do korespondencji lub adres e-mail, lub numer telefonu – zależności od wskazanego przez składającego zawiadomienie preferowanego sposobu kontaktu oraz wskazanie sposobu kontaktu ze składającym zawiadomienie.
 
-- **1)** na piśmie osobiście Państwowym Funduszu Rehabilitacji Osób Niepełnosprawnych albo wysłane przesyłką pocztową rozumieniu art. 3 pkt 21 ustawy z dnia 23 listopada 2012 r. Prawo pocztowe, albo wysłane na adres do doręczeń elektronicznych rozumieniu art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych, wpisany do bazy adresów elektronicznych, o której mowa art. 25 tej ustawy;
-- **2)** ustnie telefonicznie albo osobiście do protokołu podczas wizyty Państwowym Funduszu Rehabilitacji Osób Niepełnosprawnych;
+- **1)** na piśmie – osobiście Państwowym Funduszu Rehabilitacji Osób Niepełnosprawnych albo wysłane przesyłką pocztową rozumieniu art. 3 pkt 21 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe, albo wysłane na adres do doręczeń elektronicznych rozumieniu art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych, wpisany do bazy adresów elektronicznych, o której mowa art. 25 tej ustawy;
+- **2)** ustnie – telefonicznie albo osobiście do protokołu podczas wizyty Państwowym Funduszu Rehabilitacji Osób Niepełnosprawnych;
 - **3)** postaci elektronicznej z wykorzystaniem środków komunikacji elektronicznej, o ile takie środki zostały do tego celu wskazane przez Prezesa Zarządu PFRON;
 - **4)** polskim języku migowym do protokołu podczas wizyty Państwowym Funduszu Rehabilitacji Osób Niepełnosprawnych lub postaci nagrania z wykorzystaniem środków komunikacji elektronicznej, o ile takie środki zostały do tego celu wskazane przez Prezesa Zarządu PFRON.
 
@@ -700,9 +686,9 @@ o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług
 
 6. Prezes Zarządu PFRON albo właściwy organ nadzoru rynku informują składającego zawiadomienie, jeżeli zawiadomienie zawiera informacje, o których mowa art. 67 ust. 3, o działaniach podjętych związku ze złożonym zawiadomieniem, formie pisemnej, postaci papierowej lub elektronicznej.
 
-**Art. 69.** W zakresie nieuregulowanym ustawie do kontroli stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236).
+**Art. 69.** W zakresie nieuregulowanym ustawie do kontroli stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236).
 
-**Art. 70.** W zakresie nieuregulowanym ustawie do postępowań, o których mowa art. 53 i art. 63, oraz zawiadomień stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572).
+**Art. 70.** W zakresie nieuregulowanym ustawie do postępowań, o których mowa art. 53 i art. 63, oraz zawiadomień stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572).
 
 **Art. 71.**
 
@@ -710,9 +696,11 @@ o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług
 
 2. Do strategii, o której mowa ust. 1, stosuje się odpowiednio przepisy art. 13 rozporządzenia (UE) 2019/1020.
 
-3. Na wniosek Prezesa Zarządu PFRON właściwy organ nadzoru rynku przekazuje informacje lub dane niezbędne do opracowania strategii, o której mowa ust. 1. zdanie dotyczące funkcjonowania systemu nadzoru rynku zakresie zapewniania spełniania wymagań dostępności produktów i usług, zwane dalej „sprawozdaniem”, obejmujące okres 5 lat kalendarzowych, według stanu na dzień 31 grudnia roku kończącego ten okres.
+3. Na wniosek Prezesa Zarządu PFRON właściwy organ nadzoru rynku przekazuje informacje lub dane niezbędne do opracowania strategii, o której mowa ust. 1.
 
-2. Sprawozdanie zawiera szczególności:
+**Art. 72.**
+
+1. Prezes Zarządu PFRON na podstawie informacji przekazanych przez organy nadzoru rynku sporządza sprawozdanie dotyczące funkcjonowania systemu nadzoru rynku zakresie zapewniania spełniania wymagań dostępności produktów i usług, zwane dalej „sprawozdaniem”, obejmujące okres 5 lat kalendarzowych, według stanu na dzień 31 grudnia roku kończącego ten okres.
 
 - **1)** informacje zakresie:
     - **a)** zmian poziomie dostępności produktów i usług,
@@ -725,7 +713,7 @@ o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług
 
 - **3)** wskazanie wymagań dostępności produktów i usług oraz obowiązków podmiotów gospodarczych, które powinny ulec ograniczeniu.
 
-3. Prezes Zarządu PFRON przekazuje sprawozdanie do Komisji Europejskiej, innych niż Rzeczpospolita Polska państw członkowskich Unii Europejskiej i państw członkowskich Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym, terminie 3 miesięcy po upływie okresu, o którym mowa ust. 1.
+3. Prezes Zarządu PFRON przekazuje sprawozdanie do Komisji Europejskiej, innych niż Rzeczpospolita Polska państw członkowskich Unii Europejskiej i państw członkowskich Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym, terminie 3 miesięcy po upływie okresu, o którym mowa ust. 1.
 
 4. Prezes Zarządu PFRON niezwłocznie publikuje sprawozdanie na stronie podmiotowej Biuletynu Informacji Publicznej Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych i na stronie internetowej urzędu obsługującego Prezesa Zarządu PFRON.
 
@@ -747,11 +735,12 @@ o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług
     - **b)** nie przekazał Prezesowi Zarządu PFRON lub właściwemu organowi nadzoru rynku informacji, o których mowa art. 32 ust. 2 pkt 7, terminie określonym żądaniu, o którym mowa tym przepisie, albo przekazał informacje nieprawdziwe lub wprowadzające błąd,
     - **c)** nie przedstawił dowodów, o których mowa art. 62 ust. 1 pkt 1, terminie określonym tym przepisie,
     - **d)** nie wykonał obowiązku określonego art. 32 ust. 1,
-    - **e)** nie wykonał obowiązku określonego art. 32 ust. 2 pkt 6 wysokości do dziesięciokrotności przeciętnego wynagrodzenia miesięcznego gospodarce narodowej za rok poprzedzający, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” na podstawie przepisów o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, jednak nie większej niż 10 % obrotu osiągniętego roku obrotowym poprzedzającym rok nałożenia kary, ustalonego według stanu na dzień wydania decyzji, o których mowa art. 56 ust. 1 albo art. 65 ust. 1.
+    - **e)** nie wykonał obowiązku określonego art. 32 ust. 2 pkt 6 – wysokości do dziesięciokrotności przeciętnego wynagrodzenia miesięcznego gospodarce narodowej za rok poprzedzający, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” na podstawie przepisów o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, jednak nie większej niż 10 % obrotu osiągniętego roku obrotowym poprzedzającym rok nałożenia kary, ustalonego według stanu na dzień wydania decyzji, o których mowa art. 56 ust. 1 albo art. 65 ust. 1.
+
+2. Karze pieniężnej podlega:
 
 - **1)** importer, który:
     - **a)** wprowadza do obrotu produkty, o których wie lub co do których powziął uzasadnioną wątpliwość, że nie spełniają one wymagań dostępności, i nie poinformował o tym producenta oraz właściwych organów nadzoru rynku,
-    - **b)** nie wykonał obowiązku, o którym mowa art. 29 pkt 10,
     - **c)** nie przekazał Prezesowi Zarządu PFRON lub właściwemu organowi nadzoru rynku informacji lub dokumentacji, o których mowa art. 29 pkt 12, terminie określonym żądaniu, o którym mowa tym przepisie,
     - **d)** nie przedstawił dowodów, o których mowa art. 52 ust. 1 pkt 1, terminie określonym tym przepisie,
 
@@ -759,7 +748,7 @@ o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług
     - **a)** udostępnia na rynku produkty, co do których powziął uzasadnioną wątpliwość, że nie spełniają one wymagań dostępności, i nie poinformował o tym producenta, importera oraz właściwych organów nadzoru rynku,
     - **b)** nie wykonał obowiązku, o którym mowa art. 30 pkt 6,
     - **c)** nie przekazał Prezesowi Zarządu PFRON lub właściwemu organowi nadzoru rynku informacji lub dokumentacji, o których mowa art. 30 pkt 7, terminie określonym żądaniu, o którym mowa tym przepisie,
-    - **d)** nie przedstawił dowodów, o których mowa art. 52 ust. 1 pkt 1, terminie określonym tym przepisie wysokości do dziesięciokrotności przeciętnego wynagrodzenia miesięcznego gospodarce narodowej za rok poprzedzający, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” na podstawie przepisów o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, jednak nie większej niż 10 % obrotu osiągniętego roku obrotowym poprzedzającym rok nałożenia kary, ustalonego według stanu na dzień wydania decyzji, o których mowa art. 56 ust. 1 albo art. 65 ust. 1.
+    - **d)** nie przedstawił dowodów, o których mowa art. 52 ust. 1 pkt 1, terminie określonym tym przepisie – wysokości do dziesięciokrotności przeciętnego wynagrodzenia miesięcznego gospodarce narodowej za rok poprzedzający, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” na podstawie przepisów o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, jednak nie większej niż 10 % obrotu osiągniętego roku obrotowym poprzedzającym rok nałożenia kary, ustalonego według stanu na dzień wydania decyzji, o których mowa art. 56 ust. 1 albo art. 65 ust. 1.
 
 3. Kary pieniężne, o których mowa ust. 1 i 2, nakładają Prezes Zarządu PFRON lub właściwy organ nadzoru rynku, drodze decyzji, o których mowa art. 56 ust. 1 albo art. 65 ust. 1.
 
@@ -777,11 +766,11 @@ o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług
 
 **Art. 75.** W ustawie z dnia 21 grudnia 2000 r. o żegludze śródlądowej (Dz. U. z 2024 r. poz. 395) art. 9 po ust. 2g dodaje się ust. 2ga brzmieniu: „2ga. Dyrektor Urzędu Żeglugi Śródlądowej Bydgoszczy wykonuje zadania określone ustawie z dnia 26 kwietnia 2024 r. o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług przez podmioty gospodarcze (Dz. U. poz. 731) dotyczące usług towarzyszących usługom wodnego transportu pasażerskiego zakresie transportu wodnego śródlądowego.”.
 
-**Art. 76.** W ustawie z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2024 r. poz. 728) po art. 54f dodaje się art. 54g brzmieniu: „Art. 54g. Wojewódzcy inspektorzy transportu drogowego wykonują zadania określone ustawie z dnia 26 kwietnia 2024 r. o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług przez podmioty gospodarcze (Dz. U. poz. 731).”. ust. 2f brzmieniu: „2f. Prezes Urzędu wykonuje zadania określone ustawie z dnia 26 kwietnia 2024 r. o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług przez podmioty gospodarcze (Dz. U. poz. 731).”.
+**Art. 76.** W ustawie z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2024 r. poz. 728) po art. 54f dodaje się art. 54g brzmieniu: „Art. 54g. Wojewódzcy inspektorzy transportu drogowego wykonują zadania określone ustawie z dnia 26 kwietnia 2024 r. o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług przez podmioty gospodarcze (Dz. U. poz. 731).”.
 
-**Art. 78.** W ustawie z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2024 r. poz. 697) art. 10 po ust. 3a dodaje się ust. 3b brzmieniu: „3b. Prezes UTK wykonuje zadania określone ustawie z dnia 26 kwietnia 2024 r. o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług przez podmioty gospodarcze (Dz. U. poz. 731).”.
+**Art. 77.** W ustawie z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2023 r. poz. 2110) art. 21 po ust. 2e dodaje się ust. 2f brzmieniu: „2f. Prezes Urzędu wykonuje zadania określone ustawie z dnia 26 kwietnia 2024 r. o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług przez podmioty gospodarcze (Dz. U. poz. 731).”. „3b. Prezes UTK wykonuje zadania określone ustawie z dnia 26 kwietnia 2024 r. o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług przez podmioty gospodarcze (Dz. U. poz. 731).”.
 
-**Art. 79.** W ustawie z dnia 16 lipca 2004 r. Prawo telekomunikacyjne (Dz. U. z 2024 r. poz. 34) art. 192 ust. 1 pkt 2 lit. b tiret piątym średnik zastępuje się przecinkiem i dodaje się tiret szóste brzmieniu: „– z dnia 26 kwietnia 2024 r. o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług przez podmioty gospodarcze (Dz. U. poz. 731);”.
+**Art. 79.** W ustawie z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2024 r. poz. 34) art. 192 ust. 1 pkt 2 lit. b tiret piątym średnik zastępuje się przecinkiem i dodaje się tiret szóste brzmieniu: „– z dnia 26 kwietnia 2024 r. o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług przez podmioty gospodarcze (Dz. U. poz. 731);”.
 
 **Art. 80.** W ustawie z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. z 2024 r. poz. 30) art. 12 ust. 1 pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 brzmieniu: „9) Rzecznikowi Finansowemu, zakresie niezbędnym do realizacji przez niego ustawowych zadań.”.
 
@@ -791,15 +780,9 @@ o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług
 
 **Art. 83.** W ustawie z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami (Dz. U. z 2022 r. poz. 2240) wprowadza się następujące zmiany:
 
-**Art. 84.** Przepisów ustawy nie stosuje się do produktów wprowadzonych do obrotu przed dniem wejścia życie ustawy.
+#### Rozdział 8 Przepisy przejściowe i dostosowujące oraz przepis końcowy
 
-**Art. 85.**
-
-1. Umowy o oferowanie lub świadczenie usług zawarte przed dniem wejścia życie ustawy mogą nadal obowiązywać niezmienionej treści do dnia ich wygaśnięcia, jednak nie dłużej niż do dnia 28 czerwca 2030 r.
-
-2. Usługodawca może do dnia 28 czerwca 2030 r. oferować lub świadczyć usługi przy wykorzystaniu produktów niespełniających wymagań dostępności, które wykorzystywał celu oferowania lub świadczenia usług tego samego rodzaju przed dniem wejścia życie ustawy.
-
-3. Terminale niespełniające wymagań dostępności, wykorzystywane przez usługodawców do oferowania lub świadczenia usług przed dniem wejścia życie ustawy, mogą być wykorzystywane do oferowania lub świadczenia usług tego samego rodzaju do upływu okresu ich ekonomicznej użyteczności, jednak nie dłużej niż przez okres 20 lat od dnia rozpoczęcia ich wykorzystywania.
+**Art. 84.** Przepisów ustawy nie stosuje się do produktów wprowadzonych do obrotu przed dniem wejścia życie ustawy. 2. Usługodawca może do dnia 28 czerwca 2030 r. oferować lub świadczyć usługi przy wykorzystaniu produktów niespełniających wymagań dostępności, które wykorzystywał celu oferowania lub świadczenia usług tego samego rodzaju przed dniem wejścia życie ustawy. 3. Terminale niespełniające wymagań dostępności, wykorzystywane przez usługodawców do oferowania lub świadczenia usług przed dniem wejścia życie ustawy, mogą być wykorzystywane do oferowania lub świadczenia usług tego samego rodzaju do upływu okresu ich ekonomicznej użyteczności, jednak nie dłużej niż przez okres 20 lat od dnia rozpoczęcia ich wykorzystywania.
 
 **Art. 86.** Przepisów ustawy nie stosuje się do stron internetowych i aplikacji mobilnych odniesieniu do treści:
 

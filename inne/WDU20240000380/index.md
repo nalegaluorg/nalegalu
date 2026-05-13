@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 14 marca 2024 OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ dnia 11 marca 2024 sprawie ogłoszenia jednolitego tekstu o uprawnieniach do ulgowych przejazdów środkami publicznego transportu zbiorowego
+# 1. Na podstawie art. 16 ust. 1 zdanie pierwsze dnia 20 lipca 2000 o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. 2019 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst dnia 20 czerwca 1992 o uprawnieniach do ulgowych przejazdów środkami publicznego transportu zbiorowego (Dz. U. 2018 295), uwzględnieniem zmian wprowadzonych:
 
 | Pole | Wartość |
 |---|---|
@@ -24,7 +24,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000380) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/380/text.pdf) |
 
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze dnia 20 lipca 2000 o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. 2019 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst dnia 20 czerwca 1992 o uprawnieniach do ulgowych przejazdów środkami publicznego transportu zbiorowego (Dz. U. 2018 295), uwzględnieniem zmian wprowadzonych:
 1) ustawą dnia 16 czerwca 2023 o zmianie o publicznym transporcie zbiorowym oraz niektórych innych ustaw (Dz. U. 1720),
 2) ustawą dnia 13 lipca 2023 o zmianie o uprawnieniach do ulgowych przejazdów środkami publicznego transportu zbiorowego (Dz. U. 1575) oraz zmian wynikających przepisów ogłoszonych przed dniem 29 lutego 2024
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity nie obejmuje:

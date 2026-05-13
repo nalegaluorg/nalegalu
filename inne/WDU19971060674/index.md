@@ -10,7 +10,9 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# stwa."
+# o Międzynarodowym Instytucie Biologii Molekularnej Komórkowej Warszawie Tworzy się Międzynarodowy Biologii Molekularnej Komórkowej, zwany dalej „Instytutem”.
+
+*USTAWA z dnia 26 czerwca 1997 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,65 +26,71 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971060674) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/674/text.pdf) |
 
-18. W ustawie dnia 30 sierpnia 1996 r. ko mercjalizacji prywatyzacji wych (Dz. U. 118, poz. 561 156, poz. 775 oraz 1997 r. 32, poz. 184 98, poz. 603) art. 56 otrzy muje brzmienie: "Art. 56. W ze wyniku komercjalizacji co najmniej 10% wszystMinistrowi Skarbu dokumenty dokonania komercjalizacji.
-20. Ustawa wchodzi po 14 dni od dnia art. 17, który wchodzi dniem ogloszenia od dnia 1 stycznia 1998 r.
-Prezydent Rzeczypospolitej Polskiej: A.
-USTAWA dnia 26 czerwca 1997 r.
-Instytucie Biologii Molekularnej Komórkowej Warszawie.
-1. 1. Tworzy Instytut Bio logii Molekularnej Komórkowej, zwany dalej "Instytu tem".
-2. Instytut jest posiada
-3. Instytut podstawie ustawy, Porozumie nia Rzeczypospolitej Polskiej a Organi Narodów Zjednoczonych Spraw Na uki Kultury sprawie utworzenia funkcjonowania Biologii Molekularnej Komórkowej Warszawie, dnia 26 maja 1995 r. (Dz. U. 1996 r. 109, poz. 521), zwanego dalej "Porozumieniem", oraz podstawie prawa polskiego.
-4. jest Warszawa.
-2. 1. Do szczególno1) przyczynianie poprzez badania szkolenie, wiedzy biologii molekularnej komórko wej, jak dziedzinach pokrewnych, ze stymulowanie rezultatów za praktycznych, popularyzowanie naukowych.
-2. Instytut realizuje zadania ust. 1 przez: prowadzenie eksperymentalnych teoretycznych, kadry naukowej, prowadzenie kursów specjalistycznych, uczestniczenie Sieci Biologii Moleku larnej Komórkowej UNESCO charakterze ewen tualnego koordynatora regionalnych, tworzenie forum dla kontaktów wymiany informa cji naukowcami krajów,
-6) instytucjami medycznymi celu wykorzystania praktyce wyników naukowych, '
-2) funduszy przekazanych przez UNESCO,
-3) tytulu udzialu innych instytucji pracach podstawie zawartych
-4) realizacji naukowych prac badawcza-roz wojowych finansowanych lub zlecanych przez in stytucje oraz podmioty gospodarcze krajowe za graniczne,
-5) prowadzanej przez Instytut gospodar czej,
+2. jest państwową jednostką organizacyjną posiada osobowość prawną.
+3. działa na podstawie ustawy, Porozumienia między Rządem Rzeczypospolitej Polskiej a Organizacją Narodów Zjednoczonych do Spraw Oświaty, Nauki Kultury sprawie utworzenia funkcjonowania Międzynarodowego Biologii Molekularnej Komórkowej Warszawie, sporządzonego Paryżu dnia 26 maja 1995 r. (Dz. U. z 1996 r. Nr 109, poz. 521), zwanego dalej „Porozumieniem”, na podstawie prawa polskiego.
+4. Siedzibą jest Warszawa.
+2. Do zadań należy szczególności:
+1) przyczynianie się, poprzez badania szkolenie, do postępu wiedzy biologii molekularnej komórkowej, jak również dziedzinach pokrewnych, ze szczególnym uwzględnieniem problemów medycznych, weterynaryjnych środowiska naturalnego;
+2) wspieranie utrzymywanie międzynarodowej współpracy naukowej, wymiany kontaktów;
+3) stymulowanie wdrażania rezultatów badań do zastosowań praktycznych;
+4) popularyzowanie osiągnięć naukowych.
+2. realizuje zadania określone ust. 1 przez:
+1) prowadzenie badań eksperymentalnych teoretycznych;
+2) kształcenie kadry naukowej;
+3) prowadzenie kursów specjalistycznych;
+wykorzystania praktyce wyników badań naukowych;
+7) rozpowszechnianie wiedzy biologicznej medycznej, przede wszystkim poprzez publikacje organizowanie spotkań naukowych.
+3. Polska Akademia Nauk, stosownie do ustaleń zawartych art. III Porozumienia, zapewni Instytutowi pomieszczenia podstawowe wyposażenie niezbędne do rozpoczęcia jego działalności.
+2. Udostępnienie pomieszczeń, o których mowa ust. 1, następuje na podstawie umowy użyczenia.
+4. uzyskuje przychody z:
+1) dotacji ujmowanej budżecie państwa części Polska Akademia Nauk;
+2) funduszy (wkładów) przekazanych przez UNESCO;
+3) wpłat z tytułu udziału innych instytucji pracach na podstawie zawartych porozumień;
+4) realizacji badań naukowych prac badawczo-rozwojowych finansowanych lub zlecanych przez instytucje podmioty gospodarcze krajowe zagraniczne;
+5) prowadzonej przez gospodarczej;
 6) darowizn, zapisów subsydiów.
-2. Dotacja której mowa ust. 1 pkt 1, jest przeznaczana dofinansowanie eksplo atacji budynku oraz kosztów utrzymania administracji technicznej Instytutu.
-5. Organami
-1) Komitet Doradczy,
+2. Dotacja budżetowa, o której mowa ust. 1 pkt 1, jest przeznaczana na dofinansowanie bieżącej eksploatacji budynku stanowiącego siedzibę kosztów utrzymania administracji obsługi technicznej Instytutu.
+5. Organami są:
+1) Międzynarodowy Komitet Doradczy;
 2) Dyrektor.
-6. 1. W Komitetu Do radczego wchodzi nie mniej 10 wanych przez Prezesa Polskiej Akademii Nauk, po konsultacji Dyrektorem General nym UNESCO, wybitnych specjalistów za kresu Instytutu.
-2. Do Komitetu Dorad czego
-1) ogólnych wytycznych Instytutu,
-2) rozpatrywanie projektów opinii spra wach: programu planu finansowego oraz jego struktury trybu
-3) rozpatrywanie raportów Dyrektora te mat Instytutu,
-4) ustalanie regulaminu przeprowadzania konkursów stanowiska wymienione wart. 13 pkt 1-3, ralnym UNESCO Komitetem radczym.
-2. Do Dyrektora
-1) reprezentowanie oraz danie jego imieniu woli,
-2) przygotowywanie projektu programu planu finansowego Instytutu,
-3) ustalanie realizowanie programu planu finansowego ramach ogólnych wytycznych przez wy Komitet Doradczy,
-4) prowadzenie polityki kadrowej.
-5) informowanie Prezesa Polskiej Akademii Nauk rektora Generalnego UNESCO zawieranych rozumieniach jednostkami.
-3. Dyrektor organy radcze, tryb zakres ich
-8. tryb stytutu jego statut, nadany przez Prezesa skiej Akademii Nauk.
-9. 1. Nadzór nad wuje Prezes Polskiej Akademii Nauk.
-2. W ramach nadzoru Prezes Polskiej Akademii uk dokonuje kontroli oceny pracy Dyrektora Instytutu.
-3. Prezes Polskiej Akademii Nauk, razie dzenia, decyzja Dyrektora jest sprzeczna prawem, wstrzymuje jej wykonanie oraz je Dyrektora jej zmiany lub uchylenia.
-10. 1. Instytut gospodaruje mienia oraz prowadzi ramach posiadanych
-2. gospodarki jest plan finanso wy, ustalony przez Dyrektora Instytutu, po zaopiniowa niu przez Komitet Doradczy.
-3) asystenta,
-4) pracownika administracyjnego, technicznego ob
-14. l. Na stanowisku profesora zatrud co najmniej naukowy dokto ra.
-2. Na stanowisku badacza która posiada naukowy doktora.
-3. Na stanowisku asystenta oso która posiada co najmniej zawodowy magi stra lub zawodowy.
-4. Kandydatów stanowiska, których mowa ust. 1-3, drodze konkursu.
-15. Na wniosek profesora Instytut zatrudnia je go stanowisku, którym mowa wart. 13 pkt 2 lub 3, bez kan dydata drodze konkursu.
-16. 1. Pracownicy, których mowa wart. 13 pkt 1-3, zatrudniani podstawie umowy czas stytutu ustala jego Dyrektor, po opinii Komitetu Doradczego.
-2. Wynagrodzenie Dyrektora ustala Pre zes Polskiej Akademii Nauk, po konsultacji Dyrekto rem Generalnym UNESCO.
-3. Dyrektor ustala wykaz stanowisk pra cowników technicznych, administracyjnych
-19. W sprawach nie uregulowanych pracowników stosuje przepisy Kodeksu pracy.
-20. W sprawach nie uregulowanych stosuje odpowiednio przepisy placówek naukowych Polskiej Akademii Na uk.
-21. W wypadku utraty mocy Po rozumienia, Prezes Polskiej Akademii Nauk li Instytutu, warunki tryb przeprowadzenia tej likwidacji.
-22. Ustawa wchodzi po 14 dni od dnia Prezydent Rzeczypospolitej Polskiej: A.
-675
-USTAWA dnia 30 lipca 1997 r.
-przedsi,biorstwie publicznej "Poczta Polska".
-1 Przepisy ogólne
-1. 1.
-publicznej "Poczta Polska", zwane dalej jest pro zaspokajania potrzeb organów wych, terytorialnego oraz gospodarki rodowej.
-2. Poczta Polska prowadzi której mo wa ust. 1,
+6. W skład Międzynarodowego Komitetu Doradczego wchodzi nie mniej niż 10 członków powoływanych na czteroletnią kadencję przez Prezesa Polskiej Akademii Nauk, po konsultacji z Dyrektorem Generalnym UNESCO, spośród wybitnych specjalistów z zakresu działania Instytutu.
+2. Do zadań Międzynarodowego Komitetu Doradczego należy:
+1) formułowanie ogólnych wytycznych dotyczących Instytutu;
+5) ustalanie zasad trybu dokonywania oceny naukowej pracowników wymienionych art. 13 pkt 1–3;
+6) realizowanie innych zadań przewidzianych ustawie statucie Instytutu.
+3. Organizację sposób działania Międzynarodowego Komitetu Doradczego określa regulamin uchwalony przez Komitet.
+7. powołuje odwołuje, spośród osób o uznanych kompetencjach, posiadających kwalifikacje wymagane przy obejmowaniu najwyższych stanowisk akademickich, Prezes Polskiej Akademii Nauk, po konsultacjach z Dyrektorem Generalnym UNESCO Międzynarodowym Komitetem Doradczym.
+2. Do zadań obowiązków należy szczególności:
+1) zarządzanie reprezentowanie składanie jego imieniu oświadczeń woli;
+2) przygotowywanie projektu programu planu finansowego Instytutu;
+3) ustalanie realizowanie programu planu finansowego ramach ogólnych wytycznych formułowanych przez Międzynarodowy Komitet Doradczy;
+4) prowadzenie polityki kadrowej;
+5) informowanie Prezesa Polskiej Akademii Nauk Generalnego UNESCO o zawieranych porozumieniach dotyczących współpracy z innymi jednostkami.
+3. Dyrektor może powoływać organy doradcze, ustalając tryb zakres ich działania.
+8. Wewnętrzną organizację tryb działania określa jego statut, nadany przez Prezesa Polskiej Akademii Nauk.
+9. Nadzór nad działalnością sprawuje Prezes Polskiej Akademii Nauk.
+2. W ramach nadzoru Prezes Polskiej Akademii Nauk dokonuje kontroli oceny pracy Instytutu.
+2. Podstawą gospodarki jest plan finansowy, ustalony przez Instytutu, po zaopiniowaniu przez Międzynarodowy Komitet Doradczy.
+11. odpowiada za swoje zobowiązania.
+2. nie odpowiada za zobowiązania Skarbu Państwa ani innych osób prawnych. Skarb Państwa nie odpowiada za zobowiązania Instytutu.
+12. ustala samodzielnie wysokość środków na wynagrodzenia ramach posiadanych środków finansowych.
+13. zatrudnia pracowników na stanowiskach:
+1) profesora;
+2) badacza;
+3) asystenta;
+4) pracownika administracyjnego, technicznego obsługi.
+14. Na stanowisku profesora można zatrudnić osobę mającą co najmniej stopień naukowy doktora.
+2. Na stanowisku badacza można zatrudnić osobę, która posiada stopień naukowy doktora.
+3. Na stanowisku asystenta można zatrudnić osobę, która posiada co najmniej tytuł zawodowy magistra lub równorzędny tytuł zawodowy.
+4. Kandydatów na stanowiska, o których mowa ust. 1–3, wyłania się drodze konkursu.
+5. Wykonywanie obowiązków pracownika zatrudnionego na stanowiskach, o których mowa art. 13 pkt 1–3, stanowi działalność twórczą o indywidualnym charakterze, o której mowa art. 1 ust. 1 ustawy z dnia 4 lutego 1994 r. o prawie autorskim prawach pokrewnych (Dz. U. z 2019 r. poz. 1231 z 2020 r. poz. 288).
+15. Na wniosek profesora zatrudnia jego współpracownika na stanowisku, o którym mowa art. 13 pkt 2 lub 3, bez konieczności wyłonienia kandydata drodze konkursu.
+których mowa art. 13 pkt 1–4, stosuje się odpowiednio przepisy dotyczące cudzoziemców zatrudnionych szkołach wyższych.
+18. Zasady wynagradzania pracowników ustala jego Dyrektor, po zasięgnięciu opinii Międzynarodowego Komitetu Doradczego.
+2. Wynagrodzenie ustala Prezes Polskiej Akademii Nauk, po konsultacji z Dyrektorem Generalnym UNESCO.
+3. Dyrektor ustala wykaz stanowisk pracowników technicznych, administracyjnych obsługi.
+19. W sprawach nieuregulowanych niniejszą ustawą do pracowników stosuje się przepisy Kodeksu pracy.
+20. W sprawach nieuregulowanych niniejszą ustawą do stosuje się odpowiednio przepisy dotyczące placówek naukowych Polskiej Akademii Nauk.
+21. W wypadku utraty mocy obowiązującej Porozumienia, Prezes Polskiej Akademii Nauk zarządzi likwidację Instytutu, określając jednocześnie warunki tryb przeprowadzenia tej likwidacji.
+22. Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia .
 

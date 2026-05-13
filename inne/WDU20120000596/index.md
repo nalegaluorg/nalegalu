@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# Warszawa, dnia 29 maja 2012
+# Ustawa z dnia 30 marca 2012 r. o uchyleniu ustawy o narodowych funduszach inwestycyjnych i ich prywatyzacji oraz o zmianie niektórych innych ustaw
+
+*USTAWA 30 marca 2012 uchyleniu ustawy narodowych funduszach inwestycyjnych i ich prywatyzacji zmianie niektórych innych ustaw*
 
 | Pole | Wartość |
 |---|---|
@@ -24,31 +26,33 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000596) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/596/text.pdf) |
 
-USTAWA dnia 30 marca 2012 uchyleniu ustawy narodowych funduszach inwestycyjnych i ich prywatyzacji oraz zmianie niektórych innych ustaw
+**Art. 1.** Traci moc ustawa 30 kwietnia 1993 narodowych funduszach inwestycyjnych i ich prywatyzacji (Dz. U. 44, 202, ).
 
-**Art. 1.** Traci moc ustawa dnia 30 kwietnia 1993 narodowych funduszach inwestycyjnych i ich prywatyzacji (Dz. 44, 202, późn. zm. ).
+**Art. 2.** W ustawie 26 lipca 1991 podatku dochodowym od osób fizycznych (Dz. U. 2012 361 i 362) art. 21 ust. 1 uchyla pkt 42.
 
-**Art. 2.** W ustawie dnia 26 lipca 1991 podatku dochodowym od osób fizycznych (Dz. 2012 361 i 362) 21 uchyla się 42.
+**Art. 3.** W ustawie 15 lutego 1992 podatku dochodowym od osób prawnych (Dz. U. 2011 74, 397, ) art. 17 ust. 1 uchyla pkt 20.
 
-**Art. 3.** W ustawie dnia 15 lutego 1992 podatku dochodowym od osób prawnych (Dz. 2011 74, 397, późn. zm. ) 17 uchyla się 20.
+**Art. 4.** W ustawie 12 października 1994 zasadach przekazywania zakładowych budynków mieszkalnych przez przedsiębiorstwa państwowe (Dz. U. 119, 567, ) art. 1 ust. 2 uchyla pkt 1.
 
-**Art. 4.** W ustawie dnia 12 października 1994 zasadach przekazywania zakładowych budynków mieszkalnych przez przedsiębiorstwa państwowe (Dz. 119, 567, późn. zm. ) 2 uchyla się 1.
+**Art. 6.** W ustawie 1 grudnia 1995 wpłatach zysku przez jednoosobowe spółki Skarbu Państwa (Dz. U. 154, 792 2006 183, 1353) wprowadza następujące zmiany:
 
-**Art. 5.** W ustawie dnia 14 grudnia 1994 Bankowym Funduszu Gwarancyjnym (Dz. 2009 84, 711, późn. zm. ) 2 uchyla się lit. e.
+**Art. 7.** W ustawie 28 sierpnia 1997 organizacji i funkcjonowaniu funduszy emerytalnych (Dz. U. 2010 34, 189, ) wprowadza następujące zmiany:
 
-**Art. 6.** W ustawie dnia grudnia 1995 wpłatach zysku przez jednoosobowe spółki Skarbu Państwa (Dz. 154, 792 oraz 2006 183, 1353) wprowadza się następujące zmiany:
+**Art. 8.** W ustawie 4 września 1997 działach administracji rządowej (Dz. U. 2007 65, 437, ) art. 25 ust. 1 otrzymuje brzmienie: „1. Dział Skarb Państwa obejmuje sprawy dotyczące gospodarowania mieniem Skarbu Państwa, tym wykonywania praw majątkowych i osobistych przysługujących Skarbowi Państwa, komercjalizacji i prywatyzacji, szczególności przedsiębiorstw państwowych, jak również ochrony interesów Skarbu Państwa – wyjątkiem spraw, które na mocy odrębnych przepisów przypisane są innym działom.”.
 
-**Art. 7.** W ustawie dnia 28 sierpnia 1997 organizacji i funkcjonowaniu funduszy emerytalnych (Dz. 2010 34, 189, późn. zm. ) wprowadza się następujące zmiany:
+**Art. 10.** W ustawie 22 maja 2003 działalności ubezpieczeniowej (Dz. U. 2010 11, 66, ) wprowadza następujące zmiany:
 
-**Art. 8.** W ustawie dnia 4 września 1997 działach administracji rządowej (Dz. 2007 65, 437, późn. zm. ) 25 otrzymuje brzmienie: „1. Dział Skarb Państwa obejmuje sprawy dotyczące gospodarowania mieniem Skarbu Państwa, tym wykonywania praw majątkowych i osobistych przysługujących Skarbowi Państwa, komercjalizacji i prywatyzacji, szczególności przedsiębiorstw państwowych, jak również ochrony interesów Skarbu Państwa wyjątkiem spraw, które mocy odrębnych przepisów przypisane są innym działom.”.
+**Art. 11.** W ustawie 27 maja 2004 funduszach inwestycyjnych (Dz. U. 146, 1546, ) art. 14 ust. 4 otrzymuje brzmienie: „4. Oznaczenia „fundusz inwestycyjny”, skrótu tego oznaczenia lub skrótów, których mowa ust. 6, ma prawo i obowiązek używać nazwie, reklamie lub informacji reklamowej lub do określenia wykonywanej przez siebie działalności gospodarczej jedynie fundusz inwestycyjny utworzony zgodnie ustawą.”.
 
-**Art. 9.** W ustawie dnia 15 września 2000 Kodeks handlowych (Dz. 94, 1037, późn. zm. ) wprowadza się następujące zmiany:
+**Art. 12.** W terminie sześciu miesięcy od wejścia życie niniejszej ustawy, spółki utworzone na podstawie art. 3 ust. 1 ustawy wymienionej art. 1 dokonają zmiany firmy, ten sposób, że nowa firma nie będzie zawierała oznaczenia „Narodowy Fundusz Inwestycyjny” lub skrótu „NFI”, zgłoszą dokonanie tej zmiany do właściwego sądu rejestrowego. 31 grudnia 2013 dochodów ze sprzedaży akcji spółek utworzonych na podstawie art. 3 ust. 1 ustawy wymienionej art. 1, nabytych przed dniem wejścia życie niniejszej ustawy.
 
-**Art. 10.** W ustawie dnia 22 maja 2003 działalności ubezpieczeniowej (Dz. 2010 11, 66, późn. zm. ) wprowadza się następujące zmiany:
+**Art. 14.**
 
-**Art. 11.** W ustawie dnia 27 maja 2004 funduszach inwestycyjnych (Dz. 146, 1546, późn. zm. ) 14 4 otrzymuje brzmienie: „4. Oznaczenia „fundusz inwestycyjny”, skrótu tego oznaczenia lub skrótów, których mowa 6, ma prawo i obowiązek używać nazwie, reklamie lub informacji reklamowej lub określenia wykonywanej przez siebie działalności gospodarczej jedynie fundusz inwestycyjny utworzony zgodnie ustawą.”.
+1. Zwolnienie, którym mowa art. 17 ust. 1 pkt 20 ustawy wymienionej art. 3, brzmieniu obowiązującym dniu 31 grudnia 2012 r., stosuje do uzyskanych do 31 grudnia 2013 dochodów podatników, utworzonych na podstawie art. 3 ust. 1 ustawy wymienionej art. 1, ze sprzedaży udziałów lub akcji spółek mających siedzibę na terytorium Rzeczypospolitej Polskiej, nabytych przed dniem wejścia życie niniejszej ustawy.
 
-**Art. 12.** W terminie sześciu miesięcy od dnia wejścia życie niniejszej ustawy, spółki utworzone podstawie 3 ustawy wymienionej dokonają zmiany firmy, ten sposób, że nowa firma nie będzie zawierała oznaczenia „Narodowy Fundusz Inwestycyjny” lub skrótu „NFI”, oraz zgłoszą dokonanie tej zmiany właściwego sądu rejestrowego. rium Rzeczypospolitej Polskiej, nabytych przed dniem wejścia życie niniejszej ustawy. 2. Zwolnienie, którym mowa 17 20 ustawy wymienionej 3, brzmieniu obowiązującym dniu 31 grudnia 2012 r., stosuje się dochodów podatników, utworzonych podstawie 3 ustawy wymienionej 1, pochodzących dywidend oraz innych przychodów tytułu udziału zyskach osób prawnych mających siedzibę terytorium Rzeczypospolitej Polskiej, których prawo zostało ustalone przed dniem wejścia życie niniejszej ustawy. 3. W przypadku podatników, których mowa 1, u których rok podatkowy jest inny niż rok kalendarzowy, okres wskazany ulega przedłużeniu końca przyjętego przez nich roku podatkowego rozpoczętego przed dniem stycznia 2014
+2. Zwolnienie, którym mowa art. 17 ust. 1 pkt 20 ustawy wymienionej art. 3, brzmieniu obowiązującym dniu 31 grudnia 2012 r., stosuje do dochodów podatników, utworzonych na podstawie art. 3 ust. 1 ustawy wymienionej art. 1, pochodzących dywidend innych przychodów tytułu udziału zyskach osób prawnych mających siedzibę na terytorium Rzeczypospolitej Polskiej, do których prawo zostało ustalone przed dniem wejścia życie niniejszej ustawy.
 
-**Art. 15.** Ustawa wchodzi życie dniem stycznia 2013 Prezydent Rzeczypospolitej Polskiej: B. Komorowski
+3. W przypadku podatników, których mowa ust. 1, u których rok podatkowy jest inny niż rok kalendarzowy, okres wskazany ust. 1 ulega przedłużeniu do końca przyjętego przez nich roku podatkowego rozpoczętego przed dniem 1 stycznia 2014
+
+**Art. 15.** Ustawa wchodzi życie dniem 1 stycznia 2013
 

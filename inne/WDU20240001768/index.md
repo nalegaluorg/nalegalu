@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 3 grudnia 2024 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy o Ogólnopolskiej Sieci Edukacyjnej
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 27 listopada 2024 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2024-12-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001768) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1768/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 27 listopada 2024 r.
-sprawie ogłoszenia jednolitego tekstu ustawy o Ogólnopolskiej Sieci Edukacyjnej
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku niniejszego obwieszczenia jednolity tekst ustawy z dnia 27 października 2017 r. o Ogólnopolskiej Sieci Edukacyjnej (Dz. U. z 2022 r. poz. 2454), z uwzględnieniem zmian wprowadzonych ustawą z dnia 12 lipca 2024 r. Przepisy wprowadzające ustawę Prawo komunikacji elektronicznej (Dz. U. poz. 1222) oraz zmian wynikających z przepisów ogłoszonych przed dniem 27 listopada 2024 r.
 2. Podany załączniku niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 124 ustawy z dnia 12 lipca 2024 r. Przepisy wprowadzające ustawę Prawo komunikacji elektronicznej (Dz. U. poz. 1222), który stanowi: „Art. 124. Ustawa wchodzi życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem:
 1) art. 1, art. 39 pkt 11 lit. b zakresie art. 16a ust. 4 pkt 2c i 2d, art. 46 pkt 5, art. 52 pkt 1, art. 63, art. 68 ust. 2, art. 80 ust. 3 i 5–8 oraz art. 120, które wchodzą życie z dniem następującym po dniu ogłoszenia;
@@ -58,7 +58,7 @@ o Ogólnopolskiej Sieci Edukacyjnej
 1. W przypadku gdy warunki techniczne istniejącej infrastruktury telekomunikacyjnej nie pozwalają na świadczenie usługi spełniającej parametry, o których mowa art. 5 pkt 2, minister właściwy spraw informatyzacji, po zasięgnięciu opinii Prezesa Urzędu Komunikacji Elektronicznej, na wniosek operatora OSE, zawierający:
 
 - **1)** uzasadnienie braku możliwości świadczenia usługi spełniającej parametry, o których mowa art. 5 pkt 2, oraz
-- **2)** wskazanie maksymalnych parametrów usługi, której świadczenie jest możliwe może zezwolić na świadczenie usługi niespełniającej parametrów określonych art. 5 pkt 2 na czas określony, nie dłuższy niż 12 miesięcy. ratora OSE, przypadku gdy została zawarta umowa, o której mowa art. 7 ust. 4, ale z przyczyn niezależnych od operatora nie ma on możliwości świadczenia szkole usługi, o której mowa art. 5 pkt 2. Usługa ta jest finansowana dnia rozpoczęcia świadczenia przez operatora usługi, o której mowa art. 5 pkt 2, chyba że szkoła tego dnia rozwiązała umowę o świadczenie usług przez operatora OSE.
+- **2)** wskazanie maksymalnych parametrów usługi, której świadczenie jest możliwe może zezwolić na świadczenie usługi niespełniającej parametrów określonych art. 5 pkt 2 na czas określony, nie dłuższy niż 12 miesięcy. tora nie ma on możliwości świadczenia szkole usługi, o której mowa art. 5 pkt 2. Usługa ta jest finansowana dnia rozpoczęcia świadczenia przez operatora usługi, o której mowa art. 5 pkt 2, chyba że szkoła tego dnia rozwiązała umowę o świadczenie usług przez operatora OSE.
 
 3. Finansowanie, o którym mowa ust. 2, odpowiada rzeczywistemu kosztowi korzystania przez szkołę z usługi szerokopasmowego dostępu Internetu nieświadczonej przez operatora OSE, jednak nie może przekroczyć kosztów świadczenia szkole przez operatora usługi o symetrycznej przepustowości 100 Mb/s.
 

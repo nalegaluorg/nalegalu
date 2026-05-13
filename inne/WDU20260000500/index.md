@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 10 kwietnia 2026 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy o postępowaniu sprawach dotyczących pomocy publicznej
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 30 marca 2026 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2026-04-13 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000500) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/500/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 30 marca 2026 r.
-sprawie ogłoszenia jednolitego tekstu ustawy o postępowaniu sprawach dotyczących pomocy publicznej
 1. Na podstawie art. 16 ust. 1 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 30 kwietnia 2004 r. o postępowaniu sprawach dotyczących pomocy publicznej (Dz. U. z 2025 r. poz. 468), z uwzględnieniem stanu prawnego na dzień 26 marca 2026 r. oraz zmian wprowadzonych ustawą z dnia 9 października 2025 r. o zmianie ustawy o postępowaniu sprawach dotyczących pomocy publicznej (Dz. U. poz. 1652).
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 2 i art. 3 ustawy z dnia 9 października 2025 r. o zmianie ustawy o postępowaniu sprawach dotyczących pomocy publicznej (Dz. U. poz. 1652), które stanowią: „Art. 2. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 32a ust. 4 i art. 35 pkt 2 ustawy zmienianej art. 1 zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych na podstawie art. 32a ust. 4 i art. 35 pkt 2 ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 6 miesięcy od dnia wejścia życie niniejszej ustawy.
 
@@ -39,7 +39,21 @@ sprawie ogłoszenia jednolitego tekstu ustawy o postępowaniu sprawach dotycząc
 
 **Art. 3.** Zasady dopuszczalności udzielania pomocy publicznej określają przepisy art. 14, art. 42, art. 93 oraz art. 106–109 TFUE.
 
-**Art. 4.** (uchylony) 2. (uchylony) 3. Podmioty udzielające pomocy wydają beneficjentowi pomocy zaświadczenie stwierdzające, że udzielona pomoc publiczna jest pomocą de minimis albo pomocą de minimis rolnictwie lub rybołówstwie. 3a. W przypadku gdy wartość faktycznie udzielonej pomocy de minimis jest inna niż wartość pomocy wskazana wydanym zaświadczeniu, o którym mowa ust. 3, podmiot udzielający pomocy, terminie 14 dni od dnia stwierdzenia tego faktu, wydaje nowe zaświadczenie, o którym mowa ust. 3, którym wskazuje właściwą wartość pomocy oraz stwierdza utratę ważności poprzedniego zaświadczenia. 3b. Przepis ust. 3a stosuje się odpowiednio przypadku pomocy de minimis rolnictwie lub rybołówstwie. 3ba. W przypadku gdy z deklaracji, zeznania rocznego lub innego dokumentu nie wynika wartość pomocy, beneficjent pomocy de minimis przewidzianej akcie normatywnym, o którym mowa art. 6 ust. 2, informuje podmiot udzielający pomocy o skorzystaniu z tej pomocy terminie 7 dni od dnia udzielenia pomocy. 3c. Zaświadczenia, o których mowa ust. 3, są wydawane z urzędu. 4. Rada Ministrów określi, drodze rozporządzenia, formę i treść zaświadczeń, o których mowa ust. 3, oraz terminy lub sposób ich wydawania, biorąc pod uwagę konieczność zapewnienia przejrzystości informacji o pomocy de minimis i pomocy de minimis rolnictwie lub rybołówstwie udzielanej poszczególnym beneficjentom pomocy oraz monitorowania krajowego limitu skumulowanej kwoty pomocy de minimis rolnictwie lub rybołówstwie.
+**Art. 4.** (uchylony)
+
+**Art. 5.**
+
+1. (uchylony)
+
+3. Podmioty udzielające pomocy wydają beneficjentowi pomocy zaświadczenie stwierdzające, że udzielona pomoc publiczna jest pomocą de minimis albo pomocą de minimis rolnictwie lub rybołówstwie.
+
+3a. W przypadku gdy wartość faktycznie udzielonej pomocy de minimis jest inna niż wartość pomocy wskazana wydanym zaświadczeniu, o którym mowa ust. 3, podmiot udzielający pomocy, terminie 14 dni od dnia stwierdzenia tego faktu, wydaje nowe zaświadczenie, o którym mowa ust. 3, którym wskazuje właściwą wartość pomocy oraz stwierdza utratę ważności poprzedniego zaświadczenia.
+
+3b. Przepis ust. 3a stosuje się odpowiednio przypadku pomocy de minimis rolnictwie lub rybołówstwie. 3ba. W przypadku gdy z deklaracji, zeznania rocznego lub innego dokumentu nie wynika wartość pomocy, beneficjent pomocy de minimis przewidzianej akcie normatywnym, o którym mowa art. 6 ust. 2, informuje podmiot udzielający pomocy o skorzystaniu z tej pomocy terminie 7 dni od dnia udzielenia pomocy.
+
+3c. Zaświadczenia, o których mowa ust. 3, są wydawane z urzędu.
+
+4. Rada Ministrów określi, drodze rozporządzenia, formę i treść zaświadczeń, o których mowa ust. 3, oraz terminy lub sposób ich wydawania, biorąc pod uwagę konieczność zapewnienia przejrzystości informacji o pomocy de minimis i pomocy de minimis rolnictwie lub rybołówstwie udzielanej poszczególnym beneficjentom pomocy oraz monitorowania krajowego limitu skumulowanej kwoty pomocy de minimis rolnictwie lub rybołówstwie.
 
 **Art. 6.**
 
@@ -67,7 +81,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy o postępowaniu sprawach dotycząc
 
 2. Organ jednostki samorządu terytorialnego przesyła do Prezesa Urzędu akt prawa miejscowego, o którym mowa ust. 1, terminie 30 dni od dnia wejścia życie tego aktu.
 
-**Art. 9.** Notyfikacji podlega również zmiana, o której mowa art. 4 ust. 1 rozporządzenia Komisji (WE) nr 794/2004 z dnia 21 kwietnia 2004 r. sprawie wykonania rozporządzenia Rady (UE) nr 2015/1589 ustanawiającego szczegółowe zasady stosowania art. 108 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. Urz. UE L 140 z 30.04.2004, str. 1, z późn. zm. Dz. Urz. UE Polskie wydanie specjalne, rozdz. 8, t. 4, str. 3), zatwierdzonego przez Komisję zgodnie z art. 108 TFUE programu pomocowego, pomocy indywidualnej lub pomocy indywidualnej na restrukturyzację. jącym z mapy pomocy regionalnej. 2. Rada Ministrów ustala, drodze rozporządzenia, mapę pomocy regionalnej, określając:
+**Art. 9.** Notyfikacji podlega również zmiana, o której mowa art. 4 ust. 1 rozporządzenia Komisji (WE) nr 794/2004 z dnia 21 kwietnia 2004 r. sprawie wykonania rozporządzenia Rady (UE) nr 2015/1589 ustanawiającego szczegółowe zasady stosowania art. 108 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. Urz. UE L 140 z 30.04.2004, str. 1, z późn. zm. Dz. Urz. UE Polskie wydanie specjalne, rozdz. 8, t. 4, str. 3), zatwierdzonego przez Komisję zgodnie z art. 108 TFUE programu pomocowego, pomocy indywidualnej lub pomocy indywidualnej na restrukturyzację. 2. Rada Ministrów ustala, drodze rozporządzenia, mapę pomocy regionalnej, określając:
 
 **Art. 11.**
 
@@ -325,7 +339,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy o postępowaniu sprawach dotycząc
 
 5. Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej przekazuje sprawozdania, o których mowa ust. 1, za pośrednictwem ministra właściwego do spraw klimatu, a wojewódzkie fundusze ochrony środowiska i gospodarki wodnej za pośrednictwem marszałków województw.
 
-6. Wojewodowie przekazują sprawozdania, o których mowa ust. 1, bezpośrednio ministrowi właściwemu do spraw finansów publicznych. ministra właściwego do spraw rozwoju regionalnego.
+6. Wojewodowie przekazują sprawozdania, o których mowa ust. 1, bezpośrednio ministrowi właściwemu do spraw finansów publicznych.
 
 8. Ochotnicze Hufce Pracy przekazują sprawozdania, o których mowa ust. 1, za pośrednictwem ministra właściwego do spraw pracy.
 
@@ -353,7 +367,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy o postępowaniu sprawach dotycząc
 2. Podmiot ubiegający się o:
 
 - **1)** pomoc de minimis rolnictwie jest zobowiązany do przedstawienia podmiotowi udzielającemu pomocy, wraz z wnioskiem o udzielenie pomocy, wszystkich zaświadczeń o pomocy de minimis rolnictwie lub rybołówstwie oraz pomocy de minimis, jakie otrzymał okresie 3 lat poprzedzających dzień złożenia wniosku o udzielenie pomocy, albo oświadczenia o wielkości tej pomocy otrzymanej tym okresie, albo oświadczenia o nieotrzymaniu takiej pomocy tym okresie;
-- **2)** pomoc de minimis rybołówstwie jest zobowiązany do przedstawienia podmiotowi udzielającemu pomocy, wraz z wnioskiem o udzielenie pomocy, wszystkich zaświadczeń o pomocy de minimis rolnictwie lub rybołówstwie oraz pomocy de minimis, jakie otrzymał roku, którym ubiega się o pomoc, oraz okresie 2 poprzedzających go lat podatkowych, albo oświadczenia o wielkości tej pomocy otrzymanej roku, którym ubiega się o pomoc, oraz okresie 2 poprzedzających go lat podatkowych, albo oświadczenia o nieotrzymaniu takiej pomocy roku, którym ubiega się o pomoc, oraz okresie 2 poprzedzających go lat podatkowych; mocy, wraz z wnioskiem o udzielenie pomocy, informacji niezbędnych do udzielenia pomocy de minimis rolnictwie lub rybołówstwie, dotyczących szczególności wnioskodawcy i prowadzonej przez niego działalności gospodarczej oraz wielkości i przeznaczenia pomocy publicznej otrzymanej odniesieniu do tych samych kosztów kwalifikujących się do objęcia pomocą, na pokrycie których ma być przeznaczona pomoc de minimis rolnictwie lub rybołówstwie.
+- **2)** pomoc de minimis rybołówstwie jest zobowiązany do przedstawienia podmiotowi udzielającemu pomocy, wraz z wnioskiem o udzielenie pomocy, wszystkich zaświadczeń o pomocy de minimis rolnictwie lub rybołówstwie oraz pomocy de minimis, jakie otrzymał roku, którym ubiega się o pomoc, oraz okresie 2 poprzedzających go lat podatkowych, albo oświadczenia o wielkości tej pomocy otrzymanej roku, którym ubiega się o pomoc, oraz okresie 2 poprzedzających go lat podatkowych, albo oświadczenia o nieotrzymaniu takiej pomocy roku, którym ubiega się o pomoc, oraz okresie 2 poprzedzających go lat podatkowych; lub rybołówstwie, dotyczących szczególności wnioskodawcy i prowadzonej przez niego działalności gospodarczej oraz wielkości i przeznaczenia pomocy publicznej otrzymanej odniesieniu do tych samych kosztów kwalifikujących się do objęcia pomocą, na pokrycie których ma być przeznaczona pomoc de minimis rolnictwie lub rybołówstwie.
 
 2a. Rada Ministrów określi, drodze rozporządzenia, zakres informacji, o których mowa ust. 1 pkt 2 oraz ust. 2 pkt 3, oraz wzór formularza informacji, kierując się koniecznością zapewnienia zupełności i przejrzystości przedstawianych informacji.
 
@@ -395,7 +409,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy o postępowaniu sprawach dotycząc
 
 3. (uchylony)
 
-4. (uchylony) przedsiębiorstwa, jak również innych informacji podlegających ochronie na podstawie odrębnych przepisów, o których powzięli wiadomość związku z toczącymi się postępowaniami lub realizacją innych zadań określonych ustawie.
+4. (uchylony) powzięli wiadomość związku z toczącymi się postępowaniami lub realizacją innych zadań określonych ustawie.
 
 2. Przepisu ust. 1 nie stosuje się do informacji powszechnie dostępnych, wskazania podmiotu ubiegającego się o pomoc, beneficjenta pomocy, informacji o wielkości i formie udzielonej mu pomocy oraz o jej przeznaczeniu, podstawie prawnej, a także podmiotach udzielających pomocy.
 

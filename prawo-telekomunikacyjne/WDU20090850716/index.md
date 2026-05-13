@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# telekomunikacyjne (Dz. U. 171, poz. 1800, z póên.
+# o zmianie ustawy - Prawo telekomunikacyjne oraz niektórych innych ustaw
+
+*USTAWA z dnia 24 kwietnia 2009 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,53 +26,47 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090850716) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/716/text.pdf) |
 
-zm. ) wprowadza się następujące zmiany:
-1) wart.2:
-a) po pkt24 dodaje się pkt24a wbrzmieniu: Ń24a) połączenie fizyczne lub logiczne połączenie telekomunikacyjnych urządzeń końcowych pozwalające na przesłanie przekazów telekomunikacyjnych;”,
-b) po pkt27 dodaje się pkt27a wbrzmieniu: Ń27a) przekaz telekomunikacyjny treści rozmów telefonicznych i innych informacji przekazywanych za pomocą sieci telekomunikacyjnych;”, formacji niezbędnych do wykonywania przez Prezesa UKE jego uprawnień i obowiązków, określonych art. 192 ust.1.
-2. ˚ądanie, którym mowa ust. 1, powinno być proporcjonalne do celu, jakiemu ma służyć, oraz zawierać:
-1) wskazanie przedsiębiorcy lub podmiotu, októrym mowa wust.1;
-2) datę;
-3) wskazanie żądanych informacji oraz okresu, którego dotyczą;
-c) pkt48 otrzymuje brzmienie: Ń48) usługa telekomunikacyjna usługę polegającą głównie na przekazywaniu sygnałów wsieci telekomunikacyjnej;”;
-2) art.6 otrzymuje brzmienie: ŃArt. 6. 1. Przedsiębiorca telekomunikacyjny lub podmiot, który uzyskał pozwolenie radiowe, októrym mowa wart.143 ust.1, rezerwację częstotliwości lub zasobów orbitalnych lub przydział numeracji, z wyłączeniem podmiotów, których mowa wart.4, jest obowiązany do prze4) wskazanie celu, jakiemu informacje mają służyć;
-5) wskazanie terminu przekazania informacji adekwatnego do zakresu tego żądania, nie krótszego niż 7dni;
-6) uzasadnienie;
-7) pouczenie ozagrożeniu karą, októrej mowa wart.209 ust.1.
-3. Prezes UKE może zastosować do pozyskania informacji, których mowa wust.1, opracowane przez siebie formularze, dążąc do ujednolicenia i zapewnienia spójności pozyskanych danych.”;
-3) art.8 otrzymuje brzmienie: ŃArt. 8. 1. Prezes UKE zapewnia dostęp do informacji otrzymanych od przedsiębiorców telekomunikacyjnych organom regulacyjnym innych państw członkowskich Unii Europejskiej oraz państw członkowskich Europejskiego Porozumienia oWolnym Handlu (EFTA) stron umowy Europejskim Obszarze Gospodarczym, zwanych dalej Ńpaństwami członkowskimi”, iKomisji Europejskiej, zwyjątkiem przypadków określonych wustawie.
-2. Prezes UKE informuje przedsiębiorcę telekomunikacyjnego udostępnieniu informacji dostarczonej uprzednio przez tego przedsiębiorcę na żądanie Prezesa UKE.”;
-4) wart.10:
-a) ust.1 otrzymuje brzmienie: Ń1. Działalność telekomunikacyjna będąca działalnością gospodarczą jest działalnością regulowaną i podlega wpisowi do rejestru ——————— rze Gospodarczym albo przepisach innej umowy regulującej swobodę świadczenia usług.”,
-b) wust.4 pkt4 otrzymuje brzmienie: Ń4) numer rejestrze przedsiębiorców albo ewidencji działalności gospodarczej lub innym właściwym rejestrze prowadzonym państwie członkowskim lub innym państwie określonym wust.1;”;
-5) wart.15 pkt1 otrzymuje brzmienie: Ń1) określenia rynku właściwego, októrym mowa wart.22 ust.1 pkt1, atakże jego analizy iwyznaczenia przedsiębiorcy telekomunikacyjnego znaczącej pozycji rynkowej lub przedsiębiorców telekomunikacyjnych zajmujących kolektywną pozycję znaczącą, lub uchylenia decyzji wtej sprawie,”;
-6) wart.19 ust.2 i3 otrzymują brzmienie: Ń2. Jeżeli zakresie ustalenia znaczącej pozycji rynkowej oraz zakresie zamiaru zdefiniowania rynku właściwego innego niż rynki określone wzaleceniu Komisji Europejskiej wsprawie właściwych rynków produktów i usług sektorze łączności elektronicznej podlegających regulacji ex ante, zwanym dalej Ńzaleceniem Komisji”, Komisja Europejska stwierdzi, że proponowane rozstrzygnięcie może utrudnić rozwój jednolitego rynku lub mogłoby naruszyć prawo wspólnotowe, Prezes UKE po upływie terminu, którym mowa art. 16 ust. 2, zawiesza postępowanie na okres 2 miesięcy.
-W przypadku otrzymania tym okresie wezwania Komisji Europejskiej do wycofania projektu rozstrzygnięcia, Prezes UKE uwzględnia stanowisko Komisji Europejskiej i umarza postępowanie.
-3. Prezes UKE uwzględnia przy stosowaniu ustawy wnajwiększym możliwie stopniu wytyczne Komisji Europejskiej sprawie analizy rynku iustalania znaczącej pozycji rynkowej oraz zalecenie Komisji ich aktualnym brzmieniu, a przypadku odstąpienia od ich stosowania powiadamia Komisję Europejską, uzasadniając swe stanowisko.”;
-7) wdziale IIrozdział 1 otrzymuje brzmienie: ŃRozdział 1 stopniu zalecenie Komisji iwytyczne, októrych mowa wart.19 ust.3, wzakresie wyrobów i usług telekomunikacyjnych, zwanego dalej Ńrynkiem właściwym”,
-2) ustalenia, czy na rynku właściwym występuje przedsiębiorca telekomunikacyjny znaczącej pozycji rynkowej lub przedsiębiorcy telekomunikacyjni zajmujący kolektywną pozycję znaczącą,
-3) wyznaczenia przedsiębiorcy telekomunikacyjnego znaczącej pozycji rynkowej lub przedsiębiorców telekomunikacyjnych zajmujących kolektywną pozycję znaczącą, przypadku stwierdzenia, że na rynku właściwym nie występuje skuteczna konkurencja oraz nałożenia na tego przedsiębiorcę lub przedsiębiorców telekomunikacyjnych zajmujących kolektywną pozycję znaczącą obowiązków regulacyjnych,
-4) utrzymania, zmiany albo uchylenia obowiązków regulacyjnych nałożonych na przedsiębiorcę telekomunikacyjnego znaczącej pozycji rynkowej lub przedsiębiorców telekomunikacyjnych zajmujących kolektywną pozycję znaczącą przed przeprowadzeniem analizy rynku.
-2. Przez obowiązek regulacyjny rozumie się obowiązek, którym mowa wart.34, art.36—40, art.42, art.44—47 lub art.72 ust.3.
+**Art. 1.** W ustawie z dnia 16 lipca 2004 r. - Prawo telekomunikacyjne (Dz. U. Nr 171, poz. 1800, z późn. zm. ) wprowadza się następujące zmiany:
+
+**Art. 21.** Prezes UKE przeprowadza analizę rynku w zakresie wyrobów i usług telekomunikacyjnych.
+
+**Art. 22.**
+
+1. Po przeprowadzeniu analizy, o której mowa w art. 21, nie rzadziej niż co 2 lata, a także niezwłocznie po wydaniu albo zmianie zalecenia Komisji Prezes UKE przeprowadza postępowanie w celu:
+
+- **1)** określenia rynku właściwego, uwzględniając uwarunkowania krajowe oraz w największym możliwie stopniu zalecenie Komisji i wytyczne, o których mowa w art. 19 ust. 3, w zakresie wyrobów i usług telekomunikacyjnych, zwanego dalej „rynkiem właściwym”,
+- **2)** ustalenia, czy na rynku właściwym występuje przedsiębiorca telekomunikacyjny o znaczącej pozycji rynkowej lub przedsiębiorcy telekomunikacyjni zajmujący kolektywną pozycję znaczącą,
+- **3)** wyznaczenia przedsiębiorcy telekomunikacyjnego o znaczącej pozycji rynkowej lub przedsiębiorców telekomunikacyjnych zajmujących kolektywną pozycję znaczącą, w przypadku stwierdzenia, że na rynku właściwym nie występuje skuteczna konkurencja oraz nałożenia na tego przedsiębiorcę lub przedsiębiorców telekomunikacyjnych zajmujących kolektywną pozycję znaczącą obowiązków regulacyjnych,
+- **4)** utrzymania, zmiany albo uchylenia obowiązków regulacyjnych nałożonych na przedsiębiorcę telekomunikacyjnego o znaczącej pozycji rynkowej lub przedsiębiorców telekomunikacyjnych zajmujących kolektywną pozycję znaczącą przed przeprowadzeniem analizy rynku.
+
+2. Przez obowiązek regulacyjny rozumie się obowiązek, o którym mowa w art. 34, art. 36-40, art. 42, art. 44-47 lub art. 72 ust. 3.
 
 **Art. 23.**
 
-1. Po przeprowadzeniu postępowania, Analiza rynku, postępowanie wsprawie określania rynków właściwych, nakładania, zmiany iuchylania obowiązków regulacyjnych którym mowa art. 22 ust. 1, Prezes UKE, przypadku ustalenia, że na rynku właściwym nie występuje przedsiębiorca telekomunikacyjny znaczącej pozycji rynkowej lub przedsiębiorcy telekomunikacyjni zajmujący kolektywną pozycję znaczącą, wydaje postanowienie, wktórym:
+1. Po przeprowadzeniu postępowania, o którym mowa w art. 22 ust. 1, Prezes UKE, w przypadku ustalenia, że na rynku właściwym nie występuje przedsiębiorca telekomunikacyjny o znaczącej pozycji rynkowej lub przedsiębiorcy telekomunikacyjni zajmujący kolektywną pozycję znaczącą, wydaje postanowienie, w którym:
 
-- **1)** określa rynek właściwy, mając na uwadze poziom rozwoju krajowego rynku produktów iusług telekomunikacyjnych, zgodnie z prawem konkurencji;
-- **2)** stwierdza, że na tym rynku właściwym występuje skuteczna konkurendze poziom rozwoju krajowego rynku braku powiązań organizacyjnych lub produktów i usług telekomunikacyj- innych związków między nimi posianych, zgodnie zprawem konkurencji; dają na rynku właściwym pozycję eko2) wyznacza przedsiębiorcę telekomuni- nomiczną odpowiadającą dominacji kacyjnego oznaczącej pozycji rynkowej wrozumieniu przepisów prawa wspóllub przedsiębiorców telekomunikacyj- notowego. nych zajmujących kolektywną pozycję znaczącą oraz: 4. Prezes UKE przy ustalaniu, czy dwóch lub więcej przedsiębiorców telekomua) nakłada obowiązki regulacyjne, bio- nikacyjnych zajmuje kolektywną znarąc pod uwagę adekwatność i pro- czącą pozycję na rynku właściwym porcjonalność danego obowiązku do ocenia cechy rynku właściwego, problemów rynkowych, których roz- szczególności udział przedsiębiorwiązanie służy realizacji celów okreś- ców rynku oraz jego przejrzystość, lonych wart.1 ust.2, lub
-    - **b)** utrzymuje nałożone obowiązki regulacyjne, jeżeli przedsiębiorca telekomunikacyjny lub przedsiębiorcy telekomunikacyjni nie utracili tej pozycji, lub
-    - **c)** zmienia nałożone obowiązki regulacyjne, jeżeli przedsiębiorca telekomunikacyjny lub przedsiębiorcy telekomunikacyjni nie utracili tej pozycji, ale warunki na rynku właściwym uzasadniają zmianę tych obowiązków.
+- **1)** określa rynek właściwy, mając na uwadze poziom rozwoju krajowego rynku produktów i usług telekomunikacyjnych, zgodnie z prawem konkurencji;
+- **2)** stwierdza, że na tym rynku właściwym występuje skuteczna konkurencja.
+
+2. Do projektu postanowienia, o którym mowa w ust. 1, stosuje się przepisy o postępowaniu konsultacyjnym.
+
+**Art. 24.** Po przeprowadzeniu postępowania, o którym mowa w art. 22 ust. 1, Prezes UKE, w przypadku ustalenia, że na rynku właściwym występuje przedsiębiorca telekomunikacyjny o znaczącej pozycji rynkowej lub przedsiębiorcy telekomunikacyjni zajmujący kolektywną pozycję znaczącą, wydaje decyzję, w której:
 
 **Art. 25.**
 
-1. Jeżeli przed wydaniem rozstrzygnięcia, którym mowa art. 23 ust. 1 albo art. 24, na tym samym rynku właściwym występował przedsiębiorca telekomunikacyjny znaczącej pozycji rynkowej lub przedsiębiorcy telekomunikacyjni zajmujący kolektywną pozycję znaczącą, którzy utracili tę pozycję, Prezes UKE, drodze decyzji, określa termin uchylenia obowiązków regulacyjnych, tak aby uchylenie to uwzględniało sytuację przedsiębiorców telekomunikacyjnych działających na rynku objętych tą decyzją, nie dłuższy jednak niż przewidziane umowach, które dotyczyły realizacji uchylanych obowiązków regulacyjnych, zawartych pomiędzy przedsiębiorcami okresy wypowiedzenia umowy.
+1. Jeżeli przed wydaniem rozstrzygnięcia, o którym mowa w art. 23 ust. 1 albo w art. 24, na tym samym rynku właściwym występował przedsiębiorca telekomunikacyjny o znaczącej pozycji rynkowej lub przedsiębiorcy telekomunikacyjni zajmujący kolektywną pozycję znaczącą, którzy utracili tę pozycję, Prezes UKE, w drodze decyzji, określa termin uchylenia obowiązków regulacyjnych, tak aby uchylenie to uwzględniało sytuację przedsiębiorców telekomunikacyjnych działających na rynku objętych tą decyzją, nie dłuższy jednak niż przewidziane w umowach, które dotyczyły realizacji uchylanych obowiązków regulacyjnych, zawartych pomiędzy przedsiębiorcami okresy wypowiedzenia umowy.
 
-2. Decyzję, której mowa ust. 1, ogłasza się na stronie podmiotowej Biuletynu Informacji Publicznej Urzędu Komunikacji Elektronicznej.
+2. Decyzję, o której mowa w ust. 1, ogłasza się na stronie podmiotowej Biuletynu Informacji Publicznej Urzędu Komunikacji Elektronicznej.
 
 **Art. 25a.**
 
-1. Przedsiębiorca telekomunikacyjny zajmuje znaczącą pozycję rynkową, jeżeli a jeżeli ocena tych cech nie wskazuje na brak kolektywnej pozycji znaczącej dodatkowo stosuje szczególności następujące kryteria:
+1. Przedsiębiorca telekomunikacyjny zajmuje znaczącą pozycję rynkową, jeżeli na rynku właściwym samodzielnie posiada pozycję ekonomiczną odpowiadającą dominacji w rozumieniu przepisów prawa wspólnotowego.
+
+2. Prezes UKE przy ocenie pozycji rynkowej przedsiębiorcy telekomunikacyjnego na rynku właściwym bierze pod uwagę kryteria wymienione w wytycznych Komisji, o których mowa w art. 19 ust. 3.
+
+3. Dwóch lub więcej przedsiębiorców telekomunikacyjnych zajmuje kolektywną pozycję znaczącą, jeżeli nawet przy braku powiązań organizacyjnych lub innych związków między nimi posiadają na rynku właściwym pozycję ekonomiczną odpowiadającą dominacji w rozumieniu przepisów prawa wspólnotowego.
+
+4. Prezes UKE przy ustalaniu, czy dwóch lub więcej przedsiębiorców telekomunikacyjnych zajmuje kolektywną znaczącą pozycję na rynku właściwym ocenia cechy rynku właściwego, w szczególności udział przedsiębiorców w rynku oraz jego przejrzystość, a jeżeli ocena tych cech nie wskazuje na brak kolektywnej pozycji znaczącej dodatkowo stosuje w szczególności następujące kryteria:
 
 - **1)** dojrzałość rynku,
 - **2)** zastój albo umiarkowany wzrost popytu,
@@ -84,89 +80,403 @@ W przypadku otrzymania tym okresie wezwania Komisji Europejskiej do wycofania pr
 - **10)** brak potencjalnej konkurencji,
 - **11)** różnego rodzaju nieformalne lub inne powiązania pomiędzy danymi przedsiębiorcami,
 - **12)** brak albo ograniczenie konkurencji cenowej,
-- **13)** możliwość stosowania mechanizmów odwetowych które nie muszą być spełnione łącznie.
+- **13)** możliwość stosowania mechanizmów odwetowych - które nie muszą być spełnione łącznie.
 
-**Art. 25b.** Wprzypadku określenia rynku właściwego odbiegającego od zalecenia Komisji
+**Art. 25b.** W przypadku określenia rynku właściwego odbiegającego od zalecenia Komisji Prezes UKE poddaje projekt rozstrzygnięcia, o którym mowa w art. 23 ust. 1 albo w art. 24, postępowaniu konsolidacyjnemu.
 
-**Art. 25d.** W przypadku rynku właściwego uznanego decyzją Komisji Europejskiej za rynek ponadnarodowy Prezes UKE przeprowadza jego analizę porozumieniu z organami regulacyjnymi innych państw członkowskich. Przepis art.23 lub 24 stosuje się odpowiednio.”;
+**Art. 25c.** Rozstrzygnięcie, o którym mowa w art. 23 ust. 1 albo w art. 24:
+
+**Art. 25d.** W przypadku rynku właściwego uznanego decyzją Komisji Europejskiej za rynek ponadnarodowy Prezes UKE przeprowadza jego analizę w porozumieniu z organami regulacyjnymi innych państw członkowskich. Przepis art. 23 lub 24 stosuje się odpowiednio.”;
+
+**Art. 40.**
+
+1. Prezes UKE może, zgodnie z przesłankami, o których mowa w art. 24 pkt 2 lit. a, w drodze decyzji, nałożyć na operatora o znaczącej pozycji rynkowej obowiązek ustalania opłat z tytułu dostępu telekomunikacyjnego w oparciu o ponoszone koszty.
+
+2. Operator, na którego został nałożony obowiązek, o którym mowa w ust. 1, przedstawia Prezesowi UKE uzasadnienie wysokości opłat ustalonych w oparciu o ponoszone koszty.
+
+3. W celu oceny prawidłowości wysokości opł at ustalonych przez operatora, o którym mowa w ust. 1, Prezes UKE może uwzględnić wysokość lub metody ustalania opłat na porównywalnych rynkach konkurencyjnych lub inne sposoby oceny prawidłowości wysokości tych opłat.
+
+4. W przypadku, gdy według oceny, o której mowa w ust. 3, wysokość opłat ustalonych przez operatora jest nieprawidłowa, Prezes UKE ustala wysokość opłat lub ich maksymalny albo minimalny poziom stosując metody, o których mowa w ust. 3, biorąc pod uwagę promocję efektywności i zrównoważonej konkurencji oraz zapewnienie maksymalnych korzyści dla użytkowników końcowych. Ustalenie opłat następuje w odrębnej decyzji, bądź też w decyzjach, o których mowa w art. 28-30, art. 43 lub art. 139.”;
+
+- **16)** art. 56 otrzymuje brzmienie: „Art. 56. 1. Świadczenie usług telekomunikacyjnych odbywa się na podstawie umowy o świadczenie usług telekomunikacyjnych.
+
+2. Umowę o świadczenie usług telekomunikacyjnych zawiera się w formie pisemnej. Wymóg formy pisemnej nie dotyczy umowy o świadczenie usług telekomunikacyjnych zawieranej przez dokonanie czynności faktycznych obejmujących w szczególności umowy o świadczenie usług telefonicznych za pomocą aparatu publicznego lub przez wybranie numeru dostępu do sieci dostawcy usług.
+
+3. Umowa o świadczenie publicznie dostępnych usług telekomunikacyjnych, z zastrzeżeniem ust. 5, powinna określać w szczególności:
+
+- **1)** strony umowy, w tym nazwę (firmę), adres i siedzibę dostawcy usług;
+- **2)** rodzaj świadczonych usług;
+- **3)** termin oczekiwania na przyłączenie do sieci lub termin rozpoczęcia świadczenia usług;
+- **4)** okres, na jaki została zawarta umowa;
+- **5)** pakiet taryfowy, jeżeli na świadczone usługi obowiązują różne pakiety taryfowe;
+- **6)** sposób składania zamówień na pakiety taryfowe oraz dodatkowe opcje usługi;
+- **7)** okres rozliczeniowy;
+- **8)** tryb i warunki dokonywania zmian umowy oraz warunki jej przedłużenia;
+- **9)** zakres świadczonych publicznie dostępnych usług telekomunikacyjnych, ze wskazaniem elementów składających się na opłatę abonamentową;
+- **10)** dane dotyczące jakości usług;
+- **11)** zakres obsługi serwisowej;
+- **12)** sposób i termin rozwi ązania umowy;
+- **13)** zakres odpowiedzialności z tytułu niewykonania lub nienależytego wykonania umowy, wysokość odszkodowania oraz zasady i terminy jego wypłaty;
+- **14)** zasady, tryb i terminy składania oraz rozpatrywania reklamacji;
+- **15)** informację o polubownych sposobach rozwiązywania sporów;
+- **16)** sposób uzyskania informacji o aktualnym cenniku usług oraz kosztach usług serwisowych.
+
+4. Umowa o zapewnienie przyłączenia do publicznej sieci telekomunikacyjnej poza elementami, o których mowa w ust. 3, powinna określać numer przydzielony abonentowi, a w przypadku przyłączenia do publicznej stacjonarnej sieci telefonicznej także adres zakończenia sieci.
+
+5. Dane, o których mowa w ust. 3 pkt 9-16, na podstawie wyraźnego postanowienia umowy, mogą być zawarte w regulaminie świadczenia publicznie dostępnych usług telekomunikacyjnych.
+
+6. Dostawca usług może umożliwić abonentowi zmianę warunków umowy, o których mowa w ust. 3 pkt 2, 4-7 i 9 za pomocą środków porozumiewania się na odległość, w szczególności telefonicznie. W takim przypadku dostawca usług obowiązany jest utrwalić oświadczenie abonenta złożone w powyższy sposób i przechowywać je przez okres 12 miesięcy. Jednocześnie dostawca usług obowiązany jest do potwierdzenia abonentowi faktu złożenia oświadczenia o zmianie warunków umowy oraz jego zakresu i terminu wprowadzenia zmian, w formie pisemnej, w terminie 14 dni od dnia jego złożenia. Abonentowi przysługuje prawo odstąpienia od dokonanej zmiany warunków umowy, bez podania przyczyn, poprzez złożenie stosownego oświadczenia w formie pisemnej w terminie 10 dni od dnia otrzymania pisemnego potwierdzenia. Do zachowania tego terminu wystarczy wysłanie oświadczenia przed jego upływem.
+
+7. Abonentowi nie przysługuje prawo odstąpienia od dokonanej zmiany warunków umowy, o którym mowa w ust. 6, jeżeli dostawca usług, za zgodą abonenta, rozpoczął świadczenie usług zgodnie ze zmienionymi warunkami umowy.
+
+8. W razie braku potwierdzenia abonentowi faktu złożenia oświadczenia o zmianie warunków umowy oraz jego zakresu i terminu wprowadzenia zmian, o których mowa w ust. 6, termin, w którym abonent może odstąpić od dokonanej zmiany warunków umowy, wynosi trzy miesiące i liczy się od dnia złożenia oświadczenia o zmianie warunków umowy. Jeżeli jednak abonent po rozpoczęciu biegu tego terminu otrzyma potwierdzenie, termin ulega skróceniu do 10 dni od dnia otrzymania tego potwierdzenia.
+
+9. Do zmiany warunków umowy w trybie, o którym mowa w ust. 6, nie stosuje się art. 60a.”;
+
+- **17)** w art. 57:
+    - **a)** ust. 4 otrzymuje brzmienie: „4. Przepisów ust. 2 i 3 nie stosuje się do umów o świadczenie usług telekomunikacyjnych zawieranych przez dokonanie czynności faktycznych, o których mowa w art. 56 ust. 2.”,
+    - **b)** ust. 6 otrzymuje brzmienie: „6. W przypadku zawarcia umowy o świadczenie usług telekomunikacyjnych, w tym o zapewnienie przyłączenia do publicznej sieci telekomunikacyjnej, związanego z ulgą przyznaną abonentowi, wysokość roszczenia z tytułu jednostronnego rozwiązania umowy przez abonenta lub przez dostawcę usług z winy abonenta przed upływem terminu, na jaki umowa została zawarta nie może przekroczyć wartości ulgi przyznanej abonentowi pomniejszonej o proporcjonalną jej wartość za okres od dnia zawarcia umowy do dnia jej rozwiązania.”;
+
+- **18)** w art. 59 ust. 1 i 2 otrzymują brzmienie: „1. Dostawca publicznie dostępnych usług telekomunikacyjnych określający w regulaminie świadczenia usług telekomunikacyjnych dane, o których mowa w art. 56 ust. 3 pkt 9-16, obowiązany jest podać ten regulamin do publicznej wiadomości i dostarczać nieodpłatnie abonentowi wraz z umową o świadczenie publicznie dostępnych usług telekomunikacyjnych, w tym o zapewnienie przyłączenia do publicznej sieci telekomunikacyjnej, a także na każde jego żądanie.
+
+2. Dostawca publicznie dostępnych usług telekomunikacyjnych dla użytkowników końcowych usługi przedpłaconej świadczonej w ruchomej publicznej sieci telefonicznej jest obowiązany do określenia zakresu i warunków wykonywania usług telekomunikacyjnych w regulaminie świadczenia usług telekomunikacyjnych, podanym do publicznej wiadomości.”;
+
+- **19)** art. 60 otrzymuje brzmienie: „Art. 60. Regulamin świadczenia usług dostawcy publicznie dostępnych usług telekomunikacyjnych dla użytkowników końcowych usługi przedpłaconej świadczonej w ruchomej publicznej sieci telefonicznej powinien określać w szczególności:
+- **1)** nazwę (firmę), adres i siedzibę dostawcy usług;
+- **2)** zakres świadczonych publicznie dostępnych usług telekomunikacyjnych, ze wskazaniem elementów składających się na opłatę za świadczenie usług;
+- **3)** standardowe warunki umowy, w tym wskazanie minimalnego czasu trwania umowy, jeżeli taki został określony;
+- **4)** zakres obsługi serwisowej;
+- **5)** zakres odpowiedzialności z tytułu niewykonania lub nienależytego wykonania umowy, wysokość odszkodowania oraz zasady i terminy jego wypłaty;
+- **6)** zasady, tryb i terminy składania oraz rozpatrywania reklamacji;
+- **7)** sposób uzyskania informacji o aktualnym cenniku usług oraz kosztach usług serwisowych.”;
+- **20)** po art. 60 dodaje się art. 60a w brzmieniu: „Art. 60a. 1. Dostawca publicznie dostępnych usług telekomunikacyjnych:
+- **1)** doręcza abonentowi na piśmie treść każdej proponowanej zmiany warunków umowy, w szczególności, o której mowa w art. 56 ust. 3,
+- **2)** doręcza abonentowi na piśmie oraz podaje do publicznej wiadomości treść każdej proponowanej zmiany warunków umowy określonych w regulaminie, o którym mowa w art. 59 ust. 1, oraz
+- **3)** podaje do publicznej wiadomości treść każdej proponowanej zmiany warunków umowy określonych w regulaminie, o którym mowa w art. 60 - z wyprzedzeniem co najmniej jednego okresu rozliczeniowego przed wprowadzeniem tych zmian w życie. Jednocześnie abonent powinien zostać poinformowany o prawie wypowiedzenia umowy w przypadku braku akceptacji tych zmian.
+
+2. W razie skorzystania z prawa wypowiedzenia umowy, o którym mowa w ust. 1, dostawcy publicznie dostępnych usług telekomunikacyjnych nie przysługuje roszczenie odszkodowawcze, a także zwrot ulgi, o której mowa w art. 57 ust. 6, o czym abonent powinien zostać także poinformowany.
+
+3. Przepisu ust. 2 nie stosuje się, jeżeli konieczność wprowadzenia zmian, o których mowa w ust. 1, wynika bezpośrednio ze zmiany przepisów prawa, w tym również usunięcia niedozwolonych postanowień umownych.
+
+4. Dostawca publicznie dostępnych usług telekomunikacyjnych niezwłocznie informuje abonentów na piśmie o zmianie nazwy (firmy), adresu lub siedziby dostawcy usług. Informacja o powyższych zmianach nie stanowi zmiany warunków umowy.
+
+5. Dostawca publicznie dostępnych usług telekomunikacyjnych dla użytkowników końcowych usługi przedpłaconej świadczonej w ruchomej publicznej sieci telefonicznej niezwłocznie podaje do publicznej wiadomości informacje o zmianie nazwy (firmy), adresu lub siedziby dostawcy usług.”;
+
+- **21)** w art. 61:
+    - **a)** ust. 5 i 6 otrzymują brzmienie: „5. Dostawca publicznie dostępnych usług telekomunikacyjnych doręcza abonentowi na piśmie oraz podaje do publicznej wiadomości treść każdej zmiany w cenniku, z wyprzedzeniem co najmniej jednego okresu rozliczeniowego przed wprowadzeniem tych zmian w życie. Jednocześnie abonent powinien zostać poinformowany o prawie wypowiedzenia umowy w przypadku braku akceptacji zmiany w cenniku.
+
+6. W przypadku, o którym mowa w ust. 5, abonent powinien zostać poinformowany także o tym, że w razie skorzystania z prawa wypowiedzenia umowy w przypadku braku akceptacji podwyższenia cen dostawcy publicznie dostępnych usług telekomunikacyjnych nie przysługuje roszczenie odszkodowawcze, a także zwrot ulgi, o której mowa w art. 57 ust. 6.”,
+
+- **b)** po ust. 6 dodaje się ust. 6a w brzmieniu: „6a. Przepisu ust. 6 nie stosuje się, jeżeli konieczność wprowadzenia zmiany, o której mowa w ust. 5, następuje na skutek zmiany przepisów prawa.”;
+- **22)** w art. 64 ust. 3 otrzymuje brzmienie: „3. Świadczenie usługi o podwyższonej opłacie odbywa się na podstawie umowy zawartej w sposób określony w art. 56 ust. 2 zdanie drugie.”;
+- **23)** art. 70 otrzymuje brzmienie: „Art. 70. W przypadku zmiany miejsca zamieszkania, siedziby lub miejsca wykonywania działalności, abonent będący stroną pisemnej umowy z dostawcą usług zapewniającym przyłączenie do publicznej sieci telefonicznej operatora może żądać przeniesienia przydzielonego numeru w ramach istniejącej sieci tego samego operatora na obszarze:
+- **1)** o tym samym wskaźniku obszaru geograficznego - w przypadku numerów geograficznych;
+- **2)** całego kraju - w przypadku numerów niegeograficznych.”;
+- **24)** w art. 71:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Abonent będący stroną umowy z dostawcą usług zapewniającym przyłączenie do publicznej sieci telefonicznej lub użytkownik końcowy usługi przedpłaconej może żądać przy zmianie dostawcy usług przeniesienia przydzielonego numeru do istniejącej sieci operatora na:
+
+- **1)** obszarze geograficznym - w przypadku numerów geograficznych;
+- **2)** terenie całego kraju - w przypadku numerów niegeograficznych.”,
+    - **b)** ust. 3 otrzymuje brzmienie: „3. Za przeniesienie przydzielonego numeru nie pobiera się opłat od abonenta i użytkownika końcowego usługi przedpłaconej świadczonej w ruchomej publicznej sieci telefonicznej.”,
+    - **c)** dodaje się ust. 4 i 5 w brzmieniu: „4. Prezes UKE prowadzi bazę danych zawierającą przeniesione numery, o których mowa w ust. 1.
+
+5. Operator publicznej sieci telefonicznej jest obowiązany połączyć tę sieć bezpośrednio lub za pośrednictwem publicznej sieci telefonicznej innego operatora z bazą danych, o której mowa w ust. 4. Operator publicznej sieci telefonicznej jest obowiązany dokonywać na bieżąco aktualizacji bazy danych, o której mowa w ust. 4.”;
+
+- **25)** po art. 71 dodaje się art. 71a w brzmieniu: „Art. 71a. Abonent, o którym mowa w art. 71, żądając przeniesienia przydzielonego numeru może rozwiązać umowę z dotychczasowym dostawcą usług bez zachowania terminów wypowiedzenia określonych w rozwiązywanej umowie. W takim przypadku abonent jest obowiązany do uiszczenia opłaty dotychczasowemu dostawcy usług w wysokości nieprzekraczającej opłaty abonamentowej za okres wypowiedzenia, nie wyższej jednak niż opłata abonamentowa za jeden okres rozliczeniowy, powiększonej o roszczenie związane z ulgą przyznaną abonentowi obliczoną proporcjonalnie do czasu pozostającego do zakończenia trwania umowy.”;
+- **26)** w art. 72 ust. 3 otrzymuje brzmienie: „3. Kierując się potrzebami abonentów w zakresie wyboru dostawcy usług, Prezes UKE, po przeprowadzeniu zgodnie z art. 21 analizy rynku usług świadczonych w ruchomej publicznej sieci telefonicznej, może w drodze decyzji, o której mowa w art. 24, nałożyć na wyznaczonego operatora o znaczącej pozycji na tym rynku obowiązek realizacji na rzecz abonentów przyłączonych do jego sieci uprawnienia, o którym mowa w ust. 1.”;
+- **27)** art. 91 otrzymuje brzmienie: „Art. 91. 1. Przedsiębiorca wyznaczony świadczy usługi telekomunikacyjne w ramach podstawowego pakietu cenowego, w którym opłata abonamentowa stanowi opłatę za utrzymanie w gotowości do świadczenia usług telekomunikacyjnych przyłączenia, o którym mowa w art. 81 ust. 3 pkt 1, i nie obejmuje innych usług telekomunikacyjnych.
+
+2. Prezes UKE kierując się uwarunkowaniami krajowymi może, w decyzji, o której mowa w art. 82 ust. 4 lub art. 83 ust. 2, nałożyć na przedsiębiorcę wyznaczonego obowiązek:
+
+- **1)** zapewnienia specjalnego pakietu cenowego,
+- **2)** stosowania ujednoliconych taryf na obszarze świadczenia usługi powszechnej albo poszczególnych usług wchodzących w skład usługi powszechnej, w tym uśrednienia geograficznego - a także określić ceny maksymalne usługi powszechnej albo poszczególnych usług wchodzących w skład usługi powszechnej.
+
+3. Przedsiębiorca, o którym mowa w ust. 2 pkt 1, w celu zapewnienia konsumentom o niskich dochodach i o szczególnych potrzebach społecznych, dostępu i korzystania z publicznie dostępnych usług, oferuje specjalny pakiet cenowy, który świadczony będzie na warunkach innych niż zwykłe warunki komercyjne.
+
+4. W przypadku wyboru przez konsumenta specjalnego pakietu cenowego, przedsiębiorca wyznaczony może żądać przedłożenia dokumentów potwierdzają cych niskie dochody lub szczególne potrzeby społeczne konsumenta.”;
+
+- **28)** po art. 91 dodaje się art. 91a w brzmieniu: „Art. 91a. 1. Przedsiębiorca wyznaczony przedkłada Prezesowi UKE projekt:
+- **1)** cennika w zakresie specjalnego pakietu cenowego i podstawowego pakietu cenowego,
+- **2)** regulaminu świadczenia usługi powszechnej albo poszczególnych usług wchodzących w jej skład lub ich zmiany, wraz z uzasadnieniem, w terminie co najmniej 30 dni przed planowanym wprowadzeniem ich w życie.
+
+2. Przepisu ust. 1 nie stosuje się w przypadku przedłożenia Prezesowi UKE projektu, o którym mowa w ust. 1, lub jego zmiany w trybie art. 48 ust. 1.
+
+3. Prezes UKE może, w drodze decyzji, w terminie 30 dni od dnia przedłożenia projektu, o którym mowa w ust. 1, lub jego zmiany zgłosić sprzeciw do projektu lub jego części, jeżeli projekt ten lub jego zmiana jest sprzeczny z decyzją, o której mowa w art. 82 ust. 4 lub art. 83 ust. 2.
+
+4. W decyzji, o której mowa w ust. 3, Prezes UKE może zobowiązać przedsiębiorcę wyznaczonego do przedstawienia w terminie 30 dni od dnia doręczenia decyzji poprawionego projektu, o którym mowa w ust. 1, lub jego zmiany.
+
+5. Prezes UKE może żądać od przedsiębiorcy wyznaczonego przedłożenia dodatkowych dokumentów lub udzielenia dodatkowych informacji. Bieg terminu do zgłoszenia sprzeciwu, o którym mowa w ust. 3, ulega zawieszeniu od dnia wysłania żądania Prezesa UKE do dnia doręczenia do UKE tych dokumentów lub informacji.
+
+6. Projekt, o którym mowa w ust. 1 lub jego zmiany, w zakresie objętym sprzeciwem Prezesa UKE, nie wchodzą w życie.
+
+7. Cennik w zakresie specjalnego pakietu cenowego i podstawowego pakietu cenowego oraz regulamin świadczenia usługi powszechnej albo poszczególnych usług wchodzących w jej skład lub ich zmian podlegają publikacji na stronie Biuletynu Informacji Publicznej UKE.”;
+
+- **29)** w art. 153 w ust. 4 uchyla się pkt 5-7;
+- **30)** w art. 159 w ust. 1 pkt 5 otrzymuje brzmienie: „5) dane o próbach uzyskania połączenia między zakończeniami sieci, w tym dane o nieudanych próbach połączeń, oznaczających połączenia między telekomunikacyjnymi urządzeniami końcowymi lub zakończeniami sieci, które zostały zestawione i nie zostały odebrane przez użytkownika końcowego lub nastąpiło przerwanie zestawianych połączeń.”;
+- **31)** w art. 161 w ust. 2 pkt 6 otrzymuje brzmienie: „6) nazwy, serii i numeru dokumentów potwierdzających tożsamość, a w przypadku cudzoziemca, który nie jest obywatelem państwa członkowskiego albo Konfederacji Szwajcarskiej - numeru paszportu lub karty pobytu;”;
+- **32)** w art. 165:
+    - **a)** uchyla się ust. 1,
+    - **b)** ust. 5 otrzymuje brzmienie: „5. Do przetwarzania danych transmisyjnych, zgodnie z ust. 2-4, uprawnione są podmioty działające z upoważnienia operatorów publicznych sieci telekomunikacyjnych i dostawców publicznie dostępnych usług telekomunikacyjnych, zajmujące się naliczaniem opłat, zarządzaniem ruchem w sieciach telekomunikacyjnych, obsługą klienta, systemem wykrywania nadużyć finansowych, marketingiem usług telekomunikacyjnych lub świadczeniem usług o wartości wzbogaconej. Podmioty te mogą przetwarzać dane transmisyjne wyłącznie dla celów niezbędnych przy wykonywaniu tych działań.”;
+
+- **33)** w art. 166 uchyla się ust. 5;
+- **34)** w art. 169 w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „Dane osobowe posiadane przez przedsiębiorcę telekomunikacyjnego zawarte w publicznie dostępnym spisie abonentów, zwanym dalej „spisem”, wydawanym w formie książkowej lub elektronicznej, a także udostępniane za pośrednictwem służb informacyjnych przedsiębiorcy telekomunikacyjnego powinny być ograniczone do:”;
+- **35)** w art. 171:
+    - **a)** ust. 2 i 3 otrzymują brzmienie: „2. Dostawca usług świadczonych w publicznej sieci telefonicznej umożliwiającej prezentację identyfikacji linii wywołującej jest obowiązany zapewnić, za pomocą prostych środków:
+
+- **1)** użytkownikowi wywołującemu - możliwość jednorazowego wyeliminowania prezentacji identyfikacji linii wywołującej u użytkownika wywoływanego podczas wywołania i połączenia;
+- **2)** abonentowi wywołującemu - możliwość stałego wyeliminowania prezentacji identyfikacji linii wywołującej u użytkownika wywoływanego podczas wywołania i połączenia, u operatora, do którego sieci jest przyłączony abonent będący stroną umowy z dostawcą usług;
+- **3)** abonentowi wywoływanemu - możliwość eliminacji dla połączeń przychodzących prezentacji identyfikacji linii wywołującej, a jeżeli taka prezentacja jest dostępna przed rozpoczęciem połączenia przychodzącego, także możliwość blokady połączeń przychodzących od abonenta lub użytkownika stosującego eliminację prezentacji identyfikacji linii wywołującej.
+
+3. Dostawca usług świadczonych w publicznej sieci telefonicznej zapewniającej prezentację identyfikacji zakończenia sieci, do której zostało przekierowane połączenie, zwaną dalej „prezentacją identyfikacji linii wywoływanej”, jest obowiązany zapewnić abonentowi wywoływanemu możliwość eliminacji, za pomocą prostych środków, prezentacji identyfikacji linii wywoływanej u użytkownika wywołującego.”,
+
+- **b)** ust. 8 otrzymuje brzmienie: „8. Przedsiębiorcy telekomunikacyjni są obowiązani do zapewnienia służbom ustawowo powołanym do niesienia pomocy dostępu do identyfikacji linii wywołującej oraz danych dotyczących lokalizacji, bez uprzedniej zgody zainteresowanych abonentów lub użytkowników, jeżeli jest to konieczne do umożliwienia tym służbom wykonywania ich zadań w możliwie najbardziej efektywny sposób.”,
+- **c)** ust. 10 otrzymuje brzmienie: „10. Dane, o których mowa w ust. 9, pozostają w dyspozycji przedsiębiorcy telekomunikacyjnego. Do ich udostępniania stosuje się art. 180d.”;
+- **36)** art. 176 otrzymuje brzmienie: „Art. 176. Przedsiębiorca telekomunikacyjny jest obowiązany do wykonywania zadań i obowiązków na rzecz obronności, bezpieczeństwa państwa oraz bezpieczeństwa i porządku publicznego w zakresie i na warunkach określonych w niniejszej ustawie oraz w przepisach odrębnych.”;
+- **37)** po art. 176 dodaje się art. 176a w brzmieniu: „Art. 176a. 1. Przedsiębiorca telekomunikacyjny, w celu zapewnienia ciągłości świadczenia usług telekomunikacyjnych lub dostarczania sieci telekomunikacyjnej, jest obowiązany uwzględniać możliwość wystąpienia:
+- **1)** sytuacji kryzysowych,
+- **2)** stanów nadzwyczajnych,
+- **3)** bezpośrednich zagrożeń dla infrastruktury przedsiębiorcy - zwanych dalej „sytuacjami szczególnych zagrożeń”.
+
+2. Przedsiębiorca telekomunikacyjny, z zastrzeżeniem ust. 5 pkt 2, jest obowiązany posiadać aktualne i uzgodnione plany działań w sytuacjach szczególnych zagrożeń, zwane dalej „planami”, dotyczące w szczególności:
+
+- **1)** współpracy z innymi przedsiębiorcami telekomunikacyjnymi;
+- **2)** współpracy z zagranicznymi operatorami telekomunikacyjnymi, a w szczególności państw sąsiadujących;
+- **3)** współpracy z podmiotami i służbami wykonującymi zadania w zakresie ratownictwa, niesienia pomocy ludności, a także zadania na rzecz obronności, bezpieczeństwa państwa oraz bezpieczeństwa i porządku publicznego oraz z podmiotami właściwymi w sprawach zarządzania kryzysowego, wskazanymi w ramach uzgodnień planów, o których mowa w ust. 3, przez organy uzgadniające plany;
+- **4)** zabezpieczenia infrastruktury telekomunikacyjnej w sytuacjach szczególnych zagrożeń oraz przed nieuprawnionym dostępem;
+- **5)** utrzymania ciągłości, a w przypadku jej utraty, odtwarzania:
+    - **a)** świadczenia usług telekomunikacyjnych,
+    - **b)** dostarczania sieci telekomunikacyjnej - z uwzględnieniem pierwszeństwa dla podmiotów i służb, o których mowa w pkt 3;
+
+- **6)** technicznych i organizacyjnych przygotowań, w przypadku wprowadzenia ograniczeń w działalności telekomunikacyjnej przewidzianych ustawą;
+- **7)** sposobu udostępniania urządzeń telekomunikacyjnych, o którym mowa w art. 177 ust. 3, przez przedsiębiorców telekomunikacyjnych;
+- **8)** ewidencji i gromadzenia rezerw przedsiębiorcy lub współpracy z dostawcami sprzętu oraz usług serwisowych i naprawczych.
+
+3. Z zastrzeżeniem ust. 5 pkt 1 lit. c, przedsiębiorca telekomunikacyjny sporządzający plany dokonuje uzgodnienia ich zawartości z organami, o których mowa w ust. 5 pkt 1 lit. b.
+
+4. Po stwierdzeniu wystąpienia sytuacji szczególnych zagrożeń lub po uzyskaniu informacji o ich wystąpieniu od podmiotów lub służb, o których mowa w ust. 2 pkt 3, przedsiębiorca telekomunikacyjny podejmuje niezwłocznie działania określone w planach.
+
+5. Rada Ministrów, mając na uwadze zakres i rodzaj wykonywanej działalności telekomunikacyjnej, wielkość przedsiębiorcy telekomunikacyjnego i jego znaczenie dla gospodarki, obronności, bezpieczeństwa państwa oraz bezpieczeństwa i porządku publicznego, a także wymagania, o których mowa w ust. 2, w drodze rozporządzenia:
+
+- **1)** określi:
+    - **a)** rodzaje planów, ich zawartość oraz tryb sporządzania i aktualizacji,
+    - **b)** organy uzgadniające plany oraz zakres tych uzgodnień,
+    - **c)** rodzaje przedsiębiorców telekomunikacyjnych obowiązanych do uzgadniania zawartości planów;
+
+- **2)** może określić rodzaje działalności telekomunikacyjnej lub rodzaje przedsiębiorców telekomunikacyjnych niepodlegających obowiązkowi sporządzania planu.”;
+- **38)** w art. 177:
+    - **a)** uchyla się ust. 1 i 2,
+    - **b)** ust. 3-5 otrzymują brzmienie: „3. Przedsiębiorca telekomunikacyjny w sytuacjach szczególnych zagrożeń jest obowiązany do nieodpłatnego udostępniania urządzeń telekomunikacyjnych niezbędnych do przeprowadzenia akcji ratowniczej innemu przedsiębiorcy telekomunikacyjnemu, podmiotowi i służbie, o których mowa w art. 176a ust. 2 pkt 3, z zachowaniem zasady minimalizowania negatywnych skutków takiego udostępnienia tych urządzeń dla ciągłości wykonywania działalności telekomunikacyjnej przez przedsiębiorcę.
+
+4. Podmioty, w tym niebędące przedsiębiorcami telekomunikacyjnymi, używające radiowych urzą dzeń nadawczych lub nadawczo-odbiorczych stosowanych w służbach radiokomunikacyjnych, w sytuacjach szczególnych zagrożeń są obowiązane do nieodpłatnego udostępniania urządzeń telekomunikacyjnych niezbędnych do przeprowadzenia akcji ratowniczej podmiotom koordynującym działania ratownicze, podmiotom właściwym w sprawach zarządzania kryzysowego, służbom ustawowo powołanym do niesienia pomocy, a także innym podmiotom realizującym zadania na rzecz obronności, bezpieczeństwa państwa oraz bezpieczeństwa i porządku publicznego.
+
+5. Przepisy ust. 3 i 4 stosuje się odpowiednio podczas przeprowadzania akcji ratowniczej o zasięgu międzynarodowym, co najmniej w zakresie ustalonym umowami międzynarodowymi, których Rzeczpospolita Polska jest stroną.”,
+
+- **c)** dodaje się ust. 6 w brzmieniu: „6. Rada Ministrów określi, w drodze rozporządzenia, tryb nieodpłatnego udostępniania radiowych urządzeń nadawczych lub nadawczoodbiorczych stosowanych w służbach radiokomunikacyjnych przez podmioty niebędące przedsiębiorcami telekomunikacyjnymi, mając na uwadze konieczność zachowania zasady minimalizowania negatywnych skutków udostępniania tych urządzeń.”;
+- **39)** w art. 178:
+    - **a)** w ust. 1 pkt 1 otrzymuje brzmienie: „1) utrzymania ciągłości lub odtwarzania:
+    - **a)** dostarczania sieci telekomunikacyjnej,
+    - **b)** świadczenia usług telekomunikacyjnych - z uwzględnieniem pierwszeństwa dla podmiotów i służb, o których mowa w ust. 2 pkt 1;”,
+    - **b)** ust. 2 i 3 otrzymują brzmienie: „2. Decyzja Prezesa UKE, o której mowa w ust. 1:
+
+- **1)** wydawana jest z urzędu lub na wniosek podmiotów koordynujących działania ratownicze, podmiotów właściwych w sprawach zarządzania kryzysowego, służb ustawowo powołanych do niesienia pomocy, a także innych podmiotów realizujących zadania na rzecz obronności, bezpieczeństwa państwa oraz bezpieczeństwa i porządku publicznego;
+- **2)** może być ogłoszona ustnie przedsiębiorcy telekomunikacyjnemu, bez uzasadnienia, w całości lub części, jeżeli wymagają tego względy obronności, bezpieczeństwa państwa oraz bezpieczeństwa i porządku publicznego.
+
+3. W przypadkach i na zasadach określonych w przepisach odrębnych Komendant Główny Policji, komendant wojewódzki Policji, Komendant Główny Straży Granicznej, komendant Oddziału Straży Granicznej, Komendant Główny Żandarmerii Wojskowej, komendant Oddziału Żandarmerii Wojskowej, Szef Agencji Bezpieczeństwa Wewnętrznego, Szef Służ by Kontrwywiadu Wojskowego oraz Szef Biura Ochrony Rządu mogą zarządzić o zastosowaniu urządzeń uniemożliwiających telekomunikację na określonym obszarze.”;
+
+- **40)** w art. 179:
+    - **a)** uchyla się ust. 1,
+    - **b)** ust. 3 otrzymuje brzmienie: „3. Przedsiębiorca telekomunikacyjny, z zastrzeżeniem ust. 12 pkt 2, jest obowiązany do:
+
+- **1)** zapewnienia warunków technicznych i organizacyjnych dostępu i utrwalania, zwanych dalej „warunkami dostępu i utrwalania”, umożliwiających jednoczesne i wzajemnie niezależne:
+    - **a)** uzyskiwanie przez Policję, Straż Graniczną, Agencję Bezpieczeństwa Wewnętrznego, Służbę Kontrwywiadu Wojskowego, Żandarmerię Wojskową, Centralne Biuro Antykorupcyjne i wywiad skarbowy, zwane dalej „uprawnionymi podmiotami”, w sposób określony w ust. 4b, dostępu do: - przekazów telekomunikacyjnych, nadawanych lub odbieranych przez użytkownika końcowego lub telekomunikacyjne urządzenie końcowe, - posiadanych przez przedsiębiorcę danych związanych z przekazami telekomunikacyjnymi, o których mowa w ust. 9, art. 159 ust. 1 pkt 1 i pkt 3-5,
+    - **b)** uzyskiwanie przez uprawnione podmioty danych związanych ze świadczoną usługą telekomunikacyjną i danych, o których mowa w art. 161,
+    - **c)** utrwalanie przez uprawnione podmioty przekazów telekomunikacyjnych i danych, o których mowa w lit. a i b;
+
+- **2)** utrwalania na rzecz sądu i prokuratora przekazów telekomunikacyjnych i danych, o których mowa w pkt 1 lit. a i
+    - **c)** po ust. 3 dodaje b.”, się ust. 3a i 3b w brzmieniu: „3a. Przedsiębiorca telekomunikacyjny zapewnia, na własny koszt, warunki dostępu i utrwalania w zakresie wszystkich świadczonych usług telekomunikacyjnych, począwszy od dnia rozpoczęcia działalności telekomunikacyjnej, a w przypadku rozpoczęcia świadczenia nowej usługi telekomunikacyjnej od dnia jej uruchomienia.
+
+3b. Przedsiębiorca telekomunikacyjny zapewnia, na własny koszt, utrwalanie na rzecz sądu lub prokuratora przekazów telekomunikacyjnych i danych, o których mowa w ust. 3 pkt 1 lit. a i b.”,
+
+- **d)** ust. 4 otrzymuje brzmienie: „4. Przedsiębiorca telekomunikacyjny zapewnia warunki dostępu i utrwalania z zachowaniem wymagań określonych w rozporządzeniu, o którym mowa w ust. 12.”,
+- **e)** po ust. 4 dodaje się ust. 4a-4c w brzmieniu: „4a. Warunki dostępu i utrwalania mogą być zapewniane za pomocą interfejsów zlokalizowanych w miejscach obejmowanych przez sieć przedsiębiorcy telekomunikacyjnego na zasadach określonych w umowach zawartych przez uprawnione podmioty z przedsiębiorcą telekomunikacyjnym. Umowa może określać współudział stron w kosztach zastosowania interfejsów. W przypadku braku uzgodnień w zakresie lokalizacji interfejsu uprawnione podmioty wskazują miejsce lokalizacji pozostające w obrębie sieci telekomunikacyjnej przedsiębiorcy telekomunikacyjnego, umożliwiające: techniczną realizację interfejsu, niezbędną ochronę tego miejsca wynikającą z przepisów odrębnych oraz minimalizację nakładów ponoszonych przez przedsiębiorcę telekomunikacyjnego i podmioty uprawnione.
+
+4b. Zapewnienie warunków dostępu i utrwalania powinno umożliwiać uprawnionym podmiotom dostęp do przekazów telekomunikacyjnych i danych bez udziału pracowników przedsiębiorcy telekomunikacyjnego. Za zgodą uprawnionego podmiotu warunki dostępu i utrwalania mogą być zapewnione przy niezbędnym współudziale upoważnionych pracowników przedsiębiorcy telekomunikacyjnego gwarantujących prawidłową realizację przedmiotowych czynności w zakresie określonym przez uprawniony podmiot.
+
+4c. Dopuszcza się możliwość wspólnego zapewnienia warunków dostępu i utrwalania przez dwóch lub więcej przedsiębiorców telekomunikacyjnych, w szczególności za pomocą tych samych interfejsów. Szczegółowe zasady współpracy przedsiębiorców telekomunikacyjnych w tym zakresie regulują umowy zawarte pomiędzy nimi. O zawarciu umowy przedsiębiorcy niezwłocznie informują Prezesa UKE. Zawarcie umowy nie zwalnia jej stron z indywidualnej odpowiedzialności za zapewnienie warunków dostępu i utrwalenia.”, Do wniosku dołącza się harmonogram osiągnięcia przez przedsiębiorcę telekomunikacyjnego pełnej zdolności do wykonywania obowiązku.”,
+
+- **f)** uchyla się ust. 5,
+- **g)** ust. 6 otrzymuje brzmienie: „6. Prezes UKE na wniosek przedsiębiorcy telekomunikacyjnego uzasadniony obiektywnymi i niezależnymi od niego technicznymi lub organizacyjnymi przyczynami uniemożliwiającymi dalsze wykonywanie obowiązku zapewnienia warunków dostępu i utrwalania, po uzyskaniu, w terminie określonym w art. 106 § 3 Kodeksu postępowania administracyjnego, zgody uprawnionych podmiotów, może w całości lub w części, w drodze decyzji, obowiązek ten zawiesić na okres nie dłuższy niż 6 miesięcy. Wniosek składa się w terminie nie dłuższym niż 14 dni od dnia wystąpienia zdarzenia, o którym mowa w zdaniu pierwszym.
+- **h)** po ust. 6 dodaje się ust. 6a i 6b w brzmieniu: „6a. Przepisu ust. 6 nie stosuje się do przedsiębiorcy telekomunikacyjnego rozpoczynającego działalność telekomunikacyjną lub rozpoczynającego świadczenie nowej usługi telekomunikacyjnej.
+
+6b. Złożenie wniosku lub zawieszenie obowiązku zapewnienia warunków dostępu i utrwalania nie zwalnia przedsiębiorcy telekomunikacyjnego z obowiązku zapewnienia warunków dostępu i utrwalania, w zakresie posiadanych możliwości technicznych, organizacyjnych i finansowych.”,
+
+- **i)** ust. 7 i 8 otrzymują brzmienie: „7. Przedsiębiorca telekomunikacyjny może powierzyć, w drodze umowy, innemu przedsiębiorcy telekomunikacyjnemu wykonywanie obowiązków, o których mowa w ust. 3. Powierzenie to nie zwalnia powierzającego z odpowiedzialności za wykonywanie obowiązków, o których mowa w ust. 3.
+
+8. Przedsiębiorca telekomunikacyjny jest obowiązany do wskazania Prezesowi UKE:
+
+- **1)** jednostki organizacyjnej lub osoby mającej siedzibę lub miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej uprawnionej do reprezentowania tego przedsiębiorcy w sprawach związanych z zapewnieniem warunków dostępu i utrwalania;
+- **2)** przedsiębiorcy telekomunikacyjnego, który będzie w jego imieniu wykonywał obowiązki, o których mowa w ust. 3;
+- **3)** przedsiębiorcy telekomunikacyjnego, wspólnie z którym będzie zapewniał warunki dostępu i utrwalania za pomocą tych samych interfejsów.”,
+    - **j)** po ust. 8 dodaje się ust. 8a w brzmieniu: „8a. W przypadku zmiany danych podmiotów, o których mowa w ust. 8, przedsiębiorca telekomunikacyjny jest obowiązany poinformować Prezesa UKE o tych zmianach.”,
+    - **k)** ust. 10 otrzymuje brzmienie: „10. Prezes UKE przekazuje niezwłocznie informacje, o których mowa w ust. 8 i 8a, Ministrowi Sprawiedliwości, Ministrowi Obrony Narodowej, ministrowi właściwemu do spraw wewnętrznych, ministrowi właściwemu do spraw finansów publicznych, Szefowi Agencji Bezpieczeństwa Wewnętrznego, Szefowi Centralnego Biura Antykorupcyjnego, Szefowi Służby Kontrwywiadu Wojskowego, a także ministrowi, którego zakres zadań obejmuje koordynowanie działalności służb specjalnych - jeżeli został powołany.”,
+    - **l)** uchyla się ust. 11,
+    - **m)** dodaje się ust. 12 w brzmieniu: „12. Rada Ministrów określi, w drodze rozporządzenia:
+
+- **1)** wymagania i sposób zapewnienia warunków dostępu i utrwalania, o których mowa w ust. 3 i art. 180d, z wyłączeniem spraw uregulowanych w art. 242 Kodeksu postępowania karnego, kierując się zasadą osiągania celu przy jak najniższych nakładach;
+- **2)** rodzaje działalności telekomunikacyjnej lub rodzaje przedsiębiorców telekomunikacyjnych niepodlegających obowiązkowi zapewnienia warunków dostępu i utrwalania, o których mowa w ust. 3 i art. 180d, kierując się zakresem i rodzajem świadczonych usług telekomunikacyjnych lub wielkością sieci telekomunikacyjnych przedsiębiorców.”;
+- **41)** po art. 180 dodaje się art. 180a-180g w brzmieniu: „Art. 180a. 1. Z zastrzeżeniem art. 180c ust. 2 pkt 2, operator publicznej sieci telekomunikacyjnej oraz dostawca publicznie dostępnych usług telekomunikacyjnych są obowiązani na własny koszt:
+- **1)** zatrzymywać i przechowywać dane, o których mowa w art. 180c, generowane w sieci telekomunikacyjnej lub przez nich przetwarzane, na terytorium Rzeczypospolitej Polskiej, przez okres 24 miesięcy, licząc od dnia połączenia lub nieudanej próby połączenia, a z dniem upływu tego okresu dane te niszczyć, z wyjątkiem tych, które zostały zabezpieczone, zgodnie z przepisami odrębnymi;
+- **2)** udostępniać dane, o których mowa w pkt 1, uprawnionym podmiotom, a także sądowi i prokuratorowi, na zasadach i w trybie określonym w przepisach odrębnych;
+- **3)** chronić dane, o których mowa w pkt 1, przed przypadkowym lub bezprawnym zniszczeniem, utratą lub zmianą, nieuprawnionym lub bezprawnym przechowywaniem, przetwarzaniem, dostępem lub ujawnieniem, zgodnie z przepisami art. 159-175 i art. 180e.
+
+2. Z zastrzeżeniem ust. 3, obowiązek, o którym mowa w ust. 1, uważa się za wykonany, jeżeli operator publicznej sieci telekomunikacyjnej lub dostawca publicznie dostępnych usług telekomunikacyjnych w przypadku zaprzestania działalności telekomunikacyjnej, przekaże dane do dalszego przechowywania, udostępniania oraz ochrony innemu operatorowi publicznej sieci telekomunikacyjnej lub dostawcy publicznie dostępnych usług telekomunikacyjnych.
+
+3. Jeżeli ogłoszono upadłość operatora publicznej sieci telekomunikacyjnej lub dostawcy publicznie dostępnych usług telekomunikacyjnych, upadły operator lub dostawca ma obowiązek przekazania danych, o których mowa w ust. 1, do dalszego przechowywania, udostępniania oraz ochrony Prezesowi UKE.
+
+4. Prezes Rady Ministrów określi, w drodze rozporządzenia, sposób przekazywania Prezesowi UKE danych w przypadku, o którym mowa w ust. 3, oraz sposób udostępniania przez Prezesa UKE tych danych podmiotom, o których mowa w ust. 1 pkt 2, w celu zapewnienia realizacji zadań przez te podmioty.
+
+5. Obowiązkowi, o którym mowa w ust. 1, podlegają dane dotyczące połączeń zrealizowanych i nieudanych prób połączeń, o których mowa w art. 159 ust. 1 pkt 5.
+
+6. Obowiązek, o którym mowa w ust. 1, powinien być realizowany w sposób, który nie powoduje ujawniania przekazu telekomunikacyjnego.
+
+7. Udostępnianie danych, o którym mowa w ust. 1 pkt 1, może nastąpić za pomocą sieci telekomunikacyjnej, chyba że przepisy odrębne stanowią inaczej.
 
 **Art. 180b.**
 
-1. Obowiązek, którym mowa art. 180a ust. 1, może być wykonywany wspólnie przez dwóch lub więcej operatorów publicznej sieci telekomunikacyjnej lub dostawców publicznie dostępnych usług telekomunikacyjnych.
+1. Obowiązek, o którym mowa w art. 180a ust. 1, może być wykonywany wspólnie przez dwóch lub więcej operatorów publicznej sieci telekomunikacyjnej lub dostawców publicznie dostępnych usług telekomunikacyjnych.
 
-2. Operator publicznej sieci telekomunikacyjnej lub dostawca publicznie dostępnych usług telekomunikacyjnych może powierzyć realizację obowiązku, którym mowa wart.180a ust.1, wdrodze umowy, innemu przedsiębiorcy telekomunikacyjnemu. Powierzenie to nie zwalnia powierzającego z odpowiedzialności za realizację tego obowiązku.
+2. Operator publicznej sieci telekomunikacyjnej lub dostawca publicznie dostępnych usług telekomunikacyjnych może powierzyć realizację obowiązku, o którym mowa w art. 180a ust. 1, w drodze umowy, innemu przedsiębiorcy telekomunikacyjnemu. Powierzenie to nie zwalnia powierzającego z odpowiedzialności za realizację tego obowiązku.
 
 **Art. 180c.**
 
-1. Obowiązkiem, którym mowa art. 180a ust. 1, objęte są dane niezbędne do:
+1. Obowiązkiem, o którym mowa w art. 180a ust. 1, objęte są dane niezbędne do:
 
 - **1)** ustalenia zakończenia sieci, telekomunikacyjnego urządzenia końcowego, użytkownika końcowego:
     - **a)** inicjującego połączenie,
     - **b)** do którego kierowane jest połączenie;
 
 - **2)** określenia:
-    - **a)** daty i godziny połączenia oraz czasu jego trwania, nia iutrzymania danych oraz potrze- 1) łącznej liczbie przypadków, wktóbę unikania wielokrotnego zatrzy- rych uprawnionym podmiotom, mywania iprzechowywania tych sa- sądowi iprokuratorowi były udomych danych, określi, wdrodze roz- stępnione dane, których mowa porządzenia: wart.180c ust.1;
+    - **a)** daty i godziny połączenia oraz czasu jego trwania,
+    - **b)** rodzaju połączenia,
+    - **c)** lokalizacji telekomunikacyjnego urządzenia końcowego.
 
-- **1)** szczegółowy wykaz danych, 2) czasie, jaki upłynął między datą októrych mowa wust.1; zatrzymania danych a datą złoże2) rodzaje operatorów publicznej nia przez podmioty, których sieci telekomunikacyjnej lub do- mowa pkt 1, wniosku lub uststawców publicznie dostępnych nego żądania ich udostępnieusług telekomunikacyjnych obo- nie; wiązanych do zatrzymywania iprzechowywania tych danych. 3) łącznej liczbie przypadków, wktórych wniosek lub ustne żądanie,
+2. Minister właściwy do spraw łączności w porozumieniu z ministrem właściwym do spraw wewnętrznych, mając na uwadze rodzaj wykonywanej działalności telekomunikacyjnej przez operatorów publicznej sieci telekomunikacyjnej lub dostawców publicznie dostępnych usług telekomunikacyjnych, dane określone w ust. 1, koszty pozyskania i utrzymania danych oraz potrzebę unikania wielokrotnego zatrzymywania i przechowywania tych samych danych, określi, w drodze rozporządzenia:
 
-**Art. 180d.** Przedsiębiorcy telekomunikacyjni są októrym mowa wpkt2, nie mógł obowiązani do zapewnienia warun- być zrealizowany. ków dostępu iutrwalania oraz do udostępniania uprawnionym podmiotom 2. Prezes UKE przekazuje corocznie na własny koszt, a także sądowi i pro- Komisji Europejskiej informacje, kuratorowi, przetwarzanych przez sie- októrych mowa wust.1. bie danych, októrych mowa wart.159 3. Minister właściwy do spraw łącznoust. 1 pkt 1 i pkt 3—5, art. 161 oraz ści określi, drodze rozporządzewart.179 ust.9, związanych ze świad- nia, wzór formularza służącego do czoną usługą telekomunikacyjną, na przekazywania informacji, októrych zasadach i przy zachowaniu procedur mowa wust.1, Prezesowi UKE, kieokreślonych wprzepisach odrębnych. rując się potrzebą przekazania KoArt. 180e. W celu ochrony danych, której mo- misji Europejskiej pełnej i rzetelnej wa art. 180a ust. 1 pkt 3, przedsię- informacji. biorca telekomunikacyjny stosuje wła- 4. Przedsiębiorca telekomunikacyjny ściwe środki techniczne i organizacyj- może powierzyć, drodze umowy, ne oraz zapewnia dostęp do tych da- innemu przedsiębiorcy telekomuninych jedynie upoważnionym pracow- kacyjnemu składanie Prezesowi nikom. UKE informacji, których mowa
+- **1)** szczegółowy wykaz danych, o których mowa w ust. 1;
+- **2)** rodzaje operatorów publicznej sieci telekomunikacyjnej lub dostawców publicznie dostępnych usług telekomunikacyjnych obowiązanych do zatrzymywania i przechowywania tych danych.
+
+**Art. 180d.** Przedsiębiorcy telekomunikacyjni są obowiązani do zapewnienia warunków dostępu i utrwalania oraz do udostępniania uprawnionym podmiotom na własny koszt, a także sądowi i prokuratorowi, przetwarzanych przez siebie danych, o których mowa w art. 159 ust. 1 pkt 1 i pkt 3-5, w art. 161 oraz w art. 179 ust. 9, związanych ze świadczoną usługą telekomunikacyjną, na zasadach i przy zachowaniu procedur określonych w przepisach odrębnych.
+
+**Art. 180e.** W celu ochrony danych, o której mowa w art. 180a ust. 1 pkt 3, przedsiębiorca telekomunikacyjny stosuje właściwe środki techniczne i organizacyjne oraz zapewnia dostęp do tych danych jedynie upoważnionym pracownikom.
 
 **Art. 180f.**
 
-1. Przedsiębiorca telekomunikacyjny ust. 1. W takim przypadku przedjest obowiązany dostarczać Prezeso- siębiorca telekomunikacyjny skławi UKE dane dotyczące infrastruktu- dający informację Prezesowi UKE ry telekomunikacyjnej eksploatowa- może przekazywać swoje informanej lub używanej przez tego przed- cje oraz powierzającego postaci siębiorcę, niezbędnej do przygoto- łącznej. Powierzenie to nie zwalnia wania systemów łączności na po- powierzającego z odpowiedzialnotrzeby obronne państwa, wtym sys- ści za realizację tego obowiązku.”; temu kierowania bezpieczeństwem 42) uchyla się art.181; narodowym, i aktualizować niezwłocznie po każdej zmianie. 43) art.182 otrzymuje brzmienie:
+1. Przedsiębiorca telekomunikacyjny jest obowiązany dostarczać Prezesowi UKE dane dotyczące infrastruktury telekomunikacyjnej eksploatowanej lub używanej przez tego przedsiębiorcę, niezbędnej do przygotowania systemów łączności na potrzeby obronne państwa, w tym systemu kierowania bezpieczeństwem narodowym, i aktualizować niezwłocznie po każdej zmianie.
 
-2. Dane, których mowa ust. 1, są ŃArt. 182. Rada Ministrów określi, drodze rozgromadzone bazie danych utwo- porządzenia, wymagania techniczne rzonej i zarządzanej przez Prezesa i eksploatacyjne dla interfejsów, któUKE. Bazę aktualizuje się niezwłocz- rych mowa art. 179 ust. 4a, umożlinie po każdej zmianie danych. wiających wykonywanie zadań i obowiązków na rzecz obronności, bezpie3. Minister właściwy do spraw łączno- czeństwa państwa oraz bezpieczeństwa ści określi, wdrodze rozporządzenia, i porządku publicznego, których moŃ2. Prezes UKE składa ministrowi właściwemu do spraw łączności coroczne sprawozdanie ze swojej działalności regulacyjnej oraz realizacji polityki rządu iwspólnotowej polityki telekomunikacyjnej, za rok poprzedni, terminie do dnia 30 kwietnia. Minister właściwy do spraw łączności opiniuje sprawozdanie terminie miesiąca od dnia jego przedstawienia przez Prezesa UKE i przekazuje sprawozdanie wraz z opinią Prezesowi Rady Ministrów.”, Po upływie kadencji Prezes UKE pełni swoją funkcję do czasu powołania następcy.”,
+2. Dane, o których mowa w ust. 1, są gromadzone w bazie danych utworzonej i zarządzanej przez Prezesa UKE. Bazę aktualizuje się niezwłocznie po każdej zmianie danych.
 
-- **b)** po ust.2 dodaje się ust.2a wbrzmieniu: Ń2a. Prezes UKE przekazuje ministrowi właściwemu do spraw łączności, na jego żądanie, informacje oswojej działalności.”,
-- **c)** ust.4 otrzymuje brzmienie: Ń4. Prezesa UKE powołuje i odwołuje Sejm za zgodą Senatu na wniosek Prezesa Rady Ministrów. Kadencja Prezesa UKE trwa 5 lat.
-- **d)** po ust.4 dodaje się ust.4a wbrzmieniu: Ń4a. Prezes UKE może być odwołany przed upływem kadencji, na którą został powołany, wyłącznie wprzypadku:
+3. Minister właściwy do spraw łączności określi, w drodze rozporządzenia, szczegółowy zakres danych, o których mowa w ust 1, formę i tryb ich dostarczania oraz aktualizacji, mając na uwadze warunki i sposób przygotowania oraz wykorzystania systemów łączności na potrzeby obronne państwa, bezpieczeństwo przekazywanych danych oraz zapewnienie ich jednorodnej postaci.
+
+**Art. 180g.**
+
+1. Przedsiębiorca telekomunikacyjny, w terminie do dnia 31 stycznia, składa Prezesowi UKE, za rok poprzedni informacje o:
+
+- **1)** łącznej liczbie przypadków, w których uprawnionym podmiotom, sądowi i prokuratorowi były udostępnione dane, o których mowa w art. 180c ust. 1;
+- **2)** czasie, jaki upłynął między datą zatrzymania danych a datą złożenia przez podmioty, o których mowa w pkt 1, wniosku lub ustnego żądania o ich udostępnienie;
+- **3)** łącznej liczbie przypadków, w których wniosek lub ustne żądanie, o którym mowa w pkt 2, nie mógł być zrealizowany.
+
+2. Prezes UKE przekazuje corocznie Komisji Europejskiej informacje, o których mowa w ust. 1.
+
+3. Minister właściwy do spraw łączności określi, w drodze rozporządzenia, wzór formularza służącego do przekazywania informacji, o których mowa w ust. 1, Prezesowi UKE, kierując się potrzebą przekazania Komisji Europejskiej pełnej i rzetelnej informacji.
+
+4. Przedsiębiorca telekomunikacyjny może powierzyć, w drodze umowy, innemu przedsiębiorcy telekomunikacyjnemu składanie Prezesowi UKE informacji, o których mowa w ust. 1. W takim przypadku przedsiębiorca telekomunikacyjny składający informację Prezesowi UKE może przekazywać swoje informacje oraz powierzającego w postaci łącznej. Powierzenie to nie zwalnia powierzającego z odpowiedzialności za realizację tego obowiązku.”;
+
+- **42)** uchyla się art. 181;
+- **43)** art. 182 otrzymuje brzmienie: „Art. 182. Rada Ministrów określi, w drodze rozporządzenia, wymagania techniczne i eksploatacyjne dla interfejsów, o których mowa w art. 179 ust. 4a, umożliwiających wykonywanie zadań i obowiązków na rzecz obronności, bezpieczeństwa państwa oraz bezpieczeństwa i porządku publicznego, o których mowa w art. 179 ust. 3 i w art. 180d, kierując się zasadą minimalizacji nakładów przedsiębiorcy telekomunikacyjnego i podmiotów uprawnionych.”;
+- **44)** tytuł działu X otrzymuje brzmienie: „Dział X Administracja łączności i postępowanie przed Prezesem UKE”;
+- **45)** w art. 190:
+    - **a)** ust. 2 otrzymuje brzmienie: „2. Prezes UKE składa ministrowi właściwemu do spraw łączności coroczne sprawozdanie ze swojej działalności regulacyjnej oraz realizacji polityki rządu i wspólnotowej polityki telekomunikacyjnej, za rok poprzedni, w terminie do dnia 30 kwietnia. Minister właściwy do spraw łączności opiniuje sprawozdanie w terminie miesiąca od dnia jego przedstawienia przez Prezesa UKE i przekazuje sprawozdanie wraz z opinią Prezesowi Rady Ministrów.”,
+    - **b)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Prezes UKE przekazuje ministrowi właściwemu do spraw łączności, na jego żądanie, informacje o swojej działalności.”,
+    - **c)** ust. 4 otrzymuje brzmienie: „4. Prezesa UKE powołuje i odwołuje Sejm za zgodą Senatu na wniosek Prezesa Rady Ministrów. Kadencja Prezesa UKE trwa 5 lat. Po upływie kadencji Prezes UKE pełni swoją funkcję do czasu powołania następcy.”,
+    - **d)** po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. Prezes UKE może być odwołany przed upływem kadencji, na którą został powołany, wyłącznie w przypadku:
+
 - **1)** rażącego naruszenia prawa;
 - **2)** skazania prawomocnym wyrokiem sądu za popełnione umyślnie przestępstwo lub przestępstwo skarbowe;
-- **3)** orzeczenia zakazu zajmowania kierowniczych stanowisk lub pełnienia funkcji związanych ze szczególną odpowiedzialnością worganach państwa;
-- **4)** choroby trwale uniemożliwiającej wykonywanie zadań; pkt18 otrzymuje brzmienie: Ń18) przedstawianie Komisji Europejskiej iorganom regulacyjnym innych państw informacji z zakresu telekomunikacji, tym wykonywanie obowiązków notyfikacyjnych, obejmujących przekazywanie treści postanowień, októrych mowa wart.23 ust.1, oraz informacje oprzedsiębiorcach telekomunikacyjnych, którzy zostali uznani za posiadających znaczącą pozycję rynkową, świadczących usługę powszechną irealizujących połączenia sieci telekomunikacyjnych oraz
+- **3)** orzeczenia zakazu zajmowania kierowniczych stanowisk lub pełnienia funkcji związanych ze szczególną odpowiedzialnością w organach państwa;
+- **4)** choroby trwale uniemożliwiającej wykonywanie zadań;
 - **5)** złożenia rezygnacji.”;
-- **46)** wart.192: sprawie roamingu publicznych sieciach telefonii ruchomej wewnątrz Wspólnoty oraz zmieniającego dyrektywę 2002/21/WE (Dz. Urz. WE L 171 nałożonych na nich obowiązkach;”,
-    - **a)** wust.1: po pkt5 dodaje się pkt5a—5c wbrzmieniu: Ń5a) kontrolowanie realizacji obowiązków wynikających z przepisów rozporządzenia WE nr717/2007 Parlamentu Europejskiego i Rady z dnia 27 czerwca 2007 r.
-    - **b)** uchyla się ust.2;
-    - **c)** ust.3 otrzymuje brzmienie: Ń3. Na podstawie informacji uzyskanych od przedsiębiorców telekomunikacyjnych Prezes UKE terminie do dnia 30 czerwca ogłasza raport ostanie rynku telekomunikacyjnego za rok ubiegły. Raport publikuje się Biuletynie Informacji Publicznej Urzędu Komunikacji Elektronicznej.”;
+- **46)** w art. 192:
+    - **a)** w ust. 1: - po pkt 5 dodaje się pkt 5a-5c w brzmieniu: „5a) kontrolowanie realizacji obowiązków wynikających z przepisów rozporządzenia WE nr 717/2007 Parlamentu Europejskiego i Rady z dnia 27 czerwca 2007 r. w sprawie roamingu w publicznych sieciach telefonii ruchomej wewnątrz Wspólnoty oraz zmieniającego dyrektywę 2002/21/WE (Dz. Urz. WE L 171 z 29.06.2007, str. 32);
 
-- **47)** wart.206 ust.2—2b otrzymują brzmienie: Ń2. Od decyzji sprawach ustalenie znaczącej pozycji rynkowej, nałożenia, zniesienia lub zmiany obowiązków regulacyjnych, nałożenia kar, decyzji, których mowa art. 201 ust. 3 oraz od decyzji wydawanych sprawach spornych, zwyjątkiem decyzji wsprawie rezerwacji częstotliwości po przeprowadzeniu przetargu albo konkursu oraz od decyzji ouznaniu przetargu albo konkursu za nierozstrzygnięty, przysługuje odwołanie do Sądu Okręgowego Warszawie sądu ochrony konkurencji ikonsumentów.
+- **5b)** wykonywanie kontroli nad operatorami publicznej sieci telekomunikacyjnej i dostawcami publicznie dostępnych usług telekomunikacyjnych w zakresie realizacji obowiązków, o których mowa w art. 180a ust. 1, z wyjątkiem realizacji obowiązków dotyczących danych osobowych chronionych zgodnie z przepisami o ochronie danych osobowych;
+- **5c)** prowadzenie baz danych, o których mowa w art. 71 ust. 4 oraz w art. 180f ust. 2;”, - pkt 18 otrzymuje brzmienie: „18) przedstawianie Komisji Europejskiej i organom regulacyjnym innych państw informacji z zakresu telekomunikacji, w tym wykonywanie obowiązków notyfikacyjnych, obejmujących przekazywanie treści postanowień, o których mowa w art. 23 ust. 1, oraz informacje o przedsiębiorcach telekomunikacyjnych, którzy zostali uznani za posiadających znaczącą pozycję rynkową, świadczących usługę powszechną i realizujących połączenia sieci telekomunikacyjnych oraz nałożonych na nich obowiązkach;”,
+    - **b)** uchyla się ust. 2;
+    - **c)** ust. 3 otrzymuje brzmienie: „3. Na podstawie informacji uzyskanych od przedsiębiorców telekomunikacyjnych Prezes UKE w terminie do dnia 30 czerwca ogłasza raport o stanie rynku telekomunikacyjnego za rok ubiegły. Raport publikuje się w Biuletynie Informacji Publicznej Urzędu Komunikacji Elektronicznej.”;
 
-2a. Decyzje, których mowa ust. 2, z wyjątkiem decyzji sprawie nałożenia kar, podlegają natychmiastowemu wykonaniu.
+- **47)** w art. 206 ust. 2-2b otrzymują brzmienie: „2. Od decyzji w sprawach o ustalenie znaczącej pozycji rynkowej, nałożenia, zniesienia lub zmiany obowiązków regulacyjnych, nałożenia kar, decyzji, o których mowa w art. 201 ust. 3 oraz od decyzji wydawanych w sprawach spornych, z wyjątkiem decyzji w sprawie rezerwacji częstotliwości po przeprowadzeniu przetargu albo konkursu oraz od decyzji o uznaniu przetargu albo konkursu za nierozstrzygnięty, przysługuje odwołanie do Sądu Okręgowego w Warszawie – sądu ochrony konkurencji i konsumentów.
 
-2b. Na postanowienie, októrym mowa wart.23, przysługuje zażalenie do Sądu Okręgowego Warszawie sądu ochrony konkurencji ikonsumentów.”;
+2a. Decyzje, o których mowa w ust. 2, z wyjątkiem decyzji w sprawie nałożenia kar, podlegają natychmiastowemu wykonaniu.
 
-- **48)** wart.209:
-    - **a)** wust.1: po pkt13 dodaje się punkt 13a wbrzmieniu: oraz zmieniającego dyrektywę 2002/21/WE,
+2b. Na postanowienie, o którym mowa w art. 23, przysługuje zażalenie do Sądu Okręgowego w Warszawie - sądu ochrony konkurencji i konsumentów.”;
 
+- **48)** w art. 209:
+    - **a)** w ust. 1: - po pkt 13 dodaje się punkt 13a w brzmieniu: „13a) nie wypełnia lub nienależycie wypełnia obowiązki określone w art. 36, art. 56 ust. 5, art. 57 ust. 6, art. 60, art. 60a ust. 2 i art. 61 ust. 6,”, - dodaje się pkt 28-31 w brzmieniu: „28) nie wypełnia obowiązków wynikających z art. 180g,
+
+- **29)** nie wypełnia obowiązków określonych w art. 3-6 rozporządzenia WE nr 717/2007 Parlamentu Europejskiego i Rady z dnia 27 czerwca 2007 r. w sprawie roamingu w publicznych sieciach telefonii ruchomej wewnątrz Wspólnoty oraz zmieniającego dyrektywę 2002/21/WE,
 - **30)** nie wypełnia lub nienależycie wypełnia obowiązki regulacyjne związane z prowadzeniem rachunkowości regulacyjnej lub kalkulacji kosztów,
-- **31)** nie wypełnia lub nienależycie wypełnia obowiązki opracowania i przedłożenia do zatwierdzenia przez Prezesa UKE oraz stosowania oferty ramowej dostępie telekomunikacyjnym.”,
-    - **b)** ust.2 otrzymuje brzmienie: Ń2. Niezależnie od kary pieniężnej, której mowa ust. 1, Prezes UKE może nałożyć na kierującego przedsiębiorstwem telekomunikacyjnym, szczególności osobę pełniącą funkcję kierowniczą lub wchodzącą skład organu zarządzającego przedsiębiorcy telekomunikacyjnego lub związku takich przedsiębiorców, karę pieniężną wysokości do 300 % jego miesięcznego wynagrodzenia, naliczanego jak dla celów ekwiwalentu za urlop wypoczynkowy.”;
+- **31)** nie wypełnia lub nienależycie wypełnia obowiązki opracowania i przedłożenia do zatwierdzenia przez Prezesa UKE oraz stosowania oferty ramowej o dostępie telekomunikacyjnym.”,
+    - **b)** ust. 2 otrzymuje brzmienie: „2. Niezależnie od kary pieniężnej, o której mowa w ust. 1, Prezes UKE może nałożyć na kierującego przedsiębiorstwem telekomunikacyjnym, w szczególności osobę pełniącą funkcję kierowniczą lub wchodzącą w skład organu zarządzającego przedsiębiorcy telekomunikacyjnego lub związku takich przedsiębiorców, karę pieniężną w wysokości do 300% jego miesięcznego wynagrodzenia, naliczanego jak dla celów ekwiwalentu za urlop wypoczynkowy.”;
 
-- **49)** użyte art. 34 ust. 1, art. 36, art. 37 ust. 1, art. 38 ust. 1, art. 42 ust. 1 oraz art. 43 ust. 3 wyrazy Ńart. 25 ust. 4” zastępuje się wyrazami Ńart. 24 pkt2 lit. a”;
-- **50)** użyte art. 46 ust. 1 i wart. 134 wyrazy Ńart. 23” zastępuje się wyrazami Ńart.21”.
+- **49)** użyte w art. 34 ust. 1, art. 36, art. 37 ust. 1, art. 38 ust. 1, art. 42 ust. 1 oraz art. 43 ust. 3 wyrazy „art. 25 ust. 4” zastępuje się wyrazami „art. 24 pkt 2 lit. a”;
+- **50)** użyte w art. 46 ust. 1 i w art. 134 wyrazy „art. 23” zastępuje się wyrazami „art. 21”.
 
-**Art. 2.** Wustawie zdnia 6 kwietnia 1990r. oPolicji (Dz. U. z 2007 r. 43, poz. 277, z póên. zm. ) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2007 r. Nr 43, poz. 277, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 5.** W ustawie z dnia 6 czerwca 1997 r. Kodeks postępowania karnego (Dz. U. 89, poz. 555, udziału pracowników podmiotu pro- zpóên. zm. wadzącego działalność telekomunikacyjną lub przy niezbędnym ich udziale, jeżeli możliwość taką przewiduje porozumienie zawarte pomiędzy Generalnym Inspektorem Kontroli Skarbowej atym podmiotem. 4. Podmiot występujący z wnioskiem, którym mowa ust. 2, informację wystąpieniu z wnioskiem przekazuje niezwłocznie ministrowi właściwemu do spraw finansów publicznych. Minister właściwy do spraw finansów publicznych wkażdej chwili może zażądać od Generalnego Inspektora Kontroli Skarbowej informacji oprzyczynach uzasadniających wystąpienie z wnioskiem, a także sposobie wykorzystania danych uzyskanych od podmiotu prowadzącego działalność telekomunikacyjną lub operatora świadczącego usługi pocztowe. 5. Minister właściwy do spraw finansów publicznych nakazuje niezwłoczne, komisyjne i protokolarne zniszczenie danych uzyskanych od podmiotu prowadzącego działalność telekomunikacyjną lub operatora świadczącego usługi pocztowe, przypadku gdy uzna wystąpienie z wnioskiem, którym mowa wust.2, za nieuzasadnione. 6. Udostępnienie wywiadowi skarbowemu danych telekomunikacyjnych może nastąpić za pośrednictwem sieci telekomunikacyjnej, jeżeli sieć ta zapewnia: ) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2005 r. Nr 234, poz. 1997, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 6.** Wustawie zdnia 16 marca 2001r. oBiurze Ochrony Rządu (Dz. U. z 2004 r. 163, poz. 1712, zpóên. zm. ) po art.7 dodaje się art.7a wbrzmieniu: ŃArt. 7a. 1. Szef BOR, celu realizacji zadań BOR, określonych art. 2 ust. 1, może zarządzić zastosowaniu urządzeń uniemożliwiających telekomunikację na określonym obszarze, przez czas niezbędny do wykonywania czynności przez BOR, z uwzględnieniem konieczności minimalizacji skutków braku możliwości korzystania zusług telekomunikacyjnych. 2. O zastosowaniu urządzeń, których mowa wust.1, Szef BOR niezwłocznie informuje Prezesa Urzędu Komunikacji Elektronicznej.”.
+**Art. 4.** W ustawie z dnia 28 września 1991 r. o kontroli skarbowej (Dz. U. z 2004 r. Nr 8, poz. 65, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 7.** Wustawie zdnia 24 sierpnia 2001r. o˚andarmerii Wojskowej i wojskowych organach porządkowych (Dz.U. Nr123, poz.1353, zpóên. zm. ) wprowadza się następujące zmiany:
+**Art. 5.** W ustawie z dnia 6 czerwca 1997 r. - Kodeks postępowania karnego (Dz. U. Nr 89, poz. 555, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 8.** Wustawie zdnia 24 maja 2002r. oAgencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. 74, poz. 676, z póên. zm. ) wprowadza się następujące zmiany:
+**Art. 6.** W ustawie z dnia 16 marca 2001 r. o Biurze Ochrony Rządu (Dz. U. z 2004 r. Nr 163, poz. 1712, z późń. zm. ) po art. 7 dodaje się art. 7a w brzmieniu: „Art. 7a. 1. Szef BOR, w celu realizacji zadań BOR, określonych w art. 2 ust. 1, może zarządzić o zastosowaniu urządzeń uniemożliwiających telekomunikację na określonym obszarze, przez czas niezbędny do wykonywania czynności przez BOR, z uwzględnieniem konieczności minimalizacji skutków braku możliwości korzystania z usług telekomunikacyjnych. 2. O zastosowaniu urządzeń, o których mowa w ust. 1, Szef BOR niezwłocznie informuje Prezesa Urzędu Komunikacji Elektronicznej.”.
 
-**Art. 9.** Wustawie zdnia 28 lutego 2003r. Prawo upadłościowe i naprawcze (Dz. U. 60, poz. 535, ), zpóên. zm. ) wart.53 dodaje się ust.6 wbrzmieniu: ——————— Ń6. Jeżeli upadły jest operatorem publicznej sieci telekomunikacyjnej lub dostawcą publicznie dostępnych usług telekomunikacyjnych rozumieniu przepisów ustawy zdnia 16 lipca 2004r. Prawo telekomunikacyjne (Dz. U. 171, poz. 1800, ——————— poz.708, zpóên. zm. ) art.18 otrzymuje brzmienie: ŃArt. 18. 1. Obowiązek uzyskania zgody sądu, której mowa art. 17, nie dotyczy informacji niezbędnych do realizacji przez CBA zadań określonych wart.2, wpostaci danych:
+**Art. 7.** W ustawie z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. Nr 123, poz. 1353, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 11.** Wustawie zdnia 9 czerwca 2006r. oSłużbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego (Dz. U. 104, poz. 709 i 218, poz. 1592 oraz z 2007 r. 25, poz. 162) wprowadza się następujące zmiany:
+**Art. 8.** W ustawie z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. Nr 74, poz. 676, z późn. zm. ) wprowadza się następujące zmiany:
+
+**Art. 9.** W ustawie z dnia 28 lutego 2003 r. - Prawo upadłościowe i naprawcze (Dz. U. Nr 60, poz. 535, z późn. zm. ) w art. 53 dodaje się ust. 6 w brzmieniu: „6. Jeżeli upadły jest operatorem publicznej sieci telekomunikacyjnej lub dostawcą publicznie dostępnych usług telekomunikacyjnych w rozumieniu przepisów ustawy z dnia 16 lipca 2004 r. - Prawo telekomunikacyjne (Dz. U. Nr 171, poz. 1800, z późn. zm. ), o ogłoszeniu upadłości powiadamia się Prezesa Urzędu Komunikacji Elektronicznej. Powiadomienie następuje w dniu ogłoszenia upadłości i dokonuje się go przy zastosowaniu środków bezpośredniego przekazu informacji, takich jak telefon, faks, poczta elektroniczna.”.
+
+**Art. 10.** W ustawie z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. Nr 104, poz. 708, z późn. zm. ) art. 18 otrzymuje brzmienie: „Art. 18. 1. Obowiązek uzyskania zgody sądu, o której mowa w art. 17, nie dotyczy informacji niezbędnych do realizacji przez CBA zadań określonych w art. 2, w postaci danych:
+
+**Art. 11.** W ustawie z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego (Dz. U. Nr 104, poz. 709 i Nr 218, poz. 1592 oraz z 2007 r. Nr 25, poz. 162) wprowadza się następujące zmiany:
+
+**Art. 12.** W ustawie z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym (Dz. U. Nr 89, poz. 590 oraz z 2009 r. Nr 11, poz. 59 i Nr 65, poz. 533) po art. 11 dodaje się art. 11a w brzmieniu: „Art. 11a. Centrum informuje Komisję Europejską i państwa członkowskie Unii Europejskiej o środkach zastosowanych w sytuacji kryzysowej w celu zabezpieczenia prawidłowego działania publicznej sieci telekomunikacyjnej oraz stacji nadawczych i odbiorczych używanych do zapewnienia bezpieczeństwa, w zakresie dotyczącym systemu łączności i sieci teleinformatycznych.”.
+
+**Art. 13.**
+
+1. Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe, z zastrzeżeniem ust. 2 i 3.
+
+2. Sprawy wszczęte na podstawie art. 179 ust. 6 ustawy, o której mowa w art. 1, i art. 40 ust. 2 ustawy z dnia 21 lipca 2000 r. – Prawo telekomunikacyjne (Dz. U. Nr 73, poz. 852, z późn. zm. ), niezakończone przed dniem wejścia w życie niniejszej ustawy, umarza się.
+
+3. W zakresie opłat z tytułu dostępu telekomunikacyjnego do spraw wszczętych i nie zakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się art. 39 i art. 40 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
 **Art. 14.**
 
-1. Dotychczasowe przepisy wykonawcze wydane na podstawie art.176 ust.4 iart.181 ustawy, której mowa art. 1, zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych na podstawie art.176a ust.5 iart.179 ust.12 tej ustawy wbrzmieniu nadanym niniejszą ustawą.
+1. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 176 ust. 4 i art. 181 ustawy, o której mowa w art. 1, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 176a ust. 5 i art. 179 ust. 12 tej ustawy w brzmieniu nadanym niniejszą ustawą.
 
-2. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 218b ustawy, której mowa wart.5, zachowują moc do dnia wejścia wżycie przepisów wykonawczych wydanych na podstawie art. 218b tej ustawy brzmieniu nadanym niniejszą ustawą.
+2. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 218b ustawy, o której mowa w art. 5, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 218b tej ustawy w brzmieniu nadanym niniejszą ustawą.
 
-3. Przepis art. 165 ust. 1 i art. 166 ust. 5 ustawy, której mowa art. 1, zachowuje moc do dnia wejścia życie przepisów wydanych na podstawie art.180c ust.2 ustawy, októrej mowa wart.1, jednak nie póêniej niż wterminie do 31 grudnia 2009r. ——————— ——————— terfejsy, októrych mowa wust.1, do wymogu okreś- Art. 18. Ustawa wchodzi wżycie po upływie 30 dni lonego art. 179 ust. 4b zdanie pierwsze, ustawy od dnia ogłoszenia, zwyjątkiem art.1 pkt41 wzakreoktórej mowa wart.1, wterminie 6 miesięcy od dnia sie art. 180a ust. 3, który wchodzi życie z dniem wejścia wżycie niniejszej ustawy. 1stycznia 2010r.
+3. Przepis art. 165 ust. 1 i art. 166 ust. 5 ustawy, o której mowa w art. 1, zachowuje moc do dnia wejścia w życie przepisów wydanych na podstawie art. 180c ust. 2 ustawy, o której mowa w art. 1, jednak nie później niż w terminie do 31 grudnia 2009 r.
 
-**Art. 16.** Prezes UKE powołany przed dniem wejścia życie niniejszej ustawy pełni swoją funkcję Prezydent Rzeczypospolitej Polskiej: L. Kaczyński
+**Art. 15.**
+
+1. Dopuszcza się możliwość zapewniania warunków dostępu i utrwalania za pomocą interfejsów, o których mowa w art. 179 ust. 4a ustawy, o której mowa w art. 1, przygotowanych przed dniem wejścia w życie niniejszej ustawy, pod warunkiem, że spełniają one wymagania określone w art. 179 ust. 4-4b i w art. 180d ustawy, o której mowa w art. 1, oraz w przepisach odrębnych.
+
+2. Przedsiębiorca telekomunikacyjny dostosuje interfejsy, o których mowa w ust. 1, do wymogu określonego w art. 179 ust. 4b zdanie pierwsze, ustawy o której mowa w art. 1, w terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
+
+**Art. 16.** Prezes UKE powołany przed dniem wejścia w życie niniejszej ustawy pełni swoją funkcję przez okres 5 lat od dnia powołania. Po upływie kadencji Prezes UKE pełni swoją funkcję do czasu powołania następcy.
+
+**Art. 17.** Bazy danych, o których mowa w art. 71 ust. 4 oraz w art. 180f ust. 2 ustawy, o której mowa w art. 1, tworzy się nie później niż po upływie 24 miesięcy od dnia wejścia w życie niniejszej ustawy.
+
+**Art. 18.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 41 w zakresie art. 180a ust. 3, który wchodzi w życie z dniem 1 stycznia 2010 r.
 

@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 8 grudnia 2020 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy o zapobieganiu szkodom środowisku i ich naprawie
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 18 listopada 2020 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002187) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2187/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 18 listopada 2020 r.
-sprawie ogłoszenia jednolitego tekstu ustawy o zapobieganiu szkodom środowisku i ich naprawie
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom środowisku i ich naprawie (Dz. U. z 2019 r.
 poz. 1862), z uwzględnieniem zmian wprowadzonych:
 1) ustawą z dnia 23 stycznia 2020 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 284),
@@ -35,9 +35,8 @@ poz. 1862), z uwzględnieniem zmian wprowadzonych:
 2. Organy, które przejęły zadania i kompetencje na podstawie niniejszej ustawy, przejmują związane z tymi zadaniami i kompetencjami prawa i obowiązki organów, które utraciły te zadania i kompetencje, tym także wynikające z umów i porozumień.
 3. Akta spraw, rejestry, ewidencje, listy i bazy danych, prowadzone przed dniem wejścia życie niniejszej ustawy przez organy, które utraciły zadania i kompetencje na podstawie niniejszej ustawy, przejmują organy, które przejęły od nich tym zakresie zadania i kompetencje na podstawie niniejszej ustawy.
 4. Organy, które utraciły zadania i kompetencje na podstawie niniejszej ustawy, przekazują niezwłocznie organom, które przejęły od nich zadania i kompetencje na podstawie niniejszej ustawy, dokumentację związaną z wykonywaniem przejętych zadań i kompetencji, tym także postaci informatycznych nośników danych.
-5. Z czynności, o których mowa ust. 3 i 4, sporządza się protokół.” „Art. 101. Czynności dokonane przed dniem wejścia życie niniejszej ustawy przez organy, które utraciły zadania i kompetencje na podstawie niniejszej ustawy, a także dokumenty sporządzone przed dniem wejścia życie niniejszej ustawy przez te organy albo przy ich udziale, szczególności uzgodnienia, zatwierdzenia, akceptacje, wezwania, wpisy do rejestrów, zlecenia, wskazania, weryfikacje, notyfikacje, opinie i zaświadczenia, zachowują ważność, przy czym dokumenty wydane na czas określony zachowują ważność przez okres, na który zostały wydane.”
+5. Z czynności, o których mowa ust. 3 i 4, sporządza się protokół.” „Art. 101. Czynności dokonane przed dniem wejścia życie niniejszej ustawy przez organy, które utraciły zadania i kompetencje na podstawie niniejszej ustawy, a także dokumenty sporządzone przed dniem wejścia życie niniejszej ustawy przez te organy albo przy ich udziale, szczególności uzgodnienia, zatwierdzenia, akceptacje, wezwania, wpisy do rejestrów, zlecenia, wskazania, weryfikacje, notyfikacje, opinie i zaświadczenia, zachowują ważność, przy czym dokumenty wydane na czas określony zachowują ważność przez okres, na który zostały wydane.” „Art. 114. Ustawa wchodzi życie po upływie 7 dni od dnia ogłoszenia, z wyjątkiem art. 106 ust. 4, art. 107 ust. 2 i art. 108 ust. 2, które wchodzą życie z dniem następującym po dniu ogłoszenia.”;
 2) art. 15 ustawy z dnia 28 maja 2020 r. o zmianie ustawy o substancjach chemicznych i ich mieszaninach oraz niektórych innych ustaw (Dz. U. poz. 1337), który stanowi: „Art. 15. Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia.”.
-Marszałek Sejmu: E. Witek
 USTAWA z dnia 13 kwietnia 2007 r.
 o zapobieganiu szkodom środowisku i ich naprawie
 Art. 30–34. (pominięte)
@@ -107,9 +106,9 @@ Art. 30–34. (pominięte)
 
 2. Jeżeli bezpośrednie zagrożenie szkodą środowisku lub szkoda środowisku wystąpiły na obszarze dwóch lub więcej województw, właściwy jest regionalny dyrektor ochrony środowiska, który pierwszy powziął informację o ich wystąpieniu.
 
-3. Regionalny dyrektor ochrony środowiska, o którym mowa ust. 2, podejmuje działania porozumieniu z regionalnym dyrektorem ochrony środowiska, na którego obszarze działania wystąpiło bezpośrednie zagrożenie szkodą środowisku lub szkoda środowisku.
+3. Regionalny dyrektor ochrony środowiska, o którym mowa ust. 2, podejmuje działania porozumieniu z regionalnym dyrektorem ochrony środowiska, na którego obszarze działania wystąpiło bezpośrednie zagrożenie szkodą środowisku lub szkoda środowisku. na obszarach morskich, właściwość miejscową regionalnego dyrektora ochrony środowiska ustala się wzdłuż linii brzegu morskiego na terenie danego województwa.
 
-4. W przypadku wystąpienia bezpośredniego zagrożenia szkodą środowisku lub szkody środowisku wodach na obszarach morskich, właściwość miejscową regionalnego dyrektora ochrony środowiska ustala się wzdłuż linii brzegu morskiego na terenie danego województwa. rach morskich obejmuje obszar morski wzdłuż linii brzegu morskiego dwóch województw, właściwy jest regionalny dyrektor ochrony środowiska, który pierwszy powziął informację o ich wystąpieniu.
+5. W przypadku gdy bezpośrednie zagrożenie szkodą środowisku lub szkoda środowisku wodach na obszarach morskich obejmuje obszar morski wzdłuż linii brzegu morskiego dwóch województw, właściwy jest regionalny dyrektor ochrony środowiska, który pierwszy powziął informację o ich wystąpieniu.
 
 6. Regionalny dyrektor ochrony środowiska, o którym mowa ust. 5, podejmuje działania porozumieniu z regionalnym dyrektorem ochrony środowiska, na którego obszarze działania wystąpiło bezpośrednie zagrożenie szkodą środowisku lub szkoda środowisku.
 
@@ -149,11 +148,13 @@ Art. 30–34. (pominięte)
 
 1. Jeżeli bezpośrednie zagrożenie szkodą środowisku lub szkoda środowisku zostały spowodowane przez więcej niż jeden podmiot korzystający ze środowiska, odpowiedzialność tych podmiotów za podejmowanie działań zapobiegawczych i naprawczych jest solidarna.
 
-2. Jeżeli bezpośrednie zagrożenie szkodą środowisku lub szkoda środowisku zostały spowodowane za zgodą lub wiedzą władającego powierzchnią ziemi, jest on obowiązany do podejmowania działań zapobiegawczych i naprawczych solidarnie z podmiotem korzystającym ze środowiska, który je spowodował.
+2. Jeżeli bezpośrednie zagrożenie szkodą środowisku lub szkoda środowisku zostały spowodowane za zgodą lub wiedzą władającego powierzchnią ziemi, jest on obowiązany do podejmowania działań zapobiegawczych i naprawczych solidarnie z podmiotem korzystającym ze środowiska, który je spowodował. średnim zagrożeniu szkodą środowisku lub szkodzie środowisku dokonał zgłoszenia na podstawie art. 24.
 
-3. Przepisu ust. 2 nie stosuje się, jeżeli władający powierzchnią ziemi niezwłocznie po uzyskaniu wiedzy o bezpośrednim zagrożeniu szkodą środowisku lub szkodzie środowisku dokonał zgłoszenia na podstawie art. 24.
+4. W przypadku, o którym mowa ust. 2, decyzję, o której mowa art. 13 i art. 15, kieruje się także do władającego powierzchnią ziemi.
 
-4. W przypadku, o którym mowa ust. 2, decyzję, o której mowa art. 13 i art. 15, kieruje się także do władającego powierzchnią ziemi. ochrony środowiska.
+**Art. 13.**
+
+1. Podmiot korzystający ze środowiska uzgadnia warunki przeprowadzenia działań naprawczych z organem ochrony środowiska.
 
 2. Wniosek o uzgodnienie warunków przeprowadzenia działań naprawczych odniesieniu do szkody środowisku gatunkach chronionych lub chronionych siedliskach przyrodniczych lub wodach zawiera informacje dotyczące:
 
@@ -184,12 +185,13 @@ Art. 30–34. (pominięte)
     - **c)** termin rozpoczęcia i zakończenia działań naprawczych,
     - **d)** sposób potwierdzenia osiągnięcia założonego efektu ekologicznego;
 
-- **2)** dla szkody środowisku powierzchni ziemi ustalającej plan remediacji, z uwzględnieniem art. 217d ust. 3–5 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska, określającej: sób, że nie można zapewnić jednoczesnego podjęcia działań naprawczych odniesieniu do wszystkich tych szkód, organ ochrony środowiska może określić, odniesieniu do których szkód należy podjąć działania naprawcze pierwszej kolejności.
+- **2)** dla szkody środowisku powierzchni ziemi ustalającej plan remediacji, z uwzględnieniem art. 217d ust. 3–5 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska, określającej:
     - **a)** teren wymagający przeprowadzenia remediacji, poprzez wskazanie adresu i numerów działek ewidencyjnych oraz jego powierzchni,
     - **b)** nazwy substancji powodujących ryzyko oraz ich zawartości glebie i ziemi, do jakich doprowadzi remediacja,
-    - **c)** sposób przeprowadzenia remediacji,
     - **d)** termin rozpoczęcia i zakończenia remediacji,
     - **e)** sposób potwierdzenia przeprowadzenia remediacji oraz termin przedłożenia dokumentacji z jej przeprowadzenia, tym wyników badań zanieczyszczenia gleby i ziemi wykonanych przez laboratorium, o którym mowa art. 147a ust. 1 pkt 1 lub ust. 1a ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska.
+
+4. W decyzji, o której mowa ust. 3, przypadku wystąpienia więcej niż jednej szkody środowisku, taki sposób, że nie można zapewnić jednoczesnego podjęcia działań naprawczych odniesieniu do wszystkich tych szkód, organ ochrony środowiska może określić, odniesieniu do których szkód należy podjąć działania naprawcze pierwszej kolejności.
 
 4a. W przypadku wystąpienia więcej niż jednej szkody środowisku, tym szkody środowisku powierzchni ziemi, wniosek o uzgodnienie warunków prowadzenia działań naprawczych zawiera informacje, o których mowa ust. 2 i 2a.
 
@@ -214,38 +216,19 @@ Art. 30–34. (pominięte)
 
 **Art. 14.** Minister właściwy do spraw klimatu porozumieniu z ministrem właściwym do spraw środowiska, uwzględniając wpływ podejmowanych działań na zdrowie i bezpieczeństwo ludzi, potrzebę minimalizacji kosztów tych działań, możliwość osiągnięcia celów naprawy i przeciwdziałanie przyszłym szkodom środowisku lub pogłębianiu istniejących szkód środowisku oraz wpływ działań naprawczych na stan elementów przyrodniczych lub ich funkcje, określi drodze rozporządzenia:
 
-**Art. 15.**
-
-1. Jeżeli podmiot korzystający ze środowiska lub przypadku, o którym mowa art. 12 ust. 2, podmiot korzystający ze środowiska lub władający powierzchnią ziemi nie podejmie działań zapobiegawczych lub nie uzgodni działań naprawczych, organ ochrony środowiska:
-
-- **1)** wzywa do przedłożenia określonym terminie wniosku o uzgodnienie warunków przeprowadzenia odpowiednio działań zapobiegawczych lub naprawczych;
-- **2)** jeżeli nie przedłożono wniosku zgodnie z wezwaniem drodze decyzji, nakłada obowiązek przeprowadzenia działań.
-- **1)** zakres i sposób przeprowadzenia działań zapobiegawczych, tym czynności zmierzające do ograniczenia oddziaływania na środowisko;
-- **2)** stan, do jakiego ma zostać przywrócone środowisko;
-- **3)** zakres i sposób przeprowadzenia działań naprawczych, a przypadku szkody środowisku powierzchni ziemi ustala plan remediacji, z uwzględnieniem przepisów art. 217d ust. 3–5 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska:
-    - **a)** zawierający informacje o: aktualnym i, o ile jest to możliwe, planowanym sposobie użytkowania zanieczyszczonego terenu, właściwościach gleby oraz rodzaju pokrycia terenu, tym roślinności i zabudowy, nazwach substancji powodujących ryzyko wraz z wynikami badań zanieczyszczenia gleby i ziemi tymi substancjami, wykonanych przez laboratorium, o którym mowa art. 147a ust. 1 pkt 1 lub ust. 1a ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska, ocenie występowania znaczącego zagrożenia dla zdrowia ludzi lub stanu środowiska, budowie geologicznej i warunkach hydrogeologicznych niezbędnych do dokonania oceny, o której mowa tiret czwartym jeżeli zachodzi taka potrzeba,
-    - **b)** określający: teren wymagający przeprowadzenia remediacji, poprzez wskazanie adresu i numerów działek ewidencyjnych oraz jego powierzchni, nazwy substancji powodujących ryzyko oraz ich zawartości glebie i ziemi, do jakich doprowadzi remediacja, sposób przeprowadzenia remediacji, termin rozpoczęcia i zakończenia remediacji, sposób potwierdzenia przeprowadzenia remediacji, termin przedłożenia dokumentacji z jej przeprowadzenia, tym wyników badań zanieczyszczenia gleby i ziemi wykonanych przez laboratorium, o którym mowa art. 147a ust. 1 pkt 1 lub ust. 1a ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska;
-
-- **4)** termin wykonania obowiązku, o którym mowa ust. 1 pkt 2;
-- **5)** sposób potwierdzenia osiągnięcia założonego efektu ekologicznego.
-
-3. Przy wydawaniu decyzji, o której mowa ust. 1, stosuje się odpowiednio przepisy art. 13 ust. 4, 5 i 6.
-
-4. W przypadku, o którym mowa ust. 1, nie stosuje się przepisów art. 362 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska.
-
 **Art. 16.** Organ ochrony środowiska podejmuje działania zapobiegawcze lub naprawcze, jeżeli:
 
 **Art. 16a.**
 
 1. Regionalny dyrektor ochrony środowiska ustala harmonogram swoich zadań zakresie bezpośrednich zagrożeń szkodą środowisku i szkód środowisku, które zostały zgłoszone, na podstawie art. 11 ust. 1 lub art. 24 ust. 1, oraz co najmniej raz na rok dokonuje jego aktualizacji.
 
-2. Harmonogram obejmuje:
-
 - **1)** gromadzenie danych i badań celu oceny, czy bezpośrednie zagrożenie szkodą środowisku lub szkoda środowisku rzeczywiście występuje oraz oceny zagrożenia dla zdrowia ludzi lub stanu środowiska;
 - **2)** opracowywanie projektu działań zapobiegawczych lub naprawczych;
 - **3)** przeprowadzenie działań zapobiegawczych lub naprawczych.
 
-3. Ustalając i aktualizując harmonogram, uwzględnia się potrzebę podjęcia pierwszej kolejności działań odniesieniu do bezpośrednich zagrożeń szkodą środowisku i szkód środowisku, które stanowią największe zagrożenie dla zdrowia ludzi lub stanu środowiska, oraz możliwość finansowania zadań kolejnych latach. Zarządu Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej oraz zarządu właściwego wojewódzkiego funduszu ochrony środowiska i gospodarki wodnej zakresie możliwości wspomagania ze środków tych funduszy zadań objętych harmonogramem.
+3. Ustalając i aktualizując harmonogram, uwzględnia się potrzebę podjęcia pierwszej kolejności działań odniesieniu do bezpośrednich zagrożeń szkodą środowisku i szkód środowisku, które stanowią największe zagrożenie dla zdrowia ludzi lub stanu środowiska, oraz możliwość finansowania zadań kolejnych latach.
+
+4. W trakcie opracowywania lub aktualizacji harmonogramu regionalny dyrektor ochrony środowiska zasięga opinii Zarządu Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej oraz zarządu właściwego wojewódzkiego funduszu ochrony środowiska i gospodarki wodnej zakresie możliwości wspomagania ze środków tych funduszy zadań objętych harmonogramem.
 
 5. Regionalny dyrektor ochrony środowiska opracowuje i przekazuje Generalnemu Dyrektorowi Ochrony Środowiska, co 5 lat, sprawozdanie z realizacji zadań ujętych harmonogramie.
 
@@ -277,9 +260,24 @@ Art. 30–34. (pominięte)
 
 4a. Przy wydawaniu decyzji, o której mowa ust. 2, stosuje się odpowiednio przepisy art. 13 ust. 4, 5 i 6.
 
-5. Przepisów ust. 1–4 nie stosuje się przypadku prowadzenia działań ratowniczych.
+5. Przepisów ust. 1–4 nie stosuje się przypadku prowadzenia działań ratowniczych. nych lub chronionych siedliskach przyrodniczych lub wodach właściwy organ ochrony środowiska może podjąć decyzję o ich zaniechaniu, jeżeli:
 
-**Art. 17a.** W trakcie realizacji działań naprawczych odniesieniu do szkody środowisku gatunkach chronionych lub chronionych siedliskach przyrodniczych lub wodach właściwy organ ochrony środowiska może podjąć decyzję o ich zaniechaniu, jeżeli:
+- **1)** dotychczas zrealizowane działania naprawcze gwarantują, że nie ma znaczącego ryzyka wystąpienia negatywnego wpływu na zdrowie ludzi, gatunki chronione, chronione siedliska przyrodnicze lub na wody, oraz
+- **2)** koszty dalszych działań naprawczych, które miałyby doprowadzić do osiągnięcia stanu początkowego lub do niego zbliżonego, byłyby nieproporcjonalnie wysokie stosunku do korzyści osiągniętych środowisku.
+
+**Art. 17b.**
+
+1. Dla szkód środowisku powierzchni ziemi, dokonując oceny występowania znaczącego zagrożenia dla zdrowia ludzi lub stanu środowiska, o której mowa art. 13 ust. 2a pkt 6 lub art. 15 ust. 2 pkt 3 lit. a tiret czwarte, lub art. 17 ust. 2a pkt 1 lit. d, uwzględnia się szczególności:
+
+- **1)** postać chemiczną, jakiej występuje zanieczyszczenie i jego biodostępność;
+- **2)** możliwość rozprzestrzeniania się zanieczyszczenia;
+- **3)** potencjalne drogi narażenia z uwzględnieniem rozprzestrzeniania się zanieczyszczeń zależności od właściwości gleby, ukształtowania, budowy geologicznej i warunków hydrogeologicznych, a także pokrycia terenu;
+- **4)** środowisko oraz ludzi, którzy mogliby ucierpieć wyniku zanieczyszczenia;
+- **5)** występowanie na terenie zanieczyszczonym i jego okolicy zwłaszcza gruntów uprawnych, ogrodów, parków, placów zabaw, terenów sportowych, budynków mieszkalnych i użytkowych, form ochrony przyrody, zasobów wody pitnej i ujęć wody.
+
+2. Przy dokonywaniu oceny uwzględnia się przepisy, wydawane na podstawie art. 101p ust. 3 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska.
+
+3. Jeżeli ocena wykaże, że nie występuje znaczące zagrożenie dla zdrowia ludzi lub stanu środowiska, regionalny dyrektor ochrony środowiska może odpowiednio zwolnić, drodze decyzji, podmiot korzystający ze środowiska z obowiązku przeprowadzenia działań naprawczych albo nie przeprowadzać działań, o których mowa art. 16.
 
 **Art. 18.**
 
@@ -304,11 +302,12 @@ Art. 30–34. (pominięte)
 3. W decyzji, o której mowa ust. 1, organ ochrony środowiska określa:
 
 - **1)** zakres badań, pomiarów lub monitoringu;
-- **2)** metodykę prowadzenia badań, pomiarów lub monitoringu;
 - **3)** termin i formę przedkładania wyników badań, pomiarów lub monitoringu;
 - **4)** przypadku gdy bezpośrednie zagrożenie szkodą środowisku lub szkoda środowisku zostały spowodowane przez działalność więcej niż jednego podmiotu korzystającego ze środowiska podział obowiązków między tymi podmiotami.
 
-4. Podmiot korzystający ze środowiska zapewnia wykonanie badań lub pomiarów, o których mowa ust. 1, przez laboratorium, o którym mowa art. 147a ust. 1 pkt 1 lub ust. 1a ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska. dą środowisku lub szkody środowisku regionalny dyrektor ochrony środowiska może wykonywać badania zanieczyszczenia gleby i ziemi lub pomiary zawartości substancji wodzie, tym pobieranie próbek lub monitoring przyrodniczy różnorodności biologicznej i krajobrazowej.
+4. Podmiot korzystający ze środowiska zapewnia wykonanie badań lub pomiarów, o których mowa ust. 1, przez laboratorium, o którym mowa art. 147a ust. 1 pkt 1 lub ust. 1a ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska.
+
+5. W przypadku innym niż wskazany ust. 1, celu potwierdzenia występowania bezpośredniego zagrożenia szkodą środowisku lub szkody środowisku regionalny dyrektor ochrony środowiska może wykonywać badania zanieczyszczenia gleby i ziemi lub pomiary zawartości substancji wodzie, tym pobieranie próbek lub monitoring przyrodniczy różnorodności biologicznej i krajobrazowej.
 
 6. Zamówienie publiczne na wykonywanie badań, pomiarów lub monitoringu, o których mowa ust. 5, obejmuje jednorazowe badania, pomiary lub monitoring lub dokonywanie we wskazanym okresie czasu wszystkich potrzebnych regionalnemu dyrektorowi ochrony środowiska badań, pomiarów lub monitoringu.
 
@@ -331,14 +330,15 @@ Art. 30–34. (pominięte)
 2. Podmiot korzystający ze środowiska nie ponosi kosztów przeprowadzenia działań zapobiegawczych i naprawczych, jeżeli wykaże, że bezpośrednie zagrożenie szkodą środowisku lub szkoda środowisku:
 
 - **1)** zostały spowodowane przez inny wskazany podmiot oraz wystąpiły mimo zastosowania przez podmiot korzystający ze środowiska właściwych środków bezpieczeństwa;
-- **2)** powstały na skutek podporządkowania się nakazowi wydanemu przez organ administracji publicznej, chyba że nakaz ten wynikał z emisji lub zdarzenia spowodowanego własną działalnością podmiotu korzystającego ze środowiska.
-
-3. Podmiot korzystający ze środowiska, który podjął działania zapobiegawcze lub naprawcze odniesieniu do bezpośredniego zagrożenia szkodą środowisku lub szkody środowisku, może wystąpić z roszczeniem o zwrot kosztów poczynionych na ten cel:
-
+- **2)** powstały na skutek podporządkowania się nakazowi wydanemu przez organ administracji publicznej, chyba że nakaz ten wynikał z emisji lub zdarzenia spowodowanego własną działalnością podmiotu korzystającego ze środowiska. pośredniego zagrożenia szkodą środowisku lub szkody środowisku, może wystąpić z roszczeniem o zwrot kosztów poczynionych na ten cel:
 - **1)** do sprawcy bezpośredniego zagrożenia szkodą środowisku lub szkody środowisku przypadku, o którym mowa ust. 2 pkt 1;
 - **2)** do organu administracji publicznej przypadku, o którym mowa ust. 2 pkt 2.
 
-4. Do roszczenia, o którym mowa ust. 3, stosuje się odpowiednio przepisy Kodeksu cywilnego. ze środowiska zwrotu poniesionych przez siebie kosztów przeprowadzenia działań zapobiegawczych lub naprawczych.
+4. Do roszczenia, o którym mowa ust. 3, stosuje się odpowiednio przepisy Kodeksu cywilnego.
+
+**Art. 23.**
+
+1. W przypadkach, o których mowa art. 16, organ ochrony środowiska żąda od podmiotu korzystającego ze środowiska zwrotu poniesionych przez siebie kosztów przeprowadzenia działań zapobiegawczych lub naprawczych.
 
 1a. W przypadku gdy decyzja, o której mowa art. 15 ust. 1 pkt 2, stanie się ostateczna, organ ochrony środowiska żąda od podmiotu korzystającego ze środowiska albo, przypadku, o którym mowa art. 12 ust. 2, od podmiotu korzystającego ze środowiska lub władającego powierzchnią ziemi zwrotu poniesionych przez siebie kosztów, o których mowa art. 21 pkt 1 i 2.
 
@@ -370,9 +370,7 @@ Art. 30–34. (pominięte)
 
 4. Zgłoszenie powinno, miarę możliwości, zawierać dokumentację potwierdzającą wystąpienie bezpośredniego zagrożenia szkodą środowisku lub szkody środowisku i wskazanie odpowiedzialnego podmiotu korzystającego ze środowiska, a przypadku zgłoszenia dotyczącego szkody powierzchni ziemi nazwy substancji powodujących ryzyko oraz wyniki badań zanieczyszczenia gleby i ziemi tymi substancjami, wykonanych przez laboratorium, o którym mowa art. 147a ust. 1 pkt 1 lub ust. 1a ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska.
 
-4a. Do zgłoszenia formie elektronicznej dołącza się zeskanowaną dokumentację, o której mowa ust. 4.
-
-5. Organ ochrony środowiska, uznając za uzasadnione zgłoszenie, o którym mowa ust. 1, postanawia o wszczęciu postępowania sprawie wydania decyzji, o której mowa art. 15 ust. 1 pkt 2, albo przypadkach, o których mowa art. 16, podejmuje działania zapobiegawcze lub naprawcze. Przepisy art. 17 stosuje się odpowiednio.
+4a. Do zgłoszenia formie elektronicznej dołącza się zeskanowaną dokumentację, o której mowa ust. 4. postępowania sprawie wydania decyzji, o której mowa art. 15 ust. 1 pkt 2, albo przypadkach, o których mowa art. 16, podejmuje działania zapobiegawcze lub naprawcze. Przepisy art. 17 stosuje się odpowiednio.
 
 6. Organizacja ekologiczna dokonująca zgłoszenia, na podstawie którego wszczęto postępowanie, ma prawo uczestniczyć tym postępowaniu na prawach strony.
 
@@ -380,7 +378,9 @@ Art. 30–34. (pominięte)
 
 **Art. 24a.**
 
-1. Organ ochrony środowiska zawiesza postępowanie wszczęte na podstawie art. 24 ust. 5 do czasu usunięcia odpadów z miejsc nieprzeznaczonych do ich składowania lub magazynowania. o usunięciu odpadów, o którym mowa ust. 1.
+1. Organ ochrony środowiska zawiesza postępowanie wszczęte na podstawie art. 24 ust. 5 do czasu usunięcia odpadów z miejsc nieprzeznaczonych do ich składowania lub magazynowania.
+
+2. Organ ochrony środowiska podejmuje postępowanie z urzędu terminie 2 miesięcy od dnia powzięcia informacji o usunięciu odpadów, o którym mowa ust. 1.
 
 **Art. 25.**
 
@@ -416,10 +416,11 @@ Art. 30–34. (pominięte)
 
 2. W rejestrze gromadzi się:
 
-- **1)** informacje o zgłoszonych bezpośrednich zagrożeniach szkodą środowisku oraz szkodach środowisku, tym rodzaju, charakterystyce, miejscu i czasie wystąpienia bezpośrednich zagrożeń szkodą środowisku lub szkód środowisku;
-- **2)** informacje o podejmowanych związku z wystąpieniem bezpośredniego zagrożenia szkodą środowisku lub szkody środowisku działaniach zapobiegawczych i naprawczych oraz osiągniętych ich wyniku efektach ekologicznych;
+- **1)** informacje o zgłoszonych bezpośrednich zagrożeniach szkodą środowisku oraz szkodach środowisku, tym rodzaju, charakterystyce, miejscu i czasie wystąpienia bezpośrednich zagrożeń szkodą środowisku lub szkód środowisku; środowisku działaniach zapobiegawczych i naprawczych oraz osiągniętych ich wyniku efektach ekologicznych;
 - **3)** imię i nazwisko albo nazwę i określenie przedmiotu wykonywanej działalności gospodarczej, zgodnie z Polską Klasyfikacją Działalności (PKD), podmiotu korzystającego ze środowiska, którego działalność była przyczyną bezpośredniego zagrożenia szkodą środowisku lub szkody środowisku, oraz adres jego zamieszkania albo adres siedziby;
-- **4)** inne istotne informacje o bezpośrednich zagrożeniach szkodą środowisku oraz szkodach środowisku, szczególności o postępowaniach administracyjnych i sądowo-administracyjnych sprawach bezpośrednich zagrożeń szkodą środowisku lub szkód środowisku. etapie postępowania administracyjnego i sądowo-administracyjnego.
+- **4)** inne istotne informacje o bezpośrednich zagrożeniach szkodą środowisku oraz szkodach środowisku, szczególności o postępowaniach administracyjnych i sądowo-administracyjnych sprawach bezpośrednich zagrożeń szkodą środowisku lub szkód środowisku.
+
+3. Organ ochrony środowiska wprowadza i aktualizuje informacje rejestrze, o którym mowa ust. 1, na każdym etapie postępowania administracyjnego i sądowo-administracyjnego.
 
 4. Generalny Dyrektor Ochrony Środowiska może dokonywać zmian rejestrze, jeżeli stwierdzi niezgodność zawartych nim danych z posiadanymi informacjami, szczególności wynikającymi z prowadzonych postępowań administracyjnych i sądowo-administracyjnych zakresie bezpośrednich zagrożeń szkodą środowisku oraz szkód środowisku.
 
@@ -437,7 +438,9 @@ Art. 30–34. (pominięte)
 
 **Art. 26d.** Przepisów art. 26b–26ca nie stosuje się do poważnych awarii przemysłowych rozumieniu ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska.
 
-**Art. 27.** Po uzyskaniu informacji o wystąpieniu bezpośredniego zagrożenia szkodą środowisku lub szkody środowisku, które zostały spowodowane przez podmiot korzystający ze środowiska działający na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, organ ochrony środowiska może, za pośrednictwem ministra właściwego do spraw klimatu, wystąpić do tego państwa z wnioskiem o:
+**Art. 27.** Po uzyskaniu informacji o wystąpieniu bezpośredniego zagrożenia szkodą środowisku lub szkody środowisku, które zostały spowodowane przez podmiot korzystający ze środowiska działający na terytorium innego niż ministra właściwego do spraw klimatu, wystąpić do tego państwa z wnioskiem o:
+
+#### Rozdział 6 Przepisy karne
 
 **Art. 28.**
 

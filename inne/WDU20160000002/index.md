@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# Warszawa, dnia stycznia 2016 OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ dnia 16 grudnia 2015 sprawie ogłoszenia jednolitego tekstu ustawy dokonywaniu europejskich zgłoszeń patentowych oraz skutkach patentu europejskiego Polskiej
+# o dokonywaniu europejskich zgłoszeń patentowych oraz skutkach Rzeczypospolitej Polskiej
 
 | Pole | Wartość |
 |---|---|
@@ -24,70 +24,58 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000002) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/2/text.pdf) |
 
-1. Na podstawie 16 zdanie pierwsze ustawy dnia 20 lipca 2000 ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. 2015 1484 i 1890) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy dnia 14 marca 2003 dokonywaniu europejskich zgłoszeń patentowych oraz skutkach patentu europejskiego Polskiej (Dz. Nr 65, 598), uwzględnieniem zmian wprowadzonych:
-1) ustawą dnia 29 czerwca 2007 zmianie ustawy Prawo własności przemysłowej (Dz. Nr 136, 958),
-2) ustawą dnia 24 lipca 2015 zmianie ustawy Prawo własności przemysłowej oraz niektórych innych ustaw (Dz. 1266) oraz zmian wynikających przepisów ogłoszonych przed dniem 16 grudnia 2015
-2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) 9 ustawy dnia 29 czerwca 2007 zmianie ustawy Prawo własności przemysłowej (Dz. Nr 136,
-958), który stanowi: „Art. 9. Ustawa wchodzi życie po upływie 3 miesięcy od dnia ogłoszenia, wyjątkiem 66 i 67, które wchodzą życie po upływie 30 dni od dnia ogłoszenia.”;
-2) 12 ustawy dnia 24 lipca 2015 zmianie ustawy Prawo własności przemysłowej oraz niektórych innych ustaw (Dz. 1266), który stanowi: „Art. 12. Ustawa wchodzi życie po upływie 3 miesięcy od dnia ogłoszenia.”.
-Marszałek Sejmu: M. Kuchciński Polskiej
+#### Rozdział 1 Przepisy ogólne
 
-#### Rozdział Przepisy ogólne
+**Art. 1.** Ilekroć ustawie jest mowa o:
 
-**Art. 1.** Ilekroć ustawie jest o:
-
-**Art. 2.** Do europejskiego zgłoszenia patentowego i patentu europejskiego, wyznaczającego Rzeczpospolitą Polską jako kraj ochrony, stosuje się Konwencję, przepisy niniejszej ustawy oraz Prawa własności przemysłowej.
-
-**Art. 3.**
-
-1. Europejskie zgłoszenie patentowe, wyjątkiem europejskich zgłoszeń wydzielonych, może być dokonane Urzędzie Patentowym.
-
-2. Europejskie zgłoszenie patentowe złożone za pośrednictwem Urzędu Patentowego osoby wymienione 40 Prawa własności przemysłowej sporządza się języku polskim albo dołącza się do niego tłumaczenie na język polski.
-
-#### Rozdział Skutki europejskiego zgłoszenia patentowego
+#### Rozdział 2 Skutki zgłoszenia patentowego
 
 **Art. 4.**
 
-1. Do każdego europejskiego zgłoszenia patentowego opublikowanego sposób określony Konwencji, którym Rzeczpospolita Polska została wyznaczona jako kraj ochrony, stosuje się odpowiednio przepisy 25 3, 26 i 287 oraz, zastrzeżeniem 2, 288 Prawa własności przemysłowej.
+1. Do każdego zgłoszenia patentowego opublikowanego sposób określony Konwencji, którym Rzeczpospolita Polska została wyznaczona jako kraj ochrony, stosuje się odpowiednio przepisy art. 25 3, art. 26 2 i art. 287 oraz, z zastrzeżeniem 2, art. 288 Prawa własności przemysłowej.
 
-2. Jeżeli roszczenie, którym 287 Prawa własności przemysłowej, jest wywodzone ogłoszenia zgłoszeniu wynalazku, może być ono dochodzone od daty zamieszczenia Biuletynie Urzędu Patentowego informacji tłumaczeniu na język polski zastrzeżeń patentowych europejskiego zgłoszenia patentowego, złożonym zgłaszającego Urzędzie Patentowym. Przepisy 7 2–4 stosuje się odpowiednio.
+2. Jeżeli roszczenie, o którym mowa art. 287 Prawa własności przemysłowej, jest wywodzone z ogłoszenia o zgłoszeniu wynalazku, może być ono dochodzone od daty zamieszczenia Biuletynie Urzędu Patentowego o tłumaczeniu na język polski zastrzeżeń patentowych zgłoszenia patentowego, złożonym przez zgłaszającego Urzędzie Patentowym. Przepisy art. 7 2–4 stosuje się odpowiednio.
 
-3. Informację, której 2, Urząd Patentowy zamieszcza niezwłocznie po otrzymaniu tłumaczenia. Informacja obejmuje tytuł wynalazku oraz wskazanie klas według międzynarodowej klasyfikacji patentowej. daty doręczenia wezwania, opłaty przewidziane dla zgłoszeń dokonanych Urzędzie Patentowym, oraz dostarczyć tłumaczenie na język polski europejskiego zgłoszenia patentowego.
+3. Informację, o której mowa 2, Urząd Patentowy zamieszcza niezwłocznie po otrzymaniu tłumaczenia. Informacja obejmuje tytuł wynalazku oraz wskazanie klas według międzynarodowej klasyfikacji patentowej.
 
-3. Tłumaczenie europejskiego zgłoszenia patentowego, którym 2, części obejmującej opis zgłoszeniowy wynalazku rozumieniu 44 Prawa własności przemysłowej, a także skrót opisu, powinny być złożone dwóch egzemplarzach.
+4. Osoby trzecie mogą zapoznawać się z tłumaczeniem, o którym mowa 2, od dnia ogłoszenia o tym tłumaczeniu.
 
-#### Rozdział 3 Skutki patentu europejskiego Polskiej
+**Art. 5.**
+
+1. W przypadku gdy europejskie zgłoszenie patentowe zostanie odrzucone, wycofane lub uznane za wycofane, może ono być, na warunkach określonych Konwencji, uznane za zgłoszenie o udzielenie lub prawa ochronnego na wzór użytkowy na podstawie Prawa własności przemysłowej.
+
+2. W przypadkach określonych 1 zgłaszający jest obowiązany uiścić, najpóźniej terminie dwóch miesięcy od daty doręczenia wezwania, opłaty egzemplarzach.
+
+#### Rozdział 3 Skutki Rzeczypospolitej Polskiej
 
 **Art. 6.**
 
-1. Przez uzyskanie patentu europejskiego, którym Rzeczpospolita Polska została wyznaczona jako kraj ochrony, nabywa się, zastrzeżeniem i 3, takie same prawa, jakie przyznaje patent udzielony na podstawie Prawa własności przemysłowej.
+1. Przez uzyskanie europejskiego, którym Rzeczpospolita Polska została wyznaczona jako kraj ochrony, nabywa się, z zastrzeżeniem 2 i 3, takie same prawa, jakie przyznaje patent udzielony na podstawie Prawa własności przemysłowej.
 
-2. Uprawniony patentu europejskiego jest obowiązany złożyć Urzędzie Patentowym tłumaczenie patentu europejskiego na język polski terminie trzech miesięcy od daty opublikowania Europejski Urząd Patentowy informacji jego udzieleniu. Termin ten nie podlega przywróceniu.
+2. Uprawniony z jest obowiązany złożyć Urzędzie Patentowym na język polski terminie trzech miesięcy od daty opublikowania przez Europejski Urząd Patentowy o udzieleniu. Termin ten nie podlega przywróceniu.
 
-3. Przepis stosuje się odpowiednio, jeżeli wyniku rozpatrzenia sprzeciwu Europejski Urząd Patentowy patent europejski zostanie zmieniony lub, na wniosek uprawnionego, zostanie ograniczony.
+3. Przepis 2 stosuje się odpowiednio, jeżeli wyniku rozpatrzenia sprzeciwu przez Europejski Urząd Patentowy patent europejski zostanie zmieniony lub, na wniosek uprawnionego, zostanie ograniczony.
 
-4. przypadku niespełnienia wymogów, których lub 3, patent europejski jest nieważny na terytorium Polskiej od daty jego udzielenia.
+4. W przypadku niespełnienia wymogów, o których mowa 2 lub 3, patent europejski jest nieważny na terytorium Rzeczypospolitej Polskiej od daty udzielenia.
 
 **Art. 7.**
 
-1. Tłumaczenie patentu europejskiego, którym 6 i 3, Urząd Patentowy publikuje niezwłocznie po otrzymaniu tego tłumaczenia, zamieszczając datę publikacji Europejski Urząd Patentowy informacji udzieleniu patentu europejskiego.
+1. Tłumaczenie europejskiego, o którym mowa art. 6 2 i 3, Urząd Patentowy publikuje niezwłocznie po otrzymaniu tego tłumaczenia, zamieszczając datę publikacji przez Europejski Urząd Patentowy o udzieleniu europejskiego.
 
-2. przypadku gdy zakres przedmiotowy patentu europejskiego określony tłumaczeniu, którym 6 2, jest węższy od jego zakresu określonego języku postępowania przed Europejskim Urzędem Patentowym, przyjmuje się, że tekstem autentycznym patentu europejskiego jest, wyjątkiem postępowania unieważnienie patentu europejskiego, jego tłumaczenie.
+2. W przypadku gdy zakres przedmiotowy określony tłumaczeniu, o którym mowa art. 6 2, jest węższy od zakresu określonego języku postępowania przed Europejskim Urzędem Patentowym, przyjmuje się, że tekstem autentycznym jest, z wyjątkiem postępowania o unieważnienie europejskiego, tłumaczenie. i poważne przygotowania do stosowania sposób niepowodujący naruszenia europejskiego, o którym mowa 2, może nadal, po dacie publikacji tłumaczenia poprawionego, stosować wynalazek nieodpłatnie ramach swojego przedsiębiorstwa lub dla swoich potrzeb.
 
-3. każdym czasie uprawniony patentu europejskiego może złożyć tłumaczenie poprawione, które, zastrzeżeniem 4, wywołuje skutek prawny po dokonaniu jego publikacji Urząd Patentowy. Przepis stosuje się odpowiednio.
+5. Uprawniony z jest obowiązany uiścić opłatę za publikację tłumaczenia, o którym mowa art. 6 2, terminie trzech miesięcy od daty doręczenia wezwania, wysokości określonej dla opłaty za publikację i druk opisu określonej przepisach wydanych na podstawie Prawa własności przemysłowej.
 
-4. Każdy, kto dobrej wierze stosuje wynalazek lub poczynił rzeczywiste i poważne przygotowania do jego stosowania sposób niepowodujący naruszenia patentu europejskiego, którym 2, może nadal, po dacie publikacji tłumaczenia poprawionego, stosować wynalazek nieodpłatnie ramach swojego przedsiębiorstwa lub dla swoich potrzeb.
+6. Przepis 5 stosuje się odpowiednio do każdego tłumaczenia poprawionego, o którym mowa 3.
 
-5. Uprawniony patentu europejskiego jest obowiązany uiścić opłatę za publikację tłumaczenia, którym 6 2, terminie trzech miesięcy od daty doręczenia wezwania, wysokości określonej dla opłaty za publikację i druk opisu określonej przepisach wydanych na podstawie Prawa własności przemysłowej.
+#### Rozdział 4 Opłaty okresowe za ochronę wynalazku
 
-6. Przepis 5 stosuje się odpowiednio do każdego tłumaczenia poprawionego, którym 3.
+**Art. 8.**
 
-2. Opłaty okresowe, których 1, uiszcza się wysokości określonej przepisach wydanych na podstawie Prawa własności przemysłowej dla wynalazków, na które udzielono patentu Polskiej.
+1. Za ochronę wynalazku, na który został udzielony patent europejski, Urząd Patentowy pobiera opłaty okresowe, począwszy od roku następującego po roku, którym Europejski Urząd Patentowy opublikował informację o udzieleniu. Opłat okresowych nie pobiera się przypadku, o którym mowa art. 6 4.
 
-3. przypadku gdy pierwsza opłata okresowa ustalona stosownie do i ma dotyczyć części okresu ochrony, wysokość tej opłaty przyjmuje się proporcjonalnie do części tego okresu, obliczonego latach stosunku do całego okresu ochrony.
+2. Opłaty okresowe, o których mowa 1, uiszcza się wysokości określonej przepisach wydanych na podstawie Prawa własności przemysłowej dla wynalazków, na które udzielono Rzeczypospolitej Polskiej.
 
-#### Rozdział 5 Przepis końcowy
+3. W przypadku gdy pierwsza opłata okresowa ustalona stosownie do 1 i 2 ma dotyczyć części okresu ochrony, wysokość tej opłaty przyjmuje się proporcjonalnie do części tego okresu, obliczonego latach stosunku do całego okresu ochrony.
 
-**Art. 9.** Ustawa wchodzi życie dniem związania Polskiej Konwencją .
 

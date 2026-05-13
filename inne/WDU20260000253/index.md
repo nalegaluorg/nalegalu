@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 3 marca 2026 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 20 lutego 2026 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2026-03-20 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000253) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/253/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 20 lutego 2026 r.
-sprawie ogłoszenia jednolitego tekstu ustawy o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych (Dz. U. z 2025 r. poz. 907), z uwzględnieniem zmian wprowadzonych ustawą z dnia 25 lipca 2025 r. o zmianie ustawy o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych oraz ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. poz. 1192) oraz zmian wynikających z przepisów ogłoszonych przed dniem 20 lutego 2026 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 3 i art. 4 ustawy z dnia 25 lipca 2025 r. o zmianie ustawy o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych oraz ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U.
 poz. 1192), które stanowią: „Art. 3. Do postępowań sprawie rozpatrzenia wniosku, o którym mowa art. 24 ust. 1 pkt 1 i 2 ustawy zmienianej art. 1, wszczętych i niezakończonych przed dniem wejścia życie niniejszej ustawy stosuje się przepisy dotychczasowe.
@@ -67,7 +67,7 @@ Art. 56–66. (pominięte)
 
 5. Udział kwocie przekroczenia jest proporcjonalny do udziału kwoty refundacji leku, środka spożywczego specjalnego przeznaczenia żywieniowego, wyrobu medycznego, sumarycznej kwocie refundacji produktów danej grupie limitowej, o których mowa ust. 3. Udział kwocie przekroczenia jest korygowany o iloraz urzędowej ceny zbytu za DDD leku wnioskodawcy, który otrzymał decyzję administracyjną o objęciu refundacją, na koniec roku rozliczeniowego i najniższej urzędowej ceny zbytu za DDD leku stanowiącego podstawę limitu danej grupie limitowej roku rozliczeniowym. Unormowany współczynnik udziału kwocie przekroczenia danej grupie limitowej dla produktu refundowanego danego wnioskodawcy, który otrzymał decyzję administracyjną o objęciu refundacją, wyliczany jest według wzoru: 𝑆 𝑆 = ∑𝑆 gdzie: 𝑆 𝑔 = ∑𝑔 𝐶 × 𝐶 gdzie poszczególne symbole oznaczają: 𝑆 unormowany współczynnik udziału kwocie przekroczenia dla produktu i-tego wnioskodawcy, który otrzymał decyzję o objęciu refundacją danej grupie limitowej, 𝑆 współczynnik udziału kwocie przekroczenia dla produktu i-tego wnioskodawcy, który otrzymał decyzję o objęciu refundacją danej grupie limitowej, 𝑔 kwotę refundacji na koniec roku rozliczeniowego dla produktu i-tego wnioskodawcy, który otrzymał decyzję o objęciu refundacją danej grupie limitowej, ∑𝑔 sumaryczną kwotę refundacji na koniec roku rozliczeniowego produktów wszystkich wnioskodawców, którzy otrzymali decyzję administracyjną o objęciu refundacją danej grupie limitowej, 𝐶 urzędową cenę zbytu za DDD leku i-tego wnioskodawcy, który otrzymał decyzję administracyjną o objęciu refundacją danej grupie limitowej na koniec roku rozliczeniowego, 𝐶 najniższą urzędową cenę zbytu za DDD leku stanowiącego podstawę limitu danej grupie limitowej roku rozliczeniowym.
 
-6. Przepis ust. 5 stosuje się odpowiednio do środka spożywczego specjalnego przeznaczenia żywieniowego i wyrobu medycznego oraz leku, odniesieniu do którego nie określono DDD. kroczenia, zwraca Funduszowi kwotę odpowiednio dla danej grupy limitowej, wysokości wyliczanej według wzoru: 𝐾𝑍 = 𝑆 × 𝐾𝑃 × 𝐺 × 0,5 gdzie poszczególne symbole oznaczają: 𝐾𝑍 kwotę zwracaną przez i-tego wnioskodawcę, który otrzymał decyzję administracyjną o objęciu refundacją danej grupie limitowej, 𝑆 unormowany współczynnik udziału kwocie przekroczenia dla i-tego wnioskodawcy, który otrzymał decyzję administracyjną o objęciu refundacją, 𝐾𝑃 kwotę przekroczenia danej grupie limitowej, 𝐺 współczynnik korygujący stanowiący iloraz różnicy poniesionych wydatków na refundację leków, środków spożywczych specjalnego przeznaczenia żywieniowego, wyrobów medycznych części dotyczącej finansowania świadczeń, o których mowa art. 15 ust. 2 pkt 14 ustawy o świadczeniach, danym roku rozliczeniowym i całkowitego budżetu na refundację tej części tym roku oraz sumy kwot przekroczenia grupach limitowych.
+6. Przepis ust. 5 stosuje się odpowiednio do środka spożywczego specjalnego przeznaczenia żywieniowego i wyrobu medycznego oraz leku, odniesieniu do którego nie określono DDD. 𝐾𝑍 = 𝑆 × 𝐾𝑃 × 𝐺 × 0,5 gdzie poszczególne symbole oznaczają: 𝐾𝑍 kwotę zwracaną przez i-tego wnioskodawcę, który otrzymał decyzję administracyjną o objęciu refundacją danej grupie limitowej, 𝑆 unormowany współczynnik udziału kwocie przekroczenia dla i-tego wnioskodawcy, który otrzymał decyzję administracyjną o objęciu refundacją, 𝐾𝑃 kwotę przekroczenia danej grupie limitowej, 𝐺 współczynnik korygujący stanowiący iloraz różnicy poniesionych wydatków na refundację leków, środków spożywczych specjalnego przeznaczenia żywieniowego, wyrobów medycznych części dotyczącej finansowania świadczeń, o których mowa art. 15 ust. 2 pkt 14 ustawy o świadczeniach, danym roku rozliczeniowym i całkowitego budżetu na refundację tej części tym roku oraz sumy kwot przekroczenia grupach limitowych.
 
 8. Kwotę przekroczenia oraz kwotę zwrotu oblicza Fundusz terminie 30 dni od zatwierdzenia sprawozdania finansowego Funduszu za rok poprzedni na podstawie danych, o których mowa art. 45 ust. 1.
 
@@ -155,7 +155,7 @@ Art. 56–66. (pominięte)
 
 **Art. 9.**
 
-1. Świadczeniodawca celu realizacji świadczeń gwarantowanych jest obowiązany nabywać leki, środki spożywcze specjalnego przeznaczenia żywieniowego, wyroby medyczne po cenie niewyższej niż urzędowa cena zbytu powiększona o marżę niewyższą niż urzędowa marża hurtowa, a przypadku nabywania od podmiotu innego niż przedsiębiorca prowadzący obrót hurtowy rozumieniu ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne po cenie niewyższej niż urzędowa cena zbytu. wyroby medyczne, dla których ustalono kategorie dostępności refundacyjnej, o których mowa art. 6 ust. 1 pkt 2 i 3, po cenie niewyższej niż urzędowa cena zbytu leku, środka spożywczego specjalnego przeznaczenia żywieniowego, wyrobu medycznego:
+1. Świadczeniodawca celu realizacji świadczeń gwarantowanych jest obowiązany nabywać leki, środki spożywcze specjalnego przeznaczenia żywieniowego, wyroby medyczne po cenie niewyższej niż urzędowa cena zbytu powiększona o marżę niewyższą niż urzędowa marża hurtowa, a przypadku nabywania od podmiotu innego niż przedsiębiorca prowadzący obrót hurtowy rozumieniu ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne po cenie niewyższej niż urzędowa cena zbytu. cenie niewyższej niż urzędowa cena zbytu leku, środka spożywczego specjalnego przeznaczenia żywieniowego, wyrobu medycznego:
 
 - **1)** stanowiącego podstawę limitu, przypadku leku zawierającego tę samą substancję czynną co lek wyznaczający podstawę limitu, środka spożywczego specjalnego przeznaczenia żywieniowego albo wyrobu medycznego, jednak niewyższą niż urzędowa cena zbytu danego leku, środka spożywczego specjalnego przeznaczenia żywieniowego albo wyrobu medycznego, albo
 - **2)** będącego najtańszym odpowiednikiem nabywanego leku, przypadku gdy podstawę limitu danej grupie limitowej wyznacza lek z inną substancją czynną, jednak niewyższą niż urzędowa cena zbytu danego leku uwzględniając liczbę DDD leku, jednostek środka spożywczego specjalnego przeznaczenia żywieniowego opakowaniu albo liczbę jednostkowych wyrobów medycznych, albo liczbę jednostek wyrobu medycznego, powiększoną o marżę niewyższą niż urzędowa marża hurtowa, a przypadku nabywania od podmiotu innego niż przedsiębiorca prowadzący obrót hurtowy rozumieniu art. 72 ust. 3 ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne po cenie niewyższej niż urzędowa cena zbytu.
@@ -226,7 +226,7 @@ Art. 56–66. (pominięte)
 
 - **1)** uzależnienia wielkości przychodu wnioskodawcy od uzyskiwanych efektów zdrowotnych;
 - **2)** uzależnienia wysokości ceny zbytu netto od zapewnienia przez wnioskodawcę dostaw po obniżonej ustalonej negocjacjach cenie leku, środka spożywczego specjalnego przeznaczenia żywieniowego oraz wyrobu medycznego;
-- **3)** uzależnienia wysokości ceny zbytu netto od wielkości obrotu lekiem, środkiem spożywczym specjalnego przeznaczenia żywieniowego oraz wyrobem medycznym; sowania świadczeń ze środków publicznych;
+- **3)** uzależnienia wysokości ceny zbytu netto od wielkości obrotu lekiem, środkiem spożywczym specjalnego przeznaczenia żywieniowego oraz wyrobem medycznym;
 - **4a)** ustalenia zasad realizacji dostaw i ich rozliczeń dotyczących leków, środków spożywczych specjalnego przeznaczenia żywieniowego, wyrobów medycznych stosowanych ramach programu lekowego lub leków stosowanych ramach chemioterapii;
 - **5)** ustalenia innych warunków refundacji mających wpływ na zwiększenie dostępności do świadczeń gwarantowanych lub obniżenie kosztów tych świadczeń.
 
@@ -320,7 +320,7 @@ Art. 56–66. (pominięte)
 
 3. Do wniosku, o którym mowa art. 24 ust. 1 pkt 1, wnioskodawca, o którym mowa ust. 1, dołącza dokument potwierdzający wytwarzanie leku na terytorium Rzeczypospolitej Polskiej lub wytwarzanie leku z wykorzystaniem substancji czynnej wytworzonej na terytorium Rzeczypospolitej Polskiej.
 
-4. Minister właściwy do spraw zdrowia terminie 30 dni od dnia otrzymania wniosku, o którym mowa ust. 1, wydaje postanowienie, o którym mowa art. 123 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2025 r. poz. 1691), określające przyznane wnioskodawcy preferencje, biorąc pod uwagę działania prowadzące do powstania leku wytwarzanego na terytorium Rzeczypospolitej Polskiej. następujących odpłatności na dzień wydania decyzji:
+4. Minister właściwy do spraw zdrowia terminie 30 dni od dnia otrzymania wniosku, o którym mowa ust. 1, wydaje postanowienie, o którym mowa art. 123 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2025 r. poz. 1691), określające przyznane wnioskodawcy preferencje, biorąc pod uwagę działania prowadzące do powstania leku wytwarzanego na terytorium Rzeczypospolitej Polskiej.
 
 - **1)** bezpłatnie leku, wyrobu medycznego mającego udowodnioną skuteczność leczeniu nowotworu złośliwego, zaburzenia psychotycznego, upośledzenia umysłowego lub zaburzenia rozwojowego albo choroby zakaźnej o szczególnym zagrożeniu epidemicznym dla populacji, albo leku, środka spożywczego specjalnego przeznaczenia żywieniowego stosowanego ramach programu lekowego;
 - **2)** ryczałtowej leku, środka spożywczego specjalnego przeznaczenia żywieniowego, wyrobu medycznego:
@@ -505,7 +505,7 @@ Art. 56–66. (pominięte)
 
 2. Kandydaci na członków oraz członkowie Komisji składają ministrowi właściwemu do spraw zdrowia oświadczenie o niezachodzeniu okoliczności określonych ust. 1, pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. Kodeks karny (Dz. U. z 2025 r. poz. 383, 1818 i 1872), zwane dalej „deklaracją o braku konfliktu interesów”, odpowiednio przed powołaniem oraz przed każdym posiedzeniem Komisji, obejmujące okres 3 lat poprzedzających złożenie oświadczenia. Składający deklarację jest obowiązany do zawarcia niej klauzuli o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
-3. Zaistnienie okoliczności, o których mowa ust. 1, stanowi podstawę do odwołania członka ze składu Komisji. Komisji niezwłocznie informuje ministra właściwego do spraw zdrowia o tym fakcie. Minister właściwy do spraw zdrowia zawiesza członka pracach Komisji, wyznaczając mu termin usunięcia zaistniałych okoliczności. Po bezskutecznym upływie tego terminu, minister właściwy do spraw zdrowia odwołuje członka Komisji.
+3. Zaistnienie okoliczności, o których mowa ust. 1, stanowi podstawę do odwołania członka ze składu Komisji. zawiesza członka pracach Komisji, wyznaczając mu termin usunięcia zaistniałych okoliczności. Po bezskutecznym upływie tego terminu, minister właściwy do spraw zdrowia odwołuje członka Komisji.
 
 5. Deklaracja o braku konfliktu interesów zawiera:
 
@@ -554,7 +554,7 @@ Art. 56–66. (pominięte)
 - **1a)** objęcie refundacją i ustalenie ceny zbytu netto technologii lekowej o wysokiej wartości klinicznej;
 - **1b)** objęcie refundacją i ustalenie ceny zbytu netto technologii lekowej o wysokim poziomie innowacyjności;
 - **2)** podwyższenie ceny zbytu netto leku, środka spożywczego specjalnego przeznaczenia żywieniowego, wyrobu medycznego objętego refundacją;
-- **3)** obniżenie ceny zbytu netto leku, środka spożywczego specjalnego przeznaczenia żywieniowego, wyrobu medycznego objętego refundacją; wyrobu medycznego, o którym mowa art. 6 ust. 1 pkt 4;
+- **3)** obniżenie ceny zbytu netto leku, środka spożywczego specjalnego przeznaczenia żywieniowego, wyrobu medycznego objętego refundacją;
 - **5)** skrócenie okresu obowiązywania decyzji, o której mowa art. 11 ust. 1 albo ust. 6.
 
 1a. W przypadku wniosku, o którym mowa ust. 1 pkt 2, który został złożony okresie obowiązywania decyzji administracyjnej o objęciu refundacją trwającą przed wygaśnięciem okresu wyłączności rynkowej, o którym mowa art. 15 ust. 2 ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne, lub ochrony wynikającej z patentu, oraz okresie 12 miesięcy obowiązywania pierwszej decyzji administracyjnej o objęciu refundacją wydanej po zaistnieniu tych okoliczności, wniosek taki nie wywołuje skutku prawnego i pozostawia się go bez rozpoznania.
@@ -579,7 +579,7 @@ Art. 56–66. (pominięte)
 
 6. Wnioski wraz z załącznikami oraz inne wnioski, pisma ministra właściwego do spraw zdrowia oraz pisma strony składane postępowaniu zakresie wydania decyzji administracyjnej sprawie refundacji leku, środka spożywczego specjalnego przeznaczenia żywieniowego, wyrobu medycznego składa się postaci elektronicznej za pomocą SOLR.
 
-6a. Wnioski, o których mowa ust. 1, oraz dokumenty, o których mowa ust. 2, opatruje się podpisem zaufanym, podpisem osobistym lub kwalifikowanym podpisem elektronicznym. 6aa. Składający wniosek oświadcza pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. Kodeks karny, że dane zawarte we wniosku oraz informacje i dokumenty, o których mowa ust. 2, są zgodne z prawdą. Składający deklarację jest obowiązany dołączyć do wniosku klauzulę o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń. art. 25a pkt 14 lit. a–c, art. 25b pkt 14, art. 26 pkt 1 lit. h, pkt 2 lit. h oraz i, art. 28 pkt 7 lit. a i art. 29 pkt 5.
+6a. Wnioski, o których mowa ust. 1, oraz dokumenty, o których mowa ust. 2, opatruje się podpisem zaufanym, podpisem osobistym lub kwalifikowanym podpisem elektronicznym. 6aa. Składający wniosek oświadcza pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. Kodeks karny, że dane zawarte we wniosku oraz informacje i dokumenty, o których mowa ust. 2, są zgodne z prawdą. Składający deklarację jest obowiązany dołączyć do wniosku klauzulę o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
 6b. Z wnioskodawcami, o których mowa ust. 1, minister właściwy do spraw zdrowia komunikuje się za pomocą SOLR.
 
@@ -628,7 +628,7 @@ Art. 56–66. (pominięte)
 
 1. Minister właściwy do spraw zdrowia może wydać decyzję o objęciu refundacją i ustaleniu urzędowej ceny zbytu dla leku, tym leku o kategorii dostępności OTC, który wymaga stosowania dłużej niż 30 dni określonym stanie klinicznym i jest rekomendowany wytycznych postępowania klinicznego, przypadku gdy wnioskodawca nie złożył dotychczas wniosku o objęcie refundacją i ustalenie urzędowej ceny zbytu dla danego leku danym wskazaniu oraz upłynęła dla tego leku wyłączność rynkowa.
 
-2. Minister właściwy do spraw zdrowia zleca Prezesowi Agencji przygotowanie wykazu leków, o których mowa ust. 1. Prezes Agencji przygotowuje wykaz, uwzględniając wiedzę z zakresu oceny technologii medycznych, szczególności oczekiwane efekty zdrowotne, biorąc pod uwagę siłę interwencji, jakość danych naukowych, niezaspokojoną potrzebę zdrowotną, wielkość populacji docelowej oraz priorytety zdrowotne i wpływ na system ochrony zdrowia, tym wpływ na budżet płatnika. o którym mowa ust. 2, terminie 60 dni od daty otrzymania zlecenia.
+2. Minister właściwy do spraw zdrowia zleca Prezesowi Agencji przygotowanie wykazu leków, o których mowa ust. 1. Prezes Agencji przygotowuje wykaz, uwzględniając wiedzę z zakresu oceny technologii medycznych, szczególności oczekiwane efekty zdrowotne, biorąc pod uwagę siłę interwencji, jakość danych naukowych, niezaspokojoną potrzebę zdrowotną, wielkość populacji docelowej oraz priorytety zdrowotne i wpływ na system ochrony zdrowia, tym wpływ na budżet płatnika.
 
 4. Agencja ustala zasady tworzenia wykazu, o którym mowa ust. 2, uwzględniając wiedzę z zakresu oceny technologii medycznych, szczególności oczekiwane efekty zdrowotne, biorąc pod uwagę między innymi siłę interwencji, jakość danych naukowych, niezaspokojoną potrzebę zdrowotną, wielkość populacji docelowej oraz priorytety zdrowotne.
 
@@ -820,7 +820,7 @@ Art. 56–66. (pominięte)
 - **5)** informacji dotyczącej refundacji leku, środka spożywczego specjalnego przeznaczenia żywieniowego, wyrobu medycznego innych krajach;
 - **6)** opublikowanych informacji o skuteczności klinicznej i praktycznej;
 - **7)** informacji o bezpieczeństwie stosowania leku, środka spożywczego specjalnego przeznaczenia żywieniowego, wyrobu medycznego, z wyłączeniem informacji pochodzących z raportu okresowego o bezpieczeństwie (ang. Periodic Safety Update Report PSUR);
-- **8)** informacji o stosunku kosztów do uzyskiwanych efektów zdrowotnych wariancie bez instrumentu dzielenia ryzyka, o którym mowa art. 11 ust. 5; wyrobu medycznego;
+- **8)** informacji o stosunku kosztów do uzyskiwanych efektów zdrowotnych wariancie bez instrumentu dzielenia ryzyka, o którym mowa art. 11 ust. 5;
 - **10)** informacji o wpływie na wydatki podmiotu zobowiązanego do finansowania świadczeń ze środków publicznych i świadczeniobiorców wariancie bez instrumentu dzielenia ryzyka, o którym mowa art. 11 ust. 5.
 
 5. Analiza weryfikacyjna Agencji zawiera szczególności:
@@ -848,7 +848,7 @@ Art. 56–66. (pominięte)
     - **e)** propozycje instrumentów dzielenia ryzyka, o których mowa art. 11 ust. 5;
 
 - **3)** uzasadnienie zawierające:
-    - **a)** wskazanie dowodów naukowych, na podstawie których została wydana rekomendacja, tym dotyczących: skuteczności klinicznej i praktycznej, bezpieczeństwa stosowania, stosunku kosztów do uzyskiwanych efektów zdrowotnych dotychczas refundowanych leków, środków spożywczych specjalnego przeznaczenia żywieniowego, wyrobów medycznych, porównaniu z wnioskowanym, relacji korzyści zdrowotnych do ryzyka stosowania, stosowania,
+    - **a)** wskazanie dowodów naukowych, na podstawie których została wydana rekomendacja, tym dotyczących: skuteczności klinicznej i praktycznej, bezpieczeństwa stosowania, stosunku kosztów do uzyskiwanych efektów zdrowotnych dotychczas refundowanych leków, środków spożywczych specjalnego przeznaczenia żywieniowego, wyrobów medycznych, porównaniu z wnioskowanym, relacji korzyści zdrowotnych do ryzyka stosowania,
     - **c)** omówienie wpływu na wydatki podmiotu zobowiązanego do finansowania świadczeń ze środków publicznych i świadczeniobiorców,
     - **d)** wskazanie i omówienie rekomendacji klinicznych oraz dotyczących finansowania ze środków publicznych danego leku, środka spożywczego specjalnego przeznaczenia żywieniowego innych krajach,
     - **e)** wskazanie wartości progowej ceny zbytu netto, przy której stosunek kosztów do uzyskiwanych efektów zdrowotnych nie jest większy od progu kosztu uzyskania dodatkowego roku życia skorygowanego o jakość, o którym mowa art. 12 pkt 13 i art. 19 ust. 2 pkt 7, a przypadku braku możliwości wyznaczenia tego kosztu kosztu uzyskania dodatkowego roku życia,
@@ -922,7 +922,7 @@ Art. 56–66. (pominięte)
 2c. Minister właściwy do spraw zdrowia ogłasza obwieszczeniu, o którym mowa ust. 1, również:
 
 - **1)** leki, środki spożywcze specjalnego przeznaczenia żywieniowego oraz wyroby medyczne, o których mowa art. 6 ust. 2a, oraz
-- **2)** technologie lekowe o wysokiej wartości klinicznej oraz technologie lekowe o wysokim poziomie innowacyjności. czenia, o którym mowa ust. 1.
+- **2)** technologie lekowe o wysokiej wartości klinicznej oraz technologie lekowe o wysokim poziomie innowacyjności.
 
 4. Minister właściwy do spraw zdrowia ogłasza, drodze obwieszczenia, wykazy:
 
@@ -1022,7 +1022,7 @@ Art. 56–66. (pominięte)
 - **1)** ust. 7;
 - **2)** ust. 7a, jeżeli został określony, a potwierdzenie posiadania prawa do świadczeń opieki zdrowotnej i weryfikacja zlecenia następują za pośrednictwem serwisów internetowych lub usług informatycznych Funduszu.
 
-6d. Zlecenie na zaopatrzenie i zlecenie naprawy postaci papierowej wystawiane zgodnie ze wzorem uproszczonym zawiera co najmniej numer PESEL świadczeniobiorcy, a przypadku jego braku datę urodzenia, płeć oraz serię i numer paszportu albo serię i numer innego dokumentu potwierdzającego tożsamość. Zlecenie na zaopatrzenie i zlecenie naprawy postaci elektronicznej może także zawierać uproszczony zakres danych, o którym mowa zdaniu pierwszym. zleceniu, wzór zlecenia na zaopatrzenie postaci papierowej oraz wzór zlecenia naprawy postaci papierowej, uwzględniając konieczność zapewnienia prawidłowego wystawiania zleceń oraz prawidłowej ich realizacji.
+6d. Zlecenie na zaopatrzenie i zlecenie naprawy postaci papierowej wystawiane zgodnie ze wzorem uproszczonym zawiera co najmniej numer PESEL świadczeniobiorcy, a przypadku jego braku datę urodzenia, płeć oraz serię i numer paszportu albo serię i numer innego dokumentu potwierdzającego tożsamość. Zlecenie na zaopatrzenie i zlecenie naprawy postaci elektronicznej może także zawierać uproszczony zakres danych, o którym mowa zdaniu pierwszym. niając konieczność zapewnienia prawidłowego wystawiania zleceń oraz prawidłowej ich realizacji.
 
 7a. Minister właściwy do spraw zdrowia może określić, drodze rozporządzenia, uproszczone wzory zlecenia na zaopatrzenie oraz uproszczone wzory zlecenia naprawy, uwzględniając specyfikę poszczególnych wyrobów medycznych oraz minimalny zakres danych zapewniający prawidłową realizację zleceń.
 
@@ -1096,7 +1096,7 @@ Art. 56–66. (pominięte)
 
 14. (uchylony)
 
-15. Do potwierdzenia prawa do świadczeń stosuje się odpowiednio art. 50 ustawy o świadczeniach. prawnych lub innych osób niemogących wyrazić swojej woli z powodu stanu zdrowia oświadczenie, o którym mowa art. 50 ust. 6 ustawy o świadczeniach, składa ich przedstawiciel ustawowy, opiekun prawny, pełnomocnik albo opiekun faktyczny rozumieniu ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2024 r. poz. 581 oraz z 2026 r. poz. 26), podając imię i nazwisko, numer PESEL oraz wskazanie dokumentu, na podstawie którego świadczeniodawca potwierdził tożsamość osoby składającej oświadczenie, a przypadku osób nieposiadających numeru PESEL dane, o których mowa art. 188 ust. 4 pkt 9 ustawy o świadczeniach.
+15. Do potwierdzenia prawa do świadczeń stosuje się odpowiednio art. 50 ustawy o świadczeniach. art. 50 ust. 6 ustawy o świadczeniach, składa ich przedstawiciel ustawowy, opiekun prawny, pełnomocnik albo opiekun faktyczny rozumieniu ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2024 r. poz. 581 oraz z 2026 r. poz. 26), podając imię i nazwisko, numer PESEL oraz wskazanie dokumentu, na podstawie którego świadczeniodawca potwierdził tożsamość osoby składającej oświadczenie, a przypadku osób nieposiadających numeru PESEL dane, o których mowa art. 188 ust. 4 pkt 9 ustawy o świadczeniach.
 
 17. W przypadku działania przez pełnomocnika pełnomocnictwo albo jego kopię dołącza się do realizowanego zlecenia.
 
@@ -1132,7 +1132,7 @@ Art. 56–66. (pominięte)
 
 12. Po zakończeniu realizacji zlecenia świadczeniodawca realizujący zlecenie postaci papierowej przechowuje zlecenie wraz z dokumentacją potwierdzającą dokonanie jego realizacji przez 5 lat od dnia zakończenia realizacji zlecenia.
 
-12a. Po zakończeniu realizacji, zlecenia postaci elektronicznej przechowywane są przez serwisy internetowe lub usługi informatyczne Funduszu przez okres co najmniej 5 lat od dnia zakończenia realizacji zlecenia. dawcę, realizującego zlecenie odbywa się zgodnie z przepisami rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. sprawie ochrony osób fizycznych związku z przetwarzaniem danych osobowych i sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.).
+12a. Po zakończeniu realizacji, zlecenia postaci elektronicznej przechowywane są przez serwisy internetowe lub usługi informatyczne Funduszu przez okres co najmniej 5 lat od dnia zakończenia realizacji zlecenia. z dnia 27 kwietnia 2016 r. sprawie ochrony osób fizycznych związku z przetwarzaniem danych osobowych i sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.).
 
 14. (uchylony)
 
@@ -1194,7 +1194,7 @@ Art. 56–66. (pominięte)
 
 1. Minister właściwy do spraw zdrowia może wydać decyzję administracyjną o objęciu refundacją dla technologii lekowej o wysokim poziomie innowacyjności, przypadku gdy wnioskodawca nie złożył dotychczas wniosku o objęcie refundacją dla danego leku tym wskazaniu.
 
-2. Ustalenie poziomu innowacyjności technologii lekowych stosowanych onkologii lub chorobach rzadkich oraz ustalenie danych gromadzonych rejestrze medycznym, szczególności wskaźników oceny efektywności terapii i oczekiwanych korzyści zdrowotnych, jest dokonywane przez Agencję formie wykazu technologii lekowej o wysokim poziomie innowacyjności nierzadziej niż raz roku, jednak niepóźniej niż do dnia 15 marca roku następującego po roku opracowania tego wykazu. Agencja określa populację docelową oraz szczegółowe warunki stosowania technologii lekowych o wysokim poziomie innowacyjności, uwzględniając przy tym wyniki raportu ze wspólnej oceny klinicznej, o którym mowa art. 13 ust. 1 lit. a oraz c rozporządzenia 2021/2282, dotyczącego ocenianej technologii medycznej, jeżeli został opublikowany na platformie informatycznej, o której mowa art. 30 rozporządzenia 2021/2282. o którym mowa ust. 2, niepóźniej niż do dnia 31 marca roku następującego po roku, którego dotyczyć będzie ten wykaz.
+2. Ustalenie poziomu innowacyjności technologii lekowych stosowanych onkologii lub chorobach rzadkich oraz ustalenie danych gromadzonych rejestrze medycznym, szczególności wskaźników oceny efektywności terapii i oczekiwanych korzyści zdrowotnych, jest dokonywane przez Agencję formie wykazu technologii lekowej o wysokim poziomie innowacyjności nierzadziej niż raz roku, jednak niepóźniej niż do dnia 15 marca roku następującego po roku opracowania tego wykazu. Agencja określa populację docelową oraz szczegółowe warunki stosowania technologii lekowych o wysokim poziomie innowacyjności, uwzględniając przy tym wyniki raportu ze wspólnej oceny klinicznej, o którym mowa art. 13 ust. 1 lit. a oraz c rozporządzenia 2021/2282, dotyczącego ocenianej technologii medycznej, jeżeli został opublikowany na platformie informatycznej, o której mowa art. 30 rozporządzenia 2021/2282.
 
 4. Agencja ustala poziom innowacyjności oraz zasady tworzenia wykazu, o którym mowa ust. 2, uwzględniając wiedzę z zakresu oceny technologii medycznych, szczególności oczekiwane efekty zdrowotne, biorąc pod uwagę między innymi siłę interwencji, jakość danych naukowych, niezaspokojoną potrzebę zdrowotną, wielkość populacji docelowej oraz priorytety zdrowotne.
 
@@ -1229,7 +1229,7 @@ Art. 56–66. (pominięte)
 - **1)** kopię zezwolenia na prowadzenie apteki;
 - **2)** kopie dokumentów uprawniających kierownika apteki do pełnienia tej funkcji;
 - **3)** aktualną ewidencję osób zatrudnionych aptece wraz z numerami dokumentów uprawniających do wykonywania zawodu;
-- **4)** numer rachunku bankowego podmiotu prowadzącego aptekę. o których mowa ust. 4 pkt 3.
+- **4)** numer rachunku bankowego podmiotu prowadzącego aptekę.
 
 5. Fundusz nie może odmówić zawarcia umowy na realizację recept, z zastrzeżeniem ust. 7. Do zawierania umowy nie stosuje się przepisów o zamówieniach publicznych.
 
@@ -1270,7 +1270,7 @@ Art. 56–66. (pominięte)
 - **3)** udostępniać do kontroli prowadzonej przez podmiot zobowiązany do finansowania świadczeń ze środków publicznych dokumentację, którą apteka jest obowiązana prowadzić związku z realizacją umowy, i udzielać wyjaśnień zakresie związanym z realizacją recept podlegających refundacji;
 - **4)** udostępnić do kontroli podmiotowi zobowiązanemu do finansowania świadczeń opieki zdrowotnej ze środków publicznych, terminie określonym przez ten podmiot, informacje o treści każdej umowy, tym także uzgodnienia dokonanego jakiejkolwiek formie, pomiędzy apteką a hurtownią farmaceutyczną, których celem jest nabycie leków, środków spożywczych specjalnego przeznaczenia żywieniowego, wyrobów medycznych;
 - **5)** zamieścić, widocznym i łatwo dostępnym miejscu, informację o zawarciu umowy na realizację recept oraz informację, o której mowa art. 44 ust. 1;
-- **6)** zwrotu refundacji ceny leku, środka spożywczego specjalnego przeznaczenia żywieniowego, wyrobu medycznego łącznie z odsetkami ustawowymi za opóźnienie liczonymi od dnia, którym wypłacono refundację, do dnia jej zwrotu, terminie 14 dni od dnia otrzymania wezwania do zapłaty, jeżeli wyniku weryfikacji lub kontroli informacji, o których mowa pkt 2, lub kontroli, o której mowa pkt 3 i 4, zostanie stwierdzone, że realizacja recepty nastąpiła z naruszeniem przepisów ustawy, ustawy o świadczeniach, ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne, ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2026 r. poz. 37), ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii lub ustawy z dnia 10 grudnia 2020 r. o zawodzie farmaceuty (Dz. U. z 2025 r. poz. 608); medyczne wraz z otaksowaniem przez okres 5 lat, liczonych od zakończenia roku kalendarzowego, którym nastąpiła refundacja.
+- **6)** zwrotu refundacji ceny leku, środka spożywczego specjalnego przeznaczenia żywieniowego, wyrobu medycznego łącznie z odsetkami ustawowymi za opóźnienie liczonymi od dnia, którym wypłacono refundację, do dnia jej zwrotu, terminie 14 dni od dnia otrzymania wezwania do zapłaty, jeżeli wyniku weryfikacji lub kontroli informacji, o których mowa pkt 2, lub kontroli, o której mowa pkt 3 i 4, zostanie stwierdzone, że realizacja recepty nastąpiła z naruszeniem przepisów ustawy, ustawy o świadczeniach, ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne, ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2026 r. poz. 37), ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii lub ustawy z dnia 10 grudnia 2020 r. o zawodzie farmaceuty (Dz. U. z 2025 r. poz. 608); refundacja.
 
 2. W razie stwierdzenia trakcie czynności kontrolnych nieprawidłowości innych niż naruszenie obowiązków, o których mowa ust. 1, podmiot zobowiązany do finansowania świadczeń ze środków publicznych niezwłocznie powiadamia o tym fakcie wojewódzkiego inspektora farmaceutycznego.
 
@@ -1345,7 +1345,7 @@ Art. 56–66. (pominięte)
 
 12. Korekty do zamkniętego okresu rozliczeniowego apteka może składać terminie 3 miesięcy od daty jego zamknięcia, niepóźniej jednak niż do 15 marca roku następnego, z zastrzeżeniem ust. 9.
 
-13. Fundusz może prowadzić analizy uzgodnionych zestawień zbiorczych po zamknięciu okresu rozliczeniowego, co może skutkować wezwaniem do złożenia przez aptekę korekty. szowi, przez ich porównanie z danymi objętymi wpisem do Krajowego Rejestru Zezwoleń Na Prowadzenie Aptek Ogólnodostępnych, Punktów Aptecznych oraz Rejestru Udzielonych Zezwoleń na Prowadzenie Aptek Szpitalnych i Zakładowych, szczególności zakresie danych dotyczących kierowników aptek.
+13. Fundusz może prowadzić analizy uzgodnionych zestawień zbiorczych po zamknięciu okresu rozliczeniowego, co może skutkować wezwaniem do złożenia przez aptekę korekty. dostępnych, Punktów Aptecznych oraz Rejestru Udzielonych Zezwoleń na Prowadzenie Aptek Szpitalnych i Zakładowych, szczególności zakresie danych dotyczących kierowników aptek.
 
 14. (uchylony)
 
@@ -1426,7 +1426,7 @@ Art. 56–66. (pominięte)
 
 6. (uchylony)
 
-7. Osoba uprawniona, z wyłączeniem lekarza ubezpieczenia zdrowotnego, felczera ubezpieczenia zdrowotnego, rozumieniu ustawy o świadczeniach, pielęgniarki ubezpieczenia zdrowotnego i położnej ubezpieczenia zdrowotnego, rozumieniu ustawy o świadczeniach, o których mowa art. 15a ust. 1 i 2 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej, oraz podmiot wykonujący działalność leczniczą, ramach którego wystawiono receptę na co najmniej jeden refundowany lek, środek spożywczy specjalnego przeznaczenia żywieniowego oraz wyrób medyczny lub zlecenie na wyrób medyczny, są obowiązani poddać się kontroli przeprowadzanej lub zlecanej przez Fundusz zakresie dokumentacji medycznej dotyczącej zasadności i prawidłowości wystawiania recept na refundowane leki, środki spożywcze specjalnego przeznaczenia żywieniowego oraz wyroby medyczne i zleceń na wyroby medyczne. Do kontroli stosuje się przepisy działu IIIA ustawy o świadczeniach. zumieniu ustawy o świadczeniach, pielęgniarki ubezpieczenia zdrowotnego i położnej ubezpieczenia zdrowotnego, rozumieniu ustawy o świadczeniach, o których mowa art. 15a ust. 1 i 2 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej, jest obowiązana do zwrotu Funduszowi kwoty stanowiącej równowartość kwoty refundacji wraz z odsetkami ustawowymi liczonymi od dnia dokonania refundacji, o której mowa art. 46 ust. 1, przypadku:
+7. Osoba uprawniona, z wyłączeniem lekarza ubezpieczenia zdrowotnego, felczera ubezpieczenia zdrowotnego, rozumieniu ustawy o świadczeniach, pielęgniarki ubezpieczenia zdrowotnego i położnej ubezpieczenia zdrowotnego, rozumieniu ustawy o świadczeniach, o których mowa art. 15a ust. 1 i 2 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej, oraz podmiot wykonujący działalność leczniczą, ramach którego wystawiono receptę na co najmniej jeden refundowany lek, środek spożywczy specjalnego przeznaczenia żywieniowego oraz wyrób medyczny lub zlecenie na wyrób medyczny, są obowiązani poddać się kontroli przeprowadzanej lub zlecanej przez Fundusz zakresie dokumentacji medycznej dotyczącej zasadności i prawidłowości wystawiania recept na refundowane leki, środki spożywcze specjalnego przeznaczenia żywieniowego oraz wyroby medyczne i zleceń na wyroby medyczne. Do kontroli stosuje się przepisy działu IIIA ustawy o świadczeniach. mieniu ustawy o świadczeniach, o których mowa art. 15a ust. 1 i 2 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej, jest obowiązana do zwrotu Funduszowi kwoty stanowiącej równowartość kwoty refundacji wraz z odsetkami ustawowymi liczonymi od dnia dokonania refundacji, o której mowa art. 46 ust. 1, przypadku:
 
 - **1)** wypisania recepty okresie pozbawienia prawa wystawiania recept, o którym mowa ust. 5,
 - **2)** wypisania recepty nieuzasadnionej udokumentowanymi względami medycznymi,
@@ -1494,7 +1494,8 @@ Art. 56–66. (pominięte)
 
 2. Karę pieniężną, o której mowa ust. 1 pkt 1–3, wymierza się wysokości wartości sprzedanych z naruszeniem przepisów ustawy leków, środków spożywczych specjalnego przeznaczenia żywieniowego, wyrobów medycznych powiększonej o wartość do 5 % obrotu produktami, stosunku do których wydana została decyzja administracyjna o objęciu refundacją, osiągniętego poprzednim roku kalendarzowym.
 
-- **1)** cenę zbytu netto przypadku wnioskodawcy,
+3. Przy ustalaniu wysokości tej wartości bierze się pod uwagę:
+
 - **2)** cenę hurtową netto przypadku podmiotu uprawnionego do obrotu hurtowego,
 - **3)** cenę detaliczną netto przypadku podmiotu uprawnionego do obrotu detalicznego otrzymanej poprzednim roku kalendarzowym kwoty z tytułu refundacji.
 
@@ -1637,7 +1638,7 @@ Art. 56–66. (pominięte)
 
 2. Do wniosków tych przepis art. 67 ust. 7–12 stosuje się odpowiednio.
 
-3. Jeżeli wniosek, o którym mowa ust. 1 dotyczy leku, środka spożywczego specjalnego przeznaczenia żywieniowego, wyrobu medycznego, nieposiadającego swojego odpowiednika danym wskazaniu na wykazach, o których mowa art. 36 ust. 5, art. 37 ust. 2 i art. 38 ust. 6 ustawy, o której mowa art. 63 , brzmieniu obowiązującym przed dniem wejścia życie niniejszej ustawy, przepis art. 31i, art. 39 ust. 2d, 2e pkt 1 oraz ust. 2f–2j ustawy, o której mowa art. 63 , brzmieniu obowiązującym przed dniem wejścia życie niniejszej ustawy, stosuje się. żywcze specjalnego przeznaczenia żywieniowego, zawarte wykazie, o którym mowa art. 37 ust. 2 pkt 2 ustawy, o której mowa art. 63 , brzmieniu obowiązującym przed dniem wejścia życie niniejszej ustawy wydawane za odpłatnością ryczałtową, minister właściwy do spraw zdrowia kwalifikuje do odpłatności ryczałtowej, o ile zgodnie z aktualną wiedzą medyczną stosuje się je dłużej niż 30 dni.
+3. Jeżeli wniosek, o którym mowa ust. 1 dotyczy leku, środka spożywczego specjalnego przeznaczenia żywieniowego, wyrobu medycznego, nieposiadającego swojego odpowiednika danym wskazaniu na wykazach, o których mowa art. 36 ust. 5, art. 37 ust. 2 i art. 38 ust. 6 ustawy, o której mowa art. 63 , brzmieniu obowiązującym przed dniem wejścia życie niniejszej ustawy, przepis art. 31i, art. 39 ust. 2d, 2e pkt 1 oraz ust. 2f–2j ustawy, o której mowa art. 63 , brzmieniu obowiązującym przed dniem wejścia życie niniejszej ustawy, stosuje się. mowa art. 63 , brzmieniu obowiązującym przed dniem wejścia życie niniejszej ustawy wydawane za odpłatnością ryczałtową, minister właściwy do spraw zdrowia kwalifikuje do odpłatności ryczałtowej, o ile zgodnie z aktualną wiedzą medyczną stosuje się je dłużej niż 30 dni.
 
 **Art. 73.** W celu obliczenia po raz pierwszy kwoty przekroczenia, o której mowa art. 4 ust. 1, za planową kwotę refundacji grupie limitowej roku 2011 rozumie się wykonaną kwotę refundacji tej grupie roku 2011.
 

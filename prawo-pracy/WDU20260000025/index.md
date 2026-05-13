@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 12 stycznia 2026 r.
+# o zmianie ustawy – Kodeks pracy oraz ustawy o zakładowym funduszu świadczeń socjalnych
+
+*USTAWA z 4 grudnia 2025 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,13 +26,9 @@ domain: null
 | Ostatnia zmiana | 2026-01-19 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000025) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/25/text.pdf) |
 
-Poz. 25
-USTAWA z dnia 4 grudnia 2025 r.
-o zmianie ustawy – Kodeks pracy oraz ustawy o zakładowym funduszu świadczeń socjalnych
+**Art. 1.** W ustawie z 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277, 807, 1423 i 1661) wprowadza się następujące zmiany:
 
-**Art. 1.** W ustawie z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277, 807, 1423 i 1661) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z 4 marca 1994 r. o zakładowym funduszu świadczeń socjalnych (Dz. U. z 2024 r. poz. 288) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie z dnia 4 marca 1994 r. o zakładowym funduszu świadczeń socjalnych (Dz. U. z 2024 r. poz. 288) wprowadza się następujące zmiany:
-
-**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: K. Nawrocki
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od ogłoszenia. Prezydent Rzeczypospolitej Polskiej: K. Nawrocki
 

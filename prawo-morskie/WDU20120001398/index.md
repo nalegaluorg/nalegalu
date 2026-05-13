@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 12 grudnia 2012 r.
+# o uchyleniu dekretu o obszarach szczególnie ważnych dla obrony kraju oraz o zmianie ustawy – Kodeks morski
+
+*USTAWA z dnia 12 października 2012 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +25,6 @@ domain: null
 | Data wydania | 2012-12-12 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001398) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1398/text.pdf) |
-
-Poz. 1398
-USTAWA z dnia 12 października 2012 r.
-o uchyleniu dekretu o obszarach szczególnie ważnych dla obrony kraju oraz o zmianie ustawy – Kodeks morski
 
 **Art. 1.** Traci moc dekret z dnia 6 września 1951 r. o obszarach szczególnie ważnych dla obrony kraju (Dz. U. Nr 46, poz. 341 oraz z 2001 r. Nr 69, poz. 725).
 

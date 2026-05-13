@@ -10,7 +10,9 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 9 maja 2022 r.
+# o wyrobach medycznych
+
+*USTAWA z dnia 7 kwietnia 2022 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,7 @@ domain: null
 | Ostatnia zmiana | 2024-11-19 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000974) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/974/text.pdf) |
 
-USTAWA z dnia 7 kwietnia 2022 r.
-o wyrobach medycznych
+Art. 105–136. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -37,7 +38,7 @@ o wyrobach medycznych
 - **2)** właściwość, uprawnienia, obowiązki i zadania organów,
 - **3)** kary administracyjne,
 - **4)** zasady i tryb prowadzenia badania klinicznego wyrobu medycznego i badania działania wyrobu medycznego do diagnostyki in vitro,
-- **5)** wysokość i tryb uiszczania opłat służące stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 2017/745”, oraz rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE (Dz. Urz. UE L 117 z 05.05.2017, str. 176, z późn. zm. ), zwanego dalej „rozporządzeniem 2017/746”.
+- **5)** wysokość i tryb uiszczania opłat – służące stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 2017/745”, oraz rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE (Dz. Urz. UE L 117 z 05.05.2017, str. 176, z późn. zm. ), zwanego dalej „rozporządzeniem 2017/746”.
 
 2. Ustawa określa także:
 
@@ -53,7 +54,7 @@ o wyrobach medycznych
 
 - **1)** organem właściwym w rozumieniu art. 101 rozporządzenia 2017/745 oraz art. 96 rozporządzenia 2017/746;
 - **2)** organem odpowiedzialnym za jednostki notyfikowane, o którym mowa w art. 35 ust. 1 rozporządzenia 2017/745 oraz art. 31 ust. 1 rozporządzenia 2017/746;
-- **3)** organem właściwym, o którym mowa w sekcji 5.2 lit. b i sekcji 5.4 lit. b załącznika IX do rozporządzenia 2017/745 oraz sekcji 5.2 lit. c załącznika IX do rozporządzenia 2017/746, właściwym do wydania opinii naukowej na temat jakości i bezpieczeństwa substancji leczniczej stanowiącej integralną część wyrobu medycznego, w tym stosunku korzyści do ryzyka wynikających z włączenia substancji do wyrobu medycznego, opinii naukowej na temat zgodności wyrobu medycznego lub produktów jego metabolizmu z odpowiednimi wymogami określonymi w ustawie z dnia 6 września 2001 r. Prawo farmaceutyczne (Dz. U. z 2021 r. poz. 1977 i 2120 oraz z 2022 r. poz. 830) oraz opinii naukowej w sprawie odpowiedniości wyrobu do diagnostyki w terapii celowanej w odniesieniu do danego produktu leczniczego;
+- **3)** organem właściwym, o którym mowa w sekcji 5.2 lit. b i sekcji 5.4 lit. b załącznika IX do rozporządzenia 2017/745 oraz sekcji 5.2 lit. c załącznika IX do rozporządzenia 2017/746, właściwym do wydania opinii naukowej na temat jakości i bezpieczeństwa substancji leczniczej stanowiącej integralną część wyrobu medycznego, w tym stosunku korzyści do ryzyka wynikających z włączenia substancji do wyrobu medycznego, opinii naukowej na temat zgodności wyrobu medycznego lub produktów jego metabolizmu z odpowiednimi wymogami określonymi w ustawie z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2024 r. poz. 686) oraz opinii naukowej w sprawie odpowiedniości wyrobu do diagnostyki w terapii celowanej w odniesieniu do danego produktu leczniczego;
 - **4)** organem właściwym, o którym mowa w art. 5 ust. 4 i 5 rozporządzenia Komisji (UE) nr 722/2012 z dnia 8 sierpnia 2012 r. dotyczącego szczególnych wymagań odnoszących się do wymagań ustanowionych w dyrektywach Rady 90/385/EWG i 93/42/EWG dla aktywnych wyrobów medycznych do implantacji oraz wyrobów medycznych produkowanych z wykorzystaniem tkanek pochodzenia zwierzęcego (Dz. Urz. UE L 212 z 09.08.2012, str. 3);
 - **5)** organem nadzoru rynku, o którym mowa w art. 3 pkt 4 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/1020 z dnia 20 czerwca 2019 r. w sprawie nadzoru rynku i zgodności produktów oraz zmieniającego dyrektywę 2004/42/WE oraz rozporządzenia (WE) nr 765/2008 i (UE) nr 305/2011 (Dz. Urz. UE L 169 z 25.06.2019, str. 1).
 
@@ -90,7 +91,7 @@ o wyrobach medycznych
 - **19)** Krajowym Centrum Bankowania Tkanek i Komórek,
 - **20)** Prezesem Rządowej Agencji Rezerw Strategicznych,
 - **21)** Komendantem Głównym Państwowej Straży Pożarnej,
-- **22)** instytutami badawczymi i uczelniami w zakresie ich właściwości.
+- **22)** instytutami badawczymi i uczelniami – w zakresie ich właściwości.
 
 2. Podmioty, o których mowa w ust. 1 pkt 1–21, powiadamiają Prezesa Urzędu o stwierdzonych nieprawidłowościach dotyczących wyrobów, systemów lub zestawów zabiegowych.
 
@@ -106,16 +107,16 @@ o wyrobach medycznych
 
 **Art. 7.**
 
-1. W celu umożliwienia Prezesowi Urzędu wykonywania zadań wynikających z rozporządzenia 2017/745 i rozporządzenia 2017/746 usługodawcy, w rozumieniu art. 2 pkt 6 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2020 r. poz. 344), są obowiązani, na żądanie Prezesa Urzędu, niezwłocznie udostępnić mu posiadane dane dotyczące wyrobów, systemów lub zestawów zabiegowych, a także usług świadczonych za ich pomocą, oferowanych lub świadczonych drogą elektroniczną w rozumieniu tej ustawy oraz podmiotów i osób oferujących takie wyroby, systemy, zestawy zabiegowe lub usługi.
+1. W celu umożliwienia Prezesowi Urzędu wykonywania zadań wynikających z rozporządzenia 2017/745 i rozporządzenia 2017/746 usługodawcy, w rozumieniu art. 2 pkt 6 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2020 r. poz. 344 oraz z 2024 r. poz. 1222), są obowiązani, na żądanie Prezesa Urzędu, niezwłocznie udostępnić mu posiadane dane dotyczące wyrobów, systemów lub zestawów zabiegowych, a także usług świadczonych za ich pomocą, oferowanych lub świadczonych drogą elektroniczną w rozumieniu tej ustawy oraz podmiotów i osób oferujących takie wyroby, systemy, zestawy zabiegowe lub usługi.
 
 2. Dane, o których mowa w ust. 1, obejmują:
 
 - **1)** nazwę lub imię i nazwisko, adres prowadzenia działalności gospodarczej lub adres zamieszkania, oraz numer telefonu i adres poczty elektronicznej,
 - **2)** nazwę i rodzaj wyrobów, systemów lub zestawów zabiegowych,
 - **3)** rodzaj świadczonych usług,
-- **4)** liczbę sprzedanych wyrobów, systemów lub zestawów zabiegowych, lub wykonanych usług o ile dany podmiot lub osoba takie dane posiada.
+- **4)** liczbę sprzedanych wyrobów, systemów lub zestawów zabiegowych, lub wykonanych usług – o ile dany podmiot lub osoba takie dane posiada.
 
-3. Przepisy ust. 1 i 2 stosuje się odpowiednio do przedsiębiorców telekomunikacyjnych w rozumieniu art. 2 pkt 27 ustawy z dnia 16 lipca 2004 r. Prawo telekomunikacyjne (Dz. U. z 2021 r. poz. 576 oraz z 2022 r. poz. 501).
+3. Przepisy ust. 1 i 2 stosuje się odpowiednio do przedsiębiorców komunikacji elektronicznej w rozumieniu art. 2 pkt 39 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej (Dz. U. poz. 1221).
 
 **Art. 8.**
 
@@ -131,11 +132,11 @@ o wyrobach medycznych
 
 6. Naczelnik urzędu celno-skarbowego informuje Prezesa Urzędu o działaniach podjętych w odniesieniu do zatrzymanych wyrobów, systemów lub zestawów zabiegowych.
 
-7. Do zgłoszenia o objęcie wyrobu procedurą dopuszczenia do obrotu w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 952/2013 z dnia 9 października 2013 r. ustanawiającego unijny kodeks celny (Dz. Urz. UE L 269 z 10.10.2013, str. 1, z późn. zm. ), zwanego dalej „unijnym kodeksem celnym”, importer mający miejsce zamieszkania lub siedzibę na terytorium Rzeczypospolitej Polskiej jest obowiązany przedłożyć kopię deklaracji zgodności UE, a jeżeli w procedurze oceny zgodności wyrobu powinna brać udział jednostka notyfikowana także kopie odpowiednich certyfikatów zgodności.
+7. Do zgłoszenia o objęcie wyrobu procedurą dopuszczenia do obrotu w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 952/2013 z dnia 9 października 2013 r. ustanawiającego unijny kodeks celny (Dz. Urz. UE L 269 z 10.10.2013, str. 1, z późn. zm. ), zwanego dalej „unijnym kodeksem celnym”, importer mający miejsce zamieszkania lub siedzibę na terytorium Rzeczypospolitej Polskiej jest obowiązany przedłożyć kopię deklaracji zgodności UE, a jeżeli w procedurze oceny zgodności wyrobu powinna brać udział jednostka notyfikowana – także kopie odpowiednich certyfikatów zgodności.
 
-8. Do zgłoszenia o objęcie systemu lub zestawu zabiegowego procedurą dopuszczenia do obrotu w rozumieniu przepisów unijnego kodeksu celnego importer mający miejsce zamieszkania lub siedzibę na terytorium Rzeczypospolitej Polskiej jest obowiązany przedłożyć kopię oświadczenia, o którym mowa w art. 22 ust. 2 rozporządzenia 2017/745, a w przypadku sterylnego systemu lub sterylnego zestawu zabiegowego także kopię oświadczenia, o którym mowa w art. 22 ust. 3 rozporządzenia 2017/745, i kopię odpowiedniego certyfikatu zgodności.
+8. Do zgłoszenia o objęcie systemu lub zestawu zabiegowego procedurą dopuszczenia do obrotu w rozumieniu przepisów unijnego kodeksu celnego importer mający miejsce zamieszkania lub siedzibę na terytorium Rzeczypospolitej Polskiej jest obowiązany przedłożyć kopię oświadczenia, o którym mowa w art. 22 ust. 2 rozporządzenia 2017/745, a w przypadku sterylnego systemu lub sterylnego zestawu zabiegowego – także kopię oświadczenia, o którym mowa w art. 22 ust. 3 rozporządzenia 2017/745, i kopię odpowiedniego certyfikatu zgodności.
 
-9. Do zgłoszenia o objęcie wyrobu wykonanego na zamówienie procedurą dopuszczenia do obrotu w rozumieniu przepisów unijnego kodeksu celnego importer mający miejsce zamieszkania lub siedzibę na terytorium Rzeczypospolitej Polskiej jest obowiązany przedłożyć kopię oświadczenia, o którym mowa w sekcji 1 załącznika XIII do rozporządzenia 2017/745, a w przypadku wykonanego na zamówienie wyrobu do implantacji klasy III także kopię odpowiedniego certyfikatu zgodności.
+9. Do zgłoszenia o objęcie wyrobu wykonanego na zamówienie procedurą dopuszczenia do obrotu w rozumieniu przepisów unijnego kodeksu celnego importer mający miejsce zamieszkania lub siedzibę na terytorium Rzeczypospolitej Polskiej jest obowiązany przedłożyć kopię oświadczenia, o którym mowa w sekcji 1 załącznika XIII do rozporządzenia 2017/745, a w przypadku wykonanego na zamówienie wyrobu do implantacji klasy III – także kopię odpowiedniego certyfikatu zgodności.
 
 **Art. 9.**
 
@@ -186,7 +187,7 @@ o wyrobach medycznych
 
 **Art. 13.** Wyroby, systemy i zestawy zabiegowe, sprowadzane spoza terytorium państw członkowskich przez podmioty i osoby wykorzystujące wyroby do wykonywania działalności gospodarczej lub zawodowej, muszą być zgodne z przepisami rozporządzenia 2017/745 albo rozporządzenia 2017/746.
 
-**Art. 14.** Obowiązki importera lub dystrybutora, mającego siedzibę na terytorium Rzeczypospolitej Polskiej, stosuje się do przedsiębiorcy zagranicznego będącego importerem lub dystrybutorem wykonującym działalność gospodarczą na terytorium Rzeczypospolitej Polskiej w formie oddziału w rozumieniu art. 3 pkt 4 ustawy z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2022 r. poz. 470).
+**Art. 14.** Obowiązki importera lub dystrybutora, mającego siedzibę na terytorium Rzeczypospolitej Polskiej, stosuje się do przedsiębiorcy zagranicznego będącego importerem lub dystrybutorem wykonującym działalność gospodarczą na terytorium Rzeczypospolitej Polskiej w formie oddziału w rozumieniu art. 3 pkt 4 ustawy z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2022 r. poz. 470 oraz z 2024 r. poz. 1222).
 
 **Art. 15.**
 
@@ -217,7 +218,7 @@ o wyrobach medycznych
 
 3. Decyzję, o której mowa w ust. 2, Prezes Urzędu publikuje w Biuletynie Informacji Publicznej na stronie podmiotowej Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych.
 
-4. Umowa sprzedaży wyrobu nie może zostać zawarta poza lokalem przedsiębiorstwa w rozumieniu ustawy z dnia 30 maja 2014 r. o prawach konsumenta (Dz. U. z 2020 r. poz. 287 oraz z 2021 r. poz. 2105). Umowa zawarta poza lokalem przedsiębiorstwa jest nieważna.
+4. Umowa sprzedaży wyrobu nie może zostać zawarta poza lokalem przedsiębiorstwa w rozumieniu ustawy z dnia 30 maja 2014 r. o prawach konsumenta (Dz. U. z 2023 r. poz. 2759 oraz z 2024 r. poz. 1222). Umowa zawarta poza lokalem przedsiębiorstwa jest nieważna.
 
 5. Przepisu ust. 4 nie stosuje się do umowy zawartej podczas wizyty w domu konsumenta lub miejscu jego pobytu na jego wyraźne zaproszenie.
 
@@ -255,7 +256,7 @@ o wyrobach medycznych
 
 3. Upoważniony przedstawiciel, mający miejsce zamieszkania lub siedzibę na terytorium Rzeczypospolitej Polskiej, który zgodnie z art. 31 ust. 1 rozporządzenia 2017/745 albo art. 28 ust. 1 rozporządzenia 2017/746 przedłożył do systemu elektronicznego, o którym mowa w art. 33 rozporządzenia 2017/745 lub art. 30 rozporządzenia 2017/746, informacje wymagane w celu rejestracji, składa do Prezesa Urzędu wniosek o wydanie niepowtarzalnego numeru rejestracyjnego, o którym mowa w art. 31 ust. 2 rozporządzenia 2017/745 albo art. 28 ust. 2 rozporządzenia 2017/746.
 
-4. Wniosek, o którym mowa w ust. 1–3, osoba reprezentująca podmiot składający wniosek składa osobiście w Urzędzie Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych, legitymując się dokumentem stwierdzającym tożsamość, albo w postaci elektronicznej przez elektroniczną Platformę Usług Administracji Publicznej z profilu zaufanego tej osoby, albo w postaci elektronicznej opatrzony kwalifikowanym podpisem elektronicznym tej osoby na adres poczty elektronicznej podany w Biuletynie Informacji Publicznej na stronie podmiotowej Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych, albo podpisany przy pomocy podpisu osobistego w rozumieniu art. 2 ust. 1 pkt 9 ustawy z dnia 6 sierpnia 2010 r. o dowodach osobistych (Dz. U. z 2022 r. poz. 671), albo podpisany przez tę osobę i poświadczony przez notariusza.
+4. Wniosek, o którym mowa w ust. 1–3, osoba reprezentująca podmiot składający wniosek składa osobiście w Urzędzie Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych, legitymując się dokumentem stwierdzającym tożsamość, albo w postaci elektronicznej przez elektroniczną Platformę Usług Administracji Publicznej z profilu zaufanego tej osoby, albo w postaci elektronicznej opatrzony kwalifikowanym podpisem elektronicznym tej osoby na adres poczty elektronicznej podany w Biuletynie Informacji Publicznej na stronie podmiotowej Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych, albo podpisany przy pomocy podpisu osobistego w rozumieniu art. 2 ust. 1 pkt 9 ustawy z dnia 6 sierpnia 2010 r. o dowodach osobistych (Dz. U. z 2022 r. poz. 671 oraz z 2023 r. poz. 1234 i 1941), albo podpisany przez tę osobę i poświadczony przez notariusza.
 
 5. Wniosek, o którym mowa w ust. 1, zawiera nazwę podmiotu składającego wniosek zgodną z danymi zawartymi w Krajowym Rejestrze Sądowym lub Centralnej Ewidencji i Informacji o Działalności Gospodarczej oraz jego numer identyfikacji podatkowej (NIP).
 
@@ -267,7 +268,7 @@ o wyrobach medycznych
 - **2)** oświadczenie o osobach reprezentujących i sposobie reprezentacji, które powinno zostać złożone przed notariuszem albo innym podmiotem zaufania publicznego nie wcześniej niż 3 miesiące przed dniem dostarczenia Prezesowi Urzędu oraz zostać zalegalizowane przez właściwego konsula Rzeczypospolitej Polskiej albo opatrzone apostille zgodnie z Konwencją haską, jeżeli na podstawie odpisu, o którym mowa w pkt 1, nie można dokonać weryfikacji danych osób reprezentujących producenta oraz sposobu tej reprezentacji;
 - **3)** wyznaczenie, o którym mowa w art. 11 ust. 1 rozporządzenia 2017/745 albo art. 11 ust. 1 rozporządzenia 2017/746.
 
-8. Do dokumentów, o których mowa w ust. 7, dołącza się tłumaczenie na język polski sporządzone i poświadczone albo sprawdzone i poświadczone przez wykonującego zawód tłumacza przysięgłego na warunkach określonych w ustawie z dnia 25 listopada 2004 r. o zawodzie tłumacza przysięgłego (Dz. U. z 2019 r. poz. 1326) lub przez tłumacza przysięgłego mającego siedzibę na terytorium państwa członkowskiego jeżeli dokument został sporządzony w języku innym niż język polski.
+8. Do dokumentów, o których mowa w ust. 7, dołącza się tłumaczenie na język polski sporządzone i poświadczone albo sprawdzone i poświadczone przez wykonującego zawód tłumacza przysięgłego na warunkach określonych w ustawie z dnia 25 listopada 2004 r. o zawodzie tłumacza przysięgłego (Dz. U. z 2019 r. poz. 1326) lub przez tłumacza przysięgłego mającego siedzibę na terytorium państwa członkowskiego – jeżeli dokument został sporządzony w języku innym niż język polski.
 
 9. Wniosek, o którym mowa w ust. 3, zawiera nazwę upoważnionego przedstawiciela zgodną z danymi zawartymi w Krajowym Rejestrze Sądowym lub Centralnej Ewidencji i Informacji o Działalności Gospodarczej i numer identyfikacji podatkowej (NIP) tego upoważnionego przedstawiciela oraz nazwę, adres i niepowtarzalny numer rejestracyjny producenta, którego upoważnionym przedstawicielem jest wnioskodawca.
 
@@ -275,7 +276,7 @@ o wyrobach medycznych
 
 11. Wnioskodawca może dołączyć do wniosku, o którym mowa w ust. 3, zamiast oryginału dokumentu odpis tego dokumentu, jeżeli jego zgodność z oryginałem została poświadczona przez notariusza albo przez pełnomocnika wnioskodawcy będącego adwokatem, radcą prawnym, rzecznikiem patentowym lub doradcą podatkowym.
 
-12. Jeżeli odpis dokumentu został sporządzony w postaci dokumentu elektronicznego, poświadczenia jego zgodności z oryginałem, o którym mowa w ust. 11, dokonuje się przy użyciu kwalifikowanego podpisu elektronicznego albo podpisu zaufanego, albo podpisu osobistego w rozumieniu art. 2 ust. 1 pkt 9 ustawy z dnia 6 sierpnia 2010 r. o dowodach osobistych. Odpis dokumentu poświadczany elektronicznie jest sporządzany w formacie danych określonym w przepisach wydanych na podstawie art. 18 pkt 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2021 r. poz. 2070).
+12. Jeżeli odpis dokumentu został sporządzony w postaci dokumentu elektronicznego, poświadczenia jego zgodności z oryginałem, o którym mowa w ust. 11, dokonuje się przy użyciu kwalifikowanego podpisu elektronicznego albo podpisu zaufanego, albo podpisu osobistego w rozumieniu art. 2 ust. 1 pkt 9 ustawy z dnia 6 sierpnia 2010 r. o dowodach osobistych. Odpis dokumentu poświadczany elektronicznie jest sporządzany w formacie danych określonym w przepisach wydanych na podstawie art. 18 pkt 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2024 r. poz. 307 i 1222).
 
 **Art. 20.**
 
@@ -315,7 +316,7 @@ o wyrobach medycznych
 4. Po uzyskaniu kodu dostępu i hasła dostępu do systemu informatycznego, o którym mowa w ust. 1, podmiot i osoba, o których mowa w ust. 2, wpisują do tego systemu informacje, o których mowa w ust. 3, oraz dla każdego wyrobu, systemu lub zestawu zabiegowego wpisują lub dołączają:
 
 - **1)** kod Basic UDI-DI wyrobu, systemu lub zestawu zabiegowego, według bazy danych Eudamed,
-- **2)** nazwę i adres producenta, rodzaj i nazwę handlową wyrobu, systemu lub zestawu zabiegowego, według etykiety w przypadku wyrobów, systemów i zestawów zabiegowych sprowadzonych na terytorium Rzeczypospolitej Polskiej z państwa członkowskiego;
+- **2)** nazwę i adres producenta, rodzaj i nazwę handlową wyrobu, systemu lub zestawu zabiegowego, według etykiety – w przypadku wyrobów, systemów i zestawów zabiegowych sprowadzonych na terytorium Rzeczypospolitej Polskiej z państwa członkowskiego;
 - **3)** kod Basic UDI-DI wyrobu, systemu lub zestawu zabiegowego według bazy danych Eudamed,
 - **4)** rodzaj i nazwę handlową według etykiety,
 - **5)** kod w nomenklaturze wyrobów i nazwę rodzajową zgodną z tym kodem, jeżeli dotyczy,
@@ -325,7 +326,7 @@ o wyrobach medycznych
 - **9)** nazwę i adres importera, jeżeli dotyczy,
 - **10)** numer identyfikacyjny jednostki notyfikowanej, jeżeli dotyczy,
 - **11)** wzór etykiety,
-- **12)** instrukcje używania, jeżeli dotyczy w pozostałych przypadkach.
+- **12)** instrukcje używania, jeżeli dotyczy – w pozostałych przypadkach.
 
 **Art. 23.**
 
@@ -383,7 +384,7 @@ o wyrobach medycznych
 
 8. Spory dotyczące klasyfikacji wyrobów zaistniałe między producentem a jednostką notyfikowaną, o których mowa w art. 51 ust. 2 rozporządzenia 2017/745 albo art. 47 ust. 2 rozporządzenia 2017/746, Prezes Urzędu rozstrzyga w drodze decyzji administracyjnej.
 
-9. Dokumenty, w tym dokumentacja techniczna, sprawozdania z audytu, oceny i inspekcji, związane z procedurami, o których mowa w art. 52 ust. 1–11 rozporządzenia 2017/745 albo art. 48 ust. 1–10 rozporządzenia 2017/746, w których brała udział jednostka notyfikowana wyznaczona przez Prezesa Urzędu, są sporządzane w języku polskim lub języku angielskim.
+9. Dokumenty, w tym dokumentacja techniczna, sprawozdania z audytu, oceny i inspekcji, związane z procedurami, o których mowa w art. 52 ust. 1– 11 rozporządzenia 2017/745 albo art. 48 ust. 1–10 rozporządzenia 2017/746, w których brała udział jednostka notyfikowana wyznaczona przez Prezesa Urzędu, są sporządzane w języku polskim lub języku angielskim.
 
 10. Certyfikaty zgodności wydawane przez jednostki notyfikowane wyznaczone przez Prezesa Urzędu są sporządzane w języku polskim i języku angielskim.
 
@@ -391,7 +392,7 @@ o wyrobach medycznych
 
 **Art. 29.**
 
-1. Prezes Urzędu może wydać, w drodze decyzji administracyjnej, na wniosek podmiotu wykonującego działalność leczniczą, konsultanta w ochronie zdrowia, o którym mowa w art. 2 ustawy z dnia 6 listopada 2008 r. o konsultantach w ochronie zdrowia (Dz. U. z 2019 r. poz. 886), Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji, Prezesa Narodowego Funduszu Zdrowia lub Prezesa Rządowej Agencji Rezerw Strategicznych pozwolenie, o którym mowa w art. 59 ust. 1 rozporządzenia 2017/745 albo art. 54 ust. 1 rozporządzenia 2017/746, na wprowadzenie do obrotu lub do używania na terytorium Rzeczypospolitej Polskiej określonego wyrobu, w przypadku którego nie przeprowadzono procedur oceny zgodności, a którego używanie leży w interesie zdrowia publicznego lub bezpieczeństwa lub zdrowia pacjentów.
+1. Prezes Urzędu może wydać, w drodze decyzji administracyjnej, na wniosek podmiotu wykonującego działalność leczniczą, konsultanta w ochronie zdrowia, o którym mowa w art. 2 ustawy z dnia 6 listopada 2008 r. o konsultantach w ochronie zdrowia (Dz. U. z 2024 r. poz. 69), Prezesa Agencji Oceny Technologii Medycznych i Taryfikacji, Prezesa Narodowego Funduszu Zdrowia lub Prezesa Rządowej Agencji Rezerw Strategicznych pozwolenie, o którym mowa w art. 59 ust. 1 rozporządzenia 2017/745 albo art. 54 ust. 1 rozporządzenia 2017/746, na wprowadzenie do obrotu lub do używania na terytorium Rzeczypospolitej Polskiej określonego wyrobu, w przypadku którego nie przeprowadzono procedur oceny zgodności, a którego używanie leży w interesie zdrowia publicznego lub bezpieczeństwa lub zdrowia pacjentów.
 
 2. We wniosku, o którym mowa w ust. 1, należy wskazać, czy wyrób będzie miał zastosowanie do jednego pacjenta czy większej liczby pacjentów.
 
@@ -411,7 +412,7 @@ o wyrobach medycznych
 
 2. Komisja bioetyczna na wniosek sponsora, który zamierza prowadzić na terytorium Rzeczypospolitej Polskiej badanie kliniczne albo wprowadzić istotne zmiany w badaniu klinicznym prowadzonym na terytorium Rzeczypospolitej Polskiej, wydaje, w terminie nie dłuższym niż 45 dni od dnia złożenia wniosku wraz z kompletną dokumentacją, opinię o badaniu klinicznym albo opinię o istotnych zmianach w badaniu klinicznym.
 
-3. Wniosek, o którym mowa w ust. 2, sponsor składa do komisji bioetycznej właściwej ze względu na miejsce prowadzenia badania klinicznego, a w przypadku wieloośrodkowego badania klinicznego prowadzonego na terytorium Rzeczypospolitej Polskiej na podstawie tego samego protokołu do komisji bioetycznej właściwej ze względu na miejsce prowadzenia badania przez koordynatora badania klinicznego.
+3. Wniosek, o którym mowa w ust. 2, sponsor składa do komisji bioetycznej właściwej ze względu na miejsce prowadzenia badania klinicznego, a w przypadku wieloośrodkowego badania klinicznego prowadzonego na terytorium Rzeczypospolitej Polskiej na podstawie tego samego protokołu – do komisji bioetycznej właściwej ze względu na miejsce prowadzenia badania przez koordynatora badania klinicznego.
 
 4. Opinia komisji bioetycznej właściwej ze względu na miejsce prowadzenia badania przez koordynatora badania klinicznego dotyczy wszystkich ośrodków, w imieniu których sponsor wystąpił z wnioskiem o wydanie opinii.
 
@@ -419,8 +420,8 @@ o wyrobach medycznych
 
 6. Jeżeli w skład komisji bioetycznej wydającej opinię, o której mowa w ust. 2, dotyczącą badania klinicznego z udziałem:
 
-- **1)** małoletniego nie wchodzi lekarz specjalista w dziedzinie pediatrii,
-- **2)** osoby niezdolnej do samodzielnego wyrażenia świadomej zgody nie wchodzi lekarz specjalista w dziedzinie medycyny, której dotyczy prowadzone badanie kliniczne komisja bioetyczna zasięga opinii takiego lekarza.
+- **1)** małoletniego – nie wchodzi lekarz specjalista w dziedzinie pediatrii,
+- **2)** osoby niezdolnej do samodzielnego wyrażenia świadomej zgody – nie wchodzi lekarz specjalista w dziedzinie medycyny, której dotyczy prowadzone badanie kliniczne – komisja bioetyczna zasięga opinii takiego lekarza.
 
 7. Od opinii komisji bioetycznej przysługuje odwołanie do Odwoławczej Komisji Bioetycznej. W przypadku odwołania stosuje się przepisy wydane na podstawie art. 29 ust. 26 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty.
 
@@ -434,7 +435,9 @@ o wyrobach medycznych
 
 12. W przypadkach, o których mowa w ust. 10 lub 11, gdy dołączenie niektórych informacji lub dokumentów do wniosku, o którym mowa w ust. 2, jest nieuzasadnione lub niemożliwe, sponsor uzasadnia to we wniosku.
 
-13. Wniosek, o którym mowa w ust. 2, oraz dołączone do niego informacje i dokumenty są sporządzane w języku polskim lub języku angielskim, z wyjątkiem informacji i dokumentów przeznaczonych do wiadomości uczestników oraz ogólnego streszczenia badania klinicznego, o którym mowa w sekcji 3.1.5 załącznika XV do rozporządzenia 2017/745, które sporządza się w języku polskim.
+13. Wniosek, o którym mowa w ust. 2, oraz dołączone do niego informacje i dokumenty są sporządzane w języku polskim lub języku angielskim, z wyjątkiem informacji i dokumentów przeznaczonych do wiadomości uczestników oraz ogólnego streszczenia badania klinicznego, o którym mowa w sekcji
+
+3. 1.5 załącznika XV do rozporządzenia 2017/745, które sporządza się w języku polskim.
 
 14. Jeżeli wniosek, o którym mowa w ust. 2, lub dołączone do niego informacje i dokumenty wymagają uzupełnienia lub poprawienia, komisja bioetyczna wyznacza sponsorowi odpowiedni termin, nie krótszy niż 7 dni od dnia doręczenia wezwania, na ich uzupełnienie lub poprawienie, z pouczeniem, że brak uzupełnienia lub poprawienia w terminie spowoduje pozostawienie wniosku bez rozpatrzenia.
 
@@ -450,7 +453,9 @@ o wyrobach medycznych
 
 **Art. 33.**
 
-1. Wniosek o pozwolenie na prowadzenie badania klinicznego na terytorium Rzeczypospolitej Polskiej, o którym mowa w art. 70 ust. 1 rozporządzenia 2017/745, oraz dołączone do niego informacje i dokumenty są sporządzane w języku polskim lub języku angielskim, z wyjątkiem informacji i dokumentów przeznaczonych do wiadomości uczestników oraz ogólnego streszczenia badania klinicznego, o którym mowa w sekcji 3.1.5 załącznika XV do rozporządzenia 2017/745, które sporządza się w języku polskim.
+1. Wniosek o pozwolenie na prowadzenie badania klinicznego na terytorium Rzeczypospolitej Polskiej, o którym mowa w art. 70 ust. 1 rozporządzenia 2017/745, oraz dołączone do niego informacje i dokumenty są sporządzane w języku polskim lub języku angielskim, z wyjątkiem informacji i dokumentów przeznaczonych do wiadomości uczestników oraz ogólnego streszczenia badania klinicznego, o którym mowa w sekcji
+
+3. 1.5 załącznika XV do rozporządzenia 2017/745, które sporządza się w języku polskim.
 
 2. Powiadomienie, o którym mowa w art. 74 ust. 1 rozporządzenia 2017/745, dotyczące badania klinicznego na terytorium Rzeczypospolitej Polskiej oraz dołączone do powiadomienia informacje i dokumenty są sporządzane w języku polskim lub języku angielskim, z wyjątkiem informacji i dokumentów przeznaczonych do wiadomości uczestników oraz ogólnego streszczenia badania klinicznego, o którym mowa w sekcji 3.1.5 załącznika XV do rozporządzenia 2017/745, które sporządza się w języku polskim.
 
@@ -476,11 +481,13 @@ o wyrobach medycznych
 
 4. Prezes Urzędu może przedłużyć termin, o którym mowa w ust. 2, o kolejnych 7 dni w celu skonsultowania się z ekspertami.
 
-5. Prezes Urzędu może żądać od sponsora dostarczenia informacji i dokumentów uzupełniających niezbędnych do wydania decyzji, o której mowa w ust. 1 i 2, w tym informacji i dokumentów, o których mowa w sekcji 4.6 załącznika XV do rozporządzenia 2017/745.
+5. Prezes Urzędu może żądać od sponsora dostarczenia informacji i dokumentów uzupełniających niezbędnych do wydania decyzji, o której mowa w ust. 1 i 2, w tym informacji i dokumentów, o których mowa w sekcji
+
+4. 6 załącznika XV do rozporządzenia 2017/745.
 
 6. Terminy, o których mowa w ust. 1 i 2, ulegają zawieszeniu od dnia zwrócenia się o informacje i dokumenty do dnia ich otrzymania.
 
-7. W postępowaniach prowadzonych w sprawie wydania pozwolenia na prowadzenie badania klinicznego oraz w sprawie wprowadzenia istotnych zmian w badaniu klinicznym nie stosuje się przepisów art. 10 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2021 r. poz. 735, 1491 i 2052).
+7. W postępowaniach prowadzonych w sprawie wydania pozwolenia na prowadzenie badania klinicznego oraz w sprawie wprowadzenia istotnych zmian w badaniu klinicznym nie stosuje się przepisów art. 10 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572).
 
 8. Prezes Urzędu może wydać, w drodze decyzji administracyjnej, pozwolenie na prowadzenie badania klinicznego lub wprowadzenie istotnych zmian w badaniu klinicznym wyłącznie po uprzednim wydaniu pozytywnej opinii przez komisję bioetyczną albo Odwoławczą Komisję Bioetyczną.
 
@@ -498,7 +505,7 @@ o wyrobach medycznych
 
 3. Sponsor może rozpocząć badanie kliniczne wyrobów, o którym mowa w art. 70 ust. 7 lit. a rozporządzenia 2017/745, po otrzymaniu pozwolenia, o którym mowa w art. 34 ust. 1.
 
-4. Na terytorium Rzeczypospolitej Polskiej mogą być sprowadzane badane wyroby, produkty lecznicze, które nie uzyskały pozwolenia na dopuszczenie do obrotu określonego w art. 3 ust. 1 i 2 ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne, i wyroby nieoznakowane znakiem CE, w ilości niezbędnej do przeprowadzenia badania klinicznego.
+4. Na terytorium Rzeczypospolitej Polskiej mogą być sprowadzane badane wyroby, produkty lecznicze, które nie uzyskały pozwolenia na dopuszczenie do obrotu określonego w art. 3 ust. 1 i 2 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne, i wyroby nieoznakowane znakiem CE, w ilości niezbędnej do przeprowadzenia badania klinicznego.
 
 5. Przywóz na terytorium Rzeczypospolitej Polskiej wyrobów nieoznakowanych znakiem CE i produktów leczniczych, o których mowa w ust. 4, oraz przywóz spoza terytorium państwa członkowskiego na terytorium Rzeczypospolitej Polskiej badanych wyrobów może nastąpić na podstawie zaświadczenia potwierdzającego, że te wyroby i produkty są przeznaczone do badania klinicznego.
 
@@ -520,7 +527,7 @@ o wyrobach medycznych
 
 2. Komisja bioetyczna na wniosek sponsora, który zamierza prowadzić na terytorium Rzeczypospolitej Polskiej badanie działania, o którym mowa w art. 58 ust. 1 lub art. 70 ust. 1 lub 2 rozporządzenia 2017/746, lub badanie działania wyrobu do diagnostyki w terapii celowanej, które nie jest prowadzone z wykorzystaniem wyłącznie pozostałości próbek i o którym mowa w art. 58 ust. 2 rozporządzenia 2017/746, albo wprowadzić istotne zmiany w takim badaniu działania prowadzonym na terytorium Rzeczypospolitej Polskiej, wydaje, w terminie nie dłuższym niż 45 dni od dnia złożenia wniosku wraz z kompletną dokumentacją, opinię o badaniu działania albo opinię o istotnych zmianach w badaniu działania.
 
-3. Wniosek, o którym mowa w ust. 2, sponsor składa do komisji bioetycznej właściwej ze względu na miejsce prowadzenia badania działania, a w przypadku wieloośrodkowego badania działania prowadzonego na terytorium Rzeczypospolitej Polskiej na podstawie tego samego protokołu do komisji bioetycznej właściwej ze względu na miejsce prowadzenia badania działania przez koordynatora badania działania.
+3. Wniosek, o którym mowa w ust. 2, sponsor składa do komisji bioetycznej właściwej ze względu na miejsce prowadzenia badania działania, a w przypadku wieloośrodkowego badania działania prowadzonego na terytorium Rzeczypospolitej Polskiej na podstawie tego samego protokołu – do komisji bioetycznej właściwej ze względu na miejsce prowadzenia badania działania przez koordynatora badania działania.
 
 4. Opinia komisji bioetycznej właściwej ze względu na miejsce prowadzenia badania działania dotyczy wszystkich ośrodków, w imieniu których sponsor wystąpił z wnioskiem o wydanie opinii.
 
@@ -528,8 +535,8 @@ o wyrobach medycznych
 
 6. Jeżeli w skład komisji bioetycznej wydającej opinię, o której mowa w ust. 2, dotyczącą badania działania z udziałem:
 
-- **1)** małoletniego nie wchodzi lekarz specjalista w dziedzinie pediatrii,
-- **2)** osoby niezdolnej do samodzielnego wyrażenia świadomej zgody nie wchodzi lekarz specjalista w dziedzinie medycyny, której dotyczy prowadzone badanie działania komisja bioetyczna zasięga opinii takiego lekarza.
+- **1)** małoletniego – nie wchodzi lekarz specjalista w dziedzinie pediatrii,
+- **2)** osoby niezdolnej do samodzielnego wyrażenia świadomej zgody – nie wchodzi lekarz specjalista w dziedzinie medycyny, której dotyczy prowadzone badanie działania – komisja bioetyczna zasięga opinii takiego lekarza.
 
 7. Od opinii komisji bioetycznej przysługuje odwołanie do Odwoławczej Komisji Bioetycznej. W przypadku odwołania stosuje się przepisy wydane na podstawie art. 29 ust. 26 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty.
 
@@ -581,7 +588,7 @@ o wyrobach medycznych
 
 9. Z powodów określonych w art. 72 ust. 1 rozporządzenia 2017/746 Prezes Urzędu może, w drodze decyzji administracyjnej, uchylić pozwolenie na badanie działania, zawiesić lub zakończyć badanie działania lub zobowiązać sponsora do zmiany dowolnego aspektu badania działania, które jest lub ma być prowadzone na terytorium Rzeczypospolitej Polskiej.
 
-**Art. 43.** W postępowaniach prowadzonych w sprawie wydania pozwolenia na prowadzenie badania działania oraz w sprawie wprowadzenia istotnych zmian w badaniu działania nie stosuje się przepisów art. 10 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
+**Art. 43.** W postępowaniach prowadzonych w sprawie wydania pozwolenia na prowadzenie badania działania oraz w sprawie wprowadzenia istotnych zmian w badaniu działania nie stosuje się przepisów art. 10 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
 **Art. 44.** Do wniosku, o którym mowa w art. 41 ust. 1, i do powiadomienia, o którym mowa w art. 71 rozporządzenia 2017/746, sponsor dołącza potwierdzenie uiszczenia opłaty.
 
@@ -593,7 +600,7 @@ o wyrobach medycznych
 
 3. Sponsor może rozpocząć badanie działania, o którym mowa w art. 66 ust. 7 lit. a rozporządzenia 2017/746, po otrzymaniu pozwolenia, o którym mowa w art. 42 ust. 1.
 
-4. Na terytorium Rzeczypospolitej Polskiej mogą być sprowadzane wyroby do badania działania, produkty lecznicze, które nie uzyskały pozwolenia na dopuszczenie do obrotu określonego w art. 3 ust. 1 i 2 ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne, i wyroby nieoznakowane znakiem CE, w ilości niezbędnej do przeprowadzenia badania działania.
+4. Na terytorium Rzeczypospolitej Polskiej mogą być sprowadzane wyroby do badania działania, produkty lecznicze, które nie uzyskały pozwolenia na dopuszczenie do obrotu określonego w art. 3 ust. 1 i 2 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne, i wyroby nieoznakowane znakiem CE, w ilości niezbędnej do przeprowadzenia badania działania.
 
 5. Przywóz na terytorium Rzeczypospolitej Polskiej wyrobów nieoznakowanych znakiem CE i produktów leczniczych, o których mowa w ust. 4, oraz przywóz spoza terytorium państwa członkowskiego na terytorium Rzeczypospolitej Polskiej wyrobów do badania działania może nastąpić na podstawie zaświadczenia potwierdzającego, że te wyroby i produkty są przeznaczone do badania działania.
 
@@ -634,7 +641,7 @@ o wyrobach medycznych
     - **a)** numer referencyjny zgłoszenia nadany przez świadczeniodawcę,
     - **b)** datę przesłania zgłoszenia poważnego incydentu do producenta, upoważnionego przedstawiciela lub dostawcy,
     - **c)** datę i miejsce poważnego incydentu,
-    - **d)** opis poważnego incydentu, w tym: liczbę pacjentów, których dotknął poważny incydent, liczbę wyrobów, których dotyczył poważny incydent, miejsce znajdowania się wyrobu na dzień zgłoszenia, informację, czy osobą posługującą się wyrobem w chwili wystąpienia poważnego incydentu był profesjonalny użytkownik, pacjent albo inna osoba, informację, czy poważny incydent wystąpił przy pierwszym użyciu wyrobu, ponownym użyciu albo przed użyciem,
+    - **d)** opis poważnego incydentu, w tym: – liczbę pacjentów, których dotknął poważny incydent, – liczbę wyrobów, których dotyczył poważny incydent, – miejsce znajdowania się wyrobu na dzień zgłoszenia, – informację, czy osobą posługującą się wyrobem w chwili wystąpienia poważnego incydentu był profesjonalny użytkownik, pacjent albo inna osoba, – informację, czy poważny incydent wystąpił przy pierwszym użyciu wyrobu, ponownym użyciu albo przed użyciem,
     - **e)** opis skutków dla pacjenta,
     - **f)** opis działań zaradczych lub leczniczych związanych z opieką nad pacjentem podjętych przez instytucję zdrowia publicznego,
     - **g)** wskazanie wieku pacjenta, jego masy ciała oraz płci;
@@ -670,7 +677,7 @@ o wyrobach medycznych
 
 3. Notatkę bezpieczeństwa przeznaczoną dla odbiorców na terytorium Rzeczypospolitej Polskiej sporządza się w języku polskim.
 
-4. Notatkę bezpieczeństwa, o której mowa w ust. 3, Prezes Urzędu w przypadku uzasadnionym potrzebą ochrony zdrowia publicznego publikuje w Biuletynie Informacji Publicznej na stronie podmiotowej Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych.
+4. Notatkę bezpieczeństwa, o której mowa w ust. 3, Prezes Urzędu – w przypadku uzasadnionym potrzebą ochrony zdrowia publicznego – publikuje w Biuletynie Informacji Publicznej na stronie podmiotowej Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych.
 
 5. Prezes Urzędu ocenia, jeżeli to możliwe, we współpracy z producentem oraz, jeżeli uzna to za konieczne, z jednostką notyfikowaną, która brała udział w ocenie zgodności wyrobu, wszelkie otrzymane informacje dotyczące poważnego incydentu, który miał miejsce na terytorium Rzeczypospolitej Polskiej, lub zewnętrznego działania korygującego dotyczącego bezpieczeństwa, które zostało lub ma zostać podjęte na terytorium Rzeczypospolitej Polskiej.
 
@@ -711,23 +718,27 @@ o wyrobach medycznych
 
 1. Wniosek jednostki notyfikowanej o wydanie opinii naukowej, o której mowa w sekcji 5.2 lit. b załącznika IX do rozporządzenia 2017/745, na temat jakości i bezpieczeństwa substancji leczniczej stanowiącej integralną część wyrobu, w tym stosunku korzyści do ryzyka wynikających z włączenia tej substancji do wyrobu, oraz dołączona do wniosku dokumentacja są składane Prezesowi Urzędu w języku polskim lub języku angielskim.
 
-2. Wniosek jednostki notyfikowanej o wydanie opinii, o której mowa w sekcji 5.2 lit. f załącznika IX do rozporządzenia 2017/745, czy jakość i bezpieczeństwo substancji leczniczej stanowiącej integralną część wyrobu zostaną zachowane po wprowadzeniu zmian dotyczących tej substancji, w szczególności związanych z procesem jej produkcji, oraz dołączona do wniosku dokumentacja są składane Prezesowi Urzędu w języku polskim lub języku angielskim.
+2. Wniosek jednostki notyfikowanej o wydanie opinii, o której mowa w sekcji
+
+5. 2 lit. f załącznika IX do rozporządzenia 2017/745, czy jakość i bezpieczeństwo substancji leczniczej stanowiącej integralną część wyrobu zostaną zachowane po wprowadzeniu zmian dotyczących tej substancji, w szczególności związanych z procesem jej produkcji, oraz dołączona do wniosku dokumentacja są składane Prezesowi Urzędu w języku polskim lub języku angielskim.
 
 3. Do wniosków, o których mowa w ust. 1 i 2, dołącza się dokumentację umożliwiającą ocenę użyteczności, jakości i bezpieczeństwa substancji leczniczej, w tym stosunku korzyści do ryzyka wynikających z włączenia tej substancji do wyrobu.
 
-4. Wniosek jednostki notyfikowanej o wydanie opinii naukowej, o której mowa w sekcji 5.3.1 lit. a załącznika IX do rozporządzenia 2017/745, w sprawie aspektów oddawania, pobierania i testowania tkanek lub komórek pochodzenia ludzkiego lub ich pochodnych w przypadku wyrobu, o którym mowa w art. 1 ust. 6 lit. g rozporządzenia 2017/745, wyprodukowanego z wykorzystaniem pochodnych tkanek lub komórek pochodzenia ludzkiego albo w przypadku wyrobu, o którym mowa w art. 1 ust. 10 rozporządzenia 2017/745, zawierającego jako swoją integralną część tkanki lub komórki pochodzenia ludzkiego lub ich pochodne, objęte zakresem ustawy z dnia 1 lipca 2005 r. o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów (Dz. U. z 2020 r. poz. 2134), których działanie ma charakter pomocniczy w stosunku do działania tego wyrobu, oraz dołączona do wniosku dokumentacja są składane Krajowemu Centrum Bankowania Tkanek i Komórek w języku polskim lub języku angielskim.
+4. Wniosek jednostki notyfikowanej o wydanie opinii naukowej, o której mowa w sekcji 5.3.1 lit. a załącznika IX do rozporządzenia 2017/745, w sprawie aspektów oddawania, pobierania i testowania tkanek lub komórek pochodzenia ludzkiego lub ich pochodnych w przypadku wyrobu, o którym mowa w art. 1 ust. 6 lit. g rozporządzenia 2017/745, wyprodukowanego z wykorzystaniem pochodnych tkanek lub komórek pochodzenia ludzkiego albo w przypadku wyrobu, o którym mowa w art. 1 ust. 10 rozporządzenia 2017/745, zawierającego jako swoją integralną część tkanki lub komórki pochodzenia ludzkiego lub ich pochodne, objęte zakresem ustawy z dnia 1 lipca 2005 r. o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów (Dz. U. z 2023 r. poz. 1185), których działanie ma charakter pomocniczy w stosunku do działania tego wyrobu, oraz dołączona do wniosku dokumentacja są składane Krajowemu Centrum Bankowania Tkanek i Komórek w języku polskim lub języku angielskim.
 
 5. Wniosek jednostki notyfikowanej o wydanie opinii naukowej, o której mowa w sekcji 5.3.1 lit. d załącznika IX do rozporządzenia 2017/745, czy jakość i bezpieczeństwo tkanek lub komórek pochodzenia ludzkiego lub ich pochodnych zawartych w wyrobie zostaną zachowane po wprowadzeniu zmian dotyczących zawartych w wyrobie niezdolnych do życia tkanek lub komórek pochodzenia ludzkiego lub ich pochodnych, w szczególności zmian związanych z procesem ich oddawania, testowania lub pobierania, oraz dołączona do wniosku dokumentacja są składane Krajowemu Centrum Bankowania Tkanek i Komórek w języku polskim lub języku angielskim.
 
-6. Do wniosków, o których mowa w ust. 4 i 5, dołącza się dokumentację umożliwiającą ocenę aspektów oddawania, pobierania i testowania tkanek lub komórek pochodzenia ludzkiego lub ich pochodnych, o których mowa w sekcji 5.3.1 lit. a załącznika IX do rozporządzenia 2017/745.
+6. Do wniosków, o których mowa w ust. 4 i 5, dołącza się dokumentację umożliwiającą ocenę aspektów oddawania, pobierania i testowania tkanek lub komórek pochodzenia ludzkiego lub ich pochodnych, o których mowa w sekcji
 
-7. Wniosek jednostki notyfikowanej o wydanie opinii naukowej, o której mowa w sekcji 5.4 lit. b załącznika IX do rozporządzenia 2017/745, na temat zgodności z odpowiednimi wymaganiami określonymi w ustawie z dnia 6 września 2001 r. Prawo farmaceutyczne składającego się z substancji lub mieszaniny substancji wyrobu, który jest ogólnoustrojowo wchłaniany lub którego produkty metabolizmu są ogólnoustrojowo wchłaniane przez organizm ludzki, w celu osiągnięcia przewidzianego zastosowania, oraz dołączona do wniosku dokumentacja są składane Prezesowi Urzędu w języku polskim lub języku angielskim.
+5. 3.1 lit. a załącznika IX do rozporządzenia 2017/745.
+
+7. Wniosek jednostki notyfikowanej o wydanie opinii naukowej, o której mowa w sekcji 5.4 lit. b załącznika IX do rozporządzenia 2017/745, na temat zgodności z odpowiednimi wymaganiami określonymi w ustawie z dnia 6 września 2001 r. – Prawo farmaceutyczne składającego się z substancji lub mieszaniny substancji wyrobu, który jest ogólnoustrojowo wchłaniany lub którego produkty metabolizmu są ogólnoustrojowo wchłaniane przez organizm ludzki, w celu osiągnięcia przewidzianego zastosowania, oraz dołączona do wniosku dokumentacja są składane Prezesowi Urzędu w języku polskim lub języku angielskim.
 
 8. Wniosek jednostki notyfikowanej o wydanie opinii naukowej, o której mowa w sekcji 5.2 lit. c załącznika IX do rozporządzenia 2017/746, w sprawie odpowiedniości wyrobu do diagnostyki w terapii celowanej w odniesieniu do danego produktu leczniczego oraz dołączona do wniosku dokumentacja są składane Prezesowi Urzędu w języku polskim lub języku angielskim.
 
 9. Wniosek jednostki notyfikowanej o wydanie opinii naukowej, o której mowa w sekcji 5.2 lit. f załącznika IX do rozporządzenia 2017/746, na temat planowanych zmian mających wpływ na działanie lub przewidziane używanie lub odpowiedniość wyrobu do diagnostyki w terapii celowanej w odniesieniu do danego produktu leczniczego oraz dołączona do wniosku dokumentacja są składane Prezesowi Urzędu w języku polskim lub języku angielskim.
 
-10. Korespondencja w sprawach opinii, o których mowa w ust. 1, 2, 4, 5 i 7–9, może być prowadzona w języku angielskim bez konieczności tłumaczenia korespondencji i dokumentów na język polski i może być przekazywana drogą elektroniczną bez konieczności stosowania kwalifikowanego podpisu elektronicznego.
+10. Korespondencja w sprawach opinii, o których mowa w ust. 1, 2, 4, 5 i 7– 9, może być prowadzona w języku angielskim bez konieczności tłumaczenia korespondencji i dokumentów na język polski i może być przekazywana drogą elektroniczną bez konieczności stosowania kwalifikowanego podpisu elektronicznego.
 
 11. Przed wydaniem opinii, o których mowa w ust. 1, 2, 4, 5 i 7–9, Prezes Urzędu może zwrócić się o przygotowanie opinii do właściwych jednostek naukowych, w tym instytutów badawczych i uczelni posiadających odpowiednie zaplecze naukowo-badawcze oraz wykwalifikowany personel.
 
@@ -779,7 +790,7 @@ o wyrobach medycznych
 
 1. Przepisy niniejszego rozdziału stosuje się również do:
 
-- **1)** reklamy działalności gospodarczej lub zawodowej, w której wykorzystuje się wyrób do świadczenia usług w zakresie, w jakim dotyczy ona usług świadczonych przy użyciu danego wyrobu, w tym usług wypożyczania, najmu lub użyczania wyrobów;
+- **1)** reklamy działalności gospodarczej lub zawodowej, w której wykorzystuje się wyrób do świadczenia usług – w zakresie, w jakim dotyczy ona usług świadczonych przy użyciu danego wyrobu, w tym usług wypożyczania, najmu lub użyczania wyrobów;
 - **2)** prezentowania wyrobów w czasie spotkań, których celem lub efektem jest zachęcanie do nabywania wyrobów, lub finansowania takich spotkań;
 - **3)** kierowania do publicznej wiadomości opinii przez użytkowników wyrobów, jeżeli otrzymują z tego tytułu korzyści;
 - **4)** odwiedzania osób wykonujących zawód medyczny w celu promocji wyrobów;
@@ -787,11 +798,11 @@ o wyrobach medycznych
 - **6)** prezentowania wyrobów w czasie wydarzeń, o których mowa w pkt 5;
 - **7)** przekazywania próbek w celu promocji wyrobów.
 
-2. Nadzór nad reklamą, o której mowa w ust. 1 pkt 1, jest sprawowany przez ministra właściwego do spraw zdrowia w zakresie podmiotów wykonujących działalność leczniczą oraz przez Głównego Inspektora Sanitarnego w pozostałym zakresie.
+2. (uchylony)
 
-3. Nadzór nad reklamą, o której mowa w ust. 1 pkt 2–7, jest sprawowany przez Prezesa Urzędu.
+3. Nadzór nad reklamą wyrobów medycznych jest sprawowany przez Prezesa Urzędu.
 
-4. Odwiedzanie osób wykonujących zawód medyczny będących świadczeniodawcą lub zatrudnionych u świadczeniodawcy w miejscu udzielania świadczeń zdrowotnych w celu reklamy wyrobu odbywa się, po uprzednim uzgodnieniu terminu spotkania, poza godzinami pracy tych osób oraz wymaga uzyskania zgody kierownika danego podmiotu leczniczego, a w przypadku praktyki zawodowej zgody osoby wykonującej zawód medyczny w ramach tej praktyki.
+4. Odwiedzanie osób wykonujących zawód medyczny będących świadczeniodawcą lub zatrudnionych u świadczeniodawcy w miejscu udzielania świadczeń zdrowotnych w celu reklamy wyrobu odbywa się, po uprzednim uzgodnieniu terminu spotkania, poza godzinami pracy tych osób oraz wymaga uzyskania zgody kierownika danego podmiotu leczniczego, a w przypadku praktyki zawodowej – zgody osoby wykonującej zawód medyczny w ramach tej praktyki.
 
 5. Osoby upoważnione przez Prezesa Urzędu są uprawnione do bezpłatnego wstępu na wydarzenia, o których mowa w ust. 1 pkt 5 i 6.
 
@@ -808,7 +819,7 @@ o wyrobach medycznych
 4. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
 
 - **1)** niezbędne dane, jakie ma zawierać reklama, inne niż określone w ust. 3,
-- **2)** sposób prezentowania reklamy uwzględniając konieczność obiektywnej prezentacji wyrobu, bezpieczeństwo jego stosowania, stan wiedzy użytkowników wyrobów oraz konieczność zapewnienia niezakłóconego korzystania z usług zdrowotnych i usług farmaceutycznych.
+- **2)** sposób prezentowania reklamy – uwzględniając konieczność obiektywnej prezentacji wyrobu, bezpieczeństwo jego stosowania, stan wiedzy użytkowników wyrobów oraz konieczność zapewnienia niezakłóconego korzystania z usług zdrowotnych i usług farmaceutycznych.
 
 **Art. 61.**
 
@@ -832,13 +843,13 @@ o wyrobach medycznych
 
 - **1)** wprowadził do obrotu lub
 - **2)** wprowadził do używania, lub
-- **3)** sprowadził dany wyrób na terytorium Rzeczypospolitej Polskiej, jest obowiązany powiadamiać o zagrożeniach związanych z wyrobami, systemami lub zestawami zabiegowymi w sposób adekwatny do zagrożenia, w tym za pomocą środków masowego przekazu.
+- **3)** sprowadził – dany wyrób na terytorium Rzeczypospolitej Polskiej, jest obowiązany powiadamiać o zagrożeniach związanych z wyrobami, systemami lub zestawami zabiegowymi w sposób adekwatny do zagrożenia, w tym za pomocą środków masowego przekazu.
 
 3. Jeżeli podmiot, o którym mowa w ust. 2, nie podejmuje działań, o których mowa w ust. 2, lub podejmuje je w sposób nieadekwatny do stwarzanego zagrożenia przez wyrób, system lub zestaw zabiegowy, w jego zastępstwie działania te mogą zostać podjęte przez Prezesa Urzędu.
 
 4. Koszty działań Prezesa Urzędu, o których mowa w ust. 3, ponosi podmiot gospodarczy.
 
-5. Jeżeli koszty działań, o których mowa w ust. 3, nie zostały pokryte przez podmiot gospodarczy w terminie określonym w wezwaniu do zapłaty doręczonym temu podmiotowi, Prezes Urzędu określa wysokość tych kosztów w formie postanowienia. Do kosztów wynikających z postanowienia Prezesa Urzędu stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2021 r. poz. 1540, z późn. zm. ).
+5. Jeżeli koszty działań, o których mowa w ust. 3, nie zostały pokryte przez podmiot gospodarczy w terminie określonym w wezwaniu do zapłaty doręczonym temu podmiotowi, Prezes Urzędu określa wysokość tych kosztów w formie postanowienia. Do kosztów wynikających z postanowienia Prezesa Urzędu stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2023 r. poz. 2383 i 2760 oraz z 2024 r. poz. 879).
 
 **Art. 63.**
 
@@ -860,9 +871,9 @@ o wyrobach medycznych
 
 1. Prezes Urzędu jest uprawniony do:
 
-- **1)** kontroli instytucji zdrowia publicznego w zakresie produkcji i używania wyrobów produkowanych w tych instytucjach;
-- **2)** inspekcji ośrodków oraz sponsora w celu sprawdzenia, czy badanie kliniczne jest prowadzone zgodnie z ustawą, wymaganiami rozporządzenia 2017/745 oraz planem badania klinicznego, w tym do kontroli dokumentacji, pomieszczeń, sprzętu i danych zgromadzonych w badaniu klinicznym;
-- **3)** inspekcji ośrodków oraz sponsora w celu sprawdzenia, czy badanie działania jest prowadzone zgodnie z ustawą, wymaganiami rozporządzenia 2017/746 oraz planem badania działania, w tym do kontroli dokumentacji, pomieszczeń, sprzętu i danych zgromadzonych w badaniu działania oraz innych aspektów uznanych za istotne dla prowadzenia badania działania;
+- **1)** kontroli instytucji zdrowia publicznego – w zakresie produkcji i używania wyrobów produkowanych w tych instytucjach;
+- **2)** inspekcji ośrodków oraz sponsora – w celu sprawdzenia, czy badanie kliniczne jest prowadzone zgodnie z ustawą, wymaganiami rozporządzenia 2017/745 oraz planem badania klinicznego, w tym do kontroli dokumentacji, pomieszczeń, sprzętu i danych zgromadzonych w badaniu klinicznym;
+- **3)** inspekcji ośrodków oraz sponsora – w celu sprawdzenia, czy badanie działania jest prowadzone zgodnie z ustawą, wymaganiami rozporządzenia 2017/746 oraz planem badania działania, w tym do kontroli dokumentacji, pomieszczeń, sprzętu i danych zgromadzonych w badaniu działania oraz innych aspektów uznanych za istotne dla prowadzenia badania działania;
 - **4)** kontroli podmiotów gospodarczych oraz ich dostawców lub podwykonawców, oraz zgodności właściwości i działania wyrobów, o której mowa w art. 93 rozporządzenia 2017/745 i art. 88 rozporządzenia 2017/746;
 - **5)** kontroli podmiotów wykonujących czynności związane z instalacją, konserwacją, utrzymaniem, serwisem, regulacją, kalibracją, wzorcowaniem, przeglądem, naprawą lub okresowym sprawdzaniem bezpieczeństwa wyrobów, w miejscu wykonywania tych czynności oraz w miejscu prowadzenia działalności lub siedzibie tych podmiotów.
 
@@ -878,9 +889,9 @@ o wyrobach medycznych
 
 2. Kontrola może być prowadzona przez osoby niebędące pracownikami Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych.
 
-3. Do pracowników Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych oraz do osób, o których mowa w ust. 2, stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego dotyczące wyłączenia pracownika, chyba że odrębne przepisy stanowią inaczej.
+3. Do pracowników Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych oraz do osób, o których mowa w ust. 2, stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego dotyczące wyłączenia pracownika, chyba że odrębne przepisy stanowią inaczej.
 
-4. Kontrola jest przeprowadzana bez zawiadomienia w przypadkach wymienionych w art. 48 ust. 11 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców (Dz. U. z 2021 r. poz. 162 i 2105 oraz z 2022 r. poz. 24) oraz jeżeli Prezes Urzędu stwierdzi, że istnieje uzasadnione podejrzenie, że:
+4. Kontrola jest przeprowadzana bez zawiadomienia w przypadkach wymienionych w art. 48 ust. 11 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236 i 1222) oraz jeżeli Prezes Urzędu stwierdzi, że istnieje uzasadnione podejrzenie, że:
 
 - **1)** wyroby wprowadzane do obrotu, do używania lub używane w instytucjach zdrowia publicznego:
     - **a)** są niezgodne z rozporządzeniem 2017/745 lub rozporządzeniem 2017/746 lub
@@ -905,7 +916,7 @@ o wyrobach medycznych
 
 **Art. 69.**
 
-1. Kontrola kończy się sporządzeniem protokołu kontroli, a w przypadku inspekcji badań klinicznych i badań działania sporządzeniem raportu z inspekcji, które mogą zostać sporządzone w formie elektronicznej i opatrzone podpisem elektronicznym.
+1. Kontrola kończy się sporządzeniem protokołu kontroli, a w przypadku inspekcji badań klinicznych i badań działania – sporządzeniem raportu z inspekcji, które mogą zostać sporządzone w formie elektronicznej i opatrzone podpisem elektronicznym.
 
 2. Raport z inspekcji badania klinicznego lub badania działania jest sporządzany w trzech egzemplarzach, z których po jednym egzemplarzu otrzymują kontrolowany i sponsor.
 
@@ -927,9 +938,9 @@ o wyrobach medycznych
 
 3. Jeżeli wyniki badań lub weryfikacji próbek, o których mowa w ust. 2, potwierdzą, że wyrób nie spełnia określonych dla niego wymagań, koszty tych badań i weryfikacji pokrywa kontrolowany. W pozostałych przypadkach koszty pokrywa Prezes Urzędu.
 
-4. Jeżeli koszty badań lub weryfikacji, o których mowa w ust. 2, nie zostały pokryte przez podmiot lub instytucję, o których mowa w ust. 1, w terminie określonym w wezwaniu do zapłaty doręczonym temu podmiotowi lub tej instytucji, Prezes Urzędu określa wysokość tych kosztów w formie postanowienia, a jeżeli Prezes Urzędu wydał decyzję administracyjną w sprawie ograniczenia lub zakazania produkcji lub używania wyrobów produkowanych i używanych przez ten podmiot lub tę instytucję, wysokość tych kosztów określa w tej decyzji. Do kosztów wynikających z postanowienia Prezesa Urzędu stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa.
+4. Jeżeli koszty badań lub weryfikacji, o których mowa w ust. 2, nie zostały pokryte przez podmiot lub instytucję, o których mowa w ust. 1, w terminie określonym w wezwaniu do zapłaty doręczonym temu podmiotowi lub tej instytucji, Prezes Urzędu określa wysokość tych kosztów w formie postanowienia, a jeżeli Prezes Urzędu wydał decyzję administracyjną w sprawie ograniczenia lub zakazania produkcji lub używania wyrobów produkowanych i używanych przez ten podmiot lub tę instytucję, wysokość tych kosztów określa w tej decyzji. Do kosztów wynikających z postanowienia Prezesa Urzędu stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa.
 
-**Art. 71.** W zakresie nieuregulowanym w niniejszym rozdziale do kontroli stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców.
+**Art. 71.** W zakresie nieuregulowanym w niniejszym rozdziale do kontroli stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
 
 #### Rozdział 15 Opłaty
 
@@ -937,13 +948,13 @@ o wyrobach medycznych
 
 1. Opłacie podlega złożenie:
 
-- **1)** wniosku, o którym mowa w art. 30 ust. 1 w wysokości nieprzekraczającej 700 zł;
-- **2)** wniosku, o którym mowa w art. 70 ust. 1 rozporządzenia 2017/745 w wysokości nieprzekraczającej 7000 zł;
-- **3)** powiadomienia, o którym mowa w art. 75 ust. 1 rozporządzenia 2017/745 w wysokości nieprzekraczającej 3000 zł;
-- **4)** wniosku, o którym mowa w art. 33 ust. 3 w wysokości nieprzekraczającej 7000 zł;
-- **5)** wniosku, o którym mowa w art. 66 ust. 1 rozporządzenia 2017/746 w wysokości nieprzekraczającej 7000 zł;
-- **6)** powiadomienia, o którym mowa w art. 71 ust. 1 rozporządzenia 2017/746 w wysokości nieprzekraczającej 3000 zł;
-- **7)** wniosku, o którym mowa w art. 52 ust. 1, 2, 4, 5 i 7–9 w wysokości nieprzekraczającej 120 000 zł.
+- **1)** wniosku, o którym mowa w art. 30 ust. 1 – w wysokości nieprzekraczającej 700 zł;
+- **2)** wniosku, o którym mowa w art. 70 ust. 1 rozporządzenia 2017/745 – w wysokości nieprzekraczającej 7000 zł;
+- **3)** powiadomienia, o którym mowa w art. 75 ust. 1 rozporządzenia 2017/745 – w wysokości nieprzekraczającej 3000 zł;
+- **4)** wniosku, o którym mowa w art. 33 ust. 3 – w wysokości nieprzekraczającej 7000 zł;
+- **5)** wniosku, o którym mowa w art. 66 ust. 1 rozporządzenia 2017/746 – w wysokości nieprzekraczającej 7000 zł;
+- **6)** powiadomienia, o którym mowa w art. 71 ust. 1 rozporządzenia 2017/746 – w wysokości nieprzekraczającej 3000 zł;
+- **7)** wniosku, o którym mowa w art. 52 ust. 1, 2, 4, 5 i 7–9 – w wysokości nieprzekraczającej 120 000 zł.
 
 2. Opłaty, o których mowa w ust. 1, stanowią dochód budżetu państwa.
 
@@ -971,7 +982,7 @@ o wyrobach medycznych
 - **4)** wbrew obowiązkowi określonemu w art. 10 ust. 8 rozporządzenia 2017/745 lub art. 10 ust. 7 rozporządzenia 2017/746, nie przechowuje do dyspozycji Prezesa Urzędu dokumentów, o których mowa w tych przepisach,
 - **5)** wbrew obowiązkowi określonemu w art. 10 ust. 9 rozporządzenia 2017/745 lub art. 10 ust. 8 rozporządzenia 2017/746, nie ustanawia, nie dokumentuje, nie wdraża, nie utrzymuje, nie aktualizuje na bieżąco lub nie ulepsza systematycznie systemu zarządzania jakością w najskuteczniejszy sposób zapewniający zgodność z rozporządzeniem 2017/745 lub rozporządzeniem 2017/746 oraz proporcjonalnie do klasy ryzyka i rodzaju wyrobu,
 - **6)** wbrew obowiązkowi określonemu w art. 10 ust. 10 rozporządzenia 2017/745 lub art. 10 ust. 9 rozporządzenia 2017/746, nie wdraża lub nie aktualizuje na bieżąco systemu nadzoru po wprowadzeniu do obrotu,
-- **7)** wbrew obowiązkom określonym w art. 10 ust. 12 rozporządzenia 2017/745 lub art. 10 ust. 11 rozporządzenia 2017/746, nie podejmuje działań korygujących lub nie informuje właściwych organów państw członkowskich, jednostki notyfikowanej, upoważnionych przedstawicieli, importerów lub dystrybutorów o tych działaniach podlega karze pieniężnej w wysokości do 500 000 zł.
+- **7)** wbrew obowiązkom określonym w art. 10 ust. 12 rozporządzenia 2017/745 lub art. 10 ust. 11 rozporządzenia 2017/746, nie podejmuje działań korygujących lub nie informuje właściwych organów państw członkowskich, jednostki notyfikowanej, upoważnionych przedstawicieli, importerów lub dystrybutorów o tych działaniach – podlega karze pieniężnej w wysokości do 500 000 zł.
 
 2. Producent wyrobu wykonanego na zamówienie, który, wbrew obowiązkowi określonemu w art. 10 ust. 5 rozporządzenia 2017/745, nie aktualizuje dokumentacji lub nie przechowuje jej do dyspozycji właściwych organów, podlega karze pieniężnej w wysokości do 100 000 zł.
 
@@ -985,19 +996,19 @@ o wyrobach medycznych
 
 - **1)** nie dopełnił obowiązków informacyjnych, o których mowa w art. 13 ust. 2 akapit drugi rozporządzenia 2017/745 lub art. 13 ust. 2 akapit drugi rozporządzenia 2017/746,
 - **2)** wbrew obowiązkowi określonemu w art. 13 ust. 3 rozporządzenia 2017/745 lub art. 13 ust. 3 rozporządzenia 2017/746:
-    - **a)** nie podaje na wyrobie lub jego opakowaniu lub dokumencie towarzyszącym wyrobowi: imienia i nazwiska lub nazwy, zarejestrowanej nazwy handlowej lub zarejestrowanego znaku towarowego, zarejestrowanego miejsca prowadzenia działalności lub adresu, pod którym można się z nim skontaktować, tak aby można było ustalić miejsce jego przebywania lub
+    - **a)** nie podaje na wyrobie lub jego opakowaniu lub dokumencie towarzyszącym wyrobowi: – imienia i nazwiska lub nazwy, – zarejestrowanej nazwy handlowej lub zarejestrowanego znaku towarowego, – zarejestrowanego miejsca prowadzenia działalności lub adresu, pod którym można się z nim skontaktować, tak aby można było ustalić miejsce jego przebywania lub
     - **b)** zamieszcza etykiety w sposób utrudniający odczytanie informacji umieszczonej na etykiecie przez producenta,
 
 - **3)** nie dodał swoich danych do rejestracji, wbrew obowiązkowi określonemu w art. 13 ust. 4 rozporządzenia 2017/745 lub art. 13 ust. 4 rozporządzenia 2017/746,
 - **4)** nie zapewnia, aby w czasie gdy jest odpowiedzialny za wyrób, warunki przechowywania lub transportu nie zagrażały zgodności wyrobu z ogólnymi wymogami dotyczącymi bezpieczeństwa i działania określonymi w załączniku I do rozporządzenia 2017/745 lub załączniku I do rozporządzenia 2017/746 i spełniały warunki ustanowione przez producenta, wbrew obowiązkowi określonemu w art. 13 ust. 5 rozporządzenia 2017/745 lub art. 13 ust. 5 rozporządzenia 2017/746,
 - **5)** nie powiadamia niezwłocznie producenta oraz jego upoważnionego przedstawiciela o niezgodności wyrobu z rozporządzeniem 2017/745 lub rozporządzeniem 2017/746 lub nie współpracuje z producentem, jego upoważnionym przedstawicielem oraz właściwymi organami w celu zapewnienia, aby zostało podjęte niezbędne działanie korygujące, wbrew obowiązkom określonym w art. 13 ust. 7 zdanie pierwsze lub zdanie drugie rozporządzenia 2017/745 lub art. 13 ust. 7 zdanie pierwsze lub zdanie drugie rozporządzenia 2017/746,
-- **6)** wbrew obowiązkom określonym w art. 13 ust. 7 zdanie trzecie rozporządzenia 2017/745 lub art. 13 ust. 7 zdanie trzecie rozporządzenia 2017/746, nie powiadomił niezwłocznie, w przypadku stanowienia przez wyrób poważnego zagrożenia, właściwego organu państwa członkowskiego, w którym udostępnił ten wyrób oraz jednostki notyfikowanej, która wydała dla danego wyrobu certyfikat zgodności, jeżeli taki certyfikat został wydany podlega karze pieniężnej w wysokości do 250 000 zł.
+- **6)** wbrew obowiązkom określonym w art. 13 ust. 7 zdanie trzecie rozporządzenia 2017/745 lub art. 13 ust. 7 zdanie trzecie rozporządzenia 2017/746, nie powiadomił niezwłocznie, w przypadku stanowienia przez wyrób poważnego zagrożenia, właściwego organu państwa członkowskiego, w którym udostępnił ten wyrób oraz jednostki notyfikowanej, która wydała dla danego wyrobu certyfikat zgodności, jeżeli taki certyfikat został wydany – podlega karze pieniężnej w wysokości do 250 000 zł.
 
 2. Importer, który:
 
 - **1)** otrzymał skargę lub zgłoszenie pochodzące od osób wykonujących zawody medyczne, pacjentów lub użytkowników, dotyczące podejrzewanych incydentów związanych z wyrobem, który wprowadził do obrotu, i wbrew obowiązkom określonym w art. 13 ust. 8 rozporządzenia 2017/745 lub art. 13 ust. 8 rozporządzenia 2017/746 nie przekazał niezwłocznie tych informacji producentowi oraz jego upoważnionemu przedstawicielowi,
 - **2)** nie przechowuje dokumentów, o których mowa w art. 13 ust. 9 rozporządzenia 2017/745 lub art. 13 ust. 9 rozporządzenia 2017/746,
-- **3)** nie współpracuje z Prezesem Urzędu lub nie wykonuje obowiązków wynikających z art. 13 ust. 10 rozporządzenia 2017/745 lub art. 13 ust. 10 rozporządzenia 2017/746 podlega karze pieniężnej w wysokości do 50 000 zł.
+- **3)** nie współpracuje z Prezesem Urzędu lub nie wykonuje obowiązków wynikających z art. 13 ust. 10 rozporządzenia 2017/745 lub art. 13 ust. 10 rozporządzenia 2017/746 – podlega karze pieniężnej w wysokości do 50 000 zł.
 
 **Art. 78.**
 
@@ -1006,12 +1017,12 @@ o wyrobach medycznych
 - **1)** udostępnia na rynku wyrób, który nie spełnia wymogów, o których mowa w art. 14 ust. 2 rozporządzenia 2017/745 lub art. 14 ust. 2 rozporządzenia 2017/746,
 - **2)** nie dopełnił obowiązków informacyjnych wynikających z art. 14 ust. 2 akapit trzeci rozporządzenia 2017/745 lub art. 14 ust. 2 akapit trzeci rozporządzenia 2017/746,
 - **3)** nie zapewnia warunków przechowywania lub transportu, o których mowa w art. 14 ust. 3 rozporządzenia 2017/745 lub art. 14 ust. 3 rozporządzenia 2017/746,
-- **4)** wbrew obowiązkom określonym w art. 14 ust. 4 rozporządzenia 2017/745 lub art. 14 ust. 4 rozporządzenia 2017/746, nie powiadomił niezwłocznie producenta, jego upoważnionego przedstawiciela, jeżeli został wyznaczony, importera oraz właściwych organów państw członkowskich, w których udostępnił wyrób, że wyrób stwarza poważne ryzyko lub nie współpracuje z producentem, jego upoważnionym przedstawicielem, jeżeli został wyznaczony, importerem lub z właściwymi organami podlega karze pieniężnej w wysokości do 250 000 zł.
+- **4)** wbrew obowiązkom określonym w art. 14 ust. 4 rozporządzenia 2017/745 lub art. 14 ust. 4 rozporządzenia 2017/746, nie powiadomił niezwłocznie producenta, jego upoważnionego przedstawiciela, jeżeli został wyznaczony, importera oraz właściwych organów państw członkowskich, w których udostępnił wyrób, że wyrób stwarza poważne ryzyko lub nie współpracuje z producentem, jego upoważnionym przedstawicielem, jeżeli został wyznaczony, importerem lub z właściwymi organami – podlega karze pieniężnej w wysokości do 250 000 zł.
 
 2. Dystrybutor, który:
 
 - **1)** otrzymał skargę lub zgłoszenie pochodzące od osób wykonujących zawody medyczne, pacjentów lub użytkowników, dotyczące podejrzewanych incydentów związanych z wyrobem, który wprowadził do obrotu, i wbrew obowiązkom określonym w art. 14 ust. 5 rozporządzenia 2017/745 lub art. 14 ust. 5 rozporządzenia 2017/746 nie przekazał niezwłocznie tych informacji producentowi, jego upoważnionemu przedstawicielowi oraz importerowi,
-- **2)** nie udziela informacji na żądanie Prezesa Urzędu lub nie współpracuje z Prezesem Urzędu, wbrew obowiązkowi określonemu w art. 14 ust. 6 rozporządzenia 2017/745 lub art. 14 ust. 6 rozporządzenia 2017/746 podlega karze pieniężnej w wysokości do 50 000 zł.
+- **2)** nie udziela informacji na żądanie Prezesa Urzędu lub nie współpracuje z Prezesem Urzędu, wbrew obowiązkowi określonemu w art. 14 ust. 6 rozporządzenia 2017/745 lub art. 14 ust. 6 rozporządzenia 2017/746 – podlega karze pieniężnej w wysokości do 50 000 zł.
 
 **Art. 79.**
 
@@ -1019,7 +1030,7 @@ o wyrobach medycznych
 
 - **1)** nie wypełnia obowiązków w zakresie zamieszczania informacji zgodnie z art. 16 ust. 3 akapit pierwszy rozporządzenia 2017/745 lub art. 16 ust. 3 akapit pierwszy rozporządzenia 2017/746 lub
 - **2)** nie wprowadza systemu zarządzania jakością obejmującego procedury określone w art. 16 ust. 3 akapit drugi rozporządzenia 2017/745 lub art. 16 ust. 3 akapit drugi rozporządzenia 2017/746, lub
-- **3)** nie powiadamia producenta lub właściwego organu państwa członkowskiego, w którym planuje udostępnić wyrób, o swoim zamiarze udostępnienia ponownie oznakowanego lub przepakowanego wyrobu lub na żądanie producenta lub właściwego organu nie przekazuje próbki lub modelu ponownie oznakowanego lub przepakowanego wyrobu, w tym wszelkich przetłumaczonych etykiet i instrukcji, lub nie składa właściwemu organowi certyfikatu wydanego przez jednostkę notyfikowaną, wbrew obowiązkom określonym w art. 16 ust. 4 rozporządzenia 2017/745 lub art. 16 ust. 4 rozporządzenia 2017/746 podlega karze pieniężnej w wysokości do 30 000 zł.
+- **3)** nie powiadamia producenta lub właściwego organu państwa członkowskiego, w którym planuje udostępnić wyrób, o swoim zamiarze udostępnienia ponownie oznakowanego lub przepakowanego wyrobu lub na żądanie producenta lub właściwego organu nie przekazuje próbki lub modelu ponownie oznakowanego lub przepakowanego wyrobu, w tym wszelkich przetłumaczonych etykiet i instrukcji, lub nie składa właściwemu organowi certyfikatu wydanego przez jednostkę notyfikowaną, wbrew obowiązkom określonym w art. 16 ust. 4 rozporządzenia 2017/745 lub art. 16 ust. 4 rozporządzenia 2017/746 – podlega karze pieniężnej w wysokości do 30 000 zł.
 
 2. W przypadku gdy mimo wcześniejszego ukarania importer lub dystrybutor nie wypełnia obowiązków określonych w art. 16 ust. 3 lub 4 rozporządzenia 2017/745 lub art. 16 ust. 3 lub 4 rozporządzenia 2017/746, karę pieniężną wymierza się w wysokości do 250 000 zł.
 
@@ -1028,7 +1039,7 @@ o wyrobach medycznych
 1. Kto:
 
 - **1)** wprowadza do obrotu regenerowany wyrób w sposób sprzeczny z art. 17 ust. 6 lub 7 rozporządzenia 2017/745 lub
-- **2)** nie podaje na etykiecie oraz w instrukcji używania, jeżeli jest dołączana, wyrobu poddanego regeneracji, informacji, o których mowa w art. 17 ust. 8 rozporządzenia 2017/745 podlega karze pieniężnej w wysokości do 500 000 zł.
+- **2)** nie podaje na etykiecie oraz w instrukcji używania, jeżeli jest dołączana, wyrobu poddanego regeneracji, informacji, o których mowa w art. 17 ust. 8 rozporządzenia 2017/745 – podlega karze pieniężnej w wysokości do 500 000 zł.
 
 2. Tej samej karze podlega, kto, wbrew zakazowi określonemu w art. 17 ust. 2, udostępnia wyrób jednorazowego użytku poddany regeneracji lub dalej go używa.
 
@@ -1073,7 +1084,7 @@ o wyrobach medycznych
 1. Kto prowadzi:
 
 - **1)** badanie kliniczne niezgodnie z wymogami określonymi w art. 62 lub załączniku XV do rozporządzenia 2017/745 lub
-- **2)** badanie działania niezgodnie z wymogami określonymi w art. 57 lub art. 58 lub załącznikach XIII lub XIV do rozporządzenia 2017/746 podlega karze pieniężnej w wysokości do 500 000 zł.
+- **2)** badanie działania niezgodnie z wymogami określonymi w art. 57 lub art. 58 lub załącznikach XIII lub XIV do rozporządzenia 2017/746 – podlega karze pieniężnej w wysokości do 500 000 zł.
 
 2. Kto, wbrew obowiązkowi określonemu w art. 75 ust. 1 rozporządzenia 2017/745 lub art. 71 ust. 1 rozporządzenia 2017/746, nie powiadamia Prezesa Urzędu o zmianach w badaniu klinicznym lub badaniu działania, podlega karze pieniężnej w wysokości do 250 000 zł.
 
@@ -1082,7 +1093,7 @@ o wyrobach medycznych
 1. Kto, wbrew obowiązkowi określonemu w art. 77 ust. 1 zdanie pierwsze rozporządzenia 2017/745 lub art. 73 ust. 1 zdanie pierwsze rozporządzenia 2017/746, w terminie 15 dni od dnia wstrzymania badania klinicznego lub wcześniejszego zakończenia badania klinicznego lub wstrzymania badania działania lub wcześniejszego zakończenia badania działania, prowadzonego na terytorium Rzeczypospolitej Polskiej, nie powiadomił Prezesa Urzędu o:
 
 - **1)** wstrzymaniu badania klinicznego lub wcześniejszym zakończeniu badania klinicznego lub nie przedstawił uzasadnienia, lub
-- **2)** wstrzymaniu badania działania lub wcześniejszym zakończeniu badania działania podlega karze pieniężnej w wysokości do 50 000 zł.
+- **2)** wstrzymaniu badania działania lub wcześniejszym zakończeniu badania działania – podlega karze pieniężnej w wysokości do 50 000 zł.
 
 2. Kto, wbrew obowiązkowi określonemu w art. 77 ust. 1 zdanie drugie rozporządzenia 2017/745 lub art. 73 ust. 1 zdanie drugie rozporządzenia 2017/746, nie powiadomił Prezesa Urzędu o wstrzymaniu badania klinicznego lub wcześniejszym zakończeniu badania klinicznego lub o wstrzymaniu badania działania lub wcześniejszym zakończeniu badania działania, prowadzonego na terytorium Rzeczypospolitej Polskiej, ze względów bezpieczeństwa, w ciągu 24 godzin od momentu wstrzymania badania klinicznego lub wcześniejszego zakończenia badania klinicznego lub wstrzymania badania działania lub wcześniejszego zakończenia badania działania, podlega karze pieniężnej w wysokości do 100 000 zł.
 
@@ -1106,7 +1117,7 @@ o wyrobach medycznych
 
 3. Kto oferuje do używania wyrób, który nie spełnia wymogów dotyczących bezpieczeństwa i działania określonych odpowiednio w załączniku I do rozporządzenia 2017/745 lub załączniku I do rozporządzenia 2017/746 lub co do którego nie przeprowadzono oceny zgodności wyrobu zgodnie z mającymi zastosowanie procedurami oceny zgodności określonymi odpowiednio w załącznikach IX–XI do rozporządzenia 2017/745 lub załącznikach IX–XI do rozporządzenia 2017/746, za pomocą usług społeczeństwa informacyjnego, osobie fizycznej lub prawnej mającej miejsce zamieszkania lub siedzibę w państwie członkowskim, podlega karze pieniężnej w wysokości do 250 000 zł.
 
-4. Kto w ramach działalności gospodarczej lub zawodowej używa wyrobu, który nie spełnia wymogów dotyczących bezpieczeństwa i działania określonych odpowiednio w załączniku I do rozporządzenia 2017/745 lub załączniku I do rozporządzenia 2017/746 lub co do którego nie przeprowadzono oceny zgodności wyrobu zgodnie z mającymi zastosowanie procedurami oceny zgodności określonymi odpowiednio w załącznikach IX–XI do rozporządzenia 2017/745 lub załącznikach IX–XI do rozporządzenia 2017/746, i którego nie wprowadzono do obrotu, w celu świadczenia usług oferowanych za pomocą usług społeczeństwa informacyjnego lub za pomocą innych środków komunikacji bezpośrednio lub przy udziale pośredników osobie fizycznej lub prawnej mającej miejsce zamieszkania lub siedzibę w państwie członkowskim, podlega karze pieniężnej w wysokości do 250 000 zł.
+4. Kto w ramach działalności gospodarczej lub zawodowej używa wyrobu, który nie spełnia wymogów dotyczących bezpieczeństwa i działania określonych odpowiednio w załączniku I do rozporządzenia 2017/745 lub załączniku I do rozporządzenia 2017/746 lub co do którego nie przeprowadzono oceny zgodności wyrobu zgodnie z mającymi zastosowanie procedurami oceny zgodności określonymi odpowiednio w załącznikach IX–XI do rozporządzenia 2017/745 lub załącznikach IX–XI do rozporządzenia 2017/746, i którego nie wprowadzono do obrotu, w celu świadczenia usług oferowanych za pomocą usług społeczeństwa informacyjnego lub za pomocą innych środków komunikacji – bezpośrednio lub przy udziale pośredników – osobie fizycznej lub prawnej mającej miejsce zamieszkania lub siedzibę w państwie członkowskim, podlega karze pieniężnej w wysokości do 250 000 zł.
 
 5. Kto, wbrew obowiązkowi określonemu w art. 6 ust. 3 rozporządzenia 2017/745 lub art. 6 ust. 3 rozporządzenia 2017/746, nie udostępnia na żądanie Prezesa Urzędu kopii deklaracji zgodności UE dla danego wyrobu, podlega karze pieniężnej w wysokości do 30 000 zł.
 
@@ -1154,86 +1165,18 @@ o wyrobach medycznych
 
 1. Wysokość kary pieniężnej, o której mowa w art. 74, art. 75 ust. 1 pkt 1–3 i 5–7, art. 77 ust. 1 pkt 4–6 i ust. 2 pkt 1 i 3, art. 78, art. 81, art. 82 ust. 1 i 2, art. 86, art. 88 ust. 1, art. 92–94, art. 96–98 lub art. 103, nie może przekroczyć:
 
-- **1)** 10% maksymalnego wymiaru kary za dany czyn, jeżeli naruszenie będące podstawą nałożenia kary nie mogło powodować zagrożenia życia lub zdrowia użytkowników lub pacjentów;
-- **2)** 50% maksymalnego wymiaru kary za dany czyn, jeżeli kara pieniężna ma zostać nałożona na tej samej podstawie, w związku z ponownym niewypełnieniem obowiązków, a naruszenie będące podstawą nałożenia kary nie mogło powodować zagrożenia życia lub zdrowia użytkowników lub pacjentów.
+- **1)** 10 % maksymalnego wymiaru kary za dany czyn, jeżeli naruszenie będące podstawą nałożenia kary nie mogło powodować zagrożenia życia lub zdrowia użytkowników lub pacjentów;
+- **2)** 50 % maksymalnego wymiaru kary za dany czyn, jeżeli kara pieniężna ma zostać nałożona na tej samej podstawie, w związku z ponownym niewypełnieniem obowiązków, a naruszenie będące podstawą nałożenia kary nie mogło powodować zagrożenia życia lub zdrowia użytkowników lub pacjentów.
 
-2. Organ może odstąpić od wymierzenia kar pieniężnych, o których mowa w niniejszym rozdziale, jeżeli zdarzenie miało charakter incydentalny, nie stwarzało ryzyka, a podmiot, najpóźniej w terminie wskazanym odpowiednio przez Prezesa Urzędu, ministra właściwego do spraw zdrowia albo Głównego Inspektora Sanitarnego, przy prowadzeniu czynności, w trakcie których stwierdzono uchybienie prawa, podjął działania w celu jego usunięcia i poinformował właściwy organ o podjęciu tych działań.
+2. Organ może odstąpić od wymierzenia kar pieniężnych, o których mowa w niniejszym rozdziale, jeżeli zdarzenie miało charakter incydentalny, nie stwarzało ryzyka, a podmiot, najpóźniej w terminie wskazanym przez Prezesa Urzędu, przy prowadzeniu czynności, w trakcie których stwierdzono uchybienie prawa, podjął działania w celu jego usunięcia i poinformował Prezesa Urzędu o podjęciu tych działań.
 
-3. Kary pieniężne, o których mowa w art. 74–103, nakłada, w drodze decyzji administracyjnej, Prezes Urzędu, z wyjątkiem kary pieniężnej, o której mowa w art. 103 ust. 2 w zakresie art. 58 ust. 2, którą nakłada, w drodze decyzji administracyjnej, odpowiednio minister właściwy do spraw zdrowia lub Główny Inspektor Sanitarny.
+3. Kary pieniężne, o których mowa w art. 74–103, nakłada, w drodze decyzji administracyjnej, Prezes Urzędu.
 
-4. Kary pieniężne są uiszczane odpowiednio na rachunek bankowy Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych, rachunek bankowy urzędu obsługującego ministra właściwego do spraw zdrowia albo Głównego Inspektoratu Sanitarnego.
+4. Kary pieniężne są uiszczane na rachunek bankowy Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych.
 
 5. Karę pieniężną uiszcza się w terminie 14 dni od dnia, w którym decyzja stała się ostateczna.
 
 #### Rozdział 17 Zmiany w przepisach
-
-**Art. 105.** W ustawie z dnia 20 lipca 1950 r. o zawodzie felczera (Dz. U. z 2021 r. poz. 742) w art. 4 w ust. 1 wyrazy „wyroby medyczne, wyroby medyczne do diagnostyki in vitro, wyposażenie wyrobów medycznych, wyposażenie wyrobów medycznych do diagnostyki in vitro, w rozumieniu przepisów ustawy z dnia 20 maja 2010 r. o wyrobach medycznych (Dz. U. z 2020 r. poz. 186 i 1493 oraz z 2021 r. poz. 255)” zastępuje się wyrazami „wyroby medyczne, wyposażenie wyrobów medycznych, systemy i zestawy zabiegowe, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm. ), oraz wyroby do samokontroli i pojemniki na próbki, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE (Dz. Urz. UE L 117 z 05.05.2017, str. 176, z późn. zm. )”.
-
-**Art. 106.** W ustawie z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm. ) w art. 829:
-
-**Art. 107.** W ustawie z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego (Dz. U. z 2020 r. poz. 685) wprowadza się następujące zmiany:
-
-**Art. 108.** W ustawie z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2021 r. poz. 790, 1559 i 2232 oraz z 2022 r. poz. 583, 655 i 830) wprowadza się następujące zmiany:
-
-**Art. 109.** W ustawie z dnia 22 sierpnia 1997 r. o publicznej służbie krwi (Dz. U. z 2021 r. poz. 1749) wprowadza się następujące zmiany:
-
-**Art. 110.** W ustawie z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2021 r. poz. 1540, z późn. zm. ) w art. 299 w § 3 po pkt 16 dodaje się pkt 16a w brzmieniu: „16a) Prezesowi Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych w zakresie realizacji zadań, o których mowa w art. 50 oraz art. 64 ustawy z dnia 7 kwietnia 2022 r. o wyrobach medycznych (Dz. U. poz. 974);”.
-
-**Art. 111.** W ustawie z dnia 29 listopada 2000 r. Prawo atomowe (Dz. U. z 2021 r. poz. 1941) wprowadza się następujące zmiany:
-
-**Art. 112.** W ustawie z dnia 27 lipca 2001 r. o diagnostyce laboratoryjnej (Dz. U. z 2022 r. poz. 134) po art. 1a dodaje się art. 1b w brzmieniu: „Art. 1b. 1. Laboratorium, które wykonuje badanie genetyczne, jest obowiązane zapewnić, aby pacjent poddawany badaniu genetycznemu albo jego przedstawiciel ustawowy otrzymał informacje dotyczące charakteru, znaczenia oraz konsekwencji badania genetycznego. 2. Laboratorium, o którym mowa w ust. 1, jest obowiązane zapewnić doradztwo w przypadku wykonywania badań genetycznych dostarczających informacji o genetycznych predyspozycjach do schorzeń lub chorób, które zgodnie z aktualnym stanem wiedzy naukowej i technologii są powszechnie uznawane za nieuleczalne. 3. Jeżeli badanie, o którym mowa w ust. 1, jest wykonywane na podstawie zlecenia wystawionego przez lekarza, obowiązki, o których mowa w ust. 1 i 2, wykonuje ten lekarz albo upoważniony pracownik podmiotu wykonującego działalność leczniczą, w którym ten lekarz wykonuje zawód.”.
-
-**Art. 113.** W ustawie z dnia 6 września 2001 r. Prawo farmaceutyczne (Dz. U. z 2021 r. poz. 1977 i 2120 oraz z 2022 r. poz. 830) wprowadza się następujące zmiany:
-
-**Art. 114.** W ustawie z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2021 r. poz. 1344) w art. 1 ust. 2 otrzymuje brzmienie: „2. Przepisy ustawy stosuje się do wyrobów medycznych, o których mowa w art. 2 ust. 1 pkt 38 ustawy z dnia 20 maja 2010 r. o wyrobach medycznych (Dz. U. z 2021 r. poz. 1565), wyrobów w rozumieniu art. 1 ust. 4 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 2017/745”, oraz do wyrobów rozumieniu w art. 1 ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE (Dz. Urz. UE L 117 z 05.05.2017, str. 176, z późn. zm. ), zwanego dalej „rozporządzeniem 2017/746”, w zakresie, w jakim należą do rodzajów wyrobów wskazanych w art. 1 ust. 1a pkt 2, 3, 6–9 i 11, z uwzględnieniem stosowania wymagań bardziej szczegółowych w przypadkach wskazanych w art. 25 ustawy z dnia 20 maja 2010 r. o wyrobach medycznych, art. 1 ust. 12 rozporządzenia 2017/745 oraz art. 1 ust. 6 rozporządzenia 2017/746.”.
-
-**Art. 115.** W ustawie z dnia 11 września 2003 r. o służbie wojskowej żołnierzy zawodowych (Dz. U. z 2022 r. poz. 536) wprowadza się następujące zmiany:
-
-**Art. 116.** W ustawie z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej (Dz. U. z 2021 r. poz. 306) w art. 30 w ust. 2 w pkt 2 wyrazy „wyrobów medycznych w rozumieniu art. 2 pkt 38 ustawy z dnia 20 maja 2010 r. o wyrobach medycznych (Dz. U. z 2020 r. poz. 186 i 1493)” zastępuje się wyrazami „wyrobów medycznych i wyposażenia wyrobów medycznych w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm. )”.
-
-**Art. 117.** W ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2022 r. poz. 931) wprowadza się następujące zmiany:
-
-**Art. 145c.** Do wyrobów medycznych, o których mowa w poz. 13 załącznika nr 3 do ustawy w brzmieniu obowiązującym przed dniem wejścia w życie ustawy z dnia 7 kwietnia 2022 r. o wyrobach medycznych (Dz. U. poz. 974), stawkę podatku, o której mowa w art. 41 ust. 2, stosuje się do dnia 27 maja 2025 r.
-
-**Art. 145d.** Do usług napraw i konserwacji wyrobów medycznych w rozumieniu ustawy z dnia 20 maja 2010 r. o wyrobach medycznych (Dz. U. z 2021 r. poz. 1565) dopuszczonych do obrotu na terytorium Rzeczypospolitej Polskiej zgodnie z tą ustawą stosuje się stawkę podatku, o której mowa w art. 41 ust. 2.”;
-
-**Art. 118.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2021 r. poz. 1285, z późn. zm. ) w art. 5 pkt 46 otrzymuje brzmienie: „46) wyroby medyczne wyroby medyczne, wyposażenie wyrobów medycznych, systemy i zestawy zabiegowe, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm. ), oraz wyroby medyczne do diagnostyki in vitro i wyposażenie wyrobów medycznych do diagnostyki in vitro, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE (Dz. Urz. UE L 117 z 05.05.2017, str. 176, z późn. zm. );”.
-
-**Art. 119.** W ustawie z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2021 r. poz. 2053 i 2459) w art. 3 w pkt 7 wyrazy „wyrobów medycznych i wyposażenia wyrobów medycznych, w rozumieniu przepisów ustawy z dnia 20 maja 2010 r. o wyrobach medycznych (Dz. U. z 2021 r. poz. 1565)” zastępuje się wyrazami „wyrobów medycznych, wyposażenia wyrobów medycznych, systemów i zestawów zabiegowych, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm. )”.
-
-**Art. 120.** W ustawie z dnia 13 kwietnia 2007 r. o kompatybilności elektromagnetycznej (Dz. U. z 2019 r. poz. 2388) w art. 5 pkt 5 otrzymuje brzmienie: „5) wyrobów medycznych i wyposażenia wyrobów medycznych, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm. ), a także produktów wymienionych w załączniku XVI do tego rozporządzenia, oraz wyrobów medycznych do diagnostyki in vitro i wyposażenia wyrobów medycznych do diagnostyki in vitro, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE (Dz. Urz. UE L 117 z 05.05.2017, str. 176, z późn. zm. );”.
-
-**Art. 121.** W ustawie z dnia 6 listopada 2008 r. o konsultantach w ochronie zdrowia (Dz. U. z 2019 r. poz. 886) wprowadza się następujące zmiany:
-
-**Art. 122.** W ustawie z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2020 r. poz. 849 oraz z 2022 r. poz. 64) wprowadza się następujące zmiany:
-
-**Art. 123.** W ustawie z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2021 r. poz. 2069 i 2120 oraz z 2022 r. poz. 64 i 655) wprowadza się następujące zmiany:
-
-**Art. 124.** W ustawie z dnia 7 maja 2009 r. o towarach paczkowanych (Dz. U. z 2020 r. poz. 1442) w art. 1 w ust. 2 wyrazy „wyrobów medycznych, wyposażenia wyrobów medycznych, wyrobów medycznych do diagnostyki in vitro, wyposażenia wyrobów medycznych do diagnostyki in vitro i aktywnych wyrobów medycznych do implantacji, w rozumieniu przepisów ustawy z dnia 20 maja 2010 r. o wyrobach medycznych (Dz. U. z 2020 r. poz. 186)” zastępuje się wyrazami „wyrobów medycznych i wyposażenia wyrobów medycznych, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm. ), a także produktów wymienionych w załączniku XVI do tego rozporządzenia, oraz wyrobów medycznych do diagnostyki in vitro i wyposażenia wyrobów medycznych do diagnostyki in vitro, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE (Dz. Urz. UE L 117 z 05.05.2017, str. 176, z późn. zm. )”.
-
-**Art. 125.** W ustawie z dnia 18 marca 2011 r. o Urzędzie Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych (Dz. U. z 2020 r. poz. 836) wprowadza się następujące zmiany:
-
-**Art. 126.** W ustawie z dnia 1 kwietnia 2011 r. Prawo probiercze (Dz. U. z 2020 r. poz. 1365) w art. 6 w ust. 1 pkt 4 otrzymuje brzmienie: „4) wyrobów medycznych i wyposażenia wyrobów medycznych, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm. ), a także produktów wymienionych w załączniku XVI do tego rozporządzenia, oraz wyrobów medycznych do diagnostyki in vitro i wyposażenia wyrobów medycznych do diagnostyki in vitro, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE (Dz. Urz. UE L 117 z 05.05.2017, str. 176, z późn. zm. );”.
-
-**Art. 127.** W ustawie z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2022 r. poz. 633 i 655) wprowadza się następujące zmiany:
-
-**Art. 128.** W ustawie z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2021 r. poz. 666 i 1292 oraz z 2022 r. poz. 655 i 830) wprowadza się następujące zmiany:
-
-**Art. 129.** W ustawie z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych (Dz. U. z 2022 r. poz. 463 i 583) wprowadza się następujące zmiany:
-
-**Art. 130.** W ustawie z dnia 22 listopada 2013 r. o postępowaniu wobec osób z zaburzeniami psychicznymi stwarzających zagrożenie życia, zdrowia lub wolności seksualnej innych osób (Dz. U. z 2021 r. poz. 1638) w art. 27 w ust. 2 wyrazy „wyroby, o których mowa w ustawie z dnia 20 maja 2010 r. o wyrobach medycznych (Dz. U. z 2020 r. poz. 186 i 1493 oraz z 2021 r. poz. 255)” zastępuje się wyrazami „wyroby medyczne, wyposażenie wyrobów medycznych, systemy i zestawy zabiegowe, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm. ), oraz wyroby medyczne do diagnostyki in vitro i wyposażenie wyrobów medycznych do diagnostyki in vitro, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE (Dz. Urz. UE L 117 z 05.05.2017, str. 176, z późn. zm. )”.
-
-**Art. 131.** W ustawie z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym (Dz. U. z 2020 r. poz. 1893 oraz z 2021 r. poz. 2151) w art. 2 w ust. 2 pkt 10 otrzymuje brzmienie: „10) wyrobów medycznych, wyposażenia wyrobów medycznych, systemów i zestawów zabiegowych, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm. ), a także produktów wymienionych w załączniku XVI do tego rozporządzenia, oraz wyrobów medycznych do diagnostyki in vitro i wyposażenia wyrobów medycznych do diagnostyki in vitro, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE (Dz. Urz. UE L 117 z 05.05.2017, str. 176, z późn. zm. ), zwanych dalej „wyrobami medycznymi”, w przypadku gdy mogą być źródłem zakażeń przed zakończeniem okresu ich eksploatacji;”.
-
-**Art. 132.** W ustawie z dnia 11 września 2015 r. o zdrowiu publicznym (Dz. U. z 2021 r. poz. 1956 i 2469) w art. 12b w ust. 2 pkt 1 otrzymuje brzmienie: „1) będących wyrobami medycznymi w rozumieniu art. 2 pkt 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm. );”.
-
-**Art. 133.** W ustawie z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. z 2022 r. poz. 5) w art. 1 ust. 5 otrzymuje brzmienie: „5. Ustawy nie stosuje się do wyrobów w rozumieniu art. 1 ust. 4 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm. ), a także wyrobów w rozumieniu art. 1 ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE (Dz. Urz. UE L 117 z 05.05.2017, str. 176, z późn. zm. ), z wyłączeniem:
-
-**Art. 134.** W ustawie z dnia 6 marca 2018 r. Prawo przedsiębiorców (Dz. U. z 2021 r. poz. 162 i 2105 oraz z 2022 r. poz. 24) wprowadza się następujące zmiany:
-
-**Art. 135.** W ustawie z dnia 10 grudnia 2020 r. o zawodzie farmaceuty (Dz. U. z 2022 r. poz. 184 i 655) wprowadza się następujące zmiany:
-
-**Art. 136.** W ustawie z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655) wprowadza się następujące zmiany:
 
 #### Rozdział 18 Przepisy przejściowe i końcowe
 
@@ -1268,16 +1211,16 @@ o wyrobach medycznych
 5. Opłaty za zgłoszenia, o których mowa w ust. 1 i 2, i zmianę tych zgłoszeń wynoszą odpowiednio za:
 
 - **1)** zgłoszenie wyrobu medycznego lub wyposażenia wyrobu medycznego:
-    - **a)** będącego wyrobem wykonanym na zamówienie 30 zł za jeden zgłaszany wyrób,
-    - **b)** niebędącego wyrobem wykonanym na zamówienie 300 zł za jeden zgłaszany wyrób;
+    - **a)** będącego wyrobem wykonanym na zamówienie – 30 zł za jeden zgłaszany wyrób,
+    - **b)** niebędącego wyrobem wykonanym na zamówienie – 300 zł za jeden zgłaszany wyrób;
 
 - **2)** zgłoszenie wyrobu medycznego do diagnostyki in vitro lub wyposażenia wyrobu medycznego do diagnostyki in vitro, będącego:
-    - **a)** wyrobem, o którym mowa w art. 58 ust. 2a ustawy uchylanej w art. 147 30 zł za jeden zgłaszany wyrób,
-    - **b)** wyrobem innym niż wyrób, o którym mowa w art. 58 ust. 2a ustawy uchylanej w art. 147 300 zł za jeden zgłaszany wyrób;
+    - **a)** wyrobem, o którym mowa w art. 58 ust. 2a ustawy uchylanej w art. 147 – 30 zł za jeden zgłaszany wyrób,
+    - **b)** wyrobem innym niż wyrób, o którym mowa w art. 58 ust. 2a ustawy uchylanej w art. 147 – 300 zł za jeden zgłaszany wyrób;
 
-- **3)** zgłoszenie systemu lub zestawu zabiegowego 150 zł za jeden zgłaszany system lub zestaw zabiegowy;
-- **4)** zgłoszenie działalności polegającej na sterylizacji systemów lub zestawów zabiegowych lub wyrobów medycznych oznakowanych znakiem CE przeznaczonych przez ich wytwórcę do sterylizacji przed użyciem 150 zł za jeden system lub zestaw zabiegowy lub wyrób medyczny oznakowany znakiem CE;
-- **5)** zmianę zgłoszeń, o których mowa w pkt 1–4 połowę opłaty ustalonej za złożenie odpowiedniego zgłoszenia.
+- **3)** zgłoszenie systemu lub zestawu zabiegowego – 150 zł za jeden zgłaszany system lub zestaw zabiegowy;
+- **4)** zgłoszenie działalności polegającej na sterylizacji systemów lub zestawów zabiegowych lub wyrobów medycznych oznakowanych znakiem CE przeznaczonych przez ich wytwórcę do sterylizacji przed użyciem – 150 zł za jeden system lub zestaw zabiegowy lub wyrób medyczny oznakowany znakiem CE;
+- **5)** zmianę zgłoszeń, o których mowa w pkt 1–4 – połowę opłaty ustalonej za złożenie odpowiedniego zgłoszenia.
 
 6. Świadectwa wolnej sprzedaży w odniesieniu do wyrobów, o których mowa w art. 120 ust. 3 rozporządzenia 2017/745 lub art. 110 ust. 3 rozporządzenia 2017/746, wydaje się na podstawie i w trybie art. 67 ust. 1–6 ustawy uchylanej w art. 147 oraz pobiera się opłatę w wysokości 350 zł.
 
@@ -1317,9 +1260,9 @@ o wyrobach medycznych
 10. W przypadkach, o których mowa w ust. 9:
 
 - **1)** dokumentacja oceny zgodności,
-- **2)** wykaz odbiorców stają się państwowym zasobem archiwalnym zgodnie z art. 44 ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2020 r. poz. 164) i przechowuje się je z zachowaniem terminów określonych w art. 13 ust. 3, art. 18 ust. 3 i art. 32 ust. 1 i 2 ustawy uchylanej w art. 147. Dokumentacja podlega udostępnieniu bezpłatnie na żądanie Prezesa Urzędu.
+- **2)** wykaz odbiorców – stają się państwowym zasobem archiwalnym zgodnie z art. 44 ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2020 r. poz. 164) i przechowuje się je z zachowaniem terminów określonych w art. 13 ust. 3, art. 18 ust. 3 i art. 32 ust. 1 i 2 ustawy uchylanej w art. 147. Dokumentacja podlega udostępnieniu bezpłatnie na żądanie Prezesa Urzędu.
 
-11. Do dnia 1 stycznia 2031 r. Prezes Urzędu wzywa podmioty do uzupełnienia lub poprawienia zgłoszenia w terminie 14 dni, a w przypadku powiadomienia w terminie 30 dni, od dnia otrzymania wezwania, jeżeli:
+11. Do dnia 1 stycznia 2031 r. Prezes Urzędu wzywa podmioty do uzupełnienia lub poprawienia zgłoszenia w terminie 14 dni, a w przypadku powiadomienia – w terminie 30 dni, od dnia otrzymania wezwania, jeżeli:
 
 - **1)** do zgłoszenia albo powiadomienia nie dołączono wszystkich dokumentów wymaganych odpowiednio zgodnie z art. 59 ust. 2 albo art. 60 ust. 2 ustawy uchylanej w art. 147 lub
 - **2)** w formularzu zgłoszenia albo powiadomienia nie podano wszystkich wymaganych informacji lub zawiera on błędy, w szczególności polegające na rozbieżności podanych w nim informacji z informacjami podanymi w dołączonych do formularza wzorach oznakowania, instrukcjach używania, deklaracji zgodności UE lub certyfikatach zgodności.

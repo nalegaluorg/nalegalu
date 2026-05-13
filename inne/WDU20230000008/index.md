@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# Warszawa, dnia 2 stycznia 2023 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy o stosunku Państwa Kościoła Katolickiego Mariawitów Rzeczypospolitej Polskiej
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 16 listopada 2022 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000008) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/8/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 16 listopada 2022 r.
-sprawie ogłoszenia jednolitego tekstu ustawy o stosunku Państwa Kościoła Katolickiego Mariawitów Rzeczypospolitej Polskiej
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku niniejszego obwieszczenia jednolity tekst ustawy z dnia 20 lutego 1997 r. o stosunku Państwa Kościoła Katolickiego Mariawitów Rzeczypospolitej Polskiej (Dz. U. z 2015 r. poz. 44), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700) oraz zmian wynikających z przepisów ogłoszonych przed dniem 9 listopada 2022 r.
 2. Podany załączniku niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 417 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700), który stanowi: „Art. 417. Ustawa wchodzi życie z dniem 1 września 2022 r., z wyjątkiem art. 135 ust. 1 i 2, art. 186 ust. 1 i 2, art. 243 ust. 1, art. 321, art. 324–338 zakresie okręgowych ośrodków wychowawczych, art. 340 zakresie okręgowych ośrodków wychowawczych, art. 341 zakresie okręgowych ośrodków wychowawczych, art. 343, art. 348 zakresie okręgowych ośrodków wychowawczych, art. 361, art. 363, art. 385 pkt 1 i 2, art. 389 pkt 1 i 3–7, art. 393, art. 400, art. 401 ust. 2 i art. 415 pkt 4, które wchodzą życie z dniem następującym po dniu ogłoszenia.”.
 Marszałek Sejmu: E. Witek o stosunku Państwa Kościoła Katolickiego Mariawitów Rzeczypospolitej Polskiej
@@ -123,7 +123,7 @@ Marszałek Sejmu: E. Witek o stosunku Państwa Kościoła Katolickiego Mariawit�
 
 1. Kościół prowadzi konfesyjne nauczanie religii szkołach publicznych na zasadach i trybie przewidzianych odrębnych przepisach.
 
-2. (uchylony) wawczych i opiekuńczo-wychowawczych, a także seminariach kapłańskich i instytutach misyjnych prowadzonych przez Kościół stosuje się odpowiednio przepisy dotyczące uprawnień nauczycieli, wychowawców i pracowników zatrudnionych szkołach i placówkach publicznych.
+2. (uchylony) Kościół stosuje się odpowiednio przepisy dotyczące uprawnień nauczycieli, wychowawców i pracowników zatrudnionych szkołach i placówkach publicznych.
 
 3. Uczącym się szkołach wymienionych ust. 1 i 2 przysługują świadczenia opieki zdrowotnej finansowane ze środków publicznych oraz ulgi opłatach za przejazdy środkami publicznego transportu zbiorowego na równi z uczniami szkół publicznych.
 

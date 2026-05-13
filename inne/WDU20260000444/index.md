@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 1 kwietnia 2026 r.
+# o zmianie ustawy o Krajowej Szkole Sądownictwa i Prokuratury
+
+*USTAWA z dnia 27 lutego 2026 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +25,6 @@ domain: null
 | Data wydania | 2026-04-01 |
 | Ostatnia zmiana | 2026-04-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000444) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/444/text.pdf) |
-
-Poz. 444
-USTAWA z dnia 27 lutego 2026 r.
-o zmianie ustawy o Krajowej Szkole Sądownictwa i Prokuratury
 
 **Art. 1.** W ustawie z dnia 23 stycznia 2009 r. o Krajowej Szkole Sądownictwa i Prokuratury (Dz. U. z 2022 r. poz. 217 i 2695 oraz z 2026 r. poz. 370) w art. 33:
 

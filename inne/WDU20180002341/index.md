@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 13 grudnia 2018 r.
+# o zmianie ustawy o funkcjonowaniu górnictwa węgla kamiennego oraz niektórych innych ustaw
+
+*USTAWA z dnia 9 listopada 2018 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +25,6 @@ domain: null
 | Data wydania | 2018-12-13 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002341) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2341/text.pdf) |
-
-Poz. 2341
-USTAWA z dnia 9 listopada 2018 r.
-o zmianie ustawy o funkcjonowaniu górnictwa węgla kamiennego oraz niektórych innych ustaw
 
 **Art. 1.** W ustawie z dnia 7 września 2007 r. o funkcjonowaniu górnictwa węgla kamiennego (Dz. U. z 2018 r. poz. 1374) wprowadza się następujące zmiany:
 

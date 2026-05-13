@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 17 sierpnia 2015 r.
+# o zmianie ustawy o finansach publicznych
+
+*USTAWA z dnia 22 lipca 2015 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +25,6 @@ domain: null
 | Data wydania | 2015-08-17 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001190) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1190/text.pdf) |
-
-Poz. 1190
-USTAWA z dnia 22 lipca 2015 r.
-o zmianie ustawy o finansach publicznych
 
 **Art. 1.** W ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, z późn. zm. ) w art. 112aa:
 

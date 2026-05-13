@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 24 czerwca 2025 r.
+# w sprawie ogłoszenia jednolitego tekstu ustawy o znakach Sił Zbrojnych Rzeczypospolitej Polskiej
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 11 czerwca 2025 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2025-06-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000816) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/816/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 11 czerwca 2025 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o znakach Sił Zbrojnych Rzeczypospolitej Polskiej
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 19 lutego 1993 r. o znakach Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z 2019 r. poz. 1351), z uwzględnieniem zmian wprowadzonych ustawą z dnia 6 lutego 2025 r. o zmianie ustawy o znakach Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. poz. 295) oraz zmian wynikających z przepisów ogłoszonych przed dniem 3 czerwca 2025 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 2 ustawy z dnia 6 lutego 2025 r. o zmianie ustawy o znakach Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. poz. 295), który stanowi: „Art. 2. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
 Marszałek Sejmu: S. Hołownia
@@ -74,7 +74,7 @@ o znakach Sił Zbrojnych Rzeczypospolitej Polskiej
 
 2. Minister Obrony Narodowej może wyrazić zgodę na używanie, w tym modyfikowanie, znaków, o których mowa w art. 1, poza Siłami Zbrojnymi Rzeczypospolitej Polskiej.
 
-3. Znaki Sił Zbrojnych Rzeczypospolitej Polskiej pozostają pod szczególną ochroną prawa, przewidzianą w odrębnych przepisach dla godła, barw i hymnu Rzeczypospolitej Polskiej. Rzeczypospolitej Polskiej, o których mowa w art. 1 ust. 1 i 2, uwzględniając miejsce ich umieszczania, noszenia oraz sposób i okoliczności prezentowania podczas obchodów świąt narodowych i wojskowych.
+3. Znaki Sił Zbrojnych Rzeczypospolitej Polskiej pozostają pod szczególną ochroną prawa, przewidzianą w odrębnych przepisach dla godła, barw i hymnu Rzeczypospolitej Polskiej. i okoliczności prezentowania podczas obchodów świąt narodowych i wojskowych.
 
 #### Rozdział 2 Orły wojskowe
 
@@ -146,7 +146,7 @@ o znakach Sił Zbrojnych Rzeczypospolitej Polskiej
 
 **Art. 14.**
 
-1. Płatem sztandaru jest tkanina biała w kształcie kwadratu, po której obu stronach znajduje się krzyż kawalerski wykonany z tkaniny czerwonej. Barwy sztandaru są białe i czerwone, ustalone dla barw Rzeczypospolitej Polskiej. Jeden bok sztandaru wszyty jest w białą skórę przymocowaną do drzewca 7 gwoździami z białego metalu po każdej stronie płata (drzewca). Boki sztandaru, z wyjątkiem boku przytwierdzonego do drzewca, są obszyte frędzlą złotą. ułożone w kształcie wieńca otwartego w górnej części, haftowane złotym szychem. Pośrodku wieńca jest umieszczony wizerunek orła białego, ustalony ustawą z dnia 9 lutego 1990 r. o zmianie przepisów o godle, barwach i hymnie Rzeczypospolitej Polskiej (Dz. U. poz. 60) z głową zwróconą do drzewca, haftowany srebrnym szychem; korona, dziób i szpony orła są haftowane złotym szychem. Pomiędzy ramionami krzyża kawalerskiego, w rogach płata, są umieszczone wieńce wawrzynu oraz w ich polach numer jednostki wojskowej, a w razie braku numeru inicjały jej nazwy, haftowane złotym szychem. Wzór strony głównej płata sztandaru zawierają załączniki 4 i 4a.
+1. Płatem sztandaru jest tkanina biała w kształcie kwadratu, po której obu stronach znajduje się krzyż kawalerski wykonany z tkaniny czerwonej. Barwy sztandaru są białe i czerwone, ustalone dla barw Rzeczypospolitej Polskiej. Jeden bok sztandaru wszyty jest w białą skórę przymocowaną do drzewca 7 gwoździami z białego metalu po każdej stronie płata (drzewca). Boki sztandaru, z wyjątkiem boku przytwierdzonego do drzewca, są obszyte frędzlą złotą. runek orła białego, ustalony ustawą z dnia 9 lutego 1990 r. o zmianie przepisów o godle, barwach i hymnie Rzeczypospolitej Polskiej (Dz. U. poz. 60) z głową zwróconą do drzewca, haftowany srebrnym szychem; korona, dziób i szpony orła są haftowane złotym szychem. Pomiędzy ramionami krzyża kawalerskiego, w rogach płata, są umieszczone wieńce wawrzynu oraz w ich polach numer jednostki wojskowej, a w razie braku numeru inicjały jej nazwy, haftowane złotym szychem. Wzór strony głównej płata sztandaru zawierają załączniki 4 i 4a.
 
 3. Na stronie odwrotnej płata, pośrodku krzyża kawalerskiego, znajduje się wieniec, taki jak na stronie głównej, w środku którego jest umieszczony w trzech wierszach napis „BÓG HONOR OJCZYZNA”, haftowany złotym szychem. Pomiędzy ramionami krzyża, w rogach płata, są umieszczone wieńce wawrzynu, takie jak na stronie głównej, a w ich polach mogą być umieszczone za zgodą Ministra Obrony Narodowej herby miejscowości i symbole związane z historią jednostki wojskowej oraz emblematy lub inicjały fundatorów sztandaru. Wzór strony odwrotnej płata sztandaru zawierają załączniki 5 i 5a.
 
@@ -194,7 +194,7 @@ o znakach Sił Zbrojnych Rzeczypospolitej Polskiej
 
 2. Proporcem marynarki wojennej jest prostokątny płat tkaniny o barwach Rzeczypospolitej Polskiej. Stosunek szerokości płata do jego długości wynosi 5:6. Pośrodku płata jest umieszczony krzyż kawalerski. Jego ramiona położone na białym pasie są koloru czerwonego, a ramiona położone na pasie czerwonym białego. Pośrodku krzyża, w kręgu czerwonym, jest umieszczony wizerunek ręki z szablą. Ręka jest koloru cielistego, a szabla koloru srebrnego, z żółtą rękojeścią. Ramię ręki jest ubrane w niebieski rękaw z żółtym przybraniem. Stosunek wysokości krzyża do szerokości płata wynosi 4:5.
 
-3. Wzór proporca marynarki wojennej zawiera załącznik 8. przez oficera marynarki wojennej i znajduje się w kampanii.
+3. Wzór proporca marynarki wojennej zawiera załącznik 8.
 
 2. Znakiem dowódcy okrętu jest wstęga o barwach Rzeczypospolitej Polskiej, zakończona dwoma trójkątnymi językami na wolnym liku. Przy przednim liku jest umieszczony krzyż kawalerski. Jego ramiona położone na białym pasie są koloru czerwonego, a ramiona położone na pasie czerwonym białego. Stosunek szerokości wstęgi do jej długości wynosi 1:25. Stosunek wcięcia do długości wstęgi 1:3. Stosunek wysokości krzyża do szerokości wstęgi wynosi 4:5.
 

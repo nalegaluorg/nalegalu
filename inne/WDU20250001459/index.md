@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 23 października 2025 r.
+# o pracownikach urzędów państwowych
+
+*USTAWA z dnia 16 września 1982 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,51 +25,6 @@ domain: null
 | Data wydania | 2025-10-23 |
 | Ostatnia zmiana | 2026-04-21 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001459) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1459/text.pdf) |
-
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 20 października 2025 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o pracownikach urzędów państwowych
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych (Dz. U. z 2023 r. poz. 1917), z uwzględnieniem zmian wprowadzonych:
-1) ustawą z dnia 20 grudnia 2024 r. o Radzie Fiskalnej (Dz. U. z 2025 r. poz. 39),
-2) ustawą z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620),
-3) ustawą z dnia 9 maja 2025 r. o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 820) oraz zmian wynikających z przepisów ogłoszonych przed dniem 1 października 2025 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 55 ustawy z dnia 20 grudnia 2024 r. o Radzie Fiskalnej (Dz. U. z 2025 r. poz. 39), który stanowi: „Art. 55. Ustawa wchodzi w życie z dniem 15 lutego 2025 r., z wyjątkiem:
-1) art. 32–34, art. 35 pkt 1–4, pkt 10, pkt 12 lit. a, pkt 13 i pkt 14 lit. a, art. 36 pkt 1–6, art. 37–39 oraz art. 53, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
-2) art. 4–7, art. 13–21, art. 27–30, art. 35 pkt 5–9, pkt 12 lit. b i pkt 14 lit. b, art. 36 pkt 7 oraz art. 51, które wchodzą w życie z dniem 1 stycznia 2026 r.”;
-2) art. 461 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620), który stanowi: „Art. 461. Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
-1) art. 392 pkt 2 lit. b oraz art. 458, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
-2) art. 106, art. 128 ust. 2, art. 203 oraz art. 300 ust. 3 pkt 11, które wchodzą w życie z dniem 1 stycznia 2026 r.”;
-3) art. 23–25, art. 27, art. 29–31 i art. 34 ustawy z dnia 9 maja 2025 r. o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 820), które stanowią: „Art. 23. 1. Znosi się Szefa Inspektoratu Wewnętrznego Służby Więziennej.
-2. Likwiduje się Inspektorat Wewnętrzny Służby Więziennej, zwany dalej „IWSW”.
-3. Likwiduje się wydziały zamiejscowe IWSW.
-4. Należności i zobowiązania IWSW oraz wydziałów zamiejscowych IWSW stają się należnościami i zobowiązaniami Centralnego Zarządu Służby Więziennej, zwanego dalej „CZSW”.
-
-**Art. 24.**
-
-1. Funkcjonariusze IWSW stają się funkcjonariuszami CZSW.
-
-2. Funkcjonariusze wydziałów zamiejscowych IWSW stają się funkcjonariuszami jednostek organizacyjnych Służby Więziennej mających siedziby najbliżej siedzib tych wydziałów.
-
-3. W sprawach, o których mowa w ust. 1 i 2, przepisy art. 72 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą stosuje się odpowiednio.
-
-**Art. 25.** Do pracowników IWSW i pracowników wydziałów zamiejscowych IWSW przepisy art. 24 ust. 1 i 2 stosuje się odpowiednio.” „Art. 27. 1. Sprawy wszczęte na podstawie rozdziału 3a ustawy zmienianej w art. 1 i niezakończone przed dniem wejścia w życie niniejszej ustawy Szef IWSW przekazuje Ministrowi Sprawiedliwości. 2. Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw wewnętrznych oraz Ministrem Koordynatorem Służb Specjalnych, jeżeli został powołany, niezwłocznie przekazuje sprawy, o których mowa w ust. 1, do dalszego prowadzenia organom, służbom lub instytucjom państwowym, zgodnie z ich właściwością.” „Art. 29. 1. Skargi, wnioski i petycje w zakresie dotyczącym działalności IWSW, wniesione do Szefa IWSW i nierozpatrzone przed dniem wejścia w życie niniejszej ustawy, rozpatruje Dyrektor Generalny Służby Więziennej. 2. Wnioski o udostępnienie informacji publicznej oraz wnioski o przekazanie informacji w trybie ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. z 2023 r. poz. 1524), złożone do Szefa IWSW i nierozpatrzone przed dniem wejścia w życie niniejszej ustawy, rozpatruje Dyrektor Generalny Służby Więziennej.
-
-**Art. 30.** Sprawy wszczęte na podstawie art. 23y ustawy zmienianej w art. 1 i niezakończone przed dniem wejścia w życie niniejszej ustawy Szef IWSW przekazuje do dalszego prowadzenia Ministrowi Sprawiedliwości.
-
-**Art. 31.**
-
-1. Minister Sprawiedliwości może zezwalać byłym funkcjonariuszom i pracownikom IWSW, a także osobom udzielającym im pomocy w wykonywaniu czynności operacyjno-rozpoznawczych, na udzielenie uprawnionemu podmiotowi informacji stanowiącej informację niejawną.
-
-2. Zezwolenie, o którym mowa w ust. 1, nie może dotyczyć udzielenia informacji o:
-
-- **1)** osobie, jeżeli zostały uzyskane w wyniku prowadzonych przez IWSW albo inne organy, służby lub instytucje państwowe czynności operacyjno-rozpoznawczych;
-- **2)** szczegółowych formach i zasadach przeprowadzania czynności operacyjno-rozpoznawczych oraz o stosowanych w związku z ich prowadzeniem środkach i metodach;
-- **3)** osobie udzielającej pomocy IWSW, o której mowa w art. 23zc ustawy zmienianej w art. 1.
-
-3. Zakazu określonego w ust. 2 nie stosuje się w przypadku żądania prokuratora lub sądu:
-
-- **1)** zgłoszonego w celu ścigania za przestępstwo, którego skutkiem jest śmierć człowieka, uszczerbek na zdrowiu lub szkoda w mieniu;
-- **2)** uzasadnionego podejrzeniem popełnienia przestępstwa ściganego z oskarżenia publicznego w związku z wykonywaniem czynności operacyjno-rozpoznawczych.” „Art. 34. Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 27, art. 28 i art. 30, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia.”. Marszałek Sejmu: S. Hołownia USTAWA z dnia 16 września 1982 r. o pracownikach urzędów państwowych
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -93,7 +50,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o pracownikach urzędów państw
 - **11)** (uchylony)
 - **12)** regionalnych izbach obrachunkowych;
 - **13)** Urzędzie Ochrony Danych Osobowych;
-- **14)** Instytucie Pamięci Narodowej Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu;
+- **14)** Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu;
 - **15)** Urzędzie Państwowej Komisji do spraw przeciwdziałania wykorzystaniu seksualnemu małoletnich poniżej lat 15;
 - **16)** Biurze Rady Fiskalnej.
 
@@ -152,9 +109,9 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o pracownikach urzędów państw
 
 1. Kierownik urzędu może skierować urzędnika mającego wykształcenie prawnicze do odbycia aplikacji legislacyjnej. Wzajemne prawa i obowiązki urzędu i urzędnika, związane ze skierowaniem na aplikację legislacyjną, określa umowa zawarta między kierownikiem urzędu a urzędnikiem.
 
-2. Aplikacja legislacyjna kończy się egzaminem.
+2. (uchylony)
 
-3. Szczegółowe zasady i tryb organizowania i odbywania aplikacji określają odrębne przepisy.
+3. (uchylony)
 
 **Art. 8.** (uchylony)
 
@@ -172,9 +129,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o pracownikach urzędów państw
 
 3. W uzasadnionych wypadkach urzędnik państwowy mianowany może być przeniesiony, na okres do sześciu miesięcy, do innego urzędu w tej samej lub innej miejscowości, do pracy zgodnej z posiadanymi kwalifikacjami. W okresie przeniesienia przysługuje mu wynagrodzenie stosowne do wykonywanej pracy, lecz nie niższe od dotychczasowego. Przeniesienie takie dopuszczalne jest tylko raz na dwa lata.
 
-4. Niedopuszczalne jest czasowe przeniesienie, bez zgody zainteresowanego, do urzędu mającego siedzibę w innej miejscowości kobiety w ciąży lub urzędnika państwowego sprawującego opiekę nad dzieckiem w wieku do czternastu lat, a także w wypadkach, gdy stoją temu na przeszkodzie ważne względy osobiste lub rodzinne urzędnika.
-
-5. W razie trwałej utraty zdolności do pracy na zajmowanym stanowisku, stwierdzonej orzeczeniem komisji lekarskiej do spraw inwalidztwa i zatrudnienia , urzędnika państwowego mianowanego można za jego zgodą przenieść na inne, także niższe stanowisko, z tym że przez okres trzech miesięcy zachowuje prawo do dotychczasowego wynagrodzenia. Jeżeli urzędnik państwowy zostaje poddany rehabilitacji zawodowej lub przysposobieniu do innej pracy, zachowuje prawo do dotychczasowego wynagrodzenia przez okres dwunastu miesięcy.
+4. Niedopuszczalne jest czasowe przeniesienie, bez zgody zainteresowanego, do urzędu mającego siedzibę w innej miejscowości kobiety w ciąży lub urzędnika państwowego sprawującego opiekę nad dzieckiem w wieku do czternastu lat, a także w wypadkach, gdy stoją temu na przeszkodzie ważne względy osobiste lub rodzinne urzędnika. [5. W razie trwałej utraty zdolności do pracy na zajmowanym stanowisku, stwierdzonej orzeczeniem komisji lekarskiej do spraw inwalidztwa i zatrudnienia , urzędnika państwowego mianowanego można za jego zgodą przenieść na inne, także niższe stanowisko, z tym że przez okres trzech miesięcy zachowuje prawo do dotychczasowego wynagrodzenia. Jeżeli urzędnik państwowy zostaje poddany rehabilitacji zawodowej lub przysposobieniu do innej pracy, zachowuje prawo do dotychczasowego wynagrodzenia przez okres dwunastu miesięcy.] <5. W razie trwałej utraty zdolności do pracy na zajmowanym stanowisku, stwierdzonej orzeczeniem lekarza orzecznika Zakładu Ubezpieczeń Społecznych, urzędnika państwowego mianowanego można za jego zgodą przenieść na inne, także niższe stanowisko, z tym że przez okres trzech miesięcy zachowuje on prawo do dotychczasowego wynagrodzenia. Jeżeli urzędnik państwowy zostaje poddany rehabilitacji zawodowej lub przysposobieniu do innej pracy, zachowuje prawo do dotychczasowego wynagrodzenia przez okres dwunastu miesięcy. Orzeczenie lekarza orzecznika Zakładu Ubezpieczeń Społecznych jest wydawane na zasadach i w trybie określonych w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2025 r. poz. 350, z późn. zm. ).>
 
 **Art. 11.**
 
@@ -196,15 +151,14 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o pracownikach urzędów państw
 
 - **1)** otrzymania ujemnej oceny kwalifikacyjnej, potwierdzonej ponowną ujemną oceną, która nie może być dokonana wcześniej niż po upływie trzech miesięcy;
 - **2)** likwidacji urzędu lub jego reorganizacji, jeżeli nie jest możliwe przeniesienie urzędnika państwowego mianowanego na inne stanowisko w tym samym urzędzie;
-- **3)** niezawinionej utraty uprawnień wymaganych do wykonywania pracy na zajmowanym stanowisku;
-- **4)** trwałej utraty zdolności fizycznej lub psychicznej do pracy na zajmowanym stanowisku, stwierdzonej orzeczeniem komisji lekarskiej do spraw inwalidztwa i zatrudnienia , jeżeli nie ma możliwości zatrudnienia urzędnika państwowego mianowanego na innym stanowisku, odpowiednim do jego stanu zdrowia i kwalifikacji zawodowych, albo gdy urzędnik państwowy mianowany odmawia przejścia do takiej pracy.
+- **3)** niezawinionej utraty uprawnień wymaganych do wykonywania pracy na zajmowanym stanowisku; [4) trwałej utraty zdolności fizycznej lub psychicznej do pracy na zajmowanym stanowisku, stwierdzonej orzeczeniem komisji lekarskiej do spraw inwalidztwa i zatrudnienia , jeżeli nie ma możliwości zatrudnienia urzędnika państwowego mianowanego na innym stanowisku, odpowiednim do jego stanu zdrowia i kwalifikacji zawodowych, albo gdy urzędnik państwowy mianowany odmawia przejścia do takiej pracy.] <4) trwałej utraty zdolności fizycznej lub psychicznej do pracy na zajmowanym stanowisku, stwierdzonej orzeczeniem lekarza orzecznika Zakładu Ubezpieczeń Społecznych, wydanym na zasadach i w trybie określonych w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, jeżeli nie ma możliwości zatrudnienia urzędnika państwowego mianowanego na innym stanowisku, odpowiednim do jego stanu zdrowia i kwalifikacji zawodowych, albo gdy urzędnik państwowy mianowany odmawia przejścia do takiej pracy.>
 - **5)** (uchylony)
 
 2. Okres wypowiedzenia stosunku pracy wynosi trzy miesiące i kończy się ostatniego dnia miesiąca.
 
 3. W wypadkach określonych w ust. 1 pkt 3 urząd powinien zaproponować urzędnikowi państwowemu mianowanemu podjęcie pracy na innym stanowisku odpowiadającym posiadanym kwalifikacjom, jeżeli takim stanowiskiem dysponuje.
 
-4. Do rozwiązania stosunku pracy w wypadkach określonych w ust. 1 pkt 1–3 stosuje się przepis art. 38 Kodeksu pracy.
+4. Do rozwiązania stosunku pracy w wypadkach określonych w ust. 1 pkt 1– 3 stosuje się przepis art. 38 Kodeksu pracy.
 
 **Art. 13¹.**
 
@@ -212,7 +166,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o pracownikach urzędów państw
 
 2. W razie gdy w okresie, o którym mowa w ust. 1, były urzędnik pobiera zasiłek wychowawczy, chorobowy albo macierzyński, wysokość świadczenia pieniężnego ulega odpowiedniemu obniżeniu.
 
-3. Okres pobierania świadczenia pieniężnego, o którym mowa w ust. 1, wlicza się do okresów pracy wymaganych do nabycia lub zachowania uprawnień pracowniczych oraz do okresów zatrudnienia w rozumieniu przepisów ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2024 r. poz. 1631 i 1674 oraz z 2025 r. poz. 718, 769 i 1159) na takich warunkach, na jakich wlicza się okres pobierania zasiłku dla bezrobotnych, określonych w przepisach ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620). Od świadczenia pieniężnego urząd odprowadza składkę na ubezpieczenie społeczne na zasadach przewidzianych dla wynagrodzenia wypłacanego w czasie trwania stosunku pracy.
+3. Okres pobierania świadczenia pieniężnego, o którym mowa w ust. 1, wlicza się do okresów pracy wymaganych do nabycia lub zachowania uprawnień pracowniczych oraz do okresów zatrudnienia w rozumieniu przepisów ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2024 r. poz. 1631 i 1674 oraz z 2025 r. poz. 718, 769 i 1159) – na takich warunkach, na jakich wlicza się okres pobierania zasiłku dla bezrobotnych, określonych w przepisach ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620). Od świadczenia pieniężnego urząd odprowadza składkę na ubezpieczenie społeczne na zasadach przewidzianych dla wynagrodzenia wypłacanego w czasie trwania stosunku pracy.
 
 **Art. 14.**
 
@@ -224,7 +178,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o pracownikach urzędów państw
 
 2. Stosunek pracy z urzędnikiem państwowym mianowanym ulega z mocy prawa rozwiązaniu bez wypowiedzenia również w razie utraty obywatelstwa polskiego.
 
-3. Rozwiązanie stosunku pracy bez wypowiedzenia z urzędnikiem państwowym mianowanym może nastąpić także w razie jego nieobecności w pracy z powodu choroby trwającej dłużej niż rok lub odosobnienia ze względu na chorobę zakaźną, a także w razie usprawiedliwionej nieobecności w pracy z innych przyczyn po upływie okresów przewidzianych w art. 53 Kodeksu pracy.
+3. Rozwiązanie stosunku pracy bez wypowiedzenia z urzędnikiem państwowym mianowanym może nastąpić także w razie jego nieobecności w pracy z powodu choroby trwającej dłużej niż rok lub odosobnienia ze względu na chorobę zakaźną, a także w razie usprawiedliwionej nieobecności w pracy z innych przyczyn – po upływie okresów przewidzianych w art. 53 Kodeksu pracy.
 
 3a. W razie niezdolności do pracy z powodu choroby, o której mowa w ust. 3, urzędnik państwowy mianowany zachowuje prawo do świadczeń pieniężnych przez okres przewidziany w przepisach o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa.
 
@@ -260,7 +214,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o pracownikach urzędów państw
 
 1. Urzędnik państwowy jest obowiązany sumiennie wypełniać polecenia służbowe przełożonych.
 
-2. Jeżeli polecenie służbowe w przekonaniu urzędnika państwowego jest niezgodne z prawem, godzi w interes społeczny lub zawiera znamiona pomyłki, urzędnik ten powinien przedstawić swoje zastrzeżenia przełożonemu; w razie pisemnego potwierdzenia polecenia powinien je wykonać, zawiadamiając jednocześnie o zastrzeżeniach kierownika urzędu, a gdy polecenie wydał kierownik urzędu organ nadrzędny nad urzędem. Zawiadomienia należy dokonać niezwłocznie. O ile w toku dalszego postępowania okaże się, że zastrzeżenia urzędnika były uzasadnione, przełożony, który wydał polecenie, ponosi z tego tytułu odpowiedzialność.
+2. Jeżeli polecenie służbowe w przekonaniu urzędnika państwowego jest niezgodne z prawem, godzi w interes społeczny lub zawiera znamiona pomyłki, urzędnik ten powinien przedstawić swoje zastrzeżenia przełożonemu; w razie pisemnego potwierdzenia polecenia powinien je wykonać, zawiadamiając jednocześnie o zastrzeżeniach kierownika urzędu, a gdy polecenie wydał kierownik urzędu – organ nadrzędny nad urzędem. Zawiadomienia należy dokonać niezwłocznie. O ile w toku dalszego postępowania okaże się, że zastrzeżenia urzędnika były uzasadnione, przełożony, który wydał polecenie, ponosi z tego tytułu odpowiedzialność.
 
 3. Urzędnikowi państwowemu nie wolno wykonywać poleceń, których wykonanie stanowiłoby przestępstwo lub groziłoby niepowetowanymi stratami.
 
@@ -304,12 +258,12 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o pracownikach urzędów państw
 
 1. Urzędnikom państwowym przysługują nagrody jubileuszowe w wysokości:
 
-- **1)** po 20 latach pracy 75 % wynagrodzenia miesięcznego;
-- **2)** po 25 latach pracy 100 % wynagrodzenia miesięcznego;
-- **3)** po 30 latach pracy 150 % wynagrodzenia miesięcznego;
-- **4)** po 35 latach pracy 200 % wynagrodzenia miesięcznego;
-- **5)** po 40 latach pracy 300 % wynagrodzenia miesięcznego;
-- **6)** po 45 latach pracy 400 % wynagrodzenia miesięcznego.
+- **1)** po 20 latach pracy – 75 % wynagrodzenia miesięcznego;
+- **2)** po 25 latach pracy – 100 % wynagrodzenia miesięcznego;
+- **3)** po 30 latach pracy – 150 % wynagrodzenia miesięcznego;
+- **4)** po 35 latach pracy – 200 % wynagrodzenia miesięcznego;
+- **5)** po 40 latach pracy – 300 % wynagrodzenia miesięcznego;
+- **6)** po 45 latach pracy – 400 % wynagrodzenia miesięcznego.
 
 2. Rada Ministrów, w drodze rozporządzenia, określa zasady ustalania okresów pracy i innych okresów uprawniających do nagrody jubileuszowej, a także zasady jej obliczania i wypłacania.
 
@@ -337,12 +291,12 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o pracownikach urzędów państw
 
 1. Urzędnikowi państwowemu przysługują świadczenia emerytalne i rentowe na zasadach określonych w przepisach ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, z wyjątkiem pracowników państwowych, których uprawnienia w tym zakresie regulują odrębne przepisy.
 
-2. W razie rozwiązania z urzędnikiem państwowym stosunku pracy z powodu likwidacji urzędu albo jego reorganizacji uniemożliwiającej dalsze zatrudnienie pracownika, urzędnikowi państwowemu przysługuje emerytura, jeżeli mężczyzna ukończył sześćdziesiąt lat, a kobieta pięćdziesiąt pięć lat i ma wymagany okres zatrudnienia.
+2. W razie rozwiązania z urzędnikiem państwowym stosunku pracy z powodu likwidacji urzędu albo jego reorganizacji uniemożliwiającej dalsze zatrudnienie pracownika, urzędnikowi państwowemu przysługuje emerytura, jeżeli mężczyzna ukończył sześćdziesiąt lat, a kobieta – pięćdziesiąt pięć lat i ma wymagany okres zatrudnienia.
 
 3. W razie rozwiązania z urzędnikiem państwowym mianowanym stosunku pracy z przyczyn określonych:
 
 - **1)** w art. 13 ust. 1 pkt 3, o ile urząd nie dysponuje stanowiskiem, o którym mowa w art. 13 ust. 3,
-- **2)** w art. 13 ust. 1 pkt 4, z wyłączeniem wypadku, gdy pracownik odmówi zatrudnienia na stanowisku, o którym mowa w tym przepisie urzędnikowi temu przysługuje pełna emerytura, jeżeli mężczyzna ukończył sześćdziesiąt lat, a kobieta pięćdziesiąt pięć lat i ma wymagany okres zatrudnienia.
+- **2)** w art. 13 ust. 1 pkt 4, z wyłączeniem wypadku, gdy pracownik odmówi zatrudnienia na stanowisku, o którym mowa w tym przepisie urzędnikowi temu przysługuje pełna emerytura, jeżeli mężczyzna ukończył sześćdziesiąt lat, a kobieta – pięćdziesiąt pięć lat i ma wymagany okres zatrudnienia.
 
 4. Przepisy ust. 1–3 stosuje się do osób urodzonych przed dniem 1 stycznia 1949 r.
 
@@ -350,9 +304,9 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o pracownikach urzędów państw
 
 1. Urzędnikowi państwowemu przechodzącemu na emeryturę lub rentę inwalidzką przysługuje jednorazowa odprawa:
 
-- **1)** po dziesięciu latach pracy w urzędach w wysokości dwumiesięcznego wynagrodzenia;
-- **2)** po piętnastu latach pracy w urzędach w wysokości trzymiesięcznego wynagrodzenia;
-- **3)** po dwudziestu latach pracy w urzędach w wysokości sześciomiesięcznego wynagrodzenia.
+- **1)** po dziesięciu latach pracy w urzędach – w wysokości dwumiesięcznego wynagrodzenia;
+- **2)** po piętnastu latach pracy w urzędach – w wysokości trzymiesięcznego wynagrodzenia;
+- **3)** po dwudziestu latach pracy w urzędach – w wysokości sześciomiesięcznego wynagrodzenia.
 
 2. Do okresu pracy w urzędach wlicza się okres zatrudnienia w innych zakładach pracy na zasadach określonych w przepisach, o których mowa w art. 22 ust. 2.
 
@@ -366,7 +320,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o pracownikach urzędów państw
 
 2. Jeżeli wymagają tego potrzeby urzędu, urzędnik państwowy może być zatrudniony poza normalnymi godzinami pracy, a w wyjątkowych wypadkach także w nocy oraz w niedziele i święta.
 
-3. Przepisów ust. 1a i 2 nie stosuje się do kobiet w ciąży oraz bez ich zgody do osób sprawujących pieczę nad osobami wymagającymi stałej opieki lub opiekujących się dziećmi w wieku do lat ośmiu.
+3. Przepisów ust. 1a i 2 nie stosuje się do kobiet w ciąży oraz – bez ich zgody – do osób sprawujących pieczę nad osobami wymagającymi stałej opieki lub opiekujących się dziećmi w wieku do lat ośmiu.
 
 **Art. 30.**
 
@@ -426,23 +380,23 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o pracownikach urzędów państw
 
 5. Komisje dyscyplinarne II instancji (odwoławcze) powołuje się przy:
 
-- **1)** Marszałku Sejmu dla urzędników Kancelarii Sejmu, Krajowego Biura Wyborczego, Urzędu Ochrony Danych Osobowych oraz Instytutu Pamięci Narodowej Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu;
-- **2)** Marszałku Senatu dla urzędników Kancelarii Senatu;
-- **3)** Prezydencie Rzeczypospolitej Polskiej dla urzędników Kancelarii Prezydenta;
-- **4)** Prezesie Rady Ministrów dla urzędników Kancelarii Prezesa Rady Ministrów, urzędów podległych Prezesowi Rady Ministrów oraz ministerstw i urzędów centralnych organów administracji rządowej;
-- **5)** właściwym ministrze dla urzędników urzędów podległych naczelnym i centralnym organom administracji państwowej;
-- **6)** ministrze właściwym do spraw administracji publicznej dla urzędników urzędów wojewódzkich i regionalnych izb obrachunkowych;
-- **7)** Przewodniczącym Krajowej Rady Radiofonii i Telewizji dla urzędników Biura Krajowej Rady Radiofonii i Telewizji, z uwzględnieniem ust. 5 ;
-- **7a)** Pierwszym Prezesie Sądu Najwyższego dla urzędników Sądu Najwyższego;
-- **8)** Prezesie Trybunału Konstytucyjnego dla urzędników Kancelarii Trybunału Konstytucyjnego, z uwzględnieniem ust. 5 ;
-- **9)** Rzeczniku Praw Obywatelskich dla urzędników Biura Rzecznika Praw Obywatelskich;
-- **9a)** (uchylony) 9b) Rzeczniku Praw Dziecka dla urzędników Biura Rzecznika Praw Dziecka; 9ba) Państwowej Komisji do spraw przeciwdziałania wykorzystaniu seksualnemu małoletnich poniżej lat 15 dla urzędników Urzędu Państwowej Komisji do spraw przeciwdziałania wykorzystaniu seksualnemu małoletnich poniżej lat 15;
-- **9c)** Rzeczniku Małych i Średnich Przedsiębiorców dla urzędników Biura Rzecznika Małych i Średnich Przedsiębiorców;
+- **1)** Marszałku – dla urzędników Kancelarii Sejmu, Krajowego Biura Wyborczego, Urzędu Ochrony Danych Osobowych oraz Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu;
+- **2)** Marszałku Senatu – dla urzędników Kancelarii Senatu;
+- **3)** Prezydencie Rzeczypospolitej Polskiej – dla urzędników Kancelarii Prezydenta;
+- **4)** Prezesie Rady Ministrów – dla urzędników Kancelarii Prezesa Rady Ministrów, urzędów podległych Prezesowi Rady Ministrów oraz ministerstw i urzędów centralnych organów administracji rządowej;
+- **5)** właściwym ministrze – dla urzędników urzędów podległych naczelnym i centralnym organom administracji państwowej;
+- **6)** ministrze właściwym do spraw administracji publicznej – dla urzędników urzędów wojewódzkich i regionalnych izb obrachunkowych;
+- **7)** Przewodniczącym Krajowej Rady Radiofonii i Telewizji – dla urzędników Biura Krajowej Rady Radiofonii i Telewizji, z uwzględnieniem ust. 5 ;
+- **7a)** Pierwszym Prezesie Sądu Najwyższego – dla urzędników Sądu Najwyższego;
+- **8)** Prezesie Trybunału Konstytucyjnego – dla urzędników Kancelarii Trybunału Konstytucyjnego, z uwzględnieniem ust. 5 ;
+- **9)** Rzeczniku Praw Obywatelskich – dla urzędników Biura Rzecznika Praw Obywatelskich;
+- **9a)** (uchylony) 9b) Rzeczniku Praw Dziecka – dla urzędników Biura Rzecznika Praw Dziecka; 9ba) Państwowej Komisji do spraw przeciwdziałania wykorzystaniu seksualnemu małoletnich poniżej lat 15 – dla urzędników Urzędu Państwowej Komisji do spraw przeciwdziałania wykorzystaniu seksualnemu małoletnich poniżej lat 15;
+- **9c)** Rzeczniku Małych i Średnich Przedsiębiorców – dla urzędników Biura Rzecznika Małych i Średnich Przedsiębiorców;
 - **10)** (uchylony)
-- **11)** wojewodzie dla urzędników urzędów rejonowych organów rządowej administracji ogólnej ;
-- **12)** Dyrektorze Biura Rady Fiskalnej dla urzędników Biura Rady Fiskalnej.
+- **11)** wojewodzie – dla urzędników urzędów rejonowych organów rządowej administracji ogólnej ;
+- **12)** Dyrektorze Biura Rady Fiskalnej – dla urzędników Biura Rady Fiskalnej.
 
-5. Komisja dyscyplinarna II instancji (odwoławcza) dla urzędników wymienionych w ust. 5 pkt 7 może być powołana przy Prezydencie Rzeczypospolitej Polskiej, na wniosek Przewodniczącego Krajowej Rady Radiofonii i Telewizji, a dla urzędników wymienionych w ust. 5 pkt 8 przy Marszałku Sejmu, na wniosek Prezesa Trybunału Konstytucyjnego.
+5. Komisja dyscyplinarna II instancji (odwoławcza) dla urzędników wymienionych w ust. 5 pkt 7 może być powołana przy Prezydencie Rzeczypospolitej Polskiej, na wniosek Przewodniczącego Krajowej Rady Radiofonii i Telewizji, a dla urzędników wymienionych w ust. 5 pkt 8 – przy Marszałku Sejmu, na wniosek Prezesa Trybunału Konstytucyjnego.
 
 6. Członkowie komisji dyscyplinarnych są w zakresie orzekania niezawiśli i podlegają tylko ustawom.
 
@@ -498,7 +452,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o pracownikach urzędów państw
 
 1. W postępowaniu przed komisją dyscyplinarną II instancji stosuje się odpowiednio przepisy o postępowaniu przed komisją dyscyplinarną I instancji.
 
-2. Od orzeczeń komisji dyscyplinarnej II instancji stronom służy odwołanie do właściwego ze względu na miejsce zamieszkania obwinionego sądu apelacyjnego sądu pracy i ubezpieczeń społecznych. Do rozpoznania odwołania stosuje się przepisy Kodeksu postępowania cywilnego o apelacji. Od orzeczenia sądu apelacyjnego kasacja nie przysługuje.
+2. Od orzeczeń komisji dyscyplinarnej II instancji stronom służy odwołanie do właściwego ze względu na miejsce zamieszkania obwinionego sądu apelacyjnego – sądu pracy i ubezpieczeń społecznych. Do rozpoznania odwołania stosuje się przepisy Kodeksu postępowania cywilnego o apelacji. Od orzeczenia sądu apelacyjnego kasacja nie przysługuje.
 
 **Art. 36⁸.**
 
@@ -526,11 +480,11 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o pracownikach urzędów państw
 
 **Art. 39.** Spory o roszczenia ze stosunku pracy urzędników państwowych rozpatrywane są w trybie określonym w Kodeksie pracy.
 
-#### Rozdział 7 (uchylony)
+#### Rozdział 7
 
 #### Rozdział 8 Przepisy szczególne
 
-**Art. 42¹.** Przewidziane w ustawie oraz w odrębnych przepisach zadania dla kierownika urzędu wykonuje w urzędach administracji rządowej, z wyłączeniem urzędów rejonowych i urzędów terenowych administracji specjalnej dyrektor generalny urzędu.
+**Art. 42¹.** Przewidziane w ustawie oraz w odrębnych przepisach zadania dla kierownika urzędu wykonuje w urzędach administracji rządowej, z wyłączeniem urzędów rejonowych i urzędów terenowych administracji specjalnej – dyrektor generalny urzędu.
 
 **Art. 43.**
 
@@ -567,7 +521,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o pracownikach urzędów państw
 1. Zatrudnienie:
 
 - **1)** pracownika w gabinecie politycznym Prezesa Rady Ministrów, wiceprezesa Rady Ministrów, ministra oraz innego członka Rady Ministrów,
-- **2)** doradców lub pełniących funkcje doradców osób zajmujących kierownicze stanowiska państwowe inne niż wymienione w pkt 1 następuje na podstawie umowy o pracę zawartej na czas pełnienia funkcji przez osobę zajmującą kierownicze stanowisko państwowe. Do umów o pracę zawartych z tymi osobami nie stosuje się art. 25 Kodeksu pracy. Wcześniejsze rozwiązanie umowy o pracę może być dokonane za wypowiedzeniem.
+- **2)** doradców lub pełniących funkcje doradców osób zajmujących kierownicze stanowiska państwowe inne niż wymienione w pkt 1 – następuje na podstawie umowy o pracę zawartej na czas pełnienia funkcji przez osobę zajmującą kierownicze stanowisko państwowe. Do umów o pracę zawartych z tymi osobami nie stosuje się art. 25 Kodeksu pracy. Wcześniejsze rozwiązanie umowy o pracę może być dokonane za wypowiedzeniem.
 
 2. Przepisu art. 42 nie stosuje się do stosunku pracy pracowników, o których mowa w ust. 1.
 
@@ -579,14 +533,14 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o pracownikach urzędów państw
 
 - **1)** (uchylony)
 - **2)** (uchylony)
-- **3)** zarządzenia w odniesieniu do pracowników Kancelarii Prezydenta Rzeczypospolitej Polskiej;
-- **4)** rozporządzenia w odniesieniu do pracowników Biura Krajowej Rady Radiofonii i Telewizji, uwzględniając:
+- **3)** zarządzenia – w odniesieniu do pracowników Kancelarii Prezydenta Rzeczypospolitej Polskiej;
+- **4)** rozporządzenia – w odniesieniu do pracowników Biura Krajowej Rady Radiofonii i Telewizji, uwzględniając: 23 ust. 2, art. 24 ust. 2 oraz art. 47 ust. 3,
     - **a)** charakter wykonywanych zadań, w przypadku wydania przepisów, o których mowa w art. 2 pkt 1,
-    - **b)** charakter i efektywność wykonywania zadań oraz potrzebę sprawnego wypłacania świadczeń przysługujących pracownikom, w przypadku wydania przepisów, o których mowa w art. 21 ust. 3, art. 22 ust. 2, art. 23 ust. 2, art. 24 ust. 2 oraz art. 47 ust. 3,
+    - **b)** charakter i efektywność wykonywania zadań oraz potrzebę sprawnego wypłacania świadczeń przysługujących pracownikom, w przypadku wydania przepisów, o których mowa w art. 21 ust. 3, art. 22 ust. 2, art.
     - **c)** potrzebę sprawnego przeprowadzenia aplikacji administracyjnej oraz konieczność nabycia w jej toku odpowiedniej wiedzy i umiejętności wymaganych na stanowisku objętym aplikacją, w przypadku wydania przepisów, o których mowa w art. 7 ust. 6,
     - **d)** potrzebę stałego doskonalenia jakości wykonywania zadań, odpowiedniego doboru pracowników na poszczególne stanowiska oraz obiektywizmu dokonywanych ocen kwalifikacyjnych, w przypadku wydania przepisów, o których mowa w art. 20 ust. 4,
     - **e)** potrzebę zapewnienia sprawnej pracy urzędu oraz charakter zadań wykonywanych przez pracowników, w przypadku wydania przepisów, o których mowa w art. 30 ust. 1,
-    - **f)** potrzebę ujednolicenia wniosków o nadanie odznaki honorowej „Zasłużony Pracownik Państwowy” oraz przedstawienia przez wnioskodawcę uzasadnienia nadania odznaki w przypadku wydania przepisów, o których mowa w art. 31 ust. 4,
+    - **f)** potrzebę ujednolicenia wniosków o nadanie odznaki honorowej „Zasłużony Pracownik Państwowy” oraz przedstawienia przez wnioskodawcę uzasadnienia nadania odznaki – w przypadku wydania przepisów, o których mowa w art. 31 ust. 4,
     - **g)** w szczególności przebieg postępowania wyjaśniającego i dyscyplinarnego, a także zapewnienie należytego działania komisji i rzeczników dyscyplinarnych, w przypadku wydania przepisów, o których mowa w art. 36 ust. 7.
 
 1a. Przepisów art. 2 pkt 1, art. 7 ust. 6 i art. 30 ust. 1 nie stosuje się w odniesieniu do pracowników urzędów wymienionych w art. 1 ust. 1 pkt 1, 2, 3b, 6–7a, 9 i 13. Kierownicy tych urzędów są uprawnieni do określania:
@@ -595,13 +549,13 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o pracownikach urzędów państw
 - **2)** wykazu stanowisk objętych aplikacją administracyjną oraz zasad i trybu odbywania tej aplikacji;
 - **3)** rozkładu czasu pracy w tygodniu i jego wymiaru w poszczególnych dniach tygodnia.
 
-1b. W ramach posiadanych środków na wynagrodzenia określonych w ustawie budżetowej kierownicy urzędów, o których mowa w ust. 1a, ustalają regulamin wynagradzania w urzędzie. Regulamin ten w odniesieniu do Kancelarii Sejmu zatwierdza Marszałek Sejmu, a w odniesieniu do Kancelarii Senatu Marszałek Senatu. Przepisów art. 21 ust. 3, art. 22 ust. 2, art. 23 ust. 2 i art. 47 ust. 3 nie stosuje się.
+1b. W ramach posiadanych środków na wynagrodzenia określonych w ustawie budżetowej kierownicy urzędów, o których mowa w ust. 1a, ustalają regulamin wynagradzania w urzędzie. Regulamin ten w odniesieniu do Kancelarii zatwierdza Marszałek Sejmu, a w odniesieniu do Kancelarii Senatu – Marszałek Senatu. Przepisów art. 21 ust. 3, art. 22 ust. 2, art. 23 ust. 2 i art. 47 ust. 3 nie stosuje się.
 
 1c. Dodatkowy fundusz nagród dla urzędników państwowych za szczególne osiągnięcia w pracy zawodowej utworzony na podstawie art. 24 ust. 2 w urzędach, o których mowa w ust. 1a, pozostaje w dyspozycji kierowników tych urzędów i może być przez nich podwyższany w ramach posiadanych środków na wynagrodzenia.
 
-2. Uprawnienie wynikające z art. 31 ust. 3 przysługuje odpowiednio organowi wymienionemu w ust. 1 oraz Marszałkowi Sejmu w odniesieniu do pracowników Kancelarii Sejmu, Krajowego Biura Wyborczego i Urzędu Ochrony Danych Osobowych, a także Marszałkowi Senatu w odniesieniu do pracowników Kancelarii Senatu oraz kierownikom urzędów wymienionym w art. 1 ust. 1 pkt 3b i 6–7a w odniesieniu do pracowników tych urzędów.
+2. Uprawnienie wynikające z art. 31 ust. 3 przysługuje odpowiednio organowi wymienionemu w ust. 1 oraz Marszałkowi w odniesieniu do pracowników Kancelarii Sejmu, Krajowego Biura Wyborczego i Urzędu Ochrony Danych Osobowych, a także Marszałkowi Senatu w odniesieniu do pracowników Kancelarii Senatu oraz kierownikom urzędów wymienionym w art. 1 ust. 1 pkt 3b i 6–7a w odniesieniu do pracowników tych urzędów.
 
-3. Przewidziane w ustawie uprawnienia ministrów przysługują odpowiednio kierownikom urzędów wymienionych w ust. 1 oraz w art. 1 ust. 1 pkt 1, 2, 3b, 6–7a, 9 i 13.
+3. Przewidziane w ustawie uprawnienia ministrów przysługują odpowiednio kierownikom urzędów wymienionych w ust. 1 oraz w art. 1 ust. 1 pkt 1, 2, 3b, 6– 7a, 9 i 13.
 
 4. (uchylony)
 
@@ -619,13 +573,13 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o pracownikach urzędów państw
 
 **Art. 53.**
 
-1. Osobie zatrudnionej na stanowisku kuratora oświaty lub wicekuratora oświaty przysługują uprawnienia określone w art. 91a ust. 1 pkt 1 ustawy z dnia 26 stycznia 1982 r. Karta Nauczyciela (Dz. U. z 2024 r. poz. 986, z późn. zm. ), a okres zatrudnienia na tych stanowiskach wlicza się do okresu zatrudnienia, od którego zależą uprawnienia nauczyciela określone w tej ustawie.
+1. Osobie zatrudnionej na stanowisku kuratora oświaty lub wicekuratora oświaty przysługują uprawnienia określone w art. 91a ust. 1 pkt 1 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2024 r. poz. 986, z późn. zm. ), a okres zatrudnienia na tych stanowiskach wlicza się do okresu zatrudnienia, od którego zależą uprawnienia nauczyciela określone w tej ustawie.
 
 2. (uchylony)
 
 3. Rada Ministrów może określać kategorie urzędników państwowych, którzy korzystać będą z uprawnień szczególnych w zakresie płac i innych świadczeń przewidzianych w przepisach obowiązujących w dniu wejścia w życie ustawy.
 
-**Art. 54.** Tracą moc dotychczasowe przepisy dotyczące praw i obowiązków pracowników urzędów państwowych, wydane na podstawie art. 298 § 1 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. poz. 141 oraz z 1975 r. poz. 91).
+**Art. 54.** Tracą moc dotychczasowe przepisy dotyczące praw i obowiązków pracowników urzędów państwowych, wydane na podstawie art. 298 § 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. poz. 141 oraz z 1975 r. poz. 91).
 
 **Art. 55.** Ustawa wchodzi w życie z dniem 1 stycznia 1983 r.
 

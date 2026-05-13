@@ -23,7 +23,7 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 1998-10-13 |
 | Data wydania | 1998-11-10 |
-| Ostatnia zmiana | 2026-04-15 |
+| Ostatnia zmiana | 2026-05-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19981370887) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1998/887/text.pdf) |
 
 Art. 99–106. (pominięte)
@@ -469,7 +469,7 @@ Art. 99–106. (pominięte)
 
 1. Podstawę wymiaru składek na ubezpieczenia emerytalne i rentowe ubezpieczonych wymienionych w art. 6 ust. 1 pkt 1–3 stanowi przychód, o którym mowa w art. 4 pkt 9 i 10, z zastrzeżeniem ust. 1a, 2, ust. 4 pkt 5 i ust. 12.
 
-1a. W przypadku ubezpieczonych, o których mowa w art. 8 ust. 2a, w podstawie wymiaru składek na ubezpieczenia emerytalne i rentowe uwzględnia się również przychód z tytułu umowy agencyjnej, umowy zlecenia lub innej umowy o świadczenie usług, do której zgodnie z Kodeksem cywilnym stosuje się przepisy dotyczące zlecenia albo umowy o dzieło.
+1a. W przypadku ubezpieczonych, o których mowa w art. 8 ust. 2a, w podstawie wymiaru składek na ubezpieczenia emerytalne i rentowe uwzględnia się również przychód z tytułu umowy agencyjnej, umowy zlecenia lub innej umowy o świadczenie usług, do której zgodnie z Kodeksem cywilnym stosuje się przepisy dotyczące zlecenia albo umowy o dzieło. <1b. Za podstawę wymiaru składek na ubezpieczenia społeczne ubezpieczonego wymienionego w art. 6 ust. 1 pkt 1, wobec którego stwierdzono istnienie stosunku pracy decyzją, o której mowa w art. 11 ust. 1 pkt 7a ustawy z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy (Dz. U. z 2024 r. poz. 1712, z późn. zm. ), przyjmuje się kwoty wykazane z tytułu, o którym mowa w art. 6 ust. 1 pkt 4 albo 5, w okresie od dnia wydania decyzji do dnia, w którym decyzja ta stała się ostateczna, a w przypadku wniesienia odwołania do sądu – do dnia, w którym orzeczenie sądu stało się prawomocne.>
 
 2. W podstawie wymiaru składek na ubezpieczenia emerytalne i rentowe osób, o których mowa w art. 6 ust. 1 pkt 1–3, nie uwzględnia się wynagrodzenia za czas niezdolności do pracy wskutek choroby lub odosobnienia w związku z chorobą zakaźną oraz zasiłków.
 
@@ -744,7 +744,7 @@ Art. 99–106. (pominięte)
 
 5f. Bieg terminu przedawnienia ulega zawieszeniu od dnia wszczęcia przez Zakład postępowania w sprawie wydania decyzji ustalającej obowiązek podlegania ubezpieczeniom społecznym, podstawę wymiaru składek lub obowiązek opłacania składek na te ubezpieczenia do dnia, w którym decyzja stała się prawomocna.
 
-5g. Bieg terminu przedawnienia nie rozpoczyna się, a rozpoczęty ulega zawieszeniu od dnia objęcia restrukturyzacją należności z tytułu składek, o których mowa w art. 160 ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne (Dz. U. z 2024 r. poz. 1428 oraz z 2025 r. poz. 1085, 1170 i 1172), do dnia zapłaty ostatniej raty w przypadku rozłożenia na raty lub do dnia zapłaty w przypadku odroczenia terminu płatności.
+5g. Bieg terminu przedawnienia nie rozpoczyna się, a rozpoczęty ulega zawieszeniu od dnia objęcia restrukturyzacją należności z tytułu składek, o których mowa w art. 160 ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne (Dz. U. z 2024 r. poz. 1428 oraz z 2025 r. poz. 1085, 1170 i 1172), do dnia zapłaty ostatniej raty w przypadku rozłożenia na raty lub do dnia zapłaty w przypadku odroczenia terminu płatności. <5h. Bieg terminu przedawnienia należności z tytułu składek ulega zawieszeniu od dnia wniesienia odwołania od decyzji w sprawie stwierdzenia istnienia stosunku pracy, o której mowa w art. 11 ust. 1 pkt 7a ustawy z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy, do dnia, w którym decyzja ta stała się ostateczna, a w przypadku wniesienia odwołania do sądu – do dnia, w którym orzeczenie sądu stało się prawomocne.>
 
 6. Bieg terminu przedawnienia, o którym mowa w ust. 4, ulega zawieszeniu od dnia śmierci spadkodawcy do dnia uprawomocnienia się postanowienia sądu o stwierdzeniu nabycia spadku albo zarejestrowania aktu poświadczenia dziedziczenia, niedłużej jednak niż do dnia, w którym upłynęły 2 lata od śmierci spadkodawcy.
 
@@ -997,7 +997,7 @@ Art. 99–106. (pominięte)
 
 4c. Zgłoszeń, o których mowa w ust. 3, marynarze dokonują niepóźniej niż ostatniego dnia okresu, o którym mowa w art. 8 ust. 20.
 
-4d. W przypadku braku dokonania przez marynarza zgłoszenia do ubezpieczeń społecznych albo dokonania takiego zgłoszenia po terminie nie powstaje obowiązek podlegania ubezpieczeniom emerytalnemu i rentowym z tytułu, o którym mowa w art. 6 ust. 1 pkt 24.
+4d. W przypadku braku dokonania przez marynarza zgłoszenia do ubezpieczeń społecznych albo dokonania takiego zgłoszenia po terminie nie powstaje obowiązek podlegania ubezpieczeniom emerytalnemu i rentowym z tytułu, o którym mowa w art. 6 ust. 1 pkt 24. <4e. Zgłoszenia do ubezpieczeń społecznych osób określonych w art. 6 ust. 1 pkt 1, wobec których stwierdzono istnienie stosunku pracy decyzją, o której mowa w art. 11 ust. 1 pkt 7a ustawy z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy, dokonuje się w terminie 7 dni od dnia, w którym decyzja ta stała się ostateczna, a w przypadku wniesienia odwołania do sądu – od dnia, w którym orzeczenie sądu stało się prawomocne.>
 
 5. Osoby, które są obejmowane ubezpieczeniami społecznymi na zasadach dobrowolności, zgłaszają wniosek o objęcie ich ubezpieczeniem w terminie przez nie wybranym. Przepisy ust. 2 i 3 stosuje się odpowiednio.
 
@@ -1074,9 +1074,7 @@ Art. 99–106. (pominięte)
 
 **Art. 36b.**
 
-1. Osoby, o których mowa w art. 6 ust. 1 pkt 5, będące przedsiębiorcami w rozumieniu ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, mogą dokonywać zgłoszeń, o których mowa w art. 36 ust. 1 i 11, lub zmiany danych wykazanych w tych zgłoszeniach, z zastrzeżeniem art. 36 ust. 14, na podstawie ustawy z dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy.
-
-2. Za dzień dokonania zgłoszeń, o których mowa w art. 36 ust. 1 i 11, lub zmiany danych wykazanych w tych zgłoszeniach uważa się dzień złożenia wniosku o wpis do Centralnej Ewidencji i Informacji o Działalności Gospodarczej wraz z żądaniem dokonania tych zgłoszeń lub zmiany danych wykazanych w tych zgłoszeniach.
+1. Osoby, o których mowa w art. 6 ust. 1 pkt 5, będące przedsiębiorcami w rozumieniu ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, mogą dokonywać zgłoszeń, o których mowa w art. 36 ust. 1 i 11, lub zmiany danych wykazanych w tych zgłoszeniach, z zastrzeżeniem art. 36 ust. 14, na podstawie ustawy z dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy. [2. Za dzień dokonania zgłoszeń, o których mowa w art. 36 ust. 1 i 11, lub zmiany danych wykazanych w tych zgłoszeniach uważa się dzień złożenia wniosku o wpis do Centralnej Ewidencji i Informacji o Działalności Gospodarczej wraz z żądaniem dokonania tych zgłoszeń lub zmiany danych wykazanych w tych zgłoszeniach.] <2. Za dzień dokonania zgłoszeń, o których mowa w art. 36 ust. 1 i 11, lub zmiany danych wykazanych w tych zgłoszeniach uważa się dzień złożenia wniosku o wpis do Centralnej Ewidencji i Informacji o Działalności Gospodarczej lub wniosku o publikację informacji o spółce cywilnej w tej ewidencji wraz z żądaniem dokonania tych zgłoszeń lub zmiany danych wykazanych w tych zgłoszeniach.>
 
 **Art. 36c.**
 
@@ -1167,7 +1165,11 @@ Art. 99–106. (pominięte)
 
 6. Kwotę do zaliczenia na poczet należności z tytułu składek na ubezpieczenia społeczne płatnika składek ustala się w zaokrągleniu do pełnych złotych w dół, a grosze pomija się.
 
-7. Do należności płatnika składek z tytułu składek na Fundusz Pracy, Fundusz Solidarnościowy, Fundusz Gwarantowanych Świadczeń Pracowniczych i Fundusz Emerytur Pomostowych oraz na ubezpieczenie zdrowotne ust. 4–6 stosuje się odpowiednio.
+7. Do należności płatnika składek z tytułu składek na Fundusz Pracy, Fundusz Solidarnościowy, Fundusz Gwarantowanych Świadczeń Pracowniczych i Fundusz Emerytur Pomostowych oraz na ubezpieczenie zdrowotne ust. 4–6 stosuje się odpowiednio. <Art. 38b. 1. Składki opłacone za osobę zgłoszoną do ubezpieczeń społecznych z tytułu, o którym mowa w art. 6 ust. 1 pkt 4 albo 5, wobec której wydano decyzję, o której mowa w art. 11 ust. 1 pkt 7a ustawy z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy, stwierdzającą istnienie stosunku pracy, uznaje się za opłacone na poczet należności z tytułu, o którym mowa w art. 6 ust. 1 pkt 1.
+
+2. Płatnik składek jest obowiązany przekazać do Zakładu dokumenty związane z ubezpieczeniami społecznymi określone w ustawie za okres objęty decyzją, o której mowa w art. 11 ust. 1 pkt 7a ustawy z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy, niepóźniej niż w terminie określonym w art. 36 ust. 4e.
+
+3. W przypadku, o którym mowa w ust. 1, nie stosuje się przepisów art. 24 ust. 6a–6g.>
 
 **Art. 39.**
 
@@ -1514,9 +1516,7 @@ Art. 99–106. (pominięte)
 
 5. Zgłoszenie płatnika składek – osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej zawiera w szczególności następujące dane: numery NIP i REGON, nazwę skróconą płatnika, nazwę zgodną z aktem prawnym konstytuującym płatnika, nazwę organu założycielskiego płatnika, występowanie obowiązku wpisu do rejestru lub ewidencji, nazwę organu rejestrowego lub ewidencyjnego, datę i numer wpisu do rejestru lub ewidencji, datę powstania obowiązku opłacania składek na ubezpieczenia społeczne, wykaz rachunków bankowych, adres siedziby i adres do korespondencji, adres prowadzenia działalności.
 
-5a. Zgłoszenie płatnika składek będącego przedsiębiorcą następuje na podstawie odrębnych przepisów.
-
-5b. Zgłoszenie płatnika składek wpisanego do Krajowego Rejestru Sądowego zawiera dane:
+5a. Zgłoszenie płatnika składek będącego przedsiębiorcą następuje na podstawie odrębnych przepisów. <5aa. Zgłoszenie płatnika składek będącego spółką cywilną, o której informacje są publikowane na podstawie art. 42a ustawy z dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy następuje na podstawie przepisów tej ustawy.> 5b. Zgłoszenie płatnika składek wpisanego do Krajowego Rejestru Sądowego zawiera dane:
 
 - **1)** objęte treścią wpisu w Krajowym Rejestrze Sądowym, z wyłączeniem rejestru dłużników niewypłacalnych;
 - **2)** uzupełniające: nazwę skróconą płatnika, datę powstania obowiązku opłacania składek na ubezpieczenia społeczne, wykaz rachunków bankowych, adres do korespondencji, adres prowadzenia działalności, w przypadku osobowych spółek handlowych i podmiotów podlegających wpisowi do rejestru przedsiębiorców na zasadach określonych dla spółek osobowych – dane dotyczące poszczególnych wspólników, w tym ich numer NIP.
@@ -1962,9 +1962,7 @@ Art. 99–106. (pominięte)
 
 10b. Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, wysokość opłaty, o której mowa w ust. 10, oraz sposób jej wnoszenia, uzależniając wysokość opłaty od formy złożenia wniosku, udostępnienia danych i wysokości ponoszonych przez Zakład kosztów związanych z udzielaniem informacji, w szczególności kosztów wyszukania informacji i sporządzenia zaświadczenia, oraz mając na względzie konieczność zapewnienia sprawnego poboru opłaty.
 
-11. Zakład przekazuje Straży Granicznej oraz Państwowej Inspekcji Pracy wykaz obejmujący dane płatników składek, którzy w ostatnim kwartale zgłosili do ubezpieczeń społecznych co najmniej jednego cudzoziemca, w terminie do końca ostatniego dnia roboczego miesiąca następującego po upływie kwartału, którego wykaz dotyczy.
-
-12. Zakład udostępnia Straży Granicznej oraz Państwowej Inspekcji Pracy, w postaci elektronicznej, dane płatnika składek, który zgłosił do ubezpieczeń społecznych cudzoziemca, oraz dane ubezpieczonego cudzoziemca, w zakresie niezbędnym do realizacji ich ustawowych zadań.
+11. Zakład przekazuje Straży Granicznej [oraz Państwowej Inspekcji Pracy] wykaz obejmujący dane płatników składek, którzy w ostatnim kwartale zgłosili do ubezpieczeń społecznych co najmniej jednego cudzoziemca, w terminie do końca ostatniego dnia roboczego miesiąca następującego po upływie kwartału, którego wykaz dotyczy. [12. Zakład udostępnia Straży Granicznej oraz Państwowej Inspekcji Pracy, w postaci elektronicznej, dane płatnika składek, który zgłosił do ubezpieczeń społecznych cudzoziemca, oraz dane ubezpieczonego cudzoziemca, w zakresie niezbędnym do realizacji ich ustawowych zadań.] <12. Zakład udostępnia Straży Granicznej, w postaci elektronicznej, dane płatnika składek, który zgłosił do ubezpieczeń społecznych cudzoziemca, oraz dane ubezpieczonego cudzoziemca, w zakresie niezbędnym do realizacji jej ustawowych zadań.>
 
 13. Dane:
 
@@ -1983,7 +1981,7 @@ Art. 99–106. (pominięte)
     - **l)** obywatelstwo (obywatelstwa) cudzoziemca,
     - **m)** tytuł ubezpieczenia cudzoziemca;
 
-- **2)** ubezpieczonego cudzoziemca, o których mowa w ust. 12, obejmują:
+- **2)** ubezpieczonego cudzoziemca, o których mowa w ust. 12, obejmują: <13a. Zakład udostępnia, w postaci elektronicznej, Państwowej Inspekcji Pracy dane:
     - **a)** rodzaj, serię i numer dokumentu tożsamości,
     - **b)** numer PESEL, jeżeli został nadany,
     - **c)** imię i nazwisko,
@@ -1999,6 +1997,52 @@ Art. 99–106. (pominięte)
     - **m)** daty wygaśnięcia obowiązku ubezpieczeń społecznych i wyrejestrowania ubezpieczonego z ubezpieczeń społecznych,
     - **n)** wymiar czasu pracy,
     - **o)** podstawę wymiaru składki na ubezpieczenia emerytalne i rentowe oraz datę opłacenia składki.
+
+- **1)** ubezpieczonego obejmujące:
+    - **a)** imię i nazwisko,
+    - **b)** datę urodzenia,
+    - **c)** numer PESEL, a w razie gdy nie nadano numeru PESEL – rodzaj, serię i numer dokumentu tożsamości,
+    - **d)** obywatelstwo,
+    - **e)** kod i nazwę tytułu ubezpieczenia,
+    - **f)** nazwę i dane identyfikacyjne płatnika składek,
+    - **g)** datę powstania obowiązku ubezpieczeń społecznych lub ubezpieczenia zdrowotnego,
+    - **h)** datę zgłoszenia do ubezpieczeń społecznych lub do ubezpieczenia zdrowotnego,
+    - **i)** datę wyrejestrowania z ubezpieczeń społecznych lub z ubezpieczenia zdrowotnego,
+    - **j)** rodzaje ubezpieczeń wraz z określeniem, czy są dobrowolne, czy obowiązkowe,
+    - **k)** kod wykonywanego zawodu,
+    - **l)** kod pracy i okres pracy w szczególnych warunkach lub o szczególnym charakterze,
+    - **m)** wymiar czasu pracy,
+    - **n)** informację o podstawie wymiaru składek na ubezpieczenia społeczne,
+    - **o)** opłacone składki na ubezpieczenia społeczne za osoby prowadzące pozarolniczą działalność i osoby z nimi współpracujące,
+    - **p)** wykazane w imiennym raporcie miesięcznym przerwy w opłacaniu składek,
+    - **q)** wypłacone świadczenia z ubezpieczenia chorobowego,
+    - **r)** wypłacone jednorazowe odszkodowanie z ubezpieczenia wypadkowego w powiązaniu z identyfikatorem podmiotu zatrudniającego, ustalonym procentem uszczerbku na zdrowiu, datą zaistnienia wypadku przy pracy albo stwierdzenia choroby zawodowej,
+    - **s)** informacje dotyczące wyrejestrowania z ubezpieczeń z kodem przyczyny, kodem wygaśnięcia lub trybu rozwiązania stosunku pracy lub stosunku służbowego oraz kodem podstawy prawnej,
+    - **t)** informacje zawarte w zaświadczeniu, o którym mowa w art. 83e ust. 1,
+
+- **2)** płatnika składek obejmujące:
+    - **a)** numer NIP,
+    - **b)** numer identyfikacyjny REGON,
+    - **c)** numer PESEL, a w razie gdy nie nadano numeru PESEL – rodzaj, serię i numer dokumentu tożsamości,
+    - **d)** kod rodzaju działalności według Polskiej Klasyfikacji Działalności (PKD),
+    - **e)** dane identyfikacyjne osób ubezpieczonych określone w pkt 1,
+    - **f)** liczbę poszkodowanych w wypadkach przy pracy ogółem, w tym poszkodowanych śmiertelnie i ciężko,
+    - **g)** liczbę zatrudnionych w warunkach zagrożenia,
+    - **h)** serię i numer dowodu osobistego albo paszportu, jeżeli płatnikowi składek nie nadano numeru NIP i numeru identyfikacyjnego REGON lub jednego z nich,
+    - **i)** nazwę skróconą,
+    - **j)** imię i nazwisko,
+    - **k)** adres siedziby,
+    - **l)** adres do korespondencji,
+    - **m)** adres miejsca prowadzenia działalności,
+    - **n)** liczbę cudzoziemców zgłoszonych do ubezpieczeń społecznych,
+    - **o)** obywatelstwo (obywatelstwa) cudzoziemca,
+    - **p)** tytuł ubezpieczenia cudzoziemca,
+    - **q)** stopę procentową składek na ubezpieczenie wypadkowe,
+    - **r)** liczbę stanowisk pracy w szczególnych warunkach lub o szczególnym charakterze,
+    - **s)** informacje dotyczące zmian danych płatnika składek,
+    - **t)** informacje zawarte w zaświadczeniu, o którym mowa w art. 83e ust. 1,
+
+- **3)** dotyczące umów o dzieło, o których mowa w art. 36 ust. 17 – w celu niezbędnym do realizacji ustawowych zadań w zakresie kontroli przestrzegania przepisów prawa pracy i przepisów dotyczących zatrudnienia.>
 
 14. Zakład udostępnia publicznym służbom zatrudnienia, w postaci elektronicznej, dane zgromadzone na koncie ubezpieczonego, o których mowa w art. 40, obejmujące:
 
@@ -2419,7 +2463,9 @@ Art. 99–106. (pominięte)
 - **2a)** wystawianie osobom uprawnionym do emerytur i rent z ubezpieczeń społecznych imiennych legitymacji emeryta–rencisty, potwierdzających status emeryta–rencisty;
 - **3)** dysponowanie środkami finansowymi funduszów ubezpieczeń społecznych oraz środkami Funduszu Alimentacyjnego ;
 - **4)** opracowywanie aktuarialnych analiz i prognoz w zakresie ubezpieczeń społecznych; [5) kontrola orzecznictwa o czasowej niezdolności do pracy;] <5) orzekanie przez lekarzy orzeczników oraz osoby wykonujące samodzielny zawód medyczny dla potrzeb ustalania uprawnień do świadczeń z ubezpieczeń społecznych, innych świadczeń należących do właściwości Zakładu oraz dla celów realizacji zadań zleconych Zakładowi na podstawie innych ustaw, a także kontrola orzecznictwa o czasowej niezdolności do pracy;>
-- **6)** kontrola wykonywania przez płatników składek i przez ubezpieczonych obowiązków w zakresie ubezpieczeń społecznych oraz innych zadań zleconych Zakładowi; [7) wydawanie Biuletynu Informacyjnego;] <7) informowanie o zadaniach wykonywanych przez Zakład;> [8) popularyzacja wiedzy o ubezpieczeniach społecznych.] <8) popularyzacja wiedzy o zabezpieczeniu społecznym i innych zadaniach wykonywanych przez Zakład.> [2. W ramach realizacji zadań określonych w ust. 1 pkt 1 lit. f i pkt 5 oraz zadań związanych z orzekaniem przez lekarzy orzeczników i komisji lekarskiej Zakładu dla potrzeb ustalania uprawnień do świadczeń innych niż z ubezpieczeń społecznych Zakład udziela zamówień na dodatkowe opinie lekarza konsultanta lub psychologa oraz wyniki czasowej obserwacji szpitalnej – zgodnie z potrzebami orzecznictwa lekarskiego z wyłączeniem przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320, z późn. zm. ).] <2. W ramach realizacji zadań określonych w ust. 1 pkt 5 Zakład:
+- **6)** kontrola wykonywania przez płatników składek i przez ubezpieczonych obowiązków w zakresie ubezpieczeń społecznych oraz innych zadań zleconych Zakładowi;
+- **7)** informowanie o zadaniach wykonywanych przez Zakład;
+- **8)** popularyzacja wiedzy o zabezpieczeniu społecznym i innych zadaniach wykonywanych przez Zakład. [2. W ramach realizacji zadań określonych w ust. 1 pkt 1 lit. f i pkt 5 oraz zadań związanych z orzekaniem przez lekarzy orzeczników i komisji lekarskiej Zakładu dla potrzeb ustalania uprawnień do świadczeń innych niż z ubezpieczeń społecznych Zakład udziela zamówień na dodatkowe opinie lekarza konsultanta lub psychologa oraz wyniki czasowej obserwacji szpitalnej – zgodnie z potrzebami orzecznictwa lekarskiego z wyłączeniem przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320, z późn. zm. ).] <2. W ramach realizacji zadań określonych w ust. 1 pkt 5 Zakład:
 - **1)** udziela zamówień na opinie specjalistyczne lekarza konsultanta lub psychologa oraz wyniki obserwacji szpitalnej,
 - **2)** zawiera umowy, o których mowa w art. 85b ust. 1 – z wyłączeniem przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320, z późn. zm. ).
 
@@ -2461,7 +2507,11 @@ Art. 99–106. (pominięte)
 
 3. Zakład udostępnia dane zgromadzone w systemie, o którym mowa w ust. 1, organom emerytalno-rentowym uprawnionym do ustalania prawa i wysokości oraz wypłaty świadczeń obsługiwanych przez te organy, rozliczeń z tytułu tych świadczeń pomiędzy tymi organami oraz do ustalenia zbiegu świadczeń, o którym mowa w ust. 1. Art. 68ab. 1. Zakład udostępnia usługę umożliwiającą ustalenie zbiegu świadczeń, o którym mowa w art. 95a ust. 1 i art. 95b ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, w wariantach określonych ustawą – w celu zapewnienia pomocy osobie uprawnionej w wyborze najkorzystniejszego wariantu tego zbiegu.
 
-2. Zakład udostępnia usługę, o której mowa w ust. 1, organom wypłacającym świadczenia w zbiegu, o których mowa w art. 95a ust. 1 i art. 95b ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, w celu jej udostępniania na stronach podmiotowych tych organów.
+2. Zakład udostępnia usługę, o której mowa w ust. 1, organom wypłacającym świadczenia w zbiegu, o których mowa w art. 95a ust. 1 i art. 95b ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, w celu jej udostępniania na stronach podmiotowych tych organów. <Art. 68ac. 1. W Zakładzie jest prowadzony system teleinformatyczny służący do wymiany między Zakładem, Państwową Inspekcją Pracy oraz Szefem Krajowej Administracji Skarbowej danych i informacji niezbędnych do dokonywania analizy ryzyka naruszenia prawa i niewykonywania obowiązków z zakresu prawa pracy i legalności zatrudnienia, prawa podatkowego, ubezpieczeń społecznych i ubezpieczenia zdrowotnego.
+
+2. Dane i informacje, o których mowa w ust. 1, są wymieniane w drodze teletransmisji za pośrednictwem systemu teleinformatycznego, o którym mowa w ust. 1.
+
+3. Szczegółowy zakres danych i informacji, o których mowa w ust. 1, oraz sposób ich wymiany określają porozumienia zawarte między Zakładem a Państwową Inspekcją Pracy oraz Szefem Krajowej Administracji Skarbowej.>
 
 **Art. 68b.**
 
@@ -2492,7 +2542,9 @@ Art. 99–106. (pominięte)
 - **3)** udziela zamówień na usługi rehabilitacyjne w innych ośrodkach;
 - **4)** prowadzi we własnym zakresie badania i analizy przyczyn niezdolności do pracy;
 - **5)** może zamawiać przeprowadzanie przez inne podmioty badań naukowych dotyczących przyczyn niezdolności do pracy oraz metod i rozwiązań zapobiegających niezdolności do pracy;
-- **6)** może finansować inne działania dotyczące prewencji rentowej. <2a. Skierowanie na rehabilitację leczniczą w ramach prewencji rentowej nie wymaga wydania decyzji.>
+- **6)** może finansować inne działania dotyczące prewencji rentowej.
+
+2a. Skierowanie na rehabilitację leczniczą w ramach prewencji rentowej nie wymaga wydania decyzji.
 
 3. Do zamówień, o których mowa w ust. 2 pkt 3, nie stosuje się przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych.
 
@@ -2847,7 +2899,10 @@ Art. 99–106. (pominięte)
 - **3)** ustalania wymiaru składek i ich poboru, a także umarzania należności z tytułu składek;
 - **3a)** ustalania wymiaru składek na Fundusz Emerytur Pomostowych i ich poboru, a także umarzania należności z tytułu tych składek;
 - **4)** ustalania uprawnień do świadczeń z ubezpieczeń społecznych;
-- **5)** wymiaru świadczeń z ubezpieczeń społecznych; <6) odmowy skierowania na rehabilitację leczniczą w ramach prewencji rentowej.> 1a. Zakład zawiesza postępowanie w sprawach, o których mowa w ust. 1 pkt 3a, jeżeli toczy się postępowanie, wszczęte na podstawie art. 41 ust. 6 ustawy z dnia 19 grudnia 2008 r. o emeryturach pomostowych, w sprawie kontroli wykazu stanowisk pracy lub ewidencji, o których mowa w art. 41 ust. 4 ustawy z dnia 19 grudnia 2008 r. o emeryturach pomostowych, prowadzonych przez płatnika składek, u którego jest lub był zatrudniony pracownik, którego dotyczy zawieszone postępowanie.
+- **5)** wymiaru świadczeń z ubezpieczeń społecznych;
+- **6)** odmowy skierowania na rehabilitację leczniczą w ramach prewencji rentowej.
+
+1a. Zakład zawiesza postępowanie w sprawach, o których mowa w ust. 1 pkt 3a, jeżeli toczy się postępowanie, wszczęte na podstawie art. 41 ust. 6 ustawy z dnia 19 grudnia 2008 r. o emeryturach pomostowych, w sprawie kontroli wykazu stanowisk pracy lub ewidencji, o których mowa w art. 41 ust. 4 ustawy z dnia 19 grudnia 2008 r. o emeryturach pomostowych, prowadzonych przez płatnika składek, u którego jest lub był zatrudniony pracownik, którego dotyczy zawieszone postępowanie.
 
 1b. Zakład podejmuje postępowanie w sprawach, o których mowa w ust. 1 pkt 3a, zawieszone z przyczyny określonej w ust. 1a, w przypadku gdy postępowanie w sprawie kontroli wykazu stanowisk pracy lub ewidencji, o którym mowa w ust. 1a, zostało zakończone wydaniem decyzji prawomocnej lub orzeczenia kończącego postępowanie w sprawie.
 
@@ -2994,38 +3049,11 @@ Art. 99–106. (pominięte)
 
 2. Minister właściwy do spraw zabezpieczenia społecznego w porozumieniu z ministrem właściwym do spraw finansów publicznych określa, w drodze rozporządzenia, szczegółowe zasady wypłacania odsetek.
 
-2a. Przepis ust. 1 stosuje się również do płatników składek zobowiązanych z mocy odrębnych przepisów do wypłaty świadczeń pieniężnych z ubezpieczeń społecznych. <Rozdział 9a Orzekanie dla celów świadczeń, zasady i tryb wydawania orzeczeń
+2a. Przepis ust. 1 stosuje się również do płatników składek zobowiązanych z mocy odrębnych przepisów do wypłaty świadczeń pieniężnych z ubezpieczeń społecznych.
 
-**Art. 85a.**
+#### Rozdział 9a Orzekanie dla celów świadczeń, zasady i tryb wydawania orzeczeń
 
-1. Zadania, o których mowa w art. 68 ust. 1 pkt 5, są realizowane w terenowych jednostkach organizacyjnych Zakładu przez lekarzy orzeczników oraz przez osoby wykonujące samodzielny zawód medyczny.
-
-2. Fizjoterapeuta może wydawać orzeczenia w sprawach rehabilitacji leczniczej w ramach prewencji rentowej, o której mowa w art. 69 ust. 1 pkt 1, a pielęgniarka lub pielęgniarz w sprawach niezdolności do samodzielnej egzystencji, o której mowa w art. 13 ust. 5 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
-
-3. Naczelnym Lekarzem Zakładu oraz zastępcą Naczelnego Lekarza Zakładu może być osoba posiadająca:
-
-- **1)** prawo wykonywania zawodu lekarza;
-- **2)** tytuł specjalisty w zakresie jednej z dziedzin medycyny mającej zastosowanie w orzecznictwie lekarskim;
-- **3)** co najmniej trzyletnie doświadczenie w pracy w orzecznictwie lekarskim.
-
-4. Głównym lekarzem orzecznikiem, zastępcą głównego lekarza orzecznika oraz lekarzem inspektorem nadzoru orzecznictwa lekarskiego może być osoba posiadająca:
-
-- **1)** prawo wykonywania zawodu lekarza;
-- **2)** tytuł specjalisty w zakresie jednej z dziedzin medycyny mającej zastosowanie w orzecznictwie lekarskim;
-- **3)** co najmniej dziesięcioletni okres wykonywania zawodu lekarza w zakresie jednej z dziedzin medycyny mającej zastosowanie w orzecznictwie lekarskim.
-
-5. Lekarzem orzecznikiem może być osoba:
-
-- **1)** posiadająca prawo wykonywania zawodu lekarza;
-- **2)** posiadająca tytuł specjalisty, albo
-- **3)** odbywająca szkolenie specjalizacyjne w określonej dziedzinie medycyny, która ukończyła moduł podstawowy właściwy dla danego szkolenia specjalizacyjnego lub trzeci rok tego szkolenia – w przypadku specjalizacji, dla których przewidziany został moduł jednolity szkolenia, albo
-- **4)** posiadająca co najmniej pięcioletni okres wykonywania zawodu lekarza – z wyłączeniem okresów wykonywania zawodu w celu odbycia stażu podyplomowego, wykonywania zawodu na podstawie warunkowego prawa wykonywania zawodu, wykonywania zawodu na podstawie prawa wykonywania zawodu na określony zakres czynności zawodowych, okres i miejsce zatrudnienia w podmiocie leczniczym.
-
-6. Osobą wykonującą samodzielny zawód medyczny może być osoba posiadająca:
-
-- **1)** prawo wykonywania zawodu pielęgniarki albo pielęgniarza albo zawodu fizjoterapeuty;
-- **2)** tytuł specjalisty w dziedzinie pielęgniarstwa albo fizjoterapii;
-- **3)** co najmniej pięcioletni okres wykonywania zawodu pielęgniarki albo pielęgniarza albo zawodu fizjoterapeuty, z wyłączeniem okresu wykonywania zawodu pielęgniarki albo pielęgniarza na podstawie warunkowego prawa wykonywania zawodu, wykonywania zawodu przyznanego na określony zakres czynności zawodowych, okres i miejsce zatrudnienia w podmiocie wykonującym działalność leczniczą.
+**Art. 85a.** <1. Zadania, o których mowa w art. 68 ust. 1 pkt 5, są realizowane w terenowych jednostkach organizacyjnych Zakładu przez lekarzy orzeczników oraz przez osoby wykonujące samodzielny zawód medyczny.> 2. Fizjoterapeuta może wydawać orzeczenia w sprawach rehabilitacji leczniczej w ramach prewencji rentowej, o której mowa w art. 69 ust. 1 pkt 1, a pielęgniarka lub pielęgniarz w sprawach niezdolności do samodzielnej egzystencji, o której mowa w art. 13 ust. 5 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych. 3. Naczelnym Lekarzem Zakładu oraz zastępcą Naczelnego Lekarza Zakładu może być osoba posiadająca:
 
 **Art. 85b.**
 
@@ -3037,11 +3065,7 @@ Art. 99–106. (pominięte)
 
 4. Wynagrodzenie zasadnicze, o którym mowa w ust. 3, ustala się proporcjonalnie do wymiaru czasu pracy.
 
-5. Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, mnożniki do ustalenia wynagrodzenia zasadniczego, o którym mowa w ust. 3, mając na względzie charakter pracy osób, o których mowa w ust. 1 i 2, potrzebę zapewnienia odpowiedniego poziomu realizacji zadań przez Zakład oraz konieczność zapewnienia warunków obsady kadrowej orzecznictwa lekarskiego w Zakładzie.
-
-**Art. 85c.**
-
-1. Osoba zainteresowana jest kierowana na badania przeprowadzane przez lekarza orzecznika, osobę wykonującą samodzielny zawód medyczny, lekarza konsultanta lub psychologa, na badania dodatkowe lub na obserwację szpitalną w terminie wyznaczonym przez Zakład.
+5. Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, mnożniki do ustalenia wynagrodzenia zasadniczego, o którym mowa w ust. 3, mając na względzie charakter pracy osób, o których mowa w ust. 1 i 2, potrzebę zapewnienia odpowiedniego poziomu realizacji zadań przez Zakład oraz konieczność zapewnienia warunków obsady kadrowej orzecznictwa lekarskiego w Zakładzie. <Art. 85c. 1. Osoba zainteresowana jest kierowana na badania przeprowadzane przez lekarza orzecznika, osobę wykonującą samodzielny zawód medyczny, lekarza konsultanta lub psychologa, na badania dodatkowe lub na obserwację szpitalną w terminie wyznaczonym przez Zakład.
 
 2. Zakład zawiadamia osobę zainteresowaną o terminie badania, badania dodatkowego lub obserwacji szpitalnej za potwierdzeniem odbioru i informuje o skutkach niestawiennictwa lub uniemożliwienia przeprowadzenia badania, badania dodatkowego lub obserwacji szpitalnej.
 
@@ -3066,11 +3090,7 @@ Art. 99–106. (pominięte)
 
 7. W przypadku gdy osoba zainteresowana w terminie 7 dni od dnia wyznaczonego terminu badania, badania dodatkowego lub obserwacji szpitalnej albo ustania przyczyny niestawiennictwa lub uniemożliwienia przeprowadzenia badania, badania dodatkowego lub obserwacji szpitalnej złoży wniosek, w którym uprawdopodobni, że niestawiennictwo lub uniemożliwienie przeprowadzenia badania, badania dodatkowego lub obserwacji szpitalnej nastąpiło bez jej winy, Zakład wyznacza nowy termin badania, badania dodatkowego lub obserwacji szpitalnej.
 
-8. W przypadku niezłożenia wniosku, o którym mowa w ust. 7, albo złożenia go po terminie, o którym mowa w ust. 7, Zakład umarza postępowanie w sprawie albo wstrzymuje wypłatę świadczenia.
-
-**Art. 85d.**
-
-1. W ramach realizacji zadań, o których mowa w art. 68 ust. 1 pkt 5, lekarze orzecznicy oraz osoby wykonujące samodzielny zawód medyczny wydają orzeczenia.
+8. W przypadku niezłożenia wniosku, o którym mowa w ust. 7, albo złożenia go po terminie, o którym mowa w ust. 7, Zakład umarza postępowanie w sprawie albo wstrzymuje wypłatę świadczenia.> <Art. 85d. 1. W ramach realizacji zadań, o których mowa w art. 68 ust. 1 pkt 5, lekarze orzecznicy oraz osoby wykonujące samodzielny zawód medyczny wydają orzeczenia.
 
 2. Lekarz orzecznik przy orzekaniu jest związany:
 
@@ -3086,11 +3106,7 @@ Art. 99–106. (pominięte)
 
 5. Lekarz konsultant i psycholog wydają opinie po przeprowadzeniu bezpośredniego badania osoby zainteresowanej oraz po analizie dokumentacji medycznej lub zawodowej.
 
-6. Badanie, o którym mowa w ust. 3 pkt 1 i ust. 5, może być przeprowadzone z wykorzystaniem systemów teleinformatycznych lub systemów łączności, jeżeli ten sposób badania umożliwi dokonanie prawidłowej i kompleksowej oceny okoliczności wynikających z celu, dla którego jest wydawane orzeczenie.
-
-**Art. 85e.**
-
-1. Orzeczenia, o których mowa w art. 85d ust. 1, zawierają:
+6. Badanie, o którym mowa w ust. 3 pkt 1 i ust. 5, może być przeprowadzone z wykorzystaniem systemów teleinformatycznych lub systemów łączności, jeżeli ten sposób badania umożliwi dokonanie prawidłowej i kompleksowej oceny okoliczności wynikających z celu, dla którego jest wydawane orzeczenie.> <Art. 85e. 1. Orzeczenia, o których mowa w art. 85d ust. 1, zawierają:
 
 - **1)** datę wydania;
 - **2)** oznaczenie terenowej jednostki organizacyjnej, w której zostało wydane orzeczenie;
@@ -3128,11 +3144,7 @@ Art. 99–106. (pominięte)
 
 13. Wydruk orzeczenia zawiera informację, że orzeczenie zostało wydane w postaci elektronicznej przy wykorzystaniu systemu teleinformatycznego Zakładu i opatrzone kwalifikowanym podpisem elektronicznym, kwalifikowaną pieczęcią elektroniczną, podpisem zaufanym, podpisem osobistym albo z wykorzystaniem sposobu potwierdzania pochodzenia oraz integralności danych dostępnego w systemie teleinformatycznym udostępnionym bezpłatnie przez Zakład.
 
-14. Wydruk orzeczenia stanowi dowód tego, co zostało stwierdzone w orzeczeniu wydanym w postaci elektronicznej przy wykorzystaniu systemu teleinformatycznego Zakładu.
-
-**Art. 85f.**
-
-1. Od orzeczenia osobie zainteresowanej przysługuje sprzeciw, w terminie 14 dni od dnia doręczenia tego orzeczenia, z wyłączeniem orzeczeń wydawanych w postępowaniach, o których mowa w art. 59 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa.
+14. Wydruk orzeczenia stanowi dowód tego, co zostało stwierdzone w orzeczeniu wydanym w postaci elektronicznej przy wykorzystaniu systemu teleinformatycznego Zakładu.> <Art. 85f. 1. Od orzeczenia osobie zainteresowanej przysługuje sprzeciw, w terminie 14 dni od dnia doręczenia tego orzeczenia, z wyłączeniem orzeczeń wydawanych w postępowaniach, o których mowa w art. 59 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa.
 
 2. Sprzeciw, o którym mowa w ust. 1, wnosi się do Zakładu.
 
@@ -3156,21 +3168,13 @@ Art. 99–106. (pominięte)
 
 10. Do orzeczeń wydawanych w wyniku ponownego rozpatrzenia sprawy stosuje się odpowiednio art. 85c–85e.
 
-11. Orzeczenie, wobec którego nie wniesiono sprzeciwu lub co do którego nie zgłoszono zarzutu wadliwości, albo orzeczenie wydane w wyniku ponownego rozpatrzenia sprawy stanowi podstawę do wydania decyzji w sprawie świadczenia albo do podjęcia rozstrzygnięcia w zakresie wskazanym przepisami innych ustaw.
-
-**Art. 85g.**
-
-1. Jeżeli w wyniku kontroli, o której mowa w art. 85h ust. 3 pkt 1, zostanie stwierdzony brak zgodności orzeczenia ze stanem faktycznym, z zasadami orzekania, z zebranymi dokumentami lub z przepisami dotyczącymi orzekania dla celów ustalania uprawnień do świadczeń z ubezpieczeń społecznych, innych świadczeń należących do właściwości Zakładu, realizacji zadań zleconych Zakładowi na podstawie innych ustaw, a także z przepisami dotyczącymi kontroli orzecznictwa o czasowej niezdolności do pracy, Prezes Zakładu uchyla orzeczenie i przekazuje sprawę do ponownego rozpatrzenia przez lekarza orzecznika.
+11. Orzeczenie, wobec którego nie wniesiono sprzeciwu lub co do którego nie zgłoszono zarzutu wadliwości, albo orzeczenie wydane w wyniku ponownego rozpatrzenia sprawy stanowi podstawę do wydania decyzji w sprawie świadczenia albo do podjęcia rozstrzygnięcia w zakresie wskazanym przepisami innych ustaw.> <Art. 85g. 1. Jeżeli w wyniku kontroli, o której mowa w art. 85h ust. 3 pkt 1, zostanie stwierdzony brak zgodności orzeczenia ze stanem faktycznym, z zasadami orzekania, z zebranymi dokumentami lub z przepisami dotyczącymi orzekania dla celów ustalania uprawnień do świadczeń z ubezpieczeń społecznych, innych świadczeń należących do właściwości Zakładu, realizacji zadań zleconych Zakładowi na podstawie innych ustaw, a także z przepisami dotyczącymi kontroli orzecznictwa o czasowej niezdolności do pracy, Prezes Zakładu uchyla orzeczenie i przekazuje sprawę do ponownego rozpatrzenia przez lekarza orzecznika.
 
 2. Do orzeczeń wydawanych w wyniku ponownego rozpatrzenia sprawy w przypadkach, o których mowa w ust. 1, stosuje się odpowiednio art. 85c–85e oraz art. 85f ust. 5–7.
 
 3. O uchyleniu orzeczenia poddanego kontroli lub o wydaniu orzeczenia w wyniku ponownego rozpatrzenia sprawy w przypadkach, o których mowa w ust. 1, Zakład informuje osobę zainteresowaną oraz podmiot uprawniony do otrzymania orzeczenia w przypadkach przewidzianych przepisami innych ustaw.
 
-4. Od orzeczenia wydanego przez lekarza orzecznika w wyniku ponownego rozpatrzenia sprawy, w przypadkach, o których mowa w ust. 1, nie przysługuje sprzeciw, o którym mowa w art. 85f ust. 1, oraz zarzut wadliwości, o którym mowa w art. 85f ust. 4. Orzeczenie to stanowi podstawę do wydania decyzji w sprawie świadczenia albo do podjęcia rozstrzygnięcia w zakresie wskazanym przepisami innych ustaw.
-
-**Art. 85h.**
-
-1. Zwierzchni nadzór, o którym mowa w art. 73 ust. 3 pkt 5, nad wydawaniem orzeczeń dla celów, o których mowa w art. 68 ust. 1 pkt 5, w imieniu Prezesa Zakładu sprawuje Naczelny Lekarz Zakładu.
+4. Od orzeczenia wydanego przez lekarza orzecznika w wyniku ponownego rozpatrzenia sprawy, w przypadkach, o których mowa w ust. 1, nie przysługuje sprzeciw, o którym mowa w art. 85f ust. 1, oraz zarzut wadliwości, o którym mowa w art. 85f ust. 4. Orzeczenie to stanowi podstawę do wydania decyzji w sprawie świadczenia albo do podjęcia rozstrzygnięcia w zakresie wskazanym przepisami innych ustaw.> <Art. 85h. 1. Zwierzchni nadzór, o którym mowa w art. 73 ust. 3 pkt 5, nad wydawaniem orzeczeń dla celów, o których mowa w art. 68 ust. 1 pkt 5, w imieniu Prezesa Zakładu sprawuje Naczelny Lekarz Zakładu.
 
 2. Zwierzchni nadzór Naczelny Lekarz Zakładu realizuje przy pomocy zastępcy Naczelnego Lekarza Zakładu oraz lekarzy inspektorów nadzoru orzecznictwa lekarskiego.
 
@@ -3181,20 +3185,12 @@ Art. 99–106. (pominięte)
 - **3)** określanie dobrych praktyk orzeczniczych dla lekarzy orzeczników i osób wykonujących samodzielny zawód medyczny;
 - **4)** prawo zlecenia uzupełnienia dokumentacji zgromadzonej w postępowaniu związanym z wydaniem orzeczenia o dokumentację medyczną z przebiegu leczenia lub rehabilitacji, o opinie specjalistyczne wydawane przez konsultantów Zakładu, o wyniki badań dodatkowych lub obserwacji szpitalnej, w wyniku kontroli, o której mowa w pkt 1.
 
-4. Dobre praktyki orzecznicze, o których mowa w ust. 3 pkt 3, Prezes Zakładu ogłasza w Biuletynie Informacji Publicznej, o którym mowa w ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. z 2022 r. poz. 902 oraz z 2025 r. poz. 1844).
-
-**Art. 85i.**
-
-1. W celu realizacji zadań, o których mowa w art. 68 ust. 1 pkt 5, podmioty udzielające świadczeń zdrowotnych są obowiązane do nieodpłatnego udostępniania Zakładowi dokumentacji medycznej:
+4. Dobre praktyki orzecznicze, o których mowa w ust. 3 pkt 3, Prezes Zakładu ogłasza w Biuletynie Informacji Publicznej, o którym mowa w ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. z 2022 r. poz. 902 oraz z 2025 r. poz. 1844).> <Art. 85i. 1. W celu realizacji zadań, o których mowa w art. 68 ust. 1 pkt 5, podmioty udzielające świadczeń zdrowotnych są obowiązane do nieodpłatnego udostępniania Zakładowi dokumentacji medycznej:
 
 - **1)** w postaci papierowej – przez sporządzenie jej wyciągu, odpisu, kopii lub wydruku – poświadczonych za zgodność z oryginałem;
 - **2)** w postaci elektronicznej – za pośrednictwem środków komunikacji elektronicznej albo na informatycznym nośniku danych.
 
-2. Podmiot udzielający świadczeń zdrowotnych udostępnia niezwłocznie dokumentację medyczną, o której mowa w ust. 1, niepóźniej niż w terminie 14 dni od dnia otrzymania wniosku o jej udostępnienie.
-
-**Art. 85j.**
-
-1. Zadania związane z wydawaniem orzeczeń oraz kontrolą orzecznictwa o czasowej niezdolności do pracy, o których mowa w art. 68 ust. 1 pkt 5, mogą być realizowane przy wsparciu osób upoważnionych, wykonujących czynności pomocnicze w postępowaniu związanym z wydaniem orzeczenia.
+2. Podmiot udzielający świadczeń zdrowotnych udostępnia niezwłocznie dokumentację medyczną, o której mowa w ust. 1, niepóźniej niż w terminie 14 dni od dnia otrzymania wniosku o jej udostępnienie.> <Art. 85j. 1. Zadania związane z wydawaniem orzeczeń oraz kontrolą orzecznictwa o czasowej niezdolności do pracy, o których mowa w art. 68 ust. 1 pkt 5, mogą być realizowane przy wsparciu osób upoważnionych, wykonujących czynności pomocnicze w postępowaniu związanym z wydaniem orzeczenia.
 
 2. Osoby upoważnione, o których mowa w ust. 1:
 
@@ -3203,7 +3199,7 @@ Art. 99–106. (pominięte)
 
 3. Obowiązek zachowania poufności przez osoby upoważnione, o których mowa w ust. 1, obowiązuje również po śmierci osoby, wobec której zostało wydane orzeczenie.
 
-4. Osoby upoważnione, o których mowa w ust. 1, dopuszcza się do przetwarzania danych osobowych zawartych w dokumentacji związanej z wydaniem orzeczenia, na podstawie pisemnego upoważnienia udzielonego przez Zakład, po odbyciu przez te osoby przeszkolenia w zakresie ochrony danych osobowych organizowanego przez Zakład oraz po złożeniu pisemnego zobowiązania do zachowania w poufności przetwarzanych danych osobowych.
+4. Osoby upoważnione, o których mowa w ust. 1, dopuszcza się do przetwarzania danych osobowych zawartych w dokumentacji związanej z wydaniem orzeczenia, na podstawie pisemnego upoważnienia udzielonego przez Zakład, po odbyciu przez te osoby przeszkolenia w zakresie ochrony danych osobowych organizowanego przez Zakład oraz po złożeniu pisemnego zobowiązania do zachowania w poufności przetwarzanych danych osobowych.>
 
 #### Rozdział 10 Kontrola wykonywania zadań z zakresu ubezpieczeń społecznych
 

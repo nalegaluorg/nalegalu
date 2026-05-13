@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# czasowego Funduszu Restrukturyzacji Rolnict wa finansowe tego Fun duszu.
+# o zmianie ustawy o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa oraz o zmianie niektórych ustaw
+
+*USTAWA z dnia 29 grudnia 1993 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,194 +26,220 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19940010003) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1994/3/text.pdf) |
 
-**Art. 13.** W ustawie dnia 31 stycznia 1989 r. Naro dowym Banku Polskim (Dz. U. 1992 r. 72, poz. 360 1993 r. 6, poz. 29 134, poz. 646) wprowadza zmiany: . 1} wart. 31 ust. pkt otrzymuje brzmienie: ,,3} pkt 2 podlega oprocentowaniu ustalonej Modernizacji Rolnictwa."
-
-**Art. 14.** W ustawie dnia 15 lutego 1992 r. podatku dochodowym od osób prawnych (Dz. U. 1993 r. 106, poz. 482 134, poz. 646) wart. 6 ust. dodaje 7 brzmieniu: ,,7} Restrukturyzacji Modernizacji Rolnictwa."
-
-**Art. 15.** · Ustawa wchodzi pó 14 dni dnia Prezydent Rzeczypospolitej Polskiej: L. USTAWA dnia 29 grudnia 1993 r. zmianie ustawy gospodarowaniu rolnymi Skarbu zmianie niektórych ustaw.
-
-**Art. 1.** W ustawie dnia 19 1991 r. gospodarowaniu rolnymi Skarbu wa zmianie niektórych ustaw (Dz. U. 107, poz. 464 1993 r. 5, poz. 23 6, poz. 29) wprowadza zmiany: 1} otrzymuje brzmienie: "Art. 1. Ustawa reguluje zasady gospodarowania mie niem Skarbu odniesieniu do:
+**Art. 1.** W ustawie z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa oraz o zmianie niektórych ustaw (Dz.U. Nr 107, poz. 464 oraz z 1993 r. Nr 5, poz. 23 i Nr 6 poz. 29) wprowadza się następujące zmiany:
 
 **Art. 17b.**
 
-1. Do wieczystego nierucho rolnych przez stosuje odpowiednio przepisy 35 ust. 4. nowi wieczystej prawa wieczystego nia.";
+1. Do użytkowania wieczystego nieruchomości rolnych przejętych przez Agencję stosuje się odpowiednio przepisy art. 35 ust. 3 i 4.
 
-- **11)** wart. 18 wyrazie dodaje wyraz "rolnych"; .
-- **12)** 19 otrzymuje brzmienie: "Art. 19. 1. Z przekazania mienia, którym mowa wart. 14 ust. 3, 16, 17, 17a, 17b 18, podmiot Agencja zdawczo-odbiorczy.
+2. Polska Akademia Nauk, szkoły wyższe oraz jednostki badawczorozwojowe ponoszą opłaty z tytułu wieczystego użytkowania nieruchomości rolnych, wykorzystywanych wyłącznie do prowadzenia działalności gospodarczej.
 
-2.
+3. Za zgodą Prezesa Agencji użytkownik wieczysty nieruchomości rolnej może zrzec się swego prawa przez złożenie Agencji oświadczenia w formie aktu notarialnego. W takim przypadku użytkowanie wieczyste wygasa. Oś wiadczenie stanowi podstawę do wykreślenia w księdze wieczystej prawa wieczystego użytkowania.";
 
-- **13)** 20: zdawczo-odbiorczy zawiera spis natury przejmowanych tku. Spisu natury dokonuje zasad prowadzenia
-    - **a)** ust. 2: - pkt wyraz wyrazem "mienia", . - pkt 2 wyrazie dodaje wyrazy wieczystego,"
-    - **b)** ust. wyrazy "w 6 13 ust. 2 oraz" wyrazami "w ustawie na";
+- **11)** w art. 18 po wyrazie "nieruchomości" dodaje się wyraz "rolnych";
+- **12)** art. 19 otrzymuje brzmienie: "Art. 19. 1. Z przekazania mienia, o którym mowa w art. 14 ust. 3, art. 16, art. 17, 17a, 17b i art. 18, podmiot przekazujący i Agencja sporządzają protokół zdawczo-odbiorczy.
 
-- **14)** 23 otrzymuje brzmienie: "Art. 23. 1. Agencja gwaran cji kredytowych, tym dewizowych, planie finanso wym.
+2. Protokół zdawczo-odbiorczy zawiera spis z natury przejmowanych składników majątku. Spisu z natury dokonuje się według zasad prowadzenia rachunkowości.";
 
-2. Do gwarancji, których mowa ust. 1, stosuje
+- **13)** w art. 20:
+    - **a)** w ust. 2: - w pkt 1 wyraz "nieruchomości" zastępuje się wyrazem "mienia", - w pkt 2 po wyrazie "użytkowania" dodaje się wyrazy "użytkowania wieczystego,"
+    - **b)** w ust. 3 wyrazy "w art. 6 i art. 13 ust. 2 oraz" zastępuje się wyrazami "w ustawie oraz na";
 
-- **15)** 24: odpowiednio przepisy ce gwarancji kredytowych udzielanych przez banki.";
-    - **a)** ust. 5 otrzymuje brzmienie: ,,5. Zasobu Agencja drodze umowy
+- **14)** art. 23 otrzymuje brzmienie: "Art. 23. 1. Agencja może udzielać poręczeń i gwarancji kredytowych, w tym dewizowych, do wysokości określonej w planie finansowym.
 
-- **1)** gminie - cele inwestycjami infrastrukturalnymi wykonywaniu gminy,
-- **2)** Polskiej Akademii Nauk, szkole lub jednostce badawczo-rozwojowej - cele wykonywaniu ich statuto wych. W razie przeznaczenia przez nierucho inne cele umowie, Agencji zwrot pie ustalonej zasad "Art. 25. 1. Administrowanie polega gospodarowa niu mienia Zasobu, imieniu Agencji, podstawie umowy, za wynagrodzeniem przez czas oznaczony.
+2. Do gwarancji, o których mowa w ust. 1, stosuje się odpowiednio przepisy dotyczące gwarancji kredytowych udzielanych przez banki.";
 
-2. Administratorem osoba prawna lub fizyczna. Umowa administrato rem a powinna zawarta
+- **15)** w art. 24:
+    - **a)** ust. 5 otrzymuje brzmienie: "5. Nieruchomości wchodzące w skład Zasobu Agencja może w drodze umowy nieodpłatnie przekazać na własność:
 
-- **1)** mienia przedmiot gospodarowan ia,
-- **2)** zasady wynagradzania administratora, tym jego prawo pobierania ków lub zyskach,
-- **3)** administratora,
-- **4)** kryteria oceny administ rowania,
-- **5)** zakres za powie rzone mienie,
-- **6)** okres, który umowa zawar ta.";
-- **17)** 26 dodaje 26a brzmieniu: "Art. 26a. 1. Nie pobiera skarbowej od czyn cywilnoprawnych, których jest Agencja.
+- **1)** gminie - na cele związane z inwestycjami infrastrukturalnymi służącymi wykonywaniu zadań własnych gminy,
+- **2)** Polskiej Akademii Nauk, szkole wyższej lub jednostce badawczo-rozwojowej - na cele służące wykonywaniu ich zadań statutowych. W razie przeznaczenia przez nabywcę nieruchomości na inne cele niż określone w umowie, Agencji przysługuje zwrot równowartości pieniężnej, ustalonej według zasad określonych w art. 30.",
+    - **b)** po ust. 5 dodaje się ust. 6 w brzmieniu: "6. Z zastrzeżeniem art. 44 ust. 1, urządzenia, obiekty i sieci: energetyczne, wodnokanalizacyjne, ciepłownicze oraz telekomunikacyjne Agencja może w drodze umowy przekazać, wraz z niezbędnymi gruntami, na własność jednostkom prowadzącym działalność w tym zakresie. Przekazanie na rzecz jednostek państwowych i komunalnych może nastąpić nieodpłatnie.";
 
-2. Do
+- **16)** art. 25 otrzymuje brzmienie: "Art. 25. 1. Administrowanie polega na gospodarowaniu wydzieloną częścią mienia Zasobu, w imieniu Agencji, na podstawie umowy, za wynagrodzeniem przez czas oznaczony.
 
-- **18)** wart. 28: notarialnych utworzeniem jednoosobowych Agencji stosuje odpowiednio przepisy notarialnych zanych wa
+2. Administratorem może być osoba prawna lub fizyczna. Umowa między administratorem a Agencją powinna być zawarta na piśmie i określać w szczególności:
 
-3. Agencja nie ma uiszczania sprawach cywilnych mienia Zasób Rolnej Skarbu
+- **1)** składniki mienia stanowiące przedmiot gospodarowania,
+- **2)** zasady wynagradzania administratora, w tym jego prawo do pobierania pożytków lub udziału w zyskach,
+- **3)** obowiązki administratora,
+- **4)** kryteria oceny efektywności administrowania,
+- **5)** zakres odpowiedzialności za powierzone mienie,
+- **6)** okres, na który umowa została zawarta.";
+- **17)** po art. 26 dodaje się art. 26a w brzmieniu: "Art. 26a. 1. Nie pobiera się opłaty skarbowej od czynności cywilnoprawnych, których stroną jest Agencja.
 
-- **a)** ust. wyrazy za wyrazami przetargu", zdania,
-- **b)** ust. 2 dodaje ust. brzmieniu: ,,3. zamiarze której szacunkowa przekracza równo kwintali stosownie przepisów podatku rolnym, Agencja prasie co najmniej wojewódzkim.";
-- **19)** wart. 29:
-    - **a)** ust. 2 wyraz "przetargu" wyrazami celu albo utworzenia gospodarstwa rolnego. jed nemu oferentów ustala wyboru tego oferentów, który daje gwa prowadzenia gospodarstwa.",
-    - **c)** ust. dodaje ust. 3a brzmieniu: ,,3a. W przypadku przetargu, Agencja, kolejne przetargi, nie jednak ceny ustalonej zasad wart. 30. kolejny przetarg nie doprowadzi osoby nabywcy, Agencja bez przetargu za nie cena cza ostatniego przetargu.";
+2. Do czynności notarialnych związanych z utworzeniem jednoosobowych spółek Agencji, stosuje się odpowiednio przepisy dotyczące czynności notarialnych związanych z przekształceniem przedsiębiorstwa państwowego w spółkę.
 
-- **20)** wart. 30:
-    - **a)** ust. wyrazach "art. 29" wyrazy "ust. 2" pkt 2 przecinek iwyrazy dniu zawarcia umowy sprzeda
-    - **b)** ust. 2 pkt 2 wyrazie "maszyn" dodaje wyrazy cen rynkowych albo";
+3. Agencja nie ma obowiązku uiszczania opłat w sprawach cywilnych dotyczących mienia stanowiącego Zasób Własności Rolnej Skarbu Państwa.";
 
-- **21)** 31 otrzymuje brzmienie: "Art. 31. 1. Agencja raty zastosowaniem oprocentowania. ustalona umowie innego miernika warto Agencja nie stosuje opro centowania.
+- **18)** w art. 28:
+    - **a)** w ust. 1 wyrazy "przystąpienia do sprzedaży" zastępuje się wyrazami "ogłoszenia przetargu", średnik zastępuje się kropką i skreśla dalszą część zdania,
+    - **b)** po ust. 2 dodaje się ust. 3 w brzmieniu: "3. Informację o zamiarze sprzedaży nieruchomości, której wartość szacunkowa przekracza równowartość dziesięciu tysięcy kwintali żyta, ustaloną stosownie do przepisów o podatku rolnym, Agencja ogłasza w prasie o zasięgu co najmniej wojewódzkim.";
 
-2. Agencja nie oprocentowa nia razie raty mienia lub niektórych tego mienia terenie gminy uznanej podstawie prze- . pisów zatrudnieniu za za szczególnie wysokim bezrobo ciem strukturalnym.
+- **19)** w art. 29:
+    - **a)** w ust. 2 wyraz "przetargu" zastępuje się wyrazami "publicznego przetargu ustnego (licytacja)",
+    - **b)** ust. 3 otrzymuje brzmienie: "3. W przypadkach uzasadnionych względami gospodarczymi można ustalić osobę nabywcy na podstawie przetargu ofert pisemnych (konkurs ofert). W razie zgłoszenia kilku równorzędnych ofert, pierwszeństwo ma osoba podlegająca przepisom o ubezpieczeniu społecznym rolników oraz pracownik i spółka pracowników zlikwidowanego państwowego przedsiębiorstwa gospodarki rolnej, nabywający nieruchomość rolną w celu powiększenia albo utworzenia gospodarstwa rolnego. Jeżeli więcej niż jednemu z oferentów przysługuje pierwszeństwo, nabywcę ustala się dokonując wyboru tego spośród oferentów, który daje najlepszą gwarancję należytego prowadzenia gospodarstwa.",
+    - **c)** po ust. 3 dodaje się ust. 3a w brzmieniu: "3a. W przypadku nierozstrzygnięcia przetargu, Agencja, ogłaszając kolejne przetargi, może ustalić niższą cenę wywoławczą, nie niższą jednak niż połowa ceny ustalonej według zasad określonych w art. 30. Jeżeli kolejny przetarg nie doprowadzi do wyłonienia osoby nabywcy, Agencja może sprzedać nieruchomość bez przetargu za cenę nie niższą niż cena wywoławcza ostatniego przetargu.";
 
-3. Przepisy ust. 2 stosuje dokonywanej podstawie przepisów gospodarce gruntami wy
+- **20)** w art. 30:
+    - **a)** w ust. 1 po wyrazach "art. 29" skreśla się wyrazy "ust. 1 i 2" oraz w pkt 2 skreśla się przecinek i wyrazy "obowiązujących w dniu zawarcia umowy sprzedaży",
+    - **b)** w ust. 2 w pkt 2 po wyrazie "maszyn" i myślniku dodaje się wyrazy "według cen rynkowych albo";
 
-4. oprocentowania rodzaje mierników ustala Minister Finan sów porozumieniu Ministrem Rolnict wa Gospodarki opinii Prezesa Agencji. Minister Fi nansów tym samym trybie ustali szcze
+- **21)** art. 31 otrzymuje brzmienie: "Art. 31. 1. Agencja może rozłożyć spłatę należności na raty z zastosowaniem oprocentowania. Jeżeli należność pieniężna została ustalona w umowie według innego miernika wartości niż pieniądz, Agencja nie stosuje oprocentowania.
 
-- **24)** wart. 36: Prezesa Agencji, jednostka mi, których mowa wart. 34. Jednostce od jednostki zwrot poniesio nych budynki inne ustala zasadach wart. 30.
+2. Agencja może nie stosować oprocentowania w razie rozłożenia na raty należności z tytułu sprzedaży mienia lub niektórych składników tego mienia położonego na terenie gminy uznanej na podstawie przepisów o zatrudnieniu i bezrobociu za zagrożoną szczególnie wysokim bezrobociem strukturalnym.
 
-3. Jednostki, których mowa wart. 34, wykonywania roczne równe cenie jednego kwin tala hektara przeliczeniowego, sto sownie przepisów podatku rolnym.
+3. Przepisy ust. 1 i 2 stosuje się również do sprzedaży dokonywanej na podstawie przepisów o gospodarce gruntami i wywłaszczaniu nieruchomości.
 
-4. inne placówki systemu wykonywania za rolnymi wykorzy stywanymi prowadzenia gospodarczej.
+4. Wysokość oprocentowania oraz rodzaje mierników wartości ustala Minister Finansów w porozumieniu z Ministrem Rolnictwa i Gospodarki Żywnościowej po zasięgnięciu opinii Prezesa Agencji. Minister Finansów w tym samym trybie ustali szczegółowe kryteria nie stosowania oprocentowania w przypadku, o którym mowa w ust. 2.";
 
-5. których mowa ust. 3, za dany rok uiszcza terminie 15 lutego roku.";
+- **22)** w art. 34 skreśla się wyrazy "oraz jednostkom Lasów Państwowych";
+- **23)** art. 35 otrzymuje brzmienie: "Art. 35. 1. Przekazanie w zarząd mienia następuje na czas oznaczony lub nie oznaczony, w drodze decyzji Prezesa Agencji.
 
-- **a)** oznacza jako ust.l pie tym wyrazie "decyzji" dodaje wyraz " Prezesa" ,
-- **b)** . dodaje ust. 2 brzmieniu: ,,2 ..D ecyzja jednostkom organizacyjnym:
-- **1)** resortu obrony narodowej - wymaga zgody Ministra Obrony Narodowej lub nego .przez niego organu,
-- **2)** resortu spraw - wymaga zgody Ministra Spraw
+2. Przekazanie w zarząd mienia może nastąpić również na podstawie umowy, zawartej za zgodą Prezesa Agencji, między jednostkami, o których mowa w art. 34. Jednostce przekazującej przysługuje od jednostki przejmującej zwrot nakładów poniesionych na budynki i inne części składowe nieruchomości. Wartość nakładów ustala się na zasadach określonych w art. 30.
 
-3. Przepisy ust. 2 stosuje nieru rolnych państwowych jednostek organizacyjnych nie prawnej, które naby te Skarbu wa.";
+3. Jednostki, o których mowa w art. 34, ponoszą z tytułu wykonywania zarządu opłaty roczne równe cenie jednego kwintala żyta z hektara przeliczeniowego, stosownie do przepisów o podatku rolnym.
 
-- **25)** 37 otrzymuje brzmienie: "Art. 37. Minister Rolnictwa Gospodarki wej drodze tryb przekazywania mienia razie ustanowienia lub tryb ustalania wnoszenia
-- **26)**
-    - **a)** ust. brzmienie: zawarta umowa.
+4. Szkoły i inne placówki systemu oświaty ponoszą opłaty z tytułu wykonywania zarządu nieruchomościami rolnymi wykorzystywanymi wyłącznie do prowadzenia działalności gospodarczej.
 
-2. W umowie, której mowa ust. 1,
+5. Opłaty, o których mowa w ust. 3, za dany rok uiszcza się w terminie do 15 lutego następnego roku.";
 
-- **1)** przedmiotu lub najmu,
-- **2)** czynsz roczny równej sumie przedmiotu lub najmu podzielonej przez lat, zawarta umowa, oprocentowania nie tej
+- **24)** w art. 36:
+    - **a)** dotychczasową treść oznacza się jako ust. 1 i w ustępie tym po wyrazie "decyzji" dodaje się wyraz "Prezesa",
+    - **b)** dodaje się ust. 2 i 3 w brzmieniu: "2. Decyzja o wygaśnięciu zarządu przysługującego jednostkom organizacyjnym:
 
-3. W umowie ustala jako przedmiotu lub najmu oprocentowania za okres dnia zawarcia tej umowy. Na poczet ceny zalicza czynsz.
+- **1)** resortu obrony narodowej - wymaga zgody Ministra Obrony Narodowej lub upoważnionego przez niego organu,
+- **2)** resortu spraw wewnętrznych - wymaga zgody Ministra Spraw Wewnętrznych.
 
-4. przedmiotu lub najmu ustalona umowie, któ rej mowa ust. 1, innego mier nika Agencja nie stosuje oprocentowania.
+3. Przepisy ust. 1 i 2 stosuje się również do nieruchomości rolnych pozostających w zarządzie państwowych jednostek organizacyjnych nie posiadających osobowości prawnej, które nabyły te nieruchomości na własność Skarbu Państwa.";
 
-5. W przypadku umowy dzier lub najmu przed okresu, jaki zawarta, czynsz nie podlega zwrotowi.
+- **25)** art. 37 otrzymuje brzmienie: "Art. 37. Minister Rolnictwa i Gospodarki Żywnościowej określi, wdrodze rozporządzenia, tryb przekazywania mienia w razie ustanowienia lub wygaśnięcia zarządu oraz tryb ustalania i wnoszenia opłat.";
+- **26)** w art. 38:
+    - **a)** ust. 1 otrzymuje brzmienie: "1. Mienie wchodzące w skład Zasobu może być wydzierżawiane lub wynajmowane osobom fizycznym lub prawnym, na zasadach Kodeksu cywilnego, z zastrzeżeniem art. 38a.",
+    - **b)** w ust. 3 wyraz "trzech" zastępuje się wyrazem "pięciu";
 
-6. oprocentowania rodzaje mierników ustala Minister Fi nansów porozumieniu Ministrem Rol nictwa Gospodarki opinii Prezesa Agencji.";
+- **27)** po art. 38 dodaje się art. 38a w brzmieniu: "Art. 38a. 1. Mienie wchodzące w skład Zasobu może być wydzierżawiane lub wynajmowane osobom fizycznym lub prawnym z zapewnieniem dzierżawcy lub najemcy prawa kupna przedmiotu dzierżawy lub najmu najpóźniej z upływem okresu, na jaki została zawarta mowa. W umowie, o której mowa w ust. 1, określa się w szczególności:
+- **1)** wartość przedmiotu dzierżawy lub najmu,
+- **2)** czynsz roczny w wysokości równej sumie wartości przedmiotu dzierżawy lub najmu podzielonej przez liczbę lat, na którą została zawarta umowa, i oprocentowania nie spłaconej części tej wartości.
 
-- **28)** 39 otrzymuje brzmienie: "Art. 39. 1. zawiera przep rowadzeniu przetargu ofert pisemnych lub publicznego przetargu ustnego. Art. 29 ust. 2, 3a stosuje odpowiednio.
+3. W umowie sprzedaży cenę ustala się jako sumę wartości przedmiotu dzierżawy lub najmu i oprocentowania należnego za okres do dnia zawarcia tej umowy. Na poczet ceny zalicza się wpłacony czynsz.
 
-2. Przetargu nie stosuje gdy wienie rzecz jednoosobowej utworzonej przez a dotychczasowy nieru rolnej Agencji nie zamiarze dalszego tej nowych warunkach uzgodnionych Agen tym czynsz nie mniejszy od dotychczasowego.
+4. Jeżeli wartość przedmiotu dzierżawy lub najmu została ustalona w umowie, o której mowa w ust. 1, według innego miernika wartości niż pieniądze, Agencja nie stosuje oprocentowania.
 
-3. W razie któ rym mowa ust. 2, trzy przed albo nieuzgodnienia nowych warunków terminie od nierucho rolnej zasadach
+5. W przypadku rozwi ązania umowy dzierżawy lub najmu przed upływem okresu, na jaki została zawarta, wpłacony czynsz nie podlega zwrotowi.
 
-- **30)** 40 ust. 2 pkt 2 otrzymuje brzmienie: ,,2) okres nie lat, przypadkach uzasadnionych stanem przedmiotu lub inwestycji nowe miejsca pra cy,";
-- **31)** 42-46 brzmienie: "Art. 42. 1. Agencja najemcom domy, lokale mieszkalne bu dynki gospodarcze wraz gruntami.
+6. Wysokość oprocentowania oraz rodzaje mierników wartości ustala Minister Finansów w porozumieniu z Ministrem Rolnictwa i Gospodarki Żywnościowej po zasięgnięciu opinii Prezesa Agencji.";
 
-2. cenie rynkowej:
+- **28)** art. 39 otrzymuje brzmienie: "Art. 39. 1. Umowę dzierżawy zawiera się po przeprowadzeniu przetargu ofert pisemnych lub publicznego przetargu ustnego. Art. 29 ust. 2, 3 i 3a stosuje się odpowiednio.
 
-- **1)** pomniejszonej 4% za rok pracy najemcy stwie gospodarki rolnej innym pracy, którego podstawowym przedmiotem jest produkcja wymieniona wart. 2a pkt 1, albo
-- **2)** pomniejszonej 3% za rok naj mu mieszkania od pracy, których mowa pkt 1, - nie jednak 90%.
+2. Przetargu nie stosuje się, gdy wydzierżawienie następuje na rzecz jednoosobowej spółki utworzonej przez Agencję, a także, jeżeli dotychczasowy dzierżawca nieruchomości rolnej złoży Agencji oświadczenie o zamiarze dalszego dzierżawienia tej nieruchomości na nowych warunkach uzgodnionych między dzierżawcą i Agencją, z tym że czynsz nie możne być mniejszy od dotychczasowego.
 
-3. Do okresu pracy albo najmu, od których pomniejszenie ceny wli cza odpowiednio okres pracy albo najmu zlikwidowanym pracy, którego mienie przez ust. 2 pkt
+3. W razie niezłożenia oświadczenia, o którym mowa w ust. 2, najpóźniej na trzy miesiące przed zakończeniem dzierżawy albo nieuzgodnienia nowych warunków dzierżawy w terminie miesiąca od złożenia oświadczenia, wydzierżawienie nieruchomości rolnej następuje na zasadach określonych w ust. 1.";
 
-4. Na wniosek najemcy, który stosunek najmu poprze dniego najemcy, nim stale chwili jego pomniejsza - zamiast okresu pracy najemcy albo okresu najmu - okres pracy poprzedniego najem cy pracy, których mowa ust. 2 pkt 1.
+- **29)** po art. 39 dodaje się art. 39a w brzmieniu: "Art. 39a. 1. Minister Rolnictwa i Gospodarki Żywnościowej w porozumieniu z Ministrem Finansów, w drodze rozporządzenia, określi tryb przeprowadzania przetargów na dzierżawę.
 
-5. W rozumieniu ust. 4 za osoby bliskie zmar najemcy dzieci przysposobione, wdowca), rodziców dzieci przysposobione tych osób.
+2. Wysokość oprocentowania oraz rodzaje mierników wartości ustala Minister Finansów w porozumieniu z Ministrem Rolnictwa i Gospodarki Żywnościowej po zasięgnięciu opinii Prezesa Agencji.";
 
-6. Przepisy ust. 1-5 stosuje odpowiednio ogródków przydomowych osobom, które nich
+- **30)** w art. 40 w ust. 2 pkt 2 otrzymuje brzmienie: "2) na okres nie dłuższy niż pięć lat, w przypadkach uzasadnionych stanem przedmiotu dzierżawy lub realizacją inwestycji tworzących nowe miejsca pracy,";
+- **31)** art. 42-46 otrzymują brzmienie: "Art. 42. 1. Agencja może przeznaczyć do sprzedaży najemcom domy, lokale mieszkalne i budynki gospodarcze wraz z niezbędnymi gruntami.
+
+2. Sprzedaż następuje po cenie rynkowej:
+
+- **1)** pomniejszonej o 4 % za każdy rok pracy najemcy w państwowym przedsiębiorstwie gospodarki rolnej oraz innym państwowym zakładzie pracy, którego podstawowym przedmiotem działalności jest produkcja wymieniona w art. 2a pkt 1, albo
+- **2)** pomniejszonej o 3 % za każdy rok najmu mieszkania od zakładów pracy, o których mowa w pkt 1, - nie więcej jednak niż o 90%.
+
+3. Do okresu pracy albo najmu, od których zależy pomniejszenie ceny sprzedaży, wlicza się także odpowiednio okres pracy albo najmu w zlikwidowanym zakładzie pracy, którego mienie zostało przejęte przez przedsiębiorstwo określone w ust. 2 pkt 1.
+
+4. Na wniosek najemcy, który w stosunek najmu wstąpił będąc osobą bliską poprzedniego najemcy, mieszkającą z nim stale aż do chwili jego śmierci, cenę sprzedaży pomniejsza się, uwzględniając - zamiast okresu pracy własnej najemcy albo okresu najmu - okres pracy poprzedniego najemcy w zakładach pracy, o których mowa w ust. 2 pkt 1.
+
+5. W rozumieniu ust. 4 za osoby bliskie zmarłego najemcy uważa się dzieci własne i przysposobione, małżonka (wdowę i wdowca), rodziców oraz dzieci własne i przysposobione tych osób.
+
+6. Przepisy ust. 1-5 stosuje się odpowiednio do sprzedaży ogródków przydomowych i garaży osobom, które z nich korzystają.
 
 **Art. 43.**
 
-1. O przeznaczeniu nierucho wart. 42, Agencja zawiadamia najemców osoby, których mowa wart. 42 ust. 6, którzy terminie dwóch od dnia zawia domienia pisemne celu eksploatacji nabytych Agencja przekazuje, drodze umowy, nie nia mie szkaniom infrastruktury.
+1. O przeznaczeniu do sprzedaży nieruchomości, określonych w art. 42, Agencja zawiadamia na piśmie najemców i osoby, o których mowa w art. 42 ust. 6, którzy w terminie dwóch miesięcy od dnia zawiadomienia mogą złożyć pisemne oś wiadczenie o zamiarze nabycia nieruchomości.
 
-2. ust. 1, je dotacja pokrycie kosztów energii cieplnej potrzeby centralnego ogrzewania dostawy wody, zasadach prze pisach dla mieszkaniowych.
+2. W razie niezłożenia oświadczenia w terminie określonym w ust. 1, Agencja może, w drodze umowy, nieodpłatnie przekazać na własność gminie nieruchomość wraz z towarzyszącą infrastrukturą.
+
+3. Rada Ministrów, w drodze rozporządzenia, określi tryb sprzedaży domów, lokali mieszkalnych, budynków gospodarczych, ogródków przydomowych i garaży wraz z niezbędnymi gruntami.
+
+**Art. 44.**
+
+1. W przypadku utworzenia przez nabywców, o których mowa w art. 42, spółdzielni w celu eksploatacji nabytych mieszkań, Agencja przekazuje, w drodze umowy, nieodpłatnie na własność spółdzielni urządzenia wchodzące w skład towarzyszącej mieszkaniom infrastruktury.
+
+2. Spółdzielni, określonej w ust. 1, przysługuje dotacja z budżetu państwa na częściowe pokrycie kosztów związanych z dostawą energii cieplnej na potrzeby centralnego ogrzewania i dostawy ciepłej wody, na zasadach określonych w odrębnych przepisach dla spółdzielni mieszkaniowych.
 
 **Art. 45.**
 
-1. Agencja których mowa wart. 42, raty. ustalona umowie innego miernika warto Agencja nie stosuje opro centowania. Rata wraz oprb centowa niem podlega wniosek nabyw cy umorzeniu, termin jej przypada okresie, którym nabywca ma ustalone przez organ prawo pomocy
+1. Agencja może rozłożyć spłaty należności, o których mowa w art. 42, na raty. Jeżeli należność pieniężna została ustalona w umowie według innego miernika wartości niż pieniądz, Agencja nie stosuje oprocentowania. Rata należności wraz z oprocentowaniem podlega na wniosek nabywcy umorzeniu, jeżeli termin jej płatności przypada w okresie, w którym nabywca ma ustalone przez właściwy organ prawo do świadczeń z pomocy społecznej.
 
-2. oprocentowania rodzaje mierników ustala Minister Finan sów porozumieniu Ministrem Rolnict wa Gospodarki opinii Prezesa Agencji.
+2. Wysokość oprocentowania oraz rodzaje mierników wartości ustala Minister Finansów w porozumieniu z Ministrem Rolnictwa i Gospodarki Żywnościowej po zasięgnięciu opinii Prezesa Agencji.
 
 **Art. 46.**
 
-1. Najemcy domów lokali mieszkalnych Zasobu, którymi zawarto umowy najmu przed zachowu prawo dalszego zamieszkiwania czas nie Nie dotyczy to najem ców:
+1. Najemcy domów i lokali mieszkalnych przejętych do Zasobu, z którymi zawarto umowy najmu przed przejęciem, zachowują prawo do dalszego zamieszkiwania na czas nie określony. Nie dotyczy to najemców:
 
-- **32)** wart. 48:
-- **1)** domy lokale obiektach wpisanych rejestru zabytków,
-- **2)** lokale budynkach nie zaspokajaniu trzeb mieszkaniowych domy lo kale funkcjonalnie
+- **1)** zajmujących domy i lokale w obiektach wpisanych do rejestru zabytków,
+- **2)** zajmujących lokale w budynkach nie służących wyłącznie zaspokajaniu potrzeb mieszkaniowych oraz domy i lokale funkcjonalnie związane z działalnością gospodarczą.
 
-2. Najemcy, ust. pkt 2, najmie in nego mieszkania Zasobu.";
+2. Najemcy, określonemu w ust. 1 pkt 1 i 2, przysługuje pierwszeństwo w najmie innego mieszkania wchodzącego w skład Zasobu.";
 
-- **a)** ust. otrzymuje brzmienie: ,,1. Agencja gruntami, wykonywaniu innej gospodarcza, celu prze kazania, drodze umowy, gmi nie.",
-- **b)** ust. zdaniu pierwszym dodaje wyrazy "wydanej za Prezesa Agencji";
-- **33)** 49; ,,1. Z dniem niniejszej ustawy upraw- . nienia 42 wym gospodarki rolnej czasu mienia Skarbu podstawie 12 ust. 1."
+- **32)** w art. 48:
+    - **a)** ust. 1 otrzymuje brzmienie: "1. Agencja może wydzielić majątek z niezbędnymi gruntami, służący wykonywaniu innej działalności niż gospodarcza, w celu nieodpłatnego przekazania, w drodze umowy, na własność gminie.",
+    - **b)** w ust. 3 w zdaniu pierwszym dodaje się na końcu wyrazy "wydanej za zgodą Prezesa Agencji";
 
-**Art. 2.** W ustawie dnia 25 1981 r. przed (Dz. U. 1991 r. 18, poz. 80, 75, poz. 329, 101, poz. 444 107, poz. 464 1993 r. 18, poz. 82 60, poz. 280) 49a.
+- **33)** skreśla się art. 49;
+- **34)** art. 50 otrzymuje brzmienie: "Art. 50. 1. Grunty niezbędne do korzystania z budynków i lokali, o których mowa w art. 42-44 i art. 48, uważa się za grunty wyłączone z produkcji rolnej w rozumieniu przepisów ustawy o ochronie gruntów rolnych i leśnych.
 
-**Art. 3.** W ustawie dnia 15 listopada 1984 r. podatku rolnym (Dz. U. 1993 r. 94, poz. 431) wart. 12 ust. pkt 4 wyrazach Funduszu Ziemi" dodaje wyrazy "i grunty tego Funduszu Zasobu Rolnej Skarbu
+2. Grunty określone w ust. 1 podlegają ujawnieniu w miejscowym planie zagospodarowania przestrzennego jako grunty zabudowane.”;
 
-**Art. 4.** W ustawie dnia 25 lipca 1985 r. jednostkach badawczo-rozwojowych (Dz. U. 1991 r. 44, poz. 194 . 107, poz. 464 1992 r. 54, poz. 254) wart. 64 ust. pkt wyraz "nierolne".
+- **35)** skreśla się art. 51;
+- **36)** w art. 52 ust. 1 otrzymuje brzmienie: "1. Z dniem wejścia w życie niniejszej ustawy uprawnienia wynikające z art. 42 przysługują państwowym przedsiębiorstwom gospodarki rolnej do czasu przejęcia mienia Skarbu Państwa na podstawie art. 12 ust. 1."
 
-**Art. 5.** W ustawie dnia 17 maja 1989 r. stosunku Katolickiego Rzeczypospolitej Pol skiej (Dz. U. 29, poz. 154, 1990 r. 51, poz. 297, 55, poz. 321 86, poz. 504, 1991 r. 95, poz. 425 107, poz. 459 1993 r. 7, poz. 34) wprowadza zmiany:
+**Art. 2.** W ustawie z dnia 25 września 1981 r. o przedsiębiorstwach państwowych (Dz.U. z 1991 r. Nr 18, poz. 80, Nr 75, poz. 329, Nr 101, poz. 444 i Nr 107, poz. 464 oraz z 1993 r. Nr 18, poz. 82 i Nr 60, poz. 280) skreśla się art. 49a.
 
-**Art. 6.** W ustawie dnia 10 maja 1990 r. - Przepisy terytorialnym pracownikach (Dz. U. 32, poz. 191, 43, poz. 253 92, poz. 541, 1991 r. 34, poz. 151, 1992 r. 6, poz. 20 1993 r. 40, poz. 180) 15.
+**Art. 3.** W ustawie z dnia 15 listopada 1984 r. o podatku rolnym (Dz.U. z 1993 r. Nr 94, poz.
 
-**Art. 7.** W ustawie dnia 12 1990 r. szkol nictwie (Dz. U. 65, poz. 385 1992 r. 54, poz. 254 63, poz. 314) wart. 22 ust. dodaje wyrazy "z przepisach gospodarowaniu rolnymi Skarbu wa."
+**Art. 4.** W ustawie z dnia 25 lipca 1985 r. o jednostkach badawczo-rozwojowych (Dz.U. z 1991 r. Nr 44, poz. 194 i Nr 107, poz. 464 oraz z 1992 r. Nr 54, poz. 254) w art. 64 w ust. 1 w pkt 1 skreśla się wyraz "nierolne".
 
-**Art. 8.** W ustawie dnia 20 grudnia 1990 r. ubez pieczeniu rolników (Dz. U. 1993 r. 71, poz. Prezesa Agencji Rolnej Skarbu
+**Art. 5.** W ustawie z dnia 17 maja 1989 r. o stosunku Państwa do Kościoła Katolickiego w Rzeczypospolitej Polskiej (Dz.U. Nr 29, poz. 154, z 1990 r. Nr 51, poz. 297, Nr 55, poz. 321 i Nr 86, poz. 504, z 1991 r. Nr 95, poz. 425 i Nr 107, poz. 459 oraz z 1993 r. Nr 7, poz. 34) wprowadza się następujące zmiany:
 
-**Art. 10.** W ustawie dnia 7 1991 r. systemie (Dz. U. 95, poz. 425 , 1992 r. 26, poz. 113 54, poz. 254 1993 r. 127, poz. 585) wart. 81 dodaje wyrazy "z prze pisach gospodarowaniu rolnymi Skarbu
+**Art. 6.** W ustawie z dnia 10 maja 1990 r. - Przepisy wprowadzające ustawę o samorządzie terytorialnym i ustawę o pracownikach samorządowych (Dz.U. Nr 32, poz. 191, Nr 43, poz. 253 i Nr 92, poz. 541, z 1991 r. Nr 34, poz. 151, z 1992 r. Nr 6, poz. 20 oraz z 1993 r. Nr 40, poz. 180) skreśla się art. 15.
 
-**Art. 11.** W ustawie dnia 28 1991 r. lasach (Dz. U. 101, poz. 444 1992 r. 21, poz. 85 54, poz. 254) wprowadza zmiany:
+**Art. 7.** W ustawie z dnia 12 września 1990 r. o szkolnictwie wyższym (Dz.U. Nr 65, poz. 385 oraz 1992 r. Nr 54, poz. 254 i Nr 63, poz. 314) w art. 22 w ust. 3 dodaje się na końcu wyrazy "z wyjątkiem opłat określonych w przepisach o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa."
 
-**Art. 12.** Lasy Lasów wych, nie wydzielone geodezyjnie wowego Funduszu Ziemi zlikwidowanych gos podarki rolnej, dniem ustawy Zasobu Rolnej Skarbu
+**Art. 8.** W ustawie z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz.U. z 1993 r. Nr 71, poz. 342) w art. 58 po ust. 2 dodaje się ust. 2a w brzmieniu: "2a. Należności za odpłatne przejmowanie nieruchomości na własność Skarbu Państwa pokrywane są z budżetu państwa."
 
-**Art. 13.** Z dniem ustawy:
+**Art. 9.** W ustawie z dnia 4 lipca 1991 r. o stosunku Państwa do Polskiego Autokefalicznego Kościoła Prawosławnego (Dz.U. Nr 66, poz. 287 i Nr 95, poz. 425 oraz z 1993 r. Nr 7, poz. 34) w art. 48 dodaje się ust. 5 w brzmieniu: "5. Przedmiotem postępowania, o którym mowa w art. 47 i ustępach poprzedzających, mogą być także nieruchomości pozostające w Zasobie Własności Rolnej Skarbu Państwa. Wydzielenie nieruchomości w celu przekazania kościelnej osobie prawnej następuje za zgodą Prezesa Agencji Własności Rolnej Skarbu Państwa."
 
-**Art. 14.** Nieruchomości inne mienia likwidacji gospodarki rolnej, przekazaniu
+**Art. 10.** W ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz.U. Nr 95, poz. 425, z 1992 r. Nr 26, poz. 113 i Nr 54, poz. 254 oraz z 1993 r., Nr 127, poz. 585) w art. 81 dodaje się na końcu wyrazy "z wyjątkiem opłat określonych w przepisach o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa."
+
+**Art. 11.** W ustawie z dnia 28 września 1991 r. o lasach (Dz.U. Nr 101, poz. 444 oraz z 1992 r. Nr 21, poz. 85 i Nr 54, poz. 254) wprowadza się następujące zmiany:
+
+**Art. 12.** Lasy podlegające zarządowi Lasów Państwowych, nie wydzielone geodezyjnie z nieruchomości Państwowego Funduszu Ziemi oraz z nieruchomości pozostałych po zlikwidowanych państwowych przedsiębiorstwach gospodarki rolnej, z dniem wejścia w życie ustawy przechodzą do Zasobu Własności Rolnej Skarbu Państwa.
+
+**Art. 13.** Z dniem wejścia w życie ustawy:
+
+**Art. 14.** Nieruchomości oraz inne składniki mienia pozostałe po likwidacji zjednoczeń, zrzeszeń państwowych przedsiębiorstw gospodarki rolnej, podlegają przekazaniu do Zasobu Własności Rolnej Skarbu Państwa, jeżeli w dniu wejścia w życie ustawy stanowiły własność Skarbu Państwa. Przekazanie nieruchomości następuje w drodze decyzji wojewody właściwego ze względu na miejsce jej położenia, w terminie trzech miesięcy od dnia wejścia w życie ustawy. Z przekazania nieruchomości sporządza się protokół zdawczo-odbiorczy.
 
 **Art. 15.**
 
-1. ponoszenia rocznych ty wykonywania rolnymi lub wieczystego rolnych powstaje od 1994 r.
+1. Obowiązek ponoszenia opłat rocznych z tytułu wykonywania zarządu nieruchomościami rolnymi lub użytkowania wieczystego nieruchomości rolnych powstaje od 1994 r.
 
-2. Przepisu ust. nie stosuje przekazanie drodze decyzji Prezesa Agencji Rolnej Skarbu
+2. Przepisu ust. 1 nie stosuje się, jeżeli przekazanie nieruchomości w zarząd nastąpiło w drodze decyzji Prezesa Agencji Własności Rolnej Skarbu Państwa.
 
 **Art. 16.**
 
-1. Na wniosek nabywcy wy mienionych wart. 42 ustawy, której mowa wart. umowy, zawartej dniu 31 grudnia 1991 r., nie dnia wniosku, podlega umorzeniu zastosowaniem tym przepisie .
+1. Na wniosek nabywcy nieruchomości wymienionych w art. 42 ustawy, o której mowa w art. 1, należność z tytułu umowy, zawartej po dniu 31 grudnia 1991 r., nie spłacona do dnia złożenia wniosku, podlega umorzeniu w części przekraczającej tę należność, ustaloną z zastosowaniem obniżek określonych w tym przepisie.
 
-2. Wnioski, których mowa ust. 1, okresie 6 od dnia ustawy. We wniosku nabywca jest okoli umorzenie
+2. Wnioski, o których mowa w ust. 1, mogą być złożone w okresie 6 miesięcy od dnia wejścia w życie ustawy. We wniosku nabywca jest obowiązany udokumentować okoliczności uzasadniające umorzenie należności. [Art. 17. Do czasu uregulowania w odrębnej ustawie form zadośćuczynienia z tytułu utraty mienia i zasad przywracania własności osobom, które na podstawie art. 81 ustawy z dnia 29 kwietnia 1985 r. o gospodarce gruntami i wywłaszczaniu nieruchomości (Dz.U. z 1991 r. Nr 30, poz. 127, Nr 103, poz. 446 i Nr 107, poz. 464 oraz z 1993 r. Nr 47, poz. 212 i Nr 131, poz. 629) złożyły wnioski o zaliczenie wartości mienia nieruchomego pozostawionego poza granicami kraju w związku z wojną rozpoczętą w 1939 r., nie zalicza się wartości tego mienia na pokrycie ceny sprzedaży nieruchomości, wchodzących w skład Zasobu Własności Rolnej Skarbu Państwa.]
 
-**Art. 17.** Do czasu uregulowania ustawie form utraty mienia zasad przy wracania osobom, które podstawie 81 ustawy dnia 29 kwietnia 1985 r. gospodarce gruntami (Dz. U. 1991 r. 30, poz. 127, 103, poz. 446 107, poz. 464 1993 47, poz. 212 131, poz. 629) wnioski zaliczenie mienia nieruchomego pozostawionego poza grani cami kraju 1939 r., nie zalicza tego mienia pokrycie ceny Zasobu Rolnej Skarbu
+**Art. 18.** Z dniem wejścia w życie ustawy wygasają przyjęte przez Agencję na podstawie protokołów zdawczo-odbiorczych i nie zaspokojone zobowiązania zlikwidowanych państwowych przedsiębiorstw gospodarki rolnej wobec Skarbu Państwa.
 
-**Art. 18.** Z dniem ustawy przez podstawie zdawczo . -odbiorczych nie zaspokojone nych gospodarki rolnej wo bec Skarbu
+**Art. 19.** Z dniem wejścia w życie ustawy państwowe przedsiębiorstwa gospodarki rolnej tracą zdolność upadłościową. Postępowania upadłościowe prowadzone w stosunku do państwowych przedsiębiorstw gospodarki rolnej ulegają z mocy prawa umorzeniu.
 
-**Art. 19.** Z dniem ustawy gospodarki rolnej prowadzone stosun ku gospodarki rolnej ule mocy prawa umorzeniu.
+**Art. 20.** Minister Rolnictwa i Gospodarki Żywnościowej ogłosi w Dzienniku Ustaw Rzeczypospolitej Polskiej jednolity tekst ustawy o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa oraz o zmianie niektórych ustaw, z uwzględnieniem zmian wynikających z przepisów ogłoszonych przed dniem wydania jednolitego tekstu.
 
-**Art. 20.** Minister Rolnictwa Gospodarki wej Dzienniku Rzeczypospolitej Polskiej jednolity tekst ustawy gospodarowaniu rolnymi Skarbu zmianie niektórych ustaw, zmian przepisów nych przed dniem wydania jednolitego tekstu.
-
-**Art. 21.** Ustawa wchodzi 14 dni od dnia Prezydent Rzeczypospolitej Polskiej: L.
+**Art. 21.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Nowelizacje w pracy DRUK NR 1463 (p.Przerwa) - po pierwszym czytaniu dot. art. 2 (art. 17).
 

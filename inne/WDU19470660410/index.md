@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# ( Dziennik Ustaw Nr 66 porucza Ministrom: Administracji publicz-' nej, Ziem Odzyskanych, Skarbu.
+# Na podstawie art. 4 Ustawy Konstytucyjnej dnia 19 lutego 1947 ustroju i zakresie działania najwyższych organów Rzeczypospolitej Polskiej i ustawy dnia 4 lipca 1947 upoważnieniu Rządu wydawania dekretów mocą ustawy 49, 252) – Rada Ministrów postanawia, a Rada Państwa zatwierdza, co następuje:
 
 | Pole | Wartość |
 |---|---|
@@ -23,37 +23,25 @@ domain: null
 | Ostatnia zmiana | 2015-07-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19470660410) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1947/410/text.pdf) |
 
-**Art. 3.** Dekret niniej,szy wchodzi w dniem Prezydent Rzeczypospolitej: Prezes Rady Ministr6w: Poz. 4QIiLlM.9 Minist~ Admill~łracji Publicznej: Minisrer Odzyskanych: Minister , 410 DEKRE'f dnia 1947 r. o mocy prawnej wieczystych na obszal1ze Ziem Odzyskanych b. Wolnego Na podstawie art. Ustawy Konstytu cyjnej z· dnia 19 lutego 1947 r. o ustroju za- . kresie organów Rzeczy pospoJlitej Polskiej ustawy dnia 4 lipca 1947 r. o' do wydawania dekretów ustawy (Dz. U. R. P. Nr 49" poz, Rada Ministrów postanawia, aRa da zatwierdza, c9
-
-**Art. 1.**
-
-1. Prowadzone dotychcza sowych przepisów wieczyste moc co do poza gra nicami administracyjnymi miast, a cych w zapasu ziemi w rozumieniu de kre.tu dnia 6 1946 o ustroju rol nym osadnictwie na obszarze Ziem Odzyska nych b. Wolnego Miasta (Dz. R. P. Nr 49, 279).
-
-2. wchodzi w zapasu ziemi, wieczysta taci moc w odniesieniu do
-
-3. Wymienione w - niniejszym artyku1e wieczyste jednak znaczenie dokumentów wy przepisów o mocy cej wydanych prz"ez niemiec kie.
-
-**Art. 2.**
-
-1. Dla wymienio nych wart. 1 do czasu nowych wieczystych .prowadzi zbiory dokumentów Ministra dnia 29 listopada 1946 r. o prowadzeniu zbioru dokumen tów oraz o w przedmiocie dania dokumentów (Dz. U. R. P. Nr 66,
-
-- **368)** . wieczystych odbywa sposób'" dziany przy dla których
-
-3. Przy wieczystych wpisów, które .w art. 6 ust. 3, a utrzymanych w mocy podlega ,saniu zgoooie ustaleniem nistracji ogólnej instancji.
-
-**Art. 3.** Dla nie przepisami art. prowadzi nadal wieczyste przepisów dzenia Ministra listopada 1946 o prowadzeniu dotychczaso wych hipotecznych po dniu 31 1946 (Dz. R. Nr 66, poz. 367).
-
-**Art. 4.** Co do nych pr,zez na obszarze Ziem kanych b. Wolnego Miasta sadzie dekretów dnia 6 o ustroju rolnym osadnictwie (Dz. Nr 49, poz. 279) dnia 6 grudnia o przekazywaniu przez mienia rolniczego (Dz. U. R. P. Nr 71, poz. przez dokumentów zbioru dokumentów ma wszelkie skutki su w wieczystej, nie kojmi wiary publicznej. 2. dokumentów do Zlbio.ru mentów jest dopuszczalne gdy o powstanie:
-
-**Art. 5.** Księgi wieczyste dla wymienionych wart. 4 ust. 1 oraz dla nieru któJYch dotychczasowe utra moc na zasadzie art. ne na wniosek administracii ogólnej instancji.
-
-**Art. 1.** Do wniosku o wpisa nie prawa cych w zapasu ziemi w rozumieniu kreiu dnia 6 o ustroju nym osadnictwie na obszarze Ziem Odzyska nych b. V/olnego Miasta Gdailska (Dx. P. Nr 49, poz. na rzecz'3karbu Parlstwa, nabyw-ców lub innych instytucyj uprawnione admin,istracji ogólnei instancji. wpisu prawa tych na rzecz nabywców jest odpis prawomocnepo orzeczenia o wykona niu aktu nadania, a na rzecz cyj - odpis prawomocnego orzeczenia o prze kazaniu. Dla oznaczenia w ra zie jej wystarczy przez administracji ogólnej instancji opis szktc ze wskazaniem obszaru granic. 2. wpisaniem na rzecz nabywcy prawa wp:sdna w wieczystej iako realny -na ceny gospodar stwa 3. Przy Wpisaniu prawa na r:;::ecz osób wymienionych w ust. wy_ · wieczystej wszelkie oqraniczenia prawa oraz wszelkie kiem gruntowych, których utrzy manie administracji oqólnej instancji uzna za w granicach przez --ustalonych. Art. Do zgłoszenia wniosku .o wpisanie na rzecz Skarbu wieczystej prawa do mienia nieruchomegQ nie rolniczego na obszarze Ziem Odzyskanych b. Wolnego Miasta obok wych likwidacyjnych uprawnione administracji or,:;ólnej instancji. POd takiego wpisu jest wniosek, prze na Skarbu Pailstwa na ,mocy dekretu dnia m().fca o opuszczonych poriiemieckich (Dz. R. P. Nr 13, poz. 87).
-
-**Art. 8.** Przy w trybie dekretu dnia 6 grudnia przelcazywaniu przez mienia nierolniczego na obszarze Ziem Odzyskanych b. Wolnego Miasta (Dz. R. P. Nr poz. instytucja kredytowa . jest uprawni,ona do nia vmiosku o ujawnienie praw nabywcy w wieczystej. wpisu prawa jest odpis umowy po przez oraz odpis umowy orzecze ni,a osadnictwa nierolniczego.
-
-**Art. 1.** Vvnioski o wpisy do ksiag wie czystych oparte na przepisach niniejszego dekretu a do nich dokumenty wej od skarbowej. 2. Minister Ziem' Odzyskanych w poro zumieniu Ministrem Skarbu zasady zwalniania od w ust. 1.
-
-**Art. 10.** Wykonanie niniejszego dekretu porucza Ministrom: Ziem Odzyskanycb, Administracji Publicznej, Rolnictwa Reform Rolnych, O,dbudowy, S)<arbu Sprawiedli w zakresie jeqo
-
-**Art. 1.** Dekret niniejszy wchodzi w cie dniem moc art. dekre tu dnia 6 o ustroju rolnym osadnictwie na obszarze Ziem Odzyskanych b. Wolnego Miasta (Dz. R. P. Nr 49, poz. 279) oraz' art. 28 ust: dekretu dnia 6 r. o przekazywaniu przez mienia nierolniczego na obsza1r:ze Ziem Odzyskanych b. Wolnego Miasta ska (Dz. P. Nr poz. 389). Prezydent Rzeczypospolitej: Prezes' Rady Ministr6w: . Minister Ziem Odzyskanych: Minister Administracji Publicznej: Minister Rolnictwa Reform Rolnych: Minister Odbudowy: z. Minister Skarbu: Minist.;:r
+1. 1. Prowadzone według dotychczasowych przepisów księgi wieczyste tracą moc co położonych poza granicami administracyjnymi miast, a wchodzących skład zapasu ziemi rozumieniu dekretu dnia 6 września ustroju rolnym i osadnictwie obszarze Ziem Odzyskanych i b. Wolnego Miasta Gdańska 49, 279).
+Jeżeli część wchodzi skład zapasu ziemi, księga wieczysta traci moc odniesieniu całej nieruchomości.
+3. Wymienione niniejszym artykule księgi wieczyste zachowują jednak znaczenie dokumentów zastrzeżeniem ograniczeń wynikających przepisów mocy obowiązującej orzeczeń wydanych przez sądy niemieckie.
+1. Dla wymienionych art. 1 czasu założenia nowych ksiąg wieczystych urządza się i prowadzi zbiory dokumentów według rozporządzenia Ministra Sprawiedliwości dnia 29 listopada urządzeniu i prowadzeniu zbioru dokumentów oraz postępowaniu przedmiocie składania dokumentów 66, 368).
+Zakładanie ksiąg wieczystych dla tych odbywa się sposób przewidziany przy zakładaniu ksiąg dla nieruchomości, których księgi zaginęły.
+3. Przy zakładaniu ksiąg wieczystych nie uwzględnia się wpisów, które ulegałby wykreśleniu myśl art. 6 3, a treść służebności utrzymanych mocy podlega wpisaniu zgodnie ustaleniem starosty.
+Odzyskanych i b. Wolnego Miasta Gdańska zasadzie dekretów dnia 6 września ustroju rolnym i osadnictwie 49, 279) i dnia 6 przekazywaniu przez Państwo mienia nierolniczego 71, 389) zarządzone przez sąd złożenie dokumentów zbioru dokumentów ma wszelkie skutki wpisu księdze wieczystej, nie wyłączając rękojmi wiary publicznej.
+Złożenie dokumentów zbioru dokumentów jest dopuszczalne również, gdy chodzi powstanie:
+1) odrębnej lokalu;
+2) hipotek i ciężarów realnych.
+3. Sąd urzędu wyda nabywcy dokument stwierdzający jego prawo własności.
+5. Księgi wieczyste dla wymienionych art. 4 1 oraz dla nieruchomości, których dotychczasowe księgi utraciły moc zasadzie art. 1, mogą być zakładane także wniosek starosty.
+6. 1. Do zgłoszenia wniosku wpisanie wchodzących skład zapasu ziemi rozumieniu dekretu dnia 6 września ustroju rolnym i osadnictwie obszarze Ziem Odzyskanych i b. Wolnego Miasta Gdańska 49, 279) rzecz Skarbu Państwa, nabywców lub innych władz i instytucyj uprawnieni są starostowie. Podstawą wpisu tych rzecz nabywców jest odpis prawomocnego orzeczenia wykonaniu aktu nadania, a rzecz władz i instytucyj - odpis prawomocnego orzeczenia przekazaniu. Dla oznaczenia razie jej podziału wystarczy zaświadczony przez starostę opis i szkic ze wskazaniem obszaru i granic.
+wszelkie obciążenia odnośnej wyjątkiem służebności gruntowych, których utrzymanie starosta uzna za niezbędne granicach przez nią ustalonych.
+7. Do zgłoszenia wniosku wpisanie rzecz Skarbu Państwa księdze wieczystej mienia nieruchomego nierolniczego obszarze Ziem Odzyskanych i b. Wolnego Miasta Gdańska obok okręgowych urzędów likwidacyjnych uprawnieni są starostowie. Podstawą takiego wpisu jest zaświadczenie władzy składającej wniosek, że nieruchomość przeszła własność Skarbu Państwa mocy dekretu dnia 8 marca majątkach opuszczonych i poniemieckich 13, 87).
+7a. Zadania starosty określone art. 2 3, art. 5, art. 6 1 i 3 oraz art. 7 są zadaniami zakresu administracji rządowej.
+8. Przy sprzedaży trybie dekretu dnia 6 przekazywaniu przez Państwo mienia nierolniczego obszarze Ziem Odzyskanych i b. Wolnego Miasta Gdańska 71, 389) instytucja kredytowa sporządzająca umowę jest uprawniona zgłoszenia wniosku ujawnienie praw nabywcy księdze wieczystej. Podstawą wpisu jest odpis umowy sprzedaży poświadczony przez instytucję kredytową oraz odpis stanowiącego podstawę umowy orzeczenia komisji osadnictwa nierolniczego.
+9. 1. Wnioski wpisy ksiąg wieczystych oparte przepisach niniejszego dekretu podlegają opłatom sądowym, a dołączone nich dokumenty opłacie sądowej od załączników i opłacie skarbowej.
+Minister Ziem Odzyskanych porozumieniu Ministrem Skarbu może ustalić zasady zwalniania od opłat, określonych 1.
+10. Wykonanie niniejszego dekretu porucza się Ministrom: Ziem Odzyskanych, Administracji Publicznej, Rolnictwa i Reform Rolnych, Odbudowy, Skarbu i Sprawiedliwości każdemu zakresie jego właściwości.
+i b. Wolnego Miasta Gdańska 71, 389).
 

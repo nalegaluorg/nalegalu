@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 1 grudnia 2016 r.
+# o zmianie ustawy o promocji zatrudnienia i instytucjach rynku pracy oraz ustawy o świadczeniach przedemerytalnych
+
+*USTAWA z dnia 6 października 2016 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,13 +26,9 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001940) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1940/text.pdf) |
 
-Poz. 1940
-USTAWA z dnia 6 października 2016 r.
-o zmianie ustawy o promocji zatrudnienia i instytucjach rynku pracy oraz ustawy o świadczeniach przedemerytalnych
-
-**Art. 1.** W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2016 r. poz. 645, 691, 868, 1265, 1579 i 1860) w art. 71 w ust. 2 w pkt 8 kropk ę zast ę puje si ę ś rednikiem i dodaje si ę pkt 9 w brzmieniu: „9) pobierania świadczenia pielęgnacyjnego lub specjalnego zasiłku opiekuńczego na podstawie przepisów o świadczeniach rodzinnych, lub zasiłku dla opiekuna na podstawie przepisów o ustaleniu i wypłacie zasiłków dla opiekunów, jeżeli utrata prawa do nich była spowodowana śmiercią osoby, nad którą opieka była sprawowana.”.
+**Art. 1.** W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2016 r. poz. 645, 691, 868, 1265, 1579 i 1860) w art. 71 w ust. 2 w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 w brzmieniu: „9) pobierania świadczenia pielęgnacyjnego lub specjalnego zasiłku opiekuńczego na podstawie przepisów o świadczeniach rodzinnych, lub zasiłku dla opiekuna na podstawie przepisów o ustaleniu i wypłacie zasiłków dla opiekunów, jeżeli utrata prawa do nich była spowodowana śmiercią osoby, nad którą opieka była sprawowana.”.
 
 **Art. 2.** W ustawie z dnia 30 kwietnia 2004 r. o świadczeniach przedemerytalnych (Dz. U. z 2013 r. poz. 170 oraz z 2014 r. poz. 598 i 1682) wprowadza się następujące zmiany:
 
-**Art. 3.** Ustawa wchodzi w ż ycie z dniem 1 stycznia 2017 r. Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 3.** Ustawa wchodzi w życie z dniem 1 stycznia 2017 r. Prezydent Rzeczypospolitej Polskiej: A. Duda
 

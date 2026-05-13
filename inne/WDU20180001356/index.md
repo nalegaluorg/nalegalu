@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 13 lipca 2018 r.
+# o zmianie ustawy o biokomponentach i biopaliwach ciekłych oraz niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,9 +24,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001356) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1356/text.pdf) |
 
-USTAWA z dnia 6 czerwca 2018 r.
-o zmianie ustawy o biokomponentach i biopaliwach ciekłych oraz niektórych innych ustaw
-
 **Art. 1.** W ustawie z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych (Dz. U. z 2018 r. poz. 1344) wprowadza się następujące zmiany:
 
 **Art. 28z.**
@@ -35,14 +32,15 @@ o zmianie ustawy o biokomponentach i biopaliwach ciekłych oraz niektórych inny
 
 2. Dysponentem Funduszu jest minister właściwy do spraw energii.
 
+3. Zarządzanie Funduszem powierza się NFOŚiGW.
+
 4. Bank Gospodarstwa Krajowego, zwany dalej „BGK”, prowadzi obsługę bankową Funduszu oraz świadczy na rzecz tego Funduszu usługi konsultacyjno-doradcze sprawach finansowych. Art. 28za. Do zadań dysponenta Funduszu należy szczególności:
 
 - **1)** nadzór nad wykonywaniem przez NFOŚiGW zadań, o których mowa art. 28zb ust. 1;
 - **2)** sporządzanie rocznego planu finansowego Funduszu;
 - **3)** zatwierdzanie przedłożonego przez NFOŚiGW sprawozdania z wykonania rocznego planu finansowego Funduszu;
 - **4)** wskazywanie trybu wyboru projektów do wsparcia;
-- **5)** pisemne zatwierdzanie projektów do wsparcia;
-- **6)** prowadzenie działalności informacyjnej i promocyjnej zakresie zadań realizowanych przez Fundusz. Art. 28zb. 1. Do zadań NFOŚiGW zakresie zarządzania Funduszem należy:
+- **5)** pisemne zatwierdzanie projektów do wsparcia; należy:
 - **1)** przeprowadzanie postępowania zakresie wyboru projektów do wsparcia trybie konkursowym albo pozakonkursowym;
 - **2)** rekomendowanie dysponentowi Funduszu projektów do wsparcia;
 - **3)** zawieranie umów o wsparcie oraz wykonywanie praw i obowiązków wynikających z tych umów, z wyłączeniem umów o wsparcie udzielane formie, o której mowa art. 28ze ust. 3 pkt 3;
@@ -58,21 +56,20 @@ o zmianie ustawy o biokomponentach i biopaliwach ciekłych oraz niektórych inny
 
 2. Wysokość wynagrodzenia BGK za prowadzenie obsługi bankowej Funduszu nie może przekroczyć średniej wysokości wynagrodzenia pobieranego przez BGK za obsługę bankową innych państwowych funduszy celowych. Art. 28zd. 1. Przychodami Funduszu są:
 
-- **1)** dotacje celowe z budżetu państwa wysokości do 1,5% planowanych poprzednim roku budżetowym wpływów z podatku akcyzowego od paliw silnikowych; wysokość dotacji celowej określa ustawa budżetowa części budżetowej, której dysponentem jest minister właściwy do spraw energii;
+- **1)** dotacje celowe z budżetu państwa wysokości do 1,5% planowanych poprzednim roku budżetowym wpływów z podatku akcyzowego od
 - **2)** odsetki od wolnych środków Funduszu przekazanych zarządzanie zgodnie z przepisami o finansach publicznych;
-- **3)** środki przekazywane przez operatora systemu przesyłowego elektroenergetycznego wysokości 0,1% uzasadnionego zwrotu z kapitału zaangażowanego wykonywaną działalność gospodarczą zakresie przesyłania energii elektrycznej, o których mowa art. 16b ust. 3 ustawy z dnia 10 kwietnia 1997 r. Prawo energetyczne;
+- **3)** środki przekazywane przez operatora systemu przesyłowego elektroenergetycznego wysokości 0,1% uzasadnionego zwrotu z kapitału zaangażowanego wykonywaną działalność gospodarczą zakresie przesyłania energii elektrycznej, o których mowa art. 16b ust. 3 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne;
 - **4)** wpływy z tytułu opłaty zastępczej, o której mowa art. 23 ust. 1a;
-- **5)** wpływy z tytułu opłaty emisyjnej, o której mowa art. 321a ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (Dz. U. z 2018 r. poz. 799 i 1356), części przypadającej Funduszowi;
+- **5)** wpływy z tytułu opłaty emisyjnej, o której mowa art. 321a ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2018 r. poz. 799 i 1356), części przypadającej Funduszowi;
 - **6)** inne przychody.
 
-2. Środki, o których mowa ust. 1 pkt 3, operator systemu przesyłowego elektroenergetycznego przekazuje na Fundusz do dnia 30 czerwca każdego roku budżetowego.
+2. Środki, o których mowa ust. 1 pkt 3, operator systemu przesyłowego elektroenergetycznego przekazuje na Fundusz do dnia 30 czerwca każdego roku budżetowego. Art. 28ze. 1. Środki Funduszu przeznacza się na:
 
 - **1)** wsparcie inwestycji zakresie wytwarzania biokomponentów, biopaliw ciekłych lub innych paliw odnawialnych;
 - **2)** wsparcie budowy lub rozbudowy infrastruktury dla dystrybucji lub sprzedaży sprężonego gazu ziemnego (CNG) lub skroplonego gazu ziemnego (LNG), tym pochodzącego z biometanu, lub wodoru lub budowy lub rozbudowy infrastruktury do ładowania pojazdów energią elektryczną, wykorzystywanych transporcie;
 - **3)** pomoc dla wytwórców biokomponentów lub producentów biokomponentów, paliw ciekłych, biopaliw ciekłych, innych paliw odnawialnych, sprężonego gazu ziemnego (CNG) lub skroplonego gazu ziemnego (LNG), tym pochodzącego z biometanu, wykorzystywanych transporcie;
 - **4)** wsparcie dla:
-    - **a)** producentów środków transportu wykorzystujących do napędu energię elektryczną, sprężony gaz ziemny (CNG) lub skroplony gaz ziemny (LNG), tym pochodzący z biometanu, lub wodór,
-    - **b)** przedsiębiorców rozumieniu przepisów ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców prowadzących działalność zakresie produkcji podzespołów do środków transportu, o których mowa lit. a;
+    - **b)** przedsiębiorców rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców prowadzących działalność zakresie produkcji podzespołów do środków transportu, o których mowa lit. a;
 
 - **5)** wsparcie publicznego transportu zbiorowego działającego szczególności aglomeracjach miejskich, uzdrowiskach, na obszarach, na których ustanowione zostały formy ochrony przyrody zgodnie z przepisami o ochronie przyrody, wykorzystującego biopaliwa ciekłe, inne paliwa odnawialne, sprężony gaz ziemny (CNG) lub skroplony gaz ziemny (LNG), tym pochodzący z biometanu, wodór lub energię elektryczną;
 - **6)** dofinansowanie opłat portowych pobieranych za cumowanie przy nabrzeżu lub przystani jednostek pływających zasilanych sprężonym gazem ziemnym (CNG) lub skroplonym gazem ziemnym (LNG), tym pochodzącym z biometanu, lub wodorem, lub wykorzystujących do napędu energię elektryczną;
@@ -81,8 +78,7 @@ o zmianie ustawy o biokomponentach i biopaliwach ciekłych oraz niektórych inny
     - **b)** wdrożeń eksploatacyjnych wyników badań, o których mowa lit. a;
 
 - **8)** wsparcie programów edukacyjnych promujących wykorzystanie biopaliw ciekłych lub innych paliw odnawialnych, sprężonego gazu ziemnego (CNG) lub skroplonego gazu ziemnego (LNG), tym pochodzącego z biometanu, lub wodoru, lub energii elektrycznej, wykorzystywanych transporcie;
-- **9)** wsparcie zakupu nowych pojazdów i jednostek pływających zasilanych biopaliwami ciekłymi, sprężonym gazem ziemnym (CNG) lub skroplonym gazem ziemnym (LNG), tym pochodzącym z biometanu, lub wodorem, lub wykorzystujących do napędu energię elektryczną;
-- **10)** wsparcie działań związanych z analizą i badaniem rynku biokomponentów, paliw ciekłych, biopaliw ciekłych, innych paliw odnawialnych, sprężonego gazu ziemnego (CNG) lub skroplonego gazu ziemnego (LNG), tym pochodzącego z biometanu, lub wodoru, lub energii elektrycznej, wykorzystywanych transporcie;
+- **9)** wsparcie zakupu nowych pojazdów i jednostek pływających zasilanych biopaliwami ciekłymi, sprężonym gazem ziemnym (CNG) lub skroplonym paliw ciekłych, biopaliw ciekłych, innych paliw odnawialnych, sprężonego gazu ziemnego (CNG) lub skroplonego gazu ziemnego (LNG), tym pochodzącego z biometanu, lub wodoru, lub energii elektrycznej, wykorzystywanych transporcie;
 - **11)** promocję wytwarzania i wykorzystywania biokomponentów i biopaliw ciekłych;
 - **12)** wykonywanie innych zadań określonych odrębnych ustawach.
 
@@ -96,29 +92,27 @@ o zmianie ustawy o biokomponentach i biopaliwach ciekłych oraz niektórych inny
 
 - **1)** dotacji;
 - **2)** pożyczek, tym udzielanych jednostkom samorządu terytorialnego, oraz innego zwrotnego wsparcia finansowego;
+- **3)** obejmowania lub nabywania przez dysponenta Funduszu, na rzecz Skarbu Państwa:
     - **a)** akcji lub udziałów spółek,
-    - **b)** obligacji emitowanych przez podmioty inne niż Skarb Państwa lub jednostki samorządu terytorialnego które prowadzą działalność zakresie wskazanym ust. 1 pkt 1–5 i 7.
+    - **b)** obligacji emitowanych przez podmioty inne niż Skarb Państwa lub jednostki samorządu terytorialnego – które prowadzą działalność zakresie wskazanym ust. 1 pkt 1–5 i 7.
 
 4. Wybór określonej formy wsparcia należy do dysponenta Funduszu.
 
-5. W przypadku terminowego wykonania przedsięwzięcia objętego wsparciem Funduszu oraz osiągnięcia planowanych efektów określonych umowie, o której mowa art. 28zp ust. 1, pożyczki, o których mowa ust. 3 pkt 2, mogą być umarzane części.
-
-6. Umorzenia, o którym mowa ust. 5, dokonuje NFOŚiGW, formie pisemnej na podstawie przepisów prawa cywilnego, na wniosek podmiotu, któremu udzielono pożyczki. Art. 28zf. 1. W zakresie, jakim wsparcie, o którym mowa art. 28ze ust. 1, stanowi pomoc publiczną rozumieniu art. 107 ust. 1 Traktatu o funkcjonowaniu Unii Europejskiej, zastosowanie mają szczegółowe warunki udzielania tej pomocy lub pomocy de minimis.
+5. W przypadku terminowego wykonania przedsięwzięcia objętego wsparciem Funduszu oraz osiągnięcia planowanych efektów określonych pisemnej na podstawie przepisów prawa cywilnego, na wniosek podmiotu, któremu udzielono pożyczki. Art. 28zf. 1. W zakresie, jakim wsparcie, o którym mowa art. 28ze ust. 1, stanowi pomoc publiczną rozumieniu art. 107 ust. 1 Traktatu o funkcjonowaniu Unii Europejskiej, zastosowanie mają szczegółowe warunki udzielania tej pomocy lub pomocy de minimis.
 
 2. Wsparcie, o którym mowa art. 28ze ust. 1, może być udzielone na działania określone w:
 
-- **1)** pkt 1 wytwórcy, producentowi oraz rolnikowi;
-- **2)** pkt 2 przedsiębiorcy rozumieniu przepisów ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców;
-- **3)** pkt 3 wytwórcy i producentowi;
-- **4)** pkt 4:
+- **1)** pkt 1 – wytwórcy, producentowi oraz rolnikowi;
+- **2)** pkt 2 – przedsiębiorcy rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców;
+- **3)** pkt 3 – wytwórcy i producentowi;
+- **4)** pkt 4: – Prawo przedsiębiorców prowadzącemu działalność zakresie produkcji podzespołów do środków transportu, o których mowa lit. a;
     - **a)** producentowi środków transportu wykorzystujących do napędu energię elektryczną, sprężony gaz ziemny (CNG) lub skroplony gaz ziemny (LNG), tym pochodzący z biometanu, lub wodór,
-    - **b)** przedsiębiorcy rozumieniu przepisów ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców prowadzącemu działalność zakresie produkcji podzespołów do środków transportu, o których mowa lit. a;
+    - **b)** przedsiębiorcy rozumieniu przepisów ustawy z dnia 6 marca 2018 r.
 
-- **5)** pkt 5 przedsiębiorcy rozumieniu przepisów ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców świadczącemu na podstawie umowy usługi zakresie publicznego transportu zbiorowego, gminie rozumieniu art. 1 ustawy z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2018 r. poz. 994, 1000 i 1349) oraz powiatowi rozumieniu art. 1 ustawy z dnia 5 czerwca 1998 r. o samorządzie powiatowym (Dz. U. z 2018 r. poz. 995, 1000 i 1349);
-- **6)** pkt 6 podmiotowi zarządzającemu portem;
-- **7)** pkt 7 jednostce naukowej, o której mowa art. 2 pkt 9 lit. a–d ustawy z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki (Dz. U. z 2018 r. poz. 87), oraz konsorcjum naukowemu, o którym mowa art. 2 pkt 12 ustawy z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki;
-- **8)** pkt 8, 10 i 11 przedsiębiorcy rozumieniu przepisów ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców, izbie gospodarczej rozumieniu przepisów ustawy z dnia 30 maja 1989 r. o izbach gospodarczych (Dz. U. z 2017 r. poz. 1218 oraz z 2018 r. poz. 650), organizacji pożytku publicznego rozumieniu art. 20 ust. 1 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2018 r. poz. 450, 650 i 723), związkowi pracodawców rozumieniu przepisów ustawy z dnia 23 maja 1991 r. o organizacjach pracodawców (Dz. U. z 2015 r. poz. 2029), stowarzyszeniu rozumieniu przepisów ustawy z dnia 7 kwietnia 1989 r. Prawo o stowarzyszeniach (Dz. U. z 2017 r. poz. 210 oraz z 2018 r. poz. 723) lub jednostce doradztwa rolniczego rozumieniu przepisów ustawy z dnia 22 października 2004 r. o jednostkach doradztwa rolniczego (Dz. U. z 2018 r. poz. 711);
-- **9)** pkt 9 przedsiębiorcy rozumieniu przepisów ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców lub jednostce samorządu terytorialnego.
+- **5)** pkt 5 – przedsiębiorcy rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców świadczącemu na podstawie umowy usługi zakresie publicznego transportu zbiorowego, gminie rozumieniu art. 1 ustawy z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2018 r. poz. 994, 1000 i 1349) oraz powiatowi rozumieniu art. 1 ustawy z dnia 5 czerwca 1998 r. o samorządzie powiatowym (Dz. U. z 2018 r. poz. 995, 1000 i 1349);
+- **6)** pkt 6 – podmiotowi zarządzającemu portem;
+- **7)** pkt 7 – jednostce naukowej, o której mowa art. 2 pkt 9 lit. a–d ustawy z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki (Dz. U. z 2018 r. 6 marca 2018 r. – Prawo przedsiębiorców, izbie gospodarczej rozumieniu przepisów ustawy z dnia 30 maja 1989 r. o izbach gospodarczych (Dz. U. z 2017 r. poz. 1218 oraz z 2018 r. poz. 650), organizacji pożytku publicznego rozumieniu art. 20 ust. 1 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2018 r. poz. 450, 650 i 723), związkowi pracodawców rozumieniu przepisów ustawy z dnia 23 maja 1991 r. o organizacjach pracodawców (Dz. U. z 2015 r. poz. 2029), stowarzyszeniu rozumieniu przepisów ustawy z dnia 7 kwietnia 1989 r. – Prawo o stowarzyszeniach (Dz. U. z 2017 r. poz. 210 oraz z 2018 r. poz. 723) lub jednostce doradztwa rolniczego rozumieniu przepisów ustawy z dnia 22 października 2004 r. o jednostkach doradztwa rolniczego (Dz. U. z 2018 r. poz. 711);
+- **9)** pkt 9 – przedsiębiorcy rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców lub jednostce samorządu terytorialnego.
 
 3. Wsparcie, o którym mowa art. 28ze ust. 1, może być udzielone do dnia:
 
@@ -127,10 +121,12 @@ o zmianie ustawy o biokomponentach i biopaliwach ciekłych oraz niektórych inny
 - **3)** 31 grudnia 2025 r. na działania określone pkt 1;
 - **4)** 31 grudnia 2027 r. na działania określone pkt 2, 8 i 9.
 
-4. Maksymalny limit wsparcia, o którym mowa art. 28ze ust. 1, może wynosić do 100% kosztów kwalifikujących się do objęcia wsparciem. ministrem właściwym do spraw gospodarki, ministrem właściwym do spraw środowiska, ministrem właściwym do spraw gospodarki morskiej oraz ministrem właściwym do spraw żeglugi śródlądowej określi, drodze rozporządzenia:
+4. Maksymalny limit wsparcia, o którym mowa art. 28ze ust. 1, może wynosić do 100% kosztów kwalifikujących się do objęcia wsparciem.
+
+5. Minister właściwy do spraw energii porozumieniu z ministrem właściwym do spraw finansów publicznych, ministrem właściwym do spraw gospodarki, ministrem właściwym do spraw środowiska, ministrem właściwym do spraw gospodarki morskiej oraz ministrem właściwym do spraw żeglugi śródlądowej określi, drodze rozporządzenia:
 
 - **1)** szczegółowe warunki udzielania wsparcia ze środków Funduszu,
-- **2)** szczegółowy sposób rozliczania wsparcia udzielonego ze środków Funduszu mając na względzie skuteczność wsparcia niskoemisyjnego transportu, rynku biokomponentów i biopaliw ciekłych oraz prawidłowe wykorzystanie udzielonego wsparcia. Art. 28zg. 1. Wybór projektów do wsparcia ze środków Funduszu jest dokonywany trybie:
+- **2)** szczegółowy sposób rozliczania wsparcia udzielonego ze środków Funduszu Art. 28zg. 1. Wybór projektów do wsparcia ze środków Funduszu jest dokonywany trybie:
 - **1)** konkursowym;
 - **2)** pozakonkursowym.
 
@@ -143,13 +139,11 @@ o zmianie ustawy o biokomponentach i biopaliwach ciekłych oraz niektórych inny
 - **3)** wyniku realizacji projektu osiągnie efekt ekologiczny;
 - **4)** nie zalega z podatkami, opłatami oraz składkami na ubezpieczenia społeczne i zdrowotne;
 - **5)** zapewni, że środki finansowe na realizację projektu nie będą pochodzić ze źródeł nieujawnionych lub z prania pieniędzy;
-- **6)** nie był karany za przestępstwo skarbowe, przestępstwo przeciwko mieniu, wiarygodności dokumentów, a także przeciwko obrotowi pieniędzmi i papierami wartościowymi oraz obrotowi gospodarczemu, a przypadku wnioskodawcy będącego osobą prawną lub jednostką organizacyjną niebędącą osobą prawną, której odrębna ustawa przyznaje zdolność prawną którego odpowiednio członkowie zarządu lub osoby uprawnione do reprezentowania nie były karane za te przestępstwa.
+- **6)** nie był karany za przestępstwo skarbowe, przestępstwo przeciwko mieniu, wiarygodności dokumentów, a także przeciwko obrotowi pieniędzmi i papierami wartościowymi oraz obrotowi gospodarczemu, a przypadku wnioskodawcy będącego osobą prawną lub jednostką organizacyjną niebędącą osobą prawną, której odrębna ustawa przyznaje zdolność prawną – którego odpowiednio członkowie zarządu lub osoby uprawnione do reprezentowania nie były karane za te przestępstwa.
 
 4. Projekty do wsparcia trybie konkursowym oraz pozakonkursowym są oceniane według następujących kryteriów:
 
-- **1)** znaczenia projektu dla potrzeb rozwoju rynku biokomponentów, paliw ciekłych, biopaliw ciekłych, innych paliw odnawialnych, sprężonego gazu ziemnego (CNG) lub skroplonego gazu ziemnego (LNG), tym pochodzącego z biometanu, wodoru oraz energii elektrycznej, wykorzystywanych transporcie;
-- **2)** adekwatności i trafności zaplanowanych działań i metod ich realizacji odniesieniu do celów wspieranych ze środków Funduszu;
-- **3)** oceny wysokości planowanych kosztów realizacji projektu stosunku do jego zakresu rzeczowego;
+- **1)** znaczenia projektu dla potrzeb rozwoju rynku biokomponentów, paliw ciekłych, biopaliw ciekłych, innych paliw odnawialnych, sprężonego gazu ziemnego (CNG) lub skroplonego gazu ziemnego (LNG), tym pochodzącego z biometanu, wodoru oraz energii elektrycznej, wykorzystywanych transporcie; jego zakresu rzeczowego;
 - **4)** zdolności organizacyjnej wnioskodawcy do realizacji projektu oraz przygotowania instytucjonalnego do jego wdrożenia.
 
 5. Wsparcia udziela się projektom, które uzyskały najwyższą ocenę postępowaniu zakresie wyboru projektów do wsparcia, aż do wyczerpania środków finansowych przeznaczonych na wsparcie tym postępowaniu.
@@ -163,15 +157,13 @@ o zmianie ustawy o biokomponentach i biopaliwach ciekłych oraz niektórych inny
 - **1)** oznaczenie wnioskodawcy, adresu jego siedziby albo adresu zamieszkania;
 - **2)** numer identyfikacji podatkowej (NIP), jeżeli został nadany;
 - **3)** opis projektu, na realizację którego może zostać przyznane wsparcie;
+- **4)** określenie: przeciwko mieniu, wiarygodności dokumentów, a także przeciwko obrotowi pieniędzmi i papierami wartościowymi oraz obrotowi gospodarczemu, a przypadku wnioskodawcy będącego osobą prawną lub jednostką organizacyjną niebędącą osobą prawną, której odrębna ustawa przyznaje zdolność prawną – oświadczenia o niekaralności za te przestępstwa złożone przez wszystkich członków zarządu lub osoby uprawnione do reprezentowania wnioskodawcy;
     - **a)** planowanego terminu rozpoczęcia i zakończenia realizacji projektu,
     - **b)** rodzaju i wysokości kosztów objętych wsparciem,
     - **c)** wysokości wnioskowanego wsparcia,
     - **d)** łącznej wartości projektu do wsparcia,
     - **e)** źródeł finansowania projektu.
 
-4. Do wniosku o wsparcie załącza się dokumenty dotyczące:
-
-- **1)** sytuacji formalnoprawnej wnioskodawcy, tym oświadczenia wnioskodawcy o niekaralności za przestępstwo skarbowe, przestępstwo przeciwko mieniu, wiarygodności dokumentów, a także przeciwko obrotowi pieniędzmi i papierami wartościowymi oraz obrotowi gospodarczemu, a przypadku wnioskodawcy będącego osobą prawną lub jednostką organizacyjną niebędącą osobą prawną, której odrębna ustawa przyznaje zdolność prawną oświadczenia o niekaralności za te przestępstwa złożone przez wszystkich członków zarządu lub osoby uprawnione do reprezentowania wnioskodawcy;
 - **2)** posiadanego potencjału kadrowego i organizacyjnego;
 - **3)** technicznych możliwości realizacji projektu;
 - **4)** efektu ekologicznego realizacji projektu;
@@ -185,11 +177,8 @@ o zmianie ustawy o biokomponentach i biopaliwach ciekłych oraz niektórych inny
 - **2)** którego konieczność pilnej realizacji uniemożliwia zastosowanie trybu konkursowego;
 - **3)** które posiada unikalny potencjał rozwojowy i innowacyjny.
 
-3. Warunkiem wyboru trybu pozakonkursowego jest uzyskanie przez dysponenta Funduszu dwóch niezależnych opinii sporządzonych przez doradców, o których mowa art. 28ze ust. 2 pkt 2, potwierdzających występowanie przesłanki, o której mowa ust. 1, oraz przynajmniej jednej z przesłanek, o których mowa ust. 2.
+3. Warunkiem wyboru trybu pozakonkursowego jest uzyskanie przez dysponenta Funduszu dwóch niezależnych opinii sporządzonych przez doradców, o których mowa art. 28ze ust. 2 pkt 2, potwierdzających występowanie przesłanki, o której mowa ust. 1, oraz przynajmniej jednej z przesłanek, o których mowa ust. 2. Publicznej na stronach podmiotowych urzędu obsługującego ministra właściwego do spraw energii;
 
-4. Po uzyskaniu opinii, o których mowa ust. 3, dysponent Funduszu, przypadku wyboru trybu pozakonkursowego:
-
-- **1)** informację o zastosowaniu tego trybu zamieszcza Biuletynie Informacji Publicznej na stronach podmiotowych urzędu obsługującego ministra właściwego do spraw energii;
 - **2)** pisemnie informuje potencjalnego wnioskodawcę o zastosowaniu tego trybu stosunku do zidentyfikowanego przedsięwzięcia i możliwości złożenia wniosku o wsparcie projektu dotyczącego tego przedsięwzięcia.
 
 5. Informacje, o których mowa ust. 4, zawierają szczególności:
@@ -206,7 +195,7 @@ o zmianie ustawy o biokomponentach i biopaliwach ciekłych oraz niektórych inny
 - **2)** określenie podmiotów, które mogą ubiegać się o wsparcie;
 - **3)** maksymalną wysokość lub poziom wsparcia przewidywane na jeden projekt;
 - **4)** kryteria wyboru projektów do wsparcia, o których mowa art. 28zg ust. 4;
-- **5)** termin i miejsce składania wniosków o udzielenie wsparcia.
+- **5)** termin i miejsce składania wniosków o udzielenie wsparcia. Art. 28zk. 1. Postępowanie zakresie wyboru projektów do wsparcia przeprowadza NFOŚiGW.
 
 2. W celu przeprowadzenia postępowania, o którym mowa ust. 1, NFOŚiGW powołuje Komisję do Oceny Projektów, zwaną dalej „Komisją”.
 
@@ -214,12 +203,9 @@ o zmianie ustawy o biokomponentach i biopaliwach ciekłych oraz niektórych inny
 
 4. Do zadań Komisji należy szczególności:
 
-- **1)** ocena wniosków o wsparcie złożonych postępowaniu, o którym mowa ust. 1;
-- **2)** przygotowanie dla dysponenta Funduszu rekomendacji dotyczącej projektów do wsparcia ze środków Funduszu.
+- **1)** ocena wniosków o wsparcie złożonych postępowaniu, o którym mowa ust. 1; Regulamin jest zatwierdzany przez dysponenta Funduszu i ogłaszany na stronie internetowej NFOŚiGW. Art. 28zl. 1. Komisja dokonuje oceny złożonych wniosków o wsparcie i przekazuje ją dysponentowi Funduszu wraz z uzasadnieniem i rekomendacją projektów, do zatwierdzenia.
 
-5. Tryb pracy Komisji określa regulamin ustalany przez NFOŚiGW. Regulamin jest zatwierdzany przez dysponenta Funduszu i ogłaszany na stronie internetowej NFOŚiGW. Art. 28zl. 1. Komisja dokonuje oceny złożonych wniosków o wsparcie i przekazuje ją dysponentowi Funduszu wraz z uzasadnieniem i rekomendacją projektów, do zatwierdzenia.
-
-2. NFOŚiGW przekazuje niezwłocznie wnioskodawcom pisemną informację o zakończeniu oceny ich wniosków i wynikach tej oceny wraz z jej uzasadnieniem. Do doręczenia informacji o zakończeniu oceny wniosku i jej wyniku stosuje się przepisy działu I rozdziału 8 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
+2. NFOŚiGW przekazuje niezwłocznie wnioskodawcom pisemną informację o zakończeniu oceny ich wniosków i wynikach tej oceny wraz z jej uzasadnieniem. Do doręczenia informacji o zakończeniu oceny wniosku i jej wyniku stosuje się przepisy działu I rozdziału 8 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
 3. Jeżeli wniosek otrzymał negatywną ocenę, informacja, o której mowa ust. 2, zawiera pouczenie o możliwości wniesienia protestu, określające:
 
@@ -233,11 +219,9 @@ o zmianie ustawy o biokomponentach i biopaliwach ciekłych oraz niektórych inny
 - **2)** numer wniosku o wsparcie;
 - **3)** zarzuty:
     - **a)** odnoszące się do kryteriów wyboru projektów do wsparcia, z których oceną wnioskodawca się nie zgadza, lub
-    - **b)** dotyczące naruszenia postępowania przy dokonywaniu oceny wniosku o wsparcie, jeżeli miało wpływ na wynik tego postępowania wraz z ich uzasadnieniem;
+    - **b)** dotyczące naruszenia postępowania przy dokonywaniu oceny wniosku o wsparcie, jeżeli miało wpływ na wynik tego postępowania – wraz z ich uzasadnieniem;
 
-- **4)** podpis wnioskodawcy lub osoby upoważnionej do jego reprezentowania, z załączeniem oryginału lub kopii dokumentu poświadczającego umocowanie takiej osoby do reprezentowania wnioskodawcy.
-
-3. W przypadku wniesienia protestu niespełniającego wymogów formalnych, o których mowa ust. 2, lub zawierającego oczywiste omyłki, Komisja wzywa wnioskodawcę do jego uzupełnienia lub poprawienia nim oczywistych omyłek, terminie 7 dni, licząc od dnia otrzymania wezwania, pod rygorem pozostawienia protestu bez rozpatrzenia.
+- **4)** podpis wnioskodawcy lub osoby upoważnionej do jego reprezentowania, z załączeniem oryginału lub kopii dokumentu poświadczającego umocowanie takiej osoby do reprezentowania wnioskodawcy. oczywistych omyłek, terminie 7 dni, licząc od dnia otrzymania wezwania, pod rygorem pozostawienia protestu bez rozpatrzenia.
 
 4. Uzupełnienie protestu, o którym mowa ust. 3, może nastąpić wyłącznie odniesieniu do wymogów formalnych, o których mowa ust. 2 pkt 1, 2 i 4.
 
@@ -249,11 +233,9 @@ o zmianie ustawy o biokomponentach i biopaliwach ciekłych oraz niektórych inny
 
 3. W uzasadnionych przypadkach, szczególności gdy trakcie rozpatrywania protestu konieczne jest skorzystanie z pomocy osób posiadających specjalistyczną wiedzę danej dziedzinie, termin rozpatrzenia protestu przez dysponenta Funduszu może być przedłużony, o czym informuje się na piśmie wnioskodawcę. Termin rozpatrzenia protestu przez dysponenta Funduszu nie może przekroczyć łącznie 30 dni roboczych od dnia otrzymania opinii Komisji.
 
-4. Dysponent Funduszu podtrzymuje negatywną ocenę wniosku o wsparcie albo zmienia tę ocenę. pisemnej, o czym informuje Komisję oraz NFOŚiGW.
+4. Dysponent Funduszu podtrzymuje negatywną ocenę wniosku o wsparcie albo zmienia tę ocenę. Art. 28zo. 1. Dysponent Funduszu zatwierdza projekty do wsparcia lub odmawia ich zatwierdzenia, formie pisemnej, o czym informuje Komisję oraz NFOŚiGW.
 
-2. Po otrzymaniu informacji, o której mowa ust. 1, Komisja sporządza protokół z przeprowadzonego postępowania, o którym mowa art. 28zj ust. 1. Art. 28zp. 1. Podstawę wsparcia projektu stanowi umowa o udzielenie wsparcia.
-
-2. Umowa o udzielenie wsparcia może zostać zawarta, jeżeli projekt spełnia wszystkie kryteria wyboru projektów do wsparcia, na podstawie których został wybrany.
+2. Po otrzymaniu informacji, o której mowa ust. 1, Komisja sporządza protokół z przeprowadzonego postępowania, o którym mowa art. 28zj ust. 1. wszystkie kryteria wyboru projektów do wsparcia, na podstawie których został wybrany.
 
 3. Umowa o udzielenie wsparcia może zostać zmieniona, przypadku gdy zmiany nie wpływają na spełnianie kryteriów wyboru projektu do wsparcia sposób, który skutkowałby negatywną oceną tego projektu. Art. 28zr. 1. Fundusz prowadzi gospodarkę finansową na zasadach określonych ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2017 r. poz. 2077 oraz z 2018 r. poz. 62 i 1000).
 
@@ -267,9 +249,9 @@ o zmianie ustawy o biokomponentach i biopaliwach ciekłych oraz niektórych inny
 
 6. Dysponent Funduszu zatwierdza przedłożone przez NFOŚiGW sprawozdanie z wykonania rocznego planu finansowego Funduszu.”;
 
-- **8)** art. 30 ust. 3 otrzymuje brzmienie: „3. Minister właściwy do spraw finansów publicznych terminie do 45 dni po zakończeniu kwartału przekazuje Prezesowi Urzędu Regulacji Energetyki, sporządzone według kodów CN, na podstawie danych z systemów Krajowej Administracji Skarbowej prowadzonych na podstawie odrębnych przepisów, sprawozdanie kwartalne zawierające informacje o ilościach i rodzajach paliw ciekłych i biopaliw ciekłych importowanych oraz sprowadzonych ramach nabycia wewnątrzwspólnotowego przez poszczególne podmioty wraz z danymi identyfikacyjnymi tych podmiotów obejmującymi: oznaczenie firmy podmiotu, adres jego siedziby lub imię i nazwisko i adres zamieszkania, numer PESEL lub numer identyfikacji podatkowej (NIP) podmiotu.”;
+- **8)** art. 30 ust. 3 otrzymuje brzmienie: „3. Minister właściwy do spraw finansów publicznych terminie do 45 dni po zakończeniu kwartału przekazuje Prezesowi Urzędu Regulacji Energetyki, sporządzone według kodów CN, na podstawie danych z systemów Krajowej Administracji Skarbowej prowadzonych na podstawie odrębnych przepisów, sprawozdanie kwartalne zawierające informacje o ilościach i rodzajach paliw ciekłych i biopaliw ciekłych importowanych oraz sprowadzonych ramach nabycia wewnątrzwspólnotowego przez poszczególne podmioty wraz z danymi
 - **9)** art. 30b:
-    - **a)** ust. 1: pkt 1 po wyrazie „faktycznej” dodaje się wyrazy „skutkującej trwałym wyzbyciem się paliw ciekłych”, pkt 2 po wyrazie „faktycznej” dodaje się wyrazy „skutkującej trwałym wyzbyciem się biopaliw ciekłych”,
+    - **a)** ust. 1: – pkt 1 po wyrazie „faktycznej” dodaje się wyrazy „skutkującej trwałym wyzbyciem się paliw ciekłych”, – pkt 2 po wyrazie „faktycznej” dodaje się wyrazy „skutkującej trwałym wyzbyciem się biopaliw ciekłych”,
     - **b)** ust. la pkt 4 po wyrazie „faktycznej” dodaje się wyrazy „skutkującej trwałym wyzbyciem się paliw ciekłych lub biopaliw ciekłych”,
     - **c)** ust. 3 otrzymuje brzmienie: „3. Podmioty realizujące Narodowy Cel Wskaźnikowy są obowiązane do przekazywania Prezesowi Urzędu Regulacji Energetyki, terminie do 30 dni po zakończeniu kwartału, sprawozdań kwartalnych sporządzonych zgodnie z wzorem określonym przepisach wydanych na podstawie ust. 6, zawierających informacje dotyczące:
 
@@ -277,11 +259,11 @@ o zmianie ustawy o biokomponentach i biopaliwach ciekłych oraz niektórych inny
     - **a)** paliwa ciekłe wykorzystane do realizacji obowiązku, o którym mowa art. 23b,
     - **b)** pozostałe paliwa ciekłe;
 
-- **2)** ilości i rodzajów biopaliw ciekłych rozporządzanych przez dokonanie jakiejkolwiek czynności prawnej lub faktycznej skutkującej trwałym wyzbyciem się biopaliw ciekłych lub zużytych przez nie na potrzeby własne, z określeniem zawartości biokomponentów tych biopaliwach; prawnej lub faktycznej lub zużytych przez nie na potrzeby własne;
-- **4)** wartości energetycznej paliw ciekłych oraz biokomponentów, o których mowa pkt 1 lit. a, wyrażonej MJ, wraz z określeniem udziału tych biokomponentów paliwach ciekłych, wyrażonego procentach.”;
+- **2)** ilości i rodzajów biopaliw ciekłych rozporządzanych przez dokonanie jakiejkolwiek czynności prawnej lub faktycznej skutkującej trwałym wyzbyciem się biopaliw ciekłych lub zużytych przez nie na potrzeby własne, z określeniem zawartości biokomponentów tych biopaliwach;
+- **3)** ilości i rodzajów innych paliw odnawialnych rozporządzanych przez dokonanie jakiejkolwiek czynności prawnej lub faktycznej lub zużytych przez nie na potrzeby własne; procentach.”;
 - **10)** art. 33:
     - **a)** ust. 1 pkt 8e po wyrazie „faktycznej” dodaje się wyrazy „skutkującej trwałym wyzbyciem się paliw ciekłych lub biopaliw ciekłych”,
-    - **b)** ust. 5: objaśnienie symbolu „W” otrzymuje brzmienie: „W wartość energetyczną paliw ciekłych i biopaliw ciekłych rozporządzonych przez dokonanie jakiejkolwiek czynności prawnej lub faktycznej skutkującej trwałym wyzbyciem się paliw ciekłych lub biopaliw ciekłych na terytorium Rzeczypospolitej Polskiej przez podmiot podlegający karze, a także zużytych przez niego na potrzeby własne na tym terytorium, liczoną za rok, którym podmiot ten nie zrealizował obowiązku wynikającego z art. 23 ust. 1, wyrażoną MJ; wartość opałową poszczególnych biokomponentów i paliw ciekłych określa się zgodnie z przepisami wydanymi na podstawie art. 23 ust. 3,”, objaśnienie symbolu „R” otrzymuje brzmienie: „R wysokość zrealizowanego udziału innych paliw odnawialnych lub biokomponentów zawartych paliwach ciekłych lub biopaliwach ciekłych, stosowanych we wszystkich rodzajach transportu, rozporządzanych przez dokonanie jakiejkolwiek czynności prawnej lub faktycznej skutkującej trwałym wyzbyciem się paliw ciekłych lub biopaliw ciekłych na terytorium Rzeczypospolitej Polskiej lub zużywanych przez podmiot podlegający karze na potrzeby własne na tym terytorium ogólnej ilości paliw ciekłych i biopaliw ciekłych stosowanych transporcie drogowym i kolejowym, rozporządzanych przez dokonanie jakiejkolwiek czynności prawnej lub faktycznej skutkującej trwałym wyzbyciem się paliw ciekłych lub biopaliw ciekłych na terytorium Rzeczypospolitej Polskiej lub zużywanych przez niego ciągu roku kalendarzowego na potrzeby własne na tym terytorium roku, którym podmiot podlegający karze nie zrealizował obowiązku, o którym mowa art. 23 ust. 1, wyrażoną procentach.”,
+    - **b)** ust. 5: – objaśnienie symbolu „W” otrzymuje brzmienie: „W – wartość energetyczną paliw ciekłych i biopaliw ciekłych rozporządzonych przez dokonanie jakiejkolwiek czynności prawnej lub faktycznej skutkującej trwałym wyzbyciem się paliw ciekłych lub biopaliw ciekłych na terytorium Rzeczypospolitej Polskiej przez podmiot podlegający karze, a także zużytych przez niego na potrzeby własne na tym terytorium, liczoną za rok, którym podmiot ten nie zrealizował obowiązku wynikającego z art. 23 ust. 1, wyrażoną MJ; wartość opałową poszczególnych biokomponentów i paliw ciekłych określa się zgodnie z przepisami wydanymi na podstawie art. 23 ust. 3,”, – objaśnienie symbolu „R” otrzymuje brzmienie: „R – wysokość zrealizowanego udziału innych paliw odnawialnych lub biokomponentów zawartych paliwach ciekłych lub biopaliwach ciekłych, stosowanych we wszystkich rodzajach transportu, rozporządzanych przez dokonanie jakiejkolwiek czynności prawnej lub faktycznej skutkującej trwałym wyzbyciem się paliw ciekłych lub biopaliw ciekłych na terytorium Rzeczypospolitej Polskiej lub zużywanych przez podmiot podlegający karze na potrzeby własne na tym terytorium ogólnej ilości paliw ciekłych i biopaliw ciekłych stosowanych transporcie drogowym i biopaliw ciekłych na terytorium Rzeczypospolitej Polskiej lub zużywanych przez niego ciągu roku kalendarzowego na potrzeby własne na tym terytorium roku, którym podmiot podlegający karze nie zrealizował obowiązku, o którym mowa art. 23 ust. 1, wyrażoną procentach.”,
     - **c)** ust. 5c i 5d otrzymują brzmienie: „5c. W przypadku, o którym mowa ust. 1 pkt 5b, kara pieniężna wynosi 0,10 zł za każdy MJ biokomponentów, które podmiot realizujący Narodowy Cel Wskaźnikowy był obowiązany dodać do paliw ciekłych celu zrealizowania obowiązku, o którym mowa art. 23b, a których udziału nie udokumentował.
 
 5d. W przypadku, o którym mowa ust. 1 pkt 6a, kara pieniężna wynosi 0,10 zł za każdy MJ biokomponentów zawartych paliwach ciekłych lub biopaliwach ciekłych, dla których podmiot realizujący Narodowy Cel Wskaźnikowy wystawił poświadczenie.”;
@@ -294,9 +276,9 @@ o zmianie ustawy o biokomponentach i biopaliwach ciekłych oraz niektórych inny
 
 **Art. 3.** W ustawie z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2017 r. poz. 2222 oraz z 2018 r. poz. 12, 138, 159 i 317) art. 12b:
 
-**Art. 5.** W ustawie z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym (Dz. U. z 2017 r. poz. 1260, z późn. zm. ) art. 72 ust. 1b otrzymuje brzmienie: „1b. W przypadku nabycia od wyspecjalizowanego salonu sprzedaży, rozumieniu przepisów o podatku akcyzowym, samochodu osobowego lub pojazdu, o którym mowa ust. 1 pkt 6a, dokument potwierdzający zapłatę akcyzy na terytorium kraju albo zaświadczenie stwierdzające zwolnienie od akcyzy pojazdu elektrycznego albo pojazdu napędzanego wodorem może być zastąpione oświadczeniem wyspecjalizowanego salonu sprzedaży, że posiada odpowiednio oryginał lub kopię dokumentu potwierdzającego zapłatę akcyzy na terytorium kraju od tego samochodu osobowego lub pojazdu albo oryginał lub kopię zaświadczenia stwierdzającego zwolnienie od akcyzy pojazdu elektrycznego albo pojazdu napędzanego wodorem.”. pkt 9 kropkę zastępuje się średnikiem i dodaje się pkt 10 brzmieniu: „10) wydawanie opinii, o których mowa art. 18a ust. 1 i art. 28a ust. 1 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych, oraz przeprowadzanie badań, o których mowa art. 18 ust. 1 i art. 28 ust. 1 tej ustawy.”.
+**Art. 5.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2017 r. poz. 1260, z późn. zm. ) art. 72 ust. 1b otrzymuje brzmienie: „1b. W przypadku nabycia od wyspecjalizowanego salonu sprzedaży, rozumieniu przepisów o podatku akcyzowym, samochodu osobowego lub pojazdu, o którym mowa ust. 1 pkt 6a, dokument potwierdzający zapłatę akcyzy na terytorium kraju albo zaświadczenie stwierdzające zwolnienie od akcyzy pojazdu elektrycznego albo pojazdu napędzanego wodorem może być zastąpione oświadczeniem wyspecjalizowanego salonu sprzedaży, że posiada odpowiednio oryginał lub kopię dokumentu potwierdzającego zapłatę akcyzy na terytorium kraju od tego samochodu osobowego lub pojazdu albo oryginał lub kopię zaświadczenia stwierdzającego zwolnienie od akcyzy pojazdu elektrycznego albo pojazdu napędzanego wodorem.”. „10) wydawanie opinii, o których mowa art. 18a ust. 1 i art. 28a ust. 1 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych, oraz przeprowadzanie badań, o których mowa art. 18 ust. 1 i art. 28 ust. 1 tej ustawy.”.
 
-**Art. 7.** W ustawie z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (Dz. U. z 2018 r. poz. 799) wprowadza się następujące zmiany:
+**Art. 7.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2018 r. poz. 799) wprowadza się następujące zmiany:
 
 **Art. 321a.**
 
@@ -306,19 +288,17 @@ o zmianie ustawy o biokomponentach i biopaliwach ciekłych oraz niektórych inny
 
 3. Paliwami silnikowymi podlegającymi opłacie emisyjnej są:
 
-- **1)** benzyny silnikowe o kodach CN 2710 11 45, CN 2710 11 49;
-- **2)** oleje napędowe o kodzie CN 2710 19 41.
+- **1)** benzyny silnikowe o kodach CN 2710 12 45, CN 2710 12 49;
+- **2)** oleje napędowe o kodach CN 2710 19 43, CN 2710 20 11.
 
-**Art. 321b.** Opłata emisyjna stanowi przychód Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej oraz Funduszu Niskoemisyjnego Transportu, o którym mowa art. 28z ustawy z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych (Dz. U. z 2018 r. poz. 1344 i 1356), z tym że kwota stanowiąca 85% opłaty emisyjnej stanowi przychód Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej, a kwota stanowiąca 15% tej opłaty przychód Funduszu Niskoemisyjnego Transportu.
+**Art. 321b.** Opłata emisyjna stanowi przychód Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej oraz Funduszu Niskoemisyjnego Transportu, o którym mowa art. 28z ustawy z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych (Dz. U. z 2018 r. poz. 1344 i 1356), z tym że kwota stanowiąca 85% opłaty emisyjnej stanowi przychód Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej, a kwota stanowiąca 15% tej opłaty – przychód Funduszu Niskoemisyjnego Transportu.
 
 **Art. 321c.**
 
 1. Obowiązek zapłaty opłaty emisyjnej ciąży na:
 
 - **1)** producencie paliw silnikowych albo
-- **2)** importerze paliw silnikowych, albo
-- **3)** podmiocie dokonującym nabycia wewnątrzwspólnotowego rozumieniu przepisów o podatku akcyzowym paliw silnikowych, albo
-- **4)** innym podmiocie podlegającym na podstawie przepisów o podatku akcyzowym obowiązkowi podatkowemu zakresie podatku akcyzowego od paliw silnikowych.
+- **2)** importerze paliw silnikowych, albo akcyzowym obowiązkowi podatkowemu zakresie podatku akcyzowego od paliw silnikowych.
 
 2. Podmioty, o których mowa ust. 1, są zwolnione z obowiązku uiszczania opłaty emisyjnej, gdy wynika to z umów międzynarodowych dotyczących międzynarodowego transportu drogowego.
 
@@ -338,12 +318,20 @@ o zmianie ustawy o biokomponentach i biopaliwach ciekłych oraz niektórych inny
 
 **Art. 321f.** Stawka opłaty emisyjnej dla:
 
+**Art. 321g.**
+
+1. Organem właściwym sprawach opłaty emisyjnej jest naczelnik urzędu skarbowego, naczelnik urzędu celno-skarbowego i dyrektor izby administracji skarbowej.
+
+2. Organami właściwymi miejscowo sprawach opłaty emisyjnej są odpowiednio:
+
+- **1)** naczelnik urzędu skarbowego właściwy miejscowo sprawach podatku akcyzowego oraz dyrektor izby administracji skarbowej właściwy dla tego powstania długu celnego oraz dyrektor izby administracji skarbowej właściwy dla tego naczelnika – przypadku, którym obowiązanym do zapłaty opłaty emisyjnej jest podmiot, o którym mowa art. 321c ust. 1 pkt 2.
+
 **Art. 321h.**
 
 1. Podmioty, o których mowa art. 321c ust. 1, są obowiązane składać informację o opłacie emisyjnej właściwemu naczelnikowi urzędu skarbowego oraz obliczać i wpłacać opłatę emisyjną terminie:
 
-- **1)** do 25. dnia miesiąca następującego po miesiącu, którym powstał obowiązek zapłaty przypadku podmiotów, o których mowa art. 321c ust. 1 pkt 1, 3 i 4,
-- **2)** określonym dla należności celnych przypadku podmiotu, o którym mowa art. 321c ust. 1 pkt 2 na wyodrębniony rachunek bankowy urzędu skarbowego właściwego dla dokonywania wpłat kwot z tytułu zapłaty podatku akcyzowego.
+- **1)** do 25. dnia miesiąca następującego po miesiącu, którym powstał obowiązek zapłaty – przypadku podmiotów, o których mowa art. 321c ust. 1 pkt 1, 3 i 4,
+- **2)** określonym dla należności celnych – przypadku podmiotu, o którym mowa art. 321c ust. 1 pkt 2 – na wyodrębniony rachunek bankowy urzędu skarbowego właściwego dla dokonywania wpłat kwot z tytułu zapłaty podatku akcyzowego.
 
 2. W przypadku powstania nadpłaty opłacie emisyjnej Bank Gospodarstwa Krajowego dokonuje zwrotu tej nadpłaty ze środków należnych Narodowemu Funduszowi Ochrony Środowiska i Gospodarki Wodnej.
 
@@ -353,27 +341,40 @@ o zmianie ustawy o biokomponentach i biopaliwach ciekłych oraz niektórych inny
 
 1. Naczelnik urzędu skarbowego przekazuje kwotę pobranej opłaty emisyjnej na wyodrębniony rachunek Banku Gospodarstwa Krajowego, terminie 14 dni od dnia jej pobrania.
 
-2. Bank Gospodarstwa Krajowego przekazuje kwotę, o której mowa ust. 1, terminie 7 dni od dnia jej wpływu na rachunek Banku Gospodarstwa Krajowego, wysokości określonej art. 321b, na rachunek Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej oraz na Fundusz Niskoemisyjnego Transportu, chyba że zachodzi przypadek, o którym mowa art. 321h ust. 2.
+2. Bank Gospodarstwa Krajowego przekazuje kwotę, o której mowa ust. 1, terminie 7 dni od dnia jej wpływu na rachunek Banku Gospodarstwa Krajowego, wysokości określonej art. 321b, na rachunek Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej oraz na z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa.”;
 
-**Art. 321j.** Do opłaty emisyjnej stosuje się odpowiednio przepisy ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa.”;
+- **3)** art. 400b po ust. 5 dodaje się ust. 5a brzmieniu: „5a. Narodowy Fundusz zarządza Funduszem Niskoemisyjnego Transportu, o którym mowa art. 28z ustawy z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych.”;
+- **4)** art. 401 ust. 7:
+    - **a)** uchyla się pkt 4c,
+    - **b)** pkt 14 kropkę zastępuje się średnikiem i dodaje się pkt 15 brzmieniu: „15) wpływy z tytułu opłaty emisyjnej, o których mowa art. 321a, części przypadającej Narodowemu Funduszowi.”;
+
+- **5)** art. 401c:
+    - **a)** ust. 5 pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 brzmieniu: „9) działań, o których mowa art. 28ze ust. 1 ustawy z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych.”,
+    - **b)** uchyla się ust. 5a,
+    - **c)** po ust. 9a dodaje się ust. 9b brzmieniu: „9b. Środki Narodowego Funduszu wysokości nie mniejszej niż kwota przychodów, o których mowa art. 401 ust. 7 pkt 15, po pomniejszeniu o koszty obsługi tych przychodów, przeznacza się na przedsięwzięcia mające na celu zmniejszenie lub uniknięcie szkodliwej emisji substancji gazowych, stałych lub ciekłych powodujących zanieczyszczenie powietrza.”,
+    - **d)** ust. 10–12 wyrazy „w ust. 1–9a” zastępuje się wyrazami „w ust. 1–5 i 8– 9b”.
+
+**Art. 8.** W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2018 r. poz. 1114 i 1039) wprowadza się następujące zmiany:
 
 **Art. 9.** W ustawie z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych (Dz. U. poz. 317) wprowadza się następujące zmiany:
 
-**Art. 10.** Tworzy się Fundusz Niskoemisyjnego Transportu.
+**Art. 10.** (uchylony)
 
-**Art. 11.** Środki Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej są przeznaczane latach 2018–2027 na wspieranie działań, o których mowa art. 28ze ust. 1 ustawy zmienianej art. 1, szczególności ramach zobowiązania, o którym mowa art. 401c ust. 5 ustawy zmienianej art. 7, brzmieniu nadanym niniejszą ustawą, wysokości nie niższej niż suma przychodów Funduszu Niskoemisyjnego Transportu uzyskanych latach 2018–2027, z wyłączeniem przychodów, o których mowa art. 28zd ust. 1 pkt 4 i 5 ustawy zmienianej art. 1.
+**Art. 11.** (uchylony)
 
-**Art. 12.** Umowy, o których mowa art. 28zb ust. 2 i 3 oraz art. 28zc ust. 1 ustawy zmienianej art. 1, po raz pierwszy są zawierane na lata 2018–2027.
+**Art. 12.** (uchylony)
 
-**Art. 13.** Operator systemu przesyłowego elektroenergetycznego przekazuje środki na Fundusz Niskoemisyjnego Transportu wysokości 0,1% uzasadnionego zwrotu z kapitału zaangażowanego wykonywaną działalność gospodarczą zakresie przesyłania energii elektrycznej, uwzględnionego kalkulacji taryf na przesyłanie energii elektrycznej na rok 2017, terminie 30 dni od dnia wejścia życie ustawy. rządza terminie 30 dni od dnia wejścia życie ustawy.
+**Art. 13.** Operator systemu przesyłowego elektroenergetycznego przekazuje środki na Fundusz Niskoemisyjnego Transportu wysokości 0,1% uzasadnionego zwrotu z kapitału zaangażowanego wykonywaną działalność gospodarczą zakresie przesyłania energii elektrycznej, uwzględnionego kalkulacji taryf na przesyłanie energii elektrycznej na rok 2017, terminie 30 dni od dnia wejścia życie ustawy.
 
-**Art. 15.** Przepisy art. 28ze ust. 1 i art. 28zf–28zi ustawy zmienianej art. 1 stosuje się od dnia ogłoszenia pozytywnej decyzji Komisji Europejskiej o zgodności pomocy publicznej przewidzianej tych przepisach ze wspólnym rynkiem lub stwierdzenia przez Komisję Europejską, że przepisy te nie stanowią pomocy publicznej.
+**Art. 14.** Plan finansowy Funduszu Niskoemisyjnego Transportu na rok 2018 minister właściwy do spraw energii sporządza terminie 30 dni od dnia wejścia życie ustawy.
+
+**Art. 15.** (uchylony)
 
 **Art. 16.**
 
 1. Do oceny realizacji obowiązku, o którym mowa art. 23 ust. 1 ustawy zmienianej art. 1, za okres od dnia 2 września 2016 r. do dnia 30 września 2018 r., oraz obowiązku, o którym mowa art. 23b ust. 1 ustawy zmienianej art. 1, za pierwszy, drugi oraz trzeci kwartał 2018 r., stosuje się odpowiednio przepisy art. 23 ust. 1 oraz art. 23b ust. 1 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą.
 
-2. Paliwa ciekłe i biopaliwa ciekłe, które przed dniem wejścia życie niniejszej ustawy zostały uwzględnione przez podmiot realizujący Narodowy Cel Wskaźnikowy do realizacji obowiązków, o których mowa art. 23 ust. 1 i art. 23b ust. 1 ustawy zmienianej art. 1, brzmieniu dotychczasowym, oraz art. 23a ustawy zmienianej art. 1, brzmieniu obowiązującym do dnia 31 grudnia 2017 r., a które nie podlegałyby tym obowiązkom zgodnie z art. 23 ust. 1 i art. 23b ust. 1 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, przypadku rozporządzania nimi przez dokonanie jakiejkolwiek czynności prawnej lub faktycznej skutkującej trwałym wyzbyciem się tych paliw ciekłych lub biopaliw ciekłych po dniu wejścia życie niniejszej ustawy, nie podlegają ponownie obowiązkom, o których mowa art. 23 ust. 1 oraz art. 23b ust. 1 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą.
+2. Paliwa ciekłe i biopaliwa ciekłe, które przed dniem wejścia życie niniejszej ustawy zostały uwzględnione przez podmiot realizujący Narodowy Cel Wskaźnikowy do realizacji obowiązków, o których mowa art. 23 ust. 1 i art. 23b ust. 1 ustawy zmienianej art. 1, brzmieniu dotychczasowym, oraz art. 23a ustawy zmienianej art. 1, brzmieniu obowiązującym do dnia 31 grudnia 2017 r., a które nie skutkującej trwałym wyzbyciem się tych paliw ciekłych lub biopaliw ciekłych po dniu wejścia życie niniejszej ustawy, nie podlegają ponownie obowiązkom, o których mowa art. 23 ust. 1 oraz art. 23b ust. 1 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą.
 
 **Art. 17.**
 
@@ -387,8 +388,6 @@ o zmianie ustawy o biokomponentach i biopaliwach ciekłych oraz niektórych inny
 
 **Art. 20.** Przepis art. 163a ust. 1 ustawy zmienianej art. 8, brzmieniu nadanym niniejszą ustawą, stosuje się:
 
-**Art. 21.** Zwolnienie od akcyzy, o którym mowa art. 163a ust. 1 ustawy zmienianej art. 8, brzmieniu dotychczasowym, stosuje się nie dłużej niż do dnia wejścia życie tego przepisu, brzmieniu nadanym niniejszą ustawą.
-
 **Art. 22.** Przepis art. 74 ust. 2 ustawy zmienianej art. 9 stosuje się do podmiotów, które po dniu 22 lutego 2018 r., a przed dniem wejścia życie niniejszej ustawy rozpoczęły eksploatację albo budowę stacji ładowania, punktów ładowania wchodzących skład infrastruktury ładowania drogowego transportu publicznego pojazdów, punktów zasilania jednostek pływających energią elektryczną z lądu oraz stacji gazu ziemnego i punktów bunkrowania skroplonego gazu ziemnego (LNG).
 
 **Art. 23.** Przepis art. 3 ust. 1 pkt 10 ustawy zmienianej art. 9 stosuje się od dnia 1 stycznia 2023 r. również do operatorów ogólnodostępnych stacji ładowania, którzy rozpoczęli eksploatację tych stacji przed dniem wejścia życie niniejszej ustawy.
@@ -397,59 +396,24 @@ o zmianie ustawy o biokomponentach i biopaliwach ciekłych oraz niektórych inny
 
 1. Maksymalny limit wydatków z budżetu państwa przeznaczonych na wykonywanie zadań ministra właściwego do spraw energii wynikających z niniejszej ustawy wynosi roku:
 
-- **1)** 2018 r. 570 000 zł;
-- **2)** 2019 r. 530 000 zł;
-- **3)** 2020 r. 530 000 zł;
-- **5)** 2022 r. 530 000 zł;
-- **6)** 2023 r. 530 000 zł;
-- **7)** 2024 r. 530 000 zł;
-- **8)** 2025 r. 530 000 zł;
-- **9)** 2026 r. 530 000 zł;
-- **10)** 2027 r. 530 000 zł.
+- **1)** 2018 r. – 570 000 zł;
+- **2)** 2019 r. – 530 000 zł;
+- **3)** 2020 r. – 530 000 zł;
+- **4)** 2021 r. – 0 zł;
+- **5)** 2022 r. – 0 zł;
+- **6)** 2023 r. – 0 zł;
+- **7)** 2024 r. – 0 zł;
+- **8)** 2025 r. – 0 zł;
+- **9)** 2026 r. – 0 zł;
+- **10)** 2027 r. – 0 zł.
 
 2. Minister właściwy do spraw energii monitoruje wykorzystanie limitu wydatków, o którym mowa ust. 1, oraz jest odpowiedzialny za wdrożenie mechanizmu korygującego, o którym mowa ust. 3.
 
-3. W przypadku gdy wielkość wydatków po pierwszym półroczu danego roku budżetowego wyniesie więcej niż 65% limitu wydatków przewidzianych na dany rok, minister właściwy do spraw energii obniża wielkość środków przeznaczonych na wydatki drugim półroczu o kwotę stanowiącą różnicę między wielkością tego limitu a kwotą przekroczenia wydatków.
+3. W przypadku gdy wielkość wydatków po pierwszym półroczu danego roku budżetowego wyniesie więcej niż 65% limitu wydatków przewidzianych na dany rok, minister właściwy do spraw energii obniża wielkość środków przeznaczonych na jest z planem finansowym urzędu obsługującego ministra właściwego do spraw energii, przepisu ust. 3 nie stosuje się.
 
-4. W przypadku gdy wielkość wydatków poszczególnych miesiącach zgodna jest z planem finansowym urzędu obsługującego ministra właściwego do spraw energii, przepisu ust. 3 nie stosuje się.
+**Art. 25.** (uchylony)
 
-**Art. 25.**
-
-1. Maksymalny limit wydatków z budżetu państwa przeznaczonych na dotację celową z budżetu państwa dla Funduszu Niskoemisyjnego Transportu roku:
-
-- **1)** 2018 wynosi 0% planowanych poprzednim roku wpływów z podatku akcyzowego od paliw silnikowych i 0 zł;
-- **2)** 2019 wynosi 0% planowanych poprzednim roku wpływów z podatku akcyzowego od paliw silnikowych i 0 zł;
-- **3)** 2020 wynosi 0,5% planowanych poprzednim roku wpływów z podatku akcyzowego od paliw silnikowych, jednak nie więcej niż 167 948 000 zł;
-- **4)** 2021 wynosi 1% planowanych poprzednim roku wpływów z podatku akcyzowego od paliw silnikowych, jednak nie więcej niż 346 228 000 zł;
-- **5)** 2022 wynosi 1,5% planowanych poprzednim roku wpływów z podatku akcyzowego od paliw silnikowych, jednak nie więcej niż 535 700 000 zł;
-- **6)** 2023 wynosi 1,5% planowanych poprzednim roku wpływów z podatku akcyzowego od paliw silnikowych, jednak nie więcej niż 551 700 000 zł;
-- **7)** 2024 wynosi 1,5% planowanych poprzednim roku wpływów z podatku akcyzowego od paliw silnikowych, jednak nie więcej niż 568 800 000 zł;
-- **8)** 2025 wynosi 1,5% planowanych poprzednim roku wpływów z podatku akcyzowego od paliw silnikowych, jednak nie więcej niż 586 800 000 zł;
-- **9)** 2026 wynosi 1,5% planowanych poprzednim roku wpływów z podatku akcyzowego od paliw silnikowych, jednak nie więcej niż 604 900 000 zł;
-- **10)** 2027 wynosi 1,5% planowanych poprzednim roku wpływów z podatku akcyzowego od paliw silnikowych, jednak nie więcej niż 622 800 000 zł.
-
-2. Minister właściwy do spraw energii monitoruje wykorzystanie limitów wydatków, o których mowa ust. 1, oraz jest odpowiedzialny za wdrożenie mechanizmu korygującego, o którym mowa ust. 3.
-
-3. W przypadku gdy wielkość wydatków po pierwszym półroczu danego roku budżetowego wyniesie więcej niż 65% limitu wydatków przewidzianego na dany rok, stosuje się mechanizm korygujący polegający na obniżeniu wielkości środków przeznaczonych na wydatki drugim półroczu o kwotę stanowiącą różnicę pomiędzy wielkością tego limitu a kwotą przekroczenia wydatków, szczególności przez proporcjonalne zmniejszenie drugim półroczu danego roku budżetowego każdej umowie o udzielenie wsparcia, o której mowa art. 28zp ust. 1 ustawy zmienianej art. 1, przewidującej udzielenie dotacji, wysokości limitu wydatków o wskaźnik stanowiący iloraz kwoty przekroczenia wydatków Funduszu Niskoemisyjnego Transportu pierwszym półroczu i limitu wydatków tego Funduszu przypadającego drugim półroczu.
-
-4. W przypadku gdy wielkość wydatków poszczególnych miesiącach jest zgodna z planem finansowym Funduszu Niskoemisyjnego Transportu, przepisu ust. 3 nie stosuje się. skutkiem finansowym niniejszej ustawy wynosi roku:
-
-- **1)** 2018 r. 500 000 zł;
-- **2)** 2019 r. 340 600 000 zł;
-- **3)** 2020 r. 516 198 000 zł;
-- **4)** 2021 r. 617 457 000 zł;
-- **5)** 2022 r. 815 045 000 zł;
-- **6)** 2023 r. 839 404 000 zł;
-- **7)** 2024 r. 865 214 000 zł;
-- **8)** 2025 r. 892 083 000 zł;
-- **9)** 2026 r. 919 417 000 zł;
-- **10)** 2027 r. 946 726 000 zł.
-
-2. Minister właściwy do spraw energii monitoruje wykorzystanie limitów wydatków, o których mowa ust. 1, oraz odpowiada za wdrożenie mechanizmu korygującego, o którym mowa ust. 3.
-
-3. W przypadku gdy wielkość wydatków po pierwszym półroczu danego roku budżetowego wyniesie więcej niż 65% limitu wydatków przewidzianego na dany rok, dysponent Funduszu Niskoemisyjnego Transportu obniża wielkość środków przeznaczonych na wydatki drugim półroczu o kwotę stanowiącą różnicę pomiędzy wielkością tego limitu a kwotą przekroczenia wydatków, szczególności poprzez proporcjonalne zmniejszenie drugim półroczu danego roku budżetowego każdej zawieranej umowie o udzielenie wsparcia, o której mowa art. 28zp ust. 1 ustawy zmienianej art. 1, przewidującej udzielenie dotacji, wysokości limitu wydatków o wskaźnik stanowiący iloraz kwoty przekroczenia wydatków Funduszu Niskoemisyjnego Transportu pierwszym półroczu i limitu wydatków tego Funduszu przypadającego drugim półroczu.
-
-4. W przypadku gdy wielkość wydatków poszczególnych miesiącach jest zgodna z planem finansowym Funduszu Niskoemisyjnego Transportu, przepisu ust. 3 nie stosuje się.
+**Art. 26.** (uchylony)
 
 **Art. 27.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 

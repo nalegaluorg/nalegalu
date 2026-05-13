@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# 1, art. 625—627, 630, 633—635, 636 1 2,
+# Przepisy wprowadzające Kodeks postępowania w sprawach o wykroczenia
+
+*USTAWA z dnia 24 sierpnia 2001 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,109 +26,146 @@ domain: null
 | Ostatnia zmiana | 2024-04-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011061149) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/1149/text.pdf) |
 
-3. Wydatki wykładane przez Skarb Państwa mają art. 637—639 641 Kodeksu karnego, charakter zryczałtowany. Zryczałtowane wydatki po- przy czym wydatkami Skarbu Państwa są także wydatstępowania nie obejmują jednak należności dla osób, ki ponoszone wtoku czynności wyjaśniających.
-zakładów, instytutów iinstytucji powołanych wydania opinii należności ustanowionych urzędu obrońcy ipełnomocnika. Prezydent Rzeczypospolitej Polskiej:A. Kwaśniewski
-USTAWA zdnia 24 sierpnia 2001 Przepisy wprowadzające Kodeks owykroczenia.
-
 #### Rozdział 1 Przepisy ogólne
 
-**Art. 1.** Kodeks owykroczenia wchodzi wżycie zdniem 17 paêdziernika 2001
+**Art. 1.** Kodeks postępowania w sprawach o wykroczenia wchodzi w życie z dniem 17 października 2001 roku.
 
-**Art. 1.** Zdniem wejścia wżycie Kodeksu postępowania owykroczenia tracą moc dotychczasowe przepisy kwestiach unormowanych tym kodeksie, chyba że przepisy niniejszej ustawy stanowią inaczej. Wszczególności tracą moc:
+**Art. 2.**
+
+§ 1. Z dniem wejścia w życie Kodeksu postępowania w sprawach o wykroczenia tracą moc dotychczasowe przepisy w kwestiach unormowanych w tym kodeksie, chyba że przepisy niniejszej ustawy stanowią inaczej.
+
+§ 2. W szczególności tracą moc:
+
+- **1)** ustawa z dnia 20 maja 1971 r. - Kodeks postępowania w sprawach o wykroczenia (Dz.U. Nr 12, poz. 116, z 1972 r. Nr 49, poz. 312, z 1975 r. Nr 16, poz. 91 i Nr 45, poz. 234, z 1982 r. Nr 16, poz. 125 i Nr 45, poz. 291, z 1983 r. Nr 6, poz. 35 i Nr 44, poz. 203, z 1985 r. Nr 23, poz. 100, z 1986 r. Nr 39, poz. 193, z 1988 r. Nr 20, poz. 135, z 1989 r. Nr 34, poz. 180, z 1990 r. Nr 20, poz. 121, Nr 43, poz. 251 i Nr 72, poz. 422, z 1991 r. Nr 32, poz. 131 i Nr 94, poz. 419, z 1992 r. Nr 24, poz. 101, z 1994 r. Nr 27, poz. 96, z 1995 r. Nr 95, poz. 475, z 1997 r. Nr 43, poz. 272, Nr 102, poz. 643 i Nr 123, poz. 779 oraz z 1998 r. Nr 113, poz. 717);
+- **2)** ustawa z dnia 20 maja 1971 r. - Przepisy wprowadzające Kodeks postępowania w sprawach o wykroczenia (Dz.U. Nr 12, poz. 117, z 1985 r. Nr 23, poz. 100, z 1991 r. Nr 73, poz. 321 i z 1997 r. Nr 98, poz. 602);
+- **3)** ustawa z dnia 20 maja 1971 r. o ustroju kolegiów do spraw wykroczeń (Dz.U. Nr 12, poz. 118, z 1972 r. Nr 49, poz. 312, z 1974 r. Nr 24, poz. 142, z 1975 r. Nr 16, poz. 91, z 1982 r. Nr 45, poz. 291, z 1989 r. Nr 35, poz. 192, z 1990 r. Nr 43, poz. 251, z 1991 r. Nr 32, poz. 131, z 1994 r. Nr 27, poz. 96 i z 1998 r. Nr 113, poz. 717).
+
+§ 3. Pozostają jednak w mocy przepisy ustaw w zakresie, w jakim uprawniają one określone organy do ścigania wykroczeń i występowania w tych sprawach w datu karnego. Organy te uprawnione są także do prowadzenia czynności wyjaśniających, o których mowa w Kodeksie postępowania w sprawach o wykroczenia.
 
 **Art. 3.**
 
-1. Jeżeli obowiązujące przepisy powołują się na uchylone przepisy dotyczące przedmiotów unormowanych Kodeksie sprawach o wykroczenia albo odsyłają ogólnie przepisów o postępowaniu sprawach o wykroczenia, stosuje się wtym zakresie odpowiednio przepisy Kodeksu postępowania sprawach o wykroczenia, zastrzeżeniem Przepisy ustawy, o której mowa art. 2 2 pkt1, wymienione wart. 170 ustawy zdnia 26 listopada 1998 o finansach publicznych (Dz. U. 155, 1014, 1999 38, 360, 49, 485, 70, 778 110, 1255, 2000 6, 69, 12, 136, 48, 550, 95, 1041, 119, 1251 122, 1315 z2001 45, 497,Nr 46, 499, 88, 961, 98, 1070, 100, 1082 102, 1116), stosuje się nadal onaruszenie dyscypliny
+§ 1. Jeżeli obowiązujące przepisy powołują się na uchylone przepisy dotyczące przedmiotów unormowanych w Kodeksie postępowania w sprawach o wykroczenia albo odsyłają ogólnie do przepisów o postępowaniu w sprawach o wykroczenia, stosuje się w tym zakresie odpowiednio przepisy Kodeksu postępowania w sprawach o wykroczenia, z zastrzeżeniem § 2.
 
-3. Stosunek pracy zradcą kolegium spraw wykroczeń wygasa zupływem terminu wskazanego w§ 1, chyba że przed upływem tego terminu zostanie on mianowany asesorem albo referendarzem sądowym bądê zatrudniony jako pracownik sądowy.
+§ 2. Przepisy ustawy, o której mowa w art. 2 § 2 pkt 1, wymienione w art. 170 ustawy z dnia 26 listopada 1998 r. o finansach publicznych (Dz.U. z 2003 r. Nr 15, poz. 148, z późn. zm. ), stosuje się nadal w sprawach o naruszenie dyscypliny finansów publicznych, nie dłużej jednak niż do dnia 30 czerwca 2005 r.
 
-#### Rozdział 2 Zmiany wprzepisach obowiązujących
+**Art. 4.**
+
+§ 1. Radcowie kolegiów do spraw wykroczeń przez okres 6 miesięcy od dnia wejścia w życie Kodeksu postępowania w sprawach o wykroczenia zachowują prawo do dotychczasowego wynagrodzenia.
+
+§ 2. Minister Sprawiedliwości, po zasięgnięciu opinii kolegium właściwego sądu okręgowego, może mianować radcę kolegium do spraw wykroczeń, który ukończył aplikację sądową lub prokuratorską i zdał egzamin sędziowski lub prokuratorski, na jego wniosek, złożony w terminie miesiąca od dnia wejścia w życie Kodeksu postępowania w sprawach o wykroczenia, asesorem sądowym.
+
+§ 3. Stosunek pracy z radcą kolegium do spraw wykroczeń wygasa z upływem terminu wskazanego w § 1, chyba że przed upływem tego terminu zostanie on mianowany asesorem albo referendarzem sądowym bądź zatrudniony jako pracownik sądowy.
+
+#### Rozdział 2 Zmiany w przepisach obowiązujących
 
 **Art. 5.**
 
-1. Wustawie zdnia 20 maja 1971 Kodeks wykroczeń (Dz. U. 12, 114, z1981r. 24, 124, z1982 16, 125, z1983r. 6, 35 iNr 44, 203, z1984 54, 275, z1985 Nr14, 60 23, 100, 1986 39, 193, z1988r. 20, 135 iNr41, 324, z1989 Nr34, 180, 1990 51, 297, 72, 422 86, 504, 1991 75, 332 91, 408, 1992 24, 101, 1994 poz.600, z1995 6, poz.29 iNr 60, 310, z1997r. 54, 349, 60, poz.369, 85, 539, 98, 602, 104, 661, 106, 677, 111, 724, 779, 133, 884 141, 942, 1998 113, 717, 1999 83, 931 101, 1178, 2000 22, 271, 73, 852, 74, 855 iNr 117, 1228 2001 100, 1081) art. 10 otrzymuje brzmienie: ŃArt. 10. 1. Jeżeli czyn będący wykroczeniem wyczerpuje zarazem znamiona przestępstwa, orzeka się za przestępstwo za wykroczenie, tym że jeżeli orzeczono za przestępstwo za wykroczenie karę lub środek karny tego samego rodzaju, wykonuje się surowszą karę lub środek karny. W razie uprzedniego wykonania łagodniejszej kary lub środka karnego zalicza się je na poczet surowszych. Przy zaliczaniu kar przyjmuje się jeden dzień aresztu za równoważny jednemu dniowi pozbawienia wolności, dwóm dniom ograniczenia wolności grzywnie kwocie od 20 150 złotych.
+§ 1. W ustawie z dnia 20 maja 1971 r. - Kodeks wykroczeń (Dz.U. z 1971 r. Nr 12, poz. 114, z 1981 r. Nr 24, poz. 124, z 1982 r. Nr 16, poz. 125, z 1983 r. Nr 6, poz. 35 i Nr 44, poz. 203, z 1984 r. Nr 54, poz. 275, z 1985 r. Nr 14, poz. 60, Nr 23, poz. 100, z 1986 r. Nr 39, poz. 193, z 1988 r. Nr 20, poz. 135 i Nr 41, poz. 324, z 1989 r. Nr 34, poz. 180, z 1990 r. Nr 51, poz. 297, Nr 72, poz. 422 i Nr 86, poz. 504, z 1991 r. Nr 75, poz. 332 i Nr 91, poz. 408, z 1992 r. Nr 24, poz. 101, z 1994 r. Nr 123, poz. 600, z 1995 r. Nr 6, poz. 29 i Nr 60, poz. 310, z 1997 r. Nr 54, poz. 349, Nr 60, poz. 369, Nr 85, poz. 539, Nr 98, poz. 602, Nr poz. 884 i Nr 141, poz. 942, z 1998 r. Nr 113, poz. 717, z 1999 r. Nr 83, poz. 931 i Nr 101, poz. 1178, z 2000 r. Nr 22, poz. 271, Nr 73, poz. 852, Nr 74, poz. 855 i Nr 117, poz. 1228 oraz z 2001 r. Nr 100, poz. 1081) art. 10 otrzymuje brzmienie: „Art. 10. §1. Jeżeli czyn będący wykroczeniem wyczerpuje zarazem znamiona przestępstwa, orzeka się za przestępstwo i za wykroczenie, z tym że jeżeli orzeczono za przestępstwo i za wykroczenie karę lub środek karny tego samego rodzaju, wykonuje się surowszą karę lub środek karny. W razie uprzedniego wykonania łagodniejszej kary lub środka karnego zalicza się je na poczet surowszych.
 
-3. Karę aresztu orzeczoną za wykroczenie uważa się za karę tego samego rodzaju co kara pozbawienia wolności orzeczona za przestępstwo.
+§ 2. Przy zaliczaniu kar przyjmuje się jeden dzień aresztu za równoważny jednemu dniowi pozbawienia wolności, dwóm dniom ograniczenia wolności oraz grzywnie w kwocie od 20 do 150 złotych.
 
-4. Zaliczeniu, o którym mowa 1, nie 769, 124, 782 133, 882, 1998 98, 607, 160, 1064 162, 1118 i1125, z1999 20, 180, 60, 636, 75, 853, 83, 931 110, 1255 z2000r. 48, 551, 50, poz.580, 56, 678, 114, poz.1193, 120, 1268 iNr 122, 1314 i1319) wart. 16 w§ 1 pkt 1 otrzymuje brzmienie: Ń1) owykroczenia wykroczenia skarbowe,”.
+§ 3. Karę aresztu orzeczoną za wykroczenie uważa się za karę tego samego rodzaju co kara pozbawienia wolności orzeczona za przestępstwo.
 
-3. W ustawie dnia 6 kwietnia 1990 o Policji (Dz. U. 2000 101, 1092 2001 41, 465, 81, 877 100, 1084) wprowadza się następujące zmiany:
+§ 4. Zaliczeniu, o którym mowa w § 1, nie podlegają środki karne w postaci:
 
-- **1)** wart. 134:
+- **1)** nawiązki, jeżeli za wykroczenie i za przestępstwo orzeczono je na rzecz różnych podmiotów,
+- **2)** obowiązku naprawienia szkody, jeżeli za wykroczenie i za przestępstwo orzeczono je w związku z różnym rodzajem szkód.”.
+
+§ 2. W ustawie z dnia 20 czerwca 1985 r. - Prawo o ustroju sądów powszechnych (Dz.U. z 1994 r. Nr 7, poz. 25, Nr 77, poz. 355, Nr 91, poz. 421 i Nr 105, poz. 509, z 1995 r. Nr 34, poz. 163 i Nr 81, poz. 406, z 1996 r. Nr 77, poz. 367, z 1997 r. Nr 75, poz. 471, Nr 98, poz. 604, Nr 106, poz. 679, Nr 117, poz. 751753, Nr 121, poz. 769, Nr 124, poz. 782 i Nr 133, poz. 882, z 1998 r. Nr 98, poz. 607, Nr 160, poz. 1064 i Nr 162, poz. 1118 i 1125, z 1999 r. Nr 20, poz. 180, Nr 60, poz. 636, Nr 75, poz. 853, Nr 83, poz. 931 i Nr 110, poz. 1255 oraz z 2000 r. Nr 48, poz. 551, Nr 50, poz. 580, Nr 56, poz. 678, Nr 114, poz. 1193, Nr 120, poz. 1268 i Nr 122, poz. 1314 i 1319) w art. 16 w § 1 pkt 1 otrzymuje brzmienie: „1) o wykroczenia oraz wykroczenia skarbowe,”.
+
+§ 3. W ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz.U. z 2000 r. Nr 101, poz. 1092 oraz z 2001 r. Nr 41, poz. 465, Nr 81, poz. 877 i Nr 100, poz. 1084) wprowadza się następujące zmiany:
+
+- **1)** w art. 134:
     - **a)** skreśla się ust. 2,
-    - **b)** ust. 4 skreśla się wyrazy Ń , a sprawach owykroczenia wruchu drogowym zzakazem prowadzenia pojazdów mechanicznych iinnych pojazdów”;
+    - **b)** w ust. 4 skreśla się wyrazy „ , a w sprawach o wykroczenia w ruchu drogowym - z zakazem prowadzenia pojazdów mechanicznych i innych pojazdów”;
 
-- **2)** skreśla się art. 136 i137;
-- **3)** wart. 138 wust. 3 skreśla się zdanie drugie;
-- **4)** wart. 138 dodaje się ust. 4 wbrzmieniu: Ń4. Wniosek, o którym mowa ust. 3, dotyczący komendantów wojewódzkich Policji ich zastępców lub policjantów pełniących służbę wKomendzie Głównej Policji kieruje się Komendanta Głównego Policji.”
+- **2)** skreśla się art. 136 i 137;
+- **3)** w art. 138 w ust. 3 skreśla się zdanie drugie; „4. Wniosek, o którym mowa w ust. 3, dotyczący komendantów wojewódzkich Policji i ich zastępców lub policjantów pełniących służbę w Komendzie Głównej Policji kieruje się do Komendanta Głównego Policji.”.
 
-4. Wustawie zdnia 6 kwietnia 1990 oUrzędzie Ochrony Państwa (Dz. U. 1999 51, 526, 53, 548 110, 1255, 2000 73, 852 2001 81, 877) wprowadza się następujące zmiany:
+§ 4. W ustawie z dnia 6 kwietnia 1990 r. o Urzędzie Ochrony Państwa (Dz.U. z 1999 r. Nr 51, poz. 526, Nr 53, poz. 548 i Nr 110, poz. 1255, z 2000 r. Nr 73, poz. 852 oraz z 2001 r. Nr 81, poz. 877) wprowadza się następujące zmiany:
 
-- **1)** wart. 119:
+- **1)** w art. 119:
     - **a)** skreśla się ust. 2,
-    - **b)** ust. 3 po wyrazach Ńobniżenia stopnia” skreśla się przecinek wyrazy Ńa sprawach owykroczenia wruchu drogowym zzakazem prowadzenia pojazdów mechanicznych iinnych pojazdów”;
+    - **b)** w ust. 3 po wyrazach „obniżenia stopnia” skreśla się przecinek oraz wyrazy „a w sprawach o wykroczenia w ruchu drogowym - z zakazem prowadzenia pojazdów mechanicznych i innych pojazdów”;
 
-- **2)** skreśla się art. 121 i122.
+- **2)** skreśla się art. 121 i 122.
 
-5. Wustawie zdnia 12 paêdziernika 1990r. oStraży Granicznej (Dz. U. 78, 462, 1991 94, 422, 1992 54, 254, 1993 12, poz.52, z1994 53, 214, z1995 4, 17,
+§ 5. W ustawie z dnia 12 października 1990 r. o Straży Granicznej (Dz.U. Nr 78, poz. 462, z 1991 r. Nr 94, poz. 422, z 1992 r. Nr 54, poz. 254, z 1993 r. Nr 12, poz. 52, z 1994 r. Nr 53, poz. 214, z 1995 r. Nr 4, poz. 17, Nr 34, poz. 163 i Nr 104, poz. 515, z 1996 r. Nr 106, poz. 496 i Nr 124, poz. 583, z 1997 r. Nr 28, poz. 153, Nr 88, poz. 554 i Nr 121, poz. 770, z 1999 r. Nr 110, poz. 1255 oraz z 2001 r. Nr 45, poz. 498) wprowadza się następujące zmiany:
 
-- **1)** wart. 126 skreśla się ust. 2;
+- **1)** w art. 138 skreśla się ust. 1-5;
+- **2)** skreśla się art. 139;
+- **3)** w art. 140 w ust. 3 skreśla się zdanie drugie.
+
+§ 6. W ustawie z dnia 26 kwietnia 1996 r. o Służbie Więziennej (Dz.U. Nr 61, poz. 283 i Nr 106, poz. 496, z 1997 r. Nr 28, poz. 153, Nr 88, poz. 554 i Nr 133, poz. 883, z 1999 r. Nr 110, poz. 1255, z 2000 r. Nr 2, poz. 5 oraz z 2001 r. Nr 81, poz. 877) wprowadza się następujące zmiany:
+
+- **1)** w art. 126 skreśla się ust. 2;
 - **2)** skreśla się art. 128;
-- **3)** wart. 131 skreśla się ust.
+- **3)** w art. 131 skreśla się ust. 2.
 
-7. W ustawie dnia 6 czerwca 1997 Kodeks karnego (Dz. U. Nr89, 555, z1999 Nr83, poz.931, z2000 50, 580, 62, poz.717, 73, 852 93, 1027 2001 98,
+§ 7. W ustawie z dnia 6 czerwca 1997 r. - Kodeks postępowania karnego (Dz.U. Nr 89, poz. 555, z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 50, poz. 580, Nr 62, poz. 717, Nr 73, poz. 852 i Nr 93, poz. 1027 oraz z 2001 r. Nr 98, poz. 1071) wprowadza się następujące zmiany:
 
-- **1071)** wprowadza się następujące zmiany:
-- **1)** art. 18 1 wyrazy Ńprzez właściwy organ spraw wykroczeń” zastępuje się wyrazami Ńdo właściwego sądu”;
-- **2)** art. 101 2 wyraz Ńsądowym” zastępuje się wyrazem Ńkarnym”;
-- **3)** art. 400 otrzymuje brzmienie: ŃArt. 400. Jeżeli po rozpoczęciu przewodu sądowego ujawni się, że czyn oskarżonego stanowi wykroczenie, sąd, nie przekazując sprawy właściwemu sądowi, rozpoznaje ją wtym samym składzie, stosując wdalszym jej toku przepisy Kodeksu postępowania sprawach o wykroczenia.”;
-- **4)** skreśla się rozdział 54;
-- **5)** art. 646 otrzymuje brzmienie: ŃArt. 646. W sprawach podlegających orzecznictwu sądów wojskowych nie stosuje się przepisów o postępowaniu uproszczonym, prywatno-skargowym nakazowym. Poza tym stosuje się przepisy działów poprzednich, chyba że przepisy działu niniejszego stanowią inaczej.”;
+- **1)** w art. 18 w § 1 wyrazy „przez właściwy organ do spraw wykroczeń” zastępuje się wyrazami „do właściwego sądu”;
+- **2)** w art. 101 w § 2 wyraz „sądowym” zastępuje się wyrazem „karnym”;
+- **3)** art. 400 otrzymuje brzmienie: „Art. 400. Jeżeli po rozpoczęciu przewodu sądowego ujawni się, że czyn oskarżonego stanowi wykroczenie, sąd, nie przekazując sprawy właściwemu sądowi, rozpoznaje ją w tym samym składzie, stosując w dalszym jej toku, przepisy Kodeksu postępowania w sprawach o wykroczenia.”;
+- **4)** skreśla się rozdział 54; „Art. 646. W sprawach podlegających orzecznictwu sądów wojskowych nie stosuje się przepisów o postępowaniu uproszczonym, prywatnoskargowym i nakazowym. Poza tym stosuje się przepisy działów poprzednich, chyba że przepisy działu niniejszego stanowią inaczej.”;
 - **6)** skreśla się rozdział 75.
 
-8. Wustawie zdnia 6 czerwca 1997 r.—Przepisy wprowadzające Kodeks karnego (Dz. U. 89, 556 iNr 160, 1083 z2000 62,
+§ 8. W ustawie z dnia 6 czerwca 1997 r. - Przepisy wprowadzające Kodeks postępowania karnego (Dz.U. Nr 89, poz. 556 i Nr 160, poz. 1083 oraz z 2000 r. Nr 62, poz. 717) skreśla się art. 13.
 
-- **717)** skreśla się art. 13.
+§ 9. W ustawie z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym (Dz.U. Nr 98, poz. 602, Nr 123, poz. 779 i Nr 160, poz. 1086, z 1998 r. Nr 106, poz. 668 i Nr 133, poz. 872, z 1999 r. Nr 106, poz. 1216, z 2000 r. Nr 12, poz. 136, Nr 43, poz. 483 i Nr 53, poz. 649 oraz z 2001 r. Nr 27, poz. 298) wprowadza się następujące zmiany:
 
-9. W ustawie dnia 20 czerwca 1997 Prawo o ruchu drogowym (Dz. U. 98, 602, 779 160, 1086, 1998 106, 668 iNr 133, 872, z1999 106, 1216, z2000 12, 136, 43, 483 53, 649 2001 27, 298) wprowadza się następujące zmiany: ŃArt. 21a. Postępowanie sprawach o wykroczenia określone art. 21 ust. 2—4 prowadzi się na podstawie przepisów opostępowaniu przyspieszonym.”
+- **1)** w art. 136 ust. 1 otrzymuje brzmienie: „1. Zatrzymane prawo jazdy, z wyjątkiem przypadku określonego w art. 135 ust. 1 pkt 1 lit. c), Policja przekazuje niezwłocznie, nie później niż w ciągu 7 dni, według właściwości, sądowi uprawnionemu do rozpoznania sprawy o wykroczenie, prokuratorowi lub staroście.”;
+- **2)** w art. 137 w ust. 1 pkt 2 otrzymuje brzmienie: „2) w sprawie o wykroczenie - sąd właściwy do rozpoznania sprawy.”.
 
-11. W ustawie dnia 10 września 1999 Kodeks karny skarbowy (Dz. U. 83, 930, 2000 60, 703 62, 717 2001 11, poz.82) po art. 167 dodaje się art. 167awbrzmieniu: ŃArt. 167a. Kasację wsprawie owykroczenie skarbowe może wnieść wyłącznie Minister Sprawiedliwości—Prokurator Generalny Rzecznik Praw Obywatelskich, a sprawach podlegających orzecznictwu sądów wojskowych także Naczelny Prokurator Wojskowy. Kasację taką wnieść można od każdego prawomocnego orzeczenia kończącego postępowanie sądowe”.
+§ 10. W ustawie z dnia 22 sierpnia 1997 r. o bezpieczeństwie imprez masowych (Dz.U. Nr 106, poz. 680, z 1998 r. Nr 106, poz. 668 i z 2001 r. Nr 41, poz. 465) po art. 21 dodaje się art. 21a w brzmieniu: „Art. 21a. Postępowanie w sprawach o wykroczenia określone w art. 21 ust. 2-4 prowadzi się na podstawie przepisów o postępowaniu przyspieszonym.”.
 
-12. W ustawie dnia 16 marca 2001 o Biurze Ochrony Rządu (Dz. U. 27, 298) wprowadza się następujące zmiany:
+§ 11. W ustawie z dnia 10 września 1999 r. - Kodeks karny skarbowy (Dz.U. Nr 83, poz. 930, z 2000 r. Nr 60, poz. 703 i Nr 62, poz. 717 oraz z 2001 r. Nr 11, poz. 82) po art. 167 dodaje się art. 167a w brzmieniu: „Art. 167a. Kasację w sprawie o wykroczenie skarbowe może wnieść wyłącznie Minister Sprawiedliwości - Prokurator Generalny i Rzecznik Praw Obywatelskich, a w sprawach podlegających orzecznictwu sądów wojskowych - także Naczelny Prokurator Wojskowy. Kasację taką wnieść można od każdego prawomocnego orzeczenia kończącego postępowanie sądowe.”.
 
-- **1)** art. 116 po wyrazie Ńprzestępstwa” dodaje się wyrazy Ńiwykroczenia”;
-- **2)** wart. 118:
+§ 12. W ustawie z dnia 16 marca 2001 r. o Biurze Ochrony Rządu (Dz.U. Nr 27, poz.
+
+- **298)** wprowadza się następujące zmiany:
+- **1)** w art. 116 po wyrazie „przestępstwa” dodaje się wyrazy „i wykroczenia”;
+- **2)** w art. 118:
     - **a)** skreśla się ust. 2,
-    - **b)** ust. 4 skreśla się wyrazy Ń , a sprawach o wykroczenia przeciwko bezpieczeństwu porządkowi wkomunikacji zzakazem prowadzenia pojazdów”;
+    - **b)** w ust. 4 skreśla się wyrazy „ , a w sprawach o wykroczenia przeciwko bezpieczeństwu i porządkowi w komunikacji - z zakazem prowadzenia pojazdów”;
 
-- **3)** skreśla się art. 120 i121;
-- **4)** wart. 122 wust. 3 skreśla się zdanie drugie.
+- **4)** w art. 122 w ust. 3 skreśla się zdanie drugie.
 
-#### Rozdział 3 Przepisy przejściowe ikońcowe
+#### Rozdział 3 Przepisy przejściowe i końcowe
 
 **Art. 6.**
 
-1. W sprawach, których kolegium spraw wykroczeń nie wydano rozstrzygnięcia wpierwszej instancji przed wejściem życie Kodeksu postępowania sprawach o wykroczenia, stosuje się przepisy tego kodeksu. Przepisy Kodeksu sprawach owykroczenia stosuje się także wsprawach, wktórych wniesiono sprzeciw od nakazu karnego wydanego przed wejściem wżycie tego kodeksu.
+§ 1. W sprawach, w których w kolegium do spraw wykroczeń nie wydano rozstrzygnięcia w pierwszej instancji przed wejściem w życie Kodeksu postępowania w sprawach o wykroczenia, stosuje się przepisy tego kodeksu.
 
-3. W sprawach, których wniesiono odwołanie sąd stosuje przepisy dotychczasowe. Wrazie uwzględnienia zażalenia na postanowienie kolegium spraw wykroczeń o umorzeniu lub postanowienie jego przewodniczącego o odmowie wszczęcia postępowania, sąd rozpoznaje sprawę wpierwszej instancji.
+§ 2. Przepisy Kodeksu postępowania w sprawach o wykroczenia stosuje się także w sprawach, w których wniesiono sprzeciw od nakazu karnego wydanego przed wejściem w życie tego kodeksu.
 
-5. Ârodek odwoławczy,wnoszony zzachowaniem dotychczasowych przepisów po wejściu wżycie Kodeksu sprawach o wykroczenia od orzeczenia wydanego przed jego wejściem życie, składa się sądzie, przy którym działało kolegium spraw wykroczeń, które wydało zaskarżone rozstrzygnięcie.
+§ 3. W sprawach, w których wniesiono odwołanie od orzeczenia kolegium do spraw wykroczeń, sąd rozpoznaje odwołanie, stosując przepisy dotychczasowe, nie może jednak uchylić orzeczenia kolegium i przekazać sprawy do ponownego rozpoznania, chyba że z powodu stwierdzenia okoliczności, o których mowa w art. 18c § 1 pkt 1-8 ustawy, o której mowa w art. 2 § 2 pkt 1, zachodzi potrzeba przekazania sprawy do rozpoznania od nowa przez sąd pierwszej instancji. W razie wniesienia odwołania na niekorzyść obwinionego, sąd może skazać obwinionego, którego kolegium do spraw wykroczeń uniewinniło lub co do którego umorzono postępowanie; od takiego orzeczenia obwinionemu służy apelacja.
 
-6. Wniosek osporządzenie uzasadnienia orzeczenia wsprawie, wktórej zuwagi na zniesienie kolegium stępowania sprawach o wykroczenia, gdy odnoszą się one rozstrzygnięć wydanych przed wejściem wżycie tego kodeksu.
+§ 4. Rozpoznając zażalenie na postanowienie kolegium do spraw wykroczeń lub jego przewodniczącego, sąd stosuje przepisy dotychczasowe. W razie uwzględnienia zażalenia na postanowienie kolegium do spraw wykroczeń o umorzeniu postępowania lub postanowienie jego przewodniczącego o odmowie wszczęcia postępowania, sąd rozpoznaje sprawę w pierwszej instancji.
 
-**Art. 9.** W sprawach podlegających dotychczas orzecznictwu sądów wojskowych, jeżeli wniosek oukaranie złożono przed dniem wejścia życie Kodeksu sprawach o wykroczenia, orzeka nadal sąd wojskowy, chociażby przestał być właściwy.
+§ 5. Środek odwoławczy, wnoszony z zachowaniem dotychczasowych przepisów po wejściu w życie Kodeksu postępowania w sprawach o wykroczenia od orzeczenia wydanego przed jego wejściem w życie, składa się w sądzie, przy którym działało kolegium do spraw wykroczeń, które wydało zaskarżone rozstrzygnięcie.
 
-**Art. 10.** Czynności procesowe dokonane przed wejściem życie Kodeksu sprawach o wykroczenia są skuteczne, jeżeli dokonano ich zachowaniem przepisów dotychczasowych.
+§ 6. Wniosek o sporządzenie uzasadnienia orzeczenia w sprawie, w której z uwagi na zniesienie kolegium do spraw wykroczeń nie sporządzono uzasadnienia, traktuje się jako środek odwoławczy, jeżeli w terminie zawitym 7 dni od doręczenia wezwania prezesa sądu osoba uprawniona uzupełni taki wniosek w sposób spełniający wymogi przewidziane dla środka odwoławczego w art. 427 § 1 i 2 Kodeksu postępowania karnego.
 
-**Art. 11.** Po wejściu wżycie Kodeksu spraw wykroczeń nie sporządzono uzasadnienia, traktuje się jako środek odwoławczy, jeżeli terminie zawitym 7 dni od doręczenia wezwania prezesa sądu osoba uprawniona uzupełni taki wniosek sposób spełniający wymogi przewidziane dla środka odwoławczego wart. 427 1 i2 Kodeksu karnego. 7. Czynności przewidziane ustawie, o której mowa wart. 2 2 pkt 1, dla kolegium spraw wykroczeń jego przewodniczącego sprawach niezakończonych dnia wejścia wżycie Kodeksu postępowania sprawach o wykroczenia, wykonują odpowiednio sąd właściwy rozpoznania sprawy ijego prezes, stosując przepisy tego kodeksu.
+§ 7. Czynności przewidziane w ustawie, o której mowa w art. 2 § 2 pkt 1, dla kolegium do spraw wykroczeń i jego przewodniczącego w sprawach niezakończonych do dnia wejścia w życie Kodeksu postępowania w sprawach o wykroczenia, wykonują odpowiednio sąd właściwy do rozpoznania sprawy i jego prezes, stosując przepisy tego kodeksu.
 
-**Art. 7.** Wsprawach owykroczenia przekazanych sądu trybie dotychczasowych przepisów, których dnia wejścia wżycie Kodeksu wsprasprawach o wykroczenia przepisy, o których mowa wart. 5 3—6 i12, stosuje się jednak wykroczeń popełnionych odpowiednio przez funkcjonariuszy Policji, Urzędu Ochrony Państwa, Straży Granicznej, Biura Ochrony Rządu Służby Więziennej przed dniem wejścia wżycie tego kodeksu.
+**Art. 7.** W sprawach o wykroczenia przekazanych do sądu w trybie dotychczasowych przepisów, w których do dnia wejścia w życie Kodeksu postępowania w sprawach o wykroczenia nie wydano orzeczenia w pierwszej instancji, stosuje się przepisy tego kodeksu.
 
-**Art. 12.** Do czasu wydania przepisów wykonawczych przewidzianych Kodeksie sprawach o wykroczenia pozostają mocy odpowiednie przepisy dotychczasowe, zakresie, jakim nie są one sprzeczne zprzepisami tego kodeksu, jednak nie dłużej niż przez jeden rok.
+**Art. 8.**
 
-**Art. 13.** W razie wątpliwości, czy stosować prawo dotychczasowe czy Kodeks owykroczenia, stosuje się przepisy kodeksu.
+§ 1. Nierozpoznane wnioski o uchylenie prawomocnego rozstrzygnięcia lub o stwierdzenie nieważności rozstrzygnięcia rozpoznaje się, stosując dotychczasowe przepisy.
 
-**Art. 14.** Ustawa wchodzi życie dniem 17 paêdziernika 2001 Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski
+§ 2. Przepis § 1 stosuje się także do wskazanych tam wniosków, złożonych po wejściu w życie Kodeksu postępowania w sprawach o wykroczenia, gdy odnoszą się one do rozstrzygnięć wydanych przed wejściem w życie tego kodeksu.
 
-**Art. 1.** W ustawie dnia 26 lipca 1991 o podatku 1) wart. 14: 1150 USTAWA zdnia 6 września 2001 ozmianie ustaw: opodatku dochodowym od osób fizycznych, opodatku dochodowym od osób prawnych opodatku od towarów iusług opodatku akcyzowym.
+**Art. 9.** W sprawach podlegających dotychczas orzecznictwu sądów wojskowych, jeżeli wniosek o ukaranie złożono przed dniem wejścia w życie Kodeksu postępowania w sprawach o wykroczenia, orzeka nadal sąd wojskowy, chociażby przestał być właściwy.
+
+**Art. 10.** Czynności procesowe dokonane przed wejściem w życie Kodeksu postępowania w sprawach o wykroczenia są skuteczne, jeżeli dokonano ich z zachowaniem przepisów dotychczasowych.
+
+**Art. 11.** Po wejściu w życie Kodeksu postępowania w sprawach o wykroczenia przepisy, o których mowa w art. 5 § 3-6 i 12, stosuje się jednak do wykroczeń popełnionych odpowiednio przez funkcjonariuszy Policji, Urzędu Ochrony Państwa, Straży Granicznej, Biura Ochrony Rządu i Służby Więziennej przed dniem wejścia w życie tego kodeksu.
+
+**Art. 12.** Do czasu wydania przepisów wykonawczych przewidzianych w Kodeksie postępowania w sprawach o wykroczenia pozostają w mocy odpowiednie przepisy dotychczasowe, w zakresie, w jakim nie są one sprzeczne z przepisami tego kodeksu, jednak nie dłużej niż przez jeden rok.
+
+**Art. 13.** W razie wątpliwości, czy stosować prawo dotychczasowe czy Kodeks postępowania w sprawach o wykroczenia, stosuje się przepisy kodeksu.
+
+**Art. 14.** Ustawa wchodzi w życie z dniem 17 października 2001 r.
 

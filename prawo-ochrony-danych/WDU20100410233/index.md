@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# dnia 12 lutego 2010 r.
+# o zmianie ustawy o udziale Rzeczypospolitej Polskiej Systemie Informacyjnym Schengen oraz Systemie Informacji Wizowej i ustawy o ochronie danych osobowych
+
+*USTAWA z dnia 12 lutego 2010 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,11 +26,9 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100410233) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/233/text.pdf) |
 
-o zmianie ustawy o udziale Rzeczypospolitej Polskiej Systemie Informacyjnym Schengen oraz Systemie Informacji Wizowej ustawy o ochronie danych osobowych
+**Art. 1.** W ustawie z dnia 24 sierpnia 2007 r. o udziale Rzeczypospolitej Polskiej Systemie Informacyjnym Schengen oraz Systemie Informacji Wizowej (Dz. U. Nr 165, poz. 1170 oraz z 2008 r. Nr 195, poz. 1198 i Nr 216, poz. 1367) wprowadza się następujące zmiany:
 
-**Art. 1.** W ustawie dnia 24 sierpnia 2007 r. o udziale Rzeczypospolitej Polskiej Systemie Informacyjnym Schengen oraz Systemie Informacji Wizowej (Dz. U. 165, poz. 1170 oraz 2008 r. 195, poz. 1198 216, poz. 1367) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz. U. z 2002 r. Nr 101, poz. 926, z późn. zm. ) art. 43 ust. 1 pkt 2b otrzymuje brzmienie: „2b) przetwarzanych przez właściwe organy na potrzeby udziału Rzeczypospolitej Polskiej Systemie Informacyjnym Schengen oraz Wizowym Systemie Informacyjnym,”.
 
-**Art. 2.** W ustawie dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz. U. 2002 r. 101, poz. 926, późn. zm. ) 43 ust. 1 pkt 2b otrzymuje brzmienie: „2b) przetwarzanych właściwe organy na potrzeby udziału Rzeczypospolitej Polskiej Systemie Informacyjnym Schengen oraz Wizowym Systemie Informacyjnym,”.
-
-**Art. 3.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, wyjątkiem 1:
+**Art. 3.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1:
 

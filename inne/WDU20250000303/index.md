@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 12 marca 2025 r.
+# o zmianie ustawy o biokomponentach i biopaliwach ciekłych oraz niektórych innych ustaw
+
+*USTAWA z dnia 21 lutego 2025 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,9 +25,6 @@ domain: null
 | Data wydania | 2025-03-12 |
 | Ostatnia zmiana | 2025-03-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000303) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/303/text.pdf) |
-
-USTAWA z dnia 21 lutego 2025 r.
-o zmianie ustawy o biokomponentach i biopaliwach ciekłych oraz niektórych innych ustaw
 
 **Art. 1.** W ustawie z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych (Dz. U. z 2024 r. poz. 20, 834 i 1946) wprowadza się następujące zmiany:
 
@@ -316,8 +315,8 @@ o zmianie ustawy o biokomponentach i biopaliwach ciekłych oraz niektórych inny
     - **c)** ust. 1b otrzymuje brzmienie: „1b. Podmioty realizujące Narodowy Cel Wskaźnikowy wraz ze sprawozdaniami, o których mowa w ust. 1, przekazują Prezesowi Urzędu Regulacji Energetyki świadectwa potwierdzające spełnienie kryteriów zrównoważonego rozwoju przez biokomponenty, inne paliwa odnawialne, ciekłe paliwa węglowe pochodzące z recyklingu i gazowe paliwa węglowe pochodzące z recyklingu, które zostały zaliczone do realizacji obowiązku, o którym mowa w art. 23 ust. 1.”,
     - **d)** w ust. 3: pkt 3 otrzymuje brzmienie: „3) ilości i rodzajów innych paliw odnawialnych, ciekłych paliw węglowych pochodzących z recyklingu i gazowych paliw węglowych pochodzących z recyklingu rozporządzonych przez dokonanie jakiejkolwiek czynności prawnej lub faktycznej skutkującej trwałym wyzbyciem się tych paliw lub zużytych przez nie na potrzeby własne;”, w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 i 6 w brzmieniu: „5) ilości energii elektrycznej z odnawialnych źródeł energii dostarczonej przez nie do pojazdów drogowych lub kolejowych;
 
-- **6)** ilości energii elektrycznej z odnawialnych źródeł energii dostarczonej do pojazdów drogowych lub kolejowych przez operatora infrastruktury ładowania oraz przewoźnika kolejowego, o której mowa w art. 21c ust. 1.”,
-    - **e)** w ust. 5: w pkt 1 po wyrazach „biopaliw ciekłych” dodaje się wyrazy „ , ciekłych paliw węglowych pochodzących z recyklingu i gazowych paliw węglowych pochodzących z recyklingu”, w pkt 2 po wyrazach „pkt 1 i 2” dodaje się wyrazy „oraz dla innych paliw odnawialnych, ciekłych paliw węglowych pochodzących z recyklingu i gazowych paliw węglowych pochodzących z recyklingu, o których mowa w ust. 3 pkt 3”, w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „4) wskazań systemu pomiarowego umożliwiającego pomiar zużycia energii elektrycznej i przekazywanie danych pomiarowych z tego systemu do systemu zarządzania stacji ładowania w czasie zbliżonym do rzeczywistego, o którym mowa w art. 3 ust. 1 pkt 4 lit. b ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych, lub wskazań układu pomiarowo-rozliczeniowego dostarczającego energię do urządzenia zasilania elektrotrakcyjnego.”,
+- **6)** ilości energii elektrycznej z odnawialnych źródeł energii dostarczonej do pojazdów drogowych lub kolejowych przez operatora infrastruktury ładowania oraz przewoźnika kolejowego, o której mowa w art. 21c ust. 1.”, o elektromobilności i paliwach alternatywnych, lub wskazań układu pomiarowo-rozliczeniowego dostarczającego energię do urządzenia zasilania elektrotrakcyjnego.”,
+    - **e)** w ust. 5: w pkt 1 po wyrazach „biopaliw ciekłych” dodaje się wyrazy „ , ciekłych paliw węglowych pochodzących z recyklingu i gazowych paliw węglowych pochodzących z recyklingu”, w pkt 2 po wyrazach „pkt 1 i 2” dodaje się wyrazy „oraz dla innych paliw odnawialnych, ciekłych paliw węglowych pochodzących z recyklingu i gazowych paliw węglowych pochodzących z recyklingu, o których mowa w ust. 3 pkt 3”, w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „4) wskazań systemu pomiarowego umożliwiającego pomiar zużycia energii elektrycznej i przekazywanie danych pomiarowych z tego systemu do systemu zarządzania stacji ładowania w czasie zbliżonym do rzeczywistego, o którym mowa w art. 3 ust. 1 pkt 4 lit. b ustawy z dnia 11 stycznia 2018 r.
     - **f)** w ust. 7 po wyrazach „biopaliw ciekłych” dodaje się wyrazy „ , ciekłych paliw węglowych pochodzących z recyklingu i gazowych paliw węglowych pochodzących z recyklingu, energii elektrycznej z odnawialnych źródeł energii dostarczanej do pojazdów drogowych lub kolejowych”;
 
 - **45)** po art. 30b dodaje się art. 30c w brzmieniu: „Art. 30c. Administrator systemu certyfikacji, a także wytwórcy, przetwórcy, pośrednicy oraz podmioty realizujące Narodowy Cel Wskaźnikowy przekazują informacje umożliwiające nadzór nad rynkiem biokomponentów, ciekłych paliw węglowych pochodzących z recyklingu i gazowych paliw węglowych pochodzących z recyklingu oraz innych paliw odnawialnych do unijnej bazy danych. Przekazywane informacje obejmują dane określone w załączniku I do rozporządzenia wykonawczego Komisji (UE) 2022/996 z dnia 14 czerwca 2022 r. w sprawie zasad weryfikacji kryteriów zrównoważonego rozwoju i ograniczania emisji gazów cieplarnianych oraz kryteriów niskiego ryzyka spowodowania pośredniej zmiany użytkowania gruntów.”;

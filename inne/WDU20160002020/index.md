@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 15 grudnia 2016 r.
+# o zmianie ustawy o zawodach lekarza i lekarza dentysty oraz niektórych innych ustaw
+
+*USTAWA z dnia 21 października 2016 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,12 +26,9 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002020) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/2020/text.pdf) |
 
-USTAWA z dnia 21 października 2016 r.
-o zmianie ustawy o zawodach lekarza i lekarza dentysty oraz niektórych innych ustaw
+**Art. 1.** W ustawie z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2015 r. poz. 464, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 1.** W ustawie z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2015 r. poz. 464, z późn. zm. ) wprowadza si ę nast ę puj ą ce zmiany:
-
-**Art. 2.** W ustawie z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego razie choroby i macierzyństwa (Dz. U. z 2016 r. poz. 372, 960, 1265 i 1579) art. 54 uchyla się 2.
+**Art. 2.** W ustawie z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz. U. z 2016 r. poz. 372, 960, 1265 i 1579) w art. 54 uchyla się ust. 2.
 
 **Art. 3.** W ustawie z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2016 r. poz. 1868) wprowadza się następujące zmiany:
 
@@ -37,87 +36,100 @@ o zmianie ustawy o zawodach lekarza i lekarza dentysty oraz niektórych innych u
 
 **Art. 5.** W ustawie z dnia 28 kwietnia 2011 r. o zmianie ustawy o zawodach lekarza i lekarza dentysty (Dz. U. poz. 658) uchyla się art. 4.
 
-**Art. 6.** W ustawie z dnia 28 kwietnia 2011 r. o systemie informacji ochronie zdrowia (Dz. U. z 2016 r. poz. 1535 i 1579) art. 38 pkt 1 wyrazy „art. 25–35” zastępuje się wyrazami „art. 25 i art. 28”.
+**Art. 6.** W ustawie z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2016 r. poz. 1535 i 1579) w art. 38 w pkt 1 wyrazy „art. 25–35” zastępuje się wyrazami „art. 25 i art. 28”.
 
-**Art. 7.** W ustawie z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. z 2016 r. poz. 1251 i 1579) art. 24 dodaje się 7 brzmieniu: „7. Przepisów 1–6 nie stosuje się do pielęgniarek i położnych udzielających świadczeń opieki zdrowotnej ramach umów międzynarodowych zawartych z państwem członkowskim Unii Europejskiej celu współpracy transgranicznej zakresie ratownictwa medycznego.”.
+**Art. 7.** W ustawie z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. z 2016 r. poz. 1251 i 1579) w art. 24 dodaje się ust. 7 w brzmieniu: „7. Przepisów ust. 1–6 nie stosuje się do pielęgniarek i położnych udzielających świadczeń opieki zdrowotnej w ramach umów międzynarodowych zawartych z państwem członkowskim Unii Europejskiej w celu współpracy transgranicznej w zakresie ratownictwa medycznego.”.
 
-**Art. 8.** W ustawie z dnia 9 października 2015 r. o zmianie ustawy o systemie informacji ochronie zdrowia oraz niektórych innych ustaw (Dz. U. poz. 1991 oraz z 2016 r. poz. 65, 580, 652, 832 i 1579) art. 4:
+**Art. 8.** W ustawie z dnia 9 października 2015 r. o zmianie ustawy o systemie informacji w ochronie zdrowia oraz niektórych innych ustaw (Dz. U. poz. 1991 oraz z 2016 r. poz. 65, 580, 652, 832 i 1579) w art. 4:
 
 **Art. 14d.**
 
-1. Zgłaszający się do LEK albo LDEK przedstawia bezpośrednio przed egzaminem Zespołowi Egzaminacyjnemu, o którym mowa art. 14b 5, dokument potwierdzający tożsamość. W przypadku braku dokumentu potwierdzającego tożsamość zgłaszającego się nie może on przystąpić do egzaminu.
+1. Zgłaszający się do LEK albo LDEK przedstawia bezpośrednio przed egzaminem Zespołowi Egzaminacyjnemu, o którym mowa w art. 14b ust. 5, dokument potwierdzający tożsamość. W przypadku braku dokumentu potwierdzającego tożsamość zgłaszającego się nie może on przystąpić do egzaminu.
 
 2. LEK i LDEK polega na rozwiązaniu odpowiedniego testu składającego się z 200 pytań zawierających 5 odpowiedzi, z których tylko jedna jest prawidłowa. Za każdą prawidłową odpowiedź uzyskuje się 1 punkt. W przypadku braku odpowiedzi, zaznaczenia nieprawidłowej odpowiedzi albo zaznaczenia więcej niż jednej odpowiedzi punkty nie są przyznawane.
 
-3. Przebieg LEK i LDEK może być dokumentowany za pomocą urządzeń rejestrujących obraz i dźwięk, o czym zgłaszającego się do LEK albo LDEK informuje się zawiadomieniu o egzaminie lub bezpośrednio przed rozpoczęciem egzaminu.
+3. Przebieg LEK i LDEK może być dokumentowany za pomocą urządzeń rejestrujących obraz i dźwięk, o czym zgłaszającego się do LEK albo LDEK informuje się w zawiadomieniu o egzaminie lub bezpośrednio przed rozpoczęciem egzaminu.
 
-4. Test jest rozwi ą zywany przez zdaj ą cego samodzielnie. Podczas zdawania LEK i LDEK zdaj ą cy nie mo ż e korzysta ć z ż adnych pomocy naukowych i dydaktycznych, a tak ż e nie mo ż e korzysta ć z urz ą dze ń słu żą cych do kopiowania oraz przekazywania i odbioru informacji. Naruszenie tego zakazu lub rozwi ą zywanie testu niesamodzielnie stanowi podstaw ę zdyskwalifikowania zdaj ą cego, co jest równowa ż ne z uzyskaniem przez niego wyniku negatywnego. zywania testu niesamodzielnie, Zespołu Egzaminacyjnego, o którym mowa art. 14b 5, dokonuje dyskwalifikacji zdającego i odnotowuje fakt dyskwalifikacji wraz ze wskazaniem jej przyczyny oraz godziną przerwania egzaminu testowego protokole egzaminacyjnym.
+4. Test jest rozwiązywany przez zdającego samodzielnie. Podczas zdawania LEK i LDEK zdający nie może korzystać z żadnych pomocy naukowych i dydaktycznych, a także nie może korzystać z urządzeń służących do kopiowania oraz przekazywania i odbioru informacji. Naruszenie tego zakazu lub rozwiązywanie testu niesamodzielnie stanowi podstawę zdyskwalifikowania zdającego, co jest równoważne z uzyskaniem przez niego wyniku negatywnego.
 
-6. W przypadku stwierdzenia, po zakończeniu egzaminu, na podstawie analizy obrazu i dźwięku zarejestrowanych za pomocą urządzeń rejestrujących obraz i dźwięk, o których mowa 3, że zdający naruszył zakaz, o którym mowa 4, lub rozwiązał test niesamodzielnie, Przewodniczący Komisji Egzaminacyjnej, o którym mowa art. 14b 4, dokonuje dyskwalifikacji zdającego. Fakt dyskwalifikacji wraz ze wskazaniem jej przyczyny odnotowuje się protokole egzaminacyjnym.
+5. W przypadku stwierdzenia w trakcie egzaminu naruszenia zakazu, o którym mowa w ust. 4, lub rozwiązywania testu niesamodzielnie, przewodniczący Zespołu Egzaminacyjnego, o którym mowa w art. 14b ust. 5, dokonuje dyskwalifikacji zdającego i odnotowuje fakt dyskwalifikacji wraz ze wskazaniem jej przyczyny oraz godziną przerwania egzaminu testowego w protokole egzaminacyjnym.
 
-7. O dyskwalifikacji, o której mowa 6, dyrektor CEM zawiadamia na piśmie osobę zdyskwalifikowaną. Informację o dyskwalifikacji dyrektor CEM zamieszcza SMK.
+6. W przypadku stwierdzenia, po zakończeniu egzaminu, na podstawie analizy obrazu i dźwięku zarejestrowanych za pomocą urządzeń rejestrujących obraz i dźwięk, o których mowa w ust. 3, że zdający naruszył zakaz, o którym mowa w ust. 4, lub rozwiązał test niesamodzielnie, Przewodniczący Komisji Egzaminacyjnej, o którym mowa w art. 14b ust. 4, dokonuje dyskwalifikacji zdającego. Fakt dyskwalifikacji wraz ze wskazaniem jej przyczyny odnotowuje się w protokole egzaminacyjnym.
+
+7. O dyskwalifikacji, o której mowa w ust. 6, dyrektor CEM zawiadamia na piśmie osobę zdyskwalifikowaną. Informację o dyskwalifikacji dyrektor CEM zamieszcza w SMK.
 
 8. O dyskwalifikacji dyrektor CEM zawiadamia właściwego okręgowego rzecznika odpowiedzialności zawodowej, jeżeli lekarz lub lekarz dentysta jest członkiem okręgowej izby lekarskiej, albo właściwego okręgowego rzecznika odpowiedzialności zawodowej wojskowej izby lekarskiej, jeżeli lekarz lub lekarz dentysta jest członkiem wojskowej izby lekarskiej.
 
-9. Osoba zdyskwalifikowana nie może przystąpić do LEK albo LDEK kolejnym najbliższym terminie egzaminu przypadającym po dniu dyskwalifikacji.
+9. Osoba zdyskwalifikowana nie może przystąpić do LEK albo LDEK w kolejnym najbliższym terminie egzaminu przypadającym po dniu dyskwalifikacji.
 
 **Art. 14e.**
 
-1. Zdający LEK albo LDEK danym terminie może wnieść trakcie egzaminu albo bezpośrednio po jego zakończeniu, przed opuszczeniem sali egzaminacyjnej, merytoryczne zastrzeżenie do pytania testowego wykorzystanego podczas tego LEK albo LDEK. Zastrzeżenie składa się dyrektorowi CEM na formularzu, którego wzór opracowuje CEM.
+1. Zdający LEK albo LDEK w danym terminie może wnieść w trakcie egzaminu albo bezpośrednio po jego zakończeniu, przed opuszczeniem sali egzaminacyjnej, merytoryczne zastrzeżenie do pytania testowego wykorzystanego podczas tego LEK albo LDEK. Zastrzeżenie składa się dyrektorowi CEM na formularzu, którego wzór opracowuje CEM.
 
-2. Zastrzeżenie, o którym mowa 1, rozpatruje terminie 3 dni od dnia, którym odbył się egzamin, komisja powołana przez dyrektora CEM spośród osób, których wiedza, doświadczenie i autorytet dają rękojmię prawidłowego rozpatrzenia wniesionych zastrzeżeń. W przypadku uznania zastrzeżenia komisja unieważnia pytanie testowe objęte zastrzeżeniem. Rozstrzygnięcie to powoduje obniżenie maksymalnej możliwej do uzyskania liczby punktów z testu. Za unieważnione pytanie nie przyznaje się punktów.
+2. Zastrzeżenie, o którym mowa w ust. 1, rozpatruje w terminie 3 dni od dnia, w którym odbył się egzamin, komisja powołana przez dyrektora CEM spośród osób, których wiedza, doświadczenie i autorytet dają rękojmię prawidłowego rozpatrzenia wniesionych zastrzeżeń. W przypadku uznania zastrzeżenia komisja unieważnia pytanie testowe objęte zastrzeżeniem. Rozstrzygnięcie to powoduje obniżenie maksymalnej możliwej do uzyskania liczby punktów z testu. Za unieważnione pytanie nie przyznaje się punktów.
 
-3. Rozstrzygnięcie, o którym mowa 2, niezgodne z przepisami prawa jest nieważne.
+3. Rozstrzygnięcie, o którym mowa w ust. 2, niezgodne z przepisami prawa jest nieważne.
 
-4. Pozytywny wynik LEK albo LDEK otrzymuje zdający, który uzyskał co najmniej 56% maksymalnej liczby punktów z testu. Wynik egzaminu nie stanowi decyzji rozumieniu ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
+4. Pozytywny wynik LEK albo LDEK otrzymuje zdający, który uzyskał co najmniej 56% maksymalnej liczby punktów z testu. Wynik egzaminu nie stanowi decyzji w rozumieniu ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
-5. Osoba, która złożyła LEK albo LDEK z wynikiem negatywnym albo złożyła LEK albo LDEK z niesatysfakcjonującym ją wynikiem, może przystąpić ponownie do egzaminu innym terminie.
+5. Osoba, która złożyła LEK albo LDEK z wynikiem negatywnym albo złożyła LEK albo LDEK z niesatysfakcjonującym ją wynikiem, może przystąpić ponownie do egzaminu w innym terminie.
 
-6. Osobie, która złożyła LEK albo LDEK, dyrektor CEM wydaje świadectwo złożenia LEK albo świadectwo złożenia LDEK terminie 21 dni od dnia złożenia egzaminu. Podpis dyrektora CEM umieszczony na świadectwie może być odwzorowany mechanicznie. Wynik egzaminu danej osoby jest jej udostępniany za pomocą SMK. Na wniosek tej osoby dyrektor CEM wydaje odpłatnie duplikat świadectwa złożenia LEK albo świadectwa złożenia LDEK albo dokonuje ich korekty. Opłata za te czynności wynosi 50 zł. Opłaty nie wnosi się przypadku, gdy korekta wynika z błędu CEM.
+6. Osobie, która złożyła LEK albo LDEK, dyrektor CEM wydaje świadectwo złożenia LEK albo świadectwo złożenia LDEK w terminie 21 dni od dnia złożenia egzaminu. Podpis dyrektora CEM umieszczony na świadectwie może być odwzorowany mechanicznie. Wynik egzaminu danej osoby jest jej udostępniany za pomocą SMK. Na wniosek tej osoby dyrektor CEM wydaje odpłatnie duplikat świadectwa złożenia LEK albo świadectwa złożenia LDEK albo dokonuje ich korekty. Opłata za te czynności wynosi 50 zł. Opłaty nie wnosi się w przypadku, gdy korekta wynika z błędu CEM.
 
-7. Wyniki LEK i LDEK dyrektor CEM udostępnia za pomocą SMK organom, o których mowa art. 16c 8, uczelniom zakresie dotyczącym absolwentów ich podstawowych jednostek organizacyjnych oraz Naczelnej Radzie Lekarskiej.
+7. Wyniki LEK i LDEK dyrektor CEM udostępnia za pomocą SMK organom, o których mowa w art. 16c ust. 8, uczelniom w zakresie dotyczącym absolwentów ich podstawowych jednostek organizacyjnych oraz Naczelnej Radzie Lekarskiej.
 
 8. W przypadku rażących uchybień dotyczących procedury przebiegu LEK albo LDEK lub nieprzewidzianych sytuacji mających wpływ na przeprowadzenie LEK albo LDEK dyrektor CEM, po uzyskaniu zgody ministra właściwego do spraw zdrowia, może wydać zarządzenie o unieważnieniu egzaminu dla poszczególnych albo wszystkich zdających.
 
-9. W przypadku unieważnienia LEK albo LDEK z przyczyn nieleżących po stronie zdającego nie pobiera się opłaty, o której mowa art. 14a 8, od osoby zgłaszającej się do kolejnego egzaminu, która przystępowała do unieważnionego egzaminu.
+9. W przypadku unieważnienia LEK albo LDEK z przyczyn nieleżących po stronie zdającego nie pobiera się opłaty, o której mowa w art. 14a ust. 8, od osoby zgłaszającej się do kolejnego egzaminu, która przystępowała do unieważnionego egzaminu.
 
 10. Dokumentacja dotycząca LEK i LDEK jest przechowywana przez właściwe podmioty zgodnie z przepisami art. 5 i art. 6 ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2016 r. poz. 1506 i 1948).”;”;
 
-- **4)** pkt 10 lit. c tiret pierwsze otrzymuje brzmienie: „– pkt 8 otrzymuje brzmienie: „8) cechy dokumentu, na podstawie którego cudzoziemiec nieb ę d ą cy obywatelem Unii Europejskiej przebywa na terytorium Rzeczypospolitej Polskiej;”,”. wy, wynosi roku:
-- **1)** 2017 276 mln zł;
-- **2)** 2018 277 mln zł;
-- **3)** 2019 223 mln zł;
-- **4)** 216 mln zł;
-- **5)** 2021 232 mln zł;
-- **6)** 2022 267 mln zł;
-- **7)** 2023 293 mln zł;
-- **8)** 2024 293 mln zł;
-- **9)** 2025 293 mln zł;
-- **10)** 2026 293 mln zł.
+- **4)** w pkt 10 w lit. c tiret pierwsze otrzymuje brzmienie: „– pkt 8 otrzymuje brzmienie: „8) cechy dokumentu, na podstawie którego cudzoziemiec niebędący obywatelem Unii Europejskiej przebywa na terytorium Rzeczypospolitej Polskiej;”,”.
 
-2. W przypadku przekroczenia pierwszym półroczu danego roku 65% limitu określonego 1 lub przypadku zagrożenia przekroczenia przyjętego na dany rok budżetowy limitu wydatków, wysokość tych wydatków drugim półroczu obniża się do poziomu gwarantującego, że ten limit nie zostanie przekroczony.
+**Art. 9.**
 
-3. Organem wła ś ciwym do monitorowania wykorzystania limitu wydatków, o których mowa 1, oraz wdro ż enia mechanizmu korygującego, o którym mowa 2, jest minister właściwy do spraw zdrowia.
+1. W latach 2017–2020 maksymalny limit wydatków budżetu państwa, będących skutkiem finansowym ustawy, wynosi w roku:
+
+- **1)** 2017 – 276 mln zł;
+- **2)** 2018 – 277 mln zł;
+- **3)** 2019 – 223 mln zł;
+- **4)** 2020 – 216 mln zł;
+- **5)** (uchylony)
+- **6)** (uchylony)
+- **7)** (uchylony)
+- **8)** (uchylony)
+- **9)** (uchylony)
+- **10)** (uchylony)
+
+2. W przypadku przekroczenia w pierwszym półroczu danego roku 65% limitu określonego w ust. 1 lub w przypadku zagrożenia przekroczenia przyjętego na dany rok budżetowy limitu wydatków, wysokość tych wydatków w drugim półroczu obniża się do poziomu gwarantującego, że ten limit nie zostanie przekroczony.
+
+3. Organem właściwym do monitorowania wykorzystania limitu wydatków, o których mowa w ust. 1, oraz wdrożenia mechanizmu korygującego, o którym mowa w ust. 2, jest minister właściwy do spraw zdrowia.
 
 **Art. 10.**
 
-1. Ograniczone prawo wykonywania zawodu lekarza i ograniczone prawo wykonywania zawodu lekarza dentysty przyznane przed dniem wejścia życie ustawy celu odbycia stażu podyplomowego, stażu adaptacyjnego albo przystąpienia do testu umiejętności, o których mowa ustawie zmienianej art. 1, stają się z dniem wejścia życie ustawy odpowiednio prawem wykonywania zawodu lekarza i prawem wykonywania zawodu lekarza dentysty przyznanym na czas określony i wygasają odpowiednio po odbyciu stażu podyplomowego, stażu adaptacyjnego albo po przystąpieniu do testu umiejętności, o których mowa ustawie zmienianej art. 1, lub po upływie 5 lat od dnia ich przyznania.
+1. Ograniczone prawo wykonywania zawodu lekarza i ograniczone prawo wykonywania zawodu lekarza dentysty przyznane przed dniem wejścia w życie ustawy w celu odbycia stażu podyplomowego, stażu adaptacyjnego albo przystąpienia do testu umiejętności, o których mowa w ustawie zmienianej w art. 1, stają się z dniem wejścia w życie ustawy odpowiednio prawem wykonywania zawodu lekarza i prawem wykonywania zawodu lekarza dentysty przyznanym na czas określony i wygasają odpowiednio po odbyciu stażu podyplomowego, stażu adaptacyjnego albo po przystąpieniu do testu umiejętności, o których mowa w ustawie zmienianej w art. 1, lub po upływie 5 lat od dnia ich przyznania.
 
-2. Dokumenty „Ograniczone prawo wykonywania zawodu lekarza” i „Ograniczone prawo wykonywania zawodu lekarza dentysty” zachowują ważność na czas niezbędny do odbycia odpowiednio stażu podyplomowego, stażu adaptacyjnego albo przystąpienia do testu umiejętności, o których mowa ustawie zmienianej art. 1, nie dłużej jednak niż 5 lat od daty uzyskania ograniczonego prawa wykonywania zawodu.
+2. Dokumenty „Ograniczone prawo wykonywania zawodu lekarza” i „Ograniczone prawo wykonywania zawodu lekarza dentysty” zachowują ważność na czas niezbędny do odbycia odpowiednio stażu podyplomowego, stażu adaptacyjnego albo przystąpienia do testu umiejętności, o których mowa w ustawie zmienianej w art. 1, nie dłużej jednak niż 5 lat od daty uzyskania ograniczonego prawa wykonywania zawodu.
 
-3. Do ograniczonego prawa wykonywania zawodu lekarza i ograniczonego prawa wykonywania zawodu lekarza dentysty przyznanych przed dniem wejścia życie ustawy celu odbycia stażu podyplomowego, stażu adaptacyjnego albo przystąpienia do testu umiejętności, o których mowa ustawie zmienianej art. 1, stosuje się odpowiednio przepisy dotyczące prawa wykonywania zawodu lekarza i prawa wykonywania zawodu lekarza dentysty, o których mowa odpowiednio art. 5 7 i art. 5f ustawy zmienianej art. 1, brzmieniu nadanym ustawą.
+3. Do ograniczonego prawa wykonywania zawodu lekarza i ograniczonego prawa wykonywania zawodu lekarza dentysty przyznanych przed dniem wejścia w życie ustawy w celu odbycia stażu podyplomowego, stażu adaptacyjnego albo przystąpienia do testu umiejętności, o których mowa w ustawie zmienianej w art. 1, stosuje się odpowiednio przepisy dotyczące prawa wykonywania zawodu lekarza i prawa wykonywania zawodu lekarza dentysty, o których mowa odpowiednio w art. 5 ust. 7 i art. 5f ustawy zmienianej w art. 1, w brzmieniu nadanym ustawą.
 
 **Art. 11.**
 
-1. Do osób, o których mowa art. 4 2 pkt 2 ustawy zmienianej art. 5, brzmieniu dotychczasowym, które złożyły terminie od dnia 2 października 2016 r. do dnia 28 lutego 2017 r. dokumenty celu uzyskania prawa wykonywania zawodu lekarza dentysty, nie stosuje się art. 5 3 ustawy zmienianej art. 1. Składając dokumenty, osoby te nie przedstawiają dokumentu stwierdzającego odbycie stażu podyplomowego albo decyzji wydanej na podstawie art. 15 8 albo 9 ustawy zmienianej art. 1.
+1. Do osób, o których mowa w art. 4 ust. 2 pkt 2 ustawy zmienianej w art. 5, w brzmieniu dotychczasowym, które złożyły w terminie od dnia 2 października 2016 r. do dnia 28 lutego 2017 r. dokumenty w celu uzyskania prawa wykonywania zawodu lekarza dentysty, nie stosuje się art. 5 ust. 3 ustawy zmienianej w art. 1. Składając dokumenty, osoby te nie przedstawiają dokumentu stwierdzającego odbycie stażu podyplomowego albo decyzji wydanej na podstawie art. 15 ust. 8 albo 9 ustawy zmienianej w art. 1.
 
-2. Po upływie terminu, o którym mowa 1, uzyskanie prawa wykonywania zawodu lekarza dentysty przez osoby, o których mowa art. 4 2 pkt 2 ustawy zmienianej art. 5, brzmieniu dotychczasowym, wymaga odbycia stażu podyplomowego albo uzyskania uznania stażu podyplomowego odbytego poza terytorium Rzeczypospolitej Polskiej za równoważny ze stażem podyplomowym odbytym Rzeczypospolitej Polskiej.
+2. Po upływie terminu, o którym mowa w ust. 1, uzyskanie prawa wykonywania zawodu lekarza dentysty przez osoby, o których mowa w art. 4 ust. 2 pkt 2 ustawy zmienianej w art. 5, w brzmieniu dotychczasowym, wymaga odbycia stażu podyplomowego albo uzyskania uznania stażu podyplomowego odbytego poza terytorium Rzeczypospolitej Polskiej za równoważny ze stażem podyplomowym odbytym w Rzeczypospolitej Polskiej.
 
-3. Osoby, o których mowa art. 4 2 pkt 2 ustawy zmienianej art. 5, brzmieniu dotychczasowym, które nie uzyskały prawa wykonywania zawodu lekarza dentysty ani nie złożyły dokumentów, o których mowa 1, mogą zostać skierowane do odbycia stażu podyplomowego zgodnie z przepisami ustawy zmienianej art. 1, pod warunkiem złożenia okr ę gowej izbie lekarskiej wła ś ciwej ze wzgl ę du na planowane miejsce odbywania sta ż u o ś wiadczenia o rezygnacji ze zwolnienia z obowi ą zku odbycia sta ż u podyplomowego.
+3. Osoby, o których mowa w art. 4 ust. 2 pkt 2 ustawy zmienianej w art. 5, w brzmieniu dotychczasowym, które nie uzyskały prawa wykonywania zawodu lekarza dentysty ani nie złożyły dokumentów, o których mowa w ust. 1, mogą zostać skierowane do odbycia stażu podyplomowego zgodnie z przepisami ustawy zmienianej w art. 1, pod warunkiem złożenia w okręgowej izbie lekarskiej właściwej ze względu na planowane miejsce odbywania stażu oświadczenia o rezygnacji ze zwolnienia z obowiązku odbycia stażu podyplomowego.
 
-**Art. 12.** Do lekarza i lekarza dentysty odbywaj ą cego sta ż podyplomowy dniu wej ś cia ż ycie ustawy stosuje si ę przepisy art. 15 ustawy zmienianej art. 1, brzmieniu nadanym ustaw ą . dotychczasowym, umarza 2. Cudzoziemcy, o których mowa art. 15 3f ustawy zmienianej art. 1, którzy rozpoczęli odbywanie stażu podyplomowego przed dniem wejścia życie ustawy, odbywają ten staż na zasadach określonych tym przepisie brzmieniu obowiązującym przed dniem wejścia życie ustawy.
+**Art. 12.** Do lekarza i lekarza dentysty odbywającego staż podyplomowy w dniu wejścia w życie ustawy stosuje się przepisy art. 15 ustawy zmienianej w art. 1, w brzmieniu nadanym ustawą.
 
-**Art. 14.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 6 8 ustawy zmienianej art. 1 zachowują moc do dnia wejścia życie nowych przepisów wykonawczych wydanych na podstawie art. 6 8 ustawy zmienianej art. 1, jednak nie dłużej niż przez 3 lata od dnia wejścia życie ustawy.
+**Art. 13.**
 
-**Art. 15.** Ustawa wchodzi życie z dniem 1 stycznia 2017 r., z wyjątkiem:
+1. Postępowania o udzielenie zgody, o której mowa w art. 7 ust. 1a ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, umarza się.
+
+2. Cudzoziemcy, o których mowa w art. 15 ust. 3f ustawy zmienianej w art. 1, którzy rozpoczęli odbywanie stażu podyplomowego przed dniem wejścia w życie ustawy, odbywają ten staż na zasadach określonych w tym przepisie w brzmieniu obowiązującym przed dniem wejścia w życie ustawy.
+
+**Art. 14.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 6 ust. 8 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 6 ust. 8 ustawy zmienianej w art. 1, jednak nie dłużej niż przez 3 lata od dnia wejścia w życie ustawy.
+
+**Art. 15.** Ustawa wchodzi w życie z dniem 1 stycznia 2017 r., z wyjątkiem:
 

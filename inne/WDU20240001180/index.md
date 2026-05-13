@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# Warszawa, dnia 5 sierpnia 2024 OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ dnia sierpnia 2024 sprawie ogłoszenia jednolitego tekstu ustawy zagospodarowaniu Skarbu Państwa przejętych od wojsk Federacji Rosyjskiej
+# sprawie ogłoszenia jednolitego tekstu zagospodarowaniu Skarbu Państwa przejętych od wojsk Federacji Rosyjskiej
 
 | Pole | Wartość |
 |---|---|
@@ -24,60 +24,62 @@ domain: null
 | Ostatnia zmiana | 2024-08-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001180) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1180/text.pdf) |
 
-1. Na podstawie 16 zdanie pierwsze ustawy dnia 20 lipca 2000 ogłaszaniu aktów normatywnych niektórych innych aktów prawnych U. 2019 poz. 1461) ogłasza się załączniku niniejszego obwieszczenia jednolity tekst ustawy dnia 10 czerwca 1994 zagospodarowaniu Skarbu Państwa przejętych od wojsk Federacji Rosyjskiej U. poz. 363), uwzględnieniem zmian wprowadzonych:
-1) ustawą dnia 24 lipca 1998 zmianie niektórych ustaw określających kompetencje organów administracji publicznej związku reformą ustrojową państwa U. poz. 668),
-2) ustawą dnia 9 czerwca 2000 zmianie ustawy podatku dochodowym od osób prawnych U. poz. 700),
-3) ustawą dnia 20 czerwca 2002 bezpośrednim wyborze wójta, burmistrza prezydenta miasta U. poz. 984),
-4) ustawą dnia 30 października 2002 zmianie ustawy podatkach opłatach lokalnych zmianie niektórych innych ustaw U. poz. 1683),
-5) ustawą dnia 12 grudnia 2003 zaliczaniu na poczet ceny sprzedaży albo opłat tytułu użytkowania wieczystego Skarbu Państwa wartości pozostawionych poza obecnymi granicami państwa polskiego U. 2004 poz. 39),
-6) ustawą dnia 25 listopada 2004 zmianie ustawy finansach publicznych zmianie niektórych ustaw U.
-poz. 2703),
-7) ustawą dnia 7 lipca 2023 zmianie ustawy planowaniu zagospodarowaniu przestrzennym niektórych innych ustaw U. poz. 1688) zmian wynikających przepisów ogłoszonych przed 31 lipca 2024
-2. Podany załączniku niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) 150 ustawy dnia 24 lipca 1998 zmianie niektórych ustaw określających kompetencje organów administracji publicznej związku reformą ustrojową państwa U. poz. 668), który stanowi: „Art. 150. Ustawa wchodzi stycznia 1999 r., wyjątkiem 26, 128 2, 139 10, 145 2 4, 146 2 147 2 3, które wchodzą ogłoszenia, 34 1, 36 23, 48 3, 84, 97 1–3, 5–10 12–36 139 9 lit. a), które wchodzą
-2. Ilekroć dotychczasowych przepisach jest mowa zadaniach kompetencjach przewodniczącego zarządu gminy, należy przez to rozumieć wójta (burmistrza, prezydenta miasta).
-3. Ilekroć dotychczasowych przepisach jest mowa zadaniach kompetencjach przewodniczącego zarządu jednostki terytorialnego gminie, należy przez to rozumieć odpowiednio zadania kompetencje wójta (burmistrza, prezydenta miasta).
-4. Z wejścia ustawy nie stosuje się przepisów zobowiązujących wójta (burmistrza, prezydenta miasta) uzyskania stanowiska lub opinii zarządu gminy, nie wyłączając indywidualnych spraw rozstrzyganych drodze decyzji administracyjnej lub postanowienia.
-
-**Art. 100.** Do czasu objęcia obowiązków przez wójta (burmistrza, prezydenta miasta) wybranego trybie określonym niniejszą ustawą funkcję organu wykonawczego gminy pełni zarząd gminy, wybrany przez radę gminy kadencji, czasie której ustawa weszła życie, działający na podstawie przepisów dotychczasowych.” „Art. 102. Ustawa wchodzi po upływie 14 dni od dnia ogłoszenia, tym że przepisy 28–81, 82 6 83–99 wchodzą dniu wyborów organów stanowiących jednostek terytorialnego przeprowadzonych związku zakończeniem kadencji tych organów wybranych dniu 11 października 1998 r.”;
-
-**Art. 1.** Ustawa określa szczególne zasady tryb postępowania nieruchomościami przejętymi od wojsk Federacji Rosyjskiej, zwanymi dalej „nieruchomościami”.
+1. Na podstawie 16 ust. zdanie pierwsze 20 lipca 2000 ogłaszaniu aktów normatywnych niektórych innych aktów prawnych 2019 1461) ogłasza załączniku niniejszego obwieszczenia jednolity tekst 10 czerwca 1994 zagospodarowaniu Skarbu Państwa przejętych od wojsk Federacji Rosyjskiej 363), uwzględnieniem zmian wprowadzonych:
+1) ustawą 24 lipca 1998 zmianie niektórych określających kompetencje organów administracji publicznej – związku reformą ustrojową państwa 668),
+2) ustawą 9 czerwca 2000 zmianie podatku dochodowym od osób prawnych 700),
+3) ustawą 20 czerwca 2002 bezpośrednim wyborze wójta, burmistrza prezydenta miasta 984),
+4) ustawą 30 2002 zmianie podatkach opłatach lokalnych oraz zmianie niektórych innych 1683),
+5) ustawą 12 grudnia 2003 zaliczaniu na poczet ceny sprzedaży albo opłat tytułu użytkowania wieczystego Skarbu Państwa wartości pozostawionych poza obecnymi granicami państwa polskiego 2004 39),
+6) ustawą 25 listopada 2004 zmianie finansach publicznych oraz zmianie niektórych
+2703),
+7) ustawą 7 lipca 2023 zmianie planowaniu zagospodarowaniu przestrzennym oraz niektórych innych
+1688) oraz zmian wynikających przepisów ogłoszonych przed dniem 31 lipca 2024
+2. Podany załączniku niniejszego obwieszczenia tekst jednolity nie obejmuje:
+1) 150 24 lipca 1998 zmianie niektórych określających kompetencje organów administracji publicznej – związku reformą ustrojową państwa 668), który stanowi: „Art. 150. Ustawa wchodzi dniem stycznia 1999 r., wyjątkiem 26, 128 pkt 2, 139 pkt 10, 145 ust. 2 4, 146 ust. 2 4 oraz 147 ust. 2 3, które wchodzą dniem ogłoszenia, 34 pkt 1, 36 pkt 23, 48 pkt 3, 84, 97 pkt 1–3, 5–10 12–36 oraz 139 pkt 9 lit. a), które wchodzą dniem stycznia 2000 r.”;
+2) 5 9 czerwca 2000 zmianie podatku dochodowym od osób prawnych 700), który stanowi: „Art. 5. Ustawa wchodzi dniem stycznia 2001 ma zastosowanie dochodów (strat) uzyskanych od tego dnia.”;
+3) 99, 100 102 20 czerwca 2002 bezpośrednim wyborze wójta, burmistrza prezydenta miasta 984), które stanowią: nym niniejszą ustawą funkcję organu wykonawczego gminy pełni zarząd gminy, wybrany przez radę gminy kadencji, czasie której ustawa weszła życie, działający na podstawie przepisów dotychczasowych.” „Art. 102. Ustawa wchodzi po upływie 14 dni od ogłoszenia, tym że przepisy 28–81, 82 pkt 6 oraz 83–99 wchodzą dniu wyborów organów stanowiących jednostek samorządu terytorialnego przeprowadzonych związku zakończeniem kadencji tych organów wybranych dniu 11 1998 r.”;
+4) 11 30 2002 zmianie podatkach opłatach lokalnych oraz zmianie niektórych innych 1683), który stanowi: „Art. 11. Ustawa wchodzi dniem stycznia 2003 r., wyjątkiem pkt 4 części dotyczącej 7a ust. 2, który wchodzi dniem stycznia 2005 r., oraz pkt 3, części dotyczącej 5 6 ust. 13 podatkach opłatach lokalnych pkt 6, 8, 10, 15, 16 18, które wchodzą dniem ogłoszenia.”;
+5) 17 12 grudnia 2003 zaliczaniu na poczet ceny sprzedaży albo opłat tytułu użytkowania wieczystego Skarbu Państwa wartości pozostawionych poza obecnymi granicami państwa polskiego 2004 39), który stanowi: „Art. 17. Ustawa wchodzi po upływie 14 dni od ogłoszenia.”;
+6) 80 25 listopada 2004 zmianie finansach publicznych oraz zmianie niektórych
+2703), który stanowi: „Art. 80. Ustawa wchodzi dniem stycznia 2005 r., wyjątkiem 26 pkt 2, który wchodzi dniem stycznia 2006 r.”;
+7) 78 7 lipca 2023 zmianie planowaniu zagospodarowaniu przestrzennym oraz niektórych innych 1688), który stanowi: „Art. 78. Ustawa wchodzi po upływie 30 dni od ogłoszenia, wyjątkiem:
+1) pkt 62 lit. e zakresie ust. 3b oraz 67 ust. pkt 3, które wchodzą dniem stycznia 2025 r.;
+2) pkt 10 zakresie 8f 8g ust. 4, pkt 12 zakresie 13b pkt 13i ust. pkt 4, 7 11, pkt 17 lit. d, g lit. k zakresie pkt 13c, pkt 25 zakresie 27b ust. 4 pkt 7, pkt 29 lit. b, pkt 38 lit. b tiret drugie, tiret trzecie zakresie pkt 7b tiret piąte zakresie pkt 11, pkt 39 zakresie 37eb ust. 4 pkt 37ec ust. 2 pkt 8, pkt 45 lit. a tiret drugie, trzecie tiret szóste zakresie pkt 7, pkt 47 lit. a tiret czwarte szóste, pkt 53 60, pkt 62 lit. b f, pkt 63 64, 6 pkt lit. a b, 11–13, 14 pkt 2 lit. b, 16 pkt 3, 22 pkt 3, 27 pkt 4–9, 37 pkt 2 lit. d zakresie ust. 8 9, 39 pkt 2, 41 pkt zakresie pkt 4a, 43 pkt 1, 3, 5, 10, pkt 11 lit. b pkt 13 lit. a zakresie ust. 1, 54, 56 ust. 2, 62, 67 ust. pkt 75–77, które wchodzą dniem stycznia 2026 r.”.
+Marszałek Sejmu: S. Hołownia skiej, zwanymi dalej „nieruchomościami”.
 
 **Art. 2.**
 
-1. Nieruchomości czasu ich przekazania, myśl 2, pozostają we władaniu wojewody.
+1. Nieruchomości czasu ich przekazania, myśl ust. 2, pozostają we władaniu wojewody.
 
-2. Po ustaleniu sposobu zagospodarowania gruntów wraz zabudowaniami wojewoda przekaże, zastrzeżeniem 3, lasy grunty, przeznaczone zalesienia miejscowych planach zagospodarowania przestrzennego, zarząd Państwowemu Gospodarstwu Leśnemu „Lasy Państwowe”, trybie przepisów ustawy dnia 28 września 1991 lasach U. 2024 poz. 530), a rolne bądź przeznaczone miejscowych planach zagospodarowania przestrzennego na cele rolnicze Zasobu Własności Rolnej Skarbu Państwa, trybie przepisów ustawy dnia 19 października 1991 gospodarowaniu nieruchomościami rolnymi Skarbu Państwa zmianie niektórych ustaw U. 2024 poz. 589
+2. Po ustaleniu sposobu zagospodarowania gruntów wraz zabudowaniami wojewoda przekaże, zastrzeżeniem 3, lasy grunty, przeznaczone zalesienia miejscowych planach zagospodarowania przestrzennego, zarząd Państwowemu Gospodarstwu Leśnemu „Lasy Państwowe”, trybie przepisów 28 września 1991 lasach 2024 530), a rolne bądź przeznaczone miejscowych planach zagospodarowania przestrzennego na cele rolnicze – Zasobu Własności Rolnej Skarbu Państwa, trybie przepisów 19 1991 gospodarowaniu nieruchomościami rolnymi Skarbu Państwa oraz zmianie niektórych 2024 589
 
 - **1089)** .
 
-3. Gospodarowanie innymi nieruchomościami niż nieruchomości, których mowa 2 4, podlega przepisom ustawy dnia 29 kwietnia 1985 gospodarce gruntami wywłaszczaniu U. 1991 poz. 127, późn. zm. ) , ze zmianami wynikającymi niniejszej ustawy.
+3. Gospodarowanie innymi nieruchomościami niż nieruchomości, których mowa ust. 2 4, podlega przepisom 29 kwietnia 1985 gospodarce gruntami wywłaszczaniu 1991 127, późn. zm. ) , ze zmianami wynikającymi niniejszej ustawy.
 
-4. Wojewoda dokonuje zbycia drodze darowizny na rzecz gminy, powiatu lub województwa na wniosek organów wykonawczych tych jednostek. Pierwszeństwo nabycia przysługuje gminie, a następnej kolejności powiatowi samorządowi województwa.
+4. Wojewoda dokonuje zbycia drodze darowizny na rzecz gminy, powiatu lub samorządu województwa na wniosek organów wykonawczych tych jednostek. Pierwszeństwo nabycia przysługuje gminie, a następnej kolejności powiatowi samorządowi województwa.
 
-4a. Wojewoda powiadamia zamiarze zbycia, którym mowa 4, wyznaczając jednostkom terytorialnego 30-dniowy termin złożenia wniosku nabycie nieruchomości. Niezłożenie wniosku tym rozumie się jako rezygnację nabycia nieruchomości.
+4a. Wojewoda powiadamia zamiarze zbycia, którym mowa ust. 4, wyznaczając jednostkom samorządu terytorialnego 30-dniowy termin złożenia wniosku nabycie nieruchomości. Niezłożenie wniosku tym terminie rozumie jako rezygnację nabycia nieruchomości.
 
 **Art. 3.** Wojewoda, na wniosek Ministra Obrony Narodowej, odda zarząd szczególnym znaczeniu dla obronności państwa jednostkom organizacyjnym podległym temu Ministrowi.
 
-**Art. 4.** Przy gospodarowaniu nieruchomościami uwzględnia się, pierwszej kolejności, potrzeby państwowych jednostek organizacyjnych nieposiadających osobowości prawnej osób uprawnionych, których mowa 16 1.
+**Art. 4.** Przy gospodarowaniu nieruchomościami uwzględnia się, pierwszej kolejności, potrzeby państwowych jednostek organizacyjnych nieposiadających osobowości prawnej oraz osób uprawnionych, których mowa 16 ust. 1.
 
 **Art. 5.**
 
-1. Dla sporządza się obowiązkowo miejscowy plan zagospodarowania przestrzennego.
+1. Dla sporządza obowiązkowo miejscowy plan zagospodarowania przestrzennego.
 
-2. Do sporządzania uchwalania miejscowego planu zagospodarowania przestrzennego, którym mowa 1, rada gminy na wniosek lub za zgodą wojewody, może zastosować postępowanie uproszczone. Do postępowania uproszczonego, którym mowa zdaniu pierwszym, przepisów 27b 1–3 ustawy dnia 27 marca 2003 planowaniu zagospodarowaniu przestrzennym U. 2024 poz. 1130) nie stosuje się.
+2. Do sporządzania uchwalania miejscowego planu zagospodarowania przestrzennego, którym mowa ust. 1, rada gminy na wniosek lub za zgodą wojewody, może zastosować postępowanie uproszczone. Do postępowania uproszczonego, którym mowa zdaniu pierwszym, przepisów 27b ust. 1–3 27 marca 2003 planowaniu zagospodarowaniu przestrzennym 2024 1130) nie stosuje się.
 
 3. (uchylony)
 
-4. (uchylony) sporządzania projektu programu rolniczego lub leśnego wykorzystania gruntu.
-
-2. Przy wyłączaniu produkcji gruntów rolnych lub leśnych, których mowa 1, organ uprawniony wyłączania może zwolnić obowiązku uiszczania należności opłat rocznych, a odniesieniu gruntów leśnych zadrzewionych także od jednorazowego odszkodowania razie przedwczesnego wyrębu drzewostanu.
+4. (uchylony) także od jednorazowego odszkodowania razie przedwczesnego wyrębu drzewostanu.
 
 **Art. 8.** (uchylony)
 
 **Art. 9.**
 
-- **9)** Wykaz przeznaczonych sprzedaży, użytkowania wieczystego, użytkowania, dzierżawy najmu ogłoszenie przetargu wywiesza się na okres 14 dni siedzibach wojewody jednostek terytorialnego, właściwych ze względu na miejsce położenia nieruchomości. Informację wywieszeniu wykazu przetargu ogłasza się prasie lokalnej centralnej.
+- **9)** Wykaz przeznaczonych sprzedaży, użytkowania wieczystego, użytkowania, dzierżawy najmu oraz ogłoszenie przetargu wywiesza na okres 14 dni siedzibach wojewody jednostek samorządu terytorialnego, właściwych ze względu na miejsce położenia nieruchomości. Informację wywieszeniu wykazu oraz przetargu ogłasza prasie lokalnej centralnej.
 
 **Art. 10.**
 
@@ -85,13 +87,15 @@ poz. 2703),
 
 2. Jeżeli sprzedaż lub oddanie użytkowanie wieczyste nie doszło skutku drodze przetargu, cena może być obniżona, a należność można rozłożyć na równe raty roczne, płatne przez okres 10 lat.
 
-3. W przypadku rozłożenia należności na raty, wierzytelności Skarbu Państwa podlegają zabezpieczeniu hipotecznemu. Art. Lokale mogą być wynajmowane lub dzierżawione niezależnie od ich stanu technicznego, na warunkach określonych przez strony umowie. Umowę zawiera się na czas oznaczony.
+3. W przypadku rozłożenia należności na raty, wierzytelności Skarbu Państwa podlegają zabezpieczeniu hipotecznemu.
+
+**Art. 11.** Lokale mogą być wynajmowane lub dzierżawione niezależnie od ich stanu technicznego, na warunkach określonych przez strony umowie. Umowę zawiera na czas oznaczony.
 
 **Art. 12.**
 
-1. Dzierżawcom lub najemcom bądź ich następcom prawnym przysługuje pierwszeństwo jej nabycia po upływie terminu określonego umowie zawartej zgodnie 11, pod warunkiem wywiązania się obowiązków wynikających tej umowy.
+1. Dzierżawcom lub najemcom bądź ich następcom prawnym przysługuje pierwszeństwo jej nabycia po upływie terminu określonego umowie zawartej zgodnie 11, pod warunkiem wywiązania obowiązków wynikających tej umowy.
 
-2. Przy korzystaniu pierwszeństwa nabyciu, którym mowa 1, cenę określa się według jej wartości ustalonej na dzień zawarcia umowy dzierżawy lub najmu, po jej waloryzacji na dzień nabycia, według zasad obowiązujących przy zwrocie wywłaszczonych nieruchomości.
+2. Przy korzystaniu pierwszeństwa nabyciu, którym mowa ust. 1, cenę określa według jej wartości ustalonej na dzień zawarcia umowy dzierżawy lub najmu, po jej waloryzacji na dzień nabycia, według zasad obowiązujących przy zwrocie wywłaszczonych nieruchomości.
 
 **Art. 13.** (uchylony)
 
@@ -99,43 +103,39 @@ poz. 2703),
 
 **Art. 15.**
 
-1. Podmioty, które przez zagospodarowanie zgodnie umową przyczynią się znacznie powstania nowych miejsc pracy albo poprawy stanu środowiska lub rozwoju infrastruktury technicznej socjalnej, mogą być zwolnione, na okres 3 lat, od podatku od nieruchomości, podatku rolnego podatku leśnego.
+1. Podmioty, które przez zagospodarowanie zgodnie umową przyczynią znacznie powstania nowych miejsc pracy albo poprawy stanu środowiska lub rozwoju infrastruktury technicznej socjalnej, mogą być zwolnione, na okres lat, od podatku od nieruchomości, podatku rolnego podatku leśnego.
 
 2. (uchylony)
 
-3. Warunki zwolnienia ulgi, których mowa 2, określa się umowie, po porozumieniu organem gminy lub właściwym organem skarbowym.
+3. Warunki zwolnienia oraz ulgi, których mowa ust. 2, określa umowie, po porozumieniu organem gminy lub właściwym organem skarbowym.
 
-4. Ust. 1–3 stosuje się również przekazanych, na podstawie niniejszej ustawy, Zasobu Własności Rolnej Skarbu Państwa.
+4. Ust. 1–3 stosuje również przekazanych, na podstawie niniejszej ustawy, Zasobu Własności Rolnej Skarbu Państwa.
 
-5. Zwolnienia ulgi, których mowa 1, nie powodują ograniczeń przyznawaniu subwencji dla gmin. następuje trybie publicznego przetargu ograniczonego tych osób.
+5. Zwolnienia oraz ulgi, których mowa ust. 1, nie powodują ograniczeń przyznawaniu subwencji dla gmin. pożarowego sanitarno-epidemiologicznego oraz niewybuchami, we współdziałaniu wojewodami jednostkami samorządu terytorialnego.
 
-**Art. 18.**
+2. Na podstawie dokumentacji sporządzonej wyniku badań, których mowa ust. 1, oraz innych materiałów wojewoda określi zakres koniecznych wykonania robót zabezpieczających oraz prac rekultywacyjnych dostosowanych sposobu zagospodarowania nieruchomości.
 
-1. Ministrowie: Ochrony Środowiska, Zasobów Naturalnych Leśnictwa , Obrony Narodowej, Spraw Wewnętrznych Zdrowia Opieki Społecznej zbadają pod względem zagrożenia ekologicznego, pożarowego sanitarno-epidemiologicznego niewybuchami, we współdziałaniu wojewodami jednostkami terytorialnego.
+3. Wojewoda może wyłączyć zagospodarowania nieruchomości, na których należy wykonać prace określone ust. 2, przed dopuszczeniem obrotu.
 
-2. Na podstawie dokumentacji sporządzonej wyniku badań, których mowa 1, innych materiałów wojewoda określi zakres koniecznych wykonania robót zabezpieczających prac rekultywacyjnych dostosowanych sposobu zagospodarowania nieruchomości.
+4. W umowach: sprzedaży, oddania użytkowanie wieczyste, użytkowanie, dzierżawy, najmu oraz przy ustanawianiu zarządu – określa obowiązki stron związane wykonaniem prac zabezpieczających rekultywacyjnych, których mowa ust. 2.
 
-3. Wojewoda może wyłączyć zagospodarowania nieruchomości, na których należy wykonać prace określone 2, przed dopuszczeniem obrotu.
-
-4. W umowach: sprzedaży, oddania użytkowanie wieczyste, użytkowanie, dzierżawy, najmu przy ustanawianiu zarządu określa się obowiązki stron związane wykonaniem prac zabezpieczających rekultywacyjnych, których mowa 2.
-
-**Art. 19.** Jeżeli po zawarciu umowy, której mowa 18 4, na terenach zostaną ujawnione zagrożenia zdrowia życia ludzi stwarzające nadzwyczajne zagrożenie dla środowiska, powstałe wyniku stacjonowania wojsk Federacji Rosyjskiej, likwidacja tych zagrożeń szkód jest dokonywana na koszt Skarbu Państwa.
+**Art. 19.** Jeżeli po zawarciu umowy, której mowa 18 ust. 4, na terenach zostaną ujawnione zagrożenia zdrowia życia ludzi oraz stwarzające nadzwyczajne zagrożenie dla środowiska, powstałe wyniku stacjonowania wojsk Federacji Rosyjskiej, likwidacja tych zagrożeń oraz szkód jest dokonywana na koszt Skarbu Państwa.
 
 **Art. 20.** Wojewoda może wydać przepisy porządkowe razie wystąpienia na lub jej otoczeniu zagrożeń dla życia, zdrowia, mienia lub środowiska.
 
 **Art. 21.**
 
-1. W 6 miesięcy od dnia wejścia ustawy rada gminy może zrzec się na rzecz Skarbu Państwa własności nabytej przed wejścia ustawy, jeżeli tego czasu nie nabyły nich praw osoby trzecie. Zrzeczenie następuje formie oświadczenia złożonego wojewodzie.
+1. W terminie 6 miesięcy od wejścia rada gminy może zrzec na rzecz Skarbu Państwa własności nabytej przed dniem wejścia ustawy, jeżeli tego czasu nie nabyły nich praw osoby trzecie. Zrzeczenie następuje formie oświadczenia złożonego wojewodzie.
 
-2. Zrzeczenie się własności części zgodnie wymaga zgody wojewody, jeżeli przez podział zasadniczy sposób zostałyby naruszone jej funkcje jako całości.
+2. Zrzeczenie własności części zgodnie ust. wymaga zgody wojewody, jeżeli przez podział zasadniczy sposób zostałyby naruszone jej funkcje jako całości.
 
 3. Nakłady poniesione przez gminę okresie władania nieruchomością nie podlegają zwrotowi.
 
-**Art. 22.** W 6 miesięcy od dnia wejścia ustawy właściwy organ ureguluje stan prawny przekazanych naruszeniem przepisów właściwości organów.
+**Art. 22.** W terminie 6 miesięcy od wejścia właściwy organ ureguluje stan prawny przekazanych naruszeniem przepisów właściwości organów.
 
 **Art. 23.**
 
-- **13)** Do przekazanych jednostce terytorialnego na własność stosuje się odpowiednio przepisy niniejszej ustawy, wyjątkiem 16.
+- **13)** Do przekazanych jednostce samorządu terytorialnego na własność stosuje odpowiednio przepisy niniejszej ustawy, wyjątkiem 16.
 
-**Art. 24.** Ustawa wchodzi po upływie 14 dni od dnia ogłoszenia .
+**Art. 24.** Ustawa wchodzi po upływie 14 dni od ogłoszenia .
 

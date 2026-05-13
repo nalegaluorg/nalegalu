@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# 483, póên. zm. ), Prezes Najwyższej Izby Kontroli może przenieść pracownika nadzorującego lub wykonującego czynności kontrolne albo pracownika zatrudnionego na stanowisku administracyjnym lub obsługi do pracy na stanowisku urzędniczym wtym urzędzie.
+# z dnia 7 kwietnia 2006 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,209 +24,227 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060790550) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/550/text.pdf) |
 
-2. Przeniesienie, o którym mowa ust. 1, dokonywane jest za zgodą pracownika;
-na czas przeniesienia pracownikowi udzielany jest urlop bezpłatny Najwyższej Izbie Kontroli.”.
-
-**Art. 3.** W ustawie dnia 18 grudnia 1998 o służbie cywilnej (Dz. U. 1999 49, 483, póên. zm. przeniesione na podstawie odrębnych przepisów do wykonywania zadań poza jednostką organizacyjną, której są zatrudnione, jeżeli za przeniesieniem przemawia szczególny interes służby cywilnej.”,
-
-**Art. 4.** W okresie 3 lat od dnia wejścia życie niniejszej ustawy o stanowiska wymienione art. 41 ust. 1 ustawy, o której mowa art. 3, mogą ubiegać się członkowie korpusu służby cywilnej niebędący urzędnikami służby cywilnej.
-
-**Art. 5.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński USTAWA dnia 7 kwietnia 2006 o informowaniu pracowników przeprowadzaniu nimi konsultacji
+o informowaniu i przeprowadzaniu z nimi konsultacji
 
 **Art. 1.**
 
-1. Ustawa określa warunki informowania 2. Przepisy ustawy stosuje się do pracodawców pracowników przeprowadzania nimi konsultacji wykonujących działalność gospodarczą zatrudniajązasady wyboru pracowników. cych co najmniej 50 pracowników. ———————
+1. Ustawa określa warunki informowania i przeprowadzania z nimi konsultacji oraz zasady wyboru rady pracowników.
 
+2. Przepisy ustawy stosuje się do pracodawców wykonujących działalność gospodarczą zatrudniających co najmniej 50 pracowników.
+
+3. Przepisów ustawy dotyczących zasad wyboru rady i ochrony jej członków nie stosuje się do:
+
+- **1)** przedsiębiorstw państwowych, których tworzony jest samorząd załogi przedsiębiorstwa;
 - **2)** przedsiębiorstw mieszanych zatrudniających co najmniej 50 pracowników;
 - **3)** państwowych instytucji filmowych.
 
-4. Wpodmiotach, októrych mowa wust. 3, prawo do uzyskiwania informacji przeprowadzania konsultacji przysługuje radzie pracowniczej.
+4. W podmiotach, o których mowa ust. 3, prawo do uzyskiwania informacji i przeprowadzania konsultacji przysługuje radzie pracowniczej.
 
 **Art. 2.** Użyte ustawie określenia oznaczają:
 
 **Art. 3.**
 
-1. W skład pracowników wchodzi przez grupę co najmniej 20 pracowników. u pracodawcy zatrudniającego, zastrzeżeniem ust. 3 5. Rada pracowników, októrej mowa wust. 4, uleart. 5 ust. 2 pkt 1: ga rozwiązaniu, a mandat jej członków wygasa po
+1. W skład rady wchodzi u pracodawcy zatrudniającego, z zastrzeżeniem art. 5 ust. 2 pkt 1:
 
-- **1)** od 50 do 250 pracowników 3 pracowników; upływie 6 miesięcy od dnia, którym pracodawca, uktórego nie działała do tej pory organizacja związko2) od 251 do 500 pracowników 5 pracowników; wa, został powiadomiony na piśmie o objęciu go za3) powyżej 500 pracowników 7 pracowników. kresem działania organizacji związkowej oliczbie członków organizacji będących pracownikami.
+- **1)** od 50 do 250 – 3 pracowników;
+- **2)** od 251 do 500 – 5 pracowników;
+- **3)** powyżej 500 – 7 pracowników. Przepisy ustawy wdrażają postanowienia dyrektywy Parlamentu Europejskiego i Rady 2002/14/WE z dnia 11 marca 2002 r. ustanawiającej ogólne ramowe warunki informowania i przeprowadzania konsultacji z pracownikami we Wspólnocie Europejskiej (Dz. Urz. WE L 80 z 23.03.2002; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 05, t. 4, str. 219).
 
-2. Każda organizacji związkowych ma prawo wyboru nie mniej niż jednego członka pracowników. 6. Przepisu ust. 5 nie stosuje się, jeżeli do upływu kadencji pracowników pozostało nie więcej niż
+4. (uchylony).
 
-3. W przypadku gdy liczba organizacji związko- 12 miesięcy. wych jest większa niż liczba członków pracowników, o której mowa ust. 1, każdej organizacji Art. 5. 1. Rada pracowników ustala pracodawcą: związkowych przysługuje prawo wyboru jednego 1) zasady tryb przekazywania informacji przeproczłonka pracowników. wadzania konsultacji;
+**Art. 4.**
 
-4. Organizacje związkowe mogą ustalić odmienne 2) tryb rozstrzygania kwestii spornych; od określonych ust. 2 3 zasady reprezentacji ra- 3) zasady ponoszenia kosztów związanych wybodzie pracowników. rem działalnością pracowników powoływaArt. 4. 1. W przypadku gdy u pracodawcy działa: nej wsposób określony wart. 4 ust. 4, wtym kosztów związanych wykonywaniem niezbędnych
+1. (uchylony).
 
-- **1)** jedna organizacja związkowa zarząd organizacji ekspertyz; wybiera członków pracowników powiadamia o tym pracodawcę; 4) zasady ponoszenia kosztów związanych zwykonywaniem niezbędnych ekspertyz przypadku pracowników powoływanej sposób określony art. 4 ust. 1 3.
+2. (uchylony).
 
-2. Rada pracowników może ustalić pracodawcą szczególności:
+3. (uchylony).
 
-- **1)** liczbę członków pracowników inną niż okre3) zasady zwalniania od pracy członków pracowników zależności od liczebności zatrudnionych pracowników.
+4. Członków rady u pracodawcy zatrudniającego:
 
-3. Ustalenia, októrych mowa wust. 1 i2, powinny zapewniać warunki informowania przeprowadzania konsultacji co najmniej równe określonym ustawie uwzględniać interes pracodawcy pracowników.
+- **1)** do 100 – wybierają pracownicy spośród kandydatów zgłoszonych na piśmie przez grupę co najmniej 10 pracowników;
+- **2)** powyżej 100 – wybierają pracownicy spośród kandydatów zgłoszonych na piśmie przez grupę co najmniej 20 pracowników.
 
-4. W przypadku niedokonania ustaleń, o których mowa ust. 1 2, stosuje się przepisy ustawy.
+5. (uchylony).
 
-**Art. 6.** Koszty związane wyborem działalnością pracowników powoływanej sposób określony w:
+6. (uchylony).
 
-**Art. 7.**
+**Art. 5.**
 
-1. Liczbę zatrudnionych u pracodawcy pracowników ustala się na podstawie przeciętnej liczby zatrudnionych ramach stosunku pracy okresie ostatnich 6 miesięcy przed dniem powiadomienia o wyborach członków pracowników.
+1. Rada ustala z pracodawcą:
 
-2. Przy ustalaniu liczby pracowników, o których mowa wust. 1, nie uwzględnia się pracowników młodocianych.
+- **1)** zasady i tryb przekazywania informacji i przeprowadzania konsultacji;
+- **2)** tryb rozstrzygania kwestii spornych;
+- **3)** zasady ponoszenia kosztów związanych z wyborem i działalnością rady pracowników, tym kosztów związanych z wykonywaniem niezbędnych ekspertyz.
+- **4)** (uchylony).
 
-3. W celu obliczenia przeciętnej liczby zatrudnionych okresie ostatnich 6 miesięcy dodaje się liczby zatrudnionych kolejnych miesiącach otrzymaną sumę dzieli przez 6.
+2. Rada może ustalić z pracodawcą szczególności:
 
-4. Wcelu obliczenia przeciętnej liczby zatrudnionych upracodawcy działającego krócej niż 6 miesięcy dodaje się liczby zatrudnionych wkolejnych miesiącach iotrzymaną sumę dzieli się przez liczbę tych miesięcy.
+- **1)** liczbę członków rady inną niż określona art. 3 ust. 1, nie mniej jednak niż 3 członków rady pracowników;
+- **2)** zasady pokrywania kosztów związanych z pomocą osób posiadających specjalistyczną wiedzę, z której korzysta rada pracowników;
+- **3)** zasady zwalniania od pracy członków rady zależności od liczebności zatrudnionych pracowników.
 
-5. Po osiągnięciu wielkości zatrudnienia, o której mowa art. 1 ust. 2, pracodawca niezwłocznie podaje tę informację do wiadomości pracowników sposób przyjęty u danego pracodawcy.
+3. Ustalenia, o których mowa ust. 1 i 2, powinny zapewniać warunki informowania i przeprowadzania konsultacji co najmniej równe określonym ustawie oraz uwzględniać interes pracodawcy i pracowników.
+
+4. W przypadku niedokonania ustaleń, o których mowa ust. 1 i 2, stosuje się przepisy ustawy.
+
+**Art. 6.** Koszty związane z wyborem i działalnością rady ponosi pracodawca. ostatnich 6 miesięcy przed dniem powiadomienia o wyborach członków rady pracowników. 2. (uchylony). 3. W celu obliczenia przeciętnej liczby zatrudnionych okresie ostatnich 6 miesięcy dodaje się liczby zatrudnionych kolejnych miesiącach i otrzymaną sumę dzieli przez 6. 4. W celu obliczenia przeciętnej liczby zatrudnionych u pracodawcy działającego krócej niż 6 miesięcy dodaje się liczby zatrudnionych kolejnych miesiącach i otrzymaną sumę dzieli się przez liczbę tych miesięcy. 5. Po osiągnięciu wielkości zatrudnienia, o której mowa art. 1 ust. 2, pracodawca niezwłocznie podaje tę informację do wiadomości sposób przyjęty u danego pracodawcy.
 
 **Art. 8.**
 
-1. Wybory członków pracowników powoływanej sposób określony art. 4 ust. 4 organizuje pracodawca na pisemny wniosek grupy co najmniej 10 % pracowników, powiadamiając o terminie ich przeprowadzenia terminie zgłoszenia kandydatów na członków pracowników wsposób przyjęty u danego pracodawcy.
+1. Wybory członków rady organizuje pracodawca na pisemny wniosek grupy co najmniej 10% pracowników, powiadamiając o terminie ich przeprowadzenia oraz terminie zgłoszenia kandydatów na członków rady sposób przyjęty u danego pracodawcy.
 
-2. Powiadomienie, októrym mowa wust. 1, następuje nie póêniej niż na 30 dni przed dniem wyborów. Termin zgłoszenia kandydatów na członków pracowników wynosi 21 dni.
+2. Powiadomienie, o którym mowa ust. 1, następuje nie później niż na 30 dni przed dniem wyborów. Termin zgłoszenia kandydatów na członków rady wynosi 21 dni.
 
-3. Przepisy ust. 1 2 stosuje się odpowiednio do wyborów członków pracowników powoływanej sposób określony art. 4 ust. 3.
+3. (uchylony).
 
 **Art. 9.**
 
-1. Czynne prawo wyborcze przysługuje każ3. Bierne prawo wyborcze nie przysługuje pracownikowi kierującemu jednoosobowo zakładem pracy, jego zastępcy, pracownikowi wchodzącemu skład kolegialnego organu zarządzającego zakładem pracy, głównemu księgowemu, radcy prawnemu pracownikowi młodocianemu.
+1. Czynne prawo wyborcze przysługuje każdemu pracownikowi, z wyjątkiem młodocianych.
 
-4. Do okresu pracy, o którym mowa ust. 2, wlicza się okres zatrudnienia u poprzedniego pracodawcy, jeżeli zmiana pracodawcy nastąpiła na zasadach określonych art. 23 ustawy dnia 26 czerwca 1974r. Kodeks pracy, innych przypadkach, gdy na podstawie odrębnych przepisów nowy pracodawca stał się mocy prawa stroną dotychczasowych stosunkach pracy.
+2. Bierne prawo wyborcze przysługuje pracownikowi, który przepracował u pracodawcy nieprzerwanie co najmniej rok, chyba że pracodawca działa krócej.
 
-**Art. 10.**
+3. Bierne prawo wyborcze nie przysługuje pracownikowi kierującemu jednoosobowo zakładem pracy, jego zastępcy, pracownikowi wchodzącemu skład kolegialnego organu zarządzającego zakładem pracy, głównemu księgowemu, radcy prawnemu oraz pracownikowi młodocianemu.
 
-1. Wybory członków pracowników przeprowadza komisja wyborcza.
+4. Do okresu pracy, o którym mowa ust. 2, wlicza się okres zatrudnienia u poprzedniego pracodawcy, jeżeli zmiana pracodawcy nastąpiła na zasadach określonych art. 23 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy, oraz innych przypadkach, gdy na podstawie odrębnych przepisów nowy pracodawca stał się z mocy prawa stroną dotychczasowych stosunkach pracy.
 
-2. Skład zasady powoływania tryb działania komisji wyborczej dla wyborów, o których mowa w:
+2. Skład i zasady powoływania oraz tryb działania komisji wyborczej określa regulamin ustalony przez pracodawcę i uzgodniony z pracownikami wyłonionymi trybie przyjętym u danego pracodawcy. W przypadku nieuzgodnienia regulaminu terminie 30 dni od dnia jego przekazania regulamin ustala pracodawca, uwzględniając ustalenia dokonane trakcie jego uzgadniania.
 
-- **1)** art. 4 ust. 3 określa regulamin ustalony przez pracodawcę uzgodniony organizacjami związkowymi;
-- **2)** art. 4 ust. 4 określa regulamin ustalony przez pracodawcę uzgodniony pracownikami wyłonionymi wtrybie przyjętym udanego pracodawcy. W przypadku nieuzgodnienia regulaminu terminie 30 dni od dnia jego przekazania regulamin ustala pracodawca, uwzględniając ustalenia dokonane trakcie jego uzgadniania.
+3. Wybory przeprowadza się dniu roboczym, jeżeli jest to możliwe, na ogólnym zebraniu lub inny sposób przewidziany regulaminie, o którym mowa ust. 2, nie później niż terminie 30 dni od dnia jego ustalenia.
 
-3. Wybory przeprowadza się dniu roboczym, jeżeli jest to możliwe, na ogólnym zebraniu pracowników lub inny sposób przewidziany regulaminie, o którym mowa ust. 2, nie póêniej niż terminie 30 dni od dnia jego ustalenia.
+4. Wybory członków rady są bezpośrednie i odbywają się głosowaniu tajnym.
 
-4. Wybory członków pracowników są bezpośrednie odbywają się głosowaniu tajnym.
+5. Wybory są ważne, jeżeli wzięło nich udział co najmniej 50% zatrudnionych u pracodawcy.
 
-5. Wybory są ważne, jeżeli wzięło wnich udział co najmniej 50 % pracowników zatrudnionych u pracodawcy.
+6. W przypadku gdy wyborach nie wzięło udziału co najmniej 50% pracowników, po upływie 30 dni od dnia tych wyborów przeprowadza się ponowne wybory, które uznaje się za ważne bez względu na liczbę pracowników, którzy wzięli nich udział.
 
-6. W przypadku gdy wyborach nie wzięło udziału co najmniej 50 % pracowników, po upływie 30 dni od dnia tych wyborów przeprowadza się ponowne wybory, które uznaje się za ważne bez względu na liczbę pracowników, którzy wzięli nich udział.
+7. Członkami rady zostają kandydaci, którzy otrzymają kolejno największą liczbę głosów.
 
-7. Członkami pracowników zostają kandydaci, którzy otrzymają kolejno największą liczbę głosów.
+8. W przypadku gdy kandydaci na członków rady otrzymają równą liczbę głosów, a liczba miejsc pozostających do obsadzenia jest mniejsza od liczby tych kandydatów, wyboru członków rady dokonują ponownie pracownicy spośród tych kandydatów.
 
-8. W przypadku gdy kandydaci na członków pracowników otrzymają równą liczbę głosów, a liczba miejsc pozostających do obsadzenia jest mniejsza od
+**Art. 11.**
 
-2. Wterminie 30 dni od dnia wyboru pracowników pracodawca zwołuje pierwsze zebranie pracowników.
+1. Kadencja rady trwa 4 lata od dnia jej wyboru.
 
-3. Rada pracowników wybiera ze swojego grona przewodniczącego uchwala swój regulamin.
+2. W terminie 30 dni od dnia wyboru członków rady pracodawca zwołuje pierwsze zebranie rady pracowników.
 
-4. Rada pracowników działa do dnia pierwszego posiedzenia nowo wybranej pracowników.
+3. Zmniejszenie się liczby zatrudnionych poniżej liczby, o której mowa art. 1 ust. 2, nie powoduje skrócenia kadencji rady pracowników.
 
-5. Pracodawca obowiązany jest do zorganizowania wyborów członków kolejnej pracowników co najmniej na 14 dni przed upływem kadencji pracowników.
+4. Rada wybiera ze swojego grona przewodniczącego i uchwala swój regulamin.
 
-**Art. 12.**
+5. Pracodawca jest obowiązany do powiadomienia o prawie do wyboru członków kolejnej rady co najmniej na 60 dni przed upływem kadencji rady pracowników. członkostwa podpisanego co najmniej przez 50 % zatrudnionych u pracodawcy co najmniej przez 6 miesięcy.
 
-1. Członkostwo radzie pracowników powoływanej sposób określony art. 4 ust. 4 ustaje razie rozwiązania lub wygaśnięcia stosunku pracy, zrzeczenia się funkcji lub wniosku sprawie ustania członkostwa podpisanego co najmniej przez 50 % pracowników zatrudnionych u pracodawcy co najmniej przez 6 miesięcy.
+2. W przypadkach, o których mowa ust. 1, przeprowadza się wybory uzupełniające na zasadach określonych art. 9 i 10.
 
-2. W przypadkach, o których mowa ust. 1, przeprowadza się wybory uzupełniające na zasadach określonych art. 9 10.
+3. (uchylony).
 
-3. Członkostwo radzie pracowników powoływanej sposób określony art. 4 ust. 1 3 ustaje razie rozwiązania lub wygaśnięcia stosunku pracy, zrzeczenia się funkcji lub odwołania przez organizację związkową.
-
-4. W przypadku, o którym mowa ust. 3, organizacja związkowa wybiera nowych członków pracowników.
+4. (uchylony).
 
 **Art. 13.**
 
-1. Pracodawca przekazuje radzie pracowników informacje dotyczące:
+1. Pracodawca przekazuje radzie informacje dotyczące:
 
-- **1)** działalności sytuacji ekonomicznej pracodawcy przewidywanych tym zakresie zmian;
-- **2)** stanu, struktury przewidywanych zmian zatrudnienia działań mających na celu utrzymanie poziomu zatrudnienia;
+- **1)** działalności i sytuacji ekonomicznej pracodawcy oraz przewidywanych tym zakresie zmian;
+- **2)** stanu, struktury i przewidywanych zmian zatrudnienia oraz działań mających na celu utrzymanie poziomu zatrudnienia;
 - **3)** działań, które mogą powodować istotne zmiany organizacji pracy lub podstawach zatrudnienia.
 
-2. Pracodawca przekazuje informacje wrazie przewidywanych zmian lub zamierzonych działań na pisemny wniosek pracowników.
+2. Pracodawca przekazuje informacje razie przewidywanych zmian lub zamierzonych działań oraz na pisemny wniosek rady pracowników.
 
-3. Pracodawca przekazuje informacje terminie, formie izakresie umożliwiającym radzie pracowników zapoznanie się ze sprawą, przeanalizowanie tych informacji, a sprawach, o których mowa ust. 1
+3. Pracodawca przekazuje informacje terminie, formie i zakresie umożliwiającym radzie zapoznanie się ze sprawą, przeanalizowanie tych informacji, a sprawach, o których mowa ust. 1 pkt 2 i 3, przygotowanie się do konsultacji.
 
-5. Każdy członków pracowników może przedstawić zdanie odrębne, które powinno być przedstawione pracodawcy.
+4. W sprawach, o których mowa ust. 1, rada może przedstawić opinię; przyjęcie opinii wymaga zgody większości członków rady pracowników.
+
+5. Każdy z członków rady może przedstawić zdanie odrębne, które powinno być przedstawione pracodawcy.
 
 **Art. 14.**
 
-1. Pracodawca prowadzi konsultacje zradą pracowników sprawach, o których mowa art. 13 ust. 1 pkt 2 3.
+1. Pracodawca prowadzi konsultacje z radą sprawach, o których mowa art. 13 ust. 1 pkt 2 i 3.
 
 2. Konsultacje powinny być prowadzone:
 
-- **1)** wterminie, formie izakresie umożliwiającym pracodawcy podjęcie działań sprawach objętych konsultacjami;
+- **1)** terminie, formie i zakresie umożliwiającym pracodawcy podjęcie działań sprawach objętych konsultacjami;
 - **2)** zależności od przedmiotu dyskusji, na odpowiednim poziomie kierowniczym;
-- **3)** na podstawie informacji przekazanej przez pracodawcę opinii przedstawionej przez radę pracowników zdania odrębnego członka pracowników;
-- **4)** sposób umożliwiający radzie pracowników odbycie spotkania zpracodawcą wcelu uzyskania jego stanowiska wraz zuzasadnieniem odnoszącym się do jej opinii;
-- **5)** celu umożliwienia osiągnięcia porozumienia pomiędzy radą pracowników a pracodawcą.
+- **3)** na podstawie informacji przekazanej przez pracodawcę oraz opinii przedstawionej przez radę i zdania odrębnego członka rady pracowników; opinii;
+- **5)** celu umożliwienia osiągnięcia porozumienia pomiędzy radą a pracodawcą.
 
-3. Rada pracowników pracodawca prowadzą konsultacje wdobrej wierze zposzanowaniem interesów stron.
+3. Rada oraz pracodawca prowadzą konsultacje dobrej wierze oraz z poszanowaniem interesów stron.
 
-**Art. 15.** Przy wykonywaniu zadań rada pracowników może korzystać pomocy osób posiadających specjalistyczną wiedzę.
+**Art. 15.** Przy wykonywaniu zadań rada może korzystać z pomocy osób posiadających specjalistyczną wiedzę.
 
 **Art. 16.**
 
-1. Rada pracowników osoby, o których mowa wart. 15, są obowiązani do nieujawniania uzyskanych związku pełnioną funkcją informacji stanowiących tajemnicę przedsiębiorstwa, co do których pracodawca zastrzegł obowiązek zachowania ich poufności. Nieujawnianie uzyskanych informacji obowiązuje również po zaprzestaniu pełnienia funkcji, lecz nie dłużej niż przez okres 3 lat.
+1. Rada oraz osoby, o których mowa art. 15, są obowiązani do nieujawniania uzyskanych związku z pełnioną funkcją informacji stanowiących tajemnicę przedsiębiorstwa, co do których pracodawca zastrzegł obowiązek zachowania ich poufności. Nieujawnianie uzyskanych informacji obowiązuje również po zaprzestaniu pełnienia funkcji, lecz nie dłużej niż przez okres 3 lat.
 
-2. Pracodawca, wszczególnie uzasadnionych przypadkach, może nie udostępnić radzie pracowników informacji, których ujawnienie mogłoby, według obiektywnych kryteriów, poważnie zakłócić działalność przedsiębiorstwa lub zakładu, których dotyczą, albo narazić je na znaczną szkodę.
+2. Pracodawca, szczególnie uzasadnionych przypadkach, może nie udostępnić radzie informacji, których ujawnienie mogłoby, według obiektywnych kryteriów, poważnie zakłócić działalność przedsiębiorstwa lub zakładu, których dotyczą, albo narazić je na znaczną szkodę.
 
-3. Wprzypadku uznania, że zastrzeżenie poufności informacji lub ich nieudostępnienie jest niezgodne zprzepisami ust. 1 lub 2, rada pracowników może wystąpić do sądu rejonowego sądu gospodarczego wnioskiem o zwolnienie obowiązku zachowania 43, 296, zpóên. zm. ) orozpoznawaniu spraw zakresu przepisów o przedsiębiorstwach państwowych o samorządzie załogi przedsiębiorstwa państwowego, wyłączeniem art. 691 § 2 art. 691 . Zdolność sądową wtych sprawach mają rada pracowników pracodawca.
+3. W przypadku uznania, że zastrzeżenie poufności informacji lub ich nieudostępnienie jest niezgodne z przepisami ust. 1 lub 2, rada może wystąpić do sądu rejonowego – sądu gospodarczego z wnioskiem o zwolnienie z obowiązku zachowania poufności informacji lub o nakazanie udostępnienia informacji lub przeprowadzenia konsultacji.
 
-5. Sąd, na wniosek pracodawcy lub urzędu, może, drodze postanowienia, niezbędnym zakresie ograniczyć prawo wglądu do materiału dowodowego załączonego przez pracodawcę do akt sprawy toku postępowania sądowego, jeżeli udostępnienie tego materiału groziłoby ujawnieniem tajemnicy przedsiębiorstwa lub innych tajemnic podlegających ochronie na podstawie odrębnych przepisów. Na postanowienie sądu ograniczające prawo wglądu do materiału dowodowego zażalenie nie przysługuje.
+4. W sprawach, o których mowa ust. 3, stosuje się odpowiednio przepisy ustawy z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego (Dz.U. Nr 43, poz. 296, z późn. zm. ) o rozpoznawaniu spraw z zakresu przepisów o Zmiany wymienionej ustawy zostały ogłoszone Dz. U. z 1965 r. Nr 15, poz. 113, z 1974 r. Nr 27, poz. 157 i Nr 39, poz. 231, z 1975 r. Nr 45, poz. 234, z 1982 r. Nr 11, poz. 82 i Nr 30, poz. 210, z 1983 r. Nr 5, poz. 33, z 1984 r. Nr 45, poz. 241 i 242, z 1985 r. Nr 20, poz. 86, z 1987 r. Nr 21, poz. 123, z 1988 r. Nr 41, poz. 324, z 1989 r. Nr 4, poz. 21 i Nr 33, poz. 175, z 1990 r. Nr 14, poz. 88, Nr 34, poz. 198, Nr 53, poz. 306, Nr 55, poz. 318 i Nr 79, poz. 464, z 1991 r. Nr 7, poz. 24, Nr 22, poz. 92 i Nr 115, poz. 496, z 1993 r. Nr 12, poz. 53, z 1994 r. Nr 105, poz. 509, z sprawach mają rada oraz pracodawca.
 
-6. Przepisy ust. 1—5 nie naruszają przepisów o ochronie tajemnicy określonych przepisach odrębnych.
+5. Sąd, na wniosek pracodawcy lub z urzędu, może, drodze postanowienia, niezbędnym zakresie ograniczyć prawo wglądu do materiału dowodowego załączonego przez pracodawcę do akt sprawy toku postępowania sądowego, jeżeli udostępnienie tego materiału groziłoby ujawnieniem tajemnicy przedsiębiorstwa lub innych tajemnic podlegających ochronie na podstawie odrębnych przepisów. Na postanowienie sądu ograniczające prawo wglądu do materiału dowodowego zażalenie nie przysługuje.
+
+6. Przepisy ust. 1-5 nie naruszają przepisów o ochronie tajemnicy określonych przepisach odrębnych.
 
 **Art. 17.**
 
-1. Pracodawca nie może bez zgody pracowników wypowiedzieć ani rozwiązać stosunku pracowników okresie jego członkostwa radzie pracowników, wyjątkiem gdy dopuszczają to przepisy innych ustaw.
+1. Pracodawca nie może bez zgody rady wypowiedzieć ani rozwiązać stosunku pracy z pracownikiem będącym jej członkiem okresie jego członkostwa radzie pracowników. 1995 r. Nr 83, poz. 417, z 1996 r. Nr 24, poz. 110, Nr 43, poz. 189, Nr 73, poz. 350 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 270, Nr 54, poz. 348, Nr 75, poz. 471, Nr 102, poz. 643, Nr 117, poz. 752, Nr 121, poz. 769 i 770, Nr 133, poz. 882, Nr 139, poz. 934, Nr 140, poz. 940 i Nr 141, poz. 944, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 757, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 269 i 271, Nr 48, poz. 552 i 554, Nr 55, poz. 665, Nr 73, poz. 852, Nr 94, poz. 1037, Nr 114, poz. 1191 i 1193 i Nr 122, poz. 1314, 1319 i 1322, z 2001 r. Nr 4, poz. 27, Nr 49, poz. 508, Nr 63, poz. 635, Nr 98, poz. 1069, 1070 i 1071, Nr 123, poz. 1353, Nr 125, poz. 1368 i Nr 138, poz. 1546, z 2002 r. Nr 25, poz. 253, Nr 26, poz. 265, Nr 74, poz. 676, Nr 84, poz. 764, Nr 126, poz. 1069 i 1070, Nr 129, poz. 1102, Nr 153, poz. 1271, Nr 219, poz. 1849 i Nr 240, poz. 2058, z 2003 r. Nr 41, poz. 360, Nr 42, poz. 363, Nr 60, poz. 535, Nr 109, poz. 1035, Nr 119, poz. 1121, Nr 130, poz. 1188, Nr 139, poz. 1323, Nr 199, poz. 1939 i Nr 228, poz. 2255, z 2004 r. Nr 9 poz. 75, Nr 11, poz. 101, Nr 68, poz. 623, Nr 91, poz. 871, Nr 93, poz. 891, Nr 121, poz. 1264, Nr 162, poz. 1691, Nr 169, poz. 1783, Nr 172, poz. 1804, Nr 204, poz. 2091, Nr 210, poz. 2135, Nr 236, poz. 2356 i Nr 237, poz. 2384, z 2005 r. Nr 13, poz. 98, Nr 22, poz. 185, Nr 86, poz. 732, Nr 122, poz. 1024, Nr 143, poz. 1199, Nr 150, poz. 1239, Nr 167, poz. 1398, Nr 169, poz. 1413 i 1417, Nr 172, poz. 1438, Nr 178, poz. 1478, Nr 183, poz. 1538 i Nr 267, poz. 2258 oraz z 2006 r. Nr 12, poz. 66 i Nr 66, poz. 466. okresie jego członkostwa radzie pracowników, z wyjątkiem gdy dopuszczają to przepisy innych ustaw.
 
-3. Pracownik będący członkiem pracowników ma prawo do zwolnienia od pracy zawodowej, zzachowaniem prawa do wynagrodzenia, na czas niezbędny do udziału wpracach pracowników, które nie mogą być wykonane poza godzinami pracy, przypadku gdy nie korzysta ze zwolnienia zinnego tytułu.
+3. Pracownik będący członkiem rady ma prawo do zwolnienia od pracy zawodowej, z zachowaniem prawa do wynagrodzenia, na czas niezbędny do udziału pracach rady pracowników, które nie mogą być wykonane poza godzinami pracy, przypadku gdy nie korzysta ze zwolnienia z innego tytułu.
 
-**Art. 18.** Pracodawca wterminie 30 dni od dnia powiadomienia określonego art. 4 ust. 1 lub od dnia wyboru członków pracowników przez pracowników przekazuje ministrowi właściwemu do spraw pracy informacje dotyczące pracowników według wzoru stanowiącego załącznik do ustawy.
+**Art. 18.** Pracodawca terminie 30 dni od dnia wyboru członków rady przez przekazuje ministrowi właściwemu do spraw pracy informacje dotyczące rady według wzoru stanowiącego załącznik do ustawy.
 
 **Art. 19.**
 
 1. Kto wbrew przepisom ustawy:
 
-- **1)** uniemożliwia utworzenie pracowników,
-- **2)** nie podaje informacji, októrej mowa wart. 7 ust. 5,
-- **3)** nie organizuje wyborów pracowników lub je pracy pracownikiem będącym jej członkiem okre- utrudnia, sie jego członkostwa radzie pracowników. 4) nie informuje pracowników lub nie przepro2. Pracodawca nie może bez zgody pracowni- wadza nią konsultacji sprawach określonych ków zmienić jednostronnie warunków pracy lub płacy ustawie lub utrudnia przeprowadzenie konsulna niekorzyść pracownika będącego członkiem tacji,
-- **5)** dyskryminuje członka pracowników wzwiązku wykonywaniem przez niego czynności związanych informowaniem przeprowadzaniem konsultacji podlega karze ograniczenia wolności albo grzywny.
+- **1)** uniemożliwia utworzenie rady pracowników,
+- **2)** nie podaje informacji, o której mowa art. 7 ust. 5,
+- **3)** nie organizuje wyborów rady lub je utrudnia,
+- **4)** nie informuje rady lub nie przeprowadza z nią konsultacji sprawach określonych ustawie lub utrudnia przeprowadzenie konsultacji,
+- **5)** dyskryminuje członka rady związku z wykonywaniem przez niego czynności związanych z informowaniem i przeprowadzaniem konsultacji – podlega karze ograniczenia wolności albo grzywny.
 
-2. Członek pracowników lub osoba, o której mowa art. 15, jeżeli okresie, o którym mowa art. 16 ust. 1, ujawnią dane, co do których pracodawca zastrzegł poufność, podlega karze ograniczenia wolności albo grzywny.
+2. Członek rady lub osoba, o której mowa art. 15, jeżeli okresie, o którym mowa art. 16 ust. 1, ujawnią dane, co do których pracodawca zastrzegł poufność, podlega karze ograniczenia wolności albo grzywny.
 
-3. Âciganie wykroczenia, o którym mowa ust. 2, następuje na wniosek pokrzywdzonego pracodawcy.
+3. Ściganie wykroczenia, o którym mowa ust. 2, następuje na wniosek pokrzywdzonego pracodawcy.
 
-4. Postępowanie sprawach, o których mowa ust. 1 2, toczy się na podstawie przepisów ustawy dnia 24 sierpnia 2001 Kodeks postępowania sprawach o wykroczenia (Dz. U. 106, 1148, zpóên. zm. ). Wsprawach określonych wust. 1 oskarżycielem publicznym jest inspektor pracy.
+4. Postępowanie sprawach, o których mowa ust. 1 i 2, toczy się na podstawie przepisów ustawy z dnia 24 sierpnia 2001 r. - Kodeks postępowania sprawach o wykroczenia (Dz.U. Nr 106, poz. 1148, z późn. zm. ). W sprawach określonych ust. 1 oskarżycielem publicznym jest inspektor pracy. Zmiany wymienionej ustawy zostały ogłoszone Dz.U. z 2003 r. Nr 109, poz. 1031 i Nr 213, poz. 2081, z 2004 r. Nr 128, poz. 1351 oraz z 2005 r. Nr 132, poz. 1103 i Nr 143, poz. 1203. ust. 1 dodaje się ust. 1a brzmieniu: „1a. Rada pracownicza przedsiębiorstwa ma prawo do uzyskiwania informacji i przeprowadzania konsultacji zgodnie z przepisami ustawy z dnia 7 kwietnia 2006 r. o informowaniu i przeprowadzaniu z nimi konsultacji (Dz. U. Nr 79, poz. 550).”.
 
-**Art. 20.** Wustawie zdnia 25 września 1981 osamorządzie załogi przedsiębiorstwa państwowego (Dz. U. 24, 123, póên. zm. ) art. 25 po ust. 1 dodaje się ust. 1a brzmieniu: Ń1a. Rada pracownicza przedsiębiorstwa ma prawo do uzyskiwania informacji przeprowadzania konsultacji zgodnie przepisami ustawy dnia 7kwietnia 2006 oinformowaniu pracowników przeprowadzaniu nimi konsultacji (Dz. U. 79, 550).”.
+**Art. 21.** W ustawie z dnia 10 lipca 1985 r. o przedsiębiorstwach mieszanych (Dz. U. Nr 32, poz. 142, z 1986 r. Nr 12, poz. 72, z 1987 r. Nr 33, poz. 181 oraz z 1994 r. Nr 121, poz. 591) po art. 23 dodaje się art. 23a brzmieniu: „Art. 23a. Rada pracownicza ma prawo do uzyskiwania informacji i przeprowadzania konsultacji zgodnie z przepisami ustawy z dnia 7 kwietnia 2006 r. o informowaniu i przeprowadzaniu z nimi konsultacji (Dz. U. Nr 79, poz. 550).”.
 
-**Art. 21.** W ustawie dnia 10 lipca 1985 o przedsiębiorstwach mieszanych (Dz. U. 32, 142, 1986 12, 72, 1987 33, 181 1994 121, 591) po art. 23 dodaje się art. 23a brzmieniu: ŃArt. 23a. Rada pracownicza ma prawo do uzyskiwania informacji przeprowadzania konsultacji zgodnie przepisami ustawy dnia 7 kwietnia 2006 oinformowaniu pracowników iprzeprowadzaniu znimi konsultacji (Dz. U. 79, 550).”.
+**Art. 22.** W ustawie z dnia 23 października 1987 r. o przedsiębiorstwie państwowym „Porty Lotnicze” (Dz. U. Nr 33, poz. 185) art. 35 po ust. 2 dodaje się ust. 3 brzmieniu: „3. Rada pracownicza ma prawo do uzyskiwania informacji i przeprowadzania konsultacji zgodnie z przepisami ustawy z dnia 7 kwietnia 2006 r. o informowaniu i przeprowadzaniu z nimi konsultacji (Dz. U. Nr 79, poz. 550).”.
 
-**Art. 22.** W ustawie dnia 23 paêdziernika 1987 o przedsiębiorstwie państwowym ŃPorty Lotnicze” (Dz. U. 33, 185) art. 35 po ust. 2 dodaje się ust. 3 brzmieniu: Ń3. Rada pracownicza ma prawo do uzyskiwania informacji przeprowadzania konsultacji zgodnie zprzepisami ustawy zdnia 7 kwietnia 2006 oinformowaniu pracowników przeprowadzaniu nimi konsultacji (Dz. U. 79, 550).”.
-
-**Art. 23.** Wustawie zdnia 13 marca 2003 oszczególnych zasadach rozwiązywania zpracownikami stosunków pracy przyczyn niedotyczących pracowników (Dz. U. 90, 844, póên. zm. 3. Każda ze stron porozumienia, o którym mowa wust. 1, może złożyć drugiej stronie pisemne zastrzeżenie co do spełniania przez to porozumienie wymogów określonych ust. 1. 4. W przypadku gdy terminie 30 dni od dnia zgłoszenia zastrzeżenia, októrym mowa wust. 3, strony porozumienia nie uzgodnią wskazanych nim zarzutów, porozumienie rozwiązuje się mocy prawa. W takim przypadku stosuje się przepisy ustawy. 5. Pracodawca, terminie 30 dni od dnia wejścia życie ustawy, informuje ministra właściwego do spraw pracy o zawartym porozumieniu.
-
-**Art. 25.**
-
-1. Informację, októrej mowa wart. 4 ust. 1 3, organizacja związkowa przekazuje pracodawcy wterminie 2 miesięcy od dnia wejścia wżycie ustawy.
-
-2. W przypadkach, o których mowa art. 4 ust. 3 i4, pracodawca wterminie 4 miesięcy od dnia wejścia życie ustawy obowiązany jest do poinformowania pracowników sposób przyjęty u danego pracodawcy o prawie pracowników do wyboru pracowników jej uprawnieniach.
-
-3. W terminie 6 miesięcy od dnia wejścia życie ustawy pracodawca, októrym mowa wust. 2, obowiązany jest do zorganizowania wyborów członków pracowników.
-
-**Art. 26.**
-
-1. Do dnia 23 marca 2008 przepisy ustawy stosuje się do pracodawców zatrudniających co ) art. 5 najmniej 100 pracowników. ust. 5 pkt 6 kropkę zastępuje się średnikiem dodaje się pkt 7 brzmieniu: 2. W okresie od dnia 24 marca 2008 do dnia: Ń7) będącemu członkiem pracowników lub 1) 23 maja 2008 informację, októrej mowa wart. 4 określonym porozumieniu, o którym mowa ust. 1 i3, organizacja związkowa przekazuje pracowart. 24 ustawy zdnia 7 kwietnia 2006 oinfor- dawcy; mowaniu pracowników iprzeprowadzaniu znimi konsultacji (Dz. U. 79, 550), przedstawicie- 2) 23 lipca 2008 przypadkach, o których mowa lem pracowników uprawnionym do uzyskiwania wart. 4 ust. 3 i4, pracodawca obowiązany jest do od pracodawcy informacji prowadzenia nim poinformowania pracowników sposób przyjęty konsultacji.”. u danego pracodawcy o prawie pracowników do
+**Art. 23.** W ustawie z dnia 13 marca 2003 r. o szczególnych zasadach rozwiązywania z pracownikami stosunków pracy z przyczyn niedotyczących (Dz. U. Nr 90, poz. 844, Nr 213 poz. 2081, Nr 223 poz. 2217, z 2004 r. Nr 96, poz. 959 oraz z 2005 r. Nr 62, poz. 551) art. 5 ust. 5 pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 brzmieniu: „7) będącemu członkiem rady lub określonym porozumieniu, o którym mowa art. 24 ustawy z dnia 7 kwietnia 2006 r. o informowaniu i przeprowadzaniu z nimi konsultacji (Dz. U. Zmiany wymienionej ustawy zostały ogłoszone Dz.U. z 1986 r. Nr 17, poz. 88, z 1987 r. Nr 33, poz. 181, z 1989 r. Nr 10, poz. 57, z 1990 r. Nr 17, poz. 99, z 1991 r. Nr 2, poz. 6, z 1996 r. Nr 24, poz. 110 i Nr 118, poz. 561 oraz z 1997 r. Nr 43, poz. 272.
 
 **Art. 24.**
 
-1. Przepisów ustawy nie stosuje się do pracodawców, u których przed dniem wejścia życie ustawy zostało zawarte porozumienie dotyczące informowania pracowników iprzeprowadzania znimi konsultacji zapewniające warunki informowania przeprowadzania konsultacji co najmniej równe określonym ustawie uwzględniające interes pracodawcy pracowników, zastrzeżeniem ust. 2.
+1. Przepisów ustawy nie stosuje się do pracodawców, u których przed dniem wejścia życie ustawy zostało zawarte porozumienie dotyczące informowania i przeprowadzania z nimi konsultacji zapewniające warunki informowania i przeprowadzania konsultacji co najmniej równe określonym ustawie oraz uwzględniające interes pracodawcy i pracowników, z zastrzeżeniem ust. 2.
 
-2. Do pracodawców przedstawicieli pracowników uprawnionych zgodnie porozumieniem, o którym mowa ust. 1, do uzyskiwania informacji prowyboru pracowników jej uprawnieniach;
+2. Do pracodawców oraz przedstawicieli uprawnionych zgodnie z porozumieniem, o którym mowa ust. 1, do uzyskiwania informacji i prowadzenia konsultacji stosuje się odpowiednio przepisy art. 15–17.
 
-- **3)** 23 września 2008 pracodawca, o którym mowa pkt 2, obowiązany jest do zorganizowania wyborów członków pracowników.
+3. Każda ze stron porozumienia, o którym mowa ust. 1, może złożyć drugiej stronie pisemne zastrzeżenie co do spełniania przez to porozumienie wymogów określonych ust. 1.
 
-**Art. 27.** Nie póêniej niż do dnia 27 lutego 2007 Trójstronna Komisja do Spraw Społeczno-Gospodarczych dokona przeglądu stosowania niniejszej ustawy celu przedłożenia rządowi koniecznych propozycji zmian między innymi na podstawie informacji, o których mowa wart. 18, danych Centralnej Informacji o Działalności Gospodarczej Głównego Urzędu WZÓR INFORMACJI O RADZIE PRACOWNIKÓW 1. Nazwa pracodawcy ................................................................................................................................................... 2. Adres (siedziba lub miejsce zamieszkania) pracodawcy ........................................................................................ 3. Data utworzenia pracowników ........................................................................................................................ 4. Tryb utworzenia pracowników ......................................................................................................................... 5. Liczba członków pracowników ......................................................................................................................... 6. Czy warunki informowania pracowników przeprowadzania nimi konsultacji:
+4. W przypadku gdy terminie 30 dni od dnia zgłoszenia zastrzeżenia, o którym mowa ust. 3, strony porozumienia nie uzgodnią wskazanych nim zarzutów, porozumienie rozwiązuje się z mocy prawa. W takim przypadku stosuje się przepisy ustawy.
 
-**Art. 1.** W ustawie dnia 29 stycznia 2004 Prawo zamówień publicznych (Dz. U. 19, 177, póên. zm. elektroniczny proces udzielania zamówień publicznych, których przedmiotem są do) wprowadza się następujące zmiany: stawy powszechnie dostępne nabywane na podstawie umowy sprzedaży lub usługi
+5. Pracodawca, terminie 30 dni od dnia wejścia życie ustawy, informuje ministra właściwego do spraw pracy o zawartym porozumieniu.
+
+**Art. 25.**
+
+1. Informację, o której mowa art. 4 ust. 1 i 3, organizacja związkowa przekazuje pracodawcy terminie 2 miesięcy od dnia wejścia życie ustawy.
+
+2. W przypadkach, o których mowa art. 4 ust. 3 i 4, pracodawca terminie 4 miesięcy od dnia wejścia życie ustawy obowiązany jest do poinformowania sposób przyjęty u danego pracodawcy o prawie do wyboru rady i jej uprawnieniach.
+
+3. W terminie 6 miesięcy od dnia wejścia życie ustawy pracodawca, o którym mowa ust. 2, obowiązany jest do zorganizowania wyborów członków rady pracowników.
+
+**Art. 26.**
+
+1. Do dnia 23 marca 2008 r. przepisy ustawy stosuje się do pracodawców zatrudniających co najmniej 100 pracowników.
+
+2. W okresie od dnia 24 marca 2008 r. do dnia:
+
+- **1)** 23 maja 2008 r. informację, o której mowa art. 4 ust. 1 i 3, organizacja związkowa przekazuje pracodawcy; pracodawcy o prawie do wyboru rady i jej uprawnieniach.
+- **3)** (uchylony).
+
+**Art. 27.** Nie później niż do dnia 27 lutego 2007 r. Trójstronna Komisja do Spraw Społeczno-Gospodarczych dokona przeglądu stosowania niniejszej ustawy celu przedłożenia rządowi koniecznych propozycji zmian między innymi na podstawie informacji, o których mowa art. 18, oraz danych Centralnej Informacji o Działalności Gospodarczej i Głównego Urzędu Statystycznego.
+
+**Art. 28.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia. Załącznik Wzór informacji o radzie 1. Nazwa pracodawcy ...................................................... 2. Adres (siedziba lub miejsce zamieszkania) pracodawcy .................................... 3. Data utworzenia rady .............................................. 4. Liczba członków rady ............................................. 5. Czy warunki informowania i przeprowadzania z nimi konsultacji:
 

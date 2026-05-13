@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 12 sierpnia 2024 r.
+# o zmianie ustawy o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa oraz ustawy o wstrzymaniu sprzedaży nieruchomości Zasobu Własności Rolnej Skarbu Państwa oraz o zmianie niektórych ustaw
+
+*USTAWA z dnia 24 lipca 2024 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +25,6 @@ domain: null
 | Data wydania | 2024-08-12 |
 | Ostatnia zmiana | 2024-08-21 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001230) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1230/text.pdf) |
-
-Poz. 1230
-USTAWA z dnia 24 lipca 2024 r.
-o zmianie ustawy o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa oraz ustawy o wstrzymaniu sprzedaży nieruchomości Zasobu Własności Rolnej Skarbu Państwa oraz o zmianie niektórych ustaw
 
 **Art. 1.** W ustawie z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2024 r. poz. 589 i 1089) wprowadza się następujące zmiany:
 

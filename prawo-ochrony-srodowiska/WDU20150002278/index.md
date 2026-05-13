@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 grudnia 2015 r.
+# o zmianie ustawy – Prawo ochrony środowiska oraz ustawy o systemie zarządzania emisjami gazów cieplarnianych i innych substancji
+
+*USTAWA z dnia 16 grudnia 2015 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +25,6 @@ domain: null
 | Data wydania | 2015-12-29 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150002278) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/2278/text.pdf) |
-
-Poz. 2278
-USTAWA z dnia 16 grudnia 2015 r.
-o zmianie ustawy – Prawo ochrony środowiska oraz ustawy o systemie zarządzania emisjami gazów cieplarnianych i innych substancji
 
 **Art. 1.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2013 r. poz. 1232, z późn. zm. ) w art. 317 ust. 1a otrzymuje brzmienie: „1a. Termin płatności opłaty za korzystanie ze środowiska oraz administracyjnej kary pieniężnej odracza się także na wniosek podmiotu korzystającego ze środowiska obowiązanego do ich uiszczenia, jeżeli przedsięwzięcie, którego wykonanie zapewni usunięcie przyczyn ponoszenia podwyższonych opłat lub kar, jest ujęte w krajowym programie oczyszczania ścieków komunalnych, o którym mowa w art. 43 ust. 3 ustawy z dnia 18 lipca 2001 r. – Prawo wodne, i zostanie zrealizowane w terminie do dnia 31 grudnia 2018 r.”.
 

@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 3 kwietnia 2024 r.
+# o radcach prawnych
+
+*USTAWA z dnia 6 lipca 1982 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,20 +25,6 @@ domain: null
 | Data wydania | 2024-04-03 |
 | Ostatnia zmiana | 2026-03-31 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000499) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/499/text.pdf) |
-
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 21 marca 2024 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o radcach prawnych
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 6 lipca 1982 r. o radcach prawnych (Dz. U. z 2022 r. poz. 1166), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 7 lipca 2023 r. o zmianie ustawy Kodeks postępowania cywilnego, ustawy Prawo o ustroju sądów powszechnych, ustawy Kodeks postępowania karnego oraz niektórych innych ustaw (Dz. U. poz. 1860) oraz zmian wynikających z przepisów ogłoszonych przed dniem 14 marca 2024 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 40 ustawy z dnia 7 lipca 2023 r. o zmianie ustawy Kodeks postępowania cywilnego, ustawy Prawo o ustroju sądów powszechnych, ustawy Kodeks postępowania karnego oraz niektórych innych ustaw (Dz. U. poz. 1860), który stanowi: „Art. 40. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
-1) art. 28 pkt 1, art. 30 pkt 2–6, art. 31 pkt 1 lit. a, c–e, f w zakresie pkt 67 lit. b, oraz lit. g i h, pkt 2–4 oraz art. 39 ust. 1 i 2, które wchodzą w życie z dniem 1 października 2023 r.;
-2) art. 2 pkt 1, pkt 6 lit. b, pkt 14, 16 i 17 oraz art. 33, które wchodzą w życie z dniem 1 stycznia 2024 r.;
-3) art. 6, art. 7, art. 9, art. 12, art. 13, art. 17–19 i art. 21 pkt 2 w zakresie art. 13 § 3a pkt 1 oraz art. 22, art. 23, art. 25 i art. 38, które wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia;
-4) art. 1 pkt 1–14, 21 i 33, art. 2 pkt 6 lit. a, pkt 8, 12 i 15, art. 3 pkt 1, 6, 10 i 16–20, art. 4, art. 5, art. 10, art. 11, art. 24 pkt 1, art. 28 pkt 2 w zakresie uchylenia art. 15zzs ust. 1 pkt 1 i 2, ust. 2 i 3, art. 28 pkt 3 oraz art. 39 ust. 3, które wchodzą w życie po upływie 6 miesięcy od dnia ogłoszenia;
-5) art. 30 pkt 1, art. 31 pkt 1 lit. b oraz f w zakresie pkt 67 lit. c, które wchodzą w życie z dniem 14 marca 2024 r.;
-6) art. 14, który wchodzi w życie z dniem 1 października 2029 r.”.
-Marszałek Sejmu: S. Hołownia
-USTAWA z dnia 6 lipca 1982 r.
-o radcach prawnych
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -63,7 +51,8 @@ o radcach prawnych
 6. Obowiązek zachowania tajemnicy zawodowej nie dotyczy informacji:
 
 - **1)** udostępnianych na podstawie przepisów o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu,
-- **2)** przekazywanych na podstawie przepisów rozdziału 11a działu III ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2023 r. poz. 2383 i 2760) w zakresie określonym tymi przepisami.
+- **2)** przekazywanych na podstawie przepisów rozdziału 11a działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2023 r. poz. 2383 i
+- **2760)** – w zakresie określonym tymi przepisami.
 
 **Art. 4.** Wykonywanie zawodu radcy prawnego polega na świadczeniu pomocy prawnej.
 
@@ -89,13 +78,13 @@ o radcach prawnych
 
 1. Okres przechowywania danych osobowych wynosi:
 
-- **1)** 5 lat od końca roku, w którym zakończyło się postępowanie, w którym dane osobowe zostały zgromadzone w przypadku danych osobowych przetwarzanych przez organy samorządu radców prawnych w zakresie niezbędnym do prawidłowej realizacji zadań publicznych określonych w ustawie oraz danych osobowych przetwarzanych w ramach nadzoru nad działalnością samorządu radców prawnych;
-- **2)** 10 lat od końca roku, w którym zakończyło się postępowanie, w którym dane osobowe zostały zgromadzone w przypadku danych osobowych przetwarzanych:
-    - **a)** w toku prowadzonych przez organy samorządu radców prawnych postępowań: administracyjnych, w zakresie skarg i wniosków, innych przewidzianych przez ustawę lub wydane na podstawie ustawy akty prawne organów samorządu radców prawnych dotyczących radców prawnych, aplikantów radcowskich lub osób ubiegających się o wpis na listę radców prawnych lub listę aplikantów radcowskich, a także osób przystępujących do egzaminu wstępnego na aplikację radcowską i egzaminu radcowskiego,
+- **1)** 5 lat od końca roku, w którym zakończyło się postępowanie, w którym dane osobowe zostały zgromadzone – w przypadku danych osobowych przetwarzanych przez organy samorządu radców prawnych w zakresie niezbędnym do prawidłowej realizacji zadań publicznych określonych w ustawie oraz danych osobowych przetwarzanych w ramach nadzoru nad działalnością samorządu radców prawnych;
+- **2)** 10 lat od końca roku, w którym zakończyło się postępowanie, w którym dane osobowe zostały zgromadzone – w przypadku danych osobowych przetwarzanych:
+    - **a)** w toku prowadzonych przez organy samorządu radców prawnych postępowań: – administracyjnych, – w zakresie skarg i wniosków, – innych przewidzianych przez ustawę lub wydane na podstawie ustawy akty prawne organów samorządu radców prawnych dotyczących radców prawnych, aplikantów radcowskich lub osób ubiegających się o wpis na listę radców prawnych lub listę aplikantów radcowskich, a także osób przystępujących do egzaminu wstępnego na aplikację radcowską i egzaminu radcowskiego,
     - **b)** w ramach nadzoru nad tymi postępowaniami, o których mowa w lit. a,
     - **c)** przez radców prawnych w ramach wykonywania zawodu;
 
-- **3)** 15 lat od końca roku, w którym zakończyło się postępowanie, w którym dane osobowe zostały zgromadzone w przypadku danych osobowych przetwarzanych w toku prowadzonych przez organy samorządu radców prawnych postępowań dyscyplinarnych wobec radców prawnych i aplikantów radcowskich oraz podczas wykonywania przewidzianych przez ustawę kompetencji nadzorczych nad postępowaniami dyscyplinarnymi w sprawach radców prawnych i aplikantów radcowskich.
+- **3)** 15 lat od końca roku, w którym zakończyło się postępowanie, w którym dane osobowe zostały zgromadzone – w przypadku danych osobowych przetwarzanych w toku prowadzonych przez organy samorządu radców prawnych postępowań dyscyplinarnych wobec radców prawnych i aplikantów radcowskich oraz podczas wykonywania przewidzianych przez ustawę kompetencji nadzorczych nad postępowaniami dyscyplinarnymi w sprawach radców prawnych i aplikantów radcowskich.
 
 2. Po upływie okresów, o których mowa w ust. 1, w przypadku danych osobowych przetwarzanych przez radców prawnych w ramach wykonywania zawodu, dane osobowe ulegają usunięciu.
 
@@ -107,7 +96,9 @@ o radcach prawnych
 
 2. (utracił moc)
 
-3. Radca prawny ma prawo sporządzania poświadczeń odpisów dokumentów za zgodność z okazanym oryginałem w zakresie określonym odrębnymi przepisami. Poświadczenie powinno zawierać podpis radcy prawnego, datę i oznaczenie miejsca jego sporządzenia, na żądanie również godzinę dokonania czynności. Jeżeli dokument zawiera cechy szczególne (dopiski, poprawki lub uszkodzenia) radca prawny stwierdza to w poświadczeniu.
+3. Radca prawny ma prawo sporządzania poświadczeń odpisów dokumentów za zgodność z okazanym oryginałem w zakresie określonym odrębnymi przepisami. Poświadczenie powinno zawierać podpis radcy prawnego, datę i oznaczenie miejsca jego sporządzenia, na żądanie – również godzinę dokonania czynności. Jeżeli dokument zawiera cechy szczególne (dopiski, poprawki lub uszkodzenia) radca prawny stwierdza to w poświadczeniu.
+
+4. Radca prawny może poświadczyć dokument w postaci elektronicznej w systemach teleinformatycznych, o których mowa w art. 175da ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2024 r. poz. 334 i 1907 oraz z 2025 r. poz. 526, 820 i 1172), w sposób w nich przewidziany.
 
 **Art. 7.** (uchylony)
 
@@ -201,7 +192,7 @@ o radcach prawnych
 
 **Art. 22¹.** Rada okręgowej izby radców prawnych jest uprawniona do kontroli i oceny wykonywania zawodu przez radcę prawnego i prawnika zagranicznego wpisanego na listę prawników zagranicznych, prowadzoną przez radę okręgowej izby radców prawnych. Kontrolę przeprowadzają i oceny dokonują wizytatorzy powołani przez radę spośród radców prawnych.
 
-**Art. 22².** Rada okręgowej izby radców prawnych na podstawie orzeczenia lekarskiego i po przeprowadzeniu szczegółowego postępowania wyjaśniającego może na wniosek Prezesa Krajowej Rady Radców Prawnych lub dziekana rady okręgowej izby radców prawnych podjąć uchwałę o trwałej niezdolności radcy prawnego do wykonywania zawodu. W razie wszczęcia takiego postępowania rada może zawiesić radcę prawnego w wykonywaniu czynności na czas trwania postępowania.
+**Art. 22².** Rada okręgowej izby radców prawnych na podstawie orzeczenia lekarskiego i po przeprowadzeniu szczegółowego postępowania wyjaśniającego może – na wniosek Prezesa Krajowej Rady Radców Prawnych lub dziekana rady okręgowej izby radców prawnych – podjąć uchwałę o trwałej niezdolności radcy prawnego do wykonywania zawodu. W razie wszczęcia takiego postępowania rada może zawiesić radcę prawnego w wykonywaniu czynności na czas trwania postępowania.
 
 **Art. 22³.**
 
@@ -257,9 +248,11 @@ o radcach prawnych
 
 **Art. 22¹¹.**
 
-1. Radca prawny wykonujący zawód jest obowiązany posiadać konto w portalu informacyjnym, o którym mowa w art. 53e § 1 ustawy z dnia 27 lipca 2001 r. Prawo o ustroju sądów powszechnych (Dz. U. z 2024 r. poz. 334).
+1. Radca prawny wykonujący zawód jest obowiązany posiadać konto w portalu informacyjnym, o którym mowa w art. 53e § 1 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2024 r. poz. 334).
 
-2. Dziekan okręgowej izby radców prawnych występuje do Ministra Sprawiedliwości o usunięcie konta w portalu informacyjnym w przypadkach, o których mowa w art. 22 , art. 28 ust. 1 pkt 2 i 3 i ust. 2, art. 29 oraz art. 65 .
+2. (uchylony)
+
+3. Okręgowa izba radców prawnych jest obowiązana posiadać konto w portalu informacyjnym, o którym mowa w art. 53e § 1 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych.
 
 #### Rozdział 3 Uprawnienia do wykonywania zawodu radcy prawnego
 
@@ -276,16 +269,17 @@ o radcach prawnych
 - **5)** jest nieskazitelnego charakteru i swym dotychczasowym zachowaniem daje rękojmię prawidłowego wykonywania zawodu radcy prawnego;
 - **6)** odbył w Rzeczypospolitej Polskiej aplikację radcowską i złożył egzamin radcowski, z zastrzeżeniem art. 25 ust. 1 i 2.
 
-2. Wpis osoby, która uzyskała pozytywny wynik z egzaminu radcowskiego, lub osób, o których mowa w art. 25 ust. 1 i 2, następuje na ich wniosek. Uchwałę w sprawie wpisu podejmuje rada okręgowej izby radców prawnych właściwa odpowiednio ze względu na miejsce odbycia aplikacji radcowskiej, miejsce złożenia wniosku lub miejsce zamieszkania osoby ubiegającej się o wpis.
+2. Wpis osoby, która uzyskała pozytywny wynik z egzaminu radcowskiego, lub osób, o których mowa w art. 25 ust. 1 i 2, następuje na ich wniosek. Uchwałę w sprawie wpisu podejmuje rada okręgowej izby radców prawnych właściwa odpowiednio ze względu na – miejsce odbycia aplikacji radcowskiej, miejsce złożenia wniosku lub miejsce zamieszkania osoby ubiegającej się o wpis.
 
 2a. Do wniosku, o którym mowa w ust. 2, osoba ubiegająca się o wpis obowiązana jest dołączyć:
 
 - **1)** informację o niekaralności z Krajowego Rejestru Karnego opatrzoną datą nie wcześniejszą niż miesiąc przed złożeniem wniosku;
-- **2)** oświadczenie, o którym mowa w art. 7 ust. 1 ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów (Dz. U. z 2024 r. poz. 273), albo informację, o której mowa w art. 7 ust. 3a tej ustawy, w przypadku osób urodzonych przed dniem 1 sierpnia 1972 r.;
-- **3)** umowy o pracę wraz z dokumentami określającymi zakres obowiązków lub zaświadczeniami od pracodawcy określającymi zakres obowiązków, lub umowy cywilnoprawne wraz z oświadczeniem o złożeniu deklaracji do właściwego urzędu skarbowego oraz zapłaceniu podatku wynikającego z tytułu tych umów w przypadku osób, o których mowa w art. 25 ust. 1 pkt 4 i 5;
-- **4)** dokument zaświadczający uzyskanie stopnia naukowego doktora nauk prawnych w przypadku osób, o których mowa w art. 25 ust. 1 pkt 5;
-- **5)** zaświadczenie adwokata lub radcy prawnego, z którego wynikać będzie, iż osoba ubiegająca się o wpis wykonywała wymagające wiedzy prawniczej czynności bezpośrednio związane ze świadczeniem pomocy prawnej przez adwokata lub radcę prawnego w przypadku osób, o których mowa w art. 25 ust. 1 pkt 4 lit. b i pkt 5 lit. b;
-- **6)** dokumenty zaświadczające co najmniej 3-letni okres zatrudnienia w urzędach organów władzy publicznej lub w państwowych jednostkach organizacyjnych i wykonywania wymagających wiedzy prawniczej czynności bezpośrednio związanych z tworzeniem projektów ustaw, rozporządzeń lub aktów prawa miejscowego w przypadku osób, o których mowa w art. 25 ust. 1 pkt 4 lit. c i pkt 5 lit. c;
+- **2)** oświadczenie, o którym mowa w art. 7 ust. 1 ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów (Dz. U. z 2024 r. poz.
+- **273)** , albo informację, o której mowa w art. 7 ust. 3a tej ustawy, w przypadku osób urodzonych przed dniem 1 sierpnia 1972 r.;
+- **3)** umowy o pracę wraz z dokumentami określającymi zakres obowiązków lub zaświadczeniami od pracodawcy określającymi zakres obowiązków, lub umowy cywilnoprawne wraz z oświadczeniem o złożeniu deklaracji do właściwego urzędu skarbowego oraz zapłaceniu podatku wynikającego z tytułu tych umów – w przypadku osób, o których mowa w art. 25 ust. 1 pkt 4 i 5;
+- **4)** dokument zaświadczający uzyskanie stopnia naukowego doktora nauk prawnych – w przypadku osób, o których mowa w art. 25 ust. 1 pkt 5;
+- **5)** zaświadczenie adwokata lub radcy prawnego, z którego wynikać będzie, iż osoba ubiegająca się o wpis wykonywała wymagające wiedzy prawniczej czynności bezpośrednio związane ze świadczeniem pomocy prawnej przez adwokata lub radcę prawnego – w przypadku osób, o których mowa w art. 25 ust. 1 pkt 4 lit. b i pkt 5 lit. b;
+- **6)** dokumenty zaświadczające co najmniej 3-letni okres zatrudnienia w urzędach organów władzy publicznej lub w państwowych jednostkach organizacyjnych i wykonywania wymagających wiedzy prawniczej czynności bezpośrednio związanych z tworzeniem projektów ustaw, rozporządzeń lub aktów prawa miejscowego – w przypadku osób, o których mowa w art. 25 ust. 1 pkt 4 lit. c i pkt 5 lit. c;
 - **7)** dokument zaświadczający uzyskanie pozytywnego wyniku z egzaminu sędziowskiego, prokuratorskiego lub notarialnego.
 
 2b. (uchylony) 2c. Rada okręgowej izby radców prawnych może odmówić wpisu na listę radców prawnych tylko wtedy, gdy wpis narusza przepisy ust. 1. Radzie okręgowej izby radców prawnych przysługuje prawo wglądu do akt osobowych i dyscyplinarnych ubiegającego się o wpis.
@@ -307,13 +301,15 @@ o radcach prawnych
 - **3)** osób, które zajmowały stanowisko sędziego, prokuratora lub wykonywały zawód adwokata albo notariusza;
 - **3a)** osób, które zajmowały stanowisko asesora sądowego przez okres co najmniej 2 lat;
 - **4)** osób, które zdały egzamin sędziowski lub prokuratorski po dniu 1 stycznia 1991 r. lub egzamin notarialny po dniu 22 kwietnia 1991 r. oraz w okresie 5 lat przed złożeniem wniosku o wpis na listę radców prawnych, łącznie przez okres co najmniej 3 lat:
-    - **a)** zajmowały stanowisko asesora prokuratorskiego, referendarza sądowego, starszego referendarza sądowego, aplikanta sądowego, aplikanta prokuratorskiego, asystenta prokuratora, asystenta sędziego lub były zatrudnione w Sądzie Najwyższym, Trybunale Konstytucyjnym lub w międzynarodowym organie sądowym, w szczególności w Trybunale Sprawiedliwości Unii Europejskiej lub Europejskim Trybunale Praw Człowieka i wykonywały zadania odpowiadające czynnościom asystenta sędziego lub
-    - **b)** wykonywały na podstawie umowy o pracę lub umowy cywilnoprawnej wymagające wiedzy prawniczej czynności bezpośrednio związane ze świadczeniem pomocy prawnej przez adwokata lub radcę prawnego w kancelarii adwokackiej, zespole adwokackim, spółce cywilnej, jawnej, partnerskiej, komandytowej lub komandytowo-akcyjnej, o których mowa w art. 4a ust. 1 ustawy z dnia 26 maja 1982 r. Prawo o adwokaturze (Dz. U. z 2022 r. poz. 1184 i 1268 oraz z 2023 r. poz. 1860) lub kancelarii radcy prawnego, spółce cywilnej, jawnej, partnerskiej, komandytowej lub komandytowo-akcyjnej, o których mowa w art. 8 ust. 1, lub
+    - **a)** zajmowały stanowisko asesora prokuratorskiego, referendarza sądowego, starszego referendarza sądowego, aplikanta sądowego, aplikanta prokuratorskiego, asystenta prokuratora, asystenta sędziego, starszego asystenta sędziego lub były zatrudnione w Sądzie Najwyższym, Trybunale Konstytucyjnym lub w międzynarodowym organie sądowym, w szczególności w Trybunale Sprawiedliwości Unii Europejskiej lub Europejskim Trybunale Praw Człowieka i wykonywały zadania odpowiadające czynnościom asystenta sędziego lub
+    - **b)** wykonywały na podstawie umowy o pracę lub umowy cywilnoprawnej wymagające wiedzy prawniczej czynności bezpośrednio związane ze świadczeniem pomocy prawnej przez adwokata lub radcę prawnego w kancelarii adwokackiej, zespole adwokackim, spółce cywilnej, jawnej, partnerskiej, komandytowej lub komandytowo-akcyjnej, o których mowa w art. 4a ust. 1 ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze (Dz. U. z 2022 r. poz. 1184 i 1268 oraz z 2023 r. poz.
+
+- **1860)** lub kancelarii radcy prawnego, spółce cywilnej, jawnej, partnerskiej, komandytowej lub komandytowo-akcyjnej, o których mowa w art. 8 ust. 1, lub
     - **c)** były zatrudnione w urzędach organów władzy publicznej lub w państwowych jednostkach organizacyjnych i wykonywały wymagające wiedzy prawniczej czynności bezpośrednio związane z tworzeniem projektów ustaw, rozporządzeń lub aktów prawa miejscowego;
 
 - **5)** osób, które posiadają stopień naukowy doktora nauk prawnych oraz w okresie 5 lat przed złożeniem wniosku o wpis na listę radców prawnych, łącznie przez okres co najmniej 3 lat:
-    - **a)** zajmowały stanowisko referendarza sądowego, starszego referendarza sądowego, aplikanta sądowego, aplikanta prokuratorskiego, asystenta sędziego, asystenta prokuratora lub
-    - **b)** wykonywały wymagające wiedzy prawniczej czynności bezpośrednio związane ze świadczeniem pomocy prawnej przez adwokata lub radcę prawnego na podstawie umowy o pracę lub umowy cywilnoprawnej w kancelarii adwokackiej, zespole adwokackim, spółce cywilnej, jawnej, partnerskiej, komandytowej lub komandytowo-akcyjnej, o których mowa w art. 4a ust. 1 ustawy z dnia 26 maja 1982 r. Prawo o adwokaturze, lub kancelarii radcy prawnego, spółce cywilnej, jawnej, partnerskiej, komandytowej lub komandytowo-akcyjnej, o których mowa w art. 8 ust. 1, lub
+    - **a)** zajmowały stanowisko referendarza sądowego, starszego referendarza sądowego, aplikanta sądowego, aplikanta prokuratorskiego, asystenta sędziego, starszego asystenta sędziego, asystenta prokuratora lub
+    - **b)** wykonywały wymagające wiedzy prawniczej czynności bezpośrednio związane ze świadczeniem pomocy prawnej przez adwokata lub radcę prawnego na podstawie umowy o pracę lub umowy cywilnoprawnej w kancelarii adwokackiej, zespole adwokackim, spółce cywilnej, jawnej, partnerskiej, komandytowej lub komandytowo-akcyjnej, o których mowa w art. 4a ust. 1 ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze, lub kancelarii radcy prawnego, spółce cywilnej, jawnej, partnerskiej, komandytowej lub komandytowo-akcyjnej, o których mowa w art. 8 ust. 1, lub
     - **c)** były zatrudnione w urzędach organów władzy publicznej lub w państwowych jednostkach organizacyjnych i wykonywały wymagające wiedzy prawniczej czynności bezpośrednio związane z tworzeniem projektów ustaw, rozporządzeń lub aktów prawa miejscowego, lub
     - **d)** były zatrudnione w Trybunale Konstytucyjnym lub międzynarodowym organie sądowym, w szczególności w Trybunale Sprawiedliwości Unii Europejskiej lub Europejskim Trybunale Praw Człowieka, i wykonywały zadania odpowiadające czynnościom asystenta sędziego.
 
@@ -322,8 +318,8 @@ o radcach prawnych
 2. Do egzaminu radcowskiego składanego przed komisją, o której mowa w art. 36 , bez odbycia aplikacji radcowskiej mogą przystąpić:
 
 - **1)** doktorzy nauk prawnych;
-- **2)** osoby, które przez okres co najmniej 4 lat w okresie nie dłuższym niż 6 lat przed złożeniem wniosku o dopuszczenie do egzaminu były zatrudnione na stanowisku referendarza sądowego, starszego referendarza sądowego, asystenta prokuratora, asystenta sędziego lub były zatrudnione w Sądzie Najwyższym, Trybunale Konstytucyjnym lub w międzynarodowym organie sądowym, w szczególności w Trybunale Sprawiedliwości Unii Europejskiej lub Europejskim Trybunale Praw Człowieka i wykonywały zadania odpowiadające czynnościom asystenta sędziego;
-- **3)** osoby, które po ukończeniu wyższych studiów prawniczych przez okres co najmniej 4 lat w okresie nie dłuższym niż 6 lat przed złożeniem wniosku o dopuszczenie do egzaminu wykonywały na podstawie umowy o pracę lub umowy cywilnoprawnej wymagające wiedzy prawniczej czynności bezpośrednio związane ze świadczeniem pomocy prawnej przez radcę prawnego lub adwokata w kancelarii radcy prawnego, spółce cywilnej, jawnej, partnerskiej, komandytowej lub komandytowo-akcyjnej, o których mowa w art. 8 ust. 1, lub kancelarii adwokackiej, zespole adwokackim, spółce cywilnej, jawnej, partnerskiej, komandytowej lub komandytowo-akcyjnej, o których mowa w art. 4a ust. 1 ustawy z dnia 26 maja 1982 r. Prawo o adwokaturze;
+- **2)** osoby, które przez okres co najmniej 4 lat w okresie nie dłuższym niż 6 lat przed złożeniem wniosku o dopuszczenie do egzaminu były zatrudnione na stanowisku referendarza sądowego, starszego referendarza sądowego, asystenta prokuratora, asystenta sędziego, starszego asystenta sędziego lub były zatrudnione w Sądzie Najwyższym, Trybunale Konstytucyjnym lub w międzynarodowym organie sądowym, w szczególności w Trybunale Sprawiedliwości Unii Europejskiej lub Europejskim Trybunale Praw Człowieka i wykonywały zadania odpowiadające czynnościom asystenta sędziego;
+- **3)** osoby, które po ukończeniu wyższych studiów prawniczych przez okres co najmniej 4 lat w okresie nie dłuższym niż 6 lat przed złożeniem wniosku o dopuszczenie do egzaminu wykonywały na podstawie umowy o pracę lub umowy cywilnoprawnej wymagające wiedzy prawniczej czynności bezpośrednio związane ze świadczeniem pomocy prawnej przez radcę prawnego lub adwokata w kancelarii radcy prawnego, spółce cywilnej, jawnej, partnerskiej, komandytowej lub komandytowo-akcyjnej, o których mowa w art. 8 ust. 1, lub kancelarii adwokackiej, zespole adwokackim, spółce cywilnej, jawnej, partnerskiej, komandytowej lub komandytowo-akcyjnej, o których mowa w art. 4a ust. 1 ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze;
 - **4)** osoby, które po ukończeniu wyższych studiów prawniczych przez okres co najmniej 4 lat w okresie nie dłuższym niż 6 lat przed złożeniem wniosku o dopuszczenie do egzaminu były zatrudnione w urzędach organów władzy publicznej i wykonywały wymagające wiedzy prawniczej czynności bezpośrednio związane ze świadczeniem pomocy prawnej na rzecz tych urzędów;
 - **4a)** osoby, które po ukończeniu aplikacji legislacyjnej przez okres co najmniej 4 lat w okresie nie dłuższym niż 6 lat przed złożeniem wniosku o dopuszczenie do egzaminu były zatrudnione w urzędach organów władzy publicznej lub w państwowych jednostkach organizacyjnych i wykonywały wymagające wiedzy prawniczej czynności bezpośrednio związane z tworzeniem projektów ustaw, rozporządzeń lub aktów prawa miejscowego;
 - **5)** osoby, które zdały egzamin sędziowski, prokuratorski, notarialny lub komorniczy;
@@ -467,9 +463,9 @@ o radcach prawnych
 
 4. Egzamin wstępny na aplikację radcowską i adwokacką przeprowadza się raz w roku w terminie wskazanym przez Ministra Sprawiedliwości.
 
-5. W przypadku zaistnienia przeszkody uniemożliwiającej przeprowadzenie egzaminu wstępnego przez daną komisję kwalifikacyjną w terminie, o którym mowa w ust. 4, Minister Sprawiedliwości wyznacza dodatkowy termin przeprowadzenia egzaminu wstępnego przez tę komisję kwalifikacyjną, o którym przewodniczący komisji kwalifikacyjnej zawiadamia kandydatów listem poleconym oraz obwieszcza na tablicy ogłoszeń w siedzibie wyznaczonej okręgowej izby radców prawnych. Przepis art. 75b ust. 5, 7–11 ustawy z dnia 26 maja 1982 r. Prawo o adwokaturze stosuje się odpowiednio, z wyłączeniem terminu, o którym mowa w art. 75b ust. 9 tej ustawy.
+5. W przypadku zaistnienia przeszkody uniemożliwiającej przeprowadzenie egzaminu wstępnego przez daną komisję kwalifikacyjną w terminie, o którym mowa w ust. 4, Minister Sprawiedliwości wyznacza dodatkowy termin przeprowadzenia egzaminu wstępnego przez tę komisję kwalifikacyjną, o którym przewodniczący komisji kwalifikacyjnej zawiadamia kandydatów listem poleconym oraz obwieszcza na tablicy ogłoszeń w siedzibie wyznaczonej okręgowej izby radców prawnych. Przepis art. 75b ust. 5, 7–11 ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze stosuje się odpowiednio, z wyłączeniem terminu, o którym mowa w art. 75b ust. 9 tej ustawy.
 
-**Art. 33².** Do przygotowania pytań testowych na egzamin wstępny dla kandydatów na aplikację radcowską oraz wydrukowania i doręczenia pytań testowych poszczególnym komisjom kwalifikacyjnym stosuje się art. 75b ustawy z dnia 26 maja 1982 r. Prawo o adwokaturze.
+**Art. 33².** Do przygotowania pytań testowych na egzamin wstępny dla kandydatów na aplikację radcowską oraz wydrukowania i doręczenia pytań testowych poszczególnym komisjom kwalifikacyjnym stosuje się art. 75b ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze.
 
 **Art. 33³.**
 
@@ -512,7 +508,7 @@ o radcach prawnych
 
 1a. W przypadku wydania postanowienia o pozostawieniu zgłoszenia bez rozpoznania, wydania decyzji odmawiającej dopuszczenia do udziału w egzaminie wstępnym albo złożenia nie później niż 14 dni przed terminem egzaminu wstępnego pisemnego oświadczenia kandydata o odstąpieniu od udziału w egzaminie wstępnym, dwie trzecie uiszczonej opłaty podlega zwrotowi na pisemny wniosek kandydata złożony przewodniczącemu komisji kwalifikacyjnej w terminie 30 dni od dnia złożenia tego wniosku.
 
-2. Minister Sprawiedliwości po zasięgnięciu opinii Krajowej Rady Radców Prawnych określa, w drodze rozporządzenia, wysokość opłaty nie wyższą niż równowartość minimalnego wynagrodzenia za pracę, o którym mowa w ustawie z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2020 r. poz. 2207 oraz z 2023 r. poz. 1667), zwanego dalej „minimalnym wynagrodzeniem” uwzględniając konieczność prawidłowego i efektywnego przeprowadzenia egzaminu wstępnego.
+2. Minister Sprawiedliwości po zasięgnięciu opinii Krajowej Rady Radców Prawnych określa, w drodze rozporządzenia, wysokość opłaty – nie wyższą niż równowartość minimalnego wynagrodzenia za pracę, o którym mowa w ustawie z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2020 r. poz. 2207 oraz z 2023 r. poz. 1667), zwanego dalej „minimalnym wynagrodzeniem” – uwzględniając konieczność prawidłowego i efektywnego przeprowadzenia egzaminu wstępnego.
 
 **Art. 33⁵.**
 
@@ -551,7 +547,7 @@ o radcach prawnych
 - **2)** wysokość wynagrodzenia przewodniczącego i członków komisji kwalifikacyjnej, uwzględniając liczbę osób, które złożyły zgłoszenie o przystąpieniu do egzaminu wstępnego, zakres i nakład ich pracy w zorganizowaniu i w przebiegu egzaminu wstępnego oraz tryb wypłacania tego wynagrodzenia,
 - **3)** szczegółowy tryb i sposób przeprowadzania egzaminu wstępnego, w szczególności:
     - **a)** sposób działania komisji kwalifikacyjnej,
-    - **b)** sposób zorganizowania obsługi administracyjnej i technicznej komisji kwalifikacyjnej przez rady okręgowych izb radców prawnych, w tym przekazywania środków, sprawowania nadzoru nad ich wydatkowaniem i rozliczania wydatków związanych z tą obsługą uwzględniając konieczność prawidłowego, terminowego i efektywnego przeprowadzenia naboru na aplikację i przebiegu egzaminu wstępnego oraz zapewnienia zachowania bezstronności pracy komisji kwalifikacyjnej.
+    - **b)** sposób zorganizowania obsługi administracyjnej i technicznej komisji kwalifikacyjnej przez rady okręgowych izb radców prawnych, w tym przekazywania środków, sprawowania nadzoru nad ich wydatkowaniem i rozliczania wydatków związanych z tą obsługą – uwzględniając konieczność prawidłowego, terminowego i efektywnego przeprowadzenia naboru na aplikację i przebiegu egzaminu wstępnego oraz zapewnienia zachowania bezstronności pracy komisji kwalifikacyjnej.
 
 **Art. 33⁶.**
 
@@ -659,7 +655,7 @@ o radcach prawnych
 
 3. Uprawnienia, o których mowa w ust. 1, dotyczą również spraw objętych świadczeniem pomocy prawnej z urzędu.
 
-4. Aplikant radcowski może sporządzać i podpisywać pisma procesowe związane z występowaniem radcy prawnego przed sądami, organami ścigania i organami państwowymi, samorządowymi i innymi instytucjami z wyraźnego upoważnienia radcy prawnego, z wyłączeniem apelacji, skargi kasacyjnej i skargi konstytucyjnej.
+4. Aplikant radcowski może sporządzać i podpisywać pisma procesowe związane z występowaniem radcy prawnego przed sądami, organami ścigania i organami państwowymi, samorządowymi i innymi instytucjami – z wyraźnego upoważnienia radcy prawnego, z wyłączeniem apelacji, skargi kasacyjnej i skargi konstytucyjnej.
 
 5. Aplikant adwokacki może zastępować radcę prawnego na takich samych zasadach jak adwokata, jeżeli radca prawny jest wspólnikiem w spółce adwokacko-radcowskiej.
 
@@ -670,7 +666,7 @@ o radcach prawnych
 2. W skład zespołu wchodzą:
 
 - **1)** czterej radcowie prawni delegowani przez Krajową Radę Radców Prawnych,
-- **2)** czterej przedstawiciele Ministra Sprawiedliwości których wiedza i doświadczenie dają rękojmię prawidłowego przygotowania egzaminu radcowskiego.
+- **2)** czterej przedstawiciele Ministra Sprawiedliwości – których wiedza i doświadczenie dają rękojmię prawidłowego przygotowania egzaminu radcowskiego.
 
 3. Pracami zespołu kieruje przewodniczący lub w przypadku jego nieobecności zastępca, powołani przez Ministra Sprawiedliwości spośród osób, o których mowa w ust. 2 pkt 2.
 
@@ -688,12 +684,12 @@ o radcach prawnych
 
 10. Ostateczną treść zadań wraz z opisami istotnych zagadnień ustala zespół większością głosów w obecności co najmniej 5 członków zespołu. W razie równej liczby głosów rozstrzyga głos przewodniczącego zespołu.
 
-11. Do wydrukowania i doręczenia zadań wraz z opisami istotnych zagadnień poszczególnym komisjom egzaminacyjnym, o których mowa w art. 36 ust. 2, nie stosuje się przepisów ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych (Dz. U. z 2023 r. poz. 1605 i 1720), jeżeli wartość zamówienia jest mniejsza niż progi unijne, o których mowa w art. 3 ust. 1 tej ustawy.
+11. Do wydrukowania i doręczenia zadań wraz z opisami istotnych zagadnień poszczególnym komisjom egzaminacyjnym, o których mowa w art. 36 ust. 2, nie stosuje się przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2023 r. poz. 1605 i 1720), jeżeli wartość zamówienia jest mniejsza niż progi unijne, o których mowa w art. 3 ust. 1 tej ustawy.
 
 12. Minister Sprawiedliwości, po zasięgnięciu opinii Krajowej Rady Radców Prawnych, określi, w drodze rozporządzenia:
 
 - **1)** tryb i sposób działania zespołu,
-- **2)** tryb i sposób zgłaszania propozycji zadań wraz z opisami istotnych zagadnień, ich przygotowania, przechowywania oraz przekazywania komisjom egzaminacyjnym, o których mowa w art. 36 ust. 2, zadań na egzamin radcowski uwzględniając konieczność prawidłowego i efektywnego przeprowadzenia egzaminu radcowskiego, w szczególności konieczność zabezpieczenia zadań przed ich nieuprawnionym ujawnieniem;
+- **2)** tryb i sposób zgłaszania propozycji zadań wraz z opisami istotnych zagadnień, ich przygotowania, przechowywania oraz przekazywania komisjom egzaminacyjnym, o których mowa w art. 36 ust. 2, zadań na egzamin radcowski – uwzględniając konieczność prawidłowego i efektywnego przeprowadzenia egzaminu radcowskiego, w szczególności konieczność zabezpieczenia zadań przed ich nieuprawnionym ujawnieniem;
 - **3)** wysokość wynagrodzenia przewodniczącego i członków zespołu, uwzględniając nakład ich pracy i zakres obowiązków.
 
 13. Minister Sprawiedliwości określi, w drodze rozporządzenia, tryb i sposób udzielenia zamówienia, o którym mowa w ust. 11, mając na uwadze konieczność zachowania zasad uczciwej konkurencji oraz równego traktowania wykonawców i zabezpieczenia zadań oraz opisów istotnych zagadnień przed ich nieuprawnionym ujawnieniem.
@@ -738,7 +734,7 @@ o radcach prawnych
 - **4)** szczegółowy tryb i sposób przeprowadzania egzaminu radcowskiego, w szczególności:
     - **a)** sposób działania komisji egzaminacyjnej,
     - **b)** czas trwania poszczególnych części egzaminu radcowskiego,
-    - **c)** sposób zorganizowania obsługi administracyjnej i technicznej komisji egzaminacyjnej przez okręgowe izby radców prawnych, w tym przekazywania środków, sprawowania nadzoru nad ich wydatkowaniem i rozliczania wydatków związanych z tą obsługą uwzględniając konieczność prawidłowego, terminowego i efektywnego przeprowadzenia egzaminu, zapewnienia zachowania bezstronności pracy komisji egzaminacyjnej oraz konieczność uzyskania informacji niezbędnych do prawidłowego przeprowadzenia egzaminu radcowskiego.
+    - **c)** sposób zorganizowania obsługi administracyjnej i technicznej komisji egzaminacyjnej przez okręgowe izby radców prawnych, w tym przekazywania środków, sprawowania nadzoru nad ich wydatkowaniem i rozliczania wydatków związanych z tą obsługą – uwzględniając konieczność prawidłowego, terminowego i efektywnego przeprowadzenia egzaminu, zapewnienia zachowania bezstronności pracy komisji egzaminacyjnej oraz konieczność uzyskania informacji niezbędnych do prawidłowego przeprowadzenia egzaminu radcowskiego.
 
 **Art. 36².**
 
@@ -758,8 +754,8 @@ o radcach prawnych
 - **2)** życiorys;
 - **3)** dokument zaświadczający uzyskanie stopnia naukowego doktora nauk prawnych;
 - **4)** kopię dokumentu potwierdzającego ukończenie wyższych studiów prawniczych w Rzeczypospolitej Polskiej i uzyskanie tytułu magistra lub zagranicznych studiów prawniczych uznanych w Rzeczypospolitej Polskiej;
-- **5)** dokumenty zaświadczające co najmniej 4-letni okres zatrudnienia, o którym mowa w art. 25 ust. 2 pkt 2, na stanowiskach referendarza sądowego, starszego referendarza sądowego, asystenta prokuratora lub asystenta sędziego, a w przypadku osób, które były zatrudnione w Sądzie Najwyższym, Trybunale Konstytucyjnym lub w międzynarodowym organie sądowym, w szczególności w Trybunale Sprawiedliwości Unii Europejskiej lub Europejskim Trybunale Praw Człowieka i wykonywały zadania odpowiadające czynnościom asystenta sędziego również dokumenty określające zakres ich obowiązków;
-- **6)** dokumenty zaświadczające co najmniej 4-letni okres wykonywania na podstawie umowy o pracę lub umów cywilnoprawnych wymagających wiedzy prawniczej czynności bezpośrednio związanych ze świadczeniem pomocy prawnej przez radcę prawnego lub adwokata w kancelarii radcy prawnego, spółce cywilnej, jawnej, partnerskiej, komandytowej lub komandytowo-akcyjnej, o których mowa w art. 8 ust. 1, lub kancelarii adwokackiej, zespole adwokackim, spółce cywilnej, jawnej, partnerskiej, komandytowej lub komandytowo-akcyjnej, o których mowa w art. 4a ust. 1 ustawy z dnia 26 maja 1982 r. Prawo o adwokaturze;
+- **5)** dokumenty zaświadczające co najmniej 4-letni okres zatrudnienia, o którym mowa w art. 25 ust. 2 pkt 2, na stanowiskach referendarza sądowego, starszego referendarza sądowego, asystenta prokuratora, asystenta sędziego lub starszego asystenta sędziego, a w przypadku osób, które były zatrudnione w Sądzie Najwyższym, Trybunale Konstytucyjnym lub w międzynarodowym organie sądowym, w szczególności w Trybunale Sprawiedliwości Unii Europejskiej lub Europejskim Trybunale Praw Człowieka i wykonywały zadania odpowiadające czynnościom asystenta sędziego – również dokumenty określające zakres ich obowiązków;
+- **6)** dokumenty zaświadczające co najmniej 4-letni okres wykonywania na podstawie umowy o pracę lub umów cywilnoprawnych wymagających wiedzy prawniczej czynności bezpośrednio związanych ze świadczeniem pomocy prawnej przez radcę prawnego lub adwokata w kancelarii radcy prawnego, spółce cywilnej, jawnej, partnerskiej, komandytowej lub komandytowo-akcyjnej, o których mowa w art. 8 ust. 1, lub kancelarii adwokackiej, zespole adwokackim, spółce cywilnej, jawnej, partnerskiej, komandytowej lub komandytowo-akcyjnej, o których mowa w art. 4a ust. 1 ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze;
 - **7)** dokumenty zaświadczające co najmniej 4-letni okres zatrudnienia w urzędach organów władzy publicznej i wykonywania wymagających wiedzy prawniczej czynności bezpośrednio związanych ze świadczeniem pomocy prawnej na rzecz tych urzędów;
 - **7a)** dokument zaświadczający o ukończeniu aplikacji legislacyjnej oraz dokumenty zaświadczające co najmniej 4-letni okres zatrudnienia w urzędach organów władzy publicznej lub w państwowych jednostkach organizacyjnych i wykonywania wymagających wiedzy prawniczej czynności bezpośrednio związanych z tworzeniem projektów ustaw, rozporządzeń lub aktów prawa miejscowego;
 - **8)** dokument zaświadczający uzyskanie pozytywnego wyniku z egzaminu sędziowskiego, prokuratorskiego, notarialnego lub komorniczego;
@@ -770,8 +766,8 @@ o radcach prawnych
 
 5. Osoby, o których mowa w:
 
-- **1)** ust. 3 składają wniosek najpóźniej w terminie 21 dni,
-- **2)** ust. 4 składają wniosek najpóźniej w terminie 45 dni przed dniem rozpoczęcia egzaminu radcowskiego. Przepisy art. 33 ust. 4–9 stosuje się odpowiednio.
+- **1)** ust. 3 – składają wniosek najpóźniej w terminie 21 dni,
+- **2)** ust. 4 – składają wniosek najpóźniej w terminie 45 dni – przed dniem rozpoczęcia egzaminu radcowskiego. Przepisy art. 33 ust. 4– 9 stosuje się odpowiednio.
 
 **Art. 36³.**
 
@@ -779,7 +775,7 @@ o radcach prawnych
 
 1a. W przypadku wydania postanowienia o pozostawieniu zgłoszenia bez rozpoznania, wydania decyzji odmawiającej dopuszczenia do udziału w egzaminie radcowskim albo złożenia nie później niż 14 dni przed terminem egzaminu radcowskiego pisemnego oświadczenia kandydata o odstąpieniu od udziału w egzaminie radcowskim, dwie trzecie uiszczonej opłaty podlega zwrotowi na pisemny wniosek kandydata złożony przewodniczącemu komisji egzaminacyjnej w terminie 30 dni od dnia złożenia tego wniosku.
 
-2. Minister Sprawiedliwości po zasięgnięciu opinii Krajowej Rady Radców Prawnych określa, w drodze rozporządzenia, wysokość opłaty egzaminacyjnej nie wyższą niż równowartość minimalnego wynagrodzenia uwzględniając konieczność prawidłowego i efektywnego przeprowadzenia egzaminu radcowskiego.
+2. Minister Sprawiedliwości po zasięgnięciu opinii Krajowej Rady Radców Prawnych określa, w drodze rozporządzenia, wysokość opłaty egzaminacyjnej – nie wyższą niż równowartość minimalnego wynagrodzenia – uwzględniając konieczność prawidłowego i efektywnego przeprowadzenia egzaminu radcowskiego.
 
 **Art. 36⁴.**
 
@@ -811,7 +807,7 @@ o radcach prawnych
     - **c)** dobra (4),
     - **d)** dostateczna (3);
 
-- **2)** ocena negatywna niedostateczna (2).
+- **2)** ocena negatywna – niedostateczna (2).
 
 11. Podczas egzaminu radcowskiego zdający nie może posiadać urządzeń służących do przekazu lub odbioru informacji.
 
@@ -830,12 +826,12 @@ o radcach prawnych
 4. Ostateczną ocenę z pracy pisemnej dotyczącej danego zadania z części egzaminu radcowskiego stanowi średnia ocen cząstkowych przyznanych przez każdego z egzaminatorów, przy czym:
 
 - **1)** oceny pozytywne to:
-    - **a)** celująca jeżeli średnia arytmetyczna wystawionych ocen wynosi 6,00,
-    - **b)** bardzo dobra jeżeli średnia arytmetyczna wystawionych ocen wynosi 5,00 lub 5,50,
-    - **c)** dobra jeżeli średnia arytmetyczna wystawionych ocen wynosi 4,00 lub 4,50,
-    - **d)** dostateczna jeżeli średnia arytmetyczna wystawionych ocen wynosi 3,00 lub 3,50;
+    - **a)** celująca – jeżeli średnia arytmetyczna wystawionych ocen wynosi 6,00,
+    - **b)** bardzo dobra – jeżeli średnia arytmetyczna wystawionych ocen wynosi 5,00 lub 5,50,
+    - **c)** dobra – jeżeli średnia arytmetyczna wystawionych ocen wynosi 4,00 lub 4,50,
+    - **d)** dostateczna – jeżeli średnia arytmetyczna wystawionych ocen wynosi 3,00 lub 3,50;
 
-- **2)** ocena negatywna niedostateczna jeżeli średnia arytmetyczna wystawionych ocen wynosi 2,00 lub 2,50.
+- **2)** ocena negatywna – niedostateczna – jeżeli średnia arytmetyczna wystawionych ocen wynosi 2,00 lub 2,50.
 
 5. W przypadku gdy przynajmniej dwie oceny cząstkowe z prac pisemnych zdającego dotyczących zadań z różnych części egzaminu radcowskiego są negatywne, a średnia arytmetyczna, o której mowa w ust. 4, wskazuje na pozytywną ostateczną ocenę tych prac, komisja egzaminacyjna:
 
@@ -868,8 +864,8 @@ o radcach prawnych
 
 3. Do składu komisji odwoławczej kandydatów na członków wskazują:
 
-- **1)** Minister Sprawiedliwości 5 członków, spośród których wyznacza przewodniczącego,
-- **2)** Krajowa Rada Radców Prawnych 4 członków spośród osób, których wiedza i doświadczenie dają rękojmię rzetelnego rozpoznania odwołań.
+- **1)** Minister Sprawiedliwości – 5 członków, spośród których wyznacza przewodniczącego,
+- **2)** Krajowa Rada Radców Prawnych – 4 członków – spośród osób, których wiedza i doświadczenie dają rękojmię rzetelnego rozpoznania odwołań.
 
 4. Przewodniczącemu i członkom komisji odwoławczej za udział w jej pracach przysługuje wynagrodzenie.
 
@@ -897,7 +893,7 @@ o radcach prawnych
 - **2)** termin powołania komisji odwoławczej,
 - **3)** wysokość wynagrodzenia przewodniczącego i członków komisji odwoławczej, uwzględniając zakres i nakład ich pracy oraz tryb jego wypłacania,
 - **4)** tryb i sposób działania komisji odwoławczej,
-- **5)** sposób zapewnienia obsługi administracyjno-biurowej komisji odwoławczej uwzględniając konieczność prawidłowego i terminowego rozpoznawania odwołań oraz zapewnienia zachowania bezstronności pracy członków komisji odwoławczej.
+- **5)** sposób zapewnienia obsługi administracyjno-biurowej komisji odwoławczej – uwzględniając konieczność prawidłowego i terminowego rozpoznawania odwołań oraz zapewnienia zachowania bezstronności pracy członków komisji odwoławczej.
 
 **Art. 36⁹.** W przypadku nieuzyskania pozytywnego wyniku z egzaminu radcowskiego, zdający może przystępować do kolejnych egzaminów radcowskich, z tym że egzamin ten zdaje w całości.
 
@@ -1082,7 +1078,7 @@ o radcach prawnych
 
 **Art. 60¹.**
 
-1. Krajowa Rada Radców Prawnych zapewnia sądom, Ministrowi Sprawiedliwości, Prokuratorowi Generalnemu, prokuratorom powszechnych i wojskowych jednostek organizacyjnych prokuratury oraz prokuratorom Instytutu Pamięci Narodowej Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu dostęp do list, o których mowa w art. 52 ust. 4 i 5, za pośrednictwem systemu teleinformatycznego, w zakresie imienia i nazwiska radcy prawnego, aplikanta radcowskiego lub prawnika zagranicznego, numeru PESEL o ile radca prawny, aplikant radcowski lub prawnik zagraniczny go posiada, daty uchwały o wpisie na listę i numer wpisu na listę, daty uchwały o skreśleniu z listy, w przypadku radców prawnych i prawników zagranicznych informacji o zawieszeniu prawa do wykonywania zawodu radcy prawnego, formy wykonywania zawodu i adresu do doręczeń, a w przypadku aplikantów radcowskich informacji o zawieszeniu w prawach aplikanta radcowskiego oraz informacji o prawie określonym w art. 35 ust. 1 i 2.
+1. Krajowa Rada Radców Prawnych zapewnia sądom, Ministrowi Sprawiedliwości, Prokuratorowi Generalnemu, prokuratorom powszechnych i wojskowych jednostek organizacyjnych prokuratury oraz prokuratorom Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu dostęp do list, o których mowa w art. 52 ust. 4 i 5, za pośrednictwem systemu teleinformatycznego, w zakresie imienia i nazwiska radcy prawnego, aplikanta radcowskiego lub prawnika zagranicznego, numeru PESEL o ile radca prawny, aplikant radcowski lub prawnik zagraniczny go posiada, daty uchwały o wpisie na listę i numer wpisu na listę, daty uchwały o skreśleniu z listy, w przypadku radców prawnych i prawników zagranicznych – informacji o zawieszeniu prawa do wykonywania zawodu radcy prawnego, formy wykonywania zawodu i adresu do doręczeń, a w przypadku aplikantów radcowskich – informacji o zawieszeniu w prawach aplikanta radcowskiego oraz informacji o prawie określonym w art. 35 ust. 1 i 2.
 
 2. Krajowa Rada Radców Prawnych udostępnia na stronie internetowej Krajowej Izby Radców Prawnych informacje o radcach prawnych, aplikantach radcowskich i prawnikach zagranicznych obejmujące imię i nazwisko radcy prawnego, aplikanta radcowskiego lub prawnika zagranicznego oraz numer wpisu na listę.
 
@@ -1143,8 +1139,8 @@ o radcach prawnych
 - **1)** upomnienie;
 - **2)** nagana;
 - **3)** kara pieniężna;
-- **4)** zawieszenie prawa do wykonywania zawodu radcy prawnego na czas od trzech miesięcy do pięciu lat, a w stosunku do aplikantów radcowskich zawieszenie w prawach aplikanta na czas od jednego roku do trzech lat;
-- **5)** pozbawienie prawa do wykonywania zawodu radcy prawnego, a w stosunku do aplikantów radcowskich wydalenie z aplikacji.
+- **4)** zawieszenie prawa do wykonywania zawodu radcy prawnego na czas od trzech miesięcy do pięciu lat, a w stosunku do aplikantów radcowskich – zawieszenie w prawach aplikanta na czas od jednego roku do trzech lat;
+- **5)** pozbawienie prawa do wykonywania zawodu radcy prawnego, a w stosunku do aplikantów radcowskich – wydalenie z aplikacji.
 
 2. Kary określonej w ust. 1 pkt 3 nie stosuje się wobec aplikanta radcowskiego.
 
@@ -1218,9 +1214,9 @@ o radcach prawnych
 
 **Art. 68.**
 
-1. Stronami w dochodzeniu są obwiniony i pokrzywdzony, a w postępowaniu przed sądem dyscyplinarnym oskarżyciel, obwiniony i pokrzywdzony.
+1. Stronami w dochodzeniu są obwiniony i pokrzywdzony, a w postępowaniu przed sądem dyscyplinarnym – oskarżyciel, obwiniony i pokrzywdzony.
 
-2. Oskarżycielami w postępowaniu przed okręgowym sądem dyscyplinarnym są rzecznik dyscyplinarny, a przed Wyższym Sądem Dyscyplinarnym Główny Rzecznik Dyscyplinarny, a także ich zastępcy, wykonujący czynności zlecone przez rzeczników.
+2. Oskarżycielami w postępowaniu przed okręgowym sądem dyscyplinarnym są rzecznik dyscyplinarny, a przed Wyższym Sądem Dyscyplinarnym – Główny Rzecznik Dyscyplinarny, a także ich zastępcy, wykonujący czynności zlecone przez rzeczników.
 
 3. Obwinionym jest radca prawny lub aplikant radcowski, co do którego wydano postanowienie o przedstawieniu zarzutów.
 
@@ -1236,7 +1232,7 @@ o radcach prawnych
 
 1b. W wypadku określonym w ust. 1a Ministrowi Sprawiedliwości przysługują prawa strony.
 
-2. Jeżeli radca prawny świadczy w państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronie umowy o Europejskim Obszarze Gospodarczym pomoc prawną na podstawie obowiązujących tam przepisów o świadczeniu pomocy prawnej przez prawników z Unii Europejskiej, sąd dyscyplinarny, który wszczął postępowanie dyscyplinarne, niezwłocznie zawiadamia o tym właściwy organ w tym państwie, przesyłając temu organowi odpis wniosku, o którym mowa w ust. 1.
+2. Jeżeli radca prawny świadczy w państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym pomoc prawną na podstawie obowiązujących tam przepisów o świadczeniu pomocy prawnej przez prawników z Unii Europejskiej, sąd dyscyplinarny, który wszczął postępowanie dyscyplinarne, niezwłocznie zawiadamia o tym właściwy organ w tym państwie, przesyłając temu organowi odpis wniosku, o którym mowa w ust. 1.
 
 **Art. 68².** Rzecznik dyscyplinarny doręcza Ministrowi Sprawiedliwości odpisy postanowień o wszczęciu dochodzenia oraz informuje Ministra Sprawiedliwości o wniesieniu do sądu dyscyplinarnego wniosku o ukaranie lub o skierowaniu wniosku do dziekana rady okręgowej izby radców prawnych w trybie art. 66.
 
@@ -1250,7 +1246,7 @@ o radcach prawnych
 
 4. Orzeczenia wydanego pod nieobecność obwinionego lub jego obrońcy nie uważa się za zaoczne.
 
-5. Należyte usprawiedliwienie niestawiennictwa obwinionego lub jego obrońcy na rozprawie lub na wezwanie rzecznika dyscyplinarnego wymaga wskazania i uprawdopodobnienia wyjątkowych przyczyn, zaś w przypadku choroby przedstawienia zaświadczenia lekarskiego potwierdzającego niemożność stawienia się na wezwanie lub zawiadomienie organu prowadzącego postępowanie.
+5. Należyte usprawiedliwienie niestawiennictwa obwinionego lub jego obrońcy na rozprawie lub na wezwanie rzecznika dyscyplinarnego wymaga wskazania i uprawdopodobnienia wyjątkowych przyczyn, zaś w przypadku choroby – przedstawienia zaświadczenia lekarskiego potwierdzającego niemożność stawienia się na wezwanie lub zawiadomienie organu prowadzącego postępowanie.
 
 **Art. 68⁴.**
 
@@ -1262,9 +1258,9 @@ o radcach prawnych
 
 **Art. 70.**
 
-1. Nie można wszcząć postępowania dyscyplinarnego, jeżeli od czasu popełnienia przewinienia upłynęły trzy lata, a w przypadkach przewidzianych w art. 11 ust. 2 rok.
+1. Nie można wszcząć postępowania dyscyplinarnego, jeżeli od czasu popełnienia przewinienia upłynęły trzy lata, a w przypadkach przewidzianych w art. 11 ust. 2 – rok.
 
-2. W razie wszczęcia postępowania dyscyplinarnego przed upływem terminu, o którym mowa w ust. 1, karalność przewinienia dyscyplinarnego ustaje, jeżeli od czasu jego popełnienia upłynęło pięć lat, a w przypadkach przewidzianych w art. 11 ust. 2 trzy lata.
+2. W razie wszczęcia postępowania dyscyplinarnego przed upływem terminu, o którym mowa w ust. 1, karalność przewinienia dyscyplinarnego ustaje, jeżeli od czasu jego popełnienia upłynęło pięć lat, a w przypadkach przewidzianych w art. 11 ust. 2 – trzy lata.
 
 3. Jeżeli czyn zawiera znamiona przestępstwa, przedawnienie dyscyplinarne następuje dopiero z upływem okresu przedawnienia karalności przestępstwa.
 
@@ -1280,7 +1276,7 @@ o radcach prawnych
 
 1a. Okręgowy sąd dyscyplinarny rozpoznaje wszystkie sprawy jako sąd pierwszej instancji, z wyjątkiem spraw określonych w art. 66 ust. 3 oraz rozpoznawania odwołania od postanowienia rzecznika dyscyplinarnego o odmowie wszczęcia postępowania dyscyplinarnego lub o umorzeniu postępowania dyscyplinarnego.
 
-2. Jeżeli przewinienie objęte jedną sprawą popełniło dwóch lub więcej obwinionych wpisanych na listę radców prawnych lub aplikantów radcowskich w różnych izbach, właściwy jest sąd dyscyplinarny, w okręgu którego popełniono przewinienie, a w razie gdy tego miejsca nie można ustalić okręgowy sąd dyscyplinarny, w którego okręgu wszczęto najpierw postępowanie dyscyplinarne.
+2. Jeżeli przewinienie objęte jedną sprawą popełniło dwóch lub więcej obwinionych wpisanych na listę radców prawnych lub aplikantów radcowskich w różnych izbach, właściwy jest sąd dyscyplinarny, w okręgu którego popełniono przewinienie, a w razie gdy tego miejsca nie można ustalić – okręgowy sąd dyscyplinarny, w którego okręgu wszczęto najpierw postępowanie dyscyplinarne.
 
 3. Spory o właściwość rozstrzyga Wyższy Sąd Dyscyplinarny.
 
@@ -1302,7 +1298,7 @@ o radcach prawnych
 
 1. Koszty postępowania dyscyplinarnego mają charakter zryczałtowany.
 
-2. W razie ukarania koszty postępowania ponosi obwiniony. W pozostałych przypadkach koszty dochodzenia i postępowania przed okręgowym sądem dyscyplinarnym pokrywa właściwa okręgowa izba radców prawnych, a koszty postępowania przed Wyższym Sądem Dyscyplinarnym Krajowa Izba Radców Prawnych.
+2. W razie ukarania koszty postępowania ponosi obwiniony. W pozostałych przypadkach koszty dochodzenia i postępowania przed okręgowym sądem dyscyplinarnym pokrywa właściwa okręgowa izba radców prawnych, a koszty postępowania przed Wyższym Sądem Dyscyplinarnym – Krajowa Izba Radców Prawnych.
 
 3. Wysokość zryczałtowanych kosztów postępowania dyscyplinarnego określa, w drodze uchwały, Krajowa Rada Radców Prawnych, mając na względzie przeciętne koszty postępowania.
 
@@ -1323,13 +1319,13 @@ o radcach prawnych
 - **1)** sądy,
 - **2)** prokuratury,
 - **3)** pracodawców oraz inne podmioty, na rzecz których dany radca prawny świadczy pomoc prawną,
-- **4)** właściwe ze względu na charakter prowadzonych przez danego radcę prawnego spraw organy administracji rządowej i samorządu terytorialnego w okręgu okręgowej izby radców prawnych, w której radca prawny albo aplikant radcowski jest wpisany na listę, a w sprawie radcy prawnego wykonującego zawód adwokata okręgową radę adwokacką.
+- **4)** właściwe ze względu na charakter prowadzonych przez danego radcę prawnego spraw organy administracji rządowej i samorządu terytorialnego – w okręgu okręgowej izby radców prawnych, w której radca prawny albo aplikant radcowski jest wpisany na listę, a w sprawie radcy prawnego wykonującego zawód adwokata – okręgową radę adwokacką.
 
 5. Usunięcie wzmianki o ukaraniu dyscyplinarnym następuje z urzędu po upływie:
 
 - **1)** trzech lat od uprawomocnienia się orzeczenia dyscyplinarnego orzekającego karę upomnienia, karę nagany lub karę pieniężną,
 - **2)** 5 lat od upływu okresu zawieszenia prawa do wykonywania zawodu radcy prawnego,
-- **3)** 15 lat od uprawomocnienia się orzeczenia dyscyplinarnego orzekającego karę pozbawienia prawa do wykonywania zawodu radcy prawnego albo 7 lat i 6 miesięcy od uprawomocnienia się orzeczenia dyscyplinarnego orzekającego karę wydalenia z aplikacji radcowskiej jeżeli radca prawny lub aplikant radcowski nie zostanie w tym czasie ukarany lub nie zostanie wszczęte przeciwko niemu postępowanie dyscyplinarne.
+- **3)** 15 lat od uprawomocnienia się orzeczenia dyscyplinarnego orzekającego karę pozbawienia prawa do wykonywania zawodu radcy prawnego albo 7 lat i 6 miesięcy od uprawomocnienia się orzeczenia dyscyplinarnego orzekającego karę wydalenia z aplikacji radcowskiej – jeżeli radca prawny lub aplikant radcowski nie zostanie w tym czasie ukarany lub nie zostanie wszczęte przeciwko niemu postępowanie dyscyplinarne.
 
 6. (uchylony)
 

@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 28 stycznia 2026 r.
+# o pomocy publicznej dla przedsiębiorców o szczególnym znaczeniu dla rynku pracy
+
+*USTAWA z dnia 30 października 2002 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,26 +26,16 @@ domain: null
 | Ostatnia zmiana | 2026-03-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000096) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/96/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 21 stycznia 2026 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o pomocy publicznej dla przedsiębiorców o szczególnym znaczeniu dla rynku pracy
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 30 października 2002 r. o pomocy publicznej dla przedsiębiorców o szczególnym znaczeniu dla rynku pracy (Dz. U. z 2021 r. poz. 239), z uwzględnieniem zmian wprowadzonych ustawą z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620) oraz zmian wynikających z przepisów ogłoszonych przed dniem 14 stycznia 2026 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 461 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620), który stanowi: „Art. 461. Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
-1) art. 392 pkt 2 lit. b oraz art. 458, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
-2) art. 106, art. 128 ust. 2, art. 203 oraz art. 300 ust. 3 pkt 11, które wchodzą w życie z dniem 1 stycznia 2026 r.”.
-Marszałek Sejmu: W. Czarzasty
-USTAWA z dnia 30 października 2002 r.
-o pomocy publicznej dla przedsiębiorców o szczególnym znaczeniu dla rynku pracy
-
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa określa zasady i warunki restrukturyzacji przedsiębiorców o szczególnym znaczeniu dla rynku pracy, a także tryb postępowania w sprawach restrukturyzacji.
 
 **Art. 2.**
 
-1. Restrukturyzacją mogą być objęci przedsiębiorcy w rozumieniu art. 2 ust. 2 i 3 ustawy z dnia 19 listopada 1999 r. Prawo działalności gospodarczej (Dz. U. poz. 1178, z późn. zm. ) :
+1. Restrukturyzacją mogą być objęci przedsiębiorcy w rozumieniu art. 2 ust. 2 i 3 ustawy z dnia 19 listopada 1999 r. – Prawo działalności gospodarczej (Dz. U. poz. 1178, z późn. zm. ) :
 
 - **1)** którzy znajdują się w trudnej sytuacji ekonomicznej, w rozumieniu art. 15 ust. 2 ustawy z dnia 27 lipca 2002 r. o warunkach dopuszczalności i nadzorowaniu pomocy publicznej dla przedsiębiorców (Dz. U. poz. 1177 i 1271 oraz z 2003 r. poz. 1537, 1840, 1850 i 2261) ; oraz
-- **2)** u których liczba osób świadczących pracę na podstawie stosunku pracy na dzień 30 czerwca 2002 r. przekracza 1000.
+- **2)** u których liczba osób świadczących pracę na podstawie stosunku pracy – na dzień 30 czerwca 2002 r. – przekracza 1000.
 
 2. Przepisów ustawy nie stosuje się do przedsiębiorców:
 
@@ -72,7 +64,7 @@ o pomocy publicznej dla przedsiębiorców o szczególnym znaczeniu dla rynku pra
 - **3)** z dnia 14 lipca 2000 r. o restrukturyzacji finansowej górnictwa siarki (Dz. U. z 2024 r. poz. 1835),
 - **4)** z dnia 8 września 2000 r. o komercjalizacji i restrukturyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe” (Dz. U. z 2024 r. poz. 561 oraz z 2025 r. poz. 1661),
 - **5)** z dnia 24 sierpnia 2001 r. o restrukturyzacji hutnictwa żelaza i stali (Dz. U. z 2020 r. poz. 2216),
-- **6)** z dnia 30 sierpnia 2002 r. o restrukturyzacji niektórych należności publicznoprawnych od przedsiębiorców (Dz. U. z 2020 r. poz. 2183), zwanej dalej „ustawą o restrukturyzacji należności publicznoprawnych” podlegają zawieszeniu, z zastrzeżeniem art. 30 ust. 1, z dniem wydania postanowienia, o którym mowa w art. 10 ust. 1 pkt 1.
+- **6)** z dnia 30 sierpnia 2002 r. o restrukturyzacji niektórych należności publicznoprawnych od przedsiębiorców (Dz. U. z 2020 r. poz. 2183), zwanej dalej „ustawą o restrukturyzacji należności publicznoprawnych” – podlegają zawieszeniu, z zastrzeżeniem art. 30 ust. 1, z dniem wydania postanowienia, o którym mowa w art. 10 ust. 1 pkt 1.
 
 **Art. 5.**
 
@@ -129,7 +121,7 @@ o pomocy publicznej dla przedsiębiorców o szczególnym znaczeniu dla rynku pra
 
 3. Listy, o których mowa w ust. 2, podlegają ogłoszeniu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski B” .
 
-4. Prezes Agencji sporządza półroczne i roczne sprawozdania z realizacji postępowań restrukturyzacyjnych i kosztów tych postępowań oraz przedkłada je ministrowi właściwemu do spraw gospodarki oraz Prezesowi Urzędu Ochrony Konkurencji i Konsumentów odpowiednio w terminie do dnia 31 lipca oraz w terminie do dnia 28 lutego następnego roku.
+4. Prezes Agencji sporządza półroczne i roczne sprawozdania z realizacji postępowań restrukturyzacyjnych i kosztów tych postępowań oraz przedkłada je ministrowi właściwemu do spraw gospodarki oraz Prezesowi Urzędu Ochrony Konkurencji i Konsumentów – odpowiednio w terminie do dnia 31 lipca oraz w terminie do dnia 28 lutego następnego roku.
 
 #### Rozdział 3 Postępowanie restrukturyzacyjne
 
@@ -154,7 +146,7 @@ o pomocy publicznej dla przedsiębiorców o szczególnym znaczeniu dla rynku pra
 
 - **1)** nazwę albo firmę oraz miejsce zamieszkania albo siedzibę przedsiębiorcy;
 - **2)** nazwę albo firmę oraz siedzibę wspólników, a także imiona i nazwiska oraz miejsca zamieszkania wspólników odpowiadających za zobowiązania bez ograniczenia;
-- **3)** osoby uprawnione do reprezentowania osoby prawnej gdy wnioskodawcą jest osoba prawna;
+- **3)** osoby uprawnione do reprezentowania osoby prawnej – gdy wnioskodawcą jest osoba prawna;
 - **4)** miejsce wykonywania działalności gospodarczej oraz miejsce położenia majątku;
 - **5)** okoliczności, które uzasadniają wniosek, i ich uprawdopodobnienie;
 - **6)** wskazanie składników majątku, które mogą stanowić zabezpieczenie kosztów postępowania restrukturyzacyjnego;
@@ -163,8 +155,8 @@ o pomocy publicznej dla przedsiębiorców o szczególnym znaczeniu dla rynku pra
 
 2. Do wniosku, o którym mowa w ust. 1, należy dołączyć:
 
-- **1)** wyciąg z księgi udziałów w przypadku spółki z ograniczoną odpowiedzialnością;
-- **2)** wykaz akcjonariuszy, którzy posiadają więcej niż 5 % akcji imiennych spółki akcyjnej albo więcej niż 5 % akcji prostej spółki akcyjnej, wraz z informacją o wielkości udziału w kapitale zakładowym spółki akcyjnej, a w przypadku prostej spółki akcyjnej w ogólnej liczbie akcji, przysługującego Skarbowi Państwa i spółkom, w których Skarb Państwa ma co najmniej 50 % akcji lub udziałów;
+- **1)** wyciąg z księgi udziałów – w przypadku spółki z ograniczoną odpowiedzialnością;
+- **2)** wykaz akcjonariuszy, którzy posiadają więcej niż 5 % akcji [imiennych] spółki akcyjnej albo więcej niż 5 % akcji prostej spółki akcyjnej, wraz z informacją o wielkości udziału w kapitale zakładowym spółki akcyjnej, a w przypadku prostej spółki akcyjnej – w ogólnej liczbie akcji, przysługującego Skarbowi Państwa i spółkom, w których Skarb Państwa ma co najmniej 50 % akcji lub udziałów;
 - **3)** sprawozdanie finansowe w rozumieniu przepisów o rachunkowości, sporządzone na dzień 30 czerwca 2002 r., oraz sprawozdanie o przychodach, kosztach i wyniku finansowym sporządzone w ramach obowiązków statystycznych, ostatnie przed dniem złożenia wniosku;
 - **4)** kopię ewidencji środków trwałych oraz inwestycji długoterminowych w rozumieniu przepisów o rachunkowości, wraz z informacją o ustanowionych na nich obciążeniach;
 - **5)** spis dłużników z podaniem wysokości długu każdego z nich, według stanu bieżącego i na dzień 30 czerwca 2002 r., oraz listę zabezpieczeń;
@@ -204,18 +196,18 @@ o pomocy publicznej dla przedsiębiorców o szczególnym znaczeniu dla rynku pra
 - **5)** określenie stanu ekonomicznego przedsiębiorcy, jaki ma być osiągnięty po przeprowadzeniu postępowania restrukturyzacyjnego;
 - **6)** określenie źródeł finansowania działań, o których mowa w pkt 4, z uwzględnieniem pomocy publicznej niezbędnej do przeprowadzenia postępowania restrukturyzacyjnego, o jaką przedsiębiorca zamierza się ubiegać, z podaniem jej wielkości, źródeł, formy, terminu i podstawy prawnej.
 
-2. Plan restrukturyzacji podlega uzgodnieniom między Prezesem Agencji i przedsiębiorcą, a jeżeli wnioskodawcą jest organ założycielski przedsiębiorcy również tym organem.
+2. Plan restrukturyzacji podlega uzgodnieniom między Prezesem Agencji i przedsiębiorcą, a jeżeli wnioskodawcą jest organ założycielski przedsiębiorcy – również tym organem.
 
 3. Przebieg i wyniki uzgodnień dokumentuje się w formie protokołu podpisanego przez osoby upoważnione.
 
-4. Uzgodniony plan restrukturyzacji Prezes Agencji przesyła niezwłocznie Prezesowi Urzędu Ochrony Konkurencji i Konsumentów w celu wydania opinii zgodnie z przepisami o warunkach dopuszczalności i nadzorowaniu pomocy publicznej dla przedsiębiorców. Prezes Urzędu Ochrony Konkurencji i Konsumentów wydaje opinię w terminie do 28 dni od dnia otrzymania planu restrukturyzacji.
+4. Uzgodniony plan restrukturyzacji Prezes Agencji przesyła niezwłocznie Prezesowi Urzędu Ochrony Konkurencji i Konsumentów w celu wydania opinii – zgodnie z przepisami o warunkach dopuszczalności i nadzorowaniu pomocy publicznej dla przedsiębiorców. Prezes Urzędu Ochrony Konkurencji i Konsumentów wydaje opinię w terminie do 28 dni od dnia otrzymania planu restrukturyzacji.
 
 **Art. 16.**
 
 1. Prezes Agencji może zlecić:
 
-- **1)** przeprowadzenie badania sprawozdania finansowego przedłożonego przez przedsiębiorcę powołanemu w tym celu biegłemu rewidentowi;
-- **2)** dokonanie wyceny majątku przedsiębiorcy powołanemu w tym celu rzeczoznawcy majątkowemu.
+- **1)** przeprowadzenie badania sprawozdania finansowego przedłożonego przez przedsiębiorcę – powołanemu w tym celu biegłemu rewidentowi;
+- **2)** dokonanie wyceny majątku przedsiębiorcy – powołanemu w tym celu rzeczoznawcy majątkowemu.
 
 2. Zlecenie przeprowadzenia badania oraz dokonania wyceny majątku, o których mowa w ust. 1, następuje z zachowaniem przepisów o zamówieniach publicznych.
 
@@ -307,7 +299,7 @@ o pomocy publicznej dla przedsiębiorców o szczególnym znaczeniu dla rynku pra
     - **c)** zawarcie umów o współpracę,
     - **d)** udzielenie przedsiębiorcy kredytów, pożyczek, gwarancji lub poręczeń.
 
-2. Warunki ugody restrukturyzacyjnej mogą być zróżnicowane, w zakresie wskazanym w ust. 1 pkt 1, w stosunku do określonych grup wierzycieli z zachowaniem równoprawnego traktowania uczestników ugody.
+2. Warunki ugody restrukturyzacyjnej mogą być zróżnicowane, w zakresie wskazanym w ust. 1 pkt 1, w stosunku do określonych grup wierzycieli – z zachowaniem równoprawnego traktowania uczestników ugody.
 
 **Art. 25.**
 
@@ -365,7 +357,9 @@ o pomocy publicznej dla przedsiębiorców o szczególnym znaczeniu dla rynku pra
 
 1. W przypadku otrzymania odpisu decyzji, o której mowa w art. 30 ust. 1 pkt 4, organ restrukturyzacyjny należności publicznoprawnych wydaje decyzję stwierdzającą umorzenie należności publicznoprawnych, jeżeli spełnione są warunki, o których mowa w art. 10 ust. 1 pkt 3 ustawy o restrukturyzacji należności publicznoprawnych.
 
-2. Decyzja o umorzeniu należności publicznoprawnych jest wydawana w terminie 45 dni od dnia otrzymania odpisu decyzji, o której mowa w art. 30 ust. 1 pkt 4.
+2. Decyzja o umorzeniu należności publicznoprawnych jest wydawana w terminie 45 dni od dnia otrzymania odpisu decyzji, o której mowa w art. 30 ust. 1 pkt
+
+4.
 
 3. W przypadku otrzymania odpisu postanowienia albo decyzji, o których mowa w art. 30 ust. 1 pkt 1 i 2, organ restrukturyzacyjny należności publicznoprawnych podejmuje zawieszone postępowanie.
 
@@ -381,11 +375,13 @@ o pomocy publicznej dla przedsiębiorców o szczególnym znaczeniu dla rynku pra
 
 - **1)** z tytułu podatków wobec budżetu państwa, należności celnych oraz wpłat z zysku na rzecz Skarbu Państwa,
 - **2)** z tytułu składek na ubezpieczenia społeczne w części finansowanej przez płatnika, Fundusz Pracy i Fundusz Gwarantowanych Świadczeń Pracowniczych,
-- **3)** wobec Funduszu Gwarantowanych Świadczeń Pracowniczych oraz Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych niepodlegające restrukturyzacji albo w stosunku do których nie zostało wszczęte postępowanie restrukturyzacyjne na podstawie przepisów ustawy o restrukturyzacji należności publicznoprawnych;
-- **4)** z tytułu opłat za gospodarcze korzystanie ze środowiska w rozumieniu przepisów ustawy z dnia 31 stycznia 1980 r. o ochronie i kształtowaniu środowiska (Dz. U. z 1994 r. poz. 196, z późn. zm. ), opłat za korzystanie ze środowiska w rozumieniu przepisów ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (Dz. U. z 2008 r. poz. 150, z późn. zm. ) oraz opłat za szczególne korzystanie z wód w rozumieniu przepisów ustawy z dnia 24 października 1974 r. Prawo wodne (Dz. U. poz. 230, z późn. zm. ) stanowiących przychody Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej, wojewódzkich funduszy ochrony środowiska i gospodarki wodnej oraz dochody budżetów powiatów i budżetów gmin;
+- **3)** wobec Funduszu Gwarantowanych Świadczeń Pracowniczych oraz Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych – niepodlegające restrukturyzacji albo w stosunku do których nie zostało wszczęte postępowanie restrukturyzacyjne na podstawie przepisów ustawy o restrukturyzacji należności publicznoprawnych;
+- **4)** z tytułu opłat za gospodarcze korzystanie ze środowiska w rozumieniu przepisów ustawy z dnia 31 stycznia 1980 r. o ochronie i kształtowaniu środowiska (Dz. U. z 1994 r. poz. 196, z późn. zm. ), opłat za korzystanie ze środowiska w rozumieniu przepisów ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2008 r. poz. 150, z późn. zm. ) oraz opłat za szczególne korzystanie z wód w rozumieniu przepisów ustawy z dnia 24 października 1974 r. – Prawo wodne (Dz. U. poz. 230, z późn. zm. ) stanowiących przychody Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej, wojewódzkich funduszy ochrony środowiska i gospodarki wodnej oraz dochody budżetów powiatów i budżetów gmin;
 - **5)** z tytułu administracyjnych kar pieniężnych określonych w przepisach ustaw wymienionych w pkt 4;
 - **6)** z tytułu opłat za użytkowanie wieczyste gruntów Skarbu Państwa w części stanowiącej dochód budżetu państwa;
-- **7)** z tytułu odsetek za zwłokę, opłaty prolongacyjnej, opłaty dodatkowej, kosztów upomnienia oraz kosztów egzekucyjnych, od zaległości wymienionych w pkt 1–6.
+- **7)** z tytułu odsetek za zwłokę, opłaty prolongacyjnej, opłaty dodatkowej, kosztów upomnienia oraz kosztów egzekucyjnych, od zaległości wymienionych w pkt 1–
+
+6.
 
 2. Nie podlegają restrukturyzacji zaległości z tytułu składki na ubezpieczenie emerytalne.
 
@@ -417,7 +413,7 @@ o pomocy publicznej dla przedsiębiorców o szczególnym znaczeniu dla rynku pra
     - **a)** zobowiązań przedsiębiorcy, o których mowa w art. 32a ust. 1 lub art. 32c ust. 1,
     - **b)** składników majątku przedsiębiorcy,
 
-- **2)** umorzeniu Operatorowi przejętych zobowiązań przedsiębiorcy na warunkach określonych w niniejszym rozdziale.
+- **2)** umorzeniu Operatorowi przejętych zobowiązań przedsiębiorcy – na warunkach określonych w niniejszym rozdziale.
 
 2. Przejęcie przez Operatora zobowiązań przedsiębiorcy następuje z mocy prawa z dniem przeniesienia na niego własności składników majątku według ich wartości księgowej; z tym dniem wygasają także zabezpieczenia tych zobowiązań na majątku lub prawach przedsiębiorcy, ustanowione przez Wierzyciela.
 
@@ -468,11 +464,11 @@ o pomocy publicznej dla przedsiębiorców o szczególnym znaczeniu dla rynku pra
 
 - **1)** nie może być ogłoszona upadłość;
 - **2)** nie stosuje się przepisów o obowiązku zgłoszenia wniosku o ogłoszenie upadłości;
-- **3)** nie wymierza się i nie pobiera opłat za korzystanie ze środowiska w rozumieniu przepisów ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (Dz. U. z 2025 r. poz. 647, 1080, 1812 i 1863) od przejętego majątku;
+- **3)** nie wymierza się i nie pobiera opłat za korzystanie ze środowiska w rozumieniu przepisów ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2025 r. poz. 647, 1080, 1812 i 1863) od przejętego majątku;
 - **4)** nie nalicza się odsetek za zwłokę od przejętych zobowiązań;
 - **5)** nie wszczyna się i nie prowadzi postępowania egzekucyjnego dotyczącego przejętych zobowiązań.
 
-2. W okresie 12 miesięcy od dnia przejęcia przez Operatora zobowiązań przedsiębiorcy do nabywcy majątku przejętego przez Operatora nie stosuje się przepisów art. 112 ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm. ).
+2. W okresie 12 miesięcy od dnia przejęcia przez Operatora zobowiązań przedsiębiorcy do nabywcy majątku przejętego przez Operatora nie stosuje się przepisów art. 112 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm. ).
 
 **Art. 32l.** W dniu przejęcia przez Operatora składników majątku i zobowiązań przedsiębiorcy na zasadach określonych w niniejszym rozdziale oraz w dniu zbycia tego majątku i spłaty tych zobowiązań przez Operatora, a także ich umorzenia w trybie art. 32i ust. 4, nie rozpoznaje się przychodów podatkowych oraz kosztów uzyskania przychodów.
 
@@ -507,14 +503,14 @@ o pomocy publicznej dla przedsiębiorców o szczególnym znaczeniu dla rynku pra
 1. Jeżeli w zatwierdzonym planie restrukturyzacji przewidziano rozwiązanie z częścią pracowników stosunku pracy z powodu ograniczenia zdolności produkcyjnych, zmian technologicznych i asortymentowych produkcji, reorganizacji, likwidacji stanowisk, oddziałów i wydziałów produkcyjnych, pracownikom przewidzianym do zwolnienia, którzy nie spełniają warunków określonych w odrębnych przepisach do uzyskania uprawnień emerytalno-rentowych oraz do świadczeń przedemerytalnych, przysługuje, z zastrzeżeniem ust. 2 i 10:
 
 - **1)** jednorazowe bezpłatne szkolenie;
-- **2)** świadczenie na przekwalifikowanie kontrakt szkoleniowy;
+- **2)** świadczenie na przekwalifikowanie – kontrakt szkoleniowy;
 - **3)** jednorazowa odprawa warunkowa.
 
 2. Świadczenia, o których mowa w ust. 1, mogą być przyznane przez pracodawcę tylko jeden raz, na wniosek pracownika, jeżeli przed dniem złożenia wniosku pracownik ten nie korzystał z takich świadczeń oraz oświadczy, że nie będzie z nich korzystał w przyszłości.
 
-3. Świadczenie na przekwalifikowanie kontrakt szkoleniowy jest przyznawane przez pracodawcę na okres niedłuższy niż 6 miesięcy, na wniosek pracownika, który oświadczy, że wyraża zgodę na rozwiązanie stosunku pracy po zakończeniu okresu, na który to świadczenie przyznano, i rozpocznie szkolenie.
+3. Świadczenie na przekwalifikowanie – kontrakt szkoleniowy jest przyznawane przez pracodawcę na okres niedłuższy niż 6 miesięcy, na wniosek pracownika, który oświadczy, że wyraża zgodę na rozwiązanie stosunku pracy po zakończeniu okresu, na który to świadczenie przyznano, i rozpocznie szkolenie.
 
-4. W okresie korzystania ze świadczenia na przekwalifikowanie kontraktu szkoleniowego pracownikowi przysługuje jednorazowe bezpłatne szkolenie, finansowane z Funduszu Pracy.
+4. W okresie korzystania ze świadczenia na przekwalifikowanie – kontraktu szkoleniowego pracownikowi przysługuje jednorazowe bezpłatne szkolenie, finansowane z Funduszu Pracy.
 
 5. Finansowanie z Funduszu Pracy świadczeń, o których mowa w ust. 4, odbywa się jak dla poszukujących pracy, o których mowa w art. 2 pkt 24 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620, 1746 i 1794).
 
@@ -522,17 +518,17 @@ o pomocy publicznej dla przedsiębiorców o szczególnym znaczeniu dla rynku pra
 
 7. Planowany kosztorys szkoleń, uwzględniający liczbę szkolonych pracowników przedsiębiorcy oraz jednostkowe i łączne koszty szkoleń, przedsiębiorca przedkłada do zatwierdzenia ministrowi właściwemu do spraw pracy, wraz z opinią starosty, o którym mowa w ust. 6.
 
-8. Świadczenie na przekwalifikowanie kontrakt szkoleniowy jest wypłacane pracownikowi przez przedsiębiorcę co miesiąc, począwszy od miesiąca, w którym rozpoczął on szkolenie, w wysokości równej wynagrodzeniu pracownika, obliczanemu jak wynagrodzenie za urlop wypoczynkowy.
+8. Świadczenie na przekwalifikowanie – kontrakt szkoleniowy jest wypłacane pracownikowi przez przedsiębiorcę co miesiąc, począwszy od miesiąca, w którym rozpoczął on szkolenie, w wysokości równej wynagrodzeniu pracownika, obliczanemu jak wynagrodzenie za urlop wypoczynkowy.
 
-9. Od świadczenia na przekwalifikowanie kontraktu szkoleniowego przedsiębiorca jest obowiązany do dokonywania wpłat składek na ubezpieczenia społeczne oraz na fundusze celowe na podstawie i w wysokości określonych w odrębnych przepisach.
+9. Od świadczenia na przekwalifikowanie – kontraktu szkoleniowego przedsiębiorca jest obowiązany do dokonywania wpłat składek na ubezpieczenia społeczne oraz na fundusze celowe – na podstawie i w wysokości określonych w odrębnych przepisach.
 
-10. Odprawa, o której mowa w ust. 1 pkt 3, przysługuje pracownikowi korzystającemu ze świadczenia na przekwalifikowanie kontraktu szkoleniowego, który po zakończeniu szkolenia i przed upływem 6 miesięcy od dnia przyznania tego świadczenia wystąpi do pracodawcy o rozwiązanie stosunku pracy.
+10. Odprawa, o której mowa w ust. 1 pkt 3, przysługuje pracownikowi korzystającemu ze świadczenia na przekwalifikowanie – kontraktu szkoleniowego, który po zakończeniu szkolenia i przed upływem 6 miesięcy od dnia przyznania tego świadczenia wystąpi do pracodawcy o rozwiązanie stosunku pracy.
 
-11. Odprawa, o której mowa w ust. 1 pkt 3, jest wypłacana przez przedsiębiorcę w kwocie równej iloczynowi liczby pełnych miesięcy pozostających do zakończenia 6-miesięcznego okresu pobierania świadczenia na przekwalifikowanie kontraktu szkoleniowego oraz wynagrodzenia w wysokości ustalonej zgodnie z ust. 8, pomniejszonej o kwotę odpowiadającą składkom na ubezpieczenia społeczne od tego wynagrodzenia, finansowanym przez ubezpieczonego.
+11. Odprawa, o której mowa w ust. 1 pkt 3, jest wypłacana przez przedsiębiorcę w kwocie równej iloczynowi liczby pełnych miesięcy pozostających do zakończenia 6-miesięcznego okresu pobierania świadczenia na przekwalifikowanie – kontraktu szkoleniowego oraz wynagrodzenia w wysokości ustalonej zgodnie z ust. 8, pomniejszonej o kwotę odpowiadającą składkom na ubezpieczenia społeczne od tego wynagrodzenia, finansowanym przez ubezpieczonego.
 
 **Art. 38.**
 
-1. Przedsiębiorca objęty restrukturyzacją zatrudnienia nie może w okresie realizacji planu restrukturyzacji zatrudniać nowych pracowników z wyłączeniem osób o specjalistycznych kwalifikacjach, które mogą być zatrudnione w zakresie przewidzianym w zatwierdzonym planie restrukturyzacji.
+1. Przedsiębiorca objęty restrukturyzacją zatrudnienia nie może w okresie realizacji planu restrukturyzacji zatrudniać nowych pracowników – z wyłączeniem osób o specjalistycznych kwalifikacjach, które mogą być zatrudnione w zakresie przewidzianym w zatwierdzonym planie restrukturyzacji.
 
 2. Przepis ust. 1 stosuje się odpowiednio do zatrudniania osób na podstawie umowy zlecenia, umowy o dzieło, umowy agencyjnej oraz kontraktu menedżerskiego.
 
@@ -547,7 +543,7 @@ o pomocy publicznej dla przedsiębiorców o szczególnym znaczeniu dla rynku pra
 3. Program, o którym mowa w ust. 1, może przewidywać finansowanie z Funduszu Pracy kosztów:
 
 - **1)** szkolenia,
-- **2)** części wynagrodzeń i składek na ubezpieczenia społeczne pracowników, o których mowa w ust. 2.
+- **2)** części wynagrodzeń i składek na ubezpieczenia społeczne – pracowników, o których mowa w ust. 2.
 
 4. Finansowanie z Funduszu Pracy kosztów, o których mowa w ust. 3, może odbywać się przez okres i w wysokości przewidzianych w przepisach o rynku pracy i służbach zatrudnienia, z tym że finansowanie części wynagrodzeń i składek na ubezpieczenia społeczne jest dokonywane na zasadach określonych dla prac interwencyjnych.
 
@@ -596,7 +592,7 @@ o pomocy publicznej dla przedsiębiorców o szczególnym znaczeniu dla rynku pra
 
 1. Prezes Agencji umarza postępowanie restrukturyzacyjne, jeżeli upłynął termin zakończenia postępowania restrukturyzacyjnego określony w decyzji o restrukturyzacji, a przedsiębiorca nie wykonał planu restrukturyzacji lub, z zastrzeżeniem art. 43 ust. 1 zdanie drugie, ugody restrukturyzacyjnej.
 
-2. Prezes Agencji może, przed terminem zakończenia postępowania restrukturyzacyjnego określonym w decyzji o restrukturyzacji, umorzyć postępowanie restrukturyzacyjne w przypadku gdy przedsiębiorca nie wykonuje obowiązków, o których mowa w art. 41, lub dokonuje czynności, o których mowa w art. 42.
+2. Prezes Agencji może, przed terminem zakończenia postępowania restrukturyzacyjnego określonym w decyzji o restrukturyzacji, umorzyć postępowanie restrukturyzacyjne – w przypadku gdy przedsiębiorca nie wykonuje obowiązków, o których mowa w art. 41, lub dokonuje czynności, o których mowa w art. 42.
 
 3. Decyzja o umorzeniu postępowania restrukturyzacyjnego zawiera w szczególności:
 

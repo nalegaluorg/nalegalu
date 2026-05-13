@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 26 lutego 2004 r.
+# o wycofaniu zastrzeżeń do Konwencji o ochronie ofiar wojny, podpisanych w Genewie dnia 12 sierpnia 1949 r.
+
+*USTAWA z dnia 8 stycznia 2004 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,9 +26,7 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040290254) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/254/text.pdf) |
 
-Nr
+**Art. 1.** Wyraża się zgodę na wycofanie przez Prezydenta Rzeczypospolitej Polskiej zastrzeżeń do Konwencji o ochronie ofiar wojny, podpisanych w Genewie dnia 12 sierpnia 1949 r. (Dz.U. z 1956 r. Nr 38, poz. 171):
 
-**Art. 1.** Wyraża się zgodę na wycofanie przez Prezydenta Rzeczypospolitej Polskiej zastrzeżeń do Konwencji o ochronie ofiar wojny, podpisanych w Genewie dnia 12 sierpnia 1949 r. (Dz. U. z1956 r. Nr 38, poz.171):
-
-**Art. 2.** Ustawa wchodzi w życie po upływie od dnia ogłoszenia. sił zbrojnych na morzu; Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 254 USTAWA z dnia 8 stycznia 2004 r. o wycofaniu zastrzeżeń do Konwencji o ochronie ofiar wojny, podpisanych w Genewie dnia 12 sierpnia 1949 r.
+**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

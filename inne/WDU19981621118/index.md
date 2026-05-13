@@ -23,7 +23,7 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 1998-12-17 |
 | Data wydania | 1998-12-30 |
-| Ostatnia zmiana | 2026-04-21 |
+| Ostatnia zmiana | 2026-05-11 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19981621118) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1998/1118/text.pdf) |
 
 3) zwolnienia od pracy oraz zwolnienia od wykonywania obowiązków służbowych na podstawie ustawy z dnia 22 sierpnia 1997 r. o publicznej służbie krwi (Dz. U.

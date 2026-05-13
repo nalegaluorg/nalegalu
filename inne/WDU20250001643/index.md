@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 27 listopada 2025 r.
+# w sprawie ogłoszenia jednolitego tekstu ustawy o Narodowej Agencji Wymiany Akademickiej
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 7 listopada 2025 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2025-11-28 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001643) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1643/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 7 listopada 2025 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o Narodowej Agencji Wymiany Akademickiej
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 7 lipca 2017 r. o Narodowej Agencji Wymiany Akademickiej (Dz. U. z 2023 r. poz. 843), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 4 kwietnia 2025 r. o zmianie niektórych ustaw w celu wyeliminowania nieprawidłowości w systemie wizowym Rzeczypospolitej Polskiej (Dz. U. poz. 622) oraz zmian wynikających z przepisów ogłoszonych przed dniem 6 listopada 2025 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 37–39 ustawy z dnia 4 kwietnia 2025 r. o zmianie niektórych ustaw w celu wyeliminowania nieprawidłowości w systemie wizowym Rzeczypospolitej Polskiej (Dz. U. poz. 622), które stanowią: „Art. 37. 1. Narodowa Agencja Wymiany Akademickiej podejmie czynności organizacyjne i przygotowujące do realizacji zadań, o których mowa w art. 2 ust. 3 pkt 3a ustawy zmienianej w art. 8.
 2. Minister właściwy do spraw szkolnictwa wyższego i nauki zapewni Narodowej Agencji Wymiany Akademickiej środki finansowe na realizację czynności, o których mowa w ust. 1.

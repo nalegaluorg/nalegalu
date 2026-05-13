@@ -10,9 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# Ustawa z dnia 22 listopada 2002 r. o zmianie ustawy o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustaw i ustawy o komercjalizacji, restrukturyzacji i prywatyzacji przedsiębiorstwa państwowego "Polskie Koleje Państwowe"
+# o zmianie ustawy o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustaw i ustawy o komercjalizacji, restrukturyzacji i prywatyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe”
 
-*USTAWA 22 listopada 2002 ozmianie ustawy onegocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń uprzedsiębiorców oraz ozmianie niektórych ustaw iustawy okomercjalizacji, restrukturyzacji iprywatyzacji przedsiębiorstwa państwowego ŃPolskie Koleje Państwowe”*
+*USTAWA z dnia 22 listopada 2002 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -26,9 +26,11 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030060063) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/63/text.pdf) |
 
-**Art. 1.** Wustawie 16 grudnia 1994 onegocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustaw (Dz. U. 1995 1, poz. 2 43, poz. 221, 1997 121, poz. 770, 1998 162, poz. 1112 oraz 2001 5, poz. 45 100, poz. 1080) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 16 grudnia 1994 r. o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustaw (Dz.U. z 1995 r. Nr 1, poz. 2 i Nr 43, poz. 221, z 1997 r. Nr 121, poz. 770, z 1998 r. Nr 162, poz. 1112 oraz z 2001 r. Nr 5, poz. 45 i Nr 100, poz. 1080) wprowadza się następujące zmiany:
 
-**Art. 4c.** Wprzypadku gdy rok obrotowy nie pokry- iNr240, poz. 2055) wart. 28: wa się zrokiem kalendarzowym, do ustalenia przyrostu przeciętnego miesięcz- 1) wust. 1 uchyla się pkt 1; nego wynagrodzenia, o którym mowa 2) uchyla się ust. 4 i5. wart.4 ust. 1 i3, przyjmuje się maksymalny roczny wskaênik przyrostu przeciętne- Art. 3. Ustawa wchodzi życie dniem 1 stycznia go miesięcznego wynagrodzenia ogłoszo- 2004 ny na dany rok kalendarzowy, którym rozpoczyna się rok obrotowy.”. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 64 USTAWA 20 grudnia 2002 ozmianie ustawy ogospodarowaniu nieruchomościami rolnymi Skarbu Państwa
+**Art. 4c.** W przypadku gdy rok obrotowy nie pokrywa się z rokiem kalendarzowym, do ustalenia przyrostu przeciętnego miesięcznego wynagrodzenia, o którym mowa w art. 4 ust. 1 i 3, przyjmuje się maksymalny roczny wskaźnik przyrostu przeciętnego miesięcznego wynagrodzenia ogłoszony na dany rok kalendarzowy, w którym rozpoczyna się rok obrotowy.”.
 
-**Art. 1.** W ustawie dnia 19 paêdziernika 1991 ogospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. 2001 57, poz. 603, póên. zm. wych przedsiębiorstw gospodarki rolnej, podlegają przekazaniu ministrowi właściwemu do spraw Skarbu Państwa, terminie ) wprowadza się następujące zmiany: 14 dni od dnia ich objęcia przejęcia,
+**Art. 2.** W ustawie z dnia 8 września 2000 r. o komercjalizacji, restrukturyzacji i prywatyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe” (Dz.U. Nr 84, poz. 948 oraz z 2001 r. Nr 100, poz. 1086 i Nr 154, poz. 1802 oraz z 2002 r. Nr 205, poz. 1730 i Nr 240, poz. 2055) w art. 28:
+
+**Art. 3.** Ustawa wchodzi w życie z dniem 1 stycznia 2004 r.
 

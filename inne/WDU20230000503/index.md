@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 16 marca 2023 r.
+# w sprawie ogłoszenia jednolitego tekstu ustawy Prawo prywatne międzynarodowe
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 9 lutego 2023 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000503) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/503/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 9 lutego 2023 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy Prawo prywatne międzynarodowe
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 4 lutego 2011 r. Prawo prywatne międzynarodowe (Dz. U. z 2015 r. poz. 1792), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 4 listopada 2022 r. o zmianie ustawy o prawach konsumenta, ustawy Kodeks cywilny oraz ustawy Prawo prywatne międzynarodowe (Dz. U. poz. 2337) oraz zmian wynikających z przepisów ogłoszonych przed dniem 7 lutego 2023 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 4 ust. 1 i art. 5 ustawy z dnia 4 listopada 2022 r. o zmianie ustawy o prawach konsumenta, ustawy Kodeks cywilny oraz ustawy Prawo prywatne międzynarodowe (Dz. U. poz. 2337), które stanowią:
 4. „1. Do umów zobowiązujących do przeniesienia własności towaru zawartych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.” „Art. 5. Ustawa wchodzi w życie z dniem 1 stycznia 2023 r.”.
@@ -51,8 +51,8 @@ Prawo prywatne międzynarodowe
 3) dotyczy zobowiązań umownych, pozaumownych lub z jednostronnych czynności prawnych, dla których prawo właściwe określa niniejsza ustawa.
 6. 1. Prawo właściwe stosowane na podstawie przepisów ustawy niniejszej obejmuje także przepisy prawa publicznego, które według tego prawa znajdują zastosowanie do danego stosunku prawnego.
 2. Jeżeli prawo właściwe dla ocenianego stosunku prawnego zawiera przepisy przewidujące domniemania prawne lub inne reguły określające ciężar dowodu, odnoszące się do tego stosunku, stosuje się te przepisy.
-porządku prawnego Rzeczypospolitej Polskiej.
-8. 1. Wskazanie prawa obcego nie wyłącza zastosowania tych przepisów prawa polskiego, z których treści lub celów w sposób niewątpliwy wynika, że regulują one podlegający ocenie stosunek prawny bez względu na to, jakiemu prawu on podlega.
+7. Prawa obcego nie stosuje się, jeżeli jego stosowanie miałoby skutki sprzeczne z podstawowymi zasadami porządku prawnego Rzeczypospolitej Polskiej.
+prawu on podlega.
 2. Przy stosowaniu prawa właściwego można uwzględnić przepisy bezwzględnie wiążące innego państwa, z którymi oceniany stosunek prawny jest ściśle związany, jeżeli przepisy te, według prawa tego państwa, stosuje się bez względu na to, jakiemu prawu ten stosunek podlega. Podczas rozstrzygania o uwzględnieniu tych przepisów należy mieć na uwadze ich naturę i cel oraz skutki, które wynikną z ich uwzględnienia oraz te, które wyniknęłyby w razie ich pominięcia.
 9. Jeżeli w państwie, którego prawo jest właściwe, obowiązują różne systemy prawne, prawo tego państwa wskazuje, który z tych systemów należy stosować. W razie braku takiego wskazania, stosuje się ten z tych systemów, który związany jest najściślej z danym stosunkiem prawnym.
 10. 1. Jeżeli nie można ustalić okoliczności, od których zależy właściwość prawa, stosuje się prawo najściślej związane z danym stosunkiem prawnym.
@@ -117,7 +117,7 @@ UE L 177 z 04.07.2008 r., str. 6).
 3) (uchylony)
 4) dyrektywę 2002/65/WE Parlamentu Europejskiego i Rady z dnia 23 września 2002 r. dotyczącą sprzedaży konsumentom usług finansowych na odległość oraz zmieniającą dyrektywę Rady 90/619/EWG oraz dyrektywy 97/7/WE i 98/27/WE (Dz. Urz. UE L 271 z 09.10.2002, str. 16; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 6, t. 4, str. 321);
 5) dyrektywę Parlamentu Europejskiego i Rady 2008/48/WE z dnia 23 kwietnia 2008 r. w sprawie umów o kredyt konsumencki oraz uchylającą dyrektywę Rady 87/102/EWG (Dz. Urz. UE L 133 z 22.05.2008, str. 66, z późn. zm.).
-2008/122/WE z dnia 14 stycznia 2009 r. w sprawie ochrony konsumentów w odniesieniu do niektórych aspektów umów timeshare, umów o długoterminowe produkty wakacyjne, umów odsprzedaży oraz wymiany (Dz. Urz. UE L 33 z 03.02.2009, str. 10), jest prawo państwa niebędącego państwem członkowskim Europejskiego Obszaru Gospodarczego, to konsument nie może być pozbawiony ochrony przyznanej mu przez przepisy prawa polskiego wdrażające tę dyrektywę:
+timeshare, umów o długoterminowe produkty wakacyjne, umów odsprzedaży oraz wymiany (Dz. Urz. UE L 33 z 03.02.2009, str. 10), jest prawo państwa niebędącego państwem członkowskim Europejskiego Obszaru Gospodarczego, to konsument nie może być pozbawiony ochrony przyznanej mu przez przepisy prawa polskiego wdrażające tę dyrektywę:
 1) jeżeli którakolwiek z nieruchomości jest położona na terytorium jednego z państw członkowskich, lub
 2) w przypadku umowy niezwiązanej bezpośrednio z nieruchomością, jeśli przedsiębiorca wykonuje swoją działalność gospodarczą lub zawodową w jednym z państw członkowskich lub w jakikolwiek sposób kieruje taką działalność do jednego z państw członkowskich, a umowa wchodzi w zakres tej działalności.
 31. Zobowiązanie wynikające z papieru wartościowego innego niż weksel i czek podlega prawu państwa, w którym papier wartościowy został wystawiony lub wyemitowany.
@@ -136,7 +136,6 @@ poz. 585).
 41. 1. Własność i inne prawa rzeczowe podlegają prawu państwa, w którym znajduje się ich przedmiot.
 2. Nabycie i utrata własności, jak również nabycie i utrata oraz zmiana treści lub pierwszeństwa innych praw rzeczowych, podlegają prawu państwa, w którym przedmiot tych praw znajdował się w chwili, gdy nastąpiło zdarzenie pociągające za sobą wymienione skutki prawne.
 42. Prawa rzeczowe na statku powietrznym i wodnym oraz na pojeździe szynowym podlegają prawu państwa, w którym statek lub pojazd jest wpisany do rejestru, a w razie braku rejestru lub wpisu do rejestru prawu państwa macierzystego portu, stacji lub innego podobnego miejsca.
-ności wynika, iż prawa te są związane ściślej z prawem innego państwa, stosuje się prawo tego państwa.
 44. Prawo wynikające z zapisu papieru wartościowego na rachunku prowadzonym w systemie rozrachunku papierów wartościowych, podlega prawu państwa, w którym prowadzony jest ten rachunek.
 45. Przepisy art. 41–44 stosuje się odpowiednio do posiadania.
 46. 1. Powstanie, treść i ustanie prawa własności intelektualnej podlegają prawu państwa, w którym ma miejsce korzystanie z tego prawa.
@@ -170,7 +169,6 @@ Dz. U. z 2010 r. poz. 1158).
 58. Przysposobienie nie może nastąpić bez zachowania przepisów prawa ojczystego osoby, która ma być przysposobiona, dotyczących zgody tej osoby, zgody jej przedstawiciela ustawowego oraz zezwolenia właściwego organu państwowego, a także ograniczeń przysposobienia z powodu zmiany dotychczasowego miejsca zamieszkania na miejsce zamieszkania w innym państwie.
 59. 1. Prawo właściwe dla opieki i kurateli nad dzieckiem określa Konwencja o jurysdykcji, prawie właściwym, uznawaniu, wykonywaniu i współpracy w zakresie odpowiedzialności rodzicielskiej oraz środków ochrony dzieci, sporządzona w Hadze w dniu 19 października 1996 r.
 2. W razie zmiany zwykłego pobytu dziecka na pobyt w państwie niebędącym stroną konwencji, o której mowa w ust. 1, prawo tego państwa określa od chwili tej zmiany warunki stosowania środków podjętych w państwie dawnego zwykłego pobytu dziecka.
-ojczystemu tej osoby.
 2. Jeżeli sąd polski orzeka o środkach, o których mowa w ust. 1, w stosunku do cudzoziemca mającego miejsce zamieszkania lub miejsce zwykłego pobytu w Rzeczypospolitej Polskiej, stosuje się prawo polskie.
 3. Wykonywanie środków, o których mowa w ust. 1, podlega prawu państwa, na którego terytorium ma miejsce zwykłego pobytu osoba, której te środki dotyczą.
 4. W przypadkach, o których mowa w art. 1107 § 2 i 3 ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm. ), stosuje się prawo polskie. To samo dotyczy wykonywania orzeczonych środków.

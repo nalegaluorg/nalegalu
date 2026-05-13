@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 10 czerwca 2016 r.
+# o zmianie ustawy o szczególnych rozwiązaniach związanych z ochroną miejsc pracy oraz ustawy o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy
+
+*USTAWA z dnia 29 kwietnia 2016 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +25,6 @@ domain: null
 | Data wydania | 2016-06-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000827) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/827/text.pdf) |
-
-Poz. 827
-USTAWA z dnia 29 kwietnia 2016 r.
-o zmianie ustawy o szczególnych rozwiązaniach związanych z ochroną miejsc pracy oraz ustawy o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy
 
 **Art. 1.** W ustawie z dnia 11 października 2013 r. o szczególnych rozwiązaniach związanych z ochroną miejsc pracy (Dz. U. z 2015 r. poz. 385 i 1240) wprowadza się następujące zmiany:
 

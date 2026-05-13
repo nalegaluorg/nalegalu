@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 8 stycznia 2026 r.
+# o zawodach pielęgniarki i położnej
+
+*USTAWA z dnia 15 lipca 2011 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -21,75 +23,10 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2025-12-04 |
 | Data wydania | 2026-01-08 |
-| Ostatnia zmiana | 2026-03-18 |
+| Ostatnia zmiana | 2026-05-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000015) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/15/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 4 grudnia 2025 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o zawodach pielęgniarki i położnej
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. z 2024 r. poz. 814), z uwzględnieniem zmian wprowadzonych:
-1) ustawą z dnia maja 2024 r. o zmianie ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz niektórych innych ustaw (Dz. U. poz. 854),
-2) ustawą z dnia 27 listopada 2024 r. o zmianie ustawy o Centrum Medycznym Kształcenia Podyplomowego oraz niektórych innych ustaw (Dz. U. poz. 1897),
-3) ustawą z dnia 5 grudnia 2024 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw (Dz. U. z 2025 r. poz. 129),
-4) ustawą z dnia 24 kwietnia 2025 r. o zmianie ustawy o cudzoziemcach oraz niektórych innych ustaw (Dz. U. poz. 619),
-5) ustawą z dnia 24 kwietnia 2025 r. o zmianie ustawy o Państwowym Ratownictwie Medycznym oraz niektórych innych ustaw (Dz. U. poz. 637),
-6) ustawą z dnia 12 września 2025 r. o zmianie niektórych ustaw w celu weryfikacji prawa do świadczeń na rzecz rodziny dla cudzoziemców oraz o warunkach pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (Dz. U. poz. 1301),
-7) ustawą z dnia 9 października 2025 r. o zmianie ustawy o zawodach pielęgniarki i położnej (Dz. U. poz. 1610) oraz zmian wynikających z przepisów ogłoszonych przed dniem 3 grudnia 2025 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 30 ust. 2, ust. 3 i ust. 5 i art. 35 ustawy z dnia maja 2024 r. o zmianie ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz niektórych innych ustaw (Dz. U. poz. 854), które stanowią:
 Art. 88–90. (pominięte)
-
-**Art. 30.** „2. Przepisów art. 35a ust. 28 i 29 ustawy zmienianej w art. 8 nie stosuje się do osób, które uzyskały zgodę na wykonywanie zawodu pielęgniarki albo położnej, o której mowa w:
-
-**Art. 27.**
-
-1. CMKP wstępuje w prawa i obowiązki wynikające z umów na realizację szkoleń specjalizacyjnych dla pielęgniarek i położnych zawartych między Skarbem Państwa reprezentowanym przez ministra właściwego do spraw zdrowia a organizatorami kształcenia podyplomowego, o których mowa w art. 70 ust. 3 ustawy zmienianej w art. 9 w brzmieniu dotychczasowym, i staje się ich stroną.
-
-2. Sprawy dotyczące zwolnienia pielęgniarki lub położnej posiadającej co najmniej stopień naukowy doktora i odpowiedni dorobek naukowy i zawodowy w dziedzinie, w której zamierza uzyskać tytuł specjalisty, z odbywania specjalizacji w całości lub w części, wszczęte i niezakończone przed dniem wejścia w życie ustawy, podlegają rozpatrzeniu przez dyrektora CMKP.
-
-3. Zadania dotyczące wyboru organizatora kształcenia prowadzącego specjalizację dofinansowywaną ze środków publicznych rozpoczęte przed dniem wejścia w życie ustawy i niezakończone są realizowane przez dyrektora CMKP.
-
-**Art. 28.**
-
-1. Kształcenie podyplomowe pielęgniarek i położnych, o którym mowa w art. 66 ust. 1 pkt 1 ustawy zmienianej w art. 9, rozpoczęte przed dniem wejścia w życie niniejszej ustawy prowadzi się na dotychczasowych zasadach.
-
-2. W okresie 12 miesięcy od dnia zatwierdzenia przez ministra właściwego do spraw zdrowia nowego programu specjalizacji w danej dziedzinie pielęgniarstwa lub w dziedzinie mającej zastosowanie w ochronie zdrowia kształcenie podyplomowe pielęgniarek i położnych, o którym mowa w art. 66 ust. 1 pkt 1 ustawy zmienianej w art. 9, może być rozpoczynane i prowadzone na dotychczasowych zasadach oraz na podstawie programów kształcenia, o których mowa w art. 78 ustawy zmienianej w art. 9 w brzmieniu dotychczasowym.
-
-3. Wpisy do rejestru organizatorów kształcenia dokonane na dotychczasowych zasadach dla kształcenia podyplomowego pielęgniarek i położnych, o którym mowa w art. 66 ust. 1 pkt 1 ustawy zmienianej w art. 9, zachowują ważność do momentu zakończenia specjalizacji rozpoczętych na podstawie programów kształcenia, o których mowa w art. 78 ustawy zmienianej w art. 9 w brzmieniu dotychczasowym, zatwierdzonych przez ministra właściwego do spraw zdrowia przed dniem wejścia w życie niniejszej ustawy.
-
-4. Wpisy do rejestru organizatorów kształcenia dokonane na dotychczasowych zasadach dla kształcenia podyplomowego pielęgniarek i położnych, o którym mowa w art. 66 ust. 1 pkt 2–4 ustawy zmienianej w art. 9, zachowują ważność do dnia 30 czerwca 2026 r.
-
-5. Wnioski o wpis do rejestru organizatorów kształcenia, zmianę wpisu i wykreślenie z tego rejestru złożone do okręgowych izb pielęgniarek i położnych i nierozpatrzone przed dniem wejścia w życie niniejszego przepisu pozostawia się bez rozpatrzenia.
-
-6. Dotychczasowe rejestry organizatorów kształcenia prowadzone przez okręgowe rady pielęgniarek i położnych zostają objęte rejestrem prowadzonym przez Naczelną Radę Pielęgniarek i Położnych.
-
-**Art. 29.** Obowiązek uzyskania akredytacji, o której mowa w art. 75a ustawy zmienianej w art. 9, dotyczy organizatorów kształcenia, którzy zamierzają prowadzić działalność w zakresie prowadzenia specjalizacji na podstawie programów kształcenia, o których mowa w art. 78 ustawy zmienianej w art. 9 w brzmieniu nadanym niniejszą ustawą, zatwierdzonych przez ministra właściwego do spraw zdrowia po dniu wejścia w życie niniejszej ustawy.
-
-**Art. 30.**
-
-1. Dyrektor CMKP przekaże do dnia 31 stycznia 2026 r. ministrowi właściwemu do spraw zdrowia pierwsze roczne sprawozdanie z wyboru organizatorów kształcenia prowadzących specjalizację dofinansowywaną ze środków publicznych, o którym mowa w art. 70 ust. 3c ustawy zmienianej w art. 9.
-
-2. Dyrektor CMKP przekaże do dnia 31 marca 2026 r. ministrowi właściwemu do spraw zdrowia pierwszy roczny raport z przeprowadzonych czynności kontrolnych, o którym mowa w art. 83 ust. 2c ustawy zmienianej w art. 9.” „Art. 34. Od 2027 r. Centrum Egzaminów Medycznych będzie otrzymywać od ministra właściwego do spraw zdrowia środki finansowe na realizację zadań dotyczących przeprowadzenia egzaminu państwowego, o którym mowa w art. 67 ust. 2 ustawy zmienianej w art. 9. O wysokość tych środków od 2027 r. zostanie pomniejszona wysokość dotacji podmiotowej dla CMKP, o której mowa w art. 10 ust. 1 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.” „Art. 36. Do dnia 31 grudnia 2026 r. do czynności i funkcjonalności realizowanych w Systemie Monitorowania Kształcenia Pracowników Medycznych może być w tym systemie używana nazwa „Centrum Kształcenia Podyplomowego Pielęgniarek i Położnych” i skrót „CKPPiP”.” „Art. 41. Ustawa wchodzi w życie z dniem 1 stycznia 2025 r., z wyjątkiem:
-
-- **1)** art. 12, art. 15, art. 19 i art. 40, które wchodzą w życie z dniem 30 grudnia 2024 r.;
-- **2)** art. 9 pkt 14 i oraz art. 28 ust. 5 i 6, które wchodzą w życie z dniem 16 stycznia 2025 r.;
-- **3)** art. 2 pkt 3 i 4 oraz art. 35, które wchodzą w życie z dniem 1 września 2025 r.;
-- **4)** art. 9 pkt 7 lit. b–e i pkt 9, które wchodzą w życie z dniem 1 stycznia 2027 r.”;
-- **3)** art. 7 ustawy z dnia 5 grudnia 2024 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw (Dz. U. z 2025 r. poz. 129), który stanowi: „Art. 7. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
-- **4)** art. 23 ustawy z dnia 24 kwietnia 2025 r. o zmianie ustawy o cudzoziemcach oraz niektórych innych ustaw (Dz. U. poz. 619), który stanowi: „Art. 23. Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po upływie 14 dni od dnia ogłoszenia.”;
-- **5)** art. 26 ustawy z dnia 24 kwietnia 2025 r. o zmianie ustawy o Państwowym Ratownictwie Medycznym oraz niektórych innych ustaw (Dz. U. poz. 637), który stanowi: „Art. 26. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
-- **1)** art. 9, który wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 25 marca 2025 r.;
-- **2)** art. 7, który wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 31 marca 2025 r.;
-- **3)** art. 1 pkt 3, 5 i 6, art. 12 i art. 13, które wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia;
-- **4)** art. 1 pkt 26 w zakresie dodawanego art. 26e, który wchodzi w życie z dniem 1 stycznia 2026 r.”;
-- **6)** art. 29 ustawy z dnia 12 września 2025 r. o zmianie niektórych ustaw w celu weryfikacji prawa do świadczeń na rzecz rodziny dla cudzoziemców oraz o warunkach pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (Dz. U. poz. 1301), który stanowi: „Art. 29. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem:
-- **1)** art. 5, art. 6, art. 10 pkt 11 i 14 oraz art. 19, które wchodzą w życie z dniem 1 stycznia 2026 r.;
-- **2)** art. 4, art. 7, art. 9 pkt 1 i 3–5, art. 10 pkt 13 lit. b oraz art. 11, które wchodzą w życie z dniem 1 lutego 2026 r.;
-- **3)** art. 10 pkt 3 lit. c, która wchodzi w życie z dniem 1 marca 2026 r.;
-- **4)** art. 10 pkt 7 lit. a i c–j, które wchodzą w życie z dniem 1 listopada 2025 r.;
-- **5)** art. 10 pkt 18 i 19, które wchodzą w życie z dniem określonym w komunikacie, o którym mowa w art. 33 ustawy z dnia maja 2024 r. o zmianie ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz niektórych innych ustaw (Dz. U. poz. 854).”;
-- **7)** art. 2 i art. 3 ustawy z dnia 9 października 2025 r. o zmianie ustawy o zawodach pielęgniarki i położnej (Dz. U. poz. 1610), które stanowią: „Art. 2. Kwalifikacje do wykonywania zawodu pielęgniarki odpowiedzialnej za opiekę ogólną uzyskane w Rumunii i uznane przed dniem 3 marca 2024 r. przez właściwą okręgową radę pielęgniarek i położnych zachowują ważność.
-
-**Art. 3.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Marszałek Sejmu: W. Czarzasty USTAWA z dnia lipca 2011 r. o zawodach pielęgniarki i położnej
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -120,6 +57,7 @@ Art. 88–90. (pominięte)
 - **4)** samodzielnym udzielaniu w określonym zakresie świadczeń zapobiegawczych, diagnostycznych, leczniczych i rehabilitacyjnych oraz medycznych czynności ratunkowych;
 - **5)** realizacji zleceń lekarskich w procesie diagnostyki, leczenia i rehabilitacji;
 - **6)** orzekaniu o rodzaju i zakresie świadczeń opiekuńczo-pielęgnacyjnych;
+- **6a)** orzekaniu o niezdolności do samodzielnej egzystencji, o której mowa w art. 13 ust. 5 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2025 r. poz. 1749 oraz z 2026 r. poz. 15);
 - **7)** edukacji zdrowotnej i promocji zdrowia;
 - **8)** stwierdzaniu zgonu, do którego doszło podczas akcji medycznej, o której mowa w art. 40 ust. 1 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2025 r. poz. 91 i 637).
 
@@ -174,7 +112,7 @@ Art. 88–90. (pominięte)
 - **3)** planowania i sprawowania opieki pielęgnacyjnej,
 - **4)** samodzielnego udzielania w określonym zakresie świadczeń zapobiegawczych, diagnostycznych, leczniczych i rehabilitacyjnych,
 - **5)** realizacji zleceń lekarskich w procesie diagnostyki, leczenia i rehabilitacji,
-- **6)** edukacji zdrowotnej i promocji zdrowia zgodnie z posiadanymi kwalifikacjami i umiejętnościami zawodowymi.
+- **6)** edukacji zdrowotnej i promocji zdrowia – zgodnie z posiadanymi kwalifikacjami i umiejętnościami zawodowymi.
 
 2. Za wykonywanie zawodu położnej uważa się również:
 
@@ -191,7 +129,8 @@ Art. 88–90. (pominięte)
 
 **Art. 5a.**
 
-- **6)** 1. W uzasadnionych przypadkach wynikających z braku możliwości podjęcia zatrudnienia jako położna wykonywanie zawodu położnej, po ukończeniu kursu uzupełniającego w zakresie pielęgniarstwa dla położnych, opracowanego przez dyrektora CMKP w porozumieniu z Naczelną Radą Pielęgniarek i Położnych, organizowanego przez właściwą okręgową izbę pielęgniarek i położnych, może polegać również na udzielaniu świadczeń zdrowotnych w zakresie:
+1. W uzasadnionych przypadkach wynikających z braku możliwości podjęcia zatrudnienia jako położna wykonywanie zawodu położnej, po ukończeniu kursu uzupełniającego w zakresie pielęgniarstwa dla położnych, opracowanego przez dyrektora CMKP w porozumieniu z Naczelną Radą Pielęgniarek i Położnych, organizowanego przez właściwą okręgową izbę pielęgniarek i położnych, może polegać również na udzielaniu świadczeń zdrowotnych w zakresie:
+
 - **1)** rozpoznawania warunków i potrzeb zdrowotnych;
 - **2)** rozpoznawania problemów pielęgnacyjnych;
 - **3)** planowania i sprawowania opieki pielęgnacyjnej;
@@ -208,7 +147,7 @@ Art. 88–90. (pominięte)
 - **3)** zatrudnienie w opiece paliatywnej,
 - **4)** pobieranie krwi i jej składników,
 - **5)** kwalifikowanie do szczepień i ich wykonywanie,
-- **6)** zatrudnienie w komórkach organizacyjnych zakładu leczniczego o profilu zabiegowym zgodnie z posiadanymi kwalifikacjami i umiejętnościami zawodowymi.
+- **6)** zatrudnienie w komórkach organizacyjnych zakładu leczniczego o profilu zabiegowym – zgodnie z posiadanymi kwalifikacjami i umiejętnościami zawodowymi.
 
 **Art. 6.** Minister właściwy do spraw zdrowia, po zasięgnięciu opinii Naczelnej Rady Pielęgniarek i Położnych, określi, w drodze rozporządzenia:
 
@@ -236,7 +175,7 @@ Art. 88–90. (pominięte)
 
 1. Pielęgniarka i położna wykonują zawód, z należytą starannością, zgodnie z zasadami etyki zawodowej, poszanowaniem praw pacjenta, dbałością o jego bezpieczeństwo, wykorzystując wskazania aktualnej wiedzy medycznej oraz pośrednictwo systemów teleinformatycznych lub systemów łączności.
 
-2. Pielęgniarka i położna podczas i w związku z wykonywaniem czynności polegających na udzielaniu świadczeń zdrowotnych, o których mowa w art. 4 ust. 1 pkt 1–5 i art. 5 ust. 1 pkt 1–9, korzystają z ochrony przewidzianej dla funkcjonariuszy publicznych na zasadach określonych w ustawie z dnia 6 czerwca 1997 r. Kodeks karny (Dz. U. z 2025 r. poz. 383).
+2. Pielęgniarka i położna podczas i w związku z wykonywaniem czynności polegających na udzielaniu świadczeń zdrowotnych, o których mowa w art. 4 ust. 1 pkt 1–5 i art. 5 ust. 1 pkt 1–9, korzystają z ochrony przewidzianej dla funkcjonariuszy publicznych na zasadach określonych w ustawie z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2025 r. poz. 383).
 
 **Art. 12.**
 
@@ -277,7 +216,7 @@ Art. 88–90. (pominięte)
 1. W ramach samodzielnego wykonywania świadczeń zapobiegawczych, diagnostycznych, leczniczych i rehabilitacyjnych pielęgniarka i położna posiadające dyplom ukończenia studiów drugiego stopnia na kierunku pielęgniarstwo lub położnictwo oraz pielęgniarka i położna posiadające tytuł specjalisty w dziedzinie pielęgniarstwa mają prawo samodzielnie:
 
 - **1)** ordynować leki zawierające określone substancje czynne, z wyłączeniem leków zawierających substancje bardzo silnie działające, środki odurzające i substancje psychotropowe, oraz środki spożywcze specjalnego przeznaczenia żywieniowego, w tym wystawiać na nie recepty,
-- **2)** ordynować określone wyroby medyczne, w tym wystawiać na nie zlecenia albo recepty jeżeli ukończyły kurs specjalistyczny w tym zakresie.
+- **2)** ordynować określone wyroby medyczne, w tym wystawiać na nie zlecenia albo recepty – jeżeli ukończyły kurs specjalistyczny w tym zakresie.
 
 1a. W przypadku leków określonych w wykazach, o których mowa w art. 37 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych (Dz. U. z 2025 r. poz. 907 i 1192), zwanej dalej „ustawą o refundacji”, objętych refundacją w ramach kategorii dostępności refundacyjnej określonej w art. 6 ust. 1 pkt 1 lit. a tej ustawy, dla których istnieją refundowane odpowiedniki, pielęgniarka i położna, o których mowa w ust. 1 i 2, wystawiając receptę, może przyjąć jako zakres zarejestrowanych wskazań wskazania określone dla wszystkich odpowiedników refundowanych w ramach tej kategorii dostępności refundacyjnej.
 
@@ -288,10 +227,10 @@ Art. 88–90. (pominięte)
 
 3. Uprawnienia, o których mowa w ust. 1 i 2, obejmują również wystawianie recept osobom, o których mowa w art. 43–46 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, na zasadach określonych w tej ustawie oraz w ustawie o refundacji, z wyjątkiem uprawnienia do wystawiania recept przez:
 
-- **1)** położną świadczeniobiorcom, o których mowa w art. 43a ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
-- **2)** pielęgniarkę świadczeniobiorcom, o których mowa w art. 43b ust. 1 ustawy, o której mowa w pkt 1.
+- **1)** położną – świadczeniobiorcom, o których mowa w art. 43a ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
+- **2)** pielęgniarkę – świadczeniobiorcom, o których mowa w art. 43b ust. 1 ustawy, o której mowa w pkt 1.
 
-3a. Pielęgniarka i położna, o których mowa w ust. 1 i 2, wystawiają recepty na leki, środki spożywcze specjalnego przeznaczenia żywieniowego oraz wyroby medyczne na zasadach określonych w art. 95b, art. 96a i art. 96b ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne (Dz. U. z 2025 r. poz. 750, 905, 924, 1416 i 1537).
+3a. Pielęgniarka i położna, o których mowa w ust. 1 i 2, wystawiają recepty na leki, środki spożywcze specjalnego przeznaczenia żywieniowego oraz wyroby medyczne na zasadach określonych w art. 95b, art. 96a i art. 96b ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2025 r. poz. 750, 905, 924, 1416 i 1537).
 
 4. W przypadku wystawiania recept na leki, środki spożywcze specjalnego przeznaczenia żywieniowego, wyroby medyczne określone w wykazach, o których mowa w art. 37 ustawy o refundacji, pielęgniarka i położna są obowiązane do odnotowania na recepcie, w sposób określony w przepisach wydanych na podstawie ust. 8, odpłatności, jeżeli lek, środek spożywczy specjalnego przeznaczenia żywieniowego, wyrób medyczny występuje w tych wykazach w co najmniej dwóch odpłatnościach, o których mowa w art. 6 ust. 2 ustawy o refundacji.
 
@@ -316,7 +255,7 @@ Art. 88–90. (pominięte)
 - **3)** (uchylony)
 - **4)** (uchylony)
 - **5)** (uchylony)
-- **6)** (uchylony) biorąc pod uwagę niezbędne kwalifikacje oraz wymagany zakres umiejętności i obowiązków pielęgniarki i położnej.
+- **6)** (uchylony) – biorąc pod uwagę niezbędne kwalifikacje oraz wymagany zakres umiejętności i obowiązków pielęgniarki i położnej.
 
 **Art. 15b.**
 
@@ -324,7 +263,7 @@ Art. 88–90. (pominięte)
 
 2. Pielęgniarka i położna, o których mowa w art. 15a ust. 1, mogą, bez dokonania badania pacjenta, wystawić receptę niezbędną do kontynuacji leczenia oraz receptę albo zlecenie na zaopatrzenie w wyroby medyczne jako kontynuację zaopatrzenia w wyroby medyczne, jeżeli jest to uzasadnione stanem zdrowia pacjenta odzwierciedlonym w dokumentacji medycznej.
 
-3. W przypadku, o którym mowa w ust. 2, recepty, zlecenia lub wydruk, o którym mowa w art. 96b ust. 2 pkt 3 ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne, mogą być przekazane:
+3. W przypadku, o którym mowa w ust. 2, recepty, zlecenia lub wydruk, o którym mowa w art. 96b ust. 2 pkt 3 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne, mogą być przekazane:
 
 - **1)** przedstawicielowi ustawowemu pacjenta albo osobie upoważnionej przez pacjenta do ich odbioru;
 - **2)** osobie trzeciej, jeżeli pacjent oświadczy podmiotowi udzielającemu świadczeń zdrowotnych, że recepty, zlecenia lub wydruk mogą być odebrane przez osoby trzecie bez szczegółowego określania tych osób.
@@ -358,12 +297,12 @@ Art. 88–90. (pominięte)
 - **2)** w ramach stosunku służbowego;
 - **3)** na podstawie umowy cywilnoprawnej;
 - **4)** w ramach wolontariatu;
-- **5)** w ramach praktyk zawodowych wymienionych w art. 5 ust. 2 pkt 2 ustawy z dnia kwietnia 2011 r. o działalności leczniczej.
+- **5)** w ramach praktyk zawodowych wymienionych w art. 5 ust. 2 pkt 2 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej.
 
 2. Pielęgniarka i położna wykonujące zawód w formach, o których mowa w ust. 1 pkt 1–3, są obowiązane, w terminie 14 dni od dnia nawiązania stosunku służbowego lub zawarcia umowy, poinformować o tym fakcie okręgową radę pielęgniarek i położnych właściwą ze względu na miejsce wykonywania zawodu, wskazując:
 
 - **1)** numer dokumentu poświadczającego posiadanie prawa wykonywania zawodu albo ograniczonego prawa wykonywania zawodu;
-- **2)** datę zatrudnienia i stanowisko, a w przypadku umów na czas określony datę zakończenia umowy;
+- **2)** datę zatrudnienia i stanowisko, a w przypadku umów na czas określony – datę zakończenia umowy;
 - **3)** miejsce wykonywania zawodu.
 
 3. Pielęgniarka i położna wykonujące zawód w formach, o których mowa w ust. 1 pkt 1–3, są obowiązane poinformować okręgową radę pielęgniarek i położnych, właściwą ze względu na miejsce wykonywania zawodu, o rozwiązaniu albo wygaśnięciu umowy, w terminie 14 dni od dnia rozwiązania albo wygaśnięcia umowy.
@@ -430,9 +369,9 @@ Art. 88–90. (pominięte)
 
 4. Zaświadczenia oraz dokumenty, o których mowa w ust. 1, ponownie przedstawia się okręgowej izbie pielęgniarek i położnych tylko w przypadku istotnej zmiany okoliczności potwierdzonych zaświadczeniami lub dokumentami.
 
-5. Pielęgniarka lub położna, czasowo i okazjonalnie wykonujące zawód na terytorium Rzeczypospolitej Polskiej, nie mają obowiązku rejestracji swojej działalności w systemie ubezpieczeń celem dokonania rozliczeń związanych z czasowym i okazjonalnym wykonywaniem zawodu, ale są obowiązane poinformować właściwą instytucję ubezpieczeniową o tymczasowym i okazjonalnym wykonywaniu zawodu przed rozpoczęciem jego wykonywania, a w nagłych wypadkach po zakończeniu jego wykonywania.
+5. Pielęgniarka lub położna, czasowo i okazjonalnie wykonujące zawód na terytorium Rzeczypospolitej Polskiej, nie mają obowiązku rejestracji swojej działalności w systemie ubezpieczeń celem dokonania rozliczeń związanych z czasowym i okazjonalnym wykonywaniem zawodu, ale są obowiązane poinformować właściwą instytucję ubezpieczeniową o tymczasowym i okazjonalnym wykonywaniu zawodu przed rozpoczęciem jego wykonywania, a w nagłych wypadkach – po zakończeniu jego wykonywania.
 
-6. W przypadku gdy okręgowa rada pielęgniarek i położnych biorąc pod uwagę długość, częstotliwość, regularność i ciągłość oraz charakter udzielanych świadczeń zdrowotnych uzna, że wykonywanie zawodu nie ma charakteru czasowego i okazjonalnego, informuje pielęgniarkę lub położną o konieczności uzyskania stwierdzenia prawa wykonywania zawodu.
+6. W przypadku gdy okręgowa rada pielęgniarek i położnych – biorąc pod uwagę długość, częstotliwość, regularność i ciągłość oraz charakter udzielanych świadczeń zdrowotnych – uzna, że wykonywanie zawodu nie ma charakteru czasowego i okazjonalnego, informuje pielęgniarkę lub położną o konieczności uzyskania stwierdzenia prawa wykonywania zawodu.
 
 7. Przepisów ust. 1–6 nie stosuje się do pielęgniarek i położnych udzielających świadczeń opieki zdrowotnej w ramach umów międzynarodowych zawartych z państwem członkowskim Unii Europejskiej w celu współpracy transgranicznej w zakresie ratownictwa medycznego.
 
@@ -446,7 +385,7 @@ Art. 88–90. (pominięte)
 
 2a. Okres przeszkolenia określonego zgodnie z ust. 2 wlicza się do okresu wykonywania zawodu pielęgniarki lub położnej.
 
-2b. Okres niewykonywania zawodu pielęgniarki lub położnej rozpoczyna się z dniem rozwiązania lub wygaśnięcia umowy lub stosunku, o których mowa w art. 19 ust. 1 pkt 1–3, albo porozumienia w przypadku wykonywania zawodu w ramach wolontariatu, oraz z dniem zakończenia lub zawieszenia wykonywania praktyki zawodowej.
+2b. Okres niewykonywania zawodu pielęgniarki lub położnej rozpoczyna się z dniem rozwiązania lub wygaśnięcia umowy lub stosunku, o których mowa w art. 19 ust. 1 pkt 1–3, albo porozumienia – w przypadku wykonywania zawodu w ramach wolontariatu, oraz z dniem zakończenia lub zawieszenia wykonywania praktyki zawodowej.
 
 3. Przeszkolenie może odbyć się również na podstawie umowy o pracę u pracodawcy, który zatrudnia albo ma zamiar zatrudnić pielęgniarkę lub położną, o których mowa w ust. 1, z zachowaniem warunków określonych w ust. 1.
 
@@ -470,7 +409,7 @@ Art. 88–90. (pominięte)
 
 5. Pielęgniarka lub położna, których sprawa dotyczy, są uprawnione do uczestnictwa, z prawem zabrania głosu, w posiedzeniu okręgowej rady pielęgniarek i położnych w czasie rozpatrywania ich sprawy.
 
-6. Jeżeli pielęgniarka lub położna odmawia poddania się badaniu przez komisję lub jeżeli okręgowa rada pielęgniarek i położnych na podstawie wyników postępowania wyjaśniającego uzna, że dalsze wykonywanie zawodu lub ściśle określonych czynności zawodowych ze względu na stan zdrowia pielęgniarki lub położnej nie jest możliwe okręgowa rada pielęgniarek i położnych podejmuje uchwałę o zawieszeniu prawa wykonywania zawodu albo o ograniczeniu wykonywania określonych czynności zawodowych.
+6. Jeżeli pielęgniarka lub położna odmawia poddania się badaniu przez komisję lub jeżeli okręgowa rada pielęgniarek i położnych na podstawie wyników postępowania wyjaśniającego uzna, że dalsze wykonywanie zawodu lub ściśle określonych czynności zawodowych ze względu na stan zdrowia pielęgniarki lub położnej nie jest możliwe – okręgowa rada pielęgniarek i położnych podejmuje uchwałę o zawieszeniu prawa wykonywania zawodu albo o ograniczeniu wykonywania określonych czynności zawodowych.
 
 7. Pielęgniarce lub położnej, w stosunku do których podjęto uchwałę o zawieszeniu prawa wykonywania zawodu albo o ograniczeniu wykonywania określonych czynności zawodowych, przysługuje prawo wniesienia odwołania od uchwały o zawieszeniu prawa wykonywania zawodu albo o ograniczeniu wykonywania określonych czynności zawodowych do Naczelnej Rady Pielęgniarek i Położnych w terminie 14 dni od dnia otrzymania zawiadomienia o podjęciu uchwały przez okręgową radę pielęgniarek i położnych.
 
@@ -484,9 +423,7 @@ Art. 88–90. (pominięte)
 
 **Art. 28.** Prawo wykonywania zawodu pielęgniarki przysługuje osobie:
 
-**Art. 28a.**
-
-- **8)** Prawo wykonywania zawodu pielęgniarki przysługuje obywatelowi państwa członkowskiego Unii Europejskiej, który posiada dyplom, świadectwo lub inny dokument potwierdzający posiadanie formalnych kwalifikacji do wykonywania zawodu pielęgniarki odpowiedzialnej za opiekę ogólną uzyskane przed dniem 1 stycznia 2021 r. w Zjednoczonym Królestwie Wielkiej Brytanii i Irlandii Północnej i tytuł zawodowy „Registered Nurse Adult”, „Registered General Nurse” lub „State Registered Nurse” oraz spełnia warunki, o których mowa w art. 28 pkt 2–4.
+**Art. 28a.** Prawo wykonywania zawodu pielęgniarki przysługuje obywatelowi państwa członkowskiego Unii Europejskiej, który posiada dyplom, świadectwo lub inny dokument potwierdzający posiadanie formalnych kwalifikacji do wykonywania zawodu pielęgniarki odpowiedzialnej za opiekę ogólną uzyskane przed dniem 1 stycznia 2021 r. w Zjednoczonym Królestwie Wielkiej Brytanii i Irlandii Północnej i tytuł zawodowy „Registered Nurse – Adult”, „Registered General Nurse” lub „State Registered Nurse” oraz spełnia warunki, o których mowa w art. 28 pkt 2–4.
 
 **Art. 29.**
 
@@ -520,32 +457,26 @@ Art. 88–90. (pominięte)
 - **7)** 1 maja 1995 r. w Księstwie Liechtensteinu,
 - **8)** 1 czerwca 2002 r. w Konfederacji Szwajcarskiej,
 - **9)** 1 maja 2004 r. w Republice Czeskiej, Republice Słowackiej, Republice Słowenii, Republice Litewskiej, Republice Łotewskiej, Republice Estońskiej, Republice Węgierskiej, Republice Malty lub Republice Cypryjskiej,
-- **10)** 1 stycznia 2007 r. w Republice Bułgarii i Rumunii, 10a) 1 lipca 2013 r. w Republice Chorwacji oraz do dyplomu, świadectwa lub innego dokumentu potwierdzającego posiadanie formalnych kwalifikacji zostało dołączone zaświadczenie potwierdzające, że osoba posługująca się tymi dokumentami wykonywała zawód pielęgniarki odpowiedzialnej za opiekę ogólną przez okres co najmniej 3 kolejnych lat z 5 lat bezpośrednio poprzedzających wydanie zaświadczenia;
+- **10)** 1 stycznia 2007 r. w Republice Bułgarii i Rumunii, 10a) 1 lipca 2013 r. w Republice Chorwacji – oraz do dyplomu, świadectwa lub innego dokumentu potwierdzającego posiadanie formalnych kwalifikacji zostało dołączone zaświadczenie potwierdzające, że osoba posługująca się tymi dokumentami wykonywała zawód pielęgniarki odpowiedzialnej za opiekę ogólną przez okres co najmniej 3 kolejnych lat z 5 lat bezpośrednio poprzedzających wydanie zaświadczenia;
 - **11)** 11 marca 1990 r. w byłym Związku Socjalistycznych Republik Radzieckich, w przypadku Republiki Litewskiej,
 - **12)** 20 sierpnia 1991 r. w byłym Związku Socjalistycznych Republik Radzieckich, w przypadku Republiki Estońskiej,
 - **13)** 21 sierpnia 1991 r. w byłym Związku Socjalistycznych Republik Radzieckich, w przypadku Republiki Łotewskiej,
 - **14)** 25 czerwca 1991 r. w byłej Jugosławii, w przypadku Republiki Słowenii, 14a) 8 października 1991 r. w byłej Jugosławii, w przypadku Republiki Chorwacji,
-- **15)** 1 stycznia 1993 r. w byłej Czechosłowacji oraz do dyplomu, świadectwa lub innego dokumentu potwierdzającego posiadanie formalnych kwalifikacji zostało dołączone zaświadczenie wydane przez odpowiednie władze lub organizacje odpowiednio: Republiki Litewskiej, Republiki Estońskiej, Republiki Łotewskiej, Republiki Słowenii, Republiki Chorwacji, Republiki Czeskiej lub Republiki Słowackiej, potwierdzające, że dokument ten ma na terytorium tych państw taką samą moc, jak dokumenty wymienione w odniesieniu do tych państw w wykazie, o którym mowa w art. 34 ust. 2, oraz że osoba posługująca się tymi dokumentami wykonywała zawód pielęgniarki odpowiedzialnej za opiekę ogólną przez okres co najmniej 3 kolejnych lat z 5 lat bezpośrednio poprzedzających wydanie zaświadczenia.
+- **15)** 1 stycznia 1993 r. w byłej Czechosłowacji – oraz do dyplomu, świadectwa lub innego dokumentu potwierdzającego posiadanie formalnych kwalifikacji zostało dołączone zaświadczenie wydane przez odpowiednie władze lub organizacje odpowiednio: Republiki Litewskiej, Republiki Estońskiej, Republiki Łotewskiej, Republiki Słowenii, Republiki Chorwacji, Republiki Czeskiej lub Republiki Słowackiej, potwierdzające, że dokument ten ma na terytorium tych państw taką samą moc, jak dokumenty wymienione w odniesieniu do tych państw w wykazie, o którym mowa w art. 34 ust. 2, oraz że osoba posługująca się tymi dokumentami wykonywała zawód pielęgniarki odpowiedzialnej za opiekę ogólną przez okres co najmniej 3 kolejnych lat z 5 lat bezpośrednio poprzedzających wydanie zaświadczenia.
 
 2. Za równoważne z dyplomem, świadectwem lub innym dokumentem potwierdzającym posiadanie formalnych kwalifikacji uprawniającymi do wykonywania w Rzeczypospolitej Polskiej zawodu pielęgniarki, o których mowa w wykazie określonym na podstawie art. 34 ust. 2, uważa się dokumenty wydane przez odpowiednie władze w Rumunii i potwierdzające kwalifikacje pielęgniarki:
 
 - **1)** Certificat de competenţe profesionale de asistent medical generalist uzyskany w wyniku kształcenia ponadśredniego w şcoală postliceală, poświadczający kształcenie rozpoczęte przed dniem 1 stycznia 2007 r.,
 - **2)** Diplomã de absolvire de asistent medical generalist uzyskany w wyniku krótkiego cyklu studiów wyższych, poświadczający kształcenie rozpoczęte przed dniem 1 października 2003 r.,
-- **3)** Diplomã de licenţă de asistent medical generalist uzyskany w wyniku długiego cyklu studiów wyższych, poświadczający kształcenie rozpoczęte przed dniem 1 października 2003 r. jeżeli zostało do nich dołączone zaświadczenie potwierdzające, że osoba posługująca się tymi dokumentami rzeczywiście i zgodnie z prawem wykonywała zawód pielęgniarki przez okres co najmniej 3 kolejnych lat z 5 lat bezpośrednio poprzedzających wydanie zaświadczenia, a wymieniona działalność obejmowała pełną odpowiedzialność za planowanie, organizację i opiekę pielęgniarską nad pacjentem.
+- **3)** Diplomã de licenţă de asistent medical generalist uzyskany w wyniku długiego cyklu studiów wyższych, poświadczający kształcenie rozpoczęte przed dniem 1 października 2003 r. – jeżeli zostało do nich dołączone zaświadczenie potwierdzające, że osoba posługująca się tymi dokumentami rzeczywiście i zgodnie z prawem wykonywała zawód pielęgniarki przez okres co najmniej 3 kolejnych lat z 5 lat bezpośrednio poprzedzających wydanie zaświadczenia, a wymieniona działalność obejmowała pełną odpowiedzialność za planowanie, organizację i opiekę pielęgniarską nad pacjentem.
 
 3. Jeżeli pielęgniarka będąca obywatelem państwa członkowskiego Unii Europejskiej posiada dyplom, świadectwo lub inny dokument potwierdzający posiadanie formalnych kwalifikacji do wykonywania zawodu pielęgniarki, inny niż dokumenty zamieszczone w wykazie określonym na podstawie art. 34 ust. 2, uznaje się go za równoważny z tymi dokumentami, pod warunkiem że przedstawi zaświadczenie wydane przez odpowiednie władze lub organizacje państwa członkowskiego Unii Europejskiej, stwierdzające, że ten dyplom, świadectwo lub inny dokument został uzyskany po ukończeniu kształcenia zgodnego z przepisami prawa Unii Europejskiej i jest traktowany przez te władze lub organizacje za równoważny z dokumentami zamieszczonymi w wykazie określonym na podstawie art. 34 ust. 2.
 
-**Art. 30a.**
-
-- **10)** Za równoważne z dyplomem, świadectwem lub innym dokumentem potwierdzającym posiadanie formalnych kwalifikacji, uprawniającym do wykonywania w Rzeczypospolitej Polskiej zawodu pielęgniarki, o których mowa w wykazie określonym na podstawie art. 34 ust. 2, uważa się dokumenty:
-- **1)** wydane przez odpowiednie władze w Rumunii i potwierdzające kwalifikacje pielęgniarki, o których mowa w art. 30 ust. 2 pkt 2 i 3, pod warunkiem że został do nich dołączony dokument potwierdzający posiadanie kwalifikacji uzyskanych na podstawie specjalnego programu podwyższania kwalifikacji Diplomă de licență, o którym mowa w art. 3 ust. 2 wspólnego zarządzenia Ministra Edukacji Narodowej i Ministra Zdrowia nr 4317/943/2014 z dnia 11 sierpnia 2014 r. w sprawie zatwierdzenia specjalnego programu podwyższania kwalifikacji dotyczącego kształcenia podstawowego pielęgniarek odpowiedzialnych za opiekę ogólną odbytego przed dniem 1 stycznia 2007 r. dla absolwentów szkół pomaturalnych i wyższych (Dziennik Urzędowy Rumunii nr 624 z dnia 26 sierpnia 2014 r.), wraz z suplementem do dyplomu potwierdzającym, że dana osoba ukończyła specjalny program podwyższania kwalifikacji, lub
-- **2)** uzyskane na poziomie ponadśrednim, o których mowa w art. 4 zarządzenia Ministra Edukacji Narodowej nr 5114/2014 w sprawie zatwierdzenia metodologii organizacji, prowadzenia i ukończenia specjalnego programu podwyższania kwalifikacji dotyczącego kształcenia podstawowego pielęgniarek odpowiedzialnych za opiekę ogólną odbytego przed dniem 1 stycznia 2007 r. dla absolwentów szkół pomaturalnych (Dziennik Urzędowy Rumunii nr 5 z dnia 6 stycznia 2015 r.), pod warunkiem że został do nich dołączony dokument potwierdzający posiadanie kwalifikacji uzyskanych na podstawie specjalnego programu podwyższania kwalifikacji Certificat de revalorizare a competenţelor profesionale, o którym mowa w art. 3 ust. 1 oraz w załączniku 3 do wspólnego zarządzenia Ministra Edukacji Narodowej i Ministra Zdrowia nr 4317/943/2014 z dnia 11 sierpnia 2014 r. w sprawie zatwierdzenia specjalnego programu podwyższania kwalifikacji dotyczącego kształcenia podstawowego pielęgniarek odpowiedzialnych za opiekę ogólną odbytego przed dniem 1 stycznia 2007 r. dla absolwentów szkół pomaturalnych i wyższych oraz w art. 16 zarządzenia Ministra Edukacji Narodowej nr 5114/2014 w sprawie zatwierdzenia metodologii organizacji, prowadzenia i ukończenia specjalnego programu podwyższania kwalifikacji dotyczącego kształcenia podstawowego pielęgniarek odpowiedzialnych za opiekę ogólną odbytego przed dniem 1 stycznia 2007 r. dla absolwentów szkół pomaturalnych.
+**Art. 30a.** Za równoważne z dyplomem, świadectwem lub innym dokumentem potwierdzającym posiadanie formalnych kwalifikacji, uprawniającym do wykonywania w Rzeczypospolitej Polskiej zawodu pielęgniarki, o których mowa w wykazie określonym na podstawie art. 34 ust. 2, uważa się dokumenty:
 
 **Art. 31.** Prawo wykonywania zawodu położnej przysługuje osobie:
 
-**Art. 31a.**
-
-- **11)** Prawo wykonywania zawodu położnej przysługuje obywatelowi państwa członkowskiego Unii Europejskiej, który posiada dyplom, świadectwo lub inny dokument potwierdzający posiadanie formalnych kwalifikacji do wykonywania zawodu położnej uzyskane przed dniem 1 stycznia 2021 r. w Zjednoczonym Królestwie Wielkiej Brytanii i Irlandii Północnej i tytuł zawodowy „Registered Midwife” lub „Midwife” oraz spełnia warunki, o których mowa w art. 31 pkt 2–4.
+**Art. 31a.** Prawo wykonywania zawodu położnej przysługuje obywatelowi państwa członkowskiego Unii Europejskiej, który posiada dyplom, świadectwo lub inny dokument potwierdzający posiadanie formalnych kwalifikacji do wykonywania zawodu położnej uzyskane przed dniem 1 stycznia 2021 r. w Zjednoczonym Królestwie Wielkiej Brytanii i Irlandii Północnej i tytuł zawodowy „Registered Midwife” lub „Midwife” oraz spełnia warunki, o których mowa w art. 31 pkt 2–4.
 
 **Art. 32.**
 
@@ -584,12 +515,12 @@ Art. 88–90. (pominięte)
 - **5)** 1 maja 1995 r. w Księstwie Liechtensteinu,
 - **6)** 1 czerwca 2002 r. w Konfederacji Szwajcarskiej,
 - **7)** 1 maja 2004 r. w Republice Czeskiej, Republice Słowackiej, Republice Słowenii, Republice Litewskiej, Republice Łotewskiej, Republice Estońskiej, Republice Węgierskiej, Republice Malty lub Republice Cypryjskiej,
-- **8)** 1 stycznia 2007 r. w Republice Bułgarii i Rumunii, 8a) 1 lipca 2013 r. w Republice Chorwacji oraz do dyplomu, świadectwa lub innego dokumentu potwierdzającego posiadanie formalnych kwalifikacji zostało dołączone zaświadczenie potwierdzające, że osoba posługująca się tymi dokumentami wykonywała zawód położnej przez okres co najmniej 3 kolejnych lat z 5 lat bezpośrednio poprzedzających wydanie zaświadczenia;
+- **8)** 1 stycznia 2007 r. w Republice Bułgarii i Rumunii, 8a) 1 lipca 2013 r. w Republice Chorwacji – oraz do dyplomu, świadectwa lub innego dokumentu potwierdzającego posiadanie formalnych kwalifikacji zostało dołączone zaświadczenie potwierdzające, że osoba posługująca się tymi dokumentami wykonywała zawód położnej przez okres co najmniej 3 kolejnych lat z 5 lat bezpośrednio poprzedzających wydanie zaświadczenia;
 - **9)** 11 marca 1990 r. w byłym Związku Socjalistycznych Republik Radzieckich, w przypadku Republiki Litewskiej,
 - **10)** 20 sierpnia 1991 r. w byłym Związku Socjalistycznych Republik Radzieckich, w przypadku Republiki Estońskiej,
 - **11)** 21 sierpnia 1991 r. w byłym Związku Socjalistycznych Republik Radzieckich, w przypadku Republiki Łotewskiej,
 - **12)** 25 czerwca 1991 r. w byłej Jugosławii, w przypadku Republiki Słowenii, 12a) 8 października 1991 r. w byłej Jugosławii, w przypadku Republiki Chorwacji,
-- **13)** 1 stycznia 1993 r. w byłej Czechosłowacji oraz do dyplomu, świadectwa lub innego dokumentu potwierdzającego posiadanie formalnych kwalifikacji zostało dołączone zaświadczenie wydane przez odpowiednie władze lub organizacje odpowiednio: Republiki Litewskiej, Republiki Estońskiej, Republiki Łotewskiej, Republiki Słowenii, Republiki Chorwacji, Republiki Czeskiej lub Republiki Słowackiej, potwierdzające, że dokument ten ma na terytorium tych państw taką samą moc, jak dokumenty wymienione w odniesieniu do tych państw w wykazie, o którym mowa w art. 34 ust. 2, oraz że osoba posługująca się tymi dokumentami wykonywała zawód położnej przez okres co najmniej 3 kolejnych lat z 5 lat bezpośrednio poprzedzających wydanie zaświadczenia.
+- **13)** 1 stycznia 1993 r. w byłej Czechosłowacji – oraz do dyplomu, świadectwa lub innego dokumentu potwierdzającego posiadanie formalnych kwalifikacji zostało dołączone zaświadczenie wydane przez odpowiednie władze lub organizacje odpowiednio: Republiki Litewskiej, Republiki Estońskiej, Republiki Łotewskiej, Republiki Słowenii, Republiki Chorwacji, Republiki Czeskiej lub Republiki Słowackiej, potwierdzające, że dokument ten ma na terytorium tych państw taką samą moc, jak dokumenty wymienione w odniesieniu do tych państw w wykazie, o którym mowa w art. 34 ust. 2, oraz że osoba posługująca się tymi dokumentami wykonywała zawód położnej przez okres co najmniej 3 kolejnych lat z 5 lat bezpośrednio poprzedzających wydanie zaświadczenia.
 
 1a. W przypadku położnej będącej obywatelem państwa członkowskiego Unii Europejskiej, posiadającej dyplom, świadectwo lub inny dokument potwierdzający posiadanie formalnych kwalifikacji do wykonywania zawodu położnej wydany przed datą określoną w załączniku V pkt 5.5.2 do dyrektywy, który odpowiada minimalnym wymogom kształcenia zgodnego z przepisami prawa Unii Europejskiej, ale jest uznawany tylko pod warunkiem uzupełnienia go roczną praktyką zawodową potwierdzoną zaświadczeniem wydanym zgodnie z art. 32 ust. 1a, kwalifikacje są uznawane po przedstawieniu zaświadczenia wydanego przez odpowiednie władze lub organizacje państwa członkowskiego Unii Europejskiej potwierdzające, że osoba ta faktycznie i zgodnie z prawem wykonywała zawód położnej przez co najmniej 2 kolejne lata w okresie 5 lat poprzedzających wydanie zaświadczenia.
 
@@ -643,7 +574,7 @@ Art. 88–90. (pominięte)
 - **1)** ramowy program stażu adaptacyjnego,
 - **2)** sposób i tryb odbywania oraz zaliczania stażu adaptacyjnego,
 - **3)** szczegółowy zakres uprawnień zawodowych pielęgniarki i położnej w okresie odbywania stażu adaptacyjnego,
-- **4)** warunki, jakie powinien spełniać podmiot leczniczy, w którym odbywają się staże adaptacyjne uwzględniając zakres uprawnień zawodowych pielęgniarki i położnej określony w ustawie.
+- **4)** warunki, jakie powinien spełniać podmiot leczniczy, w którym odbywają się staże adaptacyjne – uwzględniając zakres uprawnień zawodowych pielęgniarki i położnej określony w ustawie.
 
 **Art. 35a.**
 
@@ -664,13 +595,13 @@ Art. 88–90. (pominięte)
 4. W celu udzielenia zgody, o której mowa w ust. 1, minister właściwy do spraw zdrowia może wystąpić o opinię do:
 
 - **1)** konsultanta krajowego właściwego w danej dziedzinie pielęgniarstwa lub konsultanta krajowego w dziedzinie pielęgniarstwa albo
-- **2)** konsultanta wojewódzkiego właściwego w danej dziedzinie pielęgniarstwa lub konsultanta wojewódzkiego w dziedzinie pielęgniarstwa, na obszarze województwa, gdzie osoba, o której mowa w ust. 1, zamierza wykonywać zawód przekazując dokumenty potwierdzające spełnienie warunków określonych w ust. 1, a także, jeżeli to konieczne, inne dokumenty potwierdzające posiadanie kwalifikacji zawodowych odpowiadających zakresowi świadczeń zdrowotnych wskazanych w zaświadczeniu, o którym mowa w ust. 1 pkt 2.
+- **2)** konsultanta wojewódzkiego właściwego w danej dziedzinie pielęgniarstwa lub konsultanta wojewódzkiego w dziedzinie pielęgniarstwa, na obszarze województwa, gdzie osoba, o której mowa w ust. 1, zamierza wykonywać zawód – przekazując dokumenty potwierdzające spełnienie warunków określonych w ust. 1, a także, jeżeli to konieczne, inne dokumenty potwierdzające posiadanie kwalifikacji zawodowych odpowiadających zakresowi świadczeń zdrowotnych wskazanych w zaświadczeniu, o którym mowa w ust. 1 pkt 2.
 
 5. Konsultant wydaje opinię, o której mowa w ust. 4, w terminie 7 dni od dnia otrzymania wystąpienia ministra właściwego do spraw zdrowia.
 
 6. Na podstawie decyzji, o której mowa w ust. 3, okręgowa rada pielęgniarek i położnych przyznaje adresatowi tej decyzji prawo wykonywania zawodu pielęgniarki lub prawo wykonywania zawodu położnej, na określony zakres czynności zawodowych, okres i miejsce jego wykonywania wskazane w decyzji, o której mowa w ust. 3. Okręgowa rada pielęgniarek i położnych przyznaje prawo wykonywania zawodu oraz wydaje dokument „Prawo wykonywania zawodu pielęgniarki” albo „Prawo wykonywania zawodu położnej”, w terminie 30 dni od dnia otrzymania decyzji, o której mowa w ust. 3, i wpisuje pielęgniarkę albo położną do rejestru, o którym mowa w art. 48 ust. 1. W przypadku odmowy wydania prawa wykonywania zawodu okręgowa rada pielęgniarek i położnych niezwłocznie informuje o tym ministra właściwego do spraw zdrowia, wskazując przyczyny takiego rozstrzygnięcia.
 
-7. Podmiot, o którym mowa w ust. 1 pkt 2, zatrudnia pielęgniarkę lub położną na podstawie umowy o pracę na czas określony nie dłuższy niż okres do dnia upływu ważności prawa wykonywania zawodu, o którym mowa w ust. 6. Przepisu art. 25 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2025 r. poz. 277, 807, 1423 i 1661) nie stosuje się.
+7. Podmiot, o którym mowa w ust. 1 pkt 2, zatrudnia pielęgniarkę lub położną na podstawie umowy o pracę na czas określony nie dłuższy niż okres do dnia upływu ważności prawa wykonywania zawodu, o którym mowa w ust. 6. Przepisu art. 25 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277, 807, 1423 i 1661) nie stosuje się.
 
 8. Pielęgniarka lub położna, posiadająca prawo wykonywania zawodu, o którym mowa w ust. 6, wykonuje zawód przez okres roku pod nadzorem innej pielęgniarki lub położnej wyznaczonej przez kierownika podmiotu, o którym mowa w ust. 1 pkt 2.
 
@@ -680,8 +611,9 @@ Art. 88–90. (pominięte)
 
 - **1)** na wniosek pielęgniarki albo położnej zgody na wykonywanie zawodu w innym podmiocie udzielił minister właściwy do spraw zdrowia, w drodze decyzji administracyjnej, której nadaje się rygor natychmiastowej wykonalności, na podstawie zaświadczenia, o którym mowa w ust. 1 pkt 2, wydanego przez kolejny podmiot wykonujący działalność leczniczą, w którym występuje szczególnie duże zapotrzebowanie na świadczenia zdrowotne udzielane przez pielęgniarki lub położne;
 - **2)** minister właściwy do spraw zdrowia skierował pielęgniarkę albo położną w drodze decyzji administracyjnej do pracy w podmiocie wykonującym działalność leczniczą, w którym występuje szczególnie duże zapotrzebowanie na świadczenia udzielane przez pielęgniarki lub położne;
-- **3)** pielęgniarka albo położna została skierowana do pracy przy zwalczaniu epidemii na podstawie art. 47 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2025 r. poz. 1675);
-- **4)** pielęgniarka albo położna udziela świadczeń zdrowotnych w podmiotach leczniczych udzielających świadczeń osobom, których pobyt na terytorium Rzeczypospolitej Polskiej jest uznawany za legalny na podstawie art. 2 ust. 1 ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (Dz. U. z 2025 r. poz. 337, 620, 621 i 1301).
+- **3)** pielęgniarka albo położna została skierowana do pracy przy zwalczaniu epidemii na podstawie art. 47 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2025 r. poz.
+- **1675)** .
+- **4)** (uchylony)
 
 11. Prawo wykonywania zawodu, o którym mowa w ust. 6, wygasa w przypadku:
 
@@ -717,9 +649,7 @@ Art. 88–90. (pominięte)
 
 21. Minister właściwy do spraw zdrowia może udzielić, w drodze decyzji administracyjnej, zgody na wykonywanie zawodu przez pielęgniarkę albo położną, posiadającą prawo wykonywania zawodu, o którym mowa w ust. 18, poza podmiotem leczniczym przeznaczonym do udzielania świadczeń zdrowotnych pacjentom chorym na COVID-19. Zgody tej udziela się na wniosek pielęgniarki albo położnej. W decyzji wskazuje się podmiot, w którym dana pielęgniarka albo położna będzie wykonywać zawód. Decyzji nadaje się rygor natychmiastowej wykonalności.
 
-21a. Pielęgniarka albo położna, posiadająca warunkowe prawo wykonywania zawodu, o którym mowa w ust. 18, może w ramach wykonywania zawodu pielęgniarki lub położnej udzielać świadczeń zdrowotnych w podmiotach leczniczych udzielających świadczeń osobom, których pobyt na terytorium Rzeczypospolitej Polskiej jest uznawany za legalny na podstawie art. 2 ust. 1 ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa. Wykonywanie zawodu w podmiotach leczniczych udzielających świadczeń ofiarom konfliktu zbrojnego na Ukrainie nie wymaga zgody, o której mowa w ust. 21. Pielęgniarka lub położna zgłasza ministrowi właściwemu do spraw zdrowia, w jakim podmiocie leczniczym i na jaki okres została zatrudniona, w terminie 7 dni od dnia rozpoczęcia udzielania świadczeń zdrowotnych w tym podmiocie. Brak dokonania zgłoszenia może stanowić podstawę do cofnięcia zgody, o której mowa w ust. 14 i 16. Cofnięcie zgody następuje w drodze decyzji administracyjnej.
-
-21b. Pielęgniarka lub położna, posiadająca warunkowe prawo wykonywania zawodu, o którym mowa w ust. 18, może wykonywać zawód poza podmiotem leczniczym przeznaczonym do udzielania świadczeń zdrowotnych pacjentom chorym na COVID-19 bez zgody, o której mowa w ust. 21, w przypadku:
+21a. (uchylony) 21b. Pielęgniarka lub położna, posiadająca warunkowe prawo wykonywania zawodu, o którym mowa w ust. 18, może wykonywać zawód poza podmiotem leczniczym przeznaczonym do udzielania świadczeń zdrowotnych pacjentom chorym na COVID-19 bez zgody, o której mowa w ust. 21, w przypadku:
 
 - **1)** zniesienia stanu zagrożenia epidemicznego oraz zniesienia stanu epidemii lub
 - **2)** braku wyodrębnienia podmiotów leczniczych przeznaczonych do udzielania świadczeń zdrowotnych pacjentom chorym na COVID-19.
@@ -786,7 +716,7 @@ Art. 88–90. (pominięte)
 
 2. W ramach współpracy, o której mowa w ust. 1, właściwa okręgowa rada pielęgniarek i położnych albo Naczelna Rada Pielęgniarek i Położnych:
 
-- **1)** posiadająca informacje dotyczące ważnego zdarzenia, które wystąpiło przed podjęciem na terytorium Rzeczypospolitej Polskiej działalności przez pielęgniarkę lub położną będącą obywatelem państwa członkowskiego Unii Europejskiej, a które może mieć wpływ na wykonywanie zawodu pielęgniarki lub położnej na terytorium Rzeczypospolitej Polskiej występuje do odpowiednich władz lub organizacji państwa członkowskiego Unii Europejskiej, którego pielęgniarka lub położna jest obywatelem lub z którego przybywa, z wnioskiem o weryfikację tych informacji oraz o zawiadomienie o działaniach, które zostały podjęte w związku z tym zdarzeniem;
+- **1)** posiadająca informacje dotyczące ważnego zdarzenia, które wystąpiło przed podjęciem na terytorium Rzeczypospolitej Polskiej działalności przez pielęgniarkę lub położną będącą obywatelem państwa członkowskiego Unii Europejskiej, a które może mieć wpływ na wykonywanie zawodu pielęgniarki lub położnej na terytorium Rzeczypospolitej Polskiej – występuje do odpowiednich władz lub organizacji państwa członkowskiego Unii Europejskiej, którego pielęgniarka lub położna jest obywatelem lub z którego przybywa, z wnioskiem o weryfikację tych informacji oraz o zawiadomienie o działaniach, które zostały podjęte w związku z tym zdarzeniem;
 - **2)** jest obowiązana do weryfikacji, na wniosek odpowiednich władz lub organizacji państwa członkowskiego Unii Europejskiej, informacji, które mogą mieć wpływ na podjęcie lub wykonywanie zawodu pielęgniarki lub położnej na terytorium tego państwa, niezwłocznie, nie później jednak niż w terminie 3 miesięcy od dnia przedstawienia tych informacji oraz poinformowania o wynikach weryfikacji odpowiednich władz lub organizacji tego państwa.
 
 3. Właściwa okręgowa rada pielęgniarek i położnych albo Naczelna Rada Pielęgniarek i Położnych, dokonując weryfikacji na podstawie wniosku, o którym mowa w ust. 2 pkt 2, informuje odpowiednie władze lub organizację państwa członkowskiego Unii Europejskiej o toczącym się lub prawomocnie zakończonym postępowaniu w zakresie odpowiedzialności zawodowej pielęgniarek i położnych, nałożonych karach, środkach karnych albo zabezpieczających lub innych okolicznościach mogących mieć znaczenie dla wykonywania zawodu przez pielęgniarkę lub położną.
@@ -809,7 +739,7 @@ Art. 88–90. (pominięte)
     - **c)** pozbawił prawa wykonywania zawodu,
 
 - **3)** sąd powszechny orzekł zakaz wykonywania zawodu,
-- **4)** sąd powszechny albo prokurator tytułem środka zapobiegawczego zastosował zawieszenie w wykonywaniu zawodu w terminie 3 dni od dnia uprawomocnienia się uchwały, orzeczenia lub postanowienia o zastosowaniu środka zapobiegawczego.
+- **4)** sąd powszechny albo prokurator tytułem środka zapobiegawczego zastosował zawieszenie w wykonywaniu zawodu – w terminie 3 dni od dnia uprawomocnienia się uchwały, orzeczenia lub postanowienia o zastosowaniu środka zapobiegawczego.
 
 8. Ostrzeżenie, o którym mowa w ust. 7, obejmuje:
 
@@ -836,11 +766,11 @@ Art. 88–90. (pominięte)
 
 **Art. 40.**
 
-1. Do uchwał w sprawach stwierdzenia i przyznania prawa wykonywania zawodu stosuje się odpowiednio przepisy ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego dotyczące decyzji administracyjnych.
+1. Do uchwał w sprawach stwierdzenia i przyznania prawa wykonywania zawodu stosuje się odpowiednio przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego dotyczące decyzji administracyjnych.
 
 2. Od ostatecznych uchwał podjętych w przedmiocie stwierdzenia i przyznania prawa wykonywania zawodu skargę do sądu administracyjnego może wnieść także minister właściwy do spraw zdrowia.
 
-3. W sprawach określonych w ust. 1, w których skargę do sądu administracyjnego wniósł inny uprawniony podmiot, minister właściwy do spraw zdrowia może wziąć udział w postępowaniu sądowym na prawach przysługujących prokuratorowi. Przepis art. 8 ustawy z dnia 30 sierpnia 2002 r. Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2024 r. poz. 935 i 1685 oraz z 2025 r. poz. 769 i 1427) stosuje się odpowiednio.
+3. W sprawach określonych w ust. 1, w których skargę do sądu administracyjnego wniósł inny uprawniony podmiot, minister właściwy do spraw zdrowia może wziąć udział w postępowaniu sądowym na prawach przysługujących prokuratorowi. Przepis art. 8 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2024 r. poz. 935 i 1685 oraz z 2025 r. poz. 769 i 1427) stosuje się odpowiednio.
 
 **Art. 41.**
 
@@ -848,11 +778,13 @@ Art. 88–90. (pominięte)
 
 1a. W przypadku utraty dokumentów, o których mowa w ust. 1, właściwa okręgowa rada pielęgniarek i położnych wydaje na wniosek pielęgniarki albo położnej duplikat utraconego dokumentu.
 
-1b. Minister właściwy do spraw zdrowia może upoważnić Naczelną Radę Pielęgniarek i Położnych do wykonania w jego imieniu zadań określonych w art. 14, art. 18, art. 34 ust. 2 i 3, art. 35, art. 36 ust. 1 i art. 37–39 ustawy z dnia 22 listopada 2018 r. o dokumentach publicznych (Dz. U. z 2024 r. poz. 1669 i 1863).
+1b. Minister właściwy do spraw zdrowia może upoważnić Naczelną Radę Pielęgniarek i Położnych do wykonania w jego imieniu zadań określonych w art. 14, art. 18, art. 34 ust. 2 i 3, art. 35, art. 36 ust. 1 i art. 37–39 ustawy z dnia 22 listopada 2018 r. o dokumentach publicznych (Dz. U. z 2024 r. poz. 1669 i
+
+- **1863)** .
 
 1c. Dokumenty „Prawo wykonywania zawodu pielęgniarki”, „Prawo wykonywania zawodu położnej”, „Ograniczone prawo wykonywania zawodu pielęgniarki” oraz „Ograniczone prawo wykonywania zawodu położnej” potwierdzające przyznanie prawa, o którym mowa w art. 28, art. 29, art. 31, art. 32 i art. 35–36, zawierają:
 
-- **1)** nazwę dokumentu „Prawo wykonywania zawodu pielęgniarki” albo „Prawo wykonywania zawodu położnej”, albo „Ograniczone prawo wykonywania zawodu pielęgniarki”, albo „Ograniczone prawo wykonywania zawodu położnej” i nazwę dokumentu w języku angielskim;
+- **1)** nazwę dokumentu – „Prawo wykonywania zawodu pielęgniarki” albo „Prawo wykonywania zawodu położnej”, albo „Ograniczone prawo wykonywania zawodu pielęgniarki”, albo „Ograniczone prawo wykonywania zawodu położnej” i nazwę dokumentu w języku angielskim;
 - **2)** imię (imiona) i nazwisko pielęgniarki albo położnej;
 - **3)** tytuł zawodowy;
 - **4)** wizerunek twarzy pielęgniarki albo położnej, zgodny z zasadami określonymi w ustawie z dnia 6 sierpnia 2010 r. o dowodach osobistych (Dz. U. z 2022 r. poz. 671, z 2023 r. poz. 1234 i 1941 oraz z 2025 r. poz. 1006 i 1077);
@@ -895,7 +827,7 @@ Art. 88–90. (pominięte)
 
 4. Dane, o których mowa w ust. 3, są gromadzone i aktualizowane na podstawie danych wpisanych do rejestrów prowadzonych przez okręgowe rady pielęgniarek i położnych i przekazywanych na podstawie art. 48 ust. 7.
 
-5. Dane pielęgniarek i położnych, których prawo wykonywania zawodu wygasło, są usuwane z rejestrów, o których mowa w ust. 3 i 4, po upływie lat od dnia wygaśnięcia prawa wykonywania zawodu.
+5. Dane pielęgniarek i położnych, których prawo wykonywania zawodu wygasło, są usuwane z rejestrów, o których mowa w ust. 3 i 4, po upływie 15 lat od dnia wygaśnięcia prawa wykonywania zawodu.
 
 **Art. 44.**
 
@@ -906,7 +838,7 @@ Art. 88–90. (pominięte)
 - **3)** imiona rodziców;
 - **4)** płeć;
 - **5)** miejsce i datę urodzenia;
-- **6)** numer PESEL, a w przypadku jego braku cechy dokumentu potwierdzającego tożsamość: nazwę i numer dokumentu oraz kraj wydania;
+- **6)** numer PESEL, a w przypadku jego braku – cechy dokumentu potwierdzającego tożsamość: nazwę i numer dokumentu oraz kraj wydania;
 - **7)** numer identyfikacji podatkowej (NIP);
 - **8)** obywatelstwo (obywatelstwa);
 - **9)** adres miejsca zamieszkania;
@@ -916,8 +848,8 @@ Art. 88–90. (pominięte)
 - **13)** informację o ograniczeniach w wykonywaniu zawodu;
 - **14)** nazwę ukończonej szkoły pielęgniarskiej lub szkoły położnych, numer dyplomu i datę jego wydania oraz rok ukończenia tej szkoły;
 - **15)** datę rozpoczęcia wykonywania zawodu;
-- **16)** datę i miejsce rozpoczęcia i ukończenia stażu podyplomowego jeżeli dotyczy;
-- **17)** datę i rodzaj ukończonego kształcenia podyplomowego, nazwę organizatora kształcenia wydającego zaświadczenie oraz w przypadku szkolenia specjalizacyjnego numer dyplomu oraz datę jego wystawienia;
+- **16)** datę i miejsce rozpoczęcia i ukończenia stażu podyplomowego – jeżeli dotyczy;
+- **17)** datę i rodzaj ukończonego kształcenia podyplomowego, nazwę organizatora kształcenia wydającego zaświadczenie oraz w przypadku szkolenia specjalizacyjnego – numer dyplomu oraz datę jego wystawienia;
 - **18)** stopień naukowy, datę jego uzyskania oraz nazwę organu nadającego stopień;
 - **19)** tytuł naukowy, datę jego uzyskania oraz nazwę organu nadającego tytuł;
 - **20)** nazwę pracodawcy oraz datę zatrudnienia i stanowisko, poczynając od daty rozpoczęcia wykonywania zawodu;
@@ -926,7 +858,7 @@ Art. 88–90. (pominięte)
 - **22a)** informację o czasowym zaprzestaniu wykonywania zawodu, o którym mowa w art. 26a;
 - **23)** informację o zawieszeniu prawa wykonywania zawodu;
 - **24)** informację o przyczynie wygaśnięcia prawa wykonywania zawodu;
-- **25)** stosunek do służby wojskowej w odniesieniu do obywateli Rzeczypospolitej Polskiej;
+- **25)** stosunek do służby wojskowej – w odniesieniu do obywateli Rzeczypospolitej Polskiej;
 - **26)** informację o skreśleniu z rejestru pielęgniarek lub rejestru położnych prowadzonego przez właściwą okręgową radę pielęgniarek i położnych;
 - **27)** datę zgonu.
 
@@ -948,7 +880,7 @@ Art. 88–90. (pominięte)
 
 **Art. 46.** Pielęgniarka i położna wpisane do rejestru, o którym mowa w art. 43 ust. 1, są obowiązane do niezwłocznego zawiadomienia właściwej okręgowej rady pielęgniarek i położnych o wszelkich zmianach danych, o których mowa w art. 44 ust. 1, jednak nie później niż w terminie 14 dni od dnia ich powstania.
 
-**Art. 47.** Naczelna Rada Pielęgniarek i Położnych jest obowiązana przekazywać do dnia stycznia każdego roku ministrowi właściwemu do spraw zdrowia informację o liczbie i strukturze zatrudnienia pielęgniarek i położnych wykonujących zawód na terenie działania poszczególnych okręgowych rad pielęgniarek i położnych, według stanu na dzień 31 grudnia roku poprzedniego.
+**Art. 47.** Naczelna Rada Pielęgniarek i Położnych jest obowiązana przekazywać do dnia 15 stycznia każdego roku ministrowi właściwemu do spraw zdrowia informację o liczbie i strukturze zatrudnienia pielęgniarek i położnych wykonujących zawód na terenie działania poszczególnych okręgowych rad pielęgniarek i położnych, według stanu na dzień 31 grudnia roku poprzedniego.
 
 **Art. 48.**
 
@@ -1038,7 +970,7 @@ Art. 88–90. (pominięte)
 3. Kształcenie w szkole pielęgniarskiej, o której mowa w ust. 2 pkt 1:
 
 - **1)** trwa co najmniej 3 lata i obejmuje co najmniej 4600 godzin kształcenia zawodowego, w tym kształcenie kliniczne stanowi co najmniej 1/2, a kształcenie teoretyczne co najmniej 1/3 wymiaru kształcenia;
-- **2)** może trwać krócej niż 3 lata w przypadku pielęgniarek, które posiadają świadectwo dojrzałości i ukończyły liceum medyczne lub szkołę policealną albo szkołę pomaturalną, kształcącą w zawodzie pielęgniarki, jeżeli po ich ukończeniu pielęgniarka uzyska wiedzę, kwalifikacje i umiejętności odpowiadające wiedzy, kwalifikacjom i umiejętnościom uzyskiwanym po ukończeniu studiów, o których mowa w ust. 2 pkt 1.
+- **2)** może trwać krócej niż 3 lata – w przypadku pielęgniarek, które posiadają świadectwo dojrzałości i ukończyły liceum medyczne lub szkołę policealną albo szkołę pomaturalną, kształcącą w zawodzie pielęgniarki, jeżeli po ich ukończeniu pielęgniarka uzyska wiedzę, kwalifikacje i umiejętności odpowiadające wiedzy, kwalifikacjom i umiejętnościom uzyskiwanym po ukończeniu studiów, o których mowa w ust. 2 pkt 1.
 
 4. (uchylony)
 
@@ -1054,8 +986,8 @@ Art. 88–90. (pominięte)
 3. Kształcenie w szkole położnych, o której mowa w ust. 2 pkt 1:
 
 - **1)** trwa co najmniej 3 lata i obejmuje co najmniej 4600 godzin kształcenia zawodowego, w tym kształcenie kliniczne stanowi co najmniej 1/2, a kształcenie teoretyczne co najmniej 1/3 wymiaru kształcenia;
-- **2)** trwa co najmniej 18 miesięcy i obejmuje tę część programu kształcenia położnych, która nie została zrealizowana w ramach równoważnego kształcenia w szkole pielęgniarskiej w przypadku osoby posiadającej jeden z dokumentów potwierdzających posiadanie kwalifikacji wymienionych w załączniku V pkt 5.2.2 do dyrektywy;
-- **3)** może trwać krócej niż 3 lata w przypadku położnych, które posiadają świadectwo dojrzałości i ukończyły szkołę policealną albo szkołę pomaturalną, kształcącą w zawodzie położnej, jeżeli po ich ukończeniu położna uzyska wiedzę, kwalifikacje i umiejętności odpowiadające wiedzy, kwalifikacjom i umiejętnościom uzyskiwanym po ukończeniu studiów, o których mowa w ust. 2 pkt 1.
+- **2)** trwa co najmniej 18 miesięcy i obejmuje tę część programu kształcenia położnych, która nie została zrealizowana w ramach równoważnego kształcenia w szkole pielęgniarskiej – w przypadku osoby posiadającej jeden z dokumentów potwierdzających posiadanie kwalifikacji wymienionych w załączniku V pkt 5.2.2 do dyrektywy;
+- **3)** może trwać krócej niż 3 lata – w przypadku położnych, które posiadają świadectwo dojrzałości i ukończyły szkołę policealną albo szkołę pomaturalną, kształcącą w zawodzie położnej, jeżeli po ich ukończeniu położna uzyska wiedzę, kwalifikacje i umiejętności odpowiadające wiedzy, kwalifikacjom i umiejętnościom uzyskiwanym po ukończeniu studiów, o których mowa w ust. 2 pkt 1.
 
 4. (uchylony)
 
@@ -1065,7 +997,7 @@ Art. 88–90. (pominięte)
 
 2. W trakcie kształcenia klinicznego student uczy się sprawowania kompleksowej opieki zdrowotnej jako członek zespołu, w bezpośrednim kontakcie z osobami zdrowymi i chorymi.
 
-3. Kształcenie kliniczne odbywa się w podmiotach leczniczych, pod kierunkiem wykładowców pielęgniarstwa lub położnictwa oraz przy pomocy innych specjalistów, w szczególności pielęgniarek i położnych. Kształcenie kliniczne jest praktyką zawodową w rozumieniu przepisów ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. ).
+3. Kształcenie kliniczne odbywa się w podmiotach leczniczych, pod kierunkiem wykładowców pielęgniarstwa lub położnictwa oraz przy pomocy innych specjalistów, w szczególności pielęgniarek i położnych. Kształcenie kliniczne jest praktyką zawodową w rozumieniu przepisów ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. ).
 
 4. Studia, o których mowa w art. 52 ust. 3 pkt 1 i art. 53 ust. 3 pkt 1 i 2, są prowadzone w formie stacjonarnej lub niestacjonarnej. Treści programowe studiów realizowanych w obu formach są takie same, przy czym czas trwania studiów prowadzonych w formie niestacjonarnej nie może być krótszy niż czas trwania studiów prowadzonych w formie stacjonarnej i liczba godzin kształcenia zawodowego przewidziana na studiach niestacjonarnych nie może być mniejsza niż liczba godzin kształcenia zawodowego przewidziana na studiach prowadzonych w formie stacjonarnej.
 
@@ -1074,7 +1006,7 @@ Art. 88–90. (pominięte)
 - **1)** sposobu realizacji programu kształcenia,
 - **2)** kadry prowadzącej kształcenie,
 - **3)** bazy dydaktycznej, w tym służącej kształceniu klinicznemu,
-- **4)** posiadania wewnętrznego systemu oceny jakości kształcenia mając na względzie zakres treści programowych poszczególnych kierunków studiów, a także zapewnienie właściwej jakości kształcenia.
+- **4)** posiadania wewnętrznego systemu oceny jakości kształcenia – mając na względzie zakres treści programowych poszczególnych kierunków studiów, a także zapewnienie właściwej jakości kształcenia.
 
 **Art. 55.**
 
@@ -1086,7 +1018,7 @@ Art. 88–90. (pominięte)
 - **2)** minimalny okres kształcenia uzależniony od rodzaju ukończonej szkoły,
 - **3)** warunki i sposób ustalania programu nauczania, w tym wymiaru kształcenia teoretycznego i kształcenia klinicznego, w oparciu o porównanie standardów nauczania dla kierunków studiów pielęgniarstwo i położnictwo z programem kształcenia zrealizowanym w ukończonej szkole,
 - **4)** warunki i sposób zaliczania zajęć praktycznych i praktyki zawodowej, w oparciu o doświadczenie zawodowe,
-- **5)** sposób i tryb przeprowadzania teoretycznego i praktycznego egzaminu kończącego studia biorąc pod uwagę konieczność zapewnienia realizacji wszystkich treści kształcenia zawartych w standardach kształcenia, a także zapewnienie właściwej jakości i dostępności kształcenia.
+- **5)** sposób i tryb przeprowadzania teoretycznego i praktycznego egzaminu kończącego studia – biorąc pod uwagę konieczność zapewnienia realizacji wszystkich treści kształcenia zawartych w standardach kształcenia, a także zapewnienie właściwej jakości i dostępności kształcenia.
 
 **Art. 55a.** (uchylony)
 
@@ -1118,7 +1050,7 @@ Art. 88–90. (pominięte)
 
 1. Do zadań Krajowej Rady należy:
 
-- **1)** ocena, czy uczelnia ubiegająca się o akredytację dla studiów na kierunkach pielęgniarstwo lub położnictwo na określonym poziomie spełnia standardy kształcenia określone w przepisach wydanych na podstawie art. 68 ust. 3 pkt 1 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce;
+- **1)** ocena, czy uczelnia ubiegająca się o akredytację dla studiów na kierunkach pielęgniarstwo lub położnictwo na określonym poziomie spełnia standardy kształcenia określone w przepisach wydanych na podstawie art. 68 ust. 3 pkt 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce;
 - **2)** bieżąca ocena spełniania przez szkoły standardów kształcenia, w szczególności przez wizytację szkół i analizę wyników nauczania;
 - **3)** występowanie do ministra właściwego do spraw zdrowia z wnioskami w sprawie wydania akredytacji lub jej cofnięcia w przypadku niespełniania standardów kształcenia.
 
@@ -1172,7 +1104,7 @@ Art. 88–90. (pominięte)
 
 4. Pielęgniarka i położna mogą odbywać kształcenie podyplomowe również bez skierowania, o którym mowa w ust. 3, na podstawie umowy zawartej z organizatorem kształcenia.
 
-5. Pielęgniarka i położna pełniące zawodową służbę wojskową odbywają kształcenie podyplomowe na swój wniosek, na podstawie wydanego przez Ministra Obrony Narodowej skierowania do organizatora kształcenia lub bez skierowania na podstawie umowy zawartej z organizatorem kształcenia.
+5. Pielęgniarka i położna pełniące zawodową służbę wojskową odbywają kształcenie podyplomowe na swój wniosek, na podstawie wydanego przez Ministra Obrony Narodowej skierowania do organizatora kształcenia lub bez skierowania – na podstawie umowy zawartej z organizatorem kształcenia.
 
 **Art. 61a.**
 
@@ -1200,7 +1132,7 @@ Art. 88–90. (pominięte)
 
 1. Pielęgniarce lub położnej podejmującym kształcenie podyplomowe bez skierowania wydanego przez pracodawcę, o którym mowa w art. 61 ust. 3 i 5, może być udzielony bezpłatny urlop i zwolnienie z części dnia pracy, bez zachowania prawa do wynagrodzenia, w wymiarze ustalonym na zasadzie porozumienia między pracodawcą a pracownikiem.
 
-2. Okres bezpłatnego urlopu, o którym mowa w ust. 1, wlicza się do okresu zatrudnienia u danego pracodawcy w zakresie wszelkich uprawnień wynikających z ustawy z dnia 26 czerwca 1974 r. Kodeks pracy.
+2. Okres bezpłatnego urlopu, o którym mowa w ust. 1, wlicza się do okresu zatrudnienia u danego pracodawcy w zakresie wszelkich uprawnień wynikających z ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
 
 **Art. 64.**
 
@@ -1209,13 +1141,13 @@ Art. 88–90. (pominięte)
 2. Pielęgniarka lub położna, które otrzymały od pracodawcy świadczenia, o których mowa w art. 62 ust. 2, i w trakcie kształcenia podyplomowego lub po jego ukończeniu w terminie określonym w umowie, nie dłuższym niż 3 lata:
 
 - **1)** rozwiążą stosunek pracy za wypowiedzeniem,
-- **2)** z którymi pracodawca rozwiąże stosunek pracy bez wypowiedzenia z winy pielęgniarki lub położnej są obowiązane do zwrotu kosztów poniesionych przez pracodawcę na kształcenie podyplomowe w wysokości proporcjonalnej do czasu pracy po ukończeniu nauki lub czasu pracy w czasie nauki, chyba że pracodawca odstąpi od żądania zwrotu kosztów w części lub w całości.
+- **2)** z którymi pracodawca rozwiąże stosunek pracy bez wypowiedzenia z winy pielęgniarki lub położnej – są obowiązane do zwrotu kosztów poniesionych przez pracodawcę na kształcenie podyplomowe w wysokości proporcjonalnej do czasu pracy po ukończeniu nauki lub czasu pracy w czasie nauki, chyba że pracodawca odstąpi od żądania zwrotu kosztów w części lub w całości.
 
 3. Pielęgniarka lub położna, które otrzymały od pracodawcy świadczenia, o których mowa w art. 62 ust. 2, są obowiązane, na wniosek pracodawcy, do zwrotu kosztów tych świadczeń w części lub całości, jeżeli bez uzasadnionych przyczyn przerwą kształcenie podyplomowe lub go nie podejmą.
 
 4. Pielęgniarka lub położna nie mają obowiązku zwrotu kosztów, o których mowa w ust. 2, mimo rozwiązania stosunku pracy, jeżeli zostało ono spowodowane:
 
-- **1)** szkodliwym wpływem wykonywanej pracy na zdrowie, stwierdzonym orzeczeniem lekarskim wydanym w trybie przepisów ustawy z dnia 26 czerwca 1974 r. Kodeks pracy, w przypadku gdy pracodawca nie przeniósł pielęgniarki lub położnej do innej pracy, odpowiedniej ze względu na stan zdrowia i kwalifikacje zawodowe, w terminie wskazanym w orzeczeniu lekarskim;
+- **1)** szkodliwym wpływem wykonywanej pracy na zdrowie, stwierdzonym orzeczeniem lekarskim wydanym w trybie przepisów ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, w przypadku gdy pracodawca nie przeniósł pielęgniarki lub położnej do innej pracy, odpowiedniej ze względu na stan zdrowia i kwalifikacje zawodowe, w terminie wskazanym w orzeczeniu lekarskim;
 - **2)** brakiem możliwości dalszego zatrudnienia ze względu na inwalidztwo lub utratę zdolności do wykonywania dotychczasowej pracy;
 - **3)** przeprowadzeniem się do innej miejscowości w związku ze zmianą miejsca zatrudnienia małżonka;
 - **4)** przeprowadzeniem się do innej miejscowości ze względu na zawarcie związku małżeńskiego z osobą zamieszkałą w tej miejscowości.
@@ -1268,40 +1200,24 @@ Art. 88–90. (pominięte)
 
 4e. Weryfikacji uprawnień, o których mowa w ust. 4c, dokonuje w stosunku do:
 
-- **1)** pielęgniarki albo położnej, o których mowa w ust. 4b pkt 1 właściwa miejscowo okręgowa izba pielęgniarek i położnych, a jeżeli nie jest możliwe ustalenie właściwej okręgowej izby pielęgniarek i położnych Naczelna Izba Pielęgniarek i Położnych;
-- **2)** kierownika specjalizacji właściwy organizator kształcenia pielęgniarek i położnych.
-
-5. Egzamin państwowy, o którym mowa w ust. 2, przeprowadza odrębnie dla każdej dziedziny pielęgniarstwa lub dziedziny mającej zastosowanie w ochronie zdrowia państwowa komisja egzaminacyjna powołana przez ministra właściwego do spraw zdrowia na wniosek dyrektora Centrum Kształcenia Podyplomowego Pielęgniarek i Położnych, zwanego dalej „Centrum”.
-
-5. Egzamin państwowy, o którym mowa w ust. 2, przeprowadza odrębnie dla każdej dziedziny pielęgniarstwa lub dziedziny mającej zastosowanie w ochronie zdrowia państwowa komisja egzaminacyjna powołana przez dyrektora Centrum Egzaminów Medycznych, zwanego dalej „CEM”.
+- **1)** pielęgniarki albo położnej, o których mowa w ust. 4b pkt 1 – właściwa miejscowo okręgowa izba pielęgniarek i położnych, a jeżeli nie jest możliwe ustalenie właściwej okręgowej izby pielęgniarek i położnych – Naczelna Izba Pielęgniarek i Położnych;
+- **2)** kierownika specjalizacji – właściwy organizator kształcenia pielęgniarek i położnych. [5. Egzamin państwowy, o którym mowa w ust. 2, przeprowadza odrębnie dla każdej dziedziny pielęgniarstwa lub dziedziny mającej zastosowanie w ochronie zdrowia państwowa komisja egzaminacyjna powołana przez ministra właściwego do spraw zdrowia na wniosek dyrektora Centrum Kształcenia Podyplomowego Pielęgniarek i Położnych, zwanego dalej „Centrum”.] <5. Egzamin państwowy, o którym mowa w ust. 2, przeprowadza odrębnie dla każdej dziedziny pielęgniarstwa lub dziedziny mającej zastosowanie w ochronie zdrowia państwowa komisja egzaminacyjna powołana przez dyrektora Centrum Egzaminów Medycznych, zwanego dalej „CEM”.>
 
 6. Członkom państwowej komisji egzaminacyjnej przysługuje wynagrodzenie za przeprowadzenie egzaminu państwowego. Wynagrodzenia członków państwowej komisji egzaminacyjnej są finansowane z budżetu państwa, z części, której dysponentem jest minister właściwy do spraw zdrowia.
 
-7. Pielęgniarka i położna przystępujące do egzaminu państwowego, o którym mowa w ust. 2, są obowiązane do wniesienia opłaty za ten egzamin. Opłata stanowi dochód budżetu państwa.
+7. Pielęgniarka i położna przystępujące do egzaminu państwowego, o którym mowa w ust. 2, są obowiązane do wniesienia opłaty za ten egzamin. Opłata stanowi dochód budżetu państwa. [8. Opłata, o której mowa w ust. 7, jest wnoszona na rachunek bankowy wskazany przez Centrum podany za pomocą SMK w trakcie składania wniosku, o którym mowa w ust. 11. Opłata powinna być uiszczona niezwłocznie po złożeniu wniosku, nie później niż w terminie 5 dni od upływu terminu składania wniosków wskazanego przez Centrum.] <8. Opłata, o której mowa w ust. 7, jest wnoszona na rachunek bankowy wskazany w SMK w trakcie składania wniosku, o którym mowa w ust. 11. Opłatę uiszcza się niezwłocznie po złożeniu wniosku, nie później niż w terminie 5 dni od upływu terminu składania wniosków wskazanego przez CEM.>
 
-8. Opłata, o której mowa w ust. 7, jest wnoszona na rachunek bankowy wskazany przez Centrum podany za pomocą SMK w trakcie składania wniosku, o którym mowa w ust. 11. Opłata powinna być uiszczona niezwłocznie po złożeniu wniosku, nie później niż w terminie 5 dni od upływu terminu składania wniosków wskazanego przez Centrum.
+9. [W przypadku niewniesienia opłaty, o której mowa w ust. 7, albo wniesienia jej w wysokości niższej niż należna, dyrektor Centrum wzywa wnioskodawcę do uzupełnienia braków formalnych, za pomocą SMK lub za pomocą środków komunikacji elektronicznej pod adresem poczty elektronicznej wskazanym przez wnioskodawcę we wniosku.] <W przypadku niewniesienia opłaty, o której mowa w ust. 7, albo wniesienia jej w wysokości niższej niż należna, dyrektor CEM wzywa wnioskodawcę do uzupełnienia braków formalnych, za pomocą SMK lub za pomocą środków komunikacji elektronicznej pod adresem poczty elektronicznej wskazanym przez wnioskodawcę we wniosku.> Przepisu art. 64 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego nie stosuje się.
 
-8. Opłata, o której mowa w ust. 7, jest wnoszona na rachunek bankowy wskazany w SMK w trakcie składania wniosku, o którym mowa w ust. 11. Opłatę uiszcza się niezwłocznie po złożeniu wniosku, nie później niż w terminie 5 dni od upływu terminu składania wniosków wskazanego przez CEM.
+10. W przypadku nieuzupełnienia braków formalnych, o których mowa w ust. 9, w terminie 7 dni od skierowania wezwania dotknięty nim wniosek traktuje się jako niezłożony. [O konsekwencji tej dyrektor Centrum informuje w wezwaniu do uzupełnienia braków formalnych.] <O konsekwencji tej dyrektor CEM informuje w wezwaniu do uzupełnienia braków formalnych.>
 
-9. W przypadku niewniesienia opłaty, o której mowa w ust. 7, albo wniesienia jej w wysokości niższej niż należna, dyrektor Centrum wzywa wnioskodawcę do uzupełnienia braków formalnych, za pomocą SMK lub za pomocą środków komunikacji elektronicznej pod adresem poczty elektronicznej wskazanym przez wnioskodawcę we wniosku. W przypadku niewniesienia opłaty, o której mowa w ust. 7, albo wniesienia jej w wysokości niższej niż należna, dyrektor CEM wzywa wnioskodawcę do uzupełnienia braków formalnych, za pomocą SMK lub za pomocą środków komunikacji elektronicznej pod adresem poczty elektronicznej wskazanym przez wnioskodawcę we wniosku. Przepisu art. 64 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego nie stosuje się.
-
-10. W przypadku nieuzupełnienia braków formalnych, o których mowa w ust. 9, w terminie 7 dni od skierowania wezwania dotknięty nim wniosek traktuje się jako niezłożony. O konsekwencji tej dyrektor Centrum informuje w wezwaniu do uzupełnienia braków formalnych. O konsekwencji tej dyrektor CEM informuje w wezwaniu do uzupełnienia braków formalnych.
-
-11. Pielęgniarka, położna składa wniosek o dopuszczenie do egzaminu państwowego za pomocą SMK.
-
-12. Centrum przekazuje wyniki egzaminu państwowego do SMK.
-
-12. CEM przekazuje wyniki egzaminu państwowego do SMK.
-
-13. W celu aktualizacji Centralnego Rejestru Pielęgniarek i Położnych, dyrektor Centrum udostępnia za pomocą SMK wyniki egzaminu państwowego Naczelnej Izbie Pielęgniarek i Położnych.
-
-13. W celu aktualizacji Centralnego Rejestru Pielęgniarek i Położnych, dyrektor CEM udostępnia za pomocą SMK wyniki egzaminu państwowego Naczelnej Izbie Pielęgniarek i Położnych.
+11. Pielęgniarka, położna składa wniosek o dopuszczenie do egzaminu państwowego za pomocą SMK. [12. Centrum przekazuje wyniki egzaminu państwowego do SMK.] <12. CEM przekazuje wyniki egzaminu państwowego do SMK.> [13. W celu aktualizacji Centralnego Rejestru Pielęgniarek i Położnych, dyrektor Centrum udostępnia za pomocą SMK wyniki egzaminu państwowego Naczelnej Izbie Pielęgniarek i Położnych.] <13. W celu aktualizacji Centralnego Rejestru Pielęgniarek i Położnych, dyrektor CEM udostępnia za pomocą SMK wyniki egzaminu państwowego Naczelnej Izbie Pielęgniarek i Położnych.>
 
 14. Minister właściwy do spraw zdrowia może upoważnić dyrektora CMKP do wykonania w jego imieniu zadań określonych w art. 14, art. 18, art. 34 ust. 2 i 3, art. 35, art. 36 ust. 1 i art. 37–39 ustawy z dnia 22 listopada 2018 r. o dokumentach publicznych.
 
 **Art. 67a.**
 
-- **37)** 1. Specjalizacja odbywa się pod nadzorem kierownika specjalizacji, który jest odpowiedzialny za ustalenie szczegółowych warunków jej przebiegu w sposób zapewniający realizację programu specjalizacji.
+1. Specjalizacja odbywa się pod nadzorem kierownika specjalizacji, który jest odpowiedzialny za ustalenie szczegółowych warunków jej przebiegu w sposób zapewniający realizację programu specjalizacji.
 
 2. Do obowiązków kierownika specjalizacji należy:
 
@@ -1317,21 +1233,13 @@ Art. 88–90. (pominięte)
 
 - **1)** organizacja i realizacja stażu;
 - **2)** kontrola prawidłowości przebiegu stażu;
-- **3)** dokonanie zaliczenia świadczeń zdrowotnych określonych w programie stażu.
-
-**Art. 68.**
-
-- **38)** 1. Obsługę organizacyjną państwowej komisji egzaminacyjnej zapewnia Centrum.
+- **3)** dokonanie zaliczenia świadczeń zdrowotnych określonych w programie stażu. [Art. 68. 1. Obsługę organizacyjną państwowej komisji egzaminacyjnej zapewnia Centrum.
 
 2. Centrum jest państwową jednostką budżetową podległą ministrowi właściwemu do spraw zdrowia, finansowaną z budżetu państwa, z części, której dysponentem jest minister właściwy do spraw zdrowia.
 
 3. Centrum jest kierowane przez dyrektora powoływanego i odwoływanego przez ministra właściwego do spraw zdrowia.
 
-4. Minister właściwy do spraw zdrowia nadaje, w drodze zarządzenia, statut Centrum, określający jego szczegółową strukturę organizacyjną, uwzględniając konieczność sprawnego wykonywania zadań wynikających z ustawy.
-
-**Art. 68.**
-
-- **39)** Obsługę organizacyjną państwowej komisji egzaminacyjnej zapewnia CEM.
+4. Minister właściwy do spraw zdrowia nadaje, w drodze zarządzenia, statut Centrum, określający jego szczegółową strukturę organizacyjną, uwzględniając konieczność sprawnego wykonywania zadań wynikających z ustawy.] <Art. 68. Obsługę organizacyjną państwowej komisji egzaminacyjnej zapewnia CEM.>
 
 **Art. 69.**
 
@@ -1352,7 +1260,7 @@ Art. 88–90. (pominięte)
 
 1. Specjalizacja jest dofinansowywana w ramach dotacji podmiotowej, którą CMKP otrzymuje z budżetu państwa z części pozostającej w dyspozycji ministra właściwego do spraw zdrowia, zgodnie z art. 10 ust. 1 pkt 2 ustawy z dnia 13 września 2018 r. o Centrum Medycznego Kształcenia Podyplomowego, w ramach posiadanych środków, z uwzględnieniem konieczności zapewnienia minimalnej liczby miejsc szkoleniowych dla pielęgniarek i położnych, które mogą corocznie rozpocząć specjalizację dofinansowywaną z tych środków.
 
-2. Minimalną liczbę miejsc szkoleniowych, o której mowa w ust. 1, maksymalną kwotę dofinansowania jednego miejsca szkoleniowego dla specjalizacji rozpoczynanych w danym roku oraz maksymalną kwotę, którą przeznacza się w danym roku na specjalizację, określa minister właściwy do spraw zdrowia, po zasięgnięciu opinii Naczelnej Rady Pielęgniarek i Położnych, i ogłasza w formie obwieszczenia w dzienniku urzędowym ministra właściwego do spraw zdrowia w terminie do dnia grudnia na rok następny, uwzględniając zapotrzebowanie na osoby legitymujące się tytułem specjalisty w danej dziedzinie pielęgniarstwa lub w dziedzinie mającej zastosowanie w ochronie zdrowia.
+2. Minimalną liczbę miejsc szkoleniowych, o której mowa w ust. 1, maksymalną kwotę dofinansowania jednego miejsca szkoleniowego dla specjalizacji rozpoczynanych w danym roku oraz maksymalną kwotę, którą przeznacza się w danym roku na specjalizację, określa minister właściwy do spraw zdrowia, po zasięgnięciu opinii Naczelnej Rady Pielęgniarek i Położnych, i ogłasza w formie obwieszczenia w dzienniku urzędowym ministra właściwego do spraw zdrowia w terminie do dnia 15 grudnia na rok następny, uwzględniając zapotrzebowanie na osoby legitymujące się tytułem specjalisty w danej dziedzinie pielęgniarstwa lub w dziedzinie mającej zastosowanie w ochronie zdrowia.
 
 3. Wyboru organizatora kształcenia prowadzącego specjalizację dofinansowywaną ze środków publicznych dokonuje dyrektor CMKP, stosując przepisy o zamówieniach publicznych i uwzględniając zapotrzebowanie na specjalistów z poszczególnych dziedzin pielęgniarstwa i dziedzin mających zastosowanie w ochronie zdrowia.
 
@@ -1432,7 +1340,7 @@ Art. 88–90. (pominięte)
 - **3)** wysokość wynagrodzenia członków państwowej komisji egzaminacyjnej, o którym mowa w art. 67 ust. 6,
 - **4)** wysokość opłaty za egzamin państwowy, o której mowa w art. 67 ust. 7,
 - **5)** warunki i tryb przeprowadzania egzaminu po kursie kwalifikacyjnym i kursie specjalistycznym, w tym kwalifikacje członków komisji egzaminacyjnej,
-- **6)** wzór dyplomu potwierdzającego uzyskanie tytułu specjalisty oraz wzór zaświadczeń potwierdzających ukończenie kursu specjalistycznego, kursu kwalifikacyjnego i kursu dokształcającego kierując się obowiązkiem zapewnienia właściwej jakości i dostępności kształcenia podyplomowego, z zachowaniem jasnych i obiektywnych kryteriów oceny oraz biorąc pod uwagę koszty związane z przeprowadzaniem egzaminu państwowego oraz kierując się tym, że wysokość wynagrodzenia członków państwowej komisji egzaminacyjnej nie może przekraczać 1500 zł.
+- **6)** wzór dyplomu potwierdzającego uzyskanie tytułu specjalisty oraz wzór zaświadczeń potwierdzających ukończenie kursu specjalistycznego, kursu kwalifikacyjnego i kursu dokształcającego – kierując się obowiązkiem zapewnienia właściwej jakości i dostępności kształcenia podyplomowego, z zachowaniem jasnych i obiektywnych kryteriów oceny oraz biorąc pod uwagę koszty związane z przeprowadzaniem egzaminu państwowego oraz kierując się tym, że wysokość wynagrodzenia członków państwowej komisji egzaminacyjnej nie może przekraczać 1500 zł.
 
 2. Minister właściwy do spraw zdrowia, po zasięgnięciu opinii Naczelnej Rady Pielęgniarek i Położnych, określi, w drodze rozporządzenia, dziedziny pielęgniarstwa oraz dziedziny mające zastosowanie w ochronie zdrowia, w których może być prowadzona specjalizacja i kursy kwalifikacyjne, uwzględniając konieczność zapewnienia prawidłowego przebiegu kształcenia podyplomowego oraz przydatność poszczególnych rodzajów kształcenia podyplomowego w zakresie zapewnienia realizacji opieki zdrowotnej.
 
@@ -1447,7 +1355,7 @@ Art. 88–90. (pominięte)
 - **5)** inne podmioty;
 - **6)** CMKP.
 
-2. Kształcenie podyplomowe prowadzone przez przedsiębiorcę jest działalnością regulowaną w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców (Dz. U. z 2025 r. poz. 1480).
+2. Kształcenie podyplomowe prowadzone przez przedsiębiorcę jest działalnością regulowaną w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2025 r. poz. 1480).
 
 3. Warunkami prowadzenia kształcenia podyplomowego są:
 
@@ -1455,8 +1363,8 @@ Art. 88–90. (pominięte)
 - **2)** zapewnienie kadry dydaktycznej o kwalifikacjach odpowiednich dla danego rodzaju kształcenia, zgodnych ze wskazaniami określonymi w programie kształcenia;
 - **3)** zapewnienie bazy dydaktycznej odpowiedniej do realizacji programu kształcenia, w tym dla szkolenia praktycznego, zgodnej ze wskazaniami określonymi w programie kształcenia;
 - **4)** posiadanie wewnętrznego systemu oceny jakości kształcenia, uwzględniającego narzędzia oceny jakości kształcenia oraz metody tej oceny;
-- **5)** w przypadku prowadzenia kształcenia, o którym mowa w art. 66 ust. 1 pkt 2–4 uzyskanie wpisu do właściwego rejestru podmiotów prowadzących kształcenie podyplomowe, zwanego dalej „rejestrem”, będącego rejestrem działalności regulowanej;
-- **6)** w przypadku prowadzenia kształcenia, o którym mowa w art. 66 ust. 1 pkt 1 posiadanie akredytacji, o której mowa w art. 75a, na prowadzenie specjalizacji w danej dziedzinie pielęgniarstwa lub w dziedzinie mającej zastosowanie w ochronie zdrowia;
+- **5)** w przypadku prowadzenia kształcenia, o którym mowa w art. 66 ust. 1 pkt 2– 4 – uzyskanie wpisu do właściwego rejestru podmiotów prowadzących kształcenie podyplomowe, zwanego dalej „rejestrem”, będącego rejestrem działalności regulowanej;
+- **6)** w przypadku prowadzenia kształcenia, o którym mowa w art. 66 ust. 1 pkt 1 – posiadanie akredytacji, o której mowa w art. 75a, na prowadzenie specjalizacji w danej dziedzinie pielęgniarstwa lub w dziedzinie mającej zastosowanie w ochronie zdrowia;
 - **7)** zapewnienie udzielania świadczeń zdrowotnych zgodnie z programem kształcenia;
 - **8)** dysponowanie pomieszczeniami oraz warunkami organizacyjno-technicznymi odpowiednimi do realizacji programu kształcenia, w tym do prowadzenia szkolenia praktycznego, zgodnie ze wskazaniami określonymi w programie kształcenia.
 
@@ -1464,7 +1372,7 @@ Art. 88–90. (pominięte)
 
 **Art. 75a.**
 
-- **48)** 1. Specjalizacja może być prowadzona przez organizatorów kształcenia, o których mowa w art. 75 ust. 1 pkt 1–5, po uzyskaniu akredytacji na prowadzenie specjalizacji w danej dziedzinie pielęgniarstwa lub w dziedzinie mającej zastosowanie w ochronie zdrowia, udzielonej przez dyrektora CMKP. Potwierdzeniem akredytacji jest wpis na listę jednostek szkolących.
+1. Specjalizacja może być prowadzona przez organizatorów kształcenia, o których mowa w art. 75 ust. 1 pkt 1–5, po uzyskaniu akredytacji na prowadzenie specjalizacji w danej dziedzinie pielęgniarstwa lub w dziedzinie mającej zastosowanie w ochronie zdrowia, udzielonej przez dyrektora CMKP. Potwierdzeniem akredytacji jest wpis na listę jednostek szkolących.
 
 2. Akredytacja może zostać udzielona organizatorowi kształcenia, o którym mowa w art. 75 ust. 1 pkt 1–5, który spełnia następujące warunki:
 
@@ -1518,7 +1426,8 @@ Art. 88–90. (pominięte)
 
 **Art. 75b.**
 
-- **48)** 1. Dyrektor CMKP na podstawie opinii zespołu ekspertów, o której mowa w art. 75a ust. 10, w terminie 3 miesięcy od dnia złożenia wniosku o udzielenie akredytacji:
+1. Dyrektor CMKP na podstawie opinii zespołu ekspertów, o której mowa w art. 75a ust. 10, w terminie 3 miesięcy od dnia złożenia wniosku o udzielenie akredytacji:
+
 - **1)** dokonuje wpisu organizatora kształcenia, o którym mowa w art. 75 ust. 1 pkt 1–5, na prowadzoną przez siebie listę jednostek szkolących na okres 5 lat, w przypadku gdy opinia zespołu ekspertów jest pozytywna, ze wskazaniem maksymalnej liczby miejsc szkoleniowych, albo
 - **2)** odmawia, w drodze decyzji administracyjnej, wpisu organizatorowi kształcenia, o którym mowa w art. 75 ust. 1 pkt 1–5, na prowadzoną przez siebie listę jednostek szkolących, w przypadku gdy opinia zespołu ekspertów jest negatywna; od decyzji przysługuje odwołanie do ministra właściwego do spraw zdrowia.
 
@@ -1544,7 +1453,7 @@ Art. 88–90. (pominięte)
 
 - **1)** oznaczenie wnioskodawcy, adres jego miejsca zamieszkania lub siedziby oraz numer identyfikacji podatkowej (NIP);
 - **2)** formę organizacyjno-prawną wnioskodawcy;
-- **3)** numer wpisu do rejestru przedsiębiorców w Krajowym Rejestrze Sądowym w przypadku podmiotu podlegającego obowiązkowi takiego wpisu;
+- **3)** numer wpisu do rejestru przedsiębiorców w Krajowym Rejestrze Sądowym – w przypadku podmiotu podlegającego obowiązkowi takiego wpisu;
 - **4)** określenie rodzaju, dziedziny i systemu kształcenia;
 - **5)** miejsce prowadzenia kształcenia, w odniesieniu do zajęć teoretycznych i praktycznych.
 
@@ -1564,7 +1473,7 @@ Art. 88–90. (pominięte)
 2. Wraz z wnioskiem, o którym mowa w ust. 1, wnioskodawca składa oświadczenie następującej treści: „Oświadczam, że:
 
 - **1)** dane zawarte we wniosku o wpis do rejestru podmiotów prowadzących kształcenie podyplomowe są kompletne i zgodne z prawdą;
-- **2)** znane mi są i spełniam warunki wykonywania działalności w zakresie kształcenia podyplomowego, określone w ustawie z dnia lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. z 2026 r. poz. 15).”.
+- **2)** znane mi są i spełniam warunki wykonywania działalności w zakresie kształcenia podyplomowego, określone w ustawie z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. z 2026 r. poz. 15).”.
 
 3. Oświadczenie powinno również zawierać:
 
@@ -1613,7 +1522,7 @@ Art. 88–90. (pominięte)
 - **5)** niezastosowania się do zaleceń pokontrolnych, o których mowa w art. 82 ust. 12 pkt 1 albo w art. 83 ust. 13 pkt 1;
 - **6)** złożenia przez organizatora kształcenia, o którym mowa w art. 75 ust. 1 pkt 1–5, wniosku o wykreślenie z rejestru;
 - **7)** uzyskania przez organ prowadzący rejestr informacji z Centralnej Ewidencji i Informacji o Działalności Gospodarczej albo Krajowego Rejestru Sądowego o wykreśleniu przedsiębiorcy;
-- **8)** wykreślenia organizatora kształcenia z rejestru, o którym mowa w art. 100 ust. 1 ustawy z dnia kwietnia 2011 r. o działalności leczniczej.
+- **8)** wykreślenia organizatora kształcenia z rejestru, o którym mowa w art. 100 ust. 1 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej.
 
 9. W przypadkach, o których mowa w ust. 8 pkt 1, 4 i 5, wykreślenie z rejestru następuje po uprzednim podjęciu przez organ prowadzący rejestr uchwały o zakazie wykonywania działalności objętej wpisem do rejestru.
 
@@ -1630,7 +1539,7 @@ Art. 88–90. (pominięte)
 13. Do wniosku w sprawie zmiany danych wpisanych do rejestru podmiot, o którym mowa w art. 75 ust. 1 pkt 1–5, dołącza oświadczenie, o którym mowa w ust. 1d, jeżeli dotyczy, oraz oświadczenie następującej treści: „Oświadczam, że:
 
 - **1)** dane zawarte we wniosku w sprawie zmiany danych wpisanych do rejestru podmiotów prowadzących kształcenie podyplomowe są kompletne i zgodne z prawdą;
-- **2)** znane mi są i spełniam warunki wykonywania działalności w zakresie kształcenia podyplomowego, określone w ustawie z dnia lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. z 2026 r. poz. 15).”.
+- **2)** znane mi są i spełniam warunki wykonywania działalności w zakresie kształcenia podyplomowego, określone w ustawie z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. z 2026 r. poz. 15).”.
 
 14. Podmiot, o którym mowa w art. 75 ust. 1 pkt 1–5, może złożyć za pośrednictwem SMK wniosek o wykreślenie wpisu z rejestru zawierający dane, o których mowa w ust. 1.
 
@@ -1654,7 +1563,7 @@ Art. 88–90. (pominięte)
 
 6. Organ prowadzący rejestr informuje CMKP za pośrednictwem SMK o wykreśleniu z rejestru organizatora kształcenia, o którym mowa w art. 75 ust. 1 pkt 1–5, z podaniem daty wykreślenia, oraz przesyła prawomocną uchwałę w tej sprawie w terminie 14 dni od dnia dokonania wykreślenia.
 
-7. Do uchwał w sprawie odmowy wpisu i wykreślenia wpisu z rejestru stosuje się odpowiednio przepisy ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego dotyczące decyzji administracyjnych.
+7. Do uchwał w sprawie odmowy wpisu i wykreślenia wpisu z rejestru stosuje się odpowiednio przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego dotyczące decyzji administracyjnych.
 
 8. Od uchwał, o których mowa w ust. 7, przysługuje odwołanie do ministra właściwego do spraw zdrowia. Odwołanie wnosi się za pośrednictwem Naczelnej Rady Pielęgniarek i Położnych w terminie 30 dni od dnia doręczenia uchwały.
 
@@ -1714,7 +1623,7 @@ Art. 88–90. (pominięte)
 
 - **1)** oznaczenie organizatora kształcenia, adres miejsca świadczenia działalności lub adres korespondencyjny oraz numer identyfikacji podatkowej (NIP);
 - **2)** formę organizacyjno-prawną organizatora kształcenia;
-- **3)** określenie rodzaju i dziedziny lub zakresu kształcenia, w odniesieniu do specjalizacji numer i okres obowiązywania decyzji o uzyskaniu akredytacji;
+- **3)** określenie rodzaju i dziedziny lub zakresu kształcenia, w odniesieniu do specjalizacji – numer i okres obowiązywania decyzji o uzyskaniu akredytacji;
 - **4)** miejsce prowadzenia kształcenia, w odniesieniu do zajęć teoretycznych i praktycznych.
 
 5a. Organizator kształcenia posiadający akredytację, o której mowa w art. 75a, w przypadku zmiany danych, o których mowa w ust. 5, przekazuje do CMKP za pośrednictwem SMK informacje o zmianach w terminie 14 dni od dnia ich powstania.
@@ -1728,7 +1637,7 @@ Art. 88–90. (pominięte)
 - **1)** podpisanego kwalifikowanym podpisem elektronicznym podpisem zaufanym lub podpisem osobistym lub
 - **2)** potwierdzonego przez Naczelną Izbę Pielęgniarek i Położnych w zakresie danych podmiotu zamierzającego prowadzić działalność w zakresie kształcenia podyplomowego, o którym mowa w ust. 1.
 
-9. Weryfikacji podmiotu, o którym mowa w ust. 7, dokonuje Naczelna Izba Pielęgniarek i Położnych, a w przypadku wystąpienia z wnioskiem o udzielenie akredytacji na prowadzenie specjalizacji CMKP.
+9. Weryfikacji podmiotu, o którym mowa w ust. 7, dokonuje Naczelna Izba Pielęgniarek i Położnych, a w przypadku wystąpienia z wnioskiem o udzielenie akredytacji na prowadzenie specjalizacji – CMKP.
 
 **Art. 81.** Organizator kształcenia jest obowiązany:
 
@@ -1780,7 +1689,7 @@ Art. 88–90. (pominięte)
 12. Na podstawie ustaleń zawartych w protokole organ prowadzący rejestr:
 
 - **1)** przekazuje organizatorowi kształcenia wystąpienie pokontrolne, które wskazuje stwierdzone nieprawidłowości oraz zawiera zalecenia pokontrolne mające na celu ich usunięcie, określając termin wykonania zaleceń pokontrolnych;
-- **2)** wykreśla za pośrednictwem SMK organizatora kształcenia, o którym mowa w art. 75 ust. 1 pkt 1–5, z rejestru w przypadku stwierdzenia okoliczności, o których mowa w art. 76 ust. 8 pkt 1, 4 lub 5.
+- **2)** wykreśla za pośrednictwem SMK organizatora kształcenia, o którym mowa w art. 75 ust. 1 pkt 1–5, z rejestru – w przypadku stwierdzenia okoliczności, o których mowa w art. 76 ust. 8 pkt 1, 4 lub 5.
 
 13. (uchylony)
 
@@ -1850,13 +1759,13 @@ Art. 88–90. (pominięte)
 
 #### Rozdział 7 Przepisy karne
 
-**Art. 84.** Kto bez wymaganego prawa wykonywania zawodu udziela świadczeń zdrowotnych określonych w art. 4 ust. 1 pkt 1–6 lub art. 5 ust. 1 pkt 1–9, 11 i 12, podlega karze grzywny.
+**Art. 84.** Kto bez wymaganego prawa wykonywania zawodu udziela świadczeń zdrowotnych określonych w art. 4 ust. 1 pkt 1–6 lub art. 5 ust. 1 pkt 1– 9, 11 i 12, podlega karze grzywny.
 
 **Art. 85.** Jeżeli sprawca czynu określonego w art. 84 działa w celu osiągnięcia korzyści majątkowej lub wprowadza w błąd, co do posiadania takiego prawa, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
 
 **Art. 86.** Kto zatrudnia do udzielania świadczeń zdrowotnych określonych w art. 4 ust. 1 pkt 1–6 lub art. 5 ust. 1 pkt 1–9, 11 i 12 osobę nieposiadającą prawa wykonywania zawodu wymaganego do udzielenia tych świadczeń, podlega grzywnie albo karze ograniczenia wolności.
 
-**Art. 87.** Postępowanie w sprawach o czyn określony w art. 84 toczy się według przepisów ustawy z dnia 24 sierpnia 2001 r. Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2025 r. poz. 860, 1178 i 1661).
+**Art. 87.** Postępowanie w sprawach o czyn określony w art. 84 toczy się według przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2025 r. poz. 860, 1178 i 1661).
 
 #### Rozdział 8 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
 
@@ -1874,7 +1783,7 @@ Art. 88–90. (pominięte)
 
 2. Do postępowań dotyczących wpisu do rejestrów, o których mowa w ust. 1, wszczętych i niezakończonych przed dniem wejścia w życie ustawy, stosuje się przepisy dotychczasowe.
 
-3. Do rejestrów, o których mowa w ustawie, stosuje się art. ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
+3. Do rejestrów, o których mowa w ustawie, stosuje się art. 15 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
 
 **Art. 93.** Zaświadczenia wydane przez organy okręgowych izb pielęgniarek i położnych oraz Naczelnej Izby Pielęgniarek i Położnych na podstawie dotychczasowych przepisów zachowują ważność przez okres, na jaki zostały wydane, o ile niniejsza ustawa nie stanowi inaczej.
 
@@ -1938,5 +1847,39 @@ Art. 88–90. (pominięte)
 
 **Art. 103.** Traci moc ustawa z dnia 5 lipca 1996 r. o zawodach pielęgniarki i położnej (Dz. U. z 2009 r. poz. 1217 i 1706, z 2010 r. poz. 1578 oraz z 2011 r. poz. 235, 622 i 654).
 
-**Art. 104.** Ustawa wchodzi w życie z dniem 1 stycznia 2012 r., z wyjątkiem art. 95 i art. 99, które wchodzą w życie z dniem ogłoszenia . WYKAZ TYTUŁÓW PIELĘGNIAREK
+**Art. 104.** Ustawa wchodzi w życie z dniem 1 stycznia 2012 r., z wyjątkiem art. 95 i art. 99, które wchodzą w życie z dniem ogłoszenia . Załączniki do ustawy z dnia 15 lipca 2011 r. (Dz. U. z 2026 r. poz.
+
+## Załącznik nr 2
+
+1) „Hebamme” lub „Entbindungspfleger” w Republice Federalnej Niemiec;
+2) „Vroedvrouw/Accoucheuse” w Królestwie Belgii;
+3) „Aкушерка” w Republice Bułgarii;
+4) „Jordemoder” w Królestwie Danii;
+5) „Sage-femme” w Republice Francuskiej;
+6) „Midwife” w Republice Irlandii;
+7) „Ostetrica” w Republice Włoskiej;
+8) „Sage-femme” w Wielkim Księstwie Luksemburga;
+9) „Verloskundige” w Królestwie Niderlandów;
+10) „Midwife” w Zjednoczonym Królestwie Wielkiej Brytanii i Irlandii Północnej;
+11) „Μαία – Μαιευτής” w Republice Greckiej;
+12) „Matrona” lub „Asistente obstétrico” w Królestwie Hiszpanii;
+13) „Enfermeiro especialista em enfermagem de saúde materna e obstétrica” w Republice Portugalii;
+14) „Hebamme” w Republice Austrii;
+15) „Kätilö/Barnmorska” w Republice Finlandii;
+16) „Barnmorska” w Królestwie Szwecji;
+17) „Porodní asistentka/Porodní asistent” w Republice Czeskiej;
+18) „Ämmaemand” w Republice Estońskiej;
+19) „Εγγεγραμμένη Μαία” w Republice Cypryjskiej;
+20) „Vecmāte” w Republice Łotewskiej;
+21) „Akušeris” w Republice Litewskiej;
+22) „Szülésznő” w Republice Węgierskiej;
+23) „Qabla” w Republice Malty;
+24) „Moaşă” w Rumunii;
+25) „Diplomirana babica/Diplomirani babičar” w Republice Słowenii;
+26) „Pôrodná asistentka” w Republice Słowackiej;
+26a) „Prvostupnik (baccalaureus) primaljstva/prvostupnica (baccalaurea) primaljstva” w Republice Chorwacji;
+27) „Ljósmóðir” w Republice Islandii;
+28) „Hebamme” w Księstwie Liechtensteinu;
+29) „Jordmor” w Królestwie Norwegii;
+30) „Sage-femme”, „Hebamme” lub „Levatrice” w Konfederacji Szwajcarskiej.
 

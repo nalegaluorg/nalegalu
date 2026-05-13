@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 15 kwietnia 2024 r.
+# o zużytym sprzęcie elektrycznym i elektronicznym
+
+*USTAWA z dnia 11 września 2015 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,14 +26,6 @@ domain: null
 | Ostatnia zmiana | 2026-03-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000573) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/573/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 2 kwietnia 2024 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o zużytym sprzęcie elektrycznym i elektronicznym
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym (Dz. U. z 2022 r. poz. 1622), z uwzględnieniem zmian wprowadzonych ustawą z dnia 13 lipca 2023 r. o zmianie ustawy o gospodarce opakowaniami i odpadami opakowaniowymi oraz niektórych innych ustaw (Dz. U. poz. 1852) oraz zmian wynikających z przepisów ogłoszonych przed dniem 27 marca 2024 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 11 ustawy z dnia 13 lipca 2023 r. o zmianie ustawy o gospodarce opakowaniami i odpadami opakowaniowymi oraz niektórych innych ustaw (Dz. U.
-poz. 1852), który stanowi: „Art. 11. Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.”.
-Marszałek Sejmu: S. Hołownia
-USTAWA z dnia 11 września 2015 r.
-o zużytym sprzęcie elektrycznym i elektronicznym
 Art. 99–111. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
@@ -66,7 +60,7 @@ Art. 99–111. (pominięte)
 3. Przepisów art. 18, art. 19, art. 20 ust. 1, art. 21 i art. 23 nie stosuje się do wprowadzającego sprzęt, który wprowadza do obrotu:
 
 - **1)** małogabarytowy sprzęt, którego żaden z zewnętrznych wymiarów nie przekracza 50 cm, o łącznej średniorocznej masie sprzętu nieprzekraczającej 100 kg,
-- **2)** wielkogabarytowy sprzęt, którego którykolwiek z zewnętrznych wymiarów przekracza 50 cm, o łącznej średniorocznej masie sprzętu nieprzekraczającej 1000 kg który skorzystał ze zwolnienia, o którym mowa w art. 76 ust. 1.
+- **2)** wielkogabarytowy sprzęt, którego którykolwiek z zewnętrznych wymiarów przekracza 50 cm, o łącznej średniorocznej masie sprzętu nieprzekraczającej 1000 kg – który skorzystał ze zwolnienia, o którym mowa w art. 76 ust. 1.
 
 **Art. 3.** W sprawach dotyczących postępowania ze zużytym sprzętem w zakresie nieuregulowanym w niniejszej ustawie stosuje się przepisy ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2023 r. poz. 1587, 1597, 1688, 1852 i 2029).
 
@@ -82,7 +76,7 @@ Art. 99–111. (pominięte)
 
 1. Wprowadzenie do obrotu następuje w dniu:
 
-- **1)** wydania sprzętu z magazynu albo przekazania go osobie trzeciej w przypadku sprzętu wytworzonego na terytorium kraju;
+- **1)** wydania sprzętu z magazynu albo przekazania go osobie trzeciej – w przypadku sprzętu wytworzonego na terytorium kraju;
 - **2)** wystawienia faktury potwierdzającej przywóz sprzętu na terytorium kraju z terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej albo dokumentu celnego potwierdzającego przywóz sprzętu na terytorium kraju z terytorium państwa niebędącego państwem członkowskim Unii Europejskiej;
 - **3)** przywozu sprzętu na terytorium kraju w celu wprowadzenia do obrotu.
 
@@ -149,7 +143,7 @@ Art. 99–111. (pominięte)
 
 1. Wprowadzający sprzęt jest obowiązany do oznakowania sprzętu symbolem selektywnego zbierania, którego wzór jest określony w załączniku nr 2 do ustawy. Oznakowanie oznacza jednocześnie, że sprzęt został wprowadzony do obrotu po dniu 13 sierpnia 2005 r.
 
-2. Oznakowanie, o którym mowa w ust. 1, umieszcza się na sprzęcie w sposób wyraźny, czytelny i trwały, a jeżeli jest to uzasadnione wielkością lub funkcją sprzętu na opakowaniu i dokumentach dołączonych do sprzętu.
+2. Oznakowanie, o którym mowa w ust. 1, umieszcza się na sprzęcie w sposób wyraźny, czytelny i trwały, a jeżeli jest to uzasadnione wielkością lub funkcją sprzętu – na opakowaniu i dokumentach dołączonych do sprzętu.
 
 **Art. 15.**
 
@@ -160,7 +154,7 @@ Art. 99–111. (pominięte)
 3. Wprowadzający sprzęt, samodzielnie wykonując obowiązek, o którym mowa w ust. 1:
 
 - **1)** przeznacza na publiczne kampanie edukacyjne lub
-- **2)** wnosi na odrębny rachunek bankowy właściwego urzędu marszałkowskiego łącznie co najmniej 0,1 % przychodów netto z tytułu wprowadzania do obrotu sprzętu osiągniętych w poprzednim roku kalendarzowym.
+- **2)** wnosi na odrębny rachunek bankowy właściwego urzędu marszałkowskiego – łącznie co najmniej 0,1 % przychodów netto z tytułu wprowadzania do obrotu sprzętu osiągniętych w poprzednim roku kalendarzowym.
 
 4. Wprowadzający sprzęt, który rozpoczyna działalność w danym roku kalendarzowym, oblicza wysokość środków, o których mowa w ust. 3, w odniesieniu do przychodów netto z tytułu wprowadzania do obrotu sprzętu osiągniętych w tym roku kalendarzowym.
 
@@ -190,7 +184,7 @@ Art. 99–111. (pominięte)
 
 14. Wpływy z tytułu środków, o których mowa w ust. 3 pkt 2, powiększone o wysokość dochodów z oprocentowania rachunków bankowych i pomniejszone o wysokość dochodów, o których mowa w ust. 13, marszałek województwa przekazuje, w terminie 30 dni po upływie każdego kwartału, na rachunek bankowy Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej.
 
-15. Do środków, o których mowa w ust. 3 pkt 2, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2023 r. poz. 2383 i 2760), z tym że uprawnienia organów podatkowych przysługują marszałkowi województwa.
+15. Do środków, o których mowa w ust. 3 pkt 2, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2023 r. poz. 2383 i 2760), z tym że uprawnienia organów podatkowych przysługują marszałkowi województwa.
 
 **Art. 16.**
 
@@ -218,8 +212,8 @@ Art. 99–111. (pominięte)
 
 2. Jeżeli zużyty sprzęt powstał ze sprzętu przeznaczonego dla gospodarstw domowych wprowadzonego do obrotu:
 
-- **1)** do dnia 13 sierpnia 2005 r. obowiązek, o którym mowa w ust. 1, dotyczy wprowadzającego sprzęt w stosunku do sprzętu należącego do tej samej grupy sprzętu co sprzęt przez niego wprowadzony do obrotu, proporcjonalnie do jego udziału w masie wprowadzonego do obrotu sprzętu należącego do tej grupy;
-- **2)** po dniu 13 sierpnia 2005 r. obowiązek, o którym mowa w ust. 1, dotyczy wprowadzającego sprzęt w stosunku do sprzętu, który został przez niego wprowadzony do obrotu.
+- **1)** do dnia 13 sierpnia 2005 r. – obowiązek, o którym mowa w ust. 1, dotyczy wprowadzającego sprzęt w stosunku do sprzętu należącego do tej samej grupy sprzętu co sprzęt przez niego wprowadzony do obrotu, proporcjonalnie do jego udziału w masie wprowadzonego do obrotu sprzętu należącego do tej grupy;
+- **2)** po dniu 13 sierpnia 2005 r. – obowiązek, o którym mowa w ust. 1, dotyczy wprowadzającego sprzęt w stosunku do sprzętu, który został przez niego wprowadzony do obrotu.
 
 **Art. 19.**
 
@@ -235,8 +229,8 @@ Art. 99–111. (pominięte)
 
 1. Wprowadzający sprzęt jest obowiązany do osiągnięcia minimalnych rocznych poziomów zbierania zużytego sprzętu, które wynoszą:
 
-- **1)** od dnia 1 stycznia 2018 r. do dnia 31 grudnia 2020 r. nie mniej niż 40 % średniorocznej masy sprzętu wprowadzonego do obrotu, a w przypadku sprzętu należącego do grupy sprzętu nr 3 określonej w załączniku nr 1 do ustawy nie mniej niż 50 % średniorocznej masy sprzętu wprowadzonego do obrotu;
-- **2)** od dnia 1 stycznia 2021 r. nie mniej niż 65 % średniorocznej masy sprzętu wprowadzonego do obrotu albo 85 % masy zużytego sprzętu wytworzonego na terytorium kraju.
+- **1)** od dnia 1 stycznia 2018 r. do dnia 31 grudnia 2020 r. – nie mniej niż 40 % średniorocznej masy sprzętu wprowadzonego do obrotu, a w przypadku sprzętu należącego do grupy sprzętu nr 3 określonej w załączniku nr 1 do ustawy – nie mniej niż 50 % średniorocznej masy sprzętu wprowadzonego do obrotu;
+- **2)** od dnia 1 stycznia 2021 r. – nie mniej niż 65 % średniorocznej masy sprzętu wprowadzonego do obrotu albo 85 % masy zużytego sprzętu wytworzonego na terytorium kraju.
 
 2. Przy obliczaniu poziomów zbierania zużytego sprzętu nie uwzględnia się masy zużytego sprzętu powstałego ze sprzętu, który nie został wprowadzony do obrotu, oraz odpadów poprodukcyjnych.
 
@@ -257,18 +251,18 @@ Art. 99–111. (pominięte)
 2. Należy osiągnąć następujące poziomy odzysku oraz przygotowania do ponownego użycia i recyklingu zużytego sprzętu:
 
 - **1)** dla zużytego sprzętu powstałego ze sprzętu należącego do grup sprzętu nr 1 i 4 określonych w załączniku nr 1 do ustawy:
-    - **a)** odzysku 85 % masy zużytego sprzętu oraz
-    - **b)** przygotowania do ponownego użycia i recyklingu 80 % masy zużytego sprzętu;
+    - **a)** odzysku – 85 % masy zużytego sprzętu oraz
+    - **b)** przygotowania do ponownego użycia i recyklingu – 80 % masy zużytego sprzętu;
 
 - **2)** dla zużytego sprzętu powstałego ze sprzętu należącego do grupy sprzętu nr 2 określonej w załączniku nr 1 do ustawy:
-    - **a)** odzysku 80 % masy zużytego sprzętu oraz
-    - **b)** przygotowania do ponownego użycia i recyklingu 70 % masy zużytego sprzętu;
+    - **a)** odzysku – 80 % masy zużytego sprzętu oraz
+    - **b)** przygotowania do ponownego użycia i recyklingu – 70 % masy zużytego sprzętu;
 
 - **3)** dla zużytego sprzętu powstałego ze sprzętu należącego do grup sprzętu nr 5 i 6 określonych w załączniku nr 1 do ustawy:
-    - **a)** odzysku 75 % masy zużytego sprzętu oraz
-    - **b)** przygotowania do ponownego użycia i recyklingu 55 % masy zużytego sprzętu;
+    - **a)** odzysku – 75 % masy zużytego sprzętu oraz
+    - **b)** przygotowania do ponownego użycia i recyklingu – 55 % masy zużytego sprzętu;
 
-- **4)** dla zużytego sprzętu powstałego ze sprzętu należącego do grupy sprzętu nr 3 określonej w załączniku nr 1 do ustawy recyklingu w wysokości 80 % masy tego zużytego sprzętu.
+- **4)** dla zużytego sprzętu powstałego ze sprzętu należącego do grupy sprzętu nr 3 określonej w załączniku nr 1 do ustawy – recyklingu – w wysokości 80 % masy tego zużytego sprzętu.
 
 3. Sposób obliczania rocznego poziomu odzysku oraz poziomu przygotowania do ponownego użycia i recyklingu zużytego sprzętu określa załącznik nr 4 do ustawy.
 
@@ -289,7 +283,7 @@ Art. 99–111. (pominięte)
 2. Wprowadzający sprzęt w przypadku:
 
 - **1)** cofnięcia prowadzącemu zakład przetwarzania decyzji w zakresie gospodarki odpadami,
-- **2)** rozwiązania albo wygaśnięcia umowy, o której mowa w ust. 1 jest obowiązany, w terminie 3 miesięcy odpowiednio od dnia cofnięcia decyzji, rozwiązania albo wygaśnięcia umowy, do wykonania obowiązku, o którym mowa w ust. 1.
+- **2)** rozwiązania albo wygaśnięcia umowy, o której mowa w ust. 1 – jest obowiązany, w terminie 3 miesięcy odpowiednio od dnia cofnięcia decyzji, rozwiązania albo wygaśnięcia umowy, do wykonania obowiązku, o którym mowa w ust. 1.
 
 **Art. 24.** Do podmiotu mającego siedzibę na terytorium kraju i udostępniającego na rynku sprzęt wprowadzony do obrotu przez dystrybutora, który nie jest wpisany do rejestru, o którym mowa w art. 49 ustawy z dnia 14 grudnia 2012 r. o odpadach, zwanego dalej „rejestrem”, stosuje się przepisy ustawy dotyczące wprowadzającego sprzęt.
 
@@ -334,7 +328,7 @@ Art. 99–111. (pominięte)
 
 - **1)** który samodzielnie wykonuje obowiązek określony w art. 18 ust. 1,
 - **2)** w przypadku wygaśnięcia albo rozwiązania umowy, o której mowa w art. 11 ust. 3,
-- **3)** w przypadku otwarcia likwidacji, ogłoszenia upadłości lub wykreślenia z rejestru organizacji odzysku sprzętu elektrycznego i elektronicznego, z którą ma zawartą umowę, o której mowa w art. 11 ust. 3 jest obowiązany do wniesienia zabezpieczenia finansowego na dany rok kalendarzowy przeznaczonego na pokrycie opłaty produktowej, zwanego dalej „zabezpieczeniem finansowym”.
+- **3)** w przypadku otwarcia likwidacji, ogłoszenia upadłości lub wykreślenia z rejestru organizacji odzysku sprzętu elektrycznego i elektronicznego, z którą ma zawartą umowę, o której mowa w art. 11 ust. 3 – jest obowiązany do wniesienia zabezpieczenia finansowego na dany rok kalendarzowy przeznaczonego na pokrycie opłaty produktowej, zwanego dalej „zabezpieczeniem finansowym”.
 
 2. Zabezpieczenie finansowe ma formę:
 
@@ -362,8 +356,8 @@ Art. 99–111. (pominięte)
 
 1. Podstawę obliczenia wysokości zabezpieczenia finansowego stanowi w przypadku:
 
-- **1)** wprowadzającego sprzęt wnoszącego zabezpieczenie finansowe przed złożeniem wniosku o wpis do rejestru masa sprzętu przeznaczonego dla gospodarstw domowych, który zamierza wprowadzić do obrotu w danym roku kalendarzowym;
-- **2)** wprowadzającego sprzęt wpisanego do rejestru masa sprzętu przeznaczonego dla gospodarstw domowych, wprowadzonego do obrotu w poprzednim roku kalendarzowym.
+- **1)** wprowadzającego sprzęt wnoszącego zabezpieczenie finansowe przed złożeniem wniosku o wpis do rejestru – masa sprzętu przeznaczonego dla gospodarstw domowych, który zamierza wprowadzić do obrotu w danym roku kalendarzowym;
+- **2)** wprowadzającego sprzęt wpisanego do rejestru – masa sprzętu przeznaczonego dla gospodarstw domowych, wprowadzonego do obrotu w poprzednim roku kalendarzowym.
 
 2. Wysokość zabezpieczenia finansowego oblicza się jako iloczyn stawki opłaty produktowej oraz masy sprzętu przeznaczonego dla gospodarstw domowych, o której mowa w ust. 1.
 
@@ -502,7 +496,7 @@ Art. 99–111. (pominięte)
 - **4)** nieprzepuszczalne podłoża na odpowiednim obszarze wraz z urządzeniami do likwidacji wycieków oraz, w stosownym przypadku, odstojnikami i odolejaczami;
 - **5)** urządzenia do oczyszczania wody, które odpowiadają regulacjom z zakresu ochrony zdrowia i środowiska, w szczególności przepisom prawa wodnego;
 - **6)** instalacje umożliwiające przetworzenie zużytego sprzętu powstałego z poszczególnych grup sprzętu przetwarzanego w danym zakładzie przetwarzania;
-- **7)** instalacje umożliwiające wyeliminowanie substancji zubożających warstwę ozonową lub fluorowanych gazów cieplarnianych o współczynniku globalnego ocieplenia (GWP) powyżej 15, w tym gazów znajdujących się w piankach i obiegach chłodniczych przez właściwe ich odzyskanie i odpowiednie ich oczyszczenie lub zniszczenie, zgodnie z ustawą z dnia 15 maja 2015 r. o substancjach zubożających warstwę ozonową oraz o niektórych fluorowanych gazach cieplarnianych (Dz. U. z 2020 r. poz. 2065) w przypadku przetwarzania urządzeń chłodniczych.
+- **7)** instalacje umożliwiające wyeliminowanie substancji zubożających warstwę ozonową lub fluorowanych gazów cieplarnianych o współczynniku globalnego ocieplenia (GWP) powyżej 15, w tym gazów znajdujących się w piankach i obiegach chłodniczych przez właściwe ich odzyskanie i odpowiednie ich oczyszczenie lub zniszczenie, zgodnie z ustawą z dnia 15 maja 2015 r. o substancjach zubożających warstwę ozonową oraz o niektórych fluorowanych gazach cieplarnianych (Dz. U. z 2020 r. poz. 2065) – w przypadku przetwarzania urządzeń chłodniczych.
 
 2. Zakazuje się przyjmowania zużytego sprzętu przez zakład przetwarzania, który nie jest wyposażony zgodnie z ust. 1.
 
@@ -548,7 +542,7 @@ Art. 99–111. (pominięte)
 
 - **1)** masę zużytego sprzętu oraz masę odpadów powstałych ze zużytego sprzętu przygotowanych do ponownego użycia,
 - **2)** masę odpadów powstałych ze zużytego sprzętu, poddanych recyklingowi, innym niż recykling procesom odzysku lub unieszkodliwianiu,
-- **3)** masę odpadów powstałych ze zużytego sprzętu, wywiezionych z terytorium kraju w celu poddania recyklingowi, innym niż recykling procesom odzysku lub unieszkodliwianiu do dnia 1 lutego następnego roku.
+- **3)** masę odpadów powstałych ze zużytego sprzętu, wywiezionych z terytorium kraju w celu poddania recyklingowi, innym niż recykling procesom odzysku lub unieszkodliwianiu – do dnia 1 lutego następnego roku.
 
 4. Prowadzący zakład przetwarzania udostępnia zaświadczenie, o którym mowa w ust. 1, w terminie do dnia 28 lutego każdego roku za poprzedni rok kalendarzowy, za pośrednictwem indywidualnego konta w BDO, wprowadzającemu sprzęt albo organizacji odzysku sprzętu elektrycznego i elektronicznego, z którymi zawarł umowę, o której mowa w art. 23 ust. 1, oraz marszałkowi województwa.
 
@@ -648,7 +642,7 @@ Art. 99–111. (pominięte)
 
 10. Wpływy z tytułu środków, o których mowa w ust. 6, w wysokości 10 % stanowią dochód budżetu samorządu województwa z przeznaczeniem na koszty egzekucji należności z tytułu tych środków i obsługę administracyjną systemu tych środków.
 
-11. Do środków, o których mowa w ust. 6, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa, z tym że uprawnienia organów podatkowych przysługują marszałkowi województwa.
+11. Do środków, o których mowa w ust. 6, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, z tym że uprawnienia organów podatkowych przysługują marszałkowi województwa.
 
 **Art. 63.**
 
@@ -661,9 +655,7 @@ Art. 99–111. (pominięte)
 4. Organizacja odzysku sprzętu elektrycznego i elektronicznego jest obowiązana:
 
 - **1)** utrzymywać kapitał własny w wysokości co najmniej połowy kapitału zakładowego, określonego w ust. 1, zdeponowany na odrębnym rachunku bankowym lub w formie lokaty terminowej albo
-- **2)** posiadać gwarancję bankową lub gwarancję ubezpieczeniową, której gwarantem jest instytucja finansowa upoważniona do gwarantowania długu celnego lub instytucja finansowa mająca siedzibę na terytorium państwa członkowskiego, w wysokości co najmniej połowy kapitału zakładowego, określonego w ust. 1.
-
-5. Akcje organizacji odzysku sprzętu elektrycznego i elektronicznego mogą być wyłącznie akcjami imiennymi i nie mogą być zamienione na akcje na okaziciela.
+- **2)** posiadać gwarancję bankową lub gwarancję ubezpieczeniową, której gwarantem jest instytucja finansowa upoważniona do gwarantowania długu celnego lub instytucja finansowa mająca siedzibę na terytorium państwa członkowskiego, w wysokości co najmniej połowy kapitału zakładowego, określonego w ust. 1. [5. Akcje organizacji odzysku sprzętu elektrycznego i elektronicznego mogą być wyłącznie akcjami imiennymi i nie mogą być zamienione na akcje na okaziciela.]
 
 6. Organizacja odzysku sprzętu elektrycznego i elektronicznego nie może wydawać akcji uprzywilejowanych.
 
@@ -751,8 +743,8 @@ Art. 99–111. (pominięte)
 
 1. Stawka opłaty produktowej wynosi dla:
 
-- **1)** grupy sprzętu nr 3 określonej w załączniku nr 1 do ustawy od 4 zł do 8 zł za 1 kg;
-- **2)** innych grup sprzętu niż grupa wskazana w pkt 1 od 0 zł do 2 zł za 1 kg.
+- **1)** grupy sprzętu nr 3 określonej w załączniku nr 1 do ustawy – od 4 zł do 8 zł za 1 kg;
+- **2)** innych grup sprzętu niż grupa wskazana w pkt 1 – od 0 zł do 2 zł za 1 kg.
 
 2. Minister właściwy do spraw klimatu w porozumieniu z ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia, szczegółowe stawki opłaty produktowej, kierując się kosztami zbierania, przygotowania do ponownego użycia i recyklingu oraz innych niż recykling procesów odzysku zużytego sprzętu dla poszczególnych grup sprzętu.
 
@@ -773,7 +765,7 @@ Art. 99–111. (pominięte)
 1. Wprowadzającego sprzęt, który wprowadza do obrotu:
 
 - **1)** małogabarytowy sprzęt, którego żaden z zewnętrznych wymiarów nie przekracza 50 cm, o łącznej średniorocznej masie sprzętu nieprzekraczającej 100 kg,
-- **2)** wielkogabarytowy sprzęt, którego którykolwiek z zewnętrznych wymiarów przekracza 50 cm, o łącznej średniorocznej masie sprzętu nieprzekraczającej 1000 kg zwalnia się z opłaty produktowej.
+- **2)** wielkogabarytowy sprzęt, którego którykolwiek z zewnętrznych wymiarów przekracza 50 cm, o łącznej średniorocznej masie sprzętu nieprzekraczającej 1000 kg – zwalnia się z opłaty produktowej.
 
 2. Zwolnienie, o którym mowa w ust. 1, ma zastosowanie, jeżeli:
 
@@ -801,12 +793,12 @@ Art. 99–111. (pominięte)
 
 6. Oszacowanie masy sprzętu wprowadzonego do obrotu następuje metodą:
 
-- **1)** porównawczą wewnętrzną polegającą na porównaniu masy sprzętu wprowadzonego do obrotu przez wprowadzającego sprzęt w poprzednich okresach, dla których jest znana wielkość tej masy;
-- **2)** porównawczą zewnętrzną polegającą na porównaniu masy sprzętu wprowadzonego do obrotu przez wprowadzającego sprzęt innego niż wskazany w pkt 1, który prowadzi działalność gospodarczą o podobnej skali.
+- **1)** porównawczą wewnętrzną – polegającą na porównaniu masy sprzętu wprowadzonego do obrotu przez wprowadzającego sprzęt w poprzednich okresach, dla których jest znana wielkość tej masy;
+- **2)** porównawczą zewnętrzną – polegającą na porównaniu masy sprzętu wprowadzonego do obrotu przez wprowadzającego sprzęt innego niż wskazany w pkt 1, który prowadzi działalność gospodarczą o podobnej skali.
 
 7. Jeżeli w toku postępowania w sprawie określenia wysokości zobowiązania z tytułu opłaty produktowej na podstawie dowodów innych niż dodatkowa ewidencja można określić masę sprzętu wprowadzonego do obrotu, odstępuje się od oszacowania tej masy.
 
-**Art. 78.** Do należności z tytułu opłat produktowych oraz dodatkowych opłat produktowych stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa, z tym że uprawnienia organów podatkowych przysługują marszałkowi województwa.
+**Art. 78.** Do należności z tytułu opłat produktowych oraz dodatkowych opłat produktowych stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, z tym że uprawnienia organów podatkowych przysługują marszałkowi województwa.
 
 #### Rozdział 11 Przemieszczanie używanego sprzętu oraz zużytego sprzętu
 
@@ -825,10 +817,10 @@ Art. 99–111. (pominięte)
     - **d)** dokumentu transportowego, w szczególności listu przewozowego;
 
 - **2)** zapewnia:
-    - **a)** przeprowadzenie badania używanego sprzętu polegającego na ocenie: jego funkcjonalności, obecności w nim niebezpiecznych: substancji, mieszanin oraz części składowych,
-    - **b)** sporządzenie przez podmiot przeprowadzający badanie, o którym mowa w lit. a, dokumentacji badania zawierającej: numer i nazwę grupy i rodzaj używanego sprzętu, numer identyfikacyjny używanego sprzętu (numer typu), jeżeli został nadany, rok produkcji używanego sprzętu, jeżeli jest znany, wynik, rodzaj i datę przeprowadzenia badania oraz imię i nazwisko lub nazwę oraz adres lub siedzibę podmiotu, który je przeprowadził.
+    - **a)** przeprowadzenie badania używanego sprzętu polegającego na ocenie: – jego funkcjonalności, – obecności w nim niebezpiecznych: substancji, mieszanin oraz części składowych,
+    - **b)** sporządzenie przez podmiot przeprowadzający badanie, o którym mowa w lit. a, dokumentacji badania zawierającej: – numer i nazwę grupy i rodzaj używanego sprzętu, – numer identyfikacyjny używanego sprzętu (numer typu), jeżeli został nadany, – rok produkcji używanego sprzętu, jeżeli jest znany, – wynik, rodzaj i datę przeprowadzenia badania oraz imię i nazwisko lub nazwę oraz adres lub siedzibę podmiotu, który je przeprowadził.
 
-3. Posiadacz przemieszczanego używanego sprzętu jest obowiązany do umieszczenia na nim, a w przypadku gdy używany sprzęt jest opakowany na jego opakowaniu, dokumentacji, o której mowa w ust. 2 pkt 2 lit. b.
+3. Posiadacz przemieszczanego używanego sprzętu jest obowiązany do umieszczenia na nim, a w przypadku gdy używany sprzęt jest opakowany – na jego opakowaniu, dokumentacji, o której mowa w ust. 2 pkt 2 lit. b.
 
 4. Dokumentację, o której mowa w ust. 2 pkt 2 lit. b, umieszcza się w sposób:
 
@@ -843,7 +835,7 @@ Art. 99–111. (pominięte)
 
 - **1)** sprzętu, który jako wadliwy jest wysyłany do naprawy gwarancyjnej z zamiarem jego ponownego użycia lub
 - **2)** używanego sprzętu przeznaczonego do użytku profesjonalnego, wysyłanego do regeneracji lub naprawy do krajów, do których mają zastosowanie wydawane przez Radę Organizacji Współpracy Gospodarczej i Rozwoju (OECD) przepisy dotyczące kontroli transgranicznego przemieszczania odpadów przeznaczonych do odzysku z zamiarem ponownego użycia, lub
-- **3)** wadliwego używanego sprzętu przeznaczonego do użytku profesjonalnego, w szczególności wyrobu medycznego lub jego części, który jest wysyłany w celu przeprowadzenia analizy przyczyn usterki w przypadku gdy taką analizę może przeprowadzić wyłącznie wytwórca tego sprzętu lub działająca w jego imieniu osoba trzecia.
+- **3)** wadliwego używanego sprzętu przeznaczonego do użytku profesjonalnego, w szczególności wyrobu medycznego lub jego części, który jest wysyłany w celu przeprowadzenia analizy przyczyn usterki – w przypadku gdy taką analizę może przeprowadzić wyłącznie wytwórca tego sprzętu lub działająca w jego imieniu osoba trzecia.
 
 2. W czasie przemieszczania sprzętu lub używanego sprzętu odbywającego się w ramach transakcji B2B, o której mowa w ust. 1, podmiot dokonujący jego przemieszczania jest obowiązany do posiadania:
 
@@ -910,7 +902,7 @@ Art. 99–111. (pominięte)
 
 7. Należności z tytułu administracyjnych kar pieniężnych stanowią dochód budżetu państwa.
 
-**Art. 94.** W sprawach dotyczących administracyjnych kar pieniężnych stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa, z tym że uprawnienia organów podatkowych przysługują odpowiednio wojewódzkiemu inspektorowi ochrony środowiska albo wojewódzkiemu inspektorowi inspekcji handlowej.
+**Art. 94.** W sprawach dotyczących administracyjnych kar pieniężnych stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, z tym że uprawnienia organów podatkowych przysługują odpowiednio wojewódzkiemu inspektorowi ochrony środowiska albo wojewódzkiemu inspektorowi inspekcji handlowej.
 
 **Art. 95.** Kto wbrew zakazowi określonemu w art. 34 umieszcza zużyty sprzęt łącznie z innymi odpadami, podlega karze grzywny.
 
@@ -924,7 +916,7 @@ Art. 99–111. (pominięte)
 
 **Art. 98.**
 
-1. Orzekanie w sprawach o czyny, o których mowa w art. 95–97, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2022 r. poz. 1124 oraz z 2023 r. poz. 1963).
+1. Orzekanie w sprawach o czyny, o których mowa w art. 95–97, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2022 r. poz. 1124 oraz z 2023 r. poz. 1963).
 
 2. Za wykroczenia, o których mowa w art. 95–97, odpowiada jak sprawca także ten, kto na podstawie przepisu prawa, decyzji właściwego organu, umowy lub faktycznego wykonywania zajmuje się sprawami gospodarczymi osoby fizycznej, osoby prawnej albo jednostki organizacyjnej nieposiadającej osobowości prawnej, której odrębne przepisy przyznają zdolność prawną, w zakresie wprowadzania do obrotu sprzętu lub gospodarowania zużytym sprzętem.
 
@@ -944,8 +936,8 @@ Art. 99–111. (pominięte)
 
 1. Do dnia 31 grudnia 2017 r. stawka opłaty produktowej wynosi dla:
 
-- **1)** sprzętu należącego do grupy sprzętu nr 5 określonej w załączniku nr 6 do ustawy, z wyjątkiem opraw oświetleniowych do lamp fluorescencyjnych oraz pozostałego sprzętu oświetleniowego do celów rozprowadzenia lub regulacji światła od 4 zł do 8 zł za 1 kg;
-- **2)** grup sprzętu innych niż wskazane w pkt 1, określonych w załączniku nr 6 do ustawy od 0 zł do 2 zł za 1 kg.
+- **1)** sprzętu należącego do grupy sprzętu nr 5 określonej w załączniku nr 6 do ustawy, z wyjątkiem opraw oświetleniowych do lamp fluorescencyjnych oraz pozostałego sprzętu oświetleniowego do celów rozprowadzenia lub regulacji światła – od 4 zł do 8 zł za 1 kg;
+- **2)** grup sprzętu innych niż wskazane w pkt 1, określonych w załączniku nr 6 do ustawy – od 0 zł do 2 zł za 1 kg.
 
 2. Minister właściwy do spraw środowiska w porozumieniu z ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia, szczegółowe stawki opłaty produktowej, kierując się kosztami zbierania, przygotowania do ponownego użycia i recyklingu oraz innych niż recykling procesów odzysku zużytego sprzętu dla poszczególnych grup sprzętu.
 
@@ -954,18 +946,18 @@ Art. 99–111. (pominięte)
 1. Od dnia 1 stycznia 2016 r. do dnia 31 grudnia 2017 r. wprowadzający sprzęt jest obowiązany osiągnąć następujące poziomy:
 
 - **1)** dla zużytego sprzętu powstałego ze sprzętu należącego do grup sprzętu nr 1 i 10 określonych w załączniku nr 6 do ustawy:
-    - **a)** odzysku 85 % masy zużytego sprzętu oraz
-    - **b)** przygotowania do ponownego użycia i recyklingu 80 % masy zużytego sprzętu;
+    - **a)** odzysku – 85 % masy zużytego sprzętu oraz
+    - **b)** przygotowania do ponownego użycia i recyklingu – 80 % masy zużytego sprzętu;
 
 - **2)** dla zużytego sprzętu powstałego ze sprzętu należącego do grup sprzętu nr 3 i 4 określonych w załączniku nr 6 do ustawy:
-    - **a)** odzysku 80 % masy zużytego sprzętu oraz
-    - **b)** przygotowania do ponownego użycia i recyklingu 70 % masy zużytego sprzętu;
+    - **a)** odzysku – 80 % masy zużytego sprzętu oraz
+    - **b)** przygotowania do ponownego użycia i recyklingu – 70 % masy zużytego sprzętu;
 
-- **3)** dla zużytego sprzętu powstałego ze sprzętu należącego do grup sprzętu nr 2 i 5–9 określonych w załączniku nr 6 do ustawy:
-    - **a)** odzysku 75 % masy zużytego sprzętu oraz
-    - **b)** przygotowania do ponownego użycia i recyklingu 55 % masy zużytego sprzętu;
+- **3)** dla zużytego sprzętu powstałego ze sprzętu należącego do grup sprzętu nr 2 i 5– 9 określonych w załączniku nr 6 do ustawy:
+    - **a)** odzysku – 75 % masy zużytego sprzętu oraz
+    - **b)** przygotowania do ponownego użycia i recyklingu – 55 % masy zużytego sprzętu;
 
-- **4)** dla zużytych gazowych lamp wyładowczych recyklingu zużytych lamp wyładowczych w wysokości 80 % masy tych zużytych lamp.
+- **4)** dla zużytych gazowych lamp wyładowczych – recyklingu zużytych lamp wyładowczych w wysokości 80 % masy tych zużytych lamp.
 
 2. Do dnia 31 grudnia 2017 r. poziom odzysku oraz poziom recyklingu, w przypadku zużytego sprzętu należącego do grupy sprzętu nr 5 określonej w załączniku nr 6 do ustawy, oblicza się odrębnie dla lamp i opraw oświetleniowych.
 
@@ -1058,7 +1050,7 @@ Art. 99–111. (pominięte)
 
 28. W przypadku wyznaczenia przez producenta autoryzowanego przedstawiciela i posiadania przez tego autoryzowanego przedstawiciela wpisu do rejestru autoryzowanych przedstawicieli, wprowadzający sprzęt może, w terminie 14 dni od dnia uzyskania wpisu autoryzowanego przedstawiciela do rejestru autoryzowanych przedstawicieli, złożyć do Głównego Inspektora Ochrony Środowiska wniosek o wykreślenie z rejestru, o którym mowa w art. 235 ust. 2 ustawy zmienianej w art. 108 , prowadzonego na podstawie przepisów obowiązujących przed dniem wejścia w życie tej ustawy.
 
-29. Do wniosku o wpis do rejestru oraz wniosku o zmianę wpisu do rejestru stosuje się przepis art. 64 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803).
+29. Do wniosku o wpis do rejestru oraz wniosku o zmianę wpisu do rejestru stosuje się przepis art. 64 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803).
 
 **Art. 117.** Podmioty zbierające zużyty sprzęt wpisane do rejestru, o którym mowa w art. 235 ust. 2 ustawy zmienianej w art. 108 , prowadzonego na podstawie przepisów obowiązujących przed dniem wejścia w życie tej ustawy, niebędące zbierającymi zużyty sprzęt, o których mowa w art. 4 pkt 23 niniejszej ustawy, podlegają wykreśleniu z urzędu z tego rejestru w terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
@@ -1154,7 +1146,7 @@ Art. 99–111. (pominięte)
 1. Kto, wbrew obowiązkowi określonemu w:
 
 - **1)** art. 123 ust. 2, nie przechowuje zaświadczeń, o których mowa w art. 123 ust. 1,
-- **2)** art. 131 ust. 3, nie przechowuje dodatkowej ewidencji, o której mowa w art. 32 ust. 1 ustawy, o której mowa w art. 141, oraz zaświadczeń, o których mowa w art. 53 i art. 54 ustawy, o której mowa w art. 141 podlega administracyjnej karze pieniężnej w wysokości od 10 000 zł do 300 000 zł.
+- **2)** art. 131 ust. 3, nie przechowuje dodatkowej ewidencji, o której mowa w art. 32 ust. 1 ustawy, o której mowa w art. 141, oraz zaświadczeń, o których mowa w art. 53 i art. 54 ustawy, o której mowa w art. 141 – podlega administracyjnej karze pieniężnej w wysokości od 10 000 zł do 300 000 zł.
 
 2. Kary, o których mowa w ust. 1, wymierza, w drodze decyzji, właściwy wojewódzki inspektor ochrony środowiska.
 
@@ -1164,7 +1156,7 @@ Art. 99–111. (pominięte)
 
 1. Do kar pieniężnych, o których mowa w art. 80 ust. 2–9 ustawy, o której mowa w art. 141, oraz do wpływów z tych kar stosuje się przepisy dotychczasowe.
 
-2. Orzekanie w sprawach, o czyny, o których mowa w art. 134, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. Kodeks postępowania w sprawach o wykroczenia.
+2. Orzekanie w sprawach, o czyny, o których mowa w art. 134, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia.
 
 **Art. 137.**
 
@@ -1189,7 +1181,7 @@ Art. 99–111. (pominięte)
 1. Przepisy wykonawcze wydane na podstawie:
 
 - **1)** art. 50 ust. 8, art. 55 i art. 66 ust. 2 ustawy, o której mowa w art. 141, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 53 ust. 11, art. 59 i art. 114 ust. 2 niniejszej ustawy,
-- **2)** art. 84 ustawy zmienianej w art. 108 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 84 ustawy zmienianej w art. 108 , w brzmieniu nadanym niniejszą ustawą jednak nie dłużej niż do dnia 31 grudnia 2016 r.
+- **2)** art. 84 ustawy zmienianej w art. 108 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 84 ustawy zmienianej w art. 108 , w brzmieniu nadanym niniejszą ustawą – jednak nie dłużej niż do dnia 31 grudnia 2016 r.
 
 2. Przepisy wykonawcze wydane na podstawie art. 114 ust. 2 niniejszej ustawy zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 74 ust. 2 niniejszej ustawy.
 

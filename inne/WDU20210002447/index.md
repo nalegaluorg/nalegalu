@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 28 grudnia 2021 r.
+# Zwalczania Cyberprzestępczości
 
 | Pole | Wartość |
 |---|---|
@@ -24,9 +24,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002447) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2447/text.pdf) |
 
-USTAWA z dnia 17 grudnia 2021 r.
-o zmianie niektórych ustaw związku z powołaniem Centralnego Biura Zwalczania Cyberprzestępczości
-
 **Art. 1.** W ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2021 r. poz. 1882 i 2333) wprowadza się następujące zmiany:
 
 **Art. 6e.**
@@ -35,16 +32,14 @@ o zmianie niektórych ustaw związku z powołaniem Centralnego Biura Zwalczania 
 
 2. W przypadku braku opinii, o których mowa art. 6b ust. 1 i 2, art. 6c ust. 1 i 2 oraz art. 6d ust. 1 i 6, organ uprawniony do powołania na stanowisko komendanta może odwołać odpowiednio komendantów: wojewódzkiego i Stołecznego, powiatowego (miejskiego), rejonowego lub komendanta komisariatu Policji po upływie 14 dni od dnia doręczenia wniosku o wydanie opinii.
 
-3. Policjanta odwołanego ze stanowiska przenosi się do dyspozycji przełożonego policjanta uprawnionego do odwołania ze stanowiska, z zastrzeżeniem że policjanta odwołanego ze stanowiska Komendanta CBŚP, Komendanta BSWP, dowódcy BOA, Komendanta CBZC, komendanta wojewódzkiego Policji i Komendanta Stołecznego Policji przenosi się do dyspozycji Komendanta Głównego Policji. Policjant przez okres 6 miesięcy ma prawo do uposażenia wysokości przysługującej przed odwołaniem.”;
+3. Policjanta odwołanego ze stanowiska przenosi się do dyspozycji przełożonego policjanta uprawnionego do odwołania ze stanowiska, z zastrzeżeniem że policjanta odwołanego ze stanowiska Komendanta CBŚP, Komendanta BSWP, dowódcy BOA, Komendanta CBZC, komendanta wojewódzkiego Policji i Komendanta Stołecznego Policji przenosi się do dyspozycji Komendanta Głównego Policji. Policjant przez okres 6 miesięcy ma prawo do uposażenia wysokości przysługującej przed odwołaniem.”; „6. Przepisu ust. 1 nie stosuje się do Komendanta CBŚP, Komendanta BSWP oraz Komendanta CBZC.”;
 
-- **5)** art. 7 ust. 1 pkt 12 kropkę zastępuje się średnikiem i dodaje się pkt 13 brzmieniu: „13) organizację i zakres działania oraz zasady współdziałania CBZC z innymi jednostkami organizacyjnymi Policji.”;
-- **6)** art. 10 ust. 6 otrzymuje brzmienie: „6. Przepisu ust. 1 nie stosuje się do Komendanta CBŚP, Komendanta BSWP oraz Komendanta CBZC.”;
 - **7)** art. 11 ust. 7 otrzymuje brzmienie: „7. Przepisu ust. 1 nie stosuje się do Komendanta CBŚP, Komendanta BSWP oraz Komendanta CBZC.”;
 - **8)** art. 14 ust. 5 po wyrazach „Komendanta BSWP” dodaje się przecinek i wyrazy „Komendanta CBZC”;
-- **9)** art. 19:
-    - **a)** ust. 1: pkt 2 otrzymuje brzmienie: „2) określonych art. 134, art. 135 § 1, art. 136 § 1, art. 156 § 1 i 3, art. 163 § 1 i 3, art. 164 § 1, art. 165 § 1 i 3, art. 166, art. 167, art. 173 § 1 i 3, art. 189, art. 189a, art. 200a, art. 200b, art. 211a, art. 223, art. 224a, art. 228 § 1 i 3–5, art. 229 § 1 i 3–5, art. 230 § 1, art. 230a § 1, art. 231 § 2, art. 232, art. 233 § 1, 1a, 4 i 6, art. 234, art. 235, art. 236 § 1, art. 238, art. 239 § 1, art. 240 § 1, art. 245, art. 246, art. 252 § 1–3, art. 258, art. 267 § 1–4, art. 268a § 1 i 2, art. 269, art. 269a, art. 269b § 1, art. 270a § 1 i 2, art. 271a § 1 i 2, art. 277a § 1, art. 279 § 1, art. 280–282, art. 285 § 1, art. 286 § 1, art. 287 § 1, art. 296 § 1–3, art. 296a § 1, 2 i 4, art. 299 § 1–6 oraz art. 310 § 1, 2 i 4 Kodeksu karnego,”, części wspólnej wyrazy „Komendanta CBŚP albo Komendanta BSWP” zastępuje się wyrazami „Komendanta CBŚP, Komendanta BSWP albo Komendanta CBZC”, CBZC”,
-    - **c)** ust. 8 po wyrazach „Komendanta BSWP” dodaje się przecinek i wyrazy „Komendanta CBZC”,
-    - **d)** ust. 21 otrzymuje brzmienie: „21. Minister właściwy do spraw wewnętrznych, porozumieniu z Ministrem Sprawiedliwości, ministrem właściwym do spraw łączności oraz ministrem właściwym do spraw informatyzacji, określi, drodze rozporządzenia, sposób sporządzania dokumentacji związku z zarządzeniem kontroli operacyjnej, dokumentowania kontroli operacyjnej, przechowywania i przekazywania wniosków i zarządzeń, a także przechowywania, przekazywania oraz przetwarzania, kopiowania i niszczenia materiałów uzyskanych podczas tej kontroli, zakres danych gromadzonych rejestrach, o których mowa ust. 16a–16c, oraz wzory stosowanych druków i rejestrów, mając na względzie potrzebę zapewnienia niejawnego charakteru podejmowanych czynności i uzyskanych materiałów.”;
+- **9)** art. 19: 173 § 1 i 3, art. 189, art. 189a, art. 200a, art. 200b, art. 211a, art. 223, art. 224a, art. 228 § 1 i 3–5, art. 229 § 1 i 3–5, art. 230 § 1, art. 230a § 1, art. 231 § 2, art. 232, art. 233 § 1, 1a, 4 i 6, art. 234, art. 235, art. 236 § 1, art. 238, art. 239 § 1, art. 240 § 1, art. 245, art. 246, art. 252 § 1–3, art. 258, art. 267 § 1–4, art. 268a § 1 i 2, art. 269, art. 269a, art. 269b § 1, art. 270a § 1 i 2, art. 271a § 1 i 2, art. 277a § 1, art. 279 § 1, art. 280–282, art. 285 § 1, art. 286 § 1, art. 287 § 1, art. 296 § 1– 3, art. 296a § 1, 2 i 4, art. 299 § 1–6 oraz art. 310 § 1, 2 i 4 Kodeksu karnego,”, – części wspólnej wyrazy „Komendanta CBŚP albo Komendanta BSWP” zastępuje się wyrazami „Komendanta CBŚP, Komendanta BSWP albo Komendanta CBZC”,
+    - **a)** ust. 1: – pkt 2 otrzymuje brzmienie: „2) określonych art. 134, art. 135 § 1, art. 136 § 1, art. 156 § 1 i 3, art. 163 § 1 i 3, art. 164 § 1, art. 165 § 1 i 3, art. 166, art. 167, art.
+    - **b)** ust. 3, 9a, 15 i ust. 15f pkt 1 i 2 po wyrazach „Komendant BSWP” dodaje się przecinek i wyrazy „Komendant CBZC”,
+    - **c)** ust. 8 po wyrazach „Komendanta BSWP” dodaje się przecinek i wyrazy „Komendanta CBZC”, z zarządzeniem kontroli operacyjnej, dokumentowania kontroli operacyjnej, przechowywania i przekazywania wniosków i zarządzeń, a także przechowywania, przekazywania oraz przetwarzania, kopiowania i niszczenia materiałów uzyskanych podczas tej kontroli, zakres danych gromadzonych rejestrach, o których mowa ust. 16a–16c, oraz wzory stosowanych druków i rejestrów, mając na względzie potrzebę zapewnienia niejawnego charakteru podejmowanych czynności i uzyskanych materiałów.”;
 
 - **10)** art. 19a ust. 3, 4, 5 i 7 po wyrazach „Komendant BSWP” dodaje się przecinek i wyrazy „Komendant CBZC”;
 - **11)** art. 19b ust. 1 i 5 po wyrazach „Komendant BSWP” dodaje się przecinek i wyrazy „Komendant CBZC”;
@@ -52,7 +47,7 @@ o zmianie niektórych ustaw związku z powołaniem Centralnego Biura Zwalczania 
     - **a)** ust. 1f po wyrazach „Komendant BSWP,” dodaje się wyrazy „Komendant CBZC,”,
     - **b)** ust. 3 pkt 10 kropkę zastępuje się średnikiem i dodaje pkt 11 brzmieniu: „11) stanowiących tajemnicę zawodową rozumieniu ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. z 2021 r. poz. 1907, 1814 i 2140).”,
     - **c)** ust. 5 i ust. 5a części wspólnej po wyrazach „Komendanta BSWP” dodaje się przecinek i wyrazy „Komendanta CBZC”,
-    - **d)** ust. 5a: pkt 3 po wyrazach „i czasu ich obowiązywania” dodaje się przecinek i wyrazy „a także dane teleadresowe umożliwiające nawiązanie kontaktu z tą osobą fizyczną, prawną lub jednostką organizacyjną nieposiadającą osobowości prawnej”, po pkt 8 dodaje się przecinek i pkt 9 brzmieniu: „9) dotyczące zawarcia z osobą fizyczną, prawną lub jednostką organizacyjną nieposiadającą osobowości prawnej umowy o świadczenie usług płatniczych, o których mowa art. 3 ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych, umożliwiające weryfikację zawarcia takich umów i czasu ich obowiązywania, a także dane teleadresowe umożliwiające nawiązanie kontaktu z tą osobą fizyczną, prawną lub jednostką organizacyjną nieposiadającą osobowości prawnej”,
+    - **d)** ust. 5a: – pkt 3 po wyrazach „i czasu ich obowiązywania” dodaje się przecinek i wyrazy „a także dane teleadresowe umożliwiające nawiązanie kontaktu z tą osobą fizyczną, prawną lub jednostką organizacyjną nieposiadającą osobowości prawnej”, weryfikację zawarcia takich umów i czasu ich obowiązywania, a także dane teleadresowe umożliwiające nawiązanie kontaktu z tą osobą fizyczną, prawną lub jednostką organizacyjną nieposiadającą osobowości prawnej”,
     - **e)** ust. 11 wyrazy „albo Komendanta BSWP” zastępuje się wyrazami „ , Komendanta BSWP albo Komendanta CBZC”;
 
 - **13)** art. 20c:
@@ -63,9 +58,7 @@ o zmianie niektórych ustaw związku z powołaniem Centralnego Biura Zwalczania 
 
 2. Przyjęcie kandydata do służby Policji, zwanego dalej „kandydatem”, następuje po przeprowadzeniu postępowania kwalifikacyjnego mającego na celu ustalenie, czy kandydat spełnia warunki przyjęcia do służby Policji, oraz określenie jego predyspozycji do pełnienia tej służby. Postępowanie kwalifikacyjne składa się z następujących etapów:
 
-- **1)** złożenia podania o przyjęcie do służby, kwestionariusza osobowego kandydata do służby Policji, a także dokumentów stwierdzających wymagane wykształcenie i kwalifikacje zawodowe oraz zawierających dane o uprzednim zatrudnieniu;
-- **3)** testu sprawności fizycznej;
-- **4)** badania psychologicznego tym testu psychologicznego;
+- **1)** złożenia podania o przyjęcie do służby, kwestionariusza osobowego kandydata do służby Policji, a także dokumentów stwierdzających wymagane
 - **5)** rozmowy kwalifikacyjnej;
 - **6)** ustalenia zdolności fizycznej i psychicznej do służby Policji;
 - **7)** sprawdzenia ewidencjach, rejestrach i kartotekach, tym policyjnych zbiorach danych, prawdziwości danych zawartych kwestionariuszu osobowym kandydata do służby Policji;
@@ -81,11 +74,7 @@ o zmianie niektórych ustaw związku z powołaniem Centralnego Biura Zwalczania 
 
 5. W uzasadnionych przypadkach postępowanie kwalifikacyjne dotyczące kandydata ubiegającego się o przyjęcie na stanowisko służbowe, na którym wymagane są specjalistyczne kwalifikacje, wykształcenie, uprawnienia lub umiejętności pożądane ze względu na potrzeby kadrowe Policji, składa się z następujących etapów:
 
-- **1)** złożenia podania o przyjęcie do służby, kwestionariusza osobowego kandydata do służby Policji, a także dokumentów stwierdzających wymagane wykształcenie i kwalifikacje zawodowe oraz zawierających dane o uprzednim zatrudnieniu;
-- **2)** badania psychologicznego tym testu psychologicznego;
-- **3)** rozmowy kwalifikacyjnej;
-- **4)** ustalenia zdolności fizycznej i psychicznej do służby Policji;
-- **5)** sprawdzenia ewidencjach, rejestrach i kartotekach, tym policyjnych zbiorach danych, prawdziwości danych zawartych kwestionariuszu osobowym kandydata do służby Policji;
+- **1)** złożenia podania o przyjęcie do służby, kwestionariusza osobowego kandydata do służby Policji, a także dokumentów stwierdzających wymagane wykształcenie i kwalifikacje zawodowe oraz zawierających dane o uprzednim zatrudnieniu; osobowym kandydata do służby Policji;
 - **6)** postępowania sprawdzającego, które jest określone przepisach o ochronie informacji niejawnych.
 
 6. W przypadku kandydata, o którym mowa ust. 5, rozmowa kwalifikacyjna przeprowadzana jest z uwzględnieniem wymagań dotyczących pełnienia służby na stanowisku służbowym, na którym wymagane są specjalistyczne kwalifikacje, wykształcenie, uprawnienia lub umiejętności pożądane ze względu na potrzeby kadrowe Policji.
@@ -101,12 +90,8 @@ o zmianie niektórych ustaw związku z powołaniem Centralnego Biura Zwalczania 
 - **1)** testu sprawności fizycznej,
 - **2)** badania psychologicznego tym testu psychologicznego,
 - **3)** rozmowy kwalifikacyjnej,
-- **4)** ustalenia zdolności fizycznej i psychicznej do służby Policji następuje z uwzględnieniem wymagań dotyczących pełnienia służby kontrterrorystycznej.
-- **1)** charakterze członka personelu lotniczego specjalnościach:
-    - **a)** pilota, posiadającego odpowiednie uprawnienia i kwalifikacje lotnicze do pilotowania statków powietrznych,
-    - **b)** mechanika lotniczego, posiadającego specjalistyczne wykształcenie niezbędne do obsługi technicznej statków powietrznych,
-
-- **2)** charakterze członka personelu medycznego wyodrębnionych oddziałach prewencji postępowanie kwalifikacyjne składa się z następujących etapów: złożenia podania o przyjęcie do służby, kwestionariusza osobowego kandydata do służby Policji, a także dokumentów stwierdzających wymagane wykształcenie i kwalifikacje zawodowe oraz zawierających dane o uprzednim zatrudnieniu, rozmowy kwalifikacyjnej, ustalenia zdolności fizycznej i psychicznej do służby Policji, sprawdzenia ewidencjach, rejestrach i kartotekach, tym policyjnych zbiorach danych, prawdziwości danych zawartych kwestionariuszu osobowym kandydata oraz z postępowania sprawdzającego, które jest określone przepisach o ochronie informacji niejawnych.
+- **4)** ustalenia zdolności fizycznej i psychicznej do służby Policji – następuje z uwzględnieniem wymagań dotyczących pełnienia służby kontrterrorystycznej. niezbędne do obsługi technicznej statków powietrznych,
+- **2)** charakterze członka personelu medycznego wyodrębnionych oddziałach prewencji – postępowanie kwalifikacyjne składa się z następujących etapów: złożenia podania o przyjęcie do służby, kwestionariusza osobowego kandydata do służby Policji, a także dokumentów stwierdzających wymagane wykształcenie i kwalifikacje zawodowe oraz zawierających dane o uprzednim zatrudnieniu, rozmowy kwalifikacyjnej, ustalenia zdolności fizycznej i psychicznej do służby Policji, sprawdzenia ewidencjach, rejestrach i kartotekach, tym policyjnych zbiorach danych, prawdziwości danych zawartych kwestionariuszu osobowym kandydata oraz z postępowania sprawdzającego, które jest określone przepisach o ochronie informacji niejawnych.
 
 12. W przypadku kandydata ubiegającego się o przyjęcie do służby CBZC na stanowisko związane z bezpośrednim rozpoznawaniem i zwalczaniem przestępstw popełnionych przy użyciu systemu informatycznego, systemu teleinformatycznego lub sieci teleinformatycznej oraz zapobieganiem tym przestępstwom, a także wykrywaniem i ściganiem sprawców tych przestępstw, postępowanie kwalifikacyjne:
 
@@ -115,8 +100,6 @@ o zmianie niektórych ustaw związku z powołaniem Centralnego Biura Zwalczania 
     - **b)** badania psychologicznego tym testu psychologicznego,
     - **c)** rozmowy kwalifikacyjnej,
     - **d)** ustalenia zdolności fizycznej i psychicznej do służby Policji,
-    - **e)** sprawdzenia ewidencjach, rejestrach i kartotekach, tym policyjnych zbiorach danych, prawdziwości danych zawartych kwestionariuszu osobowym kandydata do służby Policji,
-    - **f)** postępowania sprawdzającego, które jest określone przepisach o ochronie informacji niejawnych;
 
 - **2)** obejmuje sprawdzenie wiedzy i umiejętności z zakresu informatyki, funkcjonowania systemów informatycznych, systemów teleinformatycznych, sieci teleinformatycznych oraz znajomości języka obcego obejmującej te dziedziny.
 
@@ -129,7 +112,7 @@ o zmianie niektórych ustaw związku z powołaniem Centralnego Biura Zwalczania 
     - **d)** sprawdzenia ewidencjach, rejestrach i kartotekach, tym policyjnych zbiorach danych, prawdziwości danych zawartych kwestionariuszu osobowym kandydata do służby Policji,
     - **e)** postępowania sprawdzającego, które jest określone przepisach o ochronie informacji niejawnych;
 
-- **2)** obejmuje sprawdzenie wiedzy i umiejętności z zakresu informatyki, funkcjonowania systemów informatycznych, systemów teleinformatycznych, sieci teleinformatycznych oraz znajomości języka obcego obejmującej te dziedziny przypadku kandydata ubiegającego się o przyjęcie do służby CBZC na stanowisko związane z bezpośrednim rozpoznawaniem i zwalczaniem przestępstw popełnionych przy użyciu systemu informatycznego, systemu teleinformatycznego lub sieci teleinformatycznej oraz zapobieganiem tym przestępstwom, a także wykrywaniem i ściganiem sprawców tych przestępstw. o przyjęcie do służby, kwestionariusz osobowy kandydata do służby Policji, a także dokumenty stwierdzające wymagane wykształcenie i kwalifikacje zawodowe oraz zawierające dane o uprzednim zatrudnieniu, został przyjęty do służby Policji po przeprowadzeniu postępowania kwalifikacyjnego, o którym mowa ust. 5 lub 12, oraz uzyskał kwalifikacje zawodowe podstawowe, postępowanie kwalifikacyjne:
+- **2)** obejmuje sprawdzenie wiedzy i umiejętności z zakresu informatyki, funkcjonowania systemów informatycznych, systemów teleinformatycznych, sieci teleinformatycznych oraz znajomości języka obcego obejmującej te dziedziny – przypadku kandydata ubiegającego się o przyjęcie do służby CBZC na stanowisko związane z bezpośrednim rozpoznawaniem i zwalczaniem przestępstw popełnionych przy użyciu osobowy kandydata do służby Policji, a także dokumenty stwierdzające wymagane wykształcenie i kwalifikacje zawodowe oraz zawierające dane o uprzednim zatrudnieniu, został przyjęty do służby Policji po przeprowadzeniu postępowania kwalifikacyjnego, o którym mowa ust. 5 lub 12, oraz uzyskał kwalifikacje zawodowe podstawowe, postępowanie kwalifikacyjne:
 - **1)** składa się z następujących etapów:
     - **a)** złożenia podania o przyjęcie do służby, kwestionariusza osobowego kandydata do służby Policji, a także dokumentów stwierdzających wymagane wykształcenie i kwalifikacje zawodowe oraz zawierających dane o uprzednim zatrudnieniu,
     - **b)** testu wiedzy,
@@ -139,14 +122,10 @@ o zmianie niektórych ustaw związku z powołaniem Centralnego Biura Zwalczania 
     - **f)** sprawdzenia ewidencjach, rejestrach i kartotekach, tym policyjnych zbiorach danych, prawdziwości danych zawartych kwestionariuszu osobowym kandydata do służby Policji,
     - **g)** postępowania sprawdzającego, które jest określone przepisach o ochronie informacji niejawnych;
 
-- **2)** obejmuje sprawdzenie wiedzy i umiejętności z zakresu informatyki, funkcjonowania systemów informatycznych, systemów teleinformatycznych, sieci teleinformatycznych oraz znajomości języka obcego obejmującej te dziedziny przypadku kandydata ubiegającego się o przyjęcie do służby CBZC na stanowisko związane z bezpośrednim rozpoznawaniem i zwalczaniem przestępstw popełnionych przy użyciu systemu informatycznego, systemu teleinformatycznego lub sieci teleinformatycznej oraz zapobieganiem tym przestępstwom, a także wykrywaniem i ściganiem sprawców tych przestępstw.
-
-15. Kandydat, wobec którego rozpoczęto postępowanie kwalifikacyjne, o którym mowa ust. 2, ale go nie zakończono, może przystąpić, po złożeniu podania, do postępowania kwalifikacyjnego, o którym mowa ust. 5 lub 12. Pozytywne wyniki następujących etapów:
-
-- **1)** złożenia podania o przyjęcie do służby, kwestionariusza osobowego kandydata do służby Policji, a także dokumentów stwierdzających wymagane wykształcenie i kwalifikacje zawodowe oraz zawierających dane o uprzednim zatrudnieniu,
+- **2)** obejmuje sprawdzenie wiedzy i umiejętności z zakresu informatyki, funkcjonowania systemów informatycznych, systemów teleinformatycznych, sieci teleinformatycznych oraz znajomości języka obcego obejmującej te dziedziny – przypadku kandydata ubiegającego się o przyjęcie do służby CBZC na stanowisko związane z bezpośrednim rozpoznawaniem i zwalczaniem przestępstw popełnionych przy użyciu systemu informatycznego, systemu teleinformatycznego lub sieci teleinformatycznej oraz zapobieganiem tym przestępstwom, a także wykrywaniem i ściganiem sprawców tych przestępstw. kandydata do służby Policji, a także dokumentów stwierdzających wymagane wykształcenie i kwalifikacje zawodowe oraz zawierających dane o uprzednim zatrudnieniu,
 - **2)** badania psychologicznego tym testu psychologicznego,
 - **3)** ustalenia zdolności fizycznej i psychicznej do służby Policji,
-- **4)** sprawdzenia ewidencjach, rejestrach i kartotekach, tym policyjnych zbiorach danych, prawdziwości danych zawartych kwestionariuszu osobowym kandydata do służby Policji uzyskane postępowaniu, o którym mowa ust. 2, uznaje się postępowaniu, o którym mowa ust. 5 lub 12.
+- **4)** sprawdzenia ewidencjach, rejestrach i kartotekach, tym policyjnych zbiorach danych, prawdziwości danych zawartych kwestionariuszu osobowym kandydata do służby Policji – uzyskane postępowaniu, o którym mowa ust. 2, uznaje się postępowaniu, o którym mowa ust. 5 lub 12.
 
 16. Kandydat, wobec którego zakończono postępowanie kwalifikacyjne, o którym mowa ust. 5 lub 12, lecz nie został przyjęty do służby Policji z powodu ograniczonej liczby przyjęć albo innej usprawiedliwionej przyczyny leżącej po jego stronie, może przystąpić, po złożeniu podania, do postępowania kwalifikacyjnego, o którym mowa ust. 2. Podanie składa się nie później niż terminie 7 dni od dnia zakończenia postępowania kwalifikacyjnego. Pozytywne wyniki następujących etapów:
 
@@ -154,12 +133,14 @@ o zmianie niektórych ustaw związku z powołaniem Centralnego Biura Zwalczania 
 - **2)** badania psychologicznego tym testu psychologicznego,
 - **3)** rozmowy kwalifikacyjnej,
 - **4)** ustalenia zdolności fizycznej i psychicznej do służby Policji,
-- **5)** sprawdzenia ewidencjach, rejestrach i kartotekach, tym policyjnych zbiorach danych, prawdziwości danych zawartych kwestionariuszu osobowym kandydata do służby Policji uzyskane postępowaniu, o którym mowa ust. 5 lub 12, uznaje się postępowaniu, o którym mowa ust. 2.
-- **1)** Komendant Główny Policji stosunku do kandydatów, o których mowa ust. 2, 5, ust. 11 pkt 1, ust. 13 oraz 14, ubiegających się o przyjęcie do służby Komendzie Głównej Policji oraz BOA;
-- **2)** Komendant CBŚP stosunku do kandydatów, o których mowa ust. 2, 5, 13 oraz 14, ubiegających się o przyjęcie do służby CBŚP;
-- **3)** Komendant BSWP stosunku do kandydatów, o których mowa ust. 2, 5, 13 oraz 14, ubiegających się o przyjęcie do służby BSWP;
-- **4)** Komendant CBZC stosunku do kandydatów, o których mowa ust. 2, 5 oraz 12–14, ubiegających się o przyjęcie do służby CBZC;
-- **5)** komendant wojewódzki albo Komendant Stołeczny Policji stosunku do kandydatów, o których mowa ust. 2, 5, 11, 13 oraz 14, ubiegających się o przyjęcie do służby komendzie wojewódzkiej albo Komendzie Stołecznej Policji oraz podległych mu jednostkach organizacyjnych Policji.
+
+17. Postępowanie kwalifikacyjne zarządza i prowadzi:
+
+- **1)** Komendant Główny Policji – stosunku do kandydatów, o których mowa ust. 2, 5, ust. 11 pkt 1, ust. 13 oraz 14, ubiegających się o przyjęcie do służby Komendzie Głównej Policji oraz BOA;
+- **2)** Komendant CBŚP – stosunku do kandydatów, o których mowa ust. 2, 5, 13 oraz 14, ubiegających się o przyjęcie do służby CBŚP;
+- **3)** Komendant BSWP – stosunku do kandydatów, o których mowa ust. 2, 5, 13 oraz 14, ubiegających się o przyjęcie do służby BSWP;
+- **4)** Komendant CBZC – stosunku do kandydatów, o których mowa ust. 2, 5 oraz 12–14, ubiegających się o przyjęcie do służby CBZC;
+- **5)** komendant wojewódzki albo Komendant Stołeczny Policji – stosunku do kandydatów, o których mowa ust. 2, 5, 11, 13 oraz 14, ubiegających się o przyjęcie do służby komendzie wojewódzkiej albo Komendzie Stołecznej Policji oraz podległych mu jednostkach organizacyjnych Policji.
 
 18. Zarządzenie przez Komendanta CBŚP, Komendanta BSWP, Komendanta CBZC, komendanta wojewódzkiego Policji oraz Komendanta Stołecznego Policji postępowania kwalifikacyjnego, o którym mowa ust. 5, wymaga uzyskania zgody Komendanta Głównego Policji. Zgody udziela się na wniosek zarządzającego.
 
@@ -167,25 +148,23 @@ o zmianie niektórych ustaw związku z powołaniem Centralnego Biura Zwalczania 
 
 - **1)** niezłożenia kompletu dokumentów, o których mowa ust. 2 pkt 1;
 - **2)** niespełnienia wymagań określonych ust. 1;
-- **3)** uzyskania negatywnego wyniku co najmniej jednego z następujących etapów postępowania kwalifikacyjnego:
-    - **a)** testu wiedzy,
-    - **b)** testu sprawności fizycznej,
-    - **c)** badania psychologicznego tym testu psychologicznego,
     - **d)** rozmowy kwalifikacyjnej,
     - **e)** ustalenia zdolności fizycznej i psychicznej do służby Policji,
     - **f)** postępowania sprawdzającego, które jest określone przepisach o ochronie informacji niejawnych;
 
-- **4)** uzyskania negatywnego wyniku badania psychofizjologicznego przypadku kandydata ubiegającego się o przyjęcie do służby CBŚP, BSWP albo CBZC;
-- **5)** uzyskania negatywnego wyniku sprawdzenia wiedzy i umiejętności z zakresu informatyki, funkcjonowania systemów informatycznych, systemów teleinformatycznych, sieci teleinformatycznych oraz znajomości języka obcego obejmującej te dziedziny przypadku kandydata ubiegającego się o przyjęcie do służby CBZC;
+- **4)** uzyskania negatywnego wyniku badania psychofizjologicznego – przypadku kandydata ubiegającego się o przyjęcie do służby CBŚP, BSWP albo CBZC;
+- **5)** uzyskania negatywnego wyniku sprawdzenia wiedzy i umiejętności z zakresu informatyki, funkcjonowania systemów informatycznych, systemów teleinformatycznych, sieci teleinformatycznych oraz znajomości języka obcego obejmującej te dziedziny – przypadku kandydata ubiegającego się o przyjęcie do służby CBZC;
 - **6)** zatajenia lub podania nieprawdziwych danych kwestionariuszu osobowym kandydata do służby Policji;
 - **7)** niepoddania się przez kandydata przewidzianym postępowaniu kwalifikacyjnym czynnościom lub etapom tego postępowania;
 - **8)** przystąpienia do ponownego postępowania kwalifikacyjnego pomimo uzyskania przez niego poprzednim postępowaniu kwalifikacyjnym negatywnego wyniku postępowania sprawdzającego określonego przepisach o ochronie informacji niejawnych, gdy z informacji posiadanych przez komendanta prowadzącego postępowanie wynika, że nie uległy zmianie okoliczności stanowiące podstawę negatywnego wyniku tego etapu;
 - **9)** gdy nie znajduje to uzasadnienia potrzebach kadrowych Policji;
 - **10)** rezygnacji kandydata z ubiegania się o przyjęcie do służby Policji.
 
-20. W przypadku odstąpienia od prowadzenia postępowania kwalifikacyjnego z powodu uzyskania przez kandydata negatywnego wyniku testu sprawności fizycznej, rozmowy kwalifikacyjnej, ustalenia zdolności fizycznej i psychicznej, badania psychologicznego, badania psychofizjologicznego, niespełnienia wymagań określonych ust. 1, zatajenia lub podania nieprawdziwych danych kwestionariuszu osobowym kandydata do służby Policji albo postępowania sprawdzającego może on ponownie przystąpić do postępowania kwalifikacyjnego po upływie okresów wskazanych przepisach wykonawczych wydanych na podstawie ust. 23, liczonych od dnia wystąpienia przyczyny odstąpienia od prowadzenia postępowania kwalifikacyjnego.
+20. W przypadku odstąpienia od prowadzenia postępowania kwalifikacyjnego z powodu uzyskania przez kandydata negatywnego wyniku testu sprawności fizycznej, rozmowy kwalifikacyjnej, ustalenia zdolności przepisach wykonawczych wydanych na podstawie ust. 23, liczonych od dnia wystąpienia przyczyny odstąpienia od prowadzenia postępowania kwalifikacyjnego.
 
-21. Postępowanie kwalifikacyjne kończy się umieszczeniem kandydata na liście kandydatów i zatwierdzeniem listy przez zarządzającego postępowanie kwalifikacyjne, o którym mowa ust. 17. udostępnieniu trybie odrębnych przepisów.
+21. Postępowanie kwalifikacyjne kończy się umieszczeniem kandydata na liście kandydatów i zatwierdzeniem listy przez zarządzającego postępowanie kwalifikacyjne, o którym mowa ust. 17.
+
+22. Informacje o wynikach postępowania kwalifikacyjnego nie stanowią informacji publicznej i nie podlegają udostępnieniu trybie odrębnych przepisów.
 
 23. Minister właściwy do spraw wewnętrznych określi, drodze rozporządzenia:
 
@@ -195,30 +174,26 @@ o zmianie niektórych ustaw związku z powołaniem Centralnego Biura Zwalczania 
 - **4)** zakres tematyczny i sposób przeprowadzania testu wiedzy, zakres i sposób przeprowadzania testu sprawności fizycznej, badania psychologicznego i rozmowy kwalifikacyjnej,
 - **5)** zakres tematyczny i sposób sprawdzenia wiedzy i umiejętności z zakresu informatyki, funkcjonowania systemów informatycznych, systemów teleinformatycznych, sieci teleinformatycznych oraz znajomości języka obcego obejmującej te dziedziny,
 - **6)** zakres i sposób przeprowadzania badania psychologicznego kandydatów ubiegających się o przyjęcie na określone stanowisko do służby CBŚP, BSWP albo CBZC,
-- **7)** zakres i sposób przeprowadzania testu sprawności fizycznej, badania psychologicznego i rozmowy kwalifikacyjnej kandydatów ubiegających się o przyjęcie do służby kontrterrorystycznej,
-- **8)** zakres, sposób organizowania, tryb przeprowadzania i ramową metodykę badań psychofizjologicznych oraz wykaz komórek organizacyjnych uprawnionych do ich przeprowadzania,
-- **9)** sposób uznawania wyników uzyskanych przez kandydata postępowaniu kwalifikacyjnym, o którym mowa ust. 2, przypadku przystąpienia do postępowania kwalifikacyjnego określonego ust. 5 lub 12,
+- **7)** zakres i sposób przeprowadzania testu sprawności fizycznej, badania psychologicznego i rozmowy kwalifikacyjnej kandydatów ubiegających się o przyjęcie do służby kontrterrorystycznej, postępowania kwalifikacyjnego określonego ust. 5 lub 12,
 - **10)** sposób uznawania wyników uzyskanych przez kandydata postępowaniu kwalifikacyjnym, o którym mowa ust. 5 lub 12, przypadku przystąpienia do postępowania kwalifikacyjnego określonego ust. 2,
 - **11)** wymagania dla osób przeprowadzających test sprawności fizycznej, badanie psychologiczne, badanie psychofizjologiczne oraz sprawdzenie wiedzy i umiejętności z zakresu informatyki, funkcjonowania systemów informatycznych, systemów teleinformatycznych, sieci teleinformatycznych oraz znajomości języka obcego obejmującej te dziedziny,
 - **12)** tryb złożenia i zakres informacji, jakie powinien zawierać wniosek, o którym mowa ust. 18,
 - **13)** sposób dokonywania oceny kandydatów, tym sposób uwzględniania ocenie preferencji z tytułu specjalistycznych kwalifikacji, wykształcenia, uprawnień lub umiejętności pożądanych ze względu na potrzeby kadrowe Policji,
 - **14)** szczegółowy sposób zakończenia postępowania kwalifikacyjnego, tym warunki umieszczenia kandydata na liście kandydatów oraz minimalny okres, po którym kandydat może ponownie przystąpić do postępowania kwalifikacyjnego lub poszczególnych jego etapów,
-- **15)** zakres informacji o wyniku postępowania kwalifikacyjnego uwzględniając powszechność dostępu do informacji o postępowaniu kwalifikacyjnym, czynności niezbędne do przeprowadzenia postępowania kwalifikacyjnego i ustalenia jego toku predyspozycji kandydata, wykształcenie, kwalifikacje lub uprawnienia osób przeprowadzających test sprawności fizycznej, badanie psychologiczne, badanie psychofizjologiczne oraz sprawdzenie wiedzy i umiejętności z zakresu informatyki, funkcjonowania systemów informatycznych, systemów teleinformatycznych, sieci teleinformatycznych oraz znajomości języka obcego obejmującej te dziedziny, a także potrzebę zapewnienia sprawności prowadzenia tego postępowania, przejrzystości stosowanych kryteriów oceny, obiektywności wyników postępowania i wyboru kandydatów posiadających największym stopniu cechy, umiejętności oraz kwalifikacje przydatne do realizacji zadań służbowych, tym uwzględniając wymagania do pełnienia służby jednostkach organizacyjnych Policji, o których mowa art. 5a, art. 5b i art. 5d, oraz służbie kontrterrorystycznej.”;
+- **15)** zakres informacji o wyniku postępowania kwalifikacyjnego – uwzględniając powszechność dostępu do informacji o postępowaniu kwalifikacyjnym, czynności niezbędne do przeprowadzenia postępowania kwalifikacyjnego i ustalenia jego toku predyspozycji kandydata, wykształcenie, kwalifikacje lub uprawnienia osób przeprowadzających test sprawności fizycznej, badanie psychologiczne, badanie psychofizjologiczne oraz sprawdzenie wiedzy i umiejętności z zakresu informatyki, funkcjonowania systemów informatycznych, systemów teleinformatycznych, sieci uwzględniając wymagania do pełnienia służby jednostkach organizacyjnych Policji, o których mowa art. 5a, art. 5b i art. 5d, oraz służbie kontrterrorystycznej.”;
 - **15)** art. 32 ust. 1 po wyrazach „Komendant BSWP,” dodaje się wyrazy „Komendant CBZC,”;
 - **16)** art. 34 ust. 2 wyrazy „albo Komendant BSWP” zastępuje się wyrazami „ , Komendant BSWP albo Komendant CBZC”;
-- **17)** po art. 34 dodaje się art. 34a brzmieniu: „Art. 34a. 1. Policjanta można skierować na przeszkolenie, do szkoły, na studia wyższe lub podyplomowe kraju albo za granicą lub na aplikację zawodach prawniczych, które są realizowane poza jednostkami szkoleniowymi Policji. na studia wyższe lub podyplomowe kraju albo za granicą lub na aplikację zawodach prawniczych, które są realizowane poza jednostkami szkoleniowymi Policji, zawiera się umowę, jeżeli koszt ten dniu skierowania przekracza kwotę sześciokrotności wysokości minimalnego wynagrodzenia za pracę ustalanego danym roku na podstawie ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2020 r. poz. 2207).
+- **17)** po art. 34 dodaje się art. 34a brzmieniu: „Art. 34a. 1. Policjanta można skierować na przeszkolenie, do szkoły, na studia wyższe lub podyplomowe kraju albo za granicą lub na aplikację zawodach prawniczych, które są realizowane poza jednostkami szkoleniowymi Policji.
+
+2. Z policjantem służbie stałej, którego zamierza się skierować na koszt Policji na przeszkolenie, do szkoły, na studia wyższe lub podyplomowe kraju albo za granicą lub na aplikację zawodach prawniczych, które są realizowane poza jednostkami szkoleniowymi Policji, zawiera się umowę, jeżeli koszt ten dniu skierowania przekracza kwotę sześciokrotności wysokości minimalnego wynagrodzenia za pracę ustalanego danym roku na podstawie ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2020 r. poz. 2207).
 
 3. Policjant, który został zwolniony ze służby przed upływem 5 lat od dnia ukończenia nauki lub szkoleń wymienionych ust. 2, których koszty zostały pokryte z budżetu Policji, jest obowiązany do zwrotu tych kosztów.
 
 4. Umowa, o której mowa ust. 2, określa wzajemne prawa i obowiązki stron związane ze skierowaniem, szczególności warunki zwrotu kosztów poniesionych na naukę i utrzymanie policjanta, przypadku:
 
-- **1)** nieukończenia przez niego przeszkolenia, szkoły, studiów wyższych lub podyplomowych kraju albo za granicą lub aplikacji zawodach prawniczych wyniku uzyskania negatywnej oceny końcowej albo przerwania nauki z winy policjanta;
-- **2)** zwolnienia ze służby okresie, o którym mowa ust. 3, z przyczyn określonych art. 41 ust. 1 pkt 3–5, ust. 2 pkt 1, 2, 4, 5, 7–9 oraz ust. 3.
-
-5. Zwrot poniesionych kosztów następuje wysokości:
-
-- **1)** kosztów poniesionych przez Policję przypadkach, o których mowa ust. 4 pkt 1 oraz art. 41 ust. 1 pkt 3–5 i ust. 2 pkt 2 i 8;
-- **2)** proporcjonalnej do pozostałego, wynikającego z umowy, okresu służby pełnionej po zakończeniu nauki pozostałych przypadkach.
+- **1)** nieukończenia przez niego przeszkolenia, szkoły, studiów wyższych lub podyplomowych kraju albo za granicą lub aplikacji zawodach
+- **1)** kosztów poniesionych przez Policję – przypadkach, o których mowa ust. 4 pkt 1 oraz art. 41 ust. 1 pkt 3–5 i ust. 2 pkt 2 i 8;
+- **2)** proporcjonalnej do pozostałego, wynikającego z umowy, okresu służby pełnionej po zakończeniu nauki – pozostałych przypadkach.
 
 6. Zwrot kosztów, o którym mowa ust. 3, nie obejmuje uposażenia policjanta.
 
@@ -226,17 +201,17 @@ o zmianie niektórych ustaw związku z powołaniem Centralnego Biura Zwalczania 
 
 - **18)** art. 35a po ust. 3d dodaje się ust. 3e brzmieniu: „3e. W stosunku do policjantów pełniących służbę lub ubiegających się o podjęcie służby CBZC badania zarządza Komendant CBZC.”;
 - **19)** po art. 35a dodaje się art. 35b brzmieniu: „Art. 35b. Policjanta, za jego zgodą, przenosi na stanowisko związane z bezpośrednim rozpoznawaniem i zwalczaniem przestępstw popełnionych przy użyciu systemu informatycznego, systemu teleinformatycznego lub sieci teleinformatycznej oraz zapobieganiem tym przestępstwom, a także wykrywaniem i ściganiem sprawców tych przestępstw CBZC Komendant Główny Policji, na wniosek Komendanta CBZC, po uzyskaniu przez policjanta pozytywnego wyniku sprawdzenia wiedzy, umiejętności i znajomości języka, o którym mowa art. 25 ust. 12 pkt 2.”;
-- **20)** art. 36: Jeżeli przeniesienie między województwami, a także między CBŚP a innymi jednostkami organizacyjnymi Policji, BSWP a innymi jednostkami organizacyjnymi Policji oraz między CBZC a innymi jednostkami organizacyjnymi Policji następuje związku z porozumieniem zainteresowanych przełożonych i policjanta, przeniesienia dokonuje komendant wojewódzki Policji właściwy dla województwa, którym policjant ma pełnić służbę, przypadku przeniesienia do CBŚP Komendant CBŚP, przypadku przeniesienia do BSWP Komendant BSWP, a przypadku przeniesienia do CBZC Komendant CBZC.
-    - **a)** ust. 2 i 3 otrzymują brzmienie: „2. Do przenoszenia lub delegowania policjanta właściwi są: Komendant Główny Policji na obszarze całego państwa, Komendant CBŚP odniesieniu do policjanta CBŚP ramach tej jednostki organizacyjnej, Komendant BSWP odniesieniu do policjanta BSWP ramach tej jednostki organizacyjnej, Komendant CBZC odniesieniu do policjanta CBZC ramach tej jednostki organizacyjnej, komendant wojewódzki Policji na obszarze właściwego województwa, komendant powiatowy (miejski) Policji na obszarze właściwego powiatu (miasta).
+- **20)** art. 36:
+    - **a)** ust. 2 i 3 otrzymują brzmienie: „2. Do przenoszenia lub delegowania policjanta właściwi są: Komendant Główny Policji na obszarze całego państwa, Komendant CBŚP odniesieniu do policjanta CBŚP ramach tej jednostki organizacyjnej, Komendant BSWP odniesieniu do policjanta BSWP ramach tej organizacyjnymi Policji, BSWP a innymi jednostkami organizacyjnymi Policji oraz między CBZC a innymi jednostkami organizacyjnymi Policji następuje związku z porozumieniem zainteresowanych przełożonych i policjanta, przeniesienia dokonuje komendant wojewódzki Policji właściwy dla województwa, którym policjant ma pełnić służbę, przypadku przeniesienia do CBŚP – Komendant CBŚP, przypadku przeniesienia do BSWP – Komendant BSWP, a przypadku przeniesienia do CBZC – Komendant CBZC.
 
 3. Czas delegacji nie może przekraczać 6 miesięcy. Komendant Główny Policji, Komendant CBŚP, Komendant BSWP albo Komendant CBZC wyjątkowych przypadkach może przedłużyć czas delegacji do 12 miesięcy.”,
 
 - **b)** po ust. 4c dodaje się ust. 4d brzmieniu: „4d. Policjanta przyjętego do służby na zasadach, o których mowa art. 25 ust. 5, 11 lub 12, można przenieść lub delegować do innej służby Policji pod warunkiem przystąpienia przez niego do pominiętych zgodnie z tymi zasadami etapów postępowania kwalifikacyjnego, o których mowa art. 25 ust. 2, oraz uzyskania ich pozytywnego wyniku.”;
-- **a)** pkt 2 po lit. a dodaje się lit. aa brzmieniu: „aa) Komendanta CBZC i jego zastępcy,”,
-- **b)** po pkt 3 dodaje się pkt 3a brzmieniu: „3a) Komendant CBZC stosunku do policjanta na stanowisku służbowym CBZC;”;
-- **22)** art. 39c ust. 1 pkt 2 po wyrazach „Komendant CBŚP,” dodaje się wyrazy „Komendant CBZC,”;
-- **23)** art. 45 ust. 1 otrzymuje brzmienie: „1. Zwolnienia ze służby na podstawie art. 41 ust. 2 pkt 5 dokonuje właściwy komendant wojewódzki Policji, Komendant CBŚP, Komendant BSWP albo Komendant CBZC.”;
-- **24)** art. 46b ust. 3 po wyrazach „Komendant BSWP,” dodaje się wyrazy „Komendant CBZC,”;
+- **21)** art. 39a ust. 1:
+    - **a)** pkt 2 po lit. a dodaje się lit. aa brzmieniu: „aa) Komendanta CBZC i jego zastępcy,”,
+    - **b)** po pkt 3 dodaje się pkt 3a brzmieniu: „3a) Komendant CBZC – stosunku do policjanta na stanowisku służbowym CBZC;”;
+
+- **22)** art. 39c ust. 1 pkt 2 po wyrazach „Komendant CBŚP,” dodaje się wyrazy „Komendant CBZC,”; „Komendant CBZC,”;
 - **25)** art. 71a ust. 1 i 9 po wyrazach „Komendant BSWP,” dodaje się wyrazy „Komendant CBZC,”;
 - **26)** art. 108 ust. 1 po pkt 5b dodaje się pkt 5c brzmieniu: „5c) świadczenie związane z pełnieniem służby CBZC;”;
 - **27)** art. 110 ust. 15 po wyrazach „Komendantowi CBŚP,” dodaje się wyrazy „Komendantowi CBZC,”;
@@ -245,16 +220,10 @@ o zmianie niektórych ustaw związku z powołaniem Centralnego Biura Zwalczania 
 
 2. Wysokość świadczenia, o którym mowa ust. 1, uzależnia się od oceny wywiązywania się przez policjanta z obowiązków oraz realizacji zadań i czynności służbowych, ze szczególnym uwzględnieniem ich charakteru i zakresu, rodzaju i poziomu posiadanych przez tego policjanta kwalifikacji zawodowych.
 
-3. Decyzję o przyznaniu świadczenia, o którym mowa ust. 1, oraz jego wysokości, na okres jednego roku, wydaje Komendant CBZC, a wobec Komendanta CBZC oraz jego zastępców Komendant Główny Policji.
-
-4. Przed wydaniem decyzji, o której mowa ust. 3, policjant podlega opiniowaniu służbowemu na zasadach, o których mowa art. 35.
-
-5. Od decyzji, o której mowa ust. 3, policjantowi przysługuje odwołanie do wyższego przełożonego terminie 7 dni od dnia doręczenia decyzji.
-
-6. Komendant CBZC przypadku:
+3. Decyzję o przyznaniu świadczenia, o którym mowa ust. 1, oraz jego wysokości, na okres jednego roku, wydaje Komendant CBZC, a wobec Komendanta CBZC oraz jego zastępców – Komendant Główny Policji.
 
 - **1)** niewywiązywania się przez policjanta z realizacji zadań służbowych,
-- **2)** znacznego obniżenia efektywności służby policjanta obniża, drodze decyzji, wysokość świadczenia, o którym mowa ust. 1, przed upływem okresu, na który zostało przyznane. Przepis ust. 5 stosuje się odpowiednio.
+- **2)** znacznego obniżenia efektywności służby policjanta – obniża, drodze decyzji, wysokość świadczenia, o którym mowa ust. 1, przed upływem okresu, na który zostało przyznane. Przepis ust. 5 stosuje się odpowiednio.
 
 7. Komendant CBZC może podnieść, drodze decyzji, wysokość świadczenia, o którym mowa ust. 1, przed upływem okresu, na który zostało ono przyznane, jeżeli jest to uzasadnione charakterem i efektami bieżąco realizowanych zadań lub wykonywaniem przez funkcjonariusza czynności wykraczających poza zakres jego obowiązków służbowych. Przepis ust. 5 stosuje się odpowiednio.
 
@@ -266,21 +235,23 @@ o zmianie niektórych ustaw związku z powołaniem Centralnego Biura Zwalczania 
 
 - **30)** art. 133 ust. 8 pkt 3 po wyrazach „Komendanta CBŚP,” dodaje się wyrazy „Komendanta CBZC,”.
 
-**Art. 2.** W ustawie z dnia 16 września 1982 r. o pracownikach urzędów państwowych (Dz. U. z 2020 r. poz. 537) art. 1 ust. 2 po pkt 5b dodaje się pkt 5ba brzmieniu: „5ba) Centralnym Biurze Zwalczania Cyberprzestępczości,”. treść oznacza się jako § 1 i dodaje się § 2 brzmieniu: „§ 2. Jeżeli sprawca czynu określonego § 1 zawiadamia o więcej niż jednym zdarzeniu, podlega karze pozbawienia wolności od lat 2 do 12.”.
+**Art. 2.** W ustawie z dnia 16 września 1982 r. o pracownikach urzędów państwowych (Dz. U. z 2020 r. poz. 537) art. 1 ust. 2 po pkt 5b dodaje się pkt 5ba brzmieniu: „5ba) Centralnym Biurze Zwalczania Cyberprzestępczości,”. podlega karze pozbawienia wolności od lat 2 do 12.”.
 
-**Art. 4.** W ustawie z dnia 6 czerwca 1997 r. Kodeks postępowania karnego (Dz. U. z 2021 r. poz. 534 i 1023) wprowadza się następujące zmiany:
-
-**Art. 5.** W ustawie z dnia 29 sierpnia 1997 r. Prawo bankowe (Dz. U. z 2021 r. poz. 2439) art. 106a:
+**Art. 4.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2021 r. poz. 534 i 1023) wprowadza się następujące zmiany:
 
 **Art. 6.** W ustawie z dnia 29 lipca 2005 r. o nadzorze nad rynkiem kapitałowym (Dz. U. z 2020 r. poz. 1400 i 2320 oraz z 2021 r. poz. 355 i 2140) art. 40:
-
-**Art. 8.** W ustawie z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z 2021 r. poz. 1844 i 2140) art. 16:
 
 **Art. 9.** W ustawie z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej (Dz. U. z 2019 r. poz. 2418) art. 35 ust. 4 pkt 1 lit. c po wyrazach „dowódca Centralnego Pododdziału Kontrterrorystycznego Policji „BOA”,” dodaje się wyrazy „Komendant Centralnego Biura Zwalczania Cyberprzestępczości,”.
 
 **Art. 10.** W ustawie z dnia 4 kwietnia 2014 r. o świadczeniach odszkodowawczych przysługujących razie wypadku lub choroby pozostających związku ze służbą (Dz. U. z 2018 r. poz. 1448) art. 34 ust. 2:
 
-**Art. 11.** W ustawie z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2021 r. poz. 1132, 1163 i 1535) wprowadza się następujące zmiany:
+**Art. 12.**
+
+1. Komendant Główny Policji terminie 7 dni od dnia wejścia życie ustawy wyznaczy spośród oficerów starszych Policji służby kryminalnej lub śledczej Pełnomocnika Komendanta Głównego Policji do spraw utworzenia służby zwalczania cyberprzestępczości, zwanego dalej „Pełnomocnikiem”, celu podjęcia czynności przygotowawczych i organizacyjnych niezbędnych do rozpoczęcia funkcjonowania Centralnego Biura Zwalczania Cyberprzestępczości. systemu teleinformatycznego lub sieci teleinformatycznej oraz zapobieganiem tym przestępstwom, a także wykrywaniem i ściganiem sprawców tych przestępstw, mając na względzie wiedzę i umiejętności oraz znajomość języka, zakresie, o którym mowa art. 25 ust. 12 pkt 2 ustawy zmienianej art. 1,
+
+- **2)** do wsparcia realizacji zadań, o których mowa art. 5d ust. 1 ustawy zmienianej art. 1 – celu zapewnienia wysokiego poziomu realizacji zadań przez służbę zwalczania cyberprzestępczości.
+
+3. Pełnomocnik kończy swoją działalność z dniem powołania Komendanta Centralnego Biura Zwalczania Cyberprzestępczości i przekazania mu kierowania Centralnym Biurem Zwalczania Cyberprzestępczości.
 
 **Art. 13.**
 
@@ -289,11 +260,7 @@ o zmianie niektórych ustaw związku z powołaniem Centralnego Biura Zwalczania 
 2. Stosunki pracy pracowników Centralnego Biura Zwalczania Cyberprzestępczości wygasają:
 
 - **1)** po upływie 5 miesięcy od dnia wejścia życie ustawy, jeżeli pracownik terminie 2 miesięcy od dnia wejścia życie ustawy nie otrzyma od Pełnomocnika pisemnej propozycji określającej nowe warunki pracy lub warunki płacy;
-- **2)** po upływie 3 miesięcy, licząc od pierwszego dnia miesiąca następującego po miesiącu, którym pracownik Centralnego Biura Zwalczania Cyberprzestępczości złoży oświadczenie o odmowie przyjęcia propozycji, o której mowa pkt 1, jednak nie później niż po upływie 5 miesięcy od dnia wejścia życie ustawy.
-
-3. Pełnomocnik, przedstawiając propozycję, o której mowa ust. 2 pkt 1, bierze pod uwagę przebieg pracy Policji oraz przydatność do pracy Centralnym Biurze Zwalczania Cyberprzestępczości.
-
-4. Pracownik Centralnego Biura Zwalczania Cyberprzestępczości, któremu Pełnomocnik przedstawił propozycję, o której mowa ust. 2 pkt 1, składa terminie 14 dni od dnia jej otrzymania oświadczenie o przyjęciu albo odmowie przyjęcia tej propozycji. Niezłożenie oświadczenia tym terminie jest równoznaczne z odmową przyjęcia propozycji zatrudnienia.
+- **2)** po upływie 3 miesięcy, licząc od pierwszego dnia miesiąca następującego po miesiącu, którym pracownik Centralnego Biura Zwalczania Cyberprzestępczości złoży oświadczenie o odmowie przyjęcia propozycji, o której mowa pkt 1, jednak nie później niż po upływie 5 miesięcy od dnia wejścia życie ustawy. 14 dni od dnia jej otrzymania oświadczenie o przyjęciu albo odmowie przyjęcia tej propozycji. Niezłożenie oświadczenia tym terminie jest równoznaczne z odmową przyjęcia propozycji zatrudnienia.
 
 5. Pracownik Centralnego Biura Zwalczania Cyberprzestępczości, który otrzymał i przyjął propozycję, o której mowa ust. 2 pkt 1, zachowuje ciągłość pracy. Pracownik Centralnego Biura Zwalczania Cyberprzestępczości, któremu nie zostanie złożona propozycja, o której mowa ust. 2 pkt 1, terminie miesiąca od dnia wejścia życie ustawy otrzymuje pisemną informację o braku tej propozycji.
 
@@ -305,7 +272,9 @@ o zmianie niektórych ustaw związku z powołaniem Centralnego Biura Zwalczania 
 
 **Art. 15.**
 
-1. Sprawy wszczęte i niezakończone Biurze do Walki z Cyberprzestępczością Komendy Głównej Policji albo wydziałach do walki z cyberprzestępczością komend wojewódzkich Policji albo Komendy Stołecznej Policji, albo stosunku do policjantów lub pracowników tych jednostek i komórek organizacyjnych Policji, do czasu powołania Komendanta Centralnego Biura Zwalczania Cyberprzestępczości prowadzi się zgodnie z dotychczasową właściwością, zaś od dnia powołania Komendanta Centralnego Biura Zwalczania Cyberprzestępczości odpowiednio we właściwości Centralnego Biura Zwalczania Cyberprzestępczości przed Komendantem Głównym Policji albo przed właściwym komendantem wojewódzkim Policji, albo przed Komendantem Stołecznym Policji, chyba że dalsze prowadzenie tych spraw należy wyłącznie do Komendanta Głównego Policji lub komendy, przy której pomocy wykonuje on swoje zadania.
+1. Sprawy wszczęte i niezakończone Biurze do Walki z Cyberprzestępczością Komendy Głównej Policji albo wydziałach do walki z cyberprzestępczością komend wojewódzkich Policji albo Komendy Stołecznej Policji, albo stosunku do policjantów lub pracowników tych jednostek i komórek organizacyjnych Policji, do czasu powołania Komendanta Centralnego Biura chyba że dalsze prowadzenie tych spraw należy wyłącznie do Komendanta Głównego Policji lub komendy, przy której pomocy wykonuje on swoje zadania.
+
+2. Wszystkie czynności podjęte sprawach, o których mowa ust. 1, pozostają mocy.
 
 3. W sprawach wszczętych i niezakończonych, których Komendant Główny Policji, komendanci wojewódzcy Policji albo Komendant Stołeczny Policji zostali decyzją sądu lub prokuratora zobowiązani lub uprawnieni do dokonania czynności, które zgodnie z przepisami ustawy zmienianej art. 1 przeszły do właściwości Centralnego Biura Zwalczania Cyberprzestępczości, do czasu powołania Komendanta Centralnego Biura Zwalczania Cyberprzestępczości zobowiązania te lub uprawnienia wykonywane są zgodnie z dotychczasową właściwością, zaś od dnia powołania Komendanta Centralnego Biura Zwalczania Cyberprzestępczości, zobowiązania te lub uprawnienia wykonuje Komendant Centralnego Biura Zwalczania Cyberprzestępczości.
 
@@ -317,32 +286,13 @@ o zmianie niektórych ustaw związku z powołaniem Centralnego Biura Zwalczania 
 
 2. Do podania, o którym mowa ust. 1, kandydat do służby Policji dołącza, jeżeli nie zostały złożone, dokumenty potwierdzające spełnienie przez niego wymagań, o których mowa art. 25 ust. 5 ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą.
 
-3. Kandydatowi do służby Policji, o którym mowa ust. 1, uznaje się pozytywne wyniki etapów, o których mowa art. 25 ust. 2 pkt 1, 4, 6 i 7 ustawy zmienianej art. 1 brzmieniu dotychczasowym, uzyskane przez niego postępowaniu kwalifikacyjnym, o którym mowa art. 25 ust. 2 ustawy zmienianej art. 1 brzmieniu dotychczasowym.
+3. Kandydatowi do służby Policji, o którym mowa ust. 1, uznaje się pozytywne wyniki etapów, o których mowa art. 25 ust. 2 pkt 1, 4, 6 i 7 ustawy dotychczasowym, uzyskał pozytywny wynik etapu, o którym mowa art. 25 ust. 2 pkt 5 ustawy zmienianej art. 1 brzmieniu dotychczasowym, ramach postępowania, o którym mowa ust. 1, ponownie przystępuje do tego etapu, szczególności celu potwierdzenia przydatności spełnianych przez niego wymagań pożądanych od kandydatów, o których mowa art. 25 ust. 5 ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą.
 
-4. Kandydat do służby Policji, który postępowaniu kwalifikacyjnym, o którym mowa art. 25 ust. 2 ustawy zmienianej art. 1 brzmieniu dotychczasowym, uzyskał pozytywny wynik etapu, o którym mowa art. 25 ust. 2 pkt 5 ustawy zmienianej art. 1 brzmieniu dotychczasowym, ramach postępowania, o którym mowa ust. 1, ponownie przystępuje do tego etapu, szczególności celu potwierdzenia przydatności spełnianych przez niego wymagań pożądanych od kandydatów, o których mowa art. 25 ust. 5 ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą.
-
-5. Komendant Centralnego Biura Zwalczania Cyberprzestępczości, za zgodą Komendanta Głównego Policji, okresie do 2 lat od dnia wejścia życie niniejszej ustawy może powierzyć komendantom wojewódzkim Policji, Komendantowi Stołecznemu Policji, Komendantowi-Rektorowi Wyższej Szkoły Policji Szczytnie albo komendantom szkół policyjnych, przeprowadzenie poszczególnych etapów postępowania kwalifikacyjnego stosunku do kandydatów do służby Policji, o których mowa art. 25 ust. 2, 5, 12, 13 i 14 ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą, ubiegających się o przyjęcie do służby Centralnym Biurze Zwalczania Cyberprzestępczości, z wyłączeniem sprawdzenia wiedzy i umiejętności z zakresu informatyki, funkcjonowania systemów informatycznych, systemów teleinformatycznych, sieci teleinformatycznych oraz znajomości języka obcego obejmującej te dziedziny.
+5. Komendant Centralnego Biura Zwalczania Cyberprzestępczości, za zgodą Komendanta Głównego Policji, okresie do 2 lat od dnia wejścia życie niniejszej ustawy może powierzyć komendantom wojewódzkim Policji, Komendantowi Stołecznemu Policji, Komendantowi-Rektorowi Akademii Policji Szczytnie albo komendantom szkół policyjnych, przeprowadzenie poszczególnych etapów postępowania kwalifikacyjnego stosunku do kandydatów do służby Policji, o których mowa art. 25 ust. 2, 5, 12, 13 i 14 ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą, ubiegających się o przyjęcie do służby Centralnym Biurze Zwalczania Cyberprzestępczości, z wyłączeniem sprawdzenia wiedzy i umiejętności z zakresu informatyki, funkcjonowania systemów informatycznych, systemów teleinformatycznych, sieci teleinformatycznych oraz znajomości języka obcego obejmującej te dziedziny.
 
 **Art. 18.** Przepisy ustaw zmienianych art. 5, art. 6 oraz art. 11 zakresie pkt 1 i 2, brzmieniu nadanym niniejszą ustawą, stosuje się również sprawach, których wstrzymanie transakcji lub blokada rachunku zostały zastosowane przed dniem wejścia życie tych przepisów.
 
 **Art. 19.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 19 ust. 21 ustawy zmienianej art. 1 zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych na podstawie art. 19 ust. 21 ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 6 miesięcy od dnia wejścia życie niniejszej ustawy.
 
-**Art. 20.**
-
-1. Maksymalny limit wydatków z budżetu państwa na realizację ustawy wynosi 4 430 000 tys. zł, z tego:
-
-- **1)** 2022 r. 117 000 tys. zł;
-- **2)** 2023 r. 264 000 tys. zł;
-- **3)** 2024 r. 527 000 tys. zł;
-- **4)** 2025 r. 765 000 tys. zł;
-- **5)** 2026 r. 434 000 tys. zł;
-- **6)** 2027 r. 444 000 tys. zł;
-- **7)** 2028 r. 454 000 tys. zł;
-- **8)** 2029 r. 464 000 tys. zł;
-- **9)** 2030 r. 475 000 tys. zł;
-- **10)** 2031 r. 486 000 tys. zł. wykorzystania tego limitu według stanu na koniec każdego półrocza i na koniec każdego roku kalendarzowego oraz razie konieczności wdraża mechanizm korygujący określony ust. 3.
-
-3. W przypadku zagrożenia przekroczeniem lub przekroczenia danym roku budżetowym limitu wydatków, o którym mowa ust. 1, Komendant Główny Policji wprowadza mechanizm korygujący polegający na zmniejszeniu wydatków budżetu państwa będących skutkiem finansowym niniejszej ustawy.
-
-**Art. 21.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 21.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia.
 

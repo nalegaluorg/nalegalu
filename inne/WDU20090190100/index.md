@@ -10,7 +10,9 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# Ustawa z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym
+# partnerstwie publiczno-prywatnym
+
+*USTAWA z dnia 19 grudnia 2008 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,117 +26,255 @@ domain: null
 | Ostatnia zmiana | 2026-04-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090190100) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/100/text.pdf) |
 
-Przepisy ogólne
-3) składnik majątkowy nieruchomość, część skła1. 1. Ustawa określa zasady współpracy pod- dową nieruchomości, przedsiębiorstwo wrozumiemiotu publicznego partnera prywatnego ramach niu art. 55 partnerstwa publiczno-prywatnego.
-2. Przedmiotem partnerstwa publiczno-prywatnego jest wspólna realizacja przedsięwzięcia oparta na podziale zadań ryzyk pomiędzy podmiotem publicznym ipartnerem prywatnym.
-2. Użyte wustawie określenia oznaczają:
-1) podmiot publiczny:
-a) jednostkę sektora finansów publicznych rozumieniu przepisów ofinansach publicznych,
-b) inną, niż określona lit. a, osobę prawną, utworzoną szczególnym celu zaspokajania potrzeb charakterze powszechnym niemających charakteru przemysłowego ani handlowego, jeżeli podmioty, których mowa tym przepisie oraz wlit. a, pojedynczo wspólnie, bezpośrednio pośrednio przez inny podmiot: finansują ją wponad 50 % posiadają ponad połowę udziałów albo akcji, sprawują nadzór nad organem zarządzającym, mają prawo do powoływania ponad połowy składu organu nadzorczego zarządzającego,
-c) związki podmiotów, októrych mowa wlit.aib;
-ustawy zdnia 23 kwietnia 1964 Kodeks cywilny (Dz. U. 16, 93, póên.zm. ), rzecz ruchomą oraz prawo majątkowe;
-4) przedsięwzięcie:
-a) budowę remont obiektu budowlanego,
-b) świadczenie usług,
-c) wykonanie dzieła, szczególności wyposażenie składnika majątkowego urządzenia podwyższające jego wartość użyteczność,
-d) inne świadczenie połączone utrzymaniem zarządzaniem składnikiem majątkowym, który jest wykorzystywany do realizacji przedsięwzięcia publiczno-prywatnego jest znim związany;
-5) wkład własny świadczenie podmiotu publicznego partnera prywatnego polegające szczególności na:
-a) poniesieniu części wydatków na realizację przedsięwzięcia, tym sfinansowaniu dopłat do usług świadczonych przez partnera prywatnego wramach przedsięwzięcia,
-b) wniesieniu składnika majątkowego.
-3. Do zadań ministra właściwego do spraw ——————— gospodarki wzakresie ustawy należy wszczególności ——————— Wybór partnera prywatnego
-4. 1. Jeżeli wynagrodzeniem partnera prywatnego jest prawo do pobierania pożytków zprzedmiotu partnerstwa publiczno-prywatnego, albo przede wszystkim to prawo wraz zapłatą sumy pieniężnej, wyboru partnera prywatnego dokonuje się stosując przepisy ustawy dnia 9 stycznia 2009 koncesjach na roboty budowlane usługi (Dz. U. 19, 101), zuwzględnieniem przepisów niniejszej ustawy.
-2. W przypadkach innych niż określone ust. 1, wyboru partnera prywatnego dokonuje się stosując przepisy ustawy zdnia 29 stycznia 2004 Prawo zamówień publicznych (Dz. U. z2007 223, 1655 oraz 2008 171, 1058, 220, 1420 227, 1505), uwzględnieniem przepisów niniejszej ustawy.
-5. Podmiot publiczny, po zamieszczeniu ogłoszenia wBiuletynie Zamówień Publicznych albo opublikowaniu ogłoszenia Dzienniku Urzędowym Unii Europejskiej, których mowa ustawach wymienionych art. 4, dodatkowo zamieszcza Biuletynie Informacji Publicznej informację oplanowanym partnerstwie publiczno-prywatnym.
-6. 1. Najkorzystniejszą jest oferta, która przedstawia najkorzystniejszy bilans wynagrodzenia innych kryteriów odnoszących się do przedsięwzięcia.
-2. Kryteriami oceny ofert są:
-1) podział zadań ryzyk związanych przedsięwzięciem pomiędzy podmiotem publicznym partnerem prywatnym;
-2) terminy iwysokość przewidywanych płatności innych świadczeń podmiotu publicznego, jeżeli są one planowane.
-3. Kryteriami oceny ofert mogą być również wszczególności:
-1) podział dochodów pochodzących przedsięwzięcia pomiędzy podmiotem publicznym ipartnerem prywatnym;
-2) stosunek wkładu własnego podmiotu publicznego do wkładu partnera prywatnego;
-3) efektywność realizacji przedsięwzięcia, tym -prywatnym partner prywatny zobowiązuje się do realizacji przedsięwzięcia za wynagrodzeniem oraz poniesienia całości albo części wydatków na jego realizację poniesienia ich przez osobę trzecią, apodmiot publiczny zobowiązuje się do współdziałania wosiągnięciu celu przedsięwzięcia, wszczególności poprzez wniesienie wkładu własnego.
-2. Wynagrodzenie partnera prywatnego zależy przede wszystkim od rzeczywistego wykorzystania faktycznej dostępności przedmiotu partnerstwa publiczno-prywatnego.
-3. Umowa partnerstwie publiczno-prywatnym określa skutki nienależytego wykonania niewykonania zobowiązania, szczególności kary umowne obniżenie wynagrodzenia partnera prywatnego spółki, októrej mowa wart. 14 ust. 1.
-8. Podmiot publiczny ma prawo do bieżącej kontroli realizacji przedsięwzięcia przez partnera prywatnego. Zasady iszczegółowy tryb przeprowadzania kontroli określa umowa opartnerstwie publiczno-prywatnym.
-9. 1. Wniesienie wkładu własnego postaci składnika majątkowego może nastąpić szczególności drodze sprzedaży, użyczenia, użytkowania, najmu albo dzierżawy.
-2. Jeżeli składnik majątkowy wniesiony przez podmiot publiczny jest wykorzystywany przez partnera prywatnego sposób oczywiście sprzeczny jego przeznaczeniem określonym umowie partnerstwie publiczno-prywatnym, partner prywatny jest zobowiązany przekazać ten składnik podmiotowi publicznemu na zasadach określonych umowie opartnerstwie publiczno-prywatnym.
-3. Jeżeli składnik majątkowy był własnością partnera prywatnego, partnerowi prywatnemu przysługuje zwrot wartości składnika majątkowego według stanu chwili przekazania. W innym przypadku, partner prywatny może żądać zwrotu nakładów koniecznych tyle, ile nie mają pokrycia korzyściach, które uzyskał ze składnika majątkowego. Zwrotu innych nakładów może żądać tyle, ile zwiększają wartość składnika wchwili przekazania podmiotowi publicznemu. Jednakże gdy nakłady zostały dokonane po chwili, wktórej podmiot publiczny na piśmie zażądał przekazania dowiedział się wytoczeniu przeciwko niemu powództwa przekazanie, może on żądać zwrotu jedynie nakładów koniecznych.
-nego podmiot publiczny zlecił wykonywanie zadań zzakresu partnerstwa publiczno-prywatnego wtrybie art. 67 ust. 1 ustawy dnia 29 stycznia 2004 Prawo zamówień publicznych, umowa ta obowiązuje do czasu rozpoczęcia wykonywania umowy partnerstwie publiczno-prywatnym.
-11. 1. Po zakończeniu czasu trwania umowy partnerstwie publiczno-prywatnym partner prywatny spółka, której mowa art. 14 ust. 1, przekazuje podmiotowi publicznemu składnik majątkowy, który był wykorzystywany do realizacji przedsięwzięcia, wstanie niepogorszonym, zuwzględnieniem jego zużycia wskutek prawidłowego używania, chyba że umowa opartnerstwie publiczno-prywatnym stanowi inaczej.
-2. Umowa partnerstwie publiczno-prywatnym może stanowić, że przekazanie składnika majątkowego nastąpi na rzecz państwowej samorządowej osoby prawnej spółki handlowej co najmniej większościowym udziałem jednostki samorządu terytorialnego albo Skarbu Państwa. Przepis art. 9 ust. 3 stosuje się odpowiednio.
-3. Roszczenie podmiotu publicznego przeciwko partnerowi prywatnemu spółce, której mowa wart. 14 ust. 1, oprzekazanie składnika majątkowego przedawnia się upływem lat dziesięciu od dnia zakończenia czasu trwania umowy partnerstwie publiczno-prywatnym.
-12. 1. W razie sprzedaży przez podmiot publiczny albo spółkę, októrej mowa wart. 14 ust. 1, nieruchomości będącej wkładem własnym, partnerowi prywatnemu przysługuje prawo pierwokupu, które może być wykonane wciągu dwóch miesięcy od dnia zawiadomienia go treści umowy zawartej osobą trzecią, chyba że umowa partnerstwie publiczno-prywatnym przewiduje dłuższy termin.
-2. Prawo pierwokupu, na warunkach określonych ust. 1, przysługuje także ostatniemu partnerowi prywatnemu przez rok od zakończenia czasu trwania umowy partnerstwie publiczno-prywatnym, chyba że:
-1) wprawomocnym orzeczeniu sądu stwierdzono jego odpowiedzialność za nienależyte wykonanie zobowiązania umowy partnerstwie publiczno-prywatnym
-2) podmiot publiczny zawarł umowę partnerstwie wstosunku do treści oferty na podstawie której dokonano wyboru partnera prywatnego, chyba że konieczność wprowadzenia takich zmian wynika okoliczności, których nie można było przewidzieć chwili zawarcia umowy.
-2. Zmiana umowy dokonana naruszeniem ust.1jest nieważna.
-14. 1. Umowa partnerstwie publiczno-prywatnym może przewidywać, że celu jej wykonania podmiot publiczny ipartner prywatny zawiążą spółkę kapitałową, spółkę komandytową komandytowo-akcyjną. Podmiot publiczny nie może być komplementariuszem.
-2. Cel iprzedmiot działalności spółki nie może wykraczać poza zakres określony umową partnerstwie publiczno-prywatnym.
-3. Prawa należących do Skarbu Państwa udziałów akcji spółce wykonuje organ administracji rządowej, który zawiązał spółkę jako podmiot publiczny.
-15.Zgody wszystkich wspólników albo akcjonariuszy spółki wymaga zbycie obciążenie:
-1) nieruchomości;
-2) przedsiębiorstwa rozumieniu art. 55 ustawy zdnia 23 kwietnia 1964 Kodeks cywilny.
-16. 1. Podmiotowi publicznemu przysługuje prawo pierwokupu akcji albo udziałów partnera prywatnego współce.
-2. Podmiot publiczny może wykonać prawo pierwokupu ciągu dwóch miesięcy od dnia zawiadomienia go przez partnera prywatnego otreści umowy zawartej osobą trzecią, chyba że umowa partnerstwie publiczno-prywatnym przewiduje dłuższy termin.
-3. Zbycie przez partnera prywatnego akcji albo udziałów znaruszeniem ust. 1lub 2jest nieważne.
-2. Zgody, której mowa ust. 1, udziela się na wniosek podmiotu publicznego zawierający:
-1) określenie podmiotu publicznego;
-2) określenie planowanego przedsięwzięcia;
-3) przewidywaną wysokość środków budżetu państwa przeznaczonych poszczególnych okresach budżetowych na realizację przedsięwzięcia.
-3. Minister właściwy do spraw finansów publicznych wydaje zgodę albo odmawia wydania zgody terminie 6 tygodni od dnia otrzymania wniosku.
-Zgoda odmowa zgody nie są decyzją administracyjną.
-4. Podmiot publiczny może złożyć kolejny wniosek wydanie zgody, której mowa ust. 1, na realizację tego samego przedsięwzięcia wprzypadku zmiany danych określonych ust. 2 pkt 3. Do ponownego wniosku ust. 3stosuje się.
-19. W ustawie dnia 21 marca 1985 drogach publicznych (Dz. U. 2007 19, 115, zpóên. zm. ) wprowadza się następujące zmiany:
-1) wart. 13a pkt 3otrzymuje Ń3) na zasadach określonych ustawie dnia grudnia 2008 partnerstwie publiczno-prywatnym (Dz. U. 2009 19, 100).”;
-2) art. 13h otrzymuje ŃArt. 13h. W przypadku zawarcia umowy partnerstwie publiczno-prywatnym opłaty, których mowa art. 13 ust. 1 pkt 1, art. 13 ust. 2, oraz opłatę dodatkową, której mowa art. 13f ust. 1, może pobierać partner prywatny.”;
-3) wart. 22 uchyla się ust. 2b.
-2008r. partnerstwie publiczno-prywatnym (Dz. U. 2009 19, 100),”;
-2) wart. 21 wust. 1pkt 122 otrzymuje Ń122) wkład własny podmiotu publicznego, októrym mowa art. 2 pkt 5 ustawy partnerstwie publiczno-prywatnym, otrzymany przez partnera prywatnego przeznaczony na cele określone wumowie opartnerstwie publiczno-prywatnym, zastrzeżeniem ust.19,”;
-3) wart. 22 ust. 1j otrzymuje Ń1j. Dla partnera prywatnego określonego umowie partnerstwie publiczno-prywatnym, rozumieniu ustawy partnerstwie publiczno-prywatnym, przypadku nieodpłatnego przeniesienia na rzecz podmiotu publicznego innego podmiotu, którym mowa art. 11 ust. 2 tej ustawy, własności środków trwałych wartości niematerialnych iprawnych wterminie określonym wtej umowie, kosztem uzyskania przychodu jest wartość początkowa tych środków trwałych wartości niematerialnych prawnych, pomniejszona sumę odpisów amortyzacyjnych, októrych mowa wart. 22h ust. 1pkt 1.”.
-——————— nej.”.
-22. W ustawie dnia paêdziernika 1991 gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. 2007 231, 1700 oraz 2008 227, 1505) art.24 ust. 5b otrzymuje Ń5b. Nieruchomości wchodzące skład Zasobu Agencja może, drodze umowy, nieodpłatnie przekazać na własność podmiotom, których mowa art. 2 pkt 1 ustawy dnia grudnia 2008 partnerstwie publiczno-prywatnym (Dz. U. 2009 19, 100), zwyłączeniem organów administracji rządowej wcelu przekazania ich jako wkładu podmiotu publicznego na podstawie umowy opartnerstwie publiczno-prywatnym.”.
-23.Wustawie zdnia 15 lutego 1992 opodatku dochodowym od osób prawnych (Dz. U. 2000 54, 654, zpóên. zm.
-przedmiotem są środki trwałe wartości niematerialne prawne, których mowa art. 16a—16c, wniesiony przez podmiot publiczny, którym mowa ustawie partnerstwie publiczno-prywatnym, do spółki, októrej mowa wart. 14 ust. 1tej ustawy,”;
-3) art. 15:
-a) wust. 1k pkt 1a otrzymuje Ń1a) wartości początkowej składnika majątkowego, którym mowa art. 2 pkt 3 ustawy opartnerstwie publiczno-prywatnym, będącego przedmiotem wkładu własnego, októrym mowa art. 2 pkt 5 tej ustawy, zaktualizowanej zgodnie odrębnymi przepisami, pomniejszonej odokonaną przed wniesieniem tego wkładu sumę odpisów amortyzacyjnych, których mowa art. 16h ust. 1 pkt 1, a przypadku wniesienia gruntów prawa wieczystego użytkowa) wprowadza się następu- nia gruntów wartości równej wydatkom poniesionym na ich nabycie;”, jące zmiany:
-b) ust. 1r otrzymuje
-1) wart. 4a pkt 8otrzymuje Ń1r. Dla partnera prywatnego spółki, któŃ8) ustawie partnerstwie publiczno-prywatnym rej mowa wart. 14 ust. 1ustawy opartneroznacza to ustawę zdnia grudnia 2008 stwie publiczno-prywatnym, określonych partnerstwie publiczno-prywatnym (Dz. U. umowie partnerstwie publiczno-pryz2009 19, 100),”; watnym, przypadku nieodpłatnego przeniesienia na rzecz podmiotu publicznego
-2) wart. 12 wust. 4pkt 18 i19 otrzymują innego podmiotu, którym mowa Ń18) wartości nieodpłatnie otrzymanych rzeczy art. 11 ust. 2 tej ustawy, własności środpraw, będących przedmiotem umowy ków trwałych wartości niematerialnych opartnerstwie publiczno-prywatnym, przeka- prawnych terminie określonym tej zanych podmiotowi publicznemu innemu umowie, kosztem uzyskania przychodu jest podmiotowi, którym mowa art. 11 wartość początkowa tych środków trwałych wartości niematerialnych prawnych, pomniejszona sumę odpisów amortyzacyjnych, których mowa art. 16h ust. 1 pkt 1.”;
-4) wart. 17 wust. 1pkt 42 otrzymuje Ń42) wkład własny, którym mowa art. 2 pkt5 ustawy partnerstwie publiczno-prywatnym, otrzymany przez partnera prywatnego spółkę, której mowa art. 14 ust.1 tej ustawy, przeznaczony na cele określone umowie partnerstwie publiczno-prywatnym, zzastrzeżeniem ust. 7,”.
-24. W ustawie dnia 20 grudnia 1996 gospodarce komunalnej (Dz. U. 1997 9, 43, póên. zm. ) art. 9 dotychczasową treść ——————— gospodarce nieruchomościami (Dz. U. 2004 261, 2603, póên. zm. ) wprowadza się następujące zmiany:
-1) wart. 13 ust. 1a otrzymuje Ń1a. Nieruchomość może być także przekazywana nieodpłatnie drodze umowy partnerowi prywatnemu spółce, której mowa art.14 ust. 1 ustawy dnia grudnia 2008r. partnerstwie publiczno-prywatnym (Dz. U. 2009 19, 100), na czas realizacji przedsięwzięcia ramach partnerstwa publiczno-prywatnego.”;
-2) wart. 37 wust. 2pkt 11 otrzymuje Ń11) jest sprzedawana partnerowi prywatnemu spółce, której mowa art. 14 ust.1 ustawy dnia grudnia 2008 partnerstwie publiczno-prywatnym, jeżeli sprzedaż stanowi wniesienie wkładu własnego podmiotu publicznego;”;
-3) wart. 68a ust. 1—3otrzymują Ń1. Właściwy organ może udzielić za zgodą, odpowiednio wojewody albo rady sejmiku, bonifikaty od ceny ustalonej zgodnie art. 67 ust.3, jeżeli nieruchomość jest sprzedawana partnerowi prywatnemu spółce, której mowa art. 14 ust. 1 ustawy dnia grudnia 2008 partnerstwie publiczno-prywatnym, jeżeli sprzedaż stanowi wniesienie wkładu własnego podmiotu publicznego.
-2. Sprzedaż nieruchomości na zasadach określonych wust. 1następuje zzastrzeżeniem prawa odkupu. Wykonanie prawa odkupu następuje najpóêniej wterminie 6miesięcy od zakończenia czasu trwania umowy partnerstwie publiczno-prywatnym.
-3. Z chwilą wykonania prawa odkupu partner prywatny spółka, której mowa art. 14 ust. 1 ustawy dnia grudnia 2008 partnerstwie publiczno-prywatnym, jest obowiązany przenieść na rzecz podmiotu publicznego własność nieruchomości za zwrotem ceny ustalonej zgodnie ust. 1 po uwzględnieniu jej waloryzacji.”;
-4) wart. 109 wust. 3dodaje się pkt 7wbrzmieniu: Ń7) prawo pierwokupu przysługuje partnerowi prywatnemu ostatniemu partnerowi prywatnemu przypadkach, których mowa wustawie zdnia grudnia 2008 opartnerstwie publiczno-prywatnym.”.
-środowiska gospodarki wodnej realizowanych na zasadach określonych ustawie dnia grudnia 2008 partnerstwie publiczno-prywatnym (Dz. U. 2009 19, 100).”.
-27.Wustawie zdnia 28 marca 2003 otransporcie kolejowym (Dz. U. 2007 16, 94, zpóên. zm. ) art. 5a otrzymuje ŃArt. 5a. Do zadań zakresu zarządzania infrastrukturą kolejową oznaczeniu obronnym, przepisów ustawy dnia grudnia 2008 partnerstwie publiczno-prywatnym (Dz.U. z2009 19, 100) nie stosuje się.”.
-28. W ustawie dnia 24 kwietnia 2003 działalności pożytku publicznego wolontariacie (Dz. U. 96, 873, póên. zm. ) art. 11 ust.5otrzymuje Ń5. Wspieranie oraz powierzanie zadań, których mowa ust. 1, może nastąpić na zasadach iwtrybie ustawy zdnia grudnia 2008 opartnerstwie publiczno-prywatnym (Dz. U. 2009 19, poz.100).”.
-29.Wustawie zdnia 11 marca 2004 oAgencji Rynku Rolnego iorganizacji niektórych rynków rolnych (Dz. U. 2007 231, 1702 oraz 2008 227, 1505) art. 11a otrzymuje ŃArt. 11a. Agencja nie może realizować zadań na zasadach określonych ustawie dnia grudnia 2008 partnerstwie publiczno-prywatnym (Dz. U. 2009 19,
-100), wyłączeniem inwestycji służących przechowywaniu produktów rolnych iżywnościowych.”.
-30. W ustawie dnia 30 czerwca 2005 finansach publicznych (Dz. U. 249, 2104, zpóên. zm. ) wart. 37 ust. 2i3otrzymują ———————
-2) objęcia akcji iudziałów współce, októrej mowa art. 14 ust. 1 ustawy dnia grudnia 2008 partnerstwie publiczno-prywatnym (Dz. U. 2009 19, 100).
-3. Jednostka sektora finansów publicznych zbywa porozumieniu ministrem właściwym do spraw Skarbu Państwa akcje, udziały obligacje, przeznaczone na cele określone ust. 2 pkt 1, wokresie 3lat od ich nabycia.”.
-31. W ustawie dnia 16 grudnia 2005 finansowaniu infrastruktury transportu lądowego (Dz.U. 267, 2251 oraz z2007 23, 136) wart. 3ust. 5otrzymuje Ń5. Budowa, przebudowa, remont, utrzymanie iochrona dróg publicznych mogą być realizowawzięć Euro 2012 na zasadach określonych ustawie dnia grudnia 2008 partnerstwie publiczno-prywatnym (Dz. U. 2009 19, poz.100).”.
-35.Wustawie zdnia 7września 2007 owykonywaniu kary pozbawienia wolności poza zakładem karnym systemie dozoru elektronicznego (Dz. U.
-z2008 172, 1069) wprowadza się następujące zmiany:
-1) wart. 3ust. 2otrzymuje Ń2. Wspieranie oraz powierzanie czynności, októrych mowa ust. 1, może nastąpić na zasadach trybie ustawy dnia grudnia 2008r. partnerstwie publiczno-prywatnym (Dz. U. 2009 19, 100), zwanej dalej Ńustawą partnerstwie publiczno-prywatne przy udziale środków rzeczowych pienięż- nym”. Umowa wspieranie powierzenie nych świadczonych przez osoby fizyczne osoby zadania publicznego może być zawarta na czas prawne, krajowe zagraniczne oraz jednostki or- realizacji zadania na czas określony.”;
-ganizacyjne nieposiadające osobowości prawnej, wtym wramach partnerstwa publiczno-pry- 2) wart. 4ust. 2otrzymuje watnego.”. Ń2. Wyboru upoważnionego podmiotu dozorującego dokonuje Minister Sprawiedliwości
-32.Wustawie zdnia 6grudnia 2006 ozasa- wtrybie określonym wustawie opartnerstwie dach prowadzenia polityki rozwoju (Dz. U. 227, publiczno-prywatnym wtrybie określonym 1658, 2007 140, 984 oraz 2008 wprzepisach wydanych na podstawie ust. 3.”.
-216, 1370) art. 28 dodaje się ust. 9 wbrzmieniu: Rozdział 7 Ń9. W ramach programu operacyjnego dofinanso- Przepisy przejściowe iprzepis końcowy wane mogą być także projekty, których mowa 36. 1. Do spraw wszczętych iniezakończonych ust. 1, realizowane formie partnerstwa przed dniem wejścia życie niniejszej ustawy stosupubliczno-prywatnego, na podstawie ustawy je się przepisy dotychczasowe.
-dnia grudnia 2008 partnerstwie publiczno-prywatnym (Dz. U. 2009 19, 100).”. 2. Czynności dokonane przed dniem wejścia wżycie niniejszej ustawy na podstawie przepisów dotych33. W ustawie dnia 8 grudnia 2006 Pol- czasowych pozostają wmocy.
-skiej Agencji ˚eglugi Powietrznej (Dz. U. 249, poz.1829) wart. 4ust. 6otrzymuje 37. Traci moc ustawa dnia 28 lipca 2005 Ń6. Agencja może realizować zadanie polegające na zapewnianiu służby ruchu lotniczego na zasadach określonych ustawie dnia grudnia 2008 partnerstwie publiczno-prywatnym (Dz. U.
-2009 19, 100), po uzyskaniu zgody ministra właściwego do spraw transportu.”.
-partnerstwie publiczno-prywatnym (Dz. U. 169, 1420 oraz z2008 171, 1058).
-38.Ustawa wchodzi wżycie po upływie 21 dni od dnia ogłoszenia.
-Prezydent Rzeczypospolitej Polskiej: L. Kaczyński
+Art. 19–35. (pominięte)
+2. Czynności dokonane przed dniem wejścia w życie niniejszej ustawy na podstawie przepisów dotychczasowych pozostają w mocy.
 
-#### Rozdział 1 2) partner prywatny przedsiębiorcę przedsiębiorcę zagranicznego;
+#### Rozdział 1 Przepisy ogólne
 
-#### Rozdział 4 Partnerstwo publiczno-prywatne wformie spółki
+**Art. 1.**
 
-#### Rozdział 5 Nr227, 1658, 2007 140, 984 oraz z2008 216, 1370). Udzielając zgody minister właściwy do spraw finansów publicznych uwzględnia wpływ planowanych wydatków zbudżetu państwa na bezpieczeństwo finansów publicznych.
+1. Ustawa określa zasady współpracy podmiotu publicznego i partnera prywatnego w ramach partnerstwa publiczno-prywatnego oraz organ właściwy w sprawach partnerstwa publiczno-prywatnego uregulowanych w ustawie.
 
-#### Rozdział 6 Zmiany wprzepisach obowiązujących
+2. Partnerstwo publiczno-prywatne polega na wspólnej realizacji przedsięwzięcia opartej na podziale zadań i ryzyk pomiędzy podmiotem publicznym i partnerem prywatnym.
+
+**Art. 2.** Użyte w ustawie określenia oznaczają:
+
+**Art. 3.** (uchylony)
+
+#### Rozdział 1a Ocena efektywności realizacji przedsięwzięcia
+
+**Art. 3a.**
+
+1. Przed wszczęciem postępowania w sprawie wyboru partnera prywatnego podmiot publiczny sporządza ocenę efektywności realizacji przedsięwzięcia w ramach partnerstwa publiczno-prywatnego w porównaniu do efektywności jego realizacji w inny sposób, w szczególności przy wykorzystaniu wyłącznie środków publicznych.
+
+2. Dokonując oceny, której mowa w ust. 1, podmiot publiczny uwzględnia w szczególności zakładany podział zadań i ryzyk pomiędzy podmiot publiczny rozwoju regionalnego z wnioskiem opinię na temat zasadności realizacji przedsięwzięcia w ramach partnerstwa publiczno-prywatnego.
+
+2. Do wniosku, którym mowa w ust. 1, dołącza się ocenę, której mowa w art. 3a ust. 1.
+
+3. Minister właściwy do spraw rozwoju regionalnego opiniuje przedłożoną dokumentację w zakresie poprawności i kompletności przeprowadzonych analiz poprzedzających realizację przedsięwzięcia, przyjętego modelu prawno-organizacyjnego, mechanizmów wynagradzania partnera prywatnego, w tym wysokości opłat pobieranych od użytkowników, jeżeli takie opłaty są planowane, oraz warunków ich zmiany, oraz proponowanego podziału ryzyk w przedsięwzięciu w terminie 60 dni od dnia otrzymania kompletnego wniosku, którym mowa w ust. 1.
+
+4. Minister właściwy do spraw rozwoju regionalnego może, wyznaczając odpowiedni termin, zwrócić się do podmiotu publicznego poprawienie, wyjaśnienie lub uzupełnienie wniosku, którym mowa w ust. 1.
+
+5. Opinii, której mowa w ust. 1, nie ujawnia się osobom trzecim do chwili zawarcia umowy partnerstwie publiczno-prywatnym, umowy koncesji na roboty budowlane lub usługi lub umowy w sprawie zamówienia publicznego albo zakończenia postępowania w inny sposób w zakresie inwestycji, będącej przedmiotem tej opinii. W przypadku gdy mimo wydania opinii, której mowa w ust. 1, nie wszczęto postępowania w sprawie wyboru partnera prywatnego, opinia może zostać ujawniona nie wcześniej niż po upływie 2 lat od dnia jej wydania.
+
+6. Minister właściwy do spraw rozwoju regionalnego nie ujawnia informacji pozyskanych w związku z wydaniem opinii, której mowa w ust. 1, jeżeli groziłoby to ujawnieniem tajemnicy przedsiębiorstwa, jak również innych tajemnic ustawowo chronionych.
+
+#### Rozdział 2 Wybór partnera prywatnego
+
+**Art. 4.**
+
+1. Do wyboru partnera prywatnego i umowy partnerstwie publiczno-prywatnym stosuje się przepisy ustawy z dnia 11 września 2019 r. – Prawo budowlane lub usługi (Dz. U. z 2023 r. poz. 140), do wyboru partnera prywatnego i umowy partnerstwie publiczno-prywatnym stosuje się przepisy tej ustawy albo ustawy, której mowa w ust. 1, w zakresie nieuregulowanym w niniejszej ustawie. W przypadku zastosowania do wyboru partnera prywatnego ustawy, której mowa w ust. 1, zastosowanie mają przepisy art. 6 oraz art. 45 ustawy z dnia 21 października 2016 r. umowie koncesji na roboty budowlane lub usługi.
+
+3. W przypadkach, w których nie ma zastosowania ustawa z dnia 21 października 2016 r. umowie koncesji na roboty budowlane lub usługi ani ustawa z dnia 11 września 2019 r. – Prawo zamówień publicznych, wyboru partnera prywatnego dokonuje się w sposób gwarantujący zachowanie uczciwej i wolnej konkurencji oraz przestrzeganie zasad równego traktowania, przejrzystości i proporcjonalności, przy odpowiednim uwzględnieniu przepisów niniejszej ustawy, a w przypadku wniesienia przez podmiot publiczny wkładu własnego będącego nieruchomością, także przepisów ustawy z dnia 21 sierpnia 1997 r. gospodarce nieruchomościami (Dz. U. z 2023 r. poz. 344 i 1113).
+
+**Art. 5.**
+
+1. Podmiot publiczny, po zamieszczeniu ogłoszenia w Biuletynie Zamówień Publicznych albo opublikowaniu ogłoszenia w Dzienniku Urzędowym Unii Europejskiej, których mowa w ustawach wymienionych w art. 4, dodatkowo zamieszcza w Biuletynie Informacji Publicznej informację planowanym partnerstwie publiczno-prywatnym.
+
+2. W ogłoszeniu wszczynającym postępowanie w sprawie wyboru partnera prywatnego zamieszcza się informację, że postępowanie ma na celu zawarcie umowy partnerstwie publiczno-prywatnym.
+
+**Art. 6.**
+
+1. Najkorzystniejszą jest oferta, która przedstawia najkorzystniejszy bilans wynagrodzenia partnera prywatnego albo spółki, której mowa w art. 14 ust. 1 albo 1a, lub kosztu przedsięwzięcia ponoszonego przez podmiot publiczny i innych kryteriów odnoszących się do przedsięwzięcia.
+
+2. (uchylony)
+
+3. Kryteriami oceny ofert mogą być w szczególności: prywatnego;
+
+- **3)** efektywność realizacji przedsięwzięcia, w tym efektywność wykorzystania składników majątkowych;
+- **4)** kryteria odnoszące się bezpośrednio do przedmiotu przedsięwzięcia, w szczególności jakość, funkcjonalność, parametry techniczne, poziom oferowanych technologii, koszt utrzymania, serwis;
+- **5)** podział zadań i ryzyk związanych z przedsięwzięciem pomiędzy podmiotem publicznym i partnerem prywatnym;
+- **6)** terminy i wysokość przewidywanych płatności lub innych świadczeń podmiotu publicznego, jeżeli są one planowane.
+
+#### Rozdział 3 Umowa partnerstwie publiczno-prywatnym oraz realizacja partnerstwa publiczno-prywatnego
+
+**Art. 7.**
+
+1. Przez umowę partnerstwie publiczno-prywatnym partner prywatny zobowiązuje się do realizacji przedsięwzięcia za wynagrodzeniem oraz poniesienia w całości albo w części wydatków na jego realizację lub poniesienia ich przez osobę trzecią, a podmiot publiczny zobowiązuje się do współdziałania w osiągnięciu celu przedsięwzięcia, w szczególności poprzez wniesienie wkładu własnego.
+
+2. Wynagrodzenie partnera prywatnego zależy przede wszystkim od rzeczywistego wykorzystania lub faktycznej dostępności przedmiotu przedsięwzięcia.
+
+2a. Umowa partnerstwie publiczno-prywatnym może wyodrębniać w ramach wynagrodzenia partnera prywatnego wysokość płatności ponoszonych przez podmiot publiczny na finansowanie wytworzenia, nabycia lub ulepszenia środków trwałych albo nabycia wartości niematerialnych i prawnych w ramach realizacji przedsięwzięcia, spełniających przesłanki wydatków majątkowych w rozumieniu art. 124 ust. 6 albo art. 236 ust. 4 ustawy z dnia 27 sierpnia 2009 r. finansach publicznych (Dz. U. z 2025 r. poz. 1483, 1844 i 1846 oraz z 2026 r. poz. 426).
+
+3. Umowa partnerstwie publiczno-prywatnym określa skutki nienależytego wykonania i niewykonania zobowiązania, w szczególności kary umowne lub 11 września 2019 r. – Prawo zamówień publicznych nie stosuje się.
+
+4. Do odpowiedzialności za wykonanie umowy partnerstwie publiczno-prywatnym i zabezpieczenia należytego wykonania umowy przepisów art. 445 ust. 1, art. 452 i art. 453 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych nie stosuje się.
+
+5. Jeżeli jest planowane pobieranie opłat od użytkowników przedsięwzięcia przez partnera prywatnego, umowa partnerstwie publiczno-prywatnym określa maksymalną wysokość tych opłat oraz warunki ich zmiany.
+
+6. Po zawarciu umowy partnerstwie publiczno-prywatnym maksymalna wysokość opłat, których mowa w ust. 5, może być zmieniona wyłącznie w formie aneksu do umowy, chyba że wysokość opłat i warunki ich zmiany są regulowane w innych przepisach.
+
+**Art. 7a.**
+
+1. Podmiot publiczny może wyrazić zgodę na zawarcie i wykonanie umowy partnerstwie publiczno-prywatnym z zawiązaną po wyborze najkorzystniejszej oferty w celu realizacji przedsięwzięcia jednoosobową spółką partnera prywatnego albo spółką kapitałową, której jedynymi wspólnikami są partnerzy prywatni. Przepisy ustawy oraz przepisy odrębne dotyczące partnera prywatnego, z wyjątkiem ust. 4 i art. 7b ust. 3 ustawy oraz art. 778 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm. ), z chwilą zawarcia umowy partnerstwie publiczno-prywatnym, stosuje się do spółki, której mowa w zdaniu pierwszym.
+
+2. Warunki zgody podmiot publiczny określa w pierwszym dokumencie, który udostępnia w postępowaniu zawarcie umowy partnerstwie publiczno-prywatnym, w szczególności w dokumentach zamówienia, dokumentach koncesji albo innej dokumentacji postępowania w sprawie wyboru partnera prywatnego. solidarnie ze spółką, której mowa w tym przepisie, za szkodę wyrządzoną podmiotowi publicznemu w skutek nieudostępnienia spółce zasobów, które wskazał w ofercie, chyba że za nieudostępnienie tych zasobów nie ponosi winy.
+
+5. Jeżeli partner prywatny, w toku postępowania w sprawie wyboru partnera prywatnego, polegał na zdolnościach technicznych lub zawodowych lub sytuacji finansowej lub ekonomicznej innych podmiotów, podmioty te odpowiadają za szkodę wyrządzoną podmiotowi publicznemu przez nieudostępnienie tych zasobów spółce, której mowa w ust. 1, na zasadach określonych w art. 120 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych albo art. 36 ust. 3 ustawy z dnia 21 października 2016 r. umowie koncesji na roboty budowlane lub usługi.
+
+**Art. 7b.**
+
+1. Przepisów ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny dotyczących odpowiedzialności inwestora za wynagrodzenie należne podwykonawcy nie stosuje się do podmiotu publicznego, jeżeli umowa partnerstwie publiczno-prywatnym tak stanowi. W przypadku gdy podmiot publiczny jest inwestorem, a nie stosuje się do niego przepisów, których mowa w zdaniu pierwszym, partner prywatny informuje tym podwykonawcę przed zawarciem z nim umowy.
+
+2. Jeżeli umowa partnerstwie publiczno-prywatnym wyłącza odpowiedzialność podmiotu publicznego za wynagrodzenie należne podwykonawcy, gdy według zasad ogólnych podmiot publiczny ponosiłby taką odpowiedzialność, za wynagrodzenie należne podwykonawcy, jak inwestor, odpowiada:
+
+- **1)** spółka, której mowa w art. 14 ust. 1 albo 1a, albo
+- **2)** partner prywatny, jeżeli przedsięwzięcie jest realizowane przez partnera prywatnego albo spółkę, której mowa w art. 7a ust. 1.
+
+3. Jeżeli egzekucja wynagrodzenia należnego podwykonawcy przeciwko spółce, której mowa w art. 7a ust. 1, okaże się bezskuteczna, podwykonawca może prowadzić egzekucję z majątku partnera prywatnego. Podwykonawca może wnieść powództwo przeciwko partnerowi prywatnemu, zanim egzekucja z majątku spółki okaże się bezskuteczna. publiczno-prywatnym.
+
+2. W przypadku gdy prowadzona kontrola wykaże, iż składnik majątkowy wykorzystywany przez partnera prywatnego do realizacji przedsięwzięcia znajduje się w stanie technicznym wskazującym na jego nieprawidłowe wykorzystywanie, podmiot publiczny wzywa partnera prywatnego do podjęcia odpowiednich działań, w szczególności do poczynienia nakładów mających na celu doprowadzenie składnika majątkowego do właściwego stanu technicznego. Umowa partnerstwie publiczno-prywatnym określa skutki niepodjęcia działań mających na celu doprowadzenie składnika majątkowego do właściwego stanu technicznego.
+
+3. Partner prywatny ma obowiązek bieżącego raportowania podmiotowi publicznemu stanie realizacji przedsięwzięcia i stanie technicznym składnika majątkowego wykorzystywanego przez partnera prywatnego do realizacji przedsięwzięcia. Zasady, szczegółowy tryb oraz częstotliwość raportowania określa umowa partnerstwie publiczno-prywatnym.
+
+**Art. 9.**
+
+1. Wniesienie wkładu własnego w postaci składnika majątkowego może nastąpić w szczególności w drodze sprzedaży, użyczenia, użytkowania, najmu albo dzierżawy.
+
+2. Jeżeli składnik majątkowy wniesiony przez podmiot publiczny jest wykorzystywany przez partnera prywatnego w sposób oczywiście sprzeczny z jego przeznaczeniem określonym w umowie partnerstwie publiczno-prywatnym, partner prywatny jest zobowiązany przekazać ten składnik podmiotowi publicznemu na zasadach określonych w umowie partnerstwie publiczno-prywatnym.
+
+3. Jeżeli składnik majątkowy był własnością partnera prywatnego, partnerowi prywatnemu przysługuje zwrot wartości składnika majątkowego według stanu z chwili przekazania. W innym przypadku, partner prywatny może żądać zwrotu nakładów koniecznych tyle, ile nie mają pokrycia w korzyściach, które uzyskał ze składnika majątkowego. Zwrotu innych nakładów może żądać tyle, ile zwiększają wartość składnika w chwili przekazania podmiotowi publicznemu. Jednakże gdy nakłady zostały dokonane po chwili, w której podmiot publiczny na piśmie zażądał wykorzystania niezgodnie z przeznaczeniem dokonuje się na zasadach określonych w umowie spółki albo statucie spółki.
+
+**Art. 10.**
+
+1. Podmiot publiczny niezwłocznie po rozwiązaniu umowy partnerstwie publiczno-prywatnym dokona wyboru nowego partnera prywatnego, chyba że przedsięwzięcie ma być realizowane w inny sposób.
+
+2. Jeżeli przed wyborem nowego partnera prywatnego podmiot publiczny zlecił wykonywanie zadań z zakresu partnerstwa publiczno-prywatnego w trybie art. 214 ust. 1 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych, umowa ta obowiązuje do czasu rozpoczęcia wykonywania umowy partnerstwie publiczno-prywatnym.
+
+**Art. 10a.**
+
+1. Podmiot publiczny może zawrzeć umowę z osobą trzecią finansującą przedsięwzięcie w całości lub w części, na mocy której, w przypadku poważnego zagrożenia realizacji przedsięwzięcia, będzie mógł przenieść na tę osobę trzecią całość lub część obowiązków partnera prywatnego, wraz ze związanymi z nimi prawami.
+
+2. Osoba trzecia, której mowa w ust. 1, może powierzyć realizację przedsięwzięcia innemu podmiotowi lub podmiotom tylko za zgodą podmiotu publicznego.
+
+3. Ogłoszenie zamówieniu, dokumenty zamówienia, dokumenty koncesji lub inna dokumentacja postępowania w sprawie wyboru partnera prywatnego zawiera warunki stosowania ust. 1 i 2. Umowa partnerstwie publiczno-prywatnym może uszczegóławiać te warunki.
+
+4. Postanowienia umów zawartych z osobą trzecią finansującą przedsięwzięcie w całości lub części, przez podmiot publiczny, partnera prywatnego lub spółkę, której mowa w art. 14 ust. 1 albo 1a, sprzeczne z umową partnerstwie publiczno-prywatnym są nieważne.
+
+**Art. 11.**
+
+1. Po zakończeniu czasu trwania umowy partnerstwie publiczno-prywatnym, partner prywatny lub spółka, której mowa w art. 14 ust. 1 albo 1a, przekazuje podmiotowi publicznemu składnik majątkowy, który był przekazuje składnik majątkowy podmiotowi publicznemu w stanie niepogorszonym, z uwzględnieniem jego zużycia wskutek prawidłowego używania, chyba że umowa partnerstwie publiczno-prywatnym stanowi inaczej. Przepisy art. 9 ust. 3 stosuje się odpowiednio.
+
+2. Umowa partnerstwie publiczno-prywatnym może stanowić, że przekazanie składnika majątkowego nastąpi na rzecz państwowej lub samorządowej osoby prawnej lub spółki handlowej z większościowym udziałem jednostki samorządu terytorialnego albo Skarbu Państwa.
+
+3. Roszczenie podmiotu publicznego przeciwko partnerowi prywatnemu lub spółce, której mowa w art. 14 ust. 1 albo 1a, przekazanie składnika majątkowego przedawnia się z upływem lat dziesięciu od dnia zakończenia czasu trwania umowy partnerstwie publiczno-prywatnym.
+
+**Art. 12.**
+
+1. W razie sprzedaży przez podmiot publiczny albo spółkę, której mowa w art. 14 ust. 1 albo 1a, nieruchomości będącej wkładem własnym, partnerowi prywatnemu przysługuje prawo pierwokupu, które może być wykonane w ciągu dwóch miesięcy od dnia zawiadomienia go treści umowy zawartej z osobą trzecią, chyba że umowa partnerstwie publiczno-prywatnym przewiduje dłuższy termin.
+
+2. Prawo pierwokupu, na warunkach określonych w ust. 1, przysługuje także ostatniemu partnerowi prywatnemu przez rok od zakończenia czasu trwania umowy partnerstwie publiczno-prywatnym, chyba że:
+
+- **1)** w prawomocnym orzeczeniu sądu stwierdzono jego odpowiedzialność za nienależyte wykonanie zobowiązania z umowy partnerstwie publiczno-prywatnym lub
+- **2)** podmiot publiczny zawarł umowę partnerstwie publiczno-prywatnym z nowym partnerem prywatnym.
+
+3. Termin, którym mowa w ust. 2, nie biegnie, a rozpoczęty ulega zawieszeniu, na czas postępowania sądowego w przedmiocie odpowiedzialności za nienależyte wykonanie przez partnera prywatnego zobowiązania z umowy partnerstwie publiczno-prywatnym lub postępowania w sprawie wyboru nowego partnera prywatnego.
+
+**Art. 14.**
+
+1. Umowa partnerstwie publiczno-prywatnym może przewidywać, że w celu jej wykonania podmiot publiczny i partner prywatny zawiążą spółkę z ograniczoną odpowiedzialnością albo spółkę akcyjną.
+
+1a. Umowa partnerstwie publiczno-prywatnym może przewidywać, że w celu jej wykonania partner prywatny nabędzie udziały albo akcje spółki z udziałem podmiotu publicznego. Nabycie może nastąpić w drodze objęcia udziałów w podwyższonym kapitale zakładowym albo akcji.
+
+2. Cel i przedmiot działalności spółki nie może wykraczać poza zakres określony umową partnerstwie publiczno-prywatnym.
+
+3. Prawa z należących do Skarbu Państwa udziałów lub akcji w spółce wykonuje organ administracji rządowej, który zawiązał spółkę jako podmiot publiczny.
+
+4. Przepis art. 7a ust. 5 stosuje się do odpowiedzialności innych podmiotów, których mowa w tym przepisie, za szkody wyrządzone podmiotowi publicznemu wskutek nieudostępnienia zasobów spółce, której mowa w ust. 1 albo 1a.
+
+**Art. 14a.**
+
+1. Spółkę, której mowa w art. 14 ust. 1, zawiązuje się na czas oznaczony, niezbędny do wykonania umowy partnerstwie publiczno-prywatnym oraz zakończenia jej spraw.
+
+2. Czas trwania spółki, której mowa w art. 14 ust. 1, może być przedłużony na czas nieoznaczony, jeżeli partner prywatny przed upływem terminu, którym mowa w ust. 1, zbył udziały w tej spółce albo akcje tej spółki na rzecz podmiotu publicznego albo zostały one umorzone.
+
+**Art. 14b.**
+
+1. W przypadku spółki, której mowa w art. 14 ust. 1 albo 1a, najpóźniej w terminie roku od dnia zakończenia czasu trwania umowy partnerstwie publiczno-prywatnym, partner prywatny zbywa udziały w tej spółce albo akcje tej spółki na rzecz podmiotu publicznego albo podlegają one umorzeniu. Przepisu art. 361 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2022 r. poz. 1467, 1488, 2280 i 2436 oraz z 2023 r. poz. 739 i 825) nie stosuje się.
+
+2. Statut albo umowa spółki stanowią, że w razie bezskutecznego upływu terminu, którym mowa w ust. 1, udziały albo akcje partnera prywatnego, z wyjątkiem udziałów albo akcji należących do jednostek sektora finansów być nieodpłatne, jeżeli statut albo umowa spółki tak stanowią.
+
+**Art. 15.** Zgody wszystkich wspólników albo akcjonariuszy spółki, której mowa w art. 14 ust. 1 oraz 1a, wymaga:
+
+**Art. 16.**
+
+1. Podmiotowi publicznemu przysługuje prawo pierwokupu akcji albo udziałów partnera prywatnego w spółce, której mowa w art. 14 ust. 1 albo 1a.
+
+2. Podmiot publiczny może wykonać prawo pierwokupu w ciągu trzech miesięcy od dnia zawiadomienia go przez partnera prywatnego treści umowy zawartej z osobą trzecią, chyba że umowa partnerstwie publiczno-prywatnym przewiduje dłuższy termin.
+
+3. Zbycie przez partnera prywatnego akcji albo udziałów z naruszeniem ust. 1 lub 2 jest nieważne.
+
+#### Rozdział 4a Organ właściwy w sprawach partnerstwa publiczno-prywatnego
+
+**Art. 16a.**
+
+1. Organem właściwym w sprawach partnerstwa publiczno-prywatnego w zakresie uregulowanym w ustawie jest minister właściwy do spraw rozwoju regionalnego.
+
+2. Do zadań ministra właściwego do spraw rozwoju regionalnego należy w szczególności:
+
+- **1)** wydawanie opinii, których mowa w art. 3b ust. 1;
+- **2)** wydawanie opinii, których mowa w art. 133b ust. 1 ustawy z dnia 27 sierpnia 2009 r. finansach publicznych;
+- **3)** upowszechnianie i promowanie dobrych praktyk z zakresu partnerstwa publiczno-prywatnego, w szczególności dotyczących projektów hybrydowych, europejskich w perspektywie finansowej 2021–2027 (Dz. U. poz. 1079);
+- **4)** przygotowywanie i upowszechnianie przykładowych wzorów umów partnerstwie publiczno-prywatnym, wytycznych oraz innych dokumentów stosowanych przy planowaniu i realizacji partnerstwa publiczno-prywatnego;
+- **5)** prowadzenie bazy partnerstw publiczno-prywatnych;
+- **6)** wsparcie merytoryczne podmiotów publicznych realizujących przedsięwzięcia;
+- **7)** dokonywanie analiz i ocen funkcjonowania partnerstwa publiczno-prywatnego, w tym stanu i perspektyw finansowego zaangażowania sektora prywatnego.
+
+3. Organ właściwy może, w drodze umowy, powierzyć Polskiemu Funduszowi Rozwoju Spółce Akcyjnej, którym mowa w art. 1 pkt 2 ustawy z dnia 4 lipca 2019 r. systemie instytucji rozwoju (Dz. U. z 2023 r. poz. 1103), wykonywanie zadań związanych z przygotowaniem lub realizacją przedsięwzięć w ramach partnerstwa publiczno-prywatnego.
+
+4. Organ właściwy może, w drodze umowy, powierzyć Funduszowi Transformacji Województwa Śląskiego Spółce Akcyjnej, której mowa w art. 1 pkt 1 ustawy z dnia 13 stycznia 2023 r. Funduszu Transformacji Województwa Śląskiego Spółce Akcyjnej (Dz. U. poz. 203), wykonywanie zadań związanych z przygotowaniem lub realizacją przedsięwzięć w ramach partnerstwa publiczno-prywatnego.
+
+**Art. 16b.**
+
+1. Podmiot publiczny obowiązany jest przekazać ministrowi właściwemu do spraw rozwoju regionalnego informacje dotyczące partnerstwa publiczno-prywatnego, w szczególności informacje dotyczące:
+
+- **1)** wszczęcia postępowania w sprawie wyboru partnera prywatnego;
+- **2)** zawarcia umowy partnerstwie publiczno-prywatnym, w tym:
+    - **a)** nazwy przedsięwzięcia,
+    - **b)** trybu wyboru partnera prywatnego,
+    - **c)** daty podpisania umowy i okresu jej obowiązywania,
+    - **d)** daty rozpoczęcia, zawieszenia i zakończenia realizacji przedsięwzięcia, być świadczone w ramach przedsięwzięcia,
+    - **g)** wartości umowy, z uwzględnieniem podatku od towarów i usług, rozumianej jako suma przewidywanych wydatków koniecznych do poniesienia przy realizacji przedsięwzięcia,
+    - **h)** zastosowanych mechanizmów wynagradzania partnera prywatnego, w tym wysokości opłat pobieranych od użytkowników, jeżeli takie opłaty są planowane, oraz warunków ich zmiany,
+    - **i)** zawarcia umów, których mowa w art. 10a,
+    - **j)** w przypadku umowy, której przedmiotem jest realizacja przedsięwzięcia służącego poprawie efektywności energetycznej, którym mowa w art. 2 pkt 12 ustawy z dnia 20 maja 2016 r. efektywności energetycznej (Dz. U. z 2021 r. poz. 2166), średniorocznych oszczędności energii finalnej możliwych do uzyskania w wyniku realizacji tego przedsięwzięcia oraz okresu uzyskiwania tych oszczędności;
+
+- **3)** zmiany umowy partnerstwie publiczno-prywatnym, powodującej zmianę danych, których mowa w pkt 2;
+- **4)** zawiązania i wpisu do rejestru przedsiębiorców spółki, której mowa w art. 7a ust. 1 albo art. 14 ust. 1 albo 1a, jej przedłużenia w trybie art. 14a ust. 2, a także jej rozwiązania.
+
+2. Podmiot publiczny przekazuje informacje, których mowa w ust. 1, ministrowi właściwemu do spraw rozwoju regionalnego w terminie 30 dni od dnia wystąpienia zdarzenia, którego dotyczą te informacje.
+
+3. W przypadku zmiany wartości umowy, która nie wynika ze zmiany zakresu świadczeń partnera prywatnego albo spółki, której mowa w art. 14 ust. 1 albo 1a, informacje, których mowa w ust. 1, mogą być przekazywane zbiorczo nie później niż trzy miesiące po zakończeniu roku obrotowego.
+
+4. Na podstawie informacji, których mowa w ust. 1, minister właściwy do spraw rozwoju regionalnego sporządza i publikuje informacje w bazie partnerstw publiczno-prywatnych, udostępnianej na stronie internetowej prowadzonej przez urząd obsługujący tego ministra. niezwłocznie takich informacji udzielić. Jeżeli udzielenie informacji nie jest możliwe w terminie 30 dni od dnia otrzymania żądania, podmiot publiczny zawiadamia tym ministra właściwego do spraw rozwoju regionalnego, podając przyczynę nieudzielenia informacji i wskazując dodatkowy termin ich udzielenia.
+
+#### Rozdział 5 Przepisy z zakresu finansów publicznych
+
+**Art. 17.** Łączną kwotę, do wysokości której organy administracji rządowej mogą w danym roku zaciągać zobowiązania finansowe z tytułu umów partnerstwie publiczno-prywatnym, określa ustawa budżetowa.
+
+**Art. 18.**
+
+1. Sfinansowanie przedsięwzięcia z budżetu państwa w kwocie przekraczającej 100 000 000 zł wymaga zgody ministra właściwego do spraw finansów publicznych z wyłączeniem środków przeznaczonych na finansowanie programów operacyjnych, których mowa w ustawie z dnia 6 grudnia 2006 r. zasadach prowadzenia polityki rozwoju (Dz. U. z 2023 r. poz. 1259 i 1273) oraz ustawie z dnia 11 lipca 2014 r. zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020, i programów, których mowa w ustawie z dnia 28 kwietnia 2022 r. zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021–2027. Udzielając zgody, minister właściwy do spraw finansów publicznych uwzględnia wpływ planowanych wydatków z budżetu państwa na bezpieczeństwo finansów publicznych.
+
+2. Zgody, której mowa w ust. 1, udziela się na wniosek podmiotu publicznego zawierający:
+
+- **1)** określenie podmiotu publicznego;
+- **2)** określenie planowanego przedsięwzięcia;
+- **3)** przewidywaną wysokość środków z budżetu państwa przeznaczonych w poszczególnych okresach budżetowych na realizację przedsięwzięcia. mowa w ust. 1, na realizację tego samego przedsięwzięcia w przypadku zmiany danych określonych w ust. 2 pkt 3. Do ponownego wniosku ust. 3 stosuje się.
+
+5. Zgoda, której mowa w ust. 1, nie stanowi zabezpieczenia finansowania przedsięwzięcia z budżetu państwa.
+
+6. Podmiot publiczny może unieważnić postępowanie w sprawie wyboru partnera prywatnego, jeżeli minister właściwy do spraw finansów publicznych odmówi udzielenia zgody, której mowa w ust. 1, a możliwość unieważnienia postępowania na tej podstawie została przewidziana w ogłoszeniu zamówieniu, dokumentach koncesji lub innej dokumentacji postępowania w sprawie wyboru partnera prywatnego.
+
+**Art. 18a.**
+
+1. Zobowiązania wynikające z umów partnerstwie publiczno-prywatnym nie wpływają na poziom państwowego długu publicznego oraz deficyt sektora finansów publicznych w sytuacji, gdy partner prywatny ponosi większość ryzyka budowy oraz większość ryzyka dostępności lub ryzyka popytu – z uwzględnieniem wpływu na wymienione ryzyka czynników takich jak gwarancje i finansowanie przez partnera publicznego oraz alokacja aktywów po zakończeniu trwania umowy.
+
+2. Minister właściwy do spraw rozwoju regionalnego w porozumieniu z ministrem właściwym do spraw finansów publicznych oraz po zasięgnięciu opinii Prezesa Głównego Urzędu Statystycznego może określić, w drodze rozporządzenia, zakres poszczególnych rodzajów ryzyka oraz czynniki uwzględniane przy ich ocenie, mając na względzie zapewnienie przejrzystości poszczególnych rodzajów ryzyka.
+
+#### Rozdział 6 Zmiany w przepisach obowiązujących
+
+**Art. 37.** Traci moc ustawa z dnia 28 lipca 2005 r. partnerstwie publiczno-prywatnym (Dz. U. poz. 1420 oraz z 2008 r. poz. 1058).
+
+**Art. 38.** Ustawa wchodzi w życie po upływie 21 dni od dnia ogłoszenia .
 

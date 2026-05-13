@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 24 kwietnia 2025 r.
+# Prawo łowieckie
+
+*USTAWA z dnia 13 października 1995 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,17 +26,6 @@ domain: null
 | Ostatnia zmiana | 2026-03-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000539) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/539/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 24 marca 2025 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy Prawo łowieckie
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 13 października 1995 r. Prawo łowieckie (Dz. U. z 2023 r. poz. 1082), z uwzględnieniem zmian wprowadzonych ustawą z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U. poz. 1907) oraz zmian wynikających z przepisów ogłoszonych przed dniem 11 marca 2025 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 212 ustawy z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U. poz. 1907), który stanowi: „Art. 212. Ustawa wchodzi w życie z dniem 1 stycznia 2025 r., z wyjątkiem:
-1) art. 16, art. 156, art. 198 i art. 199, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
-2) art. 76 ust. 5 i art. 78 ust. 2, które wchodzą w życie po upływie roku od dnia ogłoszenia;
-3) art. 11 ust. 3 pkt 3, art. 45–48, art. 189 oraz art. 211, które wchodzą w życie z dniem 1 stycznia 2026 r.;
-4) art. 187, który wchodzi w życie z dniem 1 stycznia 2027 r.”.
-Marszałek Sejmu: S. Hołownia
-USTAWA z dnia 13 października 1995 r.
-Prawo łowieckie
 Art. 55–57. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
@@ -51,7 +42,7 @@ Art. 55–57. (pominięte)
 
 - **1)** inwazyjnych gatunków obcych stwarzających zagrożenie dla Unii w rozumieniu art. 3 pkt 3 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1143/2014 z dnia 22 października 2014 r. w sprawie działań zapobiegawczych i zaradczych w odniesieniu do wprowadzania i rozprzestrzeniania inwazyjnych gatunków obcych (Dz. Urz. UE L 317 z 04.11.2014, str. 35, z późn. zm. ), zwanych dalej „IGO stwarzającymi zagrożenie dla Unii”,
 - **2)** inwazyjnych gatunków obcych stwarzających zagrożenie dla Polski, zwanych dalej „IGO stwarzającymi zagrożenie dla Polski”, umieszczonych na liście inwazyjnych gatunków obcych stwarzających zagrożenie dla Polski, określonej w przepisach wydanych na podstawie art. 23 ust. 1 ustawy z dnia 11 sierpnia 2021 r. o gatunkach obcych (Dz. U. z 2023 r. poz. 1589),
-- **3)** inwazyjnych gatunków obcych, które prawdopodobnie spełniają kryteria uznania ich za stwarzające zagrożenie dla Unii, umieszczonych na liście określonej w przepisach wydanych na podstawie art. 30 ust. 1 ustawy z dnia 11 sierpnia 2021 r. o gatunkach obcych w drodze polowań lub działań zaradczych w ramach współpracy, o której mowa w art. 22 ust. 1 ustawy z dnia 11 sierpnia 2021 r. o gatunkach obcych.
+- **3)** inwazyjnych gatunków obcych, które prawdopodobnie spełniają kryteria uznania ich za stwarzające zagrożenie dla Unii, umieszczonych na liście określonej w przepisach wydanych na podstawie art. 30 ust. 1 ustawy z dnia 11 sierpnia 2021 r. o gatunkach obcych – w drodze polowań lub działań zaradczych w ramach współpracy, o której mowa w art. 22 ust. 1 ustawy z dnia 11 sierpnia 2021 r. o gatunkach obcych.
 
 2. Do inwazyjnych gatunków obcych, które prawdopodobnie spełniają kryteria uznania ich za stwarzające zagrożenie dla Unii, stosuje się przepisy dotyczące IGO stwarzających zagrożenie dla Unii.
 
@@ -66,7 +57,7 @@ Art. 55–57. (pominięte)
     - **b)** ptaków lub ssaków należących do IGO stwarzających zagrożenie dla Unii lub IGO stwarzających zagrożenie dla Polski,
 
 - **2)** łowienie zwierzyny przy pomocy ptaków łowczych za zgodą ministra właściwego do spraw środowiska,
-- **3)** łowienie zwierząt należących do IGO stwarzających zagrożenie dla Unii lub IGO stwarzających zagrożenie dla Polski zmierzające do wejścia w jej posiadanie.
+- **3)** łowienie zwierząt należących do IGO stwarzających zagrożenie dla Unii lub IGO stwarzających zagrożenie dla Polski – zmierzające do wejścia w jej posiadanie.
 
 3. Kłusownictwo oznacza działanie zmierzające do wejścia w posiadanie zwierzyny w sposób niebędący polowaniem albo z naruszeniem warunków dopuszczalności polowania.
 
@@ -96,7 +87,7 @@ Art. 55–57. (pominięte)
 
 7. Zakazuje się odstrzałów redukcyjnych zwierząt łownych, o których mowa w ust. 3, w formie polowań zbiorowych, polowań z naganką, polowań z użyciem psów oraz nęcenia zwierząt.
 
-8. Odstrzał sanitarny zwierząt jest wykonywany z nakazu wydanego na podstawie przepisów o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt.
+8. Odstrzał sanitarny zwierząt jest wykonywany z nakazu wydanego na podstawie przepisów o zdrowiu zwierząt.
 
 9. Odstrzał sanitarny zwierząt, o którym mowa w ust. 8, odbywa się na podstawie indywidualnego upoważnienia, do którego wystawienia jest obowiązany odpowiednio zarządca lub dzierżawca obwodu łowieckiego, lub dyrektor parku narodowego albo regionalny dyrektor ochrony środowiska, wskazującego w szczególności gatunek i liczbę sztuk zwierzyny przeznaczonej do odstrzału oraz termin ważności upoważnienia.
 
@@ -132,16 +123,16 @@ Art. 55–57. (pominięte)
     - **g)** koszty poniesione na prowadzenie gospodarki łowieckiej, wyrażone w tysiącach złotych;
 
 - **3)** informację o przychodach ze sprzedaży tusz zwierzyny płowej w obwodzie łowieckim;
-- **4)** dane dotyczące zwierząt łownych w obwodzie łowieckim, określone osobno dla każdego z gatunków tych zwierząt:
+- **4)** dane dotyczące zwierząt łownych w obwodzie łowieckim, określone osobno dla każdego z gatunków tych zwierząt: e,
     - **a)** szacowaną liczebność występujących zwierząt łownych, z wyłączeniem łownych ptaków migrujących, według stanu na dzień 10 marca roku, w którym jest sporządzany roczny plan łowiecki, z podziałem na gatunki, zwierzynę grubą i drobną oraz w przypadku zwierzyny grubej z wyłączeniem dzików, także z podziałem na osobniki do pierwszego roku życia i płeć,
     - **b)** planowaną liczebność zwierzyny grubej w dniu poprzedzającym dzień rozpoczęcia okresu polowań na tę zwierzynę,
     - **c)** planowaną do zasiedlenia w łowieckim roku gospodarczym, na który jest sporządzany roczny plan łowiecki, liczbę zwierząt łownych,
     - **d)** planowaną do pozyskania w drodze odstrzałów i odłowów liczbę zwierząt łownych w łowieckim roku gospodarczym poprzedzającym łowiecki rok gospodarczy, na który jest sporządzany roczny plan łowiecki,
     - **e)** liczbę zwierząt łownych pozyskanych w drodze odstrzałów i odłowów w łowieckim roku gospodarczym poprzedzającym łowiecki rok gospodarczy, na który jest sporządzany roczny plan łowiecki,
-    - **f)** liczbę ubytków zwierzyny grubej powstałych w łowieckim roku gospodarczym poprzedzającym łowiecki rok gospodarczy, na który jest sporządzany roczny plan łowiecki, z innych przyczyn niż wymienione w lit. e,
+    - **f)** liczbę ubytków zwierzyny grubej powstałych w łowieckim roku gospodarczym poprzedzającym łowiecki rok gospodarczy, na który jest sporządzany roczny plan łowiecki, z innych przyczyn niż wymienione w lit.
     - **g)** liczbę zwierząt łownych zasiedlonych w łowieckim roku gospodarczym poprzedzającym łowiecki rok gospodarczy, na który jest sporządzany roczny plan łowiecki, według stanu na dzień 10 marca roku, w którym jest sporządzany roczny plan łowiecki,
     - **h)** liczbę zwierząt łownych, z wyłączeniem dzików, których pozyskanie w łowieckim roku gospodarczym, na który jest sporządzany roczny plan łowiecki, uwzględnia optymalne gospodarowanie populacjami zwierząt łownych, przy czym w przypadku zwierzyny grubej z podziałem na osobniki do pierwszego roku życia i płeć, a w przypadku samców zwierzyny płowej także z podziałem na osobniki selekcyjne i łowne,
-    - **i)** minimalną i maksymalną liczbę zwierząt łownych, z wyłączeniem dzików, zaplanowanych do pozyskania w łowieckim roku gospodarczym, na który jest sporządzany roczny plan łowiecki, z uwzględnieniem, że pozyskanie następuje w przedziale: od 90 % do 110 % liczby, o której mowa w lit. h w przypadku zwierzyny grubej, od 85 % do 115 % liczby, o której mowa w lit. h w przypadku zwierzyny drobnej ‒ z zaokrągleniem do pełnych liczb, przyjmując, że wartości po przecinku do 49 zaokrągla się w dół, a wartości po przecinku od 50 zaokrągla się w górę,
+    - **i)** minimalną i maksymalną liczbę zwierząt łownych, z wyłączeniem dzików, zaplanowanych do pozyskania w łowieckim roku gospodarczym, na który jest sporządzany roczny plan łowiecki, z uwzględnieniem, że pozyskanie następuje w przedziale: – od 90 % do 110 % liczby, o której mowa w lit. h – w przypadku zwierzyny grubej, – od 85 % do 115 % liczby, o której mowa w lit. h – w przypadku zwierzyny drobnej ‒ z zaokrągleniem do pełnych liczb, przyjmując, że wartości po przecinku do 49 zaokrągla się w dół, a wartości po przecinku od 50 zaokrągla się w górę,
     - **j)** minimalną liczbę dzików zaplanowanych do pozyskania w danym roku gospodarczym;
 
 - **5)** liczbę zaobserwowanych zwierząt należących do IGO stwarzających zagrożenie dla Unii lub IGO stwarzających zagrożenie dla Polski oraz liczbę takich zwierząt pozyskanych w drodze polowań lub działań zaradczych w łowieckim roku gospodarczym poprzedzającym łowiecki rok gospodarczy, na który jest sporządzany roczny plan łowiecki, podaną oddzielnie dla każdego gatunku zwierząt.
@@ -153,7 +144,7 @@ Art. 55–57. (pominięte)
 - **3)** na dzień 10 marca roku, w którym jest sporządzany roczny plan łowiecki;
 - **4)** planowany do realizacji w łowieckim roku gospodarczym, na który jest sporządzany roczny plan łowiecki.
 
-8. Liczbę ubytków, o których mowa w ust. 6 pkt 4 lit. f, z wyłączeniem odstrzału sanitarnego prowadzonego na podstawie przepisów o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt uwzględnia się w liczbie zwierząt łownych, o których mowa w ust. 6 pkt 4 lit. e.
+8. Liczbę ubytków, o których mowa w ust. 6 pkt 4 lit. f, z wyłączeniem odstrzału sanitarnego prowadzonego na podstawie przepisów o zdrowiu zwierząt uwzględnia się w liczbie zwierząt łownych, o których mowa w ust. 6 pkt 4 lit. e.
 
 9. Roczny plan łowiecki jest sporządzany przez dzierżawcę obwodu łowieckiego, po zasięgnięciu opinii właściwych wójtów (burmistrzów, prezydentów miast) oraz właściwej izby rolniczej, i podlega zatwierdzeniu przez właściwego nadleśniczego Państwowego Gospodarstwa Leśnego Lasy Państwowe w uzgodnieniu z Polskim Związkiem Łowieckim. W przypadku gdy obwód łowiecki jest położony w granicach więcej niż jednego nadleśnictwa, roczny plan łowiecki dla tego obwodu zatwierdza nadleśniczy właściwy dla obszaru, na którym jest położona największa część tego obwodu.
 
@@ -175,8 +166,8 @@ Art. 55–57. (pominięte)
 
 15. W przypadku odmowy zatwierdzenia w całości albo w części rocznego planu łowieckiego przysługuje odwołanie do:
 
-- **1)** dyrektora regionalnej dyrekcji Państwowego Gospodarstwa Leśnego Lasy Państwowe w przypadku, o którym mowa w ust. 9;
-- **2)** Dyrektora Generalnego Państwowego Gospodarstwa Leśnego Lasy Państwowe w przypadku, o którym mowa w ust. 10.
+- **1)** dyrektora regionalnej dyrekcji Państwowego Gospodarstwa Leśnego Lasy Państwowe – w przypadku, o którym mowa w ust. 9;
+- **2)** Dyrektora Generalnego Państwowego Gospodarstwa Leśnego Lasy Państwowe – w przypadku, o którym mowa w ust. 10.
 
 16. Odwołanie podlega rozpatrzeniu w terminie 7 dni od dnia jego wniesienia.
 
@@ -192,7 +183,7 @@ Art. 55–57. (pominięte)
 - **4)** zmiany dzierżawcy albo zarządcy obwodu łowieckiego;
 - **5)** większej niż przewidywana w tym planie wielkości szkód wyrządzonych w uprawach i płodach rolnych przez dziki, łosie, jelenie, daniele i sarny;
 - **6)** wprowadzenia zmiany na liście gatunków zwierzyny lub określenia okresu polowań na gatunek zwierzyny objęty dotychczas całoroczną ochroną;
-- **7)** podejrzenia wystąpienia albo wystąpienia choroby zakaźnej zwierząt podlegającej obowiązkowi zwalczania na podstawie przepisów ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt (Dz. U. z 2023 r. poz. 1075).
+- **7)** podejrzenia wystąpienia albo wystąpienia choroby zwierząt podlegającej likwidacji na podstawie przepisów o zdrowiu zwierząt.
 
 20. Do zmiany rocznego planu łowieckiego stosuje się przepisy ust. 5–17, przy czym zmiana rocznego planu łowieckiego w przypadku, o którym mowa w ust. 19 pkt 7, wymaga dodatkowo zasięgnięcia opinii właściwego powiatowego lekarza weterynarii.
 
@@ -210,7 +201,7 @@ Art. 55–57. (pominięte)
 - **2)** dzierżawca albo zarządca obwodu łowieckiego sporządza roczny plan łowiecki na okres od dnia wydzierżawienia albo przekazania obwodu łowieckiego w zarząd do dnia 31 marca;
 - **3)** w rocznym planie łowieckim:
     - **a)** dane, o których mowa w art. 8a ust. 6 pkt 4 lit. a, podaje się według stanu na dzień sporządzenia inwentaryzacji zwierzyny,
-    - **b)** dane, o których mowa w art. 8a ust. 6 pkt 2, i informację, o której mowa w art. 8a ust. 6 pkt 3, podaje się odpowiednio w oddzielnych pozycjach, w których uwzględnia się stan: na dzień sporządzenia inwentaryzacji zwierzyny, planowany do realizacji w łowieckim roku gospodarczym, na który jest sporządzany roczny plan łowiecki;
+    - **b)** dane, o których mowa w art. 8a ust. 6 pkt 2, i informację, o której mowa w art. 8a ust. 6 pkt 3, podaje się odpowiednio w oddzielnych pozycjach, w których uwzględnia się stan: – na dzień sporządzenia inwentaryzacji zwierzyny, – planowany do realizacji w łowieckim roku gospodarczym, na który jest sporządzany roczny plan łowiecki;
 
 - **4)** roczny plan łowiecki jest przedkładany do zatwierdzenia nie później niż w terminie 30 dni od dnia wydzierżawienia albo przekazania obwodu łowieckiego w zarząd.
 
@@ -223,13 +214,13 @@ Art. 55–57. (pominięte)
 3. Wieloletni łowiecki plan hodowlany składa się z części:
 
 - **1)** ogólnej, obejmującej:
-    - **a)** dane ogólne: datę sporządzenia planu wieloletniego, imię, nazwisko i podpis dyrektora regionalnej dyrekcji Państwowego Gospodarstwa Leśnego Lasy Państwowe,
-    - **b)** dane dotyczące rejonu hodowlanego: nazwę województwa, nazwy nadleśnictw oraz numery obwodów łowieckich, powierzchnię wyrażoną w hektarach, w tym powierzchnię gruntów leśnych, nazwy występujących gatunków zwierząt łownych, opis struktury płciowej występującej zwierzyny grubej, opis struktury wiekowej samców występującej zwierzyny płowej, nazwy gatunków i szacunkową liczebność występujących drapieżników;
+    - **a)** dane ogólne: – datę sporządzenia planu wieloletniego, – imię, nazwisko i podpis dyrektora regionalnej dyrekcji Państwowego Gospodarstwa Leśnego Lasy Państwowe,
+    - **b)** dane dotyczące rejonu hodowlanego: – nazwę województwa, nazwy nadleśnictw oraz numery obwodów łowieckich, – powierzchnię wyrażoną w hektarach, w tym powierzchnię gruntów leśnych, – nazwy występujących gatunków zwierząt łownych, – opis struktury płciowej występującej zwierzyny grubej, – opis struktury wiekowej samców występującej zwierzyny płowej, – nazwy gatunków i szacunkową liczebność występujących drapieżników;
 
 - **2)** szczegółowej, obejmującej:
     - **a)** kategorie obwodów łowieckich,
     - **b)** liczbę łosi, jeleni szlachetnych, danieli, muflonów i dzików na 1000 ha oraz liczbę saren, zajęcy i kuropatw na 100 ha, według stanu na dzień sporządzenia planu wieloletniego, w tym łosi i jeleni szlachetnych również w odniesieniu do powierzchni gruntów leśnych, a zajęcy i kuropatw również w odniesieniu do powierzchni polnej,
-    - **c)** stan zagospodarowania rejonu hodowlanego: liczbę i rodzaj urządzeń związanych z prowadzeniem gospodarki łowieckiej, o których mowa w art. 8a ust. 6 pkt 2 lit. b, powierzchnię poletek łowieckich, wyrażoną w hektarach, powierzchnię zagospodarowanych przez dzierżawców albo zarządców obwodów łowieckich łąk śródleśnych i przyleśnych, wyrażoną w hektarach, liczbę pasów zaporowych oraz ich łączną długość wyrażoną w kilometrach,
+    - **c)** stan zagospodarowania rejonu hodowlanego: – liczbę i rodzaj urządzeń związanych z prowadzeniem gospodarki łowieckiej, o których mowa w art. 8a ust. 6 pkt 2 lit. b, – powierzchnię poletek łowieckich, wyrażoną w hektarach, – powierzchnię zagospodarowanych przez dzierżawców albo zarządców obwodów łowieckich łąk śródleśnych i przyleśnych, wyrażoną w hektarach, – liczbę pasów zaporowych oraz ich łączną długość wyrażoną w kilometrach,
     - **d)** zadania w zakresie zagospodarowania obwodów łowieckich na okres obowiązywania planu wieloletniego,
     - **e)** docelową liczbę łosi, jeleni szlachetnych, danieli i muflonów na 1000 ha, maksymalną liczbę dzików na 1000 ha oraz docelową liczbę saren na 100 ha, w tym łosi i jeleni szlachetnych również na 1000 ha powierzchni gruntów leśnych.
 
@@ -252,11 +243,11 @@ Art. 55–57. (pominięte)
 - **3)** istotnej zmiany liczebności zwierząt łownych w rejonie hodowlanym;
 - **4)** istotnej zmiany charakteru użytkowania gruntów;
 - **5)** wprowadzenia zmiany na liście gatunków zwierząt łownych lub określenia okresu polowań na gatunek zwierzęcia łownego objęty dotychczas całoroczną ochroną;
-- **6)** podejrzenia wystąpienia albo wystąpienia choroby zakaźnej zwierząt podlegającej obowiązkowi zwalczania na podstawie przepisów ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt.
+- **6)** podejrzenia wystąpienia albo wystąpienia choroby zwierząt podlegającej likwidacji na podstawie przepisów o zdrowiu zwierząt.
 
 11. Do zmiany wieloletniego łowieckiego planu hodowlanego stosuje się odpowiednio przepisy ust. 2–8, przy czym zmiana wieloletniego łowieckiego planu hodowlanego w przypadku, o którym mowa w ust. 10 pkt 6, wymaga dodatkowo zasięgnięcia opinii właściwego powiatowego lekarza weterynarii.
 
-**Art. 8d.** W sprawach zatwierdzania rocznych planów łowieckich i wieloletnich łowieckich planów hodowlanych nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572).
+**Art. 8d.** W sprawach zatwierdzania rocznych planów łowieckich i wieloletnich łowieckich planów hodowlanych nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572).
 
 **Art. 8e.**
 
@@ -264,16 +255,16 @@ Art. 55–57. (pominięte)
 
 - **1)** inwentaryzacji zwierzyny,
 - **2)** rocznego planu łowieckiego,
-- **3)** wieloletniego łowieckiego planu hodowlanego opracowuje Dyrektor Generalny Państwowego Gospodarstwa Leśnego Lasy Państwowe w uzgodnieniu z Polskim Związkiem Łowieckim, a zatwierdza minister właściwy do spraw środowiska.
+- **3)** wieloletniego łowieckiego planu hodowlanego – opracowuje Dyrektor Generalny Państwowego Gospodarstwa Leśnego Lasy Państwowe w uzgodnieniu z Polskim Związkiem Łowieckim, a zatwierdza minister właściwy do spraw środowiska.
 
 2. Zatwierdzone przez ministra właściwego do spraw środowiska wzory formularzy, o których mowa w ust. 1, Dyrektor Generalny Państwowego Gospodarstwa Leśnego Lasy Państwowe udostępnia na stronie Biuletynu Informacji Publicznej Państwowego Gospodarstwa Leśnego Lasy Państwowe.
 
 **Art. 9.**
 
-1. Ochrona zwierzyny poza zasadami określonymi w przepisach o ochronie przyrody obejmuje tworzenie warunków bezpiecznego bytowania zwierzyny, a w szczególności:
+1. Ochrona zwierzyny – poza zasadami określonymi w przepisach o ochronie przyrody – obejmuje tworzenie warunków bezpiecznego bytowania zwierzyny, a w szczególności:
 
 - **1)** zwalczanie kłusownictwa i wszelkich zjawisk szkodnictwa łowieckiego;
-- **2)** zakaz poza polowaniami i odłowami płoszenia, chwytania, przetrzymywania, ranienia i zabijania zwierzyny;
+- **2)** zakaz – poza polowaniami i odłowami – płoszenia, chwytania, przetrzymywania, ranienia i zabijania zwierzyny;
 - **3)** zakaz wybierania i posiadania jaj i piskląt, wyrabiania i posiadania wydmuszek oraz niszczenia legowisk, nor i gniazd ptasich;
 - **4)** zakaz sprzedaży, transportu w celu sprzedaży, przetrzymywania w celu sprzedaży oraz oferowania do sprzedaży żywych lub martwych zwierząt łownych, jak również wszelkich łatwo rozpoznawalnych części lub produktów uzyskanych z tych zwierząt, z wyjątkiem tych zwierząt łownych, które zostały pozyskane zgodnie z prawem lub nabyte w inny legalny sposób.
 
@@ -337,14 +328,14 @@ Art. 55–57. (pominięte)
 - **7)** utrzymywania struktury wiekowej i płciowej oraz liczebności populacji zwierzyny właściwych dla zapewnienia równowagi ekosystemów oraz realizacji głównych celów gospodarczych w rolnictwie, leśnictwie i rybactwie;
 - **8)** ochrony zwierzyny przed zagrożeniem ruchu pojazdów samochodowych na drogach krajowych i wojewódzkich.
 
-3. Dzierżawcy i zarządcy obwodów łowieckich, wójtowie (burmistrzowie, prezydenci miast) i nadleśniczowie Państwowego Gospodarstwa Leśnego Lasy Państwowe współdziałają ze sobą oraz z właścicielami, posiadaczami i zarządcami gruntów w sprawach związanych ze zwalczaniem chorób zakaźnych zwierząt podlegających obowiązkowi zwalczania na podstawie przepisów ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt, oraz z zagospodarowaniem obwodów łowieckich, w szczególności w zakresie ochrony i hodowli zwierzyny.
+3. Dzierżawcy i zarządcy obwodów łowieckich, wójtowie (burmistrzowie, prezydenci miast) i nadleśniczowie Państwowego Gospodarstwa Leśnego Lasy Państwowe współdziałają ze sobą oraz z właścicielami, posiadaczami i zarządcami gruntów w sprawach związanych z likwidacją chorób zwierząt podlegających likwidacji na podstawie przepisów o zdrowiu zwierząt, oraz z zagospodarowaniem obwodów łowieckich, w szczególności w zakresie ochrony i hodowli zwierzyny.
 
-4. Zarządca lub dzierżawca obwodu łowieckiego może wystąpić z wnioskiem do służb, straży lub organów administracji rządowej, w szczególności do właściwego miejscowo komendanta Policji lub Straży Granicznej, lub Państwowej Straży Pożarnej, lub właściwego terytorialnie organu Inspekcji Weterynaryjnej, o udzielenie pomocy pozostającej w zakresie kompetencji tych służb, straży lub inspekcji, jeżeli jest to niezbędne do przeprowadzenia czynności związanych ze zwalczaniem chorób zakaźnych zwierząt podlegających obowiązkowi zwalczania na podstawie przepisów ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt.
+4. Zarządca lub dzierżawca obwodu łowieckiego może wystąpić z wnioskiem do służb, straży lub organów administracji rządowej, w szczególności do właściwego miejscowo komendanta Policji lub Straży Granicznej, lub Państwowej Straży Pożarnej, lub właściwego terytorialnie organu Inspekcji Weterynaryjnej, o udzielenie pomocy pozostającej w zakresie kompetencji tych służb, straży lub inspekcji, jeżeli jest to niezbędne do przeprowadzenia czynności związanych [ze zwalczaniem chorób zakaźnych zwierząt podlegających obowiązkowi zwalczania na podstawie przepisów ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt] <z likwidacją chorób zwierząt podlegających likwidacji na podstawie przepisów o zdrowiu zwierząt>.
 
 5. Pomoc, o której mowa w ust. 4, polega w szczególności na:
 
 - **1)** zabezpieczeniu terenu, na którym odbywa się polowanie, przed nieuprawnionym wstępem osób trzecich;
-- **2)** wsparciu działań mających na celu poszukiwanie padłych zwierząt, co do których zachodzi podejrzenie, że mogły być nosicielami chorób zakaźnych, o których mowa w art. 2 pkt 21 ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt;
+- **2)** wsparciu działań mających na celu poszukiwanie padłych zwierząt, co do których zachodzi podejrzenie, że mogły być nosicielami chorób w rozumieniu art. 2 pkt 1 ustawy z dnia 21 listopada 2025 r. o zdrowiu zwierząt (Dz. U. poz. 1795);
 - **3)** kontroli przestrzegania przez osobę uprawnioną do wykonywania polowania, w tym osobę wykonującą odstrzał sanitarny, o którym mowa w art. 8 ust. 8, zasad bioasekuracji.
 
 **Art. 12.** Dzierżawcy i zarządcy obwodów łowieckich mogą, po uzyskaniu zgody właściciela, posiadacza lub zarządcy gruntu, wyznaczać i oznakowywać zakazem wstępu obszary stanowiące ostoje zwierzyny oraz wznosić urządzenia związane z prowadzeniem gospodarki łowieckiej.
@@ -355,7 +346,7 @@ Art. 55–57. (pominięte)
 
 **Art. 15.**
 
-1. Zwierzyna pozyskana w obwodzie łowieckim zgodnie z przepisami prawa stanowi własność dzierżawcy lub zarządcy obwodu łowieckiego, a na terenach niewchodzących w skład obwodów łowieckich własność Skarbu Państwa.
+1. Zwierzyna pozyskana w obwodzie łowieckim zgodnie z przepisami prawa stanowi własność dzierżawcy lub zarządcy obwodu łowieckiego, a na terenach niewchodzących w skład obwodów łowieckich – własność Skarbu Państwa.
 
 2. Zwierzyna bezprawnie pozyskana stanowi własność Skarbu Państwa.
 
@@ -371,7 +362,7 @@ Art. 55–57. (pominięte)
 
 **Art. 16a.**
 
-1. Wprowadzenie do środowiska w rozumieniu art. 2 pkt 23 ustawy z dnia 11 sierpnia 2021 r. o gatunkach obcych bażanta, daniela lub muflona w celu zasiedleń, zwane dalej „wprowadzeniem do środowiska”, wymaga zgłoszenia ministrowi właściwemu do spraw środowiska przed terminem dokonania wprowadzenia do środowiska, a w przypadku gdy wprowadzenie do środowiska dotyczy daniela lub muflona także zasięgnięcia opinii właściwego miejscowo nadleśniczego Państwowego Gospodarstwa Leśnego Lasy Państwowe.
+1. Wprowadzenie do środowiska w rozumieniu art. 2 pkt 23 ustawy z dnia 11 sierpnia 2021 r. o gatunkach obcych bażanta, daniela lub muflona w celu zasiedleń, zwane dalej „wprowadzeniem do środowiska”, wymaga zgłoszenia ministrowi właściwemu do spraw środowiska przed terminem dokonania wprowadzenia do środowiska, a w przypadku gdy wprowadzenie do środowiska dotyczy daniela lub muflona – także zasięgnięcia opinii właściwego miejscowo nadleśniczego Państwowego Gospodarstwa Leśnego Lasy Państwowe.
 
 2. Zgłoszenia, o którym mowa w ust. 1, dokonuje dzierżawca lub zarządca obwodu łowieckiego.
 
@@ -392,7 +383,7 @@ Art. 55–57. (pominięte)
 
 6. Minister właściwy do spraw środowiska może wystąpić do Generalnego Dyrektora Ochrony Środowiska o wydanie opinii o wpływie zamierzonego wprowadzenia do środowiska na rodzime gatunki i siedliska przyrodnicze, w szczególności na gatunki będące przedmiotem zainteresowania Wspólnoty i siedliska będące przedmiotem zainteresowania Wspólnoty, o których mowa odpowiednio w art. 5 pkt 1a i 17a ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody.
 
-7. Generalny Dyrektor Ochrony Środowiska wydaje opinię, o której mowa w ust. 6, w terminie 10 dni od dnia doręczenia mu wystąpienia ministra właściwego do spraw środowiska. Przepisów art. 106 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego nie stosuje się.
+7. Generalny Dyrektor Ochrony Środowiska wydaje opinię, o której mowa w ust. 6, w terminie 10 dni od dnia doręczenia mu wystąpienia ministra właściwego do spraw środowiska. Przepisów art. 106 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego nie stosuje się.
 
 8. Wprowadzenie do środowiska może zostać dokonane, jeżeli minister właściwy do spraw środowiska nie wniesie, w drodze decyzji, sprzeciwu w terminie 45 dni od dnia doręczenia zgłoszenia.
 
@@ -406,7 +397,9 @@ Art. 55–57. (pominięte)
 - **1)** sprawdzenie dokumentów związanych z wprowadzeniem do środowiska lub
 - **2)** zapewnienie obecności osoby wyznaczonej do przeprowadzenia kontroli przy wprowadzeniu do środowiska.
 
-11. Do kontroli wprowadzenia do środowiska stosuje się przepisy art. 44 ust. 6–12.
+11. Do kontroli wprowadzenia do środowiska stosuje się przepisy art. 44 ust. 6–
+
+12.
 
 12. Zakazuje się wprowadzenia do środowiska:
 
@@ -453,7 +446,7 @@ Art. 55–57. (pominięte)
 
 - **1)** liczbę członków komisji, o której mowa w ust. 1, oraz jej skład, tak aby w skład komisji wchodziło:
     - **a)** nie mniej niż 3 członków spośród ekspertów z dziedziny ochrony przyrody, gospodarki łowieckiej oraz zasad posiadania i posługiwania się myśliwską bronią palną,
-    - **b)** przedstawiciel ministra właściwego do spraw środowiska jako przewodniczący komisji,
+    - **b)** przedstawiciel ministra właściwego do spraw środowiska – jako przewodniczący komisji,
     - **c)** przedstawiciel Polskiego Związku Łowieckiego,
     - **d)** przedstawiciel Państwowego Gospodarstwa Leśnego Lasy Państwowe;
 
@@ -468,7 +461,7 @@ Art. 55–57. (pominięte)
 - **1)** imię i nazwisko;
 - **2)** adres miejsca zamieszkania;
 - **3)** datę i miejsce urodzenia;
-- **4)** numer PESEL, a w przypadku jego braku rodzaj i numer dokumentu potwierdzającego tożsamość;
+- **4)** numer PESEL, a w przypadku jego braku – rodzaj i numer dokumentu potwierdzającego tożsamość;
 - **5)** dane kontaktowe;
 - **6)** podpis.
 
@@ -479,7 +472,7 @@ Art. 55–57. (pominięte)
 1. Przedsiębiorca wykonujący działalność gospodarczą w zakresie obrotu zwierzyną żywą oraz obrotu tuszami zwierzyny i ich częściami, z wyłączeniem sprzedaży dokonywanej przez dzierżawców i zarządców obwodów łowieckich na terytorium Rzeczypospolitej Polskiej, jest obowiązany:
 
 - **1)** prowadzić ewidencję skupu w każdym punkcie skupu;
-- **2)** zapewniać badania zwierzyny i mięsa zgodnie z przepisami o zwalczaniu chorób zakaźnych zwierząt, badaniu zwierząt rzeźnych i mięsa oraz Inspekcji Weterynaryjnej.
+- **2)** zapewniać badania zwierzyny i mięsa zgodnie z przepisami o produktach pochodzenia zwierzęcego.
 
 2. Minister właściwy do spraw środowiska określi, w drodze rozporządzenia, zakres ewidencji, o której mowa w ust. 1 pkt 1, oraz jej wzór, kierując się rodzajem wykonywanej działalności gospodarczej w zakresie obrotu zwierzyną żywą lub tuszami zwierzyny i ich częściami.
 
@@ -489,7 +482,7 @@ Art. 55–57. (pominięte)
 
 2. W przypadku nieusunięcia naruszeń, o których mowa w ust. 1, właściwy marszałek województwa wydaje decyzję o zakazie wykonywania działalności gospodarczej, o której mowa w art. 18 ust. 1, przez okres 3 lat.
 
-**Art. 22b.** W sprawach nieuregulowanych w niniejszym rozdziale stosuje się przepisy ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236, 1222 i 1871 oraz z 2025 r. poz. 222).
+**Art. 22b.** W sprawach nieuregulowanych w niniejszym rozdziale stosuje się przepisy ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236, 1222 i 1871 oraz z 2025 r. poz. 222).
 
 #### Rozdział 5 Obwody łowieckie
 
@@ -528,16 +521,16 @@ Art. 55–57. (pominięte)
 
 3. Zaliczenie obwodu łowieckiego do jednej z kategorii, o których mowa w ust. 1, zależy od liczby przyznanych punktów zgodnie z następującą punktacją:
 
-- **1)** bardzo dobra 41 i więcej punktów;
-- **2)** dobra 31–40 punktów;
-- **3)** średnia 21–30 punktów;
-- **4)** słaba 11–20 punktów;
-- **5)** bardzo słaba do 10 punktów.
+- **1)** bardzo dobra – 41 i więcej punktów;
+- **2)** dobra – 31–40 punktów;
+- **3)** średnia – 21–30 punktów;
+- **4)** słaba – 11–20 punktów;
+- **5)** bardzo słaba – do 10 punktów.
 
 4. Minister właściwy do spraw środowiska, po zasięgnięciu opinii ministra właściwego do spraw rolnictwa oraz Polskiego Związku Łowieckiego, określi, w drodze rozporządzenia:
 
 - **1)** wskaźniki liczebności zwierzyny oraz odpowiadające im wartości punktowe,
-- **2)** czynniki wpływające na środowisko bytowania zwierzyny i walory łowieckie obwodu łowieckiego oraz odpowiadające im wartości punktowe uwzględniając liczebność poszczególnych gatunków zwierzyny w określonych środowiskach jej bytowania, rodzaj i wielkość jej pozyskania oraz nasilenie czynników antropogenicznych.
+- **2)** czynniki wpływające na środowisko bytowania zwierzyny i walory łowieckie obwodu łowieckiego oraz odpowiadające im wartości punktowe – uwzględniając liczebność poszczególnych gatunków zwierzyny w określonych środowiskach jej bytowania, rodzaj i wielkość jej pozyskania oraz nasilenie czynników antropogenicznych.
 
 **Art. 27.**
 
@@ -575,8 +568,8 @@ Art. 55–57. (pominięte)
 8. Marszałek województwa po przygotowaniu projektu uchwały, o której mowa w ust. 1, kolejno:
 
 - **1)** występuje o:
-    - **a)** opinię do: właściwego dyrektora regionalnej dyrekcji Państwowego Gospodarstwa Leśnego Lasy Państwowe, Polskiego Związku Łowieckiego, właściwej izby rolniczej,
-    - **b)** uzgodnienie do: właściwego wojewody, organów wojskowych w przypadku gdy podział na obwody łowieckie obejmuje grunty pozostające w zarządzie tych organów albo powierzone tym organom do wykorzystania;
+    - **a)** opinię do: – właściwego dyrektora regionalnej dyrekcji Państwowego Gospodarstwa Leśnego Lasy Państwowe, – Polskiego Związku Łowieckiego, – właściwej izby rolniczej,
+    - **b)** uzgodnienie do: – właściwego wojewody, – organów wojskowych – w przypadku gdy podział na obwody łowieckie obejmuje grunty pozostające w zarządzie tych organów albo powierzone tym organom do wykorzystania;
 
 - **2)** wprowadza zmiany do projektu uchwały wynikające z rozpatrzenia opinii i dokonanych uzgodnień;
 - **3)** ogłasza przez umieszczenie na stronie internetowej urzędu marszałkowskiego oraz przez obwieszczenie, a także w sposób zwyczajowo przyjęty w poszczególnych gminach objętych projektem uchwały, za pośrednictwem właściwych wójtów (burmistrzów, prezydentów miast), o sporządzeniu projektu uchwały oraz wyłożeniu jej do publicznego wglądu i umieszczeniu na stronie internetowej urzędu marszałkowskiego, na co najmniej 7 dni przed dniem wyłożenia i umieszczenia projektu uchwały na stronie internetowej urzędu marszałkowskiego, wyznaczając w ogłoszeniu termin na składanie uwag do projektu uchwały, nie krótszy niż 21 dni od dnia wyłożenia i umieszczenia projektu uchwały na stronie internetowej urzędu marszałkowskiego, oraz informując o formie i miejscu składania uwag;
@@ -592,7 +585,7 @@ Art. 55–57. (pominięte)
 
 11. Uwagi wnosi się na piśmie. Jako wniesione na piśmie uznaje się również uwagi wniesione na adres do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2024 r. poz. 1045 i 1841), opatrzone kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
 
-12. Przy rozpatrywaniu uwag dotyczących wyłączenia nieruchomości z obwodu łowieckiego uwzględnia się szczególne właściwości nieruchomości lub prowadzonej na niej działalności, które istotnie utrudnią prowadzenie na niej gospodarki łowieckiej, albo w przypadku objęcia nieruchomości obwodem łowieckim spowodują konieczność zaprzestania lub istotnego ograniczenia prowadzenia na niej dotychczasowej działalności.
+12. Przy rozpatrywaniu uwag dotyczących wyłączenia nieruchomości z obwodu łowieckiego uwzględnia się szczególne właściwości nieruchomości lub prowadzonej na niej działalności, które istotnie utrudnią prowadzenie na niej gospodarki łowieckiej, albo – w przypadku objęcia nieruchomości obwodem łowieckim – spowodują konieczność zaprzestania lub istotnego ograniczenia prowadzenia na niej dotychczasowej działalności.
 
 13. Niewydanie opinii, o których mowa w ust. 8 pkt 1 lit. a lub pkt 7, w terminie 14 dni od dnia otrzymania projektu uchwały, o której mowa w ust. 1, oznacza akceptację projektu uchwały.
 
@@ -624,13 +617,13 @@ Art. 55–57. (pominięte)
 
 5. Oświadczenie o zakazie wykonywania polowania lub cofnięcie oświadczenia o zakazie wykonywania polowania jest skuteczne:
 
-- **1)** od dnia następującego po dniu jego złożenia w przypadku gdy starosta jest organem właściwym do wydzierżawienia danego obwodu łowieckiego;
-- **2)** od dnia następującego po dniu zawiadomienia organu właściwego do wydzierżawienia danego obwodu łowieckiego w przypadku gdy starosta nie jest organem właściwym do wydzierżawienia danego obwodu łowieckiego;
-- **3)** od dnia następującego po dniu zawiadomienia ministra właściwego do spraw środowiska w przypadku obwodu łowieckiego wyłączonego z wydzierżawiania.
+- **1)** od dnia następującego po dniu jego złożenia – w przypadku gdy starosta jest organem właściwym do wydzierżawienia danego obwodu łowieckiego;
+- **2)** od dnia następującego po dniu zawiadomienia organu właściwego do wydzierżawienia danego obwodu łowieckiego – w przypadku gdy starosta nie jest organem właściwym do wydzierżawienia danego obwodu łowieckiego;
+- **3)** od dnia następującego po dniu zawiadomienia ministra właściwego do spraw środowiska – w przypadku obwodu łowieckiego wyłączonego z wydzierżawiania.
 
 6. W przypadku gdy starosta nie jest organem właściwym do wydzierżawienia danego obwodu łowieckiego lub gdy dany obwód łowiecki został wyłączony z wydzierżawiania, starosta zobowiązany jest niezwłocznie zawiadomić o złożeniu oświadczenia o zakazie wykonywania polowania lub cofnięciu oświadczenia o zakazie wykonywania polowania odpowiednio organ właściwy do wydzierżawienia obwodu albo ministra właściwego do spraw środowiska.
 
-7. Organ właściwy do wydzierżawienia danego obwodu łowieckiego lub gdy dany obwód łowiecki został wyłączony z wydzierżawiania minister właściwy do spraw środowiska są zobowiązani do niezwłocznego zawiadomienia dzierżawcy albo zarządcy obwodu łowieckiego o złożeniu oświadczenia o zakazie wykonywania polowania lub cofnięciu oświadczenia o zakazie wykonywania polowania.
+7. Organ właściwy do wydzierżawienia danego obwodu łowieckiego lub – gdy dany obwód łowiecki został wyłączony z wydzierżawiania – minister właściwy do spraw środowiska są zobowiązani do niezwłocznego zawiadomienia dzierżawcy albo zarządcy obwodu łowieckiego o złożeniu oświadczenia o zakazie wykonywania polowania lub cofnięciu oświadczenia o zakazie wykonywania polowania.
 
 **Art. 28.**
 
@@ -638,7 +631,7 @@ Art. 55–57. (pominięte)
 
 1a. Obwody łowieckie podlegają wydzierżawieniu przez Polski Związek Łowiecki tylko wtedy, gdy żadne koło łowieckie nie jest zainteresowane ich dzierżawieniem i tylko do czasu złożenia oferty przez koło łowieckie.
 
-2. Minister właściwy do spraw środowiska, po zasięgnięciu opinii Polskiego Związku Łowieckiego, może, w drodze decyzji, wyłączyć obwody łowieckie z wydzierżawiania i przekazać je na czas nie krótszy niż 10 lat w zarząd z przeznaczeniem na ośrodki hodowli zwierzyny, w których oprócz polowania realizowane są cele związane w szczególności z:
+2. Minister właściwy do spraw środowiska, po zasięgnięciu opinii Polskiego Związku Łowieckiego, może, w drodze decyzji, wyłączyć obwody łowieckie z wydzierżawiania i przekazać je na czas nie krótszy niż 10 lat w zarząd z przeznaczeniem na ośrodki hodowli zwierzyny, w których – oprócz polowania – realizowane są cele związane w szczególności z:
 
 - **1)** prowadzeniem wzorcowego zagospodarowania łowisk, wdrażaniem nowych osiągnięć z zakresu łowiectwa;
 - **2)** prowadzeniem badań naukowych;
@@ -655,9 +648,9 @@ Art. 55–57. (pominięte)
 
 1. Obwody łowieckie wydzierżawiają, na wniosek Polskiego Związku Łowieckiego, po zasięgnięciu opinii wójta (burmistrza, prezydenta miasta) oraz właściwej izby rolniczej:
 
-- **1)** obwody łowieckie leśne dyrektor regionalnej dyrekcji Państwowego Gospodarstwa Leśnego Lasy Państwowe;
-- **2)** obwody łowieckie polne starosta, wykonujący zadanie z zakresu administracji rządowej;
-- **3)** obwody łowieckie znajdujące się na terenie więcej niż jednego powiatu starosta powiatu, na terenie którego znajduje się największa część obwodu łowieckiego.
+- **1)** obwody łowieckie leśne – dyrektor regionalnej dyrekcji Państwowego Gospodarstwa Leśnego Lasy Państwowe;
+- **2)** obwody łowieckie polne – starosta, wykonujący zadanie z zakresu administracji rządowej;
+- **3)** obwody łowieckie znajdujące się na terenie więcej niż jednego powiatu – starosta powiatu, na terenie którego znajduje się największa część obwodu łowieckiego.
 
 1a. Obwód łowiecki obejmujący obszar gruntów pozostających w zarządzie organów wojskowych lub przydzielonych tym organom do wykorzystania może być wydzierżawiony kołom łowieckim za zgodą tych organów.
 
@@ -691,8 +684,8 @@ Art. 55–57. (pominięte)
 
 2a. Wydzierżawiający może wypowiedzieć umowę dzierżawy bez zachowania terminów wypowiedzenia:
 
-- **1)** po zasięgnięciu opinii Polskiego Związku Łowieckiego albo na wniosek Polskiego Związku Łowieckiego lub na wniosek właściwej izby rolniczej w przypadku nieusprawiedliwionego niezrealizowania przez dzierżawcę obwodu łowieckiego rocznego planu łowieckiego na poziomie co najmniej 80 % określonej w tym planie minimalnej liczby zwierzyny grubej do pozyskania, w każdym z trzech następujących po sobie łowieckich lat gospodarczych;
-- **2)** na wniosek Polskiego Związku Łowieckiego w przypadku negatywnej oceny prowadzenia gospodarki łowieckiej przez dzierżawcę obwodu łowieckiego, wynikającej z postępowania kontrolnego przeprowadzonego przez Polski Związek Łowiecki na podstawie statutu.
+- **1)** po zasięgnięciu opinii Polskiego Związku Łowieckiego albo na wniosek Polskiego Związku Łowieckiego lub na wniosek właściwej izby rolniczej – w przypadku nieusprawiedliwionego niezrealizowania przez dzierżawcę obwodu łowieckiego rocznego planu łowieckiego na poziomie co najmniej 80 % określonej w tym planie minimalnej liczby zwierzyny grubej do pozyskania, w każdym z trzech następujących po sobie łowieckich lat gospodarczych;
+- **2)** na wniosek Polskiego Związku Łowieckiego – w przypadku negatywnej oceny prowadzenia gospodarki łowieckiej przez dzierżawcę obwodu łowieckiego, wynikającej z postępowania kontrolnego przeprowadzonego przez Polski Związek Łowiecki na podstawie statutu.
 
 2b. Brak przedstawienia przez Polski Związek Łowiecki opinii, o której mowa w ust. 2a pkt 1, w terminie 14 dni od dnia otrzymania wystąpienia o opinię uznaje się za wyrażenie pozytywnej opinii.
 
@@ -720,7 +713,7 @@ Art. 55–57. (pominięte)
 
 1. Wydzierżawiający obowiązany jest rozliczyć otrzymany czynsz dzierżawny między nadleśnictwami i gminami.
 
-2. Nadleśnictwu przypada czynsz odpowiadający powierzchni państwowych gruntów leśnych, a gminom odpowiadający pozostałej powierzchni obwodu łowieckiego.
+2. Nadleśnictwu przypada czynsz odpowiadający powierzchni państwowych gruntów leśnych, a gminom – odpowiadający pozostałej powierzchni obwodu łowieckiego.
 
 3. Za obwody łowieckie wyłączone z wydzierżawiania zarządcy tych obwodów uiszczają ekwiwalent równy wysokości średniego czynszu za dzierżawę, stosowanego w obwodach łowieckich, wydzierżawionych na obszarze danej gminy lub gmin sąsiednich, a należność rozliczają według zasad określonych w ust. 1 i 2.
 
@@ -776,25 +769,23 @@ Art. 55–57. (pominięte)
 
 3. Krajowy Zjazd Delegatów Polskiego Związku Łowieckiego tworzą, wyłonieni w wyborach pośrednich, przedstawiciele kół łowieckich i przedstawiciele członków niezrzeszonych w kołach łowieckich.
 
-4. W skład Naczelnej Rady Łowieckiej wchodzą członkowie wybrani przez okręgowe zjazdy delegatów po jednym z każdego okręgu.
+4. W skład Naczelnej Rady Łowieckiej wchodzą członkowie wybrani przez okręgowe zjazdy delegatów – po jednym z każdego okręgu.
 
 5. W skład Zarządu Głównego wchodzą:
 
-- **1)** Łowczy Krajowy powoływany i odwoływany przez ministra właściwego do spraw środowiska;
-- **2)** członkowie w liczbie od 2 do 4 powoływani i odwoływani przez ministra właściwego do spraw środowiska na wniosek Łowczego Krajowego.
+- **1)** Łowczy Krajowy – powoływany i odwoływany przez ministra właściwego do spraw środowiska;
+- **2)** członkowie w liczbie od 2 do 4 – powoływani i odwoływani przez ministra właściwego do spraw środowiska na wniosek Łowczego Krajowego.
 
 6. W skład zarządu okręgowego wchodzą:
 
-- **1)** łowczy okręgowy powoływany i odwoływany przez Łowczego Krajowego po uzyskaniu pozytywnej opinii ministra właściwego do spraw środowiska;
-- **2)** członkowie w liczbie od 2 do 4 powoływani i odwoływani przez Zarząd Główny na wniosek łowczego okręgowego.
+- **1)** łowczy okręgowy – powoływany i odwoływany przez Łowczego Krajowego po uzyskaniu pozytywnej opinii ministra właściwego do spraw środowiska;
+- **2)** członkowie w liczbie od 2 do 4 – powoływani i odwoływani przez Zarząd Główny na wniosek łowczego okręgowego.
 
 7. W skład Kapituły Odznaczeń Łowieckich wchodzi 11 członków powoływanych przez Naczelną Radę Łowiecką.
 
 8. Okręgowy zjazd delegatów tworzą wyłonieni w wyborach bezpośrednich przedstawiciele kół łowieckich i przedstawiciele członków niezrzeszonych w kołach łowieckich.
 
-**Art. 32b.**
-
-- **3)** Polski Związek Łowiecki jest podmiotem ochrony ludności, który wykonuje zadania ochrony ludności i obrony cywilnej.
+**Art. 32b.** Polski Związek Łowiecki jest podmiotem ochrony ludności, który wykonuje zadania ochrony ludności i obrony cywilnej.
 
 **Art. 33.**
 
@@ -812,7 +803,7 @@ Art. 55–57. (pominięte)
 
 3. Osobowość prawną koła łowieckie nabywają i tracą z dniem nabycia lub utraty członkostwa w Polskim Związku Łowieckim.
 
-4. Zarządy okręgowe koordynują i nadzorują działalność kół łowieckich oraz członków osób fizycznych niezrzeszonych w kołach łowieckich.
+4. Zarządy okręgowe koordynują i nadzorują działalność kół łowieckich oraz członków – osób fizycznych niezrzeszonych w kołach łowieckich.
 
 5. Organy, o których mowa w ust. 4, uchylają, w ramach nadzoru, sprzeczne z prawem bądź statutem Polskiego Związku Łowieckiego uchwały kół łowieckich.
 
@@ -834,9 +825,9 @@ Art. 55–57. (pominięte)
 
 1. Organami koła łowieckiego są:
 
-- **1)** walne zgromadzenie jako najwyższa władza koła łowieckiego;
-- **2)** zarząd koła łowieckiego jako organ zarządzający i reprezentujący koło łowieckie na zewnątrz;
-- **3)** komisja rewizyjna jako organ kontroli wewnętrznej koła łowieckiego.
+- **1)** walne zgromadzenie – jako najwyższa władza koła łowieckiego;
+- **2)** zarząd koła łowieckiego – jako organ zarządzający i reprezentujący koło łowieckie na zewnątrz;
+- **3)** komisja rewizyjna – jako organ kontroli wewnętrznej koła łowieckiego.
 
 2. Walne zgromadzenie tworzą członkowie koła łowieckiego.
 
@@ -852,11 +843,11 @@ Art. 55–57. (pominięte)
 
 - **1)** będąca członkiem Polskiego Związku Łowieckiego;
 - **2)** która nie była skazana prawomocnym wyrokiem za umyślne przestępstwo lub przestępstwo skarbowe lub nie była ukarana w postępowaniu dyscyplinarnym;
-- **3)** w przypadku zarządu koła łowieckiego lub komisji rewizyjnej będąca członkiem danego koła łowieckiego.
+- **3)** w przypadku zarządu koła łowieckiego lub komisji rewizyjnej – będąca członkiem danego koła łowieckiego.
 
 2. W skład organów Polskiego Związku Łowieckiego nie może wchodzić osoba zatrudniona w organach administracji publicznej na stanowisku związanym ze sprawowaniem nadzoru nad działalnością Polskiego Związku Łowieckiego.
 
-**Art. 33d.** W skład organów Polskiego Związku Łowieckiego, a także w skład zarządu koła łowieckiego lub komisji rewizyjnej nie może wchodzić osoba urodzona przed dniem 1 sierpnia 1972 r., która była pracownikiem, funkcjonariuszem lub żołnierzem organów bezpieczeństwa państwa, o których mowa w art. 5 ustawy z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu (Dz. U. z 2023 r. poz. 102), w okresie od dnia 22 lipca 1944 r. do dnia 31 lipca 1990 r. lub współpracowała z tymi organami.
+**Art. 33d.** W skład organów Polskiego Związku Łowieckiego, a także w skład zarządu koła łowieckiego lub komisji rewizyjnej nie może wchodzić osoba urodzona przed dniem 1 sierpnia 1972 r., która była pracownikiem, funkcjonariuszem lub żołnierzem organów bezpieczeństwa państwa, o których mowa w art. 5 ustawy z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu (Dz. U. z 2023 r. poz. 102), w okresie od dnia 22 lipca 1944 r. do dnia 31 lipca 1990 r. lub współpracowała z tymi organami.
 
 **Art. 33e.**
 
@@ -1000,12 +991,12 @@ Art. 55–57. (pominięte)
 
 1. Naczelna Rada Łowiecka powołuje na 5-letnią wspólną kadencję:
 
-- **1)** Główny Sąd Łowiecki w składzie od 15 do 25 sędziów, w tym prezesa i na jego wniosek od 2 do 6 zastępców prezesa;
+- **1)** Główny Sąd Łowiecki – w składzie od 15 do 25 sędziów, w tym prezesa i na jego wniosek od 2 do 6 zastępców prezesa;
 - **2)** Głównego Rzecznika Dyscyplinarnego i jego od 2 do 6 zastępców.
 
 2. Naczelna Rada Łowiecka powołuje na 5-letnią wspólną kadencję:
 
-- **1)** okręgowe sądy łowieckie w składzie od 6 do 15 sędziów, w tym prezesa i na jego wniosek od 2 do 6 zastępców prezesa;
+- **1)** okręgowe sądy łowieckie – w składzie od 6 do 15 sędziów, w tym prezesa i na jego wniosek od 2 do 6 zastępców prezesa;
 - **2)** okręgowych rzeczników dyscyplinarnych i ich od 2 do 10 zastępców.
 
 3. Kadencja sędziego sądu łowieckiego, rzecznika dyscyplinarnego i jego zastępcy wygasa, jeżeli:
@@ -1032,7 +1023,7 @@ Art. 55–57. (pominięte)
 
 1. Szczegółowe zasady funkcjonowania sądów łowieckich oraz rzeczników dyscyplinarnych, a także szczegółowe zasady postępowania przed tymi organami określi regulamin sądów łowieckich i rzeczników dyscyplinarnych Polskiego Związku Łowieckiego uchwalony przez Naczelną Radę Łowiecką.
 
-2. W sprawach nieuregulowanych w niniejszym rozdziale do postępowania dyscyplinarnego stosuje się odpowiednio przepisy ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego (Dz. U. z 2025 r. poz. 46).
+2. W sprawach nieuregulowanych w niniejszym rozdziale do postępowania dyscyplinarnego stosuje się odpowiednio przepisy ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2025 r. poz. 46).
 
 **Art. 35t.** Ilekroć w niniejszym rozdziale jest mowa o:
 
@@ -1115,9 +1106,9 @@ Art. 55–57. (pominięte)
 
 8. Strażnikowi Państwowej Straży Łowieckiej wykonującemu obowiązki na terenach obwodów łowieckich przysługują uprawnienia określone odrębnymi przepisami odnoszącymi się do:
 
-- **1)** Straży Ochrony Przyrody w zakresie przestrzegania przepisów o ochronie przyrody;
-- **2)** Państwowej Straży Rybackiej w zakresie kontroli legalności dokonywania połowu;
-- **3)** strażników leśnych w zakresie zwalczania szkodnictwa leśnego.
+- **1)** Straży Ochrony Przyrody – w zakresie przestrzegania przepisów o ochronie przyrody;
+- **2)** Państwowej Straży Rybackiej – w zakresie kontroli legalności dokonywania połowu;
+- **3)** strażników leśnych – w zakresie zwalczania szkodnictwa leśnego.
 
 9. (uchylony)
 
@@ -1165,9 +1156,9 @@ Art. 55–57. (pominięte)
 
 3. Wyróżnia się trzy rodzaje uprawnień do wykonywania polowania:
 
-- **1)** podstawowe uprawniające do odstrzału zwierząt łownych, z wyjątkiem samców zwierzyny płowej;
-- **2)** selekcjonerskie uprawniające do odstrzału wszystkich zwierząt łownych;
-- **3)** sokolnicze uprawniające do łowienia zwierzyny przy pomocy ptaków łowczych.
+- **1)** podstawowe – uprawniające do odstrzału zwierząt łownych, z wyjątkiem samców zwierzyny płowej;
+- **2)** selekcjonerskie – uprawniające do odstrzału wszystkich zwierząt łownych;
+- **3)** sokolnicze – uprawniające do łowienia zwierzyny przy pomocy ptaków łowczych.
 
 4. Warunkiem uzyskania uprawnień do wykonywania polowania, o którym mowa w ust. 3 pkt 1, jest:
 
@@ -1228,13 +1219,13 @@ Art. 55–57. (pominięte)
 - **11)** polowania bez posiadania uprawnień do polowania;
 - **12)** wchodzenia w posiadanie zwierzyny za pomocą broni i amunicji innej niż myśliwska, środków i materiałów wybuchowych, trucizn, karmy o właściwościach odurzających, sztucznego światła, lepów, wnyków, żelaz, dołów, samostrzałów lub rozkopywania nor i innych niedozwolonych środków;
 - **13)** strzelania do zwierzyny w odległości mniejszej niż 500 m od miejsca zebrań publicznych w czasie ich trwania lub w odległości mniejszej niż 150 m od zabudowań mieszkalnych;
-- **14)** zakładania narzędzi lub urządzeń przeznaczonych do łowienia, chwytania lub zabijania zwierzyny, z wyjątkiem odłowów, o których mowa w art. 44 ust. 3, art. 44a albo art. 45, odłowów prowadzonych zgodnie z zatwierdzonym rocznym planem łowieckim albo odłowów prowadzonych na podstawie ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt;
+- **14)** zakładania narzędzi lub urządzeń przeznaczonych do łowienia, chwytania lub zabijania zwierzyny, z wyjątkiem odłowów, o których mowa w art. 44 ust. 3, art. 44a albo art. 45, odłowów prowadzonych zgodnie z zatwierdzonym rocznym planem łowieckim albo odłowów prowadzonych na podstawie ustawy z dnia 21 listopada 2025 r. o zdrowiu zwierząt;
 - **15)** wykonywania polowania w obecności lub przy udziale dzieci do 18. roku życia;
-- **16)** celowego utrudniania lub uniemożliwiania wykonywania polowania. Art. 42ab. 1. Dzierżawca albo zarządca obwodu łowieckiego przekazuje co najmniej na 14 dni przed planowanym terminem rozpoczęcia polowania zbiorowego wójtom (burmistrzom, prezydentom miast) oraz nadleśniczym Państwowego Gospodarstwa Leśnego Lasy Państwowe, właściwym ze względu na miejsce wykonywania polowania, informację w postaci papierowej lub elektronicznej o planowanym terminie, w tym godzinie rozpoczęcia i zakończenia, oraz miejscu tego polowania.
+- **16)** celowego utrudniania lub uniemożliwiania wykonywania polowania. Art. 42ab. 1. Dzierżawca albo zarządca obwodu łowieckiego przekazuje – co najmniej na 14 dni przed planowanym terminem rozpoczęcia polowania zbiorowego – wójtom (burmistrzom, prezydentom miast) oraz nadleśniczym Państwowego Gospodarstwa Leśnego Lasy Państwowe, właściwym ze względu na miejsce wykonywania polowania, informację w postaci papierowej lub elektronicznej o planowanym terminie, w tym godzinie rozpoczęcia i zakończenia, oraz miejscu tego polowania.
 
 2. Termin rozpoczęcia i zakończenia oraz miejsce polowania zbiorowego są podawane do publicznej wiadomości przez wójta (burmistrza, prezydenta miasta), nie później niż w terminie 5 dni od dnia otrzymania informacji, o której mowa w ust. 1, w sposób zwyczajowo przyjęty w danej gminie oraz przez obwieszczenie i na stronie internetowej urzędu gminy.
 
-3. Właściciel, posiadacz lub zarządca gruntu, w terminie nie krótszym niż 3 dni przed planowanym terminem rozpoczęcia polowania zbiorowego, może zgłosić sprzeciw wraz z uzasadnieniem do właściwego wójta (burmistrza, prezydenta miasta). Sprzeciw może dotyczyć polowania organizowanego w terminie wskazanym zgodnie z ust. 2. W sprzeciwie właściciel, posiadacz lub zarządca gruntu powinien wskazać nieruchomość przez podanie dokładnego adresu, a w przypadku gdyby takiego adresu nie było numeru działki ewidencyjnej i obrębu.
+3. Właściciel, posiadacz lub zarządca gruntu, w terminie nie krótszym niż 3 dni przed planowanym terminem rozpoczęcia polowania zbiorowego, może zgłosić sprzeciw wraz z uzasadnieniem do właściwego wójta (burmistrza, prezydenta miasta). Sprzeciw może dotyczyć polowania organizowanego w terminie wskazanym zgodnie z ust. 2. W sprzeciwie właściciel, posiadacz lub zarządca gruntu powinien wskazać nieruchomość przez podanie dokładnego adresu, a w przypadku gdyby takiego adresu nie było – numeru działki ewidencyjnej i obrębu.
 
 4. Wójt (burmistrz, prezydent miasta) zawiadamia niezwłocznie dzierżawcę lub zarządcę obwodu łowieckiego o wniesionym przez właściciela, posiadacza albo zarządcę gruntu sprzeciwie do organizowanego polowania zbiorowego, przekazując mu ten sprzeciw wraz z uzasadnieniem.
 
@@ -1260,7 +1251,7 @@ Art. 55–57. (pominięte)
 
 1f. W przypadku zaistnienia okoliczności uniemożliwiających czasowo prowadzenie książki ewidencji pobytu na polowaniu indywidualnym w postaci elektronicznej, dzierżawca albo zarządca obwodu łowieckiego jest obowiązany prowadzić książkę ewidencji pobytu na polowaniu indywidualnym w postaci papierowej dla każdego obwodu łowieckiego.
 
-2. W przypadku pozyskania zwierzyny albo ptaków lub ssaków należących do IGO stwarzającego zagrożenie dla Unii lub do IGO stwarzającego zagrożenie dla Polski na polowaniu indywidualnym myśliwy jest obowiązany odnotować ten fakt w posiadanym upoważnieniu do wykonywania polowania indywidualnego niezwłocznie po zakończeniu polowania, a w przypadku zwierzyny grubej przed podjęciem czynności transportowych.
+2. W przypadku pozyskania zwierzyny albo ptaków lub ssaków należących do IGO stwarzającego zagrożenie dla Unii lub do IGO stwarzającego zagrożenie dla Polski na polowaniu indywidualnym myśliwy jest obowiązany odnotować ten fakt w posiadanym upoważnieniu do wykonywania polowania indywidualnego niezwłocznie po zakończeniu polowania, a w przypadku zwierzyny grubej – przed podjęciem czynności transportowych.
 
 3. Za dokonanie wpisu, o którym mowa w ust. 1, odpowiedzialny jest myśliwy wykonujący polowanie.
 
@@ -1350,7 +1341,7 @@ Art. 55–57. (pominięte)
 
 - **1)** gatunki drapieżników, które mogą być odławiane w pułapki żywołowne,
 - **2)** warunki, czas i miejsce odłowu,
-- **3)** rodzaje pułapek żywołownych i warunki, jakie muszą one spełniać, aby zapewnić selektywny odłów drapieżników uwzględniając konieczność humanitarnego postępowania ze zwierzętami.
+- **3)** rodzaje pułapek żywołownych i warunki, jakie muszą one spełniać, aby zapewnić selektywny odłów drapieżników – uwzględniając konieczność humanitarnego postępowania ze zwierzętami.
 
 **Art. 45.**
 
@@ -1441,7 +1432,9 @@ Art. 55–57. (pominięte)
 
 3. O terminie planowanego sprzętu uszkodzonej uprawy właściciel albo posiadacz gruntów rolnych jest obowiązany powiadomić dzierżawcę albo zarządcę obwodu łowieckiego, w formie pisemnej, w terminie 7 dni przed zamierzonym sprzętem.
 
-4. O terminie dokonania szacowania ostatecznego szkody dzierżawca albo zarządca obwodu łowieckiego zawiadamia właściciela albo posiadacza gruntów rolnych oraz wojewódzki ośrodek doradztwa rolniczego właściwy ze względu na miejsce wystąpienia szkody, nie później niż przed upływem 3 dni od dnia otrzymania powiadomienia, o którym mowa w ust. 3, a w przypadkach, o których mowa w art. 46 ust. 7 w terminie 3 dni od dnia otrzymania wniosku, o którym mowa w art. 46 ust. 3.
+4. O terminie dokonania szacowania ostatecznego szkody dzierżawca albo zarządca obwodu łowieckiego zawiadamia właściciela albo posiadacza gruntów rolnych oraz wojewódzki ośrodek doradztwa rolniczego właściwy ze względu na miejsce wystąpienia szkody, nie później niż przed upływem 3 dni od dnia otrzymania powiadomienia, o którym mowa w ust. 3, a w przypadkach, o których mowa w art. 46 ust. 7 – w terminie 3 dni od dnia otrzymania wniosku, o którym mowa w art. 46 ust.
+
+3.
 
 5. Niezwłocznie po zakończeniu szacowania ostatecznego dzierżawca albo zarządca obwodu łowieckiego sporządza protokół, który zawiera w szczególności następujące dane i informacje:
 
@@ -1472,7 +1465,7 @@ Art. 55–57. (pominięte)
 6. O terminie oględzin lub szacowania ostatecznego nadleśniczy Państwowego Gospodarstwa Leśnego Lasy Państwowe zawiadamia:
 
 - **1)** członków zespołu, o którym mowa w art. 46 ust. 2,
-- **2)** jeżeli został złożony wniosek, o którym mowa w ust. 5, przedstawiciela właściwej ze względu na miejsce wystąpienia szkód izby rolniczej nie później jednak niż przed upływem 3 dni od dnia otrzymania odwołania.
+- **2)** jeżeli został złożony wniosek, o którym mowa w ust. 5, przedstawiciela właściwej ze względu na miejsce wystąpienia szkód izby rolniczej – nie później jednak niż przed upływem 3 dni od dnia otrzymania odwołania.
 
 7. Niestawiennictwo osób, o których mowa w ust. 6, nie wstrzymuje dokonania oględzin lub szacowania ostatecznego.
 
@@ -1509,17 +1502,17 @@ Art. 55–57. (pominięte)
 - **1)** sposób i terminy zgłaszania szkód, o których mowa w art. 46 ust. 1,
 - **2)** szczegółowy sposób dokonywania oględzin i szacowania ostatecznego szkód, o których mowa w art. 46 ust. 1,
 - **3)** szczegółowy sposób ustalania wysokości i wypłaty odszkodowania za szkody, o których mowa w art. 46 ust. 1,
-- **4)** wzory protokołów, o których mowa w art. 46a ust. 4, art. 46c ust. 5 i art. 46d ust. 8 mając na względzie specyfikę poszczególnych upraw rolnych oraz konieczność uwzględnienia w szacowaniu szkody obszaru uszkodzonej uprawy, a także strat ilościowych i jakościowych powstałych w wyniku uszkodzenia lub zniszczenia uprawy lub płodów rolnych, oraz kierując się potrzebą zapewnienia jednolitego sposobu szacowania szkód na terenie całego kraju.
+- **4)** wzory protokołów, o których mowa w art. 46a ust. 4, art. 46c ust. 5 i art. 46d ust. 8 – mając na względzie specyfikę poszczególnych upraw rolnych oraz konieczność uwzględnienia w szacowaniu szkody obszaru uszkodzonej uprawy, a także strat ilościowych i jakościowych powstałych w wyniku uszkodzenia lub zniszczenia uprawy lub płodów rolnych, oraz kierując się potrzebą zapewnienia jednolitego sposobu szacowania szkód na terenie całego kraju.
 
 2. W rozporządzeniu, o którym mowa w ust. 1, może być określony szczegółowy tryb postępowania w sprawie oględzin i szacowania ostatecznego szkód, o których mowa w art. 46 ust. 1, oraz ustalenia wysokości odszkodowania za te szkody, w tym sposób powiadamiania o terminach dokonania oględzin i szacowania ostatecznego szkód, o których mowa w art. 46 ust. 1.
 
 **Art. 49a.**
 
-1. W zakresie nieuregulowanym w ustawie lub przepisach wydanych na jej podstawie, do postępowania prowadzonego przez nadleśniczego lub dyrektora regionalnej dyrekcji Państwowego Gospodarstwa Leśnego Lasy Państwowe w sprawie ustalenia wysokości odszkodowania stosuje się odpowiednio przepisy ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
+1. W zakresie nieuregulowanym w ustawie lub przepisach wydanych na jej podstawie, do postępowania prowadzonego przez nadleśniczego lub dyrektora regionalnej dyrekcji Państwowego Gospodarstwa Leśnego Lasy Państwowe w sprawie ustalenia wysokości odszkodowania stosuje się odpowiednio przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
-2. Poza przypadkami określonymi w ustawie z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego nadleśniczy Państwowego Gospodarstwa Leśnego Lasy Państwowe, dyrektor regionalnej dyrekcji Państwowego Gospodarstwa Leśnego Lasy Państwowe lub ich przedstawiciel podlega wyłączeniu od udziału w postępowaniu w sprawie ustalenia wysokości odszkodowania, jeżeli jest członkiem koła łowieckiego będącego dzierżawcą obwodu łowieckiego, którego dotyczy to postępowanie.
+2. Poza przypadkami określonymi w ustawie z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego nadleśniczy Państwowego Gospodarstwa Leśnego Lasy Państwowe, dyrektor regionalnej dyrekcji Państwowego Gospodarstwa Leśnego Lasy Państwowe lub ich przedstawiciel podlega wyłączeniu od udziału w postępowaniu w sprawie ustalenia wysokości odszkodowania, jeżeli jest członkiem koła łowieckiego będącego dzierżawcą obwodu łowieckiego, którego dotyczy to postępowanie.
 
-3. Do wyłączenia, o którym mowa w ust. 2, przepisy art. 24 § 3 i 4 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego stosuje się odpowiednio.
+3. Do wyłączenia, o którym mowa w ust. 2, przepisy art. 24 § 3 i 4 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego stosuje się odpowiednio.
 
 **Art. 50.**
 
@@ -1549,7 +1542,7 @@ Art. 55–57. (pominięte)
 - **5)** niszczy urządzenia łowieckie, wybiera karmę lub sól z lizawek,
 - **6)** poluje, nie posiadając przy sobie wymaganych dokumentów,
 - **7)** wbrew przepisowi art. 42b ust. 2 nie dokonuje wymaganych wpisów w upoważnieniu do wykonywania polowania indywidualnego, 7a) nie przestrzega zasad bioasekuracji podczas polowania lub odstrzału sanitarnego, o którym mowa w art. 8 ust. 8, oraz przy wykonywaniu czynności związanych z zagospodarowaniem pozyskanej zwierzyny
-- **8)** (uchylony) podlega karze grzywny.
+- **8)** (uchylony) – podlega karze grzywny.
 
 2. W przypadkach określonych w ust. 1 orzekanie następuje w trybie przepisów o postępowaniu w sprawach o wykroczenia.
 

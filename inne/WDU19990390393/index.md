@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# Dziennik Ustaw Nr 39 - 2208393 z dnia 28 kwietnia w sprawie wzorów wniosku rantowanych Pracowniczych i wykazu pracowników, niu z tego Funduszu, a trybu ich i rozpatrywania, ków Funduszu na tych Na podstawie art. 5 ust. 7 pkt 1 ustawy z dnia 17 lip ca 1997 r. o stosowaniu szczególnych w z skutków powodzi, która miejsce w lipcu 1997 r. (Dz. U. Nr 80, poz. 491, Nr 107, poz. 692 i Nr 160, poz. 1087 oraz z 1999 r. Nr 15, poz. 135), co
+# Dz.U. 199 Nr 39 poz. 393 ROZPORZĄDZENIE MINISTRA PRACY I POLITYKI SOCJALNEJ z dnia 28 kwietnia 1999 r.
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +23,14 @@ domain: null
 | Ostatnia zmiana | 2014-12-31 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990390393) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1999/393/text.pdf) |
 
-1. W Ministra Pracy i Polityki So cjalnej z dnia 18 lipca 1997 r. w sprawie wzorów wnio sku pracodawcy o przekazanie z Funduszu Gwarantowanych Pracowniczych i wykazu pracowników, których wynagrodzenie podlega zaspo kojeniu z tego Funduszu, a trybu ich i rozpatrywania, sposobu przekazywania pracodaw com Funduszu na tych oraz zasad ich zwrotu (Dz. U. Nr 81, poz. 517) w 3 wprowadza zmiany:
-1) ust. 12 otrzymuje brzmienie: ,,12. Pracodawca dokonuje zwrotu otrzy manych z Funduszu w 44 równych nych ratach od maja 1999 r. w nieprzekraczalnym terminie do ostat niego dnia Kwota raty mie stanowi 1/44 kwoty otrzymanych 394 z dnia 19 kwietnia w sprawie warunków weterynaryjnych niejadalnych surowców Na podstawie art. ust. pkt oraz ust. ustawy z dnia 24 kwietnia 1997 r. o zwalczaniu chorób nych badaniu i oraz o Inspekcji Weterynaryjnej (Dz. U. Nr 60, poz. 369 i z 1998 Nr 106, poz. 668) co je:
-1. transportu i pojemnik do przewozu lub niejadalnych surowców zwa ne dalej odpowiednio transportu" lub "po jemnikiem", powinny
-1) do czyszczenia i dezynfekcji,
-2) zabezpieczone przed wyciekaniem i wypadaniem na odchodów i
-2. 1. powinny tylko do transportu lub do pojemnika, które
+zmieniające rozporządzenie w sprawie wzorów wniosku pracodawcy o przekazanie środków z Funduszu Gwarantowanych Świadczeń Pracowniczych i wykazu pracowników, których wynagrodzenie podlega zaspokojeniu z tego Funduszu, a także trybu ich składania i rozpatrywania, sposobu przekazywania pracodawcom środków funduszu na wypłatę tych wynagrodzeń oraz szczegółowych zasad ich zwrotu.
+Na podstawie art. 5 ust. 7 pkt 1 ustawy z dnia 17 lipca 1997 r. o stosowaniu szczególnych rozwiązań w związku z likwidacją skutków powodzi, która miała miejsce w lipcu 1997 r.
+(Dz.U. Nr 80, poz. 491, Nr 107, poz. 692 i Nr 160, poz. 1087 oraz z 1999 r. Nr 15, poz. 135) zarządza się, co następuje: § 1.
+W rozporządzeniu Ministra Pracy i Polityki Socjalnej z dnia 18 lipca 1997 r. w sprawie wzorów wniosku pracodawcy o przekazanie środków z Funduszu Gwarantowanych Świadczeń Pracowniczych i wykazu pracowników, których wynagrodzenie podlega zaspokojeniu z tego Funduszu, a także trybu ich składania i rozpatrywania, sposobu przekazywania pracodawcom środków funduszu na wypłatę tych wynagrodzeń oraz szczegółowych zasad ich zwrotu (Dz.U. Nr 81, poz. 517) w § 3 wprowadza się następujące zmiany:
+1) ust. 12 otrzymuje brzmienie: „12. Pracodawca dokonuje zwrotu środków otrzymanych z Funduszu w 44 równych miesięcznych ratach płatnych począwszy od maja 1999 r. w nieprzekraczalnym terminie do ostatniego dnia każdego miesiąca. Kwota raty miesięcznej stanowi 1/44 kwoty otrzymanych środków, pomniejszonej o kwotę spłaconą przed dniem 1 maja 1999 r.”;
+2) po ust. 12 dodaje się ust. 13 i 14 w brzmieniu: „13. Pracodawca może dokonać zwrotu środków otrzymanych z Funduszu w okresie krótszym niż określony w ust. 12.
+14. W przypadku zaistnienia niewypłacalności pracodawcy w rozumieniu przepisów ustawy z dnia 29 grudnia 1993 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy (Dz.U. z 1994 r. Nr 1, poz. 1, z 1995 r.
+87, poz. 435, z 1996 r. Nr 5, poz. 34, z 1997 r. Nr 28, poz. 153 i Nr 123, poz.
+776 oraz z 1998 r. Nr 106, poz. 668 i Nr 137, poz. 887) kwota główna nie spłaconego zadłużenia wraz z naliczonymi odsetkami za zwłokę staje się wymagalna z dniem zaistnienia niewypłacalności.” § 2.
+Rozporządzenie wchodzi w życie z dniem 1 maja 1999 r.
 

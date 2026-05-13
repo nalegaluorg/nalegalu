@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 16 marca 2023 r.
+# o zmianie ustawy – Kodeks wyborczy oraz niektórych innych ustaw
+
+*USTAWA z dnia 26 stycznia 2023 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,10 +26,7 @@ domain: null
 | Ostatnia zmiana | 2024-10-01 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000497) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/497/text.pdf) |
 
-USTAWA z dnia 26 stycznia 2023 r.
-o zmianie ustawy Kodeks wyborczy oraz niektórych innych ustaw
-
-**Art. 1.** W ustawie z dnia 5 stycznia 2011 r. Kodeks wyborczy (Dz. U. z 2022 r. poz. 1277 i 2418) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. z 2022 r. poz. 1277 i 2418) wprowadza się następujące zmiany:
 
 **Art. 18b.**
 
@@ -71,7 +70,7 @@ o zmianie ustawy Kodeks wyborczy oraz niektórych innych ustaw
 - **1)** ustnie do protokołu,
 - **2)** na piśmie utrwalonym postaci:
     - **a)** papierowej, opatrzonym własnoręcznym podpisem,
-    - **b)** elektronicznej, opatrzonym kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym przy wykorzystaniu środków komunikacji elektronicznej, na zasadach określonych ustawie z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne do urzędu gminy właściwego ze względu na miejsce zameldowania na pobyt stały lub zamieszkania.
+    - **b)** elektronicznej, opatrzonym kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym przy wykorzystaniu środków komunikacji elektronicznej, na zasadach określonych ustawie z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne – do urzędu gminy właściwego ze względu na miejsce zameldowania na pobyt stały lub zamieszkania.
 
 3. Wójt jest obowiązany rozpatrzyć reklamację terminie 3 dni od dnia jej wniesienia i wydać decyzję sprawie.
 
@@ -85,11 +84,11 @@ o zmianie ustawy Kodeks wyborczy oraz niektórych innych ustaw
 
 1. Dane o obywatelach Unii Europejskiej niebędących obywatelami polskimi, korzystających z praw wyborczych Rzeczypospolitej Polskiej związku ze zgłoszeniem wniosku, o którym mowa art. 19a 1, minister właściwy do spraw informatyzacji przekazuje właściwym organom państw członkowskich Unii Europejskiej nie później niż na 5 dni przed dniem wyborów do Parlamentu Europejskiego Rzeczypospolitej Polskiej.
 
-2. Dane przekazywane trybie 1 obejmują dane, o których mowa art. 18a 3 pkt 1, 2 i 4–6. Europejskiej informację o skreśleniu z Centralnego Rejestru Wyborców osoby, o ile przesłał uprzednio do tego organu informację, o której mowa 1.
+2. Dane przekazywane trybie 1 obejmują dane, o których mowa art. 18a 3 pkt 1, 2 i 4–6.
+
+3. Minister właściwy do spraw informatyzacji przesyła właściwemu organowi państwa członkowskiego Unii Europejskiej informację o skreśleniu z Centralnego Rejestru Wyborców osoby, o ile przesłał uprzednio do tego organu informację, o której mowa 1.
 
 4. Minister właściwy do spraw informatyzacji przekazuje właściwym organom państw członkowskich Unii Europejskiej, na ich wniosek, dane dotyczące obywateli polskich chcących korzystać z praw wyborczych na terytorium innego państwa członkowskiego Unii Europejskiej, zakresie niezbędnym do korzystania z tych praw.
-
-5. Informacje, o których mowa 1–4, przesyła się przy wykorzystaniu środków komunikacji elektronicznej.”;
 
 - **20)** uchyla się art. 24 i art. 25;
 - **21)** po art. 25 dodaje się art. 25a brzmieniu: „Art. 25a. 1. W celu organizacji wyborów do organów jednostek pomocniczych i jednostek niższego rzędu, o których mowa art. 35 ustawy z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2023 r. poz. 40), przed organizacją tych wyborów z Centralnego Rejestru Wyborców mogą być przekazywane do systemu teleinformatycznego prowadzonego przez gminę:
@@ -110,8 +109,8 @@ o zmianie ustawy Kodeks wyborczy oraz niektórych innych ustaw
 
 5. Spis wyborców składa się z:
 
-- **1)** części A wyborach do Sejmu i do Senatu, wyborach Prezydenta Rzeczypospolitej oraz wyborach do rad powiatów i sejmików województw;
-- **2)** części A i części B wyborach do Parlamentu Europejskiego Rzeczypospolitej Polskiej, wyborach do rad gmin oraz wyborach wójtów.
+- **1)** części A – wyborach do i do Senatu, wyborach Prezydenta Rzeczypospolitej oraz wyborach do rad powiatów i sejmików województw;
+- **2)** części A i części B – wyborach do Parlamentu Europejskiego Rzeczypospolitej Polskiej, wyborach do rad gmin oraz wyborach wójtów.
 
 6. W spisie wyborców, części A, zamieszcza się dane obywateli polskich zakresie:
 
@@ -126,11 +125,11 @@ o zmianie ustawy Kodeks wyborczy oraz niektórych innych ustaw
 - **2)** imienia (imion);
 - **3)** numeru ewidencyjnego PESEL;
 - **4)** obywatelstwa;
-- **5)** adresu zamieszkania. Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej, uprawnionych do korzystania z praw wyborczych Rzeczypospolitej Polskiej.
+- **5)** adresu zamieszkania.
 
-9. Spis wyborców sporządza się nie później niż drugim dniu przed dniem wyborów dwóch egzemplarzach formie wydruku, oddzielnie dla każdego obwodu głosowania. Po upływie trzeciego dnia przed dniem wyborów spis sporządzany Centralnym Rejestrze Wyborców sporządza się według stanu na trzeci dzień przed dniem wyborów.
+8. W wyborach do rad gmin i wyborach wójtów przepis 7 stosuje się odpowiednio również do obywateli Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej, uprawnionych do korzystania z praw wyborczych Rzeczypospolitej Polskiej.
 
-10. Od 44 dnia przed dniem wyborów Centralnym Rejestrze Wyborców generuje się sposób automatyczny, jednak nie częściej niż raz na dobę, spisy wyborców dla każdego obwodu głosowania formie elektronicznej, które są udostępniane gminom przez ministra właściwego do spraw informatyzacji.
+9. Spis wyborców sporządza się nie później niż drugim dniu przed dniem wyborów dwóch egzemplarzach formie wydruku, oddzielnie dla każdego obwodu głosowania. Po upływie trzeciego dnia przed dniem wyborów spis sporządzany Centralnym Rejestrze Wyborców sporządza się według stanu na trzeci dzień przed dniem wyborów. które są udostępniane gminom przez ministra właściwego do spraw informatyzacji.
 
 11. W przypadku gdy z przyczyn technicznych gmina nie ma możliwości sporządzenia spisu wyborców zgodnie z 9 do przeprowadzania głosowania wyborach, które zostały zarządzone, wykorzystuje się ostatnio udostępniony spis zgodnie z 10.”;
 
@@ -157,9 +156,10 @@ o zmianie ustawy Kodeks wyborczy oraz niektórych innych ustaw
 
 3. W wyborach wójta, których przeprowadza się ponowne głosowanie, przepisy 1 i 2 stosuje się odpowiednio, z tym że wniosek o zmianę miejsca głosowania składa się okresie między 13 a 3 dniem przed ponownym głosowaniem.”;
 
-- **a)** 1 otrzymuje brzmienie: „§ 1. Spis wyborców jednostkach, o których mowa art. 12 4 i 7, sporządza się na podstawie wykazów osób, które będą nich przebywać dniu wyborów, z zastrzeżeniem 2. W wykazie zamieszcza się imię (imiona), nazwisko oraz numer ewidencyjny PESEL każdej z osób ujętych wykazie. Adres zamieszkania spisie wyborców zamieszcza się, jeżeli wyborca jest ujęty Centralnym Rejestrze Wyborców obwodzie głosowania.”,
-- **b)** 3 otrzymuje brzmienie: „§ 3. Wykazy osób, o których mowa 1, osoba kierująca daną jednostką przekazuje do urzędu gminy najpóźniej 3 dniu przed dniem wyborów.”,
-- **c)** 4 otrzymuje brzmienie: „§ 4. W wykazie osób, które będą przebywały zakładzie karnym, areszcie śledczym oraz oddziale zewnętrznym takiego zakładu i aresztu, nie umieszcza się osób pozbawionych praw publicznych prawomocnym orzeczeniem sądu.”;
+- **25)** art. 29:
+    - **a)** 1 otrzymuje brzmienie: „§ 1. Spis wyborców jednostkach, o których mowa art. 12 4 i 7, sporządza się na podstawie wykazów osób, które będą nich przebywać dniu wyborów, z zastrzeżeniem 2. W wykazie zamieszcza się imię (imiona), nazwisko oraz numer ewidencyjny PESEL każdej z osób ujętych wykazie. Adres zamieszkania spisie wyborców zamieszcza się, jeżeli wyborca jest ujęty Centralnym Rejestrze Wyborców obwodzie głosowania.”, „§ 3. Wykazy osób, o których mowa 1, osoba kierująca daną jednostką przekazuje do urzędu gminy najpóźniej 3 dniu przed dniem wyborów.”,
+    - **c)** 4 otrzymuje brzmienie: „§ 4. W wykazie osób, które będą przebywały zakładzie karnym, areszcie śledczym oraz oddziale zewnętrznym takiego zakładu i aresztu, nie umieszcza się osób pozbawionych praw publicznych prawomocnym orzeczeniem sądu.”;
+
 - **26)** po art. 29 dodaje się art. 29a brzmieniu: „Art. 29a. Wyborcy ujęci spisie sporządzonym przez gminę dla obwodu odrębnego, wyborcy, o których mowa art. 30, oraz wyborcy ujęci spisach sporządzanych na podstawie art. 34 i art. 35 zostają skreśleni ze spisu stałym obwodzie głosowania właściwym dla adresu zameldowania na pobyt stały lub adresu stałego zamieszkania.”;
 - **27)** art. 30 1 otrzymuje brzmienie: „§ 1. Żołnierze pełniący zasadniczą służbę wojskową albo odbywający ćwiczenia wojskowe, a także ratownicy odbywający zasadniczą służbę obronie cywilnej poza miejscem stałego zamieszkania na wniosek o zmianę miejsca głosowania są ujmowani spisie wyborców gminy, której odbywają służbę. Przepisy art. 28 stosuje się odpowiednio.”;
 - **28)** uchyla się art. 31;
@@ -186,11 +186,11 @@ o zmianie ustawy Kodeks wyborczy oraz niektórych innych ustaw
 
 8. W wyborach Prezydenta Rzeczypospolitej wyborca zmieniający miejsce pobytu przed dniem wyborów otrzymuje na swoje żądanie dwa zaświadczenia o prawie do głosowania: jedno z oznaczeniem prawa do głosowania dniu pierwszego głosowania oraz drugie z oznaczeniem prawa do głosowania dniu ponownego głosowania.
 
-9. W wyborach Prezydenta Rzeczypospolitej wyborca zmieniający miejsce pobytu po dniu pierwszego głosowania, a przed ponownym głosowaniem, otrzymuje na swoje żądanie zaświadczenie o prawie do głosowania z oznaczeniem prawa do głosowania dniu ponownego głosowania.”; „Art. 32a. Minister właściwy do spraw informatyzacji, po zasięgnięciu opinii Państwowej Komisji Wyborczej, określi, drodze rozporządzenia:
+9. W wyborach Prezydenta Rzeczypospolitej wyborca zmieniający miejsce pobytu po dniu pierwszego głosowania, a przed ponownym głosowaniem, otrzymuje na swoje żądanie zaświadczenie o prawie do głosowania z oznaczeniem prawa do głosowania dniu ponownego głosowania.”;
 
+- **30)** po art. 32 dodaje się art. 32a i art. 32b brzmieniu: „Art. 32a. Minister właściwy do spraw informatyzacji, po zasięgnięciu opinii Państwowej Komisji Wyborczej, określi, drodze rozporządzenia:
 - **1)** wzór spisu wyborców,
-- **2)** sposób i tryb sporządzania spisu wyborców oraz jego aktualizacji,
-- **3)** wzór wykazu wyborców przebywających zakładach leczniczych, domach pomocy społecznej, zakładach karnych i aresztach śledczych oraz oddziałach zewnętrznych takich zakładów i aresztów, a także domach studenckich i zespołach domów studenckich, których utworzono obwody głosowania uwzględniając zakres danych wymaganych spisie wyborców oraz konieczność zapewnienia ochrony danych osobowych.
+- **2)** sposób i tryb sporządzania spisu wyborców oraz jego aktualizacji, i aresztach śledczych oraz oddziałach zewnętrznych takich zakładów i aresztów, a także domach studenckich i zespołach domów studenckich, których utworzono obwody głosowania – uwzględniając zakres danych wymaganych spisie wyborców oraz konieczność zapewnienia ochrony danych osobowych.
 
 **Art. 32b.** Minister właściwy do spraw wewnętrznych, po zasięgnięciu opinii Państwowej Komisji Wyborczej, określi, drodze rozporządzenia:
 
@@ -203,13 +203,15 @@ o zmianie ustawy Kodeks wyborczy oraz niektórych innych ustaw
 
 2. Linia komunikacyjna gminnego przewozu pasażerskiego, o którym mowa 1, ustalana jest sposób uwzględniający wszystkie miasta, osiedla, wsie, osady, kolonie i przysiółki rozumieniu ustawy z dnia 29 sierpnia 2003 r. o urzędowych nazwach miejscowości i obiektów fizjograficznych (Dz. U. z 2019 r. poz. 1443) położone obrębie stałego obwodu głosowania.
 
-3. Przystanki komunikacyjne gminnego przewozu pasażerskiego, o którym mowa 1, ustalane są każdym mieście, osiedlu, wsi, osadzie, kolonii i przysiółku, których mieszka co najmniej 5 wyborców ujętych spisie wyborców danym stałym obwodzie głosowania. co najmniej dwa pełne kursy. Kursy te muszą odbyć się odstępie co najmniej 4 godzin, liczonych od momentu zakończenia kursu.
+3. Przystanki komunikacyjne gminnego przewozu pasażerskiego, o którym mowa 1, ustalane są każdym mieście, osiedlu, wsi, osadzie, kolonii i przysiółku, których mieszka co najmniej 5 wyborców ujętych spisie wyborców danym stałym obwodzie głosowania.
 
-5. Wójt najpóźniej do 10 dnia przed wyborami podaje do publicznej wiadomości przez umieszczenie Biuletynie Informacji Publicznej oraz sposób zwyczajowo przyjęty danej gminie informację o organizacji gminnego przewozu pasażerskiego, o którym mowa 1, wskazuje linię komunikacyjną tego transportu, ze szczególnym uwzględnieniem przystanków komunikacyjnych, oraz godziny odjazdów z poszczególnych przystanków komunikacyjnych.
+4. W ramach gminnego przewozu pasażerskiego, o którym mowa 1, godzinach głosowania odbywają się co najmniej dwa pełne kursy. Kursy te muszą odbyć się odstępie co najmniej 4 godzin, liczonych od momentu zakończenia kursu.
 
-6. Zadanie, o którym mowa 1, może być realizowane przez więcej niż jednego wójta ramach porozumień międzygminnych. Przepisy 1–5 stosuje się odpowiednio. W porozumieniu międzygminnym określa się szczególności podział zadań między organami gmin będących stroną porozumienia oraz zasady rozliczania kosztów poniesionych przez każdą z gmin.
+5. Wójt najpóźniej do 10 dnia przed wyborami podaje do publicznej wiadomości przez umieszczenie Biuletynie Informacji Publicznej oraz sposób zwyczajowo przyjęty danej gminie informację o organizacji gminnego przewozu pasażerskiego, o którym mowa 1, wskazuje linię komunikacyjną tego transportu, ze szczególnym uwzględnieniem przystanków komunikacyjnych, oraz godziny odjazdów z poszczególnych przystanków komunikacyjnych. ności podział zadań między organami gmin będących stroną porozumienia oraz zasady rozliczania kosztów poniesionych przez każdą z gmin.
 
 **Art. 37g.** Zadania określone art. 37e 1 oraz art. 37f 1 są zadaniami z zakresu administracji rządowej zleconymi gminie, a środki przeznaczone na ich realizację zapewnia wojewoda. Przepisów art. 123 i art. 124 nie stosuje się.”;
+
+**Art. 2.** W ustawie z dnia 27 czerwca 1997 r. o partiach politycznych (Dz. U. z 2022 r. poz. 372) wprowadza się następujące zmiany:
 
 **Art. 3.** W ustawie z dnia 21 sierpnia 1997 r. o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne (Dz. U. z 2022 r. poz. 1110) art. 12 ust. 9 otrzymuje brzmienie: „9. Informacje zawarte zgłoszeniach do Rejestru są niezwłocznie podawane do publicznej wiadomości przez Państwową Komisję Wyborczą Biuletynie Informacji Publicznej i są udostępniane okresie zajmowania stanowiska lub pełnienia funkcji oraz okresie 6 lat po zakończeniu zajmowania stanowiska lub pełnienia funkcji, o których mowa ust. 7.”.
 
@@ -217,11 +219,7 @@ o zmianie ustawy Kodeks wyborczy oraz niektórych innych ustaw
 
 **Art. 5.** W ustawie z dnia 15 września 2000 r. o referendum lokalnym (Dz. U. z 2019 r. poz. 741) wprowadza się następujące zmiany:
 
-**Art. 6.** W ustawie z dnia 14 marca 2003 r. o referendum ogólnokrajowym (Dz. U. z 2020 r. poz. 851) art. 9:
-
 **Art. 7.** W ustawie z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów (Dz. U. z 2023 r. poz. 342) wprowadza się następujące zmiany:
-
-**Art. 8.** W ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2022 r. poz. 1634, z późn. zm. ) art. 149 ust. 2 pkt 1 otrzymuje brzmienie: „1) Szefa Krajowego Biura Wyborczego lub działających z jego upoważnienia dyrektorów zespołów i delegatur Krajowego Biura Wyborczego na finansowanie zadań związanych z aktualizowaniem Centralnego Rejestru Wyborców oraz organizacją i przeprowadzaniem wyborów i referendów;”.
 
 **Art. 9.** W ustawie z dnia 24 września 2010 r. o ewidencji ludności (Dz. U. z 2022 r. poz. 1191) wprowadza się następujące zmiany:
 
@@ -235,10 +233,11 @@ o zmianie ustawy Kodeks wyborczy oraz niektórych innych ustaw
 
 2. Do dnia określonego komunikacie Prezesa Rady Ministrów wydanym na podstawie art. 15 ust. 1 pkt 7:
 
-- **1)** dokonanie podziału stałego obwodu głosowania przez komisarza wyborczego może nastąpić na wniosek co najmniej 5% wyborców ujętych stałym rejestrze wyborców tym obwodzie lub na wniosek wójta, jeżeli na obszarze stałego obwodu głosowania utworzonego wyniku podziału jest możliwość zorganizowania lokalu obwodowej komisji wyborczej; przepis art. 12 3 ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą stosuje się;
-- **2)** zgłoszenie zamiaru głosowania korespondencyjnego, o którym mowa art. 53b 1 i 1a ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą, może być dokonane ustnie, pisemnie lub formie elektronicznej, a przypadku wyborcy niepełnosprawnego oraz wyborcy podlegającego dniu głosowania obowiązkowej kwarantannie, izolacji lub izolacji warunkach domowych również telefonicznie.
+- **1)** dokonanie podziału stałego obwodu głosowania przez komisarza wyborczego może nastąpić na wniosek co najmniej 5% wyborców ujętych stałym rejestrze wyborców tym obwodzie lub na wniosek wójta, jeżeli na obszarze stałego obwodu głosowania utworzonego wyniku podziału jest możliwość zorganizowania lokalu obwodowej komisji wyborczej; przepis art. 12 3 ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą stosuje się; padku wyborcy niepełnosprawnego oraz wyborcy podlegającego dniu głosowania obowiązkowej kwarantannie, izolacji lub izolacji warunkach domowych również telefonicznie.
 
 **Art. 11.** Do dnia określonego komunikacie Prezesa Rady Ministrów wydanym na podstawie art. 15 ust. 1 pkt 9 nie stosuje się:
+
+**Art. 12.** Do ponownych, przedterminowych i uzupełniających wyborów do organów stanowiących jednostek samorządu terytorialnego, wyborów do nowych rad, ponownych i przedterminowych wyborów wójtów, burmistrzów i prezydentów miast oraz referendum lokalnego, przeprowadzanych trakcie kadencji, czasie której niniejsza ustawa weszła życie, stosuje się przepisy ustaw zmienianych art. 1 i art. 5 brzmieniu dotychczasowym, z wyjątkiem:
 
 **Art. 13.**
 
@@ -250,21 +249,9 @@ o zmianie ustawy Kodeks wyborczy oraz niektórych innych ustaw
 
 **Art. 14.** Obywatel państwa członkowskiego Unii Europejskiej lub Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej, który został dopisany do rejestru wyborców na podstawie przepisów dotychczasowych i któremu nie został nadany numer PESEL, celu ujęcia go stałym obwodzie głosowania składa wniosek, o którym mowa art. 19a 1 ustawy zmienianej art. 1.
 
-**Art. 15.**
+**Art. 16.**
 
-1. Prezes Rady Ministrów, po zasięgnięciu opinii Państwowej Komisji Wyborczej, ogłasza Dzienniku Rzeczypospolitej Polskiej komunikaty określające terminy:
-
-- **1)** przekazania przez gminy do Państwowej Komisji Wyborczej danych o wyborcach wpisanych na swój wniosek do rejestru wyborców zakresie obejmującym: numer ewidencyjny PESEL, adres stałego zamieszkania i datę wpisania do rejestru oraz dane o wyborcach pozbawionych prawa wybierania zakresie obejmującym: okres pozbawienia prawa wybierania, oznaczenie sądu, sygnaturę akt oraz datę wydania orzeczenia;
-- **2)** uaktualnienia przez komisarzy wyborczych opisów granic obwodów głosowania oraz okręgów wyborczych;
-- **3)** uzupełnienia Centralnego Rejestru Wyborców o numery i granice obwodów głosowania i okręgów wyborczych przekazane przez Państwową Komisję Wyborczą;
-- **4)** zasilenia Centralnego Rejestru Wyborców danymi z rejestru PESEL i danymi przekazanymi przez Państwową Komisję Wyborczą;
-- **5)** dokonania przez gminy weryfikacji poprawności danych Centralnym Rejestrze Wyborców;
-- **6)** wprowadzenia przez gminy do Centralnego Rejestru Wyborców zmian danych zakresie, jakim wiążą się z pozbawieniem prawa wybierania i wpisaniem do rejestru wyborców na wniosek, a które zaszły po wykonaniu czynności terminie określonym komunikacie, o którym mowa pkt 1;
-- **7)** uruchomienia Centralnego Rejestru Wyborców;
-- **8)** uruchomienia usługi przekazywania materiałów zawierających zarejestrowany przebieg czynności, o których mowa art. 42 5 ustawy zmienianej art. 1, do ministra właściwego do spraw informatyzacji trybie art. 42 6a ustawy zmienianej art. 1 oraz usługi przekazywania informacji o osobach, które będą pełniły funkcję męża zaufania, o której mowa art. 103a 2b ustawy zmienianej art. 1;
-- **9)** uruchomienia usługi, o której mowa art. 19 7, art. 19a 5, art. 36 1 i 3, art. 53b 2 lub art. 56 2b ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą.
-
-2. Terminy, o których mowa ust. 1 pkt 1–6, nie mogą być krótsze niż 30 dni od dnia ogłoszenia komunikatu. komisarzowi wyborczemu informację o każdej położonej na obszarze danej gminy miejscowości, której zamieszkuje co najmniej 200 mieszkańców i nie mieści się lokal obwodowej komisji wyborczej, oraz o możliwościach zorganizowania lokalu obwodowej komisji wyborczej tej miejscowości. Liczbę mieszkańców ustala się na dzień wejścia życie niniejszej ustawy.
+1. Wójt lub burmistrz terminie miesiąca od dnia wejścia życie niniejszej ustawy przekazują właściwemu komisarzowi wyborczemu informację o każdej położonej na obszarze danej gminy miejscowości, której zamieszkuje co najmniej 200 mieszkańców i nie mieści się lokal obwodowej komisji wyborczej, oraz o możliwościach zorganizowania lokalu obwodowej komisji wyborczej tej miejscowości. Liczbę mieszkańców ustala się na dzień wejścia życie niniejszej ustawy.
 
 2. Komisarz wyborczy terminie 2 miesięcy od dnia wejścia życie niniejszej ustawy dokonuje przeglądu podziału gmin na stałe obwody głosowania, uwzględniając informacje, o których mowa ust. 1, oraz możliwość zorganizowania lokali obwodowych komisji wyborczych każdym stałym obwodzie głosowania przypadku zmiany podziału gminy na stałe obwody głosowania.
 
@@ -278,39 +265,34 @@ o zmianie ustawy Kodeks wyborczy oraz niektórych innych ustaw
 
 2. Właściwym organem do przedłożenia oświadczenia lustracyjnego albo informacji o uprzednim złożeniu oświadczenia lustracyjnego jest stosunku do:
 
-- **1)** członka Państwowej Komisji Wyborczej, o którym mowa ust. 1 Prezydent Rzeczypospolitej;
-- **2)** komisarza wyborczego Państwowa Komisja Wyborcza.
+- **1)** członka Państwowej Komisji Wyborczej, o którym mowa ust. 1 – Prezydent Rzeczypospolitej;
+- **2)** komisarza wyborczego – Państwowa Komisja Wyborcza.
 
-3. W przypadku niezłożenia terminie oświadczenia lustracyjnego albo informacji o uprzednim złożeniu oświadczenia lustracyjnego przez osobę, o której mowa ust. 1, następuje skutek określony art. 21e ust. 1 ustawy zmienianej art. 7.
+3. W przypadku niezłożenia terminie oświadczenia lustracyjnego albo informacji o uprzednim złożeniu oświadczenia lustracyjnego przez osobę, o której mowa ust. 1, następuje skutek określony art. 21e ust. 1 ustawy zmienianej art. 7. funkcji stwierdza stosunku do:
 
-4. Pozbawienie funkcji osoby, o której mowa ust. 1, następuje z mocy prawa z dniem, którym upłynął termin do złożenia oświadczenia lustracyjnego albo informacji o uprzednim złożeniu oświadczenia lustracyjnego. Fakt pozbawienia funkcji stwierdza stosunku do:
-
-- **1)** członka Państwowej Komisji Wyborczej Prezydent Rzeczypospolitej;
-- **2)** komisarza wyborczego Państwowa Komisja Wyborcza.
+- **1)** członka Państwowej Komisji Wyborczej – Prezydent Rzeczypospolitej;
+- **2)** komisarza wyborczego – Państwowa Komisja Wyborcza.
 
 **Art. 18.**
 
 1. W latach 2023–2032 maksymalny limit wydatków budżetu państwa będących skutkiem finansowym budowy i utrzymania Centralnego Rejestru Wyborców wynosi 99,28 mln zł, z tego:
 
-- **1)** 2023 r. 31,2 mln zł;
-- **2)** 2024 r. 7,6 mln zł;
-- **3)** 2025 r. 7,56 mln zł;
-- **4)** 2026 r. 7,56 mln zł;
-- **5)** 2027 r. 7,56 mln zł;
-- **6)** 2028 r. 7,56 mln zł;
-- **7)** 2029 r. 7,56 mln zł;
-- **8)** 2030 r. 7,56 mln zł;
-- **9)** 2031 r. 7,56 mln zł;
-- **10)** 2032 r. 7,56 mln zł.
+- **1)** 2023 r. – 31,2 mln zł;
+- **2)** 2024 r. – 7,6 mln zł;
+- **3)** 2025 r. – 7,56 mln zł;
+- **4)** 2026 r. – 7,56 mln zł;
+- **5)** 2027 r. – 7,56 mln zł;
+- **6)** 2028 r. – 7,56 mln zł;
+- **7)** 2029 r. – 7,56 mln zł;
+- **8)** 2030 r. – 7,56 mln zł;
+- **9)** 2031 r. – 7,56 mln zł;
+- **10)** 2032 r. – 7,56 mln zł.
 
-2. Minister właściwy do spraw informatyzacji monitoruje wykorzystanie limitu wydatków, o którym mowa ust. 1, i dokonuje oceny wykorzystania tego limitu według stanu na koniec każdego kwartału, a przypadku IV kwartału według stanu na dzień 20 listopada danego roku.
+2. Minister właściwy do spraw informatyzacji monitoruje wykorzystanie limitu wydatków, o którym mowa ust. 1, i dokonuje oceny wykorzystania tego limitu według stanu na koniec każdego kwartału, a przypadku IV kwartału – według stanu na dzień 20 listopada danego roku.
 
 3. W przypadku gdy wielkość wydatków, o których mowa ust. 1, po trzech kwartałach wyniesie łącznie więcej niż 75% limitu przewidzianego na ten rok, wielkość wydatków IV kwartale obniża się o kwotę przekroczenia, określając zakres ograniczeń dla poszczególnych zadań realizowanych na podstawie ustawy.
 
 4. Organem właściwym do wdrożenia mechanizmu korygującego, o którym mowa ust. 3, jest minister właściwy do spraw informatyzacji.
 
-- **1)** art. 1 pkt 3, 4 i 120, art. 10 ust. 1 i art. 13 ust. 1, które wchodzą życie z dniem następującym po dniu ogłoszenia;
-- **2)** art. 1 pkt 1 lit. a i c, pkt 5 lit. b, c, e i h, pkt 6, 7, 13–34, pkt 36 lit. a tiret pierwsze podwójne tiret drugie oraz tiret trzecie, pkt 44 lit. a, pkt 45 lit. c i d, pkt 46–48, pkt 73 lit. a, pkt 74, 75, 86–88, 93, 95, 96, 105–107, 111, 112, 117, 119, pkt 126 lit. b oraz art. 5 pkt 2, art. 6, art. 8, art. 9, art. 12 i art. 14, które wchodzą życie terminie określonym komunikacie Prezesa Rady Ministrów wydanym na podstawie art. 15 ust. 1 pkt 7;
-- **3)** art. 1 pkt 42 lit. c i pkt 58, które wchodzą życie terminie określonym komunikacie Prezesa Rady Ministrów wydanym na podstawie art. 15 ust. 1 pkt 8. Prezydent Rzeczypospolitej Polskiej: A. Duda
-
+**Art. 19.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 

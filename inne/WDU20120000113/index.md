@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 27 stycznia 2012 r.
+# zmianie ustawy kierujących pojazdami oraz ustawy – Prawo ruchu drogowym
+
+*USTAWA 13 stycznia 2012 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,13 +26,9 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000113) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/113/text.pdf) |
 
-Pozycja 113
-USTAWA z dnia 13 stycznia 2012 r.
-o zmianie ustawy o kierujących pojazdami oraz ustawy – Prawo o ruchu drogowym
+**Art. 1.** W ustawie 5 stycznia 2011 r. kierujących pojazdami (Dz. U. 30, 151, późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 1.** W ustawie z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. 30, 151, z późn. zm. ) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie 20 czerwca 1997 r. – Prawo ruchu drogowym (Dz. U. 2005 r. 108, 908, późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2005 r. 108, 908, z późn. zm. ) wprowadza się następujące zmiany:
-
-**Art. 3.** Ustawa wchodzi w życie z dniem 10 lutego 2012 r., z wyjątkiem art. 2 pkt 2, który wchodzi w życie z dniem 11 lutego 2012 r. Prezydent Rzeczypospolitej Polskiej: B. Komorowski
+**Art. 3.** Ustawa wchodzi życie dniem 10 lutego 2012 r., wyjątkiem 2 2, który wchodzi życie dniem 11 lutego 2012 r.
 

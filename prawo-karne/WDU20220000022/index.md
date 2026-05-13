@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 5 stycznia 2022 r.
+# o zmianie ustawy o Narodowym Banku Polskim oraz ustawy – Kodeks karny wykonawczy
+
+*USTAWA z dnia 17 grudnia 2021 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +25,6 @@ domain: null
 | Data wydania | 2022-01-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000022) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/22/text.pdf) |
-
-Poz. 22
-USTAWA z dnia 17 grudnia 2021 r.
-o zmianie ustawy o Narodowym Banku Polskim oraz ustawy – Kodeks karny wykonawczy
 
 **Art. 1.** W ustawie z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2020 r. poz. 2027 oraz z 2021 r. poz. 1598) w art. 35 ust. 3 otrzymuje brzmienie: „3. Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw wewnętrznych, po zasięgnięciu opinii Prezesa NBP, określi, w drodze rozporządzenia, warunki i tryb postępowania przy zatrzymywaniu znaków pieniężnych podejrzanych co do autentyczności oraz postępowania z fałszywymi znakami pieniężnymi, mając na uwadze zapewnienie sprawności i bezpieczeństwa obrotu gotówkowego, w szczególności potrzebę zabezpieczenia zatrzymanych znaków pieniężnych jako materiału dowodowego, a także ochronę słusznych interesów osób, których znaki pieniężne zostały zatrzymane, w tym zwrot albo wypłatę równowartości zatrzymanych znaków pieniężnych, których autentyczność zostanie potwierdzona.”.
 

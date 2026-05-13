@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 22 stycznia 2026 r.
+# w sprawie ogłoszenia jednolitego tekstu ustawy Prawo geologiczne i górnicze
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 9 stycznia 2026 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2026-01-23 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000069) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/69/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 9 stycznia 2026 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy Prawo geologiczne i górnicze
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 9 czerwca 2011 r. Prawo geologiczne i górnicze (Dz. U. z 2024 r. poz. 1290), z uwzględnieniem zmian wprowadzonych:
 1) ustawą z dnia 21 maja 2025 r. o zmianie niektórych ustaw w celu deregulacji prawa gospodarczego i administracyjnego oraz doskonalenia zasad opracowywania prawa gospodarczego (Dz. U. poz. 769),
 2) ustawą z dnia 25 czerwca 2025 r. o zmianie ustawy Prawo geologiczne i górnicze (Dz. U. poz. 1023),

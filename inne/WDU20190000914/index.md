@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 15 maja 2019 r.
+# o zmianie ustawy o Krajowej Radzie Sądownictwa oraz ustawy – Prawo o ustroju sądów administracyjnych
+
+*USTAWA z dnia 26 kwietnia 2019 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +25,6 @@ domain: null
 | Data wydania | 2019-05-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000914) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/914/text.pdf) |
-
-Poz. 914
-USTAWA z dnia 26 kwietnia 2019 r.
-o zmianie ustawy o Krajowej Radzie Sądownictwa oraz ustawy – Prawo o ustroju sądów administracyjnych
 
 **Art. 1.** W ustawie z dnia 12 maja 2011 r. o Krajowej Radzie Sądownictwa (Dz. U. z 2019 r. poz. 84, 609 i 730) wprowadza się następujące zmiany:
 

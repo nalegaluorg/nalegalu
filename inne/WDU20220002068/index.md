@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 10 października 2022 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy finansowaniu wspólnej polityki rolnej
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia września 2022 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002068) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2068/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia września 2022 r.
-sprawie ogłoszenia jednolitego tekstu ustawy finansowaniu wspólnej polityki rolnej
 1. Na podstawie 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 27 maja 2015 r. finansowaniu wspólnej polityki rolnej (Dz. U. z 2018 r. poz. 719), z uwzględnieniem zmian wprowadzonych ustawą z dnia 17 grudnia 2021 r. zmianie niektórych ustaw związku z przedłużeniem realizacji Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. z 2022 r. poz. 88) oraz zmian wynikających z przepisów ogłoszonych przed dniem 1 września 2022 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje 11 i 12 ustawy z dnia 17 grudnia 2021 r. zmianie niektórych ustaw związku z przedłużeniem realizacji Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. z 2022 r. poz. 88), które stanowią: „Art. 11. Do jednostek, których 23 ust. 1 3 i 4 ustawy zmienianej brzmieniu nadanym niniejszą ustawą, które przed dniem wejścia życie niniejszej ustawy otrzymały środki z budżetu państwa na wyprzedzające finansowanie kosztów kwalifikowalnych ponoszonych na realizację operacji ramach pomocy technicznej objętej Programem Rozwoju Obszarów Wiejskich na lata 2014–2020, stosuje się przepisy ustawy zmienianej brzmieniu nadanym niniejszą ustawą, z tym że przypadku gdy dana jednostka otrzymała informację odmowie wypłaty środków z tytułu refundacji kosztów kwalifikowalnych przed dniem wejścia życie niniejszej termin, którym 23 ust. 4 ustawy zmienianej brzmieniu nadanym niniejszą ustawą, liczy się od dnia wejścia życie niniejszej ustawy.
 
@@ -42,7 +42,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy finansowaniu wspólnej polityki ro
     - **b)** (uchylona)
 
 - **2)** cofania akredytacji jednostce organizacyjnej jako agencji płatniczej;
-- **3)** sprawowania stałego nadzoru nad agencją płatniczą, którym 2 rozporządzenia nr 908/2014. stracji Skarbowej wykonujący swoje zadania na podstawie ustawy z dnia 16 listopada 2016 r. Krajowej Administracji Skarbowej (Dz. U. z 2022 r. poz. 813, z późn. zm. ).
+- **3)** sprawowania stałego nadzoru nad agencją płatniczą, którym 2 rozporządzenia nr 908/2014. Skarbowej (Dz. U. z 2022 r. poz. 813, z późn. zm. ).
 
 **Art. 3.** Minister właściwy do spraw finansów publicznych, przed przyznaniem jednostce organizacyjnej akredytacji lub tymczasowej akredytacji jako agencji płatniczej, może powierzyć dokonanie sprawdzenia, czy dana jednostka spełnia kryteria akredytacyjne określone załączniku I do rozporządzenia nr 907/2014, podmiotom, które są uprawnione do przeprowadzania audytu zewnętrznego.
 
@@ -122,7 +122,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy finansowaniu wspólnej polityki ro
 
 1. Jednostki samorządu terytorialnego, realizujące operacje z zakresu pomocy technicznej objętej PROW 2014–2020, mogą otrzymywać środki z budżetu państwa na wyprzedzające finansowanie kosztów kwalifikowalnych ponoszonych na realizację tych operacji.
 
-2. Jednostki samorządu terytorialnego oraz Państwowe Gospodarstwo Wodne Wody Polskie, realizujące operacje ramach poddziałania wsparcie na inwestycje związane z rozwojem, modernizacją i dostosowaniem rolnictwa i leśnictwa objętego PROW 2014–2020, mogą otrzymywać środki z budżetu państwa na wyprzedzające finansowanie kosztów kwalifikowalnych ponoszonych na realizację tych operacji oraz na sfinansowanie kosztów przygotowania dokumentacji technicznej niezbędnej do realizacji operacji ramach tego poddziałania. operacji, których ust. 1 i 2, są przekazywane właściwego dysponenta formie dotacji celowej, 127:
+2. Jednostki samorządu terytorialnego oraz Państwowe Gospodarstwo Wodne Wody Polskie, realizujące operacje ramach poddziałania wsparcie na inwestycje związane z rozwojem, modernizacją i dostosowaniem rolnictwa i leśnictwa objętego PROW 2014–2020, mogą otrzymywać środki z budżetu państwa na wyprzedzające finansowanie kosztów kwalifikowalnych ponoszonych na realizację tych operacji oraz na sfinansowanie kosztów przygotowania dokumentacji technicznej niezbędnej do realizacji operacji ramach tego poddziałania. 127:
 
 - **1)** ust. 1 1 a ustawy z dnia 27 sierpnia 2009 r. finansach publicznych do wysokości udziału refundowanego ze środków EFRROW;
 - **2)** ust. 2 2 i ustawy z dnia 27 sierpnia 2009 r. finansach publicznych do wysokości udziału krajowych środków publicznych przeznaczonych na współfinansowanie wydatków realizowanych z udziałem środków EFRROW oraz przeznaczonych na finansowanie operacji z zakresu pomocy technicznej.
@@ -149,7 +149,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy finansowaniu wspólnej polityki ro
 - **3)** wysokość przyznanych środków i tryb ich przekazywania;
 - **4)** zobowiązanie do poddania się kontroli i tryb kontroli realizacji operacji;
 - **5)** termin i sposób rozliczania przyznanych środków;
-- **6)** warunki zwrotu środków wykorzystanych niezgodnie z przeznaczeniem lub pobranych nienależnie lub nadmiernej wysokości. 11 ust. 1 i 2:
+- **6)** warunki zwrotu środków wykorzystanych niezgodnie z przeznaczeniem lub pobranych nienależnie lub nadmiernej wysokości.
 - **1)** wykorzystane niezgodnie z przeznaczeniem,
 - **2)** pobrane nienależnie lub nadmiernej wysokości jednostka ta zwraca środki, wraz z odsetkami liczonymi od dnia ich przekazania, terminie 14 dni od dnia doręczenia wezwania do ich zwrotu.
 
@@ -284,7 +284,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy finansowaniu wspólnej polityki ro
     - **b)** wsparcie inwestycji przetwarzanie produktów rolnych, obrót nimi lub ich rozwój,
 
 - **2)** przywracanie potencjału produkcji rolnej zniszczonego wyniku klęsk żywiołowych i katastrof oraz wprowadzanie odpowiednich środków zapobiegawczych,
-- **3)** współpraca, z wyłączeniem pomocy wypłacanej formie, 67 ust. 1 c rozporządzenia nr 1303/2013, działalności pozarolniczej,
+- **3)** współpraca, z wyłączeniem pomocy wypłacanej formie, 67 ust. 1 c rozporządzenia nr 1303/2013,
 - **5)** wsparcie dla rozwoju lokalnego ramach inicjatywy LEADER, z wyłączeniem pomocy wypłacanej formie, 67 ust. 1 c rozporządzenia nr 1303/2013 objętych PROW 2014–2020.
 
 2. Zaliczka jest wypłacana beneficjentowi:
@@ -360,7 +360,8 @@ sprawie ogłoszenia jednolitego tekstu ustawy finansowaniu wspólnej polityki ro
 
 2. Do planowania, wykorzystywania i rozliczania środków, których ust. 1, mają zastosowanie przepisy finansach publicznych oraz przepisy rozporządzenia nr 1305/2013.
 
-- **1)** 1, 3 i 4, dokonują zwrotu środków, których ust. 1, do wysokości udziału refundowanego ze środków EFRROW ze środków EFRROW otrzymanych z agencji płatniczej z tytułu refundacji kosztów kwalifikowalnych,
+3. Jednostki, których ust. 1:
+
 - **2)** 2, dokonują zwrotu środków, których ust. 1, ze środków EFRROW otrzymanych z agencji płatniczej na rachunek bieżący dochodów właściwej państwowej jednostki budżetowej, terminie 10 dni od dnia otrzymania tych środków.
 
 4. Jeżeli jednostka, ust. 1 3 lub 4, nie otrzyma refundacji, ust. 3 1, zwraca środki, których ust. 1, przeznaczone na:
@@ -398,8 +399,8 @@ sprawie ogłoszenia jednolitego tekstu ustawy finansowaniu wspólnej polityki ro
 - **6)** administrowania obrotem towarowym z zagranicą, szczególności zakresie przyznawania refundacji przy wywozie do państw trzecich,
 - **7)** administrowania kwotowaniem produkcji,
 - **8)** obsługi działań zakresie restrukturyzacji przemysłu cukrowniczego,
-- **10)** obsługi działań ramach wspólnej organizacji rynku wina,
-- **11)** obsługi programu „Owoce i warzywa szkole” zakresie, jakim została udzielona.
+- **9)** obsługi działań zakresie wsparcia rynku sektorze jaj i drobiu,
+- **10)** obsługi działań ramach wspólnej organizacji rynku wina, zakresie, jakim została udzielona.
 
 2. Do dnia wejścia życie przepisów wykonawczych wydanych na podstawie 7 ust. 2 utrzymuje się specjalną akredytację udzieloną jednostce koordynującej przed dniem wejścia życie niniejszej ustawy na podstawie 8 ust. 2 ustawy z dnia 22 września 2006 r. uruchamianiu środków pochodzących z budżetu Unii Europejskiej przeznaczonych na finansowanie wspólnej polityki rolnej.
 

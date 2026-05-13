@@ -10,7 +10,9 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 8 maja 2019 r.
+# o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych
+
+*USTAWA z dnia 4 kwietnia 2019 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,16 +26,13 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000848) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/848/text.pdf) |
 
-USTAWA z dnia 4 kwietnia 2019 r.
-o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych
-
 **Art. 1.** Ustawa określa:
 
 **Art. 2.** Ustawę stosuje się do:
 
 **Art. 3.**
 
-1. Ustawy nie stosuje się do stron internetowych i aplikacji mobilnych dostawców usług medialnych, o których mowa w art. 1a ustawy z dnia 29 grudnia 1992 r. o radiofonii i telewizji (Dz. U. z 2019 r. poz. 361 i 643).
+1. Ustawy nie stosuje się do stron internetowych i aplikacji mobilnych dostawców usług medialnych, o których mowa w art. 1a ustawy z dnia 29 grudnia 1992 r. o radiofonii i telewizji (Dz. U. z 2022 r. poz. 1722).
 
 2. Ustawy nie stosuje się do następujących elementów stron internetowych i aplikacji mobilnych:
 
@@ -42,26 +41,33 @@ o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów pu
 - **3)** dokumentów tekstowych i tekstowo-graficznych, dokumentów utworzonych w programach przeznaczonych do tworzenia prezentacji lub arkuszy kalkulacyjnych, opublikowanych przed dniem 23 września 2018 r., chyba że ich zawartość jest niezbędna do realizacji bieżących zadań podmiotu publicznego;
 - **4)** map oraz map interaktywnych, w tym geoportali, pod warunkiem że w przypadku map interaktywnych i geoportali przeznaczonych do zastosowań nawigacyjnych dane teleadresowe i położenie geograficzne prezentowane są w sposób dostępny cyfrowo;
 - **5)** treści będących w posiadaniu podmiotu publicznego:
-    - **a)** które nie zostały przez niego lub na jego rzecz wytworzone albo przez niego nabyte, albo
+    - **a)** które nie zostały przez niego lub na jego rzecz: – wytworzone albo – sfinansowane, albo – nabyte, albo
     - **b)** których dostosowanie do wymagań dostępności cyfrowej wymaga modyfikacji, do której ten podmiot publiczny nie jest uprawniony;
 
 - **6)** treści prezentowanych w intranecie lub ekstranecie, opublikowanych przed dniem 23 września 2019 r. i niepoddawanych od tego czasu przebudowom i zmianom polegającym w szczególności na zmianie wyglądu lub struktury prezentowanych informacji albo zmianie sposobu publikowania informacji;
-- **7)** treści prezentujących dzieła sztuki i zabytki w rozumieniu art. 3 pkt 1 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2018 r. poz. 2067 i 2245 oraz z 2019 r. poz. 730), materiały archiwalne w rozumieniu art. 1 ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2019 r. poz. 553 i 730), muzealia w rozumieniu art. 21 ust. 1 ustawy z dnia 21 listopada 1996 r. o muzeach (Dz. U. z 2018 r. poz. 720 i 1669) lub materiały biblioteczne w rozumieniu art. 5 ustawy z dnia 27 czerwca 1997 r. o bibliotekach (Dz. U. z 2018 r. poz. 574 i 1669), których nie można przedstawić w sposób dostępny cyfrowo, gdyż utworzenie dostępnej cyfrowo prezentacji:
+- **7)** treści prezentujących dzieła sztuki i zabytki w rozumieniu art. 3 pkt 1 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2022 r. poz. 840 oraz z 2023 r. poz. 951), materiały archiwalne w rozumieniu art. 1 ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2020 r. poz. 164), muzealia w rozumieniu art. 21 ust. 1 ustawy z dnia 21 listopada 1996 r. o muzeach (Dz. U. z 2022 r. poz. 385) lub materiały biblioteczne w rozumieniu art. 5 ustawy z dnia 27 czerwca 1997 r. o bibliotekach (Dz. U. z 2022 r. poz. 2393), których nie można przedstawić w sposób dostępny cyfrowo, gdyż utworzenie dostępnej cyfrowo prezentacji:
     - **a)** wiązałoby się z utratą autentyczności powielanego elementu lub
     - **b)** nie jest możliwe z przyczyn technicznych, lub
     - **c)** wiązałoby się z poniesieniem nadmiernych kosztów;
 
-- **8)** treści niewykorzystywanych do realizacji bieżących zadań podmiotu publicznego oraz nieuaktualnianych lub niepoddawanych po dniu 23 września 2019 r. przebudowom i zmianom polegającym w szczególności na zmianie wyglądu lub struktury prezentowanych informacji albo na zmianie sposobu publikowania informacji.
+- **8)** treści niewykorzystywanych do realizacji bieżących zadań podmiotu publicznego oraz nieuaktualnianych lub niepoddawanych po dniu 23 września 2019 r. przebudowom i zmianom polegającym w szczególności na zmianie wyglądu lub struktury prezentowanych informacji albo na zmianie sposobu publikowania informacji;
+- **9)** złożonych schematów i dokumentacji technicznych w formie nietekstowej.
 
 **Art. 4.** Użyte w ustawie określenia oznaczają:
 
 **Art. 5.**
 
-1. Podmioty publiczne zapewniają dostępność cyfrową przez spełnienie przez ich stronę internetową lub aplikację mobilną wymagań określonych w załączniku do ustawy.
+1. Podmiot publiczny zapewnia dostępność cyfrową przez spełnienie przez jego stronę internetową, zarządzane elementy strony internetowej, jego aplikację mobilną lub zarządzane elementy aplikacji mobilnej wymagań określonych w załączniku do ustawy.
 
 2. Dostępność cyfrowa strony internetowej i aplikacji mobilnej polega na zapewnieniu ich funkcjonalności, kompatybilności, postrzegalności i zrozumiałości.
 
-3. Wymagania określone w załączniku do ustawy uznaje się za spełnione, gdy podmiot publiczny zapewnia dostępność cyfrową z uwzględnieniem wymagań określonych w pkt 9, 10 i 11 normy EN 301 549 V2.1.2.
+3. Wymagania określone w załączniku do ustawy uznaje się za spełnione, gdy podmiot publiczny zapewnia dostępność cyfrową z uwzględnieniem wymagań określonych w pkt 9, 10 i 11 Polskiej Normy wprowadzającej normę ETSI EN 301 549 V3.2.1:2021.
+
+**Art. 5a.**
+
+1. W przypadku gdy podmiot publiczny publikuje na stronie internetowej lub w aplikacji mobilnej zarejestrowane wcześniej multimedia nadawane na żywo, dostosowuje je do wymagań określonych w załączniku do ustawy w terminie 14 dni od dnia zakończenia nadawania.
+
+2. Jeżeli dostosowanie zarejestrowanych wcześniej multimediów nadawanych na żywo do wymagań określonych w załączniku do ustawy nie może nastąpić w terminie, o którym mowa w ust. 1, podmiot publiczny, publikując te multimedia, informuje o terminie, w którym zapewni dostępność cyfrową opublikowanych multimediów, nie dłuższym niż 2 miesiące od dnia zakończenia nadawania.
 
 **Art. 6.** W przypadku gdy podmiot publiczny publikuje informacje na stronie internetowej lub w aplikacji mobilnej innej niż jego strona internetowa lub aplikacja mobilna i informacje te nie spełniają wymagań dostępności cyfrowej, podmiot ten publikuje te same informacje na wybranej spośród posiadanych przez siebie stron internetowych lub aplikacji mobilnych, w sposób dostępny cyfrowo.
 
@@ -69,38 +75,30 @@ o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów pu
 
 1. W przypadku gdy podmiot publiczny nie jest w stanie zapewnić dostępności cyfrowej elementu strony internetowej lub aplikacji mobilnej, zapewnia alternatywny sposób dostępu do tego elementu.
 
-2. Alternatywny sposób dostępu polega w szczególności na zapewnieniu kontaktu telefonicznego, korespondencyjnego, za pomocą środków komunikacji elektronicznej, o których mowa w art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2019 r. poz. 123 i 730), lub za pomocą tłumacza języka migowego, lub tłumacza-przewodnika, o których mowa w art. 10 ust. 1 ustawy z dnia 19 sierpnia 2011 r. o języku migowym i innych środkach komunikowania się (Dz. U. z 2017 r. poz. 1824), jeżeli podmiot publiczny udostępnia taką możliwość.
+2. Alternatywny sposób dostępu polega w szczególności na zapewnieniu kontaktu telefonicznego, korespondencyjnego, za pomocą środków komunikacji elektronicznej, o których mowa w art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2020 r. poz. 344), lub za pomocą tłumacza języka migowego, lub tłumacza-przewodnika, o których mowa w art. 10 ust. 1 ustawy z dnia 19 sierpnia 2011 r. o języku migowym i innych środkach komunikowania się (Dz. U. z 2023 r. poz. 20), jeżeli podmiot publiczny udostępnia taką możliwość.
 
 **Art. 8.**
 
-1. Podmiot publiczny, z wyłączeniem podmiotów, o których mowa w art. 2 pkt 1–4, których zadaniem publicznym jest prowadzenie działalności na rzecz osób niepełnosprawnych lub osób starszych, może nie zapewniać dostępności cyfrowej strony internetowej lub aplikacji mobilnej, jeżeli wiązałoby się to z poniesieniem nadmiernych kosztów.
+1. Jeżeli wiązałoby się to z poniesieniem nadmiernych kosztów, podmiot publiczny, z wyłączeniem podmiotów, o których mowa w art. 2 pkt 1–4, których zadaniem publicznym jest prowadzenie działalności na rzecz osób niepełnosprawnych lub osób starszych, może nie zapewniać dostępności cyfrowej elementów strony internetowej lub elementów aplikacji mobilnej.
 
-2. Podmiot publiczny zapewnia dostępność cyfrową:
+2. (uchylony)
 
-- **1)** strony podmiotowej Biuletynu Informacji Publicznej;
-- **2)** następujących elementów i funkcji strony internetowej lub aplikacji mobilnej:
-    - **a)** danych teleadresowych podmiotu publicznego oraz linku do strony podmiotowej Biuletynu Informacji Publicznej podmiotu publicznego, jeżeli na podstawie odrębnych przepisów podmiot publiczny jest obowiązany do jej prowadzenia,
-    - **b)** narzędzi służących do kontaktu z podmiotem publicznym,
-    - **c)** nawigacji,
-    - **d)** deklaracji dostępności strony internetowej lub aplikacji mobilnej podmiotu publicznego, zwanej dalej „deklaracją dostępności”,
-    - **e)** informacji dotyczących sytuacji kryzysowej w rozumieniu art. 3 pkt 1 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym (Dz. U. z 2018 r. poz. 1401 i 1560 oraz z 2019 r. poz. 730) oraz innych informacji związanych z bezpieczeństwem publicznym, publikowanych przez podmiot publiczny,
-    - **f)** dokumentów urzędowych oraz wzorów umów lub wzorów innych dokumentów przeznaczonych do zaciągania zobowiązań cywilnoprawnych.
+3. W przypadku, o którym mowa w ust. 1, podmiot publiczny przeprowadza ocenę zapewnienia dostępności cyfrowej elementów strony internetowej lub elementów aplikacji mobilnej obejmującą:
 
-3. W przypadku, o którym mowa w ust. 1, podmiot publiczny przeprowadza ocenę zapewnienia dostępności cyfrowej strony internetowej lub aplikacji mobilnej obejmującą:
-
-- **1)** ocenę zwiększenia dostępności cyfrowej strony internetowej lub aplikacji mobilnej podmiotu publicznego, uzupełnioną o informację, w jakim stopniu zawartość strony internetowej lub aplikacji mobilnej może dotyczyć osób niepełnosprawnych;
+- **1)** (uchylony)
 - **2)** szacowanie kosztów zapewnienia dostępności cyfrowej, które podmiot publiczny miałby ponieść;
+- **2a)** szacowane korzyści dla danego podmiotu publicznego z zapewnienia dostępności cyfrowej elementów strony internetowej lub elementów aplikacji mobilnej podmiotu publicznego w odniesieniu do szacowanych korzyści dla osób niepełnosprawnych z uwzględnieniem kosztów, o których mowa w pkt 2;
 - **3)** wskazanie okresu publikowania elementu strony internetowej lub aplikacji mobilnej;
 - **4)** informację dotyczącą liczby użytkowników korzystających z danej strony internetowej lub aplikacji mobilnej w okresie publikacji informacji zawartej w publikowanym elemencie strony internetowej lub aplikacji mobilnej;
 - **5)** wskazanie okresu funkcjonowania danej strony internetowej lub aplikacji mobilnej wraz z częstotliwością publikacji w nich nowych treści.
 
-4. Wyniki przeprowadzonej oceny zapewnienia dostępności cyfrowej strony internetowej lub aplikacji mobilnej dołącza się do deklaracji dostępności.
+4. Wyniki oceny zapewnienia dostępności cyfrowej, o której mowa w ust. 3, dołącza się do deklaracji dostępności strony internetowej lub aplikacji mobilnej podmiotu publicznego, zwanej dalej „deklaracją dostępności”.
 
-**Art. 9.** Jednostki organizacyjne jednostek samorządu terytorialnego, będące jednostkami sektora finansów publicznych, oraz gminne osoby prawne, które spełniają warunki określone w art. 2 pkt 3, mogą zapewniać dostępność cyfrową elementów stron internetowych lub aplikacji mobilnych określonych w art. 8 ust. 2 pkt 2 przez ich umieszczenie na stronie podmiotowej Biuletynu Informacji Publicznej lub wybranej stronie internetowej jednostki samorządu terytorialnego.
+**Art. 9.** (uchylony)
 
 **Art. 10.**
 
-1. Podmioty publiczne sporządzają deklarację dostępności w sposób dostępny cyfrowo.
+1. Podmiot publiczny sporządza w sposób dostępny cyfrowo deklarację dostępności dla każdej wersji językowej strony internetowej lub aplikacji mobilnej, w języku wersji strony internetowej lub aplikacji mobilnej, do której się odnosi.
 
 2. Deklarację dostępności sporządza się z wykorzystaniem wzoru określonego w załączniku do decyzji wykonawczej Komisji (UE) 2018/1523 z dnia 11 października 2018 r. ustanawiającej wzór oświadczenia w sprawie dostępności zgodnie z dyrektywą Parlamentu Europejskiego i Rady (UE) 2016/2102 w sprawie dostępności stron internetowych i mobilnych aplikacji organów sektora publicznego (Dz. Urz. UE L 256 z 12.10.2018, str. 103), zwanej dalej „decyzją wykonawczą 2018/1523”.
 
@@ -111,11 +109,11 @@ o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów pu
 - **1)** datę publikacji strony internetowej lub aplikacji mobilnej;
 - **2)** datę ostatniej aktualizacji strony internetowej lub aplikacji mobilnej, po dokonaniu istotnej zmiany jej zawartości, polegającej w szczególności na zmianie wyglądu lub struktury prezentowanych informacji lub zmianie sposobu publikowania informacji;
 - **3)** informację lub link do informacji o sposobie dokonania oceny dostępności cyfrowej;
-- **4)** dane teleadresowe siedziby podmiotu publicznego wraz ze wskazaniem danych kontaktowych osoby wyznaczonej do realizacji spraw w zakresie dostępności cyfrowej w tym podmiocie publicznym;
-- **5)** informacje na temat utworzonych na stronie internetowej lub w aplikacji mobilnej skrótów klawiszowych służących przemieszczaniu się po elementach strony internetowej lub aplikacji mobilnej i uruchamianiu dostępnych na nich funkcji;
-- **6)** informację o dostępności architektonicznej siedziby podmiotu publicznego dla osób niepełnosprawnych;
+- **4)** dane teleadresowe siedziby podmiotu publicznego wraz ze wskazaniem danych kontaktowych osoby lub komórki organizacyjnej wyznaczonej do realizacji spraw w zakresie dostępności cyfrowej w tym podmiocie publicznym;
+- **5)** informacje na temat utworzonych na stronie internetowej lub w aplikacji mobilnej niestandardowych skrótów klawiszowych służących przemieszczaniu się po elementach strony internetowej lub elementach aplikacji mobilnej i uruchamianiu funkcji dostępnych na stronie internetowej lub w aplikacji mobilnej;
+- **6)** informację lub link do informacji o dostępności architektonicznej siedziby podmiotu publicznego dla osób niepełnosprawnych;
 - **7)** informację o dostępności tłumacza języka migowego za pośrednictwem środków komunikacji elektronicznej wraz z informacją o metodach umożliwiających skorzystanie z tej funkcji albo informację o jej braku;
-- **8)** link do deklaracji dostępności aplikacji mobilnej, w przypadku posiadania przez podmiot publiczny aplikacji mobilnej;
+- **8)** w przypadku strony internetowej – link do strony internetowej, z której można pobrać aplikację mobilną i deklarację dostępności tej aplikacji mobilnej, jeżeli podmiot publiczny posiada aplikację mobilną;
 - **9)** informację o możliwości powiadomienia podmiotu publicznego o braku dostępności cyfrowej;
 - **10)** link do strony internetowej Rzecznika Praw Obywatelskich.
 
@@ -123,10 +121,10 @@ o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów pu
 
 6. Deklaracja dostępności może zawierać także informacje, o których mowa w pkt 1, 2, 5 i 7 sekcji 2 załącznika do decyzji wykonawczej 2018/1523.
 
-7. Podmiot publiczny publikuje deklarację dostępności:
+7. Podmiot publiczny publikuje deklarację dostępności posiadanej:
 
-- **1)** strony internetowej na tej stronie internetowej;
-- **2)** aplikacji mobilnej na stronie internetowej wybranej spośród stron internetowych posiadanych przez ten podmiot oraz w tej aplikacji mobilnej.
+- **1)** strony internetowej – na tej stronie internetowej albo innej odpowiedniej stronie internetowej;
+- **2)** aplikacji mobilnej – na stronie internetowej wybranej spośród stron internetowych posiadanych przez ten podmiot lub wraz z innymi informacjami, które są udostępniane podczas pobierania aplikacji.
 
 8. Podmiot publiczny umieszcza link do opublikowanej deklaracji dostępności w taki sposób, aby użytkownik strony internetowej mógł mieć do niego dostęp podczas nawigacji po stronie internetowej.
 
@@ -147,7 +145,7 @@ o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów pu
 
 **Art. 14.**
 
-1. Minister właściwy do spraw informatyzacji sporządza wykaz adresów stron internetowych podmiotów publicznych we współpracy z Naukową i Akademicką Siecią Komputerową Państwowym Instytutem Badawczym.
+1. Minister właściwy do spraw informatyzacji sporządza wykaz adresów stron internetowych podmiotów publicznych we współpracy z Naukową i Akademicką Siecią Komputerową – Państwowym Instytutem Badawczym.
 
 2. Prezes Głównego Urzędu Statystycznego, do dnia 28 lutego każdego roku, przekazuje ministrowi właściwemu do spraw informatyzacji wykaz podmiotów publicznych wpisanych do krajowego rejestru urzędowego podmiotów gospodarki narodowej (REGON) ustalony na podstawie cech zgromadzonych w rejestrze, według stanu rejestru na dzień 31 grudnia roku poprzedzającego.
 
@@ -186,7 +184,7 @@ o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów pu
 
 **Art. 18.**
 
-1. Każdy ma prawo wystąpić do podmiotu publicznego z żądaniem zapewnienia dostępności cyfrowej wskazanej strony internetowej, aplikacji mobilnej lub elementu strony internetowej, lub aplikacji mobilnej, w tym elementów, o których mowa w art. 3 ust. 2, oraz elementów niedostępnych cyfrowo na podstawie art. 8 ust. 1, albo o jego udostępnienie za pomocą alternatywnego sposobu dostępu, o którym mowa w art. 7.
+1. Każdy ma prawo wystąpić do podmiotu publicznego z żądaniem zapewnienia dostępności cyfrowej wskazanych: strony internetowej, aplikacji mobilnej, elementu strony internetowej lub elementu aplikacji mobilnej, w tym elementów, o których mowa w art. 3 ust. 2, oraz elementów niedostępnych cyfrowo na podstawie art. 8 ust. 1, a w przypadku gdy podmiot publiczny nie jest w stanie zapewnić dostępności cyfrowej elementu strony internetowej lub elementu aplikacji mobilnej – o ich udostępnienie za pomocą alternatywnego sposobu dostępu, o którym mowa w art. 7.
 
 2. Żądanie zawiera:
 
@@ -205,7 +203,7 @@ o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów pu
 
 7. W przypadku odmowy zapewnienia dostępności cyfrowej strony internetowej, aplikacji mobilnej lub wskazanego elementu strony internetowej, lub aplikacji mobilnej podmiotu publicznego, wskazanych w żądaniu albo w przypadku odmowy skorzystania z alternatywnego sposobu dostępu przez osobę występującą z żądaniem, zgodnie z ust. 6, osoba ta ma prawo do złożenia do podmiotu publicznego skargi w sprawie zapewnienia dostępności cyfrowej strony internetowej, aplikacji mobilnej lub elementu strony internetowej, lub aplikacji mobilnej.
 
-8. Do skarg rozpatrywanych w postępowaniach w sprawie zapewnienia dostępności cyfrowej strony internetowej, aplikacji mobilnej lub elementu strony internetowej, lub aplikacji mobilnej stosuje się przepisy działu VIII ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2018 r. poz. 2096 oraz z 2019 r. poz. 60 i 730).
+8. Do skarg rozpatrywanych w postępowaniach w sprawie zapewnienia dostępności cyfrowej strony internetowej, aplikacji mobilnej lub elementu strony internetowej, lub aplikacji mobilnej stosuje się przepisy działu VIII ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803).
 
 9. Do zapewnienia alternatywnego sposobu dostępu do wskazanego elementu strony internetowej lub aplikacji mobilnej przepisy ust. 3–8 stosuje się odpowiednio.
 
@@ -214,23 +212,23 @@ o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów pu
 1. Karze pieniężnej podlega podmiot publiczny, który:
 
 - **1)** w sposób nieuzasadniony i uporczywy nie zapewnia dostępności cyfrowej strony internetowej lub aplikacji mobilnej;
-- **2)** nie sporządza i nie publikuje deklaracji dostępności albo nie zawiera w deklaracji dostępności elementów wskazanych w art. 10 ust. 3–5;
-- **3)** nie zapewnia dostępności cyfrowej strony podmiotowej Biuletynu Informacji Publicznej, o której mowa w art. 8 ust. 2 pkt 1, oraz elementów i funkcji strony internetowej lub aplikacji mobilnej, o których mowa w art. 8 ust. 2 pkt 2.
+- **2)** nie sporządza i nie publikuje deklaracji dostępności albo nie zawiera w deklaracji dostępności elementów wskazanych w art. 10 ust. 3–5.
+- **3)** (uchylony)
 
 2. Uporczywym niewywiązywaniem się z zapewnienia dostępności cyfrowej strony internetowej lub aplikacji mobilnej jest stwierdzenie braku poprawy dostępności cyfrowej w trzech kolejnych monitorowaniach, o których mowa w art. 12 pkt 2, oraz stwierdzenie rosnącej liczby uzasadnionych skarg, o których mowa w art. 18 ust. 7.
 
 3. Kara pieniężna, o której mowa w ust. 1 pkt 2, jest nakładana na podmiot publiczny w przypadku niesporządzenia i nieopublikowania deklaracji dostępności albo braku wymaganych dla deklaracji dostępności elementów wskazanych w art. 10 ust. 3–5, wykazanego w dwóch kolejnych monitorowaniach, o których mowa w art. 12 pkt 2.
 
-4. Kara pieniężna, o której mowa w ust. 1 pkt 3, jest nakładana na podmiot publiczny w przypadku braku zapewnienia dostępności cyfrowej strony podmiotowej Biuletynu Informacji Publicznej, o której mowa w art. 8 ust. 2 pkt 1, oraz elementów i funkcji strony internetowej lub aplikacji mobilnej, o których mowa w art. 8 ust. 2 pkt 2, wykazanym w dwóch kolejnych monitorowaniach, o których mowa w art. 12 pkt 2.
+4. (uchylony)
 
 5. Wysokość kary pieniężnej, o której mowa w ust. 1:
 
 - **1)** pkt 1, wynosi do 10 000 zł;
-- **2)** pkt 2 i 3, wynosi do 5000 zł.
+- **2)** pkt 2, wynosi do 5000 zł.
 
-**Art. 20.** W ustawie z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2019 r. poz. 700 i 730) w art. 18 w pkt 1 uchyla się lit. c.
+**Art. 20.** (pominięty)
 
-**Art. 21.** W ustawie z dnia 6 grudnia 2018 r. o zmianie ustawy o dowodach osobistych oraz niektórych innych ustaw (Dz. U. z 2019 r. poz. 60) w art. 45 pkt 3 otrzymuje brzmienie: „3) art. 44 otrzymuje brzmienie: „Art. 44. W ustawie z dnia 10 stycznia 2014 r. o zmianie ustawy o informatyzacji działalności podmiotów realizujących zadania publiczne oraz niektórych innych ustaw (Dz. U. poz. 183, z 2015 r. poz. 1311, z 2016 r. poz. 1579 oraz z 2018 r. poz. 696) w art. 4 w pkt 3 w art. 37 w § 1a, w pkt 4 w art. 37a, w pkt 5 w art. 46 w § 2a, w pkt 7 w art. 48 w § 3a w zdaniu pierwszym i w pkt 12 w art. 74a w § 3 w pkt 2 użyte w różnym przypadku wyrazy „podpisem potwierdzonym profilem zaufanym ePUAP” zastępuje się użytymi w odpowiednim przypadku wyrazami „podpisem zaufanym, podpisem osobistym”.”;”.
+**Art. 21.** (pominięty)
 
 **Art. 22.** Minister właściwy do spraw informatyzacji, do dnia 23 sierpnia 2019 r., udostępni na stronie podmiotowej Biuletynu Informacji Publicznej warunki techniczne publikacji oraz strukturę dokumentu elektronicznego deklaracji dostępności.
 
@@ -240,20 +238,20 @@ o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów pu
 
 **Art. 25.**
 
-1. Maksymalny limit wydatków z budżetu państwa dla części budżetowej 27 Informatyzacja, będący skutkiem finansowym niniejszej ustawy, wynosi:
+1. Maksymalny limit wydatków z budżetu państwa dla części budżetowej 27 – Informatyzacja, będący skutkiem finansowym niniejszej ustawy, wynosi:
 
-- **1)** w 2019 r. 0,35 mln zł;
-- **2)** w 2020 r. 0,946 mln zł;
-- **3)** w 2021 r. 1,074 mln zł;
-- **4)** w 2022 r. 1,074 mln zł;
-- **5)** w 2023 r. 1,074 mln zł;
-- **6)** w 2024 r. 1,074 mln zł;
-- **7)** w 2025 r. 1,074 mln zł;
-- **8)** w 2026 r. 1,074 mln zł;
-- **9)** w 2027 r. 1,074 mln zł;
-- **10)** w 2028 r. 1,074 mln zł.
+- **1)** w 2019 r. – 0,35 mln zł;
+- **2)** w 2020 r. – 0,946 mln zł;
+- **3)** w 2021 r. – 1,074 mln zł;
+- **4)** w 2022 r. – 1,074 mln zł;
+- **5)** w 2023 r. – 1,074 mln zł;
+- **6)** w 2024 r. – 1,074 mln zł;
+- **7)** w 2025 r. – 1,074 mln zł;
+- **8)** w 2026 r. – 1,074 mln zł;
+- **9)** w 2027 r. – 1,074 mln zł;
+- **10)** w 2028 r. – 1,074 mln zł.
 
-2. Minister właściwy do spraw informatyzacji monitoruje wykorzystanie limitu wydatków i dokonuje oceny wykorzystania tego limitu według stanu na koniec każdego kwartału, a w przypadku IV kwartału według stanu na dzień 20 listopada danego roku.
+2. Minister właściwy do spraw informatyzacji monitoruje wykorzystanie limitu wydatków i dokonuje oceny wykorzystania tego limitu według stanu na koniec każdego kwartału, a w przypadku IV kwartału – według stanu na dzień 20 listopada danego roku.
 
 3. W przypadku przekroczenia lub zagrożenia przekroczeniem przyjętego na dany rok budżetowy maksymalnego limitu wydatków określonego w ust. 1 oraz w przypadku, gdy w okresie od początku roku kalendarzowego do dnia ostatniej oceny część limitu rocznego przypadającego proporcjonalnie na ten okres zostanie przekroczona co najmniej o 10%, stosuje się mechanizm korygujący polegający na zmniejszeniu wydatków budżetu państwa będących skutkiem finansowym niniejszej ustawy przez ograniczenie:
 
@@ -262,7 +260,7 @@ o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów pu
 
 4. Organem właściwym do wdrożenia mechanizmu korygującego jest minister właściwy do spraw informatyzacji.
 
-**Art. 26.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 18 ustawy zmienianej w art. 20 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 18 ustawy zmienianej w art. 20, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 36 miesięcy od dnia wejścia w życie niniejszej ustawy, i mogą być zmieniane na podstawie tych przepisów.
+**Art. 26.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 18 ustawy zmienianej w art. 20 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 18 ustawy zmienianej w art. 20 , w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 60 miesięcy od dnia wejścia w życie niniejszej ustawy, i mogą być zmieniane na podstawie tych przepisów.
 
-**Art. 27.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 5–11, art. 12 pkt 2 i 3 oraz art. 13–19, które wchodzą w życie w zakresie:
+**Art. 27.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia , z wyjątkiem art. 5–11, art. 12 pkt 2 i 3 oraz art. 13–19, które wchodzą w życie w zakresie:
 

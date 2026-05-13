@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 8 stycznia 2021 r.
+# o organizacji hodowli i rozrodzie zwierząt gospodarskich
+
+*USTAWA z dnia 10 grudnia 2020 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,9 +25,6 @@ domain: null
 | Data wydania | 2021-01-08 |
 | Ostatnia zmiana | 2026-03-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000036) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/36/text.pdf) |
-
-USTAWA z dnia 10 grudnia 2020 r.
-o organizacji hodowli i rozrodzie zwierząt gospodarskich
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -43,8 +42,10 @@ o organizacji hodowli i rozrodzie zwierząt gospodarskich
 
 - **1)** przeprowadza kontrolę zakresie:
     - **a)** prowadzenia ksiąg hodowlanych, oceny wartości użytkowej i oceny genetycznej oraz hodowli i rozrodu zwierząt gospodarskich, o których mowa art. 2 pkt 1 lit. b, a także prowadzenia rejestrów,
-    - **b)** sposobu wykorzystania środków pochodzących z dotacji budżetowych przyznanych podmiotom realizującym zadania zakresie postępu biologicznego produkcji zwierzęcej;
+    - **b)** sposobu wykorzystania środków pochodzących z dotacji budżetowych przyznanych podmiotom realizującym zadania zakresie postępu biologicznego produkcji zwierzęcej,
+    - **c)** prowadzenia szkoleń z zakresu sztucznego unasienniania zwierząt gospodarskich przez podmioty, które uzyskały zgodę ministra właściwego do spraw rolnictwa na prowadzenie takich szkoleń;
 
+- **2)** prowadzi laboratorium referencyjne badające mleko ramach oceny wartości użytkowej bydła, owiec i kóz;
 - **3)** współpracuje z organizacjami międzynarodowymi działającymi dziedzinie hodowli zwierząt i ich rozrodu.
 
 2. Laboratorium referencyjne, o którym mowa ust. 1 pkt 2, wykonuje zadania polegające na:
@@ -62,8 +63,9 @@ o organizacji hodowli i rozrodzie zwierząt gospodarskich
 
 3. Podmiot biorący rzecz do używania, oprócz ponoszenia zwykłych kosztów jej utrzymania, ponosi wszystkie inne koszty związane z korzystaniem z tej rzeczy.
 
-4. Umowa użyczenia, o której mowa ust. 2, oprócz postanowień określonych ustawie z dnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. z 2020 r. poz. 1740 i 2320), zawiera:
+4. Umowa użyczenia, o której mowa ust. 2, oprócz postanowień określonych ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2020 r. poz. 1740 i
 
+- **2320)** , zawiera:
 - **1)** oznaczenie rzeczy, z tym że przypadku nieruchomości zawiera jej:
     - **a)** oznaczenie według księgi wieczystej oraz według ewidencji gruntów i budynków,
     - **b)** powierzchnię oraz opis;
@@ -74,7 +76,7 @@ o organizacji hodowli i rozrodzie zwierząt gospodarskich
 
 5. Jeżeli rzecz jest oddawana do używania na rzecz kilku podmiotów, umowie użyczenia, o której mowa ust. 2, ustala się także zasady wspólnego używania tej rzeczy.
 
-6. Krajowe Centrum Hodowli Zwierząt może, poza przypadkami innymi niż określone ustawie z dnia 23 kwietnia 1964 r. Kodeks cywilny, żądać zwrotu rzeczy użyczonej, także przypadku gdy podmiot biorący ją do używania zaprzestanie wykonywania zadań, do wykonywania których został upoważniony, albo utraci prawo prowadzenia księgi hodowlanej.
+6. Krajowe Centrum Hodowli Zwierząt może, poza przypadkami innymi niż określone ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny, żądać zwrotu rzeczy użyczonej, także przypadku gdy podmiot biorący ją do używania zaprzestanie wykonywania zadań, do wykonywania których został upoważniony, albo utraci prawo prowadzenia księgi hodowlanej.
 
 **Art. 7.**
 
@@ -88,7 +90,9 @@ o organizacji hodowli i rozrodzie zwierząt gospodarskich
 
 1. Minister właściwy do spraw rolnictwa jest właściwy do uznania i odmowy uznania za związek hodowców lub przedsiębiorstwo hodowlane na zasadach określonych rozdziale II sekcji 1 rozporządzenia 2016/1012. Uznania i odmowy uznania dokonuje się drodze decyzji.
 
-2. Minister właściwy do spraw rolnictwa określa elektroniczny wzór wniosku o uznanie za związek hodowców lub przedsiębiorstwo hodowlane. zamierzonej odmowy, o którym mowa art. 5 ust. 1 rozporządzenia 2016/1012. Wniosek ten można złożyć terminie 60 dni od dnia doręczenia decyzji o odmowie uznania za związek hodowców lub przedsiębiorstwo hodowlane, a decyzja wydana na skutek złożenia tego wniosku jest doręczana terminie 90 dni od dnia jego złożenia.
+2. Minister właściwy do spraw rolnictwa określa elektroniczny wzór wniosku o uznanie za związek hodowców lub przedsiębiorstwo hodowlane.
+
+3. Złożenie wniosku o ponowne rozpatrzenie sprawy jest równoznaczne z wystąpieniem o ponowne rozpatrzenie zamierzonej odmowy, o którym mowa art. 5 ust. 1 rozporządzenia 2016/1012. Wniosek ten można złożyć terminie 60 dni od dnia doręczenia decyzji o odmowie uznania za związek hodowców lub przedsiębiorstwo hodowlane, a decyzja wydana na skutek złożenia tego wniosku jest doręczana terminie 90 dni od dnia jego złożenia.
 
 4. Minister właściwy do spraw rolnictwa prowadzi wykaz, o którym mowa art. 7 ust. 1 rozporządzenia 2016/1012.
 
@@ -116,10 +120,10 @@ o organizacji hodowli i rozrodzie zwierząt gospodarskich
 
 3. W przypadku zwierząt gospodarskich, o których mowa art. 2 pkt 1 lit. b, na terytorium Rzeczypospolitej Polskiej prowadzi się tylko jedną księgę hodowlaną dla:
 
-- **1)** każdego z gatunków zaliczanych do jeleniowatych, a przypadku gdy obrębie danego gatunku występują różne rasy, linie hodowlane lub odmiany odpowiednio dla rasy, linii hodowlanej lub odmiany;
+- **1)** każdego z gatunków zaliczanych do jeleniowatych, a przypadku gdy obrębie danego gatunku występują różne rasy, linie hodowlane lub odmiany – odpowiednio dla rasy, linii hodowlanej lub odmiany;
 - **2)** każdego rodu lub linii drobiu obrębie jego poszczególnych gatunków;
 - **3)** każdego z gatunków zaliczanych do zwierząt futerkowych;
-- **4)** gatunków: alpaka i jedwabnik morwowy, a przypadku gdy obrębie tych gatunków występują różne rasy, linie hodowlane lub odmiany odpowiednio dla rasy, linii hodowlanej lub odmiany;
+- **4)** gatunków: alpaka i jedwabnik morwowy, a przypadku gdy obrębie tych gatunków występują różne rasy, linie hodowlane lub odmiany – odpowiednio dla rasy, linii hodowlanej lub odmiany;
 - **5)** każdej linii hodowlanej pszczół.
 
 4. Do wniosku, o którym mowa ust. 2, dołącza się:
@@ -127,6 +131,7 @@ o organizacji hodowli i rozrodzie zwierząt gospodarskich
 - **1)** program hodowlany zawierający:
     - **a)** cel hodowlany, którym jest zachowanie, doskonalenie, odtworzenie lub tworzenie nowej rasy, odmiany, rodu lub linii hodowlanej,
     - **b)** nazwę rasy, rodu lub linii hodowlanej,
+    - **c)** wzorzec zwierząt wpisywanych do księgi hodowlanej oraz standard hodowlany dla części wstępnej tej księgi,
     - **d)** informację o obszarze geograficznym, na którym będzie realizowany ten program,
     - **e)** opis sposobu identyfikacji zwierząt objętych tym programem,
     - **f)** zakres prowadzenia oceny wartości użytkowej niezbędny do realizacji tego programu oraz wskazanie podmiotu prowadzącego tę ocenę,
@@ -139,14 +144,14 @@ o organizacji hodowli i rozrodzie zwierząt gospodarskich
 - **2)** oświadczenie o liczbie zwierząt danego gatunku, rasy, odmiany, stad zwierząt futerkowych, rodów lub linii hodowlanych, znajdujących się posiadaniu członków związku hodowców lub innego podmiotu, które będą uczestniczyły realizacji programu hodowlanego;
 - **3)** oświadczenie o spełnieniu wymagań określonych przepisach wydanych na podstawie ust. 9;
 - **4)** oświadczenie, że wszystkie zwierzęta należące do danego gatunku, rasy, odmiany lub linii hodowlanej znajdujące się na obszarze geograficznym, na którym będzie realizowany ten program, mogą uczestniczyć jego realizacji;
-- **5)** regulamin rozstrzygania sporów między hodowcami uczestniczącymi programie hodowlanym a związkiem hodowców lub innym podmiotem prowadzącym księgę hodowlaną przypadku gdy związku z prowadzeniem księgi hodowlanej może dochodzić do takich sporów;
-- **6)** kopię statutu lub umowy, na podstawie których działa związek hodowców lub inny podmiot przypadku gdy księgę hodowlaną prowadzi podmiot inny niż osoba fizyczna;
+- **5)** regulamin rozstrzygania sporów między hodowcami uczestniczącymi programie hodowlanym a związkiem hodowców lub innym podmiotem prowadzącym księgę hodowlaną – przypadku gdy związku z prowadzeniem księgi hodowlanej może dochodzić do takich sporów;
+- **6)** kopię statutu lub umowy, na podstawie których działa związek hodowców lub inny podmiot – przypadku gdy księgę hodowlaną prowadzi podmiot inny niż osoba fizyczna;
 - **7)** oświadczenie o numerze Krajowym Rejestrze Sądowym albo innym rejestrze, albo ewidencji, właściwych dla formy organizacyjnej wnioskodawcy.
 
 5. Księga hodowlana zawiera informacje:
 
 - **1)** o zwierzęciu wpisanym do tej księgi, tym o pochodzeniu oraz wynikach oceny wartości użytkowej lub oceny genetycznej;
-- **2)** dotyczące hodowcy lub właściciela zwierzęcia, tym imię i nazwisko, adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę hodowcy lub właściciela zwierzęcia, z tym że przypadku gdy hodowcą lub właścicielem zwierzęcia jest osoba fizyczna prowadząca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby miejsce i adres wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby.
+- **2)** dotyczące hodowcy lub właściciela zwierzęcia, tym imię i nazwisko, adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę hodowcy lub właściciela zwierzęcia, z tym że przypadku gdy hodowcą lub właścicielem zwierzęcia jest osoba fizyczna prowadząca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby – miejsce i adres wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby.
 
 6. Księga hodowlana jest prowadzona przez związek hodowców lub inny podmiot, które uzyskały zezwolenie, o którym mowa ust. 1:
 
@@ -155,7 +160,9 @@ o organizacji hodowli i rozrodzie zwierząt gospodarskich
     - **a)** wykonywanie czynności związanych z prowadzeniem tej księgi przez osoby posiadające wiedzę i doświadczenie zakresie realizowanego programu hodowlanego,
     - **b)** bezpieczne przechowywanie zgromadzonych informacji o zwierzętach wpisanych do tej księgi.
 
-7. Związek hodowców lub inny podmiot składają ministrowi właściwemu do spraw rolnictwa coroczne sprawozdanie dotyczące prowadzenia księgi hodowlanej, zawierające szczególności informacje dotyczące zwierząt wpisanych do tej księgi lub zgłoszonych do wpisu do tej księgi, terminie do dnia 31 marca roku następującego po roku, którego dotyczy sprawozdanie. miot prowadzący księgę hodowlaną:
+7. Związek hodowców lub inny podmiot składają ministrowi właściwemu do spraw rolnictwa coroczne sprawozdanie dotyczące prowadzenia księgi hodowlanej, zawierające szczególności informacje dotyczące zwierząt wpisanych do tej księgi lub zgłoszonych do wpisu do tej księgi, terminie do dnia 31 marca roku następującego po roku, którego dotyczy sprawozdanie.
+
+8. Minister właściwy do spraw rolnictwa cofa, drodze decyzji, zezwolenie, o którym mowa ust. 1, jeżeli podmiot prowadzący księgę hodowlaną:
 
 - **1)** nie realizuje programu hodowlanego lub nie wpisuje do tej księgi zwierząt, stad zwierząt futerkowych, rodów oraz linii hodowlanych, które spełniają warunki wpisu do tej księgi określone programie hodowlanym, lub
 - **2)** nie składa sprawozdania, o którym mowa ust. 7, lub
@@ -197,7 +204,11 @@ o organizacji hodowli i rozrodzie zwierząt gospodarskich
 
 2. W przypadku określonym ust. 1 minister właściwy do spraw rolnictwa stwierdza wygaśnięcie decyzji, na podstawie której była prowadzona księga hodowlana.
 
-3. W przypadku gdy decyzja stwierdzająca wygaśnięcie decyzji, na podstawie której była prowadzona księga hodowlana, a także przypadku gdy decyzja, o której mowa art. 10 ust. 8, staną się ostateczne, podmiot, który dotychczas prowadził tę księgę, przekazuje niezwłocznie dokumentację związaną z jej prowadzeniem Krajowemu Centrum Hodowli Zwierząt. ciwego do spraw rolnictwa.
+3. W przypadku gdy decyzja stwierdzająca wygaśnięcie decyzji, na podstawie której była prowadzona księga hodowlana, a także przypadku gdy decyzja, o której mowa art. 10 ust. 8, staną się ostateczne, podmiot, który dotychczas prowadził tę księgę, przekazuje niezwłocznie dokumentację związaną z jej prowadzeniem Krajowemu Centrum Hodowli Zwierząt.
+
+**Art. 13.**
+
+1. Rejestry mogą prowadzić związki hodowców lub inne podmioty, które uzyskały zezwolenie ministra właściwego do spraw rolnictwa.
 
 2. Zezwolenie, o którym mowa ust. 1, jest wydawane drodze decyzji, na wniosek związku hodowców lub innego podmiotu.
 
@@ -220,14 +231,17 @@ o organizacji hodowli i rozrodzie zwierząt gospodarskich
 - **2)** oświadczenie o liczbie zwierząt, które zostaną objęte programem krzyżowania, znajdujących się posiadaniu członków związku hodowców lub innego podmiotu;
 - **3)** oświadczenie o spełnieniu wymagań określonych przepisach wydanych na podstawie ust. 8;
 - **4)** oświadczenie, że wszystkie zwierzęta należące do danego gatunku, rasy, odmiany lub linii hodowlanej znajdujące się na obszarze geograficznym, na którym będzie realizowany program krzyżowania, mogą uczestniczyć jego realizacji;
-- **5)** regulamin rozstrzygania sporów między hodowcami uczestniczącymi programie krzyżowania a związkiem hodowców lub innym podmiotem prowadzącym rejestr przypadku gdy związku z prowadzeniem rejestru może dochodzić do takich sporów;
-- **6)** kopię statutu lub umowy, na podstawie których działa związek hodowców lub inny podmiot przypadku gdy rejestr prowadzi podmiot inny niż osoba fizyczna;
+- **5)** regulamin rozstrzygania sporów między hodowcami uczestniczącymi programie krzyżowania a związkiem hodowców lub innym podmiotem prowadzącym rejestr – przypadku gdy związku z prowadzeniem rejestru może dochodzić do takich sporów;
+- **6)** kopię statutu lub umowy, na podstawie których działa związek hodowców lub inny podmiot – przypadku gdy rejestr prowadzi podmiot inny niż osoba fizyczna;
 - **7)** oświadczenie o numerze Krajowym Rejestrze Sądowym albo innym rejestrze, albo ewidencji, właściwych dla formy organizacyjnej wnioskodawcy.
 
 4. Rejestr zawiera informacje:
 
 - **1)** o zwierzęciu wpisanym do tego rejestru, tym o pochodzeniu oraz wynikach oceny wartości użytkowej lub oceny genetycznej;
-- **2)** dotyczące hodowcy lub właściciela zwierzęcia, tym imię i nazwisko, adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę hodowcy lub właściciela zwierzęcia, z tym że przypadku gdy hodowcą lub właścicielem zwierzęcia jest osoba fizyczna prowadząca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby miejsce i adres wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby. ust. 1:
+- **2)** dotyczące hodowcy lub właściciela zwierzęcia, tym imię i nazwisko, adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę hodowcy lub właściciela zwierzęcia, z tym że przypadku gdy hodowcą lub właścicielem zwierzęcia jest osoba fizyczna prowadząca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby – miejsce i adres wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby.
+
+5. Rejestr jest prowadzony przez związek hodowców lub inny podmiot, które uzyskały zezwolenie, o którym mowa ust. 1:
+
 - **1)** posiadające dostęp do informacji o zwierzętach i danych o wartości użytkowej lub hodowlanej tych zwierząt zakresie niezbędnym do realizacji programu krzyżowania;
 - **2)** sposób zapewniający:
     - **a)** wykonywanie czynności związanych z prowadzeniem rejestru przez osoby posiadające wiedzę i doświadczenie zakresie realizowanego programu krzyżowania,
@@ -241,7 +255,7 @@ o organizacji hodowli i rozrodzie zwierząt gospodarskich
 - **2)** nie składa sprawozdania, o którym mowa ust. 6, lub
 - **3)** składa sprawozdanie, o którym mowa ust. 6, niezawierające wymaganych informacji.
 
-8. Minister właściwy do spraw rolnictwa określi, drodze rozporządzenia, szczegółowe wymagania, jakie mają być spełnione, aby uzyskać zezwolenie na prowadzenie rejestru, tym warunki i sposób prowadzenia rejestru zapewniający właściwe zabezpieczenie i ochronę danych gromadzonych rejestrze, dostęp do informacji i danych o wartości użytkowej lub hodowlanej zwierząt zakresie niezbędnym do realizacji programu krzyżowania, a przypadku bydła, koni, owiec, alpak, kóz, jeleniowatych, jedwabników morwowych, pszczół oraz stad drobiu i zwierząt futerkowych minimalną liczebność pogłowia zwierząt niezbędną do prowadzenia rejestru, mając na względzie zapewnienie prawidłowości prowadzonej hodowli i uzyskiwanie zwierząt o wysokiej wartości użytkowej oraz sprawne i rzetelne prowadzenie rejestru.
+8. Minister właściwy do spraw rolnictwa określi, drodze rozporządzenia, szczegółowe wymagania, jakie mają być spełnione, aby uzyskać zezwolenie na prowadzenie rejestru, tym warunki i sposób prowadzenia rejestru zapewniający właściwe zabezpieczenie i ochronę danych gromadzonych rejestrze, dostęp do informacji i danych o wartości użytkowej lub hodowlanej zwierząt zakresie niezbędnym do realizacji programu krzyżowania, a przypadku bydła, koni, owiec, alpak, kóz, jeleniowatych, jedwabników morwowych, pszczół oraz stad drobiu i zwierząt futerkowych – minimalną liczebność pogłowia zwierząt niezbędną do prowadzenia rejestru, mając na względzie zapewnienie prawidłowości prowadzonej hodowli i uzyskiwanie zwierząt o wysokiej wartości użytkowej oraz sprawne i rzetelne prowadzenie rejestru.
 
 **Art. 14.**
 
@@ -261,15 +275,19 @@ o organizacji hodowli i rozrodzie zwierząt gospodarskich
 
 1. Związek hodowców lub inny podmiot prowadzący daną księgę hodowlaną lub rejestr, a także przedsiębiorstwo hodowlane prowadzące dany rejestr hodowlany wydają, na wniosek hodowcy, zaświadczenie potwierdzające dokonanie wpisu odpowiednio do księgi hodowlanej, rejestru hodowlanego lub rejestru.
 
-2. Za dokonanie wpisu zwierząt do księgi hodowlanej, rejestru hodowlanego i rejestru, za wydanie zaświadczenia potwierdzającego dokonanie wpisu do księgi hodowlanej, rejestru hodowlanego i rejestru, a także za wydanie świadectwa zootechnicznego, o którym mowa art. 30 ust. 1 rozporządzenia 2016/1012, podmioty, o których mowa ust. 1, mogą pobierać opłatę, której wysokość nie może przekraczać kosztów poniesionych przez te podmioty związanych z dokonaniem wpisu lub wydaniem zaświadczenia lub świadectwa. o których mowa ust. 2, albo o ich niepobieraniu oraz o warunkach, jakie mają być spełnione, aby uzyskać wpis do księgi hodowlanej, rejestru hodowlanego lub rejestru, a przypadku gdy posiadają stronę internetową udostępniają te informacje na tej stronie.
+2. Za dokonanie wpisu zwierząt do księgi hodowlanej, rejestru hodowlanego i rejestru, za wydanie zaświadczenia potwierdzającego dokonanie wpisu do księgi hodowlanej, rejestru hodowlanego i rejestru, a także za wydanie świadectwa zootechnicznego, o którym mowa art. 30 ust. 1 rozporządzenia 2016/1012, podmioty, o których mowa ust. 1, mogą pobierać opłatę, której wysokość nie może przekraczać kosztów poniesionych przez te podmioty związanych z dokonaniem wpisu lub wydaniem zaświadczenia lub świadectwa.
+
+3. Podmioty, o których mowa ust. 1, podają do wiadomości swojej siedzibie informacje o wysokości opłat, o których mowa ust. 2, albo o ich niepobieraniu oraz o warunkach, jakie mają być spełnione, aby uzyskać wpis do księgi hodowlanej, rejestru hodowlanego lub rejestru, a przypadku gdy posiadają stronę internetową – udostępniają te informacje na tej stronie.
 
 4. Opłata, o której mowa ust. 2, z wyłączeniem opłaty pobieranej przez Krajowe Centrum Hodowli Zwierząt, stanowi przychód podmiotu prowadzącego księgę hodowlaną, rejestr hodowlany lub rejestr.
 
 **Art. 18.**
 
-1. Do postępowań sprawach o dokonanie wpisu zwierzęcia, stada zwierząt futerkowych, rodu lub linii hodowlanej do księgi hodowlanej, rejestru hodowlanego lub rejestru nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2020 r. poz. 256, 695, 1298 i 2320).
+1. Do postępowań sprawach o dokonanie wpisu zwierzęcia, stada zwierząt futerkowych, rodu lub linii hodowlanej do księgi hodowlanej, rejestru hodowlanego lub rejestru nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2020 r. poz. 256, 695, 1298 i
 
-2. Na odmowę dokonania wpisu do księgi hodowlanej, rejestru hodowlanego lub rejestru zwierzęcia, stada zwierząt futerkowych, rodu lub linii hodowlanej właścicielowi lub posiadaczowi tego zwierzęcia, stada zwierząt futerkowych, rodu lub linii hodowlanej przysługuje skarga do sądu administracyjnego na zasadach i trybie określonych dla aktów lub czynności z zakresu administracji publicznej, o których mowa art. 3 § 2 pkt 4 ustawy z dnia 30 sierpnia 2002 r. Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2019 r. poz. 2325 oraz z 2020 r. poz. 2299 i 2320).
+- **2320)** .
+
+2. Na odmowę dokonania wpisu do księgi hodowlanej, rejestru hodowlanego lub rejestru zwierzęcia, stada zwierząt futerkowych, rodu lub linii hodowlanej właścicielowi lub posiadaczowi tego zwierzęcia, stada zwierząt futerkowych, rodu lub linii hodowlanej przysługuje skarga do sądu administracyjnego na zasadach i trybie określonych dla aktów lub czynności z zakresu administracji publicznej, o których mowa art. 3 § 2 pkt 4 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2019 r. poz. 2325 oraz z 2020 r. poz. 2299 i 2320).
 
 #### Rozdział 3 Ocena wartości użytkowej i ocena genetyczna zwierząt gospodarskich
 
@@ -278,7 +296,7 @@ o organizacji hodowli i rozrodzie zwierząt gospodarskich
 1. Minister właściwy do spraw rolnictwa może, drodze rozporządzenia, upoważnić podmiot niebędący związkiem hodowców lub przedsiębiorstwem hodowlanym uznanym na podstawie rozdziału II sekcji 1 rozporządzenia 2016/1012 do prowadzenia:
 
 - **1)** oceny wartości użytkowej zwierząt gospodarskich, o których mowa art. 2 pkt 1 lit. a, lub
-- **2)** oceny genetycznej zwierząt gospodarskich, o których mowa art. 2 pkt 1 lit. a mając na względzie zapewnienie przez ten podmiot spełniania wymagań określonych art. 27 ust. 3 rozporządzenia 2016/1012, prowadzenia oceny wartości użytkowej lub oceny genetycznej zwierząt gospodarskich, o których mowa art. 2 pkt 1 lit. a, zgodnie z właściwym zatwierdzonym programem hodowlanym oraz wypełniania obowiązków wynikających z art. 28 rozporządzenia 2016/1012.
+- **2)** oceny genetycznej zwierząt gospodarskich, o których mowa art. 2 pkt 1 lit. a – mając na względzie zapewnienie przez ten podmiot spełniania wymagań określonych art. 27 ust. 3 rozporządzenia 2016/1012, prowadzenia oceny wartości użytkowej lub oceny genetycznej zwierząt gospodarskich, o których mowa art. 2 pkt 1 lit. a, zgodnie z właściwym zatwierdzonym programem hodowlanym oraz wypełniania obowiązków wynikających z art. 28 rozporządzenia 2016/1012.
 
 2. W rozporządzeniu, o którym mowa ust. 1, minister właściwy do spraw rolnictwa może upoważnić wyłącznie podmiot, który złożył wniosek o upoważnienie do prowadzenia oceny wartości użytkowej lub oceny genetycznej zwierząt gospodarskich, o których mowa art. 2 pkt 1 lit. a.
 
@@ -291,9 +309,11 @@ o organizacji hodowli i rozrodzie zwierząt gospodarskich
 2. Minister właściwy do spraw rolnictwa może, drodze rozporządzenia, upoważnić do prowadzenia oceny wartości użytkowej lub oceny genetycznej zwierząt gospodarskich, o których mowa art. 2 pkt 1 lit. b:
 
 - **1)** związek hodowców lub inny podmiot, które uzyskały zezwolenie ministra właściwego do spraw rolnictwa na prowadzenie księgi hodowlanej lub rejestru,
-- **2)** inny podmiot, który został wskazany programie hodowlanym dla danej księgi hodowlanej lub programie krzyżowania dla danego rejestru mając na względzie zapewnienie przez ten związek lub podmiot prawidłowego realizowania powierzonych mu zadań oraz wiarygodność uzyskiwanych wyników oceny wartości użytkowej lub oceny genetycznej.
+- **2)** inny podmiot, który został wskazany programie hodowlanym dla danej księgi hodowlanej lub programie krzyżowania dla danego rejestru – mając na względzie zapewnienie przez ten związek lub podmiot prawidłowego realizowania powierzonych mu zadań oraz wiarygodność uzyskiwanych wyników oceny wartości użytkowej lub oceny genetycznej.
 
 3. W rozporządzeniu, o którym mowa ust. 2, minister właściwy do spraw rolnictwa może upoważnić wyłącznie podmiot, który złożył wniosek o upoważnienie do prowadzenia oceny wartości użytkowej lub oceny genetycznej zwierząt gospodarskich, o których mowa art. 2 pkt 1 lit. b.
+
+4. Do wniosku, o którym mowa ust. 3, dołącza się:
 
 - **1)** zakres oceny wartości użytkowej lub oceny genetycznej oraz metodykę prowadzenia oceny wartości użytkowej lub oceny genetycznej;
 - **2)** opis sposobu oznakowania i identyfikacji zwierząt do celów hodowlanych.
@@ -329,7 +349,9 @@ o organizacji hodowli i rozrodzie zwierząt gospodarskich
 
 3. Sposób oznakowania i identyfikacji do celów hodowlanych zwierząt gospodarskich, o których mowa art. 2 pkt 1 lit. b, określa związek hodowców lub inny podmiot, które zostały upoważnione przez ministra właściwego do spraw rolnictwa do prowadzenia oceny wartości użytkowej, z tym że oznakowanie to ma być trwałe i indywidualne, dokonane przy użyciu kolczyków, identyfikatorów elektronicznych, znaczków identyfikacyjnych lub za pomocą tatuażu.
 
-**Art. 24.** Za prowadzenie oceny wartości użytkowej lub oceny genetycznej zwierząt gospodarskich może być pobierane wynagrodzenie wysokości ustalonej umowie o prowadzenie danej oceny, przy czym wysokość tego wynagrodzenia ustala się, uwzględniając zarówno odniesieniu do zwierząt gospodarskich urodzonych na terytorium Rzeczypospolitej Polskiej, jak i zwierząt pochodzących z innych państw członkowskich Unii Europejskiej, te same elementy składowe. Rozród zwierząt gospodarskich
+**Art. 24.** Za prowadzenie oceny wartości użytkowej lub oceny genetycznej zwierząt gospodarskich może być pobierane wynagrodzenie wysokości ustalonej umowie o prowadzenie danej oceny, przy czym wysokość tego wynagrodzenia ustala się, uwzględniając zarówno odniesieniu do zwierząt gospodarskich urodzonych na terytorium Rzeczypospolitej Polskiej, jak i zwierząt pochodzących z innych państw członkowskich Unii Europejskiej, te same elementy składowe.
+
+#### Rozdział 4 Rozród zwierząt gospodarskich
 
 **Art. 25.** W przypadku zwierząt gospodarskich, o których mowa art. 2 pkt 1 lit. b, w:
 
@@ -347,12 +369,12 @@ o organizacji hodowli i rozrodzie zwierząt gospodarskich
 
 **Art. 28.**
 
-1. Podmiot prowadzący, zgodnie z przepisami o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt, punkt kopulacyjny dla zwierząt gospodarskich:
+1. Podmiot prowadzący, zgodnie z przepisami o zdrowiu zwierząt, punkt kopulacyjny dla zwierząt gospodarskich:
 
-- **1)** wykorzystuje reproduktory spełniające wymagania określone art. 21 ust. 1 lit. a oraz art. 24 ust. 1 lit. a rozporządzenia 2016/1012, a przypadku zwierząt gospodarskich, o których mowa art. 2 pkt 1 lit. b art. 25 pkt 1;
+- **1)** wykorzystuje reproduktory spełniające wymagania określone art. 21 ust. 1 lit. a oraz art. 24 ust. 1 lit. a rozporządzenia 2016/1012, a przypadku zwierząt gospodarskich, o których mowa art. 2 pkt 1 lit. b – art. 25 pkt 1;
 - **2)** wydaje właścicielowi lub posiadaczowi samicy świadectwo jej pokrycia zawierające informacje dotyczące przeprowadzonego krycia, szczególności datę jego przeprowadzenia, oraz przechowuje kopię wydanego świadectwa przez 5 lat od dnia jego wydania, z tym że przypadku świń kopię tę przechowuje się przez rok od dnia jego wydania.
 
-2. Podmiot wykorzystujący, zgodnie z przepisami o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt, zarodki zwierząt spełniające wymagania określone art. 21 ust. 1 lit. e oraz f lub art. 24 ust. 1 lit. c rozporządzenia 2016/1012 wydaje właścicielowi lub posiadaczowi samicy zaświadczenie o przeniesieniu zarodka zawierające informacje dotyczące przeprowadzonego zabiegu, szczególności datę jego przeprowadzenia, oraz przechowuje kopię wydanego zaświadczenia przez 5 lat od dnia jego wydania.
+2. Podmiot wykorzystujący, zgodnie z przepisami o zdrowiu zwierząt, zarodki zwierząt spełniające wymagania określone art. 21 ust. 1 lit. e oraz f lub art. 24 ust. 1 lit. c rozporządzenia 2016/1012 wydaje właścicielowi lub posiadaczowi samicy zaświadczenie o przeniesieniu zarodka zawierające informacje dotyczące przeprowadzonego zabiegu, szczególności datę jego przeprowadzenia, oraz przechowuje kopię wydanego zaświadczenia przez 5 lat od dnia jego wydania.
 
 **Art. 29.**
 
@@ -362,13 +384,14 @@ o organizacji hodowli i rozrodzie zwierząt gospodarskich
 - **2)** termin pobrania lub produkcji tego materiału;
 - **3)** imię i nazwisko, adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę producenta i odbiorcy tego materiału.
 
-2. Dokument handlowy jest wydawany zgodnie z przepisami o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt przez podmiot wprowadzający materiał biologiczny do obrotu, który:
+2. Dokument handlowy jest wydawany przez podmiot wprowadzający materiał biologiczny do obrotu, który:
 
-- **1)** prowadzi działalność zakresie:
-    - **a)** pozyskiwania, produkowania, przetwarzania i przechowywania nasienia lub
-    - **b)** przechowywania nasienia, lub
-    - **c)** pozyskiwania, produkowania lub przechowywania komórek jajowych lub zarodków lub
+- **1)** prowadzi zarejestrowany zgodnie z przepisami o zdrowiu zwierząt zakład, którym:
+    - **a)** jest pozyskiwane, produkowane, przetwarzane i przechowywane nasienie lub
+    - **b)** jest przechowywane nasienie, lub
+    - **c)** są pozyskiwane, produkowane lub przechowywane komórki jajowe lub zarodki lub
 
+- **2)** utrzymuje drób hodowlany, lub
 - **3)** prowadzi księgę hodowlaną lub rejestr dla jedwabnika morwowego.
 
 **Art. 30.**
@@ -376,13 +399,13 @@ o organizacji hodowli i rozrodzie zwierząt gospodarskich
 1. Podmiot wykonujący usługi zakresie sztucznego unasienniania:
 
 - **1)** zaopatruje się nasienie wyłącznie:
-    - **a)** centrum, o którym mowa art. 21 ust. 5 oraz art. 24 ust. 3 rozporządzenia 2016/1012 odniesieniu do zwierząt gospodarskich, o których mowa art. 2 pkt 1 lit. a, lub
+    - **a)** centrum, o którym mowa art. 21 ust. 5 i 6 oraz art. 24 ust. 3 i 4 rozporządzenia 2016/1012 – odniesieniu do zwierząt gospodarskich, o których mowa art. 2 pkt 1 lit. a, lub
     - **b)** punktach dystrybucji nasienia knurów, o ile nasienie to zostanie wykorzystane na terytorium Rzeczypospolitej Polskiej, lub
-    - **c)** u podmiotów prowadzących na podstawie ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt (Dz. U. z 2020 r. poz. 1421) działalność zakresie pozyskiwania, produkowania, przetwarzania i przechowywania nasienia zwierząt gospodarskich, o których mowa art. 2 pkt 1 lit. b, lub zakresie przechowywania nasienia tych zwierząt;
+    - **c)** u podmiotów prowadzących zakład, którym jest pozyskiwane, produkowane, przetwarzane i przechowywane nasienie zwierząt gospodarskich, o których mowa art. 2 pkt 1 lit. b, lub którym jest przechowywane nasienie tych zwierząt, zarejestrowany zgodnie z przepisami o zdrowiu zwierząt;
 
 - **2)** wykorzystuje nasienie:
     - **a)** pozyskane od zwierząt, o których mowa art. 21 ust. 1 lit. b–d lub g oraz art. 24 ust. 1 lit. b lub d rozporządzenia 2016/1012, lub
-    - **b)** pochodzące od reproduktorów spełniających wymagania określone art. 25 pkt 2 lit. a odniesieniu do zwierząt gospodarskich, o których mowa art. 2 pkt 1 lit. b;
+    - **b)** pochodzące od reproduktorów spełniających wymagania określone art. 25 pkt 2 lit. a – odniesieniu do zwierząt gospodarskich, o których mowa art. 2 pkt 1 lit. b;
 
 - **3)** wydaje właścicielowi lub posiadaczowi samicy zaświadczenie o wykonaniu zabiegu sztucznego unasienniania zawierające informacje dotyczące przeprowadzonego zabiegu, szczególności datę jego przeprowadzenia, oraz przechowuje kopię wydanego zaświadczenia przez 5 lat od dnia jego wydania, z tym że przypadku świń kopię tę przechowuje się przez rok od dnia jego wydania;
 - **4)** przekazuje związkowi hodowców prowadzącemu ocenę wartości użytkowej lub innemu podmiotowi upoważnionemu do prowadzenia tej oceny informacje o zabiegach sztucznego unasienniania wykonanych stadach bydła ras mlecznych objętych oceną wartości użytkowej, niezwłocznie po ich wykonaniu, sposób ustalony przez ten związek lub podmiot.
@@ -391,10 +414,12 @@ o organizacji hodowli i rozrodzie zwierząt gospodarskich
 
 - **1)** lekarze weterynarii;
 - **2)** osoby, które:
-    - **a)** złożyły z wynikiem pozytywnym egzamin kończący szkolenie z zakresu sztucznego unasienniania danego gatunku zwierząt gospodarskich obejmujące: zajęcia teoretyczne z zakresu: anatomii i fizjologii zwierząt, regulacji prawnych dotyczących organizacji hodowli i rozrodu zwierząt gospodarskich, selekcji i doboru zwierząt do kojarzeń, interpretacji informacji zawartych świadectwach zootechnicznych lub innych dokumentach hodowlanych, zajęcia praktyczne z zakresu: postępowania z nasieniem, wykonywania zabiegów sztucznego unasienniania,
+    - **a)** złożyły z wynikiem pozytywnym egzamin kończący szkolenie z zakresu sztucznego unasienniania danego gatunku zwierząt gospodarskich obejmujące: – zajęcia teoretyczne z zakresu: – – anatomii i fizjologii zwierząt, – – regulacji prawnych dotyczących organizacji hodowli i rozrodu zwierząt gospodarskich, – – selekcji i doboru zwierząt do kojarzeń, – – interpretacji informacji zawartych świadectwach zootechnicznych lub innych dokumentach hodowlanych, – zajęcia praktyczne z zakresu: – – postępowania z nasieniem, – – wykonywania zabiegów sztucznego unasienniania,
     - **b)** uzyskały uprawnienia do ich wykonywania na terytorium innych państw członkowskich Unii Europejskiej i posiadają zaświadczenie potwierdzające uzyskanie tych uprawnień.
 
-3. Szkolenie, o którym mowa ust. 2 pkt 2 lit. a, może być prowadzone przez podmiot, który uzyskał zgodę ministra właściwego do spraw rolnictwa. szkolenie, o którym mowa ust. 2 pkt 2 lit. a, jeżeli ten podmiot dołączy do tego wniosku:
+3. Szkolenie, o którym mowa ust. 2 pkt 2 lit. a, może być prowadzone przez podmiot, który uzyskał zgodę ministra właściwego do spraw rolnictwa.
+
+4. Zgoda, o której mowa ust. 3, jest wydawana drodze decyzji, na wniosek podmiotu zamierzającego prowadzić szkolenie, o którym mowa ust. 2 pkt 2 lit. a, jeżeli ten podmiot dołączy do tego wniosku:
 
 - **1)** program tego szkolenia uwzględniający zagadnienia, o których mowa ust. 2 pkt 2 lit. a, oraz plan jego realizacji;
 - **2)** wzór zaświadczenia o ukończeniu tego szkolenia;
@@ -426,9 +451,11 @@ o organizacji hodowli i rozrodzie zwierząt gospodarskich
 
 2. W przypadku wydania zezwoleń, o których mowa art. 31 ust. 2 i art. 32 ust. 3 i 4 rozporządzenia 2016/1012, odstępstwa, o których mowa art. 31 ust. 2 i art. 32 ust. 3 i 4 rozporządzenia 2016/1012, dotyczą również centrum i zespołu, o których mowa art. 21 ust. 5 rozporządzenia 2016/1012, wymienionych we właściwych zatwierdzonych programach hodowlanych.
 
-**Art. 32.** Przepisów art. 25, art. 26 i art. 30 nie stosuje się do badań naukowych i prac rozwojowych dziedzinie hodowli i rozrodu zwierząt gospodarskich prowadzonych przez podmioty wymienione art. 7 ust. 1 pkt 1, 2, 4–6, 6b i 8 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2020 r. poz. 85, 374, 695, 875 i 1086).
+**Art. 32.** Przepisów art. 25, art. 26 i art. 30 nie stosuje się do badań naukowych i prac rozwojowych dziedzinie hodowli i rozrodu zwierząt gospodarskich prowadzonych przez podmioty wymienione art. 7 ust. 1 pkt 1, 2, 4–6, 6b i 8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2020 r. poz. 85, 374, 695, 875 i 1086).
 
-**Art. 33.** Minister właściwy do spraw rolnictwa określi, drodze rozporządzenia, szczegółowe warunki i tryb wydawania świadectw pokrycia, zaświadczeń o wykonaniu zabiegu sztucznego unasienniania lub zaświadczeń o przeniesieniu zarodków oraz szczegółowy zakres informacji zawartych tych dokumentach, mając na względzie ujednolicenie informacji zawartych tych dokumentach. Ochrona zasobów genetycznych zwierząt gospodarskich
+**Art. 33.** Minister właściwy do spraw rolnictwa określi, drodze rozporządzenia, szczegółowe warunki i tryb wydawania świadectw pokrycia, zaświadczeń o wykonaniu zabiegu sztucznego unasienniania lub zaświadczeń o przeniesieniu zarodków oraz szczegółowy zakres informacji zawartych tych dokumentach, mając na względzie ujednolicenie informacji zawartych tych dokumentach.
+
+#### Rozdział 5 Ochrona zasobów genetycznych zwierząt gospodarskich
 
 **Art. 34.**
 
@@ -441,13 +468,14 @@ o organizacji hodowli i rozrodzie zwierząt gospodarskich
 - **3)** zakresu i metod służących realizacji tego programu;
 - **4)** zakresu kriokonserwacji materiału biologicznego i sposobu wykorzystania tego materiału.
 
-3. Instytut Zootechniki Państwowy Instytut Badawczy Krakowie realizuje i koordynuje zadania zakresie ochrony zasobów genetycznych, szczególności przez:
+3. Instytut Zootechniki – Państwowy Instytut Badawczy Krakowie realizuje i koordynuje zadania zakresie ochrony zasobów genetycznych, szczególności przez:
 
-- **1)** opracowanie, we współpracy z właściwymi uznanymi związkami hodowców lub związkami hodowców i innymi podmiotami, które uzyskały zezwolenie na prowadzenie ksiąg hodowlanych, programu ochrony zasobów genetycznych dla poszczególnych ras, linii hodowlanych lub odmian, o których mowa ust. 1, i udostępnienie tego programu na stronie internetowej administrowanej przez Instytut Zootechniki Państwowy Instytut Badawczy Krakowie;
+- **1)** opracowanie, we współpracy z właściwymi uznanymi związkami hodowców lub związkami hodowców i innymi podmiotami, które uzyskały zezwolenie na prowadzenie ksiąg hodowlanych, programu ochrony zasobów genetycznych dla poszczególnych ras, linii hodowlanych lub odmian, o których mowa ust. 1, i udostępnienie tego programu na stronie internetowej administrowanej przez Instytut Zootechniki – Państwowy Instytut Badawczy Krakowie;
 - **2)** współpracę z uznanymi związkami hodowców lub związkami hodowców i innymi podmiotami, które uzyskały zezwolenie na prowadzenie ksiąg hodowlanych, zakresie realizacji programów ochrony zasobów genetycznych;
 - **3)** gromadzenie i przechowywanie materiału biologicznego podlegającego kriokonserwacji zgodnie z programem ochrony zasobów genetycznych;
 - **4)** informowanie właściwego miejscowo powiatowego lekarza weterynarii o liczbie i miejscu utrzymywania zwierząt gospodarskich poszczególnych gatunków objętych ochroną zasobów genetycznych; informację przekazuje się na elektroniczną skrzynkę podawczą danego powiatowego lekarza weterynarii, udostępnioną i obsługiwaną zgodnie z art. 16 ust. 1a ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2020 r. poz. 346, 568, 695, 1517 i 2320);
-- **5)** współpracę i koordynowanie współpracy z organizacjami międzynarodowymi lub ponadnarodowymi działającymi dziedzinie ochrony zasobów genetycznych zwierząt gospodarskich.
+- **5)** współpracę i koordynowanie współpracy z organizacjami międzynarodowymi lub ponadnarodowymi działającymi dziedzinie ochrony zasobów genetycznych zwierząt gospodarskich;
+- **6)** prowadzenie banku genów rozumieniu art. 2 pkt 10 rozporządzenia delegowanego Komisji (UE) 2020/686 z dnia 17 grudnia 2019 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) 2016/429 odniesieniu do zatwierdzania zakładów zajmujących się materiałem biologicznym oraz wymagań zakresie identyfikowalności i zdrowia zwierząt dotyczących przemieszczania obrębie terytorium Unii materiału biologicznego niektórych utrzymywanych zwierząt lądowych (Dz. Urz. UE L 174 z 03.06.2020, str. 1, z późn. zm. ) dla zwierząt gospodarskich.
 
 #### Rozdział 6 Kontrola hodowli i rozrodu zwierząt gospodarskich
 
@@ -461,7 +489,8 @@ o organizacji hodowli i rozrodzie zwierząt gospodarskich
 
 - **1)** wstępu na grunty i do obiektów, których są utrzymywane zwierzęta gospodarskie, do zakładów wylęgu drobiu oraz do obiektów, których jest pozyskiwany, produkowany, przetwarzany lub przechowywany materiał biologiczny;
 - **2)** oględzin zwierząt gospodarskich, przeprowadzania badań i pobierania próbek krwi oraz próbek materiału biologicznego;
-- **3)** kontroli świadectw zootechnicznych, dokumentów hodowlanych i innych dokumentów zakresie objętym przedmiotem kontroli; danych zawartych tych systemach;
+- **3)** kontroli świadectw zootechnicznych, dokumentów hodowlanych i innych dokumentów zakresie objętym przedmiotem kontroli;
+- **4)** dostępu do komputerowych systemów zarządzania informacjami zakresie objętym przedmiotem kontroli oraz do danych zawartych tych systemach;
 - **5)** żądania pisemnych i ustnych wyjaśnień zakresie objętym przedmiotem kontroli.
 
 4. Czynności kontrolne wykonuje się obecności podmiotu kontrolowanego lub osoby przez niego upoważnionej, z zachowaniem przepisów sanitarnych i weterynaryjnych.
@@ -478,8 +507,8 @@ o organizacji hodowli i rozrodzie zwierząt gospodarskich
 
 4. Minister właściwy do spraw rolnictwa nakłada, drodze decyzji, jeden lub kilka środków, o których mowa art. 47 ust. 1 zdanie trzecie:
 
-- **1)** lit. a–c oraz f rozporządzenia 2016/1012 przypadku uchybień, o których mowa ust. 2;
-- **2)** lit. d albo e rozporządzenia 2016/1012 przypadku gdy zachodzą przesłanki ich zastosowania określone tych przepisach.
+- **1)** lit. a–c oraz f rozporządzenia 2016/1012 – przypadku uchybień, o których mowa ust. 2;
+- **2)** lit. d albo e rozporządzenia 2016/1012 – przypadku gdy zachodzą przesłanki ich zastosowania określone tych przepisach.
 
 5. Decyzja, o której mowa ust. 4, podlega natychmiastowemu wykonaniu.
 
@@ -495,7 +524,9 @@ o organizacji hodowli i rozrodzie zwierząt gospodarskich
 - **2)** zezwolenia, o którym mowa art. 13 ust. 7, lub
 - **3)** upoważnienia do wykonywania wszystkich lub niektórych zadań określonych przepisach wydanych na podstawie art. 21 ust. 2.
 
-**Art. 37.** Dyrektor Krajowego Centrum Hodowli Zwierząt składa ministrowi właściwemu do spraw rolnictwa sprawozdanie z kontroli przeprowadzonych roku poprzednim, terminie do dnia 31 stycznia. Warunki udziału koniowatych zawodach konnych
+**Art. 37.** Dyrektor Krajowego Centrum Hodowli Zwierząt składa ministrowi właściwemu do spraw rolnictwa sprawozdanie z kontroli przeprowadzonych roku poprzednim, terminie do dnia 31 stycznia.
+
+#### Rozdział 7 Warunki udziału koniowatych zawodach konnych
 
 **Art. 38.**
 
@@ -535,7 +566,9 @@ o organizacji hodowli i rozrodzie zwierząt gospodarskich
 12. Organizator zawodów konnych korzystający z uprawnienia, o którym mowa ust. 5, przekazuje, postaci papierowej lub elektronicznej, ministrowi właściwemu do spraw rolnictwa, terminie do dnia 31 marca, informacje o:
 
 - **1)** sposobie przeznaczenia nagród pieniężnych lub zysków z zawodów konnych, tym procentowym udziale nagród pieniężnych lub zysków przeznaczonych na ochronę, rozwój lub doskonalenie hodowli koniowatych,
-- **2)** kryteriach podziału nagród pieniężnych lub zysków z zawodów konnych, tym kryteriach podziału nagród pieniężnych lub zysków przeznaczonych na ochronę, rozwój lub doskonalenie hodowli koniowatych odniesieniu do zawodów konnych, które odbyły się roku poprzednim. Przepisy karne
+- **2)** kryteriach podziału nagród pieniężnych lub zysków z zawodów konnych, tym kryteriach podziału nagród pieniężnych lub zysków przeznaczonych na ochronę, rozwój lub doskonalenie hodowli koniowatych – odniesieniu do zawodów konnych, które odbyły się roku poprzednim.
+
+#### Rozdział 8 Przepisy karne
 
 **Art. 39.**
 
@@ -544,9 +577,9 @@ o organizacji hodowli i rozrodzie zwierząt gospodarskich
 - **1)** wbrew obowiązkowi wynikającemu z art. 9 ust. 5, nie składa sprawozdania dotyczącego prowadzenia księgi hodowlanej lub rejestru hodowlanego lub nie składa tego sprawozdania terminie określonym tym przepisie,
 - **2)** prowadząc ocenę wartości użytkowej lub ocenę genetyczną zwierząt gospodarskich, o których mowa art. 2 pkt 1 lit. b:
     - **a)** nie informuje na piśmie ministra właściwego do spraw rolnictwa o zamiarze dokonania zmiany zakresie oceny wartości użytkowej lub oceny genetycznej zwierząt lub metodyce prowadzenia oceny wartości użytkowej lub oceny genetycznej zwierząt terminie określonym art. 21 ust. 5,
-    - **b)** nie informuje zainteresowanych właścicieli lub posiadaczy zwierząt poddawanych: ocenie wartości użytkowej o zakresie lub metodyce stosowanej do prowadzenia tej oceny lub o zmianach wprowadzanych zakresie tej oceny lub metodyce jej prowadzenia lub ocenie genetycznej o zakresie lub metodyce stosowanej do prowadzenia tej oceny lub o zmianach wprowadzanych zakresie tej oceny lub metodyce jej prowadzenia,
+    - **b)** nie informuje zainteresowanych właścicieli lub posiadaczy zwierząt poddawanych: – ocenie wartości użytkowej o zakresie lub metodyce stosowanej do prowadzenia tej oceny lub o zmianach wprowadzanych zakresie tej oceny lub metodyce jej prowadzenia lub – ocenie genetycznej o zakresie lub metodyce stosowanej do prowadzenia tej oceny lub o zmianach wprowadzanych zakresie tej oceny lub metodyce jej prowadzenia,
 
-- **3)** wykorzystuje reproduktory niebędące zwierzętami hodowlanymi rozumieniu art. 2 pkt 3 rozporządzenia 2016/1012, a przypadku zwierząt gospodarskich, o których mowa art. 2 pkt 1 lit. b niespełniające warunków określonych art. 25 pkt 1, rozrodzie naturalnym lub prowadząc punkt kopulacyjny,
+- **3)** wykorzystuje reproduktory niebędące zwierzętami hodowlanymi rozumieniu art. 2 pkt 3 rozporządzenia 2016/1012, a przypadku zwierząt gospodarskich, o których mowa art. 2 pkt 1 lit. b – niespełniające warunków określonych art. 25 pkt 1, rozrodzie naturalnym lub prowadząc punkt kopulacyjny,
 - **4)** wykorzystuje rozrodzie pszczół trutnie niespełniające wymagań określonych art. 26 ust. 1,
 - **5)** utrzymuje pszczoły:
     - **a)** wbrew zakazowi określonemu przez sejmik województwa uchwale wydanej na podstawie art. 26 ust. 2,
@@ -558,14 +591,15 @@ o organizacji hodowli i rozrodzie zwierząt gospodarskich
     - **a)** nie zaopatruje go dokument handlowy lub
     - **b)** zaopatruje go dokument handlowy niezawierający informacji określonych art. 29 ust. 1,
 
-- **9)** przechowuje lub wprowadza do obrotu na terytorium Rzeczypospolitej Polskiej nasienie pozyskane od zwierząt gospodarskich innych niż określone art. 21 ust. 1 lit. b–d lub g lub art. 24 ust. 1 lit. b lub d rozporządzenia 2016/1012, a przypadku zwierząt gospodarskich, o których mowa art. 2 pkt 1 lit. b nasienie niespełniające wymagań określonych art. 25 pkt 2 lit. b,
+- **9)** przechowuje lub wprowadza do obrotu na terytorium Rzeczypospolitej Polskiej nasienie pozyskane od zwierząt gospodarskich innych niż określone art. 21 ust. 1 lit. b–d lub g lub art. 24 ust. 1 lit. b lub d rozporządzenia 2016/1012, a przypadku zwierząt gospodarskich, o których mowa art. 2 pkt 1 lit. b – nasienie niespełniające wymagań określonych art. 25 pkt 2 lit. b,
 - **10)** wykorzystuje zarodki zwierząt niespełniające wymagań określonych art. 21 ust. 1 lit. e lub f lub art. 24 ust. 1 lit. c rozporządzenia 2016/1012,
 - **11)** wykonuje zabiegi sztucznego unasienniania:
-    - **a)** wykorzystując nasienie pozyskane od zwierząt gospodarskich innych niż określone art. 21 ust. 1 lit. b–d lub g lub art. 24 ust. 1 lit. b lub d rozporządzenia 2016/1012, a przypadku zwierząt gospodarskich, o których mowa art. 2 pkt 1 lit. b nasienie niespełniające wymagań określonych art. 25 pkt 2 lit. b lub,
+    - **a)** wykorzystując nasienie pozyskane od zwierząt gospodarskich innych niż określone art. 21 ust. 1 lit. b–d lub g lub art. 24 ust. 1 lit. b lub d rozporządzenia 2016/1012, a przypadku zwierząt gospodarskich, o których mowa art. 2 pkt 1 lit. b – nasienie niespełniające wymagań określonych art. 25 pkt 2 lit. b lub,
     - **b)** zaopatrując się nasienie sposób inny niż określony art. 30 ust. 1 pkt 1,
 
 - **12)** przy wprowadzaniu do handlu zwierząt gospodarskich, o których mowa art. 2 pkt 1 lit. a, lub materiału biologicznego pochodzącego od tych zwierząt:
-    - **a)** nie zaopatruje tych zwierząt lub materiału biologicznego świadectwa zootechniczne, o których mowa art. 30 ust. 2 rozporządzenia 2016/1012, przypadku gdy te zwierzęta lub potomstwo wyprodukowane z tego materiału biologicznego mają zostać wpisane do innej księgi hodowlanej lub zarejestrowane innej księdze hodowlanej lub innym rejestrze, o których mowa art. 30 ust. 4 rozporządzenia 2016/1012, lub lub
+    - **a)** nie zaopatruje tych zwierząt lub materiału biologicznego świadectwa zootechniczne, o których mowa art. 30 ust. 2 rozporządzenia 2016/1012, przypadku gdy te zwierzęta lub potomstwo wyprodukowane z tego materiału biologicznego mają zostać wpisane do innej księgi hodowlanej lub zarejestrowane innej księdze hodowlanej lub innym rejestrze, o których mowa art. 30 ust. 4 rozporządzenia 2016/1012, lub
+    - **b)** wydaje świadectwo zootechniczne niespełniające wymagań określonych art. 30 ust. 6 rozporządzenia 2016/1012, lub
     - **c)** korzysta z odstępstwa, o którym mowa art. 31 ust. 2 i art. 32 ust. 3 i 4 rozporządzenia 2016/1012, nie posiadając zezwolenia, o którym mowa art. 31 ust. 1,
 
 - **13)** będąc organizatorem zawodów konnych:
@@ -574,11 +608,11 @@ o organizacji hodowli i rozrodzie zwierząt gospodarskich
     - **c)** wbrew obowiązkowi wynikającemu z art. 38 ust. 4 i 6, nie przekazuje ministrowi właściwemu do spraw rolnictwa wymaganych tymi przepisami informacji o zawodach konnych, terminach określonych tych przepisach, lub
     - **d)** wbrew zakazowi wynikającemu z art. 38 ust. 5, przeznacza na ochronę, rozwój lub doskonalenie hodowli koniowatych więcej niż 20% nagród pieniężnych lub zysków z zawodów konnych, lub
     - **e)** wbrew obowiązkowi wynikającemu z art. 38 ust. 7, przekazuje wskazane tym przepisie informacje na formularzach niezgodnych z wzorami formularzy określonymi przepisach wydanych na podstawie art. 38 ust. 8, lub
-    - **f)** wbrew obowiązkowi wynikającemu z art. 38 ust. 11 i 12, nie przekazuje ministrowi właściwemu do spraw rolnictwa informacji o przeprowadzonych zawodach konnych, terminach określonych tych przepisach podlega karze grzywny.
+    - **f)** wbrew obowiązkowi wynikającemu z art. 38 ust. 11 i 12, nie przekazuje ministrowi właściwemu do spraw rolnictwa informacji o przeprowadzonych zawodach konnych, terminach określonych tych przepisach – podlega karze grzywny.
 
 2. W razie popełnienia wykroczenia określonego ust. 1 pkt 4–7 można orzec przepadek rzeczy stanowiącej przedmiot wykroczenia, choćby nie stanowiła własności sprawcy.
 
-3. Orzekanie sprawach o czyny, o których mowa ust. 1, następuje na zasadach i trybie określonych ustawie z dnia 24 sierpnia 2001 r. Kodeks postępowania sprawach o wykroczenia (Dz. U. z 2020 r. poz. 729, 956, 1423, 2112 i 2320).
+3. Orzekanie sprawach o czyny, o których mowa ust. 1, następuje na zasadach i trybie określonych ustawie z dnia 24 sierpnia 2001 r. – Kodeks postępowania sprawach o wykroczenia (Dz. U. z 2020 r. poz. 729, 956, 1423, 2112 i 2320).
 
 #### Rozdział 9 Przepisy zmieniające, przejściowe i końcowe
 
@@ -588,7 +622,7 @@ o organizacji hodowli i rozrodzie zwierząt gospodarskich
 
 **Art. 42.** W ustawie z dnia 28 lipca 2005 r. o lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych (Dz. U. z 2020 r. poz. 1662) art. 38a ust. 1 pkt 6 otrzymuje brzmienie: „6) trzymania zwierząt gospodarskich rozumieniu przepisów ustawy z dnia 10 grudnia 2020 r. o organizacji hodowli i rozrodzie zwierząt gospodarskich (Dz. U. z 2021 r. poz. 36);”.
 
-**Art. 43.** W ustawie z dnia 15 stycznia 2015 r. o ochronie zwierząt wykorzystywanych do celów naukowych lub edukacyjnych (Dz. U. z 2019 r. poz. 1392) art. 2 ust. 1 pkt 4 otrzymuje brzmienie: „4) zwierzęta gospodarskie zwierzęta gospodarskie rozumieniu art. 2 pkt 1 ustawy z dnia 10 grudnia 2020 r. o organizacji hodowli i rozrodzie zwierząt gospodarskich (Dz. U. z 2021 r. poz. 36);”.
+**Art. 43.** W ustawie z dnia 15 stycznia 2015 r. o ochronie zwierząt wykorzystywanych do celów naukowych lub edukacyjnych (Dz. U. z 2019 r. poz. 1392) art. 2 ust. 1 pkt 4 otrzymuje brzmienie: „4) zwierzęta gospodarskie – zwierzęta gospodarskie rozumieniu art. 2 pkt 1 ustawy z dnia 10 grudnia 2020 r. o organizacji hodowli i rozrodzie zwierząt gospodarskich (Dz. U. z 2021 r. poz. 36);”.
 
 **Art. 44.**
 
@@ -604,7 +638,9 @@ o organizacji hodowli i rozrodzie zwierząt gospodarskich
 
 2. Postępowanie sprawie określonej art. 35 ust. 2 ustawy uchylanej art. 55, wszczęte i niezakończone przed dniem wejścia życie niniejszej ustawy, umarza się.
 
-3. Związek hodowców lub inny podmiot, które na podstawie art. 18 ust. 2 i art. 22 ust. 2 ustawy uchylanej art. 55, uzyskały zgodę ministra właściwego do spraw rolnictwa na prowadzenie określonej księgi hodowlanej lub określonego rejestru zwierząt gospodarskich, o których mowa art. 2 pkt 1 lit. b niniejszej ustawy, uznaje się za związek hodowców lub inny podmiot, które uzyskały zezwolenie, o którym mowa odpowiednio art. 10 ust. 1 lub art. 13 ust. 1 niniejszej ustawy. Podmioty te składają ministrowi właściwemu do spraw rolnictwa terminie 12 miesięcy od dnia wejścia życie niniejszej ustawy dokumenty, o których mowa odpowiednio art. 10 ust. 4 lub art. 13 ust. 3 niniejszej ustawy. art. 13 ust. 1, jeżeli podmiot, o którym mowa ust. 3, nie złożył terminie dokumentów, o których mowa odpowiednio art. 10 ust. 4 lub art. 13 ust. 3, lub jeżeli złożony program hodowlany lub program krzyżowania nie spełnia wymagań określonych odpowiednio art. 10 ust. 4 pkt 1 lub art. 13 ust. 3 pkt 1.
+3. Związek hodowców lub inny podmiot, które na podstawie art. 18 ust. 2 i art. 22 ust. 2 ustawy uchylanej art. 55, uzyskały zgodę ministra właściwego do spraw rolnictwa na prowadzenie określonej księgi hodowlanej lub określonego rejestru zwierząt gospodarskich, o których mowa art. 2 pkt 1 lit. b niniejszej ustawy, uznaje się za związek hodowców lub inny podmiot, które uzyskały zezwolenie, o którym mowa odpowiednio art. 10 ust. 1 lub art. 13 ust. 1 niniejszej ustawy. Podmioty te składają ministrowi właściwemu do spraw rolnictwa terminie 12 miesięcy od dnia wejścia życie niniejszej ustawy dokumenty, o których mowa odpowiednio art. 10 ust. 4 lub art. 13 ust. 3 niniejszej ustawy.
+
+4. Minister właściwy do spraw rolnictwa cofa, drodze decyzji, zezwolenie, o którym mowa art. 10 ust. 1 lub art. 13 ust. 1, jeżeli podmiot, o którym mowa ust. 3, nie złożył terminie dokumentów, o których mowa odpowiednio art. 10 ust. 4 lub art. 13 ust. 3, lub jeżeli złożony program hodowlany lub program krzyżowania nie spełnia wymagań określonych odpowiednio art. 10 ust. 4 pkt 1 lub art. 13 ust. 3 pkt 1.
 
 5. Osoby, które spełniły wymagania, o których mowa art. 34 ust. 3 pkt 1 ustawy uchylanej art. 55, uznaje się za osoby spełniające wymagania, o których mowa art. 30 ust. 2 pkt 2 lit. a niniejszej ustawy.
 
@@ -625,17 +661,19 @@ o organizacji hodowli i rozrodzie zwierząt gospodarskich
 1. Postępowanie sprawie określonej w:
 
 - **1)** art. 17 ust. 2 ustawy uchylanej art. 55, wszczęte i niezakończone przed dniem wejścia życie niniejszej ustawy, od dnia wejścia życie niniejszej ustawy prowadzi się jako postępowanie sprawie o:
-    - **a)** uznanie za związek hodowców na podstawie rozdziału II sekcji 1 rozporządzenia 2016/1012, określone art. 8 niniejszej ustawy przypadku gdy stroną tego postępowania jest podmiot, do którego nie ma zastosowania art. 64 ust. 4 rozporządzenia 2016/1012,
-    - **b)** zatwierdzenie programu hodowlanego na podstawie rozdziału II sekcji 2 rozporządzenia 2016/1012, określone art. 9 niniejszej ustawy przypadku gdy stroną tego postępowania jest podmiot, do którego ma zastosowanie art. 64 ust. 4 rozporządzenia 2016/1012;
+    - **a)** uznanie za związek hodowców na podstawie rozdziału II sekcji 1 rozporządzenia 2016/1012, określone art. 8 niniejszej ustawy – przypadku gdy stroną tego postępowania jest podmiot, do którego nie ma zastosowania art. 64 ust. 4 rozporządzenia 2016/1012,
+    - **b)** zatwierdzenie programu hodowlanego na podstawie rozdziału II sekcji 2 rozporządzenia 2016/1012, określone art. 9 niniejszej ustawy – przypadku gdy stroną tego postępowania jest podmiot, do którego ma zastosowanie art. 64 ust. 4 rozporządzenia 2016/1012;
 
 - **2)** art. 18 ust. 2 ustawy uchylanej art. 55, wszczęte i niezakończone przed dniem wejścia życie niniejszej ustawy, od dnia wejścia życie niniejszej ustawy prowadzi się jako postępowanie sprawie o wydanie zezwolenia, o którym mowa art. 10 ust. 1 niniejszej ustawy;
 - **3)** art. 21 ust. 2 ustawy uchylanej art. 55, wszczęte i niezakończone przed dniem wejścia życie niniejszej ustawy, od dnia wejścia życie niniejszej ustawy prowadzi się jako postępowanie sprawie o:
-    - **a)** uznanie za przedsiębiorstwo hodowlane na podstawie rozdziału II sekcji 1 rozporządzenia 2016/1012 określone art. 8 niniejszej ustawy przypadku gdy stroną tego postępowania jest podmiot, do którego nie ma zastosowania art. 64 ust. 4 rozporządzenia 2016/1012,
-    - **b)** zatwierdzenie programu hodowlanego na podstawie rozdziału II sekcji 2 rozporządzenia 2016/1012 określone art. 9 niniejszej ustawy przypadku gdy stroną tego postępowania jest podmiot, do którego ma zastosowanie art. 64 ust. 4 rozporządzenia 2016/1012;
+    - **a)** uznanie za przedsiębiorstwo hodowlane na podstawie rozdziału II sekcji 1 rozporządzenia 2016/1012 określone art. 8 niniejszej ustawy – przypadku gdy stroną tego postępowania jest podmiot, do którego nie ma zastosowania art. 64 ust. 4 rozporządzenia 2016/1012,
+    - **b)** zatwierdzenie programu hodowlanego na podstawie rozdziału II sekcji 2 rozporządzenia 2016/1012 określone art. 9 niniejszej ustawy – przypadku gdy stroną tego postępowania jest podmiot, do którego ma zastosowanie art. 64 ust. 4 rozporządzenia 2016/1012;
 
 - **4)** art. 22 ust. 2 ustawy uchylanej art. 55, wszczęte i niezakończone przed dniem wejścia życie niniejszej ustawy, od dnia wejścia życie niniejszej ustawy prowadzi się jako postępowanie sprawie o wydanie zezwolenia, o którym mowa art. 13 ust. 1 niniejszej ustawy.
 
-2. Do rozstrzygnięcia sprawy objętej postępowaniem zakończonym ostateczną decyzją wydaną na podstawie art. 17 ust. 2, art. 18 ust. 2, art. 21 ust. 2 albo art. 22 ust. 2 ustawy uchylanej art. 55, przypadku uchylenia albo zmiany tej decyzji albo wznowienia tego postępowania od dnia wejścia życie niniejszej ustawy, stosuje się przepisy niniejszej ustawy. Przepis ust. 1 stosuje się odpowiednio. art. 55 i niezakończonego przed dniem wejścia życie niniejszej ustawy stosuje się przepisy rozporządzenia 2016/1012 oraz przepisy niniejszej ustawy dotyczące sprawy objętej tym postępowaniem.
+2. Do rozstrzygnięcia sprawy objętej postępowaniem zakończonym ostateczną decyzją wydaną na podstawie art. 17 ust. 2, art. 18 ust. 2, art. 21 ust. 2 albo art. 22 ust. 2 ustawy uchylanej art. 55, przypadku uchylenia albo zmiany tej decyzji albo wznowienia tego postępowania od dnia wejścia życie niniejszej ustawy, stosuje się przepisy niniejszej ustawy. Przepis ust. 1 stosuje się odpowiednio.
+
+3. Do postępowania wszczętego na podstawie rozporządzenia 2016/1012 związku z art. 3 ustawy uchylanej art. 55 i niezakończonego przed dniem wejścia życie niniejszej ustawy stosuje się przepisy rozporządzenia 2016/1012 oraz przepisy niniejszej ustawy dotyczące sprawy objętej tym postępowaniem.
 
 4. Do rozstrzygnięcia sprawy objętej postępowaniem zakończonym ostateczną decyzją wydaną na podstawie rozporządzenia 2016/1012 związku z art. 3 ustawy uchylanej art. 55, przypadku uchylenia albo zmiany tej decyzji albo wznowienia tego postępowania od dnia wejścia życie niniejszej ustawy, stosuje się przepisy rozporządzenia 2016/1012 oraz przepisy niniejszej ustawy dotyczące tej sprawy.
 
@@ -659,20 +697,22 @@ o organizacji hodowli i rozrodzie zwierząt gospodarskich
 
 1. W latach 2020–2029 maksymalny limit wydatków budżetu państwa będących skutkiem finansowym ustawy wynosi:
 
-- **1)** 2020 r. 79 368 tys. zł;
-- **2)** 2021 r. 79 368 tys. zł;
-- **3)** 2022 r. 79 368 tys. zł;
-- **4)** 2023 r. 81 352 tys. zł;
-- **5)** 2024 r. 83 386 tys. zł;
-- **6)** 2025 r. 85 471 tys. zł;
-- **7)** 2026 r. 87 608 tys. zł;
-- **8)** 2027 r. 89 798 tys. zł;
-- **9)** 2028 r. 92 043 tys. zł;
-- **10)** 2029 r. 94 344 tys. zł.
+- **1)** 2020 r. – 79 368 tys. zł;
+- **2)** 2021 r. – 79 368 tys. zł;
+- **3)** 2022 r. – 79 368 tys. zł;
+- **4)** 2023 r. – 81 352 tys. zł;
+- **5)** 2024 r. – 83 386 tys. zł;
+- **6)** 2025 r. – 85 471 tys. zł;
+- **7)** 2026 r. – 87 608 tys. zł;
+- **8)** 2027 r. – 89 798 tys. zł;
+- **9)** 2028 r. – 92 043 tys. zł;
+- **10)** 2029 r. – 94 344 tys. zł.
 
 2. Minister właściwy do spraw rolnictwa monitoruje przekroczenie limitu wydatków, o których mowa ust. 1, oraz razie potrzeby wdraża mechanizm korygujący.
 
-3. Mechanizm korygujący, o którym mowa ust. 2, polega na obniżeniu, określonych przepisach wydanych na podstawie art. 130 ust. 5 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2019 r. poz. 869, z późn. zm. ), jednostkowych stawek dotacji przedmiotowych dla podmiotów wykonujących zadania na rzecz rolnictwa do poziomu zapewniającego, że ten limit nie zostanie przekroczony. (Dz. U. z 2017 r. poz. 2132).
+3. Mechanizm korygujący, o którym mowa ust. 2, polega na obniżeniu, określonych przepisach wydanych na podstawie art. 130 ust. 5 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2019 r. poz. 869, z późn. zm. ), jednostkowych stawek dotacji przedmiotowych dla podmiotów wykonujących zadania na rzecz rolnictwa do poziomu zapewniającego, że ten limit nie zostanie przekroczony.
 
-**Art. 56.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 55.** Traci moc ustawa z dnia 29 czerwca 2007 r. o organizacji hodowli i rozrodzie zwierząt gospodarskich (Dz. U. z 2017 r. poz. 2132).
+
+**Art. 56.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia.
 

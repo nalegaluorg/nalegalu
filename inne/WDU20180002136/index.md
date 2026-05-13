@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 13 listopada 2018 r.
+# o zmianie ustawy o produktach pochodzenia zwierzęcego oraz ustawy o bezpieczeństwie żywności i żywienia
+
+*USTAWA z dnia 4 października 2018 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +25,6 @@ domain: null
 | Data wydania | 2018-11-13 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002136) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2136/text.pdf) |
-
-Poz. 2136
-USTAWA z dnia 4 października 2018 r.
-o zmianie ustawy o produktach pochodzenia zwierzęcego oraz ustawy o bezpieczeństwie żywności i żywienia
 
 **Art. 1.** W ustawie z dnia 16 grudnia 2005 r. o produktach pochodzenia zwierzęcego (Dz. U. z 2017 r. poz. 242 i 471 oraz z 2018 r. poz. 650) w art. 19 ust. 4 otrzymuje brzmienie: „4. Przepisów ust. 1 i 2 nie stosuje się do statków rybackich, w tym statków przetwórni i statków zamrażalni, gospodarstw, na terenie których dokonuje się uboju zwierząt w celu pozyskania mięsa na użytek własny, oraz podmiotów zamierzających prowadzić działalność w zakresie transportu lub produkcji podstawowej, lub rolniczego handlu detalicznego produktami pochodzenia zwierzęcego lub żywnością, o której mowa w art. 6 ust. 1 pkt 2 lit. b, lub sprzedaży bezpośredniej, lub działalność marginalną, lokalną i ograniczoną, o której mowa w art. 1 ust. 5 lit. b (ii) rozporządzenia nr 853/2004.”.
 

@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# Dziennik Ustaw Nr 147 — 10974 — Poz. 1031 i 1032 1032
+# o dotacji przeznaczonej dla przedsiębiorstwa państwowego Zakłady Chemiczne „Tarnowskie Góry” w Tarnowskich Górach w likwidacji
+
+*USTAWA z dnia 10 lipca 2007 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,34 +26,27 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071471032) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/1032/text.pdf) |
 
-USTAWA z dnia 10 lipca 2007 r.
-o dotacji przeznaczonej dla przedsiębiorstwa państwowego Zakłady Chemiczne ŃTarnowskie Góry” w Tarnowskich Górach w likwidacji
+**Art. 1.** Ustawa określa cel i zakres wykorzystania oraz sposób udzielenia dotacji przeznaczonej dla przedsiębiorstwa państwowego Zakłady Chemiczne „Tarnowskie Góry” w Tarnowskich Górach w likwidacji, zwanego dalej „Zakładem”.
 
-**Art. 1.** Ustawa określa cel i zakres wykorzystania oraz sposób udzielenia dotacji przeznaczonej dla przedsiębiorstwa państwowego Zakłady Chemiczne ŃTarnowskie Góry” w Tarnowskich Górach w likwidacji, zwanego dalej ŃZakładem”.
+**Art. 2.** Dotację przeznacza się na dofinansowanie prac zabezpieczających przedsięwzięcie „Ochrona Głównego Zbiornika Wód Podziemnych 330 - Gliwice, przez kompleksowe unieszkodliwienie odpadów wraz z rekultywacją terenów skażonych Zakładów Chemicznych „Tarnowskie Góry” w Tarnowskich Górach w likwidacji”, w zakresie:
 
-**Art. 2.** Dotację przeznacza się na dofinansowanie prac zabezpieczających przedsięwzięcie ŃOchrona Głównego Zbiornika Wód Podziemnych 330 — Gliwice, przez kompleksowe unieszkodliwienie odpadów wraz z rekultywacją terenów skażonych Zakładów Chemicznych ŃTarnowskie Góry” w Tarnowskich Górach w likwidacji”, w zakresie:
-
-**Art. 3.** Dotację na wykonanie zadań, określonych wart. 2, przyznaje się na wniosek Zakładu, na podstawie zaakceptowanego przez Wojewodę Âląskiego:
+**Art. 3.** Dotację na wykonanie zadań, określonych w art. 2, przyznaje się na wniosek Zakładu, na podstawie zaakceptowanego przez Wojewodę Śląskiego:
 
 **Art. 4.**
 
-1. Podstawą przyznania dotacji na wykonanie zadań, określonych w art. 2, jest umowa zawarta
+1. Podstawą przyznania dotacji na wykonanie zada ń, określonych w art. 2, jest umowa zawarta między Wojewodą Śląskim a Zakładem.
 
-5. Umowa powinna zawierać w szczególności tożsamości obcokrajowców, które otrzymały ekwiwaokreślenie wysokości środków z dotacji, trybu ich lent, ZUS niezwłocznie przekazuje ministrowi właściprzekazywania oraz wysokości kosztów związanych wemu do spraw gospodarki. z obsługą wypłaty ekwiwalentu.
+2. Umowa, o której mowa w ust. 1, określa w szczególności zobowiązanie Zakładu do wykonywania zadań, określonych w art. 2, wysokość dotacji i terminy przekazywania środków finansowych, sposób rozliczania i przyczyny ewentualnego zwrotu dotacji.
 
-**Art. 13.** Ustawa wchodzi wżycie po upływie 14 dni
+**Art. 5.** Przyznana przez Wojewodę Śląskiego dotacja jest przekazywana, w terminach określonych w umowie, na specjalnie w tym celu wyodrębniony przez Zakład rachunek bankowy.
 
-**Art. 12.** ZUS dokonuje rozliczenia przekazywanych od dnia ogłoszenia. środków z dotacji, w terminie 30 dni po upływie miesiąca, wktórym dokonano wypłat ekwiwalentów. Rozliczenia te, wraz z imiennym wykazem osób i ich numerem PESEL albo rodzajem i numerem dokumentu Prezydent Rzeczypospolitej Polskiej: L. Kaczyński 2. Umowa, o której mowa w ust. 1, określa wszczególności zobowiązanie Zakładu do wykonywania zadań, określonych wart. 2, wysokość dotacji iterminy przekazywania środków finansowych, sposób rozliczania i przyczyny ewentualnego zwrotu dotacji.
+**Art. 6.** Zakład otrzymujący dotację składa Wojewodzie Śląskiemu, w terminie do dnia 31 grudnia 2007 r., sprawozdanie zawierające rozliczenie rzeczowo-finansowe zrealizowanych zadań.
 
-**Art. 5.** Przyznana przez Wojewodę Âląskiego dotacja jest przekazywana, w terminach określonych w umowie, na specjalnie w tym celu wyodrębniony przez Zakład rachunek bankowy.
-
-**Art. 6.** Zakład otrzymujący dotację składa Wojewodzie Âląskiemu, wterminie do dnia 31 grudnia 2007 r., sprawozdanie zawierające rozliczenie rzeczowo-finansowe zrealizowanych zadań.
-
-**Art. 7.** Dysponentem dotacji na wykonanie zadań, określonych w art. 2, jest Wojewoda Âląski.
+**Art. 7.** Dysponentem dotacji na wykonanie zadań, określonych w art. 2, jest Wojewoda Śląski.
 
 **Art. 8.** Dotacja na zadania, określone w art. 2, zostanie wykorzystana do dnia uznania przedsiębiorstwa za zlikwidowane, jednak nie dłużej niż do dnia 31 grudnia 2007 r.
 
 **Art. 9.** Ustawa ma zastosowanie do wydatków ponoszonych przez Zakład od dnia 1 stycznia 2007 r.
 
-**Art. 10.** Ustawa wchodzi wżycie po upływie 14 dni od dnia ogłoszenia. między Wojewodą Âląskim a Zakładem. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński
+**Art. 10.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

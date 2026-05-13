@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 17 sierpnia 2022 r.
+# o transporcie materiałów niebezpiecznych drogą powietrzną
+
+*USTAWA z dnia 5 sierpnia 2022 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,28 +26,25 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001715) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1715/text.pdf) |
 
-USTAWA z dnia 5 sierpnia 2022 r.
-o transporcie materiałów niebezpiecznych drogą powietrzną
-8) materiały promieniotwórcze materiały niebezpieczne zawierające izotopy radioaktywne, o których mowa w Części 2,
-9) nadawca osobę fizyczną podpisaną pod dokumentem przewozowym lub innym dokumentem towarzyszącym przesyłce;
-10) niezgodność poziomu 1 niezgodność, która stanowi bezpośrednie zagrożenie dla bezpieczeństwa działalności w lotnictwie cywilnym i wymaga natychmiastowego usunięcia jej przyczyn i skutków;
-11) niezgodność poziomu 2 niezgodność:
+8) materiały promieniotwórcze – materiały niebezpieczne zawierające izotopy radioaktywne, o których mowa w Części 2,
+9) nadawca – osobę fizyczną podpisaną pod dokumentem przewozowym lub innym dokumentem towarzyszącym przesyłce;
+10) niezgodność poziomu 1 – niezgodność, która stanowi bezpośrednie zagrożenie dla bezpieczeństwa działalności w lotnictwie cywilnym i wymaga natychmiastowego usunięcia jej przyczyn i skutków;
+11) niezgodność poziomu 2 – niezgodność:
 a) która może doprowadzić do niezgodności poziomu 1 albo trwale obniżyć bezpieczeństwo działalności w lotnictwie cywilnym lub utrudnić spełnienie wymagań bezpieczeństwa działalności w lotnictwie cywilnym i wymaga usunięcia jej przyczyn i skutków w terminie określonym w programie naprawczym albo w protokole kontroli, zatwierdzonym przez Prezesa Urzędu,
 b) o charakterze systemowym, która trwale obniża lub utrudnia spełnienie wymagań działalności w lotnictwie cywilnym innych niż dotyczące bezpieczeństwa i wymaga usunięcia jej przyczyn i skutków w terminie określonym w programie naprawczym albo w protokole kontroli, zatwierdzonym przez Prezesa Urzędu;
-12) opakowanie zbiorcze konstrukcję użytą przez jednego nadawcę w celu umieszczenia jednej lub większej liczby przesyłek i utworzenia jednej przesyłki, aby usprawnić jej obsługę i rozmieszczenie ładunków;
-13) operator lotniczy podmiot, inny niż wyznaczony operator pocztowy, który eksploatuje lub oferuje eksploatację statku powietrznego;
-14) państwo pochodzenia państwo, na którego terytorium po raz pierwszy załadowano przesyłkę na pokład statku powietrznego;
-15) podwykonawca podmiot, inny niż operator lotniczy i wyznaczony operator pocztowy, który świadczy usługi w zakresie transportu materiałów niebezpiecznych drogą powietrzną na rzecz lub w imieniu operatora lotniczego;
-16) Prezes Urzędu Prezesa Urzędu Lotnictwa Cywilnego;
-17) przesyłka przesyłkę w rozumieniu rozdziału 1 Załącznika 18;
-18) rozporządzenie nr 965/2012/UE rozporządzenie Komisji (UE) nr 965/2012 z dnia 5 października 2012 r. ustanawiające wymagania techniczne i procedury administracyjne odnoszące się do operacji lotniczych zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 216/2008 (Dz. Urz. UE L 296 z 25.10.2012, str. 1, z późn. zm. );
-19) transport materiałów niebezpiecznych drogą powietrzną każde przemieszczenie materiałów niebezpiecznych wykonywane na podstawie dokumentu przewozowego lub innego dokumentu towarzyszącego przesyłce, uwzględniające postoje wymagane podczas tego przemieszczenia oraz czynności związane z tym przemieszczeniem i postojami;
-20) ustawa Prawo lotnicze ustawę z dnia 3 lipca 2002 r. Prawo lotnicze (Dz. U. z 2022 r. poz. 1235);
-21) wypadek wypadek z materiałami niebezpiecznymi w rozumieniu pkt 34 Załącznika I do rozporządzenia nr 965/2012/UE;
-22) wyznaczony operator pocztowy operatora wyznaczonego w rozumieniu art. 3 pkt 13 ustawy z dnia 23 listopada 2012 r.
-Prawo pocztowe;
-23) Załącznik 18 Załącznik 18 „Bezpieczny transport materiałów niebezpiecznych drogą powietrzną” do Konwencji o międzynarodowym lotnictwie cywilnym, sporządzonej w Chicago dnia 7 grudnia 1944 r. (Dz. U. z 1959 r. poz. 212, z późn. zm. );
-24) zdarzenie przypadek ukrytego, niezgłoszonego lub błędnie zgłoszonego materiału niebezpiecznego transportowanego lub przewożonego przez pasażera lub członka załogi statku powietrznego drogą powietrzną.
+12) opakowanie zbiorcze – konstrukcję użytą przez jednego nadawcę w celu umieszczenia jednej lub większej liczby przesyłek i utworzenia jednej przesyłki, aby usprawnić jej obsługę i rozmieszczenie ładunków;
+13) operator lotniczy – podmiot, inny niż wyznaczony operator pocztowy, który eksploatuje lub oferuje eksploatację statku powietrznego;
+14) państwo pochodzenia – państwo, na którego terytorium po raz pierwszy załadowano przesyłkę na pokład statku powietrznego;
+15) podwykonawca – podmiot, inny niż operator lotniczy i wyznaczony operator pocztowy, który świadczy usługi w zakresie transportu materiałów niebezpiecznych drogą powietrzną na rzecz lub w imieniu operatora lotniczego;
+16) Prezes Urzędu – Prezesa Urzędu Lotnictwa Cywilnego;
+17) przesyłka – przesyłkę w rozumieniu rozdziału 1 Załącznika 18;
+18) rozporządzenie nr 965/2012/UE – rozporządzenie Komisji (UE) nr 965/2012 z dnia 5 października 2012 r. ustanawiające wymagania techniczne i procedury administracyjne odnoszące się do operacji lotniczych zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 216/2008 (Dz. Urz. UE L 296 z 25.10.2012, str. 1, z późn. zm. );
+19) transport materiałów niebezpiecznych drogą powietrzną – każde przemieszczenie materiałów niebezpiecznych wykonywane na podstawie dokumentu przewozowego lub innego dokumentu towarzyszącego przesyłce, uwzględniające postoje wymagane podczas tego przemieszczenia oraz czynności związane z tym przemieszczeniem i postojami;
+20) ustawa – Prawo lotnicze – ustawę z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2022 r. poz. 1235);
+21) wypadek – wypadek z materiałami niebezpiecznymi w rozumieniu pkt 34 Załącznika I do rozporządzenia nr 965/2012/UE;
+22) wyznaczony operator pocztowy – operatora wyznaczonego w rozumieniu art. 3 pkt 13 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe;
+23) Załącznik 18 – Załącznik 18 „Bezpieczny transport materiałów niebezpiecznych drogą powietrzną” do Konwencji o międzynarodowym lotnictwie cywilnym, sporządzonej w Chicago dnia 7 grudnia 1944 r. (Dz. U. z 1959 r. poz. 212, z późn. zm. );
+24) zdarzenie – przypadek ukrytego, niezgłoszonego lub błędnie zgłoszonego materiału niebezpiecznego transportowanego lub przewożonego przez pasażera lub członka załogi statku powietrznego drogą powietrzną.
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -63,13 +62,13 @@ Prawo pocztowe;
 
 2. Jeżeli przepisy odpowiednio Załącznika 18 lub Instrukcji Technicznych zobowiązują „właściwą władzę”, „władzę krajową” lub „odpowiednią władzę” do wykonywania odpowiednich czynności administracyjnych w sprawie transportu materiałów niebezpiecznych drogą powietrzną, czynności te wykonuje:
 
-- **1)** Minister Obrony Narodowej w przypadku lotów, o których mowa w art. 66a ust. 1 pkt 2 i 3 ustawy Prawo lotnicze;
-- **2)** Prezes Państwowej Agencji Atomistyki w przypadku transportu materiałów promieniotwórczych;
-- **3)** Prezes Urzędu w pozostałych przypadkach.
+- **1)** Minister Obrony Narodowej – w przypadku lotów, o których mowa w art. 66a ust. 1 pkt 2 i 3 ustawy – Prawo lotnicze;
+- **2)** Prezes Państwowej Agencji Atomistyki – w przypadku transportu materiałów promieniotwórczych;
+- **3)** Prezes Urzędu – w pozostałych przypadkach.
 
 **Art. 4.**
 
-1. Minister Obrony Narodowej udziela zgody na wykonanie przez cywilny statek powietrzny lotu, o którym mowa w art. 66a ust. 1 pkt 2 i 3 ustawy Prawo lotnicze, z materiałami niebezpiecznymi, uwzględniając potrzeby bezpieczeństwa i obronności państwa oraz ochronę informacji niejawnych, jeżeli taki lot nie spowoduje bezpośredniego zagrożenia życia lub zdrowia ludzi lub bezpieczeństwa lotów i będzie wykonywany z zachowaniem wymagań określonych w przepisach ustawy.
+1. Minister Obrony Narodowej udziela zgody na wykonanie przez cywilny statek powietrzny lotu, o którym mowa w art. 66a ust. 1 pkt 2 i 3 ustawy – Prawo lotnicze, z materiałami niebezpiecznymi, uwzględniając potrzeby bezpieczeństwa i obronności państwa oraz ochronę informacji niejawnych, jeżeli taki lot nie spowoduje bezpośredniego zagrożenia życia lub zdrowia ludzi lub bezpieczeństwa lotów i będzie wykonywany z zachowaniem wymagań określonych w przepisach ustawy.
 
 2. Minister Obrony Narodowej może upoważnić kierownika jednostki organizacyjnej Sił Zbrojnych Rzeczypospolitej Polskiej właściwej w zakresie służby ruchu lotniczego do udzielenia lub odmowy udzielenia zgody.
 
@@ -77,9 +76,9 @@ Prawo pocztowe;
 
 4. Wniosek zawiera:
 
-- **1)** firmę wnioskodawcy, jego siedzibę i adres, numer telefonu i adres elektroniczny, a w przypadku osoby fizycznej nieprowadzącej działalności gospodarczej imię i nazwisko, adres zamieszkania, rodzaj, serię i numer dokumentu tożsamości, numer telefonu i adres elektroniczny;
+- **1)** firmę wnioskodawcy, jego siedzibę i adres, numer telefonu i adres elektroniczny, a w przypadku osoby fizycznej nieprowadzącej działalności gospodarczej – imię i nazwisko, adres zamieszkania, rodzaj, serię i numer dokumentu tożsamości, numer telefonu i adres elektroniczny;
 - **2)** typ statku powietrznego, którym ma być wykonywany lot, oraz jego znaki rozpoznawcze i znaki wywoławcze;
-- **3)** liczbę pasażerów na pokładzie statku powietrznego oraz ich dane imię i nazwisko, adres zamieszkania, rodzaj, serię i numer dokumentu tożsamości;
+- **3)** liczbę pasażerów na pokładzie statku powietrznego oraz ich dane – imię i nazwisko, adres zamieszkania, rodzaj, serię i numer dokumentu tożsamości;
 - **4)** dane lotniska wojskowego na terytorium Rzeczypospolitej Polskiej;
 - **5)** datę i czas lądowania statku powietrznego;
 - **6)** datę i czas startu statku powietrznego do dalszego lotu;
@@ -87,22 +86,22 @@ Prawo pocztowe;
 - **8)** datę, czas i miejsce przekroczenia granicy państwowej Rzeczypospolitej Polskiej (wlot i wylot statku powietrznego);
 - **9)** dane lotniska wylotu i lotniska docelowego;
 - **10)** nazwę instytucji wojskowej koordynującej lub realizującej transport materiałów niebezpiecznych drogą powietrzną oraz dane kontaktowe tej instytucji, jeżeli można wskazać instytucję wojskową, która koordynuje lub realizuje taki transport;
-- **11)** potwierdzenie uzyskania zezwolenia na wstęp na teren jednostki wojskowej w przypadku potrzeby opuszczenia statku powietrznego przez załogę;
+- **11)** potwierdzenie uzyskania zezwolenia na wstęp na teren jednostki wojskowej – w przypadku potrzeby opuszczenia statku powietrznego przez załogę;
 - **12)** wykaz materiałów niebezpiecznych, ich ilość oraz sposób pakowania opisany zgodnie z Częścią 3 Instrukcji Technicznych;
 - **13)** numer identyfikacyjny Narodów Zjednoczonych (numer UN) materiału niebezpiecznego;
 - **14)** prawidłową nazwę przewozową materiału niebezpiecznego zgodną z Instrukcjami Technicznymi;
 - **15)** klasę i podklasę materiału niebezpiecznego;
 - **16)** liczbę i rodzaj opakowania;
-- **17)** firmę i adres podmiotu nadającego materiał niebezpieczny, a w przypadku osoby fizycznej nieprowadzącej działalności gospodarczej imię i nazwisko oraz adres zamieszkania;
-- **18)** potwierdzenie, że na pokładzie statku powietrznego nie ma aparatury rozpoznawczej, a jeżeli taka aparatura znajduje się na pokładzie statku powietrznego zapewnienie, że nie jest aktywna.
+- **17)** firmę i adres podmiotu nadającego materiał niebezpieczny, a w przypadku osoby fizycznej nieprowadzącej działalności gospodarczej – imię i nazwisko oraz adres zamieszkania;
+- **18)** potwierdzenie, że na pokładzie statku powietrznego nie ma aparatury rozpoznawczej, a jeżeli taka aparatura znajduje się na pokładzie statku powietrznego – zapewnienie, że nie jest aktywna.
 
 5. Zgodę albo odmowę udzielenia zgody sporządza się w formie pisemnej.
 
-6. Zgodę albo odmowę udzielenia zgody doręcza się w postaci papierowej albo za pomocą telefaksu, a w przypadku gdy wnioskodawca wskaże taki adres do doręczeń na adres elektroniczny.
+6. Zgodę albo odmowę udzielenia zgody doręcza się w postaci papierowej albo za pomocą telefaksu, a w przypadku gdy wnioskodawca wskaże taki adres do doręczeń – na adres elektroniczny.
 
 7. O udzieleniu zgody Minister Obrony Narodowej lub upoważniony kierownik jednostki organizacyjnej Sił Zbrojnych Rzeczypospolitej Polskiej właściwej w zakresie służby ruchu lotniczego niezwłocznie zawiadamia Prezesa Urzędu w celu umożliwienia realizacji zadań, o których mowa w rozdziale 9.
 
-8. W przypadku wykonywania lotu, o którym mowa w art. 66a ust. 1 pkt 2 i 3 ustawy Prawo lotnicze, z materiałami niebezpiecznymi, przepis art. 207 ustawy Prawo lotnicze stosuje się.
+8. W przypadku wykonywania lotu, o którym mowa w art. 66a ust. 1 pkt 2 i 3 ustawy – Prawo lotnicze, z materiałami niebezpiecznymi, przepis art. 207 ustawy – Prawo lotnicze stosuje się.
 
 #### Rozdział 2 Ograniczenia dotyczące transportu materiałów niebezpiecznych drogą powietrzną
 
@@ -114,7 +113,7 @@ Prawo pocztowe;
 
 2. Wniosek zawiera:
 
-- **1)** firmę wnioskodawcy, jego siedzibę i adres, a w przypadku osoby fizycznej nieprowadzącej działalności gospodarczej imię i nazwisko oraz adres zamieszkania;
+- **1)** firmę wnioskodawcy, jego siedzibę i adres, a w przypadku osoby fizycznej nieprowadzącej działalności gospodarczej – imię i nazwisko oraz adres zamieszkania;
 - **2)** określenie przedmiotu zatwierdzenia;
 - **3)** określenie czasu, na jaki ma być udzielone zatwierdzenie;
 - **4)** uzasadnienie konieczności uzyskania zatwierdzenia.
@@ -137,7 +136,7 @@ Prawo pocztowe;
 
 4. Decyzje, o których mowa w ust. 1 i 3, podlegają natychmiastowemu wykonaniu.
 
-5. W sprawach w przedmiocie zatwierdzenia, o którym mowa w art. 5 pkt 1, nie stosuje się przepisu art. 32 ust. 1 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców (Dz. U. z 2021 r. poz. 162 i 2105 oraz z 2022 r. poz. 24, 974 i 1570).
+5. W sprawach w przedmiocie zatwierdzenia, o którym mowa w art. 5 pkt 1, nie stosuje się przepisu art. 32 ust. 1 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2021 r. poz. 162 i 2105 oraz z 2022 r. poz. 24, 974 i 1570).
 
 **Art. 8.**
 
@@ -147,7 +146,7 @@ Prawo pocztowe;
 
 3. Wniosek zawiera:
 
-- **1)** firmę wnioskodawcy, jego siedzibę i adres, a w przypadku osoby fizycznej nieprowadzącej działalności gospodarczej imię i nazwisko oraz adres zamieszkania;
+- **1)** firmę wnioskodawcy, jego siedzibę i adres, a w przypadku osoby fizycznej nieprowadzącej działalności gospodarczej – imię i nazwisko oraz adres zamieszkania;
 - **2)** firmę, siedzibę i adres operatora lotniczego;
 - **3)** opis trasy, na której ma być wykonywany lot, wraz z planowanymi terminami i numerami lotu;
 - **4)** typ statku powietrznego, którym ma być wykonywany lot, i jego znaki rozpoznawcze;
@@ -156,8 +155,8 @@ Prawo pocztowe;
 - **7)** prawidłową nazwę przewozową materiału niebezpiecznego zgodną z Instrukcjami Technicznymi;
 - **8)** klasę i podklasę materiału niebezpiecznego;
 - **9)** liczbę i rodzaj opakowania;
-- **10)** firmę i adres podmiotu nadającego materiał niebezpieczny, a w przypadku osoby fizycznej nieprowadzącej działalności gospodarczej imię i nazwisko oraz adres zamieszkania;
-- **11)** firmę i adres odbiorcy, a w przypadku osoby fizycznej nieprowadzącej działalności gospodarczej imię i nazwisko oraz adres zamieszkania;
+- **10)** firmę i adres podmiotu nadającego materiał niebezpieczny, a w przypadku osoby fizycznej nieprowadzącej działalności gospodarczej – imię i nazwisko oraz adres zamieszkania;
+- **11)** firmę i adres odbiorcy, a w przypadku osoby fizycznej nieprowadzącej działalności gospodarczej – imię i nazwisko oraz adres zamieszkania;
 - **12)** uzasadnienie konieczności wykonania transportu materiałów niebezpiecznych drogą powietrzną;
 - **13)** oświadczenie, w którym wnioskodawca zapewnia, że warunki przedstawione we wniosku pozwolą na osiągnięcie bezpieczeństwa równoważnego z bezpieczeństwem, o którym mowa w Instrukcjach Technicznych.
 
@@ -165,8 +164,8 @@ Prawo pocztowe;
 
 - **1)** dokumentu przewozowego dla materiałów niebezpiecznych sporządzonego zgodnie z wymaganiami określonymi w Części 5, Rozdział 4 Instrukcji Technicznych;
 - **2)** certyfikatu przewoźnika lotniczego (AOC) albo równoważnego dokumentu, uprawniającego do transportu materiałów niebezpiecznych drogą powietrzną;
-- **3)** dokumentu potwierdzającego charakter lotu w przypadku, o którym mowa w ust. 2;
-- **4)** dowodu uiszczenia opłaty, o której mowa w art. 42 ust. 3, a w przypadku, o którym mowa w art. 42 ust. 7 dokumentu potwierdzającego charakter lotu.
+- **3)** dokumentu potwierdzającego charakter lotu – w przypadku, o którym mowa w ust. 2;
+- **4)** dowodu uiszczenia opłaty, o której mowa w art. 42 ust. 3, a w przypadku, o którym mowa w art. 42 ust. 7 – dokumentu potwierdzającego charakter lotu.
 
 5. Prezes Urzędu, kierując się koniecznością zapewnienia bezpiecznego transportu materiałów niebezpiecznych, może zobowiązać wnioskodawcę do przedstawienia w wyznaczonym terminie dodatkowych danych i dokumentów, które potwierdzają spełnienie warunków transportu materiałów niebezpiecznych drogą powietrzną określonych w pkt 2.1.3 Załącznika 18 oraz w Instrukcjach Technicznych, niezbędnych do udzielenia wnioskowanego odstępstwa.
 
@@ -176,7 +175,7 @@ Prawo pocztowe;
 
 8. Odstępstwo, o którym mowa w art. 5 pkt 2, jest udzielane na konkretny lot i jest ważne przez 30 dni od planowanej daty wykonania tego lotu.
 
-9. Wnioskodawca może działać przez pełnomocnika. Przepisy art. 32, art. 33, art. 40 § 2 oraz art. 41 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2021 r. poz. 735, 1491 i 2052 oraz z 2022 r. poz. 1301) stosuje się.
+9. Wnioskodawca może działać przez pełnomocnika. Przepisy art. 32, art. 33, art. 40 § 2 oraz art. 41 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2021 r. poz. 735, 1491 i 2052 oraz z 2022 r. poz. 1301) stosuje się.
 
 **Art. 9.**
 
@@ -184,7 +183,7 @@ Prawo pocztowe;
 
 2. Odstępstwo, o którym mowa w art. 5 pkt 2, albo odmowę udzielenia odstępstwa sporządza się w formie pisemnej.
 
-3. Odstępstwo, o którym mowa w art. 5 pkt 2, albo odmowę udzielenia odstępstwa doręcza się w postaci papierowej albo za pomocą telefaksu, a w przypadku gdy wnioskodawca wskaże taki adres do doręczeń na adres elektroniczny.
+3. Odstępstwo, o którym mowa w art. 5 pkt 2, albo odmowę udzielenia odstępstwa doręcza się w postaci papierowej albo za pomocą telefaksu, a w przypadku gdy wnioskodawca wskaże taki adres do doręczeń – na adres elektroniczny.
 
 **Art. 10.**
 
@@ -192,7 +191,7 @@ Prawo pocztowe;
 
 2. Wniosek zawiera:
 
-- **1)** firmę wnioskodawcy, jego siedzibę i adres, a w przypadku osoby fizycznej nieprowadzącej działalności gospodarczej imię i nazwisko oraz adres zamieszkania;
+- **1)** firmę wnioskodawcy, jego siedzibę i adres, a w przypadku osoby fizycznej nieprowadzącej działalności gospodarczej – imię i nazwisko oraz adres zamieszkania;
 - **2)** określenie przedmiotu zatwierdzenia;
 - **3)** określenie czasu, na jaki ma być udzielone zatwierdzenie;
 - **4)** uzasadnienie konieczności uzyskania zatwierdzenia.
@@ -215,7 +214,7 @@ Prawo pocztowe;
 
 4. Decyzje, o których mowa w ust. 2 i 3, podlegają natychmiastowemu wykonaniu.
 
-5. W sprawach w przedmiocie zatwierdzenia, o którym mowa w art. 5 pkt 3, nie stosuje się przepisu art. 32 ust. 1 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców.
+5. W sprawach w przedmiocie zatwierdzenia, o którym mowa w art. 5 pkt 3, nie stosuje się przepisu art. 32 ust. 1 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
 
 #### Rozdział 3 Obowiązki operatora lotniczego
 
@@ -327,9 +326,9 @@ Prawo pocztowe;
 
 - **3)** jest zrealizowane i ukończone z wynikiem pozytywnym przez osobę szkoloną przed rozpoczęciem wykonywania przez nią obowiązków;
 - **4)** jest odpowiednie do zakresu obowiązków wykonywanych przez osobę szkoloną, zgodnie z tematyką kursów szkoleniowych określoną w Instrukcjach Technicznych, i obejmuje co najmniej:
-    - **a)** szkolenie ogólne które zapoznaje osobę szkoloną z zagadnieniem transportu materiałów niebezpiecznych drogą powietrzną, w tym z postanowieniami Załącznika 18,
-    - **b)** szkolenie specjalistyczne dla poszczególnych stanowisk które dostarcza szczegółową wiedzę w zakresie wymagań obowiązujących osobę szkoloną na stanowisku, za które jest odpowiedzialna,
-    - **c)** szkolenie w zakresie bezpieczeństwa które dostarcza wiedzę w zakresie zagrożeń stwarzanych przez materiały niebezpieczne, bezpiecznej ich obsługi oraz metod postępowania w sytuacjach awaryjnych;
+    - **a)** szkolenie ogólne – które zapoznaje osobę szkoloną z zagadnieniem transportu materiałów niebezpiecznych drogą powietrzną, w tym z postanowieniami Załącznika 18,
+    - **b)** szkolenie specjalistyczne dla poszczególnych stanowisk – które dostarcza szczegółową wiedzę w zakresie wymagań obowiązujących osobę szkoloną na stanowisku, za które jest odpowiedzialna,
+    - **c)** szkolenie w zakresie bezpieczeństwa – które dostarcza wiedzę w zakresie zagrożeń stwarzanych przez materiały niebezpieczne, bezpiecznej ich obsługi oraz metod postępowania w sytuacjach awaryjnych;
 
 - **5)** kończy się egzaminem przeprowadzonym przez instruktora.
 
@@ -345,7 +344,7 @@ Prawo pocztowe;
 
 - **1)** imię i nazwisko osoby szkolonej;
 - **2)** datę i miejsce przeprowadzenia szkolenia;
-- **3)** datę ukończenia poprzedniego szkolenia w przypadku gdy protokół dotyczy szkolenia odnawiającego;
+- **3)** datę ukończenia poprzedniego szkolenia – w przypadku gdy protokół dotyczy szkolenia odnawiającego;
 - **4)** zakres programu szkolenia określony zgodnie z Instrukcjami Technicznymi;
 - **5)** opis lub kopię materiału wykorzystywanego podczas szkolenia;
 - **6)** informację o wyniku egzaminu;
@@ -368,8 +367,8 @@ Prawo pocztowe;
 
 - **1)** dokument potwierdzający, że wnioskodawca ukończył z wynikiem pozytywnym szkolenie zgodne z wymaganiami Instrukcji Technicznych;
 - **2)** dokumenty potwierdzające:
-    - **a)** co najmniej trzyletnie doświadczenie wnioskodawcy w pracy związanej z transportem materiałów niebezpiecznych drogą powietrzną w przypadku wnioskodawcy ubiegającego się o zatwierdzenie spełnienia wymagań do prowadzenia szkolenia personelu operatora lotniczego i agentów obsługi naziemnej, akceptujących materiały niebezpieczne,
-    - **b)** co najmniej roczne doświadczenie wnioskodawcy w pracy związanej z transportem materiałów niebezpiecznych drogą powietrzną w pozostałych przypadkach;
+    - **a)** co najmniej trzyletnie doświadczenie wnioskodawcy w pracy związanej z transportem materiałów niebezpiecznych drogą powietrzną – w przypadku wnioskodawcy ubiegającego się o zatwierdzenie spełnienia wymagań do prowadzenia szkolenia personelu operatora lotniczego i agentów obsługi naziemnej, akceptujących materiały niebezpieczne,
+    - **b)** co najmniej roczne doświadczenie wnioskodawcy w pracy związanej z transportem materiałów niebezpiecznych drogą powietrzną – w pozostałych przypadkach;
 
 - **3)** dokumenty potwierdzające umiejętności wnioskodawcy w przekazywaniu wiedzy, w szczególności certyfikaty lub inne dokumenty potwierdzające posiadanie umiejętności szkoleniowych w praktyce;
 - **4)** ramowy program szkolenia obejmujący co najmniej:
@@ -392,13 +391,13 @@ Prawo pocztowe;
 
 2. Prezes Urzędu, udzielając zatwierdzenia określa zakres szkolenia, które może prowadzić instruktor, w odniesieniu do kategorii osób szkolonych, oraz metody prowadzenia szkolenia.
 
-3. Przepis art. 64 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego stosuje się.
+3. Przepis art. 64 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego stosuje się.
 
 4. Prezes Urzędu odmawia udzielenia zatwierdzenia w przypadku negatywnej weryfikacji dokumentów, o których mowa w art. 22 ust. 2 i 4.
 
 5. Zatwierdzenie, o którym mowa w art. 22 ust. 1, albo odmowę udzielenia zatwierdzenia sporządza się w formie pisemnej.
 
-6. Zatwierdzenie, o którym mowa w art. 22 ust. 1, albo odmowę udzielenia zatwierdzenia doręcza się w postaci papierowej albo za pomocą telefaksu, a w przypadku gdy wnioskodawca wskaże taki adres do doręczeń na adres elektroniczny.
+6. Zatwierdzenie, o którym mowa w art. 22 ust. 1, albo odmowę udzielenia zatwierdzenia doręcza się w postaci papierowej albo za pomocą telefaksu, a w przypadku gdy wnioskodawca wskaże taki adres do doręczeń – na adres elektroniczny.
 
 **Art. 24.**
 
@@ -457,7 +456,7 @@ Prawo pocztowe;
 - **5)** klasę i podklasę oraz dodatkowe ryzyka materiału niebezpiecznego;
 - **6)** typ opakowania i oznakowanie specyfikacyjne opakowania;
 - **7)** ilość materiałów niebezpiecznych;
-- **8)** firmę i adres podmiotu nadającego przesyłkę, a w przypadku osoby fizycznej nieprowadzącej działalności gospodarczej imię i nazwisko oraz adres zamieszkania;
+- **8)** firmę i adres podmiotu nadającego przesyłkę, a w przypadku osoby fizycznej nieprowadzącej działalności gospodarczej – imię i nazwisko oraz adres zamieszkania;
 - **9)** inne dane istotne do przeprowadzenia analizy wypadku, incydentu lub zdarzenia;
 - **10)** przypuszczalną przyczynę wypadku, incydentu lub zdarzenia;
 - **11)** podjęte działania;
@@ -488,7 +487,7 @@ Prawo pocztowe;
 
 3. Podmiot, o którym mowa w ust. 1, dokonuje co roku analizy aktualności danych zawartych w planie ochrony materiałów niebezpiecznych wysokiego ryzyka i w razie potrzeby aktualizuje te dane.
 
-4. Jeżeli podmiot, o którym mowa w ust. 1, jest obowiązany zgodnie z przepisami wydanymi na podstawie art. 187 ustawy Prawo lotnicze do opracowania programu ochrony, plan ochrony materiałów niebezpiecznych wysokiego ryzyka stanowi załącznik do tego programu.
+4. Jeżeli podmiot, o którym mowa w ust. 1, jest obowiązany zgodnie z przepisami wydanymi na podstawie art. 187 ustawy – Prawo lotnicze do opracowania programu ochrony, plan ochrony materiałów niebezpiecznych wysokiego ryzyka stanowi załącznik do tego programu.
 
 #### Rozdział 9 Nadzór i kontrola
 
@@ -513,8 +512,8 @@ Prawo pocztowe;
 
 2. Czynności kontrolne przeprowadza się po doręczeniu podmiotowi kontrolowanemu upoważnienia do przeprowadzenia kontroli wydanego przez Prezesa Urzędu oraz okazaniu w celu ustalenia tożsamości:
 
-- **1)** legitymacji służbowej w przypadku pracownika Urzędu Lotnictwa Cywilnego;
-- **2)** dowodu tożsamości w przypadku innych osób.
+- **1)** legitymacji służbowej – w przypadku pracownika Urzędu Lotnictwa Cywilnego;
+- **2)** dowodu tożsamości – w przypadku innych osób.
 
 3. Kontrola jest przeprowadzana przez jedną osobę albo zespół kontrolujący.
 
@@ -535,15 +534,15 @@ Prawo pocztowe;
 
 3. Osoby, o których mowa w art. 35 ust. 1, mają prawo wstępu do siedziby podmiotu kontrolowanego lub podmiotu działającego w jego imieniu, do miejsc składowania przesyłek i do środków transportu, którymi przesyłki są transportowane, oraz prawo dostępu do dokumentów niezbędnych do przeprowadzenia kontroli i do sporządzania ich kopii.
 
-4. Po przeprowadzeniu kontroli osoba, o której mowa w art. 35 ust. 3, albo przewodniczący zespołu kontrolującego sporządza protokół kontroli w dwóch jednobrzmiących egzemplarzach po jednym dla podmiotu kontrolowanego i Prezesa Urzędu. W przypadku kontroli transportu materiałów promieniotwórczych kopię protokołu przesyła się Prezesowi Państwowej Agencji Atomistyki.
+4. Po przeprowadzeniu kontroli osoba, o której mowa w art. 35 ust. 3, albo przewodniczący zespołu kontrolującego sporządza protokół kontroli w dwóch jednobrzmiących egzemplarzach – po jednym dla podmiotu kontrolowanego i Prezesa Urzędu. W przypadku kontroli transportu materiałów promieniotwórczych kopię protokołu przesyła się Prezesowi Państwowej Agencji Atomistyki.
 
 5. Protokół kontroli nie stanowi informacji publicznej w rozumieniu ustawy z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. z 2022 r. poz. 902).
 
-6. Do protokołu kontroli stosuje się przepisy wydane na podstawie art. 30 ustawy Prawo lotnicze, w zakresie elementów protokołu.
+6. Do protokołu kontroli stosuje się przepisy wydane na podstawie art. 30 ustawy – Prawo lotnicze, w zakresie elementów protokołu.
 
 7. Protokół kontroli podpisuje kierownik podmiotu kontrolowanego lub osoba przez niego upoważniona albo kontrolowana osoba fizyczna. W przypadku odmowy podpisania protokołu kontroli osoba, o której mowa w art. 35 ust. 3, albo przewodniczący zespołu kontrolującego umieszcza informację o tym fakcie w protokole kontroli.
 
-8. Protokół kontroli doręcza się w postaci papierowej albo za pomocą telefaksu, a w przypadku gdy podmiot kontrolowany wskaże adres elektroniczny na ten adres.
+8. Protokół kontroli doręcza się w postaci papierowej albo za pomocą telefaksu, a w przypadku gdy podmiot kontrolowany wskaże adres elektroniczny – na ten adres.
 
 9. Kierownik podmiotu kontrolowanego lub osoba przez niego upoważniona albo kontrolowana osoba fizyczna może zgłosić uwagi do treści protokołu kontroli bezpośrednio w protokole kontroli lub w odrębnym piśmie złożonym do Prezesa Urzędu w terminie 7 dni od dnia otrzymania protokołu kontroli.
 
@@ -583,11 +582,11 @@ Prawo pocztowe;
 
 1. Nieprzedstawienie możliwego do zatwierdzenia przez Prezesa Urzędu programu naprawczego albo niezrealizowanie działań naprawczych określonych w programie naprawczym albo w protokole kontroli we wskazanym terminie powoduje podniesienie statusu niezgodności do wyższego poziomu niezgodności.
 
-2. O podniesieniu statusu niezgodności do wyższego poziomu niezgodności Prezes Urzędu zawiadamia w formie pisemnej podmiot kontrolowany, a w przypadku gdy niezgodność dotyczy transportu materiałów promieniotwórczych również Prezesa Państwowej Agencji Atomistyki.
+2. O podniesieniu statusu niezgodności do wyższego poziomu niezgodności Prezes Urzędu zawiadamia w formie pisemnej podmiot kontrolowany, a w przypadku gdy niezgodność dotyczy transportu materiałów promieniotwórczych – również Prezesa Państwowej Agencji Atomistyki.
 
 **Art. 40.** Wystąpienie z żądaniem, o którym mowa w art. 18 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ), nie wpływa na przebieg kontroli prowadzonych przez Prezesa Urzędu na podstawie ustawy.
 
-**Art. 41.** Do kontroli niezapowiedzianych działalności gospodarczej związanej z transportem materiałów niebezpiecznych drogą powietrzną w zakresie objętym kontrolą przemieszczających się środków transportu, osób z nich korzystających oraz towarów nimi przewożonych nie stosuje się przepisów art. 48–51, art. 54, art. 55 i art. 57 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców.
+**Art. 41.** Do kontroli niezapowiedzianych działalności gospodarczej związanej z transportem materiałów niebezpiecznych drogą powietrzną w zakresie objętym kontrolą przemieszczających się środków transportu, osób z nich korzystających oraz towarów nimi przewożonych nie stosuje się przepisów art. 48–51, art. 54, art. 55 i art. 57 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
 
 #### Rozdział 10 Opłaty
 
@@ -603,16 +602,16 @@ Prawo pocztowe;
 
 2. Wysokość opłaty za czynności urzędowe wykonywane przez Prezesa Urzędu w związku z udzieleniem zatwierdzenia, o którym mowa w art. 5 pkt 1, w przypadku zatwierdzenia na:
 
-- **1)** czas nieokreślony wynosi 60 000 zł;
-- **2)** okres 30 dni wynosi 6000 zł.
+- **1)** czas nieokreślony – wynosi 60 000 zł;
+- **2)** okres 30 dni – wynosi 6000 zł.
 
-3. Wysokość opłaty za czynności urzędowe wykonywane przez Prezesa Urzędu w związku z udzieleniem odstępstwa, o którym mowa w art. 5 pkt 2 wynosi 6000 zł dla każdego planowanego lotu.
+3. Wysokość opłaty za czynności urzędowe wykonywane przez Prezesa Urzędu w związku z udzieleniem odstępstwa, o którym mowa w art. 5 pkt 2 – wynosi 6000 zł dla każdego planowanego lotu.
 
-4. Wysokość opłaty za czynności urzędowe wykonywane przez Prezesa Urzędu w związku z wpisem do wykazu nadawców, o którym mowa w art. 18 ust. 1 wynosi 350 zł.
+4. Wysokość opłaty za czynności urzędowe wykonywane przez Prezesa Urzędu w związku z wpisem do wykazu nadawców, o którym mowa w art. 18 ust. 1 – wynosi 350 zł.
 
-5. Wysokość opłaty za czynności urzędowe wykonywane przez Prezesa Urzędu w związku z udzieleniem zatwierdzenia, o którym mowa w art. 19 ust. 2 wynosi każdorazowo 1200 zł.
+5. Wysokość opłaty za czynności urzędowe wykonywane przez Prezesa Urzędu w związku z udzieleniem zatwierdzenia, o którym mowa w art. 19 ust. 2 – wynosi każdorazowo 1200 zł.
 
-6. Wysokość opłaty za czynności urzędowe wykonywane przez Prezesa Urzędu w związku z udzieleniem zatwierdzenia, o którym mowa w art. 22 ust. 1 wynosi każdorazowo 600 zł.
+6. Wysokość opłaty za czynności urzędowe wykonywane przez Prezesa Urzędu w związku z udzieleniem zatwierdzenia, o którym mowa w art. 22 ust. 1 – wynosi każdorazowo 600 zł.
 
 7. Nie pobiera się opłat za czynności urzędowe wykonywane przez Prezesa Urzędu w związku z udzieleniem odstępstwa, o którym mowa w art. 5 pkt 2, w przypadku lotów związanych z pomocą humanitarną, ratowaniem życia i zdrowia oraz pomocą w związku z wystąpieniem klęski żywiołowej, a także lotów realizowanych na potrzeby Sił Zbrojnych Rzeczypospolitej Polskiej.
 
@@ -622,8 +621,8 @@ Prawo pocztowe;
 
 2. Wysokość opłaty za czynności urzędowe wykonywane przez Prezesa Państwowej Agencji Atomistyki w związku z udzieleniem zatwierdzenia, o którym mowa w art. 5 pkt 3, w przypadku zatwierdzenia na:
 
-- **1)** czas nieokreślony wynosi 60 000 zł;
-- **2)** okres 30 dni wynosi 6000 zł.
+- **1)** czas nieokreślony – wynosi 60 000 zł;
+- **2)** okres 30 dni – wynosi 6000 zł.
 
 **Art. 44.**
 
@@ -667,9 +666,9 @@ Prawo pocztowe;
 
 #### Rozdział 12 Zmiany w przepisach
 
-**Art. 50.** W ustawie z dnia 3 lipca 2002 r. Prawo lotnicze (Dz. U. z 2022 r. poz. 1235) wprowadza się następujące zmiany:
+**Art. 50.** W ustawie z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2022 r. poz. 1235) wprowadza się następujące zmiany:
 
-**Art. 51.** W ustawie z dnia 2 grudnia 2021 r. o zmianie ustawy Prawo o ruchu drogowym oraz niektórych innych ustaw (Dz. U. poz. 2328 oraz z 2022 r. poz. 1002) po art. 17a dodaje się art. 17b w brzmieniu: „Art. 17b. 1. Do dnia wdrożenia rozwiązań technicznych, o których mowa w komunikacie ministra właściwego do spraw informatyzacji wydanym na podstawie art. 14 ust. 2 ustawy zmienianej w art. 14, informacja o wpisach w ewidencji, o której mowa w art. 17, jest udzielana przez Policję:
+**Art. 51.** W ustawie z dnia 2 grudnia 2021 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw (Dz. U. poz. 2328 oraz z 2022 r. poz. 1002) po art. 17a dodaje się art. 17b w brzmieniu: „Art. 17b. 1. Do dnia wdrożenia rozwiązań technicznych, o których mowa w komunikacie ministra właściwego do spraw informatyzacji wydanym na podstawie art. 14 ust. 2 ustawy zmienianej w art. 14, informacja o wpisach w ewidencji, o której mowa w art. 17, jest udzielana przez Policję:
 
 **Art. 52.** W ustawie z dnia 23 marca 2022 r. o szczególnych regulacjach w zakresie transportu i gospodarki morskiej w związku z konfliktem zbrojnym na terytorium Ukrainy (Dz. U. poz. 684 i 830) po art. 17 dodaje się art. 17a w brzmieniu: „Art. 17a. 1. Jeżeli ostatni dzień okresu pobytu na terytorium Rzeczypospolitej Polskiej kierowcy będącego obywatelem Republiki Białorusi, wykonującego transport drogowy lub niezarobkowy przewóz drogowy w rozumieniu odpowiednio art. 4 pkt 3 lub pkt 4 ustawy z dnia 6 września 2001 r. o transporcie drogowym na rzecz przewoźnika drogowego lub przedsiębiorcy, mających siedzibę na terytorium Rzeczypospolitej Polskiej, na podstawie wizy krajowej, przypada w okresie od dnia 1 września 2022 r., okres pobytu na podstawie tej wizy oraz okres ważności tej wizy ulegają przedłużeniu z mocy prawa do dnia 31 grudnia 2022 r. 2. Wiza krajowa w okresie przedłużenia okresu pobytu oraz okresu ważności na podstawie ust. 1 uprawnia do przekraczania granicy w ramach wykonywania międzynarodowego transportu drogowego lub niezarobkowego międzynarodowego przewozu drogowego, o którym mowa odpowiednio w art. 4 pkt 2 lub pkt 6 ustawy z dnia 6 września 2001 r. o transporcie drogowym. 3. W dokumencie podróży kierowcy naklejkę wizową potwierdzającą przedłużenie wizy krajowej umieszcza wojewoda właściwy ze względu na miejsce pobytu tego kierowcy. Okres pobytu na podstawie przedłużonej wizy krajowej wynikający ze wskazania w naklejce wizowej, która potwierdza przedłużenie wizy krajowej, nie może przekraczać okresu pobytu przewidzianego dla wizy krajowej. 4. Jeżeli ostatni dzień okresu ważności zezwolenia na pobyt czasowy udzielonego obywatelowi Republiki Białorusi, o którym mowa w ust. 1, przypada w okresie od dnia 1 września 2022 r., okres ważności tego zezwolenia ulega przedłużeniu z mocy prawa do dnia 31 grudnia 2022 r. 5. Jeżeli termin do opuszczenia przez wskazanego w ust. 1 obywatela Republiki Białorusi terytorium Rzeczypospolitej Polskiej, o którym mowa w art. 299 ust. 6 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2021 r. poz. 2354, z późn. zm. ), przypada w okresie od dnia 1 września 2022 r., ulega on przedłużeniu z mocy prawa do dnia 24 sierpnia 2023 r. W okresie, na który termin został przedłużony, nie stosuje się przepisów art. 99 ust. 1 pkt 9, art. 196 ust. 1 pkt 5 oraz art. 213 ust. 1 pkt 6 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach. 6. Jeżeli termin dobrowolnego powrotu, o którym mowa w art. 315 ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, określony w decyzji wydanej wobec obywatela Republiki Białorusi, o którym mowa w ust. 1, przypada od dnia 1 września 2022 r., ulega on przedłużeniu z mocy prawa do dnia 24 sierpnia 2023 r. W okresie, na który termin został przedłużony, nie stosuje się przepisów art. 99 ust. 1 pkt 8, art. 196 ust. 1 pkt 4 oraz art. 213 ust. 1 pkt 5 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach. 7. Jeżeli ostatni dzień okresu ważności:
 
@@ -697,20 +696,20 @@ Prawo pocztowe;
 
 1. W latach 2022–2031 maksymalny limit wydatków budżetu państwa będący skutkiem finansowym ustawy wynosi 3 502 361,70 zł, z czego w:
 
-- **1)** 2022 r. 144 534,57 zł;
-- **2)** 2023 r. 346 882,97 zł;
-- **3)** 2024 r. 376 368,02 zł;
-- **4)** 2025 r. 376 368,02 zł;
-- **5)** 2026 r. 376 368,02 zł;
-- **6)** 2027 r. 376 368,02 zł;
-- **7)** 2028 r. 376 368,02 zł;
-- **8)** 2029 r. 376 368,02 zł;
-- **9)** 2030 r. 376 368,02 zł;
-- **10)** 2031 r. 376 368,02 zł.
+- **1)** 2022 r. – 144 534,57 zł;
+- **2)** 2023 r. – 346 882,97 zł;
+- **3)** 2024 r. – 376 368,02 zł;
+- **4)** 2025 r. – 376 368,02 zł;
+- **5)** 2026 r. – 376 368,02 zł;
+- **6)** 2027 r. – 376 368,02 zł;
+- **7)** 2028 r. – 376 368,02 zł;
+- **8)** 2029 r. – 376 368,02 zł;
+- **9)** 2030 r. – 376 368,02 zł;
+- **10)** 2031 r. – 376 368,02 zł.
 
 2. W przypadku przekroczenia lub zagrożenia przekroczenia przyjętego na dany rok budżetowy maksymalnego limitu wydatków, o którym mowa w ust. 1, zostaną zastosowane mechanizmy korygujące polegające na racjonalizacji wykonywania działań przy jednoczesnym zapewnieniu właściwego poziomu bezpieczeństwa transportu materiałów niebezpiecznych drogą powietrzną.
 
 3. Organem właściwym do monitorowania wykorzystania limitu wydatków, o którym mowa w ust. 1, oraz wdrożenia mechanizmów korygujących, o których mowa w ust. 2, jest Prezes Urzędu.
 
-**Art. 55.** Ustawa wchodzi w życie z dniem 1 października 2022 r., z wyjątkiem art. 51 i art. 52, które wchodzą w życie z dniem następującym po dniu ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda WYKAZ NARUSZEŃ OBOWIĄZKÓW ORAZ WYSOKOŚĆ KAR PIENIĘŻNYCH ZA POSZCZEGÓLNE NARUSZENIA Wysokość kary (w zł) Wykaz naruszeń w odniesieniu do w odniesieniu do nadawcy operatora lotniczego lub podwykonawcy 1. Nadanie albo akceptacja do transportu drogą 10 000 100 000 powietrzną przesyłki zawierającej materiały niebezpieczne zabronione do transportu drogą powietrzną, o których mowa w Instrukcjach Technicznych 2. Nadanie albo przyjęcie do transportu drogą 5000 50 000 powietrzną jako ładunku przesyłki zawierającej niezadeklarowane materiały niebezpieczne 3. Nadanie albo akceptacja do transportu pasażer- 5000 50 000 skim statkiem powietrznym jako ładunku przesyłki zawierającej materiały niebezpieczne przeznaczone wyłącznie do transportu towarowym statkiem powietrznym 4. Nadanie albo akceptacja do transportu drogą 7000 70 000 powietrzną przesyłki zawierającej materiały niebezpieczne z naruszeniem zasad dotyczących klasyfikacji materiałów niebezpiecznych, o których mowa w Instrukcjach Technicznych 5. Nadanie albo akceptacja do transportu drogą powietrzną przesyłki zawierającej materiały niebezpieczne w ilościach ograniczonych lub w ilościach wyłączonych, z naruszeniem przepisów dotyczących ilości tych materiałów, o których mowa w Instrukcjach Technicznych 4000 40 000 6. Nadanie albo akceptacja do transportu drogą powietrzną przesyłki zawierającej materiały niebezpieczne z naruszeniem zasad dotyczących instrukcji pakowania, o których mowa w Instrukcjach Technicznych 8000 80 000 7. Nadanie albo akceptacja do transportu drogą 8000 40 000 powietrzną przesyłki zawierającej materiały niebezpieczne z naruszeniem zasad dotyczących nazewnictwa, oznakowania, wymagań i badań dotyczących opakowań, o których mowa w Instrukcjach Technicznych 8. Przyjęcie do transportu drogą powietrzną nie dotyczy 30 000 materiałów niebezpiecznych z naruszeniem zasad dotyczących przewozu materiałów niebezpiecznych przez pasażerów i członków załogi statku powietrznego, o których mowa w Instrukcjach Technicznych 9. Obsługa materiałów niebezpiecznych przez 8000 80 000 osobę, która nie ukończyła z wynikiem pozytywnym właściwego szkolenia, o którym mowa w art. 21 ust. 1 ustawy 10. Nadanie albo akceptacja do transportu drogą 3000 30 000 powietrzną przesyłki zawierającej materiały niebezpieczne oznakowanej niezgodnie z przepisami dotyczącymi oznakowania, o których mowa w Instrukcjach Technicznych 11. Nadanie albo akceptacja do transportu drogą 5000 50 000 powietrzną przesyłki zawierającej materiały niebezpieczne nieposiadającej właściwej etykiety, o której mowa w Instrukcjach Technicznych 12. Nadanie albo akceptacja do transportu drogą powietrzną przesyłki zawierającej materiały niebezpieczne nieposiadającej właściwie sporządzonego dokumentu przewozowego, o którym mowa w Instrukcjach Technicznych 1000 10 000 13. Akceptacja przesyłki zawierającej materiały nie dotyczy 80 000 niebezpieczne z naruszeniem procedur akceptacji do transportu drogą powietrzną, o których mowa w Instrukcjach Technicznych 14. Obsługa przesyłek zawierających materiały nie dotyczy 60 000 niebezpieczne z naruszeniem procedur separowania niekompatybilnych materiałów niebezpiecznych, o których mowa w Instrukcjach Technicznych 15. Obsługa przesyłek zawierających substancje nie dotyczy 60 000 i artykuły wybuchowe z naruszeniem procedur ich separowania, o których mowa w Instrukcjach Technicznych 16. Obsługa przesyłek zawierających materiały nie dotyczy 30 000 niebezpieczne z naruszeniem innych niż wymienione w pkt 14 i 15 procedur przechowywania i załadunku, o których mowa w Instrukcjach Technicznych 17. Obsługa przesyłek zawierających materiały nie dotyczy 50 000 niebezpieczne z naruszeniem procedur kontroli uszkodzeń i odkażania, o których mowa w Instrukcjach Technicznych 18. Transport drogą powietrzną przesyłek zawiera- nie dotyczy 40 000 jących materiały niebezpieczne z naruszeniem procedur dostarczania informacji dla dowódcy statku powietrznego, o których mowa w Instrukcjach Technicznych 19. Niezgłoszenie wbrew art. 29 ustawy wypadku nie dotyczy 70 000 lub incydentu 20. Niezgłoszenie wbrew art. 29 ustawy zdarzenia nie dotyczy 35 000 21. Niedotrzymanie określonego w art. 30 ustawy terminu zgłoszenia wypadku, incydentu lub zdarzenia nie dotyczy 700 22. Obsługa przesyłek zawierających materiały nie dotyczy 20 000 niebezpieczne z naruszeniem procedur dotyczących przekazywania informacji personelowi operatora lub podwykonawcy, o których mowa w Instrukcjach Technicznych 23. Obsługa przesyłek zawierających materiały niebezpieczne z naruszeniem procedur dotyczących przechowywania dokumentacji, o któ2000 20 000 rych mowa w Instrukcjach Technicznych 24. Nadanie albo akceptacja przesyłek zawierają- 10 000 20 000 cych materiały niebezpieczne wysokiego ryzyka bez opracowanego i wdrożonego planu ochrony materiałów niebezpiecznych wysokiego ryzyka, o którym mowa w art. 33 ust. 1 ustawy Wysokość kary (w zł) w odniesieniu do podWykaz naruszeń w odniesieniu do miotu, na rzecz którego instruktora instruktor prowadzi szkolenie 25. Prowadzenie szkoleń z zakresu bezpiecznego 20 000 50 000 transportu materiałów niebezpiecznych drogą powietrzną bez uprzedniego uzyskania zatwierdzenia udzielonego przez Prezesa Urzędu zgodnie z art. 22 ust. 1 ustawy 26. Prowadzenie szkoleń z zakresu bezpiecznego 10 000 nie dotyczy transportu materiałów niebezpiecznych drogą powietrzną przez zatwierdzonego instruktora niezgodnie z przedłożonym Prezesowi Urzędu ramowym programem szkolenia, o którym mowa w art. 22 ust. 4 pkt 4 ustawy Wysokość kary (w zł) Wykaz naruszeń w odniesieniu do wyznaczonego operatora pocztowego 27. Wprowadzenie materiałów niebezpiecznych do 20 000 poczty transportowanej drogą powietrzną bez uprzedniego uzyskania zatwierdzenia, o którym mowa w art. 19 ust. 2 ustawy 28. Wprowadzenie materiałów niebezpiecznych do 50 000 poczty transportowanej drogą powietrzną bez spełnienia wymagań dotyczących wprowadzania materiałów niebezpiecznych do poczty, o których mowa w Instrukcjach Technicznych 29. Niezapewnienie w widocznych miejscach w punktach przyjmowania przesyłek pocztowych, pisemnych lub graficznych informacji dotyczących ograniczeń transportu drogą powietrzną przesyłek pocztowych zawierających materiały niebezpieczne, zgodnie z art. 19 ust. 8 ustawy 20 000 30. Obsługa przez osobę, która nie ukończyła 20 000 właściwego szkolenia, o którym mowa w art. 20 ustawy, przesyłek pocztowych zawierających materiały niebezpieczne transportowanych drogą powietrzną Wysokość kary (w zł) w odniesieniu do pod- w odniesieniu do Wykaz naruszeń wykonawcy przeprowadzającego zarządzającego kontrolę bezpieczeństwa lotniskiem 31. Kontrola bezpieczeństwa pasażerów i bagażu 20 000 50 000 przez osobę, która nie ukończyła z wynikiem pozytywnym właściwego szkolenia, o którym mowa w art. 21 ust. 1 ustawy 32. Kontrola przesyłek lotniczych oraz poczty przez 20 000 nie dotyczy osobę, która nie ukończyła z wynikiem pozytywnym właściwego szkolenia, o którym mowa w art. 21 ust. 1 ustawy
+**Art. 55.** Ustawa wchodzi w życie z dniem 1 października 2022 r., z wyjątkiem art. 51 i art. 52, które wchodzą w życie z dniem następującym po dniu ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda WYKAZ NARUSZEŃ OBOWIĄZKÓW ORAZ WYSOKOŚĆ KAR PIENIĘŻNYCH ZA POSZCZEGÓLNE NARUSZENIA Wysokość kary (w zł) Wykaz naruszeń w odniesieniu do w odniesieniu do nadawcy operatora lotniczego lub podwykonawcy 1. Nadanie albo akceptacja do transportu drogą 10 000 100 000 powietrzną przesyłki zawierającej materiały niebezpieczne zabronione do transportu drogą powietrzną, o których mowa w Instrukcjach Technicznych 2. Nadanie albo przyjęcie do transportu drogą 5000 50 000 powietrzną jako ładunku przesyłki zawierającej niezadeklarowane materiały niebezpieczne 3. Nadanie albo akceptacja do transportu pasażer- 5000 50 000 skim statkiem powietrznym jako ładunku przesyłki zawierającej materiały niebezpieczne przeznaczone wyłącznie do transportu towarowym statkiem powietrznym 4. Nadanie albo akceptacja do transportu drogą 7000 70 000 powietrzną przesyłki zawierającej materiały niebezpieczne z naruszeniem zasad dotyczących klasyfikacji materiałów niebezpiecznych, o których mowa w Instrukcjach Technicznych 5. Nadanie albo akceptacja do transportu drogą powietrzną przesyłki zawierającej materiały niebezpieczne w ilościach ograniczonych lub w ilościach wyłączonych, z naruszeniem przepisów dotyczących ilości tych materiałów, o których mowa w Instrukcjach Technicznych 4000 40 000 6. Nadanie albo akceptacja do transportu drogą 8000 80 000 powietrzną przesyłki zawierającej materiały niebezpieczne z naruszeniem zasad dotyczących instrukcji pakowania, o których mowa w Instrukcjach Technicznych 7. Nadanie albo akceptacja do transportu drogą 8000 40 000 powietrzną przesyłki zawierającej materiały niebezpieczne z naruszeniem zasad dotyczących nazewnictwa, oznakowania, wymagań i badań dotyczących opakowań, o których mowa w Instrukcjach Technicznych 8. Przyjęcie do transportu drogą powietrzną nie dotyczy 30 000 materiałów niebezpiecznych z naruszeniem zasad dotyczących przewozu materiałów niebezpiecznych przez pasażerów i członków załogi statku powietrznego, o których mowa w Instrukcjach Technicznych 9. Obsługa materiałów niebezpiecznych przez 8000 80 000 osobę, która nie ukończyła z wynikiem pozytywnym właściwego szkolenia, o którym mowa w art. 21 ust. 1 ustawy 10. Nadanie albo akceptacja do transportu drogą 3000 30 000 powietrzną przesyłki zawierającej materiały niebezpieczne oznakowanej niezgodnie z przepisami dotyczącymi oznakowania, o których mowa w Instrukcjach Technicznych 11. Nadanie albo akceptacja do transportu drogą 5000 50 000 powietrzną przesyłki zawierającej materiały niebezpieczne nieposiadającej właściwej etykiety, o której mowa w Instrukcjach Technicznych 12. Nadanie albo akceptacja do transportu drogą powietrzną przesyłki zawierającej materiały niebezpieczne nieposiadającej właściwie sporządzonego dokumentu przewozowego, o którym mowa w Instrukcjach Technicznych 1000 10 000 13. Akceptacja przesyłki zawierającej materiały nie dotyczy 80 000 niebezpieczne z naruszeniem procedur akceptacji do transportu drogą powietrzną, o których mowa w Instrukcjach Technicznych 14. Obsługa przesyłek zawierających materiały nie dotyczy 60 000 niebezpieczne z naruszeniem procedur separowania niekompatybilnych materiałów niebezpiecznych, o których mowa w Instrukcjach Technicznych 15. Obsługa przesyłek zawierających substancje nie dotyczy 60 000 i artykuły wybuchowe z naruszeniem procedur ich separowania, o których mowa w Instrukcjach Technicznych 16. Obsługa przesyłek zawierających materiały nie dotyczy 30 000 niebezpieczne z naruszeniem innych niż wymienione w pkt 14 i 15 procedur przechowywania i załadunku, o których mowa w Instrukcjach Technicznych 17. Obsługa przesyłek zawierających materiały nie dotyczy 50 000 niebezpieczne z naruszeniem procedur kontroli uszkodzeń i odkażania, o których mowa w Instrukcjach Technicznych 18. Transport drogą powietrzną przesyłek zawiera- nie dotyczy 40 000 jących materiały niebezpieczne z naruszeniem procedur dostarczania informacji dla dowódcy statku powietrznego, o których mowa w Instrukcjach Technicznych 19. Niezgłoszenie wbrew art. 29 ustawy wypadku nie dotyczy 70 000 lub incydentu 20. Niezgłoszenie wbrew art. 29 ustawy zdarzenia nie dotyczy 35 000 21. Niedotrzymanie określonego w art. 30 ustawy terminu zgłoszenia wypadku, incydentu lub zdarzenia nie dotyczy 700 22. Obsługa przesyłek zawierających materiały nie dotyczy 20 000 niebezpieczne z naruszeniem procedur dotyczących przekazywania informacji personelowi operatora lub podwykonawcy, o których mowa w Instrukcjach Technicznych 23. Obsługa przesyłek zawierających materiały niebezpieczne z naruszeniem procedur dotyczących przechowywania dokumentacji, o których mowa w Instrukcjach Technicznych 2000 20 000 24. Nadanie albo akceptacja przesyłek zawierają- 10 000 20 000 cych materiały niebezpieczne wysokiego ryzyka bez opracowanego i wdrożonego planu ochrony materiałów niebezpiecznych wysokiego ryzyka, o którym mowa w art. 33 ust. 1 ustawy Wysokość kary (w zł) w odniesieniu do podWykaz naruszeń w odniesieniu do miotu, na rzecz którego instruktora instruktor prowadzi szkolenie 25. Prowadzenie szkoleń z zakresu bezpiecznego 20 000 50 000 transportu materiałów niebezpiecznych drogą powietrzną bez uprzedniego uzyskania zatwierdzenia udzielonego przez Prezesa Urzędu zgodnie z art. 22 ust. 1 ustawy 26. Prowadzenie szkoleń z zakresu bezpiecznego 10 000 nie dotyczy transportu materiałów niebezpiecznych drogą powietrzną przez zatwierdzonego instruktora niezgodnie z przedłożonym Prezesowi Urzędu ramowym programem szkolenia, o którym mowa w art. 22 ust. 4 pkt 4 ustawy Wysokość kary (w zł) Wykaz naruszeń w odniesieniu do wyznaczonego operatora pocztowego 27. Wprowadzenie materiałów niebezpiecznych do 20 000 poczty transportowanej drogą powietrzną bez uprzedniego uzyskania zatwierdzenia, o którym mowa w art. 19 ust. 2 ustawy 28. Wprowadzenie materiałów niebezpiecznych do poczty transportowanej drogą powietrzną bez spełnienia wymagań dotyczących wprowadzania materiałów niebezpiecznych do poczty, o których mowa w Instrukcjach Technicznych 50 000 29. Niezapewnienie w widocznych miejscach w punktach przyjmowania przesyłek pocztowych, pisemnych lub graficznych informacji dotyczących ograniczeń transportu drogą powietrzną przesyłek pocztowych zawierających materiały niebezpieczne, zgodnie z art. 19 ust. 8 ustawy 20 000 30. Obsługa przez osobę, która nie ukończyła 20 000 właściwego szkolenia, o którym mowa w art. 20 ustawy, przesyłek pocztowych zawierających materiały niebezpieczne transportowanych drogą powietrzną Wysokość kary (w zł) w odniesieniu do pod- w odniesieniu do Wykaz naruszeń wykonawcy przeprowadzającego zarządzającego kontrolę bezpieczeństwa lotniskiem 31. Kontrola bezpieczeństwa pasażerów i bagażu 20 000 50 000 przez osobę, która nie ukończyła z wynikiem pozytywnym właściwego szkolenia, o którym mowa w art. 21 ust. 1 ustawy 32. Kontrola przesyłek lotniczych oraz poczty przez 20 000 nie dotyczy osobę, która nie ukończyła z wynikiem pozytywnym właściwego szkolenia, o którym mowa w art. 21 ust. 1 ustawy
 

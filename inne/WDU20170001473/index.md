@@ -10,9 +10,9 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# Ustawa z dnia 8 czerwca 2017 r. o sposobie ustalania najniższego wynagrodzenia zasadniczego niektórych pracowników zatrudnionych w podmiotach leczniczych
+# o sposobie ustalania najniższego wynagrodzenia zasadniczego niektórych pracowników zatrudnionych podmiotach leczniczych
 
-*USTAWA 8 czerwca sposobie ustalania najniższego zasadniczego pracowników wykonujących zawody medyczne zatrudnionych podmiotach leczniczych*
+*USTAWA z dnia 8 czerwca 2017 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -26,49 +26,70 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001473) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1473/text.pdf) |
 
-**Art. 1.** Ustawa określa sposób ustalania najniższego zasadniczego pracowników wykonujących zawody medyczne zatrudnionych podmiotach leczniczych, uwzględniający rodzaj wykonywanej pracy, oraz sposób osiągania najniższego zasadniczego.
+**Art. 1.** Ustawa określa sposób ustalania najniższego wynagrodzenia zasadniczego pracowników wykonujących zawody medyczne oraz pracowników działalności podstawowej, innych niż pracownicy wykonujący zawody medyczne, zatrudnionych podmiotach leczniczych, uwzględniający rodzaj wykonywanej pracy oraz sposób osiągania najniższego wynagrodzenia zasadniczego.
 
-**Art. 2.** Użyte ustawie określenia oznaczają: najniższe wynagrodzenie zasadnicze najniższe miesięczne wynagrodzenie zasadnicze przysługujące pracownikowi wykonującemu zawód medyczny podmiocie leczniczym, obliczone sposób określony art. 3 albo art. 7;
+**Art. 2.** Użyte ustawie określenia oznaczają:
 
 **Art. 3.**
 
-1. Do 31 grudnia 2021 podmiot leczniczy dokonuje podwyższenia zasadniczego pracownika wykonującego zawód medyczny, którego wynagrodzenie zasadnicze jest niższe od najniższego zasadniczego, ustalonego jako iloczyn współczynnika pracy określonego załączniku do i kwoty przeciętnego miesięcznego brutto gospodarce narodowej roku poprzedzającym ustalenie, ogłoszonego przez Prezesa Głównego Urzędu Statystycznego Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, do wysokości nie niższej niż najniższe wynagrodzenie zasadnicze, uwzględnieniem następujących warunków: sposób podwyższania zasadniczego ustalają, drodze porozumienia, strony uprawnione danym podmiocie leczniczym do zawarcia zakładowego układu zbiorowego pracy, zwanego dalej „porozumieniem”;
+1. Do dnia 1 lipca 2022 r. podmiot leczniczy dokonuje podwyższenia wynagrodzenia zasadniczego pracownika wykonującego zawód medyczny oraz pracownika działalności podstawowej, innego niż pracownik wykonujący zawód medyczny, którego wynagrodzenie zasadnicze jest niższe od najniższego wynagrodzenia zasadniczego, ustalonego jako iloczyn współczynnika pracy określonego załączniku do ustawy i kwoty przeciętnego miesięcznego wynagrodzenia brutto gospodarce narodowej roku poprzedzającym ustalenie, ogłoszonego przez Prezesa Głównego Urzędu Statystycznego Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, do wysokości nie niższej niż najniższe wynagrodzenie zasadnicze, z uwzględnieniem następujących warunków:
 
-- **2)** podmiot leczniczy, u którego nie działa zakładowa organizacja związkowa, zawiera porozumienie pracownikiem wybranym przez pracowników podmiotu leczniczego do reprezentowania ich interesów;
-- **3)** porozumienie zawiera się corocznie do 31 maja;
-- **4)** jeżeli porozumienie nie zostanie zawarte terminie określonym pkt 3, sposób podwyższania zasadniczego ustala, drodze zarządzenia sprawie podwyższenia wynagrodzenia, zwanego dalej „zarządzeniem”:
+- **1)** sposób podwyższania wynagrodzenia zasadniczego ustalają, drodze porozumienia, strony uprawnione danym podmiocie leczniczym do zawarcia zakładowego układu zbiorowego pracy, zwanego dalej „porozumieniem”;
+- **2)** podmiot leczniczy, u którego nie działa zakładowa organizacja związkowa, zawiera porozumienie z pracownikiem wybranym przez pracowników podmiotu leczniczego do reprezentowania ich interesów;
+- **3)** jeżeli porozumienie nie zostanie zawarte, sposób podwyższania wynagrodzenia zasadniczego ustala drodze zarządzenia sprawie podwyższenia wynagrodzenia, zwanego dalej „zarządzeniem”:
     - **a)** kierownik podmiotu leczniczego,
-    - **b)** podmiot tworzący, którym mowa art. 4 pkt 1 przypadku podmiotów leczniczych działających formie
-    - **c)** na dzień 1 lipca 2019 wynagrodzenie zasadnicze pracownika wykonującego zawód medyczny podwyższa się co najmniej 20% kwoty stanowiącej różnicę pomiędzy najniższym wynagrodzeniem zasadniczym a wynagrodzeniem zasadniczym tego pracownika,
-    - **d)** na dzień 1 lipca 2020 wynagrodzenie zasadnicze pracownika wykonującego zawód medyczny podwyższa się co najmniej 20% kwoty stanowiącej różnicę pomiędzy najniższym wynagrodzeniem zasadniczym a wynagrodzeniem zasadniczym tego pracownika,
-    - **e)** na dzień 1 lipca 2021 wynagrodzenie zasadnicze pracownika wykonującego zawód medyczny podwyższa się co najmniej 20% kwoty stanowiącej różnicę pomiędzy najniższym wynagrodzeniem zasadniczym a wynagrodzeniem zasadniczym tego pracownika.
+    - **b)** podmiot tworzący, o którym mowa art. 4 pkt 1 – przypadku podmiotów leczniczych działających formie jednostek budżetowych i jednostek wojskowych, o których mowa art. 4 ust. 1 pkt 3 i 7 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej;
 
-2. Pracownikowi wykonującemu zawód medyczny niepełnym wymiarze czasu pracy najniższe wynagrodzenie zasadnicze oblicza się proporcjonalnie do wymiaru czasu pracy określonego ramach stosunku pracy.
+- **4)** ustalony drodze porozumienia albo zarządzenia sposób podwyższenia wynagrodzenia zasadniczego zapewnia proporcjonalny dla każdej z grup zawodowych średni wzrost tego wynagrodzenia.
 
-3. Ustalony drodze porozumienia albo zarządzenia sposób podwyższania zasadniczego osoby zajmującej stanowisko pielęgniarki położnej uwzględnia wzrost miesięcznego danej pielęgniarki albo położnej dokonany na podstawie przepisów wydanych na podstawie art. 137 ust. 2 27 sierpnia 2004 świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. 2016 poz. 1793, późn. zm. ).
+1a. Do wynagrodzeń zasadniczych stażystów i rezydentów nie stosuje się warunków określonych ust. 1.
 
-4. Od 1 stycznia 2022 wynagrodzenie zasadnicze pracownika wykonującego zawód medyczny nie może być niższe niż najniższe wynagrodzenie zasadnicze ustalone sposób określony ust. 1 na dzień 31 grudnia 2021
+1b. Wynagrodzenia zasadnicze stażystów i rezydentów, o których mowa ust. 1a, określa minister właściwy do spraw zdrowia na podstawie art. 15i ust. 4 oraz art. 16j ust. 5 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty, zapewniając podwyższenie wynagrodzenia zasadniczego stażysty i rezydenta do poziomu najniższego wynagrodzenia zasadniczego ustalonego sposób określony ust. 1.
 
-**Art. 4.** Kontrolę wykonywania przepisów art. 3 przeprowadza: podmiot tworzący rozumieniu art. 2 ust. 1 pkt 6 15 kwietnia 2011 działalności leczniczej na zasadach określonych tej ustawie;
+2. Pracownikowi wykonującemu zawód medyczny oraz pracownikowi działalności podstawowej, innemu niż pracownik wykonujący zawód medyczny, zatrudnionym niepełnym wymiarze czasu pracy najniższe wynagrodzenie zasadnicze oblicza się proporcjonalnie do wymiaru czasu pracy określonego ramach stosunku pracy.
 
-**Art. 5.** W porozumieniu albo zarządzeniu określa się również zasady podwyższania osoby zatrudnionej ramach stosunku pracy podmiocie leczniczym, niewykonującej zawodu medycznego, tak aby wynagrodzenie to odpowiadało szczególności rodzajowi wykonywanej pracy i kwalifikacjom wymaganym przy jej wykonywaniu, a także uwzględniało ilość i jakość świadczonej pracy. Przepisy art. 4 stosuje się odpowiednio.
+3. (uchylony)
 
-**Art. 6.**
+4. Od dnia 2 lipca 2022 r. wynagrodzenie zasadnicze pracownika wykonującego zawód medyczny oraz pracownika działalności podstawowej, innego niż pracownik wykonujący zawód medyczny, nie może być niższe niż najniższe wynagrodzenie zasadnicze ustalone sposób określony ust. 1 na dzień 1 lipca 2022 r.
 
-1. W latach 2017–2027 maksymalny limit wydatków budżetu państwa będących skutkiem finansowym ustawy tytułu wzrostu kosztów związanych ze specjalizacją oraz realizacją staży podyplomowych lekarzy i lekarzy dentystów wynosi 5 028 159 tys. zł, przy czym kolejnych latach wyniesie maksymalnie w: 0 zł;
+**Art. 3a.**
 
-- **2)** 2018 64 086 tys. zł;
-- **3)** 2019 102 457 tys. zł;
-- **4)** 2020 195 666 tys. zł;
-- **5)** 2021 302 924 tys. zł;
-- **6)** 2022 727 171 tys. zł;
-- **7)** 2023 727 171 tys. zł; mowych lekarzy i lekarzy dentystów.
+1. Corocznie na dzień 1 lipca podmiot leczniczy dokonuje podwyższenia wynagrodzenia zasadniczego pracownika wykonującego zawód medyczny oraz pracownika działalności podstawowej, innego niż pracownik wykonujący zawód medyczny, którego wynagrodzenie zasadnicze jest niższe od najniższego wynagrodzenia zasadniczego, ustalonego jako iloczyn współczynnika pracy określonego załączniku do ustawy i kwoty przeciętnego miesięcznego wynagrodzenia brutto gospodarce narodowej roku poprzedzającym ustalenie, ogłoszonego przez Prezesa Głównego Urzędu Statystycznego Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, do wysokości nie niższej niż najniższe wynagrodzenie zasadnicze, z uwzględnieniem następujących warunków:
 
-3. Organem właściwym do monitorowania wykorzystania limitu wydatków, których mowa ust. 1, oraz wdrożenia mechanizmu korygującego, którym mowa ust. 2, jest minister właściwy do spraw zdrowia.
+- **1)** sposób podwyższania wynagrodzenia zasadniczego ustalają strony uprawnione danym podmiocie leczniczym do zawarcia zakładowego układu zbiorowego pracy drodze porozumienia;
+- **2)** podmiot leczniczy, u którego nie działa zakładowa organizacja związkowa, zawiera porozumienie z pracownikiem wybranym przez pracowników podmiotu leczniczego do reprezentowania ich interesów;
+- **3)** porozumienie zawiera się corocznie do dnia 31 maja;
+- **4)** jeżeli porozumienie nie zostanie zawarte terminie określonym pkt 3, sposób podwyższania wynagrodzenia zasadniczego ustala corocznie do dnia 15 czerwca, drodze zarządzenia sprawie podwyższenia wynagrodzenia:
+    - **a)** kierownik podmiotu leczniczego,
+    - **b)** podmiot tworzący, o którym mowa art. 4 pkt 1 – przypadku podmiotów leczniczych działających formie jednostek budżetowych i jednostek wojskowych, o których mowa art. 4 ust. 1 pkt 3 i 7 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej.
 
-**Art. 7.** Do 31 grudnia 2019 najniższe wynagrodzenie zasadnicze ustala się jako iloczyn współczynnika pracy określonego załączniku do i kwoty 3900 zł brutto.
+1a. Do wynagrodzeń zasadniczych stażystów i rezydentów nie stosuje się warunków określonych ust. 1.
 
-**Art. 8.** W porozumienie, którym mowa art. 3 ust. 1 pkt 3, zawiera się terminie miesiąca od wejścia życie ustawy.
+1b. Wynagrodzenia zasadnicze stażystów i rezydentów, o których mowa ust. 1a, określa minister właściwy do spraw zdrowia na podstawie art. 15i ust. 4 oraz art. 16j ust. 5 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty, zapewniając podwyższenie wynagrodzenia zasadniczego stażysty i rezydenta do poziomu najniższego wynagrodzenia zasadniczego ustalonego sposób określony ust. 1.
 
-**Art. 9.** Ustawa wchodzi życie po upływie 14 dni od ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda pracy 1 2 3 1 Lekarz albo lekarz dentysta, który uzyskał specjalizację drugiego stopnia tytuł specjalisty 1,27 określonej dziedzinie medycyny 2 Lekarz albo lekarz dentysta, który uzyskał specjalizację pierwszego stopnia określonej dzie- 1,17 dzinie medycyny 3 Lekarz albo lekarz dentysta, bez specjalizacji 1,05 4 Lekarz stażysta albo lekarz dentysta stażysta 0,73 5 Farmaceuta, fizjoterapeuta, diagnosta laboratoryjny albo inny pracownik wykonujący zawód 1,05 medyczny inny niż określony lp. 1–4, wymagający wyższego wykształcenia i specjalizacji 6 Farmaceuta, fizjoterapeuta, diagnosta laboratoryjny albo inny pracownik wykonujący zawód 0,73 medyczny inny niż określony lp. 1–5, wymagający wyższego wykształcenia, bez specjalizacji 7 Pielęgniarka położna tytułem magistra na kierunku pielęgniarstwo położnictwo, 1,05 ze specjalizacją 8 Pielęgniarka albo położna, ze specjalizacją 0,73 9 Pielęgniarka albo położna, bez specjalizacji 0,64 10 Fizjoterapeuta albo inny pracownik wykonujący zawód medyczny inny niż określony lp. 1–9, 0,64 wymagający średniego wykształcenia
+2. Pracownikowi wykonującemu zawód medyczny oraz pracownikowi działalności podstawowej, innemu niż pracownik wykonujący zawód medyczny, zatrudnionym niepełnym wymiarze czasu pracy najniższe wynagrodzenie zasadnicze oblicza się proporcjonalnie do wymiaru czasu pracy określonego ramach stosunku pracy.
+
+3. Od dnia 2 lipca danego roku wynagrodzenie zasadnicze pracownika wykonującego zawód medyczny oraz pracownika działalności podstawowej, innego niż pracownik wykonujący zawód medyczny, nie może być niższe niż najniższe wynagrodzenie zasadnicze ustalone sposób określony ust. 1 na dzień 1 lipca danego roku.
+
+**Art. 4.** Kontrolę wykonywania przepisów art. 3, art. 3a i art. 5 przeprowadza:
+
+**Art. 5.** W porozumieniu albo zarządzeniu określa się również zasady podwyższania wynagrodzenia osoby zatrudnionej ramach stosunku pracy podmiocie leczniczym, niewykonującej zawodu medycznego, tak aby wynagrodzenie to:
+
+**Art. 5a.** Od dnia 1 lipca 2022 r. umowie o pracę pracowników wykonujących zawód medyczny lub pracowników działalności podstawowej, innych niż pracownicy wykonujący zawód medyczny, wskazuje się, do której grupy zawodowej określonej załączniku do ustawy jest zaliczone zajmowane przez pracownika stanowisko pracy.
+
+**Art. 5b.** W podmiotach leczniczych, o których mowa art. 4 ust. 1 pkt 3 i 7 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, utworzonych przez Ministra Obrony Narodowej na podstawie art. 83 tej ustawy, oraz art. 22b ust. 2 ustawy z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej (Dz. U. z 2021 r. poz. 195 oraz z 2022 r. poz. 655 i 1700), przepisy art. 5 i art. 5a stosuje się wyłącznie do pracowników zatrudnionych komórkach wewnętrznych, które ramach struktury organizacyjnej tych podmiotów udzielają świadczeń zdrowotnych, oraz pracowników wykonujących zadania Wojskowej Inspekcji Sanitarnej.
+
+**Art. 5c.** W przypadku osoby niewykonującej zawodu medycznego zatrudnionej ramach stosunku pracy podmiocie leczniczym, o którym mowa art. 5b, adekwatny średni wzrost wynagrodzenia ustalonym okresie realizuje się na zasadach określonych dla pracowników resortu obrony narodowej ramach środków finansowych przeznaczonych na wzrost wynagrodzeń tych pracowników danym roku budżetowym, od dnia 1 stycznia danego roku kalendarzowego.
+
+**Art. 6.** (uchylony)
+
+**Art. 7.**
+
+1. Do dnia 30 czerwca 2019 r. najniższe wynagrodzenie zasadnicze ustala się jako iloczyn współczynnika pracy określonego załączniku do ustawy i kwoty 3900 zł brutto.
+
+2. Od dnia 1 lipca 2019 r. do dnia 30 czerwca 2020 r. najniższe wynagrodzenie zasadnicze ustala się jako iloczyn współczynnika pracy określonego załączniku do ustawy i kwoty 4200 zł brutto.
+
+**Art. 8.** W 2017 r. porozumienie, o którym mowa art. 3 ust. 1 pkt 3, zawiera się terminie miesiąca od dnia wejścia życie ustawy.
+
+**Art. 9.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia . Załącznik do ustawy z dnia 8 czerwca 2017 r. (Dz. U. z 2022 r. poz.
 

@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# Ustawa z dnia 21 czerwca 2001 r. o zmianie ustawy o izbach rolniczych oraz niektórych innych ustaw.
+# o zmianie ustawy o izbach rolniczych oraz niektórych innych ustaw
+
+*USTAWA z dnia 21 czerwca 2001 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,58 +26,60 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010810875) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/875/text.pdf) |
 
-**Art. 1.** Wustawie zdnia 14 grudnia 1995 r. oizbach rolniczych (Dz. U. z1996 r. 1, poz. 3, z1997 r. 121, poz. 770 oraz z 1998 r. 106, poz. 668 i 162, poz.1126) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 14 grudnia 1995 r. o izbach rolniczych (Dz.U. z 1996 r. Nr 1, poz. 3, z 1997 r. Nr 121, poz. 770 oraz z 1998 r. Nr 106, poz. 668 i Nr 162, poz. 1126) wprowadza się następujące zmiany:
 
 **Art. 25.**
 
-1. Wybory do walnego zgromadzenia zarządza, wdrodze uchwały, Krajowa Rada Izb Rolniczych najpóêniej na 30 dni przed upływem kadencji walnego zgromadzenia. Datę wyborów wyznacza się na dzień wolny od pracy przypadający wciągu 60 dni po upływie kadencji walnego zgromadzenia izby.
+1. Wybory do walnego zgromadzenia zarządza, w drodze uchwały, Krajowa Rada Izb Rolniczych najp(cid:243)źniej na 30 dni przed upływem kadencji walnego zgromadzenia. Datę wybor(cid:243)w wyznacza się na dzień wolny od pracy przypadający w ciągu 60 dni po upływie kadencji walnego zgromadzenia izby.
 
-2. W uchwale, o której mowa ust. 1, określa się terminarz wykonania poszczególnych czynności związanych zprzeprowadzeniem wyborów.”;
+2. W uchwale, o kt(cid:243)rej mowa w ust. 1, określa się terminarz wykonania poszczeg(cid:243)lnych czynności związanych z przeprowadzeniem wybor(cid:243)w.(cid:148);
 
-- **18)** wart. 26:
-    - **a)** ust. 1 po wyrazie ŃWybory” dodaje się wyrazy Ńdo rady powiatowej izby”,
-    - **b)** wust. 3 wyrazy Ńwalnego zgromadzenia” zastępuje się wyrazami Ńrady powiatowej”;
+- **18)** w art. 26:
+    - **a)** w ust. 1 po wyrazie (cid:132)Wybory(cid:148) dodaje się wyrazy (cid:132)do rady powiatowej izby(cid:148),
+    - **b)** w ust. 3 wyrazy (cid:132)walnego zgromadzenia(cid:148) zastępuje się wyrazami (cid:132)rady powiatowej(cid:148);
 
-- **19)** wart. 27:
-    - **a)** ust. 1 wyrazy Ńdo walnego zgromadzenia izby” zastępuje się wyrazami Ńdo rady powiatowej izby”,
-    - **b)** ust. 2 kropkę na końcu zastępuje się przecinkiem i dodaje się wyrazy Ńa okręgu wyborczym, którym liczba członków danej izby wynosi mniej niż 50, zgłoszenie kandydatury wymaga poparcia co najmniej 10% członków danej izby posiadających czynne prawo wyborcze wdanym okręgu wyborczym.”;
+- **19)** w art. 27:
+    - **a)** w ust. 1 wyrazy (cid:132)do walnego zgromadzenia izby(cid:148) zastępuje się wyrazami (cid:132)do rady powiatowej izby(cid:148),
+    - **b)** w ust. 2 kropkę na końcu zastępuje się przecinkiem i dodaje się wyrazy (cid:132)a w okręgu wyborczym, w kt(cid:243)rym liczba członk(cid:243)w danej izby wynosi mniej niż 50, zgłoszenie kandydatury wymaga poparcia co najmniej 10% członk(cid:243)w danej izby posiadających czynne prawo wyborcze w danym okręgu wyborczym.(cid:148);
 
-- **20)** wart. 28 wust. 1 po wyrazie ŃGłosowanie” dodaje się wyrazy Ńwwyborach do rady powiatowej izby”;
-- **21)** art. 30—33 otrzymują brzmienie: ŃArt. 30.1. Wyniki głosowania i wynik wyborów wokręgu wyborczym do rady powiatowej izby ustala komisja okręgowa.
+- **20)** w art. 28 w ust. 1 po wyrazie (cid:132)Głosowanie(cid:148) dodaje się wyrazy (cid:132)w wyborach do rady powiatowej izby(cid:148);
+- **21)** art. 30 - 33 otrzymują brzmienie: (cid:132)Art. 30. 1. Wyniki głosowania i wynik wybor(cid:243)w w okręgu wyborczym do rady powiatowej izby ustala komisja okręgowa. izby uzyskuje kandydat, kt(cid:243)ry otrzymał największą liczbę głos(cid:243)w. W przypadku gdy dw(cid:243)ch lub więcej kandydat(cid:243)w otrzymało r(cid:243)wną liczbę głos(cid:243)w uprawniającą do uzyskania mandatu, o pierwszeństwie rozstrzyga losowanie przeprowadzone przez komisję okręgową.
 
-2. W okręgu jednomandatowym mandat członka rady powiatowej izby uzyskuje kandydat, który otrzymał największą liczbę głosów. Wprzypadku gdy dwóch lub więcej kandydatów otrzymało równą liczbę głosów uprawniającą do uzyskania mandatu,opierwszeństwie rozstrzyga losowanie przeprowadzone przez komisję okręgową.
+3. W okręgu dwumandatowym mandaty członk(cid:243)w rady powiatowej izby uzyskują dwaj kandydaci, kt(cid:243)rzy otrzymali kolejno największą liczbę głos(cid:243)w. W przypadku gdy dw(cid:243)ch lub więcej kandydat(cid:243)w otrzymało r(cid:243)wną liczbę głos(cid:243)w uprawniającą do uzyskania mandatu i kandydat(cid:243)w tych jest więcej niż mandat(cid:243)w do uzyskania, o pierwszeństwie rozstrzyga losowanie przeprowadzone przez komisję okręgową.
 
-3. W okręgu dwumandatowym mandaty członków rady powiatowej izby uzyskują dwaj kandydaci, którzy otrzymali kolejno największą liczbę głosów. Wprzypadku gdy dwóch lub więcej kandydajest miasto na prawach powiatu, najtów otrzymało równą liczbę głosów uprawniającą do uzyskania mandatu wódzkiej.
+4. Komisja okręgowa sporządza protok(cid:243)ł przeprowadzonego głosowania i wybor(cid:243)w w okręgu wyborczym, kt(cid:243)ry przekazuje niezwłocznie komisji wojew(cid:243)dzkiej.
 
 **Art. 31.**
 
-1. Komisja wojewódzka na podstawie protokołów otrzymanych od komisji okręgowych stwierdza protokolarnie wyniki wyborów do rad powiatowych izby i przedkłada sprawozdanie z wyborów zarządowi izby.
+1. Komisja wojew(cid:243)dzka na podstawie protok(cid:243)ł(cid:243)w otrzymanych od komisji okręgowych stwierdza protokolarnie wyniki wybor(cid:243)w do rad powiatowych izby i przedkłada sprawozdanie z wybor(cid:243)w zarządowi izby.
 
-2. Zarząd izby zwołuje pierwsze posiedzenia rad powiatowych izby nie póêniej niż terminie 21 dni od dnia wyborów do rad powiatowych izby.
+2. Zarząd izby zwołuje pierwsze posiedzenia rad powiatowych izby nie p(cid:243)źniej niż w terminie 21 dni od dnia wybor(cid:243)w do rad powiatowych izby.
 
-**Art. 32.** Szczegółowe zasady itryb przeprowadzania wyborów do walnego zgromadzenia, tym do rady powiatowej izby, określa, wdrodze uchwały, Krajowa Rada Izb Rolniczych.
+**Art. 32.** Szczeg(cid:243)łowe zasady i tryb przeprowadzania wybor(cid:243)w do walnego zgromadzenia, w tym do rady powiatowej izby, określa, w drodze uchwały, Krajowa Rada Izb Rolniczych.
 
-**Art. 33.** Pierwsze posiedzenie nowo wybranego walnego zgromadzenia zwołuje ustępujący zarząd, nie póêniej niż terminie 42 dni od dnia wyborów do rad powiatowych izby. Do czasu wyboru przewodniczącego obrady pierwszego posiedzenia walnego zgromadzenia prowadzi najstarszy wiekiem członek walnego zgromadzenia obecny na posiedzeniu.”;
+**Art. 33.** Pierwsze posiedzenie nowo wybranego walnego zgromadzenia zwołuje ustępujący zarząd, nie p(cid:243)źniej niż w terminie 42 dni od dnia wybor(cid:243)w do rad powiatowych izby. Do czasu wyboru przewodniczącego obrady pierwszego posiedzenia walnego zgromadzenia prowadzi najstarszy wiekiem członek walnego zgromadzenia obecny na posiedzeniu.(cid:148);
 
-**Art. 42b.** Członkom Krajowej Rady, komisji problemowych, zarządu oraz komisji rewizyjnej Krajowej Rady przysługują diety oraz zwrot kosztów podróży służbowych na zasadach określonych przez Krajową Radę.”;
+**Art. 42b.** Członkom Krajowej Rady, komisji problemowych, zarządu oraz komisji rewizyjnej Krajowej Rady przysługują diety oraz zwrot koszt(cid:243)w podr(cid:243)ży służbowych na zasadach określonych przez Krajową Radę.(cid:148);
 
-**Art. 44.** Szczegółowe zasady organizacji i gospodarki finansowej Krajowej Rady określa jej statut.”;
+**Art. 44.** Szczeg(cid:243)łowe zasady organizacji i gospodarki finansowej Krajowej Rady określa jej statut.(cid:148);
 
-**Art. 2.** Wustawie zdnia 26 marca 1982 r. oscalaniu i wymianie gruntów (Dz. U. z 1989 r. 58, poz. 349, z 1994 r. 127, poz. 627, z 1998 r. 106, poz. 668 iz2000 r. 12, poz. 136) wart. 10 wust. 1 wpkt 4 kropkę zastępuje się przecinkiem i dodaje się pkt 5 wbrzmieniu: Ń5) przedstawiciel izby rolniczej, na której terenie działania są położone grunty objęte scaleniem.”
+**Art. 2.** W ustawie z dnia 26 marca 1982 r. o scalaniu i wymianie grunt(cid:243)w (Dz.U. z 1989 r. Nr 58, poz. 349, z 1994 r. Nr 127, poz. 627, z 1998 r. Nr 106, poz. 668 i z 2000 r. Nr 12, poz. 136) w art. 10 w ust. 1 w pkt 4 kropkę zastępuje się przecinkiem i dodaje się pkt 5 w brzmieniu: (cid:132)5) przedstawiciel izby rolniczej, na kt(cid:243)rej terenie działania są położone grunty objęte scaleniem.(cid:148).
 
-**Art. 3.** W ustawie z dnia 15 listopada 1984 r. o podatku rolnym (Dz. U. z1993 r. 94, poz. 431, z1994 r. 1, poz. 3, z 1996 r. 91, poz. 409, z 1997 r. 43, poz. 272 i 137, poz. 926 oraz z 1998 r. 108, poz. 681) art. 5 wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 15 listopada 1984 r. o podatku rolnym (Dz.U. z 1993 r. Nr 94, poz. 431, z 1994 r. Nr 1, poz. 3, z 1996 r. Nr 91, poz. 409, z 1997 r. Nr 43, poz. 272 i Nr 137, poz. 926 oraz z 1998 r. Nr 108, poz. 681) w art. 5 wprowadza się następujące zmiany:
 
-**Art. 5.** W ustawie z dnia 7 czerwca 1990 r. o utworzeniu Agencji Rynku Rolnego (Dz. U. z1997 r. 142, poz. 951, z 2000 r. 48, poz. 550 i z 2001 r. 29, poz.320) wart. 7 ust. 3 otrzymuje brzmienie: Ń3. Członków Rady będących przedstawicielami organizacji producentów rolnych liczbie 8, tym producentów związanych z przetwórstwem rolno-spożywczym, handlem, i konsumentów oraz przedstawiciela Krajowej Rady Izb Rolniczych powołuje i odwołuje Prezes Rady Ministrów, na wniosek właściwych organów zainteresowanych organizacji.”
+**Art. 4.** W ustawie z dnia 18 kwietnia 1985 r. o rybactwie śr(cid:243)dlądowym (Dz.U. z 1999 r. Nr 66, poz. 750 i z 2000 r. Nr 120, poz. 1268) w art. 15 po wyrazie (cid:132)Wojewoda(cid:148) dodaje się wyrazy (cid:132) , po zasięgnięciu opinii izby rolniczej,(cid:148).
 
-**Art. 6.** Wustawie zdnia 3 lutego 1995 r. oochronie gruntów rolnych i leśnych (Dz. U. 16, poz. 78, z 1997 r. 60, poz. 370, 80, poz. 505 i 160, poz.1079, z1998 r. 106, poz. 668 oraz z2000 r. 12, poz. 136 iNr 120, poz. 1268) wprowadza się następujące zmiany:
+**Art. 5.** W ustawie z dnia 7 czerwca 1990 r. o utworzeniu Agencji Rynku Rolnego (Dz.U. z 1997 r. Nr 142, poz. 951, z 2000 r. Nr 48, poz. 550 i z 2001 r. Nr 29, poz. 320) w art. 7 ust. 3 otrzymuje brzmienie: (cid:132)3. Członk(cid:243)w Rady będących przedstawicielami organizacji producent(cid:243)w rolnych w liczbie 8, w tym producent(cid:243)w związanych z przetw(cid:243)rstwem rolnospożywczym, handlem, i konsument(cid:243)w oraz przedstawiciela Krajowej Rady Izb Rolniczych powołuje i odwołuje Prezes Rady Ministr(cid:243)w, na wniosek właściwych organ(cid:243)w zainteresowanych organizacji.(cid:148).
 
-**Art. 7.** W ustawie z dnia 13 paêdziernika 1995 r. Prawo łowieckie (Dz. U. 147, poz. 713, z1997 r. Nr14, poz. 72, 60, poz. 369, 88, poz. 554, 110, poz. 715 i 133, poz. 884, z 1998 r. 106, poz. 668, z1999 r. 40, poz. 401 oraz z2000 r. 120, poz. 1268) wprowadza się następujące zmiany:
+**Art. 6.** W ustawie z dnia 3 lutego 1995 r. o ochronie grunt(cid:243)w rolnych i leśnych (Dz.U. Nr 16, poz. 78, z 1997 r. Nr 60, poz. 370, Nr 80, poz. 505 i Nr 160, poz. 1079, z 1998 r. Nr 106, poz. 668 oraz z 2000 r. Nr 12, poz. 136 i Nr 120, poz. 1268) wprowadza się następujące zmiany:
 
-**Art. 1.** W ustawie z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U. 79, poz. 484 i 80, poz. 511, z 2000 r. 48, poz. 550, 60, poz.693 iNr 86, poz. 958 oraz z2001 r. 16, poz. 167) wprowadza się następujące zmiany:
+**Art. 7.** W ustawie z dnia 13 października 1995 r. - Prawo łowieckie (Dz. U. Nr 147, poz. 713, z 1997 r. Nr 14, poz. 72, Nr 60, poz. 369, Nr 88, poz. 554, Nr 110, poz. 715 i Nr 133, poz. 884, z 1998 r. Nr 106, poz. 668, z 1999 r. Nr 40, poz. 401 oraz z 2000 r. Nr 120, poz. 1268) wprowadza się następujące zmiany:
 
-**Art. 10.** Przedstawiciel Krajowej Rady Izb RolniŃ3. Kadencja walnych zgromadzeń, o których mo- czych, októrym mowa wart. 7 ust. 3 ustawy wymieniowa wust. 2, upływa zdniem, wktórym upływa nej wart. 5, zostanie powołany po raz pierwszy do Rakadencja organów stanowiących jednostek sa- dy Agencji Rynku Rolnego na kadencję następującą po morządu terytorialnego wybranych wybo- kadencji, wczasie której ustawa wchodzi wżycie. rach wdniu 11 paêdziernika 1998 r.”
+**Art. 8.** W ustawie z dnia 29 grudnia 1998 r. o zmianie niekt(cid:243)rych ustaw w związku z wdrożeniem reformy ustrojowej państwa (Dz.U. Nr 162, poz. 1126) w art. 33 ust. 3 otrzymuje brzmienie: (cid:132)3. Kadencja walnych zgromadzeń, o kt(cid:243)rych mowa w ust. 2, upływa z dniem, w kt(cid:243)rym upływa kadencja organ(cid:243)w stanowiących jednostek samorządu terytorialnego wybranych w wyborach w dniu 11 października 1998 r.(cid:148).
 
-**Art. 11.** Ustawa wchodzi wżycie po upływie 14 dni
+**Art. 9.** W ustawie z dnia 9 listopada 2000 r. o dostępie do informacji o środowisku i jego ochronie oraz o ocenach oddziaływania na środowisko (Dz.U. Nr 109, poz. 1157 oraz z 2001 r. Nr 73, poz. 761 i Nr 76, poz. 811) wprowadza się następujące zmiany:
 
-**Art. 9.** Wustawie zdnia 9 listopada 2000 r. odostę- od dnia ogłoszenia. pie do informacji o środowisku i jego ochronie oraz o ocenach oddziaływania na środowisko (Dz. U. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski niem ust. 2,
+**Art. 10.** Przedstawiciel Krajowej Rady Izb Rolniczych, o kt(cid:243)rym mowa w art. 7 ust. 3 ustawy wymienionej w art. 5, zostanie powołany po raz pierwszy do Rady Agencji Rynku Rolnego na kadencję następującą po kadencji, w czasie kt(cid:243)rej ustawa wchodzi w życie.
+
+**Art. 11.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

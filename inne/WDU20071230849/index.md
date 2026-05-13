@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# Ustawa z dnia 15 czerwca 2007 r. o lekarzu sądowym
+# o lekarzu sądowym
+
+*USTAWA z dnia 15 czerwca 2007 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,34 +26,33 @@ domain: null
 | Ostatnia zmiana | 2025-12-29 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071230849) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/849/text.pdf) |
 
-Zasady wykonywania czynności lekarza sądowego 5. Wpis do rejestru obejmuje:
-1) kolejny numer wystawionego zaświadczenia;
-
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.**
 
 1. Ustawa określa:
 
-- **1)** warunki oraz tryb nabywania iutraty prawa do wykonywania czynności lekarza sądowego;
+- **1)** warunki oraz tryb nabywania i utraty prawa do wykonywania czynności lekarza sądowego;
 - **2)** zasady wykonywania czynności lekarza sądowego;
 - **3)** zasady finansowania czynności lekarza sądowego.
 
-2. Przepisy ustawy stosuje się w przypadkach dotyczących usprawiedliwiania niestawiennictwa z powodu choroby, na wezwanie lub zawiadomienie sądu lub organu prowadzącego postępowanie karne, zwanych dalej Ńorganami uprawnionymi”, w postępowaniu prowadzonym na podstawie ustawy z dnia 17 listopada 1964 Kodeks postępowania cywilnego (Dz. U. 43, 296, z póên. zm. ) oraz ustawy z dnia 6 czerwca 1997 Kodeks postępowania karnego (Dz. U. 89, 555, z póên. zm.
+2. Przepisy ustawy stosuje się w przypadkach dotyczących usprawiedliwiania niestawiennictwa z powodu choroby, na wezwanie lub zawiadomienie sądu lub organu prowadzącego postępowanie karne, zwanych dalej „organami uprawnionymi”, w postępowaniu prowadzonym na podstawie ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, z późn. zm. ) oraz ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. Nr 89, poz. 555, z późn. zm. ), stron, ich przedstawicieli ustawowych, pełnomocników, świadków, oskarżonych, obrońców i innych uczestników postępowania, zwanych dalej „uczestnikami postępowania”.
 
 3. Przepisów ustawy nie stosuje się do osób pozbawionych wolności, których usprawiedliwianie niestawiennictwa z powodu choroby regulują odrębne przepisy.
 
 **Art. 2.**
 
-1. Lekarzem sądowym wrozumieniu ustawy jest lekarz, z którym prezes sądu okręgowego zawarł umowę owykonywanie czynności lekarza sądowego.
+1. Lekarzem sądowym w rozumieniu ustawy jest lekarz, z którym prezes sądu okręgowego zawarł umowę o wykonywanie czynności lekarza sądowego.
 
-2. Lekarz sądowy wystawia zaświadczenia potwierdzające zdolność albo niezdolność do stawienia się na wezwanie lub zawiadomienie organu uprawnionego uczestników postępowania z powodu choroby, zwane dalej Ńzaświadczeniami”, na obszarze właściwości danego sądu okręgowego.
+2. Lekarz sądowy wystawia zaświadczenia potwierdzające zdolność albo niezdolność do stawienia się na wezwanie lub zawiadomienie organu uprawnionego uczestników postępowania z powodu choroby, zwane dalej „zaświadczeniami”, na obszarze właściwości danego sądu okręgowego.
 
 3. Lekarz sądowy przy wykonywaniu czynności związanych z wydawaniem zaświadczeń korzysta z ochrony prawnej przysługującej funkcjonariuszom publicznym.
 
-**Art. 3.** Prezes sądu okręgowego określa liczbę lekarzy sądowych dla obszaru właściwości sądu okręgo), stron, ich wego, mając na uwadze zapewnienie na tym obszarze przedstawicieli ustawowych, pełnomocników, świad- dostępu do lekarza sądowego. ków, oskarżonych, obrońców iinnych uczestników postępowania, zwanych dalej Ńuczestnikami postępowa- Art. 4. W zakresie określonym w ustawie uprawnia”. nienia prezesa sądu okręgowego przysługują prezesoUSTAWA z dnia 15 czerwca 2007 o lekarzu sądowym ——————— wi wojskowego sądu okręgowego, auprawnienia prokuratora przysługują prokuratorowi wojskowej jednostki organizacyjnej prokuratury.
+**Art. 3.** Prezes sądu okręgowego określa liczbę lekarzy sądowych dla obszaru właściwości sądu okręgowego, mając na uwadze zapewnienie na tym obszarze dostępu do lekarza sądowego.
 
-#### Rozdział 2 Nabywanie utrata prawa do wykonywania czynności lekarza sądowego
+**Art. 4.** W zakresie określonym w ustawie uprawnienia prezesa sądu okręgowego przysługują prezesowi wojskowego sądu okręgowego, a uprawnienia prokuratora przysługują prokuratorowi wojskowej jednostki organizacyjnej prokuratury.
+
+#### Rozdział 2 Nabywanie i utrata prawa do wykonywania czynności lekarza sądowego
 
 **Art. 5.**
 
@@ -72,71 +73,105 @@ Zasady wykonywania czynności lekarza sądowego 5. Wpis do rejestru obejmuje:
 
 **Art. 6.**
 
-1. Prezes sądu okręgowego zwraca się z pisemnym wnioskiem do właściwej okręgowej rady lekarskiej o przekazanie listy kandydatów na lekarzy sądowych, określając liczbę lekarzy wdanych specjalnościach.
+1. Prezes sądu okręgowego zwraca się z pisemnym wnioskiem do właściwej okręgowej rady lekarskiej o przekazanie listy kandydatów na lekarzy sądowych, określając liczbę lekarzy w danych specjalnościach.
 
 2. Okręgowa rada lekarska, w terminie 90 dni od dnia otrzymania wniosku, przekazuje prezesowi sądu okręgowego listę kandydatów na lekarzy sądowych wraz z rekomendacjami.
 
-3. Prezes sądu okręgowego dokonuje wyboru z listy kandydatów na lekarzy sądowych lekarzy, z którymi zamierza zawrzeć umowę owykonywanie czynności lekarza sądowego.
+3. Prezes sądu okręgowego dokonuje wyboru z listy kandydatów na lekarzy sądowych lekarzy, z którymi zamierza zawrzeć umowę o wykonywanie czynności lekarza sądowego.
 
-4. Przed zawarciem umowy o wykonywanie czynności lekarza sądowego prezes sądu okręgowego jest obowiązany poinformować kandydata na lekarza są5. Przed zawarciem umowy o wykonywanie czynności lekarza sądowego kandydat na lekarza sądowego składa prezesowi sądu okręgowego:
+4. Przed zawarciem umowy o wykonywanie czynności lekarza sądowego prezes sądu okręgowego jest obowiązany poinformować kandydata na lekarza sądowego o przepisach w zakresie usprawiedliwiania niestawiennictwa uczestników postępowań w postępowaniu prowadzonym na podstawie ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego albo ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego. Lekarz składa pisemne oświadczenie o znajomości tych przepisów.
+
+5. Przed zawarciem umowy o wykonywanie czynności lekarza sądowego kandydat na lekarza sądowego składa prezesowi sądu okręgowego:
 
 - **1)** oświadczenie, że jest świadomy odpowiedzialności karnej za poświadczenie w dokumencie nieprawdy;
-- **2)** oświadczenie, że nie jest prowadzone przeciwko niemu postępowanie o przestępstwo ścigane zoskarżenia publicznego lub przestępstwo skarbowe;
-- **3)** zaświadczenie o niekaralności.
+- **2)** oświadczenie, że nie jest prowadzone przeciwko niemu postępowanie o przestępstwo ścigane z oskarżenia publicznego lub przestępstwo skarbowe;
+- **3)** (uchylony).
+
+6. Prezes sądu okręgowego zasięga z Krajowego Rejestru Karnego informacji o kandydacie na lekarza sądowego.
 
 **Art. 7.**
 
 1. Prezes sądu okręgowego prowadzi wykaz lekarzy sądowych dla obszaru właściwości danego sądu okręgowego.
 
-2. W wykazie lekarzy sądowych zamieszcza się imię nazwisko lekarza sądowego, wraz z numerem telefonu, numer prawa wykonywania zawodu, informację o specjalizacji, terminie rozpoczęcia zakończenia wykonywania czynności lekarza sądowego oraz miejscu, dniach godzinach przyjęć.
+2. W wykazie lekarzy sądowych zamieszcza się imię i nazwisko lekarza sądowego, wraz z numerem telefonu, numer prawa wykonywania zawodu, informację o specjalizacji, terminie rozpoczęcia i zakończenia wykonywania czynności lekarza sądowego oraz miejscu, dniach i godzinach przyjęć.
 
-3. Prezes sądu okręgowego przekazuje wykaz lekarzy sądowych prezesom sądów rejonowych, prezesom sądów apelacyjnych oraz Pierwszemu Prezesowi Sądu Najwyższego, prokuraturze, komendom komisariatom policji, innym organom uprawnionym do prowadzenia dochodzeń oraz okręgowej radzie adwokackiej iradzie okręgowej izby radców prawnych, właściwym dla obszaru właściwości danego sądu okręgowego.
+3. Prezes sądu okręgowego przekazuje wykaz lekarzy sądowych prezesom sądów rejonowych, prezesom sądów apelacyjnych oraz Pierwszemu Prezesowi Sądu Najwyższego, prokuraturze, komendom i komisariatom policji, innym organom uprawnionym do prowadzenia dochodzeń oraz okręgowej radzie adwokackiej i radzie okręgowej izby radców prawnych, właściwym dla obszaru właściwości danego sądu okręgowego.
 
 4. Lekarz sądowy jest obowiązany niezwłocznie zgłosić prezesowi sądu okręgowego zmiany danych zamieszczonych w wykazie.
 
-5. Prezes sądu okręgowego dokonuje zmian danych zamieszczonych w wykazie przekazuje podmiotom, o których mowa w ust. 3, informacje o dokonanych zmianach.
+5. Prezes sądu okręgowego dokonuje zmian danych zamieszczonych w wykazie i przekazuje podmiotom, o których mowa w ust. 3, informacje o dokonanych zmianach.
 
 **Art. 8.**
 
-1. Informacje o miejscach, dniach godzinach przyjęć lekarzy sądowych, wraz z ich imieniem inazwiskiem oraz numerem telefonu, wywiesza się na tablicach ogłoszeń w siedzibach podmiotów, o których mowa w art. 7 ust. 3, a także w miejscach wykonywania zawodu lekarza przez lekarzy sądowych.
+1. Informacje o miejscach, dniach i godzinach przyjęć lekarzy sądowych, wraz z ich imieniem i nazwiskiem oraz numerem telefonu, wywiesza się na tablicach ogłoszeń w siedzibach podmiotów, o których mowa w art. 7 ust. 3, a także w miejscach wykonywania zawodu lekarza przez lekarzy sądowych.
 
-2. Wykaz lekarzy sądowych jest prowadzony wformie pisemnej. Dodatkowo wykaz może być prowadzony w formie elektronicznej udostępniony na ogólnodostępnej stronie internetowej sądu okręgowego.
+2. Wykaz lekarzy sądowych jest prowadzony w formie pisemnej. Dodatkowo wykaz może być prowadzony w formie elektronicznej i udostępniony na ogólnodostępnej stronie internetowej sądu okręgowego.
 
-3. Wykaz lekarzy sądowych prezes sądu okręgowego przesyła właściwej okręgowej radzie lekarskiej. zawodu albo ograniczenia wykonywania określonych czynności medycznych bądê zakończonych prowadzonych postępowaniach karnych lub dotyczących odpowiedzialności zawodowej.
+3. Wykaz lekarzy sądowych prezes sądu okręgowego przesyła właściwej okręgowej radzie lekarskiej.
 
-2. Lekarz sądowy jest obowiązany niezwłocznie poinformować prezesa sądu okręgowego o niespełnianiu warunków, o których mowa w art. 5 ust. 1 pkt1—3, oraz o prowadzonych postępowaniach, o których mowa w art. 5 ust. 2.
+**Art. 9.**
 
-3. W przypadku uzyskania informacji, o których mowa w ust. 1, świadczących o niespełnianiu warunków, o których mowa w art. 5, lub informacji, o których mowa wust. 2, prezes sądu okręgowego rozwiązuje umowę o wykonywanie czynności lekarza sądowego ze skutkiem natychmiastowym. Prezes sądu okręgowego informuje właściwą okręgową radę lekarską o rozwiązaniu umowy z lekarzem sądowym.
+1. Okręgowa rada lekarska niezwłocznie przekazuje prezesowi sądu okręgowego informacje, które mogą mieć wpływ na wykonywanie czynności lekarza sądowego, w szczególności o podjętych uchwałach w przedmiocie pozbawienia prawa wykonywania zawodu, zawieszenia w prawie wykonywania zawodu albo ograniczenia wykonywania określonych czynności medycznych bądź zakończonych i prowadzonych postępowaniach karnych lub dotyczących odpowiedzialności zawodowej.
 
-**Art. 10.** W razie powzięcia uzasadnionych wątpliwości co do rzetelności zaświadczenia wystawionego przez lekarza sądowego prezes sądu okręgowego mowezwania lub zawiadomienia okazaniu dokumentu potwierdzającego tożsamość.
+2. Lekarz sądowy jest obowiązany niezwłocznie poinformować prezesa sądu okręgowego o niespełnianiu warunków, o których mowa w art. 5 ust. 1 pkt 1-3, oraz o prowadzonych postępowaniach, o których mowa w art. 5 ust. 2.
+
+3. W przypadku uzyskania informacji, o których mowa w ust. 1, świadczących o niespełnianiu warunków, o których mowa w art. 5, lub informacji, o których mowa w ust. 2, prezes sądu okręgowego rozwiązuje umowę o wykonywanie czynności lekarza sądowego ze skutkiem natychmiastowym. Prezes sądu okręgowego informuje właściwą okręgową radę lekarską o rozwiązaniu umowy z lekarzem sądowym.
+
+**Art. 10.** W razie powzięcia uzasadnionych wątpliwości co do rzetelności zaświadczenia wystawionego przez lekarza sądowego prezes sądu okręgowego może rozwiązać umowę o wykonywanie czynności lekarza sądowego ze skutkiem natychmiastowym. Przepis art. 9 ust. 3 stosuje się odpowiednio.
+
+#### Rozdział 3 Zasady wykonywania czynności lekarza sądowego
+
+**Art. 11.** Lekarz sądowy wystawia zaświadczenie po uprzednim osobistym zbadaniu uczestnika postępowania i po zapoznaniu się z dostępną dokumentacją medyczną.
+
+**Art. 12.**
+
+1. Lekarz sądowy wystawia zaświadczenia w miejscach, dniach i godzinach ustalonych na podstawie umowy o wykonywanie czynności lekarza sądowego.
+
+2. Właściwy do wystawienia zaświadczenia jest lekarz sądowy objęty wykazem lekarzy sądowych dla obszaru danego sądu okręgowego, właściwego dla miejsca pobytu uczestnika postępowania.
+
+3. Jeżeli stan zdrowia uczestnika postępowania uniemożliwia stawienie się na badanie, lekarz sądowy przeprowadza badanie i wydaje zaświadczenie w miejscu pobytu tej osoby.
+
+4. W przypadku pobytu uczestnika postępowania w szpitalu, hospicjum stacjonarnym albo innym zakładzie opieki zdrowotnej, przeznaczonym dla osób, których stan zdrowia wymaga udzielania całodobowych świadczeń zdrowotnych w odpowiednio urządzonym, stałym pomieszczeniu, lekarz sądowy może wydać zaświadczenie na podstawie udostępnionej dokumentacji, bez osobistego badania uczestnika postępowania. Przyczynę odstąpienia od osobistego badania lekarz sądowy wskazuje w zaświadczeniu.
+
+**Art. 13.** Zaświadczenie może być wystawione po okazaniu wezwania lub zawiadomienia organu uprawnionego bądź po złożeniu oświadczenia o otrzymaniu wezwania lub zawiadomienia i okazaniu dokumentu potwierdzającego tożsamość.
 
 **Art. 14.**
 
 1. Uczestnik postępowania jest obowiązany przedstawić lekarzowi sądowemu posiadaną dokumentację medyczną z przebiegu swojego leczenia.
 
-2. Zakłady opieki zdrowotnej oraz lekarze udzielający świadczeń zdrowotnych są obowiązani niezwłocznie, na żądanie lekarza sądowego, udostępnić mu dokumentację medyczną zprzebiegu leczenia osoby ubiegającej się o zaświadczenie.
+2. Zakłady opieki zdrowotnej oraz lekarze udzielający świadczeń zdrowotnych są obowiązani niezwłocznie, na żądanie lekarza sądowego, udostępnić mu dokumentację medyczną z przebiegu leczenia osoby ubiegającej się o zaświadczenie.
 
 **Art. 15.**
 
-1. Lekarz sądowy prowadzi rejestr wystawionych zaświadczeń, zwany dalej Ńrejestrem”.
+1. Lekarz sądowy prowadzi rejestr wystawionych zaświadczeń, zwany dalej „rejestrem”.
 
 2. Rejestr prowadzi się w formie pisemnej, odrębnie na każdy rok kalendarzowy.
 
-3. Rejestr zawiera na górze każdej wypełnionej strony wskazanie nazwiska imion lekarza sądowego, sądu, na którego obszarze właściwości wykonuje on czynności lekarza sądowego oraz określenie roku każe rozwiązać umowę o wykonywanie czynności leka- lendarzowego. rza sądowego ze skutkiem natychmiastowym. Przepis art. 9 ust. 3 stosuje się odpowiednio. 4. Rejestr na dole każdej wypełnionej strony jest podpisywany przez lekarza sądowego opatrywany
+3. Rejestr zawiera na górze każdej wypełnionej strony wskazanie nazwiska i imion lekarza sądowego, sądu, na którego obszarze właściwości wykonuje on czynności lekarza sądowego oraz określenie roku kalendarzowego.
 
-#### Rozdział 3 jego pieczątką.
+4. Rejestr na dole każdej wypełnionej strony jest podpisywany przez lekarza sądowego i opatrywany jego pieczątką.
 
-**Art. 11.** Lekarz sądowy wystawia zaświadczenie po uprzednim osobistym zbadaniu uczestnika postępo- 2) datę wystawienia zaświadczenia; wania po zapoznaniu się z dostępną dokumentacją 3) nazwisko imiona uczestnika postępowania oraz medyczną. numer PESEL lub datę urodzenia w przypadku
+5. Wpis do rejestru obejmuje:
 
-**Art. 12.**
+- **1)** kolejny numer wystawionego zaświadczenia;
+- **2)** datę wystawienia zaświadczenia;
+- **3)** nazwisko i imiona uczestnika postępowania oraz numer PESEL lub datę urodzenia - w przypadku braku numeru PESEL;
+- **4)** nazwę organu uprawnionego, który wystawił wezwanie lub zawiadomienie, i sygnaturę akt sprawy;
+- **5)** numer statystyczny choroby zgodny z Międzynarodową Statystyczną Klasyfikacją Chorób i Problemów Zdrowotnych;
+- **6)** potwierdzenie zdolności albo niezdolności stawienia się na wezwanie lub zawiadomienie;
+- **7)** określenie przyczyny odstąpienia od osobistego badania uczestnika postępowania w przypadku, o którym mowa w art. 12 ust. 4;
+- **8)** nazwę i adres podmiotu, w którym lekarz sądowy zapoznał się z dokumentacją medyczną uczestnika postępowania lub który udostępnił tę dokumentację;
+- **9)** informację o kosztach dojazdu do uczestnika postępowania w przypadku, o którym mowa w art. 12 ust. 3.
 
-1. Lekarz sądowy wystawia zaświadczenia braku numeru PESEL; w miejscach, dniach godzinach ustalonych na pod- 4) nazwę organu uprawnionego, który wystawił westawie umowy o wykonywanie czynności lekarza są- zwanie lub zawiadomienie, isygnaturę akt sprawy; dowego.
+6. Do rejestru, o którym mowa w ust. 1, mają zastosowanie przepisy o ochronie danych osobowych.
 
-- **5)** numer statystyczny choroby zgodny z Międzyna2. Właściwy do wystawienia zaświadczenia jest le- rodową Statystyczną Klasyfikacją Chorób iProblekarz sądowy objęty wykazem lekarzy sądowych dla mów Zdrowotnych; obszaru danego sądu okręgowego, właściwego dla 6) potwierdzenie zdolności albo niezdolności stawiemiejsca pobytu uczestnika postępowania. nia się na wezwanie lub zawiadomienie;
+7. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzór zaświadczenia wystawianego przez lekarza sądowego, uwzględniając dane i informacje podlegające wpisowi do rejestru oraz wzór rejestru wystawionych zaświadczeń.
 
-3. Jeżeli stan zdrowia uczestnika postępowania 7) określenie przyczyny odstąpienia od osobistego uniemożliwia stawienie się na badanie, lekarz sądowy badania uczestnika postępowania w przypadku, przeprowadza badanie wydaje zaświadczenie o którym mowa w art. 12 ust. 4; w miejscu pobytu tej osoby. 8) nazwę iadres podmiotu, wktórym lekarz sądowy za4. W przypadku pobytu uczestnika postępowania poznał się zdokumentacją medyczną uczestnika powszpitalu, hospicjum stacjonarnym albo innym zakła- stępowania lub który udostępnił tę dokumentację; dzie opieki zdrowotnej, przeznaczonym dla osób, któ- 9) informację o kosztach dojazdu do uczestnika porych stan zdrowia wymaga udzielania całodobowych stępowania w przypadku, o którym mowa świadczeń zdrowotnych w odpowiednio urządzonym, w art.12 ust. 3. stałym pomieszczeniu, lekarz sądowy może wydać zaświadczenie na podstawie udostępnionej dokumenta- 6. Do rejestru, o którym mowa w ust. 1, mają zaArt. 16. 1. Lekarz sądowy ma obowiązek udostępnić rejestr na żądanie prezesa sądu okręgowego, sądu lub prokuratora.
+**Art. 16.**
 
-2. Po zakończeniu roku kalendarzowego, a także wrazie rozwiązania umowy owykonywanie czynności lekarza sądowego, lekarz sądowy niezwłocznie przekazuje rejestr do właściwego sądu okręgowego.
+1. Lekarz sądowy ma obowiązek udostępnić rejestr na żądanie prezesa sądu okręgowego, sądu lub prokuratora.
+
+2. Po zakończeniu roku kalendarzowego, a także w razie rozwiązania umowy o wykonywanie czynności lekarza sądowego, lekarz sądowy niezwłocznie przekazuje rejestr do właściwego sądu okręgowego.
 
 3. Rejestr jest przechowywany we właściwym sądzie okręgowym przez 15 lat, licząc od końca roku kalendarzowego, w którym nastąpiło przekazanie.
 
@@ -144,9 +179,9 @@ Zasady wykonywania czynności lekarza sądowego 5. Wpis do rejestru obejmuje:
 
 1. Organ uprawniony może podjąć niezbędne czynności sprawdzające dla zweryfikowania rzetelności zaświadczenia.
 
-2. Wrazie wątpliwości co do rzetelności wystawionego przez lekarza sądowego zaświadczenia organ uprawniony niezwłocznie zawiadamia właściwego prezesa sądu okręgowego, prokuraturę iokręgową radę lekarską.
+2. W razie wątpliwości co do rzetelności wystawionego przez lekarza sądowego zaświadczenia organ uprawniony niezwłocznie zawiadamia właściwego prezesa sądu okręgowego, prokuraturę i okręgową radę lekarską.
 
-3. Prokurator niezwłocznie zawiadamia prezesa sądu okręgowego o wszczęciu ukończeniu postępowania przeprowadzonego na podstawie informacji, októrej mowa w ust. 2.
+3. Prokurator niezwłocznie zawiadamia prezesa sądu okręgowego o wszczęciu i ukończeniu postępowania przeprowadzonego na podstawie informacji, o której mowa w ust. 2.
 
 #### Rozdział 4 Zasady finansowania wystawiania zaświadczeń
 
@@ -156,45 +191,48 @@ Zasady wykonywania czynności lekarza sądowego 5. Wpis do rejestru obejmuje:
 
 2. W przypadku konieczności dojazdu do miejsca pobytu uczestnika postępowania lekarzowi sądowemu przysługuje zwrot kosztów dojazdu na zasadach określonych w przepisach dotyczących pracowników zatrudnionych w państwowej lub samorządowej jednostce sfery budżetowej z tytułu podróży służbowej na obszarze kraju.
 
-3. Koszty wystawienia zaświadczenia, o których mowa wust. 1 i2, są finansowane zbudżetu państwa, z części, której dysponentem jest Minister Sprawiedliwości, awodniesieniu do sądów wojskowych, zczęści, której dysponentem jest Minister Obrony Narodowej.
+3. Koszty wystawienia zaświadczenia, o których mowa w ust. 1 i 2, są finansowane z budżetu państwa, z części, której dysponentem jest Minister Sprawiedliwości, a w odniesieniu do sądów wojskowych, z części, której dysponentem jest Minister Obrony Narodowej.
 
-4. Minister Sprawiedliwości, w porozumieniu z Ministrem Obrony Narodowej ministrem właściwym do spraw zdrowia, określi, wdrodze rozporządzenia, wysokość stawki kwotowej tryb finansowania wynagrodzenia, o którym mowa w ust. 1, oraz kosztów, októrych mowa wust. 2, mając na uwadze zakres czynności wykonywanych przez lekarzy sądowych, atakże wzór zestawienia wystawionych zaświadczeń.
+4. Minister Sprawiedliwości, w porozumieniu z Ministrem Obrony Narodowej i ministrem właściwym do spraw zdrowia, określi, w drodze rozporządzenia, wysokość stawki kwotowej i tryb finansowania wynagrodzenia, o którym mowa w ust. 1, oraz kosztów, o których mowa w ust. 2, mając na uwadze zakres czynności wykonywanych przez lekarzy sądowych, a także wzór zestawienia wystawionych zaświadczeń.
 
 **Art. 19.**
 
-1. Prezes sądu okręgowego, na wniosek organu uprawnionego, wstrzymuje wypłatę wynagro2. Organ uprawniony niezwłocznie zawiadamia prezesa sądu okręgowego o ustaniu lub potwierdzeniu okoliczności skutkujących wstrzymaniem wypłaty wynagrodzenia.
+1. Prezes sądu okręgowego, na wniosek organu uprawnionego, wstrzymuje wypłatę wynagrodzenia:
+
+- **1)** w razie uzasadnionych wątpliwości co do rzetelności zaświadczenia wystawionego przez lekarza sądowego;
+- **2)** jeżeli zaświadczenie nie zawiera wszystkich wymaganych elementów.
+
+2. Organ uprawniony niezwłocznie zawiadamia prezesa sądu okręgowego o ustaniu lub potwierdzeniu okoliczności skutkujących wstrzymaniem wypłaty wynagrodzenia.
 
 **Art. 20.** Za wystawienie zaświadczenia poświadczającego nieprawdę co do okoliczności usprawiedliwiającej niestawiennictwo nie przysługuje wynagrodzenie.
 
 #### Rozdział 5 Zmiany w przepisach obowiązujących
 
-**Art. 21.** W ustawie z dnia 17 listopada 1964 Kodeks postępowania cywilnego (Dz. U. 43, poz.296, zpóên. zm. ) po art. 214 dodaje się art. 214 w brzmieniu: ŃArt. 214 . § 1. Usprawiedliwienie niestawiennictwa z powodu choroby stron, ich przedstawicieli ustawowych, pełnomocników, świadków innych uczestników postępowania, wymaga przedstawienia zaświadczenia potwierdzającego ——————— niemożność stawienia się na wezwanie lub zawiadomienie sądu, wystawionego przez lekarza sądowego.
+**Art. 21.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, z późn. zm. ) po art. 214 dodaje się art. 214 w brzmieniu: „Art. 214 . § 1. Usprawiedliwienie niestawiennictwa z powodu choroby stron, ich przedstawicieli ustawowych, pełnomocników, świadków i innych uczestników postępowania, wymaga przedstawienia zaświadczenia potwierdzającego niemożność stawienia się na wezwanie lub zawiadomienie sądu, wystawionego przez lekarza sądowego.
 
-**Art. 22.** W ustawie z dnia 30 sierpnia 1991 o zakładach opieki zdrowotnej (Dz. U. z 2007 14, poz.89) w art. 18 w ust. 3 pkt 4 otrzymuje brzmienie: Ń4) ministrowi właściwemu do spraw zdrowia, sądom, prokuratorom, lekarzom sądowym oraz sądom irzecznikom odpowiedzialności zawodowej, w związku z prowadzonym postępowaniem;”.
+**Art. 22.** W ustawie z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej (Dz. U. z 2007 r. Nr 14, poz. 89) w art. 18 w ust. 3 pkt 4 otrzymuje brzmienie: „4) ministrowi właściwemu do spraw zdrowia, sądom, prokuratorom, lekarzom sądowym oraz sądom i rzecznikom odpowiedzialności zawodowej, w związku z prowadzonym postępowaniem;”.
 
-**Art. 23.** Wustawie zdnia 5 grudnia 1996 ozawodach lekarza ilekarza dentysty (Dz. U. z2005 226, 1943 oraz z 2006 117, 790, 191, poz.1410 220, 1600) wprowadza się następujące zmiany:
+**Art. 23.** W ustawie z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2005 r. Nr 226, poz. 1943 oraz z 2006 r. Nr 117, poz. 790, Nr 191, poz. 1410 i Nr 220, poz. 1600) wprowadza się następujące zmiany:
 
-**Art. 24.** W ustawie z dnia 6 czerwca 1997 Kodeks postępowania karnego (Dz. U. 89, 555, z póên. zm. ) wprowadza się następujące zmiany:
+**Art. 24.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. Nr 89, poz. 555, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 25.** W ustawie z dnia 6 czerwca 1997 Kodeks karny wykonawczy (Dz. U. 90, 557, zpóên. zm. li o dopuszczenie do czynności, będąc uprawnionymi do wzięcia w niej udziału, wymaga przedstawienia zaświadczenia potwierdzającego niemożność stawienia ) po art. 115 dodaje się art. 115a wbrzmieniu: ŃArt. 115a. § 1. Osobie pozbawionej wolności, w razie choroby uniemożliwiającej stawiennictwo w postępowaniu prowadzonym przez sąd lub organ prowadzący postępowanie karne, na podstawie Kodeksu postępowania karnego, wktórym obecność osoby pozbawionej wolności była obowiązkowa lub gdy wnosiła ona o dopuszczenie do czynności, będąc uprawnioną do wzięcia w niej udziału lub przez sąd, na podstawie Kodeksu postępowania cywilnego, zaświadczenie usprawiedliwiające niestawiennictwo wystawia lekarz zakładu opieki zdrowotnej dla osób pozbawionych wolności.
+**Art. 25.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. Nr 90, poz. 557, z późn. zm. ) po art. 115 dodaje się art. 115a w brzmieniu: „Art. 115a. § 1. Osobie pozbawionej wolności, w razie choroby uniemożliwiającej stawiennictwo w postępowaniu prowadzonym przez sąd lub organ prowadzący postępowanie karne, na podstawie Kodeksu postępowania karnego, w którym obecność osoby pozbawionej wolności była obowiązkowa lub gdy wnosiła ona o dopuszczenie do czynności, będąc uprawnioną do wzięcia w niej udziału lub przez sąd, na podstawie Kodeksu postępowania cywilnego, zaświadczenie usprawiedliwiające niestawiennictwo wystawia lekarz zakładu opieki zdrowotnej dla osób pozbawionych wolności.
 
-**Art. 26.** W ustawie z dnia 28 lipca 2005 o kosz- Art. 28.Wykaz, októrym mowa wart. 7, prezes sątach sądowych w sprawach cywilnych (Dz. U. 167, du okręgowego sporządza po raz pierwszy do dnia 1398, z 2006 126, 876 oraz z 2007 31grudnia 2007 Nr21, 82, 560) w art. 5 w ust. 1 w pkt9 kropkę na końcu zdania zastępuje się średni- Art. 29. Ustawa wchodzi w życie z dniem 1 lutego kiem dodaje się pkt 10 w brzmieniu: 2008 r., zwyjątkiem art. 5—7 i28, które wchodzą wżyŃ10) koszty wystawienia zaświadczenia przez lekarza cie z dniem 1 sierpnia 2007 sądowego.”.
+**Art. 26.** W ustawie z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych (Dz. U. Nr 167, poz. 1398, z 2006 r. Nr 126, poz. 876 oraz z 2007 r. Nr 21, poz. 123 i Nr 82, poz. 560) w art. 5 w ust. 1 w pkt 9 kropkę na końcu zdania zastępuje się średnikiem i dodaje się pkt 10 w brzmieniu: „10) koszty wystawienia zaświadczenia przez lekarza sądowego.”.
 
-#### Rozdział 6 Przepisy przejściowe końcowe
+#### Rozdział 6 Przepisy przejściowe i końcowe
 
-**Art. 27.** Czynności procesowe dokonane przed wejściem wżycie ustawy na podstawie przepisów dotychczasowych są skuteczne. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński 850 USTAWA z dnia 15 czerwca 2007 o licencji syndyka
+**Art. 27.** Czynności procesowe dokonane przed wejściem w życie ustawy na podstawie przepisów dotychczasowych są skuteczne.
 
-#### Rozdział 1 Przepisy ogólne
+**Art. 28.** Wykaz, o którym mowa w art. 7, prezes sądu okręgowego sporządza po raz pierwszy do dnia 31 grudnia 2007 r.
 
-**Art. 1.** Ustawa określa zasady uzyskiwania tryb przyznawania licencji syndyka, odmowy jej przyznania, cofania zawieszania praw wynikających z tej licencji.
+**Art. 28a.**
 
-**Art. 2.** Licencja syndyka uprawnia do wykonywania czynności syndyka, nadzorcy sądowego izarządcy na podstawie ustawy zdnia 28 lutego 2003 Prawo upadłościowe naprawcze (Dz. U. 60, 535, z póên. zm. ).
+1. W okresie do dnia 31 grudnia 2008 r. lekarzem sądowym w rozumieniu ustawy jest również inny lekarz dopuszczony przez prezesa sądu okręgowego do wykonywania czynności lekarza sądowego.
 
-**Art. 3.**
+2. Dopuszczenie do wykonywania czynności lekarza sądowego odbywa się na podstawie zarządzenia prezesa sądu okręgowego w przypadku niemożności zawarcia dostatecznej liczby umów o wykonywanie czynności lekarza sądowego.
 
-1. Licencję syndyka może uzyskać osoba 7) nie była karana za przestępstwo lub przestępstwo fizyczna, która: skarbowe;
+3. Do lekarza dopuszczonego do wykonywania czynności lekarza sądowego nie stosuje się art. 5 ust. 1 pkt 4-6, art. 6, art. 7 i art. 15.
 
-- **1)** ma obywatelstwo państwa członkowskiego Unii 8) nie jest podejrzana albo oskarżona oprzestępstwo Europejskiej, Konfederacji Szwajcarskiej lub pań- ścigane z oskarżenia publicznego lub przestępstwa członkowskiego Europejskiego Porozumienia stwo skarbowe; o Wolnym Handlu (EFTA) strony umowy o Eu- 9) nie jest wpisana do rejestru dłużników niewypłaropejskim Obszarze Gospodarczym; calnych Krajowego Rejestru Sądowego;
-- **10)** złożyła z pozytywnym wynikiem egzamin przed Komisją Egzaminacyjną, powołaną przez Ministra ———————
-
+**Art. 29.** Ustawa wchodzi w życie z dniem 1 lutego 2008 r., z wyjątkiem art. 5-7 i 28, które wchodzą w życie z dniem 1 sierpnia 2007 r.
 

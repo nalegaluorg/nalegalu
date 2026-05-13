@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 4 stycznia 2023 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy języku migowym innych środkach komunikowania się
 
 | Pole | Wartość |
 |---|---|
@@ -24,9 +24,7 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000020) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/20/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ dnia 1 grudnia 2022 r.
-sprawie ogłoszenia jednolitego tekstu ustawy języku migowym i innych środkach komunikowania się
-1. Na podstawie art. 16 1 zdanie pierwsze ustawy dnia lipca 2000 r. ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. 2019 r. poz. 1461) ogłasza się załączniku niniejszego obwieszczenia jednolity tekst ustawy dnia 19 sierpnia 2011 r. języku migowym i innych środkach komunikowania się (Dz. U. 2017 r.
+1. Na podstawie art. 16 1 zdanie pierwsze ustawy dnia lipca 2000 r. ogłaszaniu aktów normatywnych niektórych innych aktów prawnych (Dz. U. 2019 r. poz. 1461) ogłasza się załączniku niniejszego obwieszczenia jednolity tekst ustawy dnia 19 sierpnia 2011 r. języku migowym innych środkach komunikowania się (Dz. U. 2017 r.
 poz. 1824), uwzględnieniem zmian wprowadzonych:
 1) ustawą dnia 12 marca 2022 r. pomocy obywatelom Ukrainy związku konfliktem zbrojnym terytorium tego państwa (Dz. U. poz. 583),
 2) ustawą dnia 8 kwietnia 2022 r. zmianie ustawy pomocy obywatelom Ukrainy związku konfliktem zbrojnym terytorium tego państwa oraz niektórych innych ustaw (Dz. U. poz. 830) oraz zmian wynikających przepisów ogłoszonych przed dniem 30 listopada 2022 r.
@@ -35,16 +33,12 @@ poz. 1824), uwzględnieniem zmian wprowadzonych:
 1) art. 12 10–16, art. 72 oraz art. 89, które wchodzą życie dniem następującym po dniu ogłoszenia;
 2) art. 95, który wchodzi życie dniem 27 marca 2022 r.”;
 2) art. 33 ustawy dnia 8 kwietnia 2022 r. zmianie ustawy pomocy obywatelom Ukrainy związku konfliktem zbrojnym terytorium tego państwa oraz niektórych innych ustaw (Dz. U. poz. 830), który stanowi: „Art. 33. Ustawa wchodzi życie dniem następującym po dniu ogłoszenia, mocą od dnia 24 lutego 2022 r., wyjątkiem:
-1) art. 1 pkt 12, pkt 21 lit. b i art. 7, które wchodzą życie po upływie 14 dni od dnia ogłoszenia;
-2) art. 1 pkt 22, 24, pkt 26 lit. a i c, pkt 42 lit. b, pkt 44, art. 10, art. 11 pkt 3, art. 12, art. 17 pkt 1–14, 17 i 18 oraz art. 19–21, które wchodzą życie dniem następującym po dniu ogłoszenia;
+1) art. 1 pkt 12, pkt 21 lit. b art. 7, które wchodzą życie po upływie 14 dni od dnia ogłoszenia;
+2) art. 1 pkt 22, 24, pkt 26 lit. a c, pkt 42 lit. b, pkt 44, art. 10, art. 11 pkt 3, art. 12, art. 17 pkt 1–14, 17 18 oraz art. 19–21, które wchodzą życie dniem następującym po dniu ogłoszenia;
 3) art. 1 pkt 29, który wchodzi życie dniem następującym po dniu ogłoszenia, mocą od dnia 1 kwietnia 2022 r.;
-4) art. 1 pkt 38 zakresie art. 66a 3–7 i 9–12, który wchodzi życie po upływie 2 dni od dnia ogłoszenia;
-5) art. 17 pkt 15 i 16, które wchodzą życie dniem 1 stycznia 2023 r.”.
-Marszałek Sejmu: E. Witek
-USTAWA dnia 19 sierpnia 2011 r.
-języku migowym i innych środkach komunikowania się
-
-#### Rozdział 1 Przepisy ogólne
+4) art. 1 pkt 38 zakresie art. 66a 3–7 9–12, który wchodzi życie po upływie 2 dni od dnia ogłoszenia;
+5) art. 17 pkt 15 16, które wchodzą życie dniem 1 stycznia 2023 r.”.
+Marszałek Sejmu: E. Witek Przepisy ogólne
 
 **Art. 1.** Ustawa określa zasady:
 
@@ -53,10 +47,10 @@ języku migowym i innych środkach komunikowania się
 1. Ustawa dotyczy:
 
 - **1)** osób doświadczających trwale lub okresowo trudności komunikowaniu się, zwanych dalej „osobami uprawnionymi”;
-- **2)** członków rodzin osób uprawnionych, tym współmałżonka, dzieci własnych i przysposobionych, dzieci obcych przyjętych wychowanie, pasierbów, rodziców, rodziców współmałżonka, rodzeństwa, ojczyma, macochy, zięciów i synowych, zwanych dalej „członkami rodzin”;
+- **2)** członków rodzin osób uprawnionych, tym współmałżonka, dzieci własnych przysposobionych, dzieci obcych przyjętych wychowanie, pasierbów, rodziców, rodziców współmałżonka, rodzeństwa, ojczyma, macochy, zięciów synowych, zwanych dalej „członkami rodzin”;
 - **3)** osób mających stały lub bezpośredni kontakt osobami uprawnionymi.
 
-2. W odniesieniu jednostek objętych systemem oświaty uprawnienia, których ustawie, przysługują rodzicom i opiekunom prawnym uczniów, słuchaczy i wychowanków.
+2. W odniesieniu jednostek objętych systemem oświaty uprawnienia, których ustawie, przysługują rodzicom opiekunom prawnym uczniów, słuchaczy wychowanków.
 
 **Art. 3.** Ilekroć ustawie jest o:
 
@@ -76,11 +70,11 @@ języku migowym i innych środkach komunikowania się
 
 1. Osoba uprawniona ma prawo skorzystania pomocy osoby przybranej kontaktach podmiotami zobowiązanymi.
 
-2. Prawo, którym 1, może być ograniczone wyłącznie ze względu zasady określone przepisach ustawy dnia 5 sierpnia 2010 r. ochronie informacji niejawnych (Dz. U. 2019 r. poz. 742 oraz 2022 r. poz. 655 i 1933).
+2. Prawo, którym 1, może być ograniczone wyłącznie ze względu zasady określone przepisach ustawy dnia 5 sierpnia 2010 r. ochronie informacji niejawnych (Dz. U. 2019 r. poz. 742 oraz 2022 r. poz. 655 1933).
 
 3. W przypadku skorzystania przez osoby uprawnione prawa, którym 1, podmioty zobowiązane nie mogą wymagać przedstawienia dokumentów potwierdzających znajomość PJM, SJM lub SKOGN przez osoby przybrane.
 
-**Art. 8.** Przetwarzanie informacji i danych czasie korzystania przez osobę uprawnioną pomocy osoby przybranej odbywa się celu zapewnienia jej możliwości komunikowania się kontaktach podmiotami zobowiązanymi.
+**Art. 8.** Przetwarzanie informacji danych czasie korzystania przez osobę uprawnioną pomocy osoby przybranej odbywa się celu zapewnienia jej możliwości komunikowania się kontaktach podmiotami zobowiązanymi.
 
 **Art. 9.**
 
@@ -90,19 +84,11 @@ języku migowym i innych środkach komunikowania się
 
 3. Organ administracji publicznej jest zobowiązany upowszechnienia informacji usłudze, której 2.
 
-4. Obowiązek, którym 3, jest realizowany sposób powszechnie przyjęty, szczególności Biuletynie Informacji Publicznej, stronach internetowych organu administracji publicznej i miejscach publicznie dostępnych tym organie.
+4. Obowiązek, którym 3, jest realizowany sposób powszechnie przyjęty, szczególności Biuletynie Informacji Publicznej, stronach internetowych organu administracji publicznej miejscach publicznie dostępnych tym organie.
 
 **Art. 10.**
 
-1. Podmiot zobowiązany zapewnia możliwość korzystania przez osoby uprawnione pomocy wybranego tłumacza języka migowego lub tłumacza-przewodnika. Przepisy art. 7 i art. 8 stosuje się odpowiednio.
-
-2. Przepis, którym 1, nie wyklucza możliwości korzystania innych uprawnień. tłumacza PJM, SJM i SKOGN, zwanych dalej „świadczeniem”.
-
-2. Świadczenie może być realizowane również przez pracownika organu administracji publicznej posługującego się PJM lub SJM lub wykorzystaniem środków wspierających komunikowanie się.
-
-3. Świadczenie jest bezpłatne dla osoby uprawnionej, będącej osobą niepełnosprawną rozumieniu ustawy dnia 27 sierpnia 1997 r. rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. 2021 r. poz. 573 i 1981 oraz 2022 r. poz. 558, 1700 i 1812).
-
-4. Do świadczenia stosuje się odpowiednio art. 8.
+1. Podmiot zobowiązany zapewnia możliwość korzystania przez osoby uprawnione pomocy wybranego tłumacza języka migowego lub tłumacza-przewodnika. Przepisy art. 7 art. 8 stosuje się odpowiednio.
 
 **Art. 12.**
 
@@ -127,19 +113,19 @@ języku migowym i innych środkach komunikowania się
 
 1. Organ administracji publicznej udostępnia dokumenty niezbędne załatwienia sprawy, formie dostępnej dla osób uprawnionych, ich wniosek.
 
-2. Organ administracji publicznej zamieszcza wszystkie niezbędne informacje organie i sposobach realizacji ustawy, miejscach dostępnych dla osób uprawnionych.
+2. Organ administracji publicznej zamieszcza wszystkie niezbędne informacje organie sposobach realizacji ustawy, miejscach dostępnych dla osób uprawnionych.
 
 #### Rozdział 3 Rejestr tłumaczy
 
 **Art. 15.**
 
-1. Tworzy się rejestr tłumaczy PJM, SJM i SKOGN, zwany dalej „rejestrem”.
+1. Tworzy się rejestr tłumaczy PJM, SJM SKOGN, zwany dalej „rejestrem”.
 
 2. Rejestr prowadzi wojewoda.
 
 3. Rejestr jest prowadzony wyłącznie formie elektronicznej.
 
-4. Wpis rejestru i korzystanie rejestru są bezpłatne.
+4. Wpis rejestru korzystanie rejestru są bezpłatne.
 
 **Art. 16.** Minister właściwy spraw zabezpieczenia społecznego określi, drodze rozporządzenia, zakres oraz zasady funkcjonowania rejestru, którym art. 15, a szczególności:
 
@@ -158,9 +144,9 @@ języku migowym i innych środkach komunikowania się
 
 4. Minister właściwy spraw zabezpieczenia społecznego określi drodze rozporządzenia:
 
-- **1)** tryb składania i rozpatrywania wniosków dofinansowanie kosztów szkolenia, którym 1, wysokość oraz sposób przyznawania i przekazywania środków Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych ten cel,
-- **2)** zakres oraz formę dodatkowych informacji i dokumentów składanych wraz wnioskiem, którym pkt 1,
-- **3)** wzory wniosków, których pkt 1 mając uwadze prawidłowe funkcjonowanie mechanizmu dofinansowania kosztów szkolenia języka polskiego, PJM, SJM, SKOGN i tłumacza-przewodnika oraz uwzględnienie potrzeb osób korzystających tych szkoleń, a także uwzględniając różnice grupach uprawnionych dofinansowania.
+- **1)** tryb składania rozpatrywania wniosków dofinansowanie kosztów szkolenia, którym 1, wysokość oraz sposób przyznawania przekazywania środków Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych ten cel,
+- **2)** zakres oraz formę dodatkowych informacji dokumentów składanych wraz wnioskiem, którym pkt 1,
+- **3)** wzory wniosków, których pkt 1 mając uwadze prawidłowe funkcjonowanie mechanizmu dofinansowania kosztów szkolenia języka polskiego, PJM, SJM, SKOGN tłumacza-przewodnika oraz uwzględnienie potrzeb osób korzystających tych szkoleń, a także uwzględniając różnice grupach uprawnionych dofinansowania.
 
 #### Rozdział 5 Polska Rada Języka Migowego
 
@@ -173,9 +159,9 @@ języku migowym i innych środkach komunikowania się
 3. Do zakresu działania Rady należy:
 
 - **1)** ustalanie rekomendacji celu prawidłowego stosowania komunikacji migowej;
-- **2)** upowszechnianie i promowanie wiedzy języku migowym poprzez wspieranie inicjatyw promujących rozwiązania rzecz osób uprawnionych i upowszechniających rozwiązania wspierające komunikowanie się;
+- **2)** upowszechnianie promowanie wiedzy języku migowym poprzez wspieranie inicjatyw promujących rozwiązania rzecz osób uprawnionych upowszechniających rozwiązania wspierające komunikowanie się;
 - **3)** sporządzanie opinii funkcjonowaniu przepisów ustawy, opiniowanie projektów dokumentów rządowych zakresie dotyczącym funkcjonowania osób uprawnionych;
-- **4)** wskazywanie propozycji rozwiązań wpływających funkcjonowanie osób uprawnionych, tym związanych ze stosowaniem PJM, SJM i SKOGN.
+- **4)** wskazywanie propozycji rozwiązań wpływających funkcjonowanie osób uprawnionych, tym związanych ze stosowaniem PJM, SJM SKOGN.
 
 **Art. 20.**
 
@@ -183,12 +169,7 @@ języku migowym i innych środkach komunikowania się
 
 2. Członkiem Rady może zostać osoba znająca PJM, SJM lub SKOGN lub zajmująca się zawodowo tą problematyką.
 
-- **1)** po jednym przedstawicielu ministra właściwego spraw: oświaty i wychowania, nauki i szkolnictwa wyższego, kultury i ochrony dziedzictwa narodowego, wewnętrznych oraz informatyzacji;
-- **2)** przedstawiciela: Przepisu 2 nie stosuje się.
-    - **a)** Ministra Sprawiedliwości,
-    - **b)** Krajowej Rady Radiofonii i Telewizji.
-
-4. Członków Rady powołuje i odwołuje minister właściwy spraw zabezpieczenia społecznego.
+4. Członków Rady powołuje odwołuje minister właściwy spraw zabezpieczenia społecznego.
 
 5. Kandydatów członków Rady zgłaszają zainteresowane środowiska, organizacje, stowarzyszenia lub instytucje oraz organy, których 3.
 
@@ -196,7 +177,7 @@ języku migowym i innych środkach komunikowania się
 
 1. Rada dokonuje wyboru przewodniczącego spośród członków.
 
-2. Przewodniczącym Rady może być wyłącznie osoba uprawniona, znająca PJM i język polski.
+2. Przewodniczącym Rady może być wyłącznie osoba uprawniona, znająca PJM język polski.
 
 3. Wiceprzewodniczącym Rady jest Pełnomocnik Rządu spraw Osób Niepełnosprawnych.
 
@@ -234,17 +215,9 @@ języku migowym i innych środkach komunikowania się
 
 5. Przepis 4 stosuje się odpowiednio tłumaczy-przewodników członków Rady, pod warunkiem świadczenia usługi posiedzeniu Rady.
 
-6. Minister właściwy spraw zabezpieczenia społecznego określi, drodze zarządzenia, sposób i tryb działania Rady, tym jej organizację, mając względzie zapewnienie sprawnego funkcjonowania Rady. Zmiany przepisach obowiązujących, przepisy przejściowe i końcowe
-
-**Art. 26.** (pominięty)
-
-**Art. 27.**
-
-1. Rada Ministrów przedstawia, ramach informacji Rządu Rzeczypospolitej Polskiej działaniach podejmowanych danym roku rzecz realizacji postanowień uchwały Sejmu Rzeczypospolitej Polskiej dnia 1 sierpnia 1997 r. Karta Praw Osób Niepełnosprawnych (M.P. poz. 475), informację funkcjonowaniu ustawy roku poprzednim.
-
-2. Pierwsza informacja, której 1, zostanie przedstawiona za rok następujący po dniu wejścia życie ustawy.
+6. Minister właściwy spraw zabezpieczenia społecznego określi, drodze zarządzenia, sposób tryb działania Rady, tym jej organizację, mając względzie zapewnienie sprawnego funkcjonowania Rady. ustawy.
 
 **Art. 28.** W sprawach nieuregulowanych ustawie stosuje się odpowiednio przepisy ustawy dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
 
-**Art. 29.** Ustawa wchodzi życie dniem 1 kwietnia 2012 r., wyjątkiem art. 7 i art. 8, które wchodzą życie po upływie 14 dni od dnia ogłoszenia .
+**Art. 29.** Ustawa wchodzi życie dniem 1 kwietnia 2012 r., wyjątkiem art. 7 art. 8, które wchodzą życie po upływie 14 dni od dnia ogłoszenia .
 

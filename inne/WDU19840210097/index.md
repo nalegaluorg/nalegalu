@@ -10,7 +10,9 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# 4. Kierownicy pracown'icy jednostek gospodarki u8p9łecznionej za naruszenia, o których mow! 1.
+# o fundacjach
+
+*USTAWA z dnia 6 kwietnia 1984 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,64 +26,137 @@ domain: null
 | Ostatnia zmiana | 2026-03-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19840210097) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1984/97/text.pdf) |
 
-zakresie pracy tych jednostkach, na zasadach ,w trybie przewidzianym wart. 39.
-39. 1. Kierownicy 'pracownicy jednostek gospo darki o kto " ych mowa art. 38 ust. 1, lub przepisy,' nakazy IUb,:akazy' wydane na podstawie art. 17 ust. 1, .-art.21, art. 24 ust. art. 27. 28, 39. 31 32 ,brze kwocie od 100/0 do 300% wynagrodzenia"- daneg0 pracownika. " / 2. o której mowa ust.
-terenowy inspektorat gospodarki energetycznej. Od zonej kary do G06podarki Energetycznej.
-40. od kar przewidzianych ,art. 39 jednostce gospodarki nionej za naruszenie przepisów. nakazów lub zakazów, / 0 których mowa wart. 39 ust. art. 38 ust. 2. karę której jest od rodzaju stop,nia naruszenia oraz poniesionych 'strat.
-,·2. o której mowa ust: terenowy inspektorat gospodarki energetycznej., Od tonej kary odwolanie do Gospodarni Energetycznej. • ;' .... 3. Kara nie 30°/, ~(,i.$];.;;,-'\\ósttu pa-liw energfizużywanych rocznie danej jed gospodarki
-41. Ministrów, 'w ;:::, .• tryb przy wymlerzamu o których mowa art. 39 tO.
-lub instalacji energetycznych do niego stanu' tech.nicznego.
-2) szkód przerw' W praCy wspólnej sieci zasilania odbiorców.
-43. W razie stwierdzenia pobierania 'Paliw energii ze wspólnej sied bez ·zClwarcia umowy do albóz 'lub.
-ukradu pomiarowege razie uszkodzenia tego du wi'ny odbiorcy sposób umożliwiający nielegalny/ pobór' paliw lub energii, za nieJe gajnie pobrane paliwa lub rycza!.
-towej, 'określonej taryfach dotyczących ce~ paliw L energii pobieranych ze wspólnej sieci.
-44. o których mowa wart. 42 ,i e.gzekucji administracyjnej.
-7 Przepisy l
-45. ,1, Traci moc ustawa dnia 30 maja 1962 o gospodarce paliwowo-energetycznej (Dz. U. 1962 Nr 32. poz. 150. 19.71 r. Nr 12. poz. 117, 1976 r. Nr 12, poz. 71, 1978 r. Nr 26,poz: 116 1981 r. Nr l?, poz, .. 83).
-2. Dotychczasowe przepisy o gospodarce energetycz:' nej mocy do czasu ich przepisami ustawy, o ile 5prteczne Jej pT:i;eplSaml.
-46. Ustawa wchodzi z' dniem 1 czerwca r.
-Przewodniczący Rady Państwa,: H. JabłońskI Sekretarz Rady J. Szymanek 97 USTA WA • dnia 6 ,kwietnia r.
-o fundacjach.
-1. Fundacja ustanowiona dla realizacji 'zgodnych {podstawowymi interesami Polskiej Rzeczy pOspolitej Ludowej celów lub gospodarczo .uzyteczn ych, takich jak:" ochrona zdro1. Ustanowienie fundacji wymaga zatwier dzenia 'przez ministra zainteresowanego - ze na zakres.jego kompetencji '- utworzeniem fundacji, zwanego dalej ministrem".
-wia. rozwój gospodarki ,i nauki, wychowanie, ldlltura ( sztuka. opieka pomoc ochrona dowiska zabytków.
-2. Fundacje Qsoby fizyczne od ich obywatelstwa niiejsca..
-osoby prawne 2;
-siedziby Polsce lub za cele fundacji 'w za-, kres kompetencji dwóch lub ministrów. Prezes ,Rady Ministrów wyznaczy ministra.
-..
-2. Siedziba fundacji powinna na tery torium Polskiej Rzeczypospo!itej Ludowej.
-5. Fundacja mi podstawie przepisów nin' ej szej ustawy statutu.
-6. Fundator ustala "stalut fundacji określający jej i' zasady. foriny zakres fundacji, i. sposób stawiony statut j~st nie pełny - zaw.Ułra' goslahow.re:nia jaNiim luridacj~ ~I'lstairo ustanm""iu~, w.łMa.tiw,.y, \V'oli o ustanowieniu, min:if!:te:r,.
-'z' pnepis-ami' mirristeI :t lIfi.dZ6n;
-wezwie tundatora'. do prżedstawtenia\ wyzrra'C'Z"oT).ym ter· mowa ust. w' szczególrroś(:i przePT,owacłze. ~tmt;roi~ minie,. statutu:' lub· da wprowadz€nia nim. zmian. bądź dzi'dła! yvspudannej:' furtdacjii ma. pRawo.
-:;;plaw.ozdtltl.' z.
-I!t;ze-pisy zatwierdzenia statutu wiania, a' bada, oapuw im::Jme· zastosowanie·'do jeg0: zmr611y>-' wy,korvystania $mdk.fi·w finansowych zas@Bovf' ArL 8~ Fundator może odstąpić od osobistego usta~ ma~ąt*1Jw.y,ch fun~acjj,.
-lenia statutu db fego ustalenia ,ministeF. wykoministra albo lub -\ na1'lie· lube [jo ustalenia, statutu· przez jej albo postamiwieIl;iatIiii stos"lwnie do ust, mają zastosowanie przepisy 1. ot y c zące statutu fundaCji lub· z· pr-zepisami prawa, ustalania przez fUndatora: Art: I'. lY. fundacji. ist'0tll<y: Jezeli fundator (!stanowił fundację testamencie, sposób na(Us:za pr:zepisy., pr.a:wa, lub' postanowfenia: jej stial-.
-nie ustali/jej statutu nie upoważni! do tej cz)timości tutu albo jest niezgodhe·. jej celem" właściwy innej osoby, statut. ustala minis\er. mó.ze; odPowi'edni - termin do liych uchybien; dnkO'>-·.
-Arl. minister odmówi zat wierdzeni-a nan;a,_ wyznaczonym, t-e)minie zmiany f1md!a;cjI ..
-fundaCJi jej statutu oraz zmian statucie, jeżeli <;:ą.i 2: Ro bezs'lt:uteCŻIJ)lmi upływie- terminu, ollct'&"YID"mowa\ tundił<!J'j; lJąd'2i':po.stanow.fenici'; -statutu, ~ąl~ S'prz.e.~ne' pr,ze-. ust:, alou, razie Up.GT.Gz-ywregp' pisamii ustawyj lub:, inlilymii [lIlwszecltni'e> 0:\'>,0 fundacji sposób praWeBristatutfelB prze-pi'S'ami prawa, aibo..., wy razi:e'. celem. [undae.ji •. minister: '1legQ up"lY'wu ter.minu wyznaczun-ego,..Qtr PPZeustawtE:mia< za-rzątłi funda-c.ji' h w,y.znacaye: Z6łlZąd.C~ p:rą;ymusaw,egp., statuLu. nim.... uzu- 31.. prz.ymuS'QwyJ reprezentuje: sprawach tym, rowni'Ere w: :po'"' A,'t!ł. W~ 'Hundacja, uz.v.skuw osObow.ośc: prawm'{i stępnwa.mu,'" sądow.ym;, je:st. on: o:Bnwiązim.y' w.ykony-wać 'z dó rejestr p fUIId'a'ffji,.l. potrzebne; pr,a-wJdln:wega:, fundacji;. '.
-Rej~str, fimdacjJ. pLOwadziSąp.· Rejonowy dla. W,ar- Wł'qściwy~ ministeI" urzędU; na' wnias:e·Jt zID';"i.
-sza-wy-Pragi. / \ ,- rząliu funt:la.eji· uchyl.i. decyzję- zd:meszeniu z.al'ządu· o : Rejestr j~st' jaM'lLy' dostępnV- dla. osób tr;:eCich. wyznaczeniu zarządcy })T-izym.liaowega,. jeieH1Z!, Mi~ł5ter.· Sprewi.eclliw.ości. w' dhadze' rozparzą~zenia, naśEi~ wynik;~. ż~; działania,. ó:, lctórych mowa; us,t:; lił\' zasady 1 tryb W sprawach. rejfi!stru fundacji. dane podlegające wpisowi do tego. rejestru, sp Nt: t8.
-1:' W razie ośiągnięcia celu, dla którego:fun- : sób jego prowadzenia o{az szczegółowe, zasady udostęp- dacja była ustano\Viopa, !'ob razie wyczerpanią,' środkĆ)w" niania 'f,eJ'estru do ffuansowych fundacji. fundacja podega l l'k fł. ,1. Nie pobiera się opłat notarialnych za spo- c!acji spo,sób wskazany~ statl,!cie, " rządzenie aktu, którego przedmiotem jest wy'.łą~zniel Jeiefi statut nie przewiduje likwidacji fundacji lulb oświadczenie woli o· ustanowieniu fundacji. iego- postanowienia ·w. tym przedmiocJenie' są ~ykony'7.
-2: sprawach rejestru fundacli jest" wane, wypadkach wymienionych ust. 1 wolne od op41t o likw.idacji p'od,ejiouje minister., ~ 12; Są~ dokonuje wpisu do re.jestnt f.undacji· po. W wyylidkacl1 nnyo h niż przewidziane'w usJ.lt:.
-5t ierdzeniu, prawne likwidacj.a, fundacji. Y Ilu;> mocy prze'f:;
-wpiu lub ,0rg.an pisu. ustawy. " f są ważne.' a deCyzje. właściwego ministra nie podlegają' 4. Jeże.li: S'tatut· fundaaji< ni ę ; okr;'śla·, p~zeznal".zeI)ią!
-ju~ z·askar.żeniu do sądU' administracyjnego; środków majątk@wy.ch pożosta'jący.ch. po jej likwida<;ji., fundacji Jei oraz minister wydaje przeznaczeniu reprezentuje na celów, ;którylJli "'.; 1"4, przez gospod t.9., Nab,ycie przez. · dmdze spadku, ar ej: nie przewidzianej ~tatucie w'yma:ga uplzedniej- zapisu, lub darowizn y pieniędzy lub. innych rZfi!fzy ruchozmiany statutu, a wypa't1K'u -gdy zmiand statutu nie jest możliwa. _ uzyskania odrębn.ego z.ezwolenia ,wlaści~ mych albo pTa~ majątko~ jest wolne od podatku od weg,o' ministra; wy(ianego porp 1.Unieniu Ministrem spadków d-arowizn, Att. :26. \:Ustawa ,wchodzi z:dn.iem/ :igloSzenia.
-" .2. ,W razieriredopehirenia ~t. ':l,lPIZepisy ,art. 117$t05:\łje-,.i~rOd,powiednj().
-;R a y R. ki Rady S»rmanek 98 ...
-.'" ·z..dni-a6kwietnia 1984 ,r.
-() .Komlsjl :Narodowej.
-'. 'Mając .nawzgł-ę/iife ,zachoWJmie paniięCi 0 :qgroll1ie ATt. ,7. 1.K~~łcłada ,Się1Z <cźłonk~-;-:,14tórY;0h ')'. ,ofilir uraz 'str,at'i 'llz'kOd wojimnych, :poni~ś:joriyćh .]>rzez powołuje l odwołuje "pJ'lewudrii'Czący Kiomi-sji :sposl1i>d lataCh 'II ])Lzedstawicieli nauki ,i m.uzeOwmart;y;r,ológii. or.§anów )- :przeciw 'pcikdjowi, :zbroHni wo- ,li.qgania ·Olrgan:Ówadmini· jenn,ych 'zwodui 'przectWkohrili-1cdśo; wiekopomne;zna- ,sttacji RlloStWOWej, org:arii1facdi "PPlit~cron;ych is,połednych, " ,:czerii:ei-rlem'w.yohoM"HWCze,ptltitotyc.ztm ipozn8WCze .w tym organizacjik.ombatanckich.· ., tradycji zmagań Narodu Połsk'tego7;qr} 'R:zesżą Ni~miedtll PLze:;wOanicąc!lJll ,Komiśji !jest :Min.iste:r :Sptiil'wiedłi;co
-1. ,1., J({>m~jg ;:Badania Zbrodni Niemiec'./:3: 'Minister :!lpmr:wiedłiwoSm,w ,dr:od~e r~m~'ł:enlil, kich na ip6d:s.ta-wie .dekretuzdnia tworzy a \ 10 1is1itopada 1945 (Oz, U. Nr 51, poz. '293). przeksztąłca 8.1. Organem \yyjs:onawczym K6misji jest dy/ Ba'dania Zbrodni H,itlerowskich-w rektor.
--:- Instytut Narodowej, 2 Dyrektor wykonufe postanowienid Ko <.p' rzepisach .' _ organizuje jej reprezentuje na
-2. Komisja podlega Ministrowi oraz
-2.00 Komisji 'f:>yrektora i' Minister Spraar-chiwalne'j naukow.o"badawczeJ zakresie zbrodni hitlerowSkićfl pope:łIi'inn ych 'w 'r6lscei :pUZ'6 ·4. "Zastępców :dyr-ektor-a powołuje odwcAuje Minister jej granicami na narodzie polskim. na obywatelach na .wniosek dyrektora.
-pdlskićh 'innych narodowości 'o1"liz innych ,państw. .Art '9. 1. 'Zadania Komisji .r.e.alizuaą: lrt.
-no i.prow.adzenia .śledztw przez Komisję, ~w l) Biuro .Śled;ze, ( tym do udzielania pomocy pra)Vnej. Arc9hiwum K0misji, zbrodni stos1jje odpowiednio 3) przepisy Kodeksu karnego. 4) komisje
-2. Czynności śledcze są wykonywane przez sędziów 2. przy Komisji działa ~ada Naukowa jako organ proJmratorów, lub opiniodawczo-doradczy.
--do Komisji. 3. zakres oraz
-3. Organy' ,wymiaru 'Bezpie- iKomisji komisji statuf nadany Milicja Obywatelska oraz organy przez Prezesa Rady Ministr,ów.
-,p~ńst~oweJ obo~iązane są, każdy zakresie ,swojego .Art. 10. l.W sprawach nie uregulowanych 'nin~j<działania, doud~ielania pomocy Komisji wykonywania -:s~justa;wie do .dzia'łaHTości ,Kruńisji ,oraz ,pracmMniltow Jej zakresie ,uja·wniania. d(,lkumentowania 'naukowych ,przep7 tl ;in.slfJimach Z'brodni ,h-itlepowski0h. nauk0wo,badawcz,ych.
-4.W zaklresie dzia(alnosci .archiwalnej .KomisJa 2. Do sędziów prokuratorów ~ele9ówarwcb ,do <pelgromadzi, przechowuje. opracowuje - unio nienia "Kemis;ji .;'itesuje : j 'kalne 'w - ao,kumenty '. o J ,pTGkUIator'ów,;.
--hitlerowskie o .dramatycznYch losach 3 .. Do inaych ust. 1 narodu polskiego o ogromie poniesionych ofiilr szkód .• 'pracowni*aJJh 5; W zakresi~ działalności riaukowo~badawczej pań!ltwowych.
-'Komisja prowadzi badarila w'; aspekcie "historycznym 11. Traci moc dekret .dnia 10tistopada 1945,f., prawnym'. nad probtematyką zbrodni 'hitlerow~kich, fa· -o Głównej Xqmisji Okręgowych K;omisjach Badania
+**Art. 1.** Fundacja może być ustanowiona dla realizacji zgodnych z podstawowymi interesami Rzeczypospolitej Polskiej celów społecznie lub gospodarczo użytecznych, szczególności takich, jak: ochrona zdrowia, rozwój gospodarki i nauki, oświata i wychowanie, kultura i sztuka, opieka i pomoc społeczna, ochrona środowiska oraz opieka nad zabytkami.
+
+**Art. 2.**
+
+1. Fundacje mogą ustanawiać osoby fizyczne niezależnie od ich obywatelstwa i miejsca zamieszkania bądź osoby prawne mające siedziby Polsce lub za granicą.
+
+2. Siedziba fundacji powinna znajdować się na terytorium Rzeczypospolitej Polskiej.
+
+**Art. 3.**
+
+1. Oświadczenie woli o ustanowieniu fundacji powinno być złożone formie aktu notarialnego. Zachowania tej formy nie wymaga się, jeżeli ustanowienie fundacji następuje testamencie.
+
+2. W oświadczeniu woli o ustanowieniu fundacji fundator powinien wskazać cel fundacji oraz składniki majątkowe przeznaczone na jego realizację.
+
+3. Składnikami majątkowymi, o których mowa ust. 2, mogą być pieniądze, papiery wartościowe, a także oddane fundacji na własność rzeczy ruchome i nieruchomości.
+
+**Art. 4.** Fundacja działa na podstawie przepisów niniejszej ustawy i statutu.
+
+**Art. 5.**
+
+1. Fundator ustala statut fundacji, określający nazwę, siedzibę i majątek, cele, zasady, formy i zakres działalności fundacji, skład i organizację zarządu, sposób powoływania oraz obowiązki i uprawnienia tego organu i jego członków. Statut może zawierać również inne postanowienia, szczególności dotyczące prowadzenia przez działalności gospodarczej, dopuszczalności przewidywać tworzenie obok zarządu innych organów fundacji.
+
+1a. Do korzystania ze środków komunikacji elektronicznej głosowaniu władz fundacji stosuje się odpowiednio przepisy art. 10 ust. 1a–1d ustawy z dnia 7 kwietnia 1989 r. – Prawo o stowarzyszeniach.
+
+1b. (uchylony) 1c. Jeżeli kadencja zarządu fundacji lub innych organów, o których mowa ust. 1, upływa okresie obowiązywania stanu zagrożenia epidemicznego lub stanu epidemii, o których mowa ustawie z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, lub do 30 dni po odwołaniu danego stanu, podlega ona przedłużeniu do czasu wyboru zarządu fundacji lub innych organów na nową kadencję, jednak nie dłużej niż do 60 dni od dnia odwołania stanu zagrożenia epidemicznego lub stanu epidemii.
+
+2. Fundator może wskazać ministra właściwego ze względu na cele fundacji. Oświadczenie fundatora tej sprawie powinno być dołączone do statutu i przekazane sądowi prowadzącemu rejestr fundacji.
+
+3. Fundacja, która ma prowadzić działalność na terenie jednego województwa, powinna mieć siedzibę na terenie województwa objętego działalnością tej fundacji.
+
+4. Jeżeli statucie określa się przeznaczenie środków majątkowych fundacji po likwidacji, środki te powinny być przeznaczone na cele, o których mowa art. 1.
+
+5. Fundacja może prowadzić działalność gospodarczą rozmiarach służących realizacji celów. Jeżeli fundacja ma prowadzić działalność gospodarczą, wartość środków majątkowych fundacji przeznaczonych na działalność gospodarczą nie może być mniejsza niż tysiąc złotych .
+
+6. Rada Ministrów, drodze rozporządzenia, może określić ulgi i zwolnienia z tytułu przeznaczenia zysków z działalności gospodarczej fundacji na realizację zadań statutowych, inne niż ulgi i zwolnienia określone innych ustawach.
+
+**Art. 6.**
+
+1. Fundator może odstąpić od osobistego ustalenia statutu i upoważnić do jego ustalenia inną osobę fizyczną lub prawną.
+
+2. Do ustalenia statutu, stosownie do przepisu ust. 1, mają zastosowanie przepisy dotyczące ustalenia statutu przez fundatora. upoważnił do tej czynności innej osoby, stosuje się odpowiednio przepisy księgi IV Kodeksu cywilnego o poleceniu.
+
+**Art. 7.**
+
+1. Fundacja podlega obowiązkowi wpisu do Krajowego Rejestru Sądowego.
+
+2. Fundacja uzyskuje osobowość prawną z chwilą wpisania do Krajowego Rejestru Sądowego.
+
+**Art. 8.** (uchylony)
+
+**Art. 9.**
+
+1. Sąd dokonuje wpisu do Krajowego Rejestru Sądowego fundacji po stwierdzeniu, że czynności prawne stanowiące podstawę wpisu zostały podjęte przez uprawnioną osobę lub organ i są ważne. Postanowienie o wpisaniu fundacji do Krajowego Rejestru Sądowego sąd wydaje ponadto po stwierdzeniu, że cel i statut fundacji są zgodne z przepisami prawa.
+
+2. O wpisaniu fundacji do Krajowego Rejestru Sądowego sąd zawiadamia ministra właściwego ze względu na zakres jego działania oraz cele fundacji, zwanego dalej „właściwym ministrem”, oraz właściwego ze względu na siedzibę fundacji starostę, przesyłając jednocześnie statut.
+
+3. Jeżeli cele fundacji wkraczają zakres działania dwóch lub więcej ministrów, sąd zawiadamia o wpisaniu fundacji do Krajowego Rejestru Sądowego, wraz z przesłaniem statutu, właściwego ministra, z którego zakresem działania wiążą się główne cele fundacji.
+
+**Art. 10.** Zarząd fundacji kieruje działalnością oraz reprezentuje na zewnątrz.
+
+**Art. 11.**
+
+1. Podjęcie przez działalności gospodarczej nieprzewidzianej statucie wymaga uprzedniej zmiany statutu.
+
+2. Zmiana statutu fundacji wymaga wpisania do Krajowego Rejestru Sądowego. Przepisy art. 9 stosuje się odpowiednio.
+
+**Art. 12.**
+
+1. O zgodności działania fundacji z przepisami prawa i statutem oraz z celem, jakim fundacja została ustanowiona, orzeka sąd postępowaniu nieprocesowym na wniosek właściwego ministra lub starosty.
+
+2. Fundacja składa corocznie właściwemu ministrowi sprawozdanie ze swojej działalności obejmujące najważniejsze informacje o działalności fundacji okresie celów statutowych.
+
+2a. Przepisu ust. 2 nie stosuje się do fundacji posiadających status organizacji pożytku publicznego, które zamieściły na stronie podmiotowej Narodowego Instytutu Wolności – Centrum Rozwoju Społeczeństwa Obywatelskiego Biuletynie Informacji Publicznej sprawozdanie merytoryczne z działalności oraz sprawozdanie finansowe zgodnie z przepisami ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2022 r. poz. 1327, 1265 i 1812).
+
+2b. Sprawozdanie, o którym mowa ust. 2, sporządza się postaci elektronicznej, na formularzu udostępnionym Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego Ministra Sprawiedliwości, oraz opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
+
+3. Sprawozdanie, o którym mowa ust. 2, jest przez udostępnione do publicznej wiadomości.
+
+4. Minister Sprawiedliwości porozumieniu z ministrem właściwym do spraw finansów publicznych określi, drodze rozporządzenia, jednolity wzór formularza sprawozdania, o którym mowa ust. 2, mając na względzie potrzebę zapewnienia informacji pozwalających ocenić prawidłowość realizacji przez celów statutowych oraz ujednolicenia sprawozdań.
+
+**Art. 13.** Właściwy minister lub starosta może wystąpić do sądu o uchylenie uchwały zarządu fundacji, pozostającej rażącej sprzeczności z celem albo z postanowieniami statutu fundacji lub z przepisami prawa. Organ ten może jednocześnie zwrócić się do sądu o wstrzymanie wykonania uchwały do czasu rozstrzygnięcia sprawy.
+
+**Art. 14.**
+
+1. Jeżeli działanie zarządu fundacji istotny sposób narusza przepisy prawa lub postanowienia statutu albo jest niezgodne z celem, organ, o którym mowa art. 13, może wyznaczyć odpowiedni termin do usunięcia tych uchybień działalności zarządu albo może żądać dokonania wyznaczonym terminie zmiany zarządu fundacji.
+
+2. Po bezskutecznym upływie terminu, o którym mowa ust. 1, albo razie dalszego uporczywego działania zarządu fundacji sposób niezgodny z prawem, statutem lub celem fundacji, organ, o którym mowa art. 13, może wystąpić do sądu o zawieszenie zarządu fundacji i wyznaczenie zarządcy przymusowego. z zarządu, tym również postępowaniu sądowym; jest on obowiązany wykonywać czynności potrzebne do prawidłowego działania fundacji.
+
+4. Sąd uchyli swe postanowienie o zawieszeniu zarządu fundacji i wyznaczeniu zarządcy przymusowego na wniosek zarządu fundacji, jeżeli z okoliczności wynika, że działania, o których mowa ust. 1, zostaną zaniechane.
+
+**Art. 14a.**
+
+1. Organ, o którym mowa art. 13, sprawuje kontrolę nad działalnością fundacji będącej instytucją obowiązaną rozumieniu przepisów o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu zakresie zgodności działania z przepisami tej ustawy.
+
+2. Do kontroli, o której mowa ust. 1, stosuje się odpowiednio przepisy rozdziału 12 ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2022 r. poz. 593, 655, 835, 2180 i 2185).
+
+**Art. 15.**
+
+1. W razie osiągnięcia celu, dla którego fundacja była ustanowiona, lub razie wyczerpania środków finansowych i majątku fundacji, fundacja podlega likwidacji sposób wskazany statucie.
+
+2. Jeżeli statut nie przewiduje likwidacji fundacji lub jego postanowienia tym przedmiocie nie są wykonywane, wypadkach wymienionych ust. 1 organ, o którym mowa art. 13, zwraca się do sądu o likwidację fundacji.
+
+3. W wypadkach innych niż przewidziane ust. 1 likwidacja fundacji może nastąpić tylko na mocy przepisu ustawy.
+
+4. Jeżeli statut fundacji nie określa przeznaczenia środków majątkowych pozostających po likwidacji, sąd orzeka o przeznaczeniu tych środków z uwzględnieniem celów, którym fundacja służyła.
+
+**Art. 15a.**
+
+1. W stosunku do fundacji korzystającej ze środków publicznych i prowadzącej działalność na obszarze całego kraju, zakresie działalności prowadzonej na obszarze właściwości miejscowej samorządu powiatowego, starosta wykonuje uprawnienia wynikające z przepisów art. 12–15.
+
+2. Zadania starosty, o których mowa ustawie, są zadaniami z zakresu administracji rządowej.
+
+**Art. 16.** Nabycie przez drodze spadku, zapisu lub darowizny pieniędzy lub innych rzeczy ruchomych albo praw majątkowych jest wolne od podatku od spadków i darowizn.
+
+**Art. 17.** Spory majątkowe, których stroną jest fundacja, rozpoznaje sąd. to również kierownika właściwego urzędu centralnego.
+
+**Art. 19.**
+
+1. Fundacje zagraniczne mające siedzibę za granicą mogą tworzyć przedstawicielstwa na terytorium Rzeczypospolitej Polskiej.
+
+2. Utworzenie przedstawicielstwa wymaga zezwolenia, które oznacza jednocześnie zgodę na podjęcie działalności określonej zezwoleniu. Zezwolenie wydaje minister właściwy ze względu na zakres swego działania oraz cele utworzenia przedstawicielstwa.
+
+3. Zezwolenie może być wydane, jeżeli utworzenie przedstawicielstwa ma służyć realizacji celów określonych art. 1; jeżeli przedstawicielstwo ma prowadzić także działalność gospodarczą, stosuje się odpowiednio przepis art. 5 ust. 5 zdanie pierwsze.
+
+4. Przedstawicielstwo jest obowiązane przestrzegać przepisów prawa obowiązującego na terytorium Rzeczypospolitej Polskiej.
+
+5. Minister właściwy ze względu na zakres swego działania oraz cele utworzenia przedstawicielstwa może cofnąć zezwolenie, jeżeli przedstawicielstwo nie dotrzymuje warunków określonych zezwoleniu lub istotny sposób narusza przepisy prawa obowiązującego na terytorium Rzeczypospolitej Polskiej albo interes państwa.
+
+6. Jeżeli przedstawicielstwo lub reprezentowana przez nie fundacja naraża na szkodę bezpieczeństwo lub inny ważny interes państwa, właściwy minister może zawiesić zezwolenie. Zawieszenie zezwolenia powoduje – do czasu podjęcia decyzji sprawie cofnięcia zezwolenia – bezzwłoczne zaprzestanie działalności objętej zezwoleniem bez odszkodowania z tego tytułu.
+
+7. W sprawach działalności gospodarczej przedstawicielstwa stosuje się ponadto przepisy odrębne, dotyczące prowadzenia działalności gospodarczej na terytorium Rzeczypospolitej Polskiej przez przedstawicielstwa podmiotów zagranicznych.
+
+**Art. 20.** Przepisy niniejszej ustawy nie naruszają przepisów prawa prywatnego międzynarodowego.
 

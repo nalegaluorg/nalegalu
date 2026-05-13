@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# Ustawa z dnia 16 września 2011 r. o zmianie ustawy o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym oraz o zmianie niektórych innych ustaw
+# o zmianie ustawy o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym oraz o zmianie niektórych innych ustaw
+
+*USTAWA z dnia 16 września 2011 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,10 +26,17 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112341392) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/1392/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 16 lutego 2007 r. zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym (Dz. U. 52, poz. 343, z późn. zm. ) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 16 lutego 2007 r. o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym (Dz. U. Nr 52, poz. 343, z późn. zm. ) wprowadza się następujące zmiany:
+
+**Art. 2.** W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2006 r. Nr 89, poz. 625, z późn. zm. ) wprowadza się następujące zmiany:
+
+**Art. 3.** W ustawie z dnia 27 maja 2011 r. o zmianie ustawy o systemie monitorowania i kontrolowania jakości paliw oraz niektórych innych ustaw (Dz. U. Nr 153, poz. 902) art. 3 pkt 4 otrzymuje brzmienie: „4) art. 30 po ust. 2a dodaje się ust. 2b brzmieniu: „2b. Wzory sprawozdań, o których mowa ust. 1 i 2, opracowuje i udostępnia Prezes Urzędu Regulacji Energetyki.”;”.
 
 **Art. 4.**
 
-1. Do postępowań wszczętych na podstawie art. 24 ust. 5, art. 25 ust. 3 i 5, art. 26 i art. 30 ustawy zmienianej art. 1 oraz na podstawie art. 33 ust. 1a, art. 41 ust. 2a i art. 43 ustawy zmienianej art. 2 i niezakończonych przed dniem wejścia życie niniejszej ustawy stosuje się przepisy dotychczasowe. gazu ziemnego oraz sposób utrzymywania 2. Zachowują ważność decyzje wydane przed zapasów obowiązkowych gazu ziemnego na dniem wejścia życie niniejszej ustawy na podstawie terytorium Rzeczypospolitej Polskiej lub art. 24 ust. 5 ustawy zmienianej art. 1. państwa członkowskiego Unii Europejskiej, lub państwa członkowskiego Europejskiego Art. 5. Ustawa wchodzi życie po upływie 30 dni Porozumienia Wolnym Handlu (EFTA) od dnia ogłoszenia. strony umowy Europejskim Obszarze Gospodarczym, zgodnie z art. 24 ust. 1 ustawy Prezydent Rzeczypospolitej Polskiej: B. Komorowski
+1. Do postępowań wszczętych na podstawie art. 24 ust. 5, art. 25 ust. 3 i 5, art. 26 i art. 30 ustawy zmienianej art. 1 oraz na podstawie art. 33 ust. 1a, art. 41 ust. 2a i art. 43 ustawy zmienianej art. 2 i niezakończonych przed dniem wejścia życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 
+2. Zachowują ważność decyzje wydane przed dniem wejścia życie niniejszej ustawy na podstawie art. 24 ust. 5 ustawy zmienianej art. 1.
+
+**Art. 5.** Ustawa wchodzi życie po upływie 30 dni od dnia ogłoszenia.
 

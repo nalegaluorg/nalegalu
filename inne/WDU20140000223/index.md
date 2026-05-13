@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 19 lutego 2014
+# Ustawa z dnia 24 stycznia 2014 r. o zmianie ustawy o działalności pożytku publicznego i o wolontariacie oraz niektórych innych ustaw
+
+*USTAWA stycznia 2014 zmianie ustawy wolontariacie oraz niektórych innych ustaw*
 
 | Pole | Wartość |
 |---|---|
@@ -24,21 +26,21 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000223) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/223/text.pdf) |
 
-USTAWA dnia 24 stycznia 2014 zmianie działalności pożytku publicznego wolontariacie oraz niektórych innych ustaw
+**Art. 1.** W ustawie wolontariacie (Dz. U. 2010 234, 1536, późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 1.** ustawie dnia 24 kwietnia 2003 działalności pożytku publicznego wolontariacie (Dz. 2010 234, 1536, późn. zm. ) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie 26 lipca 1991 podatku dochodowym od osób fizycznych (Dz. U. 2012 361, późn. zm. ) art. 45c:
 
-**Art. 2.** ustawie dnia 26 lipca 1991 podatku dochodowym od osób fizycznych (Dz. 2012 361, późn. zm. ) art. 45c:
+**Art. 3.** W ustawie 20 listopada 1998 zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. 144, 930, późn. zm. ) art. 21b: wolontariacie. Kwota ta jest pomniejszana koszty przelewu bankowego.”;
 
-**Art. 4.** Do wykazu organizacji mających status organizacji pożytku publicznego na dzień 30 2013 r., na które podatnik podatku dochodowego od osób fizycznych może przekazać 1% podatku zeznań podatkowych składanych za rok podatkowy, oraz czynności związanych jego tworzeniem prowadzeniem stosuje się przepisy dotychczasowe.
+**Art. 4.** Do wykazu organizacji mających status organizacji na dzień 30 listopada 2013 r., na które podatnik podatku dochodowego od osób fizycznych może przekazać 1% podatku zeznań podatkowych składanych za rok podatkowy, oraz czynności związanych jego tworzeniem prowadzeniem stosuje się przepisy dotychczasowe.
 
 **Art. 5.**
 
-1. Organizacje pożytku publicznego, które zgłosiły numer rachunku bankowego właściwy przekazania 1% podatku dochodowego od osób fizycznych na podstawie przepisów dotychczasowych jest on aktualny, nie mają obowiązku podawać ponownie tego numeru rachunku bankowego właściwemu naczelnikowi urzędu skarbowego.
+1. Organizacje publicznego, które zgłosiły numer rachunku bankowego właściwy przekazania 1% podatku dochodowego od osób fizycznych na podstawie przepisów dotychczasowych jest on aktualny, nie mają obowiązku podawać ponownie tego numeru rachunku bankowego właściwemu naczelnikowi urzędu skarbowego.
 
-2. Numery rachunków bankowych, których mowa 1, zostaną zapisane Centralnym Rejestrze Podmiotów Krajowej Ewidencji Podatników prowadzonym przez ministra właściwego spraw finansów publicznych na podstawie art. 14 1 dnia 13 października 1995 zasadach ewidencji identyfikacji podatników płatników (Dz. 2012 1314 oraz 2013 2).
+2. Numery rachunków bankowych, których mowa 1, zostaną zapisane Centralnym Rejestrze Podmiotów – Krajowej Ewidencji Podatników prowadzonym przez ministra właściwego spraw finansów publicznych na podstawie art. 14 1 ustawy 13 października 1995 zasadach ewidencji identyfikacji podatników płatników (Dz. U. 2012 1314 oraz 2013 2).
 
-**Art. 6.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 27a 11 ustawy, której mowa art. 1, zachowują moc dnia wejścia życie przepisów wykonawczych wydanych na podstawie art. 27a 10 ustawy, której mowa art. 1, brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż dnia 31 sierpnia 2014
+**Art. 6.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 27a 11 ustawy, której mowa art. 1, zachowują moc wejścia życie przepisów wykonawczych wydanych na podstawie art. 27a 10 ustawy, której mowa art. 1, brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż 31 sierpnia 2014
 
-**Art. 7.** Ustawa wchodzi życie po upływie 30 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: B. Komorowski
+**Art. 7.** Ustawa wchodzi życie po upływie 30 dni od ogłoszenia. Prezydent Rzeczypospolitej Polskiej: B. Komorowski
 

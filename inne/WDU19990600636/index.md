@@ -23,7 +23,7 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 1999-06-25 |
 | Data wydania | 1999-07-12 |
-| Ostatnia zmiana | 2026-04-10 |
+| Ostatnia zmiana | 2026-05-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990600636) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1999/636/text.pdf) |
 
 Art. 71–80. (pominięte)
@@ -159,7 +159,26 @@ Art. 71–80. (pominięte)
 
 **Art. 16.** Ubezpieczonemu, którego niezdolność do pracy spowodowana została nadużyciem alkoholu, zasiłek chorobowy nie przysługuje za okres pierwszych 5 dni tej niezdolności.
 
-**Art. 17.** [1. Ubezpieczony wykonujący w okresie orzeczonej niezdolności do pracy pracę zarobkową lub wykorzystujący zwolnienie od pracy w sposób niezgodny z celem tego zwolnienia traci prawo do zasiłku chorobowego za cały okres tego zwolnienia.] <1. Ubezpieczony traci prawo do zasiłku chorobowego za cały okres zwolnienia od pracy, w przypadku gdy w okresie orzeczonej niezdolności do pracy:
+**Art. 17.**
+
+1. Ubezpieczony traci prawo do zasiłku chorobowego za cały okres zwolnienia od pracy, w przypadku gdy w okresie orzeczonej niezdolności do pracy:
+
+- **1)** wykonuje pracę zarobkową lub
+- **2)** podejmuje aktywność niezgodną z celem tego zwolnienia.
+
+1a. Pracą zarobkową, o której mowa w ust. 1 pkt 1, jest każda czynność mająca charakter zarobkowy, niezależnie od stosunku prawnego będącego podstawą jej wykonania, z wyłączeniem czynności incydentalnych, których podjęcia w okresie zwolnienia od pracy wymagają istotne okoliczności. Istotną okolicznością nie może być polecenie pracodawcy.
+
+1b. Aktywnością niezgodną z celem zwolnienia od pracy, o której mowa w ust. 1 pkt 2, są wszelkie działania utrudniające lub wydłużające proces leczenia lub rekonwalescencję, z wyłączeniem zwykłych czynności dnia codziennego lub czynności incydentalnych, których podjęcia w okresie zwolnienia od pracy wymagają istotne okoliczności.
+
+1c. W przypadku spełniania warunków podlegania ubezpieczeniom społecznym z co najmniej dwóch tytułów do tych ubezpieczeń niezdolność do pracy z powodu choroby dotyczy każdego z tych tytułów, dla których odrębnie wystawia się zwolnienie od pracy. <1d. Jeżeli jednak praca zarobkowa w ramach określonego tytułu może być wykonywana z uwagi na rodzaj tej pracy, na żądanie ubezpieczonego można nie wystawić zwolnienia od pracy z tego tytułu.
+
+1e. W przypadku, o którym mowa w ust. 1d, ubezpieczony jest obowiązany poinformować płatnika składek, o którym mowa w art. 61 ust. 1 pkt 1, o okresie, na który zostało mu wystawione zwolnienie od pracy z innego tytułu.>
+
+2. Zasiłek chorobowy nie przysługuje w przypadku, gdy zaświadczenie lekarskie zostało sfałszowane.
+
+3. (uchylony)
+
+4. Zasady określone w ust. 1–2 stosuje się odpowiednio do osoby uprawnionej do zasiłku chorobowego za okres po ustaniu tytułu ubezpieczenia chorobowego.
 
 #### Rozdział 3 Świadczenie rehabilitacyjne
 
@@ -925,7 +944,31 @@ Art. 71–80. (pominięte)
 
 4. Jeżeli niewypłacanie zasiłku w całości lub w części było następstwem błędu płatnika składek, o którym mowa w art. 61 ust. 1 pkt 1, albo Zakładu Ubezpieczeń Społecznych, roszczenie o wypłatę zasiłku przedawnia się po upływie 3 lat.
 
-**Art. 68.** [1. Zakład Ubezpieczeń Społecznych oraz płatnicy składek, o których mowa w art. 61 ust. 1 pkt 1, są uprawnieni do kontrolowania ubezpieczonych co do prawidłowości wykorzystywania zwolnień od pracy zgodnie z ich celem oraz są upoważnieni do formalnej kontroli zaświadczeń lekarskich.] <1. Zakład Ubezpieczeń Społecznych jest uprawniony do przeprowadzania kontroli ubezpieczonych oraz osób po ustaniu tytułu ubezpieczenia chorobowego co do prawidłowości wykorzystywania zwolnień od pracy zgodnie z ich celem.> <1a. Płatnicy składek, o których mowa w art. 61 ust. 1 pkt 1, są uprawnieni do przeprowadzania kontroli ubezpieczonych, którym wypłacają zasiłki, co do prawidłowości wykorzystywania zwolnień od pracy zgodnie z ich celem. 1b. Zakład Ubezpieczeń Społecznych przeprowadza kontrolę co do prawidłowości wykorzystywania zwolnień od pracy ubezpieczonych, którym zasiłki wypłacają płatnicy składek, o których mowa w art. 61 ust. 1 pkt 1, na wniosek tych płatników składek lub z urzędu. 1c. Kontrolą, o której mowa w ust. 1–1b, obejmuje się również ubezpieczonych oraz osoby po ustaniu tytułu ubezpieczenia chorobowego, które nie mogą wykonywać pracy z przyczyn określonych w art. 6 ust. 2 pkt 1 i 1a. 1d. Płatnicy składek są uprawnieni do przeprowadzania kontroli co do prawidłowości wykorzystywania zwolnień od pracy zgodnie z ich celem dla celów wypłaty wynagrodzenia za czas niezdolności do pracy, o którym mowa w art. 92 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy. 1e. Wątpliwości, czy zwolnienie od pracy było wykorzystywane niezgodnie z jego celem, rozstrzyga właściwa jednostka organizacyjna Zakładu Ubezpieczeń Społecznych, uzyskując w miarę potrzeby opinię lekarza, który wystawił zwolnienie lekarskie, lub lekarza orzecznika.> [2. Minister właściwy do spraw zabezpieczenia społecznego, po zasięgnięciu opinii Naczelnej Rady Lekarskiej, określi, w drodze rozporządzenia, szczegółowe zasady i tryb kontroli prawidłowości wykorzystywania zwolnień od pracy oraz formalnej kontroli zaświadczeń lekarskich.] <Art. 68a. 1. Kontrola, o której mowa w art. 68, obejmuje zwolnienia z powodu niezdolności do pracy, za które przysługuje zasiłek chorobowy, świadczenie rehabilitacyjne albo wynagrodzenie za czas niezdolności do pracy, o którym mowa w art. 92 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, oraz zwolnienia z powodu konieczności osobistego sprawowania opieki, za które przysługuje zasiłek opiekuńczy. 2. Kontrola polega na ustaleniu, czy osoba kontrolowana nie podejmuje działań określonych w art. 17 ust. 1, a w przypadku zasiłku opiekuńczego również na ustaleniu, czy poza ubezpieczonym nie ma innych członków rodziny pozostających we wspólnym gospodarstwie domowym, mogących zapewnić opiekę, chyba że dotyczy to sprawowania opieki nad chorym dzieckiem w wieku do 2 lat. 3. Kontrola jest dokonywana w miarę potrzeb, bez ustalania z góry stałych jej terminów, a nasilana szczególnie w okresach, w których występuje zwiększona absencja z powodu choroby lub sprawowania opieki. 4. Kontrola jest dokonywana z wykorzystaniem środków adekwatnych i proporcjonalnych do celu kontroli, z poszanowaniem prywatności osoby kontrolowanej oraz innych osób przebywających w miejscu kontroli oraz w sposób wolny od ryzyka pogorszenia się stanu zdrowia osoby kontrolowanej i zakłócania procesu leczenia lub rekonwalescencji, a czas jej trwania jest ograniczony do okresu niezbędnego do dokonania ustaleń z tej kontroli.
+**Art. 68.**
+
+1. Zakład Ubezpieczeń Społecznych jest uprawniony do przeprowadzania kontroli ubezpieczonych oraz osób po ustaniu tytułu ubezpieczenia chorobowego co do prawidłowości wykorzystywania zwolnień od pracy zgodnie z ich celem.
+
+1a. Płatnicy składek, o których mowa w art. 61 ust. 1 pkt 1, są uprawnieni do przeprowadzania kontroli ubezpieczonych, którym wypłacają zasiłki, co do prawidłowości wykorzystywania zwolnień od pracy zgodnie z ich celem.
+
+1b. Zakład Ubezpieczeń Społecznych przeprowadza kontrolę co do prawidłowości wykorzystywania zwolnień od pracy ubezpieczonych, którym zasiłki wypłacają płatnicy składek, o których mowa w art. 61 ust. 1 pkt 1, na wniosek tych płatników składek lub z urzędu.
+
+1c. Kontrolą, o której mowa w ust. 1–1b, obejmuje się również ubezpieczonych oraz osoby po ustaniu tytułu ubezpieczenia chorobowego, które nie mogą wykonywać pracy z przyczyn określonych w art. 6 ust. 2 pkt 1 i 1a.
+
+1d. Płatnicy składek są uprawnieni do przeprowadzania kontroli co do prawidłowości wykorzystywania zwolnień od pracy zgodnie z ich celem dla celów wypłaty wynagrodzenia za czas niezdolności do pracy, o którym mowa w art. 92 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
+
+1e. Wątpliwości, czy zwolnienie od pracy było wykorzystywane niezgodnie z jego celem, rozstrzyga właściwa jednostka organizacyjna Zakładu Ubezpieczeń Społecznych, uzyskując w miarę potrzeby opinię lekarza, który wystawił zwolnienie lekarskie, lub lekarza orzecznika.
+
+2. (uchylony)
+
+**Art. 68a.**
+
+1. Kontrola, o której mowa w art. 68, obejmuje zwolnienia z powodu niezdolności do pracy, za które przysługuje zasiłek chorobowy, świadczenie rehabilitacyjne albo wynagrodzenie za czas niezdolności do pracy, o którym mowa w art. 92 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, oraz zwolnienia z powodu konieczności osobistego sprawowania opieki, za które przysługuje zasiłek opiekuńczy.
+
+2. Kontrola polega na ustaleniu, czy osoba kontrolowana nie podejmuje działań określonych w art. 17 ust. 1, a w przypadku zasiłku opiekuńczego również na ustaleniu, czy poza ubezpieczonym nie ma innych członków rodziny pozostających we wspólnym gospodarstwie domowym, mogących zapewnić opiekę, chyba że dotyczy to sprawowania opieki nad chorym dzieckiem w wieku do 2 lat.
+
+3. Kontrola jest dokonywana w miarę potrzeb, bez ustalania z góry stałych jej terminów, a nasilana szczególnie w okresach, w których występuje zwiększona absencja z powodu choroby lub sprawowania opieki.
+
+4. Kontrola jest dokonywana z wykorzystaniem środków adekwatnych i proporcjonalnych do celu kontroli, z poszanowaniem prywatności osoby kontrolowanej oraz innych osób przebywających w miejscu kontroli oraz w sposób wolny od ryzyka pogorszenia się stanu zdrowia osoby kontrolowanej i zakłócania procesu leczenia lub rekonwalescencji, a czas jej trwania jest ograniczony do okresu niezbędnego do dokonania ustaleń z tej kontroli.
 
 **Art. 68b.**
 
@@ -1008,9 +1051,9 @@ Art. 71–80. (pominięte)
 
 2. Kontrola, o której mowa w ust. 1, polega na sprawdzeniu, czy zaświadczenie zostało wydane zgodnie z przepisami w sprawie zasad i trybu wystawiania zaświadczeń lekarskich.
 
-**Art. 68g.** Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, wzór upoważnienia do przeprowadzenia kontroli prawidłowości wykorzystywania zwolnień od pracy i wzór protokołu tej kontroli, uwzględniając elementy upoważnienia i protokołu kontroli określone odpowiednio w art. 68b ust. 3 i art. 68e ust. 1.>
+**Art. 68g.** Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, wzór upoważnienia do przeprowadzenia kontroli prawidłowości wykorzystywania zwolnień od pracy i wzór protokołu tej kontroli, uwzględniając elementy upoważnienia i protokołu kontroli określone odpowiednio w art. 68b ust. 3 i art. 68e ust. 1.
 
-**Art. 69.** Do świadczenia rehabilitacyjnego stosuje się odpowiednio przepisy art. 61, art. 61a, [art. 61b ust. 1, 3 i 4] <art. 61b ust. 1, 3, 4 i 5b> i [art. 63–68] <art. 63–68f> oraz przepisy wydane na podstawie art. 61b ust. 6 <i art. 68g>.
+**Art. 69.** Do świadczenia rehabilitacyjnego stosuje się odpowiednio przepisy art. 61, art. 61a, [art. 61b ust. 1, 3 i 4] <art. 61b ust. 1, 3, 4 i 5b> i art. 63–68f oraz przepisy wydane na podstawie art. 61b ust. 6 i art. 68g.
 
 **Art. 70.**
 

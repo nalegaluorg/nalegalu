@@ -10,7 +10,9 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 24 maja 2018 r.
+# o ochronie danych osobowych
+
+*USTAWA z dnia 10 maja 2018 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -21,11 +23,10 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2018-05-10 |
 | Data wydania | 2018-05-24 |
-| Ostatnia zmiana | 2026-04-22 |
+| Ostatnia zmiana | 2026-05-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001000) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1000/text.pdf) |
 
-USTAWA z dnia 10 maja 2018 r.
-o ochronie danych osobowych
+Art. 109–157. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -47,7 +48,7 @@ o ochronie danych osobowych
 
 **Art. 2.**
 
-1. Do działalności polegającej na redagowaniu, przygotowywaniu, tworzeniu lub publikowaniu materiałów prasowych w rozumieniu ustawy z dnia 26 stycznia 1984 r. − Prawo prasowe (Dz. U. poz. 24, z późn. zm. ), a także do wypowiedzi w ramach działalności literackiej lub artystycznej nie stosuje się przepisów art. 5–9, art. 11, art. 13–16, art. 18–22, art. 27, art. 28 ust. 2–10 oraz art. 30 rozporządzenia 2016/679.
+1. Do działalności polegającej na redagowaniu, przygotowywaniu, tworzeniu lub publikowaniu materiałów prasowych w rozumieniu ustawy z dnia 26 stycznia 1984 r. − Prawo prasowe (Dz. U. z 2018 r. poz. 1914), a także do wypowiedzi w ramach działalności literackiej lub artystycznej nie stosuje się przepisów art. 5–9, art. 11, art. 13–16, art. 18–22, art. 27, art. 28 ust. 2–10 oraz art. 30 rozporządzenia 2016/679.
 
 2. Do wypowiedzi akademickiej nie stosuje się przepisów art. 13, art. 15 ust. 3 i 4, art. 18, art. 27, art. 28 ust. 2–10 oraz art. 30 rozporządzenia 2016/679.
 
@@ -80,17 +81,37 @@ o ochronie danych osobowych
 - **1)** uniemożliwi lub znacząco utrudni prawidłowe wykonanie zadania publicznego, a interes lub podstawowe prawa lub wolności osoby, której dane dotyczą, nie są nadrzędne w stosunku do interesu wynikającego z realizacji tego zadania publicznego lub
 - **2)** naruszy ochronę informacji niejawnych.
 
-2. W przypadku gdy wykonanie obowiązków, o których mowa w art. 15 ust. 1 i 3 rozporządzenia 2016/679, wymaga niewspółmiernie dużego wysiłku związanego z wyszukaniem danych osobowych, administrator wykonujący zadanie publiczne wzywa osobę, której dane dotyczą, do udzielenia informacji pozwalających na wyszukanie tych danych. Przepis art. 64 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2017 r. poz. 1257 oraz z 2018 r. poz. 149 i 650) stosuje się odpowiednio.
+2. W przypadku gdy wykonanie obowiązków, o których mowa w art. 15 ust. 1 i 3 rozporządzenia 2016/679, wymaga niewspółmiernie dużego wysiłku związanego z wyszukaniem danych osobowych, administrator wykonujący zadanie publiczne wzywa osobę, której dane dotyczą, do udzielenia informacji pozwalających na wyszukanie tych danych. Przepis art. 64 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2018 r. poz. 2096 oraz z 2019 r. poz. 60, 730 i 1133) stosuje się odpowiednio.
 
 3. W przypadkach, o których mowa w ust. 1 i 2, administrator zapewnia odpowiednie środki służące ochronie interesu lub podstawowych praw i wolności osoby, której dane dotyczą.
 
 4. Administrator jest obowiązany poinformować osobę, której dane dotyczą, na jej wniosek, bez zbędnej zwłoki, nie później jednak niż w terminie miesiąca od dnia otrzymania wniosku, o podstawie niewykonania obowiązków, o których mowa w art. 15 ust. 1–3 rozporządzenia 2016/679.
 
+**Art. 5a.**
+
+1. Administrator, który otrzymał dane osobowe od podmiotu realizującego zadanie publiczne, nie wykonuje obowiązków, o których mowa w art. 15 ust. 1–3 rozporządzenia 2016/679, w przypadku gdy podmiot przekazujący dane osobowe wystąpił z żądaniem w tym zakresie ze względu na konieczność prawidłowego wykonania zadania publicznego mającego na celu:
+
+- **1)** zapobieganie przestępczości, wykrywanie lub ściganie czynów zabronionych lub wykonywanie kar, w tym ochronę przed zagrożeniami dla bezpieczeństwa publicznego i zapobieganie takim zagrożeniom;
+- **2)** ochronę interesów gospodarczych i finansowych państwa obejmującą w szczególności:
+    - **a)** realizację i dochodzenie dochodów z podatków, opłat, niepodatkowych należności budżetowych oraz innych należności,
+    - **b)** wykonywanie egzekucji administracyjnej należności pieniężnych i niepieniężnych oraz wykonywanie zabezpieczenia należności pieniężnych i niepieniężnych,
+    - **c)** przeciwdziałanie wykorzystywaniu działalności banków i instytucji finansowych do celów mających związek z wyłudzeniami skarbowymi,
+    - **d)** ujawnianie i odzyskiwanie mienia zagrożonego przepadkiem w związku z przestępstwami,
+    - **e)** prowadzenie kontroli, w tym kontroli celno-skarbowych.
+
+2. W przypadku, o którym mowa w ust. 1, administrator udziela odpowiedzi na żądanie wniesione na podstawie art. 15 rozporządzenia 2016/679 w sposób, który uniemożliwia ustalenie, że administrator przetwarza dane osobowe otrzymane od podmiotu wykonującego zadanie publiczne.
+
 **Art. 6.** Ustawy oraz rozporządzenia 2016/679 nie stosuje się do:
+
+**Art. 6a.**
+
+1. Do przetwarzania danych osobowych w ramach wykonywania konstytucyjnych i ustawowych kompetencji Prezydenta Rzeczypospolitej Polskiej, w zakresie nieobjętym bezpieczeństwem narodowym, stosuje się odpowiednio przepisy art. 4–7, art. 11, art. 12, art. 16, art. 17, art. 24 ust. 1 i 2, art. 25 ust. 1 i 2, art. 28–30, art. 32, art. 34, art. 35, art. 37–39 i art. 86 rozporządzenia 2016/679 oraz przepisy art. 6 i art. 11 ustawy.
+
+2. Przetwarzanie danych, o których mowa w art. 9 i art. 10 rozporządzenia 2016/679, następuje w zakresie niezbędnym do realizacji konstytucyjnych i ustawowych kompetencji Prezydenta Rzeczypospolitej Polskiej, jeżeli prawa lub wolności osoby, której dane dotyczą, nie są nadrzędne w stosunku do realizacji zadań wynikających z tych kompetencji.
 
 **Art. 7.**
 
-1. W sprawach nieuregulowanych w ustawie do postępowań administracyjnych przed Prezesem Urzędu Ochrony Danych Osobowych, zwanym dalej „Prezesem Urzędu”, o których mowa w rozdziałach 4–7 i 11, stosuje się ustawę z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
+1. W sprawach nieuregulowanych w ustawie do postępowań administracyjnych przed Prezesem Urzędu Ochrony Danych Osobowych, zwanym dalej „Prezesem Urzędu”, o których mowa w rozdziałach 4–7 i 11, stosuje się ustawę z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
 2. Postępowanie przed Prezesem Urzędu jest postępowaniem jednoinstancyjnym.
 
@@ -125,15 +146,23 @@ o ochronie danych osobowych
 
 **Art. 11.** Podmiot, który wyznaczył inspektora, udostępnia dane inspektora, o których mowa w art. 10 ust. 1, niezwłocznie po jego wyznaczeniu, na swojej stronie internetowej, a jeżeli nie prowadzi własnej strony internetowej, w sposób ogólnie dostępny w miejscu prowadzenia działalności.
 
+**Art. 11a.**
+
+1. Podmiot, który wyznaczył inspektora, może wyznaczyć osobę zastępującą inspektora w czasie jego nieobecności, z uwzględnieniem kryteriów, o których mowa w art. 37 ust. 5 i 6 rozporządzenia 2016/679.
+
+2. W związku z wykonywaniem obowiązków inspektora w czasie jego nieobecności do osoby go zastępującej stosuje się odpowiednio przepisy dotyczące inspektora.
+
+3. Podmiot, który wyznaczył osobę zastępującą inspektora, zawiadamia Prezesa Urzędu o jej wyznaczeniu w trybie określonym w art. 10 oraz udostępnia jej dane zgodnie z art. 11.
+
 #### Rozdział 3 Warunki i tryb udzielania akredytacji podmiotowi certyfikującemu
 
 **Art. 12.**
 
 1. Akredytacji podmiotów ubiegających się o uprawnienie do certyfikacji w zakresie ochrony danych osobowych, o której mowa w art. 43 rozporządzenia 2016/679, zwanej dalej „akredytacją”, udziela Polskie Centrum Akredytacji.
 
-2. Akredytacja jest udzielana na zasadach określonych w art. 43 ust. 1–7 rozporządzenia 2016/679.
+2. Akredytacja jest udzielana na zasadach określonych w art. 43 ust. 1– 7 rozporządzenia 2016/679.
 
-3. Do udzielania akredytacji stosuje się przepisy rozdziału 4 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. z 2017 r. poz. 1398 oraz z 2018 r. poz. 650), z wyjątkiem art. 24 ust. 4–7 oraz art. 25 ust. 1 i 2 w zakresie dotyczącym ograniczenia zakresu akredytacji oraz jej zawieszenia.
+3. Do udzielania akredytacji stosuje się przepisy rozdziału 4 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. z 2019 r. poz. 544), z wyjątkiem art. 24 ust. 4–7 oraz art. 25 ust. 1 i 2 w zakresie dotyczącym ograniczenia zakresu akredytacji oraz jej zawieszenia.
 
 **Art. 13.** Prezes Urzędu udostępnia na swojej stronie podmiotowej w Biuletynie Informacji Publicznej kryteria akredytacji, o których mowa w art. 43 ust. 3 rozporządzenia 2016/679.
 
@@ -261,7 +290,7 @@ o ochronie danych osobowych
 
 2. Prezes Urzędu, ustalając wysokość opłaty, bierze pod uwagę zakres certyfikacji, przewidywany przebieg i długość postępowania certyfikującego oraz koszt pracy pracownika wykonującego czynności związane z certyfikacją.
 
-3. Maksymalna wysokość opłaty nie może przekroczyć czterokrotności przeciętnego wynagrodzenia w gospodarce narodowej w roku kalendarzowym poprzedzającym rok złożenia wniosku o certyfikację, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2017 r. poz. 1383, z późn. zm. ).
+3. Maksymalna wysokość opłaty nie może przekroczyć czterokrotności przeciętnego wynagrodzenia w gospodarce narodowej w roku kalendarzowym poprzedzającym rok złożenia wniosku o certyfikację, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2018 r. poz. 1270, z późn. zm. ).
 
 4. Prezes Urzędu na swojej stronie podmiotowej w Biuletynie Informacji Publicznej podaje wysokość opłaty, którą podmiot, o którym mowa w art. 15, obowiązany jest ponieść z tytułu czynności związanych z certyfikacją.
 
@@ -337,7 +366,11 @@ o ochronie danych osobowych
 
 1. Prezes Urzędu jest organem właściwym w sprawie ochrony danych osobowych.
 
-2. Prezes Urzędu jest organem nadzorczym w rozumieniu rozporządzenia 2016/679, w rozumieniu dyrektywy Parlamentu Europejskiego i Rady (UE) 2016/680 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych przez właściwe organy do celów zapobiegania przestępczości, prowadzenia postępowań przygotowawczych, wykrywania i ścigania czynów zabronionych i wykonywania kar, w sprawie swobodnego przepływu takich danych oraz uchylającej decyzję ramową Rady 2008/977/WSiSW (Dz. Urz. UE L 119 z 04.05.2016, str. 89) oraz w rozumieniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/794 z dnia 11 maja 2016 r. w sprawie Agencji Unii Europejskiej ds. Współpracy Organów Ścigania (Europol), zastępującego i uchylającego decyzje Rady 2009/371/WSiSW, 2009/934/WSiSW, 2009/935/WSiSW, 2009/936/WSiSW i 2009/968/WSiSW (Dz. Urz. UE L 135 z 24.05.2016, str. 53).
+2. Prezes Urzędu jest organem nadzorczym w rozumieniu rozporządzenia 2016/679, w rozumieniu dyrektywy Parlamentu Europejskiego i Rady (UE) 2016/680 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych przez właściwe organy do celów zapobiegania przestępczości, prowadzenia postępowań przygotowawczych, wykrywania i ścigania czynów zabronionych i wykonywania kar, w sprawie swobodnego przepływu takich danych oraz uchylającej decyzję ramową Rady 2008/977/WSiSW (Dz. Urz. UE L 119 z 04.05.2016, str. 89) oraz w rozumieniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/794 z dnia 11 maja 2016 r. w sprawie Agencji Unii Europejskiej ds. Współpracy Organów Ścigania (Europol), zastępującego i uchylającego decyzje Rady 2009/371/WSiSW, 2009/934/WSiSW, 2009/935/WSiSW, 2009/936/WSiSW i 2009/968/WSiSW (Dz. Urz. UE L 135 z 24.05.2016, str. 53). <2a. Prezes Urzędu jest organem właściwym do spraw:
+
+- **1)** usług pośrednictwa danych, o którym mowa w art. 13 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2022/868 z dnia 30 maja 2022 r. w sprawie europejskiego zarządzania danymi i zmieniającego rozporządzenie (UE) 2018/1724 (akt w sprawie zarządzania danymi) (Dz. Urz. UE L 152 z 03.06.2022, str. 1, z późn. zm. );
+- **2)** rejestracji organizacji altruizmu danych, o którym mowa w art. 23 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2022/868 z dnia 30 maja 2022 r. w sprawie europejskiego zarządzania danymi i zmieniającego rozporządzenie (UE) 2018/1724 (akt w sprawie zarządzania danymi);
+- **3)** naruszeń obowiązków, o których mowa w art. 5 ust. 14 lub art. 31 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2022/868 z dnia 30 maja 2022 r. w sprawie europejskiego zarządzania danymi i zmieniającego rozporządzenie (UE) 2018/1724 (akt w sprawie zarządzania danymi), dotyczących przekazywania danych nieosobowych do państw trzecich.>
 
 3. Prezesa Urzędu powołuje i odwołuje Sejm Rzeczypospolitej Polskiej za zgodą Senatu Rzeczypospolitej Polskiej.
 
@@ -395,11 +428,11 @@ o ochronie danych osobowych
 
 **Art. 38.**
 
-1. Prezes Urzędu nie może być bez uprzedniej zgody Sejmu Rzeczypospolitej Polskiej pociągnięty do odpowiedzialności karnej ani pozbawiony wolności.
+1. Prezes Urzędu nie może być bez uprzedniej zgody Rzeczypospolitej Polskiej pociągnięty do odpowiedzialności karnej ani pozbawiony wolności.
 
 2. Prezes Urzędu może wyrazić zgodę na pociągnięcie go do odpowiedzialności karnej za wykroczenia, o których mowa w ust. 3, w trybie określonym w tym przepisie.
 
-3. W przypadku popełnienia przez Prezesa Urzędu wykroczenia, o którym mowa w rozdziale XI ustawy z dnia 20 maja 1971 r. Kodeks wykroczeń (Dz. U. z 2018 r. poz. 618 i 911), przyjęcie przez Prezesa Urzędu mandatu karnego albo uiszczenie grzywny, w przypadku ukarania mandatem karnym zaocznym, o którym mowa w art. 98 § 1 pkt 3 ustawy z dnia 24 sierpnia 2001 r. Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2018 r. poz. 475), stanowi oświadczenie o wyrażeniu przez niego zgody na pociągnięcie go do odpowiedzialności w tej formie.
+3. W przypadku popełnienia przez Prezesa Urzędu wykroczenia, o którym mowa w rozdziale XI ustawy z dnia 20 maja 1971 r. – Kodeks wykroczeń (Dz. U. z 2019 r. poz. 821 i 1238), przyjęcie przez Prezesa Urzędu mandatu karnego albo uiszczenie grzywny, w przypadku ukarania mandatem karnym zaocznym, o którym mowa w art. 98 § 1 pkt 3 ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2019 r. poz. 1120, 1123 i 1556), stanowi oświadczenie o wyrażeniu przez niego zgody na pociągnięcie go do odpowiedzialności w tej formie.
 
 4. Prezes Urzędu nie może być zatrzymany lub aresztowany, z wyjątkiem ujęcia go na gorącym uczynku przestępstwa i jeżeli jego zatrzymanie jest niezbędne do zapewnienia prawidłowego toku postępowania. O zatrzymaniu niezwłocznie powiadamia się Marszałka Sejmu, który może nakazać natychmiastowe zwolnienie zatrzymanego.
 
@@ -425,9 +458,9 @@ o ochronie danych osobowych
 
 1. Wniosek o wyrażenie zgody na pociągnięcie Prezesa Urzędu do odpowiedzialności karnej składa się Marszałkowi Sejmu.
 
-2. Jeżeli wniosek nie spełnia wymogów formalnych, o których mowa w art. 40 ust. 3 lub 4, Marszałek Sejmu wzywa wnioskodawcę do poprawienia lub uzupełnienia wniosku w terminie 14 dni, wskazując niezbędny zakres poprawienia lub uzupełnienia. W przypadku niepoprawienia lub nieuzupełnienia wniosku we wskazanym terminie i zakresie Marszałek Sejmu postanawia o pozostawieniu wniosku bez biegu.
+2. Jeżeli wniosek nie spełnia wymogów formalnych, o których mowa w art. 40 ust. 3 lub 4, Marszałek wzywa wnioskodawcę do poprawienia lub uzupełnienia wniosku w terminie 14 dni, wskazując niezbędny zakres poprawienia lub uzupełnienia. W przypadku niepoprawienia lub nieuzupełnienia wniosku we wskazanym terminie i zakresie Marszałek postanawia o pozostawieniu wniosku bez biegu.
 
-3. Jeżeli wniosek spełnia wymogi formalne, o których mowa w art. 40 ust. 3 i 4, Marszałek Sejmu kieruje go do organu Sejmu Rzeczypospolitej Polskiej właściwego do rozpatrzenia wniosku, zawiadamiając jednocześnie Prezesa Urzędu o treści wniosku.
+3. Jeżeli wniosek spełnia wymogi formalne, o których mowa w art. 40 ust. 3 i 4, Marszałek kieruje go do organu Rzeczypospolitej Polskiej właściwego do rozpatrzenia wniosku, zawiadamiając jednocześnie Prezesa Urzędu o treści wniosku.
 
 4. Organ właściwy do rozpatrzenia wniosku powiadamia Prezesa Urzędu o terminie jego rozpatrzenia. Między doręczeniem powiadomienia a terminem rozpatrzenia wniosku, o ile nie zachodzi przypadek niecierpiący zwłoki, nie może upłynąć mniej niż 7 dni.
 
@@ -459,11 +492,11 @@ o ochronie danych osobowych
 
 5. Sejm Rzeczypospolitej Polskiej wyraża zgodę na zatrzymanie lub aresztowanie Prezesa Urzędu w drodze uchwały podjętej bezwzględną większością ustawowej liczby posłów. Nieuzyskanie wymaganej większości głosów oznacza podjęcie uchwały o niewyrażeniu zgody na zatrzymanie lub aresztowanie Prezesa Urzędu.
 
-6. Wymóg uzyskania zgody Sejmu Rzeczypospolitej Polskiej nie dotyczy wykonania kary pozbawienia wolności orzeczonej prawomocnym wyrokiem sądu.
+6. Wymóg uzyskania zgody Rzeczypospolitej Polskiej nie dotyczy wykonania kary pozbawienia wolności orzeczonej prawomocnym wyrokiem sądu.
 
 **Art. 43.**
 
-1. Marszałek Sejmu przesyła wnioskodawcy niezwłocznie uchwałę, o której mowa w art. 41 ust. 9 i art. 42 ust. 5.
+1. Marszałek przesyła wnioskodawcy niezwłocznie uchwałę, o której mowa w art. 41 ust. 9 i art. 42 ust. 5.
 
 2. Uchwały, o których mowa w art. 41 ust. 9 i art. 42 ust. 5, podlegają ogłoszeniu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
 
@@ -479,7 +512,7 @@ o ochronie danych osobowych
 
 - **1)** organizację wewnętrzną Urzędu,
 - **2)** zakres zadań swoich zastępców,
-- **3)** zakres zadań i tryb pracy komórek organizacyjnych Urzędu mając na uwadze stworzenie optymalnych warunków organizacyjnych do prawidłowej realizacji zadań Urzędu.
+- **3)** zakres zadań i tryb pracy komórek organizacyjnych Urzędu – mając na uwadze stworzenie optymalnych warunków organizacyjnych do prawidłowej realizacji zadań Urzędu.
 
 **Art. 46.**
 
@@ -516,7 +549,7 @@ o ochronie danych osobowych
 - **1)** Rada Ministrów;
 - **2)** Rzecznik Praw Obywatelskich;
 - **3)** izby gospodarcze;
-- **4)** jednostki naukowe w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki (Dz. U. z 2018 r. poz. 87);
+- **4)** podmioty, o których mowa w art. 7 ust. 1 pkt 1, 2 i 4–6 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1668, z późn. zm. );
 - **5)** fundacje i stowarzyszenia wpisane do Krajowego Rejestru Sądowego, których celem statutowym jest działalność na rzecz ochrony danych osobowych.
 
 8. Członkiem Rady może być osoba, która:
@@ -558,7 +591,7 @@ o ochronie danych osobowych
 
 3. Rada Ministrów określi, w drodze rozporządzenia, wysokość wynagrodzenia członka Rady za udział w posiedzeniu oraz liczbę posiedzeń Rady w ciągu roku kalendarzowego, uwzględniając zakres obowiązków związanych z funkcją pełnioną w Radzie oraz prawidłową realizację zadań Rady.
 
-4. Członkom Rady mającym miejsce zamieszkania w innej miejscowości niż siedziba Urzędu przysługują diety oraz zwrot kosztów podróży i zakwaterowania na warunkach określonych w przepisach wykonawczych wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. − Kodeks pracy (Dz. U. z 2018 r. poz. 917 i 1000).
+4. Członkom Rady mającym miejsce zamieszkania w innej miejscowości niż siedziba Urzędu przysługują diety oraz zwrot kosztów podróży i zakwaterowania na warunkach określonych w przepisach wykonawczych wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. − Kodeks pracy (Dz. U. z 2019 r. poz. 1040, 1043 i 1495).
 
 **Art. 50.**
 
@@ -604,11 +637,11 @@ o ochronie danych osobowych
 
 **Art. 57.**
 
-1. Administrator lub podmiot przetwarzający może wystąpić do Prezesa Urzędu z wnioskiem o przeprowadzenie uprzednich konsultacji, o którym mowa w art. 36 rozporządzenia 2016/679.
+1. Administrator może wystąpić do Prezesa Urzędu z wnioskiem o przeprowadzenie uprzednich konsultacji, o których mowa w art. 36 rozporządzenia 2016/679.
 
-2. Do wniosku stosuje się odpowiednio przepis art. 63 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
+2. Do wniosku stosuje się odpowiednio przepis art. 63 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
-3. Jeżeli wniosek nie spełnia wymogów określonych w art. 36 ust. 3 rozporządzenia 2016/679 oraz art. 63 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego, Prezes Urzędu informuje o nieudzieleniu konsultacji, wskazując przyczyny ich nieudzielenia.
+3. Jeżeli wniosek nie spełnia wymogów określonych w art. 36 ust. 3 rozporządzenia 2016/679 oraz art. 63 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, Prezes Urzędu informuje o nieudzieleniu konsultacji, wskazując przyczyny ich nieudzielenia.
 
 **Art. 58.** Jeżeli Prezes Urzędu, na podstawie posiadanych informacji, uzna, że doszło do naruszenia przepisów dotyczących przetwarzania danych osobowych, może żądać wszczęcia postępowania dyscyplinarnego lub innego przewidzianego prawem postępowania przeciwko osobom, które dopuściły się naruszeń, i poinformowania go, w określonym terminie, o wynikach tego postępowania i podjętych działaniach.
 
@@ -640,23 +673,23 @@ o ochronie danych osobowych
 
 4. W przypadku ustawowego obowiązku przekazania informacji lub dokumentów otrzymanych od przedsiębiorców innym krajowym lub zagranicznym organom lub instytucjom, informacje i dokumenty przekazuje się wraz z zastrzeżeniem i pod warunkiem jego przestrzegania.
 
-**Art. 66.** Prezes Urzędu wydaje postanowienie, o którym mowa w art. 74 § 2 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego, również w przypadku, gdy udostępnienie informacji i dokumentów, o których mowa w art. 65 ust. 1, grozi ujawnieniem tajemnic prawnie chronionych albo ujawnieniem tajemnicy przedsiębiorstwa, jeżeli o ograniczenie wglądu do akt dla stron postępowania wnosi przedsiębiorca, od którego informacja pochodzi.
+**Art. 66.** Prezes Urzędu wydaje postanowienie, o którym mowa w art. 74 § 2 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, również w przypadku, gdy udostępnienie informacji i dokumentów, o których mowa w art. 65 ust. 1, grozi ujawnieniem tajemnic prawnie chronionych albo ujawnieniem tajemnicy przedsiębiorstwa, jeżeli o ograniczenie wglądu do akt dla stron postępowania wnosi przedsiębiorca, od którego informacja pochodzi.
 
-**Art. 67.** Jeżeli liczba stron w postępowaniu przekracza 20, Prezes Urzędu może zastosować przepis art. 49 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
+**Art. 67.** Jeżeli liczba stron w postępowaniu przekracza 20, Prezes Urzędu może zastosować przepis art. 49 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
 **Art. 68.**
 
 1. Jeżeli w toku postępowania zajdzie konieczność uzupełnienia dowodów, Prezes Urzędu może przeprowadzić postępowanie kontrolne.
 
-2. Okresu postępowania kontrolnego nie wlicza się do terminów, o których mowa w art. 35 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
+2. Okresu postępowania kontrolnego nie wlicza się do terminów, o których mowa w art. 35 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
 **Art. 69.**
 
-1. W przypadku, o którym mowa w art. 88 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego, Prezes Urzędu wymierza karę grzywny w wysokości od 500 złotych do 5000 złotych.
+1. W przypadku, o którym mowa w art. 88 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, Prezes Urzędu wymierza karę grzywny w wysokości od 500 złotych do 5000 złotych.
 
 2. Wymierzając karę grzywny, Prezes Urzędu bierze pod uwagę:
 
-- **1)** w przypadku osoby fizycznej sytuację osobistą wezwanego i stopień zrozumienia powagi ciążących na nim obowiązków wynikających z wezwania lub
+- **1)** w przypadku osoby fizycznej – sytuację osobistą wezwanego i stopień zrozumienia powagi ciążących na nim obowiązków wynikających z wezwania lub
 - **2)** potrzebę dostosowania wysokości kary grzywny do celu, jakim jest przymuszenie wezwanego do zadośćuczynienia wezwaniu.
 
 3. Kara grzywny, o której mowa w ust. 1, może być nałożona także w przypadku, gdy strona odmówiła przedstawienia tłumaczenia na język polski dokumentacji sporządzonej w języku obcym.
@@ -673,7 +706,7 @@ o ochronie danych osobowych
 
 1. Jeżeli w toku postępowania Prezes Urzędu uzna, że istnieją uzasadnione wątpliwości co do zgodności z prawem Unii Europejskiej decyzji Komisji Europejskiej, o której mowa w art. 40 ust. 9 w sprawie kodeksu postępowania, o którym mowa w art. 46 ust. 2 lit. e, oraz decyzji, o której mowa w art. 45 ust. 3 i 5 i art. 46 ust. 2 lit. c rozporządzenia 2016/679, Prezes Urzędu występuje do sądu administracyjnego z wnioskiem o wystąpienie z pytaniem prawnym na podstawie art. 267 Traktatu o funkcjonowaniu Unii Europejskiej w sprawie ważności decyzji Komisji Europejskiej.
 
-2. Wniosek, o którym mowa w ust. 1, poza spełnianiem wymagań dotyczących skargi, o których mowa w art. 64 § 2 ustawy z dnia 30 sierpnia 2002 r. Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2017 r. poz. 1369, 1370 i 2451 oraz z 2018 r. poz. 650), zawiera w szczególności:
+2. Wniosek, o którym mowa w ust. 1, poza spełnianiem wymagań dotyczących skargi, o których mowa w art. 64 § 2 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2018 r. poz. 1302, z późn. zm. ), zawiera w szczególności:
 
 - **1)** wskazanie decyzji Komisji Europejskiej, której wniosek dotyczy;
 - **2)** omówienie powodów, dla których Prezes Urzędu powziął wątpliwości w kwestii ważności decyzji Komisji Europejskiej i jej niezgodności z przepisami prawa;
@@ -737,7 +770,7 @@ o ochronie danych osobowych
 1. Kontrolę przeprowadza upoważniony przez Prezesa Urzędu:
 
 - **1)** pracownik Urzędu,
-- **2)** członek lub pracownik organu nadzorczego państwa członkowskiego Unii Europejskiej w przypadku, o którym mowa w art. 62 rozporządzenia 2016/679 zwany dalej „kontrolującym”.
+- **2)** członek lub pracownik organu nadzorczego państwa członkowskiego Unii Europejskiej w przypadku, o którym mowa w art. 62 rozporządzenia 2016/679 – zwany dalej „kontrolującym”.
 
 2. Kontrolujący, o którym mowa w ust. 1 pkt 2, jest obowiązany do zachowania w tajemnicy informacji, o których dowiedział się w toku kontroli.
 
@@ -788,8 +821,8 @@ o ochronie danych osobowych
 
 3. W razie nieobecności kontrolowanego lub osoby przez niego upoważnionej, upoważnienie do przeprowadzenia kontroli oraz legitymacja służbowa lub dokument potwierdzający tożsamość mogą być okazane:
 
-- **1)** osobie czynnej w lokalu przedsiębiorstwa w rozumieniu art. 97 ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. z 2017 r. poz. 459, 933 i 1132 oraz z 2018 r. poz. 398 i 650) lub
-- **2)** przywołanemu świadkowi, jeżeli jest funkcjonariuszem publicznym w rozumieniu art. 115 § 13 ustawy z dnia 6 czerwca 1997 r. − Kodeks karny (Dz. U. z 2017 r. poz. 2204 oraz z 2018 r. poz. 20, 305 i 663), niebędącemu pracownikiem Urzędu albo osobą, o której mowa w art. 80 ust. 1.
+- **1)** osobie czynnej w lokalu przedsiębiorstwa w rozumieniu art. 97 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2019 r. poz. 1145 i 1495) lub
+- **2)** przywołanemu świadkowi, jeżeli jest funkcjonariuszem publicznym w rozumieniu art. 115 § 13 ustawy z dnia 6 czerwca 1997 r. − Kodeks karny (Dz. U. z 2018 r. poz. 1600, z późn. zm. ), niebędącemu pracownikiem Urzędu albo osobą, o której mowa w art. 80 ust. 1.
 
 **Art. 84.**
 
@@ -805,7 +838,7 @@ o ochronie danych osobowych
 
 3. Kontrolowany dokonuje potwierdzenia za zgodność z oryginałem sporządzonych kopii lub wydruków, o których mowa w ust. 2. W przypadku odmowy potwierdzenia za zgodność z oryginałem kontrolujący czyni o tym wzmiankę w protokole kontroli.
 
-4. W uzasadnionych przypadkach przebieg kontroli lub poszczególne czynności w jej toku, po uprzednim poinformowaniu kontrolowanego, mogą być utrwalane przy pomocy urządzeń rejestrujących obraz lub dźwięk. Informatyczne nośniki danych w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2017 r. poz. 570 oraz z 2018 r. poz. 1000), na których zarejestrowano przebieg kontroli lub poszczególne czynności w jej toku, stanowią załącznik do protokołu kontroli.
+4. W uzasadnionych przypadkach przebieg kontroli lub poszczególne czynności w jej toku, po uprzednim poinformowaniu kontrolowanego, mogą być utrwalane przy pomocy urządzeń rejestrujących obraz lub dźwięk. Informatyczne nośniki danych w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2019 r. poz. 700, 730, 848 i 1590), na których zarejestrowano przebieg kontroli lub poszczególne czynności w jej toku, stanowią załącznik do protokołu kontroli.
 
 **Art. 85.**
 
@@ -821,7 +854,7 @@ o ochronie danych osobowych
 
 6. Policja, udzielając pomocy kontrolującemu przy wykonywaniu czynności kontrolnych, zapewnia bezpieczeństwo również innym osobom uczestniczącym przy wykonywaniu czynności kontrolnych, mając w szczególności na względzie poszanowanie godności osób biorących udział w kontroli.
 
-7. Koszty poniesione przez Policję z tytułu udzielonej pomocy przy wykonywaniu czynności kontrolnych rozlicza się według stawki zryczałtowanej w wysokości 1,5% przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku w czwartym kwartale roku poprzedniego, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 7 ust. 1 ustawy z dnia 17 lipca 1998 r. o pożyczkach i kredytach studenckich (Dz. U. z 2017 r. poz. 357).
+7. Koszty poniesione przez Policję z tytułu udzielonej pomocy przy wykonywaniu czynności kontrolnych rozlicza się według stawki zryczałtowanej w wysokości 1,5% przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku za ubiegły rok, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 60 pkt 5 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. z 2019 r. poz. 576, 577, 1490 i 1590).
 
 **Art. 86.**
 
@@ -829,7 +862,7 @@ o ochronie danych osobowych
 
 2. Za pracownika kontrolowanego uznaje się osobę zatrudnioną na podstawie stosunku pracy lub wykonującą pracę na podstawie umowy cywilnoprawnej.
 
-3. Do przesłuchania pracownika kontrolowanego stosuje się przepis art. 83 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
+3. Do przesłuchania pracownika kontrolowanego stosuje się przepis art. 83 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
 **Art. 87.** Kontrolujący ustala stan faktyczny na podstawie dowodów zebranych w postępowaniu kontrolnym, a w szczególności dokumentów, przedmiotów, oględzin oraz ustnych lub pisemnych wyjaśnień i oświadczeń.
 
@@ -876,7 +909,7 @@ o ochronie danych osobowych
 
 #### Rozdział 10 Odpowiedzialność cywilna i postępowanie przed sądem
 
-**Art. 92.** W zakresie nieuregulowanym rozporządzeniem 2016/679, do roszczeń z tytułu naruszenia przepisów o ochronie danych osobowych, o których mowa w art. 79 i art. 82 tego rozporządzenia, stosuje się przepisy ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny.
+**Art. 92.** W zakresie nieuregulowanym rozporządzeniem 2016/679, do roszczeń z tytułu naruszenia przepisów o ochronie danych osobowych, o których mowa w art. 79 i art. 82 tego rozporządzenia, stosuje się przepisy ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny.
 
 **Art. 93.** W sprawach o roszczenia z tytułu naruszenia przepisów o ochronie danych osobowych, o których mowa w art. 79 i art. 82 rozporządzenia 2016/679, właściwy jest sąd okręgowy.
 
@@ -888,9 +921,9 @@ o ochronie danych osobowych
 
 **Art. 95.** Sąd zawiesza postępowanie, jeżeli sprawa dotycząca tego samego naruszenia przepisów o ochronie danych osobowych została wszczęta przed Prezesem Urzędu.
 
-**Art. 96.** Sąd umarza postępowanie w zakresie, w jakim prawomocna decyzja Prezesa Urzędu o stwierdzeniu naruszenia przepisów o ochronie danych osobowych lub prawomocny wyrok wydany w wyniku wniesienia skargi, o której mowa w art. 145a § 3 ustawy z dnia 30 sierpnia 2002 r. Prawo o postępowaniu przed sądami administracyjnymi, uwzględnia roszczenie dochodzone przed sądem.
+**Art. 96.** Sąd umarza postępowanie w zakresie, w jakim prawomocna decyzja Prezesa Urzędu o stwierdzeniu naruszenia przepisów o ochronie danych osobowych lub prawomocny wyrok wydany w wyniku wniesienia skargi, o której mowa w art. 145a § 3 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi, uwzględnia roszczenie dochodzone przed sądem.
 
-**Art. 97.** Ustalenia prawomocnej decyzji Prezesa Urzędu o stwierdzeniu naruszenia przepisów o ochronie danych osobowych lub prawomocnego wyroku wydanego w wyniku wniesienia skargi, o której mowa w art. 145a § 3 ustawy z dnia 30 sierpnia 2002 r. Prawo o postępowaniu przed sądami administracyjnymi, wiążą sąd w postępowaniu o naprawienie szkody wyrządzonej przez naruszenie przepisów o ochronie danych osobowych co do stwierdzenia naruszenia tych przepisów.
+**Art. 97.** Ustalenia prawomocnej decyzji Prezesa Urzędu o stwierdzeniu naruszenia przepisów o ochronie danych osobowych lub prawomocnego wyroku wydanego w wyniku wniesienia skargi, o której mowa w art. 145a § 3 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi, wiążą sąd w postępowaniu o naprawienie szkody wyrządzonej przez naruszenie przepisów o ochronie danych osobowych co do stwierdzenia naruszenia tych przepisów.
 
 **Art. 98.**
 
@@ -898,15 +931,21 @@ o ochronie danych osobowych
 
 2. W pozostałych sprawach o roszczenia z tytułu naruszenia przepisów o ochronie danych osobowych Prezes Urzędu może wstępować, za zgodą powoda, do postępowania przed sądem w każdym jego stadium, chyba że toczy się przed nim postępowanie dotyczące tego samego naruszenia przepisów o ochronie danych osobowych.
 
-3. W przypadkach, o których mowa w ust. 1 i 2, do Prezesa Urzędu stosuje się odpowiednio przepisy ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. z 2018 r. poz. 155, z późn. zm. ) o prokuratorze.
+3. W przypadkach, o których mowa w ust. 1 i 2, do Prezesa Urzędu stosuje się odpowiednio przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2019 r. poz. 1460, 1469 i 1495) o prokuratorze.
 
 **Art. 99.** Prezes Urzędu, jeżeli uzna, że przemawia za tym interes publiczny, przedstawia sądowi istotny dla sprawy pogląd w sprawie o roszczenie z tytułu naruszenia przepisów o ochronie danych osobowych.
 
-**Art. 100.** Do postępowania w sprawie o roszczenie z tytułu naruszenia przepisów o ochronie danych osobowych, o których mowa w art. 79 i art. 82 rozporządzenia 2016/679, w zakresie nieuregulowanym niniejszą ustawą stosuje się przepisy ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego.
+**Art. 100.** Do postępowania w sprawie o roszczenie z tytułu naruszenia przepisów o ochronie danych osobowych, o których mowa w art. 79 i art. 82 rozporządzenia 2016/679, w zakresie nieuregulowanym niniejszą ustawą stosuje się przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego.
 
 #### Rozdział 11 Przepisy o administracyjnych karach pieniężnych i przepisy karne
 
 **Art. 101.** Prezes Urzędu może nałożyć na podmiot obowiązany do przestrzegania przepisów rozporządzenia 2016/679, inny niż:
+
+**Art. 101a.**
+
+1. W związku z toczącym się postępowaniem w sprawie nałożenia administracyjnej kary pieniężnej, podmiot, o którym mowa w art. 101, jest obowiązany do dostarczenia Prezesowi Urzędu, na każde jego żądanie, w terminie 30 dni od dnia otrzymania żądania, danych niezbędnych do określenia podstawy wymiaru administracyjnej kary pieniężnej.
+
+2. W przypadku niedostarczenia danych przez podmiot, o którym mowa w art. 101, lub gdy dostarczone przez ten podmiot dane uniemożliwiają ustalenie podstawy wymiaru administracyjnej kary pieniężnej, Prezes Urzędu ustala podstawę wymiaru administracyjnej kary pieniężnej w sposób szacunkowy uwzględniając wielkość podmiotu, specyfikę prowadzonej przez niego działalności lub ogólnie dostępne dane finansowe dotyczące podmiotu.
 
 **Art. 102.**
 
@@ -920,9 +959,13 @@ o ochronie danych osobowych
 
 3. Administracyjne kary pieniężne, o których mowa w ust. 1 i 2, Prezes Urzędu nakłada na podstawie i na warunkach określonych w art. 83 rozporządzenia 2016/679.
 
-**Art. 103.** Równowartość wyrażonych w euro kwot, o których mowa w art. 83 rozporządzenia 2016/679, oblicza się w złotych według średniego kursu euro ogłaszanego przez Narodowy Bank Polski w tabeli kursów na dzień 28 stycznia każdego roku, a w przypadku gdy w danym roku Narodowy Bank Polski nie ogłasza średniego kursu euro w dniu 28 stycznia według średniego kursu euro ogłoszonego w najbliższej po tej dacie tabeli kursów Narodowego Banku Polskiego.
+**Art. 103.** Równowartość wyrażonych w euro kwot, o których mowa w art. 83 rozporządzenia 2016/679, oblicza się w złotych według średniego kursu euro ogłaszanego przez Narodowy Bank Polski w tabeli kursów na dzień 28 stycznia każdego roku, a w przypadku gdy w danym roku Narodowy Bank Polski nie ogłasza średniego kursu euro w dniu 28 stycznia – według średniego kursu euro ogłoszonego w najbliższej po tej dacie tabeli kursów Narodowego Banku Polskiego.
 
-**Art. 104.** Środki z administracyjnej kary pieniężnej stanowią dochód budżetu państwa.
+**Art. 104.**
+
+1. Środki z administracyjnej kary pieniężnej stanowią dochód budżetu państwa, z uwzględnieniem ust. 2.
+
+2. Środki z administracyjnej kary pieniężnej nałożonej za naruszenie art. 5 ust. 1 lit. f, art. 25 ust. 1 i 2, art. 28 ust. 3 lit. c oraz art. 32 ust. 1 i 2 rozporządzenia 2016/679 stanowią w 50 % dochód budżetu państwa, a w 50 % dochód Funduszu Cyberbezpieczeństwa, o którym mowa w art. 2 ustawy z dnia 2 grudnia 2021 r. o szczególnych zasadach wynagradzania osób realizujących zadania z zakresu cyberbezpieczeństwa (Dz. U. z 2024 r. poz. 1662, z 2025 r. poz. 1017 oraz z 2026 r. poz. 252).
 
 **Art. 105.**
 
@@ -932,7 +975,7 @@ o ochronie danych osobowych
 
 3. Do wniosku, o którym mowa w ust. 2, dołącza się uzasadnienie.
 
-4. W przypadku odroczenia terminu uiszczenia administracyjnej kary pieniężnej albo rozłożenia jej na raty, Prezes Urzędu nalicza od nieuiszczonej kwoty odsetki w stosunku rocznym, przy zastosowaniu obniżonej stawki odsetek za zwłokę, ogłaszanej na podstawie art. 56d ustawy z dnia 29 sierpnia 1997 r. − Ordynacja podatkowa (Dz. U. z 2018 r. poz. 800, 650, 723, 771 i 1000), od dnia następującego po dniu złożenia wniosku.
+4. W przypadku odroczenia terminu uiszczenia administracyjnej kary pieniężnej albo rozłożenia jej na raty, Prezes Urzędu nalicza od nieuiszczonej kwoty odsetki w stosunku rocznym, przy zastosowaniu obniżonej stawki odsetek za zwłokę, ogłaszanej na podstawie art. 56d ustawy z dnia 29 sierpnia 1997 r. − Ordynacja podatkowa (Dz. U. z 2019 r. poz. 900, z późn. zm. ), od dnia następującego po dniu złożenia wniosku.
 
 5. W przypadku rozłożenia administracyjnej kary pieniężnej na raty, odsetki, o których mowa w ust. 4, są naliczane odrębnie dla każdej raty.
 
@@ -945,7 +988,7 @@ o ochronie danych osobowych
 9. Prezes Urzędu, na wniosek podmiotu ukaranego prowadzącego działalność gospodarczą, może udzielić ulgi w wykonaniu administracyjnej kary pieniężnej określonej w ust. 2, która:
 
 - **1)** nie stanowi pomocy publicznej;
-- **2)** stanowi pomoc de minimis albo pomoc de minimis w rolnictwie lub rybołówstwie w zakresie i na zasadach określonych w bezpośrednio obowiązujących przepisach prawa Unii Europejskiej dotyczących pomocy w ramach zasady de minimis;
+- **2)** stanowi pomoc de minimis albo pomoc de minimis w rolnictwie lub rybołówstwie – w zakresie i na zasadach określonych w bezpośrednio obowiązujących przepisach prawa Unii Europejskiej dotyczących pomocy w ramach zasady de minimis;
 - **3)** stanowi pomoc publiczną zgodną z zasadami rynku wewnętrznego Unii Europejskiej, której dopuszczalność została określona przez właściwe organy Unii Europejskiej.
 
 **Art. 106.** Przepisów art. 189d–189f i art. 189k ustawy z dnia 14 czerwca 1960 r. − Kodeks postępowania administracyjnego nie stosuje się.
@@ -956,117 +999,13 @@ o ochronie danych osobowych
 
 2. Jeżeli czyn określony w ust. 1 dotyczy danych ujawniających pochodzenie rasowe lub etniczne, poglądy polityczne, przekonania religijne lub światopoglądowe, przynależność do związków zawodowych, danych genetycznych, danych biometrycznych przetwarzanych w celu jednoznacznego zidentyfikowania osoby fizycznej, danych dotyczących zdrowia, seksualności lub orientacji seksualnej, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat trzech.
 
-**Art. 108.** Kto udaremnia lub utrudnia kontrolującemu prowadzenie kontroli przestrzegania przepisów o ochronie danych osobowych, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat dwóch.
+**Art. 108.**
+
+1. Kto udaremnia lub utrudnia kontrolującemu prowadzenie kontroli przestrzegania przepisów o ochronie danych osobowych, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat dwóch.
+
+2. Tej samej karze podlega kto, w związku z toczącym się postępowaniem w sprawie nałożenia administracyjnej kary pieniężnej, nie dostarcza danych niezbędnych do określenia podstawy wymiaru administracyjnej kary pieniężnej lub dostarcza dane, które uniemożliwiają ustalenie podstawy wymiaru administracyjnej kary pieniężnej.
 
 #### Rozdział 12 Zmiany w przepisach
-
-**Art. 109.** W ustawie z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. z 2018 r. poz. 155, z późn. zm. ) w art. 17 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „4 ) o roszczenia wynikające z naruszenia praw przysługujących na mocy przepisów o ochronie danych osobowych.”.
-
-**Art. 110.** W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2017 r. poz. 1201, 1475, 1954 i 2491 oraz z 2018 r. poz. 138 i 398) wprowadza się następujące zmiany:
-
-**Art. 111.** W ustawie z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2018 r. poz. 917) po art. 22 dodaje się art. 22 i art. 22 w brzmieniu: „Art. 22 . § 1. Jeżeli jest to niezbędne do zapewnienia bezpieczeństwa pracowników lub ochrony mienia lub kontroli produkcji lub zachowania w tajemnicy informacji, których ujawnienie mogłoby narazić pracodawcę na szkodę, pracodawca może wprowadzić szczególny nadzór nad terenem zakładu pracy lub terenem wokół zakładu pracy w postaci środków technicznych umożliwiających rejestrację obrazu (monitoring).
-
-**Art. 22³.**
-
-§ 1. Jeżeli jest to niezbędne do zapewnienia organizacji pracy umożliwiającej pełne wykorzystanie czasu pracy oraz właściwego użytkowania udostępnionych pracownikowi narzędzi pracy, pracodawca może wprowadzić kontrolę służbowej poczty elektronicznej pracownika (monitoring poczty elektronicznej).
-
-§ 2. Monitoring poczty elektronicznej nie może naruszać tajemnicy korespondencji oraz innych dóbr osobistych pracownika.
-
-§ 3. Przepisy art. 22 § 6–10 stosuje się odpowiednio.
-
-§ 4. Przepisy § 1–3 stosuje się odpowiednio do innych form monitoringu niż określone w § 1, jeśli ich zastosowanie jest konieczne do realizacji celów określonych w § 1.”.
-
-**Art. 112.** W ustawie z dnia 31 lipca 1981 r. o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe (Dz. U. z 2017 r. poz. 1998 oraz z 2018 r. poz. 650) użyte w art. 2 w pkt 2 i 4 wyrazy „Generalnego Inspektora Ochrony Danych Osobowych” zastępuje się wyrazami „Prezesa Urzędu Ochrony Danych Osobowych”.
-
-**Art. 113.** W ustawie z dnia 16 września 1982 r. o pracownikach urzędów państwowych (Dz. U. z 2017 r. poz. 2142 i 2203 oraz z 2018 r. poz. 106 i 650) użyte w art. 1 w ust. 1 w pkt 13, w art. 36 w ust. 5 w pkt 1 oraz art. 48 w ust. 2, w różnym przypadku, wyrazy „Biuro Generalnego Inspektora Ochrony Danych Osobowych” zastępuje się użytymi w odpowiednim przypadku wyrazami „Urząd Ochrony Danych Osobowych”.
-
-**Art. 114.** W ustawie z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2018 r. poz. 994) wprowadza się następujące zmiany:
-
-**Art. 115.** W ustawie z dnia 23 grudnia 1994 r. o Najwyższej Izbie Kontroli (Dz. U. z 2017 r. poz. 524) wprowadza się następujące zmiany:
-
-**Art. 116.** W ustawie z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2018 r. poz. 997) użyte w art. 44 w ust. 2 w pkt 2 wyrazy „Generalnemu Inspektorowi Ochrony Danych Osobowych” zastępuje się wyrazami „Prezesowi Urzędu Ochrony Danych Osobowych”.
-
-**Art. 117.** W ustawie z dnia 10 kwietnia 1997 r. Prawo energetyczne (Dz. U. z 2018 r. poz. 755, 650, 685 i 771) w art. 9c ust. 5a otrzymuje brzmienie: „5a. Operatorzy systemów dystrybucyjnych instalujący u odbiorców końcowych przyłączonych do ich sieci liczniki zdalnego odczytu są obowiązani chronić dane pomiarowe dotyczące tych odbiorców na zasadach określonych w przepisach o ochronie danych osobowych.”.
-
-**Art. 118.** W ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2018 r. poz. 121, 50 i 650) użyte w art. 60 w ust. 1 w pkt 1 wyrazy „Generalnego Inspektora Ochrony Danych Osobowych” zastępuje się wyrazami „Prezesa Urzędu Ochrony Danych Osobowych”.
-
-**Art. 119.** W ustawie z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2018 r. poz. 511) w art. 6d ust. 4b otrzymuje brzmienie: „4b. Podmioty wymienione w ust. 4a przetwarzają dane udostępnione z systemu w celu, w którym te dane zostały im udostępnione, na zasadach określonych w przepisach o ochronie danych osobowych.”.
-
-**Art. 120.** W ustawie z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2018 r. poz. 800, 650, 723 i 771) wprowadza się następujące zmiany:
-
-**Art. 121.** W ustawie z dnia 29 sierpnia 1997 r. Prawo bankowe (Dz. U. z 2017 r. poz. 1876, z późn. zm. ) w art. 105 w ust. 1 w pkt 2 lit. n otrzymuje brzmienie: „n) Prezesa Urzędu Ochrony Danych Osobowych w zakresie niezbędnym do realizacji ustawowych zadań,”.
-
-**Art. 122.** W ustawie z dnia 5 czerwca 1998 r. o samorządzie województwa (Dz. U. z 2018 r. poz. 913) po art. 60 dodaje się art. 60a w brzmieniu: „Art. 60a. 1. Obowiązkiem osób uczestniczących w zarządzaniu mieniem województwa jest zachowanie szczególnej staranności przy wykonywaniu zarządu zgodnie z przeznaczeniem tego mienia i jego ochrona. 2. Ochrona mienia obejmuje w szczególności możliwość korzystania ze środków technicznych umożliwiających rejestrację obrazu (monitoring) na terenie nieruchomości i w obiektach budowlanych stanowiących mienie województwa, a także na terenie wokół takich nieruchomości i obiektów budowlanych. 3. Monitoring nie obejmuje pomieszczeń sanitarnych, szatni, stołówek, palarni oraz obiektów socjalnych. 4. Nagrania obrazu zawierające dane osobowe przetwarza się wyłącznie do celów, dla których zostały zebrane, i przechowuje przez okres nieprzekraczający 3 miesięcy od dnia nagrania, o ile przepisy odrębne nie stanowią inaczej. 5. Po upływie okresu, o którym mowa w ust. 4, uzyskane w wyniku monitoringu nagrania obrazu zawierające dane osobowe podlegają zniszczeniu, z wyjątkiem sytuacji, w których nagrania zostały zabezpieczone, zgodnie z odrębnymi przepisami. 6. Nieruchomości i obiekty budowlane objęte monitoringiem oznacza się w sposób widoczny i czytelny informacją o monitoringu, w szczególności za pomocą odpowiednich znaków. 7. Monitoring, w ramach którego dochodzi do przetwarzania danych osobowych, wymaga stosowania środków zabezpieczających przetwarzanie tych danych, w szczególności uniemożliwiających ich utratę lub bezprawne rozpowszechnienie, a także uniemożliwienie dostępu do danych osobom nieuprawnionym.”.
-
-**Art. 123.** W ustawie z dnia 5 czerwca 1998 r. o samorządzie powiatowym (Dz. U. z 2018 r. poz. 995) wprowadza się następujące zmiany:
-
-**Art. 124.** W ustawie z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu (Dz. U. z 2016 r. poz. 1575 oraz z 2018 r. poz. 5 i 369) wprowadza się następujące zmiany:
-
-**Art. 125.** W ustawie z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz. U. z 2018 r. poz. 110 i 650) w art. 6aa ust. 5 otrzymuje brzmienie: „5. Agencja pełni funkcję administratora danych, o których mowa w ust. 2 i 3.”.
-
-**Art. 126.** W ustawie z dnia 8 czerwca 2001 r. o zawodzie psychologa i samorządzie zawodowym psychologów (Dz. U. poz. 763 i 1798 oraz z 2009 r. poz. 120 i 753) w art. 13 ust. 2 otrzymuje brzmienie: „2. Jeżeli wyniki badań mają służyć nie tylko do informacji klienta, stosuje się przepisy o ochronie danych osobowych.”.
-
-**Art. 127.** W ustawie z dnia 27 lipca 2001 r. Prawo o ustroju sądów powszechnych (Dz. U. z 2018 r. poz. 23, z późn. zm. ) wprowadza się następujące zmiany:
-
-**Art. 128.** W ustawie z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2017 r. poz. 1952 oraz z 2018 r. poz. 107, 138, 650, 730 i 912) w art. 23 ust. 9 otrzymuje brzmienie: „9. Informacje, o których mowa w ust. 8, mogą być przetwarzane przez ministra właściwego do spraw rodziny i wojewodę w celu monitorowania realizacji świadczeń rodzinnych oraz w celu umożliwienia organom właściwym i wojewodzie weryfikacji prawa do świadczeń rodzinnych oraz przez podmioty wymienione w ust. 10 w celu, w którym informacje te zostały im udostępnione, na zasadach określonych w przepisach o ochronie danych osobowych. Organy właściwe i wojewoda przekazują dane do rejestru centralnego, wykorzystując oprogramowanie, o którym mowa w ust. 7.”.
-
-**Art. 129.** W ustawie z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2018 r. poz. 56, z późn. zm. ) w art. 286b ust. 16 otrzymuje brzmienie: „16. Komisja może przekazać organowi nadzoru państwa trzeciego informacje dotyczące sprawy indywidualnej prowadzonej przez Komisję, jeżeli spełnione są warunki, o których mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1) w przypadku danych osobowych, oraz jeżeli ich przekazanie jest niezbędne dla realizacji zadań określonych ustawą. Komisja może w takim przypadku wyrazić zgodę na dalsze przekazanie tych informacji organowi nadzoru innego państwa trzeciego.”.
-
-**Art. 130.** W ustawie z dnia 17 grudnia 2004 r. o odpowiedzialności za naruszenie dyscypliny finansów publicznych (Dz. U. z 2017 r. poz. 1311 i 2110) użyte w art. 47 w ust. 1 w pkt 11 i w art. 52 w pkt 8, w różnym przypadku, wyrazy „Generalny Inspektor Ochrony Danych Osobowych” zastępuje się użytymi w odpowiednim przypadku wyrazami „Prezes Urzędu Ochrony Danych Osobowych”.
-
-**Art. 131.** W ustawie z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2017 r. poz. 570) wprowadza się następujące zmiany:
-
-**Art. 132.** W ustawie z dnia 27 lipca 2005 r. Prawo o szkolnictwie wyższym (Dz. U. z 2017 r. poz. 2183, z późn. zm. ) w art. 88 uchyla się ust. 5.
-
-**Art. 133.** W ustawie z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów (Dz. U. z 2017 r. poz. 2186 oraz z 2018 r. poz. 538, 650, 651 i 730) w art. 22 w ust. 1 w pkt 8c wyrazy „Generalnego Inspektora Ochrony Danych Osobowych” zastępuje się wyrazami „Prezesa Urzędu Ochrony Danych Osobowych”.
-
-**Art. 134.** W ustawie z dnia 7 września 2007 r. o pomocy osobom uprawnionym do alimentów (Dz. U. z 2018 r. poz. 554 i 650) w art. 15 ust. 8b otrzymuje brzmienie: „8b. Informacje zawarte w rejestrze centralnym, o którym mowa w ust. 8a, mogą być przetwarzane przez ministra właściwego do spraw rodziny i wojewodę w celu monitorowania realizacji świadczeń z funduszu alimentacyjnego oraz w celu umożliwienia organom właściwym dłużnika i organom właściwym wierzyciela weryfikacji prawa do świadczeń z funduszu alimentacyjnego oraz przez podmioty wymienione w ust. 8c w celu, w którym informacje te zostały im udostępnione, na zasadach określonych w przepisach o ochronie danych osobowych. Organy właściwe wierzyciela oraz organy właściwe dłużnika przekazują dane do rejestru centralnego, wykorzystując oprogramowanie, o którym mowa w ust. 8.”.
-
-**Art. 135.** W ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2017 r. poz. 2077 oraz z 2018 r. poz. 62) w art. 139 w ust. 2 wyrazy „Generalnego Inspektora Ochrony Danych Osobowych” zastępuje się wyrazami „Prezesa Urzędu Ochrony Danych Osobowych”.
-
-**Art. 136.** W ustawie z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z 2017 r. poz. 2065, z późn. zm. ) w art. 9f w ust. 1 pkt 18 otrzymuje brzmienie: „18) na żądanie Prezesa Urzędu Ochrony Danych Osobowych, w zakresie wykonywania przez niego zadań określonych w przepisach o ochronie danych osobowych;”.
-
-**Art. 137.** W ustawie z dnia 9 kwietnia 2010 r. o udostępnianiu informacji gospodarczych i wymianie danych gospodarczych (Dz. U. z 2018 r. poz. 470, 650, 723, 730 i 771) w art. 11 w ust. 2 wyrazy „Generalnego Inspektora Ochrony Danych Osobowych” zastępuje się wyrazami „Prezesa Urzędu Ochrony Danych Osobowych”.
-
-**Art. 138.** W ustawie z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2017 r. poz. 631 i 1321 oraz z 2018 r. poz. 138, 730 i 912) w art. 18 w ust. 2 pkt 6 otrzymuje brzmienie: „6) Prezes Urzędu Ochrony Danych Osobowych;”.
-
-**Art. 139.** W ustawie z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2018 r. poz. 412 i 650) w art. 34 w ust. 10 pkt 9 otrzymuje brzmienie: „9) Prezesa Urzędu Ochrony Danych Osobowych;”.
-
-**Art. 140.** W ustawie z dnia 5 stycznia 2011 r. Kodeks wyborczy (Dz. U. z 2018 r. poz. 754) w art. 143 § 4 otrzymuje brzmienie: „§ 4. Wykaz wpłat obywateli polskich na rzecz komitetu wyborczego organizacji i komitetu wyborczego wyborców Państwowa Komisja Wyborcza i komisarz wyborczy udostępniają do wglądu na wniosek, w trybie i na zasadach określonych w przepisach o ochronie danych osobowych.”.
-
-**Art. 141.** W ustawie z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. z 2018 r. poz. 123 i 650) w art. 27 ust. 9 otrzymuje brzmienie: „9. Postępowanie w sprawach określonych w ust. 1–6 jest poufne i odbywa się z zachowaniem przepisów o ochronie danych osobowych.”.
-
-**Art. 142.** W ustawie z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. z 2017 r. poz. 2003 oraz z 2018 r. poz. 62, 650, 723 i 864) art. 10 otrzymuje brzmienie: „Art. 10. Dostawcy i podmioty prowadzące systemy płatności mogą przetwarzać dane osobowe w zakresie niezbędnym do zapobiegania oszustwom związanym z wykonywanymi usługami płatniczymi lub prowadzeniem systemu płatności oraz dochodzenia i wykrywania tego rodzaju oszustw przez właściwe organy, z wyjątkiem danych, o których mowa w art. 9 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1).”.
-
-**Art. 143.** W ustawie z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2018 r. poz. 992) w art. 80 w ust. 1 pkt 3 otrzymuje brzmienie: „3) zapewnia bezpieczeństwo przetwarzanych danych, informacji oraz dokumentów, które otrzymał w związku z prowadzeniem BDO, zgodnie z przepisami o ochronie danych osobowych.”.
-
-**Art. 144.** W ustawie z dnia 20 lutego 2015 r. o odnawialnych źródłach energii (Dz. U. z 2017 r. poz. 1148, 1213 i 1593 oraz z 2018 r. poz. 9 i 650) w art. 159 ust. 1 otrzymuje brzmienie: „1. Prezes UDT administruje i przetwarza dane zawarte w rejestrach, o których mowa w art. 158 ust. 1, zgodnie z przepisami o ochronie danych osobowych.”.
-
-**Art. 145.** W ustawie z dnia 24 lipca 2015 r. Prawo o zgromadzeniach (Dz. U. z 2018 r. poz. 408) w art. 15 ust. 3 otrzymuje brzmienie: „3. Decyzję o zakazie zgromadzenia udostępnia się w Biuletynie Informacji Publicznej z uwzględnieniem przepisów o ochronie danych osobowych przez 3 miesiące od dnia jej wydania.”.
-
-**Art. 146.** W ustawie z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. z 2018 r. poz. 999) w art. 35 w ust. 2 pkt 10 otrzymuje brzmienie: „10) Prezesa Urzędu Ochrony Danych Osobowych, w zakresie wykonywania przez niego zadań określonych w przepisach o ochronie danych osobowych;”.
-
-**Art. 147.** W ustawie z dnia 25 września 2015 r. o zawodzie fizjoterapeuty (Dz. U. z 2018 r. poz. 505) w art. 12 ust. 9 otrzymuje brzmienie: „9. Postępowanie w sprawach określonych w ust. 1–7 jest poufne i odbywa się z zachowaniem przepisów o ochronie danych osobowych.”.
-
-**Art. 148.** W ustawie z dnia 9 października 2015 r. o produktach biobójczych (Dz. U. z 2018 r. poz. 122, 138 i 650) w art. 42 ust. 2 otrzymuje brzmienie: „2. Raport oraz dane, o których mowa w ust. 1, nie mogą obejmować danych podlegających ochronie na podstawie przepisów o ochronie danych osobowych.”.
-
-**Art. 149.** W ustawie z dnia 28 stycznia 2016 r. Prawo o prokuraturze (Dz. U. z 2017 r. poz. 1767 oraz z 2018 r. poz. 5) wprowadza się następujące zmiany:
-
-**Art. 150.** W ustawie z dnia 11 lutego 2016 r. o pomocy państwa w wychowywaniu dzieci (Dz. U. z 2017 r. poz. 1851 oraz z 2018 r. poz. 107, 138 i 650) w art. 14 ust. 3 otrzymuje brzmienie: „3. Informacje, o których mowa w ust. 2, mogą być przetwarzane przez ministra właściwego do spraw rodziny i wojewodę w celu monitorowania realizacji świadczeń wychowawczych oraz w celu umożliwienia organom właściwym i wojewodom weryfikacji prawa do świadczeń wychowawczych oraz przez podmioty wymienione w ust. 4 w celu, w jakim informacje te zostały im udostępnione, na zasadach określonych w przepisach o ochronie danych osobowych. Organy właściwe i wojewodowie przekazują dane do rejestru centralnego, wykorzystując systemy teleinformatyczne, o których mowa w ust. 1.”.
-
-**Art. 151.** W ustawie z dnia 25 lutego 2016 r. o ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. poz. 352 oraz z 2017 r. poz. 60) w art. 7 ust. 2 otrzymuje brzmienie: „2. Przepisy ustawy nie naruszają przepisów o ochronie danych osobowych.”.
-
-**Art. 152.** W ustawie z dnia 13 kwietnia 2016 r. o bezpieczeństwie obrotu prekursorami materiałów wybuchowych (Dz. U. z 2018 r. poz. 410) art. 9 otrzymuje brzmienie: „Art. 9. Do danych osobowych zgromadzonych w systemie zgłaszania stosuje się przepisy o ochronie danych osobowych.”.
-
-**Art. 153.** W ustawie z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2018 r. poz. 508, 650 i 723) w art. 45 ust. 1 otrzymuje brzmienie: „1. Organy KAS, w celu realizacji ustawowych zadań w zakresie, o którym mowa w art. 2 ust. 1 pkt 1, 2, 6 i 8, mogą zbierać i wykorzystywać informacje, w tym dane osobowe, od osób prawnych, jednostek organizacyjnych niemających osobowości prawnej oraz osób fizycznych prowadzących działalność gospodarczą, o zdarzeniach mających bezpośredni wpływ na powstanie lub wysokość zobowiązania podatkowego lub należności celnych oraz przetwarzać je, a także występować do tych podmiotów o udostępnienie dokumentów zawierających informacje, w tym dane osobowe, także bez wiedzy i zgody osoby, której dane te dotyczą.”.
-
-**Art. 154.** W ustawie z dnia 14 grudnia 2016 r. Prawo oświatowe (Dz. U. z 2018 r. poz. 996) po art. 108 dodaje się art. 108a w brzmieniu: „Art. 108a. 1. Jeżeli jest to niezbędne do zapewnienia bezpieczeństwa uczniów i pracowników lub ochrony mienia dyrektor szkoły lub placówki, w uzgodnieniu z organem prowadzącym szkołę lub placówkę oraz po przeprowadzeniu konsultacji z radą pedagogiczną, radą rodziców i samorządem uczniowskim, może wprowadzić szczególny nadzór nad pomieszczeniami szkoły lub placówki lub terenem wokół szkoły lub placówki w postaci środków technicznych umożliwiających rejestrację obrazu (monitoring). 2. Monitoring nie powinien stanowić środka nadzoru nad jakością wykonywania pracy przez pracowników szkoły lub placówki. 3. Monitoring nie obejmuje pomieszczeń, w których odbywają się zajęcia dydaktyczne, wychowawcze i opiekuńcze, pomieszczeń, w których uczniom jest udzielana pomoc psychologiczno-pedagogiczna, pomieszczeń przeznaczonych do odpoczynku i rekreacji pracowników, pomieszczeń sanitarnohigienicznych, gabinetu profilaktyki zdrowotnej, szatni i przebieralni, chyba że stosowanie monitoringu w tych pomieszczeniach jest niezbędne ze względu na istniejące zagrożenie dla realizacji celu określonego w ust. 1 i nie naruszy to godności oraz innych dóbr osobistych uczniów, pracowników i innych osób, w szczególności zostaną zastosowane techniki uniemożliwiające rozpoznanie przebywających w tych pomieszczeniach osób. 4. Nagrania obrazu zawierające dane osobowe uczniów, pracowników i innych osób, których w wyniku tych nagrań można zidentyfikować, szkoła lub placówka przetwarza wyłącznie do celów, dla których zostały zebrane, i przechowuje przez okres nie dłuższy niż 3 miesiące od dnia nagrania. 5. Po upływie okresu, o którym mowa w ust. 4, uzyskane w wyniku monitoringu nagrania obrazu zawierające dane osobowe uczniów, pracowników i innych osób, których w wyniku tych nagrań można zidentyfikować, podlegają zniszczeniu, o ile przepisy odrębne nie stanowią inaczej. 6. Dyrektor szkoły lub placówki informuje uczniów i pracowników szkoły lub placówki o wprowadzeniu monitoringu, w sposób przyjęty w danej szkole lub placówce, nie później niż 14 dni przed uruchomieniem monitoringu. 7. Dyrektor szkoły lub placówki przed dopuszczeniem osoby do wykonywania obowiązków służbowych informuje ją na piśmie o stosowaniu monitoringu. 8. W przypadku wprowadzenia monitoringu dyrektor szkoły lub placówki oznacza pomieszczenia i teren monitorowany w sposób widoczny i czytelny, za pomocą odpowiednich znaków lub ogłoszeń dźwiękowych, nie później niż dzień przed jego uruchomieniem. 9. Dyrektor szkoły lub placówki uzgadnia z organem prowadzącym szkołę lub placówkę odpowiednie środki techniczne i organizacyjne w celu ochrony przechowywanych nagrań obrazu oraz danych osobowych uczniów, pracowników i innych osób, których w wyniku tych nagrań można zidentyfikować, uzyskanych w wyniku monitoringu.”.
-
-**Art. 155.** W ustawie z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym (Dz. U. poz. 2259, z 2017 r. poz. 624, 1491 i 1529 oraz z 2018 r. poz. 538 i 702) po art. 5 dodaje się art. 5a w brzmieniu: „Art. 5a. 1. Zarządzanie mieniem państwowym obejmuje także zapewnienie bezpieczeństwa mienia, w ramach którego możliwe jest stosowanie zabezpieczeń, w tym zabezpieczeń fizycznych oraz środków technicznych umożliwiających rejestrację obrazu (monitoring) na terenie nieruchomości i w obiektach budowlanych stanowiących mienie państwowe, a także na terenie wokół takich nieruchomości i obiektów, jeżeli jest to konieczne do zapewnienia bezpieczeństwa zarządzanym mieniem państwowym. 2. Monitoring nie obejmuje pomieszczeń sanitarnych, szatni, stołówek, palarni oraz obiektów socjalnych. 3. Nagrania obrazu zawierające dane osobowe przetwarza się wyłącznie do celów, dla których zostały zebrane, i przechowuje przez okres nieprzekraczający 3 miesięcy od dnia nagrania, o ile przepisy odrębne nie stanowią inaczej. 4. Po upływie okresu, o którym mowa w ust. 3, uzyskane w wyniku monitoringu nagrania obrazu zawierające dane osobowe podlegają zniszczeniu, z wyjątkiem sytuacji, w których nagrania zostały zabezpieczone, zgodnie z odrębnymi przepisami. 5. Nieruchomości i obiekty budowlane objęte monitoringiem oznacza się w sposób widoczny i czytelny informacją o monitoringu, w szczególności za pomocą odpowiednich znaków. 6. Monitoring, w ramach którego dochodzi do przetwarzania danych osobowych, wymaga stosowania środków zabezpieczających przetwarzanie tych danych, w szczególności uniemożliwiających ich utratę lub bezprawne rozpowszechnienie, a także uniemożliwienie dostępu do danych osobom nieuprawnionym.”.
-
-**Art. 156.** W ustawie z dnia 9 marca 2017 r. o systemie monitorowania drogowego przewozu towarów (Dz. U. poz. 708 oraz z 2018 r. poz. 138) w art. 4 ust. 3 otrzymuje brzmienie: „3. Rejestr prowadzi Szef Krajowej Administracji Skarbowej, który jest administratorem danych przetwarzanych w rejestrze.”.
-
-**Art. 157.** W ustawie z dnia 27 października 2017 r. o podstawowej opiece zdrowotnej (Dz. U. poz. 2217) w art. 10 ust. 5 otrzymuje brzmienie: „5. Wypełnione deklaracje wyboru, o których mowa w ust. 1 pkt 1, świadczeniodawca przechowuje w swojej siedzibie albo w miejscu udzielania świadczeń z zakresu podstawowej opieki zdrowotnej, zapewniając ich dostępność świadczeniobiorcom, którzy je złożyli, z zachowaniem wymagań wynikających z przepisów o ochronie danych osobowych.”.
 
 #### Rozdział 13 Przepisy przejściowe i dostosowujące
 
@@ -1092,7 +1031,7 @@ o ochronie danych osobowych
 
 1. Postępowania prowadzone przez Generalnego Inspektora Ochrony Danych Osobowych, wszczęte i niezakończone przed dniem wejścia w życie niniejszej ustawy, prowadzone są przez Prezesa Urzędu.
 
-2. Postępowania, o których mowa w ust. 1, prowadzi się na podstawie ustawy uchylanej w art. 175, zgodnie z zasadami określonymi w ustawie z dnia 14 czerwca 1960 r. − Kodeks postępowania administracyjnego (Dz. U. z 2017 r. poz. 1257 oraz z 2018 r. poz. 149 i 650).
+2. Postępowania, o których mowa w ust. 1, prowadzi się na podstawie ustawy uchylanej w art. 175, zgodnie z zasadami określonymi w ustawie z dnia 14 czerwca 1960 r. − Kodeks postępowania administracyjnego (Dz. U. z 2018 r. poz. 2096 oraz z 2019 r. poz. 60, 730 i 1133).
 
 3. Czynności dokonane w postępowaniach, o których mowa w ust. 1, pozostają skuteczne.
 
@@ -1124,7 +1063,7 @@ o ochronie danych osobowych
 
 1. Z dniem wejścia w życie niniejszej ustawy Biuro Generalnego Inspektora Ochrony Danych Osobowych staje się Urzędem.
 
-2. Z dniem wejścia w życie niniejszej ustawy pracownicy zatrudnieni w Biurze Generalnego Inspektora Ochrony Danych Osobowych stają się pracownikami Urzędu. Przepis art. 23 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2018 r. poz. 917 i 1000) stosuje się odpowiednio.
+2. Z dniem wejścia w życie niniejszej ustawy pracownicy zatrudnieni w Biurze Generalnego Inspektora Ochrony Danych Osobowych stają się pracownikami Urzędu. Przepis art. 23 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2019 r. poz. 1040, 1043 i 1495) stosuje się odpowiednio.
 
 **Art. 168.** Z dniem wejścia w życie niniejszej ustawy mienie Skarbu Państwa będące we władaniu Biura Generalnego Inspektora Ochrony Danych Osobowych staje się mieniem będącym we władaniu Urzędu.
 
@@ -1146,16 +1085,16 @@ o ochronie danych osobowych
 
 1. Maksymalny limit wydatków z budżetu państwa przeznaczonych na wykonywanie zadań wynikających z niniejszej ustawy wynosi w roku:
 
-- **1)** 2018 19 639 000 złotych;
-- **2)** 2019 13 541 000 złotych;
-- **3)** 2020 13 860 000 złotych;
-- **4)** 2021 13 860 000 złotych;
-- **5)** 2022 13 860 000 złotych;
-- **6)** 2023 13 860 000 złotych;
-- **7)** 2024 13 860 000 złotych;
-- **8)** 2025 13 860 000 złotych;
-- **9)** 2026 13 860 000 złotych;
-- **10)** 2027 13 860 000 złotych.
+- **1)** 2018 – 19 639 000 złotych;
+- **2)** 2019 – 13 541 000 złotych;
+- **3)** 2020 – 13 860 000 złotych;
+- **4)** 2021 – 13 860 000 złotych;
+- **5)** 2022 – 13 860 000 złotych;
+- **6)** 2023 – 13 860 000 złotych;
+- **7)** 2024 – 13 860 000 złotych;
+- **8)** 2025 – 13 860 000 złotych;
+- **9)** 2026 – 13 860 000 złotych;
+- **10)** 2027 – 13 860 000 złotych.
 
 2. Prezes Urzędu monitoruje wykorzystanie limitu wydatków, o których mowa w ust. 1, i dokonuje oceny wykorzystania tego limitu według stanu na koniec każdego kwartału.
 
@@ -1165,7 +1104,9 @@ o ochronie danych osobowych
 
 #### Rozdział 14 Przepisy końcowe
 
-**Art. 175.** Traci moc ustawa z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz. U. z 2016 r. poz. 922 oraz z 2018 r. poz. 138 i 723) z wyjątkiem art. 1, art. 2, art. 3 ust. 1, art. 4–7, art. 14–22, art. 23–28, art. 31 oraz rozdziałów 4, 5 i 7, które zachowują moc w odniesieniu do przetwarzania danych osobowych w celu rozpoznawania, zapobiegania, wykrywania i zwalczania czynów zabronionych, prowadzenia postępowań w sprawach dotyczących tych czynów oraz wykonywania orzeczeń w nich wydanych, kar porządkowych i środków przymusu w zakresie określonym w przepisach stanowiących podstawę działania służb i organów uprawnionych do realizacji zadań w tym zakresie, w terminie do dnia wejścia w życie przepisów wdrażających dyrektywę Parlamentu Europejskiego i Rady (UE) 2016/680 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych przez właściwe organy do celów zapobiegania przestępczości, prowadzenia postępowań przygotowawczych, wykrywania i ścigania czynów zabronionych i wykonywania kar, w sprawie swobodnego przepływu takich danych oraz uchylającą decyzję ramową Rady 2008/977/WSiSW (Dz. Urz. UE L 119 z 04.05.2016, str. 89).
+**Art. 175.**
 
-**Art. 176.** Ustawa wchodzi w życie z dniem 25 maja 2018 r. Prezydent Rzeczypospolitej Polskiej: A. Duda
+- **10)** Traci moc ustawa z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz. U. z 2016 r. poz. 922 oraz z 2018 r. poz. 138 i 723) z wyjątkiem art. 1, art. 2, art. 3 ust. 1, art. 4–7, art. 14–22, art. 23–28, art. 31 oraz rozdziałów 4, 5 i 7, które zachowują moc w odniesieniu do przetwarzania danych osobowych w celu rozpoznawania, zapobiegania, wykrywania i zwalczania czynów zabronionych, prowadzenia postępowań w sprawach dotyczących tych czynów oraz wykonywania orzeczeń w nich wydanych, kar porządkowych i środków przymusu w zakresie określonym w przepisach stanowiących podstawę działania służb i organów uprawnionych do realizacji zadań w tym zakresie, w terminie do dnia wejścia w życie przepisów wdrażających dyrektywę Parlamentu Europejskiego i Rady (UE) 2016/680 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych przez właściwe organy do celów zapobiegania przestępczości, prowadzenia postępowań przygotowawczych, wykrywania i ścigania czynów zabronionych i wykonywania kar, w sprawie swobodnego przepływu takich danych oraz uchylającą decyzję ramową Rady 2008/977/WSiSW (Dz. Urz. UE L 119 z 04.05.2016, str. 89).
+
+**Art. 176.** Ustawa wchodzi w życie z dniem 25 maja 2018 r.
 

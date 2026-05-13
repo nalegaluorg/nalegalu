@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 5 lutego 2020 r.
+# o zmianie ustawy o podatku dochodowym od osób fizycznych oraz ustawy o podatku dochodowym od osób prawnych
+
+*USTAWA z dnia 20 grudnia 2019 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +25,6 @@ domain: null
 | Data wydania | 2020-02-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000183) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/183/text.pdf) |
-
-Poz. 183
-USTAWA z dnia 20 grudnia 2019 r.
-o zmianie ustawy o podatku dochodowym od osób fizycznych oraz ustawy o podatku dochodowym od osób prawnych
 
 **Art. 1.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2019 r. poz. 1387, z późn. zm. ) wprowadza się następujące zmiany:
 

@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# niu obrotem zzagranicą towarami iusługa- Art. 3. Ustawa wchodzi w życie po upływie 30 dni mi, pozwolenie, októrym mowa w§ 6, wy- od dnia ogłoszenia.
+# z 7 czerwca 2002 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,27 +24,35 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021120976) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/976/text.pdf) |
 
-daje Prezes Agencji Rynku Rolnego.”
-
-**Art. 2.** Sprawy wszczęte niezakończone przed dniem wejścia w życie ustawy podlegają rozpatrzeniu według przepisów niniejszej ustawy. Prezydent Rzeczypospolitej Polskiej:A. Kwaśniewski 975 USTAWA zdnia 23 maja 2002 r. ozmianie ustawy oułatwieniu zatrudnienia absolwentom szkół.
-
-**Art. 1.** W ustawie z dnia 18 września 2001 r. o ułatwieniu zatrudnienia absolwentom szkół (Dz. U. 122, poz. 1325 iNr 154, poz. 1793) wprowadza się następujące zmiany:
-
-**Art. 2.** Dokumenty określone w art. 47a ust. 1 ustawy z dnia 13 paêdziernika 1998 r. o systemie ubezpieczeń społecznych (Dz. U. 137, poz. 887 162, poz. 1118 1126, z 1999 r. 26, poz. 228, 60, poz. 636, 72, poz. 802, 78, poz. 875 110, poz. 1256, z 2000 r. 9, poz. 118, 95, poz. 1041, 104, poz. 1104 119, poz. 1249, z 2001 r. 8, poz. 64, 27, poz. 298, 39, poz. 459, 72, poz. 748, 100, poz. 1080, 110, poz. 1189, 111, poz. 1194, 130, poz. 1452 iNr 154, poz. 1792 oraz z2002 r. 25, poz. 253,Nr 41, poz. 365 74, poz. 676), zawierające dane dotyczące absolwenta zwolnionego z obowiązku opłacania składek na ubezpieczenie emerytalne, powinny być przekazywane do Zakładu Ubezpieczeń Społecznych wformie dokumentu pisemnego.
-
-**Art. 3.** Zwolnienie, októrym mowa wart. 1, nie dotyczy absolwentów, którzy podjęli działalność gospodarczą przed dniem wejścia wżycie ustawy.
-
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni 5. Przepisy ust. 1—4 stosuje się także do od dnia ogłoszenia. absolwentów niezamieszkałych wrejonach uznanych za zagrożone szczegól- Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski USTAWA zdnia 7 czerwca 2002 r. ozmianie ustawy ozwalczaniu chorób zakaênych zwierząt, badaniu zwierząt rzeênych imięsa oraz oInspekcji Weterynaryjnej oraz zmianie niektórych innych ustaw.
-
-**Art. 1.** Wustawie z dnia 24 kwietnia 1997 r. ozwalczaniu chorób zakaênych zwierząt, badaniu zwierząt (Dz. U. z 1999 r. 66, poz. 752 oraz z 2001 r. 29, poz. 320, 123, poz. 1350 iNr 129, poz. 1438) wart. 7
-
-**Art. 2.** Wustawie zdnia 29 grudnia 1993 r. outwo- 2) wysokość wynagrodzenia zasady dorzeniu Agencji Restrukturyzacji Modernizacji Rolnic- konywania płatności. twa (Dz. U. z1994 r. 1, poz. 2, 80, poz. 369 iNr 98, 7. Posiadacz zwierzęcia jest obowiązany zapoz. 473, z 1997 r. 41, poz. 255, 79, poz. 484 141, poz. 943, z 1998 r. 106, poz. 668, z 2000 r. 48, poz. 547 i550 iNr 88, poz. 983 oraz z2001 r. 3, poz. 19, 29, poz. 320, 38, poz. 452, 125, poz. 1363 iNr 129, poz. 1438) art. 3cotrzymuje brzmienie: ŃArt. 3c. Do zadań Agencji należy prowadzenie rejestru wykonywanie innych czynności związanych z oznakowaniem bydła, owiec, kóz, świń, koni, zwyjątkiem koni wolno żyjących, jeleni idanieli utrzymywanych wwarunkach fermowych.”
-
-**Art. 3.** W ustawie z dnia 25 lipca 2001 r. o zmianie ustawy o zawodzie lekarza weterynarii izbach lekarsko-weterynaryjnych, ustawy o zwalczaniu chorób zakaênych zwierząt, badaniu zwierząt rzeênych mięsa oraz o Inspekcji Weterynaryjnej oraz ustawy o organizacji hodowli irozrodzie zwierząt gospodarskich (Dz. U. 129, poz. 1438 154, poz. 1790) po art. 4 dodaje się art. 4ai4bwbrzmieniu: ŃArt. 4a. 1. W2002 r. iw2003 r. znakowania irejestracji bydła dokonuje się zgodnie zprzepisami ust. 2—10. 2. Oznakowaniu podlega całe pogłowie bydła, w tym zwierzęta urodzone przed dniem 1 stycznia 2002 r. 3. Posiadacze bydła nie ponoszą opłat za czynności związane z oznakowaniem bydła, w tym założeniem kolczyków, wydapewnić dostęp do zwierzęcia, a także udzielić pomocy osobom dokonującym założenia kolczyków. 8. Oterminach zakładania kolczyków na terenie gminy powiadamia posiadaczy bydła, w sposób zwyczajowo przyjęty w danej gminie, Agencja Restrukturyzacji iModernizacji Rolnictwa. 9. Po upływie terminów, o których mowa w ust. 8, posiadacz bydła jest obowiązany powiadomić Agencję Restrukturyzacji iModernizacji Rolnictwa ofakcie urodzenia lub nabycia zwierzęcia wterminie 7 dni. 10. Wsprawach nieuregulowanych wustawie stosuje się przepisy ustawy z dnia 24 kwietnia 1997 r. o zwalczaniu chorób zakaênych zwierząt, badaniu zwierząt rzeênych imięsa oraz oInspekcji Weterynaryjnej (Dz. U. z 1999 r. 66, poz. 752, z2001 r. 29, poz. 320, 123, poz. 1350 129, poz. 1438 oraz z 2002 r. 112, poz. 976).
-
-**Art. 4b.** W 2002 r. w 2003 r. przepis art. 4 w odniesieniu do bydła dotyczy również zwierząt urodzonych po dniu 1 stycznia 2002 r.”
-
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 977 USTAWA zdnia 20 czerwca 2002 r. ozmianie ustawy ouprawnieniach do ulgowych przejazdów środkami publicznego transportu zbiorowego.
-
-**Art. 1.** Wustawie zdnia 20 czerwca 1992 r. oupraw- go transportu zbiorowego (Dz. U. 54, poz. 254,
+o zmianie ustawy o zwalczaniu chor(cid:243)b zakaźnych zwierząt, badaniu zwierząt rzeźnych mięsa oraz o Inspekcji Weterynaryjnej oraz zmianie niekt(cid:243)rych innych ustaw
+1.
+W ustawie z 24 kwietnia 1997 r. o zwalczaniu chor(cid:243)b zakaźnych zwierząt, badaniu zwierząt rzeźnych mięsa oraz o Inspekcji Weterynaryjnej (Dz. U. z 1999 r. Nr 66, poz. 752 oraz z 2001 r. Nr 29, poz. 320, Nr 123, poz. 1350 Nr 129, poz.
+1438) w art. 7 wprowadza się następujące zmiany:
+1) ust. 24 otrzymuje brzmienie: (cid:132)24. Za czynności związane z oznakowaniem, w tym wydawaniem paszport(cid:243)w oraz ksiąg rejestracji zwierząt Agencja pobiera opłaty.(cid:148);
+2) w ust 27:
+a) w pkt 1 lit. a) otrzymuje brzmienie: (cid:132)a) prowadzenia rejestru, o kt(cid:243)rym mowa w ust. 8, w tym tryb zgłaszania zwierząt do rejestru oraz wz(cid:243)r zgłoszenia,(cid:148),
+b) pkt 4 otrzymuje brzmienie: (cid:132)4) wysokość opłat za czynności związane z oznakowaniem, wydawaniem paszport(cid:243)w zwierząt ksiąg rejestracji, uwzględniając koszty ponoszone przez Agencję, w porozumieniu z ministrem właściwym do spraw finans(cid:243)w publicznych,(cid:148),
+c) pkt 5 skreśla się.
+2.
+W ustawie z 29 grudnia 1993 r. o utworzeniu Agencji Restrukturyzacji Moder-nizacji Rolnictwa (Dz.U. z 1994 r. Nr 1, poz. 2, Nr 80, poz. 369 Nr 98, poz. 473, z 1997 r. Nr 41, poz. 255, Nr 79, poz. 484 Nr 141, poz. 943, z 1998 r.
+Nr 106, poz. 668, z 2000 r. Nr 48, poz. 547 550 Nr 88, poz. 983 oraz z 2001 r.
+Nr 3, poz. 19, Nr 29, poz. 320, Nr 38, poz. 452, Nr 125, poz. 1363 Nr 129, poz.
+1438) art. 3c otrzymuje brzmienie: (cid:132)Art. 3c. Do zadań Agencji należy prowadzenie rejestru wykonywanie innych czynności związanych z oznakowaniem bydła, owiec, k(cid:243)z, świń, koni, z wyjątkiem koni wolno żyjących, jeleni danieli utrzymywanych w warunkach fermowych(cid:148).
+rii izbach lekarsko-weterynaryjnych, ustawy o zwalczaniu chor(cid:243)b zakaźnych zwierząt, badaniu zwierząt rzeźnych mięsa oraz o Inspekcji Weterynaryjnej oraz ustawy o organizacji hodowli rozrodzie zwierząt gospodarskich (Dz.U. Nr 129, poz. 1438 Nr 154, poz. 1790) po art. 4 dodaje się art. 4a 4b w brzmieniu: (cid:132)Art. 4a. 1. W 2002 r. w 2003 r. znakowania rejestracji bydła dokonuje się zgodnie z przepisami ust. 2-10.
+2. Oznakowaniu podlega całe pogłowie bydła, w tym zwierzęta urodzone przed 1 stycznia 2002 r.
+3. Posiadacze bydła nie ponoszą opłat za czynności związane z oznakowaniem bydła, w tym założeniem kolczyk(cid:243)w, wydawaniem paszport(cid:243)w zwierząt ksiąg rejestracji.
+4. Koszty związane z opłatami, o kt(cid:243)rych mowa w ust. 3, ponosi Agencja Restrukturyzacji Modernizacji Rolnictwa.
+5. Agencja Restrukturyzacji Modernizacji Rolnictwa może zlecić, w drodze umowy, dokonanie następujących czynności związanych z oznakowaniem bydła, o kt(cid:243)rym mowa w ust. 2, w szczeg(cid:243)lności:
+1) założenia kolczyk(cid:243)w zgłoszenia tego faktu Agencji w terminie 7 dni,
+2) wydania posiadaczowi bydła księgi rejestracji.
+6. Umowa, w sprawie oznakowania, określa w szczeg(cid:243)lności:
+1) zasady wydawania kolczyk(cid:243)w ksiąg rejestracji,
+2) wysokość wynagrodzenia zasady dokonywania płatności.
+7. Posiadacz zwierzęcia jest obowiązany zapewnić dostęp do zwierzęcia, a także udzielić pomocy osobom dokonującym założenia kolczyk(cid:243)w.
+8. O terminach zakładania kolczyk(cid:243)w na terenie gminy powiadamia posiadaczy bydła, w spos(cid:243)b zwyczajowo przyjęty w danej gminie, Agencja Restrukturyzacji Modernizacji Rolnictwa.
+9. Po upływie termin(cid:243)w, o kt(cid:243)rych mowa w ust. 8, posiadacz bydła jest obowiązany powiadomić Agencję Restrukturyzacji Modernizacji Rolnictwa o fakcie urodzenia lub nabycia zwierzęcia w terminie 7 dni.
+10. W sprawach nieuregulowanych w ustawie stosuje się przepisy ustawy z 24 kwietnia 1997 r. o zwalczaniu chor(cid:243)b zakaźnych zwierząt, badaniu zwierząt rzeźnych mięsa oraz o Inspekcji Weterynaryjnej (Dz.U. z 1999 r. Nr 66, poz. 752 oraz z 2001 r. Nr 29, poz. 320, Nr 123, poz. 1350 Nr 129, poz.
+1438) .
+4b. W 2002 r. 2003 r. przepis art. 4 w odniesieniu do bydła dotyczy r(cid:243)wnież zwierząt urodzonych po dniu 1 stycznia 2002 r.(cid:148).
+PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ
 

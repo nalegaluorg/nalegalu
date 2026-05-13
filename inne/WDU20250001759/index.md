@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 11 grudnia 2025 r.
+# w sprawie ogłoszenia jednolitego tekstu ustawy o przetwarzaniu informacji kryminalnych
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 5 grudnia 2025 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2025-12-12 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001759) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1759/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 5 grudnia 2025 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o przetwarzaniu informacji kryminalnych
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 6 lipca 2001 r. o przetwarzaniu informacji kryminalnych (Dz. U. z 2024 r. poz. 376), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 9 maja 2025 r. o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 820) oraz zmian wynikających z przepisów ogłoszonych przed dniem 4 grudnia 2025 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 34 ustawy z dnia 9 maja 2025 r. o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 820), który stanowi: „Art. 34. Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 27, art. 28 i art. 30, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia.”.
 Marszałek Sejmu: W. Czarzasty
@@ -49,7 +49,6 @@ z 2023 r. poz. 1206);
 5. 1. Organem administracji rządowej właściwym w sprawach przetwarzania i przekazywania informacji kryminalnych jest Komendant Główny Policji.
 1a. Komendant Główny Policji jest administratorem danych osobowych, przetwarzanych w celu, o którym mowa w art. 1 pkt 1 ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości.
 2. Komendant Główny Policji wykonuje swoje zadania przy pomocy Krajowego Informacji Kryminalnych, zwanego dalej „Centrum”, będącego komórką organizacyjną w Komendzie Głównej Policji.
-zwanego dalej „Szefem Centrum”, należy w szczególności:
 1) przetwarzanie i przekazywanie informacji kryminalnych;
 2) prowadzenie baz danych oraz określanie organizacyjnych warunków i technicznych sposobów prowadzenia;
 3) opracowywanie analiz informacji kryminalnych;
@@ -156,7 +155,7 @@ o Służbie Więziennej (Dz. U. z 2024 r. poz. 1869 i 1871 oraz z 2025 r. poz. 1
 3. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wzory kart rejestracyjnych oraz sposób ich wypełniania, uwzględniając zakres gromadzonych informacji kryminalnych określonych w art. 13.
 22. Podmioty zobowiązane, niebędące podmiotami uprawnionymi, przekazują informacje kryminalne Szefowi wyłącznie na jego zapytanie, z zastrzeżeniem art. 24 ust. 1.
 23. Przekazywanie informacji kryminalnych oraz zapytań w trybie niniejszej ustawy może następować również w drodze teletransmisji, z uwzględnieniem wzorów kart, o których mowa w art. 21 ust. 3 oraz w art. 28 ust. 7.
-zakres przekazywanych informacji, jeżeli ich przekazanie mogłoby zagrozić bezpieczeństwu państwa lub jego obronności albo spowodować identyfikację osób udzielających pomocy przy wykonywaniu czynności operacyjno-rozpoznawczych prowadzonych przez upoważnione do tego podmioty uprawnione.
+albo spowodować identyfikację osób udzielających pomocy przy wykonywaniu czynności operacyjno-rozpoznawczych prowadzonych przez upoważnione do tego podmioty uprawnione.
 2. Podmioty zobowiązane przekazują Szefowi informacje kryminalne niezwłocznie po ustaniu przyczyny nieprzekazania lub ograniczenia zakresu przekazanych informacji kryminalnych.
 25. Informacje kryminalne podlegają usunięciu z baz danych, jeżeli:
 1) ich gromadzenie jest zabronione;
@@ -181,7 +180,7 @@ zakres przekazywanych informacji, jeżeli ich przekazanie mogłoby zagrozić bez
 5. Szef przekazuje informacje kryminalne w odpowiedzi na zapytanie:
 1) w drodze teletransmisji;
 2) w drodze teletransmisji i w formie pisemnej, jeżeli treść informacji kryminalnej wymaga przekazania także w formie pisemnej.
-7. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wzór karty zapytania oraz sposób jej wypełnienia, uwzględniając zakres gromadzonych informacji kryminalnych, określony w art. 13.
+6. (uchylony) wypełnienia, uwzględniając zakres gromadzonych informacji kryminalnych, określony w art. 13.
 29. 1. O przekazaniu informacji kryminalnej uzyskanej od podmiotu uprawnionego Szef niezwłocznie informuje ten podmiot.
 2. Na wniosek organu Policji, o którym mowa w art. 5b ust. 2 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2025 r.
 poz. 636, 718 i 1366), zwanej dalej „ustawą o Policji”, lub organu Straży Granicznej, o którym mowa w art. 3c ust. 2 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2025 r. poz. 914 i 1366), zwanej dalej „ustawą o Straży Granicznej”, w przypadku udostępnienia informacji kryminalnej w zakresie realizacji zadań ustawowych określonych w art. 5b ust. 1 ustawy o Policji lub art. 3c ust. 1 ustawy o Straży Granicznej przepisu ust. 1 nie stosuje się.

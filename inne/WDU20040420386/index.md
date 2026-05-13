@@ -10,7 +10,9 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 15 marca 2004 r.
+# o organizacji niektórych rynków rolnych
+
+*USTAWA z dnia 11 marca 2004 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,259 +26,242 @@ domain: null
 | Ostatnia zmiana | 2026-03-31 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040420386) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/386/text.pdf) |
 
-Przepisy ogólne
-2) zasady prowadzenia centralnego rejestru przedArt. 1. 1. Ustawa określa: siębiorców uczestniczących w mechanizmach administrowanych przez Agencję, w tym dotyczących Wspólnej Polityki Rolnej, w ramach których Agencja realizuje swoje zadania;
-3) organizację rynku:
-a) mięsa,
-b) wina,
-c) cukru,
-d) skrobi,
-e) oliwy,
-f) jedwabników.
-2. Do realizacji mechanizmów Wspólnej Polityki Rolnej określonych wprzepisach Unii Europejskiej nie stosuje się przepisów oochronie konsumentów ikonkurencji oraz przepisów o zamówieniach publicznych.
-USTAWA z dnia 11 marca 2004 r.
-o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych
-3. Minister właściwy do spraw rynków rolnych ogłosi, wdrodze obwieszczenia, wykaz przepisów Unii Europejskiej w zakresie Wspólnej Polityki Rolnej, o których mowa w ustawie.
+Art. 40ha. Warunkiem prowadzenia przez producenta rolnego, w rozumieniu ustawy z dnia 18 grudnia 2003 r. o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, produkującego surowiec tytoniowy, zwanego dalej „producentem surowca tytoniowego”, działalności w zakresie uprawy tytoniu, produkcji lub zbytu surowca tytoniowego jest wpis do rejestru producentów surowca tytoniowego, prowadzonego przez dyrektora oddziału terenowego Krajowego Ośrodka właściwego ze względu na miejsce zamieszkania i adres albo siedzibę i adres producenta rolnego, który zamierza uprawiać tytoń, produkować lub zbywać surowiec tytoniowy.
+Art. 40hb. 1. Decyzje w sprawach wpisu do rejestru producentów surowca tytoniowego wydaje dyrektor oddziału terenowego Krajowego Ośrodka właściwy ze względu na miejsce zamieszkania i adres albo siedzibę i adres producenta rolnego, który zamierza uprawiać tytoń, produkować lub zbywać surowiec tytoniowy, na wniosek tego producenta rolnego.
+2. Wniosek zawiera:
+1) imię i nazwisko albo nazwę wnioskodawcy;
+2) miejsce zamieszkania i adres albo siedzibę i adres wnioskodawcy;
+3) numer producenta rolnego nadany w krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności;
+4) numer identyfikacji podatkowej (NIP) oraz numer identyfikacyjny w krajowym rejestrze urzędowym podmiotów gospodarki narodowej (REGON) producenta rolnego, jeżeli taki numer został nadany, a w przypadku osoby fizycznej – numer ewidencyjny powszechnego elektronicznego systemu ewidencji ludności (numer PESEL), a jeżeli osoba fizyczna nie posiada numeru PESEL – numer paszportu lub innego dokumentu stwierdzającego tożsamość;
+5) adres lub miejsce położenia magazynu – w przypadku gdy surowiec tytoniowy będzie magazynowany poza terenem gospodarstwa rolnego.
+3. Wniosek składa się do dyrektora oddziału terenowego Krajowego Ośrodka na formularzu udostępnionym na stronie internetowej administrowanej przez Krajowy Ośrodek.
+4. W przypadku zmiany danych zawartych we wniosku producent surowca tytoniowego przekazuje do dyrektora oddziału terenowego Krajowego Ośrodka pisemną informację o zmianach, w terminie 30 dni od dnia zaistnienia tych zmian.
+Art. 40hc. 1. Producent surowca tytoniowego przekazuje do dnia 15 maja każdego roku dyrektorowi oddziału terenowego Krajowego Ośrodka, który wydał decyzję w sprawie wpisu do rejestru producentów surowca tytoniowego, informacje:
+1) o powierzchni uprawy poszczególnych grup odmian tytoniu w poprzednim roku zbiorów, z podaniem identyfikatorów działek ewidencyjnych, na których był uprawiany tytoń;
+2) dotyczące zawartych w poprzednim roku zbiorów umów zbycia surowca tytoniowego, w tym:
+a) datę zawarcia każdej z umów zbycia surowca tytoniowego,
+b) rok uprawy tytoniu, z którego wyprodukowano zbywany surowiec tytoniowy,
+c) nazwę, siedzibę, numer identyfikacji podatkowej (NIP) oraz numer identyfikacyjny w krajowym rejestrze urzędowym podmiotów gospodarki narodowej (REGON) nabywcy surowca tytoniowego,
+d) masę surowca tytoniowego objętego każdą z umów, wyrażoną w kilogramach, z podziałem na grupy odmian tytoniu, uzyskanego z upraw na działkach ewidencyjnych;
+3) o wyrażonej w kilogramach szacunkowej masie wyprodukowanego surowca tytoniowego w poprzednim roku zbiorów, z podziałem na grupy odmian tytoniu;
+4) o wyrażonej w kilogramach masie surowca tytoniowego dostarczonego nabywcy na podstawie każdej z umów zbycia surowca tytoniowego, z podziałem na grupy odmian tytoniu i lata jego zbiorów;
+5) o wyrażonym w kilogramach szacunkowym stanie magazynowym surowca tytoniowego na dzień 30 kwietnia roku złożenia tej informacji, z podziałem na grupy odmian tytoniu i lata jego zbiorów;
+6) o wyrażonej w kilogramach masie surowca tytoniowego zniszczonego od dnia 1 maja roku kalendarzowego poprzedzającego rok złożenia tej informacji do dnia 30 kwietnia roku złożenia informacji;
+7) dotyczące roku, w którym jest składana ta informacja:
+a) o powierzchni uprawy poszczególnych grup odmian tytoniu, z podaniem identyfikatorów działek ewidencyjnych, na których będzie uprawiany tytoń,
+b) dotyczące umów zbycia surowca tytoniowego, w tym: – datę zawarcia każdej z umów zbycia surowca tytoniowego, – nazwę, siedzibę, numer identyfikacji podatkowej (NIP) oraz numer identyfikacyjny w krajowym rejestrze urzędowym podmiotów gospodarki narodowej (REGON) nabywcy surowca tytoniowego, – wyrażoną w kilogramach masę surowca tytoniowego objętego każdą z umów, z podziałem na grupy odmian tytoniu, uzyskanego z upraw na działkach ewidencyjnych, na których będzie uprawiany tytoń.
+2. Informacje, o których mowa w ust. 1, przekazuje się do dyrektora oddziału terenowego Krajowego Ośrodka na formularzu udostępnionym na stronie internetowej administrowanej przez Krajowy Ośrodek.
+3. W przypadku zmiany danych zawartych w informacjach, o których mowa w ust. 1, producent surowca tytoniowego przekazuje do dyrektora oddziału terenowego Krajowego Ośrodka pisemną informację o zmianach, w terminie 30 dni od dnia zaistnienia konieczności ich wprowadzenia.
+Art. 40hd. 1. W przypadku gdy producent surowca tytoniowego zamierza dokonać zniszczenia surowca tytoniowego, o zamiarze tym powiadamia dyrektora oddziału terenowego Krajowego Ośrodka, który wydał decyzję w sprawie wpisu do rejestru, o którym mowa w art. 40ha, co najmniej na 3 dni robocze przed dokonaniem zniszczenia, podając szacunkową masę surowca tytoniowego, który ma ulec zniszczeniu, oraz sposób zniszczenia surowca tytoniowego.
+2. W zniszczeniu, o którym mowa w ust. 1, bierze udział producent surowca tytoniowego, który przeznaczył surowiec tytoniowy do zniszczenia, lub osoba upoważniona przez producenta surowca tytoniowego.
+3. Czynność zniszczenia surowca tytoniowego odbywa się pod nadzorem osoby upoważnionej przez Dyrektora Generalnego Krajowego Ośrodka do wykonywania czynności kontrolnych.
+4. Z czynności zniszczenia surowca tytoniowego osoba, o której mowa w ust.
+3, sporządza protokół.
+5. Protokół, o którym mowa w ust. 4, zawiera:
+1) imię i nazwisko oraz miejsce zamieszkania i adres albo nazwę, siedzibę i adres producenta surowca tytoniowego, który przeznaczył surowiec tytoniowy do zniszczenia;
+2) numer identyfikacji podatkowej (NIP) oraz numer identyfikacyjny w krajowym rejestrze urzędowym podmiotów gospodarki narodowej (REGON) producenta surowca tytoniowego, jeżeli taki numer został nadany, a w przypadku osoby fizycznej – numer ewidencyjny powszechnego elektronicznego systemu ewidencji ludności (numer PESEL), a jeżeli osoba fizyczna nie posiada numeru PESEL – numer paszportu lub innego dokumentu stwierdzającego tożsamość;
+3) numer producenta surowca tytoniowego nadany w krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności;
+4) określenie położenia gospodarstwa, w którym odbywała się produkcja surowca tytoniowego;
+5) miejsce i sposób zniszczenia surowca tytoniowego;
+6) wyrażoną w kilogramach masę zniszczonego surowca tytoniowego, z podziałem na grupy odmian tytoniu;
+7) datę sporządzenia protokołu zniszczenia surowca tytoniowego oraz jego numer;
+8) podpisy osób obecnych przy zniszczeniu surowca tytoniowego.
+6. Protokół sporządza się w dwóch egzemplarzach.
+7. Protokół przedstawia się do podpisu producentowi surowca tytoniowego, który przeznaczył surowiec tytoniowy do zniszczenia, a w przypadku jego nieobecności – osobie upoważnionej przez producenta surowca tytoniowego.
+8. Przed podpisaniem protokołu osoby, o których mowa w ust. 7, mają prawo wnieść do niego swoje uwagi.
+9. Protokół podpisuje producent surowca tytoniowego albo osoba upoważniona przez producenta surowca tytoniowego. O odmowie złożenia podpisu osoba, o której mowa w ust. 3, zamieszcza adnotację w protokole.
+10. Jeden egzemplarz protokołu pozostawia się producentowi surowca tytoniowego albo osobie upoważnionej przez producenta surowca tytoniowego.
+11. Producent surowca tytoniowego, który przeznaczył surowiec tytoniowy do zniszczenia, może zgłosić do Dyrektora Generalnego Krajowego Ośrodka umotywowane zastrzeżenia do ustaleń zawartych w protokole, w terminie 7 dni od dnia podpisania protokołu.
+12. Dyrektor Generalny Krajowego Ośrodka rozpatruje zastrzeżenia w terminie 7 dni od dnia otrzymania zgłoszenia, o którym mowa w ust. 11, i w razie potrzeby zleca przeprowadzenie dodatkowych czynności kontrolnych.
+13. W przypadku uznania zgłoszonych zastrzeżeń zmiany w protokole wprowadza się w formie aneksu do protokołu. Aneks do protokołu podpisuje osoba, o której mowa w ust. 3, sporządzający aneks i producent surowca tytoniowego, który przeznaczył surowiec tytoniowy do zniszczenia, albo osoba upoważniona przez producenta surowca tytoniowego.
+14. W przypadku nieuznania zastrzeżeń w całości lub w części, Dyrektor Generalny Krajowego Ośrodka przekazuje niezwłocznie swoje stanowisko na piśmie producentowi surowca tytoniowego, o którym mowa w ust. 11.
+Art. 40he. 1. Rejestr, o którym mowa w art. 40ha:
+1) jest prowadzony w systemie teleinformatycznym;
+2) zawiera dane, o których mowa w art. 40hb ust. 2, oraz informacje, o których mowa w art. 40hc ust. 1.
+2. Dane zgromadzone w rejestrze udostępnia się:
+1) organom administracji publicznej, w związku z realizacją przez te organy działań i postępowań mających na celu ograniczanie nielegalnego obrotu surowcem tytoniowym oraz produkcji i obrotu wyrobami tytoniowymi;
+2) sądom i prokuratorom, w zakresie niezbędnym do wykonywania ich zadań ustawowych;
+3) na wniosek podmiotów, których dotyczą te dane.
+3. Dane, o których mowa w art. 40hb ust. 2, przechowuje się przez 5 lat od dnia wykreślenia producenta surowca tytoniowego z rejestru, o którym mowa w art. 40ha.
+4. Informacje, o których mowa w art. 40hc ust. 1 i 3, przechowuje się przez 5 lat od dnia ich przekazania do dyrektora oddziału terenowego Krajowego Ośrodka.
+Art. 40hf. 1. Producent surowca tytoniowego, który zaprzestał uprawy tytoniu, informuje o tym dyrektora oddziału terenowego Krajowego Ośrodka, który wydał decyzję w sprawie wpisu do rejestru, o którym mowa w art. 40ha.
+2. W przypadku, o którym mowa w ust. 1, dyrektor oddziału terenowego Krajowego Ośrodka wykreśla, w drodze decyzji, producenta surowca tytoniowego z rejestru, o którym mowa w art. 40ha.
+3. W przypadku gdy producent surowca tytoniowego nie przekazał w terminie informacji, o których mowa w art. 40hc ust. 1, oraz nie poinformował o zaprzestaniu produkcji surowca tytoniowego, dyrektor oddziału terenowego Krajowego Ośrodka, o którym mowa w ust. 1, wykreśla, w drodze decyzji, producenta surowca tytoniowego z rejestru, o którym mowa w art. 40ha.
+4. Producent surowca tytoniowego, który został wykreślony z rejestru, o którym mowa w art. 40ha, i który nadal posiada surowiec tytoniowy, przekazuje dyrektorowi oddziału terenowego Krajowego Ośrodka, który wydał decyzję w sprawie wpisu do tego rejestru:
+1) informacje o zawarciu umowy zbycia surowca tytoniowego, a następnie zbyciu surowca tytoniowego, w terminie 30 dni od dnia dokonania każdej z tych czynności albo
+2) informacje, o których mowa w art. 40hd ust. 1.
+5. Informacja, o której mowa w ust. 4 pkt 1, zawiera:
+1) datę zawarcia umowy zbycia surowca tytoniowego;
+2) rok uprawy tytoniu, z którego wyprodukowano zbywany surowiec tytoniowy;
+3) nazwę, siedzibę, numer identyfikacji podatkowej (NIP) oraz numer identyfikacyjny w krajowym rejestrze urzędowym podmiotów gospodarki narodowej (REGON) nabywcy surowca tytoniowego;
+4) wyrażoną w kilogramach masę surowca tytoniowego objętego umową zbycia surowca tytoniowego, z podziałem na grupy odmian tytoniu, uzyskanego z upraw na działkach ewidencyjnych;
+5) wyrażoną w kilogramach masę zbytego surowca tytoniowego objętego umową zbycia surowca tytoniowego, z podziałem na grupy odmian tytoniu, uzyskanego z upraw na działkach ewidencyjnych.
+6. Przepisu art. 38q ust. 3 dotyczącego terminu zawarcia umowy nie stosuje się w przypadku, o którym mowa w ust. 4 pkt 1.
+7. Do zniszczenia surowca tytoniowego, o którym mowa w ust. 4 pkt 2, stosuje się przepisy art. 40hd ust. 2–14.
+Art. 40hg. Dyrektor oddziału terenowego Krajowego Ośrodka, który wydał decyzję o wykreśleniu producenta, o którym mowa w art. 40hf ust. 4, z rejestru, o którym mowa w art. 40ha, jest upoważniony do przeprowadzania kontroli producenta surowca tytoniowego do czasu zbycia albo zniszczenia surowca tytoniowego będącego w jego posiadaniu w dniu wykreślenia z tego rejestru.
+Art. 40hh. 1. Krajowy Ośrodek przeprowadza kontrolę poprawności sporządzenia oraz zgodności ze stanem faktycznym informacji zawartych we wniosku, o którym mowa w art. 40hb ust. 2, oraz informacji, o których mowa w art.
+40hc ust. 1.
+2. W ramach kontroli, o której mowa w ust. 1, czynności kontrolne w danym roku zbiorów są wykonywane co najmniej u 5% producentów surowca tytoniowego.
+3. W przypadku gdy z wykonanych czynności kontrolnych wynika, że informacje zawarte w rejestrze, o którym mowa w art. 40ha, są niezgodne ze stanem faktycznym, dyrektor oddziału terenowego Krajowego Ośrodka dokonuje z urzędu zmian w tym rejestrze oraz informuje producenta surowca tytoniowego o dokonaniu tych zmian.
+Art. 40hi. 1. Dyrektor oddziału terenowego Krajowego Ośrodka wydaje, w drodze decyzji, nakaz zniszczenia uprawy tytoniu na koszt podmiotu prowadzącego tę uprawę, w przypadku gdy podmiot ten uprawia tytoń bez uzyskania wpisu do rejestru, o którym mowa w art. 40ha. Decyzja ta podlega natychmiastowemu wykonaniu.
+2. Zniszczenia, o którym mowa w ust. 1, dokonuje się pod nadzorem osoby upoważnionej przez Dyrektora Generalnego Krajowego Ośrodka do wykonywania czynności kontrolnych.
+3. W przypadku gdy stwierdzona w wyniku wykonywania czynności kontrolnych powierzchnia uprawy tytoniu jest większa co najmniej o 10% od powierzchni zgłoszonej przez producenta surowca tytoniowego w informacji, o której mowa w art. 40hc ust. 1 pkt 7 lit. a, dyrektor oddziału terenowego Krajowego Ośrodka wydaje, w drodze decyzji, nakaz zniszczenia uprawy tytoniu na powierzchni przekraczającej powierzchnię zgłoszoną do Krajowego Ośrodka, w danym roku uprawy, na koszt podmiotu prowadzącego uprawę. Do zniszczenia uprawy tytoniu stosuje się przepis ust. 2.
+4. Zniszczenie uprawy tytoniu w przypadkach, o których mowa w ust. 1 i 3, odbywa się przez zaoranie, przekopanie gruntu albo w inny sposób, który zapewni skuteczne zniszczenie tej uprawy.
+5. Z czynności zniszczenia uprawy tytoniu osoba upoważniona przez Dyrektora Generalnego Krajowego Ośrodka do wykonywania czynności kontrolnych sporządza protokół. Do protokołu zniszczenia uprawy tytoniu w przypadkach, o których mowa w ust. 1 i 3, przepisy art. 40hd ust. 5–14 stosuje się odpowiednio.
+Art. 41–50. (pominięte)
+Art. 51–54. (pominięte)
+
+#### Rozdział 1 Przepisy ogólne
+
+**Art. 1.**
+
+1. Ustawa określa:
+
+- **1)** (uchylony)
+- **2)** (uchylony)
+- **3)** organizację rynku:
+    - **a)** mięsa,
+    - **b)** (uchylona)
+    - **c)** cukru,
+    - **d)** (uchylona) da) zbóż;
+    - **e)** (uchylona)
+    - **f)** (uchylona) 3a) zasady uznawania organizacji producentów i zrzeszeń organizacji producentów oraz organizacji międzybranżowych funkcjonujących na rynkach rolnych innych niż rynki mleka i przetworów mlecznych oraz owoców i warzyw;
+
+- **3b)** zakres, w jakim mogą być zawierane umowy na dostarczanie produktów rolnych należących do sektorów, o których mowa w art. 1 ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1308/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólną organizację rynków produktów rolnych oraz uchylającego rozporządzenia Rady (EWG) nr 922/72, (EWG) nr 234/79, (WE) nr 1037/2001 i (WE) nr 1234/2007 (Dz. Urz. UE L 347 z 20.12.2013, str. 671, z późn. zm.), zwanego dalej „rozporządzeniem nr 1308/2013”;
+- **3c)** zasady realizacji na terytorium Rzeczypospolitej Polskiej programu dla szkół, ustanowionego zgodnie z art. 23 rozporządzenia nr 1308/2013;
+- **4)** (uchylony)
+- **5)** zasady udzielania dopłat z tytułu zużytego do siewu lub sadzenia materiału siewnego kategorii elitarny lub kwalifikowany;
+- **6)** zasady monitorowania uprawy tytoniu oraz produkcji i zbytu wysuszonych liści tytoniu, zwanych dalej „surowcem tytoniowym”, a także nadzoru nad uprawą tytoniu oraz produkcją i zbytem surowca tytoniowego.
 
-#### Rozdział 1 1) organizację i zadania Agencji Rynku Rolnego, zwanej dalej ŃAgencją”;
+1a. (uchylony)
 
-#### Rozdział 2 Organizacja i zadania Agencji
+2. (uchylony)
 
-**Art. 2.**
+3. (uchylony)
 
-1. Agencja jest państwową jednostką organizacyjną posiadającą osobowość prawną.
+**Art. 1a.**
 
-2. Agencja podlega ministrowi właściwemu do spraw rynków rolnych.
+1. Do postępowań w sprawach indywidualnych rozstrzyganych w drodze decyzji stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803), o ile przepisy rozporządzenia nr 1308/2013 lub przepisy niniejszej ustawy nie stanowią inaczej.
 
-3. Minister właściwy do spraw finansów publicznych sprawuje nadzór nad gospodarką finansową Agencji.
+2. Jeżeli przepisy ustawy przewidują złożenie wniosku do ministra właściwego do spraw rynków rolnych, do dyrektora oddziału regionalnego albo do kierownika biura powiatowego Agencji Restrukturyzacji i Modernizacji Rolnictwa, zwanej dalej „Agencją”, lub do dyrektora oddziału terenowego Krajowego Ośrodka Wsparcia Rolnictwa, zwanego dalej „Krajowym Ośrodkiem”, wniosek ten składa się na piśmie.
 
-**Art. 3.** Siedzibą Agencji jest miasto stołeczne Warszawa.
+3. Jeżeli przepisy ustawy przewidują złożenie wniosku do Dyrektora Generalnego Krajowego Ośrodka w sprawach, do których nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, wniosek ten spełnia wymagania dla pisma kierowanego do organów administracji publicznej oraz dla podania, określone w przepisach ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
-**Art. 4.** W skład Agencji wchodzą:
+#### Rozdział 2 Kontrole
 
-**Art. 5.**
+**Art. 2.** (uchylony)
 
-1. Agencja działa na podstawie niniejszej ustawy oraz statutu.
+**Art. 3.** (uchylony)
 
-2. Minister właściwy do spraw rynków rolnych w porozumieniu z ministrem właściwym do spraw finansów publicznych, w drodze rozporządzenia, nadaje statut Agencji określający w szczególności:
+**Art. 4.** (uchylony)
 
-- **1)** strukturę organizacyjną Centrali;
-- **2)** liczbę, zasięg terytorialny i siedziby oddziałów terenowych;
-- **3)** szczegółowe zasady gospodarki finansowej oraz sporządzania planu finansowego Agencji.
+**Art. 5.** (uchylony)
 
-**Art. 6.**
+**Art. 6.** (uchylony)
 
-1. Organem wykonawczym izarządzającym Agencji jest Prezes Agencji.
+**Art. 6a.** (uchylony)
 
-2. Prezes Agencji jest powoływany przez Prezesa Rady Ministrów na wniosek ministra właściwego do spraw rynków rolnych w porozumieniu z ministrem właściwym do spraw finansów publicznych. Prezesa Agencji odwołuje Prezes Rady Ministrów.
+**Art. 6b.** (uchylony)
 
-3. Prezes Agencji kieruje działalnością Agencji przy pomocy zastępców Prezesa Agencji powoływanych wliczbie od 2 do 4 oraz dyrektorów oddziałów terenowych.
+**Art. 6c.** (uchylony)
 
-4. Prezes Agencji składa roczne sprawozdanie z działalności Agencji ministrowi właściwemu do spraw rynków rolnych oraz ministrowi właściwemu do spraw finansów publicznych.
+**Art. 6d.** (uchylony)
 
-**Art. 7.** do podejmowania określonych czynności, w tym do wydawania decyzji administracyjnych. 2. W postępowaniu administracyjnym organem wyższego stopnia w rozumieniu Kodeksu postępowania administracyjnego jest w stosunku do:
+**Art. 6e.** (uchylony)
 
-**Art. 8.**
+**Art. 6f.** (uchylony)
 
-1. Agencja prowadzi samodzielną gospodarkę finansową.
+**Art. 6g.** (uchylony)
 
-2. Agencja działa zgodnie z planem finansowym, obejmującym rok obrachunkowy pokrywający się z rokiem kalendarzowym.
+**Art. 7.** (uchylony)
 
-3. Roczny plan finansowy Agencji, na wniosek Prezesa Agencji, zatwierdza minister właściwy do spraw finansów publicznych oraz minister właściwy do
+**Art. 8.** (uchylony)
 
-1. Prezes Agencji oraz dyrektorzy oddziałów terenowych mogą upoważniać pracowników Agencji spraw rynków rolnych.
+**Art. 9.** (uchylony)
 
-4. Działalność Agencji finansowana:
+**Art. 10.** (uchylony)
 
-- **1)** z dotacji budżetowej jest prowadzona zgodnie z przepisami o rachunkowości;
-- **2)** ze środków na prefinansowanie wydatków z Sekcji Gwarancji Europejskiego Funduszu Orientacji i Gwarancji Rolnej jest prowadzona zgodnie z przepisami o finansach publicznych, z uwzględnieniem przepisów Unii Europejskiej.
+**Art. 11.** (uchylony)
 
-5. Prezes Agencji w porozumieniu z ministrem właściwym do spraw rynków rolnych iministrem właściwym do spraw finansów publicznych określa w zakładowym regulaminie wynagrodzeń zasady wynagradzania pracowników Agencji.
+**Art. 11a.** (uchylony)
 
-**Art. 9.**
+**Art. 12.** (uchylony)
 
-1. Agencja może nabywać i obejmować udziały lub akcje w spółkach prawa handlowego za zgodą ministra właściwego do spraw rynków rolnych oraz ministra właściwego do spraw finansów publicznych.
+**Art. 12a.** (uchylony)
 
-2. Prawa iobowiązki udziałowca lub akcjonariusza, w imieniu Agencji, wykonuje Prezes Agencji.
+**Art. 13.** (uchylony)
 
-**Art. 10.**
+**Art. 13a.** (uchylony)
 
-1. Wprzypadku trwałej utraty przez dłużników Agencji zdolności do spłaty zadłużenia Agencja może zbywać przysługujące jej wymagalne wierzytelności powstałe przed dniem 1 maja 2004 r.
+**Art. 13b.** (uchylony)
 
-2. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, szczegółowe zasady oraz tryb zbywania wierzytelności, o których mowa w ust. 1, mając na względzie poprawę płynności finansowej Agencji.
+**Art. 14.** (uchylony)
 
-**Art. 11.**
+**Art. 15.** (uchylony)
 
-1. Agencja:
+**Art. 16.** (uchylony)
 
-- **1)** realizuje zadania na rynkach produktów rolnych i żywnościowych mające na celu stabilizację tych rynków wramach mechanizmów Wspólnej Polityki Rolnej;
-- **2)** prowadzi analizę rynków produktów rolnych i żywnościowych;
-- **3)** opracowuje i upowszechnia informacje związane z realizacją mechanizmów Wspólnej Polityki Rolnej oraz warunki udziału w tych mechanizmach;
-- **4)** prowadzi działania promocyjne iinformacyjne dotyczące produktów rolnych i żywnościowych;
-- **5)** administruje obrotem zzagranicą towarami rolnymi w ramach Wspólnej Polityki Rolnej oraz towarami przetworzonymi nieobjętymi załącznikiem I do Traktatu ustanawiającego Wspólnotę Europejską (towary zgrupy non-aneks I), wszczególności przez:
-    - **a)** wydawanie i rozliczanie pozwoleń na przywóz i wywóz,
-    - **b)** wydawanie dokumentów wymaganych do naliczenia i wypłacenia refundacji wywozowych oraz naliczenia opłat wywozowych,
-    - **c)** obsługiwanie zabezpieczeń finansowych,
-    - **d)** naliczanie i wypłacanie refundacji wywozowych i dopłat przywozowych,
-    - **e)** nakładanie i egzekwowanie kar administracyjnych.
+**Art. 17.** (uchylony)
 
-2. Minister właściwy do spraw gospodarki wporozumieniu z ministrem właściwym do spraw rynków rolnych może określić, w drodze rozporządzenia, szczegółowy tryb i sposób działania Agencji w zakresie administrowania obrotem z zagranicą towarami, októrych mowa wust. 1 pkt 5, mając na względzie stabilizację rynku wewnętrznego oraz monitorowanie przywozu i wywozu produktów rolno-spożywczych w Unii Europejskiej.
+**Art. 18.** (uchylony)
 
-3. Rada Ministrów może powierzyć Agencji realizację innych zadań niż określone w ust. 1, związanych z funkcjonowaniem rynków produktów rolnych i żywnościowych.
+**Art. 19.** (uchylony)
 
-4. Rada Ministrów, powierzając zadania, o których mowa wust. 3, zapewni Agencji na ten cel odpowiednie środki finansowe.
-
-5. Szczegółowe zadania, o których mowa w ust. 1 pkt 1, na rynkach zbóż, lnu i konopi, mleka, owoców iwarzyw, tytoniu oraz suszu paszowego są realizowane przez Agencję na podstawie odrębnych przepisów.
-
-**Art. 12.**
-
-1. Agencja realizuje płatności w ramach mechanizmów Wspólnej Polityki Rolnej finansowanych z Sekcji Gwarancji Europejskiego Funduszu Orientacji iGwarancji Rolnej oraz prowadzi ewidencję wydatków z tego Funduszu w odrębnych księgach rachunkowych.
-
-2. Wzakresie określonym przepisami Unii Europejcowania postępowania w zakresie uczestnictwa w realizacji mechanizmów Wspólnej Polityki Rolnej.
-
-**Art. 13.**
-
-1. Prezes Agencji ustala, w drodze decyzji administracyjnej, kwoty nienależnie lub nadmiernie pobranych środków:
-
-- **1)** pochodzących z Sekcji Gwarancji Europejskiego Funduszu Orientacji i Gwarancji Rolnej;
-- **2)** krajowych, przeznaczonych na realizację Wspólnej Polityki Rolnej.
-
-2. Do należności, o których mowa w ust. 1, stosuje się odpowiednio przepisy działu III ustawy z dnia 29sierpnia 1997 r. Ordynacja podatkowa (Dz. U. Nr137, poz. 926, z póên. zm. skiej Prezes Agencji jest organem właściwym do opra), z wyłączeniem przepisów dotyczących umarzania należności, odraczania płatności oraz rozkładania płatności na raty.
-
-3. Uprawnienia organu podatkowego określone w ustawie, o której mowa w ust. 2, przysługują:
-
-- **1)** Prezesowi Agencji, jako organowi pierwszej instancji;
-- **2)** ministrowi właściwemu do spraw rynków rolnych, jako organowi odwoławczemu od decyzji Prezesa Agencji.
-
-4. Do egzekucji należności, o których mowa wust.1, mają zastosowanie przepisy opostępowaniu egzekucyjnym w administracji.
-
-**Art. 14.**
-
-1. W sprawach dotyczących ustalenia nienależnie lub nadmiernie pobranych środków, które zostały przekazane przez Agencję na podstawie umowy cywilnoprawnej w związku z realizacją Wspólnej Polityki Rolnej:
-
-- **1)** pochodzących z Sekcji Gwarancji Europejskiego Funduszu Orientacji i Gwarancji Rolnej,
-- **2)** krajowych, przeznaczonych na realizację Wspólnej Polityki Rolnej stosuje się przepisy Kodeksu postępowania cywilnego.
-
-2. Do egzekucji należności, o których mowa wust. 1, na rzecz Agencji stosuje się przepisy opostępowaniu egzekucyjnym w administracji.
-
-**Art. 15.** W zakresie określonym przepisami Unii Europejskiej Prezes Agencji wydaje i poświadcza formularz kontrolny (formularz T5) w zakresie wykorzystania lub przemieszczenia produktów rolnych i żywnościowych pochodzących z zapasów interwencyjnych.
-
-**Art. 16.**
-
-1. W zakresie określonym przepisami Unii Europejskiej Prezes Agencji może opracować roczny krajowy program wsparcia pszczelarstwa.
-
-2. Prezes Agencji przekazuje Komisji Europejskiej, po zatwierdzeniu przez ministra właściwego do spraw rolnictwa, program, o którym mowa w ust. 1.
-
-3. Prezes Agencji jest organem właściwym do zawierania umów z wykonawcami programu, o którym mowa w ust. 1.
-
-**Art. 17.**
-
-1. W zakresie określonym przepisami Unii Europejskiej Prezes Agencji jest organem właściwym do:
-
-- **1)** zgłaszania Komisji Europejskiej zamiaru uczestniczenia Rzeczypospolitej Polskiej w programie dostarczania nadwyżek żywności dla najuboższej ludności Unii Europejskiej;
-- **2)** przekazywania Komisji Europejskiej:
-    - **a)** wykazu organizacji charytatywnych sporządzonego na podstawie wykazu ustalonego przez ministra właściwego do spraw zabezpieczenia społecznego,
-    - **b)** informacji potrzebnych do sporządzenia rocznego planu rozdziału żywności na rzecz najuboższej ludności Unii Europejskiej,
-    - **c)** sprawozdania zrealizacji planu, októrym mowa wlit. b, na terytorium Rzeczypospolitej Polskiej;
-
-- **3)** powiadamiania Komisji Europejskiej o wszelkich zmianach, które są wprowadzane w trakcie realizacji planu, októrym mowa wpkt 2 lit. b, wzakresie jego realizacji na terytorium Rzeczypospolitej Polskiej;
-- **4)** przeprowadzania przetargów oraz zawierania umów wzakresie realizacji planu, októrym mowa w pkt 2 lit. b.
-
-2. Minister właściwy do spraw zabezpieczenia społecznego ogłosi, w drodze obwieszczenia, w wydawanym przez siebie Dzienniku Urzędowym, wykaz organizacji charytatywnych uprawnionych do uczestniczenia w programie dostarczania żywności dla najuboższej ludności Unii Europejskiej, wybranych spośród organizacji pozarządowych i innych podmiotów prowadzących działalność pożytku publicznego.
-
-**Art. 18.** Wzakresie określonym przepisami Unii Europejskiej Prezes Agencji jest organem właściwym do:
-
-**Art. 19.**
-
-1. W przypadku istnienia obowiązku wynikającego z przepisów Unii Europejskiej ustanowienia zabezpieczenia kwot wynikających zpłatności dokonywanych w ramach mechanizmów Wspólnej Polityki Rolnej w formie gwarancji, gwarantem może być wyłącznie instytucja finansowa upoważniona do gwaranmocyjnych i informacyjnych kwalifikujących się towania długów celnych.
-
-2. Minister właściwy do spraw finansów publicznych, po zasięgnięciu opinii Prezesa Agencji, określi, w drodze rozporządzenia, zasady współpracy pomiędzy instytucjami finansowymi, o których mowa w ust.1, a Agencją, w szczególności podstawowe definicje, prawa iobowiązki stron oraz wzory formularzy gwarancji w celu zabezpieczenia prawidłowej realizacji zadań, o których mowa w ust. 1.
+**Art. 19a.** (uchylony)
 
 **Art. 20.**
 
-1. Agencja przeprowadza:
+1. Agencja przeprowadza kontrole podmiotów uczestniczących w mechanizmach administrowanych przez Agencję określonych w ustawie.
 
-- **1)** kontrole w trybie i na zasadach określonych w przepisach odrębnych;
-- **2)** czynności sprawdzające u przedsiębiorców uczestniczących w mechanizmach Wspólnej Polityki Rolnej.
-
-2. Czynności sprawdzające są wykonywane przez:
+2. Czynności kontrolne są wykonywane przez:
 
 - **1)** służby techniczne Agencji, w skład których wchodzą pracownicy zatrudnieni w komórkach organizacyjnych Agencji,
-- **2)** jednostki organizacyjne, októrych mowa wart. 21 na podstawie upoważnienia do wykonywania tych czynności wydanego przez Prezesa Agencji.
+- **2)** jednostki organizacyjne, o których mowa w art. 21 – na podstawie upoważnienia do wykonywania tych czynności wydanego przez Prezesa Agencji.
 
-3. Upoważnienie, o którym mowa w ust. 2, zawiera wskazanie osoby upoważnionej do wykonywania czynności sprawdzających, ich miejsce i zakres oraz podstawę prawną do ich wykonywania.
+3. Upoważnienie, o którym mowa w ust. 2, zawiera wskazanie osoby upoważnionej do wykonywania czynności kontrolnych, ich miejsce i zakres oraz podstawę prawną do ich wykonywania.
 
-4. Przed przystąpieniem do czynności sprawdzających osoba upoważniona do ich wykonywania jest obowiązana okazać upoważnienie, o którym mowa w ust. 2.
+4. Przed przystąpieniem do czynności kontrolnych osoba upoważniona do ich wykonywania jest obowiązana okazać upoważnienie, o którym mowa w ust. 2.
 
-5. Osoby upoważnione do wykonywania czynności sprawdzających mają prawo do:
+5. Osoby upoważnione do wykonywania czynności kontrolnych mają prawo do:
 
-- **1)** wstępu do obiektów i pomieszczeń należących do przedsiębiorców, wszczególności do pomieszczeń produkcyjnych i magazynowych;
-- **2)** żądania pisemnych lub ustnych informacji związanych z przedmiotem czynności sprawdzających;
-- **3)** wglądu do dokumentów związanych z przedmiotem czynności sprawdzających, sporządzania znich odpisów, wyciągów lub kopii oraz zabezpieczania tych dokumentów;
-- **4)** sporządzania dokumentacji fotograficznej z przeprowadzonej czynności sprawdzającej;
+- **1)** wstępu do obiektów i pomieszczeń należących do przedsiębiorców, w szczególności do pomieszczeń produkcyjnych i magazynowych;
+- **1a)** wstępu na teren gospodarstwa rolnego;
+- **2)** żądania pisemnych lub ustnych informacji związanych z przedmiotem czynności kontrolnych;
+- **3)** wglądu do dokumentów związanych z przedmiotem czynności kontrolnych, sporządzania z nich odpisów, wyciągów lub kopii oraz zabezpieczania tych dokumentów;
+- **4)** sporządzania dokumentacji fotograficznej z przeprowadzonej czynności kontrolnej;
 - **5)** pobierania do badań próbek produktów rolnych i żywnościowych oraz innych produktów zawierających w swoim składzie produkty rolne i żywnościowe.
 
-6. Osoba wykonująca czynności sprawdzające sporządza z tych czynności raport.
+6. Osoba wykonująca czynności kontrolne sporządza z tych czynności raport.
 
-7. Raport podpisuje osoba wykonująca czynności sprawdzające oraz przedsiębiorca.
+7. Raport podpisuje osoba wykonująca czynności kontrolne oraz przedsiębiorca.
 
-8. Wprzypadku odmowy podpisania raportu przez przedsiębiorcę, raport podpisuje tylko osoba wykonująca czynności sprawdzające, dokonując w raporcie stosownej adnotacji o tej odmowie.
+8. W przypadku odmowy podpisania raportu przez przedsiębiorcę, raport podpisuje tylko osoba wykonująca czynności kontrolne, dokonując w raporcie stosownej adnotacji o tej odmowie.
 
-9. Minister właściwy do spraw rynków rolnych określi, wdrodze rozporządzenia, wzór upoważnienia, o którym mowa w ust. 2, mając na względzie ujednolicenie informacji zawartych w upoważnieniu.
+9. Minister właściwy do spraw rynków rolnych określi, w drodze rozporządzenia, wzór upoważnienia, o którym mowa w ust. 2, mając na względzie ujednolicenie informacji zawartych w upoważnieniu.
 
 **Art. 21.**
 
-1. Prezes Agencji może powierzyć, w drodze umowy, przeprowadzanie czynności sprawdzających, októrych mowa wart. 20 ust. 1 pkt 2, wyspecjalizowanym jednostkom organizacyjnym, dysponującym warunkami organizacyjnymi, technicznymi i kadrowymi określonymi w przepisach wydanych na podstawie ust. 3.
+1. Prezes Agencji może powierzyć, w drodze umowy, przeprowadzanie czynności kontrolnych w ramach kontroli, o których mowa w art. 20 ust. 1, wyspecjalizowanym jednostkom organizacyjnym, dysponującym warunkami organizacyjnymi, technicznymi i kadrowymi określonymi w przepisach wydanych na podstawie ust. 4.
 
 2. Umowy, o których mowa w ust. 1, określają w szczególności:
 
-- **1)** szczegółowy zakres zadań, zwanych dalej Ńzadaniami delegowanymi”;
+- **1)** szczegółowy zakres powierzonych zadań;
 - **2)** zakres obowiązków i odpowiedzialność jednostki organizacyjnej za ich wykonanie;
-- **3)** koszty realizacji zadań delegowanych;
-- **4)** sposób dokumentowania wykonywanych zadań delegowanych oraz terminy informowania organów Agencji owynikach przeprowadzonych czynności sprawdzających;
-- **5)** sposób postępowania z dokumentami związanymi z realizacją zadań delegowanych.
+- **3)** koszty realizacji powierzonych zadań;
+- **4)** sposób dokumentowania wykonywanych zadań oraz terminy informowania organów Agencji o wynikach przeprowadzonych czynności kontrolnych;
+- **5)** sposób postępowania z dokumentami związanymi z realizacją powierzonych zadań.
 
-3. Minister właściwy do spraw rynków rolnych określi, w drodze rozporządzenia, warunki organizacyjne, techniczne i kadrowe, jakie powinny spełniać przeprowadzanie czynności sprawdzających, mając na względzie zapewnienie wykonywania ich w jednolity sposób na obszarze całego kraju.
+3. Prezes Agencji może powierzyć, w drodze umowy, wykonywanie zadań w zakresie wydawania i poświadczenia formularza T5 jednostkom organizacyjnym, o których mowa w art. 36 ust. 1 pkt 5 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r. poz. 615, z późn. zm. ). Przepis ust. 2 stosuje się odpowiednio.
 
-#### Rozdział 3 Centralny rejestr przedsiębiorców
+4. Minister właściwy do spraw rynków rolnych określi, w drodze rozporządzenia, warunki organizacyjne, techniczne i kadrowe, jakie powinny spełniać jednostki organizacyjne, którym można powierzyć przeprowadzanie czynności kontrolnych w ramach kontroli, o których mowa w art. 20 ust. 1, mając na względzie zapewnienie wykonywania ich w jednolity sposób na obszarze całego kraju.
 
-**Art. 22.**
+**Art. 21a.**
 
-1. W mechanizmach administrowanych przez Agencję, w tym dotyczących Wspólnej Polityki Rolnej, w ramach których Agencja realizuje swoje zadania, mogą uczestniczyć wyłącznie przedsiębiorcy będący osobami fizycznymi, osobami prawnymi lub jednostkami organizacyjnymi nieposiadającymi osobowości prawnej, którym ustawa przyznaje zdolność do czynności prawnych, prowadzącymi we własnym imieniu działalność gospodarczą lub zawodową, wpisani do centralnego rejestru przedsiębiorców, zwanego dalej Ńrejestrem”.
+1. Krajowy Ośrodek przeprowadza kontrole podmiotów uczestniczących w mechanizmach administrowanych przez Krajowy Ośrodek określonych w ustawie.
 
-2. Rejestr jest prowadzony przez Agencję wformie elektronicznej w sposób zapewniający ochronę i zajednostki organizacyjne, którym można powierzyć bezpieczenie danych przed ich utratą oraz nieuprawnionym dostępem.
+2. Do kontroli, o których mowa w ust. 1, stosuje się odpowiednio przepisy o Krajowym Ośrodku Wsparcia Rolnictwa.
 
-3. Wpisu do rejestru dokonuje się na wniosek przedsiębiorcy.
-
-4. Wniosek składa się na formularzu rejestracyjnym opracowanym i udostępnianym przez Agencję.
-
-5. Formularz rejestracyjny zawiera wszczególności:
-
-- **1)** nazwę albo imię i nazwisko przedsiębiorcy;
-- **2)** siedzibę i adres albo miejsce zamieszkania przedsiębiorcy i adres do korespondencji;
-- **3)** numer identyfikacji podatkowej (NIP) przedsiębiorcy oraz numer identyfikacyjny wkrajowym rejestrze urzędowym podmiotów gospodarki narodowej (REGON), jeżeli został nadany, awprzypadku osoby fizycznej również numer ewidencyjny powszechnego elektronicznego systemu ewidencji ludności (PESEL), z zastrzeżeniem ust. 6.
-
-6. Jeżeli przedsiębiorcą jest osoba fizyczna nieposiadająca obywatelstwa polskiego, nieposiadająca zarejestrowanej na terytorium Rzeczypospolitej Polskiej działalności gospodarczej, we wniosku zamiast numeru ewidencyjnego powszechnego elektronicznego systemu ewidencji ludności (PESEL) podaje się numer identyfikacji podatkowej nadany wkraju pochodzenia danej osoby.
-
-7. Do rejestru wpisuje się dane zawarte wformularzu, o którym mowa w ust. 4.
-
-8. Dane indywidualne zawarte w rejestrze mogą być udostępniane wyłącznie organom statystyki publicznej, natomiast dane zbiorcze mogą być udostępniane innym organom administracji publicznej, prowadzącym systemy informacyjne.
-
-**Art. 23.**
-
-1. Jednocześnie z wpisem do rejestru przedsiębiorcy nadaje się numer rejestracyjny.
-
-2. Numer rejestracyjny, o którym mowa w ust. 1, jest niepowtarzalny i nie przechodzi na następcę prawnego.
-
-**Art. 24.** Przedsiębiorcy uczestniczący w mechanizmach Wspólnej Polityki Rolnej realizowanych przez Agencję są obowiązani do posługiwania się numerem rejestracyjnym, o którym mowa w art. 23 ust. 1.
-
-**Art. 25.**
-
-1. Organy administracji publicznej udostępniają Agencji nieodpłatnie dane zawarte w rejestrach oraz ewidencjach prowadzonych na podstawie odrębnych przepisów, niezbędne do realizowania przez Agencję zadań wramach mechanizmów Wspólnej Polityki Rolnej.
-
-2. Do warunków oraz trybu udostępniania Agencji danych przechowywanych w prowadzonych rejestrach i ewidencjach, o których mowa w ust. 1, stosuje się odpowiednio przepisy ustawy z dnia 18 grudnia 2003 r. o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności (Dz. U. z 2004 r. 10, poz. 76).
-
-**Art. 26.** Minister właściwy do spraw rolnictwa oraz minister właściwy do spraw rynków rolnych określi, w drodze rozporządzenia, warunki oraz tryb przekazywania danych odłużnikach ztytułu nienależnie lub nadmiernie pobranych środków przeznaczonych na realizację Wspólnej Polityki Rolnej, między Agencją aAgencją Restrukturyzacji i Modernizacji Rolnictwa, mając na uwadze konieczność odzyskania tych środków.
+#### Rozdział 3
 
 #### Rozdział 4 Rynek mięsa
 
@@ -284,259 +269,556 @@ o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych
 
 1. W zakresie określonym przepisami Unii Europejskiej:
 
-- **1)** Agencja dokonuje interwencyjnych zakupów, przechowywania i sprzedaży mięsa wołowego oraz mięsa wieprzowego, a także udziela dopłaty do prywatnego przechowywania wieprzowiny, wołowiny, cielęciny, baraniny oraz mięsa koziego;
-- **2)** Prezes Agencji:
-    - **a)** wydaje świadectwa autoryzacji zakładów odkostniających i chłodni,
-    - **b)** przekazuje Komisji Europejskiej informacje dotyczące rynku mięsa w zakresie zadań realizowanych przez Agencję,
-    - **c)** dokonuje, w drodze przetargów, wyboru podmiotów, o których mowa w lit. a, z którymi Agencja zawrze umowy w zakresie odkostniania i przechowywania mięsa.
+- **1)** (uchylony)
+- **2)** Dyrektor Generalny Krajowego Ośrodka:
+    - **a)** wydaje świadectwa autoryzacji zakładów odkostniających i chłodni, które będą świadczyć usługi przechowywania mięsa stanowiącego zapasy interwencyjne,
+    - **b)** przekazuje Komisji Europejskiej informacje dotyczące rynku mięsa w zakresie zadań realizowanych przez Krajowy Ośrodek,
+    - **c)** dokonuje, w drodze przetargów, wyboru podmiotów, o których mowa w lit. a, z którymi Krajowy Ośrodek zawrze umowy w zakresie odkostniania i przechowywania mięsa.
 
-2. Wnioski o wydanie świadectw, o których mowa w ust. 1 pkt 2 lit. a, składa się na formularzach udostępnianych przez Agencję.
+2. Wnioski o wydanie świadectw, o których mowa w ust. 1 pkt 2 lit. a, składa się na formularzach udostępnianych przez Krajowy Ośrodek.
 
-3. Minister właściwy do spraw rynków rolnych dzania przetargów, októrych mowa wust. 1 pkt 2 lit.c, mając na względzie efektywność ekonomiczną przerobu i składowania zapasów interwencyjnych.
+2a. Wniosek, o którym mowa w ust. 2, zawiera w szczególności:
 
-#### Rozdział 5 Rynek wina
+- **1)** nazwę albo imię i nazwisko wnioskodawcy;
+- **2)** siedzibę i adres albo miejsce zamieszkania i adres wnioskodawcy;
+- **3)** numer identyfikacji podatkowej (NIP) wnioskodawcy oraz numer identyfikacyjny w krajowym rejestrze urzędowym podmiotów gospodarki narodowej (REGON), jeżeli został nadany;
+- **4)** nazwę i adres zakładu wnioskodawcy, w którym prowadzony będzie proces odkostniania lub przechowywania;
+- **5)** dane dotyczące posiadanej infrastruktury oraz wyposażenia w urządzenia służące do wykonywania czynności, o których mowa w pkt 4.
 
-**Art. 28.** W zakresie określonym przepisami Unii Europejskiej Prezes Agencji:
+3. Minister właściwy do spraw rynków rolnych określi, w drodze rozporządzenia, sposób przeprowadzania przetargów, o których mowa w ust. 1 pkt 2 lit. c, mając na względzie efektywność ekonomiczną przerobu i składowania zapasów interwencyjnych.
 
-**Art. 29.**
+**Art. 27a.** Zadania określone w niniejszym rozdziale są wykonywane jako zadania delegowane Krajowemu Ośrodkowi zgodnie z przepisami o Agencji Restrukturyzacji i Modernizacji Rolnictwa.
 
-1. W zakresie określonym przepisami Unii Europejskiej Agencja realizuje zadania w zakresie pomocy udzielanej do:
-
-- **1)** prywatnego składowania win stołowych i moszczy gronowych;
-- **2)** wykorzystywania:
-    - **a)** moszczu gronowego i zagęszczonego moszczu gronowego do wyrobu soku winogronowego lub wyrobu ztego soku innych produktów spożywczych,
-    - **b)** zagęszczonego moszczu gronowego irektyfikowanego zagęszczonego moszczu gronowego do podniesienia stężenia alkoholu w wyrobach winiarskich.
-
-2. Minister właściwy do spraw rynków rolnych może określić, w drodze rozporządzenia:
-
-- **1)** wzór kwartalnych sprawozdań, które powinni sporządzać przetwórcy moszczu gronowego i zagęszczonego moszczu gronowego, mając na względzie prawidłową realizację dopłat do wykorzystania moszczu gronowego izagęszczonego moszczu gronowego do wyrobu soku winogronowego lub wyrobu ztego soku innych produktów spożywczych;
-- **2)** warunki kontroli czynności związanych ze zwiększeniem stężenia alkoholu w wyrobach winiarskich, mając na względzie prawidłową realizację dopłat do wykorzystania moszczu gronowego irektyfikowanego zagęszczonego moszczu gronookreśli, w drodze rozporządzenia, sposób przeprowawego do podniesienia stężenia alkoholu w wyrobach winiarskich;
-- **3)** termin przekazywania informacji przez podmioty realizujące umowy zawarte z Agencją na prywatne składowanie win stołowych i moszczy gronowych dotyczące wszelkich zmian następujących w okresie obowiązywania umowy, mając na względzie prawidłową realizację dopłat do prywatnego składowania win stołowych i moszczy gronowych.
+#### Rozdział 5
 
 #### Rozdział 6 Rynek cukru
 
-**Art. 30.**
+**Art. 30.** (uchylony)
 
-1. W zakresie określonym przepisami Unii Europejskiej minister właściwy do spraw rynków rolnych wydaje, na wniosek producentów cukru oraz izoglukozy, decyzje w sprawach przyznawania kwoty A i kwoty B cukru oraz kwoty A i kwoty B izoglukozy.
-
-2. Przed wydaniem decyzji, októrej mowa wust. 1, minister właściwy do spraw rynków rolnych zasięga opinii ogólnokrajowych społeczno-zawodowych organizacji rolniczych, reprezentujących interesy plantatorów buraków cukrowych, wzakresie rozdziału kwoty A i kwoty B cukru pomiędzy producentów cukru.
-
-3. Decyzje w sprawach przyznania producentom kwoty Aikwoty Bcukru oraz kwoty Aikwoty Bizoglukozy na dany okres rozliczeniowy są wydawane do dnia 1 listopada roku kalendarzowego poprzedzającego ten okres rozliczeniowy.
-
-4. Wniosek o wydanie decyzji, o której mowa wust. 1, składa się wterminie do dnia 30 września roku poprzedzającego dany okres rozliczeniowy.
-
-5. Wprzypadku zastosowania przez Komisję Europejską wskaêników redukcji kwoty A i kwoty B cukru oraz kwoty A i kwoty B izoglukozy, minister właściwy do spraw rynków rolnych, wdrodze decyzji, zmniejsza przyznane na dany okres rozliczeniowy kwotę Aikwotę B cukru oraz kwotę A i kwotę B izoglukozy.
-
-6. Decyzje wydane na podstawie ust. 5 stanowią podstawę do zmiany umów kontraktacyjnych zawartych z dostawcami buraków cukrowych.
-
-7. Minister właściwy do spraw rynków rolnych określi, w drodze rozporządzenia, wzory składania wniosków, o których mowa w ust. 4, mając na względzie konieczność pozyskania przez organ wydający decyzje informacji dotyczących dotychczasowej produkcji cukru oraz izoglukozy.
+**Art. 30a.** Zadania określone w niniejszym rozdziale są wykonywane jako zadania delegowane Krajowemu Ośrodkowi zgodnie z przepisami o Agencji Restrukturyzacji i Modernizacji Rolnictwa.
 
 **Art. 31.**
 
-1. W przypadku braku porozumienia branżowego, o którym mowa w przepisach Unii Europejskiej, w zakresie rozdziału pomiędzy plantatorów buraków cukrowych ilości buraków cukrowych przeznaczonych do produkcji cukru w ramach limitów kwoty podstawowej, które producent cukru zamierza zakupić przed zasiewami, stosuje się przepisy ust. 2—6.
+1. W zakresie określonym przepisami Unii Europejskiej dotyczącymi rynku cukru minister właściwy do spraw rynków rolnych:
 
-2. Producent cukru, w terminie do dnia 1 grudnia roku poprzedzającego rok gospodarczy, jest obowiąokreślić limit Ailimit Bburaków cukrowych, które zapewnią wyprodukowanie cukru w wysokości przyznanych producentowi cukru kwoty A i kwoty B cukru.
+- **1)** realizuje zadania związane z kwotowaniem produkcji cukru i izoglukozy;
+- **2)** może wystąpić do Komisji Europejskiej o podjęcie środków ochronnych;
+- **3)** przekazuje Komisji Europejskiej informacje dotyczące rynku cukru oraz izoglukozy w zakresie zadań, o których mowa w pkt 1.
 
-3. W ramach umów kontraktacji producent cukru jest obowiązany dokonać rozdzielenia limitu A i limituB buraków cukrowych pomiędzy plantatorów buraków cukrowych, przy czym suma części rozdzielonych limitów musi być równa odpowiednio limitowi A i limitowi B, o których mowa w ust. 2.
+2. Realizując zadania, o których mowa w ust. 1 pkt 1, minister właściwy do spraw rynków rolnych w szczególności wydaje decyzje w sprawach:
 
-4. Limit Ailimit Bburaków cukrowych jest rozdzielany według wskaênika określonego w ust. 5 pomiędzy plantatorów buraków cukrowych, którzy mieli zawarte umowy kontraktacji na rok gospodarczy 2001/2002.
+- **1)** przyznania kwoty produkcyjnej cukru oraz kwoty produkcyjnej izoglukozy;
+- **2)** (uchylony)
+- **3)** korekty przyznanej kwoty produkcyjnej cukru oraz kwoty produkcyjnej izoglukozy – w przypadku:
+    - **a)** skorygowania przez Komisję Europejską kwot produkcyjnych cukru lub kwot produkcyjnych izoglukozy,
+    - **b)** ustalenia przez Komisję Europejską współczynnika redukcji kwot produkcyjnych cukru lub kwot produkcyjnych izoglukozy;
 
-5. Wskaênik rozdzielania limitu A i limitu B pomiędzy plantatorów buraków cukrowych stanowi iloraz ogólnej ilości buraków cukrowych w tonach, skupionych przez producenta cukru wostatnich pięciu latach gospodarczych od plantatora buraków cukrowych, który miał zawartą umowę kontraktacji na rok gospodarczy 2001/2002, i ogólnej ilości buraków cukrowych wtonach, skupionych przez producenta cukru wostatnich pięciu latach gospodarczych od wszystkich plantatorów buraków cukrowych, którzy mieli zawarte umowy kontraktacji na rok gospodarczy 2001/2002.
+- **4)** przeniesienia między producentami cukru albo producentami izoglukozy kwoty produkcyjnej cukru albo kwoty produkcyjnej izoglukozy.
 
-6. Część limitu A i limitu B określona dla plantatora buraków cukrowych w wyniku rozdzielenia limitu A i limitu B buraków cukrowych, o którym mowa w ust. 3, stanowi wielkość przysługującego plantatorowi buraków cukrowych, w ramach umowy kontraktacji, prawa do uprawy i dostawy.
+3. Przed wydaniem decyzji, o których mowa w ust. 2, minister właściwy do spraw rynków rolnych zasięga opinii ogólnokrajowych społeczno-zawodowych organizacji rolniczych, reprezentujących interesy plantatorów buraków cukrowych.
 
-**Art. 32.** W zakresie określonym przepisami Unii Europejskiej:
+4. Termin na wyrażenie opinii, o której mowa w ust. 3, wynosi 14 dni. W przypadku bezskutecznego upływu tego terminu wymóg zasięgnięcia opinii uważa się za spełniony.
+
+5. Decyzje, o których mowa w ust. 2 pkt 1, wydaje się na wniosek producenta cukru albo producenta izoglukozy, składany w terminie do dnia 30 września roku poprzedzającego rok gospodarczy, na który jest składany wniosek.
+
+6. Decyzje w sprawach przyznania kwot produkcyjnych cukru oraz kwot produkcyjnych izoglukozy na dany rok gospodarczy są wydawane w terminie do dnia 30 listopada roku kalendarzowego poprzedzającego ten rok gospodarczy.
+
+7. (uchylony)
+
+8. Decyzje, o których mowa w ust. 2 pkt 3 i 4, powinny uwzględniać proporcjonalnie interesy wszystkich plantatorów buraków cukrowych.
+
+9. Decyzje, o których mowa w ust. 2 pkt 3 i 4, stanowią podstawę do zmiany umów kontraktacji zawartych z dostawcami buraków cukrowych.
+
+10. Zmiany umów kontraktacji, o których mowa w ust. 9, powinny uwzględniać proporcjonalnie interesy plantatorów buraka cukrowego.
+
+10a. W przypadku cofnięcia zatwierdzenia producentowi cukru zgodnie z przepisami Unii Europejskiej dotyczącymi rynku cukru, minister właściwy do spraw rynków rolnych wydaje decyzję o cofnięciu przyznanej temu producentowi kwoty produkcyjnej cukru w zakresie kwoty niewykorzystanej przez niego do dnia, w którym decyzja o cofnięciu zatwierdzenia stała się ostateczna.
+
+10b. Kwotę produkcyjną cukru, o której mowa w ust. 10a, zwaną dalej „dostępną kwotą”, przyznaje się w drodze decyzji pozostałym producentom cukru, którym przyznano na dany rok gospodarczy kwotę produkcyjną cukru, na ich wniosek.
+
+10c. W przypadku wydania decyzji, o której mowa w ust. 10a, minister właściwy do spraw rynków rolnych przesyła producentom cukru, o których mowa w ust. 10b, pisemne informacje o możliwości ubiegania się o dostępną kwotę oraz o jej wysokości.
+
+10d. Wnioski o przyznanie dostępnej kwoty producenci cukru, o których mowa w ust. 10b, mogą składać w terminie 30 dni od dnia otrzymania pisemnej informacji, o której mowa w ust. 10c.
+
+10e. Wniosek, o którym mowa w ust. 10b, zawiera w szczególności:
+
+- **1)** nazwę, siedzibę i adres producenta cukru;
+- **2)** numer identyfikacji podatkowej (NIP) producenta cukru;
+- **3)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile producent cukru taki numer posiada;
+- **4)** wskazanie wysokości wnioskowanej kwoty produkcyjnej cukru;
+- **5)** informację o zatwierdzeniu producenta cukru;
+- **6)** zobowiązanie producenta cukru do przejęcia praw i obowiązków względem plantatorów dostarczających buraki cukrowe do producenta cukru, któremu została cofnięta kwota produkcyjna cukru.
+
+10f. Dostępną kwotę przyznaje się we wnioskowanej wysokości, z zastrzeżeniem ust. 10g.
+
+10g. Jeżeli suma wnioskowanych przez producentów cukru, o których mowa w ust. 10b, kwot produkcyjnych cukru przekracza wysokość dostępnej kwoty, danemu producentowi cukru przyznaje się kwotę produkcyjną cukru w wysokości stanowiącej iloczyn ilorazu wielkości dostępnej kwoty i sumy wnioskowanych przez producentów cukru kwot produkcyjnych cukru oraz wielkości wnioskowanej przez danego producenta cukru kwoty produkcyjnej cukru.
+
+10h. Decyzje, o których mowa w ust. 10b, stanowią podstawę do zmiany umów kontraktacji zawartych z dostawcami buraków cukrowych.
+
+10i. Przed podpisaniem umów kontraktacji producent cukru, któremu została przyznana kwota na podstawie ust. 10b, jest obowiązany do przeprowadzenia konsultacji ze społeczno-zawodową organizacją rolników reprezentującą plantatorów buraków cukrowych, działającą przy producencie cukru.
+
+11. Minister właściwy do spraw rynków rolnych określi, w drodze rozporządzenia, wzory wniosków, o których mowa w ust. 5, mając na względzie konieczność uzyskania informacji dotyczących dotychczasowej produkcji cukru oraz produkcji izoglukozy przez danego producenta cukru i producenta izoglukozy.
+
+**Art. 31a.** (uchylony)
+
+**Art. 31b.**
+
+1. W przypadku braku porozumienia branżowego, o którym mowa w przepisach Unii Europejskiej, w zakresie warunków zakupu i dostawy buraków cukrowych, w tym rozdziału pomiędzy plantatorów buraków cukrowych ilości buraków cukrowych przeznaczonych do produkcji cukru w ramach kwoty produkcyjnej cukru, o której mowa w art. 31 ust. 6, stosuje się przepisy ust. 2–8 i przepisy wydane na podstawie ust. 9.
+
+2. Producent cukru, w terminie do dnia 15 grudnia roku poprzedzającego rok gospodarczy, jest obowiązany w ramach przyznanej kwoty produkcyjnej cukru określić limit buraków cukrowych, które zapewnią wyprodukowanie cukru w wysokości przyznanej producentowi cukru kwoty produkcyjnej cukru.
+
+3. Producent cukru jest obowiązany do 20 grudnia roku poprzedzającego rok gospodarczy dokonać rozdzielenia limitu buraków cukrowych, o którym mowa w ust. 2, pomiędzy plantatorów buraków cukrowych, przy czym suma części rozdzielonych limitów musi być równa limitowi, o którym mowa w ust. 2, oraz powiadomić tych plantatorów o wielkości przysługujących im części tego limitu.
+
+4. Limit buraków cukrowych jest rozdzielany według wskaźnika określonego w ust. 5 między plantatorów buraków cukrowych, którzy mieli zawarte umowy kontraktacji na rok gospodarczy 2001/2002, lub ich następców prawnych.
+
+5. Wskaźnik rozdzielania limitu buraków cukrowych między plantatorów buraków cukrowych stanowi iloraz ogólnej ilości buraków cukrowych w tonach, skupionych przez producenta cukru w latach gospodarczych 1997–2001 od plantatora buraków cukrowych, który miał zawartą umowę kontraktacji na rok gospodarczy 2001/2002, i ogólnej ilości buraków cukrowych w tonach, skupionych przez producenta cukru w latach gospodarczych 1997–2001 od wszystkich plantatorów buraków cukrowych, którzy mieli zawarte umowy kontraktacji na rok gospodarczy 2001/2002.
+
+6. Część limitu buraków cukrowych określona dla plantatora w wyniku podziału, o którym mowa w ust. 3, stanowi wielkość przysługującego plantatorowi prawa do uprawy i dostawy.
+
+7. Producent cukru ma obowiązek zawrzeć z plantatorem, któremu przysługuje prawo do uprawy i dostawy, umowę kontraktacji, w ramach której jest obowiązany odebrać określoną przysługującym plantatorowi prawem do uprawy i dostawy ilość buraków cukrowych.
+
+8. Producent cukru przed podjęciem czynności, o których mowa w ust. 2 i 3, oraz przed zawarciem z plantatorem umowy kontraktacji, o której mowa w ust. 7, jest zobowiązany do zasięgnięcia opinii ogólnokrajowej społeczno-zawodowej organizacji rolników reprezentującej interesy plantatorów buraków cukrowych.
+
+9. Minister właściwy do spraw rynków rolnych może, w drodze rozporządzenia, określić warunki zakupu lub dostawy buraków cukrowych przeznaczonych do produkcji cukru w ramach kwoty produkcyjnej cukru, o której mowa w art. 31 ust. 6, w zakresie określonym w przepisach Unii Europejskiej dla porozumień branżowych na rynku cukru, inne niż wskazane w ust. 2–8, mając na względzie konieczność zabezpieczenia interesów plantatorów buraków cukrowych i producentów cukrów.
+
+**Art. 31c.** Tekst zawartego porozumienia branżowego, o którym mowa w przepisach Unii Europejskiej dotyczących rynku cukru, producent cukru ma obowiązek przekazać Krajowemu Ośrodkowi przed podpisaniem umów kontraktacji z plantatorami buraków cukrowych.
+
+**Art. 32.** (uchylony)
 
 **Art. 33.**
 
-1. Producenci cukru oraz izoglukozy są 3. Decyzje, októrych mowa wust. 1 pkt 1 lit. c, wyobowiązani do składania Prezesowi Agencji sprawoz- daje się na wniosek przetwórcy wykorzystującego dań dotyczących produkcji, przechowywania, obrotu skrobię do dalszego przerobu na cele niespożywcze. cukrem oraz izoglukozą, wielkości produkcji oraz obszarów uprawy buraków cukrowych. 4. Wniosek owydanie decyzji wsprawie przyznania producentom skrobi kwot produkcji skrobi ziemniacza2. Minister właściwy do spraw rynków rolnych nej na okres trzech lat gospodarczych składa się wterokreśli, w drodze rozporządzenia, wzory oraz terminy minie do dnia 30 września roku poprzedzającego okres, składania sprawozdań, o których mowa w ust. 1, ma- na który przyznawane są kwoty produkcji, na formulając na względzie konieczność przekazywania Komisji rzu opracowanym iudostępnianym przez Agencję. Europejskiej informacji dotyczących obrotu cukrem oraz izoglukozą. 5. Âwiadectwa, októrych mowa wust. 1 pkt 2, wydaje się na wniosek:
+1. W zakresie określonym przepisami Unii Europejskiej dotyczącymi rynku cukru Krajowy Ośrodek w szczególności:
+
+- **1)** wykonuje zadania związane z:
+    - **a)** zatwierdzaniem producentów cukru, producentów izoglukozy i przedsiębiorstw przetwarzających te produkty,
+    - **b)** (uchylona)
+    - **c)** przetwarzaniem i wycofaniem cukru z rynku,
+    - **d)** przeprowadzaniem kontroli na rynku cukru,
+    - **e)** wyrażeniem zgody na zawarcie umowy pomiędzy producentami cukru, dotyczącej wyprodukowania cukru przez jednego z tych producentów w ramach kwoty produkcyjnej producenta zlecającego produkcję;
+
+- **2)** pobiera:
+    - **a)** (uchylona)
+    - **b)** opłaty za nadwyżki cukru i izoglukozy,
+    - **c)** opłaty produkcyjne,
+    - **d)** opłaty z tytułu niewypełnienia obowiązków wynikających z uczestnictwa w mechanizmach na rynku cukru;
+    - **e)** (uchylona)
+
+- **3)** przyjmuje informacje, deklaracje, raporty, sprawozdania oraz wnioski;
+- **4)** (uchylony)
+- **5)** (uchylony)
+- **6)** udziela pomocy w zakresie prywatnego przechowywania cukru białego;
+- **7)** przekazuje właściwym organom Unii Europejskiej informacje i składa wnioski.
+
+2. (uchylony)
+
+3. Realizując zadania, o których mowa w ust. 1, Dyrektor Generalny Krajowego Ośrodka:
+
+- **1)** wydaje decyzje w sprawach:
+    - **a)** zatwierdzenia lub odmowy zatwierdzenia, zawieszenia, cofnięcia lub wygaszenia zatwierdzenia producentów cukru, producentów izoglukozy i przedsiębiorstw przetwarzających te produkty,
+    - **b)** autoryzacji miejsca przechowywania cukru pochodzącego z zapasów interwencyjnych,
+    - **c)** przyznania refundacji produkcyjnej;
+
+- **2)** (uchylony)
+- **3)** prowadzi rejestr podmiotów zatwierdzonych;
+- **4)** przekazuje ministrowi właściwemu do spraw rynków rolnych, na jego żądanie, informacje związane z wykonywaniem zadań, o których mowa w ust. 1.
+
+4. Informacje, deklaracje i wnioski określone w przepisach Unii Europejskiej dotyczących rynku cukru składa się do Dyrektora Generalnego Krajowego Ośrodka na formularzach opracowanych przez Krajowy Ośrodek, udostępnionych na stronie internetowej Krajowego Ośrodka.
+
+5. Formularze, o których mowa w ust. 4, zawierają:
+
+- **1)** dane umożliwiające identyfikację składającego formularz, związane z prowadzoną przez niego działalnością;
+- **2)** informacje określone w przepisach Unii Europejskiej dotyczących rynku cukru lub
+- **3)** informacje niezbędne do ustalenia stanu faktycznego lub prawnego w zakresie bezpośrednio związanym z przedmiotem składanych informacji, deklaracji lub wniosków, dotyczące rodzaju wykonywanej działalności, lokalizacji miejsca produkcji, wielkości produkcji, tytułu prawnego do posiadanych obiektów i urządzeń lub wynikające z obowiązków związanych z uczestnictwem w mechanizmach na rynku cukru, określonych w przepisach Unii Europejskiej dotyczących rynku cukru.
 
 **Art. 34.**
 
-1. Opłaty cukrowe, o których mowa w art. 32 pkt 2 lit. b, są wpłacane przez producentów 1) producenta skrobi ziemniaczanej, składany w tercukru oraz izoglukozy na wydzielony rachunek banko- minie do dnia 30 września roku poprzedzającego wy Agencji. okres, na który są przyznawane kwoty produkcji;
+1. Opłaty, o których mowa w art. 33 ust. 1 pkt 2, stanowią dochód budżetu państwa i są wpłacane przez producentów cukru, producentów izoglukozy i przedsiębiorstwa przetwarzające te produkty na wydzielony rachunek bankowy Krajowego Ośrodka.
 
-2. Do należności wraz z odsetkami od zaległości 2) przetwórcy skrobi wykorzystującego skrobię do z tytułu opłat cukrowych stosuje się odpowiednio dalszego przerobu na cele niespożywcze. przepisy działu III ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa. 6. Wnioski, o których mowa w ust. 4 i 5, zawierają w szczególności:
+2. Środki pochodzące z pobranych opłat, o których mowa w art. 33 ust. 1 pkt 2, Krajowy Ośrodek przekazuje na rachunek bankowy urzędu obsługującego ministra właściwego do spraw rynków rolnych, w terminie 5 dni od dnia ich wpływu na rachunek bankowy Krajowego Ośrodka.
 
-3. Uprawnienia organu podatkowego określone 1) nazwę albo imię i nazwisko wnioskodawcy; w ustawie, o której mowa w ust. 2, przysługują:
+**Art. 34a.** (uchylony)
 
-- **2)** siedzibę iadres albo miejsce zamieszkania iadres
-- **1)** Prezesowi Agencji, jako organowi pierwszej in- wnioskodawcy; stancji;
-- **3)** numer identyfikacji podatkowej (NIP) wniosko2) ministrowi właściwemu do spraw rynków rol- dawcy oraz numer identyfikacyjny wkrajowym renych, jako organowi odwoławczemu od decyzji jestrze urzędowym podmiotów gospodarki naroPrezesa Agencji. dowej (REGON), jeżeli został nadany.
+**Art. 34b.** (uchylony)
 
-4. Do egzekucji należności, o których mowa Art. 36. 1. Producent skrobi ziemniaczanej, który wust.2, mają zastosowanie przepisy opostępowaniu zamierza wykorzystać w okresie danego roku gospoegzekucyjnym w administracji. darczego kwotę produkcji w wysokości większej niż przyznana mu na ten rok, ale nie większej niż 5 %
+**Art. 34c.** (uchylony)
 
-#### Rozdział 7 kwoty przyznanej na następny rok gospodarczy, jest obowiązany poinformować o tym Prezesa Agencji Rynek skrobi w terminie do dnia 30 kwietnia danego roku gospodarczego.
+**Art. 34d.** (uchylony)
 
-**Art. 35.**
+**Art. 34e.** (uchylony)
 
-1. W zakresie określonym przepisami Unii Europejskiej Prezes Agencji: 2. Producenci skrobi ziemniaczanej są obowiązani przekazywać Agencji wykaz umów kontraktacji zawar1) wydaje decyzje w sprawach przyznawania: tych z plantatorami ziemniaków skrobiowych, w terminie do dnia 31 maja każdego roku gospodarczego. cym skrobię do dalszego przerobu na cele niespożywcze; 2. Producent skrobi ziemniaczanej jest obowiązany przekazywać Prezesowi Agencji, w terminie do dnia
+**Art. 34f.** (uchylony)
 
-- **a)** kwot produkcji producentom skrobi ziemniaczanej, Art. 37. 1. W zakresie określonym przepisami Unii
-- **b)** premii produkcyjnych producentom skrobi Europejskiej Prezes Agencji przekazuje Komisji Euroziemniaczanej, pejskiej oraz ministrowi właściwemu do spraw rynków rolnych informacje dotyczące rynku skrobi w zac) dopłat do skrobi przetwórcom wykorzystują- kresie zadań realizowanych przez Agencję.
-- **2)** wydaje świadectwa autoryzacji: 30kwietnia każdego roku gospodarczego, informacje o:
-- **1)** ilości ziemniaków przeznaczonych na produkcję skrobi ziemniaczanej, za które została wypłacona cena minimalna;
-- **2)** wykorzystaniu kwot produkcji skrobi ziemniaczanej w okresie danego roku gospodarczego;
-- **3)** ilości skrobi ziemniaczanej, do której nie wypłacono premii produkcyjnej;
-- **4)** ilości skrobi ziemniaczanej, która powinna być wyeksportowana bez refundacji.
+**Art. 34g.** (uchylony)
 
-**Art. 38.**
+**Art. 34h.** (uchylony)
 
-1. Producentowi rolnemu w rozumieniu przepisów o płatnościach bezpośrednich do gruntów rolnych, dostarczającemu na podstawie umowy kontraktacji producentowi skrobi ziemniaczanej ziemniaki przeznaczone do produkcji skrobi ziemniaczanej, zawierające nie mniej niż 13 % skrobi, zwane dalej Ńziemniakami skrobiowymi”, przysługuje płatność za ilość skrobi zawartej w dostarczonych ziemniakach, wypłacana przez Agencję.
+**Art. 34i.** (uchylony)
 
-2. Płatność jest przyznawana przez dyrektora oddziału terenowego Agencji, w drodze decyzji, na podstawie wniosku producenta rolnego złożonego do Agencji na formularzu opracowanym i udostępnionym przez Agencję.
+**Art. 34j.** (uchylony)
 
-3. Wniosek zawiera:
+**Art. 34k.** (uchylony)
 
-- **1)** imię inazwisko, miejsce zamieszkania iadres albo nazwę, siedzibę i adres producenta rolnego;
-- **2)** oświadczenie o ilości ziemniaków skrobiowych dostarczonych do producenta skrobi ziemniaczanej w ramach umów kontraktacji;
-- **3)** oświadczenie ozawartości skrobi wdostarczonych ziemniakach skrobiowych;
-- **4)** numer umowy kontraktacji;
-- **5)** numer identyfikacji podatkowej (NIP) i numer rachunku bankowego wnioskodawcy;
-- **6)** numer REGON wprzypadku gdy wnioskodawcą jest osoba prawna;
-- **7)** numer identyfikacyjny wnioskodawcy nadany na podstawie przepisów o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności.
+#### Rozdział 7
 
-4. Do wniosku dołącza się oświadczenie producenta skrobi ziemniaczanej potwierdzające, że:
+#### Rozdział 7a Rynek zbóż
 
-- **1)** umowa kontraktacji ziemniaków skrobiowych została zawarta z wnioskodawcą w ramach przyznanej temu producentowi kwoty produkcji skrobi;
-- **2)** za ziemniaki skrobiowe objęte wnioskiem została zapłacona cena nie niższa niż cena minimalna, określona w przepisach Unii Europejskiej.
+**Art. 38h.** W zakresie określonym przepisami Unii Europejskiej:
 
-5. Rada Ministrów określa corocznie, wdrodze rozwust. 1, wzależności od zawartości skrobi wziemniakach skrobiowych oraz termin wypłaty tych płatności, mając na uwadze założenia do ustawy budżetowej na dany rok oraz zobowiązania Rzeczypospolitej Polskiej zawarte w umowach międzynarodowych.
+#### Rozdział 7b Zasady uznawania organizacji producentów i zrzeszeń organizacji producentów oraz organizacji międzybranżowych funkcjonujących na rynkach rolnych innych niż rynki mleka i przetworów mlecznych oraz owoców i warzyw
 
-#### Rozdział 8 Rynek oliwy
+**Art. 38i.**
 
-**Art. 39.**
+1. Dyrektor oddziału regionalnego Agencji właściwy ze względu na siedzibę wnioskodawcy jest organem właściwym w sprawach uznawania organizacji producentów i zatwierdzania ich planu biznesowego, zatwierdzania zmian planu biznesowego organizacji producentów, uznawania zrzeszeń organizacji producentów oraz organizacji międzybranżowych, w tym międzynarodowych organizacji producentów, międzynarodowych zrzeszeń organizacji producentów oraz międzynarodowych organizacji międzybranżowych, o których mowa w art. 154, art. 156 ust. 1 oraz art. 158 rozporządzenia nr 1308/2013.
 
-1. W zakresie określonym przepisami Unii Europejskiej Prezes Agencji:
+2. Sprawy, o których mowa w ust. 1, są załatwiane w drodze decyzji, na wniosek organizacji producentów, zrzeszenia organizacji producentów albo organizacji międzybranżowej składany do dyrektora oddziału regionalnego Agencji właściwego ze względu na siedzibę organizacji albo zrzeszenia.
 
-- **1)** przyjmuje od przetwórców wykorzystujących oliwę zoliwek wprzetwórstwie, zwanych dalej Ńprzetwórcami”, wnioski o:
-    - **a)** przeprowadzenie czynności sprawdzających przed rozpoczęciem procesu przetwarzania,
-    - **b)** przyznanie dopłaty z tytułu wykorzystania oliwy zoliwek wprzetwórstwie, zwanej dalej Ńdopłatą”,
-    - **c)** przyznanie zaliczki na poczet dopłaty;
+2a. Wniosek, o którym mowa w ust. 2, składa się na formularzu opracowanym przez Agencję i udostępnionym na stronie internetowej Agencji. 2aa. Wniosek, o którym mowa w ust. 2, można składać za pomocą systemu teleinformatycznego Agencji w sposób określony w przepisach o Agencji Restrukturyzacji i Modernizacji Rolnictwa.
 
-- **2)** wydaje świadectwa autoryzacji przetwórcom;
-- **3)** wydaje decyzje w sprawach przyznania dopłaty oraz przyznania zaliczki na poczet przyznanej dopłaty;
-- **4)** wypłaca dopłaty i zaliczki na poczet tych dopłat;
-- **5)** przyjmuje i dokonuje zwrotu zabezpieczenia wypłaconych zaliczek;
-- **6)** przekazuje Komisji Europejskiej informacje dotyczące rynku oliwy wzakresie zadań realizowanych przez Agencję.
+2b. Wniosek w sprawie zatwierdzenia zmian planu biznesowego organizacji producentów składa się w terminie 60 dni przed zakończeniem danego roku działalności organizacji producentów, którego dotyczy zmiana.
 
-2. Âwiadectwa, októrych mowa wust. 1 pkt 2, wydaje się na wniosek przetwórcy składany na formularzu opracowanym i udostępnianym przez Agencję.
+2c. W przypadku dokonania zmiany w składzie członkowskim organizacji producentów wniosek w sprawie zatwierdzenia zmian planu biznesowego organizacji producentów składa się do zakończenia danego roku działalności organizacji producentów, którego dotyczy zmiana.
 
-3. Wniosek zawiera w szczególności:
+2d. Do wniosku o uznanie organizacji producentów i zatwierdzenie jej planu biznesowego albo o uznanie zrzeszenia organizacji producentów albo organizacji międzybranżowej dołącza się:
 
-- **1)** nazwę albo imię i nazwisko przetwórcy;
-- **2)** siedzibę i adres albo miejsce zamieszkania i adres przetwórcy;
-- **3)** numer identyfikacji podatkowej (NIP) przetwórcy oraz numer identyfikacyjny w krajowym rejestrze urzędowym podmiotów gospodarki narodowej (REGON), jeżeli został nadany.
+- **1)** kopię aktu założycielskiego organizacji producentów albo zrzeszenia organizacji producentów, albo organizacji międzybranżowej sporządzonego zgodnie z wymaganiami określonymi w art. 153 ust. 1 i 2 rozporządzenia nr 1308/2013, potwierdzoną za zgodność z oryginałem przez osoby upoważnione odpowiednio do reprezentowania organizacji producentów albo zrzeszenia organizacji producentów, albo organizacji międzybranżowej;
+- **2)** inne niezbędne dokumenty albo ich kopie, potwierdzające spełnienie przez organizację producentów, zrzeszenie organizacji producentów oraz organizację międzybranżową wymagań określonych w przepisach Unii Europejskiej, ustawy oraz wydanych na podstawie ust. 3, dotyczących uznawania organizacji producentów i zatwierdzania jej planu biznesowego oraz uznawania zrzeszenia organizacji producentów i organizacji międzybranżowej.
 
-#### Rozdział 9 Rynek jedwabników
+2e. Do wniosku, o którym mowa w ust. 2b, dołącza się:
 
-**Art. 40.**
+- **1)** dokumenty potwierdzające aktualny stan realizacji planu biznesowego albo ich kopie potwierdzone za zgodność z oryginałem przez osobę upoważnioną do reprezentowania organizacji producentów;
+- **2)** plan biznesowy zawierający proponowane zmiany, a w przypadku gdy ten wniosek został złożony w postaci papierowej, plan biznesowy przesyła się również w postaci elektronicznej za pomocą środków komunikacji elektronicznej albo dołącza się na informatycznym nośniku danych.
 
-1. W zakresie określonym przepisami Unii Europejskiej Prezes Agencji:
+2f. Dyrektor oddziału regionalnego Agencji właściwy ze względu na siedzibę organizacji albo zrzeszenia wydaje decyzję o uznaniu:
 
-- **1)** wydaje świadectwa autoryzacji przedsiębiorcom rozprowadzającym pojemniki zjajeczkami jedwabników;
-- **2)** przyjmuje wnioski producentów jedwabników o udzielenie dopłat; porządzenia, stawki płatności, o których mowa 3) wydaje decyzje w sprawie udzielenia dopłat;
-- **4)** wypłaca producentom jedwabników dopłaty;
-- **5)** przekazuje Komisji Europejskiej informacje dotyczące rynku jedwabników w zakresie zadań realizowanych przez Agencję.
+- **1)** organizacji producentów i zatwierdzeniu jej planu biznesowego, jeżeli spełnia ona wymagania określone w art. 152 ust. 1, art. 153 ust. 1 i 2 oraz art. 154 ust. 1 rozporządzenia nr 1308/2013 oraz w ust. 2a i 2d,
+- **2)** zrzeszenia organizacji producentów, jeżeli spełnia ono wymagania określone w art. 156 rozporządzenia nr 1308/2013 oraz w ust. 2a i 2d,
+- **3)** organizacji międzybranżowej, jeżeli spełnia ona wymagania określone w art. 157 ust. 1 i art. 158 ust. 1 rozporządzenia nr 1308/2013 oraz w ust. 2a i 2d – oraz jeżeli organizacja albo zrzeszenie spełnia wymagania określone w przepisach wydanych na podstawie ust. 3.
 
-2. Wniosek o wydanie świadectwa, o którym mowa w ust. 1 pkt 1, zawiera w szczególności:
+2g. Dyrektor oddziału regionalnego Agencji właściwy ze względu na siedzibę organizacji wydaje decyzję o zatwierdzeniu zmian planu biznesowego, jeżeli są spełnione wymagania, o których mowa w ust. 2a–2c i 2e, oraz proponowane zmiany planu biznesowego umożliwiają osiągnięcie celów wybranych przez organizację producentów, o których mowa w przepisach Unii Europejskiej dotyczących uznawania organizacji producentów.
 
-- **1)** nazwę albo imię i nazwisko przedsiębiorcy;
-- **2)** siedzibę i adres albo miejsce zamieszkania i adres przedsiębiorcy;
-- **3)** numer identyfikacji podatkowej (NIP) przedsiębiorcy oraz numer identyfikacyjny w krajowym rejestrze urzędowym podmiotów gospodarki narodowej (REGON), jeżeli został nadany.
+3. Minister właściwy do spraw rynków rolnych określi, w drodze rozporządzenia, szczegółowe warunki uznania organizacji producentów i zatwierdzenia jej planu biznesowego oraz uznania zrzeszenia organizacji producentów i organizacji międzybranżowej, w tym:
 
-3. Wniosek składa się na formularzu opracowanym i udostępnianym przez Agencję.
+- **1)** minimalną liczbę członków organizacji producentów lub minimalną ilość lub wartość zbywalnej produkcji, o których mowa w art. 154 ust. 1 lit. b rozporządzenia nr 1308/2013,
+- **2)** maksymalny odsetek głosów przysługujących członkom, udziałowcom lub akcjonariuszom będącym producentami na zgromadzeniu wspólników, walnym zgromadzeniu albo walnym zebraniu członków organizacji producentów oraz maksymalny odsetek udziałów lub akcji, jakie mogą posiadać ci udziałowcy lub akcjonariusze w tej organizacji,
+- **3)** szczegółowe wymagania, jakim mają odpowiadać wnioski składane w tych sprawach,
+- **4)** rodzaje i zakres dokumentów potwierdzających spełnianie przez organizacje i zrzeszenia warunków uznania organizacji producentów i zatwierdzenia jej planu biznesowego oraz uznania zrzeszenia organizacji producentów oraz organizacji międzybranżowej – mając na względzie zapewnienie prawidłowego funkcjonowania tych organizacji i zrzeszeń oraz spełnienie wymagań określonych w przepisach Unii Europejskiej oraz ustawy, dotyczących uznawania organizacji producentów i zatwierdzania jej planu biznesowego oraz uznawania zrzeszenia organizacji producentów i organizacji międzybranżowej.
+
+**Art. 38j.**
+
+1. W przypadku gdy uznana organizacja producentów nie spełnia wymagań określonych w art. 153 ust. 1 lub 2, lub art. 154 ust. 1 lit. a lub d rozporządzenia nr 1308/2013 lub warunku określonego w przepisach wydanych na podstawie art. 38i ust. 3 dotyczącego maksymalnego odsetka głosów przysługujących członkom, udziałowcom lub akcjonariuszom będącym producentami na zgromadzeniu wspólników, walnym zgromadzeniu albo walnym zebraniu członków organizacji producentów lub maksymalnego odsetka udziałów lub akcji, jakie mogą posiadać ci udziałowcy lub akcjonariusze w tej organizacji, dyrektor oddziału regionalnego Agencji właściwy ze względu na siedzibę organizacji wzywa organizację na piśmie do usunięcia naruszeń oraz, biorąc pod uwagę ich rodzaj, określa termin ich usunięcia nie dłuższy niż 12 miesięcy, licząc od początku roku działalności organizacji następującego po roku, w którym wezwano organizację do usunięcia tych naruszeń.
+
+2. Organizacja producentów, w terminie wyznaczonym przez dyrektora oddziału regionalnego Agencji w wezwaniu, o którym mowa w ust. 1, informuje, na formularzu opracowanym przez Agencję, o usunięciu stwierdzonych naruszeń i przedkłada dokumenty potwierdzające usunięcie tych naruszeń.
+
+3. Dyrektor oddziału regionalnego Agencji cofa, w drodze decyzji, uznanie:
+
+- **1)** organizacji producentów, jeżeli:
+    - **a)** mimo wezwania, o którym mowa w ust. 1, organizacja ta, w terminie określonym w tym wezwaniu, nie usunęła stwierdzonych naruszeń albo
+    - **b)** organizacja ta przestała spełniać warunek uznania określony w art. 154 ust. 1 lit. b rozporządzenia nr 1308/2013;
+
+- **2)** zrzeszeniu organizacji producentów, jeżeli zrzeszenie to przestało spełniać warunek uznania określony w art. 156 rozporządzenia nr 1308/2013;
+- **3)** organizacji międzybranżowej, jeżeli organizacja ta przestała spełniać co najmniej jeden z warunków uznania określonych w art. 157 ust. 1 lub art. 158 ust. 1 rozporządzenia nr 1308/2013.
+
+**Art. 38k.**
+
+1. Uznane organizacje i zrzeszenia wpisuje się odpowiednio do rejestru:
+
+- **1)** organizacji producentów;
+- **2)** zrzeszeń organizacji producentów;
+- **3)** organizacji międzybranżowych.
+
+2. Wpis do każdego z rejestrów, o których mowa w ust. 1, następuje na podstawie ostatecznej decyzji o uznaniu organizacji albo zrzeszenia.
+
+3. Rejestry, o których mowa w ust. 1, prowadzi w postaci elektronicznej dyrektor oddziału regionalnego Agencji.
+
+4. Rejestry, o których mowa w ust. 1, są jawne i udostępniane na stronie internetowej Agencji, z wyłączeniem danych, o których mowa w ust. 5 pkt 8.
+
+5. Rejestry, o których mowa w ust. 1, zawierają:
+
+- **1)** numer w rejestrze nadany organizacji producentów albo zrzeszeniu organizacji producentów, albo organizacji międzybranżowej;
+- **2)** nazwę, siedzibę i adres organizacji producentów albo zrzeszenia organizacji producentów, albo organizacji międzybranżowej;
+- **3)** określenie rodzaju wykonywanej działalności lub wskazanie produktu lub grupy produktów, ze względu na które nastąpiło uznanie;
+- **4)** imiona i nazwiska osób upoważnionych do reprezentowania organizacji producentów albo zrzeszenia organizacji producentów, albo organizacji międzybranżowej;
+- **5)** datę i numer decyzji o:
+    - **a)** uznaniu organizacji producentów albo zrzeszenia organizacji producentów, albo organizacji międzybranżowej,
+    - **b)** cofnięciu uznania organizacji producentów albo zrzeszenia organizacji producentów, albo organizacji międzybranżowej;
+
+- **6)** liczbę członków ogółem z podziałem na osoby fizyczne i prawne;
+- **7)** datę wpisu do rejestru organizacji producentów albo zrzeszenia organizacji producentów, albo organizacji międzybranżowej oraz datę ich wykreślenia z rejestru;
+- **8)** wartość rocznej produkcji oraz wartość produkcji wprowadzoną do obrotu przez organizację producentów oraz zrzeszenie organizacji producentów.
+
+6. Uznana organizacja producentów albo uznane zrzeszenie organizacji producentów, albo uznana organizacja międzybranżowa informuje dyrektora oddziału regionalnego Agencji, na formularzu opracowanym przez Agencję, o zmianie danych, o których mowa w ust. 5, w terminie 14 dni od dnia zaistnienia tych zmian.
+
+7. W przypadku zmiany danych, o których mowa w ust. 5 pkt 2 lub 4, uznana organizacja producentów albo uznane zrzeszenie organizacji producentów, albo uznana organizacja międzybranżowa dostarcza, wraz z informacją, o której mowa w ust. 6, dokumenty potwierdzające zaistniałe zmiany.
+
+8. Dyrektor oddziału regionalnego Agencji gromadzi i przechowuje dokumenty stanowiące podstawę wpisu do rejestrów, o których mowa w ust. 1, i inne dokumenty składane przez uznane organizacje producentów, uznane zrzeszenia organizacji producentów i uznane organizacje międzybranżowe w sposób zapewniający ochronę tych dokumentów oraz zabezpieczający je przed utratą i nieuprawnionym dostępem.
+
+**Art. 38l.** Dyrektor oddziału regionalnego Agencji:
+
+**Art. 38m.**
+
+1. Dyrektor oddziału regionalnego Agencji przekazuje Prezesowi Agencji informacje, o których mowa w art. 154 ust. 4 lit. d, art. 158 ust. 5 lit. e, art. 161 ust. 3 lit. d oraz art. 163 ust. 3 lit. e rozporządzenia nr 1308/2013.
+
+2. Informacje, o których mowa w ust. 1, Prezes Agencji przekazuje ministrowi właściwemu do spraw rynków rolnych oraz Komisji Europejskiej.
+
+**Art. 38n.**
+
+1. Dyrektor oddziału regionalnego Agencji przeprowadza co najmniej raz na trzy lata kontrole uznanych organizacji producentów, zrzeszeń organizacji producentów oraz organizacji międzybranżowych w zakresie spełniania warunków określonych w przepisach Unii Europejskiej, ustawy oraz wydanych na podstawie art. 38i ust. 3, dotyczących uznawania organizacji producentów i realizacji jej planu biznesowego oraz uznawania zrzeszeń organizacji producentów i organizacji międzybranżowych.
+
+2. (uchylony)
+
+**Art. 38o.**
+
+1. Minister właściwy do spraw rynków rolnych dokonuje oceny wniosku, o którym mowa w art. 164 ust. 1 rozporządzenia nr 1308/2013.
+
+2. Minister właściwy do spraw rynków rolnych może określić, w drodze rozporządzenia, poziom reprezentatywności, o którym mowa w art. 164 ust. 3 akapit drugi rozporządzenia nr 1308/2013, mając na względzie zapewnienie właściwego funkcjonowania porozumień, decyzji lub praktyk uzgodnionych w ramach uznanej organizacji producentów lub ich zrzeszenia rozszerzonych na producentów niebędących członkami tych organizacji oraz ochrony interesów podmiotów działających na rynku.
+
+3. W przypadku stwierdzenia spełniania warunków określonych w art. 164 rozporządzenia nr 1308/2013 oraz w przepisach wydanych na podstawie ust. 2, minister właściwy do spraw rynków rolnych wprowadza, w drodze rozporządzenia, porozumienia, decyzje lub praktyki uzgodnione w ramach uznanej organizacji producentów, uznanego zrzeszenia organizacji producentów lub uznanej organizacji międzybranżowej, podając zakres stosowania tych porozumień, decyzji lub praktyk oraz okres, przez jaki mają być stosowane te porozumienia, decyzje lub praktyki, a także obszar gospodarczy, na którym mają być one stosowane, mając na względzie zapewnienie prawidłowego funkcjonowania danego rynku oraz niezakłócania konkurencji na danym rynku, a także biorąc pod uwagę cele, jakich mogą dotyczyć te porozumienia, decyzje lub praktyki.
+
+**Art. 38p.** Minister właściwy do spraw rynków rolnych przekazuje Komisji Europejskiej informacje, o których mowa w art. 164 ust. 6 rozporządzenia nr 1308/2013.
+
+#### Rozdział 7c Zakres, w jakim mogą być zawierane umowy na dostarczanie produktów rolnych należących do sektorów, o których mowa w art. 1 ust. 2 rozporządzenia nr 1308/2013
+
+**Art. 38q.**
+
+1. Każde dostarczenie produktów rolnych należących do sektorów, o których mowa w art. 1 ust. 2 lit. a, lit. c wyłącznie w zakresie buraków cukrowych, lit. f, h, i, n, o, lit. p wyłącznie w zakresie mleka surowego, lit. q, r, s oraz t rozporządzenia nr 1308/2013, z wyłączeniem dostaw bezpośrednich i rolniczego handlu detalicznego w rozumieniu ustawy z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia (Dz. U. z 2022 r. poz. 2132 oraz z 2023 r. poz. 588) oraz sprzedaży bezpośredniej w rozumieniu ustawy z dnia 16 grudnia 2005 r. o produktach pochodzenia zwierzęcego (Dz. U. z 2023 r. poz. 872), przez producenta będącego rolnikiem w rozumieniu art. 3 pkt 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/2115 z dnia 2 grudnia 2021 r. ustanawiającego przepisy dotyczące wsparcia planów strategicznych sporządzanych przez państwa członkowskie w ramach wspólnej polityki rolnej (planów strategicznych WPR) i finansowanych z Europejskiego Funduszu Rolniczego Gwarancji (EFRG) i z Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (EFRROW) oraz uchylającego rozporządzenia (UE) nr 1305/2013 i (UE) nr 1307/2013 (Dz. Urz. UE L 435 z 06.12.2021, str. 1, z późn. zm. ), którego gospodarstwo rolne jest położone na terytorium Rzeczypospolitej Polskiej, do pierwszego nabywcy będącego przetwórcą lub dystrybutorem, który nie zbywa tych produktów rolnych bezpośrednio konsumentom finalnym, zwanym dalej „dystrybutorem”, wymaga zawarcia umowy obejmującej jedną lub wiele dostaw, spełniającej warunki określone w:
+
+- **1)** art. 125 i art. 127 oraz w załącznikach X i XI do rozporządzenia nr 1308/2013 – w przypadku produktów rolnych należących do sektora, o którym mowa w art. 1 ust. 2 lit. c rozporządzenia nr 1308/2013, wyłącznie w zakresie buraków cukrowych;
+- **2)** art. 148 ust. 2 rozporządzenia nr 1308/2013 – w przypadku produktów rolnych należących do sektora, o którym mowa w art. 1 ust. 2 lit. p rozporządzenia nr 1308/2013, wyłącznie w zakresie mleka surowego;
+- **3)** art. 168 ust. 4 i 6 rozporządzenia nr 1308/2013 – w przypadku produktów rolnych należących do sektorów, o których mowa w art. 1 ust. 2 lit. a, f, h, i, n, o, q, r, s oraz t rozporządzenia nr 1308/2013.
+
+1a. Uznaje się, że warunek zawarcia pisemnej umowy określony w punkcie I pkt 1 odpowiednio załącznika X i XI do rozporządzenia nr 1308/2013, art. 148 ust. 2 lit. b oraz art. 168 ust. 4 lit. b tego rozporządzenia jest spełniony również w przypadku zawarcia umowy w formie dokumentowej albo elektronicznej.
+
+1b. Oprócz przypadku, o którym mowa w art. 148 ust. 3 oraz art. 168 ust. 5 rozporządzenia nr 1308/2013, przepisów ust. 1 nie stosuje się również w przypadku, gdy producent, o którym mowa w ust. 1, będący członkiem:
+
+- **1)** grupy producentów rolnych w rozumieniu przepisów o grupach producentów rolnych i ich związkach sprzedaje produkty rolne do grupy producentów rolnych, której jest członkiem,
+- **2)** wstępnie uznanej grupy producentów owoców i warzyw za organizację producentów owoców i warzyw w rozumieniu przepisów o organizacji rynków owoców i warzyw oraz rynku chmielu sprzedaje owoce lub warzywa do tej grupy,
+- **3)** uznanej organizacji producentów owoców i warzyw w rozumieniu przepisów o organizacji rynków owoców i warzyw oraz rynku chmielu sprzedaje owoce lub warzywa do tej organizacji,
+- **4)** organizacji producentów uznanej na podstawie art. 38i ust. 1 lub uznanej w rozumieniu przepisów o organizacji rynku mleka i przetworów mlecznych sprzedaje produkty rolne do tej organizacji – jeżeli statut lub umowa, lub umowa członkowska tej grupy lub tej organizacji spełniają, w zależności od produktu, warunki określone w art. 125 lub art. 127 rozporządzenia nr 1308/2013 oraz odpowiednio w załączniku X lub XI do tego rozporządzenia albo art. 148 ust. 2 lit. a–c, albo art. 168 ust. 4 lit. a–c tego rozporządzenia.
+
+1c. Umowę, o której mowa w ust. 1 i 1a, nabywca, o którym mowa w ust. 1, przechowuje przez 2 lata, licząc od końca roku, w którym została zrealizowana ostatnia dostawa w ramach tej umowy.
+
+2. (uchylony)
+
+3. Umowa, o której mowa w ust. 1, dotycząca dostarczania tytoniu zawierana jest w terminie do dnia 15 marca roku zbiorów.
+
+3a. Dyrektor oddziału terenowego Krajowego Ośrodka właściwy według miejsca siedziby lub zamieszkania nabywcy przeprowadza kontrole spełniania obowiązku zawierania umów, o których mowa w ust. 1.
+
+4. Minister właściwy do spraw rynków rolnych może określić, w drodze rozporządzenia, minimalny okres obowiązywania umowy, o której mowa w ust. 1, oraz minimalny okres od zawarcia umowy do realizacji dostawy, mając na względzie zapewnienie właściwego funkcjonowania rynku wewnętrznego.
+
+**Art. 38r.**
+
+1. Minister właściwy do spraw rynków rolnych przekazuje Komisji Europejskiej informacje, o których mowa w art. 148 ust. 5 i art. 168 ust. 7 akapit drugi rozporządzenia nr 1308/2013.
+
+2. Dyrektor Generalny Krajowego Ośrodka jest organem właściwym do gromadzenia i przekazywania ministrowi właściwemu do spraw rynków rolnych oraz Komisji Europejskiej informacji w zakresie negocjacji umownych, o których mowa w rozporządzeniu nr 1308/2013.
+
+#### Rozdział 7d Program dla szkół
+
+**Art. 38s.** W zakresie określonym przepisami Unii Europejskiej Krajowy Ośrodek realizuje zadania i obowiązki państwa członkowskiego lub właściwej władzy państwa członkowskiego związane z wdrożeniem na terytorium Rzeczypospolitej Polskiej programu dla szkół ustanowionego zgodnie z art. 23 rozporządzenia nr 1308/2013, chyba że ustawa lub przepisy odrębne stanowią inaczej. Art. 38sa. Zadania, o których mowa w art. 38s, są wykonywane jako zadania delegowane Krajowemu Ośrodkowi zgodnie z przepisami o Agencji Restrukturyzacji i Modernizacji Rolnictwa.
+
+**Art. 38t.** Na finansowanie programu dla szkół poza środkami z budżetu Unii Europejskiej przeznacza się środki z budżetu państwa.
+
+**Art. 38u.**
+
+1. W zakresie realizacji zadań, o których mowa w art. 38s, dyrektor oddziału terenowego Krajowego Ośrodka, w drodze decyzji:
+
+- **1)** zatwierdza wnioskodawców, o których mowa w art. 5 ust. 2 lit. a i c–e rozporządzenia delegowanego Komisji (UE) 2017/40 z dnia 3 listopada 2016 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1308/2013 w odniesieniu do pomocy unijnej na dostarczanie owoców i warzyw, bananów oraz mleka do placówek oświatowych oraz zmieniającego rozporządzenie delegowane Komisji (UE) nr 907/2014 (Dz. Urz. UE L 5 z 10.01.2017, str. 11), zwanego dalej „rozporządzeniem 2017/40”, spełniających warunki określone w art. 6 rozporządzenia 2017/40, realizujących działania wymienione w art. 5 ust. 1 lit. a tego rozporządzenia, oraz zawiesza lub cofa zatwierdzenie na zasadach określonych w art. 7 tego rozporządzenia;
+- **2)** przyznaje pomoc unijną zgodnie z art. 23 ust. 1 rozporządzenia nr 1308/2013 na finansowanie kosztów, o których mowa w art. 4 ust. 1 lit. a rozporządzenia 2017/40;
+- **3)** przyznaje pomoc krajową zgodnie z art. 23a ust. 6 oraz art. 217 rozporządzenia nr 1308/2013 na finansowanie kosztów, o których mowa w art. 4 ust. 1 lit. a rozporządzenia 2017/40.
+
+2. Krajowy Ośrodek przyznaje, na podstawie umowy, pomoc unijną zgodnie z art. 23 ust. 1 rozporządzenia nr 1308/2013 na finansowanie kosztów, o których mowa w art. 4 ust. 1 lit. b–e rozporządzenia 2017/40, wnioskodawcom, o których mowa w art. 5 ust. 2 lit. d i e rozporządzenia 2017/40, spełniającym warunki określone w art. 6 rozporządzenia 2017/40, realizującym działania wymienione w art. 5 ust. 1 lit. b–d tego rozporządzenia, wyłonionym zgodnie z przepisami ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2022 r. poz. 1710, 1812, 1933 i 2185 oraz z 2023 r. poz. 412 i 825).
+
+**Art. 38w.**
+
+1. Minister właściwy do spraw rynków rolnych jest organem właściwym w sprawie opracowania i przekazania do Komisji Europejskiej:
+
+- **1)** strategii dotyczącej realizacji programu dla szkół, o której mowa w art. 23 ust. 8 rozporządzenia nr 1308/2013, na poziomie krajowym lub regionalnym;
+- **2)** wniosku o pomoc z budżetu Unii Europejskiej na finansowanie programu dla szkół, o którym mowa w art. 23a ust. 3 rozporządzenia nr 1308/2013.
+
+2. Opracowując strategię, o której mowa w ust. 1 pkt 1, minister właściwy do spraw rynków rolnych w porozumieniu z ministrem właściwym do spraw zdrowia ustala wykaz produktów, które będą dostarczane w ramach programu dla szkół.
+
+**Art. 38x.**
+
+1. Minister właściwy do spraw rynków rolnych określi, w drodze rozporządzenia, szczegółowy zakres zadań realizowanych przez Krajowy Ośrodek związanych z wdrożeniem na terytorium Rzeczypospolitej Polskiej programu dla szkół oraz sposób i tryb realizacji tych zadań, mając na względzie zapewnienie skutecznego i efektywnego wdrożenia tego programu.
+
+2. W rozporządzeniu, o którym mowa w ust. 1, minister właściwy do spraw rynków rolnych może określić szczegółowe warunki uczestnictwa podmiotów w programie dla szkół oraz szczegółowe warunki i tryb przyznawania pomocy finansowej z tytułu realizacji działań w ramach programu dla szkół, a także zakres kontroli jej wykorzystania, mając na względzie zapewnienie prawidłowej i przejrzystej realizacji tego programu zgodnie z przepisami Unii Europejskiej obowiązującymi w tym zakresie.
+
+3. W przypadku gdy w przepisach Unii Europejskiej określonym podmiotom zostały przyznane uprawnienia lub na określone podmioty zostały nałożone obowiązki związane z wdrożeniem programu dla szkół, minister właściwy do spraw rynków rolnych w rozporządzeniu, o którym mowa w ust. 1, określi sposób realizacji tych uprawnień lub wykonania tych obowiązków, mając na względzie zapewnienie skutecznej realizacji tego programu.
+
+**Art. 38y.**
+
+1. Środki towarzyszące o charakterze edukacyjnym, o których mowa w art. 3 rozporządzenia 2017/40, są realizowane co najmniej w jednym z zakresów wskazanych w art. 23 ust. 10 rozporządzenia nr 1308/2013.
+
+2. Minister właściwy do spraw oświaty i wychowania w porozumieniu z ministrem właściwym do spraw zdrowia określi, w drodze rozporządzenia, środki towarzyszące o charakterze edukacyjnym, o których mowa w art. 3 rozporządzenia 2017/40, w ramach zakresu wskazanego w art. 23 ust. 10 rozporządzenia nr 1308/2013, oraz szczegółowy sposób ich realizacji, mając na względzie prawidłową realizację programu dla szkół oraz potrzebę upowszechniania wśród dzieci zdrowych nawyków żywieniowych.
+
+**Art. 38z.** Rada Ministrów określa, w drodze rozporządzenia, corocznie do dnia 31 maja na kolejny rok szkolny:
+
+#### Rozdział 8
+
+#### Rozdział 9
+
+#### Rozdział 9a
+
+#### Rozdział 9b Udzielanie dopłat z tytułu zużytego do siewu lub sadzenia materiału siewnego kategorii elitarny lub kwalifikowany
+
+**Art. 40c.**
+
+1. Dopłat z tytułu zużytego do siewu lub sadzenia materiału siewnego kategorii elitarny lub kwalifikowany lub wytworzonego w ramach produkcji ekologicznej w rozumieniu art. 2 ust. 1 pkt 10 ustawy z dnia 23 czerwca 2022 r. o rolnictwie ekologicznym i produkcji ekologicznej (Dz. U. poz. 1370 oraz z 2023 r. poz. 412 i 588) materiału siewnego kategorii elitarny lub kwalifikowany, zwanego dalej „ekologicznym materiałem siewnym kategorii elitarny lub kwalifikowany”, udziela się producentom rolnym w rozumieniu ustawy z dnia 18 grudnia 2003 r. o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności.
+
+2. Warunkiem uzyskania dopłaty jest posiadanie przez producenta rolnego działek rolnych o łącznej powierzchni nie mniejszej niż 1 ha, na których uprawia się gatunki roślin uprawnych objęte dopłatami, przy czym działka rolna oznacza działkę rolną w rozumieniu art. 2 pkt 4 ustawy z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. poz. 412) o powierzchni nie mniejszej niż 0,1 ha wchodzącą w skład gospodarstwa rolnego.
+
+3. Dopłaty udziela się do powierzchni gruntów ornych obsianych lub obsadzonych materiałem siewnym kategorii elitarny lub kwalifikowany lub ekologicznym materiałem siewnym kategorii elitarny lub kwalifikowany gatunków roślin uprawnych określonych w przepisach wydanych na podstawie ust. 6 pkt 2, jeżeli:
+
+- **1)** ilość materiału siewnego kategorii elitarny lub kwalifikowany lub ekologicznego materiału siewnego kategorii elitarny lub kwalifikowany, zużyta do obsiania lub obsadzenia tych powierzchni, jest nie mniejsza niż minimalna ilość tego materiału określona w przepisach wydanych na podstawie art. 40d ust. 6 pkt 2;
+- **2)** materiał siewny kategorii elitarny lub kwalifikowany lub ekologiczny materiał siewny kategorii elitarny lub kwalifikowany został wytworzony:
+    - **a)** przez przedsiębiorcę wpisanego do ewidencji przedsiębiorców, o której mowa w przepisach o nasiennictwie, lub
+    - **b)** w gospodarstwie rolnym posiadanym przez rolnika wpisanego do ewidencji rolników, o której mowa w przepisach o nasiennictwie, lub
+
+- **3)** materiał siewny kategorii elitarny lub kwalifikowany lub ekologiczny materiał siewny kategorii elitarny lub kwalifikowany został zakupiony:
+    - **a)** od przedsiębiorcy wpisanego do ewidencji przedsiębiorców prowadzących obrót materiałem siewnym, o której mowa w przepisach o nasiennictwie, albo
+    - **b)** od rolnika prowadzącego obrót materiałem siewnym wytworzonym w posiadanym gospodarstwie rolnym, wpisanego do ewidencji rolników, o której mowa w przepisach o nasiennictwie, albo
+    - **c)** od podmiotu prowadzącego obrót materiałem siewnym na terytorium innego państwa członkowskiego Unii Europejskiej.
+
+3a. Dopłatami nie obejmuje się uprawy przeznaczonej na przedplon lub poplon.
+
+4. Wysokość dopłaty ustala się jako iloczyn powierzchni gruntów ornych obsianych lub obsadzonych materiałem siewnym kategorii elitarny lub kwalifikowany lub ekologicznym materiałem siewnym kategorii elitarny lub kwalifikowany gatunków roślin uprawnych określonych w przepisach wydanych na podstawie ust. 6 pkt 2 i stawek dopłat do 1 ha takiej powierzchni.
+
+5. Dopłaty mają charakter pomocy de minimis w rolnictwie i są udzielane zgodnie z przepisami o postępowaniu w sprawach dotyczących pomocy publicznej.
+
+6. Rada Ministrów określa, w drodze rozporządzenia:
+
+- **1)** stawki dopłat do 1 ha powierzchni gruntów ornych obsianych lub obsadzonych materiałem siewnym kategorii elitarny lub kwalifikowany lub ekologicznym materiałem siewnym kategorii elitarny lub kwalifikowany, uwzględniając gatunki roślin uprawnych objętych dopłatą, rodzaj użytego materiału siewnego oraz środki finansowe przeznaczone na te dopłaty;
+- **2)** wykaz gatunków roślin uprawnych, do których materiału siewnego kategorii elitarny lub kwalifikowany lub ekologicznego materiału siewnego kategorii elitarny lub kwalifikowany przysługuje dopłata z tytułu zużytego do siewu lub sadzenia materiału siewnego kategorii elitarny lub kwalifikowany lub ekologicznego materiału siewnego kategorii elitarny lub kwalifikowany, uwzględniając poziom wymiany kwalifikowanego materiału siewnego w produkcji roślinnej.
+
+**Art. 40d.**
+
+1. Kierownik biura powiatowego Agencji właściwego ze względu na miejsce zamieszkania lub siedzibę producenta rolnego przyznaje, w drodze decyzji, dopłatę z tytułu zużytego do siewu lub sadzenia materiału siewnego kategorii elitarny lub kwalifikowany lub ekologicznego materiału siewnego kategorii elitarny lub kwalifikowany na wniosek producenta rolnego.
+
+1a. (uchylony)
+
+2. Wniosek, o którym mowa w ust. 1, składa się na formularzu opracowanym i udostępnionym przez Agencję, zawierającym w szczególności:
+
+- **1)** dane, o których mowa w art. 27 ust. 2a pkt 1–3;
+- **2)** oświadczenie o:
+    - **a)** powierzchni gruntów ornych obsianych lub obsadzonych materiałem siewnym kategorii elitarny lub kwalifikowany lub ekologicznym materiałem siewnym kategorii elitarny lub kwalifikowany,
+    - **b)** sposobie wykorzystania działek rolnych, na których został wysiany lub wysadzony materiał siewny kategorii elitarny lub kwalifikowany lub ekologiczny materiał siewny kategorii elitarny lub kwalifikowany,
+    - **c)** ilości materiału siewnego kategorii elitarny lub kwalifikowany lub ekologicznego materiału siewnego kategorii elitarny lub kwalifikowany, jaka została zużyta do obsiania lub obsadzenia 1 ha powierzchni gruntów ornych.
+
+2a. Wniosek, o którym mowa w ust. 1, można składać za pomocą systemu teleinformatycznego Agencji w sposób określony w przepisach o Agencji Restrukturyzacji i Modernizacji Rolnictwa.
+
+3. Do wniosku producent rolny dołącza kopię:
+
+- **1)** faktury zakupu materiału siewnego kategorii elitarny lub kwalifikowany lub ekologicznego materiału siewnego kategorii elitarny lub kwalifikowany wystawionej w okresie od dnia 15 lipca roku poprzedzającego złożenie wniosku do dnia 15 czerwca roku złożenia wniosku, pod warunkiem że materiał ten został zużyty w tym okresie do siewu lub sadzenia;
+- **2)** dokumentu wydania z magazynu materiału siewnego kategorii elitarny lub kwalifikowany lub ekologicznego materiału siewnego kategorii elitarny lub kwalifikowany wystawionego w roku, w którym materiał ten został zużyty do siewu lub sadzenia, jeżeli producent rolny zużył do siewu lub sadzenia w posiadanym przez niego gospodarstwie rolnym materiał siewny kategorii elitarny lub kwalifikowany lub ekologiczny materiał siewny kategorii elitarny lub kwalifikowany, o którym mowa w art. 40c ust. 3 pkt 2 lit. a lub b.
+
+4. Dokumenty, o których mowa w ust. 3, powinny zawierać w szczególności:
+
+- **1)** datę sprzedaży lub wydania z magazynu materiału siewnego;
+- **2)** nazwę gatunku i odmiany;
+- **3)** kategorię lub stopień kwalifikacji materiału siewnego;
+- **4)** numer partii materiału siewnego;
+- **5)** informację o tym, że materiał siewny jest produktem ekologicznym – w przypadku ekologicznego materiału siewnego kategorii elitarny lub kwalifikowany.
+
+4a. Do dokumentów, o których mowa w ust. 3, wystawionych dla mieszanek materiału siewnego, przepisów ust. 4 pkt 2 i 3 nie stosuje się.
+
+5. Na żądanie Agencji producent rolny jest obowiązany dostarczyć oryginały dokumentów, o których mowa w ust. 3.
+
+5a. Różnica powierzchni dla poszczególnych działek rolnych zgłoszonych we wniosku, o którym mowa w ust. 1, nie może przekroczyć 5% powierzchni działki rolnej.
+
+5b. W przypadku stwierdzenia różnicy powierzchni działki rolnej, która przekracza 5%, wysokość dopłaty nie może być wyższa niż przysługująca do powierzchni ustalonej w wyniku kontroli, o której mowa w art. 20 ust. 1, nie większej jednak niż zgłoszonej we wniosku.
+
+6. Minister właściwy do spraw rynków rolnych określi, w drodze rozporządzenia:
+
+- **1)** terminy składania wniosków, o których mowa w ust. 1, oraz terminy i sposób wypłaty dopłat z tytułu zużytego do siewu lub sadzenia materiału siewnego kategorii elitarny lub kwalifikowany lub ekologicznego materiału siewnego kategorii elitarny lub kwalifikowany, mając na względzie zabezpieczenie przed nieuzasadnionym przyznaniem tych dopłat;
+- **2)** minimalną ilość materiału siewnego, jaka powinna być użyta do obsiania lub obsadzenia 1 ha powierzchni gruntów ornych, mając na względzie zalecane normy wysiewu dla poszczególnych gatunków roślin.
+
+**Art. 40e.**
+
+1. Wojewódzki inspektor ochrony roślin i nasiennictwa, zwany dalej „wojewódzkim inspektorem”, na wniosek dyrektora oddziału regionalnego Agencji przekazuje nieodpłatnie informacje o:
+
+- **1)** przedsiębiorcach wpisanych do ewidencji przedsiębiorców prowadzących obrót materiałem siewnym oraz rolnikach wpisanych do ewidencji rolników prowadzących obrót materiałem siewnym, o których mowa w przepisach o nasiennictwie, w zakresie:
+    - **a)** imienia i nazwiska, miejsca zamieszkania i adresu albo nazwy, siedziby i adresu oraz miejsca i adresu wykonywania działalności,
+    - **b)** numeru w ewidencji przedsiębiorców prowadzących obrót materiałem siewnym albo numeru w ewidencji rolników prowadzących obrót materiałem siewnym, prowadzonej przez wojewódzkiego inspektora,
+    - **c)** numeru identyfikacji podatkowej (NIP);
+
+- **2)** (uchylony)
+- **3)** ilości wprowadzonego do obrotu materiału siewnego kategorii elitarny lub kwalifikowany lub ekologicznego materiału siewnego kategorii elitarny lub kwalifikowany gatunków roślin uprawnych określonych w przepisach wydanych na podstawie art. 40c ust. 6 pkt 2.
+
+2. (uchylony)
+
+**Art. 40f.** (uchylony)
+
+**Art. 40g.** (uchylony)
+
+**Art. 40h.** (uchylony)
+
+#### Rozdział 9ba Zasady monitorowania uprawy tytoniu oraz produkcji i zbytu surowca tytoniowego, a także nadzoru nad uprawą tytoniu oraz produkcją i zbytem surowca tytoniowego
+
+#### Rozdział 9c Przepisy o karach pieniężnych
+
+**Art. 40i.**
+
+1. Kto jako pierwszy nabywca będący przetwórcą lub dystrybutorem nabywa, wbrew przepisom art. 38q ust. 1 lub 1a, bez pisemnej umowy lub bez umowy zawartej w formie dokumentowej albo elektronicznej produkty rolne należące do sektorów, o których mowa w art. 38q ust. 1, podlega karze pieniężnej w wysokości 10% zapłaty w rozumieniu art. 29a ust. 1 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2022 r. poz. 931, z późn. zm. ) za produkty nabyte bez pisemnej umowy lub bez umowy zawartej w formie dokumentowej albo elektronicznej.
+
+1a. Kto jako pierwszy nabywca będący przetwórcą lub dystrybutorem nabywa, wbrew przepisom art. 38q ust. 1 lub 1a, produkty rolne należące do sektorów, o których mowa w art. 38q ust. 1, na podstawie umowy niespełniającej warunków określonych w art. 148 ust. 2 lit. c ppkt ii, iii, iv, v lub vi lub art. 168 ust. 4 lit. c ppkt ii, iii, iv, v lub vi rozporządzenia nr 1308/2013, podlega karze pieniężnej w wysokości 1% zapłaty w rozumieniu art. 29a ust. 1 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług za produkty nabyte wskutek takiej umowy – za każdy niespełniony warunek.
+
+1b. Kto jako pierwszy nabywca będący przetwórcą lub dystrybutorem nabywa, wbrew przepisom art. 38q ust. 1 lub 1a, produkty rolne należące do sektorów, o których mowa w art. 38q ust. 1, na podstawie umowy niespełniającej warunków określonych w:
+
+- **1)** art. 148 ust. 2 lit. a i c ppkt i rozporządzenia nr 1308/2013 – w przypadku produktów rolnych należących do sektora, o którym mowa w art. 1 ust. 2 lit. p rozporządzenia nr 1308/2013, wyłącznie w zakresie mleka surowego,
+- **2)** art. 168 ust. 4 lit. a i c ppkt i rozporządzenia nr 1308/2013 – w przypadku produktów rolnych należących do sektorów, o których mowa w art. 1 ust. 2 lit. a, f, h, i, n, o, q, r, s oraz t rozporządzenia nr 1308/2013 – podlega karze pieniężnej w wysokości 4% zapłaty w rozumieniu art. 29a ust. 1 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług za produkty nabyte wskutek takiej umowy – za każdy niespełniony warunek.
+
+1c. Kto jako pierwszy nabywca będący przetwórcą lub dystrybutorem nabywa, wbrew przepisom art. 38q ust. 1 lub 1a, produkty rolne należące do sektorów, o których mowa w art. 38q ust. 1, na podstawie umowy niespełniającej warunków określonych w art. 125 lub art. 127 rozporządzenia nr 1308/2013 oraz w załączniku X lub XI do tego rozporządzenia, z wyjątkiem warunku określonego w punkcie I pkt 1 tych załączników – w przypadku produktów rolnych należących do sektora, o którym mowa w art. 1 ust. 2 lit. c rozporządzenia nr 1308/2013, wyłącznie w zakresie buraków cukrowych, podlega karze pieniężnej w wysokości 5% zapłaty w rozumieniu art. 29a ust. 1 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług za produkty nabyte wskutek takiej umowy.
+
+1d. W przypadku gdy umowa, o której mowa w art. 38q ust. 1 i 1a, nie spełnia więcej niż jednego z warunków wymienionych w ust. 1a i 1b, kary pieniężne sumują się, z tym że wysokość kary pieniężnej nie może przekroczyć 5% zapłaty w rozumieniu art. 29a ust. 1 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług za produkty nabyte wskutek takiej umowy.
+
+2. Nie mają wpływu na obowiązek uiszczenia kary pieniężnej i jej wysokość odstąpienie od umowy oraz czynności mające na celu zmniejszenie wartości umowy, w szczególności obniżenie ceny z tytułu wad produktów i wystawienie faktury korygującej.
+
+**Art. 40j.**
+
+1. Kary pieniężne, o których mowa w:
+
+- **1)** art. 40i ust. 1–1c,
+- **2)** art. 8 rozporządzenia 2017/40, w odniesieniu do pomocy, o której mowa w art. 38u ust. 1 pkt 2 – wymierza, w drodze decyzji administracyjnej, dyrektor oddziału terenowego Krajowego Ośrodka właściwy według miejsca siedziby lub zamieszkania nabywcy albo wnioskodawcy.
+
+2. Egzekucja nałożonych kar pieniężnych następuje w trybie przepisów o postępowaniu egzekucyjnym w administracji.
+
+3. Kary pieniężne stanowią dochód budżetu państwa i są wpłacane na rachunek bankowy Krajowego Ośrodka, w terminie 14 dni od dnia, w którym decyzja o nałożeniu kary stała się ostateczna.
+
+#### Rozdział 9d Przepisy karne
+
+**Art. 40k.**
+
+1. Kto, będąc producentem surowca tytoniowego, nie przekazuje informacji, o których mowa w art. 40hc ust. 1, albo przekazuje te informacje po upływie terminu lub przekazuje informacje niepełne lub niezgodne ze stanem faktycznym, podlega karze grzywny.
+
+2. Nie podlega karze kto, będąc producentem surowca tytoniowego, w przekazanej informacji, o której mowa w art. 40hc ust. 1 pkt 1 i pkt 7 lit. a, podał powierzchnię uprawy poszczególnych grup odmian tytoniu, która różni się nie więcej niż o 5% od rzeczywistej powierzchni upraw ustalonej w wyniku kontroli.
+
+3. Nie podlega karze ten, w odniesieniu do którego wydano decyzję o zniszczeniu uprawy tytoniu i dokonano tego zniszczenia w przypadku, o którym mowa w art. 40hi ust. 3.
+
+**Art. 40l.** Orzekanie w sprawach, o których mowa w art. 40k, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2022 r. poz. 1124).
 
 #### Rozdział 10 Zmiany w przepisach obowiązujących
 
-**Art. 41.** W ustawie z dnia 29 grudnia 1993 r. o utworzeniu Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 1994 r. 1, poz. 2, z póên. zm. ) w art. 11 ust. 5 otrzymuje brzmienie: Ń5. Do należności, októrych mowa wust. 4, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. 137, poz. 926, z póên. zm. ŃArt. 11a. Po utworzeniu Krajowej Spółki Cukrowej minister właściwy do spraw Skarbu Państwa spowoduje połączenie wtrybie art. 492 § 1 pkt 1 Kodeksu spółek handlowych tej spółki ze spółkami, w których:
-
-**Art. 11b.**
-
-1. Minister właściwy do spraw Skarbu Państwa, działający w imieniu Skarbu Państwa, wniesie na podwyższenie kapitału Krajowej Spółki Cukrowej wszystkie będące w posiadaniu Skarbu Państwa akcje Spółek Cukrowych utworzonych na podstawie art. 6 ust. 1 oraz akcje spółek, o których mowa w art. 7 ust. 2, które nie podlegały połączeniu z Krajową Spółką Cukrową. Do rozporządzania akcjami cukrowni polegającego na wniesieniu ich na podwyższenie kapitału Krajowej Spółki Cukrowej nie stosuje się przepisów ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji iprywatyzacji (Dz. U. z2002 r. 171, poz. 1397, z póên. zm. ), z wyłączeniem przepisów dotyczących umarzania należności, odraczania płatności oraz rozkładania płatności na raty.”.
-
-**Art. 42.** Wustawie zdnia 26 sierpnia 1994 r. oprzekształceniach własnościowych wprzemyśle cukrowniczym (Dz. U. 98, poz. 473, z 1996 r. 152, poz. 724, z 1997 r. 121, poz. 770 oraz z 2001 r. 76, poz. 810) po art. 11 dodaje się art. 11a—11c w brzmieniu: ). 2. Rada Ministrów określi, wdrodze rozporządzenia, program prywatyzacji Krajowej Spółki Cukrowej oraz tryb zbywania akcji wyłącznie dla plantatorów buraków cukrowych związanych umowami kontraktacji buraków cukrowych z Krajową Spółką Cukrową i pracowników Krajowej Spółki Cukrowej. Zapłata za akcje może być dokonywana w ratach. Do zbywania akcji nie stosuje się przepisów ustawy zdnia 21 sierpnia 1997 r. Prawo opublicznym obrocie papierami wartościowymi (Dz. U. z 2002 r. 49, poz. 447, z póên. zm. ) oraz ustawy, o której mowa w ust. 1. 3. Plantatorzy buraków cukrowych ipracownicy przemysłu cukrowniczego, w miejsce uprawnień do nieodpłatnego nabycia akcji uzyskanych na podstawie art. 8, nabywają odpowiednio prawo do nieodpłatnego nabycia akcji Krajowej Spółki Cukrowej. Przepisy Kodeksu spółek handlowych o zamianie akcji stosuje się odpowiednio. 4. Akcje nabyte w trybie określonym w przepisach wydanych na podstawie ust. 2 lub nabyte znowych emisji akcje bez wyłączonego prawa głosu mogą być zbywane wyłącznie innym plantatorom buraków cukrowych związanych umowami kontraktacji buraków cukrowych z Krajową Spółką Cukrową i pracownikom Krajowej Spółki Cukrowej albo mogą być nabyte przez Krajową Spółkę Cukrową w celu umorzenia. Akcje nowych emisji Krajowej Spółki Cukrowej mogą obejmować wyłącznie plantatorzy buraków cukrowych związani umowami kontraktacji buraków cukrowych z Krajową Spółką Cukrową lub pracownicy Krajowej Spółki Cukrowej, lub mogą być nabyte przez inne osoby wyłącznie w formie akcji z wyłączonym prawem głosu.
-
-**Art. 11c.** Zchwilą zakończenia postępowań sądowych wstosunku do Âląskiej Spółki Cukrowej oraz pozostałych cukrowni będących w sporze, akcje tych spółek zostaną wniesione na podwyższenie kapitału Krajowej Spółki Cukrowej.”.
-
-**Art. 43.** W ustawie z dnia 30 maja 1996 r. o rezerwach państwowych oraz zapasach obowiązkowych paliw (Dz. U. z 2003 r. 24, poz. 197) wprowadza się następujące zmiany:
-
-**Art. 44.** W ustawie z dnia 12 maja 2000 r. o zasadach wspierania rozwoju regionalnego (Dz. U. 48, poz. 550, z póêń. zm. ) w art. 14 w ust. 2 uchyla się pkt 4.
-
-**Art. 45.** W ustawie z dnia 9 września 2000 r. o podatku od czynności cywilnoprawnych (Dz. U. 86, poz. 959, z póên. zm. ) w art. 8 w pkt 6 kropkę zastępuje się przecinkiem i dodaje się pkt 7 w brzmieniu: Ń7) Agencję Rynku Rolnego.’’.
-
-**Art. 46.** Wustawie zdnia 21 grudnia 2000 r. ojakości handlowej artykułów rolno-spożywczych (Dz. U. z2001 r. 5, poz. 44, zpóên. zm. duszu Orientacji i Gwarancji Rolnej (Dz. U. 229, poz. 2273) wprowadza się następujące zmiany:
-
-**Art. 47.** Wustawie zdnia 30 lipca 2003 r. ourucha- Ń2. Pomoc, októrej mowa wart. 1 ust. 1 pkt 1—7, mianiu środków pochodzących z Sekcji Gwarancji Eu- jest udzielana, wstrzymywana, zawieszana, ropejskiego Funduszu Orientacji i Gwarancji Rolnej zwracana lub zmniejszana w drodze decyzji (Dz. U. 166, poz. 1611) uchyla się art. 12. administracyjnej wydanej przez kierownika jednostki organizacyjnej Agencji, a pomoc,
-
-**Art. 48.** W ustawie z dnia 28 listopada 2003 r. októrej mowa wart. 1 ust. 1 pkt 8, na podstao wspieraniu rozwoju obszarów wiejskich ze środków wie umowy cywilnoprawnej.”, pochodzących z Sekcji Gwarancji Europejskiego Func) dodaje się ust. 6 w brzmieniu: Ń6. Minister właściwy do spraw rozwoju wsi określi, w drodze rozporządzenia, wzory wniosków o pomoc na działania określone wart. 1 ust. 1, oraz zawartość planów do działań określonych wart. 1 ust. 1 pkt 3 i4, mając na względzie ujednolicenie informacji zawartych we wnioskach oraz zabezpieczenie przed nieuzasadnionym przyznawaniem pomocy.”;
-
-**Art. 49.** Wustawie zdnia 18 grudnia 2003 r. opłatnościach bezpośrednich do gruntów rolnych (Dz. U. z2004 r. 6, poz. 40) wart. 2 wust. 3 wpkt 2 uchyla
-
-**Art. 50.** W ustawie z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw, rynku chmielu, rynku tytoniu oraz rynku suszu paszowego (Dz. U. 223, poz. 2221) w rozdziale 4 dodaje się art. 33a w brzmieniu: ŃArt. 33a. 1. Producentowi surowca tytoniowego dostarczającemu surowiec tytoniowy wramach przydzielonej mu kwoty produkcji surowca tytoniowego, na podstawie zawartej umowy na uprawę, przysługuje, wypłacana przez Agencję, płatność za ilość surowca tytoniowego dostarczonego podmiotowi posiadającemu zezwolenie, o którym mowa wart. 26 ust. 1, nie więcej jednak niż za ilość tego surowca wynikającą z przysługującej temu producentowi kwoty produkcji surowca tytoniowego. 2. Płatność jest przyznawana przez dyrektora oddziału terenowego Agencji, wdrodze decyzji, na podstawie wniosku producenta surowca tytoniowego złożonego na formularzu opracowanym iudostępnionym przez Agencję. 3. Wniosek, o którym mowa w ust. 2, zawiera:
-
 #### Rozdział 11 Przepisy przejściowe i końcowe
-
-**Art. 51.**
-
-1. Decyzje administracyjne wydane przez ministra właściwego do spraw rynków rolnych na podstawie art. 6 ustawy zdnia 11 stycznia 2001 r. oregulacji rynku skrobi ziemniaczanej (Dz. U. 11, poz. 83 oraz z2004 r. 19, poz. 177) na okres kampanii produkcyjnych 2002/2003, 2003/2004 i 2004/2005 tracą moc wodniesieniu do kampanii produkcyjnej 2004/2005.
-
-2. Na kampanię produkcyjną 2004/2005 kontyngent krajowy produkcji skrobi wynosi 144 985 ton.
-
-3. Minister właściwy do spraw rynków rolnych wramach kontyngentu, októrym mowa wust. 2, przyznaje na wniosek producenta skrobi, wdrodze decyzji administracyjnej, limit produkcyjny do wykorzystania w kampanii produkcyjnej 2004/2005.
-
-4. Ustalenie wielkości limitów produkcyjnych dla producentów skrobi następuje przez podział krajowego kontyngentu produkcji skrobi, przy uwzględnieniu przeciętnej ilości skrobi wyprodukowanej przez producentów skrobi w kampaniach produkcyjnych 1999/2000, 2000/2001 i2001/2002.
-
-5. Wniosek, o którym mowa w ust. 3, składa się w terminie do dnia 31 marca 2004 r.
-
-6. Wniosek zawiera w szczególności:
-
-- **1)** oznaczenie producenta skrobi, zpodaniem imienia i nazwiska oraz miejsca zamieszkania i adresu albo nazwy oraz siedziby iadresu, awrazie ustanowienia pełnomocników do dokonywania czynności prawnych wimieniu producenta skrobi również ich imiona i nazwiska,
-- **2)** informację o wielkości produkcji skrobi w kampaniach produkcyjnych 1999/2000, 2000/2001 i 2001/2002.
-
-7. Wniosek podlega rozpatrzeniu w terminie do dnia 15 kwietnia 2004 r.
-
-**Art. 52.**
-
-1. W terminie do dnia 30 kwietnia 2004 r. akcje i udziały objęte przez Agencję w utworzonych zjej udziałem spółkach, atakże akcje iudziały współkach nabyte przez Agencję w innym trybie, z wyjątkiem akcji i udziałów spółek o profilu działalności związanym zobrotem iprzechowalnictwem zbóż, podlegają przekazaniu na rzecz Skarbu Państwa w formie protokołu zdawczo-odbiorczego.
-
-2. Protokół, októrym mowa wust. 1, stanowi podstawę dokonania zmian w Krajowym Rejestrze Sądowym i w księgach rachunkowych Agencji.
-
-3. Do przekazania, o którym mowa w ust. 1, nie stosuje się postanowień umowy lub statutu spółki, przyznających pierwszeństwo nabycia lub ograniczaArt. 53. 1. Do dopłat iopłat cukrowych ustalonych na rok 2003/2004 na podstawie przepisów dotychczasowych oraz do opłat sankcyjnych, o których mowa w przepisach dotychczasowych, stosuje się te przepisy, z tym że:
-
-- **1)** wysokość opłaty cukrowej wynosi:
-    - **a)** 1,3 % ceny interwencyjnej cukru białego w odniesieniu do ilości wyprodukowanego cukru A oraz izoglukozy A,
-    - **b)** 21,35 % ceny interwencyjnej cukru białego w odniesieniu do ilości wyprodukowanego cukru B oraz izoglukozy B;
-
-- **2)** cena interwencyjna cukru białego, o której mowa w pkt 1, wynosi, bez podatku od towarów i usług, 1,85 złotych za kilogram;
-- **3)** środki pochodzące z opłat cukrowych niewykorzystane na dopłaty zwiększają wysokość udzielonych dopłat w wysokości proporcjonalnej do dotychczas wypłaconych kwot dopłat; jących albo wyłączających nabycie udziałów lub akcji.
-- **4)** producenci cukru oraz izoglukozy mogą uzyskać dopłaty za rok 2003/2004 do eksportu cukru Boraz izoglukozy B po złożeniu do Agencji dokumentów potwierdzających, że w terminie do dnia 30 kwietnia 2004 r. dokonali wywozu cukru B oraz izoglukozy B poza polski obszar celny.
-
-2. Minister właściwy do spraw rynków rolnych, na wniosek Prezesa Agencji, określi wysokość dopłaty do eksportu 1 tony cukru oraz do przerobu 1 tony cukru na cele niespożywcze.
-
-**Art. 54.** W przypadku gdy w przepisach Unii Europejskiej zostanie ustalona dla Rzeczypospolitej Polskiej kwota produkcji isprzedaży izoglukozy AiBna miesiące maj i czerwiec 2004 r., minister właściwy do spraw rynków rolnych określi, wdrodze decyzji, wielkość produkcji isprzedaży izoglukozy AiBna te miesiące.
 
 **Art. 55.**
 
-1. Agencja Rezerw Materiałowych przejmie od Agencji zadania iobowiązki związane zgromadzeniem i gospodarowaniem państwowymi rezerwami produktów rolnych oraz produktów ipółproduktów żywnościowych.
+1. Rządowa Agencja Rezerw Strategicznych przejmie od Agencji zadania i obowiązki związane z gromadzeniem i gospodarowaniem państwowymi rezerwami produktów rolnych oraz produktów i półproduktów żywnościowych.
 
-2. Agencja przekaże Agencji Rezerw Materiałowych środki rzeczowe ifinansowe przeznaczone na realizację zadań iobowiązków, októrych mowa wust. 1, wterminie 3 miesięcy od dnia ogłoszenia niniejszej ustawy.
+2. Agencja przekaże Rządowej Agencji Rezerw Strategicznych środki rzeczowe i finansowe przeznaczone na realizację zadań i obowiązków, o których mowa w ust. 1, w terminie 3 miesięcy od dnia ogłoszenia niniejszej ustawy.
 
-3. Wterminie 3 miesięcy od dnia ogłoszenia niniejszej ustawy pracownicy Agencji zatrudnieni wCentrali oraz woddziałach terenowych na stanowiskach pracy związanych z wykonywaniem zadań realizowanych wzakresie gromadzenia igospodarowania rezerwami, stają się pracownikami Agencji Rezerw Materiałowych, z zachowaniem wymogów, o których mowa w art. 23 Kodeksu pracy.
+3. W terminie 3 miesięcy od dnia ogłoszenia niniejszej ustawy pracownicy Agencji zatrudnieni w Centrali oraz w oddziałach terenowych na stanowiskach pracy związanych z wykonywaniem zadań realizowanych w zakresie gromadzenia i gospodarowania rezerwami, stają się pracownikami Rządowej Agencji Rezerw Strategicznych, z zachowaniem wymogów, o których mowa w art. 23 Kodeksu pracy.
 
-4. Agencja Rezerw Materiałowych staje się stroną umów i porozumień zawartych przez Agencję związanych z gospodarowaniem rezerwami państwowymi produktów rolnych, produktów i półproduktów żywnościowych.
+4. Rządowa Agencja Rezerw Strategicznych staje się stroną umów i porozumień zawartych przez Agencję związanych z gospodarowaniem rezerwami państwowymi produktów rolnych, produktów i półproduktów żywnościowych.
 
-5. W celu wykonania przepisów, o których mowa 2. Kadencja członków Komisji Porozumiewawczej w ust. 1—4, Prezes Rady Ministrów dokona, w drodze do Spraw Cukru, powołanych na podstawie art. 3 rozporządzenia, przeniesienia planowanych docho- ustawy, októrej mowa wart. 58 pkt 3, upływa zdniem dów iwydatków budżetowych między działami budże- wejścia w życie niniejszej ustawy. tu państwa, z zachowaniem przeznaczenia środków Art. 58. Tracą moc: publicznych, wynikającego zustawy budżetowej. Przepis art. 39 ust. 1custawy zdnia 8 sierpnia 1996 r. oRa- 1) ustawa zdnia 7 czerwca 1990 r. outworzeniu Agendzie Ministrów (Dz. U. z2003 r. 24, poz. 199 iNr 80, cji Rynku Rolnego (Dz. U. z1997 r. 142, poz. 951, poz. 717) stosuje się odpowiednio. z 2000 r. 48, poz. 550, z 2001 r. 29, poz. 320, 81, poz. 875 iNr 129, poz. 1446, z2002 r. 127,
+5. (uchylony)
 
 **Art. 56.**
 
-1. W postępowaniach administracyjnych poz. 1085 i 240, poz. 2059 oraz z 2004 r. 6, wszczętych przez Prezesa Agencji oraz ministra wła- poz. 40); ściwego do spraw rynków rolnych na podstawie 2) ustawa z dnia 11 stycznia 2001 r. o regulacji rynku art. 22 ustawy, októrej mowa wart. 43, iniezakończo- skrobi ziemniaczanej (Dz. U. 11, poz. 83 oraz nych przed dniem wejścia w życie niniejszej ustawy, z 2004 r. 19, poz. 177); organami właściwymi w tych sprawach stają się odpowiednio Prezes Agencji Rezerw Materiałowych albo 3) ustawa z dnia 21 czerwca 2001 r. o regulacji rynku minister właściwy do spraw gospodarki. cukru (Dz. U. 76, poz. 810 i 122, poz. 1322, z 2002 r. 127, poz. 1086 oraz z 2003 r. 100,
+1. W postępowaniach administracyjnych wszczętych przez Prezesa Agencji oraz ministra właściwego do spraw rynków rolnych na podstawie art. 22 ustawy, o której mowa w art. 43 , i niezakończonych przed dniem wejścia w życie niniejszej ustawy, organami właściwymi w tych sprawach stają się odpowiednio Prezes Rządowej Agencji Rezerw Strategicznych albo minister właściwy do spraw gospodarki.
 
-2. Organy prowadzące postępowania, o których poz. 923). mowa wust. 1, przekażą odpowiednio Prezesowi Agencji Rezerw Materiałowych albo ministrowi właściwemu Art. 59. Ustawa wchodzi w życie z dniem uzyskado spraw gospodarki akta tych postępowań, wterminie nia przez Rzeczpospolitą Polską członkostwa w Unii 30 dni od dnia wejścia wżycie niniejszej ustawy. Europejskiej, zwyjątkiem art. 12 ust. 2, art. 16, art. 17,
+2. Organy prowadzące postępowania, o których mowa w ust. 1, przekażą odpowiednio Prezesowi Rządowej Agencji Rezerw Strategicznych albo ministrowi właściwemu do spraw gospodarki akta tych postępowań, w terminie 30 dni od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 57.**
+**Art. 57.** (pominięty)
 
-1. Kadencja członków Rady Agencji, powołanych na podstawie art. 7 ustawy, o której mowa wart. 58 pkt 1, upływa zdniem wejścia wżycie niniejszej ustawy. art. 20—23, art. 43, art. 48, art. 51, art. 52, art. 53 ust. 1 pkt 4 i art. 54—56, które wchodzą w życie z dniem ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski Na podstawie art. 116 ust. 1 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. 74, poz. 676, z póên. zm. łu wysługi lat (Dz. U. 172, poz. 1406 oraz z 2003 r. 26, poz. 224 iNr 179, poz. 1752) załącznik otrzymuje brzmienie określone w załączniku do niniejszego ) zarządza się, co następuje: rozporządzenia.
+**Art. 58.** Tracą moc:
 
-§ 1. W rozporządzeniu Prezesa Rady Ministrów § 2. Stawki uposażenia zasadniczego w wysokości z dnia 7 paêdziernika 2002 r. w sprawie grup zaszere- określonej wzałączniku do niniejszego rozporządzenia gowania istawek uposażenia zasadniczego funkcjona- przysługują funkcjonariuszom Agencji Bezpieczeńriuszy Agencji Bezpieczeństwa Wewnętrznego w tych stwa Wewnętrznego od dnia 1 stycznia 2004 r. grupach oraz wzrostu uposażenia zasadniczego ztytu§ 3. Rozporządzenie wchodzi wżycie zdniem ogłoszenia. Prezes Rady Ministrów: L. Miller 387 ROZPORZÑDZENIE PREZESA RADY MINISTRÓW z dnia 10 marca 2004 r. zmieniające rozporządzenie w sprawie grup zaszeregowania i stawek uposażenia zasadniczego funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego w tych grupach oraz wzrostu uposażenia zasadniczego z tytułu wysługi lat ——————— TABELA STAWEK UPOSA˚ENIA ZASADNICZEGO FUNKCJONARIUSZY AGENCJI BEZPIECZE¡STWA WEWN¢TRZNEGO Grupa zaszeregowania Stawka uposażenia zasadniczego w złotych 1 2 00 6 600
-
+**Art. 59.** Ustawa wchodzi w życie z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej , z wyjątkiem art. 12 ust. 2, art. 16, art. 17, art. 20–23, art. 43, art. 48, art. 51, art. 52, art. 53 ust. 1 pkt 4 i art. 54–56, które wchodzą w życie z dniem ogłoszenia .
 

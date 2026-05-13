@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 12 listopada 2025 r.
+# o zmianie ustawy o rozpatrywaniu reklamacji przez podmioty rynku finansowego, o Rzeczniku Finansowym i o Funduszu Edukacji Finansowej
+
+*USTAWA z dnia 17 października 2025 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +25,6 @@ domain: null
 | Data wydania | 2025-11-12 |
 | Ostatnia zmiana | 2025-11-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001545) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1545/text.pdf) |
-
-Poz. 1545
-USTAWA z dnia 17 października 2025 r.
-o zmianie ustawy o rozpatrywaniu reklamacji przez podmioty rynku finansowego, o Rzeczniku Finansowym i o Funduszu Edukacji Finansowej
 
 **Art. 1.** W ustawie z dnia 5 sierpnia 2015 r. o rozpatrywaniu reklamacji przez podmioty rynku finansowego, o Rzeczniku Finansowym i o Funduszu Edukacji Finansowej (Dz. U. z 2024 r. poz. 1109 oraz z 2025 r. poz. 146 i 1069) wprowadza się następujące zmiany:
 

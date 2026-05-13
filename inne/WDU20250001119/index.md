@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 13 sierpnia 2025 r.
+# o giełdach towarowych
+
+*USTAWA z dnia 26 października 2000 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -21,23 +23,9 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2025-08-05 |
 | Data wydania | 2025-08-13 |
-| Ostatnia zmiana | 2026-03-05 |
+| Ostatnia zmiana | 2026-05-08 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001119) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1119/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 5 sierpnia 2025 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o giełdach towarowych
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 26 października 2000 r. o giełdach towarowych (Dz. U. z 2024 r. poz. 910), z uwzględnieniem zmian wprowadzonych:
-1) ustawą z dnia 21 listopada 2024 r. o zmianie ustawy Prawo energetyczne oraz niektórych innych ustaw (Dz. U.
-poz. 1881),
-2) ustawą z dnia 9 maja 2025 r. o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 820) oraz zmian wynikających z przepisów ogłoszonych przed dniem 31 lipca 2025 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 19 ustawy z dnia 21 listopada 2024 r. o zmianie ustawy Prawo energetyczne oraz niektórych innych ustaw (Dz. U.
-poz. 1881), który stanowi: „Art. 19. Ustawa wchodzi w życie po upływie miesiąca od dnia ogłoszenia, z wyjątkiem art. 1 pkt 20 lit. a tiret drugie w zakresie, w jakim dotyczy dziesięcioletniego planu rozwoju sieci wodorowej o zasięgu unijnym, który wchodzi w życie z dniem 1 stycznia 2027 r.”;
-2) art. 34 ustawy z dnia 9 maja 2025 r. o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U.
-poz. 820), który stanowi: „Art. 34. Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 27, art. 28 i art. 30, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia.”.
-Marszałek Sejmu: S. Hołownia
-USTAWA z dnia 26 października 2000 r.
-o giełdach towarowych
 Art. 62–66. (pominięte)
 Art. 67–69. (pominięte)
 
@@ -108,7 +96,7 @@ Art. 67–69. (pominięte)
 
 - **1)** transakcji giełdowych,
 - **2)** transakcji zawartych poza giełdą przez będące jej członkami przedsiębiorstwa energetyczne, o których mowa w art. 9 ust. 3 pkt 4, jeżeli ich przedmiotem są określone rodzaje energii, paliwa gazowe, wodór lub prawa majątkowe, o których mowa w art. 2 pkt 2 lit. d i f,
-- **3)** transakcji zawartych w obrocie, o którym mowa w ust. 2i jeżeli zasady dokonywania rozliczeń takich transakcji zostaną określone odpowiednio w regulaminie giełdy lub zorganizowanej platformy obrotu.
+- **3)** transakcji zawartych w obrocie, o którym mowa w ust. 2i – jeżeli zasady dokonywania rozliczeń takich transakcji zostaną określone odpowiednio w regulaminie giełdy lub zorganizowanej platformy obrotu.
 
 3a. W przypadku prowadzenia działalności określonej w ust. 3 spółka prowadząca giełdę może być stroną transakcji wyłącznie w celu dokonania rozliczeń transakcji zawartych przez członków giełdy.
 
@@ -128,19 +116,7 @@ Art. 67–69. (pominięte)
 
 8. (uchylony)
 
-**Art. 6.**
-
-1. Akcje spółki prowadzącej giełdę mogą być wyłącznie imienne.
-
-2. Pokrycie obejmowanych akcji lub zapłata za nabywane akcje spółki prowadzącej giełdę nie może pochodzić z pożyczek, kredytów ani z nieudokumentowanych źródeł.
-
-3. Kapitał zakładowy powinien być pokryty w całości przed złożeniem wniosku o zarejestrowanie spółki.
-
-4. Spółka prowadząca giełdę ma obowiązek i wyłączne prawo zamieszczania w firmie spółki wyrazów „giełda towarowa”.
-
-5. W zakresie nieuregulowanym w ustawie do utworzenia i działania spółki prowadzącej giełdę stosuje się przepisy Kodeksu spółek handlowych dotyczące spółki akcyjnej.
-
-6. Przepisu ust. 1 nie stosuje się w przypadku, gdy spółka prowadząca giełdę jest spółką publiczną w rozumieniu przepisów ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych.
+**Art. 6.** [1. Akcje spółki prowadzącej giełdę mogą być wyłącznie imienne.] 2. Pokrycie obejmowanych akcji lub zapłata za nabywane akcje spółki prowadzącej giełdę nie może pochodzić z pożyczek, kredytów ani z nieudokumentowanych źródeł. 3. Kapitał zakładowy powinien być pokryty w całości przed złożeniem wniosku o zarejestrowanie spółki. 4. Spółka prowadząca giełdę ma obowiązek i wyłączne prawo zamieszczania w firmie spółki wyrazów „giełda towarowa”. 5. W zakresie nieuregulowanym w ustawie do utworzenia i działania spółki prowadzącej giełdę stosuje się przepisy Kodeksu spółek handlowych dotyczące spółki akcyjnej. [6. Przepisu ust. 1 nie stosuje się w przypadku, gdy spółka prowadząca giełdę jest spółką publiczną w rozumieniu przepisów ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych.]
 
 **Art. 7.**
 
@@ -153,16 +129,16 @@ Art. 67–69. (pominięte)
 - **3)** przewidywaną wysokość środków własnych, pożyczek i kredytów przeznaczonych na uruchomienie giełdy oraz określenie sposobu finansowania działalności;
 - **4)** dane o wysokości i strukturze kapitałów spółki oraz źródeł ich pochodzenia;
 - **5)** listę akcjonariuszy, obejmującą w stosunku do osób:
-    - **a)** prawnych dane, o których mowa w pkt 1 i 2,
-    - **b)** fizycznych imię, nazwisko, adres, kwalifikacje zawodowe oraz dotychczasowy przebieg pracy zawodowej wraz z procentowym określeniem posiadanych przez nich głosów na walnym zgromadzeniu;
+    - **a)** prawnych – dane, o których mowa w pkt 1 i 2,
+    - **b)** fizycznych – imię, nazwisko, adres, kwalifikacje zawodowe oraz dotychczasowy przebieg pracy zawodowej – wraz z procentowym określeniem posiadanych przez nich głosów na walnym zgromadzeniu;
 
 - **6)** informację o podmiotach dominujących i zależnych wobec akcjonariuszy, obejmującą dane, o których mowa w pkt 1 i 2;
 - **7)** dane o przewidywanej lokalizacji giełdy oraz środkach technicznych umożliwiających funkcjonowanie giełdy, a w szczególności o posiadanych urządzeniach telekomunikacyjnych i warunkach lokalowych;
 - **8)** informację o rodzajach towarów giełdowych, mających być przedmiotem obrotu na giełdzie;
 - **9)** zobowiązania do prowadzenia działalności na danej giełdzie co najmniej:
-    - **a)** 5 towarowych domów maklerskich lub spółek handlowych, prowadzących działalność maklerską zgodnie z przepisami ustawy w przypadku gdy przedmiotem obrotu na giełdzie mają być towary giełdowe, o których mowa w art. 2 pkt 2 lit. a,
-    - **b)** 3 towarowych domów maklerskich albo 2 towarowych domów maklerskich oraz 4 przedsiębiorstw energetycznych posiadających koncesję na wytwarzanie, przesyłanie, dystrybucję lub obrót energią elektryczną w rozumieniu ustawy z dnia 10 kwietnia 1997 r. Prawo energetyczne i spełniających warunki, o których mowa w art. 50b ust. 1 w przypadku gdy przedmiotem obrotu na giełdzie mają być towary giełdowe, o których mowa w art. 2 pkt 2 lit. b,
-    - **c)** 6 towarowych domów maklerskich lub domów maklerskich albo 2 towarowych domów maklerskich lub domów maklerskich oraz 6 przedsiębiorstw energetycznych posiadających koncesję na wytwarzanie, przesyłanie, dystrybucję lub obrót energią elektryczną, i spełniających warunki, o których mowa w art. 50b ust. 1 w przypadku gdy przedmiotem obrotu na giełdzie mają być towary giełdowe, o których mowa w art. 2 pkt 2 lit. d.
+    - **a)** 5 towarowych domów maklerskich lub spółek handlowych, prowadzących działalność maklerską zgodnie z przepisami ustawy – w przypadku gdy przedmiotem obrotu na giełdzie mają być towary giełdowe, o których mowa w art. 2 pkt 2 lit. a,
+    - **b)** 3 towarowych domów maklerskich albo 2 towarowych domów maklerskich oraz 4 przedsiębiorstw energetycznych posiadających koncesję na wytwarzanie, przesyłanie, dystrybucję lub obrót energią elektryczną – w rozumieniu ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne i spełniających warunki, o których mowa w art. 50b ust. 1 – w przypadku gdy przedmiotem obrotu na giełdzie mają być towary giełdowe, o których mowa w art. 2 pkt 2 lit. b,
+    - **c)** 6 towarowych domów maklerskich lub domów maklerskich albo 2 towarowych domów maklerskich lub domów maklerskich oraz 6 przedsiębiorstw energetycznych posiadających koncesję na wytwarzanie, przesyłanie, dystrybucję lub obrót energią elektryczną, i spełniających warunki, o których mowa w art. 50b ust. 1 – w przypadku gdy przedmiotem obrotu na giełdzie mają być towary giełdowe, o których mowa w art. 2 pkt 2 lit. d.
     - **d)** (uchylona)
 
 3. Do wniosku należy dołączyć statut spółki, regulamin giełdy oraz analizę ekonomiczno-finansową możliwości prowadzenia giełdy w okresie co najmniej 3 lat.
@@ -185,7 +161,7 @@ Art. 67–69. (pominięte)
 - **1)** towarowe domy maklerskie;
 - **2)** domy maklerskie;
 - **3)** (uchylony)
-- **4)** przedsiębiorstwa energetyczne oraz będący osobami prawnymi odbiorcy uprawnieni do zmiany sprzedawcy w rozumieniu ustawy z dnia 10 kwietnia 1997 r. Prawo energetyczne;
+- **4)** przedsiębiorstwa energetyczne, w tym przedsiębiorcy, o których mowa w art. 33a ust. 1 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, oraz będący osobami prawnymi odbiorcy uprawnieni do zmiany sprzedawcy w rozumieniu tej ustawy;
 - **5)** grupy producentów rolnych, o których mowa w ustawie z dnia 15 września 2000 r. o grupach producentów rolnych i ich związkach oraz o zmianie innych ustaw (Dz. U. z 2023 r. poz. 1145);
 - **6)** (uchylony)
 - **7)** zagraniczne osoby prawne, o których mowa w art. 50 ust. 1;
@@ -248,9 +224,9 @@ Art. 67–69. (pominięte)
 
 2. Spółka prowadząca giełdę, w sposób ciągły i adekwatny do ryzyka, prowadzi nadzór nad przestrzeganiem przez członków tego rynku wdrożonych przez tę spółkę mechanizmów i procedur, o których mowa w ust. 1.
 
-3. Spółka prowadząca giełdę monitoruje transakcje zawierane na rynku towarów giełdowych przez jego członków w celu identyfikowania wszelkich przypadków naruszenia zasad uczciwego obrotu oraz przypadków uzasadniających podejrzenie wystąpienia manipulacji na rynku lub próby manipulacji na rynku lub wykorzystania informacji wewnętrznej wbrew zakazom, o których mowa w art. 3 i 5 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1227/2011 z dnia 25 października 2011 r. w sprawie integralności i przejrzystości hurtowego rynku energii.
+3. Spółka prowadząca giełdę monitoruje składane zlecenia i transakcje zawierane na rynku towarów giełdowych przez jego członków w celu identyfikowania wszelkich przypadków naruszenia zasad uczciwego obrotu oraz przypadków uzasadniających podejrzenie wystąpienia manipulacji na rynku lub próby manipulacji na rynku lub wykorzystania informacji wewnętrznej wbrew zakazom, o których mowa w art. 3 i art. 5 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1227/2011 z dnia 25 października 2011 r. w sprawie integralności i przejrzystości hurtowego rynku energii, a także przypadków naruszenia obowiązków wynikających z art. 4 tego rozporządzenia.
 
-4. Spółka prowadząca giełdę informuje niezwłocznie Prezesa Urzędu Regulacji Energetyki, nie później jednak niż w terminie 24 godzin od powzięcia informacji o wystąpieniu zdarzenia, o każdym przypadku uzasadnionego podejrzenia naruszenia, o którym mowa w ust. 3. Informacja zawiera szczegółowy opis takiego przypadku.
+4. Spółka prowadząca giełdę informuje niezwłocznie Prezesa Urzędu Regulacji Energetyki i Agencję do spraw Współpracy Organów Regulacji Energetyki, jednak niepóźniej niż w terminie czterech tygodni od dnia, w którym powzięła informację o wystąpieniu podejrzanego zdarzenia, o którym mowa w ust. 3. Informacja zawiera szczegółowy opis takiego przypadku.
 
 5. Spółka prowadząca giełdę ustala i wdraża procedury umożliwiające jej sprawowanie nadzoru, o którym mowa w ust. 2.
 
@@ -283,7 +259,7 @@ Art. 67–69. (pominięte)
 3b. Ogłoszenie upadłości, obwieszczenie o ustaleniu dnia układowego, otwarcie postępowania restrukturyzacyjnego, wszczęcie postępowania egzekucyjnego lub zabezpieczającego lub wydanie innego orzeczenia lub decyzji o likwidacji, zawieszeniu lub ograniczeniu prowadzenia działalności:
 
 - **1)** Krajowego Depozytu lub spółki, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa w art. 48 ust. 2 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi,
-- **2)** spółki prowadzącej giełdową izbę rozrachunkową lub pełniącej taką funkcję na podstawie obowiązujących przepisów skutkujących zawieszeniem lub ograniczeniem dokonywania przez ten podmiot spłaty zadłużenia albo ograniczających jego zdolność swobodnego rozporządzania mieniem, nie wywołuje skutków prawnych wobec środków znajdujących się na rachunku pieniężnym, rachunku bankowym lub ewidencji towarów giełdowych tych podmiotów, służących do realizacji zobowiązań wynikających z rozliczeń transakcji w Krajowym Depozycie, spółce, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa w art. 48 ust. 2 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, albo giełdowej izbie rozrachunkowej lub spółce pełniącej taką funkcję na podstawie obowiązujących przepisów, w zakresie, w jakim środki te są potrzebne do realizacji tych zobowiązań, chociażby postępowanie zostało wszczęte albo inne orzeczenie lub decyzja zostały wydane przed ich zrealizowaniem.
+- **2)** spółki prowadzącej giełdową izbę rozrachunkową lub pełniącej taką funkcję na podstawie obowiązujących przepisów – skutkujących zawieszeniem lub ograniczeniem dokonywania przez ten podmiot spłaty zadłużenia albo ograniczających jego zdolność swobodnego rozporządzania mieniem, nie wywołuje skutków prawnych wobec środków znajdujących się na rachunku pieniężnym, rachunku bankowym lub ewidencji towarów giełdowych tych podmiotów, służących do realizacji zobowiązań wynikających z rozliczeń transakcji w Krajowym Depozycie, spółce, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa w art. 48 ust. 2 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, albo giełdowej izbie rozrachunkowej lub spółce pełniącej taką funkcję na podstawie obowiązujących przepisów, w zakresie, w jakim środki te są potrzebne do realizacji tych zobowiązań, chociażby postępowanie zostało wszczęte albo inne orzeczenie lub decyzja zostały wydane przed ich zrealizowaniem.
 
 4. Akcjonariuszami giełdowej izby rozrachunkowej mogą być wyłącznie spółki prowadzące giełdę, akcjonariusze spółki prowadzącej giełdę, banki, Skarb Państwa oraz Krajowy Depozyt.
 
@@ -297,7 +273,7 @@ Art. 67–69. (pominięte)
 
 1. (uchylony)
 
-2. Członkami giełdowej izby rozrachunkowej mogą być wyłącznie jej akcjonariusze, spółki prowadzące giełdę towarową, zorganizowaną platformę obrotu w rozumieniu przepisów ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi lub giełdową izbę rozrachunkową z siedzibą w państwach członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej lub w państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronach umowy o Europejskim Obszarze Gospodarczym, towarowe domy maklerskie, domy maklerskie oraz podmioty, o których mowa w art. 9 ust. 3 pkt 4 i w art. 50 ust. 1.
+2. Członkami giełdowej izby rozrachunkowej mogą być wyłącznie jej akcjonariusze, spółki prowadzące giełdę towarową, zorganizowaną platformę obrotu w rozumieniu przepisów ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi lub giełdową izbę rozrachunkową z siedzibą w państwach członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej lub w państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym, towarowe domy maklerskie, domy maklerskie oraz podmioty, o których mowa w art. 9 ust. 3 pkt 4 i w art. 50 ust. 1.
 
 3. Członkami giełdowej izby rozrachunkowej mogą być również inne krajowe instytucje finansowe, w tym banki, jeżeli zamierzają współdziałać z giełdową izbą rozrachunkową w zakresie wykonywania jej zadań oraz, na warunkach określonych w regulaminie izby, o którym mowa w art. 16, osoby prawne lub inne jednostki organizacyjne z siedzibą za granicą, wykonujące zadania w zakresie rozliczania transakcji zawieranych w obrocie towarami giełdowymi.
 
@@ -340,7 +316,7 @@ Art. 67–69. (pominięte)
 
 2. (uchylony)
 
-3. Do rozliczania przez podmiot, o którym mowa w ust. 1, transakcji giełdowych lub innych transakcji w ramach wykonywania funkcji giełdowej izby rozrachunkowej stosuje się odpowiednio przepisy art. 14 ust. 2 zdanie drugie, ust. 2b–2e oraz art. 15, a w pozostałym zakresie przepisy ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi.
+3. Do rozliczania przez podmiot, o którym mowa w ust. 1, transakcji giełdowych lub innych transakcji w ramach wykonywania funkcji giełdowej izby rozrachunkowej stosuje się odpowiednio przepisy art. 14 ust. 2 zdanie drugie, ust. 2b–2e oraz art. 15, a w pozostałym zakresie – przepisy ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi.
 
 4. W przypadku gdy funkcję giełdowej izby rozrachunkowej pełni podmiot, o którym mowa w ust. 1, prawa i obowiązki członków giełdowej izby rozrachunkowej oraz zasady rozliczania transakcji giełdowych lub innych transakcji określa odrębny regulamin uchwalony przez radę nadzorczą danego podmiotu, na wniosek jego zarządu. Regulamin ten zawiera w szczególności elementy, o których mowa w art. 16 ust. 2.
 
@@ -388,8 +364,8 @@ Art. 67–69. (pominięte)
 
 1. Komisja może wytoczyć przeciwko spółce prowadzącej giełdę powództwo o:
 
-- **1)** stwierdzenie nieważności uchwały walnego zgromadzenia lub rady nadzorczej giełdy sprzecznej z ustawą lub podjętej z naruszeniem przepisów ustawy;
-- **2)** uchylenie uchwały walnego zgromadzenia lub rady nadzorczej giełdy sprzecznej ze statutem spółki, regulaminem giełdy, naruszającej zasady bezpieczeństwa obrotu lub podjętej z naruszeniem postanowień statutu lub regulaminu.
+- **1)** stwierdzenie nieważności uchwały walnego zgromadzenia lub rady nadzorczej giełdy – sprzecznej z ustawą lub podjętej z naruszeniem przepisów ustawy;
+- **2)** uchylenie uchwały walnego zgromadzenia lub rady nadzorczej giełdy – sprzecznej ze statutem spółki, regulaminem giełdy, naruszającej zasady bezpieczeństwa obrotu lub podjętej z naruszeniem postanowień statutu lub regulaminu.
 
 2. Powództwo należy wnieść w terminie 30 dni od dnia otrzymania wiadomości o uchwale, nie później jednak niż w terminie 6 miesięcy od dnia podjęcia uchwały.
 
@@ -412,7 +388,7 @@ Art. 67–69. (pominięte)
 2. W przypadkach, o których mowa w ust. 1 pkt 3 lub 5–7, Komisja może:
 
 - **1)** odstąpić od wystąpienia z wnioskiem, o którym mowa w ust. 1 i nałożyć na spółkę prowadzącą giełdę towarową karę pieniężną do wysokości 10 % całkowitego przychodu wykazanego w ostatnim zbadanym sprawozdaniu finansowym, a w przypadku braku takiego sprawozdania karę pieniężną do wysokości 10 % prognozowanego przychodu określonego w załączonej do wniosku o udzielenie zezwolenia, zgodnie z art. 7 ust. 3, analizie ekonomiczno-finansowej, nie większą jednak niż do wysokości 10 000 000 zł,
-- **2)** wystąpić z wnioskiem, o którym mowa w ust. 1 i jednocześnie nałożyć na spółkę prowadzącą giełdę karę pieniężną, o której mowa w pkt 1, do wysokości 10 % całkowitego przychodu wykazanego w ostatnim zbadanym sprawozdaniu finansowym, a w przypadku braku takiego sprawozdania karę pieniężną do wysokości 10 % prognozowanego przychodu określonego w załączonej do wniosku o udzielenie zezwolenia, zgodnie z art. 7 ust. 3, analizie ekonomiczno-finansowej, nie większą jednak niż do wysokości 10 000 000 zł jeżeli uzasadnia to stopień naruszeń, których dopuściła się spółka prowadząca giełdę.
+- **2)** wystąpić z wnioskiem, o którym mowa w ust. 1 i jednocześnie nałożyć na spółkę prowadzącą giełdę karę pieniężną, o której mowa w pkt 1, do wysokości 10 % całkowitego przychodu wykazanego w ostatnim zbadanym sprawozdaniu finansowym, a w przypadku braku takiego sprawozdania karę pieniężną do wysokości 10 % prognozowanego przychodu określonego w załączonej do wniosku o udzielenie zezwolenia, zgodnie z art. 7 ust. 3, analizie ekonomiczno-finansowej, nie większą jednak niż do wysokości 10 000 000 zł – jeżeli uzasadnia to stopień naruszeń, których dopuściła się spółka prowadząca giełdę.
 
 **Art. 25.** W zakresie nadzoru nad działalnością giełdowych izb rozrachunkowych stosuje się przepisy art. 22 i 23.
 
@@ -450,7 +426,7 @@ Art. 67–69. (pominięte)
 
 6. (uchylony)
 
-7. Przeznaczenie i rozdysponowanie wpływów z opłat, o których mowa w ust. 1–5, oraz ustalenie wysokości, naliczanie i uiszczanie tych opłat następuje na zasadach, w trybie i na warunkach określonych w art. 17 ustawy z dnia 29 lipca 2005 r. o nadzorze nad rynkiem kapitałowym.
+7. Przeznaczenie i rozdysponowanie wpływów z opłat, o których mowa w ust. 1– 5, oraz ustalenie wysokości, naliczanie i uiszczanie tych opłat następuje na zasadach, w trybie i na warunkach określonych w art. 17 ustawy z dnia 29 lipca 2005 r. o nadzorze nad rynkiem kapitałowym.
 
 #### Rozdział 6 (uchylony)
 
@@ -458,9 +434,7 @@ Art. 67–69. (pominięte)
 
 **Art. 37.**
 
-1. O ile ustawa nie stanowi inaczej, działalność maklerska może być prowadzona wyłącznie przez towarowy dom maklerski.
-
-2. Akcje towarowego domu maklerskiego, z wyłączeniem akcji zdematerializowanych zgodnie z przepisami ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, są akcjami imiennymi.
+1. O ile ustawa nie stanowi inaczej, działalność maklerska może być prowadzona wyłącznie przez towarowy dom maklerski. [2. Akcje towarowego domu maklerskiego, z wyłączeniem akcji zdematerializowanych zgodnie z przepisami ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, są akcjami imiennymi.]
 
 3. Zapłata za obejmowane lub nabywane udziały albo akcje towarowego domu maklerskiego, które nie są zdematerializowane, nie może pochodzić z pożyczek, kredytów ani z nieudokumentowanych źródeł.
 
@@ -501,10 +475,10 @@ Art. 67–69. (pominięte)
 
 5. W zakresie nieuregulowanym w ust. 1–4 do umowy:
 
-- **1)** o świadczenie usług brokerskich w zakresie obrotu towarami giełdowymi stosuje się odpowiednio przepisy Kodeksu cywilnego dotyczące umowy zlecenia, z wyłączeniem art. 737;
-- **2)** zlecenia nabycia lub zbycia towarów giełdowych stosuje się odpowiednio przepisy Kodeksu cywilnego dotyczące umowy komisu, z wyłączeniem art. 768 § 3.
+- **1)** o świadczenie usług brokerskich w zakresie obrotu towarami giełdowymi – stosuje się odpowiednio przepisy Kodeksu cywilnego dotyczące umowy zlecenia, z wyłączeniem art. 737;
+- **2)** zlecenia nabycia lub zbycia towarów giełdowych – stosuje się odpowiednio przepisy Kodeksu cywilnego dotyczące umowy komisu, z wyłączeniem art. 768 § 3.
 
-6. Do umowy o prowadzenie rachunku pieniężnego, o którym mowa w ust. 2, stosuje się odpowiednio przepisy art. 725, art. 727, art. 728 § 3 oraz art. 729–733 ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. z 2024 r. poz. 1061 i 1237 oraz z 2025 r. poz. 769), z zastrzeżeniem art. 38g ust. 5 i 6.
+6. Do umowy o prowadzenie rachunku pieniężnego, o którym mowa w ust. 2, stosuje się odpowiednio przepisy art. 725, art. 727, art. 728 § 3 oraz art. 729–733 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2024 r. poz. 1061 i 1237 oraz z 2025 r. poz. 769), z zastrzeżeniem art. 38g ust. 5 i 6.
 
 **Art. 38c.** Przez doradztwo w zakresie obrotu giełdowego rozumie się odpłatne udzielanie pisemnej lub ustnej rekomendacji nabycia lub zbycia oznaczonych towarów giełdowych albo powstrzymania się od zawarcia transakcji dotyczącej tych towarów.
 
@@ -517,7 +491,7 @@ Art. 67–69. (pominięte)
 2. Minister właściwy do spraw gospodarki może określić, w drodze rozporządzenia, inne niż określone w ust. 1 czynności:
 
 - **1)** których wykonywanie przez towarowy dom maklerski nie wymaga uzyskania zezwolenia, o ile czynności te są związane z obrotem towarowym,
-- **2)** które mogą być wykonywane przez towarowy dom maklerski po uzyskaniu zezwolenia Komisji ustalając zakres i warunki wykonywania tych czynności. Rozporządzenie powinno uwzględniać zapewnienie bezpieczeństwa obrotu towarami giełdowymi oraz należyte zabezpieczenie interesów klientów.
+- **2)** które mogą być wykonywane przez towarowy dom maklerski po uzyskaniu zezwolenia Komisji – ustalając zakres i warunki wykonywania tych czynności. Rozporządzenie powinno uwzględniać zapewnienie bezpieczeństwa obrotu towarami giełdowymi oraz należyte zabezpieczenie interesów klientów.
 
 **Art. 38f.**
 
@@ -526,9 +500,9 @@ Art. 67–69. (pominięte)
 2. Towarowy dom maklerski może prowadzić działalność dotyczącą hurtowych produktów energetycznych, polegającą na:
 
 - **1)** nabywaniu lub zbywaniu hurtowych produktów energetycznych na rachunek własny;
-- **2)** wykonywaniu zleceń nabycia lub zbycia hurtowych produktów energetycznych, w tym dokonywaniu rozliczeń transakcji pod warunkiem posiadania zezwolenia na wykonywanie działalności, o której mowa w art. 38 ust. 2 pkt 2;
-- **3)** doradztwie w zakresie obrotu hurtowymi produktami energetycznymi pod warunkiem posiadania zezwolenia na wykonywanie działalności, o której mowa w art. 38 ust. 2 pkt 4;
-- **4)** prowadzeniu rachunków lub rejestrów hurtowych produktów energetycznych pod warunkiem posiadania zezwolenia na wykonywanie działalności, o której mowa w art. 38 ust. 2 pkt 3.
+- **2)** wykonywaniu zleceń nabycia lub zbycia hurtowych produktów energetycznych, w tym dokonywaniu rozliczeń transakcji – pod warunkiem posiadania zezwolenia na wykonywanie działalności, o której mowa w art. 38 ust. 2 pkt 2;
+- **3)** doradztwie w zakresie obrotu hurtowymi produktami energetycznymi – pod warunkiem posiadania zezwolenia na wykonywanie działalności, o której mowa w art. 38 ust. 2 pkt 4;
+- **4)** prowadzeniu rachunków lub rejestrów hurtowych produktów energetycznych – pod warunkiem posiadania zezwolenia na wykonywanie działalności, o której mowa w art. 38 ust. 2 pkt 3.
 
 3. Do działalności, o której mowa w ust. 2, przepisy art. 73 ust. 4–5e i 5g–6a, art. 73a ust. 5, art. 83a ust. 3a–3c, art. 83b ust. 7 oraz art. 83c ust. 1 i 2 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi stosuje się odpowiednio.
 
@@ -565,8 +539,8 @@ Art. 67–69. (pominięte)
 - **10)** informacje o planowanej organizacji spółki;
 - **11)** informacje o posiadanych urządzeniach telekomunikacyjnych i warunkach lokalowych;
 - **12)** informacje o poprzednio prowadzonej przez wnioskodawcę działalności gospodarczej i przyczynach zaprzestania tej działalności;
-- **13)** w przypadku wspólników albo akcjonariuszy będących osobami fizycznymi, posiadających co najmniej 5 % głosów na zgromadzeniu wspólników albo na walnym zgromadzeniu lub co najmniej 5 % kapitału zakładowego wnioskodawcy dane osobowe tych osób, informacje o dotychczasowym przebiegu pracy zawodowej lub wykonywanej działalności gospodarczej oraz informacje o źródłach pochodzenia środków przeznaczonych na nabycie udziałów albo akcji towarowego domu maklerskiego;
-- **14)** w przypadku wspólników albo akcjonariuszy będących osobami prawnymi, posiadających co najmniej 5 % głosów na zgromadzeniu wspólników albo na walnym zgromadzeniu lub co najmniej 5 % kapitału zakładowego spółki będącej wnioskodawcą informację na temat wykonywanej działalności gospodarczej, zaświadczenie albo oświadczenie o wpisie do właściwego rejestru wraz z numerem wpisu oraz ostatnie sprawozdanie finansowe wraz ze sprawozdaniem z badania, jeżeli badanie jest wymagane przepisami prawa;
+- **13)** w przypadku wspólników albo akcjonariuszy będących osobami fizycznymi, posiadających co najmniej 5 % głosów na zgromadzeniu wspólników albo na walnym zgromadzeniu lub co najmniej 5 % kapitału zakładowego wnioskodawcy – dane osobowe tych osób, informacje o dotychczasowym przebiegu pracy zawodowej lub wykonywanej działalności gospodarczej oraz informacje o źródłach pochodzenia środków przeznaczonych na nabycie udziałów albo akcji towarowego domu maklerskiego;
+- **14)** w przypadku wspólników albo akcjonariuszy będących osobami prawnymi, posiadających co najmniej 5 % głosów na zgromadzeniu wspólników albo na walnym zgromadzeniu lub co najmniej 5 % kapitału zakładowego spółki będącej wnioskodawcą – informację na temat wykonywanej działalności gospodarczej, zaświadczenie albo oświadczenie o wpisie do właściwego rejestru wraz z numerem wpisu oraz ostatnie sprawozdanie finansowe wraz ze sprawozdaniem z badania, jeżeli badanie jest wymagane przepisami prawa;
 - **15)** informację o podmiotach dominujących i zależnych wobec wspólników albo akcjonariuszy posiadających co najmniej 5 % głosów na zgromadzeniu wspólników albo na walnym zgromadzeniu lub 5 % kapitału zakładowego spółki będącej wnioskodawcą obejmującą wskazanie ich firmy (nazwy) lub imienia i nazwiska, siedziby i adresu lub miejsca zamieszkania oraz opisu prowadzonej działalności gospodarczej.
 
 1a. Oświadczenie, o którym mowa w ust. 1 pkt 14, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań.
@@ -579,7 +553,7 @@ Art. 67–69. (pominięte)
 - **3a)** regulamin nadzoru zgodności działalności z prawem;
 - **3b)** regulamin ochrony przepływu informacji stanowiących tajemnicę zawodową oraz procedury wewnętrzne zapobiegające wprowadzaniu do obrotu finansowego wartości majątkowych pochodzących z nielegalnych lub nieujawnionych źródeł;
 - **3c)** regulamin zarządzania konfliktami interesów;
-- **4)** listę osób, które będą zatrudnione do wykonywania czynności, o których mowa w art. 38 ust. 2 i art. 38e, zawierającą imiona i nazwiska, daty i miejsca urodzenia, miejsca zamieszkania i numery PESEL tych osób, a w przypadku braku numeru PESEL serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość;
+- **4)** listę osób, które będą zatrudnione do wykonywania czynności, o których mowa w art. 38 ust. 2 i art. 38e, zawierającą imiona i nazwiska, daty i miejsca urodzenia, miejsca zamieszkania i numery PESEL tych osób, a w przypadku braku numeru PESEL – serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość;
 - **5)** ostatnie sprawozdanie finansowe wraz ze sprawozdaniem z badania, w przypadku gdy wnioskodawca w chwili składania wniosku prowadzi działalność w innej dziedzinie lub prowadził ją przed złożeniem wniosku;
 - **6)** (uchylony)
 - **7)** regulacje wewnętrzne, o których mowa w art. 41a ust. 3.
@@ -611,7 +585,7 @@ Art. 67–69. (pominięte)
 - **1)** dają rękojmię należytego wykonywania obowiązków, w szczególności mają odpowiednią wiedzę, kwalifikacje, umiejętności i doświadczenie,
 - **2)** mają pełną zdolność do czynności prawnych,
 - **3)** korzystają z pełni praw publicznych,
-- **4)** nie były uznane prawomocnym orzeczeniem za winne przestępstwa skarbowego, przestępstwa przeciwko wiarygodności dokumentów, mieniu, obrotowi gospodarczemu, obrotowi pieniędzmi i papierami wartościowymi, przestępstwa lub wykroczenia określonego w art. 305, art. 307 lub art. 308 ustawy z dnia 30 czerwca 2000 r. Prawo własności przemysłowej (Dz. U. z 2023 r. poz. 1170), przestępstwa określonego w ustawie z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych, przestępstwa określonego w ustawie z dnia 29 lipca 2005 r. o nadzorze nad rynkiem kapitałowym lub przestępstwa określonego w niniejszej ustawie w liczbie odpowiedniej do rodzaju i rozmiaru prowadzonej działalności oraz wewnętrznej struktury organizacyjnej.
+- **4)** nie były uznane prawomocnym orzeczeniem za winne przestępstwa skarbowego, przestępstwa przeciwko wiarygodności dokumentów, mieniu, obrotowi gospodarczemu, obrotowi pieniędzmi i papierami wartościowymi, przestępstwa lub wykroczenia określonego w art. 305, art. 307 lub art. 308 ustawy z dnia 30 czerwca 2000 r. – Prawo własności przemysłowej (Dz. U. z 2023 r. poz. 1170), przestępstwa określonego w ustawie z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych, przestępstwa określonego w ustawie z dnia 29 lipca 2005 r. o nadzorze nad rynkiem kapitałowym lub przestępstwa określonego w niniejszej ustawie – w liczbie odpowiedniej do rodzaju i rozmiaru prowadzonej działalności oraz wewnętrznej struktury organizacyjnej.
 
 2. Pełnia praw publicznych osoby niemającej obywatelstwa polskiego jest oceniana według prawa państwa, którego obywatelstwo ma dana osoba.
 
@@ -653,7 +627,7 @@ Art. 67–69. (pominięte)
 
 2. W postępowaniu likwidacyjnym lub upadłościowym, jak również w przypadku cofnięcia zezwolenia, przepis art. 42 stosuje się odpowiednio.
 
-3. Do czasu zakończenia likwidacji albo w przypadku cofnięcia zezwolenia do czasu zaprzestania prowadzenia działalności towarowy dom maklerski wykonuje wyłącznie czynności wynikające z już zawartych umów w obrocie towarami giełdowymi bez możliwości zawierania nowych umów, chyba że jest to niezbędne do realizacji umów już zawartych.
+3. Do czasu zakończenia likwidacji albo – w przypadku cofnięcia zezwolenia – do czasu zaprzestania prowadzenia działalności towarowy dom maklerski wykonuje wyłącznie czynności wynikające z już zawartych umów w obrocie towarami giełdowymi – bez możliwości zawierania nowych umów, chyba że jest to niezbędne do realizacji umów już zawartych.
 
 4. W przypadku wygaśnięcia lub cofnięcia zezwolenia, Komisja może nakazać przeniesienie środków pieniężnych, rachunków lub rejestrów towarów giełdowych, a także innych dokumentów związanych ze świadczeniem usług przez towarowy dom maklerski, do innego towarowego domu maklerskiego, który uprzednio wyraził na to zgodę. W innym przypadku do postępowania z dokumentami związanymi z prowadzeniem działalności maklerskiej stosuje się art. 288 § 3 albo art. 476 § 3 Kodeksu spółek handlowych. Właściwy sąd niezwłocznie zawiadamia Komisję o wyznaczonym przechowawcy.
 
@@ -735,7 +709,7 @@ Art. 67–69. (pominięte)
 1. Ogłoszenie upadłości, otwarcie postępowania restrukturyzacyjnego, wszczęcie postępowania egzekucyjnego lub zabezpieczającego lub wydanie innego orzeczenia lub decyzji o likwidacji, zawieszeniu lub ograniczeniu prowadzenia działalności:
 
 - **1)** członka giełdowej izby rozrachunkowej prowadzonej przez Krajowy Depozyt lub spółkę, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa w art. 48 ust. 2 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, lub
-- **2)** członka innej giełdowej izby rozrachunkowej lub spółki pełniącej taką funkcję na podstawie obowiązujących przepisów skutkujących zawieszeniem lub ograniczeniem dokonywania przez niego spłaty zadłużenia albo ograniczających jego zdolność swobodnego rozporządzania mieniem, nie wywołuje skutków prawnych wobec środków znajdujących się na rachunku pieniężnym, rachunku bankowym lub ewidencji towarów giełdowych, służących do realizacji zobowiązań tego członka wynikających z rozliczeń transakcji w Krajowym Depozycie, spółce, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa w art. 48 ust. 2 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, albo giełdowej izbie rozrachunkowej lub spółce pełniącej taką funkcję na podstawie obowiązujących przepisów, w zakresie, w jakim środki te są potrzebne do realizacji tych zobowiązań, chociażby postępowanie zostało wszczęte albo inne orzeczenie lub decyzja zostały wydane przed ich zrealizowaniem.
+- **2)** członka innej giełdowej izby rozrachunkowej lub spółki pełniącej taką funkcję na podstawie obowiązujących przepisów – skutkujących zawieszeniem lub ograniczeniem dokonywania przez niego spłaty zadłużenia albo ograniczających jego zdolność swobodnego rozporządzania mieniem, nie wywołuje skutków prawnych wobec środków znajdujących się na rachunku pieniężnym, rachunku bankowym lub ewidencji towarów giełdowych, służących do realizacji zobowiązań tego członka wynikających z rozliczeń transakcji w Krajowym Depozycie, spółce, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa w art. 48 ust. 2 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, albo giełdowej izbie rozrachunkowej lub spółce pełniącej taką funkcję na podstawie obowiązujących przepisów, w zakresie, w jakim środki te są potrzebne do realizacji tych zobowiązań, chociażby postępowanie zostało wszczęte albo inne orzeczenie lub decyzja zostały wydane przed ich zrealizowaniem.
 
 2. W celu doprowadzenia do wykonania zobowiązań określonych w ust. 1 Krajowy Depozyt, spółka, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa w art. 48 ust. 2 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, giełdowa izba rozrachunkowa lub spółka pełniąca taką funkcję na podstawie obowiązujących przepisów są uprawnione do dysponowania środkami członka izby, o których mowa w ust. 1.
 
@@ -745,7 +719,7 @@ Art. 67–69. (pominięte)
 
 **Art. 51a.**
 
-1. Podmioty nadzorowane, o których mowa w art. 5 pkt 1, 2, 12 i 13 ustawy z dnia 29 lipca 2005 r. o nadzorze nad rynkiem kapitałowym, są obowiązane do niezwłocznego przekazania Prezesowi Urzędu Regulacji Energetyki informacji o każdym uzasadnionym podejrzeniu manipulacji na rynku lub próby manipulacji na rynku, zawierającej:
+1. Podmioty nadzorowane, o których mowa w art. 5 pkt 1, 2, 12 i 13 ustawy z dnia 29 lipca 2005 r. o nadzorze nad rynkiem kapitałowym, są obowiązane do niezwłocznego, jednak niepóźniej niż w terminie czterech tygodni od dnia, w którym podmioty te powzięły informację o wystąpieniu podejrzanego zdarzenia, przekazania Prezesowi Urzędu Regulacji Energetyki i Agencji do spraw Współpracy Organów Regulacji Energetyki informacji o każdym uzasadnionym podejrzeniu manipulacji na rynku lub próby manipulacji na rynku, zawierającej:
 
 - **1)** szczegółowe dane dotyczące podejrzanej transakcji, ze wskazaniem:
     - **a)** towaru giełdowego w rozumieniu art. 2 pkt 2, będącego przedmiotem transakcji,
@@ -818,32 +792,33 @@ Art. 67–69. (pominięte)
     - **a)** w związku z toczącym się przeciwko osobie fizycznej, będącej stroną umowy, czynności lub transakcji zawartej z podmiotem obowiązanym do zachowania tajemnicy zawodowej, postępowaniem karnym lub karnym skarbowym albo w związku z wykonaniem wniosku o udzielenie pomocy prawnej, pochodzącego od państwa obcego, które na mocy ratyfikowanej umowy międzynarodowej wiążącej Rzeczpospolitą Polską ma prawo występować o udzielenie informacji objętych tajemnicą zawodową,
     - **b)** w związku z toczącym się postępowaniem karnym lub karnym skarbowym o przestępstwo popełnione w związku z działaniem osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej, będącej stroną umowy, czynności lub transakcji zawartej z podmiotem obowiązanym do zachowania tajemnicy zawodowej;
 
-- **2)** sądu w związku z prowadzonym postępowaniem spadkowym lub o podział majątku między małżonkami albo prowadzoną przeciwko osobie fizycznej, będącej stroną umowy, czynności lub transakcji zawartej z podmiotem obowiązanym do zachowania tajemnicy zawodowej, sprawą o alimenty lub o rentę o charakterze alimentacyjnym;
+- **2)** sądu – w związku z prowadzonym postępowaniem spadkowym lub o podział majątku między małżonkami albo prowadzoną przeciwko osobie fizycznej, będącej stroną umowy, czynności lub transakcji zawartej z podmiotem obowiązanym do zachowania tajemnicy zawodowej, sprawą o alimenty lub o rentę o charakterze alimentacyjnym;
 - **3)** organu Krajowej Administracji Skarbowej:
-    - **a)** w związku z toczącym się postępowaniem w sprawie o przestępstwo skarbowe lub wykroczenie skarbowe: przeciwko osobie fizycznej, będącej stroną umowy, czynności lub transakcji zawartej z podmiotem obowiązanym do zachowania tajemnicy zawodowej lub popełnione w zakresie działalności osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej, będącej stroną umowy, czynności lub transakcji zawartej z podmiotem obowiązanym do zachowania tajemnicy zawodowej,
-    - **b)** jeżeli jest to konieczne do skutecznego zapobieżenia przestępstwom lub przestępstwom skarbowym, ich wykrycia albo ustalenia ich sprawców i uzyskania dowodów ich popełnienia, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z przestępstwa lub przestępstwa skarbowego albo ich równowartości w zakresie, o którym mowa w art. 127a ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r. poz. 615, z późn. zm. );
+    - **a)** w związku z toczącym się postępowaniem w sprawie o przestępstwo skarbowe lub wykroczenie skarbowe: – przeciwko osobie fizycznej, będącej stroną umowy, czynności lub transakcji zawartej z podmiotem obowiązanym do zachowania tajemnicy zawodowej lub – popełnione w zakresie działalności osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej, będącej stroną umowy, czynności lub transakcji zawartej z podmiotem obowiązanym do zachowania tajemnicy zawodowej,
+    - **b)** jeżeli jest to konieczne do skutecznego zapobieżenia przestępstwom lub przestępstwom skarbowym, ich wykrycia albo ustalenia ich sprawców i uzyskania dowodów ich popełnienia, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z przestępstwa lub przestępstwa skarbowego albo ich równowartości – w zakresie, o którym mowa w art. 127a ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r. poz. 615, z późn. zm. );
 
-- **4)** Prezesa Najwyższej Izby Kontroli lub upoważnionego przez niego kontrolera w zakresie danych dotyczących jednostki kontrolowanej, niezbędnych do ustalenia stanu faktycznego w prowadzonym postępowaniu kontrolnym dotyczącym tej jednostki, określonym w ustawie z dnia 23 grudnia 1994 r. o Najwyższej Izbie Kontroli (Dz. U. z 2022 r. poz. 623);
-- **5)** biegłego rewidenta upoważnionego do badania sprawozdań finansowych podmiotu obowiązanego do zachowania tajemnicy zawodowej, na podstawie zawartej z nim umowy jeżeli jest to niezbędne do celów tego badania;
-- **6)** Agencji Bezpieczeństwa Wewnętrznego, Służby Kontrwywiadu Wojskowego, Agencji Wywiadu, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Policji, Żandarmerii Wojskowej, Straży Granicznej, Służby Więziennej, Służbie Ochrony Państwa i ich upoważnionych pisemnie funkcjonariuszy lub żołnierzy w zakresie niezbędnym do przeprowadzenia postępowania sprawdzającego na podstawie przepisów o ochronie informacji niejawnych;
-- **7)** Policji jeżeli jest to konieczne do skutecznego zapobieżenia popełnieniu przestępstwa, jego wykrycia albo ustalenia sprawców i uzyskania dowodów, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z przestępstwa albo ich równowartości, na zasadach i w trybie określonych w art. 20 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2025 r. poz. 636 i 718);
+- **4)** Prezesa Najwyższej Izby Kontroli lub upoważnionego przez niego kontrolera – w zakresie danych dotyczących jednostki kontrolowanej, niezbędnych do ustalenia stanu faktycznego w prowadzonym postępowaniu kontrolnym dotyczącym tej jednostki, określonym w ustawie z dnia 23 grudnia 1994 r. o Najwyższej Izbie Kontroli (Dz. U. z 2022 r. poz. 623);
+- **5)** biegłego rewidenta upoważnionego do badania sprawozdań finansowych podmiotu obowiązanego do zachowania tajemnicy zawodowej, na podstawie zawartej z nim umowy – jeżeli jest to niezbędne do celów tego badania;
+- **6)** Agencji Bezpieczeństwa Wewnętrznego, Służby Kontrwywiadu Wojskowego, Agencji Wywiadu, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Policji, Żandarmerii Wojskowej, Straży Granicznej, Służby Więziennej, Służbie Ochrony Państwa i ich upoważnionych pisemnie funkcjonariuszy lub żołnierzy – w zakresie niezbędnym do przeprowadzenia postępowania sprawdzającego na podstawie przepisów o ochronie informacji niejawnych;
+- **7)** Policji – jeżeli jest to konieczne do skutecznego zapobieżenia popełnieniu przestępstwa, jego wykrycia albo ustalenia sprawców i uzyskania dowodów, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z przestępstwa albo ich równowartości, na zasadach i w trybie określonych w art. 20 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2025 r. poz. 636 i 718);
 - **7a)** Szefa Agencji Bezpieczeństwa Wewnętrznego, w trybie i na zasadach określonych w art. 34a ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2025 r. poz. 902);
-- **7b)** Żandarmerii Wojskowej jeżeli jest to konieczne do skutecznego zapobieżenia popełnieniu przestępstwa, jego wykrycia albo ustalenia sprawców i uzyskania dowodów, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z przestępstwa albo ich równowartości, na zasadach i w trybie określonych w art. 40b ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. z 2025 r. poz. 12 i 179);
-- **7c)** Straży Granicznej jeżeli jest to konieczne do skutecznego zapobieżenia popełnieniu przestępstwa, jego wykrycia albo ustalenia sprawców i uzyskania dowodów, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z przestępstwa albo ich równowartości, na zasadach i w trybie określonych w art. 10c ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2025 r. poz. 914);
-- **8)** komornika sądowego w związku z toczącym się postępowaniem egzekucyjnym lub zabezpieczającym albo wykonywaniem postanowienia o zabezpieczeniu spadku lub ze sporządzaniem spisu inwentarza;
+- **7b)** Żandarmerii Wojskowej – jeżeli jest to konieczne do skutecznego zapobieżenia popełnieniu przestępstwa, jego wykrycia albo ustalenia sprawców i uzyskania dowodów, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z przestępstwa albo ich równowartości, na zasadach i w trybie określonych w art. 40b ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. z 2025 r. poz. 12 i
+- **179)** ;
+- **7c)** Straży Granicznej – jeżeli jest to konieczne do skutecznego zapobieżenia popełnieniu przestępstwa, jego wykrycia albo ustalenia sprawców i uzyskania dowodów, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z przestępstwa albo ich równowartości, na zasadach i w trybie określonych w art. 10c ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2025 r. poz. 914);
+- **8)** komornika sądowego – w związku z toczącym się postępowaniem egzekucyjnym lub zabezpieczającym albo wykonywaniem postanowienia o zabezpieczeniu spadku lub ze sporządzaniem spisu inwentarza;
 - **8a)** administracyjnego organu egzekucyjnego oraz centralnego biura łącznikowego, o którym mowa w art. 9 ustawy z dnia 11 października 2013 r. o wzajemnej pomocy przy dochodzeniu podatków, należności celnych i innych należności pieniężnych (Dz. U. z 2023 r. poz. 2009), w zakresie wykonywania ich ustawowych zadań;
-- **9)** Prezesa Urzędu Regulacji Energetyki w zakresie niezbędnym do kontroli wykonywania przez przedsiębiorstwa energetyczne oraz inne podmioty obowiązków określonych w ustawie z dnia 10 kwietnia 1997 r. Prawo energetyczne;
-- **10)** Inspektora Nadzoru Wewnętrznego jeżeli jest to konieczne dla skutecznego zapobieżenia przestępstwom lub wykrycia ich sprawców i uzyskania dowodów, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z przestępstwa albo ich równowartości, na zasadach i w trybie określonych w art. 11p ustawy z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych (Dz. U. z 2025 r. poz. 529).
+- **9)** Prezesa Urzędu Regulacji Energetyki – w zakresie niezbędnym do kontroli wykonywania przez przedsiębiorstwa energetyczne oraz inne podmioty obowiązków określonych w ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne;
+- **10)** Inspektora Nadzoru Wewnętrznego – jeżeli jest to konieczne dla skutecznego zapobieżenia przestępstwom lub wykrycia ich sprawców i uzyskania dowodów, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z przestępstwa albo ich równowartości, na zasadach i w trybie określonych w art. 11p ustawy z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych (Dz. U. z 2025 r. poz. 529).
 - **11)** (uchylony)
 
 2. Nie narusza obowiązku zachowania tajemnicy zawodowej:
 
 - **1)** przekazywanie, przechowywanie oraz ujawnianie danych w trybie i na warunkach określonych w ustawie z dnia 9 kwietnia 2010 r. o udostępnianiu informacji gospodarczych i wymianie danych gospodarczych (Dz. U. z 2025 r. poz. 85);
 - **1a)** przekazywanie informacji Komisji, w zakresie niezbędnym do wykonywania zadania określonego w art. 4 ust. 1 pkt 3b ustawy z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym;
-- **2)** przekazywanie informacji przez towarowy dom maklerski lub zagraniczną osobę prawną prowadzącą działalność maklerską w formie oddziału:
-    - **a)** podmiotowi wiodącemu w rozumieniu art. 4 ust. 5 i 6 ustawy z dnia 15 kwietnia 2005 r. o nadzorze uzupełniającym nad instytucjami kredytowymi, zakładami ubezpieczeń, zakładami reasekuracji i firmami inwestycyjnymi wchodzącymi w skład konglomeratu finansowego (Dz. U. z 2020 r. poz. 1413), zwanej dalej „ustawą o nadzorze uzupełniającym”,
+- **2)** przekazywanie informacji przez towarowy dom maklerski lub zagraniczną osobę prawną prowadzącą działalność maklerską w formie oddziału: z 2020 r. poz. 1413), zwanej dalej „ustawą o nadzorze uzupełniającym”,
+    - **a)** podmiotowi wiodącemu w rozumieniu art. 4 ust. 5 i 6 ustawy z dnia 15 kwietnia 2005 r. o nadzorze uzupełniającym nad instytucjami kredytowymi, zakładami ubezpieczeń, zakładami reasekuracji i firmami inwestycyjnymi wchodzącymi w skład konglomeratu finansowego (Dz. U.
     - **b)** koordynatorowi w rozumieniu art. 3 pkt 19 ustawy o nadzorze uzupełniającym,
-    - **c)** koordynatorowi zagranicznemu w rozumieniu art. 3 pkt 20 ustawy o nadzorze uzupełniającym w wykonaniu obowiązków określonych ustawą o nadzorze uzupełniającym.
+    - **c)** koordynatorowi zagranicznemu w rozumieniu art. 3 pkt 20 ustawy o nadzorze uzupełniającym – w wykonaniu obowiązków określonych ustawą o nadzorze uzupełniającym.
 
 **Art. 55.** W związku z wykonywaniem ustawowo określonych zadań w zakresie nadzoru, Komisja oraz jej upoważnieni przedstawiciele mają prawo dostępu do informacji stanowiących tajemnicę zawodową, będących w posiadaniu podmiotów zobowiązanych do jej zachowania.
 
@@ -869,7 +844,7 @@ Art. 67–69. (pominięte)
 
 3. Lista może być prowadzona w postaci elektronicznej.
 
-4. Listę przechowuje się przez okres co najmniej 5 lat od dnia jej sporządzenia, a w przypadku jej aktualizacji przez okres co najmniej 5 lat od dnia ostatniej aktualizacji, chyba że odrębne przepisy wymagają jej dłuższego przechowywania.
+4. Listę przechowuje się przez okres co najmniej 5 lat od dnia jej sporządzenia, a w przypadku jej aktualizacji – przez okres co najmniej 5 lat od dnia ostatniej aktualizacji, chyba że odrębne przepisy wymagają jej dłuższego przechowywania.
 
 #### Rozdział 9 Odpowiedzialność cywilna, administracyjna i karna
 

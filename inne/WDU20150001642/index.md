@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 19 października 2015 r.
+# o zmianie ustawy o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej oraz niektórych innych ustaw
+
+*USTAWA z dnia 5 sierpnia 2015 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,9 +25,6 @@ domain: null
 | Data wydania | 2015-10-19 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001642) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1642/text.pdf) |
-
-USTAWA z dnia 5 sierpnia 2015 r.
-o zmianie ustawy o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej oraz niektórych innych ustaw
 
 **Art. 1.** W ustawie z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2013 r. poz. 934 i 1014) wprowadza się następujące zmiany:
 
@@ -43,15 +42,16 @@ o zmianie ustawy o obszarach morskich Rzeczypospolitej Polskiej i administracji 
 
 2. Pozwolenie, o którym mowa ust. 1, określa warunki zakresie bezpieczeństwa morskiego, jakie musi spełnić wnioskodawca.
 
+3. Pozwolenie, o którym mowa ust. 1, wydaje się na czas niezbędny do realizacji zamierzonego przedsięwzięcia.
+
 4. Za wydanie pozwolenia, o którym mowa ust. 1, organ wydający pozwolenie pobiera opłatę wysokości 250 zł.
 
 5. Opłata, o której mowa ust. 4, jest wnoszona terminie 7 dni od dnia doręczenia pozwolenia, o którym mowa ust. 1.
 
 6. Opłata, o której mowa ust. 4, stanowi dochód budżetu państwa.
 
-7. W przypadku niewniesienia opłaty, o której mowa ust. 4, terminie, organ właściwy do wydania pozwolenia, o którym mowa ust. 1, stwierdza, drodze decyzji, utratę jego ważności.”;
+7. W przypadku niewniesienia opłaty, o której mowa ust. 4, terminie, organ właściwy do wydania pozwolenia, o którym mowa ust. 1, stwierdza, drodze decyzji, utratę jego ważności.”; „2) poinformowania ministra właściwego do spraw gospodarki morskiej o wynikach badań terminie 6 miesięcy od dnia ich zakończenia;
 
-- **15)** art. 30 pkt 2 i 3 otrzymują brzmienie: „2) poinformowania ministra właściwego do spraw gospodarki morskiej o wynikach badań terminie 6 miesięcy od dnia ich zakończenia;
 - **3)** udostępnienia nieodpłatnie ministrowi właściwemu do spraw gospodarki morskiej danych uzyskanych ramach badań terminie 6 miesięcy od dnia ich zakończenia;”;
 - **16)** po art. 30 dodaje się art. 30a brzmieniu: „Art. 30a. Niespełnienie przez podmioty, o których mowa art. 30, wymagań określonych tym przepisie, stanowi podstawę do odmowy wydania kolejnych pozwoleń, o których mowa art. 28 i art. 29, albo do stwierdzenia utraty ważności wydanych już pozwoleń.”;
 - **17)** art. 31 po ust. 1 dodaje się ust. 1a brzmieniu: „1a. Do polskich osób prawnych i fizycznych prowadzących badania naukowe na polskich obszarach morskich przepisy art. 30 pkt 2 i 3 stosuje się odpowiednio.”;
@@ -67,14 +67,13 @@ o zmianie ustawy o obszarach morskich Rzeczypospolitej Polskiej i administracji 
 
 1d. Minister właściwy do spraw gospodarki morskiej określi, drodze rozporządzenia, wymagane dla utrzymania bezpieczeństwa brzegu minimalne poziomy bezpieczeństwa brzegu morskiego, położenie granicznej linii ochrony oraz odcinki linii brzegowej, dla których zostaną wyznaczone, mając na względzie zagospodarowanie wybrzeża oraz obszary podlegające ochronie zgodnie z ustawą z dnia 16 kwietnia 2004 r. o ochronie przyrody.”;
 
-- **21)** art. 37a otrzymuje brzmienie: „Art. 37a. 1. Minister właściwy do spraw gospodarki morskiej oraz minister właściwy do spraw rozwoju regionalnego porozumieniu z ministrami właściwymi do spraw: środowiska, gospodarki wodnej, kultury i ochrony terytorialnego i wyłącznej strefy ekonomicznej, uwzględniając rozstrzygnięcia określone ust. 2 oraz wydane ważne pozwolenia, o których mowa art. 23 ust. 1, art. 26 ust. 1, i uzgodnienie, o którym mowa art. 27 ust. 1.
+- **21)** art. 37a otrzymuje brzmienie: „Art. 37a. 1. Minister właściwy do spraw gospodarki morskiej oraz minister właściwy do spraw rozwoju regionalnego porozumieniu z ministrami właściwymi do spraw: środowiska, gospodarki wodnej, kultury i ochrony dziedzictwa narodowego, rolnictwa, rybołówstwa, transportu, wewnętrznych oraz Ministrem Obrony Narodowej przyjmuje, drodze rozporządzenia, plany zagospodarowania przestrzennego morskich wód wewnętrznych, morza terytorialnego i wyłącznej strefy ekonomicznej, uwzględniając rozstrzygnięcia określone ust. 2 oraz wydane ważne pozwolenia, o których mowa art. 23 ust. 1, art. 26 ust. 1, i uzgodnienie, o którym mowa art. 27 ust. 1.
 
 2. Plany zagospodarowania przestrzennego morskich wód wewnętrznych, morza terytorialnego i wyłącznej strefy ekonomicznej, zwane dalej „planami”, rozstrzygają o:
 
 - **1)** przeznaczeniu, tym funkcjach podstawowych, obszarów morskich wód wewnętrznych, morza terytorialnego i wyłącznej strefy ekonomicznej;
 - **2)** zakazach lub ograniczeniach korzystania z obszarów, o których mowa pkt 1, z uwzględnieniem wymogów ochrony przyrody;
 - **3)** rozmieszczeniu inwestycji celu publicznego;
-- **4)** kierunkach rozwoju transportu i infrastruktury technicznej;
 - **5)** obszarach i warunkach:
     - **a)** ochrony środowiska i dziedzictwa kulturowego,
     - **b)** uprawiania rybołówstwa i akwakultury,
@@ -100,11 +99,11 @@ o zmianie ustawy o obszarach morskich Rzeczypospolitej Polskiej i administracji 
 - **1)** wpływ na ekosystem planowanej działalności człowieka będzie utrzymywany na poziomie umożliwiającym osiągnięcie i utrzymanie dobrego stanu ekologicznego środowiska;
 - **2)** zostanie zachowana zarówno zdolność do prawidłowego funkcjonowania ekosystemu, jak i odporność na zmiany środowiskowe, powstałe wyniku działalności człowieka;
 - **3)** zostanie umożliwione jednoczesne, trwałe i zrównoważone użytkowanie zasobów i usług ekosystemowych przez obecne i przyszłe pokolenia.”,
-    - **c)** ust. 4 otrzymuje brzmienie: „4. Minister właściwy do spraw gospodarki morskiej oraz minister właściwy do spraw rozwoju regionalnego porozumieniu z ministrem właściwym do spraw rybołówstwa oraz ministrem właściwym do spraw środowiska określi, drodze rozporządzenia, wymagany zakres planów, części tekstowej i graficznej, sporządzanej również formie baz danych, określając szczególności wymogi dotyczące materiałów planistycznych, planów oraz wytyczne przyjęte przez Komisję Ochrony Środowiska Morskiego Morza Bałtyckiego oraz organy Unii Europejskiej zakresie planowania przestrzennego obszarów morskich.”;
+    - **c)** ust. 4 otrzymuje brzmienie: „4. Minister właściwy do spraw gospodarki morskiej oraz minister właściwy do spraw rozwoju regionalnego porozumieniu z ministrem właściwym do spraw rybołówstwa oraz ministrem właściwym do spraw środowiska określi, drodze rozporządzenia, wymagany zakres planów, części tekstowej i graficznej, sporządzanej również formie baz danych, określając szczególności wymogi dotyczące materiałów planistycznych, rodzaju opracowań kartograficznych, skali opracowań kartograficznych, stosowanych oznaczeń, nazewnictwa, standardów oraz sposobu dokumentowania prac planistycznych, mając na względzie czytelność i przejrzystość planów oraz wytyczne przyjęte przez Komisję Ochrony Środowiska Morskiego Morza Bałtyckiego oraz organy Unii Europejskiej zakresie planowania przestrzennego obszarów morskich.”;
 
 - **23)** po art. 37b dodaje się art. 37c–37k brzmieniu: „Art. 37c. Organy administracji morskiej mogą prowadzić analizy i studia oraz opracowują koncepcje i programy, celu opracowania planu, a także współpracują z samorządami województw i gmin nadmorskich celu zapewnienia spójności tego planu ze studiami uwarunkowań i kierunków zagospodarowania przestrzennego gmin, miejscowymi planami zagospodarowania przestrzennego i planami zagospodarowania przestrzennego województw.
 
-**Art. 37d.** Plan może zawierać ustalenia wiążące samorządy województw oraz gminy, obszarze których występują morskie wody wewnętrzne, lub gminy sąsiadujące z obszarem planu poprzez linię brzegową lub odpowiadające tej linii granice obszarów morskich, przy sporządzaniu odpowiednio planów zagospodarowania przestrzennego województw, studiów uwarunkowań i kierunków zagospodarowania przestrzennego gmin oraz miejscowych planów zagospodarowania przestrzennego zakresie:
+**Art. 37d.** Plan może zawierać ustalenia wiążące samorządy województw oraz gminy, obszarze których występują morskie wody wewnętrzne, lub gminy sąsiadujące z obszarem planu poprzez linię brzegową lub odpowiadające tej linii granice obszarów morskich, przy sporządzaniu odpowiednio planów zagospodarowania przestrzennego
 
 **Art. 37e.**
 
@@ -120,31 +119,31 @@ o zmianie ustawy o obszarach morskich Rzeczypospolitej Polskiej i administracji 
 - **5)** występuje do właściwych organów o uzgodnienie zakresu i stopnia szczegółowości informacji wymaganych prognozie oddziaływania na środowisko, o którym mowa art. 53 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2013 r. poz. 1235, z późn. zm. );
 - **6)** sporządza projekt planu, uwzględniający szczególności alternatywne rozmieszczenie wybranych przedsięwzięć wraz z uzasadnieniem ich rozmieszczenia, i prognozę oddziaływania na środowisko dla tego projektu;
 - **7)** występuje o opinie o projekcie planu do:
-    - **a)** wojewódzkiego konserwatora zabytków właściwego zakresie obszarów objętych ochroną konserwatorską oraz obszarów proponowanych do objęcia taką ochroną, − wpływu na obszary szczególnego zagrożenia powodzią z wyłączeniem pasa technicznego, − dostosowania ustaleń projektu planu do wymagań wynikających z warunków korzystania z wód regionu wodnego oraz, o ile zostały sporządzone, warunków korzystania z wód zlewni, − zgodności z planami gospodarowania wodami na obszarach dorzeczy,
-    - **c)** ministra właściwego do spraw zdrowia zakresie zagospodarowania stref ochronnych uzdrowisk i obszarów ochrony uzdrowiskowej,
-    - **d)** właściwego organu nadzoru górniczego zakresie terenów górniczych i ich zagospodarowania,
-    - **e)** organów właściwych zakresie strategicznej oceny oddziaływania na środowisko zgodnie z ustawą z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa ochronie środowiska oraz o ocenach oddziaływania na środowisko, załączając prognozę oddziaływania na środowisko,
-    - **f)** Prezesa Krajowego Zarządu Gospodarki Wodnej zakresie zgodności z krajowym programem ochrony wód morskich oraz zakresie celów środowiskowych dla wód morskich, ustanowionych zgodnie z przepisami ustawy z dnia 18 lipca 2001 r. Prawo wodne;
+    - **a)** wojewódzkiego konserwatora zabytków – właściwego zakresie obszarów objętych ochroną konserwatorską oraz obszarów proponowanych do objęcia taką ochroną,
+    - **b)** dyrektora regionalnego zarządu gospodarki wodnej, zakresie: − wpływu na obszary szczególnego zagrożenia powodzią z wyłączeniem pasa technicznego, − dostosowania ustaleń projektu planu do wymagań wynikających z warunków korzystania z wód regionu wodnego oraz, o ile zostały sporządzone, warunków korzystania z wód zlewni, − zgodności z planami gospodarowania wodami na obszarach dorzeczy,
+    - **c)** ministra właściwego do spraw zdrowia – zakresie zagospodarowania stref ochronnych uzdrowisk i obszarów ochrony uzdrowiskowej,
+    - **d)** właściwego organu nadzoru górniczego – zakresie terenów górniczych i ich zagospodarowania,
+    - **e)** organów właściwych zakresie strategicznej oceny oddziaływania na środowisko zgodnie z ustawą z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa ochronie środowiska oraz o ocenach oddziaływania na środowisko, załączając prognozę oddziaływania na środowisko, z przepisami ustawy z dnia 18 lipca 2001 r. – Prawo wodne;
 
 - **8)** uzgadnia projekt planu z:
-    - **a)** wójtami, burmistrzami albo prezydentami miast położonych bezpośrednim sąsiedztwie obszaru objętego projektem planu zakresie wpływu jego ustaleń na zagospodarowanie pasa technicznego, pasa ochronnego oraz morskich portów i przystani oraz zagospodarowanie przestrzenne gminy,
-    - **b)** regionalnym dyrektorem ochrony środowiska zakresie ustaleń projektu planu, mogących mieć wpływ na cele ochrony rezerwatu przyrody, na ochronę przyrody parku krajobrazowego i obszaru chronionego krajobrazu oraz zakresie ustaleń projektu planu, mogących znacząco negatywnie oddziaływać na obszar Natura 2000 zgodnie z ustawą z dnia 16 kwietnia 2004 r. o ochronie przyrody,
+    - **a)** wójtami, burmistrzami albo prezydentami miast położonych bezpośrednim sąsiedztwie obszaru objętego projektem planu – zakresie wpływu jego ustaleń na zagospodarowanie pasa technicznego, pasa ochronnego oraz morskich portów i przystani oraz zagospodarowanie przestrzenne gminy,
+    - **b)** regionalnym dyrektorem ochrony środowiska – zakresie ustaleń projektu planu, mogących mieć wpływ na cele ochrony rezerwatu przyrody, na ochronę przyrody parku krajobrazowego i obszaru chronionego krajobrazu oraz zakresie ustaleń projektu planu, mogących znacząco negatywnie oddziaływać na obszar Natura 2000 zgodnie z ustawą z dnia 16 kwietnia 2004 r. o ochronie przyrody,
     - **c)** Ministrem Obrony Narodowej oraz ministrami właściwymi do spraw: gospodarki, rybołówstwa, środowiska, gospodarki wodnej, wewnętrznych, turystyki, łączności, transportu, kultury i ochrony dziedzictwa narodowego zakresie ich właściwości,
-    - **d)** marszałkiem województwa zakresie terenów rozmieszczenia inwestycji celu publicznego o znaczeniu wojewódzkim, ustalonego planie zagospodarowania przestrzennego województwa,
+    - **d)** marszałkiem województwa – zakresie terenów rozmieszczenia inwestycji celu publicznego o znaczeniu wojewódzkim, ustalonego planie zagospodarowania przestrzennego województwa,
     - **e)** dyrektorem parku narodowego zakresie ustaleń projektu planów, mogących mieć wpływ na ochronę przyrody parku narodowego zgodnie z ustawą z dnia 16 kwietnia 2004 r. o ochronie przyrody,
-    - **f)** podmiotami zarządzającymi portami morskimi o podstawowym znaczeniu dla gospodarki narodowej zakresie ustaleń projektu planu mogących mieć wpływ na rozwój portów;
+    - **f)** podmiotami zarządzającymi portami morskimi o podstawowym znaczeniu dla gospodarki narodowej – zakresie ustaleń projektu planu mogących mieć wpływ na rozwój portów;
 
 - **9)** podaje do publicznej wiadomości, sposób określony pkt 1, terminie nie krótszym niż 14 dni przed dniem wyłożenia projektu planu wraz z prognozą oddziaływania na środowisko do publicznego wglądu, informacje o terminie i miejscu wyłożenia tych dokumentów oraz o możliwości składania tym terminie uwag i wniosków do projektu planu i prognozy oddziaływania na środowisko dla tego projektu oraz gromadzi te uwagi i wnioski;
 - **10)** wykłada projekt planu wraz z prognozą oddziaływania na środowisko na okres nie krótszy niż 6 tygodni, a także udostępnia go wraz z prognozą Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego tego dyrektora oraz organizuje trzecim tygodniu wyłożenia tego projektu dyskusję publiczną nad przyjętymi nim rozwiązaniami;
 - **11)** rozpatruje złożone uwagi i wnioski, o których mowa pkt 9, oraz opinie, o których mowa pkt 7, wprowadza zmiany do projektu planu wynikające z prognozy oddziaływania na środowisko oraz uwzględnionych opinii i dokonanych uzgodnień, o których mowa pkt 7 i 8;
 - **12)** ponawia uzgodnienia, o których mowa pkt 8, niezbędnym zakresie oraz sporządza wykaz nieuwzględnionych uwag i wniosków wraz z uzasadnieniem ich nieuwzględnienia;
 - **13)** przedstawia projekt planu ministrowi właściwemu do spraw rozwoju regionalnego celu stwierdzenia jego zgodności z celami i kierunkami określonymi długookresowej strategii rozwoju kraju, ustaleniami średniookresowej strategii rozwoju kraju i innymi strategiami rozwoju, koncepcją przestrzennego zagospodarowania kraju oraz programami określającymi zadania rządowe, o których mowa art. 48 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym;
-- **14)** informuje Generalnego Dyrektora Ochrony Środowiska, przypadku stwierdzenia możliwości znaczącego transgranicznego oddziaływania na środowisko na skutek realizacji zamierzeń związanych z ustaleniami planu,
+- **14)** informuje Generalnego Dyrektora Ochrony Środowiska, przypadku stwierdzenia możliwości znaczącego transgranicznego oddziaływania na środowisko na skutek realizacji zamierzeń związanych z ustaleniami planu, o możliwości transgranicznego oddziaływania na środowisko skutków realizacji planu i przekazuje mu projekt planu wraz z prognozą oddziaływania na środowisko;
 - **15)** uczestniczy postępowaniu sprawie transgranicznego oddziaływania na środowisko, zgodnie z przepisami działu VI rozdziału 3 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa ochronie środowiska oraz o ocenach oddziaływania na środowisko;
 - **16)** może ponownie wystąpić o opinie i uzgodnienia, o których mowa pkt 7, 8 i 13, zakresie zmian projektu planu wynikających z przeprowadzonego postępowania sprawie transgranicznego oddziaływania na środowisko;
 - **17)** przedkłada projekt planu wraz z wykazem, o którym mowa pkt 12, oraz projektem podsumowania, o którym mowa art. 55 ust. 3 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa ochronie środowiska oraz o ocenach oddziaływania na środowisko, ministrowi właściwemu do spraw gospodarki morskiej celu jego przyjęcia zgodnie z art. 37a ust. 1.
 
-2. Jeżeli po przedstawieniu projektu planu do przyjęcia zgodnie z art. 37a ust. 1 dokonane zostaną zmiany projekcie planu, minister właściwy do spraw gospodarki morskiej, po rozpatrzeniu zgłoszonych uwag i wniosków, może przekazać projekt planu do właściwego terytorialnie dyrektora urzędu morskiego celu ponowienia czynności, o których mowa ust. 1, zakresie niezbędnym do dokonania tych zmian. Przedmiotem ponowionych czynności jest wyłącznie część projektu planu objęta zmianami.
+2. Jeżeli po przedstawieniu projektu planu do przyjęcia zgodnie z art. 37a ust. 1 dokonane zostaną zmiany projekcie planu, minister właściwy do spraw gospodarki morskiej, po rozpatrzeniu zgłoszonych uwag i wniosków, może przekazać projekt planu do właściwego terytorialnie dyrektora urzędu morskiego celu ponowienia czynności,
 
 **Art. 37f.**
 
@@ -176,6 +175,8 @@ o zmianie ustawy o obszarach morskich Rzeczypospolitej Polskiej i administracji 
 
 3. Po przeprowadzeniu oceny dyrektor urzędu morskiego opracowuje raport o stanie zagospodarowania obszarów morskich. Wyniki tej oceny oraz raport są przekazywane ministrom właściwym do spraw: gospodarki morskiej, gospodarki wodnej, rozwoju regionalnego, budownictwa, lokalnego planowania i zagospodarowania przestrzennego oraz mieszkalnictwa.
 
+4. Na podstawie raportu, o którym mowa ust. 3, minister właściwy do spraw gospodarki morskiej podejmuje decyzję o przystąpieniu do zmiany planu oraz zakresie niezbędnych zmian.
+
 5. Jeżeli wyniku zmiany przepisów prawa zachodzi konieczność dokonania zmiany planu, czynności, o których mowa art. 37e, wykonuje się odpowiednio zakresie niezbędnym do dokonania tych zmian. Przystąpienie do zmiany planu powinno nastąpić nie później niż terminie 6 miesięcy od dnia wejścia życie zmienionego przepisu prawa.
 
 6. Zmiana planu następuje trybie, jakim plan został przyjęty.
@@ -186,7 +187,7 @@ o zmianie ustawy o obszarach morskich Rzeczypospolitej Polskiej i administracji 
 
 2. Rada Ministrów może określić, drodze rozporządzenia, wymagany zakres i sposób uzgodnień transgranicznych planu zagospodarowania przestrzennego morskich wód wewnętrznych, morza terytorialnego i wyłącznej strefy ekonomicznej, mając na względzie szczególności zalecenia przyjęte przez Komisję Ochrony Środowiska Morskiego Morza Bałtyckiego oraz organy Unii Europejskiej zakresie planowania przestrzennego na morzu.
 
-**Art. 37k.** Dyrektor urzędu morskiego gromadzi i przechowuje materiały dotyczące planów.”;
+**Art. 37k.** Dyrektor urzędu morskiego gromadzi i przechowuje materiały dotyczące planów.”; „Rozdział 1a Państwowa Morska Służba Hydrograficzna
 
 **Art. 41a.**
 
@@ -215,7 +216,9 @@ o zmianie ustawy o obszarach morskich Rzeczypospolitej Polskiej i administracji 
 
 **Art. 41c.**
 
-1. Podmiot prowadzący na polskich obszarach morskich pomiary hydrograficzne niezwłocznie przekazuje nieodpłatnie służbie hydrograficznej kopię uzyskanych danych pomiarowych. jąc na względzie konieczność zapewnienia aktualności i interoperacyjności danych, celu zapewnienia ochrony środowiska oraz bezpieczeństwa żeglugi na polskich obszarach morskich.
+1. Podmiot prowadzący na polskich obszarach morskich pomiary hydrograficzne niezwłocznie przekazuje nieodpłatnie służbie hydrograficznej kopię uzyskanych danych pomiarowych.
+
+2. Minister właściwy do spraw gospodarki morskiej porozumieniu z Ministrem Obrony Narodowej określi, drodze rozporządzenia, warunki i sposób przekazywania służbie hydrograficznej kopii danych pomiarowych, mając na względzie konieczność zapewnienia aktualności i interoperacyjności danych, celu zapewnienia ochrony środowiska oraz bezpieczeństwa żeglugi na polskich obszarach morskich.
 
 **Art. 41d.** Minister Obrony Narodowej porozumieniu z ministrem właściwym do spraw gospodarki morskiej określi, drodze rozporządzenia, szczegółowy zakres i sposób realizacji zadań służby hydrograficznej, kierując się koniecznością zapewnienia bezpieczeństwa żeglugi i obiektów lokalizowanych na obszarach morskich oraz rozpowszechniania informacji o niebezpieczeństwach występujących na polskich obszarach morskich.
 
@@ -224,10 +227,7 @@ o zmianie ustawy o obszarach morskich Rzeczypospolitej Polskiej i administracji 
 1. Wykonywanie pomiarów hydrograficznych na polskich obszarach morskich na potrzeby bezpieczeństwa żeglugi, kartografii morskiej, projektowania posadawiania oraz kontroli budowli hydrotechnicznych, planowania przestrzennego oraz ochrony środowiska wymaga:
 
 - **1)** odpowiednich kwalifikacji z zakresu hydrografii morskiej;
-- **2)** spełniania minimalnych wymagań dla pomiarów hydrograficznych określonych przepisach wydanych na podstawie ust. 5 pkt 1.
-
-2. Potwierdzeniem posiadania kwalifikacji niezbędnych do wykonywania pomiarów hydrograficznych na polskich obszarach morskich na potrzeby bezpieczeństwa żeglugi, kartografii morskiej, projektowania posadawiania oraz kontroli budowli hydrotechnicznych, planowania przestrzennego, a także ochrony środowiska jest:
-
+- **2)** spełniania minimalnych wymagań dla pomiarów hydrograficznych określonych przepisach wydanych na podstawie ust. 5 pkt 1. oraz kontroli budowli hydrotechnicznych, planowania przestrzennego, a także ochrony środowiska jest:
 - **1)** dyplom hydrografa morskiego kategorii A;
 - **2)** dyplom hydrografa morskiego kategorii B.
 
@@ -236,16 +236,16 @@ o zmianie ustawy o obszarach morskich Rzeczypospolitej Polskiej i administracji 
 4. Osoby ubiegające się o uzyskanie dyplomu hydrografa morskiego są obowiązane:
 
 - **1)** posiadać co najmniej wykształcenie:
-    - **a)** wyższe przypadku osób ubiegających się o uzyskanie dyplomu hydrografa morskiego kategorii A,
-    - **b)** średnie przypadku osób ubiegających się o uzyskanie dyplomu hydrografa morskiego kategorii B;
+    - **a)** wyższe – przypadku osób ubiegających się o uzyskanie dyplomu hydrografa morskiego kategorii A,
+    - **b)** średnie – przypadku osób ubiegających się o uzyskanie dyplomu hydrografa morskiego kategorii B;
 
 - **2)** odbyć szkolenie prowadzone przez:
     - **a)** instytucje, organizacje i ośrodki szkolenia zweryfikowane i uznane przez Szefa Biura Hydrograficznego Marynarki Wojennej zakresie programu szkolenia oraz uprawnień kadry dydaktycznej lub ośrodki akademickie posiadające aktualne certyfikaty Międzynarodowej Organizacji Hydrograficznej uprawniające do realizacji szkolenia hydrografów kategorii A lub B,
     - **b)** zagraniczne instytucje, organizacje, ośrodki szkolenia lub ośrodki akademickie posiadające aktualne certyfikaty Międzynarodowej Organizacji Hydrograficznej uprawniające do realizacji szkolenia hydrografów kategorii A lub B;
 
 - **3)** odbyć praktykę polegającą na uczestnictwie pracach związanych z pomiarami hydrograficznymi okresie:
-    - **a)** dwóch lat przypadku osób ubiegających się o uzyskanie dyplomu hydrografa morskiego kategorii A,
-    - **b)** roku przypadku osób ubiegających się o uzyskanie dyplomu hydrografa morskiego kategorii B.
+    - **a)** dwóch lat – przypadku osób ubiegających się o uzyskanie dyplomu hydrografa morskiego kategorii A,
+    - **b)** roku – przypadku osób ubiegających się o uzyskanie dyplomu hydrografa morskiego kategorii B.
 
 5. Minister Obrony Narodowej porozumieniu z ministrem właściwym do spraw gospodarki morskiej określi, drodze rozporządzenia:
 
@@ -253,7 +253,8 @@ o zmianie ustawy o obszarach morskich Rzeczypospolitej Polskiej i administracji 
 - **2)** szczegółowe wymagania kwalifikacyjne do wykonywania pomiarów hydrograficznych, tym sposób ustalania okresu praktyki, o której mowa ust. 4 pkt 3,
 - **3)** ramowe programy szkoleń dla hydrografów morskich,
 - **4)** tryb uzyskiwania i wzory dyplomów hydrografa morskiego, o których mowa ust. 2,
-- **5)** tryb weryfikacji oraz uznawania instytucji, organizacji i ośrodków szkolenia prowadzących szkolenia hydrografów kategorii A lub B oraz warunki cofnięcia uznania tych podmiotów i ubiegania się o ponowne uznanie biorąc pod uwagę wytyczne Międzynarodowej Organizacji Hydrograficznej oraz potrzebę zapewnienia bezpieczeństwa żeglugi.”;
+- **5)** tryb weryfikacji oraz uznawania instytucji, organizacji i ośrodków szkolenia prowadzących szkolenia hydrografów kategorii A lub B oraz warunki cofnięcia uznania tych podmiotów i ubiegania się o ponowne uznanie – biorąc pod uwagę wytyczne Międzynarodowej Organizacji Hydrograficznej oraz potrzebę zapewnienia bezpieczeństwa żeglugi.”;
+- **25)** art. 42 ust. 2:
     - **a)** pkt 10 otrzymuje brzmienie: „10) uzgadniania decyzji sprawie wydawania pozwoleń wodnoprawnych i pozwoleń na budowę dla obiektów budowlanych polskich obszarach morskich, pasie technicznym, pasie ochronnym oraz portach i przystaniach morskich;”,
     - **b)** po pkt 11 dodaje się pkt 11a i 11b brzmieniu: „11a) użytkowania lasów będących własnością Skarbu Państwa położonych pasie technicznym;
 
@@ -261,14 +262,13 @@ o zmianie ustawy o obszarach morskich Rzeczypospolitej Polskiej i administracji 
     - **c)** po pkt 12 dodaje się pkt 12a i 12b brzmieniu: „12a) wykonywania i nadzorowania pomiarów hydrograficznych;
 
 - **12b)** prowadzenia zasobów danych hydrograficznych dla obszaru kompetencji właściwego terytorialnie dyrektora urzędu morskiego;”,
-    - **d)** pkt 13 otrzymuje brzmienie: „13) oznakowania nawigacyjnego polskich obszarach morskich;”,
-    - **e)** pkt 20 otrzymuje brzmienie: „20) budowy i utrzymania obiektów infrastruktury zapewniającej dostęp do portów i przystani morskich, z wyłączeniem infrastruktury dostępu służącej wyłącznie na użytek morskich portów wojennych, o których mowa art. 45 ust. 2a;”,
+    - **d)** pkt 13 otrzymuje brzmienie: „13) oznakowania nawigacyjnego polskich obszarach morskich;”, „20) budowy i utrzymania obiektów infrastruktury zapewniającej dostęp do portów i przystani morskich, z wyłączeniem infrastruktury dostępu służącej wyłącznie na użytek morskich portów wojennych, o których mowa art. 45 ust. 2a;”,
     - **f)** pkt 28 kropkę zastępuje się średnikiem i dodaje się pkt 29–32 brzmieniu: „29) kwalifikacji członków załóg statków morskich i pilotów morskich;
 
 - **30)** nadzoru nad obszarami Natura 2000 wyznaczonymi na polskich obszarach morskich i sporządzania projektów planów ochrony tych obszarów trybie przepisów ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody;
 - **31)** opiniowania i uzgadniania:
     - **a)** dokumentów dotyczących obszarów morskich ramach postępowania sprawie strategicznej oceny oddziaływania na środowisko,
-    - **b)** realizacji przedsięwzięć dotyczących obszarów morskich ramach postępowania sprawie oceny oddziaływania przedsięwzięcia na środowisko oraz na obszar Natura 2000 o których mowa ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa ochronie środowiska oraz o ocenach oddziaływania na środowisko;
+    - **b)** realizacji przedsięwzięć dotyczących obszarów morskich ramach postępowania sprawie oceny oddziaływania przedsięwzięcia na środowisko oraz na obszar Natura 2000 – o których mowa ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa ochronie środowiska oraz o ocenach oddziaływania na środowisko;
 
 - **32)** ochrony i opieki nad zabytkami znajdującymi się polskich obszarach morskich zakresie przewidzianym ustawie z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2014 r. poz. 1446, z późn. zm. ).”;
 - **26)** art. 44 ust. 1 otrzymuje brzmienie: „1. Organy administracji morskiej działają na terytorium Rzeczypospolitej Polskiej oraz wyłącznej strefie ekonomicznej, chyba że przepis szczególny stanowi inaczej.”;
@@ -276,7 +276,7 @@ o zmianie ustawy o obszarach morskich Rzeczypospolitej Polskiej i administracji 
 
 2b. Minister Obrony Narodowej porozumieniu z ministrem właściwym do spraw gospodarki morskiej określi, drodze rozporządzenia, granice morskich portów wojennych, mając na względzie zapewnienie obronności i bezpieczeństwa państwa, a także przyjęte strategie rozwoju portów i przystani morskich.”;
 
-- **28)** art. 48 ust. 1 otrzymuje brzmienie: „1. W zakresie nieuregulowanym przepisach, jeżeli jest to niezbędne do ochrony życia, zdrowia lub mienia, obronności i bezpieczeństwa państwa, ochrony środowiska morskiego na morzu, porcie morskim, przystani oraz pasie technicznym, a także ochrony żeglugi i portów morskich dyrektor urzędu morskiego może ustanawiać zakresie określonym art. 42 ust. 2 przepisy porządkowe zawierające zakazy lub nakazy określonego zachowania wód wewnętrznych i morza terytorialnego.”;
+- **28)** art. 48 ust. 1 otrzymuje brzmienie: „1. W zakresie nieuregulowanym przepisach, jeżeli jest to niezbędne do ochrony życia, zdrowia lub mienia, obronności i bezpieczeństwa państwa, ochrony środowiska morskiego na morzu, porcie morskim, przystani oraz pasie technicznym, a także ochrony żeglugi i portów morskich – dyrektor urzędu morskiego może ustanawiać zakresie określonym art. 42 ust. 2 przepisy porządkowe zawierające zakazy lub nakazy określonego zachowania oraz tworzyć i ogłaszać strefy czasowo zamknięte dla żeglugi i rybołówstwa, uprawiania sportów wodnych i nurkowych, znajdujące się strefie odpowiedzialności terytorialnej danego urzędu i będące granicach morskich wód wewnętrznych i morza terytorialnego.”;
 - **29)** po art. 50 dodaje się art. 50a brzmieniu: „Art. 50a. 1. W ramach nadzoru przeciwpożarowego, o którym mowa art. 42 ust. 2 pkt 9, dyrektorzy urzędów morskich, mając na względzie znaczenie portu dla gospodarki narodowej:
 - **1)** wydają, drodze zarządzenia, przepisy z zakresu ochrony przeciwpożarowej, tym dotyczące:
     - **a)** zapobiegania powstawaniu i rozprzestrzenianiu się pożaru,
@@ -288,7 +288,6 @@ o zmianie ustawy o obszarach morskich Rzeczypospolitej Polskiej i administracji 
 - **4)** uzgadniają:
     - **a)** instrukcje technologiczne,
     - **b)** instrukcje technologiczno-ruchowe,
-    - **c)** instrukcje bezpiecznej obsługi statku,
     - **d)** regulaminy organizacyjne podmiotów wykonujących zadania związane z ochroną przeciwpożarową portach, zakresie ochrony przeciwpożarowej od strony wody.
 
 2. W celu potwierdzenia właściwego stosowania planów, instrukcji i regulaminów, o których mowa ust. 1 pkt 3 i 4, dyrektorzy urzędów morskich przeprowadzają inspekcje i kontrole obejmujące planowane i doraźne inspekcje i kontrole:
@@ -314,16 +313,18 @@ o zmianie ustawy o obszarach morskich Rzeczypospolitej Polskiej i administracji 
 - **2)** uzgadniania z właściwym terytorialnie dyrektorem urzędu morskiego regulaminów organizacyjnych podmiotów wykonujących zadania związane z ochroną przeciwpożarową portach, zakresie ochrony przeciwpożarowej od strony wody;
 - **3)** wykonywania poleceń inspektora, o którym mowa ust. 3, wydawanych doraźnie lub zawartych protokole, o którym mowa ust. 7;
 - **4)** informowania właściwego kapitana portu o każdej sytuacji wymagającej interwencji służb ratowniczo-gaśniczych zarządzanym obiekcie lub na zarządzanym terenie znajdującym się granicach administracyjnych portu.
+
+9. Minister właściwy do spraw gospodarki morskiej określi, drodze rozporządzenia:
+
 - **1)** szczegółowy zakres nadzoru przeciwpożarowego sprawowanego przez organy administracji morskiej,
 - **2)** szczegółowy sposób sprawowania nadzoru przeciwpożarowego, tym tryb przeprowadzania inspekcji i kontroli, o których mowa ust. 2, oraz szczegółowy zakres informacji zawartych protokole, o którym mowa ust. 7,
 - **3)** warunki współpracy organów administracji morskiej z podmiotami, które uczestniczą działaniach ratowniczo-gaśniczych obrębie polskich obszarów morskich oraz portów i przystani morskich,
 - **4)** szczegółowy zakres informacji niezbędnych do określenia planach zwalczania zagrożeń i zanieczyszczeń wód portowych oraz instrukcjach technologicznych i technologiczno-ruchowych oraz instrukcjach bezpiecznej obsługi statku,
-- **5)** szczegółowy zakres informacji, o których mowa ust. 8 pkt 4 mając na względzie znaczenie portu dla gospodarki narodowej oraz konieczność zapewnienia właściwego poziomu ochrony przeciwpożarowej polskich obszarach morskich oraz morskich portach i przystaniach.”;
-- **30)** art. 51 ust. 1:
+- **5)** szczegółowy zakres informacji, o których mowa ust. 8 pkt 4 – mając na względzie znaczenie portu dla gospodarki narodowej oraz konieczność zapewnienia właściwego poziomu ochrony przeciwpożarowej polskich obszarach morskich oraz morskich portach i przystaniach.”;
+- **30)** art. 51 ust. 1: „Art. 53a. W czasie wykonywania czynności służbowych pracownicy terenowego organu administracji morskiej, wykonując zadania, o których mowa art. 42 ust. 2 pkt 1–9, 11, 14, 17, 25 i 27, mają prawo do legitymowania lub ustalania inny sposób tożsamości osób.”;
     - **a)** po pkt 1 dodaje się pkt 1a brzmieniu: „1a) kontroli dokumentów statku i dokumentów kwalifikacyjnych załogi statku;”,
     - **b)** pkt 4 lit. a otrzymuje brzmienie: „a) zatrzymania dokumentów, o których mowa pkt 1 i 1a,”;
 
-- **31)** po art. 53 dodaje się art. 53a brzmieniu: „Art. 53a. W czasie wykonywania czynności służbowych pracownicy terenowego organu administracji morskiej, wykonując zadania, o których mowa art. 42 ust. 2 pkt 1–9, 11, 14, 17, 25 i 27, mają prawo do legitymowania lub ustalania inny sposób tożsamości osób.”;
 - **32)** dziale IV tytuł otrzymuje brzmienie: „przepisy karne i kary administracyjne”;
 - **33)** art. 55:
     - **a)** ust. 1 pkt 5 otrzymuje brzmienie: „5) układania kabli lub rurociągów”,
@@ -337,12 +338,13 @@ o zmianie ustawy o obszarach morskich Rzeczypospolitej Polskiej i administracji 
 
 - **35)** po art. 60 dodaje się art. 60a–60d brzmieniu: „Art. 60a. Kto na obszarze morskich wód wewnętrznych i morza terytorialnego:
 - **1)** wprowadza statek do strefy zamkniętej dla żeglugi i rybołówstwa oraz pozostawia tej strefie sprzęt rybacki,
+- **2)** przeprowadza próby statecznościowe lub testuje urządzenia napędowe statku bez zgody kapitana portu,
 - **3)** nadużywa środków sygnałowych i pirotechnicznych lub usuwa i uszkadza środki ratunkowe,
 - **4)** zakrywa i tarasuje urządzenia cumownicze oraz zasłania znaki ostrzegawcze,
 - **5)** bez zgody kapitana portu spłukuje nadbudówki i pokłady statku,
 - **6)** przewozi pasażerów statkiem, którego dokument bezpieczeństwa takiego przewozu nie przewiduje,
 - **7)** uprawiając żeglugę statkiem przekracza dopuszczalną prędkość określoną obowiązującymi przepisami,
-- **8)** cumuje do znaku nawigacyjnego podlega karze grzywny.
+- **8)** cumuje do znaku nawigacyjnego – podlega karze grzywny.
 
 **Art. 60b.** Kto na obszarze portu morskiego lub przystani morskiej, a także kotwicowisk położonych poza obszarem portów oraz torów wodnych łączących te kotwicowiska z wodami portowymi:
 
@@ -350,31 +352,29 @@ o zmianie ustawy o obszarach morskich Rzeczypospolitej Polskiej i administracji 
 
 **Art. 60d.**
 
-1. Orzekanie sprawach o czyny, określone art. 60a–60c, następuje trybie przewidzianym przepisach ustawy z dnia 24 sierpnia 2001 r. Kodeks postępowania sprawach o wykroczenia (Dz. U. z 2013 r. poz. 395, z późn. zm. ).
+1. Orzekanie sprawach o czyny, określone art. 60a–60c, następuje trybie przewidzianym przepisach ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania sprawach o wykroczenia (Dz. U. z 2013 r. poz. 395, z późn. zm. ).
 
 2. Pracownicy terenowego organu administracji morskiej mają prawo do nakładania grzywien drodze mandatu karnego.”;
 
 - **36)** użyte art. 23 ust. 5, art. 27a ust. 1 pkt 1, art. 27c ust. 2 pkt 2, art. 45 ust. 1 wyrazy „współrzędnych geograficznych” zastępuje się wyrazami „współrzędnych geocentrycznych geodezyjnych”.
-- **1)** art. 14 dodaje się ust. 4 brzmieniu: „4. Uprawnienia, o których mowa ust. 1, przysługują również stosunku do statków przepływających przez strefę przyległą przy wykonywaniu zadań mających na celu zapobieganie naruszaniu na terytorium Rzeczypospolitej Polskiej przepisów, o których mowa art. 1 ust. 2 pkt 4 lit. a–d.”;
-- **2)** art. 16:
-    - **a)** po ust. 1 dodaje się ust. 1a brzmieniu: „1a. Pościg może być wszczęty, jeżeli statek znajduje się na morskich wodach wewnętrznych, morzu terytorialnym lub strefie przyległej.”,
-    - **b)** ust. 2 otrzymuje brzmienie: „2. Jeżeli obcy statek naruszył polskie przepisy obowiązujące wyłącznej strefie ekonomicznej, pościg można wszcząć również gdy statek znajduje się tej strefie.”;
 
-- **3)** art. 17 ust. 3 otrzymuje brzmienie: „3. Pościg rozpoczęty na polskich morskich wodach wewnętrznych albo na polskim morzu terytorialnym może być kontynuowany poza granicą morza terytorialnego, a rozpoczęty polskiej strefie przyległej lub polskiej wyłącznej strefie ekonomicznej może być kontynuowany poza granicą tych stref, pod warunkiem że nie został przerwany. Ciągłość pościgu powinna być zachowana niezależnie od tego, czy jest on prowadzony przez jednostki pływające, czy we współdziałaniu tych jednostek ze statkami powietrznymi.”.
+**Art. 2.** W ustawie z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2014 r. poz. 1402, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 3.** W ustawie z dnia 7 lipca 1994 r. Prawo budowlane (Dz. U. z 2013 r. poz. 1409, z późn. zm. ) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2013 r. poz. 1409, z późn. zm. ) wprowadza się następujące zmiany:
 
 **Art. 4.** W ustawie z dnia 17 listopada 1994 r. o zmianie ustawy o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 1995 r. Nr 7, poz. 31) uchyla się art. 3.
 
 **Art. 5.** W ustawie z dnia 20 grudnia 1996 r. o portach i przystaniach morskich (Dz. U. z 2010 r. Nr 33, poz. 179 oraz z 2015 r. poz. 1569) art. 1 ust. 3 otrzymuje brzmienie: „3. Przepisów ustawy, z wyłączeniem art. 4, nie stosuje się do morskich portów wojennych.”.
 
+**Art. 6.** W ustawie z dnia 18 lipca 2001 r. – Prawo wodne (Dz. U. z 2015 r. poz. 469 i 1590) wprowadza się następujące zmiany:
+
 **Art. 7.** W ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2013 r. poz. 1235, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 9.** W ustawie z dnia 18 sierpnia 2011 r. o bezpieczeństwie osób przebywających na obszarach wodnych (Dz. U. Nr 208, poz. 1240 oraz z 2015 r. poz. 779) art. 2 pkt 1 otrzymuje brzmienie: „1) obszarze wodnym rozumie się przez to wody śródlądowe rozumieniu art. 5 ust. 2 ustawy z dnia 18 lipca 2001 r. Prawo wodne (Dz. U. z 2015 r. poz. 469, 1590 i 1642) oraz wody przybrzeżne rozumieniu art. 5 ust. 5b tej ustawy, pasie nieprzekraczającym jednej mili morskiej od linii brzegu, a także kąpielisko, miejsce wykorzystywane do kąpieli, pływalnię oraz inne obiekty dysponujące nieckami basenowymi o łącznej powierzchni powyżej 100 m i głębokości ponad 0,4 m najgłębszym miejscu lub głębokości powyżej 1,2 m;”.
+**Art. 8.** W ustawie z dnia 27 sierpnia 2009 r. o Służbie Celnej (Dz. U. z 2015 r. poz. 990, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 10.** W ustawie z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2015 r. poz. 611, z późn. zm. ) art. 86 uchyla się ust. 7.
+**Art. 9.** W ustawie z dnia 18 sierpnia 2011 r. o bezpieczeństwie osób przebywających na obszarach wodnych (Dz. U. Nr 208, poz. 1240 oraz z 2015 r. poz. 779) art. 2 pkt 1 otrzymuje brzmienie: „1) obszarze wodnym – rozumie się przez to wody śródlądowe rozumieniu art. 5 ust. 2 ustawy z dnia 18 lipca 2001 r. – Prawo wodne (Dz. U. z 2015 r. poz. 469, 1590 i 1642) oraz wody przybrzeżne rozumieniu art. 5 ust. 5b tej ustawy, pasie nieprzekraczającym jednej mili morskiej od linii brzegu, a także kąpielisko, miejsce wykorzystywane do kąpieli, pływalnię oraz inne obiekty dysponujące nieckami basenowymi o łącznej powierzchni powyżej 100 m i głębokości ponad 0,4 m najgłębszym miejscu lub głębokości powyżej 1,2 m;”.
 
-**Art. 11.** Rozpoczęte przez dyrektora urzędu morskiego, przed dniem wejścia życie niniejszej ustawy, prace nad projektami planów zagospodarowania przestrzennego morskich wód wewnętrznych, morza terytorialnego i wyłącznej strefy ekonomicznej, mogą być kontynuowane i nie wymagają powtórzenia.
+**Art. 10.** W ustawie z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2015 r. poz. 611, z późn. zm. ) art. 86 uchyla się ust. 7. strefy ekonomicznej, mogą być kontynuowane i nie wymagają powtórzenia.
 
 **Art. 12.**
 

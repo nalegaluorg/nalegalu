@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 24 czerwca 2014 r.
+# o zmianie ustawy o mniejszościach narodowych i etnicznych oraz o języku regionalnym oraz ustawy o działach administracji rządowej
+
+*USTAWA z dnia 30 maja 2014 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +25,6 @@ domain: null
 | Data wydania | 2014-06-24 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000829) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/829/text.pdf) |
-
-Poz. 829
-USTAWA z dnia 30 maja 2014 r.
-o zmianie ustawy o mniejszościach narodowych i etnicznych oraz o języku regionalnym oraz ustawy o działach administracji rządowej
 
 **Art. 1.** W ustawie z dnia 6 stycznia 2005 r. o mniejszościach narodowych i etnicznych oraz o języku regionalnym (Dz. U. Nr 17, poz. 141, z późn. zm. ) wprowadza się następujące zmiany:
 

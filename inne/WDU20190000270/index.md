@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 12 lutego 2019 r.
+# o zmianie ustawy o gospodarce nieruchomościami oraz ustawy o przekształceniu prawa użytkowania wieczystego gruntów zabudowanych na cele mieszkaniowe w prawo własności tych gruntów
+
+*USTAWA z dnia 31 stycznia 2019 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,10 +26,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000270) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/270/text.pdf) |
 
-Poz. 270
-USTAWA z dnia 31 stycznia 2019 r.
-o zmianie ustawy o gospodarce nieruchomościami oraz ustawy o przekształceniu prawa użytkowania wieczystego gruntów zabudowanych na cele mieszkaniowe w prawo własności tych gruntów
-
 **Art. 1.** W ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2018 r. poz. 2204 i 2348) w art. 72 w ust. 3 po pkt 3a dodaje się pkt 3b w brzmieniu: „3b) za nieruchomości gruntowe, na których położone są garaże lub stanowiska postojowe niewykorzystywane do prowadzenia działalności gospodarczej albo nieruchomości przeznaczone na te cele – 1% ceny;”.
 
 **Art. 2.** W ustawie z dnia 20 lipca 2018 r. o przekształceniu prawa użytkowania wieczystego gruntów zabudowanych na cele mieszkaniowe w prawo własności tych gruntów (Dz. U. poz. 1716 i 2540) w art. 9:
@@ -38,7 +36,7 @@ o zmianie ustawy o gospodarce nieruchomościami oraz ustawy o przekształceniu p
 
 2. Z dniem wejścia w życie niniejszej ustawy umarza się postępowania w sprawach ustalenia lub aktualizacji stawek procentowych opłat, o których mowa w art. 21 ust. 1 ustawy zmienianej w art. 2, jeżeli dotyczą nieruchomości, o których mowa w art. 72 ust. 3 pkt 3b ustawy zmienianej w art. 1.
 
-3. Jeżeli w dniu wejścia w życie niniejszej ustawy obowiązywała stawka procentowa opłaty rocznej z tytułu użytkowania wieczystego niezgodna z art. 72 ust. 3 pkt 3b ustawy zmienianej w art. 1, właściwy organ, w terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy, ustala tę stawkę zgodnie z tym przepisem. O wysokości nowej stawki procentowej opłaty rocznej z tytułu użytkowania wieczystego obowiązującej od 2019 roku właściwy organ powiadamia użytkownika wieczystego na piśmie. Dziennik Ustaw – 2 – Poz. 270
+3. Jeżeli w dniu wejścia w życie niniejszej ustawy obowiązywała stawka procentowa opłaty rocznej z tytułu użytkowania wieczystego niezgodna z art. 72 ust. 3 pkt 3b ustawy zmienianej w art. 1, właściwy organ, w terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy, ustala tę stawkę zgodnie z tym przepisem. O wysokości nowej stawki procentowej opłaty rocznej z tytułu użytkowania wieczystego obowiązującej od 2019 roku właściwy organ powiadamia użytkownika wieczystego na piśmie.
 
 **Art. 4.**
 

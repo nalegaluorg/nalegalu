@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 18 kwietnia 2024 r.
+# w sprawie ogłoszenia jednolitego tekstu ustawy o ochronie żeglugi i portów morskich
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 21 marca 2024 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2024-04-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000597) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/597/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 21 marca 2024 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o ochronie żeglugi i portów morskich
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 4 września 2008 r. o ochronie żeglugi i portów morskich (Dz. U. z 2023 r. poz. 1433), z uwzględnieniem zmian wprowadzonych ustawą z dnia 7 lipca 2023 r. o zmianie ustawy o ochronie żeglugi i portów morskich oraz niektórych innych ustaw (Dz. U. poz. 1489) oraz zmian wynikających z przepisów ogłoszonych przed dniem 13 marca 2024 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 11 ustawy z dnia 7 lipca 2023 r. o zmianie ustawy o ochronie żeglugi i portów morskich oraz niektórych innych ustaw (Dz. U. poz. 1489), który stanowi: „Art. 11. Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 8, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
 Marszałek Sejmu: S. Hołownia

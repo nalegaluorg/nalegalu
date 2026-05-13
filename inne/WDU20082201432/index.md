@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# Ustawa z dnia 6 listopada 2008 r. o zmianie ustawy o indywidualnych kontach emerytalnych oraz niektórych innych ustaw
+# niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,11 +24,11 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082201432) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1432/text.pdf) |
 
-**Art. 1.** Wustawie zdnia 20 kwietnia 2004 oindywidualnych kontach emerytalnych (Dz. U. 116, poz. 1205, z 2005 183, poz. 1538 z 2006 Nr157, poz. 1119) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie dnia 20 kwietnia 2004 indywidualnych kontach emerytalnych (Dz. U. 116, 1205, 2005 183, 1538 2006 157, 1119) wprowadza następujące zmiany:
 
-**Art. 2.** Wustawie zdnia 26 lipca 1991 opodatku dochodowym od osób fizycznych (Dz. U. z 2000 14, poz. 176, z póên. zm. może ponownie założyć IKE.”,
+**Art. 2.** W ustawie dnia 26 lipca 1991 podatku dochodowym od osób fizycznych (Dz. U. 2000 14, 176, późn. zm. ) 30a wprowadza następujące zmiany: nowiącą wartość zgromadzonych indywidualnym koncie emerytalnym a sumą wpłat indywidualne konto emerytalne, a przypadku częściowego zwrotu dochodem jest kwota zwrotu pomniejszona kwotę stanowiącą iloczyn kwoty zwrotu i wskaźnika stanowiącego udział sumy wpłat indywidualne konto emerytalne do wartości zgromadzonych tym koncie. Dochodu tego nie pomniejsza straty kapitałów pieniężnych i praw majątkowych poniesionych roku podatkowym latach poprzednich. Zdanie pierwsze i drugie stosuje odpowiednio do określania dochodu, którym mowa 1 11.”.
 
-**Art. 3.** Wustawie zdnia 20 kwietnia 2004 opracowniczych programach emerytalnych (Dz. U. 116, poz. 1207, z 2005 143, poz. 1202 z 2006 ——————— 157, poz. 1119) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie dnia 20 kwietnia 2004 pracowniczych programach emerytalnych (Dz. U. 116, 1207, 2005 143, 1202 2006 157,
 
-**Art. 4.** Ustawa wchodzi wżycie zdniem 1 stycznia 2009 r., z wyjątkiem art. 1 pkt 3 i art. 3 pkt 2, które wchodzą wżycie zdniem ogłoszenia. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński
+**Art. 4.** Ustawa wchodzi życie dniem 1 stycznia 2009 r., wyjątkiem 1 3 i 3 2, które wchodzą życie dniem ogłoszenia.
 

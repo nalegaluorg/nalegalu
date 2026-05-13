@@ -10,9 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# o zmianie ustawy o imprezach turystycznych i powiązanych usługach turystycznych oraz niektórych innych ustaw
+# zmianie ustawy imprezach turystycznych i powiązanych usługach turystycznych oraz niektórych innych ustaw
 
-*USTAWA 7 listopada 2025 r.*
+*USTAWA z dnia 7 listopada 2025 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -26,13 +26,13 @@ domain: null
 | Ostatnia zmiana | 2026-01-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001806) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1806/text.pdf) |
 
-**Art. 1.** W ustawie 24 listopada 2017 r. o imprezach turystycznych i powiązanych usługach turystycznych (Dz. U. 2023 r. poz. 2211) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 24 listopada 2017 r. imprezach turystycznych i powiązanych usługach turystycznych (Dz. U. z 2023 r. poz. 2211) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie marca 2020 r. o szczególnych rozwiązaniach związanych zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. 2025 r. poz. 764) wprowadza się następujące zmiany: mowa 15ka ust. 29;
+**Art. 2.** W ustawie z dnia 2 marca 2020 r. szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. z 2025 r. poz. 764) wprowadza się następujące zmiany:
 
-**Art. 3.** W ustawie 15 lipca 2020 r. o Polskim Bonie Turystycznym (Dz. U. 2023 r. poz. 35) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 15 lipca 2020 r. Polskim Bonie Turystycznym (Dz. U. z 2023 r. poz. 35) wprowadza się następujące zmiany:
 
-**Art. 5.** Do umów o udział imprezie turystycznej oraz umów zawartych przez podróżnego przedsiębiorcą ułatwiającym nabywanie powiązanych usług turystycznych, zawartych do 31 grudnia 2025 r., stosuje się 9 ust. 1 ustawy zmienianej 1, brzmieniu dotychczasowym.
+**Art. 5.** Do umów udział imprezie turystycznej oraz umów zawartych przez podróżnego z przedsiębiorcą ułatwiającym nabywanie powiązanych usług turystycznych, zawartych do dnia 31 grudnia 2025 r., stosuje się art. 9 1 ustawy zmienianej art. 1, brzmieniu dotychczasowym.
 
-**Art. 6.** Ustawa wchodzi życie dniem 1 stycznia 2026 r., wyjątkiem 1 pkt 1 lit. a, pkt oraz pkt 9, zakresie zmienianego 31 pkt 3, które wchodzą życie dniem 1 lipca 2026 r. Prezydent Rzeczypospolitej Polskiej: K. Nawrocki
+**Art. 6.** Ustawa wchodzi życie z dniem 1 stycznia 2026 r., z wyjątkiem art. 1 pkt 1 lit. a, pkt 2 oraz pkt 9, zakresie zmienianego art. 31 pkt 3, które wchodzą życie z dniem 1 lipca 2026 r. Prezydent Rzeczypospolitej Polskiej: K. Nawrocki
 

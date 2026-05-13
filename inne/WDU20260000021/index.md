@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 9 stycznia 2026 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy o bonie energetycznym oraz o zmianie niektórych ustaw celu ograniczenia cen energii elektrycznej, gazu ziemnego i ciepła systemowego
 
 | Pole | Wartość |
 |---|---|
@@ -24,24 +24,24 @@ domain: null
 | Ostatnia zmiana | 2026-01-12 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000021) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/21/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 29 grudnia 2025 r.
-sprawie ogłoszenia jednolitego tekstu ustawy o bonie energetycznym oraz o zmianie niektórych ustaw celu ograniczenia cen energii elektrycznej, gazu ziemnego i ciepła systemowego
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 23 maja 2024 r. o bonie energetycznym oraz o zmianie niektórych ustaw celu ograniczenia cen energii elektrycznej, gazu ziemnego i ciepła systemowego (Dz. U. poz. 859), z uwzględnieniem zmian wprowadzonych:
 1) ustawą z dnia 27 listopada 2024 r. o zmianie ustawy o środkach nadzwyczajnych mających na celu ograniczenie wysokości cen energii elektrycznej oraz wsparciu niektórych odbiorców 2023 roku oraz 2024 roku oraz niektórych innych ustaw (Dz. U. poz. 1831),
-2) ustawą z dnia lutego 2025 r. o zmianie ustawy o rynku mocy oraz niektórych innych ustaw (Dz. U. poz. 290) oraz zmian wynikających z przepisów ogłoszonych przed dniem 22 grudnia 2025 r.
+2) ustawą z dnia 21 lutego 2025 r. o zmianie ustawy o rynku mocy oraz niektórych innych ustaw (Dz. U. poz. 290) oraz zmian wynikających z przepisów ogłoszonych przed dniem 22 grudnia 2025 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 8–27 ustawy z dnia 23 maja 2024 r. o bonie energetycznym oraz o zmianie niektórych ustaw celu ograniczenia cen energii elektrycznej, gazu ziemnego i ciepła systemowego (Dz. U. poz. 859), które stanowią: „Art. 8. W ustawie z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550, z późn. zm. ) art. 833 § 6 po wyrazach „ustawy z dnia 15 grudnia 2022 r. o szczególnej ochronie niektórych odbiorców paliw gazowych 2023 r. oraz 2024 r. związku z sytuacją na rynku gazu (Dz. U. poz. 2687 oraz z 2023 r.
+1) art. 8–27 ustawy z dnia 23 maja 2024 r. o bonie energetycznym oraz o zmianie niektórych ustaw celu ograniczenia cen energii elektrycznej, gazu ziemnego i ciepła systemowego (Dz. U. poz. 859), które stanowią: „Art. 8. W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550, z późn. zm. ) art. 833 § 6 po wyrazach „ustawy z dnia 15 grudnia 2022 r. o szczególnej ochronie niektórych odbiorców paliw gazowych 2023 r. oraz 2024 r. związku z sytuacją na rynku gazu (Dz. U. poz. 2687 oraz z 2023 r.
 poz. 295, 556 i 1234),” dodaje się wyrazy „bon energetyczny, o którym mowa ustawie z dnia 23 maja 2024 r. o bonie energetycznym oraz o zmianie niektórych ustaw celu ograniczenia cen energii elektrycznej, gazu ziemnego i ciepła systemowego (Dz. U. poz. 859),”.
 
 **Art. 9.** W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym administracji (Dz. U. z 2023 r. poz. 2505 i 2760 oraz z 2024 r. poz. 858) wprowadza się następujące zmiany:
 
-**Art. 11.** W ustawie z dnia 10 kwietnia 1997 r. Prawo energetyczne (Dz. U. z 2024 r. poz. 266 i 834) wprowadza się następujące zmiany:
+**Art. 10.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2024 r. poz. 226, 232, 854 i 858) wprowadza się następujące zmiany:
 
-**Art. 12.** W ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2023 r. poz. 901, 1693, 1938 i 2760 oraz z 2024 r. poz. 743 i 858) art. 8 ust. 4 pkt 20 kropkę zastępuje się średnikiem i dodaje się pkt brzmieniu: „21) kwoty bonu energetycznego, o którym mowa art. 2 ustawy z dnia 23 maja 2024 r. o bonie energetycznym oraz o zmianie niektórych ustaw celu ograniczenia cen energii elektrycznej, gazu ziemnego i ciepła systemowego (Dz. U. poz. 859).”.
+**Art. 11.** W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2024 r. poz. 266 i 834) wprowadza się następujące zmiany:
+
+**Art. 12.** W ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2023 r. poz. 901, 1693, 1938 i 2760 oraz z 2024 r. poz. 743 i 858) art. 8 ust. 4 pkt 20 kropkę zastępuje się średnikiem i dodaje się pkt 21 brzmieniu: „21) kwoty bonu energetycznego, o którym mowa art. 2 ustawy z dnia 23 maja 2024 r. o bonie energetycznym oraz o zmianie niektórych ustaw celu ograniczenia cen energii elektrycznej, gazu ziemnego i ciepła systemowego (Dz. U. poz. 859).”.
 
 **Art. 13.** W ustawie z dnia 16 lutego 2007 r. o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym (Dz. U. z 2023 r. poz. 1650 i 1681) wprowadza się następujące zmiany:
 
-**Art. 15.** W ustawie z dnia 19 lipca 2019 r. o systemie rekompensat dla sektorów i podsektorów energochłonnych (Dz. U. z 2023 r. poz. 1393, 1681 i 2760) art. 22 ust. 1 po pkt 3 dodaje się pkt 3a brzmieniu: „3a) niewykorzystane środki, o których mowa art. 9 ust. 6a ustawy z dnia 15 grudnia 2022 r. o szczególnej ochronie niektórych odbiorców paliw gazowych 2023 r. oraz 2024 r. związku z sytuacją na rynku gazu (Dz. U. z 2024 r. poz. 303 i 834);”.
+**Art. 14.** W ustawie z dnia 28 grudnia 2018 r. o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw (Dz. U. poz. 2538, z późn. zm. ) art. 16 ust. 1 pkt 2da po wyrazach „art. 25a ust. 3 pkt 2 lit. b” dodaje się wyrazy „lub art. 28b ust. 3 pkt 2”. „3a) niewykorzystane środki, o których mowa art. 9 ust. 6a ustawy z dnia 15 grudnia 2022 r. o szczególnej ochronie niektórych odbiorców paliw gazowych 2023 r. oraz 2024 r. związku z sytuacją na rynku gazu (Dz. U. z 2024 r. poz. 303 i 834);”.
 
 **Art. 16.** W ustawie z dnia 31 lipca 2019 r. o świadczeniu uzupełniającym dla osób niezdolnych do samodzielnej egzystencji (Dz. U. z 2024 r. poz. 256) art. 2 ust. 2 po wyrazach „ustawie z dnia 7 lipca 2023 r. o świadczeniu wspierającym (Dz. U. poz. 1429 i 2760)” dodaje się wyrazy „ , bonu energetycznego, o którym mowa art. 2 ustawy z dnia 23 maja 2024 r. o bonie energetycznym oraz o zmianie niektórych ustaw celu ograniczenia cen energii elektrycznej, gazu ziemnego i ciepła systemowego (Dz. U. poz. 859)”.
 
@@ -59,18 +59,22 @@ poz. 295, 556 i 1234),” dodaje się wyrazy „bon energetyczny, o którym mowa
 
 **Art. 23.** W ustawie z dnia 27 października 2022 r. o środkach nadzwyczajnych mających na celu ograniczenie wysokości cen energii elektrycznej oraz wsparciu niektórych odbiorców 2023 roku oraz 2024 roku (Dz. U. z 2024 r. poz. 190 i 834) wprowadza się następujące zmiany:
 
+**Art. 24.** W ustawie z dnia 15 grudnia 2022 r. o szczególnej ochronie niektórych odbiorców paliw gazowych 2023 r. oraz 2024 r. związku z sytuacją na rynku gazu (Dz. U. z 2024 r. poz. 303 i 834) wprowadza się następujące zmiany:
+
 **Art. 63b.**
 
-1. W przypadku gdy taryfa przestaje obowiązywać zgodnie z art. 63a ust. 1, przedsiębiorstwo energetyczne, o którym mowa art. 62c ust. 1 ustawy Prawo energetyczne, do dnia 28 lutego 2025 r. przedstawia Prezesowi URE celu weryfikacji informację zawierającą kwotę korekty wraz z uzasadnieniem.
+1. W przypadku gdy taryfa przestaje obowiązywać zgodnie z art. 63a ust. 1, przedsiębiorstwo energetyczne, o którym mowa art. 62c ust. 1 ustawy – Prawo energetyczne, do dnia 28 lutego 2025 r. przedstawia Prezesowi URE celu weryfikacji informację zawierającą kwotę korekty wraz z uzasadnieniem.
 
 2. Kwota korekty, o której mowa ust. 1, jest ustalana za okres od dnia 1 stycznia 2024 r. do dnia 30 czerwca 2024 r. związku z niewystarczającym lub nadmiernym odzyskaniem kosztów zakupu paliw gazowych wyniku ustania obowiązywania taryfy na podstawie art. 63a ust. 1.
 
 3. Kwotę korekty, o której mowa ust. 1, oblicza się jako iloczyn:
 
 - **1)** ilości sprzedanych paliw gazowych odbiorcom uprawnionym okresie od dnia 1 stycznia 2024 r. do dnia 30 czerwca 2024 r. oraz
-- **2)** różnicy wykonanego średniego ważonego kosztu zakupu paliw gazowych na ten okres, określonego ust. 4, i średniego ważonego planowanego kosztu zakupu paliw gazowych, wynikającego z zatwierdzonej taryfy, która przestała obowiązywać na podstawie art. 63a ust. 1. 1 stycznia 2024 r. do dnia 30 czerwca 2024 r.
+- **2)** różnicy wykonanego średniego ważonego kosztu zakupu paliw gazowych na ten okres, określonego ust. 4, i średniego ważonego planowanego kosztu zakupu paliw gazowych, wynikającego z zatwierdzonej taryfy, która przestała obowiązywać na podstawie art. 63a ust. 1.
 
-5. W przypadku, o którym mowa art. 63a ust. 4, przedsiębiorstwo energetyczne, o którym mowa art. 62c ust. 1 ustawy Prawo energetyczne, kwocie korekty, o której mowa ust. 1, uwzględnia również kwotę stanowiącą iloczyn:
+4. Wykonany średni ważony jednostkowy koszt zakupu paliw gazowych ustala się odniesieniu do wolumenu paliw gazowych dostarczonego do odbiorców, o których mowa art. 62b ust. 1 pkt 2 ustawy – Prawo
+
+5. W przypadku, o którym mowa art. 63a ust. 4, przedsiębiorstwo energetyczne, o którym mowa art. 62c ust. 1 ustawy – Prawo energetyczne, kwocie korekty, o której mowa ust. 1, uwzględnia również kwotę stanowiącą iloczyn:
 
 - **1)** ilości paliw gazowych sprzedanych odbiorcom uprawnionym okresie od dnia 1 lipca 2024 r. do dnia opublikowania decyzji zatwierdzającej taryfę, o której mowa art. 63a ust. 2, oraz
 - **2)** różnicy pomiędzy ceną paliw gazowych taryfie, o której mowa art. 63a ust. 2, a ceną tych paliw taryfie obowiązującej dla tego przedsiębiorstwa dniu 1 stycznia 2022 r.
@@ -79,8 +83,8 @@ poz. 295, 556 i 1234),” dodaje się wyrazy „bon energetyczny, o którym mowa
 
 7. Zweryfikowaną kwotę korekty przypadku:
 
-- **1)** niewystarczającego odzyskania kosztów paliw gazowych uwzględnia się kolejnych taryfach zatwierdzanych dla tego przedsiębiorstwa energetycznego do dnia 31 grudnia 2027 r.;
-- **2)** nadmiernego odzyskania kosztów paliw gazowych zwraca się zarządcy rozliczeń terminie 14 dni od dnia doręczenia decyzji, o której mowa ust. 6.
+- **1)** niewystarczającego odzyskania kosztów paliw gazowych – uwzględnia się kolejnych taryfach zatwierdzanych dla tego przedsiębiorstwa energetycznego do dnia 31 grudnia 2027 r.;
+- **2)** nadmiernego odzyskania kosztów paliw gazowych – zwraca się zarządcy rozliczeń terminie 14 dni od dnia doręczenia decyzji, o której mowa ust. 6.
 
 8. Wzrost średniej ceny sprzedaży paliwa gazowego spowodowany uwzględnieniem rozliczenia części korekty, o której mowa ust. 7 pkt 1, kolejnej taryfie nie może przekroczyć 15 % poziomu średniej ceny, która zostałaby ustalona bez rozliczania tej korekty.
 
@@ -92,7 +96,7 @@ poz. 295, 556 i 1234),” dodaje się wyrazy „bon energetyczny, o którym mowa
 
 **Art. 25.** W ustawie z dnia 9 marca 2023 r. o zmianie ustawy o inwestycjach zakresie elektrowni wiatrowych oraz niektórych innych ustaw (Dz. U. poz. 553) art. 22 i art. 24 wyrazy „2024 r.” zastępuje się wyrazami „2025 r.”.
 
-**Art. 26.** W ustawie z dnia 28 lipca 2023 r. o zmianie ustawy Prawo energetyczne oraz niektórych innych ustaw (Dz. U. poz. 1681) wprowadza się następujące zmiany:
+**Art. 26.** W ustawie z dnia 28 lipca 2023 r. o zmianie ustawy – Prawo energetyczne oraz niektórych innych ustaw (Dz. U. poz. 1681) wprowadza się następujące zmiany:
 
 **Art. 27.** W ustawie z dnia 17 sierpnia 2023 r. o zmianie ustawy o odnawialnych źródłach energii oraz niektórych innych ustaw (Dz. U. poz. 1762) art. 50:
 
@@ -117,20 +121,20 @@ poz. 295, 556 i 1234),” dodaje się wyrazy „bon energetyczny, o którym mowa
 - **1)** osoby posiadające obywatelstwo polskie mające miejsce zamieszkania i przebywające na terytorium Rzeczypospolitej Polskiej;
 - **2)** cudzoziemców mających miejsce zamieszkania i przebywających na terytorium Rzeczypospolitej Polskiej:
     - **a)** na podstawie zezwolenia na pobyt stały, zezwolenia na pobyt rezydenta długoterminowego Unii Europejskiej, zezwolenia na pobyt czasowy udzielonego związku z okolicznością, o której mowa art. 159 ust. 1 pkt 1 lit. c lub d lub art. 186 ust. 1 pkt 3 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2024 r. poz. 769 i 1222), lub związku z uzyskaniem Rzeczypospolitej Polskiej statusu uchodźcy lub ochrony uzupełniającej,
-    - **b)** związku z uzyskaniem Rzeczypospolitej Polskiej zgody na pobyt ze względów humanitarnych lub zgody na pobyt tolerowany formie schronienia, posiłku, niezbędnego ubrania oraz zasiłku celowego;
+    - **b)** związku z uzyskaniem Rzeczypospolitej Polskiej zgody na pobyt ze względów humanitarnych lub zgody na pobyt tolerowany – formie schronienia, posiłku, niezbędnego ubrania oraz zasiłku celowego;
 
-- **3)** mających miejsce zamieszkania i przebywających na terytorium Rzeczypospolitej Polskiej obywateli państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej oraz członków ich rodzin rozumieniu art. 2 pkt 4 ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. z 2024 r. poz. 633), posiadających prawo pobytu lub prawo stałego pobytu na terytorium Rzeczypospolitej Polskiej.
+- **3)** mających miejsce zamieszkania i przebywających na terytorium Rzeczypospolitej Polskiej obywateli państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej oraz członków ich rodzin rozumieniu art. 2 pkt 4 ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. z 2024 r. poz. 633), posiadających prawo pobytu lub prawo stałego pobytu na terytorium Rzeczypospolitej Polskiej.
 
 7. Bon energetyczny przyznaje się wysokości:
 
-- **1)** 300 zł gospodarstwu domowemu jednoosobowemu;
-- **2)** 400 zł gospodarstwu domowemu wieloosobowemu składającemu się z 2 do 3 osób;
-- **3)** 500 zł gospodarstwu domowemu wieloosobowemu składającemu się z 4 do 5 osób;
-- **4)** 600 zł gospodarstwu domowemu wieloosobowemu składającemu się z co najmniej 6 osób. pada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków (Dz. U. z 2023 r. poz. 2496 oraz z 2024 r. poz. 1089), do dnia 1 kwietnia 2024 r., albo po tym dniu przypadku głównych źródeł ogrzewania zgłoszonych lub wpisanych po raz pierwszy do centralnej ewidencji emisyjności budynków, o których mowa art. 27g ust. 1 tej ustawy, bon energetyczny przyznaje się wysokości:
-- **1)** 600 zł gospodarstwu domowemu jednoosobowemu;
-- **2)** 800 zł gospodarstwu domowemu wieloosobowemu składającemu się z 2 do 3 osób;
-- **3)** 1000 zł gospodarstwu domowemu wieloosobowemu składającemu się z 4 do 5 osób;
-- **4)** 1200 zł gospodarstwu domowemu wieloosobowemu składającemu się z co najmniej 6 osób.
+- **1)** 300 zł – gospodarstwu domowemu jednoosobowemu;
+- **2)** 400 zł – gospodarstwu domowemu wieloosobowemu składającemu się z 2 do 3 osób;
+- **3)** 500 zł – gospodarstwu domowemu wieloosobowemu składającemu się z 4 do 5 osób;
+- **4)** 600 zł – gospodarstwu domowemu wieloosobowemu składającemu się z co najmniej 6 osób. pada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków (Dz. U. z 2023 r. poz. 2496 oraz z 2024 r. poz. 1089), do dnia 1 kwietnia 2024 r., albo po tym dniu – przypadku głównych źródeł ogrzewania zgłoszonych lub wpisanych po raz pierwszy do centralnej ewidencji emisyjności budynków, o których mowa art. 27g ust. 1 tej ustawy, bon energetyczny przyznaje się wysokości:
+- **1)** 600 zł – gospodarstwu domowemu jednoosobowemu;
+- **2)** 800 zł – gospodarstwu domowemu wieloosobowemu składającemu się z 2 do 3 osób;
+- **3)** 1000 zł – gospodarstwu domowemu wieloosobowemu składającemu się z 4 do 5 osób;
+- **4)** 1200 zł – gospodarstwu domowemu wieloosobowemu składającemu się z co najmniej 6 osób.
 
 9. W przypadku gdy wysokość bonu energetycznego ustalona zgodnie z ust. 2 jest niższa niż 20 zł, ten bon nie przysługuje.
 
@@ -142,7 +146,7 @@ poz. 295, 556 i 1234),” dodaje się wyrazy „bon energetyczny, o którym mowa
 
 2. Wniosek o wypłatę bonu energetycznego składa się na piśmie postaci papierowej albo elektronicznej za pomocą środków komunikacji elektronicznej rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2020 r. poz. 344 oraz z 2024 r. poz. 1222).
 
-3. Wniosek o wypłatę bonu energetycznego postaci papierowej opatruje się własnoręcznym podpisem i składa osobiście odpowiednio wójtowi, burmistrzowi lub prezydentowi miasta właściwemu ze względu na miejsce zamieszkania wnioskodawcy albo nadaje placówce pocztowej operatora pocztowego rozumieniu art. 3 pkt 12 ustawy z dnia 23 listopada 2012 r. Prawo pocztowe (Dz. U. z 2023 r. poz. 1640 oraz z 2024 r. poz. 467 i 1222) lub placówce podmiotu zajmującego się doręczaniem korespondencji na terytorium państw członkowskich Unii Europejskiej, co jest równoznaczne ze złożeniem go odpowiednio wójtowi, burmistrzowi lub prezydentowi miasta.
+3. Wniosek o wypłatę bonu energetycznego postaci papierowej opatruje się własnoręcznym podpisem i składa osobiście odpowiednio wójtowi, burmistrzowi lub prezydentowi miasta właściwemu ze względu na miejsce zamieszkania wnioskodawcy albo nadaje placówce pocztowej operatora pocztowego rozumieniu art. 3 pkt 12 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2023 r. poz. 1640 oraz z 2024 r. poz. 467 i 1222) lub placówce podmiotu zajmującego się doręczaniem korespondencji na terytorium państw członkowskich Unii Europejskiej, co jest równoznaczne ze złożeniem go odpowiednio wójtowi, burmistrzowi lub prezydentowi miasta.
 
 4. Wniosek o wypłatę bonu energetycznego składany postaci elektronicznej opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
 
@@ -152,7 +156,7 @@ poz. 295, 556 i 1234),” dodaje się wyrazy „bon energetyczny, o którym mowa
     - **a)** imię (imiona) i nazwisko,
     - **b)** adres miejsca zamieszkania lub pobytu,
     - **c)** numer PESEL, jeżeli został nadany,
-    - **d)** serię i numer dokumentu stwierdzającego tożsamość przypadku osób, które nie posiadają numeru PESEL,
+    - **d)** serię i numer dokumentu stwierdzającego tożsamość – przypadku osób, które nie posiadają numeru PESEL,
     - **e)** obywatelstwo,
     - **f)** adres poczty elektronicznej, jeżeli wyraża na to zgodę,
     - **g)** numer telefonu, jeżeli wyraża na to zgodę;
@@ -162,7 +166,7 @@ poz. 295, 556 i 1234),” dodaje się wyrazy „bon energetyczny, o którym mowa
 - **4)** numer rachunku płatniczego oraz imię i nazwisko jego właściciela, na który zostanie przekazana kwota bonu energetycznego, jeżeli wnioskodawca chce otrzymać bon na ten rachunek;
 - **5)** informacje niezbędne do ustalenia i weryfikacji dochodów wnioskodawcy;
 - **6)** dane i informacje, o których mowa pkt 1 lit. a–e, pkt 2 i 5, członków gospodarstwa domowego wnioskodawcy, przypadku gospodarstwa domowego wieloosobowego;
-- **7)** oświadczenie o zgodności z prawdą przedstawionych we wniosku informacji. odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. Kodeks karny”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+- **7)** oświadczenie o zgodności z prawdą przedstawionych we wniosku informacji. odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
 7. Minister właściwy do spraw energii określa i udostępnia Biuletynie Informacji Publicznej na stronie podmiotowej obsługującego go urzędu wzór wniosku o wypłatę bonu energetycznego, mając na względzie zapewnienie przejrzystości tego wniosku.
 
@@ -172,7 +176,7 @@ poz. 295, 556 i 1234),” dodaje się wyrazy „bon energetyczny, o którym mowa
 
 **Art. 4.**
 
-1. Wójt, burmistrz lub prezydent miasta dokonuje weryfikacji wniosku o wypłatę bonu energetycznego, szczególności zakresie zgłoszenia lub wpisania głównego źródła ogrzewania do centralnej ewidencji emisyjności budynków, o której mowa art. 27a ust. 1 ustawy z dnia listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków.
+1. Wójt, burmistrz lub prezydent miasta dokonuje weryfikacji wniosku o wypłatę bonu energetycznego, szczególności zakresie zgłoszenia lub wpisania głównego źródła ogrzewania do centralnej ewidencji emisyjności budynków, o której mowa art. 27a ust. 1 ustawy z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków.
 
 2. Dokonując weryfikacji wniosku o wypłatę bonu energetycznego, wójt, burmistrz lub prezydent miasta bierze pod uwagę szczególności:
 
@@ -181,14 +185,14 @@ poz. 295, 556 i 1234),” dodaje się wyrazy „bon energetyczny, o którym mowa
     - **a)** świadczeń rodzinnych oraz dodatków do zasiłku rodzinnego, o których mowa odpowiednio art. 2 i art. 8 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych,
     - **b)** świadczenia wychowawczego, o którym mowa art. 4 ustawy z dnia 11 lutego 2016 r. o pomocy państwa wychowywaniu dzieci (Dz. U. z 2024 r. poz. 1576),
     - **c)** dodatku osłonowego, o którym mowa art. 2 ust. 1 ustawy z dnia 17 grudnia 2021 r. o dodatku osłonowym (Dz. U. z 2024 r. poz. 953),
-    - **d)** dodatku mieszkaniowego, o którym mowa art. 2 ustawy z dnia czerwca 2001 r. o dodatkach mieszkaniowych (Dz. U. z 2023 r. poz. 1335),
+    - **d)** dodatku mieszkaniowego, o którym mowa art. 2 ustawy z dnia 21 czerwca 2001 r. o dodatkach mieszkaniowych (Dz. U. z 2023 r. poz. 1335),
     - **e)** dodatku elektrycznego, o którym mowa art. 27 ust. 1 ustawy z dnia 7 października 2022 r. o szczególnych rozwiązaniach służących ochronie odbiorców energii elektrycznej 2023 roku oraz 2024 roku związku z sytuacją na rynku energii elektrycznej (Dz. U. z 2024 r. poz. 1288);
 
 - **3)** dane zgromadzone rejestrze PESEL oraz rejestrze mieszkańców, o których mowa odpowiednio art. 6 ust. 1 i art. 6a ust. 1 ustawy z dnia 24 września 2010 r. o ewidencji ludności (Dz. U. z 2024 r. poz. 736 i 854).
 
-3. Do ustalenia przez wójta, burmistrza lub prezydenta miasta prawa do bonu energetycznego stosuje się odpowiednio art. 411 ust. 10j, 10l i 10m ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (Dz. U. z 2024 r. poz. 54, 834, 1089 i 1222).
+3. Do ustalenia przez wójta, burmistrza lub prezydenta miasta prawa do bonu energetycznego stosuje się odpowiednio art. 411 ust. 10j, 10l i 10m ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2024 r. poz. 54, 834, 1089 i 1222).
 
-4. Wójt, burmistrz lub prezydent miasta może, na piśmie utrwalonym postaci papierowej lub elektronicznej, upoważnić swojego zastępcę, pracownika urzędu gminy albo kierownika ośrodka pomocy społecznej, a przypadku przekształcenia ośrodka pomocy społecznej centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych (Dz. U. poz. 1818) dyrektora centrum usług społecznych, lub kierownika innej jednostki organizacyjnej gminy, a także inną osobę na wniosek kierownika ośrodka pomocy społecznej, dyrektora centrum usług społecznych lub innej jednostki organizacyjnej gminy do prowadzenia postępowań sprawach dotyczących wypłaty bonu energetycznego.
+4. Wójt, burmistrz lub prezydent miasta może, na piśmie utrwalonym postaci papierowej lub elektronicznej, upoważnić swojego zastępcę, pracownika urzędu gminy albo kierownika ośrodka pomocy społecznej, a przypadku przekształcenia ośrodka pomocy społecznej centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych (Dz. U. poz. 1818) – dyrektora centrum usług społecznych, lub kierownika innej jednostki organizacyjnej gminy, a także inną osobę na wniosek kierownika ośrodka pomocy społecznej, dyrektora centrum usług społecznych lub innej jednostki organizacyjnej gminy do prowadzenia postępowań sprawach dotyczących wypłaty bonu energetycznego.
 
 5. Wniosek o wypłatę bonu energetycznego rozpatruje się terminie 60 dni od dnia jego prawidłowego złożenia.
 
@@ -203,7 +207,7 @@ poz. 295, 556 i 1234),” dodaje się wyrazy „bon energetyczny, o którym mowa
 - **3)** uchylenie lub zmiana prawa do bonu energetycznego;
 - **4)** rozstrzygnięcie sprawie zwrotu bonu energetycznego przyznanego albo pobranego nienależnie lub nieprawidłowo ustalonej wysokości.
 
-10. Wójt, burmistrz lub prezydent miasta przesyła wnioskodawcy informację o przyznaniu bonu energetycznego na wskazany przez niego adres poczty elektronicznej o ile wnioskodawca wskazał adres poczty elektronicznej we wniosku o wypłatę bonu energetycznego. W przypadku gdy wnioskodawca nie wskazał adresu poczty elektronicznej we wniosku o wypłatę bonu energetycznego, wójt, burmistrz lub prezydent miasta, odbierając ten wniosek od wnioskodawcy, informuje go o możliwości odebrania od tego organu informacji o przyznaniu bonu energetycznego.
+10. Wójt, burmistrz lub prezydent miasta przesyła wnioskodawcy informację o przyznaniu bonu energetycznego na wskazany przez niego adres poczty elektronicznej – o ile wnioskodawca wskazał adres poczty elektronicznej we wniosku o wypłatę bonu energetycznego. W przypadku gdy wnioskodawca nie wskazał adresu poczty elektronicznej we wniosku o wypłatę bonu energetycznego, wójt, burmistrz lub prezydent miasta, odbierając ten wniosek od wnioskodawcy, informuje go o możliwości odebrania od tego organu informacji o przyznaniu bonu energetycznego.
 
 11. Nieodebranie informacji o przyznaniu bonu energetycznego nie wstrzymuje wypłaty tego bonu.
 
@@ -238,17 +242,17 @@ poz. 295, 556 i 1234),” dodaje się wyrazy „bon energetyczny, o którym mowa
 
 1. Wójt, burmistrz lub prezydent miasta przedstawia wojewodzie informację o liczbie toczących się postępowań sprawie przyznania bonu energetycznego, których związku z wniesieniem odwołania nie zapadło prawomocne rozstrzygnięcie organu administracji publicznej lub sądu administracyjnego, którego skutkiem jest przyznanie bonu energetycznego, oraz o łącznej wysokości bonów energetycznych będącej przedmiotem tych postępowań, terminie do dnia 31 maja każdego roku okresie od 2025 r. do 2034 r.
 
-2. Wojewodowie przedstawiają ministrowi właściwemu do spraw energii zbiorczą informację o liczbie toczących się postępowań sprawie przyznania bonu energetycznego, których związku z wniesieniem odwołania nie zapadło prawomocne rozstrzygnięcie organu administracji publicznej lub sądu administracyjnego, którego skutkiem jest przyznanie bonu energetycznego, oraz o łącznej wysokości bonów energetycznych będącej przedmiotem tych postępowań, terminie do dnia 30 czerwca każdego roku okresie od 2025 r. do 2034 r. o których mowa art. 89a ust. 2 pkt 1 ustawy z dnia 8 grudnia 2017 r. o rynku mocy (Dz. U. z 2023 r. poz. 2131), stawki opłaty mocowej, o której mowa art. 89a ust. 1 pkt 1 tej ustawy, bez podatku od towarów i usług, wynoszą 0 zł na miesiąc przypadku odbiorców, o których mowa art. 89b ust. 3 tej ustawy.
+2. Wojewodowie przedstawiają ministrowi właściwemu do spraw energii zbiorczą informację o liczbie toczących się postępowań sprawie przyznania bonu energetycznego, których związku z wniesieniem odwołania nie zapadło prawomocne rozstrzygnięcie organu administracji publicznej lub sądu administracyjnego, którego skutkiem jest przyznanie bonu energetycznego, oraz o łącznej wysokości bonów energetycznych będącej przedmiotem tych postępowań, terminie do dnia 30 czerwca każdego roku okresie od 2025 r. do 2034 r. o których mowa art. 89a ust. 2 pkt 1 ustawy z dnia 8 grudnia 2017 r. o rynku mocy (Dz. U. z 2023 r. poz. 2131), stawki opłaty mocowej, o której mowa art. 89a ust. 1 pkt 1 tej ustawy, bez podatku od towarów i usług, wynoszą 0 zł na miesiąc – przypadku odbiorców, o których mowa art. 89b ust. 3 tej ustawy.
 
 2. Podmioty pobierające opłatę mocową, o których mowa art. 69 ust. 2–5b ustawy z dnia 8 grudnia 2017 r. o rynku mocy, pobierają opłatę mocową od odbiorców wskazanych ust. 1 okresie od dnia 1 lipca 2024 r. do dnia 31 grudnia 2024 r. obliczoną zgodnie z zasadami określonymi art. 89a ust. 3 i ust. 4 pkt 1 tej ustawy, z uwzględnieniem stawek, o których mowa ust. 1.
 
 **Art. 29.**
 
-1. Do spraw dotyczących rozliczenia wyrównania, o którym mowa art. 12a ust. 1 ustawy zmienianej art. , wszczętych na podstawie wniosków, o których mowa art. 12b ust. 1 pkt 1 ustawy zmienianej art. , i niezakończonych przed dniem wejścia życie art. , stosuje się przepisy dotychczasowe.
+1. Do spraw dotyczących rozliczenia wyrównania, o którym mowa art. 12a ust. 1 ustawy zmienianej art. 21 , wszczętych na podstawie wniosków, o których mowa art. 12b ust. 1 pkt 1 ustawy zmienianej art. 21 , i niezakończonych przed dniem wejścia życie art. 21 , stosuje się przepisy dotychczasowe.
 
-2. Wniosek o wypłatę wyrównania, o którym mowa art. 12aa ust. 1 ustawy zmienianej art. , za lipiec 2024 r. składa się terminie do dnia 25 września 2024 r.
+2. Wniosek o wypłatę wyrównania, o którym mowa art. 12aa ust. 1 ustawy zmienianej art. 21 , za lipiec 2024 r. składa się terminie do dnia 25 września 2024 r.
 
-3. Do wniosku, o którym mowa art. 12a ust. 9 ustawy zmienianej art. , stosuje się przepisy dotychczasowe.
+3. Do wniosku, o którym mowa art. 12a ust. 9 ustawy zmienianej art. 21 , stosuje się przepisy dotychczasowe.
 
 **Art. 30.**
 
@@ -265,9 +269,9 @@ poz. 295, 556 i 1234),” dodaje się wyrazy „bon energetyczny, o którym mowa
 1. Bank Gospodarstwa Krajowego, celu dostosowania planu finansowego Funduszu Przeciwdziałania COVID-19, o którym mowa art. 65 ust. 1 ustawy zmienianej art. 17 , do przepisów:
 
 - **1)** art. 5 ustawy zmienianej art. 20 brzmieniu nadanym niniejszą ustawą,
-- **2)** art. 30 ustawy zmienianej art. brzmieniu nadanym niniejszą ustawą,
+- **2)** art. 30 ustawy zmienianej art. 21 brzmieniu nadanym niniejszą ustawą,
 - **3)** art. 36 ustawy zmienianej art. 22 brzmieniu nadanym niniejszą ustawą,
-- **4)** art. 23 ustawy zmienianej art. 24 brzmieniu nadanym niniejszą ustawą opracowuje projekt zmiany planu finansowego tego Funduszu i przedstawia go do uzgodnienia ministrowi właściwemu do spraw finansów publicznych oraz do zatwierdzenia Prezesowi Rady Ministrów.
+- **4)** art. 23 ustawy zmienianej art. 24 brzmieniu nadanym niniejszą ustawą – opracowuje projekt zmiany planu finansowego tego Funduszu i przedstawia go do uzgodnienia ministrowi właściwemu do spraw finansów publicznych oraz do zatwierdzenia Prezesowi Rady Ministrów.
 
 2. Prezes Rady Ministrów zatwierdza zmianę planu finansowego terminie 14 dni od dnia przedstawienia projektu tej zmiany.
 
@@ -295,7 +299,7 @@ poz. 295, 556 i 1234),” dodaje się wyrazy „bon energetyczny, o którym mowa
 
 8. Jeżeli weryfikacja, o której mowa ust. 7, wykaże, że wyniku zastosowania ceny maksymalnej rozliczeniach z przedsiębiorcą, o którym mowa ust. 1, dochodzi do naruszenia warunków określonych art. 3 rozporządzenia Komisji, podmiot udzielający pomocy wzywa tego przedsiębiorcę do zwrotu kwoty pomocy de minimis, określonej zgodnie z ust. 3, wskazując tym wezwaniu kwotę zwrotu.
 
-8a. Zwrot pomocy, o którym mowa ust. 8, jest dokonywany ramach rozliczeń za energię elektryczną kolejnych okresach rozliczeniowych, a przypadku gdy podmiot udzielający pomocy nie posiada zawartej z przedsiębiorcą, o którym mowa ust. 1, umowy sprzedaży, o której mowa art. 5 ust. 2 pkt 1 ustawy Prawo energetyczne, albo umowy kompleksowej, o której mowa art. 5 ust. 3 tej ustawy, zwrot pomocy, o którym mowa ust. 8, jest dokonywany na rachunek bankowy wskazany przez podmiot udzielający pomocy wezwaniu, o którym mowa ust. 8, terminie 14 dni od dnia otrzymania tego wezwania. Podmiot udzielający pomocy przekazuje do Zarządcy Rozliczeń zbiorczą informację o wysłanych wezwaniach.
+8a. Zwrot pomocy, o którym mowa ust. 8, jest dokonywany ramach rozliczeń za energię elektryczną kolejnych okresach rozliczeniowych, a przypadku gdy podmiot udzielający pomocy nie posiada zawartej z przedsiębiorcą, o którym mowa ust. 1, umowy sprzedaży, o której mowa art. 5 ust. 2 pkt 1 ustawy – Prawo energetyczne, albo umowy kompleksowej, o której mowa art. 5 ust. 3 tej ustawy, zwrot pomocy, o którym mowa ust. 8, jest dokonywany na rachunek bankowy wskazany przez podmiot udzielający pomocy wezwaniu, o którym mowa ust. 8, terminie 14 dni od dnia otrzymania tego wezwania. Podmiot udzielający pomocy przekazuje do Zarządcy Rozliczeń zbiorczą informację o wysłanych wezwaniach.
 
 9. Podmiot udzielający pomocy dokonuje przekazania zwróconych kwot należnych wraz z ustawowymi odsetkami za opóźnienie, na zasadach określonych art. 13 ustawy zmienianej art. 23 dla zwrotu nienależnie otrzymanej rekompensaty, terminie 14 dni od ich otrzymania na rachunek rekompensaty ceny maksymalnej, o którym mowa ustawie zmienianej art. 23 .
 
@@ -319,7 +323,7 @@ poz. 295, 556 i 1234),” dodaje się wyrazy „bon energetyczny, o którym mowa
 
 7. Jeżeli weryfikacja, o której mowa ust. 6, wykaże, że wyniku zastosowania ceny maksymalnej rozliczeniach z przedsiębiorcą, o którym mowa ust. 1, pomoc publiczna została udzielona powyżej progów, o których mowa art. 4 ust. 1 lit. ea rozporządzenia 651/2014, podmiot udzielający pomocy wzywa tego przedsiębiorcę do zwrotu kwoty pomocy publicznej, określonej zgodnie z ust. 4, wskazując tym wezwaniu kwotę zwrotu.
 
-7a. Zwrot pomocy, o którym mowa ust. 7, jest dokonywany ramach rozliczeń za energię elektryczną kolejnych okresach rozliczeniowych, a przypadku gdy podmiot udzielający pomocy nie posiada zawartej z przedsiębiorcą, o którym mowa ust. 1, umowy sprzedaży, o której mowa art. 5 ust. 2 pkt 1 ustawy Prawo energetyczne, albo umowy kompleksowej, o której mowa art. 5 ust. 3 tej ustawy zwrot pomocy, o którym mowa ust. 7, jest dokonywany na rachunek bankowy wskazany przez podmiot udzielający pomocy wezwaniu, o którym mowa ust. 7, terminie 14 dni od dnia otrzymania tego wezwania. Podmiot udzielający pomocy przekazuje do Zarządcy Rozliczeń zbiorczą informację o wysłanych wezwaniach.
+7a. Zwrot pomocy, o którym mowa ust. 7, jest dokonywany ramach rozliczeń za energię elektryczną kolejnych okresach rozliczeniowych, a przypadku gdy podmiot udzielający pomocy nie posiada zawartej z przedsiębiorcą, o którym mowa ust. 1, umowy sprzedaży, o której mowa art. 5 ust. 2 pkt 1 ustawy – Prawo energetyczne, albo umowy kompleksowej, o której mowa art. 5 ust. 3 tej ustawy – zwrot pomocy, o którym mowa ust. 7, jest dokonywany na rachunek bankowy wskazany przez podmiot udzielający pomocy wezwaniu, o którym mowa ust. 7, terminie 14 dni od dnia otrzymania tego wezwania. Podmiot udzielający pomocy przekazuje do Zarządcy Rozliczeń zbiorczą informację o wysłanych wezwaniach.
 
 8. Podmiot udzielający pomocy dokonuje przekazania zwróconych kwot należnych wraz z ustawowymi odsetkami za opóźnienie, na zasadach określonych art. 13 ustawy zmienianej art. 23 dla zwrotu nienależnie otrzymanej rekompensaty, terminie 14 dni od ich otrzymania na rachunek rekompensaty ceny maksymalnej.
 
@@ -340,17 +344,17 @@ poz. 295, 556 i 1234),” dodaje się wyrazy „bon energetyczny, o którym mowa
 - **2)** kategorię przedsiębiorcy, o którym mowa art. 37 ust. 1 albo art. 38 ust. 1, z uwzględnieniem, czy przedsiębiorca działa sektorze produkcji podstawowej produktów rolnych lub rybołówstwa i akwakultury;
 - **3)** wartość otrzymanej przez: pkt 1,
     - **a)** mikroprzedsiębiorcę pomocy publicznej lub pomocy de minimis formie interwencji publicznych dotyczących cen energii elektrycznej od dnia 1 lipca 2024 r. do dnia 31 grudnia 2024 r. lub
-    - **b)** małego lub średniego przedsiębiorcę pomocy de minimis oraz pomocy de minimis rolnictwie lub rybołówstwie otrzymanej: okresie 3 poprzednich lat przypadku ubiegania się o pomoc de minimis albo okresie 2 poprzednich lat podatkowych oraz bieżącego roku podatkowego przypadku ubiegania się o pomoc de minimis rolnictwie lub rybołówstwie;
+    - **b)** małego lub średniego przedsiębiorcę pomocy de minimis oraz pomocy de minimis rolnictwie lub rybołówstwie otrzymanej: – okresie 3 poprzednich lat – przypadku ubiegania się o pomoc de minimis albo – okresie 2 poprzednich lat podatkowych oraz bieżącego roku podatkowego – przypadku ubiegania się o pomoc de minimis rolnictwie lub rybołówstwie;
     - **b)** niepozostawaniu trudnej sytuacji rozumieniu art. 2 pkt 18 rozporządzenia 651/2014, zgodnie z warunkiem określonym art. 1 ust. 4 lit. c rozporządzenia 651/2014,
     - **c)** braku obowiązku zwrotu pomocy publicznej wynikającego z decyzji Komisji Europejskiej nakazującej zwrot.
 
-2. Informację o pomocy składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń i załącza do niej oświadczenie o następującej treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. Kodeks karny oświadczam, że dane zawarte informacji o pomocy udzielanej na podstawie ustawy z dnia 27 października 2022 r. o środkach nadzwyczajnych mających na celu ograniczenie wysokości cen energii elektrycznej oraz wsparciu niektórych odbiorców latach 2023–2025, złożonej na podstawie ustawy z dnia 23 maja 2024 r. o bonie energetycznym oraz o zmianie niektórych ustaw celu ograniczenia cen energii elektrycznej, gazu ziemnego i ciepła systemowego, są zgodne z prawdą.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+2. Informację o pomocy składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń i załącza do niej oświadczenie o następującej treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny oświadczam, że dane zawarte informacji o pomocy udzielanej na podstawie ustawy z dnia 27 października 2022 r. o środkach nadzwyczajnych mających na celu ograniczenie wysokości cen energii elektrycznej oraz wsparciu niektórych odbiorców latach 2023–2025, złożonej na podstawie ustawy z dnia 23 maja 2024 r. o bonie energetycznym oraz o zmianie niektórych ustaw celu ograniczenia cen energii elektrycznej, gazu ziemnego i ciepła systemowego, są zgodne z prawdą.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
 3. Informację o pomocy składa się na wzorze opublikowanym zgodnie z ust. 7.
 
 4. Informację o pomocy postaci:
 
-- **1)** papierowej, opatrzoną własnoręcznym podpisem, składa się osobiście siedzibie podmiotu udzielającego pomocy lub innych miejscach wykonywania działalności podmiotu udzielającego pomocy przez niego wskazanych albo formie przesyłki polskiej placówce pocztowej operatora pocztowego rozumieniu przepisów ustawy z dnia 23 listopada 2012 r. Prawo pocztowe, placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej, polskim urzędzie konsularnym albo wysyła na adres do doręczeń elektronicznych, o którym mowa art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2024 r. poz. 1045 i 1841), co jest równoznaczne ze złożeniem tej informacji podmiotowi udzielającemu pomocy;
+- **1)** papierowej, opatrzoną własnoręcznym podpisem, składa się osobiście siedzibie podmiotu udzielającego pomocy lub innych miejscach wykonywania działalności podmiotu udzielającego pomocy przez niego wskazanych albo formie przesyłki polskiej placówce pocztowej operatora pocztowego rozumieniu przepisów ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe, placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej, polskim urzędzie konsularnym albo wysyła na adres do doręczeń elektronicznych, o którym mowa art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2024 r. poz. 1045 i 1841), co jest równoznaczne ze złożeniem tej informacji podmiotowi udzielającemu pomocy;
 - **2)** elektronicznej, opatrzoną kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym, składa się za pomocą środków komunikacji elektronicznej rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2024 r. poz. 1513).
 
 5. W przypadku gdy informacja o pomocy zawiera błędy, omyłki pisarskie lub rachunkowe lub braki formalne, podmiot udzielający pomocy wzywa przedsiębiorcę do ich usunięcia wyznaczonym terminie.
@@ -362,27 +366,27 @@ poz. 295, 556 i 1234),” dodaje się wyrazy „bon energetyczny, o którym mowa
 8. Przedsiębiorca, o którym mowa art. 37 ust. 1 lub art. 38 ust. 1, który nabywał energię elektryczną po cenie maksymalnej okresie od dnia 1 lipca 2024 r. do dnia 31 grudnia 2024 r., przypadku:
 
 - **1)** niezłożenia terminie informacji o pomocy lub nieusunięcia wyznaczonym terminie błędów, omyłek pisarskich lub rachunkowych lub braków formalnych informacji o pomocy lub
-- **2)** jeśli ze złożonej informacji o pomocy wynika, że przedsiębiorca, o którym mowa ust. 1, nie spełnia warunków otrzymania pomocy publicznej lub pomocy de minimis rozliczeniach za energię elektryczną ze sprzedawcą energii elektrycznej zwraca różnicę pomiędzy ceną maksymalną a ceną wynikającą z umowy sprzedaży, o której mowa art. 5 ust. 2 pkt 1 ustawy Prawo energetyczne, albo umowy kompleksowej, o której mowa art. 5 ust. 3 tej ustawy, z tym sprzedawcą, wraz z ustawowymi odsetkami naliczanymi od dnia rozliczenia z podmiotem udzielającym pomocy.
+- **2)** jeśli ze złożonej informacji o pomocy wynika, że przedsiębiorca, o którym mowa ust. 1, nie spełnia warunków otrzymania pomocy publicznej lub pomocy de minimis – rozliczeniach za energię elektryczną ze sprzedawcą energii elektrycznej zwraca różnicę pomiędzy ceną maksymalną a ceną wynikającą z umowy sprzedaży, o której mowa art. 5 ust. 2 pkt 1 ustawy – Prawo energetyczne, albo umowy kompleksowej, o której mowa art. 5 ust. 3 tej ustawy, z tym sprzedawcą, wraz z ustawowymi odsetkami naliczanymi od dnia rozliczenia z podmiotem udzielającym pomocy.
 
 **Art. 39.** Do rekompensat, o których mowa art. 8 ust. 1 ustawy zmienianej art. 23 , przysługujących za okres do dnia 30 czerwca 2024 r., stosuje się przepis art. 10 ust. 2 ustawy zmienianej art. 23 brzmieniu dotychczasowym. Przepisu art. 10 ust. 2a ustawy zmienianej art. 23 nie stosuje się.
 
-**Art. 40.** Do rekompensat, o których mowa art. 4 ust. 1 ustawy zmienianej art. 24 , przysługujących za okres do dnia 30 czerwca 2024 r., stosuje się przepis art. 12 ust. 1 ustawy zmienianej art. 24 brzmieniu dotychczasowym. Przepisu art. 12 ust. 1a ustawy zmienianej art. 24 nie stosuje się. art. i mogą być zmieniane.
+**Art. 40.** Do rekompensat, o których mowa art. 4 ust. 1 ustawy zmienianej art. 24 , przysługujących za okres do dnia 30 czerwca 2024 r., stosuje się przepis art. 12 ust. 1 ustawy zmienianej art. 24 brzmieniu dotychczasowym. Przepisu art. 12 ust. 1a ustawy zmienianej art. 24 nie stosuje się. art. 21 i mogą być zmieniane.
 
 **Art. 42.**
 
 1. Maksymalny limit wydatków z budżetu państwa przeznaczonych na wypłatę bonów energetycznych, o których mowa art. 2, latach 2024–2034 wynosi 1 616 000 000 zł, tym:
 
-- **1)** 2024 r. 1 286 000 000 zł;
-- **2)** 2025 r. 320 000 000 zł;
-- **3)** 2026 r. 2 000 000 zł;
-- **4)** 2027 r. 1 000 000 zł;
-- **5)** 2028 r. 1 000 000 zł;
-- **6)** 2029 r. 1 000 000 zł;
-- **7)** 2030 r. 1 000 000 zł;
-- **8)** 2031 r. 1 000 000 zł;
-- **9)** 2032 r. 1 000 000 zł;
-- **10)** 2033 r. 1 000 000 zł;
-- **11)** 2034 r. 1 000 000 zł.
+- **1)** 2024 r. – 1 286 000 000 zł;
+- **2)** 2025 r. – 320 000 000 zł;
+- **3)** 2026 r. – 2 000 000 zł;
+- **4)** 2027 r. – 1 000 000 zł;
+- **5)** 2028 r. – 1 000 000 zł;
+- **6)** 2029 r. – 1 000 000 zł;
+- **7)** 2030 r. – 1 000 000 zł;
+- **8)** 2031 r. – 1 000 000 zł;
+- **9)** 2032 r. – 1 000 000 zł;
+- **10)** 2033 r. – 1 000 000 zł;
+- **11)** 2034 r. – 1 000 000 zł.
 
 2. Minister właściwy do spraw energii monitoruje wykorzystanie limitu wydatków, o którym mowa ust. 1.
 

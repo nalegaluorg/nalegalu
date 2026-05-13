@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 kwietnia 2024 r.
+# o zmianie ustawy – Kodeks cywilny, ustawy o kredycie konsumenckim oraz ustawy o konsumenckiej pożyczce lombardowej
+
+*USTAWA z dnia 20 marca 2024 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +25,6 @@ domain: null
 | Data wydania | 2024-04-29 |
 | Ostatnia zmiana | 2024-05-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000653) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/653/text.pdf) |
-
-Poz. 653
-USTAWA z dnia 20 marca 2024 r.
-o zmianie ustawy – Kodeks cywilny, ustawy o kredycie konsumenckim oraz ustawy o konsumenckiej pożyczce lombardowej
 
 **Art. 1.** W ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2023 r. poz. 1610, 1615, 1890 i 1933) wprowadza się następujące zmiany:
 

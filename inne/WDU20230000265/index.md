@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 9 lutego 2023 OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 11 stycznia 2023 w sprawie ogłoszenia jednolitego tekstu ustawy o gwarancjach wolności sumienia i wyznania
+# w sprawie ogłoszenia jednolitego tekstu ustawy o gwarancjach wolności sumienia i wyznania
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 11 stycznia 2023 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,11 +26,12 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000265) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/265/text.pdf) |
 
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 17 maja 1989 o gwarancjach wolności sumienia i wyznania (Dz. U. z 2022 poz. 1435), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 9 czerwca 2022 o wspieraniu i resocjalizacji nieletnich (Dz. U.
-poz. 1700) oraz zmian wynikających z przepisów ogłoszonych przed dniem 10 stycznia 2023
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 417 ustawy z dnia 9 czerwca 2022 o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700), który stanowi: „Art. 417. Ustawa wchodzi w życie z dniem 1 września 2022 r., z wyjątkiem art. 135 ust. 1 i 2, art. 186 ust. 1 i 2, art. 243 ust. 1, art. 321, art. 324–338 w zakresie okręgowych ośrodków wychowawczych, art. 340 w zakresie okręgowych ośrodków wychowawczych, art. 341 w zakresie okręgowych ośrodków wychowawczych, art. 343, art. 348 w zakresie okręgowych ośrodków wychowawczych, art. 361, art. 363, art. 385 pkt 1 i 2, art. 389 pkt 1 i 3–7, art. 393, art. 400, art. 401 ust. 2 i art. 415 pkt 4, które wchodzą w życie z dniem następującym po dniu ogłoszenia.”.
+1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 17 maja 1989 r. o gwarancjach wolności sumienia i wyznania (Dz. U. z 2022 r. poz. 1435), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U.
+poz. 1700) oraz zmian wynikających z przepisów ogłoszonych przed dniem 10 stycznia 2023 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 417 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700), który stanowi: „Art. 417. Ustawa wchodzi w życie z dniem 1 września 2022 r., z wyjątkiem art. 135 ust. 1 i 2, art. 186 ust. 1 i 2, art. 243 ust. 1, art. 321, art. 324–338 w zakresie okręgowych ośrodków wychowawczych, art. 340 w zakresie okręgowych ośrodków wychowawczych, art. 341 w zakresie okręgowych ośrodków wychowawczych, art. 343, art. 348 w zakresie okręgowych ośrodków wychowawczych, art. 361, art. 363, art. 385 pkt 1 i 2, art. 389 pkt 1 i 3–7, art. 393, art. 400, art. 401 ust. 2 i art. 415 pkt 4, które wchodzą w życie z dniem następującym po dniu ogłoszenia.”.
 Marszałek Sejmu: E. Witek
-USTAWA z dnia 17 maja 1989 o gwarancjach wolności sumienia i wyznania Sejm Rzeczypospolitej Polskiej: wykonując postanowienia Konstytucji Rzeczypospolitej Polskiej o wolności sumienia i wyznania, nawiązując do godnej trwałego szacunku i kontynuacji tradycji tolerancji i wolności religijnej oraz potwierdzającej ją współpracy Polaków różnych wyznań i światopoglądów w rozwoju i pomyślności Ojczyzny, uznając historyczny wkład kościołów i innych związków wyznaniowych w rozwój kultury narodowej oraz krzewienie i umacnianie podstawowych wartości moralnych, kierując się zasadami zawartymi w Powszechnej Deklaracji Praw Człowieka, Międzynarodowym Pakcie Praw Obywatelskich i Politycznych, Akcie Końcowym Konferencji Bezpieczeństwa i Współpracy w Europie oraz Deklaracji Organizacji Narodów Zjednoczonych o wyeliminowaniu wszelkich form nietolerancji i dyskryminacji z powodów religijnych lub przekonań, umacniając warunki do czynnego i równoprawnego uczestnictwa obywateli w życiu publicznym i społecznym, bez względu na ich stosunek do religii, stanowi, co następuje:
+USTAWA z dnia 17 maja 1989 r.
+o gwarancjach wolności sumienia i wyznania Sejm Rzeczypospolitej Polskiej: wykonując postanowienia Konstytucji Rzeczypospolitej Polskiej o wolności sumienia i wyznania, nawiązując do godnej trwałego szacunku i kontynuacji tradycji tolerancji i wolności religijnej oraz potwierdzającej ją współpracy Polaków różnych wyznań i światopoglądów w rozwoju i pomyślności Ojczyzny, uznając historyczny wkład kościołów i innych związków wyznaniowych w rozwój kultury narodowej oraz krzewienie i umacnianie podstawowych wartości moralnych, kierując się zasadami zawartymi w Powszechnej Deklaracji Praw Człowieka, Międzynarodowym Pakcie Praw Obywatelskich i Politycznych, Akcie Końcowym Konferencji Bezpieczeństwa i Współpracy w Europie oraz Deklaracji Organizacji Narodów Zjednoczonych o wyeliminowaniu wszelkich form nietolerancji i dyskryminacji z powodów religijnych lub przekonań, umacniając warunki do czynnego i równoprawnego uczestnictwa obywateli w życiu publicznym i społecznym, bez względu na ich stosunek do religii, stanowi, co następuje:
 
 ### DZIAŁ I Wolność sumienia i wyznania
 
@@ -48,7 +51,7 @@ USTAWA z dnia 17 maja 1989 o gwarancjach wolności sumienia i wyznania Sejm Rzec
 
 2. Korzystanie z wolności sumienia i wyznania nie może prowadzić do uchylania się od wykonywania obowiązków publicznych nałożonych przez ustawy.
 
-3. Ze względu na przekonania religijne lub wyznawane zasady moralne obywatele mogą występować o przeznaczenie do służby zastępczej na zasadach i w trybie określonych w ustawie z dnia 11 marca 2022 o obronie Ojczyzny (Dz. U. poz. 2305).
+3. Ze względu na przekonania religijne lub wyznawane zasady moralne obywatele mogą występować o przeznaczenie do służby zastępczej na zasadach i w trybie określonych w ustawie z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 2305).
 
 **Art. 4.**
 
@@ -126,7 +129,7 @@ USTAWA z dnia 17 maja 1989 o gwarancjach wolności sumienia i wyznania Sejm Rzec
 
 6. Osoby prawne kościołów i innych związków wyznaniowych są zwolnione od opodatkowania i od świadczeń na fundusz gminny i fundusz miejski , od nieruchomości lub ich części, stanowiących własność tych osób lub używanych przez nie na podstawie innego tytułu prawnego na cele niemieszkalne, z wyjątkiem części zajmowanej na wykonywanie działalności gospodarczej.
 
-7. Zwalnia się z należności celnych przywozowych towary przeznaczone na cele charytatywno-opiekuńcze i oświatowo-wychowawcze oraz towary o charakterze kulturalnym przeznaczone na cele kultu, przywożone dla osób prawnych kościołów i innych związków wyznaniowych, w granicach i na warunkach określonych w rozporządzeniu Rady (WE) nr 1186/2009 z dnia 16 listopada 2009 ustanawiającym wspólnotowy system zwolnień celnych (Dz. Urz. UE L 342 z 10.12.2009, str. 23).
+7. Zwalnia się z należności celnych przywozowych towary przeznaczone na cele charytatywno-opiekuńcze i oświatowo-wychowawcze oraz towary o charakterze kulturalnym przeznaczone na cele kultu, przywożone dla osób prawnych kościołów i innych związków wyznaniowych, w granicach i na warunkach określonych w rozporządzeniu Rady (WE) nr 1186/2009 z dnia 16 listopada 2009 r. ustanawiającym wspólnotowy system zwolnień celnych (Dz. Urz. UE L 342 z 10.12.2009, str. 23).
 
 **Art. 14.**
 
@@ -382,7 +385,9 @@ USTAWA z dnia 17 maja 1989 o gwarancjach wolności sumienia i wyznania Sejm Rzec
 
 6. Przed zniesieniem osoby prawnej, o której mowa w art. 32 ust. 3, kościół lub inny związek wyznaniowy zarządza jej likwidację i wyznacza likwidatora informując o tym organ rejestrowy oraz określa przeznaczenie majątku pozostałego po zakończeniu likwidacji.
 
-7. Do obowiązków likwidatora stosuje się odpowiednio art. 37 ustawy z dnia 7 kwietnia 1989 Prawo o stowarzy8. Jeżeli statut kościoła lub innego związku wyznaniowego nie stanowi inaczej, majątek pozostały po zakończeniu postępowania likwidacyjnego kościoła lub innego związku wyznaniowego albo osób prawnych, o których mowa w art. 32 ust. 3, może być przeznaczony wyłącznie na cele charytatywno-opiekuńcze w drodze decyzji organu rejestrowego.
+7. Do obowiązków likwidatora stosuje się odpowiednio art. 37 ustawy z dnia 7 kwietnia 1989 r. Prawo o stowarzyszeniach (Dz. U. z 2020 r. poz. 2261).
+
+8. Jeżeli statut kościoła lub innego związku wyznaniowego nie stanowi inaczej, majątek pozostały po zakończeniu postępowania likwidacyjnego kościoła lub innego związku wyznaniowego albo osób prawnych, o których mowa w art. 32 ust. 3, może być przeznaczony wyłącznie na cele charytatywno-opiekuńcze w drodze decyzji organu rejestrowego.
 
 **Art. 36a.**
 
@@ -400,12 +405,12 @@ USTAWA z dnia 17 maja 1989 o gwarancjach wolności sumienia i wyznania Sejm Rzec
 
 1. Tworzy się Międzykościelną Komisję Regulacyjną, zwaną dalej „Komisją”, w celu ostatecznego uregulowania spraw majątkowych między Państwem a kościołami i ich osobami prawnymi, które zgłosiły roszczenia w trybie i na zasadach określonych w:
 
-- **1)** art. 24–26 ustawy z dnia 13 maja 1994 o stosunku Państwa do Kościoła Ewangelicko-Reformowanego w Rzeczypospolitej Polskiej (Dz. U. z 2015 poz. 483);
-- **2)** art. 37 ustawy z dnia 30 czerwca 1995 o stosunku Państwa do Kościoła Ewangelicko-Metodystycznego w Rzeczypospolitej Polskiej (Dz. U. z 2014 poz. 1712 oraz z 2022 poz. 1700);
-- **3)** art. 40–42 ustawy z dnia 30 czerwca 1995 o stosunku Państwa do Kościoła Chrześcijan Baptystów w Rzeczypospolitej Polskiej (Dz. U. z 2015 poz. 169 oraz z 2022 poz. 1700);
-- **4)** art. 35 ustawy z dnia 30 czerwca 1995 o stosunku Państwa do Kościoła Adwentystów Dnia Siódmego w Rzeczypospolitej Polskiej (Dz. U. z 2022 poz. 2616).
+- **1)** art. 24–26 ustawy z dnia 13 maja 1994 r. o stosunku Państwa do Kościoła Ewangelicko-Reformowanego w Rzeczypospolitej Polskiej (Dz. U. z 2015 r. poz. 483);
+- **2)** art. 37 ustawy z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Ewangelicko-Metodystycznego w Rzeczypospolitej Polskiej (Dz. U. z 2014 r. poz. 1712 oraz z 2022 r. poz. 1700);
+- **3)** art. 40–42 ustawy z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Chrześcijan Baptystów w Rzeczypospolitej Polskiej (Dz. U. z 2015 r. poz. 169 oraz z 2022 r. poz. 1700);
+- **4)** art. 35 ustawy z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Adwentystów Dnia Siódmego w Rzeczypospolitej Polskiej (Dz. U. z 2022 r. poz. 2616).
 
-2. Roszczenia majątkowe wobec Państwa mogą również zgłaszać do Komisji w terminie do dnia 31 grudnia 1998 kościoły i inne związki wyznaniowe, niewymienione w ust. 1, a także krajowe organizacje międzykościelne, jeżeli wskażą we wniosku, że na rzecz Skarbu Państwa przejęto własność nieruchomości lub ich części będących uprzednio własnością tych kościołów i związków wyznaniowych oraz krajowych organizacji międzykościelnych.
+2. Roszczenia majątkowe wobec Państwa mogą również zgłaszać do Komisji w terminie do dnia 31 grudnia 1998 r. kościoły i inne związki wyznaniowe, niewymienione w ust. 1, a także krajowe organizacje międzykościelne, jeżeli wskażą we wniosku, że na rzecz Skarbu Państwa przejęto własność nieruchomości lub ich części będących uprzednio własnością tych kościołów i związków wyznaniowych oraz krajowych organizacji międzykościelnych.
 
 3. Do oceny dopuszczalności postępowania regulacyjnego w sprawach, o których mowa w ust. 2, mają odpowiednie zastosowanie przepisy ustaw wskazanych w ust. 1 pkt 1–4.
 
@@ -415,11 +420,11 @@ USTAWA z dnia 17 maja 1989 o gwarancjach wolności sumienia i wyznania Sejm Rzec
 
 **Art. 38b.**
 
-1. Przedmiotem postępowania regulacyjnego może być również nieodpłatne przekazanie na własność nieruchomości lub ich części, które były własnością kościelnych osób prawnych działających do 1945 na Ziemiach Zachodnich i Północnych, w celu przywrócenia w nich sprawowania kultu religijnego, działalności oświatowo-wychowawczej, charytatywno-opiekuńczej i opiekuńczo-wychowawczej.
+1. Przedmiotem postępowania regulacyjnego może być również nieodpłatne przekazanie na własność nieruchomości lub ich części, które były własnością kościelnych osób prawnych działających do 1945 r. na Ziemiach Zachodnich i Północnych, w celu przywrócenia w nich sprawowania kultu religijnego, działalności oświatowo-wychowawczej, charytatywno-opiekuńczej i opiekuńczo-wychowawczej.
 
 2. W razie niemożności dokonania regulacji, o której mowa w ust. 1, postępowanie ulega umorzeniu.
 
-**Art. 38c.** Majątek nieruchomy, przekazany na własność gminie w trybie ustawy z dnia 10 maja 1990 Przepisy wprowadzające ustawę o samorządzie terytorialnym i ustawę o pracownikach samorządowych (Dz. U. poz. 191, z późn. zm. ), podlega postępowaniu, o którym mowa w art. 38a i 38b.
+**Art. 38c.** Majątek nieruchomy, przekazany na własność gminie w trybie ustawy z dnia 10 maja 1990 r. Przepisy wprowadzające ustawę o samorządzie terytorialnym i ustawę o pracownikach samorządowych (Dz. U. poz. 191, z późn. zm. ), podlega postępowaniu, o którym mowa w art. 38a i 38b.
 
 **Art. 38d.**
 

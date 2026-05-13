@@ -26,21 +26,25 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002414) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2414/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 8 marca 2013 r. o przeciwdziałaniu nadmiernym opóźnieniom transakcjach handlowych (Dz. U. z 2022 r. poz. 893) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 8 marca 2013 r. o przeciwdziałaniu nadmiernym opóźnieniom transakcjach handlowych (Dz. U. z 2022 r. poz. 893) wprowadza następujące zmiany:
 
-**Art. 2.** W ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2022 r. poz. 1634, 1692, 1725, 1747, 1768 i 1964) art. 58 dodaje się ust. 7 brzmieniu: „7. Agencja wykonawcza może nie dochodzić należności z tytułu rekompensaty, o której mowa art. 10 ust. 1 pkt 1 ustawy z dnia 8 marca 2013 r. o przeciwdziałaniu nadmiernym opóźnieniom transakcjach handlowych, jeżeli jej kwota jest równa świadczeniu pieniężnemu rozumieniu tej ustawy albo większa od tego świadczenia.”.
+**Art. 2.** W ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2022 r. poz. 1634, 1692, 1725, 1747, 1768 i 1964) 58 dodaje 7 brzmieniu: „7. Agencja wykonawcza może dochodzić należności z tytułu rekompensaty, o której mowa 10 1 pkt 1 ustawy z dnia 8 marca 2013 r. o przeciwdziałaniu nadmiernym opóźnieniom transakcjach handlowych, jeżeli jej kwota jest równa świadczeniu pieniężnemu rozumieniu tej ustawy albo większa od tego świadczenia.”.
 
 **Art. 3.**
 
-1. Do transakcji handlowych zawartych przed dniem wejścia życie niniejszej ustawy stosuje się przepisy dotychczasowe.
+1. Do transakcji handlowych zawartych przed dniem wejścia życie niniejszej ustawy stosuje przepisy dotychczasowe.
 
-2. W przypadku transakcji handlowych zawieranych wyniku przeprowadzenia postępowań o udzielenie zamówienia publicznego na podstawie ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych (Dz. U. z 2022 r. poz. 1710, 1812, 1933 i 2185), wszczętych przed dniem wejścia życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
+2. W przypadku transakcji handlowych zawieranych wyniku przeprowadzenia postępowań o udzielenie zamówienia publicznego na podstawie ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2022 r. poz. 1710, 1812, 1933 i 2185), wszczętych przed dniem wejścia życie niniejszej ustawy, stosuje przepisy dotychczasowe.
 
-3. Przepisu art. 9a ustawy zmienianej art. 1 nie stosuje się transakcji handlowych zawartych przed dniem wejścia życie art. 1 pkt 4 niniejszej ustawy, a także transakcji handlowych zawartych wyniku przeprowadzenia postępowań o udzielenie zamówienia publicznego na podstawie ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych, wszczętych przed tym dniem.
+3. Przepisu 9a ustawy zmienianej 1 stosuje do transakcji handlowych zawartych przed dniem wejścia życie 1 pkt 4 niniejszej ustawy, a także transakcji handlowych zawartych wyniku przeprowadzenia postępowań o udzielenie zamówienia publicznego na podstawie ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych, wszczętych przed tym dniem.
 
-4. Podmiot, który przekazał sprawozdanie, o którym mowa art. 13a ust. 1 ustawy zmienianej art. 1, za rok 2020 lub rok 2021 może złożyć korektę tego sprawozdania obejmującą dane, o których mowa art. 13a ust. 4 ustawy zmienianej art. 1 brzmieniu dotychczasowym.
+4. Podmiot, który przekazał sprawozdanie, o którym mowa 13a 1 ustawy zmienianej 1, za rok 2020 lub rok 2021 może złożyć korektę tego sprawozdania obejmującą dane, o mowa 13a 4 ustawy zmienianej 1 brzmieniu dotychczasowym.
 
-5. Do przekazywania sprawozdań, o których mowa art. 13a ust. 1 ustawy zmienianej art. 1, za rok 2022 i ich korekt stosuje się przepisy ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą.
+5. Do przekazywania sprawozdań, o mowa 13a 1 ustawy zmienianej 1, za rok 2022 i ich korekt stosuje przepisy ustawy zmienianej 1 brzmieniu nadanym niniejszą ustawą.
+
+6. Do postępowań sprawie nadmiernego opóźniania ze spełnianiem pieniężnych, wszczętych i niezakończonych przed dniem wejścia życie niniejszej ustawy, stosuje przepisy ustawy zmienianej 1 brzmieniu dotychczasowym. ustawy zmienianej 1, zawiera również wykaz jednostkowych kar, o mowa 13v 2 ustawy zmienianej 1 brzmieniu dotychczasowym.
+
+**Art. 4.** Do transakcji handlowych zawartych przed dniem wejścia życie niniejszej ustawy przepis 58 7 ustawy zmienianej 2 stosuje przypadku, gdy należność z tytułu rekompensaty, o której mowa 10 1 pkt 1 ustawy zmienianej 1, stała wymagalna wcześniej niż dniu wejścia życie niniejszej ustawy.
 
 **Art. 5.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 

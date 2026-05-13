@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 5 stycznia 2022 r.
+# o zmianie ustawy – Prawo zamówień publicznych oraz ustawy o niektórych umowach zawieranych w związku z realizacją zamówień o podstawowym znaczeniu dla bezpieczeństwa państwa
+
+*USTAWA z dnia 2 grudnia 2021 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +25,6 @@ domain: null
 | Data wydania | 2022-01-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000025) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/25/text.pdf) |
-
-Poz. 25
-USTAWA z dnia 2 grudnia 2021 r.
-o zmianie ustawy – Prawo zamówień publicznych oraz ustawy o niektórych umowach zawieranych w związku z realizacją zamówień o podstawowym znaczeniu dla bezpieczeństwa państwa
 
 **Art. 1.** W ustawie z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2021 r. poz. 1129, 1598, 2054 i 2269) wprowadza się następujące zmiany:
 

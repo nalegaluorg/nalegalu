@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 22 marca 2024 r.
+# o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej
+
+*USTAWA z dnia 11 maja 2001 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,36 +26,6 @@ domain: null
 | Ostatnia zmiana | 2026-03-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000433) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/433/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 11 marca 2024 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 11 maja 2001 r. o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej (Dz. U. z 2020 r. poz. 1903), z uwzględnieniem zmian wprowadzonych ustawą z dnia 14 kwietnia 2023 r. o zmianie ustawy o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej oraz niektórych innych ustaw (Dz. U. poz. 877) oraz zmian wynikających z przepisów ogłoszonych przed dniem 7 marca 2024 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 12–16, art. 18 ust. 1, art. 20 i art. 22 ustawy z dnia 14 kwietnia 2023 r. o zmianie ustawy o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej oraz niektórych innych ustaw (Dz. U. poz. 877), które stanowią: „Art. 12. 1. Produkty jednorazowego użytku z tworzyw sztucznych wymienione w załączniku nr 7 do ustawy zmienianej w art. 1 oraz wyroby wykonane z oksydegradowalnych tworzyw sztucznych wprowadzone do obrotu przed dniem wejścia w życie niniejszej ustawy mogą być sprzedawane albo przekazywane nieodpłatnie nabywcom na terytorium kraju lub wykorzystane na użytek własny do wyczerpania zapasów tych produktów i wyrobów.
-2. Produkty jednorazowego użytku z tworzyw sztucznych wymienione w załączniku nr 8 do ustawy zmienianej w art. 1 wprowadzone do obrotu bez wymaganego oznakowania przed dniem wejścia w życie niniejszej ustawy mogą być sprzedawane albo przekazywane nieodpłatnie nabywcom na terytorium kraju lub wykorzystane na użytek własny do wyczerpania zapasów tych produktów.
-
-**Art. 13.** Przedsiębiorcy, o których mowa w art. 3b ust. 1 i 2 ustawy zmienianej w art. 1, autoryzowani przedstawiciele, o których mowa w art. 8a ust. 1 tej ustawy, oraz przedsiębiorcy wprowadzający do obrotu produkty jednorazowego użytku z tworzyw sztucznych lub narzędzia połowowe zawierające tworzywa sztuczne, są obowiązani do złożenia wniosku o wpis do rejestru, o którym mowa w art. 49 ust. 1 ustawy zmienianej w art. 6 w brzmieniu nadanym niniejszą ustawą, w terminie 3 miesięcy od dnia wejścia w życie niniejszej ustawy i mogą prowadzić działalność bez posiadania takiego wpisu do dnia jego uzyskania, pod warunkiem złożenia wniosku w tym terminie.
-
-**Art. 14.**
-
-1. Sprawozdanie, o którym mowa w art. 73 ust. 1 ustawy zmienianej w art. 6 w brzmieniu nadanym niniejszą ustawą, składane za rok 2023 przez:
-
-- **1)** przedsiębiorców, o których mowa w art. 3b ust. 1 i 2 ustawy zmienianej w art. 1 nie obejmuje informacji o wysokości należnej opłaty, o której mowa w art. 3b ust. 1 tej ustawy;
-- **2)** przedsiębiorców, o których mowa w art. 3k ust. 1 i 2 ustawy zmienianej w art. 1 nie obejmuje informacji o wysokości należnej opłaty, o której mowa w art. 3k ust. 1 i 2 tej ustawy;
-- **3)** przedsiębiorców, o których mowa w art. 11b ust. 1 pkt 1 ustawy zmienianej w art. 1 nie obejmuje informacji, o których mowa w art. 73 ust. 2 pkt 3a lit. h ustawy zmienianej w art. 6 w brzmieniu nadanym niniejszą ustawą.
-
-2. W przypadku, o którym mowa w ust. 1, sprawozdanie za rok 2023 obejmuje okres od dnia wejścia w życie niniejszej ustawy do dnia 31 grudnia 2023 r.
-
-3. Przedsiębiorcy, o których mowa w art. 8d ust. 1 ustawy zmienianej w art. 1, lub autoryzowani przedstawiciele, o których mowa w art. 8a ust. 1 ustawy zmienianej w art. 1, wyznaczeni przez producentów, o których mowa w art. 2 pkt 9d lit. a ustawy zmienianej w art. 1, w zakresie sprzedaży narzędzi połowowych zawierających tworzywa sztuczne, sporządzają po raz pierwszy sprawozdanie, o którym mowa w art. 73 ust. 1 ustawy zmienianej w art. 6 w brzmieniu nadanym niniejszą ustawą, za rok 2024.
-
-**Art. 15.**
-
-1. W przypadku trwałego zaprzestania wykonywania działalności w roku 2024 przez przedsiębiorcę wprowadzającego do obrotu narzędzia połowowe zawierające tworzywa sztuczne wniosek, o którym mowa w art. 8d ust. 9 ustawy zmienianej w art. 1, składa się w postaci papierowej, w terminie 2 dni od dnia zaprzestania wykonywania działalności.
-
-2. W przypadku, o którym mowa w ust. 1, przedsiębiorca prowadzący portowe urządzenia do odbioru odpadów lub przedsiębiorca prowadzący inne równoważne systemy zbierania sporządzają zaświadczenie, o którym mowa w art. 8d ust. 9 ustawy zmienianej w art. 1, w postaci papierowej, w terminie 2 dni od dnia otrzymania wniosku, o którym mowa w tym przepisie.
-
-**Art. 16.** Inspekcja Handlowa przeprowadza kontrole przestrzegania przepisów art. 3b ust. 1–3 ustawy zmienianej w art. 1 przez przedsiębiorców prowadzących jednostki handlu detalicznego, jednostki handlu hurtowego, jednostki gastronomiczne lub pakujących i oferujących napoje lub żywność za pomocą urządzenia vendingowego po raz pierwszy w roku 2024, przy czym kontrole przestrzegania przepisów art. 3b ust. 3 tej ustawy przeprowadza się od dnia 1 lipca 2024 r.”
-
-**Art. 18.** „1. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 14 ust. 4 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 14 ust. 4 ustawy zmienianej w art. 1, jednak nie dłużej niż przez 24 miesiące od dnia wejścia w życie niniejszej ustawy.” „Art. 20. Przepisy art. 3b ust. 1 i 2, art. 3c ust. 1, art. 3d–3g, art. 3k, art. 3l ust. 1 i 3, art. 3m, art. 3n, art. 8d, art. 11b oraz art. 40a pkt 1, 2, 12, 13 i 15 ustawy zmienianej w art. 1 stosuje się od dnia 1 stycznia 2024 r.” „Art. 22. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
-
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.**
@@ -63,18 +35,19 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o obowiązkach przedsiębiorców
 - **1)** obowiązki przedsiębiorców wprowadzających do obrotu produkty,
 - **2)** zasady postępowania z odpadami powstałymi z produktów,
 - **3)** zasady ustalania i pobierania opłaty produktowej,
-- **4)** środki służące ochronie środowiska i ochronie życia ludzi przez zapobieganie niekorzystnemu wpływowi niektórych produktów z tworzyw sztucznych, w szczególności na środowisko wodne i zdrowie człowieka, oraz zmniejszanie tego wpływu w celu zapobiegania powstawaniu odpadów powstałych z produktów, ograniczenia ich negatywnego oddziaływania na środowisko oraz zapewnienia wysokiego poziomu odzysku i recyklingu odpadów powstałych z produktów.
+- **4)** środki służące ochronie środowiska i ochronie życia ludzi przez zapobieganie niekorzystnemu wpływowi niektórych produktów z tworzyw sztucznych, w szczególności na środowisko wodne i zdrowie człowieka, oraz zmniejszanie tego wpływu – w celu zapobiegania powstawaniu odpadów powstałych z produktów, ograniczenia ich negatywnego oddziaływania na środowisko oraz zapewnienia wysokiego poziomu odzysku i recyklingu odpadów powstałych z produktów.
 
 2. W sprawach dotyczących postępowania z odpadami powstałymi z produktów w zakresie nieuregulowanym ustawą stosuje się przepisy o odpadach.
 
-3. Przepisy ustawy nie naruszają postanowień działu II w tytule I ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (Dz. U. z 2024 r. poz. 54).
+3. Przepisy ustawy nie naruszają postanowień działu II w tytule I ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2024 r. poz. 54).
 
 **Art. 2.** Ilekroć w ustawie jest mowa o:
 
 **Art. 2a.**
 
-- **18)** 1. Wprowadzenie do obrotu następuje w dniu:
-- **1)** wydania produktu z magazynu albo przekazania go osobie trzeciej w przypadku produktu wytworzonego na terytorium kraju;
+1. Wprowadzenie do obrotu następuje w dniu:
+
+- **1)** wydania produktu z magazynu albo przekazania go osobie trzeciej – w przypadku produktu wytworzonego na terytorium kraju;
 - **2)** wystawienia faktury potwierdzającej przywóz produktu na terytorium kraju z terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej albo dokumentu celnego potwierdzającego przywóz produktu na terytorium kraju z terytorium państwa niebędącego państwem członkowskim Unii Europejskiej;
 - **3)** przywozu produktu na terytorium kraju w celu wprowadzenia do obrotu.
 
@@ -92,7 +65,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o obowiązkach przedsiębiorców
 
 2a. (uchylony) 2b. Przedsiębiorca, o którym mowa w ust. 1, wprowadzający na terytorium kraju produkty wymienione w załączniku nr 4a w poz. 2, jest obowiązany osiągnąć do dnia 31 grudnia 2020 r. poziom odzysku i recyklingu odpadów powstałych z tego rodzaju produktów co najmniej w wysokości określonej w załączniku nr 4a do ustawy.
 
-3. Poziom odzysku i recyklingu odpadów powstałych w danym roku kalendarzowym z produktów wymienionych w załączniku nr 4a do ustawy stanowi wyrażona w procentach wartość ilorazu masy odpadów powstałych z tych produktów poddanych odpowiednio odzyskowi lub recyklingowi w tym roku kalendarzowym oraz masy tych produktów wprowadzonych do obrotu w poprzednim roku kalendarzowym, a w przypadku przedsiębiorcy, który w poprzednim roku kalendarzowym nie wprowadzał do obrotu produktów wymienionych w załączniku nr 4a do ustawy w stosunku do masy tych produktów wprowadzonych do obrotu w danym roku kalendarzowym.
+3. Poziom odzysku i recyklingu odpadów powstałych w danym roku kalendarzowym z produktów wymienionych w załączniku nr 4a do ustawy stanowi wyrażona w procentach wartość ilorazu masy odpadów powstałych z tych produktów poddanych odpowiednio odzyskowi lub recyklingowi w tym roku kalendarzowym oraz masy tych produktów wprowadzonych do obrotu w poprzednim roku kalendarzowym, a w przypadku przedsiębiorcy, który w poprzednim roku kalendarzowym nie wprowadzał do obrotu produktów wymienionych w załączniku nr 4a do ustawy – w stosunku do masy tych produktów wprowadzonych do obrotu w danym roku kalendarzowym.
 
 3a. (uchylony) 3b. (uchylony)
 
@@ -116,7 +89,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o obowiązkach przedsiębiorców
 
 9a. Przy obliczaniu osiągniętych poziomów odzysku odpadów powstałych z produktów wymienionych w załączniku nr 4a do ustawy do odzysku zalicza się procesy R1–R9 i R13 wymienione w załączniku nr 1 do ustawy z dnia 14 grudnia 2012 r. o odpadach.
 
-9b. Przy obliczaniu osiągniętych poziomów recyklingu odpadów powstałych z produktów wymienionych w załączniku nr 4a do ustawy do recyklingu zalicza się procesy R2–R9 wymienione w załączniku nr 1 do ustawy z dnia 14 grudnia 2012 r. o odpadach.
+9b. Przy obliczaniu osiągniętych poziomów r ecyklingu odpadów powstałych z produktów wymienionych w załączniku nr 4a do ustawy do recyklingu zalicza się procesy R2–R9 wymienione w załączniku nr 1 do ustawy z dnia 14 grudnia 2012 r. o odpadach.
 
 10. Przy obliczaniu osiągniętych poziomów recyklingu przez danego przedsiębiorcę do masy olejów odpadowych poddanych recyklingowi dodaje się masę olejów bazowych pochodzących z regeneracji zebranych na terytorium kraju olejów odpadowych zużytych do wytworzenia wprowadzonych do obrotu olejów smarowych, z zastrzeżeniem spełnienia warunków określonych w ust. 12 oraz w przepisach wydanych na podstawie ust. 13.
 
@@ -146,9 +119,9 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o obowiązkach przedsiębiorców
 
 **Art. 3b.**
 
-- **26)** 1. Przedsiębiorca prowadzący jednostkę handlu detalicznego, jednostkę handlu hurtowego lub jednostkę gastronomiczną, w których są oferowane produkty jednorazowego użytku z tworzyw sztucznych wymienione w załączniku nr 6 do ustawy będące opakowaniami lub napoje lub żywność pakowane przez tego przedsiębiorcę w te produkty, jest obowiązany do pobrania opłaty od użytkownika końcowego nabywającego te produkty lub napoje lub żywność w tych produktach, zwanej dalej „opłatą”.
+1. Przedsiębiorca prowadzący jednostkę handlu detalicznego, jednostkę handlu hurtowego lub jednostkę gastronomiczną, w których są oferowane produkty jednorazowego użytku z tworzyw sztucznych wymienione w załączniku nr 6 do ustawy będące opakowaniami lub napoje lub żywność pakowane przez tego przedsiębiorcę w te produkty, jest obowiązany do pobrania opłaty od użytkownika końcowego nabywającego te produkty lub napoje lub żywność w tych produktach, zwanej dalej „opłatą”.
 
-2. Do pobrania opłaty jest również obowiązany przedsiębiorca pakujący i oferujący za pomocą urządzenia vendingowego, w tym umieszczonego także w miejscach innych niż jednostki handlu detalicznego, jednostki handlu hurtowego lub jednostki gastronomiczne napoje lub żywność w produktach jednorazowego użytku z tworzyw sztucznych wymienionych w załączniku nr 6 do ustawy będących opakowaniami.
+2. Do pobrania opłaty jest również obowiązany przedsiębiorca pakujący i oferujący – za pomocą urządzenia vendingowego, w tym umieszczonego także w miejscach innych niż jednostki handlu detalicznego, jednostki handlu hurtowego lub jednostki gastronomiczne – napoje lub żywność w produktach jednorazowego użytku z tworzyw sztucznych wymienionych w załączniku nr 6 do ustawy będących opakowaniami.
 
 3. Przedsiębiorca, o którym mowa w ust. 1, jest obowiązany do zapewnienia dostępności opakowań alternatywnych do produktów jednorazowego użytku z tworzyw sztucznych wymienionych w załączniku nr 6 do ustawy będących opakowaniami, wytworzonych z materiałów innych niż tworzywa sztuczne, w tym innych niż tworzywa sztuczne ulegające biodegradacji, lub dostępności opakowań wielokrotnego użytku.
 
@@ -156,17 +129,15 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o obowiązkach przedsiębiorców
 
 **Art. 3c.**
 
-- **26)** 1. Maksymalna stawka opłaty za sztukę produktu jednorazowego użytku z tworzyw sztucznych wymienionego w załączniku nr 6 do ustawy będącego opakowaniem wynosi 1 zł.
+1. Maksymalna stawka opłaty za sztukę produktu jednorazowego użytku z tworzyw sztucznych wymienionego w załączniku nr 6 do ustawy będącego opakowaniem wynosi 1 zł.
 
 2. Minister właściwy do spraw klimatu w porozumieniu z ministrem właściwym do spraw finansów publicznych oraz ministrem właściwym do spraw gospodarki określi, w drodze rozporządzenia, stawki opłaty za sztukę produktu jednorazowego użytku z tworzyw sztucznych wymienionego w załączniku nr 6 do ustawy będącego opakowaniem, kierując się koniecznością trwałego zmniejszenia zużycia tych produktów oraz mając na uwadze negatywny wpływ tworzyw sztucznych na środowisko, a także akceptowalny społecznie poziom stawki opłaty.
 
-**Art. 3d.**
-
-- **29)** Przedsiębiorcy, o których mowa w art. 3b ust. 1 i 2, wnoszą pobraną opłatę na odrębny rachunek bankowy prowadzony przez marszałka województwa właściwego ze względu na miejsce jej pobrania, w terminie do dnia 15 marca roku następującego po roku kalendarzowym, w którym została pobrana.
+**Art. 3d.** Przedsiębiorcy, o których mowa w art. 3b ust. 1 i 2, wnoszą pobraną opłatę na odrębny rachunek bankowy prowadzony przez marszałka województwa właściwego ze względu na miejsce jej pobrania, w terminie do dnia 15 marca roku następującego po roku kalendarzowym, w którym została pobrana.
 
 **Art. 3e.**
 
-- **29)** 1. W przypadku gdy przedsiębiorcy, o których mowa w art. 3b ust. 1 i 2, nie wnieśli opłaty albo wnieśli opłatę niższą od należnej, marszałek województwa określa, w drodze decyzji, wysokość zaległości z tytułu tej opłaty, stosując stawkę opłaty z roku kalendarzowego, w którym dany przedsiębiorca był obowiązany do pobrania opłaty.
+1. W przypadku gdy przedsiębiorcy, o których mowa w art. 3b ust. 1 i 2, nie wnieśli opłaty albo wnieśli opłatę niższą od należnej, marszałek województwa określa, w drodze decyzji, wysokość zaległości z tytułu tej opłaty, stosując stawkę opłaty z roku kalendarzowego, w którym dany przedsiębiorca był obowiązany do pobrania opłaty.
 
 2. W przypadku niewykonania decyzji, o której mowa w ust. 1, marszałek województwa ustala, w drodze decyzji, dodatkową opłatę w wysokości odpowiadającej 50 % kwoty niewniesionej opłaty.
 
@@ -174,19 +145,17 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o obowiązkach przedsiębiorców
 
 **Art. 3f.**
 
-- **29)** 1. Marszałek województwa prowadzi odrębny rachunek bankowy w celu gromadzenia i przekazywania wpływów z tytułu opłaty, opłaty, o której mowa w art. 3e ust. 1, oraz dodatkowej opłaty, o której mowa w art. 3e ust. 2.
+1. Marszałek województwa prowadzi odrębny rachunek bankowy w celu gromadzenia i przekazywania wpływów z tytułu opłaty, opłaty, o której mowa w art. 3e ust. 1, oraz dodatkowej opłaty, o której mowa w art. 3e ust. 2.
 
 2. Wpływy z tytułu opłaty, opłaty, o której mowa w art. 3e ust. 1, oraz dodatkowej opłaty, o której mowa w art. 3e ust. 2, powiększone o przychody z oprocentowania rachunku bankowego i pomniejszone o dochody, o których mowa w ust. 3, marszałek województwa przekazuje na rachunek bankowy Narodowego Funduszu w terminie 30 dni po upływie każdego kwartału.
 
 3. Wpływy z tytułu opłaty, opłaty, o której mowa w art. 3e ust. 1, oraz dodatkowej opłaty, o której mowa w art. 3e ust. 2, stanowią w wysokości 5 % dochody budżetu samorządu województwa z przeznaczeniem na koszty egzekucji należności z tytułu tych opłat i obsługę administracyjną systemu ich poboru.
 
-**Art. 3g.**
-
-- **29)** W sprawach dotyczących opłaty, opłaty, o której mowa w art. 3e ust. 1, oraz dodatkowej opłaty, o której mowa w art. 3e ust. 2, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2023 r. poz. 2383 i 2760), z tym że uprawnienia organów podatkowych przysługują marszałkowi województwa.
+**Art. 3g.** W sprawach dotyczących opłaty, opłaty, o której mowa w art. 3e ust. 1, oraz dodatkowej opłaty, o której mowa w art. 3e ust. 2, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2023 r. poz. 2383 i 2760), z tym że uprawnienia organów podatkowych przysługują marszałkowi województwa.
 
 **Art. 3h.**
 
-- **26)** 1. Przedsiębiorcy, o których mowa w art. 3b ust. 1 i 2, są obowiązani do prowadzenia, w postaci papierowej albo elektronicznej, ewidencji liczby nabytych i wydanych użytkownikom końcowym produktów jednorazowego użytku z tworzyw sztucznych wymienionych w załączniku nr 6 do ustawy będących opakowaniami w danym roku kalendarzowym przez danego przedsiębiorcę.
+1. Przedsiębiorcy, o których mowa w art. 3b ust. 1 i 2, są obowiązani do prowadzenia, w postaci papierowej albo elektronicznej, ewidencji liczby nabytych i wydanych użytkownikom końcowym produktów jednorazowego użytku z tworzyw sztucznych wymienionych w załączniku nr 6 do ustawy będących opakowaniami w danym roku kalendarzowym przez danego przedsiębiorcę.
 
 2. Przedsiębiorca prowadzący więcej niż jedną jednostkę handlu detalicznego, jednostkę handlu hurtowego lub jednostkę gastronomiczną, o których mowa w art. 3b ust. 1, prowadzi ewidencję, o której mowa w ust. 1, oddzielnie dla poszczególnych jednostek.
 
@@ -194,17 +163,14 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o obowiązkach przedsiębiorców
 
 4. Przedsiębiorcy, o których mowa w art. 3b ust. 1 i 2, są obowiązani do przechowywania informacji zawartych w ewidencji, o której mowa w ust. 1, przez 5 lat, licząc od końca roku kalendarzowego, którego informacje dotyczą.
 
-**Art. 3i.**
+**Art. 3i.** Zakazuje się wprowadzania do obrotu produktów jednorazowego użytku z tworzyw sztucznych wymienionych w załączniku nr 7 do ustawy oraz wyrobów wykonanych z oksydegradowalnych tworzyw sztucznych.
 
-- **26)** Zakazuje się wprowadzania do obrotu produktów jednorazowego użytku z tworzyw sztucznych wymienionych w załączniku nr 7 do ustawy oraz wyrobów wykonanych z oksydegradowalnych tworzyw sztucznych.
-
-**Art. 3j.**
-
-- **26)** Przedsiębiorca wprowadzający do obrotu produkty jednorazowego użytku z tworzyw sztucznych wymienione w załączniku nr 8 do ustawy jest obowiązany do zapewnienia umieszczenia na opakowaniach tych produktów lub na samych produktach oznakowania na zasadach określonych w rozporządzeniu wykonawczym Komisji (UE) 2020/2151 z dnia 17 grudnia 2020 r. ustanawiającym zasady dotyczące zharmonizowanych specyfikacji w odniesieniu do oznakowania produktów jednorazowego użytku z tworzyw sztucznych wymienionych w części D załącznika do dyrektywy Parlamentu Europejskiego i Rady (UE) 2019/904 w sprawie zmniejszenia wpływu niektórych produktów z tworzyw sztucznych na środowisko (Dz. Urz. UE L 428 z 18.12.2020, str. 57, z późn. zm. ) i zgodnie ze wzorami określonymi w tym rozporządzeniu.
+**Art. 3j.** Przedsiębiorca wprowadzający do obrotu produkty jednorazowego użytku z tworzyw sztucznych wymienione w załączniku nr 8 do ustawy jest obowiązany do zapewnienia umieszczenia na opakowaniach tych produktów lub na samych produktach oznakowania na zasadach określonych w rozporządzeniu wykonawczym Komisji (UE) 2020/2151 z dnia 17 grudnia 2020 r. ustanawiającym zasady dotyczące zharmonizowanych specyfikacji w odniesieniu do oznakowania produktów jednorazowego użytku z tworzyw sztucznych wymienionych w części D załącznika do dyrektywy Parlamentu Europejskiego i Rady (UE) 2019/904 w sprawie zmniejszenia wpływu niektórych produktów z tworzyw sztucznych na środowisko (Dz. Urz. UE L 428 z 18.12.2020, str. 57, z późn. zm. ) i zgodnie ze wzorami określonymi w tym rozporządzeniu.
 
 **Art. 3k.**
 
-- **29)** 1. Przedsiębiorca wprowadzający do obrotu produkty jednorazowego użytku z tworzyw sztucznych wymienione w sekcjach I i III załącznika nr 9 do ustawy jest obowiązany do ponoszenia corocznej opłaty na pokrycie kosztów:
+1. Przedsiębiorca wprowadzający do obrotu produkty jednorazowego użytku z tworzyw sztucznych wymienione w sekcjach I i III załącznika nr 9 do ustawy jest obowiązany do ponoszenia corocznej opłaty na pokrycie kosztów:
+
 - **1)** zbierania odpadów powstałych z produktów tego samego rodzaju, które wprowadził do obrotu, pozostawionych w publicznych systemach zbierania odpadów, w tym na pokrycie kosztów utworzenia i utrzymania tych systemów, transportu tych odpadów i ich przetwarzania;
 - **2)** uprzątania oraz transportu i przetwarzania odpadów powstałych z produktów tego samego rodzaju jak odpady powstałe z produktów, które wprowadził do obrotu.
 
@@ -216,20 +182,21 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o obowiązkach przedsiębiorców
 
 **Art. 3l.**
 
-- **26)** 1. Maksymalne stawki opłaty, o której mowa w art. 3k ust. 1 i 2, wynoszą:
-- **1)** 0,20 zł za 1 kg oddzielnie dla każdego rodzaju wprowadzonego do obrotu produktu jednorazowego użytku z tworzyw sztucznych wymienionego w sekcji I załącznika nr 9 do ustawy;
-- **2)** 0,03 zł za sztukę oddzielnie dla każdego rodzaju wprowadzonego do obrotu produktu jednorazowego użytku z tworzyw sztucznych wymienionego w sekcjach II i III załącznika nr 9 do ustawy.
+1. Maksymalne stawki opłaty, o której mowa w art. 3k ust. 1 i 2, wynoszą:
+
+- **1)** 0,20 zł za 1 kg – oddzielnie dla każdego rodzaju wprowadzonego do obrotu produktu jednorazowego użytku z tworzyw sztucznych wymienionego w sekcji I załącznika nr 9 do ustawy;
+- **2)** 0,03 zł za sztukę – oddzielnie dla każdego rodzaju wprowadzonego do obrotu produktu jednorazowego użytku z tworzyw sztucznych wymienionego w sekcjach II i III załącznika nr 9 do ustawy.
 
 2. Minister właściwy do spraw klimatu w porozumieniu z ministrem właściwym do spraw finansów publicznych oraz ministrem właściwym do spraw gospodarki określi, w drodze rozporządzenia, stawki opłaty, o której mowa w art. 3k ust. 1 i 2, dla każdego rodzaju produktu jednorazowego użytku z tworzyw sztucznych wymienionego w załączniku nr 9 do ustawy, kierując się rodzajami produktów objętych opłatą, koniecznością pokrycia, w niezbędnym zakresie, kosztów zagospodarowania odpadów powstałych z tych produktów oraz utworzenia i utrzymania publicznych systemów zbierania, a także proporcjonalnością stawki opłaty do kosztów, o których mowa w art. 3k ust. 1 i 2.
 
 3. Przedsiębiorca wprowadzający do obrotu produkty jednorazowego użytku z tworzyw sztucznych wymienione w:
 
 - **1)** sekcjach I i III załącznika nr 9 do ustawy albo
-- **2)** sekcji II załącznika nr 9 do ustawy wnosi opłatę, o której mowa odpowiednio w art. 3k ust. 1 albo 2, na odrębny rachunek bankowy prowadzony przez marszałka województwa w terminie do dnia 15 marca roku następującego po roku kalendarzowym, którego ta opłata dotyczy.
+- **2)** sekcji II załącznika nr 9 do ustawy – wnosi opłatę, o której mowa odpowiednio w art. 3k ust. 1 albo 2, na odrębny rachunek bankowy prowadzony przez marszałka województwa w terminie do dnia 15 marca roku następującego po roku kalendarzowym, którego ta opłata dotyczy.
 
 **Art. 3m.**
 
-- **29)** 1. W przypadku gdy przedsiębiorca wprowadzający do obrotu produkty jednorazowego użytku z tworzyw sztucznych wymienione w załączniku nr 9 do ustawy nie wniósł opłaty, o której mowa w art. 3k ust. 1 lub 2, albo wniósł opłatę niższą od należnej, marszałek województwa określa, w drodze decyzji, wysokość zaległości z tytułu tej opłaty, stosując stawkę opłaty z roku kalendarzowego, za który ten przedsiębiorca był obowiązany do wniesienia tej opłaty.
+1. W przypadku gdy przedsiębiorca wprowadzający do obrotu produkty jednorazowego użytku z tworzyw sztucznych wymienione w załączniku nr 9 do ustawy nie wniósł opłaty, o której mowa w art. 3k ust. 1 lub 2, albo wniósł opłatę niższą od należnej, marszałek województwa określa, w drodze decyzji, wysokość zaległości z tytułu tej opłaty, stosując stawkę opłaty z roku kalendarzowego, za który ten przedsiębiorca był obowiązany do wniesienia tej opłaty.
 
 2. W przypadku niewykonania decyzji, o której mowa w ust. 1, marszałek województwa ustala, w drodze decyzji, dodatkową opłatę w wysokości odpowiadającej 50 % kwoty niewniesionej opłaty, o której mowa w art. 3k ust. 1 lub 2.
 
@@ -237,7 +204,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o obowiązkach przedsiębiorców
 
 **Art. 3n.**
 
-- **29)** 1. Marszałek województwa prowadzi odrębny rachunek bankowy w celu gromadzenia i przekazywania wpływów z tytułu opłaty, o której mowa w art. 3k ust. 1 i 2 oraz art. 3m ust. 1, a także dodatkowej opłaty, o której mowa w art. 3m ust. 2.
+1. Marszałek województwa prowadzi odrębny rachunek bankowy w celu gromadzenia i przekazywania wpływów z tytułu opłaty, o której mowa w art. 3k ust. 1 i 2 oraz art. 3m ust. 1, a także dodatkowej opłaty, o której mowa w art. 3m ust. 2.
 
 2. Wpływy z tytułu opłaty, o której mowa w art. 3k ust. 1 i 2 oraz art. 3m ust. 1, a także dodatkowej opłaty, o której mowa w art. 3m ust. 2, powiększone o przychody z oprocentowania rachunku bankowego i pomniejszone o dochody, o których mowa w ust. 3, marszałek województwa przekazuje na rachunek bankowy Narodowego Funduszu w terminie 30 dni po upływie kwartału, w którym wpłynęły, z przeznaczeniem na finansowanie:
 
@@ -246,11 +213,11 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o obowiązkach przedsiębiorców
 
 3. Wpływy z tytułu opłaty, o której mowa w art. 3k ust. 1 i 2 oraz art. 3m ust. 1, oraz dodatkowej opłaty, o której mowa w art. 3m ust. 2, stanowią w wysokości 5 % dochody budżetu samorządu województwa z przeznaczeniem na koszty egzekucji należności z tytułu tych opłat i obsługę administracyjną systemu ich poboru.
 
-4. W sprawach dotyczących opłaty, o której mowa w art. 3k ust. 1 i 2 oraz art. 3m ust. 1, oraz dodatkowej opłaty, o której mowa w art. 3m ust. 2, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa, z tym że uprawnienia organów podatkowych przysługują marszałkowi województwa.
+4. W sprawach dotyczących opłaty, o której mowa w art. 3k ust. 1 i 2 oraz art. 3m ust. 1, oraz dodatkowej opłaty, o której mowa w art. 3m ust. 2, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, z tym że uprawnienia organów podatkowych przysługują marszałkowi województwa.
 
 **Art. 3o.**
 
-- **26)** 1. Przedsiębiorca wprowadzający do obrotu produkty jednorazowego użytku z tworzyw sztucznych wymienione w załączniku nr 9 do ustawy prowadzi, w postaci papierowej albo elektronicznej, ewidencję produktów wprowadzonych do obrotu w danym roku kalendarzowym zawierającą w zależności od rodzaju tych produktów odpowiednio ich masę albo liczbę.
+1. Przedsiębiorca wprowadzający do obrotu produkty jednorazowego użytku z tworzyw sztucznych wymienione w załączniku nr 9 do ustawy prowadzi, w postaci papierowej albo elektronicznej, ewidencję produktów wprowadzonych do obrotu w danym roku kalendarzowym zawierającą w zależności od rodzaju tych produktów odpowiednio ich masę albo liczbę.
 
 2. Przedsiębiorca wprowadzający do obrotu produkty jednorazowego użytku z tworzyw sztucznych wymienione w pkt 1 i 4 sekcji I załącznika nr 9 do ustawy prowadzi ewidencję, o której mowa w ust. 1, zgodnie z formatem danych określonym w decyzji wykonawczej Komisji (UE) 2022/162 z dnia 4 lutego 2022 r. ustanawiającej zasady stosowania dyrektywy Parlamentu Europejskiego i Rady (UE) 2019/904 w odniesieniu do obliczania, weryfikacji i zgłaszania zmniejszenia stosowania niektórych produktów jednorazowego użytku z tworzyw sztucznych i środków wprowadzanych przez państwa członkowskie w celu osiągnięcia takiego zmniejszenia (Dz. Urz. UE L 26 z 07.02.2022, str. 19).
 
@@ -295,9 +262,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o obowiązkach przedsiębiorców
 
 4. Organizacja ma obowiązek utrzymywania kapitałów własnych w wysokości co najmniej połowy minimalnego kapitału zakładowego określonego w ust. 1.
 
-4a. Organizacja odzysku jest obowiązana, w terminie do dnia 15 marca każdego roku, przedstawić marszałkowi województwa właściwemu ze względu na siedzibę tej organizacji, zaświadczenie wydane przez bank prowadzący rachunek bankowy tej organizacji stwierdzające, że w ciągu całego poprzedniego roku kalendarzowego utrzymywała na odrębnym rachunku bankowym kapitał własny w wysokości co najmniej połowy minimalnego kapitału zakładowego, o którym mowa w ust. 1.
-
-5. Akcje organizacji mogą być wyłącznie akcjami imiennymi i nie mogą być zamienione na akcje na okaziciela.
+4a. Organizacja odzysku jest obowiązana, w terminie do dnia 15 marca każdego roku, przedstawić marszałkowi województwa właściwemu ze względu na siedzibę tej organizacji, zaświadczenie wydane przez bank prowadzący rachunek bankowy tej organizacji stwierdzające, że w ciągu całego poprzedniego roku kalendarzowego utrzymywała na odrębnym rachunku bankowym kapitał własny w wysokości co najmniej połowy minimalnego kapitału zakładowego, o którym mowa w ust. 1. [5. Akcje organizacji mogą być wyłącznie akcjami imiennymi i nie mogą być zamienione na akcje na okaziciela.]
 
 6. Organizacja nie może wydawać akcji o szczególnych uprawnieniach.
 
@@ -309,7 +274,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o obowiązkach przedsiębiorców
 
 **Art. 8a.**
 
-- **31)** 1. Producent, o którym mowa w art. 2 pkt 9d lit. a, może wyznaczyć swojego autoryzowanego przedstawiciela odpowiedzialnego za wykonywanie na terytorium kraju obowiązków określonych w ustawie dla przedsiębiorcy wprowadzającego do obrotu produkty jednorazowego użytku z tworzyw sztucznych lub narzędzia połowowe zawierające tworzywa sztuczne w odniesieniu do wprowadzonych do obrotu produktów jednorazowego użytku z tworzyw sztucznych lub narzędzi połowowych zawierających tworzywa sztuczne pochodzących od tego producenta.
+1. Producent, o którym mowa w art. 2 pkt 9d lit. a, może wyznaczyć swojego autoryzowanego przedstawiciela odpowiedzialnego za wykonywanie na terytorium kraju obowiązków określonych w ustawie dla przedsiębiorcy wprowadzającego do obrotu produkty jednorazowego użytku z tworzyw sztucznych lub narzędzia połowowe zawierające tworzywa sztuczne w odniesieniu do wprowadzonych do obrotu produktów jednorazowego użytku z tworzyw sztucznych lub narzędzi połowowych zawierających tworzywa sztuczne pochodzących od tego producenta.
 
 2. Wyznaczenie autoryzowanego przedstawiciela następuje w drodze umowy zawartej w formie pisemnej pod rygorem nieważności.
 
@@ -321,7 +286,8 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o obowiązkach przedsiębiorców
 
 **Art. 8b.**
 
-- **31)** 1. Przedsiębiorca wprowadzający do obrotu produkty jednorazowego użytku z tworzyw sztucznych lub narzędzia połowowe zawierające tworzywa sztuczne pochodzące od producenta, o którym mowa w art. 2 pkt 9d lit. a, nie jest obowiązany do wykonywania obowiązków nałożonych na niego ustawą, o ile:
+1. Przedsiębiorca wprowadzający do obrotu produkty jednorazowego użytku z tworzyw sztucznych lub narzędzia połowowe zawierające tworzywa sztuczne pochodzące od producenta, o którym mowa w art. 2 pkt 9d lit. a, nie jest obowiązany do wykonywania obowiązków nałożonych na niego ustawą, o ile:
+
 - **1)** producent ten wyznaczył autoryzowanego przedstawiciela, o którym mowa w art. 8a ust. 1, i ten autoryzowany przedstawiciel jest wpisany do rejestru, o którym mowa w art. 49 ust. 1 ustawy z dnia 14 grudnia 2012 r. o odpadach;
 - **2)** przedsiębiorca ten przekazał autoryzowanemu przedstawicielowi, o którym mowa w art. 8a ust. 1, dane niezbędne do wykonywania przez autoryzowanego przedstawiciela obowiązków w odniesieniu do wprowadzonych do obrotu przez tego przedsiębiorcę w danym roku kalendarzowym produktów jednorazowego użytku z tworzyw sztucznych lub narzędzi połowowych zawierających tworzywa sztuczne pochodzących od producenta, który wyznaczył tego autoryzowanego przedstawiciela.
 
@@ -331,27 +297,27 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o obowiązkach przedsiębiorców
 
 **Art. 8c.**
 
-- **31)** 1. Producent, o którym mowa w art. 2 pkt 9d lit. b, jest obowiązany do wyznaczenia w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej upoważnionego przedstawiciela odpowiedzialnego za wykonywanie na terytorium tego państwa obowiązków określonych w przepisach krajowych tego państwa wynikających z dyrektywy Parlamentu Europejskiego i Rady (UE) 2019/904 z dnia 5 czerwca 2019 r. w sprawie zmniejszenia wpływu niektórych produktów z tworzyw sztucznych na środowisko (Dz. Urz. UE L 155 z 12.06.2019, str. 1).
+1. Producent, o którym mowa w art. 2 pkt 9d lit. b, jest obowiązany do wyznaczenia w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej upoważnionego przedstawiciela odpowiedzialnego za wykonywanie na terytorium tego państwa obowiązków określonych w przepisach krajowych tego państwa wynikających z dyrektywy Parlamentu Europejskiego i Rady (UE) 2019/904 z dnia 5 czerwca 2019 r. w sprawie zmniejszenia wpływu niektórych produktów z tworzyw sztucznych na środowisko (Dz. Urz. UE L 155 z 12.06.2019, str. 1).
 
 2. Wyznaczenie upoważnionego przedstawiciela następuje w drodze umowy zawartej w formie pisemnej pod rygorem nieważności.
 
 **Art. 8d.**
 
-- **32)** 1. Przedsiębiorca wprowadzający do obrotu narzędzia połowowe zawierające tworzywa sztuczne jest obowiązany do finansowania kosztów selektywnego zbierania narzędzi połowowych stanowiących odpady zawierających tworzywa sztuczne, które zostały dostarczone do przedsiębiorców prowadzących portowe urządzenia do odbioru odpadów zgodnie z przepisami o portowych urządzeniach do odbioru odpadów ze statków lub do przedsiębiorców prowadzących inne równoważne systemy zbierania, oraz finansowania kosztów ich transportu i przetwarzania.
+1. Przedsiębiorca wprowadzający do obrotu narzędzia połowowe zawierające tworzywa sztuczne jest obowiązany do finansowania kosztów selektywnego zbierania narzędzi połowowych stanowiących odpady zawierających tworzywa sztuczne, które zostały dostarczone do przedsiębiorców prowadzących portowe urządzenia do odbioru odpadów zgodnie z przepisami o portowych urządzeniach do odbioru odpadów ze statków lub do przedsiębiorców prowadzących inne równoważne systemy zbierania, oraz finansowania kosztów ich transportu i przetwarzania.
 
 2. Koszty, o których mowa w ust. 1, nie mogą przekraczać kosztów niezbędnych do świadczenia usług gospodarowania odpadami w sposób efektywny kosztowo. Koszty te są ustalane między przedsiębiorcą wprowadzającym do obrotu narzędzia połowowe zawierające tworzywa sztuczne a przedsiębiorcą prowadzącym portowe urządzenia do odbioru odpadów lub przedsiębiorcą prowadzącym inne równoważne systemy zbierania.
 
 3. Przedsiębiorca wprowadzający do obrotu narzędzia połowowe zawierające tworzywa sztuczne jest obowiązany do osiągnięcia minimalnego rocznego poziomu zbierania do celów recyklingu narzędzi połowowych stanowiących odpady zawierających tworzywa sztuczne w wysokości co najmniej:
 
-- **1)** 5 % wagowo za rok 2024;
-- **2)** 10 % wagowo za rok 2025;
-- **3)** 15 % wagowo za rok 2026;
-- **4)** 20 % wagowo za rok 2027;
-- **5)** 25 % wagowo za rok 2028;
-- **6)** 27 % wagowo za rok 2029;
-- **7)** 30 % wagowo za rok 2030 i za każdy kolejny rok.
+- **1)** 5 % wagowo – za rok 2024;
+- **2)** 10 % wagowo – za rok 2025;
+- **3)** 15 % wagowo – za rok 2026;
+- **4)** 20 % wagowo – za rok 2027;
+- **5)** 25 % wagowo – za rok 2028;
+- **6)** 27 % wagowo – za rok 2029;
+- **7)** 30 % wagowo – za rok 2030 i za każdy kolejny rok.
 
-4. Minimalny roczny poziom zbierania w danym roku kalendarzowym jest obliczany jako stosunek masy zebranych narzędzi połowowych stanowiących odpady zawierających tworzywa sztuczne do masy wprowadzonych do obrotu w poprzednim roku kalendarzowym narzędzi połowowych zawierających tworzywa sztuczne, a w przypadku przedsiębiorcy, który w poprzednim roku kalendarzowym nie wprowadził do obrotu narzędzi połowowych zawierających tworzywa sztuczne do masy produktów wprowadzonych do obrotu w danym roku kalendarzowym.
+4. Minimalny roczny poziom zbierania w danym roku kalendarzowym jest obliczany jako stosunek masy zebranych narzędzi połowowych stanowiących odpady zawierających tworzywa sztuczne do masy wprowadzonych do obrotu w poprzednim roku kalendarzowym narzędzi połowowych zawierających tworzywa sztuczne, a w przypadku przedsiębiorcy, który w poprzednim roku kalendarzowym nie wprowadził do obrotu narzędzi połowowych zawierających tworzywa sztuczne – do masy produktów wprowadzonych do obrotu w danym roku kalendarzowym.
 
 5. Przedsiębiorca wprowadzający do obrotu narzędzia połowowe zawierające tworzywa sztuczne jest obowiązany do prowadzenia, w postaci papierowej albo elektronicznej, ewidencji zawierającej informacje o masie wprowadzonych do obrotu w danym roku kalendarzowym narzędzi połowowych zawierających tworzywa sztuczne oraz o masie zebranych w danym roku kalendarzowym narzędzi połowowych stanowiących odpady zawierających tworzywa sztuczne, zgodnie z formatem zgłaszania danych określonym w decyzji wykonawczej Komisji (UE) 2021/958 z dnia 31 maja 2021 r. ustanawiającej format zgłaszania danych i informacji dotyczących wprowadzonych do obrotu narzędzi połowowych oraz zebranych narzędzi połowowych stanowiących odpady w państwach członkowskich i format sprawozdania z kontroli jakości zgodnie z art.13 ust. 1 lit. d i art. 13 ust. 2 dyrektywy Parlamentu Europejskiego i Rady (UE) 2019/904 (Dz. Urz. UE L 211 z 15.06.2021, str. 51, z późn. zm. ).
 
@@ -361,8 +327,8 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o obowiązkach przedsiębiorców
 
 8. W przypadku, o którym mowa w ust. 7, oszacowanie masy wprowadzonych do obrotu narzędzi połowowych zawierających tworzywa sztuczne następuje metodą porównawczą:
 
-- **1)** wewnętrzną polegającą na porównaniu masy wprowadzonych do obrotu w danym roku kalendarzowym narzędzi połowowych zawierających tworzywa sztuczne przez przedsiębiorcę wprowadzającego do obrotu narzędzia połowowe zawierające tworzywa sztuczne w poprzednich latach kalendarzowych, dla których jest znana wielkość tej masy;
-- **2)** zewnętrzną polegającą na porównaniu masy wprowadzonych do obrotu w danym roku kalendarzowym narzędzi połowowych zawierających tworzywa sztuczne przez przedsiębiorcę innego niż przedsiębiorca wprowadzający do obrotu narzędzia połowowe zawierające tworzywa sztuczne, który prowadzi działalność gospodarczą o podobnej skali.
+- **1)** wewnętrzną – polegającą na porównaniu masy wprowadzonych do obrotu w danym roku kalendarzowym narzędzi połowowych zawierających tworzywa sztuczne przez przedsiębiorcę wprowadzającego do obrotu narzędzia połowowe zawierające tworzywa sztuczne w poprzednich latach kalendarzowych, dla których jest znana wielkość tej masy;
+- **2)** zewnętrzną – polegającą na porównaniu masy wprowadzonych do obrotu w danym roku kalendarzowym narzędzi połowowych zawierających tworzywa sztuczne przez przedsiębiorcę innego niż przedsiębiorca wprowadzający do obrotu narzędzia połowowe zawierające tworzywa sztuczne, który prowadzi działalność gospodarczą o podobnej skali.
 
 9. Masę zebranych narzędzi połowowych stanowiących odpady zawierających tworzywa sztuczne ustala się na podstawie zaświadczenia, do którego sporządzenia jest obowiązany przedsiębiorca prowadzący portowe urządzenia do odbioru odpadów lub przedsiębiorca prowadzący inne równoważne systemy zbierania. Zaświadczenie jest sporządzane na wniosek przedsiębiorcy wprowadzającego do obrotu narzędzia połowowe zawierające tworzywa sztuczne.
 
@@ -380,7 +346,8 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o obowiązkach przedsiębiorców
 
 **Art. 9.**
 
-- **34)** 1. Wpisowi do rejestru, o którym mowa w art. 49 ust. 1 ustawy z dnia 14 grudnia 2012 r. o odpadach, w zakresie swojej działalności, podlegają:
+1. Wpisowi do rejestru, o którym mowa w art. 49 ust. 1 ustawy z dnia 14 grudnia 2012 r. o odpadach, w zakresie swojej działalności, podlegają:
+
 - **1)** przedsiębiorcy:
     - **a)** wprowadzający do obrotu produkty,
     - **b)** o których mowa w art. 3b ust. 1 i 2,
@@ -393,31 +360,21 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o obowiązkach przedsiębiorców
 
 2. Przedsiębiorca, o którym mowa w ust. 1 pkt 1 lit. a, oraz autoryzowany przedstawiciel, o którym mowa w art. 8a ust. 1, są obowiązani do umieszczania numeru rejestrowego, o którym mowa w art. 54 ust. 1 ustawy z dnia 14 grudnia 2012 r. o odpadach, na dokumentach sporządzanych w związku z wykonywaniem działalności w zakresie objętym wpisem do rejestru, o którym mowa w art. 49 ust. 1 tej ustawy.
 
-**Art. 10.**
+**Art. 10.** Przedsiębiorcy, o których mowa w art. 3k ust. 1 i 2, art. 4 ust. 1 pkt 1 i art. 8d ust. 1, organizacja oraz autoryzowany przedstawiciel, o którym mowa w art. 8a ust. 1, są obowiązani do sporządzania sprawozdań zawierających informacje, o których mowa w art. 73 ust. 2 pkt 1, pkt 2 lit. a–d i f, pkt 3 lit. a–c i pkt 3a ustawy z dnia 14 grudnia 2012 r. o odpadach, na zasadach i w trybie określonych w tej ustawie.
 
-- **34)** Przedsiębiorcy, o których mowa w art. 3k ust. 1 i 2, art. 4 ust. 1 pkt 1 i art. 8d ust. 1, organizacja oraz autoryzowany przedstawiciel, o którym mowa w art. 8a ust. 1, są obowiązani do sporządzania sprawozdań zawierających informacje, o których mowa w art. 73 ust. 2 pkt 1, pkt 2 lit. a–d i f, pkt 3 lit. a–c i pkt 3a ustawy z dnia 14 grudnia 2012 r. o odpadach, na zasadach i w trybie określonych w tej ustawie.
-
-**Art. 10a.**
-
-- **35)** Minister właściwy do spraw klimatu sporządza i przekazuje Komisji Europejskiej sprawozdanie zawierające informacje o:
-- **1)** masie i liczbie wprowadzonych do obrotu produktów jednorazowego użytku z tworzyw sztucznych wymienionych w załączniku nr 6 do ustawy będących opakowaniami,
-- **2)** zmniejszeniu stosowania produktów jednorazowego użytku z tworzyw sztucznych wymienionych w załączniku nr 6 do ustawy będących opakowaniami,
-- **3)** masie wprowadzonych do obrotu i zebranych butelek jednorazowego użytku z tworzyw sztucznych na napoje o pojemności do trzech litrów,
-- **4)** masie wprowadzonych do obrotu narzędzi połowowych zawierających tworzywa sztuczne oraz masie zebranych narzędzi połowowych stanowiących odpady zawierających tworzywa sztuczne,
-- **5)** danych dotyczących masy odpadów pochodzących ze stosowania wyrobów tytoniowych z filtrami zawierającymi tworzywa sztuczne i filtrów zawierających tworzywa sztuczne sprzedawanych do używania łącznie z wyrobami tytoniowymi,
-- **6)** zawartości materiału pochodzącego z recyklingu w butelkach jednorazowego użytku z tworzyw sztucznych na napoje o pojemności do trzech litrów za każdy rok kalendarzowy w terminie 18 miesięcy od zakończenia roku kalendarzowego, za który jest składane to sprawozdanie.
+**Art. 10a.** Minister właściwy do spraw klimatu sporządza i przekazuje Komisji Europejskiej sprawozdanie zawierające informacje o:
 
 **Art. 11.**
 
 1. Przedsiębiorca i organizacja odzysku są obowiązani do prowadzenia dodatkowej ewidencji, obejmującej informacje o:
 
-- **1)** masie wprowadzonych do obrotu produktów, z podziałem na poszczególne ich rodzaje w przypadku przedsiębiorcy;
-- **2)** wykazie przedsiębiorców, w imieniu których działa organizacja oraz masie wprowadzonych do obrotu przez przedsiębiorców produktów, z podziałem na poszczególne ich rodzaje w przypadku organizacji.
+- **1)** masie wprowadzonych do obrotu produktów, z podziałem na poszczególne ich rodzaje – w przypadku przedsiębiorcy;
+- **2)** wykazie przedsiębiorców, w imieniu których działa organizacja oraz masie wprowadzonych do obrotu przez przedsiębiorców produktów, z podziałem na poszczególne ich rodzaje – w przypadku organizacji.
 
 2. Informacje o:
 
-- **1)** masie poddanych odzyskowi i recyklingowi odpadów powstałych z produktów, z podziałem na poszczególne ich rodzaje w przypadku przedsiębiorcy, o którym mowa w art. 4 ust. 1 pkt 1,
-- **2)** masie poddanych odzyskowi i recyklingowi odpadów powstałych z produktów, z podziałem na poszczególne ich rodzaje w przypadku organizacji są ustalane na podstawie odpowiednio dokumentu potwierdzającego recykling albo dokumentu potwierdzającego inne niż recykling procesy odzysku.
+- **1)** masie poddanych odzyskowi i recyklingowi odpadów powstałych z produktów, z podziałem na poszczególne ich rodzaje – w przypadku przedsiębiorcy, o którym mowa w art. 4 ust. 1 pkt 1,
+- **2)** masie poddanych odzyskowi i recyklingowi odpadów powstałych z produktów, z podziałem na poszczególne ich rodzaje – w przypadku organizacji – są ustalane na podstawie odpowiednio dokumentu potwierdzającego recykling albo dokumentu potwierdzającego inne niż recykling procesy odzysku.
 
 3. Dokumenty, o których mowa w ust. 2, sporządza się za pośrednictwem indywidualnego konta w BDO.
 
@@ -447,9 +404,10 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o obowiązkach przedsiębiorców
 
 **Art. 11b.**
 
-- **37)** 1. Przedsiębiorca wprowadzający do obrotu:
-- **1)** produkty jednorazowego użytku z tworzyw sztucznych wymienione w pkt 5–9 załącznika nr 10 do ustawy,
-- **2)** narzędzia połowowe zawierające tworzywa sztuczne jest obowiązany do finansowania publicznych kampanii edukacyjnych.
+1. Przedsiębiorca wprowadzający do obrotu:
+
+- **1)** produkty jednorazowego użytku z tworzyw sztucznych wymienione w pkt 5– 9 załącznika nr 10 do ustawy,
+- **2)** narzędzia połowowe zawierające tworzywa sztuczne – jest obowiązany do finansowania publicznych kampanii edukacyjnych.
 
 2. Publiczne kampanie edukacyjne obejmują wszelkie działania mające na celu podnoszenie świadomości ekologicznej społeczeństwa w zakresie prawidłowego postępowania z odpadami powstałymi z produktów jednorazowego użytku z tworzyw sztucznych wymienionych w pkt 5–9 załącznika nr 10 do ustawy oraz narzędziami połowowymi stanowiącymi odpady zawierającymi tworzywa sztuczne, wspomagające osiągnięcie wysokiego poziomu selektywnego zbierania tych odpadów, w tym informowanie przy wykorzystaniu środków masowego przekazu, ulotek, broszur informacyjnych i plakatów oraz organizowanie konkursów, konferencji i akcji o charakterze informacyjno-edukacyjnym.
 
@@ -489,7 +447,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o obowiązkach przedsiębiorców
 
 14. Przedsiębiorca, o którym mowa w ust. 1, nie finansuje publicznych kampanii edukacyjnych, jeżeli wysokość opłaty na publiczne kampanie edukacyjne obliczona zgodnie z ust. 6 nie przekracza 10 zł w danym roku kalendarzowym.
 
-15. W sprawach dotyczących opłaty na publiczne kampanie edukacyjne wnoszonej na podstawie ust. 4 pkt 2 stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa, z tym że uprawnienia organów podatkowych przysługują marszałkowi województwa.
+15. W sprawach dotyczących opłaty na publiczne kampanie edukacyjne wnoszonej na podstawie ust. 4 pkt 2 stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, z tym że uprawnienia organów podatkowych przysługują marszałkowi województwa.
 
 #### Rozdział 3 Opłata produktowa
 
@@ -526,10 +484,10 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o obowiązkach przedsiębiorców
 - **5)** (uchylony)
 - **6)** (uchylony)
 - **7)** (uchylony)
-- **8)** dla produktów wymienionych w poz. 1 i 2 w załączniku nr 4a do ustawy 2,71 zł za 1 kg;
-- **9)** dla produktów wymienionych w poz. 3 i 4 w załączniku nr 4a do ustawy 5,80 zł za 1 kg;
-- **10)** dla produktów wymienionych w poz. 5 w załączniku nr 4a do ustawy 10,82 zł za 1 kg;
-- **11)** dla narzędzi połowowych zawierających tworzywa sztuczne 5 zł za 1 kg.
+- **8)** dla produktów wymienionych w poz. 1 i 2 w załączniku nr 4a do ustawy – 2,71 zł za 1 kg;
+- **9)** dla produktów wymienionych w poz. 3 i 4 w załączniku nr 4a do ustawy – 5,80 zł za 1 kg;
+- **10)** dla produktów wymienionych w poz. 5 w załączniku nr 4a do ustawy – 10,82 zł za 1 kg;
+- **11)** dla narzędzi połowowych zawierających tworzywa sztuczne – 5 zł za 1 kg.
 
 2. (uchylony)
 
@@ -537,9 +495,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o obowiązkach przedsiębiorców
 
 4. Minister właściwy do spraw klimatu w porozumieniu z ministrem właściwym do spraw finansów publicznych oraz ministrem właściwym do spraw gospodarki określi, w drodze rozporządzenia, szczegółowe stawki opłat produktowych dla poszczególnych produktów, o których mowa w ust. 1, kierując się negatywnym oddziaływaniem na środowisko odpadów powstałych z produktów, kosztami ich zagospodarowania.
 
-**Art. 15.**
-
-- **42)** Przedsiębiorca, o którym mowa w art. 4 ust. 1 pkt 1, przedsiębiorca wprowadzający do obrotu produkty jednorazowego użytku z tworzyw sztucznych, przedsiębiorca wprowadzający do obrotu narzędzia połowowe zawierające tworzywa sztuczne, organizacja oraz autoryzowany przedstawiciel, o którym mowa w art. 8a ust. 1, są obowiązani do sporządzania rocznego sprawozdania, o którym mowa w art. 73 ust. 1 ustawy z dnia 14 grudnia 2012 r. o odpadach, zawierającego informacje, o których mowa w art. 73 ust. 2 pkt 1, ust. 2 pkt 2 lit. e, ust. 2 pkt 3 lit. d oraz ust. 2 pkt 3a tej ustawy.
+**Art. 15.** Przedsiębiorca, o którym mowa w art. 4 ust. 1 pkt 1, przedsiębiorca wprowadzający do obrotu produkty jednorazowego użytku z tworzyw sztucznych, przedsiębiorca wprowadzający do obrotu narzędzia połowowe zawierające tworzywa sztuczne, organizacja oraz autoryzowany przedstawiciel, o którym mowa w art. 8a ust. 1, są obowiązani do sporządzania rocznego sprawozdania, o którym mowa w art. 73 ust. 1 ustawy z dnia 14 grudnia 2012 r. o odpadach, zawierającego informacje, o których mowa w art. 73 ust. 2 pkt 1, ust. 2 pkt 2 lit. e, ust. 2 pkt 3 lit. d oraz ust. 2 pkt 3a tej ustawy.
 
 **Art. 16.**
 
@@ -557,9 +513,9 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o obowiązkach przedsiębiorców
 
 **Art. 18.** (uchylony)
 
-**Art. 19.** Do opłat produktowych w zakresie nieuregulowanym w ustawie stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa, z tym że uprawnienia organów podatkowych przysługują marszałkowi województwa.
+**Art. 19.** Do opłat produktowych w zakresie nieuregulowanym w ustawie stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, z tym że uprawnienia organów podatkowych przysługują marszałkowi województwa.
 
-#### Rozdział 4 (uchylony)
+#### Rozdział 4
 
 #### Rozdział 5 Obowiązki organów administracji publicznej
 
@@ -567,7 +523,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o obowiązkach przedsiębiorców
 
 **Art. 25.**
 
-- **43)** 1. Przez marszałka województwa oraz urząd marszałkowski rozumie się marszałka województwa lub urząd marszałkowski właściwych ze względu na siedzibę albo miejsce zamieszkania przedsiębiorcy, o którym mowa w art. 4 ust. 1 pkt 1, przedsiębiorcy wprowadzającego do obrotu produkty jednorazowego użytku z tworzyw sztucznych, przedsiębiorcy wprowadzającego do obrotu narzędzia połowowe zawierające tworzywa sztuczne, organizacji, autoryzowanego przedstawiciela, o którym mowa w art. 8a ust. 1, oraz producenta, a w przypadku braku siedziby albo miejsca zamieszkania na terytorium kraju Marszałka Województwa Mazowieckiego lub Urząd Marszałkowski Województwa Mazowieckiego.
+1. Przez marszałka województwa oraz urząd marszałkowski rozumie się marszałka województwa lub urząd marszałkowski właściwych ze względu na siedzibę albo miejsce zamieszkania przedsiębiorcy, o którym mowa w art. 4 ust. 1 pkt 1, przedsiębiorcy wprowadzającego do obrotu produkty jednorazowego użytku z tworzyw sztucznych, przedsiębiorcy wprowadzającego do obrotu narzędzia połowowe zawierające tworzywa sztuczne, organizacji, autoryzowanego przedstawiciela, o którym mowa w art. 8a ust. 1, oraz producenta, a w przypadku braku siedziby albo miejsca zamieszkania na terytorium kraju – Marszałka Województwa Mazowieckiego lub Urząd Marszałkowski Województwa Mazowieckiego.
 
 2. W przypadku jednostki handlu detalicznego, jednostki handlu hurtowego, jednostki gastronomicznej lub urządzenia vendingowego właściwym marszałkiem województwa jest marszałek województwa właściwy ze względu na miejsce pobrania opłaty.
 
@@ -591,17 +547,11 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o obowiązkach przedsiębiorców
 
 **Art. 31.** (uchylony)
 
-**Art. 32.**
+**Art. 32.** Wpływy z tytułu opłaty produktowej od wprowadzenia do obrotu produktów wymienionych w poz. 3–5 w załączniku nr 4a do ustawy są gromadzone na rachunku bankowym Narodowego Funduszu.
 
-- **44)** Wpływy z tytułu opłaty produktowej od wprowadzenia do obrotu produktów wymienionych w poz. 3–5 w załączniku nr 4a do ustawy są gromadzone na rachunku bankowym Narodowego Funduszu.
+**Art. 33.** Wpływy z tytułu opłaty produktowej od wprowadzenia do obrotu produktów wymienionych w poz. 1 i 2 w załączniku nr 4a do ustawy są gromadzone na rachunku bankowym Narodowego Funduszu.
 
-**Art. 33.**
-
-- **44)** Wpływy z tytułu opłaty produktowej od wprowadzenia do obrotu produktów wymienionych w poz. 1 i 2 w załączniku nr 4a do ustawy są gromadzone na rachunku bankowym Narodowego Funduszu.
-
-**Art. 33a.**
-
-- **45)** Wpływy z tytułu opłaty produktowej od wprowadzenia do obrotu narzędzi połowowych zawierających tworzywa sztuczne są gromadzone na rachunku bankowym Narodowego Funduszu.
+**Art. 33a.** Wpływy z tytułu opłaty produktowej od wprowadzenia do obrotu narzędzi połowowych zawierających tworzywa sztuczne są gromadzone na rachunku bankowym Narodowego Funduszu.
 
 **Art. 34.** (uchylony)
 
@@ -623,33 +573,17 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o obowiązkach przedsiębiorców
 
 **Art. 39.** (uchylony)
 
-**Art. 40.** Orzekanie w sprawach o czyny określone w art. 37a i art. 37b następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2022 r. poz. 1124 oraz z 2023 r. poz. 1963).
+**Art. 40.** Orzekanie w sprawach o czyny określone w art. 37a i art. 37b następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2022 r. poz. 1124 oraz z 2023 r. poz. 1963).
 
-**Art. 40a.**
-
-- **47)** Administracyjnej karze pieniężnej podlega ten, kto:
-- **1)** wbrew przepisowi art. 3b ust. 1 nie pobiera opłaty od użytkownika końcowego nabywającego produkty jednorazowego użytku z tworzyw sztucznych wymienione w załączniku nr 6 do ustawy będące opakowaniami lub napoje lub żywność pakowane przez tego przedsiębiorcę w te produkty jednorazowego użytku z tworzyw sztucznych wymienione w załączniku nr 6 do ustawy będące opakowaniami;
-- **2)** wbrew przepisowi art. 3b ust. 2 nie pobiera opłaty od użytkownika końcowego nabywającego napoje lub żywność w produktach jednorazowego użytku z tworzyw sztucznych wymienionych w załączniku nr 6 do ustawy będących opakowaniami pakowane i oferowane przez tego przedsiębiorcę za pomocą urządzenia vendingowego;
-- **3)** wbrew przepisowi art. 3b ust. 3 nie zapewnia dostępności opakowań alternatywnych do produktów jednorazowego użytku z tworzyw sztucznych wymienionych w załączniku nr 6 do ustawy będących opakowaniami, wytworzonych z materiałów innych niż tworzywa sztuczne, w tym innych niż tworzywa sztuczne ulegające biodegradacji, lub dostępności opakowań wielokrotnego użytku;
-- **4)** wbrew przepisowi art. 3h ust. 1 nie prowadzi ewidencji, o której mowa w tym przepisie;
-- **5)** wbrew przepisowi art. 3h ust. 2, w przypadku prowadzenia więcej niż jednej jednostki handlu detalicznego, jednostki handlu hurtowego lub jednostki gastronomicznej, nie prowadzi ewidencji, o której mowa w tym przepisie;
-- **6)** wbrew przepisowi art. 3h ust. 4 nie przechowuje informacji zawartych w ewidencji, o której mowa w art. 3h ust. 1 i 2, przez 5 lat, licząc od końca roku kalendarzowego, którego te informacje dotyczą;
-- **7)** wbrew przepisowi art. 3i wprowadza do obrotu produkty jednorazowego użytku z tworzyw sztucznych wymienione w załączniku nr 7 do ustawy oraz wyroby wykonane z oksydegradowalnych tworzyw sztucznych;
-- **8)** wbrew przepisowi art. 3j nie zapewnia umieszczenia na opakowaniach produktów jednorazowego użytku z tworzyw sztucznych wymienionych w załączniku nr 8 do ustawy lub na samych tych produktach oznakowania na zasadach określonych w rozporządzeniu wykonawczym Komisji (UE) 2020/2151 z dnia 17 grudnia 2020 r. ustanawiającym zasady dotyczące zharmonizowanych specyfikacji w odniesieniu do oznakowania produktów jednorazowego użytku z tworzyw sztucznych wymienionych w części D załącznika do dyrektywy Parlamentu Europejskiego i Rady (UE) 2019/904 w sprawie zmniejszenia wpływu niektórych produktów z tworzyw sztucznych na środowisko i zgodnie ze wzorami określonymi w tym rozporządzeniu;
-- **9)** wbrew przepisowi art. 3o ust. 1 nie prowadzi ewidencji, o której mowa w tym przepisie;
-- **10)** wbrew przepisowi art. 3o ust. 2 nie prowadzi ewidencji, o której mowa w art. 3o ust. 1, zgodnie z formatem danych określonym w decyzji wykonawczej Komisji (UE) 2022/162 z dnia 4 lutego 2022 r. ustanawiającej zasady stosowania dyrektywy Parlamentu Europejskiego i Rady (UE) 2019/904 w odniesieniu do obliczania, weryfikacji i zgłaszania zmniejszenia stosowania niektórych produktów jednorazowego użytku z tworzyw sztucznych i środków wprowadzanych przez państwa członkowskie w celu osiągnięcia takiego zmniejszenia;
-- **11)** wbrew przepisowi art. 8c ust. 1 nie wyznaczył upoważnionego przedstawiciela;
-- **12)** wbrew przepisowi art. 8d ust. 1 nie finansuje kosztów selektywnego zbierania narzędzi połowowych stanowiących odpady zawierających tworzywa sztuczne oraz kosztów ich transportu i przetwarzania;
-- **13)** wbrew przepisowi art. 8d ust. 5 nie prowadzi ewidencji, o której mowa w tym przepisie, zgodnie z formatem zgłaszania danych określonym w decyzji wykonawczej Komisji (UE) 2021/958 z dnia 31 maja 2021 r. ustanawiającej format zgłaszania danych i informacji dotyczących wprowadzonych do obrotu narzędzi połowowych oraz zebranych narzędzi połowowych stanowiących odpady w państwach członkowskich i format sprawozdania z kontroli jakości zgodnie z art. 13 ust. 1 lit. d i art. 13 ust. 2 dyrektywy Parlamentu Europejskiego i Rady (UE) 2019/904;
-- **14)** wbrew przepisowi art. 11 ust. 1 nie prowadzi dodatkowej ewidencji, o której mowa w tym przepisie;
-- **15)** wbrew przepisowi art. 11b ust. 4 w danym roku kalendarzowym nie przeznaczył opłaty na publiczne kampanie edukacyjne lub nie wniósł opłaty na publiczne kampanie edukacyjne w terminach określonych w tym przepisie.
+**Art. 40a.** Administracyjnej karze pieniężnej podlega ten, kto:
 
 **Art. 40b.**
 
-- **47)** 1. Administracyjne kary pieniężne wynoszą w przypadkach, o których mowa w art. 40a:
-- **1)** pkt 1–6 od 500 zł do 20 000 zł;
-- **2)** pkt 7 i 15 od 10 000 zł do 500 000 zł;
-- **3)** pkt 8–14 od 10 000 zł do 100 000 zł.
+1. Administracyjne kary pieniężne wynoszą w przypadkach, o których mowa w art. 40a:
+
+- **1)** pkt 1–6 – od 500 zł do 20 000 zł;
+- **2)** pkt 7 i 15 – od 10 000 zł do 500 000 zł;
+- **3)** pkt 8–14 – od 10 000 zł do 100 000 zł.
 
 2. Administracyjne kary pieniężne za naruszenia, o których mowa w art. 40a pkt 1–3, wymierza, w drodze decyzji, właściwy wojewódzki inspektor Inspekcji Handlowej.
 
@@ -663,9 +597,9 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o obowiązkach przedsiębiorców
 
 **Art. 40c.**
 
-- **47)** 1. Do administracyjnych kar pieniężnych nie stosuje się przepisu art. 189f ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803).
+1. Do administracyjnych kar pieniężnych nie stosuje się przepisu art. 189f ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803).
 
-2. Do administracyjnych kar pieniężnych stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa, z tym że uprawnienia organu podatkowego przysługują odpowiednio wojewódzkiemu inspektorowi Inspekcji Handlowej oraz wojewódzkiemu inspektorowi ochrony środowiska.
+2. Do administracyjnych kar pieniężnych stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, z tym że uprawnienia organu podatkowego przysługują odpowiednio wojewódzkiemu inspektorowi Inspekcji Handlowej oraz wojewódzkiemu inspektorowi ochrony środowiska.
 
 #### Rozdział 8 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
 
@@ -673,11 +607,11 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o obowiązkach przedsiębiorców
 
 **Art. 42.** (pominięty)
 
-**Art. 43.** Do dnia 1 stycznia 2003 r. kapitał zakładowy spółek akcyjnych–organizacji odzysku może wynosić 500 tys. zł.
+**Art. 43.** Do dnia 1 stycznia 2003 r. kapitał zakładowy spółek akcyjnych– organizacji odzysku może wynosić 500 tys. zł.
 
 **Art. 44.** (pominięty)
 
 **Art. 45.** (pominięty)
 
-**Art. 46.** Ustawa wchodzi w życie z dniem 1 stycznia 2002 r. (uchylony) (uchylony) (uchylony) (uchylony) POZIOM ODZYSKU I RECYKLINGU ODPADÓW POWSTAŁYCH Z PRODUKTÓW Odpady powstałe z Poziom w % rodzaj produktów symbol PKWiU odzysk recykling 1 2 3 4 5 1 Oleje smarowe otrzymane z ropy naftowej, 19.20.29.0 50 35 preparaty z ciężkich frakcji, gdzie indziej niesklasyfikowane, z wyłączeniem: z wyłączeniem: Oleje smarowe do przeprowadzania przemian 19.20.29.0 chemicznych innych niż proces specyficzny Parafina ciekła 19.20.29.0 Mieszanki olejowe do obróbki metali, oleje zapobiegające przyleganiu do form, oleje antykorozyjne 19.20.29.0 Oleje smarowe pozostałe oraz pozostałe oleje, 19.20.29.0 jeżeli są przeznaczone do produkcji olejów smarowych lub preparatów smarowych 1 2 3 4 5 2 Preparaty smarowe, dodatki, środki 20.59.4 50 35 zapobiegające zamarzaniu, z wyłączeniem: z wyłączeniem: Preparaty smarowe wyłącznie smary ex 20.59.41.0 plastyczne Środki przeciwstukowe, dodatki do olejów 20.59.42.0 mineralnych i produkty podobne Środki zapobiegające zamarzaniu i gotowe 20.59.43.0 płyny przeciwoblodzeniowe 3 Opony pneumatyczne z gumy, nowe, 22.11.11.0 75 15 w rodzaju stosowanych w samochodach osobowych Opony pneumatyczne z gumy, nowe, 22.11.12.0 w rodzaju stosowanych w motocyklach i rowerach Opony pneumatyczne z gumy, nowe, 22.11.13.0 w rodzaju stosowanych w autobusach, samochodach ciężarowych i samolotach Opony pneumatyczne bieżnikowane z gumy 22.11.20.0 4 Opony pneumatyczne z gumy, nowe, 22.11.14.0 75 15 w rodzaju stosowanych w urządzeniach i maszynach rolniczych, pozostałe nowe opony pneumatyczne z gumy 5 Opony pneumatyczne, używane 38.11.53.0 75 15 (uchylony) PRODUKTY JEDNORAZOWEGO UŻYTKU Z TWORZYW SZTUCZNYCH PODLEGAJĄCE ZMNIEJSZANIU STOSOWANIA Do produktów jednorazowego użytku z tworzyw sztucznych podlegających zmniejszaniu stosowania zalicza się:
+**Art. 46.** Ustawa wchodzi w życie z dniem 1 stycznia 2002 r.
 

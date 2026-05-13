@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 18 sierpnia 2015 r.
+# o zmianie ustawy – Ordynacja podatkowa oraz niektórych innych ustaw
+
+*USTAWA z dnia 5 sierpnia 2015 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +25,6 @@ domain: null
 | Data wydania | 2015-08-18 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001197) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1197/text.pdf) |
-
-Poz. 1197
-USTAWA z dnia 5 sierpnia 2015 r.
-o zmianie ustawy – Ordynacja podatkowa oraz niektórych innych ustaw
 
 **Art. 1.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2015 r. poz. 613, 699 i 978) po art. 2 dodaje się art. 2a w brzmieniu: „Art. 2a. Niedające się usunąć wątpliwości co do treści przepisów prawa podatkowego rozstrzyga się na korzyść podatnika.”.
 

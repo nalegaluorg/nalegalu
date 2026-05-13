@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 15 kwietnia 2026 r.
+# w sprawie ogłoszenia jednolitego tekstu ustawy Prawo spółdzielcze
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 27 marca 2026 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2026-04-16 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000521) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/521/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 27 marca 2026 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy Prawo spółdzielcze
 1. Na podstawie art. 16 ust. 1 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 16 września 1982 r. Prawo spółdzielcze (Dz. U. z 2024 r. poz. 593), z uwzględnieniem stanu prawnego na dzień 23 marca 2026 r. oraz zmiany wprowadzonej ustawą z dnia 26 września 2025 r. o zmianie ustawy o Krajowym Rejestrze Sądowym oraz niektórych innych ustaw (Dz. U. poz. 1556).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 10 i art. 11 ustawy z dnia 26 września 2025 r. o zmianie ustawy o Krajowym Rejestrze Sądowym oraz niektórych innych ustaw (Dz. U. poz. 1556), które stanowią: „Art. 10. Do postępowań przed sądem rejestrowym wszczętych i niezakończonych przed dniem wejścia w życie:
 1) niniejszej ustawy stosuje się przepisy dotychczasowe;
@@ -94,7 +94,7 @@ W potwierdzeniu przyjęcia deklaracji podaje się datę uchwały o przyjęciu. O
 4) żądania rozpatrzenia przez właściwe organy spółdzielni wniosków dotyczących jej działalności;
 5) udziału w nadwyżce bilansowej;
 6) do świadczeń spółdzielni w zakresie jej statutowej działalności.
-prawa tych osób lub jeżeli istnieje uzasadniona obawa, że członek wykorzysta pozyskane informacje w celach sprzecznych z interesem spółdzielni i przez to wyrządzi spółdzielni znaczną szkodę. Odmowa powinna być wyrażona na piśmie. Członek, któremu odmówiono wglądu do umów zawieranych przez spółdzielnie z osobami trzecimi, może złożyć wniosek do sądu rejestrowego o zobowiązanie spółdzielni do udostępnienia tych umów. Wniosek należy złożyć w terminie siedmiu dni od dnia doręczenia członkowi odmowy na piśmie. W przypadku odmowy doręczonej z wykorzystaniem usługi rejestrowanego doręczenia elektronicznego do ustalenia dnia doręczenia stosuje się przepis art. 42 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych.
+z interesem spółdzielni i przez to wyrządzi spółdzielni znaczną szkodę. Odmowa powinna być wyrażona na piśmie. Członek, któremu odmówiono wglądu do umów zawieranych przez spółdzielnie z osobami trzecimi, może złożyć wniosek do sądu rejestrowego o zobowiązanie spółdzielni do udostępnienia tych umów. Wniosek należy złożyć w terminie siedmiu dni od dnia doręczenia członkowi odmowy na piśmie. W przypadku odmowy doręczonej z wykorzystaniem usługi rejestrowanego doręczenia elektronicznego do ustalenia dnia doręczenia stosuje się przepis art. 42 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych.
 4. Członkowi spółdzielni przysługują również inne prawa określone w ustawie lub w statucie.
 5. Członek spółdzielni ma obowiązek:
 1) przestrzegania przepisów prawa, postanowień statutu i opartych na nich regulaminów;
@@ -114,7 +114,6 @@ prawa tych osób lub jeżeli istnieje uzasadniona obawa, że członek wykorzysta
 3. Członek niewykonujący obowiązków statutowych z przyczyn przez niego niezawinionych może być wykreślony z rejestru członków spółdzielni. Statut określa przyczyny wykreślenia.
 4. Wykluczenia albo wykreślenia może dokonać, stosownie do postanowień statutu, rada nadzorcza albo walne zgromadzenie spółdzielni. Organ, do którego kompetencji należy podejmowanie uchwał w sprawie wykluczenia albo wykreślenia, ma obowiązek wysłuchać wyjaśnień zainteresowanego członka spółdzielni.
 5. Organ, który podjął uchwałę w sprawie wykreślenia albo wykluczenia, ma obowiązek zawiadomić członka na piśmie wraz z uzasadnieniem o wykreśleniu albo wykluczeniu ze spółdzielni w terminie dwóch tygodni od dnia podjęcia uchwały. Uzasadnienie powinno w szczególności przedstawiać motywy, którymi kierował się organ spółdzielni uznając, że zachowanie członka wyczerpuje przesłanki wykluczenia albo wykreślenia określone w statucie. Zawiadomienie zwrócone z powodu niezgłoszenia przez członka zmiany podanego przez niego adresu ma moc prawną doręczenia.
-nowieniami statutu, rada nadzorcza, członek spółdzielni ma prawo:
 1) odwołać się od uchwały o wykluczeniu albo wykreśleniu do walnego zgromadzenia, w terminie określonym w statucie, albo
 2) zaskarżyć uchwałę rady nadzorczej do sądu w terminie sześciu tygodni od dnia doręczenia członkowi uchwały z uzasadnieniem; przepisy art. 42 stosuje się odpowiednio.
 6a. W przypadku doręczenia członkowi uchwały o wykluczeniu albo wykreśleniu wraz z uzasadnieniem z wykorzystaniem usługi rejestrowanego doręczenia elektronicznego do ustalenia dnia doręczenia stosuje się przepis art. 42 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych.
@@ -157,7 +156,6 @@ Członek spółdzielni, jego małżonek i wierzyciel członka lub spółdzielni 
 4. Jeżeli statut nie stanowi inaczej, przy obliczaniu wymaganej większości głosów dla podjęcia uchwały przez organ spółdzielni uwzględnia się tylko głosy oddane za i przeciw uchwale.
 4 . Członek rady nadzorczej lub członek zarządu mogą żądać zwołania posiedzenia rady nadzorczej albo zarządu, podając proponowany porządek obrad, lub podjęcia określonej uchwały na piśmie albo przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość.
 4 . Jeżeli przewodniczący rady nadzorczej albo prezes zarządu nie zwoła posiedzenia albo nie zarządzi głosowania na piśmie albo przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość na dzień przypadający w terminie tygodnia od dnia otrzymania żądania, wnioskodawca może samodzielnie zwołać posiedzenie, podając jego datę i miejsce albo zarządzić głosowanie na piśmie albo przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość.
-siedzeniu organu albo głosowaniu na piśmie albo przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość.
 Uchwała może być również wynikiem głosów częściowo oddanych na posiedzeniu, częściowo na piśmie lub przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość.
 4 . Przy obliczaniu kworum uwzględnia się członków organów uczestniczących przez oddanie głosu na piśmie lub przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość.
 5. Szczegółowy tryb zwoływania posiedzeń organów, o których mowa w 1 pkt 2–4 i 3, oraz sposób i warunki podejmowania uchwał przez te organy określa statut lub przewidziane w nim regulaminy tych organów.
@@ -250,7 +248,6 @@ do reprezentowania spółdzielni wystarczy dwóch członków rady przez nią upo
 3. Spółdzielnie, których członkami są wyłącznie osoby prawne, wybierają zarząd spośród kandydatów będących osobami fizycznymi wskazanymi przez te osoby prawne. W spółdzielniach, w których członkami są osoby fizyczne i osoby prawne, członków zarządu wybiera się również spośród kandydatów wskazanych przez osoby prawne.
 4. Walne zgromadzenie może odwołać tych członków zarządu, którym nie udzieliło absolutorium (art. 38 1 pkt 2), niezależnie od tego, który organ stosownie do postanowień statutu wybiera członków zarządu. W tym wypadku nie stosuje się przepisu art. 41 1.
 5. Zarząd jednoosobowy nie może dokonywać czynności w sprawach wynikających ze stosunku członkostwa. Czynności takie są dokonywane przez radę nadzorczą, chyba że statut przewiduje właściwość walnego zgromadzenia.
-w czynnościach przez radę, o ile jego działalność jest sprzeczna z przepisami prawa lub statutu.
 2. Rada zawieszając w czynnościach członka zarządu podejmuje uchwały niezbędne do prawidłowego prowadzenia działalności spółdzielni oraz zwołuje niezwłocznie walne zgromadzenie.
 3. Członka zawieszonego powiadamia się niezwłocznie na piśmie o jego zawieszeniu z podaniem przyczyn zawieszenia.
 51. (uchylony)
@@ -344,7 +341,6 @@ Kryteria kwalifikacyjne lustratorów oraz tryb przeprowadzania lustracji określ
 2. W przypadku podejrzenia naruszenia prawa przez spółdzielnię mieszkaniową minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa występuje do właściwego związku rewizyjnego, w którym spółdzielnia jest zrzeszona, lub do Krajowej Rady Spółdzielczej z wnioskiem o przeprowadzenie lustracji.
 Lustrację przeprowadza się na koszt spółdzielni.
 3. Lustracja, o której mowa w 2, może obejmować całość albo część działalności spółdzielni albo tylko określone zagadnienia.
-może wystąpić z wnioskiem o lustrację danej spółdzielni nieczęściej niż raz w roku.
 5. Lustrację, o której mowa w 2, związek rewizyjny lub Krajowa Rada Spółdzielcza wszczyna w terminie 30 dni od dnia otrzymania wniosku ministra.
 6. Podmiot przeprowadzający lustrację obowiązany jest przesłać protokół z czynności lustracyjnych ministrowi właściwemu do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa.
 7. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa może wykonywać uprawnienia Krajowej Rady Spółdzielczej lub związku rewizyjnego wobec spółdzielni mieszkaniowej określone w ustawie, z wyjątkiem określonych w art. 114 i art. 115, jeżeli uprawnień tych nie wykonuje Krajowa Rada Spółdzielcza lub związek rewizyjny.
@@ -382,7 +378,7 @@ Rejestru Sądowego, z wyjątkiem przewidzianym w art. 102 1.
 3. Walne zgromadzenie może podjąć uchwałę odmawiającą podziału tylko ze względu na ważne interesy gospodarcze dotychczasowej spółdzielni lub istotne interesy jej członków.
 4. W razie podjęcia przez walne zgromadzenie uchwały odmawiającej podziału spółdzielni albo uchwały o podziale naruszającej istotne interesy członków występujących z żądaniem podziału, członkowie, którzy wystąpili z takim żądaniem, mogą w terminie sześciu tygodni od dnia odbycia walnego zgromadzenia wystąpić do sądu o wydanie orzeczenia zastępującego uchwałę o podziale.
 5. Przepis 4 stosuje się odpowiednio w razie nierozpatrzenia przez walne zgromadzenie zgłoszonego przez członków żądania w terminie trzech miesięcy od dnia jego doręczenia.
-uchwały określonych w art. 108 2, członkowie zgłaszający żądanie podziału mogą wystąpić do zarządu spółdzielni z żądaniem zwołania walnego zgromadzenia w celu podjęcia uzupełniającej uchwały o podziale. Przepisy 4 i 5 stosuje się odpowiednio.
+zwołania walnego zgromadzenia w celu podjęcia uzupełniającej uchwały o podziale. Przepisy 4 i 5 stosuje się odpowiednio.
 7. Przepisy 2–6 stosuje się odpowiednio w wypadku, gdy z żądaniem podziału występuje organ spółdzielni powołany do reprezentowania członków, których prawa i obowiązki majątkowe są związane z wyodrębnioną organizacyjnie jednostką spółdzielni.
 8. Uchwała walnego zgromadzenia o podziale spółdzielni zawierająca wszystkie składniki treści określone w art. 108 2 oraz prawomocne orzeczenie sądu zastępujące taką uchwałę stanowią podstawę do dokonania stosownych wpisów w rejestrze i w księdze wieczystej.
 108b. 1. Członkowie spółdzielni, których prawa i obowiązki majątkowe są związane z wyodrębnioną organizacyjnie jednostką spółdzielni albo z częścią majątku spółdzielni, która nadaje się do takiego wyodrębnienia, mogą przyjąć uchwałę większością głosów tych członków, o podziale w spółdzielni w ten sposób, że z tej jednostki organizacyjnej albo części majątku zostanie utworzona nowa spółdzielnia. W zakresie reprezentacji tych członków stosuje się odpowiednio przepisy o zakładaniu spółdzielni.
@@ -423,8 +419,7 @@ Dalej idące ograniczenia może ustanowić organ, który wyznaczył likwidatora.
 3. Jeżeli zwołanie walnego zgromadzenia lub rady spółdzielni napotyka poważne trudności, związek rewizyjny, w którym spółdzielnia jest zrzeszona, może upoważnić likwidatora do dokonania czynności określonego rodzaju, które wymagają uchwały walnego zgromadzenia lub rady spółdzielni.
 4. Likwidator może być odwołany w każdej chwili przez organ, który go wyznaczył. Ponadto likwidatora może odwołać z ważnych przyczyn związek rewizyjny, w którym spółdzielnia jest zrzeszona.
 5. Organ, który odwołuje likwidatora, obowiązany jest równocześnie wyznaczyć innego.
-nomocnictwa podlegające wpisowi do Krajowego Rejestru Sądowego.
-121. 1. Spółdzielnia w likwidacji zachowuje dotychczasową swoją nazwę z dodaniem wyrazów: „w likwidacji”.
+120. Z dniem wpisania do Krajowego Rejestru Sądowego otwarcia likwidacji wygasają uprzednio udzielone pełnomocnictwa podlegające wpisowi do Krajowego Rejestru Sądowego.
 2. Osoba prawna wyznaczona na likwidatora składa oświadczenia w imieniu spółdzielni z zachowaniem przepisów normujących składanie oświadczeń tej osoby.
 122. Likwidator powinien niezwłocznie po wyznaczeniu go:
 1) zgłosić do Krajowego Rejestru Sądowego wniosek o wpisanie otwarcia likwidacji spółdzielni, jeżeli nie zostało to jeszcze dokonane, i zawiadomić o tym związek rewizyjny, w którym spółdzielnia jest zrzeszona, oraz Krajową Radę Spółdzielczą;
@@ -446,7 +441,7 @@ nomocnictwa podlegające wpisowi do Krajowego Rejestru Sądowego.
 4. Wierzyciele, którzy zgłosili wierzytelności po upływie tego terminu, mogą ich dochodzić z nierozdzielonego jeszcze majątku spółdzielni.
 5. Pozostały majątek zostaje przeznaczony na cele określone w uchwale ostatniego walnego zgromadzenia.
 5a. Jeżeli zgodnie z uchwałą, o której mowa w 5, pozostały majątek ma być w całości lub części podzielony między członków, w podziale tym uwzględnia się byłych członków, którym do chwili przejścia albo postawienia spółdzielni w stan likwidacji nie wypłacono wszystkich udziałów.
-6. Jeżeli uchwała walnego zgromadzenia nie zawiera stosownego wskazania, likwidator przekazuje pozostały majątek nieodpłatnie na cele spółdzielcze lub społeczne.
+5b. Przepisu 5a nie stosuje się do spółdzielni mieszkaniowych.
 126. 1. Po zakończeniu likwidacji likwidator przedstawia walnemu zgromadzeniu do zatwierdzenia sprawozdanie finansowe na dzień zakończenia likwidacji.
 2. Jeżeli zwołanie walnego zgromadzenia napotyka poważne trudności, likwidator przedstawia sprawozdanie finansowe do zatwierdzenia związkowi rewizyjnemu, w którym spółdzielnia jest zrzeszona.
 3. Po zatwierdzeniu sprawozdania finansowego na dzień zakończenia likwidacji, likwidator zgłasza do Krajowego Rejestru Sądowego wniosek o wykreślenie spółdzielni z Krajowego Rejestru Sądowego oraz przekazuje księgi i dokumenty zlikwidowanej spółdzielni do przechowania.
@@ -462,8 +457,7 @@ nomocnictwa podlegające wpisowi do Krajowego Rejestru Sądowego.
 132. Na wniosek wierzyciela, który zgłosił wniosek o ogłoszenie upadłości spółdzielni, sąd może zarządzić postawienie jej w stan upadłości pomimo uchwały walnego zgromadzenia spółdzielni o dalszym jej istnieniu.
 133. Jeżeli ze sprawozdania finansowego sporządzonego przez zarząd lub przez likwidatora wynika, że majątek spółdzielni, która zaprzestała swej działalności, nie wystarcza na pokrycie kosztów postępowania upadłościowego, a wierzyciele nie wyrażą zgody na ich pokrycie, sąd na wniosek wierzycieli lub Krajowej Rady Spółdzielczej zarządzi wykreślenie spółdzielni z Krajowego Rejestru Sądowego, zawiadamiając o tym wierzycieli i Krajową Radę Spółdzielczą. W takim wypadku nie przeprowadza się postępowania upadłościowego.
 134. Przepisy o organach spółdzielni stosuje się także podczas postępowania upadłościowego, jeżeli z przepisów prawa upadłościowego nie wynika inaczej.
-wpłaconą jeszcze część udziału.
-136. Po ukończeniu postępowania upadłościowego syndyk upadłości zgłosi do sądu rejestrowego wniosek o wykreślenie spółdzielni z Krajowego Rejestru Sądowego.
+135. Po ogłoszeniu upadłości członkowie spółdzielni, na żądanie syndyka upadłości, niezwłocznie uiszczają niewpłaconą jeszcze część udziału.
 137. Do postępowania upadłościowego w sprawach nieuregulowanych niniejszą ustawą stosuje się przepisy prawa upadłościowego.
 138. Przedmiotem działalności rolniczej spółdzielni produkcyjnej jest prowadzenie wspólnego gospodarstwa rolnego oraz działalności na rzecz indywidualnych gospodarstw rolnych członków. Spółdzielnia może również prowadzić inną działalność gospodarczą.
 139. 1. Członkami spółdzielni mogą być rolnicy będący:
@@ -481,7 +475,8 @@ wpłaconą jeszcze część udziału.
 2. Budynki i inne urządzenia stanowiące wkład szacuje się w pieniądzach według stanu i cen z dnia wniesienia.
 145. 1. Jeżeli statut lub umowa z członkiem inaczej nie postanawia, spółdzielnia nabywa prawo użytkowania wkładu gruntowego wniesionego przez członka, z chwilą przejęcia tego wkładu.
 2. Użytkowanie przez spółdzielnię wniesionych przez członka wkładów gruntowych regulują przepisy Kodeksu cywilnego.
-146. (uchylony) między żyjącymi lub na wypadek śmierci, jednakże o zamierzonym przeniesieniu własności gruntu na osobę niebędącą członkiem tej samej spółdzielni powinien spółdzielnię uprzedzić co najmniej na trzy miesiące przed dokonaniem tej czynności.
+146. (uchylony)
+147. 1. Członek będący właścicielem gruntu stanowiącego jego wkład może tym gruntem rozporządzać aktami między żyjącymi lub na wypadek śmierci, jednakże o zamierzonym przeniesieniu własności gruntu na osobę niebędącą
 2. W razie odpłatnego przeniesienia własności wkładu gruntowego spółdzielni przysługuje prawo pierwokupu. Nie dotyczy to przeniesienia własności wkładu gruntowego na rzecz innego członka tej samej spółdzielni posiadającego w niej wkład gruntowy.
 3. Grunt przeniesiony na własność innego członka tej samej spółdzielni powiększa wkład nabywcy.
 148. 1. Jeżeli statut przewiduje wniesienie wkładu gruntowego, powinien określać zasady i termin jego wycofania w razie ustania członkostwa w spółdzielni oraz określać zasady częściowego wycofania wkładu gruntowego w czasie trwania członkostwa.
@@ -557,7 +552,7 @@ Spółdzielnie pracy
 187. Spółdzielnia może rozwiązać z członkiem spółdzielczą umowę o pracę w czasie trwania członkostwa, z zachowaniem przewidzianego w Kodeksie pracy okresu wypowiedzenia, w razie:
 1) zmniejszenia na podstawie uchwały rady spółdzielni stanu zatrudnienia podyktowanego gospodarczą koniecznością;
 2) przyznania członkowi prawa do emerytury.
-roszczenie o orzeczenie bezskuteczności wypowiedzenia spółdzielczej umowy o pracę lub jej warunków, a jeżeli spółdzielcza umowa o pracę uległa już rozwiązaniu roszczenie o przywrócenie do pracy na poprzednich warunkach.
+cza umowa o pracę uległa już rozwiązaniu roszczenie o przywrócenie do pracy na poprzednich warunkach.
 2. Członkowi spółdzielni, który podjął pracę w wyniku przywrócenia do pracy, przysługuje za czas pozostawania bez pracy, niedłuższy jednak niż sześć miesięcy, wynagrodzenie obliczone na podstawie przeciętnego wynagrodzenia bieżącego z ostatnich trzech miesięcy oraz odpowiedni udział w części nadwyżki bilansowej.
 3. Przepis paragrafu poprzedzającego stosuje się odpowiednio do członka spółdzielni, który po wypowiedzeniu mu warunków pracy lub płacy z naruszeniem art. 184 przystąpił do pracy na warunkach określonych w tym wypowiedzeniu.
 189. 1. W czasie trwania członkostwa spółdzielnia może rozwiązać spółdzielczą umowę o pracę bez wypowiedzenia tylko z przyczyn uzasadniających według przepisów Kodeksu pracy takie rozwiązanie umowy bez winy pracownika.
@@ -579,7 +574,6 @@ roszczenie o orzeczenie bezskuteczności wypowiedzenia spółdzielczej umowy o p
 2) członek utracił w znacznym stopniu lub całkowicie zdolność do pracy, a spółdzielnia nie może zatrudnić go na stanowisku odpowiadającym jego ograniczonej zdolności do pracy;
 3) członek utracił pełną zdolność do czynności prawnych, a statut nie przewiduje członkostwa osób niemających takiej zdolności.
 2. W wypadku wymienionym w 1 pkt 2 wykreślenie staje się skuteczne po upływie okresu przewidzianego w Kodeksie pracy dla wypowiedzenia umowy o pracę.
-spółdzielni albo o wykreśleniu go z rejestru członków po zasięgnięciu opinii właściwego organu związku zawodowego.
 196. 1. Członkowi spółdzielni zatrudnionemu na podstawie spółdzielczej umowy o pracę, którego spółdzielnia wykluczyła lub wykreśliła z rejestru członków z naruszeniem przepisów art. 193–195, przysługują roszczenia przewidziane w przepisach art. 188 1 i 2 lub, jeżeli jest to dla członka korzystniejsze, w przepisach prawa pracy dotyczących uprawnienia pracownika w razie niezgodnego z prawem rozwiązania przez zakład pracy umowy o pracę bez wypowiedzenia.
 2. Roszczeń, o których mowa w paragrafie poprzedzającym, członek może dochodzić tylko wtedy, gdy dochodzi uchylenia uchwały o wykluczeniu albo wykreśleniu.
 3. Jeżeli wykluczenie albo wykreślenie było uzasadnione, lecz nastąpiło z naruszeniem przepisu art. 193 3 lub art. 195, powództwo członka o uchylenie uchwały o wykluczeniu albo o wykreśleniu i o przywrócenie do pracy może być oddalone, o ile dalsze pozostawanie członka w spółdzielni nie dałoby się pogodzić z zasadami współżycia społecznego.
@@ -597,8 +591,7 @@ spółdzielni albo o wykreśleniu go z rejestru członków po zasięgnięciu opi
 5. Pracownicy spółdzielni zatrudnieni co najmniej dwanaście miesięcy na podstawie umowy o pracę zawartej na czas nieokreślony, ubiegający się o przyjęcie na członków spółdzielni, są zwolnieni od odbycia okresu kandydackiego. Spółdzielnia nie może odmówić przyjęcia takiego pracownika na członka, jeżeli spełnia on wymagania statutowe, a spółdzielnia ma możność dalszego jego zatrudnienia.
 201. 1. Statut może przewidywać zatrudnienie wszystkich lub niektórych członków nie na podstawie spółdzielczej umowy o pracę, lecz na podstawie umowy o pracę nakładczą, umowy zlecenia lub umowy o dzieło, jeżeli jest to uzasadnione rodzajem działalności spółdzielni. Spółdzielnia ma obowiązek równomiernie rozdzielać pracę między tych członków, z uwzględnieniem ich kwalifikacji.
 1a. Statut może przewidywać także zatrudnienie wszystkich lub niektórych członków na podstawie umowy o pracę.
-art. 186 1.
-202. 1. Do członków zatrudnionych na podstawie umowy o pracę nakładczą, poza przepisami, o których mowa w art. 201 2, stosuje się odpowiednio także przepisy art. 184, 185, 187–198 i 200.
+2. Do członków spółdzielni, o których mowa w 1, stosuje się odpowiednio przepisy art. 182 1, 2 i 4, art. 183 oraz art. 186 1.
 2. W sprawach nieuregulowanych w art. 201 oraz w paragrafie poprzedzającym stosuje się w zakresie wypowiedzenia umowy o pracę nakładczą, jej rozwiązania bez wypowiedzenia i jej wygaśnięcia odpowiednie przepisy prawa pracy dotyczące umowy o pracę. W pozostałym zakresie stosuje się przepisy tego prawa dotyczące umowy o pracę nakładczą.
 203. Statut spółdzielni powinien określać szczegółowe prawa i obowiązki członków zatrudnionych na podstawie umowy zlecenia albo umowy o dzieło oraz przyczyny uzasadniające wykluczenie tych członków ze spółdzielni lub wykreślenie ich z rejestru członków.
 240. 1. Spółdzielnie mogą zakładać związki rewizyjne i przystępować do takich związków. Liczba założycieli związku rewizyjnego nie może być mniejsza niż dziesięć.
@@ -617,7 +610,7 @@ art. 186 1.
 4) zasady i tryb wyboru organów związku oraz ich zadania i kompetencje;
 5) zasady i tryb wyznaczania lustratorów.
 5. Statut związku nie może zastrzegać dla organów związku uprawnień stanowiących i nadzorczych wobec zrzeszonych spółdzielni, z wyjątkiem określonych w niniejszej ustawie.
-241. Krajowa Rada Spółdzielcza prowadzi rejestr związków rewizyjnych. Zasady prowadzenia rejestru i dane w nim uwidocznione określa Krajowa Rada Spółdzielcza.
+240a. (uchylony)
 242. 1. Związek rewizyjny ulega likwidacji:
 1) wskutek zmniejszenia się liczby członków, poniżej wskazanej w statucie lub w ustawie;
 2) na mocy uchwały ogólnego zebrania przedstawicieli (zjazdu) podjętej zwykłą większością głosów;
@@ -645,7 +638,6 @@ art. 186 1.
 257a. 1. Podatnik podatku rolnego, będący osobą fizyczną, oraz podatnik podatku rolnego będący rolniczą spółdzielnią produkcyjną może wnioskować do właściwego organu podatkowego o przekazanie przez ten organ 1,5 % podatku rolnego obliczonego zgodnie z odrębnymi przepisami na rzecz związku rewizyjnego zrzeszającego rolnicze spółdzielnie produkcyjne wybranego przez tego podatnika spośród związków rewizyjnych zrzeszających rolnicze spółdzielnie produkcyjne wpisanych na listę, o której mowa w art. 257b ust. 1, jeżeli ten związek spełnia następujące warunki:
 1) został wpisany do Krajowego Rejestru Sądowego co najmniej 6 lat przed dniem 1 stycznia danego roku podatkowego;
 2) ma na dzień 1 stycznia danego roku podatkowego członkowskie rolnicze spółdzielnie produkcyjne co najmniej w 10 województwach i w co najmniej 3 powiatach w każdym z tych województw, a łączna liczba członków tych spółdzielni wynosi co najmniej 1500 osób.
-z 1,5 % podatku rolnego mogą być wykorzystane wyłącznie na działalność statutową tego związku.
 3. Do gospodarki środkami, o których mowa w ust. 2, stosuje się odpowiednio przepisy ustawy z dnia 27 sierpnia 2009 r.
 o finansach publicznych (Dz. U. z 2025 r. poz. 1483, 1844 i 1846).
 257b. 1. Minister właściwy do spraw rolnictwa sporządza co roku listę związków rewizyjnych zrzeszających rolnicze spółdzielnie produkcyjne spełniających warunki określone w art. 257a ust. 1, zwaną dalej „listą”, i umieszcza ją na stronie internetowej urzędu obsługującego tego ministra w terminie do ostatniego dnia lutego danego roku podatkowego.

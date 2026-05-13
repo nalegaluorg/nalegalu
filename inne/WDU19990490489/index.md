@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# 489 ROZPORZĄDZENIE ŻVWNOŚCIOWEJ z dnia 17 maja 1999 r.
+# sprawie zasad sprawowania nadzoru specjalistycznego nad Społeczną Strażą Rybacką oraz ramowego regulaminu tej straży.
 
 | Pole | Wartość |
 |---|---|
@@ -23,73 +23,78 @@ domain: null
 | Ostatnia zmiana | 2014-12-31 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990490489) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1999/489/text.pdf) |
 
-w sprawie zasad sprawowania nadzoru specjalistycznego nad ramowego re gulaminu tej Na podstawie art. 24 ust. 5 ustawy z dnia 18 kwiet nia 1985 r. rybactwie (Dz. U. 21, poz. 91, z 1988 r. 19, poz. 132, z 1989 r. 35, poz. 192, z 1996 r. 106, poz. 496 i 128, poz. 602, z 1997 r. 88, poz. 554 z 1998 r. 106, poz. 668 i 162, poz. 1126) co 1 Zasady sprawowania nadzoru specjalistycznego
-1. 1. Specjalistyczny nadzór, zwany dalej "nadzo rem", i Spo Rybackiej, powinien przeprowadza ny w sposób rzetelny i bezstronny.
-2. W ramach nadzoru:
-1) komendant wojewódzki Rybac kiej, zwany dalej "komendantem", przeprowadza kontrole:
-a) roczne i okresowe - w planie kontro li opiniowanym przez
-b) - na wniosek wojewody lub z inicjatywy, po uprzednim powiadomieniu woje wody ojej przyczynach i terminie,
-2) komendant Rybackiej
-a) kwartalne sprawozdanie z wojewodzie,
-b) informacje na komendanta - komen dantowi.
-3. Plan kontroli rocznych i okresowych, opiniowany przez komendant.
-2. 1. Do kontrolnych, mowa w 1 ust. 2 pkt 1, komendant ka Rybackiej.
-2. Przed do kontrolnych Rybackiej, zwany dalej jest legity pisemne komen danta do przeprowadzenia kontroli.
-3. 1. Komendant Rybackiej jest
-2. ma prawo do:
-1) do obiektów i Rybackiej,
-2) i komendanta Rybackiej.
-4. 1. Komendant Rybackiej bo przez niego osoba ma prawo uczest w kontrolnych podejmowanych przez
-2. W razie ujawnienia w toku kontroli na kontrolu zawiadamia na komendanta, który zawiadamia organ do prze
-5. 1. Z przeprowadzonej kontroli zwany dalej który powinien w
-1) i miejsce przeprowadzenia kontroli,
-2) wyszczególnienie przeprowadzonych kontrolnych,
-3) stwierdzone uchybienia,
-4) zalecenia do stwierdzonych
-5) termin na wykonanie wydanych
-2.
+Na podstawie art. 24 5 ustawy z dnia 18 kwietnia 1985 r. o rybactwie śródlądowym (Dz.U. Nr 21, poz. 91, z 1988 r. Nr 19, poz. 132, z 1989 r. Nr 35, poz. 192, z 1996 r. Nr 106, poz. 498 Nr 128, poz. 602, z 1997 r. Nr 88, poz. 554 oraz z 1998 r. Nr 106, poz. 668 Nr 162, poz. 1126) zarządza się, co następuje:
+W ramach nadzoru:
+1) wojewódzki zwany dalej „komendantem”, przeprowadza kontrole:
+a) roczne okresowe – określone planie kontroli opiniowanym przez wojewodę,
+b) doraźne – na wniosek wojewody lub z własnej inicjatywy, po uprzednim powiadomieniu wojewody o jej przyczynach terminie,
+2) Rybackiej składa:
+a) kwartalne sprawozdanie z działalności straży – wojewodzie,
+b) informacje na żądanie – komendantowi.
+3. Plan kontroli rocznych okresowych, opiniowany przez wojewodę, sporządza komendant.
+Do kontrolnych, o których mowa 2 pkt 1, może upoważnić strażnika kontrolującego, dokumenty materiały niezbędne przeprowadzenia kontroli.
+Kontrolujący ma prawo do:
+1) wstępu obiektów pomieszczeń
+2) żądania wyjaśnień strażników
+4.
+Komendant Rybackiej albo upoważniona przez niego osoba ma prawo uczestniczyć czynnościach kontrolnych podejmowanych przez kontrolującego.
+W razie ujawnienia toku kontroli okoliczności wskazujących na popełnienie przestępstwa, kontrolujący niezwłocznie zawiadamia na piśmie komendanta, który zawiadamia organ powołany ścigania przestępstw.
+5.
+Z przeprowadzonej kontroli kontrolujący sporządza protokół, zwany dalej „protokołem”, który powinien zawierać szczególności:
+1) datę miejsce przeprowadzenia kontroli,
+2) wyszczególnienie przeprowadzonych kontrolnych, stwierdzone uchybienia,
+4) zalecenia zmierzające usunięcia stwierdzonych uchybień,
+5) termin na wykonanie wydanych zaleceń.
+Protokół podpisują:
+1) kontrolujący,
+2)
+3. Protokół sporządza się trzech jednobrzmiących egzemplarzach, które otrzymują: wojewoda.
+6.
+Komendantowi Rybackiej przysługuje prawo zgłoszenia, przed podpisanie protokołu, umotywowanych zastrzeżeń co stwierdzonych uchybień zaleceń nim zawartych.
+Komendant Rybackiej jest obowiązany powiadomić, na piśmie, komendanta, określonym przez kontrolującego terminie, o którym mowa 5 pkt 5, o sposobie wykonania wydanych toku kontroli zaleceń.
+8.
+Kwartalne sprawozdanie z działalności o którym mowa 2 pkt 2 lit. a), powinno zawierać:
+1) zbiorczą informacje o przeprowadzonych kontrolach;
+2) informacje o dokonanym:
+a) zabezpieczeniu porzuconych ryb przedmiotów służących ich połowu,
+b) odebraniu za pokwitowaniem ryb przedmiotów służących ich połowu;
+informacje o współdziałaniu z Państwową Strażą Rybacką;
+4) informacje o realizacji zaleceń pokontrolnych, o których mowa 5 pkt 4.
+9.
+Społeczną Straż Rybacką tworzą:
 1)
-2) komendant Rybackiej.
-3. w trzech egzemplarzach, które komendant nej Rybackiej, komendant i wojewoda.
-6. 1. Komendantowi Rybackiej prawo przed podpisaniem pro umotywowanych co do stwierdzo nych i w nim zawartych.
-2. mowa w ust. 1, na do komendanta, w terminie 7 dni dnia otrzymania
-7. Komendant Rybackiej jest na komendanta, w przez terminie, którym mowa w 5 ust. 1 pkt 5, sposobie wykonania wyda nych w toku kontroli
-8. Kwartalne sprawozdanie z Spo Rybackiej, którym mowa w 1 ust. 2 pkt 2 lit. a), powinno
-1) przeprowadzonych kontro lach,
-2) informacje dokonanym:
-a) zabezpieczeniu porzuconych ryb i przedmiotów do ich
-b) odebraniu za pokwitowaniem ryb i przedmiotów do ich
-3) informacje z
-4) realizacji pokontrolnych, mowa w 5 ust. 1 pkt 4.
-2 Ramowy regulamin
-9. 1.
-1) komenda nt Rybackiej,
-2) Rybackiej, zwani dalej
-2. kieruje komendant Rybackiej .
-•
-10. 1. w patrolu.
-2. we wspólnym patrolu z
-11. kontrolne jest nej Rybackiej i na widocznym miejscu Rybackiej.
-12. 1. Przed do kontroli okazuje Rybac kiej.
-2. W razie wykonania mowa wart. 25 ust. 1 ustawy z dnia 18 kwietnia 1985 r. rybactwie (Dz. U. 21, poz. 91, z 1988 r. 19, poz. 132, z 1989 r.
-35, poz. 192, z 1996 r. 106, poz. 496 i 128, poz. 602, z 1997 r. 88, poz. 554 z 1998 r. 106, poz. 668 i 162, poz. 1126), zwanej dalej tych i zawiadamia ko mendanta Rybackiej.
-14. 1. Z przeprowadzonych mowa wart. 23 pkt 3 pkt 4 lit. b) ustawy, przepro je lub patrolem dalej
-2. Notatka powinna z 17 ust. 4:
-1) czas, i miejsce przeprowadzonych
-2) nazwisko i adres osoby kontrolowanej,
-3) wyszczególnienie przeprowadzonych
-4) czytelny podpis lub patrolem.
-15. 1. porzucone ryby lub patrolem je za pokwitowa niem uprawnionemu do rybactwa.
-2. W pokwitowaniu wyszczególnia i ryb z na gatunki. nie ma ich podaje poszczególnych gatun ków w sztukach, a orientacyjnie, zazna na pokwitowaniu, ich masa zo szacunkowo.
-3. pokwitowania do notatki.
-16. 1. porzucone i odebrane przedmioty do ryb, przekazuje je za pokwitowaniem Rybackiej;
-w wypadku gdy nie ma przekazania tych przedmiotów Rybackiej, one zdeponowane za pokwitowaniem u uprawnio nego do rybactwa na posterunku Po licji.
-2. W pokwitowaniu rodzaj, charakterystyczne cechy tych przedmiotów.
-3. pokwitowania do notatki.
-17. 1. W wypadku odebrania ryb osobie kontrolo wanej wystawia pokwitowanie.
-2. Do pokwitowania, którym mowa w ust. 1, sto suje odpowiednio 15 ust. 2.
-3. pokwitowania do notatki.
-4. W notatce zamieszcza dane uprawnione go do rybactwa, któremu przekazane odebrane ryby.
-3 Przepis
-18. wchodzi w po 14 dni dnia
+2) strażnicy zwani dalej „strażnikami”.
+Społeczną Strażą Rybacką kieruje
+10.
+Strażnicy mogą działać składzie patrolu.
+Strażnicy mogą działać we wspólnym patrolu z Państwową Strażą Rybacką.
+11.
+W razie uniemożliwienia strażnikowi wykonania uprawnień, o których mowa art. 25 ustawy z dnia 18 kwietnia 1985 r. o rybactwie śródlądowym (Dz.U. Nr 21, poz. 91, z 1988 r. Nr 19, poz. 132, z 1989 r. Nr 35, poz. 192, z 1996 r. Nr 106, poz. 496 Nr 128, poz. 602, z 1997 r. Nr 88, poz. 554 oraz z 1998 r. Nr 106, poz. 668 Nr 162, poz. 1126), zwanej dalej „ustawą”, odstępuje tych zawiadamia
+13.
+Z przeprowadzonych kontroli, o których mowa art. 23 pkt oraz 2 ustawy, przeprowadzający je lub kierujący patrolem sporządza zbiorcze sprawozdanie.
+14.
+Z przeprowadzonych czynności, o których mowa art. 23 pkt 3 oraz pkt 4 lit. b) ustawy, przeprowadzający je lub kierujący patrolem sporządza notatkę, zwaną dalej „notatką”.
+Notatka powinna zawierać, z zastrzeżeniem 17 4:
+1) czas, datę miejsce przeprowadzonych czynności,
+2) imię, nazwisko adres osoby kontrolowanej, wyszczególnienie przeprowadzonych czynności,
+4) czytelny podpis strażnika lub kierującego patrolem.
+15.
+Zabezpieczając porzucone ryby strażnicy lub kierujący patrolem przekazują je za pokwitowaniem uprawnionemu rybactwa.
+W pokwitowaniu wyszczególnia się ilość masę ryb z podziałem na gatunki. Jeżeli nie ma możliwości ich zważenia, podaje się ilość poszczególnych gatunków sztukach, a masę określa orientacyjnie, zaznaczając jednocześnie na pokwitowaniu, że ich masa została określona szacunkowo.
+3. Kopię pokwitowania dołącza się notatki.
+16.
+Zabezpieczając porzucone odebrane przedmioty służące połowu ryb przekazuje je za pokwitowaniem Rybackiej; wypadku gdy nie ma
+17.
+W wypadku odebrania ryb osobie kontrolowanej wystawia się pokwitowanie.
+Do pokwitowania, o którym mowa 1, stosuje się odpowiednio 15
+3. Kopie pokwitowania dołącza się notatki.
+4. W notatce zamieszcza dane uprawnionego rybactwa, któremu zostały przekazane odebrane ryby.
+18.
+Rozporządzenie wchodzi życie po upływie 14 dni dnia ogłoszenia.
+
+#### Rozdział Zasady sprawowania nadzoru specjalistycznego Specjalistyczny nadzór, zwany dalej „nadzorem” obejmujący legalność skuteczność działań powinien być przeprowadzany sposób rzetelny bezstronny.
+
+#### Rozdział 2 Ramowy regulamin
+
+#### Rozdział 3 Przepis końcowy
 

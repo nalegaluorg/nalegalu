@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 24 lipca 1997 r.
+# niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,45 +24,39 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970820518) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/518/text.pdf) |
 
-Poz.:
-USTAWA z dnia 9 maja 1997 r.
-zmianie ustawy zawodowych oraz zmianie niektórych innych ustaw.
+**Art. 1.** W ustawie dnia 23 maja 1991 związkach zawodowych (Dz.U. Nr 55, poz. 234, 1994 Nr 43, poz. 163 oraz 1996 Nr 1, poz. 2, Nr 24, poz. 110, Nr 61, poz. 283, Nr 75, poz. 355 Nr 152, poz. 723) wprowadza się następujące zmiany:
 
-**Art. 1.** W ustawie z dnia 23 maja 1991 r. zawodowych (Dz. U. 55, poz. 234, z 1994 r. 43, poz. 163 oraz z 1996 r. 1, poz. 2, 24, poz. 110, 61, poz. 283, 75, poz. 355 152, poz. 723) wpro wadza zmiany: wart. 27:
+**Art. 2.** W ustawie dnia 25 października 1990 zwrocie majątku utraconego przez związki zawodowe organizacje społeczne wyniku wprowadzenia stanu wojennego (Dz.U. 1996 Nr 143, poz. 661) art. 3 1 dodaje się pkt 5 brzmieniu: "5) potrącenia wzajemnej, bezspornej wymagalnej wierzytelności wobec Skarbu Państwa, zasadach przewidzianych dla zobowiązań podatkowych.".
 
-**Art. 2.** W ustawie z dnia 25 1990 r. zwrocie utraconego przez zawodowe organizacje wyniku wprowadzenia stanu wojennego (Dz. U. z 1996 r. 143, poz. 661) wart. 3 ust. 1 pkt 5 brzmieniu: ,,5) z wzajemnej, bezspornej wymagal nej wobec Skarbu zasadach przewidzianych dla po datkowych."
-
-**Art. 3.** W ustawie z dnia 23 maja 1991 r. waniu sporów zbiorowych (Dz. U. 55, poz. 236) wprowadza zmiany:
-
-**Art. 4.** W ustawie z dnia 4 marca 1994 r. wym funduszu socjalnych (Dz. U. z 1996 r. 70, poz. 335, 118, poz. 561, 139, poz. 647 147, poz. 686) wprowadza zmiany:
+**Art. 3.** W ustawie dnia 23 maja 1991 rozwiązywaniu sporów zbiorowych (Dz.U. Nr 55, poz. 236) wprowadza się następujące zmiany:
 
 **Art. 5.**
 
-1. Z dniem ustawy grunty Skarbu lub gminy komunalnego), nieruchomo mowa wart. 45 ust. 1 ustawy wymienio nej wart. 1, Ogólnopol skiego Porozumienia Zawodowych, przedmiotem wieczystego Ogólnopol skiego Porozumienia Zawodowych. Nie rusza to praw osób trzecich.
+1. Z dniem wejścia życie ustawy grunty stanowiące własność Skarbu Państwa lub gminy (związku komunalnego), będące częścią nieruchomości, których art. 45 1 ustawy wymienionej art. 1, pozostające użytkowaniu Ogólnopolskiego Porozumienia Związków Zawodowych, stają się przedmiotem użytkowania wieczystego Ogólnopolskiego Porozumienia Związków Zawodowych. Nie narusza to praw osób trzecich.
 
-2. Budynki inne oraz lokale gruntach ust. 1 z dniem ustawy z mocy prawa Ogólnopolskiego Porozumienia Zawodo wych. Nabycie
+4. Nabycie prawa użytkowania wieczystego gruntów, których 1, wolne jest od pierwszej opłaty za użytkowanie wieczyste.
 
-3. Nabycie prawa wieczystego grun tów, mowa ust. 1, oraz budyn ków, innych lokali, mowa ust. 2, stwierdza wojewody odniesieniu do nie Skarbu lub gminy nego) odniesieniu do komunalgminy komunalnego).
-
-4. Nabycie prawa wieczystego grun tów, mowa ust. 1, wolne jest od pierwszej za wieczyste.
-
-5. Minister Pracy Polityki Socjalnej, terminie czternastu dni od dnia ustawy, drodze wykaz któ rych mowa ust. 1 2, przedmio tem art. 45 ustawy wymienio nej wart. 1.
+5. Minister Pracy Polityki Socjalnej, terminie czternastu dni od dnia wejścia życie ustawy, określi, drodze rozporządzenia, wykaz nieruchomości, których 1 2, będących następnie przedmiotem podziału podstawie art. 45 ustawy wymienionej art. 1.
 
 **Art. 6.**
 
-1. Środki pieniężne Zrzeszenia Związków Za wodowych przekazane zasadach trybie nym przepisach wydanych art. 61 ust. 2 ustawy, której mowa wart. 48 ust. 1 ustawy wy mienionej wart. 1, waloryzacji, której mo wa wart. 3 ust. 1 ustawy wymienionej wart. 2, z tym waloryzacji dokonuje za okres do dnia wydania decyzji, której mowa ust. 2.
+1. Kwota środków pieniężnych będących przedmiotem przejęcia przez Ogólnopolskie Porozumienie Związków Zawodowych od Pełnomocnika Komisji Sprawowania Zarządu Majątkiem b. Central Związkowych, wymieniona protokole zdawczo-odbiorczym sporządzonym dnia 22 czerwca 1985 roku pozycji „IV.
 
-2. Minister Pracy Polityki Socjalnej dokona, dro dze decyzji, rozliczenia z waloryzacji, której mowa ust. 1.
+5. Środki pieniężne wysokości” - pomniejszona kwotę środków pieniężnych, wymienioną tym protokole pozycji „VI. 4. 4) wpłaty „Solidarności” Regiony” - podlega waloryzacji.
+
+2. Waloryzacja, której 1, polega podzieleniu kwoty podlegającej waloryzacji, obliczonej zgodnie 1, przez kwotę przeciętnego miesięcznego wynagrodzenia gospodarce uspołecznionej grudniu 1981 roku określoną załączniku nr 1 rozporządzenia Rady Ministrów dnia 22 listopada 1990 sprawie przygotowania rewaloryzacji emerytur rent (Dz. U. Nr 83, poz.
+
+- **484)** , a następnie pomnożeniu wyniku tego dzielenia przez kwotę przeciętnego miesięcznego wynagrodzenia IV kwartale 2001 roku ogłoszoną przez Prezesa Głównego Urzędu Statystycznego podstawie art. 20 pkt 3 ustawy dnia 17 grudnia 1998 emeryturach rentach Funduszu Ubezpieczeń Społecznych (Dz.U. Nr 162, poz. 1118, 1999 Nr 38, poz. 360, Nr 70, poz. 774, Nr 72, poz. 801 802 Nr 106, poz. 1215, 2000 Nr 2, poz. 26, Nr 9, poz. 118, Nr 19, poz. 238, Nr 56, poz. 678 Nr 84, poz. 948 oraz 2001 Nr 8, poz. 64, Nr 27, poz. 298, Nr 85, poz. 924 Nr 89, poz. 968).
+
+3. Kwota będą ca wynikiem waloryzacji, której 1 2, podlega podziałowi po połowie pomiędzy Niezależny Samorządny Związek Zawodowy „Solidarność” Ogólnopolskie Porozumienie Związków Zawodowych.
+
+4. Kwotę należną wyniku podziału, którym 3, Ogólnopolskiemu Porozumieniu Związków Zawodowych pomniejsza się kwotę środków pieniężnych przekazanych Ogólnopolskiemu Porozumieniu Związków Zawodowych podstawie decyzji Ministra Pracy Polityki Socjalnej dnia 4 września 1997
+
+5. Minister właściwy spraw finansów publicznych ureguluje zobowiązania
 
 **Art. 7.**
 
-1. Spółka z utworzona przez Ogólnopolskie Porozumienie ków Zawodowych, zwana dalej przejmie rozumieniu art. 55' Kodeksu cy wilnego, jednostki organizacyjnej "Fundusz Wczasów Pracowniczych", ustawy, której mowa ust. 3 jako aport wniesiony do przez Ogólnopolskie Porozumienie Zawodowych.
+3. Traci moc ustawa dnia 21 kwietnia 1988 Funduszu Wczasów Pracowniczych (Dz.U. Nr 11, poz. 84 1992 Nr 21, poz. 85).
 
-2. we wszystkie prawa ki Funpuszu Wczasów Pracowniczych, bez charakter stosunku prawnego, z którego te prawa
-
-3. Traci moc ustawa z dnia 21 kwietnia 1988 r. Funduszu Wczasów Pracowniczych (Dz. U. 11, poz. 84 z 1992 r. 21, poz. 85).
-
-4. Przepisy ustawy z dnia 30 sierpnia 1996 r. ko mercjalizacji prywatyzacji wych (Dz. U. 118, poz. 561 156, poz. 775 oraz z 1997 r. 32, poz. 184) stosuje odpowiednio uprawnionym pracownikom Funduszu Wczasów Pracowniczych oraz jego organów, stosunku do pokrytych aportem, którym mowa ust. 1. zasady nienia umowa
-
-**Art. 8.** Ustawa wchodzi po 14 dni od dnia z art. 4 pkt 2, który wchodzi z dniem 1 stycznia 1998 r., art. 7 ust. 3, który wchodzi z dniem 31 sierpnia 1997 r. Prezydent Rzeczypospolitej Polskiej: A.
+**Art. 8.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, wyjątkiem art. 4 pkt 2, który wchodzi życie dniem 1 stycznia 1998 art. 7 3, który wchodzi życie dniem 31 sierpnia 1997
 

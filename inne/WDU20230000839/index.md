@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 2 maja 2023 r.
+# o wykonaniu Umowy o handlu i współpracy między Unią Europejską i Europejską Wspólnotą Energii Atomowej, z jednej strony, a Zjednoczonym Królestwem Wielkiej Brytanii i Irlandii Północnej, z drugiej strony, w zakresie współpracy w sprawach karnych
+
+*USTAWA z dnia 14 kwietnia 2023 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +25,6 @@ domain: null
 | Data wydania | 2023-05-02 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000839) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/839/text.pdf) |
-
-Poz. 839
-USTAWA z dnia 14 kwietnia 2023 r.
-o wykonaniu Umowy o handlu i współpracy między Unią Europejską i Europejską Wspólnotą Energii Atomowej, z jednej strony, a Zjednoczonym Królestwem Wielkiej Brytanii i Irlandii Północnej, z drugiej strony, w zakresie współpracy w sprawach karnych
 
 **Art. 1.** W zakresie współpracy w sprawach karnych ze stosunków międzynarodowych ze Zjednoczonym Królestwem Wielkiej Brytanii i Irlandii Północnej stosuje się:
 

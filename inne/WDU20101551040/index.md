@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# Ustawa z dnia 23 lipca 2010 r. o nadaniu nowej nazwy Akademii Podlaskiej
+# o nadaniu nowej nazwy Akademii Podlaskiej
+
+*USTAWA z dnia 23 lipca 2010 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,5 +26,7 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101551040) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/1040/text.pdf) |
 
-**Art. 1.** Akademii Podlaskiej nadaje się nazwę „Uni- Art. 2. Ustawa wchodzi w życie z dniem 1 paździerwersytet Przyrodniczo-Humanistyczny w Siedlcach”. nika 2010 r. 1040 USTAWA z dnia 23 lipca 2010 r. o nadaniu nowej nazwy Akademii Podlaskiej Prezydent Rzeczypospolitej Polskiej: B. Komorowski
+**Art. 1.** Akademii Podlaskiej nadaje się nazwę „Uniwersytet Przyrodniczo-Humanistyczny w Siedlcach”.
+
+**Art. 2.** Ustawa wchodzi w życie z dniem 1 października 2010 r.
 

@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, 20 sierpnia 2015 Poz. 1211
+# realizacji inwestycji zakresie dróg publicznych
 
 | Pole | Wartość |
 |---|---|
@@ -24,17 +24,13 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001211) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1211/text.pdf) |
 
-USTAWA 24 lipca 2015 zmianie udostępnianiu informacji środowisku jego ochronie, udziale społeczeństwa ochronie środowiska oraz ocenach oddziaływania środowisko oraz szczególnych zasadach przygotowania realizacji inwestycji zakresie dróg publicznych
-
-**Art. 1.** W ustawie 3 października 2008 udostępnianiu informacji środowisku jego ochronie, udziale społeczeństwa ochronie środowiska oraz ocenach oddziaływania środowisko (Dz. poz. 1235, późn. zm. ) wprowadza się następujące zmiany:
-
-**Art. 2.** W ustawie 10 kwietnia 2003 szczególnych zasadach przygotowania realizacji inwestycji zakresie dróg publicznych (Dz. poz. 687 oraz 2014 poz. 40) po art. 21 dodaje się art. 21a brzmieniu: „Art. 21a. 1. W przypadku gdy inwestycja drogowa zakresie drogi krajowej wymaga wykonania prac przygotowawczych polegających wycince drzew krzewów, przeprowadzenia badań archeologicznych lub geologicznych, a także przeprowadzenia kompensacji przyrodniczej nieruchomościach stanowiących własność Skarbu Państwa, zarządzanych przez Lasy Państwowe zgodnie ustawą 28 września 1991 lasach, środowiskowych uwarunkowaniach uprawnia do nieodpłatnego wejścia teren, którym jest przewidywana realizacja inwestycji, celem wykonania tych prac. 2. W zakresie wycinki drzew krzewów stosuje się odpowiednio przepisy art. 20b art. 21.”.
+**Art. 1.** W ustawie dnia 3 października 2008 udostępnianiu informacji środowisku jego ochronie, udziale społeczeństwa ochronie środowiska ocenach oddziaływania na środowisko (Dz. U. 1235, późn. zm. ) wprowadza się następujące zmiany:
 
 **Art. 3.**
 
-1. W przypadku przedsięwzięć zakresie dróg publicznych lub linii kolejowych, dla których przed dniem wejścia życie niniejszej została wydana środowiskowych uwarunkowaniach złożenie wniosku wydanie decyzji, których mowa art. 72 ust. 1 pkt 1, 3, 10–12 zmienianej art. 1, lub dokonanie zgłoszenia, którym mowa art. 72 ust. 1a tej ustawy, następuje 6 którym środowiskowych uwarunkowaniach stała się ostateczna.
+1. W przypadku przedsięwzięć zakresie dróg publicznych lub linii kolejowych, dla których przed dniem wejścia życie niniejszej została wydana decyzja uwarunkowaniach złożenie wniosku wydanie decyzji, których mowa art. 72 ust. 1 pkt 3, 10–12 zmienianej art. lub dokonanie zgłoszenia, którym mowa art. 72 ust. 1a tej ustawy, następuje terminie 6 lat od dnia, którym decyzja uwarunkowaniach stała się ostateczna.
 
-2. Złożenie wniosku lub dokonanie zgłoszenia może nastąpić 10 którym środowiskowych uwarunkowaniach stała się ostateczna, ile strona, która złożyła wniosek wydanie decyzji środowiskowych uwarunkowaniach, lub podmiot, który została przeniesiona ta decyzja, otrzymali, przed upływem terminu, którym mowa ust. 1, organu, który wydał decyzję środowiskowych uwarunkowaniach, stanowisko, że realizacja planowanego przedsięwzięcia przebiega etapowo oraz, że aktualne są warunki realizacji przedsięwzięcia zawarte decyzji środowiskowych uwarunkowaniach lub postanowieniu, którym mowa art. 90 ust. 1 zmienianej art. 1, jeżeli było wydane. Zajęcie stanowiska następuje drodze postanowienia podstawie informacji temat stanu środowiska możliwości realizacji warunków wynikających decyzji środowiskowych uwarunkowaniach.
+2. Złożenie wniosku lub dokonanie zgłoszenia może nastąpić terminie 10 lat od dnia, którym decyzja uwarunkowaniach stała się ostateczna, ile strona, która złożyła wniosek wydanie decyzji uwarunkowaniach, lub podmiot, na który została przeniesiona ta decyzja, otrzymali, przed upływem terminu, którym mowa ust. od organu, który wydał decyzję uwarunkowaniach, stanowisko, że realizacja planowanego przedsięwzięcia przebiega etapowo oraz, że aktualne są warunki realizacji przedsięwzięcia zawarte decyzji uwarunkowaniach lub postanowieniu, którym mowa art. 90 ust. 1 zmienianej art. jeżeli było wydane. Zajęcie stanowiska następuje drodze postanowienia na podstawie informacji na temat stanu środowiska możliwości realizacji warunków wynikających decyzji uwarunkowaniach.
 
-**Art. 4.** Ustawa wchodzi życie po upływie 14 dni ogłoszenia. Prezydent Rzeczypospolitej Polskiej: B. Komorowski
+**Art. 4.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: B. Komorowski
 

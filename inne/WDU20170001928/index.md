@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# Warszawa, dnia 17 października 2017 r.
+# w sprawie ogłoszenia jednolitego tekstu ustawy o stanie wyjątkowym
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 28 września 2017 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,12 +26,10 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001928) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1928/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 28 września 2017 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o stanie wyj tkowym
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 21 czerwca 2002 r. o stanie wyjątkowym (Dz. U. z 2016 r. poz. 886), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 16 listopada 2016 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 1954) oraz zmian wynikających z przepisów ogłoszonych przed dniem 27 września 2017 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 43 ustawy z dnia 16 listopada 2016 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 1954), który stanowi: „Art. 43. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 39 ust. 2 3, które wchodzą w życie z dniem następującym po dniu ogłoszenia.”.
 Marszałek Sejmu: M. Kuchciński z dnia 21 czerwca 2002 r.
-o stanie wyj tkowym
+o stanie wyjątkowym
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -67,7 +67,11 @@ o stanie wyj tkowym
 
 4. Przepisy art. 4 ust. 1 3 stosuje się odpowiednio do rozporządzenia, o którym mowa w ust. 2.
 
-**Art. 6.** Redaktorzy naczelni dzienników oraz nadawcy programów radiowych telewizyjnych s obowi zani do nieArt. 9. Działania przywracające konstytucyjny ustrój państwa, bezpieczeństwo obywateli lub porządek publiczny, a w szczególności koordynację kontrolę funkcjonowania administracji rządowej samorządowej wykonują:
+**Art. 6.** Redaktorzy naczelni dzienników oraz nadawcy programów radiowych telewizyjnych są obowiązani do niezwłocznego, nieodpłatnego podania do publicznej wiadomości rozporządzenia Prezydenta Rzeczypospolitej Polskiej o wprowadzeniu stanu wyjątkowego innych aktów prawnych dotyczących tego stanu, przekazanych im przez wojewodę właściwego ze względu na siedzibę redakcji lub nadawcy.
+
+**Art. 7.** Minister właściwy do spraw zagranicznych notyfikuje Sekretarzowi Generalnemu Organizacji Narodów Zjednoczonych oraz Sekretarzowi Generalnemu Rady Europy wprowadzenie zniesienie stanu wyjątkowego.
+
+**Art. 9.** Działania przywracające konstytucyjny ustrój państwa, bezpieczeństwo obywateli lub porządek publiczny, a w szczególności koordynację kontrolę funkcjonowania administracji rządowej samorządowej wykonują:
 
 **Art. 10.** Prezes Rady Ministrów jest obowiązany do informowania na bieżąco Prezydenta Rzeczypospolitej Polskiej o skutkach wprowadzenia stanu wyjątkowego oraz o rodzaju rezultatach działań podejmowanych w celu przywrócenia normalnego funkcjonowania państwa.
 
@@ -97,7 +101,9 @@ o stanie wyj tkowym
 
 2. Użycie oddziałów pododdziałów Sił Zbrojnych Rzeczypospolitej Polskiej, o którym mowa w ust. 1, nie może zagrozić ich zdolności do realizacji zadań wynikających z Konstytucji Rzeczypospolitej Polskiej ratyfikowanych umów międzynarodowych.
 
-3. W przypadku, o którym mowa w ust. 1, oddziały pododdziały Sił Zbrojnych Rzeczypospolitej Polskiej pozostają pod dowództwem przełożonych służbowych wykonują zadania wyznaczone przez Ministra Obrony Narodowej w uzgodnieniu z ministrem wła ś ciwym do spraw wewn ę trznych. Ż ołnierzom wyznaczonym do tych oddziałów pododdziałów 3b. Do użycia wykorzystania środków przymusu bezpośredniego przez oddziały pododdziały Sił Zbrojnych Rzeczypospolitej Polskiej stosuje się przepisy art. 41–43 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego broni palnej.
+3. W przypadku, o którym mowa w ust. 1, oddziały pododdziały Sił Zbrojnych Rzeczypospolitej Polskiej pozostają pod dowództwem przełożonych służbowych wykonują zadania wyznaczone przez Ministra Obrony Narodowej w uzgodnieniu z ministrem właściwym do spraw wewnętrznych. Żołnierzom wyznaczonym do tych oddziałów pododdziałów przysługują, w zakresie niezbędnym do wykonania ich zadań, uprawnienia policjantów określone w art. 15 art. 16 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2016 r. poz. 1782, z późn. zm. ).
+
+3b. Do użycia wykorzystania środków przymusu bezpośredniego przez oddziały pododdziały Sił Zbrojnych Rzeczypospolitej Polskiej stosuje się przepisy art. 41–43 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego broni palnej.
 
 3c. Oddziały pododdziały Sił Zbrojnych Rzeczypospolitej Polskiej mogą użyć broni palnej lub ją wykorzystać.
 
@@ -131,7 +137,7 @@ o stanie wyj tkowym
 
 **Art. 13.** W czasie stanu wyjątkowego organy porządku bezpieczeństwa publicznego mogą w celu przywrócenia porządku publicznego wkroczyć na teren szkoły wyższej bez wezwania przez rektora, którego należy niezwłocznie o tym zawiadomić.
 
-**Art. 14.** Decyzje wydane przez organy władzy publicznej na podstawie niniejszej ustawy lub przepisów wykonawczych stosuje się odpowiednio wobec osób prawnych jednostek organizacyjnych nieposiadających osobowości prawnej, mających siedzibę lub prowadzących działalność na obszarze objętym stanem wyjątkowym. 2. Rodzaje ograniczeń wolności praw człowieka obywatela określone w rozporządzeniach, o których mowa w art. 3 ust. 1 art. 5 ust. 1, powinny odpowiadać charakterowi oraz intensywności zagrożeń stanowiących przyczyny wprowadzenia stanu wyjątkowego, a także zapewniać skuteczne przywrócenie normalnego funkcjonowania państwa.
+**Art. 14.** Decyzje wydane przez organy władzy publicznej na podstawie niniejszej ustawy lub przepisów wykonawczych podlegają natychmiastowemu wykonaniu. Przepisy o postępowaniu egzekucyjnym w administracji stosuje się odpowiednio. stosuje się odpowiednio wobec osób prawnych jednostek organizacyjnych nieposiadających osobowości prawnej, mających siedzibę lub prowadzących działalność na obszarze objętym stanem wyjątkowym. 2. Rodzaje ograniczeń wolności praw człowieka obywatela określone w rozporządzeniach, o których mowa w art. 3 ust. 1 art. 5 ust. 1, powinny odpowiadać charakterowi oraz intensywności zagrożeń stanowiących przyczyny wprowadzenia stanu wyjątkowego, a także zapewniać skuteczne przywrócenie normalnego funkcjonowania państwa.
 
 **Art. 16.**
 
@@ -158,7 +164,11 @@ o stanie wyj tkowym
 
 3. Odosobnienie następuje na podstawie decyzji wojewody właściwego ze względu na miejsce pobytu stałego lub czasowego osoby odosobnionej jest wykonywane przez właściwego komendanta wojewódzkiego Policji, w drodze zatrzymania tej osoby przymusowego doprowadzenia do ośrodka odosobnienia podległego Ministrowi Sprawiedliwości.
 
-4. Wojewoda, o którym mowa w ust. 3, wszczyna postępowanie w sprawach odosobnienia na wniosek właściwych organów prokuratury, Policji, Agencji Bezpiecze ń stwa Wewn ę trznego, Stra ż y Granicznej, Ż andarmerii Wojskowej lub Słu ż 7. W czasie odosobnienia nie może być rozwiązany stosunek pracy z osobą odosobnioną, chyba że przed odosobnieniem zaistniały z jej winy okoliczności uzasadniające rozwiązanie stosunku pracy bez wypowiedzenia. Termin do wniesienia środków prawnych przeciwko rozwiązaniu stosunku pracy liczy się w tych przypadkach od dnia zakończenia odosobnienia.
+4. Wojewoda, o którym mowa w ust. 3, wszczyna postępowanie w sprawach odosobnienia na wniosek właściwych organów prokuratury, Policji, Agencji Bezpieczeństwa Wewnętrznego, Straży Granicznej, Żandarmerii Wojskowej lub Służby Kontrwywiadu Wojskowego.
+
+5. Decyzję w sprawie odosobnienia doręcza się osobie odosobnionej niezwłocznie, nie później niż w ciągu 48 godzin od chwili jej wydania. Decyzję tę uchyla się niezwłocznie, jeżeli ustaną przyczyny uzasadniające odosobnienie.
+
+7. W czasie odosobnienia nie może być rozwiązany stosunek pracy z osobą odosobnioną, chyba że przed odosobnieniem zaistniały z jej winy okoliczności uzasadniające rozwiązanie stosunku pracy bez wypowiedzenia. Termin do wniesienia środków prawnych przeciwko rozwiązaniu stosunku pracy liczy się w tych przypadkach od dnia zakończenia odosobnienia.
 
 8. Do pobytu osób odosobnionych w ośrodkach odosobnienia stosuje się odpowiednio przepisy Kodeksu karnego wykonawczego dotyczące praw obowiązków tymczasowo aresztowanych, wykonywania tymczasowego aresztowania oraz nadzoru penitencjarnego.
 
@@ -225,6 +235,7 @@ o stanie wyj tkowym
 - **3)** wbrew zakazowi określonemu w art. 16 ust. 1 pkt 3–5 uczestniczy w strajku lub innej akcji protestacyjnej pracowników lub rolników, albo akcji protestacyjnej studentów zorganizowanej przez studenckie samorządy, stowarzyszenia lub organizacje,
 - **4)** wbrew zakazowi określonemu w art. 16 ust. 1 pkt 6 lit. a tworzy stowarzyszenie, partię polityczną, związek zawodowy, organizację społeczno-zawodową rolników, organizację pracodawców, ruch obywatelski, dobrowolne zrzeszenie lub fundację,
 - **5)** wbrew nakazowi określonemu w art. 16 ust. 1 pkt 6 lit. b uczestniczy w działalności zarejestrowanego stowarzyszenia, partii politycznej, związku zawodowego, organizacji społeczno-zawodowej rolników, organizacji pracodawców, ruchu obywatelskiego, dobrowolnego zrzeszenia lub fundacji,
+- **6)** wbrew obowiązkowi określonemu w art. 18 ust. 1 nie posiada przy sobie dowodu osobistego lub innego dokumentu stwierdzającego tożsamość,
 - **9)** wbrew nakazowi określonemu w art. 18 ust. 2 pkt 3 nie zgłasza w ustalonym terminie organowi ewidencji ludności lub Policji przybycia do określonej miejscowości,
 - **10)** wbrew zakazowi określonemu w art. 18 ust. 2 pkt 4 utrwala za pomocą środków technicznych wygląd lub inną cechę określonego miejsca, obiektu lub obszaru,
 - **11)** wbrew nakazowi określonemu w art. 21 pkt 1 narusza zasady reglamentacji zaopatrzenia ludności, 11a) wbrew zakazowi określonemu w art. 21 pkt 1a podwyższa ceny na towary lub usługi określonego rodzaju albo nie stosuje się do nakazu stosowania cen w wysokości ustalonej na towary lub usługi określonego rodzaju,
@@ -249,4 +260,8 @@ o stanie wyj tkowym
 #### Rozdział 5 Zmiany w przepisach obowiązujących przepisy końcowe
 
 **Art. 25.** (pominięty)
+
+**Art. 26.** Traci moc ustawa z dnia 5 grudnia 1983 r. o stanie wyjątkowym (Dz. U. poz. 297, z 1989 r. poz. 178 oraz z 1997 r. poz. 512 554).
+
+**Art. 27.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia .
 

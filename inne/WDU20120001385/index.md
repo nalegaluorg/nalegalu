@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 11 grudnia 2012
+# o zmianie ustawy o obrocie instrumentami finansowymi oraz niektórych innych ustaw
+
+*USTAWA z dnia 24 października 2012 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,21 +26,25 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001385) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1385/text.pdf) |
 
-USTAWA dnia 24 października 2012 o zmianie ustawy o obrocie instrumentami finansowymi niektórych innych ustaw
+**Art. 1.** W ustawie z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2010 r. Nr 211, poz. 1384, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 1.** W ustawie dnia 29 lipca 2005 o obrocie instrumentami finansowymi (Dz. U. 2010 211, 1384, późn. zm. ) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych (Dz. U. z 2010 r. Nr 34, poz. 189, z późn. zm. ) wprowadza się następujące zmiany: „3. W przypadku udzielenia zezwolenia na utworzenie pracowniczego funduszu, organ nadzoru zawiadamia Europejski Urząd Nadzoru Ubezpieczeń i Pracowniczych Programów Emerytalnych o udzieleniu tego zezwolenia, dołączając informację o jego treści.”;
 
-**Art. 2.** W ustawie dnia 28 sierpnia 1997 o organizacji funkcjonowaniu funduszy emerytalnych (Dz. U. 2010 34, 189, późn. zm. ) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2012 r. poz. 1376) wprowadza się następujące zmiany:
 
-**Art. 4.** W ustawie dnia 24 sierpnia 2001 o ostateczności rozrachunku systemach płatności systemach rozrachunku papierów wartościowych zasadach nadzoru nad tymi systemami (Dz. U. 2010 112, 743, późn. zm. ) wprowadza się następujące zmiany:
+**Art. 4.** W ustawie z dnia 24 sierpnia 2001 r. o ostateczności rozrachunku systemach płatności i systemach rozrachunku papierów wartościowych oraz zasadach nadzoru nad tymi systemami (Dz. U. z 2010 r. Nr 112, poz. 743, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 5.** W ustawie dnia 22 maja 2003 o działalności ubezpieczeniowej (Dz. U. 2010 11, 66, późn. zm. ) wprowadza się następujące zmiany:
+**Art. 5.** W ustawie z dnia 22 maja 2003 r. o działalności ubezpieczeniowej (Dz. U. z 2010 r. Nr 11, poz. 66, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 8.** W ustawie dnia 29 lipca 2005 o nadzorze nad rynkiem kapitałowym (Dz. U. 183, 1537, późn. zm. ) wprowadza się następujące zmiany:
+**Art. 6.** W ustawie z dnia 27 maja 2004 r. o funduszach inwestycyjnych (Dz. U. Nr 146, poz. 1546, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 9.** W ustawie dnia 29 lipca 2005 o ofercie publicznej warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu o spółkach publicznych (Dz. U. 2009 185, 1439, 2010 167, 1129 2012 836) wprowadza się następujące zmiany:
+**Art. 7.** W ustawie z dnia 15 kwietnia 2005 r. o nadzorze uzupełniającym nad instytucjami kredytowymi, zakładami ubezpieczeń, zakładami reasekuracji i firmami inwestycyjnymi wchodzącymi skład konglomeratu finansowego (Dz. U. Nr 83, poz. 719, z 2006 r. Nr 157, poz. 1119 oraz z 2009 r. Nr 42, poz. 341) wprowadza się następujące zmiany:
 
-**Art. 10.** W ustawie dnia 21 lipca 2006 o nadzorze nad rynkiem finansowym (Dz. U. 2012 1149 1166) wprowadza się następujące zmiany:
+**Art. 8.** W ustawie z dnia 29 lipca 2005 r. o nadzorze nad rynkiem kapitałowym (Dz. U. Nr 183, poz. 1537, z późn.
+
+**Art. 9.** W ustawie z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. z 2009 r. Nr 185, poz. 1439, z 2010 r. Nr 167, poz. 1129 oraz z 2012 r. poz. 836) wprowadza się następujące zmiany: „Art. 19. 1. W przypadku naruszenia przepisów prawa związku z ofertą publiczną, dopuszczeniem lub wprowadzeniem papierów wartościowych do obrotu na rynku regulowanym lub prowadzeniem akcji promocyjnej na terytorium Rzeczypospolitej Polskiej, przez emitenta, dla którego Rzeczpospolita Polska jest państwem przyjmującym, lub podmiot uczestniczący ofercie publicznej, dopuszczeniu lub wprowadzeniu papierów wartościowych do obrotu na rynku regulowanym lub akcji promocyjnej, imieniu lub na zlecenie takiego emitenta, Komisja przekazuje informację o tym zdarzeniu właściwemu organowi państwa macierzystego tego emitenta oraz Europejskiemu Urzędowi Nadzoru Giełd i Papierów Wartościowych. 2. W przypadku gdy, mimo poinformowania przez Komisję, właściwy organ państwa macierzystego emitenta nie podejmuje działań mających zapobiec dalszemu naruszaniu przepisów prawa lub gdy te działania są nieskuteczne, Komisja może, celu ochrony interesu inwestorów, po uprzednim poinformowaniu tego organu i Europejskiego Urzędu Nadzoru Giełd i Papierów Wartościowych, zastosować środki określone odpowiednio 16, 17 lub 53 ust. 5. Komisja niezwłocznie przekazuje informację o zastosowaniu tych środków Komisji Europejskiej i Europejskiemu Urzędowi Nadzoru Giełd i Papierów Wartościowych.”;
+
+**Art. 10.** W ustawie z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. z 2012 r. poz. 1149 i 1166) wprowadza się następujące zmiany:
 
 **Art. 11.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: B. Komorowski
 

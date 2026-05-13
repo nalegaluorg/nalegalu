@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, 27 lutego 1991 Nr 16 71
+# o przejęciu majątku byłej Polskiej Zjednoczonej Partii Robotniczej
+
+*USTAWA z dnia 9 listopada 1990 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,41 +26,35 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19910160072) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1991/72/text.pdf) |
 
-USTAWA 21 1990 o ratyfikacji Konwencji o prawach dziecka. przez Zgromadzenie Og61ne Narod6w Zjednoczonych 20 listopada 1989
-
-**Art. 1.** na dokonanie przez Prezyden- Art. 2. Ustawa w dniem ta Rzeczypospolitej Polskiej ratyfikacji Konwencji o prawach szenia. dziecka, przez Zgromadzenie Ogólne Narodów Zjednoczonych 20 listopada 1989 Prezydent Rzeczypospolitej Polskiej: L. 72 USTAWA 9 listopada 1990 o Polskiej Zjednoczonej Partii Robotniczej.
-
 **Art. 1.**
 
-1. i które po w dniu 24 sierpnia 1989 w samoistnym po siadaniu Polskiej Zjednoczonej Partii Robotniczej lub jednostek organizacyjnych podleg Polskiej Zjednoczonej Partii Robotniczej, na mocy niniejszej ustawy na rzecz Skarbu twa.
+1. Nieruchomości i ruchomości, kt(cid:243)re pozostawały w dniu 24 sierpnia 1989 r. w samoistnym posiadaniu byłej Polskiej Zjednoczonej Partii Robotniczej lub wyodrębnionych jednostek organizacyjnych podległych byłej Polskiej Zjednoczonej Partii Robotniczej w szczeg(cid:243)lności użytkowane następnie przez Socjaldemokrację Rzeczypospolitej Polskiej, przechodzą na mocy niniejszej ustawy na rzecz Skarbu Państwa.
 
-2. Na rzecz Skarbu ist w dniu w ustawy finansowe i inne prawa Polskiej Zjed noczonej Partii Robotniczej, kwot cych ze
+2. Na rzecz Skarbu Państwa przechodzą r(cid:243)wnież istniejące w dniu wejścia w życie ustawy wierzytelności, środki finansowe i inne prawa majątkowe byłej Polskiej Zjednoczonej Partii Robotniczej, z wyjątkiem kwot pochodzących ze składek członkowskich.
 
-3. Nie na· rzecz Skarbu nieru i w dniu 24 sierpnia 1989 przedmiot osób, które i udo swoje prawa w trybie przewidzianym wart. 4.
+3. Nie przechodzą na rzecz Skarbu Państwa nieruchomości i ruchomości stanowiące w dniu 24 sierpnia 1989 r. przedmiot własności os(cid:243)b, kt(cid:243)re zgłoszą i udowodnią swoje prawa w trybie przewidzianym w art. 4.
 
-**Art. 2.** Za uznaje prawne Polskiej Zjednoczonej Partii Robotniczej i jej jednostek organizacyjnych, w wyniku któ rych wart. 1 ust. 1 i 2 celowo uszczuplony po dniu 24 sierpnia 1989
+**Art. 2.** Za nieważne uznaje się czynności prawne byłej Polskiej Zjednoczonej Partii Robotniczej i podległych jej wyodrębnionych jednostek organizacyjnych, w wyniku kt(cid:243)rych majątek określony w art. 1 ust. 1 i 2 został celowo uszczuplony po dniu 24 sierpnia 1989 roku.
 
-**Art. 3.** Terenowe organy administracji ogól nej na rzecz Skarbu nierucho i wart. 1 ust. 1. stanowi wpisu wieczystych.
+**Art. 3.** Terenowe organy rządowej administracji og(cid:243)lnej przejmą niezwłocznie na rzecz Skarbu Państwa nieruchomości i ruchomości określone w art. 1 ust. 1. Protok(cid:243)ł przejęcia stanowi podstawę do wpisu tytułu własności nieruchomości do ksiąg wieczystych.
 
 **Art. 4.**
 
-1. Osoby, które prawa nieruchomo lub wart. 1 ust. 1, w terminie 31 grudnia 1992 na
+1. Osoby, kt(cid:243)re roszczą prawa do nieruchomości lub ruchomości określonych w art. 1 ust. 1, mogą wystąpić na drogę sądową na zasadach og(cid:243)lnych.
 
-2. Osoby, o których mowa w ust; 1, zwolnione od kosztów
+2. Osoby, o kt(cid:243)rych mowa w ust. 1, są zwolnione od koszt(cid:243)w sądowych.
 
-3. Nie prawomocnymi orzeczeniami po przed i administracyjne Polskiej Zjednoczonej Partii Robot niczej lub jej jednostek or ganizacyjnych rozpatrywane przepi sów niniejszej ustawy.
+3. Nie zakończone prawomocnymi orzeczeniami postępowania przed sądami i postępowania administracyjne dotyczące majątku byłej Polskiej Zjednoczonej organizacyjnych, będą rozpatrywane z uwzględnieniem przepis(cid:243)w niniejszej ustawy.
 
-**Art. 5.** Skarb przejmuje za lub art. 1 ust. 1 ich Dziennik Ustaw Nr 16 -.:.... 190 Poz. 72 i 73
+**Art. 5.** Skarb Państwa przejmuje odpowiedzialność za zobowiązania obciążające nieruchomości lub ruchomości objęte art. 1 ust. 1 ustawy do wysokości ich wartości.
 
 **Art. 6.**
 
-1. Minister-Szef Rady Ministrów po likwidatora mienia Polskiej Zjednoczonej Partii Robotniczej i jej jednostek organizacyjnych.
+1. Minister - Szef Urzędu Rady Ministr(cid:243)w powoła likwidatora mienia byłej Polskiej Zjednoczonej Partii Robotniczej i podległych jej wyodrębnionych jednostek organizacyjnych.
 
-2. Likwidator reprezentuje Skarb
+2. Likwidator reprezentuje Skarb Państwa.
 
-3. Do likwidatora ustalenie, zabezpiecze nie oraz który na rzecz Skarbu na podstawie niniejszej ustawy.
+3. Do zadań likwidatora należy ustalenie, zabezpieczenie oraz określenie wartości majątku, kt(cid:243)ry przeszedł na rzecz Skarbu Państwa na podstawie niniejszej ustawy.
 
-**Art. 7.** Ustawa wchodzi w dniem szenia. Prezydent Rzeczypospolitej Polskiej: L. 73 USTAWA 4 stycznia 1991 o zmianie ustawy - Kodeks morski.
-
-**Art. 1.** W ustawie 1 grudnia 1961 - Kodeks morski (Dz. U. 1986 Nr 22, poz. 112 i 1989 Nr 35, poz.
+**Art. 7.** Ustawa wchodzi w życie z dniem ogłoszenia.
 

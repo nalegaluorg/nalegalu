@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 6 sierpnia 2024 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy ustanowieniu Medalu za Zasługi dla Policji oraz Medalu imienia podkomisarza Policji Andrzeja Struja Na podstawie 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 7 czerwca 2001 r. ustanowieniu Medalu za Zasługi dla Policji (Dz. U. poz. 726), z uwzględnieniem zmian wprowadzonych ustawą z dnia grudnia 2021 r. ustanowieniu „Programu modernizacji Policji, Straży Granicznej, Państwowej Straży Pożarnej i Służby Ochrony Państwa latach 2022–2025”, ustanowieniu „Programu modernizacji Służby Więziennej latach 2022–2025” oraz zmianie ustawy Policji i niektórych innych ustaw (Dz. U. poz. 2448) oraz zmian wynikających z przepisów ogłoszonych przed dniem 31 lipca 2024 r.
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 1 sierpnia 2024 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2024-08-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001187) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1187/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 1 sierpnia 2024 r.
-sprawie ogłoszenia jednolitego tekstu ustawy ustanowieniu Medalu za Zasługi dla Policji oraz Medalu imienia podkomisarza Policji Andrzeja Struja Na podstawie 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 7 czerwca 2001 r. ustanowieniu Medalu za Zasługi dla Policji (Dz. U. poz. 726), z uwzględnieniem zmian wprowadzonych ustawą z dnia grudnia 2021 r. ustanowieniu „Programu modernizacji Policji, Straży Granicznej, Państwowej Straży Pożarnej i Służby Ochrony Państwa latach 2022–2025”, ustanowieniu „Programu modernizacji Służby Więziennej latach 2022–2025” oraz zmianie ustawy Policji i niektórych innych ustaw (Dz. U. poz. 2448) oraz zmian wynikających z przepisów ogłoszonych przed dniem 31 lipca 2024 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje 30 i 32 ustawy z dnia grudnia 2021 r. ustanowieniu „Programu modernizacji Policji, Straży Granicznej, Państwowej Straży Pożarnej i Służby Ochrony Państwa latach 2022–2025”, ustanowieniu „Programu modernizacji Służby Więziennej latach 2022–2025” oraz zmianie ustawy Policji i niektórych innych ustaw (Dz. U. poz. 2448), które stanowią: „Art. 30. Dotychczasowe przepisy wykonawcze wydane na podstawie:
 1) 25 ust. 23 ustawy zmienianej 13 zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych na podstawie 25 ust. 23 ustawy zmienianej 13 brzmieniu nadanym niniejszą ustawą,
 2) 35a ust. 5 ustawy zmienianej 13 zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych na podstawie 35a ust. 5 ustawy zmienianej 13 brzmieniu nadanym niniejszą ustawą,
@@ -128,5 +128,5 @@ Art. 2) Ustanawia się:
 - **2)** sposób wręczania i noszenia odznaki Medalu, którym 1 1 i 2, oraz prowadzenia ewidencji, 9 ust. 1,
 - **3)** wzory odpowiednich dokumentów mając na względzie potrzebę sprawnego sporządzania dokumentacji oraz terminowego prowadzenia postępowania, jak również uwzględniając uroczysty charakter aktu wręczania Medalu.
 
-**Art. 11.** Ustawa wchodzi życie po upływie 30 dni od dnia ogłoszenia . WZÓR ODZNAKI „MEDALU ZA ZASŁUGI DLA POLICJI” Złota Srebrna Brązowa odwrotna strona odwrotna strona odwrotna strona WZÓR MEDAL IMIENIA PODKOMISARZA POLICJI ANDRZEJA STRUJA Awers Rewers
+**Art. 11.** Ustawa wchodzi życie po upływie 30 dni od dnia ogłoszenia . WZÓR ODZNAKI „MEDALU ZA ZASŁUGI DLA POLICJI” Złota Srebrna Brązowa odwrotna strona odwrotna strona odwrotna strona baretka baretka baretka WZÓR MEDAL IMIENIA PODKOMISARZA POLICJI ANDRZEJA STRUJA Awers Rewers
 

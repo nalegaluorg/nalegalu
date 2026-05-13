@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 14 lutego 2025 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy o działaniach antyterrorystycznych
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 5 lutego 2025 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2025-02-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000194) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/194/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 5 lutego 2025 r.
-sprawie ogłoszenia jednolitego tekstu ustawy o działaniach antyterrorystycznych
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 10 czerwca 2016 r. o działaniach antyterrorystycznych (Dz. U. z 2024 r. poz. 92), z uwzględnieniem zmian wprowadzonych:
 1) ustawą z dnia 26 lipca 2024 r. o zmianie niektórych ustaw celu usprawnienia działań Sił Zbrojnych Rzeczypospolitej Polskiej, Policji oraz Straży Granicznej na wypadek zagrożenia bezpieczeństwa państwa (Dz. U. poz. 1248),
 2) ustawą z dnia 18 października 2024 r. o zmianie ustawy o działaniach antyterrorystycznych i ustawy o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. poz. 1684) oraz zmian wynikających z przepisów ogłoszonych przed dniem 16 stycznia 2025 r.
@@ -76,7 +76,7 @@ Art. 27–58. (pominięte)
 - **1)** osobach podejmujących działalność na rzecz organizacji terrorystycznych lub organizacji związanych z działalnością terrorystyczną lub członkach tych organizacji;
 - **2)** poszukiwanych osobach prowadzących działalność terrorystyczną lub osobach podejrzewanych o popełnienie przestępstw o charakterze terrorystycznym, wobec których Rzeczypospolitej Polskiej zostało wydane zarządzenie o zatrzymaniu, poszukiwaniu lub postanowienie o poszukiwaniu listem gończym, a także poszukiwanych na podstawie europejskiego nakazu aresztowania;
 - **3)** osobach, wobec których istnieje uzasadnione podejrzenie, że mogą prowadzić działania zmierzające do popełnienia przestępstwa o charakterze terrorystycznym, tym o osobach stanowiących zagrożenie bezpieczeństwa lotnictwa cywilnego;
-- **4)** osobach uczestniczących szkoleniach terrorystycznych lub podejmujących podróż celu popełnienia przestępstwa o charakterze terrorystycznym. wykazie, o którym mowa ust. 1, także postaci bieżących analiz stanu zagrożenia zdarzeniem o charakterze terrorystycznym:
+- **4)** osobach uczestniczących szkoleniach terrorystycznych lub podejmujących podróż celu popełnienia przestępstwa o charakterze terrorystycznym. tycznym:
 - **1)** podmiotom i służbom specjalnym, o których mowa art. 5 ust. 1,
 - **2)** innym organom administracji publicznej zakresie ich właściwości.
 
@@ -270,7 +270,7 @@ Art. 27–58. (pominięte)
 - **2)** na obszarze jednej lub kilku jednostek podziału terytorialnego kraju;
 - **3)** na obszarze określonym sposób inny niż przez odniesienie do jednostek podziału terytorialnego kraju;
 - **4)** dla określonych obiektów jednostek organizacyjnych administracji publicznej, prokuratury, sądów lub innych obiektów infrastruktury administracji publicznej lub infrastruktury krytycznej;
-- **5)** przypadku gdy skutki zdarzenia o charakterze terrorystycznym mogą dotyczyć obywateli polskich przebywających za granicą Rzeczypospolitej Polskiej lub instytucji polskich albo polskiej infrastruktury mieszczących się poza granicami Rzeczypospolitej Polskiej innych niż placówki zagraniczne Rzeczypospolitej Polskiej rozumieniu ustawy z dnia 21 stycznia 2021 r. o służbie zagranicznej (Dz. U. z 2024 r. poz. 1691 i 1840). od rodzaju zagrożenia zdarzeniem o charakterze terrorystycznym, Prezes Rady Ministrów, po zasięgnięciu opinii ministra właściwego do spraw zagranicznych i Szefa Agencji Wywiadu, a przypadkach niecierpiących zwłoki minister właściwy do spraw zagranicznych, po zasięgnięciu opinii Szefa Agencji Wywiadu, informując o tym niezwłocznie Prezesa Rady Ministrów:
+- **5)** przypadku gdy skutki zdarzenia o charakterze terrorystycznym mogą dotyczyć obywateli polskich przebywających za granicą Rzeczypospolitej Polskiej lub instytucji polskich albo polskiej infrastruktury mieszczących się poza granicami Rzeczypospolitej Polskiej innych niż placówki zagraniczne Rzeczypospolitej Polskiej rozumieniu ustawy z dnia 21 stycznia 2021 r. o służbie zagranicznej (Dz. U. z 2024 r. poz. 1691 i 1840). właściwego do spraw zagranicznych i Szefa Agencji Wywiadu, a przypadkach niecierpiących zwłoki minister właściwy do spraw zagranicznych, po zasięgnięciu opinii Szefa Agencji Wywiadu, informując o tym niezwłocznie Prezesa Rady Ministrów:
 - **1)** dla określonych placówek zagranicznych Rzeczypospolitej Polskiej rozumieniu ustawy z dnia 21 stycznia 2021 r. o służbie zagranicznej;
 - **2)** odniesieniu do systemów teleinformatycznych ministra właściwego do spraw zagranicznych.
 
@@ -355,7 +355,7 @@ Art. 27–58. (pominięte)
 
 7. Żołnierzom oddziałów i pododdziałów Wojsk Specjalnych użytych do pomocy oddziałom i pododdziałom Policji przysługują, zakresie niezbędnym do wykonywania ich zadań, uprawnienia funkcjonariuszy Policji określone art. 15 i art. 16 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2024 r. poz. 145, z późn. zm. ). Korzystanie z tych uprawnień następuje na zasadach i trybie określonych dla funkcjonariuszy Policji.
 
-8. Oddziały lub pododdziały Sił Zbrojnych Rzeczypospolitej Polskiej użyte do pomocy oddziałom lub pododdziałom Policji pozostają systemie dowodzenia Sił Zbrojnych Rzeczypospolitej Polskiej. Sił Zbrojnych Rzeczypospolitej Polskiej przypadku, o którym mowa ust. 1, jest:
+8. Oddziały lub pododdziały Sił Zbrojnych Rzeczypospolitej Polskiej użyte do pomocy oddziałom lub pododdziałom Policji pozostają systemie dowodzenia Sił Zbrojnych Rzeczypospolitej Polskiej.
 
 - **1)** właściwy miejscowo komendant wojewódzki Policji przypadku działań podejmowanych przez oddziały i pododdziały Policji oraz oddziały i pododdziały Sił Zbrojnych Rzeczypospolitej Polskiej na obszarze jednego województwa;
 - **2)** Komendant Główny Policji przypadku działań podejmowanych przez oddziały i pododdziały Policji oraz oddziały i pododdziały Sił Zbrojnych Rzeczypospolitej Polskiej na obszarze większym niż jedno województwo.
@@ -391,7 +391,7 @@ Art. 27–58. (pominięte)
 1. W przypadku podejrzenia lub usiłowania popełnienia albo przygotowania przestępstwa o charakterze terrorystycznym, celu wykrycia lub zatrzymania albo przymusowego doprowadzenia osoby podejrzewanej, a także celu znalezienia rzeczy mogących stanowić dowód sprawie lub podlegających zajęciu postępowaniu karnym, prokurator może postanowić o:
 
 - **1)** przeprowadzeniu przeszukania pomieszczeń i innych miejsc znajdujących się na wskazanym postanowieniu obszarze,
-- **2)** zatrzymaniu osoby podejrzewanej jeżeli istnieją uzasadnione podstawy do przypuszczenia, że osoba podejrzewana lub wymienione rzeczy na tym obszarze się znajdują. postanowieniu obszarze osób, ich odzieży i podręcznych przedmiotów.
+- **2)** zatrzymaniu osoby podejrzewanej jeżeli istnieją uzasadnione podstawy do przypuszczenia, że osoba podejrzewana lub wymienione rzeczy na tym obszarze się znajdują.
 
 3. Przeszukania i zatrzymania, o których mowa ust. 1 i 2, można dokonać o każdej porze doby.
 

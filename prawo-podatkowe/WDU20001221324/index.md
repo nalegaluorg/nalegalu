@@ -21,7 +21,6 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2000-12-22 |
 | Data wydania | 2000-12-31 |
-| Wejście w życie | 2001-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20001221324) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/1324/text.pdf) |
 
@@ -29,13 +28,13 @@ domain: null
 
 **Art. 3.** W ustawie dnia 15 lutego 1992 o podatku dochodowym od osób prawnych (Dz.U. 54, 654, 60, 700 703 103, 1100) 17 ust. 1 pkt 4p skreśla „Krajowego Chorych i”.
 
-**Art. 4.** W ustawie dnia 20 lipca 1998 o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz.U. 144, 930 oraz 104, 1104) 31 ust. 2 44 ust. 2 „7,5 %” zastępuje wyrazami „7,75 %”.
+**Art. 4.** W ustawie dnia 20 lipca 1998 o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz.U. 144, 930 oraz 104, 1104) 31 ust. 44 ust. „7,5 %” zastępuje wyrazami „7,75 %”.
 
 **Art. 5.**
 
-1. W okresie 6 miesięcy od dnia wejścia życie ustawy sejmik województwa powoła radę Kasy Chorych na podstawie 75 ust. 2 5 ustawy, o której mowa 1, brzmieniu nadanym niniejszą ustawą.
+1. W okresie 6 miesięcy od dnia wejścia życie ustawy sejmik województwa powoła radę Kasy Chorych na podstawie 75 ust. 5 ustawy, o której mowa 1, brzmieniu nadanym niniejszą ustawą.
 
-2. Kadencja rady Kasy Chorych powołanej na podstawie dotychczasowych przepisów upływa dniu pierwszego posiedzenia rady Kasy Chorych powołanej na podstawie 75 ust. 2 5 ustawy, o której mowa 1, brzmieniu nadanym niniejszą ustawą.
+2. Kadencja rady Kasy Chorych powołanej na podstawie dotychczasowych przepisów upływa dniu pierwszego posiedzenia rady Kasy Chorych powołanej na podstawie 75 ust. 5 ustawy, o której mowa 1, brzmieniu nadanym niniejszą ustawą.
 
 **Art. 6.**
 

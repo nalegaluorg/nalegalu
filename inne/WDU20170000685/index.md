@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 30 marca 2017 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy szczególnych rozwiązaniach związanych z organizacją wizyty Jego Świątobliwości Papieża Franciszka Rzeczypospolitej Polskiej oraz Światowych Dni Młodzieży Kraków 2016
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 9 marca 2017 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,14 +26,13 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000685) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/685/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 9 marca 2017 r.
-sprawie ogłoszenia jednolitego tekstu ustawy szczególnych rozwi ą zaniach zwi ą zanych z organizacj ą wizyty Jego Ś wi ą tobliwo ś ci Papie ż a Franciszka Rzeczypospolitej Polskiej oraz Ś wiatowych Dni Młodzie ż y Kraków 2016
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2016 r. poz. 296 i 1579) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 18 marca 2016 r. szczególnych rozwiązaniach związanych z organizacją wizyty Jego Świątobliwości Papieża Franciszka Rzeczypospolitej Polskiej oraz Światowych Dni Młodzieży Kraków 2016 (Dz. U.
-poz. 393), z uwzględnieniem zmian wprowadzonych ustawą z dnia 10 czerwca 2016 r. działaniach antyterrorystycznych (Dz. U. poz. 904) oraz zmian wynikających z przepisów ogłoszonych przed dniem 7 marca 2017 r.
+1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2016 r. poz. 296 i 1579) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 18 marca 2016 r. szczególnych rozwiązaniach związanych z organizacją wizyty Jego Świątobliwości Papieża Franciszka Rzeczypospolitej Polskiej oraz Światowych Dni Młodzieży Kraków 2016 (Dz. U. poz.
+393), z uwzględnieniem zmian wprowadzonych ustawą z dnia 10 czerwca 2016 r. działaniach antyterrorystycznych (Dz.
+U. poz. 904) oraz zmian wynikających z przepisów ogłoszonych przed dniem 7 marca 2017 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 65 ustawy z dnia 10 czerwca 2016 r. działaniach antyterrorystycznych (Dz. U. poz. 904), który stanowi: „Art. 65. Ustawa wchodzi życie po upływie 7 dni od dnia ogłoszenia, z wyjątkiem art. 43, który wchodzi życie po upływie 30 dni od dnia ogłoszenia.”.
 Marszałek Sejmu: M. Kuchciński
 USTAWA z dnia 18 marca 2016 r.
-szczególnych rozwi ą zaniach zwi ą zanych z organizacj ą wizyty Jego Ś wi ą tobliwo ś ci Papie ż a Franciszka Rzeczypospolitej Polskiej oraz Ś wiatowych Dni Młodzie ż y Kraków 2016
+szczególnych rozwiązaniach związanych z organizacją wizyty Jego Świątobliwości Papieża Franciszka Rzeczypospolitej Polskiej oraz Światowych Dni Młodzieży Kraków 2016
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -41,7 +42,7 @@ szczególnych rozwi ą zaniach zwi ą zanych z organizacj ą wizyty Jego Ś wi �
 
 **Art. 3.** Organizator Światowych Dni Młodzieży jest obowiązany przekazywać organom administracji publicznej i innym podmiotom wykonującym zadania określone niniejszej ustawie informacje niezbędne do prawidłowego wykonywania tych zadań.
 
-#### Rozdział 2 Zapewnienie bezpiecze ń stwa i porz ą dku publicznego zwi ą zku z organizacj ą Ś wiatowych Dni Młodzie ż y
+#### Rozdział 2 Zapewnienie bezpieczeństwa i porządku publicznego związku z organizacją Światowych Dni Młodzieży
 
 **Art. 4.**
 
@@ -50,12 +51,12 @@ szczególnych rozwi ą zaniach zwi ą zanych z organizacj ą wizyty Jego Ś wi �
 2. Plan, którym ust. 1, obejmuje:
 
 - **1)** program Światowych Dni Młodzieży;
-- **2)** graficzny plan obiektu (terenu), sporządzony odrębnie dla każdego z obiektów (terenów), których mają być przeprowadzone poszczególne wydarzenia ramach Światowych Dni Młodzieży, wraz z ich opisem, zawierający: ramach Dni wymagania przepisach wydanych na podstawie art. 6 ust. 5 ustawy z dnia 20 marca 2009 r. bezpieczeństwie imprez masowych (Dz. U. z 2015 r. poz. 2139 oraz z 2016 r. poz. 1250);
+- **2)** graficzny plan obiektu (terenu), sporządzony odrębnie dla każdego z obiektów (terenów), których mają być przeprowadzone poszczególne wydarzenia ramach Światowych Dni Młodzieży, wraz z ich opisem, zawierający: stawie art. 6 ust. 5 ustawy z dnia 20 marca 2009 r. bezpieczeństwie imprez masowych (Dz. U. z 2015 r. poz. 2139 oraz z 2016 r. poz. 1250);
     - **a)** oznaczenie dróg dojścia i rozchodzenia się osób uczestniczących tych wydarzeniach, dróg ewakuacyjnych, tym dróg i sposobu ewakuacji osób niepełnosprawnych, oraz dróg dojazdowych dla pojazdów służb ratowniczych, Policji i innych służb odpowiedzialnych za zapewnienie bezpieczeństwa podczas Światowych Dni Młodzieży,
     - **b)** oznaczenie stałych punktów pomocy medycznej, namiotów szpitalnych, punktów czerpalnych wody do celów przeciwpożarowych oraz punktów informacyjnych,
     - **c)** oznaczenie lokalizacji hydrantów przeciwpożarowych, zaworów, przyłączy wody, gazu i energii elektrycznej oraz innych elementów mających wpływ na bezpieczeństwo użytkowników obiektu lub terenu,
     - **d)** informacje rozmieszczeniu służb porządkowych oraz służb informacyjnych, rozmieszczeniu osób uczestniczących poszczególnych wydarzeniach i ewentualnym rozdzieleniu ich według sektorów oraz rozmieszczeniu sanitariatów,
-    - **e)** oznaczenie miejsc lokalizacji: parkingów, zbiórek grup zorganizowanych uczestnicz ą cych poszczególnych wydarzeniach Ś wiatowych Dni Młodzie ż y,
+    - **e)** oznaczenie miejsc lokalizacji: parkingów, zbiórek grup zorganizowanych uczestniczących poszczególnych wydarzeniach Światowych Dni Młodzieży,
     - **f)** oznaczenie stref szczególnych podlegających wzmocnionej ochronie oraz opis sposobu ich zabezpieczenia;
 
 - **4)** informację o:
@@ -83,7 +84,9 @@ szczególnych rozwi ą zaniach zwi ą zanych z organizacj ą wizyty Jego Ś wi �
 
 **Art. 6.**
 
-1. Udostępnienie przez Policję informacji, których art. 5 ust. 1, celu zapewnienia bezpieczeństwa i porządku publicznego podczas Światowych Dni Młodzieży, a także celu zapobiegania popełnianiu przestępstw i wykroczeń pozostających z nimi związku oraz wykrywania i ścigania ich sprawców, organom władzy publicznej, służbom i instytucjom państwowym, tym również zagranicznym i międzynarodowym, odbywa się na zasadach określonych ustawie z dnia 6 kwietnia 1990 r. Policji, ustawie z dnia 29 sierpnia 1997 r. ochronie danych osobowych (Dz. U. z 2016 r. poz. 922), ustawie z dnia 5 sierpnia 2010 r. ochronie informacji niejawnych (Dz. U. z 2016 r. poz. 1167 i 1948), a także umowach międzynarodowych, których Rzeczpospolita Polska jest stroną.
+1. Udostępnienie przez Policję informacji, których art. 5 ust. 1, celu zapewnienia bezpieczeństwa i porządku publicznego podczas Światowych Dni Młodzieży, a także celu zapobiegania popełnianiu przestępstw i wykroczeń pozostających z nimi związku oraz wykrywania i ścigania ich sprawców, organom władzy publicznej, służbom i instytucjom państwowym, tym również zagranicznym i międzynarodowym, odbywa się na zasadach określonych ustawie z dnia 6 kwietnia 1990 r. Policji, ustawie z dnia 29 sierpnia 1997 r. ochronie danych osobowych (Dz. U. z 2016 r. poz.
+
+- **922)** , ustawie z dnia 5 sierpnia 2010 r. ochronie informacji niejawnych (Dz. U. z 2016 r. poz. 1167 i 1948), a także umowach międzynarodowych, których Rzeczpospolita Polska jest stroną.
 
 2. Udostępnienie przez Policję informacji, których art. 5 ust. 1 pkt 2, następuje pod warunkiem uzyskania zgody organu, służby lub instytucji, która te informacje uzyskała lub przetwarzała, udzielanej przypadku, gdy udostępnienie tych informacji nie utrudni lub nie uniemożliwi realizacji zadań tego organu, służby lub instytucji.
 
@@ -94,9 +97,9 @@ szczególnych rozwi ą zaniach zwi ą zanych z organizacj ą wizyty Jego Ś wi �
 
 **Art. 7.**
 
-1. Informacje, których art. 5 ust. 1, przetwarza si ę przez okres niezb ę dny do realizacji zada ń Policji wynikaj ą cych z niniejszego rozdziału, nie dłu ż ej jednak ni ż do dnia 30 wrze ś nia 2016 r.
+1. Informacje, których art. 5 ust. 1, przetwarza się przez okres niezbędny do realizacji zadań Policji wynikających z niniejszego rozdziału, nie dłużej jednak niż do dnia 30 września 2016 r.
 
-2. Po upływie okresu, którym art. 5 ust. 1, informacje, których tym przepisie, usuwa si ę ze zbiorów danych osobowych, których administratorem jest Komendant Główny Policji, z wyj ą tkiem informacji, których art. 20 ust. 2a ustawy z dnia 6 kwietnia 1990 r. Policji, przetwarzanych na potrzeby toczących się postępowań. la organizatora Dni sprawdzenia osoby zarejestrowanej jako wolontariusz współpracujący przy ich organizacji zakresie możliwości stwarzania przez tę osobę zagrożenia dla bezpieczeństwa i porządku publicznego podczas Światowych Dni Młodzieży, z zastrzeżeniem, że sprawdzenia zakresie stwarzania przez tę osobę zagrożenia charakterze terrorystycznym, na żądanie Policji, dokonuje Agencja Bezpieczeństwa Wewnętrznego.
+2. Po upływie okresu, którym art. 5 ust. 1, informacje, których tym przepisie, usuwa się ze zbiorów danych osobowych, których administratorem jest Komendant Główny Policji, z wyjątkiem informacji, których art. 20 ust. 2a ustawy z dnia 6 kwietnia 1990 r. Policji, przetwarzanych na potrzeby toczących się postępowań. pracujący przy ich organizacji zakresie możliwości stwarzania przez tę osobę zagrożenia dla bezpieczeństwa i porządku publicznego podczas Światowych Dni Młodzieży, z zastrzeżeniem, że sprawdzenia zakresie stwarzania przez tę osobę zagrożenia charakterze terrorystycznym, na żądanie Policji, dokonuje Agencja Bezpieczeństwa Wewnętrznego.
 
 2. Policja przedstawia upoważnionemu przedstawicielowi organizatora Światowych Dni Młodzieży, na jego wniosek, opinię osobie zarejestrowanej jako wolontariusz współpracujący przy organizacji Światowych Dni Młodzieży, przygotowaną na podstawie informacji zgromadzonych zbiorach danych prowadzonych przez Policję lub zbiorach danych dostępnych Policji oraz z uwzględnieniem opinii Agencji Bezpieczeństwa Wewnętrznego sporządzonej związku ze sprawdzeniem tej osoby zakresie stwarzania przez nią zagrożenia charakterze terrorystycznym. Wniosek zawiera imię i nazwisko osoby, której dotyczyć ma opinia Policji, numer PESEL tej osoby, a przypadku osoby nieposiadającej nadanego numeru PESEL jej datę urodzenia oraz rodzaj, serię i numer dokumentu tożsamości tej osoby.
 
@@ -124,7 +127,7 @@ szczególnych rozwi ą zaniach zwi ą zanych z organizacj ą wizyty Jego Ś wi �
 
 5. Stawkę godzinową ekwiwalentu za każdą rozpoczętą godzinę służby, której ust. 1, ustala się wysokości 1/172 przeciętnego uposażenia odpowiednio funkcjonariuszy Policji, Państwowej Straży Pożarnej, Biura Ochrony Rządu, Służby Celnej, Agencji Bezpieczeństwa Wewnętrznego oraz Straży Granicznej, określanego według przepisów odrębnych dotyczących tych funkcjonariuszy jako wielokrotność kwoty bazowej.
 
-6. Ekwiwalent przysługuje funkcjonariuszowi niezależnie od zajmowanego stanowiska służbowego, tym również delegowanemu do pełnienia służby innych instytucjach na podstawie odrębnych przepisów, wymiarze odpowiadającym okresowi pełnienia służby przy realizacji zadań, których ust. 1. kolejowym (Dz. U. z 2016 r. poz. 1727, z zm. ), okresie od dnia 18 lipca 2016 r. do dnia 2 sierpnia 2016 r. ochrony kolei przysługuje prawo do:
+6. Ekwiwalent przysługuje funkcjonariuszowi niezależnie od zajmowanego stanowiska służbowego, tym również delegowanemu do pełnienia służby innych instytucjach na podstawie odrębnych przepisów, wymiarze odpowiadającym okresowi pełnienia służby przy realizacji zadań, których ust. 1. ochrony kolei przysługuje prawo do:
 
 - **1)** rejestrowania przy użyciu środków technicznych obrazu i dźwięku zdarzeń na obszarze kolejowym, pociągach i innych pojazdach kolejowych, przypadku gdy czynności te są niezbędne do utrwalenia dowodów popełnienia przestępstwa lub wykroczenia;
 - **2)** przeglądania zawartości bagaży znajdujących się na obszarze kolejowym, pociągach lub innych pojazdach kolejowych, razie istnienia uzasadnionego podejrzenia popełnienia przestępstwa lub wykroczenia.
@@ -133,7 +136,7 @@ szczególnych rozwi ą zaniach zwi ą zanych z organizacj ą wizyty Jego Ś wi �
 
 3. Zarejestrowane obrazy lub dźwięk, których ust. 1 pkt 1, niezawierające dowodów popełnienia przestępstwa lub wykroczenia podlegają zniszczeniu nie później niż po upływie 30 dni od dnia ich zarejestrowania. Z dokonanego zniszczenia sporządza się protokół.
 
-#### Rozdział 3 Zabezpieczenie medyczne Ś wiatowych Dni Młodzie ż y
+#### Rozdział 3 Zabezpieczenie medyczne Światowych Dni Młodzieży
 
 **Art. 11.**
 
@@ -149,8 +152,8 @@ szczególnych rozwi ą zaniach zwi ą zanych z organizacj ą wizyty Jego Ś wi �
     - **e)** wykaz minimalnego wyposażenia jednostek zabezpieczenia medycznego ŚDM, z wyłączeniem zespołów wyjazdowych z lekarzem i zespołów wyjazdowych bez lekarza,
     - **f)** opis sposobu działania, zakresu udzielanej pomocy medycznej i zadań realizatorów zabezpieczenia medycznego ŚDM, których art. 15 ust. 1 pkt 2 i 3,
     - **g)** opis sposobu współpracy jednostek zabezpieczenia medycznego ŚDM oraz lotniczych zespołów poszukiwawczo-ratowniczych i lotniczych zespołów ratunkowych z innymi służbami i podmiotami odpowiedzialnymi za bezpieczeństwo publiczne,
-    - **h)** graficzne odwzorowanie głównych i zapasowych dróg ewakuacji medycznej ze stałych punktów pomocy medycznej i namiotów szpitalnych do wyznaczonych podmiotów wykonuj ą cych działalno ść lecznicz ą , których art. 15 ust. 1 pkt 1,
-    - **i)** wykaz podmiotów, których art. 15 ust. 1, oraz ich dane teleadresowe, lotniczymi, których lit. c, oraz realizatorami zabezpieczenia medycznego których art. 15 ust. 1,
+    - **h)** graficzne odwzorowanie głównych i zapasowych dróg ewakuacji medycznej ze stałych punktów pomocy medycznej i namiotów szpitalnych do wyznaczonych podmiotów wykonujących działalność leczniczą, których art. 15 ust. 1 pkt 1,
+    - **i)** wykaz podmiotów, których art. 15 ust. 1, oraz ich dane teleadresowe, art. 15 ust. 1,
     - **k)** szczegółowy zakres obowiązków koordynatora zabezpieczenia medycznego ŚDM przypadku jego powołania,
     - **l)** zakres zadań realizowanych ramach wsparcia zabezpieczenia medycznego ŚDM udzielanego przez Ministra Obrony Narodowej;
 
@@ -187,7 +190,7 @@ szczególnych rozwi ą zaniach zwi ą zanych z organizacj ą wizyty Jego Ś wi �
 - **1)** lekarzem lub
 - **2)** ratownikiem medycznym, lub
 - **3)** pielęgniarką, lub
-- **4)** ratownikiem. lekarz oraz co najmniej osób
+- **4)** ratownikiem.
 - **1)** lekarzem lub
 - **2)** ratownikiem medycznym, lub
 - **3)** pielęgniarką.
@@ -223,7 +226,7 @@ szczególnych rozwi ą zaniach zwi ą zanych z organizacj ą wizyty Jego Ś wi �
 - **5)** maksymalną kwotę wydatków na wykonywanie zadań określonych zgodnie z pkt 1;
 - **6)** sposób i termin rozliczenia kosztów wykonania zadań określonych zgodnie z pkt 1;
 - **7)** zobowiązanie realizatora zabezpieczenia medycznego ŚDM do zawarcia umowy ubezpieczenia odpowiedzialności cywilnej za szkody będące następstwem udzielania pomocy medycznej lub zaniechania jej udzielenia lub jego oświadczenie posiadaniu takiego ubezpieczenia;
-- **8)** zakres i warunki odpowiedzialno ś ci z tytułu niewykonania lub niewła ś ciwego wykonania umowy. ust. 1, koordynatora zabezpieczenia medycznego zadania, których art. 11 ust. 2 pkt 1 lit. k.
+- **8)** zakres i warunki odpowiedzialności z tytułu niewykonania lub niewłaściwego wykonania umowy. pkt 1 lit. k.
 
 **Art. 17.**
 
@@ -265,14 +268,14 @@ szczególnych rozwi ą zaniach zwi ą zanych z organizacj ą wizyty Jego Ś wi �
 1. W okresie od dnia 25 lipca 2016 r. do dnia 2 sierpnia 2016 r. termin dokonania zgłoszenia, którym w:
 
 - **1)** art. 27 ust. 1 ustawy z dnia 5 grudnia 2008 r. zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2016 r. poz. 1866, 2003 i 2173), przypadku podejrzenia lub rozpoznania zakażenia, choroby zakaźnej lub zgonu z powodu zakażenia lub choroby zakaźnej,
-- **2)** art. 29 ust. 1 ustawy, której pkt 1, przypadku uzyskania dodatniego wyniku badania kierunku biologicznych czynników chorobotwórczych u osoby maj ą cej miejsce zamieszkania lub przebywaj ą cej na obszarze obj ę tym zabezpieczeniem medycznym Ś DM wynosi nie wi ę cej ni ż 2 godziny odpowiednio od chwili powzi ę cia tego podejrzenia lub rozpoznania albo uzyskania wyniku badania. lonych art. 27 i art. 29 ustawy z dnia 5 grudnia 2008 r. zapobieganiu oraz zwalczaniu i chorób u ludzi.
+- **2)** art. 29 ust. 1 ustawy, której pkt 1, przypadku uzyskania dodatniego wyniku badania kierunku biologicznych czynników chorobotwórczych u osoby mającej miejsce zamieszkania lub przebywającej na obszarze objętym zabezpieczeniem medycznym ŚDM wynosi nie więcej niż 2 godziny odpowiednio od chwili powzięcia tego podejrzenia lub rozpoznania albo uzyskania wyniku badania.
 
 3. Minister właściwy do spraw zdrowia określi, drodze rozporządzenia:
 
 - **1)** wykaz zakażeń i chorób zakaźnych oraz biologicznych czynników chorobotwórczych, które podlegają zgłoszeniu terminie, którym ust. 1, oraz okoliczności uzasadniające to zgłoszenie,
 - **2)** szczegółowy sposób dokonywania zgłoszeń, których ust. 1 mając na uwadze konieczność zapewnienia właściwego zabezpieczenia sanitarno-epidemiologicznego osób zamieszkujących lub przebywających na obszarze objętym zabezpieczeniem medycznym ŚDM.
 
-#### Rozdział 4 Organizacja transportu zwi ą zku ze Ś wiatowymi Dniami Młodzie ż y
+#### Rozdział 4 Organizacja transportu związku ze Światowymi Dniami Młodzieży
 
 **Art. 19.**
 
@@ -303,8 +306,8 @@ szczególnych rozwi ą zaniach zwi ą zanych z organizacj ą wizyty Jego Ś wi �
 
 1. Generalny Dyrektor Dróg Krajowych i Autostrad:
 
-- **1)** ustala wykaz dróg rekomendowanych dla uczestników Ś wiatowych Dni Młodzie ż y oraz podaje go do publicznej wiadomo ś ci na swojej stronie internetowej;
-- **2)** monitoruje utrudnienia ruchu na sieci dróg krajowych, tym wynikaj ą ce ze wzmo ż onego ruchu pojazdów zwi ą zanego z organizacj ą Ś wiatowych Dni Młodzie ż y, a informacje tych utrudnieniach podaje, zale ż no ś ci od potrzeb, na swojej stronie internetowej, z wykorzystaniem portali społeczno ś ciowych, numeru informacji drogowej lub dostępnej infrastruktury. pkt 1, lub zmiany tej organizacji ruchu, bierze pod natężenia ruchu związanego z organizacją Światowych Dni Młodzieży oraz konieczność zapewnienia bezpieczeństwa ruchu na tych drogach.
+- **1)** ustala wykaz dróg rekomendowanych dla uczestników Światowych Dni Młodzieży oraz podaje go do publicznej wiadomości na swojej stronie internetowej;
+- **2)** monitoruje utrudnienia ruchu na sieci dróg krajowych, tym wynikające ze wzmożonego ruchu pojazdów związanego z organizacją Światowych Dni Młodzieży, a informacje tych utrudnieniach podaje, zależności od potrzeb, na swojej stronie internetowej, z wykorzystaniem portali społecznościowych, numeru informacji drogowej lub dostępnej infrastruktury. żenia ruchu związanego z organizacją Światowych Dni Młodzieży oraz konieczność zapewnienia bezpieczeństwa ruchu na tych drogach.
 
 **Art. 24.**
 
@@ -318,7 +321,7 @@ szczególnych rozwi ą zaniach zwi ą zanych z organizacj ą wizyty Jego Ś wi �
 
 5. Wysokość kosztów pokrywanych przez poszczególnych dysponentów, których ust. 4, określa porozumienie zawarte pomiędzy tymi dysponentami.
 
-#### Rozdział 5 Szczególne zasady realizacji inwestycji zwi ą zanych z organizacj ą Ś wiatowych Dni Młodzie ż y
+#### Rozdział 5 Szczególne zasady realizacji inwestycji związanych z organizacją Światowych Dni Młodzieży
 
 **Art. 25.**
 
@@ -334,9 +337,9 @@ szczególnych rozwi ą zaniach zwi ą zanych z organizacj ą wizyty Jego Ś wi �
 - **3)** nie udostępnia informacji związanych z zamówieniem, którym ust. 1, stanowiących tajemnicę przedsiębiorstwa rozumieniu przepisów zwalczaniu nieuczciwej konkurencji, jeżeli podmiot zainteresowany wykonaniem zamówienia, nie później niż przed zawarciem umowy wykonanie tego zamówienia, zastrzegł, że nie mogą być udostępniane;
 - **4)** zamieszcza niezwłocznie na swojej stronie podmiotowej Biuletynu Informacji Publicznej informacje udzieleniu zamówienia, podając nazwę (firmę) albo imię i nazwisko podmiotu, z którym zawarł umowę wykonanie zamówienia, albo informację nieudzieleniu tego zamówienia.
 
-3. Zamawiający może unieważnić postępowanie udzielenie zamówienia publicznego dotyczące umowy na usługi, dostawy lub roboty budowlane związane z organizacją Światowych Dni Młodzieży, przypadku gdy przebieg tego postępowania wskazuje, że niemożliwe będzie wykonanie zamówienia przed określonym umowie terminem jego realizacji. Przepis art. 93 ust. 4 ustawy z dnia 29 stycznia 2004 r. Prawo zamówie ń publicznych stosuje si ę .
+3. Zamawiający może unieważnić postępowanie udzielenie zamówienia publicznego dotyczące umowy na usługi, dostawy lub roboty budowlane związane z organizacją Światowych Dni Młodzieży, przypadku gdy przebieg tego postępowania wskazuje, że niemożliwe będzie wykonanie zamówienia przed określonym umowie terminem jego realizacji. Przepis art. 93 ust. 4 ustawy z dnia 29 stycznia 2004 r. Prawo zamówień publicznych stosuje się.
 
-4. Je ż eli zamawiaj ą cy dopu ś cił mo ż liwo ść składania ofert cz ęś ciowych, do uniewa ż nienia cz ęś ci post ę powania udzielenie zamówienia przepis ust. 3 stosuje si ę odpowiednio. lub realizowanych z Dni
+4. Jeżeli zamawiający dopuścił możliwość składania ofert częściowych, do unieważnienia części postępowania udzielenie zamówienia przepis ust. 3 stosuje się odpowiednio.
 
 - **1)** termin na wydanie przez właściwy organ pozwolenia na użytkowanie wynosi 7 dni od dnia doręczenia wniosku udzielenie pozwolenia na użytkowanie;
 - **2)** termin na zgłoszenie sprzeciwu, którym art. 54 ustawy z dnia 7 lipca 1994 r. Prawo budowlane (Dz. U. z 2016 r. poz. 290, 961, 1165, 1250 i 2255), wynosi 7 dni od dnia zawiadomienia właściwego organu zakończeniu budowy;
@@ -372,7 +375,7 @@ szczególnych rozwi ą zaniach zwi ą zanych z organizacj ą wizyty Jego Ś wi �
 
 2. Wsparcie, którym ust. 1, jest udzielane na wniosek upoważnionego przedstawiciela organizatora Światowych Dni Młodzieży.
 
-3. Wsparcie, którym ust. 1, jest finansowane ramach wydatków, których art. 7 ust. 1 ustawy z dnia 25 maja 2001 r. przebudowie i modernizacji technicznej oraz finansowaniu Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z 2015 r. poz. 1716 oraz z 2016 r. poz. 2260). i publicznego ma prawo do rejestrowania, przy technicznych, obrazu i na terenie jednostek wojskowych i instytucji podległych lub nadzorowanych przez Ministra Obrony Narodowej, przypadku gdy czynności te są niezbędne do utrwalenia dowodów popełnienia przestępstwa lub wykroczenia. Przepisy art. 10 ust. 2 i 3 stosuje się odpowiednio.
+3. Wsparcie, którym ust. 1, jest finansowane ramach wydatków, których art. 7 ust. 1 ustawy z dnia 25 maja 2001 r. przebudowie i modernizacji technicznej oraz finansowaniu Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z 2015 r. poz. 1716 oraz z 2016 r. poz. 2260). jednostek wojskowych i instytucji podległych lub nadzorowanych przez Ministra Obrony Narodowej, przypadku gdy czynności te są niezbędne do utrwalenia dowodów popełnienia przestępstwa lub wykroczenia. Przepisy art. 10 ust. 2 i 3 stosuje się odpowiednio.
 
 **Art. 31.**
 
@@ -406,7 +409,7 @@ szczególnych rozwi ą zaniach zwi ą zanych z organizacj ą wizyty Jego Ś wi �
 
 2. Zadania, których ust. 1, są zadaniami z zakresu administracji rządowej wykonywanymi na podstawie umowy zawartej przez Wojewodę Małopolskiego z właściwą jednostką samorządu terytorialnego.
 
-3. Urządzenia melioracji wodnych szczegółowych, których ust. 1, są wykonywane za zwrotem, formie opłaty melioracyjnej, której art. 74 ust. 2 pkt 1 ustawy z dnia 18 lipca 2001 r. Prawo wodne (Dz. U. z 2015 r. poz. 469, z pó ź n. zm. ), cz ęś ci kosztów przez wła ś cicieli gruntów, na które urz ą dzenia te wywieraj ą korzystny wpływ. Przepisu art. 74b ust. 1 tej ustawy zakresie wymogu zło ż enia wniosku nie stosuje si ę . wojewodowie po uzyskaniu zgody ministra do spraw finansów publicznych, przeniesienia wydatków między działami klasyfikacji budżetowej ramach części budżetowej, której są dysponentem, z uwzględnieniem przepisów art. 171 ust. 2, 2a, 7 i 8 ustawy z dnia 27 sierpnia 2009 r. finansach publicznych, z zastrzeżeniem art. 194 tej ustawy.
+3. Urządzenia melioracji wodnych szczegółowych, których ust. 1, są wykonywane za zwrotem, formie opłaty melioracyjnej, której art. 74 ust. 2 pkt 1 ustawy z dnia 18 lipca 2001 r. Prawo wodne (Dz. U. z 2015 r. poz. 469, z późn. zm. ), części kosztów przez właścicieli gruntów, na które urządzenia te wywierają korzystny wpływ. Przepisu art. 74b ust. 1 tej ustawy zakresie wymogu złożenia wniosku nie stosuje się. wydatków między działami klasyfikacji budżetowej ramach części budżetowej, której są dysponentem, z uwzględnieniem przepisów art. 171 ust. 2, 2a, 7 i 8 ustawy z dnia 27 sierpnia 2009 r. finansach publicznych, z zastrzeżeniem art. 194 tej ustawy.
 
 **Art. 38.** Zorganizowane wyłącznie na potrzeby uczestników Światowych Dni Młodzieży:
 
@@ -424,7 +427,7 @@ szczególnych rozwi ą zaniach zwi ą zanych z organizacj ą wizyty Jego Ś wi �
 
 **Art. 41.** Orzekanie sprawach czyny, których art. 40, następuje trybie przepisów Kodeksu postępowania sprawach wykroczenia.
 
-#### Rozdział 8 Przepis ko ń cowy
+#### Rozdział 8 Przepis końcowy
 
-**Art. 42.** Ustawa wchodzi ż ycie z dniem nast ę puj ą cym po dniu ogłoszenia .
+**Art. 42.** Ustawa wchodzi życie z dniem następującym po dniu ogłoszenia .
 

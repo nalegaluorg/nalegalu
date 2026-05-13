@@ -10,9 +10,9 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# Ustawa z dnia 10 stycznia 2018 r. o ograniczeniu handlu w niedziele i święta oraz w niektóre inne dni
+# o ograniczeniu handlu niedziele święta oraz niektóre inne dni
 
-*USTAWA 10 stycznia 2018 ograniczeniu niedziele ś wi ę ta niektóre inne dni*
+*USTAWA dnia 10 stycznia 2018 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -26,101 +26,99 @@ domain: null
 | Ostatnia zmiana | 2025-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000305) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/305/text.pdf) |
 
+Art. 12–15. (pominięte)
+
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.**
 
-1. Ustawa określa zasady dotyczące ograniczenia wykonywania czynności związanych handlem handlowych niedziele święta dniu 24 grudnia sobotę bezpośrednio poprzedzającą pierwszy dzień Wielkiej Nocy.
+1. Ustawa określa zasady dotyczące ograniczenia handlu oraz wykonywania czynności związanych handlem placówkach handlowych niedziele święta oraz sobotę bezpośrednio poprzedzającą pierwszy dzień Wielkiej Nocy.
 
-2. Przepisy ustawy stosuje do przedsiębiorców rozumieniu przepisów ustawy lipca 2004 swobodzie działalności gospodarczej (Dz. U. poz. 2168, 2290 2486 2018 poz. 107) wykonujących zarobkową działalność handlową.
+2. Przepisy ustawy stosuje się do przedsiębiorców rozumieniu przepisów ustawy dnia 6 marca 2018 r. Prawo przedsiębiorców (Dz. U. 2024 r. poz. 236, 1222 1871) wykonujących zarobkową działalność handlową.
 
-**Art. 2.** W zakresie nieuregulowanym ustawie do wykonywania pracy przez pracowników handlowych niedziele święta stosuje przepisy ustawy 26 czerwca 1974 Kodeks pracy (Dz. U. 2018 poz. 108, 4, 138 305).
+**Art. 2.** W zakresie nieuregulowanym ustawie do wykonywania pracy przez pracowników placówkach handlowych niedziele święta stosuje się przepisy ustawy dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. 2023 r. poz. 1465 oraz 2024 r. poz. 878, 1222, 1871 1965).
 
-**Art. 3.** Ilekroć ustawie jest mowa o: placówce handlowej należy przez to rozumieć obiekt, którym jest prowadzony handel są wykonywane czynności związane handlem, szczególności: sklep, stoisko, stragan, hurtownię, skład węgla, skład materiałów budowlanych, dom towarowy, dom wysyłkowy, biuro zbytu jeżeli takiej placówce praca jest wykonywana przez pracowników zatrudnionych;
+**Art. 3.** Ilekroć ustawie jest mowa o:
 
-**Art. 4.** Powierzanie wykonywania pracy wykonywania czynności związanych handlem nieodpłatnie handlowych niedziele święta, a także dniu 24 grudnia sobotę bezpośrednio poprzedzającą pierwszy dzień Wielkiej Nocy jest zakazane.
-
-#### Rozdział Ograniczenia wykonywania czynno ś ci zwi ą zanych handlem niedziele ś wi ę ta
-
-**Art. 5.** W niedziele święta handlowych: handel wykonywanie czynności związanych handlem,
+**Art. 4.** Powierzanie wykonywania pracy handlu lub wykonywania czynności związanych handlem nieodpłatnie placówkach handlowych niedziele święta, a także sobotę bezpośrednio poprzedzającą pierwszy dzień Wielkiej Nocy jest zakazane.
 
 **Art. 6.**
 
-1. Zakaz, którym mowa art. 5, nie obowiązuje: stacjach paliw płynnych;
+1. Zakaz, o którym mowa art. 5, nie obowiązuje:
 
-- **2)** handlowych, których przeważająca działalność polega kwiatami;
+- **1)** stacjach paliw płynnych;
+- **2)** placówkach handlowych, których przeważająca działalność polega handlu kwiatami;
 - **3)** aptekach punktach aptecznych;
 - **4)** zakładach leczniczych dla zwierząt;
-- **5)** handlowych, których przeważająca działalność polega pamiątkami dewocjonaliami;
-- **6)** handlowych, których przeważająca działalność polega prasą, biletami komunikacji miejskiej, wyrobami tytoniowymi, kuponami gier losowych zakładów wzajemnych;
-- **7)** pocztowych rozumieniu ustawy 23 listopada 2012 Prawo pocztowe (Dz. U. poz. 1481 2018 poz. 106 138);
-- **8)** handlowych obiektach infrastruktury krytycznej, której mowa ustawie 26 kwietnia 2007 zarządzaniu kryzysowym (Dz. U. poz. 209 1566);
-- **9)** handlowych zakładach hotelarskich;
-- **10)** handlowych zakładach prowadzących działalność zakresie kultury, sportu, oświaty, turystyki wypoczynku;
-- **11)** handlowych organizowanych wyłącznie potrzeby festynów, jarmarków innych imprez okolicznościowych, tematycznych sportowo-rekreacyjnych, także gdy są one zlokalizowane halach targowych;
-- **12)** handlowych zakładach leczniczych podmiotów leczniczych innych służby zdrowia przeznaczonych dla osób, których stan zdrowia wymaga całodobowych całodziennych świadczeń zdrowotnych;
-- **13)** handlowych dworcach rozumieniu ustawy 16 grudnia 2010 publicznym transporcie zbiorowym (Dz. U. poz. 2136 2371), portach przystaniach morskich rozumieniu ustawy 20 grudnia 1996 portach przystaniach morskich (Dz. U. poz. 1933) portach przystaniach rozumieniu ustawy 21 grudnia 2000 żegludze śródlądowej (Dz. U. poz. 2128) zakresie związanym bezpośrednią obsługą podróżnych;
-- **14)** centrach pierwszej sprzeda ż y ryb, przypadku sprzeda ż y ryb burty, gospodarstwach rybackich, handlowych zajmuj ą cych si ę odbiorem produktów rybołówstwa akwakultury handlem takimi produktami;
+- **5)** placówkach handlowych, których przeważająca działalność polega handlu pamiątkami lub dewocjonaliami;
+- **6)** placówkach handlowych, których przeważająca działalność polega handlu prasą, biletami komunikacji miejskiej, wyrobami tytoniowymi, kuponami gier losowych zakładów wzajemnych;
+- **7)** placówkach pocztowych rozumieniu art. 3 pkt 15 ustawy dnia 23 listopada 2012 r. Prawo pocztowe (Dz. U. 2023 r. poz. 1640 oraz 2024 r. poz. 467, 1222 1717), których przeważająca działalność polega świadczeniu usług pocztowych, o których mowa art. 2 ust. 1 tej ustawy;
+- **8)** placówkach handlowych obiektach infrastruktury krytycznej, o której mowa ustawie dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym (Dz. U. 2023 r. poz. 122 oraz 2024 r. poz. 834, 1222, 1473, 1572 1907);
+- **9)** placówkach handlowych zakładach hotelarskich;
+- **10)** placówkach handlowych zakładach prowadzących działalność zakresie kultury, sportu, oświaty, turystyki wypoczynku;
+- **11)** placówkach handlowych organizowanych wyłącznie potrzeby festynów, jarmarków innych imprez okolicznościowych, tematycznych lub sportowo-rekreacyjnych, także gdy są one zlokalizowane halach targowych; 2024 r. poz. 1853), portach przystaniach morskich rozumieniu ustawy dnia 20 grudnia 1996 r. o portach przystaniach morskich (Dz. U. 2023 r. poz. 1796) oraz portach przystaniach rozumieniu ustawy dnia 21 grudnia 2000 r. o żegludze śródlądowej (Dz. U. 2025 r. poz. 18) zakresie związanym bezpośrednią obsługą podróżnych;
+- **14)** przypadku sprzedaży ryb gospodarstwach rybackich, ze statku rybackiego placówkach handlowych zajmujących się wyłącznie odbiorem produktów rybnych;
+- **15)** placówkach handlowych portach lotniczych rozumieniu ustawy dnia 3 lipca 2002 r. Prawo lotnicze (Dz. U. 2023 r. poz. 2110, 2024 r. poz. 731 1222 oraz 2025 r. poz. 31 179);
+- **16)** strefach wolnocłowych;
+- **17)** środkach transportu, statkach, a także morskich statkach handlowych, statkach powietrznych, platformach wiertniczych innych morskich budowlach hydrotechnicznych;
+- **18)** terenie jednostek penitencjarnych;
+- **19)** placówkach handlowych terenie jednostek wojskowych;
 - **20)** sklepach internetowych platformach internetowych;
-- **21)** przypadku towarami automatów;
-- **22)** przypadku rolniczego detalicznego rozumieniu ustawy 25 sierpnia 2006 bezpieczeństwie żywności żywienia (Dz. U. poz. 149 60);
+- **21)** przypadku handlu towarami automatów;
+- **22)** przypadku rolniczego handlu detalicznego rozumieniu ustawy dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności żywienia (Dz. U. 2023 r. poz. 1448);
 - **23)** hurtowniach farmaceutycznych;
-- **24)** okresie od 1 czerwca do 30 września każdego roku kalendarzowego handlowych prowadzących handel wyłącznie maszynami rolniczymi częściami zamiennymi do tych maszyn;
-- **25)** przypadku kwiatami, wiązankami, wieńcami zniczami przy cmentarzach;
-- **26)** zakładach pogrzebowych;
-- **27)** handlowych, których handel jest prowadzony przez przedsiębiorcę będącego osobą fizyczną wyłącznie osobiście, we własnym imieniu własny rachunek;
-- **28)** piekarniach, cukierniach lodziarniach, których przeważająca działalność polega wyrobami piekarniczymi cukierniczymi;
-- **29)** handlowych, których przeważającą działalnością jest działalność gastronomiczna;
-- **30)** terenie rolno-spożywczych rynków hurtowych prowadzonych przez spółki prawa handlowego, których przeważająca działalność polega wynajmie zarządzaniu nieruchomościami użytek hurtowego artykułami rolno-spożywczymi;
-- **31)** handlowych prowadzonych przez podmioty nabywające towary terenie rolno-spożywczych rynków hurtowych, których mowa pkt 30, zakresie czynności związanych handlem powierzania pracownikowi zatrudnionemu wykonywania tych czynności;
-- **32)** handlowych, których jest prowadzony wyłącznie skup zbóż, buraków cukrowych, owoców, warzyw mleka surowego.
+- **24)** okresie od dnia 1 czerwca do dnia 30 września każdego roku kalendarzowego placówkach handlowych prowadzących handel wyłącznie maszynami rolniczymi, częściami zamiennymi do tych maszyn, materiałami eksploatacyjnymi do maszyn rolniczych, materiałami używanymi trakcie bieżącej pracy maszyn rolniczych lub narzędziami do wymiany części zamiennych maszynach rolniczych; imieniu własny rachunek;
+- **28)** piekarniach, cukierniach lodziarniach, których przeważająca działalność polega handlu wyrobami piekarniczymi cukierniczymi;
+- **29)** placówkach handlowych, których przeważającą działalnością jest działalność gastronomiczna;
+- **30)** terenie rolno-spożywczych rynków hurtowych prowadzonych przez spółki prawa handlowego, których przeważająca działalność polega wynajmie zarządzaniu nieruchomościami użytek handlu hurtowego artykułami rolno-spożywczymi;
+- **31)** placówkach handlowych prowadzonych przez podmioty nabywające towary terenie rolno-spożywczych rynków hurtowych, o których mowa pkt 30, zakresie czynności związanych handlem oraz powierzania pracownikowi lub zatrudnionemu wykonywania tych czynności;
+- **32)** placówkach handlowych, których jest prowadzony wyłącznie skup produktów pochodzenia rolniczego, szczególności zboża, rzepaku, rzepiku, buraków cukrowych, roślin białkowych, innych upraw polowych, owoców, warzyw, mleka surowego lub runa leśnego.
 
-2. Przeważająca działalność, której mowa ust. 1 pkt 2, 5, 6, 28, 29 30, oznacza rodzaj przeważającej działalności wskazany we wniosku wpis do krajowego rejestru urzędowego podmiotów gospodarki narodowej, którym mowa ustawie 29 czerwca 1995 statystyce publicznej (Dz. U. 2016 poz. 1068 poz. 60).
+2. Przeważająca działalność, o której mowa ust. 1 pkt 2, 5–7, 28 29, oznacza rodzaj przeważającej działalności wskazany we wniosku o wpis do krajowego rejestru urzędowego podmiotów gospodarki narodowej, o którym mowa ustawie dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. 2024 r. poz. 1799), jeżeli działalność ta jest wykonywana danej placówce handlowej stanowi co najmniej 40 % miesięcznego przychodu ze sprzedaży detalicznej rozumieniu ustawy dnia 6 lipca 2016 r. o podatku od sprzedaży detalicznej (Dz. U. 2023 r. poz. 148). W przypadku, o którym mowa ust. 1 pkt 30, przepis zdania pierwszego stosuje się odpowiednio.
+
+3. Placówki handlowe, korzystające wyłączeń, o których mowa ust. 1 pkt 2, 5–7 28–30, są obowiązane do prowadzenia ewidencji miesięcznego przychodu ze sprzedaży, podziałem przychód działalności określonej ust. 1 pkt 2, 5–7 28– 30 oraz przychód pozostałej działalności. nieodpłatnej pomocy.
+
+6. Minister właściwy do spraw finansów publicznych określi, drodze rozporządzenia, sposób prowadzenia ewidencji, o której mowa ust. 3, wzór tej ewidencji oraz szczegółową treść wpisów tej ewidencji, biorąc pod uwagę konieczność zapewnienia prawidłowego prowadzenia tej ewidencji oraz przejrzystości, kompletności dostępności zawartych niej danych.
+
+7. W toku postępowania kontrolnego inspektor pracy ma prawo żądania przedłożenia ewidencji, o której mowa ust. 3.
 
 **Art. 7.**
 
-1. Zakaz, którym mowa art. 5, nie obowiązuje w: kolejne dwie niedziele poprzedzające pierwszy dzień Bożego Narodzenia;
+1. Zakaz, o którym mowa art. 5, nie obowiązuje w:
 
+- **1)** kolejne trzy niedziele poprzedzające Wigilię Bożego Narodzenia;
 - **2)** niedzielę bezpośrednio poprzedzającą pierwszy dzień Wielkiej Nocy;
 - **3)** ostatnią niedzielę przypadającą styczniu, kwietniu, czerwcu sierpniu.
 
-2. Jeżeli niedzielę, której mowa ust. 1 pkt 3, przypada święto, przepis art. 5 stosuje się.
+1a. (uchylony) 1b. W przypadku, o którym mowa ust. 1 pkt 1, pracownik lub zatrudniony może wykonywać pracę handlu oraz wykonywać czynności związane handlem nie więcej niż dwie niedziele.
 
-#### Rozdział 3 Ograniczenia wykonywania czynności związanych handlem dniu 24 grudnia sobotę bezpośrednio poprzedzającą pierwszy dzień Wielkiej Nocy
+2. Jeżeli niedzielę, o której mowa ust. 1 pkt 3, przypada święto, przepis art. 5 stosuje się.
+
+#### Rozdział 3 Ograniczenia handlu oraz wykonywania czynności związanych handlem sobotę bezpośrednio poprzedzającą pierwszy dzień Wielkiej Nocy
 
 **Art. 8.**
 
-1. W dniu 24 grudnia sobotę bezpośrednio poprzedzającą pierwszy dzień Wielkiej Nocy handlowych: handel wykonywanie czynności związanych handlem,
+1. W sobotę bezpośrednio poprzedzającą pierwszy dzień Wielkiej Nocy placówkach handlowych:
 
-- **2)** powierzanie pracownikowi zatrudnionemu wykonywania pracy wykonywania czynno ś ci zwi ą zanych handlem
+- **1)** handel oraz wykonywanie czynności związanych handlem,
+- **2)** powierzanie pracownikowi lub zatrudnionemu wykonywania pracy handlu oraz wykonywania czynności związanych handlem po godzinie 14.00 są zakazane, wyjątkiem przypadków określonych art. 6.
+
+2. (uchylony)
+
+2. Wynagrodzenie, o którym mowa ust. 1, oblicza się stosując zasady obowiązujące przy ustalaniu wynagrodzenia za czas urlopu wypoczynkowego.
+
+#### Rozdział 4 Przepisy karne
 
 **Art. 10.**
 
-1. Kto, wbrew zakazowi wykonywania czynności związanych handlem niedziele święta, powierza wykonywanie pracy wykonywanie czynności związanych handlem pracownikowi zatrudnionemu, podlega karze grzywny wysokości od 1000 do 100 000 zł.
+1. Kto, wbrew zakazowi handlu oraz wykonywania czynności związanych handlem niedziele lub święta, powierza wykonywanie pracy handlu lub wykonywanie czynności związanych handlem pracownikowi lub zatrudnionemu, podlega karze grzywny wysokości od 1000 do 100 000 zł.
 
-2. Tej samej karze podlega, kto wbrew zakazowi wykonywania czynności związanych handlem po godzinie 14 dniu 24 grudnia sobotę bezpośrednio poprzedzającą pierwszy dzień Wielkiej Nocy, powierza wykonywanie pracy wykonywanie czynności związanych handlem pracownikowi zatrudnionemu.
+2. Tej samej karze podlega, kto:
 
-**Art. 11.** Orzekanie sprawach czyny, których mowa art. 10, następuje trybie przepisów ustawy 24 sierpnia 2001 Kodeks postępowania sprawach wykroczenia (Dz. U. 2016 poz. 1713, późn. zm. ).
+- **1)** wbrew zakazowi handlu oraz wykonywania czynności związanych handlem po godzinie 14.00 sobotę bezpośrednio poprzedzającą pierwszy dzień Wielkiej Nocy, powierza pracownikowi lub zatrudnionemu wykonywanie pracy handlu lub wykonywanie czynności związanych handlem;
+- **2)** wbrew obowiązkowi określonemu art. 6 ust. 3 nie prowadzi ewidencji miesięcznego przychodu placówki albo tę ewidencję prowadzi sposób niezgodny przepisami wydanymi podstawie art. 6 ust. 6.
 
-#### Rozdział 5 przepisach obowi ą zuj ą cych przepis ko ń cowy
+**Art. 11.** Orzekanie sprawach o czyny, o których mowa art. 10, następuje trybie przepisów ustawy dnia 24 sierpnia 2001 r. Kodeks postępowania sprawach o wykroczenia (Dz. U. 2024 r. poz. 977 1544).
 
-**Art. 12.** W ustawie 26 czerwca 1974 Kodeks pracy (Dz. U. 2018 poz. 108, 4 138) wprowadza następujące zmiany: art. 151 § otrzymuje brzmienie: „§ 2. Za pracę niedzielę święto, przypadkach, których mowa art. 151 , uważa pracę wykonywaną między godziną 6 tym dniu a godziną 6 następnym dniu, chyba że u danego pracodawcy została ustalona inna godzina.”;
-
-**Art. 13.** W ustawie 6 czerwca 1997 Kodeks karny (Dz. U. poz. 2204 2018 poz. 20) po art. 218 dodaje art. 218a brzmieniu: „Art. 218a. Kto, złośliwie uporczywie: wbrew zakazowi wykonywania czynności związanych handlem niedziele święta, powierza wykonywanie pracy wykonywanie czynności związanych handlem pracownikowi zatrudnionemu,
-
-**Art. 15.** W ustawie 13 kwietnia 2007 Państwowej Inspekcji Pracy (Dz. U. poz. 786 962) wprowadza następujące zmiany: art. 10 ust. 1 po pkt 15b dodaje pkt 15c brzmieniu: „15c) kontrola przestrzegania przepisów ustawy 10 stycznia 2018 ograniczeniu niedziele święta niektóre inne dni (Dz. U. poz. 305), zakresie powierzania pracownikowi zatrudnionemu wykonywania pracy wykonywania czynności związanych handlem handlowych;”;
-
-**Art. 16.**
-
-1. W okresie od 1 marca do 31 grudnia 2018 zakaz, którym mowa art. 5, nie obowiązuje pierwszą ostatnią niedzielę każdego miesiąca kalendarzowego.
-
-2. Jeżeli pierwszą ostatnią niedzielę miesiąca kalendarzowego przypada święto, przepis art. 5 stosuje się.
-
-**Art. 17.**
-
-1. W okresie od 1 stycznia do 31 grudnia 2019 zakaz, którym mowa art. 5, nie obowiązuje ostatnią niedzielę każdego miesiąca kalendarzowego.
-
-2. Jeżeli ostatnią niedzielę miesiąca kalendarzowego przypada święto, przepis art. 5 stosuje się.
-
-**Art. 18.** Ustawa wchodzi życie dniem 1 marca 2018 Prezydent Rzeczypospolitej Polskiej: A. Duda
+#### Rozdział 5 Zmiany przepisach obowiązujących przepis końcowy
 

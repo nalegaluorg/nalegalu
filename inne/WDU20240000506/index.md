@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 4 kwietnia 2024 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy pomocy państwa ponoszeniu wydatków mieszkaniowych pierwszych latach najmu mieszkania
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 21 marca 2024 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2024-04-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000506) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/506/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 21 marca 2024 r.
-sprawie ogłoszenia jednolitego tekstu ustawy pomocy państwa ponoszeniu wydatków mieszkaniowych pierwszych latach najmu mieszkania
 1. Na podstawie art. 16 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 20 lipca 2018 r. pomocy państwa ponoszeniu wydatków mieszkaniowych pierwszych latach najmu mieszkania (Dz. U. z 2023 r. poz. 1351), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 26 maja 2023 r. zmianie ustawy samorządzie gminnym, ustawy społecznych formach rozwoju mieszkalnictwa, ustawy gospodarce nieruchomościami, ustawy podatku od czynności cywilnoprawnych oraz niektórych innych ustaw (Dz. U. poz. 1463) oraz zmian wynikających z przepisów ogłoszonych przed dniem 13 marca 2024 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 17 ustawy z dnia 26 maja 2023 r. zmianie ustawy samorządzie gminnym, ustawy społecznych formach rozwoju mieszkalnictwa, ustawy gospodarce nieruchomościami, ustawy podatku od czynności cywilnoprawnych oraz niektórych innych ustaw (Dz. U. poz. 1463), który stanowi: „Art. 17. Ustawa wchodzi życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 8 pkt 9 lit. b, który wchodzi życie z dniem następującym po dniu ogłoszenia oraz z wyjątkiem art. 4 pkt 1–3 i art. 8 pkt 1–6, pkt 7 lit. a tiret pierwsze i drugie, pkt 8 i 9 lit. a oraz pkt 10–19, które wchodzą życie z dniem 1 stycznia 2024 r.”.
 Marszałek Sejmu: S. Hołownia
@@ -75,7 +75,7 @@ Art. 25–29. (pominięte)
 
 4. W przypadku niepoinformowania organu właściwego dokonaniu czynności, których 3 pkt 1 lub 2, terminie określonym tym ustępie wypłata dopłat podlega wstrzymaniu.
 
-5. O wstrzymaniu wypłaty dopłat na podstawie 4 organ właściwy informuje inwestora. najemca poinformował organ właściwy dokonaniu czynności, których 3 pkt 1 lub 2. Przepis 5 stosuje się odpowiednio.
+5. O wstrzymaniu wypłaty dopłat na podstawie 4 organ właściwy informuje inwestora. odpowiednio.
 
 7. Okres, którym wypłata dopłat była wstrzymana, wlicza się do okresu stosowania dopłat, którym art. 9
 
@@ -255,7 +255,7 @@ Art. 25–29. (pominięte)
 3. Do wniosku dopłaty najemca dołącza:
 
 - **1)** kopię umowy najmu, kopię umowy podnajmu albo kopię umowy zobowiązującej do zawarcia umowy najmu, przypadku, gdy umowa najmu nie została zawarta do dnia złożenia wniosku dopłaty;
-- **2)** oświadczenie liczbie osób wchodzących skład gospodarstwa domowego; z wyodrębnieniem dochodów poszczególnych osób wchodzących skład gospodarstwa domowego oraz informacją wysokości dochodów utraconych lub uzyskanych przez te osoby i miesiącu ich utraty lub uzyskania;
+- **2)** oświadczenie liczbie osób wchodzących skład gospodarstwa domowego; wysokości dochodów utraconych lub uzyskanych przez te osoby i miesiącu ich utraty lub uzyskania;
 - **4)** oświadczenie spełnieniu warunku, którym art. 4 1 pkt 3;
 - **5)** zobowiązanie, którym art. 4 3 przypadku, którym tym przepisie;
 - **6)** oświadczenie wcześniejszym stosowaniu dopłat wraz ze wskazaniem liczby miesięcy, jakich dopłaty były stosowane przed ponownym ubieganiem się najemcy dopłaty przypadku, którym art. 9 3;
@@ -282,7 +282,7 @@ Art. 25–29. (pominięte)
     - **a)** dochodu,
     - **b)** należnego podatku;
 
-- **3)** najemcy oraz pozostałych osobach wchodzących skład gospodarstwa domowego, rozliczających się na podstawie przepisów ustawy z dnia 20 listopada 1998 r. zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne, udzielane przez naczelnika właściwego urzędu skarbowego, zawierające dane o: czeniach rodzinnych;
+- **3)** najemcy oraz pozostałych osobach wchodzących skład gospodarstwa domowego, rozliczających się na podstawie przepisów ustawy z dnia 20 listopada 1998 r. zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne, udzielane przez naczelnika właściwego urzędu skarbowego, zawierające dane o:
     - **a)** formie opłacanego podatku,
     - **b)** wysokości przychodu,
     - **c)** stawce podatku,
@@ -325,7 +325,7 @@ Art. 25–29. (pominięte)
 1. Nie wcześniej niż terminie 2 miesięcy, jednak nie później niż terminie miesiąca przed rozpoczęciem każdych kolejnych 12 miesięcy, jakich dopłaty będą stosowane, najemca uzyskujący dopłaty składa organowi właściwemu oświadczenia o:
 
 - **1)** liczbie osób wchodzących skład gospodarstwa domowego,
-- **2)** wysokości dochodów tego gospodarstwa, z wyodrębnieniem dochodów poszczególnych osób wchodzących skład gospodarstwa oraz informacją wysokości dochodów utraconych lub uzyskanych przez te osoby i miesiącu ich utraty lub uzyskania, za rok kalendarzowy: wydanych na podstawie art. 14 4.
+- **2)** wysokości dochodów tego gospodarstwa, z wyodrębnieniem dochodów poszczególnych osób wchodzących skład gospodarstwa oraz informacją wysokości dochodów utraconych lub uzyskanych przez te osoby i miesiącu ich utraty lub uzyskania, za rok kalendarzowy:
     - **a)** poprzedzający rok, po upływie którego najemca składa oświadczenie przypadku oświadczeń składanych okresie od 1 stycznia do 31 lipca danego roku,
     - **b)** po upływie którego najemca składa oświadczenie przypadku oświadczeń składanych okresie od 1 sierpnia do 31 grudnia danego roku celu dokonania przez organ właściwy weryfikacji spełniania przez gospodarstwo domowe warunku, którym art. 5 1.
 
@@ -367,7 +367,7 @@ Art. 25–29. (pominięte)
 
 1. Najemca uzyskujący dopłaty informuje, formie pisemnej, organ właściwy dokonaniu czynności prawnej skutkującej niespełnianiem przez niego lub inną osobę wchodzącą skład gospodarstwa domowego warunku, którym art. 4 1 pkt 2 lub 8, terminie 30 dni od dnia dokonania tej czynności.
 
-2. Po uzyskaniu informacji, której 1, organ właściwy, z wyjątkiem przypadku, którym art. 4 10, wydaje decyzję sprawie pozbawienia prawa do dopłat. Przepis art. 15 4 stosuje się odpowiednio. dnia jej dokonania, decyzja, której 2, zawiera zobowiązanie najemcy do niezwłocznego zwrotu na rachunek gminy środków stanowiących równowartość kwoty dopłat wraz z odsetkami ustawowymi, uzyskanych okresie od dnia dokonania tej czynności do dnia, którym ta decyzja stała się wykonalna. Odsetki są naliczane od pierwszego dnia następującego po dniu wpłaty pierwszej nienależnie pobranej kwoty na rachunek wynajmującego do dnia dokonania zwrotu środków stanowiących równowartość kwoty dopłat.
+2. Po uzyskaniu informacji, której 1, organ właściwy, z wyjątkiem przypadku, którym art. 4 10, wydaje decyzję sprawie pozbawienia prawa do dopłat. Przepis art. 15 4 stosuje się odpowiednio. gminy środków stanowiących równowartość kwoty dopłat wraz z odsetkami ustawowymi, uzyskanych okresie od dnia dokonania tej czynności do dnia, którym ta decyzja stała się wykonalna. Odsetki są naliczane od pierwszego dnia następującego po dniu wpłaty pierwszej nienależnie pobranej kwoty na rachunek wynajmującego do dnia dokonania zwrotu środków stanowiących równowartość kwoty dopłat.
 
 3a. Ustalona do zwrotu łączna kwota zastosowanych dopłat i odsetek, której 3, nie może być niższa niż równowartość wypłaconych dopłat.
 
@@ -483,7 +483,7 @@ Art. 25–29. (pominięte)
 
 2. W danym roku środki planowane budżecie państwa na zasilenie Funduszu Dopłat z przeznaczeniem na sfinansowanie wydatków, których 1, określa się z uwzględnieniem warunku, że do sfinansowania wypłaty dopłat pierwszej kolejności przyjmuje się dostępne środki Funduszu Dopłat, których art. 5 2 pkt 4a ustawy z dnia 5 grudnia 2002 r. dopłatach do oprocentowania kredytów mieszkaniowych stałej stopie procentowej, które zgodnie z planem finansowym Funduszu Dopłat będą mogły zostać przeznaczone na sfinansowanie wydatków, których 1.
 
-3. Organem monitorującym wykorzystanie limitu wydatków, których 1, jest minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa. wniosków, których art. 19 1, osiągnie równowartość 1/12 kwoty określonej jako 90 % planowanych, z uwzględnieniem 1 i 2, wydatków Funduszu Dopłat ustalonych jako sumy środków określonych na ten cel ustawie budżetowej na dany rok oraz środków Funduszu Dopłat, których art. 5 2 pkt 4a ustawy z dnia 5 grudnia 2002 r. dopłatach do oprocentowania kredytów mieszkaniowych stałej stopie procentowej, które zgodnie z planem finansowym Funduszu Dopłat będą mogły zostać przeznaczone na sfinansowanie wypłaty dopłat tym roku stosuje się mechanizm korygujący polegający na tym, że:
+3. Organem monitorującym wykorzystanie limitu wydatków, których 1, jest minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa. nieniem 1 i 2, wydatków Funduszu Dopłat ustalonych jako sumy środków określonych na ten cel ustawie budżetowej na dany rok oraz środków Funduszu Dopłat, których art. 5 2 pkt 4a ustawy z dnia 5 grudnia 2002 r. dopłatach do oprocentowania kredytów mieszkaniowych stałej stopie procentowej, które zgodnie z planem finansowym Funduszu Dopłat będą mogły zostać przeznaczone na sfinansowanie wypłaty dopłat tym roku stosuje się mechanizm korygujący polegający na tym, że:
 
 - **1)** wstrzymuje się przyjmowanie nowych wniosków dopłaty;
 - **2)** dla dopłat już stosowanych miesięczna wysokość dopłat przypadku, którym art. 16, nie ulega zwiększeniu.

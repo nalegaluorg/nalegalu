@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 kwietnia 2021 r.
+# o zmianie ustawy o pomocy społecznej oraz ustawy o zmianie ustawy o pomocy społecznej oraz ustawy o ochronie zdrowia psychicznego
+
+*USTAWA z dnia 15 kwietnia 2021 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,9 +25,6 @@ domain: null
 | Data wydania | 2021-04-29 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000803) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/803/text.pdf) |
-
-USTAWA z dnia 15 kwietnia 2021 r.
-o zmianie ustawy o pomocy społecznej oraz ustawy o zmianie ustawy o pomocy społecznej oraz ustawy o ochronie zdrowia psychicznego
 
 **Art. 1.** W ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2020 r. poz. 1876 i 2369) wprowadza następujące zmiany:
 
@@ -45,7 +44,9 @@ o zmianie ustawy o pomocy społecznej oraz ustawy o zmianie ustawy o pomocy spo�
 
 **Art. 10.** Pierwsze szkolenia pracowników socjalnych, o których mowa art. 121 2c ustawy zmienianej art. 1, zatrudnionych dniu wejścia życie niniejszej ustawy, przeprowadza nie później niż okresie do 18 miesięcy od dnia wejścia życie niniejszej ustawy.
 
-**Art. 11.** Osoby posiadające wykształcenie uprawniające do wykonywania zawodu pracownika socjalnego oraz tytuł zawodowy magistra uzyskany ukończeniu studiów na jednym z kierunków lub zakresie: pedagogika, pedagogika specjalna, politologia, politologia i nauki społeczne, polityka społeczna, praca socjalna, psychologia, socjologia, nauki o rodzinie lub posiadające decyzję o uznaniu kwalifikacji zawodzie regulowanym pracownika socjalnego na podstawie przepisów ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych państwach członkowskich Unii Europejskiej (Dz. U. z 2020 r. poz. 220 oraz z 2021 r. poz. 78), które od dnia 1 stycznia 2010 r. przeprowadziły co najmniej 500 godzin konsultacji i poradnictwa dla pracowników socjalnych z zakresu umiejętności interpersonalnych i społecznych, metodyki pracy socjalnej, diagnozy socjalnej, warsztatu pracy pracownika socjalnego lub aksjologii pracy socjalnej, polegających na wzmacnianiu kompetencji zawodowych pracowników socjalnych, mogą przystąpić do egzaminu, o którym mowa art. 121a 3 ustawy zmienianej art. 1, terminie do dnia 31 grudnia 2023 r. bez konieczności odbywania szkolenia, o którym mowa art. 121a 3 ustawy zmienianej art. 1.
+**Art. 11.** Osoby posiadające wykształcenie uprawniające do wykonywania zawodu pracownika socjalnego oraz tytuł zawodowy magistra uzyskany po ukończeniu studiów na jednym z kierunków lub zakresie: pedagogika, pedagogika specjalna, politologia, politologia i nauki społeczne, polityka społeczna, praca socjalna, psychologia, socjologia, nauki o rodzinie lub posiadające decyzję o uznaniu kwalifikacji zawodzie regulowanym pracownika socjalnego na podstawie przepisów ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych państwach członkowskich Unii Europejskiej (Dz. U. z 2020 r. poz. 220 oraz z 2021 r. poz. 78), które od dnia 1 stycznia 2010 r. przeprowadziły co najmniej 500 godzin konsultacji i poradnictwa dla pracowników socjalnych z zakresu umiejętności interpersonalnych i społecznych, metodyki pracy socjalnej, diagnozy socjalnej, warsztatu pracy pracownika socjalnego lub aksjologii pracy socjalnej, polegających na wzmacnianiu kompetencji zawodowych pracowników socjalnych, mogą przystąpić do egzaminu, o którym mowa art. 121a 3 ustawy zmienianej art. 1, terminie do dnia 31 grudnia 2023 r. bez konieczności odbywania szkolenia, o którym mowa art. 121a 3 ustawy zmienianej art. 1.
 
 **Art. 12.** Do wszczętych i niezakończonych przed dniem wejścia życie niniejszej ustawy postępowań prowadzonych przez organy pierwszej i drugiej instancji sprawie wymierzenia kar pieniężnych:
+
+**Art. 13.** Ustawa wchodzi życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem:
 

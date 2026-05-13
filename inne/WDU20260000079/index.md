@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 26 stycznia 2026 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy o pomocy osobom uprawnionym do alimentów
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 21 stycznia 2026 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2026-01-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000079) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/79/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 21 stycznia 2026 r.
-sprawie ogłoszenia jednolitego tekstu ustawy o pomocy osobom uprawnionym do alimentów
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 7 września 2007 r. o pomocy osobom uprawnionym do alimentów (Dz. U. z 2025 r. poz. 438), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U.
 poz. 620) oraz zmian wynikających z przepisów ogłoszonych przed dniem 12 stycznia 2026 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 433 ust. 1 i art. 461 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620), które stanowią:
@@ -105,7 +105,7 @@ Art. 32–40. (pominięte)
     - **a)** uzyskaniem prawa do urlopu wychowawczego,
     - **b)** utratą zasiłku lub stypendium dla bezrobotnych,
     - **c)** utratą zatrudnienia lub innej pracy zarobkowej,
-    - **d)** utratą zasiłku przedemerytalnego lub świadczenia przedemerytalnego, nauczycielskiego świadczenia kompensacyjnego, a także emerytury lub renty, renty rodzinnej, renty socjalnej, dodatku dopełniającego, rodzicielskiego świadczenia uzupełniającego, o którym mowa ustawie z dnia 31 stycznia 2019 r. o rodzicielskim świadczeniu uzupełniającym (Dz. U. z 2025 r. poz. 1577), lub świadczenia pieniężnego przyznanego na zasadach określonych ustawie z dnia 8 lutego 2023 r. o świadczeniu pieniężnym przysługującym członkom rodziny funkcjonariuszy lub żołnierzy zawodowych, których śmierć nastąpiła związku ze służbą albo podjęciem poza służbą czynności ratowania życia lub zdrowia ludzkiego albo mienia (Dz. U. poz. 658), art. 16b ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2025 r. poz. 1770) lub art. 36aa ust. 1 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2025 r. poz. 350, z późn. zm. ), ea) utratą zasądzonych świadczeń alimentacyjnych związku ze śmiercią osoby zobowiązanej do tych świadczeń,
+    - **d)** utratą zasiłku przedemerytalnego lub świadczenia przedemerytalnego, nauczycielskiego świadczenia kompensacyjnego, a także emerytury lub renty, renty rodzinnej, renty socjalnej, dodatku dopełniającego, rodzicielskiego świadczenia uzupełniającego, o którym mowa ustawie z dnia 31 stycznia 2019 r. o rodzicielskim świadczeniu uzupełniającym (Dz. U. z 2025 r. poz. 1577), lub świadczenia pieniężnego przyznanego na zasadach określonych ustawie z dnia 8 lutego 2023 r. o świadczeniu pieniężnym przysługującym członkom rodziny funkcjonariuszy lub żołnierzy zawodowych, których śmierć nastąpiła związku ze służbą albo podjęciem poza służbą czynności ratowania życia lub zdrowia ludzkiego albo mienia (Dz. U. poz. 658), art. 36aa ust. 1 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2025 r. poz. 350, z późn. zm. ), ea) utratą zasądzonych świadczeń alimentacyjnych związku ze śmiercią osoby zobowiązanej do tych świadczeń,
     - **f)** utratą zasiłku chorobowego, świadczenia rehabilitacyjnego lub zasiłku macierzyńskiego, przysługujących po utracie zatrudnienia lub innej pracy zarobkowej,
     - **g)** utratą świadczenia rodzicielskiego,
     - **h)** utratą zasiłku macierzyńskiego, o którym mowa przepisach o ubezpieczeniu społecznym rolników,
@@ -204,7 +204,7 @@ Art. 32–40. (pominięte)
 
 2. W postępowaniu przed sądem prowadzonym z powództwa organu właściwego wierzyciela lub organu właściwego dłużnika stosuje się do tych organów odpowiednio przepisy o udziale prokuratora postępowaniu cywilnym.
 
-**Art. 8.** Sąd przesyła organowi właściwemu wierzyciela i organowi właściwemu dłużnika orzeczenia wydane na podstawie art. 132 i 138 ustawy z dnia 25 lutego 1964 r. Kodeks rodzinny i opiekuńczy (Dz. U. z 2023 r. poz. 2809 oraz z 2025 r. poz. 897) sprawach, których osoba uprawniona otrzymuje świadczenie z funduszu alimentacyjnego, terminie 14 dni od dnia uprawomocnienia się orzeczenia. alimentów:
+**Art. 8.** Sąd przesyła organowi właściwemu wierzyciela i organowi właściwemu dłużnika orzeczenia wydane na podstawie art. 132 i 138 ustawy z dnia 25 lutego 1964 r. Kodeks rodzinny i opiekuńczy (Dz. U. z 2023 r. poz. 2809 oraz z 2025 r. poz. 897) sprawach, których osoba uprawniona otrzymuje świadczenie z funduszu alimentacyjnego, terminie 14 dni od dnia uprawomocnienia się orzeczenia.
 
 **Art. 8b.** Organ właściwy dłużnika może upoważnić formie pisemnej swojego zastępcę, pracownika urzędu albo kierownika ośrodka pomocy społecznej, a przypadku przekształcenia ośrodka pomocy społecznej centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych dyrektora centrum usług społecznych, lub kierownika innej jednostki organizacyjnej gminy, a także inną osobę na wniosek kierownika ośrodka pomocy społecznej, a przypadku przekształcenia ośrodka pomocy społecznej centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych dyrektora centrum usług społecznych, lub innej jednostki organizacyjnej gminy do podejmowania działań wobec dłużników alimentacyjnych, prowadzenia postępowania i wydawania tych sprawach decyzji.
 
@@ -224,7 +224,7 @@ Art. 32–40. (pominięte)
 
 2a. W przypadku gdy dochód rodziny przeliczeniu na osobę rodzinie przekracza kwotę, o której mowa ust. 2, o kwotę nie wyższą niż kwota świadczenia z funduszu alimentacyjnego przysługującego danej osobie uprawnionej okresie świadczeniowym, na który jest ustalane prawo do tego świadczenia, świadczenie z funduszu alimentacyjnego przysługuje wysokości różnicy między kwotą świadczenia z funduszu alimentacyjnego przysługującego danej osobie uprawnionej a kwotą, o którą został przekroczony dochód rodziny przeliczeniu na osobę rodzinie.
 
-2b. W przypadku gdy wysokość świadczenia z funduszu alimentacyjnego przysługującego danej osobie uprawnionej, ustalona zgodnie z ust. 2a, jest niższa niż 100 zł, świadczenie to nie przysługuje. dzana jest waloryzacja.
+2b. W przypadku gdy wysokość świadczenia z funduszu alimentacyjnego przysługującego danej osobie uprawnionej, ustalona zgodnie z ust. 2a, jest niższa niż 100 zł, świadczenie to nie przysługuje.
 
 2d. Waloryzacja polega na zwiększeniu kwoty, o której mowa ust. 2, o wskaźnik waloryzacji. Wskaźnikiem waloryzacji jest procentowy skumulowany wzrost minimalnego wynagrodzenia za pracę, o którym mowa ustawie z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2024 r. poz. 1773), obowiązującego na dzień 1 stycznia roku, którym jest przeprowadzana waloryzacja, stosunku do wysokości minimalnego wynagrodzenia za pracę obowiązującej dniu 1 stycznia roku poprzedzającego o trzy lata rok, którym jest przeprowadzana waloryzacja.
 
@@ -256,7 +256,7 @@ Art. 32–40. (pominięte)
 
 9. Ustalając dochód rodziny uzyskany przez dzierżawcę gospodarstwa rolnego oddanego dzierżawę na zasadach, o których mowa ust. 8, dochód uzyskany z gospodarstwa rolnego pomniejsza się o zapłacony czynsz z tytułu dzierżawy.
 
-10. Ustalając dochód rodziny uzyskany z wydzierżawionego od Krajowego Ośrodka Wsparcia Rolnictwa gospodarstwa rolnego, dochód z gospodarstwa rolnego pomniejsza się o zapłacony czynsz z tytułu dzierżawy. te sumuje się.
+10. Ustalając dochód rodziny uzyskany z wydzierżawionego od Krajowego Ośrodka Wsparcia Rolnictwa gospodarstwa rolnego, dochód z gospodarstwa rolnego pomniejsza się o zapłacony czynsz z tytułu dzierżawy.
 
 12. W przypadku gdy prawo do świadczeń ustala się osobie uprawnionej pozostającej pod opieką opiekuna prawnego, ustalając dochód, uwzględnia się tylko dochód osoby uprawnionej.
 
@@ -327,7 +327,7 @@ Art. 32–40. (pominięte)
     - **a)** zaświadczenie organu prowadzącego postępowanie egzekucyjne albo oświadczenie stwierdzające bezskuteczność egzekucji,
     - **b)** odpis podlegającego wykonaniu orzeczenia sądu zasądzającego alimenty, odpis postanowienia sądu o zabezpieczeniu powództwa o alimenty, odpis protokołu zawierającego treść ugody sądowej lub ugody zawartej przed mediatorem,
     - **c)** orzeczenie sądu rodzinnego o ustaleniu opiekuna prawnego dla osoby uprawnionej,
-    - **d)** oświadczenie o uczęszczaniu osoby uprawnionej do szkoły lub szkoły wyższej, z wykonaniem tytułu wykonawczego za granicą albo o niepodjęciu tych czynności, szczególności związku z: brakiem podstawy prawnej do ich podjęcia lub brakiem możliwości wskazania przez osobę uprawnioną miejsca zamieszkania dłużnika alimentacyjnego za granicą,
+    - **d)** oświadczenie o uczęszczaniu osoby uprawnionej do szkoły lub szkoły wyższej, brakiem podstawy prawnej do ich podjęcia lub brakiem możliwości wskazania przez osobę uprawnioną miejsca zamieszkania dłużnika alimentacyjnego za granicą,
     - **f)** inne dokumenty potwierdzające spełnianie warunków do przyznania lub ustalenia wysokości świadczenia z funduszu alimentacyjnego będącego przedmiotem wniosku.
 
 4a. W przypadku utraty dochodu lub uzyskania dochodu do wniosku o świadczenie z funduszu alimentacyjnego należy dołączyć dokumenty potwierdzające ich utratę lub uzyskanie oraz ich wysokość.
@@ -404,7 +404,7 @@ Art. 32–40. (pominięte)
 
 9. Minister właściwy do spraw rodziny określi, drodze rozporządzenia, sposób i tryb postępowania sprawach o przyznanie świadczeń z funduszu alimentacyjnego, sposób ustalania dochodu uprawniającego do świadczenia z funduszu alimentacyjnego oraz szczegółowy zakres informacji, jakie mają być zawarte:
 
-- **1)** we wniosku o ustalenie prawa do świadczeń z funduszu alimentacyjnego, o dochodach członków rodziny oraz oświadczeniach, o których mowa ust. 4 pkt 3 lit. a,
+- **1)** we wniosku o ustalenie prawa do świadczeń z funduszu alimentacyjnego,
 - **3)** zaświadczeniu organu prowadzącego postępowanie egzekucyjne o bezskuteczności egzekucji zawierającym informację o stanie egzekucji, przyczynach jej bezskuteczności oraz o działaniach podejmowanych celu wyegzekwowania zasądzonych świadczeń alimentacyjnych kierując się koniecznością zapewnienia prawidłowego przebiegu postępowania sprawach świadczeń z funduszu alimentacyjnego oraz dokumentacji niezbędnej do sprawnej realizacji, również drogą elektroniczną, zadań zakresie świadczeń z funduszu alimentacyjnego.
 
 9a. Minister właściwy do spraw rodziny może określić oraz zamieścić na swojej stronie Biuletynu Informacji Publicznej wzory:
@@ -458,7 +458,7 @@ Art. 32–40. (pominięte)
 
 3. W przypadku braku Elektronicznym Krajowym Systemie Monitoringu Orzekania o Niepełnosprawności informacji, o której mowa ust. 1 pkt 5, organ właściwy wierzyciela prowadzący postępowanie sprawie świadczeń z funduszu alimentacyjnego wzywa osobę uprawnioną albo jej przedstawiciela ustawowego do dołączenia orzeczenia o znacznym stopniu niepełnosprawności.
 
-4. W przypadku awarii systemów teleinformatycznych służących do wymiany, drogą elektroniczną, informacji, o których mowa ust. 1 pkt 1, 1a, 1b, 3 i 5 oraz art. 15 ust. 8a pkt 1 lit. a, b, e, g, h oraz m, organ właściwy wierzyciela uzyskuje te informacje drodze pisemnej wymiany informacji. Organy podatkowe, organy emerytalno-rentowe oraz podmioty prowadzące rejestry publiczne przekazują te informacje niezwłocznie, nie później jednak niż terminie 7 dni od dnia otrzymania wniosku organu właściwego wierzyciela. mowa ust. 1 pkt 1, 1a, 1b i 3 oraz art. 15 ust. 8a pkt 1 lit. a, b, e, g, h oraz m, z przyczyn nieleżących po stronie tego organu, organ właściwy wierzyciela wzywa osobę uprawnioną albo jej przedstawiciela ustawowego do przedstawienia tych informacji.
+4. W przypadku awarii systemów teleinformatycznych służących do wymiany, drogą elektroniczną, informacji, o których mowa ust. 1 pkt 1, 1a, 1b, 3 i 5 oraz art. 15 ust. 8a pkt 1 lit. a, b, e, g, h oraz m, organ właściwy wierzyciela uzyskuje te informacje drodze pisemnej wymiany informacji. Organy podatkowe, organy emerytalno-rentowe oraz podmioty prowadzące rejestry publiczne przekazują te informacje niezwłocznie, nie później jednak niż terminie 7 dni od dnia otrzymania wniosku organu właściwego wierzyciela. organu, organ właściwy wierzyciela wzywa osobę uprawnioną albo jej przedstawiciela ustawowego do przedstawienia tych informacji.
 
 6. Minister właściwy do spraw rodziny pozyskuje drogą elektroniczną informacje niezbędne do ustalenia prawa do świadczeń z funduszu alimentacyjnego od organów emerytalno-rentowych oraz z rejestrów publicznych, tym z rejestru PESEL, o którym mowa przepisach o ewidencji ludności, z systemu informacji oświatowej, o którym mowa przepisach o systemie informacji oświatowej, z Centralnego Wykazu Ubezpieczonych oraz z wykazu studentów i wykazu osób ubiegających się o nadanie stopnia doktora będących częścią Zintegrowanego Systemu Informacji o Szkolnictwie Wyższym i Nauce POL-on, o którym mowa przepisach o szkolnictwie wyższym i nauce, celu umożliwienia organom właściwym wierzyciela weryfikacji prawa do świadczeń z funduszu alimentacyjnego, a także celu monitorowania przez ministra właściwego do spraw rodziny oraz wojewodę realizacji świadczeń z funduszu alimentacyjnego przez organ właściwy wierzyciela.
 
@@ -677,7 +677,7 @@ Art. 32–40. (pominięte)
 - **7)** kosztów obsługi;
 - **8)** prowadzonych postępowań egzekucyjnych.
 
-6. (uchylony) -finansowych oraz terminy i sposób ich przekazywania, uwzględniając potrzebę zapewnienia skutecznej realizacji zadań z zakresu świadczeń z funduszu alimentacyjnego finansowanych z budżetu państwa.
+6. (uchylony) z zakresu świadczeń z funduszu alimentacyjnego finansowanych z budżetu państwa.
 
 8. Sprawozdania rzeczowo-finansowe z wykonywania zadań z zakresu świadczenia z funduszu alimentacyjnego przekazywane są zgodnie z wzorami udostępnionymi, drogą elektroniczną, przez ministra właściwego do spraw rodziny.
 

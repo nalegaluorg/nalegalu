@@ -10,7 +10,9 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 1 sierpnia 2003
+# o rencie socjalnej
+
+*USTAWA z dnia 27 czerwca 2003 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,145 +26,229 @@ domain: null
 | Ostatnia zmiana | 2026-04-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031351268) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/1268/text.pdf) |
 
-USTAWA zdnia 27 czerwca 2003 orencie socjalnej
-
-**Art. 1.** Ustawa określa zasady i tryb przyznawania oraz wypłaty renty socjalnej.
+**Art. 1.** Ustawa określa zasady i tryb przyznawania oraz wypłaty renty socjalnej oraz dodatku dopełniającego.
 
 **Art. 2.** Prawo do renty socjalnej przysługuje:
+
+**Art. 3.** Użyte w ustawie określenia oznaczają:
 
 **Art. 4.**
 
 1. Renta socjalna przysługuje osobie pełnoletniej całkowicie niezdolnej do pracy z powodu naruszenia sprawności organizmu, które powstało:
 
 - **1)** przed ukończeniem 18. roku życia;
-- **2)** w trakcie nauki w szkole lub w szkole wyższej przed ukończeniem 25. roku życia;
-- **3)** w trakcie studiów doktoranckich lub aspirantury naukowej.
+- **2)** w trakcie nauki w szkole lub w szkole wyższej – przed ukończeniem 25. roku życia;
+- **3)** w trakcie kształcenia w szkole doktorskiej, studiów doktoranckich lub aspirantury naukowej.
 
-2. Osobie, która spełnia warunki określone wust. 1, przysługuje:
+2. Osobie, która spełnia warunki określone w ust. 1, przysługuje:
 
-- **1)** renta socjalna stała jeżeli całkowita niezdolność do pracy jest trwała;
-- **2)** renta socjalna okresowa jeżeli całkowita niezdolność do pracy jest okresowa.
+- **1)** renta socjalna stała – jeżeli całkowita niezdolność do pracy jest trwała;
+- **2)** renta socjalna okresowa – jeżeli całkowita niezdolność do pracy jest okresowa.
 
-3. Renta socjalna okresowa przysługuje przez okres wskazany w decyzji jednostki organizacyjnej Zakładu Ubezpieczeń Społecznych, zwanego dalej ŃZakładem”.
+3. Renta socjalna okresowa przysługuje przez okres wskazany w decyzji jednostki organizacyjnej Zakładu Ubezpieczeń Społecznych, zwanego dalej „Zakładem”. [Art. 5. 1. Ustalenia całkowitej niezdolności do pracy dokonuje lekarz orzecznik Zakładu, zwany dalej „lekarzem orzecznikiem”, na zasadach i w trybie określonych w ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2025 r. poz. 1749 oraz z 2026 r. poz. 26), zwanej dalej „ustawą o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych”.
 
-**Art. 5.** Ustalenia całkowitej niezdolności do pracy dokonuje lekarz orzecznik Zakładu, zwany dalej Ńlekarzem orzecznikiem”, na zasadach i w trybie określonych wustawie zdnia 17 grudnia 1998 oemeryturach irentach zFunduszu Ubezpieczeń Społecznych (Dz. U. 162, 1118, zpóên. zm. 2. Renta socjalna nie przysługuje osobie będącej właścicielem lub posiadaczem (samoistnym lub zależnym) nieruchomości rolnej w rozumieniu Kodeksu cywilnego opowierzchni użytków rolnych przekraczającej 5 ha przeliczeniowych. Osobie będącej współwłaścicielem nieruchomości rolnej nie przysługuje renta socjalna, jeśli udział tej osoby przekracza 5 ha przeliczeniowych.
+2. Ustalając całkowitą niezdolność do pracy, lekarz orzecznik, za zgodą osoby ubiegającej się o rentę socjalną lub jej przedstawiciela ustawowego, zgłoszoną niepóźniej niż w trakcie badania tej osoby, ustala niezdolność tej osoby do samodzielnej egzystencji, na zasadach i w trybie określonym ustawą o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, w celu uzyskania świadczenia, o którym mowa w art. 1 ust. 1 ustawy z dnia 31 lipca 2019 r. o świadczeniu uzupełniającym dla osób niezdolnych do samodzielnej egzystencji (Dz. U. z 2024 r. poz. 1649, z 2025 r. poz. 1302 oraz z 2026 r. poz. 26), lub dodatku dopełniającego, o którym mowa w art. 6a.] <Art. 5. 1. Ustalenia całkowitej niezdolności do pracy dokonuje lekarz orzecznik Zakładu, zwany dalej „lekarzem orzecznikiem”, na zasadach i w trybie określonych w ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2025 r. poz. 1749 oraz z 2026 r. poz. 26), zwanej dalej „ustawą o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych”, oraz w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2026 r. poz. 199 i 252).
 
-**Art. 8.**
-
-1. Renta socjalna nie przysługuje za okres tymczasowego aresztowania lub odbywania kary pozbawienia wolności.
-
-2. Osoba tymczasowo aresztowana lub odbywająca karę pozbawienia wolności jest obowiązana niezwłocznie powiadomić właściwy organ wypłacający rentę socjalną o tymczasowym aresztowaniu lub o odbywaniu kary pozbawienia wolności. Obowiązek ten spoczywa również na dyrektorze aresztu lub zakładu karnego.
-
-3. Osobie, októrej mowa wust. 2, samotnie gospodarującej, nieposiadającej innego przychodu i niemającej prawa do renty rodzinnej, która jest właścicielem lokalu mieszkalnego (domu jednorodzinnego), której przysługuje spółdzielcze prawo do lokalu lub która jest najemcą lokalu mieszkalnego wchodzącego w skład mieszkaniowego zasobu gminy, innych jednostek samorządu terytorialnego albo stanowiącego własność Skarbu Państwa lub państwowych osób prawnych, może być wypłacane 50% kwoty renty socjalnej, jeżeli zobowiąże się pisemnie, że z kwoty tej będzie dokonywała opłat ztytułu czynszu lub innych należności za lokal mieszkalny (dom jednorodzinny), awlokalu (domu jednorodzinnym) nie przebywają inne osoby. ), zwanej dalej Ńustawą 4. Zkwoty określonej wust. 3 nie dokonuje się pooemeryturach irentach zFunduszu Ubezpieczeń Spo- trąceń iegzekucji. łecznych”.
-
-**Art. 9.**
-
-1. W przypadku zbiegu uprawnień do renty
+2. Ustalając całkowitą niezdolność do pracy, lekarz orzecznik, za zgodą osoby ubiegającej się o rentę socjalną lub jej przedstawiciela ustawowego, zgłoszoną niepóźniej niż w trakcie badania tej osoby, ustala niezdolność tej osoby do samodzielnej egzystencji, na zasadach i w trybie określonych w ustawie o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, w celu uzyskania świadczenia, o którym mowa w art. 1 ust. 1 ustawy z dnia 31 lipca 2019 r. o świadczeniu uzupełniającym dla osób niezdolnych do samodzielnej egzystencji (Dz. U. z 2024 r. poz. 1649, z 2025 r. poz. 1302 oraz z 2026 r. poz. 26), lub dodatku dopełniającego, o którym mowa w art. 6a.>
 
 **Art. 6.**
 
-1. Renta socjalna wynosi 84% kwoty najniż- socjalnej z uprawnieniem do renty rodzinnej kwota szej renty z tytułu całkowitej niezdolności do pracy renty socjalnej ulega takiemu obniżeniu, aby łączna określonej wustawie oemeryturach irentach zFundu- kwota obu świadczeń nie przekraczała 200% kwoty szu Ubezpieczeń Społecznych. najniższej renty ztytułu całkowitej niezdolności do pracy. Kwota obniżonej renty socjalnej nie może być niż2. Rentę socjalną waloryzuje się na zasadach sza niż 10% kwoty najniższej renty z tytułu całkowitej i w trybie określonych dla emerytur i rent z Funduszu niezdolności do pracy. Ubezpieczeń Społecznych.
+1. Renta socjalna wynosi 100 % kwoty najniższej renty z tytułu całkowitej niezdolności do pracy ustalonej i podwyższonej zgodnie z ustawą o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
 
-2. Renta socjalna nie przysługuje, jeżeli kwota ren3. Waloryzacji renty socjalnej dokonuje jednostka ty rodzinnej przekracza 200% kwoty najniższej renty organizacyjna Zakładu lub organ emerytalno-rentowy. ztytułu całkowitej niezdolności do pracy.
+2. Podwyższenia renty socjalnej dokonuje jednostka organizacyjna Zakładu lub organ emerytalno-rentowy.
+
+3. Podwyższenie renty socjalnej następuje z urzędu, a jeżeli wypłata renty została wstrzymana – po jej wznowieniu.
+
+**Art. 6a.**
+
+1. Osobie uprawnionej do renty socjalnej, będącej całkowicie niezdolną do pracy oraz do samodzielnej egzystencji, przysługuje dodatek dopełniający w wysokości 2520 zł .
+
+2. Dodatek dopełniający przyznaje się na wniosek osoby ubiegającej się o ten dodatek lub jej przedstawiciela ustawowego.
+
+3. Dodatek dopełniający przyznaje się również na wniosek innej osoby albo kierownika ośrodka pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych (Dz. U. z 2026 r. poz. 165) – dyrektora centrum usług społecznych, działających za zgodą osób, o których mowa w ust. 2.
+
+4. Dodatek dopełniający wypłaca się z rentą socjalną.
+
+5. Kwota dodatku dopełniającego podlega corocznie waloryzacji od dnia 1 marca.
+
+6. Waloryzacja polega na pomnożeniu kwoty dodatku dopełniającego przez wskaźnik waloryzacji. W wyniku przeprowadzonej waloryzacji kwota dodatku nie może ulec obniżeniu.
+
+7. Wskaźnik waloryzacji to średnioroczny wskaźnik cen towarów i usług konsumpcyjnych ogółem w poprzednim roku kalendarzowym ogłaszany przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 94 ust. 1 pkt 1 lit. a ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
+
+8. Prezes Zakładu ogłasza, w formie komunikatu, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, co najmniej na 14 dni roboczych przed najbliższym terminem waloryzacji należną od terminu waloryzacji kwotę dodatku dopełniającego.
+
+9. Podwyższenie kwoty dodatku dopełniającego w związku z waloryzacją następuje z urzędu i nie wymaga wydania decyzji. Zakład lub organ emerytalno-rentowy przekazuje osobie pobierającej rentę socjalną informację o podwyższeniu wysokości dodatku dopełniającego, a Zakład udostępnia tę informację także na jej profilu informacyjnym utworzonym w systemie teleinformatycznym udostępnionym przez Zakład.
+
+**Art. 6b.**
+
+1. Wniosek o dodatek dopełniający zawiera:
+
+- **1)** dane osoby ubiegającej się o dodatek dopełniający:
+    - **a)** imię i nazwisko,
+    - **b)** datę urodzenia,
+    - **c)** numer PESEL albo, jeżeli nie nadano tego numeru, serię i numer dowodu osobistego lub numer paszportu,
+    - **d)** adres miejsca zamieszkania,
+    - **e)** adres miejsca pobytu lub ostatniego miejsca zamieszkania – w przypadku osoby nieposiadającej adresu miejsca zamieszkania,
+    - **f)** adres do korespondencji, jeżeli jest inny niż adres miejsca zamieszkania;
+
+- **2)** podpis osoby ubiegającej się o dodatek dopełniający lub jej przedstawiciela ustawowego albo pełnomocnika.
+
+2. Do wniosku należy dołączyć:
+
+- **1)** zaświadczenie o stanie zdrowia wystawione przez lekarza leczącego niewcześniej niż miesiąc przed dniem złożenia wniosku;
+- **2)** posiadaną dokumentację medyczną z przebiegu leczenia.
+
+**Art. 6c.**
+
+1. Dla celów ustalania uprawnień do świadczeń pieniężnych finansowanych ze środków publicznych oraz ustalania wysokości tych świadczeń, dodatek dopełniający uwzględnia się na tych samych zasadach jak rentę socjalną.
+
+2. Przepis ust. 1 nie dotyczy świadczenia wspierającego, o którym mowa w art. 1 ustawy z dnia 7 lipca 2023 r. o świadczeniu wspierającym (Dz. U. poz. 1429 i 2760 oraz z 2025 r. poz. 619).
 
 **Art. 7.**
 
-1. Renta socjalna nie przysługuje osobie 3. Osoba ubiegająca się orentę socjalną bądê ją pouprawnionej do emerytury, uposażenia w stanie spo- bierająca jest obowiązana powiadomić jednostkę orczynku, renty z tytułu niezdolności do pracy, renty in- ganizacyjną Zakładu przyjmującą wniosek bądê wypławalidzkiej lub pobierającej świadczenie o charakterze cającą rentę socjalną o posiadaniu uprawnień do renrentowym z instytucji zagranicznych, renty struktural- ty rodzinnej oraz organ emerytalno-rentowy wypłacanej, a także osobie uprawnionej do zasiłku przedeme- jący rentę rodzinną o posiadaniu uprawnień do renty rytalnego lub świadczenia przedemerytalnego. socjalnej. ——————— Art. 10. 1. Prawo do renty socjalnej zawiesza się Ubezpieczeń Społecznych, lub inną pracę zarobkową albo prowadzenie działalności pozarolniczej.
+1. Renta socjalna nie przysługuje osobie uprawnionej do emerytury, uposażenia w stanie spoczynku, renty z tytułu niezdolności do pracy, renty inwalidzkiej lub pobierającej świadczenie o charakterze rentowym z instytucji zagranicznych, renty strukturalnej, a także osobie uprawnionej do zasiłku przedemerytalnego, świadczenia przedemerytalnego lub nauczycielskiego świadczenia kompensacyjnego.
 
-3. Za przychód, o którym mowa w ust. 1, w przypadku prowadzenia działalności pozarolniczej uważa się przychód stanowiący zadeklarowaną podstawę wymiaru składki na ubezpieczenia społeczne w rozumieniu ustawy z dnia 13 paêdziernika 1998 o systemie ubezpieczeń społecznych (Dz. U. 137, 887, z póên. zm. ), zwanej dalej Ńustawą o systemie ubezpieczeń społecznych”.
+2. Renta socjalna nie przysługuje osobie będącej właścicielem lub posiadaczem (samoistnym lub zależnym) nieruchomości rolnej w rozumieniu Kodeksu cywilnego o powierzchni użytków rolnych przekraczającej 5 ha przeliczeniowych. Osobie będącej współwłaścicielem nieruchomości rolnej nie przysługuje renta socjalna, jeśli udział tej osoby przekracza 5 ha przeliczeniowych.
 
-4. Za przychód, októrym mowa wust. 1, uważa się również kwoty pobranych zasiłków: chorobowego, macierzyńskiego i opiekuńczego oraz wynagrodzenia za czas niezdolności do pracy, kwoty świadczenia rehabilitacyjnego i wyrównawczego, zasiłku wyrównawczego idodatku wyrównawczego.
+**Art. 8.**
 
-5. Prawo do renty socjalnej ulega zawieszeniu wrazie osiągania przychodu innego niż wymieniony wust. 1—4, zaliczonego do êródeł przychodów podlegających opodatkowaniu na zasadach określonych w art. 27 ustawy z dnia 26 lipca 1991 o podatku dochodowym od osób fizycznych (Dz. U. z 2000 14, 176, zpóên. zm. wiadomić organ wypłacający rentę socjalną o osiąganiu przychodu wkwocie powodującej zawieszenie prawa do renty socjalnej. Powiadomienie następuje wformie pisemnego oświadczenia. Wprzypadku gdy składki na ubezpieczenia społeczne są odprowadzane przez płatnika składek, osoba pobierająca rentę socjalną jest obowiązana do przedstawienia zaświadczenia określającego kwotę przychodu.
+1. Renta socjalna oraz dodatek dopełniający nie przysługują za okres tymczasowego aresztowania lub odbywania kary pozbawienia wolności, z zastrzeżeniem ust. 1a.
 
-8. Organ wypłacający rentę socjalną może wystąpić do urzędu skarbowego o przekazanie informacji o wysokości przychodów objętych podatkiem dochodowym od osób fizycznych lub zryczałtowanym podatkiem dochodowym od niektórych przychodów osiąganych przez osoby fizyczne lub informacji o opodatkowaniu działalności na zasadzie karty podatkowej wcelu dokonania weryfikacji oświadczenia złożonego przez osobę pobierającą rentę.
+1a. Przepisu ust. 1 nie stosuje się do osób odbywających karę pozbawienia wolności w systemie dozoru elektronicznego.
 
-9. Prezes Zakładu Ubezpieczeń Społecznych ogłasza wDzienniku Urzędowym Rzeczypospolitej Polskiej ŃMonitor Polski”, w terminie do 14. dnia roboczego drugiego miesiąca każdego kwartału kalendarzowego, ), zzastrzeżeniem art. 9 ust. 1 i2, lub osiągania przychodów ztytułu umowy najmu, podnajmu, dzierżawy, poddzierżawy lub innych umów opodobnym charakterze, opodatkowanych na podstawie przepisów o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne.
+2. Osoba tymczasowo aresztowana lub odbywająca karę pozbawienia wolności jest obowiązana niezwłocznie powiadomić właściwy organ wypłacający rentę socjalną o tymczasowym aresztowaniu lub o odbywaniu kary pozbawienia wolności. Obowiązek ten spoczywa również na dyrektorze aresztu lub zakładu karnego.
 
-6. Prawo do renty socjalnej zawiesza się za miesiąc, wktórym zostały osiągnięte przychody, októrych mowa wust. 1—5, włącznej kwocie wyższej niż 30% przeciętnego miesięcznego wynagrodzenia za kwartał kalendarzowy ostatnio ogłoszonego przez Prezesa Głównego Urzędu Statystycznego do celów emerytalnych.
+3. Osobie, o której mowa w ust. 2, samotnie gospodarującej, nieposiadającej innego przychodu i niemającej prawa do renty rodzinnej, która jest właścicielem lokalu mieszkalnego (domu jednorodzinnego), której przysługuje spółdzielcze prawo do lokalu lub która jest najemcą lokalu mieszkalnego wchodzącego w skład mieszkaniowego zasobu gminy, innych jednostek samorządu terytorialnego albo stanowiącego własność Skarbu Państwa lub państwowych osób prawnych, może być wypłacane 50 % kwoty renty socjalnej oraz 50 % kwoty dodatku dopełniającego, jeżeli zobowiąże się pisemnie, że z kwoty tej będzie dokonywała opłat z tytułu czynszu lub innych należności za lokal mieszkalny (dom jednorodzinny), a w lokalu (domu jednorodzinnym) nie przebywają inne osoby.
 
-7. Osoba pobierająca rentę socjalną lub jej przedstawiciel ustawowy są obowiązani niezwłocznie pokwotę przychodu, októrej mowa wust. 6, zzaokrągleniem wgórę do pełnych dziesiątek groszy.
+4. Z kwoty określonej w ust. 3 nie dokonuje się potrąceń i egzekucji.
+
+**Art. 9.**
+
+1. W przypadku zbiegu uprawnień do renty socjalnej z uprawnieniem do renty rodzinnej lub świadczenia pieniężnego przyznanego na zasadach określonych w ustawie z dnia 8 lutego 2023 r. o świadczeniu pieniężnym przysługującym członkom rodziny funkcjonariuszy lub żołnierzy zawodowych, których śmierć nastąpiła w związku ze służbą albo podjęciem poza służbą czynności ratowania życia lub zdrowia ludzkiego albo mienia (Dz. U. poz. 658) kwota renty socjalnej ulega takiemu obniżeniu, aby łączna kwota obu świadczeń nie przekraczała 300 % kwoty najniższej renty z tytułu całkowitej niezdolności do pracy. Kwota obniżonej renty socjalnej nie może być niższa niż 10 % kwoty najniższej renty z tytułu całkowitej niezdolności do pracy.
+
+2. Renta socjalna nie przysługuje, jeżeli kwota renty rodzinnej lub świadczenia pieniężnego, o którym mowa w ust. 1, przekracza 300 % kwoty najniższej renty z tytułu całkowitej niezdolności do pracy.
+
+3. Osoba ubiegająca się o rentę socjalną bądź ją pobierająca jest obowiązana powiadomić jednostkę organizacyjną Zakładu przyjmującą wniosek bądź wypłacającą rentę socjalną o posiadaniu uprawnień do renty rodzinnej lub świadczenia pieniężnego, o którym mowa w ust. 1, oraz organ emerytalno-rentowy wypłacający rentę rodzinną lub świadczenie pieniężne, o którym mowa w ust. 1, o posiadaniu uprawnień do renty socjalnej.
+
+4. W przypadku obniżenia renty socjalnej z przyczyn, o których mowa w ust. 1, kwota dodatku dopełniającego ulega obniżeniu o taki sam procent, o jaki obniżono rentę socjalną.
+
+**Art. 10.**
+
+1. Prawo do renty socjalnej oraz dodatku dopełniającego ulega zawieszeniu lub świadczenia te ulegają zmniejszeniu w razie osiągania przychodu z tytułu działalności podlegającej obowiązkowi ubezpieczenia społecznego, na zasadach określonych w art. 104 ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
+
+2. (uchylony)
+
+3. (uchylony)
+
+4. (uchylony)
+
+5. (uchylony) 5a. (uchylony) 5b. (uchylony)
+
+6. (uchylony)
+
+7. Osoba pobierająca rentę socjalną lub jej przedstawiciel ustawowy są obowiązani niezwłocznie powiadomić organ wypłacający rentę socjalną o okolicznościach powodujących zawieszenie prawa do tego świadczenia albo zmniejszenie jego wysokości. Powiadomienie następuje w formie pisemnego oświadczenia. W przypadku gdy składki na ubezpieczenia społeczne są odprowadzane przez płatnika składek, osoba pobierająca rentę socjalną jest obowiązana do przedstawienia zaświadczenia albo oświadczenia określającego kwotę przychodu.
+
+7a. Oświadczenia, o których mowa w ust. 7, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań.
+
+8. Organ wypłacający rentę socjalną może wystąpić do urzędu skarbowego o przekazanie informacji o wysokości przychodów objętych podatkiem dochodowym od osób fizycznych lub zryczałtowanym podatkiem dochodowym od niektórych przychodów osiąganych przez osoby fizyczne lub informacji o opodatkowaniu działalności na zasadzie karty podatkowej w celu dokonania weryfikacji oświadczenia złożonego przez osobę pobierającą rentę.
+
+9. (uchylony)
 
 **Art. 11.**
 
-1. Postępowanie wsprawie przyznania renty socjalnej wszczyna się na podstawie wniosku osoby ubiegającej się orentę socjalną lub jej przedstawiciela ustawowego.
+1. Postępowanie w sprawie przyznania renty socjalnej wszczyna się na podstawie wniosku osoby ubiegającej się o rentę socjalną lub jej przedstawiciela ustawowego.
 
-2. Postępowanie w sprawie przyznania renty socjalnej wszczyna się również na wniosek innej osoby albo kierownika ośrodka pomocy społecznej, działających za zgodą osób, októrych mowa wust. 1.
+2. Postępowanie w sprawie przyznania renty socjalnej wszczyna się również na wniosek innej osoby albo kierownika ośrodka pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych – dyrektora centrum usług społecznych, działających za zgodą osób, o których mowa w ust. 1.
 
-3. Minister właściwy do spraw zabezpieczenia społecznego określi, wdrodze rozporządzenia, wzór wniosku o przyznanie renty socjalnej, uwzględniając instrukcję jego wypełnienia, wykaz dokumentów, które należy dołączyć do wniosku, szczegółowy tryb postępowania wsprawach oprzyznanie renty socjalnej, tryb powiadamiania Zakładu oraz organów emerytalno-rentowych o tymczasowym aresztowaniu i odbywaniu kary pozbawienia wolności, wykaz dokumentów potwierdzających prawo do 50% kwoty renty socjalnej, uwzględniając współdziałanie osoby aresztowanej lub odbywającej karę pozbawienia wolności zdyrektorem aresztu śledczego lub zakładu karnego.
+3. Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, wzór wniosku o przyznanie renty socjalnej, uwzględniając instrukcję jego wypełnienia, wykaz dokumentów, które należy dołączyć do wniosku, szczegółowy tryb postępowania w sprawach o przyznanie renty socjalnej, tryb powiadamiania Zakładu oraz organów emerytalno-rentowych o tymczasowym aresztowaniu i odbywaniu kary pozbawienia wolności, wykaz dokumentów potwierdzających prawo do 50 % kwoty renty socjalnej, uwzględniając współdziałanie osoby aresztowanej lub odbywającej karę pozbawienia wolności z dyrektorem aresztu śledczego lub zakładu karnego.
 
 **Art. 12.**
 
-1. Decyzję w sprawie przyznania renty socjalnej wydaje i świadczenie to wypłaca jednostka organizacyjna Zakładu właściwa ze względu na miejsce zamieszkania lub pobytu osoby ubiegającej się orentę socjalną.
+1. Decyzję w sprawie przyznania renty socjalnej wydaje i świadczenie to wypłaca jednostka organizacyjna Zakładu właściwa ze względu na miejsce zamieszkania lub pobytu osoby ubiegającej się o rentę socjalną.
 
-2. W przypadku gdy rentę rodzinną wypłaca jednostka organizacyjna Zakładu wskazana przez Preze——————— w art. 9 ust. 2 odmawia wypłaty renty socjalnej lub wstrzymuje wypłatę tej renty.
+2. W przypadku gdy rentę rodzinną wypłaca jednostka organizacyjna Zakładu wskazana przez Prezesa Zakładu, rentę socjalną przyznaje i wypłaca ta jednostka.
 
-4. Organ emerytalno-rentowy wypłacający rentę socjalną wydaje decyzję o wstrzymaniu wypłaty renty socjalnej w razie wystąpienia okoliczności powodujących zawieszenie prawa lub wstrzymanie wypłaty renty socjalnej.
+3. W przypadku gdy uprawnienia do renty rodzinnej lub świadczenia pieniężnego, o którym mowa w art. 9 ust. 1, zostały ustalone przez organ emerytalnorentowy, organ ten ustala, w drodze decyzji, wysokość renty socjalnej, wypłaca tę rentę, a w przypadku określonym w art. 9 ust. 2 odmawia wypłaty renty socjalnej lub wstrzymuje wypłatę tej renty.
 
-5. W przypadku gdy organ emerytalno-rentowy ustali prawo do renty rodzinnej, jest obowiązany do powiadomienia Zakładu o przyznaniu tej renty osobom pobierającym rentę socjalną.
+3a. Przepisy ust. 1–3 stosuje się odpowiednio do przyznania i wypłaty dodatku dopełniającego.
 
-6. Od decyzji w sprawie renty socjalnej wydanej przez jednostkę organizacyjną Zakładu lub przez organ emerytalno-rentowy osobie ubiegającej się orentę socjalną przysługują środki odwoławcze przewidziane dla decyzji w sprawach emerytur i rent w ustawie osystemie ubezpieczeń społecznych.
+4. Organ emerytalno-rentowy wypłacający rentę socjalną lub rentę socjalną z dodatkiem dopełniającym wydaje decyzję o wstrzymaniu wypłaty renty socjalnej lub renty socjalnej z dodatkiem dopełniającym lub dodatku dopełniającego w razie wystąpienia okoliczności powodujących zawieszenie prawa do renty socjalnej lub renty socjalnej z dodatkiem dopełniającym lub wstrzymanie wypłaty renty socjalnej lub renty socjalnej z dodatkiem dopełniającym lub dodatku dopełniającego.
+
+5. W przypadku gdy organ emerytalno-rentowy ustali prawo do renty rodzinnej lub świadczenia pieniężnego, o którym mowa w art. 9 ust. 1, jest obowiązany do powiadomienia Zakładu o przyznaniu tej renty lub tego świadczenia osobom pobierającym rentę socjalną lub rentę socjalną z dodatkiem dopełniającym.
+
+6. Od decyzji w sprawie renty socjalnej lub renty socjalnej z dodatkiem dopełniającym lub dodatku dopełniającego wydanej przez jednostkę organizacyjną Zakładu lub przez organ emerytalno-rentowy osobie ubiegającej się o rentę socjalną lub o rentę socjalną z dodatkiem dopełniającym lub o dodatek dopełniający przysługują środki odwoławcze przewidziane dla decyzji w sprawach emerytur i rent w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych.
+
+**Art. 12a.**
+
+1. W razie śmierci osoby pobierającej rentę socjalną przysługuje zasiłek pogrzebowy, na zasadach i w wysokości określonych w przepisach o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, o ile zasiłek pogrzebowy lub świadczenie w wysokości zasiłku pogrzebowego nie przysługuje z innego tytułu.
+
+2. Decyzję w sprawie przyznania zasiłku pogrzebowego wydaje oraz zasiłek wypłaca jednostka organizacyjna Zakładu albo Kasa Rolniczego Ubezpieczenia Społecznego.
+
+**Art. 12b.**
+
+1. Jeżeli dla osoby uprawnionej do renty socjalnej lub do renty socjalnej z dodatkiem dopełniającym ustanowiono opiekę prawną, świadczenie to wypłaca się osobie sprawującej tę opiekę.
+
+2. Jeżeli do renty socjalnej lub do renty socjalnej z dodatkiem dopełniającym uprawniona jest osoba, która wymaga opieki innej osoby oraz nad którą nie została ustanowiona opieka prawna, w przypadku gdy osoba uprawniona do renty socjalnej lub do renty socjalnej z dodatkiem dopełniającym nie może odebrać jej samodzielnie, świadczenia są wypłacane osobie sprawującej nad nią opiekę faktyczną, na podstawie oświadczenia o sprawowaniu tej opieki. Sprawowanie opieki faktycznej nad osobą uprawnioną do renty socjalnej potwierdza wójt (burmistrz, prezydent miasta) właściwy ze względu na miejsce zamieszkania lub pobytu osoby uprawnionej.
+
+3. Rentę socjalną lub rentę socjalną z dodatkiem dopełniającym wypłaca się osobom sprawującym opiekę prawną lub opiekę faktyczną nad osobami uprawnionymi do renty socjalnej lub do renty socjalnej z dodatkiem dopełniającym, po uprzednim pouczeniu o konieczności poinformowania organu rentowego o zajściu okoliczności powodujących ustanie lub zawieszenie prawa do świadczeń albo wstrzymanie wypłaty świadczeń w całości lub w części oraz o obowiązku zwrotu świadczenia przez te osoby w przypadku, gdy zostało pobrane nienależnie.
+
+**Art. 12c.**
+
+1. Rentę socjalną lub rentę socjalną z dodatkiem dopełniającym wypłaca się osobie uprawnionej:
+
+- **1)** w formie bezgotówkowej na wskazany przez nią jej rachunek płatniczy prowadzony w kraju lub wydany w kraju jej instrument płatniczy w rozumieniu ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. z 2025 r. poz. 611 i 1069) albo
+- **2)** za pośrednictwem podmiotów prowadzących działalność w zakresie doręczania świadczeń.
+
+2. Osobie odbywającej karę pozbawienia wolności, karę aresztu wojskowego albo karę aresztu za wykroczenie oraz osobie tymczasowo aresztowanej rentę socjalną lub rentę socjalną z dodatkiem dopełniającym wypłaca się:
+
+- **1)** w formie bezgotówkowej na wskazany przez nią jej rachunek płatniczy prowadzony w kraju lub wydany w kraju jej instrument płatniczy w rozumieniu ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych albo
+- **2)** na jej wniosek za pośrednictwem podmiotów prowadzących działalność w zakresie doręczania świadczeń pod adresem zakładu karnego lub aresztu.
+
+3. W przypadku gdy rentę socjalną lub rentę socjalną z dodatkiem dopełniającym wypłaca organ emerytalno-rentowy, wypłata następuje w tej samej formie, w której następuje wypłata renty rodzinnej lub świadczenia pieniężnego, o których mowa w art. 9 ust. 1, wypłacanych w zbiegu z rentą socjalną lub rentą socjalną z dodatkiem dopełniającym.
+
+4. Przepis ust. 1 stosuje się odpowiednio do osób sprawujących opiekę prawną nad osobami uprawnionymi do renty socjalnej lub renty socjalnej z dodatkiem dopełniającym.
+
+5. Przepisu ust. 1 nie stosuje się w przypadku, gdy osoba sprawująca opiekę prawną nad osobą uprawnioną do renty socjalnej lub renty socjalnej z dodatkiem dopełniającym odbywa karę pozbawienia wolności, karę aresztu wojskowego albo karę aresztu za wykroczenie lub jest tymczasowo aresztowana.
+
+**Art. 12d.**
+
+1. Osoba uprawniona do renty z tytułu niezdolności do pracy na podstawie art. 63 ust. 1 ustawy z dnia 14 grudnia 1982 r. o zaopatrzeniu emerytalnym pracowników i ich rodzin (Dz. U. poz. 267, z późn. zm. ) albo jej przedstawiciel ustawowy mogą złożyć do Zakładu wniosek o wydanie decyzji o zamianie tej renty na rentę socjalną.
+
+2. Do wniosku, o którym mowa w ust. 1, dołącza się orzeczenie uprawniające do renty z tytułu niezdolności do pracy na podstawie art. 63 ust. 1 ustawy z dnia 14 grudnia 1982 r. o zaopatrzeniu emerytalnym pracowników i ich rodzin.
+
+3. W przypadku, o którym mowa w ust. 1, całkowitą niezdolność do pracy osoby ubiegającej się o rentę socjalną ustala się na podstawie orzeczenia wymienionego w ust. 2.
+
+4. Z dniem przyznania na podstawie ust. 1 prawa do renty socjalnej ustaje prawo do renty z tytułu niezdolności do pracy na podstawie art. 63 ust. 1 ustawy z dnia 14 grudnia 1982 r. o zaopatrzeniu emerytalnym pracowników i ich rodzin.
 
 **Art. 13.**
 
-1. Zakład jest uprawniony do przetwarzania danych osobowych w zakresie niezbędnym do przyznawania i wypłacania renty socjalnej, zapewniając rzetelność tych danych.
+1. Zakład jest uprawniony do przetwarzania danych osobowych w zakresie niezbędnym do przyznawania i wypłacania renty socjalnej, dodatku dopełniającego oraz zasiłku pogrzebowego, zapewniając rzetelność tych danych.
 
-2. Dane, októrych mowa wust. 1, są objęte tajemnicą służbową.
+2. (uchylony)
 
-3. Przepisy ust. 1 i2 stosuje się odpowiednio do organu emerytalno-rentowego.
+3. Przepis ust. 1 stosuje się odpowiednio do organu emerytalno-rentowego.
 
 **Art. 14.**
 
-1. Renta socjalna oraz koszty jej obsługi są finansowane ze środków budżetu państwa.
+1. Renta socjalna, odsetki za opóźnienia w wypłacie renty socjalnej, dodatek dopełniający, zasiłek pogrzebowy oraz koszty ich obsługi wypłacane przez Zakład i Kasę Rolniczego Ubezpieczenia Społecznego są finansowane ze środków Funduszu Solidarnościowego, o którym mowa w przepisach ustawy z dnia 23 października 2018 r. o Funduszu Solidarnościowym (Dz. U. z 2024 r. poz. 1848).
 
-2. Zakład dokonuje zwrotu środków finansowych związanych zwypłatą rent socjalnych organom emerytalno-rentowym.
+2. Koszty obsługi, o których mowa w ust. 1, wynoszą łącznie 2,5 % kwoty przeznaczonej na wypłatę renty socjalnej i zasiłku pogrzebowego.
 
-3. Ustalenie sposobu itrybu zwrotu środków, októrych mowa wust. 2, oraz okresów rozliczeniowych odbywa się wdrodze porozumienia zawieranego między Zakładem aorganami emerytalno-rentowymi.
+2a. Koszty obsługi wypłaty dodatku dopełniającego wynoszą 0,5 % kwoty przeznaczonej na jego wypłatę.
 
-**Art. 15.** Wsprawach nieuregulowanych wustawie stosuje się odpowiednio:
+3. Renta socjalna, dodatek dopełniający, zasiłek pogrzebowy oraz koszty ich obsługi wypłacane przez organy emerytalno-rentowe, z wyłączeniem Kasy Rolniczego Ubezpieczenia Społecznego, są finansowane ze środków budżetu państwa.
 
-**Art. 18.** Wustawie zdnia 29 listopada 1990 opomocy społecznej (Dz. U. z1998 64, 414, zpóên. zm. ) wprowadza się następujące zmiany:
+**Art. 15.** W sprawach nieuregulowanych w ustawie stosuje się odpowiednio:
 
-**Art. 19.** Wustawie zdnia 26 lipca 1991 opodatku dochodowym od osób fizycznych (Dz. U. z 2000 14, 176, zpóên. zm. ) wprowadza się następujące zmiany:
+**Art. 16.** W postępowaniu w sprawach o rentę socjalną oraz dodatek dopełniający stosuje się przepisy Kodeksu postępowania administracyjnego, chyba że niniejsza ustawa stanowi inaczej. Art. 17–25. (pominięte)
 
-**Art. 20.** W ustawie z dnia 1 grudnia 1994 o zasiłkach rodzinnych, pielęgnacyjnych i wychowawczych (Dz. U. z 1998 102, 651, z póên. zm. od dochodu kwoty zwrotów dokonanych w roku podatkowym przy ustalaniu wysokości zaliczek oraz w rocznym obliczeniu dochodu, zamieszczając na tym rozliczeniu odpowiednie informacje.”. ) wprowadza się następujące zmiany:
+**Art. 26.** (pominięty)
 
-**Art. 21.** Wustawie zdnia 14 grudnia 1994 ozatrudnieniu i przeciwdziałaniu bezrobociu (Dz. U. z 2003 58, 514, 90, 844, 122, 1143 128, 1176) wart. 2 wust. 1 wpkt 2 wprowadza się następujące zmiany:
+**Art. 27.** (pominięty)
 
-**Art. 22.** W ustawie z dnia 13 paêdziernika 1998 o systemie ubezpieczeń społecznych (Dz. U. 137, 887, z póên. zm. ) wprowadza się następujące zmiany:
+**Art. 28.** (pominięty)
 
-**Art. 23.** Wustawie zdnia 20 listopada 1998 ozryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. 144, 930, zpóên. zm. ) wart. 11 wust. 6 pkt 2 otrzymuje brzmienie: Ń2) decyzji przyznającej rentę z tytułu całkowitej lub częściowej niezdolności do pracy, rentę szkoleniową albo rentę socjalną, albo”.
+**Art. 29.** (pominięty)
 
-**Art. 24.** Wustawie zdnia 17 grudnia 1998 oemeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. 162, 1118, zpóên. zm.
-
-**Art. 25.** W ustawie z dnia 23 stycznia 2003 o powszechnym ubezpieczeniu w Narodowym Funduszu Zdrowia (Dz. U. 45, 391, z póên. zm. ) wprowadza się następujące zmiany:
-
-**Art. 26.**
-
-1. Osobom uprawnionym do renty socjalnej przed dniem wejścia w życie niniejszej ustawy na podstawie ustawy wymienionej wart. 18, zwanej dalej Ńustawą opomocy społecznej”, renta socjalna przysługuje wwysokości ina zasadach określonych wniniejszej ustawie.
-
-2. Orzeczenia o stopniu niepełnosprawności, orzeczenia lekarza orzecznika oniezdolności do pracy oraz orzeczenia komisji lekarskiej do spraw inwalidztwa izatrudnienia ozaliczeniu do jednej zgrup inwalidów wydane przed dniem wejścia w życie niniejszej ustawy iuprawniające do renty socjalnej na podstawie ustawy o pomocy społecznej stanowią podstawę do przyznania renty socjalnej na podstawie niniejszej ustawy przez okres, na który zostały wydane, z uwzględnieniem art. 4 ust. 3.
-
-3. Orzeczenia o stopniu niepełnosprawności oraz orzeczenia komisji lekarskiej do spraw inwalidztwa izatrudnienia ozaliczeniu do jednej zgrup inwalidów wydane przed dniem wejścia w życie niniejszej ustawy uprawniające do renty socjalnej na podstawie ustawy o pomocy społecznej są traktowane na równi z orzeczeniami lekarza orzecznika.
-
-4. Ośrodki pomocy społecznej przekażą do dnia 31 sierpnia 2003 jednostkom organizacyjnym Zakładu dokumentację umożliwiającą przyznanie i wypłatę renty socjalnej od dnia wejścia wżycie niniejszej ustawy, ado dnia 5 paêdziernika 2003 dodatkowo przekazują listę osób, którym nie wypłacono renty socjalnej za wrzesień 2003 r., atakże dokumentację osób, którym przyznały rentę socjalną we wrześniu 2003
-
-- **2)** wnioski orentę socjalną;
-- **3)** uwierzytelnione przez ośrodek pomocy społecznej kopie orzeczeń, o których mowa w ust. 2, oraz kopie zaświadczeń szkoły, szkoły wyższej lub jednostki prowadzącej studia doktoranckie ouczęszczaniu do jednej z tych szkół albo uczestniczeniu w studiach doktoranckich lub odbywaniu aspirantury naukowej, które stanowiły podstawę przyznania renty socjalnej.
-
-**Art. 27.**
-
-1. Do spraw o przyznanie renty socjalnej wszczętych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe. W razie ustalenia po dniu wejścia w życie niniejszej ustawy prawa do renty socjalnej na podstawie dotychczasowych przepisów ośrodki pomocy społecznej po dokonaniu wypłaty renty socjalnej za okres do dnia 30 września 2003 niezwłocznie przekażą jednostkom organizacyjnym Zakładu dokumentację, o której mowa wart. 26 ust. 5 pkt 2 i3.
-
-2. W przypadkach określonych w ust. 1 jednostka organizacyjna Zakładu ustala prawo do renty socjalnej od dnia 1 paêdziernika 2003 r., jeżeli osoba spełnia warunki do przyznania renty socjalnej na podstawie niniejszej ustawy.
-
-**Art. 28.**
-
-1. Upoważnia się ministra właściwego do spraw finansów publicznych do dokonania, na wniosek ministra właściwego do spraw zabezpieczenia społecznego, przeniesienia planowanych wydatków przeznaczonych na finansowanie rent socjalnych oraz zasiłków pielęgnacyjnych określonych w ustawie budżetowej na rok 2003 wobrębie jednego działu między częściami, rozdziałami iparagrafami.
-
-2. Do przeniesień wydatków, o których mowa w ust. 1, nie stosuje się ograniczeń określonych wart. 96 ust. 2 ustawy zdnia 26 listopada 1998 ofinansach publicznych (Dz. U. z 2003 15, 148, 45, 391,Nr 65, 594 i 96, 874).
-
-**Art. 29.** Do czasu wydania przepisu wykonawczego przewidzianego w art. 43 ust. 6a ustawy, o której mowa w art. 18 niniejszej ustawy, zachowuje moc rozporządzenie wydane na podstawie dotychczasowego upoważnienia.
-
-**Art. 30.** Ustawa wchodzi w życie z dniem 1 paêdziernika 2003 r., zwyjątkiem:
+**Art. 30.** Ustawa wchodzi w życie z dniem 1 października 2003 r., z wyjątkiem:
 

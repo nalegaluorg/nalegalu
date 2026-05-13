@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 5 listopada 2019 r.
+# o zmianie ustawy – Kodeks karny oraz ustawy – Kodeks postępowania cywilnego
+
+*USTAWA z dnia 16 października 2019 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +25,6 @@ domain: null
 | Data wydania | 2019-11-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002128) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2128/text.pdf) |
-
-Poz. 2128
-USTAWA z dnia 16 października 2019 r.
-o zmianie ustawy – Kodeks karny oraz ustawy – Kodeks postępowania cywilnego
 
 **Art. 1.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2019 r. poz. 1950) wprowadza się następujące zmiany:
 

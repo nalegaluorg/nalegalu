@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 22 grudnia 2023 r.
+# o szczególnych rozwiązaniach służących zachowaniu ważności niektórych orzeczeń o niepełnosprawności oraz orzeczeń o stopniu niepełnosprawności
+
+*USTAWA z dnia 19 grudnia 2023 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +25,6 @@ domain: null
 | Data wydania | 2023-12-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002768) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2768/text.pdf) |
-
-Poz. 2768
-USTAWA z dnia 19 grudnia 2023 r.
-o szczególnych rozwiązaniach służących zachowaniu ważności niektórych orzeczeń o niepełnosprawności oraz orzeczeń o stopniu niepełnosprawności
 
 **Art. 1.** Orzeczenie o niepełnosprawności albo orzeczenie o stopniu niepełnosprawności wydane na czas określony na podstawie ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2023 r. poz. 100, 173, 240, 852, 1234 i 1429), które zachowało ważność na podstawie art. 23 ustawy z dnia 9 marca 2023 r. o zmianie ustawy o ochronie konkurencji i konsumentów oraz niektórych innych ustaw (Dz. U. poz. 852 i 1429) w brzmieniu dotychczasowym, albo którego okres ważności upłynął po dniu 5 sierpnia 2023 r. i przed dniem 30 września 2024 r., zachowuje ważność do dnia 30 września 2024 r., jednak nie dłużej niż do dnia, w którym nowe orzeczenie o niepełnosprawności albo nowe orzeczenie o stopniu niepełnosprawności, stanie się ostateczne.
 

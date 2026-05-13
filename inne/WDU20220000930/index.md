@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 kwietnia 2022 r.
+# o zmianie ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa
+
+*USTAWA z dnia 27 kwietnia 2022 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +25,6 @@ domain: null
 | Data wydania | 2022-04-29 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000930) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/930/text.pdf) |
-
-Poz. 930
-USTAWA z dnia 27 kwietnia 2022 r.
-o zmianie ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa
 
 **Art. 1.** W ustawie z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (Dz. U. poz. 583, 682, 683, 684 i 830) wprowadza się następujące zmiany:
 

@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 30 października 2017 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 30 października 2017 Poz. 2018
 
 | Pole | Wartość |
 |---|---|
@@ -24,13 +24,11 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002018) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2018/text.pdf) |
 
-Poz. 2018
-USTAWA z dnia 29 września 2017 r.
-o zmianie ustawy o przebudowie i modernizacji technicznej oraz finansowaniu Sił Zbrojnych Rzeczypospolitej Polskiej oraz ustawy – Prawo zamówień publicznych
+USTAWA dnia 29 września 2017 o zmianie ustawy o przebudowie i modernizacji technicznej oraz finansowaniu Sił Zbrojnych Rzeczypospolitej Polskiej oraz ustawy – Prawo zamówień publicznych
 
-**Art. 1.** W ustawie z dnia 25 maja 2001 r. o przebudowie i modernizacji technicznej oraz finansowaniu Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z 2015 r. poz. 1716 oraz z 2016 r. poz. 2260) wprowadza się następujące zmiany: art. uchyla się 10;
+**Art. 1.** W ustawie dnia 25 maja 2001 o przebudowie i modernizacji technicznej oraz finansowaniu Sił Zbrojnych Rzeczypospolitej Polskiej 2015 1716 oraz 2016 2260) wprowadza się następujące zmiany: art. uchyla się 10;
 
-**Art. 2.** W ustawie z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2017 r. poz. 1579) art. 131w: otrzymuje brzmienie: „1) wysokość jednorazowej zaliczki nie przekracza 33% wartości wynagrodzenia wykonawcy;”;
+**Art. 2.** W ustawie dnia 29 stycznia 2004 – Prawo zamówień publicznych 2017 1579) art. 131w: otrzymuje brzmienie: „1) wysokość jednorazowej zaliczki nie przekracza 33% wartości wynagrodzenia wykonawcy;”;
 
 **Art. 3.**
 

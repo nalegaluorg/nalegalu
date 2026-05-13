@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 28 lutego 2025 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy konsultantach ochronie zdrowia
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 21 lutego 2025 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2025-03-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000254) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/254/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 21 lutego 2025 r.
-sprawie ogłoszenia jednolitego tekstu ustawy konsultantach ochronie zdrowia
 1. Na podstawie 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 6 listopada 2008 r. konsultantach ochronie zdrowia (Dz. U. z 2024 r. poz. 69), z uwzględnieniem zmian wprowadzonych ustawą z dnia 27 listopada 2024 r. zmianie ustawy Centrum Medycznym Kształcenia Podyplomowego oraz niektórych innych ustaw (Dz. U. poz. 1897) oraz zmian wynikających z przepisów ogłoszonych przed dniem 19 lutego 2025 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje 23 ust. 1 i 2 oraz 41 ustawy z dnia 27 listopada 2024 r. zmianie ustawy Centrum Medycznym Kształcenia Podyplomowego oraz niektórych innych ustaw (Dz. U. poz. 1897), które stanowią:
 
@@ -121,7 +121,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy konsultantach ochronie zdrowia
 1. Kandydat na konsultanta albo konsultant składa organowi powołującemu oświadczenie zawierające informacje, czy:
 
 - **1)** jest członkiem organów spółek handlowych, spółdzielni, stowarzyszeń, fundacji lub przedstawicielem albo pełnomocnikiem przedsiębiorców:
-    - **a)** wykonujących działalność leczniczą, a jeżeli tak, to jakich, czynnymi i wykorzystywanymi jako materiały wyjściowe przeznaczone do wytwarzania produktów leczniczych, środkiem spożywczym specjalnego przeznaczenia żywieniowego, wyrobem medycznym, wyposażeniem wyrobów medycznych, systemami i zestawami zabiegowymi, rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm. ), lub wyrobem medycznym do diagnostyki in vitro i wyposażeniem wyrobów medycznych do diagnostyki in vitro, rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE (Dz. Urz. UE L 117 z 05.05.2017, str. 176, z późn. zm. ), zwanymi dalej „wyrobami medycznymi”, a jeżeli tak, to jakich,
+    - **a)** wykonujących działalność leczniczą, a jeżeli tak, to jakich, środkiem spożywczym specjalnego przeznaczenia żywieniowego, wyrobem medycznym, wyposażeniem wyrobów medycznych, systemami i zestawami zabiegowymi, rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm. ), lub wyrobem medycznym do diagnostyki in vitro i wyposażeniem wyrobów medycznych do diagnostyki in vitro, rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE (Dz. Urz. UE L 117 z 05.05.2017, str. 176, z późn. zm. ), zwanymi dalej „wyrobami medycznymi”, a jeżeli tak, to jakich,
     - **c)** wykonujących działalność gospodarczą zakresie doradztwa związanego z refundacją leków, środków spożywczych specjalnego przeznaczenia żywieniowego, wyrobów medycznych, a jeżeli tak, to jakich,
     - **d)** wykonujących działalność ubezpieczeniową, a jeżeli tak, to jakich,
     - **e)** którzy złożyli wniosek wydanie pozwolenia na dopuszczenie do obrotu produktu leczniczego albo uzyskali to pozwolenie lub złożyli wniosek wydanie pozwolenia na import równoległy produktu leczniczego albo uzyskali to pozwolenie, a jeżeli tak, to jakich,
@@ -204,7 +204,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy konsultantach ochronie zdrowia
     - **a)** do dnia 30 listopada każdego roku,
     - **b)** dwa razy do roku na 45 dni przed terminem rozpoczęcia postępowania kwalifikacyjnego do specjalizacji lekarskich, którym przepisach zawodach lekarza i lekarza dentysty, przypadku opinii potrzebach kadrowych zawodach lekarza i lekarza dentysty;
 
-- **2)** konsultanci wojewódzcy sporządzają terminie określonym przez konsultanta krajowego. medycyny wykonanie określonego zadania mieszczącego się zakresie zadań konsultanta wojewódzkiego, określając termin jego wykonania.
+- **2)** konsultanci wojewódzcy sporządzają terminie określonym przez konsultanta krajowego. min jego wykonania.
 
 1a. Informację wydaniu polecenia, którym ust. 1, konsultant krajowy przekazuje ministrowi właściwemu do spraw zdrowia oraz właściwemu wojewodzie.
 

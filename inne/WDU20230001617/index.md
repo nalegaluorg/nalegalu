@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 16 sierpnia 2023 r.
+# o zmianie ustawy o sporcie oraz niektórych innych ustaw
+
+*USTAWA z dnia 13 lipca 2023 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +25,6 @@ domain: null
 | Data wydania | 2023-08-16 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001617) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1617/text.pdf) |
-
-Poz. 1617
-USTAWA z dnia 13 lipca 2023 r.
-o zmianie ustawy o sporcie oraz niektórych innych ustaw
 
 **Art. 1.** W ustawie z dnia 25 czerwca 2010 r. o sporcie (Dz. U. z 2022 r. poz. 1599 i 2185) wprowadza się następujące zmiany:
 

@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 25 lutego 2025 r.
+# o Inspekcji Handlowej
+
+*USTAWA z dnia 15 grudnia 2000 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,20 +25,6 @@ domain: null
 | Data wydania | 2025-02-25 |
 | Ostatnia zmiana | 2025-12-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000229) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/229/text.pdf) |
-
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 14 lutego 2025 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o Inspekcji Handlowej
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 15 grudnia 2000 r. o Inspekcji Handlowej (Dz. U. z 2024 r. poz. 312), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 12 lipca 2024 r. Przepisy wprowadzające ustawę Prawo komunikacji elektronicznej (Dz. U.
-poz. 1222) oraz zmian wynikających z przepisów ogłoszonych przed dniem 7 lutego 2025 r.
-2. Podany w załączniku do niniejszego obwieszczenia jednolity tekst ustawy nie obejmuje art. 124 ustawy z dnia 12 lipca 2024 r. Przepisy wprowadzające ustawę Prawo komunikacji elektronicznej (Dz. U. poz. 1222), który stanowi: „Art. 124. Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem:
-1) art. 1, art. 39 pkt 11 lit. b w zakresie art. 16a ust. 4 pkt 2c i 2d, art. 46 pkt 5, art. 52 pkt 1, art. 63, art. 68 ust. 2, art. 80 ust. 3 i 5–8 oraz art. 120, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
-2) art. 44 pkt 9 w zakresie art. 20 ust. 1 pkt 2 lit. b, który wchodzi w życie z dniem 1 grudnia 2024 r.;
-3) art. 39 pkt 24 i 27, które wchodzą w życie z dniem 1 stycznia 2025 r.;
-4) art. 39 pkt 31, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia;
-5) art. 49 i art. 106, które wchodzą w życie z dniem 18 października 2024 r.”.
-Marszałek Sejmu: S. Hołownia
-USTAWA z dnia 15 grudnia 2000 r.
-o Inspekcji Handlowej
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -56,15 +44,15 @@ o Inspekcji Handlowej
 
 - **1)** kontrola legalności i rzetelności działania przedsiębiorców prowadzących działalność gospodarczą w rozumieniu przepisów odrębnych w zakresie produkcji, handlu i usług;
 - **1a)** kontrola spełniania przez wyroby przeznaczone dla konsumentów zasadniczych, szczegółowych lub innych wymagań w rozumieniu ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności, z wyłączeniem wyrobów podlegających kontroli innych właściwych organów; 1aa) kontrola spełniania przez wyroby przeznaczone dla konsumentów wymagań, kontrola w zakresie stwarzania przez wyroby zagrożenia oraz kontrola w zakresie niezgodności formalnych w rozumieniu ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. z 2022 r. poz. 1854 oraz z 2024 r. poz. 1089), z wyłączeniem wyrobów podlegających kontroli innych właściwych organów;
-- **1b)** kontrola produktów w rozumieniu ustawy z dnia 12 grudnia 2003 r. o ogólnym bezpieczeństwie produktów (Dz. U. z 2021 r. poz. 222) w zakresie spełniania ogólnych wymagań dotyczących bezpieczeństwa;
+- **1b)** przeprowadzanie kontroli produktów w rozumieniu art. 3 pkt 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2023/988 z dnia 10 maja 2023 r. w sprawie ogólnego bezpieczeństwa produktów, zmieniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1025/2012 i dyrektywę Parlamentu Europejskiego i Rady (UE) 2020/1828 oraz uchylającego dyrektywę 2001/95/WE Parlamentu Europejskiego i Rady i dyrektywę Rady 87/357/EWG (Dz. Urz. UE L 135 z 23.05.2023, str. 1, z późn. zm. ) na podstawie przepisów ustawy z dnia 7 listopada 2025 r. o nadzorze nad ogólnym bezpieczeństwem produktów (Dz. U. poz. 1826);
 - **1c)** kontrola substancji chemicznych, ich mieszanin, wyrobów i detergentów przeznaczonych dla konsumentów, w zakresie określonym w przepisach o substancjach chemicznych i ich mieszaninach;
 - **1d)** kontrola produktów związanych z energią wprowadzonych do obrotu lub oddawanych do użytku, o których mowa w aktach delegowanych określonych w wykazie ogłaszanym na podstawie art. 2 ust. 2 ustawy z dnia 14 września 2012 r. o etykietowaniu energetycznym produktów związanych z energią (Dz. U. z 2020 r. poz. 378), z wyłączeniem produktów, o których mowa w rozporządzeniu delegowanym Komisji (UE) 2019/2013 z dnia 11 marca 2019 r. uzupełniającym rozporządzenie Parlamentu Europejskiego i Rady (UE) 2017/1369 w odniesieniu do etykietowania energetycznego wyświetlaczy elektronicznych i uchylającym rozporządzenie delegowane Komisji (UE) nr 1062/2010 (Dz. Urz. UE L 315 z 05.12.2019, str. 1, Dz. Urz. UE L 50 z 24.02.2020, str. 18, Dz. Urz. UE L 48 z 11.02.2021, str. 7 oraz Dz. Urz. UE L 68 z 26.02.2021, str. 62);
-- **1e)** kontrola pojazdów, przedmiotów wyposażenia lub części przeznaczonych dla konsumentów w zakresie uzyskania przez producenta potwierdzenia spełnienia wymagań technicznych, o których mowa w art. 70c ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym (Dz. U. z 2024 r. poz. 1251);
+- **1e)** kontrola pojazdów, przedmiotów wyposażenia lub części przeznaczonych dla konsumentów w zakresie uzyskania przez producenta potwierdzenia spełnienia wymagań technicznych, o których mowa w art. 70c ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2024 r. poz. 1251);
 - **2)** kontrola produktów znajdujących się w obrocie handlowym lub przeznaczonych do wprowadzenia do takiego obrotu, z zastrzeżeniem ust. 2, w tym w zakresie oznakowania i zafałszowań, oraz kontrola usług;
 - **2a)** kontrola przestrzegania przez dystrybutorów przepisów art. 37 i art. 39 ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym (Dz. U. z 2024 r. poz. 573);
 - **2b)** kontrola przestrzegania przez sprzedawców detalicznych i sprzedawców hurtowych przepisów art. 8, art. 9, art. 10 ust. 1, art. 11, art. 31 ust. 3, art. 48–50, art. 53 oraz art. 54 ust. 1 i 2 ustawy z dnia 24 kwietnia 2009 r. o bateriach i akumulatorach (Dz. U. z 2024 r. poz. 1004 i 1635);
 - **2c)** kontrola przestrzegania przez przedsiębiorców, których działalność polega na sprzedaży odbiorników cyfrowych, przepisów art. 6 ust. 1, 2 i 5 ustawy z dnia 30 czerwca 2011 r. o wdrożeniu naziemnej telewizji cyfrowej (Dz. U. z 2024 r. poz. 1772);
-- **2d)** przeprowadzanie kontroli, o której mowa w art. 168a ust. 1 pkt 2 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (Dz. U. z 2024 r. poz. 54, z późn. zm. ); 2da) przeprowadzanie kontroli, o której mowa w art. 168b ust. 1 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska;
+- **2d)** przeprowadzanie kontroli, o której mowa w art. 168a ust. 1 pkt 2 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2024 r. poz. 54, z późn. zm. ); 2da) przeprowadzanie kontroli, o której mowa w art. 168b ust. 1 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska;
 - **2e)** kontrola znakowania wprowadzonych do obrotu produktów GMO w rozumieniu ustawy z dnia 22 czerwca 2001 r. o mikroorganizmach i organizmach genetycznie zmodyfikowanych (Dz. U. z 2022 r. poz. 546), przeznaczonych dla konsumentów, z uwzględnieniem ust. 2, w tym pobieranie próbek i badanie próbek tych produktów w celu identyfikacji w tych produktach organizmów genetycznie zmodyfikowanych;
 - **2f)** (uchylony) 2g) kontrola przestrzegania przez sprzedawców detalicznych i sprzedawców hurtowych przepisów art. 4 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 98/2013 z dnia 15 stycznia 2013 r. w sprawie wprowadzania do obrotu i używania prekursorów materiałów wybuchowych (Dz. Urz. UE L 39 z 09.02.2013, str. 1);
 - **2h)** kontrola przestrzegania przez przedsiębiorców prowadzących jednostki handlu detalicznego lub hurtowego przepisów art. 40a, art. 41 i art. 42 ustawy z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi (Dz. U. z 2024 r. poz. 927 i 1911); 2ha) kontrola przestrzegania przepisów art. 3b ust. 1–3 ustawy z dnia 11 maja 2001 r. o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej (Dz. U. z 2024 r. poz. 433) przez przedsiębiorców prowadzących jednostki handlu detalicznego, jednostki handlu hurtowego, jednostki gastronomiczne lub pakujących i oferujących napoje lub żywność za pomocą urządzenia vendingowego;
@@ -187,13 +175,13 @@ o Inspekcji Handlowej
 - **3)** dane identyfikujące produkt poddany kontroli,
 - **4)** miejsce (adres) przeprowadzonej kontroli,
 - **5)** ustalenia kontroli,
-- **6)** wykorzystanie ustaleń kontroli z pominięciem informacji stanowiących tajemnicę przedsiębiorstwa i innych informacji podlegających ochronie na podstawie odrębnych przepisów.
+- **6)** wykorzystanie ustaleń kontroli – z pominięciem informacji stanowiących tajemnicę przedsiębiorstwa i innych informacji podlegających ochronie na podstawie odrębnych przepisów.
 
 2. Wojewódzki inspektor, w zakresie zrealizowanych przez siebie kontroli, może podawać do publicznej wiadomości informacje, o których mowa w ust. 1, z pominięciem informacji stanowiących tajemnicę przedsiębiorstwa i innych informacji podlegających ochronie na podstawie odrębnych przepisów.
 
 3. W przypadku gdy podmiotem, o którym mowa w ust. 1 pkt 1 i 2, jest osoba fizyczna wykonująca działalność gospodarczą, dane identyfikujące ten podmiot, które są podawane do publicznej wiadomości, obejmują firmę i miejsce wykonywania działalności gospodarczej.
 
-4. Prezes Urzędu oraz wojewódzcy inspektorzy publikują odpowiednio na stronie internetowej Urzędu Ochrony Konkurencji i Konsumentów albo na stronach internetowych wojewódzkich inspektoratów w całości treść decyzji wydawanych na podstawie przepisów ustawy oraz przepisów odrębnych, z zastrzeżeniem, że publikacja uzasadnienia nie obejmuje informacji stanowiących tajemnicę przedsiębiorstwa i innych informacji podlegających ochronie na podstawie odrębnych przepisów. Publikacja jest opatrzona informacją, czy decyzja jest prawomocna.
+4. Prezes Urzędu oraz wojewódzcy inspektorzy publikują – odpowiednio na stronie internetowej Urzędu Ochrony Konkurencji i Konsumentów albo na stronach internetowych wojewódzkich inspektoratów – w całości treść decyzji wydawanych na podstawie przepisów ustawy oraz przepisów odrębnych, z zastrzeżeniem, że publikacja uzasadnienia nie obejmuje informacji stanowiących tajemnicę przedsiębiorstwa i innych informacji podlegających ochronie na podstawie odrębnych przepisów. Publikacja jest opatrzona informacją, czy decyzja jest prawomocna.
 
 **Art. 12.**
 
@@ -214,7 +202,7 @@ o Inspekcji Handlowej
 - **1)** oznaczenie organu kontroli;
 - **2)** wskazanie podstawy prawnej;
 - **3)** datę i miejsce wystawienia;
-- **4)** imię, nazwisko i stanowisko kontrolującego oraz numer jego legitymacji służbowej, a w przypadku upoważnienia do udziału w kontroli osób, o których mowa w ust. 3 imiona i nazwiska tych osób oraz numer dokumentu potwierdzającego tożsamość;
+- **4)** imię, nazwisko i stanowisko kontrolującego oraz numer jego legitymacji służbowej, a w przypadku upoważnienia do udziału w kontroli osób, o których mowa w ust. 3 – imiona i nazwiska tych osób oraz numer dokumentu potwierdzającego tożsamość;
 - **5)** oznaczenie kontrolowanego;
 - **6)** określenie przedmiotu i zakresu kontroli;
 - **7)** określenie daty rozpoczęcia kontroli i przewidywanej daty jej zakończenia;
@@ -231,7 +219,7 @@ o Inspekcji Handlowej
 
 2. Kontrola lub poszczególne czynności kontrolne, za zgodą kontrolowanego, mogą być przeprowadzane również w siedzibie organu Inspekcji, jeżeli może to usprawnić prowadzenie kontroli.
 
-3. W przypadku nieobecności osób, o których mowa w ust. 1, czynności kontrolne mogą być wykonywane w obecności innego pracownika kontrolowanego, który może być uznany za osobę, o której mowa w art. 97 ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny, lub w obecności przywołanego świadka, którym powinien być funkcjonariusz publiczny, niebędący jednak pracownikiem organu przeprowadzającego kontrolę.
+3. W przypadku nieobecności osób, o których mowa w ust. 1, czynności kontrolne mogą być wykonywane w obecności innego pracownika kontrolowanego, który może być uznany za osobę, o której mowa w art. 97 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny, lub w obecności przywołanego świadka, którym powinien być funkcjonariusz publiczny, niebędący jednak pracownikiem organu przeprowadzającego kontrolę.
 
 4. Przeprowadzający kontrole mają obowiązek przeprowadzać je w sposób sprawny i możliwie niezakłócający funkcjonowania kontrolowanego.
 
@@ -277,7 +265,7 @@ o Inspekcji Handlowej
 - **1)** zarządzić w toku kontroli ograniczenie wprowadzania do obrotu, wstrzymanie wprowadzania do obrotu lub wycofanie z obrotu produktów albo wstrzymanie świadczenia usług, albo niezwłoczne usunięcie stwierdzonych nieprawidłowości, jeżeli jest to konieczne ze względu na bezpieczeństwo lub interes konsumentów albo interes gospodarczy państwa.
 - **2)** (uchylony)
 
-2. W przypadku stwierdzenia naruszenia art. 21 ust. 1 pkt 1 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców, wojewódzki inspektor może zarządzić w toku kontroli, w drodze decyzji, niezwłoczne usunięcie stwierdzonych nieprawidłowości.
+2. W przypadku stwierdzenia naruszenia art. 21 ust. 1 pkt 1 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, wojewódzki inspektor może zarządzić w toku kontroli, w drodze decyzji, niezwłoczne usunięcie stwierdzonych nieprawidłowości.
 
 3. Wojewódzki inspektor może upoważnić inspektora do wydania w jego imieniu w toku kontroli decyzji, o której mowa w ust. 1 i 2.
 
@@ -291,7 +279,7 @@ o Inspekcji Handlowej
 
 1. W przypadku stwierdzenia w toku kontroli wprowadzenia do obrotu substancji, jej mieszaniny lub wyrobu wbrew ograniczeniom określonym w przepisach wydanych na podstawie art. 26 ustawy z dnia 25 lutego 2011 r. o substancjach chemicznych i ich mieszaninach (Dz. U. z 2022 r. poz. 1816) lub przepisach załącznika XVII do rozporządzenia (WE) nr 1907/2006 Parlamentu Europejskiego i Rady z dnia 18 grudnia 2006 r. w sprawie rejestracji, oceny, udzielania zezwoleń i stosowanych ograniczeń w zakresie chemikaliów (REACH) i utworzenia Europejskiej Agencji Chemikaliów, zmieniającego dyrektywę 1999/45/WE oraz uchylającego rozporządzenie Rady (EWG) nr 793/93 i rozporządzenie Komisji (WE) nr 1488/94, jak również dyrektywę Rady 76/769/EWG i dyrektywy Komisji 91/155/EWG, 93/67/EWG, 93/105/WE i 2000/21/WE (Dz. Urz. UE L 396 z 30.12.2006, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem nr 1907/2006”, wojewódzki inspektor zakazuje kontrolowanemu, w drodze decyzji, dalszego przekazywania tej substancji, jej mieszaniny lub wyrobu.
 
-2. Wobec wyrobów niespełniających, z uwagi na zagrożenia stwarzane przez substancje chemiczne lub ich mieszaniny zawarte w tych wyrobach, ogólnych wymagań bezpieczeństwa, określonych na podstawie ustawy z dnia 12 grudnia 2003 r. o ogólnym bezpieczeństwie produktów, stosuje się przepisy o ogólnym bezpieczeństwie produktów.
+2. Wobec wyrobów niespełniających, z uwagi na zagrożenia stwarzane przez substancje chemiczne lub ich mieszaniny zawarte w tych wyrobach, ogólnych wymagań bezpieczeństwa określonych w rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2023/988 z dnia 10 maja 2023 r. w sprawie ogólnego bezpieczeństwa produktów, zmieniającym rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1025/2012 i dyrektywę Parlamentu Europejskiego i Rady (UE) 2020/1828 oraz uchylającym dyrektywę 2001/95/WE Parlamentu Europejskiego i Rady i dyrektywę Rady 87/357/EWG (Dz. Urz. UE L 135 z 23.05.2023, str. 1, z późn. zm. ), stosuje się przepisy o nadzorze nad ogólnym bezpieczeństwem produktów.
 
 3. Wobec wyrobów niespełniających zasadniczych wymagań, z uwagi na zagrożenia stwarzane przez substancje chemiczne lub ich mieszaniny zawarte w tych wyrobach, stosuje się przepisy o systemie oceny zgodności.
 
@@ -351,9 +339,9 @@ o Inspekcji Handlowej
 
 8. Wojewódzki inspektor jest obowiązany poinformować Prezesa Urzędu, w wyznaczonym terminie, o sposobie wykonania zaleceń, o których mowa w ust. 7.
 
-**Art. 22b.** Do kontroli działalności gospodarczej przedsiębiorcy stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców.
+**Art. 22b.** Do kontroli działalności gospodarczej przedsiębiorcy stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
 
-#### Rozdział 4 (uchylony)
+#### Rozdział 4
 
 #### Rozdział 5 Zabezpieczenie dowodów
 
@@ -389,7 +377,7 @@ o Inspekcji Handlowej
 
 1. Próbki produktów pobiera się w celu ustalenia, czy produkt spełnia wymagania jakościowe i bezpieczeństwa określone w przepisach odrębnych lub dokumentach normalizacyjnych lub czy jego jakość odpowiada jakości deklarowanej przez przedsiębiorcę.
 
-2. Próbki produktów pobiera się w celu poddania badaniom, w ilościach i w sposób określony w przepisach odrębnych albo dokumentach normalizacyjnych, a w razie braku takiego określenia w ilościach niezbędnych do przeprowadzenia badań.
+2. Próbki produktów pobiera się w celu poddania badaniom, w ilościach i w sposób określony w przepisach odrębnych albo dokumentach normalizacyjnych, a w razie braku takiego określenia – w ilościach niezbędnych do przeprowadzenia badań.
 
 3. Pobranie próbki produktu stwierdza się poprzez sporządzenie protokołu.
 
@@ -498,7 +486,7 @@ o Inspekcji Handlowej
 - **3)** sposób wnoszenia wniosków o wszczęcie postępowania w sprawie pozasądowego rozwiązywania sporów konsumenckich,
 - **4)** sposób wymiany informacji między stronami postępowania w sprawie pozasądowego rozwiązywania sporów konsumenckich za pomocą środków komunikacji elektronicznej lub przesyłką pocztową,
 - **5)** treść upoważnienia do prowadzenia postępowania w sprawie pozasądowego rozwiązywania sporów konsumenckich, szczegółowe kwalifikacje pracowników Inspekcji, którym może być udzielone upoważnienie, oraz minimalny czas, na jaki jest udzielane upoważnienie,
-- **6)** termin na wyrażenie przez strony zgody na przedstawioną propozycję rozwiązania sporu lub zastosowanie się do niej mając na uwadze konieczność zapewnienia łatwego dostępu do postępowania, sprawnego rozwiązywania sporów oraz bezstronnego i niezależnego prowadzenia postępowania.
+- **6)** termin na wyrażenie przez strony zgody na przedstawioną propozycję rozwiązania sporu lub zastosowanie się do niej – mając na uwadze konieczność zapewnienia łatwego dostępu do postępowania, sprawnego rozwiązywania sporów oraz bezstronnego i niezależnego prowadzenia postępowania.
 
 12. Prezes Rady Ministrów może określić, w drodze rozporządzenia, wysokość progów finansowych wartości przedmiotu sporu, których przekroczenie uprawnia do odmowy rozpatrzenia sporu, uwzględniając określenie ich wysokości na poziomie, który nie utrudnia znacząco konsumentowi dostępu do postępowania.
 
@@ -510,7 +498,7 @@ o Inspekcji Handlowej
 
 2. Umowy, o których mowa w ust. 1, określają w szczególności zasady pokrywania kosztów wynagrodzenia arbitrów oraz zwrotu kosztów poniesionych w związku z wykonywaniem czynności arbitra.
 
-3. Sądy rozpatrują spory o prawa majątkowe wynikłe z umów zawartych między konsumentami a przedsiębiorcami zgodnie z przepisami wykonawczymi wydanymi na podstawie ust. 7 i 8.
+3. Sądy rozpatrują spory o prawa majątkowe wynikłe z umów zawartych między konsumentami a przedsiębiorcami – zgodnie z przepisami wykonawczymi wydanymi na podstawie ust. 7 i 8.
 
 4. Sąd może odmówić rozpatrzenia sporu w przypadku, gdy:
 
@@ -523,13 +511,13 @@ o Inspekcji Handlowej
 
 5. Z postępowania przed sądem sporządza się protokół.
 
-6. W postępowaniu przed sądami w zakresie nieuregulowanym ustawą stosuje się przepisy ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568 i 1841).
+6. W postępowaniu przed sądami w zakresie nieuregulowanym ustawą stosuje się przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568 i 1841).
 
 7. Minister Sprawiedliwości po zasięgnięciu opinii Prezesa Urzędu Ochrony Konkurencji i Konsumentów określi, w drodze rozporządzenia, regulamin organizacji i działania sądów, zawierający w szczególności:
 
 - **1)** wewnętrzną organizację sądów,
 - **2)** tryb funkcjonowania sądów, w tym określenie właściwości miejscowej,
-- **3)** czynności jurysdykcyjne i administracyjne sądów i ich organów mając na uwadze konieczność zapewnienia łatwego dostępu do postępowania, sprawnego rozwiązywania sporów oraz bezstronnego i niezależnego prowadzenia postępowania.
+- **3)** czynności jurysdykcyjne i administracyjne sądów i ich organów – mając na uwadze konieczność zapewnienia łatwego dostępu do postępowania, sprawnego rozwiązywania sporów oraz bezstronnego i niezależnego prowadzenia postępowania.
 
 8. Minister Sprawiedliwości po zasięgnięciu opinii Prezesa Urzędu Ochrony Konkurencji i Konsumentów może określić, w drodze rozporządzenia, wysokość progów finansowych wartości przedmiotu sporu, których przekroczenie uprawnia sąd do odmowy rozpatrzenia sporu, uwzględniając określenie ich wysokości na poziomie, który nie utrudnia znacząco konsumentowi dostępu do postępowania.
 

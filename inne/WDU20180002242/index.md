@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 30 listopada 2018 r.
+# o zmianie niektórych ustaw w celu ułatwienia sprzedaży żywności przez rolników do sklepów i restauracji
+
+*USTAWA z dnia 9 listopada 2018 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +25,6 @@ domain: null
 | Data wydania | 2018-11-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002242) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2242/text.pdf) |
-
-Poz. 2242
-USTAWA z dnia 9 listopada 2018 r.
-o zmianie niektórych ustaw w celu ułatwienia sprzedaży żywności przez rolników do sklepów i restauracji
 
 **Art. 1.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2018 r. poz. 1509, z późn. zm. ) wprowadza się następujące zmiany:
 

@@ -10,9 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz ustawy o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi
-
-*USTAWA dnia 3 grudnia 2010 r.*
+# zmianie ustawy świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz ustawy zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi
 
 | Pole | Wartość |
 |---|---|
@@ -26,11 +24,11 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20102571723) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/1723/text.pdf) |
 
-**Art. 1.** W ustawie dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. 2008 r. 164, poz. 1027, późn. zm. ) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie dnia 27 sierpnia 2004 świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. 2008 164, 1027, późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 3.** Akt wykonawczy wydany podstawie
+**Art. 2.** W ustawie dnia 5 grudnia 2008 zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. 234, 1570, 2009 76, 641 oraz 107, 679) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie dnia 5 grudnia 2008 r. o zapo- 13a ustawy, o której mowa 1, zachowuje bieganiu oraz zwalczaniu zakażeń i chorób zakaźnych moc do dnia wejścia życie aktu wykonawczego wyu ludzi (Dz. U. 234, poz. 1570, 2009 r. 76, danego podstawie 13a ustawy, o której mowa poz. 641 oraz 2010 r. 107, poz. 679) wprowadza 1, brzmieniu nadanym niniejszą ustawą. się następujące zmiany:
+**Art. 3.** Akt wykonawczy wydany na podstawie 13a ustawy, mowa zachowuje moc do dnia wejścia życie aktu wykonawczego wydanego na podstawie 13a ustawy, mowa brzmieniu nadanym niniejszą ustawą.
 
-**Art. 4.** Ustawa wchodzi życie po upływie 14 dni
+**Art. 4.**
 

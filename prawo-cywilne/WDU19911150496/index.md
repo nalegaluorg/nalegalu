@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 14 grudnia 1991 Nr 115 Poz.: 496
+# Kodeks postępowania cywilnego, Prawo lokalowe.
 
 | Pole | Wartość |
 |---|---|
@@ -24,17 +24,23 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19911150496) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1991/496/text.pdf) |
 
-USTAWA dnia 25 1991 o zmianie ustawy - Kodeks cywilny oraz ustaw - o wieczystych hipotece, Prawo Kodeks cywilnego, Prawo lokalowe.
+**Art. 1.** W kodeksie cywilnym art. 244 otrzymuje brzmienie: "Art. 244. § 1.Ograniczonymi prawami rzeczowymi są: użytkowanie, służebność, zastaw, własnościowe spółdzielcze prawo mieszkalnego, spółdzielcze prawo użytkowego, prawo domu jednorodzinnego spółdzielni mieszkaniowej hipoteka.
 
-**Art. 1.** W Kodeksie cywilnym art. 244 otrzymuje brzmienie: "Art. 244. § 1. Ograniczonymi prawami rzeczowymi zastaw, ciowe prawo lokalu miesz kalnego, prawo lokalu kowego, prawo domu jednorodzinnego mieszkaniowej oraz hipoteka.
+**Art. 2.** W ustawie dnia 6 lipca 1982 r. o księgach wieczystych hipotece (Dz. U. 19, 147 r. 22,
 
-**Art. 2.** W ustawie dnia 6 lipca 1982 o wieczystych hipotece (Dz. U. Nr 19, poz. 147 1991 Nr 22, poz. 92) wprowadza zmiany:
+**Art. 108.** Spłata wierzytelności hipotecznej obciążonej hipoteką może być dokonana wysokości tej hipoteki tylko rąk wierzyciela, któremu ona przysługuje, chociażby jego wierzytelność nie była jeszcze wymagalna; jeżeli hipoteka wierzytelności hipotecznej jest kaucyjna, suma odpowiadająca jej wysokości powinna być złożona depozytu sądowego.
 
-**Art. 3.** W ustawie dnia 16 1982 - Prawo (Dz. U. Nr 30, poz. 210, 1983 Nr 39, poz. 176, 1986 Nr 39, poz. 192, 1987 Nr 33, poz. 181, 1988 Nr 41, poz. 324, 1989 Nr 3, poz. 12 Nr 6, poz. 33, 1990 Nr 6, poz. 36 37 Nr 14, poz. 87 oraz 1991 Nr 83, poz. 373 Nr 111, poz. 480) wprowadza zmiany:
+**Art. 108.** Jeżeli wierzytelność zabezpieczona hipoteką wierzytelności hipotecznej obciążona wierzytelność hipoteczna są już wymagalne, wierzyciel, któremu przysługuje hipoteka wierzytelności hipotecznej, może żądać zapłaty wprost od dłużnika wierzytelności obciążonej; może również dochodzić zaspokojenia nieruchomości.
 
-**Art. 4.** W Kodeksie cywilnego wprowa dza zmiany:
+**Art. 108³.** Jeżeli właściciel nieruchomości dokonał zapłaty rąk wierzyciela, któremu przysługuje hipoteka wierzytelności hipotecznej, hipoteka nieruchomości wygasa aż wysokości sumy uiszczonej przez właściciela.
 
-**Art. 5.** W ustawie dnia 10 kwietnia 1974 - Prawo lokalowe (Dz. U. 1987 Nr 30, poz. 165, 1989 Nr 10, poz. 57, Nr 20, poz. 108, Nr 34, poz. 178 Nr 35, poz. 192 oraz 1990 Nr 4, poz. 19, Nr 32, poz. 190 Nr 34, poz. 198) wart. 65 ust. 5 dodaje zdanie drugie brzmieniu: "Pomieszczenie nie osobie, która utra prawo lokalu lub prawo domu jednorodzinnego miesz kaniowej na skutek egzekucji zabezpieczonej
+**Art. 108⁴.** Wierzytelność zabezpieczona hipoteką wierzytelności hipotecznej, może być przedmiotem dalszych hipotek.
 
-**Art. 6.** Ustawa wchodzi po trzech od dnia Prezydent Rzeczypospolitej Polskiej: L. 497 RADY MINISTRÓW dnia 2 grudnia 1991 sprawie utworzenia, zmiany granic ustalenia siedzib niektórych gmin województwach: warszawskim, bielskim. katowickim. kieleckim. lubelskim. opolskim. pilskim. piotrkowskim. skierniewickim. suwalskim. tarnobrzeskim. zamojskim zielonogórskim oraz nadania niektórym gminom statusu miasta. Na podstawie art. 4 ust. 1 3 ustawy dnia 8 marca 1990 o terytorialnym (Dz. U. Nr 16, poz. 95, Nr 32, poz. 191, Nr 34, poz. 199, Nr 43, poz. 253 Nr 89, poz. 518 oraz 1991 Nr 4, poz. 18 Nr 110, poz. 473) co § 1. W województwie warszawskim zmienia grani ce dzielnicy-gminy Praga- przez obszaru wsi Aleksandrów o powierzchni 971,41 ha gminy § 2. W województwie
+**Art. 108⁵.** W wypadkach nie objętych przepisami działu niniejszego stosuje hipoteki wierzytelności hipotecznej przepisy o zastawie wierzytelności.".
+
+**Art. 3.** W ustawie dnia 16 września 1982 r. - Prawo Spółdzielcze (Dz.U. 30, 210, 1983 r. 39, 176, 1986 r. 39, 192, 1987 r. 33, 181, 1988 r. 41, 324, 1989 r. 3, 12 6, notarialnego.";
+
+**Art. 4.** W Kodeksie postępowania cywilnego wprowadza następujące zmiany:
+
+**Art. 6.** Ustawa wchodzi życie po upływie trzech miesięcy od dnia ogłoszenia.
 

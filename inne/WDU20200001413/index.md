@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 19 sierpnia 2020 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy o nadzorze uzupełniającym nad instytucjami kredytowymi, zakładami ubezpieczeń, zakładami reasekuracji i firmami inwestycyjnymi wchodzącymi skład konglomeratu finansowego
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 16 lipca 2020 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001413) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1413/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 16 lipca 2020 r.
-sprawie ogłoszenia jednolitego tekstu ustawy o nadzorze uzupełniającym nad instytucjami kredytowymi, zakładami ubezpieczeń, zakładami reasekuracji i firmami inwestycyjnymi wchodzącymi skład konglomeratu finansowego
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 15 kwietnia 2005 r. o nadzorze uzupełniającym nad instytucjami kredytowymi, zakładami ubezpieczeń, zakładami reasekuracji i firmami inwestycyjnymi wchodzącymi skład konglomeratu finansowego (Dz. U.
 z 2019 r. poz. 2146), z uwzględnieniem zmian wprowadzonych ustawą z dnia 16 października 2019 r. o zmianie ustawy o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych oraz niektórych innych ustaw (Dz. U. poz. 2217) oraz zmian wynikających z przepisów ogłoszonych przed dniem 16 lipca 2020 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje odnośnika nr 1 oraz art. 46 ustawy z dnia 16 października 2019 r. o zmianie ustawy o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych oraz niektórych innych ustaw (Dz. U.
@@ -121,9 +121,11 @@ Art. 65–72. (pominięte)
 
 2. W przypadku gdy właściwym zakresie sprawowania nadzoru uzupełniającego jest koordynator zagraniczny, podmioty regulowane podlegające nadzorowi sprawowanemu przez krajowy organ nadzoru, podlegają nadzorowi uzupełniającemu od dnia poinformowania o spełnieniu przez grupę warunków uznania za konglomerat finansowy, o których mowa art. 4 ust. 1.
 
-3. Podmioty wchodzące skład konglomeratu finansowego podlegają nadzorowi uzupełniającemu do dnia doręczenia podmiotowi wiodącemu informacji, o której mowa art. 12 ust. 1, albo upływu okresu, na jaki została wydana decyzja, o której mowa art. 10 ust. 1, albo doręczenia decyzji o uchyleniu tej decyzji.
+3. Podmioty wchodzące skład konglomeratu finansowego podlegają nadzorowi uzupełniającemu do dnia doręczenia podmiotowi wiodącemu informacji, o której mowa art. 12 ust. 1, albo upływu okresu, na jaki została wydana decyzja, o której mowa art. 10 ust. 1, albo doręczenia decyzji o uchyleniu tej decyzji. przepis ust. 3 stosuje się odpowiednio.
 
-4. W przypadku gdy właściwym zakresie sprawowania nadzoru uzupełniającego jest koordynator zagraniczny, przepis ust. 3 stosuje się odpowiednio. art. 6 ust. 3, albo spełniając warunek, o którym mowa art. 6 ust. 3, nie spełnia warunku, o którym mowa art. 6 ust. 2, koordynator, po zasięgnięciu opinii zainteresowanych organów nadzoru, może, drodze decyzji skierowanej do podmiotu wiodącego, ustalić, że grupa nie będzie podlegała nadzorowi uzupełniającemu albo że nie będą podlegać temu nadzorowi znaczące transakcje wewnątrzgrupowe, znacząca koncentracja ryzyka lub zarządzanie ryzykiem i kontrola wewnętrzna, o których mowa rozdziale 3 oddziałach 3–5, jeżeli ze względu na cele nadzoru uzupełniającego byłoby to niewłaściwe lub mylące.
+**Art. 9.**
+
+1. Jeżeli grupa, spełniając warunek, o którym mowa art. 6 ust. 2, nie spełnia warunku, o którym mowa art. 6 ust. 3, albo spełniając warunek, o którym mowa art. 6 ust. 3, nie spełnia warunku, o którym mowa art. 6 ust. 2, koordynator, po zasięgnięciu opinii zainteresowanych organów nadzoru, może, drodze decyzji skierowanej do podmiotu wiodącego, ustalić, że grupa nie będzie podlegała nadzorowi uzupełniającemu albo że nie będą podlegać temu nadzorowi znaczące transakcje wewnątrzgrupowe, znacząca koncentracja ryzyka lub zarządzanie ryzykiem i kontrola wewnętrzna, o których mowa rozdziale 3 oddziałach 3–5, jeżeli ze względu na cele nadzoru uzupełniającego byłoby to niewłaściwe lub mylące.
 
 2. O decyzji, o której mowa ust. 1, koordynator informuje zainteresowane organy nadzoru sprawujące nadzór nad podmiotami wchodzącymi skład grupy, której dotyczy ta decyzja.
 
@@ -156,9 +158,13 @@ Art. 65–72. (pominięte)
 
 1. Jeżeli grupa przestała spełniać warunki, o których mowa art. 4 ust. 1, koordynator niezwłocznie informuje o tym podmiot wiodący.
 
-2. Informację, o której mowa ust. 1, koordynator przekazuje także zagranicznym organom nadzoru, które udzieliły zezwolenia podmiotom regulowanym grupie, lub zagranicznym organom nadzoru państwa członkowskiego, którym dominujący podmiot nieregulowany posiada siedzibę, ministrowi właściwemu do spraw instytucji finansowych oraz Wspólnemu Komitetowi.
+2. Informację, o której mowa ust. 1, koordynator przekazuje także zagranicznym organom nadzoru, które udzieliły zezwolenia podmiotom regulowanym grupie, lub zagranicznym organom nadzoru państwa członkowskiego, którym nemu Komitetowi.
 
-3. Podmiot wiodący informuje podmioty regulowane wchodzące skład konglomeratu finansowego o zaprzestaniu spełniania przez grupę warunków, o których mowa art. 4 ust. 1. torium Rzeczypospolitej Polskiej może być wyłącznie osoba fizyczna, która spełnia łącznie następujące warunki:
+3. Podmiot wiodący informuje podmioty regulowane wchodzące skład konglomeratu finansowego o zaprzestaniu spełniania przez grupę warunków, o których mowa art. 4 ust. 1.
+
+**Art. 13.**
+
+1. Członkiem organu zarządzającego dominującego podmiotu nieregulowanego mającego siedzibę na terytorium Rzeczypospolitej Polskiej może być wyłącznie osoba fizyczna, która spełnia łącznie następujące warunki:
 
 - **1)** posiada pełną zdolność do czynności prawnych;
 - **2)** daje rękojmię należytego pełnienia funkcji członka organu zarządzającego dominującego podmiotu nieregulowanego, przy uwzględnieniu istoty jego działalności oraz roli konglomeracie finansowym;
@@ -192,9 +198,23 @@ Art. 65–72. (pominięte)
 
 1. Fundusze własne konglomeratu finansowego powinny być utrzymywane na poziomie nie niższym od wymogów z tytułu adekwatności kapitałowej konglomeratu finansowego (adekwatność kapitałowa konglomeratu finansowego).
 
-2. Koordynator może zobowiązać podmioty regulowane wchodzące skład konglomeratu finansowego do utrzymywania funduszy własnych na poziomie zapewniającym pokrycie niedoboru funduszy własnych konglomeratu finansowego pozycjami, które mogą zostać uznane za składniki funduszy własnych na podstawie regulacji sektorowych.
+2. Koordynator może zobowiązać podmioty regulowane wchodzące skład konglomeratu finansowego do utrzymywania funduszy własnych na poziomie zapewniającym pokrycie niedoboru funduszy własnych konglomeratu finansowego pozycjami, które mogą zostać uznane za składniki funduszy własnych na podstawie regulacji sektorowych. uwzględniania pozycji zaliczanych do funduszy własnych i niewłaściwego wewnątrzgrupowego tworzenia funduszy własnych oraz umożliwienie efektywnego sprawowania nadzoru uzupełniającego zakresie adekwatności kapitałowej przy zastosowaniu instrumentów sprawozdawczości finansowej, po zasięgnięciu opinii krajowego organu nadzoru, określi, drodze rozporządzenia, odniesieniu do konglomeratów finansowych:
 
-**Art. 23.** Minister właściwy do spraw instytucji finansowych, mając na celu uniemożliwienie wielokrotnego uwzględniania pozycji zaliczanych do funduszy własnych i niewłaściwego wewnątrzgrupowego tworzenia funduszy własnych oraz umożliwienie efektywnego sprawowania nadzoru uzupełniającego zakresie adekwatności kapitałowej przy zastosowaniu instrumentów sprawozdawczości finansowej, po zasięgnięciu opinii krajowego organu nadzoru, określi, drodze rozporządzenia, odniesieniu do konglomeratów finansowych:
+- **1)** metody obliczania funduszy własnych i wymogów z tytułu adekwatności kapitałowej oraz metody przeprowadzania rachunku adekwatności kapitałowej konglomeratu finansowego, które mogą być wskazane przez koordynatora do obliczania rachunku adekwatności kapitałowej;
+- **2)** szczegółowe metody i sposoby sporządzania sprawozdań zakresie adekwatności kapitałowej.
+
+**Art. 24.**
+
+1. Podmiot wiodący mający siedzibę na terytorium Rzeczypospolitej Polskiej jest obowiązany przeprowadzać rachunek adekwatności kapitałowej konglomeratu finansowego. Rachunek adekwatności kapitałowej konglomeratu finansowego przeprowadza się na podstawie danych dotyczących podmiotów sektora finansowego, przekazanych przez podmioty regulowane oraz przez dominujący podmiot nieregulowany.
+
+2. Podmiot wiodący jest obowiązany przekazywać koordynatorowi wyniki obliczeń wymogu z tytułu adekwatności kapitałowej konglomeratu finansowego nie rzadziej niż raz roku.
+
+3. Podmiot wiodący przeprowadza rachunek adekwatności kapitałowej konglomeratu finansowego zgodnie z przepisami wydanymi na podstawie art. 23, według stanu na koniec ostatniego dnia miesiąca kończącego każdy kwartał.
+
+4. Podmiot wiodący przekazuje koordynatorowi na piśmie terminie 90 dni od dnia kończącego rok:
+
+- **1)** wyniki rachunku adekwatności kapitałowej obliczone według danych na dzień kończący rok zgodnie z przepisami wydanymi na podstawie art. 23;
+- **2)** listę podmiotów należących do konglomeratu finansowego, sporządzoną zgodnie z przepisami wydanymi na podstawie art. 23.
 
 **Art. 25.** W odniesieniu do konglomeratu finansowego, którego podmiot wiodący ma siedzibę na terytorium Rzeczypospolitej Polskiej, wyboru metody przeprowadzania rachunku adekwatności kapitałowej spośród metod określonych przepisach wydanych na podstawie art. 23 dokonuje, drodze decyzji, koordynator, po zasięgnięciu opinii innych zainteresowanych organów nadzoru.
 
@@ -212,15 +232,15 @@ Art. 65–72. (pominięte)
 
 ##### Oddział 3 Znaczące transakcje wewnątrzgrupowe
 
-**Art. 29.** Znaczące transakcje wewnątrzgrupowe konglomeracie finansowym podlegają nadzorowi uzupełniającemu.
-
-**Art. 30.** Transakcje wewnątrzgrupowe nie mogą zagrażać stabilności finansowej podmiotów regulowanych wchodzących skład konglomeratu finansowego.
+**Art. 29.** Znaczące transakcje wewnątrzgrupowe konglomeracie finansowym podlegają nadzorowi uzupełniającemu. dzących skład konglomeratu finansowego.
 
 **Art. 31.**
 
 1. Koordynator, niezwłocznie po zidentyfikowaniu konglomeratu finansowego i po zasięgnięciu opinii zainteresowanych organów nadzoru, określa, drodze decyzji skierowanej do podmiotu wiodącego, rodzaje transakcji wewnątrzgrupowych zawieranych przez podmioty wchodzące skład konglomeratu finansowego objętych obowiązkiem sprawozdawczym.
 
-2. W decyzji, o której mowa ust. 1, koordynator może wskazać próg uznania transakcji wewnątrzgrupowej za znaczącą. posiada koordynatora zagranicznego, obowiązkom sprawozdawczym podlegają znaczące transakcje wewnątrzgrupowe, których wartość przekracza próg określony przez krajowy organ nadzoru drodze decyzji wydanej na wniosek koordynatora zagranicznego.
+2. W decyzji, o której mowa ust. 1, koordynator może wskazać próg uznania transakcji wewnątrzgrupowej za znaczącą.
+
+3. W przypadku gdy podmioty objęte nadzorem uzupełniającym wchodzą skład konglomeratu finansowego, który posiada koordynatora zagranicznego, obowiązkom sprawozdawczym podlegają znaczące transakcje wewnątrzgrupowe, których wartość przekracza próg określony przez krajowy organ nadzoru drodze decyzji wydanej na wniosek koordynatora zagranicznego.
 
 4. Decyzje, o których mowa ust. 1 i 3, są natychmiast wykonalne.
 
@@ -251,19 +271,15 @@ Art. 65–72. (pominięte)
 
 **Art. 35.** Znacząca koncentracja ryzyka podlega nadzorowi uzupełniającemu.
 
-**Art. 36.** Znacząca koncentracja ryzyka nie może zagrażać stabilności finansowej podmiotów regulowanych wchodzących skład konglomeratu finansowego.
-
-**Art. 37.**
-
-1. Podmioty regulowane podlegające nadzorowi sprawowanemu przez krajowy organ nadzoru, niezwłocznie informują podmiot wiodący o każdym przypadku wystąpienia znaczącej koncentracji ryzyka, przy uwzględnieniu art. 39 ust. 1 lub art. 40 ust. 1.
-
-2. W przypadku podmiotu wiodącego z siedzibą na terytorium Rzeczypospolitej Polskiej informacje zakresie określonym ust. 1 dotyczące tego podmiotu są na bieżąco gromadzone przez ten podmiot.
+**Art. 36.** Znacząca koncentracja ryzyka nie może zagrażać stabilności finansowej podmiotów regulowanych wchodzących skład konglomeratu finansowego. nie informują podmiot wiodący o każdym przypadku wystąpienia znaczącej koncentracji ryzyka, przy uwzględnieniu art. 39 ust. 1 lub art. 40 ust. 1. 2. W przypadku podmiotu wiodącego z siedzibą na terytorium Rzeczypospolitej Polskiej informacje zakresie określonym ust. 1 dotyczące tego podmiotu są na bieżąco gromadzone przez ten podmiot.
 
 **Art. 38.**
 
 1. Podmiot wiodący z siedzibą na terytorium Rzeczypospolitej Polskiej przekazuje koordynatorowi lub koordynatorowi zagranicznemu, nie później niż z upływem 7 miesięcy od końca roku kalendarzowego, sprawozdanie zakresie znaczącej koncentracji ryzyka za dany rok kalendarzowy.
 
 2. Sprawozdanie, o którym mowa ust. 1, obejmuje również informacje dotyczące znaczącej koncentracji ryzyka dominującym podmiocie nieregulowanym.
+
+3. Sprawozdanie, o którym mowa ust. 1, zawiera:
 
 - **1)** informacje, o których mowa art. 37 ust. 1;
 - **2)** informacje przekazane przez inne podmioty regulowane wchodzące skład konglomeratu finansowego i mające siedzibę państwach członkowskich;
@@ -297,14 +313,11 @@ Art. 65–72. (pominięte)
 
 1. Wchodzące skład konglomeratu finansowego podmioty regulowane podlegające nadzorowi sprawowanemu przez krajowy organ nadzoru są obowiązane wdrożyć odpowiednie systemy zarządzania ryzykiem oraz systemy kontroli wewnętrznej.
 
-2. Podmiot wiodący przekazuje koordynatorowi na piśmie, terminie 90 dni od dnia kończącego rok obrotowy, szczegółowe informacje o strukturze prawnej, strukturze zarządzania i strukturze organizacyjnej podmiotów regulowanych wchodzących skład konglomeratu finansowego, tym o podmiotach zależnych niebędących podmiotami regulowanymi oraz istotnych oddziałach instytucji kredytowych, o których mowa art. 141f ust. 12, 13 i 17 ustawy Prawo bankowe, istotnych oddziałach domów maklerskich, o których mowa art. 98a ust. 12a ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi oraz istotnych oddziałach zakładów ubezpieczeń i istotnych oddziałach zakładów reasekuracji, o których mowa art. 354 rozporządzenia delegowanego Komisji (UE) 2015/35 z dnia 10 października 2014 r. uzupełniającego dyrektywę Parlamentu Europejskiego i Rady 2009/138/WE sprawie podejmowania i prowadzenia działalności ubezpieczeniowej i reasekuracyjnej (Wypłacalność II) (Dz. Urz. UE L 12 z 17.01.2015, s. 1).
+2. Podmiot wiodący przekazuje koordynatorowi na piśmie, terminie 90 dni od dnia kończącego rok obrotowy, szczegółowe informacje o strukturze prawnej, strukturze zarządzania i strukturze organizacyjnej podmiotów regulowanych wchodzących skład konglomeratu finansowego, tym o podmiotach zależnych niebędących podmiotami regulobankowe, istotnych oddziałach domów maklerskich, o których mowa art. 98a ust. 12a ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi oraz istotnych oddziałach zakładów ubezpieczeń i istotnych oddziałach zakładów reasekuracji, o których mowa art. 354 rozporządzenia delegowanego Komisji (UE) 2015/35 z dnia 10 października 2014 r. uzupełniającego dyrektywę Parlamentu Europejskiego i Rady 2009/138/WE sprawie podejmowania i prowadzenia działalności ubezpieczeniowej i reasekuracyjnej (Wypłacalność II) (Dz. Urz. UE L 12 z 17.01.2015, s. 1).
 
 3. Podmiot wiodący, terminie 90 dni od dnia kończącego rok obrotowy, udostępnia na swojej stronie internetowej opis struktury prawnej, struktury zarządzania i struktury organizacyjnej podmiotów regulowanych wchodzących skład konglomeratu finansowego pełnej formie lub przez zamieszczenie odnośników do informacji równoważnych.
 
-- **1)** dokonywaniu okresowej weryfikacji przyjętych zasad postępowania odnoszących się do wszelkich rodzajów podejmowanego ryzyka, tym szczególności zakresie procedur, o których mowa pkt 2;
-- **2)** wprowadzeniu zasad postępowania zakresie adekwatności kapitałowej, uwzględniających oddziaływanie strategii prowadzonej działalności na profil ryzyka i wymogi kapitałowe na poziomie konglomeratu finansowego ustalone zgodnie z ustawą;
-- **3)** wprowadzeniu procedur zapewniających efektywność zarządzania ryzykiem podmiocie regulowanym, obejmujących szczególności podejmowanie niezbędnych działań podmiotach regulowanych, i umożliwiających mierzenie, analizę i kontrolę ryzyka na poziomie konglomeratu finansowego;
-- **4)** wprowadzeniu i systematycznej aktualizacji zasad postępowania zakresie tworzenia i rozwoju, razie potrzeby, odpowiednich planów i ustaleń naprawczych i restrukturyzacyjnych.
+**Art. 43.** Wdrożenie systemów zarządzania ryzykiem, o których mowa art. 42, polega na:
 
 **Art. 44.**
 
@@ -327,9 +340,7 @@ Art. 65–72. (pominięte)
 
 **Art. 49.** Jeżeli konglomeracie finansowym jest kilka dominujących podmiotów nieregulowanych mających siedziby państwach członkowskich i każdym z tych państw ma swoją siedzibę co najmniej jeden podmiot regulowany, koordynatorem jest krajowy organ nadzoru, sprawujący nadzór nad podmiotem regulowanym wykazującym największą sumę bilansową, jeżeli podmioty regulowane należą do tego samego sektora finansowego, a przypadku gdy podmioty regulowane należą do różnych sektorów finansowych nad podmiotem regulowanym prowadzącym działalność najistotniejszym sektorze finansowym.
 
-**Art. 50.** Jeżeli podmiotem wiodącym jest dominujący podmiot nieregulowany, mający siedzibę innym niż Rzeczpospolita Polska państwie członkowskim, i wszystkie podmioty regulowane będące podmiotami zależnymi od tego podmiotu wiodącego mają siedziby poza tym państwem członkowskim, koordynatorem jest krajowy organ nadzoru, jeżeli sprawuje nadzór nad podmiotem regulowanym o największej sumie bilansowej najistotniejszym sektorze finansowym, wchodzącym skład konglomeratu finansowego.
-
-**Art. 51.** Jeżeli konglomeracie finansowym nie ma podmiotu wiodącego, rozumieniu art. 4 ust. 5 i 6, oraz jeżeli na podstawie art. 47, 49 i 50 nie można ustalić koordynatora, koordynatorem jest krajowy organ nadzoru, jeżeli sprawuje nadzór nad podmiotem regulowanym o największej sumie bilansowej najistotniejszym sektorze finansowym.
+**Art. 50.** Jeżeli podmiotem wiodącym jest dominujący podmiot nieregulowany, mający siedzibę innym niż Rzeczpospolita Polska państwie członkowskim, i wszystkie podmioty regulowane będące podmiotami zależnymi od tego podmiotu wiodącego mają siedziby poza tym państwem członkowskim, koordynatorem jest krajowy organ nadzoru, jeżeli sprawuje nadzór nad podmiotem regulowanym o największej sumie bilansowej najistotniejszym sektorze finansowym, wchodzącym skład konglomeratu finansowego. na podstawie art. 47, 49 i 50 nie można ustalić koordynatora, koordynatorem jest krajowy organ nadzoru, jeżeli sprawuje nadzór nad podmiotem regulowanym o największej sumie bilansowej najistotniejszym sektorze finansowym.
 
 **Art. 52.**
 
@@ -337,7 +348,9 @@ Art. 65–72. (pominięte)
 
 2. W przypadku, o którym mowa ust. 1, krajowy organ nadzoru, porozumieniu z innymi zainteresowanymi organami nadzoru, może, drodze decyzji, uznać się za koordynatora.
 
-3. Jeżeli drodze porozumienia zainteresowanych organów nadzoru jako właściwy zostanie wskazany koordynator zagraniczny, krajowy organ nadzoru może, drodze decyzji, uznać się za niewłaściwy. organ nadzoru, porozumieniu z innymi zainteresowanymi organami nadzoru, drodze decyzji, uwzględniając szczególności specyfikę struktury organizacyjnej konglomeratu finansowego oraz konieczność zapewnienia efektywności sprawowania nadzoru nad podmiotami regulowanymi wchodzącymi skład grupy, uznaje się za koordynatora.
+3. Jeżeli drodze porozumienia zainteresowanych organów nadzoru jako właściwy zostanie wskazany koordynator zagraniczny, krajowy organ nadzoru może, drodze decyzji, uznać się za niewłaściwy.
+
+**Art. 53.** W szczególnych przypadkach, jeżeli na podstawie art. 47–52 nie można ustalić koordynatora, krajowy organ nadzoru, porozumieniu z innymi zainteresowanymi organami nadzoru, drodze decyzji, uwzględniając szczególności specyfikę struktury organizacyjnej konglomeratu finansowego oraz konieczność zapewnienia efektywności sprawowania nadzoru nad podmiotami regulowanymi wchodzącymi skład grupy, uznaje się za koordynatora.
 
 **Art. 54.** Do zadań koordynatora należy:
 
@@ -363,12 +376,13 @@ Art. 65–72. (pominięte)
 
 1. Współpraca, o której mowa art. 56, polega szczególności na gromadzeniu i przekazywaniu informacji zakresie:
 
-- **1)** struktury prawnej grupy, jej struktury zarządzania i struktury organizacyjnej, tym o podmiotach regulowanych, podmiotach zależnych niebędących podmiotami regulowanymi oraz istotnych oddziałach instytucji kredytowych, o których mowa art. 141f ust. 12, 13 i 17 ustawy Prawo bankowe, i domów maklerskich, o których mowa art. 98a ust. 12a ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, wchodzących skład konglomeratu finansowego, podmiotach posiadających bezpośrednio lub pośrednio akcje lub prawa z akcji podmiotów regulowanych liczbie zapewniającej osiągnięcie albo przekroczenie 10% ogólnej liczby głosów organie stanowiącym lub udziału kapitale zakładowym danego podmiotu regulowanego, a także organów nadzoru właściwych dla podmiotów regulowanych wchodzących skład grupy;
+- **1)** struktury prawnej grupy, jej struktury zarządzania i struktury organizacyjnej, tym o podmiotach regulowanych, podmiotach zależnych niebędących podmiotami regulowanymi oraz istotnych oddziałach instytucji kredytowych, o których mowa art. 141f ust. 12, 13 i 17 ustawy Prawo bankowe, i domów maklerskich, o których mowa art. 98a ust. 12a ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, wchodzących skład konglomeratu finansowego, podmiotach posiadających bezpośrednio lub pośrednio akcje lub prawa z akcji podmiotów regulowanych liczbie zapewniającej osiągnięcie albo przekroczenie 10% ogólnej liczby głosów organie stanodla podmiotów regulowanych wchodzących skład grupy;
 - **2)** strategii konglomeratu finansowego;
 - **3)** sytuacji finansowej konglomeratu finansowego, szczególności adekwatności kapitałowej, znaczących transakcji wewnątrzgrupowych oraz znaczącej koncentracji ryzyka;
 - **4)** znaczących akcjonariuszy i władz podmiotów regulowanych wchodzących skład konglomeratu finansowego;
 - **5)** organizacji, zarządzania ryzykiem i systemów kontroli wewnętrznej konglomeracie finansowym;
-- **6)** procedur gromadzenia informacji od podmiotów regulowanych wchodzących skład konglomeratu finansowego oraz weryfikacji tych informacji; wchodzących skład konglomeratu finansowego, jeżeli mogą one zaważyć na sytuacji finansowej podmiotów regulowanych;
+- **6)** procedur gromadzenia informacji od podmiotów regulowanych wchodzących skład konglomeratu finansowego oraz weryfikacji tych informacji;
+- **7)** okoliczności, które mogą mieć wpływ na sytuację finansową podmiotów regulowanych oraz innych podmiotów wchodzących skład konglomeratu finansowego, jeżeli mogą one zaważyć na sytuacji finansowej podmiotów regulowanych;
 - **8)** nakładania sankcji lub podejmowania innych działań nadzorczych odniesieniu do podmiotów objętych nadzorem uzupełniającym.
 
 2. Jeżeli wymaga tego wykonywanie zadań zakresie nadzoru nad podmiotami regulowanymi, które wchodzą skład konglomeratu finansowego, krajowy organ nadzoru może, zgodnie z przepisami regulacji sektorowych, przekazywać informacje, o których mowa ust. 1, bankom centralnym zainteresowanych państw członkowskich, Europejskiemu Systemowi Banków Centralnych, Europejskiemu Bankowi Centralnemu oraz Europejskiej Radzie ds. Ryzyka Systemowego zgodnie z art. 15 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1092/2010 z dnia 24 listopada 2010 r. sprawie unijnego nadzoru makroostrożnościowego nad systemem finansowym i ustanowienia Europejskiej Rady ds. Ryzyka Systemowego (Dz. Urz. UE L 331 z 15.12.2010, str. 1).
@@ -393,9 +407,7 @@ Art. 65–72. (pominięte)
 - **1)** przeprowadzenie weryfikacji informacji dotyczących tego podmiotu przez zagraniczny organ nadzoru;
 - **2)** umożliwienie mu wzięcia udziału weryfikacji dokonywanej przez inny organ nadzoru.
 
-2. Na wniosek zagranicznego organu nadzoru krajowy organ nadzoru przeprowadza weryfikację informacji dotyczących podmiotu regulowanego mającego siedzibę na terytorium Rzeczypospolitej Polskiej, wchodzącego skład konglomeratu finansowego. W czynnościach tych mogą, za zgodą krajowego organu nadzoru, uczestniczyć upoważnieni przedstawiciele organu, który wystąpił z wnioskiem o weryfikację. Przedstawicielom tym przysługują takie same prawa i obowiązki, jak pracownikom tego krajowego organu nadzoru.
-
-#### Rozdział 6 Środki sprawowania nadzoru uzupełniającego
+2. Na wniosek zagranicznego organu nadzoru krajowy organ nadzoru przeprowadza weryfikację informacji dotyczących podmiotu regulowanego mającego siedzibę na terytorium Rzeczypospolitej Polskiej, wchodzącego skład konglomeratu finansowego. W czynnościach tych mogą, za zgodą krajowego organu nadzoru, uczestniczyć upoważnieni przedstawiciele organu, który wystąpił z wnioskiem o weryfikację. Przedstawicielom tym przysługują takie same prawa i obowiązki, jak pracownikom tego krajowego organu nadzoru. Środki sprawowania nadzoru uzupełniającego
 
 **Art. 61.**
 
@@ -405,7 +417,9 @@ Art. 65–72. (pominięte)
 
 - **1)** naruszenia przepisów ustawy;
 - **2)** zagrożenia wypłacalności podmiotów regulowanych szczególności na skutek nieutrzymywania funduszy własnych na odpowiednim poziomie, wystąpienia znaczącej koncentracji ryzyka lub zawartych znaczących transakcji wewnątrzgrupowych;
-- **3)** utrudnienia prawidłowego sprawowania nadzoru uzupełniającego. naruszeń przepisów prawa lub innych nieprawidłowości oraz stopień przyczynienia się danego podmiotu regulowanego do powstania naruszeń przepisów prawa lub innych nieprawidłowości na poziomie konglomeratu finansowego zagrażających wypłacalności podmiotów regulowanych wchodzących skład konglomeratu finansowego lub prawidłowemu sprawowaniu nadzoru uzupełniającego.
+- **3)** utrudnienia prawidłowego sprawowania nadzoru uzupełniającego.
+
+3. Podejmując środki określone regulacjach sektorowych, krajowy organ nadzoru bierze pod uwagę wagę i rodzaj naruszeń przepisów prawa lub innych nieprawidłowości oraz stopień przyczynienia się danego podmiotu regulowanego do powstania naruszeń przepisów prawa lub innych nieprawidłowości na poziomie konglomeratu finansowego zagrażających wypłacalności podmiotów regulowanych wchodzących skład konglomeratu finansowego lub prawidłowemu sprawowaniu nadzoru uzupełniającego.
 
 **Art. 62.**
 
@@ -429,7 +443,5 @@ Art. 65–72. (pominięte)
 
 **Art. 73.** Do postępowań sprawach objętych przepisami ustaw zmienianych niniejszą ustawą, wszczętych, a niezakończonych przed dniem jej wejścia życie, stosuje się przepisy tych ustaw, brzmieniu nadanym niniejszą ustawą.
 
-**Art. 74.** (pominięty)
-
-**Art. 75.** Ustawa wchodzi życie po upływie 30 dni od dnia ogłoszenia , z wyjątkiem art. 68 , który wchodzi życie z dniem ogłoszenia.
+**Art. 74.** (pominięty) z dniem ogłoszenia.
 

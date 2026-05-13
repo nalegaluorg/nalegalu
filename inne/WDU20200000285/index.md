@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 21 lutego 2020 r.
+# Ustawa z dnia 23 stycznia 2020 r. o zmianie ustawy o jakości handlowej artykułów rolno-spożywczych oraz niektórych innych ustaw
+
+*USTAWA dnia 23 stycznia 2020 o zmianie ustawy o jakości handlowej artykułów rolno-spożywczych oraz niektórych innych ustaw*
 
 | Pole | Wartość |
 |---|---|
@@ -24,42 +26,37 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000285) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/285/text.pdf) |
 
-USTAWA dnia 23 stycznia 2020 r.
-o zmianie ustawy o jakości handlowej artykułów rolno-spożywczych oraz niektórych innych ustaw
+**Art. 1.** W ustawie dnia 21 grudnia 2000 o jakości handlowej artykułów rolno-spożywczych (Dz. U. 2019
 
-**Art. 1.** W ustawie dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. 2019 r. poz. 2178) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie dnia 7 października 1999 o języku polskim (Dz. U. 2019 1480) art. 7b otrzymuje brzmienie: „Art. 7b. Kontrolę używania języka polskiego zakresie, o którym mowa art. 7 art. 7a, sprawują, odpowiednio do zakresu swoich zadań, Prezes Urzędu Ochrony Konkurencji Konsumentów, Inspekcja Handlowa, Inspekcja Jakości Handlowej Artykułów Rolno-Spożywczych oraz powiatowy (miejski) rzecznik konsumentów, jak również Państwowa Inspekcja Pracy.”.
 
-**Art. 2.** W ustawie dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. 2019 r. poz. 900, późn. zm. ) art. 299 § 3 pkt 16 kropkę zastępuje się średnikiem dodaje się pkt 17 brzmieniu: „17) organom Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych związku kontrolami przeprowadzanymi na podstawie art. 17c ustawy dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. 2019 r. poz. 2178 oraz 2020 r. poz. 285) oraz zakresie prowadzonych postępowań sprawie wymierzenia kar pieniężnych na podstawie art. 40a ust. 1–3a tej ustawy.”.
+**Art. 4.** W ustawie dnia 15 grudnia 2000 o Inspekcji Handlowej (Dz. U. 2019 1668 2166) wprowadza się następujące zmiany:
 
-**Art. 3.** W ustawie dnia 7 października 1999 r. o języku polskim (Dz. U. 2019 r. poz. 1480) art. 7b otrzymuje brzmienie: „Art. 7b. Kontrolę używania języka polskiego zakresie, o którym mowa art. 7 art. 7a, sprawują, odpowiednio do zakresu swoich zadań, Prezes Urzędu Ochrony Konkurencji Konsumentów, Inspekcja Handlowa, Inspekcja Jakości Handlowej Artykułów Rolno-Spożywczych oraz powiatowy (miejski) rzecznik konsumentów, jak również Państwowa Inspekcja Pracy.”.
+**Art. 5.** W ustawie dnia 11 maja 2001 – Prawo o miarach (Dz. U. 2020 140) art. 22 ust. 1 otrzymuje brzmienie: „1. Do kontroli wykonywania przepisów niniejszej ustawy oraz ustawy dnia 7 maja 2009 o towarach paczkowanych uprawnione są także, ramach swoich kompetencji, inne jednostki administracji publicznej, a szczególności Inspekcja Handlowa, Inspekcja Jakości Handlowej Artykułów Rolno-Spożywczych, Państwowa Inspekcja Sanitarna oraz urzędy górnicze.”.
 
-**Art. 4.** W ustawie dnia 15 grudnia 2000 r. o Inspekcji Handlowej (Dz. U. 2019 r. poz. 1668 2166) wprowadza się następujące zmiany:
+**Art. 6.** W ustawie dnia 19 grudnia 2003 o organizacji rynków owoców warzyw oraz rynku chmielu (Dz. U.
 
-**Art. 5.** W ustawie dnia 11 maja 2001 r. Prawo o miarach (Dz. U. 2020 r. poz. 140) art. 22 ust. 1 otrzymuje brzmienie: „1. Do kontroli wykonywania przepisów niniejszej ustawy oraz ustawy dnia 7 maja 2009 r. o towarach paczkowanych uprawnione są także, ramach swoich kompetencji, inne jednostki administracji publicznej, a szczególności Inspekcja Handlowa, Inspekcja Jakości Handlowej Artykułów Rolno-Spożywczych, Państwowa Inspekcja Sanitarna oraz urzędy górnicze.”.
+**Art. 7.** W ustawie dnia 29 stycznia 2004 o Inspekcji Weterynaryjnej (Dz. U. 2018 1557) wprowadza się następujące zmiany:
 
-**Art. 6.** W ustawie dnia 19 grudnia 2003 r. o organizacji rynków owoców warzyw oraz rynku chmielu (Dz. U. 2019 r. poz. 935) wprowadza się następujące zmiany:
+**Art. 8.** W ustawie dnia 11 marca 2004 o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt (Dz. U. 2018 1967 oraz 2020 148) art. 62 ust. 1 otrzymuje brzmienie: „1. Organy Inspekcji Weterynaryjnej, Państwowej Inspekcji Sanitarnej, Państwowej Inspekcji Farmaceutycznej, Inspekcji Transportu Drogowego, Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych oraz jednostki samorządu terytorialnego współpracują przy zwalczaniu chorób zakaźnych zwierząt, tym chorób odzwierzęcych.”.
 
-**Art. 7.** W ustawie dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej (Dz. U. 2018 r. poz. 1557) wprowadza się następujące zmiany:
+**Art. 9.** W ustawie dnia 17 grudnia 2004 o rejestracji ochronie nazw oznaczeń produktów rolnych środków spożywczych oraz o produktach tradycyjnych (Dz. U. 2019 915) wprowadza się następujące zmiany:
 
-**Art. 8.** W ustawie dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt (Dz. U. 2018 r. poz. 1967 oraz 2020 r. poz. 148) art. 62 ust. 1 otrzymuje brzmienie: „1. Organy Inspekcji Weterynaryjnej, Państwowej Inspekcji Sanitarnej, Państwowej Inspekcji Farmaceutycznej, Inspekcji Transportu Drogowego, Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych oraz jednostki samorządu terytorialnego współpracują przy zwalczaniu chorób zakaźnych zwierząt, tym chorób odzwierzęcych.”.
+**Art. 10.** W ustawie dnia 16 grudnia 2005 o produktach pochodzenia zwierzęcego (Dz. U. 2019 824 oraz 2020 148) art. 22 ust. 1 pkt 2 lit. b otrzymuje brzmienie: „b) wojewódzkiego inspektora jakości handlowej artykułów rolno-spożywczych.”.
 
-**Art. 9.** W ustawie dnia 17 grudnia 2004 r. o rejestracji ochronie nazw oznaczeń produktów rolnych środków spożywczych oraz o produktach tradycyjnych (Dz. U. 2019 r. poz. 915) wprowadza się następujące zmiany:
+**Art. 11.** W ustawie dnia 22 lipca 2006 o paszach (Dz. U. 2019 269 oraz 2020 284) art. 33 ust. 2 otrzymuje brzmienie: „2. Organy Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych sprawują, zgodnie przepisami ustawy dnia 21 grudnia 2000 o jakości handlowej artykułów rolno-spożywczych (Dz. U. 2019 2178 oraz 2020
 
-**Art. 10.** W ustawie dnia 16 grudnia 2005 r. o produktach pochodzenia zwierzęcego (Dz. U. 2019 r. poz. 824 oraz 2020 r. poz. 148) art. 22 ust. 1 pkt 2 lit. b otrzymuje brzmienie: „b) wojewódzkiego inspektora jakości handlowej artykułów rolno-spożywczych.”.
+**Art. 12.** W ustawie dnia 25 sierpnia 2006 o bezpieczeństwie żywności żywienia (Dz. U. 2019 1252 oraz 2020 284) wprowadza się następujące zmiany:
 
-**Art. 11.** W ustawie dnia 22 lipca 2006 r. o paszach (Dz. U. 2019 r. poz. 269 oraz 2020 r. poz. 284) art. 33 ust. 2 otrzymuje brzmienie: „2. Organy Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych sprawują, zgodnie przepisami ustawy dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. 2019 r. poz. 2178 oraz 2020 r. poz. 285), nadzór nad obrotem detalicznym paszami przeznaczonymi dla zwierząt domowych, wyłączeniem obrotu tymi paszami prowadzonego przez zakłady lecznicze dla zwierząt.”.
+**Art. 13.** W ustawie dnia 21 listopada 2008 o służbie cywilnej (Dz. U. 2020 265) wprowadza się następujące zmiany:
 
-**Art. 12.** W ustawie dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności żywienia (Dz. U. 2019 r. poz. 1252 oraz 2020 r. poz. 284) wprowadza się następujące zmiany:
+**Art. 14.** W ustawie dnia 5 grudnia 2008 o organizacji rynku rybnego (Dz. U. 2019 1489) wprowadza się następujące zmiany:
 
-**Art. 13.** W ustawie dnia 21 listopada 2008 r. o służbie cywilnej (Dz. U. 2020 r. poz. 265) wprowadza się następujące zmiany:
+**Art. 15.** W ustawie dnia 25 czerwca 2009 o rolnictwie ekologicznym (Dz. U. 2019 1353 1824) wprowadza się następujące zmiany:
 
-**Art. 14.** W ustawie dnia 5 grudnia 2008 r. o organizacji rynku rybnego (Dz. U. 2019 r. poz. 1489) wprowadza się następujące zmiany:
+**Art. 16.** W ustawie dnia 19 grudnia 2014 o rybołówstwie morskim (Dz. U. 2020 277) art. 107 ust. 3 otrzymuje brzmienie: „3. Główny Inspektor Rybołówstwa Morskiego przy realizacji swoich zadań współdziała organami jednostkami organizacyjnymi Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych, Krajowej Administracji Skarbowej, Inspekcji Weterynaryjnej, Państwowej Inspekcji Sanitarnej, Państwowej Straży Rybackiej, Społecznej Straży Rybackiej, Straży Granicznej, Inspekcji Transportu Drogowego Policji oraz ze strażami gminnymi, wojewódzkimi inspektoratami ochrony środowiska, podmiotami zarządzającymi portami przystaniami morskimi terenowymi organami administracji morskiej, uwzględnieniem właściwości kompetencji tych organów jednostek organizacyjnych.”.
 
-**Art. 15.** W ustawie dnia 25 czerwca 2009 r. o rolnictwie ekologicznym (Dz. U. 2019 r. poz. 1353 1824) wprowadza się następujące zmiany:
-
-**Art. 16.** W ustawie dnia 19 grudnia 2014 r. o rybołówstwie morskim (Dz. U. 2020 r. poz. 277) art. 107 ust. 3 otrzymuje brzmienie: „3. Główny Inspektor Rybołówstwa Morskiego przy realizacji swoich zadań współdziała organami jednostkami organizacyjnymi Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych, Krajowej Administracji Skarbowej, Inspekcji Weterynaryjnej, Państwowej Inspekcji Sanitarnej, Państwowej Straży Rybackiej, Społecznej Straży Rybackiej, Straży Granicznej, Inspekcji Transportu Drogowego Policji oraz ze strażami gminnymi, wojewódzkimi inspektoratami ochrony środowiska, podmiotami zarządzającymi portami przystaniami morskimi terenowymi organami administracji morskiej, uwzględnieniem właściwości kompetencji tych organów jednostek organizacyjnych.”.
-
-**Art. 17.** W ustawie dnia 13 czerwca 2019 r. o oznakowaniu produktów wytworzonych bez wykorzystania organizmów genetycznie zmodyfikowanych jako wolnych od tych organizmów (Dz. U. poz. 1401) wprowadza się następujące zmiany:
+**Art. 17.** W ustawie dnia 13 czerwca 2019 o oznakowaniu produktów wytworzonych bez wykorzystania organizmów genetycznie zmodyfikowanych jako wolnych od tych organizmów (Dz. U. 1401) wprowadza się następujące zmiany:
 
 **Art. 18.**
 
@@ -87,7 +84,6 @@ o zmianie ustawy o jakości handlowej artykułów rolno-spożywczych oraz niekt�
 2. W terminie do dnia 30 czerwca 2020 r.:
 
 - **1)** wojewódzcy inspektorzy inspekcji handlowej przekazują wojewódzkim inspektorom jakości handlowej artykułów rolno-spożywczych wykazy wierzytelności zobowiązań zakresie spraw związanych kontrolą jakości handlowej artykułów rolno-spożywczych, tym zakresie ochrony interesów konsumentów artykułów rolno-spożywczych;
-- **2)** Prezes Urzędu Ochrony Konkurencji Konsumentów przekazuje Głównemu Inspektorowi wykazy wierzytelności zobowiązań zakresie spraw związanych kontrolą jakości handlowej artykułów rolno-spożywczych, tym zakresie ochrony interesów konsumentów artykułów rolno-spożywczych.
 
 **Art. 20.**
 
@@ -103,25 +99,23 @@ o zmianie ustawy o jakości handlowej artykułów rolno-spożywczych oraz niekt�
 
 3. Organy Inspekcji, stosownie do swojej właściwości, są właściwe do uchylenia, zmiany, stwierdzenia nieważności decyzji, stwierdzenia wygaśnięcia decyzji albo wznowienia postępowania sprawach prowadzonych przez organy Inspekcji Handlowej zakresie spraw należących do zadań przejętych przez Inspekcję.
 
-**Art. 22.** W terminie do dnia 30 czerwca 2020 r. Prezes Urzędu Ochrony Konkurencji Konsumentów przekazuje Głównemu Inspektorowi Jakości Handlowej Artykułów Rolno-Spożywczych dane zgromadzone związku wykonywaniem zadań przejętych przez Inspekcję wraz dokumentacją, która dotyczy tych danych, tym postaci elektronicznej, niezbędne do dokonywania analizy prawdopodobieństwa naruszenia prawa, o której mowa art. 47 ust. 1 ustawy dnia 6 marca 2018 r. Prawo przedsiębiorców (Dz. U. 2019 r. poz. 1292 1495), a wojewódzcy inspektorzy inspekcji handlowej przekazują takie dane oraz taką dokumentację wojewódzkim inspektorom jakości handlowej artykułów rolno-spożywczych.
+**Art. 22.** W terminie do dnia 30 czerwca 2020 Prezes Urzędu Ochrony Konkurencji Konsumentów przekazuje Głównemu Inspektorowi Jakości Handlowej Artykułów Rolno-Spożywczych dane zgromadzone związku wykonywaniem zadań przejętych przez Inspekcję wraz dokumentacją, która dotyczy tych danych, tym postaci elektronicznej, niezbędne do dokonywania analizy prawdopodobieństwa naruszenia prawa, o której mowa art. 47 ust. 1 ustawy dnia 6 marca 2018 – Prawo przedsiębiorców (Dz. U. 2019 1292 1495), a wojewódzcy inspektorzy inspekcji handlowej przekazują takie dane oraz taką dokumentację wojewódzkim inspektorom jakości handlowej artykułów rolno-spożywczych.
 
-**Art. 23.** Akta spraw, o których mowa art. 20, a także akta innych spraw związanych wykonywaniem zadań przejętych przez Inspekcję Prezes Urzędu Ochrony Konkurencji Konsumentów przekazuje Głównemu Inspektorowi Jakości Handlowej Artykułów Rolno-Spożywczych, a wojewódzcy inspektorzy inspekcji handlowej wojewódzkim inspektorom jakości handlowej artykułów rolno-spożywczych, terminie 7 dni od dnia wejścia życie ustawy.
+**Art. 23.** Akta spraw, o których mowa art. 20, a także akta innych spraw związanych wykonywaniem zadań przejętych przez Inspekcję Prezes Urzędu Ochrony Konkurencji Konsumentów przekazuje Głównemu Inspektorowi Jakości Handlowej Artykułów Rolno-Spożywczych, a wojewódzcy inspektorzy inspekcji handlowej – wojewódzkim inspektorom jakości handlowej artykułów rolno-spożywczych, terminie 7 dni od dnia wejścia życie ustawy.
 
 **Art. 24.**
 
-1. Prezes Urzędu Ochrony Konkurencji Konsumentów przekazuje Głównemu Inspektorowi Jakości Handlowej Artykułów Rolno-Spożywczych, a wojewódzcy inspektorzy inspekcji handlowej właściwym miejscowo wojewódzkim inspektorom jakości handlowej artykułów rolno-spożywczych, terminie do dnia 18 maja 2020 r., imienne wykazy pracowników odpowiednio Urzędu Ochrony Konkurencji Konsumentów oraz wojewódzkich inspektoratów inspekcji handlowej, zatrudnionych na stanowiskach związanych kontrolą jakości handlowej artykułów rolno-spożywczych wraz podaniem stanowisk pracy poszczególnych pracowników, według stanu najpóźniej na dzień wejścia życie tego przepisu.
+1. Prezes Urzędu Ochrony Konkurencji Konsumentów przekazuje Głównemu Inspektorowi Jakości Handlowej Artykułów Rolno-Spożywczych, a wojewódzcy inspektorzy inspekcji handlowej – właściwym miejscowo wojewódzkim inspektorom jakości handlowej artykułów rolno-spożywczych, terminie do dnia 18 maja 2020 r., imienne wykazy pracowników odpowiednio Urzędu Ochrony Konkurencji Konsumentów oraz wojewódzkich inspektoratów inspekcji handlowej, zatrudnionych na stanowiskach związanych kontrolą jakości handlowej artykułów rolno-spożywczych wraz podaniem stanowisk pracy poszczególnych pracowników, według stanu najpóźniej na dzień wejścia życie tego przepisu.
 
 2. Pracownicy wskazani wykazie, o którym mowa ust. 1, dniem wejścia życie niniejszej ustawy stają się pracownikami odpowiednio Głównego Inspektoratu Jakości Handlowej Artykułów Rolno-Spożywczych albo wojewódzkiego inspektoratu jakości handlowej artykułów rolno-spożywczych odpowiadającego właściwością miejscową wojewódzkiemu inspektoratowi inspekcji handlowej, którego pracownikami byli do dnia wejścia życie niniejszej ustawy.
 
-3. Do pracowników, o których mowa ust. 2, zakresie nieuregulowanym niniejszej ustawie, przepisy art. 23 § 1–4 § 6 ustawy dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. 2019 r. poz. 1040, 1043 1495) stosuje się odpowiednio.
+3. Do pracowników, o których mowa ust. 2, zakresie nieuregulowanym niniejszej ustawie, przepisy art. 23 § 1– 4 § 6 ustawy dnia 26 czerwca 1974 – Kodeks pracy (Dz. U. 2019 1040, 1043 1495) stosuje się odpowiednio.
 
-4. Osoby zajmujące dniu 30 czerwca 2020 r. stanowiska wojewódzkich inspektorów jakości handlowej artykułów rolno-spożywczych ich zastępców stają się, dniem wejścia życie ustawy, członkami korpusu służby cywilnej zajmującymi odpowiednio stanowiska wojewódzkich inspektorów jakości handlowej artykułów rolno-spożywczych ich zastępców.
+4. Osoby zajmujące dniu 30 czerwca 2020 stanowiska wojewódzkich inspektorów jakości handlowej artykułów rolno-spożywczych ich zastępców stają się, dniem wejścia życie ustawy, członkami korpusu służby cywilnej zajmującymi odpowiednio stanowiska wojewódzkich inspektorów jakości handlowej artykułów rolno-spożywczych ich zastępców.
 
-5. Urlop bezpłatny udzielony osobom, o których mowa ust. 4, przed dniem wejścia życie ustawy ramach stosunku pracy służbie cywilnej staje się, dniem wejścia życie ustawy, urlopem bezpłatnym, o którym mowa art. 53a ust. 6 ustawy dnia 21 listopada 2008 r. o służbie cywilnej (Dz. U. 2020 r. poz. 265).
+5. Urlop bezpłatny udzielony osobom, o których mowa ust. 4, przed dniem wejścia życie ustawy ramach stosunku pracy służbie cywilnej staje się, dniem wejścia życie ustawy, urlopem bezpłatnym, o którym mowa art. 53a ust. 6 ustawy dnia 21 listopada 2008 o służbie cywilnej (Dz. U. 2020 265).
 
 **Art. 25.** Z dniem wejścia życie niniejszej ustawy laboratoria Inspekcji Handlowej wykonujące zadania należące do zadań przejętych przez Inspekcję stają się laboratoriami Głównego Inspektoratu Jakości Handlowej Artykułów Rolno-Spożywczych.
-
-**Art. 26.** Do kontroli artykułów rolno-spożywczych prowadzonych przez organy Inspekcji rozpoczętych niezakończonych przed dniem wejścia życie ustawy stosuje się przepisy dotychczasowe.
 
 **Art. 27.**
 

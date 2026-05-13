@@ -10,9 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# Ustawa z dnia 5 listopada 2025 r. o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym oraz niektórych innych ustaw
-
-*USTAWA z 5 listopada 2025 zmianie ustawy planowaniu zagospodarowaniu przestrzennym oraz niektórych innych ustaw*
+# z dnia 5 listopada 2025 zmianie ustawy planowaniu zagospodarowaniu przestrzennym oraz niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -26,23 +24,25 @@ domain: null
 | Ostatnia zmiana | 2025-12-09 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001668) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1668/text.pdf) |
 
-**Art. 1.** W ustawie z 27 marca 2003 planowaniu zagospodarowaniu przestrzennym (Dz. U. z 2024 poz. 1130, 1907 1940 oraz z 2025 poz. 527 680) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 27 marca 2003 planowaniu zagospodarowaniu przestrzennym (Dz. U. z 2024 poz. 1130, 1907 1940 oraz z 2025 poz. 527 680) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie z 21 marca 1991 obszarach morskich Rzeczypospolitej Polskiej administracji morskiej (Dz. U. z 2024 poz. 1125 oraz z 2025 poz. 409 1535) 37 skreśla się wyrazy „planów ogólnych gminy,”.
+**Art. 2.** W ustawie z dnia 21 marca 1991 obszarach morskich Rzeczypospolitej Polskiej administracji morskiej (Dz. U. z 2024 poz. 1125 oraz z 2025 poz. 409 1535) art. 37 ust. 3 skreśla się wyrazy „planów ogólnych gminy,”.
 
-**Art. 3.** W ustawie z lipca 2002 Prawo lotnicze (Dz. U. z 2025 poz. 1431) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 3 lipca 2002 Prawo lotnicze (Dz. U. z 2025 poz. 1431) wprowadza się następujące zmiany:
 
-**Art. 6.** W okresie od wejścia życie niniejszej ustawy do 31 grudnia 2026 r., bieg terminów, których mowa 51 2 oraz 64 ustawy zmienianej 1, nie rozpoczyna się, a rozpoczęty przerywa się. Terminy biegną na nowo od stycznia 2027
+**Art. 4.** W ustawie z dnia 9 czerwca 2011 Prawo geologiczne górnicze (Dz. U. z 2024 poz. 1290 oraz z 2025 „Art. 62. Do decyzji warunkach zabudowy, które stały się prawomocne przed dniem 1 stycznia 2026 r., lub które zostały wydane sprawach wszczętych przed dniem 16 października 2025 r., przepisu art. 64c ustawy zmienianej art. 1 nie stosuje się.”.
+
+**Art. 6.** W okresie od dnia wejścia życie niniejszej ustawy do dnia 31 grudnia 2026 r., bieg terminów, mowa art. 51 ust. 2 oraz art. 64 ust. 1 pkt 1 ustawy zmienianej art. 1, nie rozpoczyna się, a rozpoczęty przerywa się. Terminy biegną na nowo od dnia 1 stycznia 2027
 
 **Art. 7.**
 
-1. Wystąpienie wójta, burmistrza albo prezydenta miasta przed dniem wejścia życie niniejszej ustawy uzgodnienie projektu planu ogólnego gminy do organów niewymienionych 13i 5 b ustawy zmienianej 1, brzmieniu nadanym niniejszą ustawą, traktuje się jako wystąpienie opinię projekcie planu ogólnego gminy.
+1. Wystąpienie wójta, burmistrza albo prezydenta miasta przed dniem wejścia życie niniejszej ustawy uzgodnienie projektu planu ogólnego gminy do organów niewymienionych art. 13i ust. 3 pkt 5 lit. b ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, traktuje się jako wystąpienie opinię projekcie planu ogólnego gminy.
 
-2. Uzgodnienie odmowę uzgodnienia projektu planu ogólnego gminy dokonane przed dniem wejścia życie niniejszej ustawy przez organy niewymienione 13i 5 b ustawy zmienianej 1, brzmieniu nadanym niniejszą ustawą, traktuje się odpowiednio jako pozytywną albo negatywną opinię projekcie planu ogólnego gminy.
+2. Uzgodnienie odmowę uzgodnienia projektu planu ogólnego gminy dokonane przed dniem wejścia życie niniejszej ustawy przez organy niewymienione art. 13i ust. 3 pkt 5 lit. b ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, traktuje się odpowiednio jako pozytywną albo negatywną opinię projekcie planu ogólnego gminy.
 
-3. Postępowania prowadzone przez organy administracji publicznej sądy administracyjne związku z odmową uzgodnienia projektu planu ogólnego gminy przez organy niewymienione 13i 5 b ustawy zmienianej 1, brzmieniu nadanym niniejszą ustawą, ulegają umorzeniu.
+3. Postępowania prowadzone przez organy administracji publicznej sądy administracyjne związku z odmową uzgodnienia projektu planu ogólnego gminy przez organy niewymienione art. 13i ust. 3 pkt 5 lit. b ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, ulegają umorzeniu.
 
-**Art. 8.** Do spraw stwierdzenia nieważności uchwały rady gminy sprawie planu ogólnego wszczętych niezakończonych przed dniem wejścia życie niniejszej ustawy stosuje się przepis 51a ustawy zmienianej 5.
+**Art. 8.** Do spraw stwierdzenia nieważności uchwały rady gminy sprawie planu ogólnego wszczętych niezakończonych przed dniem wejścia życie niniejszej ustawy stosuje się przepis art. 51a ustawy zmienianej art. 5.
 
-**Art. 9.** Ustawa wchodzi życie po upływie 7 dni od ogłoszenia, z wyjątkiem 5 2, który wchodzi życie z dniem stycznia 2026 Prezydent Rzeczypospolitej Polskiej: K. Nawrocki
+**Art. 9.** Ustawa wchodzi życie po upływie 7 dni od dnia ogłoszenia, z wyjątkiem art. 5 pkt 2, który wchodzi życie z dniem 1 stycznia 2026 Prezydent Rzeczypospolitej Polskiej: K. Nawrocki
 

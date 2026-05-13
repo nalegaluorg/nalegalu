@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 18 czerwca 2025 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy opiece nad dziećmi wieku do lat 3
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 11 czerwca 2025 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2025-06-20 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000798) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/798/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 11 czerwca 2025 r.
-sprawie ogłoszenia jednolitego tekstu ustawy opiece nad dziećmi wieku do lat 3
 1. Na podstawie 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 4 lutego 2011 r. opiece nad dziećmi wieku do lat 3 (Dz. U. z 2024 r. poz. 338), z uwzględnieniem zmian wprowadzonych:
 1) ustawą z dnia 26 kwietnia 2024 r. zmianie ustawy pomocy społecznej oraz niektórych innych ustaw (Dz. U. poz. 743),
 2) ustawą z dnia 15 maja 2024 r. wspieraniu rodziców aktywności zawodowej oraz wychowaniu dziecka „Aktywny rodzic” (Dz. U. poz. 858),
@@ -38,7 +38,7 @@ poz. 743), który stanowi: „Art. 4. Ustawa wchodzi życie po upływie 14 dni o
 3. Dofinansowanie, którym 64c ust. 1 ustawy zmienianej 68, brzmieniu dotychczasowym, nie przysługuje, jeżeli na to samo dziecko, za dany miesiąc, zostało przyznane prawo do świadczeń „aktywny rodzic”.
 4. Świadczenia „aktywny rodzic” nie przysługują, jeżeli na to samo dziecko, za dany miesiąc, zostało przyznane prawo do dofinansowania, którym 64c ust. 1 ustawy zmienianej 68, brzmieniu dotychczasowym, z uwzględnieniem ust. 5.
 5. W przypadku złożenia wniosku ustalenie prawa do świadczenia „aktywnie żłobku” terminie 3 miesięcy od dnia wejścia życie niniejszej prawo do świadczenia „aktywnie żłobku” ustala się, począwszy od miesiąca wejścia życie niniejszej ustawy. Przepisy 47 ust. 2–4 stosuje się.
-dofinansowanie, którym 64c ust. 1 ustawy zmienianej 68, brzmieniu dotychczasowym, albo prawo do rodzinnego kapitału opiekuńczego, którym ustawie uchylanej 87, świadczenie „aktywny rodzic” rozlicza się poprzez zaliczenie odpowiednio wypłaconego dofinansowania, którym 64c ust. 1 ustawy zmienianej 68, brzmieniu dotychczasowym, albo rodzinnego kapitału opiekuńczego, którym ustawie uchylanej 87, poczet przyznanego świadczenia „aktywny rodzic”. Rozliczenie nie wymaga wydania decyzji nienależnie pobranym świadczeniu.
+6. W przypadku osób, które nabyły prawo do świadczenia „aktywny rodzic” za okres, za który zostało wypłacone dofinansowanie, którym 64c ust. 1 ustawy zmienianej 68, brzmieniu dotychczasowym, albo prawo do rodzinnego kapitału opiekuńczego, którym ustawie uchylanej 87, świadczenie „aktywny rodzic” rozlicza się poprzez zaliczenie odpowiednio wypłaconego dofinansowania, którym 64c ust. 1 ustawy zmienianej 68, brzmieniu dotychczasowym, albo rodzinnego kapitału opiekuńczego, którym ustawie uchylanej 87, poczet przyznanego świadczenia „aktywny rodzic”. Rozliczenie nie wymaga wydania decyzji nienależnie pobranym świadczeniu.
 7. Osoby, którym zostało przyznane prawo do rodzinnego kapitału opiekuńczego, którym ustawie uchylanej 87, zachowują prawo do tego kapitału, jeżeli spełniają dotychczasowe warunki określone ustawie uchylanej 87.
 8. W sprawach dotyczących rodzinnego kapitału opiekuńczego, którym ustawie uchylanej 87, do którego prawo powstało do dnia poprzedzającego dzień wejścia życie niniejszej stosuje się przepisy dotychczasowe.
 9. Rodzinny kapitał opiekuńczy, którym ustawie uchylanej 87, nie przysługuje, jeżeli na to samo dziecko, za dany miesiąc, zostało przyznane prawo do świadczeń „aktywny rodzic”.
@@ -66,8 +66,13 @@ dofinansowanie, którym 64c ust. 1 ustawy zmienianej 68, brzmieniu dotychczasowy
 
 2. Od wniosku, którym ust. 1, nie pobiera się opłaty.
 
-3. Wójt, burmistrz lub prezydent miasta prowadzący wykaz, którym 36 ust. 1a ustawy zmienianej 68, jest obowiązany do dnia 31 marca 2026 r. do uzupełnienia danych zawartych tym wykazie dane, któ1) ogłoszone przed dniem wejścia życie niniejszego przepisu programy, których 62 ust. 1 ustawy zmienianej 68, mogą być dofinansowane ze środków na finansowanie planu rozwojowego, których 14ln ust. 1 ustawy z dnia 6 grudnia 2006 r. zasadach prowadzenia polityki rozwoju (Dz. U. z 2024 r. poz. 324);
+3. Wójt, burmistrz lub prezydent miasta prowadzący wykaz, którym 36 ust. 1a ustawy zmienianej 68, jest obowiązany do dnia 31 marca 2026 r. do uzupełnienia danych zawartych tym wykazie dane, których 46 ust. 2 7a ustawy zmienianej 68.
 
+**Art. 78.**
+
+1. Uznaje się, że od dnia 19 stycznia 2023 r.:
+
+- **1)** ogłoszone przed dniem wejścia życie niniejszego przepisu programy, których 62 ust. 1 ustawy zmienianej 68, mogą być dofinansowane ze środków na finansowanie planu rozwojowego, których 14ln ust. 1 ustawy z dnia 6 grudnia 2006 r. zasadach prowadzenia polityki rozwoju (Dz. U. z 2024 r. poz. 324);
 - **2)** przyznanie środków finansowych, których 1, ramach realizacji programów, których 1, mogą ubiegać się podmioty, których 8 ust. 1 ustawy zmienianej 68, które nie figurują rejestrze podmiotów wykluczonych z możliwości otrzymania środków przeznaczonych na realizację programów finansowanych z udziałem środków europejskich, którym 210 ust. 1 ustawy zmienianej 67;
 - **3)** wojewoda może przyznawać dofinansowanie do wysokości łącznej kwoty wydatków określonych ministra właściwego do spraw rodziny na cały okres realizacji programów, których 1;
 - **4)** do terminu zwrotu środków, których 62 ust. 1a 3 ustawy zmienianej 68, stosuje się odpowiednio przepisy wydane na podstawie 189 ust. 4 ustawy zmienianej 67.
@@ -118,7 +123,7 @@ dofinansowanie, którym 64c ust. 1 ustawy zmienianej 68, brzmieniu dotychczasowy
 - **6)** dane stanie zdrowia, stosowanej diecie i rozwoju psychofizycznym dziecka;
 - **7)** dane wysokości dochodów rodziców przypadku ubiegania się rodziców częściowe lub całkowite zwolnienie z opłat, jeżeli zwolnienie to jest uzależnione od wysokości dochodów.
 
-2. Podmiot prowadzący żłobek lub klub dziecięcy, podmiot zatrudniający dziennego opiekuna oraz dzienny opiekun prowadzący działalność na własny rachunek przetwarzają dane, których ust. 1, wyłącznie związku z rekrutacją oraz zakresie i celu zapewnienia dziecku prawidłowej opieki, oraz celu realizacji Zakład Ubezpieczeń Społecznych świadczenia „aktywnie żłobku”, którym ustawie z dnia 15 maja 2024 r. wspieraniu rodziców aktywności zawodowej oraz wychowaniu dziecka „Aktywny rodzic” (Dz. U. poz. 858 oraz z 2025 r. poz. 619). badaniom sanitarno-epidemiologicznym zgodnie z ustawą z dnia 5 grudnia 2008 r. zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2024 r. poz. 924 i 1897).
+2. Podmiot prowadzący żłobek lub klub dziecięcy, podmiot zatrudniający dziennego opiekuna oraz dzienny opiekun prowadzący działalność na własny rachunek przetwarzają dane, których ust. 1, wyłącznie związku z rekrutacją oraz zakresie i celu zapewnienia dziecku prawidłowej opieki, oraz celu realizacji Zakład Ubezpieczeń Społecznych świadczenia „aktywnie żłobku”, którym ustawie z dnia 15 maja 2024 r. wspieraniu rodziców aktywności zawodowej oraz wychowaniu dziecka „Aktywny rodzic” (Dz. U. poz. 858 oraz z 2025 r. poz. 619). i chorób zakaźnych u ludzi (Dz. U. z 2024 r. poz. 924 i 1897).
 
 **Art. 5.** Minister właściwy do spraw rodziny:
 
@@ -156,7 +161,7 @@ dofinansowanie, którym 64c ust. 1 ustawy zmienianej 68, brzmieniu dotychczasowy
 - **2)** osoby fizyczne;
 - **3)** osoby prawne i jednostki organizacyjne nieposiadające osobowości prawnej.
 
-2. Jednostki samorządu terytorialnego tworzą żłobki i kluby dziecięce formie samorządowych jednostek budżetowych. instytucjach.
+2. Jednostki samorządu terytorialnego tworzą żłobki i kluby dziecięce formie samorządowych jednostek budżetowych.
 
 2b. Do żłobka lub klubu dziecięcego prowadzonych instytucje publiczne mogą być przyjmowane dzieci inne niż dzieci pracowników zatrudnionych tych instytucjach, jeżeli żłobku lub klubie dziecięcym są wolne miejsca.
 
@@ -201,7 +206,7 @@ dofinansowanie, którym 64c ust. 1 ustawy zmienianej 68, brzmieniu dotychczasowy
 
 1. Godziny pracy żłobka lub klubu dziecięcego ustala się regulaminie organizacyjnym, którym 21, biorąc pod uwagę opinie rodziców.
 
-2. W żłobku i klubie dziecięcym zapewnia się opiekę nad dzieckiem wymiarze do 10 godzin dziennie względem każdego dziecka. rodzica dziecka, wydłużony, za dodatkową opłatą.
+2. W żłobku i klubie dziecięcym zapewnia się opiekę nad dzieckiem wymiarze do 10 godzin dziennie względem każdego dziecka.
 
 4. (uchylony)
 
@@ -248,7 +253,7 @@ dofinansowanie, którym 64c ust. 1 ustawy zmienianej 68, brzmieniu dotychczasowy
 2. Jeden opiekun może sprawować opiekę:
 
 - **1)** żłobku nad maksymalnie ośmiorgiem dzieci, a przypadku gdy grupie znajduje się dziecko niepełnosprawne, dziecko wymagające szczególnej opieki lub dziecko, które nie ukończyło pierwszego roku życia maksymalnie nad pięciorgiem dzieci;
-- **2)** klubie dziecięcym nad maksymalnie ośmiorgiem dzieci, a przypadku gdy grupie znajduje się dziecko niepełnosprawne lub dziecko wymagające szczególnej opieki maksymalnie nad pięciorgiem dzieci. położną.
+- **2)** klubie dziecięcym nad maksymalnie ośmiorgiem dzieci, a przypadku gdy grupie znajduje się dziecko niepełnosprawne lub dziecko wymagające szczególnej opieki maksymalnie nad pięciorgiem dzieci.
 
 4. Dyrektorem żłobka, osobą kierującą pracą klubu dziecięcego, osobą, 8 ust. 1 2, opiekunem, pielęgniarką, położną, wolontariuszem lub inną osobą zatrudnioną do wykonywania pracy lub świadczenia usług żłobku lub klubie dziecięcym nie może być osoba, która figuruje bazie danych Rejestru Sprawców Przestępstw na Tle Seksualnym z dostępem ograniczonym lub została skazana prawomocnym wyrokiem za inne przestępstwo umyślne.
 
@@ -385,7 +390,7 @@ dofinansowanie, którym 64c ust. 1 ustawy zmienianej 68, brzmieniu dotychczasowy
 
 5. Adres będącego osobą fizyczną podmiotu prowadzącego żłobek lub klub dziecięcy, jeżeli jest inny niż adres prowadzenia tę osobę żłobka lub klubu dziecięcego, informacja spełnianiu poszczególnych fakultatywnych standardów opieki określonych przepisach wydanych na podstawie 6c oraz dane i informacje, których ust. 4 11–13, nie podlegają ujawnieniu na stronach podmiotowych gminy prowadzącej rejestr i ministra właściwego do spraw rodziny.
 
-6. Informacje, których ust. 4, są przetwarzane ministra właściwego do spraw rodziny celu umożliwienia prowadzenia rejestru, monitorowania spełniania żłobki i kluby dziecięce standardów opieki określonych przepisach wydanych na podstawie 6c oraz umożliwienia uzyskania rodziców świadczenia „aktywni rodzice pracy” lub świadczenia „aktywnie żłobku”, których ustawie z dnia 15 maja 2024 r. wspieraniu rodziców aktywności zawodowej oraz wychowaniu dziecka „Aktywny rodzic”, realizacji prawa do tych świadczeń Zakład Ubezpieczeń Społecznych, a także monitorowania realizacji tego prawa. złożonego podmiot zamierzający prowadzić żłobek lub klub dziecięcy. Wniosek zawiera:
+6. Informacje, których ust. 4, są przetwarzane ministra właściwego do spraw rodziny celu umożliwienia prowadzenia rejestru, monitorowania spełniania żłobki i kluby dziecięce standardów opieki określonych przepisach wydanych na podstawie 6c oraz umożliwienia uzyskania rodziców świadczenia „aktywni rodzice pracy” lub świadczenia „aktywnie żłobku”, których ustawie z dnia 15 maja 2024 r. wspieraniu rodziców aktywności zawodowej oraz wychowaniu dziecka „Aktywny rodzic”, realizacji prawa do tych świadczeń Zakład Ubezpieczeń Społecznych, a także monitorowania realizacji tego prawa.
 
 - **1)** przypadku osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej numer lub indeks identyfikujący podmiot we właściwym rejestrze publicznym, potwierdzający status podmiotu;
 - **2)** numer NIP, ile wnioskodawcy taki numer nadano;
@@ -907,7 +912,7 @@ dofinansowanie, którym 64c ust. 1 ustawy zmienianej 68, brzmieniu dotychczasowy
 
 - **1)** otrzymał płatność na podstawie przedstawionych jako autentyczne dokumentów podrobionych lub przerobionych lub dokumentów potwierdzających nieprawdę lub
 - **2)** nie zwrócił środków wraz z odsetkami terminie 14 dni od dnia upływu terminu, którym ust. 10, lub
-- **3)** okoliczności, których ust. 10, wystąpiły wskutek popełnienia przestępstwa podmiot upoważniony do dokonywania wydatków, a przypadku gdy podmiot ten nie jest osobą fizyczną osobę uprawnioną do wykonywania czynności imieniu podmiotu, przy czym fakt popełnienia przestępstwa wyżej wymieniony podmiot został potwierdzony prawomocnym wyrokiem sądowym. 27 sierpnia 2009 r. finansach publicznych.
+- **3)** okoliczności, których ust. 10, wystąpiły wskutek popełnienia przestępstwa podmiot upoważniony do dokonywania wydatków, a przypadku gdy podmiot ten nie jest osobą fizyczną osobę uprawnioną do wykonywania czynności imieniu podmiotu, przy czym fakt popełnienia przestępstwa wyżej wymieniony podmiot został potwierdzony prawomocnym wyrokiem sądowym.
 
 15. Do spraw dotyczących należności z tytułu zwrotu środków, których ust. 1a, przeznaczonych na realizację programów, których ust. 1, oraz innych należności związanych z realizacją tych programów, a także odsetek od tych środków i od tych należności, zakresie nieuregulowanym niniejszej ustawie stosuje się:
 
@@ -954,7 +959,7 @@ dofinansowanie, którym 64c ust. 1 ustawy zmienianej 68, brzmieniu dotychczasowy
 
 - **59)** 1. Minister właściwy do spraw rodziny może opracowywać resortowe oraz rządowe programy dofinansowania zadań z zakresu organizacji opieki nad dziećmi wieku do lat 3.
 
-2. Programy, których ust. 1, kieruje się szczególności do jednostek samorządu terytorialnego. Funduszu Pracy.
+2. Programy, których ust. 1, kieruje się szczególności do jednostek samorządu terytorialnego.
 
 4. Do udzielania dotacji celowych z budżetu państwa na realizację zadań, których ust. 1, nie stosuje się przepisu 128 ust. 2 ustawy z dnia 27 sierpnia 2009 r. finansach publicznych.
 
@@ -1075,7 +1080,7 @@ dofinansowanie, którym 64c ust. 1 ustawy zmienianej 68, brzmieniu dotychczasowy
 2. Do pracowników żłobków zatrudnionych do dnia wejścia życie ustawy w:
 
 - **1)** publicznych zakładach opieki zdrowotnej, stosuje się przepisy pracownikach samorządowych;
-- **2)** niepublicznych zakładach opieki zdrowotnej, stosuje się przepisy Kodeksu pracy. zane do odbycia szkoleń, których niniejszej ustawie.
+- **2)** niepublicznych zakładach opieki zdrowotnej, stosuje się przepisy Kodeksu pracy.
 
 4. Osoby zatrudnione do opieki żłobkach, działających na podstawie przepisów dotychczasowych, nieposiadające średniego wykształcenia, a pozostające zatrudnieniu dniu wejścia życie niniejszej są zobowiązane do jego uzupełnienia okresie 3 lat od dnia wejścia życie tej ustawy.
 

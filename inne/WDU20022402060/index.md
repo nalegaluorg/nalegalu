@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# rozporządzenie Komisji (WE) nr 1639/2000 premie gwarantowane progi dla liści tytoniu dnia 25 lipca 2000 r. zmieniające aneks I do podziałem grupy odmian Państwa Członrozporządzenia (WE) nr 2636/1999 sprawie kowskie dla zbiorów 2002, 2003 i2004 zmieprzekazywania informacji dotyczących tyto- niające rozporządzenie Rady (EWG) nr 2075/92, niu od zbiorów w2000 r., b)rozporządzenie Komisji (WE) nr 1648/2000 rozporządzenie Komisji (WE) nr 384/2001 zdnia 25 lipca 2000 r. określające szczegółowe zdnia 26 lutego 2001 r. zmieniające rozporzą- zasady stosowania rozporządzenia Rady dzenie (WE) nr 2636/1999 odniesieniu do (EWG) nr 2075/92 odniesieniu do Wspólnoprzekazywania informacji ośredniej cenie dla towego Funduszu Tytoniowego uchylająkażdej grupy odmian tytoniu. ce rozporządzenie Komisji (EWG) nr 2427/93.
+# o zmianie ustawy o pracy na morskich statkach handlowych o zmianie ustawy o bezpieczeństwie morskim
+
+*USTAWA z dnia 20 grudnia 2002 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,10 +26,11 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20022402060) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/2060/text.pdf) |
 
-USTAWA zdnia 20 grudnia 2002 r.
-ozmianie ustawy opracy morskich statkach handlowych ozmianie ustawy obezpieczeństwie morskim.
+**Art. 1.** W ustawie z dnia 23 maja 1991 r. o pracy na morskich statkach handlowych (Dz. U. Nr 61, poz. 258, z 1994 r. Nr 113, poz. 547, z 1998 r. Nr 113, poz. 717 z 2000 r. Nr 109, poz. 1156) wprowadza się następujące zmiany:
 
-**Art. 1.** Wustawie zdnia 23 maja 1991 r. opracy morskich statkach handlowych (Dz. U. 61, poz. 258, z1994 r. 113, poz. 547, z1998 r. 113, poz. 717 2000 r. 109, poz. 1156) wprowadza następujące zmiany:
+**Art. 2.** W ustawie z dnia 9 listopada 2000 r. o bezpieczeństwie morskim (Dz. U. Nr 109, poz. 1156 ) wprowadza się następujące zmiany: zakresie bezpieczeństwa higieny pracy warunków sanitarnych, określonym w:
 
-**Art. 4.** Ustawa wchodzi życie dniem 1 stycznia 2003 r. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 2061 ROZPORZÑDZENIE MINISTRA FINANSÓW zdnia 24 grudnia 2002 r. wsprawie informacji podatkowych. Na podstawie art. 82 § 6, art. 82a§ 2 iart. 85 ustawy dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. 137, poz. 926, zpóên. zm.
+**Art. 3.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 16, art. 19 ust. 4 art. 20 ust. 3 ustawy zmienianej art. 1 zachowują moc do czasu wydania nowych przepisów wykonawczych na podstawie art. 16, art. 19 ust. 4 art. 20 ust. 5 ustawy zmienianej art. 1 brzmieniu nadanym niniejszej ustawie.
+
+**Art. 4.** Ustawa wchodzi życie z dniem 1 stycznia 2003 r.
 

@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 25 kwietnia 2023 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy udzielaniu przez Skarb Państwa wsparcia instytucjom finansowym
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ dnia 10 marca 2023 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000776) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/776/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ dnia 10 marca 2023 r.
-sprawie ogłoszenia jednolitego tekstu ustawy udzielaniu przez Skarb Państwa wsparcia instytucjom finansowym
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy dnia 20 lipca 2000 r. ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. 2019 r. poz. 1461) ogłasza się załączniku niniejszego obwieszczenia jednolity tekst ustawy dnia 12 lutego 2009 r. udzielaniu przez Skarb Państwa wsparcia instytucjom finansowym (Dz. U. 2022 r.
 poz. 2506), uwzględnieniem zmian wprowadzonych ustawą dnia 1 grudnia 2022 r. zmianie ustawy podatku akcyzowym niektórych innych ustaw (Dz. U. poz. 2707) zmian wynikających przepisów ogłoszonych przed dniem 7 marca 2023 r.
 2. Podany załączniku niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 23 i art. 24 ustawy dnia 1 grudnia 2022 r. zmianie ustawy podatku akcyzowym niektórych innych ustaw (Dz. U. poz. 2707), które stanowią: „Art. 23. Przepisy art. 6 ust. 8a, 8b, 10a i 10b ustawy zmienianej art. 7 stosuje się również niezaspokojonych dniu wejścia życie niniejszej ustawy odpowiednio należności Skarbu Państwa tytułu wypłaty gwarancji dla Polskiego należności Polskiego tytułu udzielenia kredytu refinansowego.
@@ -51,7 +51,7 @@ poz. 2506), uwzględnieniem zmian wprowadzonych ustawą dnia 1 grudnia 2022 r. z
 
 3. W celu zabezpieczenia wierzytelności wynikających udzielonego wsparcia, którym ust. 1 pkt 1–5, minister właściwy spraw finansów publicznych żąda ustanowienia zabezpieczenia gwarantującego zwrot pełnej kwoty wsparcia wraz odsetkami.
 
-4. Zabezpieczenie, którym ust. 3, może być ustanowione formach przewidzianych ustawie dnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. 2022 r. poz. 1360, 2337 i 2339 2023 r. poz. 326), ustawie dnia 28 kwietnia 1936 r. Prawo wekslowe (Dz. U. 2022 r. poz. 282), ustawie dnia 6 grudnia 1996 r. zastawie rejestrowym i rejestrze zastawów (Dz. U. 2018 r. poz. 2017), ustawie dnia 2 kwietnia 2004 r. niektórych zabezpieczeniach finansowych (Dz. U. 2022 r. poz. 133) zwyczajami przyjętymi obrocie krajowym i zagranicznym. ust. 3, nie wchodzi masy upadłości ani masy układowej.
+4. Zabezpieczenie, którym ust. 3, może być ustanowione formach przewidzianych ustawie dnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. 2022 r. poz. 1360, 2337 i 2339 2023 r. poz. 326), ustawie dnia 28 kwietnia 1936 r. Prawo wekslowe (Dz. U. 2022 r. poz. 282), ustawie dnia 6 grudnia 1996 r. zastawie rejestrowym i rejestrze zastawów (Dz. U. 2018 r. poz. 2017), ustawie dnia 2 kwietnia 2004 r. niektórych zabezpieczeniach finansowych (Dz. U. 2022 r. poz. 133) zwyczajami przyjętymi obrocie krajowym i zagranicznym.
 
 **Art. 4.**
 
@@ -85,7 +85,7 @@ poz. 2506), uwzględnieniem zmian wprowadzonych ustawą dnia 1 grudnia 2022 r. z
 
 4. Do chwili ujawnienia cesjonariusza odpowiednim rejestrze przelew wierzytelności, którym ust. 3, jest bezskuteczny stosunku dłużnika rzeczowego. W razie wygaśnięcia hipoteki albo zastawu rejestrowego przed ujawnieniem cesjonariusza odpowiednim rejestrze cedent jest obowiązany dokonać wszelkich czynności umożliwiających wykreślenie hipoteki księgi wieczystej albo zastawu rejestrowego rejestru zastawów.
 
-5. Z chwilą zawiadomienia sądu, sądu polubownego lub organu prowadzącego postępowanie administracyjne przelewie wierzytelności na zabezpieczenie gwarancji, których ust. 1, Skarb Państwa wstępuje mocy prawa miejsce instytucji finansowej postępowań cywilnych, administracyjnych, sądowo-administracyjnych przed sądami polubowwydanego przez ministra właściwego spraw finansów publicznych.
+5. Z chwilą zawiadomienia sądu, sądu polubownego lub organu prowadzącego postępowanie administracyjne przelewie wierzytelności na zabezpieczenie gwarancji, których ust. 1, Skarb Państwa wstępuje mocy prawa miejsce instytucji finansowej postępowań cywilnych, administracyjnych, sądowo-administracyjnych przed sądami polubownymi, dotyczących przelanych wierzytelności, bez zezwolenia strony przeciwnej albo osoby trzeciej, która ma interes prawny. wydanego przez ministra właściwego spraw finansów publicznych.
 
 7. Z chwilą zaspokojenia należności Polskiego tytułu udzielenia kredytu refinansowego, którym art. 42 ustawy dnia 29 sierpnia 1997 r. Narodowym Polskim przypadku braku zaspokojenia Skarbu Państwa tytułu wypłaty gwarancji dla Polskiego na Skarb Państwa mocy prawa przechodzi nadwyżka środków pieniężnych i pozostałe zabezpieczenie tego kredytu, a przypadku, którym zabezpieczenie to stanowią wierzytelności, na Skarb Państwa mocy prawa przechodzą także wszelkie prawa związane tymi wierzytelnościami.
 

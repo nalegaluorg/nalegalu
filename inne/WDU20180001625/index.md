@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 23 sierpnia 2018 r.
+# o zmianie ustawy o rozwoju lokalnym z udziałem lokalnej społeczności
+
+*USTAWA z dnia 20 lipca 2018 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +25,6 @@ domain: null
 | Data wydania | 2018-08-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001625) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1625/text.pdf) |
-
-Poz. 1625
-USTAWA z dnia 20 lipca 2018 r.
-o zmianie ustawy o rozwoju lokalnym z udziałem lokalnej społeczności
 
 **Art. 1.** W ustawie z dnia 20 lutego 2015 r. o rozwoju lokalnym z udziałem lokalnej społeczności (Dz. U. z 2018 r. poz. 140) wprowadza się następujące zmiany:
 

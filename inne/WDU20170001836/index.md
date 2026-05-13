@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 3 października 2017 r.
+# zmieniająca ustawę o zmianie ustawy o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt
+
+*USTAWA z dnia 15 września 2017 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +25,6 @@ domain: null
 | Data wydania | 2017-10-03 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001836) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1836/text.pdf) |
-
-Poz. 1836
-USTAWA z dnia 15 września 2017 r.
-zmieniająca ustawę o zmianie ustawy o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt
 
 **Art. 1.** W ustawie z dnia 20 lutego 2015 r. o zmianie ustawy o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt (Dz. U. poz. 470 oraz z 2016 r. poz. 1605) w art. 2 w ust. 1 w:
 

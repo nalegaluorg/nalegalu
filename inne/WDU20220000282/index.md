@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 7 lutego 2022 r.
+# w sprawie ogłoszenia jednolitego tekstu ustawy Prawo wekslowe
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 21 grudnia 2021 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000282) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/282/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 21 grudnia 2021 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy Prawo wekslowe
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 28 kwietnia 1936 r. Prawo wekslowe (Dz. U. z 2016 r. poz. 160), z uwzględnieniem zmian wprowadzonych ustawą z dnia 11 sierpnia 2021 r. o zmianie ustawy Kodeks postępowania cywilnego oraz niektórych innych ustaw (Dz. U. poz. 1655) oraz zmian wynikających z przepisów ogłoszonych przed dniem 14 grudnia 2021 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 8 i art. 9 ustawy z dnia 11 sierpnia 2021 r. o zmianie ustawy Kodeks postępowania cywilnego oraz niektórych innych ustaw (Dz. U. poz. 1655), które stanowią: „Art. 8. 1. W sprawach wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, w których przed dniem wejścia w życie niniejszej ustawy został wydany nakaz zapłaty, stosuje się art. 480 § 1 i 2 ustawy zmienianej w art. 1 oraz art. 19 ust. 4 ustawy zmienianej w art. 6, w brzmieniu dotychczasowym.
 2. W sprawach wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się art. 16 ust. 1 zdanie drugie ustawy zmienianej w art. 5, w brzmieniu nadanym niniejszą ustawą.
@@ -148,8 +148,8 @@ Trasat, który płaci przed terminem płatności, czyni to na własne niebezpiec
 Kto płaci w terminie płatności, zwolniony jest z zobowiązania, chyba że dopuścił się podstępu lub rażącego niedbalstwa. Obowiązany jest do sprawdzenia prawidłowości szeregu indosów, lecz nie do sprawdzenia podpisów indosantów.
 41. Jeżeli weksel wystawiono na walutę, która nie jest walutą miejsca płatności, sumę wekslową można zapłacić w walucie krajowej podług jej wartości w dniu płatności. Jeżeli dłużnik dopuści się zwłoki, posiadacz może żądać zapłaty sumy wekslowej w walucie krajowej według swego wyboru albo podług jej kursu w dniu płatności, albo podług jej kursu w dniu zapłaty.
 Wartość waluty zagranicznej oznacza się podług zwyczajów miejsca płatności. Wystawca jednak może zastrzec, że suma, przypadająca do zapłaty, ma być obliczona podług kursu, ustanowionego w wekslu.
-walucie (zastrzeżenie zapłaty rzeczywistej w walucie zagranicznej).
-Jeżeli weksel wystawiono na walutę, mającą w kraju wystawienia i w kraju zapłaty tę samą nazwę, lecz inną wartość, domniemywa się, że miano na myśli walutę miejsca płatności.
+Zasad powyższych nie stosuje się do przypadku, gdy wystawca zastrzegł, że zapłata ma być uiszczona w oznaczonej walucie (zastrzeżenie zapłaty rzeczywistej w walucie zagranicznej).
+domniemywa się, że miano na myśli walutę miejsca płatności.
 42. W przypadku nieprzedstawienia wekslu do zapłaty w terminie, oznaczonym w art. 38, każdy dłużnik może złożyć sumę wekslową do depozytu sądu miejsca płatności wekslu na koszt i niebezpieczeństwo posiadacza.
 43. Posiadacz wekslu może wykonywać zwrotne poszukiwanie przeciw indosantom, wystawcy, tudzież innym dłużnikom wekslowym: po terminie płatności, jeżeli zapłata nie nastąpiła;
 już przed terminem płatności:
@@ -166,7 +166,8 @@ W przypadku otwarcia postępowania restrukturyzacyjnego albo ogłoszenia upadło
 45. Posiadacz wekslu powinien o nieprzyjęciu lub o niezapłaceniu zawiadomić swojego indosanta i wystawcę w ciągu czterech dni powszednich, następujących po dniu protestu, a w przypadku zastrzeżenia „bez kosztów” po dniu przedstawienia. Każdy indosant powinien w ciągu dwóch dni powszednich, następujących po dniu, w którym otrzymał zawiadomienie, podać do wiadomości swojego poprzednika otrzymane zawiadomienia, wskazując nazwiska i adresy tych, którzy dokonali zawiadomień poprzednich, i tak kolejno aż do wystawcy. Terminy powyższe biegną od otrzymania zawiadomienia poprzedniego.
 Ilekroć w myśl ustępu poprzedzającego zawiadamia się osobę, podpisaną na wekslu, należy tak samo w tymże terminie zawiadomić jej poręczyciela.
 Jeżeli indosant nie wskazał swego adresu lub podał go w sposób nieczytelny, wystarczy zawiadomienie poprzedzającego go indosanta.
-Obowiązany do zawiadomienia ma udowodnić, że dokonał go w przepisanym terminie. Termin ten uważa się jako zachowany, jeżeli pismo z zawiadomieniem oddano w polskiej placówce pocztowej operatora wyznaczonego w rozumieniu ustawy z dnia 23 listopada 2012 r. Prawo pocztowe (Dz. U. z 2020 r. poz. 1041 i 2320) w przepisanym terminie.
+Zawiadomienia można dokonać w jakikolwiek sposób, nawet przez proste odesłanie wekslu.
+zachowany, jeżeli pismo z zawiadomieniem oddano w polskiej placówce pocztowej operatora wyznaczonego w rozumieniu ustawy z dnia 23 listopada 2012 r. Prawo pocztowe (Dz. U. z 2020 r. poz. 1041 i 2320) w przepisanym terminie.
 Kto nie zawiadomi w czasie powyżej oznaczonym, nie traci praw z wekslu, odpowiada jednak za szkodę, spowodowaną przez swe niedbalstwo, tylko do sumy, na jaką weksel jest wystawiony.
 46. Wystawca, indosant albo poręczyciel przez zastrzeżenie „bez kosztów”, „bez protestu” lub przez inne równoznaczne, napisane na wekslu i podpisane, mogą zwolnić posiadacza wekslu od protestu spowodu nieprzyjęcia lub niezapłacenia, jako warunku zwrotnego poszukiwania.
 Zastrzeżenie takie nie zwalnia posiadacza ani od przedstawienia wekslu w przepisanym terminie, ani od obowiązku zawiadomienia. Dowód niezachowania terminu przedstawienia ciąży na tym, kto się na tę okoliczność powołuje wobec posiadacza.

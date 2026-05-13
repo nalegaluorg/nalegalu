@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 14 listopada 2017 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy o Centralnym Ośrodku Badania Odmian Roślin Uprawnych
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 30 października 2017 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,31 +26,29 @@ domain: null
 | Ostatnia zmiana | 2024-04-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002109) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2109/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 30 października 2017 r.
-sprawie ogłoszenia jednolitego tekstu ustawy o Centralnym O ś rodku Badania Odmian Ro ś lin Uprawnych
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 25 listopada 2010 r. o Centralnym Ośrodku Badania Odmian Roślin Uprawnych (Dz. U.
-Nr 239, poz. 1591), z uwzględnieniem zmian wprowadzonych:
+1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 25 listopada 2010 r. o Centralnym Ośrodku Badania Odmian Roślin Uprawnych (Dz. U. Nr 239, poz. 1591), z uwzględnieniem zmian wprowadzonych:
 1) ustawą z dnia 9 listopada 2012 r. o nasiennictwie (Dz. U. poz. 1512),
-2) ustawą z dnia 16 grudnia 2016 r. Przepisy wprowadzające ustawę o zasadach zarządzania mieniem państwowym (Dz. U. poz. 2260) oraz zmian wynikających z przepisów ogłoszonych przed dniem 26 października 2017 r.
+2) ustawą z dnia 16 grudnia 2016 r. Przepisy wprowadzające ustawę o zasadach zarządzania mieniem państwowym (Dz.
+U. poz. 2260) oraz zmian wynikających z przepisów ogłoszonych przed dniem 26 października 2017 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1) art. 21 ustawy z dnia 25 listopada 2010 r. o Centralnym Ośrodku Badania Odmian Roślin Uprawnych (Dz. U. Nr 239, poz. 1591), który stanowi: „Art. 21. W ustawie z dnia 26 czerwca 2003 r. o nasiennictwie (Dz. U. z 2007 r. Nr 41, poz. 271, z późn. zm. ) uchyla się rozdział 3.”;
 2) odnośnika nr 2 oraz art. 141 ustawy z dnia 9 listopada 2012 r. o nasiennictwie (Dz. U. poz. 1512), które stanowią: „ Przepisy niniejszej ustawy:
 1) wdrażają postanowienia:
 a) dyrektywy Rady 66/401/WE z dnia 14 czerwca 1966 r. sprawie obrotu materiałem siewnym roślin pastewnych (Dz. Urz. WE L 125 z 11.07.1966, str. 2298, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 1, str. 55, z późn. zm.),
 b) dyrektywy Rady 66/402/WE z dnia 14 czerwca 1966 r. sprawie obrotu materiałem siewnym roślin zbożowych (Dz. Urz. WE L 125 z 11.07.1966, str. 2309, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 1, str. 66, z późn. zm.),
-c) dyrektywy Rady 68/193/EWG z dnia 9 kwietnia 1968 r. sprawie wprowadzania do obrotu materiału do wegetatywnego rozmnażania winorośli (Dz. Urz. WE L 93 z 17.04.1968, str. 15, z późn. zm.;
-Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 1, str. 123, z późn. zm.),
-d) dyrektywy Rady 98/56/EWG z dnia 20 lipca 1998 r. sprawie obrotu materiałem rozmno ż eniowym ro ś lin ozdobnych (Dz. Urz. WE L 226 z 13.08.1998, str. 16, z pó ź n. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 23, str. 363, z pó ź n. zm.),
+c) dyrektywy Rady 68/193/EWG z dnia 9 kwietnia 1968 r. sprawie wprowadzania do obrotu materiału do wegetatywnego rozmnażania winorośli (Dz. Urz. WE L 93 z 17.04.1968, str. 15, z późn. zm.; Dz. Urz.
+UE Polskie wydanie specjalne, rozdz. 3, t. 1, str. 123, z późn. zm.),
+d) dyrektywy Rady 98/56/EWG z dnia 20 lipca 1998 r. sprawie obrotu materiałem rozmnożeniowym roślin ozdobnych (Dz. Urz. WE L 226 z 13.08.1998, str. 16, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 23, str. 363, z późn. zm.),
 e) dyrektywy Komisji 93/17/EWG z dnia 30 marca 1993 r. określającej wspólnotowe klasy dla elitarnych sadzeniaków ziemniaka, wraz z warunkami oraz oznaczeniami stosowanymi dla tych klas (Dz. Urz.
 WE L 106 z 30.04.1993, str. 7; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 14, str. 169),
-f) dyrektywy Komisji 93/48/EWG z dnia 23 czerwca 1993 r. określającej wykaz wskazujący warunki, jakie mają być spełnione przez materiał rozmnożeniowy roślin owocowych i rośliny owocowe przeznaczone do produkcji owoców, zgodnie z dyrektywą Rady 92/34/ EWG (Dz. Urz. WE L 250 z 07.10.1993, str. 1; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 15, str. 83),
-g) dyrektywy Komisji 93/61/EWG z dnia 2 lipca 1993 r. określającej wykazy wskazujące warunki, jakie mają być spełnione przez materiał rozmnożeniowy i nasadzeniowy warzyw, inny niż nasiona, zgodnie z dyrektywą Rady 92/33/EWG (Dz. Urz. WE L 250 z 07.10.1993, str. 19; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 15, str. 101),
+f) dyrektywy Komisji 93/48/EWG z dnia 23 czerwca 1993 r. określającej wykaz wskazujący warunki, jakie mają być spełnione przez materiał rozmnożeniowy roślin owocowych i rośliny owocowe przeznaczone do produkcji owoców, zgodnie z dyrektywą Rady 92/34/ EWG (Dz. Urz. WE L 250 z 07.10.1993, str. 1;
+Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 15, str. 83),
+g) dyrektywy Komisji 93/61/EWG z dnia 2 lipca 1993 r. określającej wykazy wskazujące warunki, jakie mają być spełnione przez materiał rozmnożeniowy i nasadzeniowy warzyw, inny niż nasiona, zgodnie specjalne, rozdz. 3, t. 15, str. 101),
 h) dyrektywy Komisji 93/62/EWG z dnia 5 lipca 1993 r. ustanawiającej środki wykonawcze dotyczące nadzoru i monitorowania dostawców i zakładów zgodnie z dyrektywą 92/33/EWG sprawie obrotu materiałem rozmnożeniowym oraz nasadzeniowym warzyw, innym niż materiał siewny (Dz. Urz.
 WE L 250 z 07.10.1993, str. 29; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 15, str. 111),
 i) dyrektywy Komisji 93/64/EWG z dnia 5 lipca 1993 r. ustanawiającej środki wykonawcze dotyczące nadzoru i monitorowania dostawców i obiektów zgodnie z dyrektywą 92/34/EWG sprawie obrotu materiałem rozmnożeniowym roślin owocowych oraz roślinami owocowymi przeznaczonymi do produkcji owoców (Dz. Urz. WE L 250 z 07.10.1993, str. 33; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 15, str. 113),
 j) dyrektywy Komisji 93/79/EWG z dnia 21 września 1993 r. określającej dodatkowe przepisy wykonawcze dla wykazów odmian materiału rozmnożeniowego roślin owocowych oraz roślin owocowych przechowywanych przez dostawców zgodnie z dyrektywą 92/34/EWG (Dz. Urz. WE L 256 z 14.10.1993, str. 25; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 15, str. 115),
-k) dyrektywy Komisji 1999/66/WE z dnia 28 czerwca 1999 r. ustalającej wymagania dotyczące etykiety lub innego dokumentu sporządzonego przez dostawcę zgodnie z dyrektywą 98/56/WE (Dz. Urz.
-WE L 164 z 30.06.1999, str. 76; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 25, str. 450),
+k) dyrektywy Komisji 1999/66/WE z dnia 28 czerwca 1999 r. ustalającej wymagania dotyczące etykiety lub innego dokumentu sporządzonego przez dostawcę zgodnie z dyrektywą 98/56/WE (Dz. Urz. WE L 164 z 30.06.1999, str. 76; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 25, str. 450),
 l) dyrektywy Komisji 1999/68/WE z dnia 28 czerwca 1999 r. określającej dodatkowe przepisy odniesieniu do wykazów odmian roślin ozdobnych prowadzonych przez dostawców na mocy dyrektywy 98/56/WE (Dz. Urz. WE L 172 z 08.07.1999, str. 42, Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 26, str. 8),
 m) dyrektywy Rady 2002/53/WE z dnia 13 czerwca 2002 r. sprawie Wspólnego katalogu odmian gatunków roślin rolniczych (Dz. Urz. WE L 193 z 20.07.2002, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 36, str. 281, z późn. zm.),
 n) dyrektywy Rady 2002/54/WE z dnia 13 czerwca 2002 r. sprawie obrotu materiałem siewnym buraka (Dz. Urz. WE L 193 z 20.07.2002, str. 12, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 36, str. 292, z późn. zm.),
@@ -56,17 +56,18 @@ o) dyrektywy Rady 2002/55/WE z dnia 13 czerwca 2002 r. sprawie obrotu materiałe
 p) dyrektywy Rady 2002/56/WE z dnia 13 czerwca 2002 r. sprawie obrotu sadzeniakami ziemniaków (Dz. Urz. WE L 193 z 20.07.2002, str. 60, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 36, str. 354, z późn. zm.),
 q) dyrektywy Rady 2002/57/WE z dnia 13 czerwca 2002 r. sprawie obrotu materiałem siewnym roślin oleistych i włóknistych (Dz. Urz. WE L 193 z 20.07.2002, str. 74, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 36, str. 340, z późn. zm.),
 r) dyrektywy Rady 2004/117/WE z dnia 22 grudnia 2004 r. zmieniającej dyrektywy 66/401/EWG, 66/402/EWG, 2002/54/WE, 2002/55/WE oraz 2002/57/WE odniesieniu do badań przeprowadzanych pod nadzorem urzędowym oraz równoważności materiału siewnego produkowanego krajach trzecich (Dz. Urz. UE L 14 z 18.01.2005, str. 18),
-s) dyrektywy Komisji 2006/47/WE z dnia 23 maja 2006 r. ustanawiaj ą cej specjalne warunki dotycz ą ce obecno ś ci Avena fatua materiale siewnym ro ś lin zbo ż owych (Dz. Urz. UE L 136 z 24.05.2006, str. 18),
+s) dyrektywy Komisji 2006/47/WE z dnia 23 maja 2006 r. ustanawiającej specjalne warunki dotyczące obecności Avena fatua materiale siewnym roślin zbożowych (Dz. Urz. UE L 136 z 24.05.2006, str. 18),
 t) dyrektywy Komisji 2006/55/WE z dnia 12 czerwca 2006 r. zmieniającej załącznik III do dyrektywy Rady 66/402/EWG odniesieniu do maksymalnej wagi partii materiału siewnego (Dz. Urz. UE L 159 z 13.06.2006, str. 13),
 u) dyrektywy Komisji 2006/124/WE z dnia 5 grudnia 2006 r. zmieniającej dyrektywę Rady 92/33/EWG sprawie obrotu materiałem rozmnożeniowym oraz nasadzeniowym warzyw, innym niż nasiona, oraz dyrektywę Rady 2002/55/WE sprawie obrotu materiałem siewnym warzyw (Dz. Urz. UE L 22 z 26.01.2006, str. 12),
-v) dyrektywy Komisji 2007/72/WE z dnia 13 grudnia 2007 r. zmieniającej dyrektywę Rady 66/401/EWG odniesieniu do włączenia gatunku Galega orientalia Lam. (Dz. Urz. UE L 338 z 17.12.2008, str. 79),
-w) dyrektywy Komisji 2008/62/WE z dnia 20 czerwca 2008 r. przewidującej pewne odstępstwa odniesieniu do rejestracji populacji miejscowych i odmian roślin rolniczych przystosowanych naturalnie do warunków lokalnych i regionalnych i zagrożonych erozją genetyczną oraz obrót materiałem siewnym i sadzeniakami ziemniaka tych populacji miejscowych i odmian (Dz. Urz. UE L 162 z 21.06.2008, str. 13),
+v) dyrektywy Komisji 2007/72/WE z dnia 13 grudnia 2007 r. zmieniającej dyrektywę Rady 66/401/EWG odniesieniu do włączenia gatunku Galega orientalia Lam. (Dz. Urz. UE L 338 z 17.12.2008, str. 79), niu do rejestracji populacji miejscowych i odmian roślin rolniczych przystosowanych naturalnie do warunków lokalnych i regionalnych i zagrożonych erozją genetyczną oraz obrót materiałem siewnym i sadzeniakami ziemniaka tych populacji miejscowych i odmian (Dz. Urz. UE L 162 z 21.06.2008, str. 13),
 x) dyrektywy Rady 2008/72/WE z dnia 15 lipca 2008 r. sprawie obrotu materiałem rozmnożeniowym oraz nasadzeniowym warzyw, innym niż nasiona (Dz. Urz. UE L 205 z 01.08.2008, str. 28),
 y) dyrektywy Komisji 2008/83/WE z dnia 13 sierpnia 2008 r. zmieniającej dyrektywę 2003/91/WE określającą środki wykonawcze do celów art. 7 dyrektywy Rady 2002/55/WE odniesieniu do cech minimalnych objętych badaniem oraz minimalnych warunków do badania niektórych odmian gatunków warzyw (Dz. Urz. UE L 219 z 14.08.2008, str. 55),
-z) dyrektywy Rady 2008/90/WE z dnia 29 września 2008 r. sprawie obrotu materiałem rozmnożeniowym roślin sadowniczych oraz roślinami sadowniczymi przeznaczonymi do produkcji owoców (Dz. Urz. UE L 267 z 08.10.2008, str. 8), za) dyrektywy Komisji 2008/124/WE z dnia 18 grudnia 2008 r. ograniczającej obrót materiałem siewnym niektórych gatunków roślin pastewnych oraz oleistych i włóknistych do materiału siewnego, który został urzędowo zakwalifikowany jako elitarny materiał siewny lub kwalifikowany materiał siewny (Dz. Urz.
-UE L 340 z 19.12.2008, str. 73), zb) dyrektywy Komisji 2009/74/WE z dnia 26 czerwca 2009 r. zmieniającej dyrektywy Rady 66/401/EWG, 66/402/EWG, 2002/55/WE i 2002/57/WE odniesieniu do botanicznych nazw roślin, naukowych nazw innych organizmów oraz niektórych załączników do dyrektywy Rady 66/401/EWG, 66/402/EWG i 2002/57/WE związku z rozwojem wiedzy naukowej i technicznej (Dz. Urz. UE L 166 z 27.06.2009, str. 40), zc) dyrektywy Komisji 2009/145/WE z dnia 26 listopada 2009 r. przewidującej pewne odstępstwa odniesieniu do zatwierdzania populacji miejscowych i odmian warzyw tradycyjnie uprawianych poszczególnych miejscach i regionach zagrożonych erozją genetyczną oraz odmian warzyw niemających wewnętrznej wartości dla plonów o przeznaczeniu handlowym, wyprodukowanych celu uprawy określonych warunkach, oraz wprowadzania do obrotu materiału siewnego tych populacji miejscowych i odmian (Dz. Urz. UE L 312 z 27.11.2009, str. 44), zd) dyrektywy Komisji 2010/60/WE z dnia 30 sierpnia 2010 r. przewidującej pewne odstępstwa dotyczące wprowadzania do obrotu mieszanek pastewnych materiału siewnego przeznaczonych do wykorzystania celu ochrony środowiska naturalnego (Dz. Urz. UE L 228 z 31.08.2010, str. 10), ze) decyzji Komisji 2004/371/WE z dnia 20 kwietnia 2004 r. sprawie warunków wprowadzenia do obrotu mieszanek materiału siewnego przeznaczonych do użytku jako rośliny pastewne (Dz. Urz. UE L 116 z 22.04.2004, str. 39; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 44, str. 133), zf) decyzji Komisji 2004/842/WE z dnia 1 grudnia 2004 r. sprawie przepisów wykonawczych, na mocy których państwa członkowskie mogą zezwolić na wprowadzenie do obrotu materiału siewnego należącego do odmiany, dla której złożono wniosek o włączenie do krajowego katalogu odmian gatunków roślin rolniczych lub katalogu odmian gatunków warzyw (Dz. Urz. UE L 362 z 09.12.2004, str. 21), zg) decyzji Komisji 2007/699/WE z dnia 29 października 2007 r. zmieniającej dyrektywę 92/33/EWG celem rozszerzenia odstępstwa odnoszącego się do warunków przywozu materiału rozmnożeniowego oraz nasadzeniowego warzyw z pa ń stw trzecich (Dz. Urz. UE L 274 z 18.10.2007, str. 33), zh) decyzji Komisji 2007/776/WE z dnia 28 listopada 2007 r. zmieniaj ą cej dyrektyw ę Rady 92/34/EWG celu przedłu ż enia obowi ą zywania odst ę pstwa dotycz ą cego warunków przywozu materiału rozmno ż eniowego ro ś lin owocowych oraz ro ś lin owocowych przeznaczonych do produkcji owoców z pa ń stw trzecich (Dz. Urz. UE L 312 z 30.11.2007, str. 48), zi) decyzji Rady 2007/780/WE z dnia 26 listopada 2007 r. zmieniającej decyzję 2003/17/WE sprawie równoważności inspekcji polowych stosowanych państwach trzecich uprawach nasiennych roślin uprawnych oraz sprawie równoważności materiału siewnego wyprodukowanego państwach trzecich (Dz. Urz. UE L 314 z 01.12.2007, str. 20), zj) decyzji Komisji 2010/680/UE z dnia 9 listopada 2010 r. zwalniającej Bułgarię, Republikę Czeską, Danię, Niemcy, Estonię, Irlandię, Hiszpanię, Francję, Cypr, Łotwę, Litwę, Maltę, Niderlandy, Polskę, Słowenię, Słowację, Finlandię, Szwecję i Zjednoczone Królestwo z obowiązku stosowania do niektórych gatunków dyrektyw Rady 66/401/EWG, 66/402/EWG, 68/193/EWG, 1999/105/WE, 2002/54/WE, 2002/55/WE i 2002/57/WE sprawie obrotu materiałem siewnym roślin pastewnych, materiałem siewnym roślin zbożowych, materiałem do wegetatywnego rozmnażania winorośli, leśnym materiałem rozmnożeniowym, materiałem siewnym buraka, materiałem siewnym warzyw oraz materiałem siewnym roślin oleistych i włóknistych (Dz. Urz. UE L 292 z 10.11.2010, str. 57), zk) decyzji Komisji implementującej dyrektywę Rady 2002/55/WE odniesieniu do wymagań zgodnie z którymi można wprowadzać do obrotu małe opakowania materiału siewnego kategorii standard różnych odmian roślin warzywnych należących do tego samego gatunku;
+z) dyrektywy Rady 2008/90/WE z dnia 29 września 2008 r. sprawie obrotu materiałem rozmnożeniowym roślin sadowniczych oraz roślinami sadowniczymi przeznaczonymi do produkcji owoców (Dz. Urz.
+UE L 267 z 08.10.2008, str. 8), za) dyrektywy Komisji 2008/124/WE z dnia 18 grudnia 2008 r. ograniczającej obrót materiałem siewnym niektórych gatunków roślin pastewnych oraz oleistych i włóknistych do materiału siewnego, który został urzędowo zakwalifikowany jako elitarny materiał siewny lub kwalifikowany materiał siewny (Dz. Urz.
+UE L 340 z 19.12.2008, str. 73), zb) dyrektywy Komisji 2009/74/WE z dnia 26 czerwca 2009 r. zmieniającej dyrektywy Rady 66/401/EWG, 66/402/EWG, 2002/55/WE i 2002/57/WE odniesieniu do botanicznych nazw roślin, naukowych nazw innych organizmów oraz niektórych załączników do dyrektywy Rady 66/401/EWG, 66/402/EWG i 2002/57/WE związku z rozwojem wiedzy naukowej i technicznej (Dz. Urz. UE L 166 z 27.06.2009, str. 40), zc) dyrektywy Komisji 2009/145/WE z dnia 26 listopada 2009 r. przewidującej pewne odstępstwa odniesieniu do zatwierdzania populacji miejscowych i odmian warzyw tradycyjnie uprawianych poszczególnych miejscach i regionach zagrożonych erozją genetyczną oraz odmian warzyw niemających wewnętrznej wartości dla plonów o przeznaczeniu handlowym, wyprodukowanych celu uprawy określonych warunkach, oraz wprowadzania do obrotu materiału siewnego tych populacji miejscowych i odmian (Dz. Urz. UE L 312 z 27.11.2009, str. 44), zd) dyrektywy Komisji 2010/60/WE z dnia 30 sierpnia 2010 r. przewidującej pewne odstępstwa dotyczące wprowadzania do obrotu mieszanek pastewnych materiału siewnego przeznaczonych do wykorzystania celu ochrony środowiska naturalnego (Dz. Urz. UE L 228 z 31.08.2010, str. 10), ze) decyzji Komisji 2004/371/WE z dnia 20 kwietnia 2004 r. sprawie warunków wprowadzenia do obrotu mieszanek materiału siewnego przeznaczonych do użytku jako rośliny pastewne (Dz. Urz. UE L 116 z 22.04.2004, str. 39; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 44, str. 133), zf) decyzji Komisji 2004/842/WE z dnia 1 grudnia 2004 r. sprawie przepisów wykonawczych, na mocy których państwa członkowskie mogą zezwolić na wprowadzenie do obrotu materiału siewnego należącego do odmiany, dla której złożono wniosek o włączenie do krajowego katalogu odmian gatunków roślin rolniczych lub katalogu odmian gatunków warzyw (Dz. Urz. UE L 362 z 09.12.2004, str. 21), zg) decyzji Komisji 2007/699/WE z dnia 29 października 2007 r. zmieniającej dyrektywę 92/33/EWG celem rozszerzenia odstępstwa odnoszącego się do warunków przywozu materiału rozmnożeniowego oraz nasadzeniowego warzyw z państw trzecich (Dz. Urz. UE L 274 z 18.10.2007, str. 33), zh) decyzji Komisji 2007/776/WE z dnia 28 listopada 2007 r. zmieniającej dyrektywę Rady 92/34/EWG celu przedłużenia obowiązywania odstępstwa dotyczącego warunków przywozu materiału rozmnożeniowego roślin owocowych oraz roślin owocowych przeznaczonych do produkcji owoców z państw trzecich (Dz. Urz. UE L 312 z 30.11.2007, str. 48), zi) decyzji Rady 2007/780/WE z dnia 26 listopada 2007 r. zmieniającej decyzję 2003/17/WE sprawie równoważności inspekcji polowych stosowanych państwach trzecich uprawach nasiennych roślin uprawnych oraz sprawie równoważności materiału siewnego wyprodukowanego państwach trzecich (Dz. Urz. UE L 314 z 01.12.2007, str. 20), zj) decyzji Komisji 2010/680/UE z dnia 9 listopada 2010 r. zwalniającej Bułgarię, Republikę Czeską, Danię, Niemcy, Estonię, Irlandię, Hiszpanię, Francję, Cypr, Łotwę, Litwę, Maltę, Niderlandy, Polskę, Słowenię, Słowację, Finlandię, Szwecję i Zjednoczone Królestwo z obowiązku stosowania do niektórych gatunków dyrektyw Rady 66/401/EWG, 66/402/EWG, 68/193/EWG, 1999/105/WE, 2002/54/WE, 2002/55/WE i 2002/57/WE sprawie obrotu materiałem siewnym roślin pastewnych, materiałem siewnym roślin zbożowych, materiałem do wegetatywnego rozmnażania winorośli, leśnym materiałem rozmnożeniowym, materiałem siewnym buraka, materiałem siewnym warzyw oraz materiałem siewnym roślin oleistych i włóknistych (Dz. Urz. UE L 292 z 10.11.2010, str. 57), z którymi można wprowadzać do obrotu małe opakowania materiału siewnego kategorii standard różnych odmian roślin warzywnych należących do tego samego gatunku;
 2) wykonują postanowienia:
-a) rozporządzenia Komisji (WE) nr 217/2006 z dnia 8 lutego 2006 r. ustanawiającego szczegółowe zasady stosowania dyrektyw Rady 66/401/EWG, 66/402/EWG, 2002/54/WE, 2002/55/WE i 2002/57/WE odniesieniu do upoważnienia państw członkowskich do pozwolenia na tymczasowe wprowadzenie do obrotu materiału siewnego, który nie spełnia wymogów zakresie minimalnej zdolności kiełkowania (Dz. Urz. UE L 38 z 09.02.2006, str. 17),
+a) rozporządzenia Komisji (WE) nr 217/2006 z dnia 8 lutego 2006 r. ustanawiającego szczegółowe zasady stosowania dyrektyw Rady 66/401/EWG, 66/402/EWG, 2002/54/WE, 2002/55/WE i 2002/57/WE odniesieniu do upoważnienia państw członkowskich do pozwolenia na tymczasowe wprowadzenie do obrotu materiału siewnego, który nie spełnia wymogów zakresie minimalnej zdolności kiełkowania (Dz.
+Urz. UE L 38 z 09.02.2006, str. 17),
 b) rozporządzenia Komisji (WE) nr 920/2007 z dnia 1 sierpnia 2007 r. zmieniającego rozporządzenie (WE) nr 930/2000 ustanawiające reguły wykonawcze co do odpowiedniego nazewnictwa odmian gatunków roślin rolniczych i warzyw (Dz. Urz. UE L 201 z 02.08.2007, str. 3).” „Art. 141. Ustawa wchodzi życie po upływie 30 dni od dnia ogłoszenia.”;
 3) art. 134 ustawy z dnia 16 grudnia 2016 r. Przepisy wprowadzające ustawę o zasadach zarządzania mieniem państwowym (Dz. U. poz. 2260), który stanowi: „Art. 134. Ustawa wchodzi życie z dniem 1 stycznia 2017 r., z wyjątkiem:
 1) art. 14 pkt 19 i pkt 32 zakresie uchylenia art. 69a ust. 3 i 4, które wchodzą życie z dniem 1 stycznia 2019 r.;
@@ -75,7 +76,7 @@ b) rozporządzenia Komisji (WE) nr 920/2007 z dnia 1 sierpnia 2007 r. zmieniają
 4) art. 95, który wchodzi życie z dniem 31 grudnia 2016 r.”.
 Marszałek Sejmu: M. Kuchciński
 USTAWA z dnia 25 listopada 2010 r.
-o Centralnym O ś rodku Badania Odmian Ro ś lin Uprawnych
+o Centralnym Ośrodku Badania Odmian Roślin Uprawnych
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -110,7 +111,7 @@ o Centralnym O ś rodku Badania Odmian Ro ś lin Uprawnych
 
 **Art. 8.** Centralny Ośrodek ma prawo używania pieczęci okrągłej z wizerunkiem godła Rzeczypospolitej Polskiej pośrodku i nazwą Centralnego Ośrodka otoku.
 
-#### Rozdział 2 Organy i organizacja Centralnego O ś rodka
+#### Rozdział 2 Organy i organizacja Centralnego Ośrodka
 
 **Art. 9.**
 
@@ -144,9 +145,9 @@ o Centralnym O ś rodku Badania Odmian Ro ś lin Uprawnych
 - **4)** zakres zadań wykonywanych na stanowisku;
 - **5)** wskazanie wymaganych dokumentów;
 - **6)** termin i miejsce składania dokumentów;
-- **7)** informacj ę o metodach i technikach naboru.
+- **7)** informację o metodach i technikach naboru.
 
-3. Termin, o którym mowa ust. 2 pkt 6, nie mo ż e by ć krótszy ni ż 10 dni od dnia opublikowania ogłoszenia Biuletynie Informacji Publicznej ministra wła ś ciwego do spraw rolnictwa.
+3. Termin, o którym mowa ust. 2 pkt 6, nie może być krótszy niż 10 dni od dnia opublikowania ogłoszenia Biuletynie Informacji Publicznej ministra właściwego do spraw rolnictwa.
 
 4. Nabór na stanowisko dyrektora Centralnego Ośrodka przeprowadza zespół powołany przez ministra właściwego do spraw rolnictwa, liczący co najmniej 3 osoby, których wiedza i doświadczenie dają rękojmię wyłonienia najlepszych kandydatów. W toku naboru ocenia się doświadczenie zawodowe kandydata, wiedzę niezbędną do wykonywania zadań na stanowisku, na które jest przeprowadzany nabór, oraz kompetencje kierownicze.
 
@@ -187,7 +188,7 @@ o Centralnym O ś rodku Badania Odmian Ro ś lin Uprawnych
 
 **Art. 12.** Minister właściwy do spraw rolnictwa, drodze rozporządzenia, nadaje Centralnemu Ośrodkowi statut, którym określa:
 
-#### Rozdział 3 Gospodarka finansowa Centralnego O ś rodka
+#### Rozdział 3 Gospodarka finansowa Centralnego Ośrodka
 
 **Art. 13.**
 
@@ -241,7 +242,7 @@ o Centralnym O ś rodku Badania Odmian Ro ś lin Uprawnych
 
 2. Z dniem wejścia życie ustawy Centralny Ośrodek Badania Odmian Roślin Uprawnych państwowa jednostka budżetowa i jego gospodarstwa pomocnicze podlegają likwidacji.
 
-3. Centralny Ośrodek przejmuje składniki majątkowe, należności i zobowiązania Centralnego Ośrodka Badania Odmian Ro ś lin Uprawnych pa ń stwowej jednostki bud ż etowej oraz jego gospodarstw pomocniczych.
+3. Centralny Ośrodek przejmuje składniki majątkowe, należności i zobowiązania Centralnego Ośrodka Badania Odmian Roślin Uprawnych państwowej jednostki budżetowej oraz jego gospodarstw pomocniczych.
 
 4. Nieruchomości stanowiące własność Skarbu Państwa, będące trwałym zarządzie Centralnego Ośrodka Badania Odmian Roślin Uprawnych państwowej jednostki budżetowej lub jego gospodarstw pomocniczych, stają się nieodpłatnie, z mocy prawa, własnością Centralnego Ośrodka.
 

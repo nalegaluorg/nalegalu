@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 2 grudnia 2020 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Morskiego i Rybackiego
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 20 listopada 2020 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002140) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2140/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 20 listopada 2020 r.
-sprawie ogłoszenia jednolitego tekstu ustawy o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Morskiego i Rybackiego
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 10 lipca 2015 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Morskiego i Rybackiego (Dz. U. z 2020 r. poz. 251), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 14 maja 2020 r. o zmianie niektórych ustaw zakresie działań osłonowych związku z rozprzestrzenianiem się wirusa SARS-CoV-2 (Dz. U. poz. 875) oraz zmian wynikających z przepisów ogłoszonych przed dniem 19 listopada 2020 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 76 ustawy z dnia 14 maja 2020 r. o zmianie niektórych ustaw zakresie działań osłonowych związku z rozprzestrzenianiem się wirusa SARS-CoV-2 (Dz. U. poz. 875), który stanowi: „Art. 76. Ustawa wchodzi życie z dniem następującym po dniu ogłoszenia, z wyjątkiem:
 1) art. 1, art. 2, art. 8, art. 46 pkt 47 zakresie dodawanego art. 31zzg, oraz art. 63–65, które wchodzą życie po upływie 14 dni od dnia ogłoszenia;
@@ -40,11 +40,11 @@ b) pkt 3, który wchodzi życie z dniem 1 stycznia 2021 r.;
 8) art. 46:
 a) pkt 1 i 2, które wchodzą życie z dniem 25 maja 2020 r.,
 b) pkt 3: zakresie art. 4d, który wchodzi życie z dniem ogłoszenia z mocą od dnia 1 kwietnia 2020 r., zakresie art. 4e, który wchodzi życie z dniem ogłoszenia z mocą od dnia 8 marca 2020 r.,
+c) pkt 19, który wchodzi życie z dniem ogłoszenia z mocą od dnia 1 maja 2020 r.,
 d) pkt 31, który wchodzi życie z dniem ogłoszenia z mocą od dnia 1 kwietnia 2020 r.,
 e) pkt 36, który wchodzi życie z dniem ogłoszenia z mocą od dnia 7 marca 2020 r.;
 9) art. 58, który wchodzi życie z dniem ogłoszenia z mocą od dnia 1 kwietnia 2020 r.;
 10) art. 59, który wchodzi życie z dniem ogłoszenia z mocą od dnia 18 kwietnia 2020 r.”.
-Marszałek Sejmu: E. Witek
 USTAWA z dnia 10 lipca 2015 r.
 o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Morskiego i Rybackiego
 
@@ -194,8 +194,10 @@ o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskie
 
 2. Wniosek o dofinansowanie składa się do instytucji pośredniczącej, o której mowa art. 6 ust. 1, zakresie danego priorytetu lub zakresie pomocy technicznej, z tym że przypadku:
 
-- **1)** działania, o którym mowa art. 3 ust. 1 pkt 4, wniosek o dofinansowanie składa się za pośrednictwem lokalnej grupy działania, a jeżeli wnioskodawcą jest lokalna grupa działania wniosek o dofinansowanie składa się do instytucji pośredniczącej, o której mowa art. 6 ust. 1 pkt 2;
-- **2)** pomocy technicznej, jeżeli wnioskodawcą jest instytucja pośrednicząca, o której mowa art. 6 ust. 1 pkt 1 wniosek o dofinansowanie składa się do instytucji zarządzającej.
+- **1)** działania, o którym mowa art. 3 ust. 1 pkt 4, wniosek o dofinansowanie składa się za pośrednictwem lokalnej grupy działania, a jeżeli wnioskodawcą jest lokalna grupa działania wniosek o dofinansowanie składa się do instytucji pośredniczącej, o której mowa art. 6 ust. 1 pkt 2; o dofinansowanie składa się do instytucji zarządzającej.
+
+3. Wniosek o dofinansowanie zawiera informacje niezbędne do przyznania pomocy, tym:
+
 - **1)** imię i nazwisko, miejsce zamieszkania i adres albo nazwę, siedzibę i adres wnioskodawcy;
 - **2)** opis planowanej operacji, tym określenie miejsca jej realizacji, celów, zakresu i kosztów.
 
@@ -237,9 +239,9 @@ o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskie
 - **1)** stoi na straży praworządności;
 - **2)** jest obowiązany sposób wyczerpujący rozpatrzyć cały materiał dowodowy;
 - **3)** udziela stronom, na ich żądanie, niezbędnych pouczeń co do okoliczności faktycznych i prawnych, które mogą mieć wpływ na ustalenie ich praw i obowiązków będących przedmiotem postępowania;
-- **4)** zapewnia stronom, na ich żądanie, czynny udział każdym stadium postępowania.
+- **4)** zapewnia stronom, na ich żądanie, czynny udział każdym stadium postępowania. wody oraz składać wyjaśnienia co do okoliczności sprawy zgodnie z prawdą i bez zatajania czegokolwiek; ciężar udowodnienia faktu spoczywa na osobie, która z tego faktu wywodzi skutki prawne.
 
-2. Strony oraz inne osoby uczestniczące postępowaniu, o którym mowa ust. 1, są obowiązane przedstawiać dowody oraz składać wyjaśnienia co do okoliczności sprawy zgodnie z prawdą i bez zatajania czegokolwiek; ciężar udowodnienia faktu spoczywa na osobie, która z tego faktu wywodzi skutki prawne. dotyczące właściwości miejscowej organów, wyłączenia pracowników organu, doręczeń i wezwań, udostępniania akt, a także skarg i wniosków, o ile przepisy ustawy nie stanowią inaczej.
+3. Do postępowań sprawach przyznawania pomocy stosuje się przepisy Kodeksu postępowania administracyjnego dotyczące właściwości miejscowej organów, wyłączenia pracowników organu, doręczeń i wezwań, udostępniania akt, a także skarg i wniosków, o ile przepisy ustawy nie stanowią inaczej.
 
 4. W przypadku operacji przewidzianych ramach działań, o których mowa art. 3 ust. 1 pkt 1–5, właściwość miejscową ustala się według miejsca realizacji operacji.
 
@@ -271,12 +273,9 @@ o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskie
 
 5. Zmiana umowy powodująca zwiększenie wysokości pomocy lub zmianę celu operacji jest nieważna, z wyłączeniem przypadku, gdy zmiana taka dotyczy wysokości pomocy przyznanej ramach działania, o którym mowa art. 3 ust. 1 pkt 4 lit. b, zakresie kosztów bieżących i aktywizacji, i nie powoduje przekroczenia kwoty, do wysokości której danej lokalnej grupie działania pomoc może być przyznana.
 
-**Art. 18.**
-
-1. Wypłaty pomocy przyznanej ramach programu operacyjnego Agencja dokonuje na podstawie:
-
 - **1)** wniosku o płatność składanego do instytucji pośredniczącej, o której mowa art. 6 ust. 1, lub
 - **2)** umowy o dofinansowanie jednorazowo lub częściach, zależności od liczby etapów przewidzianych ramach operacji realizowanej zgodnie z tą umową, albo
+- **3)** zlecenia płatności przekazanego przez:
     - **a)** instytucję pośredniczącą, o której mowa art. 6 ust. 1 pkt 2 przypadku operacji, o których mowa art. 3 ust. 1 pkt 4,
     - **b)** instytucję zarządzającą przypadku operacji ramach pomocy technicznej, jeżeli wnioskodawcą jest Agencja.
 
@@ -317,12 +316,12 @@ o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskie
 
 **Art. 21.**
 
-1. Państwowy instytut badawczy albo instytut naukowy, o którym mowa art. 73 ust. 1 ustawy z dnia 19 grudnia 2014 r. o rybołówstwie morskim, realizujący operacje ramach działania gromadzenie danych, o którym mowa art. 3 ust. 1 pkt 3 lit. b, może otrzymywać środki z budżetu państwa na wyprzedzające finansowanie kosztów kwalifikowalnych ponoszonych na ich realizację.
-
-2. Środki z budżetu państwa na wyprzedzające finansowanie kosztów kwalifikowalnych ponoszonych na realizację operacji, o których mowa ust. 1, są przekazywane przez właściwego dysponenta formie dotacji celowej, o której mowa art. 127 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych w:
+1. Państwowy instytut badawczy albo instytut naukowy, o którym mowa art. 73 ust. 1 ustawy z dnia 19 grudnia 2014 r. o rybołówstwie morskim, realizujący operacje ramach działania gromadzenie danych, o którym mowa art. 3 ust. 1 pkt 3 lit. b, może otrzymywać środki z budżetu państwa na wyprzedzające finansowanie kosztów kwalifikowalnych ponoszonych na ich realizację. operacji, o których mowa ust. 1, są przekazywane przez właściwego dysponenta formie dotacji celowej, o której mowa art. 127 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych w:
 
 - **1)** ust. 1 pkt 1 lit. a do wysokości udziału refundowanego ze środków EFMR;
-- **2)** ust. 2 pkt 2 i 5 do wysokości udziału krajowych środków publicznych przeznaczonych na współfinansowanie wydatków realizowanych z udziałem środków EFMR. kazanych właściwemu dysponentowi harmonogramów płatności wynikających z zawartych umów lub wydanych decyzji o przyznaniu pomocy, lub zatwierdzonych przez właściwy podmiot wniosków o dofinansowanie.
+- **2)** ust. 2 pkt 2 i 5 do wysokości udziału krajowych środków publicznych przeznaczonych na współfinansowanie wydatków realizowanych z udziałem środków EFMR.
+
+3. Środki dotacji, o której mowa ust. 2, są przekazywane instytutowi, o którym mowa ust. 1, na podstawie przekazanych właściwemu dysponentowi harmonogramów płatności wynikających z zawartych umów lub wydanych decyzji o przyznaniu pomocy, lub zatwierdzonych przez właściwy podmiot wniosków o dofinansowanie.
 
 4. Instytut, o którym mowa ust. 1, dokonuje zwrotu środków, o których mowa ust. 2 pkt 1, do wysokości udziału refundowanego ze środków EFMR, na rachunek dochodów właściwego dysponenta, ze środków otrzymanych z Agencji tytułem refundacji wydatków kwalifikowalnych ze środków EFMR, terminie 10 dni od dnia otrzymania tych środków.
 
@@ -350,11 +349,9 @@ o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskie
 - **3)** zostaną przez niego przejęte zobowiązania związane z przyznaną pomocą;
 - **4)** środki finansowe z tytułu pomocy nie zostały całości wypłacone.
 
-3. Przepisy ust. 1 i 2 stosuje się odpowiednio razie rozwiązania, połączenia lub podziału organu lub jednostki organizacyjnej ubiegających się o przyznanie pomocy technicznej albo będących beneficjentami pomocy technicznej lub wystąpienia innego zdarzenia prawnego, wyniku którego zaistnieje następstwo prawne.
+3. Przepisy ust. 1 i 2 stosuje się odpowiednio razie rozwiązania, połączenia lub podziału organu lub jednostki organizacyjnej ubiegających się o przyznanie pomocy technicznej albo będących beneficjentami pomocy technicznej lub wystąpienia innego zdarzenia prawnego, wyniku którego zaistnieje następstwo prawne. przyznawania, wypłaty lub zwrotu pomocy na realizację operacji ramach priorytetów, o których mowa art. 3 ust. 1 pkt 1–5, lub wysokość stawek tej pomocy, uwzględniając koszty kwalifikowalne oraz kierując się potrzebą zapewnienia prawidłowej realizacji programu operacyjnego, szczególności przyznawania, wypłaty i zwrotu pomocy zgodnie z warunkami wynikającymi z programu operacyjnego, oraz biorąc pod uwagę istotę i cel poszczególnych działań ramach tych priorytetów.
 
-**Art. 24.**
-
-1. Minister właściwy do spraw rybołówstwa określi, drodze rozporządzenia, szczegółowe warunki i tryb przyznawania, wypłaty lub zwrotu pomocy na realizację operacji ramach priorytetów, o których mowa art. 3 ust. 1 pkt 1–5, lub wysokość stawek tej pomocy, uwzględniając koszty kwalifikowalne oraz kierując się potrzebą zapewnienia prawidłowej realizacji programu operacyjnego, szczególności przyznawania, wypłaty i zwrotu pomocy zgodnie z warunkami wynikającymi z programu operacyjnego, oraz biorąc pod uwagę istotę i cel poszczególnych działań ramach tych priorytetów. określi, drodze rozporządzenia, szczegółowe warunki i tryb przyznawania, wypłaty lub zwrotu pomocy na realizację operacji ramach priorytetu, o którym mowa art. 3 ust. 1 pkt 6, uwzględniając koszty kwalifikowalne oraz kierując się potrzebą zapewnienia prawidłowej realizacji programu operacyjnego, szczególności przyznawania, wypłaty i zwrotu pomocy zgodnie z warunkami wynikającymi z programu operacyjnego, oraz biorąc pod uwagę istotę i cel poszczególnych działań ramach tego priorytetu.
+2. Minister właściwy do spraw rybołówstwa porozumieniu z ministrem właściwym do spraw gospodarki morskiej określi, drodze rozporządzenia, szczegółowe warunki i tryb przyznawania, wypłaty lub zwrotu pomocy na realizację operacji ramach priorytetu, o którym mowa art. 3 ust. 1 pkt 6, uwzględniając koszty kwalifikowalne oraz kierując się potrzebą zapewnienia prawidłowej realizacji programu operacyjnego, szczególności przyznawania, wypłaty i zwrotu pomocy zgodnie z warunkami wynikającymi z programu operacyjnego, oraz biorąc pod uwagę istotę i cel poszczególnych działań ramach tego priorytetu.
 
 3. W rozporządzeniach, o których mowa ust. 1 i 2, zostaną określone szczególności:
 
@@ -378,11 +375,12 @@ o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskie
 1. W ramach realizacji programu operacyjnego:
 
 - **1)** Agencja ustanawia system elektronicznej rejestracji i przechowywania danych, o którym mowa art. 125 ust. 2 lit. d rozporządzenia nr 1303/2013;
-- **2)** instytucje pośredniczące, o których mowa art. 6 ust. 1, gromadzą i opracowują dane niezbędne do właściwego monitorowania i ewaluacji programu operacyjnego, o których mowa art. 97 ust. 1 lit. a rozporządzenia nr 508/2014, oraz wprowadzają te dane do systemu, o którym mowa pkt 1;
-- **3)** instytucje pośredniczące, o których mowa art. 6 ust. 1, sporządzają sprawozdania odniesieniu do priorytetów, o których mowa art. 3 ust. 1, i pomocy technicznej oraz odniesieniu do programu operacyjnego;
+- **2)** instytucje pośredniczące, o których mowa art. 6 ust. 1, gromadzą i opracowują dane niezbędne do właściwego monitorowania i ewaluacji programu operacyjnego, o których mowa art. 97 ust. 1 lit. a rozporządzenia nr 508/2014, oraz wprowadzają te dane do systemu, o którym mowa pkt 1; o których mowa art. 3 ust. 1, i pomocy technicznej oraz odniesieniu do programu operacyjnego;
 - **4)** lokalne grupy działania oraz beneficjenci sporządzają sprawozdania z realizowanej operacji.
 
 1a. Agencja jest administratorem danych zgromadzonych systemie elektronicznej rejestracji i przechowywania danych, o którym mowa art. 125 ust. 2 lit. d rozporządzenia nr 1303/2013.
+
+2. Sprawozdania, o których mowa ust. 1 pkt 4, zawierają informacje o realizacji operacji, tym:
 
 - **1)** tytuł operacji;
 - **2)** imię i nazwisko albo nazwę, siedzibę i adres beneficjenta;
@@ -421,13 +419,11 @@ o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskie
 
 2. LGD zobowiązuje się do stosowania wytycznych, o których mowa ust. 1 pkt 2, umowie o warunkach i sposobie realizacji LSR, o której mowa przepisach o rozwoju lokalnym z udziałem lokalnej społeczności.
 
-3. Wytyczne, o których mowa ust. 1 pkt 2, nie mogą dotyczyć rozstrzygnięć co do istoty sprawy o wybór operacji.
+3. Wytyczne, o których mowa ust. 1 pkt 2, nie mogą dotyczyć rozstrzygnięć co do istoty sprawy o wybór operacji. dawców albo beneficjentów ramach programu operacyjnego zakresie sprawdzania dostarczenia współfinansowanych towarów i usług, prawdziwości i kwalifikowalności poniesionych ramach operacji wydatków, ich zgodności z programem operacyjnym oraz przepisami, o których mowa art. 1 pkt 1.
 
-**Art. 28.**
+2. Kontrola, o której mowa ust. 1, polega na sprawdzeniu dowodów poświadczających poniesienie wydatków ramach operacji, dokumentujących dane zawarte we wnioskach o płatność lub weryfikacji poniesionych wydatków, postępów realizacji operacji i efektów realizacji tej operacji miejscu jej realizowania.
 
-1. Instytucja zarządzająca przeprowadza kontrolę odniesieniu do operacji realizowanych przez wnioskodawców albo beneficjentów ramach programu operacyjnego zakresie sprawdzania dostarczenia współfinansowanych towarów i usług, prawdziwości i kwalifikowalności poniesionych ramach operacji wydatków, ich zgodności z programem operacyjnym oraz przepisami, o których mowa art. 1 pkt 1.
-
-2. Kontrola, o której mowa ust. 1, polega na sprawdzeniu dowodów poświadczających poniesienie wydatków ramach operacji, dokumentujących dane zawarte we wnioskach o płatność lub weryfikacji poniesionych wydatków, postępów realizacji operacji i efektów realizacji tej operacji miejscu jej realizowania. cjom pośredniczącym, o których mowa art. 6 ust. 1, lub innym jednostkom organizacyjnym dysponującym odpowiednimi warunkami organizacyjnymi, kadrowymi i technicznymi.
+3. Instytucja zarządzająca może powierzyć przeprowadzenie kontroli zakresie, o którym mowa ust. 1, instytucjom pośredniczącym, o których mowa art. 6 ust. 1, lub innym jednostkom organizacyjnym dysponującym odpowiednimi warunkami organizacyjnymi, kadrowymi i technicznymi.
 
 4. Kontrole przeprowadzane przez instytucję zarządzającą odniesieniu do operacji realizowanych ramach programu operacyjnego przez podmioty będące jednostkami kontrolowanymi rozumieniu ustawy z dnia 15 lipca 2011 r. o kontroli administracji rządowej są dokonywane na zasadach i trybie określonych przepisach tej ustawy.
 
@@ -465,13 +461,13 @@ o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskie
 
 - **1)** zapewnienie prawidłowego zarządzania programem operacyjnym i wydatkowania środków finansowych służących jego realizacji;
 - **2)** zapewnienie efektywności wdrażania środków programu operacyjnego;
-- **3)** możliwość zweryfikowania tożsamości osoby uprawnionej do wykonywania czynności kontrolnych.
+- **3)** możliwość zweryfikowania tożsamości osoby uprawnionej do wykonywania czynności kontrolnych. ce podstawę wniosku o płatność okresową, o którym mowa art. 135 ust. 1 rozporządzenia nr 1303/2013, oraz zestawienia wydatków, o których mowa art. 137 ust. 1 rozporządzenia nr 1303/2013, instytucja zarządzająca przekazuje instytucji certyfikującej celu ich przedłożenia Komisji Europejskiej.
 
-**Art. 31.**
+2. Minister właściwy do spraw rybołówstwa określi, drodze rozporządzenia, tryb, zakres, terminy i szczegółowy sposób rozliczania wydatków, o których mowa ust. 1, odniesieniu do operacji oraz programu operacyjnego, mając na względzie zapewnienie prawidłowego zarządzania programem operacyjnym i wydatkowania środków finansowych służących jego realizacji oraz kierując się efektywnością i prawidłowością wdrażania środków tego programu.
 
-1. Rozliczenie wydatków poniesionych ramach realizowanych operacji programu operacyjnego stanowiące podstawę wniosku o płatność okresową, o którym mowa art. 135 ust. 1 rozporządzenia nr 1303/2013, oraz zestawienia wydatków, o których mowa art. 137 ust. 1 rozporządzenia nr 1303/2013, instytucja zarządzająca przekazuje instytucji certyfikującej celu ich przedłożenia Komisji Europejskiej.
+**Art. 32.**
 
-2. Minister właściwy do spraw rybołówstwa określi, drodze rozporządzenia, tryb, zakres, terminy i szczegółowy sposób rozliczania wydatków, o których mowa ust. 1, odniesieniu do operacji oraz programu operacyjnego, mając na względzie zapewnienie prawidłowego zarządzania programem operacyjnym i wydatkowania środków finansowych służących jego realizacji oraz kierując się efektywnością i prawidłowością wdrażania środków tego programu. nie z przeznaczeniem podlega zwrotowi wraz z odsetkami określonymi jak dla zaległości podatkowych, chyba że przepisy, o których mowa art. 1 pkt 1, lub przepisy o finansach publicznych stanowią inaczej.
+1. Pomoc i pomoc techniczna pobrana nienależnie lub nadmiernej wysokości lub wykorzystana niezgodnie z przeznaczeniem podlega zwrotowi wraz z odsetkami określonymi jak dla zaległości podatkowych, chyba że przepisy, o których mowa art. 1 pkt 1, lub przepisy o finansach publicznych stanowią inaczej.
 
 2. Pomocą pobraną nienależnie jest pomoc wypłacona beneficjentowi:
 

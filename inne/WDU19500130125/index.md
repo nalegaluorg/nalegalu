@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# Dziennik Ustaw Nr 1S 168 Poz. 123, 124 123
+# (cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:1)(cid:7)(cid:8)(cid:2)(cid:9)(cid:10)(cid:7)(cid:6)(cid:11)(cid:12)(cid:2)(cid:13)(cid:8)(cid:14)(cid:5)(cid:8)(cid:15)(cid:16)(cid:2)(cid:17)(cid:2)(cid:4)(cid:17)(cid:10)(cid:17)(cid:18)(cid:12)(cid:2)(cid:3)(cid:19)(cid:3)(cid:7)(cid:8)(cid:13)(cid:9)(cid:14)(cid:7)(cid:8)(cid:20)(cid:2)(cid:1)(cid:2)(cid:5)(cid:17)(cid:21)(cid:11)(cid:7)(cid:18)(cid:15)(cid:1)(cid:7)(cid:8)(cid:22)
+
+*USTAWA z dnia 20 marca 1950 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,25 +26,9 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19500130125) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1950/125/text.pdf) |
 
-USTAWA dnia 20 marca 1950 o urlopach dla pracowników zatrudnionych w i handlu.
-dotychczas ustawodawstwo o urlopach zbyt krótkie okresy urlopów dla pracowników fizycznych.
-celu tego stanu rzeczy oraz dla liwienia wprowadzenia urlopów w szczególnie uzasadnionych stanowi co puje:
+**Art. 1.** (cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:4)(cid:7)(cid:8)(cid:4)(cid:2)(cid:9)(cid:2)(cid:3)(cid:10)(cid:8)(cid:11)(cid:2)(cid:12)(cid:13)(cid:2)(cid:14)(cid:6)(cid:9)(cid:4)(cid:15)(cid:10)(cid:8)(cid:11)(cid:2)(cid:12)(cid:16)(cid:17)(cid:18)(cid:2)(cid:6)(cid:19)(cid:2)(cid:20)(cid:2)(cid:21)(cid:20)(cid:22)(cid:20)(cid:7)(cid:23)(cid:2)(cid:24)(cid:25)(cid:24)(cid:8)(cid:4)(cid:3)(cid:9)(cid:5)(cid:8)(cid:4)(cid:26)(cid:2)(cid:14)(cid:2)(cid:6)(cid:20)(cid:27)(cid:10)(cid:8)(cid:7)(cid:28)(cid:14)(cid:8)(cid:4)(cid:2)(cid:29)(cid:30)(cid:9)(cid:19)(cid:31)(cid:19)(cid:2) (cid:19)!(cid:19)(cid:2)"(cid:6)(cid:2)#(cid:16) (cid:21)(cid:20)(cid:9)(cid:19)(cid:2)$(cid:13)%&’(cid:2)(cid:14)(cid:21)(cid:6)(cid:20)(cid:14)(cid:11)(cid:3)(cid:9)(cid:11)(cid:2)(cid:24)(cid:8)((cid:2)(cid:10)(cid:11)(cid:24)(cid:28)((cid:21))(cid:26)(cid:25)(cid:7)(cid:4)(cid:2)(cid:9)(cid:22)(cid:8)(cid:11)(cid:10)(cid:23)*
 
-**Art. 1.** W ustawie dnia 16 maja 1922 o urlopach dla pracowników zatrudnionych w i handlu (Dz. U. P. 1949 Nr 47, poz. 365) wprawadza zmiany: art. ust. otrzymuje brzmienie: "Wszystkim pracownikom fizycznym, przepisem art. 1, prawo do corocznego nieprzerwanego urlopu w wymiarze: 12 dni - po roku pracy, 15 dni - po trzech latach pracy, jednego - po latach pracy, przy czym wymienione okresy pracy w danym pracy.", wart. ust. dodaje w wyrazy: "z wy przypadku, w ust. pkt c)", wart. ust. po wyrazach: "z powodu pracownika do wojskowych" dodaje wyrazy:, "a przeniesienia go do innego za pracy",. w art. dodaje ostatni o brzmieniu: "Rada Ministrów przypadki, w których przerwy w zatrudnieniu oraz zmiany cy, w 1939-1945, skutków, pracownika praw do korzystania urloPll lub go w tych prawach.",
+**Art. 2.** (cid:1)(cid:23)(cid:5)(cid:20)(cid:10)(cid:11)(cid:10)(cid:8)(cid:4)(cid:2))(cid:24)(cid:28)(cid:11)(cid:14)(cid:23)(cid:2)(cid:21)(cid:20)(cid:6))(cid:7)(cid:9)(cid:11)(cid:2)(cid:24)(cid:8)((cid:2)4(cid:8)(cid:10)(cid:8)(cid:24)(cid:28)(cid:6)(cid:20)(cid:22)*(cid:2) (cid:20)(cid:27)(cid:10)(cid:8)(cid:7)(cid:28)(cid:14)(cid:11)(cid:2)(cid:8)(cid:2) (cid:4)5(cid:20)(cid:6)(cid:22)(cid:2) (cid:20)(cid:27)(cid:10)(cid:23)(cid:7)1’(cid:2)6(cid:3)(cid:22)(cid:8)(cid:10)(cid:8)(cid:24)(cid:28)(cid:6)(cid:11)(cid:7)(cid:26)(cid:8) !)2(cid:27)(cid:8)(cid:7)(cid:9)(cid:10)(cid:4)(cid:26)(cid:2)(cid:8)(cid:2)7(cid:21)(cid:6)(cid:11)(cid:14)(cid:8)(cid:4)(cid:3)(cid:27)(cid:8)(cid:14)(cid:20)(cid:15)(cid:7)(cid:8)(cid:19)
 
-**Art. 2.** Wykonanie ustawy porucza Ministrowi Pracy i Opieki ...
-
-**Art. 3.** Ustawa w<:hodzi w dniem nia. Prezydent Rzeczypospolitej: Prezes Rady Ministrów: J. Minister Pracy i Opieki K. " 124 USTAWA dnia 20 marca 1950 o mocy .ogólnych przepisów ustawodawstwa pracy na portowych•
-
-**Art. 1.** Do pracy robotników portowych stosuje ogólne przepisy ustawodawstwa pracy.
-
-**Art. 2.** Uchyla Prezydenta Rze czypospolitej dnia 27 1933 o pracy robotników portowych w Gdyni (Dz. U. R. P. Nr 85, poz. 646) i art. 12 ust. 2 dekretu dnia 2 sierpnia 1945 o zatrudnienia (Dz. U. R. P. Nr 30, poz. 182).
-
-**Art. 3.** Wykonanie ustawy porucza Ministrowi . Pracy Opieki w porozumieniu Ministrem Zeglugi.
-
-**Art. 4.** Ustawa wchodzi w dniem Prezydent Rzeczypospolitej: B. Prezes Rady Ministrów: J. Minister Pracy i Opieki K. Minister Zeglugi: A. 125 USTAWA Dziennik Ust'aW' Nr 13 ....... 169 Poz. 125, 126 i 127 tych" wyrazami: "grzywny do 200.000 oraz dodaje nowy ust. 3 o brzmieniu: Do orzekania o nych w ust. 1, powiatowe nistracji ogólnej",
-
-**Art. 2.** Wykonanie ustawy porucza" Ministrom: Rolnictwa i Reform Rolnych, Administracji Publicznej i
-
-**Art. 3.** Ustawa wchodzi w dniem nia od dnia l stycznia 1950 Prezydent Rzeczypospolitej: B. Prezes Rady Ministrów: Minister Rolnictwa Reform Rolnych: J. Minister Administracji Publicznej: Minister 126 RADY MINISTRÓW dnia kwietnia w sprawie utworzenia Prawniczej im. Teodora Duracza, Na podstawie art, 16 i 19 ust. 3 dekretu dnia 28 1947 o organizacji nauki i szkolnictwa (Dz. U. R. p. Nr 66, poz. 415) co § 1. Tworzy im. Teodo ra Du,'a-::za w Warszawie jako § 2. nadzór nad Praw im. Teodora Duracza powierza Ministrowi Spra § 3. Dotychczasowi słuchacze Centralnej Szkoły Prawniczej im. Teodora Duracza studentami Prawniczej im. Teodora Duracza.
+**Art. 3.** (cid:31)(cid:24)(cid:28)(cid:11)(cid:14)(cid:11)(cid:2)(cid:14)(cid:7)1(cid:20)(cid:3)(cid:9)(cid:8)(cid:2)(cid:14)(cid:2)8(cid:23)(cid:7)(cid:8)(cid:4)(cid:2)(cid:9)(cid:2)(cid:3)(cid:10)(cid:8)(cid:4)(cid:22)(cid:2)(cid:20)/0(cid:20)(cid:24)(cid:9)(cid:4)(cid:10)(cid:8)(cid:11)(cid:2)(cid:9)(cid:2)(cid:22)(cid:20)(cid:7)(cid:25)(cid:2)(cid:20)2(cid:20)(cid:14)(cid:8)(cid:25)(cid:9))(cid:26)(cid:25)(cid:7)(cid:25)(cid:2)(cid:20)(cid:3)(cid:2)(cid:3)(cid:10)(cid:8)(cid:11)(cid:2)(cid:12)(cid:2)(cid:24)(cid:28)(cid:23)(cid:7)(cid:9)(cid:10)(cid:8)(cid:11)(cid:2)(cid:12)(cid:16)#%(cid:2)(cid:6)(cid:19)
 

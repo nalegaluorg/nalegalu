@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 3 lutego 2022 r.
+# o zmianie ustawy – Prawo wodne oraz niektórych innych ustaw
+
+*USTAWA z dnia 13 stycznia 2022 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +25,6 @@ domain: null
 | Data wydania | 2022-02-03 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000258) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/258/text.pdf) |
-
-Poz. 258
-USTAWA z dnia 13 stycznia 2022 r.
-o zmianie ustawy – Prawo wodne oraz niektórych innych ustaw
 
 **Art. 1.** W ustawie z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2021 r. poz. 2233 i 2368 oraz z 2022 r. poz. 88) w art. 545 po ust. 1b dodaje się ust. 1c w brzmieniu: „1c. Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy dotyczących decyzji o środowiskowych uwarunkowaniach wydawanej przed uzyskaniem decyzji, o której mowa w art. 72 ust. 1 pkt 18a ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, stosuje się przepisy niniejszej ustawy.”.
 

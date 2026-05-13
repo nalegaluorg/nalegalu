@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 15 listopada 2024 r.
+# zmianie ustawy rozwoju lokalnym z udziałem lokalnej społeczności
+
+*USTAWA z dnia 11 października 2024 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,11 +26,7 @@ domain: null
 | Ostatnia zmiana | 2024-11-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001672) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1672/text.pdf) |
 
-Poz. 1672
-USTAWA z dnia 11 października 2024 r.
-o zmianie ustawy o rozwoju lokalnym z udziałem lokalnej społeczności
-
-**Art. 1.** W ustawie z dnia 20 lutego 2015 r. o rozwoju lokalnym z udziałem lokalnej społeczności (Dz. U. z 2023 r. poz. 1554) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 20 lutego 2015 r. rozwoju lokalnym z udziałem lokalnej społeczności (Dz. U. z 2023 r. poz. 1554) wprowadza się następujące zmiany:
 
 **Art. 14b.**
 
@@ -40,11 +38,11 @@ o zmianie ustawy o rozwoju lokalnym z udziałem lokalnej społeczności
 
 - **2)** zarząd województwa może ogłosić kolejny konkurs na wybór LSR.
 
-2. Przyłączenie, o którym mowa w ust. 1 pkt 1, następuje przez wprowadzenie zmiany w umowie ramowej.
+2. Przyłączenie, którym mowa w ust. 1 pkt 1, następuje przez wprowadzenie zmiany w umowie ramowej.
 
-**Art. 14c.** Wyboru LSR w ramach kolejnego konkursu dokonuje się przy zastosowaniu kryteriów wyboru LSR mających zastosowanie w poprzednim konkursie na wybór LSR, w terminie 4 miesięcy od dnia upływu terminu składania wniosków o wybór LSR, a:
+**Art. 14c.** Wyboru LSR w ramach kolejnego konkursu dokonuje się przy zastosowaniu kryteriów wyboru LSR mających zastosowanie w poprzednim konkursie na wybór LSR, w terminie 4 miesięcy od dnia upływu terminu składania wniosków wybór LSR, a:
 
-**Art. 2.** W przypadku rozwiązania umowy, o której mowa w art. 5 ust. 3 pkt 1a ustawy zmienianej w art. 1, przed dniem wejścia w życie niniejszej ustawy termin określony w art. 14a ustawy zmienianej w art. 1 liczy się od dnia wejścia w życie niniejszej ustawy.
+**Art. 2.** W przypadku rozwiązania umowy, której mowa w art. 5 ust. 3 pkt 1a ustawy zmienianej w art. 1, przed dniem wejścia w życie niniejszej ustawy termin określony w art. 14a ustawy zmienianej w art. 1 liczy się od dnia wejścia w życie niniejszej ustawy.
 
 **Art. 3.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
 

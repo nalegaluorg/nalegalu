@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 16 grudnia 2020 r.
+# Prawo o stowarzyszeniach W celu stworzenia warunków do pełnej realizacji gwarantowanej przepisami Konstytucji wolności zrzeszania się zgodnie z Powszechną Deklaracją Praw Człowieka i Międzynarodowym Paktem Praw Obywatelskich i Politycznych, umożliwienia obywatelom równego, bez względu na przekonania, prawa czynnego uczestniczenia w życiu publicznym i wyrażania zróżnicowanych poglądów oraz realizacji indywidualnych zainteresowań, a także uwzględniając tradycje i powszechnie uznawany dorobek ruchu stowarzyszeniowego, stanowi się, co następuje:
+
+*USTAWA z dnia 7 kwietnia 1989 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,34 +25,6 @@ domain: null
 | Data wydania | 2020-12-16 |
 | Ostatnia zmiana | 2026-03-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002261) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2261/text.pdf) |
-
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 18 listopada 2020 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy Prawo o stowarzyszeniach
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 7 kwietnia 1989 r. Prawo o stowarzyszeniach (Dz. U. z 2019 r. poz. 713), z uwzględnieniem zmian wprowadzonych:
-1) ustawą z dnia 16 kwietnia 2020 r. o szczególnych instrumentach wsparcia w związku z rozprzestrzenianiem się wirusa SARS-CoV-2 (Dz. U. poz. 695),
-2) ustawą z dnia 19 czerwca 2020 r. o dopłatach do oprocentowania kredytów bankowych udzielanych przedsiębiorcom dotkniętym skutkami COVID-19 oraz o uproszczonym postępowaniu o zatwierdzenie układu w związku z wystąpieniem COVID-19 (Dz. U. poz. 1086) oraz zmian wynikających z przepisów ogłoszonych przed dniem 17 listopada 2020 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 118 ustawy z dnia 16 kwietnia 2020 r. o szczególnych instrumentach wsparcia w związku z rozprzestrzenianiem się wirusa SARS-CoV-2 (Dz. U. poz. 695), który stanowi: „Art. 118. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem:
-1) art. 22, który wchodzi w życie z mocą od dnia 13 marca 2020 r.;
-2) art. 28, który wchodzi w życie z dniem 1 lipca 2020 r.;
-3) art. 53 pkt 8 w zakresie dodawanego art. 67c który wchodzi w życie z mocą od dnia 31 marca 2020 r.;
-4) art. 73 pkt 45, który wchodzi w życie z mocą od dnia 13 kwietnia 2020 r.;
-5) art. 73 pkt 57 w zakresie dodawanego art. 15zzzzm który wchodzi w życie z mocą od dnia 12 marca 2020 r.;
-6) art. 73 pkt 20, 38, 39 i 41, które wchodzą w życie z mocą od dnia 1 kwietnia 2020 r.;
-7) art. 73 pkt 68 w zakresie dodawanego art. 31zy który wchodzi w życie z mocą od dnia 14 marca 2020 r.”;
-2) art. 103 ustawy z dnia 19 czerwca 2020 r. o dopłatach do oprocentowania kredytów bankowych udzielanych przedsiębiorcom dotkniętym skutkami COVID-19 oraz o uproszczonym postępowaniu o zatwierdzenie układu w związku z wystąpieniem COVID-19 (Dz. U. poz. 1086), który stanowi: „Art. 103. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem:
-1) art. 50, art. 58 i art. 89, które wchodzą w życie po upływie 30 dni od dnia ogłoszenia;
-2) art. 70 pkt 1 i art. 76, które wchodzą w życie z dniem 1 stycznia 2021 r.;
-3) art. 75, który wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 14 listopada 2019 r.;
-4) art. 77:
-a) pkt 3 lit. a, b i e, pkt 4 lit. a–c oraz pkt 5 i 10, które wchodzą w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 25 maja 2020 r.,
-b) pkt 34–36, które wchodzą w życie po upływie 30 dni od dnia ogłoszenia,
-c) pkt 58 w zakresie art. 31q ust. 8, który wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 kwietnia 2020 r.,
-d) pkt 27 i 60, które wchodzą w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 31 marca 2020 r.;
-5) art. 77 pkt 24 i art. 93, które wchodzą w życie po upływie 7 dni od dnia ogłoszenia.”.
-Marszałek Sejmu: E. Witek
-USTAWA z dnia 7 kwietnia 1989 r.
-Prawo o stowarzyszeniach W celu stworzenia warunków do pełnej realizacji gwarantowanej przepisami Konstytucji wolności zrzeszania się zgodnie z Powszechną Deklaracją Praw Człowieka i Międzynarodowym Paktem Praw Obywatelskich i Politycznych, umożliwienia obywatelom równego, bez względu na przekonania, prawa czynnego uczestniczenia w życiu publicznym i wyrażania zróżnicowanych poglądów oraz realizacji indywidualnych zainteresowań, a także uwzględniając tradycje i powszechnie uznawany dorobek ruchu stowarzyszeniowego, stanowi się, co następuje:
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -120,14 +94,14 @@ Prawo o stowarzyszeniach W celu stworzenia warunków do pełnej realizacji gwara
 
 5. Nadzór nad działalnością stowarzyszeń należy do:
 
-- **1)** wojewody właściwego ze względu na siedzibę stowarzyszenia  w zakresie nadzoru nad działalnością stowarzyszeń jednostek samorządu terytorialnego,
-- **2)** starosty właściwego ze względu na siedzibę stowarzyszenia  w zakresie nadzoru nad innymi niż wymienione w pkt 1 stowarzyszeniami  zwanych dalej „organami nadzorującymi”.
+- **1)** wojewody właściwego ze względu na siedzibę stowarzyszenia − w zakresie nadzoru nad działalnością stowarzyszeń jednostek samorządu terytorialnego,
+- **2)** starosty właściwego ze względu na siedzibę stowarzyszenia − w zakresie nadzoru nad innymi niż wymienione w pkt 1 stowarzyszeniami − zwanych dalej „organami nadzorującymi”.
 
 6. Przepisy ustawy nie naruszają uprawnień prokuratora wynikających z innych ustaw.
 
 #### Rozdział 2 Tworzenie stowarzyszeń
 
-**Art. 9.** Osoby w liczbie co najmniej siedmiu, zamierzające założyć stowarzyszenie, uchwalają statut stowarzyszenia oraz wybierają komitet założycielski albo władze stowarzyszenia.
+**Art. 9.** Osoby w liczbie co najmniej siedmiu, zamierzające założyć stowarzyszenie, uchwalają statut stowarzyszenia oraz wybierają komitet założycielski albo władze stowarzyszenia. <Art. 9a. 1. Osoby w liczbie co najmniej siedmiu, zamierzające założyć stowarzyszenie, mogą uchwalić statut stowarzyszenia oraz wybrać jego władze przy wykorzystaniu wzorca statutu oraz wzorców uchwał o wyborze władz stowarzyszenia. 2. Przepisu ust. 1 nie stosuje się do zakładania:
 
 **Art. 10.**
 
@@ -156,11 +130,9 @@ Prawo o stowarzyszeniach W celu stworzenia warunków do pełnej realizacji gwara
 
 1d. Wykorzystanie środków komunikacji elektronicznej w głosowaniach na oraz poza posiedzeniami władz stowarzyszenia może podlegać odmiennym uregulowaniom w tym ograniczeniom w statucie stowarzyszenia. Statut stowarzyszenia może też wprost wyłączyć możliwość stosowania powyższych przepisów w stowarzyszeniu.
 
-1e. Rozwiązania, o których mowa w ust. 1a–1d, stosuje się w przypadku wprowadzenia stanu zagrożenia epidemicznego lub stanu epidemii, o których mowa w ustawie z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2020 r. poz. 1845).
+1e. (uchylony) 1f. Jeżeli kadencja władz stowarzyszenia, o których mowa w ust. 1 pkt 5, upływa w okresie obowiązywania stanu zagrożenia epidemicznego lub stanu epidemii, o których mowa w ustawie z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, lub do 30 dni po odwołaniu danego stanu, podlega ona przedłużeniu do czasu wyboru władz stowarzyszenia na nową kadencję, jednak nie dłużej niż do 60 dni od dnia odwołania stanu zagrożenia epidemicznego lub stanu epidemii.
 
-1f. Jeżeli kadencja władz stowarzyszenia, o których mowa w ust. 1 pkt 5, upływa w okresie obowiązywania stanu zagrożenia epidemicznego lub stanu epidemii, o których mowa w ustawie z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, lub do 30 dni po odwołaniu danego stanu, podlega ona przedłużeniu do czasu wyboru władz stowarzyszenia na nową kadencję, jednak nie dłużej niż do 60 dni od dnia odwołania stanu zagrożenia epidemicznego lub stanu epidemii.
-
-2. Ogólnokrajowe stowarzyszenia zrzeszające osoby wykonujące określony zawód lub zawody pokrewne, podejmujące zadania w zakresie rozpowszechniania wiedzy specjalistycznej i podnoszenia poziomu zawodowego w ramach wewnętrznego systemu potwierdzania kwalifikacji i umiejętności określają w statucie te zadania oraz zakres i sposób ich realizacji.
+2. Ogólnokrajowe stowarzyszenia zrzeszające osoby wykonujące określony zawód lub zawody pokrewne, podejmujące zadania w zakresie rozpowszechniania wiedzy specjalistycznej i podnoszenia poziomu zawodowego w ramach wewnętrznego systemu potwierdzania kwalifikacji i umiejętności – określają w statucie te zadania oraz zakres i sposób ich realizacji.
 
 3. Osoba prawna może być jedynie wspierającym członkiem stowarzyszenia.
 
@@ -210,13 +182,19 @@ Prawo o stowarzyszeniach W celu stworzenia warunków do pełnej realizacji gwara
 
 3. Stowarzyszenie jest obowiązane posiadać zarząd i organ kontroli wewnętrznej.
 
-4. W umowach między stowarzyszeniem a członkiem zarządu oraz w sporach z nim stowarzyszenie reprezentuje członek organu kontroli wewnętrznej wskazany w uchwale tego organu lub pełnomocnik powołany uchwałą walnego zebrania członków (zebrania delegatów).
+4. W umowach między stowarzyszeniem a członkiem zarządu oraz w sporach z nim stowarzyszenie reprezentuje członek organu kontroli wewnętrznej wskazany w uchwale tego organu lub pełnomocnik powołany uchwałą walnego zebrania członków (zebrania delegatów). [Art. 12. 1. Zarząd składa wniosek o wpis stowarzyszenia do Krajowego Rejestru Sądowego wraz ze statutem, listą założycieli, zawierającą imiona i nazwiska, datę i miejsce urodzenia, miejsce zamieszkania oraz własnoręczne podpisy założycieli, protokołem z wyboru władz stowarzyszenia oraz adresem siedziby stowarzyszenia.
 
-**Art. 12.**
+2. Wniosek, o którym mowa w ust. 1, podpisują wszyscy członkowie zarządu.] <Art. 12. 1. Zarząd składa wniosek o wpis stowarzyszenia do Krajowego Rejestru Sądowego wraz ze statutem, listą założycieli, zawierającą imiona i nazwiska, datę i miejsce urodzenia, miejsce zamieszkania oraz własnoręczne podpisy założycieli oraz protokołem z wyboru władz stowarzyszenia.
 
-1. Zarząd składa wniosek o wpis stowarzyszenia do Krajowego Rejestru Sądowego wraz ze statutem, listą założycieli, zawierającą imiona i nazwiska, datę i miejsce urodzenia, miejsce zamieszkania oraz własnoręczne podpisy założycieli, protokołem z wyboru władz stowarzyszenia oraz adresem siedziby stowarzyszenia.
+2. Przepisu ust. 1 nie stosuje się do złożenia wniosku o wpis stowarzyszenia, którego statut uchwalono przy wykorzystaniu wzorca statutu. W takim przypadku do wniosku o wpis stowarzyszenia do Krajowego Rejestru Sądowego dołącza się sporządzone na wzorcach udostępnionych w systemie teleinformatycznym:
 
-2. Wniosek, o którym mowa w ust. 1, podpisują wszyscy członkowie zarządu.
+- **1)** statut;
+- **2)** listę założycieli, zawierającą ich imiona i nazwiska, datę i miejsce ich urodzenia oraz miejsce ich zamieszkania, opatrzoną ich kwalifikowanymi podpisami elektronicznymi, podpisami zaufanymi lub podpisami osobistymi;
+- **3)** uchwały o wyborze władz stowarzyszenia.
+
+3. Wnioski, o których mowa w ust. 1 i 2, podpisują wszyscy członkowie zarządu.
+
+4. Do wniosku o zmianę danych stowarzyszenia wynikających z uchwały walnego zebrania członków podjętej przy wykorzystaniu wzorca uchwały należy dołączyć sporządzoną na wzorcu udostępnionym w systemie teleinformatycznym aktualną na dzień jej podjęcia listę członków stowarzyszenia uprawnionych do głosowania opatrzoną kwalifikowanymi podpisami elektronicznymi, podpisami zaufanymi lub podpisami osobistymi wszystkich członków zarządu.>
 
 **Art. 13.** (uchylony)
 
@@ -411,7 +389,7 @@ Prawo o stowarzyszeniach W celu stworzenia warunków do pełnej realizacji gwara
 
 5. W przypadku gdy organ nadzorujący nie dokona wpisu do ewidencji w terminie 7 dni od dnia wpływu wniosku o wpis lub uzupełnienia jego braków i nie został złożony wniosek, o którym mowa w art. 41, przedstawicielowi reprezentującemu stowarzyszenie zwykłe albo zarządowi przysługuje prawo wniesienia skargi na bezczynność do sądu administracyjnego.
 
-6. Do rozpoznania skargi, o której mowa w ust. 5, stosuje się przepisy ustawy z dnia 30 sierpnia 2002 r. Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2019 r. poz. 2325), z tym że:
+6. Do rozpoznania skargi, o której mowa w ust. 5, stosuje się przepisy ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2019 r. poz. 2325), z tym że:
 
 - **1)** organ nadzorujący przekazuje akta sprawy i odpowiedź na skargę w terminie 14 dni od dnia wniesienia skargi;
 - **2)** sąd rozpoznaje skargę w terminie 30 dni od dnia otrzymania akt sprawy wraz z odpowiedzią na skargę.
@@ -528,7 +506,7 @@ Prawo o stowarzyszeniach W celu stworzenia warunków do pełnej realizacji gwara
 
 **Art. 51.**
 
-1. Do czasu odrębnego uregulowania statusu prawnego związków wyznaniowych oraz zakonów i kongregacji duchownych, do których miały zastosowanie przepisy rozporządzenia Prezydenta Rzeczypospolitej z dnia 27 października 1932 r.  Prawo o stowarzyszeniach (Dz. U. poz. 808, z późn. zm. ), stosuje się wobec nich przepisy tego rozporządzenia.
+1. Do czasu odrębnego uregulowania statusu prawnego związków wyznaniowych oraz zakonów i kongregacji duchownych, do których miały zastosowanie przepisy rozporządzenia Prezydenta Rzeczypospolitej z dnia 27 października 1932 r. − Prawo o stowarzyszeniach (Dz. U. poz. 808, z późn. zm. ), stosuje się wobec nich przepisy tego rozporządzenia.
 
 2. Przepis ust. 1 stosuje się odpowiednio do nowo powstających związków wyznaniowych oraz zakonów i kongregacji duchownych.
 

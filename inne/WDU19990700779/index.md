@@ -10,7 +10,7 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# Dziennik Ustaw Nr 70 - 3802- Poz. 779 779 z dnia 27 lipca 1999 r.
+# sprawie Komisji Heraldycznej.
 
 | Pole | Wartość |
 |---|---|
@@ -23,44 +23,55 @@ domain: null
 | Ostatnia zmiana | 2024-11-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990700779) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1999/779/text.pdf) |
 
-Na podstawie art. 2a ust. 5 ustawy z dnia 21 grud nia 1978 r. o odznakach i mundurach (Dz. U. Nr 31, poz. 130 i z 1998 r. Nr 162, poz. 1126) co
-1.
-1)
-2) tryb i
-3) zasady - Komisji Heraldycznej, zwanej dalej
-2. 1. Komisja z:
-1)
-2)
+Na podstawie art. 2a ust. 5 ustawy z dnia 21 grudnia 1978 r. odznakach mundurach (Dz.U.
+Nr 31, poz. 130 z 1998 r. Nr 162, poz. 1126) zarządza się, co następuje: § 1.
+Rozporządzenie określa:
+1) strukturę,
+2) tryb powoływania odwoływania,
+3) szczegółowe zasady postępowania - Komisji Heraldycznej, zwanej dalej „Komisją”.
+§ 2.
+1. Komisja składa się z:
+1) przewodniczącego.
+2) zastępcy przewodniczącego,
 3) sekretarza,
-4) 10
-2. W Komisji
-1) 5 osób wskazanych przez ministra do spraw kultury i ochrony dziedzictwa narodowego,
-2) 5 osób wskazanych przez i Terytorialnego,
-3) 3 osoby wskazane przez ministra do spraw administracji publicznej.
-3. 1. Minister do spraw administracji publicznej zwraca na do podmiotów, o któ rych mowa w 2 ust. 2 pkt 1 i 2, o kandy datów do Komisji.
-2. Podmioty, o których mowa w 2 ust. 2 pkt 1 i 2, w terminie od otrzymania pisma ministra do spraw administracji pu blicznej, na kandydatów do Komisji.
-3. Do kandydatury opis przebie gu pracy zawodowej oraz posiadanych kwalifikacji kan dydata, a jego na w pracach Komisji.
-4. 1. Komisji w przy padku:
-1) organu, który z wnio skiem o
+4) 10 członków.
+2. W skład Komisji wchodzą:
+1) 5 osób wskazanych przez ministra właściwego do spraw kultury ochrony dziedzictwa narodowego,
+2) 5 osób wskazanych przez Komisję Wspólną Rządu Samorządu Terytorialnego,
+3) 3 osoby wskazane przez ministra właściwego do spraw administracji publicznej.
+§ 3.
+1. Minister właściwy do spraw administracji publicznej zwraca się na piśmie do podmiotów, § 2 ust. 2 pkt 1 2, zgłoszenie kandydatów do Komisji.
+2. Podmioty, § 2 ust. 2 pkt 1 2, są obowi ązane, terminie miesiąca od otrzymania pisma ministra właściwego do spraw administracji publicznej, zgłosić na piśmie kandydatów do Komisji.
+3. Do każdej kandydatury dołącza się opis przebiegu pracy zawodowej oraz posiadanych kwalifikacji kandydata, a także jego zgodę na udział pracach Komisji.
+§ 4.
+1. Odwołanie członka Komisji następuje przypadku:
+1) wystąpienia organu, który wskazał członka, z wnioskiem odwołanie,
 2) utraty praw publicznych,
-3) skazania prawomocnym wyrokiem za stwo z winy
-4) pisemnego zrzeczenia w Komisji.
-2. Do wniosku, o którym mowa w ust. 1 pkt 1, nale uzasadnienie Komisji.
-3. Minister do spraw administracji pu blicznej, w przypadku Komisji, zwra ca na o nowego kandydata do podmiotu, o którym mowa w 2 ust. 2 pkt 1 lub 2. Przepisy 3 ust. 2 i 3 stosuje odpowiednio.
-5. organizuje Komisji i pro wadzi jej obrady. W przypadku przewod zadania wykonuje jego
-6. 1. Komisja obraduje na posiedzeniach wanych przez w potrzeb.
-2. Komisji na posie dzenia specjalistów z zakresu heraldyki i weksylologii.
-3. Z posiedzenia który pod sekretarz i Komisji.
-7. 1. Komisja rozstrzyga, w formie spra wy do jej
-2. Komisji podejmowane w co najmniej Komi sji, w jawnym.
-3. W przypadku równej liczby rozstrzyga
-4. podpisuje Komisji.
-8. Wzory insygniów i symboli oraz projektów wzorcowych aktów prawnych, o których mowa wart. 2a ust. 3 pkt 1 i 2 ustawy z dnia 21 grudnia 1978 r.
-o odznakach i mundurach (Dz. U. Nr 31, poz. 130 i z 1998 r. Nr 162, poz. 1126), Komisja jest w terminie 30 dni od dnia ich otrzymania.
-9. Przedstawiciel jednostki terytorial nego, która o zaopiniowanie wzoru herbu, flagi, emblematu oraz insygniów i innych symboli, mo w posiedzeniach Komisji, bez prawa su. W tych przypadkach nie zastosowania przepi sy 10 ust. 1 i 2.
-10. 1. Komisji z w posie dzeniu za posiedzenia wyna grodzenie w 20% wynagrodzenia za pracowników, w przepisach.
-2. Zamiejscowym Komisji diety i inne za czas odbywania na zasadach za czas na obszarze kraju.
-3. Przepisów ust. 1 i 2 nie stosuje do pracowni ków administracji publicznej oraz osób zaproszonych przez Komisji.
-11. i kancela Komisji zapewnia Ministerstwo Spraw i Administracji.
-12. wchodzi w po 14 dni od dnia Prezes Rady Ministrów: J.
+3) skazania prawomocnym wyrokiem za przestępstwo popełnione z winy umyślnej,
+4) pisemnego zrzeczenia się członkostwa Komisji.
+2. Do wniosku, którym ust. 1 pkt 1, należy dołączyć uzasadnienie odwołania członka Komisji.
+3. Minister właściwy do spraw administracji publicznej, przypadku odwołania członka Komisji, zwraca się na piśmie zgłoszenie nowego kandydata do właściwego podmiotu, którym § 2 ust. 2 pkt 1 lub 2. Przepisy § 3 ust. 2 3 stosuje się odpowiednio.
+§ 5.
+Przewodniczący organizuje prace Komisji prowadzi jej obrady. W przypadku nieobecności przewodniczącego zadania przewodniczącego wykonuje jego zastępca.
+§ 6.
+1. Komisja obraduje na posiedzeniach zwoływanych przez przewodniczącego miarę potrzeb.
+2. Przewodniczący Komisji może zapraszać na posiedzenia specjalistów z zakresu heraldyki weksylologii.
+3. Z posiedzenia sporządza się protokół, który podpisują sekretarz przewodniczący Komisji.
+§ 7.
+1. Komisja rozstrzyga, formie uchwał, sprawy należące do jej zadań.
+2. Uchwały Komisji są podejmowane większością głosów obecności co najmniej połowy składu Komisji, głosowaniu jawnym.
+3. W przypadku równej liczby głosów rozstrzyga głos przewodniczącego.
+4. Uchwałę podpisuje przewodniczący Komisji.
+§ 8.
+Wzory insygniów symboli oraz projektów wzorcowych aktów prawnych, art. 21a ust. 3 pkt 1 2 ustawy z dnia 21 grudnia 1978 r. odznakach mundurach (Dz.U. Nr 31, poz. 130 z 1998 r. Nr 162, poz.. 1126), Komisja jest obowiązana zaopiniować terminie 30 dni od dnia ich otrzymania.
+§ 9.
+Przedstawiciele jednostki samorządu terytorialnego, która zwróciła się zaopiniowanie wzoru herbu, flagi, emblematu oraz insygniów innych symboli, może brać udział posiedzeniach Komisji, bez prawa głosu. W tych przypadkach nie mają zastosowania przepisy § 10 ust. 1 2.
+§ 10.
+1. Członkom Komisji z tytułu udziału posiedzeniu przysługuje za każdy dzień posiedzenia wynagrodzenie wysokości 20% najniższego miesięcznego wynagrodzenia za pracę pracowników, określonego odrębnych przepisach.
+2. Zamiejscowym członkom Komisji przysługują diety inne należności za czas odbywania podróży, na zasadach regulujących należności za czas podróży służbowych na obszarze kraju.
+3. Przepisów ust. 1 2 nie stosuje się do pracowników administracji publicznej oraz osób zaproszonych przez przewodniczącego Komisji.
+§ 11.
+Obsługę organizacyjną techniczną kancelaryjno-biurową Komisji zapewnia Ministerstwo Spraw Wewnętrznych Administracji.
+§ 12.
+Rozporządzenie wchodzi życie po upływie 14 dni od dnia ogłoszenia.
 

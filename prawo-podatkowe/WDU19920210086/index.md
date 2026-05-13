@@ -23,7 +23,7 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 1992-02-15 |
 | Data wydania | 1992-03-10 |
-| Ostatnia zmiana | 2026-04-23 |
+| Ostatnia zmiana | 2026-04-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19920210086) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1992/86/text.pdf) |
 
 Art. 29–36. (pominięte)

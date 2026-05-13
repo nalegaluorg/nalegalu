@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 23 grudnia 2024 r.
+# o zmianie ustawy o gospodarce opakowaniami i odpadami opakowaniowymi oraz niektórych innych ustaw
+
+*USTAWA z dnia 21 listopada 2024 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,9 +25,6 @@ domain: null
 | Data wydania | 2024-12-23 |
 | Ostatnia zmiana | 2025-01-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001911) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1911/text.pdf) |
-
-USTAWA z dnia 21 listopada 2024 r.
-o zmianie ustawy o gospodarce opakowaniami i odpadami opakowaniowymi oraz niektórych innych ustaw
 
 **Art. 1.** W ustawie z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi (Dz. U. z 2024 r. poz. 927) wprowadza się następujące zmiany:
 
@@ -63,5 +62,7 @@ o zmianie ustawy o gospodarce opakowaniami i odpadami opakowaniowymi oraz niekt�
 
 **Art. 9.** W 2025 r. przypadku opakowań:
 
-**Art. 11.** Ustawa wchodzi życie z dniem 1 stycznia 2025 r., z wyjątkiem art. 1 pkt 6, który wchodzi życie z dniem 1 stycznia 2026 r. Prezydent Rzeczypospolitej Polskiej: A. Duda MINIMALNE POZIOMY SELEKTYWNEGO ZBIERANIA OPAKOWAŃ I ODPADÓW OPAKOWANIOWYCH Poziomy selektywnego zbierania opakowań i odpadów opakowaniowych % roku Rodzaje opakowań 2029 2025 2026 2027 2028 i latach następnych 1 butelki jednorazowego użytku 77 77 77 77 90 z tworzyw sztucznych na napoje o pojemności do trzech litrów, włącznie z ich zakrętkami i wieczkami z tworzyw sztucznych, z wyłączeniem szklanych lub metalowych butelek na napoje, których zakrętki i wieczka są wykonane z tworzyw sztucznych 2 puszki metalowe o pojemności 77 77 77 77 90 do jednego litra 3 butelki szklane wielokrotnego 77 77 77 77 90 użytku o pojemności do półtora litra WZÓR OZNAKOWANIA WSKAZUJĄCEGO NA OBJĘCIE OPAKOWANIA SYSTEMEM KAUCYJNYM ORAZ OKREŚLAJĄCEGO WYSOKOŚĆ KAUCJI gdzie: X,YY oznacza kwotę kaucji, której X oznacza złotówki, a YY grosze, X oznacza kwotę kaucji pełnych złotych. Objaśnienia: Jeżeli dla danego rodzaju opakowania kwotę kaucji określono niepełnych złotych stosuje się wzór zawierający oznaczenie „X,YY”. Jeżeli dla danego rodzaju opakowania kwotę kaucji określono pełnych złotych stosuje się wzór zawierający oznaczenie „X”. Oznakowanie powinno:
+**Art. 10.** Obowiązki, o których mowa art. 40h ust. 4, art. 42 ust. 2 oraz art. 44 ust. 1, 2 i 4–7 ustawy zmienianej art. 1, mają zastosowanie od dnia 1 października 2025 r.
+
+**Art. 11.** Ustawa wchodzi życie z dniem 1 stycznia 2025 r., z wyjątkiem art. 1 pkt 6, który wchodzi życie z dniem 1 stycznia 2026 r. Prezydent Rzeczypospolitej Polskiej: A. Duda MINIMALNE POZIOMY SELEKTYWNEGO ZBIERANIA OPAKOWAŃ I ODPADÓW OPAKOWANIOWYCH Poziomy selektywnego zbierania opakowań i odpadów opakowaniowych % roku Poz. Rodzaje opakowań 2029 2025 2026 2027 2028 i latach następnych 1 butelki jednorazowego użytku z tworzyw sztucznych na napoje o pojemności do trzech litrów, włącznie z ich zakrętkami i wieczkami z tworzyw sztucznych, z wyłączeniem szklanych lub metalowych butelek na napoje, których zakrętki i wieczka są wykonane z tworzyw sztucznych 77 77 77 77 90 2 puszki metalowe o pojemności 77 77 77 77 90 do jednego litra 3 butelki szklane wielokrotnego 77 77 77 77 90 użytku o pojemności do półtora litra WZÓR OZNAKOWANIA WSKAZUJĄCEGO NA OBJĘCIE OPAKOWANIA SYSTEMEM KAUCYJNYM ORAZ OKREŚLAJĄCEGO WYSOKOŚĆ KAUCJI gdzie: X,YY – oznacza kwotę kaucji, której X oznacza złotówki, a YY grosze, X – oznacza kwotę kaucji pełnych złotych. Objaśnienia: Jeżeli dla danego rodzaju opakowania kwotę kaucji określono niepełnych złotych stosuje się wzór zawierający oznaczenie „X,YY”. Jeżeli dla danego rodzaju opakowania kwotę kaucji określono pełnych złotych stosuje się wzór zawierający oznaczenie „X”. Oznakowanie powinno:
 

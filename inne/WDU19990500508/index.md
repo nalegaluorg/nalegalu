@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# Dziennik Ustaw Nr 50 - 2755- Poz. 506, 507 i 508 w (Dz. U. Nr 76, poz. 495), dokonuje zmia ny na wprowadze niu zawodowych:
+# w sprawie przekształceń w Wyższej Szkole Zawodowej w Tarnowie.
 
 | Pole | Wartość |
 |---|---|
@@ -23,31 +23,13 @@ domain: null
 | Ostatnia zmiana | 2014-12-31 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990500508) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1999/508/text.pdf) |
 
-1) ochrona
-2)
-3) administracja produkcji, i finanse publiczne.
-2. wchodzi w po 7 dni od dnia Minister Edukacji Narodowej: M. Handke 507 MINISTRA EDUKACJI NARODOWEJ z dnia 20 maja 1999 r.
-w sprawie w Szkole Zawodowej w Nowym Na podstawie art. 10 ust. 4 ustawy z dnia 26 czerw ca 1997 r. o zawodowych (Dz. U.
-Nr 96, poz. 590 i z 1998 r. Nr 106, poz. 668) co
-1. W Szkole Zawodowej w Nowym utworzonej na podstawie dzenia Rady Ministrów z dnia 16 czerwca 1998 r. w spra wie utworzenia Zawodo wej w Nowym (Dz. U. Nr 76, poz. 499), dokonuje zmiany na:
-1) wprowadzeniu zawo dowych:
-a) mechaniczna,
-b) nauczanie z wychowaniem muzycz
-c) nauczanie nym, z wychowaniem fizycz nym,
-2) zniesieniu z dniem 30 1999 r.
-cych zawodowych:
-a) edukacja matematyczna z wychowaniem mu zycznym,
-b) edukacja matematyczna z wychowaniem fizycz nym,
-c) edukacja wczesnoszkolna i przedszkolna.
-2. wchodzi w po 7 dni od dnia Minister Edukacji Narodowej: M. Handke 508 MINISTRA EDUKACJI NARODOWEJ z dnia 20 maja 1999 r.
-w sprawie w Szkole Zawodowej w Tarnowie.
-Na podstawie art. 10 ust. 4 ustawy z dnia 26 czerw ca 1997 r. o zawodowych (Dz. U.
-Nr 96, poz. 590 i z 1998 Nr 106, poz. 668) co
-1. W Szkole Zawodowej w Tarnowie, utworzonej na podstawie Rady Mini strów z dnia 19 maja 1998 r. w sprawie utworzenia Zawodowej w Tarnowie (Dz. U. Nr 65, poz. 418), dokonuje zmiany:
-1) nazwy Zawodowa w Tarnowie"na Zawodowa w Tarnowie",
-2) na wprowa dzeniu zawodowych:
-a) ochrona
+Na podstawie art. 10 ust. 4 ustawy z dnia 26 czerwca 1997 r. o wyższych szkołach zawodowych (Dz.U. Nr 96, poz. 590 i z 1998 r. Nr 106, poz. 668) zarządza się, co następuje: § 1.
+W Wyższej Szkole Zawodowej w Tarnowie, utworzonej na podstawie rozporządzenia Rady Ministrów z dnia 19 maja 1998 r. w sprawie utworzenia Wyższej Szkoły Zawodowej w Tarnowie (Dz.U. Nr 65, poz. 418), dokonuje się zmiany:
+1) Nazwy „Wyższa Szkoła Zawodowa w Tarnowie” na nazwę „Państwowa Wyższa Szkoła Zawodowa w Tarnowie”,
+2) specjalności kształcenia polegającej na wprowadzeniu następujących specjalności zawodowych:
+a) ochrona środowiska,
 b) informatyka stosowana,
-c) technologia
-2. wchodzi w po 7 dni od dnia Minister Edukacji Narodowej: M. Handke
+c) technologia materiałów.
+§ 2.
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
 

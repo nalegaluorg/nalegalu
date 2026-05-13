@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 17 października 2024 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy o Organizacji Turystycznej
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 10 października 2024 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2024-10-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001541) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1541/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 10 października 2024 r.
-sprawie ogłoszenia jednolitego tekstu ustawy o Organizacji Turystycznej
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 25 czerwca 1999 r. o Organizacji Turystycznej (Dz. U. z 2023 r. poz. 1608), z uwzględnieniem zmian wprowadzonych ustawą z dnia 28 czerwca 2024 r. o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw (Dz. U. poz. 1089) oraz zmian wynikających z przepisów ogłoszonych przed dniem 2 października 2024 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 34 i art. 44 ustawy z dnia 28 czerwca 2024 r. o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw (Dz. U. poz. 1089), które stanowią: „Art. 34. Przepis art. 18 ust. 4 ustawy zmienianej art. 8, brzmieniu nadanym niniejszą ustawą, ma zastosowanie po raz pierwszy do rocznego sprawozdania finansowego Organizacji Turystycznej za rok 2024.” „Art. 44. Ustawa wchodzi życie z dniem następującym po dniu ogłoszenia, z wyjątkiem art. 8 pkt 3 i 4 oraz art. 16 pkt 2, które wchodzą życie z dniem 1 stycznia 2025 r.”.
 Marszałek Sejmu: S. Hołownia
@@ -196,7 +196,7 @@ Art. 21–23. (pominięte) Przepisy przejściowe i końcowe
 - **3)** imiona, nazwiska i adresy nie więcej niż 3 najlepszych kandydatów uszeregowanych według poziomu spełniania przez nich wymagań określonych ogłoszeniu o naborze;
 - **4)** informację o zastosowanych metodach i technikach naboru;
 - **5)** uzasadnienie dokonanego wyboru albo powody niewyłonienia kandydata;
-- **6)** skład zespołu. Organizacji Turystycznej i Biuletynie Informacji Publicznej Kancelarii Prezesa Rady Ministrów. Informacja o wyniku naboru zawiera:
+- **6)** skład zespołu. zawiera:
 - **1)** nazwę i adres Organizacji Turystycznej;
 - **2)** określenie stanowiska, na które był prowadzony nabór;
 - **3)** imiona, nazwiska wybranych kandydatów oraz ich miejsca zamieszkania rozumieniu przepisów Kodeksu cywilnego albo informację o niewyłonieniu kandydata.

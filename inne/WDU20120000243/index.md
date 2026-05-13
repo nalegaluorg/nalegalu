@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 6 marca 2012 r.
+# o zmianie ustawy o płatnościach w ramach systemów wsparcia bezpośredniego oraz niektórych innych ustaw
+
+*USTAWA z dnia 27 stycznia 2012 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,10 +26,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000243) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/243/text.pdf) |
 
-Pozycja
-USTAWA z dnia 27 stycznia 2012 r.
-o zmianie ustawy o płatnościach w ramach systemów wsparcia bezpośredniego oraz niektórych innych ustaw
-
 **Art. 1.** W ustawie z dnia 26 stycznia 2007 r. o płatnościach w ramach systemów wsparcia bezpośredniego (Dz. U. z 2008 r. Nr 170, poz. 1051, z późn. zm. ) wprowadza się następujące zmiany:
 
 **Art. 16g.**
@@ -37,7 +35,7 @@ o zmianie ustawy o płatnościach w ramach systemów wsparcia bezpośredniego or
 - **1)** przestał spełniać warunek, o którym mowa w art. 16f ust. 1 pkt 1 lub 2, lub
 - **2)** nie przekazał dyrektorowi oddziału terenowego Agencji Rynku Rolnego informacji, o których mowa w art. 16i ust. 1, lub dokonał odbioru surowca tytoniowego w terminie innym niż określony w tych informacjach.
 
-2. Decyzja o cofnięciu zatwierdzenia pierwszego przetwórcy surowca tytoniowego podlega natychmiastowemu
+2. Decyzja o cofnięciu zatwierdzenia pierwszego przetwórcy surowca tytoniowego podlega natychmiastowemu wykonaniu.
 
 3. W przypadku wydania decyzji o cofnięciu zatwierdzenia pierwszego przetwórcy surowca tytoniowego, podmiot, któremu cofnięto zatwierdzenie:
 
@@ -55,7 +53,7 @@ o zmianie ustawy o płatnościach w ramach systemów wsparcia bezpośredniego or
 
 1. Pierwszy przetwórca surowca tytoniowego wpisany do rejestru pierwszych przetwórców surowca tytoniowego przekazuje dyrektorowi oddziału terenowego Agencji Rynku Rolnego właściwemu ze względu na miejsce odbioru surowca tytoniowego informacje o:
 
-- **1)** planowanych w danym miesiącu, w okresie od dnia 1 września roku zbioru do dnia 31 marca roku następującego po roku zbioru, terminach odbioru surowca tytoniowego nie później niż 14 dni przed początkiem miesiąca, którego te informacje dotyczą, na formularzu opracowanym i udostępnionym przez Agencję Rynku Rolnego;
+- **1)** planowanych w danym miesiącu, w okresie od dnia 1 września roku zbioru do dnia 31 marca roku następującego po roku zbioru, terminach odbioru surowca tytoniowego – nie później niż 14 dni przed początkiem miesiąca, którego te informacje dotyczą, na formularzu opracowanym i udostępnionym przez Agencję Rynku Rolnego;
 - **2)** zmianie planowanych terminów odbioru surowca tytoniowego, o których mowa w pkt 1, nie później niż na 3 dni robocze przed zaplanowanym terminem odbioru.
 
 2. Zatwierdzony pierwszy przetwórca surowca tytoniowego przekazuje Prezesowi Agencji Rynku Rolnego, do dnia 31 maja roku następującego po roku zbioru, informacje o:
@@ -77,7 +75,7 @@ o zmianie ustawy o płatnościach w ramach systemów wsparcia bezpośredniego or
 - **1)** imię, nazwisko, miejsce zamieszkania i adres wnioskodawcy oraz miejsce i adres wykonywania działalności w zakresie prowadzenia punktu odbioru surowca tytoniowego, jeżeli są inne niż miejsce zamieszkania i adres wnioskodawcy, albo nazwę, siedzibę i adres wnioskodawcy, a także numer identyfikacyjny REGON wnioskodawcy, o ile taki posiada;
 - **2)** wskazanie miejsca położenia obiektu lub pomieszczenia, w którym ma być prowadzony odbiór i klasyfikacja surowca tytoniowego;
 - **3)** informację o urządzeniach przeznaczonych do odbioru i klasyfikacji surowca tytoniowego oraz ich rozmieszczeniu w obiekcie lub pomieszczeniu;
-- **4)** informacje konieczne do zatwierdzenia punktu odbioru surowca tytoniowego, inne niż dane osobowe, o ile są
+- **4)** informacje konieczne do zatwierdzenia punktu odbioru surowca tytoniowego, inne niż dane osobowe, o ile są niezbędne.
 
 5. Wniosek składa się na formularzu opracowanym i udostępnionym przez Agencję Rynku Rolnego, dołączając do niego dokument potwierdzający tytuł prawny wnioskodawcy do obiektu lub pomieszczenia, w którym ma być prowadzony odbiór i klasyfikacja surowca tytoniowego.
 
@@ -114,7 +112,7 @@ o zmianie ustawy o płatnościach w ramach systemów wsparcia bezpośredniego or
 
 **Art. 5.** W ustawie z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. Nr 98, poz. 634, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 6.** W ustawie z dnia 17 lutego 2010 r. o zmianie ustawy o płatnościach w ramach systemów wsparcia bezpośredniego oraz niektórych innych ustaw (Dz. U. Nr 36, poz. 197) w art. 6 ust. 1 otrzymuje brzmienie: „1. Przepisy wykonawcze wydane na podstawie art. 17 ust. 1 pkt 2, art. 24c, art. 25 ust. 6, art. 34 ust. 1 pkt 1 oraz art. 37c ustawy wymienionej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 17 ust. 1 pkt 2 lit. a–c, art. 24c, art. 25 ust. 6, art. 34 ust. 1 pkt 1 oraz art. 37c ustawy wymienionej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 5 lat od dnia jej wejścia w życie.”.
+**Art. 6.** W ustawie z dnia 17 lutego 2010 r. o zmianie ustawy o płatnościach w ramach systemów wsparcia bezpośredniego oraz niektórych innych ustaw (Dz. U. Nr 36, poz.
 
 **Art. 7.**
 
@@ -122,17 +120,17 @@ o zmianie ustawy o płatnościach w ramach systemów wsparcia bezpośredniego or
 
 2. W 2012 r. rolnik ubiegający się o przyznanie wsparcia specjalnego w formie płatności do surowca tytoniowego przekazuje kierownikowi biura powiatowego Agencji Restrukturyzacji i Modernizacji Rolnictwa, do którego złożył wniosek o przyznanie tej płatności:
 
-- **1)** kopię umowy na uprawę tytoniu jeżeli nie jest członkiem grupy producentów tytoniu lub
-- **2)** oświadczenie o zawarciu umowy kontraktacji, zawierające oznaczenie umowy na uprawę tytoniu, w ramach której została zawarta umowa kontraktacji jeżeli jest członkiem grupy producentów tytoniu w terminie do dnia 31 sierpnia.
+- **1)** kopię umowy na uprawę tytoniu – jeżeli nie jest członkiem grupy producentów tytoniu lub
+- **2)** oświadczenie o zawarciu umowy kontraktacji, zawierające oznaczenie umowy na uprawę tytoniu, w ramach której została zawarta umowa kontraktacji – jeżeli jest członkiem grupy producentów tytoniu – w terminie do dnia 31 sierpnia.
 
 3. W 2012 r. termin, o którym mowa w art. 7 ust. 2k ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą upływa z dniem 31 sierpnia.
 
 4. W 2012 r. warunek zawarcia umowy na uprawę tytoniu lub umowy kontraktacji w ramach umowy na uprawę tytoniu, o którym mowa w art. 7 ust. 2b pkt 3 lit. a tiret pierwsze ustawy, o której mowa w art. 1 w brzmieniu nadanym niniejszą ustawą, uważa się za spełniony również wtedy, gdy umowy te zostały zawarte z pierwszym przetwórcą surowca tytoniowego, który nie został wpisany do rejestru pierwszych przetwórców surowca tytoniowego, o którym mowa w art. 16f ust. 5 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, jeżeli:
 
-- **1)** umowa na uprawę tytoniu spełnia warunki, o których mowa w art. 7 ust. 2f–2h ustawy, o której mowa w art. 1 w brzmieniu nadanym niniejszą ustawą;
+- **1)** umowa na uprawę tytoniu spełnia warunki, o których mowa w art. 7 ust. 2f– 2h ustawy, o której mowa w art. 1 w brzmieniu nadanym niniejszą ustawą;
 - **2)** pierwszy przetwórca surowca tytoniowego będący stroną umowy na uprawę tytoniu uzyskał zatwierdzenie, o którym mowa w art. 16f ust. 1 ustawy, o której mowa w art. 1 w brzmieniu nadanym niniejszą ustawą, lub został wpisany do rejestru pierwszych przetwórców surowca tytoniowego zgodnie z art. 16f ust. 6 pkt 2 ustawy, o której mowa w art. 1 w brzmieniu nadanym niniejszą ustawą, na wniosek złożony w terminie do dnia 31 maja.
 
-**Art. 8.** W 2012 r. minister właściwy do spraw rolnictwa w porozumieniu z ministrem właściwym do spraw finansów publicznych, wydając rozporządzenie, o którym mowa w art. 24aa ust. 4 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, może uwzględnić kwotę pomocy krajowej, o której mowa w art. 129 ust. 3 rozporządzenia Rady (WE) nr 73/2009 z dnia 19 stycznia 2009 r. ustanawiającego wspólne zasady dla systemów wsparcia bezpośredniego dla rolników w ramach wspólnej polityki rolnej i ustanawiającego określone systemy wsparcia dla rolników, zmieniającego rozporządzenia (WE) nr 1290/2005, (WE) nr 247/2006, (WE) nr 378/2007 oraz uchylającego rozporządzenie (WE)
+**Art. 8.** W 2012 r. minister właściwy do spraw rolnictwa w porozumieniu z ministrem właściwym do spraw finansów publicznych, wydając rozporządzenie, o którym mowa w art. 24aa ust. 4 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, może uwzględnić kwotę pomocy krajowej, o której mowa w art. 129 ust. 3 rozporządzenia Rady (WE) nr 73/2009 z dnia 19 stycznia 2009 r. ustanawiającego wspólne zasady dla systemów wsparcia bezpośredniego dla rolników w ramach wspólnej polityki rolnej i ustanawiającego określone systemy wsparcia dla rolników, zmieniającego rozporządzenia (WE) nr 1290/2005, (WE) nr 247/2006, (WE) nr 378/2007 oraz uchylającego rozporządzenie (WE) nr 1782/2003 (Dz. Urz. UE L 30 z 31.01.2009, str. 16, z późn. zm.), biorąc pod uwagę założenia do ustawy budżetowej.
 
 **Art. 9.** Prezes Agencji Rynku Rolnego przekaże Prezesowi Agencji Restrukturyzacji i Modernizacji Rolnictwa, w tym w formie elektronicznej, informacje niezbędne do przyznania uzupełniającej krajowej płatności bezpośredniej dla producentów surowca tytoniowego oraz uzupełniającej krajowej płatności bezpośredniej w zakresie produkcji ziemniaka skrobiowego, o których mowa w przepisach o płatnościach w ramach systemów wsparcia bezpośredniego, w terminie 30 dni od dnia wejścia w życie niniejszej ustawy.
 
@@ -152,25 +150,26 @@ o zmianie ustawy o płatnościach w ramach systemów wsparcia bezpośredniego or
 
 - **1)** uzupełniającej krajowej płatności bezpośredniej dla producentów surowca tytoniowego, o której mowa w ust. 2,
 - **2)** stwierdzenia nabycia prawa do uzyskania uzupełniającej krajowej płatności bezpośredniej dla producentów surowca tytoniowego, o której mowa w ust. 2,
-- **3)** skreślenia i wpisania do rejestru podmiotów posiadających prawo do uzyskania uzupełniającej krajowej płatności bezpośredniej dla producentów surowca tytoniowego, o której mowa w ust. 2 jest, stosownie do swojej właściwości rzeczowej, dyrektor oddziału terenowego Agencji Rynku Rolnego albo Prezes Agencji Rynku Rolnego, albo minister właściwy do spraw rynków rolnych.
+- **3)** skreślenia i wpisania do rejestru podmiotów posiadających prawo do uzyskania uzupełniającej krajowej płatności bezpośredniej dla producentów surowca tytoniowego, o której mowa w ust. 2 – jest, stosownie do swojej właściwości rzeczowej, dyrektor oddziału terenowego Agencji Rynku Rolnego albo Prezes Agencji Rynku Rolnego, albo minister właściwy do spraw rynków rolnych.
 
 7. Organem właściwym do stwierdzenia nieważności, uchylenia lub zmiany decyzji ostatecznych wydanych przed dniem wejścia w życie niniejszej ustawy w sprawach dotyczących:
 
 - **1)** uzupełniającej krajowej płatności bezpośredniej w zakresie produkcji ziemniaka skrobiowego, o której mowa w ust. 3,
 - **2)** stwierdzenia nabycia prawa do uzyskania uzupełniającej krajowej płatności bezpośredniej w zakresie produkcji ziemniaka skrobiowego, o której mowa w ust. 3,
 - **3)** skreślenia i wpisania do rejestru podmiotów posiadających prawo do uzyskania uzupełniającej krajowej płatności bezpośredniej w zakresie produkcji ziemniaka skrobiowego, o której mowa w ust. 3,
-- **5)** dopłat i zaliczek na poczet dopłat do skrobi przyznawanych przetwórcom wykorzystującym skrobię do dalszego przerobu na cele niespożywcze jest, stosownie do swojej właściwości rzeczowej, dyrektor oddziału terenowego Agencji Rynku Rolnego albo Prezes Agencji Rynku Rolnego, albo minister właściwy do spraw rynków rolnych.
+- **4)** kwot produkcji przyznawanych producentom skrobi ziemniaczanej,
+- **5)** dopłat i zaliczek na poczet dopłat do skrobi przyznawanych przetwórcom wykorzystującym skrobię do dalszego przerobu na cele niespożywcze – jest, stosownie do swojej właściwości rzeczowej, dyrektor oddziału terenowego Agencji Rynku Rolnego albo Prezes Agencji Rynku Rolnego, albo minister właściwy do spraw rynków rolnych.
 
 8. Organem właściwym do stwierdzenia nieważności, uchylenia lub zmiany decyzji ostatecznych wydanych przed dniem 1 lipca 2012 r. w sprawach dotyczących:
 
 - **1)** premii produkcyjnych przyznawanych producentom skrobi ziemniaczanej,
-- **2)** uzupełniającej krajowej płatności bezpośredniej w zakresie produkcji ziemniaka skrobiowego, o której mowa w ust. 4 jest, stosownie do swojej właściwości rzeczowej, dyrektor oddziału terenowego Agencji Rynku Rolnego albo Prezes Agencji Rynku Rolnego, albo minister właściwy do spraw rynków rolnych.
+- **2)** uzupełniającej krajowej płatności bezpośredniej w zakresie produkcji ziemniaka skrobiowego, o której mowa w ust. 4 – jest, stosownie do swojej właściwości rzeczowej, dyrektor oddziału terenowego Agencji Rynku Rolnego albo Prezes Agencji Rynku Rolnego, albo minister właściwy do spraw rynków rolnych.
 
 9. Do spraw rozstrzygniętych decyzją ostateczną wydaną przed dniem wejścia w życie niniejszej ustawy dotyczącą:
 
 - **1)** uzupełniającej krajowej płatności bezpośredniej dla producentów surowca tytoniowego, o której mowa w ust. 2,
 - **2)** stwierdzenia nabycia prawa do uzyskania uzupełniającej krajowej płatności bezpośredniej dla producentów surowca tytoniowego, o której mowa w ust. 2,
-- **3)** skreślenia i wpisania do rejestru podmiotów posiadających prawo do uzyskania uzupełniającej krajowej płatności bezpośredniej dla producentów surowca tytoniowego, o której mowa w ust. 2 która od dnia wejścia w życia niniejszej ustawy została zmieniona, uchylona albo stwierdzono jej nieważność, stosuje się przepisy dotychczasowe.
+- **3)** skreślenia i wpisania do rejestru podmiotów posiadających prawo do uzyskania uzupełniającej krajowej płatności bezpośredniej dla producentów surowca tytoniowego, o której mowa w ust. 2 – która od dnia wejścia w życia niniejszej ustawy została zmieniona, uchylona albo stwierdzono jej nieważność, stosuje się przepisy dotychczasowe.
 
 10. Do spraw rozstrzygniętych decyzją ostateczną wydaną przed dniem wejścia w życie niniejszej ustawy dotyczącą:
 
@@ -178,18 +177,20 @@ o zmianie ustawy o płatnościach w ramach systemów wsparcia bezpośredniego or
 - **2)** stwierdzenia nabycia prawa do uzyskania uzupełniającej krajowej płatności bezpośredniej w zakresie produkcji ziemniaka skrobiowego, o której mowa w ust. 3,
 - **3)** skreślenia i wpisania do rejestru podmiotów posiadających prawo do uzyskania uzupełniającej krajowej płatności bezpośredniej w zakresie produkcji ziemniaka skrobiowego, o której mowa w ust. 3,
 - **4)** kwot produkcji przyznawanych producentom skrobi ziemniaczanej,
-- **5)** dopłat i zaliczek na poczet dopłat do skrobi przyznawanych przetwórcom wykorzystującym skrobię do dalszego przerobu na cele niespożywcze która od dnia wejścia w życia niniejszej ustawy została zmieniona, uchylona albo stwierdzono jej nieważność, stosuje się przepisy dotychczasowe.
+- **5)** dopłat i zaliczek na poczet dopłat do skrobi przyznawanych przetwórcom wykorzystującym skrobię do dalszego przerobu na cele niespożywcze – która od dnia wejścia w życia niniejszej ustawy została zmieniona, uchylona albo stwierdzono jej nieważność, stosuje się przepisy dotychczasowe.
 
 11. Do spraw rozstrzygniętych decyzją ostateczną wydaną przed dniem 1 lipca 2012 r. dotyczącą:
 
 - **1)** premii produkcyjnych przyznawanych producentom skrobi ziemniaczanej,
-- **2)** uzupełniającej krajowej płatności bezpośredniej w zakresie produkcji ziemniaka skrobiowego, o której mowa w ust. 4 która od dnia 1 lipca 2012 r. została zmieniona, uchylona albo stwierdzono jej nieważność, stosuje się przepisy dotychczasowe.
+- **2)** uzupełniającej krajowej płatności bezpośredniej w zakresie produkcji ziemniaka skrobiowego, o której mowa w ust. 4 – która od dnia 1 lipca 2012 r. została zmieniona, uchylona albo stwierdzono jej nieważność, stosuje się przepisy dotychczasowe.
 
 12. Do postępowań w sprawach, o których mowa w ust. 9 i 10, zakończonych decyzją ostateczną do dnia wejścia w życie niniejszej ustawy, które zostały wznowione od dnia wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
 
 13. Do postępowań w sprawach, o których mowa w ust. 11, zakończonych decyzją ostateczną do dnia 30 czerwca 2012 r., które zostały wznowione od dnia 1 lipca 2012 r., stosuje się przepisy dotychczasowe.
 
-14. Organem właściwym do wznowienia postępowania w sprawach, o których mowa w ust. 9 i 10, zakończonych decyzją ostateczną do dnia wejścia w życie niniejszej ustawy jest, stosownie do swojej właściwości rzeczowej, dyrektor oddziału terenowego Agencji Rynku Rolnego albo Prezes Agencji Rynku Rolnego, albo minister właściwy do spraw rynków rol15. Organem właściwym do wznowienia postępowania w sprawach, o których mowa w ust. 11, zakończonych decyzją ostateczną do dnia 30 czerwca 2012 r., jest, stosownie do swojej właściwości rzeczowej, dyrektor oddziału terenowego Agencji Rynku Rolnego albo Prezes Agencji Rynku Rolnego, albo minister właściwy do spraw rynków rolnych.
+14. Organem właściwym do wznowienia postępowania w sprawach, o których mowa w ust. 9 i 10, zakończonych decyzją ostateczną do dnia wejścia w życie niniejszej ustawy jest, stosownie do swojej właściwości rzeczowej, dyrektor oddziału terenowego Agencji Rynku Rolnego albo Prezes Agencji Rynku Rolnego, albo minister właściwy do spraw rynków rolnych.
+
+15. Organem właściwym do wznowienia postępowania w sprawach, o których mowa w ust. 11, zakończonych decyzją ostateczną do dnia 30 czerwca 2012 r., jest, stosownie do swojej właściwości rzeczowej, dyrektor oddziału terenowego Agencji Rynku Rolnego albo Prezes Agencji Rynku Rolnego, albo minister właściwy do spraw rynków rolnych.
 
 **Art. 11.**
 
@@ -200,7 +201,7 @@ o zmianie ustawy o płatnościach w ramach systemów wsparcia bezpośredniego or
 3. Przepisy wykonawcze wydane na podstawie:
 
 - **1)** art. 38 ust. 5,
-- **2)** art. 38f ustawy wymienionej w art. 3 zachowują moc.
+- **2)** art. 38f – ustawy wymienionej w art. 3 zachowują moc.
 
 **Art. 12.** Przepisy art. 35 i art. 37a ustawy wymienionej w art. 3, w brzmieniu nadanym niniejszą ustawą, obowiązują do dnia 30 czerwca 2012 r.
 

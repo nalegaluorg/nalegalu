@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# Dziennik Ustaw Nr 138 — 7506 — Poz. 863
+# uchylająca ustawę o klasyfikacji drewna surowego nieobrobionego
+
+*USTAWA z dnia 12 czerwca 2008 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,5 +26,7 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081380863) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/863/text.pdf) |
 
-**Art. 1.** Uchyla si´ ustaw´ z dnia 31 marca 2004 r. Art. 2. Ustawa wchodzi w ˝ycie z dniem 1 stycznia oklasyfikacji drewna surowego nieobrobionego (Dz.U. 2009 r. Nr 93, poz. 886). 863 USTAWA z dnia 12 czerwca 2008 r. uchylajàca ustaw´ o klasyfikacji drewna surowego nieobrobionego Prezydent Rzeczypospolitej Polskiej: L. Kaczyƒski
+**Art. 1.** Uchyla się ustawę z dnia 31 marca 2004 r. o klasyfikacji drewna surowego nieobrobionego (Dz.U. Nr 93, poz. 886).
+
+**Art. 2.** Ustawa wchodzi w życie z dniem 1 stycznia 2009 r.
 

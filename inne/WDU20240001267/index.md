@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 21 sierpnia 2024 r.
+# w sprawie ogłoszenia jednolitego tekstu ustawy Prawo o ustroju sądów administracyjnych
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 19 sierpnia 2024 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -21,11 +23,9 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2024-08-19 |
 | Data wydania | 2024-08-21 |
-| Ostatnia zmiana | 2026-04-16 |
+| Ostatnia zmiana | 2024-09-04 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001267) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1267/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 19 sierpnia 2024 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy Prawo o ustroju sądów administracyjnych
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 25 lipca 2002 r. Prawo o ustroju sądów administracyjnych (Dz. U. z 2022 r. poz. 2492), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 28 lipca 2023 r. o zmianie ustawy Kodeks cywilny oraz niektórych innych ustaw (Dz. U. poz. 1615) oraz zmian wynikających z przepisów ogłoszonych przed dniem 14 sierpnia 2024 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 14 ustawy z dnia 28 lipca 2023 r. o zmianie ustawy Kodeks cywilny oraz niektórych innych ustaw (Dz. U. poz. 1615), który stanowi: „Art. 14. Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem:
 1) art. 1 pkt 1–3 i art. 3 pkt 10, które wchodzą w życie po upływie miesiąca od dnia ogłoszenia;
@@ -89,7 +89,7 @@ ten, kto:
 5. Prezes Naczelnego Sądu Administracyjnego, po zasięgnięciu opinii kolegium sądu, przedstawia Krajowej Radzie Sądownictwa kandydaturę na stanowisko asesora sądowego wraz z oceną kwalifikacji.
 7. 1. Do pełnienia urzędu na stanowisku sędziego Naczelnego Sądu Administracyjnego może być powołany ten, kto spełnia wymagania określone w art. 6 1 pkt 1–4 i 6, jeżeli ukończył 40 lat oraz pozostawał co najmniej dziesięć lat na stanowisku sędziego, prokuratora, prezesa, wiceprezesa, lub radcy Prokuratorii Generalnej Rzeczypospolitej Polskiej albo przynajmniej przez dziesięć lat wykonywał zawód adwokata, radcy prawnego lub notariusza. Wymaganie ukończenia 40 lat nie dotyczy sędziego, który co najmniej przez trzy lata pozostawał na stanowisku sędziego wojewódzkiego sądu administracyjnego.
 2. Do powołania na stanowisko sędziego Naczelnego Sądu Administracyjnego stosuje się także przepisy art. 6 2–4.
-o ustroju sądów powszechnych (Dz. U. z 2024 r. poz. 334), sędziowie wojewódzkiego sądu administracyjnego składają właściwemu prezesowi wojewódzkiego sądu administracyjnego, a prezes wojewódzkiego sądu administracyjnego i sędziowie Naczelnego Sądu Administracyjnego Prezesowi Naczelnego Sądu Administracyjnego. Analizy danych zawartych w oświadczeniu o stanie majątkowym dokonuje kolegium właściwego sądu administracyjnego.
+ciwemu prezesowi wojewódzkiego sądu administracyjnego, a prezes wojewódzkiego sądu administracyjnego i sędziowie Naczelnego Sądu Administracyjnego Prezesowi Naczelnego Sądu Administracyjnego. Analizy danych zawartych w oświadczeniu o stanie majątkowym dokonuje kolegium właściwego sądu administracyjnego.
 2. Oświadczenie, o którym mowa w art. 88a ustawy z dnia 27 lipca 2001 r. Prawo o ustroju sądów powszechnych, sędziowie wojewódzkiego sądu administracyjnego składają właściwemu prezesowi wojewódzkiego sądu administracyjnego, a prezes wojewódzkiego sądu administracyjnego i sędziowie Naczelnego Sądu Administracyjnego Prezesowi Naczelnego Sądu Administracyjnego, zaś Prezes Naczelnego Sądu Administracyjnego Krajowej Radzie Sądownictwa.
 9. Sądem dyscyplinarnym w sprawach dyscyplinarnych sędziów sądów administracyjnych i asesorów sądowych jest Naczelny Sąd Administracyjny. Rzecznikiem dyscyplinarnym w tych sprawach jest Rzecznik Dyscyplinarny Naczelnego Sądu Administracyjnego.
 10. W sądach administracyjnych są zatrudnieni starsi referendarze sądowi, referendarze sądowi, starsi asystenci sędziów, asystenci sędziów oraz urzędnicy i inni pracownicy sądowi.
@@ -195,7 +195,7 @@ Uchwały zapadają bezwzględną większością głosów.
 2. Do zakresu działania Kancelarii Prezesa Naczelnego Sądu Administracyjnego należy wykonywanie zadań związanych z pełnieniem przez Prezesa Naczelnego Sądu Administracyjnego czynności w zakresie tworzenia warunków do sprawnego funkcjonowania sądów administracyjnych, w szczególności w sprawach finansowych, kadrowych i administracyjno-gospodarczych. Kancelarią Prezesa Naczelnego Sądu Administracyjnego kieruje Szef Kancelarii Prezesa Naczelnego Sądu Administracyjnego.
 3. Do zakresu działania Biura Orzecznictwa należy wykonywanie zadań związanych z pełnieniem przez Prezesa Naczelnego Sądu Administracyjnego czynności w zakresie sprawności postępowania sądowego oraz orzecznictwa sądów administracyjnych. Biurem Orzecznictwa kieruje dyrektor, którym jest wiceprezes lub sędzia.
 4. Szczegółowy zakres zadań Kancelarii Prezesa Naczelnego Sądu Administracyjnego oraz Biura Orzecznictwa określa regulamin, o którym mowa w art. 43.
-tworzy i znosi wydziały w Izbach, o których mowa w art. 39, Kancelarii Prezesa Naczelnego Sądu Administracyjnego i w Biurze Orzecznictwa oraz powołuje i odwołuje przewodniczących wydziałów, Szefa Kancelarii Prezesa Naczelnego Sądu Administracyjnego i dyrektora Biura Orzecznictwa.
+Orzecznictwa oraz powołuje i odwołuje przewodniczących wydziałów, Szefa Kancelarii Prezesa Naczelnego Sądu Administracyjnego i dyrektora Biura Orzecznictwa.
 2. Prezes Naczelnego Sądu Administracyjnego może także powoływać i odwoływać zastępców przewodniczących wydziałów w Izbach, o których mowa w art. 39, zastępców Szefa Kancelarii Prezesa Naczelnego Sądu Administracyjnego i zastępców dyrektora Biura Orzecznictwa oraz naczelników wydziałów w Kancelarii Prezesa Naczelnego Sądu Administracyjnego i w Biurze Orzecznictwa.
 42. Prezes Naczelnego Sądu Administracyjnego wydaje zbiór urzędowy orzeczeń sądów administracyjnych.
 43. Prezydent Rzeczypospolitej Polskiej, po zasięgnięciu opinii Kolegium Naczelnego Sądu Administracyjnego, określi, w drodze rozporządzenia, regulamin Naczelnego Sądu Administracyjnego, w którym ustali liczbę stanowisk sędziowskich w Naczelnym Sądzie Administracyjnym nie mniejszą niż 120, w tym liczbę wiceprezesów tego Sądu oraz liczbę sędziów w poszczególnych izbach, wewnętrzną organizację Naczelnego Sądu Administracyjnego oraz zasady wewnętrznego postępowania, biorąc pod uwagę konieczność zapewnienia sprawnego funkcjonowania Naczelnego Sądu Administracyjnego, jego izb i organów, specyfikę postępowań prowadzonych przed Naczelnym Sądem oraz liczbę i rodzaj rozpoznawanych spraw.
@@ -240,7 +240,7 @@ Funkcja Nadzwyczajnego Rzecznika Dyscyplinarnego wygasa z chwilą uprawomocnieni
 1) okoliczność, że orzeczenie sądowe wydane z udziałem danego sędziego obarczone jest błędem w zakresie wykładni i stosowania przepisów prawa krajowego lub prawa Unii Europejskiej lub w zakresie ustalenia stanu faktycznego lub oceny dowodów;
 2) wystąpienie do Trybunału Sprawiedliwości Unii Europejskiej z wnioskiem o rozpatrzenie pytania prejudycjalnego, o którym mowa w art. 267 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. U. z 2004 r. poz. 864, z późn. zm.);
 3) badanie spełniania wymogów niezawisłości i bezstronności w przypadku, o którym mowa w art. 5a 1.
-urzędników i pracowników tego Sądu, stosuje się odpowiednio przepisy dotyczące Sądu Najwyższego, a w zakresie w nich nieuregulowanym przepisy ustawy z dnia 27 lipca 2001 r. Prawo o ustroju sądów powszechnych. Określone w tych przepisach uprawnienia Pierwszego Prezesa Sądu Najwyższego przysługują Prezesowi Naczelnego Sądu Administracyjnego.
+nieuregulowanym przepisy ustawy z dnia 27 lipca 2001 r. Prawo o ustroju sądów powszechnych. Określone w tych przepisach uprawnienia Pierwszego Prezesa Sądu Najwyższego przysługują Prezesowi Naczelnego Sądu Administracyjnego.
 2. Do zgłaszania kandydatur na wolne stanowisko sędziego przewidziane do objęcia w Naczelnym Sądzie Administracyjnym stosuje się odpowiednio art. 31 ustawy z dnia 8 grudnia 2017 r. o Sądzie Najwyższym.
 50. Ustawa wchodzi w życie w terminie i na zasadach określonych ustawą z dnia 30 sierpnia 2002 r. Przepisy wprowadzające ustawę Prawo o ustroju sądów administracyjnych i ustawę Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. poz. 1271, z późn. zm. ).
 

@@ -10,7 +10,9 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 grudnia 2017 r.
+# o dystrybucji ubezpieczeń
+
+*USTAWA z dnia 15 grudnia 2017 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,7 @@ domain: null
 | Ostatnia zmiana | 2026-01-26 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002486) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2486/text.pdf) |
 
-USTAWA z dnia 15 grudnia 2017 r.
-o dystrybucji ubezpiecze ń
+Art. 91–100. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -65,38 +66,39 @@ o dystrybucji ubezpiecze ń
 
 1. Użyte w ustawie określenia oznaczają:
 
-- **1)** agent oferujący ubezpieczenia uzupełniające przedsiębiorcę wykonującego działalność agencyjną na podstawie umowy agencyjnej zawartej z zakładem ubezpieczeń, wpisanego do rejestru agentów, niebędącego instytucją kredytową w rozumieniu art. 3 pkt 1 ustawy z dnia 15 kwietnia 2005 r. o nadzorze uzupełniającym nad instytucjami kredytowymi, zakładami ubezpieczeń, zakładami reasekuracji i firmami inwestycyjnymi wchodzącymi w skład konglomeratu finansowego (Dz. U. z 2016 r. poz. 1252) ani firmą inwestycyjną w rozumieniu art. 4 ust. 1 pkt 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 575/2013 z dnia 26 czerwca 2013 r. w sprawie wymogów ostrożnościowych dla instytucji kredytowych i firm inwestycyjnych, zmieniającego rozporządzenie (UE) nr 648/2012 (Dz. Urz. UE L 176 z 27.06.2013, str. 1, z późn. zm. ), który za wynagrodzeniem wykonuje dystrybucję ubezpieczeń jako działalność uboczną, jeżeli spełnione są łącznie następujące warunki:
+- **1)** agent oferujący ubezpieczenia uzupełniające – przedsiębiorcę wykonującego działalność agencyjną na podstawie umowy agencyjnej zawartej z zakładem ubezpieczeń, wpisanego do rejestru agentów, niebędącego instytucją kredytową w rozumieniu art. 3 pkt 1 ustawy z dnia 15 kwietnia 2005 r. o nadzorze uzupełniającym nad instytucjami kredytowymi, zakładami ubezpieczeń, zakładami reasekuracji i firmami inwestycyjnymi wchodzącymi w skład konglomeratu finansowego (Dz. U. z 2020 r. poz. 1413) ani firmą inwestycyjną w rozumieniu art. 4 ust. 1 pkt 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 575/2013 z dnia 26 czerwca 2013 r. w sprawie wymogów ostrożnościowych dla instytucji kredytowych oraz zmieniającego rozporządzenie (UE) nr 648/2012 (Dz. Urz. UE L 176 z 27.06.2013, str. 1, z późn. zm. ), który za wynagrodzeniem wykonuje dystrybucję ubezpieczeń jako działalność uboczną, jeżeli spełnione są łącznie następujące warunki:
     - **a)** podstawową działalnością przedsiębiorcy nie jest działalność w zakresie dystrybucji ubezpieczeń,
     - **b)** przedsiębiorca dystrybuuje wyłącznie ubezpieczenia uzupełniające dostarczane towary lub świadczone usługi,
     - **c)** dystrybucja ubezpieczeń nie odnosi się do umowy ubezpieczenia na życie lub umowy ubezpieczenia odpowiedzialności cywilnej, chyba że taka umowa jest uzupełnieniem dostarczanych towarów lub świadczonych usług w ramach podstawowej działalności przedsiębiorcy;
 
-- **2)** agent ubezpieczeniowy przedsiębiorcę, innego niż agent oferujący ubezpieczenia uzupełniające, wykonującego działalność agencyjną na podstawie umowy agencyjnej zawartej z zakładem ubezpieczeń i wpisanego do rejestru agentów;
-- **3)** bliskie powiązania bliskie powiązania w rozumieniu art. 3 ust. 1 pkt 2 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. z 2017 r. poz. 1170, 1089, 1926, 2102 i 2486), zwanej dalej „ustawą o działalności ubezpieczeniowej i reasekuracyjnej”;
-- **4)** broker reasekuracyjny osobę fizyczną albo osobę prawną, posiadającą wydane przez organ nadzoru zezwolenie na wykonywanie działalności brokerskiej w zakresie reasekuracji, wpisaną do rejestru brokerów;
-- **5)** broker ubezpieczeniowy osobę fizyczną albo osobę prawną, posiadającą wydane przez organ nadzoru zezwolenie na wykonywanie działalności brokerskiej w zakresie ubezpieczeń, wpisaną do rejestru brokerów;
-- **6)** duże ryzyka duże ryzyka w rozumieniu art. 3 ust. 1 pkt 6 ustawy o działalności ubezpieczeniowej i reasekuracyjnej;
-- **7)** dystrybutor reasekuracji zakład reasekuracji, zakład ubezpieczeń lub brokera reasekuracyjnego;
-- **8)** dystrybutor ubezpieczeń zakład ubezpieczeń, agenta ubezpieczeniowego, agenta oferującego ubezpieczenia uzupełniające lub brokera ubezpieczeniowego;
-- **9)** EIOPA Europejski Urząd Nadzoru Ubezpieczeń i Pracowniczych Programów Emerytalnych, ustanowiony na mocy rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1094/2010 z dnia 24 listopada 2010 r. w sprawie ustanowienia Europejskiego Urzędu Nadzoru (Europejskiego Urzędu Nadzoru Ubezpieczeń i Pracowniczych Programów Emerytalnych), zmiany decyzji nr 716/2009/WE i uchylenia decyzji Komisji 2009/79/WE (Dz. Urz. UE L 331 z 15.12.2010, str. 48, z późn. zm. ), zwanego dalej „rozporządzeniem 1094/2010”;
+- **2)** agent ubezpieczeniowy – przedsiębiorcę, innego niż agent oferujący ubezpieczenia uzupełniające, wykonującego działalność agencyjną na podstawie umowy agencyjnej zawartej z zakładem ubezpieczeń i wpisanego do rejestru agentów;
+- **3)** bliskie powiązania – bliskie powiązania w rozumieniu art. 3 ust. 1 pkt 2 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. z 2025 r. poz. 1526), zwanej dalej „ustawą o działalności ubezpieczeniowej i reasekuracyjnej”;
+- **4)** broker reasekuracyjny – osobę fizyczną albo osobę prawną, posiadającą wydane przez organ nadzoru zezwolenie na wykonywanie działalności brokerskiej w zakresie reasekuracji, wpisaną do rejestru brokerów;
+- **5)** broker ubezpieczeniowy – osobę fizyczną albo osobę prawną, posiadającą wydane przez organ nadzoru zezwolenie na wykonywanie działalności brokerskiej w zakresie ubezpieczeń, wpisaną do rejestru brokerów;
+- **6)** duże ryzyka – duże ryzyka w rozumieniu art. 3 ust. 1 pkt 6 ustawy o działalności ubezpieczeniowej i reasekuracyjnej;
+- **7)** dystrybutor reasekuracji – zakład reasekuracji, zakład ubezpieczeń lub brokera reasekuracyjnego;
+- **8)** dystrybutor ubezpieczeń – zakład ubezpieczeń, agenta ubezpieczeniowego, agenta oferującego ubezpieczenia uzupełniające lub brokera ubezpieczeniowego;
+- **9)** EIOPA – Europejski Urząd Nadzoru Ubezpieczeń i Pracowniczych Programów Emerytalnych, ustanowiony na mocy rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1094/2010 z dnia 24 listopada 2010 r. w sprawie ustanowienia Europejskiego Urzędu Nadzoru (Europejskiego Urzędu Nadzoru Ubezpieczeń i Pracowniczych Programów Emerytalnych), zmiany decyzji nr 716/2009/WE i uchylenia decyzji Komisji 2009/79/WE (Dz. Urz. UE L 331 z 15.12.2010, str. 48, z późn. zm. ), zwanego dalej „rozporządzeniem 1094/2010”;
 - **10)** klient ‒ w przypadku:
     - **a)** umów ubezpieczenia ‒ poszukującego ochrony ubezpieczeniowej, ubezpieczającego lub ubezpieczonego,
     - **b)** umów gwarancji ubezpieczeniowej ‒ zleceniodawcę gwarancji ubezpieczeniowej;
 
-- **11)** oddział każdą formę stałej obecności na terytorium państwa członkowskiego Unii Europejskiej pośrednika ubezpieczeniowego mającego siedzibę lub miejsce zamieszkania w innym państwie członkowskim Unii Europejskiej, w tym oddział w rozumieniu ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2017 r. poz. 2168 i 2290);
-- **12)** organ nadzoru Komisję Nadzoru Finansowego;
-- **13)** poszukujący ochrony ubezpieczeniowej osobę, która wyraziła wobec dystrybutora ubezpieczeń wolę podjęcia czynności służących zawarciu przez nią umowy ubezpieczenia;
+- **11)** oddział – każdą formę stałej obecności na terytorium państwa członkowskiego Unii Europejskiej pośrednika ubezpieczeniowego mającego siedzibę lub miejsce zamieszkania w innym państwie członkowskim Unii Europejskiej, w tym oddział w rozumieniu ustawy z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2025 r. poz. 89, 619 i 621);
+- **12)** organ nadzoru – Komisję Nadzoru Finansowego;
+- **13)** poszukujący ochrony ubezpieczeniowej – osobę, która wyraziła wobec dystrybutora ubezpieczeń wolę podjęcia czynności służących zawarciu przez nią umowy ubezpieczenia;
 - **14)** pośrednictwo ubezpieczeniowe ‒ wykonywanie dystrybucji ubezpieczeń lub dystrybucji reasekuracji przez pośredników ubezpieczeniowych;
-- **15)** pośrednik ubezpieczeniowy agenta ubezpieczeniowego, agenta oferującego ubezpieczenia uzupełniające, brokera ubezpieczeniowego oraz brokera reasekuracyjnego, którzy wykonują dystrybucję ubezpieczeń albo dystrybucję reasekuracji za wynagrodzeniem;
-- **16)** przyjmujące państwo członkowskie Unii Europejskiej inne niż Rzeczpospolita Polska państwo członkowskie Unii Europejskiej, na którego terytorium pośrednik ubezpieczeniowy wpisany do rejestru pośredników ubezpieczeniowych wykonuje działalność przez oddział lub w inny sposób niż przez oddział, w ramach swobody świadczenia usług;
+- **15)** pośrednik ubezpieczeniowy – agenta ubezpieczeniowego, agenta oferującego ubezpieczenia uzupełniające, brokera ubezpieczeniowego oraz brokera reasekuracyjnego, którzy wykonują dystrybucję ubezpieczeń albo dystrybucję reasekuracji za wynagrodzeniem;
+- **16)** przyjmujące państwo członkowskie Unii Europejskiej – inne niż Rzeczpospolita Polska państwo członkowskie Unii Europejskiej, na którego terytorium pośrednik ubezpieczeniowy wpisany do rejestru pośredników ubezpieczeniowych wykonuje działalność przez oddział lub w inny sposób niż przez oddział, w ramach swobody świadczenia usług;
 - **17)** rejestr agentów ‒ rejestr agentów ubezpieczeniowych i agentów oferujących ubezpieczenia uzupełniające;
 - **18)** rejestr brokerów ‒ rejestr brokerów ubezpieczeniowych i brokerów reasekuracyjnych;
-- **19)** trwały nośnik trwały nośnik w rozumieniu art. 2 pkt 4 ustawy z dnia 30 maja 2014 r. o prawach konsumenta (Dz. U. z 2017 r. poz. 683 i 2361);
-- **20)** właściwy organ państwa członkowskiego Unii Europejskiej organ właściwy w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej do sprawowania nadzoru nad dystrybucją ubezpieczeń lub organ prowadzący w tym państwie odpowiedni rejestr pośredników;
+- **19)** trwały nośnik – trwały nośnik w rozumieniu art. 2 pkt 4 ustawy z dnia 30 maja 2014 r. o prawach konsumenta (Dz. U. z 2024 r. poz. 1796 oraz z 2025 r. poz.
+- **1172)** ;
+- **20)** właściwy organ państwa członkowskiego Unii Europejskiej – organ właściwy w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej do sprawowania nadzoru nad dystrybucją ubezpieczeń lub organ prowadzący w tym państwie odpowiedni rejestr pośredników;
 - **21)** wskaźnik kosztów dystrybucji ‒ wyrażony procentowo z dokładnością do dwóch miejsc po przecinku iloraz przyjętych przy tworzeniu produktu kosztów akwizycji, o których mowa w przepisach o rachunkowości zakładów ubezpieczeń, dla danej umowy ubezpieczenia oraz sumy należnych składek ubezpieczeniowych z tytułu danej umowy ubezpieczenia w rekomendowanym minimalnym okresie trwania umowy;
-- **22)** wynagrodzenie prowizję, honorarium, opłatę lub inną płatność, w tym korzyść ekonomiczną jakiegokolwiek rodzaju lub inną korzyść lub zachętę finansową lub niefinansową, oferowane lub przekazywane w związku z działalnością w zakresie dystrybucji ubezpieczeń;
-- **23)** zasady dobra ogólnego podstawowe normy prawne dotyczące wykonywania dystrybucji ubezpieczeń lub dystrybucji reasekuracji na terytorium danego państwa członkowskiego Unii Europejskiej, przeznaczone dla podmiotów mających siedzib ę lub miejsce zamieszkania w innym pa ń stwie członkowskim Unii Europejskiej, zainteresowanych wykonywaniem dystrybucji ubezpiecze ń lub dystrybucji reasekuracji przez oddział lub w inny sposób ni ż przez oddział, w ramach swobody ś wiadczenia usług, na terytorium tego pa ń stwa członkowskiego Unii Europejskiej.
+- **22)** wynagrodzenie – prowizję, honorarium, opłatę lub inną płatność, w tym korzyść ekonomiczną jakiegokolwiek rodzaju lub inną korzyść lub zachętę finansową lub niefinansową, oferowane lub przekazywane w związku z działalnością w zakresie dystrybucji ubezpieczeń;
+- **23)** zasady dobra ogólnego – podstawowe normy prawne dotyczące wykonywania dystrybucji ubezpieczeń lub dystrybucji reasekuracji na terytorium danego państwa członkowskiego Unii Europejskiej, przeznaczone dla podmiotów mających siedzibę lub miejsce zamieszkania w innym państwie członkowskim Unii Europejskiej, zainteresowanych wykonywaniem dystrybucji ubezpieczeń lub dystrybucji reasekuracji przez oddział lub w inny sposób niż przez oddział, w ramach swobody świadczenia usług, na terytorium tego państwa członkowskiego Unii Europejskiej.
 
-2. Ilekroć w ustawie jest mowa o państwach członkowskich Unii Europejskiej, należy przez to rozumieć także państwa członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym.
+2. Ilekroć w ustawie jest mowa o państwach członkowskich Unii Europejskiej, należy przez to rozumieć także państwa członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym.
 
 **Art. 4.**
 
@@ -165,7 +167,7 @@ o dystrybucji ubezpiecze ń
 - **4)** sporządza się w języku urzędowym państwa członkowskiego Unii Europejskiej, w którym umowa ubezpieczenia lub umowa gwarancji ubezpieczeniowej jest proponowana, lub w innym języku, na który wyrażą zgodę klient i zakład ubezpieczeń;
 - **5)** jest dokładny i nie wprowadza w błąd;
 - **6)** zawiera na górze pierwszej strony oznaczenie: „Dokument zawierający informacje o produkcie ubezpieczeniowym”;
-- **7)** zawiera stwierdzenie, ż e pełne informacje podawane przed zawarciem umowy i informacje dotycz ą ce umowy podane s ą w innych dokumentach.
+- **7)** zawiera stwierdzenie, że pełne informacje podawane przed zawarciem umowy i informacje dotyczące umowy podane są w innych dokumentach.
 
 6. Dokument, o którym mowa w ust. 4, zawiera:
 
@@ -184,14 +186,14 @@ o dystrybucji ubezpiecze ń
 1. Dystrybutor ubezpieczeń przekazuje klientowi informacje:
 
 - **1)** o produkcie ubezpieczeniowym, o którym mowa w art. 8 ust. 1 i 4,
-- **2)** o których mowa w art. 22 ust. 1 pkt 2‒6 i ust. 2‒4 albo w art. 23, albo w art. 32 ust. 1 pkt 1, 2 i 5‒8 oraz ust. 2, a także dotyczące umów ubezpieczenia, o których mowa w grupie 3 działu I załącznika do ustawy o działalności ubezpieczeniowej i reasekuracyjnej − w postaci papierowej, nieodpłatnie i w języku, o którym mowa w art. 7 ust. 3, przy czym informacje te są jasne, rzetelne i nie wprowadzają w błąd.
+- **2)** o których mowa w art. 22 ust. 1 pkt 2‒6 i ust. 2‒4 albo w art. 23, albo w art. 32 ust. 1 pkt 1, 2 i 5‒8 oraz ust. 2, a także dotyczące umów ubezpieczenia, o których mowa w grupie 3 działu I załącznika do ustawy o działalności ubezpieczeniowej i reasekuracyjnej – w postaci papierowej, nieodpłatnie i w języku, o którym mowa w art. 7 ust. 3, przy czym informacje te są jasne, rzetelne i nie wprowadzają w błąd.
 
 2. Informacje, o których mowa w art. 32 ust. 1 pkt 4, broker ubezpieczeniowy przekazuje klientowi w formie pisemnej, nieodpłatnie i w języku, o którym mowa w art. 7 ust. 3. Informacje te są jasne, rzetelne i nie wprowadzają w błąd.
 
 3. Informacje, o których mowa w ust. 1 i 2, mogą być przekazane za pomocą innego trwałego nośnika:
 
 - **1)** na żądanie klienta, pod warunkiem że dystrybutor ubezpieczeń zapewnił mu wybór między informacjami w postaci papierowej a informacjami na innym trwałym nośniku, a w przypadku informacji, o których mowa w ust. 2 ‒ pod warunkiem że dystrybutor ubezpieczeń zapewnił mu wybór między przedstawieniem ich w formie pisemnej a przedstawieniem ich na innym trwałym nośniku, oraz
-- **2)** w przypadku innego trwałego nośnika wymagającego dostępu do Internetu jeżeli klient posiada regularny dostęp do Internetu.
+- **2)** w przypadku innego trwałego nośnika wymagającego dostępu do Internetu – jeżeli klient posiada regularny dostęp do Internetu.
 
 4. Informacje, o których mowa w ust. 1 i 2, mogą być przekazane za pośrednictwem strony internetowej, jeżeli:
 
@@ -202,11 +204,11 @@ o dystrybucji ubezpiecze ń
     - **c)** klient został powiadomiony drogą elektroniczną o adresie strony internetowej oraz miejscu na tej stronie, gdzie zostały udostępnione te informacje,
     - **d)** dystrybutor zapewni dostępność tych informacji na stronie internetowej w okresie, w którym klient może, w normalnych okolicznościach, mieć potrzebę zapoznania się z nimi.
 
-5. W przypadku przekazania informacji, o których mowa w ust. 1 i 2, w sposób, o którym mowa w ust. 3 lub 4, dystrybutor ubezpieczeń, na żądanie klienta, przekazuje mu je nieodpłatnie, w postaci papierowej, a w przypadku informacji, o których mowa w ust. 2 przekazuje je nieodpłatnie, w formie pisemnej.
+5. W przypadku przekazania informacji, o których mowa w ust. 1 i 2, w sposób, o którym mowa w ust. 3 lub 4, dystrybutor ubezpieczeń, na żądanie klienta, przekazuje mu je nieodpłatnie, w postaci papierowej, a w przypadku informacji, o których mowa w ust. 2 – przekazuje je nieodpłatnie, w formie pisemnej.
 
 6. Za dowód posiadania przez klienta regularnego dostępu do Internetu uznaje się w szczególności podanie przez niego, na potrzeby danej transakcji, adresu poczty elektronicznej.
 
-7. W przypadku dystrybucji ubezpiecze ń za pomoc ą ś rodków porozumiewania si ę na odległo ść , do przekazywania informacji, o których mowa w ust. 1 i 2, stosuje si ę przepisy ustawy z dnia 30 maja 2014 r. o prawach konsumenta o umowach dotycz ą cych usług finansowych zawieranych na odległo ść .
+7. W przypadku dystrybucji ubezpieczeń za pomocą środków porozumiewania się na odległość, do przekazywania informacji, o których mowa w ust. 1 i 2, stosuje się przepisy ustawy z dnia 30 maja 2014 r. o prawach konsumenta o umowach dotyczących usług finansowych zawieranych na odległość.
 
 8. W przypadku umowy ubezpieczenia lub umowy gwarancji ubezpieczeniowej obejmujących duże ryzyka dystrybutor ubezpieczeń nie ma obowiązku przekazania klientowi informacji, o których mowa w ust. 1 i 2.
 
@@ -220,9 +222,9 @@ o dystrybucji ubezpiecze ń
 
 4. Przepisu ust. 3 nie stosuje się, w przypadku gdy umowa ubezpieczenia lub umowa gwarancji ubezpieczeniowej jest uzupełnieniem:
 
-- **1)** usług, o których mowa w art. 69 ust. 2 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2017 r. poz. 1768);
-- **2)** umowy o kredyt hipoteczny, o której mowa w art. 3 ustawy z dnia 23 marca 2017 r. o kredycie hipotecznym oraz o nadzorze nad pośrednikami kredytu hipotecznego i agentami (Dz. U. poz. 819);
-- **3)** rachunku płatniczego w rozumieniu art. 2 pkt 25 ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. z 2017 r. poz. 2003).
+- **1)** usług, o których mowa w art. 69 ust. 2 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2024 r. poz. 722, z późn. zm. );
+- **2)** umowy o kredyt hipoteczny, o której mowa w art. 3 ustawy z dnia 23 marca 2017 r. o kredycie hipotecznym oraz o nadzorze nad pośrednikami kredytu hipotecznego i agentami (Dz. U. z 2025 r. poz. 720);
+- **3)** rachunku płatniczego w rozumieniu art. 2 pkt 25 ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. z 2025 r. poz. 611 i 1069).
 
 5. W przypadku gdy w pakiecie, o którym mowa w ust. 1 i 3, proponowana jest umowa ubezpieczenia, o której mowa w grupie 3 działu I załącznika do ustawy o działalności ubezpieczeniowej i reasekuracyjnej, pakiet w całości powinien być odpowiedni do potrzeb klienta.
 
@@ -245,9 +247,9 @@ o dystrybucji ubezpiecze ń
 
 6. Dystrybutor ubezpieczeń stosuje odpowiednie rozwiązania zapewniające uzyskanie od twórcy produktu ubezpieczeniowego informacji, o których mowa w ust. 5.
 
-7. Dystrybutor ubezpiecze ń posiada wiedz ę o produkcie ubezpieczeniowym oraz okre ś lonym rynku docelowym tego produktu.
+7. Dystrybutor ubezpieczeń posiada wiedzę o produkcie ubezpieczeniowym oraz określonym rynku docelowym tego produktu.
 
-8. Przepisów ust. 1 ‒ 7 nie stosuje si ę w przypadku produktu ubezpieczeniowego obejmuj ą cego du ż e ryzyka.
+8. Przepisów ust. 1‒7 nie stosuje się w przypadku produktu ubezpieczeniowego obejmującego duże ryzyka.
 
 **Art. 12.**
 
@@ -260,11 +262,11 @@ o dystrybucji ubezpiecze ń
 
 3. Wymiar szkolenia zawodowego nie może przekraczać 8 godzin dziennie.
 
-4. Szkolenie zawodowe uwzględnia charakter proponowanych umów ubezpieczenia, umów gwarancji ubezpieczeniowych lub umów reasekuracji, rodzaj dystrybutora ubezpieczeń lub dystrybutora reasekuracji oraz zakres wykonywanych czynno ś ci.
+4. Szkolenie zawodowe uwzględnia charakter proponowanych umów ubezpieczenia, umów gwarancji ubezpieczeniowych lub umów reasekuracji, rodzaj dystrybutora ubezpieczeń lub dystrybutora reasekuracji oraz zakres wykonywanych czynności.
 
 5. Zakład ubezpieczeń, zakład reasekuracji, agent ubezpieczeniowy, broker ubezpieczeniowy i broker reasekuracyjny zapewniają przeprowadzenie szkolenia, o którym mowa w ust. 1, jego odpowiedni poziom merytoryczny oraz przeprowadzenie go przez osoby posiadające wykształcenie lub doświadczenie zawodowe odpowiednie do zakresu tematycznego szkolenia.
 
-6. Szkolenie zawodowe jest prowadzone w formie zapewniającej efektywne przekazanie treści, w szczególności w formie wykładów, seminarium lub e-learningu.
+6. Szkolenie zawodowe jest prowadzone w formie zapewniającej efektywne przekazanie treści, w szczególności w formie wykładów, seminarium, w tym z wykorzystaniem systemu teleinformatycznego, lub w formie e-learningu.
 
 7. W przypadku szkoleń prowadzonych w formie e-learningu wymagane jest zaliczenie testu obejmującego zakres tematyczny szkolenia. Test może odbyć się w formie elektronicznej.
 
@@ -272,7 +274,7 @@ o dystrybucji ubezpiecze ń
 
 - **1)** datę i miejsce wystawienia dokumentu;
 - **2)** datę i miejsce przeprowadzenia szkolenia;
-- **3)** imię i nazwisko oraz datę urodzenia uczestnika szkolenia;
+- **3)** imię i nazwisko oraz numer PESEL uczestnika szkolenia, a w przypadku braku numeru PESEL – datę urodzenia oraz numer wpisu do rejestru pośredników ubezpieczeniowych;
 - **4)** zakres tematyczny szkolenia i jego wymiar godzinowy;
 - **5)** dane podmiotu organizującego szkolenie, obejmujące jego imię i nazwisko lub firmę, oraz adres;
 - **6)** imiona i nazwiska osób odpowiedzialnych za przeprowadzenie lub przygotowanie szkolenia, ich wykształcenie i doświadczenie zawodowe;
@@ -281,24 +283,24 @@ o dystrybucji ubezpiecze ń
 9. W przypadku szkoleń prowadzonych w formie e-learningu dokument poświadczający odbycie szkolenia zawiera:
 
 - **1)** datę wystawienia dokumentu;
-- **2)** imię i nazwisko oraz datę urodzenia uczestnika szkolenia;
+- **2)** imię i nazwisko oraz numer PESEL uczestnika szkolenia, a w przypadku braku numeru PESEL – datę urodzenia oraz numer wpisu do rejestru pośredników ubezpieczeniowych;
 - **3)** zakres tematyczny szkolenia i jego wymiar godzinowy;
 - **4)** dane podmiotu organizującego szkolenie, obejmujące jego imię i nazwisko lub firmę, oraz adres;
-- **5)** imiona i nazwiska osób odpowiedzialnych za przygotowanie szkolenia, ich wykształcenie i do ś wiadczenie zawodowe;
-- **6)** imi ę i nazwisko oraz podpis elektroniczny osoby wystawiaj ą cej dokument.
+- **5)** imiona i nazwiska osób odpowiedzialnych za przygotowanie szkolenia, ich wykształcenie i doświadczenie zawodowe;
+- **6)** imię i nazwisko oraz podpis elektroniczny osoby wystawiającej dokument.
 
-10. Obowi ą zek odbycia szkolenia zawodowego obejmuje równie ż :
+10. Obowiązek odbycia szkolenia zawodowego obejmuje również:
 
-- **1)** agentów ubezpieczeniowych b ę d ą cych osobami fizycznymi, brokerów ubezpieczeniowych b ę d ą cych osobami fizycznymi oraz brokerów reasekuracyjnych będących osobami fizycznymi;
+- **1)** agentów ubezpieczeniowych będących osobami fizycznymi, brokerów ubezpieczeniowych będących osobami fizycznymi oraz brokerów reasekuracyjnych będących osobami fizycznymi;
 - **2)** w przypadku agentów ubezpieczeniowych będących spółkami nieposiadającymi osobowości prawnej ‒ osoby, o których mowa w art. 19 ust. 3 pkt 2;
 - **3)** w przypadku agentów ubezpieczeniowych będących osobami prawnymi ‒ członków zarządu, o których mowa w art. 19 ust. 3 pkt 3;
 - **4)** w przypadku brokerów ubezpieczeniowych będących osobami prawnymi oraz brokerów reasekuracyjnych będących osobami prawnymi ‒ członków zarządu spełniających warunki, o których mowa w art. 34 ust. 4 pkt 1 lit. e i f albo ust. 8 lub 9.
 
 11. Do osób, o których mowa w ust. 10, przepis ust. 2 stosuje się odpowiednio.
 
-12. Przepisów ust. 1‒10 nie stosuje się do osób wykonujących czynności agencyjne u agentów oferujących ubezpieczenia uzupełniające oraz do agentów oferujących ubezpieczenia uzupełniające.
+12. Przepisów ust. 1–10 nie stosuje się do osób wykonujących czynności agencyjne u agentów oferujących ubezpieczenia uzupełniające, do agentów oferujących ubezpieczenia uzupełniające oraz do zarządcy sukcesyjnego, o którym mowa w art. 19 ust. 3a oraz w art. 34a ust. 2.
 
-**Art. 13.** Pośrednictwo ubezpieczeniowe jest działalnością gospodarczą w rozumieniu przepisów ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej.
+**Art. 13.** Pośrednictwo ubezpieczeniowe jest działalnością gospodarczą w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2025 r. poz. 1480).
 
 **Art. 14.**
 
@@ -324,7 +326,7 @@ o dystrybucji ubezpiecze ń
 
 1. Zakład ubezpieczeń udziela odpowiedzi na reklamację klienta będącego osobą prawną lub spółką nieposiadającą osobowości prawnej w terminie 30 dni od dnia jej otrzymania. Do zachowania terminu wystarczy wysłanie odpowiedzi przed jego upływem.
 
-2. Broker ubezpieczeniowy, a także agent ubezpieczeniowy i agent oferujący ubezpieczenia uzupełniające wykonujący czynno ś ci agencyjne na rzecz wi ę cej ni ż jednego zakładu ubezpiecze ń w zakresie tego samego działu ubezpiecze ń , zgodnie z zał ą cznikiem do ustawy o działalno ś ci ubezpieczeniowej i reasekuracyjnej, udzielaj ą odpowiedzi na reklamacj ę klienta b ę d ą cego osob ą prawn ą lub spółk ą nieposiadaj ą c ą osobowo ś ci prawnej w terminie 30 dni od dnia jej otrzymania w zakresie niezwi ą zanym z udzielan ą ochron ą ubezpieczeniow ą . Do zachowania terminu wystarczy wysłanie odpowiedzi przed jego upływem.
+2. Broker ubezpieczeniowy, a także agent ubezpieczeniowy i agent oferujący ubezpieczenia uzupełniające wykonujący czynności agencyjne na rzecz więcej niż jednego zakładu ubezpieczeń w zakresie tego samego działu ubezpieczeń, zgodnie z załącznikiem do ustawy o działalności ubezpieczeniowej i reasekuracyjnej, udzielają odpowiedzi na reklamację klienta będącego osobą prawną lub spółką nieposiadającą osobowości prawnej w terminie 30 dni od dnia jej otrzymania w zakresie niezwiązanym z udzielaną ochroną ubezpieczeniową. Do zachowania terminu wystarczy wysłanie odpowiedzi przed jego upływem.
 
 3. W szczególnie skomplikowanych przypadkach, uniemożliwiających rozpatrzenie reklamacji i udzielenie odpowiedzi w terminie, o którym mowa w ust. 1 i 2, zakład ubezpieczeń, broker ubezpieczeniowy, agent ubezpieczeniowy i agent oferujący ubezpieczenia uzupełniające, o których mowa w ust. 1 i 2, w informacji przekazywanej klientowi, który wystąpił z reklamacją:
 
@@ -336,17 +338,17 @@ o dystrybucji ubezpiecze ń
 
 5. Odpowiedź na reklamację przekazuje się klientowi w postaci papierowej lub na innym trwałym nośniku.
 
-6. Agent ubezpieczeniowy i agent oferujący ubezpieczenia uzupełniające wykonujący czynności agencyjne na rzecz więcej niż jednego zakładu ubezpieczeń w zakresie tego samego działu ubezpieczeń, zgodnie z załącznikiem do ustawy o działalności ubezpieczeniowej i reasekuracyjnej, na żądanie zakładu ubezpieczeń, udzielają temu zakładowi informacji na temat reklamacji, o których mowa w ust. 2, oraz na temat reklamacji, o których mowa w art. 2 pkt 1 lit. e ustawy z dnia 5 sierpnia 2015 r. o rozpatrywaniu reklamacji przez podmioty rynku finansowego i o Rzeczniku Finansowym (Dz. U. z 2017 r. poz. 2270 i 2486), złożonych przez klientów pozyskanych dla występującego z żądaniem zakładu ubezpieczeń przez tych agentów.
+6. Agent ubezpieczeniowy i agent oferujący ubezpieczenia uzupełniające wykonujący czynności agencyjne na rzecz więcej niż jednego zakładu ubezpieczeń w zakresie tego samego działu ubezpieczeń, zgodnie z załącznikiem do ustawy o działalności ubezpieczeniowej i reasekuracyjnej, na żądanie zakładu ubezpieczeń, udzielają temu zakładowi informacji na temat reklamacji, o których mowa w ust. 2, oraz na temat reklamacji, o których mowa w art. 2 pkt 1 lit. e ustawy z dnia 5 sierpnia 2015 r. o rozpatrywaniu reklamacji przez podmioty rynku finansowego, o Rzeczniku Finansowym i o Funduszu Edukacji Finansowej (Dz. U. z 2024 r. poz. 1109 oraz z 2025 r. poz. 146, 1069 i 1545), złożonych przez klientów pozyskanych dla występującego z żądaniem zakładu ubezpieczeń przez tych agentów.
 
-#### Rozdział 2 Agent ubezpieczeniowy, agent oferuj ą cy ubezpieczenia uzupełniaj ą ce, osoby wykonuj ą ce czynno ś ci agencyjne, osoby wykonuj ą ce czynno ś ci dystrybucyjne zakładu ubezpiecze ń oraz osoby wykonuj ą ce czynno ś ci dystrybucyjne zakładu reasekuracji
+#### Rozdział 2 Agent ubezpieczeniowy, agent oferujący ubezpieczenia uzupełniające, osoby wykonujące czynności agencyjne, osoby wykonujące czynności dystrybucyjne zakładu ubezpieczeń oraz osoby wykonujące czynności dystrybucyjne zakładu reasekuracji
 
-**Art. 17.** Agentem ubezpieczeniowym ani agentem oferującym ubezpieczenia uzupełniające nie może być przedsiębiorca prawomocnie pozbawiony prawa prowadzenia działalności gospodarczej zgodnie z art. 373 lub art. 374 ustawy z dnia 28 lutego 2003 r. ‒ Prawo upadłościowe (Dz. U. z 2017 r. poz. 2344).
+**Art. 17.** Agentem ubezpieczeniowym ani agentem oferującym ubezpieczenia uzupełniające nie może być przedsiębiorca prawomocnie pozbawiony prawa prowadzenia działalności gospodarczej zgodnie z art. 373 lub art. 374 ustawy z dnia 28 lutego 2003 r. ‒ Prawo upadłościowe (Dz. U. z 2025 r. poz. 614, 1085, 1170 i
 
-**Art. 18.** Działalność agencyjna powinna być wykonywana z zachowaniem staranności określonej w art. 355 § 2 ustawy z dnia 23 kwietnia 1964 r. ‒ Kodeks cywilny (Dz. U. z 2017 r. poz. 459, 933 i 1132) oraz dobrych obyczajów.
+**Art. 18.** Działalność agencyjna powinna być wykonywana z zachowaniem staranności określonej w art. 355 § 2 ustawy z dnia 23 kwietnia 1964 r. ‒ Kodeks cywilny (Dz. U. z 2025 r. poz. 1071, 1172 i 1508) oraz dobrych obyczajów.
 
 **Art. 19.**
 
-1. Czynności agencyjne, czynności dystrybucyjne zakładu ubezpieczeń oraz czynności dystrybucyjne zakładu reasekuracji mogą być wykonywane wyłącznie przez osobę fizyczną, która spełnia łącznie następujące warunki:
+1. Agent ubezpieczeniowy, agent oferujący ubezpieczenia uzupełniające, zakład ubezpieczeń i zakład reasekuracji mogą wykonywać odpowiednio czynności agencyjne, czynności dystrybucyjne zakładu ubezpieczeń oraz czynności dystrybucyjne zakładu reasekuracji, wyłącznie przy pomocy osoby fizycznej spełniającej łącznie następujące warunki:
 
 - **1)** posiada pełną zdolność do czynności prawnych;
 - **2)** nie była prawomocnie skazana za umyślne przestępstwo:
@@ -360,19 +362,22 @@ o dystrybucji ubezpiecze ń
     - **h)** skarbowe;
 
 - **3)** daje rękojmię należytego wykonywania tych czynności;
-- **4)** posiada co najmniej wykształcenie ś rednie lub ś rednie bran ż owe;
-- **5)** zdała egzamin przeprowadzony przez zakład ubezpiecze ń lub zakład reasekuracji.
+- **4)** posiada co najmniej wykształcenie średnie lub średnie branżowe;
+- **5)** zdała egzamin przeprowadzony przez zakład ubezpieczeń lub zakład reasekuracji.
 
-2. Czynno ś ci agencyjne mog ą by ć wykonywane przez osob ę fizyczn ą po wpisaniu jej do rejestru agentów.
+2. Osoba fizyczna, przy pomocy której agent ubezpieczeniowy i agent oferujący ubezpieczenia uzupełniające zamierza wykonywać czynności agencyjne, może wykonywać te czynności po wpisaniu jej do rejestru agentów.
 
 3. Warunki, o których mowa w ust. 1, powinni spełniać również:
 
 - **1)** agenci ubezpieczeniowi oraz agenci oferujący ubezpieczenia uzupełniające będący osobami fizycznymi;
 - **2)** w przypadku agentów ubezpieczeniowych oraz agentów oferujących ubezpieczenia uzupełniające będących spółkami nieposiadającymi osobowości prawnej:
     - **a)** wspólnicy tych spółek, o ile są osobami fizycznymi,
-    - **b)** w przypadku gdy wspólnikami tych spółek są osoby prawne ‒ co najmniej połowa ich członków zarządu;
+    - **b)** w przypadku gdy wspólnikami tych spółek są osoby prawne ‒ co najmniej połowa ich członków zarządu,
+    - **c)** w przypadku gdy wspólnikami tych spółek są spółki nieposiadające osobowości prawnej – co najmniej jedna osoba fizyczna z każdej spółki będącej wspólnikiem;
 
 - **3)** w przypadku agentów ubezpieczeniowych oraz agentów oferujących ubezpieczenia uzupełniające będących osobami prawnymi ‒ co najmniej połowa ich członków zarządu.
+
+3a. Zarządca sukcesyjny wstępujący w miejsce zmarłego agenta ubezpieczeniowego lub agenta oferującego ubezpieczenia uzupełniające może nie spełniać wymagań, o których mowa w ust. 1 pkt 3–5, pod warunkiem że czynności agencyjne będzie wykonywał przy pomocy osób fizycznych, o których mowa w ust. 2.
 
 4. Agent ubezpieczeniowy i agent oferujący ubezpieczenia uzupełniające, niebędący osobami fizycznymi, mogą wykonywać działalność agencyjną, jeżeli udziały, o których mowa w art. 55 ust. 2 pkt 8, oraz bliskie powiązania, o których mowa w art. 55 ust. 2 pkt 9, nie uniemożliwiają organowi nadzoru skutecznego sprawowania nadzoru.
 
@@ -390,14 +395,16 @@ o dystrybucji ubezpiecze ń
 
 4. W zakresie odpowiedzialności za szkody powstałe z tytułu wykonywania działalności agencyjnej agent oferujący ubezpieczenia uzupełniające wykonujący czynności agencyjne na rzecz więcej niż jednego zakładu ubezpieczeń w zakresie tego samego działu ubezpieczeń, zgodnie z załącznikiem do ustawy o działalności ubezpieczeniowej i reasekuracyjnej, jest obowiązany do zawarcia umowy ubezpieczenia odpowiedzialności cywilnej lub umowy gwarancji ubezpieczeniowej.
 
+4a. Agent ubezpieczeniowy oraz agent oferujący ubezpieczenia uzupełniające odpowiadają za naruszenie przepisów ustawy, ustawy z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych (Dz. U. z 2025 r. poz. 367, 1019, 1174, 1175 i 1176) oraz ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej lub szkody wyrządzone klientom w wyniku bezprawnego działania lub zaniechania, przez osobę fizyczną wykonującą czynności agencyjne na podstawie udzielonego przez nich upoważnienia.
+
 5. Umowa ubezpieczenia odpowiedzialności cywilnej i umowa gwarancji ubezpieczeniowej, o których mowa w ust. 3 i 4, obejmują szkody wyrządzone przez agenta ubezpieczeniowego albo przez agenta oferującego ubezpieczenia uzupełniające w związku z działalnością wykonywaną na terytorium Rzeczypospolitej Polskiej oraz innych państw członkowskich Unii Europejskiej.
 
 6. Zakład ubezpieczeń ustala, czy przedsiębiorca, z którym zamierza zawrzeć umowę agencyjną:
 
 - **1)** zawarł uprzednio umowę agencyjną z innym zakładem ubezpieczeń w zakresie tego samego działu ubezpieczeń, zgodnie z załącznikiem do ustawy o działalności ubezpieczeniowej i reasekuracyjnej;
-- **2)** został wpisany do rejestru agentów jako wykonuj ą cy działalno ść agencyjn ą w imieniu lub na rzecz wi ę cej ni ż jednego zakładu ubezpiecze ń wykonuj ą cego działalno ść w zakresie tego samego działu ubezpiecze ń , zgodnie z zał ą cznikiem do ustawy o działalno ś ci ubezpieczeniowej i reasekuracyjnej.
+- **2)** został wpisany do rejestru agentów jako wykonujący działalność agencyjną w imieniu lub na rzecz więcej niż jednego zakładu ubezpieczeń wykonującego działalność w zakresie tego samego działu ubezpieczeń, zgodnie z załącznikiem do ustawy o działalności ubezpieczeniowej i reasekuracyjnej.
 
-7. W przypadku ustalenia, ż e wyst ę puje którakolwiek z okoliczno ś ci, o których mowa w ust. 6, zawarcie z przedsi ę biorcą umowy agencyjnej może nastąpić, jeżeli przy jej zawieraniu przedsiębiorca okaże dokument potwierdzający zawarcie umowy ubezpieczenia lub umowy gwarancji ubezpieczeniowej, o których mowa w ust. 3 i 4. W przypadku gdy zawarcie umowy ubezpieczenia lub umowy gwarancji ubezpieczeniowej, o których mowa w ust. 3 i 4, nie jest ujawnione w rejestrze agentów, wniosek o wpis agenta do rejestru agentów zawiera również podlegające wpisowi dane dotyczące zawartej przez agenta umowy ubezpieczenia lub umowy gwarancji ubezpieczeniowej.
+7. W przypadku ustalenia, że występuje którakolwiek z okoliczności, o których mowa w ust. 6, zawarcie z przedsiębiorcą umowy agencyjnej może nastąpić, jeżeli przy jej zawieraniu przedsiębiorca okaże dokument potwierdzający zawarcie umowy ubezpieczenia lub umowy gwarancji ubezpieczeniowej, o których mowa w ust. 3 i 4. W przypadku gdy zawarcie umowy ubezpieczenia lub umowy gwarancji ubezpieczeniowej, o których mowa w ust. 3 i 4, nie jest ujawnione w rejestrze agentów, wniosek o wpis agenta do rejestru agentów zawiera również podlegające wpisowi dane dotyczące zawartej przez agenta umowy ubezpieczenia lub umowy gwarancji ubezpieczeniowej.
 
 8. Agent ubezpieczeniowy i agent oferujący ubezpieczenia uzupełniające, którzy nie spełnili obowiązku zawarcia umowy ubezpieczenia lub umowy gwarancji ubezpieczeniowej, o których mowa w ust. 3 i 4, wnoszą opłatę na rzecz budżetu państwa za każdy rok kalendarzowy pozostawania bez ochrony ubezpieczeniowej lub gwarancyjnej. Wniesienie opłaty nie zwalnia z obowiązku zawarcia umowy ubezpieczenia odpowiedzialności cywilnej lub umowy gwarancji ubezpieczeniowej.
 
@@ -424,7 +431,7 @@ o dystrybucji ubezpiecze ń
 
 16. Za działalność podmiotu, o którym mowa w ust. 14, w przypadku gdy wykonuje on działalność agencyjną na rzecz tylko jednego krajowego zakładu ubezpieczeń w rozumieniu art. 3 ust. 1 pkt 18 ustawy o działalności ubezpieczeniowej i reasekuracyjnej, odpowiedzialność ponosi ten zakład ubezpieczeń.
 
-17. Minister wła ś ciwy do spraw instytucji finansowych okre ś li, w drodze rozporz ą dzenia, szczegółowy zakres ubezpieczenia obowi ą zkowego, o którym mowa w ust. 3 i 4, termin powstania obowi ą zku ubezpieczenia oraz minimaln ą sum ę gwarancyjn ą , bior ą c pod uwag ę specyfik ę wykonywanej działalno ś ci, zakres realizowanych zada ń oraz wzrost europejskiego indeksu cen konsumpcyjnych.
+17. Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia, szczegółowy zakres ubezpieczenia obowiązkowego, o którym mowa w ust. 3 i 4, termin powstania obowiązku ubezpieczenia oraz minimalną sumę gwarancyjną, biorąc pod uwagę specyfikę wykonywanej działalności, zakres realizowanych zadań oraz wzrost europejskiego indeksu cen konsumpcyjnych.
 
 18. Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia, minimalną sumę gwarancji ubezpieczeniowej, o której mowa w ust. 4, biorąc pod uwagę specyfikę wykonywanej działalności oraz wzrost europejskiego indeksu cen konsumpcyjnych.
 
@@ -462,15 +469,24 @@ o dystrybucji ubezpiecze ń
 
 2. Agent ubezpieczeniowy, przed zawarciem umowy ubezpieczenia na życie, o której mowa w grupie 3 działu I załącznika do ustawy o działalności ubezpieczeniowej i reasekuracyjnej, informuje klienta również o wysokości wskaźnika kosztów dystrybucji związanych z proponowaną umową.
 
-3. W przypadku, o którym mowa w ust. 1 pkt 5 lit. a, agent ubezpieczeniowy i agent oferujący ubezpieczenia uzupełniaj ą ce informuj ą klienta o wysoko ś ci honorarium, a w przypadku gdy jest to niemo ż liwe o metodzie jego wyliczenia.
+3. W przypadku, o którym mowa w ust. 1 pkt 5 lit. a, agent ubezpieczeniowy i agent oferujący ubezpieczenia uzupełniające informują klienta o wysokości honorarium, a w przypadku gdy jest to niemożliwe – o metodzie jego wyliczenia.
 
-4. Przed zawarciem umowy ubezpieczenia lub umowy gwarancji ubezpieczeniowej agent ubezpieczeniowy informuje klienta równie ż o posiadanych akcjach albo udziałach zakładu ubezpiecze ń uprawniaj ą cych co najmniej do 10% głosów na walnym zgromadzeniu, oraz w przypadku agenta ubezpieczeniowego b ę d ą cego osob ą prawn ą , o akcjach lub udziałach agenta ubezpieczeniowego posiadanych przez zakład ubezpiecze ń , uprawniaj ą cych co najmniej do 10% głosów na walnym zgromadzeniu albo zgromadzeniu wspólników.
+4. Przed zawarciem umowy ubezpieczenia lub umowy gwarancji ubezpieczeniowej agent ubezpieczeniowy informuje klienta również o posiadanych akcjach albo udziałach zakładu ubezpieczeń uprawniających co najmniej do 10 % głosów na walnym zgromadzeniu, oraz w przypadku agenta ubezpieczeniowego będącego osobą prawną, o akcjach lub udziałach agenta ubezpieczeniowego posiadanych przez zakład ubezpieczeń, uprawniających co najmniej do 10 % głosów na walnym zgromadzeniu albo zgromadzeniu wspólników.
 
 5. Agent ubezpieczeniowy i agent oferujący ubezpieczenia uzupełniające:
 
 - **1)** udostępniają klientowi na każde żądanie dokument pełnomocnictwa, o którym mowa w art. 21 ust. 1;
 - **2)** niezwłocznie zwracają zakładowi ubezpieczeń dokument pełnomocnictwa, o którym mowa w art. 21 ust. 1, oraz wydane im druki, materiały i inne dokumenty oraz rozliczają się z zainkasowanych składek, jeżeli ich pełnomocnictwa wygasły lub zostały cofnięte;
 - **3)** zachowują w tajemnicy informacje uzyskane w związku z wykonywaniem czynności agencyjnych, dotyczące zakładu ubezpieczeń, drugiej strony umowy ubezpieczenia lub umowy gwarancji ubezpieczeniowej oraz klienta, przy czym obowiązek ten ciąży na agencie ubezpieczeniowym i agencie oferującym ubezpieczenia uzupełniające również po rozwiązaniu umowy agencyjnej.
+
+5a. Obowiązek zachowania tajemnicy, o którym mowa w ust. 5 pkt 3, dotyczy również osób fizycznych, przy pomocy których agent wykonuje czynności agencyjne.
+
+5b. Obowiązek zachowania tajemnicy, o którym mowa w ust. 5 pkt 3, nie dotyczy informacji udzielanych na wniosek:
+
+- **1)** sądu lub prokuratora, o ile są niezbędne w toczącym się postępowaniu;
+- **2)** organu nadzoru, w zakresie wykonywania jego ustawowych zadań;
+- **3)** klienta, którego dotyczą informacje objęte tajemnicą;
+- **4)** innego podmiotu, którego uprawnienie do żądania informacji wynika z przepisów odrębnej ustawy.
 
 6. Osoba fizyczna wykonująca czynności agencyjne przy pierwszej czynności udostępnia dokument upoważniający do działania w imieniu agenta ubezpieczeniowego albo agenta oferującego ubezpieczenia uzupełniające.
 
@@ -500,7 +516,7 @@ o dystrybucji ubezpiecze ń
 
 **Art. 28.**
 
-1. Broker ubezpieczeniowy i broker reasekuracyjny z tytułu wykonywania działalności brokerskiej w zakresie ubezpiecze ń lub reasekuracji podlegaj ą obowi ą zkowemu ubezpieczeniu odpowiedzialno ś ci cywilnej, obejmuj ą cemu odpowiednio szkody wyrz ą dzone klientowi, osobie uprawnionej z umowy ubezpieczenia lub umowy gwarancji ubezpieczeniowej, zakładowi ubezpiecze ń lub zakładowi reasekuracji, w tym tak ż e szkody wyrz ą dzone przez osoby fizyczne, przy pomocy których broker ubezpieczeniowy lub broker reasekuracyjny wykonuje czynno ś ci brokerskie w zakresie ubezpiecze ń lub w zakresie reasekuracji, oraz przez podmioty, o których mowa w art. 31.
+1. Broker ubezpieczeniowy i broker reasekuracyjny z tytułu wykonywania działalności brokerskiej w zakresie ubezpieczeń lub reasekuracji podlegają obowiązkowemu ubezpieczeniu odpowiedzialności cywilnej, obejmującemu odpowiednio szkody wyrządzone klientowi, osobie uprawnionej z umowy ubezpieczenia lub umowy gwarancji ubezpieczeniowej, zakładowi ubezpieczeń lub zakładowi reasekuracji, w tym także szkody wyrządzone przez osoby fizyczne, przy pomocy których broker ubezpieczeniowy lub broker reasekuracyjny wykonuje czynności brokerskie w zakresie ubezpieczeń lub w zakresie reasekuracji, oraz przez podmioty, o których mowa w art. 31.
 
 2. Umowa ubezpieczenia odpowiedzialności cywilnej, o którym mowa w ust. 1, obejmuje szkody wyrządzone przez brokera ubezpieczeniowego lub brokera reasekuracyjnego w związku z działalnością wykonywaną na terytorium Rzeczypospolitej Polskiej oraz innych państw członkowskich Unii Europejskiej.
 
@@ -536,8 +552,8 @@ o dystrybucji ubezpiecze ń
 - **2)** pozostawać w stałym stosunku umownym z zakładem ubezpieczeń, zakładem reasekuracji, agentem ubezpieczeniowym lub agentem oferującym ubezpieczenia uzupełniające;
 - **3)** być członkiem organów nadzorczych lub zarządzających zakładu ubezpieczeń, zakładu reasekuracji, agenta ubezpieczeniowego lub agenta oferującego ubezpieczenia uzupełniające;
 - **4)** posiadać akcji lub udziałów zakładu ubezpieczeń lub zakładu reasekuracji, z wyjątkiem akcji dopuszczonych do obrotu na rynku regulowanym;
-- **5)** posiada ć akcji lub udziałów agenta ubezpieczeniowego lub agenta oferuj ą cego ubezpieczenia uzupełniaj ą ce, z wyj ą tkiem akcji dopuszczonych do obrotu na rynku regulowanym;
-- **6)** pozostawa ć w innych relacjach, które mogłyby zagra ż a ć wykonywaniu działalno ś ci w zakresie dystrybucji reasekuracji z zachowaniem obowi ą zku post ę powania uczciwie, rzetelnie i profesjonalnie, przy czym przepis art. 7 ust. 1 stosuje się odpowiednio.
+- **5)** posiadać akcji lub udziałów agenta ubezpieczeniowego lub agenta oferującego ubezpieczenia uzupełniające, z wyjątkiem akcji dopuszczonych do obrotu na rynku regulowanym;
+- **6)** pozostawać w innych relacjach, które mogłyby zagrażać wykonywaniu działalności w zakresie dystrybucji reasekuracji z zachowaniem obowiązku postępowania uczciwie, rzetelnie i profesjonalnie, przy czym przepis art. 7 ust. 1 stosuje się odpowiednio.
 
 4. Ograniczenie, o którym mowa w ust. 3 pkt 2, nie dotyczy:
 
@@ -569,15 +585,15 @@ o dystrybucji ubezpiecze ń
 - **1)** informuje klienta przy pierwszej czynności o firmie, pod którą wykonuje działalność brokerską w zakresie ubezpieczeń, adresie swojej siedziby oraz o tym że jest brokerem ubezpieczeniowym;
 - **2)** informuje klienta przy pierwszej czynności o numerze wpisu do rejestru brokerów, adresie strony internetowej, na której rejestr jest dostępny, oraz o sposobie sprawdzenia wpisu do rejestru;
 - **3)** okazuje zakładowi ubezpieczeń i klientowi przy pierwszej czynności zezwolenie na wykonywanie działalności brokerskiej w zakresie ubezpieczeń;
-- **4)** udziela porady, w oparciu o rzetelną analizę dostępnych na rynku produktów ubezpieczeniowych w liczbie wystarczającej do opracowania rekomendacji najwłaściwszej umowy, oraz wyjaśnia podstawy, na których opiera się rekomendacja, uwzględniając złożoność umowy ubezpieczenia lub umowy gwarancji ubezpieczeniowej oraz rodzaj klienta, chyba że klient złoży pisemne oświadczenie o rezygnacji z udzielenia porady;
-- **5)** informuje klienta przy pierwszej czynności o posiadanych akcjach albo udziałach zakładu ubezpieczeń uprawniających co najmniej do 10% głosów na walnym zgromadzeniu oraz, w przypadku brokera ubezpieczeniowego będącego osobą prawną, o akcjach albo udziałach brokera ubezpieczeniowego posiadanych przez zakład ubezpieczeń, uprawniających co najmniej do 10% głosów na walnym zgromadzeniu albo zgromadzeniu wspólników;
+- **4)** udziela porady, w oparciu o rzetelną analizę dostępnych na rynku produktów ubezpieczeniowych w liczbie wystarczającej do opracowania rekomendacji najwłaściwszej umowy, oraz wyjaśnia podstawy, na których opiera się rekomendacja, uwzględniając złożoność umowy ubezpieczenia lub umowy gwarancji ubezpieczeniowej oraz rodzaj klienta, chyba że klient złoży oświadczenie o rezygnacji z udzielenia porady w formie dokumentowej;
+- **5)** informuje klienta przy pierwszej czynności o posiadanych akcjach albo udziałach zakładu ubezpieczeń uprawniających co najmniej do 10 % głosów na walnym zgromadzeniu oraz, w przypadku brokera ubezpieczeniowego będącego osobą prawną, o akcjach albo udziałach brokera ubezpieczeniowego posiadanych przez zakład ubezpieczeń, uprawniających co najmniej do 10 % głosów na walnym zgromadzeniu albo zgromadzeniu wspólników;
 - **6)** informuje klienta o charakterze wynagrodzenia otrzymywanego w związku z proponowanym zawarciem umowy ubezpieczenia lub umowy gwarancji ubezpieczeniowej, w szczególności o tym, czy broker otrzymuje:
-    - **a)** honorarium płacone bezpo ś rednio przez klienta,
-    - **b)** prowizj ę dowolnego rodzaju uwzgl ę dnion ą w kwocie składki ubezpieczeniowej,
+    - **a)** honorarium płacone bezpośrednio przez klienta,
+    - **b)** prowizję dowolnego rodzaju uwzględnioną w kwocie składki ubezpieczeniowej,
     - **c)** inny rodzaj wynagrodzenia,
-    - **d)** wynagrodzenie stanowi ą ce poł ą czenie rodzajów wynagrodzenia, o których mowa w lit. a ‒ c;
+    - **d)** wynagrodzenie stanowiące połączenie rodzajów wynagrodzenia, o których mowa w lit. a‒c;
 
-- **7)** informuje klienta o wysokości honorarium, o którym mowa w pkt 6 lit. a, a w przypadku gdy jest to niemożliwe o metodzie jego wyliczenia;
+- **7)** informuje klienta o wysokości honorarium, o którym mowa w pkt 6 lit. a, a w przypadku gdy jest to niemożliwe – o metodzie jego wyliczenia;
 - **8)** informuje klienta o możliwości złożenia reklamacji, wniesienia skargi oraz pozasądowego rozwiązywania sporów.
 
 2. Broker ubezpieczeniowy, przed zawarciem umowy ubezpieczenia na życie, o której mowa w grupie 3 działu I załącznika do ustawy o działalności ubezpieczeniowej i reasekuracyjnej, informuje klienta również o wysokości wskaźnika kosztów dystrybucji związanych z proponowaną umową.
@@ -589,12 +605,21 @@ o dystrybucji ubezpiecze ń
 - **3)** prowadzi rejestr skarg i reklamacji;
 - **4)** przechowuje dokumentację dotyczącą wykonywanej działalności brokerskiej w zakresie ubezpieczeń, w szczególności pełnomocnictwa do wykonywania czynności brokerskich w zakresie ubezpieczeń w imieniu klienta oraz dokumenty dotyczące wynagrodzenia brokera, przez okres 10 lat od dnia zakończenia współpracy z klientem.
 
+3a. Obowiązek zachowania tajemnicy, o którym mowa w ust. 3 pkt 1, dotyczy również osób, przy pomocy których broker wykonuje czynności brokerskie.
+
+3b. Obowiązek zachowania tajemnicy, o którym mowa w ust. 3 pkt 1, nie dotyczy informacji udzielanych na wniosek:
+
+- **1)** sądu lub prokuratora, o ile są niezbędne w toczącym się postępowaniu;
+- **2)** organu nadzoru, w zakresie wykonywania jego ustawowych zadań;
+- **3)** klienta, którego dotyczą informacje objęte tajemnicą;
+- **4)** innego podmiotu, którego uprawnienie do żądania informacji wynika z przepisów odrębnej ustawy.
+
 4. Osoby fizyczne wykonujące czynności brokerskie w zakresie ubezpieczeń okazują przy pierwszej czynności dokument upoważniający do działania w imieniu brokera ubezpieczeniowego.
 
 5. Do brokera reasekuracyjnego stosuje się odpowiednio przepisy:
 
 - **1)** ust. 1 pkt 1‒3 oraz ust. 3 pkt 1, 2 i 4;
-- **2)** ust. 1 pkt 5, z tym że obowiązek, o którym mowa w tym przepisie, dotyczy także akcji lub udziałów zakładu reasekuracji posiadanych przez brokera reasekuracyjnego, uprawniających co najmniej do 10% głosów na walnym zgromadzeniu tego zakładu, oraz akcji lub udziałów brokera reasekuracyjnego będącego osobą prawną, posiadanych przez zakład reasekuracji, uprawniających co najmniej do 10% głosów na walnym zgromadzeniu albo zgromadzeniu wspólników brokera reasekuracyjnego.
+- **2)** ust. 1 pkt 5, z tym że obowiązek, o którym mowa w tym przepisie, dotyczy także akcji lub udziałów zakładu reasekuracji posiadanych przez brokera reasekuracyjnego, uprawniających co najmniej do 10 % głosów na walnym zgromadzeniu tego zakładu, oraz akcji lub udziałów brokera reasekuracyjnego będącego osobą prawną, posiadanych przez zakład reasekuracji, uprawniających co najmniej do 10 % głosów na walnym zgromadzeniu albo zgromadzeniu wspólników brokera reasekuracyjnego.
 
 6. Do osób fizycznych wykonujących czynności brokerskie w zakresie reasekuracji przepis ust. 4 stosuje się odpowiednio.
 
@@ -612,7 +637,7 @@ o dystrybucji ubezpiecze ń
 
 - **1)** osoby fizycznej, która:
     - **a)** ma pełną zdolność do czynności prawnych,
-    - **b)** nie była prawomocnie skazana za umyślne przestępstwo: przeciwko życiu i zdrowiu, przeciwko wymiarowi sprawiedliwo ś ci, przeciwko ochronie informacji, przeciwko wiarygodno ś ci dokumentów, przeciwko mieniu, przeciwko obrotowi gospodarczemu, przeciwko obrotowi pieniędzmi i papierami wartościowymi, skarbowe,
+    - **b)** nie była prawomocnie skazana za umyślne przestępstwo: – przeciwko życiu i zdrowiu, – przeciwko wymiarowi sprawiedliwości, – przeciwko ochronie informacji, – przeciwko wiarygodności dokumentów, – przeciwko mieniu, – przeciwko obrotowi gospodarczemu, – przeciwko obrotowi pieniędzmi i papierami wartościowymi, – skarbowe,
     - **c)** daje rękojmię należytego wykonywania działalności brokerskiej odpowiednio w zakresie ubezpieczeń lub reasekuracji,
     - **d)** posiada co najmniej wykształcenie średnie lub średnie branżowe,
     - **e)** zdała egzamin przed Komisją Egzaminacyjną dla Brokerów Ubezpieczeniowych i Reasekuracyjnych odpowiednio do zakresu działalności albo uzyskała odpowiednie zwolnienie z egzaminu,
@@ -642,14 +667,20 @@ o dystrybucji ubezpiecze ń
 
 9. Warunku zdania egzaminu przed Komisją Egzaminacyjną dla Brokerów Ubezpieczeniowych i Reasekuracyjnych oraz warunku, o którym mowa w ust. 4 pkt 1 lit. f, nie stosuje się do osób fizycznych ubiegających się o zezwolenie na wykonywanie działalności brokerskiej w zakresie reasekuracji, członków zarządu osoby prawnej, która ubiega się o takie zezwolenie, ani osób fizycznych, przy pomocy których broker reasekuracyjny będzie wykonywał czynności brokerskie w zakresie reasekuracji, jeżeli osoby takie:
 
-- **1)** co najmniej przez 5 lat wykonywały u jednego lub wi ę kszej liczby brokerów reasekuracyjnych czynno ś ci bezpo ś rednio zwi ą zane z czynno ś ciami brokerskimi w zakresie reasekuracji w okresie 10 lat bezpo ś rednio poprzedzaj ą cych zło ż enie wniosku;
-- **2)** posiadaj ą pozytywne opinie brokerów reasekuracyjnych, pod kierunkiem których wykonywały czynno ś ci, o których mowa w pkt 1.
+- **1)** co najmniej przez 5 lat wykonywały u jednego lub większej liczby brokerów reasekuracyjnych czynności bezpośrednio związane z czynnościami brokerskimi w zakresie reasekuracji w okresie 10 lat bezpośrednio poprzedzających złożenie wniosku;
+- **2)** posiadają pozytywne opinie brokerów reasekuracyjnych, pod kierunkiem których wykonywały czynności, o których mowa w pkt 1.
 
 10. Komisja Egzaminacyjna dla Brokerów Ubezpieczeniowych i Reasekuracyjnych, na wniosek jednostek organizacyjnych uczelni uprawnionych do nadawania stopnia naukowego doktora nauk ekonomicznych lub doktora nauk prawnych, uznaje studia wyższe ukończone w Rzeczypospolitej Polskiej lub zagraniczne studia wyższe uznawane w Rzeczypospolitej Polskiej za równorzędne, jeżeli zakresem kształcenia obejmują one zakres tematów egzaminu dla brokerów ubezpieczeniowych lub zakres tematów egzaminu dla brokerów reasekuracyjnych.
 
 11. Komisja Egzaminacyjna dla Brokerów Ubezpieczeniowych i Reasekuracyjnych, na wniosek osoby fizycznej, zwalnia ją z egzaminu, jeżeli osoba ta ukończyła uznane przez Komisję studia wyższe, o których mowa w ust. 10, oraz zdała egzaminy na tych studiach przeprowadzone w formie pisemnej, a od ukończenia studiów nie upłynęło więcej niż 3 lata.
 
 12. Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia, wykaz dokumentów, które dołącza się do wniosku, o którym mowa w ust. 4, z uwzględnieniem konieczności przedstawienia pełnej informacji o podmiotach ubiegających się o wydanie zezwolenia.
+
+**Art. 34a.**
+
+1. Zezwolenie na wykonywanie działalności brokerskiej w zakresie ubezpieczeń lub reasekuracji nie podlega sukcesji, z wyłączeniem sukcesji po zmarłym brokerze ubezpieczeniowym lub reasekuracyjnym.
+
+2. Zarządca sukcesyjny wstępujący w miejsce zmarłego brokera ubezpieczeniowego lub brokera reasekuracyjnego może nie spełniać wymagań, o których mowa w art. 34 ust. 4 pkt 1 lit. c–f, pod warunkiem że czynności brokerskie będzie wykonywał przy pomocy osób fizycznych, o których mowa w art. 29 ust. 1.
 
 **Art. 35.** Zezwolenie zawiera:
 
@@ -681,9 +712,18 @@ o dystrybucji ubezpiecze ń
 4. W przypadku gdy z przyczyn określonych w ust. 2 cofnięto zezwolenie:
 
 - **1)** osobie fizycznej ‒ nie może ona, w okresie, o którym mowa w ust. 3, być członkiem organów zarządzających lub nadzorczych osoby prawnej prowadzącej działalność brokerską w zakresie ubezpieczeń lub w zakresie reasekuracji ani osoby prawnej ubiegającej się o zezwolenie na wykonywanie działalności brokerskiej w zakresie ubezpieczeń lub w zakresie reasekuracji;
-- **2)** osobie prawnej ‒ członek organów zarządzających lub nadzorczych takiej osoby prawnej nie może, w okresie, o którym mowa w ust. 3, by ć członkiem organów zarz ą dzaj ą cych lub nadzorczych osoby prawnej prowadz ą cej działalno ść brokersk ą w zakresie ubezpiecze ń lub w zakresie reasekuracji albo osoby prawnej ubiegaj ą cej si ę o zezwolenie na wykonywanie działalno ś ci brokerskiej w zakresie ubezpiecze ń lub reasekuracji ani ubiega ć si ę o zezwolenie na wykonywanie takiej działalno ś ci.
+- **2)** osobie prawnej ‒ członek organów zarządzających lub nadzorczych takiej osoby prawnej nie może, w okresie, o którym mowa w ust. 3, być członkiem organów zarządzających lub nadzorczych osoby prawnej prowadzącej działalność brokerską w zakresie ubezpieczeń lub w zakresie reasekuracji albo osoby prawnej ubiegającej się o zezwolenie na wykonywanie działalności brokerskiej w zakresie ubezpieczeń lub reasekuracji ani ubiegać się o zezwolenie na wykonywanie takiej działalności.
 
-5. Zezwolenie wygasa z chwilą śmierci brokera ubezpieczeniowego lub brokera reasekuracyjnego albo z chwilą wykreślenia go z rejestru przedsiębiorców w Krajowym Rejestrze Sądowym albo Centralnej Ewidencji i Informacji o Działalności Gospodarczej.
+5. Zezwolenie wygasa z chwilą wykreślenia brokera ubezpieczeniowego lub brokera reasekuracyjnego z rejestru przedsiębiorców w Krajowym Rejestrze Sądowym albo Centralnej Ewidencji i Informacji o Działalności Gospodarczej.
+
+6. W przypadku śmierci brokera ubezpieczeniowego lub brokera reasekuracyjnego:
+
+- **1)** spadkobierca, do czasu ustanowienia zarządcy sukcesyjnego, albo
+- **2)** zarządca sukcesyjny tego przedsiębiorcy, w terminie 2 miesięcy od dnia jego ustanowienia – może złożyć wniosek o dokonanie zmiany treści wpisu do rejestru brokerów w przedmiocie zgłoszenia osoby fizycznej mającej wykonywać czynności brokerskie w zakresie ubezpieczeń lub reasekuracji, spełniającej wymogi określone w art. 34 ust. 4 pkt 1 lit. a–e.
+
+7. Przepisu ust. 6 nie stosuje się w przypadku, gdy wpis do rejestru brokerów obejmuje inne osoby fizyczne, przy pomocy których broker, o którym mowa w ust. 6, wykonywał czynności brokerskie.
+
+8. W przypadku niezłożenia wniosku w trybie określonym w ust. 6 zezwolenie na wykonywanie działalności brokerskiej wydane zmarłemu brokerowi ubezpieczeniowemu lub brokerowi reasekuracyjnemu wygasa.
 
 **Art. 40.**
 
@@ -704,6 +744,8 @@ o dystrybucji ubezpiecze ń
 
 6. Osoba przystępująca do egzaminu ponosi opłatę egzaminacyjną.
 
+6a. Obsługę Komisji zapewnia Urząd Komisji Nadzoru Finansowego.
+
 7. Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia:
 
 - **1)** regulamin działania Komisji;
@@ -718,15 +760,15 @@ o dystrybucji ubezpiecze ń
 
 - **1)** konieczność zapewnienia odpowiedniego sprawdzenia wiedzy kandydatów, sprawnego przeprowadzenia egzaminu oraz sprawnego i skutecznego działania Komisji;
 - **2)** aby wysokość wynagrodzenia dla osób wchodzących w skład Komisji, mając na uwadze nakład ich pracy i zakres obowiązków, nie była wyższa niż:
-    - **a)** 50% przeciętnego wynagrodzenia w gospodarce narodowej w roku poprzedzającym przeprowadzenie egzaminu, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2017 r. poz. 1383, 1386 i 2120), zwanego dalej „przeciętnym wynagrodzeniem” ‒ za udział w egzaminie,
-    - **b)** 10% przeciętnego wynagrodzenia ‒ za udział w posiedzeniu Komisji oraz za przygotowanie testów egzaminacyjnych,
-    - **c)** 2% przeciętnego wynagrodzenia ‒ za opracowanie pytania testowego;
+    - **a)** 50 % przeciętnego wynagrodzenia w gospodarce narodowej w roku poprzedzającym przeprowadzenie egzaminu, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2024 r. poz. 1631 i 1674 oraz z 2025 r. poz. 718, 769 i 1159), zwanego dalej „przeciętnym wynagrodzeniem” ‒ za udział w egzaminie,
+    - **b)** 10 % przeciętnego wynagrodzenia ‒ za udział w posiedzeniu Komisji oraz za przygotowanie testów egzaminacyjnych,
+    - **c)** 2 % przeciętnego wynagrodzenia ‒ za opracowanie pytania testowego;
 
-- **3)** aby wysokość opłaty egzaminacyjnej nie była wyższa niż 20% przeciętnego wynagrodzenia;
+- **3)** aby wysokość opłaty egzaminacyjnej nie była wyższa niż 20 % przeciętnego wynagrodzenia;
 - **4)** konieczność przeprowadzania egzaminu nie rzadziej niż 2 razy w roku;
-- **5)** mo ż liwo ść weryfikacji przez Komisj ę uznania studiów wy ż szych, o którym mowa w art. 34 ust. 10.
+- **5)** możliwość weryfikacji przez Komisję uznania studiów wyższych, o którym mowa w art. 34 ust. 10.
 
-#### Rozdział 4 Prawo przedsi ę biorczo ś ci i swoboda ś wiadczenia usług w zakresie wykonywania działalno ś ci agencyjnej i działalno ś ci brokerskiej
+#### Rozdział 4 Prawo przedsiębiorczości i swoboda świadczenia usług w zakresie wykonywania działalności agencyjnej i działalności brokerskiej
 
 **Art. 41.**
 
@@ -755,9 +797,9 @@ o dystrybucji ubezpiecze ń
 
 2. Organ nadzoru niezwłocznie potwierdza otrzymanie informacji, o których mowa w ust. 1.
 
-3. Organ nadzoru przekazuje właściwemu organowi państwa członkowskiego Unii Europejskiej, w którym znajduje się siedziba lub miejsce zamieszkania podmiotu, o którym mowa w ust. 1, informacje o zasadach dobra ogólnego obowiązujących na terytorium Rzeczypospolitej Polskiej oraz o ich dostępności na stronie internetowej organu nadzoru, w terminie miesiąca od dnia otrzymania przez organ nadzoru informacji, o których mowa w ust. 1. Podmiot, o którym mowa w ust. 1, może rozpocząć wykonywanie działalności na terytorium Rzeczypospolitej Polskiej przez oddział po otrzymaniu od właściwego organu państwa członkowskiego Unii Europejskiej informacji o zasadach dobra ogólnego obowi ą zuj ą cych na terytorium Rzeczypospolitej Polskiej oraz pod warunkiem przestrzegania tych zasad.
+3. Organ nadzoru przekazuje właściwemu organowi państwa członkowskiego Unii Europejskiej, w którym znajduje się siedziba lub miejsce zamieszkania podmiotu, o którym mowa w ust. 1, informacje o zasadach dobra ogólnego obowiązujących na terytorium Rzeczypospolitej Polskiej oraz o ich dostępności na stronie internetowej organu nadzoru, w terminie miesiąca od dnia otrzymania przez organ nadzoru informacji, o których mowa w ust. 1. Podmiot, o którym mowa w ust. 1, może rozpocząć wykonywanie działalności na terytorium Rzeczypospolitej Polskiej przez oddział po otrzymaniu od właściwego organu państwa członkowskiego Unii Europejskiej informacji o zasadach dobra ogólnego obowiązujących na terytorium Rzeczypospolitej Polskiej oraz pod warunkiem przestrzegania tych zasad.
 
-4. W przypadku gdy organ nadzoru nie przeka ż e informacji, o których mowa w ust. 3, wła ś ciwemu organowi pa ń stwa członkowskiego Unii Europejskiej, w którym znajduje si ę siedziba lub miejsce zamieszkania podmiotu, o którym mowa w ust. 1, w terminie okre ś lonym w ust. 3, podmiot ten mo ż e rozpocz ąć wykonywanie działalno ś ci na terytorium Rzeczypospolitej Polskiej przez oddział po upływie miesi ą ca od dnia otrzymania przez organ nadzoru informacji, o których mowa w ust. 1.
+4. W przypadku gdy organ nadzoru nie przekaże informacji, o których mowa w ust. 3, właściwemu organowi państwa członkowskiego Unii Europejskiej, w którym znajduje się siedziba lub miejsce zamieszkania podmiotu, o którym mowa w ust. 1, w terminie określonym w ust. 3, podmiot ten może rozpocząć wykonywanie działalności na terytorium Rzeczypospolitej Polskiej przez oddział po upływie miesiąca od dnia otrzymania przez organ nadzoru informacji, o których mowa w ust. 1.
 
 **Art. 44.**
 
@@ -789,10 +831,10 @@ o dystrybucji ubezpiecze ń
 
 3. Organ nadzoru, w terminie miesiąca od dnia otrzymania powiadomienia, o którym mowa w ust. 1, przekazuje właściwemu organowi państwa członkowskiego Unii Europejskiej, w którym agent ubezpieczeniowy i agent oferujący ubezpieczenia uzupełniające zamierzają wykonywać działalność przez oddział, informacje, o których mowa w ust. 2, wraz z firmą, adresem agenta, numerem wpisu do rejestru agentów oraz określeniem rodzaju agenta i informacją o grupach ubezpieczeń, w zakresie których agent wykonuje działalność, a także informuje o tym agenta, którego to dotyczy.
 
-4. Organ nadzoru, w terminie miesiąca od dnia otrzymania powiadomienia, o którym mowa w ust. 1, może odmówić, w drodze decyzji, przekazania wła ś ciwemu organowi pa ń stwa członkowskiego Unii Europejskiej, w którym agent ubezpieczeniowy i agent oferuj ą cy ubezpieczenia uzupełniaj ą ce zamierzaj ą wykonywa ć działalno ść przez oddział, informacji, o których mowa w ust. 2 i 3, je ż eli, przy uwzgl ę dnieniu planowanej działalno ś ci oddziału:
+4. Organ nadzoru, w terminie miesiąca od dnia otrzymania powiadomienia, o którym mowa w ust. 1, może odmówić, w drodze decyzji, przekazania właściwemu organowi państwa członkowskiego Unii Europejskiej, w którym agent ubezpieczeniowy i agent oferujący ubezpieczenia uzupełniające zamierzają wykonywać działalność przez oddział, informacji, o których mowa w ust. 2 i 3, jeżeli, przy uwzględnieniu planowanej działalności oddziału:
 
 - **1)** sytuacja finansowa agenta nie pozwala na utworzenie oddziału;
-- **2)** struktura organizacyjna oddziału nie zapewnia prawidłowego wykonywania działalno ś ci.
+- **2)** struktura organizacyjna oddziału nie zapewnia prawidłowego wykonywania działalności.
 
 5. Organ nadzoru niezwłocznie informuje agenta ubezpieczeniowego i agenta oferującego ubezpieczenia uzupełniające o otrzymaniu przez właściwy organ państwa członkowskiego Unii Europejskiej, w którym agenci zamierzają wykonywać działalność przez oddział, informacji, o których mowa w ust. 2 i 3.
 
@@ -824,7 +866,7 @@ o dystrybucji ubezpiecze ń
 
 5. Organ nadzoru niezwłocznie informuje brokera ubezpieczeniowego i brokera reasekuracyjnego o otrzymaniu przez właściwy organ państwa członkowskiego Unii Europejskiej, w którym zamierzają oni wykonywać działalność przez oddział, informacji, o których mowa w ust. 2 i 3.
 
-6. Organ nadzoru przekazuje brokerowi ubezpieczeniowemu i brokerowi reasekuracyjnemu informacje o zasadach dobra ogólnego obowiązujących w przyjmującym państwie członkowskim Unii Europejskiej, ich dostępności na stronie internetowej właściwego organu tego państwa członkowskiego Unii Europejskiej, do którego odesłanie zostało zamieszczone na stronie internetowej EIOPA, a tak ż e informacj ę , ż e mog ą oni rozpocz ąć wykonywanie działalno ś ci w przyjmuj ą cym pa ń stwie członkowskim Unii Europejskiej pod warunkiem przestrzegania tych zasad.
+6. Organ nadzoru przekazuje brokerowi ubezpieczeniowemu i brokerowi reasekuracyjnemu informacje o zasadach dobra ogólnego obowiązujących w przyjmującym państwie członkowskim Unii Europejskiej, ich dostępności na stronie internetowej właściwego organu tego państwa członkowskiego Unii Europejskiej, do którego odesłanie zostało zamieszczone na stronie internetowej EIOPA, a także informację, że mogą oni rozpocząć wykonywanie działalności w przyjmującym państwie członkowskim Unii Europejskiej pod warunkiem przestrzegania tych zasad.
 
 7. Broker ubezpieczeniowy i broker reasekuracyjny mogą ustanawiać oddziały na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej:
 
@@ -862,9 +904,9 @@ o dystrybucji ubezpiecze ń
 2. W powiadomieniu, o którym mowa w ust. 1, agent ubezpieczeniowy i agent oferujący ubezpieczenia uzupełniające wskazują:
 
 - **1)** państwo członkowskie Unii Europejskiej, na którego terytorium ma być wykonywana działalność agencyjna;
-- **2)** firmy i siedziby zakładów ubezpieczeń, w imieniu lub na rzecz których zamierzają oni wykonywać czynności agencyjne w przyjmuj ą cym pa ń stwie członkowskim Unii Europejskiej.
+- **2)** firmy i siedziby zakładów ubezpieczeń, w imieniu lub na rzecz których zamierzają oni wykonywać czynności agencyjne w przyjmującym państwie członkowskim Unii Europejskiej.
 
-3. Organ nadzoru, w terminie miesi ą ca od dnia otrzymania powiadomienia, o którym mowa w ust. 1, przekazuje wła ś ciwemu organowi pa ń stwa członkowskiego Unii Europejskiej, w którym agent ubezpieczeniowy i agent oferuj ą cy ubezpieczenia uzupełniaj ą ce zamierzaj ą wykonywa ć działalno ść , informacje, o których mowa w ust. 2, wraz z firm ą , adresem agenta, numerem wpisu do rejestru agentów oraz okre ś leniem rodzaju agenta i informacj ą o grupach ubezpiecze ń , w zakresie których agent wykonuje działalność.
+3. Organ nadzoru, w terminie miesiąca od dnia otrzymania powiadomienia, o którym mowa w ust. 1, przekazuje właściwemu organowi państwa członkowskiego Unii Europejskiej, w którym agent ubezpieczeniowy i agent oferujący ubezpieczenia uzupełniające zamierzają wykonywać działalność, informacje, o których mowa w ust. 2, wraz z firmą, adresem agenta, numerem wpisu do rejestru agentów oraz określeniem rodzaju agenta i informacją o grupach ubezpieczeń, w zakresie których agent wykonuje działalność.
 
 4. Organ nadzoru niezwłocznie informuje agenta ubezpieczeniowego i agenta oferującego ubezpieczenia uzupełniające, że właściwy organ państwa członkowskiego Unii Europejskiej otrzymał informacje, o których mowa w ust. 2 i 3, oraz że mogą oni rozpocząć wykonywanie działalności na terytorium przyjmującego państwa członkowskiego Unii Europejskiej.
 
@@ -899,9 +941,11 @@ o dystrybucji ubezpiecze ń
 - **1)** rejestru agentów;
 - **2)** rejestru brokerów.
 
-3. Rejestr po ś redników ubezpieczeniowych jest prowadzony przez organ nadzoru w systemie rejestracji internetowej.
+3. Rejestr pośredników ubezpieczeniowych jest prowadzony przez organ nadzoru w systemie rejestracji internetowej.
 
 4. Rejestr agentów jest jawny w zakresie aktualnych danych, o których mowa w art. 55 ust. 1‒3, z wyłączeniem informacji o osobach fizycznych obejmujących numer PESEL, numer paszportu, numer dowodu osobistego lub innego dokumentu potwierdzającego tożsamość, oraz miejsce zamieszkania.
+
+4a. Organ nadzoru udostępnia zakładowi ubezpieczeń, nie częściej niż raz na kwartał, zbiorczą informację o aktualnych wpisach w rejestrze agentów, objętych wpisem danego zakładu.
 
 5. Informacje z rejestru agentów dotyczące danych historycznych udzielane są na wniosek agenta ubezpieczeniowego lub agenta oferującego ubezpieczenia uzupełniające, a także innej osoby prawnej lub osoby fizycznej, których informacje dotyczą.
 
@@ -913,9 +957,25 @@ o dystrybucji ubezpiecze ń
 
 9. Informacje z rejestru brokerów dotyczące danych historycznych oraz informacje, o których mowa w art. 59 ust. 3 pkt 2 i 3, udzielane są na wniosek brokera ubezpieczeniowego lub brokera reasekuracyjnego albo innej osoby fizycznej lub osoby prawnej, których informacje dotyczą.
 
-10. Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia, szczegółowy sposób i tryb prowadzenia rejestru pośredników ubezpieczeniowych, w tym uzyskiwania dostępu do tego rejestru, sposób współpracy organu nadzoru i Polskiej Izby Ubezpieczeń w zakresie dotyczącym udzielania informacji określonych w ust. 6, a także sposób udostępniania informacji z tego rejestru, uwzględniając konieczność zapewnienia sprawnego funkcjonowania rejestru pośredników ubezpieczeniowych.
+10. Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia:
 
-**Art. 53.** Zakład ubezpieczeń składa, wraz z niezbędnymi dokumentami, wniosek o wpisanie do rejestru agentów podmiotu, z którym zawarł umowę agencyjną, niezwłocznie po jej zawarciu, jednak nie później niż w terminie 14 dni.
+- **1)** szczegółowy sposób i tryb prowadzenia rejestru pośredników ubezpieczeniowych, w tym uzyskiwania dostępu do tego rejestru,
+- **2)** sposób współpracy organu nadzoru i Polskiej Izby Ubezpieczeń w zakresie dotyczącym udzielania informacji określonych w ust. 6,
+- **3)** sposób udostępniania zakładowi ubezpieczeń informacji, o której mowa w ust. 4a,
+- **4)** sposób udostępniania informacji z tego rejestru – uwzględniając konieczność zapewnienia sprawnego funkcjonowania rejestru pośredników ubezpieczeniowych.
+
+**Art. 53.**
+
+1. Zakład ubezpieczeń składa, wraz z niezbędnymi dokumentami, wniosek o wpisanie do rejestru agentów podmiotu, z którym zawarł umowę agencyjną lub ją zmienił na skutek okoliczności, o których mowa w ust. 2, niezwłocznie po jej zawarciu lub zmianie, jednak nie później niż w terminie 14 dni.
+
+2. W przypadku połączenia lub podziału zakładu ubezpieczeń albo agenta ubezpieczeniowego lub agenta oferującego ubezpieczenia uzupełniające, wpis do rejestru agentów nie przechodzi na spółkę przejmującą lub spółkę nowo zawiązaną powstałą w związku z połączeniem lub podziałem zakładu ubezpieczeń albo agenta.
+
+3. W przypadku przymusowej restrukturyzacji banku będącego agentem ubezpieczeniowym, dokonanej na podstawie decyzji, o której mowa w art. 174 ust. 1 pkt 1 i 2 albo w art. 188 ust. 1 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. z 2025 r. poz. 643 i 1069):
+
+- **1)** podmiot przejmujący jest uprawniony do wykonywania działalności agencyjnej oraz czynności agencyjnych wykonywanych przed przejęciem przez podmiot przejmowany od dnia przejęcia przedsiębiorstwa podmiotu w restrukturyzacji albo
+- **2)** instytucja pomostowa jest uprawniona do wykonywania działalności agencyjnej oraz czynności agencyjnych wykonywanych przed przeniesieniem do instytucji pomostowej praw udziałowych lub majątkowych albo przedsiębiorstwa banku w restrukturyzacji od dnia przeniesienia.
+
+4. W przypadku, o którym mowa w ust. 3, przepisy ust. 1 lub art. 56 ust. 2 stosuje się odpowiednio.
 
 **Art. 54.**
 
@@ -932,9 +992,9 @@ o dystrybucji ubezpiecze ń
 1. Rejestr agentów zawiera, w odniesieniu do agentów ubezpieczeniowych i agentów oferujących ubezpieczenia uzupełniające, będących osobami fizycznymi:
 
 - **1)** numer wpisu;
-- **2)** dane osobowe, obejmuj ą ce:
-    - **a)** imi ę lub imiona i nazwisko,
-    - **b)** numer PESEL lub, je ż eli taki numer nie został nadany, numer paszportu, numer dowodu osobistego lub innego dokumentu potwierdzaj ą cego to ż samo ść ,
+- **2)** dane osobowe, obejmujące:
+    - **a)** imię lub imiona i nazwisko,
+    - **b)** numer PESEL lub, jeżeli taki numer nie został nadany, numer paszportu, numer dowodu osobistego lub innego dokumentu potwierdzającego tożsamość,
     - **c)** miejsce zamieszkania,
     - **d)** numer identyfikacji podatkowej (NIP),
     - **e)** firmę, pod którą agent wykonuje działalność gospodarczą,
@@ -947,7 +1007,7 @@ o dystrybucji ubezpiecze ń
     - **b)** numer PESEL lub, jeżeli taki numer nie został nadany, numer paszportu, numer dowodu osobistego lub innego dokumentu potwierdzającego tożsamość,
     - **c)** miejsce zamieszkania;
 
-- **6)** w przypadku agenta wykonującego czynności agencyjne na rzecz więcej niż jednego zakładu ubezpieczeń w zakresie tego samego działu ubezpieczeń, zgodnie z załącznikiem do ustawy o działalności ubezpieczeniowej i reasekuracyjnej numer dokumentu potwierdzającego zawarcie umowy obowiązkowego ubezpieczenia odpowiedzialności cywilnej lub numer umowy gwarancji ubezpieczeniowej, o których mowa w art. 20 ust. 3 i 4, termin obowiązywania umowy oraz nazwę zakładu ubezpieczeń, z którym zawarto umowę.
+- **6)** w przypadku agenta wykonującego czynności agencyjne na rzecz więcej niż jednego zakładu ubezpieczeń w zakresie tego samego działu ubezpieczeń, zgodnie z załącznikiem do ustawy o działalności ubezpieczeniowej i reasekuracyjnej – numer dokumentu potwierdzającego zawarcie umowy obowiązkowego ubezpieczenia odpowiedzialności cywilnej lub numer umowy gwarancji ubezpieczeniowej, o których mowa w art. 20 ust. 3 i 4, termin obowiązywania umowy oraz nazwę zakładu ubezpieczeń, z którym zawarto umowę.
 
 2. Rejestr agentów zawiera, w odniesieniu do agentów ubezpieczeniowych i agentów oferujących ubezpieczenia uzupełniające, niebędących osobami fizycznymi:
 
@@ -965,14 +1025,16 @@ o dystrybucji ubezpiecze ń
     - **b)** numer PESEL lub, jeżeli taki numer nie został nadany, numer paszportu, numer dowodu osobistego lub innego dokumentu potwierdzającego tożsamość,
     - **c)** miejsce zamieszkania;
 
-- **6)** w przypadku agenta wykonującego czynności agencyjne na rzecz więcej niż jednego zakładu ubezpieczeń w zakresie tego samego działu ubezpieczeń, zgodnie z załącznikiem do ustawy o działalności ubezpieczeniowej i reasekuracyjnej numer dokumentu potwierdzającego zawarcie umowy obowiązkowego ubezpieczenia odpowiedzialności cywilnej lub numer umowy gwarancji ubezpieczeniowej, o których mowa w art. 20 ust. 3 i 4, termin obowiązywania umowy oraz nazwę zakładu ubezpieczeń, z którym zawarto umowę;
-- **7)** wykaz członków zarządu agenta będącego osobą prawną oraz wspólników agenta będącego spółką nieposiadającą osobowości prawnej, obejmujący ‒ w przypadku wspólników będących osobami prawnymi ‒ członków ich zarządu, zawieraj ą cy dane osobowe takich osób, obejmuj ą ce:
-    - **a)** imi ę lub imiona i nazwisko,
-    - **b)** numer PESEL lub, je ż eli taki numer nie został nadany, numer paszportu, numer dowodu osobistego lub innego dokumentu potwierdzaj ą cego to ż samo ść ,
+- **6)** w przypadku agenta wykonującego czynności agencyjne na rzecz więcej niż jednego zakładu ubezpieczeń w zakresie tego samego działu ubezpieczeń, zgodnie z załącznikiem do ustawy o działalności ubezpieczeniowej i reasekuracyjnej – numer dokumentu potwierdzającego zawarcie umowy obowiązkowego ubezpieczenia odpowiedzialności cywilnej lub numer umowy gwarancji ubezpieczeniowej, o których mowa w art. 20 ust. 3 i 4, termin obowiązywania umowy oraz nazwę zakładu ubezpieczeń, z którym zawarto umowę;
+- **7)** wykaz osób, o których mowa w art. 19 ust. 3 pkt 2 i 3, zawierający dane osobowe tych osób, obejmujące:
+    - **a)** imię lub imiona i nazwisko,
+    - **b)** numer PESEL lub, jeżeli taki numer nie został nadany, numer paszportu, numer dowodu osobistego lub innego dokumentu potwierdzającego tożsamość,
     - **c)** miejsce zamieszkania;
 
-- **8)** tożsamość akcjonariuszy lub udziałowców posiadających co najmniej 10% udziału w kapitale zakładowym agenta oraz wysokość tych udziałów;
-- **9)** tożsamość osób, które mają bliskie powiazania z agentem.
+- **8)** tożsamość akcjonariuszy lub udziałowców posiadających co najmniej 10 % udziału w kapitale zakładowym agenta oraz wysokość tych udziałów, a w przypadku agenta będącego prostą spółką akcyjną – tożsamość akcjonariuszy posiadających co najmniej 10 % akcji tej spółki oraz stosunek liczby akcji przysługujących tym akcjonariuszom do ogólnej liczby akcji prostej spółki akcyjnej;
+- **9)** tożsamość osób, które mają bliskie powiązania z agentem.
+
+2a. Rejestr agentów zawiera również adres poczty elektronicznej, o którym mowa w art. 38 pkt 1a ustawy z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2025 r. poz. 869 i 1556) albo w art. 5 ust. 1 pkt 7 ustawy z dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy (Dz. U. z 2022 r. poz. 541, z 2024 r. poz. 1841 oraz z 2025 r. poz. 769 i 1541).
 
 3. Rejestr agentów, w przypadku agentów ubezpieczeniowych i agentów oferujących ubezpieczenia uzupełniające wykonujących działalność agencyjną na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej przez oddział lub w inny sposób niż przez oddział, w ramach swobody świadczenia usług, zawiera dodatkowo:
 
@@ -980,13 +1042,15 @@ o dystrybucji ubezpiecze ń
 - **2)** adres oddziału agenta w państwie członkowskim Unii Europejskiej, w którym wykonuje on tę działalność przez oddział;
 - **3)** firmę i siedzibę zakładu ubezpieczeń, w imieniu lub na rzecz którego agent wykonuje działalność agencyjną w państwie członkowskim Unii Europejskiej.
 
-4. Tożsamość akcjonariuszy, udziałowców oraz osób, o których mowa odpowiednio w ust. 2 pkt 8 i 9, w odniesieniu do osób fizycznych obejmuje ich dane osobowe, o których mowa w ust. 1 pkt 2, a w odniesieniu do przedsiębiorców niebędących osobami fizycznymi ‒ ich dane, o których mowa w ust. 2 pkt 2 lit. a‒c.
+4. Tożsamość akcjonariuszy, udziałowców oraz osób, o których mowa odpowiednio w ust. 2 pkt 8 i 9, w odniesieniu do osób fizycznych obejmuje ich dane osobowe, o których mowa w ust. 1 pkt 2 lit. a–c, a w odniesieniu do przedsiębiorców niebędących osobami fizycznymi – dane, o których mowa w ust. 2 pkt 2 lit. a–c.
 
 **Art. 56.**
 
 1. Zakład ubezpieczeń zapewnia zgodność danych dotyczących agentów ubezpieczeniowych i agentów oferujących ubezpieczenia uzupełniające wpisanych na jego wniosek do rejestru agentów ze stanem faktycznym.
 
 2. Zmiany danych objętych wpisem do rejestru agentów zakład ubezpieczeń zgłasza niezwłocznie, jednak nie później niż w terminie 7 dni od dnia powzięcia wiadomości o ich zaistnieniu.
+
+2a. Zmiany danych objętych wpisem do rejestru agentów dotyczących zmarłego agenta ubezpieczeniowego lub agenta oferującego ubezpieczenia uzupełniające, w którego miejsce wstąpił zarządca sukcesyjny, o którym mowa w art. 19 ust. 3a, zakład ubezpieczeń zgłasza niezwłocznie, jednak nie później niż w terminie 14 dni od dnia powzięcia wiadomości o ustanowieniu zarządcy sukcesyjnego.
 
 3. Organ nadzoru dokonuje zmiany wpisu w rejestrze agentów na podstawie wniosku złożonego wraz z niezbędnymi dokumentami przez zakład ubezpieczeń.
 
@@ -1004,9 +1068,25 @@ o dystrybucji ubezpiecze ń
 
 5. O prawomocnym rozstrzygnięciu przez sąd lub inny właściwy organ w przedmiocie prawidłowości albo wadliwości rozwiązania umowy agencyjnej z przyczyny określonej w ust. 3 zakład ubezpieczeń niezwłocznie, jednak nie później niż w terminie 7 dni od dnia uprawomocnienia się takiego rozstrzygnięcia, informuje organ nadzoru. W takim przypadku wykreśla się z rejestru informacje, o których mowa w ust. 3 lub 4.
 
-6. Odpowiedzialno ść za zgodno ść ze stanem faktycznym informacji, o których mowa w ust. 3 ‒ 5, oraz za ich wykorzystanie przez podmioty, którym takie informacje zostały udost ę pnione, ponosi zakład ubezpiecze ń , który przekazał te informacje.
+6. Odpowiedzialność za zgodność ze stanem faktycznym informacji, o których mowa w ust. 3‒5, oraz za ich wykorzystanie przez podmioty, którym takie informacje zostały udostępnione, ponosi zakład ubezpieczeń, który przekazał te informacje.
 
-7. Dane dotycz ą ce agenta ubezpieczeniowego i agenta oferuj ą cego ubezpieczenia uzupełniaj ą ce wykre ś lonych z rejestru agentów są przechowywane w tym rejestrze przez 10 lat.
+7. Dane dotyczące agenta ubezpieczeniowego i agenta oferującego ubezpieczenia uzupełniające wykreślonych z rejestru agentów są przechowywane w tym rejestrze przez 10 lat.
+
+**Art. 57a.**
+
+1. Z chwilą wygaśnięcia umowy agencyjnej z przyczyn leżących po stronie agenta zakład ubezpieczeń jest obowiązany niezwłocznie, jednak nie później niż w terminie 7 dni od dnia, w którym dowiedział się o wygaśnięciu umowy, wystąpić do organu nadzoru z wnioskiem o wykreślenie agenta ubezpieczeniowego lub agenta oferującego ubezpieczenia uzupełniające z rejestru agentów dla danego zakładu ubezpieczeń.
+
+2. Przepisu ust. 1 nie stosuje się w przypadku wygaśnięcia umowy agencyjnej z powodu śmierci agenta, jeżeli w miejsce zmarłego agenta wstępuje zarządca sukcesyjny, o którym mowa w art. 19 ust. 3a.
+
+**Art. 57b.**
+
+1. Organ nadzoru może dokonać wykreślenia agenta ubezpieczeniowego lub agenta oferującego ubezpieczenia uzupełniające z rejestru agentów w przypadku:
+
+- **1)** ostatecznej decyzji o cofnięciu zezwolenia na wykonywanie działalności ubezpieczeniowej zakładowi ubezpieczeń;
+- **2)** powzięcia informacji od organu nadzorczego, o którym mowa w art. 3 ust. 1 pkt 24 ustawy o działalności ubezpieczeniowej i reasekuracyjnej, innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, w którym znajduje się siedziba zagranicznego zakładu ubezpieczeń, o zaprzestaniu przez ten zakład wykonywania działalności ubezpieczeniowej na terytorium Rzeczypospolitej Polskiej;
+- **3)** połączenia zakładów ubezpieczeń, o którym mowa w przepisach rozdziału 12 ustawy o działalności ubezpieczeniowej i reasekuracyjnej, w odniesieniu do agenta ubezpieczeniowego lub agenta oferującego ubezpieczenia uzupełniające przejmowanego zakładu ubezpieczeń.
+
+2. Organ nadzoru informuje agenta ubezpieczeniowego oraz agenta oferującego ubezpieczenia uzupełniające o wykreśleniu, o którym mowa w ust. 1, nie później niż w terminie 14 dni od dnia wykreślenia.
 
 **Art. 58.**
 
@@ -1043,7 +1123,7 @@ o dystrybucji ubezpiecze ń
     - **b)** numer PESEL lub, jeżeli taki numer nie został nadany, numer paszportu, numer dowodu osobistego lub innego dokumentu potwierdzającego tożsamość,
     - **c)** miejsce zamieszkania;
 
-- **8)** numer dokumentu potwierdzaj ą cego zawarcie umowy obowi ą zkowego ubezpieczenia odpowiedzialno ś ci cywilnej, o którym mowa w art. 28 ust. 1, termin obowi ą zywania tej umowy ubezpieczenia oraz nazw ę zakładu ubezpiecze ń , z którym zawarto t ę umow ę .
+- **8)** numer dokumentu potwierdzającego zawarcie umowy obowiązkowego ubezpieczenia odpowiedzialności cywilnej, o którym mowa w art. 28 ust. 1, termin obowiązywania tej umowy ubezpieczenia oraz nazwę zakładu ubezpieczeń, z którym zawarto tę umowę.
 
 2. Rejestr brokerów zawiera, w odniesieniu do brokerów ubezpieczeniowych i brokerów reasekuracyjnych, będących osobami prawnymi:
 
@@ -1051,7 +1131,7 @@ o dystrybucji ubezpiecze ń
 - **2)** dane dotyczące brokera, obejmujące:
     - **a)** firmę,
     - **b)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym,
-    - **c)** dane osobowe osób wchodzących w skład zarządu, obejmujące: imię lub imiona i nazwisko, numer PESEL lub, jeżeli taki numer nie został nadany, numer paszportu, numer dowodu osobistego lub innego dokumentu potwierdzającego tożsamość, miejsce zamieszkania,
+    - **c)** dane osobowe osób wchodzących w skład zarządu, obejmujące: – imię lub imiona i nazwisko, – numer PESEL lub, jeżeli taki numer nie został nadany, numer paszportu, numer dowodu osobistego lub innego dokumentu potwierdzającego tożsamość, – miejsce zamieszkania,
     - **d)** siedzibę i adres podmiotu,
     - **e)** numer i datę wydania zezwolenia;
 
@@ -1067,17 +1147,17 @@ o dystrybucji ubezpiecze ń
     - **c)** miejsce zamieszkania;
 
 - **7)** numer dokumentu potwierdzającego zawarcie umowy obowiązkowego ubezpieczenia odpowiedzialności cywilnej, o którym mowa w art. 28 ust. 1, termin obowiązywania tej umowy ubezpieczenia oraz nazwę zakładu ubezpieczeń, z którym zawarto tę umowę;
-- **8)** tożsamość akcjonariuszy lub udziałowców posiadających co najmniej 10% udziału w kapitale zakładowym brokera oraz wysokość tych udziałów;
-- **9)** tożsamość osób, które mają bliskie powiazania z brokerem.
+- **8)** tożsamość akcjonariuszy lub udziałowców posiadających co najmniej 10 % udziału w kapitale zakładowym brokera oraz wysokość tych udziałów, a w przypadku brokera będącego prostą spółką akcyjną – tożsamość akcjonariuszy posiadających co najmniej 10 % akcji tej spółki oraz stosunek liczby akcji przysługujących tym akcjonariuszom do ogólnej liczby akcji prostej spółki akcyjnej;
+- **9)** tożsamość osób, które mają bliskie powiązania z brokerem.
 
 3. Rejestr brokerów zawiera także:
 
 - **1)** datę i rodzaj egzaminu przeprowadzonego przez Komisję;
 - **2)** dane osobowe osób, które zdały egzamin przed Komisją, obejmujące:
     - **a)** imię lub imiona i nazwisko,
-    - **b)** numer PESEL lub, jeżeli taki numer nie został nadany, numer paszportu, numer dowodu osobistego lub innego dokumentu potwierdzaj ą cego to ż samo ść ,
+    - **b)** numer PESEL lub, jeżeli taki numer nie został nadany, numer paszportu, numer dowodu osobistego lub innego dokumentu potwierdzającego tożsamość,
     - **c)** miejsce zamieszkania,
-    - **d)** dat ę i miejsce urodzenia oraz imi ę ojca;
+    - **d)** datę i miejsce urodzenia oraz imię ojca;
 
 - **3)** dane osobowe osób, o których mowa w art. 34 ust. 8 i 9, oraz osób, które zostały zwolnione z egzaminu zgodnie z art. 34 ust. 11, obejmujące:
     - **a)** imię lub imiona i nazwisko,
@@ -1086,7 +1166,7 @@ o dystrybucji ubezpiecze ń
 
 4. Dane dotyczące brokera ubezpieczeniowego i brokera reasekuracyjnego wykreślonych z rejestru brokerów są przechowywane w rejestrze przez 10 lat.
 
-5. Tożsamość akcjonariuszy, udziałowców oraz osób, o których mowa odpowiednio w ust. 2 pkt 8 i 9, w odniesieniu do osób fizycznych obejmuje ich dane osobowe, o których mowa w ust. 1 pkt 2, a w odniesieniu do osób prawnych ‒ ich dane, o których mowa w ust. 2 pkt 2 lit. a, b i d.
+5. Tożsamość akcjonariuszy, udziałowców oraz osób, o których mowa w ust. 2 pkt 8 i 9, obejmuje odpowiednio dane osobowe, o których mowa w ust. 1 pkt 2 lit. a–c, w przypadku osób fizycznych, a w odniesieniu do osób prawnych dane, o których mowa w ust. 2 pkt 2 lit. a, b i d.
 
 **Art. 60.** Organ nadzoru dokonuje wykreślenia brokera ubezpieczeniowego lub brokera reasekuracyjnego z rejestru brokerów w przypadku:
 
@@ -1100,7 +1180,7 @@ o dystrybucji ubezpiecze ń
 
 4. Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia, sposób składania wniosków o zmianę treści wpisu do rejestru brokerów oraz wykaz dokumentów dołączanych do takich wniosków, mając na uwadze zapewnienie sprawnego funkcjonowania rejestru oraz pełnej informacji o osobach, których dane są wpisywane do rejestru.
 
-#### Rozdział 6 Nadzór nad dystrybucj ą ubezpiecze ń i dystrybucj ą reasekuracji
+#### Rozdział 6 Nadzór nad dystrybucją ubezpieczeń i dystrybucją reasekuracji
 
 **Art. 62.**
 
@@ -1108,15 +1188,15 @@ o dystrybucji ubezpiecze ń
 
 2. Organ nadzoru sprawuje nadzór nad:
 
-- **1)** zakładem ubezpieczeń w zakresie korzystania z usług agentów ubezpieczeniowych, agentów oferujących ubezpieczenia uzupełniające oraz przedsiębiorców, o których mowa w art. 3;
-- **2)** działalnością agentów ubezpieczeniowych i agentów oferujących ubezpieczenia uzupełniające w zakresie, o którym mowa w art. 69, art. 80 pkt 2, art. 83 ust. 2, art. 84, art. 85 i art. 87;
+- **1)** zakładem ubezpieczeń w zakresie korzystania z usług agentów ubezpieczeniowych, agentów oferujących ubezpieczenia uzupełniające oraz przedsiębiorców, o których mowa w art. 2;
+- **2)** działalnością agentów ubezpieczeniowych i agentów oferujących ubezpieczenia uzupełniające w zakresie, o którym mowa w art. 69, art. 80 ust. 1 pkt 2, art. 83 ust. 2, art. 84, art. 85 i art. 87;
 - **3)** działalnością brokerów ubezpieczeniowych i brokerów reasekuracyjnych.
 
 **Art. 63.** Organ nadzoru monitoruje rynek produktów ubezpieczeniowych, które są wprowadzane do obrotu, dystrybuowane lub sprzedawane na terytorium Rzeczypospolitej Polskiej lub z terytorium Rzeczypospolitej Polskiej.
 
 **Art. 64.**
 
-1. Jeżeli główne miejsce wykonywania działalności przez podmiot mający siedzibę lub miejsce zamieszkania w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej, wpisany do odpowiedniego rejestru pośredników w tym państwie, wykonujący działalność agencyjną albo działalność brokerską na terytorium Rzeczypospolitej Polskiej przez oddział lub w inny sposób ni ż przez oddział, w ramach swobody ś wiadczenia usług, znajduje si ę na terytorium Rzeczypospolitej Polskiej, organ nadzoru, na podstawie wspólnego uzgodnienia z wła ś ciwym organem pa ń stwa członkowskiego Unii Europejskiej, w którym podmiot ten ma siedzib ę lub miejsce zamieszkania, mo ż e zosta ć wyznaczony jako organ sprawuj ą cy nadzór nad tym podmiotem w zakresie okre ś lonym przepisami ustawy, z wyj ą tkiem przepisów rozdziałów 4 i 5.
+1. Jeżeli główne miejsce wykonywania działalności przez podmiot mający siedzibę lub miejsce zamieszkania w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej, wpisany do odpowiedniego rejestru pośredników w tym państwie, wykonujący działalność agencyjną albo działalność brokerską na terytorium Rzeczypospolitej Polskiej przez oddział lub w inny sposób niż przez oddział, w ramach swobody świadczenia usług, znajduje się na terytorium Rzeczypospolitej Polskiej, organ nadzoru, na podstawie wspólnego uzgodnienia z właściwym organem państwa członkowskiego Unii Europejskiej, w którym podmiot ten ma siedzibę lub miejsce zamieszkania, może zostać wyznaczony jako organ sprawujący nadzór nad tym podmiotem w zakresie określonym przepisami ustawy, z wyjątkiem przepisów rozdziałów 4 i 5.
 
 2. Jeżeli główne miejsce wykonywania działalności przez pośrednika ubezpieczeniowego, wpisanego do rejestru pośredników ubezpieczeniowych, znajduje się w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej, organ nadzoru, na podstawie wspólnego uzgodnienia z właściwym organem przyjmującego państwa członkowskiego Unii Europejskiej, może wyznaczyć ten właściwy organ przyjmującego państwa członkowskiego Unii Europejskiej jako organ sprawujący nadzór nad tym pośrednikiem w zakresie określonym przepisami ustawy, z wyjątkiem przepisów rozdziałów 4 i 5.
 
@@ -1124,7 +1204,7 @@ o dystrybucji ubezpiecze ń
 
 - **1)** zamiarze podjęcia uzgodnienia,
 - **2)** projektowanej treści uzgodnienia,
-- **3)** procedurach odwoławczych od rozstrzygnięć organu wyznaczanego do sprawowania nadzoru nad pośrednikiem umożliwiając pośrednikowi ubezpieczeniowemu wyrażenie opinii.
+- **3)** procedurach odwoławczych od rozstrzygnięć organu wyznaczanego do sprawowania nadzoru nad pośrednikiem – umożliwiając pośrednikowi ubezpieczeniowemu wyrażenie opinii.
 
 4. Organ nadzoru niezwłocznie informuje pośrednika ubezpieczeniowego oraz EIOPA o podjęciu uzgodnienia, o którym mowa w ust. 2, a także informuje o dniu, od którego uzgodnienie będzie przez organ nadzoru oraz właściwy organ przyjmującego państwa członkowskiego Unii Europejskiej stosowane.
 
@@ -1147,10 +1227,10 @@ o dystrybucji ubezpiecze ń
 
 6. Organ nadzoru, po otrzymaniu od właściwego organu przyjmującego państwa członkowskiego Unii Europejskiej informacji, że pośrednik ubezpieczeniowy wpisany do rejestru pośredników ubezpieczeniowych, wykonujący działalność agencyjną albo działalność brokerską na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej przez oddział lub w inny sposób niż przez oddział, w ramach swobody świadczenia usług, narusza obowiązujące w tym państwie przepisy prawa:
 
-- **1)** podejmuje działania lub wydaje decyzję zgodne z rozstrzygnięciem EIOPA ‒ w przypadku gdy właściwy organ przyjmującego państwa członkowskiego Unii Europejskiej złożył wniosek do EIOPA o wydanie rozstrzygnięcia zgodnie z art. 19 rozporz ą dzenia 1094/2010;
-- **2)** mo ż e zastosowa ć odpowiednie uprawnienia przysługuj ą ce mu zgodnie z ustaw ą w stosunku do po ś rednika ubezpieczeniowego, aby zapobiec dalszym naruszeniom przepisów prawa obowi ą zuj ą cych w tym pa ń stwie ‒ w przypadkach innych ni ż okre ś lone w pkt 1.
+- **1)** podejmuje działania lub wydaje decyzję zgodne z rozstrzygnięciem EIOPA ‒ w przypadku gdy właściwy organ przyjmującego państwa członkowskiego Unii Europejskiej złożył wniosek do EIOPA o wydanie rozstrzygnięcia zgodnie z art. 19 rozporządzenia 1094/2010;
+- **2)** może zastosować odpowiednie uprawnienia przysługujące mu zgodnie z ustawą w stosunku do pośrednika ubezpieczeniowego, aby zapobiec dalszym naruszeniom przepisów prawa obowiązujących w tym państwie ‒ w przypadkach innych niż określone w pkt 1.
 
-7. W przypadku, o którym mowa w ust. 6 pkt 2, organ nadzoru informuje wła ś ciwy organ przyjmuj ą cego pa ń stwa członkowskiego Unii Europejskiej o zastosowanych uprawnieniach.
+7. W przypadku, o którym mowa w ust. 6 pkt 2, organ nadzoru informuje właściwy organ przyjmującego państwa członkowskiego Unii Europejskiej o zastosowanych uprawnieniach.
 
 **Art. 66.**
 
@@ -1175,11 +1255,11 @@ o dystrybucji ubezpiecze ń
 - **7)** w przypadku korzystania przez zakład ubezpieczeń z usług podmiotów, o których mowa w art. 43 ust. 1 albo art. 47 ust. 1 ‒ sprawdzenie, czy podmioty te wykonują działalność agencyjną na terytorium Rzeczypospolitej Polskiej zgodnie odpowiednio z art. 43 albo art. 47;
 - **8)** spełnianie przez agentów ubezpieczeniowych i agentów oferujących ubezpieczenia uzupełniające wymogu określonego w art. 19 ust. 3 i 4.
 
-3. Organ nadzoru może przeprowadzić kontrolę działalności zakładu ubezpieczeń w zakresie korzystania z usług przedsiębiorców, o których mowa w art. 3.
+3. Organ nadzoru może przeprowadzić kontrolę działalności zakładu ubezpieczeń w zakresie korzystania z usług przedsiębiorców, o których mowa w art. 2.
 
-4. W ramach kontroli, o której mowa w ust. 3, sprawdzeniu podlega zgodność działalności z wymogami określonymi w art. 3.
+4. W ramach kontroli, o której mowa w ust. 3, sprawdzeniu podlega zgodność działalności z wymogami określonymi w art. 2.
 
-5. W przypadku zakładu ubezpieczeń mającego siedzibę w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej, wykonującego działalność ubezpieczeniową na terytorium Rzeczypospolitej Polskiej na podstawie przepisów rozdziału 8 ustawy o działalności ubezpieczeniowej i reasekuracyjnej, na potrzeby kontroli i nadzoru nad działalnością tego zakładu ubezpieczeń w zakresie korzystania z usług agentów ubezpieczeniowych, agentów oferujących ubezpieczenia uzupełniające oraz przedsiębiorców, o których mowa w art. 3, stosuje się odpowiednio przepisy art. 214 oraz art. 333 ust. 4‒8 ustawy o działalności ubezpieczeniowej i reasekuracyjnej.
+5. W przypadku zakładu ubezpieczeń mającego siedzibę w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej, wykonującego działalność ubezpieczeniową na terytorium Rzeczypospolitej Polskiej na podstawie przepisów rozdziału 8 ustawy o działalności ubezpieczeniowej i reasekuracyjnej, na potrzeby kontroli i nadzoru nad działalnością tego zakładu ubezpieczeń w zakresie korzystania z usług agentów ubezpieczeniowych, agentów oferujących ubezpieczenia uzupełniające oraz przedsiębiorców, o których mowa w art. 2, stosuje się odpowiednio przepisy art. 214 oraz art. 333 ust. 4‒8 ustawy o działalności ubezpieczeniowej i reasekuracyjnej.
 
 **Art. 69.**
 
@@ -1187,11 +1267,11 @@ o dystrybucji ubezpiecze ń
 
 2. W ramach kontroli, o której mowa w ust. 1, badaniu podlega zgodność działalności z przepisami prawa.
 
-3. Organ nadzoru mo ż e nało ż y ć sankcje, o których mowa w art. 83 ust. 2, w przypadku odmowy poddania si ę kontroli lub utrudniania przeprowadzania czynno ś ci kontrolnych.
+3. Organ nadzoru może nałożyć sankcje, o których mowa w art. 83 ust. 2, w przypadku odmowy poddania się kontroli lub utrudniania przeprowadzania czynności kontrolnych.
 
 **Art. 70.**
 
-1. Organ nadzoru mo ż e przeprowadzi ć kontrol ę działalno ś ci brokera ubezpieczeniowego i brokera reasekuracyjnego.
+1. Organ nadzoru może przeprowadzić kontrolę działalności brokera ubezpieczeniowego i brokera reasekuracyjnego.
 
 2. W ramach kontroli, o której mowa w ust. 1, badaniu podlega zgodność działalności z przepisami prawa oraz stan majątkowy.
 
@@ -1212,6 +1292,10 @@ o dystrybucji ubezpiecze ń
 - **7)** wskazanie daty rozpoczęcia i przewidywanego terminu zakończenia kontroli;
 - **8)** podpis osoby udzielającej upoważnienia z podaniem zajmowanego stanowiska lub sprawowanej funkcji;
 - **9)** pouczenie o prawach i obowiązkach kontrolowanego zakładu ubezpieczeń, agenta ubezpieczeniowego, agenta oferującego ubezpieczenia uzupełniające, brokera ubezpieczeniowego lub brokera reasekuracyjnego, zwanych dalej „podmiotami kontrolowanymi”.
+
+2a. Upoważnienie, o którym mowa w ust. 1, jest udzielane na piśmie utrwalonym w postaci papierowej albo elektronicznej. Upoważnienie udzielane na piśmie utrwalonym w postaci papierowej opatruje się podpisem własnoręcznym. Upoważnienie utrwalone w postaci elektronicznej opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym lub kwalifikowaną pieczęcią elektroniczną organu nadzoru ze wskazaniem w treści pisma osoby opatrującej pismo pieczęcią.
+
+2b. Upoważnienie udzielone na piśmie utrwalonym w postaci elektronicznej doręcza się na adres do doręczeń elektronicznych.
 
 3. Kontrola jest przeprowadzana w siedzibie podmiotu kontrolowanego lub w miejscu wykonywania działalności oraz w godzinach pracy lub w czasie faktycznego wykonywania działalności przez podmiot kontrolowany.
 
@@ -1237,9 +1321,9 @@ o dystrybucji ubezpiecze ń
 
 1. Podmiot kontrolowany zapewnia zespołowi inspekcyjnemu warunki i środki niezbędne do sprawnego przeprowadzenia kontroli.
 
-2. Inspektorzy tworz ą cy zespół inspekcyjny, w zakresie ustalonym w upowa ż nieniu do przeprowadzenia kontroli, maj ą prawo do:
+2. Inspektorzy tworzący zespół inspekcyjny, w zakresie ustalonym w upoważnieniu do przeprowadzenia kontroli, mają prawo do:
 
-- **1)** wst ę pu do wszystkich pomieszcze ń podmiotu kontrolowanego;
+- **1)** wstępu do wszystkich pomieszczeń podmiotu kontrolowanego;
 - **2)** swobodnego, w miarę możliwości, dostępu do oddzielnego pomieszczenia biurowego oraz środków łączności;
 - **3)** wglądu do wszystkich dokumentów podmiotu kontrolowanego oraz wymaganych kopii, odpisów i wyciągów z tych dokumentów;
 - **4)** wglądu do danych zawartych w systemach informatycznych oraz wymaganych kopii lub wyciągów z tych danych, w tym również w postaci elektronicznej;
@@ -1267,6 +1351,8 @@ o dystrybucji ubezpiecze ń
 - **7)** wyniki oględzin;
 - **8)** inne materiały będące przedmiotem kontroli, które mogą przyczynić się do stwierdzenia stanu faktycznego w zakresie objętym kontrolą.
 
+2a. Dowody utrwalone w postaci elektronicznej doręcza się na adres do doręczeń elektronicznych.
+
 3. Organ nadzoru przed podpisaniem protokołu, o którym mowa w art. 75 ust. 1, zapewnia podmiotowi kontrolowanemu możliwość zapoznania się z materiałami będącymi dowodami w kontroli, które nie zostały uzyskane w toku jej przeprowadzenia, oraz możliwość ustosunkowania się do tych materiałów.
 
 4. Dowody uzyskane w toku kontroli są przechowywane w sposób uniemożliwiający dostęp do nich bez zgody inspektora kierującego zespołem inspekcyjnym. Ograniczenie to nie dotyczy inspektorów wchodzących w skład zespołu inspekcyjnego.
@@ -1279,12 +1365,12 @@ o dystrybucji ubezpiecze ń
 
 **Art. 75.**
 
-1. Z przeprowadzonej kontroli sporz ą dza si ę protokół kontroli.
+1. Z przeprowadzonej kontroli sporządza się protokół kontroli na piśmie utrwalonym w postaci papierowej albo elektronicznej.
 
 2. Protokół kontroli zawiera:
 
-- **1)** nazw ę i siedzib ę podmiotu kontrolowanego;
-- **2)** dat ę i numer upowa ż nienia do przeprowadzenia kontroli oraz jego zmiany;
+- **1)** nazwę i siedzibę podmiotu kontrolowanego;
+- **2)** datę i numer upoważnienia do przeprowadzenia kontroli oraz jego zmiany;
 - **3)** miejsce i datę przeprowadzenia czynności kontrolnych;
 - **4)** w przypadku kontroli zakładu ubezpieczeń ‒ wskazanie jednostek organizacyjnych objętych kontrolą;
 - **5)** imiona i nazwiska inspektorów przeprowadzających kontrolę;
@@ -1295,31 +1381,41 @@ o dystrybucji ubezpiecze ń
 - **10)** wykaz załączników;
 - **11)** miejsce i datę sporządzenia protokołu.
 
-3. Protokół kontroli sporządza się w dwóch egzemplarzach, z których jeden egzemplarz inspektor kierujący zespołem inspekcyjnym lub w jego zastępstwie inny inspektor wchodzący w skład zespołu inspekcyjnego przeprowadzającego kontrolę doręcza brokerowi ubezpieczeniowemu, brokerowi reasekuracyjnemu, agentowi ubezpieczeniowemu lub agentowi oferującemu ubezpieczenia uzupełniające albo przekazuje zakładowi ubezpieczeń.
+3. Protokół kontroli w postaci papierowej sporządza się w dwóch egzemplarzach i opatruje się podpisem własnoręcznym inspektora kierującego zespołem inspekcyjnym przeprowadzającego kontrolę. Protokół kontroli utrwalony w postaci elektronicznej opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym inspektora kierującego zespołem inspekcyjnym lub kwalifikowaną pieczęcią elektroniczną organu nadzoru ze wskazaniem w treści pisma osoby opatrującej pismo pieczęcią.
 
-4. Przed doręczeniem lub przekazaniem protokołu kontroli podmiotowi kontrolowanemu inspektor kierujący zespołem inspekcyjnym podpisuje oba egzemplarze protokołu kontroli.
+4. Protokół kontroli utrwalony w postaci elektronicznej albo jeden z dwóch egzemplarzy protokołu sporządzonego w postaci papierowej inspektor kierujący zespołem inspekcyjnym lub w jego zastępstwie inny inspektor wchodzący w skład zespołu przeprowadzającego kontrolę doręcza brokerowi ubezpieczeniowemu, brokerowi reasekuracyjnemu, agentowi ubezpieczeniowemu lub agentowi oferującemu ubezpieczenia uzupełniające albo przekazuje zakładowi ubezpieczeń.
 
-5. Do doręczenia protokołu kontroli działalności brokerskiej w zakresie ubezpieczeń lub w zakresie reasekuracji oraz działalności agencyjnej stosuje się odpowiednio przepisy ustawy z dnia 14 czerwca 1960 r. ‒ Kodeks postępowania administracyjnego (Dz. U. z 2017 r. poz. 1257) dotyczące doręczeń.
+4a. Protokół kontroli utrwalony w postaci elektronicznej doręcza się na adres do doręczeń elektronicznych.
+
+5. Do doręczenia protokołu kontroli działalności brokerskiej w zakresie ubezpieczeń lub w zakresie reasekuracji oraz działalności agencyjnej stosuje się odpowiednio przepisy ustawy z dnia 14 czerwca 1960 r. ‒ Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572 oraz z 2025 r. poz. 769) dotyczące doręczeń.
 
 6. Osoba upoważniona przez zakład ubezpieczeń potwierdza odbiór protokołu kontroli na jednym egzemplarzu protokołu podpisanym przez inspektora kierującego zespołem inspekcyjnym. Osoby te parafują każdą stronę protokołu.
 
 7. Jeżeli zakład ubezpieczeń odmawia odebrania protokołu kontroli lub uchyla się od jego odebrania, organ nadzoru wzywa ten zakład na piśmie do odebrania protokołu kontroli, wyznaczając termin do dokonania tej czynności nie krótszy niż 7 dni. W przypadku bezskutecznego upływu wyznaczonego terminu protokół kontroli uważa się za doręczony z dniem upływu tego terminu.
 
+8. Potwierdzeniem odebrania protokołu kontroli utrwalonego w postaci elektronicznej jest dowód otrzymania, o którym mowa w art. 41 ust. 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych.
+
+9. Do protokołu kontroli utrwalonego w postaci elektronicznej przepisów ust. 6 i 7 nie stosuje się.
+
 **Art. 76.**
 
 1. Po podpisaniu protokołu kontroli nie dokonuje się w nim poprawek ani dopisków.
 
-2. Oczywiste omyłki pisarskie prostuje inspektor kierujący zespołem inspekcyjnym, parafując sprostowania. Organ nadzoru informuje pisemnie podmiot kontrolowany o sprostowaniu oczywistych omyłek pisarskich.
+2. Oczywiste omyłki pisarskie prostuje inspektor kierujący zespołem inspekcyjnym parafując sprostowania, a w przypadku protokołu kontroli utrwalonego w postaci elektronicznej ponownie opatrując ten protokół kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym lub kwalifikowaną pieczęcią elektroniczną organu nadzoru ze wskazaniem w treści pisma osoby opatrującej pismo pieczęcią. Organ nadzoru informuje na piśmie utrwalonym w postaci papierowej albo elektronicznej podmiot kontrolowany o sprostowaniu oczywistych omyłek pisarskich.
+
+3. Informację o sprostowaniu oczywistych omyłek pisarskich, o której mowa w ust. 2, na piśmie utrwalonym w postaci elektronicznej opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym lub kwalifikowaną pieczęcią elektroniczną organu nadzoru ze wskazaniem w treści pisma osoby opatrującej pismo pieczęcią i doręcza się na adres do doręczeń elektronicznych.
 
 **Art. 77.**
 
-1. W terminie 14 dni od dnia doręczenia lub przekazania protokołu kontroli podmiot kontrolowany może zgłosić organowi nadzoru pisemne zastrzeżenia i uwagi do treści protokołu oraz wyjaśnienia w sprawach objętych zakresem kontroli.
+1. W terminie 14 dni od dnia doręczenia lub przekazania protokołu kontroli podmiot kontrolowany może zgłosić organowi nadzoru na piśmie utrwalonym w postaci papierowej albo elektronicznej zastrzeżenia i uwagi do treści protokołu oraz wyjaśnienia w sprawach objętych zakresem kontroli.
 
-2. O sposobie rozpatrzenia zastrzeżeń organ nadzoru informuje podmiot kontrolowany w terminie 14 dni od dnia ich doręczenia.
+2. O sposobie rozpatrzenia zastrzeżeń organ nadzoru informuje na piśmie utrwalonym w postaci papierowej albo elektronicznej podmiot kontrolowany w terminie 14 dni od dnia ich doręczenia.
+
+2a. Przepisy art. 71 ust. 2a i 2b stosuje się odpowiednio.
 
 3. Informacje o sposobie rozpatrzenia zastrzeżeń dołącza się do protokołu kontroli.
 
-**Art. 78.** Do kontroli działalności gospodarczej przedsiębiorcy stosuje się przepisy rozdziału 5 ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej.
+**Art. 78.** Do kontroli działalności gospodarczej przedsiębiorcy stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
 
 **Art. 79.**
 
@@ -1327,7 +1423,15 @@ o dystrybucji ubezpiecze ń
 
 2. Informacje, o których mowa w ust. 1, podlegają aktualizacji.
 
-**Art. 80.** Organ nadzoru może żądać wyjaśnień i informacji od:
+**Art. 80.**
+
+1. Organ nadzoru może żądać wyjaśnień i informacji od:
+
+- **1)** zakładu ubezpieczeń ‒ dotyczących działalności agencyjnej agentów ubezpieczeniowych i agentów oferujących ubezpieczenia uzupełniające, a także działalności w zakresie dystrybucji ubezpieczeń przedsiębiorców, o których mowa w art. 2, wykonujących czynności na rzecz lub w imieniu danego zakładu ubezpieczeń;
+- **2)** agenta ubezpieczeniowego i agenta oferującego ubezpieczenia uzupełniające ‒ dotyczących ich działalności agencyjnej;
+- **3)** brokera ubezpieczeniowego i brokera reasekuracyjnego ‒ dotyczących ich działalności brokerskiej w zakresie ubezpieczeń lub reasekuracji i gospodarki finansowej.
+
+2. Żądanie, o którym mowa w ust. 1, sporządza się na piśmie utrwalonym w postaci papierowej albo elektronicznej. Przepisy art. 71 ust. 2a i 2b stosuje się odpowiednio.
 
 **Art. 81.**
 
@@ -1346,20 +1450,20 @@ o dystrybucji ubezpiecze ń
 - **1)** nie składa w terminie wniosku o wpisanie do rejestru agentów podmiotu, z którym zawarł umowę agencyjną,
 - **2)** nie zgłasza w terminie wniosku o dokonanie zmiany wpisu w rejestrze agentów,
 - **3)** nie występuje w terminie do organu nadzoru z wnioskiem o wykreślenie z rejestru agentów przedsiębiorcy, z którym rozwiązał umowę agencyjną,
-- **4)** odmawia udzielenia wyjaśnień i informacji, o których mowa w art. 80 pkt 1,
-- **5)** narusza zakaz, o którym mowa w art. 82 organ nadzoru może, w drodze decyzji, nałożyć na ten zakład ubezpieczeń karę pieniężną do wysokości 0,5% składki przypisanej brutto wykazanej przez zakład ubezpieczeń w ostatnim przedstawionym organowi nadzoru sprawozdaniu finansowym, o którym mowa w art. 280 ustawy o działalności ubezpieczeniowej i reasekuracyjnej, a w przypadku gdy zakład ten nie wykonywał działalności lub uzyskał składkę przypisaną brutto poniżej 20 mln złotych do wysokości 100 000 złotych.
+- **4)** odmawia udzielenia wyjaśnień i informacji, o których mowa w art. 80 ust. 1 pkt 1,
+- **5)** narusza zakaz, o którym mowa w art. 82 – organ nadzoru może, w drodze decyzji, nałożyć na ten zakład ubezpieczeń karę pieniężną do wysokości 0,5 % składki przypisanej brutto wykazanej przez zakład ubezpieczeń w ostatnim przedstawionym organowi nadzoru sprawozdaniu finansowym, o którym mowa w art. 280 ustawy o działalności ubezpieczeniowej i reasekuracyjnej, a w przypadku gdy zakład ten nie wykonywał działalności lub uzyskał składkę przypisaną brutto poniżej 20 mln złotych – do wysokości 100 000 złotych.
 
-2. W razie odmowy udzielenia wyjaśnień lub informacji, o których mowa w art. 80 pkt 2, organ nadzoru może nałożyć, w drodze decyzji na:
+2. W razie odmowy udzielenia wyjaśnień lub informacji, o których mowa w art. 80 ust. 1 pkt 2, organ nadzoru może nałożyć, w drodze decyzji na:
 
 - **1)** członka zarządu lub prokurenta agenta ubezpieczeniowego lub agenta oferującego ubezpieczenia uzupełniające będących osobami prawnymi, a w przypadku agenta będącego spółką nieposiadającą osobowości prawnej, na członka zarządu wspólnika takiej spółki będącego osobą prawną ‒ karę pieniężną do wysokości dziesięciokrotności ostatnio ogłoszonego przez Prezesa Głównego Urzędu Statystycznego przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw;
 - **2)** agenta ubezpieczeniowego lub agenta oferującego ubezpieczenia uzupełniające będących osobami prawnymi ‒ karę pieniężną do wysokości trzykrotności prowizji uzyskanej za ostatnie 3 miesiące przed nałożeniem kary, a w przypadku gdy agent ubezpieczeniowy lub agent oferujący ubezpieczenia uzupełniające nie uzyskali prowizji lub nie przekazali informacji o wysokości uzyskanej prowizji ‒ do wysokości 100 000 złotych;
 - **3)** agenta ubezpieczeniowego lub agenta oferującego ubezpieczenia uzupełniające będących osobami fizycznymi, a w przypadku agenta będącego spółką nieposiadającą osobowości prawnej na wspólnika takiej spółki będącego osobą fizyczną ‒ karę pieniężną do wysokości dziesięciokrotności ostatnio ogłoszonego przez Prezesa Głównego Urzędu Statystycznego przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw.
 
-3. W razie odmowy udzielenia wyjaśnień i informacji, o których mowa w art. 80 pkt 3, organ nadzoru może nałożyć, w drodze decyzji na:
+3. W razie odmowy udzielenia wyjaśnień i informacji, o których mowa w art. 80 ust. 1 pkt 3, organ nadzoru może nałożyć, w drodze decyzji na:
 
 - **1)** członka zarządu lub prokurenta brokera ubezpieczeniowego lub brokera reasekuracyjnego będących osobami prawnymi ‒ karę pieniężną do wysokości dziesięciokrotności ostatnio ogłoszonego przez Prezesa Głównego Urzędu Statystycznego przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw;
-- **2)** brokera ubezpieczeniowego lub brokera reasekuracyjnego będących osobami prawnymi ‒ karę pieniężną do wysokości trzykrotno ś ci prowizji uzyskanej za ostatnie 3 miesi ą ce przed nało ż eniem kary, a w przypadku gdy broker ubezpieczeniowy lub broker reasekuracyjny nie uzyskali prowizji lub nie przekazali informacji o wysoko ś ci uzyskanej prowizji ‒ do wysoko ś ci 100 000 złotych;
-- **3)** brokera ubezpieczeniowego lub brokera reasekuracyjnego b ę d ą cych osobami fizycznymi ‒ kar ę pieni ęż n ą do wysoko ś ci dziesi ę ciokrotno ś ci ostatnio ogłoszonego przez Prezesa Głównego Urz ę du Statystycznego przeci ę tnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw.
+- **2)** brokera ubezpieczeniowego lub brokera reasekuracyjnego będących osobami prawnymi ‒ karę pieniężną do wysokości trzykrotności prowizji uzyskanej za ostatnie 3 miesiące przed nałożeniem kary, a w przypadku gdy broker ubezpieczeniowy lub broker reasekuracyjny nie uzyskali prowizji lub nie przekazali informacji o wysokości uzyskanej prowizji ‒ do wysokości 100 000 złotych;
+- **3)** brokera ubezpieczeniowego lub brokera reasekuracyjnego będących osobami fizycznymi ‒ karę pieniężną do wysokości dziesięciokrotności ostatnio ogłoszonego przez Prezesa Głównego Urzędu Statystycznego przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw.
 
 4. Kary, o których mowa w ust. 3, organ nadzoru może zastosować także w przypadku stwierdzenia naruszenia przez brokera ubezpieczeniowego lub brokera reasekuracyjnego innych przepisów ustawy.
 
@@ -1372,7 +1476,7 @@ o dystrybucji ubezpiecze ń
 - **3)** zawiesić na okres nieprzekraczający 6 miesięcy w czynnościach członka zarządu dystrybutora ubezpieczeń lub dystrybutora reasekuracji będących osobami prawnymi, odpowiedzialnego za dokonanie naruszenia przepisów prawa;
 - **4)** nałożyć na dystrybutora ubezpieczeń lub dystrybutora reasekuracji będących osobami prawnymi karę pieniężną w wysokości nieprzekraczającej:
     - **a)** 21 827 500 złotych lub
-    - **b)** 5% rocznych przychodów netto ze sprzedaży towarów i usług oraz z operacji finansowych albo ‒ w przypadku zakładu ubezpieczeń lub zakładu reasekuracji ‒ 5% składki przypisanej brutto, wykazanych w ostatnim sprawozdaniu finansowym za rok obrotowy, zatwierdzonym przez organ zatwierdzający dystrybutora ubezpieczeń lub dystrybutora reasekuracji, lub
+    - **b)** 5 % rocznych przychodów netto ze sprzedaży towarów i usług oraz z operacji finansowych albo ‒ w przypadku zakładu ubezpieczeń lub zakładu reasekuracji ‒ 5 % składki przypisanej brutto, wykazanych w ostatnim sprawozdaniu finansowym za rok obrotowy, zatwierdzonym przez organ zatwierdzający dystrybutora ubezpieczeń lub dystrybutora reasekuracji, lub
     - **c)** dwukrotności kwoty uzyskanych korzyści lub unikniętych strat w wyniku naruszenia, jeżeli możliwe jest ich ustalenie;
 
 - **5)** nałożyć na dystrybutora ubezpieczeń lub dystrybutora reasekuracji będących osobami fizycznymi karę pieniężną w wysokości nieprzekraczającej:
@@ -1386,15 +1490,17 @@ o dystrybucji ubezpiecze ń
 - **1)** nakazać zaprzestanie naruszania przepisów prawa oraz powstrzymanie się od ponownego jego naruszania;
 - **2)** cofnąć zezwolenie na wykonywanie działalności brokerskiej podmiotowi wykonującemu tę działalność, dokonującemu naruszenia przepisów prawa, lub wykreślić z rejestru agentów agenta ubezpieczeniowego lub agenta oferującego ubezpieczenia uzupełniające dokonujących naruszenia przepisów prawa.
 
-3. Przed wydaniem decyzji, o której mowa w ust. 1 i 2, organ nadzoru może wydawać zalecenia w stosunku do dystrybutora ubezpieczeń lub dystrybutora reasekuracji.
+3. Przed wydaniem decyzji, o której mowa w ust. 1 i 2, organ nadzoru może wydawać na piśmie utrwalonym w postaci papierowej albo elektronicznej zalecenia w stosunku do dystrybutora ubezpieczeń lub dystrybutora reasekuracji.
+
+3a. Przepisy art. 71 ust. 2a i 2b stosuje się odpowiednio.
 
 4. Zawieszenie w czynnościach, o którym mowa w ust. 1 pkt 3, polega na wyłączeniu z podejmowania decyzji za dystrybutora ubezpieczeń lub dystrybutora reasekuracji, w tym w zakresie jego praw i obowiązków majątkowych.
 
-5. W przypadku gdy dystrybutor ubezpieczeń lub dystrybutor reasekuracji, o którym mowa w ust. 1 pkt 4, jest jednostką dominującą albo jednostką zależną jednostki dominującej, która ma obowiązek sporządzać skonsolidowane sprawozdania finansowe zgodnie z ustawą z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2017 r. poz. 2342 i 2201), karę pieni ęż n ą , o której mowa w ust. 1 pkt 4 lit. b, ustala si ę na podstawie przychodów netto ze sprzeda ż y towarów i usług oraz z operacji finansowych albo ‒ w przypadku zakładu ubezpiecze ń lub zakładu reasekuracji ‒ składki przypisanej brutto, wykazanych w ostatnim rocznym skonsolidowanym sprawozdaniu finansowym, zatwierdzonym przez organ zatwierdzaj ą cy jednostki dominuj ą cej.
+5. W przypadku gdy dystrybutor ubezpieczeń lub dystrybutor reasekuracji, o którym mowa w ust. 1 pkt 4, jest jednostką dominującą albo jednostką zależną jednostki dominującej, która ma obowiązek sporządzać skonsolidowane sprawozdania finansowe zgodnie z ustawą z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, z późn. zm. ), karę pieniężną, o której mowa w ust. 1 pkt 4 lit. b, ustala się na podstawie przychodów netto ze sprzedaży towarów i usług oraz z operacji finansowych albo ‒ w przypadku zakładu ubezpieczeń lub zakładu reasekuracji ‒ składki przypisanej brutto, wykazanych w ostatnim rocznym skonsolidowanym sprawozdaniu finansowym, zatwierdzonym przez organ zatwierdzający jednostki dominującej.
 
 **Art. 85.** Organ nadzoru, wydając decyzję w przedmiocie nałożenia na zakład ubezpieczeń, zakład reasekuracji lub na pośrednika ubezpieczeniowego środka, o którym mowa w art. 83 lub art. 84 ust. 1 lub 2, przy wyborze rodzaju i wysokości środka bierze pod uwagę istotne okoliczności, w tym:
 
-**Art. 86.** Wpływy z tytułu kar pieniężnych, o których mowa w art. 83 i art. 84 ust. 1 pkt 4 i 5, stanowią dochód budżetu państwa.
+**Art. 86.** (uchylony)
 
 **Art. 87.**
 
@@ -1404,7 +1510,7 @@ o dystrybucji ubezpiecze ń
 
 - **1)** dane dotyczące ukaranego podmiotu;
 - **2)** wskazanie rodzaju nieprawidłowości;
-- **3)** określenie rodzaju zastosowanego środka, a w przypadku kary pieniężnej także jej wysokość.
+- **3)** określenie rodzaju zastosowanego środka, a w przypadku kary pieniężnej – także jej wysokość.
 
 3. Informacja, o której mowa w ust. 1, nie może zawierać danych dotyczących osób fizycznych, obejmujących numer PESEL, numer paszportu, numer dowodu osobistego lub innego dokumentu potwierdzającego tożsamość, a także informacji o miejscu zamieszkania.
 
@@ -1416,6 +1522,14 @@ o dystrybucji ubezpiecze ń
 
 **Art. 88.** Organ nadzoru corocznie informuje EIOPA o zastosowanych w danym roku środkach, o których mowa w art. 82, art. 83 ust. 1‒3 i art. 84 ust. 1 i 2.
 
+**Art. 88a.**
+
+1. Członkowie organu nadzoru, pracownicy Urzędu Komisji Nadzoru Finansowego, osoby wykonujące pracę w tym Urzędzie na podstawie umowy o dzieło, umowy zlecenia albo innych umów cywilnoprawnych, osoby posiadające od organu nadzoru umocowanie do wykonywania obowiązków wynikających z prowadzonego postępowania naprawczego lub likwidacyjnego są obowiązani do nieujawniania osobom nieupoważnionym informacji, z którymi zapoznały się w trakcie wykonywania swoich obowiązków wynikających z ustawy, z wyjątkiem informacji uniemożliwiających rozpoznanie pojedynczego dystrybutora ubezpieczeń.
+
+2. Do przestrzegania tajemnicy, o której mowa w ust. 1, są również obowiązane inne osoby, którym udostępniono informacje objęte tą tajemnicą, chyba że na ich ujawnienie zezwalają przepisy ustawowe.
+
+3. Naruszenia tajemnicy, o której mowa w ust. 1, nie stanowi złożenie zawiadomienia o podejrzeniu popełnienia przestępstwa oraz udzielanie informacji lub przekazywanie dokumentów jako wykonanie obowiązku lub uprawnienia wynikającego z odrębnych przepisów.
+
 #### Rozdział 7 Przepisy karne
 
 **Art. 89.**
@@ -1424,10 +1538,10 @@ o dystrybucji ubezpiecze ń
 
 - **1)** działalność agencyjną z naruszeniem wymogów w zakresie podejmowania tej działalności określonych w ustawie,
 - **2)** czynności agencyjne, nie będąc do tego upoważnionym,
-- **3)** działalno ść brokersk ą w zakresie ubezpiecze ń lub w zakresie reasekuracji bez wymaganego zezwolenia,
-- **4)** czynno ś ci brokerskie w zakresie ubezpiecze ń lub reasekuracji, nie b ę d ą c do tego upowa ż nionym ‒ podlega grzywnie, karze ograniczenia wolno ś ci albo karze pozbawienia wolno ś ci do lat 2.
+- **3)** działalność brokerską w zakresie ubezpieczeń lub w zakresie reasekuracji bez wymaganego zezwolenia,
+- **4)** czynności brokerskie w zakresie ubezpieczeń lub reasekuracji, nie będąc do tego upoważnionym ‒ podlega grzywnie, karze ograniczenia wolności albo karze pozbawienia wolności do lat 2.
 
-2. Tej samej karze podlega, kto dopuszcza si ę czynu okre ś lonego w ust. 1 pkt 1 i 3, działaj ą c w imieniu osoby prawnej.
+2. Tej samej karze podlega, kto dopuszcza się czynu określonego w ust. 1 pkt 1 i 3, działając w imieniu osoby prawnej.
 
 **Art. 90.**
 
@@ -1437,212 +1551,19 @@ o dystrybucji ubezpiecze ń
 
 #### Rozdział 8 Zmiany w przepisach
 
-**Art. 91.** W ustawie z dnia 22 maja 2003 r. o nadzorze ubezpieczeniowym i emerytalnym (Dz. U. z 2016 r. poz. 477) w art. 17 ust. 3 otrzymuje brzmienie: „3. Komisja:
-
-**Art. 92.** W ustawie z dnia 22 maja 2003 r. o pośrednictwie ubezpieczeniowym (Dz. U. z 2016 r. poz. 2077 oraz z 2017 r. poz. 60) po art. 6a dodaje się art. 6b i art. 6c w brzmieniu: „Art. 6b. 1. Pośrednik ubezpieczeniowy, wykonując czynności agencyjne albo czynności brokerskie w zakresie umów ubezpieczenia, o których mowa w grupie 3 działu I załącznika do ustawy o działalności ubezpieczeniowej, postępuje uczciwie, rzetelnie i profesjonalnie, zgodnie z najlepiej pojętym interesem osób poszukujących ochrony ubezpieczeniowej lub klientów. 2. Pośrednik ubezpieczeniowy przekazuje informacje w zakresie umów ubezpieczenia, o których mowa w grupie 3 działu I załącznika do ustawy o działalności ubezpieczeniowej, w tym informacje o charakterze reklamowym i marketingowym, poszukującemu ochrony ubezpieczeniowej lub klientowi w sposób jasny, dokładny i zrozumiały. 3. Informacje o charakterze reklamowym lub marketingowym są wyraźnie oznaczone.
-
-**Art. 6c.**
-
-1. Pośrednik ubezpieczeniowy, wykonując czynności agencyjne albo czynności brokerskie w zakresie umów ubezpieczenia, o których mowa w grupie 3 działu I załącznika do ustawy o działalności ubezpieczeniowej, stosuje rozwiązania organizacyjne służące zapobieganiu konfliktom interesów, tak aby nie miały one negatywnego wpływu na interesy klientów.
-
-2. Pośrednik ubezpieczeniowy podejmuje działania w celu identyfikacji konfliktów interesów między nim, w tym członkami jego zarządu, jego prokurentem i pracownikiem albo inną powiązaną z nim osobą, a jego klientami, lub też między jego klientami, powstające w trakcie wykonywania czynności agencyjnych albo czynności brokerskich w zakresie ubezpieczeń, o których mowa w grupie 3 działu I załącznika do ustawy o działalności ubezpieczeniowej.
-
-3. Jeżeli rozwiązania organizacyjne, o których mowa w ust. 1, nie są wystarczające, aby zapewnić uniknięcie ryzyka naruszenia interesów klienta, pośrednik ubezpieczeniowy przed zawarciem umowy ubezpieczenia ujawnia poszukującemu ochrony ubezpieczeniowej lub klientowi ogólny charakter lub źródła konfliktów interesów, w tym informuje poszukującego ochrony ubezpieczeniowej lub klienta, czy uzyskiwana prowizja z tytułu umowy ubezpieczenia jest uzależniona od wolumenu zawartych umów ubezpieczenia.”.
-
-**Art. 93.** W ustawie z dnia 2 lipca 2004 r. o swobodzie działalno ś ci gospodarczej (Dz. U. z 2017 r. poz. 2168 i 2290) w art. 75 w ust. 1 pkt 23 otrzymuje brzmienie: „23) ustawy z dnia 15 grudnia 2017 r. o dystrybucji ubezpiecze ń (Dz. U. poz. 2486);”.
-
-**Art. 94.** W ustawie z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2017 r. poz. 1768) wprowadza się następujące zmiany:
-
-**Art. 131a.**
-
-1. Świadczenie usług w zakresie udostępniania informacji o transakcjach wymaga zezwolenia Komisji wydanego na wniosek zainteresowanego podmiotu.
-
-2. Zezwolenie, o którym mowa w ust. 1, może być udzielone na prowadzenie działalności jako:
-
-- **1)** zatwierdzony podmiot publikujący;
-- **2)** dostawca informacji skonsolidowanych;
-- **3)** zatwierdzony mechanizm sprawozdawczy.
-
-3. Działalność, o której mowa w ust. 1, może być prowadzona, z zastrzeżeniem art. 69f ust. 1, wyłącznie w formie spółki akcyjnej albo spółki z ograniczoną odpowiedzialnością.
-
-**Art. 131b.** Wniosek o udzielenie zezwolenia na świadczenie usług w zakresie udostępniania informacji o transakcjach zawiera:
-
-**Art. 131c.**
-
-1. Komisja wydaje zezwolenie na wykonywanie działalności, o której mowa w art. 131a ust. 2, zawierające:
-
-- **1)** firmę, siedzibę oraz adres podmiotu świadczącego usługi w zakresie udostępniania informacji o transakcjach;
-- **2)** wskazanie zakresu działalności, na której wykonywanie zostało udzielone zezwolenie.
-
-2. Komisja przekazuje informację o udzielonym zezwoleniu Europejskiemu Urzędowi Nadzoru Giełd i Papierów Wartościowych.
-
-3. Zezwolenie, o którym mowa w ust. 1, uprawnia podmiot świadczący usługi w zakresie udostępniania informacji o transakcjach do prowadzenia działalności na terytorium wszystkich innych państw członkowskich, w zakresie obj ę tym zezwoleniem.
-
-4. Podmiot ś wiadcz ą cy usługi w zakresie udost ę pniania informacji o transakcjach na podstawie zezwolenia udzielonego w innym pa ń stwie członkowskim jest uprawniony do prowadzenia tej działalno ś ci na terytorium Rzeczypospolitej Polskiej, w zakresie obj ę tym zezwoleniem.
-
-**Art. 131d.** Komisja odmawia udzielenia zezwolenia na wykonywanie działalności, o której mowa w art. 131a ust. 2, w przypadku gdy:
-
-**Art. 131e.**
-
-1. Komisja prowadzi rejestr podmiotów świadczących usługi w zakresie udostępniania informacji o transakcjach zawierający wskazanie firm (nazw), adresów siedziby oraz zakresu czynności, które poszczególne podmioty wykonują na terytorium Rzeczypospolitej Polskiej w ramach posiadanego zezwolenia.
-
-2. Rejestr, o którym mowa w ust. 1, zawiera również informację o cofnięciu zezwolenia na świadczenie usług w zakresie udostępniania informacji o transakcjach. Informacja o cofnięciu zezwolenia jest zamieszczana w rejestrze na okres 5 lat od dnia cofnięcia zezwolenia.
-
-3. Rejestr, o którym mowa w ust. 1, jest jawny. Komisja udostępnia rejestr na swojej stronie internetowej.
-
-**Art. 131f.**
-
-1. Członkowie zarządu i rady nadzorczej podmiotów świadczących usługi w zakresie udostępniania informacji o transakcjach posiadają wiedzę, umiejętności i doświadczenie, odpowiednie do pełnionych przez nich funkcji i powierzonych im obowiązków.
-
-2. Członkowie zarządu i rady nadzorczej podmiotów świadczących usługi w zakresie udostępniania informacji o transakcjach pełnią swoje funkcje w sposób uczciwy i rzetelny oraz kierują się niezależnością osądu, aby zapewnić skuteczną ocenę i weryfikację podejmowania i wykonania decyzji związanych z bieżącym zarządzaniem.
-
-3. Podmiot świadczący usługi w zakresie udostępniania informacji o transakcjach niezwłocznie informuje Komisję o wszelkich zmianach w składzie zarządu lub rady nadzorczej.
-
-4. Członkowie zarządu i rady nadzorczej podmiotów świadczących usługi w zakresie udostępniania informacji o transakcjach zapewniają skuteczne i ostrożne zarządzanie podmiotem, w tym właściwy i przejrzysty podział zadań, obowiązków i odpowiedzialności, a także prawidłowe funkcjonowanie rozwiązań zapobiegających konfliktom interesów.
-
-5. Minister właściwy do spraw instytucji finansowych może określić, w drodze rozporządzenia, szczegółowe kryteria w zakresie spełniania przez członków zarządu i rady nadzorczej podmiotu świadczącego usługi w zakresie udostępniania informacji o transakcjach wymogów, o których mowa w ust. 1 i 2, uwzględniając konieczność skutecznego i ostrożnego zarządzania podmiotem.
-
-**Art. 131g.**
-
-1. Zatwierdzony podmiot publikujący udostępnia informacje wymagane na podstawie art. 20 i art. 21 rozporządzenia 600/2014 w czasie jak najbardziej zbliżonym do rzeczywistego.
-
-2. Informacje, o których mowa w ust. 1, są podawane do publicznej wiadomości bezpłatnie, po 15 minutach od ich udostępnienia.
-
-3. Informacje są publikowane w formacie określonym w art. 14 rozporządzenia 2017/571.
-
-4. Informacje publikowane przez zatwierdzony podmiot publikujący zawierają w szczególności:
-
-- **1)** dane identyfikujące instrument finansowy lub kod ISIN;
-- **2)** cenę, po jakiej zawarto transakcję;
-- **3)** wolumen transakcji;
-- **4)** godzinę zawarcia transakcji;
-- **5)** godzinę zgłoszenia transakcji;
-- **6)** oznaczenie waluty, w której rozliczana jest transakcja;
-- **7)** kod systemu obrotu, w którym zawarto transakcj ę , a w przypadku gdy transakcj ę zawarto za po ś rednictwem podmiotu systematycznie internalizuj ą cego oznaczenie „SI”; w pozostałych przypadkach stosuje si ę oznaczenie „OTC”;
-- **8)** wskazanie, czy transakcja podlegała szczególnym warunkom.
-
-5. Zatwierdzony podmiot publikuj ą cy stosuje i utrzymuje skuteczne rozwi ą zania maj ą ce na celu zapobieganie konfliktom interesów, zgodnie z art. 5 rozporządzenia 2017/571.
-
-6. Zatwierdzony podmiot publikujący stosuje mechanizmy bezpieczeństwa służące zapewnieniu bezpieczeństwa środków przekazu informacji, minimalizowaniu ryzyka uszkodzenia danych i nieuprawnionego dostępu oraz zapobieganiu wyciekowi informacji przed ich publikacją.
-
-7. Zatwierdzony podmiot publikujący wykorzystuje systemy i instrumenty, które zapewniają ciągłość i regularność usług, zgodnie z art. 7 rozporządzenia 2017/571.
-
-8. Zatwierdzony podmiot publikujący stosuje systemy umożliwiające skuteczną kontrolę sprawozdań z transakcji pod kątem kompletności, wykrywania przeoczeń i oczywistych błędów, a w przypadku błędnego sprawozdania możliwość ponownego przesłania sprawozdań, w których stwierdzono błędy, zgodnie z rozporządzeniem 2017/571.
-
-**Art. 131h.**
-
-1. Dostawca informacji skonsolidowanych gromadzi, konsoliduje i udostępnia w czasie jak najbardziej zbliżonym do rzeczywistego informacje upubliczniane:
-
-- **1)** zgodnie z art. 6 i art. 20 rozporządzenia 600/2014;
-- **2)** zgodnie z art. 10 i art. 21 rozporządzenia 600/2014.
-
-2. Dostawca informacji skonsolidowanych posiadający zezwolenie, o którym mowa w art. 131a ust. 2 pkt 2, może świadczyć usługi dodatkowe, o których mowa w art. 13 rozporządzenia 2017/571.
-
-3. Informacje, o których mowa w ust. 1, są podawane do publicznej wiadomości bezpłatnie po 15 minutach od ich udostępnienia.
-
-4. W przypadku, o którym mowa w ust. 1 pkt 2, informacje publikowane przez dostawcę informacji skonsolidowanych zawierają, z uwzględnieniem art. 15 i art. 20 rozporządzenia 2017/571:
-
-- **1)** dane identyfikujące instrument finansowy lub kod ISIN;
-- **2)** cenę, po jakiej zawarto transakcję;
-- **3)** wolumen transakcji;
-- **4)** godzinę zawarcia transakcji;
-- **5)** godzinę zgłoszenia transakcji;
-- **6)** oznaczenie waluty, w której rozliczana jest transakcja;
-- **7)** kod systemu obrotu, w którym zawarto transakcję, a w przypadku gdy transakcję zawarto za pośrednictwem podmiotu systematycznie internalizującego oznaczenie „SI”; w pozostałych przypadkach stosuje się oznaczenie „OTC”;
-- **8)** wskazanie, czy transakcja podlegała szczególnym warunkom.
-
-5. W przypadku, o którym mowa w ust. 1 pkt 1, informacje publikowane przez dostawcę informacji skonsolidowanych zawierają informacje, o których mowa w ust. 4, a ponadto:
-
-- **1)** informację, że decyzja inwestycyjna i zawarcie transakcji nastąpiło przy użyciu algorytmu komputerowego w firmie inwestycyjnej;
-- **2)** w przypadku gdy zgodnie z art. 4 ust. 1 lit. a lub b rozporządzenia 600/2014 uchylono obowiązek publikowania informacji, o których mowa w art. 3 ust. 1 tego rozporządzenia oznaczenie, który z tych uchylonych obowiązków dotyczył transakcji.
-
-**Art. 131i.**
-
-1. Dostawca informacji skonsolidowanych zapewnia udostępnianie skonsolidowanych danych pochodzących ze wszystkich rynków regulowanych, alternatywnych systemów obrotu, zorganizowanych platform obrotu i zatwierdzonych podmiotów publikujących w zakresie wynikającym z art. 131g ust. 1, w odniesieniu do instrumentów finansowych, o których mowa w rozporządzeniu 2017/571.
-
-2. Dostawca informacji skonsolidowanych stosuje i utrzymuje skuteczne rozwiązania mające na celu zapobieganie konfliktom interesów, zgodnie z wymogami określonymi w art. 5 rozporządzenia 2017/571.
-
-3. Dostawca informacji skonsolidowanych stosuje mechanizmy bezpieczeństwa służące zagwarantowaniu bezpieczeństwa środków przekazu informacji, minimalizowaniu ryzyka uszkodzenia danych i nieuprawnionego dostępu oraz zapobieganiu nieuprawnionemu ujawnieniu informacji przed ich publikacją. Dostawca informacji skonsolidowanych wykorzystuje systemy i instrumenty, które zapewniają ciągłość i regularność usług, zgodnie z art. 7 rozporządzenia 2017/571.
-
-4. Dostawca informacji skonsolidowanych stosuje systemy umo ż liwiaj ą ce skuteczn ą kontrol ę sprawozda ń z transakcji pod k ą tem kompletno ś ci, wykrywania przeocze ń i oczywistych bł ę dów, a w przypadku bł ę dnego sprawozdania mo ż liwo ść ponownego przesłania sprawozda ń , w których stwierdzono bł ę dy, zgodnie z art. 10 rozporz ą dzenia 2017/571.
-
-5. Dostawca informacji skonsolidowanych rozpowszechnia informacje w sposób zapewniający skuteczny oraz szybki dostęp do tych informacji na zasadach niedyskryminacyjnych, w formatach łatwo dostępnych dla uczestników rynku i pozwalających im na łatwe wykorzystanie tych informacji.
-
-**Art. 131j.**
-
-1. Zatwierdzony mechanizm sprawozdawczy przekazuje Komisji lub innym właściwym organom nadzoru lub Europejskiemu Urzędowi Nadzoru Giełd i Papierów Wartościowych informacje wymagane na podstawie art. 26 rozporządzenia 600/2014 w możliwie najkrótszym terminie, nie później jednak niż do końca dnia roboczego następującego po dniu, w którym miała miejsce transakcja.
-
-2. Zatwierdzony mechanizm sprawozdawczy stosuje i utrzymuje skuteczne rozwiązania mające na celu zapobieganie konfliktom interesów, zgodnie z wymogami określonymi w art. 5 rozporządzenia 2017/571.
-
-3. Zatwierdzony mechanizm sprawozdawczy stosuje mechanizmy bezpieczeństwa służące zagwarantowaniu bezpieczeństwa środków przekazu informacji, minimalizowaniu ryzyka uszkodzenia danych i nieuprawnionego dostępu oraz zapobieganiu nieuprawnionemu udostępnieniu informacji, o których mowa w art. 26 rozporządzenia 600/2014. Zatwierdzony mechanizm sprawozdawczy wykorzystuje systemy i instrumenty, które zapewniają ciągłość i regularność usług, zgodnie z art. 9 rozporządzenia 2017/571.
-
-4. Zatwierdzony mechanizm sprawozdawczy stosuje systemy umożliwiające skuteczną kontrolę sprawozdań z transakcji pod kątem kompletności, wykrywanie przeoczeń i oczywistych błędów spowodowanych przez firmę inwestycyjną i umożliwiające, w przypadku wystąpienia takiego błędu lub przeoczenia, przekazywanie firmie inwestycyjnej szczegółowych informacji o danym błędzie lub przeoczeniu, a w przypadku błędnego sprawozdania możliwość ponownego przesłania sprawozdań, w których stwierdzono błędy, zgodnie z art. 11 rozporządzenia 2017/571.
-
-5. Zatwierdzony mechanizm sprawozdawczy stosuje systemy umożliwiające wykrywanie spowodowanych błędów lub przeoczeń oraz korygowanie i ponowne przekazywanie właściwemu organowi prawidłowego i kompletnego sprawozdania z transakcji, zgodnie z art. 11 rozporządzenia 2017/571.
-
-**Art. 131k.**
-
-1. Na żądanie Komisji lub jej upoważnionego przedstawiciela osoby uprawnione do reprezentowania dostawcy usług w zakresie udostępniania informacji o transakcjach lub wchodzące w skład jego statutowych organów albo pozostające z nim w stosunku pracy niezwłocznie sporządzają i przekazują, na koszt dostawcy usług w zakresie udostępniania informacji, kopie dokumentów i innych nośników informacji oraz udzielają pisemnych lub ustnych wyjaśnień.
-
-2. Biegły rewident lub firmy audytorskie badające sprawozdanie finansowe dostawcy usług w zakresie udostępniania informacji o transakcjach niezwłocznie przekazują Komisji oraz organom statutowym dostawcy istotne informacje, w posiadanie których weszli w związku z wykonywanymi czynnościami, dotyczące zdarzeń powodujących:
-
-- **1)** powstanie uzasadnionego podejrzenia naruszenia przepisów prawa regulujących prowadzenie działalności w zakresie udostępniania informacji o transakcjach przez dostawcę usług, członków jej organów statutowych lub pracowników;
-- **2)** powstanie zagrożenia dla dalszej działalności dostawcy usług w zakresie udostępniania informacji o transakcjach;
-- **3)** odmowę wydania opinii dotyczącej sprawozdania finansowego dostawcy usług w zakresie udostępniania informacji o transakcjach, wydanie opinii negatywnej dotyczącej jego sprawozdania finansowego lub wniesienie zastrzeżeń w tej opinii.
-
-3. Biegły rewident lub firma audytorska może odstąpić od powiadomienia organów statutowych dostawcy usług w zakresie udostępniania informacji o transakcjach, o którym mowa w ust. 2, jeżeli przemawiają za tym ważne powody.
-
-4. Wykonanie obowiązku, o którym mowa w ust. 2, nie narusza obowiązku zachowania tajemnicy, o której mowa w art. 78 ustawy z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym.”;
-
-- **8)** w art. 163 dodaje się ust. 11 w brzmieniu: „11. Od zatwierdzonego podmiotu publikującego, dostawcy informacji skonsolidowanych, zatwierdzonego mechanizmu sprawozdawczego z tytułu prowadzenia działalności w zakresie udostępniania informacji o transakcjach, za każdy rodzaj prowadzonej działalności pobiera się opłatę roczną w wysokości równowartości w złotych 500 euro.”;
-- **9)** w art. 165a w ust. 1 pkt 1 otrzymuje brzmienie: „1) nie zło ż yła w terminie 12 miesi ę cy od dnia uzyskania zezwolenia wniosku o wpis platformy aukcyjnej do wykazu, o którym mowa w zał ą czniku III do rozporz ą dzenia 1031/2010, albo nie rozpocz ę ła prowadzenia działalnoś ci obj ę tej zezwoleniem w terminie 12 miesi ę cy od dnia wpisu platformy aukcyjnej do tego wykazu;”;
-- **10)** po art. 167b dodaje się art. 167c w brzmieniu: „Art. 167c. 1. Komisja może cofnąć zezwolenie na świadczenie usług w zakresie udostępniania informacji o transakcjach, w przypadku gdy podmiot świadczący te usługi:
-- **1)** nie rozpoczął prowadzenia działalności objętej zezwoleniem w terminie 12 miesięcy od wydania zezwolenia;
-- **2)** przez okres co najmniej 6 miesięcy nie prowadził działalności objętej zezwoleniem;
-- **3)** otrzymał zezwolenie na podstawie fałszywych oświadczeń lub dokumentów zaświadczających nieprawdę;
-- **4)** przestał spełniać warunki, które były podstawą udzielenia zezwolenia;
-- **5)** istotnie narusza przepisy prawa regulujące świadczenie usług w zakresie udostępniania informacji o transakcjach, w szczególności rozporządzenia 600/2014.
-
-2. W przypadku, o którym mowa w ust. 1 pkt 5, Komisja może również nałożyć na podmiot świadczący usługi w zakresie udostępniania informacji o transakcjach karę pieniężną do wysokości 5 000 000 zł.
-
-3. Komisja, ustalając wysokość kary pieniężnej, o której mowa w ust. 2, uwzględnia w szczególności:
-
-- **1)** wagę naruszenia i czas jego trwania;
-- **2)** stopień przyczynienia się podmiotu świadczącego usługi w zakresie udostępniania informacji o transakcjach do powstania naruszenia;
-- **3)** sytuację finansową podmiotu świadczącego usługi w zakresie udostępniania informacji o transakcjach, na który jest nakładana kara, w szczególności wysokość jego całkowitych obrotów;
-- **4)** kwoty korzyści osiągniętych lub strat unikniętych przez podmiot świadczący usługi w zakresie udostępniania informacji o transakcjach, jeżeli można te korzyści lub straty ustalić;
-- **5)** straty poniesione przez osoby trzecie w związku z naruszeniem, jeżeli można je ustalić;
-- **6)** gotowość podmiotu świadczącego usługi w zakresie udostępniania informacji o transakcjach do współpracy z Komisją podczas wyjaśniania okoliczności naruszenia;
-- **7)** stopień naprawienia szkody wyrządzonej inwestorom wskutek działań podmiotu świadczącego usługi w zakresie udostępniania informacji o transakcjach;
-- **8)** uprzednie naruszenia przepisów prawa regulujących świadczenie usług w zakresie udostępniania informacji o transakcjach popełnione przez podmiot, na który jest nakładana kara.
-
-4. W przypadku gdy jest możliwe ustalenie kwoty korzyści osiągniętej lub straty unikniętej przez podmiot świadczący usługi w zakresie udostępniania informacji o transakcjach w wyniku naruszenia, o którym mowa w ust. 1 pkt 5, zamiast kary, o której mowa w ust. 2, Komisja może nałożyć karę pieniężną w wysokości do dwukrotności kwoty osiągniętej korzyści lub unikniętej straty.”.
-
-**Art. 95.** W ustawie z dnia 29 lipca 2005 r. o nadzorze nad rynkiem kapitałowym (Dz. U. z 2017 r. poz. 1480) wprowadza się następujące zmiany:
-
-**Art. 96.** W ustawie z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. z 2017 r. poz. 196, 724, 791, 819, 1089 i 2102) wprowadza się następujące zmiany:
-
-**Art. 97.** W ustawie z dnia 16 listopada 2006 r. o opłacie skarbowej (Dz. U. z 2016 r. poz. 1827, z późn. zm. ) w części I załącznika ust. 34 i 35 otrzymują brzmienie: 34. Dokonanie wpisu do rejestru agentów 110 zł ubezpieczeniowych i agentów oferujących ubezpieczenia uzupełniające 35. Zmiana wpisu do rejestru agentów zmiana wpisu do rejestru agentów ubezpieczeniowych ubezpieczeniowych i agentów oferują- i agentów oferujących ubezpieczenia uzupełniające cych ubezpieczenia uzupełniające: obejmująca:
-
-**Art. 98.** W ustawie z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z 2017 r. poz. 2065) w art. 3 ust. 1 otrzymuje brzmienie: „1. Celem kas jest gromadzenie środków pieniężnych wyłącznie swoich członków, udzielanie im pożyczek i kredytów, przeprowadzanie na ich zlecenie rozliczeń finansowych oraz wykonywanie dystrybucji ubezpieczeń na zasadach określonych w ustawie z dnia 15 grudnia 2017 r. o dystrybucji ubezpieczeń (Dz. U. poz. 2486).”.
-
-**Art. 99.** W ustawie z dnia 5 sierpnia 2015 r. o rozpatrywaniu reklamacji przez podmioty rynku finansowego i o Rzeczniku Finansowym (Dz. U. z 2017 r. poz. 2270) wprowadza się następujące zmiany:
-
-**Art. 100.** W ustawie z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. z 2017 r. poz. 1170, 1089, 1926 i 2102) wprowadza się następujące zmiany:
-
-#### Rozdział 9 Przepisy epizodyczne, przej ś ciowe i dostosowuj ą ce
+#### Rozdział 9 Przepisy epizodyczne, przejściowe i dostosowujące
 
 **Art. 101.**
 
-1. Zakład ubezpieczeń, w okresie od dnia 3 stycznia 2018 r. do dnia 22 lutego 2018 r., zawierający umowy ubezpieczenia, o których mowa w grupie 3 działu I załącznika do ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej, w inny sposób niż za pośrednictwem pośredników ubezpieczeniowych w rozumieniu ustawy zmienianej w art. 92:
+1. Zakład ubezpieczeń, w okresie od dnia 3 stycznia 2018 r. do dnia 30 września 2018 r., zawierający umowy ubezpieczenia, o których mowa w grupie 3 działu I załącznika do ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej, w inny sposób niż za pośrednictwem pośredników ubezpieczeniowych w rozumieniu ustawy zmienianej w art. 92 :
 
 - **1)** postępuje uczciwie, rzetelnie i profesjonalnie, zgodnie z najlepiej pojętym interesem osób poszukujących ochrony ubezpieczeniowej lub klientów;
 - **2)** przekazuje informacje dotyczące tych umów, w tym informacje o charakterze reklamowym i marketingowym, osobom poszukującym ochrony ubezpieczeniowej lub klientom w sposób jasny, dokładny i zrozumiały, przy czym informacje o charakterze reklamowym lub marketingowym są wyraźnie oznaczone;
 - **3)** stosuje rozwiązania organizacyjne służące zapobieganiu konfliktom interesów, tak aby nie miały one negatywnego wpływu na interesy klientów.
 
-2. W okresie, o którym mowa w ust. 1, zakład ubezpieczeń podejmuje działania w celu identyfikacji konfliktów interesów między nim, w tym członkami jego zarządu, jego prokurentem, pracownikiem, pośrednikiem ubezpieczeniowym albo inną powiązaną z nim osobą, a jego klientami, lub między jego klientami, powstających w trakcie wykonywania czynności związanych z zawarciem, w inny sposób niż za pośrednictwem pośredników ubezpieczeniowych, umów ubezpieczenia, o których mowa w ust. 1. Jeżeli takie rozwiązania organizacyjne nie są wystarczające, aby zapewnić uniknięcie ryzyka naruszenia interesów klienta, zakład ubezpieczeń przed zawarciem umowy ubezpieczenia ujawnia osobom poszukującym ochrony ubezpieczeniowej lub klientom ogólny charakter lub źródła konfliktów interesów, w tym informuje osoby poszukuj ą ce ochrony ubezpieczeniowej lub klientów o tym, czy uzyskiwana prowizja z tytułu umowy ubezpieczenia jest uzale ż niona od wolumenu zawartych umów ubezpieczenia.
+2. W okresie, o którym mowa w ust. 1, zakład ubezpieczeń podejmuje działania w celu identyfikacji konfliktów interesów między nim, w tym członkami jego zarządu, jego prokurentem, pracownikiem, pośrednikiem ubezpieczeniowym albo inną powiązaną z nim osobą, a jego klientami, lub między jego klientami, powstających w trakcie wykonywania czynności związanych z zawarciem, w inny sposób niż za pośrednictwem pośredników ubezpieczeniowych, umów ubezpieczenia, o których mowa w ust. 1. Jeżeli takie rozwiązania organizacyjne nie są wystarczające, aby zapewnić uniknięcie ryzyka naruszenia interesów klienta, zakład ubezpieczeń przed zawarciem umowy ubezpieczenia ujawnia osobom poszukującym ochrony ubezpieczeniowej lub klientom ogólny charakter lub źródła konfliktów interesów, w tym informuje osoby poszukujące ochrony ubezpieczeniowej lub klientów o tym, czy uzyskiwana prowizja z tytułu umowy ubezpieczenia jest uzależniona od wolumenu zawartych umów ubezpieczenia.
 
-**Art. 102.** W przypadku podmiotów, które na podstawie art. 29a ustawy zmienianej w art. 94 uzyskały zezwolenie na prowadzenie platformy aukcyjnej przed dniem wej ś cia w ż ycie niniejszej ustawy, termin na zło ż enie wniosku o wpis do wykazu, o którym mowa w zał ą czniku III do rozporz ą dzenia Komisji (UE) nr 1031/2010 z dnia 12 listopada 2010 r. w sprawie harmonogramu, kwestii administracyjnych oraz pozostałych aspektów sprzeda ż y na aukcji uprawnie ń do emisji gazów cieplarnianych na mocy dyrektywy 2003/87/WE Parlamentu Europejskiego i Rady ustanawiającej system handlu przydziałami emisji gazów cieplarnianych we Wspólnocie (Dz. Urz. UE L 302 z 18.11.2010, str. l, z późn. zm. ), wynosi 36 miesięcy od dnia uzyskania zezwolenia.
+**Art. 102.** W przypadku podmiotów, które na podstawie art. 29a ustawy zmienianej w art. 94 uzyskały zezwolenie na prowadzenie platformy aukcyjnej przed dniem wejścia w życie niniejszej ustawy, termin na złożenie wniosku o wpis do wykazu, o którym mowa w załączniku III do rozporządzenia Komisji (UE) nr 1031/2010 z dnia 12 listopada 2010 r. w sprawie harmonogramu, kwestii administracyjnych oraz pozostałych aspektów sprzedaży na aukcji uprawnień do emisji gazów cieplarnianych na mocy dyrektywy 2003/87/WE Parlamentu Europejskiego i Rady ustanawiającej system handlu przydziałami emisji gazów cieplarnianych we Wspólnocie (Dz. Urz. UE L 302 z 18.11.2010, str. 1, z późn. zm. ), wynosi 36 miesięcy od dnia uzyskania zezwolenia.
 
 **Art. 103.**
 
@@ -1672,7 +1593,7 @@ o dystrybucji ubezpiecze ń
 
 4. Informacje o zapewnieniu pełnej funkcjonalności w zakresie, o którym mowa w ust. 3, organ nadzoru opublikuje na swojej stronie internetowej.
 
-5. Zakłady ubezpieczeń, nie później niż w terminie 3 miesięcy od dnia wejścia w życie ustawy, wystąpią z wnioskiem o wpis do rejestru agentów przedsiębiorców, o których mowa w art. 3 pkt 1, wykonujących w ich imieniu lub na ich rzecz czynności agencyjne. Przedsiębiorcy ci mogą wykonywać działalność w dotychczasowym zakresie do dnia podjęcia ostatecznych rozstrzygnięć w sprawie tych wniosków.
+5. Zakłady ubezpieczeń, nie później niż w terminie 3 miesięcy od dnia wejścia w życie ustawy, wystąpią z wnioskiem o wpis do rejestru agentów przedsiębiorców, o których mowa w art. 3 ust. 1 pkt 1, wykonujących w ich imieniu lub na ich rzecz czynności agencyjne. Przedsiębiorcy ci mogą wykonywać działalność w dotychczasowym zakresie do dnia podjęcia ostatecznych rozstrzygnięć w sprawie tych wniosków.
 
 6. Przepis art. 52 ust. 8 w zakresie dotyczącym danych, o których mowa w art. 59 ust. 3 pkt 1, stosuje się do egzaminów przeprowadzonych przez Komisję Egzaminacyjną dla Brokerów Ubezpieczeniowych i Reasekuracyjnych po dniu wejścia w życie ustawy.
 
@@ -1692,7 +1613,7 @@ o dystrybucji ubezpiecze ń
 
 4. Zakład ubezpieczeń oraz zakład reasekuracji obowiązane są zapewnić spełnienie przez osoby wykonujące w tych zakładach czynności dystrybucyjne zakładu reasekuracji wymogów określonych w art. 19 ust. 1 pkt 1 i 2, nie później niż w terminie 3 miesięcy od dnia wejścia w życie ustawy. Przepis ust. 2 stosuje się odpowiednio.
 
-5. Osoby, o których mowa w art. 12 ust. 1 i 10, są obowiązane odbyć pierwsze szkolenie zawodowe w pełnym wymiarze nie później niż do dnia 31 grudnia 2018 r.
+5. Osoby, o których mowa w art. 12 ust. 1 i 10, są obowiązane odbyć pierwsze szkolenie zawodowe w pełnym wymiarze nie później niż do dnia 31 grudnia 2019 r.
 
 **Art. 108.**
 
@@ -1700,13 +1621,13 @@ o dystrybucji ubezpiecze ń
 
 2. Osoby wchodzące, w dniu wejścia w życie ustawy, w skład Komisji Egzaminacyjnej dla Brokerów Ubezpieczeniowych i Reasekuracyjnych zachowują swoje funkcje do czasu ich odwołania, na wniosek organu nadzoru, przez ministra właściwego do spraw instytucji finansowych.
 
-**Art. 109.** Podmiot prowadzący repozytorium transakcji zarejestrowane zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (UE) nr 648/2012 z dnia 4 lipca 2012 r. w sprawie instrumentów pochodnych będących przedmiotem obrotu poza rynkiem regulowanym, kontrahentów centralnych i repozytoriów transakcji (Dz. Urz. UE L 201 z 27.07.2012, str. 1, z późn. zm. ), który przed dniem 3 stycznia 2018 r. zawarł umowy o wykonywanie czynności polegających na przekazywaniu, w imieniu firm inwestycyjnych, zgłoszeń transakcji, o których mowa w art. 26 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 600/2014 z dnia 15 maja 2014 r. w sprawie rynków instrumentów finansowych oraz zmieniającego rozporządzenie (UE) nr 648/2012 (Dz. Urz. UE L 173 z 12.06.2014, str. 84, z późn. zm. ), może prowadzić tę działalność do dnia wydania ostatecznej decyzji o udzieleniu albo odmowie udzielenia zezwolenia na świadczenie usług zatwierdzonego mechanizmu sprawozdawczego w rozumieniu art. 3 pkt 33c ustawy zmienianej w art. 94, o ile złoży wniosek o uzyskanie tego zezwolenia w terminie do dnia 30 kwietnia 2018 r. W przypadku przekazywania zgłoszeń za pośrednictwem podmiotu będącego repozytorium transakcji, obowiązek nałożony na firmę inwestycyjną na mocy art. 26 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 648/2012 z dnia 4 lipca 2012 r. w sprawie instrumentów pochodnych będących przedmiotem obrotu poza rynkiem regulowanym, kontrahentów centralnych i repozytoriów transakcji zostaje uznany za wypełniony.
+**Art. 109.** Podmiot prowadzący repozytorium transakcji zarejestrowane zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (UE) nr 648/2012 z dnia 4 lipca 2012 r. w sprawie instrumentów pochodnych będących przedmiotem obrotu poza rynkiem regulowanym, kontrahentów centralnych i repozytoriów transakcji (Dz. Urz. UE L 201 z 27.07.2012, str. 1, z późn. zm. ), który przed dniem 3 stycznia 2018 r. zawarł umowy o wykonywanie czynności polegających na przekazywaniu, w imieniu firm inwestycyjnych, zgłoszeń transakcji, o których mowa w art. 26 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 600/2014 z dnia 15 maja 2014 r. w sprawie rynków instrumentów finansowych oraz zmieniającego rozporządzenie (UE) nr 648/2012 (Dz. Urz. UE L 173 z 12.06.2014, str. 84, z późn. zm. ), może prowadzić tę działalność do dnia wydania ostatecznej decyzji o udzieleniu albo odmowie udzielenia zezwolenia na świadczenie usług zatwierdzonego mechanizmu sprawozdawczego w rozumieniu art. 3 pkt 33c ustawy zmienianej w art. 94 , o ile złoży wniosek o uzyskanie tego zezwolenia w terminie do dnia 30 kwietnia 2018 r. W przypadku przekazywania zgłoszeń za pośrednictwem podmiotu będącego repozytorium transakcji, obowiązek nałożony na firmę inwestycyjną na mocy art. 26 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 648/2012 z dnia 4 lipca 2012 r. w sprawie instrumentów pochodnych będących przedmiotem obrotu poza rynkiem regulowanym, kontrahentów centralnych i repozytoriów transakcji zostaje uznany za wypełniony.
 
-**Art. 110.** Spółka, która w dniu 3 stycznia 2018 r. prowadzi rynek regulowany, oraz spółka, która w tym dniu prowadzi rynek regulowany i alternatywny system obrotu, może stosować dotychczasowe zasady w zakresie upubliczniania informacji, o których mowa w art. 4 ust. 1 i art. 9 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 600/2014 z dnia 15 maja 2014 r. w sprawie rynków instrumentów finansowych oraz zmieniającego rozporządzenie (UE) nr 648/2012, do dnia wydania ostatecznej decyzji o udzieleniu lub odmowie udzielenia zwolnienia, o którym mowa w art. 4 ust. 1 i art. 9 ust. 1 tego rozporządzenia, nie dłużej jednak niż do dnia 3 stycznia 2019 r. o ile złoży wniosek o uzyskanie tego zwolnienia w terminie do dnia 2 lutego 2018 r.
+**Art. 110.** Spółka, która w dniu 3 stycznia 2018 r. prowadzi rynek regulowany, oraz spółka, która w tym dniu prowadzi rynek regulowany i alternatywny system obrotu, może stosować dotychczasowe zasady w zakresie upubliczniania informacji, o których mowa w art. 4 ust. 1 i art. 9 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 600/2014 z dnia 15 maja 2014 r. w sprawie rynków instrumentów finansowych oraz zmieniającego rozporządzenie (UE) nr 648/2012, do dnia wydania ostatecznej decyzji o udzieleniu lub odmowie udzielenia zwolnienia, o którym mowa w art. 4 ust. 1 i art. 9 ust. 1 tego rozporządzenia, nie dłużej jednak niż do dnia 3 stycznia 2019 r. – o ile złoży wniosek o uzyskanie tego zwolnienia w terminie do dnia 2 lutego 2018 r.
 
-#### Rozdział 10 Przepisy ko ń cowe
+#### Rozdział 10 Przepisy końcowe
 
 **Art. 111.** Traci moc ustawa z dnia 22 maja 2003 r. o pośrednictwie ubezpieczeniowym (Dz. U. z 2016 r. poz. 2077 oraz z 2017 r. poz. 60 i 2486).
 
-**Art. 112.** Ustawa wchodzi w życie z dniem 23 lutego 2018 r., z wyjątkiem:
+**Art. 112.** Ustawa wchodzi w życie z dniem 1 października 2018 r., z wyjątkiem:
 

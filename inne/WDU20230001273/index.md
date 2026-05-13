@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 4 lipca 2023 r.
+# o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury na lata 2021–2027
+
+*USTAWA z dnia 26 maja 2023 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,9 +25,6 @@ domain: null
 | Data wydania | 2023-07-04 |
 | Ostatnia zmiana | 2025-11-04 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001273) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1273/text.pdf) |
-
-USTAWA z dnia 26 maja 2023 r.
-o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury na lata 2021–2027
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -50,7 +49,7 @@ o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskie
     - **j)** Gromadzenie danych rybackich,
     - **k)** Ochrona środowiska naturalnego i zmniejszenie wpływu działalności rybackiej na środowisko;
 
-- **2)** ramach Priorytetu 2. Wspieranie zrównoważonej działalności zakresie akwakultury oraz przetwarzania i wprowadzania do obrotu produktów rybołówstwa i akwakultury, przyczyniając się ten sposób do bezpieczeństwa żywnościowego Unii: i śródlądowych oraz wspieranie rozwoju społeczności rybackich i sektora akwakultury:
+- **2)** ramach Priorytetu 2. Wspieranie zrównoważonej działalności zakresie akwakultury oraz przetwarzania i wprowadzania do obrotu produktów rybołówstwa i akwakultury, przyczyniając się ten sposób do bezpieczeństwa żywnościowego Unii:
     - **a)** Kapitał ludzki,
     - **b)** Inwestycje i innowacje akwakulturze,
     - **c)** Akwakultura środowiskowa,
@@ -59,9 +58,10 @@ o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskie
     - **f)** Zmniejszenie oddziaływania przetwórstwa na środowisko,
     - **g)** Świadomy konsument,
     - **h)** Mechanizm interwencyjny;
+
+- **3)** ramach Priorytetu 3. Sprzyjanie zrównoważonej niebieskiej gospodarce na obszarach przybrzeżnych, wyspiarskich i śródlądowych oraz wspieranie rozwoju społeczności rybackich i sektora akwakultury:
     - **a)** Realizacja lokalnych strategii rozwoju i współpraca,
     - **b)** Wsparcie przygotowawcze,
-    - **c)** Funkcjonowanie rybackich lokalnych grup działania;
 
 - **4)** ramach Priorytetu 4. Wzmocnienie międzynarodowego zarządzania oceanami oraz przyczynienie się do zapewnienia bezpieczeństwa i czystości mórz i oceanów, ochrony na nich, a także zrównoważonego zarządzania nimi:
     - **a)** Wiedza o morzu,
@@ -99,9 +99,13 @@ o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskie
 
 1. Agencja odniesieniu do programu jest instytucją pośredniczącą, o której mowa art. 71 ust. 3 rozporządzenia ogólnego, wykonującą zadania instytucji zarządzającej powierzone jej drodze pisemnego porozumienia zawartego z instytucją zarządzającą.
 
-2. Porozumienie, o którym mowa ust. 1, określa co najmniej zakres zadań Agencji jako instytucji pośredniczącej, a także sposób ich wykonywania, działania podejmowane przypadku stwierdzenia nieprawidłowej realizacji przez Agencję powierzonych zadań oraz zobowiązanie Agencji do stosowania wytycznych, o których mowa art. 4 ust. 1 pkt 4. mowa art. 76 ust. 1 rozporządzenia ogólnego.
+2. Porozumienie, o którym mowa ust. 1, określa co najmniej zakres zadań Agencji jako instytucji pośredniczącej, a także sposób ich wykonywania, działania podejmowane przypadku stwierdzenia nieprawidłowej realizacji przez Agencję powierzonych zadań oraz zobowiązanie Agencji do stosowania wytycznych, o których mowa art. 4 ust. 1 pkt 4.
 
-2. Rozliczenie wydatków poniesionych ramach realizowanych operacji programu stanowiące podstawę wniosku o płatność, o którym mowa art. 91 ust. 1 rozporządzenia ogólnego, oraz zestawienia wydatków, o którym mowa art. 98 ust. 1 lit. a rozporządzenia ogólnego, instytucja zarządzająca przekazuje ministrowi właściwemu do spraw finansów publicznych celu ich przedłożenia Komisji Europejskiej.
+**Art. 6.**
+
+1. Minister właściwy do spraw finansów publicznych odniesieniu do programu wykonuje zadania, o których mowa art. 76 ust. 1 rozporządzenia ogólnego.
+
+2. Rozliczenie wydatków poniesionych ramach realizowanych operacji programu stanowiące podstawę wniosku o płatność, o którym mowa art. 91 ust. 1 rozporządzenia ogólnego, oraz zestawienia wydatków, o którym mowa art. 98
 
 3. Minister właściwy do spraw rybołówstwa określi, drodze rozporządzenia, tryb, zakres, terminy i szczegółowy sposób rozliczania wydatków, o których mowa ust. 2, odniesieniu do operacji oraz odniesieniu do programu, mając na względzie konieczność zapewnienia prawidłowego zarządzania programem i wydatkowania środków finansowych służących jego realizacji oraz kierując się efektywnością i prawidłowością wdrażania środków tego programu.
 
@@ -124,7 +128,7 @@ o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskie
 
 4. Rzecznik programu sporządza, terminie do dnia 31 marca, roczny raport ze swojej działalności za poprzedni rok i przedkłada go instytucji zarządzającej. Instytucja zarządzająca zamieszcza raport na stronie programu.
 
-5. Do realizacji zadań przez rzecznika programu nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803), zwanej dalej „Kodeksem postępowania administracyjnego”, z wyjątkiem działu VIII, który stosuje się odpowiednio.
+5. Do realizacji zadań przez rzecznika programu nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803), zwanej dalej „Kodeksem postępowania administracyjnego”, z wyjątkiem działu VIII, który stosuje się odpowiednio.
 
 **Art. 9.**
 
@@ -171,12 +175,12 @@ o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskie
 
 5. Wniosek o dofinansowanie rozpatruje Agencja, z tym że przypadku:
 
-- **1)** działania, o którym mowa art. 3 ust. 1 pkt 3 lit. a, jeżeli operację realizuje podmiot inny niż RLGD lub grantobiorca po uprzednim rozpatrzeniu wniosku o dofinansowanie przez RLGD;
-- **2)** działań ramach priorytetu, o którym mowa art. 3 ust. 1 pkt 5, jeżeli wnioskodawcą jest Agencja wniosek o dofinansowanie rozpatruje instytucja zarządzająca.
+- **1)** działania, o którym mowa art. 3 ust. 1 pkt 3 lit. a, jeżeli operację realizuje podmiot inny niż RLGD lub grantobiorca – po uprzednim rozpatrzeniu wniosku o dofinansowanie przez RLGD;
+- **2)** działań ramach priorytetu, o którym mowa art. 3 ust. 1 pkt 5, jeżeli wnioskodawcą jest Agencja – wniosek o dofinansowanie rozpatruje instytucja zarządzająca.
 
-6. Wniosek o dofinansowanie składa się terminie wskazanym ogłoszeniu o naborze wniosków o dofinansowanie, a przypadku działań ramach priorytetu, o którym mowa art. 3 ust. 1 pkt 5 terminie określonym przepisach wydanych na podstawie art. 26 ust. 5. o dofinansowanie:
+6. Wniosek o dofinansowanie składa się terminie wskazanym ogłoszeniu o naborze wniosków o dofinansowanie, a przypadku działań ramach priorytetu, o którym mowa art. 3 ust. 1 pkt 5 – terminie określonym przepisach wydanych na podstawie art. 26 ust. 5.
 
-- **1)** ocenia zgodność operacji z LSR, rozstrzyga zakresie wyboru operacji oraz przypadku pozytywnego rozstrzygnięcia zakresie wyboru operacji ustala kwotę pomocy;
+- **1)** ocenia zgodność operacji z LSR, rozstrzyga zakresie wyboru operacji oraz przypadku pozytywnego rozstrzygnięcia zakresie wyboru operacji – ustala kwotę pomocy;
 - **2)** przekazuje wnioskodawcy informację o wyniku rozstrzygnięć, o których mowa pkt 1.
 
 2. W przypadku, o którym mowa art. 15 ust. 5 pkt 1, RLGD może określić, celu zapewnienia zgodności operacji z LSR, dodatkowe warunki wyboru operacji, szczególności odnoszące się do zakresu operacji, miejsca jej realizacji lub podmiotu ubiegającego się o dofinansowanie, które nie mogą być sprzeczne z warunkami wyboru operacji określonymi LSR. Warunki te są zawarte ogłoszeniu o naborze wniosków o dofinansowanie.
@@ -213,9 +217,9 @@ o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskie
 
 - **1)** poprawności sporządzenia,
 - **2)** zgodności planowanej operacji z celami działania, ramach którego ma być realizowana operacja,
-- **3)** zasadności udzielenia pomocy na realizację planowanej operacji sposób określony przepisach wydanych na podstawie art. 26 ust. 1, 3, 5 lub 6.
+- **3)** zasadności udzielenia pomocy na realizację planowanej operacji – sposób określony przepisach wydanych na podstawie art. 26 ust. 1, 3, 5 lub 6.
 
-2. Rozpatrzenie wniosku o dofinansowanie przez Agencję następuje terminie niezbędnym do należytego wyjaśnienia sprawy, tym do przeprowadzenia przez Agencję kontroli wnioskodawcy, jeżeli jest prowadzona, nie dłuższym niż 6 miesięcy od dnia upływu terminu składania wniosków o dofinansowanie, a przypadku gdy termin składania wniosków o dofinansowanie wynosi więcej niż 30 dni od dnia złożenia wniosku o dofinansowanie. o którym mowa art. 3 ust. 1 pkt 5, jeżeli wnioskodawcą jest Agencja, instytucja zarządzająca stosuje odpowiednio przepisy ust. 1 i 2, art. 19, art. 20 i art. 23 ust. 2.
+2. Rozpatrzenie wniosku o dofinansowanie przez Agencję następuje terminie niezbędnym do należytego wyjaśnienia sprawy, tym do przeprowadzenia przez Agencję kontroli wnioskodawcy, jeżeli jest prowadzona, nie dłuższym niż 6 miesięcy od dnia upływu terminu składania wniosków o dofinansowanie, a przypadku gdy termin składania wniosków o dofinansowanie wynosi więcej niż 30 dni – od dnia złożenia wniosku o dofinansowanie. pisy ust. 1 i 2, art. 19, art. 20 i art. 23 ust. 2.
 
 **Art. 19.**
 
@@ -234,9 +238,9 @@ o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskie
 
 **Art. 20.**
 
-1. Niezwłocznie po zakończeniu postępowania sprawie przyznawania pomocy Agencja informuje wnioskodawcę formie pisemnej lub formie elektronicznej o odmowie przyznania pomocy przypadku gdy nie są spełnione warunki przyznania pomocy lub został wyczerpany limit środków, o którym mowa art. 13 ust. 1–4, podając przyczyny tej odmowy. Do doręczenia informacji stosuje się przepisy Kodeksu postępowania administracyjnego dotyczące doręczeń.
+1. Niezwłocznie po zakończeniu postępowania sprawie przyznawania pomocy Agencja informuje wnioskodawcę formie pisemnej lub formie elektronicznej o odmowie przyznania pomocy – przypadku gdy nie są spełnione warunki przyznania pomocy lub został wyczerpany limit środków, o którym mowa art. 13 ust. 1–4, podając przyczyny tej odmowy. Do doręczenia informacji stosuje się przepisy Kodeksu postępowania administracyjnego dotyczące doręczeń.
 
-2. W przypadku odmowy przyznania pomocy wnioskodawcy przysługuje prawo wniesienia do sądu administracyjnego skargi na zasadach i trybie określonych dla aktów lub czynności, o których mowa art. 3 § 2 pkt 4 ustawy z dnia 30 sierpnia 2002 r. Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2023 r. poz. 259 i 803).
+2. W przypadku odmowy przyznania pomocy wnioskodawcy przysługuje prawo wniesienia do sądu administracyjnego skargi na zasadach i trybie określonych dla aktów lub czynności, o których mowa art. 3 § 2 pkt 4 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2023 r. poz. 259 i 803).
 
 **Art. 21.**
 
@@ -244,7 +248,7 @@ o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskie
 
 - **1)** jest zawierana zgodnie ze wzorem:
     - **a)** przygotowanym przez Agencję i zatwierdzonym przez instytucję zarządzającą,
-    - **b)** umieszczonym na stronie programu pod rygorem nieważności, formie pisemnej albo formie elektronicznej;
+    - **b)** umieszczonym na stronie programu – pod rygorem nieważności, formie pisemnej albo formie elektronicznej;
 
 - **2)** zawiera co najmniej oznaczenie przedmiotu i stron umowy oraz określenie:
     - **a)** warunków, terminu, miejsca realizacji i celu operacji,
@@ -257,13 +261,13 @@ o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskie
     - **h)** zobowiązania do stosowania wytycznych, o których mowa art. 4 ust. 1 pkt 4,
     - **i)** warunków i trybu jej zmiany.
 
-2. Umowa o dofinansowanie jest nieważna przypadkach określonych ustawie z dnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. z 2022 r. poz. 1360, 2337 i 2339 oraz z 2023 r. poz. 326) oraz przypadku, gdy sprzeciwia się przepisom rozporządzenia ogólnego lub rozporządzenia EFMRA, przepisom ustawy lub przepisom wydanym na jej podstawie.
+2. Umowa o dofinansowanie jest nieważna przypadkach określonych ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2022 r. poz. 1360, 2337 i 2339 oraz z 2023 r. poz. 326) oraz przypadku, gdy sprzeciwia się przepisom rozporządzenia ogólnego lub rozporządzenia EFMRA, przepisom ustawy lub przepisom wydanym na jej podstawie.
 
-3. Zmiana umowy o dofinansowanie powodująca zmianę celu operacji lub zwiększenie wysokości pomocy jest nieważna, z wyłączeniem przypadku, o którym mowa ust. 4. później przed dniem złożenia wniosku o płatność składanego po zrealizowaniu całej operacji, jest dopuszczalna zmiana tej umowy, wyniku której zwiększy się wysokość pomocy do wysokości nieprzekraczającej 20% pomocy przyznanej beneficjentowi przed zmianą, oraz o ile są dostępne środki finansowe na dany cel szczegółowy, o którym mowa art. 14 ust. 1 lit. a–d i f, art. 26 ust. 1, art. 29 albo art. 31 rozporządzenia EFMRA, lub rodzaj interwencji, o którym mowa załączniku IV do rozporządzenia EFMRA. Taka zmiana umowy o dofinansowanie nie może powodować zmiany jej zakresu rzeczowego.
+3. Zmiana umowy o dofinansowanie powodująca zmianę celu operacji lub zwiększenie wysokości pomocy jest nieważna, z wyłączeniem przypadku, o którym mowa ust. 4. umowy, wyniku której zwiększy się wysokość pomocy do wysokości nieprzekraczającej 20% pomocy przyznanej beneficjentowi przed zmianą, oraz o ile są dostępne środki finansowe na dany cel szczegółowy, o którym mowa art. 14 ust. 1 lit. a–d i f, art. 26 ust. 1, art. 29 albo art. 31 rozporządzenia EFMRA, lub rodzaj interwencji, o którym mowa załączniku IV do rozporządzenia EFMRA. Taka zmiana umowy o dofinansowanie nie może powodować zmiany jej zakresu rzeczowego.
 
 5. Przepisu ust. 4 nie stosuje się do operacji ramach działania, o którym mowa w:
 
-- **1)** art. 3 ust. 1 pkt 3 lit. a jeżeli beneficjentem jest podmiot inny niż RLGD lub grantobiorca;
+- **1)** art. 3 ust. 1 pkt 3 lit. a – jeżeli beneficjentem jest podmiot inny niż RLGD lub grantobiorca;
 - **2)** art. 3 ust. 1 pkt 3 lit. b.
 
 6. Do zmiany wzoru umowy o dofinansowanie stosuje się przepisy ust. 1 pkt 1.
@@ -280,7 +284,7 @@ o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskie
 
 - **1)** wnioskuje o wypłatę pomocy formie zaliczki lub refundacji,
 - **2)** wykazuje wydatki związane z realizacją operacji,
-- **3)** przekazuje informację o postępie realizacji operacji oraz dokumenty niezbędne do rozliczenia operacji, określone przepisach wydanych na podstawie art. 26 ust. 1, 3, 5 lub 6, szczególności zakresie monitoringu rzeczowo-finansowego, harmonogramów finansowych i trwałości operacji, są składane przez beneficjenta za pomocą systemu teleinformatycznego.
+- **3)** przekazuje informację o postępie realizacji operacji – oraz dokumenty niezbędne do rozliczenia operacji, określone przepisach wydanych na podstawie art. 26 ust. 1, 3, 5 lub 6, szczególności zakresie monitoringu rzeczowo-finansowego, harmonogramów finansowych i trwałości operacji, są składane przez beneficjenta za pomocą systemu teleinformatycznego.
 
 2. W przypadku gdy z powodów technicznych złożenie wniosku o płatność za pomocą systemu teleinformatycznego nie jest możliwe, beneficjent składa go, za zgodą Agencji, sposób przez nią wskazany.
 
@@ -299,7 +303,9 @@ o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskie
 - **1)** spełnia on warunki przyznania pomocy;
 - **2)** nie sprzeciwia się to przepisom, o których mowa art. 1 pkt 1, oraz istocie i celowi działania, ramach którego przyznano pomoc;
 - **3)** zostaną przez niego przejęte zobowiązania związane z przyznaną pomocą;
-- **4)** środki finansowe z tytułu pomocy nie zostały całości wypłacone. beneficjenta będącego osobą prawną albo jednostką organizacyjną nieposiadającą osobowości prawnej albo wystąpienia innego zdarzenia prawnego, którego wyniku zaistnieje następstwo prawne, albo przypadku zbycia całości albo części przedsiębiorstwa albo całości albo części gospodarstwa rolnego beneficjenta przeznaczonego do chowu lub hodowli ryb lub innych organizmów wodnych po przyznaniu pomocy oraz jeżeli środki finansowe z tytułu pomocy zostały całości wypłacone, następca prawny beneficjenta albo nabywca przedsiębiorstwa albo jego części albo gospodarstwa rolnego przeznaczonego do chowu lub hodowli ryb lub innych organizmów wodnych albo jego części może, na swój wniosek, przejąć prawa związane ze zrealizowaną operacją, jeżeli:
+
+3. W przypadku śmierci beneficjenta będącego osobą fizyczną, rozwiązania, połączenia, podziału albo przekształcenia beneficjenta będącego osobą prawną albo jednostką organizacyjną nieposiadającą osobowości prawnej albo wystąpienia innego zdarzenia prawnego, którego wyniku zaistnieje następstwo prawne, albo przypadku zbycia całości albo części przedsiębiorstwa albo całości albo części gospodarstwa rolnego beneficjenta przeznaczonego do chowu lub hodowli ryb lub innych organizmów wodnych po przyznaniu pomocy oraz jeżeli środki finansowe z tytułu pomocy zostały całości wypłacone, następca prawny beneficjenta albo nabywca przedsiębiorstwa albo jego części albo gospodarstwa rolnego przeznaczonego do chowu lub hodowli ryb lub innych organizmów wodnych albo jego części może, na swój wniosek, przejąć prawa związane ze zrealizowaną operacją, jeżeli:
+
 - **1)** spełnia on warunki przyznania pomocy;
 - **2)** nie sprzeciwia się to przepisom, o których mowa art. 1 pkt 1, oraz istocie i celowi działania, ramach którego przyznano pomoc;
 - **3)** zostaną przez niego przejęte zobowiązania związane z wypłaconą pomocą.
@@ -331,7 +337,8 @@ o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskie
 - **5)** szczegółowe wymagania wobec umów o dofinansowanie, lub
 - **6)** zasady kwalifikowalności kosztów, lub
 - **7)** wysokość stawek pomocy, lub
-- **8)** szczegółowe wymagania wobec wniosków o płatność. wania oraz wypłaty pomocy przypadku działań ramach priorytetu, o którym mowa art. 3 ust. 1 pkt 5, a także podział środków finansowych na beneficjentów tego priorytetu, mając na względzie zapewnienie efektywności wdrażania programu oraz kierując się potrzebą zapewnienia prawidłowej realizacji programu, szczególności przyznawania i wypłaty pomocy zgodnie z warunkami wynikającymi z programu i uwzględniając realizację celów wspólnej polityki rybołówstwa oraz biorąc pod uwagę istotę i cel poszczególnych działań ramach tego priorytetu. Przepisy ust. 2 i 4 stosuje się odpowiednio.
+
+5. Minister właściwy do spraw rybołówstwa określi, drodze rozporządzenia, szczegółowe warunki i tryb przyznawania oraz wypłaty pomocy przypadku działań ramach priorytetu, o którym mowa art. 3 ust. 1 pkt 5, a także podział środków finansowych na beneficjentów tego priorytetu, mając na względzie zapewnienie efektywności wdrażania programu oraz kierując się potrzebą zapewnienia prawidłowej realizacji programu, szczególności przyznawania i wypłaty pomocy zgodnie z warunkami wynikającymi z programu i uwzględniając realizację celów wspólnej polityki rybołówstwa oraz biorąc pod uwagę istotę i cel poszczególnych działań ramach tego priorytetu. Przepisy ust. 2 i 4 stosuje się odpowiednio.
 
 6. W przypadku wydania przez Komisję Europejską decyzji, o której mowa art. 26 ust. 2 akapit drugi rozporządzenia EFMRA, minister właściwy do spraw rybołówstwa może określić, drodze rozporządzenia, szczegółowe warunki i tryb przyznawania oraz wypłaty pomocy lub wysokość tej pomocy przypadku działania, o którym mowa art. 3 ust. 1 pkt 2 lit. h, uwzględniając tę decyzję Komisji Europejskiej, a także kierując się potrzebą zapewnienia prawidłowej realizacji programu, szczególności przyznawania i wypłaty pomocy zgodnie z warunkami wynikającymi z programu.
 
@@ -357,11 +364,11 @@ o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskie
 
 1. RLGD jest stowarzyszeniem posiadającym osobowość prawną.
 
-2. Do tworzenia i działania RLGD stosuje się przepisy ustawy z dnia 7 kwietnia 1989 r. Prawo o stowarzyszeniach (Dz. U. z 2020 r. poz. 2261), z tym że:
+2. Do tworzenia i działania RLGD stosuje się przepisy ustawy z dnia 7 kwietnia 1989 r. – Prawo o stowarzyszeniach (Dz. U. z 2020 r. poz. 2261), z tym że:
 
 - **1)** członkiem zwyczajnym RLGD mogą być osoby fizyczne i osoby prawne, tym jednostki samorządu terytorialnego, z wyjątkiem samorządu województwa;
 - **2)** RLGD, zakresie określonym jej statucie, może prowadzić działalność gospodarczą służącą realizacji LSR;
-- **3)** RLGD, oprócz organów wymaganych na podstawie art. 11 ust. 1–3 ustawy z dnia 7 kwietnia 1989 r. Prawo o stowarzyszeniach, jest obowiązana posiadać organ decyzyjny będący organem, do którego wyłącznej kompetencji należą rozstrzygnięcia, o których mowa art. 16 ust. 1 pkt 1, chyba że statucie RLGD przewidziano, że rozstrzygnięcia te należą do kompetencji zarządu;
+- **3)** RLGD, oprócz organów wymaganych na podstawie art. 11 ust. 1–3 ustawy z dnia 7 kwietnia 1989 r. – Prawo o stowarzyszeniach, jest obowiązana posiadać organ decyzyjny będący organem, do którego wyłącznej kompetencji należą rozstrzygnięcia, o których mowa art. 16 ust. 1 pkt 1, chyba że statucie RLGD przewidziano, że rozstrzygnięcia te należą do kompetencji zarządu;
 - **4)** RLGD jest obowiązana realizować zadania określone art. 33 ust. 1–3 i 5 rozporządzenia ogólnego oraz ustawie.
 
 3. Organ decyzyjny, o którym mowa ust. 2 pkt 3, jest wybierany przez walne zebranie członków albo zebrania delegatów spośród członków RLGD, przy czym członek organu decyzyjnego nie może być jednocześnie członkiem innego organu RLGD ani pracownikiem RLGD.
@@ -374,7 +381,7 @@ o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskie
     - **b)** obejmuje co najmniej pięć gmin,
     - **c)** jest zamieszkany przez nie mniej niż 20 000 i nie więcej niż 150 000 mieszkańców,
 
-- **3)** LSR będzie realizowana przez RLGD spełniającą wymagania określone art. 28 zwane dalej „warunkami dostępu”.
+- **3)** LSR będzie realizowana przez RLGD spełniającą wymagania określone art. 28 – zwane dalej „warunkami dostępu”.
 
 2. Wyboru LSR dokonuje się przy zastosowaniu kryteriów dotyczących:
 
@@ -385,7 +392,7 @@ o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskie
 - **5)** celów LSR i środków służących do ich osiągnięcia,
 - **6)** operacji planowanych do wsparcia ramach LSR,
 - **7)** udziału społeczności lokalnej przygotowaniu LSR,
-- **8)** procesu realizacji LSR i zdolności RLGD do jej realizacji zwanych dalej „kryteriami oceny LSR”.
+- **8)** procesu realizacji LSR i zdolności RLGD do jej realizacji – zwanych dalej „kryteriami oceny LSR”.
 
 3. Liczbę mieszkańców, o których mowa ust. 1 pkt 2 lit. c, ustala się według stanu na dzień 31 grudnia 2020 r. na podstawie wynikowych informacji statystycznych ogłaszanych, udostępnianych lub rozpowszechnianych zgodnie z przepisami o statystyce publicznej.
 
@@ -400,7 +407,7 @@ o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskie
 
 6. Minister właściwy do spraw rybołówstwa określi, drodze rozporządzenia, punktację kryteriów oceny LSR oraz sposób podziału środków przeznaczonych na realizację LSR, mając na względzie zapewnienie efektywnego wspierania RLKS ramach EFMRA oraz prawidłowego zarządzania programem, a także kierując się potrzebą zapewnienia efektywności i prawidłowości realizacji środków tego programu.
 
-7. W rozporządzeniu, o którym mowa ust. 6, minister właściwy do spraw rybołówstwa może określić minimalną liczbę punktów dla danego kryterium oceny LSR lub minimalną łączną liczbę punktów, której uzyskanie przez RLGD jest niezbędne do wyboru jej LSR, mając na względzie zapewnienie efektywnego wspierania RLKS ramach EFMRA oraz prawidłowego zarządzania programem, a także kierując się potrzebą zapewnienia efektywności i prawidłowości realizacji środków tego programu. przez instytucję zarządzającą do wysokości limitu środków przewidzianych na realizację LSR.
+7. W rozporządzeniu, o którym mowa ust. 6, minister właściwy do spraw rybołówstwa może określić minimalną liczbę punktów dla danego kryterium oceny LSR lub minimalną łączną liczbę punktów, której uzyskanie przez RLGD jest niezbędne do wyboru jej LSR, mając na względzie zapewnienie efektywnego wspierania RLKS ramach EFMRA oraz prawidłowego zarządzania programem, a także kierując się potrzebą zapewnienia efektywności i prawidłowości realizacji środków tego programu.
 
 **Art. 31.**
 
@@ -435,7 +442,7 @@ o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskie
     - **b)** nie zawiera nazwy RLGD, lub
     - **c)** nie zawiera adresu RLGD i nie można ustalić tego adresu na podstawie posiadanych danych, lub
 
-- **2)** do wniosku o wybór LSR nie dołączono LSR instytucja zarządzająca pozostawia wniosek bez rozpatrzenia.
+- **2)** do wniosku o wybór LSR nie dołączono LSR – instytucja zarządzająca pozostawia wniosek bez rozpatrzenia.
 
 2. W przypadku stwierdzenia, że wniosek o wybór LSR zawiera braki inne niż określone ust. 1 lub że jest konieczne złożenie wyjaśnień lub dokumentów niezbędnych do oceny spełnienia warunków dostępu, instytucja zarządzająca wzywa RLGD do uzupełnienia tych braków lub złożenia tych wyjaśnień lub dokumentów terminie 7 dni od dnia otrzymania wezwania, pod rygorem pozostawienia wniosku o wybór LSR bez rozpatrzenia.
 
@@ -453,7 +460,7 @@ o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskie
 - **2)** zawiera:
     - **a)** oznaczenie RLGD,
     - **b)** wskazanie warunków dostępu lub kryteriów oceny LSR, z których oceną RLGD się nie zgadza, wraz z uzasadnieniem, oraz
-    - **c)** podpis własnoręczny albo kwalifikowany podpis elektroniczny, albo podpis zaufany osoby upoważnionej do reprezentowania RLGD zależności od sposobu utrwalenia pisma.
+    - **c)** podpis własnoręczny albo kwalifikowany podpis elektroniczny, albo podpis zaufany osoby upoważnionej do reprezentowania RLGD – zależności od sposobu utrwalenia pisma.
 
 4. W przypadku gdy sprzeciw, o którym mowa ust. 2, nie spełnia wymagań, o których mowa ust. 3, komitet pozostawia sprzeciw bez rozpatrzenia.
 
@@ -461,16 +468,16 @@ o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskie
 
 6. W przypadku gdy sprzeciw, o którym mowa ust. 2:
 
-- **1)** nie został uwzględniony komitet utrzymuje mocy ocenę LSR;
-- **2)** został uwzględniony komitet dokonuje ponownej oceny spełnienia warunków dostępu i kryteriów oceny LSR.
+- **1)** nie został uwzględniony – komitet utrzymuje mocy ocenę LSR;
+- **2)** został uwzględniony – komitet dokonuje ponownej oceny spełnienia warunków dostępu i kryteriów oceny LSR.
 
-7. Komitet informuje RLGD formie pisemnej o wyniku rozpatrzenia sprzeciwu, o którym mowa ust. 2, podając uzasadnienie, a przypadku gdy ten sprzeciw nie został uwzględniony uzasadnienie wraz z pouczeniem o możliwości wniesienia skargi do sądu administracyjnego.
+7. Komitet informuje RLGD formie pisemnej o wyniku rozpatrzenia sprzeciwu, o którym mowa ust. 2, podając uzasadnienie, a przypadku gdy ten sprzeciw nie został uwzględniony – uzasadnienie wraz z pouczeniem o możliwości wniesienia skargi do sądu administracyjnego.
 
 8. Sprzeciw, o którym mowa ust. 2, nie przysługuje od ponownej oceny, o której mowa ust. 6 pkt 2.
 
 **Art. 36.**
 
-1. RLGD przysługuje prawo wniesienia skargi do sądu administracyjnego na rozstrzygnięcia komitetu, o których mowa art. 35 ust. 6, terminie 14 dni od dnia otrzymania tych rozstrzygnięć, na zasadach i trybie określonych dla aktów lub czynności, o których mowa art. 3 § 2 pkt 4 ustawy z dnia 30 sierpnia 2002 r. Prawo o postępowaniu przed sądami administracyjnymi.
+1. RLGD przysługuje prawo wniesienia skargi do sądu administracyjnego na rozstrzygnięcia komitetu, o których mowa art. 35 ust. 6, terminie 14 dni od dnia otrzymania tych rozstrzygnięć, na zasadach i trybie określonych dla aktów lub czynności, o których mowa art. 3 § 2 pkt 4 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi.
 
 2. Skarga podlega wpisowi stałemu.
 
@@ -525,7 +532,7 @@ o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskie
 
 - **1)** wykorzystana niezgodnie z przeznaczeniem lub
 - **2)** wykorzystana z naruszeniem procedur, o których mowa art. 184 ustawy o finansach publicznych, lub
-- **3)** pobrana nienależnie lub nadmiernej wysokości podlega zwrotowi wraz z odsetkami określonymi jak dla zaległości podatkowych, liczonymi od dnia wypłaty środków, chyba że przepisy, o których mowa art. 1 pkt 1, lub ustawa o finansach publicznych stanowią inaczej.
+- **3)** pobrana nienależnie lub nadmiernej wysokości – podlega zwrotowi wraz z odsetkami określonymi jak dla zaległości podatkowych, liczonymi od dnia wypłaty środków, chyba że przepisy, o których mowa art. 1 pkt 1, lub ustawa o finansach publicznych stanowią inaczej.
 
 2. Pomocą pobraną nienależnie lub nadmiernej wysokości, o której mowa ust. 1 pkt 3, jest pomoc wypłacona beneficjentowi:
 
@@ -539,7 +546,7 @@ o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskie
 
 **Art. 41.**
 
-1. Prezes Agencji jest organem właściwym sprawach dotyczących dochodzenia zwrotu pomocy, o której mowa art. 40 ust. 1, wraz z odsetkami. W przypadku dochodzenia zwrotu tej pomocy, ramach działań, o których mowa art. 3 ust. 1 pkt 5, wraz z odsetkami, jeżeli beneficjentem jest Agencja organem właściwym jest instytucja zarządzająca.
+1. Prezes Agencji jest organem właściwym sprawach dotyczących dochodzenia zwrotu pomocy, o której mowa art. 40 ust. 1, wraz z odsetkami. W przypadku dochodzenia zwrotu tej pomocy, ramach działań, o których mowa art. 3 ust. 1 pkt 5, wraz z odsetkami, jeżeli beneficjentem jest Agencja – organem właściwym jest instytucja zarządzająca.
 
 2. Właściwość organów sprawach ustalania kwoty pomocy, o której mowa art. 40 ust. 1, i tryb ustalania tej kwoty określa ustawa o finansach publicznych.
 
@@ -551,7 +558,7 @@ o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskie
 
 1. Instytucja zarządzająca odniesieniu do Agencji przeprowadza kontrole mające na celu zapewnienie prawidłowego funkcjonowania systemu zarządzania i kontroli.
 
-2. Kontrole, o których mowa ust. 1, obejmują weryfikację prawidłowości realizacji zadań powierzonych Agencji na podstawie porozumienia. prawidłowej realizacji zadań wykonywanych przez Agencję. Zalecenia pokontrolne wiążą Agencję i nie mogą dotyczyć rozstrzygnięć co do istoty sprawach przyznawania, wypłaty lub zwrotu pomocy.
+2. Kontrole, o których mowa ust. 1, obejmują weryfikację prawidłowości realizacji zadań powierzonych Agencji na podstawie porozumienia. rozstrzygnięć co do istoty sprawach przyznawania, wypłaty lub zwrotu pomocy.
 
 **Art. 43.** Instytucja zarządzająca oraz Agencja zakresie realizacji RLKS:
 
@@ -591,7 +598,7 @@ o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskie
 - **3)** wydzielone miejsce do przechowywania dokumentów i zabezpieczonych przedmiotów;
 - **4)** środki ochrony indywidualnej, jeżeli jest to niezbędne do przeprowadzenia kontroli.
 
-6. Z przeprowadzonej kontroli osoba upoważniona do wykonywania czynności kontrolnych sporządza informację pokontrolną, którą podpisują osoba upoważniona do wykonywania czynności kontrolnych oraz podmiot kontrolowany albo osoba upoważniona do reprezentowania podmiotu kontrolowanego. W przypadku odmowy podpisania informacji pokontrolnej przez podmiot kontrolowany albo osobę upoważnioną do reprezentowania podmiotu kontrolowanego informację tę podpisuje tylko osoba upoważniona do wykonywania czynności kontrolnych, która zamieszcza treści tej informacji adnotację o odmowie jej podpisania. przeprowadzania kontroli, o których mowa art. 42–44, oraz wzór upoważnienia do wykonywania czynności ramach tych kontroli, mając na względzie:
+6. Z przeprowadzonej kontroli osoba upoważniona do wykonywania czynności kontrolnych sporządza informację pokontrolną, którą podpisują osoba upoważniona do wykonywania czynności kontrolnych oraz podmiot kontrolowany albo osoba upoważniona do reprezentowania podmiotu kontrolowanego. W przypadku odmowy podpisania informacji pokontrolnej przez podmiot kontrolowany albo osobę upoważnioną do reprezentowania podmiotu kontrolowanego informację tę podpisuje tylko osoba upoważniona do wykonywania czynności kontrolnych, która zamieszcza treści tej informacji adnotację o odmowie jej podpisania. tych kontroli, mając na względzie:
 
 - **1)** zapewnienie prawidłowego zarządzania programem i wydatkowania środków finansowych służących jego realizacji;
 - **2)** zapewnienie efektywności realizacji środków programu;
@@ -627,7 +634,7 @@ o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskie
 
 3. Pozwolenia na wykonywanie rybołówstwa rekreacyjnego wydane dla armatora statku na prowadzenie połowów z jego statku na podstawie art. 90 ust. 1 pkt 1 lit. b ustawy zmienianej art. 51 zachowują ważność do chwili upływu czasu, na jaki zostały wydane.
 
-4. Armator, o którym mowa ust. 3, sporządza raport z połowów rekreacyjnych, o którym mowa art. 94 ust. 2 ustawy zmienianej art. 51, na zasadach określonych przepisach dotychczasowych. wują moc do dnia wejścia życie przepisów wykonawczych wydanych na podstawie art. 95 ust. 1 ustawy zmienianej art. 51, jednak nie dłużej niż przez 24 miesiące od dnia wejścia życie niniejszej ustawy.
+**Art. 55.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 95 ust. 1 ustawy zmienianej art. 51 zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych na podstawie art. 95 ust. 1 ustawy zmienianej art. 51, jednak nie dłużej niż przez 24 miesiące od dnia wejścia życie niniejszej ustawy.
 
 **Art. 56.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 

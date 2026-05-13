@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 4 sierpnia 2023 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 16 czerwca 2023 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001524) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1524/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 16 czerwca 2023 r.
-sprawie ogłoszenia jednolitego tekstu ustawy o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. poz. 1641), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700) oraz zmian wynikających z przepisów ogłoszonych przed dniem 15 czerwca 2023 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1) art. 45–57 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. poz. 1641), które stanowią: „Art. 45. W ustawie z dnia 17 maja 1989 r. Prawo geodezyjne i kartograficzne (Dz. U. z 2020 r. poz. 2052 oraz z 2021 r. poz. 922) art. 40k wyrazy „ustawy z dnia 25 lutego 2016 r. o ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. z 2019 r. poz. 1446)” zastępuje się wyrazami „ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. poz. 1641)”.
@@ -37,7 +37,7 @@ Art. 45–57. (pominięte)
 
 **Art. 48.** W ustawie z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym (Dz. U. z 2021 r. poz. 450, 463, 694 i 720) wprowadza się następujące zmiany:
 
-**Art. 50.** W ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. z 2020 r. poz. 2176 oraz z 2021 r. poz. 1598) wprowadza się następujące zmiany:
+**Art. 49.** W ustawie z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2021 r. poz. 112, z 2020 r. poz. 2320 oraz z 2021 r. poz. 1598) po art. 4a dodaje się art. 4b brzmieniu: „Art. 4b. 1. Dane i informacje o podmiotach wpisanych do Rejestru są przekazywane celu ponownego wykorzystywania, z zachowaniem przepisów ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. poz. 1641), jeżeli przepisy ustawy nie stanowią inaczej. 2. Centralna Informacja przekazuje, za pośrednictwem systemu teleinformatycznego, dane i informacje o podmiotach wpisanych do Rejestru celu ponownego wykorzystywania na wniosek złożony postaci elektronicznej opatrzony kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym. Dane zgromadzone Rejestrze udostępnia się celu ponownego wykorzystywania także za pośrednictwem interfejsu programistycznego aplikacji (API).”.
 
 **Art. 51.** W ustawie z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2021 r. poz. 670, 952 i 1005) wprowadza się następujące zmiany:
 
@@ -49,13 +49,15 @@ Art. 45–57. (pominięte)
 
 2. Podmioty prowadzące rejestry publiczne i systemy teleinformatyczne określone przepisach wydanych na podstawie ust. 7 udostępniają na potrzeby analiz ramach zintegrowanej platformy analitycznej dane określone tych przepisach, zgromadzone przez te podmioty na podstawie przepisów odrębnych związku z realizacją zadań publicznych.
 
-3. Jeżeli jest to niezbędne do realizacji konkretnej analizy ramach zintegrowanej platformy analitycznej, dane udostępnione z różnych rejestrów publicznych i systemów teleinformatycznych mogą być łączone. tycznej podlegają pseudonimizacji.
+3. Jeżeli jest to niezbędne do realizacji konkretnej analizy ramach zintegrowanej platformy analitycznej, dane udostępnione z różnych rejestrów publicznych i systemów teleinformatycznych mogą być łączone.
+
+4. Dane osobowe udostępniane na potrzeby prowadzenia analiz ramach zintegrowanej platformy analitycznej podlegają pseudonimizacji.
 
 5. Pseudonimizacja jest dokonywana przez organ lub podmiot, który udostępnia dane, po określeniu niezbędnego celu i zakresu prowadzonej analizy.
 
 6. Podmiot, który udostępnia dane, oraz minister właściwy do spraw informatyzacji uzgadniają metodę pseudonimizacji udostępnianych danych oraz tryb udostępniania, mając na uwadze cel, zakres analizy oraz przepisy o ochronie danych osobowych.
 
-7. Rada Ministrów określi, drodze rozporządzenia, zakres danych i wykaz rejestrów publicznych i systemów teleinformatycznych, z których są udostępniane niezbędne dane na potrzeby prowadzenia analiz ramach zintegrowanej platformy analitycznej, oraz podmiotów je prowadzących, które są obowiązane do przekazywania danych pochodzących z tych rejestrów i systemów, a także sposób udostępniania tych danych, mając na uwadze zapewnienie skutecznego pozyskiwania danych oraz zgodności ich udostępniania z przepisami o ochronie danych osobowych.
+7. Rada Ministrów określi, drodze rozporządzenia, zakres danych i wykaz rejestrów publicznych i systemów teleinformatycznych, z których są udostępniane niezbędne dane na potrzeby prowadzenia analiz ramach zintegrowanej platformy analitycznej, oraz podmiotów je prowadzących, które są obowiązane do przekazywania danych pochodzących z tych rejestrów i systemów, a także sposób udostępniania tych danych, mając na uwadze osobowych.
 
 **Art. 20r.**
 
@@ -87,6 +89,8 @@ Art. 45–57. (pominięte)
 **Art. 20t.** Dane przetwarzane ramach zintegrowanej platformy analitycznej są usuwane niezwłocznie po przeprowadzeniu analiz, na potrzeby których dane zostały udostępnione.”.
 
 **Art. 52.** W ustawie z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2020 r. poz. 882, 2112 i 2401 oraz z 2021 r. poz. 159 i 1559) wprowadza się następujące zmiany:
+
+**Art. 53.** W ustawie z dnia 24 września 2010 r. o ewidencji ludności (Dz. U. z 2021 r. poz. 510 i 1000) art. 46 ust. 3 wyrazy „ustawie z dnia 25 lutego 2016 r. o ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. z 2019 r. poz. 1446)” zastępuje się wyrazami „ustawie z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. poz. 1641)”.
 
 **Art. 54.** W ustawie z dnia 20 lipca 2017 r. Prawo wodne (Dz. U. z 2021 r. poz. 624, 784 i 1564) wprowadza się następujące zmiany:
 
@@ -217,7 +221,7 @@ Art. 45–57. (pominięte)
 
 3. Koszty, o których mowa ust. 2, mogą obejmować koszty czynności związanych z anonimizacją lub ze środkami zastosowanymi celu ochrony tajemnicy przedsiębiorstwa.
 
-4. Wysokość opłaty nie może przekroczyć sumy kosztów poniesionych bezpośrednio celu przygotowania lub przekazania informacji sektora publicznego celu ponownego wykorzystywania określony sposób lub określonej formie. publicznego celu ponownego wykorzystywania celach innych niż niekomercyjne o charakterze badawczym, naukowym lub edukacyjnym, mogą nałożyć opłatę wyższą niż ustalona na podstawie art. 18.
+4. Wysokość opłaty nie może przekroczyć sumy kosztów poniesionych bezpośrednio celu przygotowania lub przekazania informacji sektora publicznego celu ponownego wykorzystywania określony sposób lub określonej formie. wym lub edukacyjnym, mogą nałożyć opłatę wyższą niż ustalona na podstawie art. 18.
 
 2. Ustalając wysokość opłaty, o której mowa ust. 1, uwzględnia się koszty gromadzenia, produkowania, reprodukowania, rozpowszechniania, ochrony i ustalania praw. Wysokość opłaty nie może przekroczyć sumy tych kosztów wraz z rozsądnym zwrotem z inwestycji, jednak nie wyższym niż 5 punktów procentowych powyżej stopy referencyjnej Narodowego Banku Polskiego.
 
@@ -259,7 +263,7 @@ Art. 45–57. (pominięte)
 - **1)** bezpłatnie;
 - **2)** formacie nadającym się do odczytu maszynowego;
 - **3)** za pośrednictwem API;
-- **4)** jeżeli to możliwe do zbiorczego pobrania. naukowe, biblioteki pedagogiczne oraz archiwa, przypadku udostępniania danych o wysokiej wartości celu ponownego wykorzystywania, mogą nałożyć opłaty za ponowne wykorzystywanie zgodnie z przepisami rozdziału 4.
+- **4)** jeżeli to możliwe do zbiorczego pobrania. wykorzystywania, mogą nałożyć opłaty za ponowne wykorzystywanie zgodnie z przepisami rozdziału 4.
 
 **Art. 26.** Udostępnianiu celu ponownego wykorzystywania sposób, o którym mowa art. 25, podlegają dane o wysokiej wartości wymienione wykazie ustanowionym aktach wykonawczych Komisji Europejskiej wydanych na podstawie art. 14 ust. 1 dyrektywy Parlamentu Europejskiego i Rady (UE) 2019/1024 z dnia 20 czerwca 2019 r. sprawie otwartych danych i ponownego wykorzystywania informacji sektora publicznego (Dz. Urz. UE L 172 z 26.06.2019, str. 56).
 
@@ -462,7 +466,7 @@ Art. 45–57. (pominięte)
 - **2)** informuje o braku możliwości ponownego wykorzystywania sposób wskazany we wniosku lub ze względu na format, jakim informacje sektora publicznego miałyby być udostępniane;
 - **3)** odmawia, drodze decyzji, wyrażenia zgody na ponowne wykorzystywanie informacji sektora publicznego; przepisy art. 41 ust. 4–6 stosuje się.
 
-2. Wnioskodawca terminie 14 dni od dnia otrzymania oferty zawiadamia podmiot zobowiązany o przyjęciu oferty. Przepis art. 41 ust. 2 zdanie drugie stosuje się. sektora publicznego oraz od decyzji o warunkach ponownego wykorzystywania lub o wysokości opłat za ponowne wykorzystywanie jest minister właściwy do spraw informatyzacji.
+2. Wnioskodawca terminie 14 dni od dnia otrzymania oferty zawiadamia podmiot zobowiązany o przyjęciu oferty. Przepis art. 41 ust. 2 zdanie drugie stosuje się. rzystywanie jest minister właściwy do spraw informatyzacji.
 
 2. W zakresie nieuregulowanym ustawą do decyzji o odmowie wyrażenia zgody na ponowne wykorzystywanie informacji sektora publicznego oraz do decyzji o warunkach ponownego wykorzystywania lub o wysokości opłat za ponowne wykorzystywanie stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803).
 
@@ -506,7 +510,7 @@ Art. 45–57. (pominięte)
 - **5)** 2025 r. 625 000 zł;
 - **6)** 2026 r. 625 000 zł;
 - **7)** 2027 r. 625 000 zł;
-- **9)** 2029 r. 625 000 zł;
+- **8)** 2028 r. 625 000 zł;
 - **10)** 2030 r. 625 000 zł.
 
 3. Maksymalny limit wydatków budżetu państwa dla części budżetowej 27 Informatyzacja, będących skutkiem finansowym powołania i funkcjonowania zintegrowanej platformy analitycznej, o której mowa przepisach ustawy zmienianej art. 51, wynosi 16 370 000 zł, z tym że poszczególnych latach limit wynosi:

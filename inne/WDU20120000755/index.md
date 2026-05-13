@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 4 lipca 2012 r.
+# o zmianie zakresu obowiązywania Umowy o utworzeniu Europejskiego Banku Odbudowy i Rozwoju, sporządzonej w Paryżu dnia 29 maja 1990 r.
+
+*USTAWA z dnia 11 maja 2012 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,11 +26,7 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000755) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/755/text.pdf) |
 
-Poz. 755
-USTAWA z dnia 11 maja 2012 r.
-o zmianie zakresu obowiązywania Umowy o utworzeniu Europejskiego Banku Odbudowy i Rozwoju, sporządzonej w Paryżu dnia 29 maja 1990 r.
-
 **Art. 1.** Wyraża się zgodę na dokonanie przez Prezydenta Rzeczypospolitej Polskiej zmiany zakresu obowiązywania Umowy o utworzeniu Europejskiego Banku Odbudowy i Rozwoju, sporządzonej w Paryżu dnia 29 maja 1990 r., polegającej na:
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: B. Komorowski
+**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

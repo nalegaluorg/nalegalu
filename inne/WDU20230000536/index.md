@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 21 marca 2023 r.
+# w sprawie ogłoszenia jednolitego tekstu ustawy Prawo probiercze
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 9 lutego 2023 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000536) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/536/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 9 lutego 2023 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy Prawo probiercze
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 1 kwietnia 2011 r. Prawo probiercze (Dz. U. z 2022 r. poz. 1800), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 7 października 2022 r. o zmianie niektórych ustaw w celu uproszczenia procedur administracyjnych dla obywateli i przedsiębiorców (Dz. U. poz. 2185) oraz zmian wynikających z przepisów ogłoszonych przed dniem 7 lutego 2023 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 66 i art. 81 ustawy z dnia 7 października 2022 r. o zmianie niektórych ustaw w celu uproszczenia procedur administracyjnych dla obywateli i przedsiębiorców (Dz. U. poz. 2185), które stanowią: „Art. 66. Do postępowań w sprawie wydania decyzji, o której mowa w art. 19 ust. 8 ustawy zmienianej w art. 31, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.” „Art. 81. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 1) art. 45 pkt 1, który wchodzi w życie z dniem ogłoszenia, z mocą od dnia 31 grudnia 2021 r.;

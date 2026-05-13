@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 27 czerwca 2023 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy o ochronie danych osobowych przetwarzanych związku z zapobieganiem i zwalczaniem przestępczości
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +24,6 @@ domain: null
 | Ostatnia zmiana | 2023-06-28 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001206) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1206/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 11 maja 2023 r.
-sprawie ogłoszenia jednolitego tekstu ustawy o ochronie danych osobowych przetwarzanych związku z zapobieganiem i zwalczaniem przestępczości
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2019 r. poz. 125), z uwzględnieniem zmian wprowadzonych ustawą z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700) oraz zmian wynikających z przepisów ogłoszonych przed dniem 26 kwietnia 2023 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1) art. 56–97 ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2019 r. poz. 125), które stanowią: „Art. 56. W ustawie z dnia 26 marca 1982 r. o Trybunale Stanu (Dz. U. z 2016 r. poz. 2050) po art. 20e dodaje się art. 20f i art. 20g brzmieniu: „Art. 20f. Trybunał Stanu jest administratorem danych osobowych przetwarzanych ramach prowadzonych przez niego postępowań.
@@ -35,7 +33,7 @@ Art. 56–97. (pominięte)
 
 1. Nadzór nad przetwarzaniem danych osobowych przez Trybunał Stanu ramach prowadzonych przez niego postępowań wykonuje Krajowa Rada Sądownictwa.
 
-2. Do nadzoru, o którym mowa ust. 1, przepisy art. 175dd § 2 i 3 oraz działu I rozdziału 5a ustawy z dnia 27 lipca 2001 r. Prawo o ustroju sądów powszechnych (Dz. U. z 2019 r. poz. 52, 55, 60 i 125) stosuje się odpowiednio.”.
+2. Do nadzoru, o którym mowa ust. 1, przepisy art. 175dd § 2 i 3 oraz działu I rozdziału 5a ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2019 r. poz. 52, 55, 60 i 125) stosuje się odpowiednio.”.
 
 **Art. 57.** W ustawie z dnia 18 kwietnia 1985 r. o rybactwie śródlądowym (Dz. U. z 2018 r. poz. 1476) wprowadza się następujące zmiany:
 
@@ -59,22 +57,18 @@ Art. 56–97. (pominięte)
 
 1. Informacje, tym dane osobowe, o których mowa art. 21a ust. 2 pkt 1 lit. a–j, wprowadza się do zbioru danych DNA na podstawie zarządzenia:
 
-- **1)** prowadzącego postępowanie przygotowawcze lub sądu przypadku analizy kwasu deoksyrybonukleinowego (DNA) przeprowadzonej związku z:
+- **1)** prowadzącego postępowanie przygotowawcze lub sądu – przypadku analizy kwasu deoksyrybonukleinowego (DNA) przeprowadzonej związku z:
     - **a)** postępowaniem karnym,
     - **b)** postępowaniem sprawach nieletnich,
     - **c)** postępowaniem określonym ustawie z dnia 22 listopada 2013 r. o postępowaniu wobec osób z zaburzeniami psychicznymi stwarzających zagrożenie życia, zdrowia lub wolności seksualnej innych osób,
     - **d)** postępowaniem wobec osób wymienionych art. 10 ust. 1 ustawy z dnia 10 czerwca 2016 r. o działaniach antyterrorystycznych,
     - **e)** postępowaniem wobec osób skazanych;
 
-- **2)** prowadzącego czynności przypadku osób o nieustalonej tożsamości, osób usiłujących ukryć swoją tożsamość, zwłok ludzkich o nieustalonej tożsamości, osób zaginionych oraz osób, o których mowa art. 15 ust. 1 pkt 3a lit. c. i pracowników Policji pierwszych czynności służbowych związanych z ujawnianiem, zabezpieczaniem lub badaniem śladów związanych z podejrzeniem popełnienia czynu zabronionego.
+- **2)** prowadzącego czynności – przypadku osób o nieustalonej tożsamości, osób usiłujących ukryć swoją tożsamość, zwłok ludzkich o nieustalonej tożsamości, osób zaginionych oraz osób, o których mowa art. 15 ust. 1 pkt 3a lit. c.
 
-**Art. 21c.** Informacje, tym dane osobowe, przetwarzane zbiorze danych DNA udostępnia się bezpłatnie organom prowadzącym postępowanie karne, postępowanie sprawach nieletnich lub prowadzącym czynności wykrywcze lub identyfikacyjne.
+2. Informacje, tym dane osobowe, o których mowa art. 21a ust. 2 pkt 1 lit. k, wprowadza się do zbioru danych DNA na podstawie wniosku właściwego miejscowo organu Policji, przed podjęciem przez policjantów i pracowników Policji pierwszych czynności służbowych związanych z ujawnianiem, zabezpieczaniem lub badaniem śladów związanych z podejrzeniem popełnienia czynu zabronionego.
 
-**Art. 21d.**
-
-1. Informacje, tym dane osobowe, o których mowa art. 20 ust. 1l, są przetwarzane zbiorze danych DNA celu prowadzenia czynności wykrywczych lub identyfikacyjnych.
-
-2. Informacje, tym dane osobowe, o których mowa art. 21a ust. 2 pkt 1 lit. a–j, są przetwarzane zbiorze danych DNA celu prowadzenia czynności wykrywczych i eliminacyjnych.
+**Art. 21c.** Informacje, tym dane osobowe, przetwarzane zbiorze danych DNA udostępnia się bezpłatnie organom prowadzącym postępowanie karne, postępowanie sprawach nieletnich lub prowadzącym czynności wykrywcze lub identyfikacyjne. 2. Informacje, tym dane osobowe, o których mowa art. 21a ust. 2 pkt 1 lit. a–j, są przetwarzane zbiorze danych DNA celu prowadzenia czynności wykrywczych i eliminacyjnych.
 
 **Art. 21e.**
 
@@ -92,7 +86,7 @@ Art. 56–97. (pominięte)
     - **c)** zmarła;
 
 - **3)** tożsamość zwłok ludzkich została ustalona;
-- **4)** utracą swoją przydatność eliminacyjną, jednakże nie dłużej niż po upływie 5 lat od dnia ustania stosunku służbowego lub pracy przypadku osób, o których mowa art. 20 ust. 1l.
+- **4)** utracą swoją przydatność eliminacyjną, jednakże nie dłużej niż po upływie 5 lat od dnia ustania stosunku służbowego lub pracy – przypadku osób, o których mowa art. 20 ust. 1l.
 
 3. Informacje, tym dane osobowe osób, o których mowa art. 21a ust. 2 pkt 1 lit. h, usuwa się ze zbioru danych DNA, po upływie okresu przedawnienia karalności przestępstwa, na wniosek organu prowadzącego postępowanie karne.
 
@@ -103,12 +97,14 @@ Art. 56–97. (pominięte)
 - **15)** uchyla się art. 21f i art. 21g;
 - **16)** art. 21h–21n otrzymują brzmienie: „Art. 21h. 1. Komendant Główny Policji prowadzi następujące zbiory danych daktyloskopijnych, których jest administratorem rozumieniu przepisów o ochronie danych osobowych:
 - **1)** Centralną Registraturę Daktyloskopijną, której są gromadzone karty daktyloskopijne i chejroskopijne zawierające odciski linii papilarnych osób,
-- **2)** zbiór automatycznie przetwarzający dane daktyloskopijne, którym są przetwarzane informacje, tym dane osobowe, o odciskach linii papilarnych osób, niezidentyfikowanych śladach linii papilarnych z miejsc przestępstw oraz śladach linii papilarnych, które mogą pochodzić od osób zaginionych zwane dalej „zbiorami danych daktyloskopijnych”.
+- **2)** zbiór automatycznie przetwarzający dane daktyloskopijne, którym są przetwarzane informacje, tym dane osobowe, o odciskach linii papilarnych osób, niezidentyfikowanych śladach linii papilarnych z miejsc przestępstw oraz śladach linii papilarnych, które mogą pochodzić od osób zaginionych – zwane dalej „zbiorami danych daktyloskopijnych”.
+
+2. W zbiorach danych daktyloskopijnych są przetwarzane:
+
 - **1)** informacje, tym dane osobowe, dotyczące: o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. z 2017 r. poz. 900 oraz z 2018 r. poz. 650),
     - **a)** osób podejrzanych lub podejrzanych o popełnienie przestępstw ściganych z oskarżenia publicznego,
     - **b)** nieletnich dopuszczających się czynów zabronionych przez ustawę jako przestępstwa ścigane z oskarżenia publicznego,
     - **c)** osób stwarzających zagrożenie, o których mowa ustawie z dnia 22 listopada 2013 r. o postępowaniu wobec osób z zaburzeniami psychicznymi stwarzających zagrożenie życia, zdrowia lub wolności seksualnej innych osób,
-    - **d)** osób, o których mowa art. 10 ust. 1 ustawy z dnia 10 czerwca 2016 r. o działaniach antyterrorystycznych,
     - **e)** oskarżonych lub skazanych za popełnienie przestępstw ściganych z oskarżenia publicznego,
     - **f)** osób poszukiwanych,
     - **g)** cudzoziemców, od których zostały pobrane odciski linii papilarnych sytuacjach, o których mowa art. 35 ust. 2, art. 324 pkt 1 i art. 394 ust. 3 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach lub art. 30 ust. 1 pkt 3, art. 92 ust. 1 i art. 114 ust. 1 ustawy z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej, lub art. 73a ustawy z dnia 14 lipca 2006 r.
@@ -136,19 +132,19 @@ Art. 56–97. (pominięte)
     - **e)** datę wprowadzenia,
     - **f)** jednostkę organizacyjną wprowadzającą;
 
-- **4)** informacje, tym dane osobowe, dotyczące niezidentyfikowanych śladów linii papilarnych z miejsc przestępstw obejmujące: nych, obejmujące:
+- **4)** informacje, tym dane osobowe, dotyczące niezidentyfikowanych śladów linii papilarnych z miejsc przestępstw obejmujące:
     - **a)** obrazy śladów linii papilarnych,
     - **b)** datę i miejsce zabezpieczenia,
     - **c)** kategorię przestępstwa,
     - **d)** jednostkę organizacyjną wprowadzającą,
     - **e)** oznaczenie i numer sprawy;
+
+- **5)** informacje, tym dane osobowe, dotyczące śladów linii papilarnych, które mogą pochodzić od osób zaginionych, obejmujące: tym dane osobowe, dotyczące osób o nieustalonej tożsamości lub usiłujących ukryć swoją tożsamość oraz zwłok ludzkich o nieustalonej tożsamości, obejmujące:
     - **a)** obrazy śladów linii papilarnych,
     - **b)** datę i miejsce zabezpieczenia,
     - **c)** kategorię zdarzenia,
     - **d)** jednostkę organizacyjną wprowadzającą,
     - **e)** oznaczenie i numer sprawy.
-
-3. W zbiorach danych daktyloskopijnych przetwarza się, z wyłączeniem przechowywania, informacje, tym dane osobowe, dotyczące osób o nieustalonej tożsamości lub usiłujących ukryć swoją tożsamość oraz zwłok ludzkich o nieustalonej tożsamości, obejmujące:
 
 - **1)** obrazy odcisków linii papilarnych;
 - **2)** płeć;
@@ -181,16 +177,15 @@ Art. 56–97. (pominięte)
     - **b)** ukończyła 100. rok życia,
     - **c)** zmarła;
 
-- **3)** utracą swoją przydatność eliminacyjną, jednakże nie dłużej niż po upływie 5 lat od dnia ustania stosunku służbowego lub pracy przypadku osób, o których mowa art. 20 ust. 1o. danych daktyloskopijnych, jeżeli osoba, której dane dotyczą:
+- **3)** utracą swoją przydatność eliminacyjną, jednakże nie dłużej niż po upływie 5 lat od dnia ustania stosunku służbowego lub pracy – przypadku osób, o których mowa art. 20 ust. 1o.
+
+3. Informacje, tym dane osobowe, o których mowa art. 21h ust. 2 pkt 1 lit. g, usuwa się ze zbiorów danych daktyloskopijnych, jeżeli osoba, której dane dotyczą:
+
 - **1)** uzyskała obywatelstwo polskie;
 - **2)** ukończyła 100. rok życia;
 - **3)** zmarła.
 
-4. Informacje, tym dane osobowe, o których mowa art. 21h ust. 2 pkt 1, usuwa się ze zbiorów danych daktyloskopijnych po uzyskaniu wiarygodnej informacji.
-
-**Art. 21m.**
-
-1. Informacje, tym dane osobowe, o których mowa art. 21h ust. 2 pkt 1 lit. i, usuwa się ze zbiorów danych daktyloskopijnych po upływie okresu przedawnienia karalności przestępstwa, na wniosek organu prowadzącego postępowanie karne.
+4. Informacje, tym dane osobowe, o których mowa art. 21h ust. 2 pkt 1, usuwa się ze zbiorów danych daktyloskopijnych po uzyskaniu wiarygodnej informacji. zbiorów danych daktyloskopijnych po upływie okresu przedawnienia karalności przestępstwa, na wniosek organu prowadzącego postępowanie karne.
 
 2. Informacje, tym dane osobowe, o których mowa art. 21h ust. 2 pkt 1 lit. h, usuwa się ze zbiorów danych daktyloskopijnych, przypadku odnalezienia lub ustalenia miejsca pobytu osoby zaginionej lub po upływie 55 lat od dnia rozpoczęcia ich przetwarzania zbiorach danych daktyloskopijnych. Informacje te, tym dane osobowe, usuwa się na wniosek jednostki organizacyjnej, służby, instytucji państwowej lub organu władzy publicznej prowadzącej poszukiwanie.
 
@@ -204,54 +199,32 @@ Art. 56–97. (pominięte)
 
 **Art. 62.** W ustawie z dnia 28 września 1991 r. o lasach (Dz. U. z 2018 r. poz. 2129 i 2161 oraz z 2019 r. poz. 83) art. 47 po ust. 2b dodaje się ust. 2c brzmieniu: „2c. Administratorem danych osobowych przetwarzanych celu, o którym mowa art. 1 pkt 1 ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2019 r. poz. 125), jest minister właściwy do spraw środowiska lub Główny Inspektor Straży Leśnej.”.
 
-**Art. 63.** W ustawie z dnia 13 października 1995 r. Prawo łowieckie (Dz. U. z 2018 r. poz. 2033) art. 39 po ust. 2 dodaje się ust. 2a brzmieniu: „2a. Administratorem danych osobowych przetwarzanych celu, o którym mowa art. 1 pkt 1 ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2019 r. poz. 125), jest minister właściwy do spraw środowiska lub komendant wojewódzki Państwowej Straży Łowieckiej.”.
+**Art. 63.** W ustawie z dnia 13 października 1995 r. – Prawo łowieckie (Dz. U. z 2018 r. poz. 2033) art. 39 po ust. 2 dodaje się ust. 2a brzmieniu: „2a. Administratorem danych osobowych przetwarzanych celu, o którym mowa art. 1 pkt 1 ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2019 r. poz. 125), jest minister właściwy do spraw środowiska lub komendant wojewódzki Państwowej Straży Łowieckiej.”.
 
-**Art. 64.** W ustawie z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych (Dz. U. z 2018 r. poz. 2216 oraz z 2019 r. poz. 15) art. 11t uchyla się ust. 9. art. 28b pkt 8 otrzymuje brzmienie: „8) Policji jeżeli jest to konieczne do skutecznego zapobieżenia popełnieniu przestępstwa, jego wykrycia albo ustalenia sprawców i uzyskania dowodów, na zasadach i trybie określonych art. 20 ust. 1d i 1e ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2017 r. poz. 2067, z późn. zm. );”.
+**Art. 64.** W ustawie z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych (Dz. U. z 2018 r. poz. 2216 oraz z 2019 r. poz. 15) art. 11t uchyla się ust. 9.
 
-**Art. 66.** W ustawie z dnia 6 czerwca 1997 r. Kodeks karny wykonawczy (Dz. U. z 2018 r. poz. 652, 1010, 1387 i 2432) wprowadza się następujące zmiany:
+**Art. 65.** W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2018 r. poz. 755, z późn. zm. ) art. 28b pkt 8 otrzymuje brzmienie: „8) Policji – jeżeli jest to konieczne do skutecznego zapobieżenia popełnieniu przestępstwa, jego wykrycia albo ustalenia sprawców i uzyskania dowodów, na zasadach i trybie określonych art. 20 ust. 1d i 1e ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2017 r. poz. 2067, z późn. zm. );”.
 
-**Art. 67.** W ustawie z dnia 21 sierpnia 1997 r. Prawo o ustroju sądów wojskowych (Dz. U. z 2018 r. poz. 1921) po art. 6a dodaje się art. 6b i art. 6c brzmieniu: „Art. 6b. § 1. Sądy wojskowe są administratorami danych osobowych przetwarzanych postępowaniach sądowych.
+**Art. 66.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. z 2018 r. poz. 652, 1010, 1387 i 2432) wprowadza się następujące zmiany:
+
+**Art. 67.** W ustawie z dnia 21 sierpnia 1997 r. – Prawo o ustroju sądów wojskowych (Dz. U. z 2018 r. poz. 1921) po art. 6a dodaje się art. 6b i art. 6c brzmieniu: „Art. 6b. § 1. Sądy wojskowe są administratorami danych osobowych przetwarzanych postępowaniach sądowych.
 
 **Art. 6c.**
 
 § 1. Nadzór nad przetwarzaniem danych osobowych postępowaniach sądowych wykonują:
 
-- **1)** zakresie działalności wojskowego sądu garnizonowego prezes wojskowego sądu okręgowego;
-- **2)** zakresie działalności wojskowego sądu okręgowego Krajowa Rada Sądownictwa.
+- **1)** zakresie działalności wojskowego sądu garnizonowego – prezes wojskowego sądu okręgowego;
+- **2)** zakresie działalności wojskowego sądu okręgowego – Krajowa Rada Sądownictwa.
 
-§ 2. Do nadzoru, o którym mowa § 1, przepisy art. 175dd § 2 i 3 oraz działu I rozdziału 5a ustawy z dnia 27 lipca 2001 r. Prawo o ustroju sądów powszechnych stosuje się odpowiednio.”.
+§ 2. Do nadzoru, o którym mowa § 1, przepisy art. 175dd § 2 i 3 oraz działu I rozdziału 5a ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych stosuje się odpowiednio.”.
 
-**Art. 68.** W ustawie z dnia 29 sierpnia 1997 r. o strażach gminnych (Dz. U. z 2018 r. poz. 928 i 2399) dotychczasową treść art. 10a oznacza się jako ust. 1 i dodaje się ust. 2 brzmieniu: „2. Administratorem danych osobowych przetwarzanych celu, o którym mowa art. 1 pkt 1 ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2019 r. poz. 125), przez straż jest komendant straży.”. „5a. Administratorem danych osobowych przetwarzanych celu, o którym mowa art. 1 pkt 1 ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2019 r. poz. 125), jest dyrektor urzędu żeglugi śródlądowej.”.
+**Art. 68.** W ustawie z dnia 29 sierpnia 1997 r. o strażach gminnych (Dz. U. z 2018 r. poz. 928 i 2399) dotychczasową treść art. 10a oznacza się jako ust. 1 i dodaje się ust. 2 brzmieniu: „2. Administratorem danych osobowych przetwarzanych celu, o którym mowa art. 1 pkt 1 ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2019 r. poz. 125), przez straż jest komendant straży.”.
+
+**Art. 69.** W ustawie z dnia 21 grudnia 2000 r. o żegludze śródlądowej (Dz. U. z 2017 r. poz. 2128 oraz z 2018 r. poz. 1137 i 1694) art. 10 po ust. 5 dodaje się ust. 5a brzmieniu: „5a. Administratorem danych osobowych przetwarzanych celu, o którym mowa art. 1 pkt 1 ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2019 r. poz. 125), jest dyrektor urzędu żeglugi śródlądowej.”.
 
 **Art. 70.** W ustawie z dnia 6 lipca 2001 r. o gromadzeniu, przetwarzaniu i przekazywaniu informacji kryminalnych (Dz. U. z 2019 r. poz. 44) wprowadza się następujące zmiany:
 
-**Art. 2.**
-
-1. Na zasadach określonych niniejszej ustawie informacje kryminalne przetwarza się celu wykrywania i ścigania sprawców przestępstw oraz zapobiegania i zwalczania przestępczości.
-
-2. Informacje kryminalne przetwarza się bez wiedzy i zgody osoby, której dane dotyczą, oraz z zachowaniem zasad ich ochrony określonych przepisach o ochronie informacji niejawnych.
-
-3. Informacje kryminalne przekazuje się podmiotom uprawnionym, o których mowa art. 19, innych celach niż określone ust. 1, zakresie niezbędnym dla realizacji ich zadań ustawowych, szczególności celu ochrony bezpieczeństwa i porządku publicznego, zapobiegania i zwalczania zdarzeń oraz zagrożeń o charakterze terrorystycznym lub prowadzenia działań kontrterrorystycznych, jeżeli podmioty te są uprawnione na podstawie ustawy do przetwarzania informacji, tym danych osobowych, wchodzących zakres informacji kryminalnych celu realizacji określonego zadania.”;
-
-- **3)** art. 4 pkt 4 otrzymuje brzmienie: „4) przetwarzanie informacji kryminalnych oznacza przetwarzanie rozumieniu art. 4 pkt 14 ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2019 r. poz. 125);”;
-- **4)** art. 5:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Organem administracji rządowej właściwym sprawach przetwarzania i przekazywania informacji kryminalnych jest Komendant Główny Policji.”,
-    - **b)** po ust. 1 dodaje się ust. 1a brzmieniu: „1a. Komendant Główny Policji jest administratorem danych osobowych, przetwarzanych celu, o którym mowa art. 1 pkt 1 ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych związku z zapobieganiem i zwalczaniem przestępczości.”;
-
-- **5)** art. 6:
-    - **a)** pkt 1 otrzymuje brzmienie: „1) przetwarzanie i przekazywanie informacji kryminalnych;”,
-    - **b)** pkt 4 otrzymuje brzmienie: „4) zapewnienie bezpieczeństwa przetwarzanym Centrum informacjom kryminalnym, zgodnie z przepisami ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych związku z zapobieganiem i zwalczaniem przestępczości oraz przepisami ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2018 r. poz. 412, 650, 1000, 1083 i 1669).”;
-
-- **6)** art. 13 ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „Zakres przetwarzanych informacji kryminalnych obejmuje następujące dane:”;
-- **7)** art. 16 ust. 1 otrzymuje brzmienie: „1. W bazach danych gromadzi się informacje kryminalne otrzymane od podmiotów zobowiązanych, o których mowa art. 20, przekazane odpowiedzi na zapytanie lub z własnej inicjatywy.”;
-    - **a)** uchyla się ust. 1,
-    - **b)** ust. 2 otrzymuje brzmienie: „2. W zakresie nieuregulowanym niniejszej ustawie do przetwarzania i przekazywania informacji kryminalnych stosuje się przepisy ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych związku z zapobieganiem i zwalczaniem przestępczości.”;
-
-- **9)** tytuł rozdziału 4 otrzymuje brzmienie: „Przetwarzanie i analiza informacji kryminalnych”;
-- **10)** art. 29 ust. 2 otrzymuje brzmienie: „2. Na wniosek organu Policji, o którym mowa art. 5b ust. 2 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2017 r. poz. 2067, z późn. zm. ), zwanej dalej „ustawą o Policji”, lub organu Straży Granicznej, o którym mowa art. 3c ust. 2 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2017 r. poz. 2365, z późn. zm. ), zwanej dalej „ustawą o Straży Granicznej”, przypadku udostępnienia informacji kryminalnej zakresie realizacji zadań ustawowych określonych art. 5b ust. 1 ustawy o Policji lub art. 3c ust. 1 ustawy o Straży Granicznej przepisu ust. 1 nie stosuje się.”;
-- **11)** art. 33 ust. 1 po pkt 2 dodaje się przecinek i pkt 3 brzmieniu: „3) realizacja zadań ustawowych zakresie ochrony bezpieczeństwa i porządku publicznego, zapobieganie i zwalczanie zdarzeń oraz zagrożeń o charakterze terrorystycznym lub prowadzenie działań kontrterrorystycznych”.
-
-**Art. 71.** W ustawie z dnia 27 lipca 2001 r. Prawo o ustroju sądów powszechnych (Dz. U. z 2019 r. poz. 52, 55 i 60) wprowadza się następujące zmiany:
+**Art. 71.** W ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2019 r. poz. 52, 55 i 60) wprowadza się następujące zmiany:
 
 **Art. 72.** W ustawie z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. z 2018 r. poz. 430, 650, 1544 i 2399 oraz z 2019 r. poz. 53) wprowadza się następujące zmiany:
 
@@ -259,7 +232,7 @@ Art. 56–97. (pominięte)
 
 **Art. 74.** W ustawie z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2018 r. poz. 2387, 2245 i 2399 oraz z 2019 r. poz. 53) art. 34 ust. 1 otrzymuje brzmienie: „1. W zakresie swojej właściwości Agencje mogą zbierać, także niejawnie, wszelkie dane osobowe, tym również, jeżeli jest to uzasadnione charakterem realizowanych zadań, dane wskazane art. 14 ust. 1 ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2019 r. poz. 125), a także korzystać z danych osobowych i innych informacji uzyskanych wyniku wykonywania czynności operacyjno-rozpoznawczych przez uprawnione do tego organy, służby i instytucje państwowe oraz przetwarzać je bez wiedzy i zgody osoby, której te dane dotyczą.”.
 
-**Art. 75.** W ustawie z dnia 25 lipca 2002 r. Prawo o ustroju sądów administracyjnych (Dz. U. z 2018 r. poz. 2107) po art. 12 dodaje się art. 12a i art. 12b brzmieniu: „Art. 12a. § 1. Sądy administracyjne są administratorami danych osobowych przetwarzanych postępowaniach sądowych.
+**Art. 75.** W ustawie z dnia 25 lipca 2002 r. – Prawo o ustroju sądów administracyjnych (Dz. U. z 2018 r. poz. 2107) po art. 12 dodaje się art. 12a i art. 12b brzmieniu: „Art. 12a. § 1. Sądy administracyjne są administratorami danych osobowych przetwarzanych postępowaniach sądowych.
 
 **Art. 12b.**
 
@@ -267,9 +240,10 @@ Art. 56–97. (pominięte)
 
 § 2. Nadzór nad przetwarzaniem danych osobowych przez Naczelny Sąd Administracyjny postępowaniach sądowych sprawuje Krajowa Rada Sądownictwa.
 
-§ 3. Do nadzoru, o którym mowa § 1 i 2, przepisy art. 175dd § 2 i 3 oraz działu I rozdziału 5a ustawy z dnia 27 lipca 2001 r. Prawo o ustroju sądów powszechnych stosuje się odpowiednio.”.
+§ 3. Do nadzoru, o którym mowa § 1 i 2, przepisy art. 175dd § 2 i 3 oraz działu I rozdziału 5a ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych stosuje się odpowiednio.”. „Art. 60a. 1. Straż ochrony kolei celu realizacji ustawowych zadań może przetwarzać dane osobowe także bez wiedzy i zgody osoby, której dane te dotyczą, uzyskane:
 
-**Art. 76.** W ustawie z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2017 r. poz. 2117, z późn. zm. ) po art. 60 dodaje się art. 60a brzmieniu: „Art. 60a. 1. Straż ochrony kolei celu realizacji ustawowych zadań może przetwarzać dane osobowe także bez wiedzy i zgody osoby, której dane te dotyczą, uzyskane:
+- **1)** wyniku wykonywania czynności podejmowanych postępowaniu sprawach o wykroczenia;
+- **2)** z rejestrów, ewidencji i zbiorów, do których straż ochrony kolei posiada dostęp na podstawie odrębnych przepisów. 2. Administratorem danych osobowych przetwarzanych przez straż ochrony kolei jest komendant straży ochrony kolei.”.
 
 **Art. 77.** W ustawie z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych (Dz. U. z 2018 r. poz. 473 i 2448) art. 104 ust. 1 pkt 10 otrzymuje brzmienie: „10) Policji, o ile są niezbędne toczącym się postępowaniu lub na potrzeby wykonywania czynności operacyjno-rozpoznawczych na zasadach i trybie określonym art. 20 ust. 1d i 1e ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2017 r. poz. 2067, z późn. zm. );”.
 
@@ -281,7 +255,7 @@ Art. 56–97. (pominięte)
 
 **Art. 9.** Prezes Urzędu Ochrony Danych Osobowych przypadku, o którym mowa art. 34 ust. 4 rozporządzenia (WE) nr 1987/2006 Parlamentu Europejskiego i Rady z dnia 20 grudnia 2006 r. sprawie utworzenia, funkcjonowania i użytkowania Systemu Informacyjnego Schengen drugiej generacji (SIS II) oraz art. 49 ust. 4 decyzji Rady 2007/533/WSiSW z dnia 12 czerwca 2007 r. sprawie utworzenia, funkcjonowania i użytkowania Systemu Informacyjnego Schengen drugiej generacji (SIS II), jest organem uprawnionym do przekazania sprawy Europejskiemu Inspektorowi Ochrony Danych, celu podjęcia działań mediacyjnych.
 
-**Art. 10.** Administratorem danych osobowych przetwarzanych poprzez Krajowy System Informatyczny (KSI) jest Centralny organ techniczny KSI.”; „2. Decyzje podejmowane przez właściwe organy celu rozpatrzenia wniosku wizowego, sprawdzenia autentyczności wizy lub spełnienia warunków wjazdu lub pobytu na terytorium Rzeczypospolitej Polskiej lub Państw Członkowskich mogą się opierać wyłącznie na zautomatyzowanym przetwarzaniu danych osobowych.”;
+**Art. 10.** Administratorem danych osobowych przetwarzanych poprzez Krajowy System Informatyczny (KSI) jest Centralny organ techniczny KSI.”;
 
 **Art. 31.**
 
@@ -326,7 +300,9 @@ Art. 56–97. (pominięte)
 
 1. Podmiot zobowiązany, który stwierdził nieprawidłowość przekazywanej przez siebie informacji, tym danych osobowych, dotyczących bezpieczeństwa imprez masowych, zawiadamia o tym niezwłocznie Komendanta.
 
-2. W przypadku, o którym mowa ust. 1, Komendant niezwłocznie zawiadamia o nieprawidłowości informacji, tym danych osobowych, dotyczących bezpieczeństwa imprez masowych podmioty uprawnione, które tę informację od niego otrzymały. chowuje przez okres 10 lat.
+2. W przypadku, o którym mowa ust. 1, Komendant niezwłocznie zawiadamia o nieprawidłowości informacji, tym danych osobowych, dotyczących bezpieczeństwa imprez masowych podmioty uprawnione, które tę informację od niego otrzymały.
+
+**Art. 48.** Informacje, tym dane osobowe, dotyczące bezpieczeństwa imprez masowych Komendant przechowuje przez okres 10 lat.
 
 **Art. 49.** Informacje, tym dane osobowe, dotyczące bezpieczeństwa imprez masowych podlegają niezwłocznemu usunięciu ze zbioru danych, jeżeli:
 
@@ -334,9 +310,9 @@ Art. 56–97. (pominięte)
 
 **Art. 24b.**
 
-1. Służba Więzienna związku z realizacją zadań, o których mowa art. 2 ust. 1, 2 i 2b, oraz zadań wynikających z odrębnych ustaw jest uprawniona do przetwarzania danych osobowych i informacji o kandydatach do służby Służbie Więziennej, pracownikach oraz funkcjonariuszach zakresie niezbędnym do realizacji postępowania kwalifikacyjnego oraz stosunku pracy i służby Służbie Więziennej. 2016 r. sprawie ochrony osób fizycznych związku z przetwarzaniem danych osobowych i sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 2016/679”, zakresie, jakim przepisy szczególne przewidują odrębny tryb sprostowania. Zabezpieczenie przetwarzania danych osobowych polega co najmniej na dopuszczeniu do ich przetwarzania wyłącznie funkcjonariuszy lub pracowników posiadających pisemne upoważnienie wydane przez administratora danych po pisemnym zobowiązaniu funkcjonariuszy lub pracowników do zachowania przetwarzanych danych poufności.
+1. Służba Więzienna związku z realizacją zadań, o których mowa art. 2 ust. 1, 2 i 2b, oraz zadań wynikających z odrębnych ustaw jest uprawniona do przetwarzania danych osobowych i informacji o kandydatach do służby Służbie Więziennej, pracownikach oraz funkcjonariuszach – zakresie niezbędnym do realizacji postępowania kwalifikacyjnego oraz stosunku pracy i służby Służbie Więziennej.
 
-3. Informacji dotyczących danych osobowych funkcjonariuszy oraz pracowników nie udziela się na wniosek osób pozbawionych wolności lub innych podmiotów.
+2. Przetwarzanie danych osobowych, o których mowa ust. 1, następuje z wyłączeniem stosowania art. 13 ust. 1 lit. d i e oraz art. 16 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. sprawie ochrony osób fizycznych związku z przetwarzaniem danych osobowych i sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 2016/679”, zakresie, jakim przepisy szczególne przewidują odrębny tryb sprostowania. Zabezpieczenie przetwarzania danych osobowych polega co najmniej na dopuszczeniu do ich przetwarzania wyłącznie funkcjonariuszy lub pracowników posiadających pisemne upoważnienie wydane przez administratora danych po pisemnym zobowiązaniu funkcjonariuszy lub pracowników do zachowania przetwarzanych danych poufności.
 
 4. Informacje o ograniczeniach stosowaniu rozporządzenia 2016/679 udostępnia się na stronie podmiotowej Biuletynu Informacji Publicznej Służby Więziennej.”;
 
@@ -349,19 +325,19 @@ Art. 56–97. (pominięte)
 
 2. W Centralnej Bazie przetwarza się informacje niezbędne do realizacji ustawowych zadań wykonywanych przez Służbę Więzienną, dotyczące:
 
-- **1)** osób, o których mowa art. 24 ust. 4 pkt 1, obejmujące: Kodeks karny wykonawczy,
+- **1)** osób, o których mowa art. 24 ust. 4 pkt 1, obejmujące:
     - **a)** dane osobowe, takie jak: imiona, nazwisko, poprzednio używane imiona i nazwiska, pseudonimy, imiona i nazwiska rodziców, nazwisko rodowe matki, datę i miejsce urodzenia, numer Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL), aktualne i poprzednie adresy zameldowania, zamieszkania lub pobytu, także czasowego, obywatelstwo,
     - **b)** informacje pozwalające na identyfikację osoby pozbawionej wolności, tym dane biometryczne,
-    - **c)** informacje wynikające z orzeczeń i innych dokumentów przesłanych przez sąd do zakładu karnego lub aresztu śledczego, tym informacje, o których mowa art. 11 § 2 ustawy z dnia 6 czerwca 1997 r.
+    - **c)** informacje wynikające z orzeczeń i innych dokumentów przesłanych przez sąd do zakładu karnego lub aresztu śledczego, tym informacje, o których mowa art. 11 § 2 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy,
     - **d)** informacje dotyczące stawienia się skazanego lub ukaranego do odbycia kary we właściwym zakładzie karnym lub areszcie śledczym,
-    - **e)** informacje dotyczące osoby pozbawionej wolności zebrane trybie art. 14 § 1 ustawy z dnia 6 czerwca 1997 r. Kodeks karny wykonawczy,
-    - **f)** informacje związane z pobytem osoby pozbawionej wolności zakładzie karnym lub areszcie śledczym, szczególności: informacje o wprowadzonych do wykonania orzeczeniach oraz okresach wykonywania pozbawienia wolności, tym także poza zakładem karnym lub aresztem śledczym, oraz inne informacje mające wpływ na ustalenie terminu końca kary lub środka przymusu, informacje niezbędne do dokonania prawidłowej klasyfikacji, rozmieszczenia wewnątrz zakładu karnego lub aresztu śledczego oraz indywidualnego postępowania zmierzającego do realizacji celów, jakim ma służyć wykonanie kar pozbawienia wolności, środków przymusu skutkujących pozbawieniem wolności oraz tymczasowego aresztowania, tym szczególności informacje: o których mowa art. 82 § 2 ustawy z dnia 6 czerwca 1997 r. Kodeks karny wykonawczy, wynikające z badań osobopoznawczych, o których mowa art. 82 § 3 i art. 212c § 1 zdanie pierwsze ustawy z dnia 6 czerwca 1997 r. Kodeks karny wykonawczy, dotyczące diagnoz psychologicznych oraz udzielonej pomocy psychologicznej i terapeutycznej, informacje o zakwalifikowaniu osoby pozbawionej wolności jako osoby stwarzającej poważne zagrożenie społeczne albo poważne zagrożenie dla bezpieczeństwa zakładu karnego lub aresztu śledczego, izolacji i zabezpieczenia, dane dotyczące zdrowia, tym o korzystaniu z usług opieki zdrowotnej, ujawniające informacje o stanie zdrowia, informacje dotyczące wykształcenia, zawodu, innych kwalifikacji zawodowych oraz nauki, tym miejsca jej pobierania, informacje dotyczące wniosków, skarg i próśb złożonych przez osobę pozbawioną wolności, oznaczenia i cechy identyfikacyjne dokumentów, tym dokumentów stwierdzających tożsamość, przekazanych do depozytu zakładu karnego lub aresztu śledczego, informacje o rozmieszczeniu wewnątrz zakładu karnego lub aresztu śledczego, przenoszeniu między zakładami karnymi i aresztami śledczymi, o przebywaniu poza terenem tych zakładów lub aresztów pod konwojem, o przepustce lub innym czasowym zezwoleniu na opuszczenie terenu zakładu karnego lub aresztu śledczego, wydaniu poza teren tego zakładu lub aresztu, tym do udziału czynnościach procesowych, o ucieczce z zakładu karnego lub aresztu śledczego, a także o tym, że wyznaczonym terminie osoba pozbawiona wolności nie powróciła z przepustki lub innego czasowego zezwolenia na opuszczenie terenu zakładu karnego lub aresztu śledczego, informacje dotyczące zgonu osoby pozbawionej wolności zakładzie karnym lub areszcie śledczym, informacje dotyczące zatrudnienia osoby pozbawionej wolności, informacje zakresie spraw prowadzonych szczególności związku z postępowaniem o zezwolenie na odbywanie kary systemie dozoru elektronicznego, warunkowe przedterminowe zwolnienie oraz przerwę wykonaniu kary,
+    - **e)** informacje dotyczące osoby pozbawionej wolności zebrane trybie art. 14 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy,
+    - **f)** informacje związane z pobytem osoby pozbawionej wolności zakładzie karnym lub areszcie śledczym, szczególności: – informacje o wprowadzonych do wykonania orzeczeniach oraz okresach wykonywania pozbawienia wolności, tym także poza zakładem karnym lub aresztem śledczym, oraz inne informacje mające wpływ na ustalenie terminu końca kary lub środka przymusu, – informacje niezbędne do dokonania prawidłowej klasyfikacji, rozmieszczenia wewnątrz zakładu karnego lub aresztu śledczego oraz indywidualnego postępowania zmierzającego do realizacji celów, jakim ma służyć wykonanie kar pozbawienia wolności, środków przymusu skutkujących pozbawieniem wolności oraz tymczasowego aresztowania, tym szczególności informacje: – – o których mowa art. 82 § 2 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy, – – wynikające z badań osobopoznawczych, o których mowa art. 82 § 3 i art. 212c § 1 zdanie pierwsze ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy, – – dotyczące diagnoz psychologicznych oraz udzielonej pomocy psychologicznej i terapeutycznej, – informacje o zakwalifikowaniu osoby pozbawionej wolności jako osoby stwarzającej poważne zagrożenie społeczne albo poważne zagrożenie dla bezpieczeństwa zakładu karnego lub aresztu śledczego, – informacje o objęciu osoby pozbawionej wolności szczególną ochroną warunkach zwiększonej izolacji i zabezpieczenia, – dane dotyczące zdrowia, tym o korzystaniu z usług opieki zdrowotnej, ujawniające informacje o stanie zdrowia, – informacje dotyczące wykształcenia, zawodu, innych kwalifikacji zawodowych oraz nauki, tym miejsca jej pobierania, – informacje dotyczące wniosków, skarg i próśb złożonych przez osobę pozbawioną wolności, – oznaczenia i cechy identyfikacyjne dokumentów, tym dokumentów stwierdzających tożsamość, przekazanych do depozytu zakładu karnego lub aresztu śledczego, zakładami karnymi i aresztami śledczymi, o przebywaniu poza terenem tych zakładów lub aresztów pod konwojem, o przepustce lub innym czasowym zezwoleniu na opuszczenie terenu zakładu karnego lub aresztu śledczego, wydaniu poza teren tego zakładu lub aresztu, tym do udziału czynnościach procesowych, o ucieczce z zakładu karnego lub aresztu śledczego, a także o tym, że wyznaczonym terminie osoba pozbawiona wolności nie powróciła z przepustki lub innego czasowego zezwolenia na opuszczenie terenu zakładu karnego lub aresztu śledczego, – informacje dotyczące zgonu osoby pozbawionej wolności zakładzie karnym lub areszcie śledczym, – informacje dotyczące zatrudnienia osoby pozbawionej wolności, – informacje zakresie spraw prowadzonych szczególności związku z postępowaniem o zezwolenie na odbywanie kary systemie dozoru elektronicznego, warunkowe przedterminowe zwolnienie oraz przerwę wykonaniu kary,
     - **g)** informacje związane ze zwolnieniem osoby pozbawionej wolności z zakładu karnego lub aresztu śledczego, tym dotyczące zwolnienia skazanego lub ukaranego na przerwę wykonaniu kary,
     - **h)** inne informacje, jeżeli wynika to z przepisów szczególnych;
 
 - **2)** osób, o których mowa art. 24 ust. 4 pkt 2, obejmujące informacje, o których mowa pkt 1 lit. a–d;
 - **3)** osób, o których mowa art. 24 ust. 4 pkt 4, obejmujące:
-    - **a)** imię, nazwisko, jeżeli jest to konieczne adres miejsca zamieszkania,
+    - **a)** imię, nazwisko, jeżeli jest to konieczne – adres miejsca zamieszkania,
     - **b)** informacje umożliwiające identyfikację osoby, zawarte dokumentach stwierdzających tożsamość lub innych dokumentach,
     - **c)** informacje o udzieleniu widzenia lub wykonaniu innych czynności na terenie zakładu karnego lub aresztu śledczego,
     - **d)** inne informacje, jeżeli wynika to z przepisów szczególnych;
@@ -379,13 +355,13 @@ Art. 56–97. (pominięte)
     - **a)** bezpieczeństwo Centralnej Bazy, szczególności zabezpiecza przetwarzane niej informacje przed nieuprawnionym dostępem, zniszczeniem oraz utratą,
     - **b)** utrzymanie i niezbędne modyfikacje Centralnej Bazy.
 
+2. Informacje Centralnej Bazie:
+
 - **1)** przetwarza się przez okres, którym są niezbędne do realizacji ustawowych zadań wykonywanych przez Służbę Więzienną. Dyrektor Generalny dokonuje, nie rzadziej niż co 5 lat, weryfikacji potrzeby dalszego przetwarzania tych informacji, ustalając informacje zbędne;
 - **2)** uznane za zbędne, mogą być przetwarzane tylko celu realizacji obowiązku, o którym mowa pkt 3. Jeżeli przemawia za tym prawidłowość informacji przetwarzanych Centralnej Bazie, informacje uznane za zbędne mogą być przekształcone sposób uniemożliwiający przyporządkowanie poszczególnych danych do określonej lub możliwej do zidentyfikowania osoby fizycznej albo taki sposób, że przyporządkowanie takie wymagałoby niewspółmiernych kosztów, czasu lub działań;
 - **3)** stanowią materiały archiwalne rozumieniu art. 1 ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2018 r. poz. 217, 357, 398 i 650 oraz z 2019 r. poz. 55).
 
-3. Utrzymanie i niezbędne modyfikacje Centralnej Bazy są finansowane z budżetu państwa, z części, której dysponentem jest Minister Sprawiedliwości.
-
-4. Dyrektor Generalny powierza, drodze zarządzenia, o którym mowa ust. 5, podległym jednostkom organizacyjnym, przetwarzanie danych osobowych Centralnej Bazie, zakresie niezbędnym do realizacji ustawowych zadań Służby Więziennej.
+3. Utrzymanie i niezbędne modyfikacje Centralnej Bazy są finansowane z budżetu państwa, z części, której dysponentem jest Minister Sprawiedliwości. wych zadań Służby Więziennej.
 
 5. Dyrektor Generalny określi, drodze zarządzenia, sposób oraz szczegółowe warunki użytkowania jednostkach organizacyjnych Centralnej Bazy, tym warunki powierzenia tym jednostkom danych osobowych przetwarzanych Centralnej Bazie, mając na względzie prawidłową realizację zadań związanych z przetwarzaniem informacji Centralnej Bazie oraz jej funkcjonowaniem.
 
@@ -412,8 +388,8 @@ Art. 56–97. (pominięte)
 
 2. O zgodę, o której mowa ust. 1, występuje:
 
-- **1)** Minister Sprawiedliwości imieniu podmiotów, o których mowa ust. 1 pkt 1;
-- **2)** Prokurator Generalny imieniu podmiotów, o których mowa ust. 1 pkt 2.
+- **1)** Minister Sprawiedliwości – imieniu podmiotów, o których mowa ust. 1 pkt 1;
+- **2)** Prokurator Generalny – imieniu podmiotów, o których mowa ust. 1 pkt 2.
 
 **Art. 25d.**
 
@@ -421,6 +397,7 @@ Art. 56–97. (pominięte)
 
 - **1)** posiadają urządzenia umożliwiające odnotowanie systemie kto, kiedy, jakim celu oraz jakie informacje uzyskał;
 - **2)** posiadają zabezpieczenia techniczne i organizacyjne uniemożliwiające wykorzystanie informacji niezgodnie z celem ich uzyskania;
+- **3)** jest to uzasadnione specyfiką lub zakresem wykonywanych zadań albo prowadzonej działalności;
 - **4)** po stronie tych podmiotów oraz Służby Więziennej istnieją warunki techniczne.
 
 2. Warunki udostępniania informacji podmiotowi wymienionemu art. 25c ust. 1 pkt 16 określa Dyrektor Generalny, decyzji, o której mowa ust. 1, mając na względzie:
@@ -429,9 +406,7 @@ Art. 56–97. (pominięte)
 - **2)** konieczność wprowadzenia zabezpieczeń technicznych i organizacyjnych uniemożliwiających wykorzystanie informacji niezgodnie z celem ich uzyskania;
 - **3)** zasady przetwarzania informacji Centralnej Bazie przez Służbę Więzienną.
 
-3. Informacje z Centralnej Bazy Dyrektor Generalny udostępnia takim zakresie, określonym decyzji, o której mowa ust. 1, jakim są one niezbędne do realizacji zadań ustawowych.
-
-**Art. 25e.** Dyrektor Generalny, po wyrażeniu zgody drodze decyzji, o której mowa art. 25d ust. 1, umożliwia wielokrotne, nieograniczone czasie udostępnianie informacji z Centralnej Bazy, zakresie określonym tej decyzji, za pośrednictwem systemu teleinformatycznego, bez konieczności każdorazowego składania wniosku.
+3. Informacje z Centralnej Bazy Dyrektor Generalny udostępnia takim zakresie, określonym decyzji, o której mowa ust. 1, jakim są one niezbędne do realizacji zadań ustawowych. tej decyzji, za pośrednictwem systemu teleinformatycznego, bez konieczności każdorazowego składania wniosku.
 
 **Art. 25f.**
 
@@ -465,9 +440,11 @@ Art. 56–97. (pominięte)
 
 **Art. 25h.** Minister Sprawiedliwości i minister właściwy do spraw wewnętrznych określą, drodze rozporządzenia, zakres informacji Centralnej Bazie, do których bezpośredni dostęp posiada punkt kontaktowy, o którym mowa art. 4 ust. 1 ustawy z dnia 16 września 2011 r. o wymianie informacji z organami ścigania państw członkowskich Unii Europejskiej, państw trzecich, agencjami Unii Europejskiej oraz organizacjami międzynarodowymi (Dz. U. z 2018 r. poz. 484 oraz z 2019 r. poz. 125), celu ich wymiany z organami ścigania innych państw na zasadach i trybie określonych przepisach tej ustawy, mając na względzie konieczność zapewnienia dostępu do informacji niezbędnych do wykonywania zadań przez ten punkt kontaktowy oraz potrzebę zapewnienia bezpieczeństwa i ochrony danych osobowych przetwarzanych Centralnej Bazie.
 
+**Art. 25i.** Korzystając z informacji z Centralnej Bazy, Dyrektor Generalny:
+
 **Art. 25j.** Minister Sprawiedliwości porozumieniu z ministrem właściwym do spraw wewnętrznych oraz Ministrem Obrony Narodowej może określić, drodze rozporządzenia:
 
-**Art. 83.** W ustawie z dnia 9 kwietnia 2010 r. o udostępnianiu informacji gospodarczych i wymianie danych gospodarczych (Dz. U. z 2018 r. poz. 470, z późn. zm. ) art. 25 ust. 1 pkt 3 otrzymuje brzmienie: „3) Komendant Główny Policji na zasadach i trybie określonym art. 20 ust. 1d i 1e ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2017 r. poz. 2067, z późn. zm. );”.
+**Art. 83.** W ustawie z dnia 9 kwietnia 2010 r. o udostępnianiu informacji gospodarczych i wymianie danych gospodarczych (Dz. U. z 2018 r. poz. 470, z późn. zm. ) art. 25 ust. 1 pkt 3 otrzymuje brzmienie: „3) Komendant Główny Policji – na zasadach i trybie określonym art. 20 ust. 1d i 1e ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2017 r. poz. 2067, z późn. zm. );”.
 
 **Art. 84.** W ustawie z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2018 r. poz. 412, 650, 1000, 1083 i 1669) art. 1 dodaje się ust. 4 i 5 brzmieniu: „4. Do danych osobowych stanowiących informacje niejawne nie stosuje się przepisów o ochronie danych osobowych. 5. Do danych osobowych stanowiących informacje niejawne stosuje się przepisy niniejszej ustawy.”.
 
@@ -481,11 +458,11 @@ Art. 56–97. (pominięte)
 
 - **1)** przekazanie jest niezbędne do celów, o których mowa art. 1 ust. 1 pkt 1;
 - **2)** dane osobowe są przekazywane administratorowi państwie trzecim lub organizacji międzynarodowej, który jest podmiotem właściwym do realizacji celów, o których mowa art. 1 ust. 1 pkt 1, z zastrzeżeniem art. 18e ust. 1;
-- **3)** państwo członkowskie Unii Europejskiej, które przekazało dane osobowe, wyraziło uprzednią zgodę na ich przekazanie do państwa trzeciego lub organizacji międzynarodowej, a przypadku dalszego przekazania tych danych do kolejnego państwa trzeciego lub organizacji międzynarodowej właściwy organ ścigania, który dokonał pierwotnego przekazania, lub inny właściwy organ ścigania tego samego państwa członkowskiego Unii Europejskiej zezwala na dalsze przekazanie po należytym uwzględnieniu całokształtu sprawy;
+- **3)** państwo członkowskie Unii Europejskiej, które przekazało dane osobowe, wyraziło uprzednią zgodę na ich przekazanie do państwa trzeciego lub organizacji międzynarodowej, a przypadku dalszego przekazania tych danych do kolejnego państwa trzeciego lub organizacji międzynarodowej właściwy organ ścigania,
 - **4)** Komisja Europejska przypadku, o którym mowa art. 18b ust. 1, uznała, że państwo trzecie, terytorium lub przynajmniej jeden sektor tym państwie trzecim, lub dana organizacja międzynarodowa zapewniają odpowiedni stopień ochrony danych osobowych;
 - **5)** razie braku decyzji Komisji, o której mowa art. 18b ust. 1:
-    - **a)** zostały zapewnione lub istnieją odpowiednie zabezpieczenia zgodnie z art. 18c przypadku gdy nie zostały spełnione warunki, o których mowa pkt 4,
-    - **b)** ma zastosowanie wyjątek szczególnych sytuacjach zgodnie z art. 18d przypadku gdy nie zostały spełnione warunki, o których mowa lit. a.
+    - **a)** zostały zapewnione lub istnieją odpowiednie zabezpieczenia zgodnie z art. 18c – przypadku gdy nie zostały spełnione warunki, o których mowa pkt 4,
+    - **b)** ma zastosowanie wyjątek szczególnych sytuacjach zgodnie z art. 18d – przypadku gdy nie zostały spełnione warunki, o których mowa lit. a.
 
 2. Przekazanie danych osobowych bez uprzedniej zgody innego państwa członkowskiego Unii Europejskiej, o której mowa ust. 1 pkt 3, jest dozwolone wyłącznie wtedy, gdy takiej uprzedniej zgody nie da się uzyskać odpowiednim terminie, a przekazanie jest:
 
@@ -502,15 +479,17 @@ Art. 56–97. (pominięte)
 
 **Art. 18b.**
 
-1. Dane osobowe mogą zostać przekazane do państwa trzeciego, terytorium lub przynajmniej jednego sektora tym państwie trzecim, lub danej organizacji międzynarodowej o ile Komisja Europejska drodze decyzji uznała, iż państwo trzecie, terytorium lub przynajmniej jeden określony sektor państwie trzecim, lub dana organizacja międzynarodowa zapewnia odpowiedni stopień ochrony danych osobowych.
+1. Dane osobowe mogą zostać przekazane do państwa trzeciego, terytorium lub przynajmniej jednego sektora tym państwie trzecim, lub danej organizacji międzynarodowej – o ile Komisja Europejska drodze decyzji uznała, iż państwo trzecie, terytorium lub przynajmniej jeden określony sektor państwie trzecim, lub dana organizacja międzynarodowa zapewnia odpowiedni stopień ochrony danych osobowych.
 
-2. Wydanie przez Komisję Europejską decyzji stwierdzającej, że państwo trzecie, terytorium lub przynajmniej jeden określony sektor państwie trzecim, lub organizacja międzynarodowa przestały zapewniać odpowiedni stopień ochrony danych osobowych nie wpływa na przekazywanie danych osobowych do danego państwa trzeciego, terytorium lub jednego lub więcej określonych sektorów tym państwie trzecim, lub do danej organizacji międzynarodowej na mocy art. 18c i art. 18d. mogą zostać przekazane do państwa trzeciego lub organizacji międzynarodowej, jeżeli przepisy prawa przewidują odpowiednie zabezpieczenia ochrony danych osobowych.
+2. Wydanie przez Komisję Europejską decyzji stwierdzającej, że państwo trzecie, terytorium lub przynajmniej jeden określony sektor państwie trzecim, lub organizacja międzynarodowa przestały zapewniać odpowiedni stopień ochrony danych osobowych – nie wpływa na przekazywanie danych osobowych do danego państwa trzeciego, terytorium lub jednego lub więcej określonych sektorów tym państwie trzecim, lub do danej organizacji międzynarodowej na mocy art. 18c i art. 18d.
+
+**Art. 18c.**
+
+1. W przypadku braku decyzji Komisji Europejskiej, o której mowa art. 18b ust. 1, dane osobowe mogą zostać przekazane do państwa trzeciego lub organizacji międzynarodowej, jeżeli przepisy prawa przewidują odpowiednie zabezpieczenia ochrony danych osobowych.
 
 2. W przypadku braku prawnie wiążącego aktu, o którym mowa ust. 1, dane osobowe mogą zostać przekazane do państwa trzeciego lub organizacji międzynarodowej, jeżeli administrator danych stwierdził, po przeanalizowaniu wszystkich okoliczności związanych z przekazaniem danych osobowych, że to państwo trzecie lub organizacja międzynarodowa zapewniają odpowiedni poziom zabezpieczenia ochrony danych osobowych, szczególności poufności przekazanych danych, celu, którym dane zostały przekazane, lub sposobu ich wykorzystania, tak aby nie zostały one użyte do wydania orzeczenia lub wykonania kary śmierci, lub innego rodzaju okrutnego lub nieludzkiego traktowania lub karania.
 
-3. Administrator danych dokumentuje fakt przekazania danych osobowych przypadkach, o których mowa ust. 2, oraz bez zbędnej zwłoki informuje Prezesa Urzędu Ochrony Danych Osobowych o tym fakcie.
-
-4. Podmiot uprawniony lub punkt kontaktowy, o ile realizuje zadanie określone art. 5 pkt 1, dokumentują, sposób określony ust. 5, fakt przekazania danych osobowych do państwa trzeciego lub organizacji międzynarodowej, które zostały przez administratora danych uznane, na podstawie ust. 2, za zapewniające odpowiedni poziom zabezpieczenia ochrony danych osobowych.
+3. Administrator danych dokumentuje fakt przekazania danych osobowych przypadkach, o których mowa ust. 2, oraz bez zbędnej zwłoki informuje Prezesa Urzędu Ochrony Danych Osobowych o tym fakcie. sposób określony ust. 5, fakt przekazania danych osobowych do państwa trzeciego lub organizacji międzynarodowej, które zostały przez administratora danych uznane, na podstawie ust. 2, za zapewniające odpowiedni poziom zabezpieczenia ochrony danych osobowych.
 
 5. Podmiot uprawniony lub punkt kontaktowy, o ile realizował zadanie określone art. 5 pkt 1, udostępnia Prezesowi Urzędu Ochrony Danych Osobowych, na każde jego żądanie, dokumentację obejmującą:
 
@@ -540,12 +519,16 @@ Art. 56–97. (pominięte)
 - **1)** datę i godzinę przekazania;
 - **2)** informacje o właściwym organie odbierającym;
 - **3)** uzasadnienie przekazania;
-- **4)** wyliczenie danych osobowych, jakie zostały przekazane. kach mogą zostać przekazane bezpośrednio odbiorcom mającym siedzibę państwach trzecich jedynie wówczas, gdy spełnione zostały łącznie następujące warunki:
+- **4)** wyliczenie danych osobowych, jakie zostały przekazane.
+
+**Art. 18e.**
+
+1. Z zastrzeżeniem wyjątków przewidzianych umowach międzynarodowych dotyczących współpracy policyjnej zawartych z państwami trzecimi, dane osobowe indywidualnych i konkretnych przypadkach mogą zostać przekazane bezpośrednio odbiorcom mającym siedzibę państwach trzecich jedynie wówczas, gdy spełnione zostały łącznie następujące warunki:
+
 - **1)** przekazanie jest niezbędne do wykonania prawnie określonego zadania podmiotu uprawnionego do celów, o których mowa art. 1 ust. 1 pkt 1;
 - **2)** podmiot uprawniony stwierdza, że podstawowe prawa i wolności danej osoby, której dane dotyczą, nie są nadrzędne wobec interesu publicznego przemawiającego za przedmiotowym przekazaniem;
 - **3)** podmiot uprawniony uznaje, że przekazanie organowi ścigania państwa trzeciego do celów, o których mowa art. 1 ust. 1 pkt 1, byłoby nieskuteczne lub niewłaściwe, szczególności z uwagi na niemożność zachowania odpowiedniego terminu;
 - **4)** organ ścigania państwa trzeciego zostaje o tym poinformowany bez zbędnej zwłoki, chyba że byłoby to nieskuteczne lub niewłaściwe;
-- **5)** podmiot uprawniony informuje odbiorcę o konkretnym celu, którym dane osobowe mają być wyłącznie przetwarzane przez odbiorcę, pod warunkiem że takie przetwarzanie jest niezbędne.
 
 2. Podmiot uprawniony lub punkt kontaktowy, o ile realizuje zadanie określone art. 5 pkt 1, dokumentują fakt przekazania danych osobowych na podstawie ust. 1 oraz niezwłocznie informują Prezesa Urzędu Ochrony Danych Osobowych o tym fakcie.
 
@@ -560,31 +543,39 @@ Art. 56–97. (pominięte)
 
 **Art. 86.** W ustawie z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym (Dz. U. z 2018 r. poz. 1466 i 1479) art. 2 ust. 2 pkt 10 kropkę zastępuje się średnikiem i dodaje się pkt 11 brzmieniu: „11) informatycznych nośników danych wykorzystywanych do przetwarzania danych osobowych, o których mowa ustawie z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2019 r. poz. 125).”.
 
-**Art. 87.** W ustawie z dnia 28 stycznia 2016 r. Prawo o prokuraturze (Dz. U. z 2017 r. poz. 1767 oraz z 2018 r. poz. 5, 1000, 1443 i 1669) po art. 191 dodaje się art. 191a brzmieniu: „Art. 191a. § 1. Nadzór nad przetwarzaniem danych osobowych ramach realizacji zadań określonych art. 2, których administratorami są powszechne jednostki organizacyjne prokuratury zgodnie z art. 13 § 6, wykonują zakresie działalności prokuratury:
+**Art. 87.** W ustawie z dnia 28 stycznia 2016 r. – Prawo o prokuraturze (Dz. U. z 2017 r. poz. 1767 oraz z 2018 r. poz. 5, 1000, 1443 i 1669) po art. 191 dodaje się art. 191a brzmieniu: „Art. 191a. § 1. Nadzór nad przetwarzaniem danych osobowych ramach realizacji zadań określonych art. 2, których administratorami są powszechne jednostki organizacyjne prokuratury zgodnie z art. 13 § 6, wykonują zakresie działalności prokuratury:
 
 **Art. 88.** W ustawie z dnia 13 kwietnia 2016 r. o bezpieczeństwie obrotu prekursorami materiałów wybuchowych (Dz. U. z 2018 r. poz. 410 i 1000) art. 9 otrzymuje brzmienie: „Art. 9. Do danych osobowych zgromadzonych systemie zgłaszania stosuje się przepisy ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2019 r. poz. 125).”.
 
 **Art. 89.** W ustawie z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2018 r. poz. 508, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 52c.** Organy KAS mogą przetwarzać dane osobowe bez wiedzy i zgody osób, których dane dotyczą.”;
+**Art. 52b.**
 
-**Art. 90.** W ustawie z dnia 30 listopada 2016 r. o organizacji i trybie postępowania przed Trybunałem Konstytucyjnym (Dz. U. poz. 2072) po art. 35 dodaje się art. 35a i art. 35b brzmieniu: „Art. 35a. 1. Trybunał jest administratorem danych osobowych przetwarzanych ramach prowadzonych przez niego postępowań. 2. Do przetwarzania danych osobowych postępowaniach prowadzonych przez Trybunał przepisów art. 15, art. 16 zakresie, jakim przepisy szczególne przewidują odrębny tryb sprostowania, oraz art. 18 i art. 19 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. sprawie ochrony osób fizycznych związku z przetwarzaniem danych osobowych i sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 2016/679”, nie stosuje się. 3. W związku z przetwarzaniem danych osobowych postępowaniach prowadzonych przez Trybunał wykonanie obowiązków, o których mowa art. 13 rozporządzenia 2016/679, następuje przez umieszczenie informacji określonych art. 13 ust. 2 rozporządzenia 2016/679 Biuletynie Informacji Publicznej na stronie podmiotowej oraz widocznym miejscu budynku Trybunału.
+1. Dane osobowe zbierane i przetwarzane przez KAS na podstawie rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. sprawie ochrony osób fizycznych związku z przetwarzaniem danych osobowych i sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ) mogą być przetwarzane przez organy KAS również dla celów określonych art. 1 pkt 1 ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych związku z zapobieganiem i zwalczaniem przestępczości.
+
+2. Dane osobowe przetwarzane przez KAS dla celów określonych art. 1 pkt 1 ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych związku z zapobieganiem i zwalczaniem przestępczości mogą być przetwarzane przez organy KAS również dla innych celów.
+
+**Art. 52c.** Organy KAS mogą przetwarzać dane osobowe bez wiedzy i zgody osób, których dane dotyczą.”; „Art. 126a. Przetwarzanie danych osobowych na podstawie niniejszej ustawy przez właściwe organy KAS celu realizowania zadań oraz wykonywania czynności, o których mowa art. 113 ust. 1, odbywa się na zasadach określonych ustawie z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych związku z zapobieganiem i zwalczaniem przestępczości, prawie Unii Europejskiej oraz postanowieniach umów międzynarodowych.”.
+
+**Art. 90.** W ustawie z dnia 30 listopada 2016 r. o organizacji i trybie postępowania przed Trybunałem Konstytucyjnym (Dz. U. poz. 2072) po art. 35 dodaje się art. 35a i art. 35b brzmieniu: „Art. 35a. 1. Trybunał jest administratorem danych osobowych przetwarzanych ramach prowadzonych przez niego postępowań. 2. Do przetwarzania danych osobowych postępowaniach prowadzonych przez Trybunał przepisów art. 15, art. 16 – zakresie, jakim przepisy szczególne przewidują odrębny tryb sprostowania, oraz art. 18 i art. 19 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. sprawie ochrony osób fizycznych związku z przetwarzaniem danych osobowych i sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 2016/679”, nie stosuje się. 3. W związku z przetwarzaniem danych osobowych postępowaniach prowadzonych przez Trybunał wykonanie obowiązków, o których mowa art. 13 rozporządzenia 2016/679, następuje przez umieszczenie informacji określonych art. 13 ust. 2 rozporządzenia 2016/679 Biuletynie Informacji Publicznej na stronie podmiotowej oraz widocznym miejscu budynku Trybunału.
 
 **Art. 35b.**
 
 1. Nadzór nad przetwarzaniem danych osobowych przez Trybunał ramach prowadzonych przez niego postępowań wykonuje Krajowa Rada Sądownictwa.
 
-2. Do nadzoru, o którym mowa ust. 1, przepisy art. 175dd § 2 i 3 oraz działu I rozdziału 5a ustawy z dnia 27 lipca 2001 r. Prawo o ustroju sądów powszechnych stosuje się odpowiednio.”.
+2. Do nadzoru, o którym mowa ust. 1, przepisy art. 175dd § 2 i 3 oraz działu I rozdziału 5a ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych stosuje się odpowiednio.”.
 
 **Art. 91.** W ustawie z dnia 9 marca 2017 r. o wymianie informacji podatkowych z innymi państwami (Dz. U. poz. 648 oraz z 2018 r. poz. 723, 1499 i 2193) po art. 6 dodaje się art. 6a brzmieniu: „Art. 6a. Do udostępniania informacji otrzymanych na podstawie ustawy oraz umów o unikaniu podwójnego opodatkowania, innych ratyfikowanych umów, których stroną jest Rzeczpospolita Polska, oraz innych umów międzynarodowych, których stroną jest Unia Europejska, a także porozumień zawartych na podstawie tych umów, nie stosuje się przepisów ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2019 r. poz. 125) zakresie, jakim jest to niezgodne z postanowieniami tych umów lub porozumień lub przepisami ustawy.”.
 
-**Art. 92.** W ustawie z dnia 20 lipca 2017 r. Prawo wodne (Dz. U. z 2018 r. poz. 2268) po art. 341 dodaje się art. 341a brzmieniu: „Art. 341a. Administratorem danych osobowych przetwarzanych celu, o którym mowa art. 1 pkt 1 ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2019 r. poz. 125), jest minister właściwy do spraw gospodarki wodnej lub organ wykonujący kontrolę.”.
+**Art. 92.** W ustawie z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2018 r. poz. 2268) po art. 341 dodaje się art. 341a brzmieniu: „Art. 341a. Administratorem danych osobowych przetwarzanych celu, o którym mowa art. 1 pkt 1 ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2019 r. poz. 125), jest minister właściwy do spraw gospodarki wodnej lub organ wykonujący kontrolę.”.
+
+**Art. 93.** W ustawie z dnia 8 grudnia 2017 r. o Sądzie Najwyższym (Dz. U. z 2018 r. poz. 5, z późn. zm. ) wprowadza się następujące zmiany:
 
 **Art. 94.** W ustawie z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2018 r. poz. 138, z późn. zm. ) wprowadza się następujące zmiany:
 
 **Art. 95.** W ustawie z dnia 26 stycznia 2018 r. o Straży Marszałkowskiej (Dz. U. poz. 729, 1669 i 2399) wprowadza się następujące zmiany:
 
-**Art. 96.** W ustawie z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. poz. 723, 1075, 1499 i 2215) wprowadza się następujące zmiany:
+**Art. 96.** W ustawie z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. poz. 723, 1075, 1499 i 2215) wprowadza się następujące zmiany: „3. Dane, o których mowa art. 14 ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2019 r. poz. 125), mogą być zbierane i wykorzystywane oraz przetwarzane przez Generalnego Inspektora wyłącznie przypadku, gdy jest to niezbędne ze względu na zakres wykonywanych zadań lub czynności.”;
 
 **Art. 97.** W ustawie z dnia 9 maja 2018 r. o przetwarzaniu danych dotyczących przelotu pasażera (Dz. U. poz. 894) wprowadza się następujące zmiany:
 
@@ -619,7 +610,7 @@ Art. 56–97. (pominięte)
 
 3. Projekty ustaw i rozporządzeń dotyczące danych osobowych przetwarzanych celu, o którym mowa art. 1 pkt 1, są przedstawiane do zaopiniowania Prezesowi Urzędu.
 
-**Art. 6.** W celu wykonania zadań, o których mowa art. 5 ust. 1 pkt 1 i 6–8, Prezes Urzędu może przeprowadzać kontrolę przetwarzania danych osobowych, zwaną dalej „kontrolą”. Do prowadzenia kontroli stosuje się odpowiednio przepisy rozdziału 9 ustawy z dnia 10 maja 2018 r. o ochronie danych osobowych (Dz. U. z 2019 r. poz. 1781), z wyłączeniem art. 79 ust. 1 pkt 2, art. 83, art. 84 ust. 4 i art. 85 tej ustawy. dalej „kontrolującym”, ma prawo wglądu do zbioru danych podlegającego kontroli oraz do innych dokumentów mających bezpośredni związek z przedmiotem kontroli. Kontrolujący ma prawo wglądu do zbioru danych oraz do innych dokumentów, o których mowa zdaniu pierwszym, jedynie obecności upoważnionego przedstawiciela właściwego organu, którym jest prowadzona kontrola.
+**Art. 6.** W celu wykonania zadań, o których mowa art. 5 ust. 1 pkt 1 i 6–8, Prezes Urzędu może przeprowadzać kontrolę przetwarzania danych osobowych, zwaną dalej „kontrolą”. Do prowadzenia kontroli stosuje się odpowiednio przepisy rozdziału 9 ustawy z dnia 10 maja 2018 r. o ochronie danych osobowych (Dz. U. z 2019 r. poz. 1781), z wyłączeniem art. 79 ust. 1 pkt 2, art. 83, art. 84 ust. 4 i art. 85 tej ustawy. bezpośredni związek z przedmiotem kontroli. Kontrolujący ma prawo wglądu do zbioru danych oraz do innych dokumentów, o których mowa zdaniu pierwszym, jedynie obecności upoważnionego przedstawiciela właściwego organu, którym jest prowadzona kontrola.
 
 **Art. 8.**
 
@@ -656,7 +647,7 @@ Art. 56–97. (pominięte)
 
 3. Przeprowadzenie przez inspektora ochrony danych sprawdzenia przypadku, o którym mowa ust. 1, nie wyłącza prawa Prezesa Urzędu do przeprowadzenia kontroli, o której mowa art. 7.
 
-**Art. 12.** Do postępowań sprawach objętych zakresem regulacji niniejszego rozdziału stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775), zwanej dalej „Kodeksem postępowania administracyjnego”, o ile przepisy niniejszej ustawy nie stanowią inaczej.
+**Art. 12.** Do postępowań sprawach objętych zakresem regulacji niniejszego rozdziału stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775), zwanej dalej „Kodeksem postępowania administracyjnego”, o ile przepisy niniejszej ustawy nie stanowią inaczej.
 
 #### Rozdział 3 Zasady dotyczące przetwarzania danych osobowych
 
@@ -691,7 +682,7 @@ Art. 56–97. (pominięte)
 
 **Art. 16.**
 
-1. Administrator dokonuje weryfikacji danych osobowych terminach określonych przez przepisy szczególne, regulujące działania właściwego organu, a jeżeli przepisy te nie określają terminu nie rzadziej niż co 10 lat od dnia zebrania, uzyskania, pobrania lub aktualizacji danych.
+1. Administrator dokonuje weryfikacji danych osobowych terminach określonych przez przepisy szczególne, regulujące działania właściwego organu, a jeżeli przepisy te nie określają terminu – nie rzadziej niż co 10 lat od dnia zebrania, uzyskania, pobrania lub aktualizacji danych.
 
 2. Weryfikacja dokonywana jest celu ustalenia, czy istnieją dane, których dalsze przechowywanie jest zbędne. Zbędne dane usuwa się, z zastrzeżeniem art. 17.
 
@@ -721,7 +712,7 @@ Art. 56–97. (pominięte)
 
 - **1)** podstawa prawna przetwarzania;
 - **2)** okres przechowywania danych osobowych lub, gdy nie jest to możliwe, kryteria służące określeniu tego okresu;
-- **3)** odbiorcy lub kategorii odbiorców, którym dane osobowe zostały ujawnione, szczególności odbiorcy państwach trzecich lub organizacjach międzynarodowych. dane są przetwarzane, a sytuacji ich przetwarzania prawo do informacji o:
+- **3)** odbiorcy lub kategorii odbiorców, którym dane osobowe zostały ujawnione, szczególności odbiorcy państwach trzecich lub organizacjach międzynarodowych.
 - **1)** celu i podstawie prawnej ich przetwarzania;
 - **2)** kategorii danych osobowych i danych, które są przetwarzane;
 - **3)** odbiorcach lub kategoriach odbiorców, którym dane osobowe zostały ujawnione, szczególności o odbiorcach państwach trzecich lub organizacjach międzynarodowych;
@@ -744,8 +735,8 @@ Art. 56–97. (pominięte)
 
 1. Osoba, której dane dotyczą, może wystąpić z wnioskiem do administratora o niezwłoczne:
 
-- **1)** uzupełnienie, uaktualnienie lub sprostowanie danych osobowych przypadku gdy dane te są niekompletne, nieaktualne lub nieprawdziwe;
-- **2)** usunięcie danych osobowych przypadku gdy dane te zostały zebrane lub są przetwarzane z naruszeniem przepisów niniejszej ustawy.
+- **1)** uzupełnienie, uaktualnienie lub sprostowanie danych osobowych – przypadku gdy dane te są niekompletne, nieaktualne lub nieprawdziwe;
+- **2)** usunięcie danych osobowych – przypadku gdy dane te zostały zebrane lub są przetwarzane z naruszeniem przepisów niniejszej ustawy.
 
 2. Uwzględniając wniosek, o którym mowa ust. 1, administrator bez zbędnej zwłoki odpowiednio uzupełnia, aktualizuje lub sprostowuje dane osobowe albo dokonuje ich usunięcia.
 
@@ -762,7 +753,7 @@ Art. 56–97. (pominięte)
 1. Jeżeli:
 
 - **1)** osoba, której dane dotyczą, kwestionuje prawidłowość danych osobowych, a ich prawidłowości lub nieprawidłowości nie można stwierdzić,
-- **2)** dane osobowe, które podlegają usunięciu, muszą zostać zachowane do celów dowodowych administrator jest obowiązany bez zbędnej zwłoki do czasowego ograniczenia przetwarzania kwestionowanych danych polegającego na nieudostępnianiu tych danych odbiorcom.
+- **2)** dane osobowe, które podlegają usunięciu, muszą zostać zachowane do celów dowodowych – administrator jest obowiązany bez zbędnej zwłoki do czasowego ograniczenia przetwarzania kwestionowanych danych polegającego na nieudostępnianiu tych danych odbiorcom.
 
 2. Administrator jest obowiązany poinformować bez zbędnej zwłoki właściwy organ, od którego pochodzą nieprawidłowe dane osobowe, o dokonanym sprostowaniu tych danych. wych, lub ograniczeniu ich przetwarzania. Odbiorcy są obowiązani do uaktualnienia, sprostowania lub usunięcia danych osobowych, lub ograniczenia ich przetwarzania.
 
@@ -800,7 +791,7 @@ Art. 56–97. (pominięte)
 4. Komunikacja prowadzona przez administratora z osobą, której dane dotyczą, na podstawie art. 15, art. 22–25 i art. 45 jest wolna od opłat. Jeżeli żądania osoby, której dane dotyczą, są nieuzasadnione lub nadmierne, zwłaszcza ze względu na ich powtarzalność, administrator może:
 
 - **1)** pobrać opłatę, pokrywającą administracyjne koszty udzielenia informacji, prowadzenia komunikacji lub podjęcia żądanych działań, lub
-- **2)** odmówić podjęcia działań związku z żądaniem. komunikacji lub podjęciem żądanych działań. Opłata pobierana przez administratora działającego ramach państwowej jednostki budżetowej albo samorządowej jednostki budżetowej stanowi odpowiednio dochód budżetu państwa albo jednostki samorządu terytorialnego.
+- **2)** odmówić podjęcia działań związku z żądaniem. jednostki budżetowej albo samorządowej jednostki budżetowej stanowi odpowiednio dochód budżetu państwa albo jednostki samorządu terytorialnego.
 
 6. Administrator bez zbędnej zwłoki, lecz nie później niż terminie do 14 dni od dnia złożenia wniosku, o którym mowa art. 22 ust. 4, art. 23 ust. 1 lub art. 24 ust. 1, powiadomi wnioskodawcę o wysokości opłaty, o której mowa ust. 4 pkt 1. Udzielenie informacji zgodnie z wnioskiem następuje terminie do 14 dni od uiszczenia opłaty, chyba że wnioskodawca dokona tym terminie zmiany wniosku co do zakresu żądanych danych, sposobu lub formy ich udostępnienia albo wycofa wniosek.
 
@@ -835,7 +826,7 @@ Art. 56–97. (pominięte)
 
 **Art. 32.**
 
-1. Administrator, czasie określania sposobów przetwarzania, jak i czasie samego przetwarzania, stosuje odpowiednie środki techniczne i organizacyjne, takie jak pseudonimizacja, które zostały zaprojektowane celu skutecznej realizacji zasad ochrony danych osobowych, takich jak minimalizacja danych, oraz celu nadania przetwarzaniu niezbędnych zabezpieczeń, tak aby spełnić wymogi niniejszej ustawy, chroniły prawa osób, których dane dotyczą, oraz uwzględniały stan wiedzy technicznej, koszt wdrożenia i charakter, zakres, kontekst i cele przetwarzania oraz ryzyko naruszenia praw lub wolności osób fizycznych o różnym prawdopodobieństwie i wadze zagrożenia wynikające z przetwarzania. twarzane wyłącznie te dane osobowe, które są niezbędne dla każdego konkretnego celu przetwarzania. Obowiązek ten ma zastosowanie do liczby zbieranych danych osobowych, zakresu ich przetwarzania, okresu ich przechowywania oraz ich dostępności. W szczególności środki te mają zapewnić, aby domyślnie dane osobowe nie były udostępniane bez interwencji osoby fizycznej nieokreślonej liczbie osób fizycznych lub innych podmiotów.
+1. Administrator, czasie określania sposobów przetwarzania, jak i czasie samego przetwarzania, stosuje odpowiednie środki techniczne i organizacyjne, takie jak pseudonimizacja, które zostały zaprojektowane celu skutecznej realizacji zasad ochrony danych osobowych, takich jak minimalizacja danych, oraz celu nadania przetwarzaniu niezbędnych zabezpieczeń, tak aby spełnić wymogi niniejszej ustawy, chroniły prawa osób, których dane dotyczą, oraz uwzględniały stan wiedzy technicznej, koszt wdrożenia i charakter, zakres, kontekst i cele przetwarzania oraz ryzyko naruszenia praw lub wolności osób fizycznych o różnym prawdopodobieństwie i wadze zagrożenia wynikające z przetwarzania. zastosowanie do liczby zbieranych danych osobowych, zakresu ich przetwarzania, okresu ich przechowywania oraz ich dostępności. W szczególności środki te mają zapewnić, aby domyślnie dane osobowe nie były udostępniane bez interwencji osoby fizycznej nieokreślonej liczbie osób fizycznych lub innych podmiotów.
 
 3. W polityce ochrony danych administrator określa odpowiednie środki techniczne oraz niezbędne zabezpieczenia stosowane przy przetwarzaniu danych osobowych celu realizacji czynności, o których mowa ust. 1 i 2.
 
@@ -847,7 +838,7 @@ Art. 56–97. (pominięte)
 
 - **1)** uzgadniają drodze pisemnego porozumienia podział swoich obowiązków, szczególności zakresie:
     - **a)** realizacji przez osobę, której dane dotyczą, przysługujących jej praw na mocy niniejszej ustawy,
-    - **b)** udzielania informacji, o których mowa art. 22 ust. 4 chyba że przepisy prawa, którym ci administratorzy podlegają, określają przypadające im obowiązki i ich zakres;
+    - **b)** udzielania informacji, o których mowa art. 22 ust. 4 – chyba że przepisy prawa, którym ci administratorzy podlegają, określają przypadające im obowiązki i ich zakres;
 
 - **2)** wyznaczają punkt kontaktowy dla osób, których dane dotyczą, celu realizacji obowiązku, o którym mowa pkt 1 lit. a.
 
@@ -877,7 +868,7 @@ Art. 56–97. (pominięte)
 - **4)** pomagać administratorowi przestrzeganiu przepisów określających prawa osoby, której dane dotyczą;
 - **5)** po zakończeniu świadczenia usługi przetwarzania danych, zależności od decyzji administratora:
     - **a)** usunąć lub zwrócić administratorowi wszelkie dane osobowe oraz
-    - **b)** usunąć wszelkie istniejące kopie danych osobowych chyba że przepisy prawa wymagają przechowywania danych osobowych;
+    - **b)** usunąć wszelkie istniejące kopie danych osobowych – chyba że przepisy prawa wymagają przechowywania danych osobowych;
 
 - **6)** udostępniać administratorowi wszelkie informacje związane z weryfikacją prawidłowości realizacji umowy powierzenia, o której mowa ust. 1;
 - **7)** przestrzegać warunków korzystania z usług innego podmiotu przetwarzającego, któremu powierzył przetwarzanie danych osobowych. zowo wyłącznie na podstawie pisemnej umowy, przypadku gdy umowa, o której mowa ust. 1, przewiduje takie prawo, na warunkach i zakresie przez nią określonym.
@@ -894,17 +885,17 @@ Art. 56–97. (pominięte)
 
 - **1)** imię i nazwisko lub nazwę oraz dane kontaktowe:
     - **a)** administratora,
-    - **b)** współadministratora przypadku, o którym mowa art. 33 ust. 1,
+    - **b)** współadministratora – przypadku, o którym mowa art. 33 ust. 1,
     - **c)** inspektora ochrony danych,
-    - **d)** podmiotu przetwarzającego przypadku, o którym mowa art. 34 ust. 2 i 6;
+    - **d)** podmiotu przetwarzającego – przypadku, o którym mowa art. 34 ust. 2 i 6;
 
 - **2)** cele przetwarzania;
 - **3)** kategorie odbiorców, którym dane osobowe zostały lub zostaną ujawnione, tym odbiorców państwach trzecich lub organizacjach międzynarodowych;
 - **4)** opis kategorii osób, których dane osobowe dotyczą, oraz kategorii danych osobowych;
-- **5)** informacje o stosowaniu profilowania przypadku gdy zostało ono zastosowane;
-- **6)** kategorie przekazań danych osobowych do państwa trzeciego lub organizacji międzynarodowej przypadku gdy przekazanie nastąpiło;
+- **5)** informacje o stosowaniu profilowania – przypadku gdy zostało ono zastosowane;
+- **6)** kategorie przekazań danych osobowych do państwa trzeciego lub organizacji międzynarodowej – przypadku gdy przekazanie nastąpiło;
 - **7)** wskazanie podstawy prawnej operacji przetwarzania, tym przekazań, do których dane osobowe są przeznaczone;
-- **8)** planowane terminy usunięcia poszczególnych kategorii danych jeżeli jest to możliwe;
+- **8)** planowane terminy usunięcia poszczególnych kategorii danych – jeżeli jest to możliwe;
 - **9)** ogólny opis technicznych i organizacyjnych środków zapewniających ochronę przetwarzanych danych osobowych, o których mowa art. 39, jeżeli jest to możliwe.
 
 3. Podmiot przetwarzający prowadzi wykaz kategorii czynności przetwarzania dokonywanych imieniu administratora.
@@ -917,7 +908,7 @@ Art. 56–97. (pominięte)
     - **c)** inspektora ochrony danych;
 
 - **2)** kategorie przetwarzań dokonywanych imieniu każdego z administratorów;
-- **3)** przypadki przekazania danych osobowych do państw trzecich lub organizacji międzynarodowej, razie jednoznacznego polecenia administratora, łącznie z nazwą tego państwa trzeciego lub organizacji międzynarodowej przypadku gdy przekazanie nastąpiło;
+- **3)** przypadki przekazania danych osobowych do państw trzecich lub organizacji międzynarodowej, razie jednoznacznego polecenia administratora, łącznie z nazwą tego państwa trzeciego lub organizacji międzynarodowej – przypadku gdy przekazanie nastąpiło;
 - **4)** ogólny opis technicznych i organizacyjnych środków bezpieczeństwa, o których mowa art. 39, miarę możliwości.
 
 5. Wykazy, o których mowa ust. 1 i 3, prowadzi się formie pisemnej, postaci papierowej albo elektronicznej.
@@ -936,8 +927,8 @@ Art. 56–97. (pominięte)
 3. Ewidencja jest prowadzona automatycznie, sposób pozwalający ustalić zasadność operacji oparciu o informacje wskazujące:
 
 - **1)** datę i godzinę operacji;
-- **2)** tożsamość osoby, która przeglądała lub ujawniła dane osobowe miarę możliwości;
-- **3)** tożsamość odbiorców danych osobowych miarę możliwości.
+- **2)** tożsamość osoby, która przeglądała lub ujawniła dane osobowe – miarę możliwości;
+- **3)** tożsamość odbiorców danych osobowych – miarę możliwości.
 
 4. W ewidencji, która nie jest prowadzona sposób automatyczny, dodatkowo zamieszcza się informację uzasadniającą zasadność operacji.
 
@@ -952,7 +943,7 @@ Art. 56–97. (pominięte)
 
 **Art. 37.**
 
-1. Jeżeli dany rodzaj przetwarzania danych osobowych, szczególności z użyciem nowych technologii, ze względu na swój charakter, zakres, kontekst i cele może skutkować powstaniem wysokiego ryzyka naruszenia praw i wolności osób fizycznych, administrator przed przetworzeniem danych osobowych dokonuje oceny skutków planowanych operacji przetwarzania dla ochrony danych osobowych.
+1. Jeżeli dany rodzaj przetwarzania danych osobowych, szczególności z użyciem nowych technologii, ze względu na swój charakter, zakres, kontekst i cele może skutkować powstaniem wysokiego ryzyka naruszenia praw i wolności osób fizycznych, administrator – przed przetworzeniem danych osobowych – dokonuje oceny skutków planowanych operacji przetwarzania dla ochrony danych osobowych.
 
 2. Ocena, o której mowa ust. 1, zawiera co najmniej:
 
@@ -973,7 +964,7 @@ Art. 56–97. (pominięte)
 2. Prezes Urzędu może sporządzić wykaz operacji przetwarzania, które wymagają uprzednich konsultacji zgodnie z ust. 1. Wykaz ten Prezes Urzędu ogłasza formie komunikatu Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
 
 - **1)** ocenę, o której mowa art. 37 ust. 1, oraz
-- **2)** na żądanie Prezesa Urzędu wszelkie inne informacje umożliwiające Prezesowi Urzędu ocenę zgodności przetwarzania z przepisami prawa, a szczególności ocenę ryzyka sferze ochrony danych osobowych osoby, której dane dotyczą, oraz powiązanych zabezpieczeń.
+- **2)** na żądanie Prezesa Urzędu – wszelkie inne informacje umożliwiające Prezesowi Urzędu ocenę zgodności przetwarzania z przepisami prawa, a szczególności ocenę ryzyka sferze ochrony danych osobowych osoby, której dane dotyczą, oraz powiązanych zabezpieczeń.
 
 4. Jeżeli Prezes Urzędu uzna, że zamierzone przetwarzanie, o którym mowa ust. 1 i 2, stanowiłoby naruszenie przepisów niniejszej ustawy, szczególności jeżeli uzna, że administrator niedostatecznie zidentyfikował lub zminimalizował ryzyko, terminie do sześciu tygodni od dnia otrzymania wniosku o konsultacje, o którym mowa ust. 1, przedstawia administratorowi lub podmiotowi przetwarzającemu pisemne zalecenia.
 
@@ -1033,9 +1024,9 @@ Art. 56–97. (pominięte)
 7. W przypadku gdy naruszenie ochrony danych osobowych dotyczyło danych osobowych:
 
 - **1)** otrzymanych od administratora innego państwa członkowskiego Unii Europejskiej,
-- **2)** przesłanych do administratora innego państwa członkowskiego Unii Europejskiej informacje, o których mowa ust. 4, przekazuje się bez zbędnej zwłoki administratorowi tego państwa członkowskiego Unii Europejskiej.
+- **2)** przesłanych do administratora innego państwa członkowskiego Unii Europejskiej – informacje, o których mowa ust. 4, przekazuje się bez zbędnej zwłoki administratorowi tego państwa członkowskiego Unii Europejskiej.
 
-8. Prezes Urzędu może przeprowadzać kontrolę realizacji przez administratora obowiązków, o których mowa ust. 1–7. praw lub wolności osób fizycznych, administrator bez zbędnej zwłoki zawiadamia osobę, której dane dotyczą, o naruszeniu ochrony danych osobowych.
+8. Prezes Urzędu może przeprowadzać kontrolę realizacji przez administratora obowiązków, o których mowa ust. 1–7. ochrony danych osobowych.
 
 2. Zawiadomienie, o którym mowa ust. 1, zawiera szczególności:
 
@@ -1081,7 +1072,7 @@ Art. 56–97. (pominięte)
 
 8. Administrator zapewnia odpowiednie i niezwłoczne włączenie inspektora ochrony danych we wszystkie sprawy dotyczące ochrony danych osobowych.
 
-9. Administrator zawiadamia Prezesa Urzędu o wyznaczeniu inspektora ochrony danych terminie 14 dni od dnia wyznaczenia, wskazując imię, nazwisko, adres poczty elektronicznej lub numer telefonu inspektora ochrony danych. Zawiadomienie sporządza się postaci elektronicznej i opatruje kwalifikowanym podpisem elektronicznym albo podpisem zaufanym. Zawiadomienie może zostać dokonane przez pełnomocnika. Do zawiadomienia dołącza się pełnomocnictwo udzielone formie elektronicznej. inspektora ochrony danych, terminie 14 dni od dnia zaistnienia zmiany lub odwołania.
+9. Administrator zawiadamia Prezesa Urzędu o wyznaczeniu inspektora ochrony danych terminie 14 dni od dnia wyznaczenia, wskazując imię, nazwisko, adres poczty elektronicznej lub numer telefonu inspektora ochrony danych. Zawiadomienie sporządza się postaci elektronicznej i opatruje kwalifikowanym podpisem elektronicznym albo podpisem zaufanym. Zawiadomienie może zostać dokonane przez pełnomocnika. Do zawiadomienia dołącza się pełnomocnictwo udzielone formie elektronicznej.
 
 11. Administrator udostępnia dane inspektora ochrony danych, o których mowa ust. 9, niezwłocznie po jego wyznaczeniu, na swojej stronie internetowej, a jeżeli nie prowadzi własnej strony internetowej, sposób ogólnie dostępny miejscu prowadzenia działalności.
 
@@ -1172,7 +1163,7 @@ Art. 56–97. (pominięte)
 - **1)** przekazanie akt i odpowiedzi na skargę następuje terminie 30 dni od dnia otrzymania skargi;
 - **2)** skargę rozpatruje się terminie 30 dni od dnia otrzymania akt wraz z odpowiedzią na skargę.
 
-**Art. 52.** Osoba, której dane dotyczą, może umocować organizację społeczną o charakterze niezarobkowym, prowadzącą działalność statutową interesie publicznym i działającą dziedzinie ochrony praw i wolności osób, których dane dotyczą, związku z ochroną ich danych osobowych do wykonywania jej imieniu praw, tym wnoszenia środków zaskarżenia określonych niniejszym rozdziale.
+**Art. 52.** Osoba, której dane dotyczą, może umocować organizację społeczną o charakterze niezarobkowym, prowadzącą działalność statutową interesie publicznym i działającą dziedzinie ochrony praw i wolności osób, których dane dotyczą, związku z ochroną ich danych osobowych – do wykonywania jej imieniu praw, tym wnoszenia środków zaskarżenia określonych niniejszym rozdziale.
 
 **Art. 53.**
 
@@ -1182,7 +1173,7 @@ Art. 56–97. (pominięte)
 
 3. W sprawach o stwierdzenie niezgodności działania administratora z przepisami niniejszej ustawy, Prezes Urzędu może wytoczyć powództwo na rzecz i imieniu osoby, o której mowa ust. 1, a także wstąpić do postępowania przed sądem każdym jego stadium.
 
-4. W przypadku przystąpienia Prezesa Urzędu do toczącego się postępowania przed sądem stosuje się odpowiednio przepisy ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm. ) o interweniencie ubocznym.
+4. W przypadku przystąpienia Prezesa Urzędu do toczącego się postępowania przed sądem stosuje się odpowiednio przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm. ) o interweniencie ubocznym.
 
 #### Rozdział 8 Przepisy karne
 
@@ -1202,7 +1193,7 @@ Art. 56–97. (pominięte)
 
 1. Osoba pełniąca dniu wejścia życie niniejszej ustawy funkcję inspektora ochrony danych osobowych na podstawie przepisów ustawy z dnia 10 maja 2018 r. o ochronie danych osobowych (Dz. U. poz. 1000 i 1669), staje się inspektorem ochrony danych i pełni swoją funkcję nie dłużej jednak niż 3 miesiące od dnia wejścia życie niniejszej ustawy, chyba że przed tym dniem administrator zawiadomi Prezesa Urzędu Ochrony Danych Osobowych o wyznaczeniu innej osoby na inspektora ochrony danych, sposób określony art. 46.
 
-2. Osoba, która stała się inspektorem ochrony danych na podstawie ust. 1, pełni swoją funkcję także po upływie 3 miesięcy od dnia wejścia życie niniejszej ustawy, jeżeli do tego dnia administrator zawiadomi Prezesa Urzędu Ochrony Danych Osobowych o jej wyznaczeniu, sposób określony art. 46. o którym mowa ustawie z dnia 10 maja 2018 r. o ochronie danych osobowych, jest obowiązany do wyznaczenia inspektora ochrony danych i zawiadomienia Prezesa Urzędu Ochrony Danych Osobowych o jego wyznaczeniu, terminie 1 miesiąca od dnia wejścia życie niniejszej ustawy.
+2. Osoba, która stała się inspektorem ochrony danych na podstawie ust. 1, pełni swoją funkcję także po upływie 3 miesięcy od dnia wejścia życie niniejszej ustawy, jeżeli do tego dnia administrator zawiadomi Prezesa Urzędu Ochrony Danych Osobowych o jej wyznaczeniu, sposób określony art. 46. tora ochrony danych i zawiadomienia Prezesa Urzędu Ochrony Danych Osobowych o jego wyznaczeniu, terminie 1 miesiąca od dnia wejścia życie niniejszej ustawy.
 
 **Art. 99.**
 
@@ -1244,16 +1235,16 @@ Art. 56–97. (pominięte)
 
 1. Maksymalny limit wydatków z budżetu państwa przeznaczonych na wykonywanie zadań wynikających z niniejszej ustawy wynosi w:
 
-- **1)** 2019 r. 1 250 000 zł;
-- **2)** 2020 r. 1 350 000 zł;
-- **3)** 2021 r. 1 380 000 zł;
-- **4)** 2022 r. 1 410 000 zł;
-- **5)** 2023 r. 1 450 000 zł;
-- **6)** 2024 r. 1 490 000 zł;
-- **7)** 2025 r. 1 530 000 zł;
-- **8)** 2026 r. 1 570 000 zł;
-- **9)** 2027 r. 1 610 000 zł;
-- **10)** 2028 r. 1 650 000 zł.
+- **1)** 2019 r. – 1 250 000 zł;
+- **2)** 2020 r. – 1 350 000 zł;
+- **3)** 2021 r. – 1 380 000 zł;
+- **4)** 2022 r. – 1 410 000 zł;
+- **5)** 2023 r. – 1 450 000 zł;
+- **6)** 2024 r. – 1 490 000 zł;
+- **7)** 2025 r. – 1 530 000 zł;
+- **8)** 2026 r. – 1 570 000 zł;
+- **9)** 2027 r. – 1 610 000 zł;
+- **10)** 2028 r. – 1 650 000 zł.
 
 2. Prezes Urzędu Ochrony Danych Osobowych monitoruje wykorzystanie limitu wydatków, o których mowa ust. 1, i dokonuje oceny wykorzystania tego limitu według stanu na koniec każdego kwartału. Ocena za IV kwartał jest dokonywana według stanu na dzień 20 listopada danego roku.
 

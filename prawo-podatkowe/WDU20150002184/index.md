@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 24 grudnia 2015 r.
+# o zmianie ustawy o administracji podatkowej oraz ustawy o zmianie ustawy – Ordynacja podatkowa oraz niektórych innych ustaw
+
+*USTAWA z dnia 16 grudnia 2015 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +25,6 @@ domain: null
 | Data wydania | 2015-12-24 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150002184) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/2184/text.pdf) |
-
-Poz. 2184
-USTAWA z dnia 16 grudnia 2015 r.
-o zmianie ustawy o administracji podatkowej oraz ustawy o zmianie ustawy – Ordynacja podatkowa oraz niektórych innych ustaw
 
 **Art. 1.** W ustawie z dnia 10 lipca 2015 r. o administracji podatkowej (Dz. U. poz. 1269 i 1513) wprowadza się następujące zmiany:
 

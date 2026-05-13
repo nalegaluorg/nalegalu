@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 2 kwietnia 2026 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy o podatku od wydobycia niektórych kopalin
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 27 marca 2026 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2026-04-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000454) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/454/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 27 marca 2026 r.
-sprawie ogłoszenia jednolitego tekstu ustawy o podatku od wydobycia niektórych kopalin
 1. Na podstawie art. 16 ust. 1 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 2 marca 2012 r. o podatku od wydobycia niektórych kopalin (Dz. U. z 2022 r. poz. 1539), z uwzględnieniem stanu prawnego na dzień 25 marca 2026 r. oraz zmian wprowadzonych ustawą z dnia 21 listopada 2025 r. o zmianie ustawy o podatku od wydobycia niektórych kopalin oraz niektórych innych ustaw (Dz. U. poz. 1804).
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 5–7 ustawy z dnia 21 listopada 2025 r. o zmianie ustawy o podatku od wydobycia niektórych kopalin oraz niektórych innych ustaw (Dz. U. poz. 1804), które stanowią: „Art. 5. 1. Przepis art. 10b i art. 10c ustawy zmienianej art. 1 stosuje się do kwalifikowanych nakładów inwestycyjnych poniesionych od dnia 1 stycznia 2026 r.
 2. W przypadku podmiotu będącego podatnikiem podatku od wydobycia niektórych kopalin z tytułu wydobycia miedzi oraz srebra kwalifikowane nakłady inwestycyjne poniesione okresie od dnia 1 stycznia 2026 r. do dnia 31 grudnia 2028 r. mogą zostać odliczone od podatku od wydobycia niektórych kopalin przypadającego do zapłaty najpóźniej za grudzień 2043 r., przy czym po raz pierwszy mogą być odliczone od podatku od wydobycia niektórych kopalin przypadającego do zapłaty za styczeń 2029 r.

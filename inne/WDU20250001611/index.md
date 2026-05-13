@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 24 listopada 2025 r.
+# w sprawie ogłoszenia jednolitego tekstu ustawy o obywatelstwie polskim
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 7 listopada 2025 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2025-11-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001611) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1611/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 7 listopada 2025 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o obywatelstwie polskim
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 2 kwietnia 2009 r. o obywatelstwie polskim (Dz. U. z 2023 r. poz. 1989), z uwzględnieniem zmian wprowadzonych:
 1) ustawą z dnia 4 kwietnia 2025 r. o zmianie niektórych ustaw w celu wyeliminowania nieprawidłowości w systemie wizowym Rzeczypospolitej Polskiej (Dz. U. poz. 622),
 2) ustawą z dnia 25 czerwca 2025 r. o zmianie ustawy o repatriacji oraz niektórych innych ustaw (Dz. U. poz. 921) oraz zmian wynikających z przepisów ogłoszonych przed dniem 21 października 2025 r.

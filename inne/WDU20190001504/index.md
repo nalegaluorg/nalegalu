@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 9 sierpnia 2019 r.
+# o zmianie ustawy – Kodeks wyborczy oraz ustawy o referendum ogólnokrajowym
+
+*USTAWA z dnia 31 lipca 2019 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +25,6 @@ domain: null
 | Data wydania | 2019-08-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001504) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1504/text.pdf) |
-
-Poz. 1504
-USTAWA z dnia 31 lipca 2019 r.
-o zmianie ustawy – Kodeks wyborczy oraz ustawy o referendum ogólnokrajowym
 
 **Art. 1.** W ustawie z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. z 2019 r. poz. 684) wprowadza się następujące zmiany:
 

@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# Ustawa z dnia 8 maja 2002 r. o likwidacji Polskiej Agencji Rozwoju Regionalnego oraz o zmianie ustawy o zasadach wspierania rozwoju regionalnego i ustawy o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości.
+# o likwidacji Polskiej Agencji Rozwoju Regionalnego oraz o zmianie ustawy o zasadach wspierania rozwoju regionalnego i ustawy o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości
+
+*USTAWA z dnia 8 maja 2002 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -26,54 +28,41 @@ domain: null
 
 **Art. 1.**
 
-1. Likwiduje się zdniem 31 maja 2002 r. Fundację pod nazwą ŃPolska Agencja Rozwoju Regionalnego”, której jedynym fundatorem jest Skarb Państwa, zwaną dalej ŃFundacją”.
+1. Likwiduje się z dniem 31 maja 2002 r. Fundację pod nazwą (cid:132)Polska Agencja Rozwoju Regionalnego(cid:148), kt(cid:243)rej jedynym fundatorem jest Skarb Państwa, zwaną dalej (cid:132)Fundacją(cid:148).
 
-2. Zadania Fundacji przejmuje Polska Agencja Rozwoju Przedsiębiorczości, działająca na podstawie odrębnych przepisów, zwana dalej ŃAgencją”.
+2. Zadania Fundacji przejmuje Polska Agencja Rozwoju Przedsiębiorczości, działająca na podstawie odrębnych przepis(cid:243)w, zwana dalej (cid:132)Agencją(cid:148).
 
 **Art. 2.**
 
-1. Minister właściwy gospodarki powołuje likwidatora Fundacji inadzoruje jego działalność.
+1. Minister właściwy do spraw gospodarki powołuje likwidatora Fundacji i nadzoruje jego działalność.
 
-- **2)** art. 6 otrzymuje brzmienie: ŃArt. 6. 1. Agencja realizuje zadania wszczególności przez:
-- **1)** świadczenie usług doradczych dla przedsiębiorców ibezrobotnych,
-- **2)** organizowanie szkoleń iseminariów,
-- **3)** organizowanie przedsięwzięć informacyjnych, promocyjnych, targowych wystawienniczych kraju za granicą,
-- **4)** gromadzenie udostępnianie informacji istotnych dla przedsiębiorców
+2. Likwidator sporządza bilans zamknięcia na dzień 31 maja 2002 r.
 
-2. Likwidator sporządza bilans zamknięcia na dzień ibezrobotnych, 31 maja 2002 r. 5) tworzenie baz danych zawierających informacje gospodarcze infor3. Likwidator przejmuje kompetencje organów macje dotyczące rynku pracy irozwoFundacji. ju zasobów ludzkich zarządzanie nimi,
+3. Likwidator przejmuje kompetencje organ(cid:243)w Fundacji.
 
-**Art. 3.** Wustawie zdnia 12 maja 2000 r. ozasadach 6) opracowywanie, wydawanie rozpowspierania regionalnego (Dz. U. 48, wszechnianie publikacji, poz.550, 95, poz. 1041 iNr 109, poz. 1158, z2001 r. 7) świadczenie usług eksperckich, wtym 45, poz. 497, 100, poz. 1085, 111, poz. 1197 organom administracji rządowej orNr154, poz. 1800 2002 r. 25, poz. 253) ganom jednostek samorządu terytowart.14 wust. 2 skreśla się 23. rialnego,
+**Art. 3.** W ustawie z dnia 12 maja 2000 r. o zasadach wspierania rozwoju regionalnego (Dz.U. Nr 48, poz. 550, Nr 95, poz. 1041 i Nr 109, poz. 1158, z 2001 r. Nr 45, poz. 497, Nr 100, poz. 1085, Nr 111, poz. 1197 i Nr 154, poz. 1800 oraz z 2002 r. Nr 25, poz. 253) art. 14 ust. 2 skreśla się pkt 23.
+
+**Art. 4.** W ustawie z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz.U. Nr 109, poz. 1158 i z 2002 r. Nr 25, poz. 253) wprowadza się następujące zmiany:
 
 **Art. 5.**
 
 1. Agencja przejmuje mienie Fundacji.
 
-2. Agencja przejmuje zobowiązania należności Fundacji staje się stroną umów porozumień zawartych przez Fundację, zzastrzeżeniem art. 6.
+2. Agencja przejmuje zobowiązania i należności Fundacji i staje się stroną um(cid:243)w i porozumień zawartych przez Fundację, z zastrzeżeniem art. 6.
 
-3. Wartość księgowa netto środków trwałych, wartości niematerialnych prawnych innych składników mienia przejętego od Fundacji powiększa fundusz
-
-10. Obsługę administracyjną Rady zapewnia Prezes.”;
-
-- **7)** wart. 14:
-    - **a)** skreśla się ust. 2,
-    - **b)** po ust. 5 dodaje się ust. 5ai5bwbrzmieniu: Ń5a. W razie potrzeby dokonania zmiany planu działania Agencji trakcie roku obrotowego Prezes przedstawia zatwierdzenia ministrowi właściwemu gospodarki zmieniony roczny plan działania Agencji wraz zopinią Rady.
-
-5b. Prezes, terminie 30 dni od zakończenia każdego kwartału, wyjątkiem ostatniego kwartału roku obrotowego, przedstawia ministrowi właściwemu gospodarki sprawozdanie działalności Agencji danym kwartale, wraz opinią Rady, celu dokonania oceny, o której mowa wart. 91 ust. 3 ustawy określonej wust. 1.”,
-
-- **c)** wust. 6 po wyrazach Ńsprawozdanie zdziałalności Agencji” dodaje się wyrazy Ń , tym sprawozdanie finansowe,”
-- **d)** po ust. 6 dodaje się ust. 6awbrzmieniu: Ń6a. Minister właściwy gospodarki przed dokonaniem czynności, o których mowa ust. 4—5a ust. 6, zasięga opinii ministra właściwego pracy iministra właściwego finansów pustatutowy Agencji.
+3. Wartość księgowa netto środk(cid:243)w trwałych, wartości niematerialnych i prawnych oraz innych składnik(cid:243)w mienia przejętego od Fundacji powiększa fundusz statutowy Agencji.
 
 **Art. 6.**
 
-1. Z dniem czerwca 2002 r. pracownicy Fundacji stają się pracownikami Agencji.
+1. Z dniem 1 czerwca 2002 r. pracownicy Fundacji stają się pracownikami Agencji.
 
-2. Stosunki pracy zpracownikami, októrych mowa wust. 1, wygasają po upływie trzech miesięcy od wejścia wżycie ustawy, jeżeli przed upływem tego terminu nie zostaną im zaproponowane nowe warunki pracy lub płacy albo razie nieprzyjęcia nowych warunków pracy lub płacy.
+2. Stosunki pracy z pracownikami, o kt(cid:243)rych mowa ust. 1, wygasają po upływie trzech miesięcy od dnia wejścia życie ustawy, jeżeli przed upływem tego terpowiedzeniem.
 
-3. Wcześniejsze rozwiązanie stosunku pracy pracownikiem może nastąpić za wypowiedzeniem.
+4. W przypadku wygaśnięcia stosunku pracy, o kt(cid:243)rym mowa ust. 2, lub wypowiedzenia, o kt(cid:243)rym mowa ust. 3, pracownikom przysługują świadczenia przewidziane dla pracownik(cid:243)w, z kt(cid:243)rymi stosunek pracy rozwiązuje się z powodu likwidacji zakładu pracy.
 
-4. Wprzypadku wygaśnięcia stosunku pracy, októrym mowa wust. 2, lub wypowiedzenia, októrym mowa ust. 3, pracownikom przysługują świadczenia przewidziane dla pracowników, którymi stosunek pracy rozwiązuje się powodu likwidacji zakładu pracy.
+**Art. 7.** Kadencja Rady Nadzorczej Agencji, powołanej zgodnie z dotychczasowym brzmieniem art. 13 ustawy, o kt(cid:243)rej mowa art. 4, upływa z dniem wejścia życie niniejszej ustawy.
 
-**Art. 7.** Kadencja Rady Nadzorczej Agencji, powołanej zgodnie dotychczasowym brzmieniem art. 13 ustawy, o której mowa art. 4, upływa dniem wejścia wżycie niniejszej ustawy.
+**Art. 8.** Do czasu wydania przepis(cid:243)w wykonawczych na podstawie upoważnień zmienianych niniejszą ustawą, jednak nie dłużej niż do dnia 31 grudnia 2002 r., zachowują moc przepisy dotychczasowe, jeżeli nie są z nią sprzeczne.
 
-**Art. 8.** Do czasu wydania przepisów wykonawczych na podstawie upoważnień zmienianych niniejszą ustawą, jednak nie dłużej niż 31 grudnia 2002 r., zachowują moc przepisy dotychczasowe, jeżeli nie są znią sprzeczne.
+**Art. 9.** Ustawa wchodzi życie z dniem 31 maja 2002 r., z wyjątkiem art. 2, kt(cid:243)ry wchodzi życie z dniem ogłoszenia.
 

@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 10 grudnia 2025 r.
+# o zmianie ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych oraz ustawy o rynku pracy i służbach zatrudnienia
+
+*USTAWA z dnia 21 listopada 2025 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +25,6 @@ domain: null
 | Data wydania | 2025-12-10 |
 | Ostatnia zmiana | 2025-12-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001746) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1746/text.pdf) |
-
-Poz. 1746
-USTAWA z dnia 21 listopada 2025 r.
-o zmianie ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych oraz ustawy o rynku pracy i służbach zatrudnienia
 
 **Art. 1.** W ustawie z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2025 r. poz. 913, 1301 i 1665) w art. 47:
 

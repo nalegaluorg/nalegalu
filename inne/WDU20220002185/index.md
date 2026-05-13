@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 26 października 2022 r.
+# o zmianie niektórych ustaw celu uproszczenia procedur administracyjnych dla obywateli i przedsiębiorców
+
+*USTAWA z dnia 7 października 2022 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,10 +26,9 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002185) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2185/text.pdf) |
 
-USTAWA z dnia 7 października 2022 r.
-o zmianie niektórych ustaw celu uproszczenia procedur administracyjnych dla obywateli i przedsiębiorców
+**Art. 1.** W ustawie z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2022 r. poz. 2000) art. 37 po § 3 dodaje się § 3a brzmieniu: „§ 3a. Jeżeli ponaglenie zostało wniesione przed upływem terminu określonego art. 35 albo przepisach szczególnych, organ prowadzący postępowanie pozostawia ponaglenie bez rozpoznania. Przepisów § 4–8 nie stosuje się.”.
 
-**Art. 1.** W ustawie z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2022 r. poz. 2000) art. 37 po § 3 dodaje się § 3a brzmieniu: „§ 3a. Jeżeli ponaglenie zostało wniesione przed upływem terminu określonego art. 35 albo przepisach szczególnych, organ prowadzący postępowanie pozostawia ponaglenie bez rozpoznania. Przepisów § 4–8 nie stosuje się.”. oparciu o międzynarodowe umowy o uregulowaniu roszczeń finansowych (Dz. U. poz. 65) po art. 2 dodaje się art. 2a brzmieniu: „Art. 2a. 1. Minister Finansów prowadzi postępowanie administracyjne sprawie stwierdzenia przejścia na rzecz Skarbu Państwa nieruchomości lub prawa na podstawie międzynarodowej umowy o uregulowaniu wzajemnych roszczeń finansowych na wniosek organu reprezentującego Skarb Państwa sprawach gospodarowania nieruchomościami właściwego ze względu na położenie nieruchomości albo z urzędu. 2. Stroną postępowania administracyjnego, o którym mowa ust. 1, jest organ reprezentujący Skarb Państwa sprawach gospodarowania nieruchomościami właściwy ze względu na położenie nieruchomości. 3. Postępowanie administracyjne, o którym mowa ust. 1, umarza się, jeżeli brak jest podstaw do stwierdzenia przejścia na rzecz Skarbu Państwa nieruchomości lub prawa na podstawie międzynarodowej umowy o uregulowaniu wzajemnych roszczeń finansowych.”.
+**Art. 2.** W ustawie z dnia 9 kwietnia 1968 r. o dokonywaniu księgach wieczystych wpisów na rzecz Skarbu Państwa oparciu o międzynarodowe umowy o uregulowaniu roszczeń finansowych (Dz. U. poz. 65) po art. 2 dodaje się art. 2a brzmieniu: „Art. 2a. 1. Minister Finansów prowadzi postępowanie administracyjne sprawie stwierdzenia przejścia na rzecz Skarbu Państwa nieruchomości lub prawa na podstawie międzynarodowej umowy o uregulowaniu wzajemnych roszczeń finansowych na wniosek organu reprezentującego Skarb Państwa sprawach gospodarowania nieruchomościami właściwego ze względu na położenie nieruchomości albo z urzędu. 2. Stroną postępowania administracyjnego, o którym mowa ust. 1, jest organ reprezentujący Skarb Państwa sprawach gospodarowania nieruchomościami właściwy ze względu na położenie nieruchomości. przejścia na rzecz Skarbu Państwa nieruchomości lub prawa na podstawie międzynarodowej umowy o uregulowaniu wzajemnych roszczeń finansowych.”.
 
 **Art. 3.** W ustawie z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. U. z 2022 r. poz. 1728 i 1846) art. 36 ust. 8 po pkt 25c dodaje się pkt 25d i 25e brzmieniu: „25d) minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa;
 
@@ -35,31 +36,31 @@ o zmianie niektórych ustaw celu uproszczenia procedur administracyjnych dla oby
 
 **Art. 5.** W ustawie z dnia 6 kwietnia 1984 r. o fundacjach (Dz. U. z 2020 r. poz. 2167) art. 12:
 
-**Art. 6.** W ustawie z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2022 r. poz. 1693, 1768 i 1783) wprowadza się następujące zmiany:
-
-**Art. 7.** W ustawie z dnia 17 maja 1989 r. Prawo geodezyjne i kartograficzne (Dz. U. z 2021 r. poz. 1990 oraz z 2022 r. poz. 1846) wprowadza się następujące zmiany:
+**Art. 7.** W ustawie z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2021 r. poz. 1990 oraz z 2022 r. poz. 1846) wprowadza się następujące zmiany:
 
 **Art. 8.** W ustawie z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2022 r. poz. 457, 1079, 1250 i 1604) wprowadza się następujące zmiany:
 
-**Art. 10.** W ustawie z dnia 20 sierpnia 1997 r. Przepisy wprowadzające ustawę o Krajowym Rejestrze Sądowym (Dz. U. poz. 770, z późn. zm. ) art. 9:
+**Art. 9.** W ustawie z dnia 13 października 1995 r. – Prawo łowieckie (Dz. U. z 2022 r. poz. 1173) wprowadza się następujące zmiany:
+
+**Art. 10.** W ustawie z dnia 20 sierpnia 1997 r. – Przepisy wprowadzające ustawę o Krajowym Rejestrze Sądowym (Dz. U. poz. 770, z późn. zm. ) art. 9:
 
 **Art. 11.** W ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2021 r. poz. 1899 oraz z 2022 r. poz. 1846) wprowadza się następujące zmiany:
 
+**Art. 12.** W ustawie z dnia 29 sierpnia 1997 r. o usługach hotelarskich oraz usługach pilotów wycieczek i przewodników turystycznych (Dz. U. z 2020 r. poz. 2211) wprowadza się następujące zmiany:
+
 **Art. 13.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2022 r. poz. 1009, 1079, 1115, 1265 i 1933) wprowadza się następujące zmiany:
 
-**Art. 14.** W ustawie z dnia 30 czerwca 2000 r. Prawo własności przemysłowej (Dz. U. z 2021 r. poz. 324) wprowadza się następujące zmiany:
+**Art. 14.** W ustawie z dnia 30 czerwca 2000 r. – Prawo własności przemysłowej (Dz. U. z 2021 r. poz. 324) wprowadza się następujące zmiany:
 
 **Art. 15.** W ustawie z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz. U. z 2022 r. poz. 2080) wprowadza się następujące zmiany:
 
-**Art. 16.** W ustawie z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2022 r. poz. 1688) art. 35 po ust. 4 dodaje ust. 4a brzmieniu: „4a. Decyzja o wpisie i odmowie wpisu do rejestru rzeczoznawców jest ostateczna.”.
-
 **Art. 17.** W ustawie z dnia 11 kwietnia 2001 r. o rzecznikach patentowych (Dz. U. z 2021 r. poz. 944) po art. 46 dodaje się art. 46a brzmieniu: „Art. 46a. 1. Posiedzenia Krajowej Rady Rzeczników Patentowych i jej prezydium, Komisji Rewizyjnej oraz okręgowych rad rzeczników patentowych mogą odbywać się, a uchwały mogą być podejmowane, przy użyciu środków komunikacji elektronicznej zapewniających:
 
-**Art. 18.** W ustawie z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2022 r. poz. 557 i 1488) art. 112 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 brzmieniu: „2. Sprawy, o których mowa art. 105 i art. 106 ust. 1, uznaje się za załatwione milcząco sposób całości uwzględniający żądanie strony, jeżeli terminie 30 dni od daty doręczenia wniosku właściwemu organowi organ ten nie wyda decyzji albo postanowienia, o których mowa art. 122a § 2 pkt 1 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2022 r. poz. 2000 i 2185). Przepisu art. 122h tej ustawy nie stosuje się.”.
+**Art. 18.** W ustawie z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2022 r. poz. 557 i 1488) art. 112 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 brzmieniu: „2. Sprawy, o których mowa art. 105 i art. 106 ust. 1, uznaje się za załatwione milcząco sposób całości uwzględniający żądanie strony, jeżeli terminie 30 dni od daty doręczenia wniosku właściwemu organowi organ ten nie wyda decyzji albo postanowienia, o których mowa art. 122a § 2 pkt 1 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2022 r. poz. 2000 i 2185). Przepisu art. 122h tej ustawy nie stosuje się.”.
 
-**Art. 19.** W ustawie z dnia 3 lipca 2002 r. Prawo lotnicze (Dz. U. z 2022 r. poz. 1235, 1715 i 1846) wprowadza się następujące zmiany:
+**Art. 19.** W ustawie z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2022 r. poz. 1235, 1715 i 1846) wprowadza się następujące zmiany:
 
-**Art. 21.** W ustawie z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2022 r. poz. 916 i 1726) wprowadza się następujące zmiany:
+**Art. 20.** W ustawie z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2022 r. poz. 503 i 1846) art. 53 ust. 4 pkt 11 otrzymuje brzmienie: „11) dyrektorem regionalnego zarządu gospodarki wodnej Państwowego Gospodarstwa Wodnego Wody Polskie – odniesieniu do obszarów, o których mowa art. 169 ust. 2 pkt 2 ustawy z dnia 20 lipca 2017 r. − Prawo wodne, zakresie warunków zabudowy i zagospodarowania terenu;”. następujące zmiany:
 
 **Art. 22.** W ustawie z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2022 r. poz. 1523, 1488 i 1933) wprowadza się następujące zmiany:
 
@@ -77,7 +78,7 @@ o zmianie niektórych ustaw celu uproszczenia procedur administracyjnych dla oby
 
 **Art. 30.** W ustawie z dnia 25 czerwca 2010 r. o sporcie (Dz. U. z 2022 r. poz. 1599) wprowadza się następujące zmiany:
 
-**Art. 32.** W ustawie z dnia 9 czerwca 2011 r. Prawo geologiczne i górnicze (Dz. U. z 2022 r. poz. 1072, 1261 i 1504) art. 101:
+**Art. 32.** W ustawie z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2022 r. poz. 1072, 1261 i 1504) art. 101:
 
 **Art. 33.** W ustawie z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2022 r. poz. 515 i 1604) wprowadza się następujące zmiany:
 
@@ -89,7 +90,7 @@ o zmianie niektórych ustaw celu uproszczenia procedur administracyjnych dla oby
 
 **Art. 37.** W ustawie z dnia 5 sierpnia 2015 r. o pracy na morzu (Dz. U. z 2022 r. poz. 1694) wprowadza się następujące zmiany:
 
-**Art. 38.** W ustawie z dnia 20 lipca 2017 r. Prawo wodne (Dz. U. z 2021 r. poz. 2233, z późn. zm. ) wprowadza się następujące zmiany:
+**Art. 38.** W ustawie z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2021 r. poz. 2233, z późn. zm. ) wprowadza się następujące zmiany:
 
 **Art. 459b.**
 
@@ -105,8 +106,8 @@ o zmianie niektórych ustaw celu uproszczenia procedur administracyjnych dla oby
 
 6. Uchwały walnego zgromadzenia podjęte trybie określonym ust. 2 podpisują:
 
-- **1)** 1 członek zarządu gdy skład zarządu wchodzą nie więcej niż 2 osoby;
-- **2)** 2 członków zarządu pozostałych przypadkach.
+- **1)** 1 członek zarządu – gdy skład zarządu wchodzą nie więcej niż 2 osoby;
+- **2)** 2 członków zarządu – pozostałych przypadkach.
 
 7. Do walnego zgromadzenia delegatów przepisy ust. 1−6 stosuje się odpowiednio.”;
 
@@ -120,15 +121,15 @@ o zmianie niektórych ustaw celu uproszczenia procedur administracyjnych dla oby
 
 **Art. 461b.** Jeżeli kadencja zarządu upływa okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii albo do 30 dni od dnia odwołania danego stanu, podlega ona przedłużeniu do czasu wyboru zarządu na nową kadencję, jednak nie dłużej niż do 60. dnia od dnia odwołania danego stanu, chyba że zarząd zapewni możliwość powołania zarządu na nową kadencję przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość sposób niewykluczający realizacji swoich praw przez osoby uprawnione do wyboru członków zarządu.
 
-**Art. 461c.** Jeżeli kadencja komisji rewizyjnej upływa okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii albo do 30 dni od dnia odwołania danego stanu, podlega ona przedłużeniu do czasu wyboru komisji rewizyjnej na nową kadencję, jednak nie dłużej niż do 60. dnia od dnia odwołania danego stanu, chyba że zarząd zapewni możliwość powołania komisji rewizyjnej na nową kadencję przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość sposób niewykluczający realizacji swoich praw przez osoby uprawnione do wyboru członków komisji rewizyjnej.”. z 2022 r. poz. 511) art. 37:
+**Art. 461c.** Jeżeli kadencja komisji rewizyjnej upływa okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii albo do 30 dni od dnia odwołania danego stanu, podlega ona przedłużeniu do czasu wyboru komisji rewizyjnej na nową kadencję, jednak nie dłużej niż do 60. dnia od dnia odwołania danego stanu, chyba że zarząd zapewni możliwość powołania komisji rewizyjnej na nową kadencję przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość sposób niewykluczający realizacji swoich praw przez osoby uprawnione do wyboru członków komisji rewizyjnej.”.
 
 **Art. 40.** W ustawie z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2022 r. poz. 593, 655, 835 i 2180) użyte art. 60 ust. 1 i 1a wyrazy „7 dni” zastępuje się wyrazami „14 dni”.
 
 **Art. 41.** W ustawie z dnia 15 czerwca 2018 r. o zbiorowym zarządzaniu prawami autorskimi i prawami pokrewnymi (Dz. U. poz. 1293) wprowadza się następujące zmiany:
 
-**Art. 42.** W ustawie z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2022 r. poz. 574, z późn. zm. ) wprowadza się następujące zmiany:
+**Art. 42.** W ustawie z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2022 r. poz. 574, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 44.** W ustawie z dnia 11 września 2019 r. Prawo zamówień publicznych (Dz. U. z 2022 r. poz. 1710, 1812 i 1933) wprowadza się następujące zmiany:
+**Art. 44.** W ustawie z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2022 r. poz. 1710, 1812 i 1933) wprowadza się następujące zmiany:
 
 **Art. 45.** W ustawie z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. z 2021 r. poz. 2095, z późn. zm. ) wprowadza się następujące zmiany:
 
@@ -141,11 +142,11 @@ o zmianie niektórych ustaw celu uproszczenia procedur administracyjnych dla oby
 1. W związku z istotną zmianą cen materiałów lub kosztów związanych z realizacją zamówienia publicznego, których zamawiający, działając z należytą starannością, nie mógł przewidzieć, dopuszczalna jest zmiana umowy sprawie zamówienia publicznego, zawartej przed dniem wejścia życie niniejszej ustawy i będącej toku tym dniu, bez przeprowadzania nowego postępowania o udzielenie zamówienia, która polega na:
 
 - **1)** zmianie wysokości wynagrodzenia wykonawcy,
-- **2)** dodaniu postanowień dotyczących zasad wprowadzania zmian wysokości wynagrodzenia wykonawcy przypadku umów, które nie zawierają takich postanowień, ności zakresie maksymalnej wartości zmiany tego wynagrodzenia przypadku umów, które zawierają takie postanowienia,
+- **2)** dodaniu postanowień dotyczących zasad wprowadzania zmian wysokości wynagrodzenia wykonawcy – przypadku umów, które nie zawierają takich postanowień, postanowienia,
 - **4)** zmianie postanowień umowy dotyczących jej wykonania, szczególności dotyczących:
     - **a)** zakresu świadczenia wykonawcy, z czym może wiązać się odpowiadająca jej zmiana wynagrodzenia wykonawcy lub sposobu rozliczenia tego wynagrodzenia,
     - **b)** terminu wykonania umowy lub jej części, lub czasowego zawieszenia wykonywania umowy lub jej części,
-    - **c)** sposobu wykonywania umowy o ile wzrost wynagrodzenia wykonawcy spowodowany każdą kolejną zmianą nie przekroczy 50% wartości pierwotnej umowy.
+    - **c)** sposobu wykonywania umowy – o ile wzrost wynagrodzenia wykonawcy spowodowany każdą kolejną zmianą nie przekroczy 50% wartości pierwotnej umowy.
 
 2. W przypadku gdy zmiana umowy sprawie zamówienia publicznego dotyczy zmiany wysokości wynagrodzenia wykonawcy, o której mowa ust. 1 pkt 1–3:
 
@@ -158,7 +159,7 @@ o zmianie niektórych ustaw celu uproszczenia procedur administracyjnych dla oby
 
 5. Przepisy ust. 3 i 4 stosuje się do umowy o podwykonawstwo zawartej między podwykonawcą a dalszym podwykonawcą.
 
-**Art. 49.** W związku z ochroną istotnych interesów bezpieczeństwa państwa, do udzielania zamówień publicznych przez jednostki samorządu terytorialnego, jednostki organizacyjne im podległe, spółki, spółdzielnie, przedsiębiorstwa, zakłady i inne jednostki organizacyjne utworzone przez te jednostki albo do których te jednostki przystąpiły, które obejmują dostawy towarów objętych pozycją 2701 albo 2704 Nomenklatury Scalonej (CN) zgodnej z rozporządzeniem Rady (EWG) nr 2658/87 z dnia 23 lipca 1987 r. sprawie nomenklatury taryfowej i statystycznej oraz sprawie Wspólnej Taryfy Celnej (Dz. Urz. WE L 256 z 07.09.1987, str. 1, z późn. zm. Dz. Urz. UE Polskie wydanie specjalne, rozdz. 2, t. 2, str. 382), okresie 6 miesięcy od dnia wejścia życie niniejszej ustawy nie stosuje się przepisów ustawy zmienianej art. 44.
+**Art. 49.** W związku z ochroną istotnych interesów bezpieczeństwa państwa, do udzielania zamówień publicznych przez jednostki samorządu terytorialnego, jednostki organizacyjne im podległe, spółki, spółdzielnie, przedsiębiorstwa, zakłady i inne jednostki organizacyjne utworzone przez te jednostki albo do których te jednostki przystąpiły, które obejmują dostawy towarów objętych pozycją 2701 albo 2704 Nomenklatury Scalonej (CN) zgodnej z rozporządzeniem Rady (EWG) nr 2658/87 z dnia 23 lipca 1987 r. sprawie nomenklatury taryfowej i statystycznej oraz sprawie Wspólnej Taryfy Celnej (Dz. Urz. WE L 256 z 07.09.1987, str. 1, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 2, t. 2, str. 382), okresie 6 miesięcy od dnia wejścia życie niniejszej ustawy nie stosuje się przepisów ustawy zmienianej art. 44.
 
 **Art. 50.** Do postępowań sprawie ponagleń, o których mowa art. 37 ustawy zmienianej art. 1, wszczętych i niezakończonych przed dniem wejścia życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
 
@@ -170,7 +171,7 @@ o zmianie niektórych ustaw celu uproszczenia procedur administracyjnych dla oby
 
 **Art. 54.** Do postępowań prowadzonych na podstawie art. 37 ustawy zmienianej art. 8, wszczętych i niezakończonych przed dniem wejścia życie art. 8 pkt 2, stosuje się przepisy dotychczasowe.
 
-**Art. 55.** W przypadku uiszczenia opłaty rocznej, o której mowa art. 9 ust. 2i ustawy zmienianej art. 10, przed dniem wejścia życie niniejszej ustawy opłata nie podlega zwrotowi. mowa art. 173a ust. 2 ustawy zmienianej art. 11, wszczętych i niezakończonych przed dniem wejścia życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
+**Art. 55.** W przypadku uiszczenia opłaty rocznej, o której mowa art. 9 ust. 2i ustawy zmienianej art. 10, przed dniem wejścia życie niniejszej ustawy opłata nie podlega zwrotowi. ustawy, stosuje się przepisy dotychczasowe.
 
 **Art. 57.** Do postępowań sprawie nadania uprawnień przewodnika górskiego, o której mowa art. 28 ust. 1 ustawy zmienianej art. 12, wszczętych i niezakończonych przed dniem wejścia życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
 
@@ -240,7 +241,7 @@ o zmianie niektórych ustaw celu uproszczenia procedur administracyjnych dla oby
 
 **Art. 79.**
 
-1. Z dniem wejścia życie niniejszej ustawy pracownicy zatrudnieni urzędzie obsługującym ministra właściwego do spraw rozwoju regionalnego i realizujący do tego dnia zadania, które zostają przekazane na podstawie art. 15 niniejszej ustawy ministrowi właściwemu do spraw gospodarki, stają się pracownikami urzędu obsługującego ministra właściwego do spraw gospodarki. na piśmie pracowników, o których mowa ust. 1, o zmianach, jakie mają nastąpić zakresie ich stosunków pracy. Przepis art. 23 § 4 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2022 r. poz. 1510, 1700 i 2140) stosuje się odpowiednio.
+1. Z dniem wejścia życie niniejszej ustawy pracownicy zatrudnieni urzędzie obsługującym ministra właściwego do spraw rozwoju regionalnego i realizujący do tego dnia zadania, które zostają przekazane na podstawie art. 15 niniejszej ustawy ministrowi właściwemu do spraw gospodarki, stają się pracownikami urzędu obsługującego ministra właściwego do spraw gospodarki. art. 23 § 4 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2022 r. poz. 1510, 1700 i 2140) stosuje się odpowiednio.
 
 3. Przepisu ust. 2 zdanie drugie nie stosuje się do urzędników służby cywilnej, do których stosuje się przepisy ustawy z dnia 21 listopada 2008 r. o służbie cywilnej (Dz. U. z 2022 r. poz. 1691).
 

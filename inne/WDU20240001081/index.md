@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 19 lipca 2024 r.
+# o zmianie ustawy o zapewnianiu dostępności osobom ze szczególnymi potrzebami, ustawy o dokumentach publicznych oraz ustawy o pomocy państwa w oszczędzaniu na cele mieszkaniowe
+
+*USTAWA z dnia 28 czerwca 2024 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +25,6 @@ domain: null
 | Data wydania | 2024-07-19 |
 | Ostatnia zmiana | 2024-07-24 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001081) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1081/text.pdf) |
-
-Poz. 1081
-USTAWA z dnia 28 czerwca 2024 r.
-o zmianie ustawy o zapewnianiu dostępności osobom ze szczególnymi potrzebami, ustawy o dokumentach publicznych oraz ustawy o pomocy państwa w oszczędzaniu na cele mieszkaniowe
 
 **Art. 1.** W ustawie z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami (Dz. U. z 2022 r. poz. 2240 oraz z 2024 r. poz. 731) art. 66 otrzymuje brzmienie: „Art. 66. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 7 ust. 2 i 3 oraz art. 34 ust. 6 pkt 1 ustawy zmienianej w art. 44 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 7 ust. 2 i 3 oraz art. 34 ust. 6 pkt 1 ustawy zmienianej w art. 44 w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 84 miesiące od dnia wejścia w życie niniejszej ustawy, i mogą być w tym czasie zmieniane na podstawie tych przepisów w brzmieniu nadanym niniejszą ustawą, w szczególności z uwzględnieniem potrzeb osób ze szczególnymi potrzebami.”.
 

@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# 5. Spory powstałe na tle prawa do nieodpłatnego równowartość 500 000 euro, obliczoną wenabycia akcji Banku Gospodarki ˚ywnościowej Spółka dług kursu średniego ogłaszanego przez Akcyjna rozpatrują sądy powszechne. NBP z ostatniego dnia miesiąca stanowiącego podstawę naliczenia rezerwy oboArt. 6.Wustawie zdnia 29 sierpnia 1997 r. oNarodo- wiązkowej, awprzypadku gdy wtym dniu wym Banku Polskim (Dz. U. 140, poz. 938, z 1998 r. nie ogłoszono takiego kursu, według ostat160, poz. 1063, z2000 r. 53, poz. 648, 62, poz. 718 niego kursu ogłoszonego przed tym i 119, poz. 1252, z 2001 r. 8, poz. 64, 110, dniem.”.
+# o zmianie ustawy o systemie oświaty oraz o zmianie niekt(cid:243)rych innych ustaw
+
+*USTAWA z dnia 27 czerwca 2003 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,241 +26,254 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031371304) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/1304/text.pdf) |
 
-poz. 1189 i 154, poz. 1784 i 1800, z 2002 r. 126, poz. 1070 i 141, poz. 1178 oraz z 2003 r. 65, Art. 7. Ustawa wchodzi w życie po upływie 30 dni poz. 594) po art. 39 dodaje się art. 39awbrzmieniu: od dnia ogłoszenia.
-ŃArt. 39a. Banki pomniejszają kwotę naliczonej rezerwy obowiązkowej o kwotę stanowiącą Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 1304
-USTAWA zdnia 27 czerwca 2003 r.
-ozmianie ustawy osystemie oświaty oraz ozmianie niektórych innych ustaw
-
-**Art. 1.** Wustawie zdnia 7 września 1991 r. osystemie oświaty (Dz. U. z 1996 r. 67, poz. 329, z póên. zm. woju oraz kształtowanie postaw sprzyjających jego wdrażaniu wskali lokalnej, krajo) wprowadza się następujące zmiany: wej iglobalnej,”,
+**Art. 1.** W ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz.U. z 1996 r. Nr 67, poz. 329 ze zm.) wprowadza się następujące zmiany:
 
 **Art. 68b.**
 
-1. Placówki i ośrodki, o których mowa w art. 68a ust. 1 pkt 2, prowadzące kształcenie ustawiczne wformach pozaszkolnych, mogą uzyskać akredytację, stanowiącą potwierdzenie spełniania określonych wymogów i zapewniania wysokiej jakości prowadzonego kształcenia. Akredytacja może obejmować całość lub część prowadzonego kształcenia.
+1. Plac(cid:243)wki i ośrodki, o kt(cid:243)rych mowa w art. 68a ust. 1 pkt 2, prowadzące kształcenie ustawiczne w formach pozaszkolnych, mogą uzyskać akredytację, stanowiącą potwierdzenie spełniania określonych wymog(cid:243)w i zapewniania wysokiej jakości prowadzonego kształcenia. Akredytacja może obejmować całość lub część prowadzonego kształcenia.
 
-2. Akredytację przyznaje kurator oświaty właściwy dla siedziby placówki lub ośrodka, wdrodze decyzji administracyjnej wydawanej po przeprowadzeniu przez zespół powołany przez kuratora oświaty oceny działalności danej placówki lub ośrodka wzakresie określonym wust. 3.
+2. Akredytację przyznaje kurator oświaty właściwy dla siedziby plac(cid:243)wki lub ośrodka, w drodze decyzji administracyjnej wydawanej po przeprowadzeniu przez zesp(cid:243)ł powołany przez kuratora oświaty oceny działalności danej plac(cid:243)wki lub ośrodka w zakresie określonym w ust. 3.
 
-3. Akredytację może uzyskać placówka lub ośrodek, które:
+3. Akredytację może uzyskać plac(cid:243)wka lub ośrodek, kt(cid:243)re:
 
-- **1)** zapewniają bazę wyposażoną wśrodki dydaktyczne,
+- **1)** zapewniają bazę wyposażoną w środki dydaktyczne,
 - **2)** zatrudniają wykwalifikowaną kadrę,
-- **3)** opracowują iudostępniają materiały metodyczno-dydaktyczne.
+- **3)** opracowują i udostępniają materiały metodycznodydaktyczne.
 
-4. W postępowaniu o uzyskanie akredytacji kurator oświaty uwzględnia również wyniki nadzoru pedagogicznego sprawowanego nad placówką lub ośrodkiem.
+4. W postępowaniu o uzyskanie akredytacji kurator oświaty uwzględnia r(cid:243)wnież wyniki nadzoru pedagogicznego sprawowanego nad plac(cid:243)wką lub ośrodkiem.
 
-5. Kurator oświaty, w drodze decyzji administracyjnej, może cofnąć akredytację, jeżeli stwierdzi niespełnianie przez placówkę lub ośrodek warunków wymaganych do uzyskania akredytacji.
+5. Kurator oświaty, w drodze decyzji administracyjnej, może cofnąć akredytację, jeżeli stwierdzi niespełnianie przez plac(cid:243)wkę lub ośrodek warunk(cid:243)w wymaganych do uzyskania akredytacji.
 
-6. Podmiot ubiegający się o uzyskanie akredytacji wnosi opłatę, która stanowi dochód budżetu państwa.
+6. Podmiot ubiegający się o uzyskanie akredytacji wnosi opłatę, kt(cid:243)ra stanowi doch(cid:243)d budżetu państwa.
 
-7. Zopłat, októrych mowa wust. 6, zwolnione są podmioty, które prowadzą całość kształcenia nieodpłatnie.
+7. Z opłat, o kt(cid:243)rych mowa w ust. 6, zwolnione są podmioty, kt(cid:243)re prowadzą całość kształcenia nieodpłatnie.
 
-8. Przepisy ust. 1—7 stosuje się również do placówek niepublicznych prowadzonych zgodnie zprzepisami rozdziału 8 oraz do działalności oświatowej, októrej mowa wart. 83aust. 2.
+8. Przepisy ust. 1-7 stosuje się r(cid:243)wnież do plac(cid:243)wek niepublicznych prowadzonych zgodnie z przepisami rozdziału 8, oraz do działalności oświatowej, o kt(cid:243)rej mowa w art. 83a ust. 2.
 
-9. Minister właściwy do spraw oświaty iwychowania określi, wdrodze rozporządzenia, szczegółowe warunki itryb przyznawania i cofania akredytacji, skład i sposób działania zespołu, októrym mowa wust. 2, oraz warunki wynagradzania jego członków, wzory dokumentów stosowanych w postępowaniu o uzyskanie akredytacji, a także wysokość i tryb wnoszenia opłat przez podmioty ubiegające się oakredytację.
+9. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia, szczeg(cid:243)łowe warunki i tryb przyznawania i cofania akredytacji, skład i spos(cid:243)b działania zespołu, o kt(cid:243)rym mowa w ust. 2, oraz warunki wynagradzania jego członk(cid:243)w, wzory dokument(cid:243)w stosowanych w postępowaniu o uzyskanie akredytacji, a także wysokość i tryb wnoszenia opłat przez podmioty ubiegające się o akredytację.
 
-10. Rozporządzenie, o którym mowa w ust. 9, powinno uwzględniać w szczególności wdrażanie i upowszechnianie przez podmioty ubiegające się o akredytację nowatorskich rozwiązań programowo-metodycznych i organizacyjnych, mających wpływ na jakość prowadzonego kształcenia, udział wzespole przedstawicieli wojewódzkiego lub powiatowego urzędu pracy oraz organizacji pracodawców, a także ustalać wysokość opłat tak, aby nie przekraczała kwoty 760 zł waloryzowanej corocznie średniorocznym wskaênikiem cen towarów i usług konsumpcyjnych ogółem, ustalonym w ustawie budżetowej.
+10. Rozporządzenie, o kt(cid:243)rym mowa w ust. 9, powinno uwzględniać w szczeg(cid:243)lności wdrażanie i upowszechnianie przez podmioty ubiegające się o akredytację nowatorskich rozwiązań programowo-metodycznych i organizacyjnych, mających wpływ na jakość prowadzonego kształcenia, udział w zespole przedstawicieli wojew(cid:243)dzkiego lub powiatowego urzędu pracy oraz organizacji pracodawc(cid:243)w, a także ustalać wysokość opłat średniorocznym wskaźnikiem cen towar(cid:243)w i usług konsumpcyjnych og(cid:243)łem, ustalonym w ustawie budżetowej.
 
 **Art. 68c.**
 
-1. Minister właściwy do spraw oświaty iwychowania określi, wdrodze rozporządzenia, warunki i tryb uzyskiwania i uzupełniania przez osoby dorosłe wiedzy ogólnej, umiejętności ikwalifikacji zawodowych w formach pozaszkolnych, a także może określić warunki i tryb przeprowadzania egzaminów kwalifikacyjnych umożliwiających uzyskanie tytułów zawodowych, skład, warunki powoływania iodwoływania przez kuratora oświaty państwowych komisji egzaminacyjnych, wzory wydawanych świadectw i dywadzenie egzaminów kwalifikacyjnych oraz warunki wynagradzania członków komisji.
+1. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia, warunki i tryb uzyskiwania i uzupełniania przez osoby dorosłe wiedzy og(cid:243)lnej, umiejętności i kwalifikacji zawodowych w formach pozaszkolnych, a także może określić warunki i tryb przeprowadzania egzamin(cid:243)w kwalifikacyjnych umożliwiających uzyskanie tytuł(cid:243)w zawodowych, skład, warunki powoływania i odwoływania przez kuratora oświaty państwowych komisji egzaminacyjnych, wzory wydawanych świadectw i dyplom(cid:243)w, wysokość opłat za przeprowadzenie egzamin(cid:243)w kwalifikacyjnych oraz warunki wynagradzania członk(cid:243)w komisji.
 
-2. Rozporządzenie, o którym mowa wust. 1, uwzględni wszczególności:
+2. Rozporządzenie, o kt(cid:243)rym mowa w ust. 1, uwzględni w szczeg(cid:243)lności:
 
-- **1)** zaliczanie przy podejmowaniu nauki wszkole dla dorosłych prowadzącej kształcenie zawodowe wyników kursów zawodowych prowadzonych przez publiczne i niepubliczne placówki i ośrodki posiadające akredytację albo przez osoby prawne lub fizyczne prowadzące działalność oświatową wymienioną w art. 83a ust. 2, dla której uzyskały akredytację,
-- **2)** sposób potwierdzania posiadania określonych kwalifikacji zawodowych uzyskanych w wyniku ukończenia poszczególnych form kształcenia, plomów, wysokość opłat za przepro3) warunki itryb prowadzenia kształcenia na odległość,
-- **4)** możliwość powoływania państwowych komisji egzaminacyjnych przy szkołach i placówkach, warunki dopuszczania do egzaminu kwalifikacyjnego i sposób jego przeprowadzania,
-- **5)** wysokość opłat za egzamin kwalifikacyjny, uwzględniając jako podstawę kwotę przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku w czwartym kwartale roku poprzedniego, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego, z tym że wysokość opłaty nie może przekroczyć 30% podstawy.”;
-- **53)** wart. 70 po ust. 5 dodaje się ust. 6 wbrzmieniu: Ń6. Minister właściwy do spraw oświaty i wychowania może zawierać porozumienia zorganizacjami pracodawców, samorządami gospodarczymi oraz innymi organizacjami pozarządowymi w celu poprawy stanu kształcenia zawodowego, w szczególności realizacji praktycznej nauki zawodu.”;
-- **54)** wart. 71b:
-    - **a)** ust. 1 otrzymuje brzmienie: Ń1. Kształceniem specjalnym obejmuje się dzieci i młodzież, o których mowa w art. 1 pkt 5 i 5a, wymagające stosowania specjalnej organizacji nauki imetod pracy. Kształcenie to może być prowadzone w formie nauki w szkołach ogólnodostępnych, szkołach lub oddziałach integracyjnych, szkołach lub oddziałach specjalnych i ośrodkach, o których mowa wart. 2 pkt 5.”,
-    - **b)** ust. 2—3aotrzymują brzmienie: Ń2. W zależności od rodzaju niepełnosprawności, w tym stopnia upośledzenia umysłowego, dzieciom i młodzieży, o których mowa w ust. 1, organizuje się kształcenie i wychowanie, które stosownie do potrzeb umożliwia naukę w dostępnym dla nich zakresie, usprawnianie zaburzonych funkcji, rewalidację i resocjalizację oraz zapewnia specjalistyczną pomoc iopiekę.
+- **1)** zaliczanie przy podejmowaniu nauki w szkole dla dorosłych prowadzącej kształcenie zawodowe wynik(cid:243)w kurs(cid:243)w zawodowych prowadzonych przez publiczne i niepubliczne plac(cid:243)wki i ośrodki posiadające akredytację albo przez osoby prawne lub fizyczne prowadzące działalność oświatową wymienioną w art. 83a ust. 2, dla kt(cid:243)rej uzyskały akredytację,
+- **2)** spos(cid:243)b potwierdzania posiadania określonych kwalifikacji zawodowych uzyskanych w wyniku ukończenia poszczeg(cid:243)lnych form kształcenia,
+- **3)** warunki i tryb prowadzenia kształcenia na odległość,
+- **4)** możliwość powoływania państwowych komisji egzaminacyjnych przy szkołach i plac(cid:243)wkach, warunki dopuszczania do egzaminu kwalifikacyjnego i spos(cid:243)b jego przeprowadzania,
+- **5)** wysokość opłat za egzamin kwalifikacyjny, uwzględniając jako podstawę kwotę przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagr(cid:243)d z zysku w czwartym kwartale roku poprzedniego, ogłaszanego przez Prezesa Gł(cid:243)wnego Urzędu Statystycznego, z tym że wysokość opłaty nie może przekroczyć 30% podstawy.(cid:148);
+- **53)** w art. 70 po ust. 5 dodaje się ust. 6 w brzmieniu: (cid:132)6. Minister właściwy do spraw oświaty i wychowania może zawierać porozumienia z organizacjami pracodawc(cid:243)w, samorządami gospodarczymi oraz innymi organizacjami pozarządowymi w celu poprawy stanu kształcenia zawodowego, w szczeg(cid:243)lności realizacji praktycznej nauki zawodu.(cid:148);
+- **54)** w art. 71b:
+    - **a)** ust. 1 otrzymuje brzmienie: mowa w art. 1 pkt 5 i 5a, wymagające stosowania specjalnej organizacji nauki i metod pracy. Kształcenie to może być prowadzone w formie nauki w szkołach og(cid:243)lnodostępnych, szkołach lub oddziałach integracyjnych, szkołach lub oddziałach specjalnych i ośrodkach, o kt(cid:243)rych mowa w art. 2 pkt 5.(cid:148),
+    - **b)** ust. 2-3a otrzymują brzmienie: (cid:132)2. W zależności od rodzaju niepełnosprawności, w tym stopnia upośledzenia umysłowego, dzieciom i młodzieży, o kt(cid:243)rych mowa w ust. 1, organizuje się kształcenie i wychowanie, kt(cid:243)re stosownie do potrzeb umożliwia naukę w dostępnym dla nich zakresie, usprawnianie zaburzonych funkcji, rewalidację i resocjalizację oraz zapewnia specjalistyczną pomoc i opiekę.
 
-2a. W przedszkolach i szkołach podstawowych, wtym specjalnych, oraz wośrodkach, októrych mowa w art. 2 pkt 5, a także w publicznych poradniach psychologiczno-pedagogicznych, w tym poradniach specjalistycznych, mogą być tworzone zespoły wczesnego wspomagania rozwoju dziecka wcelu pobudzania psychoruchowego i społecznego rozwoju dziecka, od chwili wykrycia niepełnosprawności do podjęcia nauki w szkole, prowadzonego bezpośrednio z dzieckiem ijego rodziną.
+2a. W przedszkolach i szkołach podstawowych, w tym specjalnych, oraz w ośrodkach, o kt(cid:243)rych mowa w art. 2 pkt 5, a także w publicznych poradniach psychologiczno-pedagogicznych, w tym poradniach specjalistycznych, mogą być tworzone zespoły wczesnego wspomagania rozwoju dziecka w celu pobudzania psychoruchowego i społecznego rozwoju dziecka, od chwili wykrycia niepełnosprawności do podjęcia nauki w szkole, prowadzonego bezpośrednio z dzieckiem i jego rodziną.
 
-2b. Dyrektorzy przedszkoli specjalnych, szkół podstawowych specjalnych oraz ośrodków, októrych mowa wart. 2 pkt 5, atakże dyrektorzy właściwych ze względu na miejsce zamieszkania dziecka szkół podstawowych ogólnodostępnych iintegracyjnych oraz dyrektorzy publicznych poradni psychologiczno-pedagogicznych, wtym poradni specjalistycznych, mogą organizować wczesne wspomaganie rozwoju dziecka w porozumieniu zorganami prowadzącymi.
+2b. Dyrektorzy przedszkoli specjalnych, szk(cid:243)ł podstawowych specjalnych oraz ośrodk(cid:243)w, o kt(cid:243)rych mowa w art. 2 pkt 5, a także dyrektorzy właściwych ze względu na miejsce zamieszkania dziecka szk(cid:243)ł podstawowych og(cid:243)lnodostępnych i integracyjnych oraz dyrektorzy publicznych poradni psychologiczno-pedagogicznych, w tym poradni specjalistycznych, mogą organizować wczesne wspomaganie rozwoju dziecka w porozumieniu z organami prowadzącymi.
 
-3. Opinie opotrzebie wczesnego wspomagania rozwoju dziecka oraz orzeczenia o potrzebie kształcenia specjalnego albo indywidualnego nauczania, atakże opotrzebie zajęć rewalidacyjno-wychowawczych organizowanych zgodnie z odrębnymi przepisami wydają zespoły orzekające działające w publicznych poradniach psychologiczno-pedagogicznych, w tym w poradniach specjalistycznych. Orzeczenie opotrzebie kształcenia specjalnego określa zalecane formy kształcenia specjalnego, z uwzględnieniem rodzaju niepełnosprawności, wtym stopnia upośledzenia umysłowego.
+3. Opinie o potrzebie wczesnego wspomagania rozwoju dziecka oraz orzeczenia o potrzebie kształcenia specjalnego albo indywidualnego nauczania, a także o potrzebie zajęć rewalidacyjno-wychowawczych organizowanych zgodnie z odrębnymi przepisami wydają zespoły orzekające działające w publicznych poradniach psychologicznopedagogicznych, w tym poradniach specjalistycznych. Orzeczenie o potrzebie kształcenia specjalnego określa zalecane formy kształcenia specjalnego, z uwzględnieniem rodzaju niepełnosprawności, w tym stopnia upośledzenia umysłowego.
 
-3a. Opinie opotrzebie wczesnego wspomagania rozwoju dziecka, o których mowa w ust. 3, mogą również wydawać zespoły opiniujące działające wniepublicznych poradniach psychologiczno-pedagogicznych, w tym w poradniach specjalistycznych, założonych zgodnie z art. 82 oraz zatrudniających pracowników posiadających kwalifikacje określone dla pracowników publicznych poradni psychologiczno-pedagogicznych.”,
+3a. Opinie o potrzebie wczesnego wspomagania rozwoju dziecka, o kt(cid:243)rych mowa w ust. 3, mogą r(cid:243)wnież wydawać zespoły opiniujące działające w niepublicznych poradniach psychologicznopedagogicznych, w tym w poradniach specjalistycznych, założonych zgodnie z art. 82 oraz zatrudniających pracownik(cid:243)w posiadających kwalifikacje określone dla pracownik(cid:243)w publicznych poradni psychologiczno-pedagogicznych.(cid:148),
 
-- **c)** ust. 5 otrzymuje brzmienie: Ń5. Starosta właściwy ze względu na miejsce zamieszkania dziecka posiadającego orzeczenie opotrzebie kształcenia specjalnego, na wniomę kształcenia, uwzględniając rodzaj niepełnosprawności, w tym stopień upośledzenia umysłowego, zzastrzeżeniem ust. 5a.”,
-- **d)** ust. 5botrzymuje brzmienie: Ń5b. Jeżeli powiat właściwy ze względu na miejsce zamieszkania dziecka nie prowadzi szkoły specjalnej lub ośrodka, o którym mowa w art. 2 pkt 5, odpowiednich ze względu na rodzaj niepełnosprawności, w tym stopień upośledzenia umysłowego, starosta tego powiatu kieruje dziecko do najbliższego powiatu prowadzącego taką szkołę lub ośrodek. Starosta najbliższego powiatu prowadzącego taką szkołę lub ośrodek nie może odmówić przyjęcia dziecka do szkoły lub ośrodka.”,
-- **e)** po ust. 5bdodaje się ust. 5cwbrzmieniu: Ń5c. Dyrektor szkoły, której uczeń posiada orzeczenie opotrzebie indywidualnego nauczania, organizuje takie nauczanie w porozusek rodziców, zapewnia mu odpowiednią formieniu zorganem prowadzącym.”,
-- **f)** wust. 7 pkt 1 otrzymuje brzmienie: Ń1) wporozumieniu zministrami właściwymi do spraw zdrowia oraz zabezpieczenia społecznego, warunki organizowania wczesnego wspomagania rozwoju dzieci, októrych mowa wust. 2a, wtym kwalifikacje wymagane od osób prowadzących wczesne wspomaganie, uwzględniając w szczególności przygotowanie do pracy z małymi dziećmi o zaburzonym rozwoju psychoruchowym, a także formy współpracy zrodziną dziecka,”;
-- **55)** po art. 71cdodaje się art. 71dwbrzmieniu: ŃArt. 71d. Podręczniki szkolne iksiążki pomocnicze do kształcenia specjalnego dla uczniów z upośledzeniem umysłowym, niewidomych, słabo widzących i niesłyszących są dofinansowywane zbudżetu państwa z części, której dysponentem jest minister właściwy do spraw oświaty iwychowania.”;
-- **56)** wart. 77:
-    - **a)** ust. 4 otrzymuje brzmienie: Ń4. W zakresie uprawnień do ulgowych przejazdów środkami publicznego transportu zbiorowego do słuchaczy kolegiów stosuje się przepisy dotyczące studentów szkół wyższych.”,
-    - **b)** po ust. 7 dodaje się ust. 8 wbrzmieniu: Ń8. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia, standardy kształcenia nauczycieli w kolegiach, uwzględniając w szczególności wymagania dotyczące realizowanych planów nauczania, przedmioty kształcenia, wymiar i zakres praktyk pedagogicznych, treści programowe iwymagane umiejętności.”;
+- **c)** ust. 5 otrzymuje brzmienie: (cid:132)5. Starosta właściwy ze względu na miejsce zamieszkania dziecka posiadającego orzeczenie o potrzebie kształcenia specjalnego, na wniosek rodzic(cid:243)w, zapewnia mu odpowiednią formę kształcenia, umysłowego, z zastrzeżeniem ust. 5a.(cid:148),
+- **d)** ust. 5b otrzymuje brzmienie: (cid:132)5b. Jeżeli powiat właściwy ze względu na miejsce zamieszkania dziecka nie prowadzi szkoły specjalnej lub ośrodka, o kt(cid:243)rym mowa w art. 2 pkt 5, odpowiednich ze względu na rodzaj niepełnosprawności, w tym stopień upośledzenia umysłowego, starosta tego powiatu kieruje dziecko do najbliższego powiatu prowadzącego taką szkołę lub ośrodek. Starosta najbliższego powiatu prowadzącego taką szkołę lub ośrodek nie może odm(cid:243)wić przyjęcia dziecka do szkoły lub ośrodka.(cid:148),
+- **e)** po ust. 5b dodaje się ust. 5c w brzmieniu: (cid:132)5c. Dyrektor szkoły, kt(cid:243)rej uczeń posiada orzeczenie o potrzebie indywidualnego nauczania, organizuje takie nauczanie w porozumieniu z organem prowadzącym.(cid:148),
+- **f)** w ust. 7 pkt 1 otrzymuje brzmienie: (cid:132)1) w porozumieniu z ministrami właściwymi do spraw zdrowia oraz zabezpieczenia społecznego, warunki organizowania wczesnego wspomagania rozwoju dzieci, o kt(cid:243)rych mowa w ust. 2a, w tym kwalifikacje wymagane od os(cid:243)b prowadzących wczesne wspomaganie, uwzględniając w szczeg(cid:243)lności przygotowanie do pracy z małymi dziećmi o zaburzonym rozwoju psychoruchowym, a także formy wsp(cid:243)łpracy z rodziną dziecka,(cid:148);
+- **55)** po art. 71c dodaje się art. 71d w brzmieniu: (cid:132)Art. 71d. Podręczniki szkolne i książki pomocnicze do kształcenia specjalnego dla uczni(cid:243)w z upośledzeniem umysłowym, niewidomych, słabo widzących i niesłyszących są dofinansowywane z budżetu państwa z części, kt(cid:243)rej dysponentem jest minister właściwy do spraw oświaty i wychowania.(cid:148);
+- **56)** w art. 77:
+    - **a)** ust. 4 otrzymuje brzmienie: (cid:132)4. W zakresie uprawnień do ulgowych przejazd(cid:243)w środkami publicznego transportu zbiorowego do słuchaczy kolegi(cid:243)w stosuje się przepisy dotyczące student(cid:243)w szk(cid:243)ł wyższych.(cid:148),
+    - **b)** po ust. 7 dodaje się ust. 8 w brzmieniu: (cid:132)8. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia, standardy kształcenia nauczycieli w kolegiach, uwzględniając w szczeg(cid:243)lności wymagania dotyczące realizowanych plan(cid:243)w nauczania, przedmioty kształcenia, wymiar i zakres praktyk pedagogicznych, treści programowe i wymagane umiejętności.(cid:148);
 
-- **57)** wart. 77apo ust. 3 dodaje się ust. 4—12 wbrzmieniu: Ń4. Placówki doskonalenia mogą uzyskać akredytację stanowiącą potwierdzenie, że dana placówka zapewnia wysoką jakość prowadzonych form doskonalenia nauczycieli.
+- **57)** w art. 77a po ust. 3 dodaje się ust. 4-12 w brzmieniu: (cid:132)4. Plac(cid:243)wki doskonalenia mogą uzyskać akredytację stanowiącą potwierdzenie, że dana plac(cid:243)wka zapewnia wysoką jakość prowadzonych form doskonalenia nauczycieli. kt(cid:243)rych mowa w art. 5 ust. 3b.
 
-5. Przepisu ust. 4 nie stosuje się do publicznych placówek doskonalenia, o których mowa w art. 5 ust. 3b.
+6. Akredytację przyznaje kurator oświaty właściwy dla siedziby plac(cid:243)wki, w drodze decyzji administracyjnej, wydawanej po przeprowadzeniu przez zesp(cid:243)ł powołany przez kuratora oświaty oceny działalności danej plac(cid:243)wki w zakresie określonym w ust. 7.
 
-6. Akredytację przyznaje kurator oświaty właściwy dla siedziby placówki, wdrodze decyzji administracyjnej, wydawanej po przeprowadzeniu przez zespół powołany przez kuratora oświaty oceny działalności danej placówki wzakresie określonym wust. 7.
-
-7. Akredytację może uzyskać placówka doskonalenia, która:
+7. Akredytację może uzyskać plac(cid:243)wka doskonalenia, kt(cid:243)ra:
 
 - **1)** zapewnia wykwalifikowaną kadrę,
 - **2)** opracowuje i wdraża programy doskonalenia nauczycieli oraz przeprowadza ich ewaluację,
 - **3)** prowadzi działalność informacyjną i upowszechnia problematykę doskonalenia nauczycieli,
 - **4)** zapewnia nowoczesną bazę dydaktyczną.
 
-8. Kurator oświaty, w drodze decyzji administracyjnej, może cofnąć akredytację, jeżeli stwierdzi niespełnianie przez placówkę doskonalenia warunków wymaganych do uzyskania akredytacji.
+8. Kurator oświaty, w drodze decyzji administracyjnej, może cofnąć akredytację, jeżeli stwierdzi niespełnianie przez plac(cid:243)wkę doskonalenia warunk(cid:243)w wymaganych do uzyskania akredytacji.
 
-9. Placówka doskonalenia ubiegająca się o uzyskanie akredytacji wnosi opłatę, która stanowi dochód budżetu państwa.
+9. Plac(cid:243)wka doskonalenia ubiegająca się o uzyskanie akredytacji wnosi opłatę, kt(cid:243)ra stanowi doch(cid:243)d budżetu państwa.
 
-10. Zopłat, októrych mowa wust. 9, zwolnione są placówki, które prowadzą całość kształcenia idoskonalenia zawodowego nauczycieli nieodpłatnie.
+10. Z opłat, o kt(cid:243)rych mowa w ust. 9, zwolnione są plac(cid:243)wki, kt(cid:243)re prowadzą całość kształcenia i doskonalenia zawodowego nauczycieli nieodpłatnie.
 
-11. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia, szczegółowe warunki i tryb przyznawania i cofania akredytacji, skład i sposób działania zespołu, októrym mowa wust. 6, oraz warunki wynagradzania jego członków, wzory dokumentów stosowanych wpostępowaniu ouzyskanie akredytacji, a także wysokość i tryb wnoszenia opłat przez placówki ubiegające się oakredytację.
+11. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia, szczeg(cid:243)łowe warunki i tryb przyznawania i cofania akredytacji, skład i spos(cid:243)b działania zespołu, o kt(cid:243)rym mowa w ust. 6, oraz warunki wynagradzania jego członk(cid:243)w, wzory dokument(cid:243)w stosowanych w postępowaniu o uzyskanie akredytacji, a także wysokość i tryb wnoszenia opłat przez plac(cid:243)wki ubiegające się o akredytację.
 
-12. Rozporządzenie, októrym mowa wust. 11, powinno uwzględniać w szczególności udział wzespole niezależnych specjalistów wdziedzinie doskonalenia i kształcenia nauczycieli, a także ustalać wysokość opłat tak, aby nie przekraczała kwoty 760 zł waloryzowanej corocznie wskaênikiem cen towarów i usług konsumpcyjnych.”;
+12. Rozporządzenie, o kt(cid:243)rym mowa w ust. 11, powinno uwzględniać w szczeg(cid:243)lności udział w zespole niezależnych specjalist(cid:243)w w dziedzinie doskonalenia i kształcenia nauczycieli, a także ustalać wysokość opłat tak, aby nie przekraczała kwoty 760 zł waloryzowanej corocznie wskaźnikiem cen towar(cid:243)w i usług konsumpcyjnych.(cid:148);
 
-- **58)** art. 78 otrzymuje brzmienie: ŃArt. 78. 1. Minister właściwy do spraw oświaty cówek doskonalenia nauczycieli szkół artystycznych w porozumieniu z ministrem właściwym do spraw kultury i ochrony dziedzictwa narodowego, określi, wdrodze rozporządzenia:
-- **1)** warunki i tryb tworzenia, przekształcania i likwidowania oraz organizację i sposób działania placówek doskonalenia, wtym zakres ich działalności obowiązkowej,
-- **2)** zadania doradców metodycznych, warunki i tryb powierzania nauczycielom zadań doradcy metodycznego, z uwzględnieniem zapewnienia nauczycielom dostępu do form doskonalenia i dokształcania umożliwiających podnoszenie wiedzy ogólnej i umiejętności zawodowych, atakże możliwości prowadzenia niektórych form doskonai wychowania, a w odniesieniu do plalenia i dokształcania przez zakłady kształcenia nauczycieli, szkoły wyższe oraz inne jednostki.
+- **58)** art. 78 otrzymuje brzmienie: (cid:132)Art. 78. 1. Minister właściwy do spraw oświaty i wychowania, a w odniesieniu do plac(cid:243)wek doskonalenia nauczycieli szk(cid:243)ł artystycznych w porozumieniu z ministrem właściwym do spraw kultury i ochrony dziedzictwa narodowego, określi, w drodze rozporządzenia:
+- **1)** warunki i tryb tworzenia, przekształcania i likwidowania oraz organizację i spos(cid:243)b działania plac(cid:243)wek doskonalenia, w tym zakres ich działalności obowiązkowej,
+- **2)** zadania doradc(cid:243)w metodycznych, warunki i tryb powierzania nauczycielom zadań doradcy metodycznego, z uwzględnieniem zapewnienia nauczycielom dostępu do form doskonalenia i dokształcania umożliwiających podnoszenie wiedzy og(cid:243)lnej i umiejętności zawodowych, a także możliwości zakłady kształcenia nauczycieli, szkoły wyższe oraz inne jednostki.
 
-2. Rozporządzenie, o którym mowa wust. 1, uwzględnia ponadto zadania, które mogą być realizowane wyłącznie przez placówki doskonalenia posiadające akredytację oraz publiczne placówki doskonalenia, o których mowa wart. 5 ust. 3b.
+2. Rozporządzenie, o kt(cid:243)rym mowa w ust. 1, uwzględnia ponadto zadania, kt(cid:243)re mogą być realizowane wyłącznie przez plac(cid:243)wki doskonalenia posiadające akredytację oraz publiczne plac(cid:243)wki doskonalenia, o kt(cid:243)rych mowa w art. 5 ust. 3b.
 
-3. W zakresie nieuregulowanym odmiennie wprzepisach wydanych na podstawie ust. 1 do placówek doskonalenia stosuje się przepisy dotyczące placówek.”;
+3. W zakresie nieuregulowanym odmiennie w przepisach wydanych na podstawie ust. 1 do plac(cid:243)wek doskonalenia stosuje się przepisy dotyczące plac(cid:243)wek.(cid:148);
 
-- **59)** wart. 79 ust. 1 otrzymuje brzmienie: Ń1. Przedszkola, szkoły i placówki publiczne zakładane iprowadzone przez ministrów ijednostki samorządu terytorialnego są jednostkami lub zakładami budżetowymi. Zasady gospodarki finansowej tych szkół, przedszkoli i placówek określają odrębne przepisy, z zastrzeżeniem ust. 1a.”;
-- **60)** wart. 80: na jednego wychowanka wplacówkach tego 62) art. 83aotrzymuje brzmienie: samego rodzaju prowadzonych przez powiat. Wprzypadku nieprowadzenia przez po- ŃArt. 83a. 1. Do prowadzenia szkoły lub placówki wiat placówki publicznej danego rodzaju oraz zespołu, októrym mowa wart. 90a podstawą ustalenia wysokości dotacji jest ust. 1, nie mają zastosowania przepisy kwota przewidziana na jednego wychowan- odziałalności gospodarczej. ka placówki tego rodzaju w części oświato- 2. Działalność oświatowa nieobejmująca wej subwencji ogólnej dla jednostek samo- prowadzenia szkoły, placówki lub zerządu terytorialnego.”; społu, o którym mowa w art. 90a ust. 1, może być podejmowana na za61) wart. 82: sadach określonych w przepisach Ń2) określenie odpowiednio typu irodzaju szko- 63) wart. 84 ust. 4 otrzymuje brzmienie: ły lub placówki oraz daty rozpoczęcia jej Ń4. Dokumentację przebiegu nauczania zlikwidofunkcjonowania, w przypadku liceum profi- wanej szkoły przekazuje się organowi sprawulowanego profili kształcenia ogólnozawo- jącemu nadzór pedagogiczny nad szkołą. Po zadowego, awprzypadku szkoły prowadzącej kończeniu likwidacji wpis do ewidencji ulega kształcenie zawodowe nazw zawodów, wykreśleniu.”; w jakich szkoła będzie kształcić, zgodnych znazwami zawodów występujących wklasy- 64) wart. 86: fikacji zawodów szkolnictwa zawodowego, a) po ust. 1 dodaje się ust. 1ai1bwbrzmieniu: októrej mowa wart. 24 ust. 1, lub klasyfikacji zawodów i specjalności ustalanej na po- Ń1a. Osoba prowadząca szkołę, o której mowa trzeby rynku pracy przez ministra właściwe- w ust. 1, składa wniosek o nadanie szkole go do spraw pracy, uprawnień szkoły publicznej do ministra właściwego do spraw oświaty i wychowa3) wskazanie miejsca prowadzenia szkoły lub nia za pośrednictwem kuratora oświaty, placówki oraz informację owarunkach loka- który dołącza swoją opinię. lowych zapewniających: 1b. Wniosek o uznanie szkoły za eksperymena) możliwość prowadzenia zajęć dydaktycz- talną powinien zawierać wszczególności: no-wychowawczych,
-    - **a)** ust. 2 otrzymuje brzmienie: Ń2. Przedszkola, októrych mowa wust. 1, otrzymują na każdego ucznia zbudżetu gminy dotację w wysokości równej wydatkom bieżącym przewidzianym na jednego ucznia wprzedszkolach publicznych prowadzonych przez gminę, z tym że na ucznia niepełnosprawnego wwysokości nie niższej niż kwota przewidziana na niepełnosprawnego ucznia przedszkola i oddziału przedszkolnego w części oświatowej subwencji ogólnej otrzymywanej przez jednostkę samorządu terytorialnego.”,
-    - **b)** po ust. 2 dodaje się ust. 2awbrzmieniu: Ń2a. Jeżeli do przedszkola, o którym mowa wust. 1, uczęszcza uczeń niebędący mieszkańcem gminy dotującej to przedszkole, gmina, której mieszkańcem jest ten uczeń, pokrywa koszty dotacji udzielonej zgodnie zust. 2.”,
-    - **c)** ust. 3 i3aotrzymują brzmienie: Ń3. Szkoły, o których mowa w ust. 1, otrzymują na każdego ucznia dotację zbudżetu jednostki samorządu terytorialnego obowiązanej do prowadzenia odpowiedniego typu i rodzaju szkół, wwysokości równej wydatkom bieżącym przewidzianym na jednego ucznia w szkołach tego samego typu i rodzaju prowadzonych przez tę jednostkę samorządu terytorialnego. W przypadku nieprowadzenia przez jednostkę samorządu terytorialnego szkoły tego samego typu irodzaju podstawą ustalenia wysokości dotacji jest kwota przewidziana na jednego ucznia szkoły publicznej danego typu i rodzaju w części oświatoc) wprzypadku szkoły prowadzącej kształcenie zawodowe możliwość realizacji praktycznej nauki zawodu,
-    - **d)** bezpieczne i higieniczne warunki nauki ipracy, zgodnie zodrębnymi przepisami,”,
-    - **b)** ust. 2aotrzymuje brzmienie: Ń2a. W przypadku szkoły podstawowej, gimnazjum i szkoły ponadgimnazjalnej ubiegających się o nadanie uprawnień szkoły publicznej z dniem rozpoczęcia działalności wpis do ewidencji może nastąpić, jeżeli osoba prowadząca przedstawi pozytywną opinię kuratora oświaty, a w przypadku szkoły medycznej także opinię ministra właściwego do spraw zdrowia, ospełnianiu wymagań określonych wart. 7 ust. 3.”,
-    - **c)** wust. 3a: pkt 3 otrzymuje brzmienie: Ń3) nazwę oraz odpowiednio typ i rodzaj szkoły lub placówki,”, pkt 6 i7 otrzymują brzmienie: wej subwencji ogólnej dla jednostek samorządu terytorialnego. Ń6) w przypadku szkoły prowadzącej kształcenie zawodowe nazwy zawodów, 3a. Placówki publiczne, októrych mowa wart. 2 wjakich szkoła kształci, pkt 5 i 7, prowadzone przez osoby prawne i fizyczne otrzymują na każdego wychowan- 7) wprzypadku liceum profilowanego naka dotację z budżetu powiatu w wysokości zwy profili kształcenia ogólnozawodowerównej wydatkom bieżącym przewidzianym go, wjakich szkoła kształci.”;
-    - **a)** wust. 2 pkt 2 i3 otrzymują brzmienie: odziałalności gospodarczej.”;
+- **59)** w art. 79 ust. 1 otrzymuje brzmienie: (cid:132)1. Przedszkola, szkoły i plac(cid:243)wki publiczne zakładane i prowadzone przez ministr(cid:243)w i jednostki samorządu terytorialnego są jednostkami lub zakładami budżetowymi. Zasady gospodarki finansowej tych szk(cid:243)ł, przedszkoli i plac(cid:243)wek określają odrębne przepisy, z zastrzeżeniem ust.
+
+1a. (cid:148);
+
+- **60)** w art. 80:
+    - **a)** ust. 2 otrzymuje brzmienie: (cid:132)2. Przedszkola, o kt(cid:243)rych mowa w ust. 1, otrzymują na każdego ucznia z budżetu gminy dotację w wysokości r(cid:243)wnej wydatkom bieżącym przewidzianym na jednego ucznia w przedszkolach publicznych prowadzonych przez gminę, z tym że na ucznia niepełnosprawnego w wysokości nie niższej niż kwota przewidziana na niepełnosprawnego ucznia przedszkola i oddziału przedszkolnego w części oświatowej subwencji og(cid:243)lnej otrzymywanej przez jednostkę samorządu terytorialnego.(cid:148),
+    - **b)** po ust. 2 dodaje się ust. 2a w brzmieniu: (cid:132)2a. Jeżeli do przedszkola, o kt(cid:243)rym mowa w ust. 1, uczęszcza uczeń niebędący mieszkańcem gminy dotującej to przedszkole, gmina, kt(cid:243)rej mieszkańcem jest ten uczeń, pokrywa koszty dotacji udzielonej zgodnie z ust. 2.(cid:148),
+    - **c)** ust. 3 i 3a otrzymuje brzmienie: (cid:132)3. Szkoły, o kt(cid:243)rych mowa w ust. 1, otrzymują na każdego ucznia dotację z budżetu jednostki samorządu terytorialnego obowiązanej do prowadzenia odpowiedniego typu i rodzaju szk(cid:243)ł, w wysokości r(cid:243)wnej wydatkom bieżącym przewidzianym na jednego ucznia w szkołach tego samego typu i rodzaju prowadzonych przez tę jednostkę samorządu terytorialnego. W przypadku nieprowadzenia przez jednostkę samorządu terytorialnego szkoły tego samego typu i rodzaju podstawą ustalenia wysokości dotacji jest kwota przewidziana na jednego ucznia szkoły publicznej danego typu i rodzaju w części oświatowej subwencji og(cid:243)lnej dla jednostek samorządu terytorialnego.
+
+3a. Plac(cid:243)wki publiczne, o kt(cid:243)rych mowa w art. 2 pkt 5 i 7, prowadzone przez osoby prawne i fizyczne otrzymują na każdego wychowanka dotację z budżetu powiatu w wysokości r(cid:243)wnej wydatkom bieżącym przewidzianym na jednego wychowanka w plac(cid:243)wkach tego samego rodzaju prowadzonych przez powiat. W przypadku nieprowadzenia wysokości dotacji jest kwota przewidziana na jednego wychowanka plac(cid:243)wki tego rodzaju w części oświatowej subwencji og(cid:243)lnej dla jednostek samorządu terytorialnego.(cid:148);
+
+- **61)** w art. 82:
+    - **a)** w ust. 2 pkt 2 i 3 otrzymują brzmienie: (cid:132)2) określenie odpowiednio typu i rodzaju szkoły lub plac(cid:243)wki oraz daty rozpoczęcia jej funkcjonowania, w przypadku liceum profilowanego profili kształcenia og(cid:243)lnozawodowego, a w przypadku szkoły prowadzącej kształcenie zawodowe - nazw zawod(cid:243)w, w jakich szkoła będzie kształcić, zgodnych z nazwami zawod(cid:243)w występujących w klasyfikacji zawod(cid:243)w szkolnictwa zawodowego, o kt(cid:243)rej mowa w art. 24 ust. 1, lub klasyfikacji zawod(cid:243)w i specjalności ustalanej na potrzeby rynku pracy przez ministra właściwego do spraw pracy,
+
+- **3)** wskazanie miejsca prowadzenia szkoły lub plac(cid:243)wki oraz informację o warunkach lokalowych zapewniających:
+    - **a)** możliwość prowadzenia zajęć dydaktyczno-wychowawczych,
     - **b)** realizację innych zadań statutowych,
+    - **c)** w przypadku szkoły prowadzącej kształcenie zawodowe możliwość realizacji praktycznej nauki zawodu,
+    - **d)** bezpieczne i higieniczne warunki nauki i pracy, zgodnie z odrębnymi przepisami,(cid:148),
+    - **b)** ust. 2a otrzymuje brzmienie: (cid:132)2a. W przypadku szkoły podstawowej, gimnazjum i szkoły ponadgimnazjalnej ubiegających się o nadanie uprawnień szkoły publicznej z dniem rozpoczęcia działalności wpis do ewidencji może nastąpić, jeżeli osoba prowadząca przedstawi pozytywną opinię kuratora oświaty, a w przypadku szkoły medycznej - także opinię ministra właściwego do spraw zdrowia, o spełnianiu wymagań określonych w art. 7 ust. 3.(cid:148),
+    - **c)** w ust. 3a: - pkt 3 otrzymuje brzmienie: (cid:132)3) nazwę oraz odpowiednio typ i rodzaj szkoły lub plac(cid:243)wki,(cid:148), - pkt 6 i 7 otrzymują brzmienie: (cid:132)6) w przypadku szkoły prowadzącej kształcenie zawodowe - nazwy zawod(cid:243)w, w jakich szkoła kształci,
+
+- **7)** w przypadku liceum profilowanego - nazwy profili kształcenia og(cid:243)lnozawodowego, w jakich szkoła kształci.(cid:148);
+- **62)** art. 83a otrzymuje brzmienie: (cid:132)Art. 83a. 1. Do prowadzenia szkoły lub plac(cid:243)wki oraz zespołu, o kt(cid:243)rym mowa w art. 90a ust. 1, nie mają zastosowania przepisy o działalności gospodarczej.
+
+2. Działalność oświatowa nieobejmująca prowadzenia szkoły, plac(cid:243)wki lub zespołu, o kt(cid:243)rym mowa w art. 90a ust. 1, może być działalności gospodarczej.(cid:148);
+
+- **63)** w art. 84 ust. 4 otrzymuje brzmienie: (cid:132)4. Dokumentację przebiegu nauczania zlikwidowanej szkoły przekazuje się organowi sprawującemu nadz(cid:243)r pedagogiczny nad szkołą. Po zakończeniu likwidacji wpis do ewidencji ulega wykreśleniu.(cid:148);
+- **64)** w art. 86:
+    - **a)** po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: (cid:132)1a. Osoba prowadząca szkołę, o kt(cid:243)rej mowa w ust. 1, składa wniosek o nadanie szkole uprawnień szkoły publicznej do ministra właściwego do spraw oświaty i wychowania za pośrednictwem kuratora oświaty, kt(cid:243)ry dołącza swoją opinię.
+
+1b. Wniosek o uznanie szkoły za eksperymentalną powinien zawierać w szczeg(cid:243)lności:
 
 - **1)** określenie celu, założeń i sposobu realizacji eksperymentu,
 - **2)** opinię instytucji naukowej dotyczącą założeń eksperymentu wraz ze zgodą tej instytucji na sprawowanie opieki nad przebiegiem eksperymentu i dokonanie jego oceny,
 - **3)** zgodę rady pedagogicznej,
-- **4)** wprzypadku eksperymentu dotyczącego kształcenia w zawodzie nieumieszczonym wklasyfikacji zawodów szkolnictwa zawodowego, o której mowa w art. 24 ust. 1, także uzasadnienie potrzeby kształcenia w tym zawodzie wraz z opiniami:
-    - **a)** wojewódzkiej lub powiatowej rady zatrudnienia wydanymi po uzyskaniu stanowiska wojewódzkiego lub powiatowego urzędu pracy,
-    - **b)** organu samorządu gospodarczego lub innej organizacji gospodarczej właściwej dla danego zawodu albo organizacji pracodawców,
-    - **c)** instytucji naukowej lub stowarzyszenia zawodowego właściwego dla danego zawodu wzakresie oceny merytorycznej zawartości programu nauczania przewidzianego dla danego zawodu,
-    - **d)** ministra właściwego dla danego zawodu wzakresie ewentualnego wprowadzenia tego zawodu do klasyfikacji zawodów szkolnictwa zawodowego.”,
-    - **b)** ust. 2 otrzymuje brzmienie: Ń2. Minister właściwy do spraw oświaty i wychowania, nadając uprawnienia, o których mowa w ust. 1, określa niezbędne warunki funkcjonowania szkoły, uwzględniając wszczególności założenia isposób realizacji eksperymentu, wskazane we wniosku.”;
+- **4)** w przypadku eksperymentu dotyczącego kształcenia w zawodzie nieumieszczonym w klasyfikacji zawod(cid:243)w szkolnictwa zawodowego, o kt(cid:243)rej mowa w art. 24 ust. 1, także uzasadnienie potrzeby kształcenia w tym zawodzie wraz z opiniami:
+    - **a)** wojew(cid:243)dzkiej lub powiatowej rady zatrudnienia wydanymi po uzyskaniu stanowiska wojew(cid:243)dzkiego lub powiatowego urzędu pracy,
+    - **b)** organu samorządu gospodarczego lub innej organizacji gospodarczej właściwej dla danego zawodu albo organizacji pracodawc(cid:243)w,
+    - **c)** instytucji naukowej lub stowarzyszenia zawodowego właściwego dla danego zawodu w zakresie oceny merytorycznej zawartości programu nauczania przewidzianego dla danego zawodu,
+    - **d)** ministra właściwego dla danego zawodu w zakresie ewentualnego wprowadzenia tego zawodu do klasyfikacji zawod(cid:243)w szkolnictwa zawodowego.(cid:148),
+    - **b)** ust. 2 otrzymuje brzmienie: (cid:132)2. Minister właściwy do spraw oświaty i wychowania, nadając uprawnienia, o kt(cid:243)rych mowa w ust. 1, określa niezbędne warunki funkcjonowania szkoły, uwzględniając w szczeg(cid:243)lności założenia i spos(cid:243)b realizacji eksperymentu, wskazane we wniosku.(cid:148);
 
-- **65)** art. 88 otrzymuje brzmienie: ŃArt. 88. Uprawnienia szkoły publicznej mogą zostać cofnięte przez organ, który je nadał, jeżeli w trybie nadzoru pedagogicznego zostanie stwierdzone niespełnianie warunków, o których mowa w art. 7 ust. 3, lub określonych zgodnie z art. 86 ust. 2. Cofnięcie uprawnień następuje w drodze decyzji administracyjnej i w przypadku szkoły podstawowej lub gimnazjum jest równoznaczne z ich likwidacją z końcem roku szkolnego, w którym decyzja stała się ostateczna.”;
-- **66)** wart. 90:
-    - **a)** ust. 2botrzymuje brzmienie: Ń2b. Dotacje dla niepublicznych przedszkoli przysługują na każdego ucznia w wysokości nie niższej niż 75% ustalonych wbudżeszonych w przedszkolach publicznych w przeliczeniu na jednego ucznia, z tym że na ucznia niepełnosprawnego wwysokości nie niższej niż kwota przewidziana na niepełnosprawnego ucznia przedszkola i oddziału przedszkolnego wczęści oświatowej subwencji ogólnej otrzymywanej przez jednostkę samorządu terytorialnego pod warunkiem, że osoba prowadząca niepubliczne przedszkole poda organowi właściwemu do udzielania dotacji planowaną liczbę uczniów nie póêniej niż do dnia 30 września roku poprzedzającego rok udzielania dotacji.”,
-    - **b)** po ust. 2bdodaje się ust. 2cwbrzmieniu: Ń2c. Jeżeli do przedszkola, o którym mowa w ust. 2b, uczęszcza uczeń niebędący mieszkańcem gminy dotującej to przedszkole, gmina, której mieszkańcem jest ten uczeń, pokrywa koszty dotacji udzielonej zgodnie zust. 2b.”,
-    - **c)** ust. 3ai3botrzymują brzmienie: Ń3a. Placówki niepubliczne, o których mowa wart. 2 pkt 5 i7, otrzymują na każdego wychowanka dotacje zbudżetu powiatu wwysokości równej średnim wydatkom bieżącym ponoszonym na jednego wychowanka tego samego rodzaju placówki publicznej, a w przypadku niepublicznych ośrodków umożliwiających realizację obowiązku, októrym mowa wart. 14 ust. 3, obowiązku szkolnego i obowiązku nauki dzieciom i młodzieży, o których mowa w art. 16 ust. 7, a także dzieciom i młodzieży z upośledzeniem umysłowym ze sprzężonymi niepełnosprawnościami, w wysokości nie niższej niż kwota przewidziana na jednego wychowanka tego rodzaju ośrodków wczęści oświatowej subwencji ogólnej dla jednostek samorządu terytorialnego, pod warunkiem, że osoba prowadząca placówkę przedstawi planowaną liczbę wychowanków organowi właściwemu do udzielenia dotacji, nie póêniej niż do dnia 30 września roku poprzedzającego rok udzielenia dotacji.
+- **65)** art. 88 otrzymuje brzmienie: (cid:132)Art. 88. Uprawnienia szkoły publicznej mogą zostać cofnięte przez organ, kt(cid:243)ry je nadał, jeżeli w trybie nadzoru pedagogicznego zostanie ust. 3 lub określonych zgodnie z art. 86 ust. 2. Cofnięcie uprawnień następuje w drodze decyzji administracyjnej i w przypadku szkoły podstawowej lub gimnazjum jest r(cid:243)wnoznaczne z ich likwidacją z końcem roku szkolnego, w kt(cid:243)rym decyzja stała się ostateczna.(cid:148);
+- **66)** w art. 90:
+    - **a)** ust. 2b otrzymuje brzmienie: (cid:132)2b. Dotacje dla niepublicznych przedszkoli przysługują na każdego ucznia w wysokości nie niższej niż 75% ustalonych w budżecie danej gminy wydatk(cid:243)w bieżących ponoszonych w przedszkolach publicznych w przeliczeniu na jednego ucznia, z tym że na ucznia niepełnosprawnego w wysokości nie niższej niż kwota przewidziana na niepełnosprawnego ucznia przedszkola i oddziału przedszkolnego w części oświatowej subwencji og(cid:243)lnej otrzymywanej przez jednostkę samorządu terytorialnego - pod warunkiem, że osoba prowadząca niepubliczne przedszkole poda organowi właściwemu do udzielania dotacji planowaną liczbę uczni(cid:243)w nie p(cid:243)źniej niż do dnia 30 września roku poprzedzającego rok udzielania dotacji.(cid:148),
+    - **b)** po ust. 2b dodaje się ust. 2c w brzmieniu: (cid:132)2c. Jeżeli do przedszkola, o kt(cid:243)rym mowa w ust. 2b, uczęszcza uczeń niebędący mieszkańcem gminy dotującej to przedszkole, gmina, kt(cid:243)rej mieszkańcem jest ten uczeń, pokrywa koszty dotacji udzielonej zgodnie z ust. 2b.(cid:148),
+    - **c)** ust. 3a i 3b otrzymują brzmienie: (cid:132)3a. Plac(cid:243)wki niepubliczne, o kt(cid:243)rych mowa w art. 2 pkt 5 i 7, otrzymują na każdego wychowanka dotacje z budżetu powiatu w wysokości r(cid:243)wnej średnim wydatkom bieżącym ponoszonym na jednego wychowanka tego samego rodzaju plac(cid:243)wki publicznej, a w przypadku niepublicznych ośrodk(cid:243)w umożliwiających realizację obowiązku, o kt(cid:243)rym mowa w art. 14 ust. 3, obowiązku szkolnego i obowiązku nauki dzieciom i młodzieży, o kt(cid:243)rych mowa w art. 16 ust. 7, a także dzieciom i młodzieży z upośledzeniem umysłowym ze sprzężonymi niepełnosprawnościami, w wysokości nie niższej niż kwota przewidziana na jednego wychowanka tego rodzaju ośrodk(cid:243)w w części oświatowej subwencji og(cid:243)lnej dla jednostek samorządu terytorialnego, pod warunkiem, że osoba prowadząca plac(cid:243)wkę przedstawi planowaną liczbę wychowank(cid:243)w organowi właściwemu do udzielenia dotacji, nie p(cid:243)źniej niż do dnia 30 września roku poprzedzającego rok udzielenia dotacji.
 
-3b. Szkoły niepubliczne nieposiadające uprawnień szkoły publicznej oraz placówki niepubliczne, o których mowa w art. 2 pkt 3, 4 i 10, mogą otrzymywać dotacje z budżetu powiatu.”;
+3b. Szkoły niepubliczne nieposiadające uprawnień szkoły publicznej oraz plac(cid:243)wki niepubliczne, o kt(cid:243)rych mowa w art. 2 pkt 3, 4 i 10, mogą otrzymywać dotacje z budżetu powiatu.(cid:148);
 
-- **67)** wart. 91 po ust. 2 dodaje się ust. 3 i4 wbrzmieniu: Ń3. Rada Ministrów może przyjąć rządowy program mający na celu:
-- **1)** wyrównywanie szans edukacyjnych dzieci i młodzieży oraz innych grup społecznych, w tym program zwiększający zdolność wykorzystania środków finansowych pochocie danej gminy wydatków bieżących ponodzących zfunduszy strukturalnych na rozwój kształcenia ustawicznego,
-- **2)** wspomaganie tworzenia warunków do sprawowania profilaktycznej opieki zdrowotnej nad uczniami.
+- **67)** w art. 91 po ust. 2 dodaje się ust. 3 i 4 w brzmieniu: (cid:132)3. Rada Ministr(cid:243)w może przyjąć rządowy program mający na celu:
+- **1)** wyr(cid:243)wnywanie szans edukacyjnych dzieci i młodzieży oraz innych grup społecznych, w tym program zwiększający zdolność strukturalnych na rozw(cid:243)j kształcenia ustawicznego,
+- **2)** wspomaganie tworzenia warunk(cid:243)w do sprawowania profilaktycznej opieki zdrowotnej nad uczniami.
 
-4. Rada Ministrów określi, wdrodze rozporządzenia:
+4. Rada Ministr(cid:243)w określi, w drodze rozporządzenia:
 
-- **1)** szczegółowe zasady udzielania pomocy dzieciom i młodzieży oraz innym grupom społecznym objętym programem, formy i zakres tej pomocy oraz tryb postępowania wtych sprawach, uwzględniając wszczególności przedsięwzięcia sprzyjające eliminowaniu barier edukacyjnych, a także osoby igrupy osób uprawnione do pomocy,
-- **2)** szczegółowe zasady, formy i tryb wspomagania tworzenia warunków do sprawowania profilaktycznej opieki zdrowotnej nad uczniami, uwzględniając w szczególności tworzenie gabinetów profilaktyki zdrowotnej dla uczniów.”;
-- **68)** art. 92 otrzymuje brzmienie: ŃArt. 92. 1. Uczniowie, z wyjątkiem uczniów szkół dla dorosłych, objęci są świadczeniami profilaktycznej opieki zdrowotnej.
+- **1)** szczeg(cid:243)łowe zasady udzielania pomocy dzieciom i młodzieży oraz innym grupom społecznym objętym programem, formy i zakres tej pomocy oraz tryb postępowania w tych sprawach, uwzględniając w szczeg(cid:243)lności przedsięwzięcia sprzyjające eliminowaniu barier edukacyjnych, a także osoby i grupy os(cid:243)b uprawnione do pomocy,
+- **2)** szczeg(cid:243)łowe zasady, formy i tryb wspomagania tworzenia warunk(cid:243)w do sprawowania profilaktycznej opieki zdrowotnej nad uczniami, uwzględniając w szczeg(cid:243)lności tworzenie gabinet(cid:243)w profilaktyki zdrowotnej dla uczni(cid:243)w.(cid:148);
+- **68)** art. 92 otrzymuje brzmienie: (cid:132)Art. 92. 1. Uczniowie, z wyjątkiem uczni(cid:243)w szk(cid:243)ł dla dorosłych, objęci są świadczeniami profilaktycznej opieki zdrowotnej.
 
-2. Organizację oraz formy profilaktycznej opieki zdrowotnej nad uczniami określają przepisy opowszechnym ubezpieczeniu zdrowotnym.”;
+2. Organizację oraz formy profilaktycznej opieki zdrowotnej nad uczniami określają przepisy o powszechnym ubezpieczeniu zdrowotnym.(cid:148);
 
-- **69)** art. 93 otrzymuje brzmienie: ŃArt. 93. 1. Âwiadectwa szkolne oraz świadectwa maturalne uzyskane za granicą uznaje się za równorzędne świadectwom ukończenia odpowiednich szkół publicznych i świadectwom dojrzałości określonym w ustawie, na zasadach przewidzianych wumowach międzynarodowych.
+- **69)** art. 93 otrzymuje brzmienie: (cid:132)Art. 93. 1. Świadectwa szkolne oraz świadectwa maturalne uzyskane za granicą uznaje się za r(cid:243)wnorzędne świadectwom ukończenia odpowiednich szk(cid:243)ł publicznych i świadectwom dojrzałości określonym w ustawie, na zasadach przewidzianych w umowach międzynarodowych.
 
-2. W razie braku odpowiednich umów międzynarodowych świadectwa, októrych mowa w ust. 1, mogą być w drodze nostryfikacji uznane za równorzędne odpowiednim świadectwom określonym w ustawie, z zastrzeżeniem ust. 3 i4.
+2. W razie braku odpowiednich um(cid:243)w międzynarodowych świadectwa, o kt(cid:243)rych mowa w ust. 1, mogą być w drodze nostryfikacji uznane za r(cid:243)wnorzędne odpowiednim świadectwom określonym w ustawie, z zastrzeżeniem ust. 3 i 4.
 
-3. Minister właściwy do spraw oświaty i wychowania, w porozumieniu z ministrem właściwym do spraw zagranicznych, określi, wdrodze rozporządzenia, warunki i tryb nostryfikacji świadectw szkolnych i świadectw maturalnych uzyskanych za granicą, a także rodzaje świadectw szkolnych i świadectw maturalnych uzyskanych za granicą, które uznaje się za równorzędne ze świadectwami określonymi wustawie bez obowiązku przeprowadzania nostryfikacji.
+3. Minister właściwy do spraw oświaty i wychowania, w porozumieniu z ministrem właściwym do spraw zagranicznych, określi, w drodze rozporządzenia, warunki i tryb nostryfikacji świadectw szkolnych i świadectw maturalnych uzyskanych za granicą, a także rodzaje świadectw szkolnych i świadectw maturalnych uzyskanych za granicą, kt(cid:243)re uznaje się za r(cid:243)wnorzędne ze świadectwami określonymi w ustawie bez obowiązku przeprowadzania nostryfikacji.
 
-4. Rozporządzenie, o którym mowa w ust. 3, powinno w szczególności uki za granicą zokresami nauki wszkołach polskich, rodzaje dokumentów, które powinny być dołączone do wniosku o nostryfikację, a także może uwzględnić dodatkowe warunki, jakie muszą być spełnione dla uznania świadectwa szkolnego lub świadectwa maturalnego uzyskanego za granicą za równorzędne ze świadectwem określonym w ustawie bez przeprowadzania nostryfikacji.”;
+4. Rozporządzenie, o kt(cid:243)rym mowa w ust. 3, powinno w szczeg(cid:243)lności uwzględniać por(cid:243)wnanie okres(cid:243)w nauki za granicą z okresami nauki w szkołach polskich, rodzaje dokument(cid:243)w, kt(cid:243)re powinny być dołączone do wniosku o nostryfikację, a także może uwzględnić dodatkowe warunki, jakie muszą być spełnione dla uznania świadectwa szkolnego lub świadectwa maturalnego uzyskanego za granicą za r(cid:243)wnorzędne ze świadectwem określonym w ustawie bez przeprowadzania nostryfikacji.(cid:148);
 
-- **70)** wart. 94:
-    - **a)** po ust. 1 dodaje się ust. 1awbrzmieniu: Ń1a. Okres doskonalenia za granicą jest zaliczany do okresu zatrudnienia nauczyciela wkraju, od którego zależą uprawnienia pracownicze, na warunkach określonych wrozporządzeniu, októrym mowa wust. 2.”,
-    - **b)** ust. 2 otrzymuje brzmienie: Ń2. Minister właściwy do spraw oświaty i wyuwzględniać porównanie okresów nachowania, wporozumieniu zministrem właściwym do spraw zagranicznych, określi, w drodze rozporządzenia, warunki kierowania za granicę uczniów w celu kształcenia oraz nauczycieli w celu doskonalenia, uwzględniając wszczególności:
-
+- **a)** po ust. 1 dodaje się ust. 1a w brzmieniu: (cid:132)1a. Okres doskonalenia za granicą jest zaliczany do okresu zatrudnienia nauczyciela w kraju, od kt(cid:243)rego zależą uprawnienia pracownicze, na warunkach określonych w rozporządzeniu, o kt(cid:243)rym mowa w ust. 2.(cid:148),
+- **b)** ust. 2 otrzymuje brzmienie: (cid:132)2. Minister właściwy do spraw oświaty i wychowania, w porozumieniu z ministrem właściwym do spraw zagranicznych, określi, w drodze rozporządzenia, warunki kierowania za granicę uczni(cid:243)w w celu kształcenia oraz nauczycieli w celu doskonalenia, uwzględniając w szczeg(cid:243)lności:
 - **1)** możliwość przyznania stypendium i innych świadczeń,
-- **2)** okres, na jaki przyznaje się stypendium, oraz szczegółowe warunki wypłacania stypendium iinnych świadczeń,
-- **3)** minimalną wysokość stypendium, kierując się wysokością wynagrodzenia zasadniczego idodatku zagranicznego, określoną w przepisach w sprawie wynagrodzenia idodatków przysługujących członkom służby zagranicznej,
-- **4)** możliwość udzielania nauczycielom pozostającym wzatrudnieniu urlopu szkoleniowego lub bezpłatnego oraz okres, na jaki udziela się tych urlopów, a także zasady obliczania wysokości wynagrodzenia za okres urlopu szkoleniowego,
-- **5)** możliwość przyznania świadczeń na rzecz rodzin osób, októrych mowa wpkt 4,
-- **6)** organy uprawnione do przyznawania stypendiów iświadczeń oraz udzielania urlopów,
-- **7)** warunki zaliczania okresu doskonalenia za granicą do okresu zatrudnienia wkraju,
-- **8)** warunki odwoływania uczniów i nauczycieli skierowanych za granicę oraz warunki zwrotu wypłaconych im stypendiów iświadczeń.”.
+- **2)** okres, na jaki przyznaje się stypendium oraz szczeg(cid:243)łowe warunki wypłacania stypendium i innych świadczeń,
+- **3)** minimalną wysokość stypendium, kierując się wysokością wynagrodzenia zasadniczego i dodatku zagranicznego, określoną w przepisach w sprawie wynagrodzenia i dodatk(cid:243)w przysługujących członkom służby zagranicznej,
+- **4)** możliwość udzielania nauczycielom pozostającym w zatrudnieniu urlopu szkoleniowego lub bezpłatnego oraz okres, na jaki udziela się tych urlop(cid:243)w, a także zasady obliczania wysokości wynagrodzenia za okres urlopu szkoleniowego,
+- **5)** możliwość przyznania świadczeń na rzecz rodzin os(cid:243)b, o kt(cid:243)rych mowa w pkt 4,
+- **6)** organy uprawnione do przyznawania stypendi(cid:243)w i świadczeń oraz udzielania urlop(cid:243)w,
+- **7)** warunki zaliczania okresu doskonalenia za granicą do okresu zatrudnienia w kraju,
+- **8)** warunki odwoływania uczni(cid:243)w i nauczycieli skierowanych za granicę oraz warunki zwrotu wypłaconych im stypendi(cid:243)w i świadczeń.(cid:148).
 
-**Art. 2.** W ustawie z dnia 26 stycznia 1982 r. Karta Nauczyciela (Dz. U. z2003 r. 118, poz. 1112) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 26 stycznia 1982 r. - Karta Nauczyciela (Dz.U. z 2003 r. Nr 118, poz. 1112) wprowadza się następujące zmiany:
 
-**Art. 3.** Wustawie zdnia 26 paêdziernika 1982 r. opostępowaniu w sprawach nieletnich (Dz. U. z 2002 r. 11, poz. 109 iNr 58, poz. 542) wprowadza się nastę1) wart. 6 pkt 9 otrzymuje brzmienie: Ń9) orzec umieszczenie w rodzinie zastępczej, w młodzieżowym ośrodku wychowawczym, w młodzieżowym ośrodku socjoterapii albo wośrodku szkolno-wychowawczym,”;
+**Art. 3.** W ustawie z dnia 26 października 1982 r. o postępowaniu w sprawach nieletnich (Dz.U. z 2002 r. Nr 11, poz. 109 i Nr 58, poz. 542) wprowadza się następujące zmiany:
 
-**Art. 4.** Wustawie zdnia 22 marca 1989 r. orzemiośle (Dz. U. z2002 r. 112, poz. 979) wart. 3:
+**Art. 4.** W ustawie z dnia 22 marca 1989 r. o rzemiośle (Dz.U. z 2002 r. Nr 112, poz. 979) w art. 3:
 
-**Art. 5.** Wustawie zdnia 12 września 1990 r. oszkolnictwie wyższym (Dz. U. 65, poz. 385, zpóên. zm. ) rych jeden stanowi przedmiot główny, adrugi dodatkowy.”;
+**Art. 5.** W ustawie z dnia 12 września 1990 r. o szkolnictwie wyższym (Dz.U. Nr 65, poz. 385, z p(cid:243)źn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 6.** W ustawie z dnia 29 listopada 1990 r. o pomocy społecznej (Dz. U. z1998 r. 64, poz. 414, zpóên. zm. ) wprowadza się następujące zmiany:
+**Art. 6.** W ustawie z dnia 29 listopada 1990 r. o pomocy społecznej (Dz.U. z 1998 r. Nr 64, poz. 414, z p(cid:243)źn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 7.** Wustawie zdnia 20 czerwca 1992 r. ouprawnieniach do ulgowych przejazdów środkami publicznego transportu zbiorowego (Dz. U. z 2002 r. 175, poz. 1440) wprowadza się następujące zmiany:
+**Art. 7.** W ustawie z dnia 20 czerwca 1992 r. o uprawnieniach do ulgowych przejazd(cid:243)w środkami publicznego transportu zbiorowego (Dz.U. z 2002 r. Nr 175, poz. 1440) wprowadza się następujące zmiany:
 
-**Art. 8.** W ustawie z dnia 26 czerwca 1997 r. o wyższych szkołach zawodowych (Dz. U. 96, poz. 590, z 1998 r. 106, poz. 668, z 2000 r. 120, poz. 1268 i 122, poz. 1314, z 2001 r. 85, poz. 924 i 111, poz. 1194, z2002 r. 4, poz. 33 iNr 150, poz. 1239 oraz z 2003 r. 65, poz. 595) wprowadza się następujące zmiany:
+**Art. 8.** W ustawie z dnia 26 czerwca 1997 r. o wyższych szkołach zawodowych (Dz.U. Nr 96, poz. 590, z 1998 r. Nr 106, poz. 668, z 2000 r. Nr 120, poz. 1268 i Nr 122, poz. 1314, z 2001 r. Nr 85, poz. 924 i Nr 111, poz. 1194, z 2002 r. Nr 4, poz. 33 i Nr 150, poz. 1239 oraz z 2003 r. Nr 65, poz. 595) wprowadza się następujące zmiany:
 
-**Art. 9.** Wustawie zdnia 21 stycznia 2000 r. ozmianie niektórych ustaw związanych z funkcjonowaniem administracji publicznej (Dz. U. 12, poz. 136, 95, poz. 1041 iNr 122, poz. 1323, z2001 r. 111, poz. 1194 i 154, poz. 1802 oraz z 2002 r. 208, poz. 1763) wprowadza się następujące zmiany:
+**Art. 9.** W ustawie z dnia 21 stycznia 2000 r. o zmianie niekt(cid:243)rych ustaw związanych z funkcjonowaniem administracji publicznej (Dz.U. Nr 12, poz. 136, Nr 95, poz. 1041 i Nr 122, poz. 1323, z 2001 r. Nr 111, poz. 1194 i Nr 154, poz. 1802 oraz z 2002 r. Nr 208, poz. 1763) wprowadza się następujące zmiany:
 
-**Art. 10.** W ustawie z dnia 18 lutego 2000 r. o zmianie ustawy Karta Nauczyciela oraz ozmianie niektórych innych ustaw (Dz. U. 19, poz. 239, z 2001 r. 111, poz. 1194 i 154, poz. 1794 oraz z 2002 r. 41, poz. 362 i 152, poz. 1267) art. 8 otrzymuje brzmienie: ŃArt. 8. Wokresie do dnia 31 grudnia 2010 r. tytuł honorowy profesora oświaty może być nadany w trybie i na zasadach określonych w art. 9i ustawy, októrej mowa wart. 1, nauczycielowi, który legitymuje się co najmniej 7-letnim okresem pracy jako nauczyciel dyplomowany.”.
+**Art. 10.** W ustawie z dnia 18 lutego 2000 r. o zmianie ustawy - Karta Nauczyciela oraz o zmianie niekt(cid:243)rych innych ustaw (Dz.U. Nr 19, poz. 239, z 2001 r. Nr 111, poz. otrzymuje brzmienie: (cid:132)Art. 8. W okresie do dnia 31 grudnia 2010 r. tytuł honorowy profesora oświaty może być nadany w trybie i na zasadach określonych w art. 9i ustawy, o kt(cid:243)rej mowa w art. 1, nauczycielowi, kt(cid:243)ry legitymuje się co najmniej 7-letnim okresem pracy jako nauczyciel dyplomowany.(cid:148).
 
 **Art. 11.**
 
-1. Wterminie do dnia 31 grudnia 2004 r. samorząd województwa przejmuje prowadzenie szkół i placówek mających znaczenie co najmniej regionalne, przejętych z dniem 1 stycznia 1999 r. przez samorząd powiatowy, jeżeli rada powiatu podejmie uchwałę o przekazaniu tych szkół i placówek samorządowi województwa wraz zmieniem powiatowym, będącym studia wyższe zawodowe przygotowują absolwe władaniu przekazywanych szkół i placówek, z zastrzeżeniem ust. 2.
+1. W terminie do dnia 31 grudnia 2004 r. samorząd wojew(cid:243)dztwa przejmuje prowadzenie szk(cid:243)ł i plac(cid:243)wek mających znaczenie co najmniej regionalne, przejętych z dniem 1 stycznia 1999 r. przez samorząd powiatowy, jeżeli rada powiatu podejmie uchwałę o przekazaniu tych szk(cid:243)ł i plac(cid:243)wek samorządowi wojew(cid:243)dztwa wraz z mieniem powiatowym, będącym we władaniu przekazywanych szk(cid:243)ł i plac(cid:243)wek, z zastrzeżeniem ust. 2.
 
-2. Uchwała, o której mowa w ust. 1, może zostać podjęta przez radę powiatu, jeżeli kurator oświaty wyrazi pozytywną opinię oco najmniej regionalnym charakterze szkół i placówek wymienionych w projekcie uchwały.
+2. Uchwała, o kt(cid:243)rej mowa w ust. 1, może zostać podjęta przez radę powiatu, jeżeli kurator oświaty wyrazi pozytywną opinię o co najmniej regionalnym charakterze szk(cid:243)ł i plac(cid:243)wek wymienionych w projekcie uchwały.
 
-3. Od opinii kuratora oświaty, o której mowa w ust. 2, samorządowi powiatowemu i samorządowi województwa przysługuje odwołanie do ministra właściwego do spraw oświaty i wychowania, w terminie 7 dni od doręczenia opinii kuratora. Opinia ministra wtej sprawie jest ostateczna.
+3. Od opinii kuratora oświaty, o kt(cid:243)rej mowa w ust. 2, samorządowi powiatowemu i samorządowi wojew(cid:243)dztwa przysługuje odwołanie do ministra właściwego do spraw oświaty i wychowania, w terminie 7 dni od doręczenia opinii kuratora. Opinia ministra w tej sprawie jest ostateczna.
 
-4. Tryb przekazania szkół iplacówek, októrych mowa wust. 1, określa porozumienie zawarte między zarządem województwa izarządem powiatu.
+4. Tryb przekazania szk(cid:243)ł i plac(cid:243)wek, o kt(cid:243)rych mowa w ust. 1, określa porozumienie zawarte między zarządem wojew(cid:243)dztwa i zarządem powiatu.
 
 **Art. 12.**
 
-1. Egzaminatorzy wpisani przed dniem wejścia wżycie niniejszej ustawy do ewidencji egzaminatorów prowadzonej przez Centralną Komisję Egzaminacyjną są wpisywani zurzędu do ewidencji egzaminatorów prowadzonej przez okręgową komisję egzaminacyjną właściwą dla ich miejsca zamieszkania.
+1. Egzaminatorzy wpisani przed dniem wejścia w życie niniejszej ustawy do ewidencji egzaminator(cid:243)w prowadzonej przez Centralną Komisję Egzaminacyjną są wpisywani z urzędu do ewidencji egzaminator(cid:243)w prowadzonej przez okręgową komisję egzaminacyjną właściwą dla ich miejsca zamieszkania.
 
-2. Centralna Komisja Egzaminacyjna, w terminie
+2. Centralna Komisja Egzaminacyjna, w terminie 60 dni od dnia wejścia w życie niniejszej ustawy, przekaże właściwym okręgowym komisjom egzaminacyjnym dokumentację dotyczącą egzaminator(cid:243)w, o kt(cid:243)rych mowa w ust. 1.
 
-- **3)** szkoły podstawowej igimnazjum,
-- **4)** przedszkola, szkoły podstawowej igimnazjum mogą funkcjonować nie dłużej niż do dnia 31 sierpnia 2005 r., chyba że przed tym dniem uzyskają pozytywną opinię, októrej mowa wart. 62 ust. 5bustawy wymienionej wart. 1 niniejszej ustawy.
-
-**Art. 16.** Do dnia 31 sierpnia 2005 r. obowiązek nauki może być realizowany również przez uczęszczanie na zajęcia, o których mowa w art. 16 ust. 5a pkt 2 i 3 ustawy wymienionej w art. 1 niniejszej ustawy, w brzmieniu nadanym niniejszą ustawą, realizowane przez podmioty nieposiadające akredytacji.
-
-**Art. 17.** Szkoły publiczne w terminie nie dłuższym niż 3 lata od dnia wejścia wżycie niniejszej ustawy zapewnią uczniom możliwość korzystania z gabinetu profilaktyki zdrowotnej.
-
-**Art. 18.**
-
-1. Istniejące wdniu wejścia wżycie ustawy placówki resocjalizacyjne będące placówkami opiekuńczo-wychowawczymi działającymi na podstawie ustawy, októrej mowa wart. 6 niniejszej ustawy: 60 dni od dnia wejścia wżycie niniejszej ustawy, przekaże właściwym okręgowym komisjom egzaminacyjnym dokumentację dotyczącą egzaminatorów, o których mowa wust. 1.
-
-3. Do wszczętych i niezakończonych przed dniem wejścia wżycie niniejszej ustawy postępowań wsprawach wpisu do ewidencji egzaminatorów oraz wykreślenia z tej ewidencji stosuje się przepisy niniejszej ustawy.
+3. Do wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy postępowań w sprawach wpisu do ewidencji egzaminator(cid:243)w oraz wykreślenia z tej ewidencji stosuje się przepisy niniejszej ustawy.
 
 **Art. 13.**
 
-1. Z dniem 1 stycznia 2004 r. specjalistów, o których mowa w art. 22 ust. 2 pkt 3 ustawy wymienionej w art. 1, wpisuje się na właściwe listy rzeczoznawców, o których mowa odpowiednio w art. 22 ust. 2 pkt 3 lit. aiwart. 22aust. 4 ustawy wymienionej wart. 1, wbrzmieniu nadanym niniejszą ustawą.
+1. Z dniem 1 stycznia 2004 r. specjalist(cid:243)w, o kt(cid:243)rych mowa w art. 22 ust. 2 pkt 3 ustawy wymienionej w art. 1 wpisuje się na właściwe listy rzeczoznawc(cid:243)w, o kt(cid:243)rych mowa odpowiednio w art. 22 ust. 2 pkt 3 lit. a i w art. 22a ust. 4 ustawy wymienionej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
-2. Po upływie 2 lat od dnia wejścia wżycie ustawy, odpowiednio minister właściwy do spraw oświaty i wychowania i minister właściwy do spraw kultury i ochrony dziedzictwa narodowego dokonają z urzędu skreślenia z list rzeczoznawców, którzy nie spełniają odpowiednio warunków określonych w przepisach wydanych na podstawie art. 22 ust. 2 pkt 3 i art. 22a ust. 8 pkt 3 ustawy wymienionej wart. 1, wbrzmieniu nadanym niniejszą ustawą.
+2. Po upływie 2 lat od dnia wejścia w życie ustawy, odpowiednio minister właściwy do spraw oświaty i wychowania i minister właściwy do spraw kultury i ochrony dziedzictwa narodowego dokonają z urzędu skreślenia z list przepisach wydanych na podstawie art. 22 ust. 2 pkt 3 i art. 22a ust. 8 pkt 3 ustawy wymienionej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 14.** Uczniowie, którzy nie ukończyli 18 lat izostali przyjęci do szkół dla dorosłych przed dniem wejścia wżycie ustawy, mogą nadal uczęszczać do tych szkół.
+**Art. 14.** Uczniowie, kt(cid:243)rzy nie ukończyli 18 lat i zostali przyjęci do szk(cid:243)ł dla dorosłych przed dniem wejścia w życie ustawy, mogą nadal uczęszczać do tych szk(cid:243)ł.
 
 **Art. 15.**
 
-1. Centra kształcenia ustawicznego icentra kształcenia praktycznego włączone do zespołów szkół przed dniem wejścia w życie niniejszej ustawy mogą wchodzić wskład tych zespołów nie dłużej niż do dnia 31 sierpnia 2005 r., chyba że przed tym dniem uzyskają zgodę, o której mowa w art. 62 ust. 5a ustawy wymienionej wart. 1 niniejszej ustawy.
+1. Centra kształcenia ustawicznego i centra kształcenia praktycznego włączone do zespoł(cid:243)w szk(cid:243)ł przed dniem wejścia w życie niniejszej ustawy mogą wchodzić w skład tych zespoł(cid:243)w nie dłużej niż do dnia 31 sierpnia 2005 r. , chyba że przed tym dniem uzyskają zgodę, o kt(cid:243)rej mowa w art. 62 ust. 5a ustawy wymienionej w art. 1 niniejszej ustawy.
 
-2. Istniejące wdniu wejścia wżycie ustawy zespoły:
+2. Istniejące w dniu wejścia w życie ustawy zespoły:
 
-- **1)** przedszkola iszkoły podstawowej,
-- **2)** przedszkola igimnazjum,
-- **1)** prowadzące działalność wformie dziennej okresowej lub turnusowej z dniem 1 stycznia 2004 r. stają się młodzieżowymi ośrodkami socjoterapii wrozumieniu ustawy, októrej mowa wart. 1 niniejszej ustawy;
-- **2)** prowadzące działalność w formie całodobowej zdniem 1 stycznia 2004 r. stają się młodzieżowymi ośrodkami wychowawczymi wrozumieniu ustawy, októrej mowa wart. 1 niniejszej ustawy.
+- **1)** przedszkola i szkoły podstawowej,
+- **2)** przedszkola i gimnazjum,
+- **3)** szkoły podstawowej i gimnazjum,
+- **4)** przedszkola, szkoły podstawowej i gimnazjum mogą funkcjonować nie dłużej niż do dnia 31 sierpnia 2005 r., chyba że przed tym dniem uzyskają pozytywną opinię, o kt(cid:243)rej mowa w art. 62 ust. 5b ustawy wymienionej w art. 1 niniejszej ustawy.
 
-2. Organy prowadzące młodzieżowe ośrodki socjoterapii lub młodzieżowe ośrodki wychowawcze, októrych mowa wust. 1, do dnia 31 marca 2004 r. nadadzą statuty tym ośrodkom.
+**Art. 16.** Do dnia 31 sierpnia 2005 r. obowiązek nauki może być realizowany r(cid:243)wnież przez uczęszczanie na zajęcia, o kt(cid:243)rych mowa w art. 16 ust. 5a pkt 2 i 3 ustawy wymienionej w art. 1 niniejszej ustawy, w brzmieniu nadanym niniejszą ustawą, realizowane przez podmioty nieposiadające akredytacji.
+
+**Art. 17.** Szkoły publiczne w terminie nie dłuższym niż 3 lata od dnia wejścia w życie niniejszej ustawy zapewnią uczniom możliwość korzystania z gabinetu profilaktyki zdrowotnej.
+
+**Art. 18.**
+
+1. Istniejące w dniu wejścia w życie ustawy plac(cid:243)wki resocjalizacyjne będące plac(cid:243)wkami opiekuńczo-wychowawczymi działającymi na podstawie ustawy, o kt(cid:243)rej mowa w art. 6 niniejszej ustawy:
+
+- **1)** prowadzące działalność w formie dziennej okresowej lub turnusowej - z dniem 1 stycznia 2004 r. stają się młodzieżowymi ośrodkami socjoterapii w rozumieniu ustawy, o kt(cid:243)rej mowa w art. 1 niniejszej ustawy; stają się młodzieżowymi ośrodkami wychowawczymi w rozumieniu ustawy, o kt(cid:243)rej mowa w art. 1 niniejszej ustawy.
+
+2. Organy prowadzące młodzieżowe ośrodki socjoterapii lub młodzieżowe ośrodki wychowawcze, o kt(cid:243)rych mowa w ust. 1, do dnia 31 marca 2004 r. nadadzą statuty tym ośrodkom.
 
 **Art. 19.**
 
-1. Szkoły niepubliczne, które uzyskały uprawnienia szkół publicznych przed dniem wejścia wżycie niniejszej ustawy, dostosują swoją działalność do wymogów określonych wart. 7 ust. 3 pkt 2 ustawy, októrej mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, wterminie do dnia 1 września 2003 r.
+1. Szkoły niepubliczne, kt(cid:243)re uzyskały uprawnienia szk(cid:243)ł publicznych przed dniem wejścia w życie niniejszej ustawy, dostosują swoją działalność do wymog(cid:243)w określonych w art. 7 ust. 3 pkt 2 ustawy, o kt(cid:243)rej mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, w terminie do dnia 1 września 2003 r.
 
-2. Szkoły niepubliczne, októrych mowa wust. 1, mogą realizować zajęcia edukacyjne wwymiarze dotychczasowym wstosunku do uczniów, którzy rozpoczęli naukę wtych szkołach przed dniem wejścia wżycie ustawy.
+2. Szkoły niepubliczne, o kt(cid:243)rych mowa w ust. 1, mogą realizować zajęcia edukacyjne w wymiarze dotychczasowym w stosunku do uczni(cid:243)w, kt(cid:243)rzy rozpoczęli naukę w tych szkołach przed dniem wejścia w życie ustawy.
 
-**Art. 20.** Minister właściwy do spraw oświaty i wychowania ogłosi, wdrodze obwieszczenia, wDzienniku Urzędowym Rzeczypospolitej Polskiej ŃMonitor Polski” wykaz szkół iplacówek oznaczeniu regionalnym, które zostały przejęte zdniem 1 stycznia 1999 r. do prowadzenia przez samorządy województw, uwzględniając zmiany organizacyjne wynikające zustawy zdnia 8 stycznia 1999 r. Przepisy wprowadzające reformę ustroju szkolnego (Dz. U. 12, poz. 96, z2000 r. 12, poz. 136, 104, poz. 1104 iNr 122, poz. 1312 oraz z2001 r. 111, poz. 1194, 144, poz. 1615 iNr 147, poz. 1644).
+**Art. 20.** Minister właściwy do spraw oświaty i wychowania ogłosi, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej (cid:132)Monitor Polski(cid:148) wykaz szk(cid:243)ł i plac(cid:243)wek o znaczeniu regionalnym, kt(cid:243)re zostały przejęte z dniem 1 stycznia 1999 r. do prowadzenia przez samorządy wojew(cid:243)dztw, uwzględniając zmiany organizacyjne wynikające z ustawy z dnia 8 stycznia 1999 r. - Przepisy wprowadzające reformę ustroju szkolnego (Dz.U. Nr 12, poz. 96, z 2000 r. Nr 12, poz. 136, Nr 104, poz. 1104 i Nr 122, poz. 1312 oraz z 2001 r. Nr 111, poz. 1194, Nr 144, poz. 1615 i Nr 147, poz. 1644).
 
 **Art. 21.** Dotychczasowe przepisy wykonawcze wydane na podstawie:
 
-**Art. 22.** Ustawa wchodzi wżycie po upływie 14 dni od dnia ogłoszenia, zwyjątkiem:
+**Art. 22.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 

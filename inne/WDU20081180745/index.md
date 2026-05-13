@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# Ustawa z dnia 9 maja 2008 r. o zwrocie nadpłaty w podatku akcyzowym zapłaconym z tytułu nabycia wewnątrzwspólnotowego albo importu samochodu osobowego
+# o zwrocie nadpłaty podatku akcyzowym zapłaconym tytułu nabycia osobowego
 
 | Pole | Wartość |
 |---|---|
@@ -24,23 +24,25 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081180745) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/745/text.pdf) |
 
-**Art. 1.** Ustawa określa zasady ustalania nadpłaty podatku akcyzowym zapłaconym tytułu nabycia wewnątrzwspólnotowego albo importu samochodu osobowego, dokonanego okresie dnia 1 maja 2004 r. do dnia 30 listopada 2006 r., na podstawie dnia 23 stycznia 2004 r. podatku akcyzowym (Dz. 29, 257, zpóên. zm. ), zwanej dalej Ńzwrotem nadpłaty”.
+**Art. 1.** Ustawa określa zasady ustalania nadpłaty podatku akcyzowym zapłaconym tytułu nabycia osobowego, dokonanego okresie dnia 1 maja 2004 do dnia 30 listopada r., na podstawie ustawy dnia 23 stycznia 2004 o podatku akcyzowym (Dz. Nr 29, poz. 257, późn. zm. ), zwanej dalej „zwrotem nadpłaty”.
 
-**Art. 2.** Zwrot nadpłaty przysługuje podatnikowi podatku akcyzowego, który nabył wewnątrzwspólnotowo samochód osobowy albo dokonał importu samochodu osobowego po upływie 2 lat kalendarzowych jego produkcji, licząc rok produkcji jako pierwszy rok kalendarzowy.
+**Art. 2.** Zwrot nadpłaty przysługuje podatnikowi podatku akcyzowego, który nabył wewnątrzwspólnotowo samochód osobowy dokonał osobowego po upływie 2 lat kalendarzowych jego produkcji, licząc rok produkcji jako pierwszy rok kalendarzowy.
 
 **Art. 3.**
 
-1. Kwotę zwrotu nadpłaty ustala się według następującego wzoru: Z = a – n gdzie: Z oznacza kwotę zwrotu nadpłaty, a oznacza podatek akcyzowy zapłacony ztytułu nabycia wewnątrzwspólnotowego albo importu samochodu osobowego, n oznacza podatek akcyzowy zawarty cenie samochodu osobowego zarejestrowanego na terytorium kraju ustalany: dla samochodów osobowych pojemności skokowej silnika powyżej 2000 cm bycia wewnątrzwspólnotowego albo importu samochodu osobowego, a jeżeli miesiąc powstania obowiązku podatkowego nie jest możliwy do ustalenia miesiącu zapłaty podatku akcyzowego tytułu nabycia wewnątrzwspólnotowego albo importu samochodu osobowego, ceny zarejestrowanego na terytorium kraju samochodu osobowego tej samej marki, modelu, roku produkcji oraz jeżeli jest to możliwe do ustalenia ztym samym wyposażeniem i przybliżonym stanie technicznym, co nabyty wewnątrzwspólnotowo albo importowany samochód osobowy, którego zapłacono podatek akcyzowy tytułu jego nabycia wewnątrzwspólnotowego albo importu.
+1. Kwotę zwrotu nadpłaty ustala się według następującego wzoru: 𝑍 = 𝑎 −𝑛 gdzie: Z – oznacza kwotę zwrotu nadpłaty , a – oznacza podatek akcyzowy zapłacony tytułu nabycia osobowego, n – oznacza podatek akcyzowy zawarty cenie osobowego zarejestrowanego na terytorium kraju ustalany: – dla samochodów osobowych o pojemności skokowej silnika powyżej 2000 cm zgodnie ze wzorem: n = (średnia wartość rynkowa samochodu: 1,22 : 1,136) x 0,136 – dla pozostałych samochodów osobowych zgodnie ze wzorem: osobowego, a jeżeli miesiąc powstania obowiązku podatkowego nie jest możliwy do ustalenia - miesiącu zapłaty podatku akcyzowego tytułu nabycia osobowego, średniej ceny zarejestrowanego na terytorium kraju osobowego tej samej marki, modelu, roku produkcji - jeżeli jest to możliwe do ustalenia - tym samym wyposażeniem i o przybliżonym stanie technicznym, co nabyty wewnątrzwspólnotowo importowany samochód osobowy, którego zapłacono podatek akcyzowy tytułu jego nabycia importu.
 
-3. Zwrot nadpłaty przysługuje, gdy wartość wyrażona literą Z, określona wust. 1, jest liczbą większą zera.
+3. Zwrot nadpłaty przysługuje, gdy wartość wyrażona literą Z, określona ust. 1, jest liczbą większą zera.
 
-4. Podatnicy, októrych mowa wart. 2, którzy otrzymali zwrot nadpłaty przed dniem wejścia wżycie ustawy kwocie niższej niż wartość wyrażona literą Z, określona ust. 1, mogą ubiegać się zwrot tej różnicy.
+4. Podatnicy, o których mowa art. 2, którzy otrzymali zwrot nadpłaty przed dniem wejścia życie ustawy kwocie niższej niż wartość wyrażona literą Z, określona ust. 1, mogą ubiegać się o zwrot tej różnicy.
 
-**Art. 4.** W przypadku żądania strony wznowienie postępowania związku orzeczeniem Europejskiego Trybunału Sprawiedliwości dnia 18 stycznia 2007 r. sprawie C-313/05 (Dz. Urz. UE C 56 z10.03.2007, str. 6) termin, októrym mowa wart. 241 § 2 pkt 2 dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. r. 8, 60, póên. zgodnie ze zm. wzorem: n = (średnia wartość rynkowa samochodu: 1,22: 1,136) x 0,136 dla pozostałych samochodów osobowych zgodnie ze wzorem: n = (średnia wartość rynkowa samochodu: 1,22: 1,031) x 0,031 2. Ârednią wartością rynkową samochodu osobowego jest wartość ustalana na podstawie notowanej na rynku krajowym, miesiącu powstania obowiązku podatkowego podatku akcyzowym tytułu na), liczy się dnia następującego po dniu wejścia życie niniejszej ustawy.
+**Art. 4.** W przypadku żądania strony o wznowienie postępowania związku orzeczeniem Europejskiego Trybunału Sprawiedliwości dnia 18 stycznia 2007 sprawie C-313/05 (Dz. Urz. UE C 56 10.03.2007, str. 6) termin, o którym mowa art. 241 § 2 pkt 2 ustawy dnia 29 sierpnia 1997 – Ordynacja podatkowa (Dz. Nr 8, poz. 60, późn. zm. ), liczy się dnia następującego po dniu wejścia życie niniejszej ustawy.
 
 **Art. 5.** W przypadku zwrotu nadpłaty oprocentowanie przysługuje za okres:
 
-**Art. 9.** Przepisy niniejszej stosuje się również do postępowań wszczętych i niezakończonych przed dniem wejścia życie niniejszej ustawy, dotyczących stwierdzenia nadpłaty podatku akcyzowym zapłaconym tytułu nabycia wewnątrzwspólnotowego albo importu samochodu osobowego, dokonanego okresie dnia 1 maja 2004 r. do dnia 30 listopada 2006 r., na podstawie dnia 23 stycznia 2004 r. podatku akcyzowym.
+**Art. 7.** W ustawie dnia 29 sierpnia 1997 – Ordynacja podatkowa (Dz. Nr 8, poz. 60, późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 10.** Ustawa wchodzi wżycie po upływie 14 dni dnia ogłoszenia.
+**Art. 8.** W ustawie dnia 23 stycznia 2004 o podatku akcyzowym (Dz. Nr 29, poz. 257, późn. zm. ) po art. 82 dodaje się art. 82a brzmieniu: „Art. 82a. 1. Jeżeli wysokość podstawy opodatkowania przypadku sprzedaży na terytorium kraju nabycia osobowego, bez uzasadnionej przyczyny, znacznie odbiega średniej wartości rynkowej tego osobowego, organ podatkowy lub organ kontroli skarbowej wzywa podatnika do zmiany wysokości podstawy opodatkowania lub wskazania przyczyn uzasadniających podanie jej wysokości kwocie znacznie odbiegającej średniej wartości rynkowej osobowego. 2. W razie nieudzielenia odpowiedzi, niedokonania zmiany wysokości podstawy opodatkowania lub niewskazania przyczyn, które uzasadniają podanie jej wysokości znacznie odbiegającej średniej wartości rynkowej, organ podatkowy lub organ kontroli skarbowej określi wysokość podstawy opodatkowania. 3. Jeżeli wysokość podstawy opodatkowania ustalona uwzględnieniem opinii biegłego odbiega co najmniej o 33% zadeklarowanej podstawy opodatkowania, koszty opinii biegłego lub biegłych ponosi podatnik. 4. Średnią wartością rynkową osobowego jest wartość ustalana na podstawie notowanej na rynku krajowym, dniu powstania obowiązku podatkowego, średniej ceny zarejestrowanego na terytorium kraju osobowego tej samej marki, modelu, rocznika - jeżeli jest to możliwe do ustalenia - tym samym wyposażeniem i o przybliżonym stanie dotyczących stwierdzenia nadpłaty podatku akcyzowym zapłaconym tytułu nabycia osobowego, dokonanego okresie dnia 1 maja 2004 do dnia 30 listopada r., na podstawie ustawy dnia 23 stycznia 2004 o podatku akcyzowym.
+
+**Art. 10.** Ustawa wchodzi życie po upływie 14 dni dnia ogłoszenia.
 

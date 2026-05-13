@@ -10,7 +10,9 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, 20 grudnia 2000 r.
+# o sposobie obliczania wartości rocznego produktu krajowego brutto
+
+*USTAWA z dnia 26 października 2000 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,21 +26,23 @@ domain: null
 | Ostatnia zmiana | 2025-10-31 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20001141188) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/1188/text.pdf) |
 
-Nr 114
-
 **Art. 1.** Ustawa określa sposób obliczania wartości rocznego produktu krajowego brutto.
 
-**Art. 2.** Sposób obliczania wartości rocznego prona oszacowaniu trzech równych co do wartości kategorii makroekonomicznych, określających PKB poprzez:
+**Art. 2.** Sposób obliczania wartości rocznego produktu krajowego brutto, zwanego dalej „PKB”, polega na oszacowaniu trzech równych co do wartości kategorii makroekonomicznych, określających PKB poprzez:
 
 **Art. 3.**
 
-1. PKB wprzypadku, októrym mowa wart.2 zgodnie z metodyką, o której mowa w art. 4, za okres pkt 1, obliczany jest w cenach rynkowych i równa się ostatnich trzech lat dla obszarów określonych wtrybie sumie wartości dodanej krajowych jednostek produk- ust. 2 i ogłasza w drodze obwieszczenia w Dzienniku cyjnych powiększonej o podatki od produktów i po- Urzędowym Rzeczypospolitej Polskiej ŃMonitor Polmniejszonej odotacje do produktów. ski” wterminie do 31 paêdziernika drugiego roku po roku kończącym okres ostatnich trzech lat, zzastrze2. PKB wprzypadku, októrym mowa wart. 2 pkt 2, żeniem ust. 3. obliczany jest jako suma popytu finalnego, tj. spożycia, akumulacji oraz salda wymiany produktów zzagranicą. 2. Rada Ministrów określi, w drodze rozporządzenia, obszary, o których mowa w ust. 1, z uwzględnie3. PKB wprzypadku, októrym mowa wart. 2 pkt 3, niem Nomenklatury Jednostek Terytorialnych do Ceobliczany jest jako suma dochodów pierwotnych jed- lów Statystycznych na poziomie województw (NTS2) nostek krajowych uzyskiwanych przez sektory instytu- ipodregionów (NTS3). cjonalne działające na terytorium Rzeczypospolitej Polskiej oraz dochodów pierwotnych netto sektora zagra- 3. Wpierwszych trzech latach obowiązywania ustanica. wy Prezes Głównego Urzędu Statystycznego jest obowiązany do obliczenia i ogłoszenia szacunku PKB,
+1. PKB w przypadku, o którym mowa w art. 2 pkt 1, obliczany jest w cenach rynkowych i równa się sumie wartości dodanej krajowych jednostek produkcyjnych powiększonej o podatki od produktów i pomniejszonej o dotacje do produktów.
 
-**Art. 4.** Rada Ministrów określi, w drodze rozporzą- októrym mowa wust. 1: dzenia, szczegółową metodykę obliczania wartości rocznego PKB, w tym w szczególności kategorie, jed- 1) za rok 1998 wterminie do 31 grudnia 2000r., nostki klasyfikacyjne i schematy rachunków stosowane do obliczania PKB, uwzględniając obowiązujące standardy międzynarodowe.
+2. PKB w przypadku, o którym mowa w art. 2 pkt 2, obliczany jest jako suma popytu finalnego, tj. spożycia, akumulacji oraz salda wymiany produktów z zagranicą.
 
-**Art. 5.** Prezes Głównego Urzędu Statystycznego oblicza wartość rocznego PKB wsposób, októrym mowa wart. 2 iart. 3, zgodnie zmetodyką, októrej mowa wart. 4, iogłasza, wdrodze obwieszczenia, wDzienniku Urzędowym Rzeczypospolitej Polskiej ŃMonitor Polski” pierwszy szacunek za dany rok wterminie do 15 maja roku następnego.
+3. PKB w przypadku, o którym mowa w art. 2 pkt 3, obliczany jest jako suma dochodów pierwotnych jednostek krajowych uzyskiwanych przez sektory instytucjonalne działające na terytorium Rzeczypospolitej Polskiej oraz dochodów pierwotnych netto sektora zagranica.
 
-**Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski
+**Art. 4.** (uchylony)
 
-**Art. 1.** Wustawie zdnia 21 grudnia 1990 r. ozawodzie lekarza weterynarii i izbach lekarsko-weterynaryjnych (Dz. U. z 1991 r. Nr 8, poz. 27, z 1995 r. Nr 120, poz. 576, z 1997 r. Nr 60, poz. 369 i z 1998 r. Nr 106, poz.668) wprowadza się następujące zmiany:
+**Art. 5.** Prezes Głównego Urzędu Statystycznego oblicza wartość rocznego PKB w sposób, o którym mowa w art. 2 i art. 3, i ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” pierwszy szacunek za dany rok w terminie do dnia 15 maja roku następnego.
+
+**Art. 6.** Prezes Głównego Urzędu Statystycznego oblicza średnią wartość PKB na jednego mieszkańca za okres ostatnich trzech lat dla obszarów jednostek terytorialnych na poziomach NUTS 1, NUTS 2 i NUTS 3, o których mowa w rozporządzeniu (WE) nr 1059/2003 Parlamentu Europejskiego i Rady z dnia 26 maja 2003 r. w sprawie ustalenia wspólnej klasyfikacji Jednostek Terytorialnych do Celów Statystycznych (NUTS) (Dz. Urz. UE L 154 z 21.06.2003, str. 1, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 14, t. 1, str. 196), i ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” w terminie do dnia 31 października drugiego roku po roku kończącym okres ostatnich trzech lat.
+
+**Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 

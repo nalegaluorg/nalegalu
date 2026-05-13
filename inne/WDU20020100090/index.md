@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# Ustawa z dnia 25 stycznia 2002 r. o zmianie ustawy o szczególnych rozwiązaniach prawnych związanych z usuwaniem skutków powodzi z lipca i sierpnia 2001 r. oraz o zmianie niektórych ustaw.
+# o zmianie ustawy o szczeg(cid:243)lnych rozwiązaniach prawnych związanych z usuwaniem skutk(cid:243)w powodzi z lipca i sierpnia 2001 r.
+
+*USTAWA z dnia 25 stycznia 2002 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,9 +26,9 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20020100090) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/90/text.pdf) |
 
-**Art. 1.** Wustawie zdnia 11 sierpnia 2001 r. oszczególnych rozwiązaniach prawnych związanych zusuwaniem skutków powodzi z lipca i sierpnia 2001 r. oraz o zmianie niektórych ustaw (Dz. U. Nr 84, poz. 907) wart. 9:
+oraz o zmianie niekt(cid:243)rych ustaw
 
-**Art. 2.** Dziennik Ustaw Nr 10 — 598 — Poz. 89 i 90
+**Art. 1.** W ustawie z dnia 11 sierpnia 2001 r. o szczeg(cid:243)lnych rozwiązaniach prawnych związanych z usuwaniem skutk(cid:243)w powodzi z lipca i sierpnia 2001 r. oraz o zmianie niekt(cid:243)rych ustaw (Dz.U. Nr 84, poz. 907) w art. 9:
 
-**Art. 1.** Wustawie zdnia 6 lipca 2001 r. oTrójstron- 2) pkt 2 otrzymuje brzmienie: nej Komisji do Spraw Społeczno-Gospodarczych iwojewódzkich komisjach dialogu społecznego (Dz. U. Ń2) art. 19, 24, 26, 28 i 29, które wchodzą w życie Nr100, poz. 1080 iNr 154, poz. 1793 i1800) wart. 36: zdniem 1 lipca 2002 r.”
+**Art. 2.** Ustawa wchodzi w życie z dniem ogłoszenia.
 

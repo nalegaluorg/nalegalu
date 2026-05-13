@@ -21,8 +21,7 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2026-03-27 |
 | Data wydania | 2026-04-22 |
-| Wejście w życie | 2026-07-23 |
-| Ostatnia zmiana | 2026-04-23 |
+| Ostatnia zmiana | 2026-05-04 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000548) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/548/text.pdf) |
 
 USTAWA 27 marca 2026 r.

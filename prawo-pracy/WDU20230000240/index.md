@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 6 lutego 2023 r.
+# o zmianie ustawy – Kodeks pracy oraz niektórych innych ustaw
+
+*USTAWA z dnia 1 grudnia 2022 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,10 +26,7 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000240) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/240/text.pdf) |
 
-USTAWA z dnia 1 grudnia 2022 r.
-o zmianie ustawy Kodeks pracy oraz niektórych innych ustaw
-
-**Art. 1.** W ustawie z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2022 r. poz. 1510, 1700 i 2140) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2022 r. poz. 1510, 1700 i 2140) wprowadza się następujące zmiany:
 
 **Art. 22¹d.**
 
@@ -59,23 +58,23 @@ o zmianie ustawy Kodeks pracy oraz niektórych innych ustaw
 - **2)** wyniku badania;
 - **3)** danych osobowych pracownika:
     - **a)** imienia i nazwiska,
-    - **b)** numeru PESEL, a jeżeli nie posiada serii i numeru dokumentu potwierdzającego tożsamość pracownika,
-    - **c)** daty urodzenia, płci, wzrostu, masy ciała, informacji o chorobach, na jakie pracownik choruje, oraz podpisu pracownika jeżeli dane te pozyskano związku z przeprowadzanym badaniem;
+    - **b)** numeru PESEL, a jeżeli nie posiada – serii i numeru dokumentu potwierdzającego tożsamość pracownika,
+    - **c)** daty urodzenia, płci, wzrostu, masy ciała, informacji o chorobach, na jakie pracownik choruje, oraz podpisu pracownika – jeżeli dane te pozyskano związku z przeprowadzanym badaniem;
 
 - **4)** imienia i nazwiska oraz podpisu osoby przeprowadzającej badanie;
 - **5)** imienia, nazwiska, stanowiska i podpisu osoby przeprowadzającej pobranie próbek materiału biologicznego do badań;
 - **6)** imienia i nazwiska oraz podpisu osoby, obecności której przeprowadzono badanie;
 - **7)** informacji o objawach lub okolicznościach uzasadniających przeprowadzenie badania oraz dacie i godzinie ich stwierdzenia;
 - **8)** innych informacji niezbędnych do oceny wiarygodności i poprawności badania;
-- **9)** przypadku odstąpienia od pobrania próbek krwi informacji o przyczynie odstąpienia. puszczonemu do pracy informację formie pisemnej, obejmującą imię i nazwisko osoby badanej oraz jej numer PESEL, a przypadku jego braku serię i numer dokumentu potwierdzającego tożsamość, datę, godzinę oraz minutę przeprowadzonego badania, a także jego wynik. W przypadku przeprowadzenia kilku pomiarów organ przeprowadzający badanie przekazuje informację o czasie przeprowadzenia pomiarów i wyniku każdego z nich.
+- **9)** przypadku odstąpienia od pobrania próbek krwi – informacji o przyczynie odstąpienia.
+
+§ 10. Organ przeprowadzający badanie, o którym mowa § 3, przekazuje pracodawcy i pracownikowi niedopuszczonemu do pracy informację formie pisemnej, obejmującą imię i nazwisko osoby badanej oraz jej numer PESEL, a przypadku jego braku – serię i numer dokumentu potwierdzającego tożsamość, datę, godzinę oraz minutę przeprowadzonego badania, a także jego wynik. W przypadku przeprowadzenia kilku pomiarów organ przeprowadzający badanie przekazuje informację o czasie przeprowadzenia pomiarów i wyniku każdego z nich.
 
 § 11. Do przetwarzania informacji, o której mowa § 10, stosuje się odpowiednio art. 22 § 6–9.
 
 **Art. 22¹e.**
 
 § 1. Jeżeli jest to niezbędne do zapewnienia ochrony życia i zdrowia pracowników lub innych osób lub ochrony mienia, pracodawca może wprowadzić kontrolę pracowników na obecność ich organizmach środków działających podobnie do alkoholu.
-
-§ 2. Przepisy art. 22 § 2–12 stosuje się odpowiednio.
 
 **Art. 22¹f.**
 
@@ -100,20 +99,17 @@ o zmianie ustawy Kodeks pracy oraz niektórych innych ustaw
 - **2)** wyniku badania;
 - **3)** danych osobowych pracownika:
     - **a)** imienia i nazwiska,
-    - **b)** numeru PESEL, a jeżeli nie posiada serii i numeru dokumentu potwierdzającego tożsamość pracownika,
-    - **c)** daty urodzenia, informacji o chorobach, na jakie pracownik choruje, oraz podpisu pracownika jeżeli dane te pozyskano związku z przeprowadzanym badaniem;
+    - **b)** numeru PESEL, a jeżeli nie posiada – serii i numeru dokumentu potwierdzającego tożsamość pracownika,
+    - **c)** daty urodzenia, informacji o chorobach, na jakie pracownik choruje, oraz podpisu pracownika – jeżeli dane te pozyskano związku z przeprowadzanym badaniem;
 
 - **4)** imienia i nazwiska oraz podpisu osoby przeprowadzającej badanie;
 - **5)** imienia, nazwiska, stanowiska i podpisu osoby przeprowadzającej pobranie próbek materiału biologicznego do badań;
 - **6)** imienia i nazwiska oraz podpisu osoby, obecności której przeprowadzono badanie;
 - **7)** informacji o objawach lub okolicznościach uzasadniających przeprowadzenie badania oraz dacie i godzinie ich stwierdzenia;
 - **8)** innych informacji niezbędnych do oceny wiarygodności i poprawności badania;
-- **9)** przypadku odstąpienia od pobrania próbek krwi lub moczu informacji o przyczynie odstąpienia. oraz ministrem właściwym do spraw pracy określi, drodze rozporządzenia:
-- **1)** warunki i metody przeprowadzania badań na obecność alkoholu organizmie pracownika oraz badań na obecność organizmie pracownika środków działających podobnie do alkoholu przez pracodawcę oraz przez uprawniony organ powołany do ochrony porządku publicznego lub zlecanych przez ten organ,
-- **2)** sposób dokumentowania badań przeprowadzanych lub zlecanych przez uprawniony organ powołany do ochrony porządku publicznego,
-- **3)** wykaz środków działających podobnie do alkoholu mając na uwadze metodykę przeprowadzania takich badań, konieczność zapewnienia ochrony życia i zdrowia pracowników lub innych osób lub ochrony mienia, a także konieczność sprawnego przeprowadzania badań i zagwarantowania wiarygodności wyników badania krwi i moczu przy jednoczesnym poszanowaniu godności oraz innych dóbr osobistych pracownika i zasad ochrony danych osobowych.
+- **9)** przypadku odstąpienia od pobrania próbek krwi lub moczu – informacji o przyczynie odstąpienia.
 
-**Art. 22¹h.** Przepisy art. 22 –22 oraz przepisy wydane na podstawie art. 22 stosuje się odpowiednio do pracodawców organizujących pracę wykonywaną przez osoby fizyczne na innej podstawie niż stosunek pracy oraz osoby fizyczne prowadzące na własny rachunek działalność gospodarczą, a także do osób fizycznych wykonujących pracę na innej podstawie niż stosunek pracy oraz osób fizycznych prowadzących na własny rachunek działalność gospodarczą, których praca jest organizowana przez tych pracodawców.”;
+**Art. 22¹g.** Minister właściwy do spraw zdrowia porozumieniu z ministrem właściwym do spraw wewnętrznych oraz ministrem właściwym do spraw pracy określi, drodze rozporządzenia:
 
 **Art. 67¹⁸.** Praca może być wykonywana całkowicie lub częściowo miejscu wskazanym przez pracownika i każdorazowo uzgodnionym z pracodawcą, tym pod adresem zamieszkania pracownika, szczególności z wykorzystaniem środków bezpośredniego porozumiewania się na odległość (praca zdalna).
 
@@ -129,23 +125,23 @@ o zmianie ustawy Kodeks pracy oraz niektórych innych ustaw
 § 3. Praca zdalna może być wykonywana na polecenie pracodawcy:
 
 - **1)** okresie obowiązywania stanu nadzwyczajnego, stanu zagrożenia epidemicznego albo stanu epidemii oraz okresie 3 miesięcy po ich odwołaniu lub
-- **2)** okresie, którym zapewnienie przez pracodawcę bezpiecznych i higienicznych warunków pracy dotychczasowym miejscu pracy pracownika nie jest czasowo możliwe z powodu działania siły wyższej jeżeli pracownik złoży bezpośrednio przed wydaniem polecenia oświadczenie postaci papierowej lub elektronicznej, że posiada warunki lokalowe i techniczne do wykonywania pracy zdalnej.
+- **2)** okresie, którym zapewnienie przez pracodawcę bezpiecznych i higienicznych warunków pracy dotychczasowym miejscu pracy pracownika nie jest czasowo możliwe z powodu działania siły wyższej – jeżeli pracownik złoży bezpośrednio przed wydaniem polecenia oświadczenie postaci papierowej lub elektronicznej, że posiada warunki lokalowe i techniczne do wykonywania pracy zdalnej.
 
 § 4. Pracodawca może każdym czasie cofnąć polecenie wykonywania pracy zdalnej, o którym mowa § 3, z co najmniej dwudniowym uprzedzeniem.
 
 § 5. W przypadku zmiany warunków lokalowych i technicznych uniemożliwiającej wykonywanie pracy zdalnej pracownik informuje o tym niezwłocznie pracodawcę. W takim przypadku pracodawca niezwłocznie cofa polecenie wykonywania pracy zdalnej.
 
-§ 6. Pracodawca jest obowiązany uwzględnić wniosek pracownika, o którym mowa art. 142 § 1 pkt 2 i 3, pracownicy ciąży, pracownika wychowującego dziecko do ukończenia przez nie 4. roku życia, a także pracownika sprawującego opiekę nad innym członkiem najbliższej rodziny lub inną osobą pozostającą we wspólnym gospodarstwie domowym, posiadającymi orzeczenie o niepełnosprawności albo orzeczenie o znacznym stopniu niepełnosprawności, o wykonywanie pracy zdalnej, chyba że nie jest to możliwe ze względu na organizację pracy lub rodzaj pracy wykonywanej przez pracownika. O przyczynie odmowy uwzględnienia wniosku pracodawca informuje pracownika postaci papierowej lub elektronicznej terminie 7 dni roboczych od dnia złożenia wniosku przez pracownika. przez dziecko 18. roku życia.
+§ 6. Pracodawca jest obowiązany uwzględnić wniosek pracownika, o którym mowa art. 142 § 1 pkt 2 i 3, pracownicy ciąży, pracownika wychowującego dziecko do ukończenia przez nie 4. roku życia, a także pracownika sprawującego opiekę nad innym członkiem najbliższej rodziny lub inną osobą pozostającą we wspólnym gospodarstwie domowym, posiadającymi orzeczenie o niepełnosprawności albo orzeczenie o znacznym stopniu niepełnosprawności, o wykonywanie pracy zdalnej, chyba że nie jest to możliwe ze względu na organizację pracy lub rodzaj pracy wykonywanej przez pracownika. O przyczynie odmowy uwzględnienia wniosku pracodawca informuje pracownika postaci papierowej lub elektronicznej terminie 7 dni roboczych od dnia złożenia wniosku przez pracownika.
+
+§ 7. Przepis § 6 stosuje się do pracowników, o których mowa art. 142 § 1 pkt 2 i 3, również po ukończeniu przez dziecko 18. roku życia.
 
 **Art. 67²⁰.**
 
-§ 1. Zasady wykonywania pracy zdalnej określa się porozumieniu zawieranym między pracodawcą i zakładową organizacją związkową, a przypadku gdy u pracodawcy działa więcej niż jedna zakładowa organizacja związkowa porozumieniu między pracodawcą a tymi organizacjami.
+§ 1. Zasady wykonywania pracy zdalnej określa się porozumieniu zawieranym między pracodawcą i zakładową organizacją związkową, a przypadku gdy u pracodawcy działa więcej niż jedna zakładowa organizacja związkowa – porozumieniu między pracodawcą a tymi organizacjami.
 
 § 2. Jeżeli nie jest możliwe uzgodnienie treści porozumienia z wszystkimi zakładowymi organizacjami związkowymi, pracodawca uzgadnia treść porozumienia z organizacjami związkowymi reprezentatywnymi rozumieniu art. 25 ust. 1 lub 2 ustawy o związkach zawodowych, z których każda zrzesza co najmniej 5% pracowników zatrudnionych u pracodawcy.
 
-§ 3. Jeżeli terminie 30 dni od dnia przedstawienia projektu porozumienia przez pracodawcę nie dojdzie do zawarcia porozumienia zgodnie z § 1 albo 2, pracodawca określa zasady wykonywania pracy zdalnej regulaminie, uwzględniając ustalenia podjęte z zakładowymi organizacjami związkowymi toku uzgadniania porozumienia.
-
-§ 4. Jeżeli u danego pracodawcy nie działają zakładowe organizacje związkowe, pracodawca określa zasady wykonywania pracy zdalnej regulaminie po konsultacji z przedstawicielami pracowników wyłonionymi trybie przyjętym u danego pracodawcy.
+§ 3. Jeżeli terminie 30 dni od dnia przedstawienia projektu porozumienia przez pracodawcę nie dojdzie do zawarcia porozumienia zgodnie z § 1 albo 2, pracodawca określa zasady wykonywania pracy zdalnej regulaminie, uwzględniając ustalenia podjęte z zakładowymi organizacjami związkowymi toku uzgadniania porozumienia. przyjętym u danego pracodawcy.
 
 § 5. Wykonywanie pracy zdalnej jest dopuszczalne także przypadku, gdy nie zostało zawarte porozumienie, o którym mowa § 1 albo 2, albo nie został wydany regulamin, o którym mowa § 3 albo 4. W takim przypadku pracodawca określa zasady wykonywania pracy zdalnej odpowiednio poleceniu wykonywania pracy zdalnej, o którym mowa art. 67 § 3, albo porozumieniu zawartym z pracownikiem.
 
@@ -173,7 +169,9 @@ o zmianie ustawy Kodeks pracy oraz niektórych innych ustaw
 
 **Art. 67²².**
 
-§ 1. W przypadku podjęcia pracy zdalnej zgodnie z art. 67 § 1 pkt 2 każda ze stron umowy o pracę może wystąpić z wiążącym wnioskiem, złożonym postaci papierowej lub elektronicznej, o zaprzestanie wykonywania pracy zdalnej i przywrócenie poprzednich warunków wykonywania pracy. Strony ustalają termin przywrócenia poprzednich warunków wykonywania pracy, nie dłuższy niż 30 dni od dnia otrzymania wniosku. W razie braku porozumienia przywrócenie poprzednich warunków wykonywania pracy następuje dniu następującym po upływie 30 dni od dnia otrzymania wniosku. i przywrócenie poprzednich warunków wykonywania pracy przez pracownika, o którym mowa art. 67 § 6 i 7, chyba że dalsze wykonywanie pracy zdalnej nie jest możliwe ze względu na organizację pracy lub rodzaj pracy wykonywanej przez pracownika.
+§ 1. W przypadku podjęcia pracy zdalnej zgodnie z art. 67 § 1 pkt 2 każda ze stron umowy o pracę może wystąpić z wiążącym wnioskiem, złożonym postaci papierowej lub elektronicznej, o zaprzestanie wykonywania pracy zdalnej i przywrócenie poprzednich warunków wykonywania pracy. Strony ustalają termin przywrócenia poprzednich warunków wykonywania pracy, nie dłuższy niż 30 dni od dnia otrzymania wniosku. W razie braku porozumienia przywrócenie poprzednich warunków wykonywania pracy następuje dniu następującym po upływie 30 dni od dnia otrzymania wniosku.
+
+§ 2. Pracodawca nie może wystąpić z wiążącym wnioskiem o zaprzestanie wykonywania pracy zdalnej i przywrócenie poprzednich warunków wykonywania pracy przez pracownika, o którym mowa art. 67 § 6 i 7, chyba że dalsze wykonywanie pracy zdalnej nie jest możliwe ze względu na organizację pracy lub rodzaj pracy wykonywanej przez pracownika.
 
 **Art. 67²³.** Odmowa wyrażenia przez pracownika zgody na zmianę warunków wykonywania pracy przypadku określonym art. 67 § 1 pkt 2, wystąpienie z wnioskiem o wykonywanie pracy zdalnej przez pracownika, o którym mowa art. 67 § 6 i 7, a także zaprzestanie wykonywania pracy zdalnej na zasadach określonych art. 67 nie mogą stanowić przyczyny uzasadniającej wypowiedzenie przez pracodawcę umowy o pracę.
 
@@ -182,7 +180,7 @@ o zmianie ustawy Kodeks pracy oraz niektórych innych ustaw
 § 1. Pracodawca jest obowiązany:
 
 - **1)** zapewnić pracownikowi wykonującemu pracę zdalną materiały i narzędzia pracy, tym urządzenia techniczne, niezbędne do wykonywania pracy zdalnej;
-- **2)** zapewnić pracownikowi wykonującemu pracę zdalną instalację, serwis, konserwację narzędzi pracy, tym urządzeń technicznych, niezbędnych do wykonywania pracy zdalnej lub pokryć niezbędne koszty związane z instalacją, serwisem, eksploatacją i konserwacją narzędzi pracy, tym urządzeń technicznych, niezbędnych do wykonywania pracy zdalnej, a także pokryć koszty energii elektrycznej oraz usług telekomunikacyjnych niezbędnych do wykonywania pracy zdalnej;
+- **2)** zapewnić pracownikowi wykonującemu pracę zdalną instalację, serwis, konserwację narzędzi pracy, tym urządzeń technicznych, niezbędnych do wykonywania pracy zdalnej lub pokryć niezbędne koszty związane cyjnych niezbędnych do wykonywania pracy zdalnej;
 - **3)** pokryć inne koszty niż koszty określone pkt 2 bezpośrednio związane z wykonywaniem pracy zdalnej, jeżeli zwrot takich kosztów został określony porozumieniu, o którym mowa art. 67 § 1 i 2, regulaminie, o którym mowa art. 67 § 3 i 4, poleceniu, o którym mowa art. 67 § 3, albo porozumieniu, o którym mowa art. 67 § 5 zdanie drugie;
 - **4)** zapewnić pracownikowi wykonującemu pracę zdalną szkolenia i pomoc techniczną niezbędne do wykonywania tej pracy.
 
@@ -206,7 +204,9 @@ o zmianie ustawy Kodeks pracy oraz niektórych innych ustaw
 
 **Art. 67²⁸.**
 
-§ 1. Pracodawca ma prawo przeprowadzać kontrolę wykonywania pracy zdalnej przez pracownika, kontrolę zakresie bezpieczeństwa i higieny pracy lub kontrolę przestrzegania wymogów zakresie bezpieczeństwa i ochrony informacji, tym procedur ochrony danych osobowych, na zasadach określonych porozumieniu, o którym mowa art. 67 § 1 i 2, regulaminie, o którym mowa art. 67 § 3 i 4, poleceniu, o którym mowa art. 67 § 3, albo porozumieniu, o którym mowa art. 67 § 5 zdanie drugie. Kontrolę przeprowadza się porozumieniu z pracownikiem miejscu wykonywania pracy zdalnej godzinach pracy pracownika. rodzaju. Wykonywanie czynności kontrolnych nie może naruszać prywatności pracownika wykonującego pracę zdalną i innych osób ani utrudniać korzystania z pomieszczeń domowych sposób zgodny z ich przeznaczeniem.
+§ 1. Pracodawca ma prawo przeprowadzać kontrolę wykonywania pracy zdalnej przez pracownika, kontrolę zakresie bezpieczeństwa i higieny pracy lub kontrolę przestrzegania wymogów zakresie bezpieczeństwa i ochrony informacji, tym procedur ochrony danych osobowych, na zasadach określonych porozumieniu, o którym mowa art. 67 § 1 i 2, regulaminie, o którym mowa art. 67 § 3 i 4, poleceniu, o którym mowa art. 67 § 3, albo porozumieniu, o którym mowa art. 67 § 5 zdanie drugie. Kontrolę przeprowadza się porozumieniu z pracownikiem miejscu wykonywania pracy zdalnej godzinach pracy pracownika.
+
+§ 2. Pracodawca dostosowuje sposób przeprowadzania kontroli do miejsca wykonywania pracy zdalnej i jej rodzaju. Wykonywanie czynności kontrolnych nie może naruszać prywatności pracownika wykonującego pracę zdalną i innych osób ani utrudniać korzystania z pomieszczeń domowych sposób zgodny z ich przeznaczeniem.
 
 § 3. Jeżeli pracodawca trakcie kontroli pracy zdalnej, o której mowa art. 67 § 1 pkt 2, stwierdzi uchybienia przestrzeganiu przepisów i zasad zakresie bezpieczeństwa i higieny pracy określonych informacji, o której mowa art. 67 § 5, lub przestrzeganiu wymogów zakresie bezpieczeństwa i ochrony informacji, tym procedur ochrony danych osobowych, zobowiązuje pracownika do usunięcia stwierdzonych uchybień we wskazanym terminie albo cofa zgodę na wykonywanie pracy zdalnej przez tego pracownika. W przypadku wycofania zgody na wykonywanie pracy zdalnej pracownik rozpoczyna pracę dotychczasowym miejscu pracy terminie określonym przez pracodawcę.
 
@@ -214,9 +214,7 @@ o zmianie ustawy Kodeks pracy oraz niektórych innych ustaw
 
 § 1. Pracownik wykonujący pracę zdalną nie może być traktowany mniej korzystnie zakresie nawiązania i rozwiązania stosunku pracy, warunków zatrudnienia, awansowania oraz dostępu do szkolenia celu podnoszenia kwalifikacji zawodowych niż inni pracownicy zatrudnieni przy takiej samej lub podobnej pracy, z uwzględnieniem odrębności związanych z warunkami wykonywania pracy zdalnej.
 
-§ 2. Pracownik nie może być jakikolwiek sposób dyskryminowany z powodu wykonywania pracy zdalnej, jak również z powodu odmowy wykonywania takiej pracy.
-
-**Art. 67³⁰.** Pracodawca umożliwia pracownikowi wykonującemu pracę zdalną przebywanie na terenie zakładu pracy, kontaktowanie się z innymi pracownikami oraz korzystanie z pomieszczeń i urządzeń pracodawcy, zakładowych obiektów socjalnych i prowadzonej działalności socjalnej na zasadach przyjętych dla ogółu pracowników.
+**Art. 67³⁰.** Pracodawca umożliwia pracownikowi wykonującemu pracę zdalną przebywanie na terenie zakładu pracy, kontaktowanie się z innymi pracownikami oraz korzystanie z pomieszczeń i urządzeń pracodawcy, zakładowych obiektów socjalnych i prowadzonej działalności socjalnej – na zasadach przyjętych dla ogółu pracowników.
 
 **Art. 67³¹.**
 
@@ -241,7 +239,9 @@ o zmianie ustawy Kodeks pracy oraz niektórych innych ustaw
 - **3)** czynności do wykonania po zakończeniu wykonywania pracy zdalnej;
 - **4)** zasady postępowania sytuacjach awaryjnych stwarzających zagrożenie dla życia lub zdrowia ludzkiego. Pracodawca może sporządzić uniwersalną ocenę ryzyka zawodowego dla poszczególnych grup stanowisk pracy zdalnej.
 
-§ 6. Przed dopuszczeniem do wykonywania pracy zdalnej pracownik potwierdza oświadczeniu składanym postaci papierowej lub elektronicznej zapoznanie się z przygotowaną przez pracodawcę oceną ryzyka zawodowego oraz informacją zawierającą zasady bezpiecznego i higienicznego wykonywania pracy zdalnej oraz zobowiązuje się do ich przestrzegania. nika oświadczenia postaci papierowej lub elektronicznej, zawierającego potwierdzenie, że na stanowisku pracy zdalnej miejscu wskazanym przez pracownika i uzgodnionym z pracodawcą są zapewnione bezpieczne i higieniczne warunki tej pracy.
+§ 6. Przed dopuszczeniem do wykonywania pracy zdalnej pracownik potwierdza oświadczeniu składanym postaci papierowej lub elektronicznej zapoznanie się z przygotowaną przez pracodawcę oceną ryzyka zawodowego oraz informacją zawierającą zasady bezpiecznego i higienicznego wykonywania pracy zdalnej oraz zobowiązuje się do ich przestrzegania.
+
+§ 7. Dopuszczenie pracownika do wykonywania pracy zdalnej jest uzależnione od złożenia przez pracownika oświadczenia postaci papierowej lub elektronicznej, zawierającego potwierdzenie, że na stanowisku pracy zdalnej miejscu wskazanym przez pracownika i uzgodnionym z pracodawcą są zapewnione bezpieczne i higieniczne warunki tej pracy.
 
 § 8. Pracownik organizuje stanowisko pracy zdalnej, uwzględniając wymagania ergonomii.
 
@@ -251,25 +251,123 @@ o zmianie ustawy Kodeks pracy oraz niektórych innych ustaw
 
 **Art. 67³².** W przypadku wykonywania pracy zdalnej wnioski pracownika, dla których przepisy kodeksu lub innych ustaw lub aktów wykonawczych, określających prawa i obowiązki z zakresu prawa pracy, wymagają formy pisemnej, mogą być złożone postaci papierowej lub elektronicznej.
 
-**Art. 67³³.**
-
-§ 1. Praca zdalna może być wykonywana okazjonalnie, na wniosek pracownika złożony postaci papierowej lub elektronicznej, wymiarze nieprzekraczającym 24 dni roku kalendarzowym.
-
-§ 2. Do pracy zdalnej, o której mowa § 1, nie stosuje się przepisów art. 67 –67 oraz art. 67 § 3.
-
-§ 3. Kontrola wykonywania pracy zdalnej, o której mowa § 1, kontrola zakresie bezpieczeństwa i higieny pracy lub kontrola przestrzegania wymogów zakresie bezpieczeństwa i ochrony informacji, tym procedur ochrony danych osobowych, odbywa się na zasadach ustalonych z pracownikiem.
-
 **Art. 67³⁴.** Przepisy niniejszego rozdziału stosuje się także do stosunków pracy nawiązanych na innej podstawie niż umowa o pracę.”;
 
+**Art. 2.** W ustawie z dnia 26 października 1982 r. o wychowaniu trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2023 r. poz. 165) wprowadza się następujące zmiany:
+
 **Art. 3.** W ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2023 r. poz. 171, z 2022 r. poz. 2600 oraz z 2023 r. poz. 185) wprowadza się następujące zmiany:
+
+**Art. 33b.**
+
+1. Przełożony, o którym mowa art. 32 ust. 1, realizuje stosunku do policjanta pełniącego służbę formie zdalnej obowiązki określone art. 71a–71d czasie pełnienia przez niego służby formie zdalnej, z wyłączeniem obowiązków określonych art. 208 § 1, art. 209 –209 , art. 210 § 1–5, art. 212 pkt 1 i 4, art. 213, art. 214 i art. 233 oraz przepisów wykonawczych wydanych na podstawie art. 210 § 6 Kodeksu pracy.
+
+2. Przełożony, o którym mowa art. 32 ust. 1, lub osoba przez niego upoważniona przed rozpoczęciem przez policjanta służby pełnionej formie zdalnej przekazują policjantowi pełniącemu służbę formie zdalnej informacje dotyczące:
+
+- **1)** zasad:
+    - **a)** oraz sposobu właściwej organizacji stanowiska służby pełnionej formie zdalnej, z uwzględnieniem wymagań ergonomii,
+    - **b)** bezpiecznego i higienicznego wykonywania służby pełnionej formie zdalnej,
+    - **c)** postępowania sytuacjach awaryjnych stwarzających zagrożenie dla życia lub zdrowia;
+
+- **2)** czynności do wykonania po zakończeniu wykonywania służby pełnionej formie zdalnej.
+- **1)** potwierdza:
+    - **a)** zapoznanie się z informacjami, o których mowa ust. 2,
+    - **b)** że na stanowisku służby pełnionej formie zdalnej miejscu wskazanym poleceniu, o którym mowa art. 33a ust. 3, są zapewnione bezpieczne i higieniczne warunki tej służby;
+
+- **2)** zobowiązuje się do przestrzegania zasad, o których mowa ust. 2 pkt 1, oraz do wykonywania czynności, o których mowa ust. 2 pkt 2.
+
+4. Policjant organizuje stanowisko służby pełnionej formie zdalnej, uwzględniając wymagania ergonomii.
+
+5. Przełożony, o którym mowa art. 32 ust. 1, lub osoba przez niego upoważniona mają prawo przeprowadzać kontrolę warunków bezpieczeństwa i higieny służby pełnionej formie zdalnej przez policjanta miejscu i godzinach pełnienia tej służby.
+
+6. Przełożony, o którym mowa art. 32 ust. 1, lub osoba przez niego upoważniona dostosowują sposób przeprowadzania kontroli, o której mowa ust. 5, do miejsca wykonywania i charakteru służby pełnionej formie zdalnej. Wykonywanie czynności kontrolnych nie może naruszać prywatności policjanta pełniącego służbę formie zdalnej i innych osób ani utrudniać korzystania z pomieszczeń domowych sposób zgodny z ich przeznaczeniem.
+
+7. W razie zaistnienia wypadku pozostającego związku z pełnieniem służby formie zdalnej stosuje się przepisy ustawy z dnia 4 kwietnia 2014 r. o świadczeniach odszkodowawczych przysługujących razie wypadku lub choroby pozostających związku ze służbą (Dz. U. z 2022 r. poz. 1032).
+
+8. Zgłoszenie bezpośredniemu przełożonemu wypadku pozostającego związku z pełnieniem służby formie zdalnej jest równoznaczne z wyrażeniem przez policjanta zgody na przeprowadzenie oględzin miejsca wypadku, narzędzi, oceny ich stanu technicznego oraz zbadania warunków pełnienia tej służby i innych okoliczności, które mogły mieć wpływ na powstanie wypadku lub mają z nim związek. Oględzin dokonuje się niezwłocznie po zgłoszeniu wypadku pozostającego związku z pełnieniem służby formie zdalnej, terminie uzgodnionym przez policjanta albo jego domownika, przypadku gdy policjant ze względu na stan zdrowia nie jest stanie uzgodnić tego terminu, i przewodniczącego komisji powypadkowej. Komisja powypadkowa może odstąpić od dokonywania oględzin, jeżeli uzna, że okoliczności i przyczyny wypadku nie budzą jej wątpliwości.”;
+
+- **2)** po art. 61b dodaje się art. 61c brzmieniu: „Art. 61c. 1. Przełożony ma obowiązek niedopuszczenia podległego mu policjanta do służby przypadku:
+- **1)** stawienia się przez niego do służby stanie po użyciu alkoholu albo stanie nietrzeźwości rozumieniu art. 46 ust. 2 albo 3 ustawy z dnia 26 października 1982 r. o wychowaniu trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2023 r. poz. 165 i 240), lub po użyciu podobnie działającego środka, pełnienia jej takim stanie, spożywania alkoholu lub używania podobnie działającego środka czasie służby albo
+- **2)** uzasadnionego podejrzenia, że zachodzą okoliczności, o których mowa pkt 1.
+
+2. W przypadku gdy niedopuszczenie policjanta do służby, o którym mowa ust. 1, dotyczy kierownika jednostki organizacyjnej Policji, obowiązki związane z niedopuszczeniem go do służby realizuje jego przełożony.
+
+3. Przełożony, który nie dopuścił podległego mu policjanta do służby, informuje policjanta o okolicznościach stanowiących podstawę niedopuszczenia go do służby.
+
+4. W celu weryfikacji istnienia przesłanek uzasadniających niedopuszczenie policjanta do służby kierownik jednostki organizacyjnej Policji wobec podległych policjantów lub osoba przez niego upoważniona, przełożony policjanta lub policjant służby spraw wewnętrznych, zwani dalej „zarządzającym badania”, są uprawnieni do wydania polecenia poddania się przez policjanta badaniu na zawartość organizmie alkoholu lub badaniu na obecność organizmie innego podobnie działającego środka.
+
+5. Policjant służby spraw wewnętrznych celu umożliwienia realizacji obowiązku, o którym mowa ust. 1 lub 2, bezpośrednio przed wydaniem polecenia, o którym mowa ust. 4, o zamiarze wydania takiego polecenia zawiadamia przełożonego policjanta, a przypadku kierownika jednostki organizacyjnej Policji – jego przełożonego.
+
+6. Policjant ma obowiązek poddać się badaniu, o którym mowa ust. 4, oraz umożliwić jego przeprowadzenie.
+
+7. Badanie, o którym mowa ust. 4, może obejmować odpowiednio przy badaniu na zawartość organizmie:
+
+- **1)** alkoholu – badanie wydychanego powietrza lub badanie krwi;
+- **2)** środka działającego podobnie do alkoholu – badanie:
+    - **a)** śliny,
+    - **b)** krwi,
+    - **c)** moczu,
+
+8. Badanie krwi, o którym mowa ust. 7 pkt 1, przeprowadza się, jeżeli:
+
+- **1)** policjant odmawia poddania się badaniu wydychanego powietrza;
+- **2)** policjant, pomimo przeprowadzenia badania wydychanego powietrza, żąda badania krwi;
+- **3)** stan policjanta, szczególności wynikający ze spożycia alkoholu, choroby układu oddechowego lub innych przyczyn, uniemożliwia przeprowadzenie badania wydychanego powietrza;
+- **4)** wystąpił brak wskazania stężenia alkoholu wydychanym powietrzu spowodowany przekroczeniem zakresu pomiarowego urządzenia wykorzystywanego do pomiaru.
+
+9. Badania, o których mowa ust. 7 pkt 2 lit. b lub c, przeprowadza się, jeżeli:
+
+- **1)** policjant odmawia poddania się badaniu, o którym mowa ust. 7 pkt 2 lit. a lub d;
+- **2)** policjant, pomimo przeprowadzenia badania, o którym mowa ust. 7 pkt 2 lit. a lub d, żąda badania krwi lub moczu;
+- **3)** stan policjanta uniemożliwia przeprowadzenie badania, o którym mowa ust. 7 pkt 2 lit. a lub d.
+
+10. Czynności związane z pobraniem materiału biologicznego do badań, o których mowa ust. 4:
+
+- **1)** odbywają się miejscu i warunkach zapewniających poszanowanie godności i intymności policjanta, od którego pobiera się materiał do badań;
+- **2)** postaci krwi – są przeprowadzane przez osobę posiadającą odpowiednie kwalifikacje zawodowe;
+- **3)** postaci moczu lub potu – odbywają się obecności osoby tej samej płci co policjant, od którego pobiera się materiał biologiczny do badań:
+    - **a)** o której mowa pkt 2,
+    - **b)** wskazanej przez zarządzającego badania – przypadku braku możliwości zapewnienia obecności osoby, o której mowa pkt 2.
+
+11. W przypadku powzięcia uzasadnionego podejrzenia, że pobranie krwi może spowodować zagrożenie życia lub zdrowia policjanta, decyzję o przeprowadzeniu badania krwi podejmuje lekarz.
+
+12. W przypadku poddania policjanta badaniu celu, o którym mowa ust. 4, niedopuszczenie do służby trwa do czasu uzyskania wyniku badania wykluczającego odniesieniu do policjanta poddanego badaniu:
+
+- **1)** stan nietrzeźwości albo stan po użyciu alkoholu lub
+- **2)** obecność organizmie środka działającego podobnie do alkoholu – nie dłużej jednak niż do końca służby wynikającego z obowiązującego rozkładu czasu służby.
+
+13. W przypadku niedopuszczenia policjanta do służby, o którym mowa ust. 1, do uposażenia policjanta za ten okres stosuje się odpowiednio przepisy art. 121f ust. 1 i 4 oraz art. 126 ust. 1–3.
+
+14. Przebieg badań, o których mowa ust. 4, dokumentuje się z uwzględnieniem:
+
+- **1)** daty, godziny i minuty oraz miejsca przeprowadzenia badania;
+- **2)** wyniku badania;
+- **3)** stopnia, imienia i nazwiska, stanowiska oraz podpisu zarządzającego badania;
+- **4)** danych osobowych policjanta:
+    - **a)** stopnia, imienia i nazwiska oraz stanowiska,
+    - **b)** numeru identyfikacyjnego policjanta,
+    - **c)** daty urodzenia, informacji o chorobach, na jakie choruje policjant, oraz podpisu policjanta – jeżeli dane te pozyskano związku z przeprowadzanym badaniem;
+
+- **5)** imienia, nazwiska i podpisu osoby przeprowadzającej badanie;
+- **6)** imienia, nazwiska, stanowiska i podpisu osoby przeprowadzającej pobranie próbek materiału biologicznego do badań;
+- **7)** imienia, nazwiska i podpisu osoby, obecności której przeprowadzano badanie;
+- **8)** informacji o objawach lub okolicznościach uzasadniających przeprowadzenie badania oraz dacie, godzinie i minucie ich stwierdzenia;
+- **9)** innych informacji niezbędnych do oceny wiarygodności i poprawności badania;
+- **10)** przypadku odstąpienia od pobrania próbek krwi – informacji o przyczynie odstąpienia. związku z przeprowadzanym badaniem.
+
+16. Dokumentację zawierającą wyniki badań przekazuje się niezwłocznie zarządzającemu badania. Policjant służby spraw wewnętrznych niezwłocznie przekazuje dokumentację zawierającą wyniki badań przełożonemu, o którym mowa art. 32 ust. 1.
+
+17. Minister właściwy do spraw wewnętrznych porozumieniu z ministrem właściwym do spraw zdrowia określi, drodze rozporządzenia:
+
+- **1)** warunki i metody przeprowadzania badań, o których mowa ust. 4,
+- **2)** sposób dokumentowania badań, o których mowa ust. 4, tym wzory protokołów z przeprowadzonych badań,
+- **3)** wykaz środków działających podobnie do alkoholu – mając na uwadze potrzebę sprawnego pobrania materiału do badań, sprawnego i prawidłowego przeprowadzania badań oraz zagwarantowania wiarygodności ich wyników, a także metodykę przeprowadzania takich badań oraz skutki oddziaływania środków działających podobnie do alkoholu na organizm i zapewniając poszanowanie godności policjanta i zasad ochrony danych osobowych.”;
+- **3)** art. 71a ust. 2 wyrazy „ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2020 r. poz. 1320 oraz z 2021 r. poz. 1162), zwanej dalej „Kodeksem pracy” ” zastępuje się wyrazami „Kodeksu pracy”.
 
 **Art. 4.** W ustawie z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2022 r. poz. 1061, 1115, 1855 i 2600 oraz z 2023 r. poz. 185) wprowadza się następujące zmiany:
 
 **Art. 36b.**
 
-1. Przełożony, o którym mowa art. 36 ust. 1, realizuje stosunku do funkcjonariusza pełniącego służbę formie zdalnej obowiązki określone art. 75a–75c czasie pełnienia przez niego służby formie zdalnej, z wyłączeniem obowiązków określonych art. 208 § 1, art. 209 –209 , art. 210 § 1–5, art. 212 pkt 1 i 4, art. 213, art. 214 i art. 233 oraz przepisów wykonawczych wydanych na podstawie art. 210 § 6 Kodeksu pracy.
-
-2. Przełożony, o którym mowa art. 36 ust. 1, lub osoba przez niego upoważniona przed rozpoczęciem przez funkcjonariusza służby pełnionej formie zdalnej przekazują funkcjonariuszowi pełniącemu służbę formie zdalnej informacje dotyczące:
+1. Przełożony, o którym mowa art. 36 ust. 1, realizuje stosunku do funkcjonariusza pełniącego służbę formie zdalnej obowiązki określone art. 75a–75c czasie pełnienia przez niego służby formie zdalnej, z wyłączeniem obowiązków określonych art. 208 § 1, art. 209 –209 , art. 210 § 1–5, art. 212 pkt 1 i 4, art. 213, art. 214 i art. 233 oraz przepisów wykonawczych wydanych na podstawie art. 210 § 6 Kodeksu pracy. funkcjonariusza służby pełnionej formie zdalnej przekazują funkcjonariuszowi pełniącemu służbę formie zdalnej informacje dotyczące:
 
 - **1)** zasad:
     - **a)** oraz sposobu właściwej organizacji stanowiska służby pełnionej formie zdalnej, z uwzględnieniem wymagań ergonomii,
@@ -292,7 +390,9 @@ o zmianie ustawy Kodeks pracy oraz niektórych innych ustaw
 
 6. Przełożony, o którym mowa art. 36 ust. 1, lub osoba przez niego upoważniona dostosowują sposób przeprowadzania kontroli, o której mowa ust. 5, do miejsca wykonywania i charakteru służby pełnionej formie zdalnej. Wykonywanie czynności kontrolnych nie może naruszać prywatności funkcjonariusza pełniącego służbę formie zdalnej i innych osób ani utrudniać korzystania z pomieszczeń domowych sposób zgodny z ich przeznaczeniem.
 
-7. W razie zaistnienia wypadku pozostającego związku z pełnieniem służby formie zdalnej stosuje się przepisy ustawy z dnia 4 kwietnia 2014 r. o świadczeniach odszkodowawczych przysługujących razie wypadku lub choroby pozostających związku ze służbą (Dz. U. z 2022 r. poz. 1032). znaczne z wyrażeniem przez funkcjonariusza zgody na przeprowadzenie oględzin miejsca wypadku, narzędzi, oceny ich stanu technicznego oraz zbadania warunków pełnienia tej służby i innych okoliczności, które mogły mieć wpływ na powstanie wypadku lub mają z nim związek. Oględzin dokonuje się niezwłocznie po zgłoszeniu wypadku pozostającego związku z pełnieniem służby formie zdalnej, terminie uzgodnionym przez funkcjonariusza albo jego domownika, przypadku gdy funkcjonariusz ze względu na stan zdrowia nie jest stanie uzgodnić tego terminu, i przewodniczącego komisji powypadkowej. Komisja powypadkowa może odstąpić od dokonywania oględzin, jeżeli uzna, że okoliczności i przyczyny wypadku nie budzą jej wątpliwości.”;
+7. W razie zaistnienia wypadku pozostającego związku z pełnieniem służby formie zdalnej stosuje się przepisy ustawy z dnia 4 kwietnia 2014 r. o świadczeniach odszkodowawczych przysługujących razie wypadku lub choroby pozostających związku ze służbą (Dz. U. z 2022 r. poz. 1032).
+
+8. Zgłoszenie przełożonemu wypadku pozostającego związku z pełnieniem służby formie zdalnej jest równoznaczne z wyrażeniem przez funkcjonariusza zgody na przeprowadzenie oględzin miejsca wypadku, narzędzi, oceny ich stanu technicznego oraz zbadania warunków pełnienia tej służby i innych okoliczności, które mogły mieć wpływ na powstanie wypadku lub mają z nim związek. Oględzin dokonuje się niezwłocznie po zgłoszeniu wypadku pozostającego związku z pełnieniem służby formie zdalnej, terminie uzgodnionym przez funkcjonariusza albo jego domownika, przypadku gdy funkcjonariusz ze względu na stan zdrowia nie jest stanie uzgodnić tego terminu, i przewodniczącego komisji powypadkowej. Komisja powypadkowa może odstąpić od dokonywania oględzin, jeżeli uzna, że okoliczności i przyczyny wypadku nie budzą jej wątpliwości.”;
 
 - **2)** po art. 39c dodaje się art. 39d brzmieniu: „Art. 39d. 1. Kierownik jednostki organizacyjnej Straży Granicznej, a komórce organizacyjnej Komendy Głównej kierownik tej komórki, ma obowiązek niedopuszczenia podległego mu funkcjonariusza do służby przypadku:
 - **1)** stawienia się przez niego do służby stanie po użyciu alkoholu albo stanie nietrzeźwości rozumieniu art. 46 ust. 2 albo 3 ustawy z dnia 26 października 1982 r. o wychowaniu trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2023 r. poz. 165 i 240), lub po użyciu podobnie działającego środka, pełnienia jej takim stanie, spożywania alkoholu lub używania podobnie działającego środka czasie służby albo
@@ -300,18 +400,16 @@ o zmianie ustawy Kodeks pracy oraz niektórych innych ustaw
 
 2. W przypadku gdy niedopuszczenie funkcjonariusza do służby, o którym mowa ust. 1, dotyczy kierownika jednostki organizacyjnej Straży Granicznej, obowiązki związane z niedopuszczeniem go do służby realizuje jego przełożony.
 
-3. Kierownik jednostki organizacyjnej Straży Granicznej albo komórki organizacyjnej Komendy Głównej, której funkcjonariusz pełni służbę, informuje funkcjonariusza o okolicznościach stanowiących podstawę niedopuszczenia go do służby.
+3. Kierownik jednostki organizacyjnej Straży Granicznej albo komórki organizacyjnej Komendy Głównej, której funkcjonariusz pełni służbę, informuje funkcjonariusza o okolicznościach stanowiących podstawę niedopuszczenia go do służby. przełożony funkcjonariusza lub funkcjonariusz pełniący służbę BSWSG, zwani dalej „zarządzającym badania”, są uprawnieni do wydania polecenia poddania się przez funkcjonariusza badaniu na zawartość organizmie alkoholu lub badaniu na obecność organizmie innego podobnie działającego środka.
 
-4. W celu weryfikacji istnienia przesłanek uzasadniających niedopuszczenie funkcjonariusza do służby kierownik jednostki organizacyjnej Straży Granicznej wobec podległych funkcjonariuszy lub osoba przez niego upoważniona, przełożony funkcjonariusza lub funkcjonariusz pełniący służbę BSWSG, zwani dalej „zarządzającym badania”, są uprawnieni do wydania polecenia poddania się przez funkcjonariusza badaniu na zawartość organizmie alkoholu lub badaniu na obecność organizmie innego podobnie działającego środka.
-
-5. Funkcjonariusz pełniący służbę BSWSG, celu umożliwienia realizacji obowiązku, o którym mowa ust. 1 lub 2, bezpośrednio przed wydaniem polecenia, o którym mowa ust. 4, o zamiarze wydania takiego polecenia zawiadamia właściwego kierownika, a przypadku kierownika jednostki organizacyjnej Straży Granicznej jego przełożonego.
+5. Funkcjonariusz pełniący służbę BSWSG, celu umożliwienia realizacji obowiązku, o którym mowa ust. 1 lub 2, bezpośrednio przed wydaniem polecenia, o którym mowa ust. 4, o zamiarze wydania takiego polecenia zawiadamia właściwego kierownika, a przypadku kierownika jednostki organizacyjnej Straży Granicznej – jego przełożonego.
 
 6. Funkcjonariusz ma obowiązek poddać się badaniu, o którym mowa ust. 4, oraz umożliwić jego przeprowadzenie.
 
 7. Badanie, o którym mowa ust. 4, może obejmować odpowiednio przy badaniu na zawartość organizmie:
 
-- **1)** alkoholu badanie wydychanego powietrza lub badanie krwi;
-- **2)** środka działającego podobnie do alkoholu badanie:
+- **1)** alkoholu – badanie wydychanego powietrza lub badanie krwi;
+- **2)** środka działającego podobnie do alkoholu – badanie:
     - **a)** śliny,
     - **b)** krwi,
     - **c)** moczu,
@@ -323,6 +421,9 @@ o zmianie ustawy Kodeks pracy oraz niektórych innych ustaw
 - **2)** funkcjonariusz, pomimo przeprowadzenia badania wydychanego powietrza, żąda badania krwi;
 - **3)** stan funkcjonariusza, szczególności wynikający ze spożycia alkoholu, choroby układu oddechowego lub innych przyczyn, uniemożliwia przeprowadzenie badania wydychanego powietrza;
 - **4)** wystąpił brak wskazania stężenia alkoholu wydychanym powietrzu spowodowany przekroczeniem zakresu pomiarowego urządzenia wykorzystywanego do pomiaru.
+
+9. Badania, o których mowa ust. 7 pkt 2 lit. b lub c, przeprowadza się, jeżeli:
+
 - **1)** funkcjonariusz odmawia poddania się badaniu, o którym mowa ust. 7 pkt 2 lit. a lub d;
 - **2)** funkcjonariusz, pomimo przeprowadzenia badania, o którym mowa ust. 7 pkt 2 lit. a lub d, żąda badania krwi lub moczu;
 - **3)** stan funkcjonariusza uniemożliwia przeprowadzenie badania, o którym mowa ust. 7 pkt 2 lit. a lub d.
@@ -330,50 +431,52 @@ o zmianie ustawy Kodeks pracy oraz niektórych innych ustaw
 10. Czynności związane z pobraniem materiału biologicznego do badań, o których mowa ust. 4:
 
 - **1)** odbywają się miejscu i warunkach zapewniających poszanowanie godności i intymności funkcjonariusza, od którego pobiera się materiał do badań;
-- **2)** postaci krwi są przeprowadzane przez osobę posiadającą odpowiednie kwalifikacje zawodowe;
-- **3)** postaci moczu lub potu odbywają się obecności osoby tej samej płci co funkcjonariusz, od którego pobiera się materiał biologiczny do badań:
+- **2)** postaci krwi – są przeprowadzane przez osobę posiadającą odpowiednie kwalifikacje zawodowe;
+- **3)** postaci moczu lub potu – odbywają się obecności osoby tej samej płci co funkcjonariusz, od którego pobiera się materiał biologiczny do badań:
     - **a)** o której mowa pkt 2,
-    - **b)** wskazanej przez zarządzającego badania przypadku braku możliwości zapewnienia obecności osoby, o której mowa pkt 2.
+    - **b)** wskazanej przez zarządzającego badania – przypadku braku możliwości zapewnienia obecności osoby, o której mowa pkt 2.
 
 11. W przypadku powzięcia uzasadnionego podejrzenia, że pobranie krwi może spowodować zagrożenie życia lub zdrowia funkcjonariusza, decyzję o przeprowadzeniu badania krwi podejmuje lekarz.
 
 12. W przypadku poddania funkcjonariusza badaniu celu, o którym mowa ust. 4, niedopuszczenie do służby trwa do czasu uzyskania wyniku badania wykluczającego odniesieniu do funkcjonariusza poddanego badaniu:
 
 - **1)** stan nietrzeźwości albo stan po użyciu alkoholu lub
-- **2)** obecność organizmie środka działającego podobnie do alkoholu nie dłużej jednak niż do końca służby wynikającego z obowiązującego rozkładu czasu służby.
+- **2)** obecność organizmie środka działającego podobnie do alkoholu – nie dłużej jednak niż do końca służby wynikającego z obowiązującego rozkładu czasu służby.
 
 13. W przypadku niedopuszczenia funkcjonariusza do służby, o którym mowa ust. 1, do uposażenia funkcjonariusza za ten okres stosuje się odpowiednio przepisy art. 125f ust. 1 i 4 oraz art. 130 ust. 1–3.
-
-14. Przebieg badań, o których mowa ust. 4, dokumentuje się z uwzględnieniem:
 
 - **1)** daty, godziny i minuty oraz miejsca przeprowadzenia badania;
 - **2)** wyniku badania;
 - **3)** stopnia, imienia i nazwiska, stanowiska oraz podpisu zarządzającego badania;
 - **4)** danych osobowych funkcjonariusza:
     - **a)** stopnia, imienia i nazwiska oraz stanowiska,
-    - **b)** daty urodzenia, informacji o chorobach, na jakie choruje funkcjonariusz, oraz podpisu funkcjonariusza jeżeli dane te pozyskano związku z przeprowadzanym badaniem;
+    - **b)** daty urodzenia, informacji o chorobach, na jakie choruje funkcjonariusz, oraz podpisu funkcjonariusza – jeżeli dane te pozyskano związku z przeprowadzanym badaniem;
 
 - **5)** imienia, nazwiska i podpisu osoby przeprowadzającej badanie;
 - **6)** imienia, nazwiska, stanowiska i podpisu osoby przeprowadzającej pobranie próbek materiału biologicznego do badań;
 - **7)** imienia, nazwiska i podpisu osoby, obecności której przeprowadzano badanie;
 - **8)** informacji o objawach lub okolicznościach uzasadniających przeprowadzenie badania oraz dacie, godzinie i minucie ich stwierdzenia;
 - **9)** innych informacji niezbędnych do oceny wiarygodności i poprawności badania;
-- **10)** przypadku odstąpienia od pobrania próbek krwi informacji o przyczynie odstąpienia.
+- **10)** przypadku odstąpienia od pobrania próbek krwi – informacji o przyczynie odstąpienia.
 
-15. W przypadku badań, o których mowa ust. 7 pkt 1, poza danymi, o których mowa ust. 14 pkt 4, dokumentacja obejmuje również następujące dane osobowe funkcjonariusza: płeć, wzrost, masę ciała jeżeli dane te pozyskano związku z przeprowadzanym badaniem.
+15. W przypadku badań, o których mowa ust. 7 pkt 1, poza danymi, o których mowa ust. 14 pkt 4, dokumentacja obejmuje również następujące dane osobowe funkcjonariusza: płeć, wzrost, masę ciała – jeżeli dane te pozyskano związku z przeprowadzanym badaniem.
 
-16. Dokumentację zawierającą wyniki badań przekazuje się niezwłocznie zarządzającemu badania. Funkcjonariusz pełniący służbę BSWSG niezwłocznie przekazuje dokumentację zawierającą wyniki badań przełożonemu, o którym mowa art. 36 ust. 1. drodze rozporządzenia:
+16. Dokumentację zawierającą wyniki badań przekazuje się niezwłocznie zarządzającemu badania. Funkcjonariusz pełniący służbę BSWSG niezwłocznie przekazuje dokumentację zawierającą wyniki badań przełożonemu, o którym mowa art. 36 ust. 1.
+
+17. Minister właściwy do spraw wewnętrznych porozumieniu z ministrem właściwym do spraw zdrowia określi, drodze rozporządzenia:
 
 - **1)** warunki i metody przeprowadzania badań, o których mowa ust. 4,
 - **2)** sposób dokumentowania badań, o których mowa ust. 4, tym wzory protokołów z przeprowadzonych badań,
-- **3)** wykaz środków działających podobnie do alkoholu mając na uwadze potrzebę sprawnego pobrania materiału do badań, sprawnego i prawidłowego przeprowadzania badań oraz zagwarantowania wiarygodności ich wyników, a także metodykę przeprowadzania takich badań oraz skutki oddziaływania środków działających podobnie do alkoholu na organizm i zapewniając poszanowanie godności funkcjonariusza i zasad ochrony danych osobowych.”;
-- **3)** art. 75a ust. 2 wyrazy „ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2020 r. poz. 1320, z 2021 r. poz. 1162 oraz z 2022 r. poz. 655), zwanej dalej „Kodeksem pracy” ” zastępuje się wyrazami „Kodeksu pracy”.
+- **3)** wykaz środków działających podobnie do alkoholu – mając na uwadze potrzebę sprawnego pobrania materiału do badań, sprawnego i prawidłowego przeprowadzania badań oraz zagwarantowania wiarygodności ich wyników, a także metodykę przeprowadzania takich badań oraz skutki oddziaływania środków działających podobnie do alkoholu na organizm i zapewniając poszanowanie godności funkcjonariusza i zasad ochrony danych osobowych.”;
+- **3)** art. 75a ust. 2 wyrazy „ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2020 r. poz. 1320, z 2021 r. poz. 1162 oraz z 2022 r. poz. 655), zwanej dalej „Kodeksem pracy” ” zastępuje się wyrazami „Kodeksu pracy”.
 
 **Art. 5.** W ustawie z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2022 r. poz. 1969) wprowadza się następujące zmiany:
 
 **Art. 35b.**
 
-1. Przełożony, o którym mowa art. 35a ust. 1, realizuje stosunku do strażaka pełniącego służbę formie zdalnej obowiązki określone art. 29a i art. 42 czasie pełnienia przez niego służby formie zdalnej, z wyłączeniem obowiązków określonych art. 208 § 1, art. 209 –209 , art. 210 § 1–5, art. 212 pkt 1 i 4, art. 213, art. 214 i art. 233 oraz przepisów wykonawczych wydanych na podstawie art. 210 § 6 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy. strażaka służby pełnionej formie zdalnej przekazują strażakowi pełniącemu służbę formie zdalnej informacje dotyczące:
+1. Przełożony, o którym mowa art. 35a ust. 1, realizuje stosunku do strażaka pełniącego służbę formie zdalnej obowiązki określone art. 29a i art. 42 czasie pełnienia przez niego służby formie zdalnej, z wyłączeniem obowiązków określonych art. 208 § 1, art. 209 –209 , art. 210 § 1–5, art. 212 pkt 1 i 4, art. 213, art. 214 i art. 233 oraz przepisów wykonawczych wydanych na podstawie art. 210 § 6 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
+
+2. Przełożony, o którym mowa art. 35a ust. 1, lub osoba przez niego upoważniona przed rozpoczęciem przez strażaka służby pełnionej formie zdalnej przekazują strażakowi pełniącemu służbę formie zdalnej informacje dotyczące:
 
 - **1)** zasad:
     - **a)** oraz sposobu właściwej organizacji stanowiska służby pełnionej formie zdalnej, z uwzględnieniem wymagań ergonomii,
@@ -398,7 +501,7 @@ o zmianie ustawy Kodeks pracy oraz niektórych innych ustaw
 
 7. W razie zaistnienia wypadku pozostającego związku z pełnieniem służby formie zdalnej stosuje się przepisy ustawy z dnia 4 kwietnia 2014 r. o świadczeniach odszkodowawczych przysługujących razie wypadku lub choroby pozostających związku ze służbą (Dz. U. z 2022 r. poz. 1032).
 
-8. Zgłoszenie przełożonemu wypadku pozostającego związku z pełnieniem służby formie zdalnej jest równoznaczne z wyrażeniem przez strażaka zgody na przeprowadzenie oględzin miejsca wypadku, narzędzi, oceny ich stanu technicznego oraz zbadania warunków pełnienia tej służby i innych okoliczności, które mogły mieć wpływ na powstanie wypadku lub mają z nim związek. Oględzin dokonuje się niezwłocznie po zgłoszeniu wypadku pozostającego związku z pełnieniem służby formie zdalnej, terminie uzgodnionym przez strażaka albo jego domownika, przypadku gdy strażak ze względu na stan zdrowia nie jest stanie uzgodnić tego terminu, i przewodniczącego komisji powypadkowej. Komisja powypadkowa może odstąpić od dokonywania oględzin, jeżeli uzna, że okoliczności i przyczyny wypadku nie budzą jej wątpliwości.”;
+8. Zgłoszenie przełożonemu wypadku pozostającego związku z pełnieniem służby formie zdalnej jest równoznaczne z wyrażeniem przez strażaka zgody na przeprowadzenie oględzin miejsca wypadku, narzędzi, oceny ich stanu technicznego oraz zbadania warunków pełnienia tej służby i innych okoliczności, które mogły mieć wpływ na przypadku gdy strażak ze względu na stan zdrowia nie jest stanie uzgodnić tego terminu, i przewodniczącego komisji powypadkowej. Komisja powypadkowa może odstąpić od dokonywania oględzin, jeżeli uzna, że okoliczności i przyczyny wypadku nie budzą jej wątpliwości.”;
 
 - **2)** po art. 59b dodaje się art. 59c brzmieniu: „Art. 59c. 1. Kierownik jednostki organizacyjnej Państwowej Straży Pożarnej, a komórce organizacyjnej Komendy Głównej Państwowej Straży Pożarnej kierownik tej komórki, ma obowiązek niedopuszczenia podległego mu strażaka do służby przypadku:
 - **1)** stawienia się przez niego do służby stanie po użyciu alkoholu albo stanie nietrzeźwości rozumieniu art. 46 ust. 2 albo 3 ustawy z dnia 26 października 1982 r. o wychowaniu trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2023 r. poz. 165 i 240), lub po użyciu podobnie działającego środka, pełnienia jej takim stanie, spożywania alkoholu lub używania podobnie działającego środka czasie służby albo
@@ -406,14 +509,16 @@ o zmianie ustawy Kodeks pracy oraz niektórych innych ustaw
 
 2. W przypadku gdy niedopuszczenie strażaka do służby, o którym mowa ust. 1, dotyczy kierownika jednostki organizacyjnej Państwowej Straży Pożarnej, obowiązki związane z niedopuszczeniem go do służby realizuje jego przełożony.
 
-3. Kierownik jednostki organizacyjnej Państwowej Straży Pożarnej albo komórki organizacyjnej Komendy Głównej Państwowej Straży Pożarnej, której strażak pełni służbę, informuje strażaka o okolicznościach stanowiących podstawę niedopuszczenia go do służby. nostki organizacyjnej Państwowej Straży Pożarnej wobec podległych strażaków, osoba przez niego upoważniona lub przełożony strażaka, zwani dalej „zarządzającym badania”, są uprawnieni do wydania polecenia poddania się przez strażaka badaniu na zawartość organizmie alkoholu lub badaniu na obecność organizmie innego podobnie działającego środka.
+3. Kierownik jednostki organizacyjnej Państwowej Straży Pożarnej albo komórki organizacyjnej Komendy Głównej Państwowej Straży Pożarnej, której strażak pełni służbę, informuje strażaka o okolicznościach stanowiących podstawę niedopuszczenia go do służby.
+
+4. W celu weryfikacji istnienia przesłanek uzasadniających niedopuszczenie strażaka do służby kierownik jednostki organizacyjnej Państwowej Straży Pożarnej wobec podległych strażaków, osoba przez niego upoważniona lub przełożony strażaka, zwani dalej „zarządzającym badania”, są uprawnieni do wydania polecenia poddania się przez strażaka badaniu na zawartość organizmie alkoholu lub badaniu na obecność organizmie innego podobnie działającego środka.
 
 5. Strażak ma obowiązek poddać się badaniu, o którym mowa ust. 4, oraz umożliwić jego przeprowadzenie.
 
 6. Badanie, o którym mowa ust. 4, może obejmować odpowiednio przy badaniu na zawartość organizmie:
 
-- **1)** alkoholu badanie wydychanego powietrza lub badanie krwi;
-- **2)** środka działającego podobnie do alkoholu badanie:
+- **1)** alkoholu – badanie wydychanego powietrza lub badanie krwi;
+- **2)** środka działającego podobnie do alkoholu – badanie:
     - **a)** śliny,
     - **b)** krwi,
     - **c)** moczu,
@@ -435,17 +540,16 @@ o zmianie ustawy Kodeks pracy oraz niektórych innych ustaw
 9. Czynności związane z pobraniem materiału biologicznego do badań, o których mowa ust. 4:
 
 - **1)** odbywają się miejscu i warunkach zapewniających poszanowanie godności i intymności strażaka, od którego pobiera się materiał do badań;
-- **2)** postaci krwi są przeprowadzane przez osobę posiadającą odpowiednie kwalifikacje zawodowe;
-- **3)** postaci moczu lub potu odbywają się obecności osoby tej samej płci co strażak, od którego pobiera się materiał biologiczny do badań:
+- **2)** postaci krwi – są przeprowadzane przez osobę posiadającą odpowiednie kwalifikacje zawodowe;
+- **3)** postaci moczu lub potu – odbywają się obecności osoby tej samej płci co strażak, od którego pobiera się materiał biologiczny do badań:
     - **a)** o której mowa pkt 2,
-    - **b)** wskazanej przez zarządzającego badania przypadku braku możliwości zapewnienia obecności osoby, o której mowa pkt 2.
 
 10. W przypadku powzięcia uzasadnionego podejrzenia, że pobranie krwi może spowodować zagrożenie życia lub zdrowia strażaka, decyzję o przeprowadzeniu badania krwi podejmuje lekarz.
 
 11. W przypadku poddania strażaka badaniu celu, o którym mowa ust. 4, niedopuszczenie do służby trwa do czasu uzyskania wyniku badania wykluczającego odniesieniu do strażaka poddanego badaniu:
 
 - **1)** stan nietrzeźwości albo stan po użyciu alkoholu lub
-- **2)** obecność organizmie środka działającego podobnie do alkoholu nie dłużej jednak niż do końca wykonywania zadań służbowych ramach pełnionej służby wynikającego z obowiązującego rozkładu czasu służby.
+- **2)** obecność organizmie środka działającego podobnie do alkoholu – nie dłużej jednak niż do końca wykonywania zadań służbowych ramach pełnionej służby wynikającego z obowiązującego rozkładu czasu służby.
 
 12. W przypadku niedopuszczenia strażaka do służby, o którym mowa ust. 1, do uposażenia strażaka za ten okres stosuje się odpowiednio przepisy art. 105f ust. 1 i 4 oraz art. 109 ust. 1–3.
 
@@ -454,17 +558,18 @@ o zmianie ustawy Kodeks pracy oraz niektórych innych ustaw
 - **1)** daty, godziny i minuty oraz miejsca przeprowadzenia badania;
 - **2)** wyniku badania;
 - **3)** stopnia, imienia i nazwiska, stanowiska oraz podpisu zarządzającego badania;
+- **4)** danych osobowych strażaka:
     - **a)** stopnia, imienia i nazwiska oraz stanowiska,
-    - **b)** daty urodzenia, informacji o chorobach, na jakie choruje strażak, oraz podpisu strażaka jeżeli dane te pozyskano związku z przeprowadzanym badaniem;
+    - **b)** daty urodzenia, informacji o chorobach, na jakie choruje strażak, oraz podpisu strażaka – jeżeli dane te pozyskano związku z przeprowadzanym badaniem;
 
 - **5)** imienia, nazwiska i podpisu osoby przeprowadzającej badanie;
 - **6)** imienia, nazwiska, stanowiska i podpisu osoby przeprowadzającej pobranie próbek materiału biologicznego do badań;
 - **7)** imienia, nazwiska i podpisu osoby, obecności której przeprowadzano badanie;
 - **8)** informacji o objawach lub okolicznościach uzasadniających przeprowadzenie badania oraz dacie, godzinie i minucie ich stwierdzenia;
 - **9)** innych informacji niezbędnych do oceny wiarygodności i poprawności badania;
-- **10)** przypadku odstąpienia od pobrania próbek krwi informacji o przyczynie odstąpienia.
+- **10)** przypadku odstąpienia od pobrania próbek krwi – informacji o przyczynie odstąpienia.
 
-14. W przypadku badań, o których mowa ust. 6 pkt 1, poza danymi, o których mowa ust. 13 pkt 4, dokumentacja obejmuje również następujące dane osobowe strażaka: płeć, wzrost, masę ciała jeżeli dane te pozyskano związku z przeprowadzanym badaniem.
+14. W przypadku badań, o których mowa ust. 6 pkt 1, poza danymi, o których mowa ust. 13 pkt 4, dokumentacja obejmuje również następujące dane osobowe strażaka: płeć, wzrost, masę ciała – jeżeli dane te pozyskano związku z przeprowadzanym badaniem.
 
 15. Dokumentację zawierającą wyniki badań przekazuje się niezwłocznie zarządzającemu badania.
 
@@ -472,7 +577,7 @@ o zmianie ustawy Kodeks pracy oraz niektórych innych ustaw
 
 - **1)** warunki i metody przeprowadzania badań, o których mowa ust. 4,
 - **2)** sposób dokumentowania badań, o których mowa ust. 4, tym wzory protokołów z przeprowadzonych badań,
-- **3)** wykaz środków działających podobnie do alkoholu mając na uwadze potrzebę sprawnego pobrania materiału do badań, sprawnego i prawidłowego przeprowadzania badań oraz zagwarantowania wiarygodności ich wyników, a także metodykę przeprowadzania takich badań oraz skutki oddziaływania środków działających podobnie do alkoholu na organizm i zapewniając poszanowanie godności strażaka i zasad ochrony danych osobowych.”.
+- **3)** wykaz środków działających podobnie do alkoholu – mając na uwadze potrzebę sprawnego pobrania materiału do badań, sprawnego i prawidłowego przeprowadzania badań oraz zagwarantowania wiarygodności ich wyników, a także metodykę przeprowadzania takich badań oraz skutki oddziaływania środków działających podobnie do alkoholu na organizm i zapewniając poszanowanie godności strażaka i zasad ochrony danych osobowych.”.
 
 **Art. 6.** W ustawie z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2023 r. poz. 100 i 173) wprowadza się następujące zmiany:
 
@@ -480,7 +585,7 @@ o zmianie ustawy Kodeks pracy oraz niektórych innych ustaw
 
 **Art. 51b.**
 
-1. Szef ABW lub upoważniony przez niego funkcjonariusz realizują stosunku do funkcjonariusza ABW pełniącego służbę formie zdalnej obowiązki określone art. 52a czasie pełnienia przez niego służby formie zdalnej, z wyłączeniem obowiązków określonych art. 208 § 1, art. 209 –209 , art. 210 § 1–5, art. 212 pkt 1 i 4, art. 213, art. 214 i art. 233 oraz przepisów wykonawczych wydanych na podstawie art. 210 § 6 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2022 r. poz. 1510, 1700 i 2140 oraz z 2023 r. poz. 240), zwanej dalej „Kodeksem pracy”.
+1. Szef ABW lub upoważniony przez niego funkcjonariusz realizują stosunku do funkcjonariusza ABW pełniącego służbę formie zdalnej obowiązki określone art. 52a czasie pełnienia przez niego służby formie zdalnej, z wyłączeniem obowiązków określonych art. 208 § 1, art. 209 –209 , art. 210 § 1–5, art. 212 pkt 1 i 4, art. 213, art. 214 i art. 233 oraz przepisów wykonawczych wydanych na podstawie art. 210 § 6 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2022 r. poz. 1510, 1700 i 2140 oraz z 2023 r. poz. 240), zwanej dalej „Kodeksem pracy”.
 
 2. Szef ABW lub upoważniony przez niego funkcjonariusz przed rozpoczęciem przez funkcjonariusza ABW służby pełnionej formie zdalnej przekazują mu informacje dotyczące:
 
@@ -495,7 +600,6 @@ o zmianie ustawy Kodeks pracy oraz niektórych innych ustaw
 
 - **1)** potwierdza:
     - **a)** zapoznanie się z informacjami, o których mowa ust. 2,
-    - **b)** że na stanowisku służby pełnionej formie zdalnej miejscu wskazanym poleceniu, o którym mowa art. 51a ust. 1, są zapewnione bezpieczne i higieniczne warunki tej służby;
 
 - **2)** zobowiązuje się do przestrzegania zasad, o których mowa ust. 2 pkt 1, oraz do wykonywania czynności, o których mowa ust. 2 pkt 2;
 - **3)** potwierdza okoliczności, o których mowa art. 51a ust. 7.
@@ -504,17 +608,72 @@ o zmianie ustawy Kodeks pracy oraz niektórych innych ustaw
 
 5. Szef ABW lub upoważniony przez niego funkcjonariusz mają prawo przeprowadzać kontrolę warunków bezpieczeństwa i higieny służby pełnionej formie zdalnej przez funkcjonariusza ABW miejscu i godzinach pełnienia tej służby.
 
-6. Szef ABW lub upoważniony przez niego funkcjonariusz dostosowują sposób przeprowadzania kontroli, o której mowa ust. 5, do miejsca wykonywania i charakteru służby pełnionej formie zdalnej. Wykonywanie czynności kontrolnych nie może naruszać prywatności funkcjonariusza ABW pełniącego służbę formie zdalnej i innych osób ani utrudniać korzystania z pomieszczeń domowych sposób zgodny z ich przeznaczeniem. ustawy z dnia 4 kwietnia 2014 r. o świadczeniach odszkodowawczych przysługujących razie wypadku lub choroby pozostających związku ze służbą (Dz. U. z 2022 r. poz. 1032).
+6. Szef ABW lub upoważniony przez niego funkcjonariusz dostosowują sposób przeprowadzania kontroli, o której mowa ust. 5, do miejsca wykonywania i charakteru służby pełnionej formie zdalnej. Wykonywanie czynności kontrolnych nie może naruszać prywatności funkcjonariusza ABW pełniącego służbę formie zdalnej i innych osób ani utrudniać korzystania z pomieszczeń domowych sposób zgodny z ich przeznaczeniem.
+
+7. W razie zaistnienia wypadku pozostającego związku z pełnieniem służby formie zdalnej stosuje się przepisy ustawy z dnia 4 kwietnia 2014 r. o świadczeniach odszkodowawczych przysługujących razie wypadku lub choroby pozostających związku ze służbą (Dz. U. z 2022 r. poz. 1032).
 
 8. Zgłoszenie bezpośredniemu przełożonemu wypadku pozostającego związku z pełnieniem służby formie zdalnej jest równoznaczne z wyrażeniem przez funkcjonariusza ABW zgody na przeprowadzenie oględzin miejsca wypadku, narzędzi, oceny ich stanu technicznego oraz zbadania warunków pełnienia służby i innych okoliczności, które mogły mieć wpływ na powstanie wypadku lub mają z nim związek. Oględzin dokonuje się niezwłocznie po zgłoszeniu wypadku pozostającego związku z pełnieniem służby formie zdalnej, terminie uzgodnionym przez funkcjonariusza ABW albo jego domownika, przypadku gdy funkcjonariusz ABW ze względu na stan zdrowia nie jest stanie uzgodnić tego terminu, i przewodniczącego komisji powypadkowej. Komisja powypadkowa może odstąpić od dokonywania oględzin, jeżeli uzna, że okoliczności i przyczyny wypadku nie budzą jej wątpliwości.”;
 
-- **2)** art. 52a ust. 1 wyrazy „ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2020 r. poz. 1320 oraz z 2021 r. poz. 1162), zwanej dalej „Kodeksem pracy” ” zastępuje się wyrazami „Kodeksu pracy”.
+- **2)** art. 52a ust. 1 wyrazy „ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2020 r. poz. 1320 oraz z 2021 r. poz. 1162), zwanej dalej „Kodeksem pracy” ” zastępuje się wyrazami „Kodeksu pracy”.
 
-**Art. 8.** W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2022 r. poz. 690, z późn. zm. ) art. 60a ust. 1 otrzymuje brzmienie: „1. Starosta może na podstawie zawartej umowy przyznać pracodawcy lub przedsiębiorcy środki Funduszu Pracy, zwane dalej „grantem”, na utworzenie stanowiska pracy zdalnej rozumieniu art. 67 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy dla skierowanego bezrobotnego rodzica powracającego na rynek pracy, posiadającego co najmniej jedno dziecko wieku do 6 lat, lub bezrobotnego sprawującego opiekę nad osobą zależną, który okresie 3 lat przed rejestracją urzędzie pracy jako bezrobotny zrezygnował z zatrudnienia lub innej pracy zarobkowej z uwagi na konieczność wychowywania dziecka lub sprawowania opieki nad osobą zależną.”.
+**Art. 8.** W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2022 r. poz. 690, z późn. zm. ) art. 60a ust. 1 otrzymuje brzmienie: „1. Starosta może na podstawie zawartej umowy przyznać pracodawcy lub przedsiębiorcy środki Funduszu Pracy, zwane dalej „grantem”, na utworzenie stanowiska pracy zdalnej rozumieniu art. 67 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy dla skierowanego bezrobotnego rodzica powracającego na rynek pracy, posiadającego co najmniej jedno dziecko wieku do 6 lat, lub bezrobotnego sprawującego opiekę nad osobą zależną, który okresie 3 lat przed rejestracją urzędzie pracy jako bezrobotny zrezygnował z zatrudnienia lub innej pracy zarobkowej z uwagi na konieczność wychowywania dziecka lub sprawowania opieki nad osobą zależną.”.
 
 **Art. 9.** W ustawie z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. z 2022 r. poz. 1900) wprowadza się następujące zmiany:
 
-**Art. 10.** W ustawie z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2022 r. poz. 2470) wprowadza się następujące zmiany:
+**Art. 55b.**
+
+1. Przełożony, o którym mowa art. 55a ust. 1, realizuje stosunku do funkcjonariusza pełniącego służbę formie zdalnej obowiązki określone art. 56a czasie pełnienia przez niego służby formie zdalnej, z wyłączeniem obowiązków określonych art. 208 § 1, art. 209 –209 , art. 210 § 1–5, art. 212 ust. 1 pkt 1 i 4, art. 213, art. 214 i art. 233 oraz przepisów wykonawczych wydanych na podstawie art. 210 § 6 Kodeksu pracy.
+
+2. Przełożony, o którym mowa art. 55a ust. 1, przed rozpoczęciem przez funkcjonariusza służby pełnionej formie zdalnej przekazuje mu informacje dotyczące:
+
+- **1)** zasad:
+    - **a)** oraz sposobu właściwej organizacji stanowiska służby pełnionej formie zdalnej, z uwzględnieniem wymagań ergonomii,
+    - **b)** bezpiecznego i higienicznego pełnienia służby formie zdalnej,
+    - **c)** postępowania sytuacjach awaryjnych stwarzających zagrożenie dla życia lub zdrowia;
+
+- **2)** czynności do wykonania po zakończeniu pełnienia służby formie zdalnej.
+
+3. Przed dopuszczeniem do pełnienia służby formie zdalnej funkcjonariusz oświadczeniu składanym postaci papierowej lub elektronicznej:
+
+- **1)** potwierdza:
+    - **a)** zapoznanie się z informacjami, o których mowa ust. 2,
+    - **b)** że na stanowisku służby pełnionej formie zdalnej miejscu wskazanym poleceniu, o którym mowa art. 55a ust. 1, są zapewnione bezpieczne i higieniczne warunki tej służby;
+
+- **2)** zobowiązuje się do przestrzegania zasad, o których mowa ust. 2 pkt 1, oraz do wykonywania czynności, o których mowa ust. 2 pkt 2.
+
+4. Funkcjonariusz organizuje stanowisko służby pełnionej formie zdalnej, uwzględniając wymagania ergonomii.
+
+5. Przełożony, o którym mowa art. 55a ust. 1, ma prawo przeprowadzać kontrolę warunków bezpieczeństwa i higieny służby pełnionej formie zdalnej przez funkcjonariusza miejscu i godzinach pełnienia tej służby.
+
+6. Przełożony, o którym mowa art. 55a ust. 1, dostosowuje sposób przeprowadzania kontroli, o której mowa ust. 5, do miejsca pełnienia i charakteru służby pełnionej formie zdalnej. Wykonywanie czynności kontrolnych nie może naruszać prywatności funkcjonariusza pełniącego służbę formie zdalnej i innych osób ani utrudniać korzystania z pomieszczeń domowych sposób zgodny z ich przeznaczeniem.
+
+7. W razie zaistnienia wypadku pozostającego związku z pełnieniem służby formie zdalnej stosuje się przepisy ustawy z dnia 4 kwietnia 2014 r. o świadczeniach odszkodowawczych przysługujących razie wypadku lub choroby pozostających związku ze służbą (Dz. U. z 2022 r. poz. 1032).
+
+8. Zgłoszenie bezpośredniemu przełożonemu wypadku pozostającego związku z pełnieniem służby formie zdalnej jest równoznaczne z wyrażeniem przez funkcjonariusza zgody na przeprowadzenie oględzin miejsca wypadku, narzędzi, oceny ich stanu technicznego oraz zbadania warunków pełnienia służby i innych okoliczności, które mogły mieć wpływ na powstanie wypadku lub mają z nim związek. Oględzin dokonuje się niezwłocznie po zgłoszeniu wypadku pozostającego związku z pełnieniem służby formie zdalnej, terminie uzgodnionym przez funkcjonariusza albo jego domownika, przypadku gdy funkcjonariusz ze względu na stan zdrowia nie jest stanie uzgodnić tego terminu, i przewodniczącego komisji powypadkowej. Komisja powypadkowa może odstąpić od dokonywania oględzin, jeżeli uzna, że okoliczności i przyczyny wypadku nie budzą jej wątpliwości.”;
+
+- **2)** art. 56a ust. 1 wyrazy „ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2022 r. poz. 1510), zwanej dalej „Kodeksem pracy” ” zastępuje się wyrazami „Kodeksu pracy”.
+- **1)** po art. 130 dodaje się art. 130a i art. 130b brzmieniu: „Art. 130a. 1. W okresie obowiązywania stanu zagrożenia epidemicznego, stanu epidemii lub stanu klęski żywiołowej związanej z występowaniem chorób zakaźnych u ludzi przełożony, o którym mowa art. 32 lub art. 63 ust. 2, lub osoba przez niego upoważniona mogą celu przeciwdziałania chorobom zakaźnym polecić funkcjonariuszowi pełnienie służby poza miejscem jej stałego wykonywania, szczególności z wykorzystaniem środków bezpośredniego porozumiewania się na odległość (służba pełniona formie zdalnej).
+
+2. Przełożony, o którym mowa ust. 1, lub osoba przez niego upoważniona wydają i cofają, postaci papierowej lub elektronicznej, polecenia pełnienia służby formie zdalnej.
+
+3. Przełożony, o którym mowa ust. 1, lub osoba przez niego upoważniona poleceniu pełnienia służby formie zdalnej określają czas i miejsce jej pełnienia oraz sposób porozumiewania się funkcjonariusza z bezpośrednim przełożonym.
+
+4. Funkcjonariusz może pełnić służbę formie zdalnej, jeżeli ma możliwości techniczne oraz lokalowe do jej pełnienia i pozwala na to charakter realizowanych przez niego zadań.
+
+5. Narzędzia i materiały potrzebne do pełnienia służby formie zdalnej oraz obsługę logistyczną zapewnia przełożony, o którym mowa ust. 1.
+
+6. W trakcie służby pełnionej formie zdalnej funkcjonariusz zapewnia ochronę tajemnic związanych ze służbą oraz danych osobowych.
+
+7. W trakcie pełnienia służby formie zdalnej funkcjonariusz może używać narzędzi lub materiałów niezapewnionych przez przełożonego, jeżeli:
+
+- **1)** narzędzia i materiały spełniają wymagania, o których mowa ust. 6;
+- **2)** narzędzia spełniają wymagania określone rozdziale IV działu dziesiątego ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
+
+8. Na polecenie przełożonego, o którym mowa ust. 1, lub osoby przez niego upoważnionej funkcjonariusz pełniący służbę formie zdalnej ma obowiązek prowadzić ewidencję wykonanych czynności, uwzględniającą szczególności opis tych czynności, a także datę ich wykonania. Funkcjonariusz sporządza ewidencję wykonanych czynności formie i z częstotliwością określonymi poleceniu.
+
+9. Funkcjonariusz ma obowiązek na polecenie bezpośredniego przełożonego stawić się miejscu stałego pełnienia służby.
+
+10. Przełożony, o którym mowa ust. 1, lub osoba przez niego upoważniona mogą każdym czasie cofnąć polecenie pełnienia służby formie zdalnej.
 
 **Art. 130b.**
 
@@ -530,8 +689,9 @@ o zmianie ustawy Kodeks pracy oraz niektórych innych ustaw
 
 6. W razie zaistnienia wypadku pozostającego związku z pełnieniem służby formie zdalnej stosuje się przepisy art. 118.
 
-7. Zgłoszenie bezpośredniemu przełożonemu wypadku pozostającego związku z pełnieniem służby formie zdalnej oznacza wyrażenie przez funkcjonariusza zgody na przeprowadzenie oględzin miejsca wypadku, urządzeń, oceny ich stanu technicznego oraz na zbadanie warunków pełnienia służby i innych okoliczności, które mogły mieć wpływ na powstanie wypadku lub mają z nim związek. Oględzin dokonuje się niezwłocznie po zgłoszeniu wypadku pozostającego związku z pełnieniem służby formie zdalnej, terminie uzgodnionym przez funkcjonariusza albo jego domownika, przypadku gdy funkcjonariusz ze względu na stan zdrowia nie jest stanie uzgodnić tego terminu, i przewodniczącego komisji powypadkowej. Komisja powypadkowa może odstąpić od dokonywania oględzin, jeżeli uzna, że okoliczności i przyczyny wypadku nie budzą jej wątpliwości.”; „Art. 157a. 1. Przełożony ma obowiązek niedopuszczenia podległego mu funkcjonariusza do służby przypadku:
+7. Zgłoszenie bezpośredniemu przełożonemu wypadku pozostającego związku z pełnieniem służby formie zdalnej oznacza wyrażenie przez funkcjonariusza zgody na przeprowadzenie oględzin miejsca wypadku, urządzeń, wpływ na powstanie wypadku lub mają z nim związek. Oględzin dokonuje się niezwłocznie po zgłoszeniu wypadku pozostającego związku z pełnieniem służby formie zdalnej, terminie uzgodnionym przez funkcjonariusza albo jego domownika, przypadku gdy funkcjonariusz ze względu na stan zdrowia nie jest stanie uzgodnić tego terminu, i przewodniczącego komisji powypadkowej. Komisja powypadkowa może odstąpić od dokonywania oględzin, jeżeli uzna, że okoliczności i przyczyny wypadku nie budzą jej wątpliwości.”;
 
+- **2)** po art. 157 dodaje się art. 157a brzmieniu: „Art. 157a. 1. Przełożony ma obowiązek niedopuszczenia podległego mu funkcjonariusza do służby przypadku:
 - **1)** stawienia się przez niego do służby stanie po użyciu alkoholu albo stanie nietrzeźwości rozumieniu art. 46 ust. 2 albo 3 ustawy z dnia 26 października 1982 r. o wychowaniu trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2023 r. poz. 165 i 240), lub po użyciu podobnie działającego środka, pełnienia jej takim stanie, spożywania alkoholu lub używania podobnie działającego środka czasie służby albo
 - **2)** uzasadnionego podejrzenia, że zachodzą okoliczności, o których mowa pkt 1.
 
@@ -545,8 +705,8 @@ o zmianie ustawy Kodeks pracy oraz niektórych innych ustaw
 
 6. Badanie, o którym mowa ust. 4, może obejmować odpowiednio przy badaniu na zawartość organizmie:
 
-- **1)** alkoholu badanie wydychanego powietrza lub badanie krwi;
-- **2)** środka działającego podobnie do alkoholu badanie:
+- **1)** alkoholu – badanie wydychanego powietrza lub badanie krwi;
+- **2)** środka działającego podobnie do alkoholu – badanie:
     - **a)** śliny,
     - **b)** krwi,
     - **c)** moczu,
@@ -568,15 +728,16 @@ o zmianie ustawy Kodeks pracy oraz niektórych innych ustaw
 9. Czynności związane z pobraniem materiału biologicznego do badań, o których mowa ust. 4:
 
 - **1)** odbywają się miejscu i warunkach zapewniających poszanowanie godności i intymności funkcjonariusza, od którego pobiera się materiał do badań;
-- **2)** postaci krwi są przeprowadzane przez osobę posiadającą odpowiednie kwalifikacje zawodowe;
-- **3)** postaci moczu lub potu odbywają się obecności osoby tej samej płci co funkcjonariusz, od którego pobiera się materiał biologiczny do badań: lub zdrowia funkcjonariusza, decyzję o przeprowadzeniu badania krwi podejmuje lekarz.
+- **2)** postaci krwi – są przeprowadzane przez osobę posiadającą odpowiednie kwalifikacje zawodowe;
     - **a)** o której mowa pkt 2,
-    - **b)** wskazanej przez zarządzającego badania przypadku braku możliwości zapewnienia obecności osoby, o której mowa pkt 2.
+    - **b)** wskazanej przez zarządzającego badania – przypadku braku możliwości zapewnienia obecności osoby, o której mowa pkt 2.
+
+10. W przypadku powzięcia uzasadnionego podejrzenia, że pobranie krwi może spowodować zagrożenie życia lub zdrowia funkcjonariusza, decyzję o przeprowadzeniu badania krwi podejmuje lekarz.
 
 11. W przypadku poddania funkcjonariusza badaniu celu, o którym mowa ust. 4, niedopuszczenie do służby trwa do czasu uzyskania wyniku badania wykluczającego odniesieniu do funkcjonariusza poddanego badaniu:
 
 - **1)** stan nietrzeźwości albo stan po użyciu alkoholu lub
-- **2)** obecność organizmie środka działającego podobnie do alkoholu nie dłużej jednak niż do końca służby wynikającego z obowiązującego rozkładu czasu służby.
+- **2)** obecność organizmie środka działającego podobnie do alkoholu – nie dłużej jednak niż do końca służby wynikającego z obowiązującego rozkładu czasu służby.
 
 12. W przypadku niedopuszczenia funkcjonariusza do służby, o którym mowa ust. 1, do uposażenia funkcjonariusza za ten okres stosuje się odpowiednio przepisy art. 60c ust. 1 i art. 60g oraz art. 61.
 
@@ -587,16 +748,16 @@ o zmianie ustawy Kodeks pracy oraz niektórych innych ustaw
 - **3)** stopnia, imienia i nazwiska, stanowiska oraz podpisu zarządzającego badania;
 - **4)** danych osobowych funkcjonariusza:
     - **a)** stopnia, imienia i nazwiska oraz stanowiska,
-    - **b)** daty urodzenia, informacji o chorobach, na jakie choruje funkcjonariusz, oraz podpisu funkcjonariusza jeżeli dane te pozyskano związku z przeprowadzanym badaniem;
+    - **b)** daty urodzenia, informacji o chorobach, na jakie choruje funkcjonariusz, oraz podpisu funkcjonariusza – jeżeli dane te pozyskano związku z przeprowadzanym badaniem;
 
 - **5)** imienia, nazwiska i podpisu osoby przeprowadzającej badanie;
 - **6)** imienia, nazwiska, stanowiska i podpisu osoby przeprowadzającej pobranie próbek materiału biologicznego do badań;
 - **7)** imienia, nazwiska i podpisu osoby, obecności której przeprowadzano badanie;
 - **8)** informacji o objawach lub okolicznościach uzasadniających przeprowadzenie badania oraz dacie, godzinie i minucie ich stwierdzenia;
 - **9)** innych informacji niezbędnych do oceny wiarygodności i poprawności badania;
-- **10)** przypadku odstąpienia od pobrania próbek krwi informacji o przyczynie odstąpienia.
+- **10)** przypadku odstąpienia od pobrania próbek krwi – informacji o przyczynie odstąpienia.
 
-14. W przypadku badań, o których mowa ust. 6 pkt 1, poza danymi, o których mowa ust. 13 pkt 4, dokumentacja obejmuje również następujące dane osobowe funkcjonariusza: płeć, wzrost, masę ciała jeżeli dane te pozyskano związku z przeprowadzanym badaniem.
+14. W przypadku badań, o których mowa ust. 6 pkt 1, poza danymi, o których mowa ust. 13 pkt 4, dokumentacja obejmuje również następujące dane osobowe funkcjonariusza: płeć, wzrost, masę ciała – jeżeli dane te pozyskano związku z przeprowadzanym badaniem.
 
 15. Dokumentację zawierającą wyniki badań przekazuje się niezwłocznie zarządzającemu badania.
 
@@ -604,11 +765,9 @@ o zmianie ustawy Kodeks pracy oraz niektórych innych ustaw
 
 - **1)** warunki i metody przeprowadzania badań, o których mowa ust. 4,
 - **2)** sposób dokumentowania badań, o których mowa ust. 4, tym wzory protokołów z przeprowadzonych badań,
-- **3)** wykaz środków działających podobnie do alkoholu mając na uwadze potrzebę sprawnego pobrania materiału do badań, sprawnego i prawidłowego przeprowadzania badań oraz zagwarantowania wiarygodności ich wyników, a także metodykę przeprowadzania takich badań oraz skutki oddziaływania środków działających podobnie do alkoholu na organizm i zapewniając poszanowanie godności funkcjonariusza i zasad ochrony danych osobowych.”.
+- **3)** wykaz środków działających podobnie do alkoholu – mając na uwadze potrzebę sprawnego pobrania materiału do badań, sprawnego i prawidłowego przeprowadzania badań oraz zagwarantowania wiarygodności ich wyników, a także metodykę przeprowadzania takich badań oraz skutki oddziaływania środków działających podobnie do alkoholu na organizm i zapewniając poszanowanie godności funkcjonariusza i zasad ochrony danych osobowych.”.
 
-**Art. 11.** W ustawie z dnia 28 stycznia 2016 r. Prawo o prokuraturze (Dz. U. z 2022 r. poz. 1247, 1259 i 2582) art. 118 uchyla się § 6.
-
-**Art. 12.** W ustawie z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2022 r. poz. 813, z późn. zm. ) po art. 189 dodaje się art. 189a i art. 189b brzmieniu: „Art. 189a. 1. W okresie obowiązywania stanu zagrożenia epidemicznego, stanu epidemii lub stanu klęski żywiołowej związanej z występowaniem chorób zakaźnych u ludzi kierownik jednostki organizacyjnej może celu przeciwdziałania chorobom zakaźnym polecić funkcjonariuszowi pełnienie służby poza miejscem jej stałego pełnienia, szczególności z wykorzystaniem środków bezpośredniego porozumiewania się na odległość (służba pełniona formie zdalnej). nia służby formie zdalnej. 3. Kierownik jednostki organizacyjnej poleceniu pełnienia służby formie zdalnej określa czas i miejsce jej pełnienia oraz sposób porozumiewania się funkcjonariusza z bezpośrednim przełożonym. 4. Funkcjonariusz może pełnić służbę formie zdalnej, jeżeli ma możliwości techniczne oraz lokalowe do jej pełnienia i pozwala na to zakres i specyfika wykonywanych przez niego zadań. 5. Narzędzia i materiały niezbędne do pełnienia służby formie zdalnej oraz obsługę logistyczną zapewnia kierownik jednostki organizacyjnej. 6. W trakcie służby pełnionej formie zdalnej funkcjonariusz zapewnia ochronę tajemnic związanych ze służbą oraz danych osobowych. 7. W trakcie pełnienia służby formie zdalnej funkcjonariusz może używać narzędzi lub materiałów niezapewnionych przez kierownika jednostki organizacyjnej, jeżeli narzędzia i materiały spełniają wymagania, o których mowa ust. 6, i nie stwarza to zagrożenia dla życia lub zdrowia funkcjonariusza. 8. Na polecenie kierownika jednostki organizacyjnej funkcjonariusz pełniący służbę formie zdalnej ma obowiązek prowadzić ewidencję wykonanych czynności, uwzględniającą szczególności opis tych czynności, a także datę ich wykonania. Ewidencję wykonanych czynności funkcjonariusz sporządza formie i z częstotliwością określonymi poleceniu. 9. Funkcjonariusz ma obowiązek na polecenie bezpośredniego przełożonego stawić się miejscu stałego pełnienia służby. 10. Kierownik jednostki organizacyjnej może każdym czasie cofnąć polecenie pełnienia służby formie zdalnej.
+**Art. 11.** W ustawie z dnia 28 stycznia 2016 r. – Prawo o prokuraturze (Dz. U. z 2022 r. poz. 1247, 1259 i 2582) art. 118 uchyla się § 6. „Art. 189a. 1. W okresie obowiązywania stanu zagrożenia epidemicznego, stanu epidemii lub stanu klęski żywiołowej związanej z występowaniem chorób zakaźnych u ludzi kierownik jednostki organizacyjnej może celu przeciwdziałania chorobom zakaźnym polecić funkcjonariuszowi pełnienie służby poza miejscem jej stałego pełnienia, szczególności z wykorzystaniem środków bezpośredniego porozumiewania się na odległość (służba pełniona formie zdalnej). 2. Kierownik jednostki organizacyjnej wydaje i cofa, postaci papierowej lub elektronicznej, polecenia pełnienia służby formie zdalnej. 3. Kierownik jednostki organizacyjnej poleceniu pełnienia służby formie zdalnej określa czas i miejsce jej pełnienia oraz sposób porozumiewania się funkcjonariusza z bezpośrednim przełożonym. 4. Funkcjonariusz może pełnić służbę formie zdalnej, jeżeli ma możliwości techniczne oraz lokalowe do jej pełnienia i pozwala na to zakres i specyfika wykonywanych przez niego zadań. 5. Narzędzia i materiały niezbędne do pełnienia służby formie zdalnej oraz obsługę logistyczną zapewnia kierownik jednostki organizacyjnej. 6. W trakcie służby pełnionej formie zdalnej funkcjonariusz zapewnia ochronę tajemnic związanych ze służbą oraz danych osobowych. 7. W trakcie pełnienia służby formie zdalnej funkcjonariusz może używać narzędzi lub materiałów niezapewnionych przez kierownika jednostki organizacyjnej, jeżeli narzędzia i materiały spełniają wymagania, o których mowa ust. 6, i nie stwarza to zagrożenia dla życia lub zdrowia funkcjonariusza. 8. Na polecenie kierownika jednostki organizacyjnej funkcjonariusz pełniący służbę formie zdalnej ma obowiązek prowadzić ewidencję wykonanych czynności, uwzględniającą szczególności opis tych czynności, a także datę ich wykonania. Ewidencję wykonanych czynności funkcjonariusz sporządza formie i z częstotliwością określonymi poleceniu. 9. Funkcjonariusz ma obowiązek na polecenie bezpośredniego przełożonego stawić się miejscu stałego pełnienia służby. 10. Kierownik jednostki organizacyjnej może każdym czasie cofnąć polecenie pełnienia służby formie zdalnej.
 
 **Art. 189b.**
 
@@ -633,11 +792,11 @@ o zmianie ustawy Kodeks pracy oraz niektórych innych ustaw
 
 4. Funkcjonariusz organizuje stanowisko służby pełnionej formie zdalnej, uwzględniając wymagania ergonomii.
 
-5. Kierownik jednostki organizacyjnej ma prawo przeprowadzać kontrolę warunków bezpieczeństwa i higieny służby pełnionej formie zdalnej przez funkcjonariusza miejscu i godzinach pełnienia tej służby.
-
 6. Kierownik jednostki organizacyjnej dostosowuje sposób przeprowadzania kontroli, o której mowa ust. 5, do miejsca wykonywania i specyfiki służby pełnionej formie zdalnej. Wykonywanie czynności kontrolnych nie może naruszać prywatności funkcjonariusza pełniącego służbę formie zdalnej i innych osób ani utrudniać korzystania z pomieszczeń domowych sposób zgodny z ich przeznaczeniem.
 
-7. W razie zaistnienia wypadku pozostającego związku z pełnieniem służby formie zdalnej stosuje się przepisy ustawy z dnia 4 kwietnia 2014 r. o świadczeniach odszkodowawczych przysługujących razie wypadku lub choroby pozostających związku ze służbą (Dz. U. z 2022 r. poz. 1032). zdalnej jest równoznaczne z wyrażeniem przez funkcjonariusza zgody na przeprowadzenie oględzin miejsca wypadku, narzędzi, oceny ich stanu technicznego oraz zbadania warunków pełnienia tej służby i innych okoliczności, które mogły mieć wpływ na powstanie wypadku lub mają z nim związek. Oględzin dokonuje się niezwłocznie po zgłoszeniu wypadku pozostającego związku z pełnieniem służby formie zdalnej, terminie uzgodnionym przez funkcjonariusza albo jego domownika, przypadku gdy funkcjonariusz ze względu na stan zdrowia nie jest stanie uzgodnić tego terminu, i przewodniczącego komisji powypadkowej. Komisja powypadkowa może odstąpić od dokonywania oględzin, jeżeli uzna, że okoliczności i przyczyny wypadku nie budzą jej wątpliwości.”.
+7. W razie zaistnienia wypadku pozostającego związku z pełnieniem służby formie zdalnej stosuje się przepisy ustawy z dnia 4 kwietnia 2014 r. o świadczeniach odszkodowawczych przysługujących razie wypadku lub choroby pozostających związku ze służbą (Dz. U. z 2022 r. poz. 1032).
+
+8. Zgłoszenie bezpośredniemu przełożonemu wypadku pozostającego związku z pełnieniem służby formie zdalnej jest równoznaczne z wyrażeniem przez funkcjonariusza zgody na przeprowadzenie oględzin miejsca wypadku, narzędzi, oceny ich stanu technicznego oraz zbadania warunków pełnienia tej służby i innych okoliczności, które mogły mieć wpływ na powstanie wypadku lub mają z nim związek. Oględzin dokonuje się niezwłocznie po zgłoszeniu wypadku pozostającego związku z pełnieniem służby formie zdalnej, terminie uzgodnionym przez funkcjonariusza albo jego domownika, przypadku gdy funkcjonariusz ze względu na stan zdrowia nie jest stanie uzgodnić tego terminu, i przewodniczącego komisji powypadkowej. Komisja powypadkowa może odstąpić od dokonywania oględzin, jeżeli uzna, że okoliczności i przyczyny wypadku nie budzą jej wątpliwości.”.
 
 **Art. 13.** W ustawie z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2023 r. poz. 66 oraz z 2022 r. poz. 2600) wprowadza się następujące zmiany:
 
@@ -645,14 +804,15 @@ o zmianie ustawy Kodeks pracy oraz niektórych innych ustaw
 
 1. Komendant SOP realizuje stosunku do funkcjonariusza pełniącego służbę formie zdalnej obowiązki określone art. 134–136 czasie pełnienia przez niego służby formie zdalnej, z wyłączeniem obowiązków określonych art. 208 § 1, art. 209 –209 , art. 210 § 1–5, art. 212 pkt 1 i 4, art. 213, art. 214 i art. 233 oraz przepisów wykonawczych wydanych na podstawie art. 210 § 6 Kodeksu pracy.
 
-2. Komendant SOP lub osoba przez niego upoważniona przed rozpoczęciem przez funkcjonariusza służby pełnionej formie zdalnej przekazuje funkcjonariuszowi pełniącemu służbę formie zdalnej informacje dotyczące:
-
 - **1)** zasad:
     - **a)** oraz sposobu właściwej organizacji stanowiska służby pełnionej formie zdalnej, z uwzględnieniem wymagań ergonomii,
     - **b)** bezpiecznego i higienicznego wykonywania służby pełnionej formie zdalnej,
     - **c)** postępowania sytuacjach awaryjnych stwarzających zagrożenie dla życia lub zdrowia;
 
-- **2)** czynności do wykonania po zakończeniu wykonywania służby pełnionej formie zdalnej. składanym postaci papierowej lub elektronicznej:
+- **2)** czynności do wykonania po zakończeniu wykonywania służby pełnionej formie zdalnej.
+
+3. Przed dopuszczeniem do wykonywania służby pełnionej formie zdalnej funkcjonariusz oświadczeniu składanym postaci papierowej lub elektronicznej:
+
 - **1)** potwierdza:
     - **a)** zapoznanie się z informacjami, o których mowa ust. 2,
     - **b)** że na stanowisku służby pełnionej formie zdalnej miejscu wskazanym poleceniu, o którym mowa art. 81a ust. 3, są zapewnione bezpieczne i higieniczne warunki tej służby;
@@ -669,7 +829,7 @@ o zmianie ustawy Kodeks pracy oraz niektórych innych ustaw
 
 8. Zgłoszenie kierownikowi komórki organizacyjnej SOP wypadku pozostającego związku z pełnieniem służby formie zdalnej jest równoznaczne z wyrażeniem przez funkcjonariusza zgody na przeprowadzenie oględzin miejsca wypadku, narzędzi, oceny ich stanu technicznego oraz zbadania warunków pełnienia tej służby i innych okoliczności, które mogły mieć wpływ na powstanie wypadku lub mają z nim związek. Oględzin dokonuje się niezwłocznie po zgłoszeniu wypadku pozostającego związku z pełnieniem służby formie zdalnej, terminie uzgodnionym przez funkcjonariusza albo jego domownika, przypadku gdy funkcjonariusz ze względu na stan zdrowia nie jest stanie uzgodnić tego terminu, i przewodniczącego komisji powypadkowej. Komisja powypadkowa może odstąpić od dokonywania oględzin, jeżeli uzna, że okoliczności i przyczyny wypadku nie budzą jej wątpliwości.”;
 
-- **2)** art. 87 ust. 1 wyrazy „ustawie z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2020 r. poz. 1320), zwanej dalej „Kodeksem pracy” ” zastępuje się wyrazami „Kodeksie pracy”;
+- **2)** art. 87 ust. 1 wyrazy „ustawie z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2020 r. poz. 1320), zwanej dalej „Kodeksem pracy” ” zastępuje się wyrazami „Kodeksie pracy”;
 - **3)** art. 131 otrzymuje brzmienie: „Art. 131. 1. Komendant SOP, a komórce organizacyjnej SOP kierownik tej komórki, ma obowiązek niedopuszczenia podległego mu funkcjonariusza do służby przypadku:
 - **1)** stawienia się przez niego do służby stanie po użyciu alkoholu albo stanie nietrzeźwości rozumieniu art. 46 ust. 2 albo 3 ustawy z dnia 26 października 1982 r. o wychowaniu trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2023 r. poz. 165 i 240), lub po użyciu podobnie działającego środka, pełnienia jej takim stanie, spożywania alkoholu lub używania podobnie działającego środka czasie służby albo obiektach lub na terenach zajmowanych przez SOP albo
 - **2)** uzasadnionego podejrzenia, że zachodzą okoliczności, o których mowa pkt 1.
@@ -680,14 +840,14 @@ o zmianie ustawy Kodeks pracy oraz niektórych innych ustaw
 
 4. Funkcjonariusz ma obowiązek poddać się badaniu, o którym mowa ust. 3, oraz umożliwić jego przeprowadzenie.
 
-5. Badanie, o którym mowa ust. 3, może obejmować odpowiednio przy badaniu na zawartość organizmie:
-
-- **1)** alkoholu badanie wydychanego powietrza lub badanie krwi;
-- **2)** środka działającego podobnie do alkoholu badanie:
+- **1)** alkoholu – badanie wydychanego powietrza lub badanie krwi;
+- **2)** środka działającego podobnie do alkoholu – badanie:
     - **a)** śliny,
     - **b)** krwi,
     - **c)** moczu,
     - **d)** potu.
+
+6. Badanie krwi, o którym mowa ust. 5 pkt 1, przeprowadza się, jeżeli:
 
 - **1)** funkcjonariusz odmawia poddania się badaniu wydychanego powietrza;
 - **2)** funkcjonariusz, pomimo przeprowadzenia badania wydychanego powietrza, żąda badania krwi;
@@ -703,17 +863,17 @@ o zmianie ustawy Kodeks pracy oraz niektórych innych ustaw
 8. Czynności związane z pobraniem materiału biologicznego do badań, o których mowa ust. 3:
 
 - **1)** odbywają się miejscu i warunkach zapewniających poszanowanie godności i intymności funkcjonariusza, od którego pobiera się materiał do badań;
-- **2)** postaci krwi są przeprowadzane przez osobę posiadającą odpowiednie kwalifikacje zawodowe;
-- **3)** postaci moczu lub potu odbywają się obecności osoby tej samej płci co funkcjonariusz, od którego pobiera się materiał biologiczny do badań:
+- **2)** postaci krwi – są przeprowadzane przez osobę posiadającą odpowiednie kwalifikacje zawodowe;
+- **3)** postaci moczu lub potu – odbywają się obecności osoby tej samej płci co funkcjonariusz, od którego pobiera się materiał biologiczny do badań:
     - **a)** o której mowa pkt 2,
-    - **b)** wskazanej przez zarządzającego badania przypadku braku możliwości zapewnienia obecności osoby, o której mowa pkt 2.
+    - **b)** wskazanej przez zarządzającego badania – przypadku braku możliwości zapewnienia obecności osoby, o której mowa pkt 2.
 
 9. W przypadku powzięcia uzasadnionego podejrzenia, że pobranie krwi może spowodować zagrożenie życia lub zdrowia funkcjonariusza, decyzję o przeprowadzeniu badania krwi podejmuje lekarz.
 
 10. W przypadku poddania funkcjonariusza badaniu celu, o którym mowa ust. 3, niedopuszczenie do służby trwa do czasu uzyskania wyniku badania wykluczającego odniesieniu do funkcjonariusza poddanego badaniu:
 
 - **1)** stan po użyciu alkoholu albo stan nietrzeźwości lub
-- **2)** obecność organizmie środka działającego podobnie do alkoholu nie dłużej jednak niż do końca służby wynikającego z obowiązującego rozkładu czasu służby.
+- **2)** obecność organizmie środka działającego podobnie do alkoholu – nie dłużej jednak niż do końca służby wynikającego z obowiązującego rozkładu czasu służby.
 
 11. W przypadku niedopuszczenia funkcjonariusza do służby, o którym mowa ust. 1, do uposażenia funkcjonariusza za ten okres stosuje się odpowiednio przepisy art. 199 ust. 1 i 4 oraz art. 203.
 
@@ -724,14 +884,15 @@ o zmianie ustawy Kodeks pracy oraz niektórych innych ustaw
 - **3)** stopnia, imienia i nazwiska, stanowiska oraz podpisu zarządzającego badania;
 - **4)** danych osobowych funkcjonariusza:
     - **a)** stopnia, imienia i nazwiska oraz stanowiska,
-    - **b)** daty urodzenia, informacji o chorobach, na jakie choruje funkcjonariusz, oraz podpisu funkcjonariusza jeżeli dane te pozyskano związku z przeprowadzanym badaniem;
+    - **b)** daty urodzenia, informacji o chorobach, na jakie choruje funkcjonariusz, oraz podpisu funkcjonariusza – jeżeli dane te pozyskano związku z przeprowadzanym badaniem;
 
 - **5)** imienia, nazwiska i podpisu osoby przeprowadzającej badanie;
 - **6)** imienia, nazwiska, stanowiska i podpisu osoby przeprowadzającej pobranie próbek materiału biologicznego do badań;
 - **7)** imienia, nazwiska i podpisu osoby, obecności której przeprowadzano badanie;
-- **8)** informacji o objawach lub okolicznościach uzasadniających przeprowadzenie badania oraz dacie, godzinie i minucie ich stwierdzenia;
 - **9)** innych informacji niezbędnych do oceny wiarygodności i poprawności badania;
-- **10)** przypadku odstąpienia od pobrania próbek krwi informacji o przyczynie odstąpienia. tacja obejmuje również następujące dane osobowe funkcjonariusza: płeć, wzrost, masę ciała jeżeli dane te pozyskano związku z przeprowadzanym badaniem.
+- **10)** przypadku odstąpienia od pobrania próbek krwi – informacji o przyczynie odstąpienia.
+
+13. W przypadku badań, o których mowa ust. 5 pkt 1, poza danymi, o których mowa ust. 12 pkt 4, dokumentacja obejmuje również następujące dane osobowe funkcjonariusza: płeć, wzrost, masę ciała – jeżeli dane te pozyskano związku z przeprowadzanym badaniem.
 
 14. Dokumentację zawierającą wyniki badań przekazuje się niezwłocznie zarządzającemu badania.
 
@@ -739,7 +900,7 @@ o zmianie ustawy Kodeks pracy oraz niektórych innych ustaw
 
 - **1)** warunki i metody przeprowadzania badań, o których mowa ust. 3,
 - **2)** sposób dokumentowania badań, o których mowa ust. 3, tym wzory protokołów z przeprowadzonych badań,
-- **3)** wykaz środków działających podobnie do alkoholu mając na uwadze potrzebę sprawnego pobrania materiału do badań, sprawnego i prawidłowego przeprowadzania badań oraz zagwarantowania wiarygodności ich wyników, a także metodykę przeprowadzania takich badań oraz skutki oddziaływania środków działających podobnie do alkoholu na organizm i zapewniając poszanowanie godności funkcjonariusza i zasad ochrony danych osobowych.”.
+- **3)** wykaz środków działających podobnie do alkoholu – mając na uwadze potrzebę sprawnego pobrania materiału do badań, sprawnego i prawidłowego przeprowadzania badań oraz zagwarantowania wiarygodności ich wyników, a także metodykę przeprowadzania takich badań oraz skutki oddziaływania środków działających podobnie do alkoholu na organizm i zapewniając poszanowanie godności funkcjonariusza i zasad ochrony danych osobowych.”.
 
 **Art. 14.** W ustawie z dnia 26 stycznia 2018 r. o Straży Marszałkowskiej (Dz. U. z 2022 r. poz. 1727) wprowadza się następujące zmiany:
 

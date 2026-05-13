@@ -10,7 +10,9 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 6 listopada 2013 r.
+# o wzajemnej pomocy przy dochodzeniu podatków, należności celnych i innych należności pieniężnych
+
+*USTAWA z dnia 11 października 2013 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,8 @@ domain: null
 | Ostatnia zmiana | 2024-04-09 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001289) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1289/text.pdf) |
 
-USTAWA z dnia 11 października 2013 r.
-o wzajemnej pomocy przy dochodzeniu podatków, należności celnych i innych należności pieniężnych
+2 pkt 7
+Art. 110–122. (pominięte)
 
 ## TYTUŁ I Przepisy ogólne
 
@@ -37,9 +39,9 @@ o wzajemnej pomocy przy dochodzeniu podatków, należności celnych i innych nal
 
 **Art. 4.**
 
-1. Dochodzenie oraz zabezpieczenie należności pieniężnych państw członkowskich lub państw trzecich odbywa się w trybie ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2012 r. poz. 1015, z późn. zm. ), zwanej dalej „ustawą o postępowaniu egzekucyjnym w administracji”.
+1. Dochodzenie oraz zabezpieczenie należności pieniężnych państw członkowskich lub państw trzecich odbywa się w trybie ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2022 r. poz. 479, z późn. zm. ), zwanej dalej „ustawą o postępowaniu egzekucyjnym w administracji”.
 
-2. Jeżeli przepisy ustawy nie stanowią inaczej, w sprawach dotyczących wzajemnej pomocy stosuje się odpowiednio przepisy ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2013 r. poz. 267).
+2. Jeżeli przepisy ustawy nie stanowią inaczej, w sprawach dotyczących wzajemnej pomocy stosuje się odpowiednio przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803).
 
 ## TYTUŁ II Organizacja i ogólne zasady udzielania wzajemnej pomocy
 
@@ -87,6 +89,8 @@ o wzajemnej pomocy przy dochodzeniu podatków, należności celnych i innych nal
 
 3. Minister właściwy do spraw finansów publicznych może wyznaczyć, w drodze rozporządzenia, podległą lub nadzorowaną jednostkę organizacyjną, która będzie realizowała zadania biura łącznikowego oraz określić rodzaj lub kategorię podatku lub należności celnych, w zakresie których właściwa będzie ta jednostka organizacyjna, kierując się potrzebą zwiększenia efektywności wzajemnej pomocy oraz biorąc pod uwagę właściwość rzeczową wyznaczonej jednostki organizacyjnej.
 
+**Art. 11a.** Dane osobowe przetwarzane w celu wykonywania zadań wynikających z ustawy podlegają zabezpieczeniom zapobiegającym nadużyciom lub niezgodnemu z prawem dostępowi lub przekazywaniu polegającym co najmniej na:
+
 ### DZIAŁ II Ogólne zasady udzielania wzajemnej pomocy
 
 **Art. 12.** Wzajemna pomoc jest realizowana na podstawie wniosku o udzielenie pomocy, z zastrzeżeniem art. 64.
@@ -111,8 +115,8 @@ o wzajemnej pomocy przy dochodzeniu podatków, należności celnych i innych nal
 
 1. Wnioski o udzielenie pomocy, dokumenty, informacje oraz inne wnioski przesyła się:
 
-- **1)** do państw członkowskich przy wykorzystaniu systemu teleinformatycznego albo z użyciem środków komunikacji elektronicznej, a jeżeli ze względów technicznych nie jest to możliwe drogą pocztową;
-- **2)** do państw trzecich drogą pocztową.
+- **1)** do państw członkowskich – przy wykorzystaniu systemu teleinformatycznego albo z użyciem środków komunikacji elektronicznej, a jeżeli ze względów technicznych nie jest to możliwe – drogą pocztową;
+- **2)** do państw trzecich – drogą pocztową.
 
 2. Dołączone do wniosku o udzielenie pomocy dokumenty przekazywane przy wykorzystaniu systemu teleinformatycznego albo z użyciem środków komunikacji elektronicznej mają postać elektronicznej kopii dokumentu.
 
@@ -136,7 +140,7 @@ o wzajemnej pomocy przy dochodzeniu podatków, należności celnych i innych nal
 
 - **1)** wzory wniosków o udzielenie pomocy kierowanych do państw trzecich,
 - **2)** wzory zaktualizowanego tytułu wykonawczego i zagranicznego tytułu wykonawczego,
-- **3)** wzór zarządzenia zabezpieczenia uwzględniając potrzebę zapewnienia możliwości elektronicznego przetwarzania danych zawartych w tych dokumentach.
+- **3)** wzór zarządzenia zabezpieczenia – uwzględniając potrzebę zapewnienia możliwości elektronicznego przetwarzania danych zawartych w tych dokumentach.
 
 ### DZIAŁ III Ujawnianie informacji i dokumentów
 
@@ -455,7 +459,7 @@ o wzajemnej pomocy przy dochodzeniu podatków, należności celnych i innych nal
 
 1. Na wniosek o powiadomienie pochodzący od państwa członkowskiego naczelnik urzędu skarbowego doręcza podmiotowi dokumenty odnoszące się do należności pieniężnych, wraz z jednolitym formularzem służącym do powiadomienia.
 
-2. W przypadku dokumentów, o których mowa w ust. 1, otrzymanych przy wykorzystaniu systemu teleinformatycznego albo z użyciem środków komunikacji elektronicznej doręczenie polega na doręczeniu ich wydruku. Na wydruku umieszcza się potwierdzenie zgodności danych zawartych w wydruku z treścią dokumentów, o których mowa w ust. 1, ze wskazaniem daty dokonania wydruku, imienia, nazwiska, stanowiska służbowego i podpisem osoby dokonującej potwierdzenia.
+2. Za doręczenie dokumentów, o których mowa w ust. 1, otrzymanych przy wykorzystaniu systemu teleinformatycznego albo z użyciem środków komunikacji elektronicznej uznaje się doręczenie tych dokumentów w postaci elektronicznej, jeżeli takie doręczenie umożliwia zapoznanie się z ich treścią, a gdy nie jest to możliwe – w postaci papierowej. Doręczenie w postaci papierowej polega na doręczeniu wydruku dokumentów. Na wydruku umieszcza się potwierdzenie zgodności danych zawartych w wydruku z treścią dokumentów, o których mowa w ust. 1, ze wskazaniem daty dokonania wydruku, imienia, nazwiska, stanowiska służbowego i podpisem osoby dokonującej potwierdzenia.
 
 **Art. 70.** Naczelnik urzędu skarbowego niezwłocznie informuje państwo członkowskie o wszelkich czynnościach podjętych w ramach realizacji wniosku o powiadomienie, w szczególności o dacie doręczenia.
 
@@ -463,7 +467,7 @@ o wzajemnej pomocy przy dochodzeniu podatków, należności celnych i innych nal
 
 1. Podmiotowi przysługuje sprzeciw w sprawie doręczenia.
 
-2. Podstawą sprzeciwu jest dokonanie doręczenia niezgodnie z przepisami działu I rozdziału 8 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
+2. Podstawą sprzeciwu jest dokonanie doręczenia niezgodnie z przepisami działu I rozdziału 8 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
 **Art. 72.**
 
@@ -495,11 +499,11 @@ o wzajemnej pomocy przy dochodzeniu podatków, należności celnych i innych nal
 
 **Art. 75.**
 
-1. Od należności pieniężnych państw członkowskich, o których mowa w art. 2 pkt 1–3, nalicza się odsetki w wysokości i na zasadach określonych w przepisach działu III ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2012 r. poz. 749, z późn. zm. ).
+1. Od należności pieniężnych państw członkowskich, o których mowa w art. 2 pkt 1–3, nalicza się odsetki w wysokości i na zasadach określonych w przepisach działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2022 r. poz. 2651, z późn. zm. ).
 
 2. Odsetki nalicza się od dnia otrzymania przez centralne biuro łącznikowe wniosku o odzyskanie należności pieniężnych.
 
-**Art. 76.** Organ egzekucyjny przekazuje wyegzekwowane należności pieniężne wraz z odsetkami oraz opłatą prolongacyjną naliczoną w wysokości i na zasadach określonych w przepisach działu III ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa bezpośrednio na rachunek wskazany we wniosku o odzyskanie należności pieniężnych.
+**Art. 76.** Organ egzekucyjny przekazuje wyegzekwowane należności pieniężne wraz z odsetkami oraz opłatą prolongacyjną naliczoną w wysokości i na zasadach określonych w przepisach działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa bezpośrednio na rachunek wskazany we wniosku o odzyskanie należności pieniężnych.
 
 **Art. 77.** Wniosek o odzyskanie należności pieniężnych uznaje się za zrealizowany, jeżeli należności pieniężne zostały wyegzekwowane w złotych w wysokości, która po przeliczeniu według kursu wymiany wskazanego w tym wniosku, jest równa wysokości należności pieniężnych określonych w walucie państwa członkowskiego w jednolitym tytule wykonawczym, niezależnie od odsetek i opłaty prolongacyjnej, o której mowa w art. 76.
 
@@ -529,8 +533,8 @@ o wzajemnej pomocy przy dochodzeniu podatków, należności celnych i innych nal
 
 3. W przypadku, o którym mowa w ust. 2, jeżeli wyegzekwowane należności pieniężne:
 
-- **1)** nie zostały przekazane państwu członkowskiemu organ egzekucyjny informuje państwo członkowskie o wysokości zwróconych należności pieniężnych;
-- **2)** zostały przekazane do państwa członkowskiego organ egzekucyjny występuje do państwa członkowskiego o przekazanie na rachunek organu egzekucyjnego należności pieniężnych wypłaconych podmiotowi.
+- **1)** nie zostały przekazane państwu członkowskiemu – organ egzekucyjny informuje państwo członkowskie o wysokości zwróconych należności pieniężnych;
+- **2)** zostały przekazane do państwa członkowskiego – organ egzekucyjny występuje do państwa członkowskiego o przekazanie na rachunek organu egzekucyjnego należności pieniężnych wypłaconych podmiotowi.
 
 **Art. 81.**
 
@@ -540,16 +544,16 @@ o wzajemnej pomocy przy dochodzeniu podatków, należności celnych i innych nal
 
 3. W przypadku, o którym mowa w ust. 2, jeżeli wyegzekwowane należności pieniężne:
 
-- **1)** nie zostały przekazane państwu członkowskiemu organ egzekucyjny informuje to państwo o wysokości zwróconych należności pieniężnych;
-- **2)** zostały przekazane do państwa członkowskiego organ egzekucyjny występuje do tego państwa o przekazanie na rachunek organu egzekucyjnego należności pieniężnych wypłaconych podmiotowi.
+- **1)** nie zostały przekazane państwu członkowskiemu – organ egzekucyjny informuje to państwo o wysokości zwróconych należności pieniężnych;
+- **2)** zostały przekazane do państwa członkowskiego – organ egzekucyjny występuje do tego państwa o przekazanie na rachunek organu egzekucyjnego należności pieniężnych wypłaconych podmiotowi.
 
 **Art. 82.**
 
-1. W przypadkach określonych w art. 80 i art. 81 zwracane należności pieniężne, o których mowa w art. 2 pkt 1–3, traktowane są jako nadpłata w rozumieniu ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa, do których odpowiednie zastosowanie mają przepisy art. 73 § 1 pkt 1, art. 76, art. 76a § 1 i § 2 pkt 1, art. 77b, art. 78 § 1, 2 i 4 oraz art. 80 tej ustawy.
+1. W przypadkach określonych w art. 80 i art. 81 zwracane należności pieniężne, o których mowa w art. 2 pkt 1–3, traktowane są jako nadpłata w rozumieniu ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, do których odpowiednie zastosowanie mają przepisy art. 73 § 1 pkt 1, art. 76, art. 76a § 1 i § 2 pkt 1, art. 77b, art. 78 § 1, 2 i 4 oraz art. 80 tej ustawy.
 
 2. Należności pieniężne określone w ust. 1 podlegają zwrotowi w terminie 30 dni od dnia otrzymania wniosku państwa członkowskiego o zmianę albo wycofanie wniosku o odzyskanie należności pieniężnych wraz z oprocentowaniem naliczonym od dnia wpływu należności pieniężnych do organu egzekucyjnego.
 
-3. Do zwrotu kosztów egzekucyjnych stosuje się przepis art. 64c § 3 ustawy o postępowaniu egzekucyjnym w administracji.
+3. Do zwrotu kosztów egzekucyjnych stosuje się przepis art. 64cd ustawy o postępowaniu egzekucyjnym w administracji.
 
 **Art. 83.**
 
@@ -570,13 +574,13 @@ o wzajemnej pomocy przy dochodzeniu podatków, należności celnych i innych nal
 - **1)** nazwę i adres siedziby lub inne dane dotyczące organu lub urzędu występującego z wnioskiem o podjęcie środków zabezpieczających należności pieniężne;
 - **2)** imię i nazwisko lub nazwę podmiotu, adres zamieszkania lub siedziby oraz inne posiadane dane niezbędne do identyfikacji podmiotu;
 - **3)** określenie rodzaju i wysokości należności pieniężnych wyrażonych w złotych oraz okresu, którego dotyczą te należności;
-- **4)** klauzulę organu egzekucyjnego o przyjęciu zarządzenia zabezpieczenia do wykonania.
+- **4)** (uchylony)
 
-3. W zarządzeniu zabezpieczenia wykazuje się należności pieniężne po zaokrągleniu do pełnych dziesiątek groszy w ten sposób, że końcówki kwot wynoszące mniej niż 5 groszy pomija się, a końcówki kwot wynoszące 5 i więcej groszy podwyższa się do pełnych dziesiątek groszy.
+3. (uchylony)
 
 **Art. 86.** Do wniosku o podjęcie środków zabezpieczających należności pieniężne stosuje się odpowiednio przepisy art. 73 oraz art. 77–83.
 
-## TYTUŁ V Wzajemna pomoc w zakresie należności pieniężnych, o których mowa w art. 2 pkt 7
+## TYTUŁ V Wzajemna pomoc w zakresie należności pieniężnych, o których mowa w art.
 
 ### DZIAŁ I Przepisy ogólne
 
@@ -623,7 +627,7 @@ o wzajemnej pomocy przy dochodzeniu podatków, należności celnych i innych nal
 
 2. Zaktualizowany tytuł wykonawczy może być sporządzony w odniesieniu do kilku należności pieniężnych lub kilku podmiotów, zgodnie z pierwotnym tytułem wykonawczym oraz wnioskiem o odzyskanie należności pieniężnych.
 
-3. Zaktualizowany tytuł wykonawczy powinien zawierać imię i nazwisko oraz określenie stanowiska służbowego upoważnionego pracownika organu egzekucyjnego.
+3. Zaktualizowany tytuł wykonawczy powinien zawierać imię i nazwisko oraz określenie stanowiska służbowego pracownika obsługującego organ egzekucyjny.
 
 **Art. 96.** Organ egzekucyjny niezwłocznie przekazuje do państwa członkowskiego lub państwa trzeciego istotne informacje dotyczące sprawy, w której wystąpiono z wnioskiem o odzyskanie należności pieniężnych, w szczególności o:
 
@@ -659,9 +663,9 @@ o wzajemnej pomocy przy dochodzeniu podatków, należności celnych i innych nal
 - **2)** imię i nazwisko lub nazwę podmiotu, adres zamieszkania lub siedziby oraz inne posiadane dane niezbędne do identyfikacji podmiotu;
 - **3)** określenie rodzaju i wysokości należności pieniężnych wyrażonych w złotych oraz okresu, którego dotyczą należności pieniężne;
 - **4)** oznaczenie pierwotnego tytułu wykonawczego;
-- **5)** klauzulę organu egzekucyjnego o skierowaniu zagranicznego tytułu wykonawczego do egzekucji administracyjnej.
+- **5)** (uchylony)
 
-3. W zagranicznym tytule wykonawczym wykazuje się należności pieniężne po zaokrągleniu do pełnych dziesiątek groszy w sposób określony w art. 85 ust. 3.
+3. (uchylony)
 
 4. Zagraniczny tytuł wykonawczy może zostać sporządzony w odniesieniu do kilku należności pieniężnych lub kilku podmiotów, zgodnie z pierwotnym tytułem wykonawczym oraz wnioskiem o odzyskanie należności pieniężnych.
 
@@ -693,216 +697,26 @@ o wzajemnej pomocy przy dochodzeniu podatków, należności celnych i innych nal
 
 ## TYTUŁ VI Zmiany w przepisach obowiązujących, przepisy przejściowe i przepis końcowy
 
-**Art. 110.** W ustawie z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, z późn. zm. ) wprowadza się następujące zmiany:
-
-**Art. 111.** W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2012 r. poz. 1015, z późn. zm. ) wprowadza się następujące zmiany:
-
-**Art. 26c.**
-
-§ 1. W razie potrzeby prowadzenia egzekucji przez więcej niż jeden organ egzekucyjny lub zabezpieczenia należności pieniężnej hipoteką przymusową, w tym hipoteką morską przymusową, wierzyciel wydaje dalszy tytuł wykonawczy.
-
-§ 2. Dalszy tytuł wykonawczy poza wymogami, o których mowa w art. 27, zawiera także numer porządkowy oraz oznaczenie celu, dla którego został wydany.
-
-§ 3. Po wydaniu dalszego tytułu wykonawczego wierzyciel występuje do organu egzekucyjnego o nadanie temu tytułowi wykonawczemu klauzuli o skierowaniu dalszego tytułu wykonawczego do egzekucji.
-
-§ 4. Zobowiązanemu nie doręcza się odpisu dalszego tytułu wykonawczego.
-
-**Art. 26d.**
-
-§ 1. W przypadku utraty tytułu wykonawczego, po wszczęciu egzekucji administracyjnej, wierzyciel ponownie wydaje tytuł wykonawczy po uprzednim wydaniu postanowienia o utracie pierwotnego tytułu wykonawczego.
-
-§ 2. Na ponownie wydanym tytule wykonawczym wierzyciel umieszcza adnotację o jego wydaniu oraz oznaczenie postanowienia o utracie pierwotnego tytułu wykonawczego.
-
-§ 3. Po ponownym wydaniu tytułu wykonawczego wierzyciel występuje do organu egzekucyjnego o nadanie temu tytułowi klauzuli o skierowaniu tytułu wykonawczego do egzekucji.
-
-§ 4. Zobowiązanemu nie doręcza się odpisu ponownie wydanego tytułu wykonawczego.”;
-
-- **14)** w art. 27:
-    - **a)** w § 1: pkt 7 otrzymuje brzmienie: „7) datę wystawienia tytułu, podpis, imię i nazwisko oraz stanowisko służbowe osoby upoważnionej do działania w imieniu wierzyciela;”, w pkt 11 kropkę zastępuje się średnikiem i dodaje się pkt 12 w brzmieniu: „12) datę doręczenia upomnienia, a jeżeli doręczenie upomnienia nie było wymagane, podstawę prawną braku tego obowiązku.”,
-    - **b)** uchyla się § 3,
-    - **c)** dodaje się § 4 w brzmieniu: „§ 4. Tytuł wykonawczy przekazywany do organu egzekucyjnego przy wykorzystaniu systemu teleinformatycznego albo z użyciem środków komunikacji elektronicznej zawiera bezpieczny podpis elektroniczny w rozumieniu ustawy z dnia 18 września 2001 r. o podpisie elektronicznym (Dz. U. z 2013 r. poz. 262).”;
-
-- **15)** uchyla się art. 27b;
-- **16)** po art. 28a dodaje się art. 28b i art. 28c w brzmieniu: „Art. 28b. § 1. Jeżeli w trakcie postępowania egzekucyjnego zostanie wydana decyzja, postanowienie lub inne orzeczenie określające lub ustalające inną wysokość należności pieniężnej niż objęta tytułem wykonawczym albo zostanie złożona korekta dokumentu, o którym mowa w art. 3a § 1, powodująca zwiększenie wysokości należności pieniężnej, wierzyciel niezwłocznie sporządza zmieniony tytuł wykonawczy.
-
-§ 2. W przypadku złożenia korekty dokumentu, o którym mowa w art. 3a § 1, powodującej zmniejszenie wysokości należności pieniężnej organ egzekucyjny kontynuuje postępowanie egzekucyjne, przy czym czynności egzekucyjne ograniczają się do kwoty pozostałej do wyegzekwowania.
-
-**Art. 28c.** W przypadku skierowania do organu egzekucyjnego zmienionego tytułu wykonawczego, zmienionego jednolitego tytułu wykonawczego lub zmienionego zagranicznego tytułu wykonawczego, dokonane czynności egzekucyjne pozostają w mocy, a uprzednio wszczęta egzekucja administracyjna jest kontynuowana przez realizację zastosowanych środków egzekucyjnych oraz stosowanie kolejnych środków egzekucyjnych.”;
-
-**Art. 32b.**
-
-§ 1. W przypadkach określonych w art. 32a § 1, jeżeli w toku postępowania egzekucyjnego wystąpiono z wnioskiem o odzyskanie należności pieniężnych do państwa członkowskiego lub państwa trzeciego, organ egzekucyjny informuje to państwo o okolicznościach, o których mowa w art. 32a § 1, wskazując, w jakim zakresie należność pieniężna objęta wnioskiem nie została zaskarżona.
-
-§ 2. Organ egzekucyjny może wystąpić, z urzędu lub na wniosek wierzyciela, z wnioskiem o podjęcie środków zabezpieczających zaskarżoną część należności pieniężnych na zasadach określonych w ustawie o wzajemnej pomocy lub z uzasadnionym wnioskiem o dalsze odzyskiwanie tych należności.
-
-**Art. 32c.**
-
-§ 1. Jeżeli wszczęto procedurę wzajemnego porozumiewania, a wynik tej procedury może mieć wpływ na egzekwowany obowiązek będący przedmiotem wniosku państwa członkowskiego lub państwa trzeciego o odzyskanie należności pieniężnych, o których mowa w art. 2 § 1 pkt 8 i 9, postępowanie egzekucyjne ulega zawieszeniu do czasu zakończenia procedury wzajemnego porozumiewania, chyba że zachodzi potrzeba natychmiastowego wyegzekwowania tych należności w związku z oszustwem lub niewypłacalnością.
-
-§ 2. W okresie zawieszenia postępowania egzekucyjnego w przypadku, o którym mowa w § 1, organ egzekucyjny może z urzędu lub na wniosek wierzyciela dokonać zabezpieczenia należności pieniężnych, o których mowa w art. 2 § 1 pkt 8 i 9.”;
-
-- **20)** w art. 33:
-    - **a)** dotychczasową treść oznacza się jako § 1 i w tym § pkt 10 otrzymuje brzmienie: „10) niespełnienie w tytule wykonawczym wymogów określonych w art. 27, a w zagranicznym tytule wykonawczym wymogów określonych w art. 102 ustawy o wzajemnej pomocy.”,
-    - **b)** dodaje się § 2 w brzmieniu: „§ 2. W egzekucji należności pieniężnych, o których mowa w:
-
-- **1)** art. 2 § 1 pkt 8 zobowiązanemu przysługują zarzuty określone w § 1 pkt 6, 8 i 9;
-- **2)** art. 2 § 1 pkt 9 zobowiązanemu przysługują zarzuty określone w § 1 pkt 6 i 8–10.”;
-- **21)** w art. 34:
-    - **a)** § 1 otrzymuje brzmienie: „§ 1. Zarzuty zgłoszone na podstawie art. 33 § 1 pkt 1–7, 9 i 10, a przy egzekucji obowiązków o charakterze niepieniężnym także na podstawie art. 33 § 1 pkt 8, organ egzekucyjny rozpatruje po uzyskaniu stanowiska wierzyciela w zakresie zgłoszonych zarzutów, z tym że w zakresie zarzutów, o których mowa w art. 33 § 1 pkt 1–5 i 7, stanowisko wierzyciela jest dla organu egzekucyjnego wiążące. W przypadku, o którym mowa w art. 33 § 2, stanowiska wierzyciela nie wymaga się.”,
-    - **b)** uchyla się § 3;
-
-- **22)** art. 35 otrzymuje brzmienie: „Art. 35. § 1. Zgłoszenie przez zobowiązanego zarzutu w sprawie prowadzenia egzekucji administracyjnej na podstawie art. 33 § 1 pkt 1–7, 9 i 10 zawiesza postępowanie egzekucyjne do czasu wydania ostatecznego postanowienia w przedmiocie zgłoszonego zarzutu, o ile wierzyciel po otrzymaniu zarzutu nie wystąpi z uzasadnionym wnioskiem o podjęcie zawieszonego postępowania egzekucyjnego.
-
-§ 2. W okresie zawieszenia postępowania egzekucyjnego organ egzekucyjny może dokonać na podstawie tytułu wykonawczego zabezpieczenia na wniosek wierzyciela lub z urzędu.
-
-§ 3. Jeżeli w toku postępowania egzekucyjnego wystąpiono o pomoc do państwa członkowskiego lub państwa trzeciego z wnioskiem o odzyskanie należności pieniężnych, o których mowa w art. 2 § 1 pkt 8 i 9, organ egzekucyjny informuje to państwo o okolicznościach, o których mowa w § 1.
-
-§ 4. W przypadku określonym w § 3 organ egzekucyjny może, z urzędu lub na wniosek wierzyciela, wystąpić z wnioskiem o podjęcie środków zabezpieczających należności pieniężne na zasadach określonych w ustawie o wzajemnej pomocy lub z uzasadnionym wnioskiem o dalsze odzyskiwanie tych należności.”;
-
-- **23)** w art. 36 § 1 otrzymuje brzmienie: „§ 1. W zakresie niezbędnym do wszczęcia lub prowadzenia postępowania egzekucyjnego oraz udzielania pomocy na podstawie ustawy o wzajemnej pomocy organ egzekucyjny lub wierzyciel, o którym mowa w art. 5, może żądać od uczestników postępowania informacji i wyjaśnień, jak również zwracać się o udzielenie informacji do organów administracji publicznej oraz jednostek organizacyjnych im podległych lub podporządkowanych, a także innych podmiotów.”;
-- **24)** w art. 56 w § 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „Postępowanie egzekucyjne ulega zawieszeniu w całości lub w części:”;
-- **25)** w art. 57 § 1 otrzymuje brzmienie: „§ 1. Organ egzekucyjny podejmuje zawieszone postępowanie egzekucyjne po ustaniu przyczyny zawieszenia, zawiadamiając o tym zobowiązanego. Jednocześnie organ egzekucyjny przystępuje do czynności egzekucyjnych.”;
-- **26)** w art. 59 po § 2 dodaje się § 2a w brzmieniu: „§ 2a. W zakresie należności pieniężnych, o których mowa w art. 2 § 1 pkt 8 i 9, postępowanie egzekucyjne umarza się w przypadkach określonych w § 1 pkt 4, 6, 7, 9 i 10 oraz w § 2.”;
-- **27)** w art. 64c:
-    - **a)** § 2a otrzymuje brzmienie: „§ 2a. Przepisu § 2 nie stosuje się do państwa członkowskiego lub państwa trzeciego.”,
-    - **b)** § 3 otrzymuje brzmienie: „§ 3. Jeżeli po pobraniu od zobowiązanego należności z tytułu kosztów egzekucyjnych okaże się, że wszczęcie i prowadzenie egzekucji było niezgodne z prawem, należności te, wraz z naliczonymi od dnia ich pobrania odsetkami ustawowymi, organ egzekucyjny zwraca zobowiązanemu, a jeżeli niezgodne z prawem wszczęcie i prowadzenie egzekucji spowodował wierzyciel, obciąża nimi wierzyciela.”,
-    - **c)** uchyla się § 3a i 3b,
-    - **d)** § 4 otrzymuje brzmienie: „§ 4. Wierzyciel pokrywa koszty egzekucyjne, jeżeli nie mogą być one ściągnięte od zobowiązanego, z zastrzeżeniem § 4b oraz art. 64e § 4a.”,
-    - **e)** uchyla się § 4a,
-    - **f)** § 4b otrzymuje brzmienie: „§ 4b. Nieściągnięte od zobowiązanego wydatki egzekucyjne, poniesione w postępowaniu egzekucyjnym prowadzonym na podstawie jednolitego tytułu wykonawczego albo zagranicznego tytułu wykonawczego, organ egzekucyjny lub rekwizycyjny pokrywa bezpośrednio z budżetu państwa.”,
-    - **g)** uchyla się § 4c,
-    - **h)** po § 7 dodaje się § 7a i 7b w brzmieniu: „§ 7a. W przypadkach określonych w art. 80 i art. 81 ustawy o wzajemnej pomocy organ egzekucyjny może wystąpić do państwa członkowskiego lub państwa trzeciego o przekazanie na rachunek tego organu wydatków egzekucyjnych poniesionych w związku z realizacją wniosku o odzyskanie należności pieniężnych wraz z wypłaconymi odsetkami od zwróconych należności pieniężnych, przedstawiając ich zestawienie, jeżeli wszczęcie lub prowadzenie egzekucji administracyjnej należności pieniężnych będących przedmiotem zwrotu spowodowało państwo członkowskie lub państwo trzecie.
-
-§ 7b. W przypadku, o którym mowa w § 7a, nie wydaje się postanowienia o wysokości wydatków egzekucyjnych obciążających wierzyciela.”,
-
-- **i)** § 9 otrzymuje brzmienie: „§ 9. Środki pieniężne pochodzące z wyegzekwowanych kosztów egzekucyjnych, w tym powstałych w postępowaniu egzekucyjnym prowadzonym na podstawie jednolitego tytułu wykonawczego albo zagranicznego tytułu wykonawczego, przypadają na rzecz tego organu, który je uzyskał, z zastrzeżeniem § 10 i 11.”;
-- **28)** w art. 64d § 4 otrzymuje brzmienie: „§ 4. Przepisy § 1–3 stosuje się również do innych należności lub wartości określonych w ustawie kwotowo.”;
-- **29)** w art. 64e:
-    - **a)** § 4a otrzymuje brzmienie: „§ 4a. Organ egzekucyjny z urzędu umarza koszty z tytułu opłat, o których mowa w art. 64 § 1 i 6, jeżeli opłaty te nie mogą być ściągnięte od zobowiązanego i powstały w postępowaniu egzekucyjnym prowadzonym na podstawie jednolitego tytułu wykonawczego albo zagranicznego tytułu wykonawczego. Nie wydaje się postanowienia w sprawie umorzenia kosztów egzekucyjnych.”,
-    - **b)** po § 4a dodaje się § 4b w brzmieniu: „§ 4b. Przepis § 4a stosuje się odpowiednio do wydatków egzekucyjnych poniesionych w postępowaniu egzekucyjnym prowadzonym na podstawie jednolitego tytułu wykonawczego albo zagranicznego tytułu wykonawczego, chyba że organ egzekucyjny uzyskał zwrot tych wydatków od państwa członkowskiego lub państwa trzeciego w przypadkach określonych w art. 29a lub w przypadkach określonych w art. 80 i art. 81 ustawy o wzajemnej pomocy.”;
-
-- **30)** w art. 66:
-    - **a)** w § 4 pkt 4 otrzymuje brzmienie: „4) należności dochodzonych na podstawie jednolitego tytułu wykonawczego albo zagranicznego tytułu wykonawczego.”,
-    - **b)** § 6 otrzymuje brzmienie: „§ 6. Do opłaty komorniczej stosuje się odpowiednio przepisy § 2 oraz art. 64c § 11 i 12.”;
-
-- **31)** w dziale I uchyla się rozdział 7;
-- **32)** w art. 71 § 3 otrzymuje brzmienie: „§ 3. Podstawą żądania wyjawienia przez zobowiązanego majątku są dokumenty stanowiące podstawę wszczęcia egzekucji administracyjnej lub dokonania zabezpieczenia w trybie przepisów działu IV. W tym przypadku nie nadaje się sądowej klauzuli wykonalności.”;
-- **33)** po art. 71b dodaje się art. 71c w brzmieniu: „Art. 71c. § 1. Organ egzekucyjny na wniosek zobowiązanego może, w drodze decyzji, odroczyć termin zapłaty należności pieniężnych albo rozłożyć na raty zapłatę należności pieniężnych dochodzonych na podstawie jednolitego tytułu wykonawczego albo zagranicznego tytułu wykonawczego wraz z odsetkami naliczonymi zgodnie z przepisami działu III ustawy Ordynacja podatkowa.
-
-§ 2. Do udzielania ulg, o których mowa w § 1, stosuje się odpowiednio przepisy działów III i IV ustawy Ordynacja podatkowa.
-
-§ 3. O udzieleniu ulg, o których mowa w § 1, organ egzekucyjny informuje państwo członkowskie lub państwo trzecie.”;
-
-- **34)** w art. 110:
-    - **a)** uchyla się § 1–3,
-    - **b)** § 3a otrzymuje brzmienie: „§ 3a. Organ egzekucyjny podejmuje czynności egzekucyjne związane z egzekucją administracyjną z nieruchomości po otrzymaniu zaliczki na pokrycie przewidywanych wydatków od wierzyciela niebędącego naczelnikiem urzędu skarbowego, państwem członkowskim lub państwem trzecim, zwanego dalej „wierzycielem finansującym”. Przepis art. 29a stosuje się odpowiednio.”,
-    - **c)** § 7 otrzymuje brzmienie: „§ 7. W przypadku niewpłacenia zaliczki, o której mowa w § 4, organ egzekucyjny wzywa wierzyciela finansującego do jej wpłacenia w terminie 7 dni od dnia doręczenia wezwania, a po bezskutecznym upływie tego terminu nie przystępuje do egzekucji z nieruchomości.”;
-
-- **35)** w art. 110b pkt 2 otrzymuje brzmienie: „2) wierzyciele egzekwujący;”;
-- **36)** w art. 110c w § 2 dodaje się zdanie drugie w brzmieniu: „Zobowiązanemu wraz z wezwaniem doręcza się odpis tytułu wykonawczego, o ile nie został wcześniej doręczony.”;
-- **37)** w art. 111f § 5 otrzymuje brzmienie: „§ 5. Jeżeli należność wierzyciela wraz z odsetkami z tytułu niezapłacenia jej w terminie i kosztami egzekucyjnymi zostanie uiszczona przed zamknięciem licytacji, poborca skarbowy zamyka licytację, a organ egzekucyjny uchyla zajęcie nieruchomości.”;
-- **38)** art. 111g otrzymuje brzmienie: „Art. 111g. Jeżeli przedmiotem licytacji jest kilka nieruchomości lub kilka części nieruchomości, poborca skarbowy wstrzymuje licytację pozostałych nieruchomości lub ich części z chwilą, gdy osiągnięto kwotę wystarczającą na zaspokojenie dochodzonej należności wraz z odsetkami z tytułu niezapłacenia jej w terminie i kosztami egzekucyjnymi, a organ egzekucyjny uchyla zajęcie nieruchomości.”;
-- **39)** art. 111k otrzymuje brzmienie: „Art. 111k. § 1. Jeżeli po trzeciej licytacji żaden z wierzycieli nie przejął nieruchomości na własność, uchyla się zajęcie nieruchomości. Nowa egzekucja z tej samej nieruchomości może być wszczęta nie wcześniej niż po upływie 12 miesięcy od dnia uchylenia zajęcia nieruchomości.
-
-§ 2. Jeżeli wniosek o wszczęcie nowej egzekucji złożono przed upływem 3 lat od trzeciej licytacji, organ egzekucyjny dokonuje nowego opisu i oszacowania wartości nieruchomości tylko na wniosek zobowiązanego. Zobowiązany może złożyć taki wniosek przed upływem 14 dni od dnia ponownego doręczenia mu wezwania do zapłaty, o czym należy go uprzedzić przy doręczeniu wezwania.”;
-
-- **40)** art. 111n otrzymuje brzmienie: „Art. 111n. § 1. Organ egzekucyjny odmawia przybicia, jeżeli ostateczne rozstrzygnięcia skarg lub zażaleń wniesionych w toku postępowania egzekucyjnego potwierdzą naruszenie przepisów postępowania w toku licytacji i jeżeli uchybienia te mogły mieć istotny wpływ na wynik licytacji albo, jeżeli uczestnik nie otrzymał zawiadomienia o licytacji, chyba że będąc na licytacji nie wystąpił ze skargą na to uchybienie.
-
-§ 2. Organ egzekucyjny odmawia przybicia również wtedy, gdy postępowanie egzekucyjne podlegało umorzeniu lub zawieszeniu.
-
-§ 3. Organ egzekucyjny wyznacza ponowną licytację:
-
-- **1)** jeżeli odmówi przybicia z przyczyn, o których mowa w § 1;
-- **2)** po ustaniu przyczyny zawieszenia.”;
-- **41)** art. 114d otrzymuje brzmienie: „Art. 114d. W przypadku prowadzenia egzekucji z użytkowania wieczystego, jeżeli właściwy organ wystąpił z żądaniem rozwiązania umowy użytkowania wieczystego, wstrzymuje się czynności egzekucyjne w egzekucji z nieruchomości. Organ egzekucyjny podejmuje egzekucję z nieruchomości, jeżeli sąd orzeknie, że brak jest podstaw do rozwiązania umowy użytkowania wieczystego. W przypadku rozwiązania umowy użytkowania wieczystego organ egzekucyjny uchyla zajęcie nieruchomości.”;
-- **42)** w art. 115c:
-    - **a)** w § 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „W podziale kwoty uzyskanej ze sprzedaży nieruchomości oprócz wierzycieli egzekwujących uczestniczą:”,
-    - **b)** uchyla się § 2;
-
-- **43)** w art. 154 w § 4 w pkt 2 kropkę zastępuje się przecinkiem i dodaje się pkt 3 w brzmieniu: „3) z dniem podjęcia zawieszonego postępowania egzekucyjnego w przypadkach określonych w art. 32a § 2, art. 32c § 1 i art. 35 § 1, a także w przypadkach określonych w art. 79 ust. 5 ustawy o wzajemnej pomocy.”;
-- **44)** w art. 155a:
-    - **a)** § 1 otrzymuje brzmienie: „§ 1. Organ egzekucyjny dokonuje zabezpieczenia:
-
-- **1)** na wniosek wierzyciela i na podstawie wydanego przez niego zarządzenia zabezpieczenia;
-- **2)** na wniosek wierzyciela i na podstawie wydanego przez niego tytułu wykonawczego, w przypadkach określonych w art. 32a § 3 i art. 35 § 2;
-- **3)** na wniosek państwa członkowskiego i na podstawie zarządzenia zabezpieczenia, zagranicznego tytułu wykonawczego, dokumentu zabezpieczenia albo jednolitego tytułu wykonawczego określonych w przepisach ustawy o wzajemnej pomocy, w zakresie należności, o których mowa w art. 2 § 1 pkt 8;
-- **4)** na wniosek państwa członkowskiego lub państwa trzeciego i na podstawie zarządzenia zabezpieczenia albo zagranicznego tytułu wykonawczego wystawionych zgodnie z przepisami ustawy o wzajemnej pomocy, w zakresie należności, o których mowa w art. 2 § 1 pkt 9.”,
-    - **b)** po § 1 dodaje się § 1a w brzmieniu: „§ 1a. Organ egzekucyjny może z urzędu dokonać zabezpieczenia na podstawie tytułu wykonawczego, w przypadkach określonych w art. 32a § 3, art. 32c § 2 i art. 35 § 2 oraz w przypadkach określonych w art. 79 ust. 5 ustawy o wzajemnej pomocy.”,
-    - **c)** § 2 otrzymuje brzmienie: „§ 2. Wniosek, o którym mowa w § 1 pkt 1, może również zgłosić organ kontroli skarbowej.”;
-
-- **45)** po art. 155a dodaje się art. 155b w brzmieniu: „Art. 155b. § 1. Organ egzekucyjny lub egzekutor, przystępując do czynności zabezpieczających, doręcza zobowiązanemu odpowiednio:
-- **1)** odpis zarządzenia zabezpieczenia;
-- **2)** dokument zabezpieczenia;
-- **3)** odpis tytułu wykonawczego, o ile nie został wcześniej doręczony, wraz z zawiadomieniem o przystąpieniu do zabezpieczenia;
-- **4)** zawiadomienie o przystąpieniu do zabezpieczenia, jeżeli odpis tytułu wykonawczego został doręczony w egzekucji administracyjnej.
-
-§ 2. W przypadku, o którym mowa w § 1 pkt 4, nie stosuje się przepisów art. 33 i art. 34.”;
-
-- **46)** w art. 156 w § 1:
-    - **a)** pkt 6 otrzymuje brzmienie: „6) datę wydania zarządzenia zabezpieczenia, nazwę wierzyciela, który je wydał, oraz imię i nazwisko oraz stanowisko służbowe osoby upoważnionej do działania w imieniu wierzyciela;”,
-    - **b)** pkt 9 otrzymuje brzmienie: „9) sposób i zakres zabezpieczenia obowiązku o charakterze niepieniężnym.”;
-
-- **47)** w art. 159:
-    - **a)** § 1 otrzymuje brzmienie: „§ 1. Organ egzekucyjny na żądanie zobowiązanego uchyla zabezpieczenie obowiązku o charakterze niepieniężnym, jeżeli wniosek o wszczęcie postępowania egzekucyjnego nie został zgłoszony w terminie 3 miesięcy od dnia dokonania tego zabezpieczenia.”,
-    - **b)** § 2 otrzymuje brzmienie: „§ 2. Termin określony w § 1 może być przez organ egzekucyjny przedłużony na wniosek wierzyciela o okres do 3 miesięcy, jeżeli z uzasadnionych przyczyn postępowanie egzekucyjne nie mogło być wszczęte.”;
-
-- **48)** w art. 164:
-    - **a)** w § 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „Organ egzekucyjny dokonuje zabezpieczenia należności pieniężnej przez:”,
-    - **b)** § 2 otrzymuje brzmienie: „§ 2. Jeżeli organ egzekucyjny nie jest jednocześnie wierzycielem, obciążenia nieruchomości hipoteką przymusową lub statku morskiego (statku morskiego w budowie) hipoteką morską przymusową dokonuje wierzyciel, a jeżeli wierzycielem jest państwo członkowskie lub państwo trzecie organ egzekucyjny działający we własnym imieniu i na rzecz tego państwa.”,
-    - **c)** po § 2 dodaje się § 2a–2c w brzmieniu: „§ 2a. Podstawą wpisu hipoteki przymusowej dla zabezpieczenia należności państw członkowskich lub państw trzecich jest: dokument zabezpieczenia państwa członkowskiego, jednolity tytuł wykonawczy państwa członkowskiego, zagraniczny tytuł wykonawczy albo zarządzenie zabezpieczenia określone w przepisach ustawy o wzajemnej pomocy.
-
-§ 2b. W przypadku gdy dokument, o którym mowa w § 2a, przekazany został do organu egzekucyjnego przy wykorzystaniu systemu teleinformatycznego albo z użyciem środków komunikacji elektronicznej, podstawą wpisu hipoteki przymusowej jest wydruk tego dokumentu sporządzony zgodnie z art. 26 § 1d.
-
-§ 2c. W przypadku gdy dokument, o którym mowa w § 2a, sporządzony jest w języku urzędowym państwa członkowskiego lub państwa trzeciego albo języku uzgodnionym zgodnie z art. 32 ustawy o wzajemnej pomocy, do wniosku o wpis hipoteki przymusowej organ egzekucyjny dołącza również tłumaczenie tego dokumentu sporządzone zgodnie z art. 31 ust. 1 lub 3 ustawy o wzajemnej pomocy.”;
-
-- **49)** art. 166b otrzymuje brzmienie: „Art. 166b. W postępowaniu zabezpieczającym stosuje się odpowiednio przepisy działu I i art. 168d.”;
-- **50)** po art. 166b dodaje się art. 166c w brzmieniu: „Art. 166c. W zakresie należności pieniężnych, o których mowa w art. 2 § 1 pkt 8 i 9, w postępowaniu zabezpieczającym nie stosuje się przepisów art. 154 § 1–3, 5 i 6, art. 155, art. 156, art. 157 i art. 163 § 2–3.”;
-- **51)** art. 168b otrzymuje brzmienie: „Art. 168b. § 1. Zobowiązany może dochodzić odszkodowania od organu egzekucyjnego lub wierzyciela na podstawie przepisów Kodeksu cywilnego za szkody wyrządzone wskutek niezgodnego z przepisami prawa wszczęcia lub prowadzenia egzekucji administracyjnej lub postępowania zabezpieczającego.
-
-§ 2. W przypadku należności pieniężnych określonych w art. 2 § 1 pkt 8 i 9 przez wierzyciela, o którym mowa w ust. 1, rozumie się centralne biuro łącznikowe.”.
-
-**Art. 112.** W ustawie z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. U. z 2013 r. poz. 707, 830 i 941) art. 110 otrzymuje brzmienie: „Art. 110. Hipotekę przymusową można uzyskać także na podstawie:
-
-**Art. 113.** W ustawie z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych (Dz. U. z 2013 r. poz. 989) w art. 49 dodaje się ust. 4 w brzmieniu: „4. Przepisu ust. 1 nie stosuje się również w przypadku udostępnienia informacji objętej tajemnicą zawodową administracyjnemu organowi egzekucyjnemu oraz centralnemu biuru łącznikowemu, o którym mowa w art. 9 ustawy z dnia 11 października 2013 r. o wzajemnej pomocy przy dochodzeniu podatków, należności celnych i innych należności pieniężnych (Dz. U. poz. 1289), w zakresie danych zawartych w umowach, o których mowa w art. 88a, oraz w deklaracjach, o których mowa w art. 18 ust. 1 ustawy z dnia 20 kwietnia 2004 r. o pracowniczych programach emerytalnych.”.
-
-**Art. 114.** W ustawie z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2012 r. poz. 749, z późn. zm. ) w art. 70 w § 6 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „5) doręczenia zawiadomienia o przystąpieniu do zabezpieczenia w przypadkach określonych w art. 32a § 3 i art. 35 § 2 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2012 r. poz. 1015, z późn. zm. ).”.
-
-**Art. 115.** W ustawie z dnia 29 sierpnia 1997 r. Prawo bankowe (Dz. U. z 2012 r. poz. 1376, z późn. zm. ) w art. 105 w ust. 1 w pkt 2 w lit. u średnik zastępuje się przecinkiem i dodaje się lit. v w brzmieniu: „v) administracyjnego organu egzekucyjnego oraz centralnego biura łącznikowego, o którym mowa w art. 9 ustawy z dnia 11 października 2013 r. o wzajemnej pomocy przy dochodzeniu podatków, należności celnych i innych należności pieniężnych (Dz. U. poz. 1289), w zakresie wykonywania ich ustawowych zadań;”.
-
-**Art. 116.** W ustawie z dnia 26 października 2000 r. o giełdach towarowych (Dz. U. z 2010 r. Nr 48, poz. 284, z późn. zm. ) w art. 54 po pkt 8 dodaje się pkt 8a w brzmieniu: „8a) administracyjnego organu egzekucyjnego oraz centralnego biura łącznikowego, o którym mowa w art. 9 ustawy z dnia 11 października 2013 r. o wzajemnej pomocy przy dochodzeniu podatków, należności celnych i innych należności pieniężnych (Dz. U. poz. 1289), w zakresie wykonywania ich ustawowych zadań;”.
-
-**Art. 117.** W ustawie z dnia 22 maja 2003 r. o działalności ubezpieczeniowej (Dz. U. z 2013 r. poz. 950) w art. 19 w ust. 2 po pkt 3 dodaje się pkt 3a w brzmieniu: „3a) administracyjnego organu egzekucyjnego oraz centralnego biura łącznikowego, o którym mowa w art. 9 ustawy z dnia 11 października 2013 r. o wzajemnej pomocy przy dochodzeniu podatków, należności celnych i innych należności pieniężnych (Dz. U. poz. 1289), w zakresie wykonywania ich ustawowych zadań;”.
-
-**Art. 118.** W ustawie z dnia 20 kwietnia 2004 r. o indywidualnych kontach emerytalnych oraz indywidulanych kontach zabezpieczenia emerytalnego (Dz. U. Nr 116, poz. 1205, z późn. zm. ) po art. 8 dodaje się art. 8a w brzmieniu: „Art. 8a. Podmioty wymienione w art. 8 ust. 1 są obowiązane udostępniać dane zawarte w umowach, o których mowa w art. 9, na wniosek administracyjnego organu egzekucyjnego, wymienionego w art. 19 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2012 r. poz. 1015, z późn. zm. ) oraz centralnego biura łącznikowego, o którym mowa w art. 9 ustawy z dnia 11 października 2013 r. o wzajemnej pomocy przy dochodzeniu podatków, należności celnych i innych należności pieniężnych (Dz. U. poz. 1289).”.
-
-**Art. 119.** W ustawie z dnia 20 kwietnia 2004 r. o pracowniczych programach emerytalnych (Dz. U. Nr 116, poz. 1207, z późn. zm. ) po art. 18 dodaje się art. 18a w brzmieniu: „Art. 18a. Pracodawca jest obowiązany udostępniać dane zawarte w deklaracjach na wniosek administracyjnego organu egzekucyjnego, wymienionego w art. 19 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2012 r. poz. 1015, z późn. zm. ) oraz centralnego biura łącznikowego, o którym mowa w art. 9 ustawy z dnia 11 października 2013 r. o wzajemnej pomocy przy dochodzeniu podatków, należności celnych i innych należności pieniężnych (Dz. U. poz. 1289).”.
-
-**Art. 120.** W ustawie z dnia 27 maja 2004 r. o funduszach inwestycyjnych (Dz. U. Nr 146, poz. 1546, z późn. zm. ) w art. 281 w ust. 1 po pkt 10 dodaje się pkt 10a w brzmieniu: „10a) administracyjnego organu egzekucyjnego oraz centralnego biura łącznikowego, o którym mowa w art. 9 ustawy z dnia 11 października 2013 r. o wzajemnej pomocy przy dochodzeniu podatków, należności celnych i innych należności pieniężnych (Dz. U. poz. 1289), w zakresie wykonywania ich ustawowych zadań;”.
-
-**Art. 121.** W ustawie z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2010 r. Nr 211, poz. 1384, z późn. zm. ) w art. 149 pkt 10 otrzymuje brzmienie: „10) administracyjnego organu egzekucyjnego oraz centralnego biura łącznikowego, o którym mowa w art. 9 ustawy z dnia 11 października 2013 r. o wzajemnej pomocy przy dochodzeniu podatków, należności celnych i innych należności pieniężnych (Dz. U. poz. 1289), w zakresie wykonywania ich ustawowych zadań.”.
-
-**Art. 122.** W ustawie z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z 2012 r. poz. 855, z późn. zm. ) w art. 9f w ust. 1 po pkt 15 dodaje się pkt 15a w brzmieniu: „15a) na żądanie administracyjnego organu egzekucyjnego oraz centralnego biura łącznikowego, o którym mowa w art. 9 ustawy z dnia 11 października 2013 r. o wzajemnej pomocy przy dochodzeniu podatków, należności celnych i innych należności pieniężnych (Dz. U. poz. 1289), w zakresie wykonywania ich ustawowych zadań;”.
-
 **Art. 123.**
 
 1. Do postępowań egzekucyjnych w administracji wszczętych i niezakończonych przed dniem wejścia w życie ustawy, mają zastosowanie przepisy dotychczasowe, z zastrzeżeniem ust. 2–6.
 
-2. Organ egzekucyjny może, na podstawie art. 13 § 1 ustawy zmienianej w art. 111, w brzmieniu dotychczasowym, zwolnić określony składnik majątkowy zobowiązanego bez zgody wierzyciela.
+2. Organ egzekucyjny może, na podstawie art. 13 § 1 ustawy zmienianej w art. 111 , w brzmieniu dotychczasowym, zwolnić określony składnik majątkowy zobowiązanego bez zgody wierzyciela.
 
-3. Do wstrzymania czynności egzekucyjnych lub postępowania egzekucyjnego na podstawie art. 23 § 6 ustawy zmienianej w art. 111, w brzmieniu dotychczasowym, nie jest wymagana zgoda wierzyciela.
+3. Do wstrzymania czynności egzekucyjnych lub postępowania egzekucyjnego na podstawie art. 23 § 6 ustawy zmienianej w art. 111 , w brzmieniu dotychczasowym, nie jest wymagana zgoda wierzyciela.
 
-4. Do wszczęcia i prowadzenia egzekucji z nieruchomości stosuje się przepisy działu II rozdziału 7 ustawy zmienianej w art. 111, w brzmieniu nadanym niniejszą ustawą.
+4. Do wszczęcia i prowadzenia egzekucji z nieruchomości stosuje się przepisy działu II rozdziału 7 ustawy zmienianej w art. 111 , w brzmieniu nadanym niniejszą ustawą.
 
 5. Do postępowań, o których mowa w ust. 1, mają zastosowanie przepisy:
 
-- **1)** art. 17a, art. 26b, art. 36 § 1, art. 56 § 1, art. 57 § 1 i art. 71 § 3 ustawy zmienianej w art. 111, w brzmieniu nadanym niniejszą ustawą;
-- **2)** art. 49 ust. 4 ustawy zmienianej w art. 113, art. 105 ust. 1 pkt 2 lit. v ustawy zmienianej w art. 115, art. 54 pkt 8a ustawy zmienianej w art. 116, art. 19 ust. 2 pkt 3a ustawy zmienianej w art. 117, art. 8a ustawy zmienianej w art. 118, art. 18a ustawy zmienianej w art. 119, art. 281 ust. 1 pkt 10a ustawy zmienianej w art. 120, art. 149 pkt 10 ustawy zmienianej w art. 121 oraz art. 9f ust. 1 pkt 15a ustawy zmienianej w art. 122, w brzmieniu nadanym niniejszą ustawą.
+- **1)** art. 17a, art. 26b, art. 36 § 1, art. 56 § 1, art. 57 § 1 i art. 71 § 3 ustawy zmienianej w art. 111 , w brzmieniu nadanym niniejszą ustawą;
+- **2)** art. 49 ust. 4 ustawy zmienianej w art. 113 , art. 105 ust. 1 pkt 2 lit. v ustawy zmienianej w art. 115 , art. 54 pkt 8a ustawy zmienianej w art. 116 , art. 19 ust. 2 pkt 3a ustawy zmienianej w art. 117 , art. 8a ustawy zmienianej w art. 118 , art. 18a ustawy zmienianej w art. 119 , art. 281 ust. 1 pkt 10a ustawy zmienianej w art. 120 , art. 149 pkt 10 ustawy zmienianej w art. 121 oraz art. 9f ust. 1 pkt 15a ustawy zmienianej w art. 122 , w brzmieniu nadanym niniejszą ustawą.
 
-6. Przepisy art. 28b i art. 28c ustawy zmienianej w art. 111, w brzmieniu nadanym niniejszą ustawą, mają zastosowanie do postępowań egzekucyjnych w administracji wszczętych i niezakończonych przed dniem wejścia w życie tych przepisów.
+6. Przepisy art. 28b i art. 28c ustawy zmienianej w art. 111 , w brzmieniu nadanym niniejszą ustawą, mają zastosowanie do postępowań egzekucyjnych w administracji wszczętych i niezakończonych przed dniem wejścia w życie tych przepisów.
 
 **Art. 124.**
 
-1. Do wniosków państwa członkowskiego lub państwa trzeciego o udzielenie pomocy wniesionych do organu wykonującego przed dniem 1 stycznia 2012 r. i niezrealizowanych do dnia wejścia w życie ustawy zastosowanie mają przepisy działu I rozdziału 7 ustawy zmienianej w art. 111, w brzmieniu dotychczasowym, z wyłączeniem art. 66b § 3 i art. 66h § 2 i 4 tej ustawy, z tym że funkcje organu wykonującego sprawuje centralne biuro łącznikowe.
+1. Do wniosków państwa członkowskiego lub państwa trzeciego o udzielenie pomocy wniesionych do organu wykonującego przed dniem 1 stycznia 2012 r. i niezrealizowanych do dnia wejścia w życie ustawy zastosowanie mają przepisy działu I rozdziału 7 ustawy zmienianej w art. 111 , w brzmieniu dotychczasowym, z wyłączeniem art. 66b § 3 i art. 66h § 2 i 4 tej ustawy, z tym że funkcje organu wykonującego sprawuje centralne biuro łącznikowe.
 
 2. Do wniosków państwa członkowskiego lub państwa trzeciego o udzielenie pomocy wniesionych do organu wykonującego od dnia 1 stycznia 2012 r. i niezrealizowanych do dnia wejścia w życie ustawy zastosowanie mają przepisy niniejszej ustawy.
 
@@ -910,15 +724,15 @@ o wzajemnej pomocy przy dochodzeniu podatków, należności celnych i innych nal
 
 1. Do wniosków polskich wierzycieli i organów egzekucyjnych o udzielenie pomocy przez państwo członkowskie lub państwo trzecie wniesionych do organu wnioskującego przed dniem 1 stycznia 2012 r. i nieprzekazanych do tych państw do dnia wejścia w życie ustawy zastosowanie mają przepisy niniejszej ustawy.
 
-2. Do wniosków polskich wierzycieli i organów egzekucyjnych o udzielenie pomocy przez państwo członkowskie lub państwo trzecie wniesionych do organu wnioskującego przed dniem 1 stycznia 2012 r. i przekazanych do tych państw zastosowanie mają przepisy działu I rozdziału 7 ustawy zmienianej w art. 111, w brzmieniu dotychczasowym, z wyłączeniem art. 66b § 3 i art. 66h § 2 i 4 tej ustawy, z tym że funkcje organu wnioskującego sprawuje centralne biuro łącznikowe.
+2. Do wniosków polskich wierzycieli i organów egzekucyjnych o udzielenie pomocy przez państwo członkowskie lub państwo trzecie wniesionych do organu wnioskującego przed dniem 1 stycznia 2012 r. i przekazanych do tych państw zastosowanie mają przepisy działu I rozdziału 7 ustawy zmienianej w art. 111 , w brzmieniu dotychczasowym, z wyłączeniem art. 66b § 3 i art. 66h § 2 i 4 tej ustawy, z tym że funkcje organu wnioskującego sprawuje centralne biuro łącznikowe.
 
 3. Do wniosków polskich wierzycieli i organów egzekucyjnych o udzielenie pomocy przez państwo członkowskie lub państwo trzecie wniesionych do organu wnioskującego od dnia 1 stycznia 2012 r. zastosowanie mają przepisy niniejszej ustawy.
 
-**Art. 126.** Informację dotyczącą pomocy, o której mowa w art. 66a ustawy zmienianej w art. 111, w brzmieniu dotychczasowym, za 2013 r. i przekazywaną do Komisji Europejskiej zgodnie z art. 66b § 3 tej ustawy, minister właściwy do spraw finansów publicznych sporządzi i przekaże w formie i w zakresie określonych w art. 7.
+**Art. 126.** Informację dotyczącą pomocy, o której mowa w art. 66a ustawy zmienianej w art. 111 , w brzmieniu dotychczasowym, za 2013 r. i przekazywaną do Komisji Europejskiej zgodnie z art. 66b § 3 tej ustawy, minister właściwy do spraw finansów publicznych sporządzi i przekaże w formie i w zakresie określonych w art. 7.
 
-**Art. 127.** Przepisy wykonawcze wydane na podstawie art. 6 § 2, art. 15 § 5, art. 26 § 2, art. 65, art. 67 § 1, art. 67c § 7 i 15, art. 109 § 1, art. 110r § 2 oraz art. 156 § 2 ustawy zmienianej w art. 111, pozostają w mocy do czasu wejścia w życie nowych przepisów wykonawczych wydanych na podstawie tych przepisów, nie dłużej jednak niż przez okres 6 miesięcy od dnia wejścia w życie ustawy.
+**Art. 127.** Przepisy wykonawcze wydane na podstawie art. 6 § 2, art. 15 § 5, art. 26 § 2, art. 65, art. 67 § 1, art. 67c § 7 i 15, art. 109 § 1, art. 110r § 2 oraz art. 156 § 2 ustawy zmienianej w art. 111 , pozostają w mocy do czasu wejścia w życie nowych przepisów wykonawczych wydanych na podstawie tych przepisów, nie dłużej jednak niż przez okres 6 miesięcy od dnia wejścia w życie ustawy.
 
-**Art. 128.** Do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 26 § 2 ustawy zmienianej w art. 111, przepisu art. 27 § 1 pkt 12 tej ustawy nie stosuje się. Do tytułu wykonawczego wierzyciel dołącza dowód doręczenia upomnienia, a jeżeli doręczenie upomnienia nie było wymagane, podaje w tytule wykonawczym podstawę prawną braku tego obowiązku.
+**Art. 128.** Do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 26 § 2 ustawy zmienianej w art. 111 , przepisu art. 27 § 1 pkt 12 tej ustawy nie stosuje się. Do tytułu wykonawczego wierzyciel dołącza dowód doręczenia upomnienia, a jeżeli doręczenie upomnienia nie było wymagane, podaje w tytule wykonawczym podstawę prawną braku tego obowiązku.
 
-**Art. 129.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 111 pkt 16, który wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: B. Komorowski
+**Art. 129.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 111 pkt 16, który wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia .
 

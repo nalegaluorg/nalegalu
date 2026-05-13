@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# 2. w sprawach przed organami, o któ rych mowa w ust. 1, umarza ze skarg w sprawach z zakresu kontroli publikacji i widowisk, przed Naczelnym Administracyjnym, umorzeniu.
+# (cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:5)(cid:8)(cid:2)(cid:9)(cid:10)(cid:11)(cid:6)(cid:12)(cid:13)(cid:2)(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:6)(cid:14)(cid:15)(cid:2)(cid:12)(cid:2)(cid:1)(cid:16)(cid:17)(cid:6)(cid:7)(cid:5)(cid:3)(cid:6)(cid:14)(cid:18)(cid:5)(cid:2)(cid:5)(cid:2)(cid:19)(cid:3)(cid:5)(cid:6)(cid:20)(cid:6)(cid:21)(cid:7)(cid:1)(cid:22)(cid:14)(cid:5)(cid:2)(cid:10)(cid:23)(cid:24)(cid:20)(cid:19)(cid:3)(cid:5)(cid:8)(cid:21)(cid:14)(cid:3)(cid:1)(cid:22)(cid:14)(cid:5)(cid:25)
+
+*USTAWA z dnia 27 kwietnia 1990 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,23 +26,7 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19900290175) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1990/175/text.pdf) |
 
-3. Rejestr dzienników i czasopism, prowadzony do tychczas w Kontroli Publikacji i Wido wisk, zostanie przekazany w 30 dni od dnia cia w niniejszej ustawy woje wódzkim.
-4. Dzienniki i czasopisma zarejestrowane do dnia cia w niniejszej ustawy
-5.
-za zarejestrowane w rozumieniu jej przepisów.
-w sprawach rejestracji dzienników lub czasopism, w dniu w niniejszej ustawy w Kontroli Publikacji i Widowisk, oraz ze skarg w tych sprawach, przed Naczelnym Administracyjnym,
+**Art. 1.** (cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:8)(cid:9)(cid:2)(cid:10)(cid:2)(cid:11)(cid:12)(cid:8)(cid:6)(cid:2)(cid:13)(cid:14)(cid:2)(cid:4)(cid:5)(cid:15)(cid:16)(cid:10)(cid:12)(cid:8)(cid:6)(cid:2)(cid:17)(cid:18)(cid:18)(cid:14)(cid:2)(cid:19)(cid:20)(cid:2)(cid:21)(cid:2)(cid:10)(cid:22)(cid:8)(cid:6)(cid:12)(cid:6)(cid:16)(cid:23)(cid:2)(cid:7)(cid:2)(cid:21)(cid:19)(cid:24)(cid:6)(cid:12)(cid:8)(cid:10)(cid:6)(cid:16)(cid:25)(cid:8)(cid:2)(cid:8)(cid:2)(cid:11)(cid:10)(cid:8)(cid:6)(cid:26)(cid:6)(cid:27)(cid:12)(cid:21)(cid:28)(cid:16)(cid:8)(cid:2)(cid:4)(cid:29)(cid:30)(cid:26)(cid:11)(cid:10)(cid:8)(cid:9)(cid:27)(cid:16)(cid:10)(cid:21)(cid:28)(cid:16)(cid:8)(cid:2)(cid:31) (cid:10)(cid:20)!(cid:20)(cid:2)"(cid:19)(cid:2)#$(cid:2)(cid:29)(cid:21)(cid:10)(cid:20)(cid:2)%#(cid:2)(cid:8)(cid:2)"(cid:19)(cid:2)(cid:17)(cid:17)$(cid:2)(cid:29)(cid:21)(cid:10)(cid:20)(cid:2)(cid:2)&’((cid:2)(cid:7)(cid:2)(cid:6)(cid:19)(cid:5)(cid:20)(cid:2))(cid:2)(cid:7)(cid:2)(cid:3)(cid:4)(cid:5)(cid:20)(cid:2)(cid:17)(cid:2)(cid:7)(cid:15)(cid:19)(cid:6)(cid:10)(cid:15)(cid:2)*(cid:7)(cid:2)(cid:5)(cid:9)(cid:19)(cid:22)i(cid:12)(cid:8)(cid:9)(cid:2)(cid:5)(cid:19)(cid:10)(cid:9)(cid:16)(cid:23)(cid:2)(cid:22)(cid:8)(cid:9)(cid:4)(cid:8)+(cid:16)(cid:15)(cid:2)(cid:21)(cid:11)(cid:2)(cid:7)(cid:9)(cid:25)(cid:28)(cid:16)(cid:8)(cid:6)(cid:2)(cid:7)(cid:2),(cid:15)(cid:16)(cid:8)(cid:9)(cid:2)(cid:12)(cid:8)(cid:12)(cid:8)(cid:9)(cid:25)(cid:4)(cid:10)(cid:9)(cid:25)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:15)-(cid:2)(cid:10)(cid:6)(cid:4)(cid:5)+(cid:29)(cid:3)(cid:25)(cid:9)(cid:2)(cid:4)(cid:8)+(cid:2)(cid:7)(cid:15)(cid:19)(cid:6)(cid:10)(cid:6)(cid:22)(cid:8)(cid:2)*(cid:2)(cid:7) terminie do dnia 30 czerwca 1990 r.”
 
-**Art. 3.** Traci moc ustawa z dnia 31 lipca 1981 r. o kontroli publikacji i widowisk (Dz. U. Nr 20, poz. 99, z 1983 r. Nr 44, poz. 204, z 1984 r. Nr 5, poz. 24, z 1987 r. Nr 37, poz. 209 oraz z 1989 r. Nr 34, poz. 178 i 186).
-
-**Art. 4.** Ustawa wchodzi w po 30 dni od dnia Prezydent Rzeczypospolitej Polskiej: W. Jaruzelski 174 USTAWA z dnia 26 kwietnia 1990 r. o kadencji organów oraz o zawieszeniu wyborczych.
-
-**Art. 1.** Kadencję organów do których stosuje przepisy ustawy z dnia 4 maja 1982 r. o szkolnict wie (Dz. U. z 1985 r. Nr 42, poz. 201, z 1987 r. Nr 22, poz. 128, z 1989 r. Nr 4, poz. 24, Nr 6, poz. 33, Nr 20, poz. 104, Nr 29, poz. 154, Nr 34, poz. 181 i Nr 35, poz. 192 oraz z 1990 r. Nr 14, poz. 86). do dnia 30 listopada 1990 r.
-
-**Art. 2.** Terminy wyborczych, w rozdziale 2 II ustawy, o której mowa wart. 1, zawiesza a wyborczym przed dniem w niniejszej ustawy nie nadaje dalszego biegu.
-
-**Art. 3.** Ustawa wchodzi w z dniem Prezydent Rzeczypospolitej Polskiej: W. Jaruzelski 175 USTAWA z dnia 27 kwietnia 1990 r. o zmianie usta'wy o zmianach w organizacji i
-
-**Art. 1.** W ustawie z dnia 20 stycznia 1990 r. o zmianach w organizacji i (Dz. U. Nr 6, poz. 36 i Nr 11, poz. 74) wart. 8w ust. 1 wyrazy "w terminie trzech od w niniejszej ustawy" wyrazami "w terminie do dnia 30 czerwca 1990 r.".
-
-**Art. 2.** Ustawa wchodzi w z dniem Prezydent Rzeczypospolitej Polskiej: W. Jaruzelski 176 RADY MINISTRÓW z dnia 27 kwietnia 1990 r. w sprawie rodzinnych z ubezpieczenia rolników indywidualnych i ich rodzin. Na podstawie art. 13 ust. 2 ustawy z dnia 14 grudnia 1982 r. o ubezpieczeniu rolników indywidual nych i ich rodzin (Dz. U. z 1989 r. Nr 24, poz. 133 i Nr 35, poz. 190 oraz z 1990 r. Nr 14, poz. 90) co 1. zasady i tryb przyznawania oraz rodzinnych na dzieci, cych ubezpieczonym, o których mowa wart. 13 ust. 1 ustawy z dnia 14 grudnia 1982 r. o ubezpieczeniu rolników indywidualnych i ich rodzin (Dz. U.
+**Art. 2.** !(cid:4)(cid:5)(cid:6)(cid:7)(cid:6)(cid:2)(cid:7)(cid:16)(cid:23)(cid:21)(cid:11)(cid:10)(cid:8)(cid:2)(cid:7)(cid:2),(cid:15)(cid:16)(cid:8)(cid:9)(cid:2)(cid:10)(cid:2)(cid:11)(cid:12)(cid:8)(cid:9)(cid:22)(cid:2)(cid:21)(cid:24)(cid:26)(cid:21)(cid:4)(cid:10)(cid:9)(cid:12)(cid:8)(cid:6)(cid:20)
 

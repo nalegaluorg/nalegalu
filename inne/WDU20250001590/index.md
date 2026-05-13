@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 21 listopada 2025 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy cmentarzach i chowaniu zmarłych
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 7 listopada 2025 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2025-11-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001590) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1590/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 7 listopada 2025 r.
-sprawie ogłoszenia jednolitego tekstu ustawy cmentarzach i chowaniu zmarłych
 1. Na podstawie 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 31 stycznia 1959 r. cmentarzach i chowaniu zmarłych (Dz. U. z 2024 r. poz. 576), z uwzględnieniem zmian wprowadzonych ustawą z dnia 24 kwietnia 2025 r. zmianie ustawy Państwowym Ratownictwie Medycznym oraz niektórych innych ustaw (Dz. U. poz. 637) oraz zmian wynikających z przepisów ogłoszonych przed dniem 6 listopada 2025 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje 26 ustawy z dnia 24 kwietnia 2025 r. zmianie ustawy Państwowym Ratownictwie Medycznym oraz niektórych innych ustaw (Dz. U. poz. 637), który stanowi: „Art. 26. Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 1) 9, który wchodzi życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 25 marca 2025 r.;

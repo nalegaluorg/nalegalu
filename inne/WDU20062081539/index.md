@@ -10,7 +10,9 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# Ustawa z dnia 18 października 2006 r. o wyrobie napojów spirytusowych
+# o wyrobie napojów spirytusowych
+
+*USTAWA z dnia 18 października 2006 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -30,23 +32,23 @@ domain: null
 
 1. Ustawa określa:
 
-- **1)** zasady wykonywania działalności gospodarczej wzakresie wyrobu lub rozlewu napojów spirytusowych oraz obrotu tymi napojami;
-- **2)** warunki ochrony na terytorium Rzeczypospolitej Polskiej oznaczeń geograficznych napojów spirytusowych zgodnie z wymaganiami określonymi rozporządzeniu Rady (EWG) nr 1576/89 z dnia 29maja 1989 r. ustanawiającym ogólne zasady definicji, opisu i prezentacji napojów spirytusowych (Dz. Urz. WE L160 z12.06.1989, str. 1, zpóên. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 9, str. 59, z póên. zm.), zwanym dalej Ńrozporządzeniem nr 1576/89”;
-- **3)** wymagania dotyczące napojów spirytusowych zakresie nieuregulowanym w: WE L 105 z 25.04.1990, str. 9, z póên. zm.; Dz.Urz. UE Polskie wydanie specjalne, rozdz. 3, t.10, str. 64, zpóên. zm.), zwanym dalej Ńrozporządzeniem nr 1014/90”.
-    - **a)** rozporządzeniu nr 1576/89,
-    - **b)** rozporządzeniu Komisji (EWG) nr 1014/90 zdnia 24 kwietnia 1990 r. ustanawiającym szczegółowe przepisy wykonawcze dla definicji, opisu i prezentacji napojów spirytusowych (Dz. Urz.
+- **1)** zasady wykonywania działalności gospodarczej zakresie wyrobu lub rozlewu napojów spirytusowych rozumieniu art. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/787 z dnia 17 kwietnia 2019 r. sprawie definicji, opisu, prezentacji i etykietowania napojów spirytusowych, stosowania nazw napojów spirytusowych prezentacji i etykietowaniu innych środków spożywczych, ochrony oznaczeń geograficznych napojów spirytusowych, wykorzystywania alkoholu etylowego i destylatów pochodzenia rolniczego napojach alkoholowych, a także uchylającego rozporządzenie (WE) nr 110/2008 (Dz. Urz. UE L 130 z 17.05.2019, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 2019/787”;
 
 2. Przepisów ustawy nie stosuje się do napojów spirytusowych wytworzonych domowym sposobem, na własny użytek i nieprzeznaczonych do obrotu.
 
-3. Napoje spirytusowe, o których mowa ust. 2, nie mogą być wytwarzane bezpośrednio wwyniku detusowego na krajową listę chronionych oznaczeń geograficznych napojów spirytusowych zakresie nieuregulowanym ustawą stosuje się przepisy Kodeksu postępowania administracyjnego.
+3. Napoje spirytusowe, o których mowa ust. 2, nie mogą być wytwarzane bezpośrednio wyniku destylacji po fermentacji alkoholowej.
+
+**Art. 1a.** Minister właściwy do spraw rynków rolnych, zwany dalej „ministrem”, wykonuje obowiązki państwa członkowskiego Unii Europejskiej zakresie powiadamiania Komisji Europejskiej o organie wyznaczonym do:
+
+**Art. 2.** (uchylony)
 
 #### Rozdział 2 Zasady wykonywania działalności gospodarczej zakresie wyrobu lub rozlewu napojów spirytusowych i obrotu tymi napojami
 
 **Art. 3.**
 
-1. Działalność gospodarcza zakresie wyrobu lub rozlewu napojów spirytusowych jest działalnością regulowaną rozumieniu przepisów ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. 173, poz. 1807, z póên. zm. stylacji po fermentacji alkoholowej.
+1. Działalność gospodarcza zakresie wyrobu napojów spirytusowych, tym rozlewu tych napojów przez tego samego przedsiębiorcę, który je wyrobił, lub rozlewu napojów spirytusowych przez przedsiębiorcę, który ich nie wyrobił, zwana dalej „działalnością gospodarczą zakresie wyrobu lub rozlewu napojów spirytusowych”, jest działalnością regulowaną, o której mowa przepisach ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2025 r. poz. 1480), i wymaga uzyskania wpisu do rejestru działalności zakresie wyrobu lub rozlewu napojów spirytusowych, zwanego dalej „rejestrem”. prowadzonej na podstawie zezwolenia na sprzedaż napojów alkoholowych, o którym mowa art. 18 ust. 1 ustawy z dnia 26 października 1982 r. o wychowaniu trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2023 r. poz. 2151), i które są przeznaczone do spożycia wyłącznie miejscu sprzedaży,
 
-**Art. 2.** Do postępowania sprawie oceny wniosków owpis oznaczenia geograficznego napoju spiry) i wymaga uzyskania wpisu do rejestru działalności zakresie wyrobu lub rozlewu napojów spirytusowych, zwanego dalej Ńrejestrem”. 2. Działalność gospodarcza zakresie wyrobu napojów spirytusowych obejmuje również rozlew wyrobionych napojów spirytusowych.
+- **3)** od których zapłacono podatek akcyzowy zgodnie z przepisami ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2025 r. poz. 126, 222 i 340) – nie jest działalnością regulowaną i nie podlega wpisowi do rejestru.
 
 **Art. 4.**
 
@@ -62,243 +64,252 @@ domain: null
     - **b)** dróg przemieszczania surowców i produktów gotowych,
     - **c)** stanowisk pracy;
 
-- **3)** wyznaczyć osobę odpowiedzialną za kontrolę jakości napojów spirytusowych. USTAWA z dnia 18 paêdziernika 2006 r. o wyrobie napojów spirytusowych oraz o rejestracji i ochronie oznaczeń geograficznych napojów spirytusowych ———————
+- **3)** wyznaczyć osobę odpowiedzialną za kontrolę jakości napojów spirytusowych.
 
-2. Obiekty budowlane i urządzenia techniczne przeznaczone do wykonywania działalności gospodarczej zakresie wyrobu lub rozlewu napojów spirytusowych powinny spełniać wymagania określone odrębnych przepisach, szczególności o ochronie przeciwpożarowej i sanitarnych oraz wynikające z przepisów dotyczących ochrony środowiska.
+2. Przedsiębiorca, o którym mowa ust. 1, zapewnia spełnianie przez obiekty budowlane i urządzenia techniczne przeznaczone do wykonywania działalności gospodarczej zakresie wyrobu lub rozlewu napojów spirytusowych wymagań określonych przepisach o ochronie przeciwpożarowej, sanitarnych i o ochronie – właściwych ze względu na planowane miejsce wykonywania działalności gospodarczej zakresie wyrobu lub rozlewu napojów spirytusowych.
 
 3. Działalność gospodarczą zakresie wyrobu lub rozlewu napojów spirytusowych może wykonywać przedsiębiorca:
 
 - **1)** posiadający tytuł prawny do obiektów budowlanych, których ma być wykonywana taka działalność;
-- **2)** niekarany za przestępstwa przeciwko mieniu, wiarygodności dokumentów, obrotowi pieniędzmi i papierami wartościowymi, przeciwko obrotowi gospodarczemu lub za przestępstwo skarbowe, a przypadku przedsiębiorcy będącego osobą prawną którego członek zarządu nie był karany za te przestępstwa.
+- **2)** który nie był skazany prawomocnym wyrokiem sądu za przestępstwo przeciwko wiarygodności dokumentów, przeciwko mieniu, przeciwko obrotowi gospodarczemu, przeciwko obrotowi pieniędzmi i papierami wartościowymi lub za przestępstwo skarbowe, a przypadku przedsiębiorcy będącego: podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm. ), wykonania decyzji określającej lub ustalającej wysokość zobowiązania podatkowego, o której mowa art. 52 ust. 3a ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym, co potwierdzają wydane na jego wniosek zaświadczenia.
+    - **a)** osobą prawną – którego członek zarządu nie był skazany prawomocnym wyrokiem sądu za przestępstwo przeciwko wiarygodności dokumentów, przeciwko mieniu, przeciwko obrotowi gospodarczemu, przeciwko obrotowi pieniędzmi i papierami wartościowymi lub za przestępstwo skarbowe,
+    - **b)** spółką jawną – którego wspólnik nie był skazany prawomocnym wyrokiem sądu za przestępstwa, o których mowa lit. a, a przypadku wspólnika będącego osobą prawną – którego członek zarządu nie był skazany prawomocnym wyrokiem sądu za te przestępstwa,
+    - **c)** spółką komandytową – którego komplementariusz nie był skazany prawomocnym wyrokiem sądu za przestępstwa, o których mowa lit. a, a przypadku komplementariusza będącego osobą prawną – którego członek zarządu nie był skazany prawomocnym wyrokiem sądu za te przestępstwa,
+    - **d)** spółką komandytowo-akcyjną – którego członek zarządu nie był skazany prawomocnym wyrokiem sądu za przestępstwa, o których mowa lit. a;
 
-**Art. 5.** Organem prowadzącym rejestr jest minister właściwy do spraw rynków rolnych, zwany dalej Ńministrem”.
+**Art. 5.** Rejestr prowadzi Dyrektor Generalny KOWR.
 
 **Art. 6.**
 
-1. Wpisu do rejestru oraz zmiany wpisu rejestrze dokonuje się na pisemny wniosek przedsiębiorcy.
+1. Wpisu do rejestru oraz zmiany wpisu rejestrze dokonuje się na wniosek przedsiębiorcy złożony na formularzu udostępnionym na stronie internetowej KOWR.
 
-2. Wniosek owpis do rejestru zawiera następujące dane:
+2. Wniosek o wpis do rejestru zawiera:
 
-- **1)** firmę przedsiębiorcy, jego siedzibę i adres albo miejsce zamieszkania i adres;
-- **2)** numer wrejestrze przedsiębiorców albo Ewidencji Działalności Gospodarczej;
-- **3)** numer identyfikacji podatkowej (NIP), jeżeli przedsiębiorca taki numer posiada;
-- **4)** określenie rodzaju izakresu działalności gospodarczej, która będzie wykonywana;
-- **5)** wskazanie miejsca lub miejsc wykonywania działalności gospodarczej;
-- **6)** oświadczenie, że dniu złożenia wniosku:
-    - **a)** przedsiębiorca posiada aktualne zaświadczenia: obraku zaległości ztytułu cła ipodatków stanowiących dochód budżetu państwa, składek na ubezpieczenie społeczne i zdrowotne, o niekaralności za przestępstwa, o których mowa art. 4 ust. 3 pkt 2, komendanta powiatowego Państwowej Strab) przedsiębiorca posiada dokumenty wydane przez właściwe organy ochrony środowiska potwierdzające spełnienie wymagań wynikających z przepisów dotyczących ochrony środowiska,
-    - **c)** wobec przedsiębiorcy nie jest prowadzone postępowanie egzekucyjne, likwidacyjne lub upadłościowe, z wyjątkiem postępowania upadłościowego z możliwością zawarcia układu.
+- **1)** firmę przedsiębiorcy, jego siedzibę i adres oraz adres do doręczeń;
+- **2)** numer Krajowym Rejestrze Sądowym, o ile przedsiębiorca taki numer posiada;
+- **3)** numer identyfikacji podatkowej (NIP);
+- **4)** wskazanie: likwidacyjne lub upadłościowe, – spełnia wymagania określone art. 4 ust. 1 pkt 2 i 3 oraz ust. 2 i 3,
+    - **a)** rodzaju działalności gospodarczej, która będzie wykonywana, spośród następujących: – wyrób napojów spirytusowych, tym rozlew wyrobionych napojów spirytusowych, lub – rozlew napojów spirytusowych wyrobionych przez innego przedsiębiorcę,
+    - **b)** maksymalnej rocznej wielkości takiego wyrobu lub takiego rozlewu napojów spirytusowych ramach działalności gospodarczej, która będzie wykonywana, wyrażonej litrach alkoholu 100 % objętościowych (obj.);
+    - **b)** dane zawarte we wniosku o wpis do rejestru są kompletne i zgodne z prawdą.
 
-3. Wniosek ozmianę wpisu wrejestrze zawiera firmę przedsiębiorcy, jego siedzibę i adres albo miejsce zamieszkania i adres oraz wskazanie zakresu, jakim dane zawarte rejestrze powinny ulec zmianie, przy czym, jeżeli zmiana dotyczy określenia rodzaju izakresu działalności gospodarczej objętej wpisem lub określenia miejsca lub miejsc wykonywania działalności gospodarczej, wniosek ten powinien zawierać również oświadczenie, o którym mowa ust. 2 pkt 6.
+3. Wniosek o zmianę wpisu rejestrze zawiera dane określone ust. 2 pkt 1–3 i wskazanie danych zawartych rejestrze, które uległy zmianie, przy czym, jeżeli zmiana dotyczy wskazania rodzaju wykonywanej działalności gospodarczej objętej wpisem do rejestru lub maksymalnej rocznej wielkości wyrobu lub rozlewu ramach tej działalności lub określenia miejsca lub miejsc jej wykonywania, wniosek zawiera również oświadczenie zakresie, o którym mowa ust. 2 pkt 6.
 
-4. Wraz z wnioskiem, o którym mowa ust. 1, przedsiębiorca składa oświadczenie następującej treści: ŃOświadczam, że:
+3a. W przypadku zmiany danych zawartych rejestrze innych niż:
 
-- **1)** dane zawarte we wniosku są kompletne i zgodne z prawdą;
-- **2)** znane mi są i spełniam warunki wykonywania działalności gospodarczej zakresie wyrobu lub rozlewu napojów spirytusowych, określone wustawie zdnia 18 paêdziernika 2006 r. owyrobie napojów spirytusowych oraz o rejestracji i ochronie oznaczeń geograficznych napojów spirytusowych.”.
+- **1)** wskazanie rodzaju wykonywanej działalności gospodarczej objętej wpisem do rejestru lub
+- **2)** wskazanie maksymalnej rocznej wielkości wyrobu lub rozlewu ramach wykonywanej działalności gospodarczej, lub
+- **3)** określenie miejsca lub miejsc wykonywania działalności gospodarczej – wniosek o zmianę wpisu rejestrze zawiera oświadczenie zakresie, o którym mowa ust. 2 pkt 6 lit. b.
+
+4. (uchylony)
+
+5. Oświadczenie, o którym mowa ust. 2 pkt 6, ust. 3 i 3a, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia nim klauzuli o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+
+6. Jeżeli wniosek o wpis do rejestru spełnia wymagania określone ust. 1, 2 i 5 oraz nie zachodzą przesłanki odmowy wpisu do rejestru określone przedsiębiorców, Dyrektor Generalny KOWR dokonuje zmiany wpisu rejestrze.
 
 **Art. 7.**
 
-1. Do rejestru wpisuje się dane, o których mowa art. 6 ust. 2 pkt 1—5, oraz datę dokonania wpisu.
+1. Do rejestru wpisuje się dane, o których mowa art. 6 ust. 2 pkt 1– 5, oraz datę dokonania wpisu.
 
-2. Rejestr jest prowadzony formie papierowej. Rejestr może być również prowadzony wsystemie informatycznym.
+2. (uchylony)
 
-3. Rejestr jest jawny. ży Pożarnej oraz państwowego powiatowego inspektora sanitarnego stwierdzające, że obiekty budowlane i urządzenia techniczne przeznaczone do wykonywania działalności gospodarczej objętej wnioskiem spełniają
+3. Rejestr jest jawny.
 
-4. Minister wydaje zurzędu zaświadczenie odokonaniu wpisu do rejestru lub zaświadczenie o zmianie wpisu rejestrze.
+4. Dyrektor Generalny KOWR wydaje z urzędu zaświadczenie o dokonaniu wpisu do rejestru albo zaświadczenie o zmianie wpisu rejestrze.
 
-**Art. 8.**
+5. Dyrektor Generalny KOWR prostuje z urzędu wpis rejestrze zawierający oczywiste błędy lub niezgodności ze stanem faktycznym.
 
-1. Minister wydaje decyzję o zakazie wykonywania przez przedsiębiorcę działalności zakresie wyrobu lub rozlewu napojów spirytusowych przypadkach określonych ustawie z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej oraz przypadku cofnięcia przez właściwego dla podatnika naczelnika urzędu celnego zezwolenia na prowadzenie składu podatkowego.
+6. W przypadku zmiany danych wpisanych do rejestru przedsiębiorca jest obowiązany złożyć wniosek o zmianę wpisu rejestrze terminie 14 dni od dnia, którym nastąpiła zmiana tych danych.
 
-2. W przypadku gdy decyzja, o której mowa wust.1, stała się ostateczna, minister zurzędu wykreśla wpis przedsiębiorcy rejestrze. wyrobu lub rozlewu napojów spirytusowych jest obowiązany zawiadomić otym ministra wterminie 14 dni od dnia zakończenia albo zawieszenia wykonywania działalności gospodarczej.
+**Art. 7a.**
 
-**Art. 10.** Wsprawach nieuregulowanych wustawie dotyczących podejmowania, wykonywania izakończenia działalności gospodarczej zakresie wyrobu lub rozlewu napojów spirytusowych stosuje się przepisy ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej.
+1. Wpisu przedsiębiorcy do rejestru dokonuje się terminie 7 dni od dnia wpływu do Dyrektora Generalnego KOWR wniosku o wpis do rejestru.
+
+2. Jeżeli Dyrektor Generalny KOWR nie dokona wpisu terminie, o którym mowa ust. 1, a od dnia wpływu wniosku o wpis do rejestru upłynęło 14 dni, przedsiębiorca może rozpocząć wykonywanie działalności gospodarczej po uprzednim zawiadomieniu o tym Dyrektora Generalnego KOWR na piśmie. Nie dotyczy to przypadku, gdy Dyrektor Generalny KOWR wezwał przedsiębiorcę do uzupełnienia wniosku o wpis do rejestru nie później niż przed upływem 7 dni od dnia otrzymania tego wniosku. W takim przypadku termin, o którym mowa zdaniu pierwszym, biegnie od dnia wpływu do Dyrektora Generalnego KOWR uzupełnienia wniosku o wpis do rejestru.
+
+3. Przepisy ust. 1 i 2 stosuje się odpowiednio do wniosku o zmianę wpisu rejestrze.
+
+- **2)** nieusunięcia przez przedsiębiorcę naruszeń warunków wymaganych prawem do wykonywania działalności, o której mowa art. 3, wyznaczonym przez Dyrektora Generalnego KOWR terminie;
+- **3)** stwierdzenia przez Dyrektora Generalnego KOWR rażącego naruszenia warunków wymaganych prawem do wykonywania działalności, o której mowa art. 3, przez przedsiębiorcę;
+- **4)** cofnięcia przez właściwego dla podatnika naczelnika urzędu skarbowego zezwolenia na prowadzenie składu podatkowego, z uwagi na:
+    - **a)** zaległości z tytułu cła i podatków stanowiących dochód budżetu państwa, składek na ubezpieczenia społeczne i zdrowotne,
+    - **b)** kierowanie podmiotem przez osoby skazane prawomocnym wyrokiem sądu za przestępstwo przeciwko wiarygodności dokumentów, przeciwko mieniu, przeciwko obrotowi gospodarczemu, przeciwko obrotowi pieniędzmi i papierami wartościowymi lub przestępstwo skarbowe,
+    - **c)** prowadzenie działalności niezgodnie z uzyskanym zezwoleniem,
+    - **d)** nieposiadanie tytułu prawnego do korzystania z miejsca, którym prowadzono skład podatkowy.
+
+1a. Decyzja, o której mowa ust. 1, podlega natychmiastowemu wykonaniu.
+
+1b. Przed wydaniem decyzji na podstawie ust. 1 pkt 2 Dyrektor Generalny KOWR wzywa przedsiębiorcę do usunięcia stwierdzonych naruszeń wyznaczonym terminie nie krótszym niż 7 dni od dnia otrzymania wezwania.
+
+2. (uchylony)
+
+3. Dyrektor Generalny KOWR powiadamia Szefa Krajowej Administracji Skarbowej o wydaniu decyzji, o której mowa ust. 1.
+
+**Art. 8a.**
+
+1. Przedsiębiorca, wobec którego wydano decyzję o zakazie wykonywania działalności, o której mowa art. 8 ust. 1, może uzyskać wpis do rejestru tym samym zakresie działalności gospodarczej nie wcześniej niż po upływie 3 lat od dnia wydania decyzji. lub wystąpienia innego zdarzenia prawnego, wyniku których nastąpiło następstwo prawne, Dyrektor Generalny KOWR dokonuje zmiany wpisu rejestrze na wniosek następcy prawnego tego przedsiębiorcy, jeżeli ten następca prawny złoży:
+
+- **1)** wniosek o zmianę wpisu rejestrze oraz przeniesienie na niego uprawnień wynikających z wpisu do rejestru;
+- **2)** oświadczenie zakresie, o którym mowa art. 6 ust. 2 pkt 6.
+
+2. Do wniosku, o którym mowa ust. 1 pkt 1, następca prawny dołącza dokument potwierdzający fakt zaistnienia następstwa prawnego, a jeżeli jest kilku właścicieli przedsiębiorstwa – pisemną zgodę pozostałych właścicieli przedsiębiorstwa na przeniesienie na wnioskującego właściciela przedsiębiorstwa uprawnień wynikających z wpisu do rejestru.
+
+3. Wniosek, o którym mowa ust. 1 pkt 1, składa się terminie 6 miesięcy od dnia wykreślenia przedsiębiorcy wpisanego do rejestru z Centralnej Ewidencji i Informacji o Działalności Gospodarczej albo Krajowego Rejestru Sądowego.
+
+4. W przypadku gdy wniosek, o którym mowa ust. 1 pkt 1, został złożony po terminie, o którym mowa ust. 3, nie wszczyna się postępowania sprawie zmiany wpisu rejestrze.
+
+5. Do dokonania wpisu do rejestru zmienionych danych, przypadkach określonych ust. 1, stosuje się odpowiednio przepisy art. 6 ust. 2, 5 i 6.
+
+6. Jeżeli zostały spełnione wymagania, o których mowa ust. 2 i art. 6 ust. 2 pkt 6, następca prawny może wykonywać uprawnienia wynikające z wpisu przedsiębiorcy do rejestru także przed dokonaniem zmiany wpisu rejestrze. Od dnia złożenia wniosku, o którym mowa ust. 1 pkt 1, następca prawny jest obowiązany wykonywać obowiązki związane z wpisem do rejestru.
+
+7. Jeżeli zostały spełnione określone ustawie wymagania dotyczące przeniesienia na następcę prawnego uprawnień wynikających z wpisu do rejestru, Dyrektor Generalny KOWR dokonuje zmiany wpisu rejestrze. o zakończeniu albo zawieszeniu wykonywania działalności gospodarczej zakresie wyrobu lub rozlewu napojów spirytusowych terminie 14 dni od dnia zakończenia albo zawieszenia wykonywania danego rodzaju działalności gospodarczej.
+
+**Art. 9a.**
+
+1. Dyrektor Generalny KOWR wykreśla przedsiębiorcę z rejestru:
+
+- **1)** na jego wniosek;
+- **2)** przypadku gdy:
+    - **a)** przedsiębiorca nie jest wpisany do Centralnej Ewidencji i Informacji o Działalności Gospodarczej albo Krajowego Rejestru Sądowego od 6 miesięcy od dnia uzyskania informacji z Centralnej Ewidencji i Informacji o Działalności Gospodarczej albo Krajowego Rejestru Sądowego o braku wpisu albo wykreśleniu przedsiębiorcy,
+    - **b)** decyzja, o której mowa art. 8 ust. 1, stała się ostateczna,
+    - **c)** następca prawny nie złoży wniosku, o którym mowa art. 8b ust. 1 pkt 1, albo nie złoży tego wniosku terminie określonym art. 8b ust. 3.
+
+2. Wykreślenie, o którym mowa ust. 1 pkt 1, jest czynnością materialnotechniczną.
+
+**Art. 10.** W sprawach nieuregulowanych ustawie dotyczących podejmowania, wykonywania i zakończenia działalności gospodarczej zakresie wyrobu lub rozlewu napojów spirytusowych stosuje się przepisy ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
 
 **Art. 11.** Do obrotu mogą być wprowadzane napoje spirytusowe:
 
 **Art. 12.**
 
-1. Napoje spirytusowe zakresie spełniania wymagań określonych wrozporządzeniu nr 1576/89 oraz rozporządzeniu nr 1014/90, podlegają urzędowej kontroli przeprowadzanej przez organy Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych na podstawie ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2005 r. 187, poz. 1577 oraz z 2006 r. 170, poz.1217 i 171, poz. 1225).
+1. Kontrolę urzędową rozumieniu art. 2 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/625 z dnia 15 marca 2017 r. sprawie kontroli urzędowych i innych czynności urzędowych przeprowadzanych celu zapewnienia stosowania prawa żywnościowego i paszowego oraz zasad dotyczących zdrowia i dobrostanu zwierząt, zdrowia roślin i środków ochrony roślin, zmieniającego rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 999/2001, (WE) nr 396/2005, (WE) nr 1069/2009, (WE) nr 1107/2009, (UE) nr 1151/2012, (UE) nr 652/2014, (UE) 2016/429 i (UE) 2016/2031, rozporządzenia Rady (WE) nr 1/2005 i (WE) nr 1099/2009 oraz dyrektywy Rady 98/58/WE, 1999/74/WE, 2007/43/WE, 2008/119/WE i 2008/120/WE, oraz uchylającego rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 854/2004 i (WE) nr 882/2004, dyrektywy Rady 89/608/EWG, 89/662/EWG, 90/425/EWG, 91/496/EWG, 96/23/WE, 96/93/WE i 97/78/WE oraz decyzję Rady 92/438/EWG (rozporządzenie sprawie kontroli urzędowych) (Dz. Urz. UE L 95 z 07.04.2017, str. 1, z późn. zm. ) zakresie spełniania przez napoje spirytusowe wymagań określonych rozporządzeniu 2019/787 oraz przepisach wydanych jego trybie przeprowadzają wojewódzcy inspektorzy jakości handlowej artykułów rolno-spożywczych zgodnie z przepisami ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2023 r. poz. 1980).
 
-2. Minister określi, drodze rozporządzenia, metody analiz alkoholu etylowego pochodzenia rolniczego oraz metody pobierania próbek do celów urzędowej kontroli pod względem jakości handlowej, biorąc pod uwagę właściwą jakość napojów spirytusowych.
+2. (uchylony)
 
-#### Rozdział 3 Krajowa lista chronionych oznaczeń geograficznych napojów spirytusowych
+**Art. 12a.**
 
-**Art. 13.**
+1. Przedsiębiorca, który przeznacza albo przekazuje innemu przedsiębiorcy alkohol etylowy rozumieniu art. 93 ust. 1 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym, zwany dalej „alkoholem etylowym”, do wyrobu napojów spirytusowych, których opisie, prezentacji lub etykietowaniu akcyzowym, zwanym dalej „składem podatkowym”, oraz
 
-1. Oznaczeniem geograficznym napoju spirytusowego jest nazwa odnosząca się do nazwy miejsca, miejscowości, regionu na terytorium Rzeczypogeograficznych napojów spirytusowych, zwaną dalej Ńlistą”, jeżeli:
+- **2)** prowadzi ewidencję alkoholu etylowego leżakowanego składzie podatkowym, zwaną dalej „ewidencją leżakowania”.
 
-- **1)** napój spirytusowy swoje właściwości icechy charakterystyczne, związane z oddziaływaniem czynników naturalnych lub ludzkich, zawdzięcza pochodzeniu zmiejsca, miejscowości, regionu lub terytorium, do którego nawiązuje jego nazwa;
-- **2)** wszystkie etapy produkcji, trakcie których napój spirytusowy uzyskuje swoje cechy charakterystyczne i ostateczne właściwości, odbywają się miejscu, miejscowości, regionie lub na terytorium, do którego nawiązuje jego nazwa.
+2. W ewidencji leżakowania umieszcza się:
 
-3. Za oznaczenie geograficzne napoju spirytusowego uznaje się również nazwę ocharakterze geograficznym nieodpowiadającą dosłownie miejscu, miejscowości, regionowi lub terytorium, z którego pochodzi napój spirytusowy lub inne określenie używane tradycyjnie, jeżeli jest ono stosowane do napojów spirytusowych pochodzących zdanego miejsca, miejscowości, regionu lub terytorium.
+- **1)** firmę przedsiębiorcy, jego siedzibę i adres, adres do doręczeń oraz adres miejsca prowadzenia przez tego przedsiębiorcę składu podatkowego, którym leżakuje alkohol etylowy;
+- **2)** informacje o każdej partii leżakowanego alkoholu etylowego rozumianej jako wyodrębniona, jednolita ilość alkoholu etylowego o tych samych właściwościach organoleptycznych i fizykochemicznych, zwanej dalej „partią leżakowanego alkoholu”, wprowadzanej do składu podatkowego lub wyprowadzanej z tego składu podatkowego, wpisując:
+    - **a)** numer referencyjny elektronicznego dokumentu administracyjnego, o którym mowa rozporządzeniu Komisji (WE) nr 684/2009 z dnia 24 lipca 2009 r. sprawie wykonania dyrektywy Rady 2008/118/WE odniesieniu do skomputeryzowanych procedur przemieszczania wyrobów akcyzowych procedurze zawieszenia poboru akcyzy (Dz. Urz. UE L 197 z 29.07.2009, str. 24, z późn. zm. ), zwanego dalej „e-AD”, albo
+    - **b)** lokalny numer referencyjny umieszczony dokumencie zastępującym e-AD – przypadku gdy krajowy system teleinformatyczny służący do obsługi przemieszczania wyrobów akcyzowych z zastosowaniem procedury zawieszenia poboru akcyzy, o którym mowa przepisach o podatku akcyzowym, jest niedostępny, etylowym,
+    - **e)** kod klasyfikacyjny układzie odpowiadającym Nomenklaturze Scalonej (CN) zgodnej z rozporządzeniem Rady (EWG) nr 2658/87 z dnia 23 lipca 1987 r. sprawie nomenklatury taryfowej i statystycznej oraz sprawie Wspólnej Taryfy Celnej (Dz. Urz. WE L 256 z 07.09.1987, str. 1, z późn. zm. – Dz. Urz. UE Polskie wydanie alkoholu etylowego z danej partii leżakowanego alkoholu – również numer partii leżakowanego alkoholu, który został wydzielony,
+    - **g)** ilość alkoholu etylowego wyrażoną litrach alkoholu 100 % obj., a przypadku wydzielenia alkoholu etylowego z danej partii leżakowanego alkoholu – również ilość wydzielonego alkoholu etylowego;
 
-**Art. 14.**
+- **3)** informacje dotyczące leżakowania alkoholu etylowego składzie podatkowym odniesieniu do każdej partii leżakowanego alkoholu:
+    - **a)** przypadku rozpoczęcia leżakowania: – datę rozpoczęcia leżakowania, – – numer partii leżakowanego alkoholu, który został wydzielony, – ilość alkoholu etylowego wyrażoną litrach alkoholu 100 % obj., a przypadku wydzielenia alkoholu etylowego z danej partii leżakowanego alkoholu – również ilość wydzielonego alkoholu etylowego, – kod CN leżakowanego alkoholu, a przypadku leżakowanego napoju spirytusowego – nazwę prawną tego napoju, – okres leżakowania najmłodszego składnika alkoholowego, przypadku gdy alkohol etylowy był wcześniej leżakowany innym składzie podatkowym,
+    - **b)** przypadku przeprowadzania ramach leżakowania mieszania lub kupażowania alkoholu etylowego: – datę przeprowadzenia mieszania lub kupażowania, – ilość i rodzaje alkoholu etylowego wyrażone litrach alkoholu 100 % obj., które zostały pobrane z różnych partii leżakowanego alkoholu celu mieszania lub kupażowania, – numer partii leżakowanego alkoholu poddanego zmieszaniu lub kupażowaniu, a przypadku wydzielenia alkoholu etylowego z danej partii leżakowanego alkoholu – również: – – numer partii leżakowanego alkoholu, z której wydzielono alkohol etylowy, – – numer partii leżakowanego alkoholu, który został wydzielony, – ilość alkoholu etylowego wyrażoną litrach alkoholu 100 % obj., a przypadku wydzielenia alkoholu etylowego z danej partii leżakowanego alkoholu – również ilość wydzielonego alkoholu etylowego, – znak pojemnika, którym znajduje się alkohol etylowy po przeprowadzeniu mieszania lub kupażowania, alkoholu etylowego z danej partii leżakowanego alkoholu – również: – – numer partii leżakowanego alkoholu, z której wydzielono alkohol etylowy, – – numer partii leżakowanego alkoholu, który został wydzielony, – ilość alkoholu etylowego wyrażoną litrach alkoholu 100 % obj., a przypadku wydzielenia alkoholu etylowego z danej partii leżakowanego alkoholu – również ilość wydzielonego alkoholu etylowego, – znak pojemnika, którym wydano alkohol etylowy z leżakowni, – okres leżakowania najmłodszego składnika alkoholowego;
 
-1. Wpis na listę oznaczenia geograficznego napoju spirytusowego, którego używanie naruszałoby prawa ze znaku towarowego może nastąpić, jeżeli uprawniony do znaku towarowego zrzeknie się swojego prawa.
+- **4)** informacje, o których mowa pkt 3 lit. b, dotyczące mieszania lub kupażowania partii leżakowanego alkoholu po zakończeniu leżakowania;
+- **5)** informacje dotyczące rozlewu partii leżakowanego napoju spirytusowego do opakowań jednostkowych:
+    - **a)** datę rozlewu,
+    - **b)** okres leżakowania najmłodszego składnika alkoholowego,
+    - **c)** nazwę prawną napoju spirytusowego,
+    - **d)** numer partii: – leżakowanego alkoholu, z której wydzielono alkohol etylowy celu rozlewu do opakowań jednostkowych, – napoju spirytusowego rozlanego do opakowań jednostkowych,
+    - **e)** ilość napoju spirytusowego rozlanego do opakowań jednostkowych wyrażoną litrach alkoholu 100 % obj.
 
-2. Zrzeczenie się prawa ochronnego na znak towarowy nie jest wymagane, jeżeli zgłoszenie oznaczenia geograficznego napoju spirytusowego na listę zostało dokonane wuzgodnieniu zuprawnionym do znaku towarowego i obejmuje go jako osobę, która tej nazwy może używać, a utrzymanie mocy tego prawa nie ograniczy nadmiernie możliwości używania oznaczenia geograficznego napoju spirytusowego przez innych uprawnionych.
+3. Ewidencję leżakowania prowadzi się postaci papierowej lub elektronicznej odrębnie dla każdego składu podatkowego.
 
-3. Przy ocenie, czy ochrona znaku towarowego nie ograniczy nadmiernie możliwości używania oznaczenia geograficznego napoju spirytusowego przez innych uprawnionych, bierze się szczególności pod uwagę możliwości używania tego oznaczenia innych formach niż to przedstawia znak towarowy.
+4. W przypadku prowadzenia ewidencji leżakowania postaci:
 
-**Art. 15.** spolitej Polskiej lub, wyjątkowych przypadkach, do całego terytorium Rzeczypospolitej Polskiej, która identyfikuje napój spirytusowy jako pochodzący z tego miejsca, miejscowości, regionu lub terytorium. Z wnioskiem o wpis oznaczenia geograficznego napoju spirytusowego na listę, zwanym dalej Ńwnioskiem o wpis”, może wystąpić osoba fizyczna, osoba prawna lub jednostka organizacyjna nieposiadająca osobowości prawnej, prowadząca działalność gospodarczą zakresie wyrobu napojów spirytusowych na terytorium Rzeczypospolitej Polskiej lub organizacja zrzeszająca podmioty prowadzące działalność gospodarczą zakresie wyrobu napojów spirytusowych, zwana dalej Ńwnioskodawcą”.
+- **1)** papierowej: przeszycia pieczęcią urzędu i na ostatniej stronie ewidencji leżakowania wpisuje liczbę jej stron oraz składa podpis,
+    - **b)** wpisów do ewidencji leżakowania dokonuje się sposób trwały i wyraźny, a zmian i poprawek dokonuje się taki sposób, aby przekreślony pierwotny tekst pozostał czytelny; każdą zmianę lub poprawkę potwierdza podpis osoby dokonującej tej zmiany lub poprawki wraz z podaniem daty wprowadzenia tej zmiany lub poprawki; razie potrzeby zmianę lub poprawkę opisuje się rubryce „uwagi”;
 
-**Art. 16.**
+- **2)** elektronicznej:
+    - **a)** wykorzystuje się program komputerowy, który: – umożliwia właściwemu naczelnikowi wgląd treść dokonanych wpisów, – zapewnia ochronę przechowywanych danych przed zniekształceniem lub utratą, – umożliwia przedsiębiorcy, o którym mowa ust. 1, dokonanie korekty danych, identyfikację osoby dokonującej tej korekty oraz ustalenie daty jej dokonania, – umożliwia wygenerowanie porządku chronologicznym wpisów do ewidencji leżakowania i ich wydruk, – uniemożliwia usunięcie wpisów,
+    - **b)** przedsiębiorca, o którym mowa ust. 1, zapisuje tak prowadzoną ewidencję leżakowania na informatycznym nośniku danych sposób zapewniający ochronę przechowywanych danych przed zniekształceniem lub utratą.
 
-1. Wniosek o wpis może dotyczyć tylko jednego oznaczenia geograficznego napoju spirytusowego. Wniosek owpis sporządza się wjęzyku polskim pismem drukowanym czarnym kolorze.
+5. Przedsiębiorca, o którym mowa ust. 1, umieszcza ewidencji leżakowania informacje, o których mowa ust. 2, nie później niż dniu roboczym następującym po dniu, którym została wykonana dana czynność związana z leżakowanym alkoholem etylowym. do leżakowania;
 
-2. Wniosek o wpis składa się na piśmie formie
+- **2)** pobrania z leżakowni leżakowanego alkoholu etylowego z danej partii leżakowanego alkoholu z podaniem ilości alkoholu etylowego wyrażonej litrach alkoholu 100 % obj. pobranej z danego pojemnika;
+- **3)** kupażowania lub mieszania leżakowanego alkoholu etylowego z danej partii leżakowanego alkoholu z podaniem: pobranej z danego pojemnika,
+    - **a)** ilości alkoholu etylowego wyrażonej litrach alkoholu 100 % obj.
+    - **b)** okresu leżakowania najmłodszego składnika alkoholowego spośród leżakowanych, kupażowanych lub mieszanych alkoholi etylowych;
 
-**Art. 17.**
+- **4)** rozlewu do opakowań jednostkowych leżakowanych napojów spirytusowych z podaniem: rozlanej do opakowań jednostkowych,
+    - **a)** ilości alkoholu etylowego wyrażonej litrach alkoholu 100 % obj.
+    - **b)** okresu leżakowania najmłodszego składnika alkoholowego zastosowanego do wyrobu danego napoju spirytusowego.
 
-1. Wniosek o wpis zawiera: Art. 21. 1. Minister sprawdza wniosek o wpis pod względem spełnienia wymogów formalnych termi1) imię i nazwisko, miejsce zamieszkania oraz adres nie 30 dni od dnia wpłynięcia tego wniosku. albo nazwę, siedzibę i adres wnioskodawcy;
+7. Przedsiębiorca, o którym mowa ust. 1, przechowuje ewidencję leżakowania przez 5 lat, licząc od dnia wyprowadzenia ostatniej partii leżakowanego alkoholu ze składu podatkowego prowadzonego przez tego przedsiębiorcę.
 
-2. W przypadku stwierdzenia, że wniosek o wpis
+**Art. 12b.**
 
-- **2)** wskazanie: nie spełnia wymogów formalnych, minister wzywa
-    - **a)** osoby działającej imieniu wnioskodawcy, wnioskodawcę do usunięcia braków wyznaczonym terminie, nie krótszym niż 30 dni.
-    - **b)** adresu do korespondencji osoby działającej imieniu wnioskodawcy; 3. Przepis ust. 1 stosuje się do wniosku o wpis po usunięciu braków.
+1. Przedsiębiorca, o którym mowa art. 12a ust. 1, sporządza zgodnie z informacjami zawartymi ewidencji leżakowania kartę leżakowania alkoholu etylowego wyprowadzanego ze składu podatkowego:
 
-- **3)** opis napoju spirytusowego zawierający: barwy, parametrów fizykochemicznych, Art. 23. 1. Minister prowadzi ewidencję wniosków o wpis, zwaną dalej Ńewidencją”. zawartości alkoholu, którego odnosi się oznaczenie geograficzne napoju spirytusowego, 3) imię i nazwisko albo nazwę wnioskodawcy. o wpis.
-    - **a)** nazwę napoju spirytusowego, 4. W przypadku nieusunięcia braków wyznaczonym terminie minister pozostawia wniosek bez rozpob) ośmiocyfrowy kod Scalonej Nomenklatury (CN), znania.
-    - **c)** informacje dotyczące właściwości icech charak- Art. 22. Minister może wezwać wnioskodawcę do terystycznych napoju spirytusowego, szcze- wprowadzenia poprawek do wniosku o wpis celu gólności informacje dotyczące: usunięcia oczywistych omyłek i błędów językowych smaku, terminie 7 dni od dnia otrzymania wezwania. Pozapachu, prawki te nie mogą mieć wpływu na merytoryczną zawartość wniosku.
-    - **d)** dokładne określenie granic obszaru, do którego 2. Do ewidencji wpisuje się: odnosi się oznaczenie geograficzne napoju spi- 1) datę igodzinę wpłynięcia wniosku owpis do minirytusowego, stra;
-    - **e)** określenie szczególnych właściwości lub cech 2) zgłoszone oznaczenie geograficzne napoju spirycharakterystycznych napoju spirytusowego, do tusowego;
-    - **f)** metodę produkcji napoju spirytusowego, 3. Ewidencja jest jawna.
-    - **g)** streszczenie informacji zawartych lit. a—f, obejmujące nie więcej niż 5 stron, Art. 24. O kolejności rozpatrywania wniosków o wpis decydują data i godzina wpłynięcia wniosku
-    - **h)** wykaz dokumentów dołączonych do wniosku o wpis.
+- **1)** do innego składu podatkowego albo
+- **2)** jako napój spirytusowy rozlany do opakowań jednostkowych.
 
-**Art. 25.**
+2. Kartę leżakowania sporządza się postaci papierowej lub elektronicznej i podpisuje odpowiednio do sposobu utrwalenia podpisem własnoręcznym,
 
-1. Minister, wterminie 30 dni od dnia wpi2. Opis, o którym mowa ust. 1 pkt 3, jest jawny. sania do ewidencji danych, o których mowa art. 23 ust. 2:
+- **1)** firmę przedsiębiorcy, jego siedzibę i adres, adres do doręczeń oraz adres miejsca prowadzenia przez tego przedsiębiorcę składu podatkowego, z którego będzie wyprowadzona partia leżakowanego alkoholu;
+- **2)** kod CN leżakowanego alkoholu, a przypadku wyrobu leżakowanego napoju spirytusowego – nazwę prawną tego napoju;
+- **3)** okres leżakowania najmłodszego składnika alkoholowego;
+- **4)** numer partii leżakowanego alkoholu albo numer partii leżakowanego napoju spirytusowego rozlanego do opakowań jednostkowych;
+- **5)** ilość alkoholu etylowego wyrażoną litrach alkoholu 100 % obj.;
+- **6)** numer porządkowy karty leżakowania nadany przez przedsiębiorcę;
+- **7)** niepowtarzalny numer identyfikacyjny karty leżakowania;
+- **8)** oświadczenie przedsiębiorcy, że informacje zawarte karcie leżakowania są kompletne i zgodne z prawdą.
 
-**Art. 18.** Jeżeli dokumenty dołączone do wniosku owpis zostały sporządzone wjęzyku obcym, do wnio- 1) powiadamia o tym wnioskodawcę; sku o wpis dołącza się także ich tłumaczenie na język polski sporządzone przez tłumacza przysięgłego. 2) ogłasza dzienniku urzędowym ministra oraz na stronach internetowych urzędu obsługującego miArt. 19. 1. Jeżeli do wniosku o wpis dołączone są nistra informację o wpłynięciu wniosku o wpis, mapy, to powinny: podając:
+5. Niepowtarzalny numer identyfikacyjny karty leżakowania, o którym mowa ust. 4 pkt 7:
 
-**Art. 26.**
+- **1)** jest nadawany przez przedsiębiorcę, o którym mowa art. 12a ust. 1;
+- **2)** składa się z numeru:
+    - **a)** składu podatkowego, z którego jest wyprowadzany alkohol etylowy,
+    - **b)** porządkowego karty leżakowania.
 
-1. Osoba fizyczna, osoba prawna lub jednostka organizacyjna nieposiadająca osobowości prawnej, prowadząca działalność gospodarczą zakresie wyrobu napojów spirytusowych na terytorium Rzeczypospolitej Polskiej lub organizacja reprezentująca podmioty prowadzące działalność gospodarczą zakresie wyrobu napojów spirytusowych lub wyrobu alkoholu etylowego pochodzenia rolniczego, której interesu gospodarczego lub prawnego dotyczy postępowanie sprawie wpisu oznaczenia geograficznego napoju spirytusowego na listę, może złożyć do ministra zastrzeżenie do wniosku owpis wterminie 60 dni od dnia ogłoszenia dzienniku urzędowym ministra informacji o wpłynięciu tego wniosku.
+6. Oświadczenie, o którym mowa ust. 4 pkt 8, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia nim klauzuli o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
-2. Zastrzeżenie zawiera:
+7. Przedsiębiorca, o którym mowa art. 12a ust. 1:
 
-- **1)** imię i nazwisko oraz miejsce zamieszkania i adres albo nazwę, siedzibę i adres wnoszącego zastrzeżenie;
-- **2)** wskazanie uzasadnionego interesu gospodarczego lub prawnego wnoszącego zastrzeżenie.
+- **1)** przechowuje kartę leżakowania, którą sporządził, albo jej elektroniczną wersję;
+- **1)** kartę leżakowania, którą sporządził, albo jej elektroniczną wersję,
+- **2)** otrzymaną kopię karty leżakowania albo jej elektroniczną wersję – przez 5 lat, licząc od dnia wyprowadzenia ze składu podatkowego leżakowanego alkoholu etylowego.
 
-3. Datę i godzinę wpłynięcia zastrzeżenia do ministra wpisuje się do ewidencji.
+**Art. 12c.** Minister, przypadku gdy nie zostały ustanowione unijne metody analizy napojów spirytusowych oraz przypadku braku metod analizy, o których mowa art. 18 ust. 2 lit. a, b lub c rozporządzenia 2019/787, może określić, drodze rozporządzenia, metody analizy napojów spirytusowych celu wykrycia i oznaczenia ilościowego substancji zawartych tym napoju spirytusowym, mając na względzie dokładność, powtarzalność i odtwarzalność metod analizy oraz zgodność tych metod z unijnymi referencyjnymi metodami analizy napojów spirytusowych.
 
-4. Do zastrzeżenia stosuje się odpowiednio przepisy art. 16, art. 18, art. 19, art. 21, art. 22 i art. 24.
-
-**Art. 27.** Minister, przypadku niewniesienia zastrzeżenia albo wniesienia nieuzasadnionego zastrzeżenia do wniosku owpis, biorąc pod uwagę wymagania określone wart. 13, art. 14 iart. 17 ust. 1 pkt 3 oraz opinie, o których mowa art. 25 ust. 1 pkt 3:
-
-**Art. 28.** Minister, przypadku wniesienia uzasadb) wydaje decyzję o odmowie wpisu oznaczenia geograficznego napoju spirytusowego na listę;
-
-**Art. 30.**
-
-1. Osoba fizyczna, osoba prawna lub jednostka organizacyjna nieposiadająca osobowości prawnej, prowadząca działalność gospodarczą zakresie wyrobu napojów spirytusowych na terytorium Rzeczypospolitej Polskiej posiadająca uzasadniony interes gospodarczy lub prawny, lub organizacja zrzenionego zastrzeżenia do wniosku o wpis, biorąc pod uwagę wymagania określone art. 13, art. 14, art. 17 ust. 1 pkt 3 i art. 26 ust. 2 pkt 2 oraz opinie, o których mowa wart. 25 ust. 1 pkt 3, wzywa wnioskodawcę do złożenia wyznaczonym terminie wniosku o wpis uzgodnionego z wnoszącym zastrzeżenie.
-
-**Art. 29.** W przypadku:
-
-**Art. 31.**
-
-1. Listę prowadzi minister.
-
-2. Lista jest jawna.
-
-**Art. 32.** Minister określi, drodze rozporządzenia:
-
-**Art. 33.** Oznaczenie geograficzne napoju spirytusowego wpisane na listę podlega ochronie na terytorium Rzeczypospolitej Polskiej od dnia wpisu na listę.
-
-**Art. 34.**
-
-1. Opłatę pobiera się za dokonanie oceny:
-
-- **1)** wniosku o wpis, z wyłączeniem wniosków, o których mowa art. 28;
-- **2)** zastrzeżenia do wniosku o wpis;
-
-2. Opłata stanowi dochód budżetu państwa.
-
-3. Opłatę wnosi się na rachunek bankowy urzędu obsługującego ministra.
-
-4. Dowód wniesienia opłaty dołącza się do wniosku owpis, zastrzeżenia do wniosku owpis oraz wniosku o zmianę opisu napoju spirytusowego, o którym mowa art. 30 ust. 1.
-
-**Art. 35.** Minister wporozumieniu zministrem właściwym do spraw finansów publicznych określi, drodze rozporządzenia, stawki opłat za czynności, o których mowa art. 34 ust. 1, mając na względzie nakład kosztów związanych z podejmowaniem czynności przy rozpatrywaniu wniosków owpis, zastrzeżeń do wniosków o wpis oraz wniosków o zmianę opisu napoju spirytusowego wpisanego na listę.
-
-**Art. 36.**
-
-1. Minister, na wniosek podmiotu, który związku z prowadzeniem działalności gospodarczej zakresie wyrobu napojów spirytusowych stosuje oznaczenie geograficzne napoju spirytusowego wpi2) zawiera naturalne środki aromatyczne, lub szczególnych przypadkach barwniki, a maksymalny poziom cukru nie może przekraczać 100 gramów na litr czystego alkoholu i maksymalny poziom alkoholu metylowego nie może przekraczać 200 gramów na hektolitr czystego alkoholu; wódka ta może być dojrzewana lub leżakowana celu nadania jej szczególnych właściwości organoleptycznych.
-
-2. Minister określi, drodze rozporządzenia, wymagania dla napojów spirytusowych z oznaczeniami geograficznymi odnoszącymi się do terytorium Rzeczypospolitej Polskiej, innymi niż ŃPolska Wódka/Polish Vodka”, które zostały objęte ochroną na podstawie rozporządzenia nr 1576/89, mając na względzie zapewnienie odpowiedniego sposobu produkcji, odpowiednich parametrów jakościowych oraz warunków technologicznych dla poszczególnych napojów spirytusowych, a także obszar, na którym mogą być wyrabiane te napoje.
-
-**Art. 39.** sane na listę, zgłasza do Komisji Europejskiej to oznaczenie celem objęcia go ochroną zgodnie zprzepisami rozporządzenia nr 1576/89. 2. Minister, przed zgłoszeniem, o którym mowa ust. 1, zwraca się do organizacji reprezentujących interesy podmiotów prowadzących działalność gospodarczą wzakresie wyrobu napojów spirytusowych o wyrażenie, terminie 60 dni, opinii zakresie zasadności wniosku, o którym mowa ust. 1.
-
-**Art. 37.**
-
-1. Napoje spirytusowe z oznaczeniami geograficznymi odnoszącymi się do terytorium Rzeczypospolitej Polskiej wyrabia się zgodnie ze sposobem produkcji, warunkami technologicznymi lub parametrami jakościowymi, określonymi dla nich wustawie, przepisach wydanych na podstawie art. 38 ust. 2 oraz wrozporządzeniu nr 1576/89 irozporządzeniu nr 1014/90.
-
-2. Wymagania, o których mowa ust. 1, dotyczą szczególności właściwych dla poszczególnych napojów spirytusowych surowców używanych do produkcji napojów spirytusowych, zawartości alkoholu, cukru, środków aromatycznych lub barwników oraz warunków dojrzewania lub leżakowania, a także obszaru, na którym są one wyrabiane.
-
-**Art. 38.**
-
-1. Polska Wódka/Polish Vodka to wódka otrzymana z zacieru zbóż lub ziemniaków uprawianych na terytorium Rzeczypospolitej Polskiej poddanego procesowi fermentacji, destylacji irektyfikacji do mocy co najmniej 96,0 % objętości, a następnie rozcieńczonego wodą, wyprodukowana ibutelkowana na terytorium Rzeczypospolitej Polskiej, która:
-
-- **1)** nie zawiera środków aromatycznych, ani barwników, a maksymalny poziom cukru nie może przekraczać 1 grama na litr czystego alkoholu imaksymalny poziom alkoholu metylowego nie może Osoba fizyczna, osoba prawna lub jednostka organizacyjna nieposiadająca osobowości prawnej, prowadząca działalność gospodarczą zakresie wyrobu napojów spirytusowych na terytorium Rzeczypospolitej Polskiej, która związku z prowadzeniem działalności gospodarczej wzakresie wyrobu napojów spirytusowych stosuje oznaczenie geograficzne napoju spirytusowego wpisane na listę, jest obowiązana wdrożyć system wewnętrznej kontroli, o którym mowa art. 4 ust. 1 pkt 1, zapewniający spełnianie warunków określonych art. 17 ust. 1 pkt 3 lit. c—f, terminie 60 dni od dnia wpisu oznaczenia geograficznego napoju spirytusowego na listę.
-
-**Art. 40.** Oznaczenia geograficzne wpisane na listę oraz chronione na podstawie rozporządzenia nr1576/89 nie mogą być używane obrocie na terytorium Rzeczypospolitej Polskiej, jeżeli napoje spirytusowe, których one dotyczą, nie spełniają warunków będących podstawą ochrony:
+#### Rozdział 3 (uchylony)
 
 #### Rozdział 4 Przepisy karne
 
-**Art. 41.**
-
-1. Kto, nie będąc uprawnionym do używania oznaczenia geograficznego wpisanego na listę, wprowadza do obrotu napoje spirytusowe oznaczone takim oznaczeniem, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
-
-2. Tej samej karze podlega kto używa obrocie oznaczenia geograficznego wpisanego na listę z naruszeniem warunków zawartych wopisie napoju spirytusowego, którego oznaczenie zostało wpisane na listę.
-
-3. Tej samej karze podlega kto czyni przygotowania do przestępstwa określonego ust. 1 lub 2.
-
-4. Jeżeli sprawca uczynił sobie zpopełniania przestępstwa określonego ust. 1 lub 2 stałe êródło dochodu albo jeżeli dopuścił się przestępstwa określonego wust. 1—3 wstosunku do napojów spirytusowych o znacznej wartości, podlega karze pozbawienia wolności od 6 miesięcy do lat 5.
+**Art. 41.** (uchylony)
 
 **Art. 42.**
 
-1. Kto wyrabia napoje spirytusowe niezgodnie ze sposobem produkcji, warunkami technologicznymi, lub parametrami jakościowymi, określonymi dla nich ustawie, przepisach wydanych na podstawie art. 38 ust. 2, lub art. 1—4 rozporządzenia nr1576/89, lub art. 1—7 rozporządzenia nr 1014/90 lub wprowadza tak wytworzone napoje do obrotu, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
+1. Kto wyrabia napoje spirytusowe niezgodnie ze sposobem produkcji, warunkami technologicznymi lub parametrami jakościowymi, określonymi dla nich ustawie lub art. 2–7 i art. 17 rozporządzenia 2019/787 lub wprowadza tak wytworzone napoje do obrotu podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
 
 2. Tej samej karze podlega kto czyni przygotowania do przestępstwa określonego ust. 1.
 
-3. Jeżeli sprawca uczynił sobie zpopełniania przestępstwa określonego ust. 1 stałe êródło dochodu albo jeżeli dopuścił się przestępstwa określonego ust. 1 stosunku do napojów spirytusowych o znacznej wartości, podlega karze pozbawienia wolności od 6 miesięcy do lat 5.
+**Art. 43a.** Kto, wbrew obowiązkowi, o którym mowa:
 
-**Art. 43.**
+**Art. 44a.** Kto, będąc wpisanym do rejestru, wbrew obowiązkowi, o którym mowa:
 
-1. Kto oznacza napoje spirytusowe niezgodnie z wymaganiami zakresie ich definicji lub opisu, lub prezentacji, określonymi art. 5—9 rozporządzenia nr 1576/89 lub wprowadza tak oznaczone napoje do obrotu, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
+**Art. 44b.**
 
-2. Tej samej karze podlega kto czyni przygotowania do przestępstwa określonego ust. 1.
+1. Orzekanie sprawach o czyny, o których mowa art. 42 i art. 44, następuje trybie przepisów ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2025 r. poz. 46, 304, 1178 i 1420).
 
-3. Jeżeli sprawca uczynił sobie zpopełniania przeust. 1 stosunku do napojów spirytusowych o znacznej wartości, podlega karze pozbawienia wolności od 6 miesięcy do lat 5.
+2. Orzekanie sprawach o czyny, o których mowa art. 43a i art. 44a, następuje trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania sprawach o wykroczenia (Dz. U. z 2025 r. poz. 860, 1178 i 1661).
 
-**Art. 44.**
+**Art. 46.** (pominięty)
 
-1. Kto bez wymaganego wpisu do rejestru wyrabia lub rozlewa napoje spirytusowe, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
-
-2. Kto dopuszcza się czynu określonego ust. 1 stosunku do napojów spirytusowych o znacznej wartości, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
-
-**Art. 45.** W przypadkach określonych art. 41—44 sąd może orzec przepadek rzeczy stanowiącej przedmiot przestępstwa albo służących lub przeznaczonych do jego popełnienia, choćby nie były własnością sprawcy.
-
-#### Rozdział 5 Przepisy zmieniające, przejściowe i końcowe
-
-**Art. 46.** Wustawie zdnia 30 czerwca 2000 r. Prawo własności przemysłowej (Dz. U. z 2003 r. 119, poz. 1117, z póên. zm. ) wprowadza się następujące zmiany:
+**Art. 47.** Rejestr działalności zakresie wyrobu lub rozlewu napojów spirytusowych prowadzony na podstawie ustawy, o której mowa art. 49, staje się rejestrem rozumieniu niniejszej ustawy.
 
 **Art. 48.**
 
 1. Przedsiębiorca wpisany do rejestru na podstawie ustawy, o której mowa art. 49, przedkłada ministrowi:
 
-- **1)** oświadczenie, októrym mowa wart. 6 ust. 2 pkt 6 lit. a tiret drugie oraz lit. c,
-- **2)** informację o zakresie działalności gospodarczej terminie 3 miesięcy od dnia wejścia życie niniejszej ustawy.
+- **1)** oświadczenie, o którym mowa art. 6 ust. 2 pkt 6 lit. a tiret drugie oraz lit. c,
+- **2)** informację o zakresie działalności gospodarczej – terminie 3 miesięcy od dnia wejścia życie niniejszej ustawy.
 
-2. W przypadku nieprzedłożenia przez przedsiębiorcę oświadczenia i informacji terminie określonym wust. 1 minister wydaje decyzję ozakazie wykonywania przez przedsiębiorcę działalności zakresie wyrobu lub rozlewu napojów spirytusowych.
+2. W przypadku nieprzedłożenia przez przedsiębiorcę oświadczenia i informacji terminie określonym ust. 1 minister wydaje decyzję o zakazie wykonywania przez przedsiębiorcę działalności zakresie wyrobu lub rozlewu napojów spirytusowych.
 
-3. W przypadku gdy decyzja, o której mowa wust.2, stała się ostateczna, minister zurzędu wykreśla wpis przedsiębiorcy rejestrze.
+3. W przypadku gdy decyzja, o której mowa ust. 2, stała się ostateczna, minister z urzędu wykreśla wpis przedsiębiorcy rejestrze.
 
-**Art. 49.** Traci moc ustawa z dnia 13 września 2002 r. o napojach spirytusowych (Dz. U. 166, .”.
+**Art. 49.** Traci moc ustawa z dnia 13 września 2002 r. o napojach spirytusowych (Dz. U. poz. 1362, z 2004 r. poz. 257 i 1808 oraz z 2006 r. poz. 935 i 1225).
 
-**Art. 47.** Rejestr działalności wzakresie wyrobu lub rozlewu napojów spirytusowych prowadzony na podpoz. 1362, z 2004 r. 29, poz. 257 i 173, poz. 1808 oraz z 2006 r. 133, poz. 935 i 171, poz. 1225).
-
-**Art. 50.** Ustawa wchodzi wżycie po upływie 30 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński 1540 USTAWA z dnia 18 paêdziernika 2006 r. o zmianie ustawy o Krajowym Rejestrze Sądowym oraz niektórych innych ustaw
-
-**Art. 1.** W ustawie z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2001 r. 17, poz. 209, z póên. zm.
+**Art. 50.** Ustawa wchodzi życie po upływie 30 dni od dnia ogłoszenia .
 

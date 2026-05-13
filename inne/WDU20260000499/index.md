@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 10 kwietnia 2026 r.
+# w sprawie ogłoszenia jednolitego tekstu ustawy o Funduszu Medycznym
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 27 marca 2026 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2026-04-23 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000499) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/499/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 27 marca 2026 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o Funduszu Medycznym
 1. Na podstawie art. 16 ust. 1 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 7 października 2020 r. o Funduszu Medycznym (Dz. U. z 2024 r. poz. 889), z uwzględnieniem stanu prawnego na dzień 16 marca 2026 r. oraz zmian wprowadzonych ustawą z dnia 21 listopada 2025 r. o zmianie ustawy o Funduszu Medycznym oraz ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. poz. 1739).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 3 i art. 4 ustawy z dnia 21 listopada 2025 r. o zmianie ustawy o Funduszu Medycznym oraz ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. poz. 1739), które stanowią: „Art. 3. 1. Limitu określonego w art. 31 ust. 4 ustawy zmienianej w art. 1 nie stosuje się w latach 2025–2029 do dotacji, o których mowa w art. 31 ust. 2 tej ustawy.
 2. W 2025 r. minister właściwy do spraw zdrowia nie dokonuje wpłaty z budżetu państwa, o której mowa w art. 8 pkt 2 ustawy zmienianej w art. 1.

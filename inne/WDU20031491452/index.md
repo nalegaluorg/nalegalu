@@ -10,9 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# ozmianie ustawy otransporcie drogowym oraz niektórych innych ustaw
+# o zmianie ustawy o transporcie drogowym oraz niekt(cid:243)rych innych ustaw
 
-*USTAWA zdnia 23 lipca 2003 r.*
+*USTAWA z dnia 23 lipca 2003 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -26,143 +26,142 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031491452) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/1452/text.pdf) |
 
-**Art. 1.** Wustawie zdnia 6 września 2001 r. otransporcie drogowym (Dz. U. 125, poz. 1371, z 2002 r. Nr25, poz. 253, 89, poz. 804 iNr 199, poz. 1671 oraz z 2003 r. 137, poz. 1302) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 6 września 2001 r. o transporcie drogowym (Dz.U. Nr 125, poz. 1371, z 2002 r. Nr 25, poz. 253, Nr 89, poz. 804 i Nr 199, poz. 1671 oraz z 2003 r. Nr 137, poz. 1302) wprowadza się następujące zmiany:
 
 **Art. 39a.**
 
-1. Przewoênik drogowy może zatrudnić kierowcę, jeżeli osoba ta:
+1. Przewoźnik drogowy może zatrudnić kierowcę, jeżeli osoba ta:
 
 - **1)** ukończyła 21 lat, z zastrzeżeniem ust. 2,
-- **2)** posiada odpowiednie uprawnienie do kierowania pojazdem samochodowym określone w ustawie z dnia 20 czerwca 1997 r. Prawo oruchu drogowym,
-- **3)** ukończyła odpowiedni kurs dokształcający kierowców, o którym mowa wart. 39bust. 1,
+- **2)** posiada odpowiednie uprawnienie do kierowania pojazdem samochodowym określone w ustawie z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym,
+- **3)** ukończyła odpowiedni kurs dokształcający kierowc(cid:243)w, o kt(cid:243)rym mowa w art. 39b ust. 1,
 - **4)** nie ma przeciwwskazań zdrowotnych do pracy na stanowisku kierowcy,
 - **5)** nie ma przeciwwskazań psychologicznych do pracy na stanowisku kierowcy.
 
-2. Wymaganie, o którym mowa w ust. 1 pkt 1, nie dotyczy kierowcy wykonującego transport drogowy rzeczy pojazdem samochodowym lub zespołem pojazdów odopuszczalnej masie całkowitej od 3,5 tdo 7,5 t.
+2. Wymaganie, o kt(cid:243)rym mowa w ust. 1 pkt 1, nie dotyczy kierowcy wykonującego transport drogowy rzeczy pojazdem samochodowym lub zespołem pojazd(cid:243)w o dopuszczalnej masie całkowitej od 3,5 t do 7,5 t.
 
 **Art. 39b.**
 
-1. Osoba ubiegająca się ozatrudnienie po raz pierwszy na stanowisku kierowcy obowiązana ukończyć kurs dokształcający:
+1. Osoba ubiegająca się o zatrudnienie po raz pierwszy na stanowisku kierowcy wykonującego transport drogowy jest obowiązana ukończyć kurs dokształcający:
 
-- **1)** kierowców przewożących rzeczy dla kierowców pojazdów samochodowych konstrukcyjnie przystosowanych do przewozu rzeczy,
-- **2)** kierowców przewożących osoby dla kierowców pojazdów samochodowych przeznaczonych konstrukcyjnie do przewozu powyżej 5 osób łącznie zkierowcą.
+- **1)** kierowc(cid:243)w przewożących rzeczy - dla kierowc(cid:243)w pojazd(cid:243)w samochodowych konstrukcyjnie przystosowanych do przewozu rzeczy,
+- **2)** kierowc(cid:243)w przewożących osoby - dla kierowc(cid:243)w pojazd(cid:243)w samochodowych przeznaczonych konstrukcyjnie do przewozu powyżej 5 os(cid:243)b łącznie z kierowcą.
 
-2. Kursy dokształcające, o których mowa wust. 1, zwane dalej Ńkursami”, są prowadzone przez wojewódzkie ośrodki ruchu drogowego, o których mowa w przepisach ustawy z dnia 20 czerwca 1997 r. Prawo oruchu drogowym.
+2. Kursy dokształcające, o kt(cid:243)rych mowa w ust. 1, zwane dalej (cid:132)kursami(cid:148), są prowadzone przez wojew(cid:243)dzkie ośrodki ruchu drogowego, o kt(cid:243)rych mowa w przepisach ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym.
 
-3. Wojewódzki ośrodek ruchu drogowego przy organizacji i realizacji kursów jest zobowiązany do współpracy zorganizacjami zrzeszającymi kierowców i przewykonującego transport drogowy jest woêników drogowych o zasięgu ogólnokrajowym.
+3. Wojew(cid:243)dzki ośrodek ruchu drogowego przy organizacji i realizacji kurs(cid:243)w jest zobowiązany do wsp(cid:243)łpracy z organizacjami zrzeszającymi kierowc(cid:243)w i przewoźnik(cid:243)w drogowych o zasięgu og(cid:243)lnokrajowym.
 
-4. Współpraca, o której mowa w ust. 3, obejmuje zwłaszcza uzgodnienie szczegółowego programu kursu oraz warunków imiejsca jego przeprowadzenia.
+4. Wsp(cid:243)łpraca, o kt(cid:243)rej mowa w ust. 3, obejmuje zwłaszcza uzgodnienie szczeg(cid:243)łowego programu kursu oraz warunk(cid:243)w i miejsca jego przeprowadzenia.
 
-5. Dyrektor wojewódzkiego ośrodka ruchu drogowego potwierdza ukończenie kursu przez wydanie zaświadczenia o jego ukończeniu, a także prowadzi rejestr osób przeszkolonych i wydanych zaświadczeń.
+5. Dyrektor wojew(cid:243)dzkiego ośrodka ruchu drogowego potwierdza ukończenie kursu przez wydanie zaświadczenia o jego wydanych zaświadczeń.
 
-6. Nadzór nad prowadzeniem kursów sprawuje wojewoda. W ramach nadzoru wojewoda może:
+6. Nadz(cid:243)r nad prowadzeniem kurs(cid:243)w sprawuje wojewoda. W ramach nadzoru wojewoda może:
 
-- **1)** kontrolować sposób prowadzenia kursów oraz dokumentację z nimi związaną,
-- **2)** zawiesić prowadzenie kursów do czasu usunięcia stwierdzonych nieprawidłowości.
+- **1)** kontrolować spos(cid:243)b prowadzenia kurs(cid:243)w oraz dokumentację z nimi związaną,
+- **2)** zawiesić prowadzenie kurs(cid:243)w do czasu usunięcia stwierdzonych nieprawidłowości.
 
-7. Minister właściwy do spraw transportu, określi, wdrodze rozporządzenia, ramowy program kursów, o których mowa w ust. 1, minimalny czas ich trwania, wzór zaświadczenia oraz rejestru, októrych mowa wust. 5, mając na względzie podniesienie kwalifikacji zawodowych kierowców wykonujących transport drogowy.
+7. Minister właściwy do spraw transportu, określi, w drodze rozporządzenia, ramowy program kurs(cid:243)w, o kt(cid:243)rych mowa w ust. 1, minimalny czas ich trwania, wz(cid:243)r zaświadczenia oraz rejestru, o kt(cid:243)rych mowa w ust. 5, mając na względzie podniesienie kwalifikacji zawodowych kierowc(cid:243)w wykonujących transport drogowy.
 
 **Art. 39c.**
 
 1. Kierowca wykonujący transport drogowy podlega badaniom lekarskim przeprowadzanym w celu stwierdzenia istnienia lub braku przeciwwskazań zdrowotnych do wykonywania pracy na stanowisku kierowcy.
 
-2. Badania lekarskie, o których mowa w ust. 1, są wykonywane, z zastrzeżeniem ust. 3, w zakresie i na zasadach określonych w przepisach ustawy zdnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z1998 r. 21, poz. 94, zpóên. zm. ), zwany dalej ŃKodeksem pracy”, ztym że badania okresowe przeprowadza się do czasu ukończenia przez kierowcę:
+2. Badania lekarskie, o kt(cid:243)rych mowa w ust. 1, są wykonywane, z zastrzeżeniem ust. 3, w zakresie i na zasadach określonych w przepisach ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy (Dz.U. z 1998 r. Nr 21, poz. 94, z p(cid:243)źn. zm.) , zwany dalej (cid:132)Kodeksem pracy(cid:148), z tym że badania okresowe przeprowadza się do czasu ukończenia przez kierowcę:
 
-- **1)** 55 lat co 5 lat,
-- **2)** od 56 lat do 65 lat co 2 lata,
-- **3)** powyżej 65 roku corocznie.
+- **1)** 55 lat - co 5 lat,
+- **2)** od 56 lat do 65 lat - co 2 lata,
+- **3)** powyżej 65 roku - corocznie.
 
-3. Zakres badań lekarskich, októrych mowa w ust. 1, obejmuje ponadto ustalenie istnienia lub braku przeciwwskazań zdrowotnych do kierowania pojazdami, zgodnie z ustawą z dnia 20 czerwca 1997 r. Prawo oruchu drogowym.
+3. Zakres badań lekarskich, o kt(cid:243)rych mowa w ust. 1, obejmuje ponadto ustalenie istnienia lub braku przeciwwskazań zdrowotnych do kierowania pojazdami, zgodnie z ustawą z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym.
 
-4. Badania lekarskie, o których mowa w ust. 1, wykonują lekarze uprawnieni do wykonywania badań profilaktycznych, októrych mowa wprzepisach Ko3) przechowywania przez cały okres zatrudnienia kierowcy orzeczeń lekarskich i psychologicznych oraz zaświadczeń o ukończeniu kursów dokształcających, jeżeli kursy te są wymagane,
-
-- **4)** prowadzenia dokumentacji: dotyczącej pracy kierowcy, awszczególności pojazdów, którymi kierowca wykonywał przewozy, oraz czasu pracy kierowcy; przepis ten dotyczy dokumentacji prowadzonej niezależnie od ewidencji czasu pracy, o której mowa wart. 129 deksu pracy, i posiadający dodatkowo uprawnienia do przeprowadzania badań lekarskich kandydatów na kierowców i kierowców określone w odrębnych przepisach.
+4. Badania lekarskie, o kt(cid:243)rych mowa w ust. 1, wykonują lekarze uprawnieni do wykonywania badań profilaktycznych, o kt(cid:243)rych mowa w przepisach Kodeksu pracy i posiadający dodatkowo uprawnienia do przeprowadzania badań lekarskich kandydat(cid:243)w na kierowc(cid:243)w i kierowc(cid:243)w określone w odrębnych przepisach.
 
 **Art. 39d.**
 
 1. Kierowca wykonujący transport drogowy podlega badaniom psychologicznym przeprowadzanym w celu stwierdzenia istnienia lub braku przeciwwskazań psychologicznych do wykonywania pracy na stanowisku kierowcy.
 
-2. Badania psychologiczne, októrych mowa wust. 1, są wykonywane:
+2. Badania psychologiczne, o kt(cid:243)rych mowa w ust. 1, są wykonywane:
 
-- **1)** wwieku do 55 lat co 5 lat,
-- **2)** wwieku od 56 lat do 65 lat co 2 lata,
-- **3)** powyżej 65 roku życia corocznie.
+- **2)** w wieku od 56 lat do 65 lat - co 2 lata,
+    - **c)** powyżej 65 roku życia - corocznie.
 
-3. Badania psychologiczne, októrych mowa wust. 1, są wykonywane wzakresie i na zasadach określonych dla kierowców wustawie zdnia 20 czerwca 1997 r. Prawo oruchu drogowym.
+3. Badania psychologiczne, o kt(cid:243)rych mowa w ust. 1, są wykonywane w zakresie i na zasadach określonych dla kierowc(cid:243)w w ustawie z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym.
 
 **Art. 39e.**
 
-1. Przewoênik drogowy jest obowiązany do:
+1. Przewoźnik drogowy jest obowiązany do:
 
-- **1)** kierowania kierowców na badania lekarskie i psychologiczne, o których mowa odpowiednio wart. 39ci39d,
-- **2)** pokrywania kosztów badań lekarskich ipsychologicznych, Kodeksu pracy,
-- **5)** przekazania kierowcy zchwilą rozwiązania stosunku pracy orzeczeń i zaświadczeń, o których mowa w pkt3, oraz wyciągu zdokumentacji, októrej mowa wpkt 4,
+- **1)** kierowania kierowc(cid:243)w na badania lekarskie i psychologiczne, o kt(cid:243)rych mowa odpowiednio w art. 39c i 39d,
+- **2)** pokrywania koszt(cid:243)w badań lekarskich i psychologicznych,
+- **3)** przechowywania przez cały okres zatrudnienia kierowcy orzeczeń lekarskich i psychologicznych oraz zaświadczeń o ukończeniu kurs(cid:243)w dokształcających, jeżeli kursy te są wymagane,
+- **4)** prowadzenia dokumentacji: dotyczącej pracy kierowcy, a w szczeg(cid:243)lności pojazd(cid:243)w, kt(cid:243)rymi kierowca wykonywał przewozy, oraz czasu pracy kierowcy; przepis ten dotyczy dokumentacji prowadzonej niezależnie od ewidencji czasu pracy, o kt(cid:243)rej mowa w art. 129 Kodeksu pracy,
+- **5)** przekazania kierowcy z chwilą rozwiązania stosunku pracy orzeczeń i zaświadczeń, o kt(cid:243)rych mowa w pkt 3, oraz wyciągu z dokumentacji, o kt(cid:243)rej mowa w pkt 4,
 - **6)** wystawienia kierowcy zaświadczenia poświadczającego jego zatrudnienie oraz spełnianie wszystkich wymagań określonych ustawą.
 
-2. Spełnienie przez przedsiębiorcę będącego pracodawcą obowiązku, o którym mowa w ust. 1 pkt 1, uznaje się za równoznaczne ze spełnieniem obowiązków pracodawcy w zakresie wykonywania wstępnych i okresowych badań lekarskich, októrych mowa wart. 229 § 1 i2 Kodeksu pracy.
+2. Spełnienie przez przedsiębiorcę będącego pracodawcą obowiązku, o kt(cid:243)rym mowa w ust. 1 pkt 1, uznaje się za r(cid:243)wnoznaczne ze spełnieniem obowiązk(cid:243)w pracodawcy w zakresie wykonywania wstępnych i okresowych badań lekarskich, o kt(cid:243)rych mowa w art. 229 § 1 i 2 Kodeksu pracy.
 
-3. Minister właściwy do spraw transportu, określi, wdrodze rozporządzenia, szczegółowy sposób postępowania z dokumentacją związaną z pracą kierowcy oraz ustali wzory stosowanych dokumentów, w tym wzór zaświadczenia, októrym mowa wust. 1 pkt 6, uwzględniając zakres niezbędnych informacji.
+3. Minister właściwy do spraw transportu, określi, w drodze rozporządzenia, szczeg(cid:243)łowy spos(cid:243)b postępowania z dokumentacją związaną z pracą kierowcy oraz ustali wzory stosowanych dokument(cid:243)w, w tym wz(cid:243)r zaświadczenia, o kt(cid:243)rym mowa w ust. 1 pkt 6, uwzględniając zakres niezbędnych informacji.
 
-**Art. 39f.** Wymagania, októrych mowa:
+**Art. 39f.** Wymagania, o kt(cid:243)rych mowa:
 
 **Art. 96a.**
 
-1. Kto nie wypełnia obowiązków, o których mowa w art. 14 ust. 4 i art. 15 ust.4, podlega karze grzywny.
+1. Kto nie wypełnia obowiązk(cid:243)w, o kt(cid:243)rych mowa w art. 14 ust. 4 i art. 15 ust. 4, podlega karze grzywny.
 
-2. Orzekanie w sprawach, o których mowa w ust. 1, następuje w trybie przepisów Kodeksu postępowania w sprawach owykroczenia.”;
+2. Orzekanie w sprawach, o kt(cid:243)rych mowa w ust. 1, następuje w trybie przepis(cid:243)w Kodeksu postępowania w sprawach o wykroczenia.(cid:148);
 
-- **51)** wart. 103:
-    - **a)** ust. 1 otrzymuje brzmienie: Ń1. Przedsiębiorcy prowadzący do dnia wejścia w życie ustawy działalność gospodarczą w zakresie międzynarodowego transportu drogowego obowiązani są do dnia uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej uzyskać odpowiednią licencję na wykonywanie tego transportu pod rygorem wygaśnięcia dotychczasowych uprawnień. Nie póêniej niż w terminie 2 lat od dnia wejścia wżycie ustawy przedsiębiorcy powinni wystąpić do ministra właściwego do spraw transportu z wnioskiem o udzielenie licencji na międzynarodowy transport drogowy.”,
-    - **b)** ust. 3 otrzymuje brzmienie: Ń3. Przedsiębiorcy prowadzący do dnia wejścia w życie ustawy działalność gospodarczą w zakresie krajowego drogowego przewozu rzeczy obowiązani są do dnia uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej uzyskać licencję na wykonywanie tego transportu pod rygorem wygaśnięcia dotychczasowych uprawnień. Nie póêniej niż w terminie 2 lat od dnia wejścia w życie ustawy przedsiębiorcy powinni wystąpić do organu udzielającego licencji zwnioskiem oudzielenie licencji na krajowy transport drogowy rzeczy.”;
-    - **c)** po ust. 3 dodaje się ust. 3awbrzmieniu: Ń3a. W przypadku, o którym mowa w ust. 3, do czasu uzyskania licencji przedsiębiorcy są obowiązani posiadać dokument potwierdzający prowadzenie przez nich, przed dniem 1 stycznia 2002 r., działalności gospodarczej wtym zakresie.”;
+- **51)** w art. 103: Nie p(cid:243)źniej niż w terminie 2 lat od dnia wejścia w życie ustawy przedsiębiorcy powinni wystąpić do organu udzielającego licencji z wnioskiem o udzielenie licencji na krajowy transport drogowy rzeczy.(cid:148),
+    - **a)** ust. 1 otrzymuje brzmienie: (cid:132)1. Przedsiębiorcy prowadzący do dnia wejścia w życie ustawy działalność gospodarczą w zakresie międzynarodowego transportu drogowego obowiązani są do dnia uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej uzyskać odpowiednią licencję na wykonywanie tego transportu pod rygorem wygaśnięcia dotychczasowych uprawnień. Nie p(cid:243)źniej niż w terminie 2 lat od dnia wejścia w życie ustawy przedsiębiorcy powinni wystąpić do ministra właściwego do spraw transportu z wnioskiem o udzielenie licencji na międzynarodowy transport drogowy.(cid:148),
+    - **b)** ust. 3 otrzymuje brzmienie: (cid:132)3. Przedsiębiorcy prowadzący do dnia wejścia w życie ustawy działalność gospodarczą w zakresie krajowego drogowego przewozu rzeczy obowiązani są do dnia uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej uzyskać licencję na wykonywanie tego transportu pod rygorem wygaśnięcia dotychczasowych uprawnień.
+    - **c)** po ust. 3 dodaje się ust. 3a w brzmieniu: (cid:132)3a. W przypadku, o kt(cid:243)rym mowa w ust. 3, do czasu uzyskania licencji przedsiębiorcy są obowiązani posiadać dokument potwierdzający prowadzenie przez nich, przed dniem 1 stycznia 2002 r., działalności gospodarczej w tym zakresie.(cid:148);
 
-- **52)** art. 107 otrzymuje brzmienie: ŃArt. 107. Z dniem uzyskania przez Rzeczpospolitą Polską członkostwa wUnii Europejskiej do przedsiębiorców zagranicznych z państw członkowskich Unii Europejskiej nie stosuje się przepisów art. 18 ust. 2, art. 19,
-- **53)** dodaje się załącznik do ustawy w brzmieniu określonym wzałączniku do niniejszej ustawy.
+- **52)** art. 107 otrzymuje brzmienie: (cid:132)Art. 107. Z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej do przedsiębiorc(cid:243)w zagranicznych z państw członkowskich Unii Europejskiej nie stosuje się przepis(cid:243)w art. 18 ust. 2, art. 19, art. 19a oraz art. 28 ust. 1.(cid:148);
+- **53)** dodaje się załącznik do ustawy w brzmieniu określonym w załączniku do niniejszej ustawy. W ustawie z dnia 15 listopada 1984 r. - Prawo przewozowe (Dz.U. z 2000 r. Nr 50, poz. 601, z 2001 r. Nr 125, poz. 1371 oraz z 2002 r. Nr 113, poz. 984 i Nr 130, poz.
+- **1112)** wprowadza się następujące zmiany:
+- **1)** art. 2 otrzymuje brzmienie: (cid:132)Art. 2. 1. Przewoźnik jest obowiązany podać do publicznej wiadomości zakres swojego działania, a w szczeg(cid:243)lności adresy punkt(cid:243)w odprawy i spos(cid:243)b zawierania umowy przewozu.
 
-**Art. 2.** Wustawie zdnia 15 listopada 1984 r. Prawo przewozowe (Dz. U. z2000 r. 50, poz. 601, z2001 r. 125, poz. 1371 oraz z2002 r. 113, poz. 984 iNr 130, poz. 1112) wprowadza się następujące zmiany:
+2. Przewoźnik wykonujący regularne przewozy os(cid:243)b jest obowiązany w szczeg(cid:243)lności podać do publicznej wiadomości rozkład jazdy środk(cid:243)w transportowych przez zamieszczenie informacji na wszystkich dworcach i przystankach wymienionych w rozkładzie jazdy.
 
-**Art. 3.** Wustawie zdnia 20 czerwca 1992 r. ouprawnieniach do ulgowych przejazdów środkami publicznego transportu zbiorowego (Dz. U. z 2002 r. 175, poz.1440 oraz z 2003 r. 137, poz. 1304) art. 8aotrzymuje brzmienie: ŃArt. 8a. 1. Finansowanie ustawowych uprawnień do ulgowych przejazdów należy do zadań samorządów województw, jako zadanie zzakresu administracji rządowej. 2. Samorządy województw przekazują przewoênikom wykonującym krajowe autobusowe przewozy pasażerskie dopłaty do tych przewozów z tytułu stosowania obowiązujących ustawowych ulg w przewozach pasażerskich, zzastrzeżeniem ust. 4. 3. Kwotę dopłaty, o której mowa w ust. 2, stanowi różnica pomiędzy wartością sprzedaży biletów obliczoną według cen nieuwzględniających ustawowych ulg a wartością sprzedaży tych biletów w cenach uwzględniających te ulgi. Przy określeniu wielkości dopłaty nie uwzględnia się podatku od towarów iusług. 4. Uprawnienie do otrzymywania dopłat, o których mowa w ust. 2, nabywa przewoênik, który:
+3. Przewoźnicy wykonujący regularne przewozy os(cid:243)b są obowiązani do okresowej aktualizacji i publikowania informacji o wykonywanej komunikacji.(cid:148);
 
-**Art. 4.** W ustawie z dnia 20 czerwca 1997 r. Prawo oruchu drogowym (Dz. U. z2003 r. 58, poz. 515, 124, poz. 1152, 130, poz. 1190, 137, poz. 1302 i 149, poz. 1451) wprowadza się następujące zmiany:
+- **2)** w art. 34 w ust. 1 w pkt 1 skreśla się wyrazy (cid:132) , tryb ich uzgadniania i koordynacji, z uwzględnieniem zadań w zakresie koordynacji,(cid:148).
 
-**Art. 5.** W ustawie z dnia 5 czerwca 1998 r. o administracji rządowej w województwie (Dz. U. z 2001 r. Nr80, poz. 872 i 128, poz. 1407, z 2002 r. 37, poz.329, 41, poz. 365, 62, poz. 558, 89, poz.804 i 200, poz. 1688 oraz z 2003 r. 52, poz.450 i 137, poz. 1302) w załączniku w pkt 18 skreśla się kropkę idodaje się pkt 19 wbrzmieniu: Ń19) wojewódzcy inspektorzy transportu drogowego.”.
+**Art. 3.** W ustawie z dnia 20 czerwca 1992 r. o uprawnieniach do ulgowych przejazd(cid:243)w środkami publicznego transportu zbiorowego (Dz.U. z 2002 r. Nr 175, poz. 1440 oraz z 2003 r. Nr 137, poz. 1304) art. 8a otrzymuje brzmienie: (cid:132)Art. 8a. 1. Finansowanie ustawowych uprawnień do ulgowych przejazd(cid:243)w należy do zadań samorząd(cid:243)w wojew(cid:243)dztw, jako zadanie z zakresu administracji rządowej. 2. Samorządy wojew(cid:243)dztw przekazują przewoźnikom wykonującym krajowe autobusowe przewozy pasażerskie dopłaty do tych przewoz(cid:243)w z tytułu stosowania obowiązujących ustawowych ulg w przewozach pasażerskich, z zastrzeżeniem ust. 4. 3. Kwotę dopłaty, o kt(cid:243)rej mowa w ust. 2, stanowi r(cid:243)żnica pomiędzy wartością sprzedaży bilet(cid:243)w obliczoną według cen nieuwzględniających ustawowych ulg a wartością sprzedaży tych bilet(cid:243)w w cenach uwzględniających te ulgi. Przy określeniu wielkości dopłaty nie uwzględnia się podatku od towar(cid:243)w i usług. 4. Uprawnienie do otrzymywania dopłat, o kt(cid:243)rych mowa w ust. 2, nabywa przewoźnik, kt(cid:243)ry:
 
-**Art. 6.** Wustawie zdnia 24 sierpnia 2001 r. oczasie pracy kierowców (Dz. U. 123, poz. 1354 orazz2002 r. Nr155, poz. 1286) wprowadza się następujące zmiany:
+**Art. 4.** W ustawie z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym (Dz.U. z 2003 r. Nr 58, poz. 515, Nr 124, poz. 1152, Nr 130, poz. 1190, Nr 137, poz. 1302 i Nr 149, poz.
 
-**Art. 7.** Wustawie zdnia 6 września 2001 r.ozmianie ustawy Prawo oruchu drogowym (Dz. U. 129, poz. 1444 i 154, poz. 1798 oraz z 2002 r. 216, poz.1825) wart. 4 uchyla się ust. 12.
+**Art. 5.** W ustawie z dnia 5 czerwca 1998 r. o administracji rządowej w wojew(cid:243)dztwie (Dz.U. z 2001 r. Nr 80, poz. 872, Nr 128, poz. 1407, z 2002 r. Nr 37, poz. 329, Nr 41, poz. 365, Nr 62, poz. 558, Nr 89, poz. 804, Nr 200, poz. 1688 oraz z 2003 r. Nr 52, poz. 450 i Nr 137, poz. 1302) w załączniku w pkt 18 skreśla się kropkę i dodaje się pkt 19 w brzmieniu: (cid:132)19) wojew(cid:243)dzcy inspektorzy transportu drogowego.(cid:148).
 
-**Art. 8.** Do postępowań administracyjnych w sprawach objętych przepisami niniejszej ustawy wszczętych, aniezakończonych przed dniem jej wejścia wżycie, stosuje się przepisy tej ustawy.
+**Art. 6.** W ustawie z dnia 24 sierpnia 2001 r. o czasie pracy kierowc(cid:243)w (Dz.U. Nr 123, poz. 1354 oraz z 2002 r. Nr 155, poz. 1286) wprowadza się następujące zmiany: drogowe(cid:148);
 
-**Art. 9.** w ust.2 w pkt 3 wyraz Ńdobowy” użyty w różnym Kierowcy pojazdów samochodowych używanych do przewozu osób (pasażerów) lub rzeczy, które zostały wyposażone wprzyrządy kontrolne niespełniające wymagań ustawy, uwierzytelnione przed dniem 1 stycznia 2003 r., prowadzą karty drogowe, o których mowa w art. 36 ust. 1 ustawy wymienionej wart. 6, do końca okresu ważności dowodu uwierzytelnienia, jednak nie dłużej niż do dnia uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej.
+**Art. 7.** W ustawie z dnia 6 września 2001 r o zmianie ustawy - Prawo o ruchu drogowym (Dz.U. Nr 129, poz. 1444 i Nr 154, poz. 1798 oraz z 2002 r. Nr 216, poz. 1825) w art. 4 uchyla się ust. 12.
 
-**Art. 10.** Kierowcy prowadzący pojazdy samochodowe używane do przewozu osób (pasażerów) lub rzeczy, zarejestrowane po raz pierwszy przed dniem 1stycznia 1985 r., albo nieobjęte obowiązkiem wyposażenia wurządzenie rejestrujące prędkość jazdy, czas jazdy ipostoju, na podstawie przepisów ustawy zdnia 20 czerwca 1997 r. Prawo o ruchu drogowym, lub zwolnione z tego obowiązku, mogą prowadzić karty drogowe nie dłużej niż do dnia uzyskania przez Rzeczpospolitą Polską członkostwa wUnii Europejskiej.
+**Art. 8.** Do postępowań administracyjnych w sprawach objętych przepisami niniejszej ustawy wszczętych, a niezakończonych przed dniem jej wejścia w życie, stosuje się przepisy tej ustawy.
+
+**Art. 9.** Kierowcy pojazd(cid:243)w samochodowych używanych do przewozu os(cid:243)b (pasażer(cid:243)w) lub rzeczy, kt(cid:243)re zostały wyposażone w przyrządy kontrolne niespełniające wymagań ustawy, uwierzytelnione przed dniem 1 stycznia 2003 r., prowadzą karty drogowe, o kt(cid:243)rych mowa w art. 36 ust. 1 ustawy wymienionej w art. 6, do końca okresu ważności dowodu uwierzytelnienia, jednak nie dłużej niż do dnia uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej.
+
+**Art. 10.** Kierowcy prowadzący pojazdy samochodowe używane do przewozu os(cid:243)b (pasażer(cid:243)w) lub rzeczy, zarejestrowane po raz pierwszy przed dniem 1 stycznia 1985 r., albo nieobjęte obowiązkiem wyposażenia w urządzenie rejestrujące prędkość jazdy, czas jazdy i postoju, na podstawie przepis(cid:243)w ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym, lub zwolnione z tego obowiązku, mogą prowadzić karty drogowe nie dłużej niż do dnia uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej.
 
 **Art. 11.**
 
-1. Kierowców posiadających świadectwa kwalifikacji wydane na podstawie art. 115bustawy wymienionej wart. 4, lub na podstawie art. 4 ust. 12 ustaArt. 13.Osoby wykonujące wdniu wejścia wżycie ustawy przewozy na potrzeby własne są obowiązane wterminie do dnia 31 grudnia 2003 r. spełnić wymagania określone przepisami art. 39c ust. 1 oraz art.39dust. 1 ustawy wymienionej wart. 1.
+1. Kierowc(cid:243)w posiadających świadectwa kwalifikacji wydane na podstawie art. 115b ustawy wymienionej w art. 4, lub na podstawie art. 4 ust. 12 ustawy wymienionej w art. 7, uznaje się za spełniających wymagania określone przepisami:
 
-**Art. 14.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 20 ust. 2, art. 41 ust. 4, art. 43 ust. 2, art. 69 ust. 3 oraz art. 89 ust. 2 ustawy wymienionej wart. 1 zachowują moc do czasu wydania nowych przepisów wykonawczych na podstawie upoważnień w brzmieniu nadanym niniejszą ustawą, nie dłużej niż przez okres 12 miesięcy od dnia wejścia wżycie ustawy.
+- **1)** rozdziału 7a ustawy, o kt(cid:243)rej mowa w art. 1,
+- **2)** art. 95 i 95a ustawy, o kt(cid:243)rej mowa w art. 4 - nie dłużej jednak niż przez okres i w zakresie na jaki zostały wydane.
+
+2. Świadectwa kwalifikacji, o kt(cid:243)rych mowa w ust. 1, uznaje się odpowiednio za r(cid:243)wnoważne z zaświadczeniem, o kt(cid:243)rym mowa w art. 39e ust. 1 pkt 6 ustawy wymienionej w art. 1 oraz w art. 95a ust. 1 pkt 2 i ust. 2 i 3 ustawy wymienionej w art. 4, nie dłużej jednak niż przez okres, na kt(cid:243)ry zostały wydane.
+
+**Art. 12.** Zaświadczenie o ukończeniu kursu dokształcającego wydane na podstawie przepis(cid:243)w ustawy wymienionej w art. 4 uznaje się za r(cid:243)wnoważne z zaświadczeniem, o kt(cid:243)rym mowa w art. 39b ust. 5 ustawy wymienionej w art. 1.
+
+**Art. 13.** Osoby wykonujące w dniu wejścia w życie ustawy przewozy na potrzeby własne są obowiązane w terminie do dnia 31 grudnia 2003 r. spełnić wymagania określone przepisami art. 39c ust. 1 oraz art. 39d ust. 1 ustawy wymienionej w art. 1. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 20 ust. 2, art. 41 ust. 4, art. 43 ust. 2, art. 69 ust. 3 oraz art. 89 ust. 2 ustawy wymienionej w art. 1 zachowują moc do czasu wydania nowych przepis(cid:243)w wykonawczych na podstawie upoważnień w brzmieniu nadanym niniejszą ustawą, nie dłużej niż przez okres 12 miesięcy od dnia wejścia w życie ustawy.
 
 **Art. 15.**
 
-1. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 34 ust. 1 pkt 1 ustawy wymienionej w art. 2 zachowują moc do czasu wydania nowych przepisów wykonawczych na podstawie upoważnienia wbrzmieniu nadanym niniejszą ustawą, nie dłużej niż przez okres 12 miesięcy od dnia wejścia wżycie ustawy. wy wymienionej w art. 7, uznaje się za spełniających wymagania określone przepisami:
+1. Dotyczczasowe przepisy wykonawcze wydane na podstawie art. 34 ust. 1 pkt 1 ustawy wymienionej w art. 2 zachowują moc do czasu wydania nowych przepis(cid:243)w wykonawczych na podstawie upoważnienia w brzmieniu nadanym niniejszą ustawą, nie dłużej niż przez okres 12 miesięcy od dnia wejścia w życie ustawy.
 
-- **1)** rozdziału 7austawy, októrej mowa wart. 1,
-- **2)** art. 95 i95austawy, októrej mowa wart. 4 nie dłużej jednak niż przez okres iwzakresie, na jaki zostały wydane.
+2. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 100 ust. 1 pkt 1 i 2, art. 115 ust. 2 oraz art. 125 ustawy wymienionej w art. 4 zachowują moc do czasu wydania nowych przepis(cid:243)w wykonawczych na podstawie upoważnień w brzmieniu nadanym niniejszą ustawą, nie dłużej niż przez okres 12 miesięcy od dnia wejścia w życie ustawy.
 
-2. Âwiadectwa kwalifikacji, o których mowa wust.1, uznaje się odpowiednio za równoważne zzaświadczeniem, o którym mowa w art. 39e ust. 1 pkt 6 ustawy wymienionej wart. 1 oraz wart. 95aust. 1 pkt2 iust. 2 i3 ustawy wymienionej wart. 4, nie dłużej jednak niż przez okres, na który zostały wydane.
+3. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 115c ust. 3 ustawy wymienionej w art. 4, zachowują moc do czasu wydania nowych przepis(cid:243)w wykonawczych na podstawie art. 39b ust. 7 ustawy wymienionej w art. 1, nie dłużej niż przez okres 12 miesięcy od dnia wejścia w życie ustawy.
 
-**Art. 12.** Zaświadczenie o ukończeniu kursu dokształcającego wydane na podstawie przepisów ustawy wymienionej w art. 4 uznaje się za równoważne z zaświadczeniem, o którym mowa w art. 39b ust. 5 ustawy wymienionej wart. 1. 2. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 100 ust. 1 pkt 1 i2, art. 115 ust. 2 oraz art. 125 ustawy wymienionej w art. 4 zachowują moc do czasu wydania nowych przepisów wykonawczych na podstawie upoważnień w brzmieniu nadanym niniejszą ustawą, nie dłużej niż przez okres 12 miesięcy od dnia wejścia wżycie ustawy. 3. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 115c ust. 3 ustawy wymienionej w art. 4 zachowują moc do czasu wydania nowych przepisów wykonawczych na podstawie art. 39bust. 7 ustawy wymienionej wart. 1, nie dłużej niż przez okres 12 miesięcy od dnia wejścia wżycie ustawy.
-
-**Art. 16.** Ustawa wchodzi wżycie po upływie 30 dni od dnia ogłoszenia, zwyjątkiem przepisów art. 1 pkt 16, pkt 17, pkt 25, pkt 33, pkt 34, pkt 44 lit. boraz art. 2, art.4 pkt 1—12 ipkt 15, art. 7, art. 11 iart. 12, które wchodzą wżycie zdniem 1 stycznia 2004 r. Prezydent Rzeczypospolitej Polskiej:A. Kwaśniewski 1453 USTAWA zdnia 24 lipca 2003 r. ospłacie pożyczek udzielonych w2000 r. kasom chorych zbudżetu państwa
-
-**Art. 1.** Pożyczki udzielone w2000 r. kasom chorych zbudżetu państwa na podstawie art. 169iustawy zdnia 6 lutego 1997 r. o powszechnym ubezpieczeniu zdrowotnym (Dz. U. 28, poz. 153, zpóên. zm. 2. W celu zabezpieczenia wierzytelności, które wynikają zumów pożyczek, Skarb Państwa reprezentowany przez ministra właściwego do spraw budżetu może ) podlega- żądać zabezpieczenia w postaci weksla lub aktu notają wraz z oprocentowaniem w całości zwrotowi nie rialnego, wktórym dłużnik oświadcza, że podda się egpóêniej niż do dnia 31 marca 2007 r. zekucji na rzecz Skarbu Państwa.
-
-**Art. 2.**
-
-1. Spłata pożyczek wraz zoprocentowaniem Art. 3. 1. Warunki spłaty pożyczki określa umowa następuje w ratach z przychodów dłużnika, z wyłącze- zawarta między dłużnikiem aministrem właściwym do niem dotacji przekazywanych zbudżetu państwa. spraw budżetu. ———————
-
-2. Umowa, októrej mowa wust. 1, określa wszczególności wysokość oprocentowania pożyczki, wysokość rat oraz termin zwrotu pożyczki.
-
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski
+**Art. 16.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem przepis(cid:243)w art. 1 pkt 16, pkt 17, pkt 25, pkt 33, pkt 34, pkt 44 lit. b oraz art. 2, art. 4 pkt 1-12 i pkt 15, art. 7, art. 11 i art. 12, kt(cid:243)re wchodzą w życie z dniem 1 stycznia 2004 r. W Wskazane kary podlegają sumowaniu
 

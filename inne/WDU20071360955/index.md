@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ Warszawa, TREÂå: Poz.: USTAWY: 955 — zdnia 15 czerwca 2007 r. ozmianie ustawy ofinansowym własnego mieszkania . . . . . . .
+# o zmianie ustawy o finansowym wsparciu rodzin w nabywaniu własnego mieszkania
+
+*USTAWA z dnia 15 czerwca 2007 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,10 +26,7 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071360955) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/955/text.pdf) |
 
-956 — zdnia 29 czerwca 2007 r. ozmianie ustawy omuzeach 957 — zdnia 29 czerwca 2007 r. ozmianie ustawy oKrajowym 958 — zdnia 29 czerwca 2007 r. ozmianie ustawy — 959 — zdnia 29 czerwca 2007 r. ozmianie ustawy — niektórych innych ustaw . . . . . .
-ROZPORZÑDZENIA RADY 960 — zdnia 24 lipca 2007 r. uchylające rozporządzenie ce rozporządzenie w sprawie podstawy programowej kształcenia ogólnego wposzczególnych typach 961 — z dnia 24 lipca 2007 r. w sprawie ustalenia granic miejscowościom statusu miasta . . .
-962 — z dnia 26 lipca 2007 r. w sprawie szczegółowych upraw roślin energetycznych oraz wyznaczenia kontrolującej te warunki . . . . . .
-z dnia o zmianie ustawy o finansowym wsparciu
+**Art. 1.** W ustawie z dnia 8 września 2006 r. o finansowym wsparciu rodzin w nabywaniu własnego mieszkania (Dz. U. Nr 183, poz. 1354) w art. 2 pkt 7 otrzymuje brzmienie: „7) średni wskaźnik przeliczeniowy kosztu odtworzenia 1 m powierzchni użytkowej budynków mieszkalnych – iloczyn współczynnika 1,3 oraz średniej arytmetycznej dwóch ostatnio ogłoszonych wartości wskaźnika, o którym mowa w art. 2 ust. 1 pkt 12 ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego (Dz. U. z 2005 r. Nr 31, poz. 266, z późn. zm. ), obowiązujących dla gminy, na terenie której położony jest lokal mieszkalny lub dom jednorodzinny, na który ma być udzielony kredyt preferencyjny;”.
 
-**Art. 1.** Wustawie zdnia 8września 2006 r. ofinansowym wsparciu rodzin w nabywaniu własnego mieszkania (Dz. U. Nr 183, poz. 1354) w art. 2 otrzymuje brzmienie: Ń7) średni wskaênik przeliczeniowy kosztu odtworzenia 1 m powierzchni użytkowej budynków mieszkalnych — iloczyn współczynnika 1,3 średniej arytmetycznej dwóch ostatnio ogłoszonych wartości wskaênika, októrym mowa wart.2 ust. 1 pkt 12 ustawy z dnia 21 czerwca 2001 o ochronie praw lokatorów, mieszkaniowym ——————— Zmiany tekstu jednolitego wymienionej ustawy zostały poz.602, Nr 167, poz. 1193 iNr 249, poz. 1833 oraz
+**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

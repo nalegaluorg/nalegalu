@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 6 sierpnia 2019 r.
+# o zmianie ustawy o organizacji i funkcjonowaniu funduszy emerytalnych oraz ustawy o pracowniczych programach emerytalnych
+
+*USTAWA z dnia 13 czerwca 2019 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,9 +25,6 @@ domain: null
 | Data wydania | 2019-08-06 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001474) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1474/text.pdf) |
-
-USTAWA z dnia 13 czerwca 2019 r.
-o zmianie ustawy o organizacji i funkcjonowaniu funduszy emerytalnych oraz ustawy o pracowniczych programach emerytalnych
 
 **Art. 1.** W ustawie z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych (Dz. U. z 2018 r. poz. 1906 i 2215 oraz z 2019 r. poz. 1074) wprowadza się następujące zmiany:
 
@@ -69,15 +68,16 @@ o zmianie ustawy o organizacji i funkcjonowaniu funduszy emerytalnych oraz ustaw
 
 1. Pracownicze towarzystwo jest obowiązane do prowadzenia i dokumentowania własnej oceny ryzyka.
 
-2. Własną ocenę ryzyka, o której mowa ust. 1, przeprowadza się przynajmniej co 3 lata lub niezwłocznie po każdej istotnej zmianie profilu ryzyka pracowniczego towarzystwa. towarzystwa, jak również wielkość, charakter, skalę i złożoność jego działalności.
+2. Własną ocenę ryzyka, o której mowa ust. 1, przeprowadza się przynajmniej co 3 lata lub niezwłocznie po każdej istotnej zmianie profilu ryzyka pracowniczego towarzystwa.
+
+3. Własna ocena ryzyka, o której mowa ust. 1, uwzględnia wielkość i organizację wewnętrzną pracowniczego towarzystwa, jak również wielkość, charakter, skalę i złożoność jego działalności.
 
 4. Własna ocena ryzyka, o której mowa ust. 1, obejmuje następujące elementy:
 
 - **1)** opis sposobu włączenia własnej oceny ryzyka do procesu zarządzania i procesów decyzyjnych pracowniczego towarzystwa;
-- **2)** ocenę skuteczności zarządzania ryzykiem, o którym mowa art. 42a ust. 1 pkt 1;
-- **3)** opis, jak pracownicze towarzystwo zapobiega konfliktom interesów z pracodawcą, przypadku gdy pracownicze towarzystwo powierza pełnienie kluczowych funkcji osobie trzeciej lub zewnętrznej jednostce organizacyjnej pełniącej podobną kluczową funkcję u pracodawcy, zgodnie z art. 42a ust. 5;
+- **2)** ocenę skuteczności zarządzania ryzykiem, o którym mowa art. 42a ust. 1 pkt 1; nej pełniącej podobną kluczową funkcję u pracodawcy, zgodnie z art. 42a ust. 5;
 - **4)** ocenę jakościową poszczególnych rodzajów ryzyka operacyjnego;
-- **5)** ocenę nowych lub powstających rodzajów ryzyka, tym ryzyka związanego ze zmianą klimatu, wykorzystaniem zasobów i środowiskiem, a także ryzyka społecznego i ryzyka związanego ze spadkiem wartości aktywów z powodu zmiany przepisów prawa przypadku gdy przy podejmowaniu decyzji inwestycyjnych bierze się pod uwagę czynniki środowiskowe i społeczne oraz czynniki związane z ładem korporacyjnym.
+- **5)** ocenę nowych lub powstających rodzajów ryzyka, tym ryzyka związanego ze zmianą klimatu, wykorzystaniem zasobów i środowiskiem, a także ryzyka społecznego i ryzyka związanego ze spadkiem wartości aktywów z powodu zmiany przepisów prawa – przypadku gdy przy podejmowaniu decyzji inwestycyjnych bierze się pod uwagę czynniki środowiskowe i społeczne oraz czynniki związane z ładem korporacyjnym.
 
 5. Własna ocena ryzyka, o której mowa ust. 1, obejmuje również opis metody określania i oceny rodzajów ryzyka, na które pracownicze towarzystwo jest lub może być narażone perspektywie krótko- i długoterminowej i które mogą mieć wpływ na zdolność pracowniczego towarzystwa do wypełniania swoich obowiązków. Metody te są proporcjonalne do wielkości, charakteru, skali i złożoności ryzyk właściwych dla działalności pracowniczego towarzystwa.
 
@@ -110,16 +110,16 @@ o zmianie ustawy o organizacji i funkcjonowaniu funduszy emerytalnych oraz ustaw
 
 - **1)** nazwę przyjmującego państwa członkowskiego lub przyjmujących państw członkowskich, które określa pracodawca;
 - **2)** firmę, siedzibę i adres pracodawcy;
-- **3)** główne cechy charakterystyczne pracowniczego programu emerytalnego, jaki ma być obsługiwany, szczególności: jest obowiązany do ich przekazania zagranicznemu organowi nadzoru przyjmującym państwie członkowskim.
+- **3)** główne cechy charakterystyczne pracowniczego programu emerytalnego, jaki ma być obsługiwany, szczególności:
     - **a)** warunki uczestnictwa pracowniczym programie emerytalnym,
     - **b)** szacunkową liczbę uczestników pracowniczego programu emerytalnego,
     - **c)** wysokość składki wnoszonej przez pracodawcę i pracownika,
     - **d)** warunki uzyskania wypłaty,
     - **e)** opcje wypłaty.
 
-4. O przekazaniu informacji, o których mowa ust. 2, organ nadzoru niezwłocznie powiadamia pracowniczy fundusz.
+3. Organ nadzoru, terminie 3 miesięcy od dnia otrzymania wszystkich informacji, o których mowa ust. 2, jest obowiązany do ich przekazania zagranicznemu organowi nadzoru przyjmującym państwie członkowskim.
 
-5. Pracowniczy fundusz może rozpocząć wykonywanie działalności transgranicznej od dnia otrzymania powiadomienia, o którym mowa ust. 4.
+4. O przekazaniu informacji, o których mowa ust. 2, organ nadzoru niezwłocznie powiadamia pracowniczy fundusz.
 
 6. Organ nadzoru jest zwolniony z obowiązku, o którym mowa ust. 3, jeżeli po otrzymaniu wszystkich informacji, o których mowa ust. 2, wydał decyzję o zakazie wykonywania działalności transgranicznej.
 
@@ -131,7 +131,7 @@ o zmianie ustawy o organizacji i funkcjonowaniu funduszy emerytalnych oraz ustaw
 
 **Art. 26h.**
 
-1. W przypadku nieprzekazania przez organ nadzoru zagranicznemu organowi nadzoru przyjmującym państwie członkowskim informacji, o których mowa art. 26g ust. 2, terminie 3 miesięcy od dnia ich otrzymania, pracowniczemu funduszowi przysługuje prawo do wniesienia do organu nadzoru ponaglenia, o którym mowa art. 37 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2018 r. poz. 2096 oraz z 2019 r. poz. 60, 730 i 1133).
+1. W przypadku nieprzekazania przez organ nadzoru zagranicznemu organowi nadzoru przyjmującym państwie członkowskim informacji, o których mowa art. 26g ust. 2, terminie 3 miesięcy od dnia ich otrzymania, pracowniczemu funduszowi przysługuje prawo do wniesienia do organu nadzoru ponaglenia, o którym mowa art. 37 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2018 r. poz. 2096 oraz z 2019 r. poz. 60, 730 i 1133).
 
 2. Pracowniczemu funduszowi przysługuje, każdym czasie po wniesieniu ponaglenia do organu nadzoru, prawo do wniesienia skargi na bezczynność organu do sądu administracyjnego właściwego ze względu na umiejscowienie siedziby pracowniczego funduszu, za pośrednictwem organu nadzoru.
 
@@ -157,27 +157,26 @@ o zmianie ustawy o organizacji i funkcjonowaniu funduszy emerytalnych oraz ustaw
 
 7. Osoba lub jednostka organizacyjna pełniąca kluczową funkcję powiadamia organ nadzoru, jeżeli pracownicze towarzystwo nie podejmie we właściwym czasie odpowiednich działań zaradczych następujących przypadkach:
 
-- **1)** gdy osoba lub jednostka organizacyjna pełniąca daną kluczową funkcję stwierdzi istnienie znacznego ryzyka niespełnienia przez pracownicze towarzystwo wymogów określonych ustawie, które może mieć znaczący wpływ na interesy członków funduszu oraz osób uprawnionych do otrzymania wypłaty, i zgłosi to pracowniczemu towarzystwu lub kluczowej funkcji, naruszenie przepisów ustawowych, wykonawczych lub regulacji wewnętrznych mających zastosowanie do pracowniczego towarzystwa i jego działalności oraz zgłosi to pracowniczemu towarzystwu.
-
-8. Pracownicze towarzystwo zapewnia osobom oraz jednostkom organizacyjnym pełniącym kluczowe funkcje, które zgłaszają informacje, o których mowa ust. 7, ochronę przed działaniami o charakterze represyjnym, dyskryminacją lub innymi rodzajami niesprawiedliwego traktowania, zwłaszcza przed wypowiedzeniem przez pracodawcę stosunku pracy lub jego rozwiązaniem bez wypowiedzenia bez ważnego powodu lub rozwiązaniem umowy bez ważnego powodu.
+- **1)** gdy osoba lub jednostka organizacyjna pełniąca daną kluczową funkcję stwierdzi istnienie znacznego ryzyka niespełnienia przez pracownicze towarzystwo wymogów określonych ustawie, które może mieć znaczący wpływ na interesy członków funduszu oraz osób uprawnionych do otrzymania wypłaty, i zgłosi to pracowniczemu towarzystwu lub
+- **2)** gdy osoba lub jednostka organizacyjna pełniąca daną kluczową funkcję zauważy, związku z pełnieniem tej kluczowej funkcji, naruszenie przepisów ustawowych, wykonawczych lub regulacji wewnętrznych mających zastosowanie do pracowniczego towarzystwa i jego działalności oraz zgłosi to pracowniczemu towarzystwu. które zgłaszają informacje, o których mowa ust. 7, ochronę przed działaniami o charakterze represyjnym, dyskryminacją lub innymi rodzajami niesprawiedliwego traktowania, zwłaszcza przed wypowiedzeniem przez pracodawcę stosunku pracy lub jego rozwiązaniem bez wypowiedzenia bez ważnego powodu lub rozwiązaniem umowy bez ważnego powodu.
 
 9. Przepis ust. 8 stosuje się również do tego, kto udzielił jakiejkolwiek formie wsparcia zgłaszającemu informacje, o których mowa ust. 7.
 
 10. Jeżeli związku ze zgłoszonymi informacjami, o których mowa ust. 7, doszło wobec osoby lub jednostki organizacyjnej zgłaszającej te informacje do działań o charakterze represyjnym, dyskryminacji lub innych rodzajów niesprawiedliwego traktowania, stosuje się odpowiednio przepisy art. 13–16 ustawy z dnia 3 grudnia 2010 r. o wdrożeniu niektórych przepisów Unii Europejskiej zakresie równego traktowania (Dz. U. z 2016 r. poz. 1219), z zastrzeżeniem ust. 11–14.
 
-11. Jeżeli związku ze zgłoszonymi informacjami, o których mowa ust. 7, doszło do wypowiedzenia umowy o pracę osobie zgłaszającej te informacje, a informacje te były zasadne, sąd pracy na skutek odwołania osoby, która zgłosiła te informacje, orzeka o bezskuteczności wypowiedzenia umowy o pracę, a jeżeli umowa uległa już rozwiązaniu o przywróceniu tej osoby do pracy na poprzednich warunkach albo o odszkodowaniu.
+11. Jeżeli związku ze zgłoszonymi informacjami, o których mowa ust. 7, doszło do wypowiedzenia umowy o pracę osobie zgłaszającej te informacje, a informacje te były zasadne, sąd pracy na skutek odwołania osoby, która zgłosiła te informacje, orzeka o bezskuteczności wypowiedzenia umowy o pracę, a jeżeli umowa uległa już rozwiązaniu – o przywróceniu tej osoby do pracy na poprzednich warunkach albo o odszkodowaniu.
 
 12. Jeżeli związku ze zgłoszonymi informacjami, o których mowa ust. 7, doszło do rozwiązania umowy o pracę bez wypowiedzenia z osobą zgłaszającą te informacje, a informacje te były zasadne, sąd pracy na skutek odwołania osoby, która zgłosiła te informacje, orzeka o przywróceniu tej osoby do pracy na poprzednich warunkach albo o odszkodowaniu.
 
-13. Jeżeli sąd pracy orzeka o odszkodowaniu związku z wypowiedzeniem umowy o pracę lub rozwiązaniem umowy o pracę bez wypowiedzenia, jego wysokość ustala się sposób określony przepisach ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2019 r. poz. 1040 i 1043).
+13. Jeżeli sąd pracy orzeka o odszkodowaniu związku z wypowiedzeniem umowy o pracę lub rozwiązaniem umowy o pracę bez wypowiedzenia, jego wysokość ustala się sposób określony przepisach ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2019 r. poz. 1040 i 1043).
 
-14. Jeżeli związku ze zgłoszonymi informacjami, o których mowa ust. 7, doszło do rozwiązania umowy z jednostką organizacyjną zgłaszającą te informacje, a informacje te były zasadne, sąd na skutek żądania jednostki organizacyjnej, która zgłosiła te informacje, orzeka o odszkodowaniu, którego wysokość ustala się zgodnie z przepisami ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. z 2019 r. poz. 1145).
+14. Jeżeli związku ze zgłoszonymi informacjami, o których mowa ust. 7, doszło do rozwiązania umowy z jednostką organizacyjną zgłaszającą te informacje, a informacje te były zasadne, sąd na skutek żądania jednostki organizacyjnej, która zgłosiła te informacje, orzeka o odszkodowaniu, którego wysokość ustala się zgodnie z przepisami ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2019 r. poz. 1145).
 
 **Art. 42b.**
 
 1. Funkcja zarządzania ryzykiem, o której mowa art. 42a ust. 1 pkt 1, ma na celu ułatwienie funkcjonowania skutecznego systemu zarządzania ryzykiem, zintegrowanego ze strukturą organizacyjną oraz z procesami decyzyjnymi pracowniczego towarzystwa.
 
-2. System zarządzania ryzykiem, o którym mowa ust. 1, obejmuje sposób proporcjonalny do wielkości i organizacji wewnętrznej, a także do wielkości, charakteru, zakresu i złożoności działalności pracowniczego towarzystwa rodzaje ryzyka, które mogą wystąpić toku działalności pracowniczego towarzystwa, pracowniczego funduszu lub podmiotach zewnętrznych, którym powierzono wykonywanie zadań pracowniczego towarzystwa, co najmniej następujących obszarach:
+2. System zarządzania ryzykiem, o którym mowa ust. 1, obejmuje – sposób proporcjonalny do wielkości i organizacji wewnętrznej, a także do wielkości, charakteru, zakresu i złożoności działalności pracowniczego towarzystwa – rodzaje ryzyka, które mogą wystąpić toku działalności pracowniczego towarzystwa, pracowniczego funduszu lub podmiotach zewnętrznych, którym powierzono wykonywanie zadań pracowniczego towarzystwa, co najmniej następujących obszarach:
 
 - **1)** zarządzanie aktywami i pasywami;
 - **2)** inwestycje, szczególności instrumenty pochodne, sekurytyzacje i podobne instrumenty finansowe;
@@ -186,7 +185,9 @@ o zmianie ustawy o organizacji i funkcjonowaniu funduszy emerytalnych oraz ustaw
 - **5)** inne techniki ograniczania ryzyka;
 - **6)** ryzyka związane z czynnikami środowiskowymi, społecznymi i czynnikami związanymi z ładem korporacyjnym oraz ryzyka związane z portfelem inwestycyjnym, a także zarządzaniem nim.
 
-**Art. 42c.** Funkcja audytu wewnętrznego, o której mowa art. 42a ust. 1 pkt 2, obejmuje sposób proporcjonalny do wielkości i organizacji wewnętrznej, a także do wielkości, charakteru, zakresu i złożoności działalności pracowniczego towarzystwa ocenę adekwatności i skuteczności systemu kontroli wewnętrznej i innych elementów systemu zarządzania, tym wykonywania zadań powierzonych osobom trzecim lub zewnętrznym jednostkom organizacyjnym. duszu podmiotom zewnętrznym spełniającym wymogi zakresie wykonywania kluczowych funkcji, określone art. 153 ust. 4 pkt 8 oraz ustawie z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2018 r. poz. 1355, 2215, 2243 i 2244 oraz z 2019 r. poz. 730 i 875), pracownicze towarzystwo jest zwolnione z obowiązku spełniania tych wymogów.”;
+**Art. 42c.** Funkcja audytu wewnętrznego, o której mowa art. 42a ust. 1 pkt 2, obejmuje – sposób proporcjonalny do wielkości i organizacji wewnętrznej, a także do wielkości, charakteru, zakresu i złożoności działalności pracowniczego towarzystwa – ocenę adekwatności i skuteczności systemu kontroli wewnętrznej i innych elementów systemu zarządzania, tym wykonywania zadań powierzonych osobom trzecim lub zewnętrznym jednostkom organizacyjnym.
+
+**Art. 42d.** W przypadku powierzenia przez pracownicze towarzystwo zarządzania aktywami pracowniczego funduszu podmiotom zewnętrznym spełniającym wymogi zakresie wykonywania kluczowych funkcji, określone art. 153 ust. 4 pkt 8 oraz ustawie z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatyw5) po art. 47a dodaje się art. 47b brzmieniu: „Art. 47b. 1. Pracownicze towarzystwo jest obowiązane, biorąc pod uwagę swoją wielkość i organizację wewnętrzną, a także wielkość, charakter, zakres i złożoność działalności, ustanowić i stosować politykę wynagrodzeń wobec:
 
 **Art. 106l.**
 
@@ -205,7 +206,7 @@ o zmianie ustawy o organizacji i funkcjonowaniu funduszy emerytalnych oraz ustaw
 - **1)** zwykłą większość członków pracowniczego funduszu przenoszącego i osób uprawnionych do otrzymania wypłaty, których ono dotyczy, albo ich przedstawicieli, oraz
 - **2)** pracodawcę.
 
-2. Informacje o warunkach przeniesienia transgranicznego pracownicze towarzystwo zarządzające pracowniczym funduszem przenoszącym udostępnia członkom funduszu i osobom uprawnionym do otrzymania wypłaty, których ono dotyczy, albo ich przedstawicielom, na co najmniej 30 dni przed planowanym dniem złożenia przez pracowniczy fundusz przyjmujący wniosku o wydanie zezwolenia na przeniesienie transgraniczne składanego do organu nadzoru rodzimego państwa członkowskiego pracowniczego funduszu przyjmującego. się pracowniczym funduszem przyjmującym, przeniesienie transgraniczne, o którym mowa art. 106l ust. 4, wymaga wydania przez organ nadzoru zezwolenia na przeniesienie transgraniczne.
+2. Informacje o warunkach przeniesienia transgranicznego pracownicze towarzystwo zarządzające pracowniczym funduszem przenoszącym udostępnia członkom funduszu i osobom uprawnionym do otrzymania wypłaty, których ono dotyczy, albo ich przedstawicielom, na co najmniej 30 dni przed planowanym dniem złożenia przez pracowniczy fundusz przyjmujący wniosku o wydanie zezwolenia na przeniesienie transgraniczne składanego do organu nadzoru rodzimego państwa członkowskiego pracowniczego funduszu przyjmującego. wydania przez organ nadzoru zezwolenia na przeniesienie transgraniczne.
 
 2. Wniosek o wydanie zezwolenia na przeniesienie transgraniczne składa do organu nadzoru pracowniczy fundusz przyjmujący.
 
@@ -234,9 +235,9 @@ o zmianie ustawy o organizacji i funkcjonowaniu funduszy emerytalnych oraz ustaw
 
 7. Organ nadzoru przekazuje decyzję, o której mowa ust. 6, właściwemu organowi nadzoru rodzimego państwa członkowskiego pracowniczego funduszu przenoszącego terminie 2 tygodni od dnia wydania takiej decyzji.
 
-8. Decyzja, o której mowa ust. 6, zawiera wyniki oceny, o której mowa ust. 5.
+8. Decyzja, o której mowa ust. 6, zawiera wyniki oceny, o której mowa ust. 5. czym funduszem przyjmującym, organ nadzoru odmawia wydania zezwolenia na przeniesienie transgraniczne, jeżeli ocena, o której mowa ust. 5, wykazała niespełnienie któregokolwiek z wymogów, o których mowa tym przepisie.
 
-9. W przypadku gdy działający na terytorium Rzeczypospolitej Polskiej pracowniczy fundusz staje się pracowniczym funduszem przyjmującym, organ nadzoru odmawia wydania zezwolenia na przeniesienie transgraniczne, jeżeli ocena, o której mowa ust. 5, wykazała niespełnienie któregokolwiek z wymogów, o których mowa tym przepisie. cowniczym funduszem przenoszącym i do organu nadzoru wpłynie, za pośrednictwem właściwego organu nadzoru rodzimego państwa członkowskiego pracowniczego funduszu przyjmującego, wniosek pracowniczego funduszu przyjmującego o wydanie zezwolenia na przeniesienie transgraniczne, organ nadzoru terminie 8 tygodni od dnia otrzymania tego wniosku dokonuje oceny, o której mowa ust. 11, i wydaje zgodę na przeniesienie transgraniczne albo odmawia wydania takiej zgody i przekazuje ją właściwemu organowi nadzoru rodzimego państwa członkowskiego pracowniczego funduszu przyjmującego, celu umożliwienia temu organowi wydania zezwolenia na przeniesienie transgraniczne.
+10. W przypadku gdy działający na terytorium Rzeczypospolitej Polskiej pracowniczy fundusz staje się pracowniczym funduszem przenoszącym i do organu nadzoru wpłynie, za pośrednictwem właściwego organu nadzoru rodzimego państwa członkowskiego pracowniczego funduszu przyjmującego, wniosek pracowniczego funduszu przyjmującego o wydanie zezwolenia na przeniesienie transgraniczne, organ nadzoru terminie 8 tygodni od dnia otrzymania tego wniosku dokonuje oceny, o której mowa ust. 11, i wydaje zgodę na przeniesienie transgraniczne albo odmawia wydania takiej zgody i przekazuje ją właściwemu organowi nadzoru rodzimego państwa członkowskiego pracowniczego funduszu przyjmującego, celu umożliwienia temu organowi wydania zezwolenia na przeniesienie transgraniczne.
 
 11. W przypadku gdy działający na terytorium Rzeczypospolitej Polskiej pracowniczy fundusz staje się pracowniczym funduszem przenoszącym, organ nadzoru ocenia, czy:
 
@@ -250,7 +251,7 @@ o zmianie ustawy o organizacji i funkcjonowaniu funduszy emerytalnych oraz ustaw
 
 **Art. 106o.**
 
-1. W przypadku niewydania przez organ nadzoru terminie 3 miesięcy decyzji, o której mowa art. 106n ust. 6, pracowniczemu funduszowi przyjmującemu przysługuje prawo do wniesienia do organu nadzoru ponaglenia, o którym mowa art. 37 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
+1. W przypadku niewydania przez organ nadzoru terminie 3 miesięcy decyzji, o której mowa art. 106n ust. 6, pracowniczemu funduszowi przyjmującemu przysługuje prawo do wniesienia do organu nadzoru ponaglenia, o którym mowa art. 37 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
 2. Pracowniczemu funduszowi przyjmującemu przysługuje, każdym czasie po wniesieniu ponaglenia do organu nadzoru, prawo do wniesienia skargi na bezczynność organu do sądu administracyjnego właściwego ze względu na umiejscowienie siedziby pracowniczego funduszu przyjmującego, za pośrednictwem organu nadzoru.
 
@@ -264,9 +265,9 @@ o zmianie ustawy o organizacji i funkcjonowaniu funduszy emerytalnych oraz ustaw
 
 1. W przypadku gdy przeniesienie transgraniczne skutkuje działalnością transgraniczną i działający na terytorium Rzeczypospolitej Polskiej pracowniczy fundusz staje się pracowniczym funduszem przenoszącym, organ nadzoru przekazuje właściwemu organowi nadzoru rodzimego państwa członkowskiego pracowniczego funduszu przyjmującego informacje o wymogach wynikających z przepisów prawa ubezpieczeń społecznych i prawa pracy oraz o wymogach dotyczących przekazywania informacji określonych art. 22–22d ustawy z dnia 20 kwietnia 2004 r. o pracowniczych programach emerytalnych terminie 4 tygodni od dnia otrzymania od właściwego organu nadzoru rodzimego państwa członkowskiego pracowniczego funduszu przyjmującego informacji o decyzji o wydaniu zezwolenia na przeniesienie transgraniczne.
 
-2. W przypadku gdy działający na terytorium Rzeczypospolitej Polskiej pracowniczy fundusz staje się pracowniczym funduszem przyjmującym, organ nadzoru przekazuje temu funduszowi uzyskane od właściwego organu nadzoru rodzimego państwa członkowskiego pracowniczego funduszu przenoszącego informacje odpowiadające informacjom, o których mowa ust. 1, terminie tygodnia od dnia ich otrzymania.
+2. W przypadku gdy działający na terytorium Rzeczypospolitej Polskiej pracowniczy fundusz staje się pracowniczym funduszem przyjmującym, organ nadzoru przekazuje temu funduszowi uzyskane od właściwego organu nadzoru rodzimego państwa członkowskiego pracowniczego funduszu przenoszącego informacje odpowiadające informacjom, o których mowa ust. 1, terminie tygodnia od dnia ich otrzymania. o wydaniu zezwolenia, o której mowa art. 106n ust. 6, lub gdy terminie, o którym mowa ust. 2, organ nadzoru nie przekazał żadnych informacji.
 
-3. W przypadku gdy działający na terytorium Rzeczypospolitej Polskiej pracowniczy fundusz staje się pracowniczym funduszem przyjmującym, może on rozpocząć zarządzanie programem emerytalnym po otrzymaniu decyzji o wydaniu zezwolenia, o której mowa art. 106n ust. 6, lub gdy terminie, o którym mowa ust. 2, organ nadzoru nie przekazał żadnych informacji. niczym funduszem przyjmującym i prowadzi działalność transgraniczną, organ nadzoru przekazuje właściwemu organowi nadzoru rodzimego państwa członkowskiego pracowniczego funduszu przenoszącego informacje o istotnych zmianach wymogów wynikających z przepisów prawa ubezpieczeń społecznych i prawa pracy, dotyczących pracowniczych programów emerytalnych, które mogą wpływać na cechy charakterystyczne programu emerytalnego zakresie, jakim dotyczy to działalności transgranicznej, oraz o zmianach wymogów dotyczących przekazywania informacji określonych art. 22–22d ustawy z dnia 20 kwietnia 2004 r. o pracowniczych programach emerytalnych.
+4. W przypadku gdy działający na terytorium Rzeczypospolitej Polskiej pracowniczy fundusz staje się pracowniczym funduszem przyjmującym i prowadzi działalność transgraniczną, organ nadzoru przekazuje właściwemu organowi nadzoru rodzimego państwa członkowskiego pracowniczego funduszu przenoszącego informacje o istotnych zmianach wymogów wynikających z przepisów prawa ubezpieczeń społecznych i prawa pracy, dotyczących pracowniczych programów emerytalnych, które mogą wpływać na cechy charakterystyczne programu emerytalnego zakresie, jakim dotyczy to działalności transgranicznej, oraz o zmianach wymogów dotyczących przekazywania informacji określonych art. 22–22d ustawy z dnia 20 kwietnia 2004 r. o pracowniczych programach emerytalnych.
 
 5. W przypadku gdy działający na terytorium Rzeczypospolitej Polskiej pracowniczy fundusz staje się pracowniczym funduszem przenoszącym, organ nadzoru przekazuje temu funduszowi informacje odpowiadające informacjom, o których mowa ust. 4, uzyskane od właściwego organu nadzoru rodzimego państwa członkowskiego pracowniczego funduszu przyjmującego.”;
 
@@ -274,12 +275,11 @@ o zmianie ustawy o organizacji i funkcjonowaniu funduszy emerytalnych oraz ustaw
 - **1)** Europejskich Długoterminowych Funduszy Inwestycyjnych (ELTIF) działających na podstawie rozporządzenia Parlamentu Europejskiego i Rady (UE) 2015/760 z dnia 29 kwietnia 2015 r. sprawie europejskich długoterminowych funduszy inwestycyjnych (Dz. Urz. UE L 123 z 19.05.2015, str. 98);
 - **2)** Europejskich Funduszy na Rzecz Przedsiębiorczości Społecznej (EuSEF) działających na podstawie rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 346/2013 z dnia 17 kwietnia 2013 r. sprawie europejskich funduszy na rzecz przedsiębiorczości społecznej (Dz. Urz. UE L 115 z 25.04.2013, str. 18, z późn. zm. );
 - **3)** Europejskich Funduszy Venture Capital (EuVECA) działających na podstawie rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 345/2013 z dnia 17 kwietnia 2013 r. sprawie europejskich funduszy venture capital (Dz. Urz. UE L 115 z 25.04.2013, str. 1, z późn. zm. );
-- **4)** Europejskiego Funduszu na rzecz Inwestycji Strategicznych (EFSI) działającego na podstawie rozporządzenia Parlamentu Europejskiego i Rady (UE) 2015/1017 z dnia 25 czerwca 2015 r. sprawie Europejskiego Funduszu na rzecz Inwestycji Strategicznych, Europejskiego Centrum Doradztwa Inwestycyjnego i Europejskiego Portalu Projektów Inwestycyjnych oraz zmieniającego rozporządzenia (UE) nr 1291/2013 i (UE) nr 1316/2013 Europejski Fundusz na rzecz Inwestycji Strategicznych (Dz. Urz. UE L 169 z 01.07.2015, str. 1, z późn. zm. ).”;
+- **4)** Europejskiego Funduszu na rzecz Inwestycji Strategicznych (EFSI) działającego na podstawie rozporządzenia Parlamentu Europejskiego i Rady (UE) 2015/1017 z dnia 25 czerwca 2015 r. sprawie Europejskiego Funduszu na rzecz Inwestycji Strategicznych, Europejskiego Centrum Doradztwa Inwestycyjnego i Europejskiego Portalu Projektów Inwestycyjnych oraz zmieniającego rozporządzenia (UE) nr 1291/2013 i (UE) nr 1316/2013 – Europejski Fundusz na rzecz Inwestycji Strategicznych (Dz. Urz. UE L 169 z 01.07.2015, str. 1, z późn. zm. ).”;
 - **11)** art. 147 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 brzmieniu: „2. Statut pracowniczego funduszu może określać, że pracowniczy fundusz swojej działalności uwzględnia potencjalne długoterminowe skutki decyzji inwestycyjnych dotyczących czynników środowiskowych, społecznych i czynników związanych z ładem korporacyjnym.”;
 - **12)** art. 152 ust. 2 otrzymuje brzmienie: „2. Podmiot, o którym mowa ust. 1, jest wybierany przez pracownicze towarzystwo, drodze uchwały rady nadzorczej, i zarządza częścią lub całością aktywów pracowniczego funduszu na podstawie pisemnej umowy z funduszem oraz zgodnie z określonymi statucie funduszu zasadami prowadzenia działalności lokacyjnej.”;
 - **13)** po art. 152 dodaje się art. 152a brzmieniu: „Art. 152a. Pracownicze towarzystwo zarządzające pracowniczym funduszem niezwłocznie informuje organ nadzoru o zawarciu przez pracowniczy fundusz umowy, o której mowa art. 152 ust. 2, a także o każdej jej zmianie.”;
-- **14)** art. 157 otrzymuje brzmienie: „Art. 157. Fundusz jest obowiązany wybrać depozytariusza, któremu na podstawie pisemnej umowy powierza przechowywanie swoich aktywów.”;
-- **15)** art. 160 ust. 1 otrzymuje brzmienie: „1. Umowa z depozytariuszem o przechowywanie aktywów funduszu powinna określać szczegółowo obowiązki depozytariusza i funduszu, sposób ich wykonywania, wynagrodzenie depozytariusza, sposób obliczania kosztów i pobierania opłat obciążających fundusz, a także wskazywać osoby wyznaczone przez depozytariusza bezpośrednio odpowiedzialne za należyte wykonanie umowy. Fundusz umowie zobowiązuje się do przekazywania depozytariuszowi informacji niezbędnych do wykonywania jego obowiązków. Umowa może także określać szczególności funduszem, zgodnie z art. 64 ust. 1, lub funkcji likwidatora pracowniczego funduszu. Umowa nie może ograniczać ustawowych obowiązków depozytariusza.”;
+- **14)** art. 157 otrzymuje brzmienie: „Art. 157. Fundusz jest obowiązany wybrać depozytariusza, któremu na podstawie pisemnej umowy powierza przechowywanie swoich aktywów.”; „1. Umowa z depozytariuszem o przechowywanie aktywów funduszu powinna określać szczegółowo obowiązki depozytariusza i funduszu, sposób ich wykonywania, wynagrodzenie depozytariusza, sposób obliczania kosztów i pobierania opłat obciążających fundusz, a także wskazywać osoby wyznaczone przez depozytariusza bezpośrednio odpowiedzialne za należyte wykonanie umowy. Fundusz umowie zobowiązuje się do przekazywania depozytariuszowi informacji niezbędnych do wykonywania jego obowiązków. Umowa może także określać szczególności wysokość wynagrodzenia z tytułu pełnienia przez depozytariusza funkcji podmiotu reprezentującego i zarządzającego funduszem, zgodnie z art. 64 ust. 1, lub funkcji likwidatora pracowniczego funduszu. Umowa nie może ograniczać ustawowych obowiązków depozytariusza.”;
 - **16)** po art. 192 dodaje się art. 192a brzmieniu: „Art. 192a. Pracowniczy fundusz udostępnia statut funduszu za pośrednictwem ogólnodostępnej strony internetowej.”;
 - **17)** art. 194a:
     - **a)** po ust. 2 dodaje się ust. 2a brzmieniu: „2a. Jeżeli pracowniczy fundusz swojej działalności uwzględnia potencjalne długoterminowe skutki decyzji inwestycyjnych dotyczących czynników środowiskowych, społecznych i czynników związanych z ładem korporacyjnym, to deklaracja pracowniczego funduszu zawiera informację, jaki sposób pracowniczy fundusz uwzględnia swojej działalności te czynniki.”,
@@ -290,6 +290,8 @@ o zmianie ustawy o organizacji i funkcjonowaniu funduszy emerytalnych oraz ustaw
 2. Informację, o której mowa ust. 1, pracowniczy fundusz przekazuje terminie 14 dni od dnia zaistnienia tych zmian, formie pisemnej, postaci papierowej lub elektronicznej.
 
 **Art. 194c.** Pracowniczy fundusz jest obowiązany do sporządzenia i bezpłatnego udostępnienia przynajmniej raz roku członkowi funduszu informacji, o której mowa art. 22b ustawy z dnia 20 kwietnia 2004 r. o pracowniczych programach emerytalnych.”;
+
+**Art. 2.** W ustawie z dnia 20 kwietnia 2004 r. o pracowniczych programach emerytalnych (Dz. U. z 2019 r. poz. 850) wprowadza się następujące zmiany:
 
 **Art. 22c.**
 
@@ -331,7 +333,7 @@ o zmianie ustawy o organizacji i funkcjonowaniu funduszy emerytalnych oraz ustaw
 
 **Art. 3.** System zarządzania, o którym mowa art. 26a ust. 1 ustawy zmienianej art. 1, jest po raz pierwszy przygotowany i wprowadzony terminie 3 miesięcy od dnia wejścia życie przepisów, o których mowa art. 6 pkt 1 i 2.
 
-**Art. 4.** Własnej oceny ryzyka, o której mowa art. 26e ust. 1 ustawy zmienianej art. 1, pracownicze towarzystwa po raz pierwszy dokonują terminie 3 miesięcy od dnia wejścia życie przepisów, o których mowa art. 6 pkt 1 i 2. nawiana i stosowana terminie 3 miesięcy od dnia wejścia życie przepisów, o których mowa art. 6 pkt 1 i 2.
+**Art. 5.** Polityka wynagrodzeń, o której mowa art. 47b ust. 1 ustawy zmienianej art. 1, jest po raz pierwszy ustanawiana i stosowana terminie 3 miesięcy od dnia wejścia życie przepisów, o których mowa art. 6 pkt 1 i 2.
 
 **Art. 6.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 

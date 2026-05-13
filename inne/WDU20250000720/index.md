@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 3 czerwca 2025 r.
+# w sprawie ogłoszenia jednolitego tekstu ustawy o kredycie hipotecznym oraz o nadzorze nad pośrednikami kredytu hipotecznego i agentami
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 21 maja 2025 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2025-06-04 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000720) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/720/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 21 maja 2025 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o kredycie hipotecznym oraz o nadzorze nad pośrednikami kredytu hipotecznego i agentami
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 23 marca 2017 r. o kredycie hipotecznym oraz o nadzorze nad pośrednikami kredytu hipotecznego i agentami (Dz. U. z 2022 r. poz. 2245), z uwzględnieniem zmian wprowadzonych:
 1) ustawą z dnia 6 października 2022 r. o zmianie ustaw w celu przeciwdziałania lichwie (Dz. U. poz. 2339),
 2) ustawą z dnia 20 grudnia 2024 r. o podmiotach obsługujących kredyty i nabywcach kredytów (Dz. U. z 2025 r. poz. 146) oraz zmian wynikających z przepisów ogłoszonych przed dniem 14 maja 2025 r.

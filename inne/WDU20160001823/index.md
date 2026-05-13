@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 9 listopada 2016 r.
+# o pozasądowym rozwiązywaniu sporów konsumenckich
+
+*USTAWA z dnia 23 września 2016 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,16 +26,11 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001823) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1823/text.pdf) |
 
-USTAWA z dnia 23 września 2016 r.
-o pozasądowym rozwiązywaniu sporów konsumenckich
-
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa określa:
 
 **Art. 2.** Ilekroć niniejszej ustawie jest mowa o:
-
-**Art. 3.** Postępowaniem sprawie pozasądowego rozwiązywania sporów konsumenckich jest postępowanie mające na celu rozwiązywanie sporu konsumenckiego, prowadzone zgodnie z zasadami określonymi ustawie i polegające na:
 
 **Art. 4.**
 
@@ -41,8 +38,8 @@ o pozasądowym rozwiązywaniu sporów konsumenckich
 
 2. Za siedzibę przedsiębiorcy uznaje się przypadku przedsiębiorcy będącego:
 
-- **1)** osobą fizyczną miejsce wykonywania działalności gospodarczej;
-- **2)** osob ą prawn ą lub jednostk ą organizacyjn ą nieposiadaj ą c ą osobowo ś ci prawnej, której ustawa przyznaje zdolno ść prawną siedzibę jej organu zarządzającego lub miejsce wykonywania działalności gospodarczej, szczególności miejsce, którym znajduje się jej oddział lub zakład.
+- **1)** osobą fizyczną – miejsce wykonywania działalności gospodarczej;
+- **2)** osobą prawną lub jednostką organizacyjną nieposiadającą osobowości prawnej, której ustawa przyznaje zdolność prawną – siedzibę jej organu zarządzającego lub miejsce wykonywania działalności gospodarczej, szczególności miejsce, którym znajduje się jej oddział lub zakład.
 
 **Art. 5.** Przepisów ustawy nie stosuje się do:
 
@@ -56,11 +53,34 @@ o pozasądowym rozwiązywaniu sporów konsumenckich
 
 #### Rozdział 2 Obowiązki podmiotów uprawnionych
 
-**Art. 8.** Podmiot uprawniony rozpatruje zarówno spory krajowe, jak i transgraniczne, tym spory obj ę te rozporz ą dzeniem Parlamentu Europejskiego i Rady (UE) nr 524/2013 z dnia 21 maja 2013 r. sprawie internetowego systemu rozstrzygania sporów konsumenckich oraz zmiany rozporz ą dzenia (WE) nr 2006/2004 i dyrektywy 2009/22/WE (rozporz ą dzenie sprawie ODR sporach konsumenckich) (Dz. Urz. UE L 165 z 18.06.2013, str. 1).
+**Art. 8.** Podmiot uprawniony rozpatruje zarówno spory krajowe, jak i transgraniczne, tym spory objęte rozporządzeniem Parlamentu Europejskiego i Rady (UE) nr 524/2013 z dnia 21 maja 2013 r. sprawie internetowego systemu rozstrzygania sporów konsumenckich oraz zmiany rozporządzenia (WE) nr 2006/2004 i dyrektywy 2009/22/WE (rozporządzenie sprawie ODR sporach konsumenckich) (Dz. Urz. UE L 165 z 18.06.2013, str. 1).
+
+**Art. 9.**
+
+1. Podmiot uprawniony:
+
+- **1)** prowadzi stronę internetową umożliwiającą łatwy dostęp do informacji dotyczących prowadzenia postępowania sprawie pozasądowego rozwiązywania sporów konsumenckich i pozwalającą na złożenie wniosku o wszczęcie tego postępowania i przekazanie dokumentów, które powinny być dołączone do tego wniosku postaci elektronicznej;
+- **2)** udostępnia informacje dotyczące postępowania sprawie pozasądowego rozwiązywania sporów konsumenckich stronom tego postępowania za pośrednictwem strony internetowej, o której mowa pkt 1, a na ich wniosek – na trwałym nośniku; określonych regulaminie;
+- **4)** umożliwia wymianę informacji między stronami postępowania sprawie pozasądowego rozwiązywania sporów konsumenckich za pomocą środków komunikacji elektronicznej lub przesyłką pocztową na zasadach określonych regulaminie.
+
+2. Na stronie internetowej, o której mowa ust. 1 pkt 1, podmiot uprawniony umieszcza również adres strony internetowej Komisji Europejskiej, na której publikowany jest wykaz podmiotów prowadzących postępowania pozasądowego rozwiązywania sporów konsumenckich zgłoszonych Komisji Europejskiej przez państwa członkowskie Unii Europejskiej.
 
 **Art. 10.** Podmiot uprawniony udostępnia do wiadomości publicznej sposób jasny i zrozumiały:
 
-**Art. 12.** Informacje, o których mowa art. 10, i sprawozdanie, o którym mowa art. 11 ust. 1, podmiot uprawniony udostępnia co najmniej na stronie internetowej, o której mowa art. 9 ust. 1 pkt 1, a na wniosek na trwałym nośniku.
+**Art. 11.**
+
+1. Podmiot uprawniony sporządza sprawozdanie z działalności zakresie pozasądowego rozwiązywania sporów konsumenckich zawierające:
+
+- **1)** informację o liczbie wniosków o wszczęcie postępowania sprawie pozasądowego rozwiązywania sporów konsumenckich, które wpłynęły do podmiotu uprawnionego, oraz wskazanie ich przedmiotu;
+- **2)** informację o powtarzających się lub istotnych problemach, które prowadzą do sporów konsumenckich, do której mogą być dołączone zalecenia dotyczące unikania lub rozwiązywania takich problemów;
+- **3)** informację o procentowym udziale sporów, których rozpatrzenia podmiot uprawniony odmówił, stosunku do liczby złożonych wniosków o wszczęcie postępowania sprawie pozasądowego rozwiązywania sporów konsumenckich oraz procentowym udziale poszczególnych rodzajów przesłanek takiej odmowy; zakończenia, o ile są znane;
+- **5)** określenie średniego czasu trwania postępowania sprawie pozasądowego rozwiązywania sporów konsumenckich;
+- **6)** informację o procentowym udziale przypadków, których strony zastosowały się do wyniku postępowania sprawie pozasądowego rozwiązywania sporów konsumenckich, stosunku do liczby wszczętych postępowań albo informację, że podmiot uprawniony nie prowadzi takich analiz;
+- **7)** informację o współpracy podmiotów ramach sieci podmiotów prowadzących postępowania pozasądowego rozwiązywania sporów konsumenckich, ułatwiających rozwiązywanie sporów transgranicznych, jeżeli podmiot uprawniony należy do takiej sieci.
+
+2. Sprawozdanie, o którym mowa ust. 1, sporządza się za każdy rok kalendarzowy i udostępnia terminie do dnia 30 kwietnia roku następnego.
+
+**Art. 12.** Informacje, o których mowa art. 10, i sprawozdanie, o którym mowa art. 11 ust. 1, podmiot uprawniony udostępnia co najmniej na stronie internetowej, o której mowa art. 9 ust. 1 pkt 1, a na wniosek – na trwałym nośniku.
 
 **Art. 13.**
 
@@ -85,10 +105,12 @@ o pozasądowym rozwiązywaniu sporów konsumenckich
 
 1. Podmiot uprawniony zapewnia, aby osoby prowadzące postępowania sprawie pozasądowego rozwiązywania sporów konsumenckich działały sposób niezależny i bezstronny. W tym celu zapewnia szczególności, aby:
 
-- **1)** sprawowały swoj ą funkcj ę przez wyznaczony okres, zwany dalej „kadencj ą ”;
-- **2)** nie mogły przyjmowa ć instrukcji, wskazówek oraz zalece ń od stron sporu lub ich przedstawicieli;
-- **3)** ich wynagrodzenie nie było uzale ż nione od wyniku danego post ę powania;
-- **4)** mogły zosta ć pozbawione pełnienia funkcji przed upływem kadencji wył ą cznie na podstawie obiektywnych przesłanek. regulamin.
+- **1)** sprawowały swoją funkcję przez wyznaczony okres, zwany dalej „kadencją”;
+- **2)** nie mogły przyjmować instrukcji, wskazówek oraz zaleceń od stron sporu lub ich przedstawicieli;
+- **3)** ich wynagrodzenie nie było uzależnione od wyniku danego postępowania;
+- **4)** mogły zostać pozbawione pełnienia funkcji przed upływem kadencji wyłącznie na podstawie obiektywnych przesłanek.
+
+2. Minimalną długość kadencji oraz przesłanki pozbawienia pełnienia funkcji, o których mowa ust. 1 pkt 4, określa regulamin.
 
 **Art. 16.**
 
@@ -97,12 +119,11 @@ o pozasądowym rozwiązywaniu sporów konsumenckich
 2. W przypadku ujawnienia okoliczności, o których mowa ust. 1, podmiot uprawniony:
 
 - **1)** przekazuje prowadzenie postępowania sprawie pozasądowego rozwiązywania sporów konsumenckich innej osobie;
-- **2)** jeżeli przekazanie prowadzenia postępowania sprawie pozasądowego rozwiązywania sporów konsumenckich innej osobie nie jest możliwe, wyłącza osobę dotychczas prowadzącą to postępowanie z dalszego toku postępowania oraz proponuje stronom przekazanie sporu innemu podmiotowi uprawnionemu;
-- **3)** jeżeli zaproponowanie przekazania sporu innemu podmiotowi uprawnionemu nie jest możliwe, ujawnia stronom okoliczności, o których mowa ust. 1, i informuje strony o prawie zgłoszenia sprzeciwu wobec dalszego prowadzenia danego postępowania sprawie pozasądowego rozwiązywania sporów konsumenckich przez osobę, której dotyczą te okoliczności.
+- **2)** jeżeli przekazanie prowadzenia postępowania sprawie pozasądowego rozwiązywania sporów konsumenckich innej osobie nie jest możliwe, wyłącza osobę dotychczas prowadzącą to postępowanie z dalszego toku postępowania oraz proponuje stronom przekazanie sporu innemu podmiotowi uprawnionemu; danego postępowania sprawie pozasądowego rozwiązywania sporów konsumenckich przez osobę, której dotyczą te okoliczności.
 
 3. W przypadku niezgłoszenia sprzeciwu osoba, której dotyczą okoliczności, o których mowa ust. 1, może dalej prowadzić postępowanie sprawie pozasądowego rozwiązywania sporów konsumenckich.
 
-4. Jeżeli podmiotem uprawnionym jest osoba fizyczna samodzielnie prowadząca postępowanie sprawie pozasądowego rozwi ą zywania sporów konsumenckich, przypadku ujawnienia okoliczno ś ci, o których mowa ust. 1, stosuje si ę odpowiednio przepisy ust. 2 pkt 2 albo 3.
+4. Jeżeli podmiotem uprawnionym jest osoba fizyczna samodzielnie prowadząca postępowanie sprawie pozasądowego rozwiązywania sporów konsumenckich, przypadku ujawnienia okoliczności, o których mowa ust. 1, stosuje się odpowiednio przepisy ust. 2 pkt 2 albo 3.
 
 **Art. 17.** Podmiot uprawniony oraz osoby prowadzące postępowania sprawie pozasądowego rozwiązywania sporów konsumenckich są obowiązani zachować tajemnicy wszelkie informacje uzyskane trakcie tego postępowania.
 
@@ -128,9 +149,10 @@ o pozasądowym rozwiązywaniu sporów konsumenckich
 
 2. Rejestr jest jawny i zawiera:
 
-- **1)** imi ę i nazwisko albo nazw ę podmiotu uprawnionego, jego miejsce zamieszkania albo siedzib ę oraz adres strony internetowej;
-- **2)** informacj ę o wysoko ś ci pobieranych opłat, je ż eli podmiot uprawniony takie opłaty pobiera;
-- **3)** informacje o j ę zykach, jakich mo ż na składa ć wnioski o wszcz ę cie post ę powania sprawie pozas ą dowego rozwi ą zywania sporów konsumenckich i jakich jest ono prowadzone;
+- **1)** imię i nazwisko albo nazwę podmiotu uprawnionego, jego miejsce zamieszkania albo siedzibę oraz adres strony internetowej;
+- **2)** informację o wysokości pobieranych opłat, jeżeli podmiot uprawniony takie opłaty pobiera;
+- **3)** informacje o językach, jakich można składać wnioski o wszczęcie postępowania sprawie pozasądowego rozwiązywania sporów konsumenckich i jakich jest ono prowadzone;
+- **4)** informacje o rodzajach sporów konsumenckich, których rozwiązywaniem zajmuje się dany podmiot uprawniony;
 - **5)** informacje o kategoriach sporów konsumenckich, tym podmiotach i sektorach, objętych właściwością danego podmiotu uprawnionego;
 - **6)** informację o konieczności osobistej obecności stron lub ich przedstawicieli, o ile taka konieczność zachodzi, tym informację, czy postępowanie sprawie pozasądowego rozwiązywania sporów konsumenckich jest lub może być prowadzone jako postępowanie ustne lub pisemne;
 - **7)** informację o wiążącym lub niewiążącym charakterze wyników postępowania sprawie pozasądowego rozwiązywania sporów konsumenckich prowadzonego przez dany podmiot uprawniony;
@@ -140,11 +162,10 @@ o pozasądowym rozwiązywaniu sporów konsumenckich
 
 1. Wpis do Rejestru następuje na wniosek zawierający:
 
-- **1)** imię i nazwisko albo nazwę wnioskodawcy, jego miejsce zamieszkania albo siedzibę oraz adres strony internetowej;
-- **2)** informacje o strukturze, źródłach i sposobach finansowania wnioskodawcy oraz sposobie wynagradzania osób, które będą prowadziły postępowania sprawie pozasądowego rozwiązywania sporów konsumenckich, długości ich kadencji oraz podmiocie, przez który są zatrudnione;
+- **1)** imię i nazwisko albo nazwę wnioskodawcy, jego miejsce zamieszkania albo siedzibę oraz adres strony internetowej; cji oraz podmiocie, przez który są zatrudnione;
 - **3)** opis regulacji, które będą stosowane przez wnioskodawcę ramach rozwiązywania sporów konsumenckich;
 - **4)** informację, czy wnioskodawca będzie pobierał opłaty i jaka jest ich wysokość;
-- **5)** wskazanie ś redniego czasu trwania dotychczas prowadzonych post ę powa ń pozas ą dowego rozwi ą zywania sporów konsumenckich, o ile wnioskodawca prowadził takie postępowania;
+- **5)** wskazanie średniego czasu trwania dotychczas prowadzonych postępowań pozasądowego rozwiązywania sporów konsumenckich, o ile wnioskodawca prowadził takie postępowania;
 - **6)** informacje o językach, jakich będzie można składać wnioski o wszczęcie postępowania sprawie pozasądowego rozwiązywania sporów konsumenckich i jakich będzie ono prowadzone;
 - **7)** informacje o rodzajach sporów konsumenckich, których rozwiązywaniem będzie zajmował się wnioskodawca;
 - **8)** informacje o kategoriach sporów konsumenckich, tym podmiotach i sektorach, które będą objęte właściwością wnioskodawcy;
@@ -169,9 +190,13 @@ o pozasądowym rozwiązywaniu sporów konsumenckich
 
 **Art. 25.**
 
-1. W przypadku gdy podmiot uprawniony nie wykonuje obowiązków określonych art. 8–13 lub przestał spełnia ć warunki okre ś lone art. 14, art. 15, art. 16 ust. 2 i art. 17–19, Prezes Urz ę du wszczyna post ę powanie sprawie wykre ś lenia podmiotu uprawnionego z Rejestru i wzywa ten podmiot do wykonania tych obowi ą zków lub dostosowania działalno ś ci do tych warunków wyznaczonym terminie nie dłu ż szym ni ż 3 miesi ą ce.
+1. W przypadku gdy podmiot uprawniony nie wykonuje obowiązków określonych art. 8–13 lub przestał spełniać warunki określone art. 14, art. 15, art. 16 ust. 2 i art. 17–19, Prezes Urzędu wszczyna postępowanie sprawie wykreślenia podmiotu uprawnionego z Rejestru i wzywa ten podmiot do wykonania tych obowiązków lub dostosowania działalności do tych warunków wyznaczonym terminie nie dłuższym niż 3 miesiące.
 
-2. Po bezskutecznym upływie terminu, o którym mowa ust. 1, Prezes Urz ę du wydaje decyzj ę o wykre ś leniu podmiotu uprawnionego z Rejestru. sprawie podmiotu uprawnionego z Rejestru i wzywa ten podmiot do przekazania aktualnych danych lub złożenia wyjaśnień wyznaczonym terminie nie dłuższym niż 30 dni.
+2. Po bezskutecznym upływie terminu, o którym mowa ust. 1, Prezes Urzędu wydaje decyzję o wykreśleniu podmiotu uprawnionego z Rejestru.
+
+**Art. 26.**
+
+1. Jeżeli podmiot uprawniony nie wykonuje obowiązku, o którym mowa art. 23, Prezes Urzędu wszczyna postępowanie sprawie wykreślenia podmiotu uprawnionego z Rejestru i wzywa ten podmiot do przekazania aktualnych danych lub złożenia wyjaśnień wyznaczonym terminie nie dłuższym niż 30 dni.
 
 2. Po bezskutecznym upływie terminu, o którym mowa ust. 1, Prezes Urzędu wydaje decyzję o wykreśleniu podmiotu uprawnionego z Rejestru.
 
@@ -185,15 +210,13 @@ o pozasądowym rozwiązywaniu sporów konsumenckich
 
 **Art. 29.**
 
-1. Przepisów art. 21, art. 22, art. 23 ust. 3 i art. 24–28 nie stosuje się do podmiotów uprawnionych do prowadzenia postępowania sprawie pozasądowego rozwiązywania sporów konsumenckich na podstawie przepisów odrębnych.
-
-2. O nieprawidłowościach prowadzeniu przez podmioty, o których mowa ust. 1, postępowań sprawie pozasądowego rozwiązywania sporów konsumenckich Prezes Urzędu niezwłocznie informuje podmiot uprawniony, którym stwierdzono nieprawidłowości, wyznaczając termin do ich usunięcia.
+1. Przepisów art. 21, art. 22, art. 23 ust. 3 i art. 24–28 nie stosuje się do podmiotów uprawnionych do prowadzenia postępowania sprawie pozasądowego rozwiązywania sporów konsumenckich na podstawie przepisów odrębnych. stwierdzono nieprawidłowości, wyznaczając termin do ich usunięcia.
 
 3. W przypadku nieusunięcia nieprawidłowości wyznaczonym terminie Prezes Urzędu informuje o nieprawidłowościach organ, przy którym utworzony jest dany podmiot uprawniony albo organ, który sprawuje nad nim nadzór, albo organ, któremu podlega.
 
 **Art. 30.** Prezes Urzędu przekazuje Komisji Europejskiej dane objęte Rejestrem oraz informacje o zmianach tych danych.
 
-#### Rozdział 4 Obowi ą zki przedsi ę biorców
+#### Rozdział 4 Obowiązki przedsiębiorców
 
 **Art. 31.**
 
@@ -215,13 +238,15 @@ o pozasądowym rozwiązywaniu sporów konsumenckich
 
 3. Jeżeli przedsiębiorca nie złożył żadnego oświadczenia, uznaje się, że wyraża zgodę na udział postępowaniu sprawie pozasądowego rozwiązywania sporów konsumenckich.
 
-#### Rozdział 5 Post ę powanie sprawie pozas ą dowego rozwi ą zywania sporów konsumenckich
+#### Rozdział 5 Postępowanie sprawie pozasądowego rozwiązywania sporów konsumenckich
 
 **Art. 33.**
 
-1. Wszczęcie postępowania sprawie pozasądowego rozwiązywania sporów konsumenckich następuje na wniosek konsumenta. Je ż eli przewiduje to regulamin, wszcz ę cie tego post ę powania nast ę puje równie ż na wniosek przedsi ę biorcy.
+1. Wszczęcie postępowania sprawie pozasądowego rozwiązywania sporów konsumenckich następuje na wniosek konsumenta. Jeżeli przewiduje to regulamin, wszczęcie tego postępowania następuje również na wniosek przedsiębiorcy.
 
-2. Wniosek o wszcz ę cie post ę powania sprawie pozas ą dowego rozwi ą zywania sporów konsumenckich zawiera co najmniej oznaczenie stron, dokładnie okre ś lone żą danie, wskazanie rodzaju post ę powania, o którym mowa art. 3, zgodnie z wyborem wnioskodawcy, oraz jego podpis. nia podmiotowi uprawnionemu wniosku o sprawie sporów konsumenckich spełniającego wymagania, o których mowa ust. 2.
+2. Wniosek o wszczęcie postępowania sprawie pozasądowego rozwiązywania sporów konsumenckich zawiera co najmniej oznaczenie stron, dokładnie określone żądanie, wskazanie rodzaju postępowania, o którym mowa art. 3, zgodnie z wyborem wnioskodawcy, oraz jego podpis.
+
+3. Datą wszczęcia postępowania sprawie pozasądowego rozwiązywania sporów konsumenckich jest dzień doręczenia podmiotowi uprawnionemu wniosku o wszczęcie postępowania sprawie pozasądowego rozwiązywania sporów konsumenckich spełniającego wymagania, o których mowa ust. 2.
 
 4. Podmiot uprawniony niezwłocznie przekazuje stronom sporu potwierdzenie złożenia wniosku o wszczęcie postępowania sprawie pozasądowego rozwiązywania sporów konsumenckich spełniającego wymagania, o których mowa ust. 2.
 
@@ -232,8 +257,6 @@ o pozasądowym rozwiązywaniu sporów konsumenckich
 **Art. 34.**
 
 1. Podmiot uprawniony odmawia rozpatrzenia sporu, jeżeli jego przedmiot wykracza poza kategorie sporów objęte właściwością danego podmiotu uprawnionego.
-
-2. Podmiot uprawniony może odmówić rozpatrzenia sporu, sytuacjach wskazanych regulaminie, które mogą obejmować wyłącznie następujące przypadki:
 
 - **1)** wnioskodawca przed złożeniem wniosku o wszczęcie postępowania sprawie pozasądowego rozwiązywania sporów konsumenckich nie podjął próby kontaktu z drugą stroną i bezpośredniego rozwiązania sporu;
 - **2)** spór jest błahy lub wniosek o wszczęcie postępowania sprawie pozasądowego rozwiązywania sporów konsumenckich spowoduje uciążliwości dla drugiej strony;
@@ -262,10 +285,13 @@ o pozasądowym rozwiązywaniu sporów konsumenckich
 
 - **1)** zapewnia stronom możliwość udziału postępowaniu, tym:
     - **a)** przedstawienia stanowisk, dokumentów i dowodów,
-    - **b)** dostępu do stanowisk, dokumentów i dowodów przedstawionych przez drugą stronę oraz opinii wydanych przez ekspertów, a tak ż e mo ż liwo ść ustosunkowania si ę do nich;
+    - **b)** dostępu do stanowisk, dokumentów i dowodów przedstawionych przez drugą stronę oraz opinii wydanych przez ekspertów, a także możliwość ustosunkowania się do nich;
 
 - **2)** informuje strony o uprawnieniu, o którym mowa art. 39;
-- **3)** informuje strony na papierze lub innym trwałym no ś niku o podj ę tym rozstrzygni ę ciu i jego uzasadnieniu. uprawniony przedstawia stronom sporu, podmiot uprawniony:
+- **3)** informuje strony na papierze lub innym trwałym nośniku o podjętym rozstrzygnięciu i jego uzasadnieniu.
+
+2. W przypadku postępowań sprawie pozasądowego rozwiązywania sporów konsumenckich, których podmiot uprawniony przedstawia stronom propozycję rozwiązania sporu, podmiot uprawniony:
+
 - **1)** przed rozpoczęciem postępowania informuje strony o prawie wycofania się z postępowania na dowolnym jego etapie;
 - **2)** informuje strony przed wyrażeniem zgody na przedstawioną propozycję rozwiązania sporu lub zastosowaniem się do niej, że:
     - **a)** mogą nie wyrazić zgody na przedstawioną propozycję rozwiązania sporu lub nie zastosować się do niej,
@@ -276,8 +302,6 @@ o pozasądowym rozwiązywaniu sporów konsumenckich
 - **4)** zapewnia stronom odpowiedni czas na wyrażenie zgody na przedstawioną propozycję rozwiązania sporu lub zastosowanie się do niej.
 
 3. Długość okresu, o którym mowa ust. 2 pkt 4, określa regulamin.
-
-**Art. 39.** Strona na każdym etapie postępowania sprawie pozasądowego rozwiązywania sporów konsumenckich ma prawo korzystać z pomocy osób trzecich, tym osób świadczących profesjonalną pomoc prawną.
 
 **Art. 40.**
 
@@ -301,9 +325,18 @@ o pozasądowym rozwiązywaniu sporów konsumenckich
 
 2. Rozstrzygnięcie sporu według ogólnych zasad prawa lub zasad słuszności nie może prowadzić do pozbawienia konsumenta ochrony przyznanej mu bezwzględnie wiążącymi przepisami prawa właściwego dla danego stosunku.
 
-#### Rozdział 6 Zadania Prezesa Urz ę du zakresie pozas ą dowego rozwi ą zywania sporów konsumenckich
+#### Rozdział 6 Zadania Prezesa Urzędu zakresie pozasądowego rozwiązywania sporów konsumenckich
 
 **Art. 43.** Prezes Urzędu monitoruje:
+
+**Art. 44.**
+
+1. Prezes Urzędu koordynuje współpracę między podmiotami uprawnionymi a organami, do których zadań należy ochrona konsumentów, zakresie:
+
+- **1)** udostępniania podmiotom uprawnionym informacji oraz opinii tych organów;
+- **2)** wymiany informacji o praktykach poszczególnych sektorach rynku, których najczęściej pojawiają się skargi konsumentów.
+
+2. Prezes Urzędu koordynuje również współpracę między podmiotami uprawnionymi zakresie rozwiązywania sporów transgranicznych oraz wymianę dobrych praktyk i doświadczeń zakresie rozwiązywania sporów krajowych i transgranicznych.
 
 **Art. 45.**
 
@@ -315,17 +348,15 @@ o pozasądowym rozwiązywaniu sporów konsumenckich
 - **2)** opis występujących nieprawidłowości systemu pozasądowego rozwiązywania sporów konsumenckich, które utrudniają funkcjonowanie podmiotów uprawnionych;
 - **3)** przedstawienie zaleceń dotyczących sposobów poprawy funkcjonowania podmiotów uprawnionych lub zwiększenia efektywności ich działania, o ile taka konieczność zachodzi.
 
-3. Sprawozdanie, o którym mowa ust. 1, Prezes Urzędu sporządza za okres 4 lat kalendarzowych i publikuje na stronie internetowej Urz ę du Ochrony Konkurencji i Konsumentów oraz przekazuje je Komisji Europejskiej.
-
-**Art. 46.** Prezes Urzędu na stronie internetowej Urzędu Ochrony Konkurencji i Konsumentów umieszcza adres strony internetowej Komisji Europejskiej, na której publikowany jest wykaz podmiotów prowadzących postępowania pozasądowego rozwiązywania sporów konsumenckich zgłoszonych Komisji Europejskiej przez państwa członkowskie Unii Europejskiej. Wykaz ten jest również udostępniany na trwałym nośniku siedzibie Urzędu Ochrony Konkurencji i Konsumentów.
+3. Sprawozdanie, o którym mowa ust. 1, Prezes Urzędu sporządza za okres 4 lat kalendarzowych i publikuje na stronie internetowej Urzędu Ochrony Konkurencji i Konsumentów oraz przekazuje je Komisji Europejskiej. internetowej Komisji Europejskiej, na której publikowany jest wykaz podmiotów prowadzących postępowania pozasądowego rozwiązywania sporów konsumenckich zgłoszonych Komisji Europejskiej przez państwa członkowskie Unii Europejskiej. Wykaz ten jest również udostępniany na trwałym nośniku siedzibie Urzędu Ochrony Konkurencji i Konsumentów.
 
 **Art. 47.** Prezes Urzędu podejmuje działania edukacyjno-informacyjne mające na celu popularyzację wiedzy o możliwościach pozasądowego rozwiązywania sporów konsumenckich i dostępnych podmiotach uprawnionych.
 
 #### Rozdział 7 Zmiany przepisach
 
-**Art. 48.** W ustawie z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. z 2016 r. poz. 1822) wprowadza się następujące zmiany:
+**Art. 48.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2016 r. poz. 1822) wprowadza się następujące zmiany:
 
-**Art. 49.** W ustawie z dnia 10 kwietnia 1997 r. Prawo energetyczne (Dz. U. z 2012 r. poz. 1059, z późn. zm. ) wprowadza się następujące zmiany:
+**Art. 49.** W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2012 r. poz. 1059, z późn. zm. ) wprowadza się następujące zmiany:
 
 **Art. 31a.**
 
@@ -335,7 +366,10 @@ o pozasądowym rozwiązywaniu sporów konsumenckich
 - **2)** o świadczenie usług przesyłania lub dystrybucji energii elektrycznej lub gazu ziemnego;
 - **3)** o świadczenie usług przesyłania i dystrybucji ciepła;
 - **4)** sprzedaży;
-- **5)** kompleksowych. dynator:
+- **5)** kompleksowych.
+
+2. Prowadząc postępowania sprawie pozasądowego rozwiązywania sporów, o których mowa ust. 1, Koordynator:
+
 - **1)** umożliwia zbliżenie stanowisk stron celu rozwiązania sporu przez jego strony lub
 - **2)** przedstawia stronom propozycję rozwiązania sporu.
 
@@ -344,7 +378,7 @@ o pozasądowym rozwiązywaniu sporów konsumenckich
 1. W zakresie nieuregulowanym niniejszym rozdziale:
 
 - **1)** stosuje się przepisy ustawy z dnia 23 września 2016 r. o pozasądowym rozwiązywaniu sporów konsumenckich (Dz. U. poz. 1823);
-- **2)** nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
+- **2)** nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
 2. Koordynator jest podmiotem uprawnionym do prowadzenia postępowania sprawie pozasądowego rozwiązywania sporów konsumenckich rozumieniu ustawy z dnia 23 września 2016 r. o pozasądowym rozwiązywaniu sporów konsumenckich oraz osobą prowadzącą to postępowanie rozumieniu tej ustawy.
 
@@ -356,7 +390,7 @@ o pozasądowym rozwiązywaniu sporów konsumenckich
 
 - **1)** posiada tytuł zawodowy magistra lub równorzędny;
 - **2)** korzysta z pełni praw publicznych;
-- **3)** nie była skazana prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe ani nie orzeczono wobec niej zakazu zajmowania kierowniczych stanowisk lub pełnienia funkcji zwi ą zanych ze szczególną odpowiedzialnością organach państwa;
+- **3)** nie była skazana prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe ani nie orzeczono wobec niej zakazu zajmowania kierowniczych stanowisk lub pełnienia funkcji związanych ze szczególną odpowiedzialnością organach państwa;
 - **4)** posiada kompetencje kierownicze;
 - **5)** posiada co najmniej 5-letni staż pracy, tym co najmniej 3-letni staż pracy na stanowisku kierowniczym;
 - **6)** posiada wykształcenie i wiedzę z zakresu spraw należących do właściwości Koordynatora.
@@ -364,7 +398,6 @@ o pozasądowym rozwiązywaniu sporów konsumenckich
 3. Informację o naborze na stanowisko Koordynatora ogłasza się przez umieszczenie ogłoszenia miejscu powszechnie dostępnym siedzibie URE oraz Biuletynie Informacji Publicznej URE. Ogłoszenie zawiera:
 
 - **1)** nazwę i adres urzędu;
-- **2)** określenie stanowiska;
 - **3)** wymagania związane ze stanowiskiem wynikające z przepisów prawa;
 - **4)** zakres zadań wykonywanych na stanowisku;
 - **5)** wskazanie wymaganych dokumentów;
@@ -377,16 +410,17 @@ o pozasądowym rozwiązywaniu sporów konsumenckich
 
 - **1)** być członkiem zarządów, rad nadzorczych lub komisji rewizyjnych spółek prawa handlowego;
 - **2)** być zatrudniony spółkach prawa handlowego lub wykonywać nich innych zajęć, które mogłyby wywołać podejrzenie o jego stronniczość lub interesowność;
-- **3)** posiadać spółkach prawa handlowego więcej niż 10% akcji lub udziałów przedstawiających więcej niż 10% kapitału zakładowego każdej z tych spółek;
+- **3)** posiadać spółkach prawa handlowego więcej niż 10% akcji lub udziałów przedstawiających więcej niż 10% kapitału zakładowego – każdej z tych spółek;
 - **4)** prowadzić działalności gospodarczej na własny rachunek lub wspólnie z innymi osobami, a także zarządzać taką działalnością lub być przedstawicielem czy pełnomocnikiem prowadzeniu takiej działalności.
 
 6. Zakaz, o którym mowa ust. 5 pkt 4, nie dotyczy działalności wytwórczej rolnictwie zakresie produkcji roślinnej i zwierzęcej, formie i zakresie gospodarstwa rodzinnego.
 
 7. Prezes URE odwołuje Koordynatora przed upływem kadencji, na którą został powołany, przypadku:
 
-- **1)** ra żą cego naruszenia prawa przy wykonywaniu swojej funkcji;
-- **2)** skazania prawomocnym wyrokiem za popełnione umy ś lnie przest ę pstwo lub przest ę pstwo skarbowe;
-- **3)** orzeczenia zakazu zajmowania kierowniczych stanowisk lub pełnienia funkcji zwi ą zanych ze szczególn ą odpowiedzialno ś ci ą organach pa ń stwa;
+- **1)** rażącego naruszenia prawa przy wykonywaniu swojej funkcji;
+- **2)** skazania prawomocnym wyrokiem za popełnione umyślnie przestępstwo lub przestępstwo skarbowe;
+- **3)** orzeczenia zakazu zajmowania kierowniczych stanowisk lub pełnienia funkcji związanych ze szczególną odpowiedzialnością organach państwa;
+- **4)** choroby trwale uniemożliwiającej wykonywanie zadań;
 - **5)** złożenia rezygnacji.
 
 8. Obsługę organizacyjną Koordynatora zapewnia URE.
@@ -403,14 +437,13 @@ o pozasądowym rozwiązywaniu sporów konsumenckich
 
 - **1)** informację, czy występowano do Prezesa URE z wnioskiem o rozstrzygnięcie sporu trybie art. 8 ust. 1;
 - **2)** oświadczenie, że sprawa o to samo roszczenie między tymi samymi stronami nie jest toku albo nie została już rozpatrzona przez Koordynatora, inny właściwy podmiot albo sąd;
-- **3)** kopię korespondencji odbiorcy paliw gazowych, energii elektrycznej lub ciepła gospodarstwie domowym albo prosumenta będącego konsumentem z przedsiębiorstwem energetycznym dotyczącej sporu lub oświadczenie odbiorcy paliw gazowych, energii elektrycznej lub ciepła gospodarstwie domowym albo prosumenta b ę d ą cego konsumentem o podjęciu próby kontaktu z przedsiębiorstwem energetycznym i bezpośredniego rozwiązania sporu.
+- **3)** kopię korespondencji odbiorcy paliw gazowych, energii elektrycznej lub ciepła gospodarstwie domowym albo prosumenta będącego konsumentem z przedsiębiorstwem energetycznym dotyczącej sporu lub oświadczenie odbiorcy paliw gazowych, energii elektrycznej lub ciepła gospodarstwie domowym albo prosumenta będącego konsumentem o podjęciu próby kontaktu z przedsiębiorstwem energetycznym i bezpośredniego rozwiązania sporu.
 
 5. W przypadku gdy wniosek o wszczęcie postępowania przed Koordynatorem nie spełnia wymagań, o których mowa ust. 4, Koordynator wzywa wnioskodawcę do uzupełnienia wniosku wyznaczonym terminie nie krótszym niż 7 dni, pod rygorem jego pozostawienia bez rozpatrzenia.
 
 6. Koordynator odmawia rozpatrzenia sporu przypadku, gdy:
 
-- **1)** przedmiot sporu wykracza poza kategorie sporów objęte właściwością Koordynatora;
-- **2)** odbiorca paliw gazowych, energii elektrycznej lub ciepła gospodarstwie domowym albo prosument będący konsumentem nie podjął przed złożeniem wniosku o wszczęcie postępowania przed Koordynatorem próby kontaktu z przedsiębiorstwem energetycznym i bezpośredniego rozwiązania sporu;
+- **1)** przedmiot sporu wykracza poza kategorie sporów objęte właściwością Koordynatora; taktu z przedsiębiorstwem energetycznym i bezpośredniego rozwiązania sporu;
 - **3)** sprawa o to samo roszczenie między tymi samymi stronami jest toku, z zastrzeżeniem art. 31e ust. 2, albo została już rozpatrzona przez Koordynatora, inny właściwy podmiot albo sąd;
 - **4)** wartość przedmiotu sporu jest wyższa albo niższa od progów finansowych określonych przepisach wykonawczych wydanych na podstawie art. 31f ust. 2.
 
@@ -427,8 +460,10 @@ o pozasądowym rozwiązywaniu sporów konsumenckich
 1. Minister właściwy do spraw energii określi, drodze rozporządzenia:
 
 - **1)** szczegółowy tryb prowadzenia postępowania sprawie pozasądowego rozwiązywania sporów, o których mowa art. 31a ust. 1, tym termin na wyrażenie przez strony zgody na przedstawioną propozycję rozwiązania sporu lub zastosowanie się do niej,
-- **2)** sposób wnoszenia wniosków o wszcz ę cie post ę powania,
-- **3)** sposób wymiany informacji mi ę dzy stronami post ę powania za pomoc ą ś rodków komunikacji elektronicznej lub przesyłk ą pocztow ą maj ą c na uwadze konieczno ść zapewnienia łatwego dost ę pu do post ę powania, sprawnego rozwi ą zywania sporów oraz bezstronnego i niezale ż nego prowadzenia post ę powania. przedmiotu sporu, których przekroczenie uprawnia do odmowy rozpatrzenia sporu, ich wysokości na poziomie, który nie utrudnia znacząco odbiorcy paliw gazowych, energii elektrycznej lub ciepła gospodarstwie domowym albo prosumentowi będącemu konsumentem dostępu do postępowania.”.
+- **2)** sposób wnoszenia wniosków o wszczęcie postępowania,
+- **3)** sposób wymiany informacji między stronami postępowania za pomocą środków komunikacji elektronicznej lub przesyłką pocztową – mając na uwadze konieczność zapewnienia łatwego dostępu do postępowania, sprawnego rozwiązywania sporów oraz bezstronnego i niezależnego prowadzenia postępowania.
+
+2. Minister właściwy do spraw energii może określić, drodze rozporządzenia, wysokość progów finansowych wartości przedmiotu sporu, których przekroczenie uprawnia do odmowy rozpatrzenia sporu, uwzględniając określenie ich wysokości na poziomie, który nie utrudnia znacząco odbiorcy paliw gazowych, energii elektrycznej lub ciepła gospodarstwie domowym albo prosumentowi będącemu konsumentem dostępu do postępowania.”.
 
 **Art. 50.** W ustawie z dnia 15 grudnia 2000 r. o Inspekcji Handlowej (Dz. U. z 2016 r. poz. 1059) wprowadza się następujące zmiany:
 
@@ -441,9 +476,11 @@ o pozasądowym rozwiązywaniu sporów konsumenckich
 
 2. W zakresie nieuregulowanym niniejszym rozdziale stosuje się przepisy ustawy z dnia 23 września 2016 r. o pozasądowym rozwiązywaniu sporów konsumenckich (Dz. U. poz. 1823).
 
-3. Inspekcja jest podmiotem uprawnionym do prowadzenia post ę powania sprawie pozas ą dowego rozwi ą zywania sporów konsumenckich rozumieniu ustawy, o której mowa ust. 2.
+3. Inspekcja jest podmiotem uprawnionym do prowadzenia postępowania sprawie pozasądowego rozwiązywania sporów konsumenckich rozumieniu ustawy, o której mowa ust. 2.
 
-4. Post ę powanie sprawie pozas ą dowego rozwi ą zywania sporów konsumenckich wszczyna si ę na wniosek konsumenta lub przedsi ę biorcy, zło ż ony do wojewódzkiego inspektora wła ś ciwego ze wzgl ę du na miejsce wykonywania działalno ś ci gospodarczej przez przedsi ę biorc ę . ra co najmniej elementy art. 33 ust. 2 ustawy z dnia 23 2016 r. o sporów konsumenckich, z tym że wnioskodawca może wnosić o umożliwienie zbliżenia stanowisk stron celu rozwiązania sporu przez jego strony lub przedstawienie stronom propozycji rozwiązania sporu.
+4. Postępowanie sprawie pozasądowego rozwiązywania sporów konsumenckich wszczyna się na wniosek konsumenta lub przedsiębiorcy, złożony do wojewódzkiego inspektora właściwego ze względu na miejsce wykonywania działalności gospodarczej przez przedsiębiorcę.
+
+5. Wniosek o wszczęcie postępowania sprawie pozasądowego rozwiązywania sporów konsumenckich zawiera co najmniej elementy określone art. 33 ust. 2 ustawy z dnia 23 września 2016 r. o pozasądowym rozwiązywaniu sporów konsumenckich, z tym że wnioskodawca może wnosić o umożliwienie zbliżenia stanowisk stron celu rozwiązania sporu przez jego strony lub przedstawienie stronom propozycji rozwiązania sporu.
 
 6. Do wniosku o wszczęcie postępowania sprawie pozasądowego rozwiązywania sporów konsumenckich dołącza się:
 
@@ -464,8 +501,6 @@ o pozasądowym rozwiązywaniu sporów konsumenckich
 
 9. Wojewódzki inspektor pisemnie upoważnia pracownika Inspekcji do prowadzenia postępowań sprawie pozasądowego rozwiązywania sporów konsumenckich. Upoważniony pracownik Inspekcji jest osobą prowadzącą postępowanie rozumieniu ustawy z dnia 23 września 2016 r. o pozasądowym rozwiązywaniu sporów konsumenckich. Upoważnienie udzielane jest na czas określony.
 
-10. Wojewódzki inspektor cofa pracownikowi Inspekcji upoważnienie przed upływem okresu, na jaki zostało udzielone, przypadku:
-
 - **1)** rażącego naruszenia prawa przy wykonywaniu funkcji;
 - **2)** skazania prawomocnym wyrokiem za popełnione umyślnie przestępstwo lub przestępstwo skarbowe;
 - **3)** choroby trwale uniemożliwiającej wykonywanie zadań;
@@ -478,7 +513,9 @@ o pozasądowym rozwiązywaniu sporów konsumenckich
 - **3)** sposób wnoszenia wniosków o wszczęcie postępowania sprawie pozasądowego rozwiązywania sporów konsumenckich,
 - **4)** sposób wymiany informacji między stronami postępowania sprawie pozasądowego rozwiązywania sporów konsumenckich za pomocą środków komunikacji elektronicznej lub przesyłką pocztową,
 - **5)** treść upoważnienia do prowadzenia postępowania sprawie pozasądowego rozwiązywania sporów konsumenckich, szczegółowe kwalifikacje pracowników Inspekcji, którym może być udzielone upoważnienie, oraz minimalny czas, na jaki jest udzielane upoważnienie,
-- **6)** termin na wyra ż enie przez strony zgody na przedstawion ą propozycj ę rozwi ą zania sporu lub zastosowanie si ę do niej maj ą c na uwadze konieczno ść zapewnienia łatwego dost ę pu do post ę powania, sprawnego rozwi ą zywania sporów oraz bezstronnego i niezale ż nego prowadzenia post ę powania. przedmiotu sporu, których przekroczenie uprawnia do odmowy rozpatrzenia sporu, ich wysokości na poziomie, który nie utrudnia znacząco konsumentowi dostępu do postępowania.
+- **6)** termin na wyrażenie przez strony zgody na przedstawioną propozycję rozwiązania sporu lub zastosowanie się do niej – mając na uwadze konieczność zapewnienia łatwego dostępu do postępowania, sprawnego rozwiązywania sporów oraz bezstronnego i niezależnego prowadzenia postępowania.
+
+12. Prezes Rady Ministrów może określić, drodze rozporządzenia, wysokość progów finansowych wartości przedmiotu sporu, których przekroczenie uprawnia do odmowy rozpatrzenia sporu, uwzględniając określenie ich wysokości na poziomie, który nie utrudnia znacząco konsumentowi dostępu do postępowania.
 
 #### Rozdział 9 Stałe sądy polubowne
 
@@ -488,26 +525,24 @@ o pozasądowym rozwiązywaniu sporów konsumenckich
 
 2. Umowy, o których mowa ust. 1, określają szczególności zasady pokrywania kosztów wynagrodzenia arbitrów oraz zwrotu kosztów poniesionych związku z wykonywaniem czynności arbitra.
 
-3. Sądy rozpatrują spory o prawa majątkowe wynikłe z umów zawartych między konsumentami a przedsiębiorcami zgodnie z przepisami wykonawczymi wydanymi na podstawie ust. 7 i 8.
+3. Sądy rozpatrują spory o prawa majątkowe wynikłe z umów zawartych między konsumentami a przedsiębiorcami – zgodnie z przepisami wykonawczymi wydanymi na podstawie ust. 7 i 8.
 
 4. Sąd może odmówić rozpatrzenia sporu przypadku, gdy:
 
 - **1)** wnioskodawca nie podjął przed złożeniem wniosku o wszczęcie postępowania próby kontaktu z drugą stroną i bezpośredniego rozwiązania sporu;
 - **2)** spór jest błahy lub wniosek o wszczęcie postępowania spowoduje uciążliwości dla drugiej strony;
-- **3)** sprawa o to samo roszczenie mi ę dzy tymi samymi stronami jest toku albo została ju ż rozpatrzona przez Inspekcję, sąd, inny właściwy podmiot albo sąd powszechny;
+- **3)** sprawa o to samo roszczenie między tymi samymi stronami jest toku albo została już rozpatrzona przez Inspekcję, sąd, inny właściwy podmiot albo sąd powszechny;
 - **4)** wartość przedmiotu sporu jest wyższa albo niższa od progów finansowych określonych przepisach wykonawczych wydanych na podstawie ust. 8;
 - **5)** wnioskodawca złożył wniosek o wszczęcie postępowania po upływie roku od dnia, którym podjął próbę kontaktu z drugą stroną i bezpośredniego rozwiązania sporu;
 - **6)** rozpatrzenie sporu spowodowałoby poważne zakłócenie działania sądu.
 
 5. Z postępowania przed sądem sporządza się protokół.
 
-6. W postępowaniu przed sądami zakresie nieuregulowanym ustawą stosuje się przepisy ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. z 2016 r. poz. 1822 i 1823).
-
-7. Minister Sprawiedliwości po zasięgnięciu opinii Prezesa Urzędu Ochrony Konkurencji i Konsumentów określi, drodze rozporządzenia, regulamin organizacji i działania sądów, zawierający szczególności:
+6. W postępowaniu przed sądami zakresie nieuregulowanym ustawą stosuje się przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2016 r. poz. 1822 i 1823).
 
 - **1)** wewnętrzną organizację sądów,
 - **2)** tryb funkcjonowania sądów, tym określenie właściwości miejscowej,
-- **3)** czynności jurysdykcyjne i administracyjne sądów i ich organów mając na uwadze konieczność zapewnienia łatwego dostępu do postępowania, sprawnego rozwiązywania sporów oraz bezstronnego i niezależnego prowadzenia postępowania.
+- **3)** czynności jurysdykcyjne i administracyjne sądów i ich organów – mając na uwadze konieczność zapewnienia łatwego dostępu do postępowania, sprawnego rozwiązywania sporów oraz bezstronnego i niezależnego prowadzenia postępowania.
 
 8. Minister Sprawiedliwości po zasięgnięciu opinii Prezesa Urzędu Ochrony Konkurencji i Konsumentów może określić, drodze rozporządzenia, wysokość progów finansowych wartości przedmiotu sporu, których przekroczenie uprawnia sąd do odmowy rozpatrzenia sporu, uwzględniając określenie ich wysokości na poziomie, który nie utrudnia znacząco konsumentowi dostępu do postępowania.”.
 
@@ -518,8 +553,6 @@ o pozasądowym rozwiązywaniu sporów konsumenckich
 **Art. 16b.**
 
 1. W zakresie nieuregulowanym niniejszym rozdziale stosuje się przepisy ustawy z dnia 23 września 2016 r. o pozasądowym rozwiązywaniu sporów konsumenckich (Dz. U. poz. 1823), z tym że spór może być prowadzony między przedsiębiorcami.
-
-2. Prowadząc postępowanie, Rzecznik przedstawia stronom propozycję rozwiązania sporu pasażerskiego.
 
 3. Strony terminie 7 dni od dnia przedstawienia propozycji rozwiązania sporu pasażerskiego obowiązane są do podjęcia decyzji co do wyrażenia zgody na przedstawioną propozycję rozwiązania sporu lub zastosowanie się do niej.
 
@@ -536,11 +569,13 @@ o pozasądowym rozwiązywaniu sporów konsumenckich
 - **5)** cieszą się nieposzlakowaną opinią;
 - **6)** nie są członkami partii politycznych.
 
-2. Obsług ę organizacyjn ą Rzecznika zapewnia Urz ą d Transportu Kolejowego.
+2. Obsługę organizacyjną Rzecznika zapewnia Urząd Transportu Kolejowego.
+
+3. Rzecznik nie może:
 
 - **1)** być członkiem zarządów, rad nadzorczych lub komisji rewizyjnych podmiotów, o których mowa art. 16a;
 - **2)** być zatrudniony lub wykonywać innych zajęć podmiotach, o których mowa art. 16a, które mogłyby wywoływać podejrzenie o jego stronniczość lub interesowność;
-- **3)** posiadać podmiotach, o których mowa art. 16a, więcej niż 10% akcji lub udziałów przedstawiających więcej niż 10% kapitału zakładowego każdym z tych podmiotów.
+- **3)** posiadać podmiotach, o których mowa art. 16a, więcej niż 10% akcji lub udziałów przedstawiających więcej niż 10% kapitału zakładowego – każdym z tych podmiotów.
 
 4. Prezes UTK odwołuje Rzecznika przed upływem kadencji, na którą został powołany, przypadku:
 
@@ -557,7 +592,7 @@ o pozasądowym rozwiązywaniu sporów konsumenckich
 
 2. Warunkiem wystąpienia z wnioskiem o wszczęcie postępowania przed Rzecznikiem jest podjęcie przez pasażera próby kontaktu z przewoźnikiem kolejowym, zarządcą infrastruktury kolejowej, właścicielem dworca bądź zarządzającym dworcem, sprzedawcą biletów lub operatorem turystycznym i bezpośredniego rozwiązania sporu pasażerskiego, tym na drodze postępowania reklamacyjnego.
 
-3. Wniosek o wszcz ę cie post ę powania przed Rzecznikiem zawiera co najmniej elementy okre ś lone art. 33 ust. 2 ustawy z dnia 23 września 2016 r. o pozasądowym rozwiązywaniu sporów konsumenckich, z tym że wnioskodawca może wnosić o przedstawienie stronom propozycji rozwiązania sporu.
+3. Wniosek o wszczęcie postępowania przed Rzecznikiem zawiera co najmniej elementy określone art. 33 ust. 2 ustawy z dnia 23 września 2016 r. o pozasądowym rozwiązywaniu sporów konsumenckich, z tym że wnioskodawca może wnosić o przedstawienie stronom propozycji rozwiązania sporu.
 
 4. Do wniosku o wszczęcie postępowania przed Rzecznikiem dołącza się opis okoliczności sprawy, informacje na temat dotychczasowego przebiegu sporu pasażerskiego oraz kopie posiadanych przez wnioskodawcę dokumentów potwierdzających informacje zawarte we wniosku.
 
@@ -569,7 +604,6 @@ o pozasądowym rozwiązywaniu sporów konsumenckich
 - **2)** wnioskodawca nie podjął przed złożeniem wniosku o wszczęcie postępowania próby kontaktu z drugą stroną i bezpośredniego rozwiązania sporu pasażerskiego;
 - **3)** spór pasażerski jest błahy lub wniosek o wszczęcie postępowania przed Rzecznikiem spowoduje uciążliwości dla drugiej strony;
 - **4)** sprawa o to samo roszczenie między tymi samymi stronami jest toku albo została już rozpatrzona przez Rzecznika, inny właściwy podmiot albo sąd;
-- **5)** wartość przedmiotu sporu pasażerskiego jest wyższa albo niższa od progów finansowych określonych przepisach wykonawczych wydanych na podstawie art. 16g;
 - **6)** wnioskodawca złożył wniosek o wszczęcie postępowania po upływie roku od dnia, którym podjął próbę kontaktu z drugą stroną i bezpośredniego rozwiązania sporu pasażerskiego;
 - **7)** rozpatrzenie sporu pasażerskiego spowodowałoby poważne zakłócenie działania Rzecznika.
 
@@ -582,16 +616,13 @@ o pozasądowym rozwiązywaniu sporów konsumenckich
 3. Rzecznik cofa upoważnienie członkowi zespołu, o którym mowa ust. 1, przed upływem okresu, na jaki zostało udzielone, przypadku:
 
 - **1)** rażącego naruszenia prawa przy wykonywaniu funkcji;
-- **2)** skazania prawomocnym wyrokiem za popełnione umy ś lnie przest ę pstwo lub przest ę pstwo skarbowe;
-- **3)** choroby trwale uniemo ż liwiaj ą cej wykonywanie zada ń ;
-- **4)** zło ż enia rezygnacji.
-- **1)** organizację instytucji Rzecznika,
-- **2)** sposób i formy prowadzenia postępowania sprawie pozasądowego rozwiązywania sporów pasażerskich, tym sposób wnoszenia wniosków o wszczęcie postępowania oraz wymiany informacji między stronami postępowania za pomocą środków komunikacji elektronicznej lub przesyłką pocztową,
-- **3)** szczegółową treść wniosku o wszczęcie postępowania sprawie pozasądowego rozwiązywania sporów pasażerskich i niezbędne dokumenty, które należy dołączyć do wniosku,
-- **4)** wysokość progów finansowych wartości przedmiotu sporu, których przekroczenie uprawnia Rzecznika do odmowy rozpatrzenia sporu pasażerskiego,
-- **5)** szczegółowe kwalifikacje osób prowadzących postępowania sprawie pozasądowego rozwiązywania sporów pasażerskich oraz minimalny czas, na jaki jest udzielane upoważnienie mając na uwadze konieczność zapewnienia łatwego dostępu do postępowania, sprawnego rozwiązywania sporów oraz bezstronnego i niezależnego prowadzenia postępowania.”.
+- **2)** skazania prawomocnym wyrokiem za popełnione umyślnie przestępstwo lub przestępstwo skarbowe;
+- **3)** choroby trwale uniemożliwiającej wykonywanie zadań;
+- **4)** złożenia rezygnacji.
 
-**Art. 52.** W ustawie z dnia 16 lipca 2004 r. Prawo telekomunikacyjne (Dz. U. z 2016 r. poz. 1489 i 1579) wprowadza się następujące zmiany:
+**Art. 16g.** Minister właściwy do spraw transportu określi, drodze rozporządzenia:
+
+**Art. 52.** W ustawie z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2016 r. poz. 1489 i 1579) wprowadza się następujące zmiany:
 
 **Art. 53.** W ustawie z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. z 2016 r. poz. 174, 615, 888 i 996) art. 18:
 
@@ -599,7 +630,7 @@ o pozasądowym rozwiązywaniu sporów konsumenckich
 
 **Art. 55.** W ustawie z dnia 23 sierpnia 2007 r. o przeciwdziałaniu nieuczciwym praktykom rynkowym (Dz. U. z 2016 r. poz. 3) art. 5 ust. 3 pkt 3 otrzymuje brzmienie: „3) obowiązków przedsiębiorcy związanych z produktem, tym usług serwisowych i procedury reklamacyjnej, dostawy, niezbędnych usług, części, wymiany lub naprawy;”.
 
-**Art. 56.** W ustawie z dnia 23 listopada 2012 r. Prawo pocztowe (Dz. U. z 2016 r. poz. 1113 i 1250) wprowadza się następujące zmiany:
+**Art. 56.** W ustawie z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2016 r. poz. 1113 i 1250) wprowadza się następujące zmiany:
 
 **Art. 95.**
 
@@ -609,9 +640,7 @@ o pozasądowym rozwiązywaniu sporów konsumenckich
 
 3. W zakresie nieuregulowanym stosuje się przepisy ustawy z dnia 23 września 2016 r. o pozasądowym rozwiązywaniu sporów konsumenckich, z tym że spór może być prowadzony także wtedy, gdy nadawca albo adresat nie jest konsumentem.
 
-4. Postępowanie sprawie pozasądowego rozwiązywania sporów konsumenckich prowadzi się na wniosek adresata albo nadawcy albo z urzędu, jeżeli wymaga tego ochrona interesu konsumenta.
-
-5. Wniosek o wszczęcie postępowania sprawie pozasądowego rozwiązywania sporów konsumenckich zawiera co najmniej elementy określone art. 33 ust. 2 ustawy z dnia 23 września 2016 r. o pozasądowym rozwiązywaniu sporów konsumenckich, z tym że wnioskodawca może wnosić o przedstawienie stronom propozycji rozwiązania sporu.
+4. Postępowanie sprawie pozasądowego rozwiązywania sporów konsumenckich prowadzi się na wniosek adresata albo nadawcy albo z urzędu, jeżeli wymaga tego ochrona interesu konsumenta. sporów konsumenckich, z tym że wnioskodawca może wnosić o przedstawienie stronom propozycji rozwiązania sporu.
 
 6. Do wniosku o wszczęcie postępowania sprawie pozasądowego rozwiązywania sporów konsumenckich dołącza się uzasadnienie żądania strony oraz kopie posiadanych przez wnioskodawcę dokumentów potwierdzających informacje zawarte we wniosku.
 
@@ -620,8 +649,9 @@ o pozasądowym rozwiązywaniu sporów konsumenckich
 8. Prezes UKE może odmówić rozpatrzenia sporu przypadku, gdy:
 
 - **1)** wnioskodawca nie podjął przed złożeniem wniosku o wszczęcie postępowania sprawie pozasądowego rozwiązywania sporów konsumenckich próby kontaktu z operatorem pocztowym i bezpośredniego rozwiązania sporu;
-- **2)** spór jest błahy lub wniosek o wszcz ę cie post ę powania sprawie pozas ą dowego rozwi ą zywania sporów konsumenckich spowoduje uci ąż liwo ś ci dla operatora pocztowego;
-- **3)** sprawa o to samo roszczenie mi ę dzy tymi samymi stronami jest toku albo została ju ż rozpatrzona przez Prezesa UKE, s ą d polubowny, inny wła ś ciwy podmiot albo s ą d; nych na podstawie ust. 12;
+- **2)** spór jest błahy lub wniosek o wszczęcie postępowania sprawie pozasądowego rozwiązywania sporów konsumenckich spowoduje uciążliwości dla operatora pocztowego;
+- **3)** sprawa o to samo roszczenie między tymi samymi stronami jest toku albo została już rozpatrzona przez Prezesa UKE, sąd polubowny, inny właściwy podmiot albo sąd;
+- **4)** wartość przedmiotu sporu jest niższa od progu finansowego określonego przepisach wykonawczych wydanych na podstawie ust. 12;
 - **5)** wnioskodawca złożył wniosek o wszczęcie postępowania sprawie pozasądowego rozwiązywania sporów konsumenckich po upływie roku od dnia, którym podjął próbę kontaktu z operatorem pocztowym i bezpośredniego rozwiązania sporu;
 - **6)** rozpatrzenie sporu spowodowałoby poważne zakłócenie działania Prezesa UKE;
 - **7)** wnioskodawca nie wyczerpał drogi postępowania reklamacyjnego przypadku niewykonania lub nienależytego wykonania usługi powszechnej.
@@ -644,9 +674,7 @@ o pozasądowym rozwiązywaniu sporów konsumenckich
 - **3)** sposób wnoszenia wniosków o wszczęcie postępowania sprawie pozasądowego rozwiązywania sporów konsumenckich,
 - **4)** sposób wymiany informacji między stronami postępowania za pomocą środków komunikacji elektronicznej lub przesyłką pocztową,
 - **5)** szczegółowe kwalifikacje osób prowadzących postępowania sprawie pozasądowego rozwiązywania sporów konsumenckich oraz minimalny czas, na jaki jest udzielane upoważnienie,
-- **6)** termin na wyrażenie przez strony zgody na przedstawioną propozycję rozwiązania sporu lub na zastosowanie się do niej mając na uwadze konieczność zapewnienia łatwego dostępu do postępowania, sprawnego rozwiązywania sporów oraz bezstronnego i niezależnego prowadzenia postępowania.”.
-
-**Art. 57.** W ustawie z dnia 9 maja 2014 r. o informowaniu o cenach towarów i usług (Dz. U. poz. 915) art. 4 ust. 1 otrzymuje brzmienie: „1. W miejscu sprzedaży detalicznej i świadczenia usług uwidacznia się cenę oraz cenę jednostkową towaru (usługi) sposób jednoznaczny, niebudzący wątpliwości oraz umożliwiający porównanie cen.”.
+- **6)** termin na wyrażenie przez strony zgody na przedstawioną propozycję rozwiązania sporu lub na zastosowanie się do niej – mając na uwadze konieczność zapewnienia łatwego dostępu do postępowania, sprawnego rozwiązywania sporów oraz bezstronnego i niezależnego prowadzenia postępowania.”. „1. W miejscu sprzedaży detalicznej i świadczenia usług uwidacznia się cenę oraz cenę jednostkową towaru (usługi) sposób jednoznaczny, niebudzący wątpliwości oraz umożliwiający porównanie cen.”.
 
 **Art. 58.** W ustawie z dnia 30 maja 2014 r. o prawach konsumenta (Dz. U. poz. 827, z 2015 r. poz. 1854 oraz z 2016 r. poz. 615) wprowadza się następujące zmiany:
 
@@ -666,9 +694,6 @@ o pozasądowym rozwiązywaniu sporów konsumenckich
 - **2)** skazania prawomocnym wyrokiem za popełnione umyślnie przestępstwo lub przestępstwo skarbowe;
 - **3)** choroby trwale uniemożliwiającej wykonywanie zadań.”;
 - **3)** art. 36 otrzymuje brzmienie: „Art. 36. 1. Postępowanie wszczyna się na wniosek klienta podmiotu rynku finansowego.
-
-2. Wniosek o wszczęcie postępowania zawiera co najmniej elementy określone art. 33 ust. 2 ustawy z dnia 23 września 2016 r. o pozasądowym rozwiązywaniu sporów konsumenckich, z tym że wnioskodawca może wnosić o:
-
 - **1)** umożliwienie zbliżenia stanowisk stron celu rozwiązania sporu przez jego strony lub
 - **2)** przedstawienie stronom propozycji rozwiązania sporu.
 
@@ -679,28 +704,29 @@ o pozasądowym rozwiązywaniu sporów konsumenckich
 - **1)** jego przedmiot wykracza poza kategorie sporów objęte właściwością Rzecznika;
 - **2)** klient nie wyczerpał drogi postępowania reklamacyjnego, o którym mowa rozdziale 2;
 - **3)** wniosek o wszczęcie postępowania spowoduje uciążliwości dla podmiotu rynku finansowego;
-- **4)** sprawa o to samo roszczenie mi ę dzy tymi samymi stronami jest toku albo została ju ż rozpatrzona przez Rzecznika post ę powaniu, s ą d polubowny, inny wła ś ciwy podmiot albo s ą d;
-- **5)** rozpatrzenie sporu spowodowałoby powa ż ne zakłócenie działania Rzecznika;
-- **6)** klient nie ui ś cił opłaty, o której mowa art. 38 ust. 1, i nie został z niej zwolniony.”; „Art. 39. W toku postępowania Rzecznik zapoznaje podmiot rynku finansowego z roszczeniem klienta, przedstawia stronom postępowania przepisy prawa mające zastosowanie sprawie oraz podejmuje działania mające na celu umożliwienie zbliżenia stanowisk stron celu rozwiązania sporu przez jego strony lub przedstawia stronom propozycję rozwiązania sporu.”;
+- **4)** sprawa o to samo roszczenie między tymi samymi stronami jest toku albo została już rozpatrzona przez Rzecznika postępowaniu, sąd polubowny, inny właściwy podmiot albo sąd;
+- **5)** rozpatrzenie sporu spowodowałoby poważne zakłócenie działania Rzecznika;
+- **6)** klient nie uiścił opłaty, o której mowa art. 38 ust. 1, i nie został z niej zwolniony.”;
+- **4)** art. 39 otrzymuje brzmienie: „Art. 39. W toku postępowania Rzecznik zapoznaje podmiot rynku finansowego z roszczeniem klienta, przedstawia stronom postępowania przepisy prawa mające zastosowanie sprawie oraz podejmuje działania mające na celu umożliwienie zbliżenia stanowisk stron celu rozwiązania sporu przez jego strony lub przedstawia stronom propozycję rozwiązania sporu.”;
 - **5)** po art. 39 dodaje się art. 39a brzmieniu: „Art. 39a. Strony oraz inne osoby biorące udział postępowaniu są obowiązane zachować tajemnicy wszelkie informacje uzyskane jego trakcie.”;
 - **6)** art. 41 ust. 1 otrzymuje brzmienie: „1. Z przebiegu postępowania sporządza się protokół, którym należy zawrzeć informacje dotyczące miejsca i czasu jego przeprowadzenia, imię, nazwisko (nazwę) i adresy stron, przedmiot sporu oraz informację o sposobie zakończenia sporu. Odpis protokołu doręcza się stronom ciągu 7 dni od dnia jego sporządzenia.”;
 - **7)** art. 43 otrzymuje brzmienie: „Art. 43. Minister właściwy do spraw instytucji finansowych określi, drodze rozporządzenia:
 - **1)** sposób i formy prowadzenia postępowania, tym sposób wnoszenia wniosków o wszczęcie postępowania oraz wymiany informacji między stronami postępowania za pomocą środków komunikacji elektronicznej lub przesyłką pocztową,
-- **2)** szczegółow ą tre ść wniosku o wszcz ę cie post ę powania i niezb ę dne dokumenty, które nale ż y doł ą czy ć do wniosku,
+- **2)** szczegółową treść wniosku o wszczęcie postępowania i niezbędne dokumenty, które należy dołączyć do wniosku,
 - **3)** szczegółowe kwalifikacje osób prowadzących postępowania oraz minimalny okres, na jaki upoważnienie jest udzielane,
-- **4)** termin na wyrażenie przez strony zgody na przedstawioną propozycję rozwiązania sporu lub zastosowanie się do niej mając na uwadze konieczność zapewnienia łatwego dostępu do postępowania, sprawnego rozwiązywania sporów oraz bezstronnego i niezależnego prowadzenia postępowania.”.
+- **4)** termin na wyrażenie przez strony zgody na przedstawioną propozycję rozwiązania sporu lub zastosowanie się do niej – mając na uwadze konieczność zapewnienia łatwego dostępu do postępowania, sprawnego rozwiązywania sporów oraz bezstronnego i niezależnego prowadzenia postępowania.”.
 
-#### Rozdział 8 Przepisy przej ś ciowe, dostosowuj ą ce i ko ń cowe
+#### Rozdział 8 Przepisy przejściowe, dostosowujące i końcowe
 
 **Art. 60.** Przepis art. 32 stosuje się do sporów będących następstwem reklamacji składanych od dnia wejścia życie niniejszej ustawy.
 
-**Art. 61.** Do zapisów na sąd polubowny, obejmujących spory wynikające z umów, których stroną jest konsument, sporządzonych przed dniem wejścia życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej art. 48 brzmieniu dotychczasowym.
-
-**Art. 62.** Do spraw rozstrzyganych przez sądy polubowne wszczętych i niezakończonych przed dniem wejścia życie niniejszej ustawy oraz do uchylania i odmowy uznania wyroku sądu polubownego wydanego przed dniem wejścia życie niniejszej ustawy stosuje się przepisy ustawy zmienianej art. 48 brzmieniu dotychczasowym.
+**Art. 61.** Do zapisów na sąd polubowny, obejmujących spory wynikające z umów, których stroną jest konsument, sporządzonych przed dniem wejścia życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej art. 48 brzmieniu dotychczasowym. niniejszej ustawy stosuje się przepisy ustawy zmienianej art. 48 brzmieniu dotychczasowym.
 
 **Art. 63.** Do rozpatrywania wniosków o rozwiązanie sporu złożonych przed dniem wejścia życie niniejszej ustawy do stałego polubownego sądu konsumenckiego przy wojewódzkim inspektorze inspekcji handlowej przez konsumenta, tym odbiorcę paliw gazowych, energii elektrycznej lub ciepła gospodarstwie domowym oraz prosumenta będącego konsumentem, stosuje się przepisy ustawy zmienianej art. 50 brzmieniu dotychczasowym.
 
 **Art. 64.** Do wszczętych i niezakończonych przed dniem wejścia życie niniejszej ustawy postępowań:
+
+**Art. 65.** Przepis art. 7a ustawy zmienianej art. 58 stosuje się do reklamacji składanych od dnia wejścia życie niniejszej ustawy.
 
 **Art. 66.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 37 ust. 4 ustawy zmienianej art. 50 zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych na podstawie art. 37 ust. 7 ustawy zmienianej art. 50, brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 6 miesięcy od dnia wejścia życie niniejszej ustawy.
 
@@ -715,7 +741,7 @@ o pozasądowym rozwiązywaniu sporów konsumenckich
 - **3)** Rzecznik Praw Pasażera Kolei przy Prezesie Urzędu Transportu Kolejowego,
 - **4)** Prezes Urzędu Komunikacji Elektronicznej,
 - **5)** sąd polubowny przy Komisji Nadzoru Finansowego,
-- **6)** Rzecznik Finansowy przekazują Prezesowi Urzędu dane objęte Rejestrem.
+- **6)** Rzecznik Finansowy – przekazują Prezesowi Urzędu dane objęte Rejestrem.
 
 2. Prezes Urzędu dokonuje wpisu do Rejestru podmiotów wymienionych ust. 1, z urzędu, niezwłocznie po otrzymaniu danych.
 
@@ -729,60 +755,59 @@ o pozasądowym rozwiązywaniu sporów konsumenckich
 
 1. Maksymalny limit wydatków budżetu państwa przeznaczonych na wykonywanie zadań zakresie pozasądowego rozwiązywania sporów konsumenckich Koordynatora do spraw negocjacji przy Prezesie Urzędu Regulacji Energetyki wynosi:
 
-- **1)** 2017 r. 445 760 zł;
-- **2)** 2018 r. 445 760 zł;
-- **3)** 2019 r. 445 760 zł;
-- **4)** 2020 r. 445 760 zł;
-- **5)** 2021 r. 445 760 zł;
-- **6)** 2022 r. 445 760 zł;
-- **7)** 2023 r. 445 760 zł;
-- **8)** 2024 r. 445 760 zł;
-- **9)** 2025 r. 445 760 zł;
-- **10)** 2026 r. 445 760 zł.
+- **1)** 2017 r. – 445 760 zł;
+- **2)** 2018 r. – 445 760 zł;
+- **3)** 2019 r. – 445 760 zł;
+- **4)** 2020 r. – 445 760 zł;
+- **5)** 2021 r. – 445 760 zł;
+- **7)** 2023 r. – 445 760 zł;
+- **8)** 2024 r. – 445 760 zł;
+- **9)** 2025 r. – 445 760 zł;
+- **10)** 2026 r. – 445 760 zł.
 
 2. Prezes Urzędu Regulacji Energetyki monitoruje wykorzystanie limitu wydatków, o którym mowa ust. 1, oraz wdraża mechanizm korygujący, o którym mowa ust. 8.
 
 3. Maksymalny limit wydatków budżetu państwa przeznaczonych na wykonywanie zadań organów Inspekcji Handlowej zakresie pozasądowego rozwiązywania sporów konsumenckich wynosi:
 
-- **1)** 2017 r. 2 785 320,33 zł;
-- **2)** 2018 r. 2 785 320,33 zł;
-- **3)** 2019 r. 2 785 320,33 zł;
-- **4)** 2020 r. 2 785 320,33 zł;
-- **6)** 2022 r. 2 785 320,33 zł;
-- **7)** 2023 r. 2 785 320,33 zł;
-- **8)** 2024 r. 2 785 320,33 zł;
-- **9)** 2025 r. 2 785 320,33 zł;
-- **10)** 2026 r. 2 785 320,33 zł.
+- **1)** 2017 r. – 2 785 320,33 zł;
+- **2)** 2018 r. – 2 785 320,33 zł;
+- **3)** 2019 r. – 2 785 320,33 zł;
+- **4)** 2020 r. – 2 785 320,33 zł;
+- **5)** 2021 r. – 2 785 320,33 zł;
+- **6)** 2022 r. – 2 785 320,33 zł;
+- **7)** 2023 r. – 2 785 320,33 zł;
+- **8)** 2024 r. – 2 785 320,33 zł;
+- **9)** 2025 r. – 2 785 320,33 zł;
+- **10)** 2026 r. – 2 785 320,33 zł.
 
 4. Wojewoda monitoruje wykorzystanie limitu wydatków, o którym mowa ust. 3. Wojewódzki inspektor inspekcji handlowej wdraża mechanizm korygujący, o którym mowa ust. 8.
 
 5. Maksymalny limit wydatków budżetu państwa przeznaczonych na wykonywanie zadań zakresie pozasądowego rozwiązywania sporów konsumenckich Rzecznika Praw Pasażera Kolei przy Prezesie Urzędu Transportu Kolejowego wynosi:
 
-- **1)** 2017 r. 364 000 zł;
-- **2)** 2018 r. 364 000 zł;
-- **3)** 2019 r. 364 000 zł;
-- **4)** 2020 r. 364 000 zł;
-- **5)** 2021 r. 364 000 zł;
-- **6)** 2022 r. 364 000 zł;
-- **7)** 2023 r. 364 000 zł;
-- **8)** 2024 r. 364 000 zł;
-- **9)** 2025 r. 364 000 zł;
-- **10)** 2026 r. 364 000 zł.
+- **1)** 2017 r. – 364 000 zł;
+- **2)** 2018 r. – 364 000 zł;
+- **3)** 2019 r. – 364 000 zł;
+- **4)** 2020 r. – 364 000 zł;
+- **5)** 2021 r. – 364 000 zł;
+- **6)** 2022 r. – 364 000 zł;
+- **7)** 2023 r. – 364 000 zł;
+- **8)** 2024 r. – 364 000 zł;
+- **9)** 2025 r. – 364 000 zł;
+- **10)** 2026 r. – 364 000 zł.
 
 6. Prezes Urzędu Transportu Kolejowego monitoruje wykorzystanie limitu wydatków, o którym mowa ust. 5, oraz wdraża mechanizm korygujący, o którym mowa ust. 8.
 
 7. Maksymalny limit wydatków budżetu państwa przeznaczonych na wykonywanie zadań Prezesa Urzędu wynosi:
 
-- **1)** 2017 r. 189 000 zł;
-- **2)** 2018 r. 189 000 zł;
-- **3)** 2019 r. 189 000 zł;
-- **4)** 2020 r. 189 000 zł;
-- **5)** 2021 r. 189 000 zł;
-- **6)** 2022 r. 189 000 zł;
-- **7)** 2023 r. 189 000 zł;
-- **8)** 2024 r. 189 000 zł;
-- **9)** 2025 r. 189 000 zł;
-- **10)** 2026 r. 189 000 zł.
+- **1)** 2017 r. – 189 000 zł;
+- **2)** 2018 r. – 189 000 zł;
+- **3)** 2019 r. – 189 000 zł;
+- **4)** 2020 r. – 189 000 zł;
+- **5)** 2021 r. – 189 000 zł;
+- **6)** 2022 r. – 189 000 zł;
+- **7)** 2023 r. – 189 000 zł;
+- **8)** 2024 r. – 189 000 zł;
+- **10)** 2026 r. – 189 000 zł.
 
 8. W przypadku przekroczenia lub zagrożenia przekroczenia przyjętego na dany rok budżetowy limitu wydatków określonych ust. 1, 3 i 5 stosuje się mechanizm korygujący polegający na wprowadzeniu progu finansowego wartości przedmiotu sporu, poniżej lub powyżej którego spór nie będzie rozpatrywany.
 

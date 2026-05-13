@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 30 czerwca 2022 r.
+# o zmianie ustawy o księgach wieczystych i hipotece oraz ustawy o przetwarzaniu informacji kryminalnych
+
+*USTAWA z dnia 12 maja 2022 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,13 +26,9 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001374) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1374/text.pdf) |
 
-Poz. 1374
-USTAWA z dnia 12 maja 2022 r.
-o zmianie ustawy o księgach wieczystych i hipotece oraz ustawy o przetwarzaniu informacji kryminalnych
-
 **Art. 1.** W ustawie z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. U. z 2019 r. poz. 2204, z 2021 r. poz. 1177 i 1978 oraz z 2022 r. poz. 872) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie z dnia 6 lipca 2001 r. o przetwarzaniu informacji kryminalnych (Dz. U. z 2021 r. poz. 1607 oraz z 2022 r. poz. 655) w art. 13 w ust. 1 w pkt 5 lit. b otrzymuje brzmienie: „b) przedmiotach, w tym nieruchomościach, wykorzystanych do popełnienia przestępstwa, uzyskanych w wyniku przestępstwa lub utraconych w związku z przestępstwem,”.
+**Art. 2.** W ustawie z dnia 6 lipca 2001 r. o przetwarzaniu informacji kryminalnych (Dz. U. z 2021 r. poz. 1607 oraz z 2022 poz. 655) w art. 13 w ust. 1 w pkt 5 lit. b otrzymuje brzmienie: „b) przedmiotach, w tym nieruchomościach, wykorzystanych do popełnienia przestępstwa, uzyskanych w wyniku przestępstwa lub utraconych w związku z przestępstwem,”.
 
 **Art. 3.** Ustawa wchodzi w życie po upływie 2 lat od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
 

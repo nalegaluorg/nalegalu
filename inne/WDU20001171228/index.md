@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# 600, 1996 106, 496, 1997 121, poz.770iz1998 106, 668) wprowadza się następujące zmiany:
+# o zmianie ustawy o specjalnych strefach ekonomicznych oraz o zmianie niekt(cid:243)rych ustaw
+
+*USTAWA dnia 16 listopada 2000 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,36 +26,27 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20001171228) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/1228/text.pdf) |
 
-1) tytuł rozdziału 2 otrzymuje brzmienie: ŃUstanawianie, łączenie, znoszenie stref oraz zmiaich obszaru”;
-2) wart. 4:
-a) 1 wyrazy zastępuje się wyrazami Ńministra właściwego gospodarki uzgodniony ministrem właściwym rozwoju regionalnego”,
-b) 2 3 wyrazy ŃMinister Handlu” zastępuje się wyrazami ŃMinister właściwy gospodarki”,
-c) wust. 4: pkt 2 otrzymuje brzmienie: Ń2) przedmioty gospodarczej, które nie będzie wydawane zezwolenie, októrym mowa wart. 16 1,” pkt 5 otrzymuje brzmienie: Ń5) wielkość pomocy publicznej udzielanej przedsiębiorcom prowadzącym działalność gospodarczą terenie strefy podstawie zezwolenia, którym mowa wart. 16 1,” dodaje się pkt 6 wbrzmieniu: Ń6) szczegółowe warunki uznawania wydatków za wydatki poniesione inwestycję terenie strefy, a także ich minimalną wysokość.”,
-d) 5 otrzymuje brzmienie: Ń5. Rada Ministrów, określając dopuszczalną wielkość pomocy publicznej poszczególnych strefach, uwzględnia następujące kryteria:
-1) poziom bezrobocia regionie oddziaływania strefy,
-2) poziom produktu krajowego brutto jednego mieszkańca regionu, którym usytuowana jest strefa, 153, 41, 255, 63, 403, 93, 569, 107, 692, 121, 770 iNr 123, 776, z1998 66, 431, 106, 668, 108, 684, 137, 887 162, 1112, 1118 1126, 1999 636 oraz 2000 12, 136, 31, 384, 48, 550, 70, poz.820i 106, 1118).”;
-3) po art. 5 dodaje się art. 5awbrzmieniu: ŃArt. 5a. Rada Ministrów, wniosek ministra właściwego gospodarki uzgodniony zministrem właściwym rozwoju regionalnego, wdrodze rozporządzenia, znieść strefę przed upływem okresu, jaki została ona ustanowiona, zmienić jej obszar lub połączyć strefy, ztym że łączny obszar wszystkich stref nie przekroczyć dotychczas ustalonego łącznego obszaru stref.
-2. Zniesienie strefy nie nastąpić wokresie, wktórym pozostaje wmocy choćby jedno zezwolenie wydane podstawie art. 16
-3. Zakazu, którym mowa 2, nie stosuje się, gdy obszar, którym przedsiębiorca prowadzi działalność gospodarczą podstawie zezwolenia, zostanie włączony obszaru innej strefy zachowaniem prawa przedsiębiorcy zwolnień podatkowych dotychczasowych warunkach.
-4. Zmniejszenie obszaru strefy nie dotyczyć nieruchomości, których prowadzona jest działalność podstawie zezwolenia wydanego zgodnie zart. 16 1, chyba że przedsiębiorca prowadzący tam działalność podstawie zezwolenia wyrazi to zgodę.”;
-4) tytuł rozdziału 3 otrzymuje brzmienie: ŃZarządzanie strefą izwolnienia podatkowe”;
-5) art. 6 otrzymuje brzmienie: być oddane walnym zgromadzeniu lub zgromadzeniu wspólników, powołuje się najwyżej 7 osób, wtym:
-1) po jednym przedstawicielu: ministra właściwego Skarbu Państwa, ministra właściwego gospodarki, Prezesa Urzędu Ochrony Konkurencji iKonsumentów oraz wojewody jako przedstawicieli Skarbu Państwa,
-2) najwyżej trzech przedstawicieli jednostek samorządu terytorialnego, które mają udziały lub akcje wtej spółce.”,
-b) dodaje się 1awbrzmieniu: Ń1a. Do składu rady nadzorczej spółki będącej zarządzającym, wstosunku której samorząd województwa posiada większość głosów, które mogą być oddane walnym zgromadzeniu lub zgromadzeniu wspólników, powołuje się najwyżej 7 osób, wtym:
-1) czterech przedstawicieli samorządu województwa,
-2) przedstawiciela ministra właściwego gospodarki,
-3) najwyżej dwóch przedstawicieli jednostek samorządu terytorialnego, wyłączeniem samorządu województwa, które mają udziały lub akcje wtej spółce.”,
-c) 2 otrzymuje brzmienie: Ń2. Do składu rady nadzorczej, której mowa wust. 1 i1a, nie być powołana osoba, która jest członkiem władz lub pracownikiem przedsiębiorcy prowadzącego działalność gospodarczą terenie strefy lub pozostaje takim przedsiębiorcą związku, którym mowa wart. 11 4—8 ustawy zdnia 15 lutego 1992 opodatku dochodowym od osób prawnych (Dz. U. 2000 54, 654, Nr60, 700 i703,Nr 86, 958 103,
-1100).”;
-7) wart. 8 dodaje się 4 wbrzmieniu: Ń4. Organ właściwy podstawie przepisów ustawy zdnia 21 sierpnia 1997 ogospodarce nieruchomościami (Dz. U. z2000 46, 543) powierzyć zarządzającemu organizację przeprowadzenie przetargu zbycie nieruramach zezwolenia, którym mowa art. 16 1, przez osoby prawne lub osoby fizyczne prowadzące działalność gospodarczą są zwolnione od podatku dochodowego, odpowiednio zasadach określonych przepisach podatku dochodowym od osób prawnych lub wprzepisach podatku dochodowym od osób fizycznych. Wielkość zwolnień podatkowych określają rozporządzenia Rady Ministrów ustanawiające strefy zachowaniem zasad określonych wustawie zdnia 30 czerwca 2000 warunkach dopuszczalności nadzorowaniu pomocy publicznej dla przedsiębiorców (Dz. U. Nr60,
-704).
+**Art. 1.** W ustawie dnia 20 października 1994 r. o specjalnych strefach ekonomicznych (Dz.U. 123, poz. 600, 1996 r. 106, poz. 496, 1997 r. 121, poz. 770 oraz 1998 r. 106, poz. 668) wprowadza się następujące zmiany:
 
-**Art. 13.** Wokresie,na jaki ustanowiono strefę,zasady iwielkość pomocy publicznej udzielanej przedsiębiorcom podstawie ustawy nie mogą ulec zmianie niekorzyść przedsiębiorców posiadających ważne zezwolenie, októrym mowa wart. 16 1, zzastrzeżeniem art. 19.”;
+**Art. 13.** W okresie na jaki ustanowiono strefę zasady i wielkość pomocy publicznej udzielanej przedsiębiorcom na podstawie ustawy nie mogą ulec zmianie na niekorzyść przedsiębiorc(cid:243)w posiadających ważne zezwolenie, o kt(cid:243)rym mowa w art. 16 ust. 1, zastrzeżeniem art. 19.(cid:148);
 
-**Art. 2.** Wustawie zdnia 20 maja 1971 Kodeks wykroczeń (Dz. U. 12, 114, 1981 24, poz.124, z1982 16, 125, z1983 6, 35 iNr 44, 203, z1984 54, 275, z1985 Nr14, 60 23, 100, 1986 39, 193, z1988r. 20, 135 iNr 41, 324, z1989 Nr34, 180, 1990 51, 297, 72, 422 86, 504, 1991 75, 332 91, 408, 1992 24, 101, 1994 123, poz.600, z1995 6, 29, 310 iNr 95, 475, z1997 54, 349, 369, Nr85, 539, 98, 602, 104, 661, 106, 677, 111, 724, 123, 779, 133, 884 141, 942, 1998 113, 717, z1999 83, 931iNr 101, 1178 oraz z2000r. 22, 271, 73, 852 iNr 74, 855) skreśla się art. 60 .
+**Art. 2.** W ustawie dnia 20 maja 1971 r. - Kodeks wykroczeń (Dz.U. 12, poz. 114, 1981 r. 24, poz. 124, 1982 r. 16, poz. 125, 1983 r. 6, poz. 35 i 44, poz. 203, 1984 r. 54, poz. 275, 1985 r. 14, poz. 60 i 23, poz. 100, 1986 r. nr 39, poz. 193, 1988 r. 20, poz. 135 i 41, poz. 324, 1989 r. 34, poz. 180, 1990 r. 51, poz. 297, 72, poz. 422 i 86, poz. 504, 1991 r. 75, poz. 332 i 91, poz. 408, 1992 r. 24, poz. 101, 1994 r. 123, poz. 600, 60, poz. 369, 85, poz. 539, 98, poz. 602, 104, poz. 661, 106, poz. 677, 111, poz. 724, 123, poz. 779, 133, poz. 884 i 141, poz. 942, 1998 r. 113, poz. 717, 1999 r. 83, poz. 931, 101, poz. 1178 oraz 2000 r. 22, poz. 271, 73, poz. 852 i 74, poz. 855) skreśla się art. 60 .
 
-**Art. 3.** ustawie 26 lipca 1991 podatku dochodowym od osób fizycznych (Dz. U. 2000 Nr14, 176, 22, 270, 703,Nr 70, 816i 104, 1104) wart. 21: kujących się uzyskania pomocy największej wysokości, zgodnie zasadami zawartymi wustawie zdnia 30 czerwca 2000 warunkach dopuszczalności nadzorowaniu pomocy publicznej dla przedsiębiorców (Dz. U. 704), wtym zzasadami kumulacji oraz udzielania pomocy publicznej wokreślonych sektorach.”;
+**Art. 3.** W ustawie dnia 26 lipca 1991 r. o podatku dochodowym od os(cid:243)b fizycznych (Dz.U. 2000 r. 14, poz. 176, 22, poz. 270, 60, poz. 703 i 70, poz. 816) w art. 21:
 
-**Art. 4.** ustawie 15 lutego 1992 podatku dochodowym od osób prawnych (Dz. U. 2000 54, 654, 700 703, 86, 958 iNr 103, 1100) wart. 17:
+**Art. 4.** W ustawie dnia 15 lutego 1992 r. o podatku dochodowym od os(cid:243)b prawnych (Dz.U. 2000 r. 54, poz. 654, 60, poz. 700 i 703 i 86, poz. 958) w art. 17:
+
+**Art. 5.**
+
+1. Przedsiębiorcy, kt(cid:243)rzy przed dniem wejścia w życie ustawy uzyskali zezwolenia na podstawie art. 16 ust. 1 ustawy wymienionej w art. 1, zachowują przez okres ważności zezwolenia prawo do zwolnień i preferencji podatkowych określonych w art. 12 ustawy, o kt(cid:243)rej mowa w art. 1 w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy.
+
+2. W zakresie zwolnień i preferencji podatkowych przysługujących przedsiębiorcom, o kt(cid:243)rych mowa w ust. 1, stosuje się przepisy art. 12-14 i 19 ustawy wymienionej w art. 1 w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy.
+
+**Art. 6.**
+
+1. Rada Ministr(cid:243)w dostosuje przepisy rozporządzeń wydanych na podstawie art. 4 ust. 1 ustawy, o kt(cid:243)rej mowa w art. 1, do zmian wynikających przepis(cid:243)w niniejszej ustawy.
+
+2. Rozporządzenia, o kt(cid:243)rych mowa w ust. 1, wchodzą w życie dniem 1 stycznia 2001 r.
+
+**Art. 7.** Ustawa wchodzi w życie dniem 1 stycznia 2001 r., wyjątkiem art. 1 pkt 1 i pkt 3, art. 2 i art. 6, kt(cid:243)re wchodzą w życie dniem ogłoszenia.
 

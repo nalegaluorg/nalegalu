@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 2 lutego 2026 r.
+# o zmianie ustawy o księgach wieczystych i hipotece oraz ustawy o Krajowym Rejestrze Sądowym
+
+*USTAWA z dnia 9 stycznia 2026 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +25,6 @@ domain: null
 | Data wydania | 2026-02-02 |
 | Ostatnia zmiana | 2026-03-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000119) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/119/text.pdf) |
-
-Poz. 119
-USTAWA z dnia 9 stycznia 2026 r.
-o zmianie ustawy o księgach wieczystych i hipotece oraz ustawy o Krajowym Rejestrze Sądowym
 
 **Art. 1.** W ustawie z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. U. z 2025 r. poz. 341, 1669, 1792 i 1793) wprowadza się następujące zmiany:
 

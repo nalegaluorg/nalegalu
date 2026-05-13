@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 3 grudnia 2024 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy o wsparciu rozwoju kompetencji cyfrowych nauczycieli
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 27 listopada 2024 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2024-12-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001771) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1771/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 27 listopada 2024 r.
-sprawie ogłoszenia jednolitego tekstu ustawy o wsparciu rozwoju kompetencji cyfrowych nauczycieli
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 7 lipca 2023 r. o wsparciu rozwoju kompetencji cyfrowych uczniów i nauczycieli (Dz. U. poz. 1369), z uwzględnieniem zmian wprowadzonych ustawą z dnia 1 października 2024 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (Dz. U. poz. 1473) oraz zmian wynikających z przepisów ogłoszonych przed dniem 26 listopada 2024 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1) art. 27–29 ustawy z dnia 7 lipca 2023 r. o wsparciu rozwoju kompetencji cyfrowych uczniów i nauczycieli (Dz. U. poz. 1369), które stanowią: „Art. 27. W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym administracji (Dz. U. z 2022 r.
@@ -116,11 +116,7 @@ poz. 479, z późn. zm. ) art. 8 § 1 pkt 18 kropkę zastępuje się średnikiem
 
 1. Zakupiony przez nauczyciela ramach wsparcia, o którym mowa art. 2 ust. 3 pkt 2, laptop lub laptop przeglądarkowy musi spełniać minimalne wymagania dla sprzętu komputerowego typu laptop lub laptop przeglądarkowy dla nauczyciela, o których mowa przepisach wydanych na podstawie art. 29 ust. 3 ustawy z dnia 26 stycznia 1982 r. Karta Nauczyciela (Dz. U. z 2024 r. poz. 986).
 
-2. Zakupiony przez nauczyciela ramach wsparcia, o którym mowa art. 2 ust. 3 pkt 2, laptop lub laptop przeglądarkowy nie może być przedmiotem jakichkolwiek czynności rozporządzających okresie 5 lat od dnia zakupu.
-
-**Art. 15.**
-
-1. Nauczyciel ujęty grupie nauczycieli uprawnionych do otrzymania wsparcia, o którym mowa art. 2 ust. 3 pkt 2, celu otrzymania bonu składa, za pośrednictwem dyrektora szkoły, wniosek do organu prowadzącego szkołę, zawierający imię (imiona) i nazwisko, numer PESEL, numer telefonu komórkowego oraz adres poczty elektronicznej terminie 30 dni od dnia jego wskazania przepisach wydanych na podstawie art. 2 ust. 2.
+2. Zakupiony przez nauczyciela ramach wsparcia, o którym mowa art. 2 ust. 3 pkt 2, laptop lub laptop przeglądarArt. 15. 1. Nauczyciel ujęty grupie nauczycieli uprawnionych do otrzymania wsparcia, o którym mowa art. 2 ust. 3 pkt 2, celu otrzymania bonu składa, za pośrednictwem dyrektora szkoły, wniosek do organu prowadzącego szkołę, zawierający imię (imiona) i nazwisko, numer PESEL, numer telefonu komórkowego oraz adres poczty elektronicznej terminie 30 dni od dnia jego wskazania przepisach wydanych na podstawie art. 2 ust. 2.
 
 2. Organ prowadzący szkołę terminie 30 dni od dnia otrzymania wniosku, o którym mowa ust. 1, składa jeden wniosek dla wszystkich nauczycieli uprawnionych do otrzymania wsparcia, o którym mowa art. 2 ust. 3 pkt 2, systemie teleinformatycznym, o którym mowa art. 20 ust. 1, zawierający:
 
@@ -162,7 +158,6 @@ poz. 479, z późn. zm. ) art. 8 § 1 pkt 18 kropkę zastępuje się średnikiem
 
 - **1)** imię (imiona) i nazwisko;
 - **2)** numer PESEL;
-- **3)** numer telefonu komórkowego;
 
 **Art. 16.**
 
@@ -204,7 +199,7 @@ poz. 479, z późn. zm. ) art. 8 § 1 pkt 18 kropkę zastępuje się średnikiem
 
 1. Przedsiębiorca prowadzący sprzedaż laptopów lub laptopów przeglądarkowych przyjmujący płatności za pomocą bonu może, każdym czasie, złożyć systemie teleinformatycznym, o którym mowa art. 20 ust. 1, oświadczenie o rezygnacji z prawa do przyjmowania płatności dokonywanych za pomocą bonu.
 
-2. Złożenie oświadczenia powoduje skreślenie przedsiębiorcy prowadzącego sprzedaż laptopów lub laptopów przeglądarkowych z listy, o której mowa art. 18 ust. 1, oraz dokonanie odpowiedniej zmiany systemie teleinformatycznym, o którym mowa art. 20 ust. 1, skutkującej zablokowaniem możliwości przyjmowania płatności za pomocą bonu.
+2. Złożenie oświadczenia powoduje skreślenie przedsiębiorcy prowadzącego sprzedaż laptopów lub laptopów przeglądarkowych z listy, o której mowa art. 18 ust. 1, oraz dokonanie odpowiedniej zmiany systemie teleinformatycznym,
 
 **Art. 20.**
 

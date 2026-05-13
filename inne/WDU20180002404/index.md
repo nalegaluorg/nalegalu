@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 27 grudnia 2018 r.
+# zmieniająca ustawę o zmianie ustawy o podatku akcyzowym
+
+*USTAWA z dnia 22 listopada 2018 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +25,6 @@ domain: null
 | Data wydania | 2018-12-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002404) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2404/text.pdf) |
-
-Poz. 2404
-USTAWA z dnia 22 listopada 2018 r.
-zmieniająca ustawę o zmianie ustawy o podatku akcyzowym
 
 **Art. 1.** W ustawie z dnia 12 grudnia 2017 r. o zmianie ustawy o podatku akcyzowym (Dz. U. z 2018 r. poz. 137) wprowadza się następujące zmiany:
 

@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 23 grudnia 2014 r.
+# o zmianie ustawy o dowodach osobistych, ustawy o ewidencji ludności oraz ustawy – Prawo o aktach stanu cywilnego
+
+*USTAWA z dnia 19 grudnia 2014 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +25,6 @@ domain: null
 | Data wydania | 2014-12-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001888) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1888/text.pdf) |
-
-Poz. 1888
-USTAWA z dnia 19 grudnia 2014 r.
-o zmianie ustawy o dowodach osobistych, ustawy o ewidencji ludności oraz ustawy – Prawo o aktach stanu cywilnego
 
 **Art. 1.** W ustawie z dnia 6 sierpnia 2010 r. o dowodach osobistych (Dz. U. Nr 167, poz. 1131, z późn. zm. ) wprowadza się następujące zmiany:
 

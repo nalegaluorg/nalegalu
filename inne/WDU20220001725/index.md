@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 17 sierpnia 2022 r.
+# o zmianie ustawy o obronie Ojczyzny oraz ustawy o finansach publicznych
 
 | Pole | Wartość |
 |---|---|
@@ -24,13 +24,9 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001725) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1725/text.pdf) |
 
-Poz. 1725
-USTAWA z dnia 5 sierpnia 2022 r.
-o zmianie ustawy o obronie Ojczyzny oraz ustawy o finansach publicznych
+**Art. 1.** W ustawie dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655 i 974) wprowadza się następujące zmiany:
 
-**Art. 1.** W ustawie z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655 i 974) wprowadza się następujące zmiany:
-
-**Art. 2.** W ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2022 r. poz. 1634 i 1692) art. 167a ust. 1 otrzymuje brzmienie: „1. Rada Ministrów może przedstawić sejmowej komisji właściwej do spraw budżetu propozycje przekazania przez Ministra Obrony Narodowej do Funduszu Wsparcia Sił Zbrojnych, o którym mowa art. 41 ust. 1 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655, 974 i 1725), dodatkowych środków na realizację zadań Funduszu, tym spłaty zobowiązań z tytułu zaciągniętych kredytów, pożyczek i wyemitowanych obligacji oraz zobowiązań finansowych, o których mowa odpowiednio art. 45 ust. 1 i art. 45a ust. 1 tej ustawy.”.
+**Art. 2.** W ustawie dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. 2022 r. poz. 1634 i 1692) art. 167a ust. 1 otrzymuje brzmienie: „1. Rada Ministrów może przedstawić sejmowej komisji właściwej do spraw budżetu propozycje przekazania przez Ministra Obrony Narodowej do Funduszu Wsparcia Sił Zbrojnych, o którym mowa art. 41 ust. 1 ustawy dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655, 974 i 1725), dodatkowych środków na realizację zadań Funduszu, tym spłaty zobowiązań tytułu zaciągniętych kredytów, pożyczek i wyemitowanych obligacji oraz zobowiązań finansowych, o których mowa odpowiednio art. 45 ust. 1 i art. 45a ust. 1 tej ustawy.”.
 
 **Art. 3.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
 

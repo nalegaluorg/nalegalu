@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 28 sierpnia 2017 r.
+# o zmianie ustawy o sporcie oraz ustawy o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów
+
+*USTAWA z dnia 20 lipca 2017 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,9 +25,6 @@ domain: null
 | Data wydania | 2017-08-28 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001600) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1600/text.pdf) |
-
-USTAWA z dnia 20 lipca 2017 r.
-o zmianie ustawy o sporcie oraz ustawy o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów
 
 **Art. 1.** W ustawie z dnia 25 czerwca 2010 r. o sporcie (Dz. U. z 2017 r. poz. 1463) wprowadza się następujące zmiany:
 
@@ -47,7 +46,7 @@ o zmianie ustawy o sporcie oraz ustawy o ujawnianiu informacji o dokumentach org
 
 2. Minister właściwy do spraw kultury fizycznej, terminie jednego miesiąca od dnia wejścia życie niniejszej ustawy, powiadamia osoby, o których mowa ust. 1, o obowiązku złożenia temu organowi oświadczenia, o którym mowa art. 7 ust. 1 ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów, oraz informuje o skutku niedopełnienia tego obowiązku.
 
-3. Osoby, które przed dniem wejścia życie niniejszej ustawy złożyły oświadczenie, o którym mowa art. 7 ust. 1 ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów, związku z wykonywaniem funkcji publicznej, z którą związany jest obowiązek złożenia tego oświadczenia, albo kandydowaniem na taką funkcję, składają informację o uprzednim jego złożeniu.
+3. Osoby, które przed dniem wejścia życie niniejszej ustawy złożyły oświadczenie, o którym mowa art. 7 ust. 1 ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944– 1990 oraz treści tych dokumentów, związku z wykonywaniem funkcji publicznej, z którą związany jest obowiązek złożenia tego oświadczenia, albo kandydowaniem na taką funkcję, składają informację o uprzednim jego złożeniu.
 
 4. W przypadku niezłożenia terminie oświadczenia, o którym mowa art. 7 ust. 1 ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów, przez osobę, obowiązaną do jego złożenia na podstawie ust. 1, następuje skutek określony art. 21e ust. 1 ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów.
 
@@ -63,16 +62,20 @@ o zmianie ustawy o sporcie oraz ustawy o ujawnianiu informacji o dokumentach org
 
 2. Do świadczeń pieniężnych ze środków budżetu państwa przyznanych przed dniem wejścia życie niniejszej ustawy, tym świadczeń, o których mowa art. 85 ust. 4 ustawy zmienianej art. 1, stosuje się art. 36 tej ustawy, brzmieniu nadanym niniejszą ustawą.
 
-- **1)** 2017 2 000 000 zł;
-- **2)** 2018 3 900 000 zł;
-- **3)** 2019 3 900 000 zł;
-- **4)** 2020 3 900 000 zł;
-- **5)** 2021 3 900 000 zł;
-- **6)** 2022 3 900 000 zł;
-- **7)** 2023 3 900 000 zł;
-- **8)** 2024 3 900 000 zł;
-- **9)** 2025 3 900 000 zł;
-- **10)** 2026 3 900 000 zł.
+**Art. 8.**
+
+1. W latach 2017–2026 maksymalny limit wydatków budżetu państwa, będących skutkiem finansowym ustawy, stosunku do wielkości wynikających z obowiązujących przepisów, wynosi roku:
+
+- **1)** 2017 – 2 000 000 zł;
+- **2)** 2018 – 3 900 000 zł;
+- **3)** 2019 – 3 900 000 zł;
+- **4)** 2020 – 3 900 000 zł;
+- **5)** 2021 – 3 900 000 zł;
+- **6)** 2022 – 3 900 000 zł;
+- **7)** 2023 – 3 900 000 zł;
+- **8)** 2024 – 3 900 000 zł;
+- **9)** 2025 – 3 900 000 zł;
+- **10)** 2026 – 3 900 000 zł.
 
 2. Minister właściwy do spraw kultury fizycznej monitoruje wykorzystanie limitu wydatków, o którym mowa ust. 1, oraz odpowiada za wdrożenie mechanizmu korygującego, o którym mowa ust. 3.
 

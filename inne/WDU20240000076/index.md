@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 23 stycznia 2024 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy o jednostkach doradztwa rolniczego
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 16 stycznia 2024 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000076) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/76/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 16 stycznia 2024 r.
-sprawie ogłoszenia jednolitego tekstu ustawy o jednostkach doradztwa rolniczego
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 22 października 2004 r. o jednostkach doradztwa rolniczego (Dz. U. z 2023 r. poz. 1354), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 17 sierpnia 2023 r. o zmianie ustawy o odnawialnych źródłach energii oraz niektórych innych ustaw (Dz. U. poz. 1762) oraz zmian wynikających z przepisów ogłoszonych przed dniem 16 stycznia 2024 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 50 ustawy z dnia 17 sierpnia 2023 r. o zmianie ustawy o odnawialnych źródłach energii oraz niektórych innych ustaw (Dz. U. poz. 1762), który stanowi: „Art. 50. Ustawa wchodzi życie pierwszego dnia miesiąca następującego po upływie miesiąca od dnia ogłoszenia, z wyjątkiem:
 1) art. 4 pkt 2 i art. 46, które wchodzą życie z dniem 30 listopada 2023 r.;
@@ -42,10 +42,10 @@ g) pkt 134 zakresie dodawanych art. 184k–184m które wchodzą życie z dniem 2
 5) art. 1:
 a) pkt 63 lit. b i lit. c zakresie dodawanego pkt 4a,
 b) pkt 69, 81 i 82,
-c) pkt 85, 87 i pkt 88 lit. a zakresie dodawanych tych przepisach wyrazów „art. 70h ust. 3 pkt 6” i wyrazów „art. 83h ust. 3 pkt 6 i 7”, nianej art. 1,
+c) pkt 85, 87 i pkt 88 lit. a zakresie dodawanych tych przepisach wyrazów „art. 70h ust. 3 pkt 6” i wyrazów „art. 83h ust. 3 pkt 6 i 7”,
+d) pkt 86 zakresie, jakim dotyczy wytwórcy, który uzyskał wsparcie, o którym mowa art. 70g–70j ustawy zmienianej art. 1, albo wygrał aukcję na wsparcie operacyjne, o której mowa art. 83b ust. 1 ustawy zmienianej art. 1,
 e) pkt 90 lit. f tiret drugie zakresie, jakim dotyczy aukcji na wsparcie operacyjne, o której mowa art. 83b ust. 1 ustawy zmienianej art. 1, i wsparcia, o którym mowa art. 70g–70j ustawy zmienianej art. 1,
-f) pkt 91 lit. b, d, f i g zakresie, jakim dotyczą aukcji na wsparcie operacyjne, o której mowa art. 83b ust. 1 ustawy zmienianej art. 1, i wsparcia, o którym mowa art. 70g–70j ustawy zmienianej art. 1,
-g) pkt 92, 93, pkt 129 lit. h i pkt 131 lit. e zakresie, jakim dotyczą wytwórcy, który uzyskał wsparcie, o którym mowa art. 70g–70j ustawy zmienianej art. 1, albo wygrał aukcję na wsparcie operacyjne, o której mowa art. 83b ust. 1 ustawy zmienianej art. 1 które wchodzą życie z dniem 1 lipca 2025 r.”.
+f) pkt 91 lit. b, d, f i g zakresie, jakim dotyczą aukcji na wsparcie operacyjne, o której mowa art. 83b ust. 1 ustawy zmienianej art. 1, i wsparcia, o którym mowa art. 70g–70j ustawy zmienianej art. 1, rej mowa art. 83b ust. 1 ustawy zmienianej art. 1 które wchodzą życie z dniem 1 lipca 2025 r.”.
 Marszałek Sejmu: S. Hołownia
 USTAWA z dnia 22 października 2004 r.
 o jednostkach doradztwa rolniczego
@@ -315,7 +315,7 @@ o jednostkach doradztwa rolniczego
 
 3b. Środki finansowe, o których mowa ust. 1 pkt 4, przekazuje się jednostce doradztwa rolniczego na podstawie umowy zawartej przez dyrektora jednostki doradztwa rolniczego z Dyrektorem Generalnym Państwowego Gospodarstwa Leśnego Lasy Państwowe, której zostaną ustalone zasady zwrotu zryczałtowanych kosztów udziału przedstawicieli wojewódzkich ośrodków doradztwa rolniczego szacowaniu szkód łowieckich, a także ustalaniu wysokości odszkodowania za te szkody zgodnie z przepisami ustawy z dnia 13 października 1995 r. Prawo łowieckie, i są przeznaczane na zwiększenie funduszu wynagrodzeń jednostki.
 
-4. Jednostka doradztwa rolniczego prowadzi rachunkowość zgodnie z zasadami określonymi przepisach o rachunkowości. mować lub nabywać udziały spółdzielniach rozumieniu art. 1 § 1 ustawy z dnia 16 września 1982 r. Prawo spółdzielcze (Dz. U. z 2021 r. poz. 648 oraz z 2023 r. poz. 1450) oraz spółdzielniach rolników rozumieniu art. 4 ust. 1 ustawy z dnia 4 października 2018 r. o spółdzielniach rolników (Dz. U. poz. 2073 oraz z 2023 r. poz. 1681 i 1762), których przedmiotem działalności jest wytwarzanie energii elektrycznej lub biogazu, lub biogazu rolniczego, lub biometanu lub ciepła instalacjach odnawialnego źródła energii, obrót nimi lub ich magazynowanie, dokonywane ramach działalności prowadzonej wyłącznie na rzecz tej spółdzielni oraz jej członków. Przepisu art. 49 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm. ) nie stosuje się.
+4. Jednostka doradztwa rolniczego prowadzi rachunkowość zgodnie z zasadami określonymi przepisach o rachunkowości. dzielcze (Dz. U. z 2021 r. poz. 648 oraz z 2023 r. poz. 1450) oraz spółdzielniach rolników rozumieniu art. 4 ust. 1 ustawy z dnia 4 października 2018 r. o spółdzielniach rolników (Dz. U. poz. 2073 oraz z 2023 r. poz. 1681 i 1762), których przedmiotem działalności jest wytwarzanie energii elektrycznej lub biogazu, lub biogazu rolniczego, lub biometanu lub ciepła instalacjach odnawialnego źródła energii, obrót nimi lub ich magazynowanie, dokonywane ramach działalności prowadzonej wyłącznie na rzecz tej spółdzielni oraz jej członków. Przepisu art. 49 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm. ) nie stosuje się.
 
 **Art. 12.**
 
@@ -361,7 +361,7 @@ o jednostkach doradztwa rolniczego
 
 2. Minister właściwy do spraw rozwoju wsi powoła Komisję Inwentaryzacyjną terminie miesiąca od dnia wejścia życie ustawy.
 
-3. Komisja Inwentaryzacyjna działa do czasu zakończenia realizacji zadania, o którym mowa ust. 1. wojewódzkich ośrodków doradztwa rolniczego, ośrodków doradztwa rolniczego oraz wszystkich ich jednostek organizacyjnych.
+3. Komisja Inwentaryzacyjna działa do czasu zakończenia realizacji zadania, o którym mowa ust. 1. nych.
 
 2. Właściwy miejscowo wojewoda powołuje komisję inwentaryzacyjną terminie miesiąca od dnia wejścia życie ustawy.
 

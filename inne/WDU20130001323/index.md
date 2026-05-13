@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, 15 listopada 2013 r.
+# o zmianie ustawy o wydawaniu Monitora Sądowego i Gospodarczego oraz ustawy o europejskim ugrupowaniu współpracy terytorialnej
 
 | Pole | Wartość |
 |---|---|
@@ -24,15 +24,7 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001323) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1323/text.pdf) |
 
-Poz. 1323
-USTAWA z 27 września 2013 r.
-o zmianie ustawy o wydawaniu Monitora Sądowego i Gospodarczego oraz ustawy o europejskim ugrupowaniu współpracy terytorialnej
-
 **Art. 1.** W ustawie z 22 grudnia 1995 r. o wydawaniu Monitora Sądowego i Gospodarczego (Dz. U. z 1996 r. Nr 6, poz. 42, z późn. zm. ) wprowadza się następujące zmiany:
-
-**Art. 2.** W ustawie z 7 listopada 2008 r. o europejskim ugrupowaniu współpracy terytorialnej (Dz. U. Nr 218, poz. 1390 oraz z 2011 r. Nr 232, poz. 1378) art. 13 otrzymuje brzmienie: „Art. 13. Konwencja i statut ugrupowania oraz ich zmiany podlegają nieodpłatnemu ogłoszeniu w Monitorze Sądowym i Gospodarczym. Ogłoszenia dokonuje minister właściwy do spraw zagranicznych.”.
-
-**Art. 3.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 1 ust. 7 ustawy, o której mowa w art. 1, zachowują moc do wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 1 ust. 7 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez okres 6 miesięcy od wejścia w życie niniejszej ustawy.
 
 **Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od ogłoszenia. Prezydent Rzeczypospolitej Polskiej: B. Komorowski
 

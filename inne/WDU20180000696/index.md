@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 10 kwietnia 2018 r.
+# zmianie ustawy ewidencji ludności, ustawy zmianie ustawy informatyzacji działalności podmiotów realizujących zadania publiczne oraz niektórych innych ustaw oraz ustawy Prawo aktach stanu cywilnego
+
+*USTAWA dnia marca 2018 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,14 +26,9 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000696) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/696/text.pdf) |
 
-USTAWA dnia 1 marca 2018 r.
-zmianie ustawy ewidencji ludno ś ci, ustawy zmianie ustawy informatyzacji działalno ś ci podmiotów realizuj ą cych zadania publiczne oraz niektórych innych ustaw oraz ustawy Prawo aktach stanu cywilnego
+**Art. 1.** W ustawie dnia 24 września 2010 r. ewidencji ludności (Dz. U. 2017 r. poz. 657 2286 oraz 2018 r. poz. 138) wprowadza się następujące zmiany:
 
-**Art. 1.** W ustawie dnia 24 września 2010 r. ewidencji ludności (Dz. U. 2017 r. poz. 657 i 2286 oraz 2018 r. poz. 138) wprowadza następujące zmiany:
-
-**Art. 2.** W ustawie dnia 10 stycznia 2014 r. zmianie ustawy informatyzacji działalności podmiotów realizujących zadania publiczne oraz niektórych innych ustaw (Dz. U. poz. 183, 2015 r. poz. 1311 oraz 2016 r. poz. 1579) 11 pkt 3 otrzymuje brzmienie:
-
-**Art. 3.** W ustawie dnia 28 listopada 2014 r. Prawo aktach stanu cywilnego (Dz. U. 2016 r. poz. 2064 oraz 2017 r. poz. 1524) wprowadza następujące zmiany:
+**Art. 3.** W ustawie dnia 28 listopada 2014 r. Prawo aktach stanu cywilnego (Dz. U. 2016 r. poz. 2064 oraz 2017 r. poz. 1524) wprowadza się następujące zmiany:
 
 **Art. 4.**
 
@@ -46,11 +43,9 @@ zmianie ustawy ewidencji ludno ś ci, ustawy zmianie ustawy informatyzacji dzia�
 - **7)** 2024 r. 0,368 mln zł;
 - **8)** 2025 r. 0,368 mln zł;
 - **9)** 2026 r. 0,368 mln zł;
-- **10)** 2027 r. 0,368 mln zł.
+- **10)** 2027 r. 0,368 mln zł. Minister właściwy do spraw informatyzacji nadzoruje wykorzystanie limitu wydatków, ust. 1, dokonuje oceny wykorzystania tego limitu według stanu na koniec każdego kwartału, a przypadku czwartego kwartału według stanu na dzień 20 listopada danego roku oraz wdraża mechanizm korygujący.
 
-2. Minister właściwy do spraw informatyzacji nadzoruje wykorzystanie limitu wydatków, których mowa ust. 1, i dokonuje oceny wykorzystania tego limitu według stanu na koniec każdego kwartału, a przypadku czwartego kwartału według stanu na dzień 20 listopada danego roku oraz wdraża mechanizm korygujący.
-
-3. W przypadku gdy wielkość wydatków, których mowa ust. 1, po trzech kwartałach wyniesie łącznie więcej niż 75% limitu przewidzianego na ten rok, wielkość wydatków czwartym kwartale obniża kwotę przekroczenia, określając zakres ograniczeń dla poszczególnych zadań realizowanych na podstawie ustawy.
+3. W przypadku gdy wielkość wydatków, ust. 1, po trzech kwartałach wyniesie łącznie więcej niż 75% limitu przewidzianego na ten rok, wielkość wydatków czwartym kwartale obniża się kwotę przekroczenia, określając zakres ograniczeń dla poszczególnych zadań realizowanych na podstawie ustawy.
 
 **Art. 5.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, wyjątkiem:
 

@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 1 lutego 2023 r.
+# o systemie oceny zgodności
+
+*USTAWA z dnia 30 sierpnia 2002 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,15 +26,6 @@ domain: null
 | Ostatnia zmiana | 2025-12-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000215) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/215/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 24 listopada 2022 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o systemie oceny zgodności
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2021 r. poz. 1344), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 7 kwietnia 2022 r. o wyrobach medycznych (Dz. U. poz. 974) oraz zmian wynikających z przepisów ogłoszonych przed dniem 24 listopada 2022 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 148 ustawy z dnia 7 kwietnia 2022 r. o wyrobach medycznych (Dz. U. poz. 974), który stanowi: „Art. 148. Ustawa wchodzi w życie z dniem 26 maja 2022 r., z wyjątkiem:
-1) art. 54–61, które wchodzą w życie z dniem 1 stycznia 2023 r.;
-2) art. 21–25, które wchodzą w życie z dniem 1 lipca 2023 r.”.
-Marszałek Sejmu: E. Witek
-USTAWA z dnia 30 sierpnia 2002 r.
-o systemie oceny zgodności
 Art. 49–57. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
@@ -105,8 +98,8 @@ Art. 49–57. (pominięte)
     - **a)** producenta lub jego upoważnionego przedstawiciela, jeżeli nie jest wymagane przeprowadzenie badań przez laboratorium niezależne od dostawcy i odbiorcy,
     - **b)** notyfikowane laboratorium, jeżeli jest wymagane przeprowadzenie badań przez laboratorium niezależne od dostawcy i odbiorcy;
 
-- **2)** sprawdzeniu zgodności z zasadniczymi wymaganiami przez notyfikowaną jednostkę kontrolującą;
-- **3)** certyfikacji przez notyfikowaną jednostkę certyfikującą.
+- **2)** sprawdzeniu zgodności z zasadniczymi wymaganiami – przez notyfikowaną jednostkę kontrolującą;
+- **3)** certyfikacji – przez notyfikowaną jednostkę certyfikującą.
 
 2. Pozytywny wynik oceny zgodności z zasadniczymi wymaganiami dokonywanej przez notyfikowaną jednostkę certyfikującą stanowi podstawę do wydania producentowi lub jego upoważnionemu przedstawicielowi certyfikatu zgodności.
 
@@ -158,7 +151,7 @@ Art. 49–57. (pominięte)
 
 1. Producent lub jego upoważniony przedstawiciel jest obowiązany przechowywać dokumentację dotyczącą wyrobów oraz wyników dokonanej oceny zgodności wyrobów z zasadniczymi wymaganiami przez okres 10 lat od daty wyprodukowania ostatniego wyrobu, którego dokumentacja ta dotyczy, o ile przepisy szczególne nie stanowią inaczej.
 
-2. Jeżeli producent ma siedzibę poza terytorium państw członkowskich Unii Europejskiej i państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym i nie ustanowił upoważnionego przedstawiciela, do przechowywania kopii dokumentacji dotyczącej wyrobu i przeprowadzonej oceny zgodności przez okres, o którym mowa w ust. 1, obowiązany jest importer.
+2. Jeżeli producent ma siedzibę poza terytorium państw członkowskich Unii Europejskiej i państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym i nie ustanowił upoważnionego przedstawiciela, do przechowywania kopii dokumentacji dotyczącej wyrobu i przeprowadzonej oceny zgodności przez okres, o którym mowa w ust. 1, obowiązany jest importer.
 
 **Art. 14.** Notyfikowane jednostki certyfikujące, notyfikowane jednostki kontrolujące oraz notyfikowane laboratoria, o których mowa w art. 7, dokonują oceny zgodności z uwzględnieniem przepisów o ochronie informacji stanowiących tajemnicę przedsiębiorstwa i innych informacji prawnie chronionych.
 
@@ -199,7 +192,7 @@ Art. 49–57. (pominięte)
 
 5a. Minister właściwy do spraw gospodarki określi wzór wniosku o udzielenie autoryzacji, w formie dokumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
 
-6. Warunki, o których mowa w ust. 3 pkt 1 i 2, nie dotyczą jednostek certyfikujących, jednostek kontrolujących i laboratoriów jednostek administracji rządowej wykonujących w imieniu Rzeczypospolitej Polskiej czynności związane z prawną kontrolą metrologiczną przyrządów pomiarowych na podstawie ustawy z dnia 11 maja 2001 r. Prawo o miarach (Dz. U. z 2022 r. poz. 2068).
+6. Warunki, o których mowa w ust. 3 pkt 1 i 2, nie dotyczą jednostek certyfikujących, jednostek kontrolujących i laboratoriów jednostek administracji rządowej wykonujących w imieniu Rzeczypospolitej Polskiej czynności związane z prawną kontrolą metrologiczną przyrządów pomiarowych na podstawie ustawy z dnia 11 maja 2001 r. – Prawo o miarach (Dz. U. z 2022 r. poz. 2068).
 
 7. Warunek, o którym mowa w ust. 3 pkt 2, nie dotyczy akredytowanych jednostek certyfikujących lub kontrolujących oraz akredytowanych laboratoriów wykonujących czynności w zakresie wyrobów wykorzystywanych na cele obronności lub bezpieczeństwa państwa oraz służących do ochrony informacji niejawnych.
 
@@ -243,9 +236,9 @@ Art. 49–57. (pominięte)
 
 6. (uchylony)
 
-#### Rozdział 4 (uchylony)
+#### Rozdział 4
 
-#### Rozdział 5 (uchylony)
+#### Rozdział 5
 
 #### Rozdział 6 System kontroli wyrobów
 
@@ -290,7 +283,7 @@ Art. 49–57. (pominięte)
 - **3)** (uchylony)
 - **4)** przygotowywanie, zgodnie z odrębnymi przepisami, okresowych planów kontroli przeprowadzanych przez Inspekcję Handlową;
 - **5)** podawanie do publicznej wiadomości i przekazywanie Komisji Europejskiej informacji o organach wyspecjalizowanych i ich kompetencjach;
-- **6)** sporządzanie okresowych planów i sprawozdań dotyczących funkcjonowania systemu kontroli wyrobów oraz podawanie ich do publicznej wiadomości i przekazywanie Komisji Europejskiej, państwom członkowskim Unii Europejskiej i państwom członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronom umowy o Europejskim Obszarze Gospodarczym.
+- **6)** sporządzanie okresowych planów i sprawozdań dotyczących funkcjonowania systemu kontroli wyrobów oraz podawanie ich do publicznej wiadomości i przekazywanie Komisji Europejskiej, państwom członkowskim Unii Europejskiej i państwom członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronom umowy o Europejskim Obszarze Gospodarczym.
 
 3. Do zadań organów wyspecjalizowanych, o których mowa w art. 38 ust. 2 pkt 2–9 oraz ust. 3 pkt 2–9 należy także:
 
@@ -323,9 +316,9 @@ Art. 49–57. (pominięte)
 
 2. W kontroli prowadzonej przez organ wyspecjalizowany może uczestniczyć, za jego zgodą, pracownik UOKiK upoważniony przez Prezesa UOKiK, do czynności którego stosuje się przepisy niniejszego rozdziału dotyczące osoby kontrolującej.
 
-2a. W kontroli prowadzonej przez organ wyspecjalizowany może uczestniczyć przedstawiciel właściwego organu państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym, do czynności którego stosuje się przepisy niniejszego rozdziału dotyczące osoby kontrolującej.
+2a. W kontroli prowadzonej przez organ wyspecjalizowany może uczestniczyć przedstawiciel właściwego organu państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, do czynności którego stosuje się przepisy niniejszego rozdziału dotyczące osoby kontrolującej.
 
-3. Do kontroli prowadzonej przez organy wyspecjalizowane stosuje się przepisy dotyczące zakresu działania tych organów oraz przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców (Dz. U. z 2021 r. poz. 162 i 2105 oraz z 2022 r. poz. 24, 974 i 1570).
+3. Do kontroli prowadzonej przez organy wyspecjalizowane stosuje się przepisy dotyczące zakresu działania tych organów oraz przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2021 r. poz. 162 i 2105 oraz z 2022 r. poz. 24, 974 i 1570).
 
 **Art. 40a.** Producenci, importerzy i dystrybutorzy wyrobów podlegających ocenie zgodności, o której mowa w art. 6 ust. 1, a także upoważnieni przedstawiciele oraz notyfikowane jednostki certyfikujące i kontrolujące oraz notyfikowane laboratoria, są obowiązani współdziałać, z należytą starannością, z organami wyspecjalizowanymi, w zakresie niezbędnym do ustalenia, czy wyrób spełnia zasadnicze, szczegółowe lub inne wymagania.
 
@@ -456,7 +449,7 @@ Art. 49–57. (pominięte)
 
 5. W przypadku gdy organ wyspecjalizowany prowadzący postępowanie stwierdzi, że wyrób spełnia wymagania, uchyla decyzję, o której mowa w ust. 1.
 
-**Art. 40l.** Organ wyspecjalizowany, który przeprowadził kontrolę, przekazuje Prezesowi UOKiK informacje dotyczące ustaleń kontroli, w szczególności informację, czy wyrób spełnia zasadnicze, szczegółowe lub inne wymagania, a w przypadku stwierdzenia niezgodności z zasadniczymi, szczegółowymi lub innymi wymaganiami informację, czy mogą być one usunięte.
+**Art. 40l.** Organ wyspecjalizowany, który przeprowadził kontrolę, przekazuje Prezesowi UOKiK informacje dotyczące ustaleń kontroli, w szczególności informację, czy wyrób spełnia zasadnicze, szczegółowe lub inne wymagania, a w przypadku stwierdzenia niezgodności z zasadniczymi, szczegółowymi lub innymi wymaganiami – informację, czy mogą być one usunięte.
 
 **Art. 40m.** W przypadku gdy przepisy szczególne dopuszczają możliwość, przed wprowadzeniem do obrotu lub oddaniem do użytku, prezentowania na targach, wystawach i pokazach oraz w innych miejscach wyrobów niezgodnych z zasadniczymi, szczegółowymi lub innymi wymaganiami, organy wyspecjalizowane mogą przeprowadzać kontrolę przestrzegania sposobu ich prezentowania, określonego przez te przepisy.
 
@@ -544,9 +537,9 @@ Art. 49–57. (pominięte)
 1. Prezes UOKiK, jako organ monitorujący funkcjonowanie systemu kontroli wyrobów, niezwłocznie informuje Komisję Europejską o decyzjach, o których mowa w:
 
 - **1)** art. 41c ust. 3 pkt 1–3 i ust. 5,
-- **2)** art. 30 ust. 1 pkt 2 i 3 i ust. 2, art. 31 ust. 1 pkt 2 i 3 i ust. 2 oraz art. 31a ust. 3 ustawy z dnia 16 kwietnia 2004 r. o wyrobach budowlanych jeżeli dotyczą one wyrobów, które zostały lub mogą zostać udostępnione na terytorium państwa członkowskiego Unii Europejskiej innego niż Rzeczpospolita Polska lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym.
+- **2)** art. 30 ust. 1 pkt 2 i 3 i ust. 2, art. 31 ust. 1 pkt 2 i 3 i ust. 2 oraz art. 31a ust. 3 ustawy z dnia 16 kwietnia 2004 r. o wyrobach budowlanych – jeżeli dotyczą one wyrobów, które zostały lub mogą zostać udostępnione na terytorium państwa członkowskiego Unii Europejskiej innego niż Rzeczpospolita Polska lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym.
 
-2. W przypadku stwierdzenia przez organ wyspecjalizowany, że wyrób stwarza poważne zagrożenie, Prezes UOKiK przekazuje, na zasadach określonych w art. 29 ustawy z dnia 12 grudnia 2003 r. o ogólnym bezpieczeństwie produktów (Dz. U. z 2021 r. poz. 222), informacje określone w ust. 1 oraz informacje o działaniach podjętych z własnej inicjatywy przez producenta, jego upoważnionego przedstawiciela, importera lub dystrybutora w celu wyeliminowania zagrożenia stwarzanego przez wyrób.
+2. (uchylony)
 
 #### Rozdział 7 Odpowiedzialność karna
 
@@ -586,7 +579,7 @@ Art. 49–57. (pominięte)
 
 1. Przepisy art. 6–8, art. 14, art. 21–24 i art. 44 stosuje się od dnia uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej , chyba że wcześniej wejdzie w życie Protokół do Układu Europejskiego między Rzecząpospolitą Polską a Wspólnotami Europejskimi w sprawie Oceny Zgodności i Dopuszczania Wyrobów Przemysłowych, zwany dalej „Protokołem”.
 
-2. Przepis art. 12 stosuje się od dnia uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej , a dla wyrobów objętych zakresem Protokołu od dnia jego wejścia w życie.
+2. Przepis art. 12 stosuje się od dnia uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej , a dla wyrobów objętych zakresem Protokołu – od dnia jego wejścia w życie.
 
 3. Przepis art. 43 stosuje się do dnia uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej .
 

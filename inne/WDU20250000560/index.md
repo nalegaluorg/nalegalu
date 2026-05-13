@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 28 kwietnia 2025 OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ dnia 23 kwietnia 2025 w sprawie ogłoszenia jednolitego tekstu ustawy o dodatkowym wynagrodzeniu rocznym dla pracowników jednostek sfery budżetowej
+# 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy dnia 20 lipca 2000 o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych U. 2019 poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy dnia 12 grudnia 1997 o dodatkowym wynagrodzeniu rocznym pracowników budżetowej U. 2023 poz. 1690), uwzględnieniem zmiany wprowadzonej ustawą dnia 6 grudnia 2024 o zmianie ustawy Kodeks pracy oraz niektórych innych ustaw U. poz. 1871) oraz zmian wynikających przepisów ogłoszonych przed 14 kwietnia 2025
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ dnia 23 kwietnia 2025 w sprawie ogłoszenia jednolitego tekstu ustawy o dodatkowym wynagrodzeniu rocznym pracowników budżetowej*
 
 | Pole | Wartość |
 |---|---|
@@ -24,23 +26,22 @@ domain: null
 | Ostatnia zmiana | 2025-04-29 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000560) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/560/text.pdf) |
 
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy dnia 20 lipca 2000 o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych U. 2019 poz. 1461) ogłasza w załączniku do niniejszego obwieszczenia jednolity tekst ustawy dnia 12 grudnia 1997 o dodatkowym wynagrodzeniu rocznym dla pracowników jednostek sfery budżetowej U. 2023 poz. 1690), uwzględnieniem zmiany wprowadzonej ustawą dnia 6 grudnia 2024 o zmianie ustawy Kodeks pracy oraz niektórych innych ustaw U. poz. 1871) oraz zmian wynikających przepisów ogłoszonych przed 14 kwietnia 2025
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 32 ustawy dnia 6 grudnia 2024 o zmianie ustawy Kodeks pracy oraz niektórych innych ustaw U. poz. 1871), który stanowi: „Art. 32. Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.”.
 Marszałek Sejmu: S. Hołownia
-USTAWA dnia 12 grudnia 1997 o dodatkowym wynagrodzeniu rocznym dla pracowników jednostek sfery budżetowej
+USTAWA dnia 12 grudnia 1997 o dodatkowym wynagrodzeniu rocznym pracowników budżetowej
 
 **Art. 1.**
 
-1. Ustawa określa zasady nabywania prawa oraz ustalania wysokości i wypłacania dodatkowego wynagrodzenia rocznego dla pracowników jednostek sfery budżetowej, zwanego dalej „wynagrodzeniem rocznym”.
+1. Ustawa określa zasady nabywania prawa oraz ustalania wysokości i wypłacania dodatkowego wynagrodzenia rocznego pracowników budżetowej, zwanego dalej „wynagrodzeniem rocznym”.
 
-2. Przez użyte w ust. 1 określenie „pracownicy jednostek sfery budżetowej” rozumie pracowników:
+2. Przez użyte w ust. 1 określenie „pracownicy budżetowej” rozumie się pracowników:
 
-- **1)** państwowych jednostek sfery budżetowej, dla których środki na wynagrodzenia są kształtowane na podstawie odrębnej ustawy;
+- **1)** państwowych budżetowej, których środki na wynagrodzenia są kształtowane na podstawie odrębnej ustawy;
 - **2)** zatrudnionych w urzędach organów władzy publicznej, kontroli, ochrony prawa oraz sądach i trybunałach, wymienionych w art. 139 ust. 2 ustawy dnia 27 sierpnia 2009 o finansach publicznych U. 2024 poz. 1530, 1572, 1717, 1756 i 1907 oraz 2025 poz. 39);
-- **3)** samorządowych jednostek budżetowych i samorządowych zakładów budżetowych prowadzących gospodarkę finansową na zasadach określonych w ustawie wymienionej w pkt 2;
+- **3)** samorządowych budżetowych i samorządowych zakładów budżetowych prowadzących gospodarkę finansową na zasadach określonych w ustawie wymienionej w pkt 2;
 - **4)** biur poselskich, senatorskich lub poselsko-senatorskich oraz klubów, kół albo zespołów parlamentarnych.
 
-3. Przepisów ustawy nie stosuje do:
+3. Przepisów ustawy nie stosuje się do:
 
 - **1)** osób, o których mowa w:
     - **a)** art. 2 ustawy dnia 31 lipca 1981 o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe U. 2023 poz. 624);
@@ -74,7 +75,7 @@ USTAWA dnia 12 grudnia 1997 o dodatkowym wynagrodzeniu rocznym dla pracowników 
 
 - **6)** korzystania:
     - **a)** urlopu wychowawczego, aa) urlopu macierzyńskiego, ab) (uchylona) ac) urlopu ojcowskiego, ad) urlopu na warunkach urlopu macierzyńskiego, ae) (uchylona) af) urlopu opiekuńczego, ag) uzupełniającego urlopu macierzyńskiego,
-    - **b)** urlopu dla poratowania zdrowia,
+    - **b)** urlopu poratowania zdrowia,
     - **c)** przez nauczyciela lub nauczyciela akademickiego urlopu do celów naukowych, artystycznych lub kształcenia zawodowego;
 
 - **6a)** korzystania urlopu rodzicielskiego;
@@ -84,9 +85,9 @@ USTAWA dnia 12 grudnia 1997 o dodatkowym wynagrodzeniu rocznym dla pracowników 
 
 **Art. 4.**
 
-1. Wynagrodzenie roczne ustala w wysokości 8,5 % sumy wynagrodzenia za pracę otrzymanego przez pracownika w ciągu roku kalendarzowego, za który przysługuje to wynagrodzenie, uwzględniając wynagrodzenie i inne świadczenia ze stosunku pracy przyjmowane do obliczenia ekwiwalentu pieniężnego za urlop wypoczynkowy, a także wynagrodzenie za urlop wypoczynkowy oraz wynagrodzenie za czas pozostawania bez pracy przysługujące pracownikowi, który podjął pracę w wyniku przywrócenia do pracy.
+1. Wynagrodzenie roczne ustala się w wysokości 8,5 % sumy wynagrodzenia za pracę otrzymanego przez pracownika w ciągu roku kalendarzowego, za który przysługuje to wynagrodzenie, uwzględniając wynagrodzenie i inne świadczenia ze stosunku pracy przyjmowane do obliczenia ekwiwalentu pieniężnego za urlop wypoczynkowy, a także wynagrodzenie za urlop wypoczynkowy oraz wynagrodzenie za czas pozostawania bez pracy przysługujące pracownikowi, który podjął pracę w wyniku przywrócenia do pracy.
 
-2. W przypadkach, o których mowa w art. 2 ust. 3, wysokość wynagrodzenia rocznego ustala proporcjonalnie do okresu przepracowanego u danego pracodawcy.
+2. W przypadkach, o których mowa w art. 2 ust. 3, wysokość wynagrodzenia rocznego ustala się proporcjonalnie do okresu przepracowanego u danego pracodawcy.
 
 **Art. 5.**
 
@@ -94,9 +95,9 @@ USTAWA dnia 12 grudnia 1997 o dodatkowym wynagrodzeniu rocznym dla pracowników 
 
 2. Wynagrodzenie roczne wypłaca się, zastrzeżeniem ust. 3, nie później niż w ciągu pierwszych trzech miesięcy roku kalendarzowego następującego po roku, za który przysługuje to wynagrodzenie.
 
-3. Pracownikowi, którym rozwiązano stosunek pracy w związku likwidacją pracodawcy, wynagrodzenie roczne wypłaca w dniu rozwiązania stosunku pracy.
+3. Pracownikowi, którym rozwiązano stosunek pracy w związku likwidacją pracodawcy, wynagrodzenie roczne wypłaca się w dniu rozwiązania stosunku pracy.
 
-**Art. 6.** Ilekroć w przepisach prawa jest mowa o „nagrodzie zakładowego funduszu nagród” dla pracowników wymienionych w art. 1 ust. 2, oznacza to „dodatkowe wynagrodzenie roczne dla pracowników jednostek sfery budżetowej”.
+**Art. 6.** Ilekroć w przepisach prawa jest mowa o „nagrodzie zakładowego funduszu nagród” pracowników wymienionych w art. 1 ust. 2, oznacza to „dodatkowe wynagrodzenie roczne pracowników budżetowej”.
 
 **Art. 7.** (pominięty)
 

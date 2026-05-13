@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# Dziennik Ustaw Nr 149 — 10098 1453
+# o spłacie pożyczek udzielonych w 2000 r. kasom chorych z budżetu państwa
+
+*USTAWA z dnia 24 lipca 2003 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,12 +26,19 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031491453) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/1453/text.pdf) |
 
-USTAWA zdnia 24 lipca ospłacie pożyczek udzielonych w2000
-
-**Art. 1.** Pożyczki udzielone w2000 r. kasom chorych zbudżetu państwa na podstawie art. 169iustawy zdnia 6 lutego 1997 r. o powszechnym ubezpieczeniu zdrowotnym (Dz. U. Nr 28, poz. 153, zpóên. zm. ) podlegają wraz z oprocentowaniem w całości zwrotowi nie póêniej niż do dnia 31 marca 2007 r.
+**Art. 1.** Pożyczki udzielone w 2000 r. kasom chorych z budżetu państwa na podstawie art. 169i ustawy z dnia 6 lutego 1997 r. o powszechnym ubezpieczeniu zdrowotnym (Dz.U. Nr 28, poz. 153 z p(cid:243)źn. zm. ) podlegają wraz z oprocentowaniem w całości zwrotowi nie p(cid:243)źniej niż do dnia 31 marca 2007 r.
 
 **Art. 2.**
 
-1. Spłata pożyczek wraz zoprocentowaniem następuje w ratach z przychodów dłużnika, z wyłączeniem dotacji przekazywanych zbudżetu państwa. ———————
+1. Spłata pożyczek wraz z oprocentowaniem następuje w ratach z przychod(cid:243)w dłużnika, z wyłączeniem dotacji przekazywanych z budżetu państwa.
 
+2. W celu zabezpieczenia wierzytelności, kt(cid:243)re wynikają z um(cid:243)w pożyczek, Skarb Państwa reprezentowany przez ministra właściwego do spraw budżetu może żądać zabezpieczenia w postaci weksla lub aktu notarialnego, w kt(cid:243)rym dłużnik oświadcza, że podda się egzekucji na rzecz Skarbu Państwa.
+
+**Art. 3.**
+
+1. Warunki spłaty pożyczki określa umowa zawarta między dłużnikiem a ministrem właściwym do spraw budżetu.
+
+2. Umowa, o kt(cid:243)rej mowa w ust. 1, określa w szczeg(cid:243)lności wysokość oprocentowania pożyczki, wysokość rat oraz termin zwrotu pożyczki.
+
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

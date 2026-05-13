@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 31 grudnia 2025 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy finansowaniu społecznościowym dla przedsięwzięć gospodarczych i pomocy kredytobiorcom
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 19 grudnia 2025 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2026-01-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001900) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1900/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 19 grudnia 2025 r.
-sprawie ogłoszenia jednolitego tekstu ustawy finansowaniu społecznościowym dla przedsięwzięć gospodarczych i pomocy kredytobiorcom
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 7 lipca 2022 r. finansowaniu społecznościowym dla przedsięwzięć gospodarczych i pomocy kredytobiorcom (Dz. U. z 2024 r. poz. 984), z uwzględnieniem zmian wprowadzonych ustawą z dnia 6 grudnia 2024 r. zmianie ustawy rachunkowości, ustawy biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym oraz niektórych innych ustaw (Dz. U. poz. 1863) oraz zmian wynikających z przepisów ogłoszonych przed dniem 11 grudnia 2025 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 35 ustawy z dnia 6 grudnia 2024 r. zmianie ustawy rachunkowości, ustawy biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym oraz niektórych innych ustaw (Dz. U. poz. 1863), który stanowi: „Art. 35. Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 1) art. 12, który wchodzi życie z dniem 1 stycznia 2025 r.;
@@ -231,7 +231,7 @@ Art. 43–72. (pominięte)
 2. W przypadku konieczności zabezpieczenia interesu publicznego Komisja może, drodze decyzji, określić:
 
 - **1)** czynności, jakie dostawca usług finansowania społecznościowego może podejmować do czasu wygaśnięcia zezwolenia;
-- **2)** termin zakończenia prowadzenia działalności jako dostawca usług finansowania społecznościowego. czasu zaprzestania prowadzenia działalności dostawca usług finansowania społecznościowego albo podmiot, któremu cofnięto zezwolenie, wykonuje wyłącznie czynności zmierzające do zakończenia działalności, tym wynikające z postanowień umów zawartych z klientami, bez możliwości zawierania nowych umów. Komisja może decyzji sprawie cofnięcia zezwolenia wydanej na podstawie art. 17 ust. 1 rozporządzenia 2020/1503 albo decyzji, której mowa ust. 2, określić inne czynności, jakie dostawca usług finansowania społecznościowego może podejmować tym okresie.
+- **2)** termin zakończenia prowadzenia działalności jako dostawca usług finansowania społecznościowego. zezwolenie, wykonuje wyłącznie czynności zmierzające do zakończenia działalności, tym wynikające z postanowień umów zawartych z klientami, bez możliwości zawierania nowych umów. Komisja może decyzji sprawie cofnięcia zezwolenia wydanej na podstawie art. 17 ust. 1 rozporządzenia 2020/1503 albo decyzji, której mowa ust. 2, określić inne czynności, jakie dostawca usług finansowania społecznościowego może podejmować tym okresie.
 
 4. W przypadku wygaśnięcia albo cofnięcia zezwolenia Komisja może, drodze decyzji, nakazać dostawcy usług finansowania społecznościowego albo podmiotowi, któremu cofnięto zezwolenie, przeniesienie na innego dostawcę usług finansowania społecznościowego praw i obowiązków wynikających z umów zawartych z właścicielami projektów oraz z inwestorami. Decyzja jest wydawana po uzyskaniu zgody przejmującego dostawcy usług finansowania społecznościowego oraz klientów dotychczasowego dostawcy.
 
@@ -255,7 +255,7 @@ Art. 43–72. (pominięte)
 
 2. Decyzje, których mowa art. 23–25, są natychmiast wykonalne. Uzasadnienie doręcza się terminie 14 dni od dnia doręczenia decyzji.
 
-3. Termin na złożenie wniosku ponowne rozpatrzenie sprawy biegnie od dnia doręczenia uzasadnienia decyzji, którym mowa ust. 2. mowa art. 23–25, komunikat jego wszczęciu zamieszcza się na stronie internetowej Komisji.
+3. Termin na złożenie wniosku ponowne rozpatrzenie sprawy biegnie od dnia doręczenia uzasadnienia decyzji, którym mowa ust. 2.
 
 5. Niezwłocznie po wydaniu decyzji zastosowaniu środków, których mowa art. 23–25, komunikat ich zastosowaniu zamieszcza się na stronie internetowej Komisji.
 
@@ -295,7 +295,7 @@ Art. 43–72. (pominięte)
 
 1. W przypadku gdy dostawca usług finansowania społecznościowego:
 
-- **1)** nie wykonuje obowiązków, których mowa art. 14 ust. 1, 2 i 3a, art. 15, art. 16 ust. 1 lub 2, art. 18 ust. 1 lub art. 22 ust. 3 lub 6, albo wykonuje je nienależycie, albo narusza zakazy, których mowa art. 23 pkt 2, art. 24 pkt 2 lub art. 25 ust. 2,
+- **1)** nie wykonuje obowiązków, których mowa art. 14 ust. 1, 2 i 3a, art. 15, art. 16 ust. 1 lub 2, art. 18 ust. 1 lub art. 22 ust. 3 lub 6, albo wykonuje je nienależycie,
 - **3)** nie wykonuje obowiązków, których mowa art. 3–5, art. 6 ust. 1–6, art. 7 ust. 1–4, art. 8 ust. 1–6, art. 9 ust. 1 lub 2, art. 10, art. 11, art. 15 ust. 3, art. 16 ust. 1, art. 18 ust. 1 lub 4, art. 19 ust. 1–6, art. 20 ust. 1 lub 2, art. 21 ust. 1–7, art. 22, art. 23 ust. 3 i 4, 8 lub 11–13, art. 24 ust. 2, 3, 6 lub 7, art. 25, art. 26 lub art. 27 ust. 1–3 rozporządzenia 2020/1503 Komisja może, drodze decyzji, nakazać dostawcy usług finansowania społecznościowego zaprzestanie działań skutkujących powstaniem naruszeń i niepodejmowanie tych działań przyszłości albo nałożyć na tego dostawcę karę pieniężną do wysokości nieprzekraczającej kwoty 2 250 000 zł albo kwoty stanowiącej równowartość nie więcej niż 5 % całkowitych rocznych przychodów dostawcy usług finansowania społecznościowego wykazanych ostatnim zbadanym sprawozdaniu finansowym za rok obrotowy, a przypadku braku takiego sprawozdania wysokości nie większej niż 5 % prognozowanych całkowitych rocznych przychodów tego dostawcy pierwszym roku działalności, jeżeli przekracza ona 2 250 000 zł, albo zastosować obie sankcje łącznie.
 
 2. W przypadku gdy dostawca usług finansowania społecznościowego jest jednostką dominującą, która sporządza skonsolidowane sprawozdanie finansowe, albo jednostką zależną od jednostki dominującej, która sporządza skonsolidowane sprawozdanie finansowe, całkowite roczne przychody, których mowa ust. 1, stanowi kwota całkowitych skonsolidowanych rocznych przychodów jednostki dominującej wykazana ostatnim zbadanym skonsolidowanym sprawozdaniu finansowym za rok obrotowy.
@@ -507,7 +507,7 @@ Art. 43–72. (pominięte)
     - **a)** przez każdorazowe dołączenie tej informacji do faktury lub innego dokumentu, z którego wynika zapłata należności za te towary, albo
     - **b)** oddzielnie, przypadku gdy faktura lub inny dokument, z którego wynika zapłata należności za te towary, zostaną wysłane po dniu 30 września 2022 r.
 
-2. Minister właściwy do spraw finansów publicznych udostępnia Biuletynie Informacji Publicznej na stronie podmiotowej obsługującego go urzędu wzory informacji, których mowa ust. 1. paliw silnikowych zamieszcza przy kasie rejestrującej lokalu przedsiębiorstwa, którym dokonywana jest sprzedaż tych paliw, czytelną informację, że od dnia 20 grudnia 2021 r. do dnia 31 października 2022 r. obowiązuje obniżony podatek akcyzowy na paliwa silnikowe oraz od dnia 1 stycznia 2022 r. do dnia 31 października 2022 r. sprzedaż detaliczna paliw silnikowych nie podlega opodatkowaniu podatkiem od sprzedaży detalicznej.
+2. Minister właściwy do spraw finansów publicznych udostępnia Biuletynie Informacji Publicznej na stronie podmiotowej obsługującego go urzędu wzory informacji, których mowa ust. 1. paliw, czytelną informację, że od dnia 20 grudnia 2021 r. do dnia 31 października 2022 r. obowiązuje obniżony podatek akcyzowy na paliwa silnikowe oraz od dnia 1 stycznia 2022 r. do dnia 31 października 2022 r. sprzedaż detaliczna paliw silnikowych nie podlega opodatkowaniu podatkiem od sprzedaży detalicznej.
 
 2. Rada Ministrów udostępnia Biuletynie Informacji Publicznej na stronie podmiotowej obsługującego ją urzędu wzór informacji, której mowa ust. 1.
 
@@ -536,7 +536,7 @@ Art. 43–72. (pominięte)
 - **1)** zamiennik albo zamienniki kluczowego wskaźnika referencyjnego,
 - **2)** korektę spreadu, której mowa art. 23b ust. 9 lit. b rozporządzenia 2016/1011, oraz metodę jej ustalania,
 - **3)** odpowiednie istotne zmiany dostosowawcze, których mowa art. 23b ust. 9 lit. c rozporządzenia 2016/1011,
-- **4)** datę albo daty rozpoczęcia stosowania danego zamiennika albo zamienników kluczowego wskaźnika referencyjnego biorąc pod uwagę wzrost ryzyka systemowego systemie finansowym, spowodowanego zaprzestaniem opracowywania kluczowego wskaźnika referencyjnego WIBOR lub jego likwidacją. oraz publicznego funduszu inwestycyjnego zamkniętego, zakresie zastąpienia wskaźnika referencyjnego WIBOR zamiennikiem albo zamiennikami kluczowego wskaźnika referencyjnego wyznaczonymi sposób określony art. 61c ustawy zmienianej art. 64 albo art. 85 ust. 2, nie wymaga uzyskania zezwolenia, którym mowa odpowiednio art. 24 ust. 1 albo 2 ustawy zmienianej art. 54 .
+- **4)** datę albo daty rozpoczęcia stosowania danego zamiennika albo zamienników kluczowego wskaźnika referencyjnego biorąc pod uwagę wzrost ryzyka systemowego systemie finansowym, spowodowanego zaprzestaniem opracowywania kluczowego wskaźnika referencyjnego WIBOR lub jego likwidacją. nikiem albo zamiennikami kluczowego wskaźnika referencyjnego wyznaczonymi sposób określony art. 61c ustawy zmienianej art. 64 albo art. 85 ust. 2, nie wymaga uzyskania zezwolenia, którym mowa odpowiednio art. 24 ust. 1 albo 2 ustawy zmienianej art. 54 .
 
 **Art. 87.** Do wniosków, których mowa art. 6 ustawy zmienianej art. 66 , brzmieniu dotychczasowym, złożonych przed dniem wejścia życie ustawy, stosuje się przepisy dotychczasowe.
 

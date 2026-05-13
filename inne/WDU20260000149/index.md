@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 10 lutego 2026 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy o zdrowiu publicznym
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 5 lutego 2026 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2026-02-11 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000149) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/149/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 5 lutego 2026 r.
-sprawie ogłoszenia jednolitego tekstu ustawy o zdrowiu publicznym
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 11 września 2015 r. o zdrowiu publicznym (Dz. U. z 2024 r. poz. 1670), z uwzględnieniem zmian wprowadzonych:
 1) ustawą z dnia 20 lutego 2025 r. o zmianie ustawy o podatku akcyzowym, ustawy o zdrowiu publicznym oraz niektórych innych ustaw (Dz. U. poz. 340),
 2) ustawą z dnia 17 października 2025 r. o zmianie ustawy o zdrowiu publicznym (Dz. U. poz. 1698) oraz zmian wynikających z przepisów ogłoszonych przed dniem 4 lutego 2026 r.
@@ -139,7 +139,7 @@ Art. 19–25. (pominięte)
 
 **Art. 8.**
 
-1. Członkom Rady oraz osobom, o których mowa art. 7 ust. 6 i 8, związku z wykonywanymi czynnościami przysługuje zwrot kosztów przejazdu wysokości i na warunkach określonych przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2025 r. poz. 277, 807, 1423 i 1661 oraz z 2026 r. poz. 25). Rady. W przypadku skorzystania przez pracownika ze zwolnienia od pracy pracodawca wydaje zaświadczenie określające wysokość utraconego wynagrodzenia za czas tego zwolnienia celu uzyskania przez pracownika od ministra właściwego do spraw zdrowia rekompensaty pieniężnej z tego tytułu wysokości przewidzianej zaświadczeniu, chyba że obowiązujące u danego pracodawcy przepisy prawa pracy przewidują zachowanie przez pracownika prawa do wynagrodzenia za czas zwolnienia.
+1. Członkom Rady oraz osobom, o których mowa art. 7 ust. 6 i 8, związku z wykonywanymi czynnościami przysługuje zwrot kosztów przejazdu wysokości i na warunkach określonych przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2025 r. poz. 277, 807, 1423 i 1661 oraz z 2026 r. poz. 25). wysokość utraconego wynagrodzenia za czas tego zwolnienia celu uzyskania przez pracownika od ministra właściwego do spraw zdrowia rekompensaty pieniężnej z tego tytułu wysokości przewidzianej zaświadczeniu, chyba że obowiązujące u danego pracodawcy przepisy prawa pracy przewidują zachowanie przez pracownika prawa do wynagrodzenia za czas zwolnienia.
 
 3. Zwrot kosztów przejazdu oraz rekompensata, o których mowa ust. 1 i 2, są finansowane z budżetu państwa z części pozostającej dyspozycji ministra właściwego do spraw zdrowia.
 
@@ -196,7 +196,7 @@ Art. 19–25. (pominięte)
 - **26)** opracowywanie analizy realizacji działań, które są podejmowane danym roku przez samorząd województwa oraz samorząd gminny ramach programu profilaktyki i rozwiązywania problemów alkoholowych oraz przeciwdziałania narkomanii;
 - **27)** wykonywanie innych zadań zleconych przez ministra właściwego do spraw zdrowia.
 
-3. Minister właściwy do spraw zdrowia nadaje, drodze zarządzenia, statut Centrum, który określa strukturę organizacyjną Centrum, mając na uwadze stworzenie optymalnych warunków do efektywnej realizacji zadań przez Centrum. Centrum otoku.
+3. Minister właściwy do spraw zdrowia nadaje, drodze zarządzenia, statut Centrum, który określa strukturę organizacyjną Centrum, mając na uwadze stworzenie optymalnych warunków do efektywnej realizacji zadań przez Centrum.
 
 **Art. 8d.**
 
@@ -241,7 +241,7 @@ Art. 19–25. (pominięte)
 
 5. Po upływie terminu składania dokumentów, który jest określony ogłoszeniu o naborze, niezwłocznie upowszechnia się listę kandydatów, którzy spełniają wymagania formalne określone ogłoszeniu o naborze, przez umieszczenie jej miejscu powszechnie dostępnym siedzibie Centrum, której jest prowadzony nabór, a także przez zamieszczenie jej Biuletynie Informacji Publicznej na stronie podmiotowej Centrum.
 
-6. Lista, o której mowa ust. 5, zawiera imię i nazwisko kandydata oraz określenie jego miejsca zamieszkania rozumieniu przepisów ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. z 2025 r. poz. 1071, 1172 i 1508). tokół oraz informację o wyniku naboru.
+6. Lista, o której mowa ust. 5, zawiera imię i nazwisko kandydata oraz określenie jego miejsca zamieszkania rozumieniu przepisów ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. z 2025 r. poz. 1071, 1172 i 1508).
 
 8. Protokół, o którym mowa ust. 7, zawiera:
 
@@ -327,7 +327,7 @@ Art. 19–25. (pominięte)
 
 2. Rada do spraw Przeciwdziałania Uzależnieniom wydaje opinie i przedstawia wnioski formie uchwał podejmowanych większością głosów.
 
-**Art. 8o.** W celu wykonywania zadań Rady do spraw Przeciwdziałania Uzależnieniom jej przewodniczący może powoływać zespoły robocze, których skład wchodzą członkowie tej rady lub inne osoby, szczególności specjaliści zajmujący się problematyką przeciwdziałania uzależnieniom. przysługuje wynagrodzenie. 2. Osobom wchodzącym skład Rady do spraw Przeciwdziałania Uzależnieniom przysługuje zwrot kosztów przejazdu wysokości i na warunkach określonych przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy. 3. Obsługę techniczno-organizacyjną Rady do spraw Przeciwdziałania Uzależnieniom zapewnia Centrum.
+**Art. 8o.** W celu wykonywania zadań Rady do spraw Przeciwdziałania Uzależnieniom jej przewodniczący może powoływać zespoły robocze, których skład wchodzą członkowie tej rady lub inne osoby, szczególności specjaliści zajmujący się problematyką przeciwdziałania uzależnieniom. 2. Osobom wchodzącym skład Rady do spraw Przeciwdziałania Uzależnieniom przysługuje zwrot kosztów przejazdu wysokości i na warunkach określonych przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy. 3. Obsługę techniczno-organizacyjną Rady do spraw Przeciwdziałania Uzależnieniom zapewnia Centrum.
 
 **Art. 8q.**
 
@@ -438,7 +438,7 @@ Art. 19–25. (pominięte)
 3. Przez sprzedaż detaliczną, o której mowa ust. 2, rozumie się dokonywanie na terytorium Rzeczypospolitej Polskiej, ramach działalności gospodarczej zbywcy, odpłatnego zbywania towarów konsumentom na podstawie umowy zawartej:
 
 - **1)** lokalu przedsiębiorstwa rozumieniu art. 2 pkt 3 ustawy z dnia 30 maja 2014 r. o prawach konsumenta (Dz. U. z 2024 r. poz. 1796 oraz z 2025 r. poz. 1172),
-- **2)** poza lokalem przedsiębiorstwa rozumieniu art. 2 pkt 2 ustawy z dnia 30 maja 2014 r. o prawach konsumenta także przypadku, gdy zbywaniu towaru towarzyszy świadczenie usługi odrębnie niezaewidencjonowanej. spożywczym, ujęty Polskiej Klasyfikacji Wyrobów i Usług klasach 10.32 i 10.89 oraz dziale 11, którego składzie znajduje się co najmniej jedna z substancji, o których mowa art. 12a ust. 1, z wyłączeniem substancji występujących nich naturalnie.
+- **2)** poza lokalem przedsiębiorstwa rozumieniu art. 2 pkt 2 ustawy z dnia 30 maja 2014 r. o prawach konsumenta także przypadku, gdy zbywaniu towaru towarzyszy świadczenie usługi odrębnie niezaewidencjonowanej. znajduje się co najmniej jedna z substancji, o których mowa art. 12a ust. 1, z wyłączeniem substancji występujących nich naturalnie.
 
 2. Opłacie nie podlega wprowadzenie na rynek krajowy napojów:
 
@@ -464,7 +464,7 @@ Art. 19–25. (pominięte)
 1. Obowiązek zapłaty opłaty ciąży na osobie fizycznej, osobie prawnej oraz jednostce organizacyjnej nieposiadającej osobowości prawnej będącej:
 
 - **1)** podmiotem sprzedającym napoje do punktów sprzedaży detalicznej albo prowadzącym sprzedaż detaliczną napojów przypadku: producenta, podmiotu nabywającego napoje ramach wewnątrzwspólnotowego nabycia towarów lub importera napoju;
-- **2)** zamawiającym, przypadku gdy skład napoju objętego opłatą stanowi element umowy zawartej przez producenta a dotyczącej produkcji tego napoju dla zamawiającego. zamawiającym, o którym mowa ust. 1 pkt 2.
+- **2)** zamawiającym, przypadku gdy skład napoju objętego opłatą stanowi element umowy zawartej przez producenta a dotyczącej produkcji tego napoju dla zamawiającego.
 
 3. Informację o zawarciu umowy, o której mowa ust. 1 pkt 2, producent zgłasza do organu właściwego sprawie opłaty na piśmie niepóźniej niż dniu powstania obowiązku zapłaty opłaty.
 
@@ -619,7 +619,7 @@ Art. 19–25. (pominięte)
 
 1. Powierzenie realizacji zadań z zakresu zdrowia publicznego przez odpowiedniego dysponenta środków, o których mowa art. 13, odbywa się trybie konkursu ofert ogłaszanego przez tego dysponenta.
 
-2. Dysponent środków, o których mowa art. 13, nie ogłasza konkursu ofert na realizację zadania, o którym mowa ust. 1, jeżeli NPZ określono podmiot właściwy do realizacji tego zadania oraz wskazano, że powierzenie jego realizacji następuje na wniosek tego podmiotu składany do odpowiedniego dysponenta środków. na podstawie umowy zawartej z realizatorem zadania.
+2. Dysponent środków, o których mowa art. 13, nie ogłasza konkursu ofert na realizację zadania, o którym mowa ust. 1, jeżeli NPZ określono podmiot właściwy do realizacji tego zadania oraz wskazano, że powierzenie jego realizacji następuje na wniosek tego podmiotu składany do odpowiedniego dysponenta środków.
 
 4. Do wyboru realizatorów zadań nie stosuje się przepisów o zamówieniach publicznych oraz przepisów o prowadzeniu działalności pożytku publicznego na podstawie zlecenia realizacji zadań publicznych, o których mowa rozdziale 2 działu II ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie.
 

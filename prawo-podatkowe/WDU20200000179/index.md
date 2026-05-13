@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 5 lutego 2020 r.
+# o zmianie ustawy o podatku dochodowym od osób fizycznych oraz ustawy o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne
+
+*USTAWA z dnia 9 stycznia 2020 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +25,6 @@ domain: null
 | Data wydania | 2020-02-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000179) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/179/text.pdf) |
-
-Poz. 179
-USTAWA z dnia 9 stycznia 2020 r.
-o zmianie ustawy o podatku dochodowym od osób fizycznych oraz ustawy o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne
 
 **Art. 1.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2019 r. poz. 1387, z późn. zm. ) w art. 45cd w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „Z dniem 15 lutego roku następującego po roku podatkowym organ podatkowy udostępnia podatnikowi, z wyjątkiem podatnika składającego zeznanie w związku z prowadzoną pozarolniczą działalnością gospodarczą lub działami specjalnymi produkcji rolnej oraz podatnika będącego przedsiębiorstwem w spadku, za pośrednictwem portalu podatkowego zeznania, o których mowa w art. 45 ust. 1 oraz ust. 1a pkt 1, uwzględniając w nich dane będące w posiadaniu Szefa Krajowej Administracji Skarbowej, w tym dane:”.
 

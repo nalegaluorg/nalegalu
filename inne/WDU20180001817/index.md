@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 25 września 2018 OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 14 września 2018 sprawie ogłoszenia jednolitego tekstu ustawy o ustroju miasta stołecznego Warszawy
+# 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 poz. 1523) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 15 marca 2002 o ustroju miasta stołecznego Warszawy (Dz. U. z 2015 poz. 1438), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 11 stycznia 2018 o zmianie niektórych ustaw celu zwiększenia udziału obywateli procesie wybierania, funkcjonowania i kontrolowania niektórych organów publicznych (Dz. U. poz. 130) oraz zmian wynikających z przepisów ogłoszonych przed dniem 12 września 2018
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 14 września 2018 sprawie ogłoszenia jednolitego tekstu ustawy o ustroju miasta stołecznego Warszawy*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001817) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1817/text.pdf) |
 
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 poz. 1523) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 15 marca 2002 o ustroju miasta stołecznego Warszawy (Dz. U. z 2015 poz. 1438), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 11 stycznia 2018 o zmianie niektórych ustaw celu zwiększenia udziału obywateli procesie wybierania, funkcjonowania i kontrolowania niektórych organów publicznych (Dz. U.
-poz. 130) oraz zmian wynikających z przepisów ogłoszonych przed dniem 12 września 2018
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 19 ustawy z dnia 11 stycznia 2018 o zmianie niektórych ustaw celu zwiększenia udziału obywateli procesie wybierania, funkcjonowania i kontrolowania niektórych organów publicznych (Dz. U. poz. 130), który stanowi: „Art. 19. Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 1) art. 5 pkt 5 zakresie § 2, 4, 9 i 11–14, pkt 7, 8, 12, pkt 68 lit. a tiret drugie zakresie pkt 3b i 3d, pkt 99, 109, 110, 129, 130, 134 i 135, które wchodzą życie z dniem 1 stycznia 2019 r.;
 2) art. 5 pkt 59 oraz pkt 60 lit. a, b i d, które wchodzą życie z pierwszym dniem kadencji Sejmu następującej po kadencji, czasie której niniejsza ustawa weszła życie.”.
@@ -134,7 +134,7 @@ USTAWA z dnia 15 marca 2002 o ustroju miasta stołecznego Warszawy
 - **4)** utrzymanie zieleni i dróg o charakterze lokalnym, zakresie określonym przez statut miasta i inne uchwały Rady m.st. Warszawy;
 - **5)** utrzymywanie i eksploatacja dzielnicowych obiektów administracyjnych;
 - **6)** sprawowanie nadzoru nad jednostkami niższego rzędu utworzonymi na jej obszarze;
-- **7)** podejmowanie we własnym zakresie działań na rzecz zaspokajania zbiorowych potrzeb wspólnoty mieszkańców dzielnicy. rządu oraz innych pracowników Urzędu m.st. Warszawy, wykonujących pracę danej dzielnicy, do załatwiania indywidualnych spraw z zakresu administracji publicznej trybie przepisów o postępowaniu administracyjnym i postępowaniu podatkowym, tym do wydawania decyzji.
+- **7)** podejmowanie we własnym zakresie działań na rzecz zaspokajania zbiorowych potrzeb wspólnoty mieszkańców dzielnicy. nych spraw z zakresu administracji publicznej trybie przepisów o postępowaniu administracyjnym i postępowaniu podatkowym, tym do wydawania decyzji.
 
 **Art. 12.**
 
@@ -250,7 +250,7 @@ USTAWA z dnia 15 marca 2002 o ustroju miasta stołecznego Warszawy
 
 3. Ustalone wpłaty gmin warszawskich i gminy Wesoła z przeznaczeniem na zwiększenie części podstawowej subwencji ogólnej, obliczone na podstawie art. 23 ust. 2 ustawy z dnia 26 listopada 1998 o dochodach jednostek samorządu terytorialnego latach 1999–2003 (Dz. U. poz. 983, z późn. zm. ) , stają się z dniem wejścia życie ustawy zobowiązaniami m.st. Warszawy.
 
-4. Miasto stołeczne Warszawa dokonuje wpłat, o których mowa ust. 3, zgodnie z art. 23 ust. 4 ustawy, o której mowa ust. 3. sumą kwot części subwencji ogólnej dla poszczególnych gmin warszawskich i gminy Wesoła a sumą kwot części subwencji ogólnej, przekazaną tym gminom do dnia wejścia życie ustawy.
+4. Miasto stołeczne Warszawa dokonuje wpłat, o których mowa ust. 3, zgodnie z art. 23 ust. 4 ustawy, o której mowa ust. 3. ogólnej, przekazaną tym gminom do dnia wejścia życie ustawy.
 
 6. Do końca 2002 dotacje celowe z budżetu państwa na zadania realizowane dotychczas przez gminy warszawskie i gminę Wesoła przekazywane są do budżetu m.st. Warszawy.
 

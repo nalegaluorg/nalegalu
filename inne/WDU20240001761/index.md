@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 2 grudnia 2024 r.
+# o zmianie ustawy o działalności pożytku publicznego i o wolontariacie oraz ustawy o kołach gospodyń wiejskich
+
+*USTAWA z dnia 8 listopada 2024 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +25,6 @@ domain: null
 | Data wydania | 2024-12-02 |
 | Ostatnia zmiana | 2024-12-09 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001761) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1761/text.pdf) |
-
-Poz. 1761
-USTAWA z dnia 8 listopada 2024 r.
-o zmianie ustawy o działalności pożytku publicznego i o wolontariacie oraz ustawy o kołach gospodyń wiejskich
 
 **Art. 1.** W ustawie z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2024 r. poz. 1491) w art. 10a:
 

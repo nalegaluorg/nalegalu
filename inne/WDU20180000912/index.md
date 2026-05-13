@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 16 maja 2018 r.
+# o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw
+
+*USTAWA z dnia 22 marca 2018 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,50 +26,47 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000912) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/912/text.pdf) |
 
-USTAWA z dnia 22 marca 2018 r.
-o zmianie ustawy o Słu ż bie Wi ę ziennej oraz niektórych innych ustaw
-
 **Art. 1.** W ustawie z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2017 r. poz. 631 i 1321 oraz z 2018 r. poz. 138 i 730) wprowadza się następujące zmiany:
 
 **Art. 39b.**
 
 1. Postępowanie kwalifikacyjne kandydata do służby Służbie Więziennej zarządza i prowadzi:
 
-- **1)** Dyrektor Generalny stosunku do kandydatów:
+- **1)** Dyrektor Generalny – stosunku do kandydatów:
     - **a)** do służby Centralnym Zarządzie Służby Więziennej,
-    - **b)** do służby Centralnym Ośrodku Szkolenia Służby Więziennej, ośrodku szkolenia Służby Więziennej lub ośrodku doskonalenia kadr Służby Więziennej,
     - **c)** ubiegających się o przyjęcie do służby Służbie Więziennej przed upływem 3 lat, licząc od dnia zwolnienia z tej służby, jeżeli podczas jej pełnienia uzyskali kwalifikacje zawodowe ramach form kształcenia wymienionych art. 43zk;
 
-- **2)** dyrektor okręgowy stosunku do kandydatów do służby okręgowym inspektoracie Służby Więziennej oraz jednostkach organizacyjnych funkcjonujących na terenie jego działania;
-- **3)** Rektor stosunku do kandydatów do służby na Uczelni.
+- **2)** dyrektor okręgowy – stosunku do kandydatów do służby okręgowym inspektoracie Służby Więziennej oraz jednostkach organizacyjnych funkcjonujących na terenie jego działania;
+- **3)** Rektor – stosunku do kandydatów do służby na Uczelni.
 
 2. Dyrektor Generalny może:
 
-- **1)** zarządzić przeprowadzenie postępowania kwalifikacyjnego przez Centralny Zarząd Służby Więziennej stosunku do kandydatów do wszystkich jednostek organizacyjnych, z wyj ą tkiem Uczelni;
-- **2)** zarz ą dzi ć przeprowadzenie post ę powania kwalifikacyjnego przez wyznaczonego dyrektora okr ę gowego dla kandydatów do jednostek podległych innym dyrektorom okr ę gowym.
+- **1)** zarządzić przeprowadzenie postępowania kwalifikacyjnego przez Centralny Zarząd Służby Więziennej stosunku do kandydatów do wszystkich jednostek organizacyjnych, z wyjątkiem Uczelni;
+- **2)** zarządzić przeprowadzenie postępowania kwalifikacyjnego przez wyznaczonego dyrektora okręgowego dla kandydatów do jednostek podległych innym dyrektorom okręgowym.
 
-3. Podmiot wła ś ciwy sprawie przeprowadzenia post ę powania kwalifikacyjnego zarz ą dza post ę powanie kwalifikacyjne i udost ę pnia odpowiednio na stronie internetowej Słu ż by Wi ę ziennej i Biuletynie Informacji Publicznej Centralnego Zarz ą du Słu ż by Wi ę ziennej, okr ę gowego inspektoratu Słu ż by Wi ę ziennej, Uczelni, Centralnego O ś rodka Szkolenia Słu ż by Wi ę ziennej, o ś rodka szkolenia Słu ż by Wi ę ziennej i o ś rodka doskonalenia kadr Słu ż by Wi ę ziennej, a tak ż e zakładach karnych i aresztach ś ledczych oraz siedzibach tych jednostek i wojewódzkich oraz powiatowych urz ę dach pracy ogłoszenie o przyjmowaniu do słu ż by jednostkach organizacyjnych obj ę tych post ę powaniem kwalifikacyjnym.
+3. Podmiot właściwy sprawie przeprowadzenia postępowania kwalifikacyjnego zarządza postępowanie kwalifikacyjne i udostępnia odpowiednio na stronie internetowej Służby Więziennej i Biuletynie Informacji Publicznej Centralnego Zarządu Służby Więziennej, okręgowego inspektoratu Służby Więziennej, Uczelni, Centralnego Ośrodka Szkolenia Służby Więziennej, ośrodka szkolenia Służby Więziennej i ośrodka doskonalenia kadr Służby Więziennej, a także zakładach karnych i aresztach śledczych oraz siedzibach tych jednostek i wojewódzkich oraz powiatowych urzędach pracy ogłoszenie o przyjmowaniu do służby jednostkach organizacyjnych objętych postępowaniem kwalifikacyjnym.
 
-4. Post ę powanie kwalifikacyjne zarz ą dza si ę z uwzgl ę dnieniem terminów wskazanych ogłoszeniu, o którym mowa art. 39 ust. 3, a przypadku post ę powania kwalifikacyjnego prowadzonego przez Rektora z uwzgl ę dnieniem potrzeb Uczelni.
+4. Postępowanie kwalifikacyjne zarządza się z uwzględnieniem terminów wskazanych ogłoszeniu, o którym mowa art. 39 ust. 3, a przypadku postępowania kwalifikacyjnego prowadzonego przez Rektora – z uwzględnieniem potrzeb Uczelni.
 
 **Art. 39c.**
 
-1. Kandydat do słu ż by Słu ż bie Wi ę ziennej składa nast ę puj ą ce dokumenty:
+1. Kandydat do służby Służbie Więziennej składa następujące dokumenty:
 
-- **1)** podanie o przyj ę cie do słu ż by ze wskazaniem działu Słu ż by Wi ę ziennej i stanowiska słu ż bowego, o które si ę ubiega;
-- **2)** wypełnion ą ankiet ę personaln ą ;
-- **3)** ś wiadectwa pracy lub słu ż by;
-- **4)** dokumenty potwierdzaj ą ce posiadane wykształcenie, kwalifikacje zawodowe i specjalistyczne;
-- **5)** wypełnion ą ankiet ę bezpiecze ń stwa osobowego lub odpowiednie po ś wiadczenie bezpiecze ń stwa rozumieniu przepisów o ochronie informacji niejawnych, je ż eli stanowisko słu ż bowe, o które ubiega si ę kandydat, jest zwi ą zane z dost ę pem do informacji niejawnych o klauzuli „poufne” lub wy ż szej;
-- **6)** o ś wiadczenie kandydata o zdolno ś ci do przyst ą pienia do testu sprawno ś ci fizycznej.
+- **1)** podanie o przyjęcie do służby ze wskazaniem działu Służby Więziennej i stanowiska służbowego, o które się ubiega;
+- **2)** wypełnioną ankietę personalną;
+- **3)** świadectwa pracy lub służby;
+- **4)** dokumenty potwierdzające posiadane wykształcenie, kwalifikacje zawodowe i specjalistyczne;
+- **5)** wypełnioną ankietę bezpieczeństwa osobowego lub odpowiednie poświadczenie bezpieczeństwa rozumieniu przepisów o ochronie informacji niejawnych, jeżeli stanowisko służbowe, o które ubiega się kandydat, jest związane z dostępem do informacji niejawnych o klauzuli „poufne” lub wyższej;
+- **6)** oświadczenie kandydata o zdolności do przystąpienia do testu sprawności fizycznej.
 
-2. Post ę powanie kwalifikacyjne składa si ę z:
+2. Postępowanie kwalifikacyjne składa się z:
 
-- **1)** etapu wst ę pnego obejmuj ą cego:
-    - **a)** ocen ę zło ż onych dokumentów i wst ę pn ą kwalifikacj ę kandydatów z podziałem na działy Słu ż by Wi ę ziennej i stanowiska słu ż bowe,
-    - **b)** przeprowadzenie rozmowy kwalifikacyjnej, trakcie której ocenie podlegaj ą kompetencje personalne i społeczne kandydata,
-    - **c)** przeprowadzenie testu wiedzy zakresie funkcjonowania władzy publicznej oraz bezpiecze ń stwa pa ń stwa i porz ą dku publicznego,
-    - **d)** uzyskanie informacji o kandydacie z Krajowego Rejestru Karnego, czych wydanych na podstawie art. 110 ust. 2,
+- **1)** etapu wstępnego obejmującego:
+    - **a)** ocenę złożonych dokumentów i wstępną kwalifikację kandydatów z podziałem na działy Służby Więziennej i stanowiska służbowe,
+    - **b)** przeprowadzenie rozmowy kwalifikacyjnej, trakcie której ocenie podlegają kompetencje personalne i społeczne kandydata,
+    - **c)** przeprowadzenie testu wiedzy zakresie funkcjonowania władzy publicznej oraz bezpieczeństwa państwa i porządku publicznego,
+    - **d)** uzyskanie informacji o kandydacie z Krajowego Rejestru Karnego,
+    - **e)** przeprowadzenie testu sprawności fizycznej kandydata zakresie określonym przepisach wykonawczych wydanych na podstawie art. 110 ust. 2,
     - **f)** sporządzenie arkusza oceny kandydata,
     - **g)** wyłonienie kandydatów dopuszczonych do kolejnych etapów postępowania kwalifikacyjnego;
 
@@ -75,61 +74,63 @@ o zmianie ustawy o Słu ż bie Wi ę ziennej oraz niektórych innych ustaw
     - **a)** przeprowadzenie postępowania sprawdzającego rozumieniu przepisów o ochronie informacji niejawnych, jeżeli kandydat ubiega się o stanowisko służbowe, które jest związane z dostępem do informacji niejawnych o klauzuli „poufne” lub wyższej, i nie ma odpowiedniego poświadczenia bezpieczeństwa,
     - **b)** ustalenie zdolności fizycznej i psychicznej do służby Służbie Więziennej przez komisje lekarskie, o których mowa art. 110 ust. 1;
 
-- **3)** etapu końcowego obejmującego utworzenie rankingu kandydatów, którzy pozytywnie ukończyli etap wstępny i sprawdzający, przez podmiot właściwy sprawie przeprowadzenia postępowania kwalifikacyjnego.
-
 **Art. 39d.** Podmiot właściwy sprawie przeprowadzenia postępowania kwalifikacyjnego odmawia poddania kandydata postępowaniu kwalifikacyjnemu albo odstępuje od jego prowadzenia przypadku:
 
 **Art. 39e.**
 
-1. Ranking kandydatów, o którym mowa art. 39c ust. 2 pkt 3, zawiera imiona i nazwiska kandydatów wraz z ocen ą kandydata uzyskan ą post ę powaniu kwalifikacyjnym i liczb ą porz ą dkow ą wskazuj ą c ą na jego miejsce rankingu, podane z podziałem na działy Słu ż by Wi ę ziennej i stanowiska słu ż bowe. Ranking kandydatów komisja ogłasza na stronie internetowej podmiotu przeprowadzaj ą cego post ę powanie kwalifikacyjne sposób zapewniaj ą cy anonimizacj ę danych kandydatów.
+1. Ranking kandydatów, o którym mowa art. 39c ust. 2 pkt 3, zawiera imiona i nazwiska kandydatów wraz z oceną kandydata uzyskaną postępowaniu kwalifikacyjnym i liczbą porządkową wskazującą na jego miejsce rankingu, podane z podziałem na działy Służby Więziennej i stanowiska służbowe. Ranking kandydatów komisja ogłasza na stronie internetowej podmiotu przeprowadzającego postępowanie kwalifikacyjne sposób zapewniający anonimizację danych kandydatów.
 
-2. Na ocen ę kandydata z etapów post ę powania kwalifikacyjnego, o których mowa art. 39c ust. 2 pkt 1 i 2, składa si ę suma punktów uzyskanych:
+2. Na ocenę kandydata z etapów postępowania kwalifikacyjnego, o których mowa art. 39c ust. 2 pkt 1 i 2, składa się suma punktów uzyskanych:
 
-- **1)** z testu sprawno ś ci fizycznej;
-- **2)** z arkusza oceny kandydata sporz ą dzonego na podstawie rozmowy kwalifikacyjnej i testu wiedzy;
-- **3)** z oceny kwalifikacji kandydata potwierdzonych zło ż onymi przez niego dokumentami;
-- **4)** zwi ą zku z uko ń czeniem przez kandydata: poz. 2198, 2203 i 2361), uwzgl ę dniaj ą ce cele kształcenia i tre ś ci nauczania zwi ą zane ze słu ż b ą , szczególno ś ci Siłach Zbrojnych Rzeczypospolitej Polskiej, Policji, Słu ż bie Wi ę ziennej, Stra ż y Granicznej, Pa ń stwowej Stra ż y Po ż arnej, lub
-    - **a)** szkoły ponadgimnazjalnej lub ponadpodstawowej umo ż liwiaj ą cej mu uzyskanie ś wiadectwa dojrzało ś ci po zdaniu przez niego egzaminu maturalnego, której ten kandydat zrealizował programy nauczania, o których mowa art. 3 pkt 13b lub 13c ustawy z dnia 7 wrze ś nia 1991 r. o systemie o ś wiaty (Dz. U. z 2017 r.
+- **1)** z testu sprawności fizycznej;
+- **2)** z arkusza oceny kandydata sporządzonego na podstawie rozmowy kwalifikacyjnej i testu wiedzy;
+- **3)** z oceny kwalifikacji kandydata potwierdzonych złożonymi przez niego dokumentami;
+- **4)** związku z ukończeniem przez kandydata: poz. 2198, 2203 i 2361), uwzględniające cele kształcenia i treści nauczania związane ze służbą, szczególności Siłach Zbrojnych Rzeczypospolitej Polskiej, Policji, Służbie Więziennej, Straży Granicznej, Państwowej Straży Pożarnej, lub
+    - **a)** szkoły ponadgimnazjalnej lub ponadpodstawowej umożliwiającej mu uzyskanie świadectwa dojrzałości po zdaniu przez niego egzaminu maturalnego, której ten kandydat zrealizował programy nauczania, o których mowa art. 3 pkt 13b lub 13c ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2017 r.
     - **b)** uczelni wojskowej, lub
-    - **c)** uczelni słu ż b pa ń stwowych.
+    - **c)** uczelni służb państwowych.
 
-3. O miejscu rankingu decyduje ocena kandydata, o której mowa ust. 2. Je ż eli dwóch lub wi ę cej kandydatów uzyska tak ą sam ą liczb ę punktów, wszystkich tych kandydatów umieszcza si ę na jednym miejscu rankingu.
+3. O miejscu rankingu decyduje ocena kandydata, o której mowa ust. 2. Jeżeli dwóch lub więcej kandydatów uzyska taką samą liczbę punktów, wszystkich tych kandydatów umieszcza się na jednym miejscu rankingu.
 
 **Art. 39f.**
 
-1. Kandydatom przysługuje wybór jednostki organizacyjnej, której istnieje wakat na stanowisku zgodnym z kwalifikacjami danego kandydata i potrzebami Słu ż by Wi ę ziennej, według kolejno ś ci miejsca zajmowanego rankingu.
+1. Kandydatom przysługuje wybór jednostki organizacyjnej, której istnieje wakat na stanowisku zgodnym z kwalifikacjami danego kandydata i potrzebami Służby Więziennej, według kolejności miejsca zajmowanego rankingu.
 
-2. W przypadkach uzasadnionych szczególnymi kwalifikacjami kandydata i potrzebami Słu ż by Wi ę ziennej Dyrektor Generalny albo, za jego zgod ą , inny podmiot wła ś ciwy sprawie przeprowadzenia post ę powania kwalifikacyjnego może wyznaczyć kandydatowi, za jego zgodą, miejsce pełnienia służby, z wyłączeniem kolejności miejsca zajmowanego rankingu.
+2. W przypadkach uzasadnionych szczególnymi kwalifikacjami kandydata i potrzebami Służby Więziennej Dyrektor Generalny albo, za jego zgodą, inny podmiot właściwy sprawie przeprowadzenia postępowania kwalifikacyjnego może wyznaczyć kandydatowi, za jego zgodą, miejsce pełnienia służby, z wyłączeniem kolejności miejsca zajmowanego rankingu.
 
-**Art. 39g.** Dyrektor Generalny mo ż e wyrazi ć zgod ę na przyj ę cie do Słu ż by Wi ę ziennej pierwszej kolejno ś ci pracownika zatrudnionego co najmniej 2 lata Słu ż bie Wi ę ziennej, je ż eli okresie zatrudnienia pracownik ten wykazał si ę odpowiednimi kwalifikacjami i kompetencjami szczególnie przydatnymi Słu ż bie Wi ę ziennej. Przepisów art. 39c ust. 2 pkt 1 lit. a–c i f oraz pkt 3 nie stosuje si ę .
+**Art. 39g.** Dyrektor Generalny może wyrazić zgodę na przyjęcie do Służby Więziennej pierwszej kolejności pracownika zatrudnionego co najmniej 2 lata Służbie Więziennej, jeżeli okresie zatrudnienia pracownik ten wykazał się odpowiednimi kwalifikacjami i kompetencjami szczególnie przydatnymi Służbie Więziennej. Przepisów art. 39c ust. 2 pkt 1 lit. a–c i f oraz pkt 3 nie stosuje się.
+
+**Art. 39h.** Minister Sprawiedliwości określi, drodze rozporządzenia:
 
 **Art. 43a.** Kształcenie funkcjonariuszy i pracowników obejmuje:
 
 **Art. 43b.**
 
-1. Organizacja i sposób prowadzenia szkole ń wst ę pnego, zawodowego i specjalistycznego oraz doskonalenia zawodowego powinny uwzgl ę dnia ć :
+1. Organizacja i sposób prowadzenia szkoleń wstępnego, zawodowego i specjalistycznego oraz doskonalenia zawodowego powinny uwzględniać:
 
-- **1)** wskazania nauki i do ś wiadcze ń pedagogicznych, szczególno ś ci dydaktyki osób dorosłych;
-- **2)** wyniki ewaluacji prowadzonej ramach nadzoru nad realizacj ą szkole ń wst ę pnego, zawodowego i specjalistycznego oraz doskonalenia zawodowego.
+- **1)** wskazania nauki i doświadczeń pedagogicznych, szczególności dydaktyki osób dorosłych;
+- **2)** wyniki ewaluacji prowadzonej ramach nadzoru nad realizacją szkoleń wstępnego, zawodowego i specjalistycznego oraz doskonalenia zawodowego.
 
-2. Kolejne etapy szkole ń wst ę pnego, zawodowego i specjalistycznego oraz doskonalenia zawodowego opracowuje si ę i realizuje taki sposób, aby były elementami procesu kształcenia ustawicznego i sprzyjały tworzeniu zintegrowanego systemu wiedzy i umiej ę tno ś ci zawodowych.
+2. Kolejne etapy szkoleń wstępnego, zawodowego i specjalistycznego oraz doskonalenia zawodowego opracowuje się i realizuje taki sposób, aby były elementami procesu kształcenia ustawicznego i sprzyjały tworzeniu zintegrowanego systemu wiedzy i umiejętności zawodowych.
 
-3. W szkoleniach wst ę pnym, zawodowym i specjalistycznym oraz doskonaleniu zawodowym uwzgl ę dnia si ę zdalne nauczanie i dost ę p do tej formy nauczania funkcjonariuszy i pracowników zarówno godzinach pełnienia słu ż by lub wykonywania pracy, jak i czasie wolnym od słu ż by lub pracy.
+3. W szkoleniach wstępnym, zawodowym i specjalistycznym oraz doskonaleniu zawodowym uwzględnia się zdalne nauczanie i dostęp do tej formy nauczania funkcjonariuszy i pracowników zarówno godzinach pełnienia służby lub wykonywania pracy, jak i czasie wolnym od służby lub pracy.
 
 **Art. 43c.**
 
-1. Podstaw ę realizacji szkole ń wst ę pnego, zawodowego i specjalistycznego funkcjonariuszy i pracowników stanowi ą programy szkole ń .
+1. Podstawę realizacji szkoleń wstępnego, zawodowego i specjalistycznego funkcjonariuszy i pracowników stanowią programy szkoleń.
 
-2. Uczestnictwo funkcjonariuszy i pracowników zaj ę ciach obj ę tych programem szkolenia jest obowi ą zkowe.
+2. Uczestnictwo funkcjonariuszy i pracowników zajęciach objętych programem szkolenia jest obowiązkowe.
 
-3. Dyrektor Generalny okre ś li, drodze zarz ą dzenia, programy szkole ń wst ę pnego, zawodowego i specjalistycznego Słu ż bie Wi ę ziennej dla funkcjonariuszy i pracowników, tym zakres tematyczny i metodyk ę oraz efekty kształcenia, które maj ą by ć osi ą gane blokach i modułach tematycznych, a tak ż e odniesieniu do tych szkole ń :
+3. Dyrektor Generalny określi, drodze zarządzenia, programy szkoleń wstępnego, zawodowego i specjalistycznego Służbie Więziennej dla funkcjonariuszy i pracowników, tym zakres tematyczny i metodykę oraz efekty kształcenia, które mają być osiągane blokach i modułach tematycznych, a także odniesieniu do tych szkoleń:
 
-- **1)** organizacj ę procesu kształcenia, tym czas jego trwania i formy;
-- **2)** sposób uzyskiwania zalicze ń i zdawania egzaminów;
+- **1)** organizację procesu kształcenia, tym czas jego trwania i formy;
+- **2)** sposób uzyskiwania zaliczeń i zdawania egzaminów;
 - **3)** skalę ocen z zaliczeń i egzaminów;
 - **4)** stanowiska pracowników podlegających tym szkoleniom, z uwzględnieniem formy i wymiaru zatrudnienia.
 
-4. W programach szkolenia pracowników nie uwzgl ę dnia si ę zagadnie ń dotycz ą cych szkolenia strzeleckiego, musztry i technik działa ń interwencyjnych, z wył ą czeniem technik i zagadnie ń dotycz ą cych samoobrony. szkolenia zawodowego i specjalistycznego na uwadze umieszczenia zaświadczeniach i świadectwach rodzaju, zakresu i czasu trwania szkolenia.
+4. W programach szkolenia pracowników nie uwzględnia się zagadnień dotyczących szkolenia strzeleckiego, musztry i technik działań interwencyjnych, z wyłączeniem technik i zagadnień dotyczących samoobrony.
+
+5. Minister Sprawiedliwości określi, drodze rozporządzenia, wzory zaświadczeń i świadectw ukończenia szkolenia wstępnego, zawodowego i specjalistycznego Służbie Więziennej, mając na uwadze potrzebę umieszczenia zaświadczeniach i świadectwach rodzaju, zakresu i czasu trwania szkolenia.
 
 **Art. 43d.** W szkoleniach wstępnym, zawodowym i specjalistycznym oraz doskonaleniu zawodowym obowiązuje zasada doboru metod i środków dydaktycznych odpowiednich dla cech słuchaczy, szczególności adekwatnych do rodzaju i poziomu ich wykształcenia, zdolności i umiejętności, a także specyfiki zadań służbowych, jakie będą realizowali na poszczególnych stanowiskach.
 
@@ -139,37 +140,39 @@ o zmianie ustawy o Słu ż bie Wi ę ziennej oraz niektórych innych ustaw
 
 1. Funkcjonariusz i pracownik niezwłocznie po przyjęciu do służby albo pracy odbywają szkolenie wstępne, na które składa się wstępna adaptacja zawodowa, kurs przygotowawczy oraz praktyka zawodowa.
 
-2. Szkolenie wst ę pne ma na celu umo ż liwienie zdobycia przez funkcjonariusza i pracownika wiedzy i umiej ę tno ś ci praktycznych niezb ę dnych do wykonywania zada ń słu ż bowych na zajmowanym stanowisku słu ż bowym albo stanowisku pracy oraz sprzyjanie jego adaptacji zawodowej.
+2. Szkolenie wstępne ma na celu umożliwienie zdobycia przez funkcjonariusza i pracownika wiedzy i umiejętności praktycznych niezbędnych do wykonywania zadań służbowych na zajmowanym stanowisku służbowym albo stanowisku pracy oraz sprzyjanie jego adaptacji zawodowej.
 
-3. Szkolenie wst ę pne powinno zako ń czy ć si ę przed upływem 11 miesi ę cy od dnia przyj ę cia do słu ż by albo pracy.
+3. Szkolenie wstępne powinno zakończyć się przed upływem 11 miesięcy od dnia przyjęcia do służby albo pracy.
 
-**Art. 43g.** Szkolenie wst ę pne odbywa si ę trzech etapach, z których:
+**Art. 43g.** Szkolenie wstępne odbywa się trzech etapach, z których:
 
 **Art. 43h.**
 
-1. W ramach wst ę pnej adaptacji zawodowej oraz praktyki zawodowej funkcjonariusz lub pracownik pozostaje pod opiek ą bezpo ś redniego przeło ż onego oraz funkcjonariusza lub pracownika wyznaczonych do pełnienia funkcji mentora, którzy s ą opiekunami funkcjonariusza lub pracownika trakcie szkolenia.
+1. W ramach wstępnej adaptacji zawodowej oraz praktyki zawodowej funkcjonariusz lub pracownik pozostaje pod opieką bezpośredniego przełożonego oraz funkcjonariusza lub pracownika wyznaczonych do pełnienia funkcji mentora, którzy są opiekunami funkcjonariusza lub pracownika trakcie szkolenia.
 
-2. Dyrektor Generalny okre ś li, drodze zarz ą dzenia, tryb i sposób wyznaczania mentorów oraz organizacj ę ich pracy.
+2. Dyrektor Generalny określi, drodze zarządzenia, tryb i sposób wyznaczania mentorów oraz organizację ich pracy.
 
 **Art. 43i.**
 
-1. Kurs przygotowawczy ko ń czy si ę egzaminem, który obejmuje sprawdzenie stopnia przyswojenia wiedzy i opanowania umiej ę tno ś ci okre ś lonych programie kursu przygotowawczego.
+1. Kurs przygotowawczy kończy się egzaminem, który obejmuje sprawdzenie stopnia przyswojenia wiedzy i opanowania umiejętności określonych programie kursu przygotowawczego.
 
-2. Egzamin przeprowadza komisja egzaminacyjna powołana przez Rektora lub Komendanta Centralnego O ś rodka Szkolenia Słu ż by Wi ę ziennej, komendanta o ś rodka szkolenia Słu ż by Wi ę ziennej albo komendanta o ś rodka doskonalenia kadr Słu ż by Wi ę ziennej.
+2. Egzamin przeprowadza komisja egzaminacyjna powołana przez Rektora lub Komendanta Centralnego Ośrodka Szkolenia Służby Więziennej, komendanta ośrodka szkolenia Służby Więziennej albo komendanta ośrodka doskonalenia kadr Służby Więziennej.
 
-3. Z egzaminu sporz ą dza si ę protokół, który podpisuj ą członkowie komisji egzaminacyjnej i zatwierdza Rektor albo wła ś ciwy komendant.
+3. Z egzaminu sporządza się protokół, który podpisują członkowie komisji egzaminacyjnej i zatwierdza Rektor albo właściwy komendant.
 
-4. Funkcjonariusz lub pracownik, który uzyskał negatywny wynik egzaminu, ma prawo przyst ą pi ć do jednego egzaminu poprawkowego terminie wyznaczonym przez Rektora albo wła ś ciwego komendanta.
+4. Funkcjonariusz lub pracownik, który uzyskał negatywny wynik egzaminu, ma prawo przystąpić do jednego egzaminu poprawkowego terminie wyznaczonym przez Rektora albo właściwego komendanta.
 
-5. W przypadku uzyskania przez funkcjonariusza negatywnego wyniku egzaminu poprawkowego albo nieprzyst ą pienia lub niedopuszczenia do tego egzaminu wydaje si ę opini ę słu ż bow ą zawieraj ą c ą ocen ę przydatno ś ci tego funkcjonariusza do słu ż by.
+5. W przypadku uzyskania przez funkcjonariusza negatywnego wyniku egzaminu poprawkowego albo nieprzystąpienia lub niedopuszczenia do tego egzaminu wydaje się opinię służbową zawierającą ocenę przydatności tego funkcjonariusza do służby.
 
 **Art. 43j.**
 
 1. Szkolenie wstępne kończy się egzaminem, który obejmuje sprawdzenie wiedzy i umiejętności określonych programie szkolenia wstępnego, oraz oceną przydatności do służby lub pracy.
 
-2. Dyrektor Generalny wyznacza jednostki organizacyjne, których przeprowadza si ę egzamin.
+2. Dyrektor Generalny wyznacza jednostki organizacyjne, których przeprowadza się egzamin.
 
-3. Egzamin przeprowadza komisja egzaminacyjna powołana przez Dyrektora Generalnego. Przepisy art. 43i ust. 3–5 stosuje si ę odpowiednio. nia go ze podczas jej pełnienia szkolenie nie kieruje na takie szkolenie.
+3. Egzamin przeprowadza komisja egzaminacyjna powołana przez Dyrektora Generalnego. Przepisy art. 43i ust. 3–5 stosuje się odpowiednio.
+
+**Art. 43k.** Funkcjonariusza ponownie przyjętego do służby przed upływem 18 miesięcy, licząc od dnia zwolnienia go ze służby, jeżeli podczas jej pełnienia ukończył szkolenie wstępne, nie kieruje się na takie szkolenie.
 
 **Art. 43l.**
 
@@ -181,24 +184,26 @@ o zmianie ustawy o Słu ż bie Wi ę ziennej oraz niektórych innych ustaw
 
 **Art. 43m.** Potwierdzeniem ukończenia szkolenia wstępnego jest:
 
-**Art. 43n.** Nadzór nad przebiegiem szkolenia wst ę pnego okresie wst ę pnej adaptacji zawodowej i praktyki zawodowej sprawuje kierownik jednostki, a okresie kursu przygotowawczego Rektor, wła ś ciwy komendant lub kierownik jednostki, a tak ż e wy ż szy przeło ż ony ramach sprawowanego nadzoru.
+**Art. 43n.** Nadzór nad przebiegiem szkolenia wstępnego okresie wstępnej adaptacji zawodowej i praktyki zawodowej sprawuje kierownik jednostki, a okresie kursu przygotowawczego – Rektor, właściwy komendant lub kierownik jednostki, a także wyższy przełożony ramach sprawowanego nadzoru.
 
 **Art. 43o.**
 
-1. Funkcjonariusz lub pracownik mo ż e rozpocz ąć szkolenie zawodowe po uko ń czeniu szkolenia wst ę pnego.
+1. Funkcjonariusz lub pracownik może rozpocząć szkolenie zawodowe po ukończeniu szkolenia wstępnego.
 
-2. Szkolenie zawodowe stanowi kontynuacj ę oraz rozszerzenie tre ś ci programowych szkolenia wst ę pnego i słu ż y pogł ę bieniu wiedzy oraz umiej ę tno ś ci zawodowych funkcjonariusza koniecznych do nale ż ytego wykonywania zada ń słu ż bowych korpusie podoficerów, chor ąż ych i oficerów lub wiedzy oraz umiej ę tno ś ci zawodowych pracownika na zajmowanym stanowisku.
+2. Szkolenie zawodowe stanowi kontynuację oraz rozszerzenie treści programowych szkolenia wstępnego i służy pogłębieniu wiedzy oraz umiejętności zawodowych funkcjonariusza koniecznych do należytego wykonywania zadań służbowych korpusie podoficerów, chorążych i oficerów lub wiedzy oraz umiejętności zawodowych pracownika na zajmowanym stanowisku.
 
-3. Program szkolenia zawodowego składa si ę z cz ęś ci:
+3. Program szkolenia zawodowego składa się z części:
 
-- **1)** wspólnej dla wszystkich uczestników szkolenia (cz ęść unitarna);
-- **2)** dotycz ą cej zakresu działu Słu ż by Wi ę ziennej wła ś ciwego dla funkcjonariusza albo pracownika (cz ęść specjalistyczna).
+- **1)** wspólnej dla wszystkich uczestników szkolenia (część unitarna);
+- **2)** dotyczącej zakresu działu Służby Więziennej właściwego dla funkcjonariusza albo pracownika (część specjalistyczna).
 
 **Art. 43p.** Celem szkolenia zawodowego jest:
 
-**Art. 43q.** W szkoleniu zawodowym realizuje si ę zaj ę cia teoretyczne oraz praktyczne.
+**Art. 43q.** W szkoleniu zawodowym realizuje się zajęcia teoretyczne oraz praktyczne.
 
-**Art. 43r.** W szkoleniu zawodowym uwzgl ę dnia si ę dorobek polskiej penitencjarystyki oraz osi ą gni ę cia i standardy mi ę dzynarodowe zakresie obejmuj ą cym szczególno ś ci:
+**Art. 43r.** W szkoleniu zawodowym uwzględnia się dorobek polskiej penitencjarystyki oraz osiągnięcia i standardy międzynarodowe zakresie obejmującym szczególności:
+
+**Art. 43s.** Szkolenie zawodowe prowadzi się na Uczelni, Centralnym Ośrodku Szkolenia Służby Więziennej, ośrodku szkolenia Służby Więziennej lub ośrodku doskonalenia kadr Służby Więziennej.
 
 **Art. 43t.**
 
@@ -217,43 +222,43 @@ o zmianie ustawy o Słu ż bie Wi ę ziennej oraz niektórych innych ustaw
 
 2. Dyrektor okręgowy, Rektor i właściwy komendant zgłaszają potrzeby szkoleniowe komendantowi wyznaczonemu przez Dyrektora Generalnego, który prowadzi nabór kandydatów na szkolenie zawodowe elektronicznym systemie obsługi szkolenia.
 
-3. Dyrektor Generalny na wniosek Rektora lub właściwego komendanta może dokonywać zmian ustalonych limitów miejsc i terminów szkolenia zawodowego.
-
 **Art. 43v.**
 
-1. Postępowanie rekrutacyjne na szkolenie zawodowe, zwane dalej „postępowaniem rekrutacyjnym”, prowadzi komisja rekrutacyjna powołana przez Rektora lub komendanta prowadz ą cego nabór na szkolenie zawodowe.
+1. Postępowanie rekrutacyjne na szkolenie zawodowe, zwane dalej „postępowaniem rekrutacyjnym”, prowadzi komisja rekrutacyjna powołana przez Rektora lub komendanta prowadzącego nabór na szkolenie zawodowe.
 
-2. Post ę powanie rekrutacyjne obejmuje ocen ę kandydatów zgłoszonych przez kierowników jednostek elektronicznym systemie obsługi szkolenia zgodnie z ustalonymi kryteriami naboru na szkolenie zawodowe.
+2. Postępowanie rekrutacyjne obejmuje ocenę kandydatów zgłoszonych przez kierowników jednostek elektronicznym systemie obsługi szkolenia zgodnie z ustalonymi kryteriami naboru na szkolenie zawodowe.
 
-3. Dyrektor Generalny mo ż e zarz ą dzi ć przeprowadzenie testu wiedzy kwalifikuj ą cego do szkolenia zawodowego.
+3. Dyrektor Generalny może zarządzić przeprowadzenie testu wiedzy kwalifikującego do szkolenia zawodowego.
 
-4. List ę kandydatów zawieraj ą c ą ich imiona i nazwiska oraz tre ść i organizacj ę testu wiedzy opracowuj ą Rektor lub komendant prowadz ą cy nabór na szkolenie zawodowe, a zatwierdza Dyrektor Generalny.
+4. Listę kandydatów zawierającą ich imiona i nazwiska oraz treść i organizację testu wiedzy opracowują Rektor lub komendant prowadzący nabór na szkolenie zawodowe, a zatwierdza – Dyrektor Generalny.
 
 **Art. 43w.**
 
-1. Komisja rekrutacyjna sporz ą dza protokół z przeprowadzonego post ę powania rekrutacyjnego i przekazuje go do zatwierdzenia Rektorowi lub wła ś ciwemu komendantowi.
+1. Komisja rekrutacyjna sporządza protokół z przeprowadzonego postępowania rekrutacyjnego i przekazuje go do zatwierdzenia Rektorowi lub właściwemu komendantowi.
 
-2. O wynikach przeprowadzonego post ę powania rekrutacyjnego Rektor lub komendant, który prowadzi nabór na szkolenie zawodowe, informuje Dyrektora Generalnego.
+2. O wynikach przeprowadzonego postępowania rekrutacyjnego Rektor lub komendant, który prowadzi nabór na szkolenie zawodowe, informuje Dyrektora Generalnego.
 
-3. W przypadku przeprowadzenia testu wiedzy kwalifikuj ą cego do szkolenia zawodowego na to szkolenie kwalifikuj ą si ę funkcjonariusze lub pracownicy, którzy uzyskali najwy ż sze oceny, z uwzgl ę dnieniem ustalonego limitu miejsc. W przypadku gdy kilku funkcjonariuszy lub pracowników uzyskało tak ą sam ą liczb ę punktów i został przekroczony limit miejsc, na szkolenie kwalifikuje si ę funkcjonariusz albo pracownik z najdłu ż szym sta ż em słu ż by lub pracy Słu ż bie Wi ę ziennej.
+3. W przypadku przeprowadzenia testu wiedzy kwalifikującego do szkolenia zawodowego na to szkolenie kwalifikują się funkcjonariusze lub pracownicy, którzy uzyskali najwyższe oceny, z uwzględnieniem ustalonego limitu miejsc. W przypadku gdy kilku funkcjonariuszy lub pracowników uzyskało taką samą liczbę punktów i został przekroczony limit miejsc, na szkolenie kwalifikuje się funkcjonariusz albo pracownik z najdłuższym stażem służby lub pracy Służbie Więziennej.
 
-4. W przypadku skre ś lenia, rezygnacji lub niemo ż no ś ci udziału funkcjonariusza lub pracownika szkoleniu zawodowym dokonuje si ę ponownej kwalifikacji zgodnie z ust. 3.
+4. W przypadku skreślenia, rezygnacji lub niemożności udziału funkcjonariusza lub pracownika szkoleniu zawodowym dokonuje się ponownej kwalifikacji zgodnie z ust. 3.
 
 **Art. 43x.**
 
-1. Rektor lub wła ś ciwy komendant sporz ą dza list ę funkcjonariuszy lub pracowników zakwalifikowanych na szkolenie zawodowe zawieraj ą c ą ich imiona i nazwiska, a nast ę pnie jej kopi ę przekazuje niezwłocznie Dyrektorowi Generalnemu.
+1. Rektor lub właściwy komendant sporządza listę funkcjonariuszy lub pracowników zakwalifikowanych na szkolenie zawodowe zawierającą ich imiona i nazwiska, a następnie jej kopię przekazuje niezwłocznie Dyrektorowi Generalnemu.
 
-2. Wyci ą g z listy, o której mowa ust. 1, Rektor lub wła ś ciwy komendant przekazuje niezwłocznie wła ś ciwym kierownikom jednostek organizacyjnych.
+2. Wyciąg z listy, o której mowa ust. 1, Rektor lub właściwy komendant przekazuje niezwłocznie właściwym kierownikom jednostek organizacyjnych.
 
 **Art. 43y.**
 
-1. Warunkiem uko ń czenia szkolenia zawodowego jest uzyskanie zalicze ń i zdanie egzaminów okre ś lonych programie szkolenia.
+1. Warunkiem ukończenia szkolenia zawodowego jest uzyskanie zaliczeń i zdanie egzaminów określonych programie szkolenia.
 
-2. W przypadku gdy funkcjonariusz lub pracownik nie uzyskał zaliczenia lub nie zdał egzaminu terminie podstawowym, mo ż e zło ż y ć do Rektora lub wła ś ciwego komendanta wniosek o dopuszczenie do zaliczenia poprawkowego lub egzaminu poprawkowego. Nieprzekraczalne terminy na zło ż enie wniosku okre ś la Rektor lub wła ś ciwy komendant.
+2. W przypadku gdy funkcjonariusz lub pracownik nie uzyskał zaliczenia lub nie zdał egzaminu terminie podstawowym, może złożyć do Rektora lub właściwego komendanta wniosek o dopuszczenie do zaliczenia poprawkowego lub egzaminu poprawkowego. Nieprzekraczalne terminy na złożenie wniosku określa Rektor lub właściwy komendant.
 
-3. Rektor lub wła ś ciwy komendant ustala skład komisji przeprowadzaj ą cej zaliczenie poprawkowe lub egzamin poprawkowy i wyznacza jej przewodniczącego oraz zarządza przeprowadzenie zaliczenia poprawkowego lub egzaminu poprawkowego.
+3. Rektor lub właściwy komendant ustala skład komisji przeprowadzającej zaliczenie poprawkowe lub egzamin poprawkowy i wyznacza jej przewodniczącego oraz zarządza przeprowadzenie zaliczenia poprawkowego lub egzaminu poprawkowego.
 
-4. W przypadku usprawiedliwionej nieobecności funkcjonariusza lub pracownika na zaliczeniu, egzaminie, zaliczeniu poprawkowym lub egzaminie poprawkowym funkcjonariusz lub pracownik może złożyć do Rektora lub właściwego komendanta wniosek o wyznaczenie innego terminu zaliczenia lub egzaminu. Przepisy ust. 2 zdanie drugie i ust. 3 stosuje się odpowiednio. poprawkowego z bloku tematycznego lub modułu terminie wyznaczonym przez Rektora lub komendanta.
+4. W przypadku usprawiedliwionej nieobecności funkcjonariusza lub pracownika na zaliczeniu, egzaminie, zaliczeniu poprawkowym lub egzaminie poprawkowym funkcjonariusz lub pracownik może złożyć do Rektora lub właściwego komendanta wniosek o wyznaczenie innego terminu zaliczenia lub egzaminu. Przepisy ust. 2 zdanie drugie i ust. 3 stosuje się odpowiednio.
+
+5. Funkcjonariusz lub pracownik może przystąpić jeden raz do zaliczenia poprawkowego lub egzaminu poprawkowego z bloku tematycznego lub modułu terminie wyznaczonym przez Rektora lub właściwego komendanta.
 
 **Art. 43z.**
 
@@ -265,33 +270,33 @@ o zmianie ustawy o Słu ż bie Wi ę ziennej oraz niektórych innych ustaw
 
 2. Okoliczności, o których mowa ust. 1, dokumentuje się notatce służbowej sporządzonej przez przewodniczącego komisji, którą załącza się do protokołu egzaminacyjnego.
 
-3. Przepisy art. 43y ust. 2−5 stosuje się odpowiednio. Art. 43za. Funkcjonariusz lub pracownik po ukończeniu szkolenia zawodowego otrzymuje świadectwo ukończenia szkolenia zawodowego. Art. 43zb. 1. Funkcjonariusza lub pracownika skreśla się z listy uczestników szkolenia zawodowego, jeżeli:
+3. Przepisy art. 43y ust. 2−5 stosuje się odpowiednio. Art. 43za. Funkcjonariusz lub pracownik po ukończeniu szkolenia zawodowego otrzymuje świadectwo ukończenia szkolenia zawodowego.
 
 - **1)** złożył pisemny wniosek o zwolnienie ze szkolenia zawodowego, który został pozytywnie rozpatrzony;
 - **2)** zgłosił na piśmie wystąpienie ze służby Służbie Więziennej albo wystąpił o rozwiązanie stosunku pracy;
-- **3)** bez usprawiedliwienia nie przyst ą pił wyznaczonym terminie do zalicze ń lub egzaminów przeprowadzanych ramach szkolenia zawodowego lub do egzaminu ko ń cowego;
+- **3)** bez usprawiedliwienia nie przystąpił wyznaczonym terminie do zaliczeń lub egzaminów przeprowadzanych ramach szkolenia zawodowego lub do egzaminu końcowego;
 - **4)** bez usprawiedliwienia przerwał udział szkoleniu zawodowym;
-- **5)** nie uzyskał zaliczenia lub nie zdał egzaminu przewidzianego programie szkolenia zawodowego albo nie zdał egzaminu ko ń cowego;
-- **6)** przeło ż ony zawiesił funkcjonariusza czynno ś ciach słu ż bowych.
+- **5)** nie uzyskał zaliczenia lub nie zdał egzaminu przewidzianego programie szkolenia zawodowego albo nie zdał egzaminu końcowego;
+- **6)** przełożony zawiesił funkcjonariusza czynnościach służbowych.
 
-2. Funkcjonariusza lub pracownika mo ż na skre ś li ć z listy uczestników szkolenia zawodowego, je ż eli:
+2. Funkcjonariusza lub pracownika można skreślić z listy uczestników szkolenia zawodowego, jeżeli:
 
-- **1)** naruszył przepisy regulaminu pobytu na terenie Uczelni, Centralnego O ś rodka Szkolenia Słu ż by Wi ę ziennej, o ś rodka szkolenia Słu ż by Wi ę ziennej lub o ś rodka doskonalenia kadr Słu ż by Wi ę ziennej;
-- **2)** szkoleniu zawodowym nast ą piła jego usprawiedliwiona nieobecno ść trwaj ą ca ponad 7 dni, uniemo ż liwiaj ą ca uczestnictwo zaj ę ciach i przyst ą pienie do egzaminów oraz zalicze ń .
+- **1)** naruszył przepisy regulaminu pobytu na terenie Uczelni, Centralnego Ośrodka Szkolenia Służby Więziennej, ośrodka szkolenia Służby Więziennej lub ośrodka doskonalenia kadr Służby Więziennej;
+- **2)** szkoleniu zawodowym nastąpiła jego usprawiedliwiona nieobecność trwająca ponad 7 dni, uniemożliwiająca uczestnictwo zajęciach i przystąpienie do egzaminów oraz zaliczeń.
 
-3. Rektor lub wła ś ciwy komendant informuje niezwłocznie Dyrektora Generalnego oraz wła ś ciwego kierownika jednostki organizacyjnej o skre ś leniu funkcjonariusza lub pracownika z listy uczestników szkolenia zawodowego. Art. 43zc. Dokumentacj ę szkolenia zawodowego stanowi ą :
+3. Rektor lub właściwy komendant informuje niezwłocznie Dyrektora Generalnego oraz właściwego kierownika jednostki organizacyjnej o skreśleniu funkcjonariusza lub pracownika z listy uczestników szkolenia zawodowego. Art. 43zc. Dokumentację szkolenia zawodowego stanowią:
 
-- **1)** protokoły post ę powania rekrutacyjnego;
-- **2)** pisma sprawie zakwalifikowania na szkolenie zawodowe lub skre ś lenia z listy uczestników szkolenia zawodowego;
-- **3)** plany zaj ęć ;
-- **4)** dzienniki szkole ń ;
-- **5)** protokoły zalicze ń i egzaminów;
-- **6)** rejestry wydanych dokumentów potwierdzaj ą cych uko ń czenie szkolenia. Art. 43zd. Szkolenie specjalistyczne stanowi uzupełnienie szkolenia wst ę pnego lub szkolenia zawodowego zakresie przygotowuj ą cym funkcjonariusza lub pracownika do samodzielnej słu ż by albo pracy na stanowisku słu ż bowym i realizacji zada ń zwi ą zanych z:
-- **1)** prowadzeniem oddziaływa ń penitencjarnych, resocjalizacyjnych oraz terapeutycznych;
-- **2)** ochron ą i obron ą jednostek organizacyjnych oraz technikami działa ń interwencyjnych;
-- **3)** kierowaniem zespołem ludzkim oraz zarz ą dzaniem jednostkami organizacyjnymi;
-- **4)** zagadnieniami prawnymi, kadrowymi, ewidencyjnymi, finansowo-kwatermistrzowskimi, dotycz ą cymi zatrudnienia osadzonych, informatyki, ochrony informacji niejawnych, wi ę ziennej słu ż by zdrowia, medycyny pracy, ochrony przeciwpo ż arowej oraz bezpiecze ń stwa i higieny pracy;
-- **5)** realizacj ą innych zada ń wynikaj ą cych z obowi ą zuj ą cych przepisów, szczególno ś ci z zakresu ochrony praw człowieka i podstawowych wolno ś ci. ust. 2 oraz art. 43zj ust. 1. Art. 43zf. 1. Doskonalenie zawodowe jest elementem podnoszenia kwalifikacji zawodowych funkcjonariuszy i pracowników, szczególności formie kursów, warsztatów, szkoleń i konferencji.
+- **1)** protokoły postępowania rekrutacyjnego;
+- **2)** pisma sprawie zakwalifikowania na szkolenie zawodowe lub skreślenia z listy uczestników szkolenia zawodowego;
+- **3)** plany zajęć;
+- **4)** dzienniki szkoleń;
+- **5)** protokoły zaliczeń i egzaminów;
+- **6)** rejestry wydanych dokumentów potwierdzających ukończenie szkolenia. Art. 43zd. Szkolenie specjalistyczne stanowi uzupełnienie szkolenia wstępnego lub szkolenia zawodowego zakresie przygotowującym funkcjonariusza lub pracownika do samodzielnej służby albo pracy na stanowisku służbowym i realizacji zadań związanych z:
+- **1)** prowadzeniem oddziaływań penitencjarnych, resocjalizacyjnych oraz terapeutycznych;
+- **2)** ochroną i obroną jednostek organizacyjnych oraz technikami działań interwencyjnych;
+- **3)** kierowaniem zespołem ludzkim oraz zarządzaniem jednostkami organizacyjnymi;
+- **4)** zagadnieniami prawnymi, kadrowymi, ewidencyjnymi, finansowo-kwatermistrzowskimi, dotyczącymi zatrudnienia osadzonych, informatyki, ochrony informacji niejawnych, więziennej służby zdrowia, medycyny pracy, ochrony przeciwpożarowej oraz bezpieczeństwa i higieny pracy;
+- **5)** realizacją innych zadań wynikających z obowiązujących przepisów, szczególności z zakresu ochrony praw człowieka i podstawowych wolności. Art. 43ze. Do szkolenia specjalistycznego stosuje się odpowiednio przepisy art. 43t, art. 43y–43za, art. 43zg ust. 2 oraz art. 43zj ust. 1. Art. 43zf. 1. Doskonalenie zawodowe jest elementem podnoszenia kwalifikacji zawodowych funkcjonariuszy i pracowników, szczególności formie kursów, warsztatów, szkoleń i konferencji.
 
 2. Doskonalenie zawodowe powinno uwzględniać:
 
@@ -304,30 +309,28 @@ o zmianie ustawy o Słu ż bie Wi ę ziennej oraz niektórych innych ustaw
 
 4. W celu utrzymania i podnoszenia umiejętności, o których mowa ust. 2 pkt 3, organizuje się Służbie Więziennej szkolenie strzeleckie formach określonych art. 43zg ust. 1 pkt 1–3.
 
-5. Dyrektor Generalny określi drodze zarządzenia:
-
 - **1)** organizację szkolenia strzeleckiego jednostkach organizacyjnych,
-- **2)** dokumentacj ę szkolenia strzeleckiego,
-- **3)** obowi ą zki i funkcje zwi ą zane z prowadzeniem szkolenia strzeleckiego,
+- **2)** dokumentację szkolenia strzeleckiego,
+- **3)** obowiązki i funkcje związane z prowadzeniem szkolenia strzeleckiego,
 - **4)** rodzaje i formy szkolenia strzeleckiego,
 - **5)** warunki dopuszczenia do szkolenia strzeleckiego,
-- **6)** podstawowe komendy podczas strzela ń ,
-- **7)** obowi ą zki uczestników szkolenia strzeleckiego,
-- **8)** zasady u ż ytkowania i wymagania dotycz ą ce strzelnic, b ę d ą cych zarz ą dzie Słu ż by Wi ę ziennej maj ą c na wzgl ę dzie zapewnienie wła ś ciwego poziomu umiej ę tno ś ci strzeleckich funkcjonariuszy zale ż no ś ci od potrzeb jednostek organizacyjnych oraz zapewnienie bezpiecznego przebiegu szkolenia strzeleckiego. Art. 43zg. 1. Doskonalenie zawodowe funkcjonariuszy i pracowników jest organizowane jako:
+- **6)** podstawowe komendy podczas strzelań,
+- **7)** obowiązki uczestników szkolenia strzeleckiego,
+- **8)** zasady użytkowania i wymagania dotyczące strzelnic, będących zarządzie Służby Więziennej – mając na względzie zapewnienie właściwego poziomu umiejętności strzeleckich funkcjonariuszy zależności od potrzeb jednostek organizacyjnych oraz zapewnienie bezpiecznego przebiegu szkolenia strzeleckiego. Art. 43zg. 1. Doskonalenie zawodowe funkcjonariuszy i pracowników jest organizowane jako:
 - **1)** doskonalenie centralne;
-- **2)** doskonalenie okr ę gowe;
+- **2)** doskonalenie okręgowe;
 - **3)** doskonalenie zakładowe;
-- **4)** doskonalenie zewn ę trzne.
+- **4)** doskonalenie zewnętrzne.
 
-2. Rekrutacja na doskonalenie zawodowe, o którym mowa ust. 1 pkt 1, 2 i 4, mo ż e odbywa ć si ę z wykorzystaniem elektronicznego systemu obsługi szkolenia. Kryteria naboru oraz limity miejsc okre ś la organizator doskonalenia zawodowego.
+2. Rekrutacja na doskonalenie zawodowe, o którym mowa ust. 1 pkt 1, 2 i 4, może odbywać się z wykorzystaniem elektronicznego systemu obsługi szkolenia. Kryteria naboru oraz limity miejsc określa organizator doskonalenia zawodowego.
 
-3. Funkcjonariusze i pracownicy uczestnicz ą , nie rzadziej ni ż co 3 lata, co najmniej jednej ze zorganizowanych form doskonalenia zawodowego, o których mowa ust. 1 pkt 1, 2 i 4, zgodnych z zakresem wykonywanych przez nich obowi ą zków słu ż bowych. Art. 43zh. 1. Doskonalenie centralne jest organizowane przez Dyrektora Generalnego dla funkcjonariuszy i pracowników.
+3. Funkcjonariusze i pracownicy uczestniczą, nie rzadziej niż co 3 lata, co najmniej jednej ze zorganizowanych form doskonalenia zawodowego, o których mowa ust. 1 pkt 1, 2 i 4, zgodnych z zakresem wykonywanych przez nich obowiązków służbowych. Art. 43zh. 1. Doskonalenie centralne jest organizowane przez Dyrektora Generalnego dla funkcjonariuszy i pracowników.
 
-2. Doskonalenie okr ę gowe jest organizowane przez dyrektora okr ę gowego dla funkcjonariuszy i pracowników podległych mu jednostek organizacyjnych.
+2. Doskonalenie okręgowe jest organizowane przez dyrektora okręgowego dla funkcjonariuszy i pracowników podległych mu jednostek organizacyjnych.
 
-3. Doskonalenie zakładowe jest organizowane przez kierownika jednostki organizacyjnej dla wszystkich funkcjonariuszy i pracowników podległej mu jednostki lub dla funkcjonariuszy i pracowników okre ś lonych działów Słu ż by Wi ę ziennej.
+3. Doskonalenie zakładowe jest organizowane przez kierownika jednostki organizacyjnej dla wszystkich funkcjonariuszy i pracowników podległej mu jednostki lub dla funkcjonariuszy i pracowników określonych działów Służby Więziennej.
 
-4. Doskonalenie zewnętrzne jest prowadzone szczególności formach, o których mowa art. 146 ust. 1. Przepisów art. 43zi oraz art. 43zj nie stosuje się. Art. 43zi. Doskonalenie zawodowe prowadzi się na podstawie programu doskonalenia zawodowego określonego przez organizatora szkolenia. wadzi lista oraz protokoły lub egzaminów.
+4. Doskonalenie zewnętrzne jest prowadzone szczególności formach, o których mowa art. 146 ust. 1. Przepisów art. 43zi oraz art. 43zj nie stosuje się. Art. 43zi. Doskonalenie zawodowe prowadzi się na podstawie programu doskonalenia zawodowego określonego przez organizatora szkolenia. Art. 43zj. 1. Jeżeli doskonalenie zawodowe kończy się zaliczeniem lub egzaminem, organizator szkolenia prowadzi dokumentację, którą stanowią lista obecności oraz protokoły zaliczeń lub egzaminów.
 
 2. Funkcjonariusz lub pracownik po ukończeniu doskonalenia zawodowego otrzymuje zaświadczenie o jego zaliczeniu albo niezaliczeniu, o ile program tego szkolenia przewiduje ten sposób ukończenia doskonalenia zawodowego. Art. 43zk. 1. Kształcenie przygotowujące do zajmowania stanowisk oficerskich Służbie Więziennej prowadzi się formie studiów podyplomowych na Uczelni, studiów drugiego stopnia na Uczelni lub szkolenia zawodowego.
 
@@ -339,31 +342,32 @@ o zmianie ustawy o Słu ż bie Wi ę ziennej oraz niektórych innych ustaw
 
 3. Zestawy egzaminacyjne opracowują osoby wyznaczone przez Dyrektora Generalnego niewchodzące skład komisji egzaminacyjnej.
 
-4. Otwarcia zestawu egzaminacyjnego dokonuje komisja egzaminacyjna obecności funkcjonariuszy uczestnicz ą cych egzaminie.
+5. Po przeprowadzeniu egzaminu komisja egzaminacyjna sporządza protokół, który przekazuje Dyrektorowi Generalnemu celu niezwłocznego podjęcia działań zmierzających do nadania funkcjonariuszom pierwszego stopnia korpusie odpowiednio oficerów, chorążych albo podoficerów.
 
-5. Po przeprowadzeniu egzaminu komisja egzaminacyjna sporz ą dza protokół, który przekazuje Dyrektorowi Generalnemu celu niezwłocznego podj ę cia działa ń zmierzaj ą cych do nadania funkcjonariuszom pierwszego stopnia korpusie odpowiednio oficerów, chor ąż ych albo podoficerów.
+6. Negatywny wynik egzaminu albo nieprzystąpienie do egzaminu oznacza nieuzyskanie kwalifikacji zawodowych, jakim powinien odpowiadać funkcjonariusz na określonym stanowisku służbowym korpusie oficerów, chorążych albo podoficerów. Art. 43zm. 1. Funkcjonariusz, który uzyskał negatywny wynik egzaminu, o którym mowa art. 43zl ust. 1, może złożyć do Dyrektora Generalnego wniosek o dopuszczenie do egzaminu poprawkowego.
 
-6. Negatywny wynik egzaminu albo nieprzyst ą pienie do egzaminu oznacza nieuzyskanie kwalifikacji zawodowych, jakim powinien odpowiada ć funkcjonariusz na okre ś lonym stanowisku słu ż bowym korpusie oficerów, chor ą ż ych albo podoficerów. Art. 43zm. 1. Funkcjonariusz, który uzyskał negatywny wynik egzaminu, o którym mowa art. 43zl ust. 1, moż e zło ż y ć do Dyrektora Generalnego wniosek o dopuszczenie do egzaminu poprawkowego.
+2. Egzamin poprawkowy przeprowadza się terminie kolejnego egzaminu. O terminie egzaminu poprawkowego zawiadamia się funkcjonariusza za pośrednictwem kierownika jednostki organizacyjnej.
 
-2. Egzamin poprawkowy przeprowadza si ę terminie kolejnego egzaminu. O terminie egzaminu poprawkowego zawiadamia si ę funkcjonariusza za po ś rednictwem kierownika jednostki organizacyjnej.
+3. Funkcjonariusz, który uzyskał negatywny wynik egzaminu poprawkowego, może zostać skierowany ponownie na szkolenie zawodowe po upływie co najmniej roku od dnia uzyskania negatywnego wyniku egzaminu poprawkowego. Art. 43zn. 1. Nadzór nad organizacją szkoleń wstępnego, zawodowego i specjalistycznego sprawuje Dyrektor Generalny.
 
-3. Funkcjonariusz, który uzyskał negatywny wynik egzaminu poprawkowego, mo ż e zosta ć skierowany ponownie na szkolenie zawodowe po upływie co najmniej roku od dnia uzyskania negatywnego wyniku egzaminu poprawkowego. Art. 43zn. 1. Nadzór nad organizacj ą szkole ń wst ę pnego, zawodowego i specjalistycznego sprawuje Dyrektor Generalny.
+2. Nadzór nad metodyką szkoleń wstępnego, zawodowego i specjalistycznego sprawuje Rektor.
 
-2. Nadzór nad metodyk ą szkole ń wst ę pnego, zawodowego i specjalistycznego sprawuje Rektor.
+3. Nadzór nad realizacją szkoleń wstępnego, zawodowego i specjalistycznego na Uczelni, Centralnym Ośrodku Szkolenia Służby Więziennej, ośrodku szkolenia Służby Więziennej i ośrodku doskonalenia kadr Służby Więziennej sprawuje odpowiednio Rektor lub właściwy komendant.
 
-3. Nadzór nad realizacj ą szkole ń wst ę pnego, zawodowego i specjalistycznego na Uczelni, Centralnym O ś rodku Szkolenia Słu ż by Wi ę ziennej, o ś rodku szkolenia Słu ż by Wi ę ziennej i o ś rodku doskonalenia kadr Słu ż by Wi ę ziennej sprawuje odpowiednio Rektor lub wła ś ciwy komendant.
+4. Nadzór nad realizacją doskonalenia zawodowego centralnego sprawuje Dyrektor Generalny.
 
-4. Nadzór nad realizacj ą doskonalenia zawodowego centralnego sprawuje Dyrektor Generalny.
+5. Nadzór nad realizacją doskonalenia zawodowego okręgowego sprawuje okręgowym inspektoracie Służby Więziennej oraz podległych jednostkach organizacyjnych − dyrektor okręgowy, a nad realizacją doskonalenia zawodowego okręgowego realizowanego na Uczelni, Centralnym Ośrodku Szkolenia Służby Więziennej, ośrodku szkolenia Służby Więziennej i ośrodku doskonalenia kadr Służby Więziennej − odpowiednio Rektor lub właściwy komendant.
 
-5. Nadzór nad realizacj ą doskonalenia zawodowego okr ę gowego sprawuje okr ę gowym inspektoracie Słu ż by Wi ę ziennej oraz podległych jednostkach organizacyjnych − dyrektor okr ę gowy, a nad realizacj ą doskonalenia zawodowego okr ę gowego realizowanego na Uczelni, Centralnym O ś rodku Szkolenia Słu ż by Wi ę ziennej, o ś rodku szkolenia Słu ż by Wi ę ziennej i o ś rodku doskonalenia kadr Słu ż by Wi ę ziennej − odpowiednio Rektor lub wła ś ciwy komendant.
+6. Nadzór nad realizacją doskonalenia zawodowego zakładowego sprawuje:
 
-6. Nadzór nad realizacj ą doskonalenia zawodowego zakładowego sprawuje:
-
-- **1)** Centralnym Zarz ą dzie Słu ż by Wi ę ziennej − Dyrektor Generalny;
-- **2)** okr ę gowym inspektoracie oraz podległych jednostkach organizacyjnych − dyrektor okr ę gowy;
+- **1)** Centralnym Zarządzie Służby Więziennej − Dyrektor Generalny;
+- **2)** okręgowym inspektoracie oraz podległych jednostkach organizacyjnych − dyrektor okręgowy;
 - **3)** na Uczelni − Rektor;
-- **4)** Centralnym Ośrodku Szkolenia Służby Więziennej, ośrodku szkolenia Służby Więziennej i ośrodku doskonalenia kadr Słu ż by Wi ę ziennej − wła ś ciwy komendant;
-- **5)** zakładzie karnym i areszcie śledczym − dyrektor. udokumentowaniu. Art. 43zo. Nadzór nad realizacją szkolenia zawodowego na Uczelni, Centralnym Ośrodku Szkolenia Służby Więziennej, ośrodku szkolenia Służby Więziennej i ośrodku doskonalenia kadr Służby Więziennej jest sprawowany poprzez:
+- **4)** Centralnym Ośrodku Szkolenia Służby Więziennej, ośrodku szkolenia Służby Więziennej i ośrodku doskonalenia kadr Służby Więziennej − właściwy komendant;
+- **5)** zakładzie karnym i areszcie śledczym − dyrektor.
+
+7. Czynności związane z nadzorem nad realizacją szkoleń wstępnego, zawodowego i specjalistycznego podlegają udokumentowaniu. Art. 43zo. Nadzór nad realizacją szkolenia zawodowego na Uczelni, Centralnym Ośrodku Szkolenia Służby Więziennej, ośrodku szkolenia Służby Więziennej i ośrodku doskonalenia kadr Służby Więziennej jest sprawowany poprzez:
+
 - **1)** ewaluację szkolenia polegającą szczególności na badaniu opinii funkcjonariuszy i pracowników biorących udział szkoleniu oraz ich oczekiwań związanych z wybranymi obszarami działalności zakresie szkolenia zawodowego;
 - **2)** kontrolę procesu szkolenia;
 - **3)** analizę dokumentacji szkoleniowej;
@@ -373,22 +377,22 @@ o zmianie ustawy o Słu ż bie Wi ę ziennej oraz niektórych innych ustaw
 2. Osoby wyznaczone przez Dyrektora Generalnego, Rektora lub właściwego komendanta są obowiązane do:
 
 - **1)** opracowania wyników sprawowanego nadzoru oraz przygotowania wniosków do dalszej pracy;
-- **2)** przedstawiania modyfikacji i usprawnie ń sprzyjaj ą cych zapewnieniu wła ś ciwych warunków szkolenia i doskonalenia zawodowego, je ż eli wyniki nadzoru to uzasadniaj ą ;
-- **3)** przedkładania na pi ś mie, miar ę potrzeb, jednak nie rzadziej ni ż raz roku, odpowiednio Dyrektorowi Generalnemu, Rektorowi lub wła ś ciwemu komendantowi, sprawozdania z prowadzonych czynno ś ci zwi ą zanych z nadzorem nad realizacj ą szkolenia zawodowego wraz z wnioskami, tym równie ż sprawozdania z prac zespołu przypadku jego powołania. Art. 43zq. 1. Funkcjonariuszom i pracownikom uczestnicz ą cym szkoleniach wst ę pnym, zawodowym i specjalistycznym oraz doskonaleniu zawodowym, organizowanych na Uczelni, Centralnym O ś rodku Szkolenia Słu ż by Wi ę ziennej, o ś rodku szkolenia Słu ż by Wi ę ziennej i o ś rodku doskonalenia kadr Słu ż by Wi ę ziennej, a tak ż e skierowanym na studia na Uczelni przysługuje bezpłatne zakwaterowanie oraz wy ż ywienie albo równowa ż nik pieni ęż ny zamian za wy ż ywienie, gdy rodzaj i warunki pełnienia słu ż by lub pracy lub wzgl ę dy techniczno-organizacyjne uniemo ż liwiaj ą korzystanie z wy ż ywienia ramach form kształcenia.
+- **3)** przedkładania na piśmie, miarę potrzeb, jednak nie rzadziej niż raz roku, odpowiednio Dyrektorowi Generalnemu, Rektorowi lub właściwemu komendantowi, sprawozdania z prowadzonych czynności związanych z nadzorem nad realizacją szkolenia zawodowego wraz z wnioskami, tym również sprawozdania z prac zespołu przypadku jego powołania. Art. 43zq. 1. Funkcjonariuszom i pracownikom uczestniczącym szkoleniach wstępnym, zawodowym i specjalistycznym oraz doskonaleniu zawodowym, organizowanych na Uczelni, Centralnym Ośrodku Szkolenia Służby Więziennej, ośrodku szkolenia Służby Więziennej i ośrodku doskonalenia kadr Służby Więziennej, a także skierowanym na studia na Uczelni przysługuje bezpłatne zakwaterowanie oraz wyżywienie albo równoważnik pieniężny zamian za wyżywienie, gdy rodzaj i warunki pełnienia służby lub pracy lub względy techniczno-organizacyjne uniemożliwiają korzystanie z wyżywienia ramach form kształcenia.
 
-2. Bezpłatne wy ż ywienie albo równowa ż nik pieni ęż ny zamian za wy ż ywienie oraz bezpłatne zakwaterowanie przysługuj ą równie ż funkcjonariuszom i pracownikom delegowanym do wykonywania czynno ś ci słu ż bowych ramach form kształcenia, o których mowa ust. 1.
+2. Bezpłatne wyżywienie albo równoważnik pieniężny zamian za wyżywienie oraz bezpłatne zakwaterowanie przysługują również funkcjonariuszom i pracownikom delegowanym do wykonywania czynności służbowych ramach form kształcenia, o których mowa ust. 1.
 
-3. Minister Sprawiedliwo ś ci okre ś li, drodze rozporz ą dzenia:
+3. Minister Sprawiedliwości określi, drodze rozporządzenia:
 
-- **1)** uprawnienia funkcjonariuszy i pracowników do wy ż ywienia trakcie wykonywania czynno ś ci słu ż bowych ramach form kształcenia, o których mowa ust. 1 i 2, uwzgl ę dniaj ą c normy wy ż ywienia oraz formy ich realizacji, a tak ż e wysoko ść dziennej pieni ęż nej warto ś ci normy wy ż ywienia, jej waloryzacj ę oraz dopuszczalne przekroczenia, a tak ż e inne przypadki, których wy ż ywienie przysługuje, maj ą c na wzgl ę dzie czas i charakter wykonywanych czynno ś ci słu ż bowych;
-- **2)** tryb i warunki otrzymywania równowa ż nika pieni ęż nego zamian za wy ż ywienie oraz jego wysoko ść przez funkcjonariuszy i pracowników wykonuj ą cych czynno ś ci słu ż bowe ramach form kształcenia, uwzgl ę dniaj ą c sposób jego naliczania oraz wypłaty, maj ą c na wzgl ę dzie czas i charakter wykonywanych czynno ś ci słu ż bowych.”;
-- **11)** art. 44 ust. 2–4 otrzymuj ą brzmienie: „2. Na stanowiskach oficerskich wymaga si ę posiadania tytułu zawodowego magistra lub równorz ę dnego oraz zło ż enia egzaminu na pierwszy stopie ń oficerski.
+- **1)** uprawnienia funkcjonariuszy i pracowników do wyżywienia trakcie wykonywania czynności służbowych ramach form kształcenia, o których mowa ust. 1 i 2, uwzględniając normy wyżywienia oraz formy ich realizacji, a także wysokość dziennej pieniężnej wartości normy wyżywienia, jej waloryzację oraz dopuszczalne przekroczenia, a także inne przypadki, których wyżywienie przysługuje, mając na względzie czas i charakter wykonywanych czynności służbowych;
+- **2)** tryb i warunki otrzymywania równoważnika pieniężnego zamian za wyżywienie oraz jego wysokość przez funkcjonariuszy i pracowników wykonujących czynności służbowe ramach form kształcenia, uwzględniając sposób jego naliczania oraz wypłaty, mając na względzie czas i charakter wykonywanych czynności służbowych.”;
+- **11)** art. 44 ust. 2–4 otrzymują brzmienie: „2. Na stanowiskach oficerskich wymaga się posiadania tytułu zawodowego magistra lub równorzędnego oraz złożenia egzaminu na pierwszy stopień oficerski.
 
-3. Na stanowiskach chor ąż ych wymaga si ę posiadania tytułu zawodowego licencjata lub równorz ę dnego oraz zło ż enia egzaminu na pierwszy stopie ń chor ąż ego.
+3. Na stanowiskach chorążych wymaga się posiadania tytułu zawodowego licencjata lub równorzędnego oraz złożenia egzaminu na pierwszy stopień chorążego.
 
 4. Na stanowiskach podoficerskich wymaga się posiadania wykształcenia średniego lub średniego branżowego oraz złożenia egzaminu na pierwszy stopień podoficerski.”;
 
 - **12)** uchyla się art. 45;
+- **13)** art. 47:
     - **a)** ust. 1 otrzymuje brzmienie: „1. Funkcjonariusza przyjętego do służby mianuje się na stanowisko podoficerskie albo chorążego przed uzyskaniem kwalifikacji zakresie szkolenia i stażu służbie oraz przed złożeniem egzaminu na pierwszy stopień podoficerski albo chorążego, jeżeli spełnia wymogi zakresie wykształcenia, o którym mowa art. 44 ust. 3 i 4. Funkcjonariusza przyjętego do służby można mianować, za zgodą Dyrektora Generalnego, na stanowisko oficerskie przed uzyskaniem kwalifikacji zakresie szkolenia i stażu służbie oraz przed złożeniem egzaminu na pierwszy stopień oficerski, jeżeli spełnia wymogi zakresie wykształcenia, o którym mowa art. 44 ust. 2.”,
     - **b)** po ust. 1 dodaje się ust. 1a brzmieniu: „1a. Funkcjonariusz może być mianowany na stanowisko oficerskie, jeżeli:
 
@@ -398,21 +402,28 @@ o zmianie ustawy o Słu ż bie Wi ę ziennej oraz niektórych innych ustaw
     - **b)** podyplomowe studia na Uczelni, lub
     - **c)** szkolenie zawodowe;
 
-- **3)** pozytywnie zło ż ył egzamin na pierwszy stopie ń oficerski.”;
-- **14)** art. 55 otrzymuje brzmienie: „Art. 55. Minister Sprawiedliwo ś ci okre ś li, drodze rozporz ą dzenia:
-- **1)** rodzaje stanowisk oficerskich, chor ąż ych i podoficerskich jednostkach organizacyjnych,
-- **2)** sta ż słu ż by wymagany do zajmowania poszczególnych stanowisk,
+- **3)** pozytywnie złożył egzamin na pierwszy stopień oficerski.”; „Art. 55. Minister Sprawiedliwości określi, drodze rozporządzenia:
+- **1)** rodzaje stanowisk oficerskich, chorążych i podoficerskich jednostkach organizacyjnych,
+- **2)** staż służby wymagany do zajmowania poszczególnych stanowisk,
 - **3)** rodzaj wykształcenia wymagany do zajmowania poszczególnych stanowisk,
 - **4)** rodzaj szkolenia specjalistycznego oraz zawodowego wymagany do zajmowania niektórych stanowisk,
 - **5)** maksymalne stopnie przypisane do poszczególnych stanowisk,
-- **6)** tryb nadawania funkcjonariuszom stopni uwzgl ę dniaj ą c konieczno ść posiadania przez funkcjonariuszy odpowiednich kwalifikacji specjalistycznych i zawodowych na okre ś lonych stanowiskach słu ż bowych.”;
-- **15)** art. 56 ust. 3 otrzymuje brzmienie: „3. Przeci ę tne uposa ż enie funkcjonariuszy stanowi wielokrotno ść kwoty bazowej, której wysoko ść ustalon ą według odr ę bnych zasad okre ś la ustawa bud ż etowa. Przez przeci ę tne uposa ż enie funkcjonariuszy nale ż y rozumie ć uposa ż enie wraz z miesi ę czn ą równowarto ś ci ą nagrody rocznej.”;
-- **16)** art. 60h ust. 2 otrzymuje brzmienie: „2. Ś rodki finansowe, o których mowa ust. 1, zwi ę kszaj ą fundusz na nagrody uznaniowe i zapomogi.”;
-- **17)** po rozdziale 7 dodaje si ę rozdział 7a brzmieniu: „Rozdział 7a Słu ż ba kandydacka
+- **6)** tryb nadawania funkcjonariuszom stopni – uwzględniając konieczność posiadania przez funkcjonariuszy odpowiednich kwalifikacji specjalistycznych i zawodowych na określonych stanowiskach służbowych.”;
+- **15)** art. 56 ust. 3 otrzymuje brzmienie: „3. Przeciętne uposażenie funkcjonariuszy stanowi wielokrotność kwoty bazowej, której wysokość ustaloną według odrębnych zasad określa ustawa budżetowa. Przez przeciętne uposażenie funkcjonariuszy należy rozumieć uposażenie wraz z miesięczną równowartością nagrody rocznej.”;
+- **16)** art. 60h ust. 2 otrzymuje brzmienie: „2. Środki finansowe, o których mowa ust. 1, zwiększają fundusz na nagrody uznaniowe i zapomogi.”;
+- **17)** po rozdziale 7 dodaje się rozdział 7a brzmieniu: „Rozdział 7a Służba kandydacka
 
-**Art. 62a.** Słu ż ba kandydacka polega na:
+**Art. 62a.** Służba kandydacka polega na:
 
-**Art. 62b.** Funkcjonariuszem słu ż bie kandydackiej mo ż e zosta ć osoba, która została zakwalifikowana na studia pierwszego stopnia na Uczelni oraz która trakcie procesu rekrutacji:
+**Art. 62b.** Funkcjonariuszem służbie kandydackiej może zostać osoba, która została zakwalifikowana na studia pierwszego stopnia na Uczelni oraz która trakcie procesu rekrutacji:
+
+**Art. 62c.**
+
+1. Osobę, o której mowa art. 62b, Rektor kieruje na kurs przygotowawczy, o którym mowa art. 43f ust. 1. Przepisy art. 43g pkt 2 i art. 43i stosuje się odpowiednio.
+
+2. W pierwszym dniu kursu przygotowawczego Rektor wydaje rozkaz personalny sprawie przyjęcia kandydata do służby kandydackiej i nadania mu stopnia szeregowego Służby Więziennej. Przepis art. 41 stosuje się.
+
+3. Po ukończeniu kursu przygotowawczego funkcjonariusz służbie kandydackiej podlega opiniowaniu, o którym mowa rozdziale 10.
 
 **Art. 62d.** Funkcjonariusz służbie kandydackiej, który uzyskał pozytywną opinię służbową po ukończeniu kursu przygotowawczego, odbywa studia.
 
@@ -433,42 +444,42 @@ o zmianie ustawy o Słu ż bie Wi ę ziennej oraz niektórych innych ustaw
 
 **Art. 62f.**
 
-1. Funkcjonariusz słu ż bie kandydackiej pełni słu ż b ę systemie skoszarowanym.
+1. Funkcjonariusz służbie kandydackiej pełni służbę systemie skoszarowanym.
 
-2. Funkcjonariusz słu ż bie kandydackiej otrzymuje:
+- **1)** zakwaterowanie oraz wyżywienie naturze albo równoważnik pieniężny zamian za wyżywienie;
+- **2)** wyposażenie polowe oraz umundurowanie właściwe dla funkcjonariusza służbie przygotowawczej;
+- **3)** dodatek za stopień;
+- **4)** należności z tytułu podróży służbowej na obszarze kraju, zgodnie z przepisami wykonawczymi wydanymi na podstawie art. 73 ust. 4.
 
-- **1)** zakwaterowanie oraz wy ż ywienie naturze albo równowa ż nik pieni ęż ny zamian za wy ż ywienie;
-- **2)** wyposa ż enie polowe oraz umundurowanie wła ś ciwe dla funkcjonariusza słu ż bie przygotowawczej;
-- **3)** dodatek za stopie ń ;
-- **4)** nale ż no ś ci z tytułu podró ż y słu ż bowej na obszarze kraju, zgodnie z przepisami wykonawczymi wydanymi na podstawie art. 73 ust. 4.
+3. Funkcjonariusz służbie kandydackiej może otrzymać:
 
-3. Funkcjonariusz słu ż bie kandydackiej mo ż e otrzyma ć :
+- **1)** nagrodę uznaniową, o której mowa art. 203;
+- **2)** zapomogę pieniężną, o której mowa art. 204.
 
-- **1)** nagrod ę uznaniow ą , o której mowa art. 203;
-- **2)** zapomog ę pieni ęż n ą , o której mowa art. 204.
-
-**Art. 62g.** Funkcjonariuszowi słu ż bie kandydackiej mog ą by ć udzielone nast ę puj ą ce urlopy:
+**Art. 62g.** Funkcjonariuszowi służbie kandydackiej mogą być udzielone następujące urlopy:
 
 **Art. 62h.**
 
-1. Funkcjonariuszowi słu ż bie kandydackiej trakcie studiów pierwszego stopnia na Uczelni, zale ż no ś ci od wyników nauce i pozytywnej opinii, mo ż e by ć nadany stopie ń :
+1. Funkcjonariuszowi służbie kandydackiej trakcie studiów pierwszego stopnia na Uczelni, zależności od wyników nauce i pozytywnej opinii, może być nadany stopień:
 
-- **1)** starszego szeregowego Słu ż by Wi ę ziennej − na pierwszym roku studiów;
-- **2)** kaprala Słu ż by Wi ę ziennej − na drugim roku studiów;
-- **3)** starszego kaprala Słu ż by Wi ę ziennej − na trzecim roku studiów.
+- **1)** starszego szeregowego Służby Więziennej − na pierwszym roku studiów;
+- **2)** kaprala Służby Więziennej − na drugim roku studiów;
+- **3)** starszego kaprala Służby Więziennej − na trzecim roku studiów.
 
-2. Funkcjonariuszowi słu ż bie kandydackiej trakcie studiów drugiego stopnia na Uczelni, zale ż no ś ci od wyników nauce i pozytywnej opinii, mo ż e by ć nadany stopie ń :
+2. Funkcjonariuszowi służbie kandydackiej trakcie studiów drugiego stopnia na Uczelni, zależności od wyników nauce i pozytywnej opinii, może być nadany stopień:
 
-- **1)** chor ąż ego Słu ż by Wi ę ziennej − na pierwszym roku studiów;
-- **2)** starszego chor ąż ego Słu ż by Wi ę ziennej − na drugim roku studiów.
+- **1)** chorążego Służby Więziennej − na pierwszym roku studiów;
+- **2)** starszego chorążego Służby Więziennej − na drugim roku studiów.
 
 **Art. 62i.**
 
-1. Po uko ń czeniu studiów pierwszego stopnia na Uczelni funkcjonariusz słu ż bie kandydackiej ma prawo przyst ą pi ć do egzaminu na pierwszy stopie ń korpusie chor ąż ych Słu ż by Wi ę ziennej, o którym mowa art. 43zl.
+1. Po ukończeniu studiów pierwszego stopnia na Uczelni funkcjonariusz służbie kandydackiej ma prawo przystąpić do egzaminu na pierwszy stopień korpusie chorążych Służby Więziennej, o którym mowa art. 43zl.
 
 2. Egzamin przeprowadza się terminie do 2 miesięcy od dnia ukończenia studiów pierwszego stopnia.
 
-3. Funkcjonariusz słu ż bie kandydackiej, który nie przyst ą pił do egzaminu wyznaczonym terminie albo uzyskał wynik negatywny tego egzaminu, jest kierowany do słu ż by na stanowisko podoficerskie. funkcjonariusz kandydackiej ma prawo do kontynuowania nauki na studiach drugiego stopnia na Uczelni albo zwrócenia się o skierowanie do służby na stanowisko chorążego.
+3. Funkcjonariusz służbie kandydackiej, który nie przystąpił do egzaminu wyznaczonym terminie albo uzyskał wynik negatywny tego egzaminu, jest kierowany do służby na stanowisko podoficerskie.
+
+4. W przypadku złożenia egzaminu i nadania pierwszego stopnia korpusie chorążych Służby Więziennej funkcjonariusz służbie kandydackiej ma prawo do kontynuowania nauki na studiach drugiego stopnia na Uczelni albo zwrócenia się o skierowanie do służby na stanowisko chorążego.
 
 5. Decyzję, o której mowa ust. 4, funkcjonariusz służbie kandydackiej przedkłada na piśmie Rektorowi terminie 7 dni od dnia nadania pierwszego stopnia korpusie chorążych Służby Więziennej.
 
@@ -492,62 +503,63 @@ o zmianie ustawy o Słu ż bie Wi ę ziennej oraz niektórych innych ustaw
 - **2)** potrzeby służby;
 - **3)** miejsce zamieszkania funkcjonariusza.
 
-3. Przy kierowaniu do słu ż by jednostce organizacyjnej Dyrektor Generalny mo ż e uwzgl ę dni ć umotywowan ą pro ś b ę funkcjonariusza.
-
-4. Dyrektor Generalny, kieruj ą c funkcjonariusza do pełnienia słu ż by na stałe, wskazuje jednostk ę organizacyjn ą , stanowisko słu ż bowe oraz dat ę rozpocz ę cia słu ż by, terminie nie dłu ż szym ni ż 3 miesi ą ce, licz ą c od dnia zako ń czenia nauki.
+3. Przy kierowaniu do służby jednostce organizacyjnej Dyrektor Generalny może uwzględnić umotywowaną prośbę funkcjonariusza. nauki.
 
 **Art. 62l.**
 
-1. Funkcjonariusz po odbyciu słu ż by kandydackiej zostaje mianowany funkcjonariuszem słu ż bie stałej. Przepisy art. 40 ust. 3 i ust. 4 pkt 1–4 i 6 stosuje si ę .
+1. Funkcjonariusz po odbyciu służby kandydackiej zostaje mianowany funkcjonariuszem służbie stałej. Przepisy art. 40 ust. 3 i ust. 4 pkt 1–4 i 6 stosuje się.
 
-2. Wobec funkcjonariusza słu ż bie kandydackiej, okresie od dnia uko ń czenia nauki na Uczelni do dnia mianowania na stałe, przepisów art. 62f ust. 1, ust. 2 pkt 1 i 4 oraz ust. 3 nie stosuje si ę .
+2. Wobec funkcjonariusza służbie kandydackiej, okresie od dnia ukończenia nauki na Uczelni do dnia mianowania na stałe, przepisów art. 62f ust. 1, ust. 2 pkt 1 i 4 oraz ust. 3 nie stosuje się.
 
-3. W razie niepodj ę cia słu ż by stałej terminie wskazanym przez Dyrektora Generalnego dyrektor ten na wniosek funkcjonariusza słu ż bie kandydackiej mo ż e okre ś li ć inn ą dat ę podj ę cia słu ż by stałej, je ż eli niepodj ę cie słu ż by nast ą piło z przyczyn niele żą cych po stronie funkcjonariusza słu ż bie kandydackiej. W takim przypadku zako ń czenie słu ż by kandydackiej nast ę puje z dniem podj ę cia słu ż by stałej.
+3. W razie niepodjęcia służby stałej terminie wskazanym przez Dyrektora Generalnego dyrektor ten na wniosek funkcjonariusza służbie kandydackiej może określić inną datę podjęcia służby stałej, jeżeli niepodjęcie służby nastąpiło z przyczyn nieleżących po stronie funkcjonariusza służbie kandydackiej. W takim przypadku zakończenie służby kandydackiej następuje z dniem podjęcia służby stałej.
 
-4. W razie niepodj ę cia słu ż by stałej terminie wskazanym przez Dyrektora Generalnego albo terminie, o którym mowa ust. 3, stosuje si ę odpowiednio art. 103–106.
+4. W razie niepodjęcia służby stałej terminie wskazanym przez Dyrektora Generalnego albo terminie, o którym mowa ust. 3, stosuje się odpowiednio art. 103–106.
 
-**Art. 62m.** Funkcjonariusz słu ż bie kandydackiej, który zwi ą zku ze słu ż b ą doznał uszczerbku na zdrowiu lub poniósł szkod ę mieniu, otrzymuje ś wiadczenia odszkodowawcze trybie i na zasadach okre ś lonych dla funkcjonariuszy. W razie ś mierci funkcjonariusza słu ż bie kandydackiej maj ą cej zwi ą zek ze słu ż b ą ś wiadczenia odszkodowawcze otrzymuj ą pozostali po nim członkowie rodziny.
+**Art. 62m.** Funkcjonariusz służbie kandydackiej, który związku ze służbą doznał uszczerbku na zdrowiu lub poniósł szkodę mieniu, otrzymuje świadczenia odszkodowawcze trybie i na zasadach określonych dla funkcjonariuszy. W razie śmierci funkcjonariusza służbie kandydackiej mającej związek ze służbą świadczenia odszkodowawcze otrzymują pozostali po nim członkowie rodziny.
 
 **Art. 62n.**
 
-1. Do funkcjonariuszy słu ż bie kandydackiej stosuje si ę :
+1. Do funkcjonariuszy służbie kandydackiej stosuje się:
 
-- **1)** przepisy art. 18 ust. 1–6, art. 19, art. 27, art. 28, art. 34, art. 35, art. 37 ust. 1 i 2, art. 43 ust. 1, art. 86–92, art. 94–98, art. 101, art. 108 ust. 1 i 3, art. 109 ust. 1–3, art. 110 ust. 1, art. 111–113, art. 114 ust. 1–3, art. 115, art. 117 ust. 1 i 2, art. 118 ust. 1–13, 16 i 17, art. 119 ust. 1 i 2, art. 152, art. 154 ust. 1 i 2, art. 155 ust. 1–3, art. 156 ust. 1, art. 157–159, art. 160 ust. 1–3, art. 161–165, art. 168 ust. 1–8, art. 209, art. 210 ust. 1–6, art. 213 ust. 1 i 2, art. 216–227, art. 228 ust. 1 i 2 oraz art. 229–263;
+- **1)** przepisy art. 18 ust. 1–6, art. 19, art. 27, art. 28, art. 34, art. 35, art. 37 ust. 1 i 2, art. 43 ust. 1, art. 86–92, art. 94– 98, art. 101, art. 108 ust. 1 i 3, art. 109 ust. 1–3, art. 110 ust. 1, art. 111–113, art. 114 ust. 1–3, art. 115, art. 117 ust. 1 i 2, art. 118 ust. 1–13, 16 i 17, art. 119 ust. 1 i 2, art. 152, art. 154 ust. 1 i 2, art. 155 ust. 1–3, art. 156 ust. 1, art. 157–159, art. 160 ust. 1–3, art. 161–165, art. 168 ust. 1–8, art. 209, art. 210 ust. 1–6, art. 213 ust. 1 i 2, art. 216–227, art. 228 ust. 1 i 2 oraz art. 229–263;
 - **2)** przepisy wykonawcze wydane na podstawie art. 18 ust. 7, art. 26 ust. 2, art. 33 ust. 1, art. 37 ust. 3 i 4, art. 43 ust. 2, art. 93, art. 109 ust. 4, art. 110 ust. 2, art. 114 ust. 4, art. 117 ust. 3, art. 118 ust. 14, 15, 18 i 19, art. 119 ust. 3 i 4, art. 154 ust. 3, art. 155 ust. 4, art. 156 ust. 2, art. 160 ust. 4, art. 168 ust. 9, art. 205, art. 210 ust. 7, art. 213 ust. 3, art. 228 ust. 3 i art. 264.
 
 2. Do funkcjonariuszy służbie kandydackiej, którzy zrezygnowali z nauki na Uczelni lub którzy zostali z niej wydaleni, stosuje się odpowiednio art. 103–106.”;
 
-- **a)** ust. 1 pkt 7 i 8 otrzymują brzmienie: „7) Rektora, Komendanta Centralnego Ośrodka Szkolenia Służby Więziennej, komendanta ośrodka szkolenia Służby Więziennej i komendanta ośrodka doskonalenia kadr Służby Więziennej,
+- **18)** art. 63:
+    - **a)** ust. 1 pkt 7 i 8 otrzymują brzmienie: „7) Rektora, Komendanta Centralnego Ośrodka Szkolenia Służby Więziennej, komendanta ośrodka szkolenia Służby Więziennej i komendanta ośrodka doskonalenia kadr Służby Więziennej,
+
 - **8)** prorektora Uczelni, zastępcy Komendanta Centralnego Ośrodka Szkolenia Służby Więziennej, zastępcy komendanta ośrodka szkolenia Służby Więziennej i zastępcy komendanta ośrodka doskonalenia kadr Służby Więziennej”,
-    - **b)** ust. 2: pkt 2 otrzymuje brzmienie: „2) Dyrektor Generalny odniesieniu do zastępcy Dyrektora Generalnego, dyrektora okręgowego, Rektora, Komendanta Centralnego Ośrodka Szkolenia Służby Więziennej, komendanta ośrodka szkolenia Służby Więziennej oraz komendanta ośrodka doskonalenia kadr Służby Więziennej bezpośrednio mu podległego;”, po pkt 3 dodaje się pkt 3a brzmieniu: „3a) Rektor odniesieniu do prorektora Uczelni;”;
+    - **b)** ust. 2: – pkt 2 otrzymuje brzmienie: „2) Dyrektor Generalny – odniesieniu do zastępcy Dyrektora Generalnego, dyrektora okręgowego, Rektora, Komendanta Centralnego Ośrodka Szkolenia Służby Więziennej, komendanta ośrodka szkolenia Służby Więziennej oraz komendanta ośrodka doskonalenia kadr Służby Więziennej bezpośrednio mu podległego;”, – po pkt 3 dodaje się pkt 3a brzmieniu: „3a) Rektor – odniesieniu do prorektora Uczelni;”;
 
-- **19)** po art. 66 dodaje się art. 66a brzmieniu: „Art. 66a. 1. Minister Sprawiedliwości powołuje Rektora na pięcioletnią kadencję spośród oficerów Służby Wi ę ziennej posiadaj ą cych co najmniej stopie ń naukowy doktora.
+- **19)** po art. 66 dodaje się art. 66a brzmieniu: „Art. 66a. 1. Minister Sprawiedliwości powołuje Rektora na pięcioletnią kadencję spośród oficerów Służby Więziennej posiadających co najmniej stopień naukowy doktora.
 
-2. Minister Sprawiedliwo ś ci mo ż e powoła ć prorektora Uczelni na pi ę cioletni ą kadencj ę spo ś ród osób posiadaj ą cych co najmniej stopie ń naukowy doktora.
+2. Minister Sprawiedliwości może powołać prorektora Uczelni na pięcioletnią kadencję spośród osób posiadających co najmniej stopień naukowy doktora.
 
 3. Kadencja Rektora lub prorektora Uczelni wygasa przypadku:
 
 - **1)** upływu jego kadencji;
-- **2)** jego ś mierci;
-- **3)** zło ż enia przez niego rezygnacji;
-- **4)** pisemnego zgłoszenia przez funkcjonariusza wyst ą pienia ze słu ż by albo rozwi ą zania umowy o prac ę przez pracownika;
+- **3)** złożenia przez niego rezygnacji;
+- **4)** pisemnego zgłoszenia przez funkcjonariusza wystąpienia ze służby albo rozwiązania umowy o pracę przez pracownika;
 - **5)** jego odwołania.
 
-4. Minister Sprawiedliwo ś ci odwołuje Rektora lub prorektora Uczelni przed upływem kadencji, je ż eli:
+4. Minister Sprawiedliwości odwołuje Rektora lub prorektora Uczelni przed upływem kadencji, jeżeli:
 
-- **1)** nie wypełnia on swoich obowi ą zków na skutek choroby trwaj ą cej dłu ż ej ni ż 180 dni roku kalendarzowym;
-- **2)** został on skazany prawomocnym wyrokiem s ą du za przest ę pstwo umy ś lne ś cigane z oskar ż enia publicznego lub umy ś lne przest ę pstwo skarbowe.
+- **1)** nie wypełnia on swoich obowiązków na skutek choroby trwającej dłużej niż 180 dni roku kalendarzowym;
+- **2)** został on skazany prawomocnym wyrokiem sądu za przestępstwo umyślne ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe.
 
-5. Minister Sprawiedliwo ś ci mo ż e powierzy ć pełnienie obowi ą zków Rektora lub prorektora Uczelni osobie spełniaj ą cej warunki okre ś lone ust. 1 lub 2 do czasu powołania Rektora lub prorektora Uczelni, na okres nie dłu ż szy ni ż 18 miesi ę cy.”;
+5. Minister Sprawiedliwości może powierzyć pełnienie obowiązków Rektora lub prorektora Uczelni osobie spełniającej warunki określone ust. 1 lub 2 do czasu powołania Rektora lub prorektora Uczelni, na okres nie dłuższy niż 18 miesięcy.”;
 
-- **20)** po art. 70 dodaje si ę art. 70a brzmieniu: „Art. 70a. Przeniesienia albo delegowania funkcjonariusza do pełnienia słu ż by na Uczelni oraz przeniesienia albo delegowania funkcjonariusza pełni ą cego słu ż b ę na Uczelni dokonuje Dyrektor Generalny porozumieniu z Rektorem.”;
-- **21)** po art. 74 dodaje si ę art. 74a brzmieniu: „Art. 74a. 1. Minister Sprawiedliwo ś ci mo ż e oddelegowa ć funkcjonariusza, za jego zgod ą , do wykonywania zada ń słu ż bowych Ministerstwie Sprawiedliwo ś ci na wskazanym stanowisku słu ż bowym na czas okre ś lony nie dłu ż szy ni ż 2 lata albo na czas nieokre ś lony.
+- **20)** po art. 70 dodaje się art. 70a brzmieniu: „Art. 70a. Przeniesienia albo delegowania funkcjonariusza do pełnienia służby na Uczelni oraz przeniesienia albo delegowania funkcjonariusza pełniącego służbę na Uczelni dokonuje Dyrektor Generalny porozumieniu z Rektorem.”;
+- **21)** po art. 74 dodaje się art. 74a brzmieniu: „Art. 74a. 1. Minister Sprawiedliwości może oddelegować funkcjonariusza, za jego zgodą, do wykonywania zadań służbowych Ministerstwie Sprawiedliwości na wskazanym stanowisku służbowym na czas określony nie dłuższy niż 2 lata albo na czas nieokreślony.
 
-2. Funkcjonariusz oddelegowany na czas nieokre ś lony mo ż e by ć odwołany z oddelegowania przez Ministra Sprawiedliwości albo ustąpić z tego oddelegowania, z co najmniej miesięcznym wyprzedzeniem. W pozostałych przypadkach oddelegowania odwołanie lub ustąpienie funkcjonariusza następuje bez zachowania okresu wyprzedzenia.
+2. Funkcjonariusz oddelegowany na czas nieokreślony może być odwołany z oddelegowania przez Ministra Sprawiedliwości albo ustąpić z tego oddelegowania, z co najmniej miesięcznym wyprzedzeniem. W pozostałych przypadkach oddelegowania odwołanie lub ustąpienie funkcjonariusza następuje bez zachowania okresu wyprzedzenia.
+
+3. W okresie oddelegowania:
 
 - **1)** przeniesienie funkcjonariusza na niższe stanowisko służbowe, o którym mowa art. 85 ust. 2,
 - **2)** zwolnienie funkcjonariusza ze służby, o którym mowa art. 96 ust. 2,
-- **3)** zawieszenie funkcjonariusza czynnościach służbowych przypadku, o którym mowa art. 94 ust. 2 wymaga zgody Ministra Sprawiedliwości.
+- **3)** zawieszenie funkcjonariusza czynnościach służbowych przypadku, o którym mowa art. 94 ust. 2 – wymaga zgody Ministra Sprawiedliwości.
 
 4. Do funkcjonariusza, o którym mowa ust. 1, nie stosuje się przepisów art. 77 pkt 2 oraz art. 81.”;
 
@@ -555,23 +567,22 @@ o zmianie ustawy o Słu ż bie Wi ę ziennej oraz niektórych innych ustaw
     - **a)** po ust. 1 dodaje się ust. 1a brzmieniu: „1a. W przypadku oddelegowania funkcjonariusza do wykonywania zadań służbowych Ministerstwie Sprawiedliwości na podstawie art. 74a ust. 1 świadczenia, o których mowa ust. 1, wypłaca oddelegowanemu funkcjonariuszowi jednostka organizacyjna, której pełnił on służbę przed oddelegowaniem.”,
     - **b)** ust. 3 otrzymuje brzmienie: „3. Oddelegowanemu funkcjonariuszowi urlopów udziela organ instytucji krajowej lub zagranicznej, do której został oddelegowany, albo Minister Sprawiedliwości, na zasadach i wymiarze określonych ustawie.”;
 
-- **23)** po art. 80 dodaje się art. 80a brzmieniu: „Art. 80a. 1. Funkcjonariuszowi oddelegowanemu do Ministerstwa Sprawiedliwości przysługują należności z tytułu podró ż y słu ż bowej na obszarze kraju.
+- **23)** po art. 80 dodaje się art. 80a brzmieniu: „Art. 80a. 1. Funkcjonariuszowi oddelegowanemu do Ministerstwa Sprawiedliwości przysługują należności z tytułu podróży służbowej na obszarze kraju.
 
-2. Nale ż no ś ci, o których mowa ust. 1, wypłaca Ministerstwo Sprawiedliwo ś ci.
+2. Należności, o których mowa ust. 1, wypłaca Ministerstwo Sprawiedliwości.
 
-3. Nale ż no ś ci, o których mowa ust. 1, nie przysługuj ą przypadku, gdy odległo ść od miejsca stałego pełnienia słu ż by lub miejsca stałego zamieszkania funkcjonariusza oddelegowanego do Ministerstwa Sprawiedliwo ś ci nie przekracza 60 km, chyba ż e Minister Sprawiedliwo ś ci na wniosek funkcjonariusza oddelegowanego uzna, ż e nie jest celowy codzienny dojazd funkcjonariusza oddelegowanego do Ministerstwa Sprawiedliwo ś ci.”;
+3. Należności, o których mowa ust. 1, nie przysługują przypadku, gdy odległość od miejsca stałego pełnienia służby lub miejsca stałego zamieszkania funkcjonariusza oddelegowanego do Ministerstwa Sprawiedliwości nie przekracza 60 km, chyba że Minister Sprawiedliwości na wniosek funkcjonariusza oddelegowanego uzna, że nie jest celowy codzienny dojazd funkcjonariusza oddelegowanego do Ministerstwa Sprawiedliwości.”;
 
 - **24)** art. 87:
-    - **a)** ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „W opiniowaniu słu ż bowym zale ż no ś ci od zajmowanego stanowiska i charakteru wykonywanych zada ń słu ż bowych uwzgl ę dnia si ę odpowiednio nast ę puj ą ce kryteria:”,
-    - **b)** ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „W opiniowaniu słu ż bowym na wy ż sze stanowiska kierownicze Słu ż bie Wi ę ziennej oraz opiniowaniu funkcjonariuszy zajmuj ą cych stanowiska kierownicze oprócz kryteriów wymienionych ust. 1 ocenie podlegaj ą :”,
-    - **c)** dodaje si ę ust. 3 brzmieniu: „3. W przypadku funkcjonariuszy nauczycieli oraz funkcjonariuszy nauczycieli akademickich opiniowaniu słu ż bowym ocenie podlega równie ż wywi ą zywanie si ę z obowi ą zków wynikaj ą cych odpowiednio z przepisów o systemie o ś wiaty oraz przepisów o szkolnictwie wy ż szym.”;
+    - **a)** ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „W opiniowaniu służbowym zależności od zajmowanego stanowiska i charakteru wykonywanych zadań służbowych uwzględnia się odpowiednio następujące kryteria:”, „W opiniowaniu służbowym na wyższe stanowiska kierownicze Służbie Więziennej oraz opiniowaniu funkcjonariuszy zajmujących stanowiska kierownicze oprócz kryteriów wymienionych ust. 1 ocenie podlegają:”,
+    - **c)** dodaje się ust. 3 brzmieniu: „3. W przypadku funkcjonariuszy nauczycieli oraz funkcjonariuszy nauczycieli akademickich opiniowaniu służbowym ocenie podlega również wywiązywanie się z obowiązków wynikających odpowiednio z przepisów o systemie oświaty oraz przepisów o szkolnictwie wyższym.”;
 
 - **25)** art. 88:
-    - **a)** pkt 2 otrzymuje brzmienie: „2) Dyrektor Generalny o swoich zast ę pcach, kierownikach komórek organizacyjnych Centralnym Zarz ą dzie Słu ż by Wi ę ziennej, dyrektorach okr ę gowych, Rektorze, Komendancie Centralnego O ś rodka Szkolenia Słu ż by Wi ę ziennej, komendantach o ś rodków szkolenia Słu ż by Wi ę ziennej oraz komendantach o ś rodków doskonalenia kadr Słu ż by Wi ę ziennej bezpo ś rednio mu podległych;”,
-    - **b)** po pkt 3 dodaje si ę pkt 3a brzmieniu: „3a) Rektor o prorektorach Uczelni, kierownikach komórek organizacyjnych oraz funkcjonariuszach pełni ą cych słu ż b ę na stanowiskach samodzielnych;”;
+    - **a)** pkt 2 otrzymuje brzmienie: „2) Dyrektor Generalny – o swoich zastępcach, kierownikach komórek organizacyjnych Centralnym Zarządzie Służby Więziennej, dyrektorach okręgowych, Rektorze, Komendancie Centralnego Ośrodka Szkolenia Służby Więziennej, komendantach ośrodków szkolenia Służby Więziennej oraz komendantach ośrodków doskonalenia kadr Służby Więziennej bezpośrednio mu podległych;”,
+    - **b)** po pkt 3 dodaje się pkt 3a brzmieniu: „3a) Rektor – o prorektorach Uczelni, kierownikach komórek organizacyjnych oraz funkcjonariuszach pełniących służbę na stanowiskach samodzielnych;”;
 
 - **26)** art. 89:
-    - **a)** ust. 1: pkt 2 otrzymuje brzmienie: „2) służbie stałej nie później niż 30 dni przed upływem każdych 4 lat służby do osiągnięcia 20 lat służby oraz ka ż dych 5 lat słu ż by po przekroczeniu 20 lat słu ż by;”, „3) służbie kandydackiej nie później niż ciągu 7 dni po ukończeniu kursu przygotowawczego oraz nie później niż terminie 30 dni przed ukończeniem każdego roku studiów.”,
+    - **a)** ust. 1: – pkt 2 otrzymuje brzmienie: „2) służbie stałej – nie później niż 30 dni przed upływem każdych 4 lat służby do osiągnięcia 20 lat służby oraz każdych 5 lat służby po przekroczeniu 20 lat służby;”, – dodaje się pkt 3 brzmieniu: „3) służbie kandydackiej – nie później niż ciągu 7 dni po ukończeniu kursu przygotowawczego oraz nie później niż terminie 30 dni przed ukończeniem każdego roku studiów.”,
     - **b)** ust. 4 otrzymuje brzmienie: „4. Opiniowanie służbowe przeprowadza się niezależnie od terminów, o których mowa ust. 1, następujących przypadkach:
 
 - **1)** stwierdzenia nieprzydatności na zajmowanym stanowisku, nieprzydatności do służby okresie służby przygotowawczej albo niewywiązywania się z obowiązków służbowych;
@@ -580,45 +591,46 @@ o zmianie ustawy o Słu ż bie Wi ę ziennej oraz niektórych innych ustaw
     - **c)** dodaje się ust. 5 brzmieniu: „5. Opiniowanie służbowe można przeprowadzić niezależnie od terminów, o których mowa ust. 1, przypadku wniosku o mianowanie lub powołanie funkcjonariusza na wyższe stanowisko służbowe albo o nadanie kolejnego wyższego stopnia Służby Więziennej, jeżeli od ostatniego opiniowania upłynęły co najmniej 3 lata.”;
 
 - **27)** art. 96:
-    - **a)** ust. 1 pkt 1 otrzymuje brzmienie: „1) nieprzydatno ś ci do słu ż by stwierdzonej opinii słu ż bowej okresie słu ż by przygotowawczej albo okresie słu ż by kandydackiej;”,
-    - **b)** ust. 2: po pkt 1 dodaje si ę pkt 1a brzmieniu: „1a) braku post ę pów nauce słu ż bie kandydackiej;”, pkt 9 kropk ę zast ę puje si ę ś rednikiem i dodaje si ę pkt 10 brzmieniu: „10) gdy dalsze pozostawanie funkcjonariusza słu ż bie nie daje si ę pogodzi ć z dobrem słu ż by.”;
+    - **a)** ust. 1 pkt 1 otrzymuje brzmienie: „1) nieprzydatności do służby stwierdzonej opinii służbowej okresie służby przygotowawczej albo okresie służby kandydackiej;”,
+    - **b)** ust. 2: – po pkt 1 dodaje się pkt 1a brzmieniu: „1a) braku postępów nauce służbie kandydackiej;”, – pkt 9 kropkę zastępuje się średnikiem i dodaje się pkt 10 brzmieniu: „10) gdy dalsze pozostawanie funkcjonariusza służbie nie daje się pogodzić z dobrem służby.”;
 
-- **28)** art. 97 ust. 1 po pkt 2 dodaje si ę pkt 2a–2c brzmieniu: „2a) nieuko ń czenia kursu przygotowawczego, o którym mowa art. 62c ust. 1;
+- **28)** art. 97 ust. 1 po pkt 2 dodaje się pkt 2a–2c brzmieniu: „2a) nieukończenia kursu przygotowawczego, o którym mowa art. 62c ust. 1;
 - **2b)** nieuzyskania pozytywnej opinii, o której mowa art. 62c ust. 3;
-- **2c)** niepodj ę cia studiów, o których mowa art. 62a pkt 1;”;
-- **29)** art. 98 dotychczasow ą tre ść oznacza si ę jako ust. 1 i dodaje si ę ust. 2 brzmieniu: „2. Zwolnienia ze słu ż by z przyczyny okre ś lonej art. 96 ust. 2 pkt 10 dokonuje przeło ż ony przeło ż onego, o którym mowa ust. 1.”;
-- **30)** art. 103 otrzymuje brzmienie: „Art. 103. 1. Funkcjonariusz zwolniony ze słu ż by z przyczyn okre ś lonych art. 96 ust. 1 i ust. 2 pkt 1, 8 i 10 oraz funkcjonariusz, którego stosunek słu ż bowy wygasł na podstawie art. 97 ust. 1 pkt 2–8 przed upływem 5 lat od odbycia kursu przygotowawczego lub szkolenia zawodowego, a tak ż e studiów na Uczelni, jest obowi ą zany zwróci ć kwot ę stanowi ą c ą równowarto ść kosztów wy ż ywienia, zakwaterowania, umundurowania oraz kosztów podró ż y słu ż bowych otrzymanych czasie kształcenia. Koszty te funkcjonariusz zwraca tak ż e przypadku nieuko ń czenia kursu przygotowawczego, szkolenia zawodowego lub przerwania studiów z winy funkcjonariusza.
+- **2c)** niepodjęcia studiów, o których mowa art. 62a pkt 1;”; „2. Zwolnienia ze służby z przyczyny określonej art. 96 ust. 2 pkt 10 dokonuje przełożony przełożonego, o którym mowa ust. 1.”;
+- **30)** art. 103 otrzymuje brzmienie: „Art. 103. 1. Funkcjonariusz zwolniony ze służby z przyczyn określonych art. 96 ust. 1 i ust. 2 pkt 1, 8 i 10 oraz funkcjonariusz, którego stosunek służbowy wygasł na podstawie art. 97 ust. 1 pkt 2–8 przed upływem 5 lat od odbycia kursu przygotowawczego lub szkolenia zawodowego, a także studiów na Uczelni, jest obowiązany zwrócić kwotę stanowiącą równowartość kosztów wyżywienia, zakwaterowania, umundurowania oraz kosztów podróży służbowych otrzymanych czasie kształcenia. Koszty te funkcjonariusz zwraca także przypadku nieukończenia kursu przygotowawczego, szkolenia zawodowego lub przerwania studiów z winy funkcjonariusza.
 
-2. Koszty wy ż ywienia, zakwaterowania, umundurowania oraz podró ż y słu ż bowych otrzymane przez funkcjonariusza czasie szkolenia lub nauki ustala si ę jako sum ę :
+2. Koszty wyżywienia, zakwaterowania, umundurowania oraz podróży służbowych otrzymane przez funkcjonariusza czasie szkolenia lub nauki ustala się jako sumę:
 
-- **1)** dziennych stawek bud ż etowych na wy ż ywienie i kosztów zakwaterowania funkcjonariusza czasie szkolenia lub nauki;
-- **2)** warto ś ci przedmiotów umundurowania wydanych funkcjonariuszowi czasie szkolenia lub nauki zgodnie z przepisami o normach i zasadach przydzielania umundurowania i wyposażenia specjalnego funkcjonariuszom, wyliczonej na podstawie liczby dni użytkowania tych przedmiotów i kosztu jednorazowego ich czyszczenia;
-- **3)** diet otrzymanych na pokrycie zwi ę kszonych kosztów wy ż ywienia czasie podró ż y słu ż bowych;
-- **4)** kwot otrzymanych za przejazd na trasie od stałego miejsca pełnienia słu ż by do Uczelni, Centralnego O ś rodka Szkolenia Słu ż by Wi ę ziennej, o ś rodka szkolenia Słu ż by Wi ę ziennej albo o ś rodka doskonalenia kadr Słu ż by Wi ę ziennej i z powrotem oraz ryczałtów na dojazdy ś rodkami komunikacji miejscowej. według stawek dniu zwolnienia funkcjonariusza ze
+- **1)** dziennych stawek budżetowych na wyżywienie i kosztów zakwaterowania funkcjonariusza czasie szkolenia lub nauki;
+- **2)** wartości przedmiotów umundurowania wydanych funkcjonariuszowi czasie szkolenia lub nauki zgodnie z przepisami o normach i zasadach przydzielania umundurowania i wyposażenia specjalnego funkcjonariuszom, wyliczonej na podstawie liczby dni użytkowania tych przedmiotów i kosztu jednorazowego ich czyszczenia;
+- **3)** diet otrzymanych na pokrycie zwiększonych kosztów wyżywienia czasie podróży służbowych;
+- **4)** kwot otrzymanych za przejazd na trasie od stałego miejsca pełnienia służby do Uczelni, Centralnego Ośrodka Szkolenia Służby Więziennej, ośrodka szkolenia Służby Więziennej albo ośrodka doskonalenia kadr Służby Więziennej i z powrotem oraz ryczałtów na dojazdy środkami komunikacji miejscowej.
+
+3. Wysokość kwoty stanowiącej równowartość kosztów wyżywienia, zakwaterowania i umundurowania ustala się według stawek obowiązujących dniu zwolnienia funkcjonariusza ze służby.
 
 4. Koszty zakwaterowania funkcjonariusza, o których mowa ust. 2 pkt 1 i ust. 3, otrzymane czasie szkolenia lub nauki ustala się na podstawie wysokości diety określonej przepisach wykonawczych o zasadach ustalania oraz wysokości należności przysługujących pracownikowi z tytułu podróży służbowej na obszarze kraju wydanych na podstawie art. 77 § 2 Kodeksu pracy, wysokości:
 
-- **1)** za miejsce pokoju z łazienką i WC zajmowanym samodzielnie 1,2 diety za dobę;
-- **2)** za miejsce pokoju bez łazienki i WC zajmowanym samodzielnie 1 diety za dobę;
-- **3)** za miejsce pokoju zajmowanym z inną osobą z łazienką i WC 0,8 diety za dobę;
-- **4)** za miejsce pokoju zajmowanym z inną osobą bez łazienki i WC 0,6 diety za dobę.”;
+- **1)** za miejsce pokoju z łazienką i WC zajmowanym samodzielnie – 1,2 diety za dobę;
+- **2)** za miejsce pokoju bez łazienki i WC zajmowanym samodzielnie – 1 diety za dobę;
+- **3)** za miejsce pokoju zajmowanym z inną osobą z łazienką i WC – 0,8 diety za dobę;
+- **4)** za miejsce pokoju zajmowanym z inną osobą bez łazienki i WC – 0,6 diety za dobę.”;
 - **31)** art. 104 ust. 2 otrzymuje brzmienie: „2. Przełożony ustala koszty wyżywienia, zakwaterowania i umundurowania otrzymane przez funkcjonariusza czasie kursu przygotowawczego, szkolenia zawodowego lub studiów na podstawie informacji Rektora, Komendanta Centralnego Ośrodka Szkolenia Służby Więziennej, komendanta ośrodka szkolenia Służby Więziennej lub komendanta ośrodka doskonalenia kadr Służby Więziennej.”;
 - **32)** art. 106 ust. 1 otrzymuje brzmienie: „1. Kwotę, o której mowa art. 103, funkcjonariusz wpłaca jednostce organizacyjnej, której pełnił służbę przed zwolnieniem.”;
-- **33)** art. 119 ust. 1 uchyla si ę pkt 3;
-- **34)** po art. 134 dodaje si ę art. 134a brzmieniu: „Art. 134a. Wymiar i rozkład czasu słu ż by funkcjonariusza b ę d ą cego nauczycielem akademickim okre ś laj ą przepisy ustawy z dnia 27 lipca 2005 r. Prawo o szkolnictwie wy ż szym.”;
-- **35)** uchyla si ę art. 166;
-- **36)** art. 168 ust. 2 otrzymuje brzmienie: „2. Przez uposa ż enie stanowi ą ce podstaw ę wymiaru składek na ubezpieczenia emerytalne i rentowe, o którym mowa ust. 1, rozumie si ę :
-- **1)** uposa ż enie zasadnicze, dodatki do uposa ż enia, nagrody roczne i uznaniowe oraz dodatkowe wynagrodzenie wypłacane na podstawie art. 208, odpowiednio przeliczone zgodnie z art. 110 ustawy, o której mowa ust. 1;
-- **2)** kwot ę minimalnego wynagrodzenia za prac ę obowi ą zuj ą cego grudniu roku poprzedniego, ustalonego na podstawie odr ę bnych przepisów za okres słu ż by kandydackiej.”;
-- **37)** art. 192:
-    - **a)** pkt 2 lit. c otrzymuje brzmienie: „c) Rektora, prorektora Uczelni, Komendanta Centralnego O ś rodka Szkolenia Słu ż by Wi ę ziennej, komendanta o ś rodka szkolenia Słu ż by Wi ę ziennej albo komendanta o ś rodka doskonalenia kadr Słu ż by Wi ę ziennej bezpo ś rednio mu podległego i ich zast ę pców;”,
-    - **b)** pkt 4 otrzymuje brzmienie: „4) dyrektor aresztu ś ledczego, dyrektor zakładu karnego, Rektor, Komendant Centralnego O ś rodka Szkolenia Słu ż by Wi ę ziennej oraz komendant o ś rodka szkolenia Słu ż by Wi ę ziennej i komendant o ś rodka doskonalenia kadr Słu ż by Wi ę ziennej odniesieniu do funkcjonariusza pełni ą cego słu ż b ę tych jednostkach.”;
+- **33)** art. 119 ust. 1 uchyla się pkt 3;
+- **34)** po art. 134 dodaje się art. 134a brzmieniu: „Art. 134a. Wymiar i rozkład czasu służby funkcjonariusza będącego nauczycielem akademickim określają przepisy ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym.”;
+- **35)** uchyla się art. 166;
+- **36)** art. 168 ust. 2 otrzymuje brzmienie: „2. Przez uposażenie stanowiące podstawę wymiaru składek na ubezpieczenia emerytalne i rentowe, o którym mowa ust. 1, rozumie się:
+- **1)** uposażenie zasadnicze, dodatki do uposażenia, nagrody roczne i uznaniowe oraz dodatkowe wynagrodzenie wypłacane na podstawie art. 208, odpowiednio przeliczone zgodnie z art. 110 ustawy, o której mowa ust. 1;
+- **2)** kwotę minimalnego wynagrodzenia za pracę obowiązującego grudniu roku poprzedniego, ustalonego na podstawie odrębnych przepisów – za okres służby kandydackiej.”;
+    - **a)** pkt 2 lit. c otrzymuje brzmienie: „c) Rektora, prorektora Uczelni, Komendanta Centralnego Ośrodka Szkolenia Służby Więziennej, komendanta ośrodka szkolenia Służby Więziennej albo komendanta ośrodka doskonalenia kadr Służby Więziennej bezpośrednio mu podległego i ich zastępców;”,
+    - **b)** pkt 4 otrzymuje brzmienie: „4) dyrektor aresztu śledczego, dyrektor zakładu karnego, Rektor, Komendant Centralnego Ośrodka Szkolenia Służby Więziennej oraz komendant ośrodka szkolenia Służby Więziennej i komendant ośrodka doskonalenia kadr Służby Więziennej odniesieniu do funkcjonariusza pełniącego służbę tych jednostkach.”;
 
 - **38)** art. 205:
-    - **a)** pkt 1 otrzymuje brzmienie: „1) wysoko ść funduszu na nagrody uznaniowe i zapomogi dla funkcjonariuszy,”,
-    - **b)** pkt 3 i 4 otrzymują brzmienie: „3) tryb zwi ę kszenia funduszu na nagrody uznaniowe i zapomogi o ś rodki finansowe uzyskane z tytułu zmniejszenia uposa ż e ń , o którym mowa art. 60h,
+    - **a)** pkt 1 otrzymuje brzmienie: „1) wysokość funduszu na nagrody uznaniowe i zapomogi dla funkcjonariuszy,”,
+    - **b)** pkt 3 i 4 otrzymują brzmienie: „3) tryb zwiększenia funduszu na nagrody uznaniowe i zapomogi o środki finansowe uzyskane z tytułu zmniejszenia uposażeń, o którym mowa art. 60h,
 
-- **4)** tryb post ę powania oraz wła ś ciwo ść przeło ż onych zakresie przyznawania i wypłaty nagród uznaniowych i zapomóg”;
+- **4)** tryb postępowania oraz właściwość przełożonych zakresie przyznawania i wypłaty nagród uznaniowych i zapomóg”;
+- **39)** art. 208:
     - **a)** ust. 1 otrzymuje brzmienie: „1. Za wykonywanie zadań polegających na:
 
 - **1)** opiece nad psem specjalnym lub służbowym,
@@ -631,42 +643,29 @@ o zmianie ustawy o Słu ż bie Wi ę ziennej oraz niektórych innych ustaw
 
 2. W przypadku sprawowania opieki:
 
-- **1)** nad więcej niż jednym psem specjalnym lub służbowym dodatkowe wynagrodzenie stanowi wielokrotność stawki okre ś lonej ust. 1;
-- **2)** przez kilku funkcjonariuszy nad jednym psem specjalnym lub słu ż bowym dodatkowe wynagrodzenie dzieli si ę mi ę dzy nich, proporcjonalnie do liczby dni sprawowanej przez ka ż dego z nich opieki nad psem specjalnym lub słu ż bowym miesi ą cu.
+- **1)** nad więcej niż jednym psem specjalnym lub służbowym dodatkowe wynagrodzenie stanowi wielokrotność stawki określonej ust. 1;
+- **2)** przez kilku funkcjonariuszy nad jednym psem specjalnym lub służbowym dodatkowe wynagrodzenie dzieli się między nich, proporcjonalnie do liczby dni sprawowanej przez każdego z nich opieki nad psem specjalnym lub służbowym miesiącu.
 
-3. Dodatkowe wynagrodzenie za sprawowanie opieki nad psem specjalnym lub słu ż bowym jest wypłacane na wniosek bezpo ś redniego przeło ż onego funkcjonariusza.
+3. Dodatkowe wynagrodzenie za sprawowanie opieki nad psem specjalnym lub służbowym jest wypłacane na wniosek bezpośredniego przełożonego funkcjonariusza.
 
 4. Wniosek, o którym mowa ust. 3, zawiera:
 
-- **1)** nazw ę jednostki organizacyjnej, której funkcjonariusz sprawował opiek ę nad psem specjalnym lub słu ż bowym;
-- **2)** informacj ę o liczbie dni miesi ą cu, których funkcjonariusz wykonywał czynno ś ci zwi ą zane z zapewnieniem opieki psu specjalnemu lub słu ż bowemu;
-- **3)** informacj ę o liczbie psów specjalnych lub słu ż bowych, nad którymi funkcjonariusz sprawował opiek ę .
+- **1)** nazwę jednostki organizacyjnej, której funkcjonariusz sprawował opiekę nad psem specjalnym lub służbowym;
+- **2)** informację o liczbie dni miesiącu, których funkcjonariusz wykonywał czynności związane z zapewnieniem opieki psu specjalnemu lub służbowemu;
+- **3)** informację o liczbie psów specjalnych lub służbowych, nad którymi funkcjonariusz sprawował opiekę.
 
-**Art. 208b.** Funkcjonariuszowi za wykonywanie zada ń , o których mowa art. 208 ust. 1 pkt 2, przysługuje dodatkowe wynagrodzenie wysoko ś ci do 762 zł za pełnienie funkcji rzecznika dyscyplinarnego post ę powaniu dyscyplinarnym lub do 153 zł przypadku uczestniczenia post ę powaniu dyscyplinarnym zwi ą zku z udzielaniem pomocy innemu rzecznikowi dyscyplinarnemu.
-
-**Art. 208c.**
-
-1. Funkcjonariuszowi, o którym mowa art. 208 ust. 1 pkt 3, przysługuje dodatkowe wynagrodzenie miesi ę czne wysoko ś ci do 153 zł:
-
-- **1)** za pełnienie funkcji mentora odniesieniu do ka ż dego funkcjonariusza lub pracownika okresie:
-    - **a)** wst ę pnej adaptacji zawodowej,
-    - **b)** praktyki zawodowej;
-
-- **2)** okresie organizacji i prowadzenia szkolenia dla mentorów.
-
-2. Dodatkowe wynagrodzenie za pełnienie funkcji mentora jest wypłacane na wniosek funkcjonariusza po wyznaczeniu go na mentora oraz po zako ń czeniu czynno ś ci, o których mowa ust. 1.
-
-3. Wniosek sprawie wypłaty dodatkowego wynagrodzenia za pełnienie funkcji mentora zawiera okre ś lenie jednostki organizacyjnej, której były prowadzone czynno ś ci przez mentora, oraz ich opis i termin ich realizacji.
+**Art. 208b.** Funkcjonariuszowi za wykonywanie zadań, o których mowa art. 208 ust. 1 pkt 2, przysługuje dodatkowe wynagrodzenie wysokości do 762 zł za pełnienie funkcji rzecznika dyscyplinarnego postępowaniu dyscyplinarnym lub do 153 zł przypadku uczestniczenia postępowaniu dyscyplinarnym związku z udzielaniem pomocy innemu rzecznikowi dyscyplinarnemu.
 
 **Art. 208d.**
 
-1. Funkcjonariuszowi, o którym mowa art. 208 ust. 1 pkt 4, przysługuje dodatkowe wynagrodzenie miesi ę czne wysoko ś ci:
+1. Funkcjonariuszowi, o którym mowa art. 208 ust. 1 pkt 4, przysługuje dodatkowe wynagrodzenie miesięczne wysokości:
 
-- **1)** do 1219 zł za pełnienie funkcji prorektora lub dziekana;
-- **2)** do 1067 zł za pełnienie funkcji prodziekana;
-- **3)** do 914 zł za pełnienie funkcji kierownika instytutu;
-- **4)** do 762 zł za pełnienie funkcji zast ę pcy kierownika instytutu lub kierownika katedry;
-- **6)** do 457 zł za pełnienie funkcji zastępcy kierownika zakładu lub członka komisji rekrutacyjnej lub egzaminacyjnej.
+- **1)** do 1219 zł – za pełnienie funkcji prorektora lub dziekana;
+- **2)** do 1067 zł – za pełnienie funkcji prodziekana;
+- **3)** do 914 zł – za pełnienie funkcji kierownika instytutu;
+- **4)** do 762 zł – za pełnienie funkcji zastępcy kierownika instytutu lub kierownika katedry;
+- **5)** do 610 zł – za pełnienie funkcji zastępcy kierownika katedry lub kierownika zakładu;
+- **6)** do 457 zł – za pełnienie funkcji zastępcy kierownika zakładu lub członka komisji rekrutacyjnej lub egzaminacyjnej.
 
 2. Dodatkowe wynagrodzenie za pełnienie funkcji, o których mowa ust. 1, wypłaca się proporcjonalnie do liczby dni pełnienia tych funkcji.
 
@@ -679,23 +678,21 @@ o zmianie ustawy o Słu ż bie Wi ę ziennej oraz niektórych innych ustaw
 - **41)** art. 219 ust. 1 po pkt 5 dodaje się pkt 5a brzmieniu: „5a) oddelegowania do wykonywania zadań służbowych Ministerstwie Sprawiedliwości,”;
 - **42)** art. 231:
     - **a)** ust. 2 otrzymuje brzmienie: „2. Przełożonym dyscyplinarnym funkcjonariusza zajmującego wyższe stanowisko kierownicze jednostce organizacyjnej oraz funkcjonariusza, o którym mowa art. 68 ust. 4, jest odpowiedni przełożony, o którym mowa art. 63 ust. 2.”,
-    - **b)** ust. 8 pkt 1 i 2 otrzymują brzmienie: „1) Dyrektorowi Generalnemu, zastępcy Dyrektora Generalnego, dyrektorowi okręgowemu, Rektorowi, Komendantowi Centralnego O ś rodka Szkolenia Słu ż by Wi ę ziennej, komendantowi o ś rodka szkolenia Słu ż by Wi ę ziennej i komendantowi o ś rodka doskonalenia kadr Słu ż by Wi ę ziennej bezpo ś rednio podległego Dyrektorowi Generalnemu oraz funkcjonariuszom Centralnego Zarz ą du Słu ż by Wi ę ziennej jest Minister Sprawiedliwo ś ci;
+    - **b)** ust. 8 pkt 1 i 2 otrzymują brzmienie: „1) Dyrektorowi Generalnemu, zastępcy Dyrektora Generalnego, dyrektorowi okręgowemu, Rektorowi, Komendantowi Centralnego Ośrodka Szkolenia Służby Więziennej, komendantowi ośrodka szkolenia Służby Więziennej i komendantowi ośrodka doskonalenia kadr Służby Więziennej bezpośrednio podległego Dyrektorowi Generalnemu oraz funkcjonariuszom Centralnego Zarządu Służby Więziennej – jest Minister Sprawiedliwości;
 
-- **2)** zast ę pcy dyrektora okr ę gowego, dyrektorowi zakładu karnego lub aresztu ś ledczego, prorektorowi Uczelni, zast ę pcy Komendanta Centralnego O ś rodka Szkolenia Słu ż by Wi ę ziennej, zast ę pcy komendanta o ś rodka szkolenia Słu ż by Wi ę ziennej, zast ę pcy komendanta o ś rodka doskonalenia kadr Słu ż by Wi ę ziennej bezpoś rednio podległego Dyrektorowi Generalnemu oraz funkcjonariuszom okr ę gowego inspektoratu Słu ż by Wi ę ziennej, Uczelni, Centralnego O ś rodka Szkolenia Słu ż by Wi ę ziennej, o ś rodka szkolenia Słu ż by Wi ę ziennej i o ś rodka doskonalenia kadr Słu ż by Wi ę ziennej bezpo ś rednio podległego Dyrektorowi Generalnemu jest Dyrektor Generalny;”.
+- **2)** zastępcy dyrektora okręgowego, dyrektorowi zakładu karnego lub aresztu śledczego, prorektorowi Uczelni, zastępcy Komendanta Centralnego Ośrodka Szkolenia Służby Więziennej, zastępcy komendanta ośrodka szkolenia Służby Więziennej, zastępcy komendanta ośrodka doskonalenia kadr Służby Więziennej bezpośrednio podległego Dyrektorowi Generalnemu oraz funkcjonariuszom okręgowego inspektoratu Służby Więziennej, Uczelni, Centralnego Ośrodka Szkolenia Służby Więziennej, ośrodka szkolenia Służby Więziennej i ośrodka doskonalenia kadr Służby Więziennej bezpośrednio podległego Dyrektorowi Generalnemu – jest Dyrektor Generalny;”.
 
-**Art. 2.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2018 r. poz. 200, z pó ź n. zm. ) art. 21 ust. 1 pkt 80 otrzymuje brzmienie: „80) przychody ze stosunku słu ż bowego otrzymane słu ż bie kandydackiej przez funkcjonariuszy Policji, Stra ż y Granicznej, Pa ń stwowej Stra ż y Po ż arnej i Słu ż by Wi ę ziennej;”.
+**Art. 2.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2018 r. poz. 200, z późn. zm. ) art. 21 ust. 1 pkt 80 otrzymuje brzmienie: „80) przychody ze stosunku służbowego otrzymane służbie kandydackiej przez funkcjonariuszy Policji, Straży Granicznej, Państwowej Straży Pożarnej i Służby Więziennej;”. Biura Antykorupcyjnego, Straży Granicznej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin (Dz. U. z 2018 r. poz. 132, 138 i 730) art. 5 ust. 2 otrzymuje brzmienie: „2. Podstawę wymiaru renty inwalidzkiej dla funkcjonariuszy Policji, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej służbie kandydackiej stanowi odpowiednie uposażenie zasadnicze przewidziane dla najniższego stanowiska służbowego wraz z dodatkiem za posiadany stopień, z miesiąca, którym nastąpiło zwolnienie funkcjonariusza ze służby.”.
 
-**Art. 3.** W ustawie z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpiecze ń stwa Wewn ę trznego, Agencji Wywiadu, Słu ż by Kontrwywiadu Wojskowego, Słu ż by Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Stra ż y Granicznej, Słu ż by Ochrony Pa ń stwa, Pa ń stwowej Stra ż y Po ż arnej, Słu ż by Celno-Skarbowej i Słu ż by Wi ę ziennej oraz ich rodzin (Dz. U. z 2018 r. poz. 132, 138 i 730) art. 5 ust. 2 otrzymuje brzmienie: „2. Podstaw ę wymiaru renty inwalidzkiej dla funkcjonariuszy Policji, Stra ż y Granicznej, Biura Ochrony Rz ą du, Pa ń stwowej Stra ż y Po ż arnej i Słu ż by Wi ę ziennej słu ż bie kandydackiej stanowi odpowiednie uposa ż enie zasadnicze przewidziane dla najni ż szego stanowiska słu ż bowego wraz z dodatkiem za posiadany stopie ń , z miesi ą ca, którym nast ą piło zwolnienie funkcjonariusza ze słu ż by.”.
+**Art. 4.** W ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2017 r. poz. 1383, 1386 i 2120 oraz z 2018 r. poz. 138, 357 i 730) art. 87 ust. 4 otrzymuje brzmienie: „4. Zasady, o której mowa ust. 3, nie stosuje się, jeżeli zmniejszenie podstawy wymiaru składek poniżej minimalnego wynagrodzenia nastąpiło na skutek pobierania wynagrodzenia za czas niezdolności do pracy wypłaconego na podstawie przepisów Kodeksu pracy, zasiłków i świadczenia rehabilitacyjnego z ubezpieczenia chorobowego lub z ubezpieczenia wypadkowego. Zasady tej nie stosuje się również, jeżeli podstawę wymiaru składek na ubezpieczenia emerytalne i rentowe stanowiła kwota zasiłku stałego z pomocy społecznej, świadczenia pielęgnacyjnego lub specjalnego zasiłku opiekuńczego określonych przepisach o świadczeniach rodzinnych lub zasiłku dla opiekuna określonego przepisach o ustaleniu i wypłacie zasiłków dla opiekunów, oraz do: pracowników, o których mowa art. 6 ust. 2 ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2017 r. poz. 847 oraz z 2018 r. poz. 650), żołnierzy niezawodowych służbie czynnej, ubezpieczonych odbywających służbę zastępczą, a także pozostających służbie kandydackiej funkcjonariuszy Policji, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej.”.
 
-**Art. 4.** W ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpiecze ń Społecznych (Dz. U. z 2017 r. poz. 1383, 1386 i 2120 oraz z 2018 r. poz. 138, 357 i 730) art. 87 ust. 4 otrzymuje brzmienie: „4. Zasady, o której mowa ust. 3, nie stosuje si ę , je ż eli zmniejszenie podstawy wymiaru składek poni ż ej minimalnego wynagrodzenia nast ą piło na skutek pobierania wynagrodzenia za czas niezdolno ś ci do pracy wypłaconego na podstawie przepisów Kodeksu pracy, zasiłków i ś wiadczenia rehabilitacyjnego z ubezpieczenia chorobowego lub z ubezpieczenia wypadkowego. Zasady tej nie stosuje si ę równie ż , je ż eli podstaw ę wymiaru składek na ubezpieczenia emerytalne i rentowe stanowiła kwota zasiłku stałego z pomocy społecznej, ś wiadczenia piel ę gnacyjnego lub specjalnego zasiłku opieku ń czego okre ś lonych przepisach o ś wiadczeniach rodzinnych lub zasiłku dla opiekuna okre ś lonego przepisach o ustaleniu i wypłacie zasiłków dla opiekunów, oraz do: pracowników, o których mowa art. 6 z 2018 r. poz. 650), niezawodowych czynnej, ubezpieczonych a także pozostających służbie kandydackiej funkcjonariuszy Policji, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej.”.
-
-**Art. 5.** W ustawie z dnia 23 grudnia 1999 r. o kształtowaniu wynagrodzeń państwowej sferze budżetowej oraz o zmianie niektórych ustaw (Dz. U. z 2018 r. poz. 373 i 730) art. 2 pkt 2 otrzymuje brzmienie: „2) pracownicy rozumie się osoby zatrudnione jednostkach, o których mowa pkt 1, oraz żołnierzy zawodowych, żołnierzy odbywających nadterminową zasadniczą służbę wojskową, żołnierzy odbywających okresową służbę wojskową, funkcjonariuszy Policji, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej i Służby Więziennej z wyjątkiem pełniących służbę kandydacką oraz funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego i Służby Celno-Skarbowej;”.
+**Art. 5.** W ustawie z dnia 23 grudnia 1999 r. o kształtowaniu wynagrodzeń państwowej sferze budżetowej oraz o zmianie niektórych ustaw (Dz. U. z 2018 r. poz. 373 i 730) art. 2 pkt 2 otrzymuje brzmienie: „2) pracownicy – rozumie się osoby zatrudnione jednostkach, o których mowa pkt 1, oraz żołnierzy zawodowych, żołnierzy odbywających nadterminową zasadniczą służbę wojskową, żołnierzy odbywających okresową służbę wojskową, funkcjonariuszy Policji, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej i Służby Więziennej – z wyjątkiem pełniących służbę kandydacką – oraz funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego i Służby Celno-Skarbowej;”.
 
 **Art. 6.** W ustawie z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2017 r. poz. 1952 oraz z 2018 r. poz. 107, 138, 650 i 730) art. 3 pkt 1 lit. c tiret dwunaste otrzymuje brzmienie: „– należności pieniężne ze stosunku służbowego otrzymywane czasie służby kandydackiej przez funkcjonariuszy Policji, Państwowej Straży Pożarnej, Straży Granicznej, Biura Ochrony Rządu i Służby Więziennej, obliczone za okres, którym osoby te uzyskały dochód,”.
 
 **Art. 7.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2017 r. poz. 1938, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 8.** W ustawie z dnia 27 lipca 2005 r. Prawo o szkolnictwie wy ż szym (Dz. U. z 2017 r. poz. 2183 i 2201 oraz z 2018 r. poz. 138, 398, 650 i 730) wprowadza si ę nast ę puj ą ce zmiany:
+**Art. 8.** W ustawie z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2017 r. poz. 2183 i 2201 oraz z 2018 r. poz. 138, 398, 650 i 730) wprowadza się następujące zmiany:
 
 **Art. 9.** W ustawie z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej (Dz. U. z 2017 r. poz. 1120 oraz z 2018 r. poz. 106, 138 i 730) art. 35 ust. 2 po pkt 1 dodaje się pkt 1a brzmieniu: „1a) Rektor-Komendant uczelni Służby Więziennej;”.
 
@@ -705,25 +702,19 @@ o zmianie ustawy o Słu ż bie Wi ę ziennej oraz niektórych innych ustaw
 
 **Art. 12.**
 
-1. Jednostk ę organizacyjn ą Słu ż by Wi ę ziennej, o której mowa art. 8 ust. 1 pkt 3a ustawy zmienianej art. 1 brzmieniu nadanym niniejsz ą ustaw ą , tworzy si ę terminie 3 miesi ę cy od dnia wej ś cia ż ycie niniejszej ustawy.
+1. Jednostkę organizacyjną Służby Więziennej, o której mowa art. 8 ust. 1 pkt 3a ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą, tworzy się terminie 3 miesięcy od dnia wejścia życie niniejszej ustawy.
 
-2. Jednostka organizacyjna Słu ż by Wi ę ziennej, o której mowa art. 8 ust. 1 pkt 3a ustawy zmienianej art. 1 brzmieniu nadanym niniejsz ą ustaw ą , rozpoczyna funkcjonowanie od dnia 1 stycznia 2019 r.
+2. Jednostka organizacyjna Służby Więziennej, o której mowa art. 8 ust. 1 pkt 3a ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą, rozpoczyna funkcjonowanie od dnia 1 stycznia 2019 r.
 
-**Art. 13.** Post ę powanie kwalifikacyjne, o którym mowa art. 39 ustawy zmienianej art. 1, rozpocz ę te i niezako ń czone przed dniem wej ś cia ż ycie ustawy prowadzi si ę na podstawie przepisów dotychczasowych.
+**Art. 13.** Postępowanie kwalifikacyjne, o którym mowa art. 39 ustawy zmienianej art. 1, rozpoczęte i niezakończone przed dniem wejścia życie ustawy prowadzi się na podstawie przepisów dotychczasowych.
 
 **Art. 14.**
 
-1. Szkolenia wst ę pne, zawodowe, specjalistyczne lub doskonalenie zawodowe Słu ż bie Wi ę ziennej rozpocz ę te i niezako ń czone przed dniem wej ś cia ż ycie ustawy prowadzi si ę na podstawie przepisów dotychczasowych.
+1. Szkolenia wstępne, zawodowe, specjalistyczne lub doskonalenie zawodowe Służbie Więziennej rozpoczęte i niezakończone przed dniem wejścia życie ustawy prowadzi się na podstawie przepisów dotychczasowych.
 
-2. Szkolenia wst ę pne, zawodowe, specjalistyczne lub doskonalenie zawodowe Słu ż bie Wi ę ziennej rozpocz ę te po dniu wej ś cia ż ycie ustawy i niezako ń czone przed dniem 1 stycznia 2019 r. prowadzi si ę na podstawie przepisów dotychczasowych.
+2. Szkolenia wstępne, zawodowe, specjalistyczne lub doskonalenie zawodowe Służbie Więziennej rozpoczęte po dniu wejścia życie ustawy i niezakończone przed dniem 1 stycznia 2019 r. prowadzi się na podstawie przepisów dotychczasowych.
 
-**Art. 15.** Minister wła ś ciwy do spraw szkolnictwa wy ż szego terminie 3 miesi ę cy od dnia wej ś cia ż ycie ustawy dokona zmiany przepisów wykonawczych wydanych na podstawie art. 96 ust. 2 i art. 155 ust. 5 ustawy zmienianej art. 8 zakresie dotycz ą cym uczelni nadzorowanej przez Ministra Sprawiedliwo ś ci.
+**Art. 15.** Minister właściwy do spraw szkolnictwa wyższego terminie 3 miesięcy od dnia wejścia życie ustawy dokona zmiany przepisów wykonawczych wydanych na podstawie art. 96 ust. 2 i art. 155 ust. 5 ustawy zmienianej art. 8 zakresie dotyczącym uczelni nadzorowanej przez Ministra Sprawiedliwości. nianej art. 1 brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 6 miesięcy od dnia wejścia życie niniejszej ustawy. 2. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 119 ust. 3 i 4 oraz art. 168 ust. 9 ustawy zmienianej art. 1 zachowują moc do dnia wejścia życie nowych przepisów wykonawczych wydanych na podstawie art. 119 ust. 3 i 4 oraz art. 168 ust. 9 ustawy zmienianej art. 1, jednak nie dłużej niż przez 6 miesięcy od dnia wejścia życie niniejszej ustawy.
 
-**Art. 16.**
-
-1. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 55 i art. 205 ustawy zmienianej art. 1 zachowuj ą moc do dnia wej ś cia ż ycie przepisów wykonawczych wydanych na podstawie art. 55 i art. 205 ustawy zmienianej art. 1 brzmieniu nadanym niniejsz ą ustaw ą , jednak nie dłu ż ej ni ż przez 6 miesi ę cy od dnia wej ś cia ż ycie niniejszej ustawy.
-
-2. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 119 ust. 3 i 4 oraz art. 168 ust. 9 ustawy zmienianej art. 1 zachowuj ą moc do dnia wej ś cia ż ycie nowych przepisów wykonawczych wydanych na podstawie art. 119 ust. 3 i 4 oraz art. 168 ust. 9 ustawy zmienianej art. 1, jednak nie dłu ż ej ni ż przez 6 miesi ę cy od dnia wej ś cia ż ycie niniejszej ustawy.
-
-**Art. 17.** Ustawa wchodzi ż ycie po upływie 14 dni od dnia ogłoszenia, z wyj ą tkiem art. 1 pkt 10 i 12 oraz art. 5, które wchodz ą ż ycie z dniem 1 stycznia 2019 r. Prezydent Rzeczypospolitej Polskiej: A. Duda SZCZEGÓŁOWY PODZIAŁ KWOT PRZEZNACZONYCH NA REALIZACJĘ PROGRAMU NA POSZCZEGÓLNE PRZEDSIĘWZIĘCIA W SŁUŻBIE WIĘZIENNEJ W TYSIĄCACH ZŁOTYCH Lp. Wyszczególnienie 2017 r. 2018 r. 2019 r. 2020 r. RAZEM 1 Zakup uzbrojenia 5 220 2 820 2 016 2 016 12 072 2 Zakup sprzętu i wyposażenia 2 193 2 193 2 193 2 193 8 772 specjalnego 3 Zakup i modernizacja urządzeń zabez- 2 735 6 775 5 425 5 615 20 550 pieczenia techniczno-ochronnego oraz sprzętu ratowniczo-pożarniczego 4 Termomodernizacja obiektów budow- 10 000 32 985 33 444 40 221 116 650 lanych 5 Zapewnienie bezpieczeństwa elektro- 5 223 1 666 365 200 7 454 energetycznego jednostek penitencjarnych 6 Budowa nowych jednostek organizacyjnych Słu ż by Wi ę ziennej oraz rozbudowa i poprawa infrastruktury budowlanej 42 442 173 343 159 016 139 525 514 326 7 Zakup i wymiana taboru samochodo- 14 800 14 060 7 780 11 800 48 440 wego 8 Modernizacja systemów informatycznych i systemów ł ą czno ś 2 000 22 800 8 000 7 100 39 900 ci 9 Modernizacja podmiotów leczniczych dla osób pozbawionych wolno ś 11 916 30 065 8 014 6 000 55 995 ci 10 Zmiana systemu zatrudniania persone- 9 600 9 600 9 600 9 600 38 400 lu medycznego 11 Wzmocnienie systemu motywacyjnego uposa ż e ń funkcjonariuszy Słu ż by Wi ę 88 277 95 187 203 081 211 526 598 071 ziennej, z tego wzrost wielokrotno ś ci kwoty bazowej 83 883 90 793 193 317 201 762 569 755 do poziomu 3,19 wydatki relacjonowane do uposa ż e ń 4 394 4 394 9 764 9 764 28 316 12 Wzrost konkurencyjno ś ci wynagrodze ń pracowników cywilnych Słu ż by Wi ę ziennej, z tego 6 162 6 686 14 079 14 708 41 635 wzrost wynagrodze ń 5 140 5 576 11 741 12 265 34 722 pochodne od wynagrodze ń 1 022 1 110 2 338 2 443 6 913 Razem 200 568 398 180 453 013 450 504 1 502 265 tym Ź ródła finansowania: Budżet CZSW 80 568 123 832 140 885 235 834 581 119 Rezerwa celowa 120 000 274 348 312 128 214 670 921 146
+**Art. 17.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 10 i 12 oraz art. 5, które wchodzą życie z dniem 1 stycznia 2019 r. Prezydent Rzeczypospolitej Polskiej: A. Duda SZCZEGÓŁOWY PODZIAŁ KWOT PRZEZNACZONYCH NA REALIZACJĘ PROGRAMU NA POSZCZEGÓLNE PRZEDSIĘWZIĘCIA W SŁUŻBIE WIĘZIENNEJ W TYSIĄCACH ZŁOTYCH Lp. Wyszczególnienie 2017 r. 2018 r. 2019 r. 2020 r. RAZEM 1 Zakup uzbrojenia 5 220 2 820 2 016 2 016 12 072 2 Zakup sprzętu i wyposażenia 2 193 2 193 2 193 2 193 8 772 specjalnego 3 Zakup i modernizacja urządzeń zabez- 2 735 6 775 5 425 5 615 20 550 pieczenia techniczno-ochronnego oraz sprzętu ratowniczo-pożarniczego 4 Termomodernizacja obiektów budow- 10 000 32 985 33 444 40 221 116 650 lanych 5 Zapewnienie bezpieczeństwa elektroe- 5 223 1 666 365 200 7 454 nergetycznego jednostek penitencjarnych 6 Budowa nowych jednostek organizacyjnych Służby Więziennej oraz rozbudowa i poprawa infrastruktury budowlanej 42 442 173 343 159 016 139 525 514 326 7 Zakup i wymiana taboru samochodo- 14 800 14 060 7 780 11 800 48 440 wego 8 Modernizacja systemów informatycz- 2 000 22 800 8 000 7 100 39 900 nych i systemów łączności 9 Modernizacja podmiotów leczniczych 11 916 30 065 8 014 6 000 55 995 dla osób pozbawionych wolności 10 Zmiana systemu zatrudniania perso- 9 600 9 600 9 600 9 600 38 400 nelu medycznego 11 Wzmocnienie systemu motywacyj- 88 277 95 187 203 081 211 526 598 071 nego uposażeń funkcjonariuszy Służby Więziennej, z tego wzrost wielokrotności kwoty bazowej 83 883 90 793 193 317 201 762 569 755 do poziomu 3,19 wydatki relacjonowane do uposażeń 4 394 4 394 9 764 9 764 28 316 12 Wzrost konkurencyjności wynagro- 6 162 6 686 14 079 14 708 41 635 dzeń pracowników cywilnych Służby Więziennej, z tego wzrost wynagrodzeń 5 140 5 576 11 741 12 265 34 722 pochodne od wynagrodzeń 1 022 1 110 2 338 2 443 6 913 Razem 200 568 398 180 453 013 450 504 1 502 265 tym Źródła finansowania: Budżet CZSW 80 568 123 832 140 885 235 834 581 119 Rezerwa celowa 120 000 274 348 312 128 214 670 921 146
 

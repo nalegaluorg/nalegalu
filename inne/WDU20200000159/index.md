@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 31 stycznia 2020 r.
+# w sprawie ogłoszenia jednolitego tekstu ustawy o izbach morskich
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 9 stycznia 2020 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000159) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/159/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 9 stycznia 2020 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o izbach morskich
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 1 grudnia 1961 r. o izbach morskich (Dz. U. z 2016 r. poz. 1207), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 21 lutego 2019 r. o zmianie niektórych ustaw w związku z zapewnieniem stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. U. poz. 730) oraz zmian wynikających z przepisów ogłoszonych przed dniem 9 stycznia 2020 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje odnośnika nr 1 oraz art. 173 ustawy z dnia 21 lutego 2019 r. o zmianie niektórych ustaw w związku z zapewnieniem stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. U. poz. 730), które stanowią: „ Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1 oraz Dz. Urz. UE L 127 z 23.05.2018, str. 2).” „Art. 173. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 1) art. 87 pkt 1, który wchodzi w życie po upływie 90 dni od dnia ogłoszenia;
@@ -178,7 +178,8 @@ po czym izba morska wysłuchuje wyjaśnień osób zainteresowanych, a następnie
 1) wykonywania określonych niższych uprawnień w żegludze morskiej przez czas oznaczony;
 2) wykazania koniecznych umiejętności w trybie przewidzianym przepisami o kwalifikacjach w żegludze morskiej;
 3) odbycia w częściowym lub pełnym zakresie praktyki, która była wymagana do uzyskania dotychczasowych uprawnień.
-3. Izba morska może na posiedzeniu, w tym samym składzie, w którym orzekła o pozbawieniu zainteresowanego prawa wykonywania uprawnień w żegludze morskiej, postanowić o zawieszeniu prawa wykonywania tych uprawnień przez zainteresowanego do czasu ostatecznego zakończenia postępowania, jeżeli uzasadniają to względy bezpieczeństwa żeglugi. Na postanowienie to zainteresowanemu przysługuje zażalenie.
+3. Izba morska może na posiedzeniu, w tym samym składzie, w którym orzekła o pozbawieniu zainteresowanego prawa wykonywania uprawnień w żegludze morskiej, postanowić o zawieszeniu prawa wykonywania tych uprawnień przez zainteresowanego do czasu ostatecznego zakończenia postępowania, jeżeli uzasadniają to względy bezpieczeństwa żeglugi.
+Na postanowienie to zainteresowanemu przysługuje zażalenie.
 4. Dokumenty określające uprawnienia w żegludze morskiej członków załóg statków i pilotów oraz organy właściwe do ich wydawania określają odrębne przepisy.
 5. Przepisów ust. 1–3 nie stosuje się do członków załóg jednostek pływających Marynarki Wojennej, Straży Granicznej i Policji.
 36. 1. Sentencja orzeczenia powinna zawierać:
@@ -189,7 +190,8 @@ po czym izba morska wysłuchuje wyjaśnień osób zainteresowanych, a następnie
 5) dokładne ustalenie przyczyn wypadku ze wskazaniem o ile to możliwe statku i osób, których wina spowodowała wypadek, oraz z określeniem stopnia, w jakim przyczyniły się do wypadku, albo stwierdzenie uzasadnionych wątpliwości co do przyczyny wypadku bądź stwierdzenie niemożności jej ustalenia;
 6) wskazanie ujawnionych wad i braków w budowie statku, jego wyposażeniu, załadowaniu lub obsadzeniu załogą, w stanie toru wodnego lub urządzeniach oznakowania nawigacyjnego oraz uchybień w działalności i wad w organizacji instytucji służących bezpieczeństwu żeglugi morskiej;
 7) ocenę prawidłowości zachowania się statku po wypadku oraz w razie potrzeby prawidłowości czynności ratowniczych.
-2. Jeżeli izba morska stosuje środek, o którym mowa w art. 35 ust. 1 i 2, rozstrzygnięcie o tym powinno być zawarte w sentencji orzeczenia.
+w sentencji orzeczenia.
+37. 1. W sprawie zawiłej izba morska może odroczyć wydanie orzeczenia na czas nie dłuższy niż 14 dni.
 2. Po podpisaniu sentencji orzeczenia przez członków składu orzekającego przewodniczący ogłasza ją i przytacza ważniejsze powody orzeczenia, po czym sporządza się uzasadnienie orzeczenia na piśmie. Uzasadnienie powinno być sporządzone w terminie 14 dni od ogłoszenia sentencji, a w sprawach zawiłych w terminie do 30 dni.
 3. Ogłoszenie sentencji może nastąpić bez udziału ławników.
 38. Uzasadnienie orzeczenia powinno zawierać:
@@ -249,8 +251,8 @@ Wznowienie postępowania
 2. Niezależnie od środków zastosowanych na podstawie ust. 1 izba morska może zarządzić przymusowe sprowadzenie świadka, a biegłego i tłumacza tylko w przypadkach wyjątkowych.
 3. Izba morska zwalnia świadka, biegłego lub tłumacza od nałożonych środków przymusu i zwrotu kosztów, jeżeli świadek, biegły lub tłumacz w ciągu dwóch tygodni od zawiadomienia go udowodni, że niestawiennictwo jego było usprawiedliwione.
 4. Niezależnie od skutków niestawiennictwa na rozprawie, świadek, biegły i zainteresowany lub jego pracownik mogą być zobowiązani do zwrotu kosztów wywołanych oczywistą ich winą. Postanowienie izby morskiej w przedmiocie zwrotu kosztów zapada po wysłuchaniu osoby, której zarzucono winę.
-57. Przepisy art. 56 ust. 1 i 3 mają również zastosowanie w razie nieusprawiedliwionej odmowy złożenia zeznań lub przyrzeczenia, przy czym w razie ponownej odmowy izba morska może nałożyć na świadka ponownie karę pieniężną w wysokości do 4500 zł.
-art. 56 ust. 4 i art. 57 służy zażalenie.
+lub przyrzeczenia, przy czym w razie ponownej odmowy izba morska może nałożyć na świadka ponownie karę pieniężną w wysokości do 4500 zł.
+58. Na postanowienie odmowne wydane na podstawie art. 56 ust. 3 oraz na postanowienia wydane na podstawie art. 56 ust. 4 i art. 57 służy zażalenie.
 59. 1. Izba morska może nałożyć na winnych nieprzestrzegania przepisu art. 28 ust. 2 karę pieniężną w wysokości do 5000 zł.
 2. Na postanowienie wydane na podstawie ust. 1 służy zażalenie.
 60. Ostateczne postanowienie wydane na podstawie art. 56 ust. 1, art. 57 i art. 59 ust. 1 oraz ostateczne postanowienie wydane w przedmiocie zwrotu kosztów, zaopatrzone w zaświadczenie przewodniczącego izby morskiej, iż podlega wykonaniu, stanowi tytuł wykonawczy dla egzekucji sądowej.

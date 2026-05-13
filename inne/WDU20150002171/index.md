@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 22 grudnia 2015 r.
+# zmieniająca ustawę o zmianie ustawy o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko oraz niektórych innych ustaw
+
+*USTAWA z dnia 16 grudnia 2015 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +25,6 @@ domain: null
 | Data wydania | 2015-12-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150002171) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/2171/text.pdf) |
-
-Poz. 2171
-USTAWA z dnia 16 grudnia 2015 r.
-zmieniająca ustawę o zmianie ustawy o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko oraz niektórych innych ustaw
 
 **Art. 1.** W ustawie z dnia 9 października 2015 r. o zmianie ustawy o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko oraz niektórych innych ustaw (Dz. U. poz. 1936) art. 14 otrzymuje brzmienie: „Art. 14. Ustawa wchodzi w życie z dniem 1 stycznia 2017 r., z wyjątkiem art. 1 pkt 34 lit. a–f, pkt 35 lit. a, pkt 38, 45 i 53 oraz art. 7 ust. 1, które wchodzą w życie po upływie 30 dni od dnia ogłoszenia.”.
 

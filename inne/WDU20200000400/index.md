@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 11 marca 2020 r.
+# o zmianie ustawy o transporcie kolejowym oraz niektórych innych ustaw
+
+*USTAWA z dnia 13 lutego 2020 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,10 +26,9 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000400) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/400/text.pdf) |
 
-USTAWA z dnia 13 lutego 2020 r.
-o zmianie ustawy o transporcie kolejowym oraz niektórych innych ustaw
-
 **Art. 1.** W ustawie z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2019 r. poz. 710, 730, 1214, 1979 i 2020 oraz z 2020 r. poz. 284) wprowadza się następujące zmiany:
+
+**Art. 2.** W ustawie z dnia 8 września 2000 r. o komercjalizacji i restrukturyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe” (Dz. U. z 2020 r. poz. 292) art. 15 uchyla się ust. 6a i 6b.
 
 **Art. 3.** W ustawie z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym (Dz. U. z 2019 r. poz. 2475 i 2493) wprowadza się następujące zmiany:
 
@@ -37,11 +38,11 @@ o zmianie ustawy o transporcie kolejowym oraz niektórych innych ustaw
 
 2. Do nowych kolejowych przewozów pasażerskich, przypadku których aplikant, o którym mowa art. 4 pkt 9b ustawy zmienianej art. 1, powiadomił o zamiarze ich wprowadzenia terminie umożliwiającym rozpoczęcie ich wykonywania przed dniem 12 grudnia 2020 r., stosuje się przepisy rozporządzenia wykonawczego Komisji (UE) nr 869/2014 z dnia 11 sierpnia 2014 r. sprawie nowych kolejowych przewozów pasażerskich (Dz. Urz. UE L 239 z 12.08.2014, str. 1).
 
-**Art. 5.** Zarządca infrastruktury, o którym mowa art. 4 pkt 7 ustawy zmienianej art. 1, dostosuje plan minimalizowania zakłóceń i poprawy wyników sieci kolejowej, o którym mowa art. 30f ust. 4 ustawy zmienianej art. 1, do wymagań określonych art. 30f ust. 4 ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą, nie później niż terminie 3 miesięcy od dnia wejścia życie niniejszej ustawy.
+**Art. 5.** Zarządca infrastruktury, o którym mowa art. 4 pkt 7 ustawy zmienianej art. 1, dostosuje plan minimalizowania zakłóceń i poprawy wyników sieci kolejowej, o którym mowa art. 30f ust. 4 ustawy zmienianej art. 1, do wymagań określonych art. 30f ust. 4 ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą, nie później niż terminie 3 miesięcy od dnia wejścia życie niniejszej ustawy. pkt 1 ustawy zmienianej art. 1, nie później niż terminie 2 miesięcy od dnia ogłoszenia niniejszej ustawy.
 
-**Art. 6.** PKP Polskie Linie Kolejowe Spółka Akcyjna po raz pierwszy przeprowadzi konsultacje wytycznych, o których mowa art. 32 ust. 1b pkt 1 ustawy zmienianej art. 1, oraz wytycznych, o których mowa art. 38f ust. 2b pkt 1 ustawy zmienianej art. 1, nie później niż terminie 2 miesięcy od dnia ogłoszenia niniejszej ustawy.
+**Art. 7.** Do zainteresowania dostępem do obiektu, o którym mowa art. 36a ust. 5 ustawy zmienianej art. 1 brzmieniu dotychczasowym, zgłoszonego przed dniem wejścia życie niniejszej ustawy, stosuje się przepis art. 36a ust. 5 ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą.
 
-**Art. 7.** Do zainteresowania dostępem do obiektu, o którym mowa art. 36a ust. 5 ustawy zmienianej art. 1 brzmieniu dotychczasowym, zgłoszonego przed dniem wejścia życie niniejszej ustawy, stosuje się przepis art. 36a ust. 5 ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą. niniejszej ustawy zachowują ważność przez okres, na jaki zostały zawarte, oraz zostaną dostosowane do wymagań określonych załączniku nr 3 do ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą, nie później niż terminie 12 miesięcy od dnia wejścia życie niniejszej ustawy.
+**Art. 8.** Umowy, o których mowa art. 38a ust. 5 ustawy zmienianej art. 1, zawarte przed dniem wejścia życie niniejszej ustawy zachowują ważność przez okres, na jaki zostały zawarte, oraz zostaną dostosowane do wymagań określonych załączniku nr 3 do ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą, nie później niż terminie 12 miesięcy od dnia wejścia życie niniejszej ustawy.
 
 **Art. 9.** Zarządca infrastruktury, o którym mowa art. 4 pkt 7 ustawy zmienianej art. 1, dostosuje plan biznesowy, o którym mowa art. 38f ust. 1 ustawy zmienianej art. 1, opracowany przed dniem wejścia życie niniejszej ustawy, do wymagań określonych art. 38f ust. 1 ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą, nie później niż terminie 3 miesięcy od dnia wejścia życie niniejszej ustawy.
 

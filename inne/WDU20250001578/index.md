@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, 18 listopada 2025 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy praktykach absolwenckich
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ 7 listopada 2025 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2025-11-20 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001578) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1578/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ 7 listopada 2025 r.
-sprawie ogłoszenia jednolitego tekstu ustawy praktykach absolwenckich
 1. Na podstawie 16 ust. 1 zdanie pierwsze ustawy 20 lipca 2000 r. ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy 17 lipca 2009 r. praktykach absolwenckich (Dz. U. 2018 r. poz. 1244), uwzględnieniem zmian wprowadzonych ustawą 20 marca 2025 r. rynku pracy i służbach zatrudnienia (Dz. U. poz. 620) oraz zmian wynikających przepisów ogłoszonych przed dniem 6 listopada 2025 r.
 Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje 461 ustawy 20 marca 2025 r. rynku pracy i służbach zatrudnienia (Dz. U. poz. 620), który stanowi: „Art. 461. Ustawa wchodzi życie pierwszego miesiąca następującego po upływie 14 dni od ogłoszenia, wyjątkiem:
 1) 392 2 lit. b oraz 458, które wchodzą życie dniem następującym po dniu ogłoszenia;

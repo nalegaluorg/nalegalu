@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 czerwca 2023 r.
+# w sprawie ogłoszenia jednolitego tekstu ustawy o organizacji rynku mleka i przetworów mlecznych
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 25 maja 2023 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001228) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1228/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 25 maja 2023 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o organizacji rynku mleka i przetworów mlecznych
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 20 kwietnia 2004 r. o organizacji rynku mleka i przetworów mlecznych (Dz. U. z 2022 r. poz. 381), z uwzględnieniem zmian wprowadzonych ustawą z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. poz. 412) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 maja 2023 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 169 ustawy z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. poz. 412), który stanowi: „Art. 169. Ustawa wchodzi w życie z dniem 15 marca 2023 r., z wyjątkiem:
 1) art. 145, który wchodzi w życie po upływie 2 miesięcy od dnia ogłoszenia;

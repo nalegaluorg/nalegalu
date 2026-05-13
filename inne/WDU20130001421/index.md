@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 3 grudnia 2013 r.
+# o zmianie ustawy o uprawnieniach do ulgowych przejazdów środkami publicznego transportu zbiorowego oraz ustawy – Karta Nauczyciela
+
+*USTAWA z dnia 11 października 2013 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +25,6 @@ domain: null
 | Data wydania | 2013-12-03 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001421) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1421/text.pdf) |
-
-Poz. 1421
-USTAWA z dnia 11 października 2013 r.
-o zmianie ustawy o uprawnieniach do ulgowych przejazdów środkami publicznego transportu zbiorowego oraz ustawy – Karta Nauczyciela
 
 **Art. 1.** W ustawie z dnia 20 czerwca 1992 r. o uprawnieniach do ulgowych przejazdów środkami publicznego transportu zbiorowego (Dz. U. z 2012 r. poz. 1138) wprowadza się następujące zmiany:
 

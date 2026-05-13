@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# Warszawa, dnia 28 grudnia
+# Ustawa z dnia 4 listopada 1999 r. o zmianie ustawy o niektórych formach popierania budownictwa mieszkaniowego oraz o zmianie niektórych ustaw.
 
 | Pole | Wartość |
 |---|---|
@@ -24,15 +24,13 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19991081226) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1999/1226/text.pdf) |
 
-USTAWA dnia 4 listopada zmianie ustawy niektórych formach popierania budownictwa mieszkaniowego zmianie niektórych ustaw.
+**Art. 1.** W ustawie dnia 26 października 1995 r. niektórych formach popierania budownictwa mieszkaniowego zmianie niektórych ustaw (Dz.U. Nr 133, poz. 654, 1996 r. Nr 106, poz. 496 Nr 156, poz. 775, 1997 r. Nr 80, poz. 507, Nr 103, poz. 651, Nr 115, poz. 741, Nr 140, poz. 939 Nr 141, poz. 943 1998 r. Nr 162, poz. 1121) wprowadza następujące zmiany:
 
-**Art. 1.** W ustawie dnia 26 1995 niektórych formach popierania budownictwa miesz kaniowego zmianie niektórych ustaw 133, 654, 1996 106, 496 156, poz.775, 80, 507, 103, 651, 115, 741, 140, 939 141, 943 1998 162, 1121) wprowadza ce zmiany:
+**Art. 2.** W ustawie dnia 14 grudnia 1990 r. zniesieniu likwidacji niektórych funduszy (Dz.U. Nr 89, poz. 517 1995 r. Nr 133, poz. 654) skreśla art. 14a.
 
-**Art. 2.** W ustawie dnia 14 grudnia 1990 znie
+**Art. 3.** Dotychczasowe przepisy wykonawcze wydane podstawie art. 21 ustawy, której art. 1, zachowują moc do czasu wydania przepisów wykonawczych, podstawie art. 19 4 brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez okres 6 miesięcy od dnia ogłoszenia niniejszej ustawy, ile nie są nią sprzeczne.
 
-**Art. 4.** Prezes Rady Ministrów Dzienniku Rzeczypospolitej Polskiej, terminie 3 cy od dnia ustawy, jednolity tekst ustawy dnia 26 1995 niektórych formach pood dnia Prezydent Rzeczypospolitej Polskiej: A. 1227 USTAWA dnia 3 grudnia zmianie ustawy ewidencji dowodach osobistych ustawy gospodarczej.
+**Art. 4.** Prezes Rady Ministrów ogłosi Dzienniku Ustaw Rzeczypospolitej Polskiej, terminie 3 miesięcy od dnia ogłoszenia ustawy, jednolity tekst ustawy dnia 26 października 1995 r. niektórych formach popierania budownictwa mieszkaniowego, uwzględnieniem zmian wynikających przepisów ogłoszonych przed dniem wydania jednolitego tekstu.
 
-**Art. 1.** W ustawie dnia 20 sierpnia zmia nie ustawy ewidencji dowodach osobi stych ustawy gospodarczej 113, 733 1998 113, 716) wprowa dza zmiany:
-
-**Art. 2.** Ustawa wchodzi dniem 31 grudnia Prezydent Rzeczypospolitej Polskiej: A. 1228 MINISTRA ZDROWIA dnia 21 grudnia sprawie ustalenia limitów cen leków, preparatów diagnostycznych jednorazowego wydawanych ubezpieczonym za lub za Na podstawie art. 38 ust. 6 art. 39 ust. 3 ustawy dnia 6 lutego powszechnym ubezpieczeniu zdrowotnym 28, 153 75, 468, 1998 117, 756, 137, 887, 144, 929 162, 1116 45, 439, 49, 483, 63, 700, 70, 777 72, 802) co 1. 1. Ustala limity cen:
+**Art. 5.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia.
 

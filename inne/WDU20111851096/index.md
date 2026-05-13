@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# Ustawa z dnia 29 lipca 2011 r. o nadaniu nowej nazwy Uniwersytetowi Humanistyczno-Przyrodniczemu Jana Kochanowskiego w Kielcach
+# o nadaniu nowej nazwy Uniwersytetowi Humanistyczno-Przyrodniczemu Jana Kochanowskiego w Kielcach
+
+*USTAWA z dnia 29 lipca 2011 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,5 +26,7 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111851096) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/1096/text.pdf) |
 
-**Art. 1.** Uniwersytetowi Humanistyczno-Przyrodni- Art. 2. Ustawa wchodzi w życie z dniem 1 paździerczemu Jana Kochanowskiego w Kielcach nadaje się nika 2011 r. nazwę „Uniwersytet Jana Kochanowskiego w Kielcach”. Prezydent Rzeczypospolitej Polskiej: B. Komorowski 1096 USTAWA z dnia 29 lipca 2011 r. o nadaniu nowej nazwy Uniwersytetowi Humanistyczno-Przyrodniczemu Jana Kochanowskiego w Kielcach w w . r c l . g o v . p
+**Art. 1.** Uniwersytetowi Humanistyczno-Przyrodniczemu Jana Kochanowskiego w Kielcach nadaje się nazwę „Uniwersytet Jana Kochanowskiego w Kielcach”.
+
+**Art. 2.** Ustawa wchodzi w życie z dniem 1 października 2011 r.
 

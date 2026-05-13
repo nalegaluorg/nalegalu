@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 17 czerwca 2025 r.
+# w sprawie ogłoszenia jednolitego tekstu ustawy o społeczno-zawodowych organizacjach rolników Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 8 października 1982 r. o społeczno-zawodowych organizacjach rolników (Dz. U. z 2024 r. poz. 263), z uwzględnieniem zmian wprowadzonych ustawą z dnia 11 października 2024 r. o zmianie ustawy o kołach gospodyń wiejskich oraz ustawy o społeczno-zawodowych organizacjach rolników (Dz. U. poz. 1560) oraz zmian wynikających z przepisów ogłoszonych przed dniem 26 maja 2025 r.
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 11 czerwca 2025 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2025-06-20 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000781) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/781/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 11 czerwca 2025 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o społeczno-zawodowych organizacjach rolników Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 8 października 1982 r. o społeczno-zawodowych organizacjach rolników (Dz. U. z 2024 r. poz. 263), z uwzględnieniem zmian wprowadzonych ustawą z dnia 11 października 2024 r. o zmianie ustawy o kołach gospodyń wiejskich oraz ustawy o społeczno-zawodowych organizacjach rolników (Dz. U. poz. 1560) oraz zmian wynikających z przepisów ogłoszonych przed dniem 26 maja 2025 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 4 i art. 6 ustawy z dnia 11 października 2024 r. o zmianie ustawy o kołach gospodyń wiejskich oraz ustawy o społeczno-zawodowych organizacjach rolników (Dz. U. poz. 1560), które stanowią: „Art. 4. Koło gospodyń wiejskich wpisane do Krajowego Rejestru Kół Gospodyń Wiejskich przed dniem wejścia w życie niniejszej ustawy, które jest zrzeszone w gminnym związku rolników, kółek i organizacji rolniczych, wojewódzkim związku rolników, kółek i organizacji rolniczych albo Krajowym Związku Rolników, Kółek i Organizacji Rolniczych, o których mowa w ustawie z dnia 8 października 1982 r. o społeczno-zawodowych organizacjach rolników (Dz. U. z 2024 r. poz. 263 i 1560), przekazuje kierownikowi biura powiatowego Agencji Restrukturyzacji i Modernizacji Rolnictwa właściwemu ze względu na siedzibę tego koła informację o zrzeszeniu w tym związku w terminie 3 miesięcy od dnia wejścia w życie niniejszej ustawy.” „Art. 6. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
 Marszałek Sejmu: S. Hołownia
 USTAWA z dnia 8 października 1982 r.
@@ -82,7 +82,7 @@ Podjęcie akcji protestacyjnej wymaga ponadto uzgodnienia z właściwym statutow
 5) likwidacji szkód losowych i łowieckich.
 2. Organy, jednostki organizacyjne i organizacje poddane kontroli, o której mowa w ust. 1, obowiązane są umożliwić wykonywanie tej kontroli.
 3. Rada Ministrów, po zasięgnięciu opinii Krajowego Związku Rolników, Kółek i Organizacji Rolniczych, w drodze rozporządzenia, określa obowiązki organów, jednostek organizacyjnych i organizacji w zakresie kontroli, o której mowa w ust. 1, sposób ujmowania i przedstawiania wyników tych kontroli oraz tryb realizacji wniosków pokontrolnych.
-czego, społecznego i socjalnego na wsi, a także kształtowania społecznych wzorów postępowania i postaw obywatelskich, organizacje rolników mogą, w szczególności:
+organizacje rolników mogą, w szczególności:
 1) inicjować i udzielać pomocy w rozwijaniu i wdrażaniu postępu rolniczego, technicznego i socjalnego w indywidualnych gospodarstwach rolnych i wiejskich gospodarstwach domowych oraz upowszechniać doświadczenia przodujących rolników;
 2) udzielać pomocy w podnoszeniu produkcji gospodarstw rolnych oraz rozwijaniu przez nie specjalizacji i kooperacji;
 3) udzielać rolnikom rady i pomocy w wyborze oraz stosowaniu racjonalnych form i metod gospodarowania, stosowaniu właściwych zabiegów i środków agrotechnicznych, zootechnicznych oraz technologii w produkcji rolniczej, przechowalnictwie i przetwórstwie produktów rolnych;
@@ -108,7 +108,6 @@ Przedstawiciel organizacji rolników może być pełnomocnikiem rolnika w sprawa
 5) inicjować i organizować czyny społeczne.
 2. Rada Ministrów, po zasięgnięciu opinii Krajowego Związku Rolników, Kółek i Organizacji Rolniczych, w drodze rozporządzenia, określa warunki i formy organizowania i prowadzenia przez organizacje rolników działalności gospodarczej, określonej w ust. 1 pkt 1–3.
 13. W zakresie spraw określonych w art. 11 ust. 1 i art. 12 ust. 1 organizacje rolników współdziałają z innymi organizacjami społecznymi i gospodarczymi rolników, a także państwowymi przedsiębiorstwami gospodarki rolnej i rolniczymi spółdzielniami produkcyjnymi oraz innymi jednostkami i organizacjami działającymi na rzecz rolnictwa; w razie potrzeby organizacje rolników zawierają z tymi organizacjami odpowiednie porozumienia i umowy o współpracy bądź realizacji wspólnych zadań.
-ich działalność gospodarczą, stan i zmiany składników majątkowych oraz sporządzają rachunek wyników tej działalności.
 14a. Organizacje rolników mogą przystępować do:
 1) międzynarodowych organizacji rolniczych;
 2) ponadnarodowych organizacji rolniczych reprezentujących interesy zawodowe rolników indywidualnych wobec instytucji Unii Europejskiej.
@@ -139,7 +138,6 @@ ich działalność gospodarczą, stan i zmiany składników majątkowych oraz sp
 15) sposób zmiany statutu;
 16) tryb likwidacji kółka.
 2. W strukturze organizacyjnej kółka statut może przewidywać powoływanie sekcji, kół bądź zespołów specjalistycznych, odpowiadających zainteresowaniom członków (producentów określonych upraw, hodowców i innych), oraz zespołów młodych rolników i innych.
-osób prowadzących gospodarstwa rolne jako ich właściciele, posiadacze lub użytkownicy.
 2. Osoby, o których mowa w ust. 1, będące członkami założycielami, wybierają spośród siebie komitet założycielski oraz uchwalają statut kółka rolniczego.
 18. Kółko rolnicze podlega obowiązkowi rejestracji w Krajowym Rejestrze Sądowym, zwanym dalej „rejestrem”.
 2. Rejestracji podlegają także zmiany statutu kółka rolniczego; przez zmianę statutu rozumie się również uchwalenie przez istniejące kółko nowego statutu.
@@ -179,7 +177,7 @@ Gminne i wojewódzkie związki rolników, kółek i organizacji rolniczych
 33. Krajowy Związek Rolników, Kółek i Organizacji Rolniczych, zwany dalej „Krajowym Związkiem”, jest ogólnopolskim, niezależnym i samorządnym zrzeszeniem kółek rolniczych, związków rolników, kółek i organizacji rolniczych oraz na zasadach dobrowolności kół gospodyń wiejskich wpisanych do Krajowego Rejestru Kół Gospodyń Wiejskich, o którym mowa w art. 6 ust. 1 ustawy z dnia 9 listopada 2018 r. o kołach gospodyń wiejskich, a także krajowych związków rolniczych zrzeszeń branżowych i innych organizacji rolników.
 2. Krajowy Związek stanowi naczelną reprezentację rolników indywidualnych.
 3. Krajowy Związek posiada osobowość prawną.
-ników, kółek i organizacji rolniczych oraz innych zrzeszonych w nim organizacji. Krajowy zjazd uchwala także zmiany w statucie.
+w statucie.
 2. W wypadku uchwalenia zmiany statutu dotychczasowego bądź nowego statutu, do czasu ich rejestracji obowiązuje statut dotychczasowy.
 3. Statut Krajowego Związku powinien określać w szczególności:
 1) cele i zadania Krajowego Związku;
@@ -228,7 +226,7 @@ ników, kółek i organizacji rolniczych oraz innych zrzeszonych w nim organizac
 W tym też terminie statut powinien być przedstawiony do rejestracji.
 3. Do czasu rejestracji statutu, o którym mowa w ust. 2, Krajowy Związek działa na podstawie statutu dotychczasowego. Jednakże w razie sprzeczności między statutem dotychczasowym a przepisami niniejszej ustawy stosuje się przepisy tej ustawy.
 4. Przepisy ust. 2 i 3 stosuje się odpowiednio do krajowych związków rolniczych zrzeszeń branżowych niezrzeszonych w Krajowym Związku Rolników, Kółek i Organizacji Rolniczych.
-i wojewódzkie związki kółek i organizacji rolniczych, a także związki rolniczych zrzeszeń branżowych dostosują swoje statuty do wymagań ustalonych w ustawie i wystąpią o rejestrację danej organizacji i jej statutu nie później niż w terminie roku od dnia wejścia w życie ustawy.
+statuty do wymagań ustalonych w ustawie i wystąpią o rejestrację danej organizacji i jej statutu nie później niż w terminie roku od dnia wejścia w życie ustawy.
 2. Do czasu rejestracji statutów, o których mowa w ust. 1, organizacje rolników wymienione w tym przepisie działają na podstawie statutów dotychczasowych. Jednakże w razie sprzeczności między statutami dotychczasowymi a przepisami niniejszej ustawy stosuje się przepisy tej ustawy.
 43. Traci moc ustawa z dnia 6 maja 1981 r. o rejestracji kółek rolniczych oraz związków kółek i organizacji rolniczych (Dz. U. poz. 51).
 44. Ustawa wchodzi w życie z dniem ogłoszenia .

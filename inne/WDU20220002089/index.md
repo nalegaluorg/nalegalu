@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 12 października 2022 r.
+# o zmianie ustawy – Prawo oświatowe oraz ustawy o finansowaniu zadań oświatowych
+
+*USTAWA z dnia 15 września 2022 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +25,6 @@ domain: null
 | Data wydania | 2022-10-12 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002089) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2089/text.pdf) |
-
-Poz. 2089
-USTAWA z dnia 15 września 2022 r.
-o zmianie ustawy – Prawo oświatowe oraz ustawy o finansowaniu zadań oświatowych
 
 **Art. 1.** W ustawie z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2021 r. poz. 1082, z późn. zm. ) w art. 39a ust. 2 i 3 otrzymują brzmienie: „2. Zwrot kosztów jednorazowego przewozu następuje w wysokości określonej według wzoru: koszt = (a–b) × c gdzie: a – liczba kilometrów przewozu drogami publicznymi z miejsca zamieszkania do przedszkola, oddziału przedszkolnego w szkole podstawowej, innej formy wychowania przedszkolnego, ośrodka rewalidacyjno-wychowawczego, szkoły podstawowej albo szkoły ponadpodstawowej, a także przewozu rodzica z tego miejsca do miejsca zamieszkania lub miejsca pracy, i z powrotem, b – liczba kilometrów przewozu drogami publicznymi z miejsca zamieszkania rodzica do miejsca pracy i z powrotem, jeżeli nie wykonywałby przewozu, o którym mowa w lit. a, c – stawka za 1 kilometr przebiegu pojazdu. 3. Stawkę za 1 kilometr przebiegu pojazdu określa rada gminy, w drodze uchwały, przy czym stawka ta nie może być niższa niż określona w przepisach wydanych na podstawie art. 34a ust. 2 ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2022 r. poz. 180 i 209).”.
 

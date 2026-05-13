@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 4 kwietnia 2022 r.
+# o zmianie ustawy o dozorze technicznym oraz ustawy o transporcie kolejowym
+
+*USTAWA z dnia 24 lutego 2022 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +25,6 @@ domain: null
 | Data wydania | 2022-04-04 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000727) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/727/text.pdf) |
-
-Poz. 727
-USTAWA z dnia 24 lutego 2022 r.
-o zmianie ustawy o dozorze technicznym oraz ustawy o transporcie kolejowym
 
 **Art. 1.** W ustawie z dnia 21 grudnia 2000 r. o dozorze technicznym (Dz. U. z 2021 r. poz. 272 i 2269) w art. 44 w ust. 1 w pkt 1 w lit. f średnik zastępuje się przecinkiem i dodaje się lit. g w brzmieniu: „g) urządzeniami do przewozu osób lub rzeczy poruszającymi się po jednej szynie lub na poduszkach powietrznych lub magnetycznych oraz związanymi z tym przewozem urządzeniami technicznymi, innymi niż używane w transporcie kolejowym i transporcie linowo-terenowym;”.
 

@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 31 stycznia 2022 r.
+# o Krajowej Szkole Sądownictwa i Prokuratury
+
+*USTAWA z dnia 23 stycznia 2009 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,46 +26,7 @@ domain: null
 | Ostatnia zmiana | 2026-04-09 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000217) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/217/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 2 grudnia 2021 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o Krajowej Szkole Sądownictwa i Prokuratury
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 23 stycznia 2009 r. o Krajowej Szkole Sądownictwa i Prokuratury (Dz. U. z 2020 r. poz. 1366), z uwzględnieniem zmian wprowadzonych ustawą z dnia 10 grudnia 2020 r. o zmianie ustawy o Krajowej Szkole Sądownictwa i Prokuratury (Dz. U. z 2021 r. poz. 21) oraz zmian wynikających z przepisów ogłoszonych przed dniem 2 grudnia 2021 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 2–6 ustawy z dnia 10 grudnia 2020 r. o zmianie ustawy o Krajowej Szkole Sądownictwa i Prokuratury (Dz. U. z 2021 r. poz. 21), które stanowią: „Art. 2. Do aplikantów, którzy rozpoczęli aplikację sędziowską albo aplikację prokuratorską przed dniem wejścia w życie niniejszej ustawy:
-1) nie stosuje się przepisów art. 33a ust. 5a zdanie piąte, art. 33b ust. 7a zdanie piąte i art. 35 ust. 4a zdanie piąte ustawy zmienianej w art. 1;
-2) stosuje się przepis art. 41c ust. 1 pkt 3 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym.
 Art. 57–64. (pominięte)
-
-**Art. 3.**
-
-1. Aplikant aplikacji sędziowskiej, a w przypadku, o którym mowa w art. 33b ustawy zmienianej w art. 1, także aplikant aplikacji prokuratorskiej, który rozpoczął aplikację sędziowską albo aplikację prokuratorską przed dniem wejścia w życie niniejszej ustawy i który w chwili przedstawienia propozycji dokonania wyboru stanowiska asesora sądowego nie spełnia wymogu posiadania wyłącznie obywatelstwa polskiego, może w terminie 14 dni od dnia przedstawienia propozycji dokonania wyboru stanowiska asesora sądowego złożyć do Krajowej Rady Sądownictwa wniosek o wyrażenie zgody na zajmowanie stanowiska asesora sądowego pomimo posiadania obywatelstwa innego państwa.
-
-2. Aplikant aplikacji sędziowskiej, który zdał egzamin sędziowski w 2019 r. lub w 2020 r., a w przypadku, o którym mowa w art. 33b ustawy zmienianej w art. 1, także aplikant aplikacji prokuratorskiej, który zdał egzamin prokuratorski w 2019 r. lub w 2020 r., może złożyć wniosek, o którym mowa w ust. 1, w terminie 14 dni od dnia wejścia w życie niniejszej ustawy. Jeżeli przed dniem wejścia w życie niniejszej ustawy Krajowa Rada Sądownictwa zgłosiła sprzeciw wobec mianowania aplikanta na stanowisko asesora sądowego wyłącznie z powodu posiadania obywatelstwa innego państwa, złożenie wniosku, o którym mowa w ust. 1, powoduje utratę mocy uchwały Krajowej Rady Sądownictwa w zakresie zgłoszenia sprzeciwu wobec mianowania tego aplikanta na stanowisko asesora sądowego.
-
-3. Krajowa Rada Sądownictwa może wyrazić zgodę na zajmowanie stanowiska asesora sądowego przez aplikanta, o którym mowa w ust. 1 lub 2, pomimo posiadania obywatelstwa innego państwa, mając w szczególności na względzie okoliczności związane z nabyciem obywatelstwa oraz konsekwencje wynikające z jego zrzeczenia się. Krajowa Rada Sądownictwa wydaje uchwałę w terminie dwóch miesięcy od dnia wpływu wniosku. Od uchwały Krajowej Rady Sądownictwa odwołanie nie przysługuje.
-
-4. W przypadku złożenia wniosku, o którym mowa w ust. 1, i wydania przez Krajową Radę Sądownictwa uchwały odmawiającej zgody na zajmowanie stanowiska asesora sądowego pomimo posiadania obywatelstwa innego państwa, warunkiem mianowania na to stanowisko jest przedstawienie Krajowej Radzie Sądownictwa przez aplikanta, w terminie dwóch miesięcy od dnia wydania uchwały, dokumentów potwierdzających podjęcie czynności zmierzających do zrzeczenia się obywatelstwa innego państwa.
-
-5. W przypadku złożenia wniosku, o którym mowa w ust. 1, dwumiesięczny termin do zgłoszenia sprzeciwu przez Krajową Radę Sądownictwa wobec mianowania egzaminowanego aplikanta, o którym mowa w art. 33a ust. 14 lub art. 33b ust. 10 ustawy zmienianej w art. 1, na stanowisko asesora sądowego biegnie w przypadku:
-
-- **1)** wyrażenia zgody na zajmowanie stanowiska asesora sądowego pomimo posiadania obywatelstwa innego państwa od dnia wydania uchwały przez Krajową Radę Sądownictwa,
-- **2)** odmowy wyrażenia zgody na zajmowanie stanowiska asesora sądowego pomimo posiadania obywatelstwa innego państwa od dnia upływu terminu, o którym mowa w ust. 4 chyba że ten termin nie rozpoczął jeszcze biegu na podstawie art. 33a ust. 14 lub art. 33b ust. 10 ustawy zmienianej w art. 1.
-
-6. Jeżeli w przypadku, o którym mowa w ust. 2 zdanie drugie, od uchwały Krajowej Rady Sądownictwa zostało wniesione odwołanie do Sądu Najwyższego, postępowanie przed Sądem Najwyższym podlega umorzeniu. Krajowa Rada Sądownictwa niezwłocznie zawiadamia Sąd Najwyższy o złożeniu wniosku, o którym mowa w ust. 1.
-
-7. Osoba, której Krajowa Rada Sądownictwa na podstawie ust. 3 wyraziła zgodę na zajmowanie stanowiska asesora sądowego pomimo posiadania obywatelstwa innego państwa, może zostać powołana do pełnienia urzędu na stanowisku sędziego sądu rejonowego i innych stanowiskach sędziowskich, których dotyczy wymóg posiadania wyłącznie obywatelstwa polskiego.
-
-8. Jeżeli asesor sądowy mianowany na to stanowisko po spełnieniu warunku, o którym mowa w ust. 4, w dniu złożenia wniosku o powołanie na stanowisko sędziego sądu rejonowego nie spełnia wymogu posiadania wyłącznie obywatelstwa polskiego, Krajowa Rada Sądownictwa może podjąć uchwałę o przedstawieniu wniosku o powołanie asesora sądowego do pełnienia urzędu na stanowisku sędziego sądu rejonowego, jeżeli po zapoznaniu się z informacjami dotyczącymi przebiegu postępowania zmierzającego do zrzeczenia się obywatelstwa innego państwa stwierdzi, że brak spełnienia wymogu posiadania wyłącznie obywatelstwa polskiego nie wynika z okoliczności leżących po stronie osoby ubiegającej się o stanowisko sędziego sądu rejonowego.
-
-**Art. 4.** Do aplikantów aplikacji prokuratorskiej, którzy rozpoczęli odbywanie aplikacji prokuratorskiej przed dniem wejścia w życie niniejszej ustawy i którzy w chwili przedstawienia propozycji pracy na stanowisku asesora prokuratury nie spełniają wymogu posiadania wyłącznie obywatelstwa polskiego, przepisy art. 3 ust. 1–4 oraz 7 i 8 stosuje się odpowiednio. Przewidziane w tych przepisach uprawnienia Krajowej Rady Sądownictwa przysługują Prokuratorowi Generalnemu.
-
-**Art. 5.**
-
-1. Do aplikantów aplikacji sędziowskiej oraz aplikantów aplikacji prokuratorskiej, którzy rozpoczęli aplikacje w 2018 r., stosuje się przepisy art. 40b ust. 1 i 2 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym.
-
-2. Aplikantom aplikacji sędziowskiej oraz aplikantom aplikacji prokuratorskiej, którzy rozpoczęli aplikacje w 2019 r., przysługuje 14 dni kalendarzowych wolnych od zajęć i praktyk w trzecim roku odbywania aplikacji w terminie wskazanym przez Dyrektora Krajowej Szkoły Sądownictwa i Prokuratury.
-
-3. Aplikantom aplikacji sędziowskiej oraz aplikantom aplikacji prokuratorskiej, którzy rozpoczęli aplikacje w 2020 r., w drugim i trzecim roku odbywania aplikacji przysługują dni wolne od zajęć i praktyk w wymiarze określonym w art. 40b ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
-
-**Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Marszałek Sejmu: E. Witek USTAWA z dnia 23 stycznia 2009 r. o Krajowej Szkole Sądownictwa i Prokuratury
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -93,7 +56,7 @@ Art. 57–64. (pominięte)
 - **4)** koordynowanie działalności szkoleniowej sądów i prokuratury;
 - **5)** przygotowywanie oraz organizowanie konferencji, sympozjów i seminariów;
 - **6)** współpracę międzynarodową;
-- **6a)** współdziałanie z podmiotami, o których mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2021 r. poz. 478, 619, 1630 i 2141), oraz innymi podmiotami w zakresie działalności szkoleniowej oraz innych form doskonalenia zawodowego;
+- **6a)** współdziałanie z podmiotami, o których mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2021 r. poz. 478, 619, 1630 i 2141), oraz innymi podmiotami w zakresie działalności szkoleniowej oraz innych form doskonalenia zawodowego;
 - **7)** prowadzenie działalności wydawniczej związanej z realizacją zadań, o których mowa w ust. 1;
 - **8)** pozyskiwanie i wykorzystywanie funduszy pomocowych przeznaczonych na finansowanie zadań, o których mowa w ust. 1;
 - **9)** wykonywanie innych zadań związanych z doskonaleniem kadr sądów i prokuratury, a także z potrzebami sądownictwa i prokuratury, wskazanych przez Ministra Sprawiedliwości i Prokuratora Krajowego.
@@ -104,7 +67,9 @@ Art. 57–64. (pominięte)
 
 2c. W przypadku akt mających postać elektroniczną kopie akt przekazuje się Krajowej Szkole na informatycznym nośniku danych. W przypadku protokołu sporządzonego za pomocą urządzenia rejestrującego dźwięk albo obraz i dźwięk Krajowej Szkole udostępnia się zapis dźwięku albo obrazu i dźwięku przy użyciu urządzenia służącego do odtworzenia zapisu, za pomocą konta w systemie teleinformatycznym albo na informatycznym nośniku danych.
 
-3. Krajowa Szkoła ma prawo używania okrągłej pieczęci z wizerunkiem orła, ustalonym dla godła Rzeczypospolitej Polskiej, oraz nazwą szkoły w otoku na podstawie przepisów ustawy z dnia 31 stycznia 1980 r. o godle, barwach i hymnie Rzeczypospolitej Polskiej oraz o pieczęciach państwowych (Dz. U. z 2019 r. poz. 1509).
+3. Krajowa Szkoła ma prawo używania okrągłej pieczęci z wizerunkiem orła, ustalonym dla godła Rzeczypospolitej Polskiej, oraz nazwą szkoły w otoku na podstawie przepisów ustawy z dnia 31 stycznia 1980 r. o godle, barwach i hymnie Rzeczypospolitej Polskiej oraz o pieczęciach państwowych (Dz. U. z 2019 r. poz.
+
+- **1509)** .
 
 **Art. 3.** Minister Sprawiedliwości, w drodze rozporządzenia, nadaje statut Krajowej Szkole, określający jej ustrój, organizację, siedzibę oraz symbole, mając na uwadze konieczność stworzenia odpowiednich warunków organizacyjnych niezbędnych dla prawidłowej realizacji zadań przez Krajową Szkołę.
 
@@ -197,7 +162,7 @@ Art. 57–64. (pominięte)
 
 3. Dyrektorem Krajowej Szkoły może być wyłącznie sędzia, prokurator, osoba posiadająca tytuł naukowy profesora albo stopień naukowy doktora habilitowanego nauk prawnych, sędzia albo prokurator w stanie spoczynku.
 
-4. W przypadku powołania sędziego lub prokuratora do pełnienia funkcji Dyrektora Krajowej Szkoły, Minister Sprawiedliwości Prokurator Generalny na wniosek Prokuratora Krajowego deleguje odpowiednio sędziego lub prokuratora do Krajowej Szkoły na czas trwania kadencji na zasadach określonych odpowiednio w ustawie z dnia 27 lipca 2001 r. Prawo o ustroju sądów powszechnych (Dz. U. z 2020 r. poz. 2072 oraz z 2021 r. poz. 1080 i 1236) lub w ustawie z dnia 28 stycznia 2016 r. Prawo o prokuraturze (Dz. U. z 2021 r. poz. 66, 1236 i 2052).
+4. W przypadku powołania sędziego lub prokuratora do pełnienia funkcji Dyrektora Krajowej Szkoły, Minister Sprawiedliwości – Prokurator Generalny na wniosek Prokuratora Krajowego deleguje odpowiednio sędziego lub prokuratora do Krajowej Szkoły na czas trwania kadencji na zasadach określonych odpowiednio w ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2020 r. poz. 2072 oraz z 2021 r. poz. 1080 i 1236) lub w ustawie z dnia 28 stycznia 2016 r. – Prawo o prokuraturze (Dz. U. z 2021 r. poz. 66, 1236 i 2052).
 
 5. Powołanie Dyrektora Krajowej Szkoły na kolejną kadencję następuje w trybie określonym w ust. 1. Dyrektor Krajowej Szkoły może być powołany najwyżej na dwie kolejne kadencje.
 
@@ -225,7 +190,7 @@ Art. 57–64. (pominięte)
 
 **Art. 14.**
 
-1. Minister Sprawiedliwości zawiesza w czynnościach służbowych Dyrektora Krajowej Szkoły będącego sędzią lub prokuratorem, przeciwko któremu wszczęto postępowanie dyscyplinarne na zasadach określonych odpowiednio w ustawie z dnia 27 lipca 2001 r. Prawo o ustroju sądów powszechnych lub w ustawie z dnia 28 stycznia 2016 r. Prawo o prokuraturze.
+1. Minister Sprawiedliwości zawiesza w czynnościach służbowych Dyrektora Krajowej Szkoły będącego sędzią lub prokuratorem, przeciwko któremu wszczęto postępowanie dyscyplinarne na zasadach określonych odpowiednio w ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych lub w ustawie z dnia 28 stycznia 2016 r. – Prawo o prokuraturze.
 
 2. Dyrektora Krajowej Szkoły niebędącego sędzią lub prokuratorem Minister Sprawiedliwości zawiesza w czynnościach służbowych w przypadkach określonych w art. 12b ustawy z dnia 18 grudnia 1998 r. o pracownikach sądów i prokuratury (Dz. U. z 2018 r. poz. 577).
 
@@ -257,7 +222,7 @@ Art. 57–64. (pominięte)
 
 1. Szkolenia zawodowe i inne formy doskonalenia zawodowego sędziów, asesorów sądowych, prokuratorów, asesorów prokuratury, referendarzy sądowych, asystentów sędziów, asystentów prokuratorów, kuratorów zawodowych oraz urzędników sądów i prokuratury odbywają się zgodnie z rocznym harmonogramem działalności szkoleniowej, o którym mowa w art. 15 ust. 2 pkt 6, zwanym dalej „harmonogramem”.
 
-2. Uwzględniając uzasadnione potrzeby, Krajowa Szkoła niezależnie od szkoleń i innych form doskonalenia zawodowego ujętych w harmonogramie może, po zasięgnięciu opinii Rady, organizować dodatkowe szkolenia i inne formy doskonalenia zawodowego, zawiadamiając o tym zainteresowanych.
+2. Uwzględniając uzasadnione potrzeby, Krajowa Szkoła – niezależnie od szkoleń i innych form doskonalenia zawodowego ujętych w harmonogramie – może, po zasięgnięciu opinii Rady, organizować dodatkowe szkolenia i inne formy doskonalenia zawodowego, zawiadamiając o tym zainteresowanych.
 
 3. Minister Sprawiedliwości może zlecić Krajowej Szkole organizację szkoleń i innych form doskonalenia zawodowego, nieuwzględnionych w harmonogramie, lub opracowanie ich programów, pokrywając wydatki z budżetu państwa z części „Sprawiedliwość”.
 
@@ -269,7 +234,7 @@ Art. 57–64. (pominięte)
 
 **Art. 15b.**
 
-1. Harmonogram uwzględnia potrzeby szkoleniowe zgłaszane przez Ministra Sprawiedliwości Prokuratora Generalnego, Prokuratora Krajowego, Krajową Radę Sądownictwa, Krajową Radę Prokuratorów przy Prokuratorze Generalnym, prezesów sądów apelacyjnych oraz prokuratorów regionalnych.
+1. Harmonogram uwzględnia potrzeby szkoleniowe zgłaszane przez Ministra Sprawiedliwości – Prokuratora Generalnego, Prokuratora Krajowego, Krajową Radę Sądownictwa, Krajową Radę Prokuratorów przy Prokuratorze Generalnym, prezesów sądów apelacyjnych oraz prokuratorów regionalnych.
 
 2. (uchylony)
 
@@ -386,7 +351,7 @@ Art. 57–64. (pominięte)
 
 1. Przed przystąpieniem do konkursu kandydat uiszcza opłatę za udział w konkursie.
 
-2. Minister Sprawiedliwości po zasięgnięciu opinii Dyrektora Krajowej Szkoły określi, w drodze rozporządzenia, wysokość opłaty, o której mowa w ust. 1 nie wyższą niż równowartość 50% minimalnego wynagrodzenia za pracę, o którym mowa w art. 2 ust. 3–5 ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2020 r. poz. 2207) uwzględniając konieczność prawidłowego i efektywnego przeprowadzenia naboru.
+2. Minister Sprawiedliwości po zasięgnięciu opinii Dyrektora Krajowej Szkoły określi, w drodze rozporządzenia, wysokość opłaty, o której mowa w ust. 1 – nie wyższą niż równowartość 50% minimalnego wynagrodzenia za pracę, o którym mowa w art. 2 ust. 3–5 ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2020 r. poz. 2207) – uwzględniając konieczność prawidłowego i efektywnego przeprowadzenia naboru.
 
 3. W przypadku złożenia przez kandydata, nie później niż na 21 dni przed terminem pierwszego etapu konkursu, pisemnego oświadczenia o odstąpieniu od udziału w konkursie Dyrektor Krajowej Szkoły, na wniosek kandydata, zwraca 2/3 uiszczonej opłaty.
 
@@ -398,7 +363,7 @@ Art. 57–64. (pominięte)
 
 **Art. 23.**
 
-1. Kandydat umieszczony na liście kwalifikacyjnej może, w terminie 14 dni od dnia ogłoszenia tej listy w Biuletynie Informacji Publicznej, złożyć do Dyrektora Krajowej Szkoły wniosek o przyjęcie na aplikację sędziowską lub aplikację prokuratorską, dołączając oryginał lub urzędowo poświadczony odpis dokumentu potwierdzającego ukończenie wyższych studiów prawniczych w Rzeczypospolitej Polskiej i uzyskanie tytułu zawodowego magistra lub zagranicznych studiów prawniczych uznanych w Rzeczypospolitej Polskiej, zaświadczenie, że jest zdolny ze względu na stan zdrowia do pełnienia obowiązków sędziego lub prokuratora, oraz aktualną fotografię odpowiadającą wymaganiom stosowanym przy wydawaniu dowodów osobistych.
+1. Kandydat umieszczony na liście kwalifikacyjnej może, w terminie 14 dni od dnia ogłoszenia tej listy w Biuletynie Informacji Publicznej, złożyć do Dyrektora Krajowej Szkoły wniosek o przyjęcie na aplikację sędziowską lub aplikację prokuratorską, dołączając oryginał lub urzędowo poświadczony odpis dokumentu potwierdzającego ukończenie wyższych studiów prawniczych w Rzeczypospolitej Polskiej i uzyskanie tytułu zawodowego magistra lub zagranicznych studiów prawniczych uznanych w Rzeczypospolitej Polskiej, zaświadczenie, że jest zdolny – ze względu na stan zdrowia – do pełnienia obowiązków sędziego lub prokuratora, oraz aktualną fotografię odpowiadającą wymaganiom stosowanym przy wydawaniu dowodów osobistych.
 
 2. Wydanie zaświadczenia, o którym mowa w ust. 1, oraz badanie kandydata na aplikanta aplikacji sędziowskiej i aplikacji prokuratorskiej odbywa się na zasadach obowiązujących kandydata na stanowisko sędziowskie.
 
@@ -407,7 +372,7 @@ Art. 57–64. (pominięte)
 1. Aplikantem aplikacji sędziowskiej albo aplikacji prokuratorskiej może zostać osoba:
 
 - **1)** która posiada obywatelstwo polskie i korzysta z pełni praw cywilnych i obywatelskich;
-- **1a)** która nie ukończyła w dniu przeprowadzenia pierwszego etapu konkursu 35. roku życia;
+- **1a)** (utracił moc)
 - **2)** która posiada nieposzlakowaną opinię;
 - **3)** która nie została skazana prawomocnym wyrokiem za przestępstwo ścigane z oskarżenia publicznego lub przestępstwo skarbowe;
 - **4)** która ukończyła wyższe studia prawnicze w Rzeczypospolitej Polskiej i uzyskała tytuł zawodowy magistra lub zagraniczne studia prawnicze uznane w Rzeczypospolitej Polskiej;
@@ -519,11 +484,21 @@ Art. 57–64. (pominięte)
 
 1. Dyrektor Krajowej Szkoły może udzielić aplikantowi aplikacji sędziowskiej, na jego wniosek, zezwolenia na przystąpienie do egzaminu sędziowskiego w terminie późniejszym, jeżeli uzna, że choroba, wypadek losowy lub inna udokumentowana przez aplikanta przyczyna uniemożliwiają przystąpienie do egzaminu w terminie, o którym mowa w art. 32 ust. 1, lub jego ukończenie.
 
-2. Wniosek o zezwolenie, o którym mowa w ust. 1, składa się nie później niż w terminie 30 dni od dnia ustania przyczyny uzasadniającej nieprzystąpienie do egzaminu sędziowskiego, nie później jednak niż w terminie 18 miesięcy od dnia zakończenia egzaminu.
+2. Wniosek o zezwolenie, o którym mowa w ust. 1, składa się nie później niż w terminie 30 dni od dnia ustania przyczyny uzasadniającej nieprzystąpienie do egzaminu sędziowskiego, nie później jednak niż w terminie roku od dnia zakończenia egzaminu.
 
-3. Aplikant, który nie przystąpił do egzaminu sędziowskiego w wyznaczonym terminie i nie uzyskał zezwolenia, o którym mowa w ust. 1, lub odstąpił bez usprawiedliwienia od egzaminu w czasie jego trwania albo nie zdał egzaminu, może przystąpić ponownie do egzaminu sędziowskiego tylko raz.
+3. Aplikant, który nie przystąpił do egzaminu sędziowskiego w wyznaczonym terminie i nie uzyskał zezwolenia, o którym mowa w ust. 1, lub który bez usprawiedliwienia odstąpił od egzaminu w czasie jego trwania, może przystąpić ponownie do egzaminu sędziowskiego tylko raz.
 
-4. Aplikanci, o których mowa w ust. 1 i 3, przystępują do egzaminu sędziowskiego w terminie wyznaczonym na podstawie art. 32 ust. 1 lub 1a, jednak nie później niż w terminie 36 miesięcy od dnia ukończenia aplikacji sędziowskiej.
+3a. Aplikant, który nie zdał egzaminu sędziowskiego w terminie wyznaczonym na podstawie art. 32 ust. 1 lub 1a, może przystąpić do tego egzaminu ponownie tylko dwa razy, z zastrzeżeniem ust. 3b–3d.
+
+3b. Aplikant, który nie zdał egzaminu sędziowskiego po raz pierwszy, ponownie przystępuje do tego egzaminu w najwcześniejszym kolejnym terminie wyznaczonym na podstawie art. 32 ust. 1 lub 1a.
+
+3c. Aplikant, o którym mowa w ust. 3b, który nie przystąpił do egzaminu w terminie określonym w tym przepisie i nie uzyskał zezwolenia, o którym mowa w ust. 1, lub który bez usprawiedliwienia odstąpił od egzaminu w czasie jego trwania, może przystąpić ponownie do egzaminu sędziowskiego tylko raz.
+
+3d. Aplikant, który nie zdał egzaminu sędziowskiego po raz drugi, przystępuje do tego egzaminu po raz trzeci niepóźniej niż w terminie 5 lat od dnia ukończenia aplikacji sędziowskiej.
+
+4. Aplikanci, o których mowa w ust. 1 i 3, przystępują do egzaminu sędziowskiego w terminie wyznaczonym na podstawie art. 32 ust. 1 lub 1a, jednak nie później niż w terminie 3 lat od dnia ukończenia aplikacji sędziowskiej.
+
+5. Aplikant, o którym mowa w ust. 3c, przystępuje do egzaminu sędziowskiego w terminie wyznaczonym na podstawie art. 32 ust. 1 lub 1a, jednak niepóźniej niż w terminie 4 lat od dnia ukończenia aplikacji sędziowskiej.
 
 **Art. 33a.**
 
@@ -567,7 +542,7 @@ Art. 57–64. (pominięte)
 
 3. Po upływie terminu, o którym mowa w ust. 2, Dyrektor Krajowej Szkoły sporządza i ogłasza w Biuletynie Informacji Publicznej listę klasyfikacyjną egzaminowanych aplikantów aplikacji prokuratorskiej ubiegających się o stanowiska asesorskie, o których mowa w ust. 1. Lista ta zawiera imiona i nazwiska egzaminowanych aplikantów aplikacji prokuratorskiej, liczbę punktów uzyskanych na egzaminie prokuratorskim przez każdego aplikanta oraz liczbę porządkową wskazującą jego miejsce na liście. Warunkiem umieszczenia na tej liście jest złożenie egzaminu prokuratorskiego.
 
-4. Najpóźniej w chwili dokonywania wyboru stanowiska asesorskiego, o którym mowa w ust. 1, aplikant aplikacji prokuratorskiej przedstawia zaświadczenie, że jest zdolny ze względu na stan zdrowia do pełnienia obowiązków sędziego. Wydanie zaświadczenia oraz badanie aplikanta aplikacji prokuratorskiej odbywa się na zasadach obowiązujących kandydata na stanowisko sędziowskie.
+4. Najpóźniej w chwili dokonywania wyboru stanowiska asesorskiego, o którym mowa w ust. 1, aplikant aplikacji prokuratorskiej przedstawia zaświadczenie, że jest zdolny – ze względu na stan zdrowia – do pełnienia obowiązków sędziego. Wydanie zaświadczenia oraz badanie aplikanta aplikacji prokuratorskiej odbywa się na zasadach obowiązujących kandydata na stanowisko sędziowskie.
 
 5. W przypadku równej liczby punktów uzyskanych przez 2 lub więcej aplikantów o kolejności na liście, o której mowa w ust. 3, decyduje średnia arytmetyczna punktów uzyskanych przez aplikanta ze wszystkich sprawdzianów w czasie aplikacji, a jeżeli liczba punktów jest taka sama, o kolejności decyduje wynik losowania.
 
@@ -593,7 +568,7 @@ Art. 57–64. (pominięte)
 
 1a. Warunkiem zdania egzaminu prokuratorskiego jest uzyskanie co najmniej 60% możliwych do zdobycia punktów zarówno z części pisemnej, jak i części ustnej egzaminu, lecz nie mniej niż 50% z każdej dziedziny w części ustnej egzaminu. Do części ustnej egzaminu nie może zostać dopuszczony zdający, który za rozwiązanie jednego z zadań praktycznych uzyskał mniej niż 30% możliwych do zdobycia punktów.
 
-2. Do egzaminu prokuratorskiego, zespołu egzaminacyjnego opracowującego zadania i kazusy na egzamin prokuratorski oraz komisji egzaminacyjnej powołanej do przeprowadzenia egzaminu prokuratorskiego, a także do ich członków stosuje się odpowiednio przepisy art. 19 ust. 5–8 oraz art. 32 ust. 2, 3, 5, 8 i 10, a do aplikantów przepis art. 33.
+2. Do egzaminu prokuratorskiego, zespołu egzaminacyjnego opracowującego zadania i kazusy na egzamin prokuratorski oraz komisji egzaminacyjnej powołanej do przeprowadzenia egzaminu prokuratorskiego, a także do ich członków stosuje się odpowiednio przepisy art. 19 ust. 5–8 oraz art. 32 ust. 2, 3, 5, 8 i 10, a do aplikantów – przepis art. 33.
 
 3. Przewodniczący zespołu egzaminacyjnego i przewodniczący komisji egzaminacyjnej kierują odpowiednio pracami zespołu oraz komisji.
 
@@ -637,7 +612,7 @@ Art. 57–64. (pominięte)
 
 1. Członkom zespołu konkursowego i zespołów egzaminacyjnych oraz komisji konkursowej i komisji egzaminacyjnych za udział w pracach przysługuje wynagrodzenie.
 
-2. Minister Sprawiedliwości określi, w drodze rozporządzenia, wysokość wynagrodzenia członków zespołu konkursowego i zespołów egzaminacyjnych oraz komisji konkursowej i komisji egzaminacyjnych, w wymiarze nie większym niż miesięczne wynagrodzenie zasadnicze sędziego w stawce piątej uwzględniając zakres i rodzaj ich obowiązków oraz nakład pracy.
+2. Minister Sprawiedliwości określi, w drodze rozporządzenia, wysokość wynagrodzenia członków zespołu konkursowego i zespołów egzaminacyjnych oraz komisji konkursowej i komisji egzaminacyjnych, w wymiarze nie większym niż miesięczne wynagrodzenie zasadnicze sędziego w stawce piątej – uwzględniając zakres i rodzaj ich obowiązków oraz nakład pracy.
 
 #### Rozdział 3a Aplikacje sędziowska i prokuratorska prowadzone w formie aplikacji uzupełniających
 
@@ -651,9 +626,9 @@ Art. 57–64. (pominięte)
 
 1. Aplikantem aplikacji uzupełniającej sędziowskiej albo aplikacji uzupełniającej prokuratorskiej może zostać osoba, która spełnia warunki, o których mowa w art. 24 ust. 1 pkt 1 i 2–5, a także:
 
-- **1)** nie ukończyła 40. roku życia w dniu przeprowadzenia konkursu na aplikację uzupełniającą sędziowską albo w pierwszym dniu przeprowadzenia konkursu na aplikację uzupełniającą prokuratorską;
-- **2)** w okresie 5 lat przed dniem przeprowadzenia konkursu na aplikację uzupełniającą sędziowską albo na aplikację uzupełniającą prokuratorską była zatrudniona łącznie przez okres co najmniej 2 lat na stanowisku referendarza sądowego, asystenta sędziego lub asystenta prokuratora;
-- **3)** w dniu przeprowadzenia konkursu na aplikację uzupełniającą sędziowską albo na aplikację uzupełniającą prokuratorską jest zatrudniona na stanowisku referendarza sądowego, asystenta sędziego lub asystenta prokuratora.
+- **1)** (utracił moc)
+- **2)** w okresie 5 lat przed dniem przeprowadzenia konkursu na aplikację uzupełniającą sędziowską albo na aplikację uzupełniającą prokuratorską była zatrudniona łącznie przez okres co najmniej 2 lat na stanowisku referendarza sądowego, asystenta sędziego, starszego asystenta sędziego lub asystenta prokuratora;
+- **3)** w dniu przeprowadzenia konkursu na aplikację uzupełniającą sędziowską albo na aplikację uzupełniającą prokuratorską jest zatrudniona na stanowisku referendarza sądowego, asystenta sędziego, starszego asystenta sędziego lub asystenta prokuratora.
 
 2. W przypadku zatrudnienia w niepełnym wymiarze okres zatrudnienia, o którym mowa w ust. 1 pkt 2, podlega proporcjonalnemu wydłużeniu.
 
@@ -683,7 +658,7 @@ Art. 57–64. (pominięte)
 
 **Art. 37g.**
 
-1. Dyrektor Krajowej Szkoły skreśla aplikanta aplikacji uzupełniającej sędziowskiej albo aplikacji uzupełniającej prokuratorskiej z listy aplikantów w przypadkach wskazanych w art. 41 ust. 1, a także jeżeli ustał stosunek pracy aplikanta na stanowisku referendarza sądowego, asystenta sędziego lub asystenta prokuratora, zaś aplikant w okresie 30 dni od dnia ustania stosunku pracy nie nawiązał nowego stosunku pracy na stanowisku referendarza sądowego, asystenta sędziego lub asystenta prokuratora.
+1. Dyrektor Krajowej Szkoły skreśla aplikanta aplikacji uzupełniającej sędziowskiej albo aplikacji uzupełniającej prokuratorskiej z listy aplikantów w przypadkach wskazanych w art. 41 ust. 1, a także jeżeli ustał stosunek pracy aplikanta na stanowisku referendarza sądowego, asystenta sędziego, starszego asystenta sędziego lub asystenta prokuratora, zaś aplikant w okresie 30 dni od dnia ustania stosunku pracy nie nawiązał nowego stosunku pracy na stanowisku referendarza sądowego, asystenta sędziego, starszego asystenta sędziego lub asystenta prokuratora.
 
 2. Dyrektor Krajowej Szkoły może skreślić aplikanta aplikacji uzupełniającej sędziowskiej albo aplikacji uzupełniającej prokuratorskiej z listy aplikantów w przypadkach wskazanych w art. 41 ust. 2 pkt 1a i 4–7, a także jeżeli aplikant opuścił z przyczyn nieusprawiedliwionych ponad 5 dni zajęć lub praktyk objętych programem aplikacji, przy czym za dzień nieobecności uważa się także nieobecność na zajęciach lub praktyce w wymiarze przekraczającym 4 godziny.
 
@@ -718,10 +693,10 @@ Art. 57–64. (pominięte)
 
 4. Dyrektor Krajowej Szkoły uchyla decyzję o zawieszeniu w przypadku, o którym mowa w:
 
-- **1)** ust. 1 pkt 1 jeżeli postępowanie zostało umorzone lub zakończyło się uniewinnieniem;
-- **2)** ust. 2 pkt 1 jeżeli postępowanie zostało umorzone lub zakończyło się uniewinnieniem, lub jeżeli Dyrektor Krajowej Szkoły nie stwierdzi podstaw do skreślenia z listy aplikantów na podstawie art. 41 ust. 2 pkt 1a;
-- **3)** ust. 1 pkt 2 i ust. 2 pkt 3 po ustaniu przyczyny zawieszenia;
-- **4)** ust. 2 pkt 2 na wniosek aplikanta.
+- **1)** ust. 1 pkt 1 – jeżeli postępowanie zostało umorzone lub zakończyło się uniewinnieniem;
+- **2)** ust. 2 pkt 1 – jeżeli postępowanie zostało umorzone lub zakończyło się uniewinnieniem, lub jeżeli Dyrektor Krajowej Szkoły nie stwierdzi podstaw do skreślenia z listy aplikantów na podstawie art. 41 ust. 2 pkt 1a;
+- **3)** ust. 1 pkt 2 i ust. 2 pkt 3 – po ustaniu przyczyny zawieszenia;
+- **4)** ust. 2 pkt 2 – na wniosek aplikanta.
 
 5. Od decyzji Dyrektora Krajowej Szkoły o zawieszeniu aplikantowi przysługuje odwołanie do Ministra Sprawiedliwości w terminie 14 dni od dnia jej doręczenia. Rozpoznanie odwołania następuje w terminie 14 dni od dnia jego wniesienia. Od decyzji Ministra Sprawiedliwości przysługuje skarga do wojewódzkiego sądu administracyjnego w terminie 14 dni od dnia doręczenia tej decyzji.
 
@@ -787,7 +762,7 @@ Art. 57–64. (pominięte)
 4. Aplikantowi zawieszonemu w prawach i obowiązkach z powodu:
 
 - **1)** długotrwałej choroby powodującej niezdolność do odbywania aplikacji przez okres dłuższy niż 30 dni,
-- **2)** konieczności sprawowania osobistej opieki nad dzieckiem własnym długotrwale chorym, legitymującym się orzeczeniem o niepełnosprawności albo orzeczeniem o stopniu niepełnosprawności, albo małżonkiem legitymującym się orzeczeniem o stopniu niepełnosprawności wypłaca się 80% stypendium, jednak łącznie nie dłużej niż przez okres 12 miesięcy w toku całej aplikacji.
+- **2)** konieczności sprawowania osobistej opieki nad dzieckiem własnym długotrwale chorym, legitymującym się orzeczeniem o niepełnosprawności albo orzeczeniem o stopniu niepełnosprawności, albo małżonkiem legitymującym się orzeczeniem o stopniu niepełnosprawności – wypłaca się 80% stypendium, jednak łącznie nie dłużej niż przez okres 12 miesięcy w toku całej aplikacji.
 
 5. Aplikantowi zawieszonemu w prawach i obowiązkach z powodu urodzenia dziecka i konieczności sprawowania w związku z tym osobistej opieki nad dzieckiem wypłaca się 80% stypendium nie dłużej niż przez okres 12 miesięcy od dnia urodzenia dziecka.
 
@@ -795,7 +770,9 @@ Art. 57–64. (pominięte)
 
 7. Do wniosku o zawieszenie z przyczyn, o których mowa w ust. 4 pkt 1 i ust. 6, aplikant dołącza zaświadczenie lekarskie wystawione na zwykłym druku, zaś do wniosku o zawieszenie z przyczyn, o których mowa w ust. 4 pkt 2, zaświadczenie lekarskie wystawione na zwykłym druku lub orzeczenie o niepełnosprawności albo orzeczenie o stopniu niepełnosprawności wydane dla osoby, nad którą aplikant sprawuje opiekę.
 
-8. Do wniosku o zawieszenie z przyczyny, o której mowa w ust. 5, aplikant dołącza odpis skrócony aktu urodzenia dziecka wraz z oświadczeniem o konieczności sprawowania osobistej opieki nad dzieckiem własnym i rezygnacji drugiego z rodziców ze świadczeń związanych z rodzicielstwem, o których mowa w ustawie z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz. U. z 2021 r. poz. 1133, 1621 i 1834), w całości lub części.
+8. Do wniosku o zawieszenie z przyczyny, o której mowa w ust. 5, aplikant dołącza odpis skrócony aktu urodzenia dziecka wraz z oświadczeniem o konieczności sprawowania osobistej opieki nad dzieckiem własnym i rezygnacji drugiego z rodziców ze świadczeń związanych z rodzicielstwem, o których mowa w ustawie z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz. U. z 2021 r. poz. 1133, 1621 i
+
+- **1834)** , w całości lub części.
 
 **Art. 41b.**
 
@@ -967,7 +944,7 @@ Art. 57–64. (pominięte)
 
 11. Członkom zespołu egzaminacyjnego i komisji egzaminacyjnej za udział w pracach przysługuje wynagrodzenie.
 
-12. Minister Sprawiedliwości określi, w drodze rozporządzenia, wysokość wynagrodzenia członków zespołu egzaminacyjnego i komisji egzaminacyjnej, w wymiarze nie większym niż miesięczne wynagrodzenie zasadnicze sędziego w stawce piątej uwzględniając zakres i rodzaj ich obowiązków oraz nakład pracy.
+12. Minister Sprawiedliwości określi, w drodze rozporządzenia, wysokość wynagrodzenia członków zespołu egzaminacyjnego i komisji egzaminacyjnej, w wymiarze nie większym niż miesięczne wynagrodzenie zasadnicze sędziego w stawce piątej – uwzględniając zakres i rodzaj ich obowiązków oraz nakład pracy.
 
 **Art. 52d.** Do drugiego etapu egzaminu referendarskiego zostają dopuszczeni kandydaci, którzy uzyskali co najmniej 75% możliwych do zdobycia punktów z testu. Warunkiem zdania egzaminu referendarskiego jest uzyskanie co najmniej 50% możliwych do zdobycia punktów z zadań praktycznych, lecz nie mniej niż 30% możliwych do zdobycia punktów z każdego zadania.
 
@@ -977,7 +954,7 @@ Art. 57–64. (pominięte)
 
 **Art. 53.**
 
-1. Wykładowcami Krajowej Szkoły mogą być sędziowie, prokuratorzy i nauczyciele akademiccy oraz inne osoby posiadające specjalistyczną wiedzę z określonej dziedziny, a także sędziowie i prokuratorzy w stanie spoczynku, których wiedza oraz doświadczenie zawodowe i dydaktyczne dają gwarancję należytego wykonywania powierzonej im funkcji. Do wyboru wykładowców Krajowej Szkoły nie stosuje się przepisów ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych (Dz. U. z 2021 r. poz. 1129, 1598 i 2054).
+1. Wykładowcami Krajowej Szkoły mogą być sędziowie, prokuratorzy i nauczyciele akademiccy oraz inne osoby posiadające specjalistyczną wiedzę z określonej dziedziny, a także sędziowie i prokuratorzy w stanie spoczynku, których wiedza oraz doświadczenie zawodowe i dydaktyczne dają gwarancję należytego wykonywania powierzonej im funkcji. Do wyboru wykładowców Krajowej Szkoły nie stosuje się przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2021 r. poz. 1129, 1598 i 2054).
 
 2. W przypadku uzasadnionej potrzeby, w celu ujednolicania treści dydaktycznych przedstawianych w czasie zajęć oraz sposobu oceny sprawdzianów, Dyrektor Krajowej Szkoły może powołać koordynatora zajęć spośród wykładowców Krajowej Szkoły wyróżniających się wiedzą i doświadczeniem zawodowym, prowadzących zajęcia co najmniej od 2 lat.
 
@@ -1060,7 +1037,9 @@ Art. 57–64. (pominięte)
 
 1. Krajowa Szkoła prowadzi samodzielną gospodarkę finansową na podstawie planu rzeczowo-finansowego, zatwierdzanego przez Ministra Sprawiedliwości, zgodnie z przepisami ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2021 r. poz. 305, z późn. zm. ).
 
-2. Krajowa Szkoła prowadzi rachunkowość zgodnie z przepisami ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2021 r. poz. 217, 2105 i 2106), z uwzględnieniem zasad określonych w niniejszej ustawie.
+2. Krajowa Szkoła prowadzi rachunkowość zgodnie z przepisami ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2021 r. poz. 217, 2105 i
+
+- **2106)** , z uwzględnieniem zasad określonych w niniejszej ustawie.
 
 3. Krajowa Szkoła prowadzi ewidencję księgową w sposób umożliwiający wyodrębnienie kosztów i przychodów w zakresie dotyczącym działalności gospodarczej od kosztów i przychodów w zakresie dotyczącym pozostałej działalności.
 
@@ -1077,8 +1056,8 @@ Art. 57–64. (pominięte)
 1. Przychodami Krajowej Szkoły są:
 
 - **1)** dotacja podmiotowa, o której mowa w art. 55a;
-- **2)** opłaty, o których mowa w art. 21 ust. 1, art. 37e i art. 52b ust. 4 ustawy oraz w art. 179 § 1 zdanie trzecie ustawy z dnia 28 stycznia 2016 r. Prawo o prokuraturze;
-- **3)** opłaty, o których mowa w art. 19 ust. 7 ustawy z dnia 11 maja 2017 r. o zmianie ustawy o Krajowej Szkole Sądownictwa i Prokuratury, ustawy Prawo o ustroju sądów powszechnych oraz niektórych innych ustaw (Dz. U. poz. 1139 oraz z 2018 r. poz. 1443);
+- **2)** opłaty, o których mowa w art. 21 ust. 1, art. 37e i art. 52b ust. 4 ustawy oraz w art. 179 § 1 zdanie trzecie ustawy z dnia 28 stycznia 2016 r. – Prawo o prokuraturze;
+- **3)** opłaty, o których mowa w art. 19 ust. 7 ustawy z dnia 11 maja 2017 r. o zmianie ustawy o Krajowej Szkole Sądownictwa i Prokuratury, ustawy – Prawo o ustroju sądów powszechnych oraz niektórych innych ustaw (Dz. U. poz. 1139 oraz z 2018 r. poz. 1443);
 - **4)** przychody z tytułu prowadzonej działalności gospodarczej;
 - **5)** przychody z odsetek;
 - **6)** przychody ze sprzedaży składników własnego mienia oraz z odpłatności za korzystanie z tych składników przez osoby trzecie na podstawie umowy najmu, dzierżawy albo innej umowy;
@@ -1093,7 +1072,7 @@ Art. 57–64. (pominięte)
 
 **Art. 55e.** Krajowa Szkoła jest uczelnią, o której mowa w art. 7 ust. 2 pkt 1 ustawy z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z 2019 r. poz. 1170 oraz z 2021 r. poz. 401, 1558 i 2192).
 
-**Art. 55f.** Wykonywanie przez Krajową Szkołę zadań, o których mowa w art. 2, oraz prowadzenie działalności w zakresie usług noclegowych świadczonych w obiektach Krajowej Szkoły w ramach działalności ustawowej nie stanowi działalności gospodarczej w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców (Dz. U. z 2021 r. poz. 162 i 2105).
+**Art. 55f.** Wykonywanie przez Krajową Szkołę zadań, o których mowa w art. 2, oraz prowadzenie działalności w zakresie usług noclegowych świadczonych w obiektach Krajowej Szkoły w ramach działalności ustawowej nie stanowi działalności gospodarczej w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2021 r. poz. 162 i 2105).
 
 **Art. 55g.** Do wpłat, o których mowa w art. 21 ust. 1 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2021 r. poz. 573 i 1981), uiszczanych przez Krajową Szkołę na Państwowy Fundusz Rehabilitacji Osób Niepełnosprawnych stosuje się wskaźnik, o którym mowa w art. 21 ust. 2b tej ustawy.
 
@@ -1161,9 +1140,9 @@ Art. 57–64. (pominięte)
 
 **Art. 66.**
 
-1. Warunek określony w art. 149 § 1 pkt 5 ustawy z dnia 27 lipca 2001 r. Prawo o ustroju sądów powszechnych, w brzmieniu nadanym niniejszą ustawą, spełnia osoba, która na podstawie przepisów obowiązujących przed dniem wejścia w życie niniejszej ustawy odbyła aplikację referendarską i złożyła egzamin referendarski lub odbyła aplikację sądową lub prokuratorską, bądź złożyła egzamin referendarski.
+1. Warunek określony w art. 149 § 1 pkt 5 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych, w brzmieniu nadanym niniejszą ustawą, spełnia osoba, która na podstawie przepisów obowiązujących przed dniem wejścia w życie niniejszej ustawy odbyła aplikację referendarską i złożyła egzamin referendarski lub odbyła aplikację sądową lub prokuratorską, bądź złożyła egzamin referendarski.
 
-2. Warunek określony w art. 155 § 2 pkt 5 ustawy z dnia 27 lipca 2001 r. Prawo o ustroju sądów powszechnych, w brzmieniu nadanym niniejszą ustawą, spełnia osoba, która w dniu wejścia w życie niniejszej ustawy była zatrudniona na stanowisku asystenta sędziego, oraz osoba, która na podstawie przepisów obowiązujących przed dniem wejścia w życie niniejszej ustawy odbyła aplikację referendarską i złożyła egzamin referendarski albo odbyła aplikację sądową lub prokuratorską bądź złożyła egzamin referendarski.
+2. Warunek określony w art. 155 § 2 pkt 5 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych, w brzmieniu nadanym niniejszą ustawą, spełnia osoba, która w dniu wejścia w życie niniejszej ustawy była zatrudniona na stanowisku asystenta sędziego, oraz osoba, która na podstawie przepisów obowiązujących przed dniem wejścia w życie niniejszej ustawy odbyła aplikację referendarską i złożyła egzamin referendarski albo odbyła aplikację sądową lub prokuratorską bądź złożyła egzamin referendarski.
 
 3. Osoba zatrudniona w dniu wejścia w życie niniejszej ustawy na stanowisku referendarza sądowego może przystąpić do egzaminu sędziowskiego określonego w art. 70 ust. 1, jeżeli zajmowała to stanowisko co najmniej przez okres 3 lat i zgłosiła prezesowi przełożonego sądu apelacyjnego zamiar przystąpienia do egzaminu na miesiąc przed jego przeprowadzeniem. W takim przypadku referendarz sądowy jest dopuszczany do egzaminu sędziowskiego, w najbliższym terminie przewidzianym dla aplikantów sądowych.
 
@@ -1175,16 +1154,16 @@ Art. 57–64. (pominięte)
 
 **Art. 67.**
 
-1. Na stanowisko sędziego wojskowego sądu garnizonowego może być powołana osoba, która spełnia wymagania określone w art. 22 § 1 pkt 1–5 i 7 ustawy z dnia 21 sierpnia 1997 r. Prawo o ustroju sądów wojskowych, w brzmieniu nadanym niniejszą ustawą, i pracowała w charakterze asesora sądu wojskowego co najmniej przez 3 lata.
+1. Na stanowisko sędziego wojskowego sądu garnizonowego może być powołana osoba, która spełnia wymagania określone w art. 22 § 1 pkt 1–5 i 7 ustawy z dnia 21 sierpnia 1997 r. – Prawo o ustroju sądów wojskowych, w brzmieniu nadanym niniejszą ustawą, i pracowała w charakterze asesora sądu wojskowego co najmniej przez 3 lata.
 
-2. Na stanowisko sędziego wojskowego sądu garnizonowego może być powołana osoba mianowana na stanowisko asesora sądu wojskowego w okresie od dnia 5 listopada 2005 r. do dnia 5 listopada 2007 r., jeżeli spełnia wymagania określone w art. 22 § 1 pkt 1–3 i 5 ustawy z dnia 21 sierpnia 1997 r. Prawo o ustroju sądów wojskowych, w brzmieniu nadanym niniejszą ustawą, ukończyła 28 lat i pracowała w charakterze asesora sądu wojskowego co najmniej przez rok.
+2. Na stanowisko sędziego wojskowego sądu garnizonowego może być powołana osoba mianowana na stanowisko asesora sądu wojskowego w okresie od dnia 5 listopada 2005 r. do dnia 5 listopada 2007 r., jeżeli spełnia wymagania określone w art. 22 § 1 pkt 1–3 i 5 ustawy z dnia 21 sierpnia 1997 r. – Prawo o ustroju sądów wojskowych, w brzmieniu nadanym niniejszą ustawą, ukończyła 28 lat i pracowała w charakterze asesora sądu wojskowego co najmniej przez rok.
 
-3. Na stanowisko sędziego wojskowego sądu garnizonowego może być powołana osoba, która spełnia wymagania określone w art. 22 § 1 pkt 1–5 i 7 ustawy z dnia 21 sierpnia 1997 r. Prawo o ustroju sądów wojskowych, w brzmieniu nadanym niniejszą ustawą, ukończyła aplikację sądową i złożyła egzamin sędziowski na podstawie przepisów obowiązujących do dnia wejścia w życie niniejszej ustawy, a po złożeniu tego egzaminu była zatrudniona na stanowisku:
+3. Na stanowisko sędziego wojskowego sądu garnizonowego może być powołana osoba, która spełnia wymagania określone w art. 22 § 1 pkt 1–5 i 7 ustawy z dnia 21 sierpnia 1997 r. – Prawo o ustroju sądów wojskowych, w brzmieniu nadanym niniejszą ustawą, ukończyła aplikację sądową i złożyła egzamin sędziowski na podstawie przepisów obowiązujących do dnia wejścia w życie niniejszej ustawy, a po złożeniu tego egzaminu była zatrudniona na stanowisku:
 
 - **1)** referendarza sądowego co najmniej przez okres 2 lat w pełnym wymiarze czasu pracy lub
 - **2)** asystenta sędziego co najmniej przez okres 2 lat w pełnym wymiarze czasu pracy.
 
-4. Prezes właściwego wojskowego sądu okręgowego, po zasięgnięciu opinii kolegium wojskowego sądu okręgowego, występuje do dyrektora komórki organizacyjnej, o której mowa w art. 5 § 4 ustawy z dnia 21 sierpnia 1997 r. Prawo o ustroju sądów wojskowych, z wnioskiem o zgłoszenie Zgromadzeniu Sędziów Sądów Wojskowych kandydatury asesora sądu wojskowego na stanowisko sędziego sądu wojskowego.
+4. Prezes właściwego wojskowego sądu okręgowego, po zasięgnięciu opinii kolegium wojskowego sądu okręgowego, występuje do dyrektora komórki organizacyjnej, o której mowa w art. 5 § 4 ustawy z dnia 21 sierpnia 1997 r. – Prawo o ustroju sądów wojskowych, z wnioskiem o zgłoszenie Zgromadzeniu Sędziów Sądów Wojskowych kandydatury asesora sądu wojskowego na stanowisko sędziego sądu wojskowego.
 
 **Art. 68.**
 

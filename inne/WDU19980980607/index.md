@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# wo ustroju powszechnych (Dz. U. 1994 7, poz. 25, 77, poz. 355, 91, poz. 421 105, poz. 509, 1995 34, poz. 163 81, poz. 406, 1996 77, poz. 367 oraz 1997 75, poz. 471, 98, poz. 604, 106, poz. 679, 117, poz. 751-753, 121, poz. 769, 124, poz. 782 133, poz. 882) wprowadza zmiany:
+# o zmianie ustawy - Prawo o ustroju sądów powszechnych oraz niektórych innych ustaw
+
+*USTAWA dnia 17 grudnia 1997 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,41 +26,65 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19980980607) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1998/607/text.pdf) |
 
-1) wart. 59 3 pkt otrzymuje brzmienie: " 1) 65 rok chyba Krajowa Rada wniosek po opinii kolegium wy razi dalsze zajmowanie stanowiska, nie jednak do 70 roku cia,";
-2) po art. 78 dodaje art. 78 78 brzmieniu: "Art. 78 1. stanie spoczynku zany jest
-2. Za uchybienie dziego po stan spoczyn ku oraz okresie stanie spoczynku odpowiada dys cyplinarnie.
-3. Do dyscyplinar nej stanie spoczynku sto suje odpowiednio przepisy od dyscyplinarnej dziów, tym zamiast kar przewi dzianych dla dyscypli narny orzeka kary:
-1) upomnienia,
-2) nagany,
-3) zawieszenia waloryzacji nia okres od roku do 3 lat,
-4) pozbawienia prawa do stanu spo czynku wraz prawem do uposa
-4. Skazanie stanie spoczyn ku prawomocnym wyrokiem pozbawienia praw publicznych za nione przed stan spo czynku lub prawomocne orzeczenie 3 pkt 4 lub wypadkach przewi dzianych 4 pozbawiony prawa do stanu spoczynku uposa albo jego rodziny po zbawiony prawa do ro dzinnego nabywa prawo do emery tury lub renty, warunki przepisach ubezpie czeniu
-Art. 78 4 1. W razie utraty do stanu spoczynku wskutek prawomocnego orzeczenia kary, której mowa wart.
-78 3 pkt 4, albo wypadkach prze widzianych wart. 78 4 stosuje odpowiednio przepis art. 78' 2.
-2. ubezpieczenie której mowa wart. 78' 2, podlega waloryzacji wzrostu
-3. Minister porozu mieniu Ministrem Pracy Polityki Socjalnej, drodze zasady walory zacji których mowa 2."
+**Art. 1.** W ustawie dnia 20 czerwca 1985 r. - Prawo o ustroju sądów powszechnych (Dz.U. 1994 r. Nr 7, poz. 25, Nr 77, poz. 355, Nr 91, poz. 421 Nr 105, poz. 509, 1995 r. Nr 34, poz. 163 Nr 81, poz. 406, 1996 r. Nr 77, poz. 367 oraz 1997 r. Nr 75, poz. 471, Nr 98, poz. 604, Nr 106, poz. 679, Nr 117, poz. 751-753, Nr 121, poz. 769, Nr 124, poz. 782 Nr 133, poz. 882) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie 20 czerwca 1985 proku raturze (Dz. U. 1994 19, poz. 70 105, poz. 509, 1995 34, poz. 163, 1996 77, poz. 367 oraz 1997 Nr90, poz. 557, Nr98, poz. 604, 106, poz. 679, 117, poz. 752 753, 124, poz. 782 141, poz. 944) wart. 62a zdanie pierwsze otrzymuje brzmienie: "Do prokuratorów stosuje odpowiednio przepi sy art. 59 2- 5 7, art. 71' 2-6, art. 78-78 ustawy 20 czerwca 1985 Prawo ustro ju powszechnych."
+**Art. 78⁴.**
 
-**Art. 3.** W ustawie 20 grudnia 1989 Krajo wej Radzie (Dz. U. 73, poz. 435, 1990 53, poz. 306, 1993 47, poz. 213, 1996 72, poz. 347 oraz 1997 117, poz. 753 124, poz. 782) wart. 2 po pkt 3 dodaje pkt 3a brzmieniu: ,,3a) dalsze zajmowanie stanowi ska przez który 65 rok cia,".
+§ 1. W razie utraty uprawnień do stanu wskutek prawomocnego orzeczenia kary, o której mowa 78 3 pkt 4, albo wypadkach przewidzianych 78 4, stosuje się odpowiednio przepis 78 2.
 
-**Art. 4.** W ustawie 28 sierpnia 1997 zmia opieki zdrowotnej zakresie zasadach przepisach zaopatrzeniu emerytal nym pracowników ich rodzin. 7. 1. Przepisy art. 6 ust. 2 ustawy, której mowa wart. 4, nie zastosowania do:
+§ 2. Składka na ubezpieczenie społeczne, o której mowa 78 2, podlega waloryzacji wskaźnikiem wzrostu płac.
+
+§ 3. Minister Sprawiedliwości, porozumieniu Ministrem Pracy Polityki Socjalnej, drodze rozporządzenia, określi szczegółowe zasady waloryzacji składek, o których mowa 2.".
+
+**Art. 2.** W ustawie dnia 20 czerwca 1985 r. o prokuraturze (Dz.U. 1994 r. Nr 19, poz. 70 Nr 105, poz. 509, 1995 r. Nr 34, poz. 163, 1996 r. Nr 77, poz. 367 oraz 1997 r. Nr 90, poz. 557, Nr 98, poz. 604, Nr 106, poz. 679, Nr 117, poz. 752 753, Nr 124, poz. 782 Nr 141, poz. 944) 62a zdanie pierwsze otrzymuje brzmienie: "Do prokuratorów stosuje się odpowiednio przepisy 59 2-5 7, 71 2-6, 78-78 ustawy dnia 20 czerwca 1985 r. - Prawo o ustroju sądów powszechnych.".
+
+**Art. 3.** W ustawie dnia 20 grudnia 1989 r. o Krajowej Radzie Sądownictwa (Dz.U. Nr 73, poz. 435, 1990 r. Nr 53, poz. 306, 1993 r. Nr 47, poz. 213, 1996 r. Nr 72, poz. 347 oraz 1997 r. Nr 117, poz. 753 Nr 124, poz. 782) 2 po pkt 3 dodaje się pkt 3a brzmieniu: "3a) wyraża zgodę na dalsze zajmowanie stanowiska przez sędziego, który ukończył 65 rok życia,".
+
+**Art. 4.** W ustawie dnia 28 sierpnia 1997 r. o zmianie ustawy - Prawo o ustroju sądów powszechnych oraz niektórych innych ustaw (Dz.U. Nr 124, poz. 782) 7 otrzymuje brzmienie: im dniem osiągnięcia 65 roku życia.".
+
+**Art. 5.** Sędziowie prokuratorzy stanie oraz członkowie ich rodzin korzystają prawa do świadczeń opieki zdrowotnej zakresie na zasadach określonych przepisach o zaopatrzeniu emerytalnych pracowników ich rodzin.
+
+**Art. 6.** Pominięto jako niezgodny 7 Konstytucji stosownie do wyroku Trybunału Konstytucyjnego dnia 24 czerwca 1998 r. sygn. akt k.3/98 (Monitor Polski Nr 22, poz. 331).
+
+**Art. 7.**
+
+1. Przepisy 6 1 2 ustawy, o której mowa 4 nie mają zastosowania do:
+
+- **1)** prokuratorów, którzy okresie od września 1939 r. do końca 1956 r. służyli formacji Ludowego Komisariatu Spraw Wewnętrznych Związku Socjalistycznych Republik Radzieckich (NKWD) lub innych organach represji Związku Socjalistycznych Republik Radzieckich (ZSRR), działających przeciwko Narodowi Państwu Polskiemu,
+- **2)** prokuratorów, którzy 1944-1956 byli zatrudnieni, pełnili służbę lub funkcję strukturach Urzędów Bezpieczeństwa, Służby Bezpieczeństwa Informacji Wojskowej, a także nadzorujących je komórkach jednostek zwierzchnich, związanych ze stosowaniem represji wobec osób działających na rzecz suwerenności niepodległości Państwa Polskiego,
+- **3)** prokuratorów, którzy 1944-1956 byli zatrudnieni sądach wojskowych lub prokuraturze wojskowej - jednostkach organizacyjnych albo na stanowiskach związanych ze stosowaniem represji wobec osób działających na rzecz suwerenności niepodległości Państwa Polskiego,
+- **4)** sądów powszechnych, którzy 1944-1956 byli zatrudnieni wyspecjalizowanych komórkach organizacyjnych stosujących represje za działalność niepodległościową, polityczną lub obronę praw człowieka (sekcjach wydziałach spraw tajnych, wydziałach doraźnych),
+- **5)** prokuratorów, którzy zostali skazani prawomocnym wyrokiem sądu na kar ę dodatkową pozbawienia praw publicznych za przestępstwo popełnione okresie służby lub zostali wydaleni ze służby za przewinienia okresie jej pełnienia,
+- **6)** prokuratorów, którzy złożyli fałszywe oświadczenia dotyczące pracy, służby lub współpracy organami wymienionymi 2 ustawy dnia członków rodzin po zmarłych sędziach lub prokuratorach określonych 1.
+
+3. Przepisów 1 pkt 1-4 nie stosuje się wobec osób, które:
+
+- **1)** udowodnią, że do służb organów, o których mowa 1 pkt 1-4, zostały skierowane przez organizacje niepodległościowe lub przez te organizacje były zwerbowane celu udzielenia im pomocy,
+- **2)** udowodnią, że podczas zatrudnienia, pełnienia służby lub funkcji strukturach, jednostkach na stanowiskach, o których mowa 1 pkt 1-4, wykonywały wyłącznie zadania nie związane ze zwalczaniem organizacji oraz osób działających na rzecz suwerenności niepodległości Rzeczypospolitej Polskiej.
+
+4. Okoliczności wymienione 1 pkt 1–5, 2 3 stosunku do lub członków ich rodzin stwierdza Krajowa Rada Sądownictwa, drodze uchwały. Wniosek o podjęcie uchwały może złożyć Minister Sprawiedliwości, a także osoba represjonowana za działalność niepodległościową lub obronę praw człowieka, a razie śmierci tej osoby – jej małżonek, rodzeństwo lub dzieci.
+
+5. W stosunku do prokuratorów przepisy 1-4 stosuje się odpowiednio, tym że uprawnienia Krajowej Rady Sądownictwa przysługują Prokuratorowi Generalnemu.
+
+6. Sędziowie prokuratorzy, którzy uzyskali prawo do emerytury lub renty, składają oświadczenia przewidziane 1 2 ustawy wymienionej 1 pkt 6.
+
+7. Stwierdzenie okoliczności wymienionych 1 pkt 6 następuje trybie przewidzianym ustawie o ujawnianiu pracy lub służby organach bezpieczeństwa państwa lub współpracy nimi 1944-1990 osób pełniących funkcje publiczne.
 
 **Art. 8.**
 
-1. stanie spoczynku prokurato rzy stanie spoczynku, którzy lub praco wali organach albo komórkach organizacyjnych wy mienionych wart. 7 ust. pkt 1-4 lub pracy, lub organami, których mowa wart. 2 ustawy ujawnie niu pracy lub organach stwa lub nimi latach 1944-1990 osób funkcje publiczne, prawo do stanu spoczynku stanie spoczynku.
+1. Sędziowie stanie prokuratorzy stanie spoczynku, którzy pełnili służbę lub pracowali organach albo komórkach organizacyjnych wymienionych 7 1 pkt 1-4, lub złożyli fałszywe oświadczenia dotyczące pracy, służby lub współpracy organami, o których mowa 2 ustawy o ujawnianiu pracy lub służby organach bezpieczeństwa państwa lub współpracy nimi 1944-1990 osób pełniących funkcje publiczne, tracą prawo do stanu uposażenia stanie spoczynku.
 
-2. rodzin prokuratorów, okre ust. 1, prawo do rodzinnego.
+2. Członkowie rodzin prokuratorów, określonych 1, tracą prawo do uposażenia rodzinnego.
 
-3. których mowa ust. 1, stwierdza trybie wart. 7 ust. 4 5. Utrata upraw dniem wydania decyzji. wyptaca
+3. Okoliczności, o których mowa 1, stwierdza się trybie określonym 7 4 5. Utrata uprawnień następuje dniem wydania decyzji.
 
-3. W razie wydania decyzji okolicz osoba pozbawio prawa do stanu spoczynku lub albo rodzinnego nabywa prawo do emerytury lub renty, spetnia warunki przepi sach ubezpieczeniu spotecznym. W takim wypadku od wynagrodzenia wyptaconego lub proku ratorowi okresie od którego nie odprowadzo no sktadki ubezpieczenie spoteczne, przekazuje za ten okres przepisach ubeztej zgodzie.
+4. Przepisy 7 6 7 stosuje się do prokuratorów stanie spoczynku, którzy nie złożyli okresie służby oświadczeń, o których mowa 1 2 ustawy wymienionej 7 1 pkt 6. nicza się do wysokości świadczeń, jakie przysługiwałyby uprawnionemu na podstawie przepisów o zaopatrzeniu emerytalnym pracowników ich rodzin.
 
-**Art. 11.** Ustawa wchodzi po uptywie 14 dni od ogtoszenia, przepisu art. pkt 1, który wchodzi dniem stycznia 1999 Prezydent Rzeczypospolitej Polskiej: A. 608 USTAWA 26 czerwca 1998 ratyfikacji Umowy a wspólnej granicy sto sunkach prawnych niej oraz wzajemnej pomocy sprawach granicznych.
+2. W razie wydania decyzji odmawiającej stwierdzenia okoliczności powodujących utratę uprawnień wypłaca się pozostałą część uposażenia.
 
-**Art. 1.** Wyraża dokonanie przez Prezy denta Rzeczypospolitej Polskiej ratyfikacji Umowy a wspólnej granicy stosunkach prawnych niej pomocy sprawach granicznych, podpisanej Wilnie 5 marca 1996
+3. W razie wydania decyzji stwierdzającej okoliczności powodujące utratę uprawnień, osoba pozbawiona prawa do stanu lub uposażenia albo uposażenia rodzinnego nabywa prawo do emerytury lub renty, jeżeli spełnia warunki określone przepisach o ubezpieczeniu społecznym. W takim wypadku od wynagrodzenia wypłaconego sędziemu lub prokuratorowi okresie służby, od którego nie odprowadzono składki na ubezpieczenie społeczne, przekazuje się składkę przewidzianą za ten okres przepisach o ubezpieczeniu społecznym. Przepis 91 11 ustawy dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych (Dz.U. Nr 98, poz. 1070), stosuje się odpowiednio.
 
-**Art. 2.** Ustawa wchodzi oraz wspótpracy wzajemnej po uptywie 14 dni od ogtoszenia. Prezydent Rzeczypospolitej Polskiej: A. 609 USTAWA 2 lipca 1998 ratyfikacji Konwencji Narodów Zjednoczonych prawie morza, Montego Bay 10 grud nia 1982 r., wraz Porozumieniem sprawie implementacji XI Konwencji, Nowym Jorku 29 lipca 1994
+**Art. 10.** Sędziowie prokuratorzy, którzy przed dniem 17 października 1997 r. otrzymali od Krajowej Rady Sądownictwa odpowiednio od Prokuratora Generalnego zgodę na dalsze zajmowanie stanowiska pomimo ukończenia 65 roku życia, zachowują prawo do zajmowania tego stanowiska do końca terminu określonego tej zgodzie.
 
-**Art. 1.** Wyraża dokonan ie przez Prezy denta Rzeczypospolitej Polskiej ratyfikacji Konwencji wencji, Nowym Jorku 29 lipca 1994
+**Art. 11.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, wyjątkiem przepisu 1 pkt 1, który wchodzi życie dniem 1 stycznia 1999 r.
 

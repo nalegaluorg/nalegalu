@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 28 stycznia 2022 OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 13 stycznia 2022 sprawie ogłoszenia jednolitego tekstu ustawy o uposażeniu byłego Prezydenta Rzeczypospolitej Polskiej
+# 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 30 maja 1996 o uposażeniu byłego Prezydenta Rzeczypospolitej Polskiej (Dz. U. z 2018 poz. 1972), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 17 września 2021 o zmianie ustawy o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe oraz niektórych innych ustaw (Dz. U. poz. 1834) oraz zmian wynikających z przepisów ogłoszonych przed dniem 12 stycznia 2022
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 13 stycznia 2022 sprawie ogłoszenia jednolitego tekstu ustawy o uposażeniu byłego Prezydenta Rzeczypospolitej Polskiej*
 
 | Pole | Wartość |
 |---|---|
@@ -24,7 +26,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000207) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/207/text.pdf) |
 
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 30 maja 1996 o uposażeniu byłego Prezydenta Rzeczypospolitej Polskiej (Dz. U. z 2018 poz. 1972), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 17 września 2021 o zmianie ustawy o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe oraz niektórych innych ustaw (Dz. U. poz. 1834) oraz zmian wynikających z przepisów ogłoszonych przed dniem 12 stycznia 2022
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 17–19 ustawy z dnia 17 września 2021 o zmianie ustawy o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe oraz niektórych innych ustaw (Dz. U. poz. 1834), które stanowią: „Art. 17. 1. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 3 ust. 3 ustawy zmienianej art. 1 zachowują moc do dnia wejścia życie nowych przepisów wykonawczych wydanych na podstawie art. 3 ust. 3 ustawy zmienianej art. 1, nie dłużej jednak niż przez 12 miesięcy od dnia wejścia życie niniejszej ustawy.
 2. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 25 ust. 7 ustawy zmienianej art. 2 zachowują moc do dnia wejścia życie nowych przepisów wykonawczych wydanych na podstawie art. 25 ust. 7 ustawy zmienianej art. 2, nie dłużej jednak niż przez 3 miesiące od dnia wejścia życie niniejszej ustawy.
 3. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 21 ust. 5a ustawy zmienianej art. 4 zachowują moc do dnia wejścia życie nowych przepisów wykonawczych wydanych na podstawie art. 21 ust. 5a ustawy zmienianej art. 5, nie dłużej jednak niż przez 3 miesiące od dnia wejścia życie niniejszej ustawy.

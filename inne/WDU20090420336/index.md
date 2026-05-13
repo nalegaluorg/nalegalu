@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# Ustawa z dnia 23 stycznia 2009 r. o zmianie ustawy o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej
+# o zmianie ustawy o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej
+
+*USTAWA z dnia 23 stycznia 2009 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,7 +26,9 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090420336) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/336/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 22 czerwca 1995 r. o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z2005 r. Nr 41, poz. 398, zpóên. zm. ) wart. 45 ust. 3 otrzymuje brzmienie: Ń3. Do przymusowego wykwaterowania:
+**Art. 1.** W ustawie z dnia 22 czerwca 1995 r. o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z 2005 r. Nr 41, poz. 398, z późn. zm. ) w art. 45 ust. 3 otrzymuje brzmienie: „3. Do przymusowego wykwaterowania:
 
-**Art. 3.** Ustawa wchodzi wżycie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński 336 USTAWA zdnia 23 stycznia 2009 r. ozmianie ustawy ozakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej ———————
+**Art. 2.** Do spraw wszczętych na podstawie art. 45 ust. 1 ustawy, o której mowa w art. 1, i niezakończonych do dnia wejścia w życie niniejszej ustawy stosuje się przepisy ustawy w brzmieniu nadanym niniejszą ustawą.
+
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# Ustawa z dnia 12 stycznia 2007 r. o zmianie ustawy - Prawo energetyczne, ustawy - Prawo ochrony środowiska oraz ustawy o systemie oceny zgodności
+# o zmianie ustawy – Prawo energetyczne, ustawy – Prawo ochrony środowiska oraz ustawy o systemie oceny zgodności
+
+*USTAWA z dnia 12 stycznia 2007 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,82 +26,83 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070210124) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/124/text.pdf) |
 
-**Art. 1.** Wustawie zdnia 10 kwietnia 1997 r. Prawo energetyczne (Dz. U. z 2006 r. 89, poz. 625, Nr104, poz. 708, 158, poz. 1123 iNr 170, poz. 1217) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2006 r. Nr 89, poz. 625, Nr 104, poz. 708, Nr 158, poz. 1123 i Nr 170, poz. 1217) wprowadza się następujące zmiany:
 
 **Art. 9m.**
 
-1. Przepisy art. 9e 6—13 i 15—17 stosuje się do:
+1. Przepisy art. 9e ust. 6-13 i 15-17 stosuje się do:
 
 - **1)** praw majątkowych wynikających ze świadectw pochodzenia z kogeneracji i przeniesienia tych praw;
-- **2)** prowadzenia rejestru świadectw pochodzenia z kogeneracji przez podmiot prowadzący giełdę towarową rozumieniu ustawy z dnia 26 paêdziernika 2000 r. o giełdach
-- **3)** wydawania dokumentu stwierdzającego prawa majątkowe wynikające ze świadectw pochodzenia z kogeneracji, przez podmiot, o którym pkt 2;
-- **4)** opłat za wpis do rejestru świadectw pochodzenia z kogeneracji oraz za dokonane zmiany wtym rejestrze;
+- **2)** prowadzenia rejestru świadectw pochodzenia z kogeneracji przez podmiot prowadzący giełdę towarową w rozumieniu ustawy z dnia 26 października 2000 r. o giełdach towarowych i organizujący na tej giełdzie obrót prawami majątkowymi wynikającymi ze świadectw pochodzenia z kogeneracji;
+- **3)** wydawania dokumentu stwierdzającego prawa majątkowe wynikające ze świadectw pochodzenia z kogeneracji, przez podmiot, o którym mowa w pkt 2;
+- **4)** opłat za wpis do rejestru świadectw pochodzenia z kogeneracji oraz za dokonane zmiany w tym rejestrze;
 - **5)** wniosków o umorzenie przez Prezesa Urzędu Regulacji Energetyki świadectw pochodzenia z kogeneracji i trybu ich umorzenia;
 - **6)** wygaśnięcia praw majątkowych wynikających ze świadectw pochodzenia z kogeneracji;
-- **7)** przekazywania, przez Prezesa Urzędu Regulacji Energetyki, podmiotowi, o którym pkt 2, informacji owydanych iumorzonych świadectwach pochodzenia zkogeneracji.
+- **7)** przekazywania, przez Prezesa Urzędu Regulacji Energetyki, podmiotowi, o którym mowa w pkt 2, informacji o wydanych i umorzonych świadectwach pochodzenia z kogeneracji.
 
-2. Prawom majątkowym wynikającym ze świadectw pochodzenia z kogeneracji odpowiada określona ilość energii elektrycznej wytworzonej wysokosprawnej kogeneracji, wyrażona z dokładnością do jednej kWh.
+2. Prawom majątkowym wynikającym ze świadectw pochodzenia z kogeneracji odpowiada określona ilość energii elektrycznej wytworzonej w wysokosprawnej kogeneracji, wyrażona z dokładnością do jednej kWh.
 
-3. Âwiadectwo pochodzenia zkogeneracji umorzone do dnia 31 marca danego roku kalendarzowego przez Prezesa Urzędu Regulacji Energetyki, obejmujące energię elektryczną z kogeneracji wytworzoną poprzednich latach kalendarzowych, jest uwzględniane przy rozliczeniu wykonania obowiązku określonego art. 9a 8, poprzednim roku kalendarzowym.
+3. Świadectwo pochodzenia z kogeneracji umorzone do dnia 31 marca danego roku kalendarzowego przez Prezesa Urzędu Regulacji Energetyki, obejmujące energię elektryczną z kogeneracji wytworzoną w poprzednich latach kalendarzowych, jest uwzględniane przy rozliczeniu wykonania obowiązku określonego w art. 9a ust. 8, w poprzednim roku kalendarzowym. raport oceniający postęp osiągnięty w zwiększaniu udziału energii elektrycznej wytwarzanej w wysokosprawnej kogeneracji w całkowitej krajowej produkcji energii elektrycznej i przedkłada go Komisji Europejskiej w terminie przez nią wyznaczonym.
 
-**Art. 9n.**
+2. Minister właściwy do spraw gospodarki ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, raport, o którym mowa w ust. 1, w terminie do dnia 21 lutego danego roku, w którym występuje obowiązek sporządzenia raportu.
 
-1. Minister właściwy do spraw gospodarki, co cztery lata, sporządza raport oceniający postęp osiągnięty wzwiększaniu udziału energii elektrycznej wytwarzanej wysokosprawnej kogeneracji całkowitej krajowej produkcji energii elektrycznej i przedkłada go Komisji Europejskiej terminie przez nią wyznaczonym.
+3. Minister właściwy do spraw gospodarki informuje Komisję Europejską o podjętych działaniach ułatwiających dostęp do systemu elektroenergetycznego przedsiębiorstwom energetycznym zajmującym się wytwarzaniem energii elektrycznej w wysokosprawnej kogeneracji w jednostkach kogeneracji o mocy elektrycznej zainstalowanej poniżej 1 MW.”;
 
-2. Minister właściwy do spraw gospodarki ogłasza, drodze obwieszczenia, Dzienniku Urzędowym Rzeczypospolitej Polskiej ŃMonitor Polski”, raport, októrym wust. 1, wterminie do dnia lutego danego roku, którym występuje obowiązek sporządzenia raportu.
+- **9)** w art. 16a:
+    - **a)** ust. 3 otrzymuje brzmienie: „3. Do przetargu stosuje się odpowiednio przepisy art. 9i ust. 4-9.”,
+    - **b)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. W przetargu mogą uczestniczyć także podmioty niebędące przedsiębiorstwami energetycznymi.”,
+    - **c)** ust. 8 otrzymuje brzmienie: „8. Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, szczegółowe wymagania co do zawartości dokumentacji przetargowej na budowę nowych mocy wytwórczych energii elektrycznej lub na realizację przedsięwzięć zmniejszających zapotrzebowanie na energię elektryczną oraz warunki i tryb organizowania i przeprowadzania przetargu, w tym powoływania i pracy komisji przetargowej, kierując się potrzebą zapewnienia przejrzystych warunków i kryteriów przetargu oraz równoprawnego traktowania jego uczestników.”;
 
-3. Minister właściwy do spraw gospotowarowych i organizujący na tej darki informuje Komisję Europejską nym zajmującym się wytwarzaniem energii elektrycznej wysokosprawnej kogeneracji jednostkach kogeneracji omocy elektrycznej zainstalowanej poniżej 1 MW.”;
+- **10)** w art. 19 w ust. 3 pkt 3 otrzymuje brzmienie: „3) możliwości wykorzystania istniejących nadwyżek i lokalnych zasobów paliw i energii, z uwzględnieniem energii elektrycznej i ciepła wytwarzanych w odnawialnych źródłach energii, energii elektrycznej i ciepła użytkowego wytwarzanych w kogeneracji oraz zagospodarowania ciepła odpadowego z instalacji przemysłowych;”;
+- **11)** w art. 20 w ust. 2 pkt 1a otrzymuje brzmienie: „1a) propozycje w zakresie wykorzystania odnawialnych źródeł energii i wysokosprawnej kogeneracji;”;
+- **12)** w art. 23 w ust. 2: 1 pkt 1 i 2,”, „21) wydawanie świadectw pochodzenia, o których mowa w art. 9e ust. 1, i świadectw pochodzenia z kogeneracji, o których mowa w art. 9l ust. 1, oraz ich umarzanie;”;
+    - **a)** w pkt 3 w lit. d średnik zastępuje się przecinkiem i dodaje się lit. e w brzmieniu: „e) jednostkowych opłat zastępczych, o których mowa w art. 9a ust. 8a;”,
+    - **b)** w pkt 18 lit. a otrzymuje brzmienie: „a) średnich cen sprzedaży energii elektrycznej wytworzonej w wysokosprawnej kogeneracji obliczonych oddzielnie dla energii elektrycznej wytworzonej w jednostkach kogeneracji, o których mowa w art. 9l ust.
 
-- **9)** art. 16a:
-    - **a)** 3 otrzymuje brzmienie: Ń3. Do przetargu stosuje się odpowiednio przepisy art. 9i 4—9.”,
-    - **b)** po 3 dodaje się 3a brzmieniu: Ń3a. W przetargu mogą uczestniczyć także podmioty niebędące przedsiębiorstwami energetycznymi.”,
-    - **c)** 8 otrzymuje brzmienie: Ń8. Minister właściwy do spraw gospodarki określi, drodze rozporządzenia, szczegółowe wymagania co do zawartości dokumentacji przetargowej na budowę nowych mocy wytwórczych energii elektrycznej lub na realizację przedsięwzięć zmniejszających zapotrzebowanie na energię elektryczną oraz warunki itryb organizowania i przeprowadzania przetargu, tym powoływania i pracy komisji przetargowej, kierując się potrzebą zapewnienia przejrzystych warunków i kryteriów przetargu oraz równoprawnego traktowania jego uczestników.”;
+- **13)** w art. 32 w ust. 1 pkt 1 otrzymuje brzmienie: „1) wytwarzania paliw lub energii, z wyłączeniem: wytwarzania paliw stałych lub paliw gazowych, wytwarzania energii elektrycznej w źródłach o łącznej mocy zainstalowanej elektrycznej nieprzekraczającej 50 MW niezaliczanych do odnawialnych źródeł energii lub do źródeł wytwarzających energię elektryczną w kogeneracji, wytwarzania ciepła w źródłach o łącznej mocy zainstalowanej cieplnej nieprzekraczającej 5 MW;”;
+- **14)** w art. 47 po ust. 2d dodaje się ust. 2e w brzmieniu: „2e. Prezes URE analizuje i weryfikuje koszty uzasadnione, o których mowa w art. 45 ust. 1 pkt 1 i 2, w zakresie ich zgodności z przepisami ustawy, na podstawie sprawozdań finansowych i planów rzeczowo-finansowych przedsiębiorstw energetycznych, biorąc pod uwagę tworzenie warunków do konkurencji i promocji efektywności wykonywanej działalności gospodarczej, a w szczególności stosując metody porównawcze oceny efektywności przedsiębiorstw energetycznych wykonujących w zbliżonych warunkach działalność gospodarczą tego samego rodzaju.”;
+- **15)** w art. 56:
+    - **a)** w ust. 1: – pkt 1a otrzymuje brzmienie: „1a) nie przestrzega obowiązków uzyskania i przedstawienia do umorzenia Prezesowi URE świadectwa pochodzenia lub świadectwa pochodzenia z kogeneracji albo nie uiszcza opłat zastępczych, o których mowa w art. 9a ust. 1 i 8, lub nie przestrzega obowiązków zakupu energii elektrycznej, o których mowa w art. 9a ust. 6, lub nie przestrzega obowiązków zakupu ciepła, o których mowa w art. 9a ust. 7, lub przedkłada Prezesowi URE wnioski o wydanie świadectwa pochodzenia lub świadectwa pochodzenia z kogeneracji zawierające dane lub informacje niezgodne ze stanem faktycznym;”, – pkt 6 otrzymuje brzmienie: „6) stosuje ceny lub stawki opłat wyższe od zatwierdzonych lub stosuje taryfę niezgodnie z określonymi w niej warunkami;”,
+    - **b)** w ust. 2a pkt 3 otrzymuje brzmienie: „3) w zakresie nieprzestrzegania obowiązków, o których mowa w art. 9a ust. 8, obliczona według wzoru: K = 1,3 x (O – O ), gdzie poszczególne symbole oznaczają: K – minimalną wysokość kary pieniężnej, wyrażoną w złotych, O – opłatę zastępczą, obliczoną zgodnie z art. 9a ust. 8a, wyrażoną w złotych, O – uiszczoną opłatę zastępczą, wyrażoną w złotych.”.
 
-- **10)** art. 19 3 pkt 3 otrzymuje brzmienie: Ń3) możliwości wykorzystania istniejących nadwyżek i lokalnych zasobów paliw i energii, z uwzględnieniem energii elektrycznej i ciepła wytwarzanych odnawialnych êródłach energii, energii elektrycznej iciepła użytkowego wytwarzanych kogeneracji oraz zagospodarowania ciepła odpadowego z instalacji przemysłowych;”;
-- **11)** art. 20 2 pkt 1a otrzymuje brzmienie: Ń1a) propozycje zakresie wykorzystania odnawialnych êródeł energii i wysokosprawnej kogeneracji;”;
-- **12)** art. 23 2:
-    - **a)** wpkt 3wlit. dśrednik zastępuje się przecinkiem i dodaje się lit. e brzmieniu: Ńe) jednostkowych opłat zastępczych, októrych art. 9a 8a;”,
-    - **b)** pkt 18 lit. a otrzymuje brzmienie: Ńa) średnich cen sprzedaży energii elektrycznej wytworzonej wysokosprawnej kogeneracji obliczonych oddzielnie
-    - **c)** pkt otrzymuje brzmienie: Ń21) wydawanie świadectw pochodzenia, októrych wart. 9e ust.1, iświadectw pochodzenia z kogeneracji, októrych wart.9l 1, oraz ich umarzanie;”;
+**Art. 2.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2006 r. Nr 129, poz. 902, Nr 169, poz. 1199, Nr 170, poz. 1217 i Nr 249, poz. 1832) w art. 401 ust. 9 i 10 otrzymują brzmienie: „9. Przychodami Narodowego Funduszu są także wpływy z opłat zastępczych, o których mowa w art. 9a ust. 1 pkt 2 i ust. 8 pkt 2 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2006 r. Nr 89, poz. 625, z późn. zm. ), oraz wpływy z kar pieniężnych wymierzanych na podstawie art. 56 ust. 1 pkt 1a tej ustawy. 10. Przychody, o których mowa w ust. 9, przeznacza się wyłącznie na wspieranie odnawialnych źródeł energii lub wysokosprawnej kogeneracji, w rozumieniu ustawy, o której mowa w ust. 9.”.
 
-- **13)** art. 32 1 pkt 1 otrzymuje brzmienie: Ń1) wytwarzania paliw lub energii, z wyłączeniem: wytwarzania paliw stałych lub paliw gazowych, wytwarzania energii elektrycznej wêródłach ołącznej mocy zainstalowanej elektrycznej nieprzekraczającej 50 MW niezaliczanych do odnawialnych êródeł energii lub do êródeł wytwarzających energię elektryczną kogeneracji, wytwarzania ciepła êródłach o łącznej mocy zainstalowanej cieplnej nieprzekraczającej 5 MW;”;
-- **14)** art. 47 po 2d dodaje się 2e brzmieniu: Ń2e. Prezes URE analizuje i weryfikuje koszty uzasadnione, o których art. 45 1 pkt 1 i 2, zakresie ich zgodności z przepisami ustawy, na podstawie sprawozdań finansowych i planów rzeczowo-finansowych przedsiębiorstw energetycznych, biorąc pod uwagę tworzenie warunków do konkurencji i promocji efektywności wykonywanej działalności gospodarczej, a szczególności stosując metody porównawcze oceny efektywności przedsiębiorstw energetycznych wykonujących zbliżonych warunkach działalność gospodarczą tego samego rodzaju.”;
-- **15)** art. 56:
-    - **a)** 1: pkt 1a otrzymuje brzmienie: Ń1a) nie przestrzega obowiązków uzyskania i przedstawienia do umorzenia Prezesowi URE świadectwa pochodzenia lub świadectwa pochodzenia z kogeneracji albo nie uiszcza opłat zastępczych, o których wart.9a 1i8, lub nie przestrzega obowiązków zakupu energii elektrycznej, o których art. 9a 6, lub nie przestrzega obowiązków zakupu ciepła, o których art. 9a 7, lub przedkłada Prezesowi URE wnioski o wydanie świadectwa pochodzenia lub świadectwa pochodzenia z kogeneracji zawierające dane lub informacje niezgodne ze stanem faktycznym;”, pkt 6 otrzymuje brzmienie: dla energii elektrycznej wytworzonej Ń6) stosuje ceny lub stawki opłat wyższe od zatwierdzonych lub stosuje taryfę
-    - **b)** 2a pkt 3 otrzymuje brzmienie: Ń3) zakresie nieprzestrzegania obowiązków, o których art. 9a 8, obliczona według wzoru: K = 1,3 x (O O ), gdzie poszczególne symbole oznaczają: K minimalną wysokość kary pieniężnej, wyrażoną złotych, O opłatę zastępczą, obliczoną zgodnie z art. 9a 8a, wyrażoną złotych, O uiszczoną opłatę zastępczą, wyrażoną złotych.”.
+**Art. 3.** W ustawie z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2004 r. Nr 204, poz. 2087, z późn. zm. ) w art. 26 w ust. 1 pkt 3 otrzymuje brzmienie: „3) prowadzenie wykazu:
 
-**Art. 2.** Wustawie zdnia 27 kwietnia 2001 r. Prawo ochrony środowiska (Dz. U. z 2006 r. 129, poz.902, 169, poz. 1199,Nr 170, poz. 1217 i 249, poz. 1832) art. 401 9 i 10 otrzymują brzmienie: Ń9. Przychodami Narodowego Funduszu są także wpływy z opłat zastępczych, o których art. 9a 1 pkt 2 i 8 pkt 2 ustawy z dnia 10kwietnia 1997 r. Prawo energetyczne (Dz. U. z2006 r. 89, poz. 625, z póên. zm. ), oraz wpływy zkar pieniężnych wymierzanych na podstawie art. 56 1 pkt 1a tej ustawy. 10. Przychody, o których 9, przeznacza się wyłącznie na wspieranie odnawialnych êródeł energii lub wysokosprawnej kogeneracji, wrozumieniu ustawy, o której 9.”.
+**Art. 4.**
 
-**Art. 3.** W ustawie z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2004 r. 204, poz.2087, z póên. zm. ) wart. 26 wust. 1pkt3 otrzymuje brzmienie: Ń3) prowadzenie wykazu:
+1. Do dnia 30 czerwca 2007 r. przedsiębiorstwa energetyczne dostosują umowy o świadczenie usług dystrybucji energii elektrycznej i umowy sprzedaży energii elektrycznej do wymagań określonych w art. 5 ust. 2a i 2b ustawy wymienionej w art. 1, z zastrzeżeniem ust. 2.
 
-**Art. 5.** Do dnia 31 grudnia 2011 r. opłatę za przyłączenie, o której art. 7 8 pkt 3 ustawy wymienionej art. 1, odniesieniu do przyłączenia do sieci elektroenergetycznej jednostek kogeneracji o mocy elektrycznej zainstalowanej nie wyższej niż 5 MW, pobiera się wysokości połowy obliczonej opłaty.
+2. Od dnia wejścia w życie niniejszej ustawy do dnia 30 czerwca 2007 r., w przypadku pisemnego zgłoszenia zamiaru zmiany sprzedawcy energii elektrycznej przez odbiorcę uprawnionego do wyboru sprzedawcy, przedsiębiorstwo energetyczne dostosuje umowy, o których mowa w ust. 1, do wymagań określonych w art. 5 ust. 2a i 2b ustawy wymienionej w art. 1, w terminie 14 dni od dnia otrzymania zgłoszenia odbiorcy.
 
-**Art. 6.** Prezes Urzędu Regulacji Energetyki ustali i ogłosi Biuletynie Urzędu Regulacji Energetyki jednostkowe opłaty zastępcze, o których art. 9a 8a ustawy wymienionej art. 1, obowiązujące roku 2007, terminie 30 dni od dnia wejścia życie niniejszej ustawy.
+**Art. 5.** Do dnia 31 grudnia 2011 r. opłatę za przyłączenie, o której mowa w art. 7 ust. 8 pkt 3 ustawy wymienionej w art. 1, w odniesieniu do przyłączenia do sieci elektroenergeMW, pobiera się w wysokości połowy obliczonej opłaty.
 
-**Art. 7.** Podmioty wykonujące działalność gospodarczą zakresie wytwarzania energii elektrycznej kogeneracji, która na podstawie przepisów dotychczasowych nie wymagała uzyskania koncesji, i zamierzające wystąpić zwnioskiem owydanie świadectwa pochodzenia z kogeneracji, o którym art. 9l 1 ustawy wymienionej art. 1, mogą tę działalność wykonywać na dotychczasowych zasadach do czasu ostatecznego rozstrzygnięcia sprawy przez Prezesa Urzędu Regulacji Energetyki, pod warunkiem złożenia wniosku o udzielenie koncesji na wytwarzanie energii elektrycznej kogeneracji, terminie 3 miesięcy od dnia wejścia życie niniejszej ustawy.
+**Art. 6.** Prezes Urzędu Regulacji Energetyki ustali i ogłosi w Biuletynie Urzędu Regulacji Energetyki jednostkowe opłaty zastępcze, o których mowa w art. 9a ust. 8a ustawy wymienionej w art. 1, obowiązujące w roku 2007, w terminie 30 dni od dnia wejścia w życie niniejszej ustawy.
+
+**Art. 7.** Podmioty wykonujące działalność gospodarczą w zakresie wytwarzania energii elektrycznej w kogeneracji, która na podstawie przepisów dotychczasowych nie wymagała uzyskania koncesji, i zamierzające wystąpić z wnioskiem o wydanie świadectwa pochodzenia z kogeneracji, o którym mowa w art. 9l ust. 1 ustawy wymienionej w art. 1, mogą tę działalność wykonywać na dotychczasowych zasadach do czasu ostatecznego rozstrzygnięcia sprawy przez Prezesa Urzędu Regulacji Energetyki, pod warunkiem złożenia wniosku o udzielenie koncesji na wytwarzanie energii elektrycznej w kogeneracji, w terminie 3 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
 **Art. 8.**
 
-1. Pierwsze świadectwa pochodzenia z kogeneracji, o których art. 9l 1 ustawy wymienionej wart. 1, mogą być wydane dla energii elektrycznej wytworzonej okresie jednego lub więcej następujących po sobie miesięcy kalendarzowych 2007 r. pod warunkiem przedstawienia przez przed);”. siębiorstwa energetyczne, wraz z wnioskiem, o którym art. 9l 3 ustawy wymienionej art. 1, opinii akredytowanej jednostki, o której mowa art. 9l 16 ustawy wymienionej art. 1, potwierdzającej dane dotyczące możliwej do uzyskania ilości energii elektrycznej z wysokosprawnej kogeneracji 2007 r.
+1. Pierwsze świadectwa pochodzenia z kogeneracji, o których mowa w art. 9l ust. 1 ustawy wymienionej w art. 1, mogą być wydane dla energii elektrycznej wytworzonej w okresie jednego lub więcej następujących po sobie miesięcy kalendarzowych w 2007 r. pod warunkiem przedstawienia przez przedsiębiorstwa energetyczne, wraz z wnioskiem, o którym mowa w art. 9l ust. 3 ustawy wymienionej w art. 1, opinii akredytowanej jednostki, o której mowa w art. 9l ust. 16 ustawy wymienionej w art. 1, potwierdzającej dane dotyczące możliwej do uzyskania ilości energii elektrycznej z wysokosprawnej kogeneracji w 2007 r.
 
-2. Âwiadectw pochodzenia zkogeneracji, októrych art. 9l 1 ustawy wymienionej art. 1, ——————— wydanych dla energii elektrycznej wytworzonej do
+2. Świadectw pochodzenia z kogeneracji, o których mowa w art. 9l ust. 1 ustawy wymienionej w art. 1, wydanych dla energii elektrycznej wytworzonej do dnia 30 czerwca 2007 r. nie zalicza się do wypełnienia obowiązku, o którym mowa w art. 9a ust. 8 pkt 1 ustawy wymienionej w art. 1.
 
 **Art. 9.**
 
-1. Ogłoszenie pierwszego raportu, októrym art. 9n 1 ustawy wymienionej art. 1, nastąpi wterminie 3miesięcy od dnia wejścia wżycie niniejszej ustawy.
+1. Ogłoszenie pierwszego raportu, o którym mowa w art. 9n ust. 1 ustawy wymienionej w art. 1, nastąpi w terminie 3 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-2. Raport, o którym 1, będzie zawierał także:
+2. Raport, o którym mowa w ust. 1, będzie zawierał także:
 
 - **1)** ocenę możliwości stosowania wysokosprawnej kogeneracji oraz barier utrudniających wykorzystanie krajowego potencjału wysokosprawnej kogeneracji;
 - **2)** informację o zastosowanych środkach mających na celu zapewnienie niezawodności systemu wydawania świadectw pochodzenia z kogeneracji.
 
-**Art. 10.** Do spraw wszczętych i niezakończonych przed dniem wejścia wżycie niniejszej ustawy stosuje się przepisy tej ustawy. wych przepisów wykonawczych wydanych na podstawie art. 9a 9 ustawy wymienionej art. 1, brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez rok od dnia wejścia wżycie niniejszej ustawy.
+**Art. 10.** Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy tej ustawy.
 
-**Art. 13.** Przepisy art. 9a 8—8d, art. 9l 11—15, art. 9m, art. 23 2 pkt 3 lit. e i pkt oraz art. 56 1 pkt 1a i 2a pkt 3 ustawy wymienionej art. 1, brzmieniu nadanym niniejszą ustawą, zakresie obowiązków uzyskania i przedstawienia do umorzenia świadectw pochodzenia zkogeneracji oraz uiszczenia opłaty zastępczej, stosuje się do dnia 31 marca 2013 r.
+**Art. 11.** Wypełnienie i ocena wypełnienia obowiązku zakupu energii elektrycznej wytworzonej w skojarzeniu z wytwarzaniem ciepła za okres od dnia 1 stycznia 2007 r. do dnia 30 czerwca 2007 r. nałożonego na podstawie art. 9a ust. 8 ustawy wymienionej w art. 1, w brzmieniu dotychczasowym, następuje na podstawie przepisów dotychczasowych.
 
-**Art. 14.** Ustawa wchodzi wżycie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+**Art. 12.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 9a ust. 9 ustawy zmienianej w art. 1, zachowują moc do czasu wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 9a ust. 9 ustawy wymienionej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez rok od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 11.** Wypełnienie iocena wypełnienia obowiązku zakupu energii elektrycznej wytworzonej skojarzeniu zwytwarzaniem ciepła za okres od dnia 1stycznia 2007 r. do dnia 30 czerwca 2007 r. nałożonego na podstawie art. 9a 8 ustawy wymienionej wart. 1, brzmieniu dotychczasowym, następuje na podstawie przepisów dotychczasowych. 2a pkt 3 ustawy wymienionej art. 1, brzmieniu nadanym niniejszą ustawą, które wchodzą życie z dniem 1 lipca 2007 r.;
+**Art. 13.** (uchylony).
 
-**Art. 1.** W ustawie z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2003 r. 159, poz. 1548, z póên. zm.
+**Art. 14.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 

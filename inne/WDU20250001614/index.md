@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 25 listopada 2025 r.
+# w sprawie ogłoszenia jednolitego tekstu ustawy Prawo o ustroju sądów wojskowych
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 7 listopada 2025 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2025-11-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001614) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1614/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 7 listopada 2025 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy Prawo o ustroju sądów wojskowych
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 21 sierpnia 1997 r. Prawo o ustroju sądów wojskowych (Dz. U. z 2022 r. poz. 2250), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 6 marca 2025 r. o zmianie ustawy Prawo o ustroju sądów powszechnych oraz ustawy Prawo o ustroju sądów wojskowych (Dz. U. poz. 526) oraz zmian wynikających z przepisów ogłoszonych przed dniem 5 listopada 2025 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 3–5 ustawy z dnia 6 marca 2025 r. o zmianie ustawy Prawo o ustroju sądów powszechnych oraz ustawy Prawo o ustroju sądów wojskowych (Dz. U.
 poz. 526), które stanowią: „Art. 3. Delegowanie sędziego do pełnienia obowiązków sędziego w innym sądzie dokonane przed dniem wejścia w życie niniejszej ustawy pozostaje w mocy.
@@ -179,7 +179,7 @@ Art. 65–69. (pominięte)
 
 6. Odwołanie prezesa sądu wojskowego albo jego zastępcy następuje po zasięgnięciu opinii Krajowej Rady Sądownictwa. Zamiar odwołania, wraz z pisemnym uzasadnieniem, Minister Sprawiedliwości w porozumieniu z Ministrem Obrony Narodowej przedstawia Krajowej Radzie Sądownictwa w celu uzyskania opinii.
 
-6a. Występując o opinię do Krajowej Rady Sądownictwa Minister Sprawiedliwości w porozumieniu z Ministrem Obrony Narodowej może zawiesić prezesa sądu wojskowego albo jego zastępcę w pełnieniu czynności. Przepis art. 22b 2 ustawy z dnia 27 lipca 2001 r. Prawo o ustroju sądów powszechnych stosuje się odpowiednio. Sprawiedliwości wiążąca, jeżeli uchwała w tej sprawie została podjęta większością dwóch trzecich głosów.
+6a. Występując o opinię do Krajowej Rady Sądownictwa Minister Sprawiedliwości w porozumieniu z Ministrem Obrony Narodowej może zawiesić prezesa sądu wojskowego albo jego zastępcę w pełnieniu czynności. Przepis art. 22b 2 ustawy z dnia 27 lipca 2001 r. Prawo o ustroju sądów powszechnych stosuje się odpowiednio.
 
 7. Niewydanie opinii przez Krajową Radę Sądownictwa w terminie 30 dni od dnia przedstawienia przez Ministra Sprawiedliwości w porozumieniu z Ministrem Obrony Narodowej zamiaru odwołania prezesa sądu wojskowego albo jego zastępcy nie stoi na przeszkodzie odwołaniu.
 
@@ -228,7 +228,7 @@ Art. 65–69. (pominięte)
 
 1. Prezesi sądów wojskowych wykonują czynności nadzoru służbowego i administracji sądowej przewidziane w przepisach postępowania sądowego oraz w regulaminach urzędowania, a także inne czynności określone w ustawach i odrębnych przepisach.
 
-2. W zakresie, o którym mowa w 1, prezesi wojskowych sądów garnizonowych podlegają prezesom właściwych wojskowych sądów okręgowych, a prezesi tych sądów Ministrowi Sprawiedliwości. swoim zastępcom, a w szczególnych przypadkach sędziom.
+2. W zakresie, o którym mowa w 1, prezesi wojskowych sądów garnizonowych podlegają prezesom właściwych wojskowych sądów okręgowych, a prezesi tych sądów Ministrowi Sprawiedliwości.
 
 4. Prezes sądu wojskowego wyznacza sędziego do sprawowania nadzoru penitencjarnego.
 
@@ -445,7 +445,7 @@ Art. 65–69. (pominięte)
 
 6. (uchylony)
 
-8. (uchylony)
+7. (uchylony)
 
 9. (uchylony)
 
@@ -755,7 +755,7 @@ Art. 65–69. (pominięte)
 - **2)** zachowania godzącego w powagę sądu;
 - **3)** utraty warunków, o których mowa w art. 55 1 pkt 2.
 
-2. Zebranie żołnierzy, o którym mowa w 1, może odwołać ławnika z własnej inicjatywy lub na wniosek prezesa właściwego sądu wojskowego. ławnika.
+2. Zebranie żołnierzy, o którym mowa w 1, może odwołać ławnika z własnej inicjatywy lub na wniosek prezesa właściwego sądu wojskowego.
 
 2. Dodatkowe wybory ławników zarządza prezes właściwego sądu wojskowego.
 
@@ -789,7 +789,7 @@ Art. 65–69. (pominięte)
 - **2)** uprawnienia określone w art. 92 1 powołanej ustawy przysługują, jeżeli sędzia wojskowy nie nabył wcześniej prawa do urlopu dodatkowego określonego w przepisach ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny;
 - **3)** oceny pracy sędziów sądów wojskowych dokonują sędziowie wizytatorzy, powoływani przez Ministra Sprawiedliwości spośród sędziów wojskowego sądu okręgowego, po zasięgnięciu opinii kolegium wojskowego sądu okręgowego; negatywna opinia kolegium jest dla Ministra Sprawiedliwości wiążąca; kandydatów do sprawowania funkcji wizytatora zgłasza prezes wojskowego sądu okręgowego;
 - **4)** przepisów art. 131 powołanej ustawy nie stosuje się w przypadkach określonych w art. 15 niniejszej ustawy;
-- **5)** uprawnienia określone w art. 172–174 powołanej ustawy przysługują w przypadku określonym w art. 61 niniejszej ustawy; wojskowej;
+- **5)** uprawnienia określone w art. 172–174 powołanej ustawy przysługują w przypadku określonym w art. 61 niniejszej ustawy;
 - **7)** obsada wolnych stanowisk sędziowskich, o których mowa w art. 20a 1–2a powołanej ustawy, następuje z uwzględnieniem potrzeb kadrowych sądownictwa wojskowego;
 - **8)** zgłoszenia kandydatury na wolne stanowisko sędziowskie dokonuje się poprzez złożenie karty zgłoszenia w dwóch egzemplarzach; nie ma zastosowania system teleinformatyczny obsługujący postępowanie w sprawie powołania do pełnienia urzędu na stanowisku sędziego sądu powszechnego.
 

@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 6 listopada 2015 r.
+# o zmianie ustawy o finansowym wsparciu tworzenia lokali socjalnych, mieszkań chronionych, noclegowni i domów dla bezdomnych
+
+*USTAWA z dnia 25 września 2015 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +25,6 @@ domain: null
 | Data wydania | 2015-11-06 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001815) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1815/text.pdf) |
-
-Poz. 1815
-USTAWA z dnia 25 września 2015 r.
-o zmianie ustawy o finansowym wsparciu tworzenia lokali socjalnych, mieszkań chronionych, noclegowni i domów dla bezdomnych
 
 **Art. 1.** W ustawie z dnia 8 grudnia 2006 r. o finansowym wsparciu tworzenia lokali socjalnych, mieszkań chronionych, noclegowni i domów dla bezdomnych (Dz. U. z 2015 r. poz. 833) wprowadza się następujące zmiany:
 

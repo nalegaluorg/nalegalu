@@ -12,6 +12,8 @@ domain: null
 
 # Ustawa z dnia 29 kwietnia 2010 r. o zmianie ustawy o komercjalizacji i prywatyzacji oraz ustawy - Przepisy wprowadzające ustawę o finansach publicznych
 
+*USTAWA z dnia 29 kwietnia 2010 o zmianie o komercjalizacji prywatyzacji oraz – Przepisy wprowadzające ustawę o finansach publicznych*
+
 | Pole | Wartość |
 |---|---|
 | Adres publikacyjny | Dz.U. 2010 nr 108 poz. 685 |
@@ -24,7 +26,19 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101080685) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/685/text.pdf) |
 
-**Art. 1.** W ustawie z 30 sierpnia 1996 r. komercjalizacji i prywatyzacji (Dz. U. z 2002 r. 171, poz. 1397, z późn. zm. ) art. 56 wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 30 sierpnia 1996 o komercjalizacji prywatyzacji (Dz. U. z 2002 Nr 171, poz. 1397, z późn. zm. ) art. 56 wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie z 27 sierpnia 2009 r. Przepisy wprowadzające ustawę finansach publicznych (Dz. U. 157, poz. 1241 i 219, poz. 1706 oraz prywatyzacji, którym mowa art. 56 gromadzi się 3 % przychodów uzyskanych z prywatyustawy, której mowa art. 1, gromadzi się 1,5 % zacji danym roku budżetowym oraz odsetki od tych środków uzyskanych ze sprzedaży akcji należących do środków z przeznaczeniem na wsparcie celu ratoSkarbu Państwa każdej ze spółek powstałych wy- wania lub restrukturyzacji przedsiębiorców, tym niku komercjalizacji oraz odsetki od tych środków, przeznaczonych do prywatyzacji. z przeznaczeniem na cele, których mowa art. 56 ustawy, której mowa art. 1, brzmie- Art. 6. Przepis art. 56 4a ustawy, której moniu nadanym niniejszą ustawą. wa art. 1, dodawany niniejszą ustawą stosuje się począwszy od 2013 r. 2. Minister właściwy do spraw Skarbu Państwa latach 2011 i 2012, przekazuje, terminie do Art. 7. Ustawa wchodzi życie po upływie 14 dni 31 stycznia każdego roku, z Funduszu, którym mowa od ogłoszenia, z wyjątkiem art. 2, który 1, na przychody budżetu państwa, nadwyżkę wchodzi życie z dniem stycznia 2012 r. stanowiącą różnicę między przychodami tego Funduszu uzyskanymi poprzednim roku budżetowym a sumą wydatków poniesionych poprzednim roku Marszałek Sejmu wykonujący obowiązki budżetowym oraz planowanych do poniesienia da- Prezydenta Rzeczypospolitej Polskiej: B. Komorowski
+**Art. 2.** W ustawie z dnia 27 sierpnia 2009 – Przepisy wprowadzające ustawę o finansach publicznych (Dz. U. Nr 157, poz. 1241 Nr 219, poz. 1706) art. 28 uchyla się lit. b c.
+
+**Art. 3.** Z Funduszu Reprywatyzacji, o którym mowa art. 56 ust. pkt ustawy, o której mowa art. 1, przekazuje się terminie 30 dni od dnia wejścia życie niniejszej jednorazową wpłatę na przychody budżetu państwa wysokości 000 000 000 zł.
+
+**Art. 4.**
+
+1. Od dnia wejścia życie niniejszej dnia 31 grudnia 2011 na rachunku Funduszu Reprywatyzacji, o którym mowa art. 56 ust. pkt ustawy, o której mowa art. 1, gromadzi się 1,5 % środków uzyskanych ze sprzedaży akcji należących każdej ze spółek powstałych wyniku komercjalizacji oraz odsetki od tych środków, z przeznaczeniem na cele, o których mowa art. 56 ust. pkt ustawy, o której mowa art. 1, brzmieniu nadanym niniejszą ustawą. terminie dnia 31 stycznia każdego roku, z Funduszu, o którym mowa ust. 1, na przychody budżetu państwa, nadwyżkę stanowiącą różnicę między przychodami tego Funduszu uzyskanymi poprzednim roku budżetowym a sumą wydatków poniesionych poprzednim roku budżetowym oraz planowanych poniesienia danym roku budżetowym na cele, o których mowa art. 56 ust. pkt ustawy, o której mowa art. 1, brzmieniu nadanym niniejszą ustawą.
+
+**Art. 5.** Od dnia wejścia życie niniejszej dnia 31 grudnia 2011 na rachunku Funduszu Restrukturyzacji Przedsiębiorców, o którym mowa art. 56 ust. pkt 2 ustawy, o której mowa art. 1, gromadzi się 3% przychodów uzyskanych z prywatyzacji danym roku budżetowym oraz odsetki od tych środków z przeznaczeniem na pomoc celu ratowania lub restrukturyzacji przedsiębiorców, tym przedsiębiorców publicznych oraz na udzielanie wsparcia niebędącego pomocą publiczną.
+
+**Art. 6.** Przepis art. 56 ust. 4a ustawy, o której mowa art. 1, dodawany niniejszą ustawą stosuje się począwszy od 2013
+
+**Art. 7.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. pkt 2, który wchodzi życie z dniem stycznia 2012
 

@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 10 lutego 2025 r.
+# o ustanowieniu Narodowego Dnia Pamięci Żołnierzy Armii Krajowej W hołdzie żołnierzom Armii Krajowej – największej konspiracyjnej armii w podbitej przez Niemcy i Rosję Europie, armii, która jako zbrojne ramię Polskiego Państwa Podziemnego prowadziła bohaterską walkę o odzyskanie przez Rzeczpospolitą Polską suwerenności i niepodległości, a której żołnierze po II wojnie światowej byli prześladowani przez władze komunistyczne zależne od Związku Sowieckiego – stanowi się, co następuje:
+
+*USTAWA z dnia 9 stycznia 2025 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +25,6 @@ domain: null
 | Data wydania | 2025-02-10 |
 | Ostatnia zmiana | 2025-02-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000165) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/165/text.pdf) |
-
-Poz. 165
-USTAWA z dnia 9 stycznia 2025 r.
-o ustanowieniu Narodowego Dnia Pamięci Żołnierzy Armii Krajowej W hołdzie żołnierzom Armii Krajowej – największej konspiracyjnej armii w podbitej przez Niemcy i Rosję Europie, armii, która jako zbrojne ramię Polskiego Państwa Podziemnego prowadziła bohaterską walkę o odzyskanie przez Rzeczpospolitą Polską suwerenności i niepodległości, a której żołnierze po II wojnie światowej byli prześladowani przez władze komunistyczne zależne od Związku Sowieckiego – stanowi się, co następuje:
 
 **Art. 1.** Dzień 14 lutego ustanawia się Narodowym Dniem Pamięci Żołnierzy Armii Krajowej.
 

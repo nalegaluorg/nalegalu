@@ -10,7 +10,9 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# doko nywania zysku lub tym ulgi we tach zysku.
+# Ustawa z dnia 1 grudnia 1995 r. o wpłatach z zysku przez jednoosobowe spółki Skarbu Państwa.
+
+*USTAWA 1 grudnia 1995 o wpłatach zysku przez jednoosobowe spółki Skarbu Państwa*
 
 | Pole | Wartość |
 |---|---|
@@ -24,59 +26,35 @@ domain: null
 | Ostatnia zmiana | 2025-10-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19951540792) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1995/792/text.pdf) |
 
-**Art. 13.**
-
-1. Izby skarbowe funduszy biorstw oraz ich zmian.
-
-2. zysku, której wart. 12 ust. 1, skarbowe.
-
-3. zysku dokonywane for mie zaliczek lub kwartal nych.
-
-4. Wyboru okresu, jaki dokony wana zaliczki, dokonuje przed
-
-5. ustalenia zaliczki jest zysk danym okresie, liczony rachunku
-
-6. zaliczki wynosi 15% zysku po opodatkowaniu podatkiem docho dowym. Art. '14. Wysokość stopy procentowej do nal icza nia zysku wynosi 15% zysku po opodatkowaniu podatkiem dochodo (Dz. U. 1991 18, poz. 80, 75, poz. 329, 101, poz. 444 i 107, poz. 464, 1993 18, poz. 82 i 60, poz. 280, 1994 1, poz. 3, 80, poz. 368 i 113, poz. 547 oraz 1995 1, poz. 2 i 95, poz. 474) wprowadza zmiany:
-
-- **1)** wart. 19 ust. 1:
-    - **a)** pkt 1 otrzymuje brzmienie: " 1) prowadzi go ze kolejnych sze
-    - **b)** pkt a;
-
-- **2)** wart. 37a ust. 1 pkt 3 i wart. 45c ust. 1 pkt 2 wyrazy "lub dywidendy obliga toryjnej" ;
-- **3)** wart. 56 ust. 1 wyrazy "lub nie dywidendy" ;
-- **4)** wart. 65 ust. 1 wyrazy "lub zysk po opodatkowaniu nie wystarcza na dywi dendy obligatoryjnej".
-
-**Art. 3.** Ustawa wchodzi dniem 1 stycznia 1996 Prezydent Rzeczypospolitej Polskiej: A. 792 USTAWA dnia 1 grudnia 1995 zysku przez jednoosobowe Skarbu
-
-**Art. 1.** Przepisy ustawy, art. 7, sto suje do:
+**Art. 1.** Przepisy ustawy, zastrzeżeniem art. 7, stosuje się do:
 
 **Art. 2.**
 
-1. wart. 1, obo do dokonywania zysku po opodatko waniu podatkiem dochodowym, zwanych dalej zysku", na rzecz
+1. Spółki, o których mowa art. 1, są obowiązane do dokonywania wpłat zysku po opodatkowaniu podatkiem dochodowym, zwanych dalej „wpłatami zysku”, rzecz Funduszu Inwestycji Kapitałowych, o którym mowa art. 33a ust. 1 16 grudnia 2016 o zasadach zarządzania mieniem państwowym (Dz. U. 2024 125, 834, 1823, 1897 1940).
 
-2. zysku dokonywane zaiiczkowo okresach ne rozliczenie lub kwartalnych. Ostateczpo zatwierdzeniu sprawozda nia finansowego.
+2. Wpłaty zysku dokonywane są zaliczkowo okresach miesięcznych lub kwartalnych. Ostateczne rozliczenie następuje po zatwierdzeniu sprawozdania finansowego.
 
-3. Wyboru okresu, jaki dokonywana liczka, dokonuje
+3. Wyboru okresu, za jaki będzie dokonywana zaliczka, dokonuje spółka.
 
-4. deklaracje wy zysku po opodatkowaniu podatkiem dochodo wym, od roku obrotowego, i na rachunek skarbowego, go siedziby zaliczki (kwar talne) zysku zysku od roku ob rotowego a zaliczek poprzednie
+4. Spółki są obowiązane składać deklaracje o wysokości zysku po opodatkowaniu podatkiem dochodowym, osiągniętego od początku roku obrotowego, wpłacać rachunek urzędu skarbowego, właściwego według siedziby spółki, zaliczki miesięczne (kwartalne) wysokości różnicy między wpłatami zysku należnymi zysku osiągniętego od początku roku obrotowego a sumą zaliczek należnych za poprzednie miesiące (kwartały).
 
-5. ustalenia zaliczki jest zysk po opodatkowaniu podatkiem dochodowym sadach i trybie przepisów prywatyzacji biorstw wart. 2 ust. 1 ustaje którym dokonano zbycia akcji
+**Art. 3.** W przypadku zbycia akcji (udziałów) zasadach trybie o prywatyzacji przedsiębiorstw państwowych , obowiązek określony art. 2 ust. 1 ustaje końcem miesiąca, którym dokonano zbycia akcji (udziałów).
 
-**Art. 4.** Wpłaty zysku dokonywane wysoko 15% zysku, którym wart. 2 ust. 1.
+**Art. 4.** Wpłaty zysku dokonywane są wysokości 15 % zysku, o którym mowa art. 2 ust. 1.
 
 **Art. 5.**
 
-1. Z wart. 4, zwol nione jednoosobowe Skarbu po wych przy karnych i aresztach Ministrowi
+1. Z wpłat, o których mowa art. 4, zwolnione są jednoosobowe spółki Skarbu Państwa powstałe przekształcenia przedsiębiorstw państwowych działających przy zakładach karnych aresztach śledczych, podległych Ministrowi Sprawiedliwości.
 
-2. Rada Ministrów, drodze mo na wniosek organu Skarb stwa jednoosobowe Skarbu lub zadania na potrze by i dokonywania zysku lub tym ulgi we zysku.
+1a. Z wpłat, o których mowa art. 4, zwolniony jest także okresie opodatkowania podatkiem tonażowym przedsiębiorca żeglugowy zakresie przychodów działalności opodatkowanej podatkiem tonażowym.
 
-**Art. 6.** Jednoosobowe Skarbu któ re na swój wniosek listy ustalonej przez Ministrów na podstawie ustawy, której wart. 7 pkt 1, do uiszczania 44, poz. 202 i 1994 84, poz. 385),
+2. Rada Ministrów, drodze rozporządzenia, może wniosek organu reprezentującego Skarb Państwa zwolnić jedno-osobowe spółki Skarbu Państwa wykonujące całości lub części zadania potrzeby obronności bezpieczeństwa państwa obowiązku dokonywania wpłat zysku lub przyznać tym spółkom ulgi we wpłatach zysku.
 
-**Art. 8.** Traci moc ustawa dnia 19 lipca 1991 oprocentowaniu jednoosobowych kach Skarbu (Dz. U. 75, poz. 330 i 1992 45, poz. 200).
+**Art. 6.** (uchylony)
 
-**Art. 9.** Ustawa wchodzi dniem 1 stycznia 1996 Prezydent Rzeczypospolitej Polskiej: L. 793 USTAWA dnia 1 grudnia 1995 zmianie Kodeksu karnego, ustawy ustroju wojskowych, usta wy sprawach karnych i ustawy sprawach nieletnich.
+**Art. 7.** Przepisów nie stosuje się do jednoosobowych spółek Skarbu Państwa:
 
-**Art. 1.** W ustawie dnia 29 czerwca 1995 zmia nie Kodeksu karnego, ustawy ustroju wojskowych, ustawy sprawach karnych i ustawy sprawach nielet nich (Dz. U. 89, poz. 443) wprowadza ce zmiany:
+**Art. 8.** Traci moc ustawa 19 lipca 1991 o oprocentowaniu kapitału jednoosobowych spółkach Skarbu Państwa (Dz. U. 330 oraz 1992
 
-**Art. 2.** Ustawa wchodzi dniem 1 stycznia 1996 Prezydent Rzeczypospolitej Polskiej: A.
+**Art. 9.** Ustawa wchodzi życie dniem 1 stycznia 1996
 

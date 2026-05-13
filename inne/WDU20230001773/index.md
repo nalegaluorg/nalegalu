@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 1 września 2023 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy o przeciwdziałaniu nieuczciwemu wykorzystywaniu przewagi kontraktowej obrocie produktami rolnymi i spożywczymi
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 7 lipca 2023 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001773) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1773/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 7 lipca 2023 r.
-sprawie ogłoszenia jednolitego tekstu ustawy o przeciwdziałaniu nieuczciwemu wykorzystywaniu przewagi kontraktowej obrocie produktami rolnymi i spożywczymi
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 17 listopada 2021 r. o przeciwdziałaniu nieuczciwemu wykorzystywaniu przewagi kontraktowej obrocie produktami rolnymi i spożywczymi (Dz. U. z 2023 r. poz. 351), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 9 marca 2023 r. o zmianie ustawy o ochronie konkurencji i konsumentów oraz niektórych innych ustaw (Dz. U.
 poz. 852) oraz zmian wynikających z przepisów ogłoszonych przed dniem 5 lipca 2023 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 28 ustawy z dnia 9 marca 2023 r. o zmianie ustawy o ochronie konkurencji i konsumentów oraz niektórych innych ustaw (Dz. U. poz. 852), który stanowi: „Art. 28. Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
@@ -122,7 +122,7 @@ b) podmioty lecznicze, o których mowa art. 4 ust. 1 ustawy z dnia 15 kwietnia 2
 3. Zakończenie postępowania wyjaśniającego następuje drodze postanowienia.
 4. Postępowanie wyjaśniające nie powinno trwać dłużej niż 4 miesiące, a sprawach szczególnie skomplikowanych nie dłużej niż 5 miesięcy od dnia jego wszczęcia.
 5. W przypadku, o którym mowa ust. 2 pkt 2, przepisów ust. 4 oraz art. 35 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803), zwanej dalej „Kodeksem postępowania administracyjnego”, nie stosuje się.
-elektroniczną skrzynkę podawczą urzędu obsługującego Prezesa Urzędu, podpisanym odpowiednio do sposobu utrwalenia podpisem własnoręcznym albo kwalifikowanym podpisem elektronicznym, podpisem zaufanym, podpisem osobistym albo kwalifikowaną pieczęcią elektroniczną, zawiadomienie dotyczące podejrzenia stosowania praktyk nieuczciwie wykorzystujących przewagę kontraktową.
+podpisem własnoręcznym albo kwalifikowanym podpisem elektronicznym, podpisem zaufanym, podpisem osobistym albo kwalifikowaną pieczęcią elektroniczną, zawiadomienie dotyczące podejrzenia stosowania praktyk nieuczciwie wykorzystujących przewagę kontraktową.
 2. Zawiadomienie, o którym mowa ust. 1, zawiera:
 1) wskazanie podmiotu, któremu jest zarzucane stosowanie praktyki nieuczciwie wykorzystującej przewagę kontraktową;
 2) opis stanu faktycznego będącego podstawą tego zawiadomienia;
@@ -256,7 +256,6 @@ b) uniemożliwianie lub utrudnianie rozpoczęcia lub przeprowadzenia kontroli na
 2) art. 43 i art. 46 ust. 1 pkt 2 i ust. 2, uwzględnia wpływ naruszenia na przebieg i termin zakończenia postępowania;
 3) art. 44 i art. 46 ust. 1 pkt 1, uwzględnia skutki rynkowe niewykonania decyzji, postanowień i wyroków, o których mowa art. 44;
 4) art. 46 ust. 3, uwzględnia wpływ naruszenia na przebieg i termin zakończenia postępowania, a przypadku osoby fizycznej również warunki osobiste osoby, na którą jest nakładana kara pieniężna.
-ności łagodzące lub obciążające, które wystąpiły sprawie.
 3. Okolicznościami łagodzącymi, o których mowa ust. 2, są:
 1) dobrowolne usunięcie skutków naruszenia zakazu, o którym mowa art. 5;
 2) zaniechanie z własnej inicjatywy stosowania praktyki nieuczciwie wykorzystującej przewagę kontraktową przed wszczęciem postępowania lub niezwłocznie po jego wszczęciu;
@@ -275,7 +274,6 @@ ności łagodzące lub obciążające, które wystąpiły sprawie.
 2) art. 105 ust. 1 pkt 2 lit. r tiret trzecie ustawy zmienianej art. 54 ,
 3) art. 15zzzm ustawy zmienianej art. 55 wszczętych i niezakończonych przed dniem wejścia życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
 57. Do postępowań sprawie praktyk nieuczciwie wykorzystujących przewagę kontraktową wszczętych na podstawie ustawy uchylanej art. 61 i niezakończonych przed dniem wejścia życie niniejszej ustawy stosuje się przepisy dotychczasowe.
-niniejszej ustawy stosuje się przepisy dotychczasowe.
 59. Do wniosków o odroczenie uiszczenia nałożonej kary pieniężnej albo rozłożenie jej na raty złożonych przed dniem wejścia życie ustawy stosuje się przepisy dotychczasowe.
 60. 1. Do umów zawartych przed dniem wejścia życie niniejszej ustawy stosuje się przepisy dotychczasowe, z tym że do postępowań sprawie praktyk nieuczciwie wykorzystujących przewagę kontraktową dotyczących tych umów wszczętych od dnia wejścia życie niniejszej ustawy stosuje się przepisy tej ustawy.
 2. Jeżeli umowy, o których mowa ust. 1, będą nadal wykonywane po dniu 30 kwietnia 2022 r., od dnia 1 maja 2022 r.

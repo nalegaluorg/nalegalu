@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# Ustawa z dnia 22 lipca 2010 r. o zmianie ustawy o bezpieczeństwie imprez masowych oraz ustawy - Kodeks karny
+# o zmianie ustawy o bezpieczeństwie imprez masowych oraz ustawy - Kodeks karny
+
+*USTAWA z dnia 22 lipca 2010 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -26,7 +28,9 @@ domain: null
 
 **Art. 1.** W ustawie z dnia 20 marca 2009 r. o bezpieczeństwie imprez masowych (Dz. U. Nr 62, poz. 504 oraz z 2010 r. Nr 127, poz. 857) wprowadza się następujące zmiany:
 
-**Art. 3.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 23 ustawy zmienianej w art. 1, zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 23 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak, niż przez 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
+**Art. 2.** W ustawie z dnia 6 czerwca 1997 r. - Kodeks karny (Dz. U. Nr 88, poz. 553, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Marszałek Sejmu wykonujący obowiązki Prezydenta Rzeczypospolitej Polskiej: G. Schetyna 1021 USTAWA z dnia 22 lipca 2010 r. o zmianie ustawy o bezpieczeństwie imprez masowych oraz ustawy — Kodeks karny
+**Art. 3.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 23 ustawy zmienianej art. 1, zachowują moc do dnia wejścia życie nowych przepisów wykonawczych wydanych na podstawie art. 23 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, nie dłużej jednak, niż przez 12 miesięcy od dnia wejścia życie niniejszej ustawy.
+
+**Art. 4.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia.
 

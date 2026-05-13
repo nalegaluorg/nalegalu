@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 5 stycznia 2026 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy o badaniach klinicznych produktów leczniczych stosowanych u ludzi
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 4 grudnia 2025 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2026-01-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000002) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/2/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 4 grudnia 2025 r.
-sprawie ogłoszenia jednolitego tekstu ustawy o badaniach klinicznych produktów leczniczych stosowanych u ludzi
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 9 marca 2023 r. o badaniach klinicznych produktów leczniczych stosowanych u ludzi (Dz. U.
 poz. 605), z uwzględnieniem zmian wprowadzonych ustawą z dnia 4 czerwca 2025 r. o Krajowej Sieci Kardiologicznej (Dz. U. poz. 779) oraz zmian wynikających z przepisów ogłoszonych przed dniem 3 grudnia 2025 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
@@ -36,6 +36,8 @@ Art. 80–88. (pominięte)
 
 **Art. 81.** W ustawie z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2022 r. poz. 1731, 1733, 2731 i 2770) wprowadza się następujące zmiany:
 
+**Art. 82.** W ustawie z dnia 6 września 2001 r. Prawo farmaceutyczne (Dz. U. z 2022 r. poz. 2301) wprowadza się następujące zmiany:
+
 **Art. 83.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2022 r. poz. 2561, 2674 i 2770) art. 131c ust. 3:
 
 **Art. 84.** W ustawie z dnia 6 listopada 2008 r. o konsultantach ochronie zdrowia (Dz. U. z 2022 r. poz. 2524) art. 8c ust. 1 pkt 9 otrzymuje brzmienie: „9) prowadzi badania kliniczne rozumieniu art. ust. pkt rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 536/2014 z dnia 16 kwietnia 2014 r. sprawie badań klinicznych produktów leczniczych stosowanych u ludzi oraz uchylenia dyrektywy 2001/20/WE (Dz. Urz. UE L 158 z 27.05.2014, str. 1, z późn. zm. ), a jeżeli tak, to jakie;”.
@@ -43,6 +45,8 @@ Art. 80–88. (pominięte)
 **Art. 85.** W ustawie z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2022 r. poz. 1876, 2280 i 2705) wprowadza się następujące zmiany:
 
 **Art. 86.** W ustawie z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2022 r. poz. 1657, 2280, 2674, 2705 i 2770) art. 19 po ust. 5b dodaje się ust. 5c brzmieniu: „5c. W przypadku przeprowadzenia szczepienia na podstawie recepty farmaceutycznej, o której mowa art. 96 ust. 4 ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne, osoba poddana szczepieniu ponosi jedynie koszt, o którym mowa ust. 7.”.
+
+**Art. 87.** W ustawie z dnia 18 marca 2011 r. o Urzędzie Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych (Dz. U. z 2022 r. poz. 2258) wprowadza się następujące zmiany:
 
 **Art. 88.** W ustawie z dnia 21 lutego 2019 r. o Agencji Badań Medycznych (Dz. U. z 2022 r. poz. 451) wprowadza się następujące zmiany:
 
@@ -79,7 +83,7 @@ Art. 80–88. (pominięte)
 
 **Art. 6.**
 
-1. Dane uzyskane wyniku prowadzenia niekomercyjnego badania klinicznego nie mogą być wykorzystane celu uzyskania pozwolenia na dopuszczenie do obrotu produktu leczniczego, dokonania zmian udzielonym pozwoleniu, z wyjątkiem zmian pozwoleniu na dopuszczenie do obrotu produktu leczniczego zakresie bezpieczeństwa stosowania produktu leczniczego, lub celach marketingowych. cych wykorzystanie danych uzyskanych wyniku prowadzenia niekomercyjnego badania klinicznego celu uzyskania pozwolenia na dopuszczenie do obrotu produktu leczniczego, dokonania zmian udzielonym pozwoleniu lub celach marketingowych.
+1. Dane uzyskane wyniku prowadzenia niekomercyjnego badania klinicznego nie mogą być wykorzystane celu uzyskania pozwolenia na dopuszczenie do obrotu produktu leczniczego, dokonania zmian udzielonym pozwoleniu, z wyjątkiem zmian pozwoleniu na dopuszczenie do obrotu produktu leczniczego zakresie bezpieczeństwa stosowania produktu leczniczego, lub celach marketingowych. pozwolenia na dopuszczenie do obrotu produktu leczniczego, dokonania zmian udzielonym pozwoleniu lub celach marketingowych.
 
 3. Czynności prawne sprzeczne z ust. są nieważne z mocy prawa.
 
@@ -117,7 +121,7 @@ Art. 80–88. (pominięte)
 - **4)** cofnięcia pozwolenia na badanie kliniczne,
 - **5)** zawieszenia badania klinicznego,
 - **6)** podjęcia uprzednio zawieszonego badania klinicznego,
-- **7)** zobowiązania sponsora do zmiany dowolnego aspektu badania klinicznego przeprowadza się zgodnie z zasadami określonymi rozporządzeniu 536/2014 oraz ustawie i terminach nich określonych. tów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych, zwanego dalej „Urzędem”.
+- **7)** zobowiązania sponsora do zmiany dowolnego aspektu badania klinicznego przeprowadza się zgodnie z zasadami określonymi rozporządzeniu 536/2014 oraz ustawie i terminach nich określonych.
 
 3. Wydanie albo odmowa wydania pozwolenia na badanie kliniczne, wydanie albo odmowa wydania pozwolenia na istotną zmianę badania klinicznego, wydanie albo odmowa wydania pozwolenia ograniczonego do aspektów objętych częścią I lub częścią II sprawozdania z oceny wniosku o pozwolenie na badanie kliniczne, cofnięcie pozwolenia na badanie kliniczne, zawieszenie badania klinicznego, podjęcie uprzednio zawieszonego badania klinicznego oraz zobowiązanie sponsora do zmiany dowolnego aspektu badania klinicznego, następują drodze decyzji Prezesa Urzędu.
 
@@ -258,7 +262,7 @@ Art. 80–88. (pominięte)
 5. W przypadku gdy ocenę etyczną badania klinicznego sporządza komisja bioetyczna, o której mowa art. 21 ust. 1 pkt 2, opłata, o której mowa art. 58 ust. 2, wnoszona na rachunek bankowy Agencji:
 
 - **1)** wysokości 60 % tej opłaty jest przeznaczana na wynagrodzenia członków zespołu opiniującego, o którym mowa art. 30 ust. 1, przedstawiciela, o którym mowa art. 30 ust. 3, i eksperta, o którym mowa art. 30 ust. 4 i 5, przypadku ich powołania; kwotę dzieli się równo między członków zespołu opiniującego, o którym mowa art. 30 ust. 1, przedstawiciela, o którym mowa art. 30 ust. 3, i eksperta, o którym mowa art. 30 ust. 4 i 5, przypadku ich powołania;
-- **2)** wysokości 25 % tej opłaty jest przeznaczana na koszty działalności Naczelnej Komisji Bioetycznej; ust. 1 pkt 2;
+- **2)** wysokości 25 % tej opłaty jest przeznaczana na koszty działalności Naczelnej Komisji Bioetycznej;
 - **3)** wysokości 3 % tej opłaty jest przeznaczana na wynagrodzenie przewodniczącego Naczelnej Komisji Bioetycznej, a % na wynagrodzenie jego zastępcy.
 
 6. Niewykorzystane danym roku budżetowym środki z opłat, o których mowa ust. 4 i 5, terminie do 31 stycznia roku następującego po danym roku budżetowym są przekazywane na Fundusz.
@@ -322,7 +326,11 @@ Art. 80–88. (pominięte)
 2. W zakresie czynności określonych art. 6 rozporządzenia 536/2014 Prezes Urzędu:
 
 - **1)** jest odpowiedzialny za przygotowanie sprawozdania z oceny objętej częścią I, przypadku gdy Rzeczpospolita Polska pełni rolę państwa sprawozdawcy, lub
-- **2)** bierze udział przygotowaniu sprawozdania z oceny objętej częścią I, przypadku gdy Rzeczpospolita Polska jest zainteresowanym państwem członkowskim. członkowskie, ocena etyczna tego badania jest przekazywana do Prezesa Urzędu terminie nie dłuższym niż 35 dni od daty walidacji wniosku. W przypadku pytań zespołu opiniującego, o którym mowa art. 30 ust. 1, Prezes Urzędu przekazuje je niezwłocznie sponsorowi. Sponsor przekazuje dodatkowe informacje, o które wnioskowano, terminie określonym przez państwo członkowskie pełniące rolę sprawozdawcy, nieprzekraczającym 12 dni od dnia otrzymania wniosku o dodatkowe informacje. Ostateczna ocena etyczna badania klinicznego jest przekazywana Prezesowi Urzędu terminie 12 dni od dnia złożenia dodatkowych informacji przez sponsora.
+- **2)** bierze udział przygotowaniu sprawozdania z oceny objętej częścią I, przypadku gdy Rzeczpospolita Polska jest zainteresowanym państwem członkowskim.
+
+**Art. 24.**
+
+1. W przypadku badania klinicznego skierowanego do Rzeczypospolitej Polskiej, obejmującego jedno państwo członkowskie, ocena etyczna tego badania jest przekazywana do Prezesa Urzędu terminie nie dłuższym niż 35 dni od daty państwo członkowskie pełniące rolę sprawozdawcy, nieprzekraczającym 12 dni od dnia otrzymania wniosku o dodatkowe informacje. Ostateczna ocena etyczna badania klinicznego jest przekazywana Prezesowi Urzędu terminie 12 dni od dnia złożenia dodatkowych informacji przez sponsora.
 
 2. W przypadku gdy badanie kliniczne jest skierowane do wielu państw, a Rzeczpospolita Polska pełni rolę państwa sprawozdawcy, ocena etyczna tego badania jest przekazywana do Prezesa Urzędu terminie nie dłuższym niż 21 dni od daty walidacji wniosku. W przypadku pytań zespołu opiniującego, o którym mowa art. 30 ust. 1, są one umieszczane przez Prezesa Urzędu raporcie przekazanym innym państwom do oceny skoordynowanej, o której mowa art. 6 ust. 5 lit. b rozporządzenia 536/2014. Przepis ust. 1 zdanie trzecie i czwarte stosuje się.
 
@@ -377,7 +385,7 @@ Art. 80–88. (pominięte)
 
 **Art. 33.**
 
-1. Zespół opiniujący przyjmuje ocenę etyczną badania klinicznego, drodze uchwały, większością 3/4 głosów głosowaniu jawnym. Członek zespołu opiniującego nie może wstrzymać się od głosowania. Nieosiągnięcie wymaganej większości głosów skutkuje negatywną oceną etyczną badania klinicznego. jętej uchwale, ma prawo do sporządzenia zdania odrębnego, które stanowi załącznik do uchwały. Zdania odrębnego nie zamieszcza się decyzji Prezesa Urzędu.
+1. Zespół opiniujący przyjmuje ocenę etyczną badania klinicznego, drodze uchwały, większością 3/4 głosów głosowaniu jawnym. Członek zespołu opiniującego nie może wstrzymać się od głosowania. Nieosiągnięcie wymaganej większości głosów skutkuje negatywną oceną etyczną badania klinicznego. zamieszcza się decyzji Prezesa Urzędu.
 
 3. Do uchwały, o której mowa ust. 1, nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
 
@@ -513,7 +521,7 @@ Art. 80–88. (pominięte)
 
 4. Wniosek o zwrot wpłaty składa się do Rzecznika Praw Pacjenta postaci papierowej lub elektronicznej. Wniosek zawiera dane podmiotu ubiegającego się o zwrot wpłaty oraz powód zwrotu wpłaty, o którym mowa ust. 2, wraz z uzasadnieniem. Do wniosku dołącza się dowód uiszczenia wpłaty, o której mowa ust. 1.
 
-5. Rzecznik Praw Pacjenta dokonuje zwrotu wpłaty terminie 30 dni od dnia otrzymania kompletnego wniosku. cych badany produkt leczniczy lub znajdujących się grupie kontrolnej i wynosi równowartość złotych:
+5. Rzecznik Praw Pacjenta dokonuje zwrotu wpłaty terminie 30 dni od dnia otrzymania kompletnego wniosku.
 
 - **1)** do 20 osób 2000 euro;
 - **2)** od 21 do 50 osób 4000 euro;
@@ -862,7 +870,7 @@ Art. 80–88. (pominięte)
 
 1. Inspektor, nie później niż na 15 dni przed planowanym terminem rozpoczęcia inspekcji badań klinicznych, przekazuje za pomocą środków komunikacji elektronicznej podmiotowi objętemu inspekcją oraz sponsorowi plan inspekcji, o którym mowa art. 66, wraz z kopią upoważnienia wydanego przez Prezesa Urzędu, o którym mowa art. 65.
 
-2. Podmiot objęty inspekcją badań klinicznych może zgłosić zastrzeżenia do planu inspekcji, o którym mowa art. 66. Zastrzeżenia rozstrzyga się przed rozpoczęciem inspekcji badań klinicznych. Prawo do składania zastrzeżeń nie przysługuje przypadku inspekcji badań klinicznych przeprowadzanej bez zapowiedzi. przez Prezesa Urzędu, o którym mowa art. 65.
+2. Podmiot objęty inspekcją badań klinicznych może zgłosić zastrzeżenia do planu inspekcji, o którym mowa art. 66. Zastrzeżenia rozstrzyga się przed rozpoczęciem inspekcji badań klinicznych. Prawo do składania zastrzeżeń nie przysługuje przypadku inspekcji badań klinicznych przeprowadzanej bez zapowiedzi.
 
 2. Inspekcję badań klinicznych rozpoczyna spotkanie inspektora z osobami, o których mowa art. 70 ust. 5 pkt 5, mające na celu szczegółowe omówienie zakresu przedmiotowego inspekcji.
 
@@ -909,7 +917,7 @@ Art. 80–88. (pominięte)
 
 1. W przypadku stwierdzonych i udokumentowanych raporcie z inspekcji badań klinicznych nieprawidłowości lub uchybień Prezes Urzędu, terminie 14 dni od dnia otrzymania od inspektora tego raportu, doręcza sponsorowi oraz badaczowi lub innemu podmiotowi objętemu inspekcją raport z inspekcji badań klinicznych wraz z wnioskiem o usunięcie stwierdzonych nieprawidłowości lub uchybień terminie nie dłuższym niż 30 dni od dnia otrzymania tego wniosku.
 
-2. W przypadku gdy rodzaj i zakres zaleceń poinspekcyjnych tego wymaga, Prezes Urzędu może wyznaczyć termin usunięcia stwierdzonych nieprawidłowości dłuższy niż 30 dni, jednak nie dłuższy niż 90 dni. poinspekcyjnych albo o przyczynach ich niewykonania.
+2. W przypadku gdy rodzaj i zakres zaleceń poinspekcyjnych tego wymaga, Prezes Urzędu może wyznaczyć termin usunięcia stwierdzonych nieprawidłowości dłuższy niż 30 dni, jednak nie dłuższy niż 90 dni.
 
 4. W przypadku gdy stwierdzone i udokumentowane raporcie z inspekcji badań klinicznych nieprawidłowości i uchybienia dotyczą finansowania świadczeń zdrowotnych ze środków publicznych, Prezes Urzędu, terminie 14 dni od dnia otrzymania tego raportu od inspektora, doręcza raport z inspekcji badań klinicznych Prezesowi Narodowego Funduszu Zdrowia.
 
@@ -935,7 +943,7 @@ Art. 80–88. (pominięte)
 
 **Art. 77.** Kto:
 
-**Art. 78.** Kto, prowadzi badanie kliniczne po wydaniu decyzji o zawieszeniu badania klinicznego lub cofnięciu pozwolenia na badanie kliniczne, podlega grzywnie. minów wskazanych tych przepisach, podlega karze grzywny. 2. Orzekanie sprawach o czyny, o których mowa ust. 1, następuje trybie przepisów ustawy z dnia 24 sierpnia 2001 r. Kodeks postępowania sprawach o wykroczenia (Dz. U. z 2025 r. poz. 860, 1178 i 1661).
+**Art. 78.** Kto, prowadzi badanie kliniczne po wydaniu decyzji o zawieszeniu badania klinicznego lub cofnięciu pozwolenia na badanie kliniczne, podlega grzywnie. podlega karze grzywny. 2. Orzekanie sprawach o czyny, o których mowa ust. 1, następuje trybie przepisów ustawy z dnia 24 sierpnia 2001 r. Kodeks postępowania sprawach o wykroczenia (Dz. U. z 2025 r. poz. 860, 1178 i 1661).
 
 #### Rozdział 12 Zmiany przepisach
 
@@ -973,7 +981,7 @@ Art. 80–88. (pominięte)
 
 4. W okresie 3 miesięcy od dnia wejścia życie art. 81 pkt 1 i 3 koszty działalności Naczelnej Komisji Bioetycznej mogą być finansowane także z dotacji podmiotowej, o której mowa art. 28 ust. 1 pkt ustawy zmienianej art. 88.
 
-5. W roku 2023 maksymalny limit wydatków na koszty działalności Naczelnej Komisji Bioetycznej, o których mowa art. 17 ust. 3, wynosi 4,1 mln zł. W roku 2024 maksymalny limit wydatków na koszty, o których mowa art. 17 ust. 3, wynosi 2,3 mln zł. Rzecznika Praw Pacjenta będących konsekwencją wejścia życie art. 44–56 wynosi 1,0 mln zł, przy czym:
+5. W roku 2023 maksymalny limit wydatków na koszty działalności Naczelnej Komisji Bioetycznej, o których mowa art. 17 ust. 3, wynosi 4,1 mln zł. W roku 2024 maksymalny limit wydatków na koszty, o których mowa art. 17 ust. 3, wynosi 2,3 mln zł.
 
 - **1)** 2023 r. 0,1 mln zł;
 - **2)** 2024 r. 0,1 mln zł;

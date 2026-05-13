@@ -10,7 +10,9 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 25 kwietnia 2018 r.
+# o kosztach komorniczych
+
+*USTAWA z dnia 28 lutego 2018 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,7 @@ domain: null
 | Ostatnia zmiana | 2024-03-21 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000770) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/770/text.pdf) |
 
-USTAWA z dnia 28 lutego 2018 r.
-o kosztach komorniczych
+Art. 49–51. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -49,7 +50,7 @@ o kosztach komorniczych
 
 **Art. 7.**
 
-1. Jeżeli czynność komornika powoduje wydatki, komornik uzależnia dokonanie tej czynności od uiszczenia zaliczki przez stronę, która wnosi o dokonanie czynności.
+1. Jeżeli czynność komornika powoduje wydatki, komornik uzależnia dokonanie tej czynności od uiszczenia zaliczki przez stronę, która wnosi o dokonanie czynności. Przepisu tego nie stosuje się, jeżeli wysokość należności jest równa lub niższa od kosztów wezwania.
 
 2. Zaliczkę na koszty doręczenia korespondencji uiszcza wierzyciel lub wnioskodawca i nie może ona jednorazowo przekroczyć 60 złotych, chyba że planowane wydatki znacznie przekroczą tę kwotę.
 
@@ -69,15 +70,17 @@ o kosztach komorniczych
 
 2. Uiszczoną zaliczkę przeznacza się wyłącznie na pokrycie wydatków, na poczet których została uiszczona. Przeznaczenie zaliczki na pokrycie innych wydatków może nastąpić wyłącznie za zgodą strony, która ją uiściła.
 
+3. Przepisu ust. 2 nie stosuje się, jeżeli wysokość niewykorzystanej zaliczki z danego tytułu lub podlegającej częściowemu zwrotowi nie przekracza 60 złotych, a zachodzą podstawy do przyjęcia, że w sprawie powstaną dalsze wydatki.
+
 **Art. 10.**
 
 1. Przyznanie należności stanowiącej wydatek, o którym mowa w art. 6 pkt 1–3 lub 6, wymaga wydania postanowienia. W postanowieniu o przyznaniu należności komornik wskazuje podmiot uprawniony do otrzymania należności i jej wysokość, a jeżeli należność ta ma być pokryta z zaliczki, także zaliczkę, z której należność jest pokrywana.
 
 2. Postanowienie o przyznaniu należności komornik wydaje na wniosek podmiotu uprawnionego do jej otrzymania. Złożenie faktury lub rachunku jest równoznaczne ze złożeniem wniosku. Wniosek składa się w terminie 7 dni od dnia dokonania czynności uzasadniającej przyznanie należności pod rygorem wygaśnięcia prawa do przyznania należności, o czym komornik poucza podmiot uprawniony do otrzymania należności.
 
-3. Komornik wydaje postanowienie o przyznaniu nale ż no ś ci w terminie 7 dni od dnia zło ż enia wniosku.
+3. Komornik wydaje postanowienie o przyznaniu należności w terminie 7 dni od dnia złożenia wniosku.
 
-**Art. 11.** Biegłemu i tłumaczowi przysługuje wynagrodzenie za wykonan ą prac ę oraz zwrot poniesionych przez nich wydatków niezb ę dnych do wydania opinii lub dokonania tłumaczenia. Do nale ż no ś ci tych stosuje si ę odpowiednio przepisy tytułu III działu 2 ustawy z dnia 28 lipca 2005 r. o kosztach s ą dowych w sprawach cywilnych (Dz. U. z 2018 r. poz. 300 i 398), przepisy wykonawcze wydane na podstawie art. 89 ust. 5 tej ustawy oraz przepisy wykonawcze wydane na podstawie art. 16 ust. 2 ustawy z dnia 25 listopada 2004 r. o zawodzie tłumacza przysięgłego (Dz. U. z 2017 r. poz. 1505).
+**Art. 11.** Biegłemu i tłumaczowi przysługuje wynagrodzenie za wykonaną pracę oraz zwrot poniesionych przez nich wydatków niezbędnych do wydania opinii lub dokonania tłumaczenia. Do należności tych stosuje się odpowiednio przepisy tytułu III działu 2 ustawy z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych (Dz. U. z 2023 r. poz. 1144, 1532 i 1860), przepisy wykonawcze wydane na podstawie art. 89 ust. 5 tej ustawy oraz przepisy wykonawcze wydane na podstawie art. 16 ust. 2 ustawy z dnia 25 listopada 2004 r. o zawodzie tłumacza przysięgłego (Dz. U. z 2019 r. poz. 1326).
 
 **Art. 12.** Ustalając wysokość należności z tytułu wydatków, o których mowa w art. 6 pkt 2 i 3, komornik uwzględnia wynagrodzenie oraz celowe i niezbędne wydatki wskazane na rachunku lub fakturze złożonej przez podmiot uprawniony do otrzymania należności.
 
@@ -93,9 +96,9 @@ o kosztach komorniczych
 
 2. Komornik określa wysokość zwrotu wydatków na podstawie złożonej faktury lub rachunku, mając na względzie nakład pracy niezbędny do przedstawienia dokumentu, chyba że wysokość należności z tego tytułu wynika z odrębnych przepisów.
 
-3. Za udzielenie informacji dotyczących stanu majątkowego dłużnika lub umożliwiających identyfikację składników jego majątku oraz danych adresowych w zakresie niezbędnym do zapewnienia prawidłowego toku postępowania podmiotom, o których mowa w art. 761 § 1 ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. z 2018 r. poz. 155, z późn. zm. ), przysługuje wynagrodzenie. Komornik uiszcza należność z tego tytułu po udzieleniu informacji, w terminie 7 dni od dnia otrzymania wniosku o przyznanie wynagrodzenia od podmiotu udzielającego informacji.
+3. Za udzielenie informacji dotyczących stanu majątkowego dłużnika lub umożliwiających identyfikację składników jego majątku oraz danych adresowych w zakresie niezbędnym do zapewnienia prawidłowego toku postępowania podmiotom, o których mowa w art. 761 § 1 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550, z późn. zm. ), przysługuje wynagrodzenie. Komornik uiszcza należność z tego tytułu po udzieleniu informacji, w terminie 7 dni od dnia otrzymania wniosku o przyznanie wynagrodzenia od podmiotu udzielającego informacji.
 
-4. Przepisów ust. 1–3 nie stosuje się w sprawach o egzekucję lub wykonanie postanowienia o udzieleniu zabezpieczenia świadczeń alimentacyjnych lub rent mających charakter alimentów oraz w sprawach o egzekucję lub wykonanie zabezpieczenia roszczenia niezwiązanego z wykonywaniem działalności gospodarczej, wszczętych na wniosek Skarbu Państwa, w tym na polecenie sądu lub prokuratora. W sprawach tych przedstawianie dokumentów i udzielanie informacji jest nieodpłatne.
+4. Przepisów ust. 1–3 nie stosuje się w sprawach o egzekucję lub wykonanie postanowienia o udzieleniu zabezpieczenia świadczeń alimentacyjnych lub rent mających charakter alimentów oraz w sprawach o egzekucję lub wykonanie zabezpieczenia roszczenia niezwiązanego z wykonywaniem działalności gospodarczej wszczętych na wniosek Skarbu Państwa, w tym na polecenie sądu lub prokuratora. W sprawach tych przedstawianie dokumentów i udzielanie informacji jest nieodpłatne.
 
 5. Przepisy ust. 1–4 stosuje się, o ile tryb lub koszty przedstawiania dokumentów lub udzielania informacji nie wynikają z odrębnych przepisów.
 
@@ -105,15 +108,19 @@ o kosztach komorniczych
 
 1. Wysokość kosztów przejazdu poza miejscowość, która jest siedzibą kancelarii komorniczej, odpowiada wysokości rzeczywiście poniesionych, racjonalnych i celowych kosztów przejazdu własnym samochodem lub innym odpowiednim środkiem transportu. Do kosztów przejazdu poza miejscowość, która jest siedzibą kancelarii komorniczej, należą diety i koszty noclegu, których wysokość odpowiada wysokości rzeczywiście poniesionych, racjonalnych i celowych kosztów z tego tytułu.
 
-2. Górną granicę należności, o których mowa w ust. 1, stanowi wysokość kosztów przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej z tytułu podróży służbowej na obszarze kraju, o których mowa w przepisach wykonawczych wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2018 r. poz. 108, 4, 138, 305 i 357).
+2. Górną granicę należności, o których mowa w ust. 1, stanowi wysokość kosztów przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej z tytułu podróży służbowej na obszarze kraju, o których mowa w przepisach wykonawczych wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2023 r. poz.
 
-3. Komornikowi, który podejmuje czynności poza siedzibą kancelarii i utrwala ich przebieg w sposób przewidziany w art. 809 ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego, należy się zryczałtowany zwrot kosztów związanych z utrwalaniem oraz przechowywaniem zapisu obrazu i dźwięku, w wysokości 50 złotych, niezależnie od liczby czynności i objętości danych utrwalonych w sprawie.
+- **1465)** .
+
+2a. Komornikowi przysługuje zwrot zryczałtowanych kosztów dojazdu w granicach miejscowości będącej siedzibą kancelarii komornika w wysokości 20 złotych, jeżeli odległość między siedzibą kancelarii a miejscem czynności przekracza 10 km. Przy ustalaniu odległości bierze się pod uwagę najkrótszą drogę dojazdu samochodem.
+
+3. Komornikowi, który podejmuje czynności poza siedzibą kancelarii i utrwala ich przebieg w sposób przewidziany w art. 809 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, należy się zryczałtowany zwrot kosztów związanych z utrwalaniem oraz przechowywaniem zapisu obrazu i dźwięku, w wysokości 50 złotych, niezależnie od liczby czynności i objętości danych utrwalonych w sprawie.
 
 **Art. 16.**
 
 1. Komornik rozlicza zaliczkę w terminie miesiąca od dnia poniesienia wydatków, na które była przeznaczona, i zwraca jej niewykorzystaną część. Jeżeli opłacona zaliczkowo czynność nie została dokonana, zaliczka podlega zwrotowi w terminie 3 miesięcy od dnia jej pobrania.
 
-2. Przepisu ust. 1 nie stosuje się do zaliczki w zakresie, w którym została ona przeznaczona na sfinansowanie należności przyznanej w drodze postanowienia, zaliczki na pokrycie opłaty sądowej należnej od wniosku o wpis w księdze wieczystej oraz zaliczki na koszty dor ę czenia korespondencji. Zaliczka na koszty dor ę czenia korespondencji podlega rozliczeniu wraz z zako ń czeniem post ę powania.
+2. Przepisu ust. 1 nie stosuje się do zaliczki w zakresie, w którym została ona przeznaczona na sfinansowanie należności przyznanej w drodze postanowienia, zaliczki na pokrycie opłaty sądowej należnej od wniosku o wpis w księdze wieczystej oraz zaliczki na koszty doręczenia korespondencji. Zaliczka na koszty doręczenia korespondencji podlega rozliczeniu wraz z zakończeniem postępowania.
 
 3. Komornik wybrany przez wierzyciela, który przekazał sprawę innemu komornikowi, zwraca wierzycielowi niewykorzystaną zaliczkę albo jej część w terminie 7 dni od dnia uprawomocnienia się postanowienia o przekazaniu sprawy.
 
@@ -139,7 +146,7 @@ o kosztach komorniczych
 
 1. Opłaty komornicze obejmują:
 
-- **1)** opłaty egzekucyjne za przeprowadzenie postępowania egzekucyjnego, wykonanie zabezpieczenia roszczenia lub europejskiego nakazu zabezpieczenia na rachunku bankowym;
+- **1)** opłaty egzekucyjne za przeprowadzenie postępowania egzekucyjnego, wykonanie zabezpieczenia roszczenia lub europejskiego nakazu zabezpieczenia na rachunku bankowym albo wykonanie postanowienia o zabezpieczeniu środka dowodowego lub nakazującego wydanie środka dowodowego w sprawach własności intelektualnej;
 - **2)** opłaty za przeprowadzenie innego postępowania albo dokonanie innych czynności.
 
 2. Komornik pobiera lub ściąga opłaty komornicze tylko w przypadkach określonych w ustawie.
@@ -150,7 +157,9 @@ o kosztach komorniczych
 
 **Art. 21.**
 
-1. Opłatę egzekucyjną za egzekucję świadczeń pieniężnych komornik ściąga wraz z egzekwowanym świadczeniem, proporcjonalnie do wartości wyegzekwowanego świadczenia. Ściągnięcie opłaty nie wymaga wydania postanowienia. Wysokość opłat ściągniętych i należnych komornik ustala odrębnym postanowieniem wydawanym nie rzadziej niż co roku, chyba że postępowanie trwa krócej. W każdym postępowaniu komornik ustala wysokość opłat ściągniętych i należnych w postanowieniu o umorzeniu postępowania albo postanowieniu o zakończeniu postępowania w inny sposób.
+1. Opłatę egzekucyjną za egzekucję świadczeń pieniężnych komornik ściąga wraz z egzekwowanym świadczeniem, proporcjonalnie do wartości wyegzekwowanego świadczenia. Ściągnięcie opłaty nie wymaga wydania postanowienia. W każdym postępowaniu komornik ustala wysokość opłat ściągniętych i należnych w postanowieniu o umorzeniu postępowania albo postanowieniu o zakończeniu postępowania w inny sposób.
+
+1a. Na wniosek strony komornik wydaje postanowienie w przedmiocie ustalenia wysokości opłat egzekucyjnych dotąd od niej ściągniętych jako należnych w sprawie.
 
 2. W przypadkach przewidzianych w ustawie komornik wydaje postanowienie o pobraniu opłaty.
 
@@ -158,9 +167,9 @@ o kosztach komorniczych
 
 1. Opłatę od wniosku o wykonanie zabezpieczenia roszczenia pieniężnego lub europejskiego nakazu zabezpieczenia na rachunku bankowym, opłatę za egzekucję świadczeń niepieniężnych oraz opłaty, o których mowa w art. 40–42, art. 43 ust. 1 oraz art. 44, wnioskodawca uiszcza wraz z wnioskiem o wszczęcie egzekucji, wykonanie zabezpieczenia roszczenia, wszczęcie innego postępowania albo dokonanie innej czynności.
 
-2. Jeżeli od wniosku nie uiszczono należnej opłaty, komornik wzywa wnioskodawcę do jej uiszczenia w terminie 7 dni od dnia doręczenia wezwania. Jeżeli wniosek złożyła osoba zamieszkała lub mająca siedzibę za granicą, która nie ma w kraju przedstawiciela, komornik wyznacza termin na uiszczenie opłaty nie krótszy ni ż miesi ą c. W wezwaniu komornik okre ś la wysoko ść nale ż nej opłaty, termin jej uiszczenia oraz poucza wnioskodawc ę o skutkach niewykonania wezwania.
+2. Jeżeli od wniosku nie uiszczono należnej opłaty, komornik wzywa wnioskodawcę do jej uiszczenia w terminie 7 dni od dnia doręczenia wezwania. Jeżeli wniosek złożyła osoba zamieszkała lub mająca siedzibę za granicą, która nie ma w kraju przedstawiciela i nie posiada adresu do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2023 r. poz. 285, 1860 i 2699), wpisanego do bazy adresów elektronicznych, o której mowa w art. 25 tej ustawy, komornik wyznacza termin na uiszczenie opłaty nie krótszy niż miesiąc. W wezwaniu komornik określa wysokość należnej opłaty, termin jej uiszczenia oraz poucza wnioskodawcę o skutkach niewykonania wezwania.
 
-3. Komornik nie podejmuje czynno ś ci na skutek wniosku, od którego nie została uiszczona nale ż na opłata.
+3. Komornik nie podejmuje czynności na skutek wniosku, od którego nie została uiszczona należna opłata.
 
 4. Po bezskutecznym upływie terminu, o którym mowa w ust. 2, komornik zwraca wniosek. Wniosek zwrócony nie wywołuje skutków, jakie ustawa wiąże z jego wniesieniem.
 
@@ -174,7 +183,7 @@ o kosztach komorniczych
 
 2. Do wartości świadczenia wlicza się należność główną wraz z odsetkami, kosztami i innymi należnościami ubocznymi, z wyjątkiem kosztów zastępstwa prawnego i kosztów komorniczych należnych w postępowaniu egzekucyjnym, w którym jest obliczana opłata.
 
-3. W sprawach o egzekucję świadczeń powtarzających się należność główna odpowiada sumie świadczeń zaległych oraz świadczeń za jeden rok, a jeżeli świadczenia należą się za okres krótszy niż rok sumie świadczeń za cały czas ich trwania.
+3. W sprawach o egzekucję świadczeń powtarzających się należność główna odpowiada sumie świadczeń zaległych oraz świadczeń za jeden rok, a jeżeli świadczenia należą się za okres krótszy niż rok – sumie świadczeń za cały czas ich trwania.
 
 4. W sprawach o wykonanie zabezpieczenia roszczenia pieniężnego lub europejskiego nakazu zabezpieczenia na rachunku bankowym wartość świadczenia ustala się na dzień złożenia wniosku o wykonanie zabezpieczenia albo rozszerzenia tego wniosku w zakresie wartości świadczenia.
 
@@ -192,13 +201,13 @@ o kosztach komorniczych
 
 **Art. 26.** Komornik zwraca opłatę albo jej część w terminie 4 dni od dnia ustalenia, że zachodzi podstawa do zwrotu opłaty albo jej części.
 
-##### Oddział 2 Opłaty egzekucyjne w sprawach o egzekucj ę ś wiadcze ń pieni ęż nych
+##### Oddział 2 Opłaty egzekucyjne w sprawach o egzekucję świadczeń pieniężnych
 
 **Art. 27.**
 
-1. W sprawie o egzekucję świadczeń pieniężnych komornik ściąga od dłużnika opłatę stosunkową w wysokości 10% wartości wyegzekwowanego świadczenia.
+1. W sprawie o egzekucję świadczeń pieniężnych komornik ściąga od dłużnika opłatę stosunkową w wysokości 10 % wartości wyegzekwowanego świadczenia.
 
-2. Jeżeli dłużnik, w terminie miesiąca od dnia doręczenia mu zawiadomienia o wszczęciu egzekucji, wpłaci do rąk komornika lub na jego rachunek bankowy całość lub część egzekwowanego świadczenia, komornik ściąga od dłużnika opłatę stosunkową w wysokości 3% wartości wyegzekwowanego w ten sposób świadczenia.
+2. Jeżeli dłużnik, w terminie miesiąca od dnia doręczenia mu zawiadomienia o wszczęciu egzekucji, wpłaci do rąk komornika lub na jego rachunek bankowy całość lub część egzekwowanego świadczenia, komornik ściąga od dłużnika opłatę stosunkową w wysokości 3 % wartości wyegzekwowanego w ten sposób świadczenia.
 
 3. Kwota wpłacona wierzycielowi przez dłużnika nie stanowi wyegzekwowanego świadczenia.
 
@@ -214,11 +223,11 @@ o kosztach komorniczych
 
 **Art. 29.**
 
-1. W razie umorzenia post ę powania egzekucyjnego na wniosek wierzyciela albo na podstawie art. 824 § 1 pkt 4 ustawy z dnia 17 listopada 1964 r. Kodeks post ę powania cywilnego, wierzyciela obci ąż a opłata stosunkowa w wysokości 5% wartości świadczenia pozostałego do wyegzekwowania. Jeżeli jednak wierzyciel wykaże, że przyczyna umorzenia postępowania egzekucyjnego wiąże się ze spełnieniem świadczenia przez dłużnika w terminie miesiąca od dnia doręczenia dłużnikowi zawiadomienia o wszczęciu egzekucji albo z zawarciem w tym terminie porozumienia między wierzycielem a dłużnikiem dotyczącego sposobu lub terminu spełnienia świadczenia, opłata ta obciąża dłużnika. Jeżeli spełnienie świadczenia lub zawarcie porozumienia z wierzycielem nastąpiło po upływie miesiąca od dnia doręczenia dłużnikowi zawiadomienia o wszczęciu egzekucji, obciąża go opłata w wysokości 10% wartości świadczenia pozostałego do wyegzekwowania.
+1. W razie umorzenia postępowania egzekucyjnego na wniosek wierzyciela albo na podstawie art. 824 § 1 pkt 4 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, wierzyciela obciąża opłata stosunkowa w wysokości 5 % wartości świadczenia pozostałego do wyegzekwowania. Jeżeli jednak wierzyciel wykaże, że przyczyna umorzenia postępowania egzekucyjnego wiąże się ze spełnieniem świadczenia przez dłużnika w terminie miesiąca od dnia doręczenia dłużnikowi zawiadomienia o wszczęciu egzekucji albo z zawarciem w tym terminie porozumienia między wierzycielem a dłużnikiem dotyczącego sposobu lub terminu spełnienia świadczenia, opłata ta obciąża dłużnika. Jeżeli spełnienie świadczenia lub zawarcie porozumienia z wierzycielem nastąpiło po upływie miesiąca od dnia doręczenia dłużnikowi zawiadomienia o wszczęciu egzekucji, obciąża go opłata w wysokości 10 % wartości świadczenia pozostałego do wyegzekwowania.
 
 2. Jeżeli wniosek wierzyciela, o którym mowa w ust. 1, został zgłoszony przed doręczeniem dłużnikowi zawiadomienia o wszczęciu egzekucji, opłata wynosi 100 złotych.
 
-3. W sprawach o egzekucję świadczeń powtarzających się w przypadku umorzenia postępowania egzekucyjnego na wniosek wierzyciela albo na podstawie art. 824 § 1 pkt 4 ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego dłużnika obciąża opłata stosunkowa w wysokości 5% wartości świadczenia pozostałego do wyegzekwowania. Przepis ust. 2 stosuje się odpowiednio.
+3. W sprawach o egzekucję świadczeń powtarzających się w przypadku umorzenia postępowania egzekucyjnego na wniosek wierzyciela albo na podstawie art. 824 § 1 pkt 4 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego dłużnika obciąża opłata stosunkowa w wysokości 5 % wartości świadczenia pozostałego do wyegzekwowania. Przepis ust. 2 stosuje się odpowiednio.
 
 4. W razie umorzenia postępowania egzekucyjnego z innych przyczyn niż wskazane w ust. 1 komornik pobiera od wierzyciela opłatę w wysokości 150 złotych, z wyjątkiem przypadków, o których mowa w art. 30. Opłata podlega zmniejszeniu o sumę opłat egzekucyjnych ściągniętych i obciążających dłużnika.
 
@@ -226,37 +235,45 @@ o kosztach komorniczych
 
 - **1)** od osób fizycznych dochodzących roszczeń pracowniczych lub odszkodowawczych;
 - **2)** od jednostek samorządu terytorialnego;
-- **3)** od podmiotów, których przedmiotem działalności:
-    - **a)** nie jest działalność finansowa i ubezpieczeniowa w rozumieniu przepisów wydanych na podstawie art. 40 ust. 2 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2016 r. poz. 1068, z 2017 r. poz. 60 oraz z 2018 r. poz. 650) albo
-    - **b)** jest działalność finansowa i ubezpieczeniowa w rozumieniu przepisów wydanych na podstawie art. 40 ust. 2 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej, o ile są wierzycielami pierwotnymi, a wierzytelność nie była przedmiotem obrotu pod warunkiem że postępowanie egzekucyjne zostało wszczęte przed upływem dwóch lat od powstania tytułu egzekucyjnego obejmującego daną wierzytelność.
+- **3)** od podmiotów, których przedmiotem działalności: o statystyce publicznej (Dz. U. z 2023 r. poz. 773) albo o statystyce publicznej, o ile są wierzycielami pierwotnymi, a wierzytelność nie była przedmiotem obrotu – pod warunkiem że postępowanie egzekucyjne zostało wszczęte przed upływem dwóch lat od powstania tytułu egzekucyjnego obejmującego daną wierzytelność.
+    - **a)** nie jest działalność finansowa i ubezpieczeniowa w rozumieniu przepisów wydanych na podstawie art. 40 ust. 2 ustawy z dnia 29 czerwca 1995 r.
+    - **b)** jest działalność finansowa i ubezpieczeniowa w rozumieniu przepisów wydanych na podstawie art. 40 ust. 2 ustawy z dnia 29 czerwca 1995 r.
 
 6. Przepisu ust. 1 zdanie pierwsze nie stosuje się do wierzyciela będącego jednostką samorządu terytorialnego.
 
 7. W celu pobrania opłat, o których mowa w ust. 1–4, komornik wydaje postanowienie.
 
-**Art. 30.** W razie oczywiście niecelowego wszczęcia postępowania egzekucyjnego lub wskazania we wniosku o wszczęcie egzekucji osoby niebędącej dłużnikiem komornik wydaje postanowienie o pobraniu od wierzyciela opłaty stosunkowej w wysokości 10% egzekwowanego świadczenia. W takim przypadku komornik nie ściąga ani nie pobiera opłaty od dłużnika, a opłatę ściągniętą lub pobraną zwraca dłużnikowi. Przepisów art. 29 ust. 1–3 nie stosuje się.
+**Art. 30.** W razie oczywiście niecelowego wszczęcia postępowania egzekucyjnego lub wskazania we wniosku o wszczęcie egzekucji osoby niebędącej dłużnikiem komornik wydaje postanowienie o pobraniu od wierzyciela opłaty stosunkowej w wysokości 10 % egzekwowanego świadczenia. W takim przypadku komornik nie ściąga ani nie pobiera opłaty od dłużnika, a opłatę ściągniętą lub pobraną zwraca dłużnikowi. Przepisów art. 29 ust. 1–3 nie stosuje się.
 
-**Art. 31.** Opłata stosunkowa od wniosku o wykonanie zabezpieczenia roszczenia pieniężnego lub europejskiego nakazu zabezpieczenia na rachunku bankowym wynosi 5% wartości świadczenia, które ma podlegać zabezpieczeniu. Jeżeli jednak zabezpieczenie roszczenia pieniężnego polega na zobowiązaniu do zapłaty na rzecz uprawnionego, stosuje się odpowiednio przepisy art. 27–30.
+**Art. 31.**
 
-**Art. 32.** Jeżeli przed wszczęciem postępowania egzekucyjnego w sprawie o świadczenie pieniężne komornik wykonał zabezpieczenie roszczenia pieniężnego lub europejski nakaz zabezpieczenia na rachunku bankowym o to samo świadczenie, na poczet opłaty stosunkowej, o której mowa w art. 27 lub art. 29, zalicza się pobraną przez komornika od wierzyciela opłatę stosunkową od wniosku o zabezpieczenie. Jeżeli opłata pobrana za wykonanie zabezpieczenia roszczenia jest wyższa niż opłata egzekucyjna, różnica nie podlega zwrotowi.
+1. Opłata stała od wniosku o wykonanie zabezpieczenia roszczenia pieniężnego lub europejskiego nakazu zabezpieczenia na rachunku bankowym wynosi 300 złotych.
+
+2. W razie wykonania zabezpieczenia roszczenia pieniężnego lub europejskiego nakazu zabezpieczenia na rachunku bankowym, komornik pobiera od wnioskodawcy opłatę stosunkową w wysokości 10 % wartości mienia objętego zabezpieczeniem. Opłata ta podlega zmniejszeniu o wysokość opłaty pobranej na podstawie ust. 1. Jeżeli ustalenie wartości mienia objętego zabezpieczeniem wymaga opinii biegłego, komornik wzywa uprawnionego do uiszczenia zaliczki na związane z tym wydatki. W razie nieuiszczenia zaliczki, termin umorzenia postępowania, o którym mowa w art. 824 § 1 pkt 4 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, wynosi miesiąc.
+
+2a. W razie umorzenia postępowania o wykonanie zabezpieczenia roszczenia pieniężnego lub europejskiego nakazu zabezpieczenia na rachunku bankowym na wniosek uprawnionego albo na podstawie art. 824 § 1 pkt 4 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, uprawnionego obciąża opłata stosunkowa w wysokości 5 % wartości świadczenia, które miało podlegać zabezpieczeniu. Jeżeli jednak uprawniony wykaże, że przyczyna umorzenia postępowania wiąże się ze spełnieniem świadczenia przez obowiązanego, uprawnionego obciąża opłata w wysokości 2 % świadczenia, które miało podlegać zabezpieczeniu.
+
+3. Jeżeli zabezpieczenie roszczenia pieniężnego polega na zobowiązaniu do zapłaty na rzecz uprawnionego, stosuje się odpowiednio przepisy art. 27–30.
+
+**Art. 32.** Jeżeli przed wszczęciem postępowania egzekucyjnego w sprawie o świadczenie pieniężne komornik wykonał zabezpieczenie roszczenia pieniężnego lub europejski nakaz zabezpieczenia na rachunku bankowym o to samo świadczenie, na poczet opłaty stosunkowej, o której mowa w art. 27 lub art. 29, zalicza się pobrane od wierzyciela opłaty za wykonanie zabezpieczenia. Jeżeli wysokość opłat pobranych za wykonanie zabezpieczenia roszczenia jest wyższa niż opłata egzekucyjna, różnica nie podlega zwrotowi.
 
 ##### Oddział 3 Opłaty egzekucyjne w sprawach o egzekucję świadczeń niepieniężnych
 
-**Art. 33.** Opłata stała od wniosku o wszcz ę cie egzekucji wydania rzeczy ruchomej wynosi 400 złotych.
+**Art. 33.** Opłata stała od wniosku o wszczęcie egzekucji wydania rzeczy ruchomej wynosi 400 złotych.
 
 **Art. 34.**
 
-1. Opłata stała od wniosku o wszcz ę cie egzekucji wprowadzenia w posiadanie nieruchomo ś ci słu żą cej do zaspokojenia potrzeb mieszkaniowych dłu ż nika albo opró ż nienia lokalu lub pomieszczenia słu żą cego do zaspokojenia takich potrzeb wynosi 1500 złotych.
+1. Opłata stała od wniosku o wszczęcie egzekucji wprowadzenia w posiadanie nieruchomości służącej do zaspokojenia potrzeb mieszkaniowych dłużnika albo opróżnienia lokalu lub pomieszczenia służącego do zaspokojenia takich potrzeb wynosi 1500 złotych.
 
 2. Opłata stała od wniosku o wszczęcie egzekucji wprowadzenia w posiadanie innej nieruchomości albo opróżnienia innego lokalu lub pomieszczenia wynosi 2000 złotych.
 
 3. Jeżeli nieruchomość, lokal lub pomieszczenie są wykorzystywane przez dłużnika wyłącznie do prowadzenia działalności gospodarczej, opłatę, o której mowa w ust. 2, powiększa się o opłatę w wysokości 1000 złotych od drugiej i każdej kolejnej izby wchodzącej w skład nieruchomości, lokalu lub pomieszczenia, którego ma dotyczyć egzekucja. Łączna opłata nie może być wyższa niż 30 000 złotych.
 
-**Art. 35.** Opłata stała od wniosku o wprowadzenie:
+**Art. 35.** Opłata stała od wniosku o:
 
 **Art. 36.**
 
-1. Opłata stała za udział w usunięciu oporu dłużnika oraz polecenia sądu w sprawie osadzenia dłużnika w areszcie wynosi 1000 złotych.
+1. Opłata stała za udział w usunięciu oporu dłużnika oraz wykonanie polecenia sądu w sprawie osadzenia dłużnika w areszcie wynosi 1000 złotych.
 
 2. W razie otrzymania od sądu polecenia osadzenia dłużnika w areszcie komornik wzywa wierzyciela do uiszczenia opłaty stałej w terminie 7 dni od dnia doręczenia wezwania, pod rygorem odmowy wykonania polecenia. Odpis postanowienia o odmowie wykonania polecenia komornik doręcza właściwemu sądowi.
 
@@ -264,13 +281,19 @@ o kosztach komorniczych
 
 **Art. 38.** Opłata stała od wniosku o wykonanie innego zabezpieczenia niż wymienione w art. 31 wynosi 300 złotych.
 
-**Art. 39.** Jeżeli dłużnik spełni świadczenie stwierdzone w tytule wykonawczym najpóźniej na 3 dni przed planowanym wykonaniem tytułu wykonawczego, komornik zwraca wierzycielowi 50% uiszczonej opłaty. Jeżeli spełnienie świadczenia przez dłużnika nastąpiło przed doręczeniem dłużnikowi zawiadomienia o wszczęciu egzekucji albo wezwania do dobrowolnego wykonania obowiązku, komornik zwraca wierzycielowi część uiszczonej opłaty przekraczającą kwotę 200 złotych.
+**Art. 39.** Jeżeli dłużnik spełni świadczenie stwierdzone w tytule wykonawczym najpóźniej na 3 dni przed planowanym wykonaniem tytułu wykonawczego, komornik zwraca wierzycielowi 50 % uiszczonej opłaty. Jeżeli spełnienie świadczenia przez dłużnika nastąpiło przed doręczeniem dłużnikowi zawiadomienia o wszczęciu egzekucji albo wezwania do dobrowolnego wykonania obowiązku, komornik zwraca wierzycielowi część uiszczonej opłaty przekraczającą kwotę 200 złotych.
 
 ##### Oddział 4 Pozostałe opłaty
 
 **Art. 40.** Opłata stała od wniosku o:
 
-**Art. 41.** Opłata stała za bezpośrednie i osobiste doręczenie na zlecenie sądu zawiadomień sądowych, pism procesowych oraz innych dokumentów sądowych za potwierdzeniem odbioru i oznaczeniem daty wynosi 40 złotych.
+**Art. 41.**
+
+1. Opłata stała od zlecenia sądu albo wniosku powoda o bezpośrednie i osobiste doręczenie pism w sposób przewidziany w art. 3 ust. 4 pkt 1 ustawy z dnia 22 marca 2018 r. o komornikach sądowych (Dz. U. z 2023 r. poz. 1691 i 1860) wynosi 60 złotych. Opłatę pobiera się za doręczenie na jeden adres oznaczonego pisma w sprawie, niezależnie od liczby adresatów tego pisma tam zamieszkałych i liczby podjętych prób doręczenia.
+
+2. Opłata stała od wniosku o podjęcie czynności zmierzających do ustalenia aktualnego adresu zamieszkania adresata, o których mowa w art. 3 ust. 4 pkt 1a ustawy z dnia 22 marca 2018 r. o komornikach sądowych, wynosi 40 złotych.
+
+3. Opłatę, o której mowa w ust. 2, komornik pobiera także w przypadku ustalenia aktualnego adresu zamieszkania w sposób przewidziany w art. 3a ust. 1b ustawy z dnia 22 marca 2018 r. o komornikach sądowych. Przepisu art. 22 ust. 1 nie stosuje się.
 
 **Art. 42.** Opłata stała za sporządzenie protokołu stanu faktycznego wynosi 400 złotych.
 
@@ -280,17 +303,17 @@ o kosztach komorniczych
 
 2. Wysokość opłaty za przeprowadzenie dobrowolnej licytacji publicznej ustala komornik z wnioskodawcą.
 
-**Art. 44.** Opłata stała za poszukiwanie majątku dłużnika na zlecenie wierzyciela, o którym mowa w art. 801 ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego, wynosi 100 złotych.
+**Art. 44.** Opłata stała za poszukiwanie majątku dłużnika na zlecenie wierzyciela, o którym mowa w art. 801 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, wynosi 100 złotych.
 
 #### Rozdział 4 Zwolnienie od kosztów komorniczych i obniżenie opłaty
 
 **Art. 45.**
 
-1. Zwolnienie od kosztów sądowych przysługujące stronie z mocy ustawy albo przyznane stronie w postępowaniu rozpoznawczym rozci ą ga si ę na koszty komornicze.
+1. Zwolnienie od kosztów sądowych przysługujące stronie z mocy ustawy albo przyznane stronie w postępowaniu rozpoznawczym rozciąga się na koszty komornicze.
 
-2. Skarb Pa ń stwa nie uiszcza opłat egzekucyjnych.
+2. Skarb Państwa nie uiszcza opłat egzekucyjnych.
 
-3. Je ż eli strona b ę d ą ca osob ą fizyczn ą nie korzysta ze zwolnienia, o którym mowa w ust. 1, i nie jest w stanie bez uszczerbku dla utrzymania koniecznego dla siebie i rodziny ponie ść wydatków lub tych opłat komorniczych, od których uiszczenia zale ż y podj ę cie czynno ś ci przez komornika, mo ż e wyst ą pi ć z wnioskiem do s ą du rejonowego, przy którym działa komornik, o zwolnienie w całości lub części od tych kosztów.
+3. Jeżeli strona będąca osobą fizyczną nie korzysta ze zwolnienia, o którym mowa w ust. 1, i nie jest w stanie bez uszczerbku dla utrzymania koniecznego dla siebie i rodziny ponieść wydatków lub tych opłat komorniczych, od których uiszczenia zależy podjęcie czynności przez komornika, może wystąpić z wnioskiem do sądu rejonowego, przy którym działa komornik, o zwolnienie w całości lub części od tych kosztów.
 
 4. Przepis ust. 3 stosuje się odpowiednio do strony będącej osobą prawną lub jednostką organizacyjną niebędąca osobą prawną, której ustawa przyznaje zdolność prawną, która wykaże, że nie ma dostatecznych środków na uiszczenie kosztów komorniczych.
 
@@ -300,11 +323,15 @@ o kosztach komorniczych
 
 **Art. 46.**
 
-1. Sąd rejonowy, przy którym działa komornik, wypłaca tymczasowo komornikowi, na jego wniosek, sumy odpowiadające wysokości wydatków oraz tych opłat komorniczych, od których zależy podjęcie czynności przez komornika, należnych od strony zwolnionej od kosztów komorniczych.
+1. Sąd rejonowy, przy którym działa komornik, wypłaca tymczasowo komornikowi, na jego wniosek, sumy odpowiadające wysokości należnych od strony zwolnionej od kosztów komorniczych wydatków, opłat komorniczych, od których zależy podjęcie czynności przez komornika, oraz opłaty, o której mowa w art. 31 ust. 2.
 
-2. W sprawach, o których mowa w ust. 1, komornik przed zakończeniem postępowania wydaje postanowienie o pobraniu od dłużnika albo uczestnika postępowania wypłaconych tymczasowo kosztów komorniczych. Nie dotyczy to spraw, w których egzekucja okazała się bezskuteczna albo postępowanie zostało umorzone z innych przyczyn.
+2. Sumy, o których mowa w ust. 1, komornik rozlicza w postępowaniu egzekucyjnym przed zakończeniem tego postępowania przez wydanie postanowienia o pobraniu od dłużnika wypłaconych tymczasowo kosztów komorniczych. Nie dotyczy to spraw, w których egzekucja okazała się bezskuteczna albo postępowanie egzekucyjne zostało umorzone z innych przyczyn.
 
-3. Wypłacone sumy, o których mowa w ust. 1, komornik zwraca sądowi po ich wyegzekwowaniu z pierwszeństwem przed wszystkimi innymi należnościami.
+3. Sumy, o których mowa w ust. 1, komornik zwraca sądowi po ich wyegzekwowaniu z pierwszeństwem przed wszystkimi innymi należnościami.
+
+4. W postępowaniach innych niż wymienione w ust. 2, a także w odniesieniu do czynności, o których mowa w art. 3 ust. 4 pkt 3 ustawy z dnia 22 marca 2018 r. o komornikach sądowych, komornik przed zakończeniem sprawy ustala, w drodze postanowienia, wysokość wypłaconych przez sąd sum. Sumy ustalone w postępowaniu o wykonanie zabezpieczenia roszczenia pieniężnego lub europejskiego nakazu zabezpieczenia na rachunku bankowym podlegają rozliczeniu z urzędu w razie wszczęcia przez uprawnionego egzekucji z mienia objętego zabezpieczeniem.
+
+5. Wysokość kosztów komorniczych powstałych w związku z dokonywaniem czynności, o których mowa w art. 41, pokrytych tymczasowo w sposób przewidziany w ust. 1 za stronę zwolnioną od kosztów komorniczych, komornik ustala przy zakończeniu sprawy. Po uprawomocnieniu się postanowienia komornik niezwłocznie przesyła jego odpis sądowi, który zobowiązał stronę zwolnioną od kosztów do dokonania czynności. Koszty te wlicza się z mocy prawa do kosztów sądowych postępowania, w związku z prowadzeniem którego powstały.
 
 **Art. 47.** Zwolnienie strony od kosztów komorniczych nie zwalnia jej z obowiązku poniesienia opłaty egzekucyjnej za egzekucję świadczeń pieniężnych oraz zwrotu kosztów postępowania egzekucyjnego drugiej stronie, jeżeli zachodzą podstawy do obciążenia strony opłatą egzekucyjną lub kosztami postępowania egzekucyjnego.
 
@@ -314,21 +341,13 @@ o kosztach komorniczych
 
 2. Wniosek, o którym mowa w ust. 1, wnosi się w terminie 7 dni od dnia doręczenia postanowienia o pobraniu lub ustaleniu opłaty.
 
-3. Do wniosku, o którym mowa w ust. 1, stosuje się odpowiednio przepisy art. 767 i art. 767 –767 ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego.
+3. Do wniosku, o którym mowa w ust. 1, stosuje się odpowiednio przepisy art. 767 i art. 767 –767 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego.
 
 4. Wniosek, o którym mowa w ust. 1, zażalenie na postanowienie sądu oraz skarga na orzeczenie referendarza sądowego w przedmiocie obniżenia opłaty egzekucyjnej nie podlegają opłacie sądowej.
 
 5. Opłata obniżona nie może być niższa niż jedna trzecia opłaty należnej na podstawie ustawy, nie niższa jednak niż 200 złotych.
 
-#### Rozdział 5 Przepisy zmieniaj ą ce i przej ś ciowe oraz przepis ko ń cowy
-
-**Art. 49.** W ustawie z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. z 2018 r. poz. 155, z późn. zm. ) wprowadza się następujące zmiany:
-
-**Art. 1.** Prawomocne postanowienie komornika przyznające zwrot kosztów postępowania egzekucyjnego podlega wykonaniu bez zaopatrywania go w klauzulę wykonalności.”;
-
-**Art. 50.** W ustawie z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych (Dz. U. z 2018 r. poz. 300 i 398) wprowadza się następujące zmiany:
-
-**Art. 51.** W ustawie z dnia 25 maja 2017 r. o restytucji narodowych dóbr kultury (Dz. U. poz. 1086) art. 37 otrzymuje brzmienie: „Art. 37. W sprawach nieuregulowanych w art. 26–36 oraz art. 40 do postępowania w sprawach o zwrot zagranicznego narodowego dobra kultury, o którym mowa w art. 18 ust. 1, na terytorium państwa Unii Europejskiej stosuje się przepisy ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego, a w zakresie kosztów sądowych, wydatków i opłat egzekucyjnych stosuje się przepisy ustawy z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych (Dz. U. z 2018 r. poz. 300, 398 i 770) oraz ustawy z dnia 28 lutego 2018 r. o kosztach komorniczych (Dz. U. poz. 770).”.
+#### Rozdział 5 Przepisy zmieniające i przejściowe oraz przepis końcowy
 
 **Art. 52.**
 
@@ -336,9 +355,13 @@ o kosztach komorniczych
 
 2. Do postępowań, o których mowa w ust. 1, przepisy art. 29 i art. 30 stosuje się od dnia wejścia w życie niniejszej ustawy.
 
-3. Jeżeli przed dniem wejścia w życie niniejszej ustawy powstały okoliczności uprawniające do złożenia wniosku, o którym mowa w art. 49 ust. 2b ustawy z dnia 29 sierpnia 1997 r. o komornikach sądowych i egzekucji (Dz. U. z 2017 r. poz. 1277, 1343, 1452 i 1910 oraz z 2018 r. poz. 398), do tego wniosku i jego rozpoznania stosuje się przepisy dotychczasowe.
+3. Jeżeli przed dniem wejścia w życie niniejszej ustawy powstały okoliczności uprawniające do złożenia wniosku, o którym mowa w art. 49 ust. 2b ustawy z dnia 29 sierpnia 1997 r. o komornikach sądowych i egzekucji (Dz. U. z 2018 r. poz. 1309 i 1669), do tego wniosku i jego rozpoznania stosuje się przepisy dotychczasowe.
+
+4. Przepis art. 1035 ustawy zmienianej w art. 49 , w brzmieniu nadanym niniejszą ustawą, stosuje się do egzekucji z nieruchomości wszczętej po dniu wejścia w życie niniejszej ustawy, niezależnie od daty wszczęcia postępowania egzekucyjnego.
+
+5. Przepisy art. 25 ust. 1 i art. 72 ustawy zmienianej w art. 50 , w brzmieniu nadanym niniejszą ustawą, stosuje się do pism wnoszonych po dniu wejścia w życie niniejszej ustawy.
 
 **Art. 53.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 40a ust. 3 ustawy z dnia 29 sierpnia 1997 r. o komornikach sądowych i egzekucji zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 17 ust. 5 niniejszej ustawy, jednak nie dłużej niż do dnia 31 marca 2019 r.
 
-**Art. 54.** Ustawa wchodzi w życie z dniem 1 stycznia 2019 r. Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 54.** Ustawa wchodzi w życie z dniem 1 stycznia 2019 r.
 

@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 1 października 2025 r.
+# w sprawie ogłoszenia jednolitego tekstu ustawy o pracownikach sądów i prokuratury
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 26 września 2025 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2025-10-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001332) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1332/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 26 września 2025 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o pracownikach sądów i prokuratury
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku niniejszego obwieszczenia jednolity tekst ustawy z dnia 18 grudnia 1998 r. o pracownikach sądów i prokuratury (Dz. U. z 2018 r. poz. 577), z uwzględnieniem zmian wprowadzonych ustawą z dnia 24 stycznia 2025 r. o zmianie niektórych ustaw w związku z przystąpieniem Rzeczypospolitej Polskiej wzmocnionej współpracy w zakresie Prokuratury Europejskiej (Dz. U. poz. 304) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 września 2025 r.
 2. Podany w załączniku niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 6 i art. 7 ustawy z dnia 24 stycznia 2025 r. o zmianie niektórych ustaw w związku z przystąpieniem Rzeczypospolitej Polskiej wzmocnionej współpracy w zakresie Prokuratury Europejskiej (Dz. U. poz. 304), które stanowią: „Art. 6. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 11b ust. 12 ustawy zmienianej w art. 3 zachowują moc dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 11b ust. 12 ustawy zmienianej w art. 3, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez okres 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
@@ -59,7 +59,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o pracownikach sądów i prokura
 
 3. Konkurs przeprowadza komisja konkursowa powołana przez dyrektora sądu lub prokuratora.
 
-4. Konkurs ma na celu sprawdzenie wiedzy, umiejętności, predyspozycji oraz zdolności ogólnych kandydatów, niezbędnych wykonywania obowiązków urzędnika. dydatów na wypadek zaistnienia możliwości zatrudnienia większej liczby osób, rezygnacji kandydata bądź w sytuacji ustania stosunku pracy z osobą odbywającą staż urzędniczy przed ukończeniem tego stażu. Rezerwowa lista kandydatów jest ważna następnego konkursu, jednakże nie dłużej niż 12 miesięcy od przeprowadzenia ostatniego konkursu.
+4. Konkurs ma na celu sprawdzenie wiedzy, umiejętności, predyspozycji oraz zdolności ogólnych kandydatów, niezbędnych wykonywania obowiązków urzędnika. nia stosunku pracy z osobą odbywającą staż urzędniczy przed ukończeniem tego stażu. Rezerwowa lista kandydatów jest ważna następnego konkursu, jednakże nie dłużej niż 12 miesięcy od przeprowadzenia ostatniego konkursu.
 
 6. Minister Sprawiedliwości określi, w drodze rozporządzenia, szczegółowy sposób i tryb przeprowadzania konkursów na staż urzędniczy w sądach i prokuraturze, w szczególności skład komisji konkursowych oraz sposób i tryb ich działania, etapy i przebieg konkursu, a także zakres i sposób udostępniania informacji kandydatowi, mając na uwadze właściwy dobór kadry urzędniczej pracy w sądach i prokuraturze.
 
@@ -200,7 +200,7 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o pracownikach sądów i prokura
 
 **Art. 12c.** Dyrektor sądu lub prokurator może zawiesić urzędnika lub osobę odbywającą staż urzędniczy w pełnieniu obowiązków, przeciwko której prowadzone jest postępowanie o nieumyślne przestępstwo ścigane z oskarżenia publicznego lub nieumyślne przestępstwo skarbowe. Przepis art. 12b ust. 2–6 stosuje się.
 
-**Art. 13.** (uchylony) spraw pracy, określi, w drodze rozporządzenia:
+**Art. 13.** (uchylony)
 
 **Art. 14a.** Podwyższenie wynagrodzeń urzędników i innych pracowników sądów i prokuratury lub pracowników Biura Służby Prawnej Trybunału Konstytucyjnego następuje w terminach i na zasadach określonych dla pracowników państwowej sfery budżetowej nieobjętych mnożnikowymi systemami wynagrodzeń.
 

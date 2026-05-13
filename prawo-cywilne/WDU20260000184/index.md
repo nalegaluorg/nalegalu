@@ -12,7 +12,7 @@ domain: null
 
 # o zmianie ustawy o rzeczach znalezionych oraz ustawy Kodeks cywilny
 
-*USTAWA dnia 23 stycznia 2026 r.*
+*USTAWA z dnia 23 stycznia 2026 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -26,9 +26,9 @@ domain: null
 | Ostatnia zmiana | 2026-02-20 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000184) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/184/text.pdf) |
 
-**Art. 1.** ustawie dnia 20 lutego 2015 r. o rzeczach znalezionych (Dz. U. 2023 r. poz. 501) wprowadza następujące zmiany:
+**Art. 1.** W ustawie z dnia 20 lutego 2015 r. o rzeczach znalezionych (Dz. U. z 2023 r. poz. 501) wprowadza następujące zmiany:
 
-**Art. 3.** Do znalezionych przed dniem wejścia życie niniejszej ustawy stosuje przepisy dotychczasowe.
+**Art. 3.** Do rzeczy znalezionych przed dniem wejścia życie niniejszej ustawy stosuje przepisy dotychczasowe.
 
-**Art. 4.** Ustawa wchodzi życie po upływie 3 miesięcy od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: K. Nawrocki
+**Art. 4.** Ustawa wchodzi życie upływie 3 miesięcy od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: K. Nawrocki
 

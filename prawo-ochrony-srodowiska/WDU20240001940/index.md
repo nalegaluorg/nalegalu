@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 27 grudnia 2024 r.
+# o zmianie ustawy – Prawo ochrony środowiska oraz niektórych innych ustaw
+
+*USTAWA z dnia 27 listopada 2024 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,10 +26,21 @@ domain: null
 | Ostatnia zmiana | 2025-01-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001940) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1940/text.pdf) |
 
-USTAWA z dnia 27 listopada 2024 r.
-o zmianie ustawy Prawo ochrony środowiska oraz niektórych innych ustaw
+**Art. 1.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2024 r. poz. 54, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 1.** W ustawie z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (Dz. U. z 2024 r. poz. 54, z późn. zm. ) wprowadza się następujące zmiany:
+**Art. 18b.**
+
+1. Miejski plan adaptacji jest przyjmowany przez radę gminy drodze uchwały.
+
+2. Uchwalenie miejskiego planu adaptacji następuje terminie 30 miesięcy od dnia ogłoszenia przez Główny Urząd Statystyczny danych statystycznych dotyczących ludności według stanu na dzień 31 grudnia roku poprzedniego, zgodnie z którymi miasto osiągnęło liczbę mieszkańców, o której mowa art. 18a ust. 1.
+
+3. Miejski plan adaptacji nie jest aktem prawa miejscowego.
+
+4. Burmistrz albo prezydent miasta, o którym mowa art. 18a ust. 1, przekazuje Instytutowi Ochrony Środowiska – Państwowemu Instytutowi Badawczemu, zwanemu dalej „Instytutem Ochrony Środowiska”, za pośrednictwem systemu elektronicznego udostępnianego przez ten Instytut, uchwałę sprawie przyjęcia miejskiego planu adaptacji wraz z tym planem terminie 30 dni od dnia podjęcia uchwały.
+
+5. Miejski plan adaptacji aktualizuje się, uwzględniając sprawozdania z monitorowania wdrażania działań adaptacyjnych do zmian klimatu, o których mowa art. 18c ust. 1 pkt 2, nie rzadziej niż raz na 6 lat.
+
+6. Przepisy dotyczące miejskiego planu adaptacji, o których mowa ust. 1, 3 i 4 oraz art. 18a ust. 2–8, stosuje się odpowiednio do jego aktualizacji.
 
 **Art. 18c.**
 
@@ -56,12 +69,14 @@ o zmianie ustawy Prawo ochrony środowiska oraz niektórych innych ustaw
 
 **Art. 18d.**
 
-1. W systemie elektronicznym, o którym mowa art. 18c ust. 4, gromadzone są następujące dane użytkowników systemu: imię (imiona), nazwisko, służbowy adres e-mail, służbowy numer telefonu, miejsce zatrudnienia oraz zajmowane stanowisko. W systemie mogą być również gromadzone dane znajdujące się przekazanych przez użytkowników systemu dokumentach: numer PESEL, numer i seria dowodu osobistego, imię (imiona), nazwisko, stanowisko, miejsce zatrudnienia.
+1. W systemie elektronicznym, o którym mowa art. 18c ust. 4, gromadzone są następujące dane użytkowników systemu: imię (imiona), nazwisko, służbowy adres e-mail, służbowy numer telefonu, miejsce zatrudnienia oraz zajmowane stanowisko. W systemie mogą być również gromadzone dane znajdujące się przekazanych przez nowisko, miejsce zatrudnienia.
+
+2. Administratorem danych osobowych, o których mowa ust. 1, jest Instytut Ochrony Środowiska.
 
 3. Dane osobowe, o których mowa ust. 1, są przetwarzane celu realizacji zadań związanych ze sprawozdawczością, o których mowa art. 18b ust. 4 oraz art. 18c ust. 4–6, przez okres nie dłuższy niż 10 lat od końca roku kalendarzowego, którym zakończono realizację tych zadań.”;
 
 - **5)** art. 71 po ust. 2 dodaje się ust. 2a brzmieniu: „2a. W gminach, które posiadają miejski plan adaptacji, przy sporządzaniu i aktualizacji strategii rozwoju gminy, strategii rozwoju ponadlokalnego, planów ogólnych gmin oraz miejscowych planów zagospodarowania przestrzennego uwzględnia się wnioski i rekomendacje, o których mowa art. 18a ust. 5 pkt 7.”;
-- **6)** art. 72 ust. 4 otrzymuje brzmienie: „4. Wymagania, o których mowa ust. 1–3, określa się na podstawie opracowań ekofizjograficznych, stosownie do rodzaju sporządzanego dokumentu, cech poszczególnych elementów przyrodniczych i ich wzajemnych powiązań, a dla miast, które posiadają miejskie plany adaptacji także na podstawie wniosków i rekomendacji, o których mowa art. 18a ust. 5 pkt 7.”;
+- **6)** art. 72 ust. 4 otrzymuje brzmienie: „4. Wymagania, o których mowa ust. 1–3, określa się na podstawie opracowań ekofizjograficznych, stosownie do rodzaju sporządzanego dokumentu, cech poszczególnych elementów przyrodniczych i ich wzajemnych powiązań, a dla miast, które posiadają miejskie plany adaptacji – także na podstawie wniosków i rekomendacji, o których mowa art. 18a ust. 5 pkt 7.”;
 - **7)** art. 88 ust. 7 otrzymuje brzmienie: „7. Modelowanie matematyczne transportu i przemian substancji powietrzu oraz analizy wyników tego modelowania wykonuje Instytut Ochrony Środowiska.”;
 - **8)** art. 91 ust. 9c otrzymuje brzmienie: „9c. W przypadku stref, dla których programy ochrony powietrza zostały uchwalone, a poziomy dopuszczalne lub docelowe lub pułap stężenia ekspozycji są przekraczane kolejnych latach, zarząd województwa jest obowiązany opracować projekt aktualizacji programu terminie 4 lat od dnia wejścia życie uchwały sejmiku województwa sprawie programu ochrony powietrza, określając nim działania ochronne dla grup ludności wrażliwych na przekroczenie, obejmujących szczególności osoby starsze i dzieci. Sejmik województwa terminie 3 miesięcy od dnia opracowania projektu aktualizacji programu ochrony powietrza określa, drodze uchwały, aktualizację programu.”;
 - **9)** art. 400d: o działalności pożytku publicznego i o wolontariacie, o zasięgu ogólnokrajowym, działających na rzecz ochrony klimatu, ochrony środowiska lub odnawialnych źródeł energii, rozumieniu art. 2 pkt 22 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii.”, o działalności pożytku publicznego i o wolontariacie, na wniosek ministra właściwego do spraw klimatu, przeprowadza postępowanie konkursowe celu wyłonienia kandydatów na przedstawiciela, o którym mowa ust. 2 pkt 5.
@@ -73,10 +88,10 @@ o zmianie ustawy Prawo ochrony środowiska oraz niektórych innych ustaw
 
 - **1)** posiadających wiedzę i doświadczenie niezbędne do realizacji zadań Rady Nadzorczej Narodowego Funduszu;
 - **2)** posiadających poparcie co najmniej pięciu organizacji pozarządowych o zasięgu ogólnokrajowym.”,
-    - **d)** po ust. 4 dodaje się ust. 4a i 4b brzmieniu: „4a. Rada Działalności Pożytku Publicznego wyniku przeprowadzenia postępowania konkursowego wyłania od trzech do pięciu kandydatów na przedstawiciela, o którym mowa ust. 2 pkt 5, i przekazuje informację o tych kandydatach ministrowi właściwemu do spraw klimatu nie później niż terminie 45 dni od dnia otrzymania wniosku, o którym mowa ust. 3.
+    - **d)** po ust. 4 dodaje się ust. 4a i 4b brzmieniu: „4a. Rada Działalności Pożytku Publicznego wyniku przeprowadzenia postępowania konkursowego wyłania od trzech do pięciu kandydatów na przedstawiciela, o którym mowa ust. 2 pkt 5, i przekazuje infor4b. W przypadku:
 
 - **1)** uchybienia terminowi, o którym mowa ust. 4a, lub zasadom, o których mowa ust. 4, lub
-- **2)** niewyłonienia wymaganego minimum kandydatów zgodnie z ust. 4a minister właściwy do spraw klimatu może delegować na miejsce przedstawiciela, o którym mowa ust. 2 pkt 5, swojego przedstawiciela.”,
+- **2)** niewyłonienia wymaganego minimum kandydatów zgodnie z ust. 4a – minister właściwy do spraw klimatu może delegować na miejsce przedstawiciela, o którym mowa ust. 2 pkt 5, swojego przedstawiciela.”,
     - **e)** ust. 5 otrzymuje brzmienie: „5. W razie niezgłoszenia przedstawicieli przez stronę samorządową Komisji Wspólnej Rządu i Samorządu Terytorialnego minister właściwy do spraw klimatu może delegować na ich miejsce swoich przedstawicieli.”;
 
 - **10)** art. 400f:
@@ -86,14 +101,15 @@ o zmianie ustawy Prawo ochrony środowiska oraz niektórych innych ustaw
 
 - **11)** art. 400i:
     - **a)** ust. 4 pkt 7 kropkę zastępuje się średnikiem i dodaje się pkt 8 brzmieniu: „8) nie pracowała lub nie pełniła służby organach bezpieczeństwa państwa lub nie była współpracownikiem tych organów rozumieniu przepisów ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów.”,
-    - **b)** dodaje się ust. 19 i 20 brzmieniu: „19. Prezesa Zarządu Narodowego Funduszu przypadku jego nieobecności lub czasowej niemożności sprawowania przez niego funkcji, na podstawie jego pisemnego upoważnienia i przez okres nie dłuższy niż 6 miesięcy, zastępuje jeden z zastępców Prezesa Zarządu Narodowego Funduszu. W przypadku gdy udzielenie upoważnienia przez Prezesa Zarządu Narodowego Funduszu nie jest możliwe upoważnienia udziela minister właściwy do spraw klimatu.
+    - **b)** dodaje się ust. 19 i 20 brzmieniu: „19. Prezesa Zarządu Narodowego Funduszu przypadku jego nieobecności lub czasowej niemożności sprawowania przez niego funkcji, na podstawie jego pisemnego upoważnienia i przez okres nie dłuższy niż 6 miesięcy, zastępuje jeden z zastępców Prezesa Zarządu Narodowego Funduszu. W przypadku gdy udzielenie upoważnienia przez Prezesa Zarządu Narodowego Funduszu nie jest możliwe – upoważnienia udziela minister właściwy do spraw klimatu.
 
 20. W przypadku śmierci Prezesa Zarządu Narodowego Funduszu albo odwołania go ze sprawowanej funkcji do czasu powołania nowego Prezesa Zarządu Narodowego Funduszu jego obowiązki pełni zastępca Prezesa Zarządu Narodowego Funduszu wyznaczony przez ministra właściwego do spraw klimatu.”;
 
-- **12)** art. 400j: „4) zadania Instytutu Ochrony Środowiska, o których mowa art. 18c ust. 5.”;
+- **12)** art. 400j:
     - **a)** ust. 2a otrzymuje brzmienie: „2a. Jeżeli zarząd województwa terminie 7 dni od dnia doręczenia wniosku, o którym mowa ust. 2, nie odwoła lub nie powoła członków zarządu wojewódzkiego funduszu zgodnie z tym wnioskiem, odwołania lub powołania członków zarządu wojewódzkiego funduszu dokonuje rada nadzorcza wojewódzkiego funduszu.”,
-    - **b)** po ust. 3 dodaje się ust. 3a brzmieniu: „3a. Członkiem zarządu wojewódzkiego funduszu może być osoba, która nie pracowała lub nie pełniła służby organach bezpieczeństwa państwa lub nie była współpracownikiem tych organów rozumieniu przepisów ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów.”;
+    - **b)** po ust. 3 dodaje się ust. 3a brzmieniu: „3a. Członkiem zarządu wojewódzkiego funduszu może być osoba, która nie pracowała lub nie pełniła służby organach bezpieczeństwa państwa lub nie była współpracownikiem tych organów rozumieniu
 
+- **13)** art. 401c ust. 9a pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 brzmieniu: „4) zadania Instytutu Ochrony Środowiska, o których mowa art. 18c ust. 5.”;
 - **14)** art. 403:
     - **a)** ust. 4 i 5 otrzymują brzmienie: „4. Finansowanie ochrony środowiska i gospodarki wodnej, o którym mowa ust. 1 i 2, może polegać na udzielaniu dotacji celowej rozumieniu przepisów ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych z budżetu gminy lub budżetu powiatu na finansowanie lub dofinansowanie kosztów inwestycji podmiotów niezaliczonych do sektora finansów publicznych lub jednostek sektora finansów publicznych będących gminnymi lub powiatowymi osobami prawnymi.
 
@@ -115,21 +131,24 @@ o zmianie ustawy Prawo ochrony środowiska oraz niektórych innych ustaw
     - **a)** ust. 10l otrzymuje brzmienie: „10l. Do ustalania wysokości przeciętnego miesięcznego dochodu, o którym mowa ust. 10g, z gospodarstwa rolnego stosuje się przepisy art. 5 ust. 8–9 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych, przy czym:
 
 - **1)** ilekroć tych przepisach jest mowa o:
-    - **a)** rodzinie rozumie się przez to gospodarstwo domowe, o którym mowa ust. 10j,
-    - **b)** gospodarstwie rolnym rozumie się przez to gospodarstwo rolne, o którym mowa art. 2 ust. 1 ustawy z dnia 15 listopada 1984 r. o podatku rolnym (Dz. U. z 2024 r. poz. 1176, 1635 i 1757);
+    - **a)** rodzinie – rozumie się przez to gospodarstwo domowe, o którym mowa ust. 10j,
+    - **b)** gospodarstwie rolnym – rozumie się przez to gospodarstwo rolne, o którym mowa art. 2 ust. 1 ustawy z dnia 15 listopada 1984 r. o podatku rolnym (Dz. U. z 2024 r. poz. 1176, 1635 i 1757);
 
 - **2)** wysokość przeciętnego miesięcznego dochodu, o którym mowa ust. 10g, z gospodarstwa rolnego jest ustalana na podstawie dochodów osiągniętych w:
-    - **a)** przedostatnim roku kalendarzowym poprzedzającym rok, którym złożono żądanie wydania zaświadczenia, o którym mowa ust. 10g przypadku żądania złożonego okresie od dnia 1 stycznia danego roku do dnia ogłoszenia danym roku, drodze obwieszczenia, przez Prezesa Głównego Urzędu Statystycznego Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” wysokości przeciętnego dochodu z pracy indywidualnych gospodarstwach rolnych z 1 ha przeliczeniowego, o którym mowa ust. 10g przypadku żądania złożonego okresie od dnia następującego po dniu ogłoszenia danym roku, drodze obwieszczenia, o którym mowa lit. a, wysokości przeciętnego dochodu z pracy indywidualnych gospodarstwach rolnych z 1 ha przeliczeniowego do dnia 31 grudnia danego roku.”,
-    - **b)** dodaje się ust. 12 brzmieniu: „12. Wojewódzkie fundusze zakresie, jakim są zaangażowane realizację inwestycji rozumieniu art. 14la pkt 3 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju udostępniają, formie pisemnej postaci papierowej lub elektronicznej, niezbędne dane osobowe osób fizycznych przetwarzane związku z realizacją tej inwestycji:
+    - **a)** przedostatnim roku kalendarzowym poprzedzającym rok, którym złożono żądanie wydania zaświadczenia, o którym mowa ust. 10g – przypadku żądania złożonego okresie od dnia 1 stycznia danego ciętnego dochodu z pracy indywidualnych gospodarstwach rolnych z 1 ha przeliczeniowego,
+    - **b)** ostatnim roku kalendarzowym poprzedzającym rok, którym złożono żądanie wydania zaświadczenia, o którym mowa ust. 10g – przypadku żądania złożonego okresie od dnia następującego po dniu ogłoszenia danym roku, drodze obwieszczenia, o którym mowa lit. a, wysokości przeciętnego dochodu z pracy indywidualnych gospodarstwach rolnych z 1 ha przeliczeniowego do dnia 31 grudnia danego roku.”,
+    - **b)** dodaje się ust. 12 brzmieniu: „12. Wojewódzkie fundusze – zakresie, jakim są zaangażowane realizację inwestycji rozumieniu art. 14la pkt 3 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju – udostępniają, formie pisemnej postaci papierowej lub elektronicznej, niezbędne dane osobowe osób fizycznych przetwarzane związku z realizacją tej inwestycji:
 
 - **1)** Narodowemu Funduszowi jako ostatecznemu odbiorcy wsparcia rozumieniu art. 14la pkt 6 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju albo jako jednostce wspierającej plan rozwojowy rozumieniu art. 14la pkt 4 tej ustawy,
-- **2)** ministrowi właściwemu do spraw rozwoju regionalnego, instytucji odpowiedzialnej za realizację reformy, instytucji odpowiedzialnej za realizację inwestycji, Szefowi Krajowej Administracji Skarbowej oraz właściwym jednostkom organizacyjnym Krajowej Administracji Skarbowej, Komisji Europejskiej, Europejskiemu Urzędowi do spraw Zwalczania Nadużyć Finansowych, Europejskiemu Trybunałowi Obrachunkowemu i Prokuraturze Europejskiej na ich żądanie, celu realizacji, kontroli, audytu i ewaluacji reform i inwestycji na zasadach określonych ustawie z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju lub rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2021/241 z dnia 12 lutego 2021 r. ustanawiającym Instrument na rzecz Odbudowy i Zwiększania Odporności (Dz. Urz. UE L 57 z 18.02.2021, str. 17, z późn. zm. ).”.
+- **2)** ministrowi właściwemu do spraw rozwoju regionalnego, instytucji odpowiedzialnej za realizację reformy, instytucji odpowiedzialnej za realizację inwestycji, Szefowi Krajowej Administracji Skarbowej oraz właściwym jednostkom organizacyjnym Krajowej Administracji Skarbowej, Komisji Europejskiej, Europejskiemu Urzędowi do spraw Zwalczania Nadużyć Finansowych, Europejskiemu Trybunałowi Obrachunkowemu i Prokuraturze Europejskiej – na ich żądanie, celu realizacji, kontroli, audytu i ewaluacji reform i inwestycji na zasadach określonych ustawie z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju lub rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2021/241 z dnia 12 lutego 2021 r. ustanawiającym Instrument na rzecz Odbudowy i Zwiększania Odporności (Dz. Urz. UE L 57 z 18.02.2021, str. 17, z późn. zm. ).”.
 
 **Art. 2.** W ustawie z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2024 r. poz. 1465, 1572 i 1907) wprowadza się następujące zmiany:
 
 **Art. 3.** W ustawie z dnia 5 czerwca 1998 r. o samorządzie województwa (Dz. U. z 2024 r. poz. 566 i 1907) art. 11:
 
-**Art. 5.** W ustawie z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2024 r. poz. 1491 i 1761) art. 35 ust. 2 pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 brzmieniu: „9) przeprowadzanie postępowania konkursowego celu wyłonienia kandydatów na przedstawiciela organizacji pozarządowych do Rady Nadzorczej Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej, zgodnie z art. 400d ust. 3–4b ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (Dz. U. z 2024 r. poz. 54, z późn. zm. ).”.
+**Art. 4.** W ustawie z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2024 r. poz. 1130 i 1907) wprowadza się następujące zmiany:
+
+**Art. 5.** W ustawie z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2024 r. poz. 1491 i 1761) art. 35 ust. 2 pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 brzmieniu: „9) przeprowadzanie postępowania konkursowego celu wyłonienia kandydatów na przedstawiciela organizacji pozarządowych do Rady Nadzorczej Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej, zgodnie z art. 400d ust. 3–4b ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2024 r. poz. 54, z późn. zm. ).”.
 
 **Art. 6.** W ustawie z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2024 r. poz. 1478) wprowadza się następujące zmiany:
 
@@ -143,16 +162,13 @@ o zmianie ustawy Prawo ochrony środowiska oraz niektórych innych ustaw
 
 **Art. 3d.**
 
-1. Biomasa pozyskana z drzew i krzewów, o której mowa art. 2 ust. 1 pkt 4a lit. c, wprowadzana do obrotu lub obejmowana procedurą celną dopuszczenia do obrotu postaci zrębki drzewnej lub drewna kawałkowego z przeznaczeniem, o którym mowa art. 1 ust. 2, musi spełniać wymagania jakościowe określone dla tego rodzaju paliwa ze względu na ochronę środowiska, wpływ na zdrowie ludzi oraz interesy konsumentów.
+1. Biomasa pozyskana z drzew i krzewów, o której mowa art. 2 ust. 1 pkt 4a lit. c, wprowadzana do obrotu lub obejmowana procedurą celną dopuszczenia do obrotu postaci zrębki drzewnej lub drewna kawałkowego z przeznaczeniem, o którym mowa art. 1 ust. 2, musi spełniać wymagania jakościowe określone dla tego rodzaju paliwa ze względu na ochronę środowiska, wpływ na zdrowie ludzi oraz interesy konsumentów. rządzenia, wymagania jakościowe dla biomasy pozyskanej z drzew lub krzewów, o której mowa art. 2 ust. 1 pkt 4a lit. c, wprowadzanej do obrotu lub obejmowanej procedurą celną dopuszczenia do obrotu postaci zrębki drzewnej lub drewna kawałkowego z przeznaczeniem, o którym mowa art. 1 ust. 2, biorąc pod uwagę stan wiedzy technicznej tym zakresie wynikający z badań tych paliw, a także doświadczeń ich stosowaniu, ze szczególnym uwzględnieniem potrzeby poprawy jakości powietrza, tym ograniczenia emisji do powietrza gazów cieplarnianych i innych substancji.”.
 
-2. Minister właściwy do spraw klimatu oraz minister właściwy do spraw energii mogą określić, drodze rozporządzenia, wymagania jakościowe dla biomasy pozyskanej z drzew lub krzewów, o której mowa art. 2 ust. 1 pkt 4a lit. c, wprowadzanej do obrotu lub obejmowanej procedurą celną dopuszczenia do obrotu postaci zrębki drzewnej lub drewna kawałkowego z przeznaczeniem, o którym mowa art. 1 ust. 2, biorąc pod uwagę stan wiedzy technicznej tym zakresie wynikający z badań tych paliw, a także doświadczeń ich stosowaniu, ze szczególnym uwzględnieniem potrzeby poprawy jakości powietrza, tym ograniczenia emisji do powietrza gazów cieplarnianych i innych substancji.”. państwa z lat 1944–1990 oraz treści tych dokumentów (Dz. U. z 2024 r. poz. 1632 i 1897) wprowadza się następujące zmiany:
-
-- **1)** art. 4 po pkt 69 dodaje się pkt 69a brzmieniu: „69a) członek Rady Nadzorczej Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej, członek Zarządu Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej, członek rady nadzorczej wojewódzkiego funduszu ochrony środowiska i gospodarki wodnej oraz członek zarządu wojewódzkiego funduszu ochrony środowiska i gospodarki wodnej;”;
-- **2)** art. 8 po pkt 64 dodaje się pkt 64a brzmieniu: „64a) pkt 69a minister właściwy do spraw klimatu;”.
+**Art. 8.** W ustawie z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów (Dz. U. z 2024 r. poz. 1632 i 1897) wprowadza się następujące zmiany:
 
 **Art. 9.** W ustawie z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2024 r. poz. 324, 862 i 1717) wprowadza się następujące zmiany:
 
-**Art. 11.** W ustawie z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków (Dz. U. z 2024 r. poz. 1446, 1473, 1572 i 1635) wprowadza się następujące zmiany:
+**Art. 10.** W ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2024 r. poz. 1112 i 1881) wprowadza się następujące zmiany:
 
 **Art. 12.** W ustawie z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji (Dz. U. z 2022 r. poz. 673 oraz z 2024 r. poz. 834) wprowadza się następujące zmiany:
 
@@ -164,7 +180,7 @@ o zmianie ustawy Prawo ochrony środowiska oraz niektórych innych ustaw
 
 1. Rada gminy może, terminie 30 dni od dnia wejścia życie niniejszej ustawy, uznać dotychczas uchwalony dokument o charakterze strategiczno-wdrożeniowym, niebędący aktem prawa miejscowego, który realizuje cel określony art. 3 pkt 9a ustawy zmienianej art. 1, za miejski plan adaptacji rozumieniu art. 3 pkt 9a ustawy zmienianej art. 1.
 
-2. Informację o uznaniu dokumentu o charakterze strategiczno-wdrożeniowym, o którym mowa ust. 1, za miejski plan adaptacji rozumieniu art. 3 pkt 9a ustawy zmienianej art. 1 właściwy burmistrz albo prezydent miasta zamieszcza Biuletynie Informacji Publicznej na stronie podmiotowej urzędu gminy albo miasta, terminie 14 dni od dnia uznania, o którym mowa ust. 1, oraz przekazuje tę informację wraz z tym planem Instytutowi Ochrony Środowiska Państwowemu Instytutowi Badawczemu, zwanemu dalej „Instytutem Ochrony Środowiska”, terminie 30 dni od dnia tego zamieszczenia, za pośrednictwem systemu elektronicznego udostępnianego przez ten Instytut.
+2. Informację o uznaniu dokumentu o charakterze strategiczno-wdrożeniowym, o którym mowa ust. 1, za miejski plan adaptacji rozumieniu art. 3 pkt 9a ustawy zmienianej art. 1 właściwy burmistrz albo prezydent miasta zamieszcza wemu Instytutowi Badawczemu, zwanemu dalej „Instytutem Ochrony Środowiska”, terminie 30 dni od dnia tego zamieszczenia, za pośrednictwem systemu elektronicznego udostępnianego przez ten Instytut.
 
 3. Dokument o charakterze strategiczno-wdrożeniowym, o którym mowa ust. 1, zachowuje ważność i może być aktualizowany, zgodnie z art. 18b ust. 5 i 6 ustawy zmienianej art. 1.
 
@@ -176,7 +192,20 @@ o zmianie ustawy Prawo ochrony środowiska oraz niektórych innych ustaw
 
 2. Dla dokumentu, o którym mowa art. 15, pierwsze sprawozdanie z monitorowania wdrażania działań adaptacyjnych do zmian klimatu, o którym mowa art. 18c ust. 1 pkt 2 ustawy zmienianej art. 1, sporządza się i przekazuje Instytutowi Ochrony Środowiska za okres od dnia jego uchwalenia do dnia 31 grudnia 2025 r., terminie do dnia 30 czerwca 2026 r.
 
-**Art. 17.** Do programów ochrony powietrza opracowywanych dla stref zaklasyfikowanych jako strefy, o których mowa art. 89 ust. 1 pkt 1 lub 4 ustawy zmienianej art. 1, stosuje się przepisy art. 91 ust. 9c ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą. dowiska i gospodarki wodnej terminie 14 dni od dnia wejścia życie ustawy przekazują Prezesowi Instytutu Pamięci Narodowej Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu listy członków organów Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej oraz wojewódzkich funduszy ochrony środowiska i gospodarki wodnej urodzonych przed dniem 1 sierpnia 1972 r., zawierające następujące dane tych osób: datę urodzenia, imię (imiona), nazwisko oraz numer PESEL, a przypadku nieposiadania przez te osoby numeru PESEL imię ojca. 2. Imiona i nazwiska osób ujętych na listach, o których mowa ust. 1, Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej oraz wojewódzkie fundusze ochrony środowiska i gospodarki wodnej przekazują do wiadomości ministrowi właściwemu do spraw klimatu. 3. Listy, o których mowa ust. 1, sporządza się na formularzu udostępnionym na stronie internetowej Instytutu Pamięci Narodowej Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu oraz przekazuje postaci papierowej. 4. Prezes Instytutu Pamięci Narodowej Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu terminie 3 miesięcy od dnia otrzymania list, o których mowa ust. 1, z zachowaniem przepisów o ochronie informacji niejawnych, przekazuje, sposób określony ust. 3, ministrowi właściwemu do spraw klimatu informacje o osobach:
+**Art. 17.** Do programów ochrony powietrza opracowywanych dla stref zaklasyfikowanych jako strefy, o których mowa art. 89 ust. 1 pkt 1 lub 4 ustawy zmienianej art. 1, stosuje się przepisy art. 91 ust. 9c ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą.
+
+**Art. 18.**
+
+1. Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej oraz wojewódzkie fundusze ochrony środowiska i gospodarki wodnej terminie 14 dni od dnia wejścia życie ustawy przekazują Prezesowi Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu listy członków organów Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej oraz wojewódzkich funduszy ochrony środowiska i gospodarki wodnej urodzonych przed dniem 1 sierpnia 1972 r., zawierające następujące dane tych osób: datę urodzenia, imię (imiona), nazwisko oraz numer PESEL, a przypadku nieposiadania przez te osoby numeru PESEL – imię ojca.
+
+2. Imiona i nazwiska osób ujętych na listach, o których mowa ust. 1, Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej oraz wojewódzkie fundusze ochrony środowiska i gospodarki wodnej przekazują do wiadomości ministrowi właściwemu do spraw klimatu.
+
+3. Listy, o których mowa ust. 1, sporządza się na formularzu udostępnionym na stronie internetowej Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu oraz przekazuje postaci papierowej.
+
+4. Prezes Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu terminie 3 miesięcy od dnia otrzymania list, o których mowa ust. 1, z zachowaniem przepisów o ochronie informacji niejawnych, przekazuje, sposób określony ust. 3, ministrowi właściwemu do spraw klimatu informacje o osobach:
+
+- **1)** które złożyły oświadczenie lustracyjne potwierdzające pracę lub służbę organach bezpieczeństwa państwa lub współpracę z tymi organami;
+- **2)** wobec których wydano prawomocne orzeczenie stwierdzające fakt złożenia przez te osoby niezgodnego z prawdą oświadczenia lustracyjnego.
 
 **Art. 19.**
 
@@ -184,7 +213,7 @@ o zmianie ustawy Prawo ochrony środowiska oraz niektórych innych ustaw
 
 2. W przypadku gdy informacja, o której mowa art. 18 ust. 4, dotyczy członka Rady Nadzorczej Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej lub członka rady nadzorczej wojewódzkiego funduszu ochrony środowiska i gospodarki wodnej wyznaczonego przez inny podmiot niż minister właściwy do spraw klimatu, minister właściwy do spraw klimatu, odwołując tego członka, wzywa ten podmiot do wyznaczenia innego przedstawiciela terminie 14 dni od dnia otrzymania wezwania.
 
-**Art. 20.** Minister właściwy do spraw klimatu przekazuje informację, o której mowa art. 18 ust. 4, właściwej radzie nadzorczej wojewódzkiego funduszu ochrony środowiska i gospodarki wodnej, która terminie 14 dni od dnia otrzymania informacji wnioskuje do zarządu województwa o odwołanie członka zarządu wojewódzkiego funduszu ochrony środowiska i gospodarki wodnej, którego dotyczy ta informacja.
+**Art. 20.** Minister właściwy do spraw klimatu przekazuje informację, o której mowa art. 18 ust. 4, właściwej radzie nadzorczej wojewódzkiego funduszu ochrony środowiska i gospodarki wodnej, która terminie 14 dni od dnia otrzymania
 
 **Art. 21.**
 
@@ -198,7 +227,9 @@ o zmianie ustawy Prawo ochrony środowiska oraz niektórych innych ustaw
 3. W przypadku gdy okoliczności, o których mowa ust. 2, dotyczą:
 
 - **1)** członka Rady Nadzorczej Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej lub członka rady nadzorczej wojewódzkiego funduszu ochrony środowiska i gospodarki wodnej wyznaczonego przez inny podmiot niż minister właściwy do spraw klimatu, minister właściwy do spraw klimatu wzywa ten podmiot do wyznaczenia innego przedstawiciela terminie 14 dni od dnia otrzymania wezwania;
-- **2)** członka zarządu wojewódzkiego funduszu ochrony środowiska i gospodarki wodnej, minister właściwy do spraw klimatu przekazuje informację o zaistnieniu tych okoliczności do właściwej rady nadzorczej wojewódzkiego funduszu ochrony środowiska i gospodarki wodnej, która terminie 14 dni od dnia otrzymania informacji wnioskuje do zarządu województwa o odwołanie członka zarządu wojewódzkiego funduszu ochrony środowiska i gospodarki wodnej. łanego na podstawie art. 400d ust. 2 pkt 5 i ust. 6 ustawy zmienianej art. 1 brzmieniu dotychczasowym wygasa z dniem powołania członka Rady Nadzorczej Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej wyłonionego trybie określonym art. 400d ust. 2 pkt 5 oraz ust. 3 i 4 ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą oraz art. 400d ust. 4a i 4b ustawy zmienianej art. 1.
+- **2)** członka zarządu wojewódzkiego funduszu ochrony środowiska i gospodarki wodnej, minister właściwy do spraw klimatu przekazuje informację o zaistnieniu tych okoliczności do właściwej rady nadzorczej wojewódzkiego funduszu ochrony środowiska i gospodarki wodnej, która terminie 14 dni od dnia otrzymania informacji wnioskuje do zarządu województwa o odwołanie członka zarządu wojewódzkiego funduszu ochrony środowiska i gospodarki wodnej.
+
+**Art. 22.** Mandat członka Rady Nadzorczej Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej powołanego na podstawie art. 400d ust. 2 pkt 5 i ust. 6 ustawy zmienianej art. 1 brzmieniu dotychczasowym wygasa z dniem powołania członka Rady Nadzorczej Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej wyłonionego trybie określonym art. 400d ust. 2 pkt 5 oraz ust. 3 i 4 ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą oraz art. 400d ust. 4a i 4b ustawy zmienianej art. 1.
 
 **Art. 23.** Członkowie rad nadzorczych wojewódzkich funduszy ochrony środowiska i gospodarki wodnej wyznaczeni do składu tych rad na podstawie art. 400f ust. 2 pkt 1 ustawy zmienianej art. 1 brzmieniu dotychczasowym pełnią swoje funkcje do czasu cofnięcia ich wyznaczenia przez ministra właściwego do spraw klimatu.
 
@@ -218,11 +249,7 @@ o zmianie ustawy Prawo ochrony środowiska oraz niektórych innych ustaw
 
 3. Do planów ogólnych gmin oraz miejscowych planów zagospodarowania przestrzennego, odniesieniu do których przed dniem uchwalenia miejskich planów adaptacji, o których mowa art. 18a ustawy zmienianej art. 1, albo odniesieniu do których przed uznaniem dokumentów, o których mowa art. 15 ust. 1, za miejskie plany adaptacji rozpoczęto proces opiniowania lub uzgadniania, stosuje się przepisy dotychczasowe.
 
-4. Do planów zagospodarowania przestrzennego województw, odniesieniu do których przed dniem wejścia życie ustawy rozpoczęto proces opiniowania lub uzgadniania, stosuje się przepisy dotychczasowe.
-
-**Art. 27.**
-
-1. Państwowa Rada Ochrony Przyrody, składzie obowiązującym dniu wejścia życie niniejszej ustawy, działa do końca 5-letniej kadencji, o której mowa art. 96 ust. 1ba ustawy zmienianej art. 6, liczonej od dnia wejścia życie niniejszej ustawy.
+4. Do planów zagospodarowania przestrzennego województw, odniesieniu do których przed dniem wejścia życie ustawy rozpoczęto proces opiniowania lub uzgadniania, stosuje się przepisy dotychczasowe. życie niniejszej ustawy.
 
 2. Członkowie Państwowej Rady Ochrony Przyrody powołani do składu Państwowej Rady, o której mowa ust. 1, pełnią swoje funkcje do zakończenia kadencji, o której mowa art. 96 ust. 1ba ustawy zmienianej art. 6, liczonej od dnia wejścia życie niniejszej ustawy.
 
@@ -236,7 +263,9 @@ o zmianie ustawy Prawo ochrony środowiska oraz niektórych innych ustaw
 
 **Art. 30.**
 
-1. Do porozumień, o których mowa art. 11c ust. 1 ustawy zmienianej art. 11 brzmieniu dotychczasowym, zawartych przed dniem wejścia życie niniejszej ustawy stosuje się przepisy ustawy zmienianej art. 11 brzmieniu nadanym niniejszą ustawą zakresie niedotyczącym przedsięwzięć niskoemisyjnych realizowanych na podstawie umów, o których mowa ust. 5. Strony tych porozumień dostosują je do przepisów zmienionych niniejszą ustawą terminie 60 dni od dnia wejścia życie niniejszej ustawy. niniejszej ustawy stosuje się przepisy ustawy zmienianej art. 11 brzmieniu nadanym niniejszą ustawą zakresie niedotyczącym przedsięwzięć niskoemisyjnych realizowanych na podstawie umów, o których mowa ust. 5.
+1. Do porozumień, o których mowa art. 11c ust. 1 ustawy zmienianej art. 11 brzmieniu dotychczasowym, zawartych przed dniem wejścia życie niniejszej ustawy stosuje się przepisy ustawy zmienianej art. 11 brzmieniu nadanym niniejszą ustawą zakresie niedotyczącym przedsięwzięć niskoemisyjnych realizowanych na podstawie umów, o których mowa ust. 5. Strony tych porozumień dostosują je do przepisów zmienionych niniejszą ustawą terminie 60 dni od dnia wejścia życie niniejszej ustawy.
+
+2. Do umów, o których mowa art. 11c ust. 1b ustawy zmienianej art. 11, zawartych przed dniem wejścia życie niniejszej ustawy stosuje się przepisy ustawy zmienianej art. 11 brzmieniu nadanym niniejszą ustawą zakresie niedotyczącym przedsięwzięć niskoemisyjnych realizowanych na podstawie umów, o których mowa ust. 5.
 
 3. Do wniosków, o których mowa art. 11c ust. 4 ustawy zmienianej art. 11, złożonych przed dniem wejścia życie niniejszej ustawy, odniesieniu do których nie zawarto porozumień, o których mowa art. 11c ust. 1 ustawy zmienianej art. 11 brzmieniu dotychczasowym, przed tym dniem, stosuje się przepisy ustawy zmienianej art. 11 brzmieniu nadanym niniejszą ustawą. Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej wzywa wnioskodawcę do dostosowania wniosku do przepisów zmienionych niniejszą ustawą terminie nie krótszym niż 14 dni od dnia wejścia życie niniejszej ustawy pod rygorem pozostawienia wniosku bez rozpoznania, o czym poucza wnioskodawcę tym wezwaniu.
 
@@ -246,16 +275,14 @@ o zmianie ustawy Prawo ochrony środowiska oraz niektórych innych ustaw
 
 6. W porozumieniach, o których mowa art. 11c ust. 1 ustawy zmienianej art. 11, zawartych przed dniem 1 stycznia 2024 r. okres, na który są one zawierane, nie może być dłuższy niż:
 
-- **1)** 4 lata przypadku realizacji przedsięwzięć niskoemisyjnych liczbie nie większej niż 2 % łącznej liczby budynków mieszkalnych jednorodzinnych na obszarze gminy;
-- **2)** 5 lat przypadku realizacji przedsięwzięć niskoemisyjnych liczbie większej niż 2 % łącznej liczby budynków mieszkalnych jednorodzinnych na obszarze gminy.
+- **1)** 4 lata – przypadku realizacji przedsięwzięć niskoemisyjnych liczbie nie większej niż 2 % łącznej liczby budynków mieszkalnych jednorodzinnych na obszarze gminy;
+- **2)** 5 lat – przypadku realizacji przedsięwzięć niskoemisyjnych liczbie większej niż 2 % łącznej liczby budynków mieszkalnych jednorodzinnych na obszarze gminy.
 
 **Art. 31.** Do porozumień, o których mowa art. 11c ust. 1 ustawy zmienianej art. 11 brzmieniu dotychczasowym, zawartych przed dniem wejścia życie niniejszej ustawy stosuje się art. 11c ust. 1 pkt 1 ustawy zmienianej art. 11 brzmieniu nadanym niniejszą ustawą. Strony tych porozumień dostosują je do art. 11c ust. 1 pkt 1 ustawy zmienianej art. 11 brzmieniu nadanym niniejszą ustawą terminie 60 dni od dnia wejścia życie niniejszej ustawy.
 
 **Art. 32.**
 
-1. Krajowy ośrodek bilansowania i zarządzania emisjami po raz pierwszy sporządza prognozy zmian aktywności, o których mowa art. 9 ust. 1 i 1b ustawy zmienianej art. 12 brzmieniu nadanym niniejszą ustawą, do dnia 30 czerwca 2026 r.
-
-2. Informacje i dane, o których mowa art. 9 ust. 1c i 1d ustawy zmienianej art. 12, przypadku, o którym mowa ust. 1, właściwi ministrowie zakresie swojej właściwości przekazują po raz pierwszy Krajowemu ośrodkowi bilansowania i zarządzania emisjami do dnia 31 grudnia 2025 r.
+1. Krajowy ośrodek bilansowania i zarządzania emisjami po raz pierwszy sporządza prognozy zmian aktywności, o których mowa art. 9 ust. 1 i 1b ustawy zmienianej art. 12 brzmieniu nadanym niniejszą ustawą, do dnia 30 czerwca 2026 r. ust. 1, właściwi ministrowie zakresie swojej właściwości przekazują po raz pierwszy Krajowemu ośrodkowi bilansowania i zarządzania emisjami do dnia 31 grudnia 2025 r.
 
 3. Terminy sporządzania prognoz zmian aktywności, o których mowa art. 9 ust. 1 i 1b ustawy zmienianej art. 12 brzmieniu nadanym niniejszą ustawą, liczy się od dnia, o którym mowa ust. 1.
 
@@ -263,16 +290,18 @@ o zmianie ustawy Prawo ochrony środowiska oraz niektórych innych ustaw
 
 1. W latach 2025–2034 maksymalny limit wydatków Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej będący skutkiem finansowym wejścia życie ustawy wynosi 2 013 tys. zł, tym w:
 
-- **1)** 2025 r. 0 tys. zł;
-- **2)** 2026 r. 200 tys. zł;
-- **3)** 2027 r. 50 tys. zł;
-- **4)** 2028 r. 320 tys. zł;
-- **5)** 2029 r. 50 tys. zł;
-- **6)** 2030 r. 431 tys. zł;
-- **7)** 2031 r. 50 tys. zł;
-- **8)** 2032 r. 431 tys. zł;
-- **9)** 2033 r. 50 tys. zł;
-- **10)** 2034 r. 431 tys. zł. gujący, o którym mowa ust. 3, jest minister właściwy do spraw klimatu.
+- **1)** 2025 r. – 0 tys. zł;
+- **2)** 2026 r. – 200 tys. zł;
+- **3)** 2027 r. – 50 tys. zł;
+- **4)** 2028 r. – 320 tys. zł;
+- **5)** 2029 r. – 50 tys. zł;
+- **6)** 2030 r. – 431 tys. zł;
+- **7)** 2031 r. – 50 tys. zł;
+- **8)** 2032 r. – 431 tys. zł;
+- **9)** 2033 r. – 50 tys. zł;
+- **10)** 2034 r. – 431 tys. zł.
+
+2. Organem monitorującym wykorzystanie limitu wydatków określonego ust. 1 oraz wdrażającym mechanizm korygujący, o którym mowa ust. 3, jest minister właściwy do spraw klimatu.
 
 3. W przypadku gdy wielkość wydatków po pierwszym półroczu danego roku budżetowego wyniesie więcej niż 65 % limitu wydatków przewidzianych na dany rok, obniża się wielkość środków przeznaczonych na wydatki drugim półroczu o kwotę stanowiącą różnicę między wielkością tego limitu a kwotą przekroczenia wydatków.
 

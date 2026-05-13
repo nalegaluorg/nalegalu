@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 18 grudnia 2023 r.
+# o zmianie ustawy o doręczeniach elektronicznych
+
+*USTAWA z dnia 12 grudnia 2023 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +25,6 @@ domain: null
 | Data wydania | 2023-12-18 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002699) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2699/text.pdf) |
-
-Poz. 2699
-USTAWA z dnia 12 grudnia 2023 r.
-o zmianie ustawy o doręczeniach elektronicznych
 
 **Art. 1.** W ustawie z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2023 r. poz. 285 i 1860) wprowadza się następujące zmiany:
 

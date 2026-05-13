@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 5 grudnia 2017 r.
+# o zmianie ustawy – Kodeks postępowania cywilnego, ustawy o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi oraz ustawy o ochronie zdrowia psychicznego
+
+*USTAWA z dnia 12 października 2017 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +25,6 @@ domain: null
 | Data wydania | 2017-12-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002245) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2245/text.pdf) |
-
-Poz. 2245
-USTAWA z dnia 12 października 2017 r.
-o zmianie ustawy – Kodeks post ę powania cywilnego, ustawy o wychowaniu w trze ź wo ś ci i przeciwdziałaniu alkoholizmowi oraz ustawy o ochronie zdrowia psychicznego
 
 **Art. 1.** W ustawie z dnia 17 listopada 1964 r. − Kodeks postępowania cywilnego (Dz. U. z 2016 r. poz. 1822, z późn. zm. ) wprowadza się następujące zmiany:
 

@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 3 kwietnia 2014 r.
+# o zmianie ustawy o izbach rolniczych oraz niektórych innych ustaw
+
+*USTAWA z dnia 21 lutego 2014 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +25,6 @@ domain: null
 | Data wydania | 2014-04-03 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000434) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/434/text.pdf) |
-
-Poz. 434
-USTAWA z dnia 21 lutego 2014 r.
-o zmianie ustawy o izbach rolniczych oraz niektórych innych ustaw
 
 **Art. 1.** W ustawie z dnia 14 grudnia 1995 r. o izbach rolniczych (Dz. U. z 2002 r. Nr 101, poz. 927, z późn. zm. ) w art. 35b ust. 1 otrzymuje brzmienie: „1. Koszty związane z uczestnictwem izb rolniczych, związków zawodowych rolników indywidualnych oraz społeczno-zawodowych organizacji rolników w ponadnarodowych organizacjach rolniczych reprezentujących interesy zawodowe rolników indywidualnych wobec instytucji Unii Europejskiej są w roku 2014 ponoszone przez Krajową Radę Izb Rolniczych i dofinansowywane z budżetu państwa w formie dotacji celowej.”.
 

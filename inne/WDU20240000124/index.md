@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 1 lutego 2024 r.
+# o zmianie ustawy – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce oraz ustawy – Prawo o szkolnictwie wyższym i nauce
+
+*USTAWA z dnia 16 stycznia 2024 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +25,6 @@ domain: null
 | Data wydania | 2024-02-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000124) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/124/text.pdf) |
-
-Poz. 124
-USTAWA z dnia 16 stycznia 2024 r.
-o zmianie ustawy – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce oraz ustawy – Prawo o szkolnictwie wyższym i nauce
 
 **Art. 1.** W ustawie z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669, z późn. zm. ) w art. 279 po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Do studiów doktoranckich prowadzonych w 2024 r. i do uczestników tych studiów:
 

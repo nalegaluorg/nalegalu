@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 28 maja 2014 r.
+# o zmianie ustawy o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin oraz ustawy o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin
+
+*USTAWA z dnia 4 kwietnia 2014 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +25,6 @@ domain: null
 | Data wydania | 2014-05-28 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000696) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/696/text.pdf) |
-
-Poz. 696
-USTAWA z dnia 4 kwietnia 2014 r.
-o zmianie ustawy o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin oraz ustawy o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin
 
 **Art. 1.** W ustawie z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin (Dz. U. z 2013 r. poz. 666, z późn. zm. ) w art. 45:
 

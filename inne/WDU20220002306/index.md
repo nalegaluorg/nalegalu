@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 14 listopada 2022 r.
+# Ustawa z dnia 29 września 2022 r. o zmianie ustawy - Przepisy wprowadzające ustawę - Prawo o szkolnictwie wyższym i nauce, ustawy o szczególnych instrumentach wsparcia w związku z rozprzestrzenianiem się wirusa SARS-CoV-2 oraz ustawy o zmianie ustawy - Prawo o szkolnictwie wyższym i nauce oraz niektórych innych ustaw
+
+*USTAWA dnia 29 września 2022 o zmianie – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym nauce, o szczególnych instrumentach wsparcia związku rozprzestrzenianiem się wirusa SARS-CoV-2 oraz o zmianie – Prawo o szkolnictwie wyższym nauce oraz niektórych innych ustaw*
 
 | Pole | Wartość |
 |---|---|
@@ -24,19 +26,19 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002306) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2306/text.pdf) |
 
-Poz. 2306
-USTAWA z dnia 29 września 2022 r.
-o zmianie ustawy – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce, ustawy o szczególnych instrumentach wsparcia w związku z rozprzestrzenianiem się wirusa SARS-CoV-2 oraz ustawy o zmianie ustawy – Prawo o szkolnictwie wyższym i nauce oraz niektórych innych ustaw
+**Art. 1.** W ustawie dnia 3 lipca 2018 – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym nauce (Dz. 1669, późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 1.** W ustawie z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669, z późn. zm. ) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie dnia 16 kwietnia 2020 o szczególnych instrumentach wsparcia związku rozprzestrzenianiem się wirusa SARS-CoV-2 (Dz. 2022
 
-**Art. 2.** W ustawie z dnia 16 kwietnia 2020 r. o szczególnych instrumentach wsparcia w związku z rozprzestrzenianiem się wirusa SARS-CoV-2 (Dz. U. z 2022 r. poz. 376) w art. 80 po ust. 1a dodaje się ust. 1b w brzmieniu: „1b. Środki finansowe na szkolnictwo wyższe i naukę przyznane w formie dotacji celowej na rok 2020 na realizację zadań, o których mowa w art. 365 pkt 4 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce oraz w art. 20 ustawy z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki, niewykorzystane w latach 2021 i 2022, pozostają w dyspozycji podmiotu, któremu zostały przyznane, i mogą zostać wykorzystane w roku 2023 na finansowanie realizacji zadań, na które zostały przyznane.”.
+**Art. 3.** W ustawie dnia 17 listopada 2021 o zmianie – Prawo o szkolnictwie wyższym nauce oraz niektórych innych ustaw (Dz. 2232 2459 oraz 2022 526) art. 1 pkt 2 lit. a, art. 53 ust. 6 pkt 3 otrzymuje brzmienie: „3) zawarła umowę, o której mowa art. 389 ust. 1, albo otrzymuje środki finansowe stanowiące zwiększenie subwencji, o których mowa art. 390 albo art. 394 ust. 6.”.
 
-**Art. 3.** W ustawie z dnia 17 listopada 2021 r. o zmianie ustawy – Prawo o szkolnictwie wyższym i nauce oraz niektórych innych ustaw (Dz. U. poz. 2232 i 2459 oraz z 2022 r. poz. 526) w art. 1 w pkt 2 w lit. a, w art. 53 w ust. 6 pkt 3 otrzymuje brzmienie: „3) zawarła umowę, o której mowa w art. 389 ust. 1, albo otrzymuje środki finansowe stanowiące zwiększenie subwencji, o których mowa w art. 390 albo art. 394 ust. 6.”.
+**Art. 4.**
 
-**Art. 4.** Środki finansowe na szkolnictwo wyższe i naukę przyznane w formie dotacji celowej na rok 2022, na realizację zadań, o których mowa w art. 365 pkt 4 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2022 r. poz. 574, z późn. zm. ) oraz w art. 20 ustawy z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki (Dz. U. z 2018 r. poz. 87), pozostają w dyspozycji podmiotu, któremu zostały przyznane, i mogą zostać wykorzystane w roku 2023 na finansowanie realizacji zadań, na które zostały przyznane.
+1. Środki finansowe na szkolnictwo wyższe naukę przyznane formie dotacji celowej na rok 2022, na realizację zadań, o których mowa art. 365 pkt 4 dnia 20 lipca 2018 – Prawo o szkolnictwie wyższym nauce (Dz. 2022 574, późn. zm. ) oraz art. 20 dnia 30 kwietnia 2010 o zasadach finansowania nauki (Dz. 2018 87), pozostają dyspozycji podmiotu, któremu przyznane, mogą zostać wykorzystane roku 2023 na finansowanie realizacji zadań, na które przyznane.
 
-**Art. 5.** W roku 2023 środki finansowe przyznane na podstawie art. 71a ust. 1 ustawy z dnia 19 listopada 2020 r. o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2021 (Dz. U. poz. 2400 oraz z 2021 r. poz. 1104 i 1901) mogą być przeznaczone przez uczelnie publiczne oraz uczelnie uprawnione do finansowania na zasadach określonych dla uczelni publicznych również na realizację zadań, o których mowa w art. 365 pkt 1 lit. a–c, pkt 2 lit. a–d oraz pkt 4 lit. a i b ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce.
+2. Środki finansowe na szkolnictwo wyższe naukę przyznane formie dotacji celowej na rok 2023 na realizację zadań, o których mowa art. 365 pkt 4 dnia 20 lipca 2018 – Prawo o szkolnictwie wyższym nauce oraz art. 20 dnia 30 kwietnia 2010 o zasadach finansowania nauki, pozostają dyspozycji podmiotu, któremu przyznane, mogą zostać wykorzystane roku 2024 na finansowanie realizacji zadań, na które przyznane.
 
-**Art. 6.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem art. 3, który wchodzi w życie z dniem 1 stycznia 2023 r. Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 5.** W roku 2023 środki finansowe przyznane na podstawie art. 71a ust. 1 dnia 19 listopada 2020 o szczególnych rozwiązaniach służących realizacji budżetowej na rok 2021 (Dz. 2400 oraz 2021 1104 1901) mogą być przeznaczone przez uczelnie publiczne oraz uczelnie uprawnione do finansowania na zasadach określonych dla uczelni publicznych również na realizację zadań, o których mowa art. 365 pkt 1 lit. a–c, pkt 2 lit. a–d oraz pkt 4 lit. a b dnia 20 lipca 2018 – Prawo o szkolnictwie wyższym nauce.
+
+**Art. 6.** Ustawa wchodzi życie dniem następującym po dniu ogłoszenia, wyjątkiem art. 3, który wchodzi życie dniem 1 stycznia 2023
 

@@ -10,7 +10,9 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# Izba Kontroli dzielni ich organizacji, tak jak organów jedno stek, wart. 2 1.
+# o dopłatach do oprocentowania niektórych kredytów bankowych
+
+*USTAWA z dnia 5 stycznia 1995 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,131 +26,65 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19950130060) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1995/60/text.pdf) |
 
-101. 1. Pracownicy mianowani, zatrudnieni dniu ustawy stanowiskach innych wymienione wart. 66 2 3, zatrudnieni tych stanowiskach przez okres nie rok po dniu ustawy.
-2. Pracownicy mianowani, nie wymogu wart. 67 4, zatrudnieni dotychczasowych stanowiskach przez okres nie rok po dniu ustawy.
-3. Po roku od ustawy stosunek pracy z pracownikami, 2, z zachowaniem okresu wypowiedzenia lub stosunek pracy podstawie umowy drodze wypowiedzenia warunków pracy.
-4. Prezes Izby Kontroli od ustawy zadania wykonywane okresie ostatnich 2 lat przez pracownika lub kontrolne, jego stanowisko drodze wypowiedze nia warunków pracy, inne stanowisko wart. 66 2 3.
-5. Usprawiedliwiona pracy pracownika zawiesza bieg terminu do dokonania zmiany stanowiska, którym 4.
-6. Do decyzji Prezesa Izby Kontroli, któ rych 4, przepis art. 96 stosuje odpowied nio.
-Izby Kontroli, podstawie niniejszej ustawy, nie po 30 dni od jej
-2. Do czasu stanowiska przez Prezesa szej Izby Kontroli, podstawie niniejszej ustawy, dotychczasowy Prezes Izby Kontroli.
-3. Do dotychczasowego Prezesa Izby Kontroli nie stosuje przepisów niniejszej ustawy.
-103. 1. Traci moc ustawa z 8 1980 r. Izbie Kontroli (Dz. U. 22, z 1989 r. 34, poz. 178).
-2. Do czasu wydania przepisów wykonawczych podstawie niniejszej ustawy, nie jednak przez 6 od jej przepisy wydane podstawie ustawy, której 1, nie sprzeczne z
-3. Do przeprowadzenia kontrolnych przed dniem niniejszej ustawy kontrolnych wykonania polityki 1994 r. stosuje przepisy ustawy, której 1, przepisy jej podstawie.
-104. Ustawa wchodzi po od z przepisów art.
-art. 102, które po 30 dni Prezydent Rzeczypospolitej Polskiej: L.
-USTAWA z 5 stycznia 1995 r.
-do oprocentowania niektórych kredytów bankowych.
-1. 1. Ustawa zasady stosowania ze do oprocentowania kredytów bankowych cele rolnicze, finansowanie kontraktów eks portowych oraz skup przechowywanie zapasów ryb mors kich.
-2. 1, realizowane ze ustawie wej.
-2. ustawie jest krajowym pod miocie gospodarczym, przez to fizycz a nie prawnej. miejsce zamiesz kania lub terytorium Rzeczypospolitej Polskiej oraz
-3. 1. Ze udzielane do oprocentowania kredytów bankowych dla krajo wych podmiotów gospodarczych na:
-1) cele rolnicze,
-2) skup przechowywanie zapasów ryb morskich,
-3) finansowanie kontraktów eksportowych.
-2. do oprocentowania kredytów bankowych cele rolnicze, dla krajowych podmiotów gospodarczych udzielane jednako wych zasadach, bez obszar ich
-4. 1. Za kredyty cele rolnicze, wart. 1, kredyty:
-1) dla krajowych podmiotów gospodarczych cych przeznaczone na:
-a) zakup rzeczowych obrotowych do cji rolniczej.
-cji metodami ekologicznymi przystoso wanie gospodarstw rolnych do tej produkcji,
-c) biologiczny rolnictwie,
-2) dla krajowych podmiotów gospodarczych cych przetwórstwo lub przechowalnictwo skupowa nych produktów rolnych, przeznaczone na:
-a) skup produktów rolnych od producentów krajo wych,
-b) przechowywanie produktów rolnych zapasów przetworów z tych produktów oraz zapasów produktów z owoców warzyw, z tytoniu wyrobów tytoniowych oraz wyrobów alkoholowych surowców przeznaczonych do produkcji wyrobów alkoholowych.
-2. Skup przechowywanie ryb, wart.
-2, dotyczy ryb lub skupionych przez krajowe podmioty gospodarcze.
-3. Finansowanie kontraktów eksportowych, wart. 3, dotyczy kontraktów dostawy:
-1) gotowych obiektów, maszyn, pojazdów, jed nostek transportowych,
-2)
-5. do oprocentowania kredytów stosowane za okres nie
-1) 12 do kredytów cele, wart.
-2,
-2) 84 do kredytów cele, wart.
-3, od otrzymania kredytu.
-6. 1. Kredyty cele, wart.
-1, ze wa, ich oprocentowanie stosunku rocznym nie przekroczy 1,2 stopy oprocentowania kredytu redyskonto wego.
-2. wart. 2, stosowane do kredytów oprocentowaniu stosunku rocznym dla kredytobiorcy:
-1) nie 0,4 stopy oprocentowania kredytu redyskontowego nie mniejszej 4% sto sunku rocznym cele, wart. 4 1,
-2) nie 0,7 stopy oprocentowania kredytu redyskontowego nie mniejszej 7% sto sunku rocznym cele, wart.
-2 oraz art. 4 2.
-3. kredytu ze cele, wart. 4 1, z 4, nie 6 q ha rolnych, cen przyjmowanych dla celów naliczania podatku rolnego.
-kredytu, którym 10 q ha rolnych, cen przyjmowanych dla celów naliczania podatku
-5. ze do kredytów cele, wart. 2, oprocentowania bankom, oprocentowania tych kredytów, 1, a oprocentowania dla kredytobiorcy,
-2.
-6. wart.
-stosowane zasadzie wyrównywania bankom oprocentowaniem kredytu a jego pozyskania przez bank rynku krajowym granicznym, banku.
-7. ze do kredytów cele, wart. 3, udzielone nie 0,2% pozyskania kredytu, banku, iem 1.
-7. ze centowania kredytów udzielane pod warunkiem:
-1) udokumentowania wykorzystania co najmniej 80% dytu zakupy cele, wart.
-1,
-2) ubezpieczenia kontraktów, 3, Korporacji Kredytów towych.
-8. Rada Ministrów drodze zasady, zakres tryb udzielania oprocentowania kredytów, wart.
-9. 1. do oprocentowania kredytów, mowa:
-1) wart. dysponuje Minister Rolnictwa Gospodarki
-2) wart. 2 dysponuje Minister Transportu Gospodarki Morskiej,
-3) wart. dysponuje Minister Gospodarczej z
-2. z dokonywaniem oprocentowania kredytów bankowych powierzo ne, drodze umowy, osobom prawnym dze ustawy nadzorowanym przez ministrów, 1, lub bankom.
-10. 1. Ustawa ma zastosowanie do kredytów udzielanych od stycznia 1995 r.
-2. Do do oprocentowania kredytów bankowych udzielonych do 31 grudnia 1994 r. zastosowanie przepisy tym zakresie przed dniem niniejszej ustawy.
-z przepisu art. 10 1, który 61 stycznia 1995 r.
-Prezydent Rzeczypospolitej Polskiej: L.
-MINISTRA OCHRONY ZASOBÓW NATURALNYCH I z 6 stycznia 1995 sprawie ochrony gatunkowej Na podstawie art. 27 ustawy z 16 1991 r. ochronie przyrody (Dz. U. 114, poz. 492, z 1992 r. 54, poz. 254 z 1994 r. 89, poz. 415) co § 1. Uznaje za ochronie gatunki zwane dalej "gatunkami chronionymi": Pijawki (Hirudinea):
-1) pijawka lekarska (Hirudo medicinalis);
-(Araneae):
-2) gryziele (Atypus) wszystkie gatunki,
-3) poskocz krasny (Eresus niger),
-4) skakun (Philaeus chrysops),
-5) tygrzyk paskowany (Argyope bruennichi);
-Owady (Insecta):
-6) straszka (Sympecma braueri),
-7) zielona (Aeshna viridis),
-8) (Stylurus flavipes),
-9) trzepla zielona (Ophiogomphus cecilia),
-10) zalotka (Leucorrhinia albifrons),
-11) zalotka (Leucorrhinia caudalis),
-12) zalotka (Leucorrhinia pectoralis),
-13) modliszka zwyczajna (Mantis religiosa),
-14) (Calosoma) wszystkie gatunki,
-15) biegacze (Carabus) wszystkie gatunki,
-16) pachnica (Osmoderma eremita),
-17) jelonek rogacz (Lucanus cervus),
-18) wynurt (Ceruchus chrysomelinus),
-19) sichrawa karpacka (Gaurotes excellens),
-20) kozioróg (Cerambyx cerdo),
-21) kozioróg bukowiec (Cerambyx scopolii),
-22) nadobnica alpejska (Rosalia alpina),
-23) mieniak (Apatura ilia),
-24) mieniak (Apatura iris),
-25)
-26) królowej (Papilio machaon), (Iphiclides podalirius),
-27) niepylak apollo (Parnassius apollo),
-28) niepylak mnemozyna (Parnassius mnemosyne),
-29) przeplatka aurinia (Euphydryas aurinia),
-30) górówka sudecka (Erebia sudetica),
-31) edypus (Coenonymha oedippus),
-32) modraszek telejus (Maculinea teleius),
-33) modraszek nausitous (Maculinea nausithous),
-34) postojak (Proserpinus proserpina),
-35) zmierzchnica trupia (Acherontia atropos),
-36) trzmiele (Bombus) wszystkie gatunki;
-(Mollusca):
-37) (Helix lutescens),
-38) winniczek (Helix pomatia),
-39) skójka (Margaritifera margaritifera),
-40) skójka malarska (Unio pictorum),
-41) wielka (Anodonta cygnea),
-42) (Anodonta complanata);
-(Cyclostomata):
-43) minog morski (Petromyzon marinus),
-44) minog rzeczny (Lampetra fluviatilis) larwalnego rozwoju rzekach,
-45) minog strumieniowy (Lampetra planeri),
-46) minog (Eudontomyzon mariae);
-Ryby (Pisces):
-47) jesiotr zachodni (Acipenser stu rio ),
-48) parposz (Alosa fallax),
-49) alosa (Alosa alosa)
-50) (Salmo salar) poza obszarem Morza kiego, wód przymorskich, rzecznych do oraz rzek: Drawy do
-51) strzeble (Phoxinus) wszystkie gatunki,
-52) Kesslera (Gobio kessleri),
+1. 1. Ustawa określa zasady udzielania dopłat ze środków budżetu państwa do oprocentowania kredytów bankowych na cele rolnicze, skup i przechowywanie zapasów ryb morskich oraz zadania związane z restrukturyzacją przedsiębiorstw przemysłu lekkiego.
+2. Dopłaty, o których mowa w ust. 1, realizowane są ze środków budżetu państwa określonych w ustawie budżetowej.
+2. Ilekroć w ustawie jest mowa o krajowym przedsiębiorcy, należy przez to rozumieć osobę fizyczną, osobę prawną, a także jednostkę organizacyjną nieposiadającą osobowości prawnej, mającą miejsce zamieszkania lub siedzibę na terytorium Rzeczypospolitej Polskiej oraz prowadzącą działalność gospodarczą.
+3. 1. Ze środków budżetu państwa udzielane są dopłaty do oprocentowania kredytów bankowych dla krajowych przedsiębiorców na:
+1) cele rolnicze;
+2) skup i przechowywanie zapasów ryb morskich;
+3) (uchylony);
+4) realizację zadań związanych z restrukturyzacją przedsiębiorstw przemysłu lekkiego zgodnie z Polską Klasyfikacją Działalności według działów 17, 18,
+19.
+2. Dopłaty do oprocentowania kredytów bankowych na cele rolnicze, dla krajowych przedsiębiorców prowadzących produkcję rolniczą, udzielane są na jednakowych zasadach, bez względu na obszar użytków rolnych i formę ich własności.
+3. (uchylony).
+4. 1. Za kredyty na cele rolnicze, o których mowa w art. 3 ust. 1 pkt 1, uważa się kredyty: przeznaczone na:
+a) zakup rzeczowych środków obrotowych do produkcji rolniczej,
+b) zakup rzeczowych środków obrotowych do produkcji żywności metodami ekologicznymi i przystosowanie gospodarstw rolnych do tej produkcji,
+c) postęp biologiczny w rolnictwie;
+2) dla krajowych przedsiębiorców prowadzących przetwórstwo lub przechowalnictwo skupowanych produktów rolnych, przeznaczone na:
+a) skup produktów rolnych od producentów krajowych,
+b) przechowywanie produktów rolnych i zapasów przetworów z tych produktów oraz zapasów półproduktów z owoców i warzyw, z wyłączeniem tytoniu i wyrobów tytoniowych oraz wyrobów alkoholowych i surowców przeznaczonych do produkcji wyrobów alkoholowych;
+3) (uchylony).
+2. Skup i przechowywanie ryb, o których mowa w art. 3 ust. 1 pkt 2, dotyczy ryb złowionych lub skupionych przez krajowych przedsiębiorców.
+3. (uchylony).
+4. Finansowanie zadań związanych z restrukturyzacją techniczną, technologiczną i organizacyjną, w tym zatrudnienia, dotyczy przedsiębiorstw, o których mowa w art. 3 ust. 1 pkt 4.
+5. Dopłaty do oprocentowania kredytów mogą być stosowane za okres nie dłuższy niż:
+1) 12 miesięcy do kredytów na cele, o których mowa w art. 3 ust. 1 pkt 1 i 2, z zastrzeżeniem pkt 2,
+2) 24 miesiące do kredytów zaciągniętych od 1 lipca 1996 r. do 30 czerwca 1998 r. z przeznaczeniem na cele wymienione w art. 4 ust. 1 pkt 1, dla osób posiadających gospodarstwa rolne lub prowadzących działy specjalne produkcji rolnej, w których wystąpiły poważne szkody spowodowane przez powódź, która miała miejsce w lipcu 1997 r.,
+3) (uchylony),
+4) do dnia 31 grudnia 2007 r. w przypadku kredytów na cele, o których mowa w art. 3 ust. 1 pkt 4 – od dnia otrzymania kredytu.
+dopłatą ze środków budżetu państwa, jeżeli ich oprocentowanie w stosunku rocznym nie przekroczy:
+1) 1,1 stopy redyskontowej weksli przyjmowanych od banków do redyskonta przez Narodowy Bank Polski przy udzielaniu kredytów na skup i przechowywanie zapasów ryb morskich;
+2) 1,25 stopy redyskontowej weksli przyjmowanych od banków do redyskonta przez Narodowy Bank Polski przy udzielaniu kredytów na cele rolnicze;
+3) (uchylony);
+4) 1,3 stopy redyskontowej weksli przyjmowanych od banków do redyskonta przez Narodowy Bank Polski przy udzielaniu kredytów na finansowanie zadań związanych z restrukturyzacją przedsiębiorstw przemysłu lekkiego.
+2. Dopłaty, o których mowa w art. 3 ust. 1 pkt 1 i 2, mogą być stosowane do kredytów o oprocentowaniu w stosunku rocznym dla kredytobiorcy:
+1) w wysokości nie większej niż 0,35 stopy redyskontowej weksli przyjmowanych od banków do redyskonta przez Narodowy Bank Polski i nie mniejszej niż 2% w stosunku rocznym – na cele, o których mowa w art. 4 ust. 1 pkt 1;
+2) w wysokości nie większej niż 0,7 stopy redyskontowej weksli przyjmowanych od banków do redyskonta przez Narodowy Bank Polski i nie mniejszej niż 4,5% w stosunku rocznym – na cele, o których mowa w art. 3 ust. 1 pkt 2 oraz art. 4 ust. 1 pkt 2.
+3. Wysokość kredytu objętego dopłatami ze środków budżetu państwa na cele, o których mowa w art. 4 ust. 1 pkt 1, z zastrzeżeniem ust. 4, nie może przekroczyć łącznie równowartości 10 q żyta na 1 ha użytków rolnych, według cen przyjmowanych dla celów naliczania podatku rolnego.
+4. Rada Ministrów może, w drodze rozporządzenia, podwyższyć wysokość kredytu, o którym mowa w ust. 3, do równowartości 15 q żyta na 1 ha użytków rolnych, według cen przyjmowanych dla celów naliczania podatku rolnego.
+5. Dopłaty ze środków budżetu państwa do kredytów na cele, o których mowa w art. 3 ust. 1 pkt 1 i 2, stanowią część oprocentowania należnego bankom, odpowiadającą różnicy między stopą oprocentowania tych kredytów, określoną w ust. 1, a stopą oprocentowania dla kredytobiorcy, określoną w ust. 2.
+6. (uchylony).
+8. Dopłaty ze środków budżetu państwa do oprocentowania kredytów na cele, o których mowa w art. 3 ust. 1 pkt 4, przysługują w wysokości oprocentowania naliczonego według stopy równej stopie redyskontowej weksli przyjmowanych od banków do redyskonta przez Narodowy Bank Polski, powiększonego o marżę banku.
+9. Dopłaty na cele, o których mowa w art. 3 ust. 1 pkt 4, mogą być udzielone przedsiębiorcy tylko raz.
+7. Dopłaty ze środków budżetu państwa do oprocentowania kredytów mogą być udzielane pod warunkiem udokumentowania wykorzystania co najmniej 80% kredytu na zakupy na cele, o których mowa w art. 4 ust. 1 pkt 1.
+7a. Dopłaty ze środków budżetu państwa do oprocentowania kredytów na realizację zadań związanych z restrukturyzacją przedsiębiorstw przemysłu lekkiego mogą być udzielane pod warunkiem posiadania przez przedsiębiorstwo, o którym mowa w art. 3 ust. 1 pkt 4, programu restrukturyzacji zatwierdzonego przez organ nadzoru, o ile przedsiębiorstwo taki organ posiada.
+8. Rada Ministrów określi, w drodze rozporządzeń, szczegółowe zasady, zakres i tryb udzielania dopłat do oprocentowania kredytów, o których mowa w art. 3 ust. 1, uwzględniając w szczególności potrzebę zapewnienia podwyższenia opłacalności produkcji rolniczej i rybołówstwa morskiego albo zwiększenia możliwości zawarcia niektórych kontraktów eksportowych, albo zwiększenia efektywności restrukturyzacji przedsiębiorstw przemysłu lekkiego, wskazując także bank lub osobę prawną, której zostaną powierzone czynności związane z dokonywaniem dopłat.
+9. 1. Środkami na dopłaty do oprocentowania kredytów, o których mowa w art. 3 ust. 1:
+1) pkt 1 i 2 – dysponuje minister właściwy do spraw rolnictwa;
+2) pkt 4 – dysponuje minister właściwy do spraw gospodarki.
+2. Czynności związane z dokonywaniem dopłat do oprocentowania kredytów bankowych mogą być powierzone, w drodze umowy, osobom prawnym powołanym w drodze ustawy i nadzorowanym przez ministrów, o których mowa w ust. 1, lub bankom.
+stycznia 1995 r.
+2. Do dopłat do oprocentowania kredytów bankowych udzielonych do dnia 31 grudnia 1994 r. mają zastosowanie przepisy obowiązujące w tym zakresie przed dniem wejścia w życie niniejszej ustawy.
+10a. Dopłaty do oprocentowania kredytów zaciągniętych w 1998 r. przez krajowych przedsiębiorców prowadzących produkcję rolniczą, z przeznaczeniem na:
+1) zakup rzeczowych środków obrotowych do produkcji rolniczej,
+2) zakup rzeczowych środków obrotowych do produkcji żywności metodami ekologicznymi i przystosowanie gospodarstw rolnych do tej produkcji,
+3) postęp biologiczny w rolnictwie – mogą być stosowane za okres nie dłuższy niż 20 miesięcy od dnia otrzymania kredytu.
+10b. 1. Dopłaty do oprocentowania kredytów zaciągniętych od dnia 15 lipca 2002 r. do dnia 15 lipca 2003 r. przez krajowych przedsiębiorców prowadzących produkcję rolniczą, z przeznaczeniem na cele określone w art. 4 ust. 1 pkt 1, mogą być stosowane za okres nie dłuższy niż 24 miesiące od dnia otrzymania kredytu, w przypadku gdy w gospodarstwach tych przedsiębiorców wystąpiły poważne szkody spowodowane przez suszę, która miała miejsce w 2003 r.
+2. Oprocentowanie kredytów, o których mowa w ust. 1, ustala się w wysokości określonej w art. 6 ust. 1 pkt 2.
+10c. Dopłaty do oprocentowania kredytów zaciągniętych od dnia 1 lipca 2003 r. do dnia 30 kwietnia 2004 r. przez krajowych przedsiębiorców prowadzących produkcję rolniczą, z przeznaczeniem na:
+1) zakup rzeczowych środków obrotowych do produkcji rolniczej,
+2) zakup rzeczowych środków obrotowych do produkcji żywności metodami ekologicznymi i przystosowanie gospodarstw rolnych do tej produkcji,
+3) postęp biologiczny w rolnictwie – mogą być stosowane za okres nie dłuższy niż 24 miesiące od dnia otrzymania kredytu.
+wyjątkiem przepisu art. 10 ust. 1, który wchodzi w życie z dniem ogłoszenia z mocą od dnia 1 stycznia 1995 r.
 

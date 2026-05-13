@@ -10,7 +10,9 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# Ustawa z dnia 20 lutego 1997 r. o stosunku Państwa do Kościoła Starokatolickiego Mariawitów w Rzeczypospolitej Polskiej.
+# o stosunku Państwa do Kościoła Starokatolickiego Mariawitów w Rzeczypospolitej Polskiej
+
+*USTAWA z dnia 20 lutego 1997 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,261 +26,257 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970410253) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/253/text.pdf) |
 
-**Art. 31.**
-
-1. osoby prawne dniu ustawy osobami prawnymi rozumieniu niniejszej ustawy.
-
-**Art. 32.** Ustawa wchodzi po 14 dni od dnia Prezydent Rzeczypospolitej Polskiej: A. WYKAZ OSÓB PRAWNYCH KOŚCIOŁA KATOLICKIEGO MARIAWITÓW W RZECZYPOSPOLITEJ POLSKIEJ I. Kustodie parafie: Kustodia Parafia Parafia Felicjanów Parafia Parafia Parafia Parafia Parafia Parafia Parafia Stryków Parafia Radzanowo-Lasocin Parafia Wola Cyrusowa Parafia Zgierz Parafia Zieleniew Kustodia warszawsko-lubelska Parafia Parafia Parafia Gózd Parafia Parafia Pogorzel Parafia Stoczek Parafia Warszawa II. Zgromadzenia klasztory: Zgromadzenie Sióstr Mariawitek Zgromadzenie Mariawitów Klasztor Sióstr Mariawitek Felicjanowie. 253 USTAWA dnia 20 lutego 1997 r. o stosunku do Starokatolickiego Mariawitów Rzeczypospolitej Polskiej. Przepisy ogólne
+#### Rozdział 1 Przepisy ogólne
 
 **Art. 1.**
 
-1. Ustawa stosunek do Ko Starokatolickiego Mariawitów Rzeczypospoli tej Polskiej, zwanego dalej oraz jego sy
+1. Ustawa określa stosunek Państwa do Kościoła Starokatolickiego Mariawitów w Rzeczypospolitej Polskiej, zwanego dalej „Kościołem”, oraz jego sytuację prawną i majątkową.
 
-2. W sprawach do nie uregulowanych ustawie, stosuje powszechnie przepisy prawa.
+2. W sprawach odnoszących się do Kościoła, nieuregulowanych w ustawie, stosuje się powszechnie obowiązujące przepisy prawa.
 
-3. Wszelkie zmiany niniejszej ustawy uprzedniej opinii Rady
+3. Wszelkie zmiany niniejszej ustawy wymagają uprzedniej opinii Rady Kościoła.
 
 **Art. 2.**
 
-1. swoich sprawach snym prawem uchwalanym przez Synod, swobodnie wykonuje jurys oraz samodzielnie swoimi sprawa mi.
+1. Kościół rządzi się w swoich sprawach własnym prawem wewnętrznym, uchwalanym przez Synod, swobodnie wykonuje władzę duchowną i jurysdykcyjną oraz samodzielnie zarządza swoimi sprawami.
 
-2. do krajowych rodowych organizacji o charakterze ekumenicznym 2 Osoby prawne ich organy
+2. Kościół może należeć do krajowych i międzynarodowych organizacji o charakterze ekumenicznym i międzywyznaniowym.
+
+#### Rozdział 2 Osoby prawne Kościoła i ich organy
 
 **Art. 3.**
 
-1. przepisy prawa
+1. Strukturę i organizację Kościoła określają przepisy prawa wewnętrznego.
 
-2.
+2. Osobowość prawną posiadają:
 
-- **1)** jako
+- **1)** Kościół jako całość;
+- **2)** diecezje;
+- **3)** parafie;
+- **4)** zgromadzenia zakonne;
 - **5)** seminaria duchowne.
 
-3. Organami osób prawnych wymienionych ust. 2
+3. Organami osób prawnych wymienionych w ust. 2 są:
 
-- **1)** dla jako
+- **1)** dla Kościoła jako całości:
     - **a)** Synod,
-    - **b)** Generalna,
-    - **c)** Rada
-    - **d)** Biskup Naczelny,
+    - **b)** Kapituła Generalna,
+    - **c)** Rada Kościoła,
+    - **d)** Biskup Naczelny;
 
-- **2)** dla diecezji - biskup ordynariusz,
-- **3)** dla parafii - rada parafialna reprezentowana przez proboszcza lub administratora parafii,
-- **4)** dla zakonnych - lub prze
-- **5)** dla seminariów duchownych - rektor.
+- **2)** dla diecezji – biskup ordynariusz;
+- **3)** dla parafii – rada parafialna reprezentowana przez proboszcza lub administratora parafii;
+- **4)** dla zgromadzeń zakonnych – przełożony lub przełożona;
+- **5)** dla seminariów duchownych – rektor.
 
-4. W sprawach jako re prezentuje Rada Do woli uprawnieni dwaj Rady tym jej
+4. W sprawach majątkowych Kościół jako całość reprezentuje Rada Kościoła. Do składania oświadczeń woli uprawnieni są dwaj członkowie Rady Kościoła działający łącznie, w tym jej Przewodniczący.
 
-5. Zmiana nazwy grup osób prawnych, o których mowa ust. 2 pkt 2-5, dokonana przepisa mi Zmiany te, na wniosek Rady Minister Spraw Administra cji Dzienniku Rzeczypospolitej Polskiej "Monitor Polski".
+5. Zmiana nazwy grup osób prawnych, o których mowa w ust. 2 pkt 2–5, może być dokonana przepisami wewnątrzkościelnymi. Zmiany te, na wniosek Rady Kościoła, Minister Spraw Wewnętrznych i Administracji ogłasza w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
 
-**Art. 4.** Inne jednostki organizacyjne na wniosek Rady praw drodze Ministra Spraw We Administracji.
+**Art. 4.** Inne jednostki organizacyjne Kościoła mogą, na wniosek Rady Kościoła, uzyskać osobowość prawną w drodze rozporządzenia Ministra Spraw Wewnętrznych i Administracji .
 
 **Art. 5.**
 
-1. samodzielnie tworzy, znosi jednostki organizacyjne, tym ce
+1. Kościół samodzielnie tworzy, przekształca i znosi jednostki organizacyjne, w tym także posiadające osobowość prawną.
 
-2. O faktach wymienionych ust. 1 na powiadamia organ admini stracji
+2. O faktach wymienionych w ust. 1 władza kościelna powiadamia niezwłocznie właściwy organ administracji rządowej:
 
-- **1)** do osób wymienionych wart. 3 ust. 2 pkt 2, 4 5 oraz jednostek, które osobo na zasadzie wart. 4 - Mi nistra Spraw Administracji,
-- **2)** przypadkach 3. Nowo utworzone jednostki organizacyjne, o któ rych mowa wart. 3 ust. 2 pkt 2-5, osobo pisemnego powiadomienia organu administracji Odpis powia domienia, umieszczonym na nim potwierdzeniem prawnej, a odniesieniu do diecezji parafii ich terytorialny.
+- **1)** odnośnie do osób wymienionych w art. 3 ust. 2 pkt 2, 4 i 5 oraz jednostek, które otrzymały osobowość prawną na zasadzie określonej w art. 4 – Ministra Spraw Wewnętrznych i Administracji ;
+- **2)** w pozostałych przypadkach – wojewodę.
 
-5. Odpowiednie powiadomienie przypadku lub osób cych organu lub organu osoby praw nej, uprawnionych do imieniu osób praw nych woli. Powiadomienie obejmuje nazwisko, obywatelstwo oraz miejsce zamieszkania.
+3. Nowo utworzone jednostki organizacyjne, o których mowa w art. 3 ust. 2 pkt 2–5, nabywają osobowość prawną z chwilą pisemnego powiadomienia właściwego organu administracji rządowej. Odpis powiadomienia, z umieszczonym na nim potwierdzeniem odbioru, jest dowodem uzyskania osobowości prawnej.
 
-**Art. 6.** Jednostki organizacyjne nie prawnej ramach tych nych osób prawnych, które je
+4. Powiadomienie, o którym mowa w ust. 2 i 3, powinno zawierać nazwę i siedzibę kościelnej osoby prawnej, a w odniesieniu do diecezji i parafii – także ich zasięg terytorialny.
 
-**Art. 7.** Kościelna osoba prawna nie odpowiada za innej osoby prawnej. 3
+5. Odpowiednie powiadomienie następuje również w przypadku powołania lub odwołania osób sprawujących funkcję organu lub członka organu osoby prawnej, uprawnionych do składania w imieniu osób prawnych oświadczeń woli. Powiadomienie obejmuje imię i nazwisko, obywatelstwo oraz miejsce zamieszkania.
+
+**Art. 6.** Jednostki organizacyjne nieposiadające osobowości prawnej działają w ramach tych kościelnych osób prawnych, które je powołały.
+
+**Art. 7.** Kościelna osoba prawna nie odpowiada za zobowiązania innej kościelnej osoby prawnej.
+
+#### Rozdział 3 Działalność Kościoła
 
 **Art. 8.**
 
-1. swobodnie organizuje sprawuje kult publiczny.
+1. Kościół swobodnie organizuje i sprawuje kult publiczny.
 
-2. Organizowanie imprez o charakterze religijnym na drogach publicznych wymaga uzgodnienia, za kresie ruchu drogowego, mi organami administracji organami terytorialnego.
+2. Organizowanie imprez o charakterze religijnym na drogach publicznych wymaga uzgodnienia, w zakresie bezpieczeństwa ruchu drogowego, z właściwymi organami administracji rządowej lub samorządowej.
 
-3. Przepisu ust. 2 nie stosuje do konduktów po grzebowych stosownie do miejsco wego zwyczaju.
+3. Przepisu ust. 2 nie stosuje się do konduktów pogrzebowych odbywających się stosownie do miejscowego zwyczaju.
 
-4. Religijne pogrzebowe stwa za sprawowane na cmenta rzach komunalnych przy zachowaniu przepisów
+4. Religijne uroczystości pogrzebowe i nabożeństwa za zmarłych mogą być sprawowane na cmentarzach komunalnych przy zachowaniu obowiązujących przepisów porządkowych.
 
-**Art. 9.** Wierni prawo do od pracy lub nauki, na zasadach przepisach, na czas religijnego dniu 2 sierp nia, objawienia Wielkiego
+**Art. 8a.**
+
+1. Małżeństwo zawarte w formie przewidzianej prawem wewnętrznym Kościoła wywołuje skutki cywilne, jeżeli odpowiada wymaganiom określonym w Kodeksie rodzinnym i opiekuńczym.
+
+2. Osobę duchowną, przed którą składa się oświadczenia o zawarciu małżeństwa, określa prawo wewnętrzne Kościoła.
+
+**Art. 9.** Wierni Kościoła mają prawo do zwolnień od pracy lub nauki, na zasadach określonych w odrębnych przepisach, na czas święta religijnego w dniu 2 sierpnia, będącego pamiątką objawienia Dzieła Wielkiego Miłosierdzia.
 
 **Art. 10.**
 
-1. prowadzi konfesyjne nauczanie religii publicznych na zasadach trybie przewidzianych przepisach.
+1. Kościół prowadzi konfesyjne nauczanie religii w szkołach publicznych na zasadach i w trybie przewidzianych w odrębnych przepisach.
 
-2. Oceny religii wystawiane punktach kateche tycznych umieszczane na wydawa nych przez publiczne.
+2. (uchylony)
 
 **Art. 11.**
 
-1. osoby prawne prawo za oraz inne placówki wo-wychowawcze na za sadach przepisach. one charakter mariawicki nej. nych prowadzonych przez stosuje odpo wiednio przepisy nauczycieli, wychowawców pracowników szko placówkach publicznych.
+1. Kościelne osoby prawne mają prawo zakładać i prowadzić szkoły oraz inne placówki oświatowo-wychowawcze i opiekuńczo-wychowawcze na zasadach określonych w odrębnych przepisach. Mają one charakter mariawicki i podlegają władzy kościelnej.
 
-3. wymienionych ust. 1 2 publicznych opieki zdrowotnej oraz ulgi za przejazdy publicznego transportu zbiorowego na rów ni uczniami publicznych.
+2. Do nauczycieli, wychowawców i pracowników zatrudnionych w szkołach i innych placówkach oświatowo-wychowawczych i opiekuńczo-wychowawczych, a także seminariach duchownych i instytutach misyjnych prowadzonych przez Kościół stosuje się odpowiednio przepisy dotyczące uprawnień nauczycieli, wychowawców i pracowników zatrudnionych w szkołach i placówkach publicznych.
+
+3. Uczącym się w szkołach wymienionych w ust. 1 i 2 przysługują świadczenia opieki zdrowotnej finansowane ze środków publicznych oraz ulgi w opłatach za przejazdy środkami publicznego transportu zbiorowego na równi z uczniami szkół publicznych.
 
 **Art. 12.**
 
-1. ma prawo do prowa dzenia seminariów duchownych instytutów misyj nych, których programu kandydatów na duchownych oraz osoby przy do realizacji misji
+1. Kościół ma prawo do zakładania i prowadzenia seminariów duchownych i instytutów misyjnych, w których kształci według własnego programu kandydatów na duchownych oraz osoby świeckie przygotowujące się do realizacji misji Kościoła.
 
-2. Seminarium Duchowne Staro katolickiego Mariawitów jest do nadawania absolwentom zawodowego licencjata teologii mariawickiej. ten jest zawodowym li cencjata nadawanym przez
+2. Wyższe Seminarium Duchowne Kościoła Starokatolickiego Mariawitów w Płocku jest wyższą szkołą teologiczną uprawnioną do nadawania absolwentom tytułu zawodowego licencjata teologii mariawickiej. Tytuł ten jest równoważny z tytułem zawodowym licencjata nadawanym przez państwowe szkoły wyższe.
 
-**Art. 13.** Poręcza prawo kadr duchownych Akademii Teolo gicznej Warszawie zakresie teologii starokatolic kiej, ramach jednostki naukowo-dydak tycznej.
+**Art. 13.** Poręcza się Kościołowi prawo kształcenia kadr duchownych w Chrześcijańskiej Akademii Teologicznej w Warszawie w zakresie teologii starokatolickiej, w ramach istniejącej jednostki naukowo-dydaktycznej.
 
 **Art. 14.**
 
-1. Studenci teologii na czas stu diów odroczenie odbywania zasadniczej woj skowej, razie mobilizacji czasie wojny przeznaczeni, stosownie do potrzeb zbrojnych, do sanitarnej lub obro nie cywilnej.
+1. Studenci teologii otrzymują na czas studiów odroczenie odbywania zasadniczej służby wojskowej, w razie zaś ogłoszenia mobilizacji i w czasie wojny mogą być przeznaczeni, stosownie do potrzeb sił zbrojnych, do służby sanitarnej lub służby w obronie cywilnej.
 
-2. Nie absolwentów studiów, o któ rych mowa ust. 1, do odbywania przeszkolenia woj skowego okresie do dwóch lat od studiów.
+2. Nie powołuje się absolwentów studiów, o których mowa w ust. 1, do odbywania przeszkolenia wojskowego w okresie przygotowań do święceń, w ciągu dwóch lat od zakończenia studiów.
 
-3. Duchowni po otrzymaniu przenosze ni do rezerwy nie wojskowych czasie pokoju. W razie mobilizacji oraz czasie wojny oni jedynie do nienia funkcji kapelanów wojskowych.
+3. Duchowni po otrzymaniu święceń są przenoszeni do rezerwy i nie odbywają ćwiczeń wojskowych w czasie pokoju. W razie ogłoszenia mobilizacji oraz w czasie wojny mogą być oni powołani jedynie do pełnienia funkcji kapelanów wojskowych.
 
-4. W razie mobilizacji czasie wojny organy wojskowe, porozumieniu Bisku pem Naczelnym, pozostawienie do duszpa sterskiej liczby duchow nych tych, którzy mobilizacji.
+4. W razie ogłoszenia mobilizacji i w czasie wojny właściwe organy wojskowe, w porozumieniu z Biskupem Naczelnym, zapewnią pozostawienie do duszpasterskiej obsługi ludności niezbędnej liczby duchownych spośród tych, którzy podlegają mobilizacji.
 
 **Art. 15.**
 
-1. Żołnierzom pełniącym czynną służbę zapewnia uczestniczenia poza terenem jednostek wojskowych stwach religijnych niedziele ta, stacjonowania jednostki woj skowej lub jej znajduje mariawic ki nie koliduje to bowymi.
+1. Żołnierzom pełniącym czynną służbę wojskową zapewnia się możliwość uczestniczenia – poza terenem jednostek wojskowych – w nabożeństwach i czynnościach religijnych w niedziele i w święta, jeżeli w miejscowości stacjonowania jednostki wojskowej lub w jej pobliżu znajduje się kościół mariawicki i jeżeli nie koliduje to z ważnymi obowiązkami służbowymi.
 
-3. Duchownych, o których mowa ust. 2, wyzna cza Rada porozumieniu Ministrem Obro ny Narodowej.
+2. Opiekę duszpasterską na terenie jednostek wojskowych dla żołnierzy, o których mowa w ust. 1, zapewniają duchowni Kościoła w terminach uzgodnionych z dowódcami jednostek.
+
+3. Duchownych, o których mowa w ust. 2, wyznacza Rada Kościoła w porozumieniu z Ministrem Obrony Narodowej.
 
 **Art. 16.**
 
-1. Wiernym szpitalach, prewentoriach sanatoriach, wychowaw poprawczych karnych oraz oso bom tymczasowo aresztowanym zapewnia prawo do wykonywania praktyk religijnych oraz korzystania religijnych.
+- **3)** 1. Wiernym przebywającym w podmiotach leczniczych wykonujących działalność leczniczą w rodzaju stacjonarne i całodobowe świadczenia zdrowotne w rozumieniu przepisów o działalności leczniczej, w zakładach wychowawczo-opiekuńczych, okręgowych ośrodkach wychowawczych, zakładach poprawczych, schroniskach dla nieletnich i zakładach karnych oraz osobom tymczasowo aresztowanym zapewnia się prawo do wykonywania praktyk religijnych oraz korzystania z posług religijnych.
 
-2. Przepis ust. 1 stosuje do dzieci zorganizowanych form wypo czynku.
+2. Przepis ust. 1 stosuje się również do dzieci i młodzieży korzystających z zorganizowanych form wypoczynku.
 
-3. W celu realizacji o których mowa ust. 1 2, kierownicy zapew duchowym swobodny do tych osób.
+3. W celu realizacji uprawnień, o których mowa w ust. 1 i 2, kierownicy właściwych podmiotów i zakładów zapewniają duchownym swobodny dostęp do tych osób.
 
 **Art. 17.**
 
-1. organiza cje celu realizacji je go misji.
+1. Kościół może tworzyć własne organizacje kościelne w celu realizacji zadań wynikających z jego misji.
 
-2. Organizacje, o których mowa ust. 1, na celu na rzecz formacji reli gijnej, kultu publicznego, nauki mariawickiej, oraz po staw religijno-etycznych dzieci
+2. Organizacje, o których mowa w ust. 1, mają na celu w szczególności działalność na rzecz formacji religijnej, kultu publicznego, nauki mariawickiej, działalność charytatywno-opiekuńczą oraz kształtowanie postaw religijnoetycznych dzieci i młodzieży.
 
-3. nad dzia organizacji ich celami religijnymi etycznymi.
+3. Władze kościelne czuwają nad zgodnością działania organizacji z ich celami religijnymi i etycznymi.
 
-4. Do organizacji, o których mowa ust. 1, nie sto suje prawa o stowarzyszeniach.
+4. Do organizacji, o których mowa w ust. 1, nie stosuje się prawa o stowarzyszeniach.
 
-5. Organizacje, o których mowa ust. 1, uzy trybie wart. 4.
+5. Organizacje, o których mowa w ust. 1, mogą uzyskiwać osobowość prawną w trybie określonym w art. 4.
 
-**Art. 18.** Kościelne osoby prawne prawo pro wadzenia dla nich cha
+**Art. 18.** Kościelne osoby prawne mają prawo prowadzenia właściwej dla każdej z nich działalności charytatywno-opiekuńczej.
 
 **Art. 19.**
 
-1. osoby prawne realizo inwestycje sakralne
+1. Kościelne osoby prawne mogą realizować inwestycje sakralne i kościelne.
 
-2. Parafie prawo posiadania cmentarzy grze balnych, poszerzania ich, ni mi.
+2. Parafie mają prawo posiadania cmentarzy grzebalnych, poszerzania ich, zakładania i zarządzania nimi.
 
-3. Na wniosek osoby prawnej miejscowe plany zagospodarowania przestrzennego inwestycje sakralne oraz mariawickie cmentarze wyznaniowe.
+3. Na wniosek kościelnej osoby prawnej miejscowe plany zagospodarowania przestrzennego obejmują także inwestycje sakralne i kościelne oraz mariawickie cmentarze wyznaniowe.
 
-**Art. 20.** Grunty Skarbu stwa lub gminy, przeznaczone miejsco wych planach zagospodarowania przestrzennego na potrzeby na wniosek osób praw nych im oddawane wieczyste nie lub sprzedawane. nych masowego przekazu oraz swoich programów religijno-moralnych, kulturalnych. 2. Sposób realizacji o których mowa ust. 1, porozumienie a publicznej radiofonii telewizji. . Art. 23. Osoby prawne prawo dania prowadzenia archiwów, muzeów zbiorów bibliotecznych.
+**Art. 20.** Grunty stanowiące własność Skarbu Państwa lub własność jednostek samorządu terytorialnego, przeznaczone w miejscowych planach zagospodarowania przestrzennego na potrzeby Kościoła, na wniosek kościelnych osób prawnych mogą być im oddawane w wieczyste użytkowanie lub sprzedawane.
 
-**Art. 24.** Instytucje ko ochronie, konserwacji, udo upowszechnianiu zabytków architektury sztuki sakralnej oraz ich dokumentacji, mu zeów, archiwów bibliotek ko a kultury sztuki o motywach religij nych, dziedzictwa kultury polskiej. 4 Sprawy
+**Art. 21.** Nie pobiera się opłat za użytkowanie wieczyste gruntów oddanych na potrzeby zakładów charytatywno-opiekuńczych i punktów katechetycznych.
 
-**Art. 25.** Kościołowi jego osobom prawnym przy prawo nabywania, posiadania zbywania mie nia ruchomego nieruchomego, nabywania zbywania innych praw oraz swobodnego swoim ma
+**Art. 22.**
+
+1. Kościół ma prawo emitowania w publicznych środkach masowego przekazu nabożeństw oraz swoich programów religijno-moralnych, społecznych i kulturalnych.
+
+2. Sposób realizacji uprawnień, o których mowa w ust. 1, określa porozumienie między Radą Kościoła a właściwą jednostką publicznej radiofonii i telewizji.
+
+**Art. 23.** Osoby prawne Kościoła mają prawo zakładania i prowadzenia własnych archiwów, muzeów i zbiorów bibliotecznych.
+
+**Art. 24.** Instytucje państwowe, samorządowe i kościelne współdziałają w ochronie, konserwacji, udostępnianiu i upowszechnianiu zabytków architektury kościelnej i sztuki sakralnej oraz ich dokumentacji, muzeów, archiwów i bibliotek będących własnością kościelną, a także dzieł kultury i sztuki o motywach religijnych, stanowiących ważną część dziedzictwa kultury polskiej.
+
+#### Rozdział 4 Sprawy majątkowe Kościoła
+
+**Art. 25.** Kościołowi i jego osobom prawnym przysługuje prawo nabywania, posiadania i zbywania mienia ruchomego i nieruchomego, nabywania i zbywania innych praw oraz swobodnego zarządzania swoim majątkiem.
 
 **Art. 26.**
 
-1. przychody osób prawnych ogólnym przepisom podatko wym, ust. 2-5.
+1. Majątek i przychody kościelnych osób prawnych podlegają ogólnym przepisom podatkowym, z wyjątkami określonymi w ust. 2–5.
 
-2. osoby prawne zwolnione od opo datkowania podatkiem od - nierucho lub ich przeznaczonych na cele niemiesz kalne, przeznaczonej na wykonywa nie gospodarczej.
+2. Kościelne osoby prawne są zwolnione od opodatkowania podatkiem od nieruchomości – nieruchomości lub ich części przeznaczonych na cele niemieszkalne, z wyjątkiem części przeznaczonej na wykonywanie działalności gospodarczej.
 
-3. Zwolnienie od opodatkowania podatkiem od nie obejmuje lub ich przeznaczone na cele mieszkalne duchownych ków zakonnych,
+3. Zwolnienie od opodatkowania podatkiem od nieruchomości obejmuje nieruchomości lub ich części przeznaczone na cele mieszkalne duchownych i członków zgromadzeń zakonnych, jeżeli:
 
-- **1)** one wpisane do rejestru zabytków,
-- **2)** jako internaty przy seminariach du chownych, klasztory oraz domy duchownych eme rytów,
-- **3)** budynkach diecezji Rady
+- **1)** są one wpisane do rejestru zabytków;
+- **2)** służą jako internaty przy szkołach i seminariach duchownych, klasztory oraz domy duchownych emerytów;
+- **3)** znajdują się w budynkach diecezji i Rady Kościoła.
 
-4. Nabywanie zbywanie rzeczy praw wych przez osoby prawne drodze czynno prawnych oraz spadkobrania, zapisu zasiedzenia jest zwolnione od skarbowej, ich przed miotem
+4. Nabywanie i zbywanie rzeczy i praw majątkowych przez kościelne osoby prawne w drodze czynności prawnych oraz spadkobrania, zapisu i zasiedzenia jest zwolnione od opłaty skarbowej, jeżeli ich przedmiotem są:
 
-- **1)** rzeczy prawa nie przeznaczone do go spodarczej, podstawy opodatkowania po datkiem dochodowym, jeżeli kościelna osoba prawna przedstawi pokwitowanie odbioru oraz okresie dwóch lat od dnia przekazania darowizny sprawozdanie o przeznaczeniu jej na
+- **1)** rzeczy i prawa nieprzeznaczone do działalności gospodarczej;
+- **2)** sprowadzane z zagranicy maszyny, urządzenia i materiały poligraficzne oraz papier.
 
-6. Nabywanie zbywanie rzeczy oraz praw wych, o których mowa ust. 4, jest zwolnione od kancelaryjnych .
+5. Darowizny na kościelną działalność charytatywno-opiekuńczą pochodzące od osób fizycznych są wyłączone z podstawy opodatkowania darczyńców podatkiem dochodowym, jeżeli kościelna osoba prawna przedstawi darczyńcy pokwitowanie odbioru oraz – w okresie dwóch lat od dnia przekazania darowizny – sprawozdanie o przeznaczeniu jej na tę działalność.
 
-**Art. 27.** Wolne od celnych za granicy dla jego osób prawnych dary:
+6. Nabywanie i zbywanie rzeczy oraz praw majątkowych, o których mowa w ust. 4, jest zwolnione od opłat sądowych, z wyłączeniem opłat kancelaryjnych.
+
+**Art. 27.** Zwalnia się z należności celnych przywozowych towary przeznaczone na cele charytatywno-opiekuńcze i oświatowo-wychowawcze oraz towary o charakterze kulturalnym przeznaczone na cele kultu, przywożone dla Kościoła i jego osób prawnych, w granicach i na warunkach określonych w rozporządzeniu Rady (WE) nr 1186/2009 z dnia 16 listopada 2009 r. ustanawiającym wspólnotowy system zwolnień celnych (Dz. Urz. UE L 324 z 10.12.2009, str. 23).
 
 **Art. 28.**
 
-1. jego osoby prawne prawo do zbierania ofiar na cele religijne, utrzymanie duchownych ich rodzin oraz zakonnych.
+1. Kościół i jego osoby prawne mają prawo do zbierania ofiar na cele religijne, kościelną działalność charytatywno--opiekuńczą, naukową, oświatową i wychowawczą, utrzymanie duchownych i ich rodzin oraz członków zgromadzeń zakonnych.
 
-2. Zbiórki wymienione ust. 1 nie ze zwolenia, terenów ko kaplic oraz miejscach zwyczajowo sposób tradycyjnie ustalony.
+2. Zbiórki wymienione w ust. 1 nie wymagają zgłoszenia, jeżeli odbywają się w obrębie terenów kościelnych, kaplic oraz w miejscach i okolicznościach zwyczajowo przyjętych, w sposób tradycyjnie ustalony.
 
 **Art. 29.**
 
-1. osoby prawne fundacje. Do fundacji tych stosuje ogólnie przepisy o fundacjach, ze zmianami mi przepisów ust. 2-5.
+1. Kościelne osoby prawne mogą zakładać fundacje. Do fundacji tych stosuje się ogólnie obowiązujące przepisy o fundacjach, ze zmianami wynikającymi z przepisów ust. 2–5.
 
-2. od nadzoru nadzór nad fundacji sprawuje osoba prawna fundatorem lub wskazana statucie fundacji.
+2. Niezależnie od nadzoru państwowego, nadzór nad działalnością fundacji sprawuje kościelna osoba prawna będąca fundatorem lub wskazana w statucie fundacji.
 
-3. W razie stwierdzenia dzaniu organ zwraca do osoby prawnej nadzór nad termin nie krótszy 3 mie na spowodowanie Po bezskutecznym tego terminu zasto przepisach o fundacjach.
+3. W razie stwierdzenia nieprawidłowości w zarządzaniu fundacją, właściwy organ państwowy zwraca się do kościelnej osoby prawnej sprawującej nadzór nad fundacją, wyznaczając termin nie krótszy niż 3 miesiące na spowodowanie usunięcia nieprawidłowości. Po bezskutecznym upływie tego terminu można zastosować środki określone w przepisach o fundacjach.
 
-4. W razie poddania fundacji wi przymusowemu, przepisów o fundacjach, ten osoba prawna wyznaczona przez
+4. W razie konieczności poddania fundacji zarządowi przymusowemu, w myśl przepisów o fundacjach, zarząd ten będzie sprawowała kościelna osoba prawna wyznaczona przez Radę Kościoła.
 
-5. statut fundacji nie stanowi inaczej, razie jej likwidacji, o przeznaczeniu jej zadecyduje Rada
+5. Jeżeli statut fundacji nie stanowi inaczej, w razie jej likwidacji, o przeznaczeniu jej majątku zadecyduje Rada Kościoła.
 
-**Art. 30.** W razie zniesienia osoby praw nej, jej przechodzi na jako 5 Przepisy
+**Art. 30.** W razie zniesienia kościelnej osoby prawnej, jej majątek przechodzi na własność Kościoła jako całości.
+
+**Art. 31.** Niezależnie od ustawowego ubezpieczenia duchownych, kościelne osoby prawne mogą prowadzić wewnętrzną działalność ubezpieczeniową na rzecz duchownych, która w rozumieniu ustawy nie jest działalnością gospodarczą.
+
+#### Rozdział 5 Przepisy przejściowe i końcowe
 
 **Art. 32.**
 
-1. lub ich ce dniu ustawy we jego osób prawnych mocy prawa ich o ile nie narusza to praw osób trzecich, .
+1. Nieruchomości lub ich części pozostające w dniu wejścia w życie ustawy we władaniu Kościoła i jego osób prawnych stają się z mocy prawa ich własnością, o ile nie narusza to praw niepaństwowych i niesamorządowych osób trzecich, jeżeli:
 
-- **1)** we jego osób prawnych, o których mowa wart. 3 ust. 2 pkt 2-5, lub
-- **2)** na nich obiekty sakralne wraz obiek tami lub cmentarze; dotyczy to obiektów na obszarze miasta sto Warszawy.
+- **1)** były we władaniu Kościoła i jego osób prawnych, o których mowa w art. 3 ust. 2 pkt 2–5, lub
+- **2)** znajdują się na nich obiekty sakralne wraz z obiektami towarzyszącymi lub cmentarze; dotyczy to także obiektów położonych na obszarze miasta stołecznego Warszawy.
 
-2. lub ich na których znajdu cmentarze grzebalne wspólnie przez Starokatolicki Mariawitów Katolicki Mariawitów, mocy prawa ich
+2. Nieruchomości lub ich części, na których znajdują się cmentarze grzebalne użytkowane wspólnie przez Kościół Starokatolicki Mariawitów i Kościół Katolicki Mariawitów, stają się z mocy prawa ich współwłasnością niepodzielną.
 
-3. Stwierdzenie lub ich o których mowa ust. 1 2, drodze decyzji wojewody.
+3. Stwierdzenie przejścia własności nieruchomości lub ich części, o których mowa w ust. 1 i 2, następuje w drodze decyzji wojewody.
 
-4. Nabycie lub ich na podstawie ust. 1 jest wolne od podatków wieczystego gruntu Warszawie przy ul. Szarej 8, oznaczonej hip. nr N-6062.
+4. Nabycie własności nieruchomości lub ich części na podstawie ust. 1 jest wolne od podatków i opłat związanych z tym nabyciem, a wynikające z niego wpisy do ksiąg wieczystych i ich zakładanie są wolne od opłat.
 
-2. Minister Spraw Administracji terminie 6 od dnia ustawy, sposób wykonania przepisu ust. 1.
+**Art. 33.**
+
+1. Przyznaje się Kościołowi prawo nieodpłatnego użytkowania wieczystego działki gruntu położonego w Warszawie przy ul. Szarej 8, oznaczonej hip. nr N-6062.
+
+2. Minister Spraw Wewnętrznych i Administracji określi, w terminie 6 miesięcy od dnia wejścia w życie ustawy, sposób wykonania przepisu ust. 1.
 
 **Art. 34.**
 
-1. osoby prawne dniu ustawy osobami prawnymi rozumieniu niniejszej ustawy.
+1. Kościelne osoby prawne istniejące w dniu wejścia w życie ustawy pozostają osobami prawnymi w rozumieniu niniejszej ustawy.
 
-2. Wykaz osób prawnych dniu ustawy do ustawy.
+2. Wykaz kościelnych osób prawnych istniejących w dniu wejścia w życie ustawy określa załącznik do ustawy.
 
-**Art. 35.** Do czasu Synodu prawo we jest uchwalane przez Ge
+**Art. 35.** Do czasu zwołania Synodu prawo wewnętrzne Kościoła jest uchwalane przez Kapitułę Generalną.
 
-**Art. 36.** Traci moc dekret dnia 5 1947 r. o uregulowaniu prawnego Ewan gelicko-Reformowanego Rzeczypospolitej Polskiej, Mariawickiego Starokatolickiego (Dz. U. Nr 59, poz. 316 1994 r. Nr 73, poz. 324).
+**Art. 36.** Traci moc dekret z dnia 5 września 1947 r. o uregulowaniu położenia prawnego Kościoła Ewangelicko-Reformowanego w Rzeczypospolitej Polskiej, Kościoła Mariawickiego i Kościoła Starokatolickiego (Dz. U. poz. 316 oraz z 1994 r. poz. 324).
 
-**Art. 37.** Ustawa wchodzi po 14 dni od dnia Prezydent Rzeczypospolitej Polskiej: A. WYKAZ OSÓB PRAWNYCH KOŚCIOŁA STAROKATOLICKIEGO MARIAWITÓW W RZECZYPOSPOLITEJ POLSKIEJ I. Diecezje parafie Parafia Gózd 1. Diecezja Parafia Kamionka Parafia Parafia Lublin Parafia Filipów Parafia Parafia Leszno Parafia Mazowiecki Parafia Lutkówka Parafia Piaseczno Parafia Parafia Parafia Parafia Żarnówka Parafia Radzyminek Parafia Żeliszew Parafia Raszewo Parafia Warszawa 3. Diecezja Parafia Wierzbica Parafia Dobra Parafia Żyrardów Parafia Gniazdów 2. Diecezja lubelsko-podlaska Parafia Parafia Parafia Parafia Parafia Parafia Zgromadzenie Parafia Sobótka Parafia Sosnowiec Parafia Starcza Parafia Stryków Mariawitów Zgromadzenie Sióstr Mariawitek III. Seminaria Seminarium Duchowne Staroka tolickiego Mariawitów 254 USTAWA dnia lutego r. o stosunku do Rzeczypospolitej Polskiej. Przepisy ogólne
-
-**Art. 1.**
-
-1. Ustawa stosunek do Ko Rzeczypospolitej Pol skiej, zwanego dalej oraz jego
-
-2. W sprawach do nie uregulowanych ustawie, stosuje powszechnie przepisy prawa.
-
-3. Wszelkie zmiany niniejszej ustawy uprzedniej opinii Prezydium Naczelnej Rady
-
-**Art. 2.** Kościół swoich sprawach snym Prawem uchwalanym przez Sy nod swobodnie wykonuje samodzielnie swoimi spra wami.
-
-**Art. 3.**
-
-1. jest od jakiejkolwiek za granicznej duchownej lub
-
-2. jako nurtu jest Europejskiego Stowarzyszenia Stowarzyszenia Zborów oraz uczestniczy Światowej Konferencji Zielono
-
-3. swoje funkcje innymi organizacjami religijnymi kra ju za do krajowych organizacji a orga nizacji wyznaniowych
-
-4. zapewnia jego osobom prawnym wyznawcom utrzymywania stosunków komunikowania podmiotami, o których mowa ust. 2 3, a innymi wspólnotami in stytucjami, organizacjami osobami kraju za grani 2 Osoby prawne ich organy
-
-**Art. 4.**
-
-1. Prawo
-
-2.
-
-- **1)** jako
-- **2)**
-- **3)** zbory,
-- **4)** seminaria teologiczne,
-- **5)** duszpasterstwa,
-- **6)** misje,
-- **7)** wydawnictwa,
-- **8)** studia radiowe telewizyjne,
-
-3. Organami osób prawnych wymienionych ust. 2
-
-- **1)** dla jako
-    - **a)** Synod
-    - **b)** Naczelna Rada
-    - **c)** Prezydium Naczelnej Rady
-    - **d)** Prezbiter Naczelny,
-
+**Art. 37.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia . Załącznik do ustawy z dnia 20 lutego 1997 r. (Dz. U. z 2023 r. poz.
 

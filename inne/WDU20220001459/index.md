@@ -10,7 +10,9 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 11 lipca 2022 r.
+# o Akademii Kopernikańskiej
+
+*USTAWA z dnia 28 kwietnia 2022 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,7 @@ domain: null
 | Ostatnia zmiana | 2024-04-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001459) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1459/text.pdf) |
 
-USTAWA z dnia 28 kwietnia 2022 r.
-o Akademii Kopernikańskiej
+Art. 54–58. (pominięte)
 
 #### Rozdział 1 Przepis ogólny
 
@@ -70,27 +71,25 @@ o Akademii Kopernikańskiej
 
 4. Statut Akademii i jego zmiany uchwala Zgromadzenie Ogólne Akademii, zwane dalej „Zgromadzeniem”.
 
-5. Statut Akademii i jego zmiany wchodzą w życie po ich zatwierdzeniu przez Prezesa Rady Ministrów.
+5. Statut Akademii i jego zmiany wchodzą w życie po ich zatwierdzeniu przez ministra właściwego do spraw szkolnictwa wyższego i nauki, zwanego dalej „ministrem”.
 
 **Art. 4.**
 
-1. Prezes Rady Ministrów sprawuje nadzór nad Akademią w zakresie zgodności działania jej organów z przepisami prawa i statutem Akademii.
+1. Minister sprawuje nadzór nad Akademią w zakresie zgodności działania jej organów z przepisami prawa i statutem Akademii.
 
-2. Sekretarz Generalny Akademii, zwany dalej „Sekretarzem”, przedstawia Prezesowi Rady Ministrów roczne sprawozdanie z działalności Akademii oraz ministrowi właściwemu do spraw szkolnictwa wyższego i nauki, zwanemu dalej „ministrem”, roczne sprawozdanie finansowe wraz ze sprawozdaniem z badania w rozumieniu art. 2 pkt 31 ustawy z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym (Dz. U. z 2022 r. poz. 1302).
+2. Sekretarz Generalny Akademii, zwany dalej „Sekretarzem”, przedstawia ministrowi roczne sprawozdanie z działalności Akademii, roczne sprawozdanie finansowe wraz ze sprawozdaniem z badania w rozumieniu art. 2 pkt 31 ustawy z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym (Dz. U. z 2023 r. poz. 1015, 1723 i 1843).
 
-3. W ramach sprawowanego nadzoru Prezes Rady Ministrów może żądać:
+3. W ramach sprawowanego nadzoru minister może żądać:
 
 - **1)** informacji i wyjaśnień od organów Akademii;
 - **2)** dostarczenia przez Sekretarza odpisów uchwał Zgromadzenia.
 
-4. W razie stwierdzenia, że działalność Akademii jest niezgodna z prawem lub statutem Akademii, Prezes Rady Ministrów, w zależności od rodzaju i stopnia stwierdzonych nieprawidłowości, może:
+4. W razie stwierdzenia, że działalność Akademii jest niezgodna z prawem lub statutem Akademii, minister, w zależności od rodzaju i stopnia stwierdzonych nieprawidłowości, może:
 
 - **1)** wystąpić o ich usunięcie w określonym terminie;
 - **2)** uchylić uchwałę Zgromadzenia.
 
-5. Prezes Rady Ministrów może uchylić uchwałę Zgromadzenia w przypadku stwierdzenia jej niezgodności z prawem lub statutem Akademii. Uchylenie uchwały następuje w drodze decyzji w terminie 3 miesięcy od dnia powzięcia wiadomości o podjęciu uchwały.
-
-6. Wniosek w sprawie uchylenia uchwały Zgromadzenia dotyczącej gospodarki finansowej Akademii składa do Prezesa Rady Ministrów minister.
+5. Minister może uchylić uchwałę Zgromadzenia w przypadku stwierdzenia jej niezgodności z prawem lub statutem Akademii. Uchylenie uchwały następuje w drodze decyzji w terminie 3 miesięcy od dnia powzięcia wiadomości o podjęciu uchwały.
 
 **Art. 5.**
 
@@ -116,9 +115,9 @@ o Akademii Kopernikańskiej
 1. Członkiem Akademii może zostać osoba posiadająca nieposzlakowaną opinię oraz wyróżniająca się szczególnie wybitnym dorobkiem naukowym i autorytetem w środowisku naukowym:
 
 - **1)** posiadająca obywatelstwo polskie oraz tytuł profesora albo stopień naukowy albo
-- **2)** będąca cudzoziemcem posiadającym co najmniej stopień naukowy doktora albo stopień uznany za równoważny z polskim stopniem zgodnie z art. 328 ust. 3 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2022 r. poz. 574, z późn. zm. ).
+- **2)** będąca cudzoziemcem posiadającym co najmniej stopień naukowy doktora albo stopień uznany za równoważny z polskim stopniem zgodnie z art. 328 ust. 3 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r. poz. 742, z późn. zm. ).
 
-2. Członkiem Akademii nie może zostać osoba, o której mowa w ust. 1 pkt 1, która pełniła służbę, pracowała lub była współpracownikiem organów bezpieczeństwa państwa, wymienionych w art. 2 ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów (Dz. U. z 2021 r. poz. 1633).
+2. Członkiem Akademii nie może zostać osoba, o której mowa w ust. 1 pkt 1, która pełniła służbę, pracowała lub była współpracownikiem organów bezpieczeństwa państwa, wymienionych w art. 2 ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów (Dz. U. z 2024 r. poz. 273).
 
 **Art. 8.**
 
@@ -131,7 +130,7 @@ o Akademii Kopernikańskiej
     - **c)** złożenia rezygnacji,
     - **d)** śmierci.
 
-2. Członek Akademii może zostać pozbawiony członkostwa w przypadku naruszenia Zasad Etyki Członków Akademii. Uchwałę w tej sprawie podejmuje Zgromadzenie większością dwóch trzecich głosów. Od uchwały Zgromadzenia członkowi Akademii przysługuje odwołanie do Sądu Apelacyjnego w Warszawie Sądu Pracy i Ubezpieczeń Społecznych.
+2. Członek Akademii może zostać pozbawiony członkostwa w przypadku naruszenia Zasad Etyki Członków Akademii. Uchwałę w tej sprawie podejmuje Zgromadzenie większością dwóch trzecich głosów. Od uchwały Zgromadzenia członkowi Akademii przysługuje odwołanie do Sądu Apelacyjnego w Warszawie – Sądu Pracy i Ubezpieczeń Społecznych.
 
 **Art. 9.**
 
@@ -156,15 +155,15 @@ o Akademii Kopernikańskiej
 
 3. Członek Akademii co najmniej raz w roku bierze udział w posiedzeniu Zgromadzenia i posiedzeniu Izby Akademii, a także, w zależności od potrzeb, posiedzeniach komisji, zespołów doradczych i zespołów ekspertów, w skład których został powołany.
 
-4. Członkowi Akademii przysługuje zwrot diet, kosztów podróży oraz zakwaterowania na warunkach określonych w przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2020 r. poz. 1320, z 2021 r. poz. 1162 oraz z 2022 r. poz. 655), związanych z udziałem w posiedzeniu Zgromadzenia, Izby Akademii, komisji, zespołów doradczych i zespołów ekspertów, w pracach których uczestniczy.
+4. Członkowi Akademii przysługuje zwrot diet, kosztów podróży oraz zakwaterowania na warunkach określonych w przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2023 r. poz. 1465), związanych z udziałem w posiedzeniu Zgromadzenia, Izby Akademii, komisji, zespołów doradczych i zespołów ekspertów, w pracach których uczestniczy.
 
 5. Członek Akademii otrzymuje miesięczne honorarium. Honorarium nie jest uwzględniane przy ustalaniu wysokości emerytury lub renty oraz nie ma wpływu na zawieszenie albo zmniejszenie emerytury lub renty.
 
-6. Przepisu ust. 5 nie stosuje się do Sekretarza. Wynagrodzenie Sekretarza regulują przepisy ustawy z dnia 31 lipca 1981 r. o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe (Dz. U. z 2022 r. poz. 1215).
+6. Przepisu ust. 5 nie stosuje się do Sekretarza. Wynagrodzenie Sekretarza regulują przepisy ustawy z dnia 31 lipca 1981 r. o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe (Dz. U. z 2023 r. poz. 624).
 
 7. Jeżeli członek Akademii nie wykonuje bez usprawiedliwionej przyczyny obowiązków określonych w ust. 1–3, Sekretarz zawiesza wypłatę honorarium do czasu podjęcia przez członka Akademii obowiązków.
 
-8. Honorarium, o którym mowa w ust. 5, wynosi 40% wysokości wynagrodzenia Sekretarza.
+8. Honorarium, o którym mowa w ust. 5, wynosi 40 % wysokości wynagrodzenia Sekretarza.
 
 #### Rozdział 4 Organy Akademii
 
@@ -203,7 +202,7 @@ o Akademii Kopernikańskiej
 
 2. O terminie, formie, miejscu i porządku obrad posiedzenia Zgromadzenia Sekretarz zawiadamia członków Akademii na piśmie co najmniej 21 dni przed terminem tego posiedzenia.
 
-3. Sekretarz może zwołać dodatkowe posiedzenie Zgromadzenia z własnej inicjatywy, na wniosek Prezesa Rady Ministrów, ministra, Izby Akademii lub dziesięciu członków Akademii. Dodatkowe posiedzenie Zgromadzenia nie może odbywać się częściej niż raz do roku.
+3. Sekretarz może zwołać dodatkowe posiedzenie Zgromadzenia z własnej inicjatywy, na wniosek ministra, Izby Akademii lub dziesięciu członków Akademii. Dodatkowe posiedzenie Zgromadzenia nie może odbywać się częściej niż raz do roku.
 
 4. Sekretarz zwołuje posiedzenie Zgromadzenia, gdy z wnioskiem wystąpi Prezydent Rzeczypospolitej Polskiej.
 
@@ -215,9 +214,9 @@ o Akademii Kopernikańskiej
 
 1. Prezydent Rzeczypospolitej Polskiej powołuje na Sekretarza osobę wybraną przez Zgromadzenie.
 
-2. Powołanie, o którym mowa w ust. 1, stanowi nawiązanie stosunku pracy w rozumieniu ustawy z dnia 26 czerwca 1974 r. Kodeks pracy.
+2. Powołanie, o którym mowa w ust. 1, stanowi nawiązanie stosunku pracy w rozumieniu ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
 
-3. Prezes Rady Ministrów może zgłosić sprzeciw wobec kandydata na Sekretarza wybranego przez Zgromadzenie w terminie 14 dni od dnia doręczenia uchwały Zgromadzenia w tej sprawie. W przypadku zgłoszenia sprzeciwu Zgromadzenie wybiera innego kandydata na Sekretarza.
+3. Minister może zgłosić sprzeciw wobec kandydata na Sekretarza wybranego przez Zgromadzenie w terminie 14 dni od dnia doręczenia uchwały Zgromadzenia w tej sprawie. W przypadku zgłoszenia sprzeciwu Zgromadzenie wybiera innego kandydata na Sekretarza.
 
 4. Kadencja Sekretarza trwa 7 lat. Funkcję Sekretarza można pełnić tylko jedną kadencję.
 
@@ -239,7 +238,7 @@ o Akademii Kopernikańskiej
 
 2. O zamiarze podjęcia wykonywania czynności, o których mowa w ust. 1, Sekretarz uprzednio powiadamia Szefa Kancelarii Prezydenta Rzeczypospolitej Polskiej.
 
-3. Prezes Rady Ministrów, na wniosek Prezydenta Rzeczypospolitej Polskiej, odwołuje Sekretarza z pełnionej funkcji, w przypadku naruszenia ust. 1 i 2. Do czasu wyboru nowego Sekretarza jego funkcję pełni osoba wskazana w statucie Akademii.
+3. Minister, na wniosek Prezydenta Rzeczypospolitej Polskiej, odwołuje Sekretarza z pełnionej funkcji, w przypadku naruszenia ust. 1 i 2. Do czasu wyboru nowego Sekretarza jego funkcję pełni osoba wskazana w statucie Akademii.
 
 **Art. 18.**
 
@@ -289,7 +288,7 @@ o Akademii Kopernikańskiej
 - **1)** korzysta z pełni praw publicznych;
 - **2)** posiada co najmniej 3-letnie doświadczenie w zarządzaniu zespołami pracowniczymi;
 - **3)** nie była skazana prawomocnym wyrokiem sądu za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
-- **4)** nie została ukarana zakazem pełnienia funkcji związanych z dysponowaniem środkami publicznymi, o którym mowa w art. 31 ust. 1 pkt 4 ustawy z dnia 17 grudnia 2004 r. o odpowiedzialności za naruszenie dyscypliny finansów publicznych (Dz. U. z 2021 r. poz. 289);
+- **4)** nie została ukarana zakazem pełnienia funkcji związanych z dysponowaniem środkami publicznymi, o którym mowa w art. 31 ust. 1 pkt 4 ustawy z dnia 17 grudnia 2004 r. o odpowiedzialności za naruszenie dyscypliny finansów publicznych (Dz. U. z 2024 r. poz. 104);
 - **5)** posiada co najmniej stopień naukowy doktora.
 
 4. Kandydata na Dyrektora Centrum wyłania komisja powołana przez Sekretarza.
@@ -300,7 +299,7 @@ o Akademii Kopernikańskiej
 
 7. Szczegółowy sposób przeprowadzania konkursu, o którym mowa w ust. 2, określa Sekretarz w regulaminie konkursu zatwierdzonym przez ministra.
 
-8. Informację o naborze na stanowisko Dyrektora Centrum ogłasza się przez umieszczenie informacji o konkursie wraz z regulaminem konkursu, w miejscu powszechnie dostępnym w siedzibie Centrum, na stronie podmiotowej Akademii w Biuletynie Informacji Publicznej oraz Biuletynie Informacji Publicznej Kancelarii Prezesa Rady Ministrów.
+8. Informację o naborze na stanowisko Dyrektora Centrum ogłasza się przez umieszczenie informacji o konkursie wraz z regulaminem konkursu, w miejscu powszechnie dostępnym w siedzibie Centrum, na stronie podmiotowej Akademii w Biuletynie Informacji Publicznej oraz w Biuletynie Informacji Publicznej urzędu obsługującego ministra.
 
 9. Szczegółowe zadania i organizację Centrum określa regulamin organizacyjny nadany przez Sekretarza za zgodą Prezydium Akademii.
 
@@ -327,11 +326,11 @@ o Akademii Kopernikańskiej
 
 8. Szczegółowy sposób przeprowadzania konkursu, o którym mowa w ust. 3, określa Sekretarz w regulaminie konkursu zatwierdzonym przez ministra.
 
-9. Informację o naborze na stanowisko Dyrektora Biura Akademii ogłasza się przez umieszczenie informacji o konkursie wraz z regulaminem konkursu, w miejscu powszechnie dostępnym w siedzibie Biura Akademii, na stronie podmiotowej Akademii w Biuletynie Informacji Publicznej oraz Biuletynie Informacji Publicznej Kancelarii Prezesa Rady Ministrów.
+9. Informację o naborze na stanowisko Dyrektora Biura Akademii ogłasza się przez umieszczenie informacji o konkursie wraz z regulaminem konkursu, w miejscu powszechnie dostępnym w siedzibie Biura Akademii, na stronie podmiotowej Akademii w Biuletynie Informacji Publicznej oraz w Biuletynie Informacji Publicznej urzędu obsługującego ministra.
 
 10. Zadania i organizację Biura Akademii określa regulamin organizacyjny uchwalony przez Prezydium Akademii na wniosek Sekretarza.
 
-11. W zakresie nieuregulowanym w ustawie do pracowników Biura Akademii stosuje się odpowiednio przepisy ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych (Dz. U. z 2020 r. poz. 537 oraz z 2021 r. poz. 2447 i 2448), a w zakresie nieuregulowanym także w tej ustawie przepisy ustawy z dnia 26 czerwca 1974 r. Kodeks pracy.
+11. W zakresie nieuregulowanym w ustawie do pracowników Biura Akademii stosuje się odpowiednio przepisy ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych (Dz. U. z 2023 r. poz. 1917), a w zakresie nieuregulowanym także w tej ustawie – przepisy ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
 
 #### Rozdział 5 Mienie Akademii
 
@@ -368,7 +367,7 @@ o Akademii Kopernikańskiej
     - **b)** Biura Akademii i Centrum oraz upowszechnianie i promocję Programu;
 
 - **2)** dotacje celowe na:
-    - **a)** finansowanie: inwestycji realizowanych przez Biuro Akademii, Stypendiów Kopernikańskich, Grantów Mikołaja Kopernika, zadań związanych ze wspieraniem Szkoły, Nagród Kopernikańskich, Światowego Kongresu Kopernikańskiego,
+    - **a)** finansowanie: – inwestycji realizowanych przez Biuro Akademii, – Stypendiów Kopernikańskich, – Grantów Mikołaja Kopernika, – zadań związanych ze wspieraniem Szkoły, – Nagród Kopernikańskich, – Światowego Kongresu Kopernikańskiego,
     - **b)** realizację zadań Ambasadorów Akademii,
     - **c)** wkład własny w realizowanych przez Akademię programach z udziałem środków pochodzących z budżetu Unii Europejskiej i niepodlegających zwrotowi środków pochodzących ze źródeł zagranicznych, w tym z pomocy udzielanej przez państwa członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA);
 
@@ -423,7 +422,7 @@ o Akademii Kopernikańskiej
 
 - **1)** stypendia na prowadzenie badań naukowych lub prac rozwojowych,
 - **2)** dofinansowanie projektów badawczych,
-- **3)** stypendia lub dofinansowanie zagranicznych staży badawczych realizowanych przez młodych naukowców w rozumieniu art. 360 ust. 2 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce.
+- **3)** stypendia lub dofinansowanie zagranicznych staży badawczych – realizowanych przez młodych naukowców w rozumieniu art. 360 ust. 2 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce.
 
 2. Centrum przyznaje Granty Mikołaja Kopernika naukowcom o uznanej pozycji międzynarodowej, realizującym ważne projekty badawcze.
 
@@ -445,7 +444,7 @@ o Akademii Kopernikańskiej
 
 5. Osoby, o których mowa w ust. 3, otrzymują wynagrodzenie za prace wykonane w zespole ekspertów, o których mowa w ust. 1. Wysokość wynagrodzenia ustala Dyrektor Centrum, uwzględniając liczbę dokonanych ocen.
 
-6. Osobom, o których mowa w ust. 3, przysługuje zwrot diet, kosztów podróży oraz zakwaterowania na warunkach określonych w przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy.
+6. Osobom, o których mowa w ust. 3, przysługuje zwrot diet, kosztów podróży oraz zakwaterowania na warunkach określonych w przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
 
 7. W skład zespołu ekspertów nie mogą wchodzić osoby przystępujące do konkursu na finansowanie Stypendiów Kopernikańskich lub Grantów Mikołaja Kopernika, osoby będące małżonkami tych osób, ich krewnymi albo powinowatymi do drugiego stopnia włącznie albo pozostające wobec nich w takim stosunku prawnym lub faktycznym, że może to budzić uzasadnione wątpliwości co do ich bezstronności.
 
@@ -459,7 +458,7 @@ o Akademii Kopernikańskiej
 
 3. Sekretarz rozpatruje odwołanie w terminie miesiąca od dnia jego wniesienia.
 
-4. Do postępowań w sprawach finansowania Stypendiów Kopernikańskich oraz Grantów Mikołaja Kopernika stosuje się odpowiednio przepisy ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2021 r. poz. 735, 1491 i 2052 oraz z 2022 r. poz. 1301), z wyłączeniem art. 13, art. 14, art. 31, art. 56, art. 61 § 4, art. 75–103, art. 114–122 oraz art. 123.
+4. Do postępowań w sprawach finansowania Stypendiów Kopernikańskich oraz Grantów Mikołaja Kopernika stosuje się odpowiednio przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803), z wyłączeniem art. 13, art. 14, art. 31, art. 56, art. 61 § 4, art. 75–103, art. 114–122 oraz art. 123.
 
 **Art. 35.**
 
@@ -497,7 +496,7 @@ o Akademii Kopernikańskiej
 
 2. Szkoła prowadzi kształcenie w ramach studiów pierwszego stopnia, studiów drugiego stopnia lub jednolitych studiów magisterskich, a także może prowadzić kształcenie w ramach szkół doktorskich.
 
-3. Szkoła w zakresie kształcenia, o którym mowa w ust. 2, może współpracować z innymi uczelniami oraz podmiotami, o których mowa w art. 7 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce, wyłonionymi w drodze konkursu.
+3. Szkoła w zakresie kształcenia, o którym mowa w ust. 2, może współpracować z innymi uczelniami oraz podmiotami, o których mowa w art. 7 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, wyłonionymi w drodze konkursu.
 
 4. Regulamin konkursu, o którym mowa w ust. 3, określa senat Szkoły w uzgodnieniu z właściwą, w zależności od zakresu współpracy, Izbą Akademii.
 
@@ -505,7 +504,7 @@ o Akademii Kopernikańskiej
 
 6. Wyboru podmiotów do współpracy, o której mowa w ust. 3, dokonuje komisja konkursowa powołana przez Sekretarza, w skład której wchodzą:
 
-- **1)** rektor Szkoły jako przewodniczący komisji konkursowej;
+- **1)** rektor Szkoły – jako przewodniczący komisji konkursowej;
 - **2)** 4 członków Akademii wybranych przez Zgromadzenie;
 - **3)** 3 przedstawicieli senatu Szkoły.
 
@@ -623,33 +622,11 @@ o Akademii Kopernikańskiej
 
 #### Rozdział 12 Przepisy zmieniające oraz dostosowujące i przepis końcowy
 
-**Art. 54.** W ustawie z dnia 31 lipca 1981 r. o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe (Dz. U. z 2022 r. poz. 1215) w art. 2 pkt 4 otrzymuje brzmienie: „4) Prezesa Polskiej Akademii Nauk, Sekretarza Akademii Kopernikańskiej, sekretarza stanu, członka Państwowej Komisji do spraw wyjaśniania przypadków czynności skierowanych przeciwko wolności seksualnej i obyczajności wobec małoletniego poniżej lat 15, członka Krajowej Rady Radiofonii i Telewizji, pierwszego zastępcy Prezesa Narodowego Banku Polskiego, podsekretarza stanu (wiceministra), wiceprezesa Narodowego Banku Polskiego, Zastępcy Rzecznika Praw Obywatelskich, Zastępcy Rzecznika Praw Dziecka, Zastępcy Prezesa Urzędu Ochrony Danych Osobowych, Zastępcy Rzecznika Finansowego, zastępcy Rzecznika Małych i Średnich Przedsiębiorców, kierownika urzędu centralnego, wiceprezesa Polskiej Akademii Nauk, wojewody, zastępcy kierownika urzędu centralnego, wicewojewody.”.
-
-**Art. 55.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2021 r. poz. 1128, z późn. zm. ) w art. 21 w ust. 1 po pkt 39f dodaje się pkt 39g w brzmieniu: „39g) przychody z tytułu nagród, stypendiów i grantów przyznawanych na podstawie ustawy z dnia 28 kwietnia 2022 r. o Akademii Kopernikańskiej (Dz. U. poz. 1459);”.
-
-**Art. 56.** W ustawie z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów (Dz. U. z 2021 r. poz. 1633) w art. 4 w pkt 44 po lit. d średnik zastępuje się przecinkiem i dodaje się lit. e w brzmieniu: „e) członek Akademii Kopernikańskiej posiadający obywatelstwo polskie oraz dyrektor Centrum Badawczego Mikołaja Kopernika i dyrektor Biura Akademii Kopernikańskiej;”.
-
-**Art. 57.** W ustawie z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym (Dz. U. z 2021 r. poz. 1933 oraz z 2022 r. poz. 807 i 872) w art. 3 w ust. 1 po pkt 9 dodaje się pkt 9a w brzmieniu: „9a) Akademia Kopernikańska;”.
-
-**Art. 58.** W ustawie z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2022 r. poz. 574, z późn. zm. ) wprowadza się następujące zmiany:
-
 **Art. 59.** Tworzy się Akademię.
 
-**Art. 60.**
+**Art. 60.** Akademia lub Szkoła mogą być wyposażone lub doposażone w mienie na zasadach określonych w dziale II w rozdziale 6 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2023 r. poz. 344, z późn. zm. ).
 
-1. Prezes Rady Ministrów, w drodze decyzji wydanej w terminie 3 miesięcy od dnia wejścia w życie niniejszej ustawy, wyposaży Akademię w mienie obejmujące własność lub inne prawa majątkowe niezbędne do prowadzenia działalności.
-
-2. Decyzja, o której mowa w ust. 1, stanowi podstawę wpisu do ksiąg wieczystych.
-
-3. Akademia przejmuje składniki majątkowe, o których mowa w ust. 1, na utworzenie funduszu statutowego.
-
-**Art. 61.**
-
-1. Prezes Rady Ministrów, w drodze decyzji wydanej w terminie 3 miesięcy od dnia wejścia w życie niniejszego przepisu, wyposaży Szkołę w mienie obejmujące własność lub inne prawa majątkowe niezbędne do prowadzenia działalności.
-
-2. Decyzja, o której mowa w ust. 1, stanowi podstawę wpisu do ksiąg wieczystych.
-
-3. Szkoła przejmuje składniki majątkowe, o których mowa w ust. 1, na utworzenie funduszu zasadniczego.
+**Art. 61.** (uchylony)
 
 **Art. 62.**
 
@@ -669,7 +646,7 @@ o Akademii Kopernikańskiej
 
 5. Sekretarza na pierwszą kadencję powołuje Prezydent Rzeczypospolitej Polskiej na wniosek ministra, na okres 2 lat.
 
-**Art. 64.** Izba Laureatów Nagrody Kopernikańskiej rozpoczyna działalność z dniem, w którym liczba laureatów Nagrody Kopernikańskiej przekroczy 10. Do tego czasu laureaci Nagrody Kopernikańskiej biorą udział w pracach Izby Akademii, z inicjatywy której otrzymali Nagrodę Kopernikańską, a w przypadku laureatów, których kandydatury zostały zgłoszone przez podmioty inne niż Izby Akademii Izby Akademii wskazanej przez Sekretarza.
+**Art. 64.** Izba Laureatów Nagrody Kopernikańskiej rozpoczyna działalność z dniem, w którym liczba laureatów Nagrody Kopernikańskiej przekroczy 10. Do tego czasu laureaci Nagrody Kopernikańskiej biorą udział w pracach Izby Akademii, z inicjatywy której otrzymali Nagrodę Kopernikańską, a w przypadku laureatów, których kandydatury zostały zgłoszone przez podmioty inne niż Izby Akademii – Izby Akademii wskazanej przez Sekretarza.
 
 **Art. 65.**
 
@@ -685,7 +662,7 @@ o Akademii Kopernikańskiej
 
 3. Pierwszego rektora Szkoły powołuje minister. Kadencja pierwszego rektora kończy się w dniu 31 sierpnia 2024 r.
 
-4. Kadencji rektora, o której mowa w ust. 3, nie wlicza się do kadencji, o której mowa w art. 26 ust. 2 zdanie pierwsze ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce.
+4. Kadencji rektora, o której mowa w ust. 3, nie wlicza się do kadencji, o której mowa w art. 26 ust. 2 zdanie pierwsze ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce.
 
 5. Rektor Szkoły zarządza wybory do senatu Szkoły. Wybory do senatu Szkoły odbędą się nie później niż do dnia 1 czerwca 2023 r.
 
@@ -693,13 +670,13 @@ o Akademii Kopernikańskiej
 
 7. Pierwsza kadencja senatu Szkoły trwa do 31 sierpnia 2024 r.
 
-8. Kadencji członków senatu, o której mowa w ust. 7, nie wlicza się do kadencji, o której mowa w art. 30 ust. 2 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce.
+8. Kadencji członków senatu, o której mowa w ust. 7, nie wlicza się do kadencji, o której mowa w art. 30 ust. 2 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce.
 
 **Art. 66.** Szkoła niezależnie od przyznanych kategorii naukowych posiada status uczelni akademickiej, nie dłużej jednak niż do dnia 31 sierpnia 2027 r.
 
 **Art. 67.** Do dnia 31 grudnia 2023 r. utworzenie przez Szkołę studiów na kierunku przyporządkowanym do dyscyplin naukowych filozofia lub ekonomia i finanse, jako dyscyplin wiodących, nie wymaga pozwolenia.
 
-**Art. 68.** Szkole przysługują uprawnienia podmiotu posiadającego kategorię naukową B+, o której mowa w ustawie z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce, niezależnie od spełniania wskazanych w tej ustawie warunków, w dyscyplinach naukowych astronomia, nauki medyczne, filozofia, nauki teologiczne, nauki prawne oraz ekonomia i finanse, nie dłużej jednak niż do dnia 31 sierpnia 2027 r.
+**Art. 68.** Szkole przysługują uprawnienia podmiotu posiadającego kategorię naukową B+, o której mowa w ustawie z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, niezależnie od spełniania wskazanych w tej ustawie warunków, w dyscyplinach naukowych astronomia, nauki medyczne, filozofia, nauki teologiczne, nauki prawne oraz ekonomia i finanse, nie dłużej jednak niż do dnia 31 sierpnia 2027 r.
 
 **Art. 69.** Pierwszą Nagrodę Kopernikańską przyznaje się w roku 2023.
 
@@ -731,16 +708,16 @@ o Akademii Kopernikańskiej
     - **d)** informacje o rozmieszczeniu służb porządkowych oraz służb informacyjnych, rozmieszczeniu osób uczestniczących w poszczególnych wydarzeniach,
     - **e)** oznaczenie stref szczególnych podlegających wzmocnionej ochronie oraz opis sposobu ich zabezpieczenia;
 
-- **3)** instrukcję postępowania w przypadku pożaru lub innego miejscowego zagrożenia w miejscu i czasie poszczególnych wydarzeń w ramach pierwszego Kongresu, spełniającą wymagania określone w przepisach wydanych na podstawie art. 6 ust. 5 ustawy z dnia 20 marca 2009 r. o bezpieczeństwie imprez masowych (Dz. U. z 2019 r. poz. 2171 oraz z 2021 r. poz. 2490);
+- **3)** instrukcję postępowania w przypadku pożaru lub innego miejscowego zagrożenia w miejscu i czasie poszczególnych wydarzeń w ramach pierwszego Kongresu, spełniającą wymagania określone w przepisach wydanych na podstawie art. 6 ust. 5 ustawy z dnia 20 marca 2009 r. o bezpieczeństwie imprez masowych (Dz. U. z 2022 r. poz. 1466 i 1700);
 - **4)** informację o:
     - **a)** liczbie miejsc, w tym stojących, dla osób uczestniczących w poszczególnych wydarzeniach w ramach pierwszego Kongresu,
     - **b)** przewidywanych zagrożeniach bezpieczeństwa i porządku publicznego,
     - **c)** liczbie, organizacji, oznakowaniu i wyposażeniu służby porządkowej oraz służby informacyjnej;
 
 - **5)** imię i nazwisko osoby wyznaczonej do kontaktów z:
-    - **a)** Policją w zakresie zapewnienia bezpieczeństwa i porządku publicznego,
-    - **b)** Państwową Strażą Pożarną w zakresie zapewnienia bezpieczeństwa pożarowego,
-    - **c)** Agencją Bezpieczeństwa Wewnętrznego w zakresie zapewnienia bezpieczeństwa antyterrorystycznego;
+    - **a)** Policją – w zakresie zapewnienia bezpieczeństwa i porządku publicznego,
+    - **b)** Państwową Strażą Pożarną – w zakresie zapewnienia bezpieczeństwa pożarowego,
+    - **c)** Agencją Bezpieczeństwa Wewnętrznego – w zakresie zapewnienia bezpieczeństwa antyterrorystycznego;
 
 - **6)** informację o sposobie zapewnienia identyfikacji uczestników oraz innych osób biorących udział w pierwszym Kongresie;
 - **7)** szczegółowy podział zadań służb i innych podmiotów zaangażowanych w zapewnienie bezpieczeństwa i porządku publicznego;
@@ -771,13 +748,13 @@ o Akademii Kopernikańskiej
 
 5. Przez gotowość do udzielania zwiększonej liczby świadczeń opieki zdrowotnej, o której mowa w ust. 2 pkt 1, rozumie się zapewnienie przez podmiot wykonujący działalność leczniczą zwiększonej liczby: osób wykonujących zawód medyczny, produktów leczniczych, wyrobów medycznych oraz sprzętu i aparatury medycznej, niezbędnych do wykonywania zadań zabezpieczenia medycznego pierwszego Kongresu.
 
-6. Zawarcie umowy, o której mowa w ust. 3, nie stanowi i nie narusza, w zakresie określonym w ust. 2 pkt 1 i 2, wykonywania umowy o udzielanie świadczeń opieki zdrowotnej zawartej zgodnie z przepisami ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2021 r. poz. 1285, z późn. zm. ) ani zasad finansowania świadczeń opieki zdrowotnej określonych w tej ustawie albo w przepisach odrębnych.
+6. Zawarcie umowy, o której mowa w ust. 3, nie stanowi i nie narusza, w zakresie określonym w ust. 2 pkt 1 i 2, wykonywania umowy o udzielanie świadczeń opieki zdrowotnej zawartej zgodnie z przepisami ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2022 r. poz. 2561, 2674 i 2770) ani zasad finansowania świadczeń opieki zdrowotnej określonych w tej ustawie albo w przepisach odrębnych.
 
 **Art. 73.**
 
 1. W celu zapewnienia bezpieczeństwa i porządku publicznego podczas pierwszego Kongresu, a także w celu zapobieżenia popełnianiu przestępstw i wykroczeń oraz wykrywania i ścigania ich sprawców, Policja może przetwarzać informacje, w tym dane osobowe, dotyczące osób zarejestrowanych jako uczestnicy pierwszego Kongresu, osób uczestniczących w wydarzeniach towarzyszących lub osób współpracujących przy ich organizacji, także bez wiedzy i zgody osób, których dotyczą te informacje, w terminie do 90 dni od dnia zakończenia pierwszego Kongresu.
 
-2. Przetwarzanie przez Policję informacji, w tym danych osobowych, o których mowa w ust. 1, odbywa się na zasadach określonych w przepisach ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2021 r. poz. 1882, 2333, 2447 i 2448 oraz z 2022 r. poz. 655 i 1115), ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2019 r. poz. 125), ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2019 r. poz. 742 oraz z 2022 r. poz. 655), a także w umowach międzynarodowych, których Rzeczpospolita Polska jest stroną.
+2. Przetwarzanie przez Policję informacji, w tym danych osobowych, o których mowa w ust. 1, odbywa się na zasadach określonych w przepisach ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2023 r. poz. 171, z późn. zm. ), ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2019 r. poz. 125 oraz z 2022 r. poz. 1700), ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2023 r. poz. 756), a także w umowach międzynarodowych, których Rzeczpospolita Polska jest stroną.
 
 3. W przypadku uzyskania informacji, w tym danych osobowych, o których mowa w ust. 1, od innego organu, służby lub instytucji Policja, w celu zapewnienia bezpieczeństwa i porządku publicznego podczas pierwszego Kongresu, a także w celu zapobieżenia popełnianiu przestępstw i wykroczeń oraz wykrywania i ścigania ich sprawców, udostępnia je innym organom, służbom i instytucjom po uzyskaniu zgody tego organu, służby lub instytucji, od których uzyskała informacje. Organ, służba lub instytucja udziela zgody, jeżeli udostępnienie informacji nie utrudni lub nie uniemożliwi realizowania przez nie zadań.
 
@@ -796,11 +773,11 @@ o Akademii Kopernikańskiej
 
 **Art. 75.** W celu realizacji zadań, o których mowa w art. 73, Policja może dokonać, na wniosek Wojewody Kujawsko-Pomorskiego lub organizatora pierwszego Kongresu, sprawdzenia osoby współpracującej przy organizacji pierwszego Kongresu w zakresie możliwości stwarzania przez nią zagrożenia dla bezpieczeństwa i porządku publicznego podczas pierwszego Kongresu, z tym że sprawdzenia tej osoby w zakresie stwarzania przez nią zagrożenia o charakterze terrorystycznym dokonuje Agencja Bezpieczeństwa Wewnętrznego na wniosek Policji.
 
-**Art. 76.** W okresie od 72 godzin przed rozpoczęciem pierwszego Kongresu do 48 godzin po zakończeniu pierwszego Kongresu na terenie miasta Torunia zabrania się uczestniczenia w zgromadzeniach spontanicznych, o których mowa w art. 3 ust. 2 ustawy z dnia 24 lipca 2015 r. Prawo o zgromadzeniach (Dz. U. z 2022 r. poz. 1389).
+**Art. 76.** W okresie od 72 godzin przed rozpoczęciem pierwszego Kongresu do 48 godzin po zakończeniu pierwszego Kongresu na terenie miasta Torunia zabrania się uczestniczenia w zgromadzeniach spontanicznych, o których mowa w art. 3 ust. 2 ustawy z dnia 24 lipca 2015 r. – Prawo o zgromadzeniach (Dz. U. z 2022 r. poz. 1389).
 
-**Art. 77.** W celu zapewnienia prawidłowej realizacji zadań związanych z organizacją pierwszego Kongresu, Wojewoda Kujawsko-Pomorski może, po uzyskaniu zgody ministra właściwego do spraw finansów publicznych, dokonać przeniesienia wydatków między działami klasyfikacji budżetowej w ramach części budżetowej, której jest dysponentem, z uwzględnieniem przepisów art. 171 ust. 2, 2a, 7 i 8 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2021 r. poz. 305, z późn. zm. ), z zastrzeżeniem art. 194 tej ustawy.
+**Art. 77.** W celu zapewnienia prawidłowej realizacji zadań związanych z organizacją pierwszego Kongresu, Wojewoda Kujawsko-Pomorski może, po uzyskaniu zgody ministra właściwego do spraw finansów publicznych, dokonać przeniesienia wydatków między działami klasyfikacji budżetowej w ramach części budżetowej, której jest dysponentem, z uwzględnieniem przepisów art. 171 ust. 2, 2a, 7 i 8 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2022 r. poz. 1634, z późn. zm. ), z zastrzeżeniem art. 194 tej ustawy.
 
 **Art. 78.** W celu realizacji ustawy Prezes Rady Ministrów może, w drodze rozporządzenia, dokonywać przeniesienia planowanych dochodów i wydatków, w tym wynagrodzeń, między częściami, działami i rozdziałami budżetu państwa, z zachowaniem przeznaczenia środków publicznych wynikającego z ustawy budżetowej, a do czasu jego wejścia w życie dochody i wydatki mogą być realizowane w ramach dotychczasowych części, działów i rozdziałów.
 
-**Art. 79.** Ustawa wchodzi w życie z dniem 1 września 2022 r., z wyjątkiem art. 36–42, art. 61 i art. 65–68, które wchodzą w życie z dniem 1 marca 2023 r. Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 79.** Ustawa wchodzi w życie z dniem 1 września 2022 r., z wyjątkiem art. 36–42, art. 61 i art. 65–68, które wchodzą w życie z dniem 1 marca 2023 r.
 

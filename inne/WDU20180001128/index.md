@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# Warszawa, 12 czerwca 2018 Poz.
+# zmianie świadczeniach opieki zdrowotnej finansowanych ze środków publicznych niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,19 +24,17 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001128) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1128/text.pdf) |
 
-USTAWA 12 kwietnia 2018 zmianie ustawy świadczeniach opieki finansowanych ze środków publicznych niektórych innych ustaw
+**Art. 1.** W ustawie dnia 27 sierpnia 2004 świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. 2017 poz. 1938, późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 1.** W ustawie 27 sierpnia 2004 świadczeniach opieki finansowanych ze środków publicznych (Dz. U. 2017 poz. 1938, późn. zm. ) wprowadza się następujące zmiany:
-
-**Art. 3.** W ustawie 21 lipca 2016 zmianie ustawy świadczeniach opieki finansowanych ze środków publicznych niektórych innych ustaw (Dz. U. poz. 1355) 6 otrzymuje „Art. 6. 1. W latach 2018–2027 maksymalny limit wydatków budżetu państwa, będących konsekwencją wejścia życie niniejszej ustawy, wynosi 72 238 254,00 zł, przy czym kolejnych latach wyniesie maksymalnie:
+**Art. 2.** W ustawie dnia 15 kwietnia 2011 działalności leczniczej (Dz. U. 2018 poz. 160, 138 i 650) art. 115 po 4 dodaje się 4a i 4b brzmieniu: „4a. Podmiot leczniczy może uzyskać dotację od podmiotów, których 4, wyłącznie na realizację zadania, którym art. 114 2 i 3, dla którego została wydana pozytywna opinia, której art. 95d dnia 27 sierpnia 2004 świadczeniach opieki zdrowotnej finansowanych ze środków publicznych. 4b. Podmiot leczniczy ubiegający się dotację, której 4, przedkłada właściwemu organowi pozytywną opinię, której art. 95d dnia 27 sierpnia 2004 świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, wraz wnioskiem dotację.”.
 
 **Art. 4.**
 
-1. Do postępowań wydanie opinii, której mowa 95d ustawy zmienianej wszczętych i niezakończonych przed dniem wejścia życie niniejszej ustawy, i protestów, których mowa 95i ustawy zmienianej sprawie negatywnych opinii celowości wydanych tych postępowaniach, stosuje się przepisy dotychczasowe.
+1. Do postępowań wydanie opinii, której art. 95d zmienianej art. 1, wszczętych i niezakończonych przed dniem wejścia życie niniejszej ustawy, i protestów, których art. 95i zmienianej art. 1, sprawie negatywnych opinii celowości inwestycji wydanych tych postępowaniach, stosuje się przepisy dotychczasowe.
 
-2. Do postępowań sprawie dotacji, której mowa 115 3 ustawy zmienianej 2, realizację zadań, których mowa 114 pkt 2 i 3 tej ustawy, wszczętych i niezakończonych przed dniem wejścia życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
+2. Do postępowań sprawie dotacji, której art. 115 3 zmienianej art. 2, na realizację zadań, których art. 114 2 i 3 tej ustawy, wszczętych i niezakończonych przed dniem wejścia życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
 
-**Art. 5.** Dotychczasowe przepisy wykonawcze wydane podstawie 95h ustawy zmienianej zachowują moc wejścia życie przepisów wykonawczych wydanych podstawie 95h ustawy zmienianej brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 12 miesięcy od wejścia życie niniejszej ustawy.
+**Art. 5.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 95h zmienianej art. zachowują moc dnia wejścia życie przepisów wykonawczych wydanych na podstawie art. 95h zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 12 miesięcy od dnia wejścia życie niniejszej ustawy.
 
-**Art. 6.** Ustawa wchodzi życie po upływie 30 dni od ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 6.** Ustawa wchodzi życie po upływie 30 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
 

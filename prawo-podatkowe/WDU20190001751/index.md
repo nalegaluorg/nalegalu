@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 13 września 2019 r.
+# o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw
+
+*USTAWA z dnia 9 sierpnia 2019 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,9 +26,6 @@ domain: null
 | Ostatnia zmiana | 2024-04-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001751) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1751/text.pdf) |
 
-USTAWA z dnia 9 sierpnia 2019 r.
-o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw
-
 **Art. 1.** W ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2018 r. poz. 2174, z późn. zm. ) wprowadza się następujące zmiany:
 
 **Art. 42a.** Wiążąca informacja stawkowa, zwana dalej „WIS”, jest decyzją wydawaną na potrzeby opodatkowania podatkiem dostawy towarów, importu towarów, wewnątrzwspólnotowego nabycia towarów albo świadczenia usług, która zawiera:
@@ -37,7 +36,7 @@ o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw
 
 - **1)** podatnika posiadającego numer identyfikacji podatkowej;
 - **2)** podmiotu innego niż wymieniony w pkt 1, dokonującego lub zamierzającego dokonywać czynności, o których mowa w art. 42a;
-- **3)** zamawiającego w rozumieniu ustawy z dnia 29 stycznia 2004 r. Prawo zamówień publicznych (Dz. U. z 2018 r. poz. 1986 i 2215 oraz z 2019 r. poz. 53, 730 i 1655) w zakresie mającym wpływ na sposób obliczenia ceny w związku z udzielanym zamówieniem publicznym.
+- **3)** zamawiającego w rozumieniu ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2018 r. poz. 1986 i 2215 oraz z 2019 r. poz. 53, 730 i 1655) – w zakresie mającym wpływ na sposób obliczenia ceny w związku z udzielanym zamówieniem publicznym.
 
 2. Wniosek o wydanie WIS zawiera:
 
@@ -46,7 +45,7 @@ o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw
 - **3)** określenie przedmiotu wniosku, w tym:
     - **a)** szczegółowy opis towaru lub usługi, pozwalający na taką ich identyfikację, aby dokonać ich klasyfikacji zgodnej z Nomenklaturą scaloną (CN), Polską Klasyfikacją Wyrobów i Usług lub Polską Klasyfikacją Obiektów Budowlanych,
     - **b)** wskazanie klasyfikacji, według której mają być klasyfikowane towar lub usługa,
-    - **c)** wskazanie przepisów ustawy lub przepisów wykonawczych wydanych na jej podstawie w przypadku, o którym mowa w ust. 4;
+    - **c)** wskazanie przepisów ustawy lub przepisów wykonawczych wydanych na jej podstawie – w przypadku, o którym mowa w ust. 4;
 
 - **4)** informacje dotyczące opłaty należnej od wniosku.
 
@@ -80,7 +79,7 @@ o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw
 3. W przypadku:
 
 - **1)** czynności, o której mowa w art. 42a, dokonanej po dniu, w którym WIS została zamieszczona w Biuletynie Informacji Publicznej organu wydającego WIS, do podmiotu innego niż podmiot, o którym mowa w ust. 1,
-- **2)** zastosowania na potrzeby podatku klasyfikacji towaru według Nomenklatury scalonej (CN), określonej dla tego towaru w wiążącej informacji akcyzowej przepisy art. 14k–14m Ordynacji podatkowej stosuje się odpowiednio.
+- **2)** zastosowania na potrzeby podatku klasyfikacji towaru według Nomenklatury scalonej (CN), określonej dla tego towaru w wiążącej informacji akcyzowej – przepisy art. 14k–14m Ordynacji podatkowej stosuje się odpowiednio.
 
 **Art. 42d.**
 
@@ -92,13 +91,13 @@ o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw
 
 4. Opłata za wniosek o wydanie WIS podlega zwrotowi:
 
-- **1)** w całości w przypadku wycofania wniosku;
-- **2)** w części przekraczającej należną wysokość w przypadku uiszczenia jej w wysokości wyższej od należnej.
+- **1)** w całości – w przypadku wycofania wniosku;
+- **2)** w części przekraczającej należną wysokość – w przypadku uiszczenia jej w wysokości wyższej od należnej.
 
 5. Zwrotu opłaty za wniosek o wydanie WIS dokonuje się nie później niż w terminie 30 dni od dnia:
 
 - **1)** wycofania wniosku;
-- **2)** zakończenia postępowania w sprawie wydania WIS w przypadku, o którym mowa w ust. 4 pkt 2.
+- **2)** zakończenia postępowania w sprawie wydania WIS – w przypadku, o którym mowa w ust. 4 pkt 2.
 
 **Art. 42e.**
 
@@ -112,7 +111,7 @@ o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw
 
 5. Wysokość opłaty, o której mowa w ust. 1, i termin jej uiszczenia są określane przez organ wydający WIS w drodze postanowienia, na które przysługuje zażalenie.
 
-6. Wysokość opłaty, o której mowa w ust. 1, powinna odpowiadać rzeczywistym wydatkom poniesionym z tytułu przeprowadzonych badań lub analiz. W przypadku gdy badania lub analizy są przeprowadzane przez laboratoria jednostek organizacyjnych Krajowej Administracji Skarbowej, wysokość opłaty, o której mowa w ust. 1, powinna odpowiadać ryczałtowym stawkom opłat określonym w przepisach wydanych na podstawie art. 92 ust. 4 ustawy z dnia 19 marca 2004 r. Prawo celne, jeżeli stawki te zostały określone w tych przepisach.
+6. Wysokość opłaty, o której mowa w ust. 1, powinna odpowiadać rzeczywistym wydatkom poniesionym z tytułu przeprowadzonych badań lub analiz. W przypadku gdy badania lub analizy są przeprowadzane przez laboratoria jednostek organizacyjnych Krajowej Administracji Skarbowej, wysokość opłaty, o której mowa w ust. 1, powinna odpowiadać ryczałtowym stawkom opłat określonym w przepisach wydanych na podstawie art. 92 ust. 4 ustawy z dnia 19 marca 2004 r. – Prawo celne, jeżeli stawki te zostały określone w tych przepisach.
 
 7. W przypadku gdy kwota zaliczki uiszczonej na pokrycie opłaty, o której mowa w ust. 1, jest wyższa niż kwota opłaty określona w postanowieniu wydanym na podstawie ust. 5, a także w przypadku gdy opłata jest nienależna, zwrot kwoty nienależnej następuje w terminie 30 dni od dnia zakończenia postępowania w sprawie wydania WIS.
 
@@ -134,10 +133,10 @@ o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw
 
 - **1)** przyjęcia zmiany w Nomenklaturze scalonej (CN);
 - **2)** przyjęcia przez Komisję Europejską środków w celu określenia klasyfikacji taryfowej towarów;
-- **3)** utraty zgodności z interpretacją Nomenklatury scalonej (CN) wynikającą z: (Dz. U. z 1978 r. poz. 43);
-    - **a)** not wyjaśniających, o których mowa w art. 9 ust. 1 lit. a tiret drugie rozporządzenia Rady (EWG) nr 2658/87 z dnia 23 lipca 1987 r. w sprawie nomenklatury taryfowej i statystycznej oraz w sprawie Wspólnej Taryfy Celnej,
+- **3)** utraty zgodności z interpretacją Nomenklatury scalonej (CN) wynikającą z: w sprawie nomenklatury taryfowej i statystycznej oraz w sprawie Wspólnej Taryfy Celnej, z 1978 r. poz. 43);
+    - **a)** not wyjaśniających, o których mowa w art. 9 ust. 1 lit. a tiret drugie rozporządzenia Rady (EWG) nr 2658/87 z dnia 23 lipca 1987 r.
     - **b)** wyroku Trybunału Sprawiedliwości Unii Europejskiej,
-    - **c)** decyzji klasyfikacyjnych, opinii klasyfikacyjnych lub zmian not wyjaśniających do Nomenklatury Zharmonizowanego Systemu Oznaczania i Kodowania Towarów, przyjętej przez organizację ustanowioną na podstawie Konwencji o utworzeniu Rady Współpracy Celnej, sporządzonej w Brukseli dnia 15 grudnia 1950 r.
+    - **c)** decyzji klasyfikacyjnych, opinii klasyfikacyjnych lub zmian not wyjaśniających do Nomenklatury Zharmonizowanego Systemu Oznaczania i Kodowania Towarów, przyjętej przez organizację ustanowioną na podstawie Konwencji o utworzeniu Rady Współpracy Celnej, sporządzonej w Brukseli dnia 15 grudnia 1950 r. (Dz. U.
 
 - **4)** błędu wykładni lub niewłaściwej oceny co do zastosowania przepisu prawa materialnego.
 
@@ -151,9 +150,7 @@ o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw
 
 2. Zwrot kosztów, o których mowa w ust. 1, przysługuje do wysokości kosztów wynikających z wykorzystywania rachunków, o których mowa w art. 108e, oraz prowadzonych dla nich rachunków VAT do celów obowiązkowego stosowania mechanizmu podzielonej płatności, o którym mowa w art. 108a ust. 1a.
 
-3. Wniosek o zwrot kosztów może być składany za okresy kwartalne, półroczne lub roczne w terminie do
-
-25. dnia miesiąca następującego po okresie, za który składany jest wniosek.
+3. Wniosek o zwrot kosztów może być składany za okresy kwartalne, półroczne lub roczne w terminie do 25. dnia miesiąca następującego po okresie, za który składany jest wniosek.
 
 4. We wniosku o zwrot kosztów określa się kwotę, o którą ubiega się podatnik, oraz numer rachunku rozliczeniowego lub numer imiennego rachunku w spółdzielczej kasie oszczędnościowo-kredytowej, na który ma zostać dokonany zwrot kosztów.
 
@@ -169,9 +166,12 @@ o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw
 
 10. W zakresie nieuregulowanym w ust. 1–9 do wniosków o zwrot kosztów stosuje się odpowiednio przepisy działu IV Ordynacji podatkowej.”;
 
-- **24)** w art. 113 w ust. 13 w pkt 1 w lit. b w tiret pierwszym wyrazy „(PKWiU 35.11.10.0)” zastępuje się wyrazami „(CN 2716 00 00)”;
+- **24)** w art. 113 w ust. 13 w pkt 1 w lit. b w tiret pierwszym wyrazy „(PKWiU
+
+35. 11.10.0)” zastępuje się wyrazami „(CN 2716 00 00)”;
+
 - **25)** w art. 120 w ust. 1:
-    - **a)** w pkt 1: w lit. a skreśla się wyrazy „ , (PKWiU ex 90.03.13.0)”, w lit. b skreśla się wyrazy „ , (PKWiU ex 90.03.13.0)”, w lit. c skreśla się wyrazy „ , (PKWiU ex 90.03.13.0)”, lit. d otrzymuje brzmienie: „d) gobeliny (CN 5805 00 00) oraz tkaniny ścienne (CN 6304) wykonane ręcznie na podstawie oryginalnych wzorów dostarczonych przez artystę, pod warunkiem że ich liczba jest ograniczona do 8 egzemplarzy,”,
+    - **a)** w pkt 1: – w lit. a skreśla się wyrazy „ , (PKWiU ex 90.03.13.0)”, – w lit. b skreśla się wyrazy „ , (PKWiU ex 90.03.13.0)”, – w lit. c skreśla się wyrazy „ , (PKWiU ex 90.03.13.0)”, – lit. d otrzymuje brzmienie: „d) gobeliny (CN 5805 00 00) oraz tkaniny ścienne (CN 6304) wykonane ręcznie na podstawie oryginalnych wzorów dostarczonych przez artystę, pod warunkiem że ich liczba jest ograniczona do 8 egzemplarzy,”,
     - **b)** w pkt 4 skreśla się wyrazy „ , (PKWiU 24.41.10.0, 24.41.20.0, ex 24.41.30.0, ex 32.12.11.0, ex 32.12.12.0 i 38.11.58.0)”;
 
 - **26)** uchyla się załącznik nr 2 do ustawy;
@@ -182,62 +182,64 @@ o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw
 - **31)** uchyla się załączniki nr 13 i 14 do ustawy;
 - **32)** dodaje się załącznik nr 15 do ustawy w brzmieniu określonym w załączniku nr 4 do niniejszej ustawy.
 
-**Art. 2.** W ustawie z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2019 r. poz. 900, z późn. zm. ) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2019 r. poz. 900, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 3.** W ustawie z dnia 29 sierpnia 1997 r. Prawo bankowe (Dz. U. z 2018 r. poz. 2187, z późn. zm. ) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2018 r. poz. 2187, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 4.** W ustawie z dnia 10 września 1999 r. Kodeks karny skarbowy (Dz. U. z 2018 r. poz. 1958, z późn. zm. ) wprowadza się następujące zmiany:
+**Art. 4.** W ustawie z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. z 2018 r. poz. 1958, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 5.** W ustawie z dnia 16 listopada 2006 r. o opłacie skarbowej (Dz. U. z 2019 r. poz. 1000, 1495 i 1556) w załączniku do ustawy w części I ust. 17 otrzymuje brzmienie: „ 17. Zgoda wydawana przez organ podatkowy 30 zł zgoda wydana na podstawie art. 108b na podstawie przepisów prawa podatko- ust. 1 ustawy z dnia 11 marca 2004 r. wego o podatku od towarów i usług (Dz. U. z 2018 r. poz. 2174, z późn. zm. ) ”.
+**Art. 5.** W ustawie z dnia 16 listopada 2006 r. o opłacie skarbowej (Dz. U. z 2019 r. poz. 1000, 1495 i 1556) w załączniku do ustawy w części I ust. 17 otrzymuje brzmienie: „ 17. Zgoda wydawana przez organ podatkowy na podstawie przepisów prawa podatkowego 30 zł zgoda wydana na podstawie art. 108b ust. 1 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2018 r. poz. 2174, z późn. zm. )
 
 **Art. 6.** W ustawie z dnia 12 kwietnia 2019 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw (Dz. U. poz. 1018 i 1520) wprowadza się następujące zmiany:
 
 **Art. 7.**
 
-1. Przepisy art. 2 pkt 15, 20, 21 i 30, art. 5a, art. 19a ust. 5 pkt 3 lit. b i c i pkt 4 lit. b tiret drugie, art. 29a ust. 15 pkt 3, art. 41 ust. 2, 2a, 12, 12c–12f, 13 i ust. 14e pkt 3, art. 43 ust. 20, art. 83 ust. 1 pkt 1, 14 i 15, art. 113 ust. 13 pkt 1 lit. b tiret pierwsze i art. 120 ust. 1 pkt 1 lit. a–d i pkt 4 ustawy zmienianej w art. 1 oraz załączników nr 3, 10 i 12 do ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się od dnia 1 kwietnia 2020 r., z zastrzeżeniem ust. 3.
+1. Przepisy art. 2 pkt 15, 20, 21 i 30, art. 5a, art. 19a ust. 5 pkt 3 lit. b i c i pkt 4 lit. b tiret drugie, art. 29a ust. 15 pkt 3, art. 41 ust. 2, 2a, 12, 12c–12f, 13 i ust. 14e pkt 3, art. 43 ust. 20, art. 83 ust. 1 pkt 1, 14 i 15, art. 113 ust. 13 pkt 1 lit. b tiret pierwsze i art. 120 ust. 1 pkt 1 lit. a–d i pkt 4 ustawy zmienianej w art. 1 oraz załączników nr 3, 10 i 12 do ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się od dnia 1 lipca 2020 r., z zastrzeżeniem ust. 3.
 
-2. W okresie od dnia 1 listopada 2019 r. do dnia 31 marca 2020 r. przepisy art. 2 pkt 15, 20, 21 i 30, art. 5a, art. 19a ust. 5 pkt 3 lit. b i c i pkt 4 lit. b tiret drugie, art. 29a ust. 15 pkt 3, art. 41 ust. 2, 2a, 12, 12c, 13 i ust. 14e pkt 3, art. 43 ust. 20, art. 83 ust. 1 pkt 1, 2, 14 i 15, art. 113 ust. 13 pkt 1 lit. b tiret pierwsze i art. 120 ust. 1 pkt 1 lit. a–d i pkt 4 ustawy zmienianej w art. 1 oraz załącznika nr 2, załącznika nr 3, z wyłączeniem poz. 72–75, załącznika nr 10, z wyłączeniem poz. 32–35, oraz załącznika nr 12 do ustawy zmienianej w art. 1 stosuje się w brzmieniu dotychczasowym.
+2. W okresie od dnia 1 listopada 2019 r. do dnia 30 czerwca 2020 r. przepisy art. 2 pkt 15, 20, 21 i 30, art. 5a, art. 19a ust. 5 pkt 3 lit. b i c i pkt 4 lit. b tiret drugie, art. 29a ust. 15 pkt 3, art. 41 ust. 2, 2a, 12, 12c, 13 i ust. 14e pkt 3, art. 43 ust. 20, art. 83 ust. 1 pkt 1, 2, 14 i 15, art. 113 ust. 13 pkt 1 lit. b tiret pierwsze i art. 120 ust. 1 pkt 1 lit. a–d i pkt 4 ustawy zmienianej w art. 1 oraz załącznika nr 2, załącznika nr 3, z wyłączeniem poz. 72–75, załącznika nr 10, z wyłączeniem poz. 32– 35, oraz załącznika nr 12 do ustawy zmienianej w art. 1 stosuje się w brzmieniu dotychczasowym.
 
-3. Do wiążących informacji stawkowych, zwanych dalej „WIS”, wydawanych przed dniem 1 kwietnia 2020 r.:
+3. Do wiążących informacji stawkowych, zwanych dalej „WIS”, wydawanych przed dniem 1 lipca 2020 r.:
 
 - **1)** nie stosuje się przepisów art. 83 ust. 1 pkt 2 oraz załącznika nr 2 do ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, a także przepisów wykonawczych wydanych na podstawie art. 41 ust. 15 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym,
-- **2)** stosuje się przepisy art. 2 pkt 15, 20, 21 i 30, art. 5a, art. 19a ust. 5 pkt 3 lit. b i c i pkt 4 lit. b tiret drugie, art. 29a ust. 15 pkt 3, art. 41 ust. 2, 2a, 12, 12c–12f, 13 i ust. 14e pkt 3, art. 43 ust. 20, art. 83 ust. 1 pkt 1, 14 i 15, art. 113 ust. 13 pkt 1 lit. b tiret pierwsze i art. 120 ust. 1 pkt 1 lit. a–d i pkt 4 ustawy zmienianej w art. 1 oraz załączników nr 3, 10 i 12 do ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą z zastrzeżeniem art. 8 ust. 3 i 4.
+- **2)** stosuje się przepisy art. 2 pkt 15, 20, 21 i 30, art. 5a, art. 19a ust. 5 pkt 3 lit. b i c i pkt 4 lit. b tiret drugie, art. 29a ust. 15 pkt 3, art. 41 ust. 2, 2a, 12, 12c–12f, 13 i ust. 14e pkt 3, art. 43 ust. 20, art. 83 ust. 1 pkt 1, 14 i 15, art. 113 ust. 13 pkt 1 lit. b tiret pierwsze i art. 120 ust. 1 pkt 1 lit. a–d i pkt 4 ustawy zmienianej w art. 1 oraz załączników nr 3, 10 i 12 do ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą – z zastrzeżeniem art. 8 ust. 3 i 4.
 
-4. WIS wydana przed dniem 1 kwietnia 2020 r. wiąże organy podatkowe wobec podatnika, dla którego została wydana w odniesieniu do towaru będącego przedmiotem dostawy, importu lub wewnątrzwspólnotowego nabycia dokonanych po dniu 31 marca 2020 r. oraz usługi, która została wykonana po tym dniu, z zastrzeżeniem art. 8 ust. 3.
+4. WIS wydana przed dniem 1 lipca 2020 r. wiąże organy podatkowe wobec podatnika, dla którego została wydana w odniesieniu do towaru będącego przedmiotem dostawy, importu lub wewnątrzwspólnotowego nabycia dokonanych po dniu 30 czerwca 2020 r. oraz usługi, która została wykonana po tym dniu, z zastrzeżeniem art. 8 ust. 3.
 
-5. W przypadku gdy WIS została zamieszczona w Biuletynie Informacji Publicznej organu wydającego WIS przed dniem 1 kwietnia 2020 r., do podmiotu innego niż podatnik, o którym mowa w art. 42b ust. 1 ustawy zmienianej w art. 1, przepisy art. 14k–14m ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2019 r. poz. 900, z późn. zm. ) stosuje się odpowiednio w odniesieniu do czynności, o której mowa w art. 42a ustawy zmienianej w art. 1, dokonanej po dniu 31 marca 2020 r., z zastrzeżeniem art. 8 ust. 4.
+5. W przypadku gdy WIS została zamieszczona w Biuletynie Informacji Publicznej organu wydającego WIS przed dniem 1 lipca 2020 r., do podmiotu innego niż podatnik, o którym mowa w art. 42b ust. 1 ustawy zmienianej w art. 1, przepisy art. 14k–14m ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2019 r. poz. 900, z późn. zm. ) stosuje się odpowiednio w odniesieniu do czynności, o której mowa w art. 42a ustawy zmienianej w art. 1, dokonanej po dniu 30 czerwca 2020 r., z zastrzeżeniem art. 8 ust. 4.
 
 **Art. 8.**
 
-1. W okresie od dnia 1 listopada 2019 r. do dnia 31 marca 2020 r. stosuje się stawkę podatku w wysokości 5% w odniesieniu do następujących towarów i usług:
+1. W okresie od dnia 1 listopada 2019 r. do dnia 30 czerwca 2020 r. stosuje się stawkę podatku w wysokości 5% w odniesieniu do następujących towarów i usług:
 
-- **1)** książki, gazety, obrazki i pozostałe wyroby przemysłu poligraficznego, drukowane; manuskrypty, maszynopisy i plany (CN ex 49) wyłącznie towary objęte następującymi CN:
+- **1)** książki, gazety, obrazki i pozostałe wyroby przemysłu poligraficznego, drukowane; manuskrypty, maszynopisy i plany (CN ex 49) – wyłącznie towary objęte następującymi CN:
     - **a)** książki, broszury, ulotki i podobne materiały, drukowane, nawet w pojedynczych arkuszach, z wyłączeniem ulotek (CN ex 4901),
-    - **b)** gazety, dzienniki i czasopisma, nawet ilustrowane lub zawierające materiały reklamowe wyłącznie czasopisma regionalne lub lokalne (CN ex 4902),
+    - **b)** gazety, dzienniki i czasopisma, nawet ilustrowane lub zawierające materiały reklamowe – wyłącznie czasopisma regionalne lub lokalne (CN ex 4902),
     - **c)** książki dla dzieci, obrazkowe, do rysowania lub kolorowania (CN 4903 00 00),
     - **d)** nuty drukowane lub w rękopisie, nawet ilustrowane lub oprawione (CN 4904 00),
     - **e)** mapy i mapy hydrograficzne lub podobne mapy wszelkich rodzajów, włączając atlasy, mapy ścienne, plany topograficzne i globusy, drukowane (CN 4905),
-    - **f)** pozostałe artykuły drukowane, włącznie z drukowanymi obrazkami i fotografiami wyłącznie czasopisma regionalne lub lokalne (CN ex 4911);
+    - **f)** pozostałe artykuły drukowane, włącznie z drukowanymi obrazkami i fotografiami – wyłącznie czasopisma regionalne lub lokalne (CN ex 4911);
 
-- **2)** dyski, taśmy, półprzewodnikowe urządzenia pamięci trwałej, „karty inteligentne” i inne nośniki do rejestrowania dźwięku lub innych zjawisk, nawet nagrane, włączając matryce i wzorce do produkcji dysków, ale wyłączając produkty objęte działem CN 37 wyłącznie publikacje, o których mowa w pkt 1 (CN ex 8523);
+- **2)** dyski, taśmy, półprzewodnikowe urządzenia pamięci trwałej, „karty inteligentne” i inne nośniki do rejestrowania dźwięku lub innych zjawisk, nawet nagrane, włączając matryce i wzorce do produkcji dysków, ale wyłączając produkty objęte działem CN 37 – wyłącznie publikacje, o których mowa w pkt 1 (CN ex 8523);
 - **3)** dostarczanie drogą elektroniczną publikacji, o których mowa w pkt 1 lit. a oraz c–e, z wyłączeniem publikacji, które w całości lub w przeważającej mierze składają się z treści wideo lub możliwej do odsłuchania muzyki.
 
-2. W okresie od dnia 1 listopada 2019 r. do dnia 31 marca 2020 r. stosuje się stawkę podatku w wysokości 8% w odniesieniu do następujących towarów i usług:
+2. W okresie od dnia 1 listopada 2019 r. do dnia 30 czerwca 2020 r. stosuje się stawkę podatku w wysokości 8% w odniesieniu do następujących towarów i usług:
 
-- **1)** książki, gazety, obrazki i pozostałe wyroby przemysłu poligraficznego, drukowane; manuskrypty, maszynopisy i plany (CN ex 49) wyłącznie towary objęte następującymi CN:
-    - **a)** gazety, dzienniki i czasopisma, nawet ilustrowane lub zawierające materiały reklamowe, z wyłączeniem czasopism regionalnych lub lokalnych (ex 4902),
-    - **b)** pozostałe artykuły drukowane, włącznie z drukowanymi obrazkami i fotografiami wyłącznie roczniki, z wyłączeniem czasopism regionalnych lub lokalnych (ex 4911);
+- **1)** książki, gazety, obrazki i pozostałe wyroby przemysłu poligraficznego, drukowane; manuskrypty, maszynopisy i plany (CN ex 49) – wyłącznie towary objęte następującymi CN:
+    - **a)** gazety, dzienniki i czasopisma, nawet ilustrowane lub zawierające materiały reklamowe, z wyłączeniem czasopism regionalnych lub lokalnych (ex
 
-- **2)** dyski, taśmy, półprzewodnikowe urządzenia pamięci trwałej, „karty inteligentne” i inne nośniki do rejestrowania dźwięku lub innych zjawisk, nawet nagrane, włączając matryce i wzorce do produkcji dysków, ale wyłączając produkty objęte działem CN 37 wyłącznie publikacje, o których mowa w pkt 1 (CN ex 8523);
+- **4902)** ,
+    - **b)** pozostałe artykuły drukowane, włącznie z drukowanymi obrazkami i fotografiami – wyłącznie roczniki, z wyłączeniem czasopism regionalnych lub lokalnych (ex 4911);
+
+- **2)** dyski, taśmy, półprzewodnikowe urządzenia pamięci trwałej, „karty inteligentne” i inne nośniki do rejestrowania dźwięku lub innych zjawisk, nawet nagrane, włączając matryce i wzorce do produkcji dysków, ale wyłączając produkty objęte działem CN 37 – wyłącznie publikacje, o których mowa w pkt 1 (CN ex 8523);
 - **3)** dostarczanie drogą elektroniczną publikacji, o których mowa w pkt 1 oraz ust. 1 pkt 1 lit. b oraz f, z wyłączeniem publikacji, które w całości lub w przeważającej mierze składają się z treści wideo lub możliwej do odsłuchania muzyki.
 
-3. W przypadku WIS wydanej przed dniem 1 kwietnia 2020 r., w odniesieniu do towarów i usług, o których mowa w ust. 1 i 2, WIS wiąże organy podatkowe wobec podmiotów, o których mowa w art. 42b ust. 1 ustawy zmienianej w art. 1, dla których została wydana w odniesieniu do:
+3. W przypadku WIS wydanej przed dniem 1 lipca 2020 r. w odniesieniu do towarów i usług, o których mowa w ust. 1 i 2, WIS wiąże organy podatkowe wobec podmiotów, o których mowa w art. 42b ust. 1 ustawy zmienianej w art. 1, dla których została wydana w odniesieniu do:
 
 - **1)** towaru będącego przedmiotem dostawy, importu lub wewnątrzwspólnotowego nabycia dokonanych po dniu, w którym WIS została doręczona;
 - **2)** usługi, która została wykonana po dniu, w którym WIS została doręczona;
 - **3)** towarów oraz usług, które razem składają się na jedną czynność podlegającą opodatkowaniu wykonaną po dniu, w którym WIS została doręczona.
 
-4. W przypadku gdy WIS wydana w odniesieniu do towarów i usług, o których mowa w ust. 1 i 2, została zamieszczona w Biuletynie Informacji Publicznej organu wydającego WIS przed dniem 1 kwietnia 2020 r., do podmiotu innego niż podatnik, o którym mowa w art. 42b ust. 1 ustawy zmienianej w art. 1, przepisy art. 14k–14m ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa stosuje się odpowiednio w odniesieniu do czynności, o której mowa w art. 42a ustawy zmienianej w art. 1, dokonanej po dniu zamieszczenia WIS w tym Biuletynie.
+4. W przypadku gdy WIS wydana w odniesieniu do towarów i usług, o których mowa w ust. 1 i 2, została zamieszczona w Biuletynie Informacji Publicznej organu wydającego WIS przed dniem 1 lipca 2020 r., do podmiotu innego niż podatnik, o którym mowa w art. 42b ust. 1 ustawy zmienianej w art. 1, przepisy art. 14k–14m ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa stosuje się odpowiednio w odniesieniu do czynności, o której mowa w art. 42a ustawy zmienianej w art. 1, dokonanej po dniu zamieszczenia WIS w tym Biuletynie.
 
 **Art. 9.**
 
@@ -249,26 +251,26 @@ o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw
 
 - **1)** wskazanie kwoty zwrotu kaucji gwarancyjnej;
 - **2)** wskazanie formy złożonej kaucji gwarancyjnej, której dotyczy zwrot;
-- **3)** dane adresowe gwaranta, w tym adres jego siedziby oraz numer gwarancji w przypadku kaucji gwarancyjnej złożonej w formie gwarancji bankowej lub ubezpieczeniowej;
-- **4)** nazwę banku (oddziału) lub spółdzielczej kasy oszczędnościowo-kredytowej, ich dane adresowe, w tym adres siedziby banku (oddziału) lub spółdzielczej kasy oszczędnościowo-kredytowej oraz numer upoważnienia w przypadku kaucji gwarancyjnej złożonej w formie upoważnienia organu podatkowego, potwierdzonego przez bank lub spółdzielczą kasę oszczędnościowo-kredytową, do wyłącznego dysponowania, do wysokości składanej kaucji gwarancyjnej, środkami pieniężnymi zgromadzonymi na rachunku prowadzonym w tym banku lub w tej kasie;
-- **5)** nazwę banku lub spółdzielczej kasy oszczędnościowo-kredytowej oraz numer rachunku bankowego lub rachunku w spółdzielczej kasie oszczędnościowo-kredytowej, której wnioskodawca jest członkiem, na który ma zostać zwrócona kaucja gwarancyjna, jeżeli zwrot kaucji gwarancyjnej ma zostać dokonany na inny rachunek niż podany we wniosku w sprawie przyjęcia kaucji gwarancyjnej w przypadku kaucji gwarancyjnej złożonej w formie depozytu pieniężnego złożonego na wyodrębniony rachunek urzędu skarbowego.
+- **3)** dane adresowe gwaranta, w tym adres jego siedziby oraz numer gwarancji – w przypadku kaucji gwarancyjnej złożonej w formie gwarancji bankowej lub ubezpieczeniowej;
+- **4)** nazwę banku (oddziału) lub spółdzielczej kasy oszczędnościowo-kredytowej, ich dane adresowe, w tym adres siedziby banku (oddziału) lub spółdzielczej kasy oszczędnościowo-kredytowej oraz numer upoważnienia – w przypadku kaucji gwarancyjnej złożonej w formie upoważnienia organu podatkowego, potwierdzonego przez bank lub spółdzielczą kasę oszczędnościowo-kredytową, do wyłącznego dysponowania, do wysokości składanej kaucji gwarancyjnej, środkami pieniężnymi zgromadzonymi na rachunku prowadzonym w tym banku lub w tej kasie;
+- **5)** nazwę banku lub spółdzielczej kasy oszczędnościowo-kredytowej oraz numer rachunku bankowego lub rachunku w spółdzielczej kasie oszczędnościowo-kredytowej, której wnioskodawca jest członkiem, na który ma zostać zwrócona kaucja gwarancyjna, jeżeli zwrot kaucji gwarancyjnej ma zostać dokonany na inny rachunek niż podany we wniosku w sprawie przyjęcia kaucji gwarancyjnej – w przypadku kaucji gwarancyjnej złożonej w formie depozytu pieniężnego złożonego na wyodrębniony rachunek urzędu skarbowego.
 
 4. Zwrot kaucji gwarancyjnej, o której mowa w ust. 1, złożonej:
 
-- **1)** w formie depozytu pieniężnego złożonego na wyodrębnionym rachunku urzędu skarbowego następuje na rachunek podmiotu, o którym mowa w ust. 1, w banku mającym siedzibę na terytorium kraju lub na rachunek tego podmiotu w spółdzielczej kasie oszczędnościowo-kredytowej, której jest członkiem, wskazany we wniosku w sprawie przyjęcia kaucji gwarancyjnej, albo na inny rachunek w takim banku lub w takiej kasie, wskazany przez ten podmiot po złożeniu tego wniosku;
-- **2)** w formie gwarancji bankowej lub ubezpieczeniowej lub pisemnego nieodwołalnego upoważnienia organu podatkowego, potwierdzonego przez bank lub spółdzielczą kasę oszczędnościowo-kredytową, do wyłącznego dysponowania, do wysokości składanej kaucji gwarancyjnej, środkami pieniężnymi zgromadzonymi na rachunku prowadzonym w tym banku lub w tej kasie następuje przez zwrot dokumentu poświadczającego udzielenie gwarancji lub upoważnienia.
+- **1)** w formie depozytu pieniężnego złożonego na wyodrębnionym rachunku urzędu skarbowego – następuje na rachunek podmiotu, o którym mowa w ust. 1, w banku mającym siedzibę na terytorium kraju lub na rachunek tego podmiotu w spółdzielczej kasie oszczędnościowo-kredytowej, której jest członkiem, wskazany we wniosku w sprawie przyjęcia kaucji gwarancyjnej, albo na inny rachunek w takim banku lub w takiej kasie, wskazany przez ten podmiot po złożeniu tego wniosku;
+- **2)** w formie gwarancji bankowej lub ubezpieczeniowej lub pisemnego nieodwołalnego upoważnienia organu podatkowego, potwierdzonego przez bank lub spółdzielczą kasę oszczędnościowo-kredytową, do wyłącznego dysponowania, do wysokości składanej kaucji gwarancyjnej, środkami pieniężnymi zgromadzonymi na rachunku prowadzonym w tym banku lub w tej kasie – następuje przez zwrot dokumentu poświadczającego udzielenie gwarancji lub upoważnienia.
 
 5. Zwrotu kaucji gwarancyjnej, o której mowa w ust. 1, nie dokonuje się w przypadku:
 
-- **1)** wszczęcia, zgodnie z przepisami ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa:
-    - **a)** postępowania podatkowego w zakresie rozliczenia, którego dotyczy kaucja gwarancyjna do zakończenia tego postępowania, lub
-    - **b)** kontroli podatkowej w zakresie rozliczenia, którego dotyczy kaucja gwarancyjna do upływu terminu 3 miesięcy od dnia zakończenia kontroli, jeżeli w tym terminie nie wszczęto postępowania podatkowego;
+- **1)** wszczęcia, zgodnie z przepisami ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa:
+    - **a)** postępowania podatkowego w zakresie rozliczenia, którego dotyczy kaucja gwarancyjna – do zakończenia tego postępowania, lub
+    - **b)** kontroli podatkowej w zakresie rozliczenia, którego dotyczy kaucja gwarancyjna – do upływu terminu 3 miesięcy od dnia zakończenia kontroli, jeżeli w tym terminie nie wszczęto postępowania podatkowego;
 
-- **2)** wszczęcia kontroli celno-skarbowej w zakresie rozliczenia, którego dotyczy kaucja gwarancyjna do upływu terminu 3 miesięcy od dnia zakończenia tej kontroli, a jeżeli w tym terminie doszło do przekształcenia kontroli celno-skarbowej w postępowanie podatkowe w zakresie rozliczenia, którego dotyczy kaucja gwarancyjna do zakończenia tego postępowania;
-- **3)** wszczęcia postępowania kontrolnego, którego dotyczy kaucja gwarancyjna do zakończenia tego postępowania;
+- **2)** wszczęcia kontroli celno-skarbowej w zakresie rozliczenia, którego dotyczy kaucja gwarancyjna – do upływu terminu 3 miesięcy od dnia zakończenia tej kontroli, a jeżeli w tym terminie doszło do przekształcenia kontroli celno-skarbowej w postępowanie podatkowe w zakresie rozliczenia, którego dotyczy kaucja gwarancyjna – do zakończenia tego postępowania;
+- **3)** wszczęcia postępowania kontrolnego, którego dotyczy kaucja gwarancyjna – do zakończenia tego postępowania;
 - **4)** złożenia wniosku o zwrot kaucji gwarancyjnej, jeżeli został on złożony po dniu 31 grudnia 2024 r.
 
-6. W przypadku powstania po złożeniu kaucji gwarancyjnej u podmiotu, o którym mowa w ust. 1, zaległości podatkowej w podatkach stanowiących dochód budżetu państwa kaucję gwarancyjną przeznacza się na pokrycie tej zaległości, z wyłączeniem zaległości, których zapłatę odroczono lub rozłożono na raty zgodnie z art. 67a § 1 pkt 2 ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa. Przepisy ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa dotyczące zaliczania nadpłat stosuje się odpowiednio, z tym że zaliczenie kaucji gwarancyjnej na poczet zaległości podatkowej następuje z dniem powstania zaległości podatkowej.
+6. W przypadku powstania po złożeniu kaucji gwarancyjnej u podmiotu, o którym mowa w ust. 1, zaległości podatkowej w podatkach stanowiących dochód budżetu państwa kaucję gwarancyjną przeznacza się na pokrycie tej zaległości, z wyłączeniem zaległości, których zapłatę odroczono lub rozłożono na raty zgodnie z art. 67a § 1 pkt 2 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa. Przepisy ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa dotyczące zaliczania nadpłat stosuje się odpowiednio, z tym że zaliczenie kaucji gwarancyjnej na poczet zaległości podatkowej następuje z dniem powstania zaległości podatkowej.
 
 7. Od kwoty przyjętej kaucji gwarancyjnej złożonej w formie depozytu pieniężnego złożonego na wyodrębniony rachunek urzędu skarbowego przysługują odsetki za okres od dnia 1 listopada 2019 r. do dnia zwrotu kaucji gwarancyjnej lub zaliczenia jej na poczet zaległości podatkowej, o którym mowa w ust. 6. Przepis ust. 6 stosuje się odpowiednio.
 
@@ -298,7 +300,7 @@ o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw
 
 **Art. 15.**
 
-1. W przypadku postępowania o udzielenie zamówienia publicznego prowadzonego na podstawie ustawy z dnia 29 stycznia 2004 r. Prawo zamówień publicznych (Dz. U. z 2018 r. poz. 1986 i 2215 oraz z 2019 r. poz. 53, 730 i 1655), wszczętego przed dniem wejścia w życie niniejszej ustawy, którego przedmiot jest objęty zakresem załącznika nr 15 do ustawy zmienianej w art. 1, zamawiający wzywa wykonawców, którzy składając oferty, poinformowali, że wybór ich ofert będzie prowadził do powstania u zamawiającego obowiązku podatkowego zgodnie z przepisami o podatku od towarów i usług, do podania:
+1. W przypadku postępowania o udzielenie zamówienia publicznego prowadzonego na podstawie ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2018 r. poz. 1986 i 2215 oraz z 2019 r. poz. 53, 730 i 1655), wszczętego przed dniem wejścia w życie niniejszej ustawy, którego przedmiot jest objęty zakresem załącznika nr 15 do ustawy zmienianej w art. 1, zamawiający wzywa wykonawców, którzy składając oferty, poinformowali, że wybór ich ofert będzie prowadził do powstania u zamawiającego obowiązku podatkowego zgodnie z przepisami o podatku od towarów i usług, do podania:
 
 - **1)** informacji dotyczącej możliwości powstania u wykonawcy, w przypadku udzielenia mu zamówienia publicznego, obowiązku podatkowego na podstawie ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą;
 - **2)** nazwy (rodzaju) towaru lub usługi, których dostawa lub świadczenie będzie prowadzić do jego powstania, oraz ich wartości bez kwoty podatku;
@@ -316,24 +318,24 @@ o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw
 
 1. Maksymalny limit wydatków budżetu państwa przeznaczonych na realizację zadań, o których mowa w przepisach art. 42a–42i ustawy zmienianej w art. 1, będących skutkiem finansowym ustawy, wynosi:
 
-- **1)** w 2019 r. 15 076 000 zł;
-- **2)** w 2020 r. 25 184 000 zł;
-- **3)** w 2021 r. 26 741 000 zł;
-- **4)** w 2022 r. 27 536 000 zł;
-- **5)** w 2023 r. 27 596 000 zł;
-- **6)** w 2024 r. 27 671 000 zł;
-- **7)** w 2025 r. 27 687 000 zł;
-- **8)** w 2026 r. 27 764 000 zł;
-- **9)** w 2027 r. 27 782 000 zł;
-- **10)** w 2028 r. 27 862 000 zł.
+- **1)** w 2019 r. – 15 076 000 zł;
+- **2)** w 2020 r. – 25 184 000 zł;
+- **3)** w 2021 r. – 26 741 000 zł;
+- **4)** w 2022 r. – 27 536 000 zł;
+- **5)** w 2023 r. – 27 596 000 zł;
+- **6)** w 2024 r. – 27 671 000 zł;
+- **7)** w 2025 r. – 27 687 000 zł;
+- **8)** w 2026 r. – 27 764 000 zł;
+- **9)** w 2027 r. – 27 782 000 zł;
+- **10)** w 2028 r. – 27 862 000 zł.
 
 2. Minister właściwy do spraw finansów publicznych monitoruje wykorzystanie limitu wydatków, o którym mowa w ust. 1, oraz wdraża mechanizm korygujący, o którym mowa w ust. 3.
 
 3. W przypadku przekroczenia lub zagrożenia przekroczeniem przyjętego na dany rok budżetowy maksymalnego limitu wydatków określonego w ust. 1 oraz w przypadku gdy część planowanych wydatków, o których mowa w ust. 1, przypadająca proporcjonalnie na okres od początku roku kalendarzowego do końca danego kwartału została przekroczona:
 
-- **1)** po pierwszym kwartale co najmniej o 20%,
-- **2)** po dwóch kwartałach co najmniej o 15%,
-- **3)** po trzech kwartałach co najmniej o 10% minister właściwy do spraw finansów publicznych stosuje mechanizm korygujący polegający na obniżeniu kosztów realizacji zadań przez organ podatkowy.
+- **1)** po pierwszym kwartale – co najmniej o 20%,
+- **2)** po dwóch kwartałach – co najmniej o 15%,
+- **3)** po trzech kwartałach – co najmniej o 10% – minister właściwy do spraw finansów publicznych stosuje mechanizm korygujący polegający na obniżeniu kosztów realizacji zadań przez organ podatkowy.
 
 **Art. 18.** Ustawa wchodzi w życie z dniem 1 listopada 2019 r., z wyjątkiem:
 

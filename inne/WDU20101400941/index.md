@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# Ustawa z dnia 10 czerwca 2010 r. o nadaniu Pomorskiej Akademii Medycznej w Szczecinie nazwy "Pomorski Uniwersytet Medyczny w Szczecinie"
+# o nadaniu Pomorskiej Akademii Medycznej w Szczecinie nazwy „Pomorski Uniwersytet Medyczny w Szczecinie”
+
+*USTAWA z dnia 10 czerwca 2010 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,5 +26,7 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101400941) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/941/text.pdf) |
 
-**Art. 1.** Pomorskiej Akademii Medycznej w Szczeci- Art. 2. Ustawa wchodzi w życie po upływie 14 dni nie nadaje się nazwę „Pomorski Uniwersytet Medycz- od dnia ogłoszenia. ny w Szczecinie”. 941 USTAWA z dnia 10 czerwca 2010 r. o nadaniu Pomorskiej Akademii Medycznej w Szczecinie nazwy „Pomorski Uniwersytet Medyczny w Szczecinie” Marszałek Sejmu wykonujący obowiązki Prezydenta Rzeczypospolitej Polskiej: G. Schetyna
+**Art. 1.** Pomorskiej Akademii Medycznej w Szczecinie nadaje się nazwę „Pomorski Uniwersytet Medyczny w Szczecinie”.
+
+**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

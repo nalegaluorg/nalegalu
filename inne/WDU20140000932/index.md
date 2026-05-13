@@ -10,7 +10,9 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 15 lipca 2014 r.
+# o niektórych umowach zawieranych w związku z realizacją zamówień o podstawowym znaczeniu dla bezpieczeństwa państwa
+
+*USTAWA z dnia 26 czerwca 2014 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,9 +25,6 @@ domain: null
 | Data wydania | 2014-07-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000932) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/932/text.pdf) |
-
-USTAWA z dnia 26 czerwca 2014 r.
-o niektórych umowach zawieranych w związku z realizacją zamówień o podstawowym znaczeniu dla bezpieczeństwa państwa
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -55,17 +54,17 @@ o niektórych umowach zawieranych w związku z realizacją zamówień o podstawo
 
 1. Osoby wykonujące w imieniu Skarbu Państwa czynności w postępowaniu o zawarcie umowy offsetowej lub związane z wykonaniem umowy offsetowej podlegają wyłączeniu od tych czynności, jeżeli:
 
-- **1)** ubiegają się lub ubiegały o jej zawarcie po stronie zagranicznego dostawcy, offsetodawcy, offsetobiorcy lub jednostek powiązanych z nimi w rozumieniu ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2013 r. poz. 330 i 613 oraz z 2014 r. poz. 768);
+- **1)** ubiegają się lub ubiegały o jej zawarcie po stronie zagranicznego dostawcy, offsetodawcy, offsetobiorcy lub jednostek powiązanych z nimi w rozumieniu ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2021 r. poz. 217, 2105 i 2106);
 - **2)** pozostają w związku małżeńskim, w stosunku pokrewieństwa lub powinowactwa w linii prostej, pokrewieństwa lub powinowactwa w linii bocznej do drugiego stopnia, we wspólnym pożyciu lub są związane z tytułu przysposobienia, opieki lub kurateli z członkami organów zarządzających lub nadzorczych zagranicznego dostawcy, offsetobiorcy, offsetodawcy, jednostek powiązanych z nimi w rozumieniu przepisów ustawy z dnia 29 września 1994 r. o rachunkowości lub ich pełnomocnikiem;
 - **3)** w ciągu 3 lat przed dniem złożenia oferty offsetowej pozostawały z offsetodawcą lub offsetobiorcą w stosunku pracy lub wykonywały w ich imieniu lub na ich rzecz umowy odpłatne lub inne zajęcia zarobkowe, w tym w formie działalności gospodarczej, lub były członkami organów zarządzających lub organów nadzorczych zagranicznego dostawcy, offsetobiorcy, offsetodawcy, jednostek powiązanych z nimi w rozumieniu przepisów ustawy z dnia 29 września 1994 r. o rachunkowości lub ich pełnomocnikiem;
 - **4)** w ciągu 3 lat przed dniem złożenia oferty offsetowej osoby pozostające z nimi w związku małżeńskim, w stosunku pokrewieństwa lub powinowactwa w linii prostej, pokrewieństwa lub powinowactwa w linii bocznej do drugiego stopnia, we wspólnym pożyciu lub związane z nimi z tytułu przysposobienia, opieki lub kurateli pozostawały z offsetodawcą lub offsetobiorcą lub ich pełnomocnikiem w stosunku pracy lub wykonywały w ich imieniu lub na ich rzecz umowy odpłatne lub inne zajęcia zarobkowe, w tym w formie działalności gospodarczej lub były członkami organów zarządzających lub organów nadzorczych zagranicznego dostawcy, offsetobiorcy, offsetodawcy lub jednostek powiązanych z nimi w rozumieniu przepisów ustawy z dnia 29 września 1994 r. o rachunkowości lub ich pełnomocnikiem;
 - **5)** posiadają udziały, akcje lub inne papiery wartościowe emitowane przez zagranicznego dostawcę, offsetobiorcę lub offsetodawcę albo jednostki powiązane z nimi w rozumieniu przepisów ustawy z dnia 29 września 1994 r. o rachunkowości lub pozostają w związku małżeńskim, w stosunku pokrewieństwa lub powinowactwa w linii prostej, pokrewieństwa lub powinowactwa w linii bocznej do drugiego stopnia, we wspólnym pożyciu lub są związane z tytułu przysposobienia, opieki lub kurateli z osobami posiadającymi takie udziały, akcje lub inne papiery wartościowe;
 - **6)** osoby te lub osoby pozostające z nimi w związku małżeńskim, w stosunku pokrewieństwa lub powinowactwa w linii prostej, pokrewieństwa lub powinowactwa w linii bocznej do drugiego stopnia, we wspólnym pożyciu lub związane z nimi z tytułu przysposobienia, opieki lub kurateli pozostają z offsetodawcą lub offsetobiorcą w takim stosunku prawnym lub faktycznym, że może to budzić uzasadnione wątpliwości co do bezstronności tych osób;
-- **7)** zostały prawomocnie skazane za przestępstwo z art. 228 lub art. 229 ustawy z dnia 6 czerwca 1997 r. Kodeks karny (Dz. U. Nr 88, poz. 553, z późn. zm. ), przestępstwo przeciwko obrotowi gospodarczemu, o którym mowa w rozdziale XXXVI ustawy z dnia 6 czerwca 1997 r. Kodeks karny lub inne przestępstwo popełnione w celu osiągnięcia korzyści majątkowej lub osobistej;
+- **7)** zostały prawomocnie skazane za przestępstwo z art. 228 lub art. 229 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2021 r. poz. 2345 i 2447), przestępstwo przeciwko obrotowi gospodarczemu, o którym mowa w rozdziale XXXVI ustawy z dnia 6 czerwca 1997 r. – Kodeks karny lub inne przestępstwo popełnione w celu osiągnięcia korzyści majątkowej lub osobistej;
 - **8)** osoby te lub osoby pozostające z nimi w związku małżeńskim, w stosunku pokrewieństwa lub powinowactwa w linii prostej, pokrewieństwa lub powinowactwa w linii bocznej do drugiego stopnia, we wspólnym pożyciu lub związane z nimi z tytułu przysposobienia, opieki lub kurateli są członkami organów spółdzielni, fundacji lub stowarzyszeń, które w ciągu 3 lat przed dniem złożenia oferty offsetowej uzyskały wsparcie finansowe ze strony zagranicznego dostawcy, offsetobiorcy lub offsetodawcy, albo jednostek powiązanych z nimi w rozumieniu przepisów ustawy z dnia 29 września 1994 r. o rachunkowości;
 - **9)** nie złożyły oświadczenia, o którym mowa w ust. 2.
 
-2. Osoby wykonujące w imieniu Skarbu Państwa czynności w postępowaniu o zawarcie umowy offsetowej lub związane z wykonaniem umowy offsetowej, składają Ministrowi Obrony Narodowej, pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń, o której mowa w art. 233 § 1 i 6 ustawy z dnia 6 czerwca 1997 r. Kodeks karny, przed podjęciem czynności, oświadczenie o braku okoliczności wymienionych w ust. 1 pkt 1–8.
+2. Osoby wykonujące w imieniu Skarbu Państwa czynności w postępowaniu o zawarcie umowy offsetowej lub związane z wykonaniem umowy offsetowej, składają Ministrowi Obrony Narodowej, pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń, o której mowa w art. 233 § 1 i 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, przed podjęciem czynności, oświadczenie o braku okoliczności wymienionych w ust. 1 pkt 1–8.
 
 3. Oświadczenie, o którym mowa w ust. 2, zawiera w szczególności:
 
@@ -98,7 +97,7 @@ o niektórych umowach zawieranych w związku z realizacją zamówień o podstawo
 
 **Art. 8.**
 
-1. Zamawiający niezwłocznie informuje Ministra Obrony Narodowej o zamiarze wszczęcia postępowania o udzielenie zamówienia dotyczącego produkcji lub handlu bronią, amunicją lub materiałami wojennymi, o których mowa w art. 346 ust. 1 lit. b TFUE. Informacja obejmuje co najmniej przedmiot postępowania o udzielenie zamówienia oraz dokument zawierający ocenę występowania podstawowych interesów bezpieczeństwa państwa, wykonaną na podstawie przepisów wykonawczych wydanych na podstawie art. 4c ustawy z dnia 29 stycznia 2004 r. Prawo zamówień publicznych (Dz. U. z 2013 r. poz. 907, z późn. zm. ).
+1. Zamawiający niezwłocznie informuje Ministra Obrony Narodowej o zamiarze wszczęcia postępowania o udzielenie zamówienia dotyczącego produkcji lub handlu bronią, amunicją lub materiałami wojennymi, o których mowa w art. 346 ust. 1 lit. b TFUE. Informacja obejmuje co najmniej przedmiot postępowania o udzielenie zamówienia oraz dokument zawierający ocenę występowania podstawowych interesów bezpieczeństwa państwa.
 
 2. Minister Obrony Narodowej, na podstawie informacji, o której mowa w ust. 1, oraz uzasadnienia, o którym mowa w art. 7 ust. 5, po uzyskaniu opinii Komitetu Offsetowego, niezwłocznie przekazuje zamawiającemu założenia do oferty offsetowej wraz z projektem umowy offsetowej.
 
@@ -141,7 +140,7 @@ o niektórych umowach zawieranych w związku z realizacją zamówień o podstawo
 
 **Art. 11.**
 
-1. W przypadku gdy co najmniej jedna oferta na dostawę nie podlega obowiązkowi zawarcia umowy offsetowej, zamawiający dokonuje oceny wszystkich ofert bez uwzględniania kryterium offsetowego. W przypadku gdy w wyniku takiej oceny najkorzystniejsza okaże się oferta niepodlegająca obowiązkowi zawarcia umowy offsetowej, zamawiający zawiera umowę dostawy z pominięciem procedury, o której mowa w art. 8. W przypadku gdy w wyniku dokonanej oceny najlepsza okaże się oferta podlegająca obowiązkowi zawarcia umowy offsetowej, dalsze postępowanie jest prowadzone
+1. W przypadku gdy co najmniej jedna oferta na dostawę nie podlega obowiązkowi zawarcia umowy offsetowej, zamawiający dokonuje oceny wszystkich ofert bez uwzględniania kryterium offsetowego. W przypadku gdy w wyniku takiej oceny najkorzystniejsza okaże się oferta niepodlegająca obowiązkowi zawarcia umowy offsetowej, zamawiający zawiera umowę dostawy z pominięciem procedury, o której mowa w art. 8. W przypadku gdy w wyniku dokonanej oceny najlepsza okaże się oferta podlegająca obowiązkowi zawarcia umowy offsetowej, dalsze postępowanie jest prowadzone zgodnie z procedurą, o której mowa w art. 8.
 
 2. Jeżeli negocjacje oferty na dostawę nie doprowadzą do zawarcia umowy, dalsze postępowanie jest prowadzone z udziałem dostawcy, który przedstawił kolejną najkorzystniejszą ofertę, zgodnie z oceną zamawiającego. Przepis ust. 1 zdanie drugie i trzecie stosuje się odpowiednio.
 
@@ -186,7 +185,7 @@ o niektórych umowach zawieranych w związku z realizacją zamówień o podstawo
 6. Minister Obrony Narodowej, dokonując oceny wniosku, o którym mowa w ust. 1, może:
 
 - **1)** żądać przedstawienia przez zagranicznego dostawcę dodatkowych dokumentów oraz informacji niezbędnych do dokonania oceny zasadności wniosku;
-- **2)** zasięgać opinii biegłego rewidenta lub innej osoby niebędącej pracownikiem urzędu obsługującego Ministra Obrony
+- **2)** zasięgać opinii biegłego rewidenta lub innej osoby niebędącej pracownikiem urzędu obsługującego Ministra Obrony Narodowej, dysponującej odpowiednią wiedzą specjalistyczną w sprawie wykonania zobowiązania offsetowego.
 
 **Art. 14.**
 
@@ -239,7 +238,7 @@ o niektórych umowach zawieranych w związku z realizacją zamówień o podstawo
 
 - **1)** udostępnia na czas trwania kontroli oddzielne pomieszczenie z odpowiednim wyposażeniem,
 - **2)** niezwłocznie przedstawia żądane dokumenty i materiały oraz udziela wyjaśnień,
-- **3)** umożliwia dostęp do danych zapisywanych na elektronicznych nośnikach z zachowaniem przepisów o tajemnicy prawnie chronionej.
+- **3)** umożliwia dostęp do danych zapisywanych na elektronicznych nośnikach – z zachowaniem przepisów o tajemnicy prawnie chronionej.
 
 **Art. 18.**
 
@@ -253,7 +252,7 @@ o niektórych umowach zawieranych w związku z realizacją zamówień o podstawo
 - **4)** przedmiot kontroli;
 - **5)** termin rozpoczęcia i zakończenia kontroli;
 - **6)** wskazanie okresu objętego kontrolą;
-- **7)** imiona i nazwiska osób wchodzących w skład zespołu kontrolnego;
+- **7)** imiona i nazwiska osób wchodzących w składu zespołu kontrolnego;
 - **8)** opis sposobu przeprowadzenia kontroli;
 - **9)** imiona i nazwiska osób, które w trakcie kontroli udzielały informacji lub wyjaśnień w zakresie dotyczącym przedmiotu kontroli;
 - **10)** wykaz aktów prawnych i dokumentów dotyczących przedmiotu kontroli;
@@ -280,7 +279,7 @@ o niektórych umowach zawieranych w związku z realizacją zamówień o podstawo
 
 2. Zabezpieczeniem należytego wykonania umowy offsetowej może być w szczególności:
 
-- **1)** akt notarialny zawierający oświadczenie o poddaniu się egzekucji, o którym mowa w art. 777 § 1 pkt 5 ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm. );
+- **1)** akt notarialny zawierający oświadczenie o poddaniu się egzekucji, o którym mowa w art. 777 § 1 pkt 5 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm. );
 - **2)** gwarancja bankowa;
 - **3)** złożenie przez zagranicznego dostawcę weksla in blanco wraz z deklaracją wekslową.
 
@@ -329,10 +328,11 @@ o niektórych umowach zawieranych w związku z realizacją zamówień o podstawo
 - **3)** Ministra Obrony Narodowej;
 - **4)** ministra właściwego do spraw finansów publicznych;
 - **5)** ministra właściwego do spraw gospodarki;
-- **6)** ministra właściwego do spraw nauki;
-- **7)** ministra właściwego do spraw Skarbu Państwa;
+- **6)** ministra właściwego do spraw szkolnictwa wyższego i nauki;
+- **7)** (uchylony)
 - **8)** ministra właściwego do spraw wewnętrznych;
 - **9)** ministra właściwego do spraw zagranicznych;
+- **9a)** Prezesa Prokuratorii Generalnej Rzeczypospolitej Polskiej;
 - **10)** Prezesa Urzędu Zamówień Publicznych;
 - **11)** Szefa Agencji Bezpieczeństwa Wewnętrznego;
 - **12)** Szefa Biura Bezpieczeństwa Narodowego;
@@ -363,15 +363,17 @@ o niektórych umowach zawieranych w związku z realizacją zamówień o podstawo
 
 **Art. 28.** Nadzór nad wykonywaniem umów offsetowych sprawuje Minister Obrony Narodowej.
 
+**Art. 29.** Wejście w życie umowy offsetowej oraz stwierdzenie jej wykonania wymaga zatwierdzenia przez Radę Ministrów.
+
 **Art. 30.** Minister Obrony Narodowej przedkłada Radzie Ministrów roczne sprawozdanie z wykonania zobowiązań offsetowych przez zagranicznych dostawców, które w szczególności prezentuje ocenę efektywności wykonania zobowiązań związanych z przekazaniem technologii o charakterze innowacyjnym i know-how, w terminie do końca drugiego kwartału po zakończeniu roku sprawozdawczego.
 
 **Art. 31.** Do umów offsetowych zawieranych w związku z umową dostawy nie stosuje się przepisów o ochronie konkurencji i konsumentów.
 
 #### Rozdział 6 Przepisy zmieniające
 
-**Art. 32.** W ustawie z dnia 14 grudnia 1995 r. o urzędzie Ministra Obrony Narodowej (Dz. U. z 2013 r. poz. 189 i 852) w art. 2 po pkt 22 dodaje się pkt 22a w brzmieniu: „22a) zawieranie i obsługa umów offsetowych, do których stosuje się przepisy ustawy z dnia 26 czerwca 2014 r. o niektórych umowach zawieranych w związku z realizacją zamówień o podstawowym znaczeniu dla bezpieczeństwa państwa (Dz. U. poz. 932);”.
+**Art. 32.** (pominięty)
 
-**Art. 33.** W ustawie z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2013 r. poz. 743 i 984 oraz z 2014 r. poz. 496 i 829) wprowadza się następujące zmiany:
+**Art. 33.** (pominięty)
 
 #### Rozdział 7 Przepisy przejściowe i końcowe
 
@@ -393,5 +395,5 @@ o niektórych umowach zawieranych w związku z realizacją zamówień o podstawo
 
 **Art. 37.** Traci moc ustawa z dnia 10 września 1999 r. o niektórych umowach kompensacyjnych zawieranych w związku z umowami dostaw na potrzeby obronności i bezpieczeństwa państwa (Dz. U. z 2013 r. poz. 716).
 
-**Art. 38.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: B. Komorowski
+**Art. 38.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 

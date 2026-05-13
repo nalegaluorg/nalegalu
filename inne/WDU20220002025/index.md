@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 30 września 2022 r.
+# o Narodowym Banku Polskim
+
+*USTAWA z dnia 29 sierpnia 1997 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,15 +26,6 @@ domain: null
 | Ostatnia zmiana | 2026-03-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002025) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2025/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 5 września 2022 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o Narodowym Banku Polskim
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2022 r. poz. 492), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655) oraz zmian wynikających z przepisów ogłoszonych przed dniem 1 września 2022 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 824 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655), który stanowi: „Art. 824. Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem:
-1) art. 288 ust. 2 i art. 777 ust. 4, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
-2) art. 439 ust. 1 pkt 4, który wchodzi w życie z dniem 1 stycznia 2023 r.”.
-Marszałek Sejmu: E. Witek
-USTAWA z dnia 29 sierpnia 1997 r.
-o Narodowym Banku Polskim
 Art. 71–73. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
@@ -104,7 +97,7 @@ Art. 71–73. (pominięte)
 
 2. Kadencja Prezesa NBP wynosi 6 lat. Ta sama osoba nie może być Prezesem NBP dłużej niż przez dwie kolejne kadencje.
 
-3. Prezes NBP obejmuje obowiązki po złożeniu wobec Sejmu przysięgi następującej treści: „Obejmując obowiązki Prezesa Narodowego Banku Polskiego przysięgam uroczyście, że postanowień Konstytucji i innych ustaw będę ściśle przestrzegać oraz że we wszystkich swoich działaniach dążyć będę do rozwoju gospodarczego Ojczyzny i pomyślności obywateli”. Przysięga może być złożona z dodaniem słów „Tak mi dopomóż Bóg”.
+3. Prezes NBP obejmuje obowiązki po złożeniu wobec przysięgi następującej treści: „Obejmując obowiązki Prezesa Narodowego Banku Polskiego przysięgam uroczyście, że postanowień Konstytucji i innych ustaw będę ściśle przestrzegać oraz że we wszystkich swoich działaniach dążyć będę do rozwoju gospodarczego Ojczyzny i pomyślności obywateli”. Przysięga może być złożona z dodaniem słów „Tak mi dopomóż Bóg”.
 
 4. Kadencja Prezesa NBP wygasa:
 
@@ -124,11 +117,11 @@ Art. 71–73. (pominięte)
 
 1. Po wygaśnięciu kadencji Prezesa NBP z przyczyny określonej w art. 9 ust. 4 pkt 1 Prezes NBP pełni obowiązki do czasu objęcia obowiązków przez nowego Prezesa NBP.
 
-2. Po wygaśnięciu kadencji Prezesa NBP z przyczyn określonych w art. 9 ust. 4 pkt 2–4 wiceprezes NBP pierwszy zastępca Prezesa NBP pełni obowiązki Prezesa NBP do czasu objęcia obowiązków przez nowego Prezesa NBP.
+2. Po wygaśnięciu kadencji Prezesa NBP z przyczyn określonych w art. 9 ust. 4 pkt 2–4 wiceprezes NBP – pierwszy zastępca Prezesa NBP pełni obowiązki Prezesa NBP do czasu objęcia obowiązków przez nowego Prezesa NBP.
 
 **Art. 10.**
 
-1. Prezesa NBP w czasie jego nieobecności zastępuje wiceprezes NBP pierwszy zastępca Prezesa NBP.
+1. Prezesa NBP w czasie jego nieobecności zastępuje wiceprezes NBP – pierwszy zastępca Prezesa NBP.
 
 2. (uchylony)
 
@@ -197,7 +190,7 @@ Art. 71–73. (pominięte)
 
 **Art. 14.**
 
-1. W okresie kadencji członek Rady nie może zajmować żadnych innych stanowisk i podejmować działalności zarobkowej lub publicznej poza pracą naukową, dydaktyczną lub twórczością autorską, a za zgodą Rady wyrażoną w drodze uchwały (bez udziału zainteresowanego) dopuszczalna jest działalność w organizacjach międzynarodowych.
+1. W okresie kadencji członek Rady nie może zajmować żadnych innych stanowisk i podejmować działalności zarobkowej lub publicznej poza pracą naukową, dydaktyczną lub twórczością autorską, a za zgodą Rady wyrażoną w drodze uchwały (bez udziału zainteresowanego) – dopuszczalna jest działalność w organizacjach międzynarodowych.
 
 2. Członek Rady będący członkiem partii politycznej lub związku zawodowego obowiązany jest na okres kadencji w Radzie zawiesić działalność w tej partii lub w tym związku, pod rygorem odwołania z Rady.
 
@@ -221,7 +214,7 @@ Art. 71–73. (pominięte)
 
 1. Działalnością NBP kieruje Zarząd.
 
-2. W skład Zarządu NBP wchodzą: Prezes NBP jako przewodniczący oraz 6–8 członków Zarządu, w tym 2 wiceprezesów NBP.
+2. W skład Zarządu NBP wchodzą: Prezes NBP – jako przewodniczący oraz 6– 8 członków Zarządu, w tym 2 wiceprezesów NBP.
 
 2a. Członków Zarządu NBP powołuje i odwołuje Prezydent Rzeczypospolitej Polskiej na wniosek Prezesa NBP.
 
@@ -282,7 +275,7 @@ Art. 71–73. (pominięte)
 2. Naczelne organy państwowe, organy administracji rządowej i samorządu terytorialnego, banki i inne osoby prawne, jednostki organizacyjne niebędące osobami prawnymi oraz inni przedsiębiorcy:
 
 - **1)** przekazują NBP dane niezbędne do ustalania polityki pieniężnej i okresowych ocen sytuacji pieniężnej państwa;
-- **2)** uczestniczący w obrotach z zagranicą przekazują NBP dane niezbędne do sporządzenia bilansu płatniczego oraz międzynarodowej pozycji inwestycyjnej;
+- **2)** uczestniczący w obrotach z zagranicą – przekazują NBP dane niezbędne do sporządzenia bilansu płatniczego oraz międzynarodowej pozycji inwestycyjnej;
 - **3)** przekazują NBP, na jego żądanie, dane niezbędne do analiz ryzyka systemowego.
 
 2a. Podmioty uczestniczące w rozliczeniach pieniężnych i rozrachunkach międzybankowych przekazują, na żądanie NBP, dane niezbędne do dokonywania ocen funkcjonowania rozliczeń pieniężnych i rozrachunków międzybankowych.
@@ -301,13 +294,13 @@ Art. 71–73. (pominięte)
 
 5. Dane jednostkowe, o których mowa w ust. 2, 2a i 3, mogą być wykorzystywane wyłącznie do sporządzania zestawień statystycznych, opracowań, ocen i bilansów oraz międzynarodowej pozycji inwestycyjnej i, z zastrzeżeniem ust. 6–8 i 10, nie mogą być udostępniane osobom trzecim.
 
-6. Zestawienia statystyczne, opracowania i oceny zawierające dane jednostkowe, o których mowa w ust. 2, 2a, 3 i 3a, umożliwiające powiązanie ich z konkretnym podmiotem lub zidentyfikowanie konkretnego podmiotu, w szczególności jeżeli do sporządzenia zestawienia, opracowania i oceny wykorzystano dane dotyczące mniej niż trzech podmiotów lub gdy udział danych dotyczących jednego podmiotu, wykorzystanych w zestawieniu, opracowaniu lub ocenie jest większy niż trzy czwarte całości nie mogą być udostępniane osobom trzecim.
+6. Zestawienia statystyczne, opracowania i oceny zawierające dane jednostkowe, o których mowa w ust. 2, 2a, 3 i 3a, umożliwiające powiązanie ich z konkretnym podmiotem lub zidentyfikowanie konkretnego podmiotu, w szczególności jeżeli do sporządzenia zestawienia, opracowania i oceny wykorzystano dane dotyczące mniej niż trzech podmiotów lub gdy udział danych dotyczących jednego podmiotu, wykorzystanych w zestawieniu, opracowaniu lub ocenie jest większy niż trzy czwarte całości – nie mogą być udostępniane osobom trzecim.
 
 7. Dane jednostkowe, o których mowa w ust. 2, 2a, 3 i 3a, oraz zestawienia statystyczne, opracowania i oceny, o których mowa w ust. 6, NBP udostępnia:
 
-- **1)** Europejskiemu Bankowi Centralnemu w wykonaniu obowiązków związanych z uczestnictwem NBP w Europejskim Systemie Banków Centralnych;
-- **2)** innym podmiotom zagranicznym w wykonaniu zobowiązań międzynarodowych Rzeczypospolitej Polskiej;
-- **3)** innym podmiotom, niż wymienione w pkt 1 i 2 na podstawie odrębnych przepisów.
+- **1)** Europejskiemu Bankowi Centralnemu – w wykonaniu obowiązków związanych z uczestnictwem NBP w Europejskim Systemie Banków Centralnych;
+- **2)** innym podmiotom zagranicznym – w wykonaniu zobowiązań międzynarodowych Rzeczypospolitej Polskiej;
+- **3)** innym podmiotom, niż wymienione w pkt 1 i 2 – na podstawie odrębnych przepisów.
 
 8. Dane jednostkowe, o których mowa w ust. 3, mogą być udostępniane Ministrowi Finansów i Komisji Nadzoru Finansowego w zakresie niezbędnym dla realizacji celu działalności i zadań Komitetu Stabilności Finansowej.
 
@@ -326,7 +319,7 @@ Art. 71–73. (pominięte)
 - **1)** sporządzania bilansu płatniczego oraz międzynarodowej pozycji inwestycyjnej,
 - **2)** ustalania polityki pieniężnej i okresowych ocen sytuacji pieniężnej państwa,
 - **3)** oceny sytuacji finansowej banków i ryzyka sektora bankowego,
-- **4)** numeracji banków i ich jednostek organizacyjnych są przekazywane do NBP w postaci elektronicznej.
+- **4)** numeracji banków i ich jednostek organizacyjnych – są przekazywane do NBP w postaci elektronicznej.
 
 2. Dane w postaci elektronicznej są przekazywane z wykorzystaniem odpowiednich certyfikatów wydanych przez NBP lub innych form uwierzytelniania stosowanych przez NBP.
 
@@ -394,11 +387,11 @@ Art. 71–73. (pominięte)
 
 **Art. 38.**
 
-1. W celu kształtowania podaży pieniądza i działalności kredytowej NBP gromadzi rezerwy obowiązkowe banków, spółdzielczych kas oszczędnościowo-kredytowych oraz Krajowej Spółdzielczej Kasy Oszczędnościowo-Kredytowej.
+1. W celu kształtowania podaży pieniądza i działalności kredytowej NBP gromadzi rezerwy obowiązkowe banków, spółdzielczych kas oszczędnościowokredytowych oraz Krajowej Spółdzielczej Kasy Oszczędnościowo-Kredytowej.
 
 2. Rezerwę obowiązkową banków stanowi wyrażona w złotych część środków pieniężnych w złotych i w walutach obcych zgromadzonych na rachunkach bankowych, środków uzyskanych z tytułu emisji dłużnych papierów wartościowych oraz innych środków przyjętych przez bank podlegających zwrotowi, z wyjątkiem środków:
 
-- **1)** przyjętych od innego banku krajowego, spółdzielczej kasy oszczędnościowo-kredytowej oraz Krajowej Spółdzielczej Kasy Oszczędnościowo-Kredytowej;
+- **1)** przyjętych od innego banku krajowego, spółdzielczej kasy oszczędnościowokredytowej oraz Krajowej Spółdzielczej Kasy Oszczędnościowo-Kredytowej;
 - **2)** przyjętych od banku zagranicznego na podstawie umów zawartych przed dniem wejścia w życie ustawy;
 - **3)** pozyskanych z zagranicy co najmniej na 2 lata;
 - **4)** pozyskanych na podstawie umów o prowadzenie indywidualnych kont emerytalnych oraz pozyskanych na podstawie umów o prowadzenie indywidualnych kont zabezpieczenia emerytalnego w rozumieniu przepisów o indywidualnych kontach emerytalnych oraz indywidualnych kontach zabezpieczenia emerytalnego;
@@ -427,7 +420,7 @@ Art. 71–73. (pominięte)
 
 4. Środki pieniężne z tytułu oprocentowania rezerwy obowiązkowej przekazywane są bankom, spółdzielczym kasom oszczędnościowo-kredytowym oraz Krajowej Spółdzielczej Kasie Oszczędnościowo-Kredytowej.
 
-**Art. 39a.** Banki, spółdzielcze kasy oszczędnościowo-kredytowe oraz Krajowa Spółdzielcza Kasa Oszczędnościowo-Kredytowa pomniejszają kwotę naliczonej rezerwy obowiązkowej o kwotę stanowiącą równowartość 500 000 euro, obliczoną według kursu średniego ogłaszanego przez NBP z ostatniego dnia miesiąca stanowiącego podstawę naliczenia rezerwy obowiązkowej, a w przypadku gdy w tym dniu nie ogłoszono takiego kursu, według ostatniego kursu ogłoszonego przed tym dniem.
+**Art. 39a.** Banki, spółdzielcze kasy oszczędnościowo-kredytowe oraz Krajowa Spółdzielcza Kasa Oszczędnościowo--Kredytowa pomniejszają kwotę naliczonej rezerwy obowiązkowej o kwotę stanowiącą równowartość 500 000 euro, obliczoną według kursu średniego ogłaszanego przez NBP z ostatniego dnia miesiąca stanowiącego podstawę naliczenia rezerwy obowiązkowej, a w przypadku gdy w tym dniu nie ogłoszono takiego kursu, według ostatniego kursu ogłoszonego przed tym dniem.
 
 **Art. 40.**
 
@@ -437,7 +430,7 @@ Art. 71–73. (pominięte)
 - **2)** rodzaje środków pieniężnych, których nie dotyczy obowiązek utrzymywania rezerwy obowiązkowej;
 - **3)** zasady naliczania oprocentowania rezerwy obowiązkowej i przekazywania środków pieniężnych należnych z tytułu tego oprocentowania.
 
-2. Zarząd NBP może określać wysokość zapasu gotówki w złotych, którego utrzymywanie w kasach bankowych, spółdzielczych kasach oszczędnościowo-kredytowych oraz w Krajowej Spółdzielczej Kasie Oszczędnościowo-Kredytowej, będzie równoznaczne z utrzymywaniem rezerwy obowiązkowej w NBP.
+2. Zarząd NBP może określać wysokość zapasu gotówki w złotych, którego utrzymywanie w kasach bankowych, spółdzielczych kasach oszczędnościowokredytowych oraz w Krajowej Spółdzielczej Kasie Oszczędnościowo-Kredytowej, będzie równoznaczne z utrzymywaniem rezerwy obowiązkowej w NBP.
 
 **Art. 41.**
 
@@ -445,7 +438,7 @@ Art. 71–73. (pominięte)
 
 2. Stawkę odsetek, o których mowa w ust. 1, uchwala Zarząd NBP w wysokości nie większej niż dwukrotna wysokość stopy oprocentowania kredytu lombardowego.
 
-3. Zarząd NBP może wyrazić zgodę na nieuiszczanie przez bank, spółdzielczą kasę oszczędnościowo-kredytową lub Krajową Spółdzielczą Kasę Oszczędnościowo-Kredytową, odsetek, o których mowa w ust. 1, gdy bank, spółdzielcza kasa oszczędnościowo-kredytowa lub Krajowa Spółdzielcza Kasa Oszczędnościowo-Kredytowa jest w stanie zawieszenia, likwidacji albo upadłości.
+3. Zarząd NBP może wyrazić zgodę na nieuiszczanie przez bank, spółdzielczą kasę oszczędnościowo-kredytową lub Krajową Spółdzielczą Kasę OszczędnościowoKredytową, odsetek, o których mowa w ust. 1, gdy bank, spółdzielcza kasa oszczędnościowo-kredytowa lub Krajowa Spółdzielcza Kasa OszczędnościowoKredytowa jest w stanie zawieszenia, likwidacji albo upadłości.
 
 **Art. 42.**
 
@@ -458,20 +451,20 @@ Art. 71–73. (pominięte)
 4. Kredyt refinansowy może być udzielony:
 
 - **1)** do określonej kwoty w rachunku kredytu;
-- **2)** pod zastaw papierów wartościowych do wysokości równej określonej części nominalnej wartości tych papierów (kredyt lombardowy);
+- **2)** pod zastaw papierów wartościowych – do wysokości równej określonej części nominalnej wartości tych papierów (kredyt lombardowy);
 - **3)** w innej formie, określonej przez Zarząd NBP.
 
 5. Umowa o kredyt refinansowy może zostać rozwiązana przez każdą ze stron za siedmiodniowym terminem jej wypowiedzenia.
 
 6. Jeżeli sytuacja finansowa banku korzystającego z kredytu refinansowego ulega pogorszeniu w stopniu zagrażającym terminowej spłacie kredytu, albo bank ten nie przestrzega istotnych postanowień umowy kredytowej, NBP może wypowiedzieć tę umowę i zażądać wcześniejszej spłaty kredytu, w całości lub w części, w terminie krótszym niż określony w tej umowie.
 
-7. Do umowy o kredyt refinansowy stosuje się przepisy ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe (Dz. U. z 2021 r. poz. 2439, z późn. zm. ), ze zmianami wynikającymi z niniejszej ustawy.
+7. Do umowy o kredyt refinansowy stosuje się przepisy ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2021 r. poz. 2439, z późn. zm. ), ze zmianami wynikającymi z niniejszej ustawy.
 
 **Art. 43.**
 
 1. W przypadkach uregulowanych w ustawie z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji oraz ustawie z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z 2022 r. poz. 924, 1358 i 1488) NBP może udzielać kredytu krótkoterminowego Bankowemu Funduszowi Gwarancyjnemu.
 
-2. W przypadku zagrożenia płynności spółdzielczych kas oszczędnościowo-kredytowych NBP może udzielić Krajowej Spółdzielczej Kasie Oszczędnościowo-Kredytowej kredytu krótkoterminowego na zasilenie funduszu stabilizacyjnego, o którym mowa w art. 55 ust. 1 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych, w razie zaistnienia groźby wyczerpania środków funduszu i pod warunkiem ustanowienia odpowiedniego zabezpieczenia.
+2. W przypadku zagrożenia płynności spółdzielczych kas oszczędnościowokredytowych NBP może udzielić Krajowej Spółdzielczej Kasie OszczędnościowoKredytowej kredytu krótkoterminowego na zasilenie funduszu stabilizacyjnego, o którym mowa w art. 55 ust. 1 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych, w razie zaistnienia groźby wyczerpania środków funduszu i pod warunkiem ustanowienia odpowiedniego zabezpieczenia.
 
 3. Komisja Nadzoru Finansowego przekazuje na wniosek NBP opinię o sytuacji sektora spółdzielczych kas oszczędnościowo-kredytowych oraz o zdolności Krajowej Spółdzielczej Kasy Oszczędnościowo-Kredytowej do spłaty kredytu, o którym mowa w ust. 2, wraz z odsetkami.
 
@@ -505,7 +498,7 @@ Art. 71–73. (pominięte)
 
 **Art. 50.** NBP może przyjmować do przechowania i administrowania oraz jako przedmiot zabezpieczenia papiery wartościowe, w tym papiery wartościowe, których jest emitentem.
 
-**Art. 50a.** W przypadku zabezpieczenia wierzytelności NBP, zaspokojenie roszczeń NBP jako zastawnika następuje w sposób przewidziany w Kodeksie cywilnym albo jeżeli umowa z zastawcą tak stanowi przez sprzedaż przedmiotu zastawu przez NBP w imieniu zastawcy lub przejęcie go przez NBP.
+**Art. 50a.** W przypadku zabezpieczenia wierzytelności NBP, zaspokojenie roszczeń NBP jako zastawnika następuje w sposób przewidziany w Kodeksie cywilnym albo – jeżeli umowa z zastawcą tak stanowi – przez sprzedaż przedmiotu zastawu przez NBP w imieniu zastawcy lub przejęcie go przez NBP.
 
 #### Rozdział 7 Prowadzenie rachunków bankowych
 
@@ -518,6 +511,7 @@ Art. 71–73. (pominięte)
 - **3)** Bankowego Funduszu Gwarancyjnego;
 - **3a)** Krajowej Spółdzielczej Kasy Oszczędnościowo-Kredytowej;
 - **3b)** Urzędu Komisji Nadzoru Finansowego;
+- **3c)** instytucji płatniczych i instytucji pieniądza elektronicznego, za zgodą Prezesa NBP;
 - **4)** innych osób prawnych, za zgodą Prezesa NBP.
 
 2. Zarząd NBP określa, w drodze uchwały, warunki otwierania i prowadzenia rachunków banków.
@@ -538,11 +532,11 @@ Art. 71–73. (pominięte)
 
 #### Rozdział 9 Szczególne obowiązki i uprawnienia NBP
 
-**Art. 53.** Założenia polityki pieniężnej, sprawozdanie z wykonania założeń polityki pieniężnej oraz akty normatywne organów NBP z wyjątkiem aktów, o których mowa w art. 54 ust. 1 ogłaszane są w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
+**Art. 53.** Założenia polityki pieniężnej, sprawozdanie z wykonania założeń polityki pieniężnej oraz akty normatywne organów NBP – z wyjątkiem aktów, o których mowa w art. 54 ust. 1 – ogłaszane są w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
 
 **Art. 54.**
 
-1. Prezes NBP wydaje Urzędowy Narodowego Banku Polskiego, w którym ogłasza się:
+1. Prezes NBP wydaje Dziennik Urzędowy Narodowego Banku Polskiego, w którym ogłasza się:
 
 - **1)** akty organów NBP dotyczące funkcjonowania banków;
 - **2)** bilans oraz rachunek zysków i strat NBP;
@@ -556,7 +550,7 @@ Art. 71–73. (pominięte)
 
 2. Do wydawania Dziennika Urzędowego Narodowego Banku Polskiego i ogłaszania w nim aktów prawnych stosuje się odpowiednio przepisy art. 2a, art. 3, art. 4, art. 6, art. 7, art. 15–18, art. 20, art. 20b, art. 23a, art. 27 i art. 28a ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461).
 
-**Art. 55.** Pracownicy NBP oraz członkowie Rady i organów opiniodawczo-doradczych przy Zarządzie NBP są obowiązani do nieujawniania osobom nieupoważnionym informacji, z którymi zapoznali się w trakcie wykonywania swoich obowiązków, w tym informacji objętych tajemnicą bankową na podstawie ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe, informacji objętych ochroną na podstawie przepisów dotyczących ochrony informacji niejawnych, jak również innych informacji chronionych ustawowo. Obowiązek ten trwa również po rozwiązaniu stosunku pracy, a także po ustaniu członkostwa w Radzie lub wspomnianych wyżej organach.
+**Art. 55.** Pracownicy NBP oraz członkowie Rady i organów opiniodawczodoradczych przy Zarządzie NBP są obowiązani do nieujawniania osobom nieupoważnionym informacji, z którymi zapoznali się w trakcie wykonywania swoich obowiązków, w tym informacji objętych tajemnicą bankową na podstawie ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, informacji objętych ochroną na podstawie przepisów dotyczących ochrony informacji niejawnych, jak również innych informacji chronionych ustawowo. Obowiązek ten trwa również po rozwiązaniu stosunku pracy, a także po ustaniu członkostwa w Radzie lub wspomnianych wyżej organach.
 
 **Art. 56.**
 

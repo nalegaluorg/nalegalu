@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 27 czerwca 2024 r.
+# w sprawie ogłoszenia jednolitego tekstu ustawy o finansowaniu Akademii Ignatianum w Krakowie z budżetu państwa
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +24,6 @@ domain: null
 | Ostatnia zmiana | 2024-06-28 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000942) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/942/text.pdf) |
 
-Poz. 942 OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 21 czerwca 2024 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o finansowaniu Akademii Ignatianum w Krakowie z budżetu państwa
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 5 kwietnia 2006 r. o finansowaniu Wyższej Szkoły Filozoficzno-Pedagogicznej „Ignatianum” w Krakowie z budżetu państwa (Dz. U. poz. 650), z uwzględnieniem zmian wprowadzonych ustawą z dnia 13 stycznia 2023 r.
 o zmianie ustawy – Prawo o szkolnictwie wyższym i nauce oraz niektórych innych ustaw (Dz. U. poz. 212) oraz zmian wynikających z przepisów ogłoszonych przed dniem 19 czerwca 2024 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 13 ustawy z dnia 13 stycznia 2023 r. o zmianie ustawy – Prawo o szkolnictwie wyższym i nauce oraz niektórych innych ustaw (Dz. U. poz. 212), który stanowi: „Art. 13. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:

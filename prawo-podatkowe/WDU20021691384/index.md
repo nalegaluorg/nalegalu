@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 11 paêdziernika 2002 r.
+# o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych oraz ustawy o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne
+
+*USTAWA z dnia 30 sierpnia 2002 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,26 +26,15 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021691384) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/1384/text.pdf) |
 
-USTAWA zdnia 30 sierpnia 2002 r.
-ozmianie ustawy opodatku dochodowym od osób fizycznych, ustawy opodatku dochodowym od osób prawnych oraz ustawy ozryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne.
+**Art. 1.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz.U. z 2000 r. Nr 14, poz. 176, Nr 22, poz. 270, Nr 60, poz. 703, Nr 70, poz. 816, Nr 104, poz. 1104, Nr 117, poz. 1228 i Nr 122, poz. 1324, z 2001 r. Nr 4, poz. 27, Nr 8, poz. 64, Nr 52, poz. 539, Nr 73, poz. 764, Nr 74, poz. 784, Nr 88, poz. 961, Nr 89, poz. 968, Nr 102, poz. 1117, Nr 106, poz. 1150, Nr 110, poz. 1190, Nr 125, poz. 1363 i 1370 i Nr 134, poz. 1509 oraz z 2002 r. Nr 25, poz. 253, Nr 74, poz. 676, Nr 89, poz. 804. Nr 135, poz. 1146 i Nr 141, poz. 1182) wprowadza się następujące zmiany:
 
-**Art. 1.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2000 r. Nr14, poz. 176, 22, poz. 270, 60, poz. 703, 70, poz. 1324, z 2001 r. 4, poz. 27, 8, poz. 64, 52, poz. 539, 73, poz. 764, 74, poz. 784, 88, poz. 816, 104, poz. 1104, 117, poz. 1228 iNr 122, poz. 961, 89, poz. 968, 102, poz. 1117, 106, poz. 1150, 110, poz. 1190, 125, poz. 1363 i 1370 iNr 134, poz. 1509 oraz z2002 r. 25, poz. 253, 74, poz. 676, 89, poz. 804, 135, poz. 1146 i 141, poz. 1182) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz.U. z 2000 r. Nr 54, poz. 654, Nr 60, poz. 700 i 703, Nr 86, poz. 958, Nr 103, poz. 1100, Nr 117, poz. 1228, Nr 122, poz. 1315 i 1324, z 2001 r. Nr 106, poz. 1150, Nr 110, poz. 1190, Nr 125, poz. 1363 oraz z 2002 r. Nr 25, poz. 253, Nr 74, poz. 676, Nr 93, poz. 820 i Nr 141, poz. 1179) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2000 r. 54, poz. 654, 60, poz. 700 i 703, 86, poz. 958, 103, poz. 1100, 117, poz. 1228 i 122, poz. 1315 i 1324, z 2001 r. 106, poz. 1150, 110, poz. 1190 iNr125, poz. 1363 oraz z2002 r. 25, poz. 253, 74, poz. 676, 93, poz. 820 i 141, poz. 1179) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz.U. Nr 144, poz. 930, z 2000 r. Nr 104, poz. 1104 i Nr 122, poz. 1324 oraz z 2001 r. Nr 74, poz. 784, Nr 88, poz. 961, Nr 125, poz. 1363 i 1369 i Nr 134, poz. 1509, oraz z 2002 r. Nr 141, poz.
 
-**Art. 3.** W ustawie z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. z 1998 r. 144, poz. 930, z 2000 r. 104, poz. 1104 płaty podatku na zasadach określonych i 122, poz. 1324, z 2001 r. 74, poz. 784, 88, poz. 961, 125, poz. 1363 i 1369 i 134, poz. 1509 oraz z 2002 r. 141, poz. 1183) wart. 21 po ust. 5 dodaje się ust. 6—13 wbrzmieniu: Ń6. Podatnicy, którzy po raz pierwszy rozpoczęli prowadzenie pozarolniczej działalności gospodarczej, są zwolnieni na warunkach określonych w ust. 8 z obowiązków wynikających z ust. 1, z tytułu tej działalności, w roku podatkowym następującym:
+**Art. 4.** Do pomocy publicznej udzielanej na podstawie niniejszej ustawy stosuje się przepisy o warunkach dopuszczalności i nadzorowaniu pomocy publicznej dla przedsiębiorców.
 
-**Art. 4.** Do pomocy publicznej udzielanej na podstawie niniejszej ustawy stosuje się przepisy owarunkach Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 1385 USTAWA zdnia 12 września 2002 r. oelektronicznych instrumentach płatniczych.
+**Art. 5.** Przepisy ustawy, z wyjątkiem art. 2 pkt 1-4 oraz art. 6, stosuje się do podatników, którzy po raz pierwszy rozpoczęli prowadzenie działalności gospodarczej począwszy od dnia jej wejścia życie. Art. 6 Rezerwy zaliczone do kosztów uzyskania przychodów na podstawie art. 16 ust. 1 pkt 26 lit. a) ustawy wymienionej art. 2 brzmieniu obowiązującym do dnia 31 grudnia 2002 r. stanowią przychody rozumieniu art. 12 ust. 1 ustawy wymienionej art. 2 tej części, jakiej nastąpi ich rozwiązanie lub wykorzystanie inny sposób.
 
-#### Rozdział 1 Przepisy ogólne
-
-**Art. 1.**
-
-1. Ustawa określa zasady wydawania i używania elektronicznych instrumentów płatniczych, wtym instrumentów pieniądza elektronicznego, prawa i obowiązki stron umów o elektroniczne instrumenty płatnicze oraz zasady tworzenia, organizacji, działalności oraz nadzoru, atakże likwidacji instytucji pieniądza elektronicznego.
-
-2. Przepisów ustawy nie stosuje się do elektronicznych instrumentów płatniczych używanych przez banki w celu realizowania wzajemnych płatności w międzybankowych systemach rozliczeniowych.
-
-3. Jeśli wydawca kart płatniczych jest jednocześnie ich akceptantem i umowa nie przewiduje możliwości akceptacji tych kart poza własną siecią wydawcy, przepisy ustawy stosuje się tylko wzakresie ochrony posiadacza iwykonywania obowiązków informacyjnych wobec Narodowego Banku Polskiego, zwanego dalej
-
-**Art. 2.** Użyte wustawie określenia oznaczają:
+**Art. 7.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 2 pkt 1-4 i art. 6, które wchodzą życie z dniem 1 stycznia 2003 r. i mają zastosowanie do dochodów (strat) uzyskanych od tego dnia.
 

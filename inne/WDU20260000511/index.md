@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 14 kwietnia 2026 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy finansowym wsparciu niektórych przedsięwzięć mieszkaniowych
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 27 marca 2026 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2026-04-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000511) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/511/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 27 marca 2026 r.
-sprawie ogłoszenia jednolitego tekstu ustawy finansowym wsparciu niektórych przedsięwzięć mieszkaniowych
 1. Na podstawie 16 ust. 1 ustawy z dnia 20 lipca 2000 r. ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 8 grudnia 2006 r. finansowym wsparciu niektórych przedsięwzięć mieszkaniowych (Dz. U. z 2024 r. poz. 304), z uwzględnieniem stanu prawnego na dzień 25 marca 2026 r. oraz zmian wprowadzonych:
 1) ustawą z dnia 9 maja 2025 r. zmianie ustawy szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (Dz. U. poz. 680);
 2) ustawą z dnia 25 lipca 2025 r. zmianie ustawy społecznych formach rozwoju mieszkalnictwa oraz niektórych innych ustaw (Dz. U. poz. 1077).
@@ -36,6 +36,28 @@ sprawie ogłoszenia jednolitego tekstu ustawy finansowym wsparciu niektórych pr
 2) utworzonych ramach przedsięwzięcia inwestycyjno-budowlanego, na którego pokrycie części kosztów udzielono finansowego wsparcia, którym ust. 1 1 ustawy zmienianej 5, na podstawie wniosku złożonego przed dniem wejścia życie niniejszej ustawy stosuje się przepisy 33dk i 33ea ustawy zmienianej 1 brzmieniu dotychczasowym, a także przepisy 33db i 33dc ustawy zmienianej 1 oraz przepisy 9 i 54 ustawy zmienianej 3 brzmieniu dotychczasowym.” „Art. 19. Wnioski rekomendację priorytetowego rozpatrzenia wniosku finansowe wsparcie, których 8 ust. 3a ustawy zmienianej brzmieniu dotychczasowym, złożone i nierozpatrzone przed dniem wejścia życie niniejszego przepisu, pozostawia się bez rozpatrzenia.
 
 **Art. 20.** W 2025 r. Bank Gospodarstwa Krajowego dokonuje kwalifikacji wniosków finansowe wsparcie, 8a ust. 1 ustawy zmienianej 5, terminie do dnia 31 października.
+
+**Art. 21.**
+
+1. Do finansowego wsparcia udzielonego ze środków Funduszu Dopłat na pokrycie części kosztów przedsięwzięcia inwestycyjno-budowlanego:
+
+- **1)** na podstawie wniosków złożonych Banku Gospodarstwa Krajowego na podstawie przepisów ustawy zmienianej przed dniem wejścia życie niniejszej ustawy lub
+- **2)** którym ust. 1 1 ustawy zmienianej 5, przypadku gdy na wybudowanie lokali mieszprzepisy 22b ust. 1a ustawy zmienianej 5.
+
+2. Do wniosków finansowe wsparcie złożonych Banku Gospodarstwa Krajowego przed dniem wejścia życie niniejszej ustawy stosuje się przepisy ustawy zmienianej brzmieniu dotychczasowym, z wyjątkiem 8 ust. 3a i 22b ust. 1 i 2 ustawy zmienianej 5, które stosuje się brzmieniu nadanym niniejszą ustawą. Do tych wniosków stosuje się przepisy 14 ust. 3 i 22b ust. 1a ustawy zmienianej 5.
+
+3. Do wniosków finansowe wsparcie, których ust. 2, niezakwalifikowanych z powodu osiągnięcia łącznej wysokości środków budżetu państwa zaplanowanych na dany rok na zasilenie Funduszu Dopłat z przeznaczeniem na sfinansowanie wypłat finansowego wsparcia oraz wolnych środków tego funduszu, z wyłączeniem środków, których ust. 2 4d ustawy zmienianej 4, przepisu 14 ust. 3 ustawy zmienianej nie stosuje się.
+
+4. Na wniosek beneficjenta wsparcia udzielonego przed dniem wejścia życie niniejszej ustawy ramach planu rozwojowego na zasadach, których rozdziale 3a ustawy zmienianej brzmieniu dotychczasowym, i niewypłaconego przed tym dniem dokonuje się aktualizacji umowy, 12 ust. 1 ustawy zmienianej 5, zakresie dostosowującym do 22b ust. 1 i 2 ustawy zmienianej brzmieniu nadanym niniejszą ustawą i do 22b ust. 1a ustawy zmienianej 5.
+
+5. W przypadku dokonania aktualizacji, ust. 4, po otrzymaniu wypłaty finansowego wsparcia udzielonego ramach planu rozwojowego na zasadach, których rozdziale 3a ustawy zmienianej brzmieniu dotychczasowym, beneficjent wsparcia zwraca do Funduszu Dopłat kwotę odpowiadającą różnicy między łączną kwotą finansowego wsparcia udzielonego na zasadach określonych rozdziale 3 ustawy zmienianej brzmieniu dotychczasowym i ramach planu rozwojowego na zasadach, których rozdziale 3a ustawy zmienianej brzmieniu dotychczasowym, a wysokością określoną 22b ust. 1a ustawy zmienianej 5.
+
+6. Zwrot, którym ust. 5, może nastąpić drodze potrącenia odpowiadającej mu kwoty ze środków przekazanych zgodnie z 22h ustawy zmienianej 5.” „Art. 28. Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+
+- **1)** 15 a zakresie ust. 3a 1 i b, 8, 9, 13 11 i 12 oraz 19, które wchodzą życie z dniem następującym po dniu ogłoszenia;
+- **2)** 2 1 zakresie 192 ust. 4 i 5, który wchodzi życie z dniem określonym komunikacie, którym 18 ust. 1;
+- **3)** 2 1 zakresie 192 ust. 3 i 6 oraz 2, który wchodzi życie po upływie 90 dni od dnia ogłoszenia;
+- **4)** 1 a, 2 a i b tiret drugie, 3, 7, 9, 10 a–f, 12, 15 a zakresie ust. 3a 2, 16, 17, 18 a tiret drugie pierwsze podwójne tiret i d, 19 a, 20, 21, 22 a i c, 23 b i c, 24, 25 a tiret drugie i 26, 13 1–10 oraz 24, które wchodzą życie z dniem 1 stycznia 2026 r.”. Marszałek Sejmu: W. Czarzasty USTAWA z dnia 8 grudnia 2006 r. finansowym wsparciu niektórych przedsięwzięć mieszkaniowych
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -56,7 +78,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy finansowym wsparciu niektórych pr
 - **3)** remoncie lub przebudowie budynku mieszkalnego będącego własnością gminy lub jednoosobowej spółki gminnej albo części takiego budynku, jeżeli ten remont lub ta przebudowa nie dotyczy lokalu mieszkalnego zajmowanego lokatora na podstawie obowiązującej umowy najmu,
 - **4)** zmianie sposobu użytkowania budynku będącego własnością gminy lub jednoosobowej spółki gminnej albo części takiego budynku, wymagającej dokonania remontu lub przebudowy,
 - **5)** kupnie lokalu mieszkalnego, budynku mieszkalnego albo udziału we współwłasności budynku mieszkalnego,
-- **6)** kupnie lokalu mieszkalnego, budynku mieszkalnego albo udziału we współwłasności budynku mieszkalnego, połączonym z remontem tych lokali lub budynku mieszkalnego wyniku którego zostaną utworzone lub zostaną zmodernizowane lokale mieszkalne stanowiące mieszkaniowy zasób gminy, z uwzględnieniem 6 ust. 1. przedsięwzięcia, wyniku którego powstaną tymczasowe pomieszczenia.
+- **6)** kupnie lokalu mieszkalnego, budynku mieszkalnego albo udziału we współwłasności budynku mieszkalnego, połączonym z remontem tych lokali lub budynku mieszkalnego wyniku którego zostaną utworzone lub zostaną zmodernizowane lokale mieszkalne stanowiące mieszkaniowy zasób gminy, z uwzględnieniem 6 ust. 1.
 
 3. Jeżeli przedmiotem finansowego wsparcia, którym ust. 1 albo 6, są byłe mieszkania zakładowe, budynek mieszkalny z byłymi mieszkaniami zakładowymi albo udział we współwłasności budynku mieszkalnego, którym znajdują się byłe mieszkania zakładowe, finansowego wsparcia udziela się pod warunkiem, że lokatorami tych mieszkań są:
 
@@ -78,11 +100,10 @@ sprawie ogłoszenia jednolitego tekstu ustawy finansowym wsparciu niektórych pr
 
 3. Finansowego wsparcia udziela się również na pokrycie części kosztów przedsięwzięcia, jeżeli wyniku tego przedsięwzięcia powstanie ogrzewalnia, z zastrzeżeniem że przypadku, którym ust. 1 1, budynku powstanie również noclegownia lub schronisko dla osób bezdomnych.
 
-4. Organizacja pozarządowa oraz podmioty, których 3 ust. 3 ustawy z dnia 24 kwietnia 2003 r. działalności pożytku publicznego i wolontariacie, realizują przedsięwzięcia, których ust. 1, na nieruchomościach stanowiących ich własność lub własność gminy, jednoosobowej spółki gminnej, związku międzygminnego lub Skarbu Państwa. ności pożytku publicznego i wolontariacie, realizują przedsięwzięcia, których ust. 2, na nieruchomościach stanowiących ich własność lub własność gminy, jednoosobowej spółki gminnej, związku międzygminnego lub Skarbu Państwa, albo będących przedmiotem umowy dzierżawy lub użyczenia.
+4. Organizacja pozarządowa oraz podmioty, których 3 ust. 3 ustawy z dnia 24 kwietnia 2003 r. działalności pożytku publicznego i wolontariacie, realizują przedsięwzięcia, których ust. 1, na nieruchomościach stanowiących ich własność lub własność gminy, jednoosobowej spółki gminnej, związku międzygminnego lub Skarbu Państwa.
 
-**Art. 4a.**
+5. Organizacja pozarządowa oraz podmioty, których 3 ust. 3 ustawy z dnia 24 kwietnia 2003 r. działalArt. 4a. 8) 1. Finansowego wsparcia udziela się uczelni publicznej, jako beneficjentowi wsparcia, na pokrycie części kosztów przedsięwzięcia polegającego na:
 
-- **8)** 1. Finansowego wsparcia udziela się uczelni publicznej, jako beneficjentowi wsparcia, na pokrycie części kosztów przedsięwzięcia polegającego na:
 - **1)** budowie budynku na nieruchomości stanowiącej własność albo będącej użytkowaniu wieczystym uczelni publicznej,
 - **2)** remoncie lub przebudowie budynku będącego własnością uczelni publicznej albo części takiego budynku,
 - **3)** kupnie budynku mieszkalnego albo udziału we własności budynku mieszkalnego, tym kupnie połączonym z remontem lub przebudową tego budynku wyniku którego zostaną utworzone lub zmodernizowane pomieszczenia służące zaspokajaniu potrzeb mieszkaniowych studentów i doktorantów.
@@ -107,12 +128,13 @@ sprawie ogłoszenia jednolitego tekstu ustawy finansowym wsparciu niektórych pr
 
 2. Warunkiem udzielenia finansowego wsparcia, którym w:
 
-- **1)** ust. 1 1 i 2 lit. a, jest zawarcie gminę albo związek międzygminny umowy z inwestorem innym niż gmina albo związek międzygminny;
-- **2)** ust. 1 2 lit. b, jest: społecznych formach rozwoju mieszkalnictwa, społecznych formach rozwoju mieszkalnictwa.
+- **1)** ust. 1 1 i 2 a, jest zawarcie gminę albo związek międzygminny umowy z inwestorem innym niż gmina albo związek międzygminny;
+- **2)** ust. 1 2 b, jest: społecznych formach rozwoju mieszkalnictwa, społecznych formach rozwoju mieszkalnictwa.
     - **a)** zawarcie gminę umowy z inwestorem, 22b ustawy z dnia 26 października 1995 r.
     - **b)** określenie gminę kryteriów, których 22e ust. 1 1 ustawy z dnia 26 października 1995 r.
 
-- **1)** udział gminy albo związku międzygminnego kosztach tworzenia lokali mieszkalnych na wynajem;
+3. Umowa, ust. 2 1, określa szczególności:
+
 - **2)** prawo gminy albo związku międzygminnego do wskazywania najemców lokali mieszkalnych utworzonych z wykorzystaniem finansowego wsparcia;
 - **3)** szczegółowe kryteria wskazywania gminę albo związek międzygminny najemców lokali mieszkalnych, zapewniające pierwszeństwo dostępie do lokali mieszkalnych utworzonych z udziałem gminy albo związku międzygminnego osobom będącym aktualnie najemcami lokali mieszkalnych wchodzących skład mieszkaniowego zasobu gminy.
 
@@ -127,7 +149,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy finansowym wsparciu niektórych pr
 - **1)** wartość brutto kosztów przedsięwzięcia, których 14;
 - **2)** koszty eksploatacji i remontów lokali oraz infrastruktury utworzonej przy udziale finansowego wsparcia, związane bezpośrednio z realizacją przedsięwzięcia, ponoszone okresie, którym ust. 10;
 - **3)** koszty ubezpieczenia nieruchomości trakcie realizacji przedsięwzięcia oraz okresie, którym ust. 10;
-- **4)** koszty dzierżawy lokali mieszkalnych lub budynków mieszkalnych jednorodzinnych wynajmowanych osobom wskazanym gminę oraz ponoszone od dnia rozpoczęcia realizacji przedsięwzięcia, którym ust. 1 2 lit. b, koszty dzierżawy budynków innych niż mieszkalne albo ich części;
+- **4)** koszty dzierżawy lokali mieszkalnych lub budynków mieszkalnych jednorodzinnych wynajmowanych osobom wskazanym gminę oraz ponoszone od dnia rozpoczęcia realizacji przedsięwzięcia, którym ust. 1 2 b, koszty dzierżawy budynków innych niż mieszkalne albo ich części;
 - **5)** pozostałe koszty związane ze świadczeniem usługi publicznej ogólnym interesie gospodarczym polegającej na najmie lokali mieszkalnych, tym koszty prowadzenia rachunków bankowych przeznaczonych do deponowania środków z pobranych od najemców kaucji zabezpieczających pokrycie należności z tytułu najmu lokali oraz środków gromadzonych ramach odpisów na fundusz remontowy;
 - **6)** wkład we wspólne koszty stałe inwestora części wyliczonej na podstawie procentowego udziału powierzchni powstałej wyniku realizowanego przedsięwzięcia powierzchni całkowitej lokali mieszkalnych będących własnością inwestora;
 - **7)** koszty nabycia nieruchomości związanej z realizacją przedsięwzięcia, tym nieruchomości wraz z budynkiem, wyniku remontu lub przebudowy którego zostaną utworzone lokale mieszkalne.
@@ -139,19 +161,22 @@ sprawie ogłoszenia jednolitego tekstu ustawy finansowym wsparciu niektórych pr
 - **1)** przychody z opłat czynszowych za najem lokali mieszkalnych, garaży i miejsc postojowych;
 - **2)** przychody z tytułu odsetek od zdeponowanych środków pobranych od najemców z kaucji zabezpieczających pokrycie należności z tytułu najmu lokali mieszkalnych;
 - **3)** przychody z tytułu odsetek od zdeponowanych środków gromadzonych ramach odpisów na fundusz remontowy;
-- **4)** wartość nieruchomości, jeżeli została wniesiona jako wkład niepieniężny jednostkę samorządu terytorialnego i jest przeznaczona do realizacji przedsięwzięcia, określoną na podstawie operatu szacunkowego sporządzonego zgod1) 25 lat– przypadku, którym ust. 1 1,
-- **2)** lat przypadku, którym ust. 1 2 lit. a,
-- **3)** liczbę pełnych lat pozostających do zakończenia umowy, 22b ustawy z dnia 26 października 1995 r. społecznych formach rozwoju mieszkalnictwa przypadku, którym ust. 1 2 lit. b licząc od dnia przekazania gminę albo związek międzygminny Bankowi oświadczenia inwestora, którym 18 ust. 1 2.
+- **4)** wartość nieruchomości, jeżeli została wniesiona jako wkład niepieniężny jednostkę samorządu terytorialnego i jest przeznaczona do realizacji przedsięwzięcia, określoną na podstawie operatu szacunkowego sporządzonego zgodnie z ustawą z dnia 21 sierpnia 1997 r. gospodarce nieruchomościami.
+
+10. Okres, na jaki powierza się inwestorowi świadczenie usługi publicznej ogólnym interesie gospodarczym, wynosi:
+
+- **2)** lat przypadku, którym ust. 1 2 a,
+- **3)** liczbę pełnych lat pozostających do zakończenia umowy, 22b ustawy z dnia 26 października 1995 r. społecznych formach rozwoju mieszkalnictwa przypadku, którym ust. 1 2 b licząc od dnia przekazania gminę albo związek międzygminny Bankowi oświadczenia inwestora, którym 18 ust. 1 2.
 
 11. Finansowe wsparcie, którym ust. 1, nie może przekraczać dopuszczalnej wysokości rekompensaty, ust. 5, ustalonej zgodnie z przepisami wykonawczymi wydanymi na podstawie 19.
 
-12. Jeżeli przedsięwzięcie, którym ust. 1 1 i 2 lit. a, zrealizowano z wykorzystaniem finansowego wsparcia oraz finansowania zwrotnego, dopuszczalną wysokość rekompensaty, ust. 5, ustala się dla łącznej kwoty tego wsparcia i tego finansowania, zgodnie z przepisami wykonawczymi wydanymi na podstawie 15b ust. ustawy z dnia 26 października 1995 r. społecznych formach rozwoju mieszkalnictwa.
+12. Jeżeli przedsięwzięcie, którym ust. 1 1 i 2 a, zrealizowano z wykorzystaniem finansowego wsparcia oraz finansowania zwrotnego, dopuszczalną wysokość rekompensaty, ust. 5, ustala się dla łącznej kwoty tego wsparcia i tego finansowania, zgodnie z przepisami wykonawczymi wydanymi na podstawie 15b ust. ustawy z dnia 26 października 1995 r. społecznych formach rozwoju mieszkalnictwa.
 
 13. Bank, beneficjent wsparcia oraz inwestor przechowują 10 lat od dnia zakończenia okresu, którym ust. 10, dokumenty potwierdzające zgodność przyznanej rekompensaty, ust. 5, z warunkami określonymi przepisach wykonawczych wydanych na podstawie 19.
 
 **Art. 5a.**
 
-1. W przypadku gdy inwestorem jest społeczna inicjatywa mieszkaniowa albo spółka gminna, finansowego wsparcia na pokrycie części kosztów przedsięwzięcia, którym ust. 1 1 i 2 lit. a, udziela się również, jeżeli utworzone z udziałem gminy albo związku międzygminnego, jako beneficjenta wsparcia, lokale mieszkalne zostaną wynajęte gminę albo związek międzygminny z prawem do podnajmowania osobom fizycznym bez zgody społecznej inicjatywy mieszkaniowej albo spółki gminnej.
+1. W przypadku gdy inwestorem jest społeczna inicjatywa mieszkaniowa albo spółka gminna, finansowego wsparcia na pokrycie części kosztów przedsięwzięcia, którym ust. 1 1 i 2 a, udziela się również, jeżeli utworzone z udziałem gminy albo związku międzygminnego, jako beneficjenta wsparcia, lokale mieszkalne zostaną wynajęte gminę albo związek międzygminny z prawem do podnajmowania osobom fizycznym bez zgody społecznej inicjatywy mieszkaniowej albo spółki gminnej.
 
 2. Umowa, ust. 2 1, przypadku, którym ust. 1, zawarta między gminą albo związkiem międzygminnym a społeczną inicjatywą mieszkaniową albo spółką gminną, określa szczególności:
 
@@ -162,9 +187,9 @@ sprawie ogłoszenia jednolitego tekstu ustawy finansowym wsparciu niektórych pr
 
 **Art. 5b.**
 
-1. Jeżeli finansowe wsparcie, którym 3, ust. 1 1 i 2 lit. a i 5a, jest udzielane na przedsięwzięcie, wyniku którego powstaną lokale mieszkalne, których docelową grupę najemców będą stanowić również osoby starsze rozumieniu 4 1 ustawy z dnia 11 września 2015 r. osobach starszych (Dz. U. poz. 1705, z 2024 r. poz. 834 oraz z 2026 r. poz. 160), finansowe wsparcie jest udzielane także na utworzenie dodatkowych powierzchni użytkowych przeznaczonych na zaspokajanie potrzeb tych osób.
+1. Jeżeli finansowe wsparcie, którym 3, ust. 1 1 i 2 a i 5a, jest udzielane na przedsięwzięcie, wyniku którego powstaną lokale mieszkalne, których docelową grupę najemców będą stanowić również osoby starsze rozumieniu 4 1 ustawy z dnia 11 września 2015 r. osobach starszych (Dz. U. poz. 1705, z 2024 r. poz. 834 oraz z 2026 r. poz. 160), finansowe wsparcie jest udzielane także na utworzenie dodatkowych powierzchni użytkowych przeznaczonych na zaspokajanie potrzeb tych osób.
 
-2. W przypadku przedsięwzięć, których ust. 1 1 i 2 lit. a, koszty związane z utrzymaniem dodatkowych powierzchni użytkowych, których ust. 1, ponoszą najemcy częściach równych, z uwzględnieniem 7c.
+2. W przypadku przedsięwzięć, których ust. 1 1 i 2 a, koszty związane z utrzymaniem dodatkowych powierzchni użytkowych, których ust. 1, ponoszą najemcy częściach równych, z uwzględnieniem 7c.
 
 **Art. 5c.**
 
@@ -226,7 +251,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy finansowym wsparciu niektórych pr
 
 2. Finansowe wsparcie nie przysługuje na pokrycie kosztów przedsięwzięcia, na które została udzielona premia, 11g ust. 1 ustawy z dnia 21 listopada 2008 r. wspieraniu termomodernizacji i remontów oraz centralnej ewidencji emisyjności budynków.
 
-3. Finansowe wsparcie nie przysługuje, jeżeli na realizację przedsięwzięcia zostały przyznane formie dotacji celowej środki finansowe, których 365 4 lit. a ustawy z dnia 20 lipca 2018 r. Prawo szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. ).
+3. Finansowe wsparcie nie przysługuje, jeżeli na realizację przedsięwzięcia zostały przyznane formie dotacji celowej środki finansowe, których 365 4 a ustawy z dnia 20 lipca 2018 r. Prawo szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. ).
 
 - **1)** pomieszczenia służącego zaspokajaniu potrzeb mieszkaniowych studentów i doktorantów z wykorzystaniem finansowego wsparcia, którym 4a ust. 1, uczelnia publiczna udostępnia to pomieszczenie studentowi lub doktorantowi celu zaspokajania potrzeb mieszkaniowych, jeżeli:
     - **a)** ten student lub doktorant oraz osoby korzystające wraz z nim z tego pomieszczenia zgodnie z 4a ust. 3 dniu udostępnienia tego pomieszczenia nie posiadają tytułu prawnego do lokalu mieszkalnego tej samej miejscowości,
@@ -274,7 +299,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy finansowym wsparciu niektórych pr
 - **1)** 45 % tych kosztów stawka czynszu za 1 m powierzchni użytkowej tego lokalu nie może przekroczyć skali roku 3,5 %,
 - **2)** 60 % tych kosztów stawka czynszu za 1 m powierzchni użytkowej tego lokalu nie może przekroczyć skali roku 3 %,
 - **3)** 75 % tych kosztów stawka czynszu za 1 m powierzchni użytkowej tego lokalu nie może przekroczyć skali roku 2,5 %,
-- **4)** 90 % tych kosztów stawka czynszu za 1 m powierzchni użytkowej tego lokalu nie może przekroczyć skali roku 2 % wartości odtworzeniowej lokalu, obliczonej zgodnie z 9 ust. 8 ustawy z dnia 21 czerwca 2001 r. ochronie praw lokatorów, mieszkaniowym zasobie gminy i zmianie Kodeksu cywilnego. ust. 1 3, ust. 1 2 lub 5a ust. 1 przypadku, którym ust. 1 2, stawka czynszu za 1 m powierzchni użytkowej tego lokalu nie może przekroczyć skali roku % wartości odtworzeniowej lokalu, obliczonej zgodnie z 9 ust. 8 ustawy z dnia 21 czerwca 2001 r. ochronie praw lokatorów, mieszkaniowym zasobie gminy i zmianie Kodeksu cywilnego.
+- **4)** 90 % tych kosztów stawka czynszu za 1 m powierzchni użytkowej tego lokalu nie może przekroczyć skali roku 2 % wartości odtworzeniowej lokalu, obliczonej zgodnie z 9 ust. 8 ustawy z dnia 21 czerwca 2001 r. ochronie praw lokatorów, mieszkaniowym zasobie gminy i zmianie Kodeksu cywilnego. powierzchni użytkowej tego lokalu nie może przekroczyć skali roku % wartości odtworzeniowej lokalu, obliczonej zgodnie z 9 ust. 8 ustawy z dnia 21 czerwca 2001 r. ochronie praw lokatorów, mieszkaniowym zasobie gminy i zmianie Kodeksu cywilnego.
 
 3a. Wysokość opłaty dziennej za udostępnienie, zgodnie z 4a ust. 2 i 3, pomieszczenia służącego zaspokajaniu potrzeb mieszkaniowych studentów i doktorantów utworzonego lub zmodernizowanego z wykorzystaniem finansowego wsparcia nie może przekroczyć iloczynu liczby metrów kwadratowych powierzchni mieszkalnej tego pomieszczenia przypadającej na studenta lub doktoranta, któremu to pomieszczenie udostępniono, oraz na osoby korzystające z tego pomieszczenia wraz z tym studentem lub doktorantem, zgodnie z 4a ust. 3, oraz kwoty stanowiącej 0,015 % wartości odtworzeniowej lokalu obliczonej zgodnie z 9 ust. 8 ustawy z dnia 21 czerwca 2001 r. ochronie praw lokatorów, mieszkaniowym zasobie gminy i zmianie Kodeksu cywilnego albo 0,008 % tej kwoty przypadku gdy poza opłatą za udostępnienie pomieszczenia służącego zaspokajaniu potrzeb mieszkaniowych studentów i doktorantów uczelnia publiczna pobiera od tego studenta lub doktoranta opłatę na pokrycie kosztów od niej niezależnych. Przez koszty niezależne od uczelni publicznej rozumie się opłaty niezależne od właściciela rozumieniu 2 ust. 1 8 ustawy z dnia 21 czerwca 2001 r. ochronie praw lokatorów, mieszkaniowym zasobie gminy i zmianie Kodeksu cywilnego, ponoszone tę uczelnię związku z udostępnieniem pomieszczenia służącego zaspokajaniu potrzeb mieszkaniowych studentów i doktorantów.
 
@@ -294,7 +319,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy finansowym wsparciu niektórych pr
 
 - **26)** 1. Lokale mieszkalne utworzone z wykorzystaniem finansowego wsparcia, którym albo 5a, nie mogą być wyodrębnione na własność przed upływem 25 lat, licząc od dnia rozliczenia kosztów przedsięwzięcia.
 
-2. Po upływie okresu, na jaki została zawarta umowa, ust. 2 1, przypadku realizacji przedsięwzięcia z udziałem finansowego wsparcia, którym albo 5a, przepisy 28 ust. 2 2 i ust. 2a–5 oraz 30 ust. 1 2, ust. 1a, 1b, 3, 3a, 5, 5a i 7 ustawy z dnia 26 października 1995 r. społecznych formach rozwoju mieszkalnictwa stosuje się odpowiednio. związku międzygminnego przypadku, gdy z realizacją przedsięwzięcia było związane zawarcie umowy, ust. 2, stosuje się przepisy rozdziału 2 ustawy z dnia 21 czerwca 2001 r. ochronie praw lokatorów, mieszkaniowym zasobie gminy i zmianie Kodeksu cywilnego oraz ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. z 2025 r. poz. 1071, 1172 i 1508 oraz z 2026 r. poz. 184) najmie lokalu.
+2. Po upływie okresu, na jaki została zawarta umowa, ust. 2 1, przypadku realizacji przedsięwzięcia z udziałem finansowego wsparcia, którym albo 5a, przepisy 28 ust. 2 2 i ust. 2a–5 oraz 30 ust. 1 2, ust. 1a, 1b, 3, 3a, 5, 5a i 7 ustawy z dnia 26 października 1995 r. społecznych formach rozwoju mieszkalnictwa stosuje się odpowiednio. ust. 2, stosuje się przepisy rozdziału 2 ustawy z dnia 21 czerwca 2001 r. ochronie praw lokatorów, mieszkaniowym zasobie gminy i zmianie Kodeksu cywilnego oraz ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. z 2025 r. poz. 1071, 1172 i 1508 oraz z 2026 r. poz. 184) najmie lokalu.
 
 #### Rozdział 2a Zasób dokumentacji projektowych dotyczących budowy budynków, których są tworzone lokale mieszkalne
 
@@ -373,7 +398,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy finansowym wsparciu niektórych pr
 
 1a. Wnioski finansowe wsparcie przyznawane wraz z grantem MZG i grantem OZE Bank kwalifikuje do udzielenia finansowego wsparcia wraz z tym grantem do dnia 30 czerwca 2026 r.
 
-2. W terminie do 15. dnia miesiąca następującego po danym kwartale Bank ogłasza Biuletynie Informacji Publicznej na swojej stronie podmiotowej listę zakwalifikowanych wniosków finansowe wsparcie. nych na dany rok na zasilenie Funduszu Dopłat z przeznaczeniem na sfinansowanie wypłat finansowego wsparcia oraz wolnych środków tego funduszu z wyłączeniem środków, których ust. 2 4d ustawy z dnia grudnia 2002 r. dopłatach do oprocentowania kredytów mieszkaniowych stałej stopie procentowej (Dz. U. z 2025 r. poz. 1224).
+2. W terminie do 15. dnia miesiąca następującego po danym kwartale Bank ogłasza Biuletynie Informacji Publicznej na swojej stronie podmiotowej listę zakwalifikowanych wniosków finansowe wsparcie. środków tego funduszu z wyłączeniem środków, których ust. 2 4d ustawy z dnia grudnia 2002 r. dopłatach do oprocentowania kredytów mieszkaniowych stałej stopie procentowej (Dz. U. z 2025 r. poz. 1224).
 
 2. Do dnia 30 czerwca danego roku finansowego wsparcia na realizację przedsięwzięć, których w:
 
@@ -424,7 +449,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy finansowym wsparciu niektórych pr
 - **3)** zmiany rodzaju zasobu powstającego wyniku jego realizacji,
 - **4)** podwyższenia kwoty finansowego wsparcia lub powoduje niezgodność tego przedsięwzięcia z 3, 6aa, 6b, 7, 13 lub 14–16.
 
-1b. Przepisu ust. 1a 2 nie stosuje się przypadku realizacji przedsięwzięć, których 3 ust. 1 2, 3, i 6, ust. 1 2 oraz 5a, przypadku, którym ust. 1 2 lit. a, pod warunkiem zmniejszenia kwoty finansowego wsparcia.
+1b. Przepisu ust. 1a 2 nie stosuje się przypadku realizacji przedsięwzięć, których 3 ust. 1 2, 3, i 6, ust. 1 2 oraz 5a, przypadku, którym ust. 1 2 a, pod warunkiem zmniejszenia kwoty finansowego wsparcia.
 
 2. Środki budżetu państwa przekazywane są do Funduszu Dopłat terminie umożliwiającym wypłatę, na rachunek beneficjenta wsparcia, środków finansowego wsparcia, zgodnie z postanowieniami umowy, ust. 1.
 
@@ -442,24 +467,24 @@ sprawie ogłoszenia jednolitego tekstu ustawy finansowym wsparciu niektórych pr
 - **2)** 50 % kosztów przedsięwzięcia przypadkach, których 3 ust. 1 i 6 innych niż wskazane 4, oraz przypadkach, których ust. 4;
     - **a)** 3 ust. 1 1–4 oraz ust. 2,
     - **b)** 4 ust. 1 i 2, ba) 4a ust. 1,
-    - **c)** ust. 1 1 i 2 lit. a przypadku, którym 5a ust. 1 oraz 6 ust. 3 1;
+    - **c)** ust. 1 1 i 2 a przypadku, którym 5a ust. 1 oraz 6 ust. 3 1;
 
 - **4)** 95 % kosztów przedsięwzięcia przypadkach, których 3 ust. 1 i 6, jeżeli przedmiotem zakupu jest byłe mieszkanie zakładowe, budynek mieszkalny z byłymi mieszkaniami zakładowymi albo udział we współwłasności budynku mieszkalnego, którym się znajdują byłe mieszkania zakładowe;
-- **5)** 80 % kosztów przedsięwzięcia przypadku, którym ust. 1 2 lit. b, pod warunkiem że do zakończenia umowy, 22b ustawy z dnia 26 października 1995 r. społecznych formach rozwoju mieszkalnictwa, pozostały co najmniej 4 pełne lata;
-- **6)** 60 % kosztów przedsięwzięcia przypadku, którym ust. 1 2 lit. b, pod warunkiem że do zakończenia umowy, 22b ustawy z dnia 26 października 1995 r. społecznych formach rozwoju mieszkalnictwa, pozostało mniej niż 4 lata;
-- **7)** 40 % kosztów przedsięwzięcia przypadku, którym ust. 1 2 lit. b, pod warunkiem że do zakończenia umowy, 22b ustawy z dnia 26 października 1995 r. społecznych formach rozwoju mieszkalnictwa, pozostało mniej niż 3 lata.
+- **5)** 80 % kosztów przedsięwzięcia przypadku, którym ust. 1 2 b, pod warunkiem że do zakończenia umowy, 22b ustawy z dnia 26 października 1995 r. społecznych formach rozwoju mieszkalnictwa, pozostały co najmniej 4 pełne lata;
+- **6)** 60 % kosztów przedsięwzięcia przypadku, którym ust. 1 2 b, pod warunkiem że do zakończenia umowy, 22b ustawy z dnia 26 października 1995 r. społecznych formach rozwoju mieszkalnictwa, pozostało mniej niż 4 lata;
+- **7)** 40 % kosztów przedsięwzięcia przypadku, którym ust. 1 2 b, pod warunkiem że do zakończenia umowy, 22b ustawy z dnia 26 października 1995 r. społecznych formach rozwoju mieszkalnictwa, pozostało mniej niż 3 lata.
 
 1a. Jeżeli przedsięwzięcie obejmuje koszty, do których mają zastosowanie określone ust. 1 różne limity wysokości finansowego wsparcia kosztach przedsięwzięcia, wysokość finansowego wsparcia na realizację przedsięwzięcia nie może przekroczyć:
 
-- **1)** 45 % kosztów przedsięwzięcia przypadku, którym ust. 1 1 i 2 lit. a, z wyjątkiem przypadków, których 5a ust. 1 i 6 ust. 3 1, przy czym udział gminy lub związku międzygminnego części przekraczającej 35 % kosztów przedsięwzięcia jest pokrywany do wysokości odpowiadającej wartości prawa własności albo prawa użytkowania wieczystego gruntu będącego we władaniu inwestora, na którym jest realizowane przedsięwzięcie;
+- **1)** 45 % kosztów przedsięwzięcia przypadku, którym ust. 1 1 i 2 a, z wyjątkiem przypadków, których 5a ust. 1 i 6 ust. 3 1, przy czym udział gminy lub związku międzygminnego części przekraczającej 35 % kosztów przedsięwzięcia jest pokrywany do wysokości odpowiadającej wartości prawa własności albo prawa użytkowania wieczystego gruntu będącego we władaniu inwestora, na którym jest realizowane przedsięwzięcie;
 - **2)** 50 % kosztów przedsięwzięcia przypadku przedsięwzięć, których 3 ust. 1 i 6, jeżeli przedmiotem zakupu nie jest byłe mieszkanie zakładowe, budynek mieszkalny z byłymi mieszkaniami zakładowymi albo udział we współwłasności budynku mieszkalnego, którym się znajdują byłe mieszkania zakładowe.
-- **3)** (uchylony) 1b. Łączna kwota udzielonego gminie finansowego wsparcia, którym ust. 1 1 i 2 lit. a, oraz wsparcia udzielonego ze środków zlikwidowanego Rządowego Funduszu Rozwoju Mieszkalnictwa na sfinansowanie części lub całości działania polegającego na objęciu udziałów lub akcji istniejącej SIM, która przed dniem objęcia tych udziałów lub akcji prowadziła działalność na terenie tej gminy, nie może przekroczyć 45 % kosztów przedsięwzięcia.
+- **3)** (uchylony) 1b. Łączna kwota udzielonego gminie finansowego wsparcia, którym ust. 1 1 i 2 a, oraz wsparcia udzielonego ze środków zlikwidowanego Rządowego Funduszu Rozwoju Mieszkalnictwa na sfinansowanie części lub całości działania polegającego na objęciu udziałów lub akcji istniejącej SIM, która przed dniem objęcia tych udziałów lub akcji prowadziła działalność na terenie tej gminy, nie może przekroczyć 45 % kosztów przedsięwzięcia.
 
 2. (uchylony)
 
 3. Koszty, których ust. 1 i 1a, są kosztami uwzględniającymi podatek od towarów i usług, ile inwestorowi na podstawie odrębnych przepisów nie przysługuje prawo do obniżenia kwoty podatku należnego kwotę podatku naliczonego związanego z tym przedsięwzięciem lub zwrotu tego podatku.
 
-4. W przypadku przedsięwzięć, których 15 ust. 1 lit. a ustawy z dnia 9 października 2015 r. rewitalizacji (Dz. U. z 2024 r. poz. 278), lub przedsięwzięć, ramach których niemniej niż % lokali mieszkalnych będzie przeznaczonych dla rodzin z dziećmi posiadającymi zaświadczenie, którym 4 ust. 3 ustawy z dnia 4 listopada 2016 r. wsparciu kobiet ciąży i rodzin „Za życiem” (Dz. U. z 2024 r. poz. 1829), wysokość finansowego wsparcia, którym ust. 1, podwyższa się punktów procentowych, z wyłączeniem przedsięwzięć realizowanych przy wykorzystaniu finansowania zwrotnego oraz przedsięwzięć, których 3 ust. 1 i 6, jeżeli przedmiotem zakupu jest byłe mieszkanie zakładowe, budynek mieszkalny z byłymi mieszkaniami zakładowymi albo udział we współwłasności budynku mieszkalnego, którym znajdują się byłe mieszkania zakładowe. którym ust. 1, podwyższa się 10 punktów procentowych, jeżeli budynek jest wpisany do rejestru zabytków lub znajduje się na obszarze wpisanym do rejestru zabytków.
+4. W przypadku przedsięwzięć, których 15 ust. 1 a ustawy z dnia 9 października 2015 r. rewitalizacji (Dz. U. z 2024 r. poz. 278), lub przedsięwzięć, ramach których niemniej niż % lokali mieszkalnych będzie przeznaczonych dla rodzin z dziećmi posiadającymi zaświadczenie, którym 4 ust. 3 ustawy z dnia 4 listopada 2016 r. wsparciu kobiet ciąży i rodzin „Za życiem” (Dz. U. z 2024 r. poz. 1829), wysokość finansowego wsparcia, którym ust. 1, podwyższa się punktów procentowych, z wyłączeniem przedsięwzięć realizowanych przy wykorzystaniu finansowania zwrotnego oraz przedsięwzięć, których 3 ust. 1 i 6, jeżeli przedmiotem zakupu jest byłe mieszkanie zakładowe, budynek mieszkalny z byłymi mieszkaniami zakładowymi albo udział we współwłasności budynku mieszkalnego, którym znajdują się byłe mieszkania zakładowe. którym ust. 1, podwyższa się 10 punktów procentowych, jeżeli budynek jest wpisany do rejestru zabytków lub znajduje się na obszarze wpisanym do rejestru zabytków.
 
 6. Wysokość finansowego wsparcia na realizację przedsięwzięcia infrastrukturalnego jest równa iloczynowi 10 % kosztów przedsięwzięcia infrastrukturalnego oraz liczby przedsięwzięć lub inwestycji, powiązanych z przedsięwzięciem infrastrukturalnym, których 5c ust. 1, przy czym wysokość tego wsparcia nie może przekroczyć sumy:
 
@@ -491,7 +516,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy finansowym wsparciu niektórych pr
 
 2. Grantu MZG udziela się, jeżeli przedsięwzięcie nie wyrządza poważnych szkód dla celów środowiskowych.
 
-3. Oceny spełniania warunku, którym ust. 2, Bank dokonuje z uwzględnieniem 19 ust. 3 lit. d rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/241 z dnia 12 lutego 2021 r. ustanawiającego Instrument na rzecz Odbudowy i Zwiększania Odporności (Dz. Urz. UE L 57 z 18.02.2021, str. 17, z późn. zm. ).
+3. Oceny spełniania warunku, którym ust. 2, Bank dokonuje z uwzględnieniem 19 ust. 3 d rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/241 z dnia 12 lutego 2021 r. ustanawiającego Instrument na rzecz Odbudowy i Zwiększania Odporności (Dz. Urz. UE L 57 z 18.02.2021, str. 17, z późn. zm. ).
 
 4. Koszty, których ust. 1, nie uwzględniają podatku od towarów i usług. przedsięwzięcia, którym 3 ust. 1 3, przypadkach, których 3 ust. 4.
 
@@ -501,27 +526,27 @@ sprawie ogłoszenia jednolitego tekstu ustawy finansowym wsparciu niektórych pr
 
 **Art. 13c.**
 
-1. W przypadku gdy przedsięwzięcie, którym ust. 1 1 i 2 lit. a lub 5a ust. 1, spełniające warunek, którym ust. 1 1 i 2 lit. a, obejmuje zakup, montaż lub budowę instalacji odnawialnego źródła energii, którym 2 13 lit. a ustawy z dnia 20 lutego 2015 r. odnawialnych źródłach energii, z wyłączeniem magazynu biogazu rolniczego, przyłączonej do sieci dystrybucyjnej za pośrednictwem wewnętrznej instalacji, wraz z finansowym wsparciem udziela się grantu OZE na pokrycie 50 % kosztów tej instalacji, jednak niewięcej niż % kosztów całego przedsięwzięcia.
+1. W przypadku gdy przedsięwzięcie, którym ust. 1 1 i 2 a lub 5a ust. 1, spełniające warunek, którym ust. 1 1 i 2 a, obejmuje zakup, montaż lub budowę instalacji odnawialnego źródła energii, którym 2 13 a ustawy z dnia 20 lutego 2015 r. odnawialnych źródłach energii, z wyłączeniem magazynu biogazu rolniczego, przyłączonej do sieci dystrybucyjnej za pośrednictwem wewnętrznej instalacji, wraz z finansowym wsparciem udziela się grantu OZE na pokrycie 50 % kosztów tej instalacji, jednak niewięcej niż % kosztów całego przedsięwzięcia.
 
 2. Grantu OZE udziela się, jeżeli przedsięwzięcie nie wyrządza poważnych szkód dla celów środowiskowych.
 
-3. Oceny spełniania warunku, którym ust. 2, Bank dokonuje z uwzględnieniem 19 ust. 3 lit. d rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/241 z dnia 12 lutego 2021 r. ustanawiającego Instrument na rzecz Odbudowy i Zwiększania Odporności.
+3. Oceny spełniania warunku, którym ust. 2, Bank dokonuje z uwzględnieniem 19 ust. 3 d rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/241 z dnia 12 lutego 2021 r. ustanawiającego Instrument na rzecz Odbudowy i Zwiększania Odporności.
 
 4. Koszty, których ust. 1, nie uwzględniają podatku od towarów i usług.
 
-5. Grant OZE jest udzielany na wniosek składany łącznie z wnioskiem finansowe wsparcie przedsięwzięcia, którym ust. 1 1 i 2 lit. a lub 5a ust. 1, spełniającego warunek, którym ust. 1 1 i 2 lit. a, składany do dnia 31 marca 2026 r.
+5. Grant OZE jest udzielany na wniosek składany łącznie z wnioskiem finansowe wsparcie przedsięwzięcia, którym ust. 1 1 i 2 a lub 5a ust. 1, spełniającego warunek, którym ust. 1 1 i 2 a, składany do dnia 31 marca 2026 r.
 
 6. Do wniosku grant OZE oraz do oceny spełnienia warunku, którym ust. 2, stosuje się odpowiednio przepisy 8 ust. 2–9.
 
 7. Do wniosku grant OZE dołącza się informacje kosztach zakupu, montażu lub budowie instalacji odnawialnego źródła energii oraz informacje dotyczące sporządzonej dokumentacji.
 
-**Art. 13d.** W przypadku, którym 13c, gdy z realizacją przedsięwzięcia, którym ust. 1 1 i 2 lit. a, związane było zawarcie umowy, ust. 2 1:
+**Art. 13d.** W przypadku, którym 13c, gdy z realizacją przedsięwzięcia, którym ust. 1 1 i 2 a, związane było zawarcie umowy, ust. 2 1:
 
 **Art. 14.**
 
 1. Do kosztów przedsięwzięcia zalicza się:
 
-- **1)** przypadkach, których 3 ust. 1 1–4, 4, 4a ust. 1 1 i 2 oraz 5c: 4a ust. 1 3:
+- **1)** przypadkach, których 3 ust. 1 1–4, 4, 4a ust. 1 1 i 2 oraz 5c:
     - **a)** koszty materiałów i robót budowlanych niezbędnych do realizacji przedsięwzięcia, tym koszty wykonania: przyłączy technicznych, obiektów i urządzeń związanych z budynkiem, tym placów zabaw, śmietników, ogrodzeń, stanowisk postojowych, garaży znajdujących się budynkach mieszkalnych i wielopoziomowych, placów pod śmietniki, przejazdów (dróg wewnętrznych) wraz z niezbędnymi zjazdami z drogi publicznej, również sytuacji, kiedy zjazdy te są wykonywane zgodnie z odrębnymi przepisami poza nieruchomością stanowiącą własność albo będącą użytkowaniu wieczystym inwestora,
     - **b)** koszty wykonania czynności specjalistycznych, tym koszty: projektowania, niezbędnych badań i ekspertyz technicznych, powierzenia pełnienia funkcji inwestora zastępczego, nadzoru i kierowania budową, rozliczania robót budowlanych,
     - **c)** koszty przygotowania terenu,
@@ -535,7 +560,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy finansowym wsparciu niektórych pr
 
 - **3)** przypadkach, których ust. 1 koszty, których 1, przypadające na lokale mieszkalne, stosunku do których beneficjentowi wsparcia przysługuje prawo, którym ust. 3 2, 5a ust. 2 2 oraz 6 ust. 3 1.
 
-2. Przez koszty wykonania stanowisk postojowych lub garaży znajdujących się budynkach mieszkalnych i wielopoziomowych, których ust. 1 1 lit. a tiret drugie, rozumie się koszty wykonania stanowisk postojowych lub garaży zlokalizowanych obrębie finansowanego przedsięwzięcia liczbie nieprzekraczającej minimalnej liczby wynikającej z ustaleń miejscowego planu zagospodarowania przestrzennego albo decyzji warunkach zabudowy oraz przypadającej na finansowanie ramach przedsięwzięcia.
+2. Przez koszty wykonania stanowisk postojowych lub garaży znajdujących się budynkach mieszkalnych i wielopoziomowych, których ust. 1 1 a tiret drugie, rozumie się koszty wykonania stanowisk postojowych lub garaży zlokalizowanych obrębie finansowanego przedsięwzięcia liczbie nieprzekraczającej minimalnej liczby wynikającej z ustaleń miejscowego planu zagospodarowania przestrzennego albo decyzji warunkach zabudowy oraz przypadającej na finansowanie ramach przedsięwzięcia.
 
 3. Do kosztów przedsięwzięcia nie zalicza się kosztów związanych z zakupem, montażem i uruchomieniem indywidualnego kotła zasilanego paliwami kopalnymi.
 
@@ -561,10 +586,10 @@ sprawie ogłoszenia jednolitego tekstu ustawy finansowym wsparciu niektórych pr
 
 2. Przez rozpoczęcie realizacji przedsięwzięcia rozumie się:
 
-- **1)** rozpoczęcie robót budowlanych przypadkach, których 3 ust. 1 1–4, 4, 4a ust. 1 1 i 2, ust. 1 2 lit. b oraz 5c;
+- **1)** rozpoczęcie robót budowlanych przypadkach, których 3 ust. 1 1–4, 4, 4a ust. 1 1 i 2, ust. 1 2 b oraz 5c;
 - **2)** kupno lokali mieszkalnych objętych przedsięwzięciem, budynku mieszkalnego albo udziału we współwłasności budynku mieszkalnego przypadkach, których 3 ust. 1 i 6;
 - **2a)** kupno budynku mieszkalnego albo udziału we własności budynku mieszkalnego przypadku, którym 4a ust. 1 3;
-- **3)** zawarcie umowy, ust. 2, również przypadku, którym 5a ust. 1, lub 6 ust. 3 1 przypadku przedsięwzięć, których ust. 1 1 i 2 lit. a.
+- **3)** zawarcie umowy, ust. 2, również przypadku, którym 5a ust. 1, lub 6 ust. 3 1 przypadku przedsięwzięć, których ust. 1 1 i 2 a.
 
 3. Z wyłączeniem przedsięwzięć, których ust. 1 lub 5a ust. 1, termin zakończenia realizacji przedsięwzięcia nie może być dłuższy niż 36 miesięcy, licząc od dnia rozpoczęcia jego realizacji.
 
@@ -580,8 +605,8 @@ sprawie ogłoszenia jednolitego tekstu ustawy finansowym wsparciu niektórych pr
 
 3. W przypadku przedsięwzięć, których ust. 1 albo 5c ust. 2, warunkiem uruchomienia finansowego wsparcia oraz jego przekazania na rachunek beneficjenta wsparcia jest:
 
-- **1)** zawarcie umowy, ust. 2 1 albo 5c ust. 3 przypadku przedsięwzięć, których ust. 1 1 i 2 lit. a albo 5c ust. 2;
-- **2)** zawarcie inwestora umowy, 22c ust. 1 ustawy z dnia 26 października 1995 r. społecznych formach rozwoju mieszkalnictwa przypadku przedsięwzięć, których ust. 1 2 lit. b, jeżeli dotyczą niebędącego własnością inwestora lokalu mieszkalnego, budynku mieszkalnego jednorodzinnego, budynku innego niż mieszkalny albo części takiego budynku.
+- **1)** zawarcie umowy, ust. 2 1 albo 5c ust. 3 przypadku przedsięwzięć, których ust. 1 1 i 2 a albo 5c ust. 2;
+- **2)** zawarcie inwestora umowy, 22c ust. 1 ustawy z dnia 26 października 1995 r. społecznych formach rozwoju mieszkalnictwa przypadku przedsięwzięć, których ust. 1 2 b, jeżeli dotyczą niebędącego własnością inwestora lokalu mieszkalnego, budynku mieszkalnego jednorodzinnego, budynku innego niż mieszkalny albo części takiego budynku.
 
 3a. Kwota finansowego wsparcia jest przekazywana na rachunek beneficjenta wsparcia roku zawarcia umowy, 12 ust. 1.
 
@@ -647,7 +672,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy finansowym wsparciu niektórych pr
 
 1a. Po upływie 25 lat od dnia rozliczenia kosztów przedsięwzięcia, którym 3, z wyjątkiem przedsięwzięć, których 3 ust. 1 i 6, jeżeli przedmiotem zakupu jest byłe mieszkanie zakładowe, przypadku podjęcia decyzji zbyciu lokalu mieszkalnego cena tego lokalu nie może być niższa niż jego wartość rynkowa określona zgodnie z przepisami ustawy z dnia 21 sierpnia 1997 r. gospodarce nieruchomościami. Przepisów 68 ustawy z dnia 21 sierpnia 1997 r. gospodarce nieruchomościami nie stosuje się.
 
-1b. Kwotę stanowiącą odsetek wartości rynkowej lokalu mieszkalnego równy udziałowi uzyskanego finansowego wsparcia kosztach budowy tego lokalu, uwzględniających wartość nieruchomości, gmina albo jednoosobowa spółka gminna przeznacza na realizację przedsięwzięć, których 1 1. ust. 1b, gmina albo jednoosobowa spółka gminna gromadzi te środki na wydzielonym rachunku bankowym gminy, którym 7c ust. 6.
+1b. Kwotę stanowiącą odsetek wartości rynkowej lokalu mieszkalnego równy udziałowi uzyskanego finansowego wsparcia kosztach budowy tego lokalu, uwzględniających wartość nieruchomości, gmina albo jednoosobowa spółka gminna przeznacza na realizację przedsięwzięć, których 1 1. 7c ust. 6.
 
 2. Przed upływem 10 lat od dnia rozliczenia kosztów przedsięwzięcia, którym 4 ust. 2, nie można zbyć lub zmienić przeznaczenia noclegowni, schroniska dla osób bezdomnych lub ogrzewalni, wyremontowanych lub przebudowanych z wykorzystaniem finansowego wsparcia.
 
@@ -681,7 +706,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy finansowym wsparciu niektórych pr
 - **5)** schroniska dla osób bezdomnych na noclegownię lub ogrzewalnię,
 - **6)** ogrzewalni na noclegownię lub schronisko dla osób bezdomnych utworzonych z wykorzystaniem finansowego wsparcia.
 
-11. W przypadku finansowego wsparcia przedsięwzięć, których ust. 1 2 lit. b, jeżeli okres umowy, 22b ustawy z dnia 26 października 1995 r. społecznych formach rozwoju mieszkalnictwa, zostanie skrócony, beneficjent wsparcia zwraca do Funduszu Dopłat kwotę finansowego wsparcia części proporcjonalnej do każdego pełnego miesiąca skróconego okresu umowy, wraz z odsetkami wysokości określonej jak dla zaległości podatkowych, terminie 30 dni od dnia skrócenia tej umowy. Odsetki nalicza się od następnego dnia roboczego po dniu przekazania finansowego wsparcia na rachunek beneficjenta wsparcia.
+11. W przypadku finansowego wsparcia przedsięwzięć, których ust. 1 2 b, jeżeli okres umowy, 22b ustawy z dnia 26 października 1995 r. społecznych formach rozwoju mieszkalnictwa, zostanie skrócony, beneficjent wsparcia zwraca do Funduszu Dopłat kwotę finansowego wsparcia części proporcjonalnej do każdego pełnego miesiąca skróconego okresu umowy, wraz z odsetkami wysokości określonej jak dla zaległości podatkowych, terminie 30 dni od dnia skrócenia tej umowy. Odsetki nalicza się od następnego dnia roboczego po dniu przekazania finansowego wsparcia na rachunek beneficjenta wsparcia.
 
 **Art. 22.** Jeżeli realizacja przedsięwzięcia, na które zostało udzielone finansowe wsparcie, współfinansowana jest:
 
@@ -689,7 +714,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy finansowym wsparciu niektórych pr
 
 **Art. 22a.**
 
-1. W przypadku przedsięwzięć, których 3 ust. 1 1, 2 i 4 oraz ust. 1 1 i 2 lit. a, finansowe wsparcie może zostać udzielone ramach planu rozwojowego.
+1. W przypadku przedsięwzięć, których 3 ust. 1 1, 2 i 4 oraz ust. 1 1 i 2 a, finansowe wsparcie może zostać udzielone ramach planu rozwojowego.
 
 2. Finansowego wsparcia ramach planu rozwojowego udziela się drodze odrębnego naboru wniosków przeprowadzanego ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa.
 
@@ -701,11 +726,11 @@ sprawie ogłoszenia jednolitego tekstu ustawy finansowym wsparciu niektórych pr
 
 4. Do wniosku finansowe wsparcie udzielane ramach planu rozwojowego dołącza się informacje dotyczące sposobu sporządzania projektu, planowanego wykorzystania wyrobów budowlanych i sporządzonej dokumentacji potwierdzające, że przedsięwzięcie nie będzie wyrządzać poważnych szkód dla celów środowiskowych.
 
-5. Oceny spełniania warunku, którym ust. 3 2, Bank dokonuje z uwzględnieniem 19 ust. 3 lit. d rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/241 z dnia 12 lutego 2021 r. ustanawiającego Instrument na rzecz Odbudowy i Zwiększania Odporności.
+5. Oceny spełniania warunku, którym ust. 3 2, Bank dokonuje z uwzględnieniem 19 ust. 3 d rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/241 z dnia 12 lutego 2021 r. ustanawiającego Instrument na rzecz Odbudowy i Zwiększania Odporności.
 
 6. Nabór wniosków udzielenie finansowego wsparcia ramach planu rozwojowego rozpoczyna się niewcześniej niż dnia 1 października danego roku i kończy się niepóźniej niż dnia 30 września roku następnego. Nabór może zostać przeprowadzony więcej niż raz.
 
-7. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa publikuje Biuletynie Informacji Publicznej na stronie podmiotowej obsługującego go urzędu ogłoszenie naborze wniosków udzielenie finansowego wsparcia ramach planu rozwojowego. macje o:
+7. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa publikuje Biuletynie Informacji Publicznej na stronie podmiotowej obsługującego go urzędu ogłoszenie naborze wniosków udzielenie finansowego wsparcia ramach planu rozwojowego.
 
 - **1)** przedmiocie tego naboru;
 - **2)** podmiotach mogących ubiegać się finansowe wsparcie ramach tego naboru;
@@ -714,7 +739,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy finansowym wsparciu niektórych pr
 
 9. Do finansowego wsparcia udzielanego ramach planu rozwojowego stosuje się przepisy rozdziału 3, z wyjątkiem 8 ust. 5–10, 8a, 8b, 13 oraz 17 ust. 3a.
 
-9a. W przypadku przedsięwzięć, których 3 ust. 1 2 i 4 oraz ust. 1 2 lit. a, realizowanych z wykorzystaniem finansowego wsparcia ramach planu rozwojowego, stosuje się 18 ust. 1c.
+9a. W przypadku przedsięwzięć, których 3 ust. 1 2 i 4 oraz ust. 1 2 a, realizowanych z wykorzystaniem finansowego wsparcia ramach planu rozwojowego, stosuje się 18 ust. 1c.
 
 10. W przypadku gdy finansowego wsparcia na pokrycie kosztów przedsięwzięcia udziela się na zasadach określonych rozdziale 3 oraz ramach planu rozwojowego, finansowego wsparcia udziela się na podstawie jednej umowy, 12 ust. 1.
 
@@ -723,11 +748,11 @@ sprawie ogłoszenia jednolitego tekstu ustawy finansowym wsparciu niektórych pr
 1. Wysokość finansowego wsparcia udzielanego ramach planu rozwojowego nie może przekroczyć:
 
 - **1)** 25 % kosztów przedsięwzięcia przypadku przedsięwzięcia, którym 3 ust. 1 1, 2 i 4 oraz 5a ust. 1;
-- **2)** 35 % kosztów przedsięwzięcia przypadku przedsięwzięcia, którym ust. 1 1 i 2 lit. a.
+- **2)** 35 % kosztów przedsięwzięcia przypadku przedsięwzięcia, którym ust. 1 1 i 2 a.
 
 1a. Łączna wysokość finansowego wsparcia udzielonego na zasadach określonych rozdziale 3, z wyłączeniem 13 ust. 4 i 13c, oraz ramach planu rozwojowego, którym w:
 
-- **1)** ust. 1 1 i 13 ust. 1 3 lit. a i c nie może przekroczyć 95 % kosztów przedsięwzięcia;
+- **1)** ust. 1 1 i 13 ust. 1 3 a i c nie może przekroczyć 95 % kosztów przedsięwzięcia;
 - **2)** ust. 1 2 i 13 ust. 1 1 nie może przekroczyć 60 % kosztów przedsięwzięcia.
 
 2. Koszty, których w:
@@ -757,7 +782,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy finansowym wsparciu niektórych pr
 3. Do najmu lokalu mieszkalnego utworzonego ramach przedsięwzięcia, którym mowa:
 
 - **1)** ust. 1 1, lub
-- **2)** ust. 1 2 lit. a z wykorzystaniem finansowego wsparcia udzielonego ramach planu rozwojowego, nie stosuje się przepisów 7a ust. 1 2 lit. b oraz 30 ust. 1 2 i 2a ustawy z dnia 26 października 1995 r. społecznych formach rozwoju mieszkalnictwa; takim przypadku ofercie wynajmu lokalu mieszkalnego umieszcza się informację zasadach wyboru najemców, których ust. 1.
+- **2)** ust. 1 2 a z wykorzystaniem finansowego wsparcia udzielonego ramach planu rozwojowego, nie stosuje się przepisów 7a ust. 1 2 b oraz 30 ust. 1 2 i 2a ustawy z dnia 26 października 1995 r. społecznych formach rozwoju mieszkalnictwa; takim przypadku ofercie wynajmu lokalu mieszkalnego umieszcza się informację zasadach wyboru najemców, których ust. 1.
 
 4. Najemcą lokalu mieszkalnego utworzonego ramach przedsięwzięcia realizowanego z wykorzystaniem finansowego wsparcia udzielonego ramach planu rozwojowego jest osoba nieposiadająca, dniu objęcia lokalu, tytułu prawnego do innego lokalu mieszkalnego na terenie Rzeczypospolitej Polskiej. Warunek ten dotyczy również osób zgłoszonych do wspólnego zamieszkania.
 

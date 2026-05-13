@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 9 sierpnia 2024 r.
+# o systemie rekompensat dla sektorów i podsektorów energochłonnych
+
+*USTAWA z dnia 19 lipca 2019 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,33 +26,6 @@ domain: null
 | Ostatnia zmiana | 2026-02-04 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001215) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1215/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 1 sierpnia 2024 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o systemie rekompensat dla sektorów i podsektorów energochłonnych
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 19 lipca 2019 r. o systemie rekompensat dla sektorów i podsektorów energochłonnych (Dz. U.
-z 2023 r. poz. 1393), z uwzględnieniem zmian wprowadzonych:
-1) ustawą z dnia 28 lipca 2023 r. o zmianie ustawy Prawo energetyczne oraz niektórych innych ustaw (Dz. U. poz. 1681 oraz z 2024 r. poz. 859),
-2) ustawą z dnia 7 grudnia 2023 r. o zmianie ustaw w celu wsparcia odbiorców energii elektrycznej, paliw gazowych i ciepła (Dz. U. poz. 2760),
-3) ustawą z dnia 23 maja 2024 r. o bonie energetycznym oraz o zmianie niektórych ustaw w celu ograniczenia cen energii elektrycznej, gazu ziemnego i ciepła systemowego (Dz. U. poz. 859) oraz zmian wynikających z przepisów ogłoszonych przed dniem 30 lipca 2024 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 48 ustawy z dnia 28 lipca 2023 r. o zmianie ustawy Prawo energetyczne oraz niektórych innych ustaw (Dz. U.
-poz. 1681 oraz z 2024 r. poz. 859), który stanowi: „Art. 48. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
-1) art. 1 pkt 6 lit. b, pkt 7 lit. f w zakresie art. 5 ust. 3b oraz lit. i w zakresie art. 5 ust. 4e oraz pkt 14 lit. d, które wchodzą w życie po upływie 2 miesięcy od dnia ogłoszenia;
-2) art. 1 pkt 7 lit. f w zakresie art. 5 ust. 3a oraz pkt 7 lit. m w zakresie art. 5 ust. 6ca pkt 1 lit. a, a także art. 22, które wchodzą w życie po upływie 6 miesięcy od dnia ogłoszenia;
-3) art. 1 pkt 2 lit. b w zakresie art. 3 pkt 6d, pkt 3, pkt 7 lit. i w zakresie art. 5 ust. 4f–4i, lit. k, lit. m w zakresie art. 5 ust. 6ca pkt 1 lit. b i lit. n, pkt 12 w zakresie art. 5b , pkt 20 lit. e, pkt 41 w zakresie art. 11zm–11zo oraz pkt 56, które wchodzą w życie po upływie 12 miesięcy od dnia ogłoszenia;
-4) art. 1 pkt 64 w zakresie art. 43f ust. 1 pkt 1 lit. b, art. 7 pkt 1, 2 i 4, a także art. 40 i art. 41, które wchodzą w życie z dniem 1 września 2023 r.;
-5) art. 1 pkt 2 lit. s, pkt 7 lit. c tiret drugie i lit. m w zakresie art. 5 ust. 6ca pkt 2, pkt 8 w zakresie art. 5a ust. 4, pkt 12 w zakresie art. 5b ust. 2 pkt 6, pkt 39 oraz pkt 47 lit. a tiret dziesiąte w zakresie art. 23 ust. 2 pkt 18b lit. l, art. 7 pkt 3, a także art. 8 pkt 1 lit. b oraz pkt 2 i 3, które wchodzą w życie z dniem 1 stycznia 2024 r.;
-6) art. 1 pkt 51 w zakresie, w jakim dotyczy prosumenta wirtualnego energii odnawialnej, który wchodzi w życie z dniem 2 lipca 2025 r.;
-7) art. 1 pkt 2 lit. a, lit. b w zakresie art. 3 pkt 6c, lit. m i n, pkt 6 lit. c i d, pkt 7 lit. b w zakresie dodanych wyrazów „paliw gazowych” oraz lit. o i p, pkt 9 i 10, pkt 20 lit. d tiret szóste, pkt 24 lit. c i d, pkt 34 lit. a i b, pkt 35–37 oraz pkt 71 lit. a tiret piąte w zakresie art. 56 ust. 1 pkt 17a i 17b, tiret szóste i siódme oraz lit. f, a także art. 27 i art. 28, które wchodzą w życie z dniem 1 lipca 2025 r.;
-8) (uchylony)
-9) art. 19, który wchodzi w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia.”;
-2) art. 17 ustawy z dnia 7 grudnia 2023 r. o zmianie ustaw w celu wsparcia odbiorców energii elektrycznej, paliw gazowych i ciepła (Dz. U. poz. 2760), który stanowi: „Art. 17. Ustawa wchodzi w życie z dniem 31 grudnia 2023 r.”;
-3) art. 43 ustawy z dnia 23 maja 2024 r. o bonie energetycznym oraz o zmianie niektórych ustaw w celu ograniczenia cen energii elektrycznej, gazu ziemnego i ciepła systemowego (Dz. U. poz. 859), który stanowi: „Art. 43. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem:
-1) art. 11, art. 21, art. 23 pkt 1 lit. b tiret drugie oraz pkt 6, art. 24 pkt 10, art. 29, art. 34, art. 35 i art. 39–41, które wchodzą w życie z dniem 1 lipca 2024 r.;
-2) art. 23 pkt 1 lit. a, w zakresie w jakim dotyczy wyłączenia odbiorców, którzy zawarli umowę z ceną dynamiczną energii elektrycznej, o której mowa w art. 3 pkt 6d ustawy zmienianej w art. 11, oraz art. 26 pkt 1, które wchodzą w życie z dniem 24 sierpnia 2024 r.”.
-Marszałek Sejmu: S. Hołownia
-USTAWA z dnia 19 lipca 2019 r.
-o systemie rekompensat dla sektorów i podsektorów energochłonnych
-
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa określa zasady, tryb udzielania oraz sposób obliczania wielkości pomocy publicznej z tytułu przenoszenia kosztów zakupu uprawnień do emisji w rozumieniu ustawy z dnia 12 czerwca 2015 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych (Dz. U. z 2023 r. poz. 589 i 2029) na ceny energii elektrycznej zużywanej do wytwarzania produktów w sektorach lub podsektorach energochłonnych, zwanej dalej „rekompensatami”.
@@ -61,11 +36,13 @@ o systemie rekompensat dla sektorów i podsektorów energochłonnych
 
 **Art. 4.**
 
-1. Do postępowania w sprawie przyznania rekompensat, zwrotu rekompensat, zakazu ubiegania się o przyznanie rekompensat oraz nakładania kar pieniężnych, o których mowa w art. 26, stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572).
+1. Do postępowania w sprawie przyznania rekompensat, zwrotu zaliczek, zwrotu rekompensat, zakazu ubiegania się o przyznanie rekompensat oraz nakładania kar pieniężnych, o których mowa w art. 26, stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz.
 
-2. Od decyzji Prezesa Urzędu Regulacji Energetyki, zwanego dalej „Prezesem URE”, wydanych w postępowaniach, o których mowa w ust. 1, przysługuje odwołanie do Sądu Okręgowego w Warszawie sądu ochrony konkurencji i konsumentów.
+- **572)** .
 
-3. Do postępowań w sprawie odwołania od decyzji Prezesa URE, o których mowa w ust. 2, stosuje się przepisy ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550, z późn. zm. ) o postępowaniu w sprawach z zakresu regulacji energetyki.
+2. Od decyzji Prezesa Urzędu Regulacji Energetyki, zwanego dalej „Prezesem URE”, wydanych w postępowaniach, o których mowa w ust. 1, przysługuje odwołanie do Sądu Okręgowego w Warszawie – sądu ochrony konkurencji i konsumentów.
+
+3. Do postępowań w sprawie odwołania od decyzji Prezesa URE, o których mowa w ust. 2, stosuje się przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550, z późn. zm. ) o postępowaniu w sprawach z zakresu regulacji energetyki.
 
 4. Do postanowień, na które przysługuje zażalenie, wydanych przez Prezesa URE w toku postępowań, o których mowa w ust. 1, przepisy ust. 2 i 3 stosuje się odpowiednio. Zażalenie wnosi się w terminie 7 dni od dnia doręczenia postanowienia.
 
@@ -90,11 +67,11 @@ o systemie rekompensat dla sektorów i podsektorów energochłonnych
 
 **Art. 7.**
 
-1. W przypadku gdy do produktu wytwarzanego w instalacji ma zastosowanie jeden ze wskaźników efektywności zużycia energii elektrycznej w odniesieniu do produktów z sektorów lub podsektorów energochłonnych określonych w załączniku nr 2 do ustawy, dla którego wartość jest wyrażona w megawatogodzinach na megagramy (MWh/Mg) produktu, wysokość rekompensat jest obliczana według wzoru: Amaxt = Ai × C × P × E × AO , w którym poszczególne symbole oznaczają: Amaxt wysokość rekompensat dla instalacji; Ai intensywność pomocy wyrażoną jako ułamek 0,75; C wskaźnik emisji dwutlenku węgla (CO ) w wysokości 0,81 megagramów dwutlenku węgla na megawatogodzinę (Mg CO /MWh); P terminową cenę uprawnień do emisji dla roku kalendarzowego, za który są przyznawane rekompensaty; E wskaźnik efektywności zużycia energii elektrycznej w odniesieniu do produktów z sektorów lub podsektorów energochłonnych określony w załączniku nr 2 do ustawy dla roku kalendarzowego, za który są przyznawane rekompensaty; AO wielkość produkcji produktu zaliczanego do sektorów lub podsektorów energochłonnych określonych w załączniku nr 1 do ustawy w instalacji w roku kalendarzowym, za który są przyznawane rekompensaty, wyrażoną w megagramach (Mg).
+1. W przypadku gdy do produktu wytwarzanego w instalacji ma zastosowanie jeden ze wskaźników efektywności zużycia energii elektrycznej w odniesieniu do produktów z sektorów lub podsektorów energochłonnych określonych w załączniku nr 2 do ustawy, dla którego wartość jest wyrażona w megawatogodzinach na megagramy (MWh/Mg) produktu, wysokość rekompensat jest obliczana według wzoru: Amaxt = Ai × C × P × E × AO , w którym poszczególne symbole oznaczają: Amaxt – wysokość rekompensat dla instalacji; Ai – intensywność pomocy wyrażoną jako ułamek 0,75; C – wskaźnik emisji dwutlenku węgla (CO ) w wysokości 0,81 megagramów dwutlenku węgla na megawatogodzinę (Mg CO /MWh); P – terminową cenę uprawnień do emisji dla roku kalendarzowego, za który są przyznawane rekompensaty; E – wskaźnik efektywności zużycia energii elektrycznej w odniesieniu do produktów z sektorów lub podsektorów energochłonnych określony w załączniku nr 2 do ustawy dla roku kalendarzowego, za który są przyznawane rekompensaty; AO – wielkość produkcji produktu zaliczanego do sektorów lub podsektorów energochłonnych określonych w załączniku nr 1 do ustawy w instalacji w roku kalendarzowym, za który są przyznawane rekompensaty, wyrażoną w megagramach (Mg).
 
-2. W przypadku gdy do produktu wytwarzanego w instalacji ma zastosowanie jeden ze wskaźników emisyjności określony w załączniku nr 1 pkt 2 do rozporządzenia delegowanego Komisji (UE) 2019/331 z dnia 19 grudnia 2018 r. w sprawie ustanowienia przejściowych zasad dotyczących zharmonizowanego przydziału bezpłatnych uprawnień do emisji w całej Unii na podstawie art. 10a dyrektywy 2003/87/WE Parlamentu Europejskiego i Rady (Dz. Urz. UE L 59 z 27.02.2019, str. 8), zwanego dalej „rozporządzeniem Komisji (UE) 2019/331”, dla którego wartość wyrażona jest w megagramach dwutlenku węgla na megagramy (Mg CO /Mg) produktu, wysokość rekompensat jest obliczana według wzoru: Amaxt = Ai × C × P × E × AO , w którym poszczególne symbole oznaczają: Amaxt wysokość rekompensat dla instalacji; Ai intensywność pomocy wyrażoną jako ułamek 0,75; C wskaźnik emisji dwutlenku węgla (CO ) w wysokości 0,81 megagramów dwutlenku węgla na megawatogodzinę (Mg CO /MWh); P terminową cenę uprawnień do emisji dla roku kalendarzowego, za który są przyznawane rekompensaty; E wskaźnik efektywności zużycia energii elektrycznej obliczany według następującego wzoru: We×Ep E= Ie , w którym poszczególne symbole oznaczają: We wskaźnik emisyjności dla produktu z uwzględnieniem zamienności paliw i energii elektrycznej określony w pkt 2 załącznika do rozporządzenia wykonawczego Komisji (UE) 2021/447 z dnia 12 marca 2021 r. określającego zmienione wartości wskaźników emisyjności na potrzeby przydziału bezpłatnych uprawnień do emisji na lata 2021–2025 zgodnie z art. 10a ust. 2 dyrektywy 2003/87/WE Parlamentu Europejskiego i Rady (Dz. Urz. UE L 87 z 15.03.2021, str. 29), zwanego dalej „rozporządzeniem wykonawczym (UE) 2021/447”; Ep stosunek odpowiednich emisji pośrednich określanych dla każdego z produktów w roku kalendarzowym, za który są przyznawane rekompensaty, do sumy wszystkich emisji bezpośrednich i odpowiednich emisji pośrednich obliczonych zgodnie z przepisami rozporządzenia Komisji (UE) 2019/331; Ie przeciętną wartość intensywności emisji w wysokości 0,376 megagrama dwutlenku węgla na megawatogodzinę (Mg CO /MWh); AO wielkość produkcji produktu zaliczanego do sektorów lub podsektorów energochłonnych określonych w załączniku nr 1 do ustawy w instalacji w roku, za który są przyznawane rekompensaty, wyrażoną w megagramach (Mg).
+2. W przypadku gdy do produktu wytwarzanego w instalacji ma zastosowanie jeden ze wskaźników emisyjności określony w załączniku nr 1 pkt 2 do rozporządzenia delegowanego Komisji (UE) 2019/331 z dnia 19 grudnia 2018 r. w sprawie ustanowienia przejściowych zasad dotyczących zharmonizowanego przydziału bezpłatnych uprawnień do emisji w całej Unii na podstawie art. 10a dyrektywy 2003/87/WE Parlamentu Europejskiego i Rady (Dz. Urz. UE L 59 z 27.02.2019, str. 8), zwanego dalej „rozporządzeniem Komisji (UE) 2019/331”, dla którego wartość wyrażona jest w megagramach dwutlenku węgla na megagramy (Mg CO /Mg) produktu, wysokość rekompensat jest obliczana według wzoru: Amaxt = Ai × C × P × E × AO , w którym poszczególne symbole oznaczają: Amaxt – wysokość rekompensat dla instalacji; Ai – intensywność pomocy wyrażoną jako ułamek 0,75; C – wskaźnik emisji dwutlenku węgla (CO ) w wysokości 0,81 megagramów dwutlenku węgla na megawatogodzinę (Mg CO /MWh); P – terminową cenę uprawnień do emisji dla roku kalendarzowego, za który są przyznawane rekompensaty; E – wskaźnik efektywności zużycia energii elektrycznej obliczany według następującego wzoru: We×Ep E = , Ie w którym poszczególne symbole oznaczają: We – wskaźnik emisyjności dla produktu z uwzględnieniem zamienności paliw i energii elektrycznej określony w pkt 2 załącznika do rozporządzenia wykonawczego Komisji (UE) 2021/447 z dnia 12 marca 2021 r. określającego zmienione wartości wskaźników emisyjności na potrzeby przydziału bezpłatnych uprawnień do emisji na lata 2021–2025 zgodnie z art. 10a ust. 2 dyrektywy 2003/87/WE Parlamentu Europejskiego i Rady (Dz. Urz. UE L 87 z 15.03.2021, str. 29), zwanego dalej „rozporządzeniem wykonawczym (UE) 2021/447”; Ep – stosunek odpowiednich emisji pośrednich określanych dla każdego z produktów w roku kalendarzowym, za który są przyznawane rekompensaty, do sumy wszystkich emisji bezpośrednich i odpowiednich emisji pośrednich obliczonych zgodnie z przepisami rozporządzenia Komisji (UE) 2019/331; Ie – przeciętną wartość intensywności emisji w wysokości 0,376 megagrama dwutlenku węgla na megawatogodzinę (Mg CO /MWh); AO – wielkość produkcji produktu zaliczanego do sektorów lub podsektorów energochłonnych określonych w załączniku nr 1 do ustawy w instalacji w roku, za który są przyznawane rekompensaty, wyrażoną w megagramach (Mg).
 
-3. W przypadku gdy do produktu wytwarzanego w instalacji nie ma zastosowania żaden ze wskaźników efektywności zużycia energii elektrycznej w odniesieniu do produktów z sektorów lub podsektorów energochłonnych określonych w załączniku nr 2 do ustawy oraz żaden ze wskaźników emisyjności określony w załączniku nr 1 pkt 2 do rozporządzenia Komisji (UE) 2019/331, wysokość rekompensat jest obliczana według wzoru: Amaxt = Ai × C × P × EF × BEC , w którym poszczególne symbole oznaczają: Amaxt wysokość rekompensat dla instalacji; Ai intensywność pomocy wyrażoną jako ułamek 0,75; C wskaźnik emisji dwutlenku węgla (CO ) w wysokości 0,81 megagramów dwutlenku węgla na megawatogodzinę (Mg CO /MWh); P terminową cenę uprawnień do emisji dla roku kalendarzowego, za który są przyznawane rekompensaty; EF wskaźnik efektywności zużycia rezerwowej energii elektrycznej w odniesieniu do produktów z sektorów lub podsektorów energochłonnych w wysokości określonej w załączniku nr 3 do ustawy dla roku kalendarzowego, za który są przyznawane rekompensaty; BEC zużycie energii elektrycznej do wytworzenia produktu zaliczanego do sektorów lub podsektorów energochłonnych określonych w załączniku nr 1 do ustawy w instalacji w roku kalendarzowym, za który są przyznawane rekompensaty, wyrażone w megawatogodzinach (MWh).
+3. W przypadku gdy do produktu wytwarzanego w instalacji nie ma zastosowania żaden ze wskaźników efektywności zużycia energii elektrycznej w odniesieniu do produktów z sektorów lub podsektorów energochłonnych określonych w załączniku nr 2 do ustawy oraz żaden ze wskaźników emisyjności określony w załączniku nr 1 pkt 2 do rozporządzenia Komisji (UE) 2019/331, wysokość rekompensat jest obliczana według wzoru: Amaxt = Ai × C × P × EF × BEC , w którym poszczególne symbole oznaczają: Amaxt – wysokość rekompensat dla instalacji; Ai – intensywność pomocy wyrażoną jako ułamek 0,75; C – wskaźnik emisji dwutlenku węgla (CO ) w wysokości 0,81 megagramów dwutlenku węgla na megawatogodzinę (Mg CO /MWh); P – terminową cenę uprawnień do emisji dla roku kalendarzowego, za który są przyznawane rekompensaty; EF – wskaźnik efektywności zużycia rezerwowej energii elektrycznej w odniesieniu do produktów z sektorów lub podsektorów energochłonnych w wysokości określonej w załączniku nr 3 do ustawy dla roku kalendarzowego, za który są przyznawane rekompensaty; BEC – zużycie energii elektrycznej do wytworzenia produktu zaliczanego do sektorów lub podsektorów energochłonnych określonych w załączniku nr 1 do ustawy w instalacji w roku kalendarzowym, za który są przyznawane rekompensaty, wyrażone w megawatogodzinach (MWh).
 
 4. (uchylony)
 
@@ -127,10 +104,10 @@ o systemie rekompensat dla sektorów i podsektorów energochłonnych
 
 4. Wartość dodaną brutto, o której mowa w ust. 1, oblicza się według następujących zasad:
 
-- **1)** dla jednostek sporządzających rachunek zysków i strat zgodnie z art. 47 ust. 4 pkt 1 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, 295 i 1598 oraz z 2024 r. poz. 619) w wariancie porównawczym jako przychody netto ze sprzedaży i zrównane z nimi pomniejszone o koszty działalności operacyjnej po wyłączeniu kosztów amortyzacji, wynagrodzeń oraz ubezpieczeń społecznych i innych świadczeń na rzecz pracowników, powiększone o pozostałe przychody operacyjne i pomniejszone o pozostałe koszty operacyjne;
-- **2)** dla jednostek sporządzających rachunek zysków i strat zgodnie z art. 47 ust. 4 pkt 1 ustawy z dnia 29 września 1994 r. o rachunkowości w wariancie kalkulacyjnym jako przychody netto ze sprzedaży produktów, towarów i materiałów pomniejszone o koszty sprzedanych produktów, towarów i materiałów, koszty sprzedaży oraz koszty ogólnego zarządu po wyłączeniu kosztów amortyzacji, wynagrodzeń oraz ubezpieczeń społecznych i innych świadczeń na rzecz pracowników, powiększone o pozostałe przychody operacyjne i pomniejszone o pozostałe koszty operacyjne;
-- **3)** dla jednostek sporządzających sprawozdania finansowe zgodnie z Międzynarodowymi Standardami Rachunkowości na podstawie art. 45 ustawy z dnia 29 września 1994 r. o rachunkowości jako przychody ze sprzedaży powiększone o pozostałe przychody, pomniejszone o koszty działalności operacyjnej po wyłączeniu kosztów amortyzacji, wynagrodzeń oraz ubezpieczeń społecznych i innych świadczeń na rzecz pracowników oraz pomniejszone o pozostałe koszty operacyjne;
-- **4)** dla jednostek niesporządzających sprawozdań finansowych jednostki zgodnie z Międzynarodowymi Standardami Rachunkowości na podstawie art. 45 ustawy z dnia 29 września 1994 r. o rachunkowości w sposób określony dla jednostek, o których mowa w pkt 1 albo 2.
+- **1)** dla jednostek sporządzających rachunek zysków i strat zgodnie z art. 47 ust. 4 pkt 1 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, 295 i 1598 oraz z 2024 r. poz. 619) w wariancie porównawczym – jako przychody netto ze sprzedaży i zrównane z nimi pomniejszone o koszty działalności operacyjnej po wyłączeniu kosztów amortyzacji, wynagrodzeń oraz ubezpieczeń społecznych i innych świadczeń na rzecz pracowników, powiększone o pozostałe przychody operacyjne i pomniejszone o pozostałe koszty operacyjne;
+- **2)** dla jednostek sporządzających rachunek zysków i strat zgodnie z art. 47 ust. 4 pkt 1 ustawy z dnia 29 września 1994 r. o rachunkowości w wariancie kalkulacyjnym – jako przychody netto ze sprzedaży produktów, towarów i materiałów pomniejszone o koszty sprzedanych produktów, towarów i materiałów, koszty sprzedaży oraz koszty ogólnego zarządu po wyłączeniu kosztów amortyzacji, wynagrodzeń oraz ubezpieczeń społecznych i innych świadczeń na rzecz pracowników, powiększone o pozostałe przychody operacyjne i pomniejszone o pozostałe koszty operacyjne;
+- **3)** dla jednostek sporządzających sprawozdania finansowe zgodnie z Międzynarodowymi Standardami Rachunkowości na podstawie art. 45 ustawy z dnia 29 września 1994 r. o rachunkowości – jako przychody ze sprzedaży powiększone o pozostałe przychody, pomniejszone o koszty działalności operacyjnej po wyłączeniu kosztów amortyzacji, wynagrodzeń oraz ubezpieczeń społecznych i innych świadczeń na rzecz pracowników oraz pomniejszone o pozostałe koszty operacyjne;
+- **4)** dla jednostek niesporządzających sprawozdań finansowych jednostki zgodnie z Międzynarodowymi Standardami Rachunkowości na podstawie art. 45 ustawy z dnia 29 września 1994 r. o rachunkowości – w sposób określony dla jednostek, o których mowa w pkt 1 albo 2.
 
 **Art. 8.** (uchylony)
 
@@ -140,7 +117,7 @@ o systemie rekompensat dla sektorów i podsektorów energochłonnych
 
 1. Prezes URE przyznaje rekompensaty w drodze decyzji, na wniosek podmiotu, o którym mowa w art. 5, zwanego dalej „wnioskodawcą”.
 
-2. Wnioskodawca składa wniosek o przyznanie rekompensat, zwany dalej „wnioskiem”, w terminie do dnia 31 marca roku następującego po roku kalendarzowym, za który są przyznawane rekompensaty, zgodnie z wzorem określonym w przepisach wydanych na podstawie ust. 10, na formularzu dostępnym w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego Prezesa URE, wraz z załącznikami. Wniosek składa się w formie pisemnej w postaci papierowej oraz w postaci elektronicznej umożliwiającej przetwarzanie zawartych w nim danych. Wniosek dotyczy produkcji produktów z sektorów i podsektorów energochłonnych wytwarzanych we wszystkich instalacjach, w odniesieniu do których wnioskodawca ubiega się o przyznanie rekompensat.
+2. Wnioskodawca składa wniosek o przyznanie rekompensat, zwany dalej „wnioskiem”, w terminie do dnia 31 marca roku następującego po roku kalendarzowym, za który są przyznawane rekompensaty, zgodnie z wzorem określonym w przepisach wydanych na podstawie ust. 10, na formularzu dostępnym w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego Prezesa URE, wraz z załącznikami. Wniosek oraz dokumenty wskazane w ust. 5 pkt 1–7 składa się w formie pisemnej w postaci papierowej oraz w postaci elektronicznej umożliwiającej przetwarzanie zawartych w nich danych, a dane źródłowe stanowiące podstawę do określenia danych, o których mowa w ust. 3 pkt 3, wnioskodawca może przedłożyć wyłącznie w postaci elektronicznej umożliwiającej przetwarzanie zawartych w nich danych. Wniosek dotyczy produkcji produktów z sektorów i podsektorów energochłonnych wytwarzanych we wszystkich instalacjach, w odniesieniu do których wnioskodawca ubiega się o przyznanie rekompensat.
 
 3. Wniosek zawiera:
 
@@ -148,7 +125,7 @@ o systemie rekompensat dla sektorów i podsektorów energochłonnych
 - **2)** numer identyfikacji podatkowej wnioskodawcy (NIP), określenie wielkości wnioskodawcy zgodnie z załącznikiem I do rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającym niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm. ), formę prawną wnioskodawcy, identyfikator gminy, w której wnioskodawca ma miejsce zamieszkania lub siedzibę, oraz klasę PKD, w związku z którą podmiot ubiega się o pomoc publiczną;
 - **3)** dane dotyczące każdej instalacji, w odniesieniu do której wnioskodawca ubiega się o przyznanie rekompensat, obejmujące informacje o:
     - **a)** produkcie lub produktach zaliczanych do sektorów lub podsektorów energochłonnych określonych w załączniku nr 1 do ustawy wraz z przypisaną do każdego z tych produktów wielkością produkcji i zużycia energii elektrycznej na ich produkcję w roku kalendarzowym, za który są przyznawane rekompensaty, wraz z zastosowanym wskaźnikiem efektywności zużycia energii elektrycznej w odniesieniu do produktów z sektorów lub podsektorów energochłonnych określonym w załączniku nr 2 do ustawy lub wskaźnikiem emisyjności dla produktu z uwzględnieniem zamienności paliw i energii elektrycznej określonym w pkt 2 załącznika do rozporządzenia wykonawczego (UE) 2021/447, lub wskaźnikiem efektywności zużycia rezerwowej energii elektrycznej w odniesieniu do produktów z sektorów lub podsektorów energochłonnych określonym w załączniku nr 3 do ustawy,
-    - **b)** stosunku odpowiednich emisji pośrednich określanych dla każdego z produktów w roku kalendarzowym, za który są przyznawane rekompensaty, do sumy wszystkich emisji bezpośrednich i odpowiednich emisji pośrednich obliczonych zgodnie z przepisami rozporządzenia Komisji (UE) 2019/331 w przypadku gdy wnioskodawca do wyliczenia wysokości rekompensat korzysta z wzoru określonego w art. 7 ust. 2;
+    - **b)** stosunku odpowiednich emisji pośrednich określanych dla każdego z produktów w roku kalendarzowym, za który są przyznawane rekompensaty, do sumy wszystkich emisji bezpośrednich i odpowiednich emisji pośrednich obliczonych zgodnie z przepisami rozporządzenia Komisji (UE) 2019/331 – w przypadku gdy wnioskodawca do wyliczenia wysokości rekompensat korzysta z wzoru określonego w art. 7 ust. 2;
 
 - **4)** wskazanie tytułu prawnego do instalacji, którą eksploatuje;
 - **5)** numer rachunku bankowego, na który ma zostać dokonana wypłata rekompensat.
@@ -157,14 +134,15 @@ o systemie rekompensat dla sektorów i podsektorów energochłonnych
 
 5. Do wniosku dołącza się:
 
-- **1)** dokumenty lub ich kopie potwierdzające posiadanie przez wnioskodawcę tytułu prawnego do instalacji, którą eksploatuje;
+- **1)** dokumenty lub ich kopie potwierdzające posiadanie przez wnioskodawcę tytułu prawnego do instalacji albo, w przypadku wnioskodawcy występującego z wnioskiem po raz kolejny, oświadczenie, że stan faktyczny znany Prezesowi URE z urzędu w przedmiotowym zakresie nie uległ zmianie;
+- **1a)** dokumenty potwierdzające eksploatację instalacji w dacie składania wniosku;
 - **2)** dokumenty lub ich kopie potwierdzające spełnianie przez wnioskodawcę warunku, o którym mowa w art. 5 pkt 2;
-- **3)** oświadczenie wnioskodawcy o spełnianiu przez wnioskodawcę warunków uprawniających do przyznania rekompensat, o treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. Kodeks karny (Dz. U. z 2024 r. poz. 17) oświadczam, że: dane zawarte we wniosku i załącznikach do niego o przyznanie rekompensat są zgodne z prawdą; znane mi są i spełniam warunki uprawniające do przyznania rekompensat wynikające z ustawy z dnia 19 lipca 2019 r. o systemie rekompensat dla sektorów i podsektorów energochłonnych.”; klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń;
+- **3)** oświadczenie wnioskodawcy o spełnianiu przez wnioskodawcę warunków uprawniających do przyznania rekompensat, o treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2024 r. poz. 17) oświadczam, że: – dane zawarte we wniosku i załącznikach do niego o przyznanie rekompensat są zgodne z prawdą; – znane mi są i spełniam warunki uprawniające do przyznania rekompensat wynikające z ustawy z dnia 19 lipca 2019 r. o systemie rekompensat dla sektorów i podsektorów energochłonnych.”; klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń;
 - **4)** oświadczenie wnioskodawcy:
-    - **a)** że nie jest przedsiębiorstwem znajdującym się w trudnej sytuacji w rozumieniu komunikatu Komisji Wytyczne dotyczące pomocy państwa na ratowanie i restrukturyzację przedsiębiorstw niefinansowych znajdujących się w trudnej sytuacji,
+    - **a)** że nie jest przedsiębiorstwem znajdującym się w trudnej sytuacji w rozumieniu komunikatu Komisji – Wytyczne dotyczące pomocy państwa na ratowanie i restrukturyzację przedsiębiorstw niefinansowych znajdujących się w trudnej sytuacji,
     - **b)** że nie uzyskał innej pomocy publicznej, pomocy de minimis lub innego rodzaju finansowania pochodzącego z budżetu Unii Europejskiej, przyznanych na pokrycie tych samych kosztów kwalifikowanych, co objęte wnioskiem;
 
-- **5)** zaświadczenia właściwych organów potwierdzające spełnienie warunku, o którym mowa w art. 5 pkt 4 i 5;
+- **5)** zaświadczenia właściwych organów potwierdzające spełnienie warunku, o którym mowa w art. 5 pkt 4 i 5, wydane po dniu 1 stycznia roku kalendarzowego, w którym składany jest wniosek;
 - **6)** opinię weryfikatora dotyczącą poprawności, wiarygodności oraz dokładności danych zawartych we wniosku, wraz z metodyką zbierania danych zawartych we wniosku;
 - **7)** dokumenty lub ich kopie stanowiące podstawę do określenia danych, o których mowa w ust. 3 pkt 3.
 
@@ -172,7 +150,7 @@ o systemie rekompensat dla sektorów i podsektorów energochłonnych
 
 - **1)** informację o wysokości wartości dodanej brutto w roku kalendarzowym, za który są przyznawane rekompensaty, o której mowa w art. 7b ust. 1, wraz z opinią biegłego rewidenta potwierdzającą prawidłowość jej wyliczenia;
 - **2)** (uchylony)
-- **3)** oświadczenie o treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. Kodeks karny (Dz. U. z 2024 r. poz. 17) oświadczam, że informacja o wysokości wartości dodanej brutto w roku kalendarzowym, za który są przyznawane rekompensaty, jest zgodna z prawdą.”; klauzula ta zastępuje pouczenie o odpowiedzialności karnej za składanie fałszywych oświadczeń;
+- **3)** oświadczenie o treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2024 r. poz. 17) oświadczam, że informacja o wysokości wartości dodanej brutto w roku kalendarzowym, za który są przyznawane rekompensaty, jest zgodna z prawdą.”; klauzula ta zastępuje pouczenie o odpowiedzialności karnej za składanie fałszywych oświadczeń;
 - **4)** dokumenty lub ich kopie stanowiące podstawę do określenia wartości dodanej brutto w roku kalendarzowym, za który są przyznawane rekompensaty, o której mowa w art. 7b ust. 1.
 
 7. Wniosek wraz z załącznikami, o których mowa w ust. 5 pkt 1–5 i 7, podlega weryfikacji przez weryfikatora w zakresie poprawności, wiarygodności oraz dokładności zawartych w nim danych. Z przeprowadzonej weryfikacji sporządza się opinię. Koszty weryfikacji ponosi wnioskodawca.
@@ -189,7 +167,28 @@ o systemie rekompensat dla sektorów i podsektorów energochłonnych
 - **2)** szczegółowy zakres danych dotyczących instalacji, o których mowa w ust. 3 pkt 3, oraz sposób obliczania tych danych,
 - **3)** zakres dokumentacji stanowiącej podstawę do obliczania danych dotyczących instalacji, o których mowa w ust. 3 pkt 3, oraz sposób gromadzenia tych danych,
 - **4)** szczegółowy zakres opinii sporządzanej przez weryfikatora,
-- **5)** szczegółowy zakres dokumentacji, o której mowa w ust. 6a pkt 4 mając na uwadze konieczność zapewnienia przyznawania rekompensat na podstawie rzetelnych i wiarygodnych informacji oraz dokumentów.
+- **5)** szczegółowy zakres dokumentacji, o której mowa w ust. 6a pkt 4 – mając na uwadze konieczność zapewnienia przyznawania rekompensat na podstawie rzetelnych i wiarygodnych informacji oraz dokumentów.
+
+**Art. 10a.**
+
+1. W celu uzyskania zaliczki na poczet rekompensaty za rok kalendarzowy objęty wnioskiem, zwanej dalej „zaliczką”, wnioskodawca dołącza do wniosku oświadczenie o ubieganie się o zaliczkę wraz z oświadczeniem o treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2025 r. poz. 383) oświadczam, że nie są mi znane okoliczności wykluczające możliwość wypłaty, na rachunek bankowy wskazany we wniosku o przyznanie rekompensat wynikających z ustawy z dnia 19 lipca 2019 r. o systemie rekompensat dla sektorów i podsektorów energochłonnych, zaliczki na poczet rekompensat za rok, którego dotyczy złożony wniosek.”. Klauzula ta zastępuje pouczenie o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+
+2. Zaliczkę może uzyskać wnioskodawca, który:
+
+- **1)** otrzymał rekompensaty w poprzednim roku kalendarzowym oraz
+- **2)** do wniosku złożonego w terminie, o którym mowa w art. 10 ust. 2, dołączył w formie pisemnej w postaci papierowej oraz w postaci elektronicznej wszystkie dokumenty wskazane w art. 10 ust. 5 pkt 1–6.
+
+3. Prezes URE do dnia 15 maja danego roku kalendarzowego przekazuje ministrowi właściwemu do spraw gospodarki oraz Bankowi Gospodarstwa Krajowego, zwanemu dalej „Bankiem”, informację o kwocie, o której mowa w art. 6 ust. 1 i 2, oraz, w postaci elektronicznej umożliwiającej przetwarzanie zawartych w nim danych, wykaz podmiotów uprawnionych do otrzymania zaliczki wraz ze wskazaniem ich siedzib lub miejsc zamieszkania, wysokości zaliczek oraz numerów rachunków bankowych, na które mają zostać dokonane wypłaty zaliczek.
+
+4. Do sporządzania wykazu, o którym mowa w ust. 3, przepisów Kodeksu postępowania administracyjnego oraz art. 10 ust. 9 nie stosuje się.
+
+**Art. 10b.**
+
+1. Wysokość zaliczki oblicza się zgodnie ze wzorem: Z P = 0,6× R × P w którym poszczególne symbole oznaczają: Z – kwotę zaliczki obliczoną dla wnioskodawcy; R – wartość rekompensat wypłaconych wnioskodawcy w poprzednim roku kalendarzowym; P – terminową cenę uprawnień do emisji uwzględnianą przy obliczaniu rekompensat dla roku kalendarzowego, za który są przyznawane rekompensaty; P – terminową cenę uprawnień do emisji uwzględnianą przy obliczaniu rekompensat dla roku kalendarzowego poprzedzającego rok, za który są przyznawane rekompensaty.
+
+2. Zaliczki są wypłacane przez Bank z Funduszu Rekompensat Pośrednich Kosztów Emisji, o którym mowa w art. 21 ust. 1, w terminie 14 dni od dnia otrzymania wykazu, o którym mowa w art. 10a ust. 3.
+
+3. Zaliczek nie wypłaca się w przypadku, gdy ich łączna wysokość przekracza kwotę, o której mowa w art. 10a ust. 3.
 
 **Art. 11.**
 
@@ -199,7 +198,7 @@ o systemie rekompensat dla sektorów i podsektorów energochłonnych
 
 3. Prezes URE jest podmiotem udzielającym pomocy publicznej w rozumieniu ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2023 r. poz. 702), w odniesieniu do pomocy publicznej udzielanej na podstawie ustawy.
 
-4. Prezes URE, do dnia 7 listopada danego roku kalendarzowego, przekazuje ministrowi właściwemu do spraw gospodarki oraz Bankowi Gospodarstwa Krajowego, zwanemu dalej „Bankiem”, w postaci elektronicznej umożliwiającej przetwarzanie zawartych w nim danych, wykaz podmiotów, którym przyznano rekompensaty w tym roku kalendarzowym.
+4. Prezes URE, do dnia 7 listopada danego roku kalendarzowego, przekazuje ministrowi właściwemu do spraw gospodarki oraz Bankowi w postaci elektronicznej umożliwiającej przetwarzanie zawartych w nim danych, wykaz podmiotów, którym przyznano rekompensaty w tym roku kalendarzowym.
 
 5. Wykaz, o którym mowa w ust. 4, zawiera w szczególności:
 
@@ -207,7 +206,12 @@ o systemie rekompensat dla sektorów i podsektorów energochłonnych
 - **2)** wysokość rekompensat przyznanych poszczególnym podmiotom;
 - **3)** numery rachunków bankowych, na które ma zostać dokonana wypłata rekompensat poszczególnym podmiotom.
 
-6. Rekompensaty są wypłacane jednorazowo przez Bank z Funduszu Rekompensat Pośrednich Kosztów Emisji, o którym mowa w art. 21 ust. 1, w terminie 14 dni od dnia otrzymania wykazu, o którym mowa w ust. 4.
+6. Rekompensaty są wypłacane przez Bank z Funduszu Rekompensat Pośrednich Kosztów Emisji, o którym mowa w art. 21 ust. 1, w terminie 14 dni od dnia otrzymania wykazu, o którym mowa w ust. 4, w wysokości uwzględniającej zmniejszenie kwoty rekompensat przyznanych przez Prezesa URE o zaliczki wypłacone przez Bank.
+
+6a. Bank, do dnia 15 grudnia danego roku kalendarzowego, przekazuje Prezesowi URE, w postaci elektronicznej umożliwiającej przetwarzanie zawartych w niej danych, informację o:
+
+- **1)** podmiotach, którym zostały wypłacone zaliczki mimo nieotrzymania decyzji o przyznaniu rekompensaty albo w kwocie wyższej niż przyznane przez Prezesa URE rekompensaty;
+- **2)** kwocie zaliczek podlegających zwrotowi oraz dacie przekazania zaliczek na rachunki bankowe podmiotów.
 
 7. Prezes URE, do dnia 31 grudnia danego roku kalendarzowego, podaje do publicznej wiadomości w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ten organ informację o łącznej wysokości przyznanych rekompensat za poprzedni rok kalendarzowy, w podziale na poszczególne sektory i podsektory energochłonne określone w załączniku nr 1 do ustawy.
 
@@ -215,7 +219,7 @@ o systemie rekompensat dla sektorów i podsektorów energochłonnych
 
 1. Podmiot, któremu zostały przyznane rekompensaty, jest obowiązany do prowadzenia produkcji w instalacji przez okres 2 lat następujących po roku kalendarzowym, w którym zostały mu przyznane rekompensaty.
 
-2. Obowiązek, o którym mowa w ust. 1, nie dotyczy podmiotu, który przeniósł produkcję danej instalacji na terytorium państwa członkowskiego Unii Europejskiej, Szwajcarii lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym.
+2. Obowiązek, o którym mowa w ust. 1, nie dotyczy podmiotu, który przeniósł produkcję danej instalacji na terytorium państwa członkowskiego Unii Europejskiej, Szwajcarii lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym.
 
 **Art. 12a.**
 
@@ -248,8 +252,8 @@ o systemie rekompensat dla sektorów i podsektorów energochłonnych
 
 - **1)** sprawozdanie sporządzone zgodnie z wzorem określonym w przepisach wydanych na podstawie ust. 5 wraz z dokumentami lub ich kopiami potwierdzającymi realizację tego obowiązku;
 - **2)** oświadczenie o treści:
-    - **a)** „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. Kodeks karny (Dz. U. z 2024 r. poz. 17) oświadczam, że informacje zawarte w złożonym sprawozdaniu, o którym mowa w art. 12b ust. 3 pkt 1 ustawy z dnia 19 lipca 2019 r. o systemie rekompensat dla sektorów i podsektorów energochłonnych, są zgodne z prawdą.”; klauzula ta zastępuje pouczenie o odpowiedzialności karnej za składanie fałszywych oświadczeń, oraz
-    - **b)** „Oświadczam, że zobowiązuję się do zrealizowania przedsięwzięć służących poprawie efektywności energetycznej w rozumieniu art. 2 pkt 12 ustawy z dnia 20 maja 2016 r. o efektywności energetycznej wskazanych w ostatnim na dzień złożenia wniosku o przyznanie rekompensat audycie energetycznym przedsiębiorstwa, o którym mowa w rozdziale 5 ustawy z dnia 20 maja 2016 r. o efektywności energetycznej, dla których okres zwrotu nakładów nie przekracza 3 lat nie później niż w ciągu 4 lat od dnia wykonania audytu energetycznego przedsiębiorstwa, z którego przedsięwzięcia te wynikają” w przypadku wykonywania obowiązku, o którym mowa w art. 12a ust. 1, w sposób, o którym mowa w art. 12a ust. 2 pkt 1, w odniesieniu do przedsięwzięć służących poprawie efektywności energetycznej w rozumieniu art. 2 pkt 12 ustawy z dnia 20 maja 2016 r. o efektywności energetycznej, które na dzień złożenia sprawozdania, o którym mowa w pkt 1, nie zostały zrealizowane.
+    - **a)** „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2024 r. poz. 17) oświadczam, że informacje zawarte w złożonym sprawozdaniu, o którym mowa w art. 12b ust. 3 pkt 1 ustawy z dnia 19 lipca 2019 r. o systemie rekompensat dla sektorów i podsektorów energochłonnych, są zgodne z prawdą.”; klauzula ta zastępuje pouczenie o odpowiedzialności karnej za składanie fałszywych oświadczeń, oraz
+    - **b)** „Oświadczam, że zobowiązuję się do zrealizowania przedsięwzięć służących poprawie efektywności energetycznej w rozumieniu art. 2 pkt 12 ustawy z dnia 20 maja 2016 r. o efektywności energetycznej wskazanych w ostatnim na dzień złożenia wniosku o przyznanie rekompensat audycie energetycznym przedsiębiorstwa, o którym mowa w rozdziale 5 ustawy z dnia 20 maja 2016 r. o efektywności energetycznej, dla których okres zwrotu nakładów nie przekracza 3 lat – nie później niż w ciągu 4 lat od dnia wykonania audytu energetycznego przedsiębiorstwa, z którego przedsięwzięcia te wynikają” – w przypadku wykonywania obowiązku, o którym mowa w art. 12a ust. 1, w sposób, o którym mowa w art. 12a ust. 2 pkt 1, w odniesieniu do przedsięwzięć służących poprawie efektywności energetycznej w rozumieniu art. 2 pkt 12 ustawy z dnia 20 maja 2016 r. o efektywności energetycznej, które na dzień złożenia sprawozdania, o którym mowa w pkt 1, nie zostały zrealizowane.
 
 4. (uchylony)
 
@@ -257,13 +261,15 @@ o systemie rekompensat dla sektorów i podsektorów energochłonnych
 
 **Art. 13.** Rekompensaty przyznane:
 
-**Art. 14.** Zwrotowi podlega kwota rekompensat przyznanych podmiotowi, który nie wykonał obowiązku, o którym mowa w art. 12a ust. 1, bezpodstawnie pobranych rekompensat lub część rekompensat przekraczająca należną kwotę, wraz z odsetkami obliczonymi z zastosowaniem stopy zwrotu pomocy określonej zgodnie z rozdziałem V rozporządzenia Komisji (WE) nr 794/2004 z dnia 21 kwietnia 2004 r. w sprawie wykonania rozporządzenia Rady (UE) nr 2015/1589 ustanawiającego szczegółowe zasady stosowania art. 108 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. Urz. UE L 140 z 30.04.2004, str. 1, z późn. zm. ) w przeliczeniu na złote według średniego kursu euro ogłaszanego przez Narodowy Bank Polski w dniu poprzedzającym dzień wydania decyzji, począwszy od dnia przekazania rekompensat na rachunek bankowy podmiotu, który otrzymał rekompensaty.
+**Art. 13a.** Zaliczki wypłacone podmiotowi, który nie uzyskał decyzji o przyznaniu rekompensat albo wypłacone w wysokości wyższej niż kwota rekompensat przyznanych decyzją, o której mowa w art. 11 ust. 1, podlegają zwrotowi.
 
-**Art. 15.** Prezes URE wydaje decyzję w sprawie zwrotu rekompensat określającą kwotę podlegającą zwrotowi. Rekompensaty zwracane są na rachunek Banku w terminie 14 dni od dnia, w którym decyzja Prezesa URE stała się prawomocna.
+**Art. 14.** Zwrotowi podlega kwota wypłaconej zaliczki w przypadku nieuzyskania decyzji o przyznaniu rekompensat, kwota wypłaconej zaliczki w części przekraczającej kwotę przyznanych rekompensat, kwota rekompensat przyznanych podmiotowi, który nie wykonał obowiązku, o którym mowa w art. 12a ust. 1, bezpodstawnie pobranych rekompensat lub część rekompensat przekraczająca należną kwotę, wraz z odsetkami obliczonymi z zastosowaniem stopy zwrotu pomocy określonej zgodnie z rozdziałem V rozporządzenia Komisji (WE) nr 794/2004 z dnia 21 kwietnia 2004 r. w sprawie wykonania rozporządzenia Rady (UE) nr 2015/1589 ustanawiającego szczegółowe zasady stosowania art. 108 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. Urz. UE L 140 z 30.04.2004, str. 1, z późn. zm. ) w przeliczeniu na złote według średniego kursu euro ogłaszanego przez Narodowy Bank Polski w dniu poprzedzającym dzień wydania decyzji, począwszy od dnia przekazania zaliczki albo rekompensat na rachunek bankowy podmiotu, który otrzymał zaliczkę albo rekompensaty.
 
-**Art. 16.** Do egzekucji zwrotu rekompensat stosuje się przepisy ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2023 r. poz. 2505 i 2760 oraz z 2024 r. poz. 858 i 859).
+**Art. 15.** Prezes URE wydaje decyzję w sprawie zwrotu zaliczki lub zwrotu rekompensat określającą kwotę podlegającą zwrotowi. Zaliczki lub rekompensaty zwracane są na rachunek Banku w terminie 14 dni od dnia, w którym decyzja Prezesa URE stała się prawomocna.
 
-**Art. 17.** Postępowanie w sprawie zwrotu rekompensat nie może zostać wszczęte, jeżeli od dnia zaistnienia przesłanki, o której mowa w art. 13, upłynęło 5 lat.
+**Art. 16.** Do egzekucji zwrotu zaliczki lub zwrotu rekompensat stosuje się przepisy ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2023 r. poz. 2505 i 2760 oraz z 2024 r. poz. 858 i 859).
+
+**Art. 17.** Postępowanie w sprawie zwrotu zaliczki lub zwrotu rekompensat nie może zostać wszczęte, jeżeli od dnia zaistnienia przesłanki, o której mowa w art. 13 lub art. 13a, upłynęło 5 lat.
 
 **Art. 18.**
 
@@ -300,7 +306,7 @@ o systemie rekompensat dla sektorów i podsektorów energochłonnych
 - **12)** intensywność pomocy określoną w art. 7 ust. 1–3;
 - **13)** wskaźnik emisji określony w art. 7 ust. 1–3.
 
-3. Prezes URE przechowuje dokumentację dotyczącą postępowania w sprawie przyznania, zwrotu rekompensat lub zakazu ubiegania się o przyznanie rekompensat przez 10 lat od dnia wypłaty rekompensat.
+3. Prezes URE przechowuje dokumentację dotyczącą postępowania w sprawie przyznania, zwrotu zaliczki lub zwrotu rekompensat lub zakazu ubiegania się o przyznanie rekompensat przez 10 lat od dnia wypłaty rekompensat.
 
 4. Rada Ministrów, na wniosek Prezesa URE, przyjmuje sprawozdanie, o którym mowa w ust. 1, do dnia 31 stycznia roku następującego po roku kalendarzowym, którego dotyczy to sprawozdanie.
 
@@ -350,7 +356,7 @@ o systemie rekompensat dla sektorów i podsektorów energochłonnych
 
 1. Karze pieniężnej podlega ten, kto:
 
-- **1)** we wniosku o przyznanie rekompensaty podał nieprawdziwe informacje i uzyskał rekompensaty:
+- **1)** we wniosku o przyznanie rekompensaty podał nieprawdziwe informacje i uzyskał zaliczkę albo rekompensaty:
     - **a)** nie spełniając warunków przewidzianych przepisami ustawy, lub
     - **b)** w kwocie wyższej niż należna;
 
@@ -361,8 +367,8 @@ o systemie rekompensat dla sektorów i podsektorów energochłonnych
 
 3. Wysokość kary pieniężnej, o której mowa w ust. 1 pkt 1 i 2, w przypadku:
 
-- **1)** wnioskodawcy, któremu zostały przyznane rekompensaty nie może być wyższa niż dwukrotność bezpodstawnie uzyskanych rekompensat;
-- **2)** podmiotu innego niż wnioskodawca wynosi 10 000 zł.
+- **1)** wnioskodawcy, któremu została przyznana zaliczka albo rekompensata – nie może być wyższa niż dwukrotność bezpodstawnie uzyskanej zaliczki albo rekompensaty;
+- **2)** podmiotu innego niż wnioskodawca – wynosi 10 000 zł.
 
 3a. Wysokość kary pieniężnej, o której mowa w ust. 1 pkt 3, wynosi 10 000 zł.
 
@@ -388,8 +394,8 @@ o systemie rekompensat dla sektorów i podsektorów energochłonnych
 
 2. Maksymalny limit środków finansowych, o którym mowa w art. 6 ust. 1, przeznaczony na przyznanie rekompensat za:
 
-- **1)** 2019 r. wynosi 890 000 000,00 zł;
-- **2)** 2020 r. wynosi 890 000 000,00 zł.
+- **1)** 2019 r. – wynosi 890 000 000,00 zł;
+- **2)** 2020 r. – wynosi 890 000 000,00 zł.
 
 **Art. 31.**
 
@@ -408,6 +414,36 @@ o systemie rekompensat dla sektorów i podsektorów energochłonnych
 
 6. Informacje zawarte we wniosku o przyznanie rekompensat za rok 2019 są przedmiotem weryfikacji przez Prezesa URE wyłącznie w zakresie ich poprawności, kompletności oraz zgodności z opinią weryfikatora, o której mowa w art. 10 ust. 7, i na ich podstawie określana jest wysokość przyznawanych rekompensat albo wydawana jest decyzja o odmowie przyznania rekompensat.
 
+**Art. 31a.**
+
+1. Część rekompensat za rok 2024 jest wypłacana wnioskodawcy:
+
+- **1)** który złożył w terminie, o którym mowa w art. 10 ust. 2, wniosek o przyznanie rekompensat, o którym mowa w art. 10 ust. 1, za rok 2024 oraz
+- **2)** któremu przyznano rekompensaty w całości lub części za rok 2023, oraz
+- **3)** który złożył Prezesowi URE oświadczenie, o którym mowa w art. 31h.
+
+2. Wysokość części rekompensat za rok 2024 wypłacanej we wcześniejszym terminie oblicza się zgodnie ze wzorem: 𝑃 𝑍 = 0,6×𝑅 × 𝑃 w którym poszczególne symbole oznaczają: 𝑍 – kwotę części rekompensat za rok 2024; 𝑅 – wartość rekompensat przyznanych za rok 2023; 𝑃 – terminową cenę uprawnień do emisji uwzględnianą przy obliczaniu rekompensat za rok 2024; 𝑃 – terminową cenę uprawnień do emisji uwzględnianą przy obliczaniu rekompensat za rok 2023.
+
+3. Część rekompensat za rok 2024, o której mowa w ust. 1, obliczona zgodnie z ust. 2, jest wypłacana jednorazowo przez Bank z Funduszu Rekompensat Pośrednich Kosztów Emisji, o którym mowa w art. 21 ust. 1, w terminie 7 dni od dnia otrzymania od Prezesa URE, w postaci elektronicznej umożliwiającej przetwarzanie zawartych w nim danych, wykazu podmiotów uprawnionych do otrzymania części rekompensat za rok 2024, o której mowa w ust. 1, wraz ze wskazaniem ich siedzib lub miejsc zamieszkania, wysokości części rekompensat za rok 2024 oraz numerów rachunków bankowych, na które mają zostać dokonane wypłaty części rekompensat za rok 2024, o której mowa w ust. 1.
+
+**Art. 31b.** Rekompensaty za rok 2024 wypłacane przez Bank, w terminie, o którym mowa w art. 11 ust. 6, są pomniejszane o kwotę wypłaconej wnioskodawcy części rekompensat za rok 2024.
+
+**Art. 31c.** Bank, do dnia 15 grudnia 2025 r., przekaże Prezesowi URE, w postaci elektronicznej umożliwiającej przetwarzanie zawartych w niej danych, informację o:
+
+**Art. 31d.**
+
+1. W przypadku gdy wysokość rekompensat za rok 2024 ustalona na podstawie pozytywnie rozpatrzonego wniosku o przyznanie rekompensat za 2024 r., po uwzględnieniu zwiększenia, o którym mowa w art. 7a ust. 1, jest niższa od kwoty wypłaconej wnioskodawcy części rekompensat za rok 2024, o której mowa w art. 31a, wypłacona różnica podlega zwrotowi wraz z odsetkami obliczonymi zgodnie z art. 14, na rachunek Banku.
+
+2. Część rekompensat za rok 2024 wypłacona podmiotowi, który nie uzyskał decyzji o przyznaniu rekompensat, podlega zwrotowi wraz z odsetkami obliczonymi zgodnie z art. 14, na rachunek Banku.
+
+**Art. 31e.** Prezes URE wydaje decyzję w sprawie zwrotu części rekompensat za rok 2024 określającą kwotę podlegającą zwrotowi. Część rekompensat za rok 2024 jest zwracana na rachunek Banku w terminie 14 dni od dnia, w którym decyzja Prezesa URE stała się prawomocna.
+
+**Art. 31f.** Do egzekucji zwrotu części rekompensat za rok 2024 stosuje się przepisy ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2025 r. poz. 132 i 620).
+
+**Art. 31g.** Do sporządzania wykazu, o którym mowa w art. 31a ust. 3, przepisów Kodeksu postępowania administracyjnego oraz art. 10 ust. 9 nie stosuje się.
+
+**Art. 31h.** Wnioskodawca, który chce uzyskać wypłatę części rekompensat za rok 2024 zgodnie z art. 31a ust. 1, składa oświadczenie o treści: „Oświadczam, że wnioskodawca wnosi o wypłatę części rekompensat za rok 2024, o której mowa w art. 31a ustawy z dnia 19 lipca 2019 r. o systemie rekompensat dla sektorów i podsektorów energochłonnych.”.
+
 **Art. 32.**
 
 1. Do dnia wydania decyzji Komisji Europejskiej o zgodności pomocy publicznej przewidzianej w niniejszej ustawie z rynkiem wewnętrznym albo decyzji stwierdzającej, że środek ten nie stanowi pomocy publicznej, art. 11 ust. 1 nie stosuje się.
@@ -418,9 +454,9 @@ o systemie rekompensat dla sektorów i podsektorów energochłonnych
 
 1. Limit wydatków przeznaczony na wypłatę rekompensat z Funduszu wynosi w:
 
-- **1)** 2019 r. 0,00 zł;
-- **2)** 2020 r. 890 000 000,00 zł;
-- **3)** 2021 r. 890 000 000,00 zł.
+- **1)** 2019 r. – 0,00 zł;
+- **2)** 2020 r. – 890 000 000,00 zł;
+- **3)** 2021 r. – 890 000 000,00 zł.
 - **4)** (uchylony)
 - **5)** (uchylony)
 - **6)** (uchylony)
@@ -428,16 +464,16 @@ o systemie rekompensat dla sektorów i podsektorów energochłonnych
 - **8)** (uchylony)
 - **9)** (uchylony)
 - **10)** (uchylony) 1a. Limit wydatków przeznaczonych na wypłatę rekompensat z Funduszu wynosi w:
-- **1)** 2022 r. 1 000 000 000 zł;
-- **2)** 2023 r. 2 648 341 000 zł;
-- **3)** 2024 r. 3 744 660 000,00 zł;
-- **4)** 2025 r. 3 824 310 000,00 zł;
-- **5)** 2026 r. 5 014 070 000,00 zł;
-- **6)** 2027 r. 5 134 740 000,00 zł;
-- **7)** 2028 r. 5 276 260 000,00 zł;
-- **8)** 2029 r. 5 688 290 000,00 zł;
-- **9)** 2030 r. 5 604 440 000,00 zł;
-- **10)** 2031 r. 5 192 040 000,00 zł.
+- **1)** 2022 r. – 1 000 000 000 zł;
+- **2)** 2023 r. – 2 648 341 000 zł;
+- **3)** 2024 r. – 3 744 660 000,00 zł;
+- **4)** 2025 r. – 3 824 310 000,00 zł;
+- **5)** 2026 r. – 5 014 070 000,00 zł;
+- **6)** 2027 r. – 5 134 740 000,00 zł;
+- **7)** 2028 r. – 5 276 260 000,00 zł;
+- **8)** 2029 r. – 5 688 290 000,00 zł;
+- **9)** 2030 r. – 5 604 440 000,00 zł;
+- **10)** 2031 r. – 5 192 040 000,00 zł.
 
 2. Minister właściwy do spraw gospodarki monitoruje wykorzystanie limitu wydatków, o którym mowa w ust. 1 i 1a.
 
@@ -447,9 +483,9 @@ o systemie rekompensat dla sektorów i podsektorów energochłonnych
 
 1. Limit wydatków przeznaczonych z Funduszu na wykonywanie zadań Banku za wykonywanie czynności, o których mowa w art. 21 ust. 3 oraz art. 25, wynosi w:
 
-- **1)** 2019 r. 0,00 zł;
-- **2)** 2020 r. 60 000,00 zł;
-- **3)** 2021 r. 60 000,00 zł.
+- **1)** 2019 r. – 0,00 zł;
+- **2)** 2020 r. – 60 000,00 zł;
+- **3)** 2021 r. – 60 000,00 zł.
 - **4)** (uchylony)
 - **5)** (uchylony)
 - **6)** (uchylony)
@@ -457,16 +493,16 @@ o systemie rekompensat dla sektorów i podsektorów energochłonnych
 - **8)** (uchylony)
 - **9)** (uchylony)
 - **10)** (uchylony) 1a. Limit wydatków przeznaczonych z Funduszu na wykonywanie zadań Banku za wykonywanie czynności, o których mowa w art. 21 ust. 3 oraz art. 25, wynosi w:
-- **1)** 2022 r. 60 000,00 zł;
-- **2)** 2023 r. 60 000,00 zł;
-- **3)** 2024 r. 60 000,00 zł;
-- **4)** 2025 r. 60 000,00 zł;
-- **5)** 2026 r. 60 000,00 zł;
-- **6)** 2027 r. 60 000,00 zł;
-- **7)** 2028 r. 60 000,00 zł;
-- **8)** 2029 r. 60 000,00 zł;
-- **9)** 2030 r. 60 000,00 zł;
-- **10)** 2031 r. 60 000,00 zł.
+- **1)** 2022 r. – 60 000,00 zł;
+- **2)** 2023 r. – 60 000,00 zł;
+- **3)** 2024 r. – 60 000,00 zł;
+- **4)** 2025 r. – 60 000,00 zł;
+- **5)** 2026 r. – 60 000,00 zł;
+- **6)** 2027 r. – 60 000,00 zł;
+- **7)** 2028 r. – 60 000,00 zł;
+- **8)** 2029 r. – 60 000,00 zł;
+- **9)** 2030 r. – 60 000,00 zł;
+- **10)** 2031 r. – 60 000,00 zł.
 
 2. Minister właściwy do spraw gospodarki monitoruje wykorzystanie limitu wydatków, o którym mowa w ust. 1 i 1a, oraz wdraża mechanizmy korygujące, o których mowa w ust. 3.
 
@@ -478,9 +514,9 @@ o systemie rekompensat dla sektorów i podsektorów energochłonnych
 
 1. Limit wydatków z budżetu państwa przeznaczonych na wykonywanie zadań Prezesa URE wynikających z niniejszej ustawy uwzględniony w części 50 budżetu państwa, której dysponentem jest Prezes URE, wynosi w:
 
-- **1)** 2019 r. 2 069 800,00 zł;
-- **2)** 2020 r. 2 093 300,00 zł;
-- **3)** 2021 r. 2 144 400,00 zł.
+- **1)** 2019 r. – 2 069 800,00 zł;
+- **2)** 2020 r. – 2 093 300,00 zł;
+- **3)** 2021 r. – 2 144 400,00 zł.
 - **4)** (uchylony)
 - **5)** (uchylony)
 - **6)** (uchylony)
@@ -488,16 +524,16 @@ o systemie rekompensat dla sektorów i podsektorów energochłonnych
 - **8)** (uchylony)
 - **9)** (uchylony)
 - **10)** (uchylony) 1a. Limit wydatków z budżetu państwa przeznaczonych na wykonywanie zadań Prezesa URE wynikających z ustawy, uwzględniony w części 50 budżetu państwa, której dysponentem jest Prezes URE, wynosi w:
-- **1)** 2022 r. 2 896 700,00 zł;
-- **2)** 2023 r. 2 250 200,00 zł;
-- **3)** 2024 r. 2 305 100,00 zł;
-- **4)** 2025 r. 2 361 300,00 zł;
-- **5)** 2026 r. 2 418 900,00 zł;
-- **6)** 2027 r. 2 477 900,00 zł;
-- **7)** 2028 r. 2 538 400,00 zł;
-- **8)** 2029 r. 2 538 400,00 zł;
-- **9)** 2030 r. 2 538 400,00 zł;
-- **10)** 2031 r. 2 538 400,00 zł.
+- **1)** 2022 r. – 2 896 700,00 zł;
+- **2)** 2023 r. – 2 250 200,00 zł;
+- **3)** 2024 r. – 2 305 100,00 zł;
+- **4)** 2025 r. – 2 361 300,00 zł;
+- **5)** 2026 r. – 2 418 900,00 zł;
+- **6)** 2027 r. – 2 477 900,00 zł;
+- **7)** 2028 r. – 2 538 400,00 zł;
+- **8)** 2029 r. – 2 538 400,00 zł;
+- **9)** 2030 r. – 2 538 400,00 zł;
+- **10)** 2031 r. – 2 538 400,00 zł.
 
 2. Prezes URE monitoruje wykorzystanie limitu wydatków, o którym mowa w ust. 1 i 1a, oraz wdraża mechanizmy korygujące, o których mowa w ust. 3.
 
@@ -509,9 +545,9 @@ o systemie rekompensat dla sektorów i podsektorów energochłonnych
 
 1. Limit wydatków z budżetu państwa przeznaczonych na wykonywanie zadań ministra właściwego do spraw gospodarki wynikających z niniejszej ustawy wynosi w:
 
-- **1)** 2019 r. 0,00 zł;
-- **2)** 2020 r. 390 000,00 zł;
-- **3)** 2021 r. 390 000,00 zł.
+- **1)** 2019 r. – 0,00 zł;
+- **2)** 2020 r. – 390 000,00 zł;
+- **3)** 2021 r. – 390 000,00 zł.
 - **4)** (uchylony)
 - **5)** (uchylony)
 - **6)** (uchylony)
@@ -519,16 +555,16 @@ o systemie rekompensat dla sektorów i podsektorów energochłonnych
 - **8)** (uchylony)
 - **9)** (uchylony)
 - **10)** (uchylony) 1a. Limit wydatków z budżetu państwa przeznaczonych na wykonywanie zadań ministra właściwego do spraw gospodarki wynikający z ustawy wynosi w:
-- **1)** 2022 r. 390 000,00 zł;
-- **2)** 2023 r. 390 000,00 zł;
-- **3)** 2024 r. 390 000,00 zł;
-- **4)** 2025 r. 390 000,00 zł;
-- **5)** 2026 r. 390 000,00 zł;
-- **6)** 2027 r. 390 000,00 zł;
-- **7)** 2028 r. 390 000,00 zł;
-- **8)** 2029 r. 390 000,00 zł;
-- **9)** 2030 r. 390 000,00 zł;
-- **10)** 2031 r. 390 000,00 zł.
+- **1)** 2022 r. – 390 000,00 zł;
+- **2)** 2023 r. – 390 000,00 zł;
+- **3)** 2024 r. – 390 000,00 zł;
+- **4)** 2025 r. – 390 000,00 zł;
+- **5)** 2026 r. – 390 000,00 zł;
+- **6)** 2027 r. – 390 000,00 zł;
+- **7)** 2028 r. – 390 000,00 zł;
+- **8)** 2029 r. – 390 000,00 zł;
+- **9)** 2030 r. – 390 000,00 zł;
+- **10)** 2031 r. – 390 000,00 zł.
 
 2. Minister właściwy do spraw gospodarki monitoruje wykorzystanie limitu wydatków, o którym mowa w ust. 1 i 1a, oraz wdraża mechanizmy korygujące, o których mowa w ust. 3.
 
@@ -538,5 +574,5 @@ o systemie rekompensat dla sektorów i podsektorów energochłonnych
 
 **Art. 37.** Plan finansowy Funduszu na rok 2020 sporządza się w terminie 60 dni od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 38.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia . WYKAZ SEKTORÓW I PODSEKTORÓW ENERGOCHŁONNYCH Lp. PKD 2007 / PKWiU 2015 Opis 1 14.11 Produkcja odzieży skórzanej 2 24.42 Produkcja aluminium 3 20.13 Produkcja pozostałych podstawowych chemikaliów nieorganicznych 4 24.43 Produkcja ołowiu, cynku i cyny 5 17.11 Produkcja masy włóknistej 6 17.12 Produkcja papieru i tektury 7 24.10 Produkcja surówki żelazostopów, żeliwa i stali oraz wyrobów hutniczych 8 19.20 Wytwarzanie i przetwarzanie produktów rafinacji ropy naftowej 9 24.44 Produkcja miedzi 10 24.45 Produkcja pozostałych metali nieżelaznych 11 20.16.40.15 Glikole polietylenowe oraz pozostałe alkohole polieterowe, w formach podstawowych 12 24.51 Wszystkie kategorie produktu w sektorze odlewnictwa żeliwa 13 Następujące podsektory w ramach sektora włókna szklanego (23.14): 23.14.12.20 Maty z włókna szklanego 23.14.12.40 Woale z włókna szklanego 14 Następujące podsektory w ramach sektora gazów przemysłowych (20.11): 20.11.11.50 Wodór 20.11.12.90 Nieorganiczne związki tlenowe niemetali W W W W W W W W W W WSKAŹNIK EFEKTYWNOŚCI ZUŻYCIA REZERWOWEJ ENERGII ELEKTRYCZNEJ W ODNIESIENIU DO PRODUKTÓW Z SEKTORÓW LUB PODSEKTORÓW ENERGOCHŁONNYCH Wartość wskaźnika efektywności zużycia rezerwowej energii elektrycznej w poszczególnych latach 2021 2022 2023 2024 2025 2026 2027 2028 2029 2030 80 % 79,128 % 78,266 % 77,412 % 76,569 % 75,734 % 74,909 % 74,092 % 73,284 % 72,486 % WSKAŹNIK EFEKTYWNOŚCI ZUŻYCIA REZERWOWEJ ENERGII ELEKTRYCZNEJ W ODNIESIENIU DO PRODUKTÓW Z SEKTORÓW LUB PODSEKTORÓW ENERGOCHŁONNYCH
+**Art. 38.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia . Załączniki do ustawy z dnia 19 lipca 2019 (Dz. U. z 2024 r. poz. 1215) Załącznik
 

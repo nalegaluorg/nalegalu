@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# Warszawa, dnia 31 maja
+# o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,37 +24,27 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001018) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1018/text.pdf) |
 
-USTAWA dnia 12 kwietnia zmianie podatku od towarów i usług oraz niektórych innych ustaw
+**Art. 1.** W ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2018 r. poz. 2174, z późn. zm. ) art. 96b:
 
-**Art. 1.** W ustawie dnia 11 marca 2004 podatku od towarów i usług (Dz. 2174, późn. zm. ) art. 96b:
+**Art. 2.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2018 r. poz. 1509, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie dnia 26 lipca 1991 podatku dochodowym od osób fizycznych (Dz. 1509, późn. zm. ) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2019 r. poz. 865) wprowadza się następujące zmiany:
 
-**Art. 3.** W ustawie dnia 15 lutego 1992 podatku dochodowym od osób prawnych (Dz. 865) wprowadza się następujące zmiany:
+**Art. 4.** W ustawie z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników (Dz. U. z 2019 r. poz. 63 i 730) wprowadza się następujące zmiany:
 
-**Art. 4.** W ustawie dnia 13 października 1995 zasadach ewidencji i identyfikacji podatników i płatników (Dz. 63 i 730) wprowadza się następujące zmiany:
+**Art. 5.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2019 r. poz. 900 i 924) wprowadza się następujące zmiany:
 
-**Art. 5.** W ustawie dnia 29 sierpnia 1997 Ordynacja podatkowa (Dz. 900 i 924) wprowadza się następujące zmiany:
+**Art. 6.** W ustawie z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z 2018 r. poz. 2386 i 2243 oraz z 2019 r. poz. 326, 730 i 875) art. 28 dodaje się ust. 4 brzmieniu: „4. Do rachunków zawartych wykazie podmiotów, o którym mowa art. 96b ust. 1 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług 31 sierpnia 2019 r., tworzy postaci elektronicznej wykaz podmiotów zarejestrowanych jako podatnicy VAT. 2. Do wykazu, o którym mowa ust. 1, wprowadza się dane podmiotów zarejestrowanych jako podatnicy VAT, wymienione art. 96b ust. 3 pkt 1−3, 5−7, 11 i 12 ustawy zmienianej art. 1, brzmieniu dotychczasowym, z wyjątkiem podstawy prawnej rejestracji, ich statusy oraz numery ich rachunków rozliczeniowych, o których mowa art. 49 ust. 1 pkt 1 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2018 r. poz. 2187, 2243 i 2354 oraz z 2019 r. poz. 326, 730 i 875), lub imiennych rachunków spółdzielczej kasie oszczędnościowo-kredytowej, której podmiot jest członkiem, otwartych związku z prowadzoną przez członka działalnością gospodarczą – wskazanych zgłoszeniu identyfikacyjnym lub zgłoszeniu aktualizacyjnym i potwierdzonych przy wykorzystaniu STIR rozumieniu art. 119zg pkt 6 ustawy z dnia 29 sierpnia 1997 r. − Ordynacja podatkowa (Dz. U. z 2019 r. poz. 900, 924 i 1018).
 
-**Art. 6.** W ustawie dnia 5 listopada 2009 spółdzielczych kasach oszczędnościowo-kredytowych (Dz. 2386 i 2243 oraz 326, 730 i 875) art. 28 dodaje się 4 brzmieniu: „4. Do rachunków zawartych wykazie podmiotów, art. 96b 1 dnia 11 marca 2004 podatku od towarów i usług (Dz. 2174, późn. zm. ), nie stosuje się określonych 1 ograniczeń zajęcia na podstawie sądowego lub administracyjnego tytułu wykonawczego.”.
+**Art. 8.** Wykaz, o którym mowa art. 96b ust. 1 pkt 1 ustawy zmienianej art. 1, brzmieniu dotychczasowym, uzupełnia się o dane podmiotów, odniesieniu do których naczelnik urzędu skarbowego nie dokonał rejestracji jako podatników VAT, o których mowa art. 96 ust. 4 ustawy zmienianej art. 1, albo które zostały wykreślone przez naczelnika urzędu skarbowego z rejestru jako podatnicy VAT, o których mowa art. 96 ust. 4 ustawy zmienianej art. 1 – okresie od dnia 1 stycznia 2015 r. do dnia 21 sierpnia 2018 r., nieujętych tym wykazie.
 
-**Art. 7.**
+**Art. 9.** Wykazy, o których mowa art. 96b ust. 1 pkt 1 i 2 ustawy zmienianej art. 1, brzmieniu dotychczasowym, oraz wykaz, o którym mowa art. 7 ust. 1, stają się wykazem, o którym mowa art. 96b ust. 1 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą. rozpoczynającym się po dniu 31 grudnia 2019 r. 2. Przepisów art. 22p ust. 1, 2 i 4 ustawy zmienianej art. 2, brzmieniu nadanym niniejszą ustawą, oraz art. 15d ust. 1, 2 i 4 ustawy zmienianej art. 3, brzmieniu nadanym niniejszą ustawą, nie stosuje się do płatności dotyczących kosztów zaliczonych do kosztów uzyskania przychodów przed dniem 1 stycznia 2020 r.
 
-1. Szef Krajowej Administracji Skarbowej, terminie do dnia 31 sierpnia r., tworzy postaci elektronicznej wykaz podmiotów zarejestrowanych jako podatnicy VAT.
+**Art. 11.** Do postępowania sprawie nadania numeru identyfikacji podatkowej podatnikom, o których mowa art. 5 ust. 2b, 3 i 4 ustawy zmienianej art. 4, wszczętego i niezakończonego przed dniem wejścia życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
 
-2. Do wykazu, 1, wprowadza się dane podmiotów zarejestrowanych jako podatnicy VAT, wymienione art. 96b 3 pkt 1−3, 5−7, 11 i 12 zmienianej art. 1, brzmieniu dotychczasowym, wyjątkiem podstawy prawnej rejestracji, ich statusy oraz numery ich rachunków rozliczeniowych, których art. 49 1 pkt 1 dnia 29 sierpnia 1997 Prawo bankowe (Dz. 2187, 2243 i 2354 oraz 326, 730 i 875), lub imiennych rachunków spółdzielczej kasie oszczędnościowo-kredytowej, której podmiot jest członkiem, otwartych związku prowadzoną przez członka działalnością gospodarczą wskazanych zgłoszeniu identyfikacyjnym lub zgłoszeniu aktualizacyjnym i potwierdzonych przy wykorzystaniu STIR rozumieniu art. 119zg pkt 6 dnia 29 sierpnia 1997 − Ordynacja podatkowa (Dz. 900, 924 i 1018).
+**Art. 12.** Do zajęcia rachunku na podstawie sądowego lub administracyjnego tytułu wykonawczego, o którym mowa art. 28 ust. 1 ustawy zmienianej art. 6, dokonanego i nieuchylonego przed dniem wejścia życie niniejszej ustawy, stosuje się przepisy art. 28 tej ustawy, brzmieniu dotychczasowym.
 
-**Art. 8.** Wykaz, art. 96b 1 pkt 1 zmienianej art. 1, brzmieniu dotychczasowym, uzupełnia się dane podmiotów, odniesieniu do których naczelnik urzędu skarbowego nie dokonał rejestracji jako podatników VAT, których art. 96 4 zmienianej art. 1, albo które wykreślone przez naczelnika urzędu skarbowego rejestru jako podatnicy VAT, których art. 96 4 zmienianej art. 1 okresie od dnia 1 stycznia 2015 do dnia 21 sierpnia r., nieujętych tym wykazie.
+**Art. 13.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 5 ust. 5 ustawy zmienianej art. 4 zachowują moc do dnia wejścia życie nowych przepisów wykonawczych wydanych na podstawie art. 5 ust. 5 ustawy zmienianej art. 4, jednak nie dłużej niż przez 24 miesiące od dnia wejścia życie niniejszej ustawy, i mogą być zmieniane na podstawie tego przepisu.
 
-**Art. 9.** Wykazy, których art. 96b 1 pkt 1 i 2 zmienianej art. 1, brzmieniu dotychczasowym, oraz wykaz, art. 7 1, stają się wykazem, art. 96b 1 zmienianej art. 1, brzmieniu nadanym niniejszą ustawą.
-
-**Art. 10.**
-
-1. Przepisy art. 14 2h i 2i oraz art. 22p 1, 2 i 4 zmienianej art. 2, brzmieniu nadanym niniejszą ustawą, oraz art. 12 4i i 4j oraz art. 15d 1, 2 i 4 zmienianej art. 3, brzmieniu nadanym niniejszą ustawą, mają zastosowanie do zapłaty należności roku podatkowym rozpoczynającym się po dniu 31 grudnia
-
-2. Przepisów art. 22p 1, 2 i 4 zmienianej art. 2, brzmieniu nadanym niniejszą ustawą, oraz art. 15d 1, 2 i 4 zmienianej art. 3, brzmieniu nadanym niniejszą ustawą, nie stosuje się do płatności dotyczących kosztów zaliczonych do kosztów uzyskania przychodów przed dniem 1 stycznia 2020
-
-**Art. 11.** Do postępowania sprawie nadania numeru identyfikacji podatkowej podatnikom, których art. 5 2b, 3 i 4 zmienianej art. 4, wszczętego i niezakończonego przed dniem wejścia życie niniejszej ustawy, stosuje się przepisy dotychczasowe. nej art. 4, jednak nie dłużej niż przez 24 miesiące od dnia wejścia życie niniejszej ustawy, i mogą być zmieniane na podstawie tego przepisu.
-
-**Art. 14.** Ustawa wchodzi życie dniem 1 września r., wyjątkiem:
+**Art. 14.** Ustawa wchodzi życie z dniem 1 września 2019 r., z wyjątkiem:
 

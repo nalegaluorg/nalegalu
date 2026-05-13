@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 26 czerwca 2023 r.
+# w sprawie ogłoszenia jednolitego tekstu ustawy o scalaniu i wymianie gruntów Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 26 marca 1982 r. o scalaniu i wymianie gruntów (Dz. U. z 2022 r. poz. 1223), z uwzględnieniem zmian wprowadzonych ustawą z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. poz. 412) oraz zmian wynikających z przepisów ogłoszonych przed dniem 26 kwietnia 2023 r.
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 11 maja 2023 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001197) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1197/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 11 maja 2023 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o scalaniu i wymianie gruntów Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 26 marca 1982 r. o scalaniu i wymianie gruntów (Dz. U. z 2022 r. poz. 1223), z uwzględnieniem zmian wprowadzonych ustawą z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. poz. 412) oraz zmian wynikających z przepisów ogłoszonych przed dniem 26 kwietnia 2023 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 153 i art. 169 ustawy z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. poz. 412), które stanowią: „Art. 153. Do postępowań scaleniowych, o których mowa w ustawie zmienianej w art. 118, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.” „Art. 169. Ustawa wchodzi w życie z dniem 15 marca 2023 r., z wyjątkiem:
 1) art. 145, który wchodzi w życie po upływie 2 miesięcy od dnia ogłoszenia;
 2) art. 135 pkt 3 w zakresie art. 10c ust. 12, który wchodzi w życie z dniem 1 czerwca 2023 r.;
@@ -53,7 +53,6 @@ b) korekcie przebiegu oraz poprawie parametrów technicznych urządzeń meliorac
 c) likwidacji zbędnych miedz i dróg oraz wykonywaniu zabiegów rekultywacyjnych umożliwiających uprawę mechaniczną gruntów,
 d) budowie lub przebudowie urządzeń wodnych mających na celu zwiększenie retencji wód;
 10) inwestorze rozumie się przez to podmiot realizujący lub zamierzający realizować inwestycję celu publicznego na obszarze scalenia.
-obszar scalenia.
 2. (uchylony)
 3. Wydzielenie gruntów zabudowanych w wyniku scalenia gruntów innemu uczestnikowi scalenia jest dopuszczalne tylko za zgodą tego uczestnika scalenia oraz za zgodą dotychczasowego właściciela i pod warunkiem:
 1) rozbiórki lub przeniesienia przez dotychczasowego właściciela zabudowań w oznaczonym terminie, albo
@@ -119,7 +118,6 @@ stanowienie organu wyższego stopnia, o których mowa w ust. 3, uważa się za d
 2. Rada uczestników scalenia jest wybierana na zebraniu uczestników scalenia, zwołanym przez starostę.
 3. W przypadku niedokonania wyboru rady uczestników scalenia w terminie określonym przez starostę funkcję tej rady sprawuje powołany postanowieniem tego organu zespół, w skład którego wchodzi rada sołecka, sołtys oraz przedstawiciel Krajowego Ośrodka będącego uczestnikiem scalenia oraz przedstawiciel społeczno-zawodowych organizacji rolników;
 w przypadku gdy postępowaniem scaleniowym objęto grunty więcej niż jednej wsi, w skład zespołu wchodzą sołtysi tych wsi, przedstawiciele rad sołeckich po jednym z każdej wsi, przedstawiciel Krajowego Ośrodka będącego uczestnikiem scalenia oraz przedstawiciel społeczno-zawodowych organizacji rolników.
-jektant scalenia, przy udziale powołanej przez ten organ komisji pełniącej funkcje doradcze. W skład komisji wchodzą:
 1) wszyscy uczestnicy scalenia, a jeśli liczba uczestników jest większa niż 10 osób rada uczestników scalenia;
 2) przedstawiciel społeczno-zawodowych organizacji rolników;
 3) przedstawiciel Krajowego Ośrodka będącego uczestnikiem scalenia;
@@ -164,7 +162,6 @@ specjalne wydziela się użytki możliwie tego samego rodzaju i tej samej jakoś
 20. Stan własności oraz posiadania gruntów, powierzchnię użytków i klasy gruntów określa się według danych ewidencji gruntów.
 21. Sąd właściwy do prowadzenia ksiąg wieczystych, na wniosek starosty, uczyni w księdze wieczystej wzmiankę o wszczęciu postępowania scaleniowego lub wymiennego, a jeżeli nieruchomość nie ma urządzonej księgi wieczystej, wniosek składa się do istniejącego zbioru dokumentów.
 2. Wzmianka w księdze wieczystej lub złożenie wniosku do zbioru dokumentów ma ten skutek, że wszystkie późniejsze zmiany stanu własności jak i obciążeń pozostają bez wpływu na przebieg postępowania scaleniowego lub wymiennego, chyba że dokonane zostały za zgodą starosty.
-wania przestrzennego.
 2. Przy sporządzaniu projektu scalenia gruntów biorą udział, z głosem doradczym, członkowie komisji, o której mowa w art. 10 ust.
 23. Projekt scalenia lub wymiany gruntów określa proponowane granice wydzielonych gruntów oraz następujące zasady obejmowania tych gruntów w posiadanie:
 1) plony upraw jednorocznych zbiera dotychczasowy właściciel gruntów;
@@ -187,7 +184,6 @@ wania przestrzennego.
 2) terminy i zasady objęcia w posiadanie gruntów wydzielonych w wyniku scalenia lub wymiany oraz sposoby rozliczeń, o których mowa w art. 2 ust. 3, art. 8, art. 14 ust. 1 oraz w art. 23 ust. 1;
 3) przebieg granic nieruchomości w wypadkach, o których mowa w ustawie Prawo geodezyjne i kartograficzne.
 28. Decyzję o zatwierdzeniu projektu scalenia gruntów, decyzję odmawiającą wszczęcia postępowania scaleniowego, decyzję o umorzeniu postępowania scaleniowego oraz decyzję organu wyższego stopnia w tych sprawach podaje się do publicznej wiadomości przez wywieszenie na okres 14 dni na tablicy ogłoszeń urzędu gminy, na której terenie są położone grunty objęte scaleniem, oraz na tablicy ogłoszeń we wsi, której grunty tworzą obszar scalenia, i zamieszczenie w Biuletynie Informacji Publicznej na stronie podmiotowej starostwa powiatowego, a w przypadku decyzji organu wyższego stopnia w tych sprawach także w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ten organ.
-uczestnikom scalenia.
 3. Decyzję o zatwierdzeniu projektu wymiany gruntów doręcza się uczestnikom wymiany na piśmie.
 4. Do decyzji o zatwierdzeniu projektu scalenia lub wymiany gruntów, poprzedzonej decyzją o środowiskowych uwarunkowaniach, stosuje się przepisy art. 72 ust. 6 i 6a ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U.
 z 2022 r. poz. 1029, z późn. zm. ).
@@ -207,7 +203,6 @@ z 2022 r. poz. 1029, z późn. zm. ).
 31a. Zebranie uczestników scalenia oraz wykonywanie prawa głosu może odbywać się z wykorzystaniem środków komunikacji elektronicznej.
 2. W przypadku, o którym mowa w ust. 1, zawiadomienie o zebraniu uczestników scalenia zawiera dodatkowo informacje o sposobie uczestnictwa i wykonywania prawa głosu.
 32. W razie uniemożliwiania objęcia nowo wydzielonych gruntów w posiadanie albo niedotrzymywania terminów i zasad spłat należności ustalonych w decyzji o zatwierdzeniu projektu scalenia gruntów, stosuje się przepisy o postępowaniu egzekucyjnym w administracji.
-administracyjnego.
 1a. Nieuregulowany lub nieujawniony stan prawny gruntów tworzących obszar scalenia nie stanowi przeszkody do wszczęcia i prowadzenia postępowania scaleniowego oraz wydania decyzji o zatwierdzeniu projektu scalenia gruntów.
 1b. Przez nieuregulowany stan prawny gruntów tworzących obszar scalenia należy rozumieć sytuację, w której:
 1) dotychczasowy właściciel gruntów nie żyje i nie przeprowadzono postępowania spadkowego lub nie zostało ono zakończone;
@@ -223,7 +218,6 @@ administracyjnego.
 1) nie wybiera się rady uczestników scalenia oraz nie powołuje się zespołu, o którym mowa w art. 9 ust. 3, a funkcje tej rady sprawuje powołany przez starostę w drodze postanowienia zespół do spraw scaleń; w skład zespołu do spraw scaleń wchodzi sołtys wsi, której grunty tworzą obszar scalenia, dwóch albo trzech członków rady sołeckiej wsi, której grunty tworzą obszar scalenia, przedstawiciel Krajowego Ośrodka będącego uczestnikiem scalenia, przedstawiciel gminy, na której terenie są położone grunty objęte scaleniem, oraz dwóch albo trzech właścicieli gospodarstw rolnych wybranych przez starostę, których grunty znajdują się na obszarze objętym scaleniem; do postanowienia w sprawie powołania zespołu do spraw scaleń stosuje się odpowiednio przepisy art. 7 ust. 3 i 4;
 2) jeżeli liczba uczestników scalenia jest większa niż 10 osób, rada uczestników scalenia albo zespół, o którym mowa w art. 9 ust. 3 w przypadku ich wybrania przed wprowadzeniem stanu zagrożenia epidemicznego albo stanu epidemii lub stanu nadzwyczajnego, albo zespół do spraw scaleń, na zebraniu zwołanym przez starostę, określa w formie uchwały zasady szacunku gruntów, o których mowa w art. 11 ust. 1, oraz wyraża w formie uchwały zgodę, o której mowa w art. 13 ust. 1; uchwały zapadają większością trzech czwartych głosów w obecności co najmniej połowy liczby członków rady uczestników scalenia albo zespołu, o którym mowa w art. 9 ust. 3, albo zespołu do spraw scaleń; przepisy art. 13 ust. 3–5 stosuje się odpowiednio;
 3) wyniki oszacowania gruntów, lasów oraz sadów, ogrodów, chmielników i innych upraw specjalnych, o których mowa w art. 12 ust. 1, udostępnia się do publicznego wglądu na okres 7 dni w wyznaczonym przez starostę miejscu; o miejscu i terminie wyłożenia do publicznego wglądu wyników oszacowania gruntów starosta zawiadamia w formie obwieszczenia, które wywiesza się na tablicy ogłoszeń urzędu gminy, na której terenie są położone grunty objęte scaleniem, oraz na tablicy ogłoszeń we wsi, której grunty tworzą obszar scalenia, i zamieszcza się w Biuletynie Informacji Publicznej na stronie podmiotowej starostwa powiatowego, co najmniej na 7 dni przed tym terminem;
-gruntów do publicznego wglądu;
 5) do zapoznania się uczestników scalenia z wynikami ustaleń komisji rozpatrującej zastrzeżenia do szacunku gruntów stosuje się odpowiednio pkt 3;
 6) starosta zawiadamia o terminie objęcia w posiadanie przez uczestników scalenia nowo wydzielonych gruntów w formie obwieszczenia, które wywiesza się na tablicy ogłoszeń urzędu gminy, na której terenie są położone grunty objęte scaleniem, oraz na tablicy ogłoszeń we wsi, której grunty tworzą obszar scalenia, i zamieszcza się w Biuletynie Informacji Publicznej na stronie podmiotowej starostwa powiatowego, co najmniej na 7 dni przed terminem objęcia w posiadanie; za datę objęcia w posiadanie uważa się termin wskazany w zawiadomieniu.
 34. (uchylony)

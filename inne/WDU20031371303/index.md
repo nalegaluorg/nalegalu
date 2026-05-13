@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# Ustawa z dnia 27 czerwca 2003 r. o zmianie ustawy o funkcjonowaniu banków spółdzielczych, ich zrzeszaniu się i bankach zrzeszających oraz ustawy o Narodowym Banku Polskim
+# o zmianie ustawy o funkcjonowaniu banków spółdzielczych, ich zrzeszaniu się i bankach zrzeszających oraz ustawy o Narodowym Banku Polskim
+
+*USTAWA dnia 27 czerwca 2003 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,30 +26,33 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031371303) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/1303/text.pdf) |
 
-**Art. 1.** Wustawie zdnia 7 grudnia 2000 r. ofunkcjonowaniu spółdzielczych, ich zrzeszaniu bankach zrzeszających (Dz. U. 119, 1252, 2001 r. 111, 1195 2002 r. 141, 1178 iNr 216, 1824) wprowadza następujące zmiany:
+**Art. 1.** W ustawie dnia 7 grudnia 2000 r. o funkcjonowaniu banków spółdzielczych, ich zrzeszaniu się i bankach zrzeszających (Dz.U. Nr 119, poz. 1252, 2001 r. Nr 111, poz. 1195 oraz 2002 r. Nr 141, poz. 1178 i Nr 216, poz. 1824) wprowadza się następujące zmiany:
 
-**Art. 2.** Banki, októrych mowa wart. ustawy wymienionej brzmieniu nadanym niniejszą ustawą, są obowiązane dostosować prowadzoną działalność wymogów określonych 5a, 11, 13 15 tej ustawy, 12 miesięcy od wejścia wżycie niniejszej ustawy.
+**Art. 2.** Banki, o których mowa w art. 1 ust. 2 ustawy wymienionej w art. 1 w brzmieniu nadanym niniejszą ustawą, są obowiązane dostosować prowadzoną działalność do wymogów określonych w art. 5a, art. 11, art. 13 i art. 15 tej ustawy, w terminie 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
 **Art. 3.**
 
-1. Zwalnia podatku dochodowego od osób prawnych 75% dochodów spółdzielczych uzyskanych wwyniku operacji zczłonkami tych czasu uzyskania przez te banki zwiększenia sumy funduszy własnych równowartości 000 000 euro, przeliczonej na walutę polską według kursu średniego euro ogłaszanego przez Narodowy Bank Polski, obowiązującego ostatnim dniu roku poprzedzającego rok osiągnięcia wymaganego progu kapitałowego.
+1. Do czasu uzyskania przez banki spółdzielcze zwiększenia sumy funduszy własnych do równowartości 1 000 000 euro, przeliczonej na złote według kursu średniego ogłoszonego przez Narodowy Bank Polski, obowiązującego w ostatnim dniu roku poprzedzającego rok osiągnięcia wymaganego progu kapitałowego, banki spółdzielcze odliczają od kwoty należnego podatku dochodowego od osób prawnych kwotę równą kwocie dochodu, jaki uzyskałyby nabycia, za kwotę odpowiadającą ich funduszom podstawowym, 52-tygodniowych bonów skarbowych.
 
-2. Zwolnienie, którym mowa 1, dotyczy spółdzielczych, które:
+2. Odliczenie, o którym mowa w ust. 1, dotyczy banków spó łdzielczych, które:
 
-- **1)** dniu wejścia życie niniejszej ustawy nie spełniały wymogu określonego 172 3 pkt 3 ustawy Prawo bankowe
-- **2)** przekazały na zwiększenie funduszu zasobowego co najmniej 80% wypracowanego zysku netto ustalonego zgodnie przepisami ustawy rachunkowości wterminie 14 dni od uprawomocnienia uchwały walnego zgromadzenia sprawie przeznaczenia tych środków finansowych; tym przypadku podatek zaliczki uprzednio zapłacone za dany rok podlegają zwrotowi 30 dni od złożenia korekty zeznania.
+- **1)** w dniu wejścia w życie niniejszej ustawy nie spełniały wymogu określonego w art. 172 ust. 3 pkt 3 ustawy - Prawo bankowe, oraz kowości - w terminie 14 dni od dnia uprawomocnienia się uchwały walnego zgromadzenia w sprawie przeznaczenia tych środków finansowych; w tym przypadku podatek oraz zaliczki uprzednio zapłacone za dany rok podlegają zwrotowi w terminie 30 dni od dnia złożenia korekty zeznania.
 
-**Art. 4.** Przepis 3 ma zastosowanie raz pierwszy dochodu uzyskanego roku podatkowym rozpoczynającym w2004 r.
+**Art. 4.** Przepis art. 3 ma zastosowanie po raz pierwszy do dochodu uzyskanego w roku podatkowym rozpoczynającym się w 2004 r.
 
 **Art. 5.**
 
-1. Bank ˚ywnościowej Akcyjna wterminie 30 dni od wejścia wżycie ustawy wezwie osoby, októrych mowa wart. pkt 4 ustawy wymienionej 1, którym uprawnienia nieodpłatnego nabycia akcji tego banku nadano niniejszą ustawą, złożenia, wterminie 3 miesięcy od wezwania, oświadczenia ozamiarze nieodpłatnego nabycia akcji Banku ˚ywnościowej Akcyjna.
+1. Bank Gospodarki Żywnościowej Spółka Akcyjna w terminie 30 dni od dnia wejścia w życie ustawy wezwie osoby, o których mowa w art. 2 pkt 4 ustawy wymienionej w art. 1, którym uprawnienia do nieodpłatnego nabycia akcji tego banku nadano niniejszą ustawą, do złożenia, w terminie 3 miesięcy od dnia wezwania, oświadczenia o zamiarze nieodpłatnego nabycia akcji Banku Gospodarki Żywnościowej Spółka Akcyjna.
 
-2. Oświadczenia złożone przez osoby uprawnione przed wejściem niniejszej ustawy wżycie stają skuteczne zdniem wejścia tej ustawy wżycie.
+2. Oświadczenia złożone przez osoby uprawnione przed wejściem niniejszej ustawy w życie stają się skuteczne dniem wejścia tej ustawy w życie.
 
-3. Niezłożenie oświadczenia powoduje utratę prawa nieodpłatnego nabycia akcji. Akcyjna rozpatrują sądy powszechne. NBP ostatniego miesiąca stanowiącego podstawę naliczenia rezerwy oboArt. 6.Wustawie zdnia 29 sierpnia 1997 r. oNarodo- wiązkowej, awprzypadku gdy wtym dniu wym Banku Polskim (Dz. U. 140, 938, 1998 r. nie ogłoszono takiego kursu, według ostat160, 1063, z2000 r. 53, 648, 62, 718 niego kursu ogłoszonego przed tym 119, 1252, 2001 r. 8, 64, 110, dniem.”. 1189 154, 1784 1800, 2002 r. 126, 1070 141, 1178 2003 r. 65, Art. 7. Ustawa wchodzi życie upływie 30 dni
+3. Niezłożenie oświadczenia w terminie powoduje utratę prawa do nieodpłatnego nabycia akcji.
 
-- **594)** 39 dodaje 39awbrzmieniu: od ogłoszenia. ŃArt. 39a. Banki pomniejszają kwotę naliczonej rezerwy obowiązkowej kwotę stanowiącą Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 1304 USTAWA zdnia 27 czerwca 2003 r. ozmianie ustawy osystemie oświaty ozmianie niektórych innych ustaw
+4. Po zakończeniu procesu zbierania oświadczeń od osób, o których mowa w ust. 1, Bank Gospodarki Żywnościowej Spółka Akcyjna sporządzi ostateczną zbiorczą listę osób uprawnionych.
 
-**Art. 1.** Wustawie zdnia 7 września 1991 r. osystemie oświaty (Dz. U. 1996 r. 67, 329, póên. zm. woju kształtowanie postaw sprzyjających jego wdrażaniu wskali lokalnej, krajo) wprowadza następujące zmiany: wej iglobalnej,”,
+5. Spory powstałe na tle prawa do nieodpłatnego nabycia akcji Banku Gospodarki Żywnościowej Spółka Akcyjna rozpatrują sądy powszechne.
+
+**Art. 6.** W ustawie dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz.U. 1997 r. Nr 140, poz. 938, 1998 r. Nr 160, poz. 1063, 2000 r. Nr 53, poz. 648, Nr 62, poz. 718 i Nr 119, poz. 1252, 2001 r. Nr 8, poz. 64, Nr 110, poz. 1189 i Nr 154, poz. 1784 i 1800, 2002 r. Nr 126, poz. 1070 i Nr 141, poz. 1178 oraz 2003 r. Nr 65, poz. 594) po art. 39 dodaje się art. 39a w brzmieniu: „Art. 39a. Banki pomniejszają kwotę naliczonej rezerwy obowiązkowej o kwotę stanowiącą równowartość 500 000 euro, obliczoną według kursu średniego ogłaszanego przez NBP ostatniego dnia miesiąca stanowiącego podstawę naliczenia rezerwy obowiązkowej, a w przypadku gdy w tym dniu nie ogłoszono takiego kursu, według ostatniego kursu ogłoszonego przed tym dniem.”.
+
+**Art. 7.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
 

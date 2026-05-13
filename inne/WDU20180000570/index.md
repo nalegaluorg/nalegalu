@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 19 marca 2018 r.
+# w sprawie ogłoszenia jednolitego tekstu ustawy o samorządowych kolegiach odwoławczych
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 1 marca 2018 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,18 +26,16 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000570) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/570/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 1 marca 2018 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o samorz ą dowych kolegiach odwoławczych
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 12 października 1994 r. o samorządowych kolegiach odwoławczych (Dz. U. z 2015 r.
-poz. 1659), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 7 kwietnia 2017 r. o zmianie ustawy Kodeks postępowania administracyjnego oraz niektórych innych ustaw (Dz. U. poz. 935) oraz zmian wynikających z przepisów ogłoszonych przed dniem 28 lutego 2018 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 15 i art. 18 ustawy z dnia 7 kwietnia 2017 r. o zmianie ustawy Kodeks postępowania administracyjnego oraz niektórych innych ustaw (Dz. U. poz. 935), które stanowią: „Art. 15. 1. W terminie 2 lat od dnia wejścia w życie niniejszej ustawy ministrowie kierujący działami administracji rządowej dokonają, w zakresie swojej właściwości, przeglądu aktów prawnych regulujących postępowania administracyjne w zakresie dwuinstancyjności postępowań i przepisów szczególnych wobec art. 127 § 1 ustawy zmienianej w art. 1.
+1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 12 października 1994 r. o samorządowych kolegiach odwoławczych (Dz. U. z 2015 r. poz. 1659), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 7 kwietnia 2017 r. o zmianie ustawy Kodeks postępowania administracyjnego oraz niektórych innych ustaw (Dz. U. poz. 935) oraz zmian wynikających z przepisów ogłoszonych przed dniem 28 lutego 2018 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 15 i art. 18 ustawy z dnia 7 kwietnia 2017 r. o zmianie ustawy Kodeks postępowania administracyjnego oraz niektórych innych ustaw (Dz. U. poz.
+935), które stanowią: „Art. 15. 1. W terminie 2 lat od dnia wejścia w życie niniejszej ustawy ministrowie kierujący działami administracji rządowej dokonają, w zakresie swojej właściwości, przeglądu aktów prawnych regulujących postępowania administracyjne w zakresie dwuinstancyjności postępowań i przepisów szczególnych wobec art. 127 § 1 ustawy zmienianej w art. 1.
 2. Ministrowie, o których mowa w ust. 1, przedłożą ministrowi właściwemu do spraw gospodarki oraz ministrowi właściwemu do spraw administracji publicznej, w terminie, o którym mowa w ust. 1, zestawienia wraz z uzasadnieniem, obejmujące postępowania administracyjne, w których:
 1) zachodzi konieczność zachowania dwuinstancyjności postępowań;
 2) zasadne jest odstąpienie od dwuinstancyjności postępowań.
 3. Minister właściwy do spraw gospodarki w porozumieniu z ministrem właściwym do spraw administracji publicznej przedłoży Radzie Ministrów, w terminie 6 miesięcy od dnia wykonania obowiązku, o którym mowa w ust. 2, zbiorczy raport dotyczący dwuinstancyjności postępowań administracyjnych.” „Art. 18. Ustawa wchodzi w życie z dniem 1 czerwca 2017 r.”.
 Marszałek Sejmu: M. Kuchciński
 USTAWA z dnia 12 października 1994 r.
-o samorz ą dowych kolegiach odwoławczych
+o samorządowych kolegiach odwoławczych
 Art. 25–28. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
@@ -80,7 +80,7 @@ Art. 25–28. (pominięte)
 - **6)** badaniu prawidłowości przeprowadzonego postępowania wyjaśniającego w celu ustalenia okoliczności faktycznych i prawnych uzasadniających odwołanie prezesa kolegium;
 - **7)** badaniu prawidłowości przeprowadzonego postępowania wyjaśniającego i postępowania dyscyplinarnego w celu ustalenia okoliczności faktycznych i prawnych uzasadniających ukaranie członka kolegium.
 
-5. Organ nadzoru sprawuje nadzór nad kolegiami przy pomocy komórki organizacyjnej wła ś ciwej do spraw nadzoru lub wła ś ciwej do spraw kontroli.
+5. Organ nadzoru sprawuje nadzór nad kolegiami przy pomocy komórki organizacyjnej właściwej do spraw nadzoru lub właściwej do spraw kontroli.
 
 #### Rozdział 2 Ustrój kolegiów
 
@@ -126,9 +126,9 @@ Art. 25–28. (pominięte)
 
 3. Odwołanie prezesa kolegium z przyczyny, o której mowa w ust. 1a, następuje na wniosek ministra właściwego do spraw administracji publicznej po przeprowadzeniu, z udziałem zainteresowanego i po zasięgnięciu opinii zgromadzenia ogólnego kolegium, postępowania wyjaśniającego, w którym ustala się występowanie okoliczności wymienionych w tym przepisie.
 
-4. Decyzję o odwołaniu, wraz z uzasadnieniem, doręcza się zainteresowanemu. Na decyzję o odwołaniu zainteresowanemu słu ż y prawo wniesienia skargi do s ą du administracyjnego w terminie 14 dni od dnia jej dor ę czenia. Wniesienie skargi wstrzymuje odwołanie ze stanowiska. S ą d administracyjny wyznacza rozpraw ę w tej sprawie w terminie przypadaj ą cym w ci ą gu 30 dni od dnia przekazania odpowiedzi na skarg ę .
+4. Decyzję o odwołaniu, wraz z uzasadnieniem, doręcza się zainteresowanemu. Na decyzję o odwołaniu zainteresowanemu służy prawo wniesienia skargi do sądu administracyjnego w terminie 14 dni od dnia jej doręczenia. Wniesienie skargi wstrzymuje odwołanie ze stanowiska. Sąd administracyjny wyznacza rozprawę w tej sprawie w terminie przypadającym w ciągu 30 dni od dnia przekazania odpowiedzi na skargę.
 
-5. Do post ę powania w sprawach, o których mowa w ust. 4, stosuje si ę odpowiednio przepisy o zaskar ż aniu do s ą du decyzji administracyjnych. Przepisów art. 52 ustawy z dnia 30 sierpnia 2002 r. Prawo o post ę powaniu przed s ą dami administracyjnymi (Dz. U. z 2017 r. poz. 1369, 1370 i 2451) nie stosuje się.
+5. Do postępowania w sprawach, o których mowa w ust. 4, stosuje się odpowiednio przepisy o zaskarżaniu do sądu decyzji administracyjnych. Przepisów art. 52 ustawy z dnia 30 sierpnia 2002 r. Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2017 r. poz. 1369, 1370 i 2451) nie stosuje się.
 
 6. W razie prawomocnego odwołania prezesa kolegium, wiceprezes kolegium zwołuje niezwłocznie zgromadzenie ogólne kolegium w sprawie, o której mowa w art. 5 ust. 2. Przepisy art. 5 ust. 5 i 6 stosuje się odpowiednio.
 
@@ -179,10 +179,10 @@ Art. 25–28. (pominięte)
 
 - **1)** mandatem posła lub senatora;
 - **2)** mandatem radnego lub członkostwem w organie wykonawczym jednostki samorządu terytorialnego;
-- **3)** zatrudnieniem w urz ę dzie gminy, starostwie lub urz ę dzie marszałkowskim;
+- **3)** zatrudnieniem w urzędzie gminy, starostwie lub urzędzie marszałkowskim;
 - **4)** członkostwem w kolegium regionalnej izby obrachunkowej.
 
-2. Etatowego członkostwa kolegium nie mo ż na ł ą czy ć równie ż z zatrudnieniem na stanowisku s ę dziego, asesora s ą dowego i prokuratora oraz zatrudnieniem w tym samym województwie w administracji pa ń stwowej.
+2. Etatowego członkostwa kolegium nie można łączyć również z zatrudnieniem na stanowisku sędziego, asesora sądowego i prokuratora oraz zatrudnieniem w tym samym województwie w administracji państwowej.
 
 3. Członek kolegium może być, na jego wniosek lub za jego zgodą, przeniesiony do innego kolegium. Przeniesienie następuje na podstawie decyzji prezesa kolegium, do którego członek ten ma być przyjęty, podjętej w porozumieniu z prezesem tego kolegium, którego był członkiem.
 
@@ -278,12 +278,12 @@ Art. 25–28. (pominięte)
 
 **Art. 16c.**
 
-1. W sprawach dyscyplinarnych członków kolegiów orzekaj ą :
+1. W sprawach dyscyplinarnych członków kolegiów orzekają:
 
 - **1)** w pierwszej instancji komisja dyscyplinarna kolegium;
-- **2)** w drugiej instancji komisja dyscyplinarna przy Krajowej Reprezentacji Samorz ą dowych Kolegiów Odwoławczych.
+- **2)** w drugiej instancji komisja dyscyplinarna przy Krajowej Reprezentacji Samorządowych Kolegiów Odwoławczych.
 
-2. Komisje dyscyplinarne składaj ą si ę z trzech etatowych członków kolegiów.
+2. Komisje dyscyplinarne składają się z trzech etatowych członków kolegiów.
 
 3. Tryb wyboru etatowych członków kolegiów do komisji dyscyplinarnych określi regulamin uchwalony przez Krajową Reprezentację Samorządowych Kolegiów Odwoławczych.
 
@@ -325,11 +325,11 @@ Art. 25–28. (pominięte)
 
 2. Kolegium wydaje orzeczenia po odbyciu niejawnej narady składu orzekającego, obejmującej dyskusję oraz głosowanie nad orzeczeniem i zasadniczymi motywami rozstrzygnięcia. Sprawę przedstawia członek kolegium wyznaczony jako jej sprawozdawca.
 
-3. Orzeczenia zapadaj ą wi ę kszo ś ci ą głosów. Członek składu orzekaj ą cego nie mo ż e wstrzyma ć si ę od głosu.
+3. Orzeczenia zapadają większością głosów. Członek składu orzekającego nie może wstrzymać się od głosu.
 
-4. Członek składu orzekaj ą cego, który został przegłosowany, ma prawo zgłosi ć przy podpisywaniu orzeczenia zdanie odr ę bne, uzasadniaj ą c je na pi ś mie w terminie 7 dni od dnia odbycia narady.
+4. Członek składu orzekającego, który został przegłosowany, ma prawo zgłosić przy podpisywaniu orzeczenia zdanie odrębne, uzasadniając je na piśmie w terminie 7 dni od dnia odbycia narady.
 
-5. Orzeczenia kolegium podpisuj ą wszyscy członkowie składu nie wył ą czaj ą c przegłosowanego.
+5. Orzeczenia kolegium podpisują wszyscy członkowie składu nie wyłączając przegłosowanego.
 
 **Art. 18.**
 
@@ -376,11 +376,11 @@ Art. 25–28. (pominięte)
 
 - **1)** wymiana doświadczeń w zakresie organizacji i funkcjonowania kolegiów, a także ich działalności orzeczniczej;
 - **2)** opiniowanie projektów aktów prawnych w szczególności dotyczących kolegiów i postępowania administracyjnego;
-- **3)** okre ś lenie zasad organizacji prac zgromadzenia oraz podejmowanie uchwał w innych istotnych sprawach dotycz ą cych kolegiów.
+- **3)** określenie zasad organizacji prac zgromadzenia oraz podejmowanie uchwał w innych istotnych sprawach dotyczących kolegiów.
 
-2. Obsług ę zgromadzenia zapewnia, ka ż dorazowo, biuro kolegium, w którego siedzibie odbywa si ę posiedzenie zgromadzenia.
+2. Obsługę zgromadzenia zapewnia, każdorazowo, biuro kolegium, w którego siedzibie odbywa się posiedzenie zgromadzenia.
 
-#### Rozdział 4 Zmiany w przepisach obowi ą zuj ą cych, przepisy przej ś ciowe i ko ń cowe
+#### Rozdział 4 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
 
 **Art. 29.**
 

@@ -10,7 +10,9 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# niami statutowymi.
+# o rozwiązywaniu sporów zbiorowych
+
+*USTAWA z dnia 23 maja 1991 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,70 +26,153 @@ domain: null
 | Ostatnia zmiana | 2026-04-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19910550236) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1991/236/text.pdf) |
 
-18. Dochód gospodarczej pro wadzonej przez pracodawców oraz federacje kon federacje realizacji ich statutowych nie przeznaczony ich pracodawców, ich federacje konfederacje ze podatkowych przewidzianych dla 4 za naruszenie ustawy
-19. rejestrowy razie st,!"ierdzenia, dany organ pracodawców prowadzi wyznacza termin co najmniej 14 dni dostosowania tego organu prawa. wszczyna na wniosek prokuratora wojewódzkiego.
-W razie bezskutecznego terminu przewidzia nego 1, rejestrowy orzec indywidualnie na danego organu
-2) termin przeprowadzenia nowych wyborów organu wymienionego
-5. prawomocnym orzeczeniem re jestru jest swej a terminie trzech od uprawomoc nienia tego orzeczenia swojej likwidacji spo sób przewidziany statucie.
-6. Przepisy 1-5 stosuje odpowiednio fede racji konfederacji wymienionych wart.
-5 Przepisy
-20. Organizacje pracodawców na podstawie dotychczasowych przepisów po dostosowaniu swych statutów przepisów ustawy po przewidzianych ustawie, organizacjami pracodawców rozumieniu art. 1 2 art.
-Do czasu powstania na podstawie przepisów ustawy ogólnokrajowej reprezentacji pracodawców, nie jed nak dnia 30 1991 r., prawa interesy pracodawców polskich stosunkach reprezentuje Konfederacja Pracodawców Polskich.
-21. Ustawa wchodzi po 30 dni od dnia Prezydent Rzeczypospolitej Polskiej: L.
-236
-USTAWA dnia 23 maja 1991 r.
-sporów zbiorowych.
-1 Przepisy ogólne Spór zbiorowy pracowników pracodawcami warunków pracy, socjalnych oraz praw pracowników innych grup, którym prawo zrzeszania zawodowych.
-Prawa interesy zbiorowe pracowników wska zane wart. 1 reprezentowane przez zawodowe.
-Prawa interesy pracodawców sporach zbioro wych reprezentowane przez organizacje pracodawców. .
-3. W pracy, którym pracy organizacje kowe tak sporze zbiorowym wspó lna reprezentacja
-3. Przepis 2 stosuje odpowiednio repre zentacji interesów zbiorowych sporach wych.
-4. W imieniu pracowników pracy, którym nie zawodowy, spór zbiorowy organizacja której pracownicy zwrócili reprezentowanie ich interesów zbiorowych.
-4. Nie jest dopuszczalne prowadzenie sporu zbiorowego celu poparcia indywidualnych pracow niczych, ich jest niu przed organem spory roszczenia pra cowników.
-wnikach, odpowiednie zastosowanie osób, któ rych wart. 2 1 2 ustawy dnia 23 maja 1991 r.
-zawodowych (Dz. U. 55, poz. 234).
-2 Rokowania
-7. Spór zbiorowy istnieje od dnia przez podmiot interesy pracownicze pra codawcy sprawach wskazanych wart. 1, pracodawca nie wszystkich terminie nie krótszym 3 dni.
-W sporu przedmiot sporem. Podmiot spór razie zostanie strajk. zapowiedzianego strajku nie przed 14 dni od dnia sporu.
-8. Pracodawca podejmuje rokowa nia celu sporu drodze porozumienia, powstaniu sporu go inspektora pracy.
-9. Rokowania podpisaniem przez stro ny porozumienia, a razie porozumienia - ze wskazaniem stanowisk stron.
-3 Mediacja
-10. strona, która spór, podtrzymu je spór ten prowadzony jest przez strony osoby zwanej dalej mediatorem.
-11. Mediatora wspólnie strony sporu zbiorowego. nim osoba listy ustalonej przez Ministra Pracy Polityki Socjalnej uzgodnieniu ogólno oraz ogólnokrajo wym zawodowym reprezentatywnym dla praco wników pracy.
-strony sporu zbiorowego nie 5 dni sprawie wyboru mediatora, dalsze po jest prowadzone mediatora wskaza nego, na wniosek jednej ze stron, przez Ministra Pracy Polityki Socjalnej listy, której
-12. przebieg mediacyjnego uzasadnia nie doprowadzi ono sporu przed terminów przewidzianych wart. 7 2 art. 13 3, organizacja, która spór, jednorazowo na czas nie 2 godzi ny strajk ostrzegawczy.
-kowej wnioskiem terminu strajku na czas dokonania na wynik sporu.
-14. mediacyjne podpi saniem przez strony porozumienia, a razie porozumienia wskazaniem stanowisk stron. tych dokonuje przy udziale mediatora.
-15. porozumienia spór zbiorowy mediacyjnym uprawnia akcji strajkowej.
-16. Podmiot spór zbiorowy teresie pracowników nie prawa przewi dzianego wart. 15, sporu poddanie go kolegium nego.
-Spór rozpoznaje kolegium przy wojewódzkim, którym utworzony pracy Spór rozpoznaje Kolegium przy
-3. W kolegium wchodzi wyzna czony przez prezesa oraz wyznaczonych po trzech przez stron. Strony powinny wskazania osób nio nie zainteresowanych sprawy.
-4. Prezes wyznacza termin posiedze nia, nim strony sporu ich przedstawicie li.
-5. sporu wymaga specjalnych, kolegium opinii ekspertów.
-Przepis art. 13 2 zdanie drugie stosuje odpowiednio.
-6. Orzeczenie kolegium zapada ze stron przed poddaniem sporu kolegium nie postanowi inaczej, orzeczenie to strony.
-7. Rada M inistrów drodze tryb przed kolegiami 4 Strajk
-17. Strajk polega na zbiorowym powstrzy mywaniu pracowników od wykonywania pracy lu sporu interesów wskazanych wart.
-pod strat ze strajkiem.
-18. strajku jest dobrowolny.
-19. Niedopuszczalne jest zaprzestanie pracy wyniku akcji strajkowych na stanowiskach pracy, niach instalacjach, na zaniechanie pracy zdrowiu ludzkiemu Niedopuszczalne jest organizowanie strajku dzie Ochrony jednostkach Policji Zbrojnych Rzeczypospolitej Polskiej, Grani cznej oraz jednostkach organizacyjnych ochrony przeciw
-3. Prawo strajku nie pracownikom za trudnionym organach administracji oraz prokuraturze.
-20. Strajk organizacja zkowa po uzyskaniu zgody pracow ników, co najmniej 50% pracowników pracy.
-Strajk organ wska zany statucie po uzyskaniu zgody cych pracowników poszczególnych pracy, które strajkiem, tych co najmniej 50% pracow ników.
-3. strajku powinno co najmniej na 5 dni przed jego
-21. Kierownik pracy nie czasie strajku ograniczony ków wykonywaniu odniesieniu pracow ników nie strajku oraz zakresie zapewnienia ochrony mienia nie przerwanej pracy tych obiektów, instalacji, unieruchomienie dla zdrowia ludzkiego przywrócenia normalnej Organizatorzy strajku kierownikiem pracy zakresie zapewnienia ochrony mienia pracy nieprzerwa nej pracy obiektów, instalacji,
-22. W obronie praw interesów pracowników, którzy nie prawa strajku, zawodowy pracy.
-24. zawodowe tworzeniu wykorzystaniu funduszów strajkowych. Fundusze te nie egzekucji.
-25. W obronie praw interesów wart. 1 stosowane, po wyczerpaniu trybu po rozdziale 2, inne strajk formy akcji protestacyjnej, nie zdrowiu ludz kiemu, bez przerywania pracy, przestrzegania prawnego. Z prawa tego pracownicy nie prawa strajku.
-Rolnicy prawo akcji protestacyjnej sposób ustalony przez zawodowe rolników.
-5 za naruszenie przepisów ustawy
-26. Kto zajmowanym stanowis kiem przeszkadza we prowadzeniu sposób zgodny prawem sporu zbiorowego,
-2) nie tej ustawie - podlega karze grzywny.
-Tej samej karze podlega ten, kto kieruje strajkiem wbrew przepisom ustawY·
-3. Za szkody strajkiem prote wbrew przepisom ustawy organiza tor ponosi na zasadach Kodeksie cywilnym.
-6 Przepisy
-27. W Kodeksie pracy wart. 241 § 7 otrzymuje brzmienie: ,,§ 7. W czasie rejestracyjnego, a cza sie rozstrzygania sporu trybie § 3 4, sprawie nie stosuje przepi sów 2-4 ustawy dnia 23 maja 1991 r.
-sporów zbiorowych (Dz. U. 55, poz. 236)."
-28. Spory zbiorowe lecz nie przed dniem ustawy, prowadzi na podstawie jej przepisów.
-29. Ustawa wchodzi po 30 dni od
+#### Rozdział 1 Przepisy ogólne
+
+**Art. 1.** Spór zbiorowy pracowników z pracodawcą lub pracodawcami może dotyczyć warunków pracy, płac lub świadczeń socjalnych oraz praw i wolności związkowych pracowników lub innych grup, którym przysługuje prawo zrzeszania się związkach zawodowych.
+
+**Art. 2.**
+
+1. Prawa i interesy zbiorowe pracowników wskazane art. 1 są reprezentowane przez związki zawodowe.
+
+2. Prawa i interesy pracodawców sporach zbiorowych mogą być reprezentowane przez właściwe organizacje pracodawców.
+
+**Art. 3.**
+
+1. W zakładzie pracy, którym działa więcej niż jedna organizacja związkowa, każda z nich może reprezentować sporze zbiorowym interesy stanowiące przedmiot tego sporu.
+
+2. Jeżeli działające zakładzie pracy organizacje związkowe tak postanowią, sporze zbiorowym występuje wspólna reprezentacja związkowa.
+
+3. Przepis ust. 2 stosuje się odpowiednio do reprezentacji interesów zbiorowych sporach wielozakładowych.
+
+4. W imieniu pracowników zakładu pracy, którym nie działa związek zawodowy, spór zbiorowy może prowadzić organizacja związkowa, do której pracownicy zwrócili się o reprezentowanie ich interesów zbiorowych.
+
+2. Jeżeli spór dotyczy treści układu zbiorowego pracy lub innego porozumienia, którego stroną jest organizacja związkowa, wszczęcie i prowadzenie sporu o zmianę układu lub porozumienia może nastąpić niewcześniej niż z dniem ich wypowiedzenia.
+
+**Art. 5.** Pracodawcą rozumieniu ustawy jest podmiot, o którym mowa art. 1 pkt 2 ustawy z dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. z 2025 r. poz. 440 i 1661).
+
+**Art. 6.** Przepisy ustawy, których jest mowa o pracownikach, mają odpowiednie zastosowanie do innych niż pracownicy osób wykonujących pracę zarobkową, o których mowa art. 1 pkt 1 ustawy z dnia 23 maja 1991 r. o związkach zawodowych, oraz osób, o których mowa art. 2 ust. 5 i 6 ustawy z dnia 23 maja 1991 r. o związkach zawodowych.
+
+#### Rozdział 2 Rokowania
+
+**Art. 7.**
+
+1. Spór zbiorowy istnieje od dnia wystąpienia przez podmiot reprezentujący interesy pracownicze do pracodawcy z żądaniami sprawach wskazanych art. 1, jeżeli pracodawca nie uwzględnił wszystkich żądań terminie określonym wystąpieniu, niekrótszym niż 3 dni.
+
+2. W zgłoszeniu sporu określa się przedmiot żądań objętych sporem. Podmiot zgłaszający spór może uprzedzić, że razie nieuwzględnienia wysuniętych żądań zostanie ogłoszony strajk. Dzień zapowiedzianego strajku nie może przypadać przed upływem 14 dni od dnia zgłoszenia sporu.
+
+**Art. 8.** Pracodawca podejmuje niezwłocznie rokowania celu rozwiązania sporu drodze porozumienia, zawiadamiając równocześnie o powstaniu sporu właściwego okręgowego inspektora pracy.
+
+**Art. 9.** Rokowania kończą się podpisaniem przez strony porozumienia, a razie nieosiągnięcia porozumienia – sporządzeniem protokołu rozbieżności ze wskazaniem stanowisk stron. Informacja o porozumieniu podlega wpisowi do Krajowej Ewidencji Układów Zbiorowych Pracy na zasadach określonych ustawie z dnia 5 listopada 2025 r. o układach zbiorowych pracy i porozumieniach zbiorowych (Dz. U. poz.
+
+**Art. 11.**
+
+1. Mediatora ustalają wspólnie strony sporu zbiorowego. Mediatorem może być osoba z listy ustalonej przez ministra właściwego do spraw pracy uzgodnieniu z organizacjami związkowymi oraz organizacjami pracodawców, reprezentatywnymi rozumieniu ustawy z dnia 24 lipca 2015 r. o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego (Dz. U. z 2018 r. poz. 2232, z późn. zm. ).
+
+1. Wpis na listę, o której mowa ust. 1, obejmuje co najmniej:
+
+- **1)** imię (imiona) i nazwisko;
+- **2)** dane kontaktowe wskazane przez osobę ubiegającą się o wpis na listę.
+
+1. Przetwarzanie danych osobowych innych niż wymienione ust. 1 jest dopuszczalne za zgodą osoby ubiegającej się o uzyskanie wpisu na listę, o której mowa ust. 1.
+
+2. Jeżeli strony sporu zbiorowego nie porozumieją się ciągu 5 dni sprawie wyboru mediatora, dalsze postępowanie jest prowadzone z udziałem mediatora wskazanego, na wniosek jednej ze stron, przez ministra właściwego do spraw pracy z listy, o której mowa ust. 1.
+
+3. Minister właściwy do spraw pracy określi, drodze rozporządzenia, warunki wynagradzania mediatorów z listy, o której mowa ust. 1, uwzględniając czas trwania mediacji. Art. 11 [1] . 1. Mediatorom na czas prowadzenia mediacji przysługuje zwolnienie od pracy. Łączny wymiar tego zwolnienia roku kalendarzowym nie może przekraczać 30 dni.
+
+2. Wynagrodzenie należne mediatorowi oraz zwrot poniesionych kosztów przejazdu i zakwaterowania określa umowa zawarta przez mediatora ze stronami sporu zbiorowego. sporu zbiorowego równych częściach, chyba że uzgodnią inny ich podział.
+
+5. W razie udokumentowanego braku środków na pokrycie kosztów, o których mowa ust. 2 i 4, na wniosek strony sporu zbiorowego, minister właściwy do spraw pracy pokrywa koszty mediacji, z tym że wynagrodzenie mediatora jest pokrywane do wysokości określonej rozporządzeniu, o którym mowa art. 11 ust. 3.
+
+**Art. 12.** Jeżeli przebieg postępowania mediacyjnego uzasadnia ocenę, że nie doprowadzi ono do rozwiązania sporu przed upływem terminów przewidzianych art. 7 ust. 2 i art. 13 ust. 3, organizacja, która wszczęła spór, może zorganizować jednorazowo i na czas niedłuższy niż 2 godziny strajk ostrzegawczy.
+
+**Art. 13.**
+
+1. Jeżeli toku postępowania mediator stwierdzi, że rozwiązanie sporu zbiorowego wymaga szczegółowych lub dodatkowych ustaleń związanych z przedmiotem sporu, zawiadamia o tym strony.
+
+2. Jeżeli związku z żądaniem objętym sporem jest konieczne ustalenie sytuacji ekonomiczno-finansowej zakładu pracy, mediator może zaproponować przeprowadzenie tej sprawie ekspertyzy. Jeżeli strony nie postanowią inaczej, koszty ekspertyzy obciążają zakład pracy.
+
+3. Podjęcie czynności, o których mowa ust. 1 i 2, upoważnia mediatora do wystąpienia do organizacji związkowej z wnioskiem o przesunięcie terminu rozpoczęcia strajku na czas niezbędny do dokonania ustaleń mogących mieć wpływ na wynik rozstrzygnięcia sporu.
+
+**Art. 14.** Postępowanie mediacyjne kończy się podpisaniem przez strony porozumienia, a razie nieosiągnięcia porozumienia – sporządzeniem protokołu rozbieżności ze wskazaniem stanowisk stron. Czynności tych dokonuje się przy udziale mediatora. Informacja o porozumieniu podlega wpisowi do Krajowej Ewidencji Układów Zbiorowych Pracy na zasadach określonych ustawie z dnia 5 listopada 2025 r. o układach zbiorowych pracy i porozumieniach zbiorowych.
+
+**Art. 15.** Nieosiągnięcie porozumienia rozwiązującego spór zbiorowy postępowaniu mediacyjnym uprawnia do podjęcia akcji strajkowej.
+
+**Art. 16.**
+
+1. Podmiot prowadzący spór zbiorowy interesie pracowników może, nie korzystając z prawa przewidzianego art. 15, podjąć próbę rozwiązania sporu przez poddanie go rozstrzygnięciu kolegium arbitrażu społecznego. Najwyższym.
+
+3. W skład kolegium wchodzi przewodniczący wyznaczony spośród sędziów sądu przez prezesa sądu oraz sześciu członków wyznaczonych po trzech członków przez każdą ze stron. Strony powinny dążyć do wskazania osób bezpośrednio niezainteresowanych rozstrzygnięciem sprawy.
+
+4. Prezes sądu wyznacza niezwłocznie termin posiedzenia, zawiadamiając o nim strony sporu lub ich przedstawicieli.
+
+5. Jeżeli rozstrzygnięcie sporu wymaga wiadomości specjalnych, kolegium może zasięgnąć opinii ekspertów. Przepis art. 13 ust. 2 zdanie drugie stosuje się odpowiednio.
+
+6. Orzeczenie kolegium zapada większością głosów. Jeżeli żadna ze stron przed poddaniem sporu rozstrzygnięciu kolegium nie postanowi inaczej, orzeczenie to wiąże strony.
+
+7. Rada Ministrów określi drodze rozporządzenia szczegółowy tryb postępowania przed kolegiami arbitrażu społecznego.
+
+#### Rozdział 4 Strajk
+
+**Art. 17.**
+
+1. Strajk polega na zbiorowym powstrzymywaniu się pracowników od wykonywania pracy celu rozwiązania sporu dotyczącego interesów wskazanych art. 1.
+
+2. Strajk jest środkiem ostatecznym i nie może być ogłoszony bez uprzedniego wyczerpania możliwości rozwiązania sporu według zasad określonych art. 7–14. Strajk może być zorganizowany bez zachowania tych zasad, jeżeli bezprawne działanie pracodawcy uniemożliwiło przeprowadzenie rokowań lub mediacji, a także wypadku, gdy pracodawca rozwiązał stosunek pracy z prowadzącym spór działaczem związkowym.
+
+**Art. 18.** Udział strajku jest dobrowolny.
+
+**Art. 19.**
+
+1. Niedopuszczalne jest zaprzestanie pracy wyniku akcji strajkowych na stanowiskach pracy, urządzeniach i instalacjach, na których zaniechanie pracy zagraża życiu i zdrowiu ludzkiemu lub bezpieczeństwu państwa.
+
+2. Niedopuszczalne jest organizowanie strajku Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego, Centralnym Biurze Antykorupcyjnym, Służbie Ochrony Państwa, jednostkach Policji i Sił Zbrojnych Rzeczypospolitej Polskiej, Służby Więziennej, Straży Granicznej, Straży Marszałkowskiej, Krajowej Administracji Skarbowej, których pełnią służbę funkcjonariusze Służby Celno-Skarbowej, oraz jednostkach organizacyjnych ochrony przeciwpożarowej.
+
+3. Prawo do strajku nie przysługuje pracownikom zatrudnionym organach władzy państwowej, administracji rządowej i samorządowej, sądach oraz prokuraturze.
+
+**Art. 20.**
+
+1. Strajk zakładowy ogłasza organizacja związkowa po uzyskaniu zgody większości głosujących pracowników, jeżeli głosowaniu wzięło udział co najmniej 50 % pracowników zakładu pracy.
+
+2. Strajk wielozakładowy ogłasza organ związku wskazany statucie po uzyskaniu zgody większości głosujących pracowników poszczególnych zakładach pracy, które mają być objęte strajkiem, jeżeli głosowaniu każdym z tych zakładów wzięło udział co najmniej 50 % pracowników.
+
+3. Ogłoszenie strajku powinno nastąpić co najmniej na 5 dni przed jego rozpoczęciem.
+
+**Art. 21.**
+
+1. Kierownik zakładu pracy nie może być czasie strajku ograniczony pełnieniu obowiązków i wykonywaniu uprawnień odniesieniu do pracowników niebiorących udziału strajku oraz zakresie niezbędnym do zapewnienia ochrony mienia zakładu i nieprzerwanej pracy tych obiektów, urządzeń i instalacji, których unieruchomienie może stanowić zagrożenie dla życia lub zdrowia ludzkiego lub przywrócenia normalnej działalności zakładu.
+
+**Art. 22.** W obronie praw i interesów pracowników, którzy nie mają prawa do strajku, związek zawodowy działający innym zakładzie pracy może zorganizować strajk solidarnościowy na czas niedłuższy niż połowa dnia roboczego. Przepisy art. 17–21 stosuje się odpowiednio.
+
+**Art. 23.**
+
+1. Udział pracownika strajku zorganizowanym zgodnie z przepisami ustawy nie stanowi naruszenia obowiązków pracowniczych.
+
+2. W okresie strajku zorganizowanego zgodnie z przepisami ustawy pracownik zachowuje prawo do świadczeń z ubezpieczenia społecznego oraz uprawnień ze stosunku pracy, z wyjątkiem prawa do wynagrodzenia. Okres przerwy wykonywaniu pracy wlicza się do okresu zatrudnienia zakładzie pracy.
+
+**Art. 24.** Związki zawodowe decydują o tworzeniu i wykorzystaniu funduszów strajkowych. Fundusze te nie podlegają egzekucji.
+
+**Art. 25.**
+
+1. W obronie praw i interesów określonych art. 1 mogą być stosowane, po wyczerpaniu trybu postępowania określonego rozdziale 2, inne niż strajk formy akcji protestacyjnej, niezagrażające życiu lub zdrowiu ludzkiemu, bez przerywania pracy, z zastrzeżeniem przestrzegania obowiązującego porządku prawnego. Z prawa tego mogą korzystać także pracownicy niemający prawa do strajku.
+
+2. Rolnicy mają prawo do akcji protestacyjnej sposób ustalony przez związki zawodowe rolników.
+
+#### Rozdział 5 Odpowiedzialność za naruszenie przepisów ustawy
+
+**Art. 26.**
+
+1. Kto związku z zajmowanym stanowiskiem lub pełnioną funkcją:
+
+- **1)** przeszkadza we wszczęciu lub prowadzeniu sposób zgodny z prawem sporu zbiorowego,
+- **2)** nie dopełnia obowiązków określonych tej ustawie – podlega grzywnie albo karze ograniczenia wolności.
+
+2. Tej samej karze podlega ten, kto kieruje strajkiem lub inną akcją protestacyjną zorganizowaną wbrew przepisom ustawy.
+
+#### Rozdział 6 Przepisy przejściowe i końcowe
+
+**Art. 27.** (pominięty)
+
+**Art. 28.** Spory zbiorowe wszczęte, lecz niezakończone przed dniem wejścia życie ustawy, prowadzi się na podstawie jej przepisów.
+
+**Art. 29.** Ustawa wchodzi życie po upływie 30 dni od dnia ogłoszenia .
 

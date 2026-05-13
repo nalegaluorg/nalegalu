@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 2 maja 2025 r.
+# o samorządzie województwa
+
+*USTAWA z dnia 5 czerwca 1998 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,17 +25,6 @@ domain: null
 | Data wydania | 2025-05-02 |
 | Ostatnia zmiana | 2026-04-08 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000581) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/581/text.pdf) |
-
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 24 marca 2025 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o samorządzie województwa
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 5 czerwca 1998 r. o samorządzie województwa (Dz. U. z 2024 r. poz. 566), z uwzględnieniem zmian wprowadzonych:
-1) ustawą z dnia 27 listopada 2024 r. o zmianie ustawy Prawo ochrony środowiska oraz niektórych innych ustaw (Dz. U.
-poz. 1940),
-2) ustawą z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U. poz. 1907) oraz zmian wynikających z przepisów ogłoszonych przed dniem 19 marca 2025 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 28 ust. 2 i art. 34 ustawy z dnia 27 listopada 2024 r. o zmianie ustawy Prawo ochrony środowiska oraz niektórych innych ustaw (Dz. U. poz. 1940), które stanowią:
-
-**Art. 28.** „2. Do spraw dotyczących opracowania i uchwalania strategii rozwoju gminy, strategii rozwoju ponadlokalnego, strategii rozwoju województwa i strategii rozwoju związku metropolitalnego, o których mowa w przepisach ustaw zmienianych w art. 2, art. 3, art. 9 i art. 14, albo zmian tych strategii, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.” „Art. 34. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 4 w zakresie art. 18b ust. 2, który wchodzi w życie z dniem 1 lipca 2025 r.”;
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -107,13 +98,15 @@ poz. 1940),
 
 1. Województwa mogą tworzyć stowarzyszenia, w tym również z gminami i powiatami.
 
-2. Do stowarzyszeń, o których mowa w ust. 1, stosuje się odpowiednio przepisy ustawy z dnia 7 kwietnia 1989 r. Prawo o stowarzyszeniach (Dz. U. z 2020 r. poz. 2261), z tym że dla założenia stowarzyszenia wymaganych jest co najmniej 3 założycieli.
+2. Do stowarzyszeń, o których mowa w ust. 1, stosuje się odpowiednio przepisy ustawy z dnia 7 kwietnia 1989 r. – Prawo o stowarzyszeniach (Dz. U. z 2020 r. poz.
+
+- **2261)** , z tym że dla założenia stowarzyszenia wymaganych jest co najmniej 3 założycieli.
 
 **Art. 8c.** Województwo może zapewnić wspólną obsługę, w szczególności administracyjną, finansową i organizacyjną:
 
 **Art. 8d.**
 
-1. Wspólną obsługę mogą prowadzić urząd marszałkowski albo inna wojewódzka samorządowa jednostka organizacyjna, zwane dalej „jednostkami obsługującymi”.
+1. Wspólną obsługę mogą prowadzić urząd marszałkowski, inna wojewódzka samorządowa jednostka organizacyjna albo spółka, o której mowa w art. 9 ust. 1 ustawy z dnia 20 grudnia 1996 r. o gospodarce komunalnej, w tym spółka prawa handlowego powołana w celu prowadzenia wspólnej obsługi, zwane dalej „jednostkami obsługującymi”.
 
 2. Sejmik województwa w odniesieniu do jednostek obsługiwanych, o których mowa w art. 8c pkt 1, określa, w drodze uchwały, w szczególności:
 
@@ -190,7 +183,7 @@ poz. 1940),
 
 10. Sejmik województwa, tworząc młodzieżowy sejmik województwa, nadaje mu statut określający w szczególności zasady działania młodzieżowego sejmiku województwa, tryb i kryteria wyboru jego członków oraz zasady wygaśnięcia mandatu i odwołania członka młodzieżowego sejmiku województwa. Podmioty, o których mowa w ust. 2 pkt 1 i 2, mogą przedstawiać opinie w zakresie projektu statutu.
 
-11. Członkowi młodzieżowego sejmiku województwa biorącemu udział w posiedzeniach młodzieżowego sejmiku województwa lub w zorganizowanym wydarzeniu, na którym reprezentuje on młodzieżowy sejmik województwa, a w przypadku niepełnoletniego członka młodzieżowego sejmiku województwa także jego rodzicowi lub opiekunowi prawnemu, zwraca się, na jego wniosek, koszty przejazdu na terenie kraju związane z udziałem w posiedzeniu młodzieżowego sejmiku województwa lub w zorganizowanym wydarzeniu, na którym reprezentuje on młodzieżowy sejmik województwa, na podstawie dokumentów, w szczególności rachunków, faktur lub biletów, potwierdzających poniesione wydatki lub informacji o wysokości poniesionych kosztów przejazdu samochodem. Szczegółowe zasady zwrotu kosztów oraz zasady delegowania przedstawicieli młodzieżowego sejmiku województwa na zorganizowane wydarzenia, na których reprezentują oni młodzieżowy sejmik województwa, reguluje statut młodzieżowego sejmiku województwa.
+11. Członkowi młodzieżowego sejmiku województwa biorącemu udział w posiedzeniach młodzieżowego sejmiku województwa lub w zorganizowanym wydarzeniu, na którym reprezentuje on młodzieżowy sejmik województwa, a w przypadku niepełnoletniego członka młodzieżowego sejmiku województwa – także jego rodzicowi lub opiekunowi prawnemu, zwraca się, na jego wniosek, koszty przejazdu na terenie kraju związane z udziałem w posiedzeniu młodzieżowego sejmiku województwa lub w zorganizowanym wydarzeniu, na którym reprezentuje on młodzieżowy sejmik województwa, na podstawie dokumentów, w szczególności rachunków, faktur lub biletów, potwierdzających poniesione wydatki lub informacji o wysokości poniesionych kosztów przejazdu samochodem. Szczegółowe zasady zwrotu kosztów oraz zasady delegowania przedstawicieli młodzieżowego sejmiku województwa na zorganizowane wydarzenia, na których reprezentują oni młodzieżowy sejmik województwa, reguluje statut młodzieżowego sejmiku województwa.
 
 12. Młodzieżowy sejmik województwa może posiadać opiekuna.
 
@@ -208,8 +201,8 @@ poz. 1940),
 
 3. Sejmik województwa tworzy wojewódzką radę seniorów na wniosek:
 
-- **1)** w województwie do 2 000 000 mieszkańców co najmniej 500 mieszkańców tego województwa, którzy ukończyli 60 lat;
-- **2)** w województwie powyżej 2 000 000 mieszkańców co najmniej 800 mieszkańców tego województwa, którzy ukończyli 60 lat.
+- **1)** w województwie do 2 000 000 mieszkańców – co najmniej 500 mieszkańców tego województwa, którzy ukończyli 60 lat;
+- **2)** w województwie powyżej 2 000 000 mieszkańców – co najmniej 800 mieszkańców tego województwa, którzy ukończyli 60 lat.
 
 4. Wniosek, o którym mowa w ust. 2, jest rozpatrywany przez sejmik województwa w terminie nie dłuższym niż 3 miesiące od dnia jego złożenia.
 
@@ -230,13 +223,13 @@ poz. 1940),
 - **1)** tryb i kryteria wyboru jej członków,
 - **2)** zasady i tryb jej działania,
 - **3)** długość jej kadencji, z tym że kadencja nie może trwać dłużej niż kadencja sejmiku województwa, na terenie którego funkcjonuje ta rada,
-- **4)** zasady wygaśnięcia mandatu i odwołania jej członków dążąc do wykorzystania potencjału podmiotów działających na rzecz osób starszych, a także zapewnienia sprawnego sposobu wyboru członków wojewódzkiej rady seniorów.
+- **4)** zasady wygaśnięcia mandatu i odwołania jej członków – dążąc do wykorzystania potencjału podmiotów działających na rzecz osób starszych, a także zapewnienia sprawnego sposobu wyboru członków wojewódzkiej rady seniorów.
 
 12. Jeżeli sejmik województwa zadecydował o zwracaniu kosztów, o których mowa w ust. 10, w statucie, o którym mowa w ust. 11, określa się zasady zwrotu tych kosztów, w tym ich maksymalną wysokość podlegającą zwrotowi.
 
 13. Podmioty, o których mowa w ust. 2 lub 3, mogą przedstawiać opinie w zakresie projektu statutu, o którym mowa w ust. 11.
 
-14. Obsługę administracyjno-biurową wojewódzkiej rady seniorów zapewnia urząd marszałkowski. Koszty obsługi wojewódzkiej rady seniorów pokrywa urząd marszałkowski.
+14. Obsługę administracyjno-biurową wojewódzkiej rady seniorów zapewnia urząd marszałkowski. Koszty obsługi wojewódzkiej rady seniorów pokrywa urząd marszałkowski. <Art. 10d. Województwo planuje, koordynuje, monitoruje i ewaluuje działania na rzecz rozwoju umiejętności mieszkańców województwa i promowania idei uczenia się przez całe życie, w tym kształcenia i szkolenia zawodowego. Realizacja tych zadań jest wspierana przez wojewódzki zespół koordynacji do spraw polityki umiejętności, o którym mowa w ustawie z dnia 27 lutego 2026 r. o wojewódzkich zespołach koordynacji do spraw polityki umiejętności (Dz. U. poz. 451).>
 
 #### Rozdział 2 Zakres działalności
 
@@ -248,9 +241,7 @@ poz. 1940),
 - **2)** pobudzanie aktywności gospodarczej;
 - **3)** podnoszenie poziomu konkurencyjności i innowacyjności gospodarki województwa;
 - **4)** zachowanie wartości środowiska kulturowego i przyrodniczego przy uwzględnieniu potrzeb przyszłych pokoleń;
-- **5)** kształtowanie i utrzymanie ładu przestrzennego.
-
-1a. (uchylony) 1aa. Strategia rozwoju województwa jest spójna ze średniookresową strategią rozwoju kraju i krajową strategią rozwoju regionalnego, o której mowa w art. 14a ust. 1 pkt 1 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2025 r. poz. 198).
+- **5)** kształtowanie i utrzymanie ładu przestrzennego; <6) rozwój umiejętności mieszkańców i promowanie idei uczenia się przez całe życie.> 1a. (uchylony) 1aa. Strategia rozwoju województwa jest spójna ze średniookresową strategią rozwoju kraju i krajową strategią rozwoju regionalnego, o której mowa w art. 14a ust. 1 pkt 1 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2025 r. poz. 198).
 
 1b. W strategii rozwoju województwa wydziela się okres niewykraczający poza okres objęty aktualnie obowiązującą średniookresową strategią rozwoju kraju.
 
@@ -272,10 +263,9 @@ poz. 1940),
 
 - **1)** tworzenie warunków rozwoju gospodarczego, w tym kreowanie rynku pracy;
 - **2)** utrzymanie i rozbudowa infrastruktury społecznej i technicznej o znaczeniu wojewódzkim;
-- **3)** pozyskiwanie i łączenie środków finansowych: publicznych i prywatnych, w celu realizacji zadań z zakresu użyteczności publicznej;
-- **4)** wspieranie i prowadzenie działań na rzecz podnoszenia poziomu wykształcenia obywateli;
+- **3)** pozyskiwanie i łączenie środków finansowych: publicznych i prywatnych, w celu realizacji zadań z zakresu użyteczności publicznej; [4) wspieranie i prowadzenie działań na rzecz podnoszenia poziomu wykształcenia obywateli;] <4) wspieranie i prowadzenie działań na rzecz podnoszenia poziomu wykształcenia oraz rozwoju umiejętności mieszkańców;>
 - **5)** racjonalne korzystanie z zasobów przyrody oraz kształtowanie środowiska naturalnego, zgodnie z zasadą zrównoważonego rozwoju;
-- **5a)** tworzenie warunków do prowadzenia działań na rzecz ochrony klimatu oraz wdrażania działań adaptacyjnych do zmian klimatu, o których mowa w art. 18a ust. 5 pkt 5 lit. b ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (Dz. U. z 2024 r. poz. 54, z późn. zm. );
+- **5a)** tworzenie warunków do prowadzenia działań na rzecz ochrony klimatu oraz wdrażania działań adaptacyjnych do zmian klimatu, o których mowa w art. 18a ust. 5 pkt 5 lit. b ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2024 r. poz. 54, z późn. zm. );
 - **6)** wspieranie rozwoju nauki i współpracy między sferą nauki i gospodarki, popieranie postępu technologicznego oraz innowacji;
 - **7)** wspieranie rozwoju kultury oraz sprawowanie opieki nad dziedzictwem kulturowym i jego racjonalne wykorzystywanie;
 - **8)** promocja walorów i możliwości rozwojowych województwa;
@@ -538,7 +528,7 @@ poz. 1940),
 
 1. Radni nie mogą prowadzić działalności gospodarczej na własny rachunek lub wspólnie z innymi osobami z wykorzystaniem mienia województwa, w którym radny uzyskał mandat, a także zarządzać taką działalnością lub być przedstawicielem czy pełnomocnikiem w prowadzeniu takiej działalności.
 
-2. Jeżeli radny, przed rozpoczęciem wykonywania mandatu, prowadził działalność gospodarczą, o której mowa w ust. 1, jest obowiązany do zaprzestania prowadzenia tej działalności gospodarczej w ciągu 3 miesięcy od dnia złożenia ślubowania. Niewypełnienie obowiązku, o którym mowa w zdaniu pierwszym, stanowi podstawę do stwierdzenia wygaśnięcia mandatu radnego w trybie art. 383 ustawy z dnia 5 stycznia 2011 r. Kodeks wyborczy (Dz. U. z 2023 r. poz. 2408 oraz z 2024 r. poz. 721, 1572 i 1907).
+2. Jeżeli radny, przed rozpoczęciem wykonywania mandatu, prowadził działalność gospodarczą, o której mowa w ust. 1, jest obowiązany do zaprzestania prowadzenia tej działalności gospodarczej w ciągu 3 miesięcy od dnia złożenia ślubowania. Niewypełnienie obowiązku, o którym mowa w zdaniu pierwszym, stanowi podstawę do stwierdzenia wygaśnięcia mandatu radnego w trybie art. 383 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. z 2023 r. poz. 2408 oraz z 2024 r. poz. 721, 1572 i 1907).
 
 3. Radni i ich małżonkowie oraz małżonkowie członków zarządu województwa, skarbników województwa, sekretarzy województwa, kierowników wojewódzkich samorządowych jednostek organizacyjnych oraz osób zarządzających i członków organów zarządzających wojewódzkimi osobami prawnymi nie mogą być członkami władz zarządzających lub kontrolnych i rewizyjnych ani pełnomocnikami spółek handlowych z udziałem wojewódzkich osób prawnych lub przedsiębiorców, w których uczestniczą takie osoby. Wybór lub powołanie tych osób na te funkcje są z mocy prawa nieważne.
 
@@ -559,9 +549,9 @@ poz. 1940),
 
 3. Oświadczenie majątkowe wraz z kopią swojego zeznania o wysokości osiągniętego dochodu w roku podatkowym (PIT) za rok poprzedni i jego korektą składają w dwóch egzemplarzach:
 
-- **1)** radny przewodniczącemu sejmiku województwa;
-- **2)** marszałek województwa, przewodniczący sejmiku województwa wojewodzie;
-- **3)** wicemarszałek województwa, członek zarządu województwa, sekretarz województwa, skarbnik województwa, kierownik wojewódzkiej samorządowej jednostki organizacyjnej, osoba zarządzająca i członek organu zarządzającego wojewódzką osobą prawną oraz osoba wydająca decyzje administracyjne w imieniu marszałka województwa marszałkowi województwa.
+- **1)** radny – przewodniczącemu sejmiku województwa;
+- **2)** marszałek województwa, przewodniczący sejmiku województwa – wojewodzie;
+- **3)** wicemarszałek województwa, członek zarządu województwa, sekretarz województwa, skarbnik województwa, kierownik wojewódzkiej samorządowej jednostki organizacyjnej, osoba zarządzająca i członek organu zarządzającego wojewódzką osobą prawną oraz osoba wydająca decyzje administracyjne w imieniu marszałka województwa – marszałkowi województwa.
 
 4. Radny składa pierwsze oświadczenie majątkowe w terminie 30 dni od dnia złożenia ślubowania. Do pierwszego oświadczenia majątkowego radny jest obowiązany dołączyć informację o sposobie i terminie zaprzestania prowadzenia działalności gospodarczej z wykorzystaniem mienia województwa, w którym uzyskał mandat, jeżeli taką działalność prowadził przed dniem wyboru. Kolejne oświadczenia majątkowe są składane przez radnego co roku do dnia 30 kwietnia, według stanu na dzień 31 grudnia roku poprzedniego, oraz na 2 miesiące przed upływem kadencji.
 
@@ -603,8 +593,8 @@ poz. 1940),
 
 1. Niezłożenie oświadczenia majątkowego mimo upływu dodatkowego terminu, o którym mowa w art. 27c ust. 5a przez:
 
-- **1)** radnego powoduje wygaśnięcie mandatu w trybie art. 383 ustawy, o której mowa w art. 27b ust. 2;
-- **2)** członka zarządu województwa, skarbnika województwa, sekretarza województwa, kierownika wojewódzkiej samorządowej jednostki organizacyjnej, osobę zarządzającą i członka organu zarządzającego wojewódzką osobą prawną oraz osobę wydającą decyzje administracyjne w imieniu marszałka województwa powoduje utratę ich wynagrodzenia za okres od dnia, w którym powinno być złożone oświadczenie, do dnia złożenia oświadczenia.
+- **1)** radnego – powoduje wygaśnięcie mandatu w trybie art. 383 ustawy, o której mowa w art. 27b ust. 2;
+- **2)** członka zarządu województwa, skarbnika województwa, sekretarza województwa, kierownika wojewódzkiej samorządowej jednostki organizacyjnej, osobę zarządzającą i członka organu zarządzającego wojewódzką osobą prawną oraz osobę wydającą decyzje administracyjne w imieniu marszałka województwa – powoduje utratę ich wynagrodzenia za okres od dnia, w którym powinno być złożone oświadczenie, do dnia złożenia oświadczenia.
 
 2. Jeżeli członek zarządu województwa lub skarbnik województwa, nie złożą w terminie oświadczenia majątkowego, sejmik województwa odwołuje ich, w drodze uchwały, najpóźniej po upływie 30 dni od dnia, w którym upłynął termin do złożenia oświadczenia.
 
@@ -698,7 +688,7 @@ poz. 1940),
 
 6. W przypadku określonym w ust. 5 nie przeprowadza się wyborów przedterminowych. Do dnia wyboru sejmiku województwa na kolejną kadencję oraz wyboru zarządu województwa zadania i kompetencje organów samorządu województwa przejmuje komisarz rządowy ustanowiony przez Prezesa Rady Ministrów na wniosek ministra właściwego do spraw administracji publicznej.
 
-7. Organy województwa ulegają rozwiązaniu z mocy prawa również w przypadkach określonych w art. 390 § 1 pkt 3 oraz § 5 ustawy z dnia 5 stycznia 2011 r. Kodeks wyborczy.
+7. Organy województwa ulegają rozwiązaniu z mocy prawa również w przypadkach określonych w art. 390 § 1 pkt 3 oraz § 5 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy.
 
 8. W przypadku zmian w podziale terytorialnym państwa, których skutki określa art. 390 § 5 oraz § 8 ustawy, o której mowa w ust. 7, stosuje się odpowiednio przepisy ust. 2–6 z uwzględnieniem zasady, że osobę, która w tym okresie pełni funkcję organów województwa, wyznacza się dla każdego z województw powstałych w wyniku zmian w podziale terytorialnym państwa.
 
@@ -730,8 +720,8 @@ poz. 1940),
 
 7. Mieszkaniec, który chciałby zabrać głos w trybie określonym w ust. 6, składa do przewodniczącego sejmiku pisemne zgłoszenie, poparte podpisami:
 
-- **a)** w województwie do 2 000 000 mieszkańców co najmniej 500 osób,
-- **b)** w województwie powyżej 2 000 000 mieszkańców co najmniej 1000 osób.
+- **a)** w województwie do 2 000 000 mieszkańców – co najmniej 500 osób,
+- **b)** w województwie powyżej 2 000 000 mieszkańców – co najmniej 1000 osób.
 
 8. Zgłoszenie składa się najpóźniej w dniu poprzedzającym dzień, na który zwołana została sesja, podczas której ma być przedstawiany raport o stanie województwa. Mieszkańcy są dopuszczani do głosu według kolejności otrzymania przez przewodniczącego sejmiku zgłoszenia. Liczba mieszkańców mogących zabrać głos w debacie wynosi 15, chyba że sejmik postanowi o zwiększeniu tej liczby.
 
@@ -830,7 +820,7 @@ poz. 1940),
 
 2a. Decyzje wydane przez zarząd województwa w sprawach z zakresu administracji publicznej podpisuje marszałek. W decyzji wymienia się imiona i nazwiska członków zarządu, którzy brali udział w wydaniu decyzji.
 
-3. Od decyzji, o których mowa w ust. 1, służy odwołanie do samorządowego kolegium odwoławczego, a w sprawach powierzonych na podstawie porozumienia z wojewodą do właściwego ministra.
+3. Od decyzji, o których mowa w ust. 1, służy odwołanie do samorządowego kolegium odwoławczego, a w sprawach powierzonych na podstawie porozumienia z wojewodą – do właściwego ministra.
 
 4. (uchylony)
 
@@ -905,7 +895,7 @@ poz. 1940),
 1. Wojewódzkie osoby prawne samodzielnie decydują, w granicach ustaw, o sposobie wykonywania należących do nich praw majątkowych, z tym że nieodpłatne rozporządzenie mieniem oraz zbycie:
 
 - **1)** nieruchomości służącej do powszechnego użytku lub bezpośredniego zaspokajania potrzeb publicznych,
-- **2)** przedmiotów posiadających szczególną wartość naukową, historyczną, kulturalną lub przyrodniczą wymaga zgody, w formie uchwały, zarządu województwa.
+- **2)** przedmiotów posiadających szczególną wartość naukową, historyczną, kulturalną lub przyrodniczą – wymaga zgody, w formie uchwały, zarządu województwa.
 
 2. Zgody zarządu województwa wymaga także zmiana przeznaczenia składników mienia określonego w ust. 1 pkt 1 i 2.
 
@@ -1034,7 +1024,7 @@ poz. 1940),
 
 **Art. 78.**
 
-1. Nadzór nad działalnością samorządu województwa sprawuje Prezes Rady Ministrów i wojewoda, a w zakresie spraw finansowych regionalna izba obrachunkowa.
+1. Nadzór nad działalnością samorządu województwa sprawuje Prezes Rady Ministrów i wojewoda, a w zakresie spraw finansowych – regionalna izba obrachunkowa.
 
 2. Organy nadzoru mogą wkraczać w działalność województwa tylko w przypadkach określonych ustawami.
 
@@ -1096,7 +1086,7 @@ poz. 1940),
 
 1. W razie powtarzającego się naruszenia przez sejmik województwa Konstytucji lub ustaw, Sejm, na wniosek Prezesa Rady Ministrów, może w drodze uchwały rozwiązać sejmik województwa. Rozwiązanie sejmiku województwa równoznaczne jest z rozwiązaniem wszystkich organów samorządu województwa. Prezes Rady Ministrów na wniosek ministra właściwego do spraw administracji publicznej wyznacza wówczas osobę, która do czasu wyborów nowych organów samorządu województwa pełni funkcję tych organów.
 
-2. Jeżeli powtarzającego się naruszenia Konstytucji lub ustaw dopuszcza się zarząd województwa, wojewoda wzywa sejmik województwa do zastosowania niezbędnych środków, a jeżeli wezwanie to nie odnosi skutku za pośrednictwem ministra właściwego do spraw administracji publicznej występuje z wnioskiem do Prezesa Rady Ministrów o rozwiązanie zarządu województwa. W razie rozwiązania zarządu, do czasu wyboru nowego zarządu, funkcje zarządu pełni osoba wyznaczona przez Prezesa Rady Ministrów.
+2. Jeżeli powtarzającego się naruszenia Konstytucji lub ustaw dopuszcza się zarząd województwa, wojewoda wzywa sejmik województwa do zastosowania niezbędnych środków, a jeżeli wezwanie to nie odnosi skutku – za pośrednictwem ministra właściwego do spraw administracji publicznej – występuje z wnioskiem do Prezesa Rady Ministrów o rozwiązanie zarządu województwa. W razie rozwiązania zarządu, do czasu wyboru nowego zarządu, funkcje zarządu pełni osoba wyznaczona przez Prezesa Rady Ministrów.
 
 **Art. 85.**
 

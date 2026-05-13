@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# Poz. 301
+# o funduszu sołeckim
 
 | Pole | Wartość |
 |---|---|
@@ -24,95 +24,130 @@ domain: null
 | Ostatnia zmiana | 2026-02-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000301) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/301/text.pdf) |
 
-USTAWA 21 lutego 2014 funduszu sołeckim
-
-**Art. 1.** Ustawa reguluje zasady tworzenia funduszu sołeckiego, zwanego dalej „funduszem” zasady zwrotu części wydatków wykonanych ramach funduszu.
+**Art. 1.** Ustawa reguluje zasady tworzenia funduszu sołeckiego, zwanego dalej „funduszem” oraz zasady zwrotu części wydatków wykonanych ramach funduszu.
 
 **Art. 2.**
 
-1. Rada gminy rozstrzyga wyodrębnieniu budżecie gminy środków stanowiących fundusz, podejmując uchwałę, wyraża zgodę albo nie wyraża zgody na wyodrębnienie funduszu.
+1. Rada gminy rozstrzyga o wyodrębnieniu budżecie gminy środków stanowiących fundusz, podejmując uchwałę, której wyraża zgodę albo nie wyraża zgody na wyodrębnienie funduszu.
 
-2. Uchwała podjęta po dniu 31 marca roku budżetowy, którego dotyczy, jest nieważna.
+2. Uchwała podjęta po dniu 31 marca roku poprzedzającego rok budżetowy, którego dotyczy, jest nieważna.
 
-3. Uchwała wyrażeniu zgody na wyodrębnienie funduszu ma zastosowanie kolejnych lat budżetowych następujących po roku, którym została podjęta.
+3. Uchwała o wyrażeniu zgody na wyodrębnienie funduszu ma zastosowanie do kolejnych lat budżetowych następujących po roku, którym została podjęta.
 
-4. Uchwała niewyrażeniu zgody na wyodrębnienie funduszu ma zastosowanie wyłącznie roku budżetowego następującego po roku, którym została podjęta.
+4. Uchwała o niewyrażeniu zgody na wyodrębnienie funduszu ma zastosowanie wyłącznie do roku budżetowego następującego po roku, którym została podjęta.
 
-5. Fundusz nie jest funduszem celowym rozumieniu ustawy 27 sierpnia 2009 finansach publicznych (Dz. U. 2013 885, 938 1646). Środki funduszu przeznacza się na realizację przedsięwzięć, które zgłoszone we wniosku, którym art. 5, są zadaniami własnymi gminy, służą poprawie warunków życia mieszkańców są zgodne ze strategią rozwoju gminy.
+5. Fundusz nie jest funduszem celowym rozumieniu ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, 938 i 1646).
 
-7. Środki funduszu mogą być przeznaczone na pokrycie wydatków na działania zmierzające usunięcia skutków klęski żywiołowej rozumieniu ustawy 18 kwietnia 2002 stanie klęski żywiołowej (Dz. U. 62, 558, późn. zm. ).
+6. Środki funduszu przeznacza się na realizację przedsięwzięć, które zgłoszone we wniosku, o którym mowa art. 5, są zadaniami własnymi gminy, służą poprawie warunków życia mieszkańców i są zgodne ze strategią rozwoju gminy.
 
-**Art. 3.**
+7. Środki funduszu mogą być przeznaczone na pokrycie wydatków na działania zmierzające do usunięcia skutków klęski żywiołowej rozumieniu ustawy z dnia 18 kwietnia 2002 r. o stanie klęski żywiołowej (Dz. U. Nr 62, poz. 558, z późn. zm. ). którym poszczególne symbole oznaczają: F – wysokość środków przeznaczonych na dane sołectwo, jednak nie więcej niż dziesięciokrotność K , L – liczbę mieszkańców sołectwa według stanu na dzień 30 czerwca roku poprzedzającego rok budżetowy, określoną na podstawie prowadzonego przez gminę rejestru mieszkańców, o którym mowa ustawie z dnia 24 września 2010 r. o ewidencji ludności (Dz. U. Nr 217, poz. 1427, z późn. zm. ), K – kwotę bazową – obliczoną jako iloraz wykonanych dochodów bieżących danej gminy, o których mowa przepisach o finansach publicznych, za rok poprzedzający rok budżetowy o dwa lata oraz liczby mieszkańców zamieszkałych na obszarze danej gminy, według stanu na dzień 31 grudnia roku poprzedzającego rok budżetowy o dwa lata, ustalonej przez Prezesa Głównego Urzędu Statystycznego.
 
-1. Wysokość środków przypadających na dane sołectwo oblicza się według wzoru: L F = ( 2 + ) 100 × K , którym poszczególne symbole oznaczają: F wysokość środków przeznaczonych na dane sołectwo, jednak nie więcej niż dziesięciokrotność K , L liczbę mieszkańców sołectwa według stanu na dzień 30 czerwca roku budżetowy, określoną na podstawie prowadzonego przez gminę zbioru danych stałych mieszkańców, którym art. 44a 1 pkt 1 lit. a ustawy 10 kwietnia 1974 ewidencji ludności dowodach osobistych (Dz. U. 2006 139, 993, późn. zm. ), K kwotę bazową obliczoną jako iloraz wykonanych dochodów bieżących danej gminy, których przepisach finansach publicznych, za poprzedzający dwa lata liczby mieszkańców zamieszkałych na obszarze danej gminy, według stanu na dzień 31 grudnia roku dwa lata, ustalonej przez Prezesa Głównego Urzędu Statystycznego. strowi właściwemu spraw administracji publicznej terminie 15 sierpnia roku budżetowy.
+2. Wójt (burmistrz, prezydent miasta) terminie do dnia 31 lipca roku poprzedzającego rok budżetowy przekazuje sołtysom informacje o wysokości przypadających danemu sołectwu środków, o których mowa ust. 1, oraz środków określonych na podstawie uchwały, o której mowa art. 4 ust. 1.
 
-5. Nieprzekazanie przez wójta (burmistrza, prezydenta miasta) informacji, 3, terminie 31 lipca roku budżetowy, skutkuje utratą przez gminę prawa zwrotu części wydatków wykonanych ramach funduszu danym roku budżetowym. Środki funduszu niewykorzystane roku budżetowym wygasają upływem roku.
+3. Wójt (burmistrz, prezydent miasta) terminie do dnia 31 lipca roku poprzedzającego rok budżetowy przekazuje wojewodzie informację o wysokości przypadających danym sołectwom środków, o których mowa ust. 1, oraz o wysokości kwoty bazowej (K ).
 
-7. Gmina otrzymuje budżetu państwa zwrot, formie dotacji celowej, części wydatków wykonanych ramach funduszu. Zwrot obejmuje wydatki wykonane roku poprzedzającym budżetowy. Wysokość wydatków stanowiąca podstawę obliczenia zwrotu nie może przekroczyć wysokości środków ujętych informacji przekazanej przez wójta (burmistrza, prezydenta miasta) trybie 3.
+4. Wojewoda, po zweryfikowaniu otrzymanej informacji, o której mowa ust. 3, przekazuje zbiorczą informację ministrowi właściwemu do spraw administracji publicznej terminie do dnia 15 sierpnia roku poprzedzającego rok budżetowy.
+
+6. Środki funduszu niewykorzystane roku budżetowym wygasają z upływem roku.
+
+7. Gmina otrzymuje z budżetu państwa zwrot, formie dotacji celowej, części wydatków wykonanych ramach funduszu. Zwrot obejmuje wydatki wykonane roku poprzedzającym rok budżetowy. Wysokość wydatków stanowiąca podstawę obliczenia zwrotu nie może przekroczyć wysokości środków ujętych informacji przekazanej przez wójta (burmistrza, prezydenta miasta) trybie ust. 3.
 
 8. Wydatki wykonane ramach funduszu podlegają zwrotowi następującej wysokości:
 
-- **1)** 40% wykonanych wydatków dla gmin, których K jest mniejsze od średniego K skali kraju,
-- **2)** 30% wykonanych wydatków dla gmin, których K wynosi od 100% 120% średniego K skali kraju,
-- **3)** 20% wykonanych wydatków dla gmin, których K jest większe od 120% nie większe niż 200% średniego K skali kraju, gdzie K oznacza średnią kwotę bazową kraju obliczaną dla gmin wiejskich miejsko-wiejskich, ujętych rejestrze terytorialnym, którym art. 47 ustawy 29 czerwca 1995 statystyce publicznej (Dz. U. 2012 591 2013 2), według stanu na dzień 1 stycznia roku budżetowy.
+- **1)** 40% wykonanych wydatków – dla gmin, których K jest mniejsze od średniego K skali kraju,
+- **2)** 30% wykonanych wydatków – dla gmin, których K wynosi od 100% do 120% średniego K skali kraju,
+- **3)** 20% wykonanych wydatków – dla gmin, których K jest większe od 120% i nie większe niż 200% średniego K skali kraju, gdzie K oznacza – średnią kwotę bazową kraju – obliczaną dla gmin wiejskich i miejsko-wiejskich, ujętych rejestrze terytorialnym, o którym mowa art. 47 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2012 r. poz. 591 oraz z 2013 r. poz. 2), według stanu na dzień 1 stycznia roku poprzedzającego rok budżetowy.
 
-9. Średnią kwotę bazową kraju oblicza się, dzieląc łączną kwotę wykonanych dochodów bieżących gmin wiejskich miejsko-wiejskich, których przepisach finansach publicznych, przez liczbę mieszkańców gmin wiejskich miejsko-wiejskich według stanu na dzień 31 grudnia roku dwa lata, ustaloną przez Prezesa Głównego Urzędu Statystycznego.
+9. Średnią kwotę bazową kraju oblicza się, dzieląc łączną kwotę wykonanych dochodów bieżących gmin wiejskich i miejsko-wiejskich, o których mowa przepisach o finansach publicznych, przez liczbę mieszkańców gmin wiejskich i miejsko-wiejskich według stanu na dzień 31 grudnia roku poprzedzającego rok budżetowy o dwa lata, ustaloną przez Prezesa Głównego Urzędu Statystycznego.
 
-10. Podstawę wyliczenia średniej kwoty bazowej kraju stanowią wykonane dochody bieżące wykazane za poprzedzający dwa lata sprawozdaniach gmin wiejskich miejsko-wiejskich, których obowiązek sporządzania wynika przepisów finansach publicznych zakresie sprawozdawczości budżetowej, uwzględnieniem korekt złożonych właściwych regionalnych izb obrachunkowych, terminie 30 czerwca roku budżetowy.
+10. Podstawę do wyliczenia średniej kwoty bazowej kraju stanowią wykonane dochody bieżące wykazane za rok poprzedzający rok budżetowy o dwa poprzedzającego rok budżetowy.
 
-11. Minister właściwy spraw finansów publicznych oblicza na dany średnią kwotę bazową kraju podaje ją wiadomości Biuletynie Informacji Publicznej 31 sierpnia roku budżetowy.
+11. Minister właściwy do spraw finansów publicznych oblicza na dany rok średnią kwotę bazową kraju i podaje ją do wiadomości Biuletynie Informacji Publicznej do dnia 31 sierpnia roku poprzedzającego rok budżetowy.
 
-12. Minister właściwy spraw administracji publicznej określi, drodze rozporządzenia:
+12. Minister właściwy do spraw administracji publicznej określi, drodze rozporządzenia:
 
-- **1)** wzory informacji, których 3 4,
-- **2)** tryb zwrotu części wydatków gmin ramach funduszu wzór wniosku ten zwrot kierując się potrzebą zapewnienia środków finansowych dla gmin uwzględniając konieczność zapewnienia prawidłowości kompletności przekazywanych danych.
+- **1)** wzory informacji, o których mowa ust. 3 i 4,
+- **2)** tryb zwrotu części wydatków gmin ramach funduszu oraz wzór wniosku o ten zwrot – kierując się potrzebą zapewnienia środków finansowych dla gmin oraz uwzględniając konieczność zapewnienia prawidłowości i kompletności przekazywanych danych.
 
-2. Wniosek danego sołectwa uchwala zebranie wiejskie inicjatywy sołtysa, rady sołeckiej lub co najmniej 15 pełnoletnich mieszkańców sołectwa.
+**Art. 4.**
 
-3. Wniosek powinien zawierać wskazanie przedsięwzięć przewidzianych realizacji na obszarze sołectwa ramach środków określonych dla danego sołectwa na podstawie informacji, art. 3 2, wraz oszacowaniem ich kosztów uzasadnieniem.
+1. Rada gminy może zwiększyć środki funduszu ponad wysokość obliczoną na podstawie art. 3 ust. 1, określając terminie do dnia 30 czerwca roku poprzedzającego rok budżetowy, drodze uchwały, zasady zwiększania środków funduszu przypadających na poszczególne sołectwa.
 
-4. W terminie 30 września roku budżetowy, którego dotyczy wniosek, sołtys przekazuje wójtowi (burmistrzowi, prezydentowi miasta) wniosek celem uwzględnienia go projekcie budżetu gminy.
+2. Uchwała podjęta po terminie, o którym mowa ust. 1, jest nieważna.
 
-5. Wójt (burmistrz, prezydent miasta) terminie 7 dni od otrzymania odrzuca wniosek niespełniający warunków określonych 2–4, jednocześnie informując tym sołtysa. Sołtys może terminie 7 dni od otrzymania informacji, 5, podtrzymać wniosek niespełniający warunków określonych 2–4, kierując go rady gminy za pośrednictwem wójta (burmistrza, prezydenta miasta).
+3. Uchwała, o której mowa ust. 1, ma zastosowanie do lat budżetowych następujących po roku, którym została podjęta.
 
-7. W przypadku, gdy wniosek został odrzucony przez wójta (burmistrza, prezydenta miasta) powodu niespełnienia warunków określonych 2 lub 3, zebranie wiejskie może ponownie uchwalić wniosek.
+4. Zwiększona wysokość środków funduszu nie jest wliczana do wydatków wykonanych ramach funduszu, od których przysługuje częściowy zwrot na podstawie art. 3 ust. 7.
 
-8. Sołtys, terminie 7 dni od otrzymania informacji, 5, przekazuje radzie gminy za pośrednictwem wójta (burmistrza, prezydenta miasta) wniosek ponownie uchwalony przez zebranie wiejskie.
+**Art. 5.**
 
-9. W przypadku podtrzymania wniosku przez sołtysa, rada gminy rozpatruje ten wniosek terminie 30 dni od jego otrzymania. Rada gminy odrzuca wniosek niespełniający warunków określonych 2–4 lub podtrzymany po terminie, którym Wójt (burmistrz, prezydent miasta) związany jest rozstrzygnięciem rady gminy.
+1. Warunkiem przyznania danym roku budżetowym środków z funduszu jest złożenie do wójta (burmistrza, prezydenta miasta) przez sołectwo wniosku.
 
-10. W przypadku ponownie uchwalonego wniosku, rada gminy rozpatruje ten wniosek terminie 30 dni od jego otrzymania. Rada gminy odrzuca wniosek niespełniający warunków określonych 2 lub 3 lub przekazany po terminie, którym 8. Wójt (burmistrz, prezydent miasta) związany jest rozstrzygnięciem rady gminy.
+2. Wniosek danego sołectwa uchwala zebranie wiejskie z inicjatywy sołtysa, rady sołeckiej lub co najmniej 15 pełnoletnich mieszkańców sołectwa.
 
-11. Uchwalając budżet, rada gminy odrzuca wniosek sołectwa, przypadku gdy zamierzone przedsięwzięcia nie spełniają wymogów określonych art. 2 6 lub 7.
+4. W terminie do dnia 30 września roku poprzedzającego rok budżetowy, którego dotyczy wniosek, sołtys przekazuje wójtowi (burmistrzowi, prezydentowi miasta) wniosek celem uwzględnienia go projekcie budżetu gminy.
 
-**Art. 1.** Sołectwa mogą realizować wspólne przedsięwzięcia. 2. Każde sołectw zamierzających wspólnie realizować przedsięwzięcie odrębnie uchwala wniosek. 3. Przepisy art. 5 stosuje się odpowiednio, tym że wniosek powinien zawierać wskazanie przedsięwzięć przewidzianych realizacji na obszarze danego sołectwa lub innego sołectwa danej gminie.
+5. Wójt (burmistrz, prezydent miasta) terminie 7 dni od dnia otrzymania wniosku odrzuca cały wniosek albo poszczególne przedsięwzięcie lub przedsięwzięcia nim zawarte, jeżeli nie spełniają warunków określonych ust. 2–4 lub art. 2 ust. 6 lub 7, jednocześnie informując o tym sołtysa.
+
+6. Sołtys może terminie 7 dni od dnia otrzymania informacji, o której mowa ust. 5, podtrzymać wniosek albo przedsięwzięcie lub przedsięwzięcia nim zawarte niespełniające warunków określonych ust. 2–4 lub art. 2 ust. 6 lub 7, kierując wniosek do rady gminy za pośrednictwem wójta (burmistrza, prezydenta miasta).
+
+7. W przypadku gdy wniosek albo przedsięwzięcie zostały odrzucone przez wójta (burmistrza, prezydenta miasta) z powodu niespełnienia warunków określonych ust. 2 lub 3 lub art. 2 ust. 6 lub 7, zebranie wiejskie może ponownie uchwalić odpowiednio wniosek albo przedsięwzięcie.
+
+8. Sołtys, terminie 14 dni od dnia otrzymania informacji, o której mowa ust. 5, przekazuje radzie gminy za pośrednictwem wójta (burmistrza, prezydenta miasta) wniosek albo przedsięwzięcie lub przedsięwzięcia ponownie uchwalone przez zebranie wiejskie.
+
+9. W przypadku podtrzymania wniosku albo przedsięwzięcia lub przedsięwzięć przez sołtysa, rada gminy rozpatruje ten wniosek albo przedsięwzięcie lub przedsięwzięcia terminie 30 dni od dnia jego otrzymania. Rada gminy odrzuca wniosek albo przedsięwzięcie niespełniające warunków określonych ust. 2–4 lub art. 2 ust. 6 lub 7 lub podtrzymane po terminie, o którym mowa ust. 6. Wójt (burmistrz, prezydent miasta) związany jest rozstrzygnięciem rady gminy.
+
+10. W przypadku ponownie uchwalonego wniosku albo przedsięwzięcia lub przedsięwzięć, rada gminy rozpatruje ten wniosek terminie 30 dni od dnia jego
+
+11. (uchylony)
+
+**Art. 6.**
+
+1. Sołectwa mogą realizować wspólne przedsięwzięcia.
+
+2. Każde z sołectw zamierzających wspólnie realizować przedsięwzięcie odrębnie uchwala wniosek.
+
+3. Przepisy art. 5 stosuje się odpowiednio, z tym że wniosek powinien zawierać wskazanie przedsięwzięć przewidzianych do realizacji na obszarze danego sołectwa lub innego sołectwa danej gminie.
 
 **Art. 7.**
 
-1. W trakcie roku budżetowego, jednakże nie wcześniej niż po uchwaleniu budżetu gminy na dany nie później niż 31 października danego roku budżetowego, sołectwo może złożyć wójta (burmistrza, prezydenta miasta) wniosek zmianę przedsięwzięć lub ich zakresu przewidzianych realizacji ramach funduszu. L F = ( 2 + ) 100 × K , którym poszczególne symbole oznaczają: F wysokość środków przeznaczonych na dane sołectwo, jednak nie więcej niż dziesięciokrotność K , L liczbę mieszkańców sołectwa według stanu na dzień 30 czerwca roku budżetowy, określoną na podstawie prowadzonego przez gminę rejestru mieszkańców, którym ustawie 24 września ewidencji ludności (Dz. U. 217, 1427, późn. zm. ), K kwotę bazową obliczoną jako iloraz wykonanych dochodów bieżących danej gminy, których przepisach finansach publicznych, za poprzedzający dwa lata liczby mieszkańców zamieszkałych na obszarze danej gminy, według stanu na dzień 31 grudnia roku poprzedzającego dwa lata, ustalonej przez Prezesa Głównego Urzędu Statystycznego.”.”.
+1. W trakcie roku budżetowego, jednakże nie wcześniej niż po uchwaleniu budżetu gminy na dany rok i nie później niż do dnia 31 października danego roku budżetowego, sołectwo może złożyć do wójta (burmistrza, prezydenta miasta) wniosek o zmianę przedsięwzięć lub ich zakresu przewidzianych do realizacji ramach funduszu.
 
-**Art. 9.** Gmina otrzymuje budżetu państwa 2014 zwrot, formie dotacji celowej, części wydatków wykonanych ramach funduszu sołeckiego 2013 r., zgodnie dotychczasowymi przepisami.
+2. Wniosek, o którym mowa ust. 1, nie może prowadzić do przekroczenia środków przyznanych pierwotnie uchwale budżetowej.
 
-**Art. 10.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 2 9 ustawy uchylanej art. 11 zachowują moc czasu wejścia życie przepisów wykonawczych wydanych na podstawie art. 3 12 niniejszej ustawy, nie dłużej jednak niż przez 12 miesięcy od jej wejścia życie.
+3. Wniosek złożony z naruszeniem terminów, o których mowa ust. 1, podlega odrzuceniu.
 
-**Art. 11.** Traci moc ustawa 20 lutego 2009 funduszu sołeckim (Dz. U. 52, 420 157, 1241 217, 1427).
+4. Do wniosku, o którym mowa ust. 1, stosuje się odpowiednio przepisy art. 5 ust. 2, 3 i 5–11.
+
+**Art. 7a.**
+
+1. Rada gminy, która wyodrębniła budżecie gminy środki stanowiące fundusz sołecki, może wyodrębnić budżecie gminy środki na przedsięwzięcia przewidziane do realizacji innych niż sołectwo jednostkach pomocniczych.
+
+2. Do środków, o których mowa ust. 1, stosuje się odpowiednio przepisy art. 2, art. 3 ust. 1 i 2 oraz art. 4–7, z tym że ilekroć tych przepisach jest mowa o:
+
+- **1)** sołtysie – należy przez to rozumieć przewodniczącego organu wykonawczego jednostki pomocniczej;
+- **2)** zebraniu wiejskim – należy przez to rozumieć organ uchwałodawczy innej niż sołectwo jednostki pomocniczej. „Art. 68a. W ustawie z dnia 21 lutego 2014 r. o funduszu sołeckim (Dz. U. poz. 301) art. 3 ust. 1 otrzymuje brzmienie: „1. Wysokość środków przypadających na dane sołectwo oblicza się według wzoru: 𝐿 𝐹 = (2 + )× 𝐾 100 którym poszczególne symbole oznaczają: F – wysokość środków przeznaczonych na dane sołectwo, jednak nie więcej niż dziesięciokrotność K , L – liczbę mieszkańców sołectwa według stanu na dzień 30 czerwca roku poprzedzającego rok budżetowy, określoną na podstawie prowadzonego przez gminę rejestru mieszkańców, o którym mowa ustawie z dnia 24 września 2010 r. o ewidencji ludności (Dz. U. Nr 217, poz. 1427, z późn. zm. ), K – kwotę bazową – obliczoną jako iloraz wykonanych dochodów bieżących danej gminy, o których mowa przepisach o finansach publicznych, za rok poprzedzający rok budżetowy o dwa lata oraz liczby mieszkańców zamieszkałych na obszarze danej gminy, według stanu na dzień 31 grudnia roku poprzedzającego rok budżetowy o dwa lata, ustalonej przez Prezesa Głównego Urzędu Statystycznego.”.”. ust. 9 ustawy uchylanej art. 11 zachowują moc do czasu wejścia życie przepisów wykonawczych wydanych na podstawie art. 3 ust. 12 niniejszej ustawy, nie dłużej jednak niż przez 12 miesięcy od dnia jej wejścia życie.
+
+**Art. 11.** Traci moc ustawa z dnia 20 lutego 2009 r. o funduszu sołeckim (Dz. U. Nr 52, poz. 420 i Nr 157, poz. 1241 oraz z 2010 r. Nr 217, poz. 1427).
 
 **Art. 12.**
 
-1. Maksymalny limit wydatków budżetu państwa będących skutkiem finansowym ustawy wynosi:
+1. Maksymalny limit wydatków z budżetu państwa będących skutkiem finansowym ustawy wynosi:
 
-- **1)** 2014 68 000 tys. zł;
-- **2)** 2015 98 000 tys. zł;
-- **3)** 2016 129 000 tys. zł;
-- **4)** 2017 132 000 tys. zł;
-- **5)** 2018 135 500 tys. zł;
-- **6)** 2019 138 500 tys. zł;
-- **7)** 2020 142 000 tys. zł;
-- **8)** 2021 145 500 tys. zł;
-- **9)** 2022 149 000 tys. zł;
-- **10)** 2023 152 500 tys. zł.
+- **1)** 2014 r. – 68 000 tys. zł;
+- **2)** 2015 r. – 98 000 tys. zł;
+- **3)** 2016 r. – 129 000 tys. zł;
+- **4)** 2017 r. – 132 000 tys. zł;
+- **5)** 2018 r. – 135 500 tys. zł;
+- **6)** 2019 r. – 138 500 tys. zł;
+- **7)** 2020 r. – 142 000 tys. zł;
+- **8)** 2021 r. – 145 500 tys. zł;
+- **9)** 2022 r. – 149 000 tys. zł;
+- **10)** 2023 r. – 152 500 tys. zł.
 
-2. Minister właściwy spraw administracji publicznej monitoruje wykorzystanie limitu wydatków, którym wysokości zwrotu części wydatków gmin wykonanych ramach funduszu roku, na który została ogłoszona średnia kwota bazowa kraju dla każdej grup gmin określonym K , których art. 3 8.
+2. Minister właściwy do spraw administracji publicznej monitoruje wykorzystanie limitu wydatków, o którym mowa ust. 1, oraz wdraża mechanizm korygujący, o którym mowa ust. 3.
 
-**Art. 13.** Ustawa wchodzi życie po upływie 7 dni od ogłoszenia. Prezydent Rzeczypospolitej Polskiej: B. Komorowski
+3. W przypadku zagrożenia przekroczenia przyjętego na dany rok budżetowy maksymalnego limitu wydatków, o którym mowa ust. 1, zostanie zastosowany mechanizm korygujący polegający na obniżeniu wysokości zwrotu wydatków wykonanych ramach funduszu, dla każdej z grup gmin o określonym K , o których mowa art. 3 ust. 8, o wskaźnik ustalony jako iloraz różnicy między sumą środków wynikającą ze wszystkich informacji, o których mowa art. 3 ust. 4, a limitem, o którym mowa ust. 1, oraz sumy środków wynikającej ze wszystkich informacji, o których mowa art. 3 ust. 4. na który została ogłoszona średnia kwota bazowa kraju dla każdej z grup gmin o określonym K , o których mowa art. 3 ust. 8.
+
+**Art. 13.** Ustawa wchodzi życie po upływie 7 dni od dnia ogłoszenia.
 

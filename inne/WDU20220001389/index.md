@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 1 lipca 2022 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy Prawo zgromadzeniach
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 9 czerwca 2022 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001389) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1389/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 9 czerwca 2022 r.
-sprawie ogłoszenia jednolitego tekstu ustawy Prawo zgromadzeniach
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 24 lipca 2015 r. Prawo zgromadzeniach (Dz. U. z 2019 r. poz. 631), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 11 marca 2022 r. obronie Ojczyzny (Dz. U. poz. 655) oraz zmian wynikających z przepisów ogłoszonych przed dniem 2 czerwca 2022 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 824 ustawy z dnia 11 marca 2022 r. obronie Ojczyzny (Dz. U. poz. 655), który stanowi: „Art. 824. Ustawa wchodzi życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem:
 1) art. 288 ust. 2 i art. 777 ust. 4, które wchodzą życie z dniem następującym po dniu ogłoszenia;
@@ -49,7 +49,7 @@ Prawo zgromadzeniach
 8. 1. Organ gminy informuje niezwłocznie właściwego komendanta powiatowego (miejskiego) Policji, a na obszarze m.st. Warszawy komendanta rejonowego Policji, organizowanym zgromadzeniu, przekazując zawiadomienie zamiarze zorganizowania zgromadzenia.
 2. Jeżeli zgromadzenie ma zostać zorganizowane pobliżu siedzib przedstawicielstw dyplomatycznych, urzędów konsularnych, misji specjalnych i organizacji międzynarodowych korzystających z immunitetów i przywilejów dyplomatycznych, organ gminy informuje niezwłocznie ministra właściwego do spraw zagranicznych miejscu, terminie oraz przewidywanej liczbie uczestników zgromadzenia.
 3. Jeżeli zgromadzenie ma zostać zorganizowane pobliżu obiektów podlegających ochronie Służby Ochrony Państwa, organ gminy informuje niezwłocznie Komendanta Służby Ochrony Państwa miejscu, terminie oraz przewidywanej liczbie uczestników zgromadzenia.
-organ gminy informuje niezwłocznie Komendanta Straży Marszałkowskiej miejscu, terminie oraz przewidywanej liczbie uczestników zgromadzenia.
+uczestników zgromadzenia.
 5. Jeżeli zgromadzenie ma zostać zorganizowane pobliżu jednostki wojskowej rozumieniu art. 2 pkt 12 ustawy z dnia 11 marca 2022 r. obronie Ojczyzny (Dz. U. poz. 655 i 974), organ gminy informuje niezwłocznie właściwego komendanta terenowej jednostki organizacyjnej Żandarmerii Wojskowej miejscu, terminie oraz przewidywanej liczbie uczestników zgromadzenia.
 6. Organ gminy informuje niezwłocznie podmioty, których mowa ust. 1–5, zmianie miejsca lub terminu organizowanego zgromadzenia albo wydaniu decyzji zakazie zgromadzenia.
 9. 1. Organizator zgromadzenia zawiadamia organ gminy zamiarze zorganizowania zgromadzenia pisemnie, za pomocą faksu, ustnie do protokołu lub za pomocą środków komunikacji elektronicznej rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. świadczeniu usług drogą elektroniczną (Dz. U. z 2020 r. poz. 344), zwanych dalej „środkami komunikacji elektronicznej”.
@@ -67,7 +67,7 @@ organ gminy informuje niezwłocznie Komendanta Straży Marszałkowskiej miejscu,
 1) pisemną zgodę na przyjęcie obowiązków przewodniczącego zgromadzenia przypadku jego wyznaczenia;
 2) zdjęcie organizatora zgromadzenia albo przewodniczącego zgromadzenia przypadku jego wyznaczenia.
 3. W przypadku wniesienia zawiadomienia zamiarze zorganizowania zgromadzenia za pomocą środków komunikacji elektronicznej zamiast pisemnej zgody na przyjęcie obowiązków przewodniczącego zgromadzenia można dołączyć elektroniczną kopię tego dokumentu.
-gań określonych art. 10, organ gminy informuje niezwłocznie organizatora zgromadzenia stwierdzonych brakach formalnych. Zawiadomienie spełniające wymagania określone art. 10 wnosi się z zachowaniem terminu, którym mowa art. 7 ust. 1.
+art. 7 ust. 1.
 12. 1. Jeżeli wniesiono zawiadomienia zamiarze zorganizowania dwóch lub większej liczby zgromadzeń, które mają zostać zorganizowane chociażby częściowo tym samym miejscu i czasie, szczególności odległości mniejszej niż 100 m pomiędzy zgromadzeniami, i nie jest możliwe ich odbycie taki sposób, aby ich przebieg nie zagrażał życiu lub zdrowiu ludzi albo mieniu znacznych rozmiarach, pierwszeństwie wyboru miejsca i czasu zgromadzenia decyduje kolejność wniesienia zawiadomień. W przypadku gdy wniesione zawiadomienie nie spełniało wymagań określonych art. 10, kolejności wniesienia tego zawiadomienia decydują data, godzina i minuta jego ponownego wniesienia, ile tak wniesione zawiadomienie spełnia te wymagania. Zgromadzeniom, których mowa art. 26a, przysługuje pierwszeństwo wyboru miejsca i czasu zorganizowania zgromadzenia.
 2. W przypadku, którym mowa ust. 1, organ gminy niezwłocznie wzywa, telefonicznie i za pomocą środków komunikacji elektronicznej, do zmiany miejsca lub czasu zgromadzeń organizatorów zgromadzeń, którym nie przysługuje pierwszeństwo wyboru miejsca i czasu, którym mowa ust. 1.
 13. 1. W przypadku, którym mowa art. 12 ust. 1, organ gminy może przeprowadzić rozprawę administracyjną, jeżeli usprawni to uzgodnienie zmiany miejsca lub czasu zgromadzeń.
@@ -85,7 +85,6 @@ gań określonych art. 10, organ gminy informuje niezwłocznie organizatora zgro
 16. 1. Odwołanie od decyzji zakazie zgromadzenia wnosi się bezpośrednio do sądu okręgowego właściwego ze względu na siedzibę organu gminy terminie 24 godzin od jej udostępnienia Biuletynie Informacji Publicznej.
 Wniesienie odwołania nie wstrzymuje wykonania decyzji zakazie zgromadzenia.
 2. Sąd okręgowy zawiadamia niezwłocznie organ gminy wniesieniu odwołania od decyzji zakazie zgromadzenia przez udostępnienie informacji wniesieniu odwołania na stronie podmiotowej sądu Biuletynie Informacji Publicznej i informuje organizatora zgromadzenia i organ gminy terminie rozprawy za pomocą środków komunikacji elektronicznej.
-nie, nie później jednak niż terminie 24 godzin od wniesienia odwołania.
 4. Uczestnikami postępowania są wnoszący odwołanie od decyzji zakazie zgromadzenia i organ gminy. Niestawiennictwo uczestników nie tamuje rozpoznania sprawy.
 5. Sąd okręgowy doręcza niezwłocznie postanowienie kończące postępowanie sprawie wraz z uzasadnieniem uczestnikom postępowania.
 6. Postanowienie uwzględniające odwołanie podlega natychmiastowemu wykonaniu.
@@ -108,7 +107,7 @@ nie, nie później jednak niż terminie 24 godzin od wniesienia odwołania.
 5. Przewodniczący zgromadzenia żąda opuszczenia zgromadzenia przez osobę, która swoim zachowaniem narusza przepisy ustawy albo uniemożliwia lub usiłuje udaremnić zgromadzenie. W przypadku niepodporządkowania się żądaniu przewodniczący zgromadzenia zwraca się pomoc do Policji lub straży gminnej (miejskiej).
 6. Przewodniczący zgromadzenia rozwiązuje zgromadzenie, jeżeli uczestnicy zgromadzenia nie podporządkują się jego poleceniom lub gdy przebieg zgromadzenia narusza przepisy niniejszej ustawy albo przepisy karne.
 7. Uczestnicy zgromadzenia z chwilą jego rozwiązania są obowiązani niezwłocznie opuścić miejsce, którym odbywało się zgromadzenie.
-życiu lub zdrowiu ludzi albo mieniu znacznych rozmiarach lub narusza przepisy niniejszej ustawy albo przepisy karne, a przewodniczący zgromadzenia, uprzedzony przez przedstawiciela organu gminy konieczności rozwiązania zgromadzenia, nie rozwiązuje go.
+a przewodniczący zgromadzenia, uprzedzony przez przedstawiciela organu gminy konieczności rozwiązania zgromadzenia, nie rozwiązuje go.
 2. Funkcjonariusz Policji może zwrócić się do przedstawiciela organu gminy rozwiązanie zgromadzenia przypadku wystąpienia okoliczności, których mowa ust. 1.
 3. Rozwiązanie zgromadzenia na podstawie ust. 1 następuje przez wydanie decyzji ustnej podlegającej natychmiastowemu wykonaniu, poprzedzonej dwukrotnym ostrzeżeniem uczestników zgromadzenia możliwości jego rozwiązania, a następnie ogłoszonej przewodniczącemu zgromadzenia lub ogłoszonej publicznie uczestnikom zgromadzenia przypadku niemożności skontaktowania się z przewodniczącym zgromadzenia. Decyzję tę doręcza się organizatorowi zgromadzenia na piśmie terminie 72 godzin od jej podjęcia.
 4. Organizatorowi zgromadzenia przysługuje prawo wniesienia odwołania od decyzji rozwiązaniu zgromadzenia do sądu okręgowego właściwego ze względu na siedzibę organu gminy terminie 7 dni od dnia rozwiązania zgromadzenia.
@@ -125,7 +124,7 @@ Przepisy art. 16 ust. 2–5 stosuje się odpowiednio, z tym że sąd okręgowy r
 5. Organ gminy i wojewoda udostępniają niezwłocznie na stronach podmiotowych Biuletynie Informacji Publicznej informację miejscu i terminie zgromadzenia, którego dotyczy zawiadomienie i które ma zostać zorganizowane na terenie gminy.
 23. Organizator zgromadzenia trakcie trwania zgromadzenia jest obowiązany do nieprzerwanego posiadania widocznym miejscu elementów wyróżniających, wskazujących na pełnienie przez niego funkcji organizatora zgromadzenia.
 24. Organizator zgromadzenia rozwiązuje zgromadzenie, którym mowa art. 21, jeżeli uczestnicy zgromadzenia nie podporządkują się jego poleceniom lub gdy przebieg zgromadzenia narusza przepisy niniejszej ustawy albo przepisy karne.
-jego przebieg zagraża życiu lub zdrowiu ludzi albo mieniu znacznych rozmiarach, powoduje istotne zagrożenie bezpieczeństwa lub porządku ruchu drogowego na drogach publicznych lub narusza przepisy niniejszej ustawy albo przepisy karne, a organizator zgromadzenia, uprzedzony przez przedstawiciela organu gminy konieczności rozwiązania zgromadzenia, nie rozwiązuje go.
+a organizator zgromadzenia, uprzedzony przez przedstawiciela organu gminy konieczności rozwiązania zgromadzenia, nie rozwiązuje go.
 2. Funkcjonariusz Policji może zwrócić się do przedstawiciela organu gminy rozwiązanie zgromadzenia przypadku wystąpienia okoliczności, których mowa ust. 1.
 3. Rozwiązanie zgromadzenia na podstawie ust. 1 następuje przez wydanie decyzji ustnej podlegającej natychmiastowemu wykonaniu, poprzedzonej dwukrotnym ostrzeżeniem uczestników zgromadzenia możliwości jego rozwiązania, a następnie ogłoszonej organizatorowi zgromadzenia lub ogłoszonej publicznie uczestnikom zgromadzenia przypadku niemożności skontaktowania się z organizatorem zgromadzenia. Decyzję tę doręcza się organizatorowi zgromadzenia na piśmie terminie 72 godzin od jej podjęcia.
 4. Organizatorowi zgromadzenia przysługuje prawo wniesienia odwołania od decyzji rozwiązaniu zgromadzenia do sądu okręgowego właściwego ze względu na siedzibę organu gminy terminie 7 dni od dnia rozwiązania zgromadzenia.
@@ -142,7 +141,6 @@ Przepisy art. 16 ust. 2–5 stosuje się odpowiednio, z tym że sąd okręgowy r
 1) na wniosek organizatora;
 2) jeżeli co najmniej dwukrotnie, terminach określonych terminarzu, którym mowa art. 26a ust. 1, nie zostały one zorganizowane.
 2. Przepisu ust. 1 pkt 2 nie stosuje się, jeżeli zgromadzenie nie mogło zostać zorganizowane z przyczyn niezależnych od organizatora.
-mogą odbywać się okresie nie dłuższym niż 3 lata od przeprowadzenia pierwszego z cyklu zgromadzeń.
 26e. Do zgromadzeń organizowanych cyklicznie przepisy art. 8, art. 10–12 oraz art. 14–20 stosuje się odpowiednio.
 27. Uczestnicy zgromadzenia spontanicznego nie mogą zakłócać przebiegu zgromadzenia organizowanego trybie przepisów rozdziału 2, 3 lub 3a.
 28. 1. Zgromadzenie spontaniczne może być rozwiązane przez funkcjonariusza kierującego działaniami Policji, jeżeli:

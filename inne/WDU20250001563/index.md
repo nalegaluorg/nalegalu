@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 17 listopada 2025 r.
+# o ratyfikacji Traktatu o wzajemnych stosunkach i współpracy w Azji Południowo-Wschodniej, sporządzonego w Denpasarze dnia 24 lutego 1976 r., wraz z Protokołami zmieniającymi
+
+*USTAWA z dnia 26 września 2025 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +25,6 @@ domain: null
 | Data wydania | 2025-11-17 |
 | Ostatnia zmiana | 2025-11-24 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001563) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1563/text.pdf) |
-
-Poz. 1563
-USTAWA z dnia 26 września 2025 r.
-o ratyfikacji Traktatu o wzajemnych stosunkach i współpracy w Azji Południowo-Wschodniej, sporządzonego w Denpasarze dnia 24 lutego 1976 r., wraz z Protokołami zmieniającymi
 
 **Art. 1.** Wyraża się zgodę na dokonanie przez Prezydenta Rzeczypospolitej Polskiej ratyfikacji Traktatu o wzajemnych stosunkach i współpracy w Azji Południowo-Wschodniej, sporządzonego w Denpasarze dnia 24 lutego 1976 r., wraz z Protokołami zmieniającymi.
 

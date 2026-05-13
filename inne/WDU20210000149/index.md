@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 22 stycznia 2021 r.
+# o zmianie zakresu obowiązywania Konwencji Rady Europy o zapobieganiu i zwalczaniu przemocy wobec kobiet i przemocy domowej, sporządzonej w Stambule dnia 11 maja 2011 r.
+
+*USTAWA z dnia 20 stycznia 2021 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +25,6 @@ domain: null
 | Data wydania | 2021-01-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000149) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/149/text.pdf) |
-
-Poz. 149
-USTAWA z dnia 20 stycznia 2021 r.
-o zmianie zakresu obowiązywania Konwencji Rady Europy o zapobieganiu i zwalczaniu przemocy wobec kobiet i przemocy domowej, sporządzonej w Stambule dnia 11 maja 2011 r.
 
 **Art. 1.** Wyraża się zgodę na dokonanie przez Prezydenta Rzeczypospolitej Polskiej zmiany zakresu obowiązywania Konwencji Rady Europy o zapobieganiu i zwalczaniu przemocy wobec kobiet i przemocy domowej, sporządzonej w Stambule dnia 11 maja 2011 r., przez:
 

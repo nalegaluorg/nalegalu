@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 21 lipca 2023 r.
+# o zmianie niektórych ustaw celu ograniczania niektórych skutków kradzieży tożsamości
+
+*USTAWA z dnia 7 lipca 2023 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,18 +26,13 @@ domain: null
 | Ostatnia zmiana | 2024-05-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001394) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1394/text.pdf) |
 
-USTAWA z dnia 7 lipca 2023 r.
-o zmianie niektórych ustaw celu ograniczania niektórych skutków kradzieży tożsamości
+**Art. 1.** W ustawie z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2022 r. poz. 1799) wprowadza się następujące zmiany:
 
-**Art. 1.** W ustawie z dnia 14 lutego 1991 r. Prawo o notariacie (Dz. U. z 2022 r. poz. 1799) wprowadza się następujące zmiany:
-
-**Art. 2.** W ustawie z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym (Dz. U. z 2023 r. poz. 1047, z późn. zm. ) wprowadza się następujące zmiany:
-
-**Art. 3.** W ustawie z dnia 29 sierpnia 1997 r. Prawo bankowe (Dz. U. z 2022 r. poz. 2324, z późn. zm. ) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2022 r. poz. 2324, z późn. zm. ) wprowadza się następujące zmiany:
 
 **Art. 4.** W ustawie z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych (Dz. U. z 2022 r. poz. 2277 i 2640 oraz z 2023 r. poz. 1123) art. 104:
 
-**Art. 5.** W ustawie z dnia 16 lipca 2004 r. Prawo telekomunikacyjne (Dz. U. z 2022 r. poz. 1648, 1933 i 2581) wprowadza się następujące zmiany:
+**Art. 5.** W ustawie z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2022 r. poz. 1648, 1933 i 2581) wprowadza się następujące zmiany:
 
 **Art. 6.** W ustawie z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z 2023 r. poz. 1278) art. 36:
 
@@ -56,8 +53,8 @@ o zmianie niektórych ustaw celu ograniczania niektórych skutków kradzieży to
 2. Utrzymanie i rozwój rejestru zastrzeżeń numerów PESEL, celu realizacji zadań ustawowych, zapewnia minister właściwy do spraw informatyzacji, tym:
 
 - **1)** zapewnia ochronę przed nieuprawnionym dostępem do rejestru zastrzeżeń numerów PESEL;
-- **2)** zapewnia integralność danych rejestrze zastrzeżeń numerów PESEL; PESEL, dla podmiotów przetwarzających dane tym rejestrze;
-- **4)** przeciwdziała uszkodzeniom systemu teleinformatycznego, którym jest prowadzony rejestr zastrzeżeń numerów PESEL;
+- **2)** zapewnia integralność danych rejestrze zastrzeżeń numerów PESEL;
+- **3)** zapewnia dostępność systemu teleinformatycznego, którym jest prowadzony rejestr zastrzeżeń numerów PESEL, dla podmiotów przetwarzających dane tym rejestrze; rów PESEL;
 - **5)** określa zasady bezpieczeństwa przetwarzanych danych osobowych;
 - **6)** zapewnia rozliczalność działań dokonywanych na danych rejestru zastrzeżeń numerów PESEL;
 - **7)** zapewnia poprawność danych przetwarzanych rejestrze zastrzeżeń numerów PESEL.
@@ -119,15 +116,15 @@ o zmianie niektórych ustaw celu ograniczania niektórych skutków kradzieży to
 
 **Art. 23f.**
 
-1. Bank krajowy, spółdzielcza kasa oszczędnościowo-kredytowa oraz operator wyznaczony, o którym mowa art. 3 pkt 13 ustawy z dnia 23 listopada 2012 r. Prawo pocztowe (Dz. U. z 2022 r. poz. 896, 1933 i 2042), może nieodpłatnie umożliwić dokonywanie zastrzeżenia numeru PESEL odpowiednio:
+1. Bank krajowy, spółdzielcza kasa oszczędnościowo-kredytowa oraz operator wyznaczony, o którym mowa art. 3 pkt 13 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2022 r. poz. 896, 1933 i 2042), może nieodpłatnie umożliwić dokonywanie zastrzeżenia numeru PESEL odpowiednio:
 
-- **1)** na wniosek składany osobiście w: Prawo pocztowe;
+- **1)** na wniosek składany osobiście w:
     - **a)** banku krajowym albo spółdzielczej kasie oszczędnościowo-kredytowej,
-    - **b)** placówce operatora wyznaczonego, o którym mowa art. 3 pkt 13 ustawy z dnia 23 listopada 2012 r.
+    - **b)** placówce operatora wyznaczonego, o którym mowa art. 3 pkt 13 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe;
 
 - **2)** za pomocą systemu teleinformatycznego banku krajowego albo spółdzielczej kasy oszczędnościowo-kredytowej, którym jest uwierzytelniana osoba dokonująca zastrzeżenia.
 
-2. Zastrzeżenie numeru PESEL sposób, o którym mowa ust. 1 pkt 1 lit. a i pkt 2, może zostać dokonane za pośrednictwem instytucji utworzonej na podstawie art. 105 ust. 4 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe (Dz. U. z 2022 r. poz. 2324, z późn. zm. ).
+2. Zastrzeżenie numeru PESEL sposób, o którym mowa ust. 1 pkt 1 lit. a i pkt 2, może zostać dokonane za pośrednictwem instytucji utworzonej na podstawie art. 105 ust. 4 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2022 r. poz. 2324, z późn. zm. ).
 
 3. Minister właściwy do spraw informatyzacji:
 
@@ -142,9 +139,9 @@ o zmianie niektórych ustaw celu ograniczania niektórych skutków kradzieży to
 1. Zastrzeżenia numeru PESEL dokonuje się z urzędu przypadku:
 
 - **1)** unieważnienia dowodu osobistego na skutek zgłoszenia utraty dowodu osobistego sposób określony art. 47 ustawy z dnia 6 sierpnia 2010 r. o dowodach osobistych (Dz. U. z 2022 r. poz. 671 oraz z 2023 r. poz. 1234) lub zgłoszenia podejrzenia nieuprawnionego wykorzystania danych osobowych sposób, o którym mowa art. 48a tej ustawy;
-- **2)** rejestracji rejestrze PESEL danych, o których mowa art. 8 pkt 26. ciwy do spraw informatyzacji.
+- **2)** rejestracji rejestrze PESEL danych, o których mowa art. 8 pkt 26.
 
-3. W przypadku, o którym mowa ust. 1 pkt 1, dane przekazywane są do rejestru zastrzeżeń numerów PESEL z Rejestru Dowodów Osobistych, o którym mowa art. 55 ust. 1 ustawy z dnia 6 sierpnia 2010 r. o dowodach osobistych, a przypadku, o którym mowa ust. 1 pkt 2 z rejestru PESEL.
+3. W przypadku, o którym mowa ust. 1 pkt 1, dane przekazywane są do rejestru zastrzeżeń numerów PESEL z Rejestru Dowodów Osobistych, o którym mowa art. 55 ust. 1 ustawy z dnia 6 sierpnia 2010 r. o dowodach osobistych, a przypadku, o którym mowa ust. 1 pkt 2 – z rejestru PESEL.
 
 **Art. 23h.**
 
@@ -181,8 +178,8 @@ o zmianie niektórych ustaw celu ograniczania niektórych skutków kradzieży to
 - **1)** uwierzytelnieniu zainteresowanego:
     - **a)** sposób określony art. 20a ust. 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne albo
     - **b)** przy użyciu certyfikatu, o którym mowa art. 19e ust. 2a ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne, wydanego użytkownikowi publicznej aplikacji mobilnej po uwierzytelnieniu sposób określony art. 20a ust. 1 tej ustawy, oraz
-    - **a)** numeru PESEL oraz serii i numeru ostatniego wydanego dowodu osobistego lub dokumentu paszportowego zamieszczonych rejestrze PESEL przypadku weryfikacji zastrzeżenia numeru PESEL obywatela polskiego,
-    - **b)** numeru PESEL oraz serii i numeru ostatniego dokumentu podróży cudzoziemca lub innego dokumentu potwierdzającego tożsamość i obywatelstwo zamieszczonego rejestrze PESEL przypadku weryfikacji zastrzeżenia numeru PESEL cudzoziemca.
+    - **a)** numeru PESEL oraz serii i numeru ostatniego wydanego dowodu osobistego lub dokumentu paszportowego zamieszczonych rejestrze PESEL – przypadku weryfikacji zastrzeżenia numeru PESEL obywatela polskiego,
+    - **b)** numeru PESEL oraz serii i numeru ostatniego dokumentu podróży cudzoziemca lub innego dokumentu potwierdzającego tożsamość i obywatelstwo zamieszczonego rejestrze PESEL – przypadku weryfikacji zastrzeżenia numeru PESEL cudzoziemca.
 
 3. Dane, o których mowa ust. 2 pkt 2, są automatycznie weryfikowane z danymi zamieszczonymi rejestrze PESEL. W przypadku negatywnej weryfikacji za pośrednictwem usługi, o której mowa ust. 1, przekazywana jest informacja o błędnych danych.
 
@@ -207,7 +204,7 @@ o zmianie niektórych ustaw celu ograniczania niektórych skutków kradzieży to
 
 5. Osobie, której dane są przetwarzane rejestrze zastrzeżeń numerów PESEL, umożliwia się nieodpłatne pobranie z rejestru zastrzeżeń numerów PESEL zaświadczenia zawierającego pełny lub częściowy odpis danych dotyczących tej osoby przetwarzanych rejestrze zastrzeżeń numerów PESEL. Pobranie zaświadczenia następuje przy użyciu usługi elektronicznej udostępnionej przez ministra właściwego do spraw informatyzacji, po uwierzytelnieniu sposób określony art. 20a ust. 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
 
-6. Zaświadczenie pobrane przy użyciu usługi, o której mowa ust. 5, jest opatrywane zaawansowaną pieczęcią elektroniczną ministra właściwego do spraw informatyzacji opartą na kwalifikowanym certyfikacie pieczęci elektronicznej. do informacji o tym, kto i kiedy dokonywał weryfikacji zastrzeżenia jej numeru PESEL. Wgląd następuje przy użyciu usługi elektronicznej udostępnionej przez ministra właściwego do spraw informatyzacji po uwierzytelnieniu:
+6. Zaświadczenie pobrane przy użyciu usługi, o której mowa ust. 5, jest opatrywane zaawansowaną pieczęcią elektroniczną ministra właściwego do spraw informatyzacji opartą na kwalifikowanym certyfikacie pieczęci elektronicznej. usługi elektronicznej udostępnionej przez ministra właściwego do spraw informatyzacji po uwierzytelnieniu:
 
 - **1)** sposób określony art. 20a ust. 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne albo
 - **2)** przy użyciu certyfikatu, o którym mowa art. 19e ust. 2a ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne, wydanego użytkownikowi publicznej aplikacji mobilnej po uwierzytelnieniu sposób określony art. 20a ust. 1 tej ustawy.
@@ -226,7 +223,7 @@ o zmianie niektórych ustaw celu ograniczania niektórych skutków kradzieży to
 
 - **1)** podmiotom, o których mowa art. 46 ust. 1, zakresie niezbędnym do realizacji ustawowych zadań;
 - **2)** podmiotom, o których mowa art. 46 ust. 2 pkt 1, po wykazaniu interesu faktycznego;
-- **3)** podmiotom, o których mowa art. 4 ust. 1 pkt 1, 17, 18 i 20 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe, oraz instytucji utworzonej na podstawie art. 105 ust. 4 tej ustawy;
+- **3)** podmiotom, o których mowa art. 4 ust. 1 pkt 1, 17, 18 i 20 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, oraz instytucji utworzonej na podstawie art. 105 ust. 4 tej ustawy;
 - **4)** notariuszom;
 - **5)** dostawcom publicznie dostępnych usług telekomunikacyjnych;
 - **6)** spółdzielczym kasom oszczędnościowo-kredytowym;
@@ -240,7 +237,7 @@ o zmianie niektórych ustaw celu ograniczania niektórych skutków kradzieży to
 
 4. Udostępnianie danych drodze weryfikacji, o której mowa ust. 1, polega na zweryfikowaniu informacji o zastrzeżeniu numeru PESEL chwili weryfikacji lub dniu określonym przez weryfikującego i udostępnieniu danych, o których mowa art. 23c ust. 1 pkt 2–5. Jeżeli z uwagi na brak zastrzeżenia numeru PESEL rejestrze zastrzeżeń numerów PESEL brak jest informacji o chwili cofnięcia zastrzeżenia, udostępnia się również informację o braku tej informacji.
 
-**Art. 23n.** Minister właściwy do spraw informatyzacji zapewnia sądom i Ministrowi Sprawiedliwości możliwość sprawdzenia, za pomocą urządzeń teletransmisji danych, informacji dotyczących dokonanych weryfikacji poszczególnych numerów PESEL rejestrze zastrzeżeń numerów PESEL wraz ze wskazaniem wyniku weryfikacji i podmiotów dokonujących weryfikacji, a przypadku dokonania weryfikacji trybie art. 23j ust. 1 także imienia, nazwiska oraz numeru PESEL osoby dokonującej weryfikacji. o których mowa art. 23m, minister właściwy do spraw informatyzacji, drodze decyzji administracyjnej:
+**Art. 23n.** Minister właściwy do spraw informatyzacji zapewnia sądom i Ministrowi Sprawiedliwości możliwość sprawdzenia, za pomocą urządzeń teletransmisji danych, informacji dotyczących dokonanych weryfikacji poszczególnych numerów PESEL rejestrze zastrzeżeń numerów PESEL wraz ze wskazaniem wyniku weryfikacji i podmiotów dokonujących weryfikacji, a przypadku dokonania weryfikacji trybie art. 23j ust. 1 – także imienia, nazwiska oraz numeru PESEL osoby dokonującej weryfikacji.
 
 **Art. 23p.** Minister właściwy do spraw informatyzacji określi, drodze rozporządzenia:
 
@@ -252,7 +249,7 @@ o zmianie niektórych ustaw celu ograniczania niektórych skutków kradzieży to
 
 **Art. 12.** W ustawie z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych (Dz. U. z 2023 r. poz. 875) art. 39:
 
-**Art. 13.** W ustawie z dnia 14 sierpnia 2020 r. o zmianie ustawy Prawo o ruchu drogowym oraz niektórych innych ustaw (Dz. U. poz. 1517) art. 1 pkt 24 lit. a tiret czwarte otrzymuje brzmienie: „– pkt 22 kropkę zastępuje się średnikiem i dodaje się pkt 23 brzmieniu: „23) o przekroczeniach terminów, o których mowa art. 78 ust. 2 pkt 1.”,”.
+**Art. 13.** W ustawie z dnia 14 sierpnia 2020 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw (Dz. U. poz. 1517) art. 1 pkt 24 lit. a tiret czwarte otrzymuje brzmienie: „– pkt 22 kropkę zastępuje się średnikiem i dodaje się pkt 23 brzmieniu: „23) o przekroczeniach terminów, o których mowa art. 78 ust. 2 pkt 1.”,”.
 
 **Art. 14.** W przypadku gdy pojazd został:
 
@@ -283,7 +280,7 @@ o zmianie niektórych ustaw celu ograniczania niektórych skutków kradzieży to
 
 1. Jeżeli kredyt konsumencki udzielany jest ramach umowy o charakterze ciągłym, regulującej zasady jego udzielania, zawartej przed dniem 1 czerwca 2024 r., do kredytów konsumenckich udzielanych okresie obowiązywania tej umowy nie stosuje się przepisu art. 9b ustawy zmienianej art. 9.
 
-2. Podmiot udzielający kredytu konsumenckiego ramach umów, o których mowa ust. 1, informuje konsumentów o braku obowiązku weryfikacji zastrzeżenia numeru PESEL. ustawy zmienianej art. 2 zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych na podstawie art. 76 ust. 1 pkt 1 lit. a, c i lit. d tiret pierwsze ustawy zmienianej art. 2, brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez okres 24 miesięcy od dnia wejścia życie niniejszej ustawy.
+2. Podmiot udzielający kredytu konsumenckiego ramach umów, o których mowa ust. 1, informuje konsumentów o braku obowiązku weryfikacji zastrzeżenia numeru PESEL. art. 76 ust. 1 pkt 1 lit. a, c i lit. d tiret pierwsze ustawy zmienianej art. 2, brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez okres 24 miesięcy od dnia wejścia życie niniejszej ustawy.
 
 2. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 80cf ust. 2 ustawy zmienianej art. 2 zachowują moc do dnia wejścia życie nowych przepisów wykonawczych wydanych na podstawie art. 80cf ust. 2 ustawy zmienianej art. 2, jednak nie dłużej niż przez okres 12 miesięcy od dnia wejścia życie niniejszej ustawy.
 
@@ -315,31 +312,31 @@ o zmianie niektórych ustaw celu ograniczania niektórych skutków kradzieży to
 
 1. W latach 2023–2032 maksymalny limit wydatków budżetu państwa z części będącej dyspozycji ministra właściwego do spraw informatyzacji przeznaczonych na pokrycie kosztów realizacji zadań związanych z wdrożeniem rozwiązań wynikających z niniejszej ustawy wynosi 15,1 mln zł, tym roku:
 
-- **1)** 2023 4,3 mln zł;
-- **2)** 2024 1,2 mln zł;
-- **3)** 2025 1,2 mln zł;
-- **4)** 2026 1,2 mln zł;
-- **5)** 2027 1,2 mln zł;
-- **6)** 2028 1,2 mln zł;
-- **7)** 2029 1,2 mln zł;
-- **8)** 2030 1,2 mln zł;
-- **9)** 2031 1,2 mln zł;
-- **10)** 2032 1,2 mln zł.
+- **1)** 2023 – 4,3 mln zł;
+- **2)** 2024 – 1,2 mln zł;
+- **3)** 2025 – 1,2 mln zł;
+- **4)** 2026 – 1,2 mln zł;
+- **5)** 2027 – 1,2 mln zł;
+- **6)** 2028 – 1,2 mln zł;
+- **7)** 2029 – 1,2 mln zł;
+- **8)** 2030 – 1,2 mln zł;
+- **9)** 2031 – 1,2 mln zł;
+- **10)** 2032 – 1,2 mln zł.
 
 2. W przypadku zagrożenia przekroczeniem przyjętego na dany rok budżetowy maksymalnego limitu wydatków, o którym mowa ust. 1, zostanie zastosowany mechanizm korygujący polegający na zmniejszeniu kosztów rzeczowych ponoszonych przez ministra właściwego do spraw informatyzacji związanych z realizacją zadań wynikających z niniejszej ustawy.
 
-3. Minister właściwy do spraw informatyzacji monitoruje wykorzystanie limitu wydatków, o którym mowa ust. 1, oraz wdraża mechanizmy korygujące, o których mowa ust. 2. wodów na finansowanie organów gmin realizujących zadania określone ustawie zmienianej art. 8, które są zadaniami zleconymi z zakresu administracji rządowej, będących skutkiem finansowym wejścia życie niniejszej ustawy, wynosi 19,31 mln zł, tym roku:
+3. Minister właściwy do spraw informatyzacji monitoruje wykorzystanie limitu wydatków, o którym mowa ust. 1, oraz wdraża mechanizmy korygujące, o których mowa ust. 2. zleconymi z zakresu administracji rządowej, będących skutkiem finansowym wejścia życie niniejszej ustawy, wynosi 19,31 mln zł, tym roku:
 
-- **1)** 2023 0,9 mln zł;
-- **2)** 2024 3,44 mln zł;
-- **3)** 2025 3,05 mln zł;
-- **4)** 2026 2,7 mln zł;
-- **5)** 2027 2,37 mln zł;
-- **6)** 2028 2,04 mln zł;
-- **7)** 2029 1,7 mln zł;
-- **8)** 2030 1,37 mln zł;
-- **9)** 2031 1,04 mln zł;
-- **10)** 2032 0,7 mln zł.
+- **1)** 2023 – 0,9 mln zł;
+- **2)** 2024 – 3,44 mln zł;
+- **3)** 2025 – 3,05 mln zł;
+- **4)** 2026 – 2,7 mln zł;
+- **5)** 2027 – 2,37 mln zł;
+- **6)** 2028 – 2,04 mln zł;
+- **7)** 2029 – 1,7 mln zł;
+- **8)** 2030 – 1,37 mln zł;
+- **9)** 2031 – 1,04 mln zł;
+- **10)** 2032 – 0,7 mln zł.
 
 2. W przypadku zagrożenia przekroczeniem przyjętego na dany rok budżetowy maksymalnego limitu wydatków, o którym mowa ust. 1, zostanie zastosowany mechanizm korygujący polegający na zmniejszeniu wydatków budżetu państwa będących skutkiem finansowym wejścia życie niniejszej ustawy.
 

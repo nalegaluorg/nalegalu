@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 24 stycznia 2024 r.
+# w sprawie ogłoszenia jednolitego tekstu ustawy o ochronie gruntów rolnych i leśnych
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 16 stycznia 2024 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000082) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/82/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 16 stycznia 2024 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o ochronie gruntów rolnych i leśnych
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych (Dz. U. z 2022 r. poz. 2409), z uwzględnieniem zmian wprowadzonych:
 1) ustawą z dnia 7 lipca 2023 r. o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym oraz niektórych innych ustaw (Dz. U. poz. 1688),
 2) ustawą z dnia 13 lipca 2023 r. o ułatwieniach w przygotowaniu i realizacji inwestycji w zakresie biogazowni rolniczych, a także ich funkcjonowaniu (Dz. U. poz. 1597) oraz zmian wynikających z przepisów ogłoszonych przed dniem 16 stycznia 2024 r.
@@ -218,7 +218,7 @@ o ochronie gruntów rolnych i leśnych
 
 6. Należność pomniejsza się o wartość gruntu, ustaloną według cen rynkowych stosowanych w danej miejscowości w obrocie gruntami, w dniu faktycznego wyłączenia tego gruntu z produkcji.
 
-7. Należność za wyłączenie z produkcji 1 ha gruntów rolnych wymienionych w art. 2 ust. 1 pkt 1, 3 i 5 wynosi: Grunty orne i sady, pod budynkami i urządzeniami wchodzącymi w skład gospodarstw rolnych oraz pod zadrzewieniami i zakrzewieniami śródpolnymi, w tym pod pasami przeciwwietrznymi i urządzeniami przeciwerozyjnymi Łąki i pastwiska trwałe, pod budynkami i urządzeniami wchodzącymi w skład gospodarstw rolnych oraz pod zadrzewieniami i zakrzewieniami śródpolnymi, w tym pod pasami przeciwwietrznymi i urządzeniami przeciwerozyjnymi klasa należność (w zł) klasa należność (w zł) wytworzone z gleb pochodzenia mineralnego i organicznego I 437 175 Ł i Ps I 437 175 II 378 885 Ł i Ps II 361 398 IIIa 320 595 Ł i Ps III 291 450 IIIb 262 305 wytworzone z gleb pochodzenia organicznego IVa 204 015 Ł i Ps IV 174 870 IVb 145 725 Ł V 145 725 V 116 580 Ps V 116 580 VI 87 435 Ł i Ps VI 87 435
+7. Należność za wyłączenie z produkcji 1 ha gruntów rolnych wymienionych w art. 2 ust. 1 pkt 1, 3 i 5 wynosi: Grunty orne i sady, pod budynkami i urządzeniami Łąki i pastwiska trwałe, pod budynkami wchodzącymi w skład gospodarstw rolnych oraz pod i urządzeniami wchodzącymi w skład gospodarstw zadrzewieniami i zakrzewieniami śródpolnymi, w tym rolnych oraz pod zadrzewieniami i zakrzewieniami pod pasami przeciwwietrznymi i urządzeniami śródpolnymi, w tym pod pasami przeciwwietrznymi przeciwerozyjnymi i urządzeniami przeciwerozyjnymi klasa należność (w zł) klasa należność (w zł) wytworzone z gleb pochodzenia mineralnego i organicznego I 437 175 Ł i Ps I 437 175 II 378 885 Ł i Ps II 361 398 IIIa 320 595 Ł i Ps III 291 450 IIIb 262 305 wytworzone z gleb pochodzenia organicznego IVa 204 015 Ł i Ps IV 174 870 IVb 145 725 Ł V 145 725 V 116 580 Ps V 116 580 VI 87 435 Ł i Ps VI 87 435
 
 8. (uchylony)
 

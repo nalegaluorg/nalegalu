@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 września 2021 Poz. 1773
+# Ustawa z dnia 11 sierpnia 2021 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw
+
+*USTAWA dnia 11 sierpnia 2021 o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych niektórych innych ustaw*
 
 | Pole | Wartość |
 |---|---|
@@ -23,8 +25,6 @@ domain: null
 | Data wydania | 2021-09-29 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001773) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1773/text.pdf) |
-
-USTAWA dnia 11 sierpnia 2021 o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych niektórych innych ustaw
 
 **Art. 1.** W ustawie dnia 27 sierpnia 2004 o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. 2021 poz. 1285, 1292 1559) wprowadza się następujące zmiany:
 

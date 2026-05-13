@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 28 stycznia 2026 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy o indywidualnych kontach emerytalnych oraz indywidualnych kontach zabezpieczenia emerytalnego
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 21 stycznia 2026 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2026-01-29 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000091) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/91/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 21 stycznia 2026 r.
-sprawie ogłoszenia jednolitego tekstu ustawy o indywidualnych kontach emerytalnych oraz indywidualnych kontach zabezpieczenia emerytalnego
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 20 kwietnia 2004 r. o indywidualnych kontach emerytalnych oraz indywidualnych kontach zabezpieczenia emerytalnego (Dz. U. z 2024 r. poz. 707), z uwzględnieniem zmian wprowadzonych ustawą z dnia 5 sierpnia 2025 r.
 o uchyleniu ustawy o Centralnej Informacji Emerytalnej (Dz. U. poz. 1216) oraz zmian wynikających z przepisów ogłoszonych przed dniem 16 stycznia 2026 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 15 ustawy z dnia 5 sierpnia 2025 r. o uchyleniu ustawy o Centralnej Informacji Emerytalnej (Dz. U. poz. 1216), który stanowi: „Art. 15. Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 2 pkt 6, art. 3 pkt 2, art. 4 pkt 2 lit. c i pkt 3, art. 6 pkt 4, art. 7 pkt 5 i art. 12 pkt 2 lit. b, które wchodzą życie z dniem 1 stycznia 2026 r.”.
@@ -79,7 +79,7 @@ Art. 41−45. (pominięte)
 - **1)** nie gromadzi środków na IKZE innej instytucji finansowej albo
 - **2)** gromadzi środki na IKZE innej instytucji finansowej, podając równocześnie nazwę tej instytucji i potwierdzając, że dokona ona wypłaty transferowej.
 
-2. Przed złożeniem oświadczenia, o którym mowa ust. 1, instytucja finansowa odbierająca takie oświadczenie jest obowiązana pouczyć oszczędzającego, że przypadku podania nieprawdy lub zatajenia prawdy podlega on odpowiedzialności przewidzianej art. 233 ustawy z dnia 6 czerwca 1997 r. Kodeks karny. W oświadczeniu, o którym mowa ust. 1, oszczędzający potwierdza, że został pouczony o odpowiedzialności karnej za złożenie fałszywego oświadczenia. pozwalającej na utrwalenie jej treści na trwałym nośniku, formie dokumentowej pozwalającej na utrwalenie jej treści na trwałym nośniku lub formie pisemnej, zwanej dalej „umową o prowadzenie IKE lub IKZE”:
+2. Przed złożeniem oświadczenia, o którym mowa ust. 1, instytucja finansowa odbierająca takie oświadczenie jest obowiązana pouczyć oszczędzającego, że przypadku podania nieprawdy lub zatajenia prawdy podlega on odpowiedzialności przewidzianej art. 233 ustawy z dnia 6 czerwca 1997 r. Kodeks karny. W oświadczeniu, o którym mowa ust. 1, oszczędzający potwierdza, że został pouczony o odpowiedzialności karnej za złożenie fałszywego oświadczenia. trwałym nośniku lub formie pisemnej, zwanej dalej „umową o prowadzenie IKE lub IKZE”:
 
 - **1)** z funduszem inwestycyjnym albo 1a) z dobrowolnym funduszem emerytalnym, albo
 - **2)** z podmiotem prowadzącym działalność maklerską o świadczenie usług polegających na wykonywaniu zleceń nabycia lub zbycia instrumentów finansowych i prowadzenie rachunku papierów wartościowych oraz rachunku pieniężnego, albo
@@ -117,7 +117,7 @@ Art. 41−45. (pominięte)
 
 1. Instytucja finansowa przyjmująca oświadczenie, o którym mowa art. 7 ust. 1 pkt 2, wydaje oszczędzającemu na IKE potwierdzenie zawarcia umowy o prowadzenie IKE, zwane dalej „potwierdzeniem zawarcia umowy IKE”.
 
-2. Instytucja finansowa wydaje oszczędzającemu potwierdzenie zawarcia umowy IKE także przypadku zamiaru dokonania transferu środków zgromadzonych programie emerytalnym na IKE oszczędzającego. wej, z którą oszczędzający zawarł umowę, i numer rachunku, na który należy dokonać wypłaty transferowej.
+2. Instytucja finansowa wydaje oszczędzającemu potwierdzenie zawarcia umowy IKE także przypadku zamiaru dokonania transferu środków zgromadzonych programie emerytalnym na IKE oszczędzającego.
 
 4. W przypadku dokonania wypłaty transferowej oszczędzający może dokonywać wpłat dopiero po wpływie środków będących przedmiotem wypłaty transferowej z dotychczasowej instytucji prowadzącej IKE, chyba że występuje sytuacja, o której mowa art. 14 ust. 1, a oszczędzający podpisał umowę o prowadzenie IKE z inną instytucją finansową.
 
@@ -284,7 +284,7 @@ Art. 41−45. (pominięte)
 
 1. W przypadku połączenia funduszy inwestycyjnych, fundusz przejmujący fundusz inwestycyjny, którym oszczędzający gromadził środki na IKE lub IKZE, powiadamia oszczędzającego, formie określonej umowie o prowadzenie IKE lub IKZE, terminie 14 dni od dnia dokonania połączenia o zajściu tego zdarzenia oraz o liczbie jednostek uczestnictwa przydzielonych oszczędzającemu i o ich wartości.
 
-2. Powiadomienie, o którym mowa ust. 1, zawiera informacje określone art. 14 ust. 2 wyłącznie przypadku, gdy fundusz inwestycyjny przejmujący IKE lub IKZE oszczędzającego nie prowadzi IKE lub IKZE. powoduje, że oszczędzający będzie posiadał jednostki uczestnictwa zapisane na IKE lub IKZE funduszach inwestycyjnych zarządzanych przez różne towarzystwa funduszy inwestycyjnych, stosuje się odpowiednio art. 14.
+2. Powiadomienie, o którym mowa ust. 1, zawiera informacje określone art. 14 ust. 2 wyłącznie przypadku, gdy fundusz inwestycyjny przejmujący IKE lub IKZE oszczędzającego nie prowadzi IKE lub IKZE. zarządzanych przez różne towarzystwa funduszy inwestycyjnych, stosuje się odpowiednio art. 14.
 
 #### Rozdział 4 IKE lub IKZE instytucjach prowadzących działalność maklerską
 
@@ -435,7 +435,7 @@ Art. 41−45. (pominięte)
 - **1)** szczegółowy zakres danych, tym szczególności dotyczących instytucji finansowej i oszczędzającego, podawanych przez instytucję finansową na dokumencie płatniczym, za pomocą którego przekazywana jest kwota, o której mowa ust. 3;
 - **2)** sposób i tryb przeliczania kwoty, o której mowa ust. 3, na podstawę wymiaru świadczenia.
 
-7. Instytucja finansowa, przypadku wypowiedzenia umowy o prowadzenie IKE przez którąkolwiek ze stron, jest obowiązana pouczyć oszczędzającego, że zwrotowi podlegają środki zgromadzone na IKE pomniejszone o należny podatek, a przypadku, o którym mowa ust. 3, również o kwotę stanowiącą 30 % sumy składek podstawowych wpłaconych do programu emerytalnego. Ponadto instytucja finansowa dokonując wypowiedzenia umowy, informuje oszczędzającego o możliwości dokonania wypłaty transferowej. oświadczenia o zapoznaniu się z konsekwencjami zwrotu, o których mowa ust. 7.
+7. Instytucja finansowa, przypadku wypowiedzenia umowy o prowadzenie IKE przez którąkolwiek ze stron, jest obowiązana pouczyć oszczędzającego, że zwrotowi podlegają środki zgromadzone na IKE pomniejszone o należny podatek, a przypadku, o którym mowa ust. 3, również o kwotę stanowiącą 30 % sumy składek podstawowych wpłaconych do programu emerytalnego. Ponadto instytucja finansowa dokonując wypowiedzenia umowy, informuje oszczędzającego o możliwości dokonania wypłaty transferowej.
 
 9. (uchylony)
 

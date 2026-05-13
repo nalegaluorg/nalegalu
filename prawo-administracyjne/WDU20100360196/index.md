@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# ustroju sądów administracyjnych (Dz. U. 153, poz. 1269, 2005 r. 169, poz. 1417 2009 r.
+# o zmianie ustawy – Prawo o ustroju sądów administracyjnych oraz ustawy – Prawo o postępowaniu przed sądami administracyjnymi
+
+*USTAWA z dnia 12 lutego 2010 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,27 +26,81 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100360196) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/196/text.pdf) |
 
-219, poz. 1706) wprowadza następujące zmiany:
-1) 10 otrzymuje brzmienie: „Art. 10. sądach administracyjnych są zatrudnieni asesorzy sądowi, starsi referendarze sądowi, referendarze sądowi, starsi asystenci sędziów, asystenci sędziów urzędnicy i inni pracownicy sądowi.”;
-2) 21:
-a) 1 otrzymuje brzmienie: „§ P rezesa i wiceprezesa sądu wojewódzkim sądzie administracyjnym powołuje Prezes Naczelnego Sądu Administracyjnego spośród sędziów wojewódzkiego sądu administracyjnego lub Naczelnego Sądu Administracyjnego, po zasięgnięciu opinii zgromadzenia ogólnego tego sądu i Kolegium Naczelnego Sądu Administracyjnego.”,
-b) po 1 dodaje 1a brzmieniu: „§ 1a. Prezes i wiceprezes sądu wojewódzkim sądzie administracyjnym są powoływani okres pięciu lat, najwyżej dwie kolejne kadencje.”;
-3) po 21 dodaje 21a brzmieniu: „Art. 21a. Prezes i wiceprezes sądu wojewódzkim sądzie administracyjnym mogą być odwołani przez Prezesa Naczelnego Sądu Administracyjnego toku kadencji przypadku:
-1) r ażącego niewywiązywania obowiązków służbowych,
-2) g dy dalszego pełnienia funkcji innych powodów da pogodzić dobrem wymiaru sprawiedliwości.
-Odwołanie prezesa i wiceprezesa sądu wojewódzkim sądzie administracyjnym następuje po zasięgnięciu opinii zgromadzenia ogólnego cji przez prezesa albo wiceprezesa sądu wojewódzkim sądzie administracyjnym rezygnacji pełnionej funkcji, Prezes Naczelnego Sądu Administracyjnego odwołuje go bez zasięgania opinii, której mowa
-2.”;
-4) 27 otrzymuje brzmienie: „Art. 27. Na stanowisko referendarza sądowego, wykonywania czynności postępowaniu mediacyjnym innych czynności sędziowskich określonych ustawach, może być mianowany ten, kto spełnia wymagania określone 6 1 pkt 1—3 pozostawał co najmniej trzy lata stanowiskach związanych ze stosowaniem lub tworzeniem prawa administracyjnego.
-Na stanowisko starszego referendarza sądowego może być mianowany referendarz sądowy, który zajmował stanowisko referendarza sądowego przez co najmniej dziesięć lat, był karany za przewinienia dyscyplinarne, a także uzyskiwał pozytywne okresowe oceny kwalifikacyjne.”;
-5) po 27 dodaje 27a brzmieniu: „Art. 27a. Na stanowisku asystenta sędziego, samodzielnego wykonywania czynności administracji sądowej czynności przygotowania spraw sądowych ich rozpoznania, może być zatrudniony ten, kto spełnia wytego sądu i Kolegium Naczelnego Sądu Administracyjnego. przymagania określone 6 1 pkt 1—3.
-Na stanowisku starszego asystenta sędziego może być zatrudniony asystent sędziego, który zajmował stanowisko asystenta sędziego przez co najmniej pięć lat, był karany za przewinienia dyscyplinarne, a także uzyskiwał pozytywne okresowe oceny kwalifikacyjne.”;
-6) 28 i 29 otrzymują brzmienie: „Art. 28. Prezydent Rzeczypospolitej Polskiej określa, drodze rozporządzenia, stanowiska wego poziomu funkcjonowania sekretariatów sądowych wysokiego poziomu kultury pracy, sprawności, racjonalności, szybkości i profesjonalizmu przy wykonywaniu czynności niezbędnych sprawnego przebiegu postępowania.
+**Art. 1.** W ustawie z dnia 25 lipca 2002 r. – Prawo o ustroju sądów administracyjnych (Dz. U. Nr 153, poz. 1269, z 2005 r. Nr 169, poz. 1417 oraz z 2009 r. Nr 219, poz. 1706) wprowadza się następujące zmiany:
 
-**Art. 29.** sprawach nieuregulowanych ustawie wojewódzkich sądów administracyjnych sędziów, asesorów sądowych, starszych referendarzy sądowych, referendarzy sądowych, starszych asystentów sędziów, asystentów sędziów, urzędników i innych pracowników tych sądów stosuje odpowiednio przepisy ustroju sądów powszechnych tym, że starszych asystentów sędziów stosuje odpowiednio przepisy dotyczące asystentów sędziów, wynagrodzeń sędziów stosuje przepisy dotyczące sędziów sądu apelacyjnego, a wynagrodzeń asesorów sądowych przepisy dotyczące sędziów sądu okręgowego. Określone tych przepisach uprawnienia Ministra Sprawiedliwości przysługują Prezesowi Naczelnego Sądu Administracyjnego.”;
+**Art. 29.** W sprawach nieuregulowanych w ustawie do wojewódzkich sądów administracyjnych oraz sędziów, asesorów sądowych, starszych referendarzy sądowych, referendarzy sądowych, starszych asystentów sędziów, asystentów sędziów, urzędników i innych pracownipowszechnych z tym, że do starszych asystentów sędziów stosuje się odpowiednio przepisy dotyczące asystentów sędziów, do wynagrodzeń sędziów stosuje się przepisy dotyczące sędziów sądu apelacyjnego, a do wynagrodzeń asesorów sądowych - przepisy dotyczące sędziów sądu okręgowego. Określone w tych przepisach uprawnienia Ministra Sprawiedliwości przysługują Prezesowi Naczelnego Sądu Administracyjnego.”;
 
-**Art. 285a.** Skarga stwierdzenie niezgodności prawem prawomocnego orzeczenia przysługuje prawomocnego orzeczenia wojewódzkiego sądu administracyjnego, gdy przez jego wydanie została stronie wyrządzona szkoda, a zmiana lub uchylenie orzeczenia drodze innych przysługujących stronie środków prawnych było i jest możliwe. Skarga, której mowa 1, przysługuje również wyjątkowych przypadkach prawomocnego orzeczenia wojewódzkiego sądu adszenia norm prawa Unii Europej- nia wnosi sądu, który wydał skiej. Orzeczenia Naczelnego Sądu zaskarżone orzeczenie, terminie Administracyjnego traktuje jak dwóch lat dnia jego uprawomocorzeczenia wydane postępowaniu nienia się. wywołanym wniesieniem skargi. 4. Skarga stwierdzenie niezgodności razie stwierdzenia niezachowania prawem prawomocnego orzecze- warunków formalnych określonych nia podlega opłacie stałej. 285e 2, przewodniczący wzywa poprawienie lub uzupełArt. 285b. przypadkach, których mowa nienie skargi. 285a 1, 2 i 3 skargę stwierdzeniezgodności prawem prawomoc- 3. Skargę nieopłaconą, skargę wnienego orzeczenia może wnieść także Pro- sioną naruszeniem 175 1 kurator Generalny lub Rzecznik Praw skargę, której braków strona Obywatelskich. uzupełniła terminie, sąd odArt. 285c. Od tego samego orzeczenia strona mo- rzuca posiedzeniu niejawnym. że wnieść tylko jedną skargę stwier- Art. 285g. P doręczeniu skargi stwierdzenie niedzenie niezgodności prawem prawo- zgodności prawem prawomocnego mocnego orzeczenia. orzeczenia stronie przeciwnej, a gdy
+**Art. 2.** W ustawie z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. Nr 153, poz. 1270, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 285d.** Skargę stwierdzenie niezgodności skargę wniósł Prokurator Generalny lub prawem prawomocnego orzeczenia Rzecznik Praw Obywatelskich obymożna oprzeć podstawie naruszenia dwu stronom, wojewódzki sąd adminiprawa materialnego lub przepisów po- stracyjny przedstawia niezwłocznie akta stępowania, które spowodowały nie- sprawy Naczelnemu Sądowi Adminizgodność orzeczenia prawem, gdy stracyjnemu. przez jego wydanie stronie została wy- Art. 285h. N aczelny Sąd Administracyjny odrządzona szkoda. Podstawą skargi rzuca posiedzeniu niejawnym mogą być jednak zarzuty dotyczące skargę stwierdzenie niezgodności ustalenia faktów lub oceny dowodów. prawem prawomocnego orzeczeArt. 285e. S karga stwierdzenie niezgodności nia, jeżeli ulegała ona odrzuceniu prawem prawomocnego orzecze- przez sąd niższej instancji, skargę nia powinna zawierać: wniesioną po upływie terminu,
+**Art. 285a.**
 
-**Art. 285l.** przypadkach nieuregulowanych prze- zagranicznego stosuje odpowiednio pisami niniejszego działu postępowa- przepisy ustroju sądów powszechnych nia wywołanego wniesieniem skargi przepisy Kodeksu postępowania stwierdzenie niezgodności prawem cywilnego dotyczące międzynarodoweprawomocnego orzeczenia stosuje go postępowania cywilnego.”. odpowiednio przepisy skardze kasacyj- Art. 3. Wydane podstawie przepisów dotychnej.”; czasowych akty powołania prezesów i wiceprezesów sądu wojewódzkich sądach administracyjnych
+§ 1. Skarga o stwierdzenie niezgodności z prawem prawomocnego orzeczenia przysługuje od prawomocnego orzeczenia wojewódzkiego sądu administracyjnego, gdy przez jego wydanie została stronie wyrządzona szkoda, a zmiana lub uchylenie orzeczenia w drodze innych przysługujących stronie środków prawnych nie było i nie jest możliwe.
+
+§ 2. Skarga, o której mowa w § 1, przysługuje również w wyjątkowych przypadkach od prawomocnego orzeczenia wojewódzkiego sądu administracyjnego, jeżeli strony nie skorzystały z przysługujących im środków prawnych, gdy niezgodność z prawem wynika z naruszenia podstawowych zasad porządku prawnego lub konstytucyjnych wolności albo praw człowieka i obywatela, chyba że jest możliwa zmiana lub uchylenie orzeczenia w drodze innych przysługujących stronie środków prawnych.
+
+§ 3. Od orzeczeń Naczelnego Sądu Administracyjnego skarga nie przysługuje, z wyjątkiem gdy niezgodność z prawem wynika z rażącego naruszenia norm prawa Unii Europejskiej. Orzeczenia Naczelnego Sądu Administracyjnego traktuje się jak orzeczenia wydane w postępowaniu wywołanym wniesieniem skargi.
+
+§ 4. Skarga o stwierdzenie niezgodności z prawem prawomocnego orzeczenia podlega opłacie stałej.
+
+**Art. 285b.** W przypadkach, o których mowa w art. 285a §1, 2 i 3 skargę o stwierdzenie niezgodności z prawem prawomocnego orzeczenia może wnieść także Prokurator Generalny lub Rzecznik Praw Obywatelskich.
+
+**Art. 285c.** Od tego samego orzeczenia strona może wnieść tylko jedną skargę o stwierdzenie niezgodności z prawem prawomocnego orzeczenia.
+
+**Art. 285d.** Skargę o stwierdzenie niezgodności z prawem prawomocnego orzeczenia można oprzeć na podstawie naruszenia prawa materialnego lub przepisów postępowania, które spowodowały niezgodność orzeczenia z prawem, gdy przez jego wydanie stronie została wyrządzona szkoda. Podstawą skargi nie mogą być jednak zarzuty dotyczące ustalenia faktów lub oceny dowodów.
+
+**Art. 285e.**
+
+§ 1. Skarga o stwierdzenie niezgodności z prawem prawomocnego orzeczenia powinna zawierać:
+
+- **1)** oznaczenie orzeczenia, od którego jest wniesiona, ze wskazaniem, czy jest ono zaskarżone w całości lub w części;
+- **2)** przytoczenie jej podstaw oraz ich uzasadnienie;
+- **3)** wskazanie przepisu prawa, z którym zaskarżone orzeczenie jest niezgodne;
+- **4)** uprawdopodobnienie wyrządzenia szkody, spowodowanej przez wydanie orzeczenia, którego skarga dotyczy; innych środków prawnych nie było i nie jest możliwe, a ponadto - gdy skargę wniesiono stosując art. 285a § 2 - że występuje wyjątkowy przypadek uzasadniający wniesienie skargi;
+- **6)** wniosek o stwierdzenie niezgodności orzeczenia z prawem.
+
+§ 2. Skarga powinna czynić zadość wymaganiom przewidzianym dla pisma strony. Do skargi – oprócz jej odpisów dla doręczenia ich stronom i uczestnikom postępowania – dołącza się dwa odpisy przeznaczone do akt Naczelnego Sądu Administracyjnego.
+
+**Art. 285f.**
+
+§ 1. Skargę o stwierdzenie niezgodności z prawem prawomocnego orzeczenia wnosi się do sądu, który wydał zaskarżone orzeczenie, w terminie dwóch lat od dnia jego uprawomocnienia się.
+
+§ 2. W razie stwierdzenia niezachowania warunków formalnych określonych w art. 285e § 2, przewodniczący wzywa o poprawienie lub uzupełnienie skargi.
+
+§ 3. Skargę nieopłaconą, skargę wniesioną z naruszeniem art. 175 §1 oraz skargę, której braków strona nie uzupełniła w terminie, sąd odrzuca na posiedzeniu niejawnym.
+
+**Art. 285g.** Po doręczeniu skargi o stwierdzenie niezgodności z prawem prawomocnego orzeczenia stronie przeciwnej, a gdy skargę wniósł Prokurator Generalny lub Rzecznik Praw Obywatelskich - obydwu stronom, wojewódzki sąd administracyjny przedstawia niezwłocznie akta sprawy Naczelnemu Sądowi Administracyjnemu.
+
+**Art. 285h.**
+
+§ 1. Naczelny Sąd Administracyjny odrzuca na posiedzeniu niejawnym skargę o stwierdzenie niezgodności z prawem prawomocnego orzeczenia, jeżeli ulegała ona odrzuceniu przez sąd niższej instancji, skargę wniesioną po upływie terminu, skargę niespełniającą wymagań określonych w art. 285e §1, jak również skargę z innych przyczyn niedopuszczalną.
+
+§ 2. Skarga podlega także odrzuceniu, jeżeli zmiana zaskarżonego orzeczenia w drodze innych środków prawnych była lub jest możliwa albo jeżeli nie zachodzi wyjątek, o którym mowa w art. 285a § 2.
+
+**Art. 285i.**
+
+§ 1. Naczelny Sąd Administracyjny rozpoznaje skargę o stwierdzenie niezgodności z prawem prawomocnego orzeczenia w składzie trzech sędziów.
+
+§ 2. Sędzia, który brał udział w wydaniu orzeczenia objętego skargą, jest wyłączony od orzekania w postępowaniu co do tej skargi.
+
+**Art. 285j.** Naczelny Sąd Administracyjny rozpoznaje skargę o stwierdzenie niezgodności z prawem prawomocnego orzeczenia w granicach zaskarżenia oraz w granicach podstaw. Skarga podlega rozpoznaniu na posiedzeniu niejawnym, chyba że ważne względy przemawiają za wyznaczeniem rozprawy.
+
+**Art. 285k.**
+
+§ 1. Naczelny Sąd Administracyjny oddala skargę o stwierdzenie niezgodności z prawem prawomocnego orzeczenia w razie braku zgodne z prawem.
+
+§ 2. Uwzględniając skargę Naczelny Sąd Administracyjny stwierdza, że orzeczenie jest w zaskarżonym zakresie niezgodne z prawem.
+
+§ 3. Jeżeli sprawa ze względu na osobę lub przedmiot nie podlegała orzecznictwu sądów w chwili orzekania, Naczelny Sąd Administracyjny - stwierdzając niezgodność orzeczenia z prawem unieważnia zaskarżone orzeczenie oraz orzeczenie sądu pierwszej instancji i odrzuca skargę.
+
+**Art. 285l.** W przypadkach nieuregulowanych przepisami niniejszego działu do postępowania wywołanego wniesieniem skargi o stwierdzenie niezgodności z prawem prawomocnego orzeczenia stosuje się odpowiednio przepisy o skardze kasacyjnej.”;
+
+**Art. 3.** Wydane na podstawie przepisów dotychczasowych akty powołania prezesów i wiceprezesów sądu w wojewódzkich sądach administracyjnych oraz wiceprezesów Naczelnego Sądu Administracyjnego stają się aktami powołania na pięcioletnią kadencję, której bieg rozpoczyna się z dniem wejścia w życie niniejszej ustawy.
+
+**Art. 4.**
+
+1. Skarga o stwierdzenie niezgodności z prawem prawomocnego orzeczenia przysługuje także od orzeczeń, które stały się prawomocne od dnia 1 stycznia 2004 r., a przed dniem wejścia w życie niniejszej ustawy.
+
+2. Skargę, o której mowa w ust. 1, można wnieść w terminie dwóch lat od dnia wejścia w życie niniejszej ustawy.
+
+**Art. 5.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
 

@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 4 września 2019 r.
+# o zmianie ustawy – Kodeks postępowania karnego oraz niektórych innych ustaw
+
+*USTAWA z dnia 19 lipca 2019 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,16 +26,13 @@ domain: null
 | Ostatnia zmiana | 2024-11-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001694) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1694/text.pdf) |
 
-USTAWA z dnia 19 lipca 2019 r.
-o zmianie ustawy Kodeks postępowania karnego oraz niektórych innych ustaw
+**Art. 1.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2018 r. poz. 1987 i 2399 oraz z 2019 r. poz. 150, 679 i 1255) wprowadza się następujące zmiany:
 
-**Art. 1.** W ustawie z dnia 6 czerwca 1997 r. Kodeks postępowania karnego (Dz. U. z 2018 r. poz. 1987 i 2399 oraz z 2019 r. poz. 150, 679 i 1255) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. z 2019 r. poz. 676 i 679) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie z dnia 6 czerwca 1997 r. Kodeks karny wykonawczy (Dz. U. z 2019 r. poz. 676 i 679) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. z 2018 r. poz. 1958, z późn. zm. ) 122 1 pkt 1 po wyrazach „art. 192 2,” dodaje się wyrazy „art. 198 1,”.
 
-**Art. 3.** W ustawie z dnia 10 września 1999 r. Kodeks karny skarbowy (Dz. U. z 2018 r. poz. 1958, z późn. zm. ) 122 1 pkt 1 po wyrazach „art. 192 2,” dodaje się wyrazy „art. 198 1,”.
-
-**Art. 4.** W ustawie z dnia 24 sierpnia 2001 r. Kodeks postępowania sprawach o wykroczenia (Dz. U. z 2019 r. poz. 1120, 1123 i 1556) wprowadza się następujące zmiany:
+**Art. 4.** W ustawie z dnia 24 sierpnia 2001 r. – Kodeks postępowania sprawach o wykroczenia (Dz. U. z 2019 r. poz. 1120, 1123 i 1556) wprowadza się następujące zmiany:
 
 **Art. 6.** W razie wątpliwości, czy stosować prawo dotychczasowe, czy przepisy niniejszej ustawy, stosuje się przepisy niniejszej ustawy.
 
@@ -61,7 +60,7 @@ o zmianie ustawy Kodeks postępowania karnego oraz niektórych innych ustaw
 
 **Art. 16.** W postępowaniach wszczętych przed dniem wejścia życie niniejszej ustawy na skutek wniesienia apelacji do czasu jej rozpoznania nie stosuje się przepisów 427 3a, 447 6 oraz 452 2 pkt 2 i 3 ustawy, o której mowa 1, brzmieniu nadanym niniejszą ustawą.
 
-**Art. 17.** Jeżeli stronie, która wniosła apelację, doręczono uzupełnione uzasadnienie okresie od czternastego dnia przed dniem wejścia życie niniejszej ustawy do dnia poprzedzającego dzień jej wejścia życie, termin do uzupełnienia apelacji, określony 449a 3 ustawy, o której mowa 1, biegnie od dnia wejścia życie niniejszej ustawy. jeżeli wyrok nakazowy został wydany przed dniem wejścia życie niniejszej ustawy.
+**Art. 17.** Jeżeli stronie, która wniosła apelację, doręczono uzupełnione uzasadnienie okresie od czternastego dnia przed dniem wejścia życie niniejszej ustawy do dnia poprzedzającego dzień jej wejścia życie, termin do uzupełnienia apelacji, określony 449a 3 ustawy, o której mowa 1, biegnie od dnia wejścia życie niniejszej ustawy.
 
 **Art. 19.** Postępowania, o których mowa rozdziale 58 ustawy, o której mowa 1, toczą się do zakończenia postępowania danej instancji na podstawie przepisów dotychczasowych.
 

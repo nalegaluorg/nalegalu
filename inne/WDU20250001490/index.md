@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 października 2025 r.
+# o transporcie drogowym
+
+*USTAWA z dnia 6 września 2001 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,30 +26,7 @@ domain: null
 | Ostatnia zmiana | 2026-03-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001490) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1490/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 20 października 2025 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o transporcie drogowym
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2024 r. poz. 1539), z uwzględnieniem zmian wprowadzonych:
-1) ustawą z dnia 28 lipca 2023 r. o delegowaniu kierowców w transporcie drogowym (Dz. U. poz. 1523 oraz z 2024 r.
-poz. 1544),
-2) ustawą z dnia 25 września 2024 r. o zmianie ustawy o delegowaniu kierowców w transporcie drogowym oraz niektórych innych ustaw (Dz. U. poz. 1544),
-3) ustawą z dnia 21 listopada 2024 r. o zmianie ustawy o transporcie drogowym (Dz. U. poz. 1855) oraz zmian wynikających z przepisów ogłoszonych przed dniem 30 września 2025 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 48a i art. 49 ustawy z dnia 28 lipca 2023 r. o delegowaniu kierowców w transporcie drogowym (Dz. U. poz. 1523 oraz z 2024 r. poz. 1544), które stanowią: „Art. 48a. Przepisy art. 39 pkt 4, 5, 8, pkt 11 lit. b, pkt 12–14, 18 i 19 oraz art. 43, w zakresie dotyczącym wykonywania międzynarodowego przewozu drogowego rzeczy, o którym mowa w art. 28 ust. 1a ustawy zmienianej w art. 39, stosuje się od dnia 1 stycznia 2025 r.” „Art. 49. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
-1) art. 4 ust. 2, który wchodzi w życie z dniem 21 sierpnia 2023 r.;
-2) art. 39 pkt 4, 5, 8, pkt 11 lit. b, pkt 12–14, 18 i 19 oraz art. 43, które wchodzą w życie z dniem 1 listopada 2024 r.”;
-2) art. 5 ustawy z dnia 25 września 2024 r. o zmianie ustawy o delegowaniu kierowców w transporcie drogowym oraz niektórych innych ustaw (Dz. U. poz. 1544), który stanowi: „Art. 5. Ustawa wchodzi w życie z dniem 1 listopada 2024 r., z wyjątkiem art. 4, który wchodzi w życie z dniem ogłoszenia, z mocą od dnia 1 września 2024 r.”;
-3) art. 2–4 ustawy z dnia 21 listopada 2024 r. o zmianie ustawy o transporcie drogowym (Dz. U. poz. 1855), które stanowią: „Art. 2. W terminie 60 dni od dnia wejścia w życie niniejszej ustawy Główny Inspektor Transportu Drogowego opracowuje po raz pierwszy jednolitą krajową strategię kontroli, o której mowa w art. 54 ust. 2 pkt 5a ustawy zmienianej w art. 1.
 Art. 97–103. (pominięte)
-
-**Art. 3.**
-
-1. Do postępowań administracyjnych w zakresie zezwoleń i licencji, o których mowa w art. 7a ustawy zmienianej w art. 1, wszczętych i niezakończonych decyzją ostateczną przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
-
-2. Do postępowań administracyjnych w zakresie zezwoleń, o których mowa w art. 19 ust. 1 i art. 29 ust. 1 ustawy zmienianej w art. 1, wszczętych i niezakończonych decyzją ostateczną przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
-
-3. Do postępowań administracyjnych w zakresie uzyskania zaświadczenia, o którym mowa w art. 33 ust. 1 ustawy zmienianej w art. 1, wszczętych i niezakończonych decyzją ostateczną przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
-
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Marszałek Sejmu: S. Hołownia USTAWA z dnia 6 września 2001 r. o transporcie drogowym
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -78,7 +57,7 @@ Art. 97–103. (pominięte)
 
 1. Przepisów ustawy nie stosuje się do przewozu drogowego wykonywanego pojazdami samochodowymi lub zespołami pojazdów:
 
-- **1)** przeznaczonymi konstrukcyjnie do przewozu nie więcej niż 9 osób łącznie z kierowcą w niezarobkowym przewozie drogowym osób;
+- **1)** przeznaczonymi konstrukcyjnie do przewozu nie więcej niż 9 osób łącznie z kierowcą – w niezarobkowym przewozie drogowym osób;
 - **2)** o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 tony:
     - **a)** w krajowym transporcie drogowym rzeczy, w przypadku gdy przedsiębiorca wykonuje wyłącznie krajowy transport drogowy rzeczy,
     - **b)** w niezarobkowym przewozie drogowym rzeczy;
@@ -88,7 +67,7 @@ Art. 97–103. (pominięte)
 
 1a. Przepisy ustawy stosuje się do kontroli przez Inspekcję Transportu Drogowego:
 
-- **1)** przestrzegania przepisów ruchu drogowego przez kierujących pojazdami na zasadach określonych w ustawie z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym (Dz. U. z 2024 r. poz. 1251 oraz z 2025 r. poz. 820 i 1006);
+- **1)** przestrzegania przepisów ruchu drogowego przez kierujących pojazdami na zasadach określonych w ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2024 r. poz. 1251 oraz z 2025 r. poz. 820 i 1006);
 - **2)** prawidłowości uiszczenia opłaty elektronicznej, o której mowa w art. 13 ust. 1 pkt 3 ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2025 r. poz. 889).
 - **3)** (uchylony)
 - **4)** przestrzegania przepisów dotyczących delegowania kierowców w transporcie drogowym na zasadach określonych w ustawie z dnia 28 lipca 2023 r. o delegowaniu kierowców w transporcie drogowym (Dz. U. z 2025 r. poz. 797).
@@ -98,7 +77,7 @@ Art. 97–103. (pominięte)
 - **1)** w ramach powszechnych usług pocztowych,
 - **2)** w ramach usług polegających na przewozie odpadów komunalnych lub nieczystości ciekłych,
 - **3)** przez podmioty niebędące przedsiębiorcami,
-- **4)** w ramach usuwania skutków awarii lub wypadków pojazdami pomocy drogowej stosuje się odpowiednio przepisy ustawy dotyczące niezarobkowego przewozu drogowego.
+- **4)** w ramach usuwania skutków awarii lub wypadków pojazdami pomocy drogowej – stosuje się odpowiednio przepisy ustawy dotyczące niezarobkowego przewozu drogowego.
 
 **Art. 4.** Użyte w ustawie określenia oznaczają:
 
@@ -112,12 +91,12 @@ Art. 97–103. (pominięte)
 
 2a. Za przestępstwa w dziedzinach określonych w art. 6 ust. 1 lit. a rozporządzenia (WE) nr 1071/2009 w zakresie spełniania wymogu dobrej reputacji uznaje się przestępstwa umyślne określone w:
 
-- **1)** art. 173–175, art. 178–180, art. 189a, art. 218–221, art. 296–306 i art. 308 ustawy z dnia 6 czerwca 1997 r. Kodeks karny (Dz. U. z 2025 r. poz. 383);
-- **2)** art. 586–589 ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96);
-- **3)** art. 522 i art. 523 ustawy z dnia 28 lutego 2003 r. Prawo upadłościowe (Dz. U. z 2025 r. poz. 614, 1085, 1170 i 1172);
+- **1)** art. 173–175, art. 178–180, art. 189a, art. 218–221, art. 296–306 i art. 308 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2025 r. poz. 383);
+- **2)** art. 586–589 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96);
+- **3)** art. 522 i art. 523 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2025 r. poz. 614, 1085, 1170 i 1172);
 - **4)** art. 54–61, art. 62 ust. 2, art. 62b ust. 2 i art. 66 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 2023 r. poz. 1939);
-- **5)** art. 399 i art. 400 ustawy z dnia 15 maja 2015 r. Prawo restrukturyzacyjne (Dz. U. z 2024 r. poz. 1428 oraz z 2025 r. poz. 1085, 1170 i 1172);
-- **6)** art. 54 § 1 i 2, art. 55 § 1 i 2, art. 60 § 1 i 2, art. 62 § 1–4, art. 65 § 1–2b, art. 67 § 1 i 2, art. 69a § 1, art. 69b § 1, art. 69c § 1, art. 73a, art. 76a § 1 i 2 ustawy z dnia 10 września 1999 r. Kodeks karny skarbowy (Dz. U. z 2025 r. poz. 633).
+- **5)** art. 399 i art. 400 ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne (Dz. U. z 2024 r. poz. 1428 oraz z 2025 r. poz. 1085, 1170 i 1172);
+- **6)** art. 54 § 1 i 2, art. 55 § 1 i 2, art. 60 § 1 i 2, art. 62 § 1–4, art. 65 § 1–2b, art. 67 § 1 i 2, art. 69a § 1, art. 69b § 1, art. 69c § 1, art. 73a, art. 76a § 1 i 2 ustawy z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. z 2025 r. poz. 633).
 
 2b. W przypadku gdy do skazania doszło poza terytorium Rzeczypospolitej Polskiej, za przestępstwa w dziedzinach określonych w art. 6 ust. 1 lit. a rozporządzenia (WE) nr 1071/2009 w zakresie spełniania wymogu dobrej reputacji uznaje się przestępstwa odpowiadające znamionom przestępstw wymienionych w ust. 2a.
 
@@ -136,7 +115,7 @@ Art. 97–103. (pominięte)
 
 2. Licencji wspólnotowej udziela się przedsiębiorcy, jeżeli posiada zezwolenie na wykonywanie zawodu przewoźnika drogowego.
 
-3. Licencja wspólnotowa, o której mowa w ust. 1, jest zezwoleniem w rozumieniu ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236, z późn. zm. ).
+3. Licencja wspólnotowa, o której mowa w ust. 1, jest zezwoleniem w rozumieniu ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236, z późn. zm. ).
 
 **Art. 5b.**
 
@@ -144,22 +123,22 @@ Art. 97–103. (pominięte)
 
 - **1)** samochodem osobowym,
 - **2)** pojazdem samochodowym przeznaczonym konstrukcyjnie do przewozu powyżej 7 i nie więcej niż 9 osób łącznie z kierowcą,
-- **3)** taksówką wymaga uzyskania odpowiedniej licencji.
+- **3)** taksówką – wymaga uzyskania odpowiedniej licencji.
 
 2. Podjęcie i wykonywanie transportu drogowego w zakresie pośrednictwa przy przewozie:
 
 - **1)** rzeczy,
-- **2)** osób wymaga uzyskania odpowiedniej licencji.
+- **2)** osób – wymaga uzyskania odpowiedniej licencji.
 
 3. Licencji, o której mowa w ust. 1 i 2, udziela się na czas oznaczony, nie krótszy niż 2 lata i nie dłuższy niż 50 lat, uwzględniając wniosek strony.
 
-4. Licencja, o której mowa w ust. 1 i 2, jest zezwoleniem w rozumieniu ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców.
+4. Licencja, o której mowa w ust. 1 i 2, jest zezwoleniem w rozumieniu ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
 
 **Art. 5c.**
 
 1. Licencji, o której mowa w art. 5b ust. 1 pkt 1 i 2, udziela się przedsiębiorcy, jeżeli:
 
-- **1)** członkowie organu zarządzającego osoby prawnej, osoby zarządzające spółką jawną lub komandytową, a w przypadku innego przedsiębiorcy osoby prowadzące działalność gospodarczą:
+- **1)** członkowie organu zarządzającego osoby prawnej, osoby zarządzające spółką jawną lub komandytową, a w przypadku innego przedsiębiorcy – osoby prowadzące działalność gospodarczą:
     - **a)** nie zostały skazane prawomocnym wyrokiem za przestępstwa karne skarbowe lub przestępstwa umyślne: przeciwko bezpieczeństwu w komunikacji, mieniu, obrotowi gospodarczemu, wiarygodności dokumentów, środowisku lub warunkom pracy i płacy albo inne mające związek z wykonywaniem zawodu,
     - **b)** nie wydano im prawomocnego orzeczenia zakazującego wykonywania działalności gospodarczej w zakresie transportu drogowego;
 
@@ -214,7 +193,7 @@ Art. 97–103. (pominięte)
 4. Licencja, o której mowa w ust. 1, jest udzielana na określony obszar obejmujący:
 
 - **1)** gminę;
-- **2)** gminy sąsiadujące po uprzednim zawarciu przez nie porozumienia;
+- **2)** gminy sąsiadujące – po uprzednim zawarciu przez nie porozumienia;
 - **3)** miasto stołeczne Warszawę.
 
 5. Dopuszcza się wykonywanie przewozu z obszaru określonego w licencji poza ten obszar, lecz bez prawa świadczenia usług przewozowych poza obszarem określonym w tej licencji, z wyjątkiem przewozu wykonywanego w drodze powrotnej lub w przypadku złożenia zamówienia przez klienta z innego obszaru.
@@ -229,7 +208,7 @@ Art. 97–103. (pominięte)
 
 2. Organem właściwym w sprawach udzielenia, odmowy udzielenia, zmiany oraz zawieszenia lub cofnięcia zezwolenia na wykonywanie zawodu przewoźnika drogowego jest:
 
-- **1)** starosta właściwy dla siedziby przedsiębiorcy określonej w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym (KRS), a w przypadku przedsiębiorców będących osobami fizycznymi adresu stałego miejsca wykonywania działalności gospodarczej określonego w Centralnej Ewidencji i Informacji o Działalności Gospodarczej (CEIDG);
+- **1)** starosta właściwy dla siedziby przedsiębiorcy określonej w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym (KRS), a w przypadku przedsiębiorców będących osobami fizycznymi – adresu stałego miejsca wykonywania działalności gospodarczej określonego w Centralnej Ewidencji i Informacji o Działalności Gospodarczej (CEIDG);
 - **2)** Główny Inspektor Transportu Drogowego, w przypadku ubiegania się o licencję wspólnotową, jeżeli przedsiębiorca nie występował z wnioskiem o wydanie zezwolenia na wykonywanie zawodu przewoźnika drogowego przez organ, o którym mowa w pkt 1.
 
 3. Udzielenie, odmowa udzielenia, zmiana lub cofnięcie licencji wspólnotowej oraz licencji, o której mowa w art. 5b ust. 1 i 2, następuje w drodze decyzji administracyjnej.
@@ -237,7 +216,7 @@ Art. 97–103. (pominięte)
 4. Organem właściwym w sprawach udzielenia, odmowy udzielenia, zmiany lub cofnięcia:
 
 - **1)** licencji wspólnotowej jest Główny Inspektor Transportu Drogowego;
-- **2)** licencji na wykonywanie krajowego transportu drogowego w zakresie przewozu osób samochodem osobowym, licencji na wykonywanie krajowego transportu drogowego pojazdem samochodowym przeznaczonym konstrukcyjnie do przewozu powyżej 7 i nie więcej niż 9 osób łącznie z kierowcą lub licencji na wykonywanie transportu drogowego w zakresie pośrednictwa przy przewozie rzeczy jest starosta właściwy dla siedziby przedsiębiorcy określonej w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym (KRS), a w przypadku przedsiębiorców będących osobami fizycznymi adresu stałego miejsca wykonywania działalności gospodarczej określonego w Centralnej Ewidencji i Informacji o Działalności Gospodarczej (CEIDG);
+- **2)** licencji na wykonywanie krajowego transportu drogowego w zakresie przewozu osób samochodem osobowym, licencji na wykonywanie krajowego transportu drogowego pojazdem samochodowym przeznaczonym konstrukcyjnie do przewozu powyżej 7 i nie więcej niż 9 osób łącznie z kierowcą lub licencji na wykonywanie transportu drogowego w zakresie pośrednictwa przy przewozie rzeczy jest starosta właściwy dla siedziby przedsiębiorcy określonej w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym (KRS), a w przypadku przedsiębiorców będących osobami fizycznymi – adresu stałego miejsca wykonywania działalności gospodarczej określonego w Centralnej Ewidencji i Informacji o Działalności Gospodarczej (CEIDG);
 - **3)** licencji na wykonywanie krajowego transportu drogowego w zakresie przewozu osób taksówką:
     - **a)** na obszarze, o którym mowa w art. 6 ust. 4 pkt 1, jest wójt, burmistrz lub prezydent miasta,
     - **b)** na obszarze, o którym mowa w art. 6 ust. 4 pkt 2, jest wójt, burmistrz lub prezydent miasta właściwy dla siedziby albo miejsca zamieszkania przedsiębiorcy,
@@ -251,29 +230,29 @@ Art. 97–103. (pominięte)
 
 2. Wniosek, o którym mowa w ust. 1, zawiera:
 
-- **1)** oznaczenie przedsiębiorcy, jego adres i siedzibę określoną w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym (KRS) albo w przypadku przedsiębiorców będących osobami fizycznymi adres stałego miejsca wykonywania działalności gospodarczej określonego w Centralnej Ewidencji i Informacji o Działalności Gospodarczej (CEIDG) oraz adresy lokali, o których mowa w art. 5 ust. 1 lit. a rozporządzenia (WE) nr 1071/2009;
+- **1)** oznaczenie przedsiębiorcy, jego adres i siedzibę określoną w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym (KRS) albo w przypadku przedsiębiorców będących osobami fizycznymi – adres stałego miejsca wykonywania działalności gospodarczej określonego w Centralnej Ewidencji i Informacji o Działalności Gospodarczej (CEIDG) oraz adresy lokali, o których mowa w art. 5 ust. 1 lit. a rozporządzenia (WE) nr 1071/2009;
 - **2)** (uchylony)
 - **3)** informację o wpisie do Centralnej Ewidencji i Informacji o Działalności Gospodarczej (CEIDG) albo numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym (KRS), jeżeli są wymagane;
 - **4)** numer identyfikacji podatkowej (NIP);
 - **5)** określenie rodzaju transportu drogowego;
 - **6)** określenie rodzaju i liczby pojazdów samochodowych, które przedsiębiorca będzie wykorzystywał do wykonywania transportu drogowego;
-- **6a)** w przypadku pojazdu najmowanego określenie rodzaju i liczby pojazdów samochodowych, które przedsiębiorca będzie wykorzystywał do wykonywania transportu drogowego;
+- **6a)** w przypadku pojazdu najmowanego – określenie rodzaju i liczby pojazdów samochodowych, które przedsiębiorca będzie wykorzystywał do wykonywania transportu drogowego;
 - **7)** imię i nazwisko, adres zamieszkania oraz numer certyfikatu kompetencji zawodowych osoby zarządzającej transportem, o której mowa w art. 4 ust. 1 rozporządzenia (WE) nr 1071/2009 albo osoby, o której mowa w art. 4 ust. 2 rozporządzenia (WE) nr 1071/2009;
 - **8)** określenie liczby wypisów z zezwolenia na wykonywanie zawodu przewoźnika drogowego lub z licencji wspólnotowej;
-- **9)** w przypadku licencji wspólnotowej określenie czasu, na który ma być ona udzielona.
+- **9)** w przypadku licencji wspólnotowej – określenie czasu, na który ma być ona udzielona.
 
 3. Do wniosku o udzielenie zezwolenia na wykonywanie zawodu przewoźnika drogowego dołącza się:
 
 - **1)** oświadczenie osoby zarządzającej transportem następującej treści: „Oświadczam, że zgodnie z art. 4 ust. 1 rozporządzenia (WE) nr 1071/2009 będę pełnić rolę zarządzającego transportem” oraz kopię certyfikatu kompetencji zawodowych tej osoby albo oświadczenie osoby uprawnionej na podstawie umowy do wykonywania zadań zarządzającego transportem w imieniu przedsiębiorcy, że spełnia warunki, o których mowa w art. 4 ust. 2 lit. c rozporządzenia (WE) nr 1071/2009, oraz kopię certyfikatu kompetencji zawodowych tej osoby;
 - **2)** dokumenty potwierdzające spełnienie warunków, o których mowa w art. 7 rozporządzenia (WE) nr 1071/2009;
 - **3)** oświadczenie przedsiębiorcy, że dysponuje bazą eksploatacyjną wraz ze wskazaniem adresu bazy, jeżeli adres ten jest inny niż adres wskazany zgodnie z ust. 2 pkt 1;
-- **3a)** dokumenty, o których mowa w art. 11d ust. 2 w przypadku wykorzystywania do wykonywania transportu drogowego pojazdu najmowanego;
+- **3a)** dokumenty, o których mowa w art. 11d ust. 2 – w przypadku wykorzystywania do wykonywania transportu drogowego pojazdu najmowanego;
 - **4)** (uchylony)
 - **5)** dowód uiszczenia opłaty za wydanie zezwolenia na wykonywanie zawodu przewoźnika drogowego i wypisów z tego zezwolenia;
 - **6)** informację z Krajowego Rejestru Karnego dotyczącą osoby:
-    - **a)** będącej członkiem organu zarządzającego osoby prawnej, osoby zarządzającej spółką jawną lub komandytową, dyrektora wykonawczego, o którym mowa w art. 300 ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych,
-    - **b)** prowadzącej działalność gospodarczą w przypadku innego przedsiębiorcy,
-    - **c)** zarządzającej transportem lub uprawnionej na podstawie umowy do wykonywania zadań zarządzającego transportem w imieniu przedsiębiorcy o niekaralności za przestępstwa w dziedzinach określonych w art. 6 ust. 1 lit. a rozporządzenia (WE) nr 1071/2009, wymienione w art. 5 ust. 2a;
+    - **a)** będącej członkiem organu zarządzającego osoby prawnej, osoby zarządzającej spółką jawną lub komandytową, dyrektora wykonawczego, o którym mowa w art. 300 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych,
+    - **b)** prowadzącej działalność gospodarczą – w przypadku innego przedsiębiorcy,
+    - **c)** zarządzającej transportem lub uprawnionej na podstawie umowy do wykonywania zadań zarządzającego transportem w imieniu przedsiębiorcy – o niekaralności za przestępstwa w dziedzinach określonych w art. 6 ust. 1 lit. a rozporządzenia (WE) nr 1071/2009, wymienione w art. 5 ust. 2a;
 
 - **7)** oświadczenie osób, o których mowa w pkt 6, o niekaralności za poważne naruszenie, o którym mowa w art. 6 ust. 1 lit. b rozporządzenia (WE) nr 1071/2009, w tym najpoważniejsze naruszenie określone w załączniku IV do rozporządzenia (WE) nr 1071/2009;
 - **8)** oświadczenie osób, o których mowa w pkt 6, o nieskazaniu poza terytorium Rzeczypospolitej Polskiej za przestępstwa w dziedzinach określonych w art. 6 ust. 1 lit. a rozporządzenia (WE) nr 1071/2009 w zakresie spełniania wymogu dobrej reputacji, które znamionami odpowiadają przestępstwom wymienionym w art. 5 ust. 2a.
@@ -323,12 +302,12 @@ Art. 97–103. (pominięte)
 
 1. Organ, o którym mowa w art. 7 ust. 2, wszczyna postępowanie administracyjne w zakresie spełniania wymogu dobrej reputacji przewoźnika drogowego, zarządzającego transportem lub osoby fizycznej, o której mowa w art. 7c, jeżeli wobec:
 
-- **1)** członka organu zarządzającego osoby prawnej, osoby zarządzającej spółką jawną, komandytową lub komandytowo-akcyjną, dyrektora wykonawczego, o którym mowa w art. 300 ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych, osoby fizycznej prowadzącej działalność gospodarczą, zarządzającego transportem lub osoby fizycznej, o której mowa w art. 7c, został wydany prawomocny wyrok skazujący za przestępstwo w dziedzinach określonych w art. 6 ust. 1 lit. a rozporządzenia (WE) nr 1071/2009 w zakresie spełniania wymogu dobrej reputacji wymienione w art. 5 ust. 2a i 2b;
+- **1)** członka organu zarządzającego osoby prawnej, osoby zarządzającej spółką jawną, komandytową lub komandytowo-akcyjną, dyrektora wykonawczego, o którym mowa w art. 300 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych, osoby fizycznej prowadzącej działalność gospodarczą, zarządzającego transportem lub osoby fizycznej, o której mowa w art. 7c, został wydany prawomocny wyrok skazujący za przestępstwo w dziedzinach określonych w art. 6 ust. 1 lit. a rozporządzenia (WE) nr 1071/2009 w zakresie spełniania wymogu dobrej reputacji wymienione w art. 5 ust. 2a i 2b;
 - **2)** przewoźnika drogowego, zarządzającego transportem lub osoby fizycznej, o której mowa w art. 7c:
     - **a)** wydano wykonalną decyzję administracyjną lub wykonalne decyzje administracyjne o nałożeniu kary pieniężnej za naruszenie określone w załączniku nr 3 lub 4 do niniejszej ustawy lub załączniku nr 1 do ustawy z dnia 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych, które zgodnie z załącznikiem I do rozporządzenia Komisji (UE) 2016/403 z dnia 18 marca 2016 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (WE) nr 1071/2009 w odniesieniu do klasyfikacji poważnych naruszeń przepisów unijnych, które mogą prowadzić do utraty dobrej reputacji przez przewoźnika drogowego, oraz zmieniającego załącznik III do dyrektywy 2006/22/WE Parlamentu Europejskiego i Rady (Dz. Urz. UE L 74 z 19.03.2016, str. 8), zwanego dalej „rozporządzeniem Komisji (UE) 2016/403”, zostało zakwalifikowane jako poważne naruszenie lub bardzo poważne naruszenie, jeżeli częstotliwość występowania naruszeń, zgodnie z załącznikiem II do tego rozporządzenia, wymaga oceny dobrej reputacji,
     - **b)** wydano wykonalną decyzję administracyjną o nałożeniu kary pieniężnej za naruszenie określone w załączniku nr 3 lub 4 do niniejszej ustawy lub załączniku nr 1 do ustawy z dnia 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych, które zgodnie z załącznikiem I do rozporządzenia Komisji (UE) 2016/403 zostało zakwalifikowane jako najpoważniejsze naruszenie, lub
-    - **c)** orzeczono lub nałożono prawomocnie karę w innym państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronie umowy o Europejskim Obszarze Gospodarczym za naruszenie, które zgodnie z załącznikiem I do rozporządzenia Komisji (UE) 2016/403 zostało zakwalifikowane jako: najpoważniejsze naruszenie, poważne naruszenie lub bardzo poważne naruszenie, jeżeli częstotliwość występowania naruszeń, zgodnie z załącznikiem II do tego rozporządzenia, wymaga oceny dobrej reputacji,
-    - **d)** został wydany prawomocny wyrok skazujący za przestępstwo w dziedzinach określonych w art. 6 ust. 1 lit. b rozporządzenia (WE) nr 1071/2009 popełnionych w państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronie umowy o Europejskim Obszarze Gospodarczym.
+    - **c)** orzeczono lub nałożono prawomocnie karę w innym państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym za naruszenie, które zgodnie z załącznikiem I do rozporządzenia Komisji (UE) 2016/403 zostało zakwalifikowane jako: – najpoważniejsze naruszenie, – poważne naruszenie lub bardzo poważne naruszenie, jeżeli częstotliwość występowania naruszeń, zgodnie z załącznikiem II do tego rozporządzenia, wymaga oceny dobrej reputacji,
+    - **d)** został wydany prawomocny wyrok skazujący za przestępstwo w dziedzinach określonych w art. 6 ust. 1 lit. b rozporządzenia (WE) nr 1071/2009 popełnionych w państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym.
 
 1a. Organ, o którym mowa w art. 7 ust. 2, wszczyna postępowanie administracyjne w zakresie spełniania wymogu dobrej reputacji przewoźnika drogowego, jeżeli wobec kierowcy wykonującego przewóz na rzecz tego przewoźnika drogowego orzeczono lub nałożono w drodze mandatu karnego lub mandatów karnych prawomocnie karę za wykroczenie stanowiące naruszenie określone w załączniku nr 1 do niniejszej ustawy lub załączniku nr 1 do ustawy z dnia 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych, które zgodnie z załącznikiem I do rozporządzenia Komisji (UE) 2016/403 zostało zakwalifikowane jako:
 
@@ -348,13 +327,13 @@ Art. 97–103. (pominięte)
 
 5. Po przeprowadzeniu postępowania administracyjnego organ, o którym mowa w art. 7 ust. 2:
 
-- **1)** wydaje decyzję stwierdzającą utratę dobrej reputacji w przypadku uznania, że utrata dobrej reputacji będzie stanowiła proporcjonalną reakcję za popełnione naruszenia, albo
-- **2)** wydaje decyzję stwierdzającą, że dobra reputacja pozostaje nienaruszona w przypadku uznania, że utrata dobrej reputacji będzie stanowiła nieproporcjonalną reakcję za popełnione naruszenia.
+- **1)** wydaje decyzję stwierdzającą utratę dobrej reputacji – w przypadku uznania, że utrata dobrej reputacji będzie stanowiła proporcjonalną reakcję za popełnione naruszenia, albo
+- **2)** wydaje decyzję stwierdzającą, że dobra reputacja pozostaje nienaruszona – w przypadku uznania, że utrata dobrej reputacji będzie stanowiła nieproporcjonalną reakcję za popełnione naruszenia.
 
 6. W przypadku wydania decyzji, o której mowa w ust. 5 pkt 1:
 
 - **1)** wymóg dobrej reputacji nie jest spełniony;
-- **2)** organ, o którym mowa w art. 7 ust. 2, zawiesza zezwolenie na wykonywanie zawodu przewoźnika drogowego do czasu zastosowania środka rehabilitacyjnego, o którym mowa w art. 7e.
+- **2)** organ, o którym mowa w art. 7 ust. 2, zawiesza zezwolenie na wykonywanie zawodu przewoźnika drogowego – do czasu zastosowania środka rehabilitacyjnego, o którym mowa w art. 7e.
 
 7. Wykonywanie transportu drogowego w przypadku, gdy przedsiębiorcy zawieszono zezwolenie na wykonywanie zawodu przewoźnika drogowego, jest równoznaczne z wykonywaniem przewozu bez zezwolenia.
 
@@ -372,15 +351,15 @@ Art. 97–103. (pominięte)
     - **b)** w przypadku licencji, o której mowa w art. 5b ust. 2 pkt 2;
 
 - **3)** numer identyfikacji podatkowej (NIP);
-- **4)** określenie rodzaju i zakresu transportu drogowego, a w zakresie transportu drogowego taksówką także obszaru wykonywania przewozu;
+- **4)** określenie rodzaju i zakresu transportu drogowego, a w zakresie transportu drogowego taksówką – także obszaru wykonywania przewozu;
 - **5)** określenie czasu, na który licencja ma być udzielona;
-- **6)** określenie rodzaju i liczby pojazdów samochodowych, które przedsiębiorca będzie wykorzystywał do wykonywania transportu drogowego w przypadku wykonywania transportu drogowego w zakresie, o którym mowa w art. 5b ust. 1;
-- **7)** określenie liczby wypisów z licencji w przypadku wykonywania transportu drogowego w zakresie, o którym mowa w art. 5b ust. 1.
+- **6)** określenie rodzaju i liczby pojazdów samochodowych, które przedsiębiorca będzie wykorzystywał do wykonywania transportu drogowego – w przypadku wykonywania transportu drogowego w zakresie, o którym mowa w art. 5b ust. 1;
+- **7)** określenie liczby wypisów z licencji – w przypadku wykonywania transportu drogowego w zakresie, o którym mowa w art. 5b ust. 1.
 
 3. Do wniosku o udzielenie licencji, o której mowa w art. 5b ust. 1 i 2, dołącza się:
 
 - **1)** oświadczenie osoby zarządzającej transportem następującej treści: „Oświadczam, że zgodnie z art. 5c ust. 2 pkt 3 ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2025 r. poz. 1490) będę pełnić rolę osoby zarządzającej transportem drogowym w przedsiębiorstwie” oraz kopię certyfikatu kompetencji zawodowych tej osoby;
-- **2)** oświadczenie członków organu zarządzającego osoby prawnej, osoby zarządzającej spółką jawną lub komandytową, a w przypadku innego przedsiębiorcy osoby prowadzącej działalność gospodarczą, że spełnia wymóg dobrej reputacji, o którym mowa w art. 5c ust. 1 pkt 1;
+- **2)** oświadczenie członków organu zarządzającego osoby prawnej, osoby zarządzającej spółką jawną lub komandytową, a w przypadku innego przedsiębiorcy – osoby prowadzącej działalność gospodarczą, że spełnia wymóg dobrej reputacji, o którym mowa w art. 5c ust. 1 pkt 1;
 - **3)** dokumenty potwierdzające spełnienie warunku, o którym mowa w art. 5c ust. 2 pkt 2 albo ust. 2a pkt 2;
 - **3a)** dokumenty potwierdzające spełnienie wymagań, o których mowa w art. 39a ust. 1 pkt 2‒4;
 - **4)** zaświadczenie o niekaralności opatrzone datą nie wcześniejszą niż miesiąc przed złożeniem wniosku, potwierdzające, że odpowiednio przedsiębiorca osobiście wykonujący przewozy, zatrudnieni przez niego kierowcy oraz osoby niezatrudnione przez przedsiębiorcę, lecz wykonujące osobiście przewóz na jego rzecz, spełniają warunki, o których mowa w art. 5c ust. 1 pkt 4 lub w art. 6 ust. 1 pkt 2;
@@ -397,9 +376,9 @@ Art. 97–103. (pominięte)
 
 5. Przy składaniu wniosku, o którym mowa w ust. 1, nie dołącza się dokumentów, o których mowa w ust. 3:
 
-- **1)** pkt 1 i 3 gdy wniosek dotyczy licencji, o których mowa w art. 5b ust. 1;
-- **2)** pkt 3a, 4 i 5 gdy wniosek dotyczy licencji, o której mowa w art. 5b ust. 2 pkt 1;
-- **3)** pkt 1, 3a, 4 i 5 gdy wniosek dotyczy licencji, o której mowa w art. 5b ust. 2 pkt 2.
+- **1)** pkt 1 i 3 – gdy wniosek dotyczy licencji, o których mowa w art. 5b ust. 1;
+- **2)** pkt 3a, 4 i 5 – gdy wniosek dotyczy licencji, o której mowa w art. 5b ust. 2 pkt 1;
+- **3)** pkt 1, 3a, 4 i 5 – gdy wniosek dotyczy licencji, o której mowa w art. 5b ust. 2 pkt 2.
 
 6. Oświadczenia, o których mowa w ust. 3 pkt 1 i 2, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy/a odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań.
 
@@ -417,12 +396,12 @@ Art. 97–103. (pominięte)
 - **4)** podstawę prawną;
 - **5)** przedsiębiorcę, jego adres i siedzibę albo miejsce zamieszkania;
 - **6)** rodzaj i zakres transportu drogowego;
-- **7)** oznaczenie obszaru przewozów w przypadku licencji na wykonywanie krajowego transportu drogowego w zakresie przewozu osób taksówką;
+- **7)** oznaczenie obszaru przewozów – w przypadku licencji na wykonywanie krajowego transportu drogowego w zakresie przewozu osób taksówką;
 - **8)** termin ważności.
 
 2. Organ udzielający zezwolenia na wykonywanie zawodu przewoźnika drogowego, o którym mowa w art. 7 ust. 2, wydaje wypis lub wypisy z tego zezwolenia w liczbie nie większej niż liczba pojazdów samochodowych określonych we wniosku o udzielenie zezwolenia, dla których został udokumentowany wymóg zdolności finansowej, zgodnie z art. 7 rozporządzenia (WE) nr 1071/2009.
 
-2a. W przypadku utraty uprawnień wynikających z licencji wspólnotowej organem właściwym w sprawach wynikających z zezwolenia na wykonywanie zawodu przewoźnika drogowego, wydanego przez organ, o którym mowa w art. 7 ust. 2 pkt 2, jest starosta właściwy dla siedziby przedsiębiorcy określonej w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym (KRS), a w przypadku przedsiębiorców będących osobami fizycznymi adresu stałego miejsca wykonywania działalności gospodarczej określonego w Centralnej Ewidencji i Informacji o Działalności Gospodarczej (CEIDG).
+2a. W przypadku utraty uprawnień wynikających z licencji wspólnotowej organem właściwym w sprawach wynikających z zezwolenia na wykonywanie zawodu przewoźnika drogowego, wydanego przez organ, o którym mowa w art. 7 ust. 2 pkt 2, jest starosta właściwy dla siedziby przedsiębiorcy określonej w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym (KRS), a w przypadku przedsiębiorców będących osobami fizycznymi – adresu stałego miejsca wykonywania działalności gospodarczej określonego w Centralnej Ewidencji i Informacji o Działalności Gospodarczej (CEIDG).
 
 2b. W przypadku, o którym mowa w ust. 2a, organ, o którym mowa w art. 7 ust. 2 pkt 2, przekazuje akta sprawy w terminie 30 dni od dnia utraty uprawnień.
 
@@ -439,7 +418,7 @@ Art. 97–103. (pominięte)
 - **1)** posiadania wypisów z tego zezwolenia lub tej licencji w łącznej liczbie przekraczającej liczbę pojazdów, dla których został udokumentowany wymóg zdolności finansowej, zgodnie z art. 7 rozporządzenia (WE) nr 1071/2009;
 - **2)** wykorzystywania do wykonywania krajowego transportu drogowego lub międzynarodowego transportu drogowego pojazdów samochodowych:
     - **a)** niezgłoszonych organowi wydającemu zezwolenie na wykonywanie zawodu przewoźnika drogowego,
-    - **b)** zarejestrowanych poza terytorium Rzeczypospolitej Polskiej, z wyjątkiem sytuacji, o której mowa w art. 11d ust. 1 w przypadku przedsiębiorców mających siedzibę na terytorium Rzeczypospolitej Polskiej.
+    - **b)** zarejestrowanych poza terytorium Rzeczypospolitej Polskiej, z wyjątkiem sytuacji, o której mowa w art. 11d ust. 1 – w przypadku przedsiębiorców mających siedzibę na terytorium Rzeczypospolitej Polskiej.
 
 2. Przedsiębiorca jest obowiązany zwrócić ponadliczbowe wypisy do organu, który je wydał w terminie 7 dni od dnia, w którym łączna liczba wypisów przekroczyła liczbę pojazdów, dla których został udokumentowany wymóg zdolności finansowej, zgodnie z art. 7 rozporządzenia (WE) nr 1071/2009.
 
@@ -455,9 +434,10 @@ Art. 97–103. (pominięte)
 
 **Art. 11d.**
 
-- **24)** 1. Dopuszcza się wykonywanie krajowego transportu drogowego rzeczy, międzynarodowego transportu drogowego rzeczy, niezarobkowego krajowego przewozu drogowego rzeczy oraz niezarobkowego międzynarodowego przewozu drogowego rzeczy pojazdem najmowanym przez przedsiębiorców mających siedzibę na terytorium Rzeczypospolitej Polskiej, pod warunkiem że korzystanie z takiego pojazdu nie trwa dłużej niż przez:
-- **1)** trzy kolejne miesiące w danym roku kalendarzowym od dnia zgłoszenia pojazdu do właściwego organu w przypadku wykonywania krajowego transportu drogowego rzeczy lub międzynarodowego transportu drogowego rzeczy;
-- **2)** dwa kolejne miesiące w danym roku kalendarzowym od dnia zgłoszenia pojazdu do właściwego organu w przypadku wykonywania niezarobkowego krajowego przewozu drogowego rzeczy lub niezarobkowego międzynarodowego przewozu drogowego rzeczy.
+1. Dopuszcza się wykonywanie krajowego transportu drogowego rzeczy, międzynarodowego transportu drogowego rzeczy, niezarobkowego krajowego przewozu drogowego rzeczy oraz niezarobkowego międzynarodowego przewozu drogowego rzeczy pojazdem najmowanym przez przedsiębiorców mających siedzibę na terytorium Rzeczypospolitej Polskiej, pod warunkiem że korzystanie z takiego pojazdu nie trwa dłużej niż przez:
+
+- **1)** trzy kolejne miesiące w danym roku kalendarzowym od dnia zgłoszenia pojazdu do właściwego organu – w przypadku wykonywania krajowego transportu drogowego rzeczy lub międzynarodowego transportu drogowego rzeczy;
+- **2)** dwa kolejne miesiące w danym roku kalendarzowym od dnia zgłoszenia pojazdu do właściwego organu – w przypadku wykonywania niezarobkowego krajowego przewozu drogowego rzeczy lub niezarobkowego międzynarodowego przewozu drogowego rzeczy.
 
 2. Spełnienie warunków, o których mowa w ust. 1, potwierdza się przez przedstawienie, w formie pisemnej w postaci papierowej lub w postaci elektronicznej, umowy najmu pojazdu lub poświadczonego wyciągu z tej umowy zawierającego w szczególności nazwę lub imię i nazwisko wynajmującego i najemcy, datę i okres obowiązywania umowy oraz oznaczenie pojazdu najmowanego.
 
@@ -465,11 +445,12 @@ Art. 97–103. (pominięte)
 
 4. Numer rejestracyjny pojazdu najmowanego jest wpisywany do Krajowego Rejestru Elektronicznego Przedsiębiorców Transportu Drogowego zgodnie z art. 16 ust. 2 lit. g rozporządzenia (WE) nr 1071/2009. Przepisy art. 16 ust. 2 akapit trzeci i piąty oraz ust. 3 tego rozporządzenia stosuje się odpowiednio.
 
-5. Do pojazdów najmowanych nie stosuje się przepisu art. 73aa ust. 1 ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym.
+5. Do pojazdów najmowanych nie stosuje się przepisu art. 73aa ust. 1 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym.
 
 **Art. 11e.**
 
-- **24)** 1. Dopuszcza się korzystanie z pojazdu najmowanego lub pojazdu zarejestrowanego na terytorium Rzeczypospolitej Polskiej przez przedsiębiorców mających siedzibę w innym państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronie umowy o Europejskim Obszarze Gospodarczym w celu wykonywania przewozów na terytorium Rzeczypospolitej Polskiej, pod warunkiem że:
+1. Dopuszcza się korzystanie z pojazdu najmowanego lub pojazdu zarejestrowanego na terytorium Rzeczypospolitej Polskiej przez przedsiębiorców mających siedzibę w innym państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym w celu wykonywania przewozów na terytorium Rzeczypospolitej Polskiej, pod warunkiem że:
+
 - **1)** pojazd jest używany zgodnie z rozporządzeniem (WE) nr 1071/2009 i rozporządzeniem (WE) nr 1072/2009, jeżeli przepisy te mają zastosowanie do wykonywanego przewozu;
 - **2)** umowa dotyczy wyłącznie najmu pojazdu bez kierowcy i nie towarzyszy jej umowa o świadczenie usług zawarta z tym samym przedsiębiorcą dotycząca kierowców lub personelu towarzyszącego;
 - **3)** pojazd jest prowadzony przez personel przedsiębiorcy będącego najemcą pojazdu;
@@ -477,7 +458,7 @@ Art. 97–103. (pominięte)
 
 2. Spełnienie warunków, o których mowa w ust. 1, potwierdza się przez przedstawienie w postaci papierowej lub elektronicznej:
 
-- **1)** w przypadku gdy kierowca nie jest najemcą pojazdu umowy o pracę kierowcy lub poświadczonego wyciągu z tej umowy zawierającego w szczególności nazwę lub imię i nazwisko pracodawcy, nazwisko pracownika oraz datę i okres obowiązywania umowy, lub ostatniej karty płacy;
+- **1)** w przypadku gdy kierowca nie jest najemcą pojazdu – umowy o pracę kierowcy lub poświadczonego wyciągu z tej umowy zawierającego w szczególności nazwę lub imię i nazwisko pracodawcy, nazwisko pracownika oraz datę i okres obowiązywania umowy, lub ostatniej karty płacy;
 - **2)** dokumentów, o których mowa w art. 11d ust. 2.
 
 **Art. 12.**
@@ -495,7 +476,7 @@ Art. 97–103. (pominięte)
 2. Organ, który udzielił zezwolenia na wykonywanie zawodu przewoźnika drogowego, licencji wspólnotowej lub licencji, o której mowa w art. 5b ust. 1 lub 2, przenosi, w drodze decyzji administracyjnej, uprawnienia z nich wynikające w razie:
 
 - **1)** (uchylony)
-- **2)** połączenia, podziału lub przekształcenia, zgodnie z przepisami ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych, nabycia przedsiębiorstwa, o którym mowa w art. 45b ustawy z dnia 5 lipca 2018 r. o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwieniach związanych z sukcesją przedsiębiorstw (Dz. U. z 2021 r. poz. 170), albo sprzedaży przedsiębiorstwa, zgodnie z przepisami ustawy z dnia 28 lutego 2003 r. Prawo upadłościowe, przedsiębiorcy posiadającego zezwolenie na wykonywanie zawodu przewoźnika drogowego lub licencję pod warunkiem spełnienia przez przedsiębiorcę przejmującego uprawnienia wynikające z zezwolenia na wykonywanie zawodu przewoźnika drogowego wymagań określonych w rozporządzeniu (WE) nr 1071/2009 lub pod warunkiem spełnienia przez przedsiębiorcę przejmującego uprawnienia wynikające z licencji wymagań odpowiednio określonych w art. 5a lub art. 5c ust. 1 lub 2, lub art. 6 ust. 1.
+- **2)** połączenia, podziału lub przekształcenia, zgodnie z przepisami ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych, nabycia przedsiębiorstwa, o którym mowa w art. 45b ustawy z dnia 5 lipca 2018 r. o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwieniach związanych z sukcesją przedsiębiorstw (Dz. U. z 2021 r. poz. 170), albo sprzedaży przedsiębiorstwa, zgodnie z przepisami ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe, przedsiębiorcy posiadającego zezwolenie na wykonywanie zawodu przewoźnika drogowego lub licencję – pod warunkiem spełnienia przez przedsiębiorcę przejmującego uprawnienia wynikające z zezwolenia na wykonywanie zawodu przewoźnika drogowego wymagań określonych w rozporządzeniu (WE) nr 1071/2009 lub pod warunkiem spełnienia przez przedsiębiorcę przejmującego uprawnienia wynikające z licencji wymagań odpowiednio określonych w art. 5a lub art. 5c ust. 1 lub 2, lub art. 6 ust. 1.
 
 3. Postępowanie, o którym mowa w ust. 2, wszczyna się na wniosek przedsiębiorcy przejmującego uprawnienia.
 
@@ -514,14 +495,14 @@ Art. 97–103. (pominięte)
 4. Minister właściwy do spraw informatyzacji w porozumieniu z ministrem właściwym do spraw transportu oraz ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia:
 
 - **1)** minimalne wymagania funkcjonalne dla aplikacji mobilnej oraz aplikacji mobilnej działającej przy udziale systemu teleinformatycznego,
-- **2)** sposób zabezpieczenia danych gromadzonych przez aplikację mobilną oraz system teleinformatyczny mając na uwadze potrzebę prawidłowego naliczania opłat za przewóz osób oraz zabezpieczenia danych gromadzonych przez aplikację mobilną.
+- **2)** sposób zabezpieczenia danych gromadzonych przez aplikację mobilną oraz system teleinformatyczny – mając na uwadze potrzebę prawidłowego naliczania opłat za przewóz osób oraz zabezpieczenia danych gromadzonych przez aplikację mobilną.
 
 **Art. 14.**
 
 1. Przewoźnik drogowy jest obowiązany zgłaszać w formie pisemnej, w postaci papierowej lub w postaci elektronicznej, organowi, który udzielił:
 
 - **1)** zezwolenia na wykonywanie zawodu przewoźnika drogowego lub licencji wspólnotowej, zmiany danych, o których mowa w art. 7a,
-- **2)** licencji, o której mowa w art. 5b ust. 1 i 2, zmiany danych, o których mowa w art. 8 nie później niż w terminie 28 dni od dnia ich powstania.
+- **2)** licencji, o której mowa w art. 5b ust. 1 i 2, zmiany danych, o których mowa w art. 8 – nie później niż w terminie 28 dni od dnia ich powstania.
 
 2. Jeżeli zmiany, o których mowa w ust. 1, obejmują dane zawarte w zezwoleniu na wykonywanie zawodu przewoźnika drogowego lub licencji, przedsiębiorca jest obowiązany wystąpić z wnioskiem o zmianę treści zezwolenia lub licencji.
 
@@ -537,11 +518,11 @@ Art. 97–103. (pominięte)
 
 - **1)** zawiadomić organ, który udzielił zezwolenia na wykonywanie zawodu przewoźnika drogowego lub licencji, o zawieszeniu wykonywania transportu drogowego; w zawiadomieniu podaje się:
     - **a)** okres, na który zawieszono wykonywanie transportu drogowego,
-    - **b)** liczbę wypisów z zezwolenia na wykonywanie zawodu przewoźnika drogowego lub liczbę wypisów z licencji odpowiadającą liczbie pojazdów samochodowych, którymi zaprzestano wykonywania przewozów drogowych w przypadku częściowego zawieszenia wykonywania transportu drogowego;
+    - **b)** liczbę wypisów z zezwolenia na wykonywanie zawodu przewoźnika drogowego lub liczbę wypisów z licencji odpowiadającą liczbie pojazdów samochodowych, którymi zaprzestano wykonywania przewozów drogowych – w przypadku częściowego zawieszenia wykonywania transportu drogowego;
 
 - **2)** zwrócić do organu, który udzielił zezwolenia na wykonywanie zawodu przewoźnika drogowego lub licencji:
-    - **a)** wszystkie wypisy z zezwolenia na wykonywanie zawodu przewoźnika drogowego lub wszystkie wypisy z licencji w przypadku zawieszenia wykonywania transportu drogowego w całości,
-    - **b)** wypisy z zezwolenia na wykonywanie zawodu przewoźnika drogowego lub wypisy z licencji odpowiadające liczbie pojazdów samochodowych, którymi zaprzestano wykonywania przewozów drogowych w przypadku częściowego zawieszenia wykonywania transportu drogowego.
+    - **a)** wszystkie wypisy z zezwolenia na wykonywanie zawodu przewoźnika drogowego lub wszystkie wypisy z licencji – w przypadku zawieszenia wykonywania transportu drogowego w całości,
+    - **b)** wypisy z zezwolenia na wykonywanie zawodu przewoźnika drogowego lub wypisy z licencji odpowiadające liczbie pojazdów samochodowych, którymi zaprzestano wykonywania przewozów drogowych – w przypadku częściowego zawieszenia wykonywania transportu drogowego.
 
 3. Organ, który udzielił zezwolenia na wykonywanie zawodu przewoźnika drogowego lub licencji, wydaje z urzędu zwrócone wypisy z zezwolenia na wykonywanie zawodu przewoźnika drogowego lub licencję lub wypisy z licencji, w terminie 7 dni przed upływem okresu, na jaki zostało zawieszone wykonywanie transportu drogowego.
 
@@ -603,9 +584,9 @@ Art. 97–103. (pominięte)
 
 4. W przypadku stwierdzenia drugiego bardzo poważnego naruszenia, zgodnie ze wzorem obliczania zawartym w załączniku II do rozporządzenia Komisji (UE) 2016/403, w ciągu roku od dnia wystosowania ostrzeżenia, organ, o którym mowa w art. 7 ust. 2, dokonuje, w drodze decyzji administracyjnej:
 
-- **1)** cofnięcia na okres 3 miesięcy 20 % wypisów z licencji wspólnotowej oraz zawieszenia wydawania dodatkowych wypisów z licencji wspólnotowej na okres 6 miesięcy w przypadku posiadania przez przedsiębiorcę więcej niż 10 wypisów z licencji wspólnotowej;
-- **2)** cofnięcia 1 wypisu z licencji wspólnotowej na okres 3 miesięcy oraz zawieszenia wydawania dodatkowych wypisów z licencji wspólnotowej na okres 6 miesięcy w przypadku posiadania przez przedsiębiorcę od 2 do 10 wypisów z licencji wspólnotowej;
-- **3)** zawieszenia wydawania dodatkowych wypisów z licencji wspólnotowej na okres 6 miesięcy w przypadku posiadania przez przedsiębiorcę 1 wypisu z licencji wspólnotowej.
+- **1)** cofnięcia na okres 3 miesięcy 20 % wypisów z licencji wspólnotowej oraz zawieszenia wydawania dodatkowych wypisów z licencji wspólnotowej na okres 6 miesięcy – w przypadku posiadania przez przedsiębiorcę więcej niż 10 wypisów z licencji wspólnotowej;
+- **2)** cofnięcia 1 wypisu z licencji wspólnotowej na okres 3 miesięcy oraz zawieszenia wydawania dodatkowych wypisów z licencji wspólnotowej na okres 6 miesięcy – w przypadku posiadania przez przedsiębiorcę od 2 do 10 wypisów z licencji wspólnotowej;
+- **3)** zawieszenia wydawania dodatkowych wypisów z licencji wspólnotowej na okres 6 miesięcy – w przypadku posiadania przez przedsiębiorcę 1 wypisu z licencji wspólnotowej.
 
 5. W przypadku stwierdzenia trzeciego bardzo poważnego naruszenia, zgodnie ze wzorem obliczania zawartym w załączniku II do rozporządzenia Komisji (UE) 2016/403, w ciągu roku od dnia wystosowania ostrzeżenia, organ, o którym mowa w art. 7 ust. 2, wszczyna postępowanie administracyjne w zakresie spełniania wymogu dobrej reputacji, o którym mowa w art. 7d.
 
@@ -636,7 +617,7 @@ Art. 97–103. (pominięte)
 - **2)** zrzeczenia się jej;
 - **3)** śmierci posiadacza licencji, o której mowa w art. 5b ust. 1 pkt 3;
 - **4)** likwidacji albo postanowienia o ogłoszeniu upadłości przedsiębiorcy, któremu została udzielona, chyba że zachodzą okoliczności określone w art. 13 ust. 2;
-- **5)** wygaśnięcia zezwolenia na wykonywanie zawodu przewoźnika drogowego w przypadku licencji wspólnotowej.
+- **5)** wygaśnięcia zezwolenia na wykonywanie zawodu przewoźnika drogowego – w przypadku licencji wspólnotowej.
 
 3. Przepis art. 15 ust. 4 stosuje się odpowiednio.
 
@@ -686,9 +667,9 @@ Art. 97–103. (pominięte)
 - **1)** szczegółowy zakres wiedzy, warunki, sposób przeprowadzania i minimalną liczbę godzin szkolenia, o którym mowa w ust. 4a pkt 1,
 - **2)** wzór zaświadczenia o ukończeniu szkolenia, o którym mowa w ust. 4a pkt 1,
 - **3)** wzór zaświadczenia o złożeniu z wynikiem pozytywnym egzaminu, o którym mowa w ust. 4a pkt 2,
-- **4)** maksymalną wysokość opłaty za przeprowadzenie szkolenia, o którym mowa w ust. 4a pkt 1 uwzględniając potrzebę osiągnięcia właściwego poziomu wiedzy niezbędnej do przywrócenia zarządzającemu transportem zdolności do kierowania operacjami transportowymi, wysokość rzeczywistych kosztów związanych z przeprowadzeniem szkolenia oraz konieczność ujednolicenia wydawanych zaświadczeń.
+- **4)** maksymalną wysokość opłaty za przeprowadzenie szkolenia, o którym mowa w ust. 4a pkt 1 – uwzględniając potrzebę osiągnięcia właściwego poziomu wiedzy niezbędnej do przywrócenia zarządzającemu transportem zdolności do kierowania operacjami transportowymi, wysokość rzeczywistych kosztów związanych z przeprowadzeniem szkolenia oraz konieczność ujednolicenia wydawanych zaświadczeń.
 
-**Art. 16c.** Zabrania się wykonywania przewozu drogowego pojazdem dopuszczonym do ruchu na podstawie profesjonalnego dowodu rejestracyjnego, o którym mowa w art. 80s ust. 1 ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym.
+**Art. 16c.** Zabrania się wykonywania przewozu drogowego pojazdem dopuszczonym do ruchu na podstawie profesjonalnego dowodu rejestracyjnego, o którym mowa w art. 80s ust. 1 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym.
 
 **Art. 17.**
 
@@ -700,7 +681,7 @@ Art. 97–103. (pominięte)
 - **4)** wzór i opis licencji na wykonywanie krajowego transportu drogowego w zakresie przewozu osób taksówką oraz wypisu z tej licencji,
 - **5)** wzór i opis licencji na wykonywanie transportu drogowego w zakresie pośrednictwa przy przewozie rzeczy,
 - **6)** wzór i opis licencji na wykonywanie transportu drogowego w zakresie pośrednictwa przy przewozie osób,
-- **7)** rodzaje zabezpieczeń licencji wspólnotowej mając na uwadze ujednolicenie wzorów dokumentów i ich zabezpieczenie przed podrobieniem lub przerobieniem.
+- **7)** rodzaje zabezpieczeń licencji wspólnotowej – mając na uwadze ujednolicenie wzorów dokumentów i ich zabezpieczenie przed podrobieniem lub przerobieniem.
 
 2. (uchylony)
 
@@ -714,24 +695,24 @@ Art. 97–103. (pominięte)
 
 1. Wykonywanie przewozów regularnych i przewozów regularnych specjalnych wymaga zezwolenia:
 
-- **1)** w krajowym transporcie drogowym wydanego, w zależności od zasięgu tych przewozów odpowiednio przez:
-    - **a)** wójta na wykonywanie przewozów na liniach komunikacyjnych na obszarze gminy,
-    - **b)** burmistrza albo prezydenta miasta na wykonywanie przewozów na liniach komunikacyjnych w komunikacji miejskiej,
-    - **c)** burmistrza albo prezydenta miasta, któremu powierzono to zadanie na mocy porozumienia, o którym mowa w art. 4 pkt 7a na wykonywanie przewozów na liniach komunikacyjnych w komunikacji miejskiej w granicach określonych w art. 4 pkt 7a lit. a albo lit. b,
-    - **d)** burmistrza albo prezydenta miasta, będącego siedzibą związku międzygminnego, o którym mowa w art. 4 pkt 7a na wykonywanie przewozów na liniach komunikacyjnych na obszarze gmin, które utworzyły związek międzygminny, d ) prezydenta miasta na prawach powiatu, w uzgodnieniu z właściwym starostą ze względu na planowany przebieg linii komunikacyjnej na wykonywanie przewozów na liniach komunikacyjnych przebiegających na obszarze miasta i sąsiedniego powiatu,
-    - **e)** starostę, w uzgodnieniu z wójtami, burmistrzami lub prezydentami miast właściwymi ze względu na planowany przebieg linii komunikacyjnej na wykonywanie przewozów na liniach komunikacyjnych na obszarze powiatu, z wyłączeniem linii komunikacyjnych określonych w lit. a–d ,
-    - **f)** marszałka województwa, w uzgodnieniu ze starostami właściwymi ze względu na planowany przebieg linii komunikacyjnej na wykonywanie przewozów na liniach komunikacyjnych wykraczających poza obszar co najmniej jednego powiatu, jednakże niewykraczających poza obszar województwa,
-    - **g)** marszałka województwa właściwego dla siedziby albo miejsca zamieszkania przedsiębiorcy, w uzgodnieniu z marszałkami województw właściwymi ze względu na planowany przebieg linii komunikacyjnej na wykonywanie przewozów na liniach komunikacyjnych wykraczających poza obszar co najmniej jednego województwa;
+- **1)** w krajowym transporcie drogowym – wydanego, w zależności od zasięgu tych przewozów odpowiednio przez:
+    - **a)** wójta – na wykonywanie przewozów na liniach komunikacyjnych na obszarze gminy,
+    - **b)** burmistrza albo prezydenta miasta – na wykonywanie przewozów na liniach komunikacyjnych w komunikacji miejskiej,
+    - **c)** burmistrza albo prezydenta miasta, któremu powierzono to zadanie na mocy porozumienia, o którym mowa w art. 4 pkt 7a – na wykonywanie przewozów na liniach komunikacyjnych w komunikacji miejskiej w granicach określonych w art. 4 pkt 7a lit. a albo lit. b,
+    - **d)** burmistrza albo prezydenta miasta, będącego siedzibą związku międzygminnego, o którym mowa w art. 4 pkt 7a – na wykonywanie przewozów na liniach komunikacyjnych na obszarze gmin, które utworzyły związek międzygminny, d ) prezydenta miasta na prawach powiatu, w uzgodnieniu z właściwym starostą ze względu na planowany przebieg linii komunikacyjnej – na wykonywanie przewozów na liniach komunikacyjnych przebiegających na obszarze miasta i sąsiedniego powiatu,
+    - **e)** starostę, w uzgodnieniu z wójtami, burmistrzami lub prezydentami miast właściwymi ze względu na planowany przebieg linii komunikacyjnej – na wykonywanie przewozów na liniach komunikacyjnych na obszarze powiatu, z wyłączeniem linii komunikacyjnych określonych w lit. a–d ,
+    - **f)** marszałka województwa, w uzgodnieniu ze starostami właściwymi ze względu na planowany przebieg linii komunikacyjnej – na wykonywanie przewozów na liniach komunikacyjnych wykraczających poza obszar co najmniej jednego powiatu, jednakże niewykraczających poza obszar województwa,
+    - **g)** marszałka województwa właściwego dla siedziby albo miejsca zamieszkania przedsiębiorcy, w uzgodnieniu z marszałkami województw właściwymi ze względu na planowany przebieg linii komunikacyjnej – na wykonywanie przewozów na liniach komunikacyjnych wykraczających poza obszar co najmniej jednego województwa;
 
 - **2)** w międzynarodowym transporcie drogowym:
-    - **a)** wydanego przez Głównego Inspektora Transportu Drogowego dla linii komunikacyjnych wykraczających poza obszar państw członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym,
-    - **b)** wydanego przez Głównego Inspektora Transportu Drogowego lub organ innego państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym dla linii komunikacyjnych niewykraczających poza obszar tych państw.
+    - **a)** wydanego przez Głównego Inspektora Transportu Drogowego – dla linii komunikacyjnych wykraczających poza obszar państw członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym,
+    - **b)** wydanego przez Głównego Inspektora Transportu Drogowego lub organ innego państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym – dla linii komunikacyjnych niewykraczających poza obszar tych państw.
 
 1a. Nie wymaga uzyskania zezwolenia tymczasowe wykonywanie przewozów osób w przypadku klęsk żywiołowych lub wystąpienia zakłóceń w przewozach wykonywanych przez podmioty innych gałęzi niż transport drogowy.
 
 1b. W przypadku zakłóceń, o których mowa w ust. 1a, przewoźnik drogowy i podmiot, w zastępstwie którego przewozy są wykonywane, obowiązani są zawrzeć pisemne porozumienie określające warunki i termin wykonywania tych przewozów oraz zgłosić ten fakt właściwemu organowi, o którym mowa w ust. 1 pkt 1.
 
-2. Wykonywanie przewozów wahadłowych i okazjonalnych w międzynarodowym transporcie drogowym wykraczających poza obszar państw członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym wymaga zezwolenia wydanego przez Głównego Inspektora Transportu Drogowego, z zastrzeżeniem ust. 3.
+2. Wykonywanie przewozów wahadłowych i okazjonalnych w międzynarodowym transporcie drogowym wykraczających poza obszar państw członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym wymaga zezwolenia wydanego przez Głównego Inspektora Transportu Drogowego, z zastrzeżeniem ust. 3.
 
 3. Nie wymaga zezwolenia wykonywanie przewozu okazjonalnego, jeżeli:
 
@@ -746,10 +727,10 @@ Art. 97–103. (pominięte)
 4b. Dopuszcza się przewóz okazjonalny:
 
 - **1)** pojazdami zabytkowymi,
-- **2)** samochodami osobowymi:
+- **2)** samochodami osobowymi: – Kodeks cywilny (Dz. U. z 2025 r. poz. 1071 i 1172), w lokalu przedsiębiorstwa będącym nieruchomością albo częścią nieruchomości,
     - **a)** prowadzonymi przez przedsiębiorcę świadczącego usługi przewozowe albo zatrudnionego przez niego kierowcę,
-    - **b)** na podstawie umowy zawartej bezpośrednio z klientem, każdorazowo przed rozpoczęciem usługi danego przewozu w formie pisemnej lub w formie elektronicznej, o której mowa w art. 78 ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. z 2025 r. poz. 1071 i 1172), w lokalu przedsiębiorstwa będącym nieruchomością albo częścią nieruchomości,
-    - **c)** po ustaleniu opłaty ryczałtowej za przewóz przed rozpoczęciem tego przewozu; zapłata za przewóz regulowana jest na rzecz przedsiębiorcy w formie bezgotówkowej; dopuszcza się wniesienie opłat gotówką w lokalu przedsiębiorstwa niespełniającymi kryterium konstrukcyjnego określonego w ust. 4a i będącymi wyłączną własnością przedsiębiorcy lub stanowiącymi przedmiot leasingu tego przedsiębiorcy.
+    - **b)** na podstawie umowy zawartej bezpośrednio z klientem, każdorazowo przed rozpoczęciem usługi danego przewozu w formie pisemnej lub w formie elektronicznej, o której mowa w art. 78 ustawy z dnia 23 kwietnia 1964 r.
+    - **c)** po ustaleniu opłaty ryczałtowej za przewóz przed rozpoczęciem tego przewozu; zapłata za przewóz regulowana jest na rzecz przedsiębiorcy w formie bezgotówkowej; dopuszcza się wniesienie opłat gotówką w lokalu przedsiębiorstwa – niespełniającymi kryterium konstrukcyjnego określonego w ust. 4a i będącymi wyłączną własnością przedsiębiorcy lub stanowiącymi przedmiot leasingu tego przedsiębiorcy.
 
 5. Przy wykonywaniu przewozów okazjonalnych w krajowym transporcie drogowym pojazdem przeznaczonym konstrukcyjnie do przewozu nie więcej niż 9 osób łącznie z kierowcą zabrania się:
 
@@ -787,9 +768,9 @@ Art. 97–103. (pominięte)
 
 **Art. 19.**
 
-- **26)** 1. Wykonywanie przewozu kabotażowego na terytorium Rzeczypospolitej Polskiej przez podmiot:
-- **1)** mający siedzibę w państwie innym niż państwo członkowskie Unii Europejskiej, Konfederacja Szwajcarska lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) strona umowy o Europejskim Obszarze Gospodarczym lub
-- **2)** wykorzystujący do przewozu pojazd zarejestrowany w państwie innym niż państwo członkowskie Unii Europejskiej, Konfederacja Szwajcarska lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) strona umowy o Europejskim Obszarze Gospodarczym wymaga uzyskania zezwolenia na przewóz kabotażowy, które wydaje, w drodze decyzji administracyjnej, Główny Inspektor Transportu Drogowego. Przepisy art. 22 ust. 1 stosuje się odpowiednio.
+- **16)** 1. Wykonywanie przewozu kabotażowego na terytorium Rzeczypospolitej Polskiej przez podmiot:
+- **1)** mający siedzibę w państwie innym niż państwo członkowskie Unii Europejskiej, Konfederacja Szwajcarska lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strona umowy o Europejskim Obszarze Gospodarczym lub
+- **2)** wykorzystujący do przewozu pojazd zarejestrowany w państwie innym niż państwo członkowskie Unii Europejskiej, Konfederacja Szwajcarska lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strona umowy o Europejskim Obszarze Gospodarczym – wymaga uzyskania zezwolenia na przewóz kabotażowy, które wydaje, w drodze decyzji administracyjnej, Główny Inspektor Transportu Drogowego. Przepisy art. 22 ust. 1 stosuje się odpowiednio.
 
 2. Zezwolenie, o którym mowa w ust. 1, wydaje się na wniosek przewoźnika drogowego złożony w formie pisemnej, w postaci papierowej lub w postaci elektronicznej, pod warunkiem dołączenia do niego co najmniej dwóch pozytywnych opinii organizacji o zasięgu ogólnokrajowym zrzeszających przewoźników drogowych.
 
@@ -811,7 +792,7 @@ Art. 97–103. (pominięte)
 
 - **1)** warunki wykonywania przewozów;
 - **2)** przebieg trasy przewozów, w tym miejscowości, w których znajdują się miejsca początkowe i docelowe przewozów;
-- **3)** miejscowości, w których znajdują się przystanki przy przewozach regularnych osób.
+- **3)** miejscowości, w których znajdują się przystanki – przy przewozach regularnych osób.
 
 1a. Załącznikiem do zezwolenia, o którym mowa w ust. 1, jest obowiązujący rozkład jazdy.
 
@@ -831,8 +812,8 @@ Art. 97–103. (pominięte)
 
 1. Zezwolenie, o którym mowa w art. 18, wydaje się, na wniosek przedsiębiorcy, na czas nie dłuższy niż:
 
-- **1)** 5 lat na wykonywanie przewozów regularnych lub przewozów regularnych specjalnych;
-- **2)** rok na wykonywanie przewozów wahadłowych lub przewozów okazjonalnych.
+- **1)** 5 lat – na wykonywanie przewozów regularnych lub przewozów regularnych specjalnych;
+- **2)** rok – na wykonywanie przewozów wahadłowych lub przewozów okazjonalnych.
 
 2. Do wniosku, o którym mowa w ust. 1, dołącza się kopię zezwolenia na wykonywanie zawodu przewoźnika drogowego lub licencji i dokumenty, o których mowa w art. 22.
 
@@ -956,7 +937,7 @@ Art. 97–103. (pominięte)
 - **1)** cofnięcia zezwolenia na wykonywanie zawodu przewoźnika drogowego lub licencji;
 - **2)** naruszenia lub zmiany warunków, na jakich zezwolenie zostało wydane oraz określonych w zezwoleniu;
 - **3)** niewykonywania przez przedsiębiorcę, na skutek okoliczności zależnych od niego, przewozów regularnych co najmniej przez 3 miesiące;
-- **4)** odstąpienia zezwolenia osobie trzeciej, przy czym nie jest odstąpieniem zezwolenia powierzenie wykonania przewozu innemu przewoźnikowi, o którym mowa w art. 5 ustawy z dnia 15 listopada 1984 r. Prawo przewozowe.
+- **4)** odstąpienia zezwolenia osobie trzeciej, przy czym nie jest odstąpieniem zezwolenia powierzenie wykonania przewozu innemu przewoźnikowi, o którym mowa w art. 5 ustawy z dnia 15 listopada 1984 r. – Prawo przewozowe.
 
 5. W razie cofnięcia zezwolenia wniosek o ponowne wydanie zezwolenia nie może być rozpatrzony wcześniej niż po upływie 3 lat od dnia, w którym decyzja o cofnięciu stała się ostateczna.
 
@@ -987,7 +968,7 @@ Art. 97–103. (pominięte)
 
 **Art. 25a.**
 
-1. Wykonywanie międzynarodowego przewozu drogowego osób na terytorium Rzeczypospolitej Polskiej przez zagraniczny podmiot niemający siedziby w państwie członkowskim Unii Europejskiej, Konfederacji Szwajcarskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronie umowy o Europejskim Obszarze Gospodarczym wymaga zezwolenia ministra właściwego do spraw transportu, o ile umowy międzynarodowe nie stanowią inaczej.
+1. Wykonywanie międzynarodowego przewozu drogowego osób na terytorium Rzeczypospolitej Polskiej przez zagraniczny podmiot niemający siedziby w państwie członkowskim Unii Europejskiej, Konfederacji Szwajcarskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym wymaga zezwolenia ministra właściwego do spraw transportu, o ile umowy międzynarodowe nie stanowią inaczej.
 
 2. Zezwolenie, o którym mowa w ust. 1, może być udzielone na okres nieprzekraczający danego roku kalendarzowego.
 
@@ -1035,8 +1016,8 @@ Art. 97–103. (pominięte)
 - **1)** firmę przedsiębiorcy, któremu zlecono przewóz osób;
 - **2)** adres i oznaczenie siedziby albo miejsca wykonywania działalności przedsiębiorcy, któremu zlecono przewóz osób;
 - **3)** numer identyfikacji podatkowej (NIP) przedsiębiorcy, któremu zlecono przewóz osób;
-- **4)** w przypadku zlecenia przewozu osób taksówką numer licencji, o której mowa w art. 5b ust. 1 pkt 3, oraz nazwę organu, który udzielił tej licencji;
-- **5)** w przypadku zlecenia przewozu osób samochodem osobowym lub pojazdem samochodowym przeznaczonym konstrukcyjnie do przewozu powyżej 7 i nie więcej niż 9 osób łącznie z kierowcą numer licencji i wypisu z licencji, o której mowa w art. 5b ust. 1 pkt 1 lub 2, oraz nazwę organu, który udzielił tej licencji;
+- **4)** w przypadku zlecenia przewozu osób taksówką – numer licencji, o której mowa w art. 5b ust. 1 pkt 3, oraz nazwę organu, który udzielił tej licencji;
+- **5)** w przypadku zlecenia przewozu osób samochodem osobowym lub pojazdem samochodowym przeznaczonym konstrukcyjnie do przewozu powyżej 7 i nie więcej niż 9 osób łącznie z kierowcą – numer licencji i wypisu z licencji, o której mowa w art. 5b ust. 1 pkt 1 lub 2, oraz nazwę organu, który udzielił tej licencji;
 - **6)** numer rejestracyjny pojazdu, którym zrealizowano zlecony przewóz osób;
 - **7)** datę oraz godzinę przekazania zlecenia przewozu osób.
 
@@ -1110,7 +1091,7 @@ Art. 97–103. (pominięte)
 - **2)** informacje zawarte w dokumencie stwierdzającym posiadanie odpowiedniego uprawnienia do kierowania pojazdem samochodowym, o którym mowa w ust. 2 pkt 2,
 - **3)** informacje zawarte w zaświadczeniu o niekaralności, o którym mowa w ust. 2 pkt 3,
 - **4)** zdjęcia, o których mowa w ust. 5 i 8,
-- **5)** informacje niebędące danymi osobowymi mające wpływ na zapewnienie bezpieczeństwa osób korzystających z ich usług w trakcie przewozu przez okres 5 lat, licząc od końca roku kalendarzowego, w którym osoba, której dotyczą przetwarzane informacje, zakończyła współpracę z danym przedsiębiorcą prowadzącym pośrednictwo przy przewozie osób.
+- **5)** informacje niebędące danymi osobowymi mające wpływ na zapewnienie bezpieczeństwa osób korzystających z ich usług w trakcie przewozu – przez okres 5 lat, licząc od końca roku kalendarzowego, w którym osoba, której dotyczą przetwarzane informacje, zakończyła współpracę z danym przedsiębiorcą prowadzącym pośrednictwo przy przewozie osób.
 
 10. Przedsiębiorca prowadzący pośrednictwo przy przewozie osób może na wniosek innego przedsiębiorcy prowadzącego pośrednictwo przy przewozie osób przekazać temu przedsiębiorcy informacje, o których mowa w ust. 9, w celu zapewnienia bezpieczeństwa przewozu osób. Informacje przedsiębiorca przekazuje w postaci elektronicznej za pomocą środków komunikacji elektronicznej.
 
@@ -1120,9 +1101,9 @@ Art. 97–103. (pominięte)
 
 **Art. 28.**
 
-1. Wykonywanie międzynarodowego przewozu drogowego rzeczy na terytorium Rzeczypospolitej Polskiej przez zagraniczny podmiot niemający siedziby w państwie członkowskim Unii Europejskiej, Konfederacji Szwajcarskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronie umowy o Europejskim Obszarze Gospodarczym wymaga zezwolenia ministra właściwego do spraw transportu, o ile umowy międzynarodowe nie stanowią inaczej.
+1. Wykonywanie międzynarodowego przewozu drogowego rzeczy na terytorium Rzeczypospolitej Polskiej przez zagraniczny podmiot niemający siedziby w państwie członkowskim Unii Europejskiej, Konfederacji Szwajcarskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym wymaga zezwolenia ministra właściwego do spraw transportu, o ile umowy międzynarodowe nie stanowią inaczej.
 
-1a. Do wykonywania międzynarodowego przewozu drogowego rzeczy na terytorium Rzeczypospolitej Polskiej przez zagraniczny podmiot mający siedzibę w państwie członkowskim Unii Europejskiej, Konfederacji Szwajcarskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronie umowy o Europejskim Obszarze Gospodarczym stosuje się przepisy rozporządzenia (WE) nr 1072/2009, z tym że w przypadku wykonywania przewozu do lub z państwa trzeciego zezwolenie, o którym mowa w ust. 1, jest wymagane, jeżeli umowy międzynarodowe tak stanowią.
+1a. Do wykonywania międzynarodowego przewozu drogowego rzeczy na terytorium Rzeczypospolitej Polskiej przez zagraniczny podmiot mający siedzibę w państwie członkowskim Unii Europejskiej, Konfederacji Szwajcarskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym stosuje się przepisy rozporządzenia (WE) nr 1072/2009, z tym że w przypadku wykonywania przewozu do lub z państwa trzeciego zezwolenie, o którym mowa w ust. 1, jest wymagane, jeżeli umowy międzynarodowe tak stanowią.
 
 2. Zezwolenie, o którym mowa w ust. 1, może być udzielone na okres nieprzekraczający danego roku kalendarzowego.
 
@@ -1138,7 +1119,7 @@ Art. 97–103. (pominięte)
 
 **Art. 28b.**
 
-- **27)** 1. W przypadku gdy do wykonywania międzynarodowego przewozu drogowego rzeczy, o którym mowa w art. 28 ust. 1 i 1a, jest wymagane zezwolenie, o którym mowa w art. 28 ust. 1, albo wielokrotne zagraniczne zezwolenie wydane przez Międzynarodowe Forum Transportu (International Transport Forum), zwane dalej „zezwoleniem EKMT”, a także w przypadku gdy przepisy wiążących Rzeczpospolitą Polską umów międzynarodowych w zakresie przewozu drogowego zwalniają z obowiązku posiadania tych zezwoleń, zagraniczny podmiot wykonujący taki przewóz jest obowiązany przesłać do rejestru zgłoszeń, o którym mowa w art. 4 ust. 1 pkt 1 ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi (Dz. U. z 2024 r. poz. 1218), zwanego dalej „rejestrem zgłoszeń”, przed rozpoczęciem przewozu na terytorium Rzeczypospolitej Polskiej, zgłoszenie takiego przewozu i uzyskać dla tego zgłoszenia numer referencyjny w rozumieniu art. 2 pkt 4 tej ustawy, zwany dalej „numerem referencyjnym”.
+1. W przypadku gdy do wykonywania międzynarodowego przewozu drogowego rzeczy, o którym mowa w art. 28 ust. 1 i 1a, jest wymagane zezwolenie, o którym mowa w art. 28 ust. 1, albo wielokrotne zagraniczne zezwolenie wydane przez Międzynarodowe Forum Transportu (International Transport Forum), zwane dalej „zezwoleniem EKMT”, a także w przypadku gdy przepisy wiążących Rzeczpospolitą Polską umów międzynarodowych w zakresie przewozu drogowego zwalniają z obowiązku posiadania tych zezwoleń, zagraniczny podmiot wykonujący taki przewóz jest obowiązany przesłać do rejestru zgłoszeń, o którym mowa w art. 4 ust. 1 pkt 1 ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi (Dz. U. z 2024 r. poz. 1218), zwanego dalej „rejestrem zgłoszeń”, przed rozpoczęciem przewozu na terytorium Rzeczypospolitej Polskiej, zgłoszenie takiego przewozu i uzyskać dla tego zgłoszenia numer referencyjny w rozumieniu art. 2 pkt 4 tej ustawy, zwany dalej „numerem referencyjnym”.
 
 2. Zagraniczny podmiot wykonujący przewóz kabotażowy rzeczy, o którym mowa w art. 29 ust. 1, jest obowiązany przesłać do rejestru zgłoszeń przed rozpoczęciem przewozu na terytorium Rzeczypospolitej Polskiej zgłoszenie takiego przewozu i uzyskać numer referencyjny dla tego zgłoszenia.
 
@@ -1164,8 +1145,8 @@ Art. 97–103. (pominięte)
 - **8)** informację, czy przewóz jest wykonywany z ładunkiem czy bez ładunku;
 - **9)** numer dokumentu przewozowego towarzyszącego przewożonemu towarowi, o ile jest wymagany;
 - **10)** numer zezwolenia, o którym mowa w art. 28 ust. 1 lub art. 29 ust. 1, a w przypadku:
-    - **a)** wykonywania przewozu na podstawie zezwolenia EKMT numer tego zezwolenia, okres ważności, oznaczenie państwa siedziby przewoźnika drogowego,
-    - **b)** zwolnienia, na podstawie przepisów wiążących Rzeczpospolitą Polską umów międzynarodowych w zakresie przewozu, z obowiązku posiadania zezwolenia, o którym mowa w art. 28 ust. 1, albo zezwolenia EKMT podstawę prawną tego zwolnienia;
+    - **a)** wykonywania przewozu na podstawie zezwolenia EKMT – numer tego zezwolenia, okres ważności, oznaczenie państwa siedziby przewoźnika drogowego,
+    - **b)** zwolnienia, na podstawie przepisów wiążących Rzeczpospolitą Polską umów międzynarodowych w zakresie przewozu, z obowiązku posiadania zezwolenia, o którym mowa w art. 28 ust. 1, albo zezwolenia EKMT – podstawę prawną tego zwolnienia;
 
 - **11)** kraj rejestracji i numer rejestracyjny pojazdu, którym jest wykonywany przewóz;
 - **12)** numer lokalizatora albo numer urządzenia w rozumieniu odpowiednio art. 2 pkt 3a i 4a ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi.
@@ -1191,7 +1172,7 @@ Art. 97–103. (pominięte)
 
 **Art. 28c.**
 
-- **27)** 1. Zagraniczny podmiot wykonujący przewóz, w przypadkach, o których mowa w art. 28b ust. 1 lub 2, przed rozpoczęciem przewozu na terytorium Rzeczypospolitej Polskiej, jest obowiązany przekazać kierującemu numer referencyjny albo dokument zastępujący zgłoszenie i potwierdzenie przyjęcia dokumentu zastępującego zgłoszenie.
+1. Zagraniczny podmiot wykonujący przewóz, w przypadkach, o których mowa w art. 28b ust. 1 lub 2, przed rozpoczęciem przewozu na terytorium Rzeczypospolitej Polskiej, jest obowiązany przekazać kierującemu numer referencyjny albo dokument zastępujący zgłoszenie i potwierdzenie przyjęcia dokumentu zastępującego zgłoszenie.
 
 2. W przypadku nieotrzymania przez kierującego numeru referencyjnego albo dokumentu zastępującego zgłoszenie i potwierdzenia przyjęcia dokumentu zastępującego zgłoszenie kierujący jest obowiązany odmówić rozpoczęcia przewozu towaru.
 
@@ -1199,8 +1180,8 @@ Art. 97–103. (pominięte)
 
 1. Wykonywanie przewozu kabotażowego na terytorium Rzeczypospolitej Polskiej przez podmiot:
 
-- **1)** mający siedzibę w państwie innym niż państwo członkowskie Unii Europejskiej, Konfederacja Szwajcarska lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) strona umowy o Europejskim Obszarze Gospodarczym lub
-- **2)** wykorzystujący do przewozu pojazd zarejestrowany w państwie innym niż państwo członkowskie Unii Europejskiej, Konfederacja Szwajcarska lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) strona umowy o Europejskim Obszarze Gospodarczym wymaga uzyskania zezwolenia na przewóz kabotażowy, które wydaje w drodze decyzji administracyjnej Główny Inspektor Transportu Drogowego.
+- **1)** mający siedzibę w państwie innym niż państwo członkowskie Unii Europejskiej, Konfederacja Szwajcarska lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strona umowy o Europejskim Obszarze Gospodarczym lub
+- **2)** wykorzystujący do przewozu pojazd zarejestrowany w państwie innym niż państwo członkowskie Unii Europejskiej, Konfederacja Szwajcarska lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strona umowy o Europejskim Obszarze Gospodarczym – wymaga uzyskania zezwolenia na przewóz kabotażowy, które wydaje w drodze decyzji administracyjnej Główny Inspektor Transportu Drogowego.
 
 2. Zezwolenie, o którym mowa w ust. 1, wydaje się na wniosek przewoźnika drogowego, pod warunkiem dołączenia do niego co najmniej dwóch pozytywnych opinii organizacji o zasięgu ogólnokrajowym zrzeszających przewoźników drogowych.
 
@@ -1214,7 +1195,7 @@ Art. 97–103. (pominięte)
 
 2. Pojazd samochodowy, o którym mowa w ust. 1, może być wykorzystany do trzech przewozów kabotażowych w okresie 7 dni, począwszy od dnia, w którym dokonano rozładunku rzeczy na terytorium Rzeczypospolitej Polskiej.
 
-2a. Ponowny przewóz kabotażowy tym samym pojazdem samochodowym lub w przypadku zespołu pojazdów pojazdem samochodowym tego samego zespołu pojazdów może być wykonany po wykonaniu przewozu międzynarodowego oraz po upływie czterech dni od dnia zakończenia poprzedniego przewozu kabotażowego, o którym mowa w ust. 1.
+2a. Ponowny przewóz kabotażowy tym samym pojazdem samochodowym lub w przypadku zespołu pojazdów – pojazdem samochodowym tego samego zespołu pojazdów może być wykonany po wykonaniu przewozu międzynarodowego oraz po upływie czterech dni od dnia zakończenia poprzedniego przewozu kabotażowego, o którym mowa w ust. 1.
 
 3. Kierujący pojazdem samochodowym, o którym mowa w ust. 1, jest obowiązany mieć przy sobie i okazywać na żądanie uprawnionych osób dokumenty potwierdzające spełnienie warunków, o których mowa w ust. 1–2a, w szczególności dokumenty przewozowe, faktury za wykonane na terytorium Rzeczypospolitej Polskiej usługi przewozowe, dowód potwierdzający wykonanie poprzedniego przewozu międzynarodowego oraz każdego kolejnego przewozu kabotażowego.
 
@@ -1271,6 +1252,44 @@ Art. 97–103. (pominięte)
 - **1)** wymagania dyrektywy 96/96/WE w sprawie zbliżenia ustawodawstw państw członkowskich dotyczących badań przydatności do ruchu drogowego pojazdów silnikowych i ich przyczep, zmienionej dyrektywą 1999/52/WE, dla celów rezolucji CEMT/CM (2001)9/Final;
 - **2)** zakres niezbędnych danych umieszczonych w certyfikatach.
 
+**Art. 30b.**
+
+1. Główny Inspektor Transportu Drogowego pełni funkcję krajowego koordynatora w systemie informatycznym przeznaczonym do wydawania i kontroli elektronicznych zezwoleń EKMT, udostępnionym przez Międzynarodowe Forum Transportowe (International Transport Forum), zwanym dalej „systemem EKMT”.
+
+2. Główny Inspektor Transportu Drogowego jest administratorem danych osobowych przetwarzanych na potrzeby realizacji zadań krajowego koordynatora w systemie EKMT.
+
+3. W systemie EKMT Główny Inspektor Transportu Drogowego, w szczególności:
+
+- **1)** tworzy, na wniosek złożony w formie pisemnej, w postaci papierowej lub elektronicznej, konta dla przewoźników drogowych;
+- **2)** tworzy, na wniosek złożony w formie pisemnej, w postaci papierowej lub elektronicznej, konta dla organów kontrolnych, o których mowa w art. 89 ust. 1 pkt 1–4;
+- **3)** przydziela przewoźnikom drogowym przyznane zezwolenia EKMT;
+- **4)** monitoruje wykorzystanie zezwoleń EKMT.
+
+4. Wniosek, o którym mowa w ust. 3 pkt 1, zawiera w szczególności:
+
+- **1)** dane przewoźnika drogowego określające:
+    - **a)** firmę przedsiębiorcy,
+    - **b)** adres i siedzibę albo adres miejsca zamieszkania,
+    - **c)** numer ewidencji podatkowej (NIP),
+    - **d)** numer telefonu,
+    - **e)** adres poczty elektronicznej;
+
+- **2)** datę złożenia wniosku;
+- **3)** podpis osoby uprawnionej do reprezentowania przedsiębiorcy, z podaniem jej imienia i nazwiska.
+
+5. Wniosek, o którym mowa w ust. 3 pkt 2, zawiera w szczególności:
+
+- **1)** dane organu kontrolnego określające:
+    - **a)** nazwę organu,
+    - **b)** adres i siedzibę,
+    - **c)** numer telefonu,
+    - **d)** adres poczty elektronicznej;
+
+- **2)** datę złożenia wniosku;
+- **3)** podpis osoby uprawnionej do złożenia wniosku, z podaniem jej imienia i nazwiska.
+
+6. W przypadku złożenia wniosków, o których mowa w ust. 3 pkt 1 i 2, w postaci elektronicznej, wniosek opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
+
 **Art. 31.** Wykonywanie międzynarodowego transportu kombinowanego nie wymaga posiadania zezwolenia zagranicznego ani zezwolenia polskiego przez przewoźnika zagranicznego, jeżeli w umowach międzynarodowych, którymi Rzeczpospolita Polska jest związana, przewidziano wzajemne zwolnienie w tym zakresie.
 
 **Art. 31a.**
@@ -1283,7 +1302,7 @@ Art. 97–103. (pominięte)
 
 #### Rozdział 4a Świadectwo kierowcy
 
-**Art. 32a.** Do kierowcy niebędącego obywatelem państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym, zatrudnionego przez przedsiębiorcę mającego siedzibę na terytorium Rzeczypospolitej Polskiej, wykonującego międzynarodowy transport drogowy rzeczy, stosuje się przepisy rozporządzenia 1072/2009 dotyczące świadectwa kierowcy.
+**Art. 32a.** Do kierowcy niebędącego obywatelem państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, zatrudnionego przez przedsiębiorcę mającego siedzibę na terytorium Rzeczypospolitej Polskiej, wykonującego międzynarodowy transport drogowy rzeczy, stosuje się przepisy rozporządzenia 1072/2009 dotyczące świadectwa kierowcy.
 
 **Art. 32b.**
 
@@ -1349,7 +1368,7 @@ Art. 97–103. (pominięte)
 2. W przypadku niewłaściwego wykorzystywania przez przedsiębiorcę świadectwa kierowcy polegającego na:
 
 - **1)** niespełnianiu warunków stanowiących podstawę wydania świadectwa kierowcy lub
-- **2)** podaniu nieprawidłowych informacji we wniosku o wydanie świadectwa kierowcy właściwy organ, o którym mowa w art. 32b, cofa świadectwo kierowcy i zawiesza wydawanie nowych świadectw kierowców przez okres 30 dni.
+- **2)** podaniu nieprawidłowych informacji we wniosku o wydanie świadectwa kierowcy – właściwy organ, o którym mowa w art. 32b, cofa świadectwo kierowcy i zawiesza wydawanie nowych świadectw kierowców przez okres 30 dni.
 
 3. W przypadku popełnienia bardzo poważnego naruszenia dotyczącego świadectwa kierowcy, określonego w załączniku I do rozporządzenia Komisji (UE) 2016/403, organ, o którym mowa w art. 32b, cofa, w drodze decyzji administracyjnej, jeden wypis z licencji wspólnotowej na okres 6 miesięcy i zawiesza wydawanie nowych świadectw kierowców przez okres 30 dni.
 
@@ -1364,7 +1383,8 @@ Art. 97–103. (pominięte)
 2. Obowiązek uzyskania zaświadczenia, o którym mowa w ust. 1, nie dotyczy przewozów drogowych wykonywanych:
 
 - **1)** w ramach powszechnych usług pocztowych;
-- **2)** przez podmioty, niebędące przedsiębiorcami, o których mowa w art. 3 ust. 2 pkt 3, z tym że w przypadku działalności wytwórczej w rolnictwie dotyczącej upraw rolnych oraz chowu i hodowli zwierząt, ogrodnictwa, warzywnictwa, leśnictwa i rybactwa śródlądowego obowiązek uzyskania zaświadczenia nie dotyczy rolnika w rozumieniu przepisów ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2025 r. poz. 197, 620, 621 i 1160);
+- **2)** przez podmioty, niebędące przedsiębiorcami, o których mowa w art. 3 ust. 2 pkt 3, z tym że w przypadku działalności wytwórczej w rolnictwie dotyczącej upraw rolnych oraz chowu i hodowli zwierząt, ogrodnictwa, warzywnictwa, leśnictwa i rybactwa śródlądowego obowiązek uzyskania zaświadczenia nie dotyczy rolnika w rozumieniu przepisów ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2025 r. poz. 197, 620, 621 i
+- **1160)** ;
 - **3)** przez przedsiębiorców posiadających uprawnienia do wykonywania transportu drogowego.
 
 3. Zaświadczenie, o którym mowa w ust. 1, zawiera: oznaczenie przedsiębiorcy, jego siedzibę (miejsce zamieszkania) i adres, numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile przedsiębiorca taki numer posiada, albo numer identyfikacji podatkowej (NIP), rodzaj i zakres wykonywania przewozów drogowych na potrzeby własne oraz rodzaj i liczbę pojazdów samochodowych.
@@ -1377,11 +1397,11 @@ Art. 97–103. (pominięte)
 
 - **1)** informacje i dokumenty określone w art. 8 ust. 2 pkt 1–4 i 6 oraz ust. 3 pkt 5;
 - **2)** oświadczenie o zamiarze zatrudnienia kierowców spełniających warunki, o których mowa w art. 39a ust. 1 pkt 1–4;
-- **3)** w przypadku pojazdu najmowanego określenie rodzaju i liczby pojazdów samochodowych, które przedsiębiorca będzie wykorzystywał do wykonywania niezarobkowego przewozu drogowego rzeczy, wraz z dokumentami, o których mowa w art. 11d ust. 2.
+- **3)** w przypadku pojazdu najmowanego – określenie rodzaju i liczby pojazdów samochodowych, które przedsiębiorca będzie wykorzystywał do wykonywania niezarobkowego przewozu drogowego rzeczy, wraz z dokumentami, o których mowa w art. 11d ust. 2.
 
 7. Przepis art. 14 ust. 1 stosuje się odpowiednio.
 
-8. Zaświadczenie na krajowy niezarobkowy przewóz drogowy oraz wypis lub wypisy z zaświadczenia wydaje starosta właściwy dla siedziby przedsiębiorcy określonej w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym (KRS), a w przypadku przedsiębiorcy będącego osobą fizyczną adresu stałego miejsca wykonywania działalności gospodarczej określonego w Centralnej Ewidencji i Informacji o Działalności Gospodarczej (CEIDG), na czas nieokreślony. Zaświadczenie na międzynarodowy niezarobkowy przewóz drogowy oraz wypis lub wypisy z zaświadczenia wydaje Główny Inspektor Transportu Drogowego na okres do 5 lat.
+8. Zaświadczenie na krajowy niezarobkowy przewóz drogowy oraz wypis lub wypisy z zaświadczenia wydaje starosta właściwy dla siedziby przedsiębiorcy określonej w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym (KRS), a w przypadku przedsiębiorcy będącego osobą fizyczną – adresu stałego miejsca wykonywania działalności gospodarczej określonego w Centralnej Ewidencji i Informacji o Działalności Gospodarczej (CEIDG), na czas nieokreślony. Zaświadczenie na międzynarodowy niezarobkowy przewóz drogowy oraz wypis lub wypisy z zaświadczenia wydaje Główny Inspektor Transportu Drogowego na okres do 5 lat.
 
 9. W przypadku wykonywania międzynarodowego niezarobkowego przewozu drogowego niezgodnie z wydanym zaświadczeniem Główny Inspektor Transportu Drogowego odmawia wydania nowego zaświadczenia przez okres 3 lat od dnia upływu ważności posiadanego zaświadczenia.
 
@@ -1487,9 +1507,9 @@ Art. 97–103. (pominięte)
 1. Przedsiębiorca lub inny podmiot wykonujący przewóz drogowy może zatrudnić kierowcę, jeżeli osoba ta:
 
 - **1)** ukończyła:
-    - **a)** 18 lat w przypadku kierowcy prowadzącego pojazd samochodowy, dla którego wymagane jest posiadanie prawa jazdy kategorii: C lub C+E, o ile uzyskał on odpowiednią kwalifikację wstępną, C1 lub C1+E, o ile uzyskał on odpowiednią kwalifikację wstępną przyśpieszoną,
-    - **b)** 21 lat w przypadku kierowcy prowadzącego pojazd samochodowy, dla którego wymagane jest posiadanie prawa jazdy kategorii: C lub C+E, o ile uzyskał on odpowiednią kwalifikację wstępną przyśpieszoną, D lub D+E, o ile uzyskał on odpowiednią kwalifikację wstępną, D lub D+E, o ile przewóz jest wykonywany na liniach regularnych, których trasa nie przekracza 50 km i o ile kierowca uzyskał odpowiednią kwalifikację wstępną przyśpieszoną, D1 lub D1+E, o ile uzyskał on odpowiednią kwalifikację wstępną przyśpieszoną,
-    - **c)** 23 lata w przypadku kierowcy prowadzącego pojazd samochodowy, dla którego wymagane jest posiadanie prawa jazdy kategorii D lub D+E, o ile uzyskał on odpowiednią kwalifikację wstępną przyśpieszoną;
+    - **a)** 18 lat – w przypadku kierowcy prowadzącego pojazd samochodowy, dla którego wymagane jest posiadanie prawa jazdy kategorii: – C lub C+E, o ile uzyskał on odpowiednią kwalifikację wstępną, – C1 lub C1+E, o ile uzyskał on odpowiednią kwalifikację wstępną przyśpieszoną, <– D lub D+E, o ile przewóz jest wykonywany na liniach regularnych na terytorium Rzeczypospolitej Polskiej, których trasa nie przekracza 50 km, i o ile kierowca uzyskał odpowiednią kwalifikację wstępną, – D1 lub D1+E, o ile przewóz jest wykonywany na terytorium Rzeczypospolitej Polskiej i o ile kierowca uzyskał odpowiednią kwalifikację wstępną,> <aa) 20 lat – w przypadku kierowcy prowadzącego pojazd samochodowy na terytorium Rzeczypospolitej Polskiej, dla którego wymagane jest posiadanie prawa jazdy kategorii D lub D+E, o ile uzyskał on odpowiednią kwalifikację wstępną,>
+    - **b)** 21 lat – w przypadku kierowcy prowadzącego pojazd samochodowy, dla którego wymagane jest posiadanie prawa jazdy kategorii: – C lub C+E, o ile uzyskał on odpowiednią kwalifikację wstępną przyśpieszoną, – D lub D+E, o ile uzyskał on odpowiednią kwalifikację wstępną, – D lub D+E, o ile przewóz jest wykonywany na liniach regularnych, których trasa nie przekracza 50 km i o ile kierowca uzyskał odpowiednią kwalifikację wstępną przyśpieszoną, – D1 lub D1+E, o ile uzyskał on odpowiednią kwalifikację wstępną przyśpieszoną,
+    - **c)** 23 lata – w przypadku kierowcy prowadzącego pojazd samochodowy, dla którego wymagane jest posiadanie prawa jazdy kategorii D lub D+E, o ile uzyskał on odpowiednią kwalifikację wstępną przyśpieszoną;
 
 - **2)** posiada odpowiednie uprawnienie do kierowania pojazdem samochodowym, określone w ustawie z dnia 5 stycznia 2011 r. o kierujących pojazdami, a w przypadku osób, o których mowa w art. 5c ust. 1 pkt 4 lub w art. 6 ust. 1 pkt 2, posiada odpowiednie uprawnienie do kierowania pojazdem samochodowym stwierdzone w wydanym w kraju prawem jazdy, o którym mowa w art. 4 ust. 1 pkt 1 lit. a ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami;
 - **3)** nie ma przeciwwskazań zdrowotnych do wykonywania pracy na stanowisku kierowcy;
@@ -1513,26 +1533,28 @@ Art. 97–103. (pominięte)
     - **a)** nauki jazdy osób ubiegających się o prawo jazdy lub świadectwo kwalifikacji zawodowej,
     - **b)** szkolenia osób posiadających prawo jazdy,
     - **c)** przeprowadzania państwowego egzaminu dla osób ubiegających się o prawo jazdy,
-    - **d)** dodatkowego praktycznego szkolenia nauki jazdy w miejscu pracy, w przypadku gdy osobom tym towarzyszy inna osoba posiadająca świadectwo kwalifikacji zawodowej lub instruktor nauki jazdy dla danej kategorii pojazdu wykorzystywanego do szkolenia pod warunkiem że pojazd ten nie jest w tym czasie wykorzystywany do handlowego przewozu drogowego osób lub rzeczy;
+    - **d)** dodatkowego praktycznego szkolenia nauki jazdy w miejscu pracy, w przypadku gdy osobom tym towarzyszy inna osoba posiadająca świadectwo kwalifikacji zawodowej lub instruktor nauki jazdy dla danej kategorii pojazdu wykorzystywanego do szkolenia – pod warunkiem że pojazd ten nie jest w tym czasie wykorzystywany do handlowego przewozu drogowego osób lub rzeczy;
 
 - **8)** wykorzystywanego do niehandlowego przewozu drogowego osób lub rzeczy;
-- **9)** wykorzystywanego do przewozu materiałów, urządzeń lub sprzętu niezbędnych kierowcy do jego pracy pod warunkiem że prowadzenie pojazdu nie jest głównym zajęciem kierowcy;
+- **9)** wykorzystywanego do przewozu materiałów, urządzeń lub sprzętu niezbędnych kierowcy do jego pracy – pod warunkiem że prowadzenie pojazdu nie jest głównym zajęciem kierowcy;
 - **10)** wykorzystywanego na obszarach wiejskich w ramach własnej działalności gospodarczej kierowcy, który nie oferuje usług przewozowych, a przewóz ma charakter sporadyczny i nie wpływa na bezpieczeństwo ruchu drogowego;
 - **11)** który jest wykorzystywany lub wynajęty bez kierowcy przez przedsiębiorstwo rolnicze, ogrodnicze, leśne, gospodarstwo rolne lub rybackie do przewozu rzeczy w ramach własnej działalności gospodarczej, chyba że prowadzenie pojazdu stanowi część głównego zajęcia kierowcy lub kierowanie pojazdem przekracza odległość 100 km od siedziby przedsiębiorstwa lub gospodarstwa.
 
 4. Wymagań, o których mowa w ust. 1 pkt 1, 5 i 6, nie stosuje się do kierowcy pojazdu, do kierowania którym jest wymagane prawo jazdy kategorii AM, A1, A2, A, B1, B lub B+E. Art. 39aa. 1. Szkolenie osób zamierzających wykonywać przewóz drogowy lub wykonujących przewóz drogowy na stanowisku kierowcy jest prowadzone przez:
 
-- **1)** ośrodek szkolenia w ramach kwalifikacji wstępnej, kwalifikacji wstępnej przyśpieszonej, kwalifikacji wstępnej uzupełniającej, kwalifikacji wstępnej uzupełniającej przyśpieszonej oraz szkolenia okresowego, w zakresie bloku programowego określonego odpowiednio do kategorii prawa jazdy C1, C1+E, C i C+E lub D1, D1+E, D i D+E;
-- **2)** szkołę ponadpodstawową, prowadzącą kształcenie w zawodzie, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe (Dz. U. z 2025 r. poz. 1043 i 1160), przewiduje przygotowanie do uzyskania kwalifikacji do wykonywania pracy na stanowisku kierowcy w ramach kwalifikacji wstępnej w zakresie bloku programowego określonego do kategorii prawa jazdy C1, C1+E, C i C+E;
-- **3)** szkołę, o której mowa w pkt 2, albo placówkę lub centrum, o których mowa w art. 2 pkt 4 ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe, prowadzące kwalifikacyjny kurs zawodowy w zakresie kwalifikacji wyodrębnionej w zawodzie, dla której podstawa programowa kształcenia w zawodzie szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe, przewiduje przygotowanie do uzyskania kwalifikacji do wykonywania pracy na stanowisku kierowcy w ramach kwalifikacji wstępnej w zakresie bloku programowego określonego do kategorii prawa jazdy C1, C1+E, C i C+E;
-- **4)** szkołę, o której mowa w pkt 2, albo placówkę lub centrum, o których mowa w art. 2 pkt 4 ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe, prowadzące kurs umiejętności zawodowych w zakresie tej części efektów kształcenia wyodrębnionej w ramach kwalifikacji, dla której podstawa programowa kształcenia w zawodzie szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 tej ustawy, przewiduje przygotowanie do uzyskania kwalifikacji do wykonywania pracy na stanowisku kierowcy w ramach kwalifikacji wstępnej w zakresie bloku programowego określonego do kategorii prawa jazdy C1, C1+E, C i C+E.
+- **1)** ośrodek szkolenia – w ramach kwalifikacji wstępnej, kwalifikacji wstępnej przyśpieszonej, kwalifikacji wstępnej uzupełniającej, kwalifikacji wstępnej uzupełniającej przyśpieszonej oraz szkolenia okresowego, w zakresie bloku programowego określonego odpowiednio do kategorii prawa jazdy C1, C1+E, C i C+E lub D1, D1+E, D i D+E;
+- **2)** szkołę ponadpodstawową, prowadzącą kształcenie w zawodzie, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2025 r. poz. 1043 i 1160), przewiduje przygotowanie do uzyskania kwalifikacji do wykonywania pracy na stanowisku kierowcy – w ramach kwalifikacji wstępnej w zakresie bloku programowego określonego do kategorii prawa jazdy C1, C1+E, C i C+E;
+- **3)** szkołę, o której mowa w pkt 2, albo placówkę lub centrum, o których mowa w art. 2 pkt 4 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, prowadzące kwalifikacyjny kurs zawodowy w zakresie kwalifikacji wyodrębnionej w zawodzie, dla której podstawa programowa kształcenia w zawodzie szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, przewiduje przygotowanie do uzyskania kwalifikacji do wykonywania pracy na stanowisku kierowcy – w ramach kwalifikacji wstępnej w zakresie bloku programowego określonego do kategorii prawa jazdy C1, C1+E, C i C+E;
+- **4)** szkołę, o której mowa w pkt 2, albo placówkę lub centrum, o których mowa w art. 2 pkt 4 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, prowadzące kurs umiejętności zawodowych w zakresie tej części efektów kształcenia wyodrębnionej w ramach kwalifikacji, dla której podstawa programowa kształcenia w zawodzie szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 tej ustawy, przewiduje przygotowanie do uzyskania kwalifikacji do wykonywania pracy na stanowisku kierowcy – w ramach kwalifikacji wstępnej w zakresie bloku programowego określonego do kategorii prawa jazdy C1, C1+E, C i C+E.
+
+1a. Szkolenie osób zamierzających wykonywać przewóz drogowy lub wykonujących przewóz drogowy na stanowisku kierowcy może być prowadzone przez branżowe centrum umiejętności, o którym mowa w art. 2 pkt 4 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, prowadzące działalność w dziedzinie zawodowej transport drogowy, spedycja, logistyka, diagnostyka i naprawa pojazdów, elektromobilność lub przemysł motoryzacyjny, o których mowa w przepisach wydanych na podstawie art. 46c ust. 1 tej ustawy – w ramach kwalifikacji wstępnej, kwalifikacji wstępnej przyspieszonej, kwalifikacji wstępnej uzupełniającej, kwalifikacji wstępnej uzupełniającej przyspieszonej oraz szkolenia okresowego, w zakresie bloku programowego określonego do kategorii prawa jazdy C1, C1+E, C i C+E lub D1, D1+E, D i D+E, jeżeli branżowe centrum umiejętności spełnia wymagania, o których mowa w art. 39g ust. 2 pkt 2 i 3 oraz w przepisach wydanych na podstawie art. 39i ust. 1. Szkolenie to jest prowadzone w formie pozaszkolnej, o której mowa w art. 117 ust. 1a pkt 5 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe.
 
 2. Szkolenie osób wykonujących przewóz drogowy na stanowisku kierowcy może być prowadzone przez wojewódzkie ośrodki ruchu drogowego w ramach szkolenia okresowego w zakresie bloku programowego określonego odpowiednio do kategorii prawa jazdy C1, C1+E, C i C+E lub D1, D1+E, D i D+E.
 
-3. Podmiot, o którym mowa w ust. 1 w:
+3. Podmiot, o którym mowa w:
 
-- **1)** pkt 1 prowadzi szkolenia w formie stacjonarnej lub w formie nauczania na odległość z wykorzystaniem technik komputerowych i Internetu;
-- **2)** pkt 2–4 prowadzi szkolenia w formie dziennej lub w formie stacjonarnej, o których mowa odpowiednio w art. 4 pkt 29a i 29b ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe.
+- **1)** ust. 1 pkt 1 – prowadzi szkolenia w formie stacjonarnej lub w formie nauczania na odległość z wykorzystaniem technik komputerowych i Internetu;
+- **2)** ust. 1 pkt 2–4 i ust. 1a zdanie pierwsze – prowadzi szkolenia w formie dziennej lub w formie stacjonarnej w rozumieniu art. 4 pkt 29a i 29b ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe.
 
 4. Szkolenie w formie nauczania na odległość z wykorzystaniem technik komputerowych i Internetu jest prowadzone wyłącznie przez przedsiębiorcę prowadzącego ośrodek szkolenia nieprzerwanie od co najmniej 3 lat w zakresie odpowiedniego bloku programowego.
 
@@ -1549,9 +1571,11 @@ Art. 97–103. (pominięte)
 
 - **3)** nie jest obywatelem państwa członkowskiego Unii Europejskiej, mająca zamiar wykonywać przewozy na rzecz podmiotu mającego siedzibę na terytorium Rzeczypospolitej Polskiej.
 
-1a. W przypadku kandydatów do szkoły oraz uczniów szkoły prowadzącej kształcenie w zawodzie, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe, przewiduje przygotowanie do uzyskania kwalifikacji do wykonywania pracy na stanowisku kierowcy oraz umiejętności kierowania pojazdem silnikowym, spełnienie wymogu braku przeciwwskazań zdrowotnych i psychologicznych do wykonywania pracy na stanowisku kierowcy, o którym mowa w ust. 1, następuje również na podstawie orzeczenia lekarskiego, o którym mowa w art. 79 ust. 2 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami, oraz na podstawie orzeczenia psychologicznego, o którym mowa w art. 84 ust. 1 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami.
+1a. W przypadku kandydatów do szkoły oraz uczniów szkoły prowadzącej kształcenie w zawodzie, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, przewiduje przygotowanie do uzyskania kwalifikacji do wykonywania pracy na stanowisku kierowcy oraz umiejętności kierowania pojazdem silnikowym, spełnienie wymogu braku przeciwwskazań zdrowotnych i psychologicznych do wykonywania pracy na stanowisku kierowcy, o którym mowa w ust. 1, następuje również na podstawie orzeczenia lekarskiego, o którym mowa w art. 79 ust. 2 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami, oraz na podstawie orzeczenia psychologicznego, o którym mowa w art. 84 ust. 1 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami.
 
-1b. W przypadku kandydatów na kwalifikacyjny kurs zawodowy i słuchaczy kwalifikacyjnego kursu zawodowego, w zakresie kwalifikacji wyodrębnionej w zawodzie, dla której podstawa programowa kształcenia w zawodzie szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe, przewiduje przygotowanie do uzyskania kwalifikacji do wykonywania pracy na stanowisku kierowcy oraz umiejętności kierowania pojazdem silnikowym, spełnienie wymogu braku przeciwwskazań zdrowotnych i psychologicznych do wykonywania pracy na stanowisku kierowcy, o którym mowa w ust. 1, następuje również na podstawie orzeczenia lekarskiego, o którym mowa w art. 79 ust. 2 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami, oraz na podstawie orzeczenia psychologicznego, o którym mowa w art. 84 ust. 1 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami.
+1b. W przypadku kandydatów na kwalifikacyjny kurs zawodowy i słuchaczy kwalifikacyjnego kursu zawodowego, w zakresie kwalifikacji wyodrębnionej w zawodzie, dla której podstawa programowa kształcenia w zawodzie szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, przewiduje przygotowanie do uzyskania kwalifikacji do wykonywania pracy na stanowisku kierowcy oraz umiejętności kierowania pojazdem silnikowym, spełnienie wymogu braku przeciwwskazań zdrowotnych i psychologicznych do wykonywania pracy na stanowisku kierowcy, o którym mowa w ust. 1, następuje również na podstawie orzeczenia lekarskiego, o którym mowa w art. 79 ust. 2 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami, oraz na podstawie orzeczenia psychologicznego, o którym mowa w art. 84 ust. 1 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami.
+
+1c. W przypadku osób uczestniczących w szkoleniach, o których mowa w art. 39aa ust. 1a, spełnienie wymogu braku przeciwwskazań zdrowotnych i psychologicznych do wykonywania pracy na stanowisku kierowcy, o którym mowa w ust. 1, następuje również na podstawie orzeczenia lekarskiego, o którym mowa w art. 79 ust. 2 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami, oraz na podstawie orzeczenia psychologicznego, o którym mowa w art. 84 ust. 1 tej ustawy.
 
 2. Kierowca obowiązany jest uzyskać kwalifikację, odpowiednio do pojazdu samochodowego, którym zamierza wykonywać przewóz drogowy, w zakresie bloków programowych określonych odpowiednio do kategorii prawa jazdy:
 
@@ -1564,8 +1588,8 @@ Art. 97–103. (pominięte)
 
 1. Zajęcia, o których mowa w art. 39b ust. 3, przeprowadzane są w formie:
 
-- **1)** zajęć szkolnych dla uczniów albo zajęć realizowanych w ramach kwalifikacyjnego kursu zawodowego lub kursu umiejętności zawodowych w szkole albo placówce lub centrum, o których mowa w art. 39aa ust. 1 pkt 2–4, jeżeli w programie nauczania jest przewidziane przygotowanie do uzyskania kwalifikacji do wykonywania pracy na stanowisku kierowcy, albo
-- **2)** kursu kwalifikacyjnego w ośrodku szkolenia.
+- **1)** zajęć szkolnych dla uczniów albo zajęć realizowanych w ramach kwalifikacyjnego kursu zawodowego lub kursu umiejętności zawodowych – w szkole albo placówce lub centrum, o których mowa w art. 39aa ust. 1 pkt 2–4, jeżeli w programie nauczania jest przewidziane przygotowanie do uzyskania kwalifikacji do wykonywania pracy na stanowisku kierowcy, albo
+- **2)** kursu kwalifikacyjnego – w ośrodku szkolenia lub w branżowym centrum umiejętności prowadzącym szkolenie, o którym mowa w art. 39aa ust. 1a.
 
 1a. Zajęcia w zakresie kwalifikacji mogą być częściowo prowadzone w formie nauczania na odległość z wykorzystaniem technik komputerowych i Internetu.
 
@@ -1621,25 +1645,25 @@ Art. 97–103. (pominięte)
 
 1. Dyrektor wojewódzkiego ośrodka ruchu drogowego albo upoważniony przez niego pracownik wojewódzkiego ośrodka ruchu drogowego, albo dyrektor okręgowej komisji egzaminacyjnej wydają osobie, która złożyła test kwalifikacyjny z wynikiem pozytywnym, świadectwo kwalifikacji zawodowej potwierdzające uzyskanie odpowiedniej kwalifikacji.
 
-2. Dyrektor wojewódzkiego ośrodka ruchu drogowego albo upoważniony przez niego pracownik wojewódzkiego ośrodka ruchu drogowego, albo dyrektor okręgowej komisji egzaminacyjnej przekazują do centralnej ewidencji kierowców, w zakresie i na zasadach określonych w art. 100ac ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym, informacje dotyczące złożenia z wynikiem pozytywnym lub negatywnym testu kwalifikacyjnego oraz wydania świadectwa kwalifikacji zawodowej.
+2. Dyrektor wojewódzkiego ośrodka ruchu drogowego albo upoważniony przez niego pracownik wojewódzkiego ośrodka ruchu drogowego, albo dyrektor okręgowej komisji egzaminacyjnej przekazują do centralnej ewidencji kierowców, w zakresie i na zasadach określonych w art. 100ac ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, informacje dotyczące złożenia z wynikiem pozytywnym lub negatywnym testu kwalifikacyjnego oraz wydania świadectwa kwalifikacji zawodowej.
 
 3. Wydanie świadectwa kwalifikacji zawodowej następuje przez wprowadzenie informacji o jego wydaniu do centralnej ewidencji kierowców niezwłocznie po złożeniu testu kwalifikacyjnego z wynikiem pozytywnym.
 
 4. Wojewoda niezwłocznie po stwierdzeniu wydania świadectwa kwalifikacji zawodowej na podstawie szkolenia w ramach kwalifikacji wstępnej, kwalifikacji wstępnej przyśpieszonej, kwalifikacji wstępnej uzupełniającej, kwalifikacji wstępnej uzupełniającej przyśpieszonej oraz szkolenia okresowego przeprowadzonego:
 
 - **1)** w mniejszym wymiarze godzin niż wynika to z przepisów wydanych na podstawie art. 39i ust. 1 pkt 2 lub
-- **2)** przez przedsiębiorcę nieposiadającego wpisu w rejestrze przedsiębiorców prowadzących ośrodek szkolenia lub skreślonego z tego rejestru cofa świadectwo kwalifikacji zawodowej i przekazuje do centralnej ewidencji kierowców informację o cofnięciu oraz dacie cofnięcia.
+- **2)** przez przedsiębiorcę nieposiadającego wpisu w rejestrze przedsiębiorców prowadzących ośrodek szkolenia lub skreślonego z tego rejestru – cofa świadectwo kwalifikacji zawodowej i przekazuje do centralnej ewidencji kierowców informację o cofnięciu oraz dacie cofnięcia.
 
-5. Dyrektor okręgowej komisji egzaminacyjnej niezwłocznie po otrzymaniu zawiadomienia o stwierdzeniu przez organ sprawujący nadzór pedagogiczny, o którym mowa w ustawie z dnia 14 grudnia 2016 r. Prawo oświatowe, że:
+5. Dyrektor okręgowej komisji egzaminacyjnej niezwłocznie po otrzymaniu zawiadomienia o stwierdzeniu przez organ sprawujący nadzór pedagogiczny, o którym mowa w ustawie z dnia 14 grudnia 2016 r. – Prawo oświatowe, że:
 
 - **1)** kształcenie w ramach kwalifikacji wstępnej w zakresie bloku programowego określonego do kategorii prawa jazdy C1, C1+E, C i C+E było prowadzone przez szkołę, placówkę lub centrum, o których mowa w art. 39aa ust. 1 pkt 2–4, w mniejszym wymiarze godzin, niż wynika to z przepisów wydanych na podstawie art. 39i ust. 1 pkt 2, lub
-- **2)** kształcenie w ramach kwalifikacji wstępnej w zakresie bloku programowego określonego do kategorii prawa jazdy C1, C1+E, C i C+E było prowadzone przez szkołę prowadzącą kształcenie zawodowe, o której mowa w art. 4 pkt 28a lit. a ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe, albo placówkę lub centrum, o których mowa w art. 2 pkt 4 tej ustawy, nieuprawnione do prowadzenia tego kształcenia cofa świadectwo kwalifikacji zawodowej i przekazuje do centralnej ewidencji kierowców informację o cofnięciu oraz dacie cofnięcia.
+- **2)** kształcenie w ramach kwalifikacji wstępnej w zakresie bloku programowego określonego do kategorii prawa jazdy C1, C1+E, C i C+E było prowadzone przez szkołę prowadzącą kształcenie zawodowe, o której mowa w art. 4 pkt 28a lit. a ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, albo placówkę lub centrum, o których mowa w art. 2 pkt 4 tej ustawy, nieuprawnione do prowadzenia tego kształcenia – cofa świadectwo kwalifikacji zawodowej i przekazuje do centralnej ewidencji kierowców informację o cofnięciu oraz dacie cofnięcia
 
 **Art. 39c¹.**
 
-1. Organ wydający kartę kwalifikacji kierowcy lub prawo jazdy z wpisem kodu 95 wymienia informacje z właściwym organem państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym lub Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej o wydanych lub cofniętych świadectwach kwalifikacji zawodowej oraz o wydanych lub unieważnionych kartach kwalifikacji kierowcy.
+1. Organ wydający kartę kwalifikacji kierowcy lub prawo jazdy z wpisem kodu 95 wymienia informacje z właściwym organem państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej o wydanych lub cofniętych świadectwach kwalifikacji zawodowej oraz o wydanych lub unieważnionych kartach kwalifikacji kierowcy.
 
-2. Wymiana informacji, o której mowa w ust. 1, w zakresie wydanego lub cofniętego świadectwa kwalifikacji zawodowej oraz wydanej lub unieważnionej karty kwalifikacji kierowcy przez państwo członkowskie Unii Europejskiej, Konfederację Szwajcarską lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronę umowy o Europejskim Obszarze Gospodarczym lub przez Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej następuje wyłącznie w drodze teletransmisji przy użyciu elektronicznej sieci. W przypadku gdy użycie elektronicznej sieci nie byłoby możliwe, potwierdzenie danych i wymiana informacji może nastąpić w inny sposób, w szczególności w formie pisemnej w postaci papierowej lub elektronicznej.
+2. Wymiana informacji, o której mowa w ust. 1, w zakresie wydanego lub cofniętego świadectwa kwalifikacji zawodowej oraz wydanej lub unieważnionej karty kwalifikacji kierowcy przez państwo członkowskie Unii Europejskiej, Konfederację Szwajcarską lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronę umowy o Europejskim Obszarze Gospodarczym lub przez Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej następuje wyłącznie w drodze teletransmisji przy użyciu elektronicznej sieci. W przypadku gdy użycie elektronicznej sieci nie byłoby możliwe, potwierdzenie danych i wymiana informacji może nastąpić w inny sposób, w szczególności w formie pisemnej w postaci papierowej lub elektronicznej.
 
 3. Przepisy ust. 1 i 2 stosuje się wyłącznie w zakresie danych aktualnie dostępnych w elektronicznej sieci.
 
@@ -1678,29 +1702,29 @@ Art. 97–103. (pominięte)
 
 **Art. 39e.**
 
-1. Kierownik ośrodka szkolenia wydaje osobie, która ukończyła wymagane zajęcia w ramach szkolenia okresowego, świadectwo kwalifikacji zawodowej potwierdzające ukończenie szkolenia okresowego.
+1. Kierownik ośrodka szkolenia lub dyrektor branżowego centrum umiejętności prowadzącego szkolenie, o którym mowa w art. 39aa ust. 1a, wydaje osobie, która ukończyła wymagane zajęcia w ramach szkolenia okresowego, świadectwo kwalifikacji zawodowej potwierdzające ukończenie szkolenia okresowego.
 
 1a. Wydanie świadectwa kwalifikacji zawodowej następuje przez wprowadzenie informacji o jego wydaniu do centralnej ewidencji kierowców niezwłocznie po ukończeniu przez osobę wymaganych zajęć w ramach szkolenia okresowego.
 
 2. Kierownik ośrodka szkolenia jest obowiązany:
 
 - **1)** przedstawić wojewodzie właściwemu ze względu na miejsce prowadzenia ośrodka szkolenia, najpóźniej w następnym dniu roboczym po dniu rozpoczęcia kursu, informację o terminie, czasie i miejscu, w których będą prowadzone zajęcia, wraz z listą uczestników kursu kwalifikacyjnego lub szkolenia okresowego;
-- **1)** przesłać wojewodzie, przez przekazanie do centralnej ewidencji kierowców, informację o terminie, czasie i miejscu rozpoczęcia pierwszych zajęć w ramach kursu kwalifikacyjnego lub szkolenia okresowego lub informację o terminie, czasie i miejscu rozpoczęcia modułu szkolenia okresowego oraz informację o prowadzeniu szkolenia w formie nauczania na odległość z wykorzystaniem technik komputerowych i Internetu, w zakresie i na zasadach określonych w art. 100ac ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym;
+- **1)** przesłać wojewodzie, przez przekazanie do centralnej ewidencji kierowców, informację o terminie, czasie i miejscu rozpoczęcia pierwszych zajęć w ramach kursu kwalifikacyjnego lub szkolenia okresowego lub informację o terminie, czasie i miejscu rozpoczęcia modułu szkolenia okresowego oraz informację o prowadzeniu szkolenia w formie nauczania na odległość z wykorzystaniem technik komputerowych i Internetu, w zakresie i na zasadach określonych w art. 100ac ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym;
 - **2)** prowadzić dokumentację odpowiednio kursu kwalifikacyjnego oraz szkolenia okresowego;
 - **3)** przekazywać wojewodzie, o którym mowa w pkt 1, w terminie 14 dni od dnia zakończenia szkolenia okresowego i wydania świadectwa kwalifikacji zawodowej potwierdzającego jego ukończenie, następujące dane osób, które ukończyły kurs:
     - **a)** imię i nazwisko,
     - **b)** datę i miejsce urodzenia,
-    - **c)** numer PESEL, a w przypadku osoby nieposiadającej numeru PESEL serię, numer i nazwę dokumentu potwierdzającego tożsamość oraz nazwę państwa, które wydało ten dokument,
+    - **c)** numer PESEL, a w przypadku osoby nieposiadającej numeru PESEL – serię, numer i nazwę dokumentu potwierdzającego tożsamość oraz nazwę państwa, które wydało ten dokument,
     - **d)** adres zamieszkania,
     - **e)** zakres ukończonego szkolenia,
     - **f)** datę rozpoczęcia i zakończenia szkolenia,
     - **g)** numer wydanego świadectwa kwalifikacji zawodowej lub numer zaświadczenia potwierdzającego ukończenie jednego z modułów szkolenia, o którym mowa w art. 39d ust. 3 pkt 2.
 
-- **3)** przesłać wojewodzie, przez przekazanie do centralnej ewidencji kierowców, dane dotyczące osób, które ukończyły kurs kwalifikacyjny, szkolenie okresowe lub moduł szkolenia okresowego, w zakresie i na zasadach określonych w art. 100ac ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym.
+- **3)** przesłać wojewodzie, przez przekazanie do centralnej ewidencji kierowców, dane dotyczące osób, które ukończyły kurs kwalifikacyjny, szkolenie okresowe lub moduł szkolenia okresowego, w zakresie i na zasadach określonych w art. 100ac ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym.
 
 2a. W momencie wykonywania czynności, o której mowa w ust. 2 pkt 1, następuje automatyczne wygenerowanie numeru kursu kwalifikacyjnego lub szkolenia okresowego w systemie teleinformatycznym obsługującym centralną ewidencję kierowców.
 
-3. Kierownik ośrodka szkolenia, o którym mowa w ust. 1, przekazuje do centralnej ewidencji kierowców, w zakresie i na zasadach określonych w art. 100ac ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym, dane osób, którym wydał świadectwo.
+3. Kierownik ośrodka szkolenia, o którym mowa w ust. 1, przekazuje do centralnej ewidencji kierowców, w zakresie i na zasadach określonych w art. 100ac ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, dane osób, którym wydał świadectwo.
 
 3. (uchylony)
 
@@ -1714,7 +1738,7 @@ Art. 97–103. (pominięte)
     - **a)** krajowe prawo jazdy albo
     - **b)** karta kwalifikacji kierowcy;
 
-- **2)** innym państwie członkowskim Unii Europejskiej, Konfederacji Szwajcarskiej lub w państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronie umowy o Europejskim Obszarze Gospodarczym lub w Zjednoczonym Królestwie Wielkiej Brytanii i Irlandii Północnej z aktualnym wpisem kodu 95:
+- **2)** innym państwie członkowskim Unii Europejskiej, Konfederacji Szwajcarskiej lub w państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym lub w Zjednoczonym Królestwie Wielkiej Brytanii i Irlandii Północnej z aktualnym wpisem kodu 95:
     - **a)** krajowe prawo jazdy,
     - **b)** karta kwalifikacji kierowcy,
     - **c)** świadectwo kierowcy w zakresie przewozu drogowego rzeczy.
@@ -1730,15 +1754,15 @@ Art. 97–103. (pominięte)
 
 **Art. 39g.**
 
-1. Działalność gospodarcza w zakresie prowadzenia ośrodka szkolenia stanowi działalność regulowaną w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców i wymaga uzyskania wpisu do rejestru przedsiębiorców prowadzących ośrodek szkolenia.
+1. Działalność gospodarcza w zakresie prowadzenia ośrodka szkolenia stanowi działalność regulowaną w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców i wymaga uzyskania wpisu do rejestru przedsiębiorców prowadzących ośrodek szkolenia.
 
 2. Warunki wykonywania działalności gospodarczej w zakresie prowadzenia ośrodka szkolenia spełnia przedsiębiorca, który:
 
 - **1)** prowadzi działalność gospodarczą w zakresie prowadzenia ośrodka szkolenia kierowców, zgodnie z art. 28 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami, lub spełnia wymagania określone dla tej działalności;
 - **2)** zapewnia prowadzenie szkolenia zgodnie z programem przez:
-    - **a)** wykładowców posiadających wiedzę, umiejętności i wykształcenie niezbędne do zapewnienia prawidłowego przebiegu szkolenia w zakresie zajęć teoretycznych,
-    - **b)** osoby posiadające odpowiednie do prowadzonego szkolenia uprawnienia instruktora, o którym mowa w art. 33 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami w zakresie zajęć praktycznych,
-    - **c)** osoby posiadające odpowiednie do prowadzonego szkolenia uprawnienia instruktora techniki jazdy, o którym mowa w art. 117 ust. 2 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami podczas zajęć z jazdy w warunkach specjalnych prowadzonych w oparciu o infrastrukturę, o której mowa w ust. 2 pkt 3, i urządzenie, o którym mowa w ust. 11 pkt 2;
+    - **a)** wykładowców posiadających wiedzę, umiejętności i wykształcenie niezbędne do zapewnienia prawidłowego przebiegu szkolenia – w zakresie zajęć teoretycznych,
+    - **b)** osoby posiadające odpowiednie do prowadzonego szkolenia uprawnienia instruktora, o którym mowa w art. 33 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami – w zakresie zajęć praktycznych,
+    - **c)** osoby posiadające odpowiednie do prowadzonego szkolenia uprawnienia instruktora techniki jazdy, o którym mowa w art. 117 ust. 2 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami – podczas zajęć z jazdy w warunkach specjalnych prowadzonych w oparciu o infrastrukturę, o której mowa w ust. 2 pkt 3, i urządzenie, o którym mowa w ust. 11 pkt 2;
 
 - **3)** posiada:
     - **a)** warunki lokalowe,
@@ -1761,7 +1785,7 @@ Art. 97–103. (pominięte)
 4. Wpis do rejestru przedsiębiorców prowadzących ośrodek szkolenia dokonywany jest na wniosek przedsiębiorcy zawierający następujące dane:
 
 - **1)** oznaczenie przedsiębiorcy, jego siedziby i adresu albo miejsca zamieszkania;
-- **2)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym o ile jest wymagany;
+- **2)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym – o ile jest wymagany;
 - **3)** numer identyfikacji podatkowej (NIP) przedsiębiorcy;
 - **4)** wskazanie miejsca prowadzenia ośrodka szkolenia.
 
@@ -1770,7 +1794,7 @@ Art. 97–103. (pominięte)
 - **1)** program szkolenia wraz z planem wykonania szkolenia oraz metodami nauczania;
 - **2)** kopie dokumentów potwierdzających wiedzę i kwalifikacje instruktorów, instruktorów techniki jazdy oraz wykładowców;
 - **3)** kopie dokumentów zawierających informacje o: warunkach lokalowych, wyposażeniu dydaktycznym oraz miejscu przeznaczonym do prowadzenia zajęć praktycznych i posiadanych pojazdach albo kopię umowy, o której mowa w ust. 11 pkt 1, lub dokumentów zawierających informację o urządzeniu, o którym mowa w ust. 11 pkt 2, wraz z kopią certyfikatu;
-- **4)** dokument potwierdzający spełnianie odpowiednich wymagań technicznych przez pojazdy, o których mowa w ust. 2 pkt 3 lit. e, wydany przez rzeczoznawcę samochodowego, o którym mowa w art. 79a ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym.
+- **4)** dokument potwierdzający spełnianie odpowiednich wymagań technicznych przez pojazdy, o których mowa w ust. 2 pkt 3 lit. e, wydany przez rzeczoznawcę samochodowego, o którym mowa w art. 79a ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym.
 
 6. Wraz z wnioskiem, o którym mowa w ust. 4, przedsiębiorca składa oświadczenie o następującej treści: „Oświadczam, że:
 
@@ -1789,12 +1813,12 @@ Art. 97–103. (pominięte)
 
 9. Dokonując wpisu, wojewoda pobiera:
 
-- **1)** opłatę za wpis stanowiącą dochód budżetu państwa.
+- **1)** opłatę za wpis – stanowiącą dochód budżetu państwa.
 - **2)** (uchylony)
 
 10. Wojewoda przekazuje:
 
-- **1)** do centralnej ewidencji kierowców dane o dokonaniu wpisu przedsiębiorcy do rejestru przedsiębiorców prowadzących ośrodek szkolenia na zasadach określonych w art. 100ac ust. 3 ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym.
+- **1)** do centralnej ewidencji kierowców dane o dokonaniu wpisu przedsiębiorcy do rejestru przedsiębiorców prowadzących ośrodek szkolenia – na zasadach określonych w art. 100ac ust. 3 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym.
 - **2)** (uchylony)
 
 11. Przedsiębiorca może nie spełniać wymagań, o których mowa w ust. 2 pkt 3 lit. d, jeśli:
@@ -1843,15 +1867,29 @@ Art. 97–103. (pominięte)
 
 3c. Wojewoda wykreśla przedsiębiorcę z rejestru przedsiębiorców prowadzących ośrodek szkolenia na jego wniosek, a także po uzyskaniu informacji z Centralnej Ewidencji i Informacji o Działalności Gospodarczej albo Krajowego Rejestru Sądowego o wykreśleniu przedsiębiorcy.
 
-4. Dane o wykreśleniu przedsiębiorcy z rejestru przedsiębiorców prowadzących ośrodek szkolenia wojewoda przekazuje do centralnej ewidencji kierowców na zasadach określonych w art. 100ac ust. 3 ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym. Art. 39ha. 1. Przedsiębiorca, którego wykreślono z rejestru przedsiębiorców prowadzących ośrodek szkolenia, może uzyskać ponowny wpis do rejestru w tym samym zakresie działalności gospodarczej nie wcześniej niż po upływie 3 lat od dnia wydania decyzji, o której mowa w art. 39h ust. 2 pkt 3.
+4. Dane o wykreśleniu przedsiębiorcy z rejestru przedsiębiorców prowadzących ośrodek szkolenia wojewoda przekazuje do centralnej ewidencji kierowców na zasadach określonych w art. 100ac ust. 3 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym. Art. 39ha. 1. Przedsiębiorca, którego wykreślono z rejestru przedsiębiorców prowadzących ośrodek szkolenia, może uzyskać ponowny wpis do rejestru w tym samym zakresie działalności gospodarczej nie wcześniej niż po upływie 3 lat od dnia wydania decyzji, o której mowa w art. 39h ust. 2 pkt 3.
 
-2. Przepis ust. 1 stosuje się odpowiednio do przedsiębiorcy, który wykonywał działalność gospodarczą bez wpisu do rejestru przedsiębiorców prowadzących ośrodek szkolenia. Nie dotyczy to sytuacji określonej w art. 39ga ust. 2.
+2. Przepis ust. 1 stosuje się odpowiednio do przedsiębiorcy, który wykonywał działalność gospodarczą bez wpisu do rejestru przedsiębiorców prowadzących ośrodek szkolenia. Nie dotyczy to sytuacji określonej w art. 39ga ust. 2. Art. 39hb. 1. Wojewoda właściwy ze względu na siedzibę branżowego centrum umiejętności prowadzącego szkolenie, o którym mowa w art. 39aa ust. 1a, sprawuje nadzór nad prowadzeniem tego szkolenia.
+
+2. Branżowe centrum umiejętności prowadzące szkolenie, o którym mowa w art. 39aa ust. 1a, informuje wojewodę o rozpoczęciu prowadzenia szkolenia.
+
+3. Przed rozpoczęciem szkolenia oraz w ramach sprawowanego nadzoru wojewoda przeprowadza kontrolę w branżowym centrum umiejętności prowadzącym szkolenie, o którym mowa w art. 39aa ust. 1a, w zakresie spełniania wymagań, o których mowa w art. 39g ust. 2 pkt 2 i 3 oraz w przepisach wydanych na podstawie art. 39i ust. 1.
+
+4. W przypadku gdy branżowe centrum umiejętności prowadzące szkolenie, o którym mowa w art. 39aa ust. 1a, nie spełnia wymagań, o których mowa w art. 39g ust. 2 pkt 2 i 3 oraz w przepisach wydanych na podstawie art. 39i ust. 1, wojewoda wyznacza termin dostosowania się do tych wymagań.
+
+5. Do kontroli, o której mowa w ust. 3, przepisy art. 39h ust. 2a i ust. 3 pkt 1, 3 i 4 stosuje się odpowiednio.
+
+6. Wojewoda wydaje decyzję administracyjną o zakazie prowadzenia przez branżowe centrum umiejętności szkolenia, o którym mowa w art. 39aa ust. 1a, w przypadku gdy branżowe centrum umiejętności nie dostosowało się do wymagań, o których mowa w art. 39g ust. 2 pkt 2 i 3 oraz w przepisach wydanych na podstawie art. 39i ust. 1, w wyznaczonym przez wojewodę terminie, lub rażąco naruszyło warunki, o których mowa w art. 39h ust. 3 pkt 1, 3 i 4. Decyzja podlega natychmiastowemu wykonaniu.
+
+7. Decyzję, o której mowa w ust. 6, wojewoda przekazuje do organu prowadzącego branżowe centrum umiejętności prowadzące szkolenie, o którym mowa w art. 39aa ust. 1a, i do kuratora oświaty właściwego ze względu na siedzibę tego centrum.
+
+8. Branżowe centrum umiejętności może wznowić prowadzenie szkolenia, o którym mowa w art. 39aa ust. 1a, po upływie 2 lat od dnia wydania decyzji, o której mowa w ust. 7. Przepisy ust. 2‒7 stosuje się.
 
 **Art. 39i.**
 
 1. Minister właściwy do spraw transportu określi, w drodze rozporządzenia:
 
-- **1)** szczegółowe wymagania w stosunku do przedsiębiorcy prowadzącego ośrodek szkolenia, o którym mowa w art. 39g, w zakresie infrastruktury technicznej, warunków lokalowych, wyposażenia dydaktycznego oraz pojazdów używanych w trakcie szkolenia;
+- **1)** szczegółowe wymagania w stosunku do przedsiębiorcy prowadzącego ośrodek szkolenia, o którym mowa w art. 39g, oraz branżowego centrum umiejętności prowadzącego szkolenie, o którym mowa w art. 39aa ust. 1a, w zakresie infrastruktury technicznej, warunków lokalowych, wyposażenia dydaktycznego oraz pojazdów używanych w trakcie szkolenia;
 - **2)** szczegółowe warunki, tryb, zakres i sposób prowadzenia:
     - **a)** kwalifikacji wstępnej, kwalifikacji wstępnej przyśpieszonej, kwalifikacji wstępnej uzupełniającej i kwalifikacji wstępnej uzupełniającej przyśpieszonej,
     - **b)** szkolenia okresowego w formie kursu okresowego oraz cyklu zajęć, o których mowa w art. 39d ust. 3;
@@ -1887,20 +1925,20 @@ Art. 97–103. (pominięte)
 
 1. Kierowca wykonujący przewóz drogowy podlega badaniom lekarskim przeprowadzanym w celu stwierdzenia istnienia lub braku przeciwwskazań zdrowotnych do wykonywania pracy na stanowisku kierowcy.
 
-2. Badania lekarskie, o których mowa w ust. 1, są wykonywane, z zastrzeżeniem ust. 3–6, w zakresie i na zasadach określonych w przepisach ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2025 r. poz. 277 i 807), zwanej dalej „Kodeksem pracy”.
+2. Badania lekarskie, o których mowa w ust. 1, są wykonywane, z zastrzeżeniem ust. 3–6, w zakresie i na zasadach określonych w przepisach ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277 i 807), zwanej dalej „Kodeksem pracy”.
 
 3. Zakres badań lekarskich, o których mowa w ust. 1, obejmuje ponadto ustalenie istnienia lub braku przeciwwskazań zdrowotnych do kierowania pojazdami, zgodnie z rozdziałem 12 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami.
 
 4. Badania lekarskie, o których mowa w ust. 1, są przeprowadzane:
 
-- **1)** do czasu ukończenia przez kierowcę 60 lat co 5 lat;
-- **2)** po ukończeniu przez kierowcę 60. roku życia co 30 miesięcy.
+- **1)** do czasu ukończenia przez kierowcę 60 lat – co 5 lat;
+- **2)** po ukończeniu przez kierowcę 60. roku życia – co 30 miesięcy.
 
 5. (uchylony)
 
 6. Badania lekarskie, o których mowa w ust. 1, wykonują lekarze uprawnieni do wykonywania badań profilaktycznych, o których mowa w przepisach Kodeksu pracy, posiadający dodatkowo uprawnienia do przeprowadzania badań lekarskich kandydatów na kierowców i kierowców określone w odrębnych przepisach.
 
-7. Lekarz uprawniony, o którym mowa w ust. 6, po przeprowadzeniu badania lekarskiego, o którym mowa w ust. 1, wydaje osobie badanej orzeczenie lekarskie i przekazuje do centralnej ewidencji kierowców, w zakresie i na zasadach określonych w art. 100ac ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym, dane osoby, której wydał to orzeczenie.
+7. Lekarz uprawniony, o którym mowa w ust. 6, po przeprowadzeniu badania lekarskiego, o którym mowa w ust. 1, wydaje osobie badanej orzeczenie lekarskie i przekazuje do centralnej ewidencji kierowców, w zakresie i na zasadach określonych w art. 100ac ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, dane osoby, której wydał to orzeczenie.
 
 **Art. 39k.**
 
@@ -1910,12 +1948,12 @@ Art. 97–103. (pominięte)
 
 3. Badania psychologiczne, o których mowa w ust. 1, są przeprowadzane:
 
-- **1)** do czasu ukończenia przez kierowcę 60 lat co 5 lat;
-- **2)** po ukończeniu przez kierowcę 60. roku życia co 30 miesięcy.
+- **1)** do czasu ukończenia przez kierowcę 60 lat – co 5 lat;
+- **2)** po ukończeniu przez kierowcę 60. roku życia – co 30 miesięcy.
 
 4. (uchylony)
 
-5. Uprawniony psycholog, o którym mowa w art. 83 ust. 1 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami, po przeprowadzeniu badania psychologicznego, o którym mowa w ust. 1, wydaje osobie badanej orzeczenie psychologiczne i przekazuje do centralnej ewidencji kierowców, w zakresie i na zasadach określonych w art. 100ac ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym, dane osoby, której wydał to orzeczenie.
+5. Uprawniony psycholog, o którym mowa w art. 83 ust. 1 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami, po przeprowadzeniu badania psychologicznego, o którym mowa w ust. 1, wydaje osobie badanej orzeczenie psychologiczne i przekazuje do centralnej ewidencji kierowców, w zakresie i na zasadach określonych w art. 100ac ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, dane osoby, której wydał to orzeczenie.
 
 **Art. 39l.**
 
@@ -2009,12 +2047,12 @@ Art. 97–103. (pominięte)
     - **f)** wydania zaświadczenia, zmiany zaświadczenia, wydania wypisu z zaświadczenia o zgłoszeniu działalności w zakresie międzynarodowego przewozu na potrzeby własne,
 
 - **2)** wydania zezwolenia EKMT,
-- **3)** wydania zezwolenia na wykonywanie międzynarodowego transportu drogowego osób na lub przez terytorium Rzeczypospolitej Polskiej pojazdem samochodowym przeznaczonym konstrukcyjnie do przewozu nie więcej niż 9 osób łącznie z kierowcą są przekazywane w całości na wyodrębniony rachunek bankowy Generalnej Dyrekcji Dróg Krajowych i Autostrad.
+- **3)** wydania zezwolenia na wykonywanie międzynarodowego transportu drogowego osób na lub przez terytorium Rzeczypospolitej Polskiej pojazdem samochodowym przeznaczonym konstrukcyjnie do przewozu nie więcej niż 9 osób łącznie z kierowcą – są przekazywane w całości na wyodrębniony rachunek bankowy Generalnej Dyrekcji Dróg Krajowych i Autostrad.
 
 1a. Wpływy uzyskane z opłat, za wydanie zezwoleń zagranicznych na wykonywanie międzynarodowego transportu drogowego rzeczy lub osób, są przekazywane, z zastrzeżeniem ust. 1 pkt 2:
 
-- **1)** na wyodrębniony rachunek bankowy Generalnej Dyrekcji Dróg Krajowych i Autostrad 20 % wpływów;
-- **2)** do Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej, o którym mowa w ustawie z dnia 16 maja 2019 r. o Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej (Dz. U. z 2024 r. poz. 402 i 1572 oraz z 2025 r. poz. 303) 80 % wpływów.
+- **1)** na wyodrębniony rachunek bankowy Generalnej Dyrekcji Dróg Krajowych i Autostrad – 20 % wpływów;
+- **2)** do Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej, o którym mowa w ustawie z dnia 16 maja 2019 r. o Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej (Dz. U. z 2024 r. poz. 402 i 1572 oraz z 2025 r. poz. 303) – 80 % wpływów.
 
 2. Generalny Dyrektor Dróg Krajowych i Autostrad sprawuje nadzór nad realizacją wpływów z opłat, o których mowa w art. 41 ust. 1 pkt 7–9 i art. 43.
 
@@ -2038,7 +2076,7 @@ Art. 97–103. (pominięte)
     - **b)** liczby pojazdów samochodowych, na które wydaje się wypisy z licencji,
     - **c)** zakresu transportu drogowego,
     - **d)** rodzaju przewozów,
-    - **e)** rodzaju pojazdów w międzynarodowym transporcie drogowym osób;
+    - **e)** rodzaju pojazdów – w międzynarodowym transporcie drogowym osób;
 
 - **1a)** w przypadku zezwolenia na wykonywanie zawodu przewoźnika drogowego, w zależności od liczby pojazdów, na które wydaje się wypisy z zezwolenia;
 - **2)** w przypadku zezwolenia, w zależności od:
@@ -2057,16 +2095,16 @@ Art. 97–103. (pominięte)
 
 3. Wysokość opłaty z tytułu:
 
-- **1)** udzielenia licencji nie może być wyższa niż równowartość 1 000 000 euro;
-- **2)** udzielenia zezwolenia na transport drogowy osób nie może być wyższa niż równowartość 800 euro;
-- **3)** udzielenia zezwolenia na przewóz kabotażowy nie może być wyższa niż równowartość 800 euro za przewóz jednorazowy;
-- **4)** wydania zezwolenia zagranicznego nie może być wyższa niż równowartość:
+- **1)** udzielenia licencji – nie może być wyższa niż równowartość 1 000 000 euro;
+- **2)** udzielenia zezwolenia na transport drogowy osób – nie może być wyższa niż równowartość 800 euro;
+- **3)** udzielenia zezwolenia na przewóz kabotażowy – nie może być wyższa niż równowartość 800 euro za przewóz jednorazowy;
+- **4)** wydania zezwolenia zagranicznego – nie może być wyższa niż równowartość:
     - **a)** 500 euro za wielokrotne zezwolenie roczne,
     - **b)** 15 euro za zezwolenie jednorazowe;
 
-- **5)** wydania świadectwa kierowcy nie może być wyższa niż równowartość 10 euro;
-- **6)** wydania formularza jazdy nie może być wyższa niż równowartość 30 euro;
-- **7)** wydania certyfikatu, o którym mowa w art. 30 ust. 10 nie może być wyższa niż równowartość:
+- **5)** wydania świadectwa kierowcy – nie może być wyższa niż równowartość 10 euro;
+- **6)** wydania formularza jazdy – nie może być wyższa niż równowartość 30 euro;
+- **7)** wydania certyfikatu, o którym mowa w art. 30 ust. 10 – nie może być wyższa niż równowartość:
     - **a)** 70 euro dla pojazdu samochodowego nieposiadającego certyfikatu,
     - **b)** 50 euro dla pojazdu samochodowego w przypadku wznowienia certyfikatu,
     - **c)** 30 euro dla przyczepy lub naczepy nieposiadającej certyfikatu,
@@ -2083,7 +2121,7 @@ Art. 97–103. (pominięte)
 1. Dworzec:
 
 - **1)** którego właścicielem lub współwłaścicielem w części większej niż połowa udziałów we współwłasności jest jednostka samorządu terytorialnego oraz
-- **2)** który jest zlokalizowany w mieście powyżej 50 000 mieszkańców, oraz z którego rocznie odjeżdża powyżej 500 000 pasażerów podlega obowiązkowi dostosowania do udzielania pomocy osobom niepełnosprawnym i osobom o ograniczonej sprawności ruchowej w zakresie określonym w załączniku I lit. a do rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 181/2011 z dnia 16 lutego 2011 r. dotyczącego praw pasażerów w transporcie autobusowym i autokarowym i zmieniającego rozporządzenie (WE) nr 2006/2004 (Dz. Urz. UE L 55 z 28.02.2011, str. 1), zwanego dalej „rozporządzeniem nr 181/2011”.
+- **2)** który jest zlokalizowany w mieście powyżej 50 000 mieszkańców, oraz z którego rocznie odjeżdża powyżej 500 000 pasażerów – podlega obowiązkowi dostosowania do udzielania pomocy osobom niepełnosprawnym i osobom o ograniczonej sprawności ruchowej w zakresie określonym w załączniku I lit. a do rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 181/2011 z dnia 16 lutego 2011 r. dotyczącego praw pasażerów w transporcie autobusowym i autokarowym i zmieniającego rozporządzenie (WE) nr 2006/2004 (Dz. Urz. UE L 55 z 28.02.2011, str. 1), zwanego dalej „rozporządzeniem nr 181/2011”.
 
 2. Jednostka, o której mowa w ust. 1 pkt 1, jest obowiązana corocznie do dnia 31 marca przeprowadzić analizę dotyczącą spełniania przez dworzec, którego jest właścicielem lub współwłaścicielem w części większej niż połowa udziałów we współwłasności, kryteriów określonych w ust. 1 pkt 2. Wyniki analizy przekazuje się niezwłocznie wojewodzie.
 
@@ -2104,7 +2142,7 @@ Art. 97–103. (pominięte)
 1. Minister właściwy do spraw transportu może zawrzeć z podmiotem zarządzającym dworcem spełniającym kryteria określone w art. 47b ust. 1 pkt 2, niebędącym:
 
 - **1)** jednostką samorządu terytorialnego, o której mowa w art. 47b ust. 1 pkt 1 lub
-- **2)** właścicielem dworca, o którym mowa w art. 47c ust. 1, który wystąpił z wnioskiem, o którym mowa w tym przepisie porozumienie na podstawie którego podmiot zarządzający dworcem dostosuje ten dworzec do udzielania pomocy w terminie określonym w tym porozumieniu.
+- **2)** właścicielem dworca, o którym mowa w art. 47c ust. 1, który wystąpił z wnioskiem, o którym mowa w tym przepisie – porozumienie na podstawie którego podmiot zarządzający dworcem dostosuje ten dworzec do udzielania pomocy w terminie określonym w tym porozumieniu.
 
 2. Po dostosowaniu dworca, o którym mowa w ust. 1, do udzielania pomocy minister właściwy do spraw transportu wyznacza ten dworzec jako dworzec, w którym jest udzielana pomoc, poprzez jego zamieszczenie w wykazie, o którym mowa w art. 47g.
 
@@ -2171,12 +2209,12 @@ Art. 97–103. (pominięte)
 
 6. W sprawach związanych z wykonywaniem zadań i kompetencji Inspekcji organem właściwym jest:
 
-- **1)** Główny Inspektor Transportu Drogowego w sprawach:
+- **1)** Główny Inspektor Transportu Drogowego – w sprawach:
     - **a)** określonych w art. 50 pkt 2, 3 i 4,
     - **b)** związanych z kontrolą uiszczenia opłaty elektronicznej za przejazd po drogach krajowych, na zasadach określonych w ustawie z dnia 21 marca 1985 r. o drogach publicznych, w tym w ramach kontroli związanej z transgraniczną wymianą informacji, o której mowa w art. 13mg tej ustawy, ba) (uchylona) bb) (uchylona) bc) (uchylona)
-    - **c)** związanych z kontrolą przestrzegania przepisów ruchu drogowego przez kierujących pojazdami w zakresie, o którym mowa w art. 129g ust. 1 ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym;
+    - **c)** związanych z kontrolą przestrzegania przepisów ruchu drogowego przez kierujących pojazdami w zakresie, o którym mowa w art. 129g ust. 1 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym;
 
-- **2)** wojewódzki inspektor w pozostałych sprawach oraz w sprawach określonych w art. 50 pkt 4.
+- **2)** wojewódzki inspektor – w pozostałych sprawach oraz w sprawach określonych w art. 50 pkt 4.
 
 7. Główny Inspektor Transportu Drogowego może w sprawach, o których mowa w ust. 6 pkt 1 lit. a oraz b, upoważnić do działania w jego imieniu wojewódzkiego inspektora transportu drogowego.
 
@@ -2275,15 +2313,15 @@ Art. 97–103. (pominięte)
 - **4)** przygotowuje projekty aktów prawnych w zakresie kontroli przewozów drogowych;
 - **5)** opracowuje, we współpracy z Komendantem Głównym Policji, Komendantem Głównym Straży Granicznej, Szefem Krajowej Administracji Skarbowej oraz Głównym Inspektorem Pracy, jednolitą krajową strategię kontroli przepisów w zakresie czasu jazdy i czasu postoju, obowiązkowych przerw i czasu odpoczynku kierowców;
 - **5a)** opracowuje, co dwa lata, we współpracy z Komendantem Głównym Policji i Szefem Krajowej Administracji Skarbowej, jednolitą krajową strategię kontroli przepisów w zakresie przewozów kabotażowych, o której mowa w art. 10a ust. 1 rozporządzenia (WE) nr 1072/2009;
-- **6)** zapewnia uczestnictwo Inspekcji, co najmniej sześć razy w roku, w skoordynowanych z właściwymi organami kontrolnymi innego państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym kontrolach drogowych kierowców pojazdów objętych zakresem stosowania rozporządzenia (UE) nr 165/2014 oraz rozporządzenia (WE) nr 561/2006, w tym co najmniej dwa razy w roku w kontrolach drogowych przewozów kabotażowych, zgodnie z art. 10a ust. 3 rozporządzenia (WE) nr 1072/2009; kontrole takie są wykonywane na terytorium Rzeczypospolitej Polskiej i mogą być przeprowadzane wspólnie z polskimi organami kontrolnymi;
-- **6a)** zapewnia uczestnictwo Inspekcji, co najmniej raz w roku, w skoordynowanych z właściwymi organami kontrolnymi innego państwa członkowskiego lub państw członkowskich Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym, wstępnych lub szczegółowych drogowych kontrolach technicznych pojazdów kategorii M , M , N i N , przyczep kategorii O i O i ciągników kołowych kategorii T , T , T , T , T , T i T użytkowanych na drodze publicznej do wykonywania zarobkowego przewozu rzeczy;
-- **6b)** podejmuje starania w celu uczestnictwa Inspekcji w skoordynowanych z właściwymi organami kontrolnymi innego państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym kontrolach w przedsiębiorstwach podmiotów wykonujących przewozy drogowe objętych zakresem stosowania rozporządzenia (UE) nr 165/2014 oraz rozporządzenia (WE) nr 561/2006; kontrole takie są przeprowadzane w tym samym czasie i wykonywane odpowiednio na terytorium Rzeczypospolitej Polskiej i na terytorium innego, jednego lub większej liczby państw członkowskich oraz mogą być przeprowadzane wspólnie z polskimi organami kontrolnymi;
-- **7)** realizuje, co najmniej raz w roku, wspólny z właściwymi organami odpowiedzialnymi za kontakty wewnątrzwspólnotowe w zainteresowanych państwach członkowskich Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym, program szkolenia w zakresie najlepszych praktyk kontrolnych oraz wymiany pracowników;
-- **8)** udziela właściwym organom innego państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym, niezbędnej pomocy i wyjaśnień w sytuacji, kiedy brak jest wystarczających danych do stwierdzenia w czasie kontroli drogowej przeprowadzanej na terytorium tego państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym, że kierowca pojazdu zarejestrowanego w Rzeczypospolitej Polskiej, naruszył przepisy w zakresie czasu jazdy i czasu postoju, obowiązkowych przerw i czasu odpoczynku;
+- **6)** zapewnia uczestnictwo Inspekcji, co najmniej sześć razy w roku, w skoordynowanych z właściwymi organami kontrolnymi innego państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym kontrolach drogowych kierowców pojazdów objętych zakresem stosowania rozporządzenia (UE) nr 165/2014 oraz rozporządzenia (WE) nr 561/2006, w tym co najmniej dwa razy w roku w kontrolach drogowych przewozów kabotażowych, zgodnie z art. 10a ust. 3 rozporządzenia (WE) nr 1072/2009; kontrole takie są wykonywane na terytorium Rzeczypospolitej Polskiej i mogą być przeprowadzane wspólnie z polskimi organami kontrolnymi;
+- **6a)** zapewnia uczestnictwo Inspekcji, co najmniej raz w roku, w skoordynowanych z właściwymi organami kontrolnymi innego państwa członkowskiego lub państw członkowskich Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, wstępnych lub szczegółowych drogowych kontrolach technicznych pojazdów kategorii M , M , N i N , przyczep kategorii O i O i ciągników kołowych kategorii T , T , T , T , T , T i T użytkowanych na drodze publicznej do wykonywania zarobkowego przewozu rzeczy;
+- **6b)** podejmuje starania w celu uczestnictwa Inspekcji w skoordynowanych z właściwymi organami kontrolnymi innego państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym kontrolach w przedsiębiorstwach podmiotów wykonujących przewozy drogowe objętych zakresem stosowania rozporządzenia (UE) nr 165/2014 oraz rozporządzenia (WE) nr 561/2006; kontrole takie są przeprowadzane w tym samym czasie i wykonywane odpowiednio na terytorium Rzeczypospolitej Polskiej i na terytorium innego, jednego lub większej liczby państw członkowskich oraz mogą być przeprowadzane wspólnie z polskimi organami kontrolnymi;
+- **7)** realizuje, co najmniej raz w roku, wspólny z właściwymi organami odpowiedzialnymi za kontakty wewnątrzwspólnotowe w zainteresowanych państwach członkowskich Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, program szkolenia w zakresie najlepszych praktyk kontrolnych oraz wymiany pracowników;
+- **8)** udziela właściwym organom innego państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, niezbędnej pomocy i wyjaśnień w sytuacji, kiedy brak jest wystarczających danych do stwierdzenia w czasie kontroli drogowej przeprowadzanej na terytorium tego państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, że kierowca pojazdu zarejestrowanego w Rzeczypospolitej Polskiej, naruszył przepisy w zakresie czasu jazdy i czasu postoju, obowiązkowych przerw i czasu odpoczynku;
 - **9)** zapewnia uczestnictwo swojego przedstawiciela w Komitecie wspierającym Komisję Europejską, ustanowionym zgodnie z art. 42 rozporządzenia (UE) nr 165/2014 i w Forum do spraw tachografów, ustanowionym zgodnie z art. 43 rozporządzenia (UE) nr 165/2014;
-- **10)** wymienia z właściwymi organami państw członkowskich Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym informacje dostępne na podstawie art. 22 ust. 2 rozporządzenia (WE) nr 561/2006;
-- **10a)** wymienia z właściwymi organami państw członkowskich Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym, przynajmniej raz na sześć miesięcy lub w indywidualnych przypadkach na uzasadniony wniosek, informacje dostępne na podstawie art. 22 ust. 3 rozporządzenia (WE) nr 561/2006 oraz informacje w zakresie kontroli przepisów dotyczących czasu jazdy i czasu postoju, obowiązkowych przerw i czasu odpoczynku kierowców wykonujących przewozy drogowe oraz czasu pracy kierowców;
-- **11)** wykonuje zadania Inspekcji dotyczące kontroli i nadzoru nad przestrzeganiem przepisów ruchu drogowego przez kierujących pojazdami w zakresie, o którym mowa w art. 129g ust. 1 ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym;
+- **10)** wymienia z właściwymi organami państw członkowskich Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym informacje dostępne na podstawie art. 22 ust. 2 rozporządzenia (WE) nr 561/2006;
+- **10a)** wymienia z właściwymi organami państw członkowskich Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, przynajmniej raz na sześć miesięcy lub w indywidualnych przypadkach na uzasadniony wniosek, informacje dostępne na podstawie art. 22 ust. 3 rozporządzenia (WE) nr 561/2006 oraz informacje w zakresie kontroli przepisów dotyczących czasu jazdy i czasu postoju, obowiązkowych przerw i czasu odpoczynku kierowców wykonujących przewozy drogowe oraz czasu pracy kierowców;
+- **11)** wykonuje zadania Inspekcji dotyczące kontroli i nadzoru nad przestrzeganiem przepisów ruchu drogowego przez kierujących pojazdami w zakresie, o którym mowa w art. 129g ust. 1 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym;
 - **11a)** wykonuje zadania Inspekcji związane z kontrolą prawidłowości uiszczenia opłaty elektronicznej za przejazd po drogach krajowych, na zasadach określonych w ustawie z dnia 21 marca 1985 r. o drogach publicznych, w tym w ramach kontroli związanej z transgraniczną wymianą informacji, o której mowa w art. 13mg tej ustawy;
 - **11b)** (uchylony) 11c) (uchylony)
 - **12)** uzgadnia opracowane przez wojewodów projekty rocznych planów rzeczowo-finansowych w części dotyczącej wojewódzkich inspektoratów transportu drogowego.
@@ -2300,7 +2338,7 @@ Art. 97–103. (pominięte)
 
 7. Minister właściwy do spraw transportu, w terminie do dnia 31 grudnia, zatwierdza jednolitą krajową strategię kontroli, o której mowa w ust. 2 pkt 5a, po uzgodnieniu jej treści z ministrem właściwym do spraw wewnętrznych oraz ministrem właściwym do spraw finansów publicznych.
 
-**Art. 54a.** (uchylony) Art. 54aa. 1. Główny Inspektor Transportu Drogowego przekazuje informacje, o których mowa w art. 54 ust. 2 pkt 10a, w indywidualnym przypadku na uzasadniony wniosek innego państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym, w terminie 25 dni roboczych od dnia otrzymania wniosku. Główny Inspektor Transportu Drogowego może ustalić z państwem występującym z uzasadnionym wnioskiem o informację krótszy termin na jej udzielenie. 2. W pilnych przypadkach lub przypadkach wymagających jedynie prostego sprawdzenia rejestrów, takich jak rejestry systemu oceny ryzyka, informacje będące przedmiotem wniosku są przekazywane w terminie trzech dni roboczych od dnia otrzymania wniosku. 3. W przypadku gdy złożony wniosek nie jest wystarczająco uzasadniony, Główny Inspektor Transportu Drogowego informuje o tym wnioskujące państwo członkowskie Unii Europejskiej lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronę umowy o Europejskim Obszarze Gospodarczym, w terminie 10 dni roboczych od dnia otrzymania wniosku. Jeżeli wnioskujące państwo nie przedstawi dodatkowego uzasadnienia wniosku, Główny Inspektor Transportu Drogowego informuje o odmowie jego rozpatrzenia. 4. Jeżeli udzielenie informacji będących przedmiotem wniosku jest utrudnione lub niemożliwe, Główny Inspektor Transportu Drogowego informuje o tym wnioskujące państwo członkowskie Unii Europejskiej lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronę umowy o Europejskim Obszarze Gospodarczym w terminie 10 dni roboczych od dnia otrzymania wniosku i przedstawia powody uzasadniające taką trudność lub brak możliwości udzielenia informacji. 5. Informacje, o których mowa w art. 54 ust. 2 pkt 10a, są udostępniane za pośrednictwem systemu wymiany informacji na rynku wewnętrznym (IMI) ustanowionego rozporządzeniem Parlamentu Europejskiego i Rady (UE) nr 1024/2012 z dnia 25 października 2012 r. w sprawie współpracy administracyjnej za pośrednictwem systemu wymiany informacji na rynku wewnętrznym i uchylającym decyzję Komisji 2008/49/WE („rozporządzenie w sprawie IMI”) (Dz. Urz. UE L 316 z 14.11.2012, str. 1, z późn. zm. ), z wyjątkiem informacji przekazywanych na podstawie przepisów odrębnych za pośrednictwem Krajowego Rejestru Elektronicznego Przedsiębiorców Transportu Drogowego.
+**Art. 54a.** (uchylony) Art. 54aa. 1. Główny Inspektor Transportu Drogowego przekazuje informacje, o których mowa w art. 54 ust. 2 pkt 10a, w indywidualnym przypadku na uzasadniony wniosek innego państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, w terminie 25 dni roboczych od dnia otrzymania wniosku. Główny Inspektor Transportu Drogowego może ustalić z państwem występującym z uzasadnionym wnioskiem o informację krótszy termin na jej udzielenie. 2. W pilnych przypadkach lub przypadkach wymagających jedynie prostego sprawdzenia rejestrów, takich jak rejestry systemu oceny ryzyka, informacje będące przedmiotem wniosku są przekazywane w terminie trzech dni roboczych od dnia otrzymania wniosku. 3. W przypadku gdy złożony wniosek nie jest wystarczająco uzasadniony, Główny Inspektor Transportu Drogowego informuje o tym wnioskujące państwo członkowskie Unii Europejskiej lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronę umowy o Europejskim Obszarze Gospodarczym, w terminie 10 dni roboczych od dnia otrzymania wniosku. Jeżeli wnioskujące państwo nie przedstawi dodatkowego uzasadnienia wniosku, Główny Inspektor Transportu Drogowego informuje o odmowie jego rozpatrzenia. 4. Jeżeli udzielenie informacji będących przedmiotem wniosku jest utrudnione lub niemożliwe, Główny Inspektor Transportu Drogowego informuje o tym wnioskujące państwo członkowskie Unii Europejskiej lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronę umowy o Europejskim Obszarze Gospodarczym w terminie 10 dni roboczych od dnia otrzymania wniosku i przedstawia powody uzasadniające taką trudność lub brak możliwości udzielenia informacji. 5. Informacje, o których mowa w art. 54 ust. 2 pkt 10a, są udostępniane za pośrednictwem systemu wymiany informacji na rynku wewnętrznym (IMI) ustanowionego rozporządzeniem Parlamentu Europejskiego i Rady (UE) nr 1024/2012 z dnia 25 października 2012 r. w sprawie współpracy administracyjnej za pośrednictwem systemu wymiany informacji na rynku wewnętrznym i uchylającym decyzję Komisji 2008/49/WE („rozporządzenie w sprawie IMI”) (Dz. Urz. UE L 316 z 14.11.2012, str. 1, z późn. zm. ), z wyjątkiem informacji przekazywanych na podstawie przepisów odrębnych za pośrednictwem Krajowego Rejestru Elektronicznego Przedsiębiorców Transportu Drogowego.
 
 **Art. 54b.**
 
@@ -2326,7 +2364,7 @@ Art. 97–103. (pominięte)
 
 **Art. 54d.**
 
-1. Główny Inspektor Transportu Drogowego wykonuje zadania punktu kontaktowego w zakresie wstępnych i szczegółowych drogowych kontroli technicznych pojazdów kategorii M , M , N i N , przyczep kategorii O i O i ciągników kołowych kategorii T , T , T , T , T , T i T użytkowanych na drodze publicznej do wykonywania zarobkowego przewozu rzeczy dotyczące zapewnienia koordynacji z punktami kontaktowymi innych państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym w odniesieniu do działań, o których mowa w art. 54e ust. 1, oraz umożliwienia wymiany innych informacji z właściwymi punktami kontaktowymi w tym zakresie oraz udzielania im pomocy.
+1. Główny Inspektor Transportu Drogowego wykonuje zadania punktu kontaktowego w zakresie wstępnych i szczegółowych drogowych kontroli technicznych pojazdów kategorii M , M , N i N , przyczep kategorii O i O i ciągników kołowych kategorii T , T , T , T , T , T i T użytkowanych na drodze publicznej do wykonywania zarobkowego przewozu rzeczy dotyczące zapewnienia koordynacji z punktami kontaktowymi innych państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym w odniesieniu do działań, o których mowa w art. 54e ust. 1, oraz umożliwienia wymiany innych informacji z właściwymi punktami kontaktowymi w tym zakresie oraz udzielania im pomocy.
 
 2. Wojewódzcy komendanci Policji, Komendant Stołeczny Policji, komendanci oddziałów Straży Granicznej, dyrektorzy izb administracji skarbowej oraz zarządcy dróg przekazują Głównemu Inspektorowi Transportu Drogowego informacje, o których mowa w art. 54e ust. 1, przy użyciu formularzy elektronicznych udostępnionych na stronie internetowej Głównego Inspektoratu Transportu Drogowego lub za pośrednictwem elektronicznej platformy usług administracji publicznej.
 
@@ -2338,13 +2376,13 @@ Art. 97–103. (pominięte)
 
 **Art. 54e.**
 
-1. W przypadku stwierdzenia podczas wstępnej lub szczegółowej drogowej kontroli technicznej, że pojazd, o którym mowa w art. 54d ust. 1, niezarejestrowany na terytorium Rzeczypospolitej Polskiej zagraża bezpieczeństwu ruchu drogowego lub narusza wymagania ochrony środowiska, Główny Inspektor Transportu Drogowego informuje o wynikach kontroli państwo członkowskie Unii Europejskiej albo państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronę umowy o Europejskim Obszarze Gospodarczym, w którym pojazd ten jest zarejestrowany, oraz może zwrócić się do właściwego organu tego państwa o podjęcie działań zmierzających do przeprowadzenia dodatkowego badania technicznego tego pojazdu.
+1. W przypadku stwierdzenia podczas wstępnej lub szczegółowej drogowej kontroli technicznej, że pojazd, o którym mowa w art. 54d ust. 1, niezarejestrowany na terytorium Rzeczypospolitej Polskiej zagraża bezpieczeństwu ruchu drogowego lub narusza wymagania ochrony środowiska, Główny Inspektor Transportu Drogowego informuje o wynikach kontroli państwo członkowskie Unii Europejskiej albo państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronę umowy o Europejskim Obszarze Gospodarczym, w którym pojazd ten jest zarejestrowany, oraz może zwrócić się do właściwego organu tego państwa o podjęcie działań zmierzających do przeprowadzenia dodatkowego badania technicznego tego pojazdu.
 
 2. Przekazywanie informacji, o których mowa w ust. 1, odbywa się przy użyciu systemu wymiany komunikatów (systemu RSI), o którym mowa w art. 3 rozporządzenia wykonawczego Komisji (UE) 2017/2205 z dnia 29 listopada 2017 r. w sprawie szczegółowych zasad dotyczących procedur zgłaszania pojazdów użytkowych wykazujących poważne lub niebezpieczne usterki stwierdzone podczas drogowej kontroli technicznej (Dz. Urz. UE L 314 z 30.11.2017, str. 3).
 
-**Art. 54f.** W przypadku otrzymania od innego państwa członkowskiego Unii Europejskiej albo państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym informacji o konieczności podjęcia działań zmierzających do przeprowadzenia badania technicznego pojazdu, o którym mowa w art. 54d ust. 1, zarejestrowanego na terytorium Rzeczypospolitej Polskiej Główny Inspektor Transportu Drogowego przekazuje tę informację staroście właściwemu ze względu na miejsce rejestracji tego pojazdu.
+**Art. 54f.** W przypadku otrzymania od innego państwa członkowskiego Unii Europejskiej albo państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym informacji o konieczności podjęcia działań zmierzających do przeprowadzenia badania technicznego pojazdu, o którym mowa w art. 54d ust. 1, zarejestrowanego na terytorium Rzeczypospolitej Polskiej Główny Inspektor Transportu Drogowego przekazuje tę informację staroście właściwemu ze względu na miejsce rejestracji tego pojazdu.
 
-**Art. 54g.** Wojewódzcy inspektorzy transportu drogowego wykonują zadania określone w ustawie z dnia 26 kwietnia 2024 r. o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług przez podmioty gospodarcze (Dz. U. poz. 731).
+**Art. 54g.** Wojewódzcy inspektorzy transportu drogowego wykonują zadania określone w ustawie z dnia 26 kwietnia 2024 r. o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług przez podmioty gospodarcze (Dz. U. poz.
 
 **Art. 55.**
 
@@ -2355,7 +2393,7 @@ Art. 97–103. (pominięte)
 - **2a)** kontroli karty kierowcy i karty przedsiębiorstwa;
 - **3)** kontroli zainstalowanych lub znajdujących się w pojeździe urządzeń pomiarowo-kontrolnych i tachografu, w tym zdjęcia lub zerwania plomby tachografu do celów kontroli zgodnie z art. 22 ust. 5 rozporządzenia (UE) nr 165/2014;
 - **3a)** kontroli używanego w pojeździe urządzenia, o którym mowa w art. 13i ust. 3 i 3a oraz art. 16l ust. 1 ustawy z dnia 21 marca 1985 r. o drogach publicznych;
-- **3b)** kontroli spełnienia obowiązku, o którym mowa w art. 10a ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi w przypadku, o którym mowa w art. 28b ust. 1 lub 2;
+- **3b)** kontroli spełnienia obowiązku, o którym mowa w art. 10a ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi – w przypadku, o którym mowa w art. 28b ust. 1 lub 2;
 - **4)** kontrolowania masy, nacisków osi i wymiarów pojazdu przy użyciu przyrządu pomiarowego;
 - **5)** żądania od podmiotu wykonującego przewóz drogowy i jego pracowników pisemnych lub ustnych wyjaśnień, okazania dokumentów i innych nośników informacji oraz udostępnienia wszelkich danych mających związek z przedmiotem kontroli;
 - **6)** wstępu na teren podmiotu wykonującego przewóz drogowy, w tym do pomieszczeń lub lokali, gdzie prowadzi on działalność lub przechowuje dokumenty i inne nośniki informacji wymagane przepisami, o których mowa w art. 4 pkt 22, w dniach i godzinach, w których jest lub powinna być wykonywana ta działalność;
@@ -2426,7 +2464,7 @@ Art. 97–103. (pominięte)
 
 10. (uchylony)
 
-11. Inspekcja jest uprawniona do wydawania rozstrzygnięć w indywidualnych przypadkach w oparciu o zautomatyzowane przetwarzanie danych, w tym profilowanie w związku z realizacją zadań, o których mowa w art. 129a ust. 1 pkt 3 lit. b i art. 129g ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym.
+11. Inspekcja jest uprawniona do wydawania rozstrzygnięć w indywidualnych przypadkach w oparciu o zautomatyzowane przetwarzanie danych, w tym profilowanie w związku z realizacją zadań, o których mowa w art. 129a ust. 1 pkt 3 lit. b i art. 129g ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym.
 
 12. W związku z realizacją zadań, o których mowa w art. 50, Inspekcja wykonuje obowiązek, o którym mowa w art. 13 ust. 1 i 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 2016/679”, przy pierwszej czynności skierowanej do osoby, której dane dotyczą, chyba że posiada ona te informacje, a ich zakres lub treść nie uległy zmianie.
 
@@ -2449,7 +2487,7 @@ Art. 97–103. (pominięte)
 - **11)** Szefowi Krajowej Administracji Skarbowej, dyrektorowi izby administracji skarbowej, naczelnikowi urzędu celno-skarbowego,
 - **12)** Biuru Nadzoru Wewnętrznego,
 - **13)** Służbie Ochrony Państwa,
-- **14)** Państwowej Inspekcji Pracy w zakresie niezbędnym do realizacji ich ustawowych zadań.
+- **14)** Państwowej Inspekcji Pracy – w zakresie niezbędnym do realizacji ich ustawowych zadań.
 
 1a. Jeżeli przepisy odrębne nie stanowią inaczej, Główny Inspektor Transportu Drogowego, wojewódzcy inspektorzy i Szef Krajowej Administracji Skarbowej lub osoby przez nich upoważnione wzajemnie udostępniają nieodpłatnie, na podstawie pisemnego wniosku, dane osobowe przetwarzane w związku z realizacją zadań określonych w ustawie.
 
@@ -2459,9 +2497,9 @@ Art. 97–103. (pominięte)
 - **2)** wskazanie okoliczności, z których wynika konieczność pozyskania żądanych danych;
 - **3)** wskazanie zakresu danych podlegających udostępnieniu.
 
-3. Główny Inspektor Transportu Drogowego oraz wojewódzcy inspektorzy mogą wyrazić zgodę na udostępnienie za pomocą środków komunikacji elektronicznej danych, o których mowa w ust. 1, podmiotom, o których mowa w ust. 1 pkt 1–3 i 5–13, bez konieczności składania pisemnych wniosków, jeżeli jest to uzasadnione rodzajem lub zakresem wykonywanych zadań.
+3. Główny Inspektor Transportu Drogowego oraz wojewódzcy inspektorzy mogą wyrazić zgodę na udostępnienie za pomocą środków komunikacji elektronicznej danych, o których mowa w ust. 1, podmiotom, o których mowa w ust. 1 pkt 1–3 i 5– 13, bez konieczności składania pisemnych wniosków, jeżeli jest to uzasadnione rodzajem lub zakresem wykonywanych zadań.
 
-4. Udostępnianie danych, o których mowa w ust. 1, w sposób, o którym mowa w ust. 3, następuje po złożeniu przez podmioty, o których mowa w ust. 1 pkt 1–3 i 5–13, wniosku zawierającego:
+4. Udostępnianie danych, o których mowa w ust. 1, w sposób, o którym mowa w ust. 3, następuje po złożeniu przez podmioty, o których mowa w ust. 1 pkt 1–3 i 5– 13, wniosku zawierającego:
 
 - **1)** wskazanie zakresu danych podlegających udostępnieniu;
 - **2)** wskazanie osób uprawnionych do przetwarzania danych, o których mowa w pkt 1;
@@ -2500,17 +2538,17 @@ Art. 97–103. (pominięte)
 1. Inspektor ma prawo do nakładania i pobierania kar pieniężnych oraz grzywien w drodze mandatów karnych:
 
 - **1)** zgodnie z przepisami ustawy;
-- **2)** za naruszenia przepisów o ruchu drogowym w zakresie określonym w ustawie z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym;
+- **2)** za naruszenia przepisów o ruchu drogowym w zakresie określonym w ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym;
 - **3)** w zakresie określonym w ustawie z dnia 21 marca 1985 r. o drogach publicznych;
 - **4)** zgodnie z przepisami ustawy z dnia 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych;
 - **5)** zgodnie z przepisami ustawy z dnia 21 sierpnia 1997 r. o ochronie zwierząt;
-- **6)** zgodnie z przepisami ustawy z dnia 11 maja 2001 r. Prawo o miarach;
+- **6)** zgodnie z przepisami ustawy z dnia 11 maja 2001 r. – Prawo o miarach;
 - **7)** zgodnie z przepisami ustawy z dnia 5 lipca 2018 r. o tachografach;
 - **8)** zgodnie z przepisami ustawy z dnia 28 lipca 2023 r. o delegowaniu kierowców w transporcie drogowym.
 
 2. Inspektor ma prawo prowadzenia czynności wyjaśniających w sprawach o wykroczenia, kierowania do sądu wniosków o ukaranie oraz udziału w rozprawach przed sądami powszechnymi w charakterze oskarżyciela publicznego i wnoszenia odwołań od postanowień i orzeczeń tych sądów w sprawach o wykroczenia z zakresu działania Inspekcji Transportu Drogowego.
 
-3. Grzywny, o których mowa w ust. 1 oraz w art. 32 ust. 1 ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi, pobierane przez organy Inspekcji Transportu Drogowego, są przekazywane na wyodrębniony rachunek bankowy Głównego Inspektoratu Transportu Drogowego. Kary pieniężne, o których mowa w ust. 1 pkt 1–4 oraz 6–8, pobierane przez organy Inspekcji Transportu Drogowego są przekazywane na wyodrębniony rachunek bankowy właściwej jednostki organizacyjnej Inspekcji, obsługującej organ nakładający karę pieniężną w I instancji.
+3. Grzywny, o których mowa w ust. 1 oraz w art. 32 ust. 1 ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi, pobierane przez organy Inspekcji Transportu Drogowego, są przekazywane na wyodrębniony rachunek bankowy Głównego Inspektoratu Transportu Drogowego. Kary pieniężne, o których mowa w ust. 1 pkt 1– 4 oraz 6–8, pobierane przez organy Inspekcji Transportu Drogowego są przekazywane na wyodrębniony rachunek bankowy właściwej jednostki organizacyjnej Inspekcji, obsługującej organ nakładający karę pieniężną w I instancji.
 
 4. Grzywny i kary zgromadzone na rachunkach, o których mowa w ust. 3, stanowią wpływy Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej, o którym mowa w ustawie z dnia 16 maja 2019 r. o Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej, z wyjątkiem grzywien i kar, które zgodnie z odrębnymi przepisami stanowią wpływy Krajowego Funduszu Drogowego lub jednostek samorządu terytorialnego. Wpłat dokonuje się w terminie pierwszych czterech dni roboczych następujących po zakończeniu tygodnia, w którym środki wpłynęły na rachunki, o których mowa w ust. 3.
 
@@ -2538,7 +2576,7 @@ Art. 97–103. (pominięte)
 
 **Art. 67.**
 
-1. Inspekcja współdziała w szczególności z: Policją, Agencją Bezpieczeństwa Wewnętrznego, Agencją Wywiadu, Służbą Ochrony Państwa, Żandarmerią Wojskową, Strażą Graniczną, Służbą Celno-Skarbową, Państwową Inspekcją Pracy, Inspekcją Handlową, Inspekcją Ochrony Środowiska, Inspekcją Weterynaryjną i zarządcami dróg w zakresie bezpieczeństwa i porządku ruchu na drogach publicznych oraz zwalczania przestępstw i wykroczeń drogowych dokonywanych w zakresie transportu drogowego lub w związku z tym transportem, z uwzględnieniem właściwości i kompetencji tych organów oraz zadań Inspekcji.
+1. Inspekcja współdziała w szczególności z: Policją, Agencją Bezpieczeństwa Wewnętrznego, Agencją Wywiadu, Służbą Ochrony Państwa, Żandarmerią Wojskową, Strażą Graniczną, Służbą Celno-Skarbową, Państwową Inspekcją Pracy, Inspekcją Handlową, Inspekcją Ochrony Środowiska, Inspekcją Weterynaryjną i zarządcami dróg – w zakresie bezpieczeństwa i porządku ruchu na drogach publicznych oraz zwalczania przestępstw i wykroczeń drogowych dokonywanych w zakresie transportu drogowego lub w związku z tym transportem, z uwzględnieniem właściwości i kompetencji tych organów oraz zadań Inspekcji.
 
 2. W celu realizacji zadań określonych w art. 50 Inspekcja współdziała z organami samorządu terytorialnego, jak również z organizacjami zrzeszającymi przewoźników drogowych.
 
@@ -2546,7 +2584,7 @@ Art. 97–103. (pominięte)
 
 4. Inspekcja może prowadzić wyszukiwania informacji za pośrednictwem Krajowego Punktu Kontaktowego w celu wykonywania zadań w zakresie:
 
-- **1)** kontroli ruchu drogowego, o których mowa w art. 50 pkt 1, na zasadach określonych w art. 80k–80o i art. 80q ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym;
+- **1)** kontroli ruchu drogowego, o których mowa w art. 50 pkt 1, na zasadach określonych w art. 80k–80o i art. 80q ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym;
 - **2)** kontroli prawidłowości uiszczenia opłaty elektronicznej, o której mowa w art. 13 ust. 1 pkt 3 ustawy z dnia 21 marca 1985 r. o drogach publicznych, na zasadach określonych w art. 13ma–13mc i art. 13mf tej ustawy.
 
 **Art. 68.**
@@ -2554,17 +2592,17 @@ Art. 97–103. (pominięte)
 1. Kontroli, o której mowa:
 
 - **1)** w art. 50 pkt 1 lit. a–j oraz w art. 87 podlegają:
-    - **a)** kierujący pojazdami w zakresie i na zasadach określonych w: przepisach ustawy, art. 129a ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym, ustawie z dnia 21 marca 1985 r. o drogach publicznych, (uchylone)
+    - **a)** kierujący pojazdami w zakresie i na zasadach określonych w: – przepisach ustawy, – art. 129a ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, – ustawie z dnia 21 marca 1985 r. o drogach publicznych, – (uchylone)
     - **b)** przedsiębiorcy wykonujący przewóz drogowy,
-    - **c)** podmioty, o których mowa w art. 3 ust. 2, 1a) w art. 50 pkt 1 lit. l kierujący wykonujący przewóz drogowy w zakresie i na zasadach określonych w przepisach ustawy,
+    - **c)** podmioty, o których mowa w art. 3 ust. 2, 1a) w art. 50 pkt 1 lit. l – kierujący wykonujący przewóz drogowy w zakresie i na zasadach określonych w przepisach ustawy,
 
 - **2)** w art. 50 pkt 1 lit. k podlegają:
-    - **a)** przedsiębiorcy osobiście wykonujący: przewozy drogowe, do których ma zastosowanie rozporządzenie (WE) nr 561/2006 albo Umowa AETR, przewozy regularne, których trasa nie przekracza 50 km, lub publiczny transport zbiorowy w rozumieniu przepisów ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym, którego trasa nie przekracza 50 km,
-    - **b)** osoby niezatrudnione przez przedsiębiorcę, lecz osobiście wykonujące na jego rzecz: przewozy drogowe, do których ma zastosowanie rozporządzenie (WE) nr 561/2006 albo Umowa AETR, przewozy regularne, których trasa nie przekracza 50 km, lub publiczny transport zbiorowy w rozumieniu przepisów ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym, którego trasa nie przekracza 50 km,
+    - **a)** przedsiębiorcy osobiście wykonujący: – przewozy drogowe, do których ma zastosowanie rozporządzenie (WE) nr 561/2006 albo Umowa AETR, – przewozy regularne, których trasa nie przekracza 50 km, lub publiczny transport zbiorowy w rozumieniu przepisów ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym, którego trasa nie przekracza 50 km,
+    - **b)** osoby niezatrudnione przez przedsiębiorcę, lecz osobiście wykonujące na jego rzecz: – przewozy drogowe, do których ma zastosowanie rozporządzenie (WE) nr 561/2006 albo Umowa AETR, – przewozy regularne, których trasa nie przekracza 50 km, lub publiczny transport zbiorowy w rozumieniu przepisów ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym, którego trasa nie przekracza 50 km,
 
-- **3)** w art. 50: o drogach publicznych, użytkownicy EETS w rozumieniu ustawy z dnia 21 marca 1985 r. o drogach publicznych, kierujący pojazdami w zakresie i na zasadach określonych w ustawie z dnia 21 marca 1985 r. o drogach publicznych oraz niniejszej ustawie.
-    - **a)** pkt 1 lit. j podlegają: właściciele, posiadacze i użytkownicy pojazdów, korzystający z dróg publicznych w przypadku, o którym mowa w art. 13ia ust. 19 ustawy z dnia 21 marca 1985 r.
-    - **b)** (uchylona) zwani dalej „kontrolowanymi”.
+- **3)** w art. 50: 13ia ust. 19 ustawy z dnia 21 marca 1985 r. o drogach publicznych, – użytkownicy EETS w rozumieniu ustawy z dnia 21 marca 1985 r. o drogach publicznych, – kierujący pojazdami – w zakresie i na zasadach określonych w ustawie z dnia 21 marca 1985 r. o drogach publicznych oraz niniejszej ustawie.
+    - **a)** pkt 1 lit. j podlegają: – właściciele, posiadacze i użytkownicy pojazdów, – korzystający z dróg publicznych w przypadku, o którym mowa w art.
+    - **b)** (uchylona) – zwani dalej „kontrolowanymi”.
 
 2. Kontroli, o której mowa w ust. 1, nie podlegają pojazdy przewożące wartości pieniężne w rozumieniu przepisów o ochronie osób i mienia.
 
@@ -2681,7 +2719,7 @@ Art. 97–103. (pominięte)
 
 **Art. 76a.**
 
-1. Uprawnienia inspektorów Inspekcji określone w ustawie, w art. 129a ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym oraz w ustawie z dnia 21 marca 1985 r. o drogach publicznych przysługują również pracownikom Głównego Inspektoratu Transportu Drogowego po spełnieniu warunków, o których mowa w art. 76 ust. 1.
+1. Uprawnienia inspektorów Inspekcji określone w ustawie, w art. 129a ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym oraz w ustawie z dnia 21 marca 1985 r. o drogach publicznych przysługują również pracownikom Głównego Inspektoratu Transportu Drogowego po spełnieniu warunków, o których mowa w art. 76 ust. 1.
 
 2. W czasie wykonywania zadań, o których mowa w art. 50, do pracowników Głównego Inspektoratu Transportu Drogowego, o których mowa w ust. 1, stosuje się przepisy art. 55 ust. 1–1b i ust. 2 pkt 1, art. 56, art. 57 ust. 1 i 3, art. 69 ust. 1–3a, art. 70–74, art. 89 ust. 1 i art. 93 ust. 1.
 
@@ -2691,8 +2729,8 @@ Art. 97–103. (pominięte)
 
 1. Do pracowników Inspekcji zatrudnionych na:
 
-- **1)** stanowiskach urzędniczych, z wyłączeniem osób zatrudnionych na stanowisku inspektora stosuje się przepisy ustawy z dnia 21 listopada 2008 r. o służbie cywilnej (Dz. U. z 2024 r. poz. 409 oraz z 2025 r. poz. 620);
-- **2)** stanowisku inspektora stosuje się przepisy ustawy, o której mowa w pkt 1, z wyłączeniem art. 4.
+- **1)** stanowiskach urzędniczych, z wyłączeniem osób zatrudnionych na stanowisku inspektora – stosuje się przepisy ustawy z dnia 21 listopada 2008 r. o służbie cywilnej (Dz. U. z 2024 r. poz. 409 oraz z 2025 r. poz. 620);
+- **2)** stanowisku inspektora – stosuje się przepisy ustawy, o której mowa w pkt 1, z wyłączeniem art. 4.
 
 2. (uchylony)
 
@@ -2709,7 +2747,7 @@ Art. 97–103. (pominięte)
 4. Pracownik Inspekcji zatrudniony na stanowisku inspektora, wykonujący pracę w systemie określonym w:
 
 - **1)** art. 97 ust. 1 ustawy z dnia 21 listopada 2008 r. o służbie cywilnej nie może wykonywać pracy na więcej niż dziesięciu zmianach w porze nocnej w miesiącu kalendarzowym,
-- **2)** art. 97 ust. 2 ustawy z dnia 21 listopada 2008 r. o służbie cywilnej nie może wykonywać pracy na więcej niż ośmiu zmianach w porze nocnej w miesiącu kalendarzowym chyba że jest to uzasadnione szczególnymi potrzebami pracodawcy lub tym, że nieobecność tego pracownika mogłaby spowodować poważne zakłócenie organizacji pracy u pracodawcy.
+- **2)** art. 97 ust. 2 ustawy z dnia 21 listopada 2008 r. o służbie cywilnej nie może wykonywać pracy na więcej niż ośmiu zmianach w porze nocnej w miesiącu kalendarzowym – chyba że jest to uzasadnione szczególnymi potrzebami pracodawcy lub tym, że nieobecność tego pracownika mogłaby spowodować poważne zakłócenie organizacji pracy u pracodawcy.
 
 5. Praca w godzinach nadliczbowych pracownika jest dopuszczalna ze względu na:
 
@@ -2723,8 +2761,8 @@ Art. 97–103. (pominięte)
 
 8. O przyznaniu czasu wolnego od pracy albo dodatku, o których mowa w ust. 7, decyduje:
 
-- **1)** dyrektor generalny w uzgodnieniu z Głównym Inspektorem dla pracowników zatrudnionych w Głównym Inspektoracie;
-- **2)** wojewódzki inspektor dla pracowników, o których mowa w art. 77 ust. 1 pkt 2, zatrudnionych w wojewódzkim inspektoracie transportu drogowego.
+- **1)** dyrektor generalny w uzgodnieniu z Głównym Inspektorem – dla pracowników zatrudnionych w Głównym Inspektoracie;
+- **2)** wojewódzki inspektor – dla pracowników, o których mowa w art. 77 ust. 1 pkt 2, zatrudnionych w wojewódzkim inspektoracie transportu drogowego.
 
 9. Liczba godzin nadliczbowych, za którą przyznano wynagrodzenie, nie może przekraczać:
 
@@ -2736,11 +2774,11 @@ Art. 97–103. (pominięte)
 
 - **1)** pracownika będącego jedynym opiekunem dziecka do 8 lat lub osoby wymagającej stałej opieki,
 - **2)** pracownika opiekującego się dzieckiem do 8 lat, jeżeli z uprawnienia takiego nie korzysta drugie z rodziców lub opiekun,
-- **3)** pracownicę karmiącą dziecko piersią bez ich zgody.
+- **3)** pracownicę karmiącą dziecko piersią – bez ich zgody.
 
 **Art. 77b.**
 
-1. Inspektorowi zatrudnionemu na stanowisku, o którym mowa w art. 76 ust. 2a, przez okres nie krótszy niż 10 lat przysługuje dodatkowy urlop wypoczynkowy w wymiarze 6 dni roboczych, a po 20 latach pracy w wymiarze 12 dni roboczych.
+1. Inspektorowi zatrudnionemu na stanowisku, o którym mowa w art. 76 ust. 2a, przez okres nie krótszy niż 10 lat przysługuje dodatkowy urlop wypoczynkowy w wymiarze 6 dni roboczych, a po 20 latach pracy – w wymiarze 12 dni roboczych.
 
 2. W przypadku zbiegu uprawnień do urlopu dodatkowego, o którym mowa w ust. 1 oraz w art. 105 ustawy z dnia 21 listopada 2008 r. o służbie cywilnej, przysługuje urlop w wymiarze korzystniejszym.
 
@@ -2828,29 +2866,29 @@ Art. 97–103. (pominięte)
 
 2. Organem właściwym do rozpatrzenia skargi jest:
 
-- **1)** w przewozach regularnych w krajowym transporcie drogowym organizator publicznego transportu zbiorowego w rozumieniu art. 7 ust. 1 ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym;
-- **2)** w przewozach regularnych w międzynarodowym transporcie drogowym organ właściwy do wydawania zezwoleń na wykonywanie regularnych przewozów osób w międzynarodowym transporcie drogowym, o którym mowa w art. 18 ust. 1 pkt 2 lit. a;
-- **3)** w przewozach regularnych w transporcie drogowym realizowanych w strefie transgranicznej w rozumieniu ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym organizator publicznego transportu zbiorowego w rozumieniu art. 7 ust. 1 tej ustawy.
+- **1)** w przewozach regularnych w krajowym transporcie drogowym – organizator publicznego transportu zbiorowego w rozumieniu art. 7 ust. 1 ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym;
+- **2)** w przewozach regularnych w międzynarodowym transporcie drogowym – organ właściwy do wydawania zezwoleń na wykonywanie regularnych przewozów osób w międzynarodowym transporcie drogowym, o którym mowa w art. 18 ust. 1 pkt 2 lit. a;
+- **3)** w przewozach regularnych w transporcie drogowym realizowanych w strefie transgranicznej w rozumieniu ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym – organizator publicznego transportu zbiorowego w rozumieniu art. 7 ust. 1 tej ustawy.
 
 3. W przypadku gdy przewozy, o których mowa w ust. 2 pkt 1 i 3, są realizowane w formie samorządowego zakładu budżetowego, organem właściwym do rozpatrzenia skargi jest wojewoda.
 
 4. Do skargi pasażer dołącza kopię skargi skierowanej do przewoźnika drogowego, kopię odpowiedzi na tę skargę albo oświadczenie, że odpowiedź nie została udzielona w terminie określonym w art. 27 rozporządzenia nr 181/2011, a ponadto:
 
 - **1)** kopię biletu lub potwierdzonej rezerwacji na daną trasę,
-- **2)** inne dokumenty potwierdzające naruszenie przepisów rozporządzenia nr 181/2011 o ile je posiada.
+- **2)** inne dokumenty potwierdzające naruszenie przepisów rozporządzenia nr 181/2011 – o ile je posiada.
 
 **Art. 82c.**
 
 1. Pasażer może wnieść skargę na niewłaściwe wykonywanie obowiązków wynikających z rozporządzenia nr 181/2011 przez podmiot zarządzający dworcem, o którym mowa w art. 3 lit. o tego rozporządzenia.
 
-2. Podmiotem zarządzającym dworcem, o którym mowa w art. 3 lit. o rozporządzenia nr 181/2011, jest właściciel dworca, a w przypadku gdy właścicielem dworca jest spółka z udziałem Skarbu Państwa podmiot, któremu powierzono administrowanie dworcem.
+2. Podmiotem zarządzającym dworcem, o którym mowa w art. 3 lit. o rozporządzenia nr 181/2011, jest właściciel dworca, a w przypadku gdy właścicielem dworca jest spółka z udziałem Skarbu Państwa – podmiot, któremu powierzono administrowanie dworcem.
 
-3. Organem właściwym do rozpatrzenia skargi, o której mowa w ust. 1, jest marszałek województwa na obszarze którego jest zlokalizowany dworzec wyznaczony do udzielania pomocy, a w przypadku gdy dworzec ten stanowi własność samorządu województwa wojewoda.
+3. Organem właściwym do rozpatrzenia skargi, o której mowa w ust. 1, jest marszałek województwa na obszarze którego jest zlokalizowany dworzec wyznaczony do udzielania pomocy, a w przypadku gdy dworzec ten stanowi własność samorządu województwa – wojewoda.
 
 4. Do skargi pasażer dołącza:
 
 - **1)** kopię biletu lub potwierdzonej rezerwacji na daną trasę,
-- **2)** dokumenty potwierdzające niewłaściwe wykonywanie obowiązków wynikających z przepisów rozporządzenia nr 181/2011 przez podmiot zarządzający dworcem, o którym mowa w art. 3 lit. o tego rozporządzenia o ile je posiada.
+- **2)** dokumenty potwierdzające niewłaściwe wykonywanie obowiązków wynikających z przepisów rozporządzenia nr 181/2011 przez podmiot zarządzający dworcem, o którym mowa w art. 3 lit. o tego rozporządzenia – o ile je posiada.
 
 **Art. 82d.**
 
@@ -2950,7 +2988,7 @@ Art. 97–103. (pominięte)
 - **3a)** imię i nazwisko kierowcy, o którym mowa w art. 7d ust. 1a, oraz jego:
     - **a)** datę i miejsce urodzenia,
     - **b)** adres zamieszkania,
-    - **c)** numer PESEL albo rodzaj, serię, numer oraz państwo wydania dokumentu potwierdzającego tożsamość w przypadku osoby nieposiadającej numeru PESEL;
+    - **c)** numer PESEL albo rodzaj, serię, numer oraz państwo wydania dokumentu potwierdzającego tożsamość – w przypadku osoby nieposiadającej numeru PESEL;
 
 - **4)** liczbę, kategorię i rodzaj poważnych naruszeń, o których mowa w art. 6 ust. 1 lit. b rozporządzenia (WE) nr 1071/2009, które doprowadziły do skazania lub nałożenia sankcji w ciągu ostatnich dwóch lat;
 - **4a)** numer dokumentu zawierającego ostateczne rozstrzygnięcie w przedmiocie nałożenia sankcji;
@@ -2990,18 +3028,18 @@ Art. 97–103. (pominięte)
 
 1. Dane, o których mowa w art. 82h, przekazują do ewidencji dla danych określonych w:
 
-- **1)** art. 82h ust. 1 i ust. 2 pkt 8 odpowiednio do swoich kompetencji: organy, o których mowa w art. 7 ust. 2 i ust. 4 pkt 1, niezwłocznie:
+- **1)** art. 82h ust. 1 i ust. 2 pkt 8 – odpowiednio do swoich kompetencji: organy, o których mowa w art. 7 ust. 2 i ust. 4 pkt 1, niezwłocznie:
     - **a)** po tym, jak decyzja w sprawie wydania, zmiany, zawieszenia albo cofnięcia zezwolenia na wykonywanie zawodu przewoźnika drogowego lub licencji wspólnotowej bądź decyzja stwierdzająca utratę dobrej reputacji albo stwierdzająca, że dobra reputacja pozostaje nienaruszona, stała się ostateczna,
-    - **b)** po przedłożeniu przez przewoźnika drogowego wykazu pojazdów, o którym mowa w art. 7a ust. 7 w zakresie danych, o których mowa w art. 82h ust. 1 pkt 4a i 4b,
-    - **c)** po zgłoszeniu przez przewoźnika drogowego zmiany danych na podstawie art. 14 ust. 1 w zakresie danych, które nie są zawarte w zezwoleniu na wykonywanie zawodu przewoźnika drogowego lub licencji wspólnotowej,
+    - **b)** po przedłożeniu przez przewoźnika drogowego wykazu pojazdów, o którym mowa w art. 7a ust. 7 – w zakresie danych, o których mowa w art. 82h ust. 1 pkt 4a i 4b,
+    - **c)** po zgłoszeniu przez przewoźnika drogowego zmiany danych na podstawie art. 14 ust. 1 – w zakresie danych, które nie są zawarte w zezwoleniu na wykonywanie zawodu przewoźnika drogowego lub licencji wspólnotowej,
     - **d)** po zgłoszeniu przez przewoźnika drogowego danych, o których mowa w art. 7a ust. 8;
 
-- **2)** art. 82h ust. 2 pkt 1–7b odpowiednio do swoich kompetencji: wojewódzcy inspektorzy transportu drogowego, wojewódzcy komendanci Policji, komendanci oddziałów i komendanci placówek Straży Granicznej, naczelnicy urzędów celno-skarbowych, Główny Inspektor Pracy oraz zarządcy dróg:
+- **2)** art. 82h ust. 2 pkt 1–7b – odpowiednio do swoich kompetencji: wojewódzcy inspektorzy transportu drogowego, wojewódzcy komendanci Policji, komendanci oddziałów i komendanci placówek Straży Granicznej, naczelnicy urzędów celno-skarbowych, Główny Inspektor Pracy oraz zarządcy dróg:
     - **a)** gdy decyzja o nałożeniu kary za naruszenie przepisów stała się wykonalna,
     - **b)** kiedy uprawomocnił się mandat karny bądź orzeczenie o nałożeniu kary,
     - **c)** po wykonaniu lub wyegzekwowaniu nałożonej kary;
 
-- **3)** art. 82h ust. 3 odpowiednio do swoich kompetencji organ, o którym mowa w art. 16b ust. 1, gdy decyzja o stwierdzeniu niezdolności zarządzającego do kierowania operacjami transportowymi stała się ostateczna.
+- **3)** art. 82h ust. 3 – odpowiednio do swoich kompetencji organ, o którym mowa w art. 16b ust. 1, gdy decyzja o stwierdzeniu niezdolności zarządzającego do kierowania operacjami transportowymi stała się ostateczna.
 
 2. Przekazywanie danych do Rejestru odbywa się za pośrednictwem elektronicznej skrzynki podawczej Głównego Inspektora Transportu Drogowego lub środkami komunikacji elektronicznej obsługiwanymi przez system teleinformatyczny Rejestru.
 
@@ -3102,8 +3140,8 @@ Art. 97–103. (pominięte)
 2. Nadzór nad wydawaniem:
 
 - **1)** zezwoleń na wykonywanie zawodu przewoźnika drogowego przez organ, o którym mowa w art. 7 ust. 2 pkt 1,
-- **2)** licencji i zezwoleń w krajowym transporcie drogowym,
-- **3)** zaświadczeń na krajowy niezarobkowy przewóz drogowy sprawuje wojewódzki inspektor transportu drogowego.
+- **2)** licencji i zezwoleń – w krajowym transporcie drogowym,
+- **3)** zaświadczeń na krajowy niezarobkowy przewóz drogowy – sprawuje wojewódzki inspektor transportu drogowego.
 
 3. Rada Ministrów, kierując się zasadą skuteczności nadzoru, o którym mowa w ust. 2, określi, w drodze rozporządzenia, szczegółowe warunki i sposób prowadzenia czynności związanych z nadzorem oraz stosowanych dokumentów, a także ich wzory.
 
@@ -3111,36 +3149,36 @@ Art. 97–103. (pominięte)
 
 1. Podczas wykonywania przewozu drogowego kierowca pojazdu samochodowego, z zastrzeżeniem ust. 4, jest obowiązany mieć przy sobie i okazywać, na żądanie uprawnionego organu kontroli, kartę kierowcy, wykresówki, zapisy odręczne i wydruki z tachografu oraz zaświadczenie, o którym mowa w art. 31 ustawy z dnia 16 kwietnia 2004 r. o czasie pracy kierowców, a ponadto:
 
-- **1)** wykonując transport drogowy wypis z zezwolenia na wykonywanie zawodu przewoźnika drogowego albo wypis z licencji;
+- **1)** wykonując transport drogowy – wypis z zezwolenia na wykonywanie zawodu przewoźnika drogowego albo wypis z licencji;
 - **2)** wykonując przewóz drogowy osób:
-    - **a)** przy wykonywaniu przewozów regularnych i regularnych specjalnych odpowiednie zezwolenie lub wypis z zezwolenia wraz z obowiązującym rozkładem jazdy,
-    - **b)** przy wykonywaniu międzynarodowych przewozów wahadłowych lub okazjonalnych odpowiednie zezwolenie lub formularz jazdy,
-    - **c)** przy wykonywaniu międzynarodowych przewozów na potrzeby własne formularz jazdy,
+    - **a)** przy wykonywaniu przewozów regularnych i regularnych specjalnych – odpowiednie zezwolenie lub wypis z zezwolenia wraz z obowiązującym rozkładem jazdy,
+    - **b)** przy wykonywaniu międzynarodowych przewozów wahadłowych lub okazjonalnych – odpowiednie zezwolenie lub formularz jazdy,
+    - **c)** przy wykonywaniu międzynarodowych przewozów na potrzeby własne – formularz jazdy,
     - **d)** oryginał albo poświadczoną za zgodność z oryginałem przez przedsiębiorcę kserokopię decyzji, o której mowa w art. 20a ust. 2, jeżeli została wydana,
-    - **e)** przy wykonywaniu międzynarodowego przewozu drogowego, polegającego na okazjonalnym przewozie osób autobusami zarejestrowanymi na terytorium państwa członkowskiego Unii Europejskiej innym niż terytorium kraju, przez podatnika posiadającego siedzibę działalności gospodarczej lub stałe miejsce prowadzenia działalności gospodarczej, z którego świadczy te usługi, a w przypadku braku takiej siedziby działalności gospodarczej lub stałego miejsca prowadzenia działalności gospodarczej posiadającego stałe miejsce zamieszkania albo zwykłe miejsce pobytu na terytorium państwa członkowskiego Unii Europejskiej innym niż terytorium kraju potwierdzenie lub kopię potwierdzenia zarejestrowania jako podatnika VAT czynnego albo wydruk potwierdzenia identyfikacji jako podatnika VAT przewozy okazjonalne,
+    - **e)** przy wykonywaniu międzynarodowego przewozu drogowego, polegającego na okazjonalnym przewozie osób autobusami zarejestrowanymi na terytorium państwa członkowskiego Unii Europejskiej innym niż terytorium kraju, przez podatnika posiadającego siedzibę działalności gospodarczej lub stałe miejsce prowadzenia działalności gospodarczej, z którego świadczy te usługi, a w przypadku braku takiej siedziby działalności gospodarczej lub stałego miejsca prowadzenia działalności gospodarczej posiadającego stałe miejsce zamieszkania albo zwykłe miejsce pobytu na terytorium państwa członkowskiego Unii Europejskiej innym niż terytorium kraju – potwierdzenie lub kopię potwierdzenia zarejestrowania jako podatnika VAT czynnego albo wydruk potwierdzenia identyfikacji jako podatnika VAT – przewozy okazjonalne,
     - **f)** dokumenty wymagane w publicznym transporcie zbiorowym,
     - **g)** przy wykonywaniu przewozów okazjonalnych, o których mowa w art. 18 w ust. 4b w pkt 2, kopię umowy na realizowany przewóz,
     - **h)** urządzenie, na którym zainstalowana jest aplikacja mobilna, o której mowa w art. 13b ust. 1 ‒ w przypadku rozliczania opłaty za przewóz osób przy użyciu tej aplikacji;
 
-- **3)** wykonując przewóz drogowy rzeczy dokumenty związane z przewożonym ładunkiem, a także: o odpadach, o ile wpis do rejestru jest wymagany,
+- **3)** wykonując przewóz drogowy rzeczy – dokumenty związane z przewożonym ładunkiem, a także: poz. 667) ,
     - **a)** odpowiednie zezwolenie wymagane w międzynarodowym transporcie drogowym,
     - **b)** (uchylona)
-    - **c)** świadectwo wymagane zgodnie z Umową o międzynarodowych przewozach szybko psujących się artykułów żywnościowych i o specjalnych środkach transportu przeznaczonych do tych przewozów (ATP), sporządzonej w Genewie dnia 1 września 1970 r. (Dz. U. z 2015 r. poz. 667) ,
+    - **c)** świadectwo wymagane zgodnie z Umową o międzynarodowych przewozach szybko psujących się artykułów żywnościowych i o specjalnych środkach transportu przeznaczonych do tych przewozów (ATP), sporządzonej w Genewie dnia 1 września 1970 r. (Dz. U. z 2015 r.
     - **d)** zezwolenie na przejazd pojazdu, z ładunkiem lub bez ładunku, o masie, naciskach osi lub wymiarach przekraczających wielkości określone w odrębnych przepisach,
     - **e)** dokumenty wymagane przy przewozie zwierząt,
-    - **f)** dokumenty wymagane przy przewozie odpadów, w tym w odniesieniu do transportującego odpady wydane przez właściwy organ potwierdzenie posiadania numeru rejestrowego, o którym mowa w ustawie z dnia 14 grudnia 2012 r.
+    - **f)** dokumenty wymagane przy przewozie odpadów, w tym w odniesieniu do transportującego odpady wydane przez właściwy organ potwierdzenie posiadania numeru rejestrowego, o którym mowa w ustawie z dnia 14 grudnia 2012 r. o odpadach, o ile wpis do rejestru jest wymagany,
     - **g)** certyfikat potwierdzający spełnienie przez pojazd odpowiednich wymogów bezpieczeństwa lub warunków dopuszczenia do ruchu, jeżeli jest wymagany,
     - **h)** dokumenty związane z transgranicznym przemieszczaniem organizmów genetycznie zmodyfikowanych,
     - **i)** deklarację, o której mowa w art. 31a ust. 1,
     - **j)** przy wykonywaniu przewozów kabotażowych dokumenty, o których mowa w art. 29a ust. 3 i 4,
     - **k)** zezwolenie na odstępstwo,
-    - **l)** dokumenty, o których mowa w art. 11d ust. 2 lub w art. 11e ust. 2 pkt 1 jeżeli są wymagane;
+    - **l)** dokumenty, o których mowa w art. 11d ust. 2 lub w art. 11e ust. 2 pkt 1 – jeżeli są wymagane;
 
-- **4)** w międzynarodowym transporcie drogowym świadectwo kierowcy, jeżeli jest wymagane;
+- **4)** w międzynarodowym transporcie drogowym – świadectwo kierowcy, jeżeli jest wymagane;
 - **5)** urządzenie, o którym mowa w art. 13i ust. 3 i 3a oraz art. 16l ust. 1 ustawy z dnia 21 marca 1985 r. o drogach publicznych, jeżeli jest wymagane;
-- **6)** podpisany przez pracownika podmiotu prowadzącego działalność w zakresie konserwacji i naprawy pojazdów samochodowych formularz oświadczenia w sprawie usunięcia lub naruszenia plomby tachografu, zgodny z załącznikiem do rozporządzenia wykonawczego Komisji (UE) 2017/548 z dnia 23 marca 2017 r. ustanawiającego standardowy formularz pisemnego oświadczenia w sprawie usunięcia lub naruszenia plomby tachografu (Dz. Urz. UE L 79 z 24.03.2017, str. 1) jeżeli jest wymagany;
-- **7)** podpisane przez funkcjonariusza lub pracownika organu przeprowadzającego kontrolę pisemne oświadczenie o zdjęciu lub zerwaniu plomby tachografu do celów kontroli, zgodnie z art. 22 ust. 5 rozporządzenia (UE) nr 165/2014 jeżeli jest wymagane;
-- **8)** w przypadku, o którym mowa w art. 28b ust. 1 lub 2 numer referencyjny albo dokument zastępujący zgłoszenie i potwierdzenie przyjęcia dokumentu zastępującego zgłoszenie.
+- **6)** podpisany przez pracownika podmiotu prowadzącego działalność w zakresie konserwacji i naprawy pojazdów samochodowych formularz oświadczenia w sprawie usunięcia lub naruszenia plomby tachografu, zgodny z załącznikiem do rozporządzenia wykonawczego Komisji (UE) 2017/548 z dnia 23 marca 2017 r. ustanawiającego standardowy formularz pisemnego oświadczenia w sprawie usunięcia lub naruszenia plomby tachografu (Dz. Urz. UE L 79 z 24.03.2017, str. 1) – jeżeli jest wymagany;
+- **7)** podpisane przez funkcjonariusza lub pracownika organu przeprowadzającego kontrolę pisemne oświadczenie o zdjęciu lub zerwaniu plomby tachografu do celów kontroli, zgodnie z art. 22 ust. 5 rozporządzenia (UE) nr 165/2014 – jeżeli jest wymagane;
+- **8)** w przypadku, o którym mowa w art. 28b ust. 1 lub 2 – numer referencyjny albo dokument zastępujący zgłoszenie i potwierdzenie przyjęcia dokumentu zastępującego zgłoszenie.
 
 1a. (uchylony) 1b. Podczas przejazdu wykonywanego w ramach transportu drogowego przez zagranicznego przewoźnika kierowca pojazdu samochodowego jest obowiązany ponadto mieć przy sobie i okazywać na żądanie uprawnionego organu kontroli dowód uiszczenia opłaty, o której mowa w art. 43 ust. 1, jeżeli jest wymagana.
 
@@ -3156,6 +3194,8 @@ Art. 97–103. (pominięte)
 
 7. Podczas kontroli drogowej kierowca jest obowiązany do umożliwienia kontroli spełnienia obowiązku, o którym mowa w art. 10a ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi, w przypadkach, o których mowa w art. 28b ust. 1 lub 2.
 
+8. W przypadku gdy podczas kontroli drogowej kierowca okaże dokument w postaci elektronicznej lub papierowej potwierdzający posiadanie elektronicznego zezwolenia EKMT, jest obowiązany do udostępnienia tego dokumentu, na żądanie kontrolującego, w trakcie kontroli, w tym do okazania i udostępnienia urządzenia, na którym zapisany jest ten dokument. Przepis ten stosuje się do innych dokumentów wymaganych w postaci elektronicznej w związku z wykonywaniem przewozu na podstawie zezwolenia EKMT.
+
 **Art. 88.** Przepisy art. 87 nie naruszają, wynikających z odrębnych ustaw lub umów międzynarodowych, praw i obowiązków kierowców i podmiotów wykonujących przewóz drogowy.
 
 **Art. 89.**
@@ -3166,10 +3206,10 @@ Art. 97–103. (pominięte)
 - **2)** inspektorzy Inspekcji Transportu Drogowego;
 - **3)** funkcjonariusze Służby Celno-Skarbowej;
 - **4)** funkcjonariusze Straży Granicznej;
-- **5)** upoważnieni pracownicy zarządców dróg publicznych z wyłączeniem dokumentów, o których mowa w art. 87 ust. 1 pkt 1, pkt 2 lit. a i pkt 8 oraz ust. 4;
-- **6)** inspektorzy Państwowej Inspekcji Pracy w odniesieniu do danych rejestrowanych przez tachograf;
-- **7)** upoważnieni pracownicy właściwego organu, o którym mowa w art. 18 ust. 1 w odniesieniu do przewozów regularnych i regularnych specjalnych;
-- **8)** strażnicy straży gminnych w odniesieniu do publicznego transportu zbiorowego w zakresie określonym ustawą z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym.
+- **5)** upoważnieni pracownicy zarządców dróg publicznych – z wyłączeniem dokumentów, o których mowa w art. 87 ust. 1 pkt 1, pkt 2 lit. a i pkt 8 oraz ust. 4;
+- **6)** inspektorzy Państwowej Inspekcji Pracy – w odniesieniu do danych rejestrowanych przez tachograf;
+- **7)** upoważnieni pracownicy właściwego organu, o którym mowa w art. 18 ust. 1 – w odniesieniu do przewozów regularnych i regularnych specjalnych;
+- **8)** strażnicy straży gminnych – w odniesieniu do publicznego transportu zbiorowego w zakresie określonym ustawą z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym.
 
 2. Upoważnieni pracownicy, o których mowa w ust. 1 pkt 5 i 7, nie są uprawnieni do kontroli danych rejestrowanych przez tachograf oraz zaświadczenia, o którym mowa w art. 31 ustawy z dnia 16 kwietnia 2004 r. o czasie pracy kierowców.
 
@@ -3194,7 +3234,7 @@ Art. 97–103. (pominięte)
 - **2)** wzory dokumentów stosowane przez osoby uprawnione do tej kontroli;
 - **3)** sposób przeprowadzania kontroli w zakresie przestrzegania przepisów dotyczących okresów prowadzenia pojazdu, obowiązkowych przerw oraz czasu odpoczynku kierowcy, podczas kontroli drogowych i kontroli w przedsiębiorstwie, a także wymagane standardowe wyposażenie osób dokonujących tej kontroli i wykaz podstawowych elementów, które jej podlegają;
 - **4)** rodzaj danych statystycznych gromadzonych w wyniku kontroli i rejestrowanych przez organy kontrolne, a także tryb, sposób i wzory dokumentów do ich przekazywania do Głównego Inspektora Transportu Drogowego;
-- **5)** system oceny ryzyka podmiotów wykonujących przewóz drogowy w zakresie występowania naruszeń dotyczących: (uchylona)
+- **5)** system oceny ryzyka podmiotów wykonujących przewóz drogowy w zakresie występowania naruszeń dotyczących: – (uchylona)
     - **a)** czasu prowadzenia pojazdu, obowiązkowych przerw i czasu odpoczynku kierowców oraz
     - **b)** stanu technicznego pojazdów kategorii M , M , N i N i przyczep kategorii O i O .
 
@@ -3218,7 +3258,7 @@ Art. 97–103. (pominięte)
 
 1. Jeżeli w wyniku przeprowadzonej kontroli stwierdzono wykonywanie międzynarodowego przewozu drogowego rzeczy bez wymaganego zezwolenia, o którym mowa w art. 28 ust. 1, organ uprawniony do kontroli:
 
-- **1)** zatrzymuje i unieważnia zezwolenie na wykonywanie międzynarodowego przewozu drogowego rzeczy w sytuacji, o której mowa w art. 28a ust. 2;
+- **1)** zatrzymuje i unieważnia zezwolenie na wykonywanie międzynarodowego przewozu drogowego rzeczy – w sytuacji, o której mowa w art. 28a ust. 2;
 - **2)** kieruje lub usuwa pojazd samochodowy, na koszt podmiotu wykonującego przewóz, na najbliższy parking strzeżony.
 
 1a. W przypadku ujawnienia w trakcie kontroli wykonywania przewozu drogowego rzeczy bez wymaganego zgłoszenia, o którym mowa w art. 28b ust. 1 lub 2, organ uprawniony do kontroli kieruje lub usuwa pojazd samochodowy, na koszt podmiotu wykonującego przewóz, na najbliższy parking strzeżony. Przewóz może być kontynuowany po przesłaniu przez zagraniczny podmiot wykonujący przewóz drogowy rzeczy zgłoszenia i uzyskaniu dla niego numeru referencyjnego.
@@ -3237,7 +3277,7 @@ Art. 97–103. (pominięte)
 
 3. Kontrolujący wykonuje czynności kontrolne w obecności kontrolowanego albo osoby przez niego upoważnionej.
 
-**Art. 89c.** Do kontroli działalności gospodarczej przedsiębiorcy stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców.
+**Art. 89c.** Do kontroli działalności gospodarczej przedsiębiorcy stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
 
 **Art. 89d.** Wystąpienie z żądaniem, o którym mowa w art. 18 ust. 1 rozporządzenia 2016/679, nie wpływa na przebieg kontroli prowadzonych na podstawie przepisów niniejszego rozdziału ani na uprawnienie właściwego organu do nałożenia kary.
 
@@ -3256,10 +3296,10 @@ Art. 97–103. (pominięte)
 
 2. Komendant Główny Policji, Komendant Główny Straży Granicznej, Szef Krajowej Administracji Skarbowej oraz wojewódzki inspektor transportu drogowego, a w zakresie, o którym mowa w pkt 2, również Główny Inspektor Pracy, przekazują Głównemu Inspektorowi Transportu Drogowego zbiorczą informację dotyczącą kontroli:
 
-- **1)** stanu technicznego pojazdów co dwa lata, w terminie do dnia 31 stycznia po upływie dwuletniego okresu objętego sprawozdaniem, zgodnie z formularzem, o którym mowa w ust. 3;
-- **2)** przestrzegania przepisów dotyczących czasu jazdy i czasu postoju pojazdu, obowiązkowych przerw oraz czasu odpoczynku kierowcy co dwa lata, w terminie do dnia 31 lipca po upływie dwuletniego okresu objętego sprawozdaniem, zgodnie z formularzem, o którym mowa w ust. 1 pkt 2 na odpowiednich formularzach.
+- **1)** stanu technicznego pojazdów – co dwa lata, w terminie do dnia 31 stycznia po upływie dwuletniego okresu objętego sprawozdaniem, zgodnie z formularzem, o którym mowa w ust. 3;
+- **2)** przestrzegania przepisów dotyczących czasu jazdy i czasu postoju pojazdu, obowiązkowych przerw oraz czasu odpoczynku kierowcy – co dwa lata, w terminie do dnia 31 lipca po upływie dwuletniego okresu objętego sprawozdaniem, zgodnie z formularzem, o którym mowa w ust. 1 pkt 2 – na odpowiednich formularzach.
 
-2a. (uchylony) 2b. Komendant Główny Policji, Komendant Główny Straży Granicznej, Szef Krajowej Administracji Skarbowej oraz wojewódzki inspektor przekazują Głównemu Inspektorowi Transportu Drogowego zbiorczą informację dotyczącą kontroli mas pojazdów lub zespołu pojazdów w zakresie liczby przeprowadzonych kontroli oraz liczby pojazdów lub zespołów pojazdów, w przypadku których wykryto przeciążenia co dwa lata, w terminie do dnia 31 lipca po upływie okresu sprawozdawczego, o którym mowa w ust. 1 pkt 4, na formularzu, o którym mowa w ust. 5.
+2a. (uchylony) 2b. Komendant Główny Policji, Komendant Główny Straży Granicznej, Szef Krajowej Administracji Skarbowej oraz wojewódzki inspektor przekazują Głównemu Inspektorowi Transportu Drogowego zbiorczą informację dotyczącą kontroli mas pojazdów lub zespołu pojazdów w zakresie liczby przeprowadzonych kontroli oraz liczby pojazdów lub zespołów pojazdów, w przypadku których wykryto przeciążenia – co dwa lata, w terminie do dnia 31 lipca po upływie okresu sprawozdawczego, o którym mowa w ust. 1 pkt 4, na formularzu, o którym mowa w ust. 5.
 
 2c. Komendant Główny Policji, Szef Krajowej Administracji Skarbowej oraz wojewódzki inspektor transportu drogowego przekazują Głównemu Inspektorowi Transportu Drogowego zbiorczą informację dotyczącą kontroli przestrzegania przepisów w zakresie przewozów kabotażowych, corocznie, w terminie do dnia 28 lutego roku następnego.
 
@@ -3324,19 +3364,19 @@ Art. 97–103. (pominięte)
 
 5. Suma kar pieniężnych, o których mowa w ust. 1, nałożonych za naruszenia stwierdzone podczas kontroli w podmiocie wykonującym przewóz drogowy, nie może przekroczyć:
 
-- **1)** 15 000 złotych dla podmiotu zatrudniającego kierowców w średniej liczbie arytmetycznej do 10 w okresie 6 miesięcy przed dniem rozpoczęcia kontroli;
-- **2)** 20 000 złotych dla podmiotu zatrudniającego kierowców w średniej liczbie arytmetycznej powyżej 10 do 50 w okresie 6 miesięcy przed dniem rozpoczęcia kontroli;
-- **3)** 25 000 złotych dla podmiotu zatrudniającego kierowców w średniej liczbie arytmetycznej powyżej 50 do 250 w okresie 6 miesięcy przed dniem rozpoczęcia kontroli;
-- **4)** 30 000 złotych dla podmiotu zatrudniającego kierowców w średniej liczbie arytmetycznej większej niż 250 w okresie 6 miesięcy przed dniem rozpoczęcia kontroli;
-- **5)** 40 000 złotych dla podmiotu wykonującego inne czynności związane z przewozem drogowym;
-- **6)** 1 500 000 złotych dla przedsiębiorcy prowadzącego pośrednictwo przy przewozie osób.
+- **1)** 15 000 złotych – dla podmiotu zatrudniającego kierowców w średniej liczbie arytmetycznej do 10 w okresie 6 miesięcy przed dniem rozpoczęcia kontroli;
+- **2)** 20 000 złotych – dla podmiotu zatrudniającego kierowców w średniej liczbie arytmetycznej powyżej 10 do 50 w okresie 6 miesięcy przed dniem rozpoczęcia kontroli;
+- **3)** 25 000 złotych – dla podmiotu zatrudniającego kierowców w średniej liczbie arytmetycznej powyżej 50 do 250 w okresie 6 miesięcy przed dniem rozpoczęcia kontroli;
+- **4)** 30 000 złotych – dla podmiotu zatrudniającego kierowców w średniej liczbie arytmetycznej większej niż 250 w okresie 6 miesięcy przed dniem rozpoczęcia kontroli;
+- **5)** 40 000 złotych – dla podmiotu wykonującego inne czynności związane z przewozem drogowym;
+- **6)** 1 500 000 złotych – dla przedsiębiorcy prowadzącego pośrednictwo przy przewozie osób.
 
 6. Za kierowców, o których mowa w ust. 5 pkt 1–4, uważa się również osoby niezatrudnione przez podmiot wykonujący przewóz drogowy, wykonujące osobiście przewozy drogowe na jego rzecz.
 
 7. Wykaz naruszeń obowiązków lub warunków przewozu drogowego, o których mowa w ust. 1, wysokości kar pieniężnych za poszczególne naruszenia, a w przypadku niektórych naruszeń numer grupy naruszeń oraz wagę naruszeń wskazane w załączniku I do rozporządzenia Komisji (UE) 2016/403:
 
 - **1)** popełnionych przez podmiot wykonujący przewóz drogowy określa lp. 1–9,
-- **2)** popełnionych przez przewoźnika drogowego w związku z wykonywaniem transportu drogowego określa lp. 10 załącznika nr 3 do ustawy.
+- **2)** popełnionych przez przewoźnika drogowego w związku z wykonywaniem transportu drogowego określa lp. 10 – załącznika nr 3 do ustawy.
 
 8. Wykaz naruszeń obowiązków lub warunków przewozu drogowego, o których mowa w ust. 2, wysokości kar pieniężnych za poszczególne naruszenia, a w przypadku niektórych naruszeń numer grupy naruszeń oraz wagę naruszeń wskazane w załączniku I do rozporządzenia Komisji (UE) 2016/403, określa załącznik nr 4 do ustawy.
 
@@ -3355,7 +3395,7 @@ Art. 97–103. (pominięte)
 - **5)** organizatora wycieczki,
 - **6)** organizatora transportu,
 - **7)** operatora publicznego transportu zbiorowego,
-- **8)** podwykonawcy jeżeli wiedzieli oni lub, w świetle wszystkich istotnych okoliczności, powinni byli wiedzieć, że zlecone przez nich usługi transportowe wiążą się z powstaniem naruszenia.
+- **8)** podwykonawcy – jeżeli wiedzieli oni lub, w świetle wszystkich istotnych okoliczności, powinni byli wiedzieć, że zlecone przez nich usługi transportowe wiążą się z powstaniem naruszenia.
 
 12. Przepisy ust. 1, 3, 5–7, 9 i 10 stosuje się do podmiotów, o których mowa w art. 16a i art. 33a.
 
@@ -3391,9 +3431,9 @@ Art. 97–103. (pominięte)
 
 **Art. 92f.**
 
-1. Kto, będąc kierującym, nie okazuje uprawnionym organom kontroli zezwolenia na odstępstwo podlega karze grzywny w wysokości 2000 zł za każde naruszenie.
+1. Kto, będąc kierującym, nie okazuje uprawnionym organom kontroli zezwolenia na odstępstwo podlega karze grzywny w wysokości 2000 zł – za każde naruszenie.
 
-2. Kto, wykonując przewóz drogowy, narusza zakazy, o których mowa w art. 1zc rozporządzenia 765/2006 lub art. 3l rozporządzenia 833/2014, podlega karze pieniężnej w wysokości 100 000 zł za każdy przewóz drogowy.
+2. Kto, wykonując przewóz drogowy, narusza zakazy, o których mowa w art. 1zc rozporządzenia 765/2006 lub art. 3l rozporządzenia 833/2014, podlega karze pieniężnej w wysokości 100 000 zł – za każdy przewóz drogowy.
 
 **Art. 93.**
 
@@ -3409,7 +3449,7 @@ Art. 97–103. (pominięte)
 
 6. Przepisów ust. 4 i 5 nie stosuje się w przypadku ujawnienia przez funkcjonariusza Policji naruszenia, za które niniejsza ustawa przewiduje karę pieniężną, popełnionego przez zagranicznego przewoźnika drogowego.
 
-7. Do kar pieniężnych przewidzianych niniejszą ustawą nie stosuje się przepisów ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm. ).
+7. Do kar pieniężnych przewidzianych niniejszą ustawą nie stosuje się przepisów ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm. ).
 
 **Art. 94.**
 
@@ -3422,7 +3462,7 @@ Art. 97–103. (pominięte)
 4. Kaucję pobiera się w formie:
 
 - **1)** gotówkowej, za pokwitowaniem na druku ścisłego zarachowania, lub
-- **2)** przelewu na wyodrębniony rachunek bankowy organu prowadzącego postępowanie administracyjne w sprawie o nałożenie kary, a w przypadku poboru kaucji przez organy celne na wyodrębniony rachunek bankowy naczelnika urzędu skarbowego określonego w przepisach odrębnych, przy czym koszty przelewów ponosi zobowiązany podmiot.
+- **2)** przelewu na wyodrębniony rachunek bankowy organu prowadzącego postępowanie administracyjne w sprawie o nałożenie kary, a w przypadku poboru kaucji przez organy celne – na wyodrębniony rachunek bankowy naczelnika urzędu skarbowego określonego w przepisach odrębnych, przy czym koszty przelewów ponosi zobowiązany podmiot.
 
 5. W przypadku poboru kaucji przez inspektorów Inspekcji Transportu Drogowego, możliwe jest jej przekazanie w formie bezgotówkowej, za pomocą karty płatniczej. Koszty związane z autoryzacją transakcji i przekazem środków na rachunek bankowy, o którym mowa w ust. 4 pkt 2, ponosi bezzwrotnie zobowiązany podmiot.
 
@@ -3430,12 +3470,12 @@ Art. 97–103. (pominięte)
 
 7. Kaucję przekazuje się:
 
-- **1)** na rachunek bankowy, o którym mowa w ust. 2 w terminie 7 dni od dnia, w którym decyzja o nałożeniu kary stała się wykonalna;
-- **2)** na rachunek bankowy podmiotu, który ją wpłacił w terminie 7 dni od dnia doręczenia decyzji o uchyleniu lub stwierdzeniu nieważności decyzji o nałożeniu kary pieniężnej albo doręczenia orzeczenia sądu administracyjnego o uchyleniu lub stwierdzeniu nieważności takiej decyzji.
+- **1)** na rachunek bankowy, o którym mowa w ust. 2 – w terminie 7 dni od dnia, w którym decyzja o nałożeniu kary stała się wykonalna;
+- **2)** na rachunek bankowy podmiotu, który ją wpłacił – w terminie 7 dni od dnia doręczenia decyzji o uchyleniu lub stwierdzeniu nieważności decyzji o nałożeniu kary pieniężnej albo doręczenia orzeczenia sądu administracyjnego o uchyleniu lub stwierdzeniu nieważności takiej decyzji.
 
 8. W przypadku, gdy wysokość nałożonej kary jest mniejsza od wysokości pobranej kaucji, do powstałej różnicy stosuje się odpowiednio przepis ust. 7 pkt 2.
 
-9. Do kary pieniężnej nie stosuje się przepisów ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa.
+9. Do kary pieniężnej nie stosuje się przepisów ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa.
 
 **Art. 94a.** Nałożoną karę pieniężną uważa się za niebyłą po upływie 2 lat od dnia wykonania decyzji administracyjnej o jej nałożeniu.
 
@@ -3445,11 +3485,11 @@ Art. 97–103. (pominięte)
 
 1. W przypadku stwierdzenia naruszenia obowiązków lub warunków przewozu drogowego przez podmiot wykonujący przewóz drogowy lub inne czynności związane z tym przewozem osoba przeprowadzająca kontrolę na drodze zatrzymuje, za pokwitowaniem, dokumenty podlegające kontroli i kieruje lub usuwa pojazd, na koszt podmiotu wykonującego przewóz drogowy, na najbliższy parking strzeżony, jeżeli:
 
-- **1)** nie pobrano kaucji w przypadku podmiotu, o którym mowa w art. 94 ust. 3,
+- **1)** nie pobrano kaucji – w przypadku podmiotu, o którym mowa w art. 94 ust. 3,
 - **2)** nie usunięto stwierdzonych nieprawidłowości, lub
 - **3)** zakaz lub ograniczenie ruchu uniemożliwia dalszą jazdę.
 
-2. W zakresie postępowania w związku z usuwaniem pojazdu stosuje się odpowiednio przepisy art. 130a ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym.
+2. W zakresie postępowania w związku z usuwaniem pojazdu stosuje się odpowiednio przepisy art. 130a ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym.
 
 3. Zwrot pojazdu z parkingu następuje, odpowiednio po:
 
@@ -3462,9 +3502,9 @@ Art. 97–103. (pominięte)
 
 **Art. 95a.**
 
-1. Kto, będąc zobowiązany do zwrotu zezwolenia na wykonywanie zawodu przewoźnika drogowego, licencji lub wypisów z tych dokumentów albo świadectwa kierowcy nie zwraca ich organowi, który ich udzielił, w terminie 14 dni od dnia, w którym odpowiednio decyzja o cofnięciu zezwolenia, licencji, o czasowym cofnięciu wypisów z licencji wspólnotowej lub o cofnięciu świadectwa kierowcy stała się ostateczna podlega karze pieniężnej w wysokości 1000 zł.
+1. Kto, będąc zobowiązany do zwrotu zezwolenia na wykonywanie zawodu przewoźnika drogowego, licencji lub wypisów z tych dokumentów albo świadectwa kierowcy nie zwraca ich organowi, który ich udzielił, w terminie 14 dni od dnia, w którym odpowiednio decyzja o cofnięciu zezwolenia, licencji, o czasowym cofnięciu wypisów z licencji wspólnotowej lub o cofnięciu świadectwa kierowcy stała się ostateczna – podlega karze pieniężnej w wysokości 1000 zł.
 
-2. Kto, będąc zobowiązany do zwrotu certyfikatu kompetencji zawodowych w transporcie drogowym, nie zwraca tego dokumentu organowi, który wydał decyzję administracyjną o niezdolności zarządzającego transportem do kierowania operacjami transportowymi, w terminie 14 dni od dnia, w którym decyzja ta stała się ostateczna podlega karze pieniężnej w wysokości 500 zł.
+2. Kto, będąc zobowiązany do zwrotu certyfikatu kompetencji zawodowych w transporcie drogowym, nie zwraca tego dokumentu organowi, który wydał decyzję administracyjną o niezdolności zarządzającego transportem do kierowania operacjami transportowymi, w terminie 14 dni od dnia, w którym decyzja ta stała się ostateczna – podlega karze pieniężnej w wysokości 500 zł.
 
 3. Kary, o których mowa w ust. 1 i 2, nakłada w drodze decyzji administracyjnej organ właściwy w sprawach udzielenia zezwolenia na wykonywanie zawodu przewoźnika drogowego lub licencji.
 
@@ -3480,10 +3520,10 @@ Art. 97–103. (pominięte)
 
 4. Kara pieniężna, o której mowa w ust. 1, nakładana przez:
 
-- **1)** organizatora publicznego transportu zbiorowego w rozumieniu art. 7 ust. 1 ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym stanowi dochód właściwej jednostki samorządu terytorialnego;
-- **2)** organ właściwy do wydawania zezwoleń na wykonywanie regularnych przewozów osób w międzynarodowym transporcie drogowym, o którym mowa w art. 18 ust. 1 pkt 2 lit. a stanowi wpływ Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej, o którym mowa w ustawie z dnia 16 maja 2019 r. o Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej;
-- **3)** marszałka województwa stanowi dochód samorządu województwa;
-- **4)** wojewodę stanowi dochód budżetu państwa.
+- **1)** organizatora publicznego transportu zbiorowego w rozumieniu art. 7 ust. 1 ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym – stanowi dochód właściwej jednostki samorządu terytorialnego;
+- **2)** organ właściwy do wydawania zezwoleń na wykonywanie regularnych przewozów osób w międzynarodowym transporcie drogowym, o którym mowa w art. 18 ust. 1 pkt 2 lit. a – stanowi wpływ Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej, o którym mowa w ustawie z dnia 16 maja 2019 r. o Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej;
+- **3)** marszałka województwa – stanowi dochód samorządu województwa;
+- **4)** wojewodę – stanowi dochód budżetu państwa.
 
 **Art. 95c.**
 
@@ -3523,7 +3563,7 @@ Art. 97–103. (pominięte)
 
 **Art. 96.** (uchylony)
 
-#### Rozdział 11a (uchylony)
+#### Rozdział 11a
 
 #### Rozdział 12 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
 
@@ -3537,7 +3577,7 @@ Art. 97–103. (pominięte)
 
 **Art. 106.** (pominięty)
 
-**Art. 107.** Z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej do przedsiębiorców zagranicznych z państw członkowskich Unii Europejskiej oraz państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym, nie stosuje się przepisów art. 18 ust. 2, art. 19 oraz art. 28 ust. 1.
+**Art. 107.** Z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej do przedsiębiorców zagranicznych z państw członkowskich Unii Europejskiej oraz państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym, nie stosuje się przepisów art. 18 ust. 2, art. 19 oraz art. 28 ust. 1.
 
 **Art. 108.** (pominięty)
 
@@ -3550,5 +3590,5 @@ Art. 97–103. (pominięte)
 
 2. (pominięty)
 
-**Art. 110.** Ustawa wchodzi w życie z dniem 1 stycznia 2002 r., z tym że rozdział 9 wchodzi w życie z dniem 1 listopada 2001 r., z wyjątkiem art. 50, art. 68–75 i art. 80–82, które wchodzą w życie po upływie 6 miesięcy od dnia ogłoszenia . (uchylony) WYKAZ NARUSZEŃ OBOWIĄZKÓW LUB WARUNKÓW PRZEWOZU DROGOWEGO, O KTÓRYCH MOWA W ART. 92 UST. 1 USTAWY O TRANSPORCIE DROGOWYM , WYSOKOŚCI GRZYWIEN ZA POSZCZEGÓLNE NARUSZENIA, A W PRZYPADKU NIEKTÓRYCH NARUSZEŃ NUMER GRUPY NARUSZEŃ ORAZ WAGA NARUSZEŃ Lp. Wykaz naruszeń obowiązków lub warunków przewozu drogowego, o których mowa w art. 92 ust. 1 ustawy o transporcie drogowym Wysokość grzywny w złotych Nr grupy naruszeń oraz waga naruszeń, wskazane w załączniku I do rozporządzenia 2016/403 (PN poważne naruszenie, BPN bardzo poważne naruszenie, NN najpoważniejsze naruszenie) 1 2 3 4 1. Nieokazanie: 1.1. wypisu z zezwolenia na wykonywanie zawodu przewoźnika drogowego 200 1.2. wypisu z licencji 200 10.2 BPN 11.2 BPN 1.3. świadectwa kierowcy 150 10.4 PN 1.4. zapisów odręcznych i wydruków za dni podlegające kontroli, karty 200 2.22 BPN kierowcy, jeżeli kierowca posiada taką kartę 2.23 BPN 2.24 BPN 1.4a. 1 wykresówki za dzień podlegający kontroli 500 2.21 BPN 1.4b. od 2 do 15 wykresówek za dni podlegające kontroli 1000 2.21 BPN 1.4c. powyżej 15 wykresówek za dni podlegające kontroli 1500 2.21 BPN 1.5. zezwolenia na wykonywanie regularnych przewozów osób 150 11.4 PN w międzynarodowym transporcie drogowym lub zezwolenia na wykonywanie regularnych specjalnych przewozów osób w międzynarodowym transporcie drogowym lub wypisów z tych zezwoleń 1.6. dokumentów wymaganych przy przewozie zwierząt określonych w przepisach rozporządzenia Rady (WE) nr 1/2005 150 12.5 PN 1.7. innego wymaganego w związku z wykonywanym przewozem drogowym dokumentu, o którym mowa w art. 87 ustawy o transporcie drogowym 200 2. Nieokazanie danych z karty kierowcy 200 2.22 BPN 2a. Wykonywanie przewozu drogowego rzeczy bez okazania numeru referencyjnego, dokumentu zastępującego zgłoszenie lub potwierdzenia przyjęcia dokumentu zastępującego zgłoszenie, w przypadku, o którym mowa w art. 28b ustawy o transporcie drogowym 1500 2b. Wykonywanie przewozu drogowego w przypadkach, o których mowa w art. 28b ust. 1 albo 2 ustawy o transporcie drogowym , z naruszeniem obowiązku, o którym mowa w art. 10b ustawy o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi , lub obowiązku, o którym mowa w art. 87 ust. 7 ustawy o transporcie drogowym 2000 3. Wykonywanie przewozu drogowego bez okazania dokumentu 150 7.2 PN potwierdzającego uzyskanie kwalifikacji wstępnej lub ukończenie szkolenia okresowego (wymaganego wpisu do prawa jazdy, karty kwalifikacji kierowcy) 4. Brak szkolenia wymaganego w związku z wykonywaniem danego rodzaju 800 przewozu drogowego, innego niż w lp. 3. 5. Prowadzenie pojazdu z naruszeniem przepisów o czasie prowadzenia pojazdu, obowiązujących przerwach i odpoczynku 5.1. Przekroczenie maksymalnego dziennego czasu prowadzenia pojazdu:
+**Art. 110.** Ustawa wchodzi w życie z dniem 1 stycznia 2002 r., z tym że rozdział 9 wchodzi w życie z dniem 1 listopada 2001 r., z wyjątkiem art. 50, art. 68–75 i art. 80–82, które wchodzą w życie po upływie 6 miesięcy od dnia ogłoszenia . 2000
 

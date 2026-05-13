@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# Dziennik Ustaw Nr 98 - 3469 - Poz. 610 610
+# o zmianie ustawy o pracowniczych programach emerytalnych oraz o zmianie ustawy o organizacji i funkcjonowaniu funduszy emerytalnych
+
+*USTAWA z dnia 24 lipca 1998 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,18 +26,7 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19980980610) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1998/610/text.pdf) |
 
-USTAWA z dnia 24 lipca 1998 r.
-o zmianie ustawy o pracowniczych programach emerytalnych oraz o zmianie ustawy o organizacji i funkcjo nowaniu funduszy emerytalnych.
+**Art. 1.** W ustawie z dnia 22 sierpnia 1997 r. o pracowniczych programach emerytalnych (cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:4)(cid:6)(cid:7)(cid:8)(cid:6)(cid:9)(cid:10)(cid:11)(cid:12)(cid:6)(cid:13)(cid:14)(cid:3)(cid:4)(cid:6)(cid:11)(cid:10)(cid:15)(cid:16)(cid:6)(cid:17)(cid:6)(cid:18)(cid:8)(cid:19)(cid:4)(cid:6)(cid:20)(cid:21)(cid:6)(cid:17)(cid:22)(cid:8)(cid:18)(cid:3)(cid:22)(cid:6)(cid:23)(cid:3)(cid:6)(cid:24)(cid:25)(cid:26)(cid:27)(cid:28)(cid:6)(cid:9)(cid:6)(cid:29)(cid:19)(cid:22)(cid:30)(cid:3)(cid:25)(cid:26)(cid:18)(cid:6)(cid:9)(cid:11)(cid:11)(cid:11)(cid:6)(cid:8)(cid:4)(cid:23)(cid:6)(cid:3)(cid:18)(cid:29)(cid:19)(cid:31)(cid:13) !(cid:27)(cid:6)(cid:29)(cid:26)(cid:31) wyrazami "z dniem 1 kwietnia 1999 r.".
 
-**Art. 1.** W ustawie z dnia 22 sierpnia 1997 r. o pra cowniczych programach emerytalnych (Dz. U. Nr 139, poz. 932) wart. 46 wyrazy "z dniem 1 stycznia 1999 r." wyrazami "z dniem 1 kwietnia 1999 r."
-
-**Art. 2.** W ustawie z dnia 28 sierpnia 1997 r. o orga nizacji i funkcjonowaniu funduszy emerytalnych (Dz. U. Nr 139, poz. 934) wprowadza zmia ny:
-
-**Art. 3.** Ustawa wchodzi w z dniem Prezydent Rzeczypospolitej Polskiej: A. USTAWA z dnia 25 lipca 1998 r. o zmianie ustawy o finansowaniu gmin.
-
-**Art. 1.** W ustawie z dnia 10 grudnia 1993 r. o finan sowaniu gmin (Dz. U. z 1998 r. Nr 30, poz. 164) wpro wadza zmiany:
-
-**Art. 21c.** Rada Ministrów, w drodze nia, ustala wykaz gmin, o których mowa wart. 21a ust. 1."
-
-**Art. 2.** Ustawa wchodzi w z dniem Prezydent Rzeczypospolitej Polskiej: A.
+**Art. 2.** W ustawie z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy eme(cid:8)(cid:22)(cid:19)(cid:18)"(cid:25)(cid:22)(cid:30)#(cid:6)(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:4)(cid:6)(cid:7)(cid:8)(cid:6)(cid:9)(cid:10)(cid:11)(cid:12)(cid:6)(cid:13)(cid:14)(cid:3)(cid:4)(cid:6)(cid:11)(cid:10)(cid:20)(cid:16)(cid:6)(cid:17)(cid:13)(cid:8)(cid:14)(cid:17)(cid:18)(cid:24)(cid:3)(cid:18)(cid:6)(cid:29)(cid:26)(cid:31)(cid:6)(cid:25)(cid:18)(cid:29)(cid:19)(cid:31)(cid:13) !$ce zmiany: (cid:9)(cid:16)(cid:6)(cid:13)(cid:14)(cid:6)(cid:18)(cid:8)(cid:19)(cid:4)(cid:6)(cid:15)(cid:10)%(cid:6)(cid:24)(cid:14)(cid:24)(cid:18)!(cid:27)(cid:6)(cid:29)(cid:26)(cid:31)(cid:6)(cid:18)(cid:8)(cid:19)(cid:4)(cid:6)(cid:15)(cid:10)%(cid:18)(cid:6)(cid:17)(cid:6)&(cid:8)(cid:3)(cid:28)(cid:26)(cid:27)(cid:25)(cid:26) ’ (cid:23)((cid:8)(cid:19)(cid:4)(cid:6)(cid:15)(cid:10)%(cid:18)(cid:4)(cid:6)(cid:2)(cid:14)(cid:6)(cid:24)(cid:25)(cid:26)(cid:18)(cid:6)(cid:9))(cid:6)" (cid:19)(cid:27)*(cid:14)(cid:6)(cid:9)(cid:11)(cid:11)(cid:11)(cid:6)(cid:8)(cid:4)(cid:6)!(cid:27)(cid:29)(cid:19)(cid:6)(cid:3)(cid:18)&(cid:8)(cid:14)(cid:25)(cid:26)(cid:14)(cid:25)(cid:27)(cid:6)(cid:13)(cid:8)(cid:14)(cid:17)(cid:18)(cid:24)(cid:3)(cid:27)(cid:25)(cid:26)(cid:27)(cid:6)(cid:24)(cid:3)(cid:26)(cid:18)+(cid:18)"(cid:25)o,(cid:30)(cid:26)(cid:6)(cid:18)-(cid:17)(cid:26)(cid:3)(cid:22)(cid:30)(cid:22)!(cid:25)(cid:27)!(cid:12)(cid:6)(cid:17)(cid:6)(cid:19)(cid:22)(cid:28)(cid:6)(cid:8)(cid:27)-"(cid:18)(cid:28)(cid:14)(cid:17)(cid:27)!(cid:12)(cid:6)(cid:25)(cid:18)(cid:6)(cid:8)(cid:3)(cid:27)(cid:30)(cid:3)(cid:6)(cid:14)(cid:19)(cid:17)(cid:18)(cid:8)(cid:19)(cid:22)(cid:30)#(cid:6). (cid:25)(cid:24)u(cid:29)(cid:3)(cid:22)(cid:6)(cid:27)(cid:28)(cid:27)(cid:8)(cid:22)(cid:19)(cid:18)"(cid:25)(cid:22)(cid:30)#(cid:6)(cid:14)(cid:8)(cid:18)(cid:3)(cid:6)(cid:17)(cid:22)-(cid:14)(cid:25)(cid:22)(cid:17)(cid:18)(cid:25)(cid:26)(cid:27)(cid:6)(cid:30)(cid:3)(cid:22)(cid:25)(cid:25)(cid:14),(cid:30)(cid:26)(cid:6)(cid:18)-(cid:17)(cid:26)(cid:3)(cid:22)(cid:30)(cid:22)!(cid:25)(cid:22)(cid:30)#(cid:6)(cid:25)(cid:18) rzecz tych funduszy.";
 

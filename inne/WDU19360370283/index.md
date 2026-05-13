@@ -10,7 +10,9 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# Nr. 37. Dziennik Ustaw. Poz. 282 i 283. 637
+# Prawo czekowe
+
+*USTAWA z dnia 28 kwietnia 1936 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,186 +26,211 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19360370283) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1936/283/text.pdf) |
 
-2) !przyrzeczenie bezwarun:kowe oznaczonej sumy oznaczenie terminu oznaczenie miejsca
-5) nazwisko osoby, na której rzecz lub na któ rej zlecenie ma dokonana;
-6) oznaczenie daty i miejsca we kslu;
-7) podpis wystawcy wekslu.
+### DZIAŁ I Wystawienie i forma czeku
 
-**Art. 102.** Nie za weksel dokument, Iktóremu hracr< jednei z cech, wskazanych w artykule przypadki, w Weksel bez oznaczenia terminu za za okazaniem. W, braku osobnego oznaczenia, miejsce wysta wienia wekslu za miejsce a tak za miejsce zamieszkania wystawcy. Weksel w którym nie oznaczono miej sca wystawienia, za wystawiony w miejscu, podanem obok nazwiska wystawcy.
+**Art. 1.** Czek zawiera:
 
-**Art. 103.** Do wekslu stosuje prze pisy o wekslu trasowanym, o ile z wekslu snego nie w i indo'su (art. 11 (art. (art. 38 - 42); zwrotnego sJPoWiodu nia (art. przez (art. 55, 59 - 63); odpisów (art. i zmian (art. 69); przedawnienia (art. 70 i 71); . dni obliczania terminów i zakazu dni ulgowych (art. i Srporsobu uwierzytelniania podpisów .osób nie lub (ad. roszczenia z zbogacenia (art. kolizji ustaw (a:rt. i weksli zaginionych (art. 96 - 100). stosuje do wekslu przepi sy o weksilu platnym trzedego lub w innej miej'sco miejsce zamieszkania trasata (art. i o odsetek (art. o w ozna czeniu sumy wekslowej (art. 6), 'o skutkach podpisu, w warunkach, przewidzianych wart. o skutkach podpisu osoby, bez nictwa albo jego granice (art. o wekslu in blanco (art. 10) oraz ° protestach (art. 8595) z protest ma dokonany przeciw wystawcy. . Do wekslu stosuje przepi sy o wekslowe m (art. w przy padku, przewidzianym w ostatnim art. je nie za kogo za
+**Art. 2.** Nie będzie uważany za czek dokument, któremu brak jednej z cech, wskazanych w artykule poprzedzającym, wyjąwszy przypadki, określone w ustępach następujących. W braku osobnego oznaczenia, miejsce wymienione obok nazwiska trasata, uważa się za miejsce płatności. Jeżeli obok nazwiska trasata wymieniono kilka miejsc, czek jest płatny w miejscu, wymienionem najpierw. W braku takiego lub wszelkiego innego oznaczenia, czek jest płatny w miejscu wystawienia. Czek, w którym nie oznaczono miejsca wystawienia, uważa się za wystawiony w miejscu, podanem obok nazwiska wystawcy.
 
-**Art. 104.** Odpowiedzialność wystawcy wekslu jest taka sama, jak akceptanta wekslu tra sowanego. Weksle w pewien czas po oka zaniu, powinny w terminach, oznaczonych w art. przedstawione celem zaznaczenia wizy przez. Termin po okazaniu biegnie od daty wi zy, podpisanej przez na wekslu. wy stawca wzbrania lub protestem (art. od daty protestu biegnie termin, w jaki po okazaniu weksel TY T UL III. Przepisy i
+**Art. 3.** Czek wystawia się na bankiera, który ma fundusze do rozporządzenia wystawcy, zgodnie z wyraźną lub dorozumianą umową, uprawniającą wystawcę do rozporządzania temi funduszami zapomocą czeku. Wszakże dokument, wystawiony bez zachowania tego przepisu, pozostaje mimo to ważny jako czek. W czekach, wystawionych i płatnych w Polsce, można jako trasata wskazać jedynie bankiera. Polecenie zapłaty, które nie odpowiada temu przepisowi, jest jako czek nieważne.
 
-**Art. 105.** Z dniem w prawa ni niejszego traci moc Prezydenta Rze czypospolitej z dnia 14 listopada 1924 r. o prawie we kslowem (Dz. U. R. P. Nr. poz. 926) wraz z wyda nemi na jego podstawie
+**Art. 4.** Czek nie ulega przyjęciu. Wzmiankę o przyjęciu, umieszczoną na czeku, uważa się za nienapisaną.
 
-**Art. 106.** Ilekroć przepisy prawne na dotychczasowe prawo wekslowe, stosuje odpo wiednio przepisy prawa niniejszego. Art! 107. Ministra Skarbu, wy dane w porozumieniu z Ministrem ustali, które instytucje izbami TO'zrachunkowemi. Art• mocy przepisy dzenia Prezydenta Rzeczypospolitej z dnia 12 czerw ca r. ° w walutach zagranicz nych (Dz. U. R. 'P. Nr. 59, poz. 509), z prze pisów art. ust. i art. pkt. które moc w stosunku do weksli, wystawionych po w prawa niniejszego.
+**Art. 5.** Czek może być wystawiony: na określoną osobę z dodaniem wyraźnego zastrzeżenia „na zlecenie” lub bez takiego zastrzeżenia; na określoną osobę z dodaniem zastrzeżenia „nie na zlecenie” lub innego równoznacznego; na okaziciela. Czek na rzecz określonej osoby z dodaniem wyrazów „lub okazicielowi” albo innego zwrotu równoznacznego uważa się za czek na okaziciela. Za czek na okaziciela uważa się również czek, nie wskazujący, komu ma być uiszczona zapłata.
 
-**Art. 109.** Przepisów prawa niniejszego nie sto suje do weksli, wystawionych przed jego. wej w
+**Art. 6.** Czek może być wystawiony na własne zlecenie wystawcy. Czek może być wystawiony na rachunek osoby trzeciej. Czek na okaziciela, w którym wystawca jest zarazem trasatem, jest nieważny.
 
-**Art. 110.** Wykonanie prawa niniejszego poru cza Ministrowi
+**Art. 7.** Zastrzeżenie oprocentowania, umieszczone w czeku, uważa się za nienapisane.
 
-**Art. 111.** Ustawa niniejsza wchodzi w z dniem lipca r. Prezydent Rzeczypospolitei: l. Rady Ministrów: . Marian Minister 283. USTAWA z dnia Ikwietnia r. PRAWO CZEKOWE. I. Wystawienie i forma czeku. Art. Czek zawiera:
+**Art. 8.** Czek może być płatny w miejscu zamieszkania osoby trzeciej, bądź w miejscowości, w której trasat ma miejsce zamieszkania, bądź w innej miejscowości, z tem jednak zastrzeżeniem, że osoba trzecia jest bankierem.
 
-**Art. 2.** Nie za czek dokument, któremu brak jednej z cech, wskazanych w artykule przypadki, w ,W braku osobnego oznaczenia, miejsce wymie In,ione oJbok nazwislka tra!sata, za miejsce obok nazwiska trasata wymieniono kilka miejsc, czek je.st w miejscu, nem najpierw. W braku takiego lub wszelkiego innego ozna czenia, czek jest w miejscu wystawienia. , Czelk, w którym nie ,oznaczono miejsca wysta wienia, za wystawiony w miejscu, poda nem obok nazwiska wystawcy.
+**Art. 9.** Czek, w którym sumę czekową napisano literami i liczbami, w razie różnicy ważny jest na sumę, napisaną literami. W razie różnicy sum, napisanych kilkakrotnie literami lub kilkakrotnie liczbami, czek jest ważny na sumę mniejszą.
 
-**Art. 3.** Czek wystawia na bankiera, który ma fundusze do wystawcy, zgodnie 'z lub clio temi fundus'zami zapo czeku. dokument, , wystawiony bez zachowania tego przepisu, pozostaje mimo to iako czek. " W czekach, wystawionych i Polsce, jako trasata jedynie bankiera. Po lecenie które nie odpowiada temu przepiso 'wi, jest jako czek
+**Art. 10.** Jeżeli na czeku znajdują się podpisy osób, niezdolnych do zaciągania zobowiązań czekowych, podpisy fałszywe, podpisy osób nieistniejących albo podpisy, które z jakiejkolwiek innej przyczyny nie zobowiązują osób, które czek podpisały lub których nazwiskiem czek został podpisany, nie uchybia to ważności innych podpisów.
 
-**Art. 4.** Czek nie ulega o na czeku, za nieArt. 5. Czek wystawiony: na z dodaniem za , "na zlecenie" lub bez takiego na z dodaniem '..,nie na zlecenie" lub innego równoznacznego; na okaziciela. Czek na rzecz osoby z dodaniem wyrazów "lub okazicielowi" albo innego zwrotu równoznacznego za czek na okaziciela. Za czek na okaziciela czeI., nie komu ma uiszczona
+**Art. 11.** Kto podpisał czek jako przedstawiciel innej osoby, nie będąc umocowanym do działania w jej imieniu, odpowiada sam czekowo, a jeżeli zapłacił, ma takie same prawa, jakieby miała osoba, której jest rzekomo przedstawicielem. Zasady te stosuje się również do przedstawiciela, który przekroczył granice swego umocowania.
 
-**Art. 6.** Czek na zlecenie wystawcy. , , Czek wystawiony na rachunek osoby trzeciej. Czek na okaziciela, w którym wystawca jest zarazem trasatem, jest
+**Art. 12.** Wystawca odpowiada za zapłatę czeku. Zastrzeżenie, którem wystawca zwalnia się od tej odpowiedzialności, uważa się za nienapisane.
 
-**Art. 7.** Zastrzeienie oprocentowania, umie szcZone w czeku, za nienapisane.
+**Art. 13.** Jeżeli czek, niezupełny w chwili wystawienia, uzupełniony został niezgodnie z zawartem porozumieniem, nie można wobec posiadacza zasłaniać się zarzutem, że nie zastosowano się do tego porozumienia, chyba że posiadacz nabył czek w złej wierze albo przy nabyciu dopuścił się rażącego niedbalstwa.
 
-**Art. 8.** Czek w miejs-cu za mieszkania osoby trzeciej, w w której trasat ma miejsce zamieszkania, w innej z tern -jednak 'osoba trzecia jest bankierem. .
+### DZIAŁ II Przeniesienie
 
-**Art. 9.** Czek, w którym napisa no literami i liczbami, w razie jest na literami. W razie sum, napisanych kilkakrotnie literami lub knkakrotnie HCZlba:mi, czeik je,st na
+**Art. 14.** Czek, który został wystawiony na określoną osobę z dodaniem wyraźnego zastrzeżenia „na zlecenie” lub bez takiego zastrzeżenia, można przenieść przez indos. Czek, wystawiony na określoną osobę z dodaniem zastrzeżenia „nie na zlecenie” lub innego równoznacznego, można przenieść tylko w formie i ze skutkami zwykłego przelewu. Czek można indosować także na wystawcę lub na każdą inną osobę, czekowo zobowiązaną. Osoby te mogą czek dalej indosować.
 
-**Art. 10.** Jeżeli na czeku podpisy osób, niezdolnych do czeko wych, podpisy podpisy osób albo podpisy, które z jakiejkolwiek innej przyczyny nie osób. które czek lub któ rych nazwiskiem czek podpisany. nie uchybia to innych podpisów.
+**Art. 15.** Indos powinien być bezwarunkowy. Warunki, od których uzależniono indos, uważa się za nienapisane. Indos częściowy jest nieważny. Nieważny jest również indos, dokonany przez trasata. Indos na okaziciela jest równoznaczny z indosem in blanco. Indos na rzecz trasata ma znaczenie pokwitowania, wyjąwszy przypadek, że trasat ma kilka zakładów, a czek indosowano na rzecz zakładu innego, niż zakład, na który czek wystawiono.
 
-**Art. 11.** Kto czek jako przedstawiciel innej osoby, nie umocowanym do w jej imieniu, odpowiada sam czekowo, a ma takie san:.e prawa, jakieby osoba, któ rej jest rzekomo przedstawicielem. Zasady te stosuje do przedstawiciela, który granice swego umocowania.
+**Art. 16.** Indos powinien być napisany na czeku lub na złączonej z nim karcie dodatkowej (przedłużku) i podpisany przez indosanta. Indos może nie wymieniać indosatarjusza lub może ograniczać się tylko do podpisu indosanta (indos in blanco). W tym przypadku indos jest ważny tylko, jeżeli został napisany na odwrotnej stronie czeku lub na przedłużku.
 
-**Art. 12.** Wystawca odpowiada za cze ku. którem wystawca zwalnia od tej za nienapisane.
+**Art. 17.** Indos przenosi wszystkie prawa z czeku. Jeżeli indos jest in blanco, posiadacz czeku może:
 
-**Art. 13.** Jeżeli czek, w chwili wy stawienia, niezgodnie z zawarte porozumieniem, nie- wobec posiadacza zarzutem, nie zastosowano do tego porozumienia, chyba czetk w wierze albo przy nabyciu niedbalstwa. ' D i II. Przeniesienie.
+**Art. 18.** Indosant odpowiada w braku przeciwnego zastrzeżenia za zapłatę czeku. Indosant może zabronić dalszego indosowania; w tym przypadku nie odpowiada wobec następnych indosatarjuszy.
 
-**Art. 14.** Czek /który wY'stawiony na z dodaniem nia "na zlecenie" lub bez takiego na przez indos. Czek, wystawiony na z doda niem "nie na zlecenie" lub inne-go rów noznacznego, tylko w formie i ze skutkami przelewu. Czek na lub na cz.elk,owo Osoby te czek dalej
+**Art. 19.** Kto ma czek, przenośny przez indos, będzie uważany za prawnego posiadacza, jeżeli wykaże prawo swoje nieprzerwanym szeregiem indosów, chociażby ostatni indos był in blanco. Przekreślone indosy uważa się w tym względzie za nieistniejące. Gdy po indosie in blanco następuje dalszy indos, uważa się, że indosant, który go podpisał, nabył czek na mocy indosu in blanco.
 
-**Art. 15.** Indos powinien bezwarunkowy._ ,Warunki, od których indos, za niena pisane. Indos jest " jest indns, dokonany przez trasata. Indos na okaziciela jest równoznaczny z indo .. sem in blanco. , Indos na rzecz trasata ma znaczenie pokwito wania, przypadek, trasat ma kilka za a czek indosowano na rze,cz inne,go-, na który czek wystawiono. Nr. 37. Dziennik Ustaw. Poz. 283. 639
+**Art. 20.** Indos, umieszczony na czeku na okaziciela, zobowiązuje indosanta według przepisów o zwrotnem poszukiwaniu; nie zmienia on zresztą dokumentu na czek na zlecenie.
 
-**Art. 16.** Indos powinien napisany na cze ku lU'b na z nim karcie dodat:kowej (prze i podpisany przez indosanta. Indos nie indosa tarjusza lub tylko do podpisu indosanta (in dos in blanco). W tym przypadku indos jest tylko, napisany na odwrotnej stronie (zeku lub na
+**Art. 21.** Jeżeli kto przez jakikolwiek wypadek utracił posiadanie czeku, posiadacz, w którego ręce czek się dostał – bez względu na to, czy chodzi o czek na okaziciela, czy też o czek na zlecenie, którego posiadacz wykaże swe prawo w sposób, wskazany w art. 19 – będzie obowiązany do wydania czeku tylko, jeżeli go nabył w złej wierze albo przy nabyciu dopuścił się rażącego niedbalstwa.
 
-**Art. 17.** Indos przenosi wszystkie prawa z cZelku. indos jest in blanco, posiadacz czeku J) indos nazwiskiem lub innej osoby czek dalej in blanco lub na czek na bez nia indosu in blanco i bez indosowania.
+**Art. 22.** Osoby, przeciw którym dochodzi się praw z czeku, nie mogą wobec posiadacza zasłaniać się zarzutami, opartemi na swych stosunkach osobistych z wystawcą lub z posiadaczami poprzednimi, chyba że posiadacz, nabywając czek, działał świadomie na szkodę dłużnika.
 
-**Art. 18.** Indosant odpowiada w braku przeciw nego zastrzeienia za czeku. Indosant dalszego indosowania; w tym przypadku nie odpowiada wobec indosa tarjuszy.
+**Art. 23.** Jeżeli indos zawiera wzmiankę „waluta do odebrania”, „do inkasa”, „per procura” lub inną wzmiankę, oznaczającą tylko pełnomocnictwo, natenczas posiadacz może wykonywać wszystkie prawa z czeku; nie może go jednak indosować inaczej, jak tylko ze skutkami pełnomocnictwa. W tym przypadku dłużnicy czekowi mogą zasłaniać się wobec posiadacza tylko zarzutami, służącemi im przeciw indosantowi. Pełnomocnictwo, zawarte w indosie pełnomocniczym, nie wygasa przez śmierć mocodawcy ani przez to, że mocodawca utracił zdolność do działań prawnych.
 
-**Art. 19.** Kto ma czek, przez indos, za prawnego posiadacza, wy prawo swoje nieprzerwanym szeregiem indo sów, ostatni indos in blanco. Przekre indosy w tym za nieistnie Gdy po indosie in 'bilanco dalszy in dos, indosant, który go czek na mocy indosu in blanco.
+**Art. 24.** Indos, dokonany po proteście lub po równoznacznem stwierdzeniu albo po upływie terminu do przedstawienia, ma tylko skutki zwykłego przelewu. Aż do dowodu przeciwnego indos bez daty uważa się za dokonany przed protestem lub równoznacznem stwierdzeniem albo przed upływem terminu, wspomnianego w ustępie poprzedzającym.
 
-**Art. 20.** Indos, umieszczony na czeku na oka ziciela, indosanta przepisów o zwrotnem poszu:kiwaiUiu; nie Zimienia on dokumentu na czek na zlecenie. Art. Jeżeli kto przez jakikolwiek wypadek posiadanie czeku, posiadacz, w którego czek -- bez na to, czy chodzi o czek na okaziciela, czy o czek na zlecenie, któ rego posiadacz swe prawo w sposób, wska zany wart. 19 -- do wydania czeku tylko, go w wierze albo przy nabyciu niedbalstwa.
+### DZIAŁ III Poręczenie czekowe
 
-**Art. 22.** Osoby, przeciw którym dochodzi si praw z czeku, nie wobec posiadacza zarzutami, oparte mi na swych stosunkach osobi stych z lub z posiadaczami poprzednimi, c.hyba posiadacz, czek mie na
+**Art. 25.** Zapłatę czeku można zabezpieczyć poręczeniem czekowem (aval) co do całości sumy czekowej lub co do jej części. Poręczenie może dać osoba trzecia, z wyjątkiem trasata, lub nawet osoba, podpisana na czeku.
 
-**Art. 23.** Jeżeli ind:Js zawiera "walu ta ao odebrania", "do inkasa", "per pro,cura" lub in tylko natenczas posiadacz wszystkie prawa z czekuj nie go jednak ina czej, jak tylko ze skutkami W tym przypadku czekowi za wobec posiadacza tylko zarzutami, cemi im przeciw indosantowi. zawarte w indosie niczym, nie wygasa przez mocodawcy ani przez to, mocodawca do prawnych.
+**Art. 26.** Poręczenie umieszcza się na czeku albo na przedłużku. Poręczenie oznacza się wyrazem „poręczam” lub innym zwrotem równoznacznym; podpisuje je poręczyciel. Sam podpis na przedniej stronie czeku uważa się za udzielenie poręczenia, wyjąwszy gdy jest to podpis wystawcy. Poręczenie powinno wskazywać, za kogo je dano. W braku takiej wskazówki uważa się, że poręczenia udzielono za wystawcę.
 
-**Art. 24.** Indos, dokonany po lub po równoznaczne m stwierdzeniu albo po termi nu do przedstawienia, ma tylko skutki prze lewu. do dowodu przeciwnego indos bez daty za dokonany przed protestem lub równo znacznem stwierdzeniem albo przed termi nu, wspomnianego w D z i a III. czekowe.
+**Art. 27.** Poręczyciel czekowy odpowiada tak samo, jak ten, za kogo poręczył. Zobowiązanie poręczyciela jest ważne, chociażby nawet zobowiązanie, za które poręcza, było nieważne z jakiejkolwiek przyczyny z wyjątkiem wady formalnej. Poręczyciel czekowy, który zapłacił czek, nabywa prawa, wynikające z czeku, przeciw osobie, za którą poręczył, i przeciw tym, którzy wobec tej osoby odpowiadają z czeku.
 
-**Art. 25.** Zapłatę czeku po czekowem (aval) co do sumy kowcj lub co do jej osoba trzecia, z kiem trasata, lub nawet osoba, podpisana na czeku, "
+### DZIAŁ IV Przedstawienie i zapłata
 
-**Art. 26.** Poręczenie umieszcza albo na . oznacza wyrazem lub mnym zwrotem równoznacznymj podpisuje je po Sam P9dpis na przedniej stronie czeku udzielenie gdy jest to podpiS wystawcy. . . powinno za kogo je W braku takiej wskazówki czenia udzielono za
+**Art. 28.** Czek jest płatny za okazaniem. Wszelką wzmiankę przeciwną uważa się za nienapisaną. Czek, przedstawiony do zapłaty przed dniem, wskazanym jako data wystawienia, jest płatny w dniu przedstawienia.
 
-**Art. 27.** Poręczyciel czekowy odpowiada tak samo, jak ten, za kogo jest by nawet za które nie jaki'ejkolwiek przyczyny z wady formalnej. czekowy, który czek, naby wa prawa, z c.zeku, przeciw osobie, za i przeciw tym, którzy wobec oso by z czeku. D z i a IV. Przedstawienie i
+**Art. 29.** Czek, wystawiony i płatny w tym samym kraju, powinien być przedstawiony do zapłaty w ciągu dni dziesięciu. Czek, wystawiony w innym kraju niż ten, w którym jest płatny, powinien być przedstawiony w ciągu bądź to dwudziestu, bądź to siedemdziesięciu dni, zależnie od tego, czy miejsce wystawienia i miejsce płatności znajdują się w tej samej, czy w różnych częściach świata. W tym względzie czeki, wystawione w jednym z krajów europejskich, a płatne w kraju, położonym nad Morzem Śródziemnem, i naodwrót, uważa się za wystawione i płatne w tej samej części świata. Dniem początkowym oznaczonych wyżej terminów jest dzień, wskazany w czeku, jako data wystawienia.
 
-**Art. 28.** Czek jest z.a olkazaniem. Wszel za Czek, przedstawiony do przed dniem, wskazanym jako data wystawienia, jest w dniu przedstawienia.
+**Art. 30.** Przy czeku, przekazanym z jednego miejsca na inne, w którem obowiązuje kalendarz odmienny, przelicza się dzień wystawienia na dzień, odpowiadający kalendarzowi miejsca płatności.
 
-**Art. 29.** Czek, wystawiony i w tym sa mym kraju, powinien przedstawiony do w dni . Czek, wystawiony w innym kraju ten, którym jest powinien przedstawiony w to to 640 Dziennik Ustaw. Poz. 283. ;; __ Nr. 37. od tego, czy miejsce wystawienia i miej w tej samej, czy , W tym czeki, wystawione w jednym z krajów europejskich, a w kraju, nad Morzem i naodwrót, za wystawione i w tej samej Dniem oznaczonych termi nówjesl wskazany w czeku, jako data wysta wienia. 'Art. 30. Przy czeku, przekazanym z jednego miejsca na inne, w którem kalendarz od mienny, przelicza wystawienia na od kalendarzowi miejsca
+**Art. 31.** Przedstawienie w izbie rozrachunkowej jest równoznaczne z przedstawieniem do zapłaty.
 
-**Art. 31.** Przedstawienie w izhie 1"ozrachunkowej jest równoznaczne ,z przedstawieniem do, ,Art. 32. czeku skutek tylko po terminu do przedstawienia. \ . czeku, w Polsce, skutek czek, wystawiony na nazwisko lub na zlecenie i przez bezpo trasatowi, zanim trasat otrzymane polecenie. , nie trasat za po terminu do przeds lawie itlia.
+**Art. 32.** Odwołanie czeku może mieć skutek tylko po upływie terminu do przedstawienia. Odwołanie czeku, płatnego w Polsce, może mieć skutek także, jeżeli czek, wystawiony na nazwisko lub na zlecenie i przesłany przez wystawcę bezpośrednio trasatowi, odwołano, zanim trasat wykonał otrzymane polecenie. Jeżeli odwołanie nie nastąpiło, trasat może zapłacić również po upływie terminu do przedstawienia.
 
-**Art. 33.** Ani wystawcy, ani utrata przez po wystawieniu czeku do prawnych nie czeku.
+**Art. 33.** Ani śmierć wystawcy, ani utrata przez wystawcę po wystawieniu czeku zdolności do działań prawnych nie naruszają ważności czeku.
 
-**Art. 34.** Trasat przy wy dania czeku, pokwitowanego przez posiadacza. Posiadacz nie W razie trasat !Wzmianki o niej na czeku i osobnego pokwitowania.
+**Art. 34.** Trasat może przy zapłacie żądać wydania czeku, pokwitowanego przez posiadacza. Posiadacz nie może odmówić przyjęcia zapłaty częściowej. W razie zapłaty częściowej trasat może żądać wzmianki o niej na czeku i osobnego pokwitowania.
 
-**Art. 35.** Trasat, który czek, przez indos, jest do sprawdzenia prawi szere'gu indosów, fecz nie do spr,awdzenia , Art. 36. JeżeH czek wysfaw:iono na klqra nie jest miejsca czeko w terminu do przedstawie w walucie krajowej jej w dniu czek nie za przedstawieniem, posiadacz su my czekowej w walucie krajowej swego wy b()ru albo jej kursu w dniu przedstawienia, al bo jej kursu w dniu waluty zagranicznej oznacza po zwyczajów miejsca 'Wystawca jednak moie zastrzec, suma, do ma kursu, ustanowionego w czeku. , Zasad nie stosuje do przypadku, gdy wystawca ma uiszczo na'w' oznaczonej walucie rze czywistej w walucie zagranicznej). czek wystawiono na w kraju wysbwien:ia i w 'kraju lecz domniemywa miano na my miejsca D zi a V. Czek i czek
+**Art. 35.** Trasat, który płaci czek, przenośny przez indos, obowiązany jest do sprawdzenia prawidłowości szeregu indosów, lecz nie do sprawdzenia podpisów indosantów.
 
-**Art. 37.** Wystawca lub posiadacz czeku go ze skutkami, wskazanemi w artykule na' dokonywa przez umieszczenie na przedniej stronie 'cze1ku .dwu linij ogólne lub szczególne. jest ogólne, dwiema linjami niema wzmianki albo znajduje niemi wyraz "bankier" lub inny równo znaczny; jest szczególne, dwiema linjami napisano nazwisko bankiera. ogólne zmienione na ,szczególne, natomiast szczególnego nie na ogólne. albo nazwiska ozna czonego bankiera za
+**Art. 36.** Jeżeli czek wystawiono na walutę, która nie jest walutą miejsca płatności, sumę czekową można zapłacić w ciągu terminu do przedstawienia czeku w walucie krajowej podług jej wartości w dniu zapłaty. Jeżeli czek nie został zapłacony za przedstawieniem, posiadacz może żądać zapłaty sumy czekowej w walucie krajowej według swego wyboru albo podług jej kursu w dniu przedstawienia, albo podług jej kursu w dniu zapłaty. Wartość waluty zagranicznej oznacza się podług zwyczajów miejsca płatności. Wystawca jednak może zastrzec, że suma, przypadająca do zapłaty, ma być obliczona podług kursu, ustanowionego w czeku. Zasad powyższych nie stosuje się do przypadku, gdy wystawca zastrzegł, że zapłata ma być uiszczona w oznaczonej walucie (zastrzeżenie zapłaty rzeczywistej w walucie zagranicznej). Jeżeli czek wystawiono na walutę, mającą w kraju wystawienia i w kraju zapłaty tę samą nazwę, lecz inną wartość, domniemywa się, że miano na myśli walutę miejsca płatności.
 
-**Art. 38.** Trasat czek z ogól nem tylko do bankiera lub swojego sta klienta. Czek z szczególnem trasat tylko do oznaczonego bankiera, a w przypadku, gdy oznaczonym bankierem jest trasat, tylko do swojego klienta. Oznaczony bankier ,czek za nictwem inne'go bankiera. Bankierowi wolno czeki tylko od swoich klientów lub od innych ban kierów. Nie wolno mu ich na rachunek innych osób. na czeku znajduje kilka szczególnych, trasatowi wolno czek tylko w przypadku, gdy na czeku dwa z któ rych jedno udzielnne w celu inkasa za po izby rozrachunkowej. W razie niezastosowania do przepisów trasat lub bankier za do sumy czekowej.
+### DZIAŁ V Czek zakreślony i czek rozrachunkowy
 
-**Art. 39.** Wystawca lub posiadacz czeku l'zeku w gotówce przez zamieszcze nie wpoprzek na przedniej stronie czeku nia na rachune<k" ,lub innego ,równoznacz nego. W tym przypadku czek przez trasata tylko do rozrachunku (przez uzna nie na rachunku, rozliczenie lub 'Rozra chunek ma skutki na rachu nek" za nie W razie niezastosowania do przepisów trasat odpowiada za do sumy czekowej. D zi a VI. Zwro,tne poszukiwanie s'powodu
+**Art. 37.** Wystawca lub posiadacz czeku mogą zakreślić go ze skutkami, wskazanemi w artykule następnym. Zakreślenia dokonywa się przez umieszczenie na przedniej stronie czeku dwu linij równoległych. Zakreślenie może być ogólne lub szczególne. Zakreślenie jest ogólne, jeżeli między dwiema linjami niema żadnej wzmianki albo jeżeli znajduje się między niemi wyraz „bankier” lub inny równoznaczny; zakreślenie jest szczególne, jeżeli między dwiema linjami napisano nazwisko bankiera. Zakreślenie ogólne może być zmienione na szczególne, natomiast zakreślenia szczególnego nie można zmienić na ogólne. Przekreślenie zakreślenia albo nazwiska oznaczonego bankiera uważa się za niebyłe.
 
-**Art. 40.** Posiadacz zwrotne poszukiwanie przcciwko indosantom, wystawcy, tuNr. 37. Dziennik: Ustaw. Poz. 283. 641 innym czek, mimo przedsta wienia do we czasie, nie a stwierdzono: albo aktem publicznym (protestem);
+**Art. 38.** Trasat może czek z zakreśleniem ogólnem zapłacić tylko do rąk bankiera lub swojego stałego klienta. Czek z zakreśleniem szczególnem może trasat zapłacić tylko do rąk oznaczonego bankiera, a w przypadku, gdy oznaczonym bankierem jest trasat, tylko do rąk swojego stałego klienta. Oznaczony bankier może jednakże zainkasować czek za pośrednictwem innego bankiera. Bankierowi wolno nabywać czeki zakreślone tylko od swoich stałych klientów lub od innych bankierów. Nie wolno mu ich inkasować na rachunek innych osób. Jeżeli na czeku znajduje się kilka zakreśleń szczególnych, trasatowi wolno zapłacić czek tylko w przypadku, gdy na czeku są dwa zakreślenia, z których jedno udzielone zostało w celu inkasa za pośrednictwem izby rozrachunkowej. W razie niezastosowania się do powyższych przepisów trasat lub bankier odpowiadają za szkodę do wysokości sumy czekowej.
 
-**Art. 41.** Prot2st iub równoznaczne z nim stwier dzenie powinny dokonane przed termi nu do przedstawienia. W ,razie przedstawienia czeku w ostatnim dniu terminu p.rotest ,lub równozna'cz,ue stwierdzenie mo ,dolk'onane w pierwszym dniu powszednim, po nim
+**Art. 39.** Wystawca lub posiadacz czeku mogą zabronić zapłaty czeku w gotówce przez zamieszczenie wpoprzek na przedniej stronie czeku zastrzeżenia „przelać na rachunek” lub innego równoznacznego. W tym przypadku czek może być przez trasata użyty tylko do rozrachunku księgowego (przez uznanie na rachunku, rozliczenie lub potrącenie). Rozrachunek księgowy ma skutki zapłaty. Przekreślenie zastrzeżenia „przelać na rachunek” uważa się za niebyłe. W razie niezastosowania się do powyższych przepisów trasat odpowiada za szkodę do wysokości sumy czekowej.
 
-**Art. 42.** Posia,dacz 'czc:ku powinien o niezaswojego indosanta i w 'Cz'terech dni powszednich, 'po dniu protestu lub rówlnoznaczne:go stwierdzenia, a w przy!pad:lw "be'z kosztów" - po dni,u przedstawienia. indolsant po'winien w gu dwóch dni jpo,wszed:ni'ch, po dniu, w którym zawiadomienie, do wiado swojego ,poIprzednika otrzymane zawiadomie nie, naZfWiska adresy tych, którzy doko ,polpr,z,ednich, i -tak Ikolejno do wystawcy. Terminy od 'Otrzymania 'zawiadomienia poprzednie-go. w zawi.a damia na tak sa mo w tenmmie jei nie S""'2'gO adresu lub go w spolsób nieczyltellny, wystarczy zawiado mienie go irtdosanta. Zawiadomienia w jakiilwlwiek sposób, nruwet :przez 'Pl'oste czeku. do zawiadomienia ma w p.rzepisanym termini.e. Termin ten jako za1chowany, 'Pismo 'z zawiado mieniem oddano na w pr,zepisanym terminie. Kto nie zawiadomi w czasie oznaczo nym, nie traci praw z' Iczeku, odpo'\",iada iednruk za Iprzez swe niedbalstwo tylko do sumy, na czek ,je'st wysta'wiony.
+### DZIAŁ VI Zwrotne poszukiwanie spowodu niezapłacenia
 
-**Art. 43.** ,Wystawca, indosant albo przez "he z kosztów''', "lbez protestu" lub przez. inne rów:noz:naczne, napisane na czeku i pod pisane, posiadacza 'tzeiku od !protestu lub od równoznacZi!lego st wierdzenia., ;a1ko warunku zwrotnego pos'zu'kiwania. takie nie zwalnia posiadacza ani cd w przepisanym terminie, ani od zawia,domie,nia. Dowód niezachowania terminu na tym, kto na wobe'c Iposiadacza .. od wystawcy, sku teCZi!le jest wobec wszystkich czeko'wych; pochodzi od indoIsanta od ma skutek tylko wobec :nielgo. Gdyby mimo od wystawcy, posiadacz pro testu lub równoznacznego stwierdzenia, sam ponosi koszty. od indosarth lub od koszty dokonane'g'o protest,u lub równ oZ>naczine,go stwierdzenia wszystkich czelk owych.
+**Art. 40.** Posiadacz może wykonywać zwrotne poszukiwanie przeciwko indosantom, wystawcy, tudzież innym dłużnikom, jeżeli czek, mimo przedstawienia do zapłaty we właściwym czasie, nie został zapłacony, a odmowę zapłaty stwierdzono:
 
-**Art. 44.** Wszyslkie osoby, c;ze ku, wobec posiadacza soHdarnie. POosiada,cz ;przeci.w jednemu, killku lub wszystkim bez !potrze by zachowania w .jakim .. Talkie samOo Iprawo ma 'czeko wy, tóry ozek Dochodzenie prze'ciw jednemu nie tamuje do<chodzenia przeciw innym nawe,t po przeciw któremu wpierw skiero,wano dochodzenie
+**Art. 41.** Protest lub równoznaczne z nim stwierdzenie powinny być dokonane przed upływem terminu do przedstawienia. W razie przedstawienia czeku w ostatnim dniu terminu protest lub równoznaczne stwierdzenie mogą być dokonane w pierwszym dniu powszednim, po nim następującym.
 
-**Art. 45.** Posiadacz czelku od zwro·tnie:
+**Art. 42.** Posiadacz czeku powinien o niezapłaceniu zawiadomić swojego indosanta i wystawcę w ciągu czterech dni powszednich, następujących po dniu protestu lub równoznacznego stwierdzenia, a w przypadku zastrzeżenia „bez kosztów” – po dniu przedstawienia. Każdy indosant powinien w ciągu dwóch dni powszednich, następujących po dniu, w którym otrzymał zawiadomienie, podać do wiadomości swojego poprzednika otrzymane zawiadomienie, wskazując nazwiska i adresy tych, którzy dokonali zawiadomień poprzednich, i tak kolejno aż do wystawcy. Terminy powyższe biegną od otrzymania zawiadomienia poprzedniego. Ilekroć w myśl ustępu poprzedzającego zawiadamia się osobę, podpisaną na czeku, należy tak samo w tymże terminie zawiadomić jej poręczyciela. Jeżeli indosant nie wskazał swego adresu lub podał go w sposób nieczytelny, wystarczy zawiadomienie poprzedzającego go indosanta. Zawiadomienia można dokonać w jakikolwiek sposób, nawet przez proste odesłanie czeku. Obowiązany do zawiadomienia ma udowodnić, że dokonał go w przepisanym terminie. Termin ten uważa się jako zachowany, jeżeli pismo z zawiadomieniem oddano na pocztę w przepisanym terminie. Kto nie zawiadomi w czasie powyżej oznaczonym, nie traci praw z czeku, odpowiada jednak za szkodę, spowodowaną przez swe niedbalstwo tylko do sumy, na jaką czek jest wystawiony.
 
-**Art. 46.** Kto czelk od swoich p'olprzedników:
+**Art. 43.** Wystawca, indosant albo poręczyciel przez zastrzeżenie „bez kosztów”, „bez protestu” lub przez inne równoznaczne, napisane na czeku i podpisane, mogą zwolnić posiadacza czeku od protestu lub od równoznacznego stwierdzenia, jako warunku zwrotnego poszukiwania. Zastrzeżenie takie nie zwalnia posiadacza ani od przedstawienia czeku w przepisanym terminie, ani od obowiązku zawiadomienia. Dowód niezachowania terminu przedstawienia ciąży na tym, kto się na tę okoliczność powołuje wobec posiadacza. Zastrzeżenie, pochodzące od wystawcy, skuteczne jest wobec wszystkich dłużników czekowych; jeżeli pochodzi od indosanta lub od poręczyciela, ma skutek tylko wobec niego. Gdyby mimo zastrzeżenia, pochodzącego od wystawcy, posiadacz dokonał protestu lub równoznacznego stwierdzenia, sam ponosi koszty. Jeżeli zastrzeżenie pochodzi od indosanta lub od poręczyciela, koszty dokonanego protestu lub równoznacznego stwierdzenia obciążają wszystkich dłużników czekowych.
 
-**Art. 47.** Każdy cze!kowy, prze'Ciw iktó remu wykonywa lub. zwrotne pos'zukiwanie, aby mu za sumy l'egreisowej wydano czek z pro'testem lub równo znacznem slwierclzeniem, rachunek pokwito wany. Indosant, który ,azek wykupił, lll1Q!żepr:?ękr~· indos oraz indosy indosan tów.
+**Art. 44.** Wszystkie osoby, zobowiązane z czeku, odpowiadają wobec posiadacza solidarnie. Posiadacz może dochodzić roszczeń przeciw jednemu, kilku lub wszystkim dłużnikom bez potrzeby zachowania porządku, w jakim się zobowiązali. Takie samo prawo ma każdy dłużnik czekowy, który czek wykupił. Dochodzenie sądowe roszczeń przeciw jednemu dłużnikowi nie tamuje dochodzenia przeciw innym dłużnikom, nawet następującym po dłużniku, przeciw któremu wpierw skierowano dochodzenie sądowe.
 
-**Art. 48.** Jeżeli przedstawienie 'Czeku. prote'st lub .rów,noz.nacz.nc 'stwierdzenie nie nane w lermina'ch przepisanych spowodu Iprzeszko, dy nie do (us.tawowelgo przCiprsu któregoka,lwieik albo innego wy:padku terminy te Posiadacz jest bez swego i.ndosanta o wypadku i o temzawia,domieniu na lczeku 11l1bna 642 Dziennik Ustaw. Poz. 283. Nr. 37. ':dniem daty i swe:go podpisuj poza tem stosuje przepisy art. 42. PO' ustaniu posiadacz czeku po'wi nien bez do a wra iie potrzelby protestu lub równoznacznego stwierdzenia. trwa dni, od dnia, w którym rposiadacz swe,go in,doGanta o· wYlpadiku nawet takie 1e'sz::::ze przed t'erminu do przedstawienia, wy:ko .. poszukiwanie bez przedstawienia ,cz'2ku i bez prO'tes,tu lub stwierdzernia. osobisty:::h, posiada,aza cZelku lub osohy, której on prz'2d ,czeku albo, dokonanie lP·rotelstu lub rów stwierdzernia, nie za wypadki D zi a VII. Wtóropisy.
+**Art. 45.** Posiadacz czeku może żądać od zobowiązanego zwrotnie:
 
-**Art. 49.** Z . ,czelków na okaziciela cze!k, wy;stawio'ny w jednym, a w dru gim kra,ju lub w zamorskiej t'2g0 samc'go kraju i O'dwro:hnie, dbo wystaJwiony i y w tej sa zamorskie,j luh w za mnrskirch telgo 'same'go kraju, wY'stC'.wiorny ikilku egz.emplarzcu:::h. czek
+**Art. 46.** Kto czek wykupił, może żądać od swoich poprzedników:
 
-**Art. 50.** Zapłata, dalkonana naieden z egzem plarzy, zwalnia nawet wte,dy, gdyby lnie na cze taka IPozbawia inne egzemplarze. Indosant, który egzemplarze na ne osohy, jako indosanci ze wszystki,ch podpisanych przez siehie których im nie Zlwrócono. vm. Zmiany.
+**Art. 47.** Każdy dłużnik czekowy, przeciw któremu wykonywa się lub wykonać można zwrotne poszukiwanie, może żądać, aby mu za zapłatą sumy regresowej wydano czek z protestem lub równoznacznem stwierdzeniem, tudzież rachunek pokwitowany. Indosant, który czek wykupił, może przekreślić indos własny oraz indosy następnych indosantów.
 
-**Art. 51.** W razie zmiany tekstu cze'ku osoby, które czek po dokonaniu zmiany, odpowia brzmienia tekstu zmienio'negoj osoby, które, czek poprzednio we brzmienia ,tekst,u.pie,rwotnego. D i IX. Przedawnienie.
+**Art. 48.** Jeżeli przedstawienie czeku, protest lub równoznaczne stwierdzenie nie mogą być dokonane w terminach przepisanych spowodu przeszkody nie do przezwyciężenia (ustawowego przepisu któregokolwiek państwa albo innego wypadku siły wyższej), terminy te ulegają przedłużeniu. Posiadacz obowiązany jest zawiadomić bez zwłoki swego indosanta o wypadku siły wyższej i o tem zawiadomieniu zaznaczyć na czeku lub na przedłużku z dodaniem daty i swego podpisu; pozatem stosuje się przepisy art. 42. Po ustaniu siły wyższej posiadacz czeku powinien bez zwłoki przedstawić czek do zapłaty, a w razie potrzeby dokonać protestu lub równoznacznego stwierdzenia. Jeżeli siła wyższa trwa dłużej niż piętnaście dni, licząc od dnia, w którym posiadacz zawiadomił swego indosanta o wypadku siły wyższej, chociażby nawet zawiadomienie takie nastąpiło jeszcze przed upływem terminu do przedstawienia, można wykonać zwrotne poszukiwanie bez przedstawienia czeku i bez protestu lub równoznacznego stwierdzenia. Okoliczności czysto osobistych, dotyczących posiadacza czeku lub osoby, której zlecił on przedstawienie czeku albo dokonanie protestu lub równoznacznego stwierdzenia, nie uważa się za wypadki siły wyższej.
 
-**Art. 52.** Roszc'zenia z zwro,tlnego IPOSZU kirwania, posiadacz'Owi przedw indosantom, w'ylstawcy oraz 1nnym przedaw nieinliu z od terminu przerds,tawienia. Roszczenia z zwrotnego poszukiwania do cze1ku, prz'2dawnieniu z mie od dnia, w którym czek albo w którym sam z cze,ku do od s(tdo1wej.
+### DZIAŁ VII Wtóropisy
 
-**Art. 53.** Prawo powszechne 'okreŚJla przyczyny przerwania i zawieszenia biegu przedawnienia Przerwanie przedawnienia ma skutek jedynie wOlbec tego czelkowego, dotyczy przyczyna przerwania. D i X. Przepisy ogólne.
+**Art. 49.** Z wyjątkiem czeków na okaziciela każdy czek, wystawiony w jednym, a płatny w drugim kraju lub w części zamorskiej tego samego kraju i odwrotnie, albo też wystawiony i płatny w tej samej części zamorskiej lub w różnych częściach zamorskich tego samego kraju, może być wystawiony w kilku jednobrzmiących egzemplarzach. Jeżeli czek wystawia się w kilku egzemplarzach, powinny one być ponumerowane w samym tekście dokumentu, w przeciwnym razie każdy z egzemplarzy uważa się za czek odrębny.
 
-**Art. 54.** Wyraz "ban'kier" w rozumieniu prawa o'znacza:
+**Art. 50.** Zapłata, dokonana na jeden z egzemplarzy, zwalnia nawet wtedy, gdyby nie było na czeku zastrzeżenia, że taka zapłata pozbawia ważności inne egzemplarze. Indosant, który przeniósł egzemplarze na różne osoby, jako też następni indosanci odpowiadają ze wszystkich podpisanych przez siebie egzemplarzy, których im nie zwrócono.
 
-**Art. 56.** Do terminów, przewidzianych w pra wie niniej,szem, nie wlicza .dnia
+### DZIAŁ VIII Zmiany
 
-**Art. 57.** Nie dopusz.czalne dni ul'gowe ani na podstawie ustawy, ani uznania
+**Art. 51.** W razie zmiany tekstu czeku osoby, które czek podpisały po dokonaniu zmiany, odpowiadają według brzmienia tekstu zmienionego; osoby, które czek poprzednio podpisały, odpowiadają według brzmienia tekstu pierwotnego.
 
-**Art. 58.** Trasat jes,t za plaity 'czeku, do ijelgo wystawcy. D z i a XI. Roszczenie z zbogacenia.
+### DZIAŁ IX Przedawnienie
 
-**Art. 59.** Wystawca, które'go czekowe wskutek przedawnienia lub zanie dbania za,chowawczych, jest wobec posia·dacza cze1ku, o 'z je,go nie Roszczenie z zbo'gacenia ulega przedawnieniu z lat trze'ch, od dnia czekowego. D z i a XII. Skutki braku pokrycia.
+**Art. 52.** Roszczenia z tytułu zwrotnego poszukiwania, służące posiadaczowi przeciw indosantom, wystawcy oraz innym dłużnikom, ulegają przedawnieniu z upływem sześciu miesięcy, licząc od końca terminu przedstawienia. Roszczenia z tytułu zwrotnego poszukiwania dłużników, zobowiązanych do zapłaty czeku, między sobą ulegają przedawnieniu z upływem sześciu miesięcy, licząc od dnia, w którym dłużnik wykupił czek albo w którym sam został pociągnięty z czeku do odpowiedzialności sądowej.
 
-**Art. 60.** Jeżeli cze!ku nie wodu, w)'Istawca, czek, nie u traNr. 37. Dziennik Ustaw. Psz. 283. 643 sata potrzehnego fundus'zu do lub spowodu, po wYlstawieniu 'czeku ,po kryciem, wystawca odpowiada wobec !posiadacza za na'jmniej powinien mu odsetlki od sta od sumy niepo kryte,j. RO!SZClz,enia IP'rzedawnieniu la't trze,ch, od dnia, w Iktórym tra sat
+**Art. 53.** Prawo powszechne określa przyczyny przerwania i zawieszenia biegu przedawnienia roszczeń czekowych. Przerwanie przedawnienia ma skutek jedynie wobec tego dłużnika czekowego, którego dotyczy przyczyna przerwania.
 
-**Art. 61.** Kto wystawia czek, nie u tra sata potr,zehnelgo fUlnduszu do lub :po wystawieniu c'zeku ,tego czeku nie podle,ga Ikarze do 2la't i grzywny lub aresztu do 2 lat i g'rzyw-ny. sprawca podle,ga ka rze are'sztu do 3 lub ,grzywny do 5.000 tych. D z i a XIII. Kclizjn
+### DZIAŁ X Przepisy ogólne
 
-**Art. 62.** Zdo'lno'ść osoby do zoho czekowych ocelnia jei prawa Q1j cZYlstego. prawo to uzna'je za prawo inne,go kraju, je Kto w po nie ma mimo to je,st c'zek w kra ju, Iktórego u!s,taw Przepisu b igO nie do obywatela porIskiego, któ,ry czelkowe
+**Art. 54.** Wyraz „bankier” w rozumieniu prawa niniejszego oznacza:
 
-**Art. 63.** Prawo kraju miejsca czeku roz1strzyga o tern, na kogo czek tego prawa ze na na jest ny jalko cze/k, z podpi:sów, umie/sz1czonych na tym dolkumende w inny.ch krajach, których ustawy nie takiego przepi'su, mimo to
+**Art. 55.** Przedstawienie czeku i protest mogą być dokonane tylko w dnie powszednie. Jeżeli ostatni dzień terminu, oznaczonego przez prawo do dokonania czynności, dotyczących czeków, w szczególności do przedstawienia albo do dokonania protestu lub równoznacznego stwierdzenia, przypada na dzień ustawowo uznany za świąteczny, termin przedłuża się do najbliższego dnia powszedniego, następującego po upływie terminu. Dni świąteczne, przypadające w ciągu terminu, wlicza się do tego terminu.
 
-**Art. 64.** Fonmę czekowe,go· uce nia ustalW kraju, w którym podpi'sane; wystarcza zachowanie formy, wymaganeij przez prawo miejsca jednak 'czeka,we, ze na przepisy od powiada prawu kraju, w Iktórym 'Podpisane nie uchybia . forma cze/kowe, prze'z obywatela polskie'go, w Polsce w sto sun/ku do inne'go ohywatela polskiego w6wczas, z za'chowaniem formy, przewidzianej w prawie niniej:szem.
+**Art. 56.** Do terminów, przewidzianych w prawie niniejszem, nie wlicza się dnia początkowego.
 
-**Art. 65.** Skut.kizobOlwiązań czekowych okre usta'w kraju, w Iktórym te '
+**Art. 57.** Nie są dopuszczalne dni ulgowe ani na podstawie ustawy, ani według uznania sędziego.
 
-**Art. 66.** Terminy wykonywania zwrotnego po szukiwania w stosunku do wszystkich osób! które czek prawo miejsca wystawienia czeku.
+**Art. 58.** Trasat jest obowiązany odmówić zapłaty czeku, jeżeli doszło do jego wiadomości, że ogłoszono upadłość wystawcy.
 
-**Art. 67.** Pra:wo miej,sca czeku czy czek tylko za okaza niem, czy w pewien 'czas okazaniu oraz jakie sikutiki umiesz·czenia w da,ty wysta,wienia; termin do przedstawienia; czy czelk certyfitkowany, potwierdzony lub wizowany oraz jakie skutki tych czy posiadacz. z y wej oraz czy jest do jej czy czek albo zaopa trzony na rachunek" lub in nem Tównoznacznem oraz jakie sikutiki tych czy iPosiadacz ma szczególne prawa do po krycia oraz ja1ki jest ich charaikter; czy wystawca czek lub sprze iego jakie w razie lub czeikuj czy p.rotest lub równoznaczne sŁwierdzenib jest polrzebne dozacho,wania p-rawa zwrotnego poszubwania ,przelCiw indosantom, wystawcy oraz in nylm
+### DZIAŁ XI Roszczenie z tytułu niesłusznego zbogacenia
 
-**Art. 68.** Fonmę i terminy protestu, for innych potrzebnych do wykonania lub do zachowania 'praw czelkowych, ocenia usta,w Ikra,ju, którym protest ma dokonany lub XIV. Protest,
+**Art. 59.** Wystawca, którego zobowiązanie czekowe wygasło wskutek przedawnienia lub zaniedbania czynności zachowawczych, jest zobowiązany wobec posiadacza czeku, o ile z jego szkodą niesłusznie się zbogacił. Roszczenie z tytułu niesłusznego zbogacenia ulega przedawnieniu z upływem lat trzech, licząc od dnia wygaśnięcia zobowiązania czekowego.
 
-**Art. 69.** Pwtesi notarjillSz.
+### DZIAŁ XII Skutki braku pokrycia
 
-**Art. 70.** Pmte'st zawiera: OIs'oby, która Iprotestu, oraz osoby, przeciw 'której :protest ma dokonany;
+**Art. 60.** Jeżeli zapłata czeku nie nastąpiła spowodu, że wystawca, wystawiając czek, nie miał u trasata potrzebnego funduszu do rozporządzenia, lub spowodu, że po wystawieniu czeku rozporządził pokryciem, wystawca odpowiada wobec posiadacza za wszelką szkodę, co najmniej zaś powinien mu zapłacić odsetki w wysokości sześć od sta od sumy niepokrytej. Roszczenia powyższe ulegają przedawnieniu z upływem lat trzech, licząc od dnia, w którym trasat odmówił zapłaty.
 
-**Art. 71.** PrzedsŁawieniacze1ku, wezWania do wydania e,gzemplarza, im}YGh; 644 Dziennik Ustaw. Poz. 283. Nr. 37. zachowaw,czych - braku od miennego 'W1skazania wcze!ku - w lokalu innem miejs'cu, np. "na tych jedynie stron intelresowanych. ' N rJ'us z ,jest IPoszukiwa nia IOlkalu i od,powia:da za brakiem .J ed zaniedbanie lub ni gdy nie ,przyczyny pro testu.
+**Art. 61.** Kto wystawia czek, nie mając u trasata potrzebnego funduszu do rozporządzenia, lub po wystawieniu czeku rozporządza pokryciem, jeżeli skutkiem tego zapłata czeku nie nastąpiła, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2. Jeżeli sprawca działa nieumyślnie, podlega grzywnie albo karze ograniczenia wolności.
 
-**Art. 72.** Prote,st na odwrotnej stronie czeku albo na osobnej karcie, . z czekiem. na odwrotnej stronie niema pisanie ,p.rortestu od brzegu, w rpr:zedwnym razie po ostainiem protest ma napi'sany w lub w na olsohnelj karcie dodatkowelj, z czekiem w ten sposób, aby nie w01lnych mie.jsc na odwrotnej ,shonie czeku; nieczeku z powinno przypie Luh ,przepisane aktu protestowego. .
+### DZIAŁ XIII Kolizja ustaw
 
-**Art. 73.** Jeżeh przedstawi'ono egzemplarzy czeiku, wystan:zy umieszczenie protestu na jednym egzemplarzu. No tarjusz zaznaczy na irnnych egzemplarzach, gidzie pro test umieszczono, i 'podpisze.
+**Art. 62.** Zdolność osoby do zaciągania zobowiązań czekowych ocenia się według jej prawa ojczystego. Jeżeli prawo to uznaje za właściwe prawo innego kraju, należy je stosować. Kto według prawa, określonego w ustępie poprzedzającym, nie ma zdolności czekowej, mimo to jest ważnie zobowiązany, jeżeli podpisał czek w kraju, według którego ustaw miałby zdolność czekową. Przepisu tego nie stosuje się do obywatela polskiego, który zaciągnął zobowiązanie czekowe zagranicą.
 
-**Art. 74.** Notujusz ,jest i zany do odbioru i do pokwitowania. W przYlpadku ta1kie,j z koszty notarjusza ponosi osoba, przeciw któ,re'j pro test dOIkonany.
+**Art. 63.** Prawo kraju miejsca płatności czeku rozstrzyga o tem, na kogo można czek wystawić. Jeżeli według tego prawa dokument ze względu na osobę, na którą został wystawiony, jest nieważny jako czek, zobowiązania, wynikające z podpisów, umieszczonych na tym dokumencie w innych krajach, których ustawy nie zawierają takiego przepisu, są mimo to ważne.
 
-**Art. 75.** Jeżeli notarj,usz nie zastanie osoby, do której wezwanie ma skierowane, w lokalu jej ,powinien tam , zawia,do mienie o dokona'niu pro'testu, nazwisko i mie1jsce zamieszlkania posiadacza czelku, naz,wisko wystawcy, oraz naz:wi'slko i lokal dowy notarjusza.
+**Art. 64.** Formę oświadczenia czekowego ocenia się podług ustaw kraju, w którym oświadczenie zostało podpisane; jednakże wystarcza zachowanie formy, wymaganej przez prawo miejsca płatności. Jeżeli jednak oświadczenie czekowe, nieważne ze względu na przepisy ustępu poprzedzającego, odpowiada prawu kraju, w którym zostało podpisane późniejsze oświadczenie, ważności późniejszego oświadczenia nie uchybia okoliczność, że forma wcześniejszego oświadczenia była nieprawidłowa. Zobowiązania czekowe, zaciągnięte zagranicą przez obywatela polskiego, są ważne w Polsce w stosunku do innego obywatela polskiego także wówczas, jeżeli zostały zaciągnięte z zachowaniem formy, przewidzianej w prawie niniejszem.
 
-**Art. 76.** P.rzy dokonywaniuczynno'ści zacho wawczych notarjusz pomocni kami, których :prezes na wniosek notarjutSza do tego Za pomocniJka tym zaJkresie no tarjusz odiPowiada soHdamie z pomocnikiem.
+**Art. 65.** Skutki zobowiązań czekowych określa się według ustaw kraju, w którym zobowiązania te zostały zaciągnięte.
 
-**Art. 77.** Notar,jusz je,si przechowy osobnoocLpi.sy !prote,stów wraz z wy:pisem istot ne'j czeku, zaopatrzone numerem, i od;pi!Syte w chronolo,gicznym, w :jakim pro testy Intere'sQiwanym na wydawane odpisy tych do:kumelntów :z ich uwierzyteInieniem lub bez nie1go. Minister 'w drodze roz termin, po k,tórego dokumenty, wymienione w pierwszym, znisz czone, oraz sposóbi'ch zniszczenia. Dzia XV. Czeki zaginione.
+**Art. 66.** Terminy wykonywania zwrotnego poszukiwania określa w stosunku do wszystkich osób, które czek podpisały, prawo miejsca wystawienia czeku.
 
-**Art. 78.** Ten, komucze1k od Igroazikie,go miejsca cze'k,u uznania go za umorzony. We wniosku czeku oraz je'go jak inte res prawny, który uzasadnia umorzenia . pr:zez w Monitorz.e we zwie posiadacza za,ginionego ,czeku dni i do okazania 'czeku dowi. Termin ten biegnie od dnia wy terminu powinien oznaczony 'w niu daty kalendarza. w terminu, oznaczone,go w wezwa niu, nikt nie z :czelkiem, wyda orzecze nie, czek za umorzony. natomias,t posiadacz <:ze\ku przed wydaniem orzeczenia, umorzy dalsze po po intereso'wanych i !po okazaniu cze'ku umorzenia. Zarówno o jako o jego wyni.ku zruwiadomi .trasata i wszystkkh -czekowych, wIskazanych przez umorzenia czeku.
+**Art. 67.** Prawo miejsca płatności czeku określa:
 
-**Art. 79.** Dłużnik czeko'wy oraz 'trasat, który po otrzymaniu za:wiadomienia o wania czek, czyni, to na stwo; wolno mu jednak do de pozytu miejsca i przez to z
+**Art. 68.** Formę i terminy protestu, tudzież formę innych czynności, potrzebnych do wykonania lub do zachowania praw czekowych, ocenia się podług ustaw kraju, w którym protest ma być dokonany lub czynność przedsięwzięta.
 
-**Art. 80.** Jeżeli po umorzenia do trasa'ta z za trasa,t :do depozytu all1bo umorzenia za zabezpieczeniem. . Gdyby ,t.rasat je:dne'go i drugiego umo,rzenia na podsta,wie odpisu czeku, protestu lub rÓlWIlloznacznego stwierdzenia, 'po'szu'ki'wanie; jednak od zwrotnie je,dy nie czekowej do ,delpozytu albo za zabezlPieczeniem, wyboru
+### DZIAŁ XIV Protest
 
-**Art. 81.** Na podstawie orzecze,nia, ,czek 'za umoTzony, wSlzy1stkie pra wa z cze1ku. D XVL Przepisy i
+**Art. 69.** Protest sporządza notarjusz.
 
-**Art. 82.** Z dniem w prawa niniej sze;go Maci Prezydenta Nr. 37. Dziennik Ustaw. Poz. 283 i 284. 645 pospolitej z dnia 14 listopada 1924 r. o prawie cze1ko wem (Dz. U. R. P. Nr. 100, poz. 927).
+**Art. 70.** Protest zawiera:
 
-**Art. 83.** IJlekroć przepisy praWiIle na dotychczasowe pr8JWO c.z ek owe , Istosuje odpo wiednio przepisy pI'8JWa ninietj,sze,go.
+**Art. 71.** Przedstawienia czeku, wezwania do wydania egzemplarza, tudzież wszystkich innych czynności zachowawczych należy – w braku odmiennego wskazania w czeku – dokonać w lokalu przedsiębiorstwa. W innym miejscu, np. „na giełdzie”, można tych czynności dokonać jedynie za zgodą stron interesowanych. Notarjusz obowiązany jest dokonać poszukiwania lokalu przedsiębiorstwa i odpowiada za szkodę, spowodowaną brakiem należytej staranności. Jednakże zaniedbanie lub niedokładność poszukiwań nigdy nie mogą stanowić przyczyny nieważności protestu.
 
-**Art. 84.** Rozporządzenie Ministra Skarbu, wy dane w porozumieniu z Ministrem ust a:li , Ikrtóre inlStyruc,je i,zbami l1'ozrwchunkowemi.
+**Art. 72.** Protest należy napisać na odwrotnej stronie czeku albo na osobnej karcie, połączonej z czekiem. Jeżeli na odwrotnej stronie niema żadnych oświadczeń, należy pisanie protestu zacząć od brzegu, w przeciwnym zaś razie bezpośrednio po ostatnim oświadczeniu. Jeżeli protest ma być napisany w całości lub w części na osobnej karcie dodatkowej, należy tę kartę połączyć z czekiem w ten sposób, aby nie było wolnych miejsc na odwrotnej stronie czeku; połączenie czeku z kartą dodatkową powinno być przypieczętowane pieczęcią urzędową lub przepisane treścią aktu protestowego.
 
-**Art. 85.** Pozo>&tają w mocy przepisy dzenia iPrezy1<len,ta Rzec1zYIP0'S!politej z dnia 12 czerw ca 1934 r. o wierzyt ach w waluta,ch zagranicz nych (Dz. U. R. P.lNr. 59, poz. 5(9), z prze pisu art. 2 (3), k,tóry tl1'aci moc w stosunku do czeków, wys1t8JWionych po w prawa ni niejszego.
+**Art. 73.** Jeżeli zobowiązanemu przedstawiono równocześnie kilka egzemplarzy czeku, wystarczy umieszczenie protestu na jednym egzemplarzu. Notarjusz zaznaczy na innych egzemplarzach, gdzie protest umieszczono, i tę uwagę podpisze.
 
-**Art. 86.** PrzeilJisów ipr8JWa niniej-s:zego nie s,to suie do cze'ków, wystawIonych jpnzoo jego we; w
+**Art. 74.** Notarjusz jest upoważniony i obowiązany do odbioru zapłaty i do pokwitowania. W przypadku takiej zapłaty połączone z nią koszty notarjusza ponosi osoba, przeciw której protest miał być dokonany.
 
-**Art. 87.** WyJk.onanie prawa Illinieós,zego po.rucza Minis,trowi
+**Art. 75.** Jeżeli notarjusz nie zastanie osoby, do której wezwanie ma być skierowane, w lokalu jej przedsiębiorstwa, powinien zostawić tam zawiadomienie o dokonaniu protestu, zawierające nazwisko i miejsce zamieszkania posiadacza czeku, nazwisko wystawcy, sumę czekową oraz nazwisko i lokal urzędowy notarjusza.
 
-**Art. 88.** Ust8JWa ninieilSza wchodzi w z dniem 1 1936 Prezydent Rzeczypospolitej: l. Prezes Rady Ministrów: Marjan Zyndram Minister Czeslaw 284. MINISTRA SPRAW z dnia 21 kwietnia 1936 r. o organom terytorjal nego w zakresie nadzoru policyjno - budowlanego i podziale tych admini stracji ogólnej a powiatowe w powiatach: warszawskim, grójeckim, sochaczewskim, pultuskim i Na podstawie art. 393a i art. 398a nia Prezydenta Rzeczypospolitej z dnia 16 lutego 1928 o iPrawie budowlanem i zaJbuoowanw osie dli (Dz. U. R. P. Nr. 23, poz. 202), w brzmieniu rozpo Prezydenta Rzeczypospolitej z dnia 3 gru dnia 1930 r. (Dz. U. R. P. Nr. 86, poz. 663) i rozpo Prezydenta Rzeczypospolitej z dnia 28 gru dnia 1934 r. o unorm9waniu i try bu w niektórych administracji (Dz. U. R. P. Nr. 110, poz. 976) dza.m co § 1. Uprawnienia gmin wiejskich, wart. 391 Prezydenta Rzeczypospolitej z dnia 16 lutego 1928 r. o prawie budowlanem i zabudowaniu osiedli (Dz. U. R. P. Nr. 23, poz. 202], w brzmieniu Prezy denta Rzeczypospolitej z dnia 28 grudnia 1934 r. o unormowaniu i trybu wania w niektórych administracji wej (Dz. U. R. P. Nr. 110, poz. 976), odejmuje za: gmin wiejskich w powiatach: warszawskim, grójeclkim, socha czewskim, i na obszarach osiedli, wyszczególnionych w Mini stra Spraw z dnia 10 1935 r. o przepisów policyjno-budowla nych miejskich na niektóre osiedla gmin wiejskich na obszarze województwa warszawskiego (Dz. U. R. P. Nr. 77, poz. 482), i dzieli te uprawnienia dzy powiatowe administracji ogólnej oraz powiatowe, a mianowicie: powiatowym administracji ogólnej zastrzega upraw· nienia, w <lirt. 391 punkt c, w doty wydawania przewidzianych w art. 379 pkt. a} i b) cytowanego wy powiatowym przeka1zuje inne Ulpraw nienia, wart. 391 § 2. Uprawnienia powiato'wych, wart. 389 punkt c) i d) Prezydenta Rzeczypospolitej z dnia 16 lutego 1928 r. o prawie budowlanem i zabudowaniu osiedli (Dz. U. R. P. Nr. 23, poz. 202), w brzmieniu Prezydenta Rzeczypospolitej z dnia 28 grudnia 1934 r. o unormowaniu i trybu w ,niektórych administracji (Dz. U. R. P. Nr. 110, poz. 976), odejmuje powiatowym na obszarach osiedli, wymienionych w § l, i zastrzega te upra wnienia powiatowym administracji ogólnej.
+**Art. 76.** Przy dokonywaniu czynności zachowawczych notarjusz może posługiwać się pomocnikami, których prezes sądu okręgowego na wniosek notarjusza do tego upoważni. Za działalność pomocnika w tym zakresie notarjusz odpowiada solidarnie z pomocnikiem.
+
+**Art. 77.** Notarjusz obowiązany jest przechowywać osobno odpisy protestów wraz z wypisem istotnej treści czeku, zaopatrzone numerem, i odpisy te składać w porządku chronologicznym, w jakim protesty zostały sporządzone. Interesowanym mogą być na żądanie wydawane odpisy tych dokumentów z ich uwierzytelnieniem lub bez niego. Minister Sprawiedliwości określi w drodze rozporządzenia termin, po upływie którego dokumenty, wymienione w ustępie pierwszym, mogą być zniszczone, oraz sposób ich zniszczenia.
+
+### DZIAŁ XV Czeki zaginione
+
+**Art. 78.** Ten, komu czek zaginął, może żądać od sądu rejonowego miejsca płatności czeku uznania go za umorzony. We wniosku należy podać istotną treść czeku oraz uprawdopodobnić jego utratę, jak również interes prawny, który uzasadnia żądanie umorzenia. Sąd przez ogłoszenie w Monitorze Sądowym i Gospodarczym wezwie posiadacza zaginionego czeku do zgłoszenia się w ciągu sześćdziesięciu dni i do okazania czeku sądowi. Termin ten biegnie od dnia ogłoszenia. Końcowy dzień terminu powinien być oznaczony w ogłoszeniu według daty kalendarza. Jeżeli w ciągu terminu, oznaczonego w wezwaniu, nikt nie zgłosi się z czekiem, sąd wyda orzeczenie, uznające czek za umorzony. Jeżeli natomiast posiadacz czeku zgłosi się przed wydaniem orzeczenia, sąd umorzy dalsze postępowanie po przesłuchaniu interesowanych i po okazaniu czeku żądającemu umorzenia. Zarówno o wszczęciu postępowania, jako też o jego wyniku sąd zawiadomi trasata i wszystkich dłużników czekowych, wskazanych przez żądającego umorzenia czeku.
+
+**Art. 79.** Dłużnik czekowy oraz trasat, który po otrzymaniu zawiadomienia o wszczęciu postępowania płaci czek, czyni to na własne niebezpieczeństwo; wolno mu jednak sumę czekową złożyć do depozytu sądowego miejsca płatności i zwolnić się przez to z zobowiązania.
+
+**Art. 80.** Jeżeli po ogłoszeniu wezwania żądający umorzenia zgłosi się do trasata z żądaniem zapłaty, trasat może złożyć sumę czekową do depozytu sądowego albo zapłacić ją żądającemu umorzenia za zabezpieczeniem. Gdyby trasat jednego i drugiego odmówił, żądający umorzenia może, na podstawie odpisu czeku, dokonać protestu lub równoznacznego stwierdzenia, a następnie wykonać zwrotne poszukiwanie; może jednak domagać się od zobowiązanych zwrotnie jedynie złożenia sumy czekowej do depozytu albo zapłaty za zabezpieczeniem, według wyboru dłużnika.
+
+**Art. 81.** Na podstawie orzeczenia, uznającego czek za umorzony, można wykonywać wszystkie prawa z czeku.
+
+### DZIAŁ XVI Przepisy końcowe i przejściowe
+
+**Art. 82.** Z dniem wejścia w życie prawa niniejszego traci moc rozporządzenie Prezydenta Rzeczypospolitej z dnia 14 listopada 1924 r. o prawie czekowem (Dz. U. R. P. Nr 100, poz. 927).
+
+**Art. 83.** Ilekroć przepisy prawne powołują się na dotychczasowe prawo czekowe, stosuje się odpowiednio przepisy prawa niniejszego.
+
+**Art. 84.** Rozporządzenie Ministra Skarbu, wydane w porozumieniu z Ministrem Sprawiedliwości, ustali, które instytucje są izbami rozrachunkowemi.
+
+**Art. 85.** Pozostają w mocy przepisy rozporządzenia Prezydenta Rzeczypospolitej z dnia 12 czerwca 1934 r. o wierzytelnościach w walutach zagranicznych (Dz. U. R. P. Nr 59, poz. 509), z wyjątkiem przepisu art. 2 ust. (3), który traci moc w stosunku do czeków, wystawionych po wejściu w życie prawa niniejszego.
+
+**Art. 86.** Przepisów prawa niniejszego nie stosuje się do czeków, wystawionych przed jego wejściem w życie.
+
+**Art. 87.** Wykonanie prawa niniejszego porucza się Ministrowi Sprawiedliwości.
+
+**Art. 88.** Ustawa niniejsza wchodzi w życie z dniem 1 lipca 1936 r.
 

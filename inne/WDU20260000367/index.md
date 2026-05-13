@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 18 marca 2026 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy o Straży Granicznej
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 27 lutego 2026 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2026-03-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000367) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/367/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 27 lutego 2026 r.
-sprawie ogłoszenia jednolitego tekstu ustawy o Straży Granicznej
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2025 r. poz. 914), z uwzględnieniem zmian wprowadzonych:
 1) ustawą z dnia 12 września 2025 r. o zmianie niektórych ustaw związku z określeniem zasad zakwaterowania funkcjonariuszy Policji, Straży Granicznej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Służby Ochrony Państwa oraz poprawy niektórych warunków pełnienia służby (Dz. U. poz. 1366),
 2) ustawą z dnia 18 grudnia 2025 r. o zmianie niektórych ustaw celu usprawnienia działań Sił Zbrojnych Rzeczypospolitej Polskiej na wypadek zagrożenia bezpieczeństwa państwa na polskich obszarach morskich oraz zapewnienia bezpieczeństwa na Morzu Bałtyckim (Dz. U. z 2026 r. poz. 50),
@@ -38,9 +38,11 @@ sprawie ogłoszenia jednolitego tekstu ustawy o Straży Granicznej
 
 **Art. 12.**
 
-1. Funkcjonariusz Policji, Straży Granicznej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego oraz Służby Ochrony Państwa, który otrzymał lokal mieszkalny albo kwaterę tymczasową na podstawie przepisów obowiązujących przed dniem wejścia życie niniejszej ustawy, zachowuje prawo do przydzielonego lokalu mieszkalnego albo kwatery tymczasowej i nie przysługuje mu prawo do zakwaterowania, o którym mowa art. 88 ust. 1 ustawy zmienianej art. 1, art. 92 ust. 1 ustawy zmienianej art. 2, art. 74 ust. 1 ustawy zmienianej art. 4, art. 102 ust. 1 ustawy zmienianej art. 6, art. 62 ust. 1 ustawy zmienianej art. 8, art. 178a ust. 1 ustawy zmienianej art. 9, brzmieniu nadanym niniejszą ustawą, chyba że opróżni przyznany mu lokal mieszkalny albo kwaterę tymczasową. Państwa, zwolniony ze służby, który otrzymał lokal mieszkalny na podstawie przepisów obowiązujących przed dniem wejścia życie niniejszej ustawy, zachowuje prawo do przydzielonego lokalu mieszkalnego.
+1. Funkcjonariusz Policji, Straży Granicznej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego oraz Służby Ochrony Państwa, który otrzymał lokal mieszkalny albo kwaterę tymczasową na podstawie przepisów obowiązujących przed dniem wejścia życie niniejszej ustawy, zachowuje prawo do przydzielonego lokalu mieszkalnego albo kwatery tymczasowej i nie przysługuje mu prawo do zakwaterowania, o którym mowa art. 88 ust. 1 ustawy zmienianej art. 1, art. 92 ust. 1 ustawy zmienianej art. 2, art. 74 ust. 1 ustawy zmienianej art. 4, art. 102 ust. 1 ustawy zmienianej art. 6, art. 62 ust. 1 ustawy zmienianej art. 8, art. 178a ust. 1 ustawy zmienianej art. 9, brzmieniu nadanym niniejszą ustawą, chyba że opróżni przyznany mu lokal mieszkalny albo kwaterę tymczasową.
 
-3. Funkcjonariusz, o którym mowa ust. 2, jest zobowiązany do poinformowania organu przyznającego lokal mieszkalny o każdej zmianie mającej wpływ na prawo do zajmowania przydzielonego lokalu mieszkalnego, szczególności sytuacji, gdy on lub członek jego rodziny jest właścicielem innego lokalu mieszkalnego albo domu jednorodzinnego.
+2. Funkcjonariusz Policji, Straży Granicznej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego oraz Służby Ochrony Państwa, zwolniony ze służby, który otrzymał lokal mieszkalny na podstawie przepisów obowiązujących przed dniem wejścia życie niniejszej ustawy, zachowuje prawo do przydzielonego lokalu mieszkalnego.
+
+3. Funkcjonariusz, o którym mowa ust. 2, jest zobowiązany do poinformowania organu przyznającego lokal mieszkalny o każdej zmianie mającej wpływ na prawo do zajmowania przydzielonego lokalu mieszkalnego,
 
 4. Funkcjonariusz Policji, Straży Granicznej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego oraz Służby Ochrony Państwa, zwolniony ze służby, uprawniony do emerytury policyjnej lub policyjnej renty, o których mowa ustawie zmienianej art. 5, członkowie ich rodzin uprawnieni do renty rodzinnej po funkcjonariuszach, którzy chwili śmierci spełniali warunki wymagane do uzyskania emerytury policyjnej lub policyjnej renty, oraz po zmarłych emerytach i rencistach, którzy otrzymali lokal mieszkalny na podstawie przepisów obowiązujących przed dniem wejścia życie niniejszej ustawy, zachowują prawo do przydzielonego lokalu mieszkalnego.
 
@@ -68,7 +70,9 @@ sprawie ogłoszenia jednolitego tekstu ustawy o Straży Granicznej
 
 2. Jeżeli funkcjonariusz, o którym mowa ust. 1, pobierał przed dniem wejścia życie niniejszej ustawy od dnia 1 lipca 2025 r. równoważnik pieniężny za brak lokalu na podstawie przepisów dotychczasowych, wyrównanie, o którym mowa ust. 1, pomniejsza się o sumę kwot wypłaconych mu od dnia 1 lipca 2025 r. równoważników za brak lokalu.
 
-4. Wypłata świadczenia mieszkaniowego trybie, o którym mowa ust. 1, nastąpi nie później niż do dnia 31 grudnia 2025 r.” „Art. 23. Ustawa wchodzi życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 lipca 2025 r., z wyjątkiem art. 1 pkt 7, art. 2 pkt 2, 8, 16 i 17, art. 4 pkt 12, art. 6 pkt 6, art. 8 pkt 6, art. 9 pkt 1, 2 i 10 oraz art. 14, które wchodzą życie z dniem następującym po dniu ogłoszenia.”;
+3. Wnioski o wypłatę świadczenia mieszkaniowego trybie, o którym mowa ust. 1, mogą być składane do dnia 15 grudnia 2025 r.
+
+4. Wypłata świadczenia mieszkaniowego trybie, o którym mowa ust. 1, nastąpi nie później niż do dnia 31 grudnia 2025 r.” które wchodzą życie z dniem następującym po dniu ogłoszenia.”;
 
 - **2)** art. 6 ustawy z dnia 18 grudnia 2025 r. o zmianie niektórych ustaw celu usprawnienia działań Sił Zbrojnych Rzeczypospolitej Polskiej na wypadek zagrożenia bezpieczeństwa państwa na polskich obszarach morskich oraz zapewnienia bezpieczeństwa na Morzu Bałtyckim (Dz. U. z 2026 r. poz. 50), który stanowi: „Art. 6. Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia.”;
 - **3)** art. 161 ustawy z dnia 23 stycznia 2026 r. o zawodzie psychologa oraz samorządzie zawodowym psychologów (Dz. U. poz. 187), który stanowi: „Art. 161. Ustawa wchodzi życie po upływie 2 lat i 3 miesięcy od dnia ogłoszenia, z wyjątkiem:
@@ -98,10 +102,10 @@ sprawie ogłoszenia jednolitego tekstu ustawy o Straży Granicznej
     - **e)** współdziałanie z organami i podmiotami właściwymi sprawach udzielania cudzoziemcom zezwoleń na wjazd na terytorium Rzeczypospolitej Polskiej lub pobyt na tym terytorium, tym wykonywanie czynności na wniosek tych organów i podmiotów, na zasadach określonych odrębnymi przepisami;
 
 - **3)** wydawanie zezwoleń na przekraczanie granicy państwowej, tym wiz;
-- **4)** rozpoznawanie, zapobieganie i wykrywanie przestępstw i wykroczeń oraz ściganie ich sprawców, zakresie właściwości Straży Granicznej, a szczególności: poz. 223, 389, 619, 621 i 1794), Przepisy wprowadzające Kodeks karny (Dz. U. poz. 554 i 1083, z 2009 r. poz. 1149 i 1589, z 2010 r. poz. 626 oraz z 2022 r. poz. 2600);
+- **4)** rozpoznawanie, zapobieganie i wykrywanie przestępstw i wykroczeń oraz ściganie ich sprawców, zakresie właściwości Straży Granicznej, a szczególności: Przepisy wprowadzające Kodeks karny (Dz. U. poz. 554 i 1083, z 2009 r. poz. 1149 i 1589, z 2010 r. poz. 626 oraz z 2022 r. poz. 2600);
     - **a)** przestępstw i wykroczeń dotyczących zgodności przekraczania granicy państwowej z przepisami, związanych z jej oznakowaniem, wykonywaniem pracy przez cudzoziemców, prowadzeniem działalności gospodarczej przez cudzoziemców oraz powierzaniem wykonywania pracy cudzoziemcom, a także przestępstw określonych art. 270–276 Kodeksu karnego dotyczących wiarygodności dokumentów uprawniających do przekraczania granicy państwowej, dokumentów uprawniających do pobytu na terytorium Rzeczypospolitej Polskiej lub dokumentów wymaganych do ich wydania,
     - **b)** przestępstw skarbowych i wykroczeń skarbowych wymienionych art. 134 § 1 pkt 1 Kodeksu karnego skarbowego,
-    - **c)** przestępstw i wykroczeń pozostających związku z przekraczaniem granicy państwowej lub przemieszczaniem przez granicę państwową towarów oraz wyrobów akcyzowych podlegających obowiązkowi oznaczania znakami akcyzy, jak również przedmiotów określonych przepisach o broni i amunicji, o materiałach wybuchowych, o prekursorach materiałów wybuchowych podlegających ograniczeniom, o bibliotekach, o ochronie zabytków i opiece nad zabytkami, o narodowym zasobie archiwalnym, o przeciwdziałaniu narkomanii oraz o ewidencji ludności i dowodach osobistych, 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2025 r.
+    - **c)** przestępstw i wykroczeń pozostających związku z przekraczaniem granicy państwowej lub przemieszczaniem przez granicę państwową towarów oraz wyrobów akcyzowych podlegających obowiązkowi oznaczania znakami akcyzy, jak również przedmiotów określonych przepisach o broni i amunicji, o materiałach wybuchowych, o prekursorach materiałów wybuchowych podlegających ograniczeniom, o bibliotekach, o ochronie zabytków i opiece nad zabytkami, o narodowym zasobie archiwalnym, o przeciwdziałaniu narkomanii oraz o ewidencji ludności i dowodach osobistych, poz. 223, 389, 619, 621 i 1794),
     - **e)** przestępstw przeciwko bezpieczeństwu powszechnemu oraz przestępstw i wykroczeń przeciwko bezpieczeństwu komunikacji, pozostających związku z wykonywaniem komunikacji lotniczej,
     - **f)** przestępstw określonych art. 228, 229 i 231 Kodeksu karnego, popełnionych przez pracowników Straży Granicznej związku z wykonywaniem czynności służbowych,
     - **g)** przestępstw określonych art. 229 Kodeksu karnego, popełnionych przez osoby niebędące funkcjonariuszami lub pracownikami Straży Granicznej związku z wykonywaniem czynności służbowych przez funkcjonariuszy lub pracowników Straży Granicznej,
@@ -377,7 +381,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy o Straży Granicznej
 
 5. Minister właściwy do spraw wewnętrznych określi, drodze zarządzenia, sposób tworzenia funduszu operacyjnego i gospodarowania nim oraz podmioty właściwe tych sprawach.
 
-6. (uchylony) i metod realizacji zadań, informacji oraz własnych obiektów i danych identyfikujących funkcjonariuszy.
+6. (uchylony)
 
 2. Przy wykonywaniu czynności operacyjno-rozpoznawczych funkcjonariusze mogą posługiwać się dokumentami publicznymi rozumieniu ustawy z dnia 22 listopada 2018 r. o dokumentach publicznych (Dz. U. z 2024 r. poz. 1669 i 1863 oraz z 2025 r. poz. 1881) lub innymi dokumentami, które uniemożliwiają ustalenie danych identyfikujących funkcjonariusza Straży Granicznej oraz środków, którymi posługuje się przy wykonywaniu zadań służbowych.
 
@@ -411,7 +415,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy o Straży Granicznej
 2. Udzielenie informacji o osobie, uzyskanych czasie wykonywania czynności operacyjno-rozpoznawczych oraz trybie, o którym mowa art. 9 ust. 1a, może nastąpić:
 
 - **1)** na żądanie sądu lub prokuratora, a wykorzystanie tych informacji może nastąpić tylko celu ścigania karnego;
-- **2)** przypadku gdy ustawa nakłada obowiązek udzielenia lub umożliwia udzielenie takich informacji określonemu organowi albo obowiązek taki wynika z umów lub porozumień międzynarodowych, a także przypadkach gdy zatajenie takiej informacji prowadziłoby do zagrożenia życia lub zdrowia innych osób. może nastąpić szczególnie uzasadnionych przypadkach.
+- **2)** przypadku gdy ustawa nakłada obowiązek udzielenia lub umożliwia udzielenie takich informacji określonemu organowi albo obowiązek taki wynika z umów lub porozumień międzynarodowych, a także przypadkach gdy zatajenie takiej informacji prowadziłoby do zagrożenia życia lub zdrowia innych osób.
 
 4. W przypadkach wymienionych ust. 1 pkt 1, ust. 2 pkt 1 i ust. 3 udzielenie informacji następuje trybie określonym art. 9da. Art. 9da. 1. Komendant Główny Straży Granicznej może zezwalać:
 
@@ -461,7 +465,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy o Straży Granicznej
 - **2)** uzyskiwaniu i utrwalaniu obrazu lub dźwięku osób z pomieszczeń, środków transportu lub miejsc innych niż miejsca publiczne;
 - **3)** uzyskiwaniu i utrwalaniu treści korespondencji, tym korespondencji prowadzonej za pomocą środków komunikacji elektronicznej;
 - **4)** uzyskiwaniu i utrwalaniu danych zawartych informatycznych nośnikach danych, telekomunikacyjnych urządzeniach końcowych, systemach informatycznych i teleinformatycznych;
-- **5)** uzyskiwaniu dostępu i kontroli zawartości przesyłek. obrazu pomieszczeniach, o których mowa art. 11 ust. 1 pkt 7a.
+- **5)** uzyskiwaniu dostępu i kontroli zawartości przesyłek.
 
 7b. Realizacja czynności, o których mowa ust. 7a, nie wymaga zgody sądu.
 
@@ -570,7 +574,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy o Straży Granicznej
 
 6. W przypadku uzyskania dowodów pozwalających na wszczęcie postępowania karnego lub mających znaczenie dla toczącego się postępowania karnego Komendant Główny Straży Granicznej, Komendant BSWSG lub komendant oddziału Straży Granicznej przekazuje prokuratorowi okręgowemu, o którym mowa ust. 2, wszystkie materiały zgromadzone podczas stosowania czynności, o których mowa ust. 1. W postępowaniu przed sądem, odniesieniu do tych materiałów, stosuje się odpowiednio art. 393 § 1 zdanie pierwsze Kodeksu postępowania karnego.
 
-7. Minister właściwy do spraw wewnętrznych porozumieniu z Ministrem Sprawiedliwości określi, drodze rozporządzenia, sposób przeprowadzania i dokumentowania czynności, o których mowa ust. 1, uwzględniając potrzebę zapewnienia niejawnego charakteru podejmowanych czynności i uzyskanych materiałów oraz wzory stosowanych druków i rejestrów. przejściach granicznych zakresie, o którym mowa art. 9 ust. 1.
+7. Minister właściwy do spraw wewnętrznych porozumieniu z Ministrem Sprawiedliwości określi, drodze rozporządzenia, sposób przeprowadzania i dokumentowania czynności, o których mowa ust. 1, uwzględniając potrzebę zapewnienia niejawnego charakteru podejmowanych czynności i uzyskanych materiałów oraz wzory stosowanych druków i rejestrów.
 
 2. Komendant placówki Straży Granicznej celu zapewnienia bezpieczeństwa i przeciwdziałania zagrożeniom komunikacji lotniczej, uzasadnionych przypadkach, występuje do zarządzającego lotniskiem z wnioskiem o bezzwłoczne uniemożliwienie wykonywania pracy lub czynności zleconych osobom wykonującym zadania związane z kontrolą bezpieczeństwa portach lotniczych.
 
@@ -648,7 +652,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy o Straży Granicznej
 
 - **1)** funkcjonariuszowi wskazanemu pisemnym wniosku Komendanta Głównego Straży Granicznej, Komendanta BSWSG lub komendanta oddziału Straży Granicznej albo osoby przez nich upoważnionej;
 - **2)** na ustne żądanie funkcjonariusza posiadającego pisemne upoważnienie osób, o których mowa pkt 1;
-- **3)** za pośrednictwem sieci telekomunikacyjnej funkcjonariuszowi posiadającemu pisemne upoważnienie osób, o których mowa pkt 1. pracowników przedsiębiorcy telekomunikacyjnego, operatora pocztowego lub usługodawcy świadczącego usługi drogą elektroniczną lub przy niezbędnym ich udziale, jeżeli możliwość taka jest przewidziana porozumieniu zawartym pomiędzy Komendantem Głównym Straży Granicznej a tym podmiotem.
+- **3)** za pośrednictwem sieci telekomunikacyjnej funkcjonariuszowi posiadającemu pisemne upoważnienie osób, o których mowa pkt 1. elektroniczną lub przy niezbędnym ich udziale, jeżeli możliwość taka jest przewidziana porozumieniu zawartym pomiędzy Komendantem Głównym Straży Granicznej a tym podmiotem.
 
 4. Udostępnienie Straży Granicznej danych, o których mowa ust. 1, może nastąpić za pośrednictwem sieci telekomunikacyjnej, jeżeli:
 
@@ -682,7 +686,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy o Straży Granicznej
 - **3)** przypadku użytkownika, który nie jest osobą fizyczną numer zakończenia sieci oraz siedzibę lub miejsce wykonywania działalności gospodarczej, firmę lub nazwę i formę organizacyjną tego użytkownika,
 - **4)** przypadku stacjonarnej publicznej sieci telekomunikacyjnej także nazwę miejscowości oraz ulicy, przy której znajduje się zakończenie sieci, udostępnione użytkownikowi oraz może je przetwarzać bez wiedzy i zgody osoby, której dotyczą.
 
-2. Do udostępniania i przetwarzania danych, o których mowa ust. 1, przepisy art. 10b ust. 2–8 stosuje się. ich wykrycia, ustalenia ich sprawców, uzyskania i utrwalenia dowodów, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z tych przestępstw albo ich równowartości, Straż Graniczna może korzystać z informacji i danych:
+2. Do udostępniania i przetwarzania danych, o których mowa ust. 1, przepisy art. 10b ust. 2–8 stosuje się. korzyści majątkowych pochodzących z tych przestępstw albo ich równowartości, Straż Graniczna może korzystać z informacji i danych:
 
 - **1)** stanowiących tajemnicę skarbową, przetwarzanych przez organy administracji rządowej i samorządu terytorialnego;
 - **2)** stanowiących tajemnicę zawodową, o której mowa art. 9e ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z 2025 r. poz. 379, 820, 1069, 1170 i 1191);
@@ -730,7 +734,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy o Straży Granicznej
 
 8. W przypadku wyrażenia przez sąd zgody na udostępnienie informacji, uprawniony przez sąd organ Straży Granicznej pisemnie informuje podmiot obowiązany do udostępnienia informacji i danych o rodzaju i zakresie informacji i danych, które mają być udostępnione, podmiocie, którego informacje i dane dotyczą, oraz o osobie funkcjonariusza upoważnionego do ich odbioru. Do pisemnej informacji dołącza się postanowienie sądu.
 
-9. W terminie do 120 dni od dnia przekazania informacji i danych, o których mowa ust. 1, Straż Graniczna, z zastrzeżeniem ust. 10 i 11, informuje podmiot, o którym mowa ust. 5 pkt 4, o postanowieniu sądu wyrażającym zgodę na udostępnienie informacji i danych. Granicznej lub odniesieniu do spraw realizowanych przez BSWSG na wniosek Komendanta BSWSG, złożony po uzyskaniu pisemnej zgody Pierwszego Zastępcy Prokuratora Generalnego Prokuratora Krajowego, może odroczyć, drodze postanowienia, na czas oznaczony, z możliwością dalszego przedłużania, obowiązek, o którym mowa ust. 9, jeżeli zostanie uprawdopodobnione, że poinformowanie podmiotu, o którym mowa ust. 5 pkt 4, może zaszkodzić wynikom podjętych czynności operacyjno-rozpoznawczych. Przepis art. 9e ust. 12 stosuje się odpowiednio.
+9. W terminie do 120 dni od dnia przekazania informacji i danych, o których mowa ust. 1, Straż Graniczna, z zastrzeżeniem ust. 10 i 11, informuje podmiot, o którym mowa ust. 5 pkt 4, o postanowieniu sądu wyrażającym zgodę na udostępnienie informacji i danych. kaniu pisemnej zgody Pierwszego Zastępcy Prokuratora Generalnego Prokuratora Krajowego, może odroczyć, drodze postanowienia, na czas oznaczony, z możliwością dalszego przedłużania, obowiązek, o którym mowa ust. 9, jeżeli zostanie uprawdopodobnione, że poinformowanie podmiotu, o którym mowa ust. 5 pkt 4, może zaszkodzić wynikom podjętych czynności operacyjno-rozpoznawczych. Przepis art. 9e ust. 12 stosuje się odpowiednio.
 
 11. Jeżeli okresie, o którym mowa ust. 9 lub 10, zostało wszczęte postępowanie przygotowawcze, podmiot wskazany ust. 5 pkt 4 jest powiadamiany o postanowieniu sądu o udostępnieniu informacji i danych przez prokuratora lub, na jego polecenie, przez Straż Graniczną przed zamknięciem postępowania przygotowawczego albo niezwłocznie po jego umorzeniu.
 
@@ -762,7 +766,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy o Straży Granicznej
 
 10. Osoby upoważnione do reprezentowania kontrolowanego lub prowadzenia jego spraw, pracownicy kontrolowanego, osoby współdziałające z kontrolowanym oraz inne osoby przebywające miejscu przeprowadzania kontroli są obowiązani udzielać wyjaśnień dotyczących przedmiotu kontroli, zakresie wynikającym z wykonywanych czynności lub zadań.
 
-11. Kontrolowany lub osoba przez niego upoważniona są obowiązani do poświadczenia zgodności odpisów i wyciągów oraz kserokopii z dokumentów dostarczonych kontrolującym. pisemne oświadczenia dotyczące przedmiotu kontroli, które załącza się do protokołu kontroli.
+11. Kontrolowany lub osoba przez niego upoważniona są obowiązani do poświadczenia zgodności odpisów i wyciągów oraz kserokopii z dokumentów dostarczonych kontrolującym.
 
 13. W przypadku wystąpienia toku kontroli okoliczności wymagających wiadomości specjalistycznych, szczególności dotyczących dokumentów potwierdzających legalność wykonywania pracy przez cudzoziemców, można powołać biegłego.
 
@@ -809,7 +813,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy o Straży Granicznej
 - **2)** Państwową Inspekcję Pracy przypadku naruszenia przepisów prawa pracy;
 - **3)** Krajową Administrację Skarbową przypadku naruszenia przepisów prawa podatkowego lub prawa celnego;
 - **4)** (uchylony)
-- **5)** Policję lub Prokuraturę przypadku podejrzenia popełnienia czynu zabronionego. oraz ministrowi właściwemu do spraw wewnętrznych, niepóźniej niż do dnia 30 kwietnia następnego roku, zbiorczych wyników kontroli, o której mowa ust. 1, zakresie dotyczącym powierzania wykonywania pracy cudzoziemcom przebywającym bez ważnego dokumentu uprawniającego do pobytu na terytorium Rzeczypospolitej Polskiej, z uwzględnieniem liczby kontroli przeprowadzonych poprzednim roku oraz procentowego udziału podmiotów powierzających wykonywanie pracy cudzoziemcom przebywającym bez ważnego dokumentu uprawniającego do pobytu na terytorium Rzeczypospolitej Polskiej każdym sektorze, o którym mowa art. 14a pkt 1 ustawy z dnia 15 czerwca 2012 r. o skutkach powierzania wykonywania pracy cudzoziemcom przebywającym wbrew przepisom na terytorium Rzeczypospolitej Polskiej.
+- **5)** Policję lub Prokuraturę przypadku podejrzenia popełnienia czynu zabronionego. wyników kontroli, o której mowa ust. 1, zakresie dotyczącym powierzania wykonywania pracy cudzoziemcom przebywającym bez ważnego dokumentu uprawniającego do pobytu na terytorium Rzeczypospolitej Polskiej, z uwzględnieniem liczby kontroli przeprowadzonych poprzednim roku oraz procentowego udziału podmiotów powierzających wykonywanie pracy cudzoziemcom przebywającym bez ważnego dokumentu uprawniającego do pobytu na terytorium Rzeczypospolitej Polskiej każdym sektorze, o którym mowa art. 14a pkt 1 ustawy z dnia 15 czerwca 2012 r. o skutkach powierzania wykonywania pracy cudzoziemcom przebywającym wbrew przepisom na terytorium Rzeczypospolitej Polskiej.
 
 24. W zakresie nieuregulowanym niniejszym rozdziale stosuje się przepisy Kodeksu postępowania administracyjnego.
 
@@ -839,7 +843,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy o Straży Granicznej
     - **f)** jeżeli zachowanie osób, o których mowa lit. e, wskazuje, że mogą one stanowić zagrożenie dla siebie lub z posiadanych informacji wynika, że podejmowały już wcześniej próby samookaleczenia,
     - **g)** gdy jest to niezbędne dla zapewnienia porządku strzeżonym ośrodku lub areszcie dla cudzoziemców.
 
-- **2a)** dokonywania kontroli bezpieczeństwa przejściach granicznych, portach lotniczych oraz środkach komunikacji lotniczej, drogowej, kolejowej i wodnej celu wykluczenia możliwości popełnienia przestępstw lub wykroczeń, zwłaszcza skierowanych przeciwko nienaruszalności granicy państwowej lub bezpieczeństwa międzynarodowej komunikacji; środków przymusu bezpośredniego i broni palnej, celu unieszkodliwienia osoby, która stanowi bezpośrednie zagrożenie bezpieczeństwa lotu, zdrowia lub życia pasażerów lub członków załogi;
+- **2a)** dokonywania kontroli bezpieczeństwa przejściach granicznych, portach lotniczych oraz środkach komunikacji lotniczej, drogowej, kolejowej i wodnej celu wykluczenia możliwości popełnienia przestępstw lub wykroczeń, zwłaszcza skierowanych przeciwko nienaruszalności granicy państwowej lub bezpieczeństwa międzynarodowej komunikacji; żenie bezpieczeństwa lotu, zdrowia lub życia pasażerów lub członków załogi;
 - **3)** wydawania wiz i innych zezwoleń na przekroczenie granicy państwowej na podstawie odrębnych przepisów;
 - **4)** legitymowania lub ustalania inny sposób tożsamości osoby;
 - **5)** zatrzymywania osób trybie i przypadkach określonych przepisach Kodeksu postępowania karnego i innych ustaw;
@@ -861,7 +865,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy o Straży Granicznej
 - **5e)** utrwalania wizerunku osób celu weryfikacji ich tożsamości, identyfikacji osób o nieustalonej tożsamości oraz osób usiłujących ukryć swoją tożsamość;
 - **6)** przeszukiwania osób, rzeczy, pomieszczeń i środków transportu trybie i przypadkach określonych przepisach Kodeksu postępowania karnego i innych ustaw;
 - **6a)** nakładania grzywien drodze mandatu karnego za wykroczenia;
-- **7)** obserwowania i rejestrowania, przy użyciu środków technicznych służących do rejestracji obrazu i dźwięku, zdarzeń na drogach oraz innych miejscach publicznych; aresztów dla cudzoziemców lub pomieszczeniach przeznaczonych dla osób zatrzymanych oraz innych wykorzystywanych przez Straż Graniczną obiektach i obszarach celu zapewnienia bezpieczeństwa przebywającym nich osobom;
+- **7)** obserwowania i rejestrowania, przy użyciu środków technicznych służących do rejestracji obrazu i dźwięku, zdarzeń na drogach oraz innych miejscach publicznych; stywanych przez Straż Graniczną obiektach i obszarach celu zapewnienia bezpieczeństwa przebywającym nich osobom;
 - **7b)** obserwowania i rejestrowania przy użyciu środków technicznych obrazu lub dźwięku miejscach innych niż publiczne trakcie interwencji;
 - **8)** zatrzymywania pojazdów i wykonywania innych czynności z zakresu kontroli ruchu drogowego trybie i przypadkach określonych ustawie z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym;
 - **9)** zatrzymywania i cofania z granicy państwowej do nadawcy szkodliwych materiałów jądrowych i promieniotwórczych, środków chemicznych i biologicznych, jak również odpadów;
@@ -1015,7 +1019,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy o Straży Granicznej
 
 1. W przypadku gdy wymagają tego względy obronności, bezpieczeństwa państwa lub nienaruszalności granicy państwowej, a także razie konieczności odparcia bezprawnego, bezpośredniego zamachu na infrastrukturę krytyczną albo celu przeciwdziałania czynnościom zmierzającym do takiego zamachu dowódcy jednostek pływających Straży Granicznej na morskich wodach wewnętrznych i morzu terytorialnym mają prawo:
 
-- **1)** wezwać statek do zmniejszenia prędkości przepływu, zatrzymania się do kontroli oraz zastosowania się do wskazanego kursu przepływu; na nim pasażerów, zbadać ładunek i przeszukać pomieszczenia statku, a także zatrzymać osobę podejrzaną o popełnienie przestępstwa;
+- **1)** wezwać statek do zmniejszenia prędkości przepływu, zatrzymania się do kontroli oraz zastosowania się do wskazanego kursu przepływu; przestępstwa;
 - **3)** zmusić statek do zawinięcia do wskazanego portu, jeżeli kapitan nie stosuje się do wydanych poleceń.
 
 2. Dowódcy jednostek pływających Straży Granicznej mają prawo do podejmowania działań, o których mowa ust. 1, również gdy statek na morskich wodach wewnętrznych lub morzu terytorialnym:
@@ -1164,7 +1168,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy o Straży Granicznej
 
 3. Postępowanie kwalifikacyjne może być prowadzone wobec kandydatów, którzy ukończyli 18 lat, są uczniami ostatniej klasy szkoły, o której mowa art. 18 ust. 1 pkt 2 lit. a, b i e ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe (Dz. U. z 2025 r. poz. 1043, 1160 i 1837 oraz z 2026 r. poz. 187), i nie posiadają dniu rozpoczęcia postępowania kwalifikacyjnego dokumentów stwierdzających wymagane wykształcenie lub spełnienie warunku, o którym mowa art. 34 ust. 3.
 
-4. W przypadku, o którym mowa ust. 3, dokumenty stwierdzające wykształcenie lub spełnienie warunku, o którym mowa art. 34 ust. 3, kandydat składa przed przyjęciem do służby. zakazuje się:
+4. W przypadku, o którym mowa ust. 3, dokumenty stwierdzające wykształcenie lub spełnienie warunku, o którym mowa art. 34 ust. 3, kandydat składa przed przyjęciem do służby.
 
 - **1)** korzystania z pomocy innych osób;
 - **2)** posługiwania się urządzeniami służącymi do przekazu, odbioru lub zapisu informacji lub korzystania z niedopuszczonych do wykorzystania materiałów pomocniczych;
@@ -1261,7 +1265,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy o Straży Granicznej
 22. Minister właściwy do spraw wewnętrznych określi, drodze rozporządzenia:
 
 - **1)** zakres informacji o planowanym postępowaniu kwalifikacyjnym oraz sposób podawania ich do wiadomości, uwzględniając konieczność zapewnienia powszechnego dostępu do informacji o postępowaniu kwalifikacyjnym;
-- **2)** tryb i sposób przeprowadzania postępowania kwalifikacyjnego, uwzględniając czynności niezbędne do przeprowadzenia postępowania kwalifikacyjnego i ustalenia jego toku kwalifikacji i predyspozycji kandydata oraz jego przydatności do służby Straży Granicznej; do służby Straży Granicznej i karcie sprawności fizycznej kandydata do służby Straży Granicznej oraz wzory tych dokumentów, uwzględniając konieczność zapewnienia prawidłowego toku postępowania kwalifikacyjnego;
+- **2)** tryb i sposób przeprowadzania postępowania kwalifikacyjnego, uwzględniając czynności niezbędne do przeprowadzenia postępowania kwalifikacyjnego i ustalenia jego toku kwalifikacji i predyspozycji kandydata oraz jego przydatności do służby Straży Granicznej; dokumentów, uwzględniając konieczność zapewnienia prawidłowego toku postępowania kwalifikacyjnego;
 - **4)** zakres tematyczny i sposób przeprowadzania testu wiedzy oraz zakres i sposób przeprowadzania rozmowy kwalifikacyjnej i testu sprawności fizycznej, mając na uwadze konieczność spełnienia przez kandydata warunków przyjęcia do służby Straży Granicznej oraz ustalenia toku postępowania kwalifikacyjnego predyspozycji kandydata oraz jego przydatności do służby Straży Granicznej;
 - **5)** zakres i sposób przeprowadzania badania psychologicznego oraz termin ważności tego badania, mając na uwadze konieczność spełnienia przez kandydata warunków przyjęcia do służby Straży Granicznej;
 - **6)** sposób uznawania wyników uzyskanych przez kandydata postępowaniu kwalifikacyjnym, o którym mowa ust. 2, przypadku przystąpienia do postępowania kwalifikacyjnego określonego ust. 7, mając na uwadze predyspozycje kandydata i umiejętności przydatne do służby Straży Granicznej;
@@ -1333,7 +1337,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy o Straży Granicznej
 - **5)** planowaną datę ukończenia szkolenia podstawowego;
 - **6)** warunki uposażenia zasadniczego wraz z dodatkami o charakterze stałym oraz innymi należnościami i świadczeniami.
 
-3. Mianowanie na okres służby kontraktowej następuje na stanowisko służbowe zaszeregowane do stopnia etatowego korpusie szeregowych, jeżeli kandydat do służby kontraktowej ma co najmniej wykształcenie średnie lub średnie branżowe. wany na stanowisko służbowe zaszeregowane do stopnia etatowego korpusie szeregowych, jeżeli podczas postępowania kwalifikacyjnego, o którym mowa art. 31 ust. 2, zostanie stwierdzone, że kandydat posiada specjalistyczne kwalifikacje, uprawnienia, doświadczenie zawodowe lub umiejętności pożądane ze względu na potrzeby kadrowe Straży Granicznej.
+3. Mianowanie na okres służby kontraktowej następuje na stanowisko służbowe zaszeregowane do stopnia etatowego korpusie szeregowych, jeżeli kandydat do służby kontraktowej ma co najmniej wykształcenie średnie lub średnie branżowe. kwalifikacyjnego, o którym mowa art. 31 ust. 2, zostanie stwierdzone, że kandydat posiada specjalistyczne kwalifikacje, uprawnienia, doświadczenie zawodowe lub umiejętności pożądane ze względu na potrzeby kadrowe Straży Granicznej.
 
 5. Przyjęcie do służby na okres służby kontraktowej następuje po przeprowadzeniu postępowania kwalifikacyjnego, o którym mowa art. 31 ust. 2, z wyjątkiem etapu wymienionego pkt 7, a przypadku funkcjonariusza zwolnionego ze służby Straży Granicznej po przeprowadzeniu postępowania kwalifikacyjnego, o którym mowa odpowiednio art. 31 ust. 10 i 11, z wyjątkiem etapu wymienionego art. 31 ust. 11 pkt 5, oraz dodatkowo po przeprowadzeniu etapu wymienionego art. 31 ust. 2 pkt 3, przypadku kandydata, o którym mowa art. 31 ust. 11.
 
@@ -1367,7 +1371,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy o Straży Granicznej
 
 20. Do funkcjonariusza służbie kontraktowej nie stosuje się przepisów art. 41, art. 57 ust. 2, art. 87b, art. 108 ust. 1 pkt 3, art. 112 ust. 1 pkt 3, 5b i 5d, art. 115, art. 117b, art. 117d, art. 117f, art. 118 ust. 1 pkt 1 i art. 119 oraz przepisów wykonawczych wydanych na ich podstawie.
 
-21. Funkcjonariusz służbie kontraktowej ma prawo do zakwaterowania realizowanego formie, o której mowa art. 92 ust. 2 pkt 3. Przepisy art. 92 ust. 5–8 i 13 oraz art. 92a stosuje się odpowiednio. przygotowawczej na okres 3 lat.
+21. Funkcjonariusz służbie kontraktowej ma prawo do zakwaterowania realizowanego formie, o której mowa art. 92 ust. 2 pkt 3. Przepisy art. 92 ust. 5–8 i 13 oraz art. 92a stosuje się odpowiednio.
 
 1a. Funkcjonariusz ponownie przyjęty do służby, z wyjątkiem funkcjonariusza przyjmowanego do służby kontraktowej, jest mianowany na stałe, jeżeli przed zwolnieniem ze służby był mianowany na stałe.
 
@@ -1508,7 +1512,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy o Straży Granicznej
     - **a)** mianować na stanowisko służbowe funkcjonariusza przyjmowanego do służby Straży Granicznej przed uzyskaniem przez niego stażu służby wymaganego do mianowania na określone stanowisko służbowe lub kwalifikacji zawodowych, jeżeli ukończył studia drugiego stopnia oraz po przyjęciu do służby Straży Granicznej zostanie, terminie określonym przez Komendanta Głównego Straży Granicznej, skierowany na szkolenie podstawowe funkcjonariuszy oraz na przeszkolenie specjalistyczne do mianowania na pierwszy stopień oficerski Straży Granicznej,
     - **b)** mianować na stanowisko kierownicze funkcjonariusza przed uzyskaniem przez niego kwalifikacji kadry kierowniczej, jeżeli ukończył studia wyższe drugiego stopnia oraz zostanie niezwłocznie skierowany na szkolenie specjalistyczne dla kadry kierowniczej i dowódczej Straży Granicznej.
 
-9. Warunek ukończenia studiów drugiego stopnia na określonym stanowisku służbowym nie dotyczy funkcjonariusza, który pełniąc zawodową służbę wojskową, uzyskał tytuł oficera dyplomowanego. Straży Granicznej ukończył przeszkolenie specjalistyczne do mianowania na pierwszy stopień oficerski Straży Granicznej, obejmujące program zakresie szkolenia specjalistycznego dla kadry kierowniczej i dowódczej Straży Granicznej.
+9. Warunek ukończenia studiów drugiego stopnia na określonym stanowisku służbowym nie dotyczy funkcjonariusza, który pełniąc zawodową służbę wojskową, uzyskał tytuł oficera dyplomowanego. obejmujące program zakresie szkolenia specjalistycznego dla kadry kierowniczej i dowódczej Straży Granicznej.
 
 **Art. 37d.** Do stażu służby wymaganego do powołania lub mianowania na określone stanowisko służbowe zalicza się okresy służby lub pracy Straży Granicznej, Policji, Urzędzie Ochrony Państwa, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Wywiadu Wojskowego, Służbie Kontrwywiadu Wojskowego, Centralnym Biurze Antykorupcyjnym, Biurze Ochrony Rządu, Służbie Ochrony Państwa, Straży Marszałkowskiej, Państwowej Straży Pożarnej, Siłach Zbrojnych Rzeczypospolitej Polskiej, Inspekcji Celnej, Służbie Celno-Skarbowej i Służbie Więziennej.
 
@@ -1549,7 +1553,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy o Straży Granicznej
 
 2. W okresie pozostawania dyspozycji funkcjonariusz nie wykonuje obowiązków służbowych, zachowując prawo do uposażenia i innych świadczeń przysługujących na ostatnio zajmowanym stanowisku służbowym.
 
-3. Funkcjonariusz przeniesiony do dyspozycji jest obowiązany do podjęcia obowiązków służbowych każdym czasie na polecenie właściwego przełożonego. cjonariuszy.
+3. Funkcjonariusz przeniesiony do dyspozycji jest obowiązany do podjęcia obowiązków służbowych każdym czasie na polecenie właściwego przełożonego.
 
 5. Minister właściwy do spraw wewnętrznych określi, drodze rozporządzenia, przełożonych właściwych do przenoszenia funkcjonariuszy do dyspozycji, warunki i tryb przenoszenia oraz sposób pełnienia służby tym okresie. Rozporządzenie powinno określić sposób pełnienia służby, uwzględniając posiadane przez funkcjonariusza kwalifikacje oraz predyspozycje do pełnienia służby na określonym stanowisku służbowym.
 
@@ -1582,7 +1586,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy o Straży Granicznej
 
 3. Minister właściwy do spraw wewnętrznych określi, drodze rozporządzenia, zakres, szczegółowe warunki, tryb i terminy przeprowadzania testu sprawności fizycznej oraz szczegółowy sposób oceniania testu, przypadki, jakich można zwolnić funkcjonariusza z testu, a także przełożonych właściwych tych sprawach, uwzględniając charakter służby Straży Granicznej oraz okoliczności uzasadniające zwolnienie funkcjonariusza z testu.
 
-4. Komendant Główny Straży Granicznej określi, drodze zarządzenia, rodzaje zajęć z zakresu wychowania fizycznego lub zajęć sportowych realizowanych jednostkach organizacyjnych Straży Granicznej oraz zadania jednostek tym zakresie, mając na względzie charakter służby Straży Granicznej oraz właściwe przygotowanie funkcjonariuszy do testu sprawności fizycznej. prowadzące zajęcia, mając na uwadze utrzymanie sprawności fizycznej funkcjonariuszy zapewniającej wykonywanie przez nich zadań służbowych, uwzględniając charakter służby Straży Granicznej.
+4. Komendant Główny Straży Granicznej określi, drodze zarządzenia, rodzaje zajęć z zakresu wychowania fizycznego lub zajęć sportowych realizowanych jednostkach organizacyjnych Straży Granicznej oraz zadania jednostek tym zakresie, mając na względzie charakter służby Straży Granicznej oraz właściwe przygotowanie funkcjonariuszy do testu sprawności fizycznej. nich zadań służbowych, uwzględniając charakter służby Straży Granicznej.
 
 **Art. 39d.**
 
@@ -1699,7 +1703,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy o Straży Granicznej
 - **4)** szczegółowe prawa i obowiązki delegowanego, tym wymóg zapewnienia po zakończeniu delegowania warunków służby co najmniej równorzędnych do istniejących przed delegowaniem;
 - **5)** tryb postępowania i właściwość przełożonych tych sprawach, szczególności zakresie wnioskowania o delegowanie, odwołania z delegowania, a także wypłaty należności przysługujących delegowanemu, oraz podmioty zagraniczne, które mogą inicjować postępowanie tych sprawach.
 
-6. Rozporządzenie, o którym mowa ust. 5, powinno uzależnić zakres uprawnień delegowanego od charakteru lub rodzaju wykonywanych zadań, czasu trwania delegowania, warunków bytowych i kosztów związanych z delegowaniem oraz zakresu uprawnień i świadczeń przyznanych przez podmiot zagraniczny. drodze rozporządzenia, warunki otrzymywania świadczeń opieki zdrowotnej, o których mowa art. 42 ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2025 r. poz. 1461, 1537 i 1739 oraz z 2026 r. poz. 26), przez funkcjonariuszy, o których mowa ust. 2 oraz art. 147e ust. 1, związku z urazami nabytymi podczas wykonywania zadań poza granicami państwa oraz sposób i tryb finansowania ponoszonych kosztów, uwzględniając zasady wydatkowania środków publicznych.
+6. Rozporządzenie, o którym mowa ust. 5, powinno uzależnić zakres uprawnień delegowanego od charakteru lub rodzaju wykonywanych zadań, czasu trwania delegowania, warunków bytowych i kosztów związanych z delegowaniem oraz zakresu uprawnień i świadczeń przyznanych przez podmiot zagraniczny. z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2025 r. poz. 1461, 1537 i 1739 oraz z 2026 r. poz. 26), przez funkcjonariuszy, o których mowa ust. 2 oraz art. 147e ust. 1, związku z urazami nabytymi podczas wykonywania zadań poza granicami państwa oraz sposób i tryb finansowania ponoszonych kosztów, uwzględniając zasady wydatkowania środków publicznych.
 
 **Art. 40a.**
 
@@ -1821,7 +1825,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy o Straży Granicznej
 
 1. Po odwołaniu funkcjonariusza z oddelegowania właściwy przełożony mianuje go na stanowisko nieniższe niż zajmowane przed oddelegowaniem.
 
-2. Komendant Główny Straży Granicznej może wyrazić zgodę na zwolnienie ze służby Straży Granicznej funkcjonariusza, o którym mowa art. 41k, ze stanowiska równorzędnego do zajmowanego urzędzie państwowym albo urzędzie administracji rządowej. Nie dotyczy to funkcjonariusza, który podlega zwolnieniu ze służby na podstawie art. 45 ust. 1 pkt 3–5 oraz ust. 2 pkt 1, 2, 5 i 10 albo wobec którego orzeczono karę dyscyplinarną wyznaczenia na niższe stanowisko służbowe. wyznaczenia na niższe stanowisko służbowe.
+2. Komendant Główny Straży Granicznej może wyrazić zgodę na zwolnienie ze służby Straży Granicznej funkcjonariusza, o którym mowa art. 41k, ze stanowiska równorzędnego do zajmowanego urzędzie państwowym albo urzędzie administracji rządowej. Nie dotyczy to funkcjonariusza, który podlega zwolnieniu ze służby na podstawie art. 45 ust. 1 pkt 3–5 oraz ust. 2 pkt 1, 2, 5 i 10 albo wobec którego orzeczono karę dyscyplinarną wyznaczenia na niższe stanowisko służbowe.
 
 2. Funkcjonariusza można przenieść na niższe stanowisko służbowe przypadkach:
 
@@ -1864,7 +1868,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy o Straży Granicznej
     - **e)** funkcjonariuszy pełniących służbę Komendzie Głównej Straży Granicznej,
     - **f)** innych bezpośrednio mu podległych funkcjonariuszy;
 
-- **3)** Rektor-Komendant WSSG, Komendant BSWSG, komendant oddziału Straży Granicznej, komendant ośrodka szkolenia Straży Granicznej i komendant ośrodka Straży Granicznej stosunku do: służbowych również funkcjonariuszy wymienionych ust. 1 pkt 3.
+- **3)** Rektor-Komendant WSSG, Komendant BSWSG, komendant oddziału Straży Granicznej, komendant ośrodka szkolenia Straży Granicznej i komendant ośrodka Straży Granicznej stosunku do:
     - **a)** funkcjonariuszy pełniących służbę na stanowiskach służbowych odpowiednio podległych im WSSG, BSWSG, oddziałach Straży Granicznej, ośrodkach szkolenia Straży Granicznej lub ośrodkach Straży Granicznej,
     - **b)** innych bezpośrednio mu podległych funkcjonariuszy.
 
@@ -2030,7 +2034,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy o Straży Granicznej
 
 2. Funkcjonariusz może żądać sprostowania świadectwa służby oraz odwołać się do wyższego przełożonego od opinii o służbie terminie 7 dni od dnia otrzymania opinii.
 
-3. Minister właściwy do spraw wewnętrznych określi, drodze rozporządzenia, szczegółowe dane, które należy podać świadectwie służby oraz opinii o służbie, a także tryb wydawania i dokonywania sprostowań świadectw służby oraz odwoływania się od opinii o służbie, uwzględniając przełożonych właściwych sprawach świadectw służby i opinii o służbie, informacje, które zamieszczane są świadectwie służby na życzenie funkcjonariusza, oraz wzór formularza świadectwa służby. dokumentacji sprawach związanych ze stosunkiem służbowym funkcjonariuszy, sposób prowadzenia akt osobowych oraz wzory dokumentów tych sprawach zakresie nieuregulowanym innymi przepisami wydanymi na podstawie ustawy. Zarządzenie powinno określić sposób zakładania akt osobowych funkcjonariuszy, rodzaje gromadzonych nich dokumentów oraz sposób ich ewidencjonowania.
+3. Minister właściwy do spraw wewnętrznych określi, drodze rozporządzenia, szczegółowe dane, które należy podać świadectwie służby oraz opinii o służbie, a także tryb wydawania i dokonywania sprostowań świadectw służby oraz odwoływania się od opinii o służbie, uwzględniając przełożonych właściwych sprawach świadectw służby i opinii o służbie, informacje, które zamieszczane są świadectwie służby na życzenie funkcjonariusza, oraz wzór formularza świadectwa służby. wzory dokumentów tych sprawach zakresie nieuregulowanym innymi przepisami wydanymi na podstawie ustawy. Zarządzenie powinno określić sposób zakładania akt osobowych funkcjonariuszy, rodzaje gromadzonych nich dokumentów oraz sposób ich ewidencjonowania.
 
 **Art. 50b.**
 
@@ -2274,7 +2278,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy o Straży Granicznej
 
 - **1)** kwotę najniższego wynagrodzenia ustalaną na podstawie odrębnych przepisów za okres służby kandydackiej przed dniem 1 stycznia 2003 r.;
 - **2)** kwotę minimalnego wynagrodzenia za pracę obowiązującego grudniu roku poprzedniego, ustalonego na podstawie odrębnych przepisów za okres służby kandydackiej po dniu 31 grudnia 2002 r.;
-- **3)** uposażenie zasadnicze, dodatki do uposażenia, nagrody roczne i uznaniowe oraz dodatkowe wynagrodzenie wypłacone na podstawie art. 116, odpowiednio przeliczone zgodnie z art. 110 ustawy, o której mowa ust. 1 za pozostałe okresy służby. policyjnej renty inwalidzkiej. Przekazanie składek następuje na wniosek funkcjonariusza.
+- **3)** uposażenie zasadnicze, dodatki do uposażenia, nagrody roczne i uznaniowe oraz dodatkowe wynagrodzenie wypłacone na podstawie art. 116, odpowiednio przeliczone zgodnie z art. 110 ustawy, o której mowa ust. 1 za pozostałe okresy służby.
 
 4. Składki podlegają waloryzacji wskaźnikiem waloryzacji składek określonym na podstawie ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2025 r. poz. 1749 oraz z 2026 r. poz. 26).
 
@@ -2359,7 +2363,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy o Straży Granicznej
 
 - **1)** rodzaj i zakres badań okresowych, uwzględniając rodzaj pełnionej służby oraz narażenie na czynniki szkodliwe i uciążliwe dla zdrowia występujące czasie służby;
 - **2)** wzór skierowania na badania okresowe lub kontrolne, uwzględniając konieczność zamieszczenia tym wzorze informacji niezbędnych do jednoznacznego ustalenia zakresu badań;
-- **3)** wzór orzeczenia lekarskiego, uwzględniając jednolitość informacji znajdujących się orzeczeniu. nego czynnika chorobotwórczego, przeciw któremu jest dostępna szczepionka, funkcjonariusz może poddać się szczepieniom ochronnym, o których mowa ustawie z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2025 r. poz. 1675 oraz z 2026 r. poz. 26) oraz przepisach wykonawczych wydanych na jej podstawie.
+- **3)** wzór orzeczenia lekarskiego, uwzględniając jednolitość informacji znajdujących się orzeczeniu. niom ochronnym, o których mowa ustawie z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2025 r. poz. 1675 oraz z 2026 r. poz. 26) oraz przepisach wykonawczych wydanych na jej podstawie.
 
 2. (uchylony)
 
@@ -2475,7 +2479,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy o Straży Granicznej
 
 6. Funkcjonariuszowi, który:
 
-- **1)** przed przyjęciem do służby Straży Granicznej wykorzystał urlop wypoczynkowy za dany rok wymiarze proporcjonalnym do okresu przepracowanego u dotychczasowego pracodawcy albo otrzymał takim wymiarze ekwiwalent pieniężny za niewykorzystany urlop, albo służbowy lub stosunek pracy przysługuje urlop wypoczynkowy roku przyjęcia do służby Straży Granicznej wymiarze proporcjonalnym do okresu służby Straży Granicznej danym roku.
+- **1)** przed przyjęciem do służby Straży Granicznej wykorzystał urlop wypoczynkowy za dany rok wymiarze proporcjonalnym do okresu przepracowanego u dotychczasowego pracodawcy albo otrzymał takim wymiarze ekwiwalent pieniężny za niewykorzystany urlop, albo przysługuje urlop wypoczynkowy roku przyjęcia do służby Straży Granicznej wymiarze proporcjonalnym do okresu służby Straży Granicznej danym roku.
 
 7. Łączny wymiar urlopu wypoczynkowego funkcjonariusza, o którym mowa ust. 6, roku kalendarzowym którym rozpoczął służbę Straży Granicznej, nie może być wyższy niż 26 dni roboczych.
 
@@ -2551,7 +2555,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy o Straży Granicznej
 
 7. Jeżeli od dnia przyznania funkcjonariuszowi poprzedniego urlopu, o którym mowa ust. 4, pełnił on nieprzerwanie służbę warunkach szczególnie uciążliwych lub szkodliwych dla zdrowia, kolejny urlop dodatkowy przyznaje się na dzień 1 stycznia następnego roku kalendarzowego.
 
-8. Funkcjonariuszowi pełniącemu służbę na stanowisku, na którym występują warunki szczególnie uciążliwe lub szkodliwe dla zdrowia uzasadniające przyznanie urlopu, o którym mowa ust. 4, różnym wymiarze, przyznaje się jeden urlop wymiarze korzystniejszym. częściach, z wyjątkiem tych urlopów, których wymiar wynosi 5 dni.
+8. Funkcjonariuszowi pełniącemu służbę na stanowisku, na którym występują warunki szczególnie uciążliwe lub szkodliwe dla zdrowia uzasadniające przyznanie urlopu, o którym mowa ust. 4, różnym wymiarze, przyznaje się jeden urlop wymiarze korzystniejszym.
 
 **Art. 87d.** W przypadku zbiegu uprawnień do corocznego płatnego urlopu dodatkowego z różnych tytułów, z wyjątkiem urlopu, o którym mowa art. 87b ust. 4, funkcjonariuszowi przyznaje się jeden urlop wymiarze najkorzystniejszym.
 
@@ -2601,7 +2605,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy o Straży Granicznej
 
 **Art. 89g.**
 
-1. W przypadku funkcjonariusza zawieszonego czynnościach służbowych, stosunku do którego postępowanie karne lub dyscyplinarne nie zostało zakończone sposób, o którym mowa art. 128 ust. 3, urlop wypoczynkowy i coroczny płatny urlop dodatkowy przysługuje wymiarze proporcjonalnym do okresu służby pełnionej roku zawieszenia czynnościach służbowych oraz ustania tego zawieszenia. padku zawieszenia czynnościach służbowych trwającego krócej niż jeden miesiąc urlop wypoczynkowy ulega skróceniu o jeden dzień roboczy za każde dwa tygodnie zawieszenia czynnościach służbowych.
+1. W przypadku funkcjonariusza zawieszonego czynnościach służbowych, stosunku do którego postępowanie karne lub dyscyplinarne nie zostało zakończone sposób, o którym mowa art. 128 ust. 3, urlop wypoczynkowy i coroczny płatny urlop dodatkowy przysługuje wymiarze proporcjonalnym do okresu służby pełnionej roku zawieszenia czynnościach służbowych oraz ustania tego zawieszenia. o jeden dzień roboczy za każde dwa tygodnie zawieszenia czynnościach służbowych.
 
 **Art. 89h.**
 
@@ -2644,8 +2648,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy o Straży Granicznej
 - **5)** przyznanie odznaki resortowej;
 - **6)** przedstawienie do odznaczenia państwowego;
 - **7)** przedterminowe mianowanie na wyższy stopień.
-- **8)** (uchylony)
-- **1)** wzorowe wywiązywanie się z obowiązków służbowych i przejawianie inicjatywy na dotychczas zajmowanym stanowisku służbowym;
+- **8)** (uchylony) 1a. Wyróżnień, o których mowa ust. 1, można udzielić szczególności za:
 - **2)** wykazanie się szczególnymi osiągnięciami i inicjatywą służbie;
 - **3)** bardzo dobre lub wyróżniające wykonanie zadania służbowego;
 - **4)** wykonanie zadania szczególnie trudnych warunkach lub wymagającego znacznego nakładu pracy;
@@ -2736,7 +2739,8 @@ sprawie ogłoszenia jednolitego tekstu ustawy o Straży Granicznej
 
 10. Zmiana formy zakwaterowania następuje na wniosek funkcjonariusza, o którym mowa ust. 6. Podmiot, o którym mowa art. 92a ust. 1, uchyla decyzję, na podstawie której orzeczono wcześniej o prawie do zakwaterowania.
 
-- **1)** funkcjonariusz lub jego małżonek jest właścicielem lub współwłaścicielem lokalu mieszkalnego albo domu miejscowości, której pełni służbę, albo miejscowości, o której mowa art. 97 ust. 1 pkt 1 albo 2;
+11. Prawo do form zakwaterowania, o których mowa ust. 2 pkt 1 i 2, nie przysługuje, jeżeli: scowości, której pełni służbę, albo miejscowości, o której mowa art. 97 ust. 1 pkt 1 albo 2;
+
 - **2)** małżonek funkcjonariusza będący:
     - **a)** funkcjonariuszem Policji,
     - **b)** funkcjonariuszem Państwowej Straży Pożarnej,
@@ -2803,7 +2807,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy o Straży Granicznej
 
 - **27)** Członkami rodziny funkcjonariusza, których uwzględnia się przy przydziale lokalu mieszkalnego albo kwatery tymczasowej, są pozostający z funkcjonariuszem we wspólnym gospodarstwie domowym:
 - **1)** małżonek;
-- **2)** dzieci własne lub małżonka, przysposobione lub przyjęte na wychowanie ramach rodziny zastępczej, pozostające na jego utrzymaniu, niedłużej jednak niż do dnia zawarcia przez nie związku małżeńskiego, które: do spraw wewnętrznych lub organów mu podległych lub przez niego nadzorowanych.
+- **2)** dzieci własne lub małżonka, przysposobione lub przyjęte na wychowanie ramach rodziny zastępczej, pozostające na jego utrzymaniu, niedłużej jednak niż do dnia zawarcia przez nie związku małżeńskiego, które:
     - **a)** nie ukończyły 18. roku życia, a przypadku uczęszczania do szkoły lub odbywania studiów uczelni 26. roku życia, albo
     - **b)** stały się całkowicie niezdolne do pracy lub niezdolne do samodzielnej egzystencji przed osiągnięciem wieku określonego lit. a.
 
@@ -2831,7 +2835,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy o Straży Granicznej
 
 **Art. 95.** (uchylony)
 
-**Art. 96.** (uchylony) ustala się sposób, o którym mowa art. 98b ust. 1 pkt 2, zamieszkującemu miejscowości innej niż miejscowość, której pełni służbę, od której granic administracyjnych najkrótsza odległość drogą publiczną do granic administracyjnych miejscowości, której pełni służbę, wynosi:
+**Art. 96.** (uchylony) rej pełni służbę, od której granic administracyjnych najkrótsza odległość drogą publiczną do granic administracyjnych miejscowości, której pełni służbę, wynosi:
 
 **Art. 98.** (uchylony)
 
@@ -2868,7 +2872,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy o Straży Granicznej
 
 2. Wyboru sposobu ustalania wysokości świadczenia mieszkaniowego, o którym mowa ust. 1, funkcjonariusz dokonuje we wniosku, o którym mowa art. 92 ust. 6.
 
-3. Funkcjonariuszowi zamieszkującemu poza granicami Rzeczypospolitej Polskiej, który pełni służbę jednostce organizacyjnej Straży Granicznej na terenie kraju, świadczenie mieszkaniowe ustala się sposób, o którym mowa ust. 1 pkt 2. kaniową lub ekwiwalent pieniężny zamian za rezygnację z lokalu mieszkalnego z jednostek budżetowych, tym innych służbach, na podstawie przepisów obowiązujących przed dniem wejścia życie ustawy z dnia 12 września 2025 r. o zmianie niektórych ustaw związku z określeniem zasad zakwaterowania funkcjonariuszy Policji, Straży Granicznej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Służby Ochrony Państwa oraz poprawy niektórych warunków pełnienia służby, wypłaca się przyznane świadczenie mieszkaniowe:
+3. Funkcjonariuszowi zamieszkującemu poza granicami Rzeczypospolitej Polskiej, który pełni służbę jednostce organizacyjnej Straży Granicznej na terenie kraju, świadczenie mieszkaniowe ustala się sposób, o którym mowa ust. 1 pkt 2. innych służbach, na podstawie przepisów obowiązujących przed dniem wejścia życie ustawy z dnia 12 września 2025 r. o zmianie niektórych ustaw związku z określeniem zasad zakwaterowania funkcjonariuszy Policji, Straży Granicznej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Służby Ochrony Państwa oraz poprawy niektórych warunków pełnienia służby, wypłaca się przyznane świadczenie mieszkaniowe:
 
 - **1)** pomniejszone o kwotę stanowiącą maksymalnie 1/60 z 50 % przyznanej decyzją administracyjną pomocy finansowej na uzyskanie lokalu mieszkalnego albo domu, odprawy mieszkaniowej lub ekwiwalentu pieniężnego zamian za rezygnację z lokalu za każdy miesiąc wypłaty świadczenia mieszkaniowego przez kolejne 60 miesięcy lub do wysokości 50 % przyznanej decyzją administracyjną pomocy finansowej, odprawy mieszkaniowej lub ekwiwalentu pieniężnego zamian za rezygnację z lokalu, z możliwością jednorazowej wcześniejszej spłaty albo
 - **2)** pełnej kwocie przypadku zwrotu przez funkcjonariusza 50 % przyznanej decyzją administracyjną pomocy finansowej na uzyskanie lokalu mieszkalnego albo domu, odprawy mieszkaniowej lub ekwiwalentu pieniężnego zamian za rezygnację z lokalu terminie 30 dni od otrzymania rozstrzygnięcia, o którym mowa art. 92 ust. 12.
@@ -2898,7 +2902,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy o Straży Granicznej
 - **2)** zwolnionemu z obowiązku wykonywania zadań służbowych na podstawie art. 31 ust. 1 ustawy z dnia 23 maja 1991 r. o związkach zawodowych świadczenie mieszkaniowe przyznaje się wysokości określonej dla miejscowości właściwej ze względu na miejsce działalności zarządu zakładowej organizacji związkowej, którym funkcjonariusz pełni funkcję na zasadach określonych ustawie z dnia 23 maja 1991 r. o związkach zawodowych;
 - **3)** przeniesionemu do dyspozycji właściwego przełożonego oraz delegowanemu do czasowego pełnienia służby poza granicami państwa świadczenie mieszkaniowe przyznaje się wysokości określonej dla miejscowości, której pełnił służbę na jeden dzień przed przeniesieniem do dyspozycji lub delegowaniem.
 
-2. Funkcjonariuszowi, któremu wysokość świadczenia mieszkaniowego ustala się sposób, o którym mowa art. 98b ust. 1 pkt 2, świadczenie mieszkaniowe przysługuje od dnia złożenia wniosku, o którym mowa art. 92 ust. 6, do dnia zakończenia pełnienia służby danej miejscowości, określonej rozkazie personalnym, i jest wypłacane za miesiąc kalendarzowy terminie do końca każdego miesiąca następującego po miesiącu, którym nastąpiło rozstrzygnięcie, o którym mowa art. 92 ust. 12. o którym mowa art. 98b ust. 1 pkt 2, do czasowego pełnienia służby innej miejscowości na okres niedłuższy niż 6 miesięcy świadczenie mieszkaniowe przysługuje dotychczasowej wysokości.
+2. Funkcjonariuszowi, któremu wysokość świadczenia mieszkaniowego ustala się sposób, o którym mowa art. 98b ust. 1 pkt 2, świadczenie mieszkaniowe przysługuje od dnia złożenia wniosku, o którym mowa art. 92 ust. 6, do dnia zakończenia pełnienia służby danej miejscowości, określonej rozkazie personalnym, i jest wypłacane za miesiąc kalendarzowy terminie do końca każdego miesiąca następującego po miesiącu, którym nastąpiło rozstrzygnięcie, o którym mowa art. 92 ust. 12. sięcy świadczenie mieszkaniowe przysługuje dotychczasowej wysokości.
 
 4. W przypadku delegowania funkcjonariusza, któremu wysokość świadczenia mieszkaniowego ustala się sposób, o którym mowa art. 98b ust. 1 pkt 2, do czasowego pełnienia służby innej miejscowości na okres dłuższy niż 6 miesięcy, świadczenie mieszkaniowe przysługuje wysokości określonej dla miejsca pełnienia służby właściwego ze względu na miejscowość delegowania funkcjonariusza.
 
@@ -3043,7 +3047,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy o Straży Granicznej
 
 2. Jeżeli prawo do uposażenia powstało lub zmiana uposażenia nastąpiła ciągu miesiąca, uposażenie na czas do końca miesiąca oblicza się wysokości 1/30 części miesięcznego uposażenia za każdy dzień, gdy przepisy szczególne nie stanowią inaczej.
 
-3. Prawo do uposażenia wygasa z ostatnim dniem miesiąca, którym nastąpiło zwolnienie funkcjonariusza ze służby lub zaistniały inne okoliczności uzasadniające wygaśnięcie tego prawa. dawnieniu z upływem 3 lat od dnia, którym roszczenie stało się wymagalne.
+3. Prawo do uposażenia wygasa z ostatnim dniem miesiąca, którym nastąpiło zwolnienie funkcjonariusza ze służby lub zaistniały inne okoliczności uzasadniające wygaśnięcie tego prawa.
 
 2. Organ właściwy do rozpatrywania roszczeń może nie uwzględnić przedawnienia, jeżeli opóźnienie dochodzeniu roszczenia jest usprawiedliwione wyjątkowymi okolicznościami.
 
@@ -3129,7 +3133,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy o Straży Granicznej
 
 12. Minister właściwy do spraw wewnętrznych przyznaje nagrody roczne Komendantowi Głównemu Straży Granicznej i jego zastępcom.
 
-13. Komendant Główny Straży Granicznej przyznaje nagrody roczne kierownikowi komórki organizacyjnej Komendy Głównej Straży Granicznej, Rektorowi-Komendantowi WSSG i osobie pełniącej uczelni służb państwowych funkcję kierowniczą do spraw realizacji zadań uczelni jako jednostki organizacyjnej właściwej służby, komendantowi oddziału Straży Granicznej, komendantowi ośrodka szkolenia Straży Granicznej, komendantowi ośrodka Straży Granicznej oraz ich zastępcom. Komendantowi BSWSG oraz jego zastępcom przyznaje nagrodę roczną, na wniosek Inspektora Nadzoru Wewnętrznego, minister właściwy do spraw wewnętrznych. Komendant Główny Straży Granicznej może przyznawać nagrody roczne wszystkim funkcjonariuszom. BSWSG, komendant oddziału Straży Granicznej, komendant ośrodka szkolenia Straży Granicznej i komendant ośrodka Straży Granicznej przyznają nagrody roczne odpowiednio funkcjonariuszowi pełniącemu służbę komórce organizacyjnej Komendy Głównej Straży Granicznej, WSSG, BSWSG, oddziale Straży Granicznej, ośrodku szkolenia Straży Granicznej i ośrodku Straży Granicznej.
+13. Komendant Główny Straży Granicznej przyznaje nagrody roczne kierownikowi komórki organizacyjnej Komendy Głównej Straży Granicznej, Rektorowi-Komendantowi WSSG i osobie pełniącej uczelni służb państwowych funkcję kierowniczą do spraw realizacji zadań uczelni jako jednostki organizacyjnej właściwej służby, komendantowi oddziału Straży Granicznej, komendantowi ośrodka szkolenia Straży Granicznej, komendantowi ośrodka Straży Granicznej oraz ich zastępcom. Komendantowi BSWSG oraz jego zastępcom przyznaje nagrodę roczną, na wniosek Inspektora Nadzoru Wewnętrznego, minister właściwy do spraw wewnętrznych. Komendant Główny Straży Granicznej może przyznawać nagrody roczne wszystkim funkcjonariuszom. Straży Granicznej przyznają nagrody roczne odpowiednio funkcjonariuszowi pełniącemu służbę komórce organizacyjnej Komendy Głównej Straży Granicznej, WSSG, BSWSG, oddziale Straży Granicznej, ośrodku szkolenia Straży Granicznej i ośrodku Straży Granicznej.
 
 **Art. 114.**
 
@@ -3201,7 +3205,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy o Straży Granicznej
 - **2)** służby Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego, Centralnym Biurze Antykorupcyjnym, Straży Marszałkowskiej, Służbie Ochrony Państwa, Państwowej Straży Pożarnej, Służbie Celnej, Służbie Celno-Skarbowej i Służbie Więziennej;
 - **3)** traktowane jako równorzędne ze służbą, o której mowa pkt 1 i 2, wymienione art. 13 ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin.
 
-3. Decyzję o przyznaniu lub odmowie przyznania świadczenia motywacyjnego przełożony, o którym mowa art. 36 ust. 1, wydaje niepóźniej niż terminie 30 dni po osiągnięciu przez funkcjonariusza stażu służby, o którym mowa ust. 1 pkt 1 lub 2. wemu na zasadach, o których mowa art. 39, jeżeli od dnia wydania ostatniej opinii o tym funkcjonariuszu upłynęły co najmniej 3 miesiące.
+3. Decyzję o przyznaniu lub odmowie przyznania świadczenia motywacyjnego przełożony, o którym mowa art. 36 ust. 1, wydaje niepóźniej niż terminie 30 dni po osiągnięciu przez funkcjonariusza stażu służby, o którym mowa ust. 1 pkt 1 lub 2. mniej 3 miesiące.
 
 5. Minister właściwy do spraw wewnętrznych przyznaje świadczenie motywacyjne Komendantowi Głównemu Straży Granicznej i jego zastępcom oraz Komendantowi BSWSG i jego zastępcom.
 
@@ -3238,7 +3242,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy o Straży Granicznej
 
 2. Do ustalenia wysokości świadczenia teleinformatycznego, o którym mowa ust. 1, stosuje się przepisy wydane na podstawie art. 8 ust. 1 ustawy z dnia 2 grudnia 2021 r. o szczególnych zasadach wynagradzania osób realizujących zadania z zakresu cyberbezpieczeństwa.
 
-3. Decyzję o przyznaniu świadczenia teleinformatycznego przełożony, o którym mowa art. 36 ust. 1, wydaje niepóźniej niż terminie 30 dni po rozpoczęciu przez funkcjonariusza wykonywania zadań, o których mowa ust. 1. o których mowa art. 39, jeżeli od dnia wydania ostatniej opinii o tym funkcjonariuszu upłynęły co najmniej 3 miesiące.
+3. Decyzję o przyznaniu świadczenia teleinformatycznego przełożony, o którym mowa art. 36 ust. 1, wydaje niepóźniej niż terminie 30 dni po rozpoczęciu przez funkcjonariusza wykonywania zadań, o których mowa ust. 1.
 
 5. Świadczenia teleinformatycznego nie przyznaje się przypadkach, o których mowa art. 117d ust. 6. Przepisy art. 117d ust. 7 i 8 stosuje się.
 
@@ -3287,7 +3291,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy o Straży Granicznej
 
 1. Ekwiwalent pieniężny za 1 dzień niewykorzystanego urlopu wypoczynkowego lub dodatkowego ustala się wysokości 1/21 części miesięcznego uposażenia zasadniczego wraz z dodatkami o charakterze stałym należnego funkcjonariuszowi na ostatnio zajmowanym stanowisku służbowym.
 
-2. Ekwiwalent, o którym mowa ust. 1, wypłaca się ostatnim dniu pełnienia służby, a przypadku śmierci albo zaginięcia funkcjonariusza niezwłocznie po wydaniu rozkazu personalnego o wygaśnięciu stosunku służbowego. wysokości, jakiej przysługiwałaby temu funkcjonariuszowi odprawa, gdyby był zwolniony ze służby, świadczenia określone art. 118 ust. 1 pkt 2–4 oraz nagrody, o których mowa art. 112 ust. 1 pkt 2, a także dodatkowe wynagrodzenie, o którym mowa art. 112 ust. 1 pkt 4. W razie śmierci funkcjonariusza służbie kontraktowej pozostającej po nim rodzinie przysługuje odprawa pośmiertna wysokości jednomiesięcznego uposażenia zasadniczego wraz z dodatkami o charakterze stałym, świadczenia określone art. 118 ust. 1 pkt 2–4 oraz nagrody, o których mowa art. 112 ust. 1 pkt 2, a także dodatkowe wynagrodzenie, o którym mowa art. 112 ust. 1 pkt 4.
+2. Ekwiwalent, o którym mowa ust. 1, wypłaca się ostatnim dniu pełnienia służby, a przypadku śmierci albo zaginięcia funkcjonariusza niezwłocznie po wydaniu rozkazu personalnego o wygaśnięciu stosunku służbowego. art. 118 ust. 1 pkt 2–4 oraz nagrody, o których mowa art. 112 ust. 1 pkt 2, a także dodatkowe wynagrodzenie, o którym mowa art. 112 ust. 1 pkt 4. W razie śmierci funkcjonariusza służbie kontraktowej pozostającej po nim rodzinie przysługuje odprawa pośmiertna wysokości jednomiesięcznego uposażenia zasadniczego wraz z dodatkami o charakterze stałym, świadczenia określone art. 118 ust. 1 pkt 2–4 oraz nagrody, o których mowa art. 112 ust. 1 pkt 2, a także dodatkowe wynagrodzenie, o którym mowa art. 112 ust. 1 pkt 4.
 
 2. Świadczenia, o których mowa ust. 1, przysługują małżonkowi funkcjonariusza, który pozostawał z nim we wspólności małżeńskiej, a dalszej kolejności dzieciom oraz rodzicom, jeżeli dniu śmierci funkcjonariusza spełniali warunki do uzyskania renty rodzinnej na podstawie przepisów o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin lub żołnierzy zawodowych oraz ich rodzin.
 
@@ -3459,7 +3463,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy o Straży Granicznej
 
 16. Jeżeli wyniku kontroli, o której mowa ust. 15 pkt 1, zachodzi podejrzenie, że zaświadczenie lekarskie zostało sfałszowane, przełożony występuje do lekarza, który wystawił zaświadczenie lekarskie, o wyjaśnienie sprawy.
 
-17. W razie podejrzenia, że zaświadczenie lekarskie zostało wydane niezgodnie z przepisami sprawie zasad i trybu wystawiania zaświadczeń lekarskich, przełożony występuje o wyjaśnienie sprawy do terenowej jednostki organizacyjnej Zakładu Ubezpieczeń Społecznych. o charakterze stałym, przysługujące funkcjonariuszowi na ostatnio zajmowanym stanowisku służbowym, z uwzględnieniem powstałych tym okresie zmian, mających wpływ na prawo do uposażenia i innych należności lub ich wysokość.
+17. W razie podejrzenia, że zaświadczenie lekarskie zostało wydane niezgodnie z przepisami sprawie zasad i trybu wystawiania zaświadczeń lekarskich, przełożony występuje o wyjaśnienie sprawy do terenowej jednostki organizacyjnej Zakładu Ubezpieczeń Społecznych. powstałych tym okresie zmian, mających wpływ na prawo do uposażenia i innych należności lub ich wysokość.
 
 2. Przy obliczaniu uposażenia za okres przebywania na zwolnieniu lekarskim przyjmuje się, że uposażenie za jeden dzień przebywania na zwolnieniu lekarskim stanowi 1/30 uposażenia, o którym mowa art. 125b.
 
@@ -3621,7 +3625,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy o Straży Granicznej
 
 1. Funkcjonariusz, któremu powierzono pełnienie obowiązków na danym stanowisku służbowym, sprawuje władzę dyscyplinarną przysługującą funkcjonariuszowi powołanemu na to stanowisko.
 
-2. Funkcjonariusz, który zastępstwie wykonuje obowiązki na danym stanowisku służbowym, sprawuje władzę dyscyplinarną przysługującą osobie zastępowanej. nienie obowiązków służbowych innej jednostce organizacyjnej Straży Granicznej albo którego skierowano na szkolenie jednostce organizacyjnej Straży Granicznej lub studia WSSG, podlega władzy dyscyplinarnej przełożonego dyscyplinarnego miejscu czasowego delegowania, powierzenia obowiązków, szkolenia lub studiów.
+2. Funkcjonariusz, który zastępstwie wykonuje obowiązki na danym stanowisku służbowym, sprawuje władzę dyscyplinarną przysługującą osobie zastępowanej. jednostce organizacyjnej Straży Granicznej lub studia WSSG, podlega władzy dyscyplinarnej przełożonego dyscyplinarnego miejscu czasowego delegowania, powierzenia obowiązków, szkolenia lub studiów.
 
 2. Funkcjonariusz przeniesiony toku postępowania dyscyplinarnego do pełnienia służby innej jednostce organizacyjnej Straży Granicznej z dniem przeniesienia podlega władzy dyscyplinarnej przełożonego dyscyplinarnego nowym miejscu pełnienia służby.
 
@@ -3744,7 +3748,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy o Straży Granicznej
 
 **Art. 142.** (uchylony)
 
-**Art. 143.** Komendant Główny Straży Granicznej określi, drodze zarządzenia, po zasięgnięciu opinii związków zawodowych, zasady etyki zawodowej funkcjonariuszy, uwzględniając szczególności zasady określone rozdziale 3. riuszy Straży Granicznej.
+**Art. 143.** Komendant Główny Straży Granicznej określi, drodze zarządzenia, po zasięgnięciu opinii związków zawodowych, zasady etyki zawodowej funkcjonariuszy, uwzględniając szczególności zasady określone rozdziale 3.
 
 **Art. 143b.** Kto zatrudnia osoby, o których mowa art. 91c, lub zleca im wykonywanie innych zajęć wbrew warunkowi nim określonemu, podlega karze aresztu lub karze grzywny. Art. 144–146. (uchylone)
 
@@ -3830,7 +3834,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy o Straży Granicznej
 
 2b. Udział funkcjonariusza kolejnym turnusie leczniczo-profilaktycznym po pełnieniu służby tym samym kontyngencie może odbyć się pod warunkiem poddania się leczeniu specjalistycznemu, ambulatoryjnemu lub stacjonarnemu albo konsultacji specjalistycznej zakończonej wskazaniem uczestnictwa turnusie leczniczo-profilaktycznym jako niezbędnym do kontynuacji leczenia.
 
-2c. Osoby skierowane na turnus leczniczo-profilaktyczny mogą skorzystać z prawa do turnusu leczniczo-profilaktycznego trakcie pełnienia służby przez funkcjonariusza. pełnoletniego najbliższego członka rodziny pokrywa się z budżetu państwa z części pozostającej dyspozycji ministra właściwego do spraw wewnętrznych.
+2c. Osoby skierowane na turnus leczniczo-profilaktyczny mogą skorzystać z prawa do turnusu leczniczo-profilaktycznego trakcie pełnienia służby przez funkcjonariusza. właściwego do spraw wewnętrznych.
 
 2e. Skierowanie na badania, o których mowa ust. 1, zawiera następujące dane funkcjonariusza:
 
@@ -3878,7 +3882,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy o Straży Granicznej
 
 2. Osoba, o której mowa ust. 1, nie wykonuje pracy od dnia otrzymania pisemnego powiadomienia o wycofaniu z kontyngentu.
 
-3. W przypadkach, o których mowa ust. 1, umowę o pracę rozwiązuje się po powrocie pracownika do kraju, na zasadach i trybie określonych Kodeksie pracy. ust. 1 pkt 1 i 2.
+3. W przypadkach, o których mowa ust. 1, umowę o pracę rozwiązuje się po powrocie pracownika do kraju, na zasadach i trybie określonych Kodeksie pracy.
 
 2. Do badań i szczepień stosuje się odpowiednio przepisy wydane na podstawie art. 147j ust. 3.
 
@@ -3943,7 +3947,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy o Straży Granicznej
 
 1. Do użycia Straży Granicznej psy i konie dobiera się taki sposób, aby spełniały kryteria zdrowotne i użytkowe, o których mowa przepisach wydanych na podstawie art. 9 ust. 7 pkt 7, zapewniające przydatność zwierzęcia do użycia go celu realizacji zadań, o których mowa art. 1 ust. 2 pkt 1, 2, 2a lit. a–c, pkt 4, 5–5b, 5d oraz 12 i 13.
 
-2. Psy służbowe i konie służbowe mogą być używane Straży Granicznej po odbyciu szkolenia, o którym mowa przepisach wydanych na podstawie art. 9 ust. 7 pkt 7. zakupu tych zwierząt, o ile Komendant Główny Straży Granicznej nie wskazał innej jednostki organizacyjnej Straży Granicznej.
+2. Psy służbowe i konie służbowe mogą być używane Straży Granicznej po odbyciu szkolenia, o którym mowa przepisach wydanych na podstawie art. 9 ust. 7 pkt 7. Granicznej.
 
 4. Psy służbowe wycofane z użycia i konie służbowe wycofane z użycia pozostają na stanie jednostki organizacyjnej Straży Granicznej, o której mowa ust. 3, albo jednostki organizacyjnej Straży Granicznej wskazanej przez Komendanta Głównego Straży Granicznej.
 
@@ -3967,7 +3971,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy o Straży Granicznej
 
 8. Kierownik jednostki organizacyjnej Straży Granicznej, na której stanie znajduje się zwierzę, albo kierownik jednostki organizacyjnej Straży Granicznej wskazanej przez Komendanta Głównego Straży Granicznej wyznacza opiekuna psa służbowego wycofanego z użycia lub konia służbowego wycofanego z użycia.
 
-9. Kierownik jednostki organizacyjnej Straży Granicznej, na której stanie znajduje się zwierzę, albo kierownik jednostki organizacyjnej Straży Granicznej wskazanej przez Komendanta Głównego Straży Granicznej może powierzyć opiekę nad psem służbowym wycofanym z użycia lub koniem służbowym wycofanym z użycia organizacji społecznej, której statutowym celem działania jest ochrona zwierząt. osoba, która następstwie swojego zawinionego działania przyczyniła się do wycofania z użycia psa służbowego lub konia służbowego.
+9. Kierownik jednostki organizacyjnej Straży Granicznej, na której stanie znajduje się zwierzę, albo kierownik jednostki organizacyjnej Straży Granicznej wskazanej przez Komendanta Głównego Straży Granicznej może powierzyć opiekę nad psem służbowym wycofanym z użycia lub koniem służbowym wycofanym z użycia organizacji społecznej, której statutowym celem działania jest ochrona zwierząt. służbowego.
 
 11. Opiekunem psa służbowego wycofanego z użycia lub konia służbowego wycofanego z użycia nie może zostać opiekun, któremu odebrano zwierzę z powodów, o których mowa art. 147zg ust. 1 pkt 1 lub 2. Do organizacji, o której mowa ust. 9, zdanie pierwsze stosuje się.
 
@@ -4003,7 +4007,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy o Straży Granicznej
 - **5)** powierzenia opieki nad psem służbowym lub koniem służbowym innemu opiekunowi, o którym mowa art. 147zg ust. 3 albo 4;
 - **6)** korzystania przez zwierzę trakcie odbywania szkolenia z wyżywienia naturze.
 
-7. W sprawach, o których mowa ust. 3–6, właściwy jest kierownik jednostki organizacyjnej Straży Granicznej, na której stanie znajduje się zwierzę. cofanego z użycia poddaje się zabiegom profilaktycznym i leczeniu według wskazań lekarza weterynarii. Leczenie psa służbowego, konia służbowego, psa służbowego wycofanego z użycia lub konia służbowego wycofanego z użycia następuje po uprzednim uzgodnieniu z kierownikiem jednostki organizacyjnej Straży Granicznej, na której stanie znajduje się zwierzę, lub z osobą przez niego upoważnioną.
+7. W sprawach, o których mowa ust. 3–6, właściwy jest kierownik jednostki organizacyjnej Straży Granicznej, na której stanie znajduje się zwierzę. służbowego, konia służbowego, psa służbowego wycofanego z użycia lub konia służbowego wycofanego z użycia następuje po uprzednim uzgodnieniu z kierownikiem jednostki organizacyjnej Straży Granicznej, na której stanie znajduje się zwierzę, lub z osobą przez niego upoważnioną.
 
 2. W sytuacjach nagłych, wymagających udzielenia natychmiastowej pomocy lekarsko-weterynaryjnej celu ratowania życia lub zdrowia psa służbowego, konia służbowego, psa służbowego wycofanego z użycia lub konia służbowego wycofanego z użycia dopuszcza się możliwość odstąpienia od uzgodnienia zakresu udzielanej pomocy z kierownikiem jednostki organizacyjnej Straży Granicznej, na której stanie znajduje się zwierzę, lub z osobą przez niego upoważnioną.
 
@@ -4102,7 +4106,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy o Straży Granicznej
 
 6. Funkcjonariuszowi służbie kandydackiej przysługuje okresie tej służby prawo do płatnego urlopu wypoczynkowego wymiarze łącznie 20 dni kalendarzowych.
 
-7. Funkcjonariuszowi służbie kandydackiej przysługuje zwrot kosztów podróży na trasie od stałego miejsca pełnienia służby do miejscowości stanowiącej cel podróży i z powrotem. niach opieki zdrowotnej finansowanych ze środków publicznych, ma prawo wyboru:
+7. Funkcjonariuszowi służbie kandydackiej przysługuje zwrot kosztów podróży na trasie od stałego miejsca pełnienia służby do miejscowości stanowiącej cel podróży i z powrotem.
 
 - **1)** lekarza podstawowej opieki zdrowotnej, pielęgniarki podstawowej opieki zdrowotnej lub położnej podstawowej opieki zdrowotnej, rozumieniu ustawy z dnia 27 października 2017 r. o podstawowej opiece zdrowotnej (Dz. U. z 2025 r. poz. 515),
 - **2)** świadczeniodawcy udzielającego ambulatoryjnych świadczeń specjalistycznych,

@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# Warszawa, 17 września 2024 OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z 11 września 2024 sprawie ogłoszenia jednolitego tekstu ustawy o ekwiwalencie pieniężnym z tytułu prawa do dla osób uprawnionych z przedsiębiorstw robót górniczych
+# MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 11 września 2024 sprawie ogłoszenia jednolitego tekstu ustawy o ekwiwalencie pieniężnym z tytułu prawa do dla osób uprawnionych z przedsiębiorstw robót górniczych
 
 | Pole | Wartość |
 |---|---|
@@ -24,13 +24,13 @@ domain: null
 | Ostatnia zmiana | 2024-09-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001376) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1376/text.pdf) |
 
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z 20 lipca 2000 o ogłaszaniu aktów normatywnych niektórych innych aktów prawnych (Dz. U. z 2019 poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z 6 lipca 2007 o ekwiwalencie pieniężnym z tytułu prawa do dla osób uprawnionych z przedsiębiorstw robót górniczych (Dz. U. z 2022 poz. 406), z uwzględnieniem zmiany wprowadzonej ustawą z 15 maja 2024 o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 834) oraz zmian wynikających z przepisów ogłoszonych przed dniem 10 września 2024
-2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 84 ustawy z 15 maja 2024 o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 834), który stanowi: „Art. 84. Ustawa wchodzi życie pierwszego miesiąca następującego po miesiącu ogłoszenia, z wyjątkiem:
+1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 o ogłaszaniu aktów normatywnych niektórych innych aktów prawnych (Dz. U. z 2019 poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 6 lipca 2007 o ekwiwalencie pieniężnym z tytułu prawa do dla osób uprawnionych z przedsiębiorstw robót górniczych (Dz. U. z 2022 poz. 406), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 15 maja 2024 o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 834) oraz zmian wynikających z przepisów ogłoszonych przed dniem 10 września 2024
+2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 84 ustawy z dnia 15 maja 2024 o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 834), który stanowi: „Art. 84. Ustawa wchodzi życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia, z wyjątkiem:
 1) art. 65 ust. 2 art. 73 ust. 2, które wchodzą życie z dniem ogłoszenia;
 2) art. 47 art. 82, które wchodzą życie z dniem następującym po dniu ogłoszenia.”.
 Marszałek Sejmu: S. Hołownia
 
-**Art. 1.** Ustawa określa zasady sposób realizacji uprawnienia do ekwiwalentu pieniężnego z tytułu prawa do bezpłatnego węgla, zwanego dalej „ekwiwalentem”, przysługującego osobom uprawnionym z przedsiębiorstw robót górniczych od 1 stycznia 2002
+**Art. 1.** Ustawa określa zasady sposób realizacji uprawnienia do ekwiwalentu pieniężnego z tytułu prawa do bezpłatnego węgla, zwanego dalej „ekwiwalentem”, przysługującego osobom uprawnionym z przedsiębiorstw robót górniczych od dnia 1 stycznia 2002
 
 **Art. 2.** Użyte ustawie określenia oznaczają:
 
@@ -52,7 +52,7 @@ Marszałek Sejmu: S. Hołownia
 
 2. Za rok 2002 cenę zbytu 1 Mg kamiennego asortymencie Orzech II ustala się na podstawie ceny zbytu 1 Mg kamiennego asortymencie Orzech II z roku 2006.
 
-3. Za lata następne minister właściwy do spraw gospodarki surowcami energetycznymi, terminie do 20 stycznia każdego roku, ustala ogłasza, formie obwieszczenia, Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, przeciętną średnioroczną cenę zbytu 1 Mg kamiennego asortymencie Orzech, z roku poprzedzającego rok, którym ekwiwalent ma być wypłacany, skorygowaną o przewidywany wskaźnik wzrostu cen towarów usług konsumpcyjnych na rok planowany.
+3. Za lata następne minister właściwy do spraw gospodarki surowcami energetycznymi, terminie do dnia 20 stycznia każdego roku, ustala ogłasza, formie obwieszczenia, Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, przeciętną średnioroczną cenę zbytu 1 Mg kamiennego asortymencie Orzech, z roku poprzedzającego rok, którym ekwiwalent ma być wypłacany, skorygowaną o przewidywany wskaźnik wzrostu cen towarów usług konsumpcyjnych na rok planowany.
 
 **Art. 6.** W przypadku gdy prawo do emerytury lub renty powstało trakcie miesiąca, ekwiwalent wypłaca się za pełny miesiąc.
 
@@ -81,10 +81,10 @@ Marszałek Sejmu: S. Hołownia
 
 6. Ekwiwalent jest wypłacany:
 
-- **1)** za lata 2002–2009 terminie 2 miesięcy od zgłoszenia wniosku za dany okres;
+- **1)** za lata 2002–2009 terminie 2 miesięcy od dnia zgłoszenia wniosku za dany okres;
 - **2)** za lata 2010–2015 terminie do końca I kwartału roku, którym ekwiwalent ma zostać wypłacony;
 - **2a)** za rok 2016 kolejne lata terminie do końca I kwartału roku, którym ekwiwalent ma zostać wypłacony, odpowiednio za dany rok;
-- **3)** przypadku składania wniosku o wypłatę ekwiwalentu po raz pierwszy terminie 2 miesięcy od zgłoszenia wniosku.
+- **3)** przypadku składania wniosku o wypłatę ekwiwalentu po raz pierwszy terminie 2 miesięcy od dnia zgłoszenia wniosku.
 
 7. W przypadku wypłaty przez ZUS ekwiwalentu na wniosek, o którym mowa ust. 1–4, ekwiwalent następnych latach wypłaca się bez konieczności złożenia kolejnych wniosków o jego wypłatę.
 
@@ -94,7 +94,7 @@ Marszałek Sejmu: S. Hołownia
 
 2. Osoby, o których mowa ust. 1, mają prawo do udziału postępowaniu o wypłatę ekwiwalentu, nieukończonym wskutek śmierci osoby, która wystąpiła o wypłatę ekwiwalentu.
 
-3. Roszczenia, o których mowa ust. 1, wygasają po upływie 12 miesięcy od śmierci osoby, której ekwiwalent przysługiwał, chyba że przed upływem tego okresu zgłoszony zostanie wniosek o prowadzenie postępowania tym zakresie.
+3. Roszczenia, o których mowa ust. 1, wygasają po upływie 12 miesięcy od dnia śmierci osoby, której ekwiwalent przysługiwał, chyba że przed upływem tego okresu zgłoszony zostanie wniosek o prowadzenie postępowania tym zakresie.
 
 **Art. 9.**
 
@@ -108,5 +108,5 @@ Marszałek Sejmu: S. Hołownia
 
 **Art. 12.** (uchylony)
 
-**Art. 13.** Ustawa wchodzi życie po upływie 14 dni od ogłoszenia .
+**Art. 13.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia .
 

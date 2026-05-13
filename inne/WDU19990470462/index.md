@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# o zmianie ustawy o
+# w sprawie trybu przeprowadzania konkursu na członków odwoławczego.
 
 | Pole | Wartość |
 |---|---|
@@ -23,7 +23,46 @@ domain: null
 | Ostatnia zmiana | 2014-12-31 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990470462) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1999/462/text.pdf) |
 
-**Art. 1.** W ustawie dnia 23 listopada 1990 r. o (Dz. U. 1995 r. 117, poz. 564, 1996 r. 106, poz. 496, 1997 r. 43, poz. 272, 88, poz. 554, 106, poz. 675, 121, poz. 770 137, poz. 926 oraz 1998 r. 137, poz. 887 150, poz. 984) wpro wadza zmiany:
-
-**Art. 2.** Ustawa wchodzi po 14 dni od dnia Prezydent Rzeczypospolitej Polskiej: A. PREZESA RADY MINISTRÓW dnia 18 maja 1999 r. sprawie trybu przeprowadzania konkursu na kolegium Na podstawie art. 8 ust. 5 ustawy dnia 12 dziernika 1994 r. o kolegiach odwo (Dz. U. 122, poz. 593, 1995 r. 74, poz. 368, 1997 98, poz. 604 oraz 1998 r. 106, poz. 679 162, poz. 1124) co puje: 1. 1. Kandydatów na kolegium zwanych dalej "kandydata mi", drodze konkursu komisja konkursowa, o której mowa wart. 8 ust. 3 ustawy dnia 12 nika 1994 r. o kolegiach czych (Dz. U. 122, poz. 593, 1995 r. 74, poz. 368, 1997 r. 98, poz. 604 oraz 1998 r. 106, poz. 679 162, poz. 1124), zwana dalej 2. dla konkursowego celu nowych kolegium zwanego dalej "kolegium". 3. Konkurs prezes kolegium dzienniku o ogólnokrajowym. Wzór o konkur sie stanowi do 2. 1. Pracom komisji przewodniczy prezes kole gium. 2. Komisja rozpoczyna nie gu 14 dni od dnia terminu ofert, o konkursie. 3. Prace komisji prowadzone wszystkich jej 3. 1. Komisja orzeka, po zapoznaniu doku mentami przez kandydatów po przeprowa dzeniu nimi rozmowy, czy oni kryteria okre o konkursie. 2. Komisja odrzuca, bez ich rozpatrzenia, oferty nie o konkursie lub po terminu ofert. 3. Rozmowa kandydatami poprzedzona przeprowadzeniem testu procedury prawa administracyjnego. 4. nad kandydatami jest jawne. 5. Wyboru kandydatów dokonuje W przypadku równej liczby o decyduje przewod 6. komisji o przedstawieniu odmowie przedstawienia kandydata zgromadzeniu ogólnemu kolegium jest ostateczne. 7. O wynikach konkursu zawiadamia kandyda tów pisemnie. odmówiono przedstawienia zgromadzeniu ogólnemu kolegium, po konkursowe go. 5. komisji przedsta wia zgromadzeniu ogólnemu kolegium kandydakolegiów (Dz. U. 140, poz. 781). 7. wchodzi po 14 dni od dnia Prezes Rady Ministrów: J. Buzek WZÓR OGŁOSZENIA O KONKURSIE Prezes Kolegium .................................. . konkurs na kandydatów na kolegium I. Kandydaci do konkursu na kolegium powinni kryteria:
+Na podstawie art. 8 ust. 5 ustawy z dnia 12 października 1994 odwoławczych (Dz.U. Nr 122, poz. 593, z 1995 r. Nr 74, poz.
+oraz z 1998 r. Nr 106, poz. 679 i Nr 162, poz. 1124) zarządza § 1.
+1. Kandydatów na członków samorządowego kolegium „kandydatami”, wyłania w drodze konkursu komisja 8 ust. 3 ustawy z dnia 12 października 1994 r. o samorządowych odwoławczych (Dz.U. Nr 122, poz. 593, z 1995 r. Nr 604 oraz z 1998 r. Nr 106, poz. 679 i Nr 162, poz. 1124),
+2. Komisję powołuje się dla każdego postępowania konkursowego nowych członków samorządowego kolegium odwoławczego, „kolegium”.
+3. Konkurs ogłasza prezes kolegium w dzienniku o zasięgu ogłoszenia o konkursie stanowi załącznik do rozporządzenia.
+§ 2.
+1. Pracom komisji przewodniczy prezes kolegium.
+2. Komisja rozpoczyna prace nie później niż w ciągu 14 składania ofert, określonego w ogłoszeniu o konkursie.
+3. Prace komisji są prowadzone w obecności wszystkich § 3.
+1. Komisja orzeka, po zapoznaniu się z dokumentami złożonymi przeprowadzeniu z nimi rozmowy, czy spełniają oni kryteria konkursie.
+2. Komisja odrzuca, bez ich rozpatrzenia, oferty nie spełniające ogłoszeniu o konkursie lub złożone po upływie terminu
+3. Rozmowa z kandydatami może być poprzedzona przeprowadzeniem sprawdzającego znajomość procedury i prawa administracyjnego.
+4. Głosowanie nad kandydatami jest jawne.
+5. Wyboru kandydatów dokonuje się zwykłą większością liczby głosów o rozstrzygnięciu głosowania decyduje
+6. Rozstrzygnięcie komisji o przedstawieniu bądź odmowie zgromadzeniu ogólnemu kolegium jest ostateczne.
+7. O wynikach konkursu zawiadamia się kandydatów pisemnie.
+§ 4.
+1. Z prac komisji i głosowania sporządza się protokół, który komisji.
+2. Kandydaci mają prawo wglądu do protokołu, o którym
+3. Komisja zwraca dokumenty kandydatom, którym odmówiono zgromadzeniu ogólnemu kolegium, po zakończeniu postępowania § 5.
+Przewodniczący komisji niezwłocznie przedstawia zgromadzeniu kandydatów na członków kolegium do zaopiniowania, nie rozstrzygnięcia, o którym mowa w § 3 ust. 5.
+§ 6.
+Traci moc rozporządzenie Prezesa Rady Ministrów z dnia przeprowadzenia konkursu na członków samorządowych kolegiów 140, poz. 781).
+§ 7.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia WZÓR OGŁOSZENIA O KONKURSIE Prezes Samorządowego Kolegium Odwoławczego w ..............................................
+ogłasza konkurs na kandydatów na członków samorządowego I. Kandydaci przystępujący do konkursu na członków następujące kryteria:
+1) etatowy członek kolegium:
+a) posiadanie obywatelstwa polskiego i korzystanie
+b) ukończenie magisterskich studiów prawniczych
+c) wykazywanie się wysokim poziomem administracji publicznej oraz doświadczeniem
+d) brak skazania prawomocnym wyrokiem sądu, popełnione z winy umyślnej,
+2) pozaetatowy członek kolegium:
+a) posiadanie wykształcenia wyższego,
+b) pozostałe kryteria jak w pkt 1 lit. a) , c) i d).
+II. Oferty kandydatów powinny zawierać:
+1) uzasadnienie przystąpienia do konkursu,
+2) kwestionariusz osobowy,
+3) życiorys z opisem przebiegu pracy zawodowej,
+4) odpis dyplomu oraz inne dokumenty potwierdzające zawodowe.
+Oferty wraz z dokumentami kandydaci powinni składać w kopertach z dopiskiem: KONKURS NA CZŁONKÓW SAMORZĄDOWEGO ODWOŁAWCZEGO pod adresem: Samorządowe Kolegium Odwoławcze w.................................................................................
+ul.................................................................................
+Termin składania ofert – 14 dni od daty ukazania się ogłoszenia.
 

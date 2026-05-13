@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 17 sierpnia 2015 r.
+# o zmianie ustawy – Kodeks postępowania karnego
+
+*USTAWA z dnia 12 czerwca 2015 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +25,6 @@ domain: null
 | Data wydania | 2015-08-17 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001185) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1185/text.pdf) |
-
-Poz. 1185
-USTAWA z dnia 12 czerwca 2015 r.
-o zmianie ustawy – Kodeks postępowania karnego
 
 **Art. 1.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. Nr 89, poz. 555, z późn. zm. ) w art. 426 § 2 otrzymuje brzmienie: „§ 2. Od postanowienia o zastosowaniu tymczasowego aresztowania wydanego na skutek zażalenia, a także od wydanego w toku postępowania odwoławczego postanowienia o przeprowadzeniu obserwacji, zastosowaniu środka zapobiegawczego, nałożeniu kary porządkowej oraz w przedmiocie kosztów procesu, o których po raz pierwszy orzekał sąd odwoławczy, przysługuje zażalenie do innego równorzędnego składu sądu odwoławczego.”.
 

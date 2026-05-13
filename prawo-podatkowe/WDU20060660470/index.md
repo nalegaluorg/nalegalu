@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# o zmianie ustawy o ustanowieniu programu wieloletniego ŃWyposażenie Sił Zbrojnych Rzeczypospolitej Polskiej samoloty wielozadaniowe” zapewnieniu warunków jego realizacji
+# o zmianie ustawy o kontroli skarbowej oraz ustawy – Ordynacja podatkowa
+
+*USTAWA z dnia 24 lutego 2006 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,19 +26,13 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060660470) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/470/text.pdf) |
 
-**Art. 1.** Wustawie zdnia 22 czerwca 2001 ousta- skiej sprzęt, o którym mowa art. nowieniu programu wieloletniego ŃWyposażenie Sił pkt 1.”; Zbrojnych Rzeczypospolitej Polskiej samoloty wielozadaniowe” zapewnieniu warunków jego realizacji 2) po dodaje się 2a brzmieniu: (Dz. U. 89, 972, 2002 37, 332 oraz Ń2a. Limit, o którym mowa zdanie pierw2003 46, 393) art. 3: sze, od dnia 1 stycznia 2006 zwiększa się
+**Art. 1.** W ustawie z dnia 28 września 1991 r. o kontroli skarbowej (Dz. U. z 2004 r. Nr 8, poz. 65, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 1.** Wustawie zdnia 29 lipca 2005 oprzeciw- niczych lub środków odurzających o działaniu działaniu narkomanii (Dz. U. 179, 1485) agonistycznym na receptor opioidowy;”. art. 4 pkt 7 otrzymuje brzmienie:
+**Art. 2.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 2.** Ustawa wchodzi wżycie zdniem ogłoszenia. Ń7) leczenie substytucyjne stosowanie, ramach programu leczenia uzależnienia, produktów lecz- Prezydent Rzeczypospolitej Polskiej: L. Kaczyński USTAWA dnia 24 lutego 2006 o zmianie ustawy o kontroli skarbowej oraz ustawy Ordynacja podatkowa
+**Art. 3.** Do postępowań kontrolnych wszczętych przed dniem wejścia życie niniejszej ustawy przez Generalnego Inspektora Kontroli Skarbowej na podstawie art. 13a ustawy wymienionej art. 1 stosuje się, do czasu zakończenia tych postępowań, art. 10 ust. 2 pkt 7 i art. 24a tej ustawy brzmieniu dotychczasowym.
 
-**Art. 1.** Wustawie zdnia 28 września 1991 okontroli skarbowej (Dz. U. 2004 8, 65, póên. zm. przeprowadzania czynności kontrolnych poza obszarem terytorialnego zasięgu działania da) wprowadza się następujące zmiany: nego urzędu;”;
+**Art. 4.** Przepis art. 181 ustawy wymienionej art. 2, brzmieniu nadanym niniejszą ustawą, stosuje się również do materiałów zgromadzonych przed dniem wejścia życie niniejszej ustawy toku postępowania karnego albo postępowania sprawach o przestępstwa skarbowe lub wykroczenia skarbowe, które nie zostały prawomocnie zakończone.
 
-**Art. 3.** Do postępowań kontrolnych wszczętych
-
-**Art. 5.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński 471 USTAWA dnia 24 lutego 2006 o zmianie ustawy o zatrudnianiu osób pozbawionych wolności
-
-**Art. 1.** W ustawie dnia 28 sierpnia 1997 o za- 2) po art. 8 dodaje się art. 8a brzmieniu: trudnianiu osób pozbawionych wolności (Dz. U. 123, 777, 2003 202, 1957 oraz ŃArt. 8a. Zwolnienia określone wart. 6 oraz pomoc 2004 273, 2703) wprowadza się następują- ze środków Funduszu Rozwoju nie przyce zmiany: sługują przywięziennym zakładom pracy, określonym art. 3 pkt 1 2, które
-
-**Art. 2.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 5.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia.
 

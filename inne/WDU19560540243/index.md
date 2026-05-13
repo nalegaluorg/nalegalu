@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# Dziennik Ustaw Nr 54 Poz.
+# o odpowiedzialności Państwa za szkody wyrządzone przez funkcjonariuszów państwowych 1–5. (uchylone).
+
+*USTAWA z dnia 15 listopada 1956 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,29 +26,21 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19560540243) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1956/243/text.pdf) |
 
-----~------------------------~~~ 243 U ST A W A.
-z dnia 15 listopada 1956 r.
-o za szkody przez funkcjonariuszów
-
-**Art. 1.** Państwo odpowiada za przez funkcjonariusza przy wykonywaniu powierzonej mu
-
-**Art. 2.** Funkcjonariuszami w rozumie niu niniejszej ustawy pracownicy organów admini stra.cji lub gospodarki nie biorstw ' 2. Za funk,cjonariuszy os,oby na zlecenie tych organów, osoby wyooru; i pi:okuratorów oraz zbrojnych.
-
-**Art. 3.** Do stosuje przepi sy prawa cywilnego.
-
-**Art. 4.** 1,. szkoda na skutek wydania orzeczen.ia lub odpowiada tyl ko wówczas, gdy -przy wydaniu orzeczenia lub naruszenie prawa w trybie karnego lub dyscyplinarnego, a wina sprawcy szkody stwierdzona w wyroku karnym lub orzeczeniu dyscypHnar nym aibo uznana przez organ nad szkody. 2. Brak stwierdzenia winy w wyroku karnym lub .orze czeniu dyscyplinarnym nie wyklucza stwa , lub prowadzeniu karnego albo dyscyplinarnego stoi na przeszkodzie Art. Poszkodowanemu może przyznane lub wynagrodzenie nawet w razie braku podstaw przepisów prawa cywilne go, wskutek pracownika uszkodzenia lub rozstroju zdrowia a1bo a za naprawieniem szkody poszkodowanego do pracy lub jego kie materialne.' . ' Art: 6. 1. dotychczasowych przepisów nie za przed dniem w ustawy, poszkodowany od Pai15twa wynagrodzenia nie w roku od tego dnia. 2. Wynagrodzenia szkody w ust. 1 nie od roszczenie dniu ustawy w przedawnione przy trzyletniego okresu przedawnienia, a dla o wynagro dzenie za uszkodzenie rozstrój zdrowia lub ciela - przy okresu w przy padku gdy szkoda ze zbrodni lub
-
-**Art. 1.** Przepisów nie stosuje do unormowanej w przepisach szczególnych.
-
-**Art. 8.** Jeżeli szkoda przez pracowni ka lub innej organizacji stwowej odpowiedzial w ponosi ta or ganizacja.
-
-**Art. 9.** W kodeksie karnego wprowadza zmiany:
-
-**Art. 10.** W kodeksie wojskowego karnego tytule dodaje wyrazy ,.oraz szkodowanie za skazanie lub i wpro wadza nowy art. 303 w brzmieniu: "Art. 303 1. Do odszkodowania za skazanie lub w wojskowym stosuje odpowiednio przepisy art. 510 do 518 kodeksu postępowania karnego. ' 2. Żąda~ie odszkodowania należy zgłosić w sądzie wojskowego lub w dzie Wcjskowym, on w I instancji."
-
-**Art. 11.** W sprawtl,ch, które przekazane na pod stawie przepisów ustawy z dnia 5 kwietnia 1955 r. (Dz. U. Nr 15, poz. 83) do powszechnych, odszkodowania do wojewódzkiego, w któ tego siedziba wojskowego, który w pierwszej instancji.
-
-**Art. 12.** Jednoroczny termin przewidziany w przepisach karnego dla dochodzenia o odszkodo wanie za skazanie lub biegnie od dnia niniejszej ustawy w uprawomocnienie orzeczema do odszkodow,ania lub zwolnie nie z tymczasowego aresztu przed tym terminem, jednak nie dawniej trzy lata wstecz, a gdy szkoda polega na uszkodzeniu rozstroju zdrowia lub utracie i ze zbrodni lub - ' nie dawniej 10 lat wstecz.
-
-**Art. 13.** Ustawa wchodzi w z dniem Rady Zawadzki SE:kretarz Rady St. Sklzeszewski
+6. 1. Jeżeli według dotychczasowych przepisów Państwo nie ponosiło odpowiedzialności za szkodę wyrządzoną przed dniem wejścia w życie ustawy, poszkodowany może dochodzić od Państwa wynagrodzenia nie później niż w ciągu roku od tego dnia.
+2. Wynagrodzenia szkody określonej w ust. 1 nie można dochodzić od Państwa, jeżeli roszczenie byłoby już w dniu wejścia ustawy w życie przedawnione przy uwzględnieniu trzyletniego okresu przedawnienia, a dla roszczeń o wynagrodzenie za uszkodzenie ciała, rozstrój zdrowia lub utratę żywiciela – przy uwzględnieniu okresu dziesięcioletniego, w przypadku gdy szkoda wynikła ze zbrodni lub występku.
+7. (uchylony).
+8. (uchylony).
+9. kodeksie postępowania karnego wprowadza się następujące zmiany:
+1) w art. 510 § 1 po wyrazach „wznowienia postępowania” dodaje się wyrazy „lub rewizji nadzwyczajnej”,
+2) w art. 510 § 2 otrzymuje brzmienie: „§ 2. To samo stosuje się do osób, względem których postępowanie karne umorzono po jego wznowieniu lub po uchyleniu wyroku skazującego na skutek rewizji nadzwyczajnej, jeżeli umorzenie nastąpiło z powodu nieuwzględnienia w pierwotnym postępowaniu okoliczności wyłączającej ściganie.”,
+3) w art. 510 dodaje się nowy § 3 w brzmieniu: „§ 3. Wynagrodzenia określonego w § 1 może również żądać osoba, która oczywiście bezzasadnie została pozbawiona wolności przez tymczasowe aresztowanie.”,
+4) art. 511 uchyla się,
+5) w art. 513 § 1 i § 2 wyrazy „trzech miesięcy” zastępuje się wyrazem „roku”, a w § 1 kropkę po wyrazie „odszkodowanie” zastępuje się przecinkiem i dodaje się po nim wyrazy „a w przypadku określonym w art. 510 § 3 – w ciągu roku od dnia zwolnienia z tymczasowego aresztu.”,
+6) w art. 514 po wyrazie „instancji” kropkę zastępuje się przecinkiem i dodaje się po nim wyrazy „a w przypadku określonym w art. 510 § 3 w sądzie wojewódzkim właściwym ze względu na miejsce, w którym nastąpiło zwolnienie z tymczasowego aresztu.”,
+7) art. 515 otrzymuje brzmienie: „Art. 515. Sąd wojewódzki orzeka po przeprowadzeniu rozprawy.”.
+10. kodeksie wojskowego postępowania karnego w tytule rozdziału IV działu XI dodaje się wyrazy „oraz odszkodowanie za niesłuszne skazanie lub oskarżenie” i wprowadza się nowy art. 3031 w brzmieniu: „Art. 3031. §1. Do odszkodowania za niesłuszne skazanie lub oskarżenie w sądzie wojskowym stosuje się odpowiednio przepisy art. 510 do 518 kodeksu postępowania karnego.
+§2. Żądanie odszkodowania należy zgłosić w sądzie okręgu wojskowego (równorzędnym) lub Najwyższym Sądzie Wojskowym, jeżeli rozpoznawał on sprawę w I instancji.”.
+11. sprawach, które zostały przekazane na podstawie przepisów ustawy z dnia 5 kwietnia 1955 r. (Dz. U. Nr 15, poz. 83) do właściwości sądów powszechnych, żądanie odszkodowania należy zgłosić do sądu wojewódzkiego, w którego okręgu znajdowała się siedziba sądu wojskowego, który rozpoznawał sprawę w pierwszej instancji.
+12. Jednoroczny termin przewidziany w przepisach postępowania karnego dla dochodzenia roszczeń o odszkodowanie za niesłuszne skazanie lub oskarżenie biegnie od dnia wejścia niniejszej ustawy w życie, jeżeli uprawomocnienie się orzeczenia dającego podstawę do odszkodowania lub zwolnienia z tymczasowego aresztu nastąpiło przed tym terminem, jednak nie dawniej niż trzy lata wstecz, a gdy szkoda polega na uszkodzeniu ciała, rozstroju zdrowia lub utracie żywiciela i wynikła ze zbrodni lub występku – nie dawniej niż 10 lat wstecz.
+13. Ustawa wchodzi w życie z dniem ogłoszenia.
 

@@ -10,7 +10,9 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# ·DZ·IENNIK · POL,SKIEJ RZECZYPOSPOLITEJ LubOWEJ , Warszawa, dnia 7 lutego 1984 r. Nr 5 z 24 ,
+# Prawo prasowe
+
+*USTAWA z dnia 26 stycznia 1984 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,144 +26,438 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19840050024) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1984/24/text.pdf) |
 
-USTAWA z dnia stycznia r., Prawo prasowe.
-Przepisy ogólne,
+#### Rozdział 1 Przepisy ogólne
 
-**Art. 1.** _ Prascl kOlzysta zgodnie z . Pol skiej Rzeczypospolitej Ludowej z i druku, realizuje prawo obywateli do informacJi' i na bieg spraw publicznych, umacnia kOl1Stytucyjny ustrój Polskiej Ludowej, a
+**Art. 1.** Prasa, zgodnie z Konstytucją Rzeczypospolitej Polskiej, korzysta z wolności wypowiedzi i urzeczywistnia prawo obywateli do ich rzetelnego informowania, jawności życia publicznego oraz kontroli i krytyki społecznej.
 
-**Art. 3.** Pracownik poligrafii oraz nie ani jakikol.wiek inny sposób dru kowania i nabywania' przez do druku i rozpowszechniania dzienników, czasopism,, lub innych pub.likacji -prasowych z powodu ich linii programowej -albo . ,
+**Art. 2.** Organy państwowe zgodnie z Konstytucją Rzeczypospolitej Polskiej stwarzają prasie warunki niezbędne do wykonywania jej funkcji i zadań, w tym również umożliwiające działalność redakcjom dzienników i czasopism zróżnicowanych pod względem programu, zakresu tematycznego i prezentowanych postaw.
+
+**Art. 3.** Pracownik poligrafii oraz kolportażu nie może ograniczać ani w jakikolwiek inny sposób utrudniać drukowania i nabywania przyjętych przez przedsiębiorstwo do druku i rozpowszechniania dzienników, czasopism lub innych publikacji prasowych z powodu ich linii programowej albo treści.
+
+**Art. 3a.** W zakresie prawa dostępu prasy do informacji publicznej stosuje się przepisy ustawy z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. z 2018 r. poz. 1330 i 1669).
 
 **Art. 4.**
 
-1. Organy pali ,twowe \ i inne pal1stwowe jepnostki organizacyjne, a· -zakresie or!}i" ' Ilb;acje i osoliy gosna rachunek do nia informacji o swojej
+1. Przedsiębiorcy i podmioty niezaliczone do sektora finansów publicznych oraz niedziałające w celu osiągnięcia zysku są obowiązane do udzielenia prasie informacji o swojej działalności, o ile na podstawie odrębnych przepisów informacja nie jest objęta tajemnicą lub nie narusza prawa do prywatności.
 
-2. Odmowa udzielenia informacji jedy" nie ze wzglę<,iu na ochronę tajenmicy państwowej i Iłu*", bowej oraz' innej taJemnicy chronionej
+2. (uchylony)
 
-3. Na redaktora naczelnego zainteresowanej retlakcji formie pi;;emnej, tei minie trzech dni; odmowa powinna oznaczenf. organu, jednostki organizacyjnej lub osoby, od której pochodzi. jej udzielenia, której dotyczy, informacji jej przedmiotem oraz wody odmowy. '
+3. W przypadku odmowy udzielenia informacji, na żądanie redaktora naczelnego, odmowę doręcza się zainteresowanej redakcji w formie pisemnej, w terminie trzech dni; odmowa powinna zawierać oznaczenie organu, jednostki organizacyjnej lub osoby, od której pochodzi, datę jej udzielenia, redakcję, której dotyczy, oznaczenie informacji będącej jej przedmiotem oraz powody odmowy.
 
-4. o której mowa ust. 3, niezach()ol wanie wymogów tym przepisie do Naczelnego Administracyjnego ter. . minie przed stosuje odpowiednio' przepisy Kodeksu str acyjnego o do decyzji administr. .. cyjnych. 5, Przepisy ust, 1-4 s,tosuje odpowiednio do zawodowych. organizacji i innych organizacji zakresie . zleconych im sferze administracji oraz fnneJ podobnej ..- publicznej, ,
+4. Odmowę, o której mowa w ust. 3, lub niezachowanie wymogów określonych w tym przepisie, można zaskarżyć do sądu administracyjnego w terminie 30 dni; w postępowaniu przed sądem stosuje się odpowiednio przepisy o zaskarżaniu do sądu decyzji administracyjnych.
 
-6. Przepisy ust. 3 i 4 nie organów i wymiaru ,
+5. (uchylony)
+
+6. (uchylony)
 
 **Art. 5.**
 
-1. obywatel. zgodnie z wol i prawem do krytyki, infor macji 'prasie. 2, Nikt nie na uszczerbek lub zarzut z powodu udzielenia informacji dzia granicach prawem 'dozwolonych;
+1. Każdy, zgodnie z zasadą wolności słowa i prawem do krytyki, może udzielać informacji prasie.
 
-**Art. 6.** Prasa m'a. prawQ do przedstawiania 'tyki wszelkich ujemnych zjawisk, granicach nych prawem 'i zasadami Prasa z do prawc 7iwego 'przed stawiania omawianych zjawisk, ; int,eresami i Dziennik Ustaw Nr 5 --' 46 ,Poz. 24 i socjalistycznego, jak przestrzegania i ,?chrorty praw i obywa telskich. ' .Organy I inne panstwo'we jednostki ..Qrganizacyjne oraz organi tacje do udzielenia odpo wiedzi na im ,bez nie jednak nii Przepis ust. stosuje odpowiednio do ków zawodowych, organizacji i innych organizacji zakresie 'prowadzonej , przez nie publicznej. ., ,t Nie wolno prasie zbierania krytycznych ani inny, sposób krytyki.
+2. Nikt nie może być narażony na uszczerbek lub zarzut z powodu udzielenia informacji prasie, jeżeli działał w granicach prawem dozwolonych.
 
-**Art. 7.** 1: Ustaw,p reguluje wy i 2. W r<fZumieniu ustawy: Organizacja polityczna, zwi~zek zawodoWy. prze'd-" panst wowe, organizacja dowa i inna organizacja oraz inny wyznaniowy upra\\l'l'Iienia. wy_.' dawnicze lub za wydaw nictw- jak innych wydawnictw, dziajako na . Art. 9. Przepisów ninil:ijs7.ej ustawy. nie st9suje do:
+**Art. 6.**
 
-**Art. 11.** Dziennikarz jest uprawniony do uzyski ' wania informacji zakresie, o którym mowa .w art. 4. 2. Informacji imienip jednostek organizacyjnyc,h kierO'wnicy tych jednostek, ich rzecznicy prasowi lub-inne osqby, 'w granicach powierzonych im . tym kresie. 3. KierO'wnicy jednO'stek organizacyjnych ooowillzani dzien'nfkarzom kontaktu z pra cownikamioraz swobodne zbieranie ,nich' infor : rnacji opinii. Rada Ministrów, drodze tryb prasie informacji oraz zadania ,w. tym p,rasowych o"T'ltanow aómmlslracJl . Art.' Dzienni-karz jest przy zbieraniu i wykorzystal!iu prasowych..' z uzyskanych
+1. Prasa jest zobowiązana do prawdziwego przedstawiania omawianych zjawisk.
 
-**Art. 8.** lub , Wydawcą prawI,la, fizyczna. l'ub inna~jednostka' organ,izacyjna. . ch~by nie p.osia- /2) chr'imić dobra O'sobiste. a ponag~o 'interesy działajq. W . ; cych dO'brej wierze· informatorów. i innych osób, dała osobowo pra")o'11e~ ' ...•... s'ltZególnof.ci .... wydawcą które kierując się ' dobrem społecznym O'kazują mu' może być 'Qr.ganpaństwowy, 'przeds.f.ębior.stw,Q pa.. ń!>t. W we, . :org .. polityczna, zaWodOWY,. ,'O'rganizacja zaufanie. Inna organizacja f;JIU inny - wyznaniowy . . ' ;}," . 2, 'Ozle'nnikarzpwi nie wolnO' ukrytej taJności H!kJamowej wi'ążącej się z uzyskaniem korzyśd ,Dziennik Ustaw Nr 5 --------------------------osobistej od osoby lub jedJlostki orga· nizacyjnej zainterespwanej " , , Art. )3. L Nie wojno prasie opinii co do' przed wydaniem orzeczenia I instancji. 2. Nie wolno prasie danych wych i osób. przeciwko którym toczy po lub jak danych osobowych i wizerunku pokrzywdzo i chyba osoby te na. · to . 3: Ograniczenie. o któryąl mo-v':ił u·sŁ. 2. nie naru sza 'przepisów ' innych ustaw. prokurator ze na wa,7DY interes spC1Jecz ny, na ujawnienie danych osobowych. i wizerunku osób, ptzeciwko którym toczy SIę postępowanie przygotowaw cze lub PO?:. 24 dziennikarza wyrazi na ujawnienie jej nazwiska, lub tego. 2. •. o którym ' mow.a ust. L 'dotyczy innych '"osób zatrudnionych redakc}ach. wy dawnictwachprasowych i innych prasowych jednostkach organizacyjnych. " . ' Redaktor, naczelny powinien 'w grallicach poinformowany . o sprawach ta dziennikarza; mu infor· mację albo inny materiał może ujawnić jedynie vi wy· .. ,padkach ust. . Rada Prasowa. '.
+2. Organy państwowe, przedsiębiorstwa państwowe i inne państwowe jednostki organizacyjne oraz organizacje spółdzielcze są obowiązane do udzielenia odpowiedzi na przekazaną im krytykę prasową bez zbędnej zwłoki, nie później jednak niż w ciągu miesiąca.
 
-**Art. 17.**
+3. Przepis ust. 2 stosuje się odpowiednio do związków zawodowych, organizacji samorządowych i innych organizacji społecznych w zakresie prowadzonej przez nie działalności publicznej.
 
-1. Tworzy - ,
+4. Nie wolno utrudniać prasie zbierania materiałów krytycznych ani w inny sposób tłumić krytyki.
 
-2. Rada, Prasowa dzfała' przy Prezesie Rady M,i .. nistrów.
+**Art. 7.**
 
-3. . Rada Prasowa ma charakter opiniodawczy i wniosprawach z roli prasy kraju. w' w,z·ak.resie . 2. Dziennikarz nie 'może odmówjć ' osobie udziela- realizacji. wolnoŚci słowa i ' druku. kierunkÓw rozwo-. jącej informacji ,' autor.yzacJ'i dosłownie ' cytow.ane]· wypo~rt. PubIikowa~ie lub .rotpowszechnianie . .inny sposób informacji utrwalonych za zapisów fonicznych i wizualnych wymaga zgody osób, udziel~ją - cych informacji. ju prasy. wyd-awnictw. poligrafii. i ~iedzi. o ile nie był~ ona uprzednio publikowana. powszechniania. gospodarki papierem i , innymi środkami Osoba informacji z bada.nia zaspokojenia potrzeb infar . "powodów osobistych zastrzec ' termin l}\acyjnych. zakrąs jei,.Gpubliko.wania. 1dziennikarskiej etykj zawodowej. warunków wykonywania zawodu. uzgadniania kierunk6w rozwoju praUdzielenia infoqnacjinie . z za- soznawczych i szkolnictwa dla potrzeb pruy. · z ust., 2• . od' sposobu jej skomentowania' lub' .uzgl?dnienia tekstu wypowiedzi dzienni-, -- Art. 18. 1. Rada Prasowa z · karskiej. "'., . ' S. . Dziennikarz nie informacji. osoba jej to ze na lun
+1. Ustawa reguluje prasową działalność wydawniczą i dziennikarską.
 
-6. Nie walno bez zgody osoby zainteresowanej pu" informacji oraz danyc.h prywatnej ,sfery .c hyba tego obrona uzasadnionego interesu lub s ; danej osoby. .
+2. W rozumieniu ustawy:
 
-2. Prezes Rady, Ministrów • .o kres 3.Jat 1/., Rady Prasowej nych przez organizacje dziennikarskie Órallr' 1/. . kandydatów przez wydawców .. prasoW}tch. . Prezes Rady Ministrów' ponadto Rady Prasowej org.anów admini stracji panstwowej. nauki i .twórczych; organi zacji politycznych ..-.Art. "15. 1. , Autorowi materialq prasowego "guje prawo zachowania swego nazwiska.
+- **1)** prasa oznacza publikacje periodyczne, które nie tworzą zamkniętej, jednorodnej całości, ukazujące się nie rzadziej niż raz do roku, opatrzone stałym tytułem albo nazwą, numerem bieżącym i datą, a w szczególności: dzienniki i czasopisma, serwisy agencyjne, stałe przekazy teleksowe, biuletyny, programy radiowe i telewizyjne oraz kroniki filmowe; prasą są także wszelkie istniejące i powstające w wyniku postępu technicznego środki masowego przekazywania, w tym także rozgłośnie oraz tele- i radiowęzły zakładowe, upowszechniające publikacje periodyczne za pomocą druku, wizji, fonii lub innej techniki rozpowszechniania; prasa obejmuje również zespoły ludzi i poszczególne osoby zajmujące się działalnością dziennikarską;
+- **2)** dziennikiem jest ogólnoinformacyjny druk periodyczny lub przekaz za pomocą dźwięku oraz dźwięku i obrazu, ukazujący się częściej niż raz w tygodniu;
+- **3)** czasopismem jest druk periodyczny ukazujący się nie częściej niż raz w tygodniu, a nie rzadziej niż raz w roku; przepis ten stosuje się odpowiednio do przekazu za pomocą dźwięku oraz dźwięku i obrazu innego niż określony w pkt 2;
+- **4)** materiałem prasowym jest każdy opublikowany lub przekazany do opublikowania w prasie tekst albo obraz o charakterze informacyjnym, publicystycznym, dokumentalnym lub innym, niezależnie od środków przekazu, rodzaju, formy, przeznaczenia czy autorstwa;
+- **5)** dziennikarzem jest osoba zajmująca się redagowaniem, tworzeniem lub przygotowywaniem materiałów prasowych, pozostająca w stosunku pracy z redakcją albo zajmująca się taką działalnością na rzecz i z upoważnienia redakcji;
+- **6)** redaktorem jest dziennikarz decydujący lub współdecydujący o publikacji materiałów prasowych;
+- **7)** redaktorem naczelnym jest osoba posiadająca uprawnienia do decydowania o całokształcie działalności redakcji;
+- **8)** redakcją jest jednostka organizująca proces przygotowywania (zbierania, oceniania i opracowywania) materiałów do publikacji w prasie.
 
-3. Rada Prasowa wybierli ze swego grona przewodni trzech jego oraz sekretarza. Rady.
+**Art. 8.**
 
-4. Prezes Rady Ministrów. drodze zakres Prasowej. tryb jej i' oraz nadaje jej statut. ,
+1. Wydawcą może być osoba prawna, fizyczna lub inna jednostka organizacyjna, choćby nie posiadała osobowości prawnej. W szczególności wydawcą może być organ państwowy, przedsiębiorstwo państwowe, organizacja polityczna, związek zawodowy, organizacja spółdzielcza, samorządowa i inna organizacja społeczna oraz kościół i inny związek wyznaniowy.
 
-2. Dziennikarz ma obowiązekzach6wania tajem- , nicy: " . danych umożliwiających' ... ·ldentyfikację autora ma prasowego.' listu do redakcji lub innego ma-/ teriału o tym chimi:kterze. jak również innych opubljkowanych albo prze kazanych do opublikowania, osoby te nieuja.w.niaIlie diiIlych. ·
+2. Organizacja polityczna, związek zawodowy, przedsiębiorstwo państwowe, organizacja spółdzielcza, samorządowa i inna organizacja społeczna oraz kościół i inny związek wyznaniowy może realizować uprawnienia wydawnicze bezpośrednio lub za pośrednictwem wydawnictw własnych, jak również innych wydawnictw, działających jako nakładca.
 
-- **2)** wszelkicn )nformacji. ~tór,ych ujawnienie mogł.oby chronion,e prawem interesy osób. trzecich.
+**Art. 9.** Przepisów niniejszej ustawy nie stosuje się do:
 
-3. · o ktqrym mowa ust. 2. innych osób zatrudnionych' redakcjach,' wy dawnictwach prasowych innych prasowych jednostkach organizacyjnych. ,4 Organizacja prasowej.
+#### Rozdział 2 Prawa i obowiązki dziennikarzy
 
-**Art. 19.** . 1. Pt'owadzenieprasowej działalnOści wy dawniczej lub, wyrrlaga zezwolenia. 2. W cel u . uzyskania zezwolenia na prowadzenie dzi ałalności. o której mowa ulit 1. organ założycielski . lub inny organ .. a ' talde osoba fizyczna wniosek do Kontroli Publikacji iWidQwisk. ~Ari ... 16~ Dziennikarz jest zwolniony od zachoWa- ,3. Wniosek, .o którym mowa' ust. 2, powinien za,nia tajemnicy zawotlowej.b ktÓrej mowa wart. 15 i.Jśt. 2, , wierać nazwę i adres wydawcy. określać charakter i za r:azie "gdy informacja, · materiał prasowy. list do re- bes, zamierzonej działa)'n'ości wydawniczej., jak również dakcji lub' inny materiał o tym ,charakterze dotyczy prze- ich,' z!;Jodńość . ze statuteIJ.lwydawcy. jeżelłjest~ osobą wart. 254 Kodeksu karnego' albo" a sposoby zaop,a", ~,utof lub,.osob~ prze}(~zujćlC. ~tlki materiał wyłącznie d,o ' tnenia papie! i możliwości wytwarzania za' pomocą ,-, I?:ziennik., Ustaw Nr 5 Poz. . 24 ,. druku.:'lub inn:ej techniki. Wniosek p(;.winien 'zawierać nie~ razie niewy'dawania dzienniki) lub czasopisma dane osobowe tworzon ym wydaw- przez okres _ jednego roku dnia wydania zezwolenictwerD: •.z określenjeIl! .zakres\! oapuwiedzialności kążdej nialidzielonego na czas nie oznaczony .lub przerwy. tych' osób. . wyda waniu przez ,okres jednego roku. Z'aT~ądzającymwYdawo:ictwem prasowym' Ploże' raziecofnięcia 'ze.zwolenia.- ' osóba" do pr.aw- Zmiana danych zezwoleniem. :wymienio nych i obywatelstwo" polskie oraz nie jest pozba}'liona ' nych w' art. 20 ust. 2 pkt 1 5 i 6. zmiany praw publ:icznych; nie bYG: osoba siedziby i adresu redakcji Qra.z wydawcy. wymaga upned .kazana zaprzestt~pstwo przeciwko podstawowym inte- 'niej zgody; Głównego Urzędu ' Kontroli Publikacji ,Wi resom poliłycznym i gospodarczym PolSkiej Rzęczypospo- dowisk. O zmianach dbtyeząC)/ch danych określonych litej Ludowej, celu art. ust. 2, które nie zgody lub z innych niskich pobudek; du Kontr-oli Publikacji, i WidOWIsk. riie osoba, skazana za· prze· . . w' niniejszej,'ustawie. / ,Prezes Glowneg'Q UiżęduKontroli Publikacji i Widowisk. uzgodn'ieniu z Ministrem Spraw Zagra!1iqnycll, wydawnictwem wymogu p.osiadania .,obyw_3telstwa polskiego. Wymiigalilia,' o 'których mowa' ust. organów . zało2yeielskich i 'osÓb zarządzających , wyciaw niettwejn' ńiają odP9wiedn1e zastosowanie vt wypadkach. ma osoba fizyczna. Osoba ',fizyczn-a o zezwolenie na jest ponad to przedstawie wojewody, uzasadni'll ufut:homienia prywatnego Wyd4wniczego. ,8. Zezwolenie., o 'którYlII mowa iw ust. l. 'nie jest wy-, magane, wydawca z[lmierza jeden -Att. 20. Na wydawanie -dziennika" lub wydawca od zezwo-, lenIa; o którym mowa waJ!. ,zezwolenie Publikacji i Widowisk. . Wniosek o wydanie zezwolenia. o którym mowa ust. 1. pówinien dane: dziennika .lub czasopisma oraz kladny adres redakcji, dane osobowe redaktora naczelnego. linii programowej dziennika lub --czaS{) pisma.
+**Art. 10.**
 
-**Art. 23.** ,1. Kóntroli Pubiikacji Wi dowisk moze zezwQlenia.o których mowa wart. ł :w; z powodu: ' aysternaty<:znegQ lub naruszania prasie przepisów niniejszej ustawy oraz innych ustaw, przekraczania zakresu udzielonego ''J.ezwolepia. w' wypadku zezwolenia. na wydawanie dzie~nika - powodu zmiany pod stawowego ukresu tematycznego. 2. zezwolenia" poprzedza"-pfsemne nie ze wskazaniem stwierdzonych uchybieJ) oraz p9ucze-' niem o zastosowanIa tej sankcji.
+1. Zadaniem dziennikarza jest służba społeczeństwu i państwu. Dziennikarz ma obowiązek działania zgodnie z etyką zawodową i zasadami współżycia społecznego, w granicach określonych przepisami prawa.
 
-**Art. 24.** Przepisy na , nie zastosowania do dzia antenowej Komitcludo Spraw Radia i Telewizji ,;PolskieRadio i oraz do Polskiej ,Agen~ji Prasowej i Polskiej Kroniki FIlmowej, których przepisy . .
+2. Dziennikarz ma prawo odmówić wykonania polecenia służbowego, jeżeli oczekuje się od niego publikacji, która łamie zasady rzetelności, obiektywizmu i staranności zawodowej, o których mowa w art. 12 ust. 1.
 
-**Art. 25.** Redakcją kieruje reda,ktor naczelny. 2. Redaktora naczelnego' oraz kle rowniÓwa redakcji powołuje odwołuje wy,aawca, organ rełóżycielski wydawnictwa lub inny . właŚCiWY ,organ, zg,odnieze statutem lub , przepisami. i Redaktor naczelny odpowiada ż. ,treść przygOtO-~ "f,y-wanychprzez oraz. ia .prawy organizacyjne l finansowe reaakcjl.w granicach statucie lub plzepi.sach. , . :, 4. Przy redakcjitlziała kolegium redakcyjne;Je~eJi' .tatut redakcji lub pr,zepisy tak Itanowl4. ~ , S.' Przy ,redakcji moźe działać rad. redak~yjn~, I !lida programow'a (naukowa) jako organy' óp1nlódawczo-doradcz. na-czel7lego. . , . Dziennik Ustaw Nr 5 49 Poz.
+3. Dziennikarz może nie zgodzić się na publikację materiału prasowego, jeżeli wprowadzono do niego zmiany wypaczające sens i wymowę jego wersji.
 
-**Art. 26.** redakcj'i, jej programozakres oraz tryb wania organów wart. jak przedstawicieli redakcyjnego kolegium redak cyjnym oraz innych organach opinioda'wczo-doradczych statut albo regulamin redakcji. 2. Statut albo regulamin redakcji nadaje wydawca, organ .wydawnictwa lub inny organ, po kqnsultacji z redakcji' organi zacjami dziennikarskimi, politycznymi. zawo dowymi I innymi organizacjami Art. .l. Na egzemplarzu druków perio dycznych, serwisów agencyjnych oraz innych podobnych druków prasowych w. widocznym I zwyczalowo przy miejscu i adres wydawcy 14b innego organu,' adres ' redakcji oraz nazwisko redaktora . na" . czelnego; 'miejSCe i datę wydania, , dany druk prasowy, symbol zgody na wy padkach ych w. przepisach o kontroli publikacji i widowisk, . znak' informacyjny,
+**Art. 11.**
 
-**Art. 28.**
+1. Dziennikarz jest uprawniony do uzyskiwania informacji w zakresie, o którym mowa w art. 4.
 
-1. W mag. lub telewe, mienie
+2. Informacji w imieniu jednostek organizacyjnych są obowiązani udzielać kierownicy tych jednostek, ich zastępcy, rzecznicy prasowi lub inne upoważnione osoby, w granicach obowiązków powierzonych im w tym zakresie.
 
-2. P;zepis ust. 1 stosuje odpowiednio do mz oraz tele- i stanowillcych mienie jednostek organizacyjnych nie pal-lstwowymi. jak do funkcjo nowania oraz tele- i
+3. Kierownicy jednostek organizacyjnych są obowiązani umożliwiać dziennikarzom nawiązanie kontaktu z pracownikami oraz swobodne zbieranie wśród nich informacji i opinii.
 
-3. Rada Ministrów, drodze staws, jak zasady . oraz t>ele- i o . których mowa ust. 1 Art, 29. 1. Na funkcjonowanie craz telejednostkach organizacyjnych innych . wart. 28 jest wymagane zezwolenie K'Ontroli. Publikacji i Widowisk; , do udzielenia, utraty i zeiwolenia stosuje odpG wie'CInio przepisy art. 19-23.
+4. Rada Ministrów, w drodze rozporządzenia, określa organizację i zadania rzeczników prasowych w urzędach organów administracji rządowej.
 
-2. Przepisu ust. I nie stosuje do na zainstalowanych:
+**Art. 12.**
 
-- **l)** budynków kaplic l przeznaczo· . nych do tych celów domów modlitwy. je wzmocnione przez te nie za-o spokoju budynkach,
-- **2)** na t-radycyjnych miejsc pielgrzym kowych na czas odbywania! religijnych.
+1. Dziennikarz jest obowiązany:
 
-**Art. 30.**
+- **1)** zachować szczególną staranność i rzetelność przy zbieraniu i wykorzystaniu materiałów prasowych, zwłaszcza sprawdzić zgodność z prawdą uzyskanych wiadomości lub podać ich źródło;
+- **2)** chronić dobra osobiste, a ponadto interesy działających w dobrej wierze informatorów i innych osób, które okazują mu zaufanie;
+- **3)** dbać o poprawność języka i unikać używania wulgaryzmów.
 
-1. Na prowadzenie poligraficz nej oraz zakresie malej poligrafii obejmu wszelkiego powielarnie . zezwolenia udziela Minister Kultury i Sztuki. malej poligrafii dyspo zycji panstwowych jednostek cxganizacyjnych kowanych naczelnym lub centralnym organom. wym rejestracji przez _ nacze{ny lub centralny organ a dyspozycji . spółdzierni Pracy - przęz Centra1ny Związek SpółdzielPracy. ' '3. malej poligrafii ni'e przepisem ust. rejestracji przez terenowy organ admini stracji stopnia. wojewódzkieg.o, od tego, czyjej dyspozycji Przepis ust. stosuje odpowiednio' do . Korrt'roll Publikacji i Widowisk: jest uprawniony do kontroli poligraficz nych, i innych o których mowa ust. 1-4, granicach do kontroli publikacji. ..
+2. Dziennikarzowi nie wolno prowadzić ukrytej działalności reklamowej wiążącej się z uzyskaniem korzyści majątkowej bądź osobistej od osoby lub jednostki organizacyjnej zainteresowanej reklamą.
 
-6. Rada Ministrów, drodze zasady udzi'elania rejestracji .i kon troli poligraficznych oraz i o których mowa ust. 1-4. 5 Sprostow,anla I odpowiedzI.
+**Art. 13.**
 
-**Art. 31.** Na wniosek zainteresowanej osoby fizycznej, prawnej lub innej jednostki organizacyjnej redaktor na culny redakcjI dziennika lub czasopisma jest
+1. Nie wolno wypowiadać w prasie opinii co do rozstrzygnięcia w postępowaniu sądowym przed wydaniem orzeczenia w I instancji.
+
+2. Nie wolno publikować w prasie wizerunku i innych danych osobowych osób, przeciwko którym toczy się postępowanie przygotowawcze lub sądowe, jak również wizerunku i innych danych osobowych świadków, pokrzywdzonych i poszkodowanych, chyba że osoby te wyrażą na to zgodę.
+
+3. Ograniczenie, o którym mowa w ust. 2, nie narusza przepisów innych ustaw. Właściwy prokurator lub sąd może zezwolić, ze względu na ważny interes społeczny, na ujawnienie wizerunku i innych danych osobowych osób, przeciwko którym toczy się postępowanie przygotowawcze lub sądowe.
+
+4. Na postanowienie w przedmiocie ujawnienia wizerunku i innych danych osobowych osób, przeciwko którym toczy się postępowanie przygotowawcze lub sądowe przysługuje zażalenie. Zażalenie na postanowienie prokuratora rozpoznaje sąd rejonowy, w którego okręgu toczy się postępowanie. Postanowienie wydane w toku postępowania przygotowawczego staje się wykonalne z chwilą uprawomocnienia.
+
+**Art. 14.**
+
+1. Publikowanie lub rozpowszechnianie w inny sposób informacji utrwalonych za pomocą zapisów fonicznych i wizualnych wymaga zgody osób udzielających informacji.
+
+2. (uchylony)
+
+3. Osoba udzielająca informacji może z ważnych powodów społecznych lub osobistych zastrzec termin i zakres jej opublikowania.
+
+4. Udzielenia informacji nie można uzależniać, z zastrzeżeniem wynikającym z art. 14a, od sposobu jej skomentowania lub uzgodnienia tekstu wypowiedzi dziennikarskiej.
+
+5. Dziennikarz nie może opublikować informacji, jeżeli osoba udzielająca jej zastrzegła to ze względu na tajemnicę zawodową.
+
+6. Nie wolno bez zgody osoby zainteresowanej publikować informacji oraz danych dotyczących prywatnej sfery życia, chyba że wiąże się to bezpośrednio z działalnością publiczną danej osoby.
+
+**Art. 14a.**
+
+1. Dziennikarz nie może odmówić osobie udzielającej informacji autoryzacji dosłownie cytowanej wypowiedzi, o ile nie była ona uprzednio publikowana lub była wygłoszona publicznie.
+
+2. Dziennikarz informuje osobę udzielającą informacji przed jej udzieleniem o prawie do autoryzacji dosłownie cytowanej wypowiedzi.
+
+3. Osoba udzielająca informacji niezwłocznie po uzyskaniu od dziennikarza informacji, o której mowa w ust. 2, zgłasza mu żądanie autoryzacji dosłownie cytowanej wypowiedzi.
+
+4. Osoba udzielająca informacji dokonuje autoryzacji dosłownie cytowanej wypowiedzi niezwłocznie, nie później jednak niż w ciągu:
+
+- **1)** 6 godzin – w odniesieniu do dzienników,
+- **2)** 24 godzin – w odniesieniu do czasopism – chyba że strony umówią się inaczej.
+
+5. Bieg terminów, o których mowa w ust. 4, rozpoczyna się od momentu przekazania w sposób wzajemnie uzgodniony tekstu dosłownie cytowanej wypowiedzi przewidzianego do publikacji w prasie osobie udzielającej informacji lub osobie przez nią upoważnionej, tak aby osoba ta mogła się zapoznać z treścią tego tekstu.
+
+6. Nie stanowi autoryzacji zaproponowanie przez osobę udzielającą informacji nowych pytań, przekazanie nowych informacji lub odpowiedzi ani zmiana kolejności wypowiedzi w autoryzowanym tekście materiału przewidzianego do publikacji w prasie.
+
+7. W przypadku niedokonania lub odmowy dokonania autoryzacji w terminach określonych w ust. 4 uznaje się, że dosłownie cytowana wypowiedź została autoryzowana bez zastrzeżeń.
+
+**Art. 15.**
+
+1. Autorowi materiału prasowego przysługuje prawo zachowania w tajemnicy swego nazwiska.
+
+2. Dziennikarz ma obowiązek zachowania w tajemnicy:
+
+- **1)** danych umożliwiających identyfikację autora materiału prasowego, listu do redakcji lub innego materiału o tym charakterze, jak również innych osób udzielających informacji opublikowanych albo przekazanych do opublikowania, jeżeli osoby te zastrzegły nieujawnianie powyższych danych;
+- **2)** wszelkich informacji, których ujawnienie mogłoby naruszać chronione prawem interesy osób trzecich.
+
+3. Obowiązek, o którym mowa w ust. 2, dotyczy również innych osób zatrudnionych w redakcjach, wydawnictwach prasowych i innych prasowych jednostkach organizacyjnych.
+
+**Art. 16.**
+
+1. Dziennikarz jest zwolniony od zachowania tajemnicy zawodowej, o której mowa w art. 15 ust. 2, w razie gdy informacja, materiał prasowy, list do redakcji lub inny materiał o tym charakterze dotyczy przestępstwa określonego w art. 240 § 1 Kodeksu karnego albo autor lub osoba przekazująca taki materiał wyłącznie do wiadomości dziennikarza wyrazi zgodę na ujawnienie jej nazwiska lub tego materiału.
+
+2. Zwolnienie, o którym mowa w ust. 1, dotyczy również innych osób zatrudnionych w redakcjach, wydawnictwach prasowych i innych prasowych jednostkach organizacyjnych.
+
+3. Redaktor naczelny powinien być w niezbędnych granicach poinformowany o sprawach związanych z tajemnicą zawodową dziennikarza; powierzoną mu informację albo inny materiał może ujawnić jedynie w wypadkach określonych w ust. 1.
+
+#### Rozdział 3 (uchylony)
+
+#### Rozdział 4 Organizacja działalności prasowej
+
+**Art. 19.** (uchylony)
+
+**Art. 20.**
+
+1. Wydawanie dziennika lub czasopisma wymaga rejestracji w sądzie okręgowym właściwym miejscowo dla siedziby wydawcy, zwanym dalej „organem rejestracyjnym”. Do postępowania w tych sprawach stosuje się przepisy Kodeksu postępowania cywilnego o postępowaniu nieprocesowym, ze zmianami wynikającymi z niniejszej ustawy.
+
+2. Wniosek o rejestrację, o której mowa w ust. 1, powinien zawierać:
+
+- **1)** tytuł dziennika lub czasopisma oraz siedzibę i dokładny adres redakcji;
+- **2)** dane osobowe redaktora naczelnego;
+- **3)** określenie wydawcy, jego siedzibę i dokładny adres;
+- **4)** częstotliwość ukazywania się dziennika lub czasopisma.
+
+3. Postanowienia zarządzające wpis do rejestru sąd uzasadnia tylko na wniosek.
+
+4. Wydawanie dziennika lub czasopisma można rozpocząć, jeżeli organ rejestracyjny nie rozstrzygnął wniosku o rejestrację w ciągu 30 dni od jego zgłoszenia.
+
+5. O zmianie danych, o których mowa w ust. 2, należy zawiadomić niezwłocznie organ rejestracyjny.
+
+**Art. 21.** Organ rejestracyjny odmówi rejestracji, jeżeli wniosek nie zawiera danych, o których mowa w art. 20 ust. 2, lub jej udzielenie stanowiłoby naruszenie prawa do ochrony nazwy istniejącego już tytułu prasowego.
+
+**Art. 22.** Organ rejestracyjny może zawiesić wydawanie dziennika lub czasopisma na czas określony, nie dłuższy niż rok, jeżeli w ciągu roku co najmniej trzykrotnie w tym dzienniku lub czasopiśmie zostało popełnione przestępstwo.
+
+**Art. 23.** Rejestracja dziennika lub czasopisma traci ważność w razie niewydania dziennika lub czasopisma przez okres roku od dnia nabycia uprawnień do ich wydawania na czas nieoznaczony lub przerwy w ich wydawaniu przez okres roku, jeżeli redakcja nie wystąpiła o zachowanie rejestracji.
+
+**Art. 23a.** Minister Sprawiedliwości określi, w drodze rozporządzenia, wzór i sposób prowadzenia rejestru dzienników i czasopism.
+
+**Art. 24.** Przepisy dotyczące rejestracji działalności prasowej nie mają zastosowania do działalności dostawców usług medialnych w rozumieniu ustawy z dnia 29 grudnia 1992 r. o radiofonii i telewizji (Dz. U. z 2017 r. poz. 1414 i 2111 oraz z 2018 r. poz. 650, 915 i 1717) oraz do działalności Polskiej Agencji Prasowej, których działalność regulują odrębne przepisy.
+
+**Art. 25.**
+
+1. Redakcją kieruje redaktor naczelny.
+
+2. Redaktorem naczelnym dziennika lub czasopisma może być osoba, która ma pełną zdolność do czynności prawnych, posiada obywatelstwo polskie i nie jest pozbawiona praw publicznych.
+
+3. Redaktorem naczelnym dziennika lub czasopisma nie może być osoba skazana za zbrodnię wymienioną w rozdziale XVII ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2018 r. poz. 1600), jeżeli nie upłynął okres 10 lat od zakończenia odbywania kary, oraz osoba skazana za występek tego samego rodzaju, jeżeli nie upłynął okres 3 lat od zakończenia odbywania kary, osoba skazana za przestępstwo popełnione w wyniku motywacji zasługującej na szczególne potępienie, a także osoba, która co najmniej trzykrotnie była karana za przestępstwa określone w niniejszej ustawie. Organ rejestracyjny w uzgodnieniu z ministrem właściwym do spraw zagranicznych może zwolnić redaktora naczelnego od wymogu posiadania obywatelstwa polskiego.
+
+4. Redaktor naczelny odpowiada za treść przygotowywanych przez redakcję materiałów prasowych oraz za sprawy redakcyjne i finansowe redakcji w granicach określonych w statucie lub właściwych przepisach. Jest również obowiązany do dbania o poprawność języka materiałów prasowych oraz przeciwdziałania jego wulgaryzacji.
+
+4a. W wypadku gdy redaktor naczelny uzyskuje immunitet procesowy, obowiązany jest wskazać redaktora, który ponosi odpowiedzialność określoną w art. 49a.
+
+5. Redaktora naczelnego powołuje i odwołuje wydawca, organ założycielski wydawnictwa lub inny właściwy organ.
+
+6. Przy redakcji działa kolegium redakcyjne, jeżeli statut redakcji lub właściwe przepisy tak stanowią.
+
+7. Przy redakcji może też działać rada redakcyjna (programowa, naukowa), jako organ opiniodawczo-doradczy redaktora naczelnego.
+
+**Art. 26.** (uchylony)
+
+**Art. 27.**
+
+1. Na każdym egzemplarzu druków periodycznych, serwisów agencyjnych oraz innych podobnych druków prasowych należy w widocznym i zwyczajowo przyjętym miejscu podać:
+
+- **1)** nazwę i adres wydawcy lub innego właściwego organu;
+- **2)** adres redakcji oraz imię i nazwisko redaktora naczelnego;
+- **3)** miejsce i datę wydania;
+- **4)** nazwę zakładu wykonującego dany druk prasowy;
+- **5)** (uchylony)
+- **6)** międzynarodowy znak informacyjny;
+- **7)** bieżącą numerację.
+
+2. Przepis ust. 1 stosuje się odpowiednio do nagrań radiowych i telewizyjnych oraz kronik filmowych. Art. 28–30. (uchylone)
+
+#### Rozdział 5 Sprostowanie
+
+**Art. 31.** (utracił moc)
+
+**Art. 31a.**
+
+1. Na wniosek zainteresowanej osoby fizycznej, osoby prawnej lub jednostki organizacyjnej niebędącej osobą prawną, redaktor naczelny właściwego dziennika lub czasopisma jest obowiązany opublikować bezpłatnie rzeczowe i odnoszące się do faktów sprostowanie nieścisłej lub nieprawdziwej wiadomości zawartej w materiale prasowym.
+
+2. Uprawnienie do wystąpienia z wnioskiem, o którym mowa w ust. 1, przysługuje także osobie najbliższej zmarłego, w rozumieniu art. 115 § 11 Kodeksu karnego, oraz następcy prawnemu osoby prawnej lub jednostki organizacyjnej, o której mowa w ust. 1.
+
+3. Sprostowanie powinno zostać nadane w placówce pocztowej operatora pocztowego lub złożone w siedzibie odpowiedniej redakcji, na piśmie w terminie nie dłuższym niż 21 dni od dnia opublikowania materiału prasowego.
+
+4. Sprostowanie powinno zawierać podpis wnioskodawcy, jego imię i nazwisko lub nazwę oraz adres korespondencyjny.
+
+5. Adres korespondencyjny wnioskodawcy może zostać zastrzeżony tylko do wiadomości redakcji, a w przypadku gdy materiał prasowy będący przedmiotem sprostowania dotyczy działalności związanej z używanym przez osobę fizyczną pseudonimem, może ona zastrzec także imię i nazwisko tylko do wiadomości redakcji.
+
+6. Tekst sprostowania nie może przekraczać dwukrotnej objętości fragmentu materiału prasowego, którego dotyczy, ani zajmować więcej niż dwukrotność czasu antenowego, jaki zajmował dany fragment przekazu.
+
+7. Sprostowanie powinno być sporządzone w języku polskim lub w języku, w którym opublikowany został materiał prasowy będący przedmiotem sprostowania.
 
 **Art. 32.**
 
-1. Sprostowanie lub odpowiedt bUkowa(: w: dzienniku '- 7 dni od dnia otrzymania spro stowania lub odpowiedzi.
+1. Redaktor naczelny ma obowiązek opublikować sprostowanie:
 
-- **2)** - jednym z dwóch po nim przygotowY,wanych do druku numeJów.
-- **3)** innym dziennik przekazie za oraz Ciiwięk:u i obrazu - najbliższym 'analogicznym przekazie, nie p,.Mniej, jednak dni dnia otrzymania sprostowania lu odpowiedzi.
+- **1)** w elektronicznej formie dziennika lub czasopisma, w której zamieszczono materiał prasowy będący przedmiotem sprostowania – w terminie 3 dni roboczych od dnia otrzymania sprostowania;
+- **2)** w dzienniku – w najbliższym przygotowywanym do druku numerze, a w przypadku braku możliwości technicznych w numerze następnym, nie później jednak niż w terminie 7 dni od dnia otrzymania sprostowania;
+- **3)** w czasopiśmie – w najbliższym od dnia otrzymania sprostowania lub następnym po nim przygotowywanym do opublikowania numerze;
+- **4)** w innym niż dziennik przekazie za pomocą dźwięku lub obrazu i dźwięku – w najbliższym analogicznym przekazie.
 
-2. lub lub stwierdzenia zamieszczonycb kronice filmowej nal~ży QPutJlikować, na koszt wydawcy kroniki filmowej, dzienniku o ogólnokrajo wym; informacja o tym powinna podana • szej kronice filmowej.
+2. Gdy możliwy termin opublikowania sprostowania przekracza 6 miesięcy, na żądanie wnioskodawcy sprostowanie należy dodatkowo opublikować w ciągu miesiąca od dnia otrzymania sprostowania w odpowiednim ze względu na krąg odbiorców dzienniku. Koszty publikacji pokrywa wydawca prasy, w której ukazał się materiał prasowy będący przedmiotem sprostowania.
 
-3. Sprostowanie lub dod'atkowo na wniosek zainter€sowanej osoby, na koszt wydawcy •. gdy termin opubtikowania sprostowania lub od powiedzi przekracza 6
+3. Terminy określone w ust. 1 i 2 nie mają zastosowania, jeżeli strony na piśmie umówiły się inaczej.
 
-4. Terminy, o których· mowa ust. nie majll strony na inaczej• , I . . byt tym może być i '1/ Art: 33. 31, 'nos~ą zniesławienia 3 ") .. . z
+4. Sprostowanie w drukach periodycznych powinno być opublikowane w tym samym dziale i taką samą czcionką, co materiał prasowy, którego dotyczy, pod widocznym tytułem „Sprostowanie”. W przypadku przekazu za pomocą dźwięku lub obrazu i dźwięku sprostowanie powinno być wyraźnie zapowiedziane oraz nastąpić w przekazie tego samego rodzaju i o tej samej porze.
 
-2. ~ub Odpowiedź Wystosow~na śmierci bezpośrednio upływie miesiąca materiału zapoznać się treścią · 50 Odmawiając I 2 1-3, 2 może odmówi,ć Art. I. .obowiązany opublikowa.ć ńieodplatllle, właści w~ględll tematykę .. . Arl. 36. i .. 'I;>ziennik '. tTstaw Nr S . 2. i rekI anty nie byc. spx:zecz;ne . . prawem lub i reklamy oznaczone sposób nie one materia!u redakcyjnego. Wyda'wca i "redaktor prawo ·mieszczenia i. reklamy, ich lub forma jest sprzeczna z prog charakte lem publikacji. ROfdzial prawna. Art.. Do za naruszeriie prawa spowodowane opuhlikowanieln prasowego sto liuje zasady ogólne, chyba ustawa stanowi inaczej. Art. f. Odpowiedzialnosć cywilną za naruszenie prawa spowodowane opubliko'waniem .prasowe' go -autor. ,redaktor lub inna osoba, kt9uy wodowali opublikowanie tego nie to odpowiedzialności wydawcy. W zakresie' odpowiedzial tych osób jest soli,darna. _
+5. W tekście nadesłanego sprostowania nie wolno bez zgody wnioskodawcy dokonywać skrótów ani innych zmian.
 
-2. "'Przepis. ust. 1 stosuje odpowiednio do odpo cywilnej za naruszenie pra-wa ujawnieniem materia lu przed jego Art. Osobi!. zainteresowana roszczenia o opublik,Qwanie sprostowania rub odpowiedzI. redaktpr naczelny opub1ikowania· sprosto wania lub odpowiedzi albo one nie terminie art. 32 ust. 1-4. o który'ch mowa ust. 1. nie po _r oku od dnia opublikowania ma prasowego.
+6. Tekst sprostowania nie może być komentowany w tym samym numerze, przekazie lub w elektronicznej formie dziennika lub czasopisma, tego samego dnia. Nie wyklucza to jednak prostej zapowiedzi polemiki lub wyjaśnień.
 
-**Art. 40.** W raz\f naruszenia dóbr osooi-stych oso.by fizycznej przez pra sowych, a . wypadku naruszenia prze pjsu art. ust: poszkodowanemu odpowiednią sumę pieniężną tytułem zadośćucżynienia -' Art. 41. 'Publikowanie zgodnych z i rzetel nych z' jawnych Sejmu rad na rodowych oraz ich orgapów, a puhlikowanie rze telnych, z zasadami ocen dziel naukowych lub artystycznych albo innej twórczej,. zawodowej lub publ icznej realizacji wart. i pozostaje pod prawa; przepis ten stosuje odjlOwiednio do satyry karykatury.
+**Art. 33.**
+
+1. Redaktor naczelny odmawia opublikowania sprostowania, jeżeli sprostowanie:
+
+- **1)** jest nierzeczowe lub nie odnosi się do faktów;
+- **2)** zostało nadane lub złożone po upływie terminu, o którym mowa w art. 31a ust. 3, lub nie zostało podpisane;
+- **3)** nie odpowiada wymaganiom określonym w art. 31a ust. 4–7;
+- **4)** zawiera treść karalną;
+- **5)** podważa fakty stwierdzone prawomocnym orzeczeniem dotyczącym osoby dochodzącej publikacji sprostowania.
+
+2. Redaktor naczelny może odmówić opublikowania sprostowania, jeżeli sprostowanie:
+
+- **1)** odnosi się do wiadomości poprzednio sprostowanej;
+- **2)** jest wystosowane przez osobę, której nie dotyczą fakty przytoczone w prostowanym materiale, za wyjątkiem sytuacji określonych w art. 31a ust. 2;
+- **3)** zawiera sformułowania powszechnie uznawane za wulgarne lub obelżywe.
+
+3. Odmawiając opublikowania sprostowania, redaktor naczelny jest obowiązany niezwłocznie, nie później jednak niż w terminie 7 dni od dnia otrzymania sprostowania, przekazać wnioskodawcy pisemne zawiadomienie o odmowie i jej przyczynach. Jeżeli odmowa nastąpiła z przyczyn określonych w ust. 1 pkt 1, 4 i 5, należy wskazać fragmenty sprostowania, które nie nadają się do publikacji.
+
+4. Redaktor naczelny nie może odmówić opublikowania sprostowania, jeżeli zastosowano się do jego wskazań. W przypadku nadesłania poprawionego sprostowania termin określony w art. 31a ust. 3 liczy się od dnia doręczenia wnioskodawcy zawiadomienia o odmowie i jej przyczynach.
+
+#### Rozdział 6 Komunikaty i ogłoszenia
+
+**Art. 34.**
+
+1. Redaktor naczelny jest obowiązany opublikować nieodpłatnie, w miejscu i w czasie właściwym ze względu na tematykę i charakter publikacji, komunikat urzędowy pochodzący od naczelnych i centralnych organów państwowych, w tym pochodzący od naczelnych i centralnych organów administracji państwowej, jeżeli został nadesłany przez rzecznika prasowego rządu ze wskazaniem, że publikacja jest obowiązkowa.
+
+2. Obowiązek określony w ust. 1 dotyczy również:
+
+- **1)** wydanych na podstawie ustaw obwieszczeń, uchwał lub zarządzeń pochodzących od organów administracji rządowej w województwie, nadesłanych w formie zwięzłych komunikatów w celu ogłoszenia w dzienniku lub odpowiednim czasopiśmie na terenie jego działania;
+- **2)** komunikatów przekazywanych przez organy administracji rządowej i samorządu terytorialnego w zakresie sytuacji kryzysowych, o których mowa w ustawie z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym (Dz. U. z 2018 r. poz. 1401 i 1560).
+
+3. Komunikaty, o których mowa w ust. 1 i 2, należy opublikować, w uzgodnionym terminie, bez dokonywania zmian, zamieszczania uwag i zaprzeczeń, a w razie braku uzgodnienia terminu – w najbliższym przygotowywanym wydaniu.
+
+**Art. 35.**
+
+1. Redaktor naczelny dziennika jest obowiązany opublikować odpłatnie we wskazanym lub uzgodnionym terminie:
+
+- **1)** prawomocny wyrok sądu lub inne orzeczenie zawierające klauzulę o opublikowaniu;
+- **2)** ogłoszenie sądu lub innego organu państwowego.
+
+2. Redaktor naczelny dziennika jest obowiązany opublikować nieodpłatnie, we wskazanym lub uzgodnionym terminie, list gończy.
+
+**Art. 36.**
+
+1. Prasa może zamieszczać odpłatne ogłoszenia i reklamy.
+
+2. Ogłoszenia i reklamy nie mogą być sprzeczne z prawem lub zasadami współżycia społecznego.
+
+3. Ogłoszenia i reklamy muszą być oznaczone w sposób niebudzący wątpliwości, iż nie stanowią one materiału redakcyjnego.
+
+4. Wydawca i redaktor mają prawo odmówić zamieszczenia ogłoszenia i reklamy, jeżeli ich treść lub forma jest sprzeczna z linią programową bądź charakterem publikacji.
+
+5. Na żądanie organów upoważnionych do tego na podstawie odrębnych przepisów wydawca lub redaktor są obowiązani do ujawnienia posiadanych nazw i adresów przedsiębiorców lub osób fizycznych, zamieszczających odpłatne ogłoszenia lub reklamy w sprawach działalności gospodarczej. W tym wypadku art. 15 ust. 1 i 2 nie stosuje się.
+
+#### Rozdział 7 Odpowiedzialność prawna
+
+**Art. 37.** Do odpowiedzialności za naruszenie prawa spowodowane opublikowaniem materiału prasowego stosuje się zasady ogólne, chyba że ustawa stanowi inaczej.
+
+**Art. 37a.** W razie skazania za przestępstwo popełnione przez opublikowanie materiału prasowego, sąd może orzec przepadek materiału prasowego.
+
+**Art. 37b.** Sąd przekazuje właściwemu organowi rejestracyjnemu zawiadomienie o wyroku skazującym za przestępstwa, o których mowa w niniejszym rozdziale, niezwłocznie po uprawomocnieniu.
+
+**Art. 38.**
+
+1. Odpowiedzialność cywilną za naruszenie prawa spowodowane opublikowaniem materiału prasowego ponoszą autor, redaktor lub inna osoba, którzy spowodowali opublikowanie tego materiału; nie wyłącza to odpowiedzialności wydawcy. W zakresie odpowiedzialności majątkowej odpowiedzialność tych osób jest solidarna.
+
+2. Przepis ust. 1 stosuje się odpowiednio do odpowiedzialności cywilnej za naruszenie prawa spowodowane ujawnieniem materiału prasowego przed jego publikacją.
+
+**Art. 39.**
+
+1. Jeżeli redaktor naczelny odmówił opublikowania sprostowania albo sprostowanie nie ukazało się w terminie określonym w art. 32 ust. 1–3 lub ukazało się z naruszeniem art. 32 ust. 4 lub 5, zainteresowany podmiot, o którym mowa w art. 31a ust. 1 lub 2, może wytoczyć powództwo o opublikowanie sprostowania.
+
+2. Roszczenie, o którym mowa w ust. 1, wygasa, jeżeli nie będzie dochodzone w ciągu roku od dnia opublikowania materiału prasowego.
+
+**Art. 40.** (uchylony)
+
+**Art. 41.** Publikowanie zgodnych z prawdą i rzetelnych sprawozdań z jawnych posiedzeń Sejmu, Senatu i organów stanowiących jednostek samorządu terytorialnego oraz ich organów, a także publikowanie rzetelnych, zgodnych z zasadami współżycia społecznego ujemnych ocen dzieł naukowych lub artystycznych albo innej działalności twórczej, zawodowej lub publicznej służy realizacji zadań określonych w art. 1 i pozostaje pod ochroną prawa; przepis ten stosuje się odpowiednio do satyry i karykatury.
 
 **Art. 42.**
 
-1. Redaktor nie ponosi za publikacji przez Pra . oraz' za komunikatów o których mowa wart. jak. za i o których m\lwa wart. Wydawc...a- i redaktor nie. ponosi za i reklam opublikowanych z,godnie z Poz. art. 36.
+1. Redaktor nie ponosi odpowiedzialności za treść publikacji nadesłanych przez Polską Agencję Prasową oraz za treść komunikatów urzędowych, o których mowa w art. 34, jak również za treść orzeczeń i ogłoszeń, o których mowa w art. 35.
 
-2. . \ ·Art. 43. Kto. prze.mocy lub bezprawnej celu zmuszenia 'dziennikarza do opublikowania lub 'za niechania opublikowania prasowego albo lub zaniechania interwencji, prasowej .' - podlega karze pozbawienia do lat
+2. Wydawca i redaktor nie ponosi odpowiedzialności za treść ogłoszeń i reklam opublikowanych zgodnie z art. 36.
+
+**Art. 43.** Kto używa przemocy lub groźby bezprawnej w celu zmuszenia dziennikarza do opublikowania lub zaniechania opublikowania materiału prasowego albo do podjęcia lub zaniechania interwencji prasowej – podlega karze pozbawienia wolności do lat 3.
 
 **Art. 44.**
 
-1. Kto utrudnia lub prasQwl\ - podlega karze ograniczenia wolności albo grzywny.
+1. Kto utrudnia lub tłumi krytykę prasową – podlega grzywnie albo karze ograniczenia wolności.
 
-2. Tej samej karze podlega, kto swego stanowiska lub funkcji na innej osoby powodu krytyki prasowej, opublikowanej ' uzasadnionym interesie.
+2. Tej samej karze podlega, kto nadużywając swego stanowiska lub funkcji działa na szkodę innej osoby z powodu krytyki prasowej, opublikowanej w społecznie uzasadnionym interesie.
 
-**Art. 45.** Kto bez wymaganego zezwolenia wydaje elbo rozpowszechnia dziennik,' czasopi.smo lub' inną publi· . podlega karze ' pozbawienia do roku, , ograniczel'lia albo grzywny.
+**Art. 45.** Kto wydaje dziennik lub czasopismo bez rejestracji albo zawieszone – podlega karze grzywny.
 
 **Art. 46.**
 
-1. Kto wbrew ustawy uchyla od opubi'!kowania sprostowania lub o których mowa art. 31. albo publikuj. ,takie sprostowan,ie lub wbrew ,warunkom ustawie - podlega karze grzywny.
+1. (utracił moc)
 
-2. ym jest osoba fizyczna, nie odbywa' prywatneg? .
+2. (uchylony)
 
-**Art. 47.** Kto wbrew s art. i uchyla od opublikowania komunikatu lub innego .wego, jak listu - podlega karz~ grzywny.
+**Art. 47.** Kto wbrew obowiązkowi wynikającemu z art. 34 i 35 uchyla się od opublikowania komunikatu urzędowego, ogłoszenia sądu lub innego organu państwowego, jak również listu gończego – podlega grzywnie albo karze ograniczenia wolności.
 
-**Art. 48.** Kto ,J!)rew s uchyla od drukarskich lub . - podlega karze grzywny. Kto narusza przepisy art. ust. 2, art. 1-4. ust. art. - podlega karze grzywny. - sprawach prasówych. Art. Postępowanie sprawach s niniejszej ustawy prowadzi ria zasadach przepisach, chyba inac·zej.
+**Art. 48.** Kto rozpowszechnia materiał prasowy objęty przepadkiem lub prasę zabezpieczoną jako dowód rzeczowy – podlega grzywnie albo karze ograniczenia wolności.
 
-**Art. 51.** .Decyzje administracyjne sprawach pras()o wych do· Naczelnego Adml nistracy jnego. Art. Roszczenia o opublikowanie sprostowania lub odpm.viedzi. o których· mowa wart. 39. podlegaj, rozpoznaniu przez ,
+**Art. 49.** Kto narusza przepisy art. 3, 11 ust. 2, art. 14, 15 ust. 2 i art. 27 – podlega grzywnie albo karze ograniczenia wolności.
+
+**Art. 49a.** Redaktor, który nieumyślnie dopuścił do opublikowania materiału prasowego zawierającego znamiona przestępstwa, o którym mowa w art. 37a – podlega grzywnie albo karze ograniczenia wolności.
+
+**Art. 49b.**
+
+1. Kto publikuje dosłownie cytowaną wypowiedź bez umożliwienia osobie udzielającej informacji dokonania autoryzacji na zasadach określonych w art. 14a – podlega karze grzywny.
+
+2. Karze, o której mowa w ust. 1, nie podlega, kto publikuje wypowiedź identyczną z udzieloną przez osobę udzielającą informacji.
+
+#### Rozdział 8 Postępowanie w sprawach prasowych
+
+**Art. 50.** Postępowanie w sprawach wynikających z niniejszej ustawy prowadzi się na zasadach określonych w odrębnych przepisach, chyba że ustawa stanowi inaczej.
+
+**Art. 51.** (uchylony)
+
+**Art. 52.**
+
+1. Sprawy, o których mowa w art. 39 ust. 1, rozpoznaje sąd okręgowy właściwy ze względu na siedzibę odpowiedniej redakcji, najpóźniej w ciągu 30 dni od dnia wniesienia pozwu niedotkniętego brakami formalnymi. Przepisu art. 126 § 2 Kodeksu postępowania cywilnego, w zakresie dotyczącym obowiązku wskazania miejsca zamieszkania pozwanego, nie stosuje się.
+
+2. Pozwany może wnieść odpowiedź na pozew w terminie 7 dni od dnia doręczenia pozwu.
+
+3. Niestawiennictwo stron nie tamuje rozpoznania sprawy. Przepisów Kodeksu postępowania cywilnego o wyroku zaocznym nie stosuje się.
+
+4. Wydany wyrok wraz z uzasadnieniem sąd doręcza niezwłocznie, z urzędu, obu stronom.
+
+5. Od wyroku sądu pierwszej instancji przysługuje apelacja, którą wnosi się w terminie 7 dni od dnia doręczenia stronie skarżącej wyroku z uzasadnieniem.
+
+6. Sąd drugiej instancji rozpoznaje apelację najpóźniej w terminie 30 dni od dnia wniesienia apelacji niedotkniętej brakami formalnymi.
+
+7. Strona przeciwna może wnieść odpowiedź na apelację w terminie 7 dni od dnia doręczenia apelacji.
 
 **Art. 53.**
 
-1. Sprawy o tv art. przez wojewódzki, a wart. 45-49 Qraz o prasie - przez rejonowy. 2, Minister drodze nia, rejonowe do rozpo.' / Dziennik tTslaw Nr 5 znawania spraw o o których mowa wart. 45-49. oraz pope1nione prasie - na obszarze danE:go wojewódzkiego,
+1. Sprawy o przestępstwa określone w art. 43 i art. 44 podlegają rozpoznaniu przez sąd okręgowy, a określone w art. 47–49a oraz o przestępstwa popełnione w prasie – przez sąd rejonowy.
 
-**Art. 54.** razie odmowy karnego przeciwko dziennikarzowi o l.one ustlIwie oraz o pn.es.t<::psl wo p0pelnjone prasie lub inny czyn z wykonywanifm zawodu dzien'nikarskiego albo umorzenia takiego postqpowania, lub .prokurator moze prze'kaz,J(': spr do rm:poznania jedy !'lie dziennikMski,emu. 9 Zmlanv :w przepisach przepisy I
+2. Minister Sprawiedliwości, po zasięgnięciu opinii Krajowej Rady Sądownictwa, może wyznaczyć, w drodze rozporządzenia, sądy rejonowe właściwe do rozpoznawania spraw o przestępstwa, o których mowa w art. 47–49a, oraz o przestępstwa popełnione w prasie na obszarze właściwości danego sądu okręgowego, uwzględniając liczbę spraw tego rodzaju i zakres obciążenia poszczególnych sądów rejonowych oraz potrzebę zapewnienia racjonalnej organizacji sądownictwa, ekonomię postępowania sądowego, a także konieczność zagwarantowania realizacji prawa obywatela do rozpoznania jego sprawy w rozsądnym terminie.
 
-**Art. 55.** W ustawje z dnia 8 czerwca '197~ r. o konywaniu organ.izacji rzem,iesJa (Oz, U. z r. Nr rozdziale po dodaje art. IDrzmieniu: Sprawy wydawania n-a wykonywanie wzakfE'sie malej p>oligrafii dla celów ha>l'ldlowych i rek:la·mowy'C'h oraz ' rejestrowa1'\ia' i i ,'v nich p>r:z.episv Prawa 'pr,asowego; zakresie do tych sl-osuje przepisy niniejszej ustawy." . uS'tawi-e ., -dnia hpca wyko nywa'Ahl handlu oraz nj,eltt6i'ych 4nG'y.ch diia jednostki ,nie' (Oz, r. Nr "":'prowadza zmiany: !;ls'L wyrazy "sztuki, fonografii i poHgrafii" wyraZami "sztuki i przedfonografii", ' dodaje ust. brzmieniu: Sprawy wydawania prow,aclzenia w· zakresie poligrafii oraz, reje strowania-i kontroli poligrafi-cznych przepisy Prawa pra' sowego; zakresie,' do tych stosuje .przepisy niniejszej ustawy.", .
+3. W sprawach o przestępstwa popełnione przez opublikowanie materiału prasowego lub przestępstwa określone w niniejszej ustawie właściwość miejscową sądu ustala się według siedziby redakcji, a następnie wydawnictwa, a gdy ta siedziba nie jest znana lub znajduje się za granicą – według miejsca ujawnienia lub rozpowszechniania materiału prasowego. Jeżeli w tej samej sprawie wszczęto postępowanie w kilku sądach, właściwy jest ten sąd, w którym najpierw wszczęto postępowanie.
 
-**Art. 1.** Postęp<Dwanie sprawach z niniejszej ustawy, z ust. przed dniem ustawy i do tego czasu nie toczy do danej instan cji przepi'sów datychczasowych. Sprawy d.0tyczącewy,d~wania · zezw01eń na pro w4rJzenie zahesie poligrafii. kt'Ó.rych wszczxte przed dniem nrniejszej ustawy nie do tego czasu przekazaniu do dalszego po s'l-ę;p0wania o r-ga n ow-i właściwemu ·myśl tej itstawy, tOCEy 'z jej przepisów. Przepisy ustaW\' do Naczel. Administracyjnego decyzji sprawach WyNi z njniejszej ustawy stosuje do decyzji wy dan ych sprawach. których poste"powanie po dniu niniejszej Art. ,Działający dniu w*ycie usta wy wyclawcy d.zie.l1lil.ikcaw i czasopi'Sm dotych 'lilipr.awnienia. terminie 6 dnia jej iycie Koptroli Publikacji i Widowi-sk prowadzenia oraz . .dane wart. 19 ust.' Przepis ust. stosuje się odpow~ednio do zezwo na wy.dawanie dziennika iu'b czasopisma, wskazanie dotyczy danych art. ust. Wy.dane do dnia weJscla ustawy ze,zwo lenia na p zeiJ,i.e oraa uslug.oweJ w, zahesi.e lej p.oligrafii zaahowujA jez.eJi' .6 od dnia jej osoby prow.adzqce Ministrowi Kult.uryi Sztuki p-fowadzenia ' tej .or;az 'dane przepisach wydanych nil ,podstawie .ust. Art. dniem. moc wszel·ki.e przepisy .przedmiotów niej unor mowa·nych, a traci moc .dekret Prezy Rzeczy,pospoli.t.ej Pr.a wo pr<lsowe {Dz. Nr poz.
+**Art. 54.** W razie odmowy wszczęcia postępowania karnego przeciwko dziennikarzowi o przestępstwo określone w ustawie oraz o przestępstwo popełnione w prasie lub inny czyn związany z wykonywaniem zawodu dziennikarskiego albo umorzenia takiego postępowania, sąd lub prokurator może przekazać sprawę do rozpoznania jedynie właściwemu sądowi dziennikarskiemu.
 
-**Art. 61.** Ustawa wchodzi życi~ z dniem l lipca r. Rady \ Sekretarz Rady
+**Art. 54a.** W razie uniewinnienia lub umorzenia postępowania z powodu braku w czynie popełnionym znamion czynu zabronionego, przysługuje od Skarbu Państwa odszkodowanie w wysokości rzeczywiście poniesionych strat.
+
+**Art. 54b.** Przepisy o odpowiedzialności prawnej i postępowaniu w sprawach prasowych stosuje się odpowiednio do naruszeń prawa związanych z przekazywaniem myśli ludzkiej za pomocą innych niż prasa środków przeznaczonych do rozpowszechniania, niezależnie od techniki przekazu, w szczególności publikacji nieperiodycznych oraz innych wytworów druku, wizji i fonii.
+
+**Art. 54c.** Orzekanie w sprawach o czyny, o których mowa w art. 45 i art. 49b, następuje na podstawie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2018 r. poz. 475, 1039, 1387, 1467 i 1481).
+
+#### Rozdział 9 Zmiany w przepisach obowiązujących oraz przepisy przejściowe i końcowe
+
+**Art. 55.** (pominięty)
+
+**Art. 56.** (pominięty)
+
+**Art. 57.** (pominięty)
+
+**Art. 58.**
+
+1. Postępowanie w sprawach wynikających z niniejszej ustawy, z zastrzeżeniem ust. 2, wszczęte przed dniem wejścia w życie ustawy i do tego czasu niezakończone, toczy się do zakończenia w danej instancji według przepisów dotychczasowych.
+
+2. Sprawy dotyczące wydawania zezwoleń na prowadzenie działalności usługowej w zakresie małej poligrafii, w których postępowanie wszczęte przed dniem wejścia w życie niniejszej ustawy nie zostało do tego czasu zakończone, podlegają przekazaniu do dalszego postępowania organowi właściwemu w myśl tej ustawy; postępowanie toczy się z uwzględnieniem jej przepisów.
+
+3. (uchylony)
+
+**Art. 59.** (pominięty)
+
+**Art. 60.** Z dniem wejścia w życie ustawy tracą moc wszelkie przepisy dotyczące przedmiotów w niej unormowanych, a w szczególności traci moc dekret Prezydenta Rzeczypospolitej z dnia 21 listopada 1938 r. – Prawo prasowe (Dz. U. poz. 608).
+
+**Art. 61.** Ustawa wchodzi w życie z dniem 1 lipca 1984 r.
 

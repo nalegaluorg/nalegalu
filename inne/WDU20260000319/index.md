@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 12 marca 2026 r.
+# o zmianie ustawy o systemie oświaty oraz ustawy o finansowaniu zadań oświatowych
+
+*USTAWA z dnia 13 lutego 2026 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +25,6 @@ domain: null
 | Data wydania | 2026-03-12 |
 | Ostatnia zmiana | 2026-03-19 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000319) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/319/text.pdf) |
-
-Poz. 319
-USTAWA z dnia 13 lutego 2026 r.
-o zmianie ustawy o systemie oświaty oraz ustawy o finansowaniu zadań oświatowych
 
 **Art. 1.** W ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2025 r. poz. 881 i 1019 oraz z 2026 r. poz. 203) w art. 22an ust. 4 otrzymuje brzmienie: „4. Podmiot, o którym mowa w ust. 3, wnosi opłatę w wysokości od 2800 zł do 14 000 zł.”.
 

@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# Kodeksu karnego, popełnione wzwiązku zzaburzeniami preferencji seksualnych, dyrektor zakładu zawiadamia tym jednostkę Policji, właściwą dla miejsca pobytu skazanego po jego zwolnieniu.”;
+# o zmianie ustawy - Prawo budowlane oraz o zmianie niektórych innych ustaw
+
+*USTAWA z dnia 28 lipca 2005 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,37 +26,37 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051631364) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/1364/text.pdf) |
 
-9) 168a dodaje się § 3 brzmieniu: Ń§ 3. Wwypadku zwolnienia zzakładu karnego po odbyciu kary skazanego z zaburzeniami preferencji seksualnych odbywającego karę pozbawienia wolności za przestępstwo określone 197—203 Kodeksu karnego, popełnione wzwiązku ztymi zaburzeniami, atakże wypadku ucieczki takiego skazanego z zakładu karnego lub wydania decyzji oudzieleniu przepustki lub czasowego zezwolenia, którym mowa § 1, odpowiednio sędzia penitencjarny lub dyrektor zawiadamia otym jednostkę Policji, właściwą dla miejsca pobytu skazanego.”;
-wej lub samorządu terytorialnego, właściwemu dla miejsca pobytu skazanego.
-§ 2. Nadzór nad wykonywaniem obowiązku powstrzymania się od przebywania określonych środowiskach lub miejscach, zakazu kontaktowania się z określonymi osobami lub zakazu opuszczania określonego miejsca pobytu bez zgody sądu powierza się zawodowemu kuratorowi sądowemu.
-§ 3. W sprawach związanych z wykonywaniem obowiązku powstrzymania się od przebywania wokreślonych środowiskach lub miejscach, zakazu kontaktowania się zokreślonymi osobami lub zakazu
-10) rozdziale XII tytuł oddziału 2 otrzymuje brzmienie: ŃZakazy i obowiązek”;
-11) po 181 dodaje się 181a brzmieniu: ŃArt. 181a. § 1. W razie orzeczenia obowiązku powstrzymania się od przebywania określonych środowiskach lub miejscach, zakazu kontaktowania się z określonymi osobami lub zakazu opuszczania określonego opuszczania określonego miejsca pobytu bez zgody sądu właściwy jest sąd rejonowy, wktórego okręgu ustalono miejsce pobytu skazanego.
-§ 4. Przepisy 169 i 172 stosuje się odpowiednio.”.
+**Art. 1.** W ustawie z dnia 7 lipca 1994 r. - Prawo budowlane (Dz.U. z 2003 r. Nr 207, poz. 2016, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 4.** Ustawa wchodzi życie po upływie 30 dni od dnia ogłoszenia, zwyjątkiem przepisów 3 pkt 3 i 4, które wchodzą życie z dniem 1 stycznia 2006 r. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski USTAWA z dnia 28 lipca 2005 r. zmianie ustawy Prawo budowlane oraz zmianie niektórych innych ustaw
-
-**Art. 1.** W ustawie z dnia 7 lipca 1994 r. Prawo budowlane (Dz. U. z 2003 r. 207, poz. 2016, z póên. zm.
-
-**Art. 2.** W ustawie z dnia 21 marca 1985 r. drogach publicznych (Dz. U. z 2004 r. 204, poz. 2086 i 273, poz. 2703 oraz z 2005 r. 163, poz. 1362) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 21 marca 1985 r. o drogach publicznych (Dz.U. z 2004 r. Nr 204, poz. 2086 i Nr 273, poz. 2703 oraz z 2005 r. Nr 163, poz. 1362) wprowadza się następujące zmiany:
 
 **Art. 43.**
 
-1. Obiekty budowlane przy drogach powinny być usytuowane odległości od zewnętrznej krawędzi jezdni co najmniej: Lp. Rodzaj drogi W terenie zabudowy Poza terenem zabudowy 1 Autostrada 30 m 50 m 2 Droga ekspresowa 20 m 40 m 3 Droga ogólnodostępna:
+1. Obiekty budowlane przy drogach powinny być usytuowane w odległości od zewnętrznej krawędzi jezdni co najmniej: Lp. Rodzaj drogi W terenie zabudowy Poza terenem dowy
 
-- **a)** krajowa
-- **b)** wojewódzka, powiatowa
-- **c)** gminna 10 m 8 m 6 m 25 m 20 m 15 m określona ust. 1, może nastąpić wyłącznie za zgodą zarządcy drogi, wydaną przed uzyskaniem przez inwestora obiektu pozwolenia na budowę lub zgłoszeniem budowy albo wykonywania robót budowlanych. Przepis 38 ust. 3 stosuje się odpowiednio.
+1. Autostrada 30 m 50 m
+
+2. Droga ekspresowa 20 m 40 m
+
+3. Droga ogólnodostępna:
+
+- **a)** krajowa 10 m 25 m
+- **b)** wojewódzka, powiatowa 8 m 20 m
+- **c)** gminna 6 m 15 m
+
+2. W szczególnie uzasadnionych przypadkach usytuowanie obiektu budowlanego przy drodze, o której mowa w ust. 1 lp. 3 tabeli, w odległości mniejszej niż określona w ust. 1, może nastąpić wyłącznie za zgodą zarządcy drogi, wydaną przed uzyskaniem przez inwestora obiektu pozwolenia na budowę lub zgłoszeniem budowy albo wykonywania robót budowlanych. Przepis art. 38 ust. 3 stosuje się odpowiednio.
 
 3. Przepisu ust. 2 nie stosuje się przy sytuowaniu reklam poza terenem zabudowy.”.
 
-**Art. 3.** W ustawie z dnia 17 maja 1989 r. Prawo geodezyjne i kartograficzne (Dz. U. z 2000 r. 100, poz. 1086, z póên. zm. ) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 17 maja 1989 r. - Prawo geodezyjne i kartograficzne (Dz.U. z 2000 r. Nr 100, poz. 1086, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 5.** W stosunku osób ubiegających się uprawnienia budowlane, które przed dniem wejścia życie ustawy uzyskały wykształcenie wymagane na podstawie przepisów dotychczasowych oraz rozpoczęły odbywanie wymaganej praktyki, stosuje się przepisy dotychczasowe.
+**Art. 4.** W ustawie z dnia 29 sierpnia 1997 r. o finansowaniu dróg publicznych (Dz.U. Nr 123, poz. 780, z późn. zm. ) art. 3 otrzymuje brzmienie: „Art. 3. Wydatki związane z budową, przebudową, remontem, utrzymaniem, ochroną i zarządzaniem drogami krajowymi, finansowanymi przez ministra właściwego do spraw transportu, ustala się w ustawie budżetowej w wysokości nie niższej niż 12% planowanych na dany rok wpływów z podatku akcyzowego od paliw silnikowych.”.
 
-**Art. 6.** Dotychczasowe przepisy wykonawcze wydane na podstawie 16 ust. 1 ustawy, której mowa 1, oraz 28 ust. 4 ustawy, której mowa 3, zachowują moc czasu wejścia życie nowych przepisów wykonawczych wydanych odpowiednio na podstawie 16 ust. 1 i 1a ustawy, której mowa wart. 1, oraz 28 ust. 2 ustawy, októrej mowa 3, brzmieniu nadanym niniejszą ustawą.
+**Art. 5.** W stosunku do osób ubiegających się o uprawnienia budowlane, które przed dniem wejścia w ¿ycie ustawy uzyskały wykształcenie wymagane na podstawie przepisów dotychczasowych oraz rozpoczęły odbywanie wymaganej praktyki, stosuje się przepisy dotychczasowe.
 
-**Art. 7.** Do spraw wszczętych a niezakończonych przed dniem wejścia życie ustawy stosuje się przepisy dotychczasowe.
+**Art. 6.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 16 ust. 1 ustawy, o której mowa w art. 1, oraz art. 28 ust. 4 ustawy, o której mowa w art. 3, zachowują moc do czasu wejścia w życie nowych przepisów wykonawczych wydanych odpowiednio na podstawie art. 16 ust. 1 i 1a ustawy, o której mowa w art. 1, oraz art. 28 ust. 2 ustawy, o której mowa w art. 3, w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 8.** Ustawa wchodzi życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem przepisu 1 pkt 3, który wchodzi życie z dniem 1 stycznia 2006 r. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski ——————— ———————
+**Art. 7.** Do spraw wszczętych a niezakończonych przed dniem wejścia w życie ustawy stosuje się przepisy dotychczasowe.
+
+**Art. 8.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem przepisu art. 1 pkt 3, który wchodzi w ¿ycie z dniem 1 stycznia 2006 r.
 

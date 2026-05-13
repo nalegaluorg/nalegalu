@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 13 sierpnia 2015 r.
+# o zmianie ustawy o zmianie ustawy – Prawo zamówień publicznych oraz ustawy o zmianie ustawy o systemie ubezpieczeń społecznych oraz niektórych innych ustaw
+
+*USTAWA z dnia 25 czerwca 2015 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +25,6 @@ domain: null
 | Data wydania | 2015-08-13 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001153) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1153/text.pdf) |
-
-Poz. 1153
-USTAWA z dnia 25 czerwca 2015 r.
-o zmianie ustawy o zmianie ustawy – Prawo zamówień publicznych oraz ustawy o zmianie ustawy o systemie ubezpieczeń społecznych oraz niektórych innych ustaw
 
 **Art. 1.** W ustawie z dnia 29 sierpnia 2014 r. o zmianie ustawy – Prawo zamówień publicznych (Dz. U. poz. 1232) w art. 4:
 

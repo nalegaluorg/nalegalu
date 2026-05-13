@@ -10,7 +10,9 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 19 grudnia 2016 r.
+# o statusie sędziów Trybunału Konstytucyjnego
+
+*USTAWA z dnia 30 listopada 2016 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,9 +26,6 @@ domain: null
 | Ostatnia zmiana | 2026-04-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002073) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/2073/text.pdf) |
 
-USTAWA z dnia 30 listopada 2016 r.
-o statusie sędziów Trybunału Konstytucyjnego
-
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa określa:
@@ -37,7 +36,7 @@ o statusie sędziów Trybunału Konstytucyjnego
 
 2. Sędziego Trybunału wybiera Sejm. Kadencja sędziego trwa 9 lat. Zasady wyboru i związane z tym terminy procedowania określa Regulamin Sejmu.
 
-**Art. 3.** Sędzią Trybunału może zostać osoba, która wyróżnia się wiedzą prawniczą oraz spełnia wymagania niezbędne do pełnienia urzędu na stanowisku sędziego Sądu Najwyższego.
+**Art. 3.** Sędzią Trybunału może zostać osoba, która wyróżnia się wiedzą prawniczą oraz spełnia wymagania niezbędne do pełnienia urzędu na stanowisku sędziego Sądu Najwyższego lub sędziego Naczelnego Sądu Administracyjnego.
 
 **Art. 4.**
 
@@ -49,11 +48,11 @@ o statusie sędziów Trybunału Konstytucyjnego
 
 **Art. 6.** Sędzia Trybunału w sprawowaniu swojego urzędu jest niezawisły i podlega tylko Konstytucji.
 
-#### Rozdział 2 Prawa i obowi ą zki s ę dziego Trybunału
+#### Rozdział 2 Prawa i obowiązki sędziego Trybunału
 
-**Art. 7.** S ę dzia Trybunału post ę puje zgodnie z Kodeksem Etycznym S ę dziego Trybunału Konstytucyjnego, uchwalonym przez Zgromadzenie Ogólne S ę dziów Trybunału Konstytucyjnego, zwane dalej „Zgromadzeniem Ogólnym”.
+**Art. 7.** Sędzia Trybunału postępuje zgodnie z Kodeksem Etycznym Sędziego Trybunału Konstytucyjnego, uchwalonym przez Zgromadzenie Ogólne Sędziów Trybunału Konstytucyjnego, zwane dalej „Zgromadzeniem Ogólnym”.
 
-**Art. 8.** Czas pracy s ę dziego Trybunału jest okre ś lony wymiarem jego zada ń .
+**Art. 8.** Czas pracy sędziego Trybunału jest określony wymiarem jego zadań.
 
 **Art. 9.** Sędzia Trybunału jest upoważniony do dostępu do informacji niejawnych związanych z rozpoznawaną przez Trybunał sprawą.
 
@@ -87,7 +86,7 @@ o statusie sędziów Trybunału Konstytucyjnego
 
 **Art. 13.**
 
-1. Sędzia Trybunału jest obowiązany do złożenia Prezesowi Trybunału oświadczenia o działalności gospodarczej prowadzonej przez małżonka przed objęciem stanowiska, a także o zamiarze podjęcia przez małżonka takiej działalności lub zmianie jej charakteru w trakcie zajmowania stanowiska.
+1. Sędzia Trybunału jest obowiązany do złożenia Prezesowi Trybunału oświadczenia o działalności gospodarczej prowadzonej przez małżonka – przed objęciem stanowiska, a także o zamiarze podjęcia przez małżonka takiej działalności lub zmianie jej charakteru – w trakcie zajmowania stanowiska.
 
 2. Prezes Trybunału składa oświadczenie, o którym mowa w ust. 1, Pierwszemu Prezesowi Sądu Najwyższego.
 
@@ -97,15 +96,15 @@ o statusie sędziów Trybunału Konstytucyjnego
 
 **Art. 14.**
 
-1. S ę dzia Trybunału jest obowi ą zany do zło ż enia o ś wiadczenia o swoim stanie maj ą tkowym. O ś wiadczenie to dotyczy maj ą tku odr ę bnego oraz obj ę tego mał ż e ń sk ą wspólno ś ci ą maj ą tkow ą .
+1. Sędzia Trybunału jest obowiązany do złożenia oświadczenia o swoim stanie majątkowym. Oświadczenie to dotyczy majątku odrębnego oraz objętego małżeńską wspólnością majątkową.
 
-2. O ś wiadczenie, o którym mowa w ust. 1, zawiera w szczególno ś ci informacje o posiadanych zasobach pieni ęż nych, nieruchomo ś ciach, udziałach i akcjach w spółkach prawa handlowego, a ponadto o nabytym przez s ę dziego Trybunału albo jego mał ż onka od Skarbu Pa ń stwa, innej pa ń stwowej osoby prawnej, jednostek samorz ą du terytorialnego lub ich zwi ą zków mieniu, które podlegało zbyciu w drodze przetargu. Oświadczenie to zawiera również dane dotyczące prowadzenia działalności gospodarczej oraz pełnienia funkcji w spółkach lub spółdzielniach, o których mowa w art. 11 ust. 1 pkt 1 i 2.
+2. Oświadczenie, o którym mowa w ust. 1, zawiera w szczególności informacje o posiadanych zasobach pieniężnych, nieruchomościach, udziałach i akcjach w spółkach prawa handlowego, a ponadto o nabytym przez sędziego Trybunału albo jego małżonka od Skarbu Państwa, innej państwowej osoby prawnej, jednostek samorządu terytorialnego lub ich związków mieniu, które podlegało zbyciu w drodze przetargu. Oświadczenie to zawiera również dane dotyczące prowadzenia działalności gospodarczej oraz pełnienia funkcji w spółkach lub spółdzielniach, o których mowa w art. 11 ust. 1 pkt 1 i 2.
 
 3. Oświadczenie, o którym mowa w ust. 1, składa się przed objęciem stanowiska, a następnie co roku do dnia 31 marca, a także w dniu opuszczenia stanowiska. Oświadczenie składa się według stanu na dzień złożenia oświadczenia.
 
 4. Oświadczenie, o którym mowa w ust. 1, składa się w dwóch egzemplarzach.
 
-5. Oświadczenie, o którym mowa w ust. 1, sędzia Trybunału składa Prezesowi Trybunału, a Prezes Trybunału Pierwszemu Prezesowi Sądu Najwyższego.
+5. Oświadczenie, o którym mowa w ust. 1, sędzia Trybunału składa Prezesowi Trybunału, a Prezes Trybunału – Pierwszemu Prezesowi Sądu Najwyższego.
 
 6. Podmiot, któremu złożono oświadczenie, o którym mowa w ust. 1, do dnia 31 maja dokonuje analizy zawartych w nim danych i przekazuje jeden egzemplarz oświadczenia naczelnikowi urzędu skarbowego właściwego ze względu na miejsce zamieszkania sędziego Trybunału.
 
@@ -117,19 +116,19 @@ o statusie sędziów Trybunału Konstytucyjnego
 
 1. Wzory formularzy oświadczeń, o których mowa w art. 13 ust. 1, są określone w załącznikach nr 1 i 2 do ustawy.
 
-2. Wzór formularza o ś wiadczenia, o którym mowa w art. 14 ust. 1, jest okre ś lony w zał ą czniku nr 3 do ustawy.
+2. Wzór formularza oświadczenia, o którym mowa w art. 14 ust. 1, jest określony w załączniku nr 3 do ustawy.
 
 **Art. 16.**
 
 1. Wynagrodzenie zasadnicze sędziego Trybunału stanowi wielokrotność podstawy ustalenia tego wynagrodzenia, z zastosowaniem mnożnika 5,0.
 
-2. Podstawę ustalenia wynagrodzenia zasadniczego sędziego Trybunału w danym roku stanowi przeciętne wynagrodzenie w drugim kwartale roku poprzedniego, ogłaszane w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 20 pkt 2 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2016 r. poz. 887).
+2. Podstawę ustalenia wynagrodzenia zasadniczego sędziego Trybunału w danym roku stanowi przeciętne wynagrodzenie w drugim kwartale roku poprzedniego, ogłaszane w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 20 pkt 2 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2018 r. poz. 1270).
 
 3. Jeżeli przeciętne wynagrodzenie, o którym mowa w ust. 2, jest niższe od przeciętnego wynagrodzenia ogłoszonego za drugi kwartał roku poprzedniego, przyjmuje się podstawę ustalenia wynagrodzenia zasadniczego sędziego Trybunału w dotychczasowej wysokości.
 
 4. Wynagrodzenie Prezesa oraz Wiceprezesa Trybunału odpowiada wynagrodzeniu zasadniczemu sędziego Trybunału powiększonemu o dodatek funkcyjny ustalany według podstawy, o której mowa w ust. 2, z zastosowaniem mnożnika, odpowiednio: 1,2 oraz 0,8.
 
-**Art. 17.** Sędziemu Trybunału stale zamieszkałemu poza m.st. Warszawą przysługuje bezpłatne zakwaterowanie w m.st. Warszawie oraz zwrot kosztów przejazdu i dodatek z tytułu rozłąki z rodziną na zasadach określonych w przepisach wykonawczych wydanych na podstawie art. 26 ust. 2a ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych (Dz. U. z 2016 r. poz. 1511).
+**Art. 17.** Sędziemu Trybunału stale zamieszkałemu poza m.st. Warszawą przysługuje bezpłatne zakwaterowanie w m.st. Warszawie oraz zwrot kosztów przejazdu i dodatek z tytułu rozłąki z rodziną na zasadach określonych w przepisach wykonawczych wydanych na podstawie art. 26 ust. 2a ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych (Dz. U. z 2017 r. poz. 2142 i 2203 oraz z 2018 r. poz. 106, 650 i 1000).
 
 **Art. 18.**
 
@@ -142,12 +141,14 @@ o statusie sędziów Trybunału Konstytucyjnego
 
 2. Wygaśnięcie mandatu sędziego Trybunału stwierdza:
 
-- **1)** w przypadku, o którym mowa w ust. 1 pkt 1 Prezes Trybunału w drodze postanowienia;
-- **2)** w przypadkach, o których mowa w ust. 1 pkt 2–4 Zgromadzenie Ogólne w drodze uchwały.
+- **1)** w przypadku, o którym mowa w ust. 1 pkt 1 – Prezes Trybunału w drodze postanowienia;
+- **2)** w przypadkach, o których mowa w ust. 1 pkt 2–4 – Zgromadzenie Ogólne w drodze uchwały.
 
-3. Prezes Trybunału przekazuje niezwłocznie Marszałkowi Sejmu postanowienie lub uchwał ę stwierdzaj ą ce wyga ś ni ę cie mandatu s ę dziego Trybunału.
+3. Prezes Trybunału przekazuje niezwłocznie Marszałkowi postanowienie lub uchwałę stwierdzające wygaśnięcie mandatu sędziego Trybunału.
 
-**Art. 19.** W zakresie nieuregulowanym w niniejszej ustawie do praw i obowi ą zków s ę dziów Trybunału stosuje si ę odpowiednio przepisy art. 43–45 ustawy z dnia 23 listopada 2002 r. o S ą dzie Najwy ż szym.
+**Art. 18a.** W razie śmierci sędziego Trybunału stosuje się odpowiednio przepisy dotyczące świadczeń, o których mowa w art. 101 i art. 102 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2018 r. poz. 23, z późn. zm. ), oraz przepisy wydane na podstawie art. 103 tej ustawy.
+
+**Art. 19.** W zakresie nieuregulowanym w niniejszej ustawie do praw i obowiązków sędziów Trybunału stosuje się odpowiednio przepisy dotyczące praw i obowiązków sędziów Sądu Najwyższego.
 
 #### Rozdział 3 Immunitet i nietykalność osobista oraz zasady odpowiedzialności dyscyplinarnej sędziego Trybunału
 
@@ -167,7 +168,7 @@ o statusie sędziów Trybunału Konstytucyjnego
 
 2. Wniosek o wyrażenie zgody na pociągnięcie sędziego Trybunału do odpowiedzialności karnej w sprawie o przestępstwo ścigane z oskarżenia prywatnego składa oskarżyciel prywatny, po wniesieniu sprawy do sądu.
 
-3. Wniosek, o którym mowa w ust. 2, sporządza i podpisuje adwokat lub radca prawny, z wyjątkiem wniosków składanych w swoich sprawach przez s ę dziów, prokuratorów, adwokatów, radców prawnych, notariuszy oraz profesorów i doktorów habilitowanych nauk prawnych.
+3. Wniosek, o którym mowa w ust. 2, sporządza i podpisuje adwokat lub radca prawny, z wyjątkiem wniosków składanych w swoich sprawach przez sędziów, prokuratorów, adwokatów, radców prawnych, notariuszy oraz profesorów i doktorów habilitowanych nauk prawnych.
 
 **Art. 22.**
 
@@ -193,8 +194,8 @@ o statusie sędziów Trybunału Konstytucyjnego
 
 1. W postępowaniu dyscyplinarnym orzeka Trybunał jako sąd dyscyplinarny:
 
-- **1)** pierwszej instancji w składzie trzech sędziów Trybunału;
-- **2)** drugiej instancji w składzie pięciu sędziów Trybunału.
+- **1)** pierwszej instancji – w składzie trzech sędziów Trybunału;
+- **2)** drugiej instancji – w składzie pięciu sędziów Trybunału.
 
 2. Sędziów Trybunału do składów orzekających wyznacza w drodze losowania Prezes Trybunału. W losowaniu składu sądu dyscyplinarnego drugiej instancji nie uczestniczą sędziowie Trybunału, którzy orzekali w sprawie w pierwszej instancji.
 
@@ -202,7 +203,7 @@ o statusie sędziów Trybunału Konstytucyjnego
 
 **Art. 27.**
 
-1. Prezes Trybunału w drodze losowania wyznacza s ę dziego Trybunału rzecznika dyscyplinarnego, zwanego dalej „rzecznikiem dyscyplinarnym”.
+1. Prezes Trybunału w drodze losowania wyznacza sędziego Trybunału – rzecznika dyscyplinarnego, zwanego dalej „rzecznikiem dyscyplinarnym”.
 
 2. Rzecznik dyscyplinarny podejmuje czynności zmierzające do wstępnego wyjaśnienia okoliczności niezbędnych do ustalenia znamion przewinienia, a także wysłuchuje sędziego, którego dotyczy zawiadomienie, o którym mowa w art. 26, chyba że złożenie wyjaśnień przez sędziego Trybunału nie jest możliwe.
 
@@ -218,7 +219,7 @@ o statusie sędziów Trybunału Konstytucyjnego
 
 **Art. 29.** Karami dyscyplinarnymi są:
 
-**Art. 30.** W sprawach nieuregulowanych w niniejszej ustawie do postępowania dyscyplinarnego stosuje się odpowiednio przepisy ustawy z dnia 27 lipca 2001 r. Prawo o ustroju sądów powszechnych (Dz. U. z 2015 r. poz. 133, z późn. zm. ) oraz ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego (Dz. U. z 2016 r. poz. 1749).
+**Art. 30.** W sprawach nieuregulowanych w niniejszej ustawie do postępowania dyscyplinarnego stosuje się odpowiednio przepisy ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych oraz ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2017 r. poz. 1904, z późn. zm. ).
 
 #### Rozdział 4 Stan spoczynku
 
@@ -228,7 +229,7 @@ o statusie sędziów Trybunału Konstytucyjnego
 
 1. Sędzia Trybunału może na swój wniosek zostać przeniesiony w stan spoczynku, jeżeli z powodu choroby, ułomności lub utraty sił został uznany przez lekarza orzecznika Zakładu Ubezpieczeń Społecznych za trwale niezdolnego do pełnienia obowiązków sędziego Trybunału.
 
-2. W szczególnie uzasadnionym przypadku z wnioskiem w sprawie wydania przez lekarza orzecznika Zakładu Ubezpieczeń Społecznych orzeczenia o trwałej niezdolności do pełnienia obowiązków sędziego Trybunału z powodu jego choroby, ułomności lub utraty sił może wystąpić Zgromadzenie Ogólne.
+2. W szczególnie uzasadnionym przypadku z wnioskiem w sprawie wydania przez lekarza orzecznika Zakładu Ubezpieczeń Społecznych orzeczenia o trwałej niezdolności do pełnienia obowiązków sędziego Trybunału z powodu jego choroby, ułomności lub utraty sił może wystąpić Zgromadzenie Ogólne. <2a. Orzeczenie lekarza orzecznika Zakładu Ubezpieczeń Społecznych, o którym mowa w ust. 1 i 2, jest wydawane na zasadach i w trybie określonych w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2025 r. poz. 350, z późn. zm. ).>
 
 3. Uchwałę o przeniesieniu w stan spoczynku sędziego Trybunału trwale niezdolnego do pełnienia obowiązków sędziego Trybunału podejmuje Zgromadzenie Ogólne. W uchwale określa się datę przejścia sędziego Trybunału w stan spoczynku, oznaczającą zarazem zakończenie kadencji sędziego Trybunału.
 
@@ -253,7 +254,7 @@ o statusie sędziów Trybunału Konstytucyjnego
 - **1)** upomnienie;
 - **2)** nagana;
 - **3)** obniżenie uposażenia sędziego Trybunału w stanie spoczynku w wysokości od 10% do 20% na okres do 2 lat;
-- **4)** pozbawienie s ę dziego Trybunału w stanie spoczynku tego statusu.
+- **4)** pozbawienie sędziego Trybunału w stanie spoczynku tego statusu.
 
 **Art. 35.**
 
@@ -271,7 +272,7 @@ o statusie sędziów Trybunału Konstytucyjnego
 
 2. Utratę statusu sędziego w stanie spoczynku stwierdza Zgromadzenie Ogólne w drodze uchwały.
 
-**Art. 37.** Do sędziego Trybunału w stanie spoczynku przepisy art. 11 ust. 1 i 2, art. 12 oraz art. 20–23 stosuje się odpowiednio.
+**Art. 37.** Do sędziego Trybunału w stanie spoczynku przepisy art. 11 ust. 1 i 2, art. 12, art. 18a oraz art. 20–23 stosuje się odpowiednio.
 
 **Art. 38.**
 
@@ -279,7 +280,7 @@ o statusie sędziów Trybunału Konstytucyjnego
 
 2. W wypadku mniejszej wagi, sprawca czynu określonego w ust. 1 podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
 
-#### Rozdział 5 Przepis ko ń cowy
+#### Rozdział 5 Przepis końcowy
 
-**Art. 39.** Ustawa wchodzi w życie w terminie określonym w ustawie Przepisy wprowadzające ustawę o organizacji i trybie postępowania przed Trybunałem Konstytucyjnym oraz ustawę o statusie sędziów Trybunału Konstytucyjnego. Prezydent Rzeczypospolitej Polskiej: A. Duda WZÓR OŚWIADCZENIE o działalności gospodarczej prowadzonej przez małżonka Ja, niżej podpisany(a), ...…………………………………………………………………………………………………….... urodzony(a) ................................................................................ w …………………………...……………………………… zatrudniony(a) w ..……………………………....……………………………………………………………………………... zamieszkały(a) w ....................................................................................................................................................................... nr dowodu osobistego ............................................................................................................................................................... po zapoznaniu się z przepisami ustawy z dnia 30 listopada 2016 r. o statusie sędziów Trybunału Konstytucyjnego (Dz. U. poz. 2073), zgodnie z art. 13 ust. 1 tej ustawy oświadczam, że mój małżonek .......................................................................... ................................................................................................................................................................................................... zamieszkały(a) w ....................................................................................................................................................................... prowadzi działalność gospodarczą (nie prowadzi działalności gospodarczej) (przedmiot działalności, adres, data rozpoczęcia działalności) .............................................................................................................................................................................. ................................................................................................................................................................................................... ................................................................................................................................................................................................... ................................................................................................................................................................................................... ................................................................................................................................................................................................... ................................................. ........................................... WZÓR OŚWIADCZENIE o zamiarze podjęcia lub o zmianie charakteru działalności gospodarczej prowadzonej przez małżonka Ja, niżej podpisany(a), ............................................................................................................................................................... urodzony(a) ..................................................................w ......................................................................................................... zatrudniony(a) w ....................................................................................................................................................................... zamieszkały(a) w ....................................................................................................................................................................... nr dowodu osobistego ............................................................................................................................................................... po zapoznaniu si ę z przepisami ustawy z dnia 30 listopada 2016 r. o statusie s ę dziów Trybunału Konstytucyjnego (Dz. U. poz. 2073), zgodnie z art. 13 ust. 1 tej ustawy oświadczam, że mój małżonek ......................................................................... ................................................................................................................................................................................................... zamieszkały(a) w .......................................................................................................................................................................
+**Art. 39.** Ustawa wchodzi w życie w terminie określonym w ustawie – Przepisy wprowadzające ustawę o organizacji i trybie postępowania przed Trybunałem Konstytucyjnym oraz ustawę o statusie sędziów Trybunału Konstytucyjnego.
 

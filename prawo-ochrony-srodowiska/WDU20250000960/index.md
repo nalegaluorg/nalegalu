@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 21 lipca 2025 r.
+# Prawo wodne
+
+*USTAWA z dnia 20 lipca 2017 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,140 +26,7 @@ domain: null
 | Ostatnia zmiana | 2026-04-09 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000960) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/960/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 26 czerwca 2025 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy Prawo wodne
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 20 lipca 2017 r. Prawo wodne (Dz. U. z 2024 r. poz. 1087), z uwzględnieniem zmian wprowadzonych:
-1) ustawą z dnia 28 czerwca 2024 r. o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw (Dz. U.
-poz. 1089),
-2) ustawą z dnia 1 października 2024 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (Dz. U. poz. 1473 i 1717),
-3) ustawą z dnia 24 stycznia 2025 r. zmieniającą ustawę Prawo wodne oraz ustawę o zmianie ustawy Prawo wodne oraz niektórych innych ustaw (Dz. U. poz. 216),
-4) ustawą z dnia 9 maja 2025 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (Dz. U. poz. 680) oraz zmian wynikających z przepisów ogłoszonych przed dniem 25 czerwca 2025 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 44 ustawy z dnia 28 czerwca 2024 r. o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw (Dz. U. poz. 1089), który stanowi: „Art. 44. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem art. 8 pkt 3 i 4 oraz art. 16 pkt 2, które wchodzą w życie z dniem 1 stycznia 2025 r.”;
-2) art. 30, art. 38–39a, art. 58 i art. 74 ustawy z dnia 1 października 2024 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (Dz. U. poz. 1473 i 1717), które stanowią: „Art. 30. 1. W okresie 6 miesięcy od dnia wejścia w życie niniejszej ustawy do udzielania zamówień publicznych na usługi lub dostawy związanych z usuwaniem skutków zdarzeń spowodowanych wystąpieniem powodzi w rozumieniu art. 16 pkt 43 ustawy zmienianej w art. 16, zaistniałych po dniu 12 września 2024 r., nie stosuje się przepisów ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320).
-2. Zamawiający, w terminie 30 dni od dnia udzielenia zamówienia, o którym mowa w ust. 1, zamieszcza w Biuletynie Zamówień Publicznych informację o udzieleniu tego zamówienia, w której podaje:
-1) nazwę (firmę) i adres siedziby zamawiającego;
-2) datę i miejsce zawarcia umowy lub informację o zawarciu umowy drogą elektroniczną;
-3) opis przedmiotu umowy, z wyszczególnieniem odpowiednio ilości rzeczy lub innych dóbr oraz zakresu usług;
-4) cenę albo cenę maksymalną, jeżeli cena nie jest znana w chwili zamieszczenia ogłoszenia;
-5) wskazanie okoliczności faktycznych uzasadniających udzielenie zamówienia bez zastosowania przepisów ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych;
-6) nazwę (firmę) podmiotu albo imię i nazwisko osoby, z którymi została zawarta umowa.” „Art. 38. Poszkodowani w rozumieniu art. 2 ustawy zmienianej w art. 1 będący podmiotami prowadzącymi chów lub hodowlę zwierząt gospodarskich, których gospodarstwa lub grunty rolne są położone na obszarze, na którym wprowadzono stan klęski żywiołowej w związku z powodzią, która miała miejsce we wrześniu 2024 r., dostosują powierzchnię lub pojemność miejsc do przechowywania nawozów naturalnych do wymogów określonych w przepisach wydanych na podstawie art. 106 ust. 4 ustawy zmienianej w art. 16 w terminie do dnia 31 grudnia 2027 r.
 Art. 480–524. (pominięte)
-
-**Art. 39.** Do dnia 31 grudnia 2025 r. zwalnia się z opłat, o których mowa w art. 109 ust. 4 ustawy zmienianej w art. 16, poszkodowanych w rozumieniu art. 2 ustawy zmienianej w art. 1 będących podmiotami prowadzącymi produkcję rolną, w tym działy specjalne produkcji rolnej, oraz działalność, w ramach której są stosowane nawozy lub są przechowywane nawozy naturalne, a których gospodarstwa lub grunty rolne są położone na obszarze, na którym wprowadzono stan klęski żywiołowej w związku z powodzią, która miała miejsce we wrześniu 2024 r.
-
-**Art. 39a.**
-
-1. Właściwy starosta sporządzi i przekaże właściwemu wojewódzkiemu inspektorowi ochrony środowiska, w terminie do dnia 31 stycznia 2025 r., wykaz:
-
-- **1)** poszkodowanych, o których mowa w art. 38;
-- **2)** poszkodowanych, o których mowa w art. 39.
-
-2. Wykaz zawiera imiona i nazwiska albo nazwy poszkodowanych, ich adresy zamieszkania albo siedziby.” „Art. 58. Do inwestycji, o których mowa w art. 4 ust. 1 pkt 2e ustawy zmienianej w art. 18 oraz z zakresu dróg krajowych, linii kolejowych lub dworców kolejowych, zniszczonych lub uszkodzonych w wyniku powodzi lub osunięcia ziemi nie stosuje się art. 398 ustawy zmienianej w art. 16.” „Art. 74. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.”;
-
-- **3)** art. 3 ustawy z dnia 24 stycznia 2025 r. zmieniającej ustawę Prawo wodne oraz ustawę o zmianie ustawy Prawo wodne oraz niektórych innych ustaw (Dz. U. poz. 216), który stanowi: „Art. 3. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
-- **4)** art. 17–21, art. 30, art. 37 i art. 38 ustawy z dnia 9 maja 2025 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (Dz. U. poz. 680), które stanowią: „Art. 17. 1. Poszkodowany, w tym poszkodowany będący gminą, będący właścicielem zabudowanej nieruchomości, na której według stanu na dzień wystąpienia powodzi z września 2024 r. był posadowiony co najmniej jeden budynek mieszkalny i budynek ten został, w wyniku tej powodzi, uszkodzony w takim stopniu, że jest przeznaczony do rozbiórki, może w terminie do dnia 1 października 2025 r. wystąpić z wnioskiem o złożenie oferty wykupu tej nieruchomości przez Skarb Państwa na zasadach określonych w niniejszym artykule oraz art. 18–21.
-
-2. Do poszkodowanego, któremu przysługuje prawo własności lub spółdzielcze własnościowe prawo do lokalu mieszkalnego lub użytkowego w budynku, o którym mowa w ust. 1, lub udział w prawie własności nieruchomości, o której mowa w ust. 1, lub udział w prawie własności do lokalu mieszkalnego lub użytkowego lub udział w spółdzielczym własnościowym prawie do lokalu mieszkalnego lub użytkowego, przepisy niniejszego artykułu oraz art. 18–21 stosuje się odpowiednio.
-
-3. Ilekroć w niniejszym artykule oraz art. 18–21 mowa jest o poszkodowanym, należy przez to rozumieć poszkodowanego w rozumieniu art. 2 ustawy z dnia 16 września 2011 r. o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi (Dz. U. z 2024 r. poz. 654, 1473, 1635 i 1717 oraz z 2025 r. poz. 620 i 680).
-
-4. Ilekroć w niniejszym artykule oraz art. 18–21 mowa jest o budynku mieszkalnym, należy przez to rozumieć budynek mieszkalny zgodnie z definicją zawartą w Polskiej Klasyfikacji Obiektów Budowlanych (PKOB), z wyłączeniem budynków zamieszkania zbiorowego w rozumieniu określonym w PKOB. W odniesieniu do przypadków określonych w ust. 11 przez budynek mieszkalny na nieruchomości rolnej należy rozumieć także budynek, który składa się zarówno z części mieszkalnej, obejmującej jedno lub więcej mieszkań, jak i z części inwentarskiej, obejmującej w szczególności stajnię, oborę, chlewnię, lub gospodarskiej, przeznaczonej na cele związane z prowadzeniem gospodarstwa rolnego, niezależnie od tego, jaką część budynku zajmuje mieszkanie.
-
-5. Ilekroć w niniejszym artykule oraz art. 18–21 mowa jest o budynku przeznaczonym do rozbiórki, należy przez to rozumieć budynek w takim stanie technicznym, że nie nadaje się do odbudowy, przebudowy ani remontu, co zostało stwierdzone w ostatecznej decyzji o nakazie rozbiórki, ostatecznej decyzji o pozwoleniu na rozbiórkę albo wykazane w dokumentacji dołączonej do dokonanego zgłoszenia rozbiórki. Jeżeli na podstawie przepisów prawa do rozbiórki budynku można przystąpić bez uzyskania takich decyzji lub bez dokonania zgłoszenia, budynek uznaje się za przeznaczony do rozbiórki, jeżeli stan techniczny budynku odpowiadający kryteriom opisanym w zdaniu pierwszym zostanie stwierdzony w ekspertyzie osoby posiadającej uprawnienia budowlane bez ograniczeń w odpowiedniej specjalności lub w protokole sporządzonym przez uprawniony podmiot w następstwie przeprowadzenia kontroli stanu technicznego budynku w trybie przewidzianym przepisami prawa budowlanego.
-
-6. Ilekroć w niniejszym artykule oraz art. 18–21 mowa jest o dniu wystąpienia powodzi we wrześniu 2024 r., należy przez to rozumieć dzień 13 września 2024 r.
-
-7. Nieruchomość, o której mowa w ust. 1, może zostać wykupiona, jeżeli spełnione są łącznie następujące warunki:
-
-- **1)** posadowiony na niej budynek mieszkalny:
-    - **a)** jest zlokalizowany na obszarze szczególnego zagrożenia powodzią w rozumieniu art. 16 pkt 34 ustawy z dnia 20 lipca 2017 r. Prawo wodne (Dz. U. z 2024 r. poz. 1087, 1089 i 1473 oraz z 2025 r. poz. 216 i 680),
-    - **b)** jest położony na terenie gminy lub miejscowości wskazanych w przepisach wydanych na podstawie art. 1 ust. 2 ustawy z dnia 16 września 2011 r. o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi (Dz. U. z 2024 r. poz. 654, 1473, 1635 i 1717 oraz z 2025 r. poz. 620 i 680);
-
-- **2)** poszkodowany wykaże, że budynek, o którym mowa w pkt 1, został wykonany zgodnie z przepisami obowiązującego prawa, to jest na podstawie wymaganej odpowiednio ostatecznej decyzji o pozwoleniu na budowę albo dokonanego zgłoszenia budowy, od którego nie wniesiono sprzeciwu, albo zgodnie z ostateczną decyzją o legalizacji, albo zgodnie z innym dokumentem wymaganym przepisami prawa, z wyjątkiem sytuacji, w której poszkodowany nie jest w stanie tego wykazać, ponieważ zgodnie z przepisami obowiązującego prawa nie ma on obowiązku posiadania dokumentów potwierdzających powyższe okoliczności, lub nabył tytuł prawny do nieruchomości po wybudowaniu budynku bez takich dokumentów lub utracił je wskutek powodzi oraz okoliczności tych nie można ustalić w sposób urzędowy;
-- **3)** poszkodowany wykaże, w sposób określony w ust. 5, że budynek jest przeznaczony do rozbiórki.
-
-8. Uprawnienie, o którym mowa w ust. 1, przysługuje właścicielowi względem całej nieruchomości, z wyłączeniem przypadków, o których mowa w ust. 9–11.
-
-9. W przypadku gdy powierzchnia nieruchomości spełniającej warunki określone w ust. 7 przekracza 0,2 ha, uprawnienie, o którym mowa w ust. 1, przysługuje poszkodowanemu wyłącznie w odniesieniu do części nieruchomości o powierzchni wynoszącej maksymalnie 0,2 ha, na której znajduje się budynek mieszkalny, chyba że poszkodowany wykaże, że wskutek wykupu jedynie części nieruchomości pozostała jej część nie będzie mogła być zagospodarowana jako odrębna nieruchomość lub z innych obiektywnych przyczyn utraci dla niego znaczenie gospodarcze.
-
-10. W przypadku gdy część nieruchomości spełniającej warunki określone w ust. 7 wykracza poza obszar szczególnego zagrożenia powodzią w rozumieniu art. 16 pkt 34 ustawy z dnia 20 lipca 2017 r. Prawo wodne, uprawnienie, o którym mowa w ust. 1, przysługuje poszkodowanemu wyłącznie w odniesieniu do tej części nieruchomości, która znajduje się na tym obszarze i na której znajduje się budynek mieszkalny, a powierzchnia takiej części wynosi maksymalnie 0,2 ha, chyba że uprawniony wykaże, że wskutek wykupu jedynie części nieruchomości pozostała jej część nie będzie mogła być zagospodarowana jako odrębna nieruchomość lub z innych obiektywnych przyczyn utraci dla niego znaczenie gospodarcze.
-
-11. W przypadku gdy nieruchomość spełniająca warunki określone w ust. 7 jest nieruchomością rolną w rozumieniu art. 2 pkt 1 ustawy z dnia 11 kwietnia 2003 r. o kształtowaniu ustroju rolnego (Dz. U. z 2024 r. poz. 423 oraz z 2025 r. poz. 620), uprawnienie, o którym mowa w ust. 1, przysługuje poszkodowanemu wyłącznie w odniesieniu do części takiej nieruchomości stanowiącej grunty, znajdujące się w obrębie działki siedliskowej, na której jest zlokalizowany budynek mieszkalny, przy czym w tym wypadku mogą być to grunty rolne. Ograniczenia, o których mowa w ust. 9 i 10, mają odpowiednie zastosowanie do nieruchomości rolnych, z tym że powierzchnia części nieruchomości podlegającej wykupowi może w każdym przypadku wynosić maksymalnie 0,5 ha.
-
-12. Uprawnienie, o którym mowa w ust. 1, nie przysługuje podmiotowi lub osobie, która nabyła nieruchomość, o której mowa w ust. 1, lub prawo do lokalu, o którym mowa w ust. 2, w drodze kupna lub zamiany, po uszkodzeniu budynku mieszkalnego w wyniku powodzi we wrześniu 2024 r.
-
-13. Do nabycia nieruchomości rolnych w trybie określonym w niniejszym artykule oraz art. 18–21 nie stosuje się przepisów ustawy z dnia 11 kwietnia 2003 r. o kształtowaniu ustroju rolnego.
-
-**Art. 18.**
-
-1. Skarb Państwa dokonuje wykupu nieruchomości spełniającej warunki określone w art. 17 ust. 7, po cenie ustalonej według wartości rynkowej gruntu na dzień poprzedzający dzień wystąpienia powodzi we wrześniu 2024 r. powiększonej o wartość naniesień w postaci budynków mieszkalnych zlokalizowanych na tej nieruchomości oraz lokali mieszkalnych i użytkowych stanowiących odrębny przedmiot własności lub lokali spółdzielczych znajdujących się w budynkach mieszkalnych, przyjmując, że wartość 1 m powierzchni użytkowej budynku mieszkalnego lub lokalu mieszkalnego stanowi jego wartość na dzień poprzedzający dzień wystąpienia powodzi we wrześniu 2024 r.
-
-2. Dla określenia wartości 1 m powierzchni użytkowej budynku mieszkalnego lub lokalu mieszkalnego w dniu poprzedzającym dzień wystąpienia powodzi we wrześniu 2024 r. przyjmuje się, że wartość 1m odpowiadała wartości ostatnio ogłoszonego przed tym dniem wskaźnika przeliczeniowego kosztu odtworzenia 1 m powierzchni użytkowej budynków mieszkalnych w rozumieniu art. 2 ust. 1 pkt 12 ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego (Dz. U. z 2023 r. poz. 725) dla województwa albo gminy, na terenie której znajdował się ten budynek lub lokal.
-
-3. W przypadku gdy na nieruchomości, o której mowa w ust. 1, znajdują się także inne naniesienia niż te, o których mowa w ust. 2, są one wyceniane według wartości rynkowej.
-
-4. Przy ustalaniu ceny wykupu, o której mowa w ust. 1, przyjmuje się, że nieruchomość, o której mowa w ust. 1, jest zabudowana budynkiem mieszkalnym, który uległ zniszczeniu na skutek powodzi we wrześniu 2024 r., nawet jeżeli dokonano już rozbiórki tego budynku.
-
-5. Wartości, o których mowa w ust. 1, są ustalane na podstawie operatu szacunkowego sporządzonego przez rzeczoznawcę majątkowego na zamówienie Państwowego Gospodarstwa Wodnego Wody Polskie. Koszty sporządzenia operatu szacunkowego ponosi Państwowe Gospodarstwo Wodne Wody Polskie.
-
-**Art. 19.**
-
-1. Poszkodowany, któremu przysługuje uprawnienie do wystąpienia o wykup nieruchomości spełniającej warunki określone w art. 17 ust. 7, może uprzednio zwrócić się do właściwego miejscowo dyrektora regionalnego zarządu gospodarki wodnej Państwowego Gospodarstwa Wodnego Wody Polskie z wnioskiem o udzielenie informacji na temat:
-
-- **1)** ceny, za którą ta nieruchomość może zostać wykupiona;
-- **2)** spełnienia warunków do wykupu nieruchomości, o których mowa w art. 17.
-
-2. Wniosek, o którym mowa w ust. 1, zawiera:
-
-- **1)** dane identyfikacyjne dotyczące wnioskodawcy, w tym:
-    - **a)** imię i nazwisko,
-    - **b)** adres zamieszkania i adres do korespondencji, jeżeli jest inny niż adres zamieszkania,
-    - **c)** numer PESEL;
-
-- **2)** dane dotyczące nieruchomości, która ma podlegać wykupowi, w tym:
-    - **a)** lokalizację nieruchomości,
-    - **b)** tytuł prawny wnioskodawcy do nieruchomości, a jeżeli nieruchomość jest przedmiotem współwłasności, dodatkowo: wysokości udziału współwłaścicieli we współwłasności, dane identyfikacyjne współwłaścicieli, o których mowa w pkt 1,
-    - **c)** numer księgi wieczystej nieruchomości jeżeli nieruchomość ma założoną księgę wieczystą.
-
-3. Do wniosku, o którym mowa w ust. 1, dołącza się:
-
-- **1)** kopię ostatecznej decyzji o nakazie rozbiórki budynku mieszkalnego, ostatecznej decyzji o pozwoleniu na jego rozbiórkę lub kopię zgłoszenia jego rozbiórki wraz z załącznikami, a w przypadku gdy zgodnie z przepisami prawa rozbiórka budynku nie wymaga uzyskania pozwolenia na rozbiórkę oraz zgłoszenia zaświadczenie o złożeniu informacji, o której mowa w art. 8 ust. 6 ustawy z dnia 11 sierpnia 2001 r. o szczególnych zasadach odbudowy, remontów, przebudowy i rozbiórek obiektów budowlanych zniszczonych lub uszkodzonych w wyniku działania żywiołu (Dz. U. z 2024 r. poz. 1190, 1473 i 1717 oraz z 2025 r. poz. 680), albo inne zaświadczenie wykazujące, że dany budynek mieszkalny jest zwolniony z obowiązku uzyskania pozwolenia na jego rozbiórkę lub zgłoszenia jego rozbiórki;
-- **2)** w przypadku gdy budynek mieszkalny jest zwolniony z obowiązku uzyskania pozwolenia lub zgłoszenia dotyczącego rozbiórki ekspertyzę techniczną wykonaną przez osobę posiadającą uprawnienia budowlane bez ograniczeń w odpowiedniej specjalności lub protokół sporządzony przez uprawniony podmiot w następstwie przeprowadzenia kontroli stanu technicznego budynku mieszkalnego w trybie przewidzianym przepisami prawa budowlanego, z którego wynika, że budynek mieszkalny jest przeznaczony do rozbiórki w rozumieniu art. 17 ust. 5;
-- **3)** odpis księgi wieczystej lub innego dokumentu, z którego wynika tytuł prawny wnioskodawcy do danego budynku lub lokalu;
-- **4)** odpowiednio kopię decyzji o pozwoleniu na budowę albo dokonanego zgłoszenia budowy, albo decyzji o legalizacji, która była wymagana do budowy danego budynku, lub zaświadczenie odpowiedniego organu nadzoru budowlanego o wykonaniu budowy danego budynku zgodnie z przepisami ustawy z dnia 7 lipca 1994 r. Prawo budowlane.
-
-4. Jeżeli wnioskodawca w przypadkach, o których mowa w art. 17 ust. 7 pkt 2, nie dysponuje dokumentami potwierdzającymi okoliczności, o których mowa w tym przepisie oraz ust. 3 pkt 4, oraz okoliczności tych nie można ustalić w sposób urzędowy, może on przedstawić informacje w tym zakresie uzyskane od właściwego organu oraz złożyć oświadczenie, że budynek został wykonany zgodnie z przepisami ustawy z dnia 7 lipca 1994 r. Prawo budowlane albo o nieposiadaniu informacji na ten temat wraz ze wskazaniem przyczyny, dlaczego nie posiada tych informacji.
-
-5. Oświadczenie, o którym mowa w ust. 4, wnioskodawca składa pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
-
-6. Właściwy miejscowo dyrektor regionalnego zarządu gospodarki wodnej Państwowego Gospodarstwa Wodnego Wody Polskie niezwłocznie ustala i przedstawia poszkodowanemu informacje, o których mowa w ust. 1.
-
-**Art. 20.**
-
-1. Poszkodowany występuje do właściwego miejscowo dyrektora regionalnego zarządu gospodarki wodnej Państwowego Gospodarstwa Wodnego Wody Polskie z wnioskiem o złożenie oferty wykupu nieruchomości, spełniającym wymagania określone w art. 19 ust. 2, do którego załącza odpowiednie dokumenty i oświadczenia, o których mowa w art. 19 ust. 3 i 4.
-
-2. Jeżeli poszkodowany nie złożył wniosku, o którym mowa w art. 19 ust. 1, albo złożył taki wniosek, ale nie został on uwzględniony, cena, za którą ta nieruchomość może zostać wykupiona, jest ustalana przez Państwowe Gospodarstwo Wodne Wody Polskie na podstawie operatu szacunkowego sporządzonego przez rzeczoznawcę majątkowego na zamówienie Państwowego Gospodarstwa Wodnego Wody Polskie.
-
-3. Koszty opracowania operatu szacunkowego, o którym mowa w ust. 2, ponosi Państwowe Gospodarstwo Wodne Wody Polskie.
-
-4. O kolejności wniesienia wniosku, o którym mowa w ust. 1, rozstrzyga chwila wpływu wniosku do właściwego miejscowo dyrektora regionalnego zarządu gospodarki wodnej Państwowego Gospodarstwa Wodnego Wody Polskie. Za chwilę wpływu wniosku uważa się godzinę i minutę, w której w danym dniu wniosek wpłynął do właściwego miejscowo dyrektora regionalnego zarządu gospodarki wodnej Państwowego Gospodarstwa Wodnego Wody Polskie. Za chwilę wpływu wniosku złożonego za pośrednictwem systemu teleinformatycznego uważa się godzinę, minutę i sekundę umieszczenia wniosku w systemie. Wnioski, które wpłynęły w tej samej chwili uważa się za złożone równocześnie.
-
-5. W przypadku gdy wniosek, o którym mowa w ust. 1, nie spełnia wymagań określonych w art. 19 ust. 2, lub do którego nie załączono odpowiednich dokumentów i oświadczeń, o których mowa w art. 19 ust. 3 i 4, właściwy miejscowo dyrektor regionalnego zarządu gospodarki wodnej Państwowego Gospodarstwa Wodnego Wody Polskie niezwłocznie informuje o tym fakcie wnioskodawcę, wskazując jednocześnie przedmiotowe braki. Do czasu uzupełnienia wniosku lub przedłożenia wymaganych dokumentów wniosek, o którym mowa w ust. 1, nie podlega rozpatrzeniu.
-
-6. Właściwy miejscowo dyrektor regionalnego zarządu gospodarki wodnej Państwowego Gospodarstwa Wodnego Wody Polskie po rozpatrzeniu wniosku składa ofertę wykupu nieruchomości. Do oferty stosuje się przepisy ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. z 2024 r. poz. 1061 i 1237). Po przyjęciu oferty, wykupu nieruchomości dokonuje właściwy miejscowo dyrektor regionalnego zarządu gospodarki wodnej Państwowego Gospodarstwa Wodnego Wody Polskie w imieniu i na rzecz Skarbu Państwa.
-
-7. Złożenie oferty nie może nastąpić po wyczerpaniu limitu środków finansowych przeznaczonych na cel wykupu nieruchomości, o którym mowa w art. 36. Wnioski, o których mowa w ust. 1, rozpatruje się zgodnie z kolejnością wpływu kompletnych wniosków, spełniających wymagania, o których mowa w ust. 1.
-
-8. Właściwy miejscowo dyrektor regionalnego zarządu gospodarki wodnej Państwowego Gospodarstwa Wodnego Wody Polskie informuje pisemnie wnioskodawcę o niezłożeniu oferty z powodu wyczerpania limitu środków finansowych, o którym mowa w art. 36.
-
-9. Właściwy miejscowo dyrektor regionalnego zarządu gospodarki wodnej Państwowego Gospodarstwa Wodnego Wody Polskie tworzy listę rezerwową wniosków, do których zostaną złożone oferty w przypadku rezygnacji przez wnioskodawcę z zawarcia umowy sprzedaży.
-
-10. Wpis w księdze wieczystej oraz założenie księgi wieczystej w sprawach dotyczących wykupu nieruchomości są wolne od opłat.
-
-**Art. 21.** Do nabycia nieruchomości przez Skarb Państwa w trybie określonym w art. 17–20 nie stosuje się przepisów art. 27a ustawy zmienianej w art. 1.” „Art. 30. 1. W terminie 30 dni od dnia wejścia w życie niniejszej ustawy Prezes Państwowego Gospodarstwa Wodnego Wody Polskie dokonuje ustalenia zapotrzebowania na niezbędne środki finansowe związane z planowanym w 2025 r. nabyciem nieruchomości, o którym mowa w art. 258a ust. 1 ustawy zmienianej w art. 14, mając na uwadze stopień zniszczenia w wyniku powodzi obiektów budowlanych znajdujących się na tych nieruchomościach oraz wpływ tych obiektów na ochronę przeciwpowodziową, w szczególności utrudnienia swobodnego spływu wód powodziowych. 2. Zapotrzebowanie, o którym mowa w ust. 1, Prezes Państwowego Gospodarstwa Wodnego Wody Polskie przekazuje ministrowi właściwemu do spraw gospodarki wodnej w terminie 7 dni od dnia jego opracowania.” „Art. 37. 1. Maksymalny limit wydatków ze środków rezerwy celowej przeznaczonej na przeciwdziałanie klęskom żywiołowym i usuwanie ich skutków, będących skutkiem finansowym wejścia w życie niniejszej ustawy, przeznaczonych na nabycie nieruchomości przez Państwowe Gospodarstwo Wodne Wody Polskie, o którym mowa w art. 258a ustawy zmienianej w art. 14, na rok 2025 wynosi 30 000 000 zł. 2. Minister właściwy do spraw gospodarki wodnej monitoruje wykorzystanie limitu wydatków, o którym mowa w ust. 1. 3. W przypadku przekroczenia lub zagrożenia przekroczeniem limitu wydatków określonego w ust. 1 minister właściwy do spraw gospodarki wodnej wdraża mechanizm korygujący, polegający na niepodejmowaniu działań w sprawie kolejnych nabyć, o których mowa w ust. 1.
-
-**Art. 38.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem art. 1 pkt 6 oraz art. 23, które wchodzą w życie po upływie 21 dni od dnia ogłoszenia.”. Marszałek Sejmu: S. Hołownia USTAWA z dnia 20 lipca 2017 r. Prawo wodne
 
 ### DZIAŁ I Zasady ogólne
 
@@ -169,7 +38,7 @@ Art. 480–524. (pominięte)
 
 **Art. 3.** Przepisy ustawy stosuje się do wód śródlądowych oraz morskich wód wewnętrznych.
 
-**Art. 4.** Przepisy ustawy stosuje się do wód morza terytorialnego w zakresie planowania w gospodarowaniu wodami, ochrony przed zanieczyszczeniem ze źródeł lądowych oraz ochrony przed powodzią, a w pozostałym zakresie w przypadkach określonych w ustawie.
+**Art. 4.** Przepisy ustawy stosuje się do wód morza terytorialnego w zakresie planowania w gospodarowaniu wodami, ochrony przed zanieczyszczeniem ze źródeł lądowych oraz ochrony przed powodzią, a w pozostałym zakresie – w przypadkach określonych w ustawie.
 
 **Art. 5.** Przepisy ustawy stosuje się do wyłącznej strefy ekonomicznej Rzeczypospolitej Polskiej w przypadkach określonych w ustawie.
 
@@ -177,8 +46,9 @@ Art. 480–524. (pominięte)
 
 **Art. 7.**
 
-1. W zakresie uregulowanym w przepisach ustawy z dnia 9 czerwca 2011 r. Prawo geologiczne i górnicze (Dz. U. z 2024 r. poz. 1290 oraz z 2025 r. poz. 769) przepisów ustawy nie stosuje się do:
+1. W zakresie uregulowanym w przepisach ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2024 r. poz. 1290 oraz z 2025 r. poz.
 
+- **769)** przepisów ustawy nie stosuje się do:
 - **1)** poszukiwania i rozpoznawania wód podziemnych;
 - **2)** solanek, wód leczniczych oraz termalnych;
 - **3)** wprowadzania do górotworu wód pochodzących z odwodnienia zakładów górniczych oraz wykorzystanych wód, o których mowa w pkt 2.
@@ -216,7 +86,7 @@ Art. 480–524. (pominięte)
     - **d)** Łaby,
     - **e)** Niemna,
     - **f)** Pregoły,
-    - **g)** Świeżej obejmujące znajdujące się na terytorium Rzeczypospolitej Polskiej części międzynarodowych dorzeczy.
+    - **g)** Świeżej – obejmujące znajdujące się na terytorium Rzeczypospolitej Polskiej części międzynarodowych dorzeczy.
 
 2. Ustanawia się następujące regiony wodne:
 
@@ -236,22 +106,22 @@ Art. 480–524. (pominięte)
     - **d)** region wodny Warty,
     - **e)** region wodny Noteci;
 
-- **3)** na obszarze dorzecza Dniestru region wodny Dniestru;
+- **3)** na obszarze dorzecza Dniestru – region wodny Dniestru;
 - **4)** na obszarze dorzecza Dunaju:
     - **a)** region wodny Czarnej Orawy,
     - **b)** region wodny Czadeczki,
     - **c)** region wodny Morawy;
 
-- **5)** na obszarze dorzecza Banówki region wodny Banówki;
+- **5)** na obszarze dorzecza Banówki – region wodny Banówki;
 - **6)** na obszarze dorzecza Łaby:
     - **a)** region wodny Izery,
     - **b)** region wodny Łaby i Ostrożnicy (Upa),
     - **c)** region wodny Metuje,
     - **d)** region wodny Orlicy;
 
-- **7)** na obszarze dorzecza Niemna region wodny Niemna;
-- **8)** na obszarze dorzecza Pregoły region wodny Łyny i Węgorapy;
-- **9)** na obszarze dorzecza Świeżej region wodny Świeżej.
+- **7)** na obszarze dorzecza Niemna – region wodny Niemna;
+- **8)** na obszarze dorzecza Pregoły – region wodny Łyny i Węgorapy;
+- **9)** na obszarze dorzecza Świeżej – region wodny Świeżej.
 
 3. W ramach regionów wodnych, o których mowa w ust. 2, wyodrębnia się zlewnie.
 
@@ -285,19 +155,19 @@ Art. 480–524. (pominięte)
 - **9)** starosta;
 - **10)** wójt, burmistrz lub prezydent miasta.
 
-2. Do postępowania przed organami, o których mowa w ust. 1 pkt 3–6, stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572 oraz z 2025 r. poz. 769).
+2. Do postępowania przed organami, o których mowa w ust. 1 pkt 3–6, stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572 oraz z 2025 r. poz. 769).
 
-3. Prezes Wód Polskich pełni funkcję organu wyższego stopnia w rozumieniu przepisów ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego w stosunku do dyrektorów regionalnych zarządów gospodarki wodnej Wód Polskich w sprawach określonych ustawą.
+3. Prezes Wód Polskich pełni funkcję organu wyższego stopnia w rozumieniu przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego w stosunku do dyrektorów regionalnych zarządów gospodarki wodnej Wód Polskich w sprawach określonych ustawą.
 
-4. Właściwy dyrektor regionalnego zarządu gospodarki wodnej Wód Polskich pełni funkcję organu wyższego stopnia w rozumieniu przepisów ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego w stosunku do dyrektorów zarządów zlewni Wód Polskich w sprawach określonych ustawą.
+4. Właściwy dyrektor regionalnego zarządu gospodarki wodnej Wód Polskich pełni funkcję organu wyższego stopnia w rozumieniu przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego w stosunku do dyrektorów zarządów zlewni Wód Polskich w sprawach określonych ustawą.
 
-5. Właściwy dyrektor zarządu zlewni Wód Polskich pełni funkcję organu wyższego stopnia w rozumieniu przepisów ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego w stosunku do kierowników nadzorów wodnych Wód Polskich w sprawach określonych ustawą.
+5. Właściwy dyrektor zarządu zlewni Wód Polskich pełni funkcję organu wyższego stopnia w rozumieniu przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego w stosunku do kierowników nadzorów wodnych Wód Polskich w sprawach określonych ustawą.
 
-6. W sprawach należących do zakresu działania Wód Polskich organem właściwym w rozumieniu przepisów ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego jest:
+6. W sprawach należących do zakresu działania Wód Polskich organem właściwym w rozumieniu przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego jest:
 
-- **1)** dyrektor regionalnego zarządu gospodarki wodnej Wód Polskich w sprawach decyzji, o których mowa w art. 76 ust. 2, art. 77 ust. 3, 8, 11 i 14, art. 166 ust. 5, art. 175 ust. 1, art. 175a ust. 3, art. 176 ust. 4 i 9, art. 182 ust. 1, art. 199 ust. 4, art. 201 ust. 1, art. 202 ust. 1, art. 206, art. 343 ust. 2, 3 i 6 oraz w art. 472a ust. 2;
-- **2)** dyrektor zarządu zlewni Wód Polskich w sprawach decyzji, o których mowa w art. 80, art. 132, art. 135 ust. 1 pkt 1 i ust. 3, art. 226 ust. 4, art. 271 ust. 7, art. 272 ust. 19, art. 273 ust. 6, art. 275 ust. 15 i 19, art. 310 ust. 7, art. 311 ust. 6 oraz art. 472aa ust. 2;
-- **3)** kierownik nadzoru wodnego Wód Polskich w sprawach decyzji, o których mowa w art. 232 ust. 4, art. 394 ust. 2 oraz w art. 424 ust. 1.
+- **1)** dyrektor regionalnego zarządu gospodarki wodnej Wód Polskich – w sprawach decyzji, o których mowa w art. 76 ust. 2, art. 77 ust. 3, 8, 11 i 14, art. 166 ust. 5, art. 175 ust. 1, art. 175a ust. 3, art. 176 ust. 4 i 9, art. 182 ust. 1, art. 199 ust. 4, art. 201 ust. 1, art. 202 ust. 1, art. 206, art. 343 ust. 2, 3 i 6 oraz w art. 472a ust. 2;
+- **2)** dyrektor zarządu zlewni Wód Polskich – w sprawach decyzji, o których mowa w art. 80, art. 132, art. 135 ust. 1 pkt 1 i ust. 3, art. 226 ust. 4, art. 271 ust. 7, art. 272 ust. 19, art. 273 ust. 6, art. 275 ust. 15 i 19, art. 310 ust. 7, art. 311 ust. 6 oraz art. 472aa ust. 2;
+- **3)** kierownik nadzoru wodnego Wód Polskich – w sprawach decyzji, o których mowa w art. 232 ust. 4, art. 394 ust. 2 oraz w art. 424 ust. 1.
 
 **Art. 15.** W celu zapewnienia prawidłowego gospodarowania wodami na obszarach dorzeczy zarządzanie zasobami wodnymi wymaga:
 
@@ -309,19 +179,19 @@ Art. 480–524. (pominięte)
 
 1. Przepisy ustawy dotyczące:
 
-- **1)** właścicieli stosuje się odpowiednio do posiadaczy samoistnych oraz użytkowników wieczystych, a w przypadku eksploatacji instalacji w rozumieniu art. 3 pkt 6 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska do prowadzącego instalację;
-- **2)** właścicieli wód stosuje się odpowiednio do organów administracji publicznej, jednostek organizacyjnych nieposiadających osobowości prawnej, osób prawnych lub osób fizycznych wykonujących prawa właścicielskie w stosunku do wód;
-- **3)** urządzeń wodnych stosuje się odpowiednio do:
+- **1)** właścicieli – stosuje się odpowiednio do posiadaczy samoistnych oraz użytkowników wieczystych, a w przypadku eksploatacji instalacji w rozumieniu art. 3 pkt 6 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska – do prowadzącego instalację;
+- **2)** właścicieli wód – stosuje się odpowiednio do organów administracji publicznej, jednostek organizacyjnych nieposiadających osobowości prawnej, osób prawnych lub osób fizycznych wykonujących prawa właścicielskie w stosunku do wód;
+- **3)** urządzeń wodnych – stosuje się odpowiednio do:
     - **a)** urządzeń melioracji wodnych niezaliczonych do urządzeń wodnych,
     - **b)** obiektów mostowych, rurociągów, linii energetycznych, linii telekomunikacyjnych oraz innych urządzeń, wraz z infrastrukturą towarzyszącą, prowadzonych przez wody powierzchniowe oraz przez wały przeciwpowodziowe,
     - **c)** robót w wodach oraz innych robót, które mogą być przyczyną zmiany naturalnych przepływów wód, stanu wód stojących i stanu wód podziemnych poza granicami nieruchomości gruntowej, na której są prowadzone te roboty;
 
-- **4)** wykonania urządzeń wodnych stosuje się odpowiednio do odbudowy, rozbudowy, nadbudowy, przebudowy, rozbiórki lub likwidacji tych urządzeń, z wyłączeniem robót związanych z utrzymywaniem urządzeń wodnych w celu zachowania ich funkcji.
+- **4)** wykonania urządzeń wodnych – stosuje się odpowiednio do odbudowy, rozbudowy, nadbudowy, przebudowy, rozbiórki lub likwidacji tych urządzeń, z wyłączeniem robót związanych z utrzymywaniem urządzeń wodnych w celu zachowania ich funkcji.
 
 2. Ilekroć w ustawie jest mowa odpowiednio o właściwym organie Inspekcji Ochrony Środowiska lub o właściwych organach Inspekcji Ochrony Środowiska, należy przez to rozumieć:
 
-- **1)** w art. 37 ust. 12, art. 39 ust. 8 pkt 2, art. 109 ust. 14, art. 110 ust. 3, art. 111 ust. 2, art. 116, art. 118 ust. 1 i 2, art. 119 ust. 3, art. 151 ust. 1–11 i 14, art. 152 ust. 1 i 2, art. 154 ust. 1–5, art. 171 ust. 4 pkt 2, art. 297, art. 325 ust. 6, art. 349 ust. 3–7, 9–13 i 15, art. 351 ust. 1 i 3–6 oraz art. 352 ust. 1 i 2 Głównego Inspektora Ochrony Środowiska;
-- **2)** w art. 105b ust. 6, art. 108 ust. 1, 2, 5 i 6, art. 109 ust. 1 i 13, art. 109a, art. 282 ust. 8 i 9, art. 283 ust. 4 i 5, art. 284–287, art. 289, art. 296 ust. 1, 4, 7, 8, 10 i 12–16, art. 300 ust. 1, art. 304 ust. 1 pkt 2, art. 400 ust. 9 oraz art. 416 ust. 4 wojewódzkiego inspektora ochrony środowiska.
+- **1)** w art. 37 ust. 12, art. 39 ust. 8 pkt 2, art. 109 ust. 14, art. 110 ust. 3, art. 111 ust. 2, art. 116, art. 118 ust. 1 i 2, art. 119 ust. 3, art. 151 ust. 1–11 i 14, art. 152 ust. 1 i 2, art. 154 ust. 1–5, art. 171 ust. 4 pkt 2, art. 297, art. 325 ust. 6, art. 349 ust. 3– 7, 9–13 i 15, art. 351 ust. 1 i 3–6 oraz art. 352 ust. 1 i 2 – Głównego Inspektora Ochrony Środowiska;
+- **2)** w art. 105b ust. 6, art. 108 ust. 1, 2, 5 i 6, art. 109 ust. 1 i 13, art. 109a, art. 282 ust. 8 i 9, art. 283 ust. 4 i 5, art. 284–287, art. 289, art. 296 ust. 1, 4, 7, 8, 10 i 12– 16, art. 300 ust. 1, art. 304 ust. 1 pkt 2, art. 400 ust. 9 oraz art. 416 ust. 4 – wojewódzkiego inspektora ochrony środowiska.
 
 #### Rozdział 3 Wody oraz jednolite części wód
 
@@ -421,8 +291,8 @@ Art. 480–524. (pominięte)
 - **4)** odbiór i oczyszczanie ścieków;
 - **5)** wprowadzanie ścieków do wód lub do ziemi, obejmujące także wprowadzanie ścieków do urządzeń wodnych;
 - **6)** korzystanie z wód do celów energetyki, w tym energetyki wodnej;
-- **7)** odprowadzanie do wód lub do urządzeń wodnych wód opadowych lub roztopowych, ujętych w otwarte lub zamknięte systemy kanalizacji deszczowej służące do odprowadzania opadów atmosferycznych albo w systemy kanalizacji zbiorczej w granicach administracyjnych miast;
-- **8)** trwałe odwadnianie gruntów, obiektów lub wykopów budowlanych oraz zakładów górniczych, a także odprowadzanie do wód wód pochodzących z odwodnienia gruntów w granicach administracyjnych miast;
+- **7)** odprowadzanie do wód lub do urządzeń wodnych – wód opadowych lub roztopowych, ujętych w otwarte lub zamknięte systemy kanalizacji deszczowej służące do odprowadzania opadów atmosferycznych albo w systemy kanalizacji zbiorczej w granicach administracyjnych miast;
+- **8)** trwałe odwadnianie gruntów, obiektów lub wykopów budowlanych oraz zakładów górniczych, a także odprowadzanie do wód – wód pochodzących z odwodnienia gruntów w granicach administracyjnych miast;
 - **9)** odprowadzanie do wód lub do ziemi wód pobranych i niewykorzystanych.
 
 **Art. 36.**
@@ -440,7 +310,7 @@ Art. 480–524. (pominięte)
 6. Jeżeli wyniki kontroli gospodarowania wodami wskazują, że właściciele gruntów, którym przysługuje prawo do zwykłego korzystania z wód, o którym mowa w art. 33:
 
 - **1)** dokonują poboru wód podziemnych lub wód powierzchniowych w ilości średniorocznie przekraczającej 5 m na dobę,
-- **2)** wprowadzają ścieki do wód lub do ziemi w ilości przekraczającej łącznie 5 m na dobę Wody Polskie mogą, na własny koszt, wyposażyć tych właścicieli gruntów w przyrządy pomiarowe umożliwiające pomiar ilości pobranych wód lub pomiar ilości wprowadzonych ścieków.
+- **2)** wprowadzają ścieki do wód lub do ziemi w ilości przekraczającej łącznie 5 m na dobę – Wody Polskie mogą, na własny koszt, wyposażyć tych właścicieli gruntów w przyrządy pomiarowe umożliwiające pomiar ilości pobranych wód lub pomiar ilości wprowadzonych ścieków.
 
 7. Właściciele gruntów, którym przysługuje prawo do zwykłego korzystania z wód, o którym mowa w art. 33, dokonujący poboru wód lub wprowadzania ścieków do wód lub do ziemi, o którym mowa w ust. 6, są obowiązani zapewnić dostęp do nieruchomości w zakresie niezbędnym do wyposażenia ich w przyrządy pomiarowe.
 
@@ -487,7 +357,7 @@ Art. 480–524. (pominięte)
 
 11. Wójt, burmistrz lub prezydent miasta rozpatruje uwagi oraz propozycje, o których mowa w ust. 10, w terminie nie dłuższym niż 14 dni od dnia upływu terminu ich składania.
 
-12. Projekt uchwały, o której mowa w ust. 2, wraz z wnioskami, o których mowa w ust. 3, i dokumentami, o których mowa w ust. 5, wójt, burmistrz lub prezydent miasta, najpóźniej do dnia 28 lutego, przekazuje do zaopiniowania Wodom Polskim, właścicielowi wód oraz właściwemu organowi Inspekcji Ochrony Środowiska i państwowemu powiatowemu lub państwowemu granicznemu inspektorowi sanitarnemu, a w przypadku kąpieliska położonego na: terenie parku narodowego także dyrektorowi parku narodowego, polskich obszarach morskich także właściwemu dyrektorowi urzędu morskiego, śródlądowej drodze wodnej także właściwemu dyrektorowi urzędu żeglugi śródlądowej. Wody Polskie, właściciel wód, właściwy organ Inspekcji Ochrony Środowiska, państwowy powiatowy lub państwowy graniczny inspektor sanitarny, dyrektor parku narodowego, dyrektor urzędu żeglugi śródlądowej oraz dyrektor urzędu morskiego wyrażają opinie do przekazanego projektu uchwały, o której mowa w ust. 2, w terminie 14 dni. Brak opinii w tym terminie uznaje się za wyrażenie opinii pozytywnej.
+12. Projekt uchwały, o której mowa w ust. 2, wraz z wnioskami, o których mowa w ust. 3, i dokumentami, o których mowa w ust. 5, wójt, burmistrz lub prezydent miasta, najpóźniej do dnia 28 lutego, przekazuje do zaopiniowania Wodom Polskim, właścicielowi wód oraz właściwemu organowi Inspekcji Ochrony Środowiska i państwowemu powiatowemu lub państwowemu granicznemu inspektorowi sanitarnemu, a w przypadku kąpieliska położonego na: terenie parku narodowego – także dyrektorowi parku narodowego, polskich obszarach morskich – także właściwemu dyrektorowi urzędu morskiego, śródlądowej drodze wodnej – także właściwemu dyrektorowi urzędu żeglugi śródlądowej. Wody Polskie, właściciel wód, właściwy organ Inspekcji Ochrony Środowiska, państwowy powiatowy lub państwowy graniczny inspektor sanitarny, dyrektor parku narodowego, dyrektor urzędu żeglugi śródlądowej oraz dyrektor urzędu morskiego wyrażają opinie do przekazanego projektu uchwały, o której mowa w ust. 2, w terminie 14 dni. Brak opinii w tym terminie uznaje się za wyrażenie opinii pozytywnej.
 
 13. Na obszarze parku narodowego kąpielisko może zostać utworzone, jeżeli nie sprzeciwiają się temu postanowienia planu ochrony parku narodowego albo planu zadań ochronnych oraz zasady udostępniania parku narodowego.
 
@@ -723,30 +593,30 @@ Art. 480–524. (pominięte)
 
 - **1)** sposób sporządzania profilu wody w kąpielisku,
 - **2)** szczegółowy zakres informacji zawartych w profilu wody w kąpielisku i sposób ich przedstawiania,
-- **3)** sposób dokonywania aktualizacji profilu wody w kąpielisku mając na względzie poprawę jakości wody w kąpieliskach i ochronę zdrowia publicznego.
+- **3)** sposób dokonywania aktualizacji profilu wody w kąpielisku – mając na względzie poprawę jakości wody w kąpieliskach i ochronę zdrowia publicznego.
 
 5. Za udostępnienie informacji, o których mowa w ust. 3 pkt 2, pobiera się opłatę.
 
 6. Opłata za udostępnienie informacji, o których mowa w ust. 3 pkt 2, pobierana przez organ administracji:
 
-- **1)** rządowej stanowi dochód budżetu państwa;
-- **2)** samorządowej stanowi dochód budżetu jednostki samorządu terytorialnego.
+- **1)** rządowej – stanowi dochód budżetu państwa;
+- **2)** samorządowej – stanowi dochód budżetu jednostki samorządu terytorialnego.
 
 7. Opłaty za udostępnienie informacji, o których mowa w ust. 3 pkt 2, nie pobiera się, jeżeli wniosek o udostępnienie informacji został złożony przez organ administracji publicznej.
 
 8. Jednostkowe stawki opłat za udostępnienie informacji, o których mowa w ust. 3 pkt 2, wynoszą:
 
-- **1)** za wyszukiwanie informacji 10 zł, jeżeli udostępnienie wymaga wyszukania do dziesięciu dokumentów; opłata ulega zwiększeniu o nie więcej niż 1 zł za każdy kolejny dokument wymagający wyszukania;
-- **2)** za przekształcanie informacji w formę wskazaną we wniosku 3 zł za każdy informatyczny nośnik danych;
-- **3)** za przekształcanie informacji polegające na skanowaniu dokumentów 0,30 zł za każdą stronę;
+- **1)** za wyszukiwanie informacji – 10 zł, jeżeli udostępnienie wymaga wyszukania do dziesięciu dokumentów; opłata ulega zwiększeniu o nie więcej niż 1 zł za każdy kolejny dokument wymagający wyszukania;
+- **2)** za przekształcanie informacji w formę wskazaną we wniosku – 3 zł za każdy informatyczny nośnik danych;
+- **3)** za przekształcanie informacji polegające na skanowaniu dokumentów – 0,30 zł za każdą stronę;
 - **4)** za sporządzanie kopii dokumentów lub danych w formacie 210 mm x 297 mm (A4):
-    - **a)** za stronę kopii czarno-białej 0,60 zł,
-    - **b)** za stronę kopii kolorowej 6 zł.
+    - **a)** za stronę kopii czarno-białej – 0,60 zł,
+    - **b)** za stronę kopii kolorowej – 6 zł.
 
-9. Za przesłanie kopii dokumentów lub danych za pośrednictwem operatora pocztowego pobiera się opłatę za przesyłkę pocztową danego rodzaju i danej kategorii wagowej w wysokości podanej w obowiązującym cenniku usług powszechnych operatora wyznaczonego w rozumieniu art. 3 pkt 13 ustawy z dnia 23 listopada 2012 r. Prawo pocztowe (Dz. U. z 2025 r. poz. 366 i 820) zwiększoną o:
+9. Za przesłanie kopii dokumentów lub danych za pośrednictwem operatora pocztowego pobiera się opłatę za przesyłkę pocztową danego rodzaju i danej kategorii wagowej w wysokości podanej w obowiązującym cenniku usług powszechnych operatora wyznaczonego w rozumieniu art. 3 pkt 13 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2025 r. poz. 366 i 820) zwiększoną o:
 
-- **1)** nie więcej niż 4 zł za kopię dokumentów lub danych w formie wydruku lub kserokopii;
-- **2)** nie więcej niż 10 zł za kopię dokumentów lub danych na informatycznym nośniku danych dostarczonym przez podmiot, który złożył wniosek o udostępnienie informacji, o których mowa w ust. 3 pkt 2.
+- **1)** nie więcej niż 4 zł – za kopię dokumentów lub danych w formie wydruku lub kserokopii;
+- **2)** nie więcej niż 10 zł – za kopię dokumentów lub danych na informatycznym nośniku danych dostarczonym przez podmiot, który złożył wniosek o udostępnienie informacji, o których mowa w ust. 3 pkt 2.
 
 10. Opłatę za udostępnienie informacji, o których mowa w ust. 3 pkt 2, oraz opłatę, o której mowa w ust. 9, uiszcza się przed udostępnieniem tych informacji przez wpłatę do kasy albo na rachunek bankowy urzędu zapewniającego obsługę właściwego organu administracji publicznej.
 
@@ -760,7 +630,7 @@ Art. 480–524. (pominięte)
 
 3. Ocena stanu wód powierzchniowych obejmuje klasyfikację stanu ekologicznego, potencjału ekologicznego i stanu chemicznego tych wód, dokonywane zgodnie z przepisami wydanymi na podstawie art. 53 ust. 4.
 
-4. Ochrona wód jest realizowana z uwzględnieniem przepisów działu I i działu III w tytule II oraz działów I–III w tytule III ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska.
+4. Ochrona wód jest realizowana z uwzględnieniem przepisów działu I i działu III w tytule II oraz działów I–III w tytule III ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska.
 
 **Art. 53.**
 
@@ -834,7 +704,7 @@ Art. 480–524. (pominięte)
 1. Ochrona wód powierzchniowych przed zanieczyszczeniem obejmuje łącznie:
 
 - **1)** ograniczanie emisji do wód ze źródeł zanieczyszczeń punktowych przy zastosowaniu dopuszczalnych wartości emisji rozumianych jako masa, stężenie lub poziom emisji energii lub substancji określonych w przepisach wydanych na podstawie art. 99 ust. 1 pkt 1, wynikających z najlepszych dostępnych technik, które nie powinny być przekraczane w określonym w nich czasie;
-- **2)** ograniczanie emisji do wód ze źródeł zanieczyszczeń obszarowych przez określenie jej warunków, z uwzględnieniem najlepszych dostępnych praktyk w zakresie ochrony środowiska, o których mowa w szczególności w przepisach niniejszej ustawy, a także w przepisach ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska.
+- **2)** ograniczanie emisji do wód ze źródeł zanieczyszczeń obszarowych przez określenie jej warunków, z uwzględnieniem najlepszych dostępnych praktyk w zakresie ochrony środowiska, o których mowa w szczególności w przepisach niniejszej ustawy, a także w przepisach ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska.
 
 2. Jeżeli przepisy prawa Unii Europejskiej dotyczące ochrony wód przed zanieczyszczeniem wymagają zastosowania bardziej rygorystycznych dopuszczalnych wartości emisji niż te, o których mowa w ust. 1, należy stosować bardziej rygorystyczne wymagania w zakresie warunków, jakie należy spełnić przy wprowadzaniu ścieków do wód lub do ziemi, w tym najwyższych dopuszczalnych wartości substancji zanieczyszczających, oraz warunków, jakie należy spełnić w celu rolniczego wykorzystania ścieków, a także miejsc, sposobu i minimalnej częstotliwości pobierania próbek ścieków, metodyk referencyjnych analizy i sposobu oceny, czy ścieki odpowiadają wymaganym warunkom, określonych w przepisach wydanych na podstawie art. 99 ust. 1 pkt 2.
 
@@ -956,11 +826,11 @@ Art. 480–524. (pominięte)
 - **2)** wód opadowych lub roztopowych do jezior oraz do ich dopływów, jeżeli czas dopływu tych wód do jeziora jest krótszy niż 24 godziny,
 - **3)** wód pochodzących z obiegów chłodzących elektrowni lub elektrociepłowni do jezior oraz do ich dopływów,
 - **4)** ścieków, o których mowa w art. 75 pkt 3 lit. a, jeżeli jest to zgodne z warunkami określonymi w przepisach wydanych na podstawie art. 99 ust. 1 pkt 2,
-- **5)** wód wykorzystanych pochodzących z pomp ciepła lub wykorzystanych wód geotermalnych do wód podziemnych,
+- **5)** wód wykorzystanych pochodzących z pomp ciepła lub wykorzystanych wód geotermalnych – do wód podziemnych,
 - **6)** ścieków oczyszczonych do jezior, jeżeli:
-    - **a)** zakład korzystał z wyłączenia z zakazu określonego w art. 15 ustawy z dnia 3 czerwca 2005 r. o zmianie ustawy Prawo wodne oraz niektórych innych ustaw (Dz. U. poz. 1087),
+    - **a)** zakład korzystał z wyłączenia z zakazu określonego w art. 15 ustawy z dnia 3 czerwca 2005 r. o zmianie ustawy – Prawo wodne oraz niektórych innych ustaw (Dz. U. poz. 1087),
     - **b)** czas dopływu oczyszczonych ścieków do jeziora byłby krótszy niż 24 godziny, także w przypadku wprowadzania ścieków oczyszczonych do wód cieków naturalnych oraz kanałów będących dopływami jezior, oraz
-    - **c)** są prowadzone pomiary: w sposób ciągły ilości ścieków, a także w sposób okresowy, nie rzadziej niż raz na kwartał jakości ścieków o ile organ właściwy w sprawach pozwoleń wodnoprawnych ustali, że takie dopuszczenie nie koliduje z celami środowiskowymi dla wód lub wymaganiami jakościowymi dla wód.
+    - **c)** są prowadzone pomiary: w sposób ciągły – ilości ścieków, a także w sposób okresowy, nie rzadziej niż raz na kwartał – jakości ścieków – o ile organ właściwy w sprawach pozwoleń wodnoprawnych ustali, że takie dopuszczenie nie koliduje z celami środowiskowymi dla wód lub wymaganiami jakościowymi dla wód.
 
 2. Właściwy organ Wód Polskich może, w drodze decyzji, zwolnić od zakazu wprowadzania do ziemi, w odległości mniejszej niż 1 kilometr od granic kąpielisk, miejsc okazjonalnie wykorzystywanych do kąpieli oraz plaż publicznych nad wodami, ścieków i wód innych niż wymienione w ust. 1 pkt 1, jeżeli wystąpi istotna potrzeba ekonomiczna lub społeczna, a zwolnienie nie spowoduje zagrożenia dla jakości wód.
 
@@ -991,7 +861,7 @@ Art. 480–524. (pominięte)
 
 4. Do wniosku o wydanie decyzji, o której mowa w ust. 3, dołącza się charakterystykę planowanych działań i ich wpływu na jakość wód w przypadku wystąpienia powodzi wraz z ich podstawowymi danymi technicznymi i opisem planowanej technologii robót, mapę sytuacyjno-wysokościową pochodzącą z państwowego zasobu geodezyjnego i kartograficznego, kopię tej mapy potwierdzoną przez wnioskodawcę za zgodność z oryginałem albo inną mapę sytuacyjno-wysokościową, z naniesionym schematem planowanych obiektów lub robót oraz opis instalacji i urządzeń służących do gromadzenia ścieków, nawozów naturalnych, środków chemicznych, a także innych substancji lub materiałów, które mogą zanieczyścić wody, oraz do prowadzenia przetwarzania odpadów, w szczególności ich składowania.
 
-5. Stroną postępowania w sprawie o wydanie decyzji, o której mowa w ust. 3, jest wnioskodawca, właściciel wód i właściciel wału przeciwpowodziowego, a w przypadku obszarów chronionych także organ zarządzający danym obszarem.
+5. Stroną postępowania w sprawie o wydanie decyzji, o której mowa w ust. 3, jest wnioskodawca, właściciel wód i właściciel wału przeciwpowodziowego, a w przypadku obszarów chronionych – także organ zarządzający danym obszarem.
 
 6. Przepisy ust. 1 pkt 3 i ust. 3–5 stosuje się odpowiednio do wysp oraz przymulisk, o których mowa w art. 224.
 
@@ -1080,9 +950,9 @@ Art. 480–524. (pominięte)
 
 3. Ilekroć w niniejszym rozdziale jest mowa o:
 
-- **1)** aglomeracji należy przez to rozumieć teren, na którym zaludnienie lub działalność gospodarcza są wystarczająco skoncentrowane, aby ścieki komunalne były zbierane i przekazywane do oczyszczalni ścieków albo do końcowego punktu zrzutu tych ścieków;
-- **2)** równoważnej liczbie mieszkańców należy przez to rozumieć ładunek substancji organicznych biologicznie rozkładalnych wyrażonych jako wskaźnik pięciodobowego biochemicznego zapotrzebowania tlenu (BZT ) w ilości 60 g tlenu na dobę;
-- **3)** końcowym punkcie zrzutu ścieków komunalnych należy przez to rozumieć miejsce przyłączenia systemu kanalizacji zbiorczej dla ścieków komunalnych w aglomeracji nieposiadającej oczyszczalni ścieków do systemu kanalizacji zbiorczej dla ścieków komunalnych w aglomeracji posiadającej oczyszczalnię ścieków.
+- **1)** aglomeracji – należy przez to rozumieć teren, na którym zaludnienie lub działalność gospodarcza są wystarczająco skoncentrowane, aby ścieki komunalne były zbierane i przekazywane do oczyszczalni ścieków albo do końcowego punktu zrzutu tych ścieków;
+- **2)** równoważnej liczbie mieszkańców – należy przez to rozumieć ładunek substancji organicznych biologicznie rozkładalnych wyrażonych jako wskaźnik pięciodobowego biochemicznego zapotrzebowania tlenu (BZT ) w ilości 60 g tlenu na dobę;
+- **3)** końcowym punkcie zrzutu ścieków komunalnych – należy przez to rozumieć miejsce przyłączenia systemu kanalizacji zbiorczej dla ścieków komunalnych w aglomeracji nieposiadającej oczyszczalni ścieków do systemu kanalizacji zbiorczej dla ścieków komunalnych w aglomeracji posiadającej oczyszczalnię ścieków.
 
 **Art. 87.**
 
@@ -1096,7 +966,7 @@ Art. 480–524. (pominięte)
 - **2)** gminę właściwą zgodnie z art. 93 ust. 1 do prowadzenia działań w ramach krajowego programu oczyszczania ścieków komunalnych oraz właściwą do dokonywania przeglądu obszarów i granic aglomeracji zgodnie z art. 92;
 - **3)** zasady dotyczące partycypacji w kosztach związanych z funkcjonowaniem aglomeracji.
 
-4. Wyznaczenie aglomeracji następuje po uzgodnieniu przez wójta, burmistrza lub prezydenta miasta z Wodami Polskimi, a w zakresie obszarów objętych przynajmniej jedną formą ochrony przyrody, o której mowa w art. 6 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody, lub obszarów mających znaczenie dla Wspólnoty znajdujących się na liście, o której mowa w art. 27 ust. 1 tej ustawy z właściwym regionalnym dyrektorem ochrony środowiska. Do uzgodnienia przepisy art. 106 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego stosuje się odpowiednio.
+4. Wyznaczenie aglomeracji następuje po uzgodnieniu przez wójta, burmistrza lub prezydenta miasta z Wodami Polskimi, a w zakresie obszarów objętych przynajmniej jedną formą ochrony przyrody, o której mowa w art. 6 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody, lub obszarów mających znaczenie dla Wspólnoty znajdujących się na liście, o której mowa w art. 27 ust. 1 tej ustawy – z właściwym regionalnym dyrektorem ochrony środowiska. Do uzgodnienia przepisy art. 106 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego stosuje się odpowiednio.
 
 5. Wody Polskie odmawiają uzgodnienia, o którym mowa w ust. 4, gdy aglomeracja nie spełnia któregokolwiek z warunków określonych w art. 87a lub warunków określonych w przepisach wydanych na podstawie art. 95 ust. 1 lub art. 99 ust. 1.
 
@@ -1249,7 +1119,7 @@ Art. 480–524. (pominięte)
 1. Jeżeli zakład posiada system retencyjno-dozujący, to na obszarze, na którym są zlokalizowane odbiorniki ścieków, zgodnie z ostrzeżeniami przed suszą hydrologiczną zakład ten jest obowiązany przez okres suszy hydrologicznej do:
 
 - **1)** wstrzymania wprowadzania ścieków przemysłowych lub wód pochodzących z odwodnienia zakładów górniczych, zawierających chlorki i siarczany, do wód lub
-- **2)** ograniczenia wprowadzania ścieków przemysłowych lub wód pochodzących z odwodnienia zakładów górniczych, zawierających chlorki i siarczany, do wód co najmniej do poziomu 1/2 wysokości określonej w pozwoleniu wodnoprawnym albo w pozwoleniu zintegrowanym maksymalnej ilości ścieków wprowadzanych do wód jednak nie dłużej niż do osiągnięcia maksymalnego wypełnienia urządzeń wchodzących w skład tego systemu służących do retencji tych wód lub ścieków, biorąc pod uwagę przewidywaną długość okresu suszy hydrologicznej, a także ewentualną potrzebę zapewnienia zdolności retencyjnych systemu retencyjno-dozującego w okresie następnej suszy, która mogłaby wystąpić w najbliższym okresie.
+- **2)** ograniczenia wprowadzania ścieków przemysłowych lub wód pochodzących z odwodnienia zakładów górniczych, zawierających chlorki i siarczany, do wód co najmniej do poziomu 1/2 wysokości określonej w pozwoleniu wodnoprawnym albo w pozwoleniu zintegrowanym maksymalnej ilości ścieków wprowadzanych do wód – jednak nie dłużej niż do osiągnięcia maksymalnego wypełnienia urządzeń wchodzących w skład tego systemu służących do retencji tych wód lub ścieków, biorąc pod uwagę przewidywaną długość okresu suszy hydrologicznej, a także ewentualną potrzebę zapewnienia zdolności retencyjnych systemu retencyjno-dozującego w okresie następnej suszy, która mogłaby wystąpić w najbliższym okresie.
 
 2. Po zakończeniu okresu suszy zakład, o którym mowa w ust. 1, jest obowiązany do zwiększania zdolności retencyjnych systemu retencyjno-dozującego, jeżeli warunki środowiskowe na to pozwalają.
 
@@ -1263,12 +1133,12 @@ Art. 480–524. (pominięte)
 
 2. Ilekroć w niniejszym rozdziale jest mowa o:
 
-- **1)** dużych jednostkach przeliczeniowych (DJP) rozumie się przez to umowną jednostkę przeliczeniową zwierząt gospodarskich odpowiadającą zwierzęciu o masie 500 kg albo zwierzętom o łącznej masie 500 kg;
-- **1a)** działce rolnej rozumie się przez to działkę rolną w rozumieniu art. 2 pkt 4 ustawy z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. z 2024 r. poz. 1741 oraz z 2025 r. poz. 321);
-- **1b)** produktach pofermentacyjnych rozumie się przez to płynne lub stałe substancje organiczne powstające w wyniku procesu produkcji biogazu rolniczego w rozumieniu art. 2 pkt 2 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii (Dz. U. z 2024 r. poz. 1361, 1847 i 1881 oraz z 2025 r. poz. 303 i 759);
-- **1c)** terenach o dużym nachyleniu rozumie się przez to stok o nachyleniu większym niż 10 %, co oznacza wzrost pochylenia terenu o 1 m na długości 10 m;
+- **1)** dużych jednostkach przeliczeniowych (DJP) – rozumie się przez to umowną jednostkę przeliczeniową zwierząt gospodarskich odpowiadającą zwierzęciu o masie 500 kg albo zwierzętom o łącznej masie 500 kg;
+- **1a)** działce rolnej – rozumie się przez to działkę rolną w rozumieniu art. 2 pkt 4 ustawy z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. z 2024 r. poz. 1741 oraz z 2025 r. poz. 321);
+- **1b)** produktach pofermentacyjnych – rozumie się przez to płynne lub stałe substancje organiczne powstające w wyniku procesu produkcji biogazu rolniczego w rozumieniu art. 2 pkt 2 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii (Dz. U. z 2024 r. poz. 1361, 1847 i 1881 oraz z 2025 r. poz. 303 i 759);
+- **1c)** terenach o dużym nachyleniu – rozumie się przez to stok o nachyleniu większym niż 10 %, co oznacza wzrost pochylenia terenu o 1 m na długości 10 m;
 - **2)** (uchylony)
-- **3)** związkach azotu rozumie się przez to wszelkie substancje zawierające azot, z wyjątkiem gazowego azotu cząsteczkowego.
+- **3)** związkach azotu – rozumie się przez to wszelkie substancje zawierające azot, z wyjątkiem gazowego azotu cząsteczkowego.
 
 **Art. 103.**
 
@@ -1352,7 +1222,7 @@ Art. 480–524. (pominięte)
 
 - **1)** prowadzą chów lub hodowlę drobiu powyżej 40 000 stanowisk lub chów lub hodowlę świń powyżej 2000 stanowisk dla świń o wadze ponad 30 kg lub 750 stanowisk dla macior,
 - **2)** posiadają gospodarstwo rolne o powierzchni powyżej 100 ha użytków rolnych, uprawiają uprawy intensywne na gruntach ornych na powierzchni powyżej 50 ha lub utrzymują obsadę większą niż 60 dużych jednostek przeliczeniowych (DJP), według stanu średniorocznego,
-- **3)** nabywają nawóz naturalny lub produkt pofermentacyjny do bezpośredniego rolniczego wykorzystania w celu nawożenia lub poprawy właściwości gleby od podmiotu importującego nawóz naturalny lub produkt pofermentacyjny z terytoriów państw trzecich lub od podmiotu prowadzącego działalność, o której mowa w pkt 1 są obowiązane do opracowania planu nawożenia azotem.
+- **3)** nabywają nawóz naturalny lub produkt pofermentacyjny do bezpośredniego rolniczego wykorzystania w celu nawożenia lub poprawy właściwości gleby od podmiotu importującego nawóz naturalny lub produkt pofermentacyjny z terytoriów państw trzecich lub od podmiotu prowadzącego działalność, o której mowa w pkt 1 – są obowiązane do opracowania planu nawożenia azotem.
 
 2. Plan nawożenia azotem opracowuje się w terminie pozwalającym na prawidłowe i bezpieczne stosowanie nawozów, nie później niż do dnia rozpoczęcia stosowania nawozów.
 
@@ -1372,7 +1242,7 @@ Art. 480–524. (pominięte)
 
 **Art. 105b.**
 
-1. Podmiot prowadzący działalność, o której mowa w art. 105a ust. 1 pkt 1, jest obowiązany do uzyskania pozytywnej opinii okręgowej stacji chemiczno-rolniczej, zwanej dalej „okręgową stacją”, o planie nawożenia azotem nie później niż do dnia rozpoczęcia stosowania nawozów.
+1. Podmiot prowadzący działalność, o której mowa w art. 105a ust. 1 pkt 1, jest obowiązany do uzyskania pozytywnej opinii okręgowej stacji chemicznorolniczej, zwanej dalej „okręgową stacją”, o planie nawożenia azotem – nie później niż do dnia rozpoczęcia stosowania nawozów.
 
 2. Okręgowa stacja wydaje opinię o planie nawożenia azotem, za którą pobiera opłatę nie wyższą niż 400 zł dla gospodarstwa rolnego.
 
@@ -1412,11 +1282,13 @@ Art. 480–524. (pominięte)
 
 - **1)** stosowania programu działań,
 - **2)** spełnienia obowiązku posiadania planu nawożenia azotem,
-- **3)** stosowania nawozów zgodnie z planem nawożenia azotem przez podmioty prowadzące produkcję rolną oraz podmioty prowadzące działalność, o której mowa w art. 102 ust. 1.
+- **3)** stosowania nawozów zgodnie z planem nawożenia azotem – przez podmioty prowadzące produkcję rolną oraz podmioty prowadzące działalność, o której mowa w art. 102 ust. 1.
 
 2. Wyniki kontroli, o której mowa w ust. 1, właściwy organ Inspekcji Ochrony Środowiska przekazuje ministrowi właściwemu do spraw gospodarki wodnej oraz ministrowi właściwemu do spraw rolnictwa w terminie do dnia 30 czerwca każdego roku za rok poprzedni.
 
-3. Kontrolę, o której mowa w ust. 1, wykonuje się na podstawie przepisów ustawy z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska (Dz. U. z 2024 r. poz. 425).
+3. Kontrolę, o której mowa w ust. 1, wykonuje się na podstawie przepisów ustawy z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska (Dz. U. z 2024 r. poz.
+
+- **425)** .
 
 4. Na potrzeby wykonywania kontroli, o której mowa w ust. 1, organy Inspekcji Ochrony Środowiska są uprawnione do wykorzystywania danych zgromadzonych w systemie ewidencji producentów oraz ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, o których mowa w przepisach ustawy z dnia 18 grudnia 2003 r. o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności (Dz. U. z 2023 r. poz. 885 oraz z 2025 r. poz. 368).
 
@@ -1433,7 +1305,7 @@ Art. 480–524. (pominięte)
 
 2. Decyzje, o których mowa w ust. 1, podlegają natychmiastowemu wykonaniu.
 
-3. Do podmiotów prowadzących produkcję rolną oraz działalność, o których mowa w art. 102 ust. 1, niebędących przedsiębiorcami w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236, z późn. zm. ), przepisy rozdziału 5 tej ustawy stosuje się odpowiednio.
+3. Do podmiotów prowadzących produkcję rolną oraz działalność, o których mowa w art. 102 ust. 1, niebędących przedsiębiorcami w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236, z późn. zm. ), przepisy rozdziału 5 tej ustawy stosuje się odpowiednio.
 
 4. Podmioty prowadzące produkcję rolną oraz działalność, o których mowa w art. 102 ust. 1, ponoszą opłatę za:
 
@@ -1463,9 +1335,9 @@ Art. 480–524. (pominięte)
 
 12. Minister właściwy do spraw gospodarki wodnej, nie później niż do dnia 31 października każdego roku, ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, wysokość stawek opłaty, o której mowa w ust. 5, obowiązującej od dnia 1 stycznia roku następnego.
 
-13. Do ponoszenia opłaty, o której mowa w ust. 4, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, 497, 621, 622, 769 i 820), z tym że uprawnienia organów podatkowych przysługują właściwemu organowi Inspekcji Ochrony Środowiska.
+13. Do ponoszenia opłaty, o której mowa w ust. 4, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, 497, 621, 622, 769 i 820), z tym że uprawnienia organów podatkowych przysługują właściwemu organowi Inspekcji Ochrony Środowiska.
 
-14. Organem wyższego stopnia w rozumieniu przepisów ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego w sprawach decyzji, o których mowa w ust. 1, jest właściwy organ Inspekcji Ochrony Środowiska.
+14. Organem wyższego stopnia w rozumieniu przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego w sprawach decyzji, o których mowa w ust. 1, jest właściwy organ Inspekcji Ochrony Środowiska.
 
 **Art. 109a.**
 
@@ -1522,7 +1394,7 @@ Art. 480–524. (pominięte)
 - **8)** kwas perfluorooktanosulfonowy (PFOS),
 - **9)** dioksyny i związki dioksynopodobne,
 - **10)** heksabromocyklodekany (HBCDD),
-- **11)** heptachlor i epoksyd heptachloru ujętych w wykazie substancji priorytetowych określonym w przepisach wydanych na podstawie art. 114 stosuje się środowiskowe normy jakości dla substancji priorytetowych oznaczanych we florze i faunie określone w przepisach wydanych na podstawie art. 53 ust. 4 pkt 4 lit. d.
+- **11)** heptachlor i epoksyd heptachloru – ujętych w wykazie substancji priorytetowych określonym w przepisach wydanych na podstawie art. 114 stosuje się środowiskowe normy jakości dla substancji priorytetowych oznaczanych we florze i faunie określone w przepisach wydanych na podstawie art. 53 ust. 4 pkt 4 lit. d.
 
 2. W odniesieniu do substancji priorytetowych innych niż wymienione w ust. 1 stosuje się środowiskowe normy jakości dla wód określone w przepisach wydanych na podstawie art. 53 ust. 4 pkt 4 lit. d.
 
@@ -1653,7 +1525,7 @@ Art. 480–524. (pominięte)
 - **1)** ujęć wody dostarczających więcej niż 10 m wody na dobę lub służących zaopatrzeniu w wodę więcej niż 50 osób;
 - **2)** indywidualnych ujęć wody dostarczających do 10 m wody na dobę lub służących zaopatrzeniu w wodę do 50 osób, jeżeli woda jest dostarczana, jako woda przeznaczona do spożycia przez ludzi, w ramach działalności handlowej, usługowej, przemysłowej albo do budynków użyteczności publicznej.
 
-6. Analiza ryzyka jest aktualizowana nie rzadziej niż co 10 lat, a w przypadku ujęć wody dostarczających mniej niż 1000 m wody na rok nie rzadziej niż co 20 lat.
+6. Analiza ryzyka jest aktualizowana nie rzadziej niż co 10 lat, a w przypadku ujęć wody dostarczających mniej niż 1000 m wody na rok – nie rzadziej niż co 20 lat.
 
 **Art. 134.**
 
@@ -1672,7 +1544,7 @@ Art. 480–524. (pominięte)
 
 2. Jeżeli strefa ochronna, o której mowa w ust. 1 pkt 2, obejmowałaby tereny położone w obszarze działania co najmniej 2 wojewodów, tę strefę ochronną ustanawiają wspólnie właściwi wojewodowie w drodze aktu prawa miejscowego.
 
-3. Jeżeli granice terenu ochrony bezpośredniej strefy ochronnej, o której mowa w ust. 1 pkt 2, obejmują teren ochrony bezpośredniej ustanowionej wcześniej strefy ochronnej, o której mowa w ust. 1 pkt 1, wojewoda w akcie prawa miejscowego, o którym mowa w ust. 1 pkt 2, znosi tę strefę ochronną, a właściwy organ Wód Polskich stwierdza, w drodze decyzji, wygaśnięcie decyzji ustanawiającej tę strefę ochronną. Przepisy art. 162 § 1 pkt 1 oraz § 3 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego stosuje się odpowiednio.
+3. Jeżeli granice terenu ochrony bezpośredniej strefy ochronnej, o której mowa w ust. 1 pkt 2, obejmują teren ochrony bezpośredniej ustanowionej wcześniej strefy ochronnej, o której mowa w ust. 1 pkt 1, wojewoda w akcie prawa miejscowego, o którym mowa w ust. 1 pkt 2, znosi tę strefę ochronną, a właściwy organ Wód Polskich stwierdza, w drodze decyzji, wygaśnięcie decyzji ustanawiającej tę strefę ochronną. Przepisy art. 162 § 1 pkt 1 oraz § 3 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego stosuje się odpowiednio.
 
 4. Projekt aktu prawa miejscowego, o którym mowa w ust. 1 pkt 2 i ust. 2, podlega uzgodnieniu z Wodami Polskimi.
 
@@ -1760,9 +1632,9 @@ Art. 480–524. (pominięte)
 1. Wstępna ocena stanu środowiska wód morskich zawiera:
 
 - **1)** analizę podstawowych cech i właściwości wód morskich i obecnego stanu środowiska wód morskich, obejmującą w szczególności charakterystykę:
-    - **a)** grup gatunków ptaków, ssaków, gadów i ryb morskich dla regionu Morza Bałtyckiego, zawierającą przestrzenne i czasowe zróżnicowanie dla danego gatunku lub populacji danego gatunku w zakresie: rozmieszczenia, liczebności lub biomasy, struktury pod względem wielkości, wieku i płci, wskaźników płodności, przeżycia i śmiertelności lub obrażeń, zachowania, w tym przemieszczania się i migracji, siedliska gatunku, biorąc pod uwagę zakres i przydatność, składu gatunkowego danej grupy ptaków, ssaków, gadów lub ryb morskich,
-    - **b)** ogólnych typów siedlisk w słupie wody (siedlisk pelagicznych) i na dnie morskim (siedlisk bentosowych) lub innych typów siedlisk, z uwzględnieniem związanych z nimi biocenoz w całym regionie Morza Bałtyckiego dla każdego typu siedliska w zakresie: rozmieszczenia siedliska i jego zasięgu, a w przypadku gdy jest to możliwe również objętości siedliska, zmian przestrzennych i czasowych składu gatunkowego, liczebności lub biomasy, struktury wielkościowej i wiekowej gatunku danego siedliska w przypadku gdy jest to możliwe do określenia, charakterystyki fizycznej, hydrologicznej i chemicznej, stężenia chlorofilu „a” oraz częstotliwości i zasięgu przestrzennego zakwitu planktonu w przypadku siedlisk pelagicznych,
-    - **c)** struktury, funkcji i procesów ekosystemów, w tym łańcuchów pokarmowych, obejmującą właściwości fizyczne, hydrologiczne, chemiczne, biologiczne oraz funkcje i procesy zawierające przestrzenne i czasowe zmiany w zakresie: temperatury i zlodzenia wody, hydrologii układy falowania i prądów morskich, wypływanie wód głębinowych, mieszanie wody, czas wymiany wody, dopływ wody słodkiej, poziom morza, batymetrii, zmętnienia wody ładunki mułu lub osadów, przezroczystość wody, rozchodzenia się dźwięku, substratu i morfologii dna morskiego, zasolenia wody, substancji biogennych azotu lub fosforu, węgla organicznego, gazów rozpuszczonych pCO , O , a także poziomu pH, powiązań między siedliskami i gatunkami ptaków, ssaków, gadów i ryb morskich, struktury biocenoz pelagiczno-bentosowych, produktywności ekosystemów;
+    - **a)** grup gatunków ptaków, ssaków, gadów i ryb morskich dla regionu Morza Bałtyckiego, zawierającą przestrzenne i czasowe zróżnicowanie dla danego gatunku lub populacji danego gatunku w zakresie: – rozmieszczenia, liczebności lub biomasy, – struktury pod względem wielkości, wieku i płci, – wskaźników płodności, przeżycia i śmiertelności lub obrażeń, – zachowania, w tym przemieszczania się i migracji, – siedliska gatunku, biorąc pod uwagę zakres i przydatność, – składu gatunkowego danej grupy ptaków, ssaków, gadów lub ryb morskich,
+    - **b)** ogólnych typów siedlisk w słupie wody (siedlisk pelagicznych) i na dnie morskim (siedlisk bentosowych) lub innych typów siedlisk, z uwzględnieniem związanych z nimi biocenoz w całym regionie Morza Bałtyckiego dla każdego typu siedliska w zakresie: – rozmieszczenia siedliska i jego zasięgu, a w przypadku gdy jest to możliwe – również objętości siedliska, – zmian przestrzennych i czasowych składu gatunkowego, liczebności lub biomasy, – struktury wielkościowej i wiekowej gatunku danego siedliska – w przypadku gdy jest to możliwe do określenia, – charakterystyki fizycznej, hydrologicznej i chemicznej, – stężenia chlorofilu „a” oraz częstotliwości i zasięgu przestrzennego zakwitu planktonu – w przypadku siedlisk pelagicznych,
+    - **c)** struktury, funkcji i procesów ekosystemów, w tym łańcuchów pokarmowych, obejmującą właściwości fizyczne, hydrologiczne, chemiczne, biologiczne oraz funkcje i procesy zawierające przestrzenne i czasowe zmiany w zakresie: – temperatury i zlodzenia wody, – hydrologii – układy falowania i prądów morskich, wypływanie wód głębinowych, mieszanie wody, czas wymiany wody, dopływ wody słodkiej, poziom morza, – batymetrii, – zmętnienia wody – ładunki mułu lub osadów, przezroczystość wody, rozchodzenia się dźwięku, – substratu i morfologii dna morskiego, – zasolenia wody, substancji biogennych – azotu lub fosforu, węgla organicznego, gazów rozpuszczonych – pCO , O , a także poziomu pH, – powiązań między siedliskami i gatunkami ptaków, ssaków, gadów i ryb morskich, – struktury biocenoz pelagiczno-bentosowych, – produktywności ekosystemów;
 
 - **2)** analizę dominujących presji i oddziaływań na wody morskie, w tym presji i oddziaływań antropogenicznych, obejmującą skutki kumulacyjne i synergiczne oraz uwzględniającą odpowiednie oceny wykonywane na podstawie przepisów ustawy oraz przepisów odrębnych;
 - **3)** analizę ekonomiczną i społeczną użytkowania wód morskich oraz kosztów degradacji środowiska wód morskich.
@@ -1775,10 +1647,10 @@ Art. 480–524. (pominięte)
 3. Na potrzeby opracowania analizy, o której mowa w ust. 1 pkt 2, sporządza się:
 
 - **1)** zestawienie dominujących presji antropogenicznych pochodzenia lądowego na wody morskie, zawierające w szczególności wykaz presji i oddziaływań w zakresie:
-    - **a)** wprowadzania substancji biogennych źródła rozproszone, źródła punktowe, depozycja atmosferyczna,
-    - **b)** wprowadzania materii organicznej źródła rozproszone i źródła punktowe,
-    - **c)** wprowadzania innych substancji niż biogenne, w tym substancji syntetycznych, substancji niesyntetycznych, radionuklidów źródła rozproszone, źródła punktowe, depozycja atmosferyczna, poważne zdarzenia,
-    - **d)** dopływu wody źródła punktowe, w tym solanka,
+    - **a)** wprowadzania substancji biogennych – źródła rozproszone, źródła punktowe, depozycja atmosferyczna,
+    - **b)** wprowadzania materii organicznej – źródła rozproszone i źródła punktowe,
+    - **c)** wprowadzania innych substancji niż biogenne, w tym substancji syntetycznych, substancji niesyntetycznych, radionuklidów – źródła rozproszone, źródła punktowe, depozycja atmosferyczna, poważne zdarzenia,
+    - **d)** dopływu wody – źródła punktowe, w tym solanka,
     - **e)** wprowadzania drobnoustrojów patogennych,
     - **f)** wprowadzania lub rozprzestrzeniania się gatunków obcych;
 
@@ -1794,7 +1666,7 @@ Art. 480–524. (pominięte)
     - **d)** strat fizycznych spowodowanych trwałymi zmianami podłoża dna morskiego lub morfologii oraz eksploatacją substratu dna morskiego,
     - **e)** zmian warunków hydrologicznych,
     - **f)** wprowadzania odpadów stałych, w tym mikrodrobin,
-    - **g)** występowania hałasu związanego z działalnością człowieka impulsowego i ciągłego,
+    - **g)** występowania hałasu związanego z działalnością człowieka – impulsowego i ciągłego,
     - **h)** innych źródeł energii niż hałas, o którym mowa w lit. g, w szczególności pola elektromagnetycznego, światła i ciepła.
 
 4. (uchylony)
@@ -1817,7 +1689,7 @@ Art. 480–524. (pominięte)
     - **d)** pozyskiwanie wody;
 
 - **3)** w zakresie wytwarzania energii:
-    - **a)** wytwarzanie energii odnawialnej energia wiatru, fal i pływów, z uwzględnieniem infrastruktury,
+    - **a)** wytwarzanie energii odnawialnej – energia wiatru, fal i pływów, z uwzględnieniem infrastruktury,
     - **b)** wytwarzanie energii ze źródeł nieodnawialnych,
     - **c)** przesyłanie energii elektrycznej i łączność, w szczególności za pomocą podmorskich kabli;
 
@@ -1848,13 +1720,13 @@ Art. 480–524. (pominięte)
     - **a)** infrastruktura na potrzeby turystyki i wypoczynku,
     - **b)** działalność w dziedzinie turystyki i wypoczynku;
 
-- **9)** w zakresie bezpieczeństwa i obrony operacje wojskowe w środowisku morskim lub mające wpływ na środowisko morskie prowadzone na obszarach morskich Rzeczypospolitej Polskiej, ze wskazaniem rodzaju działalności;
-- **10)** w zakresie edukacji i badań naukowych badania naukowe, analizy oraz działania edukacyjne.
+- **9)** w zakresie bezpieczeństwa i obrony – operacje wojskowe w środowisku morskim lub mające wpływ na środowisko morskie prowadzone na obszarach morskich Rzeczypospolitej Polskiej, ze wskazaniem rodzaju działalności;
+- **10)** w zakresie edukacji i badań naukowych – badania naukowe, analizy oraz działania edukacyjne.
 
 7. Na potrzeby opracowania analizy, o której mowa w ust. 1 pkt 2, uwzględnia się następujące parametry:
 
 - **1)** intensywność presji i oddziaływań antropogenicznych na wody morskie;
-- **2)** przestrzenne i czasowe zróżnicowanie presji i oddziaływań antropogenicznych w środowisku morskim oraz, w stosownych przypadkach źródła tych presji.
+- **2)** przestrzenne i czasowe zróżnicowanie presji i oddziaływań antropogenicznych w środowisku morskim oraz, w stosownych przypadkach – źródła tych presji.
 
 8. W przypadku przygotowania ocen oddziaływania presji antropogenicznych na środowisko morskie należy uwzględnić odpowiednie elementy ekosystemu, o których mowa w ust. 1 pkt 1, i odpowiadające im parametry.
 
@@ -2060,11 +1932,11 @@ Art. 480–524. (pominięte)
 
 1. Program ochrony wód morskich określa:
 
-- **1)** działania podstawowe niezbędne do osiągnięcia lub utrzymania dobrego stanu środowiska wód morskich, w tym działania prawne, administracyjne, ekonomiczne, edukacyjne i kontrolne:
+- **1)** działania podstawowe niezbędne do osiągnięcia lub utrzymania dobrego stanu środowiska wód morskich, w tym działania prawne, administracyjne, ekonomiczne, edukacyjne i kontrolne: z 2024 r. poz. 433),
     - **a)** wpływające na dozwoloną intensywność działalności człowieka,
     - **b)** wpływające na dozwolony stopień zakłóceń w ekosystemach morskich,
     - **c)** wpływające na lokalizację oraz termin realizacji planowanych przedsięwzięć,
-    - **d)** przyczyniające się do identyfikacji zanieczyszczeń wód morskich, w tym ich zanieczyszczeń zawierającymi tworzywa sztuczne narzędziami połowowymi stanowiącymi odpady, w rozumieniu art. 2 pkt 4b ustawy z dnia 11 maja 2001 r. o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej (Dz. U. z 2024 r. poz. 433),
+    - **d)** przyczyniające się do identyfikacji zanieczyszczeń wód morskich, w tym ich zanieczyszczeń zawierającymi tworzywa sztuczne narzędziami połowowymi stanowiącymi odpady, w rozumieniu art. 2 pkt 4b ustawy z dnia 11 maja 2001 r. o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej (Dz. U.
     - **e)** które ze względu na interes gospodarczy zachęcają użytkowników ekosystemów morskich do działania w sposób pozwalający na osiągnięcie lub utrzymanie dobrego stanu środowiska wód morskich,
     - **f)** służące przywróceniu poprzedniego stanu naruszonych elementów ekosystemów morskich,
     - **g)** zapewniające wszystkim zainteresowanym udział w osiągnięciu dobrego stanu środowiska wód morskich oraz mające na celu wzrost świadomości społecznej w zakresie osiągnięcia lub utrzymania dobrego stanu środowiska wód morskich;
@@ -2216,14 +2088,14 @@ Art. 480–524. (pominięte)
 - **6)** gminnego programu rewitalizacji,
 - **7)** decyzji o warunkach zabudowy,
 - **8)** decyzji o ustaleniu lokalizacji inwestycji celu publicznego,
-- **9)** decyzji o ustaleniu lokalizacji linii kolejowej wymagają uzgodnienia z Wodami Polskimi w zakresie dotyczącym zabudowy i zagospodarowania terenu położonego na obszarach szczególnego zagrożenia powodzią.
+- **9)** decyzji o ustaleniu lokalizacji linii kolejowej – wymagają uzgodnienia z Wodami Polskimi w zakresie dotyczącym zabudowy i zagospodarowania terenu położonego na obszarach szczególnego zagrożenia powodzią.
 
 3. Dokonując uzgodnień, o których mowa w ust. 2, Wody Polskie uwzględniają prawdopodobieństwo wystąpienia powodzi, poziom zagrożenia powodziowego, proponowaną zabudowę i zagospodarowanie terenu położonego na obszarze szczególnego zagrożenia powodzią, a także jego aktualne zagospodarowanie i dotychczasowe przeznaczenie.
 
 4. Uzgodnienie, o którym mowa w ust. 2, w zakresie:
 
-- **1)** śródlądowych dróg wodnych następuje po zasięgnięciu opinii ministra właściwego do spraw żeglugi śródlądowej, przy czym minister właściwy do spraw żeglugi śródlądowej wydaje opinię w terminie 14 dni, a brak opinii we wskazanym terminie uznaje się za wydanie pozytywnej opinii;
-- **2)** śródlądowych dróg wodnych o szczególnym znaczeniu transportowym następuje po uzgodnieniu z ministrem właściwym do spraw żeglugi śródlądowej.
+- **1)** śródlądowych dróg wodnych – następuje po zasięgnięciu opinii ministra właściwego do spraw żeglugi śródlądowej, przy czym minister właściwy do spraw żeglugi śródlądowej wydaje opinię w terminie 14 dni, a brak opinii we wskazanym terminie uznaje się za wydanie pozytywnej opinii;
+- **2)** śródlądowych dróg wodnych o szczególnym znaczeniu transportowym – następuje po uzgodnieniu z ministrem właściwym do spraw żeglugi śródlądowej.
 
 5. Uzgodnienia, o którym mowa w ust. 2, Wody Polskie dokonują w drodze decyzji.
 
@@ -2234,7 +2106,7 @@ Art. 480–524. (pominięte)
 8. W decyzji, o której mowa w ust. 5, określa się wymagania lub warunki dla:
 
 - **1)** planowanej zabudowy,
-- **2)** planowanego zagospodarowania terenów położonych na obszarze szczególnego zagrożenia powodzią.
+- **2)** planowanego zagospodarowania – terenów położonych na obszarze szczególnego zagrożenia powodzią.
 
 9. W decyzji, o której mowa w ust. 5, określa się w zależności od potrzeb szczegółowe wymagania oraz warunki, o których mowa w ust. 8, w zakresie określonym w przepisach wydanych na podstawie ust. 14.
 
@@ -2272,7 +2144,7 @@ Art. 480–524. (pominięte)
     - **d)** położenia obszarów zamieszkanych,
     - **e)** położenia obszarów, na których jest wykonywana działalność gospodarcza;
 
-- **4)** w miarę możliwości prognozę długofalowego rozwoju wydarzeń, w szczególności wpływu zmian klimatu na występowanie powodzi;
+- **4)** w miarę możliwości – prognozę długofalowego rozwoju wydarzeń, w szczególności wpływu zmian klimatu na występowanie powodzi;
 - **5)** określenie obszarów narażonych na niebezpieczeństwo powodzi.
 
 **Art. 168.**
@@ -2323,7 +2195,7 @@ Art. 480–524. (pominięte)
 
 - **1)** zasięg powodzi;
 - **2)** głębokość wody lub rzędną zwierciadła wody;
-- **3)** w uzasadnionych przypadkach prędkość przepływu wody lub natężenie przepływu wody.
+- **3)** w uzasadnionych przypadkach – prędkość przepływu wody lub natężenie przepływu wody.
 
 4. Jeżeli od strony morza, w tym morskich wód wewnętrznych, jest zapewniona odpowiednia ochrona przed powodzią, na mapach zagrożenia powodziowego od strony morza, w tym morskich wód wewnętrznych, mogą być przedstawione wyłącznie obszary, o których mowa w ust. 2 pkt 1.
 
@@ -2492,7 +2364,8 @@ Art. 480–524. (pominięte)
 
 **Art. 175a.**
 
-- **7)** 1. W celu zapewnienia właściwych warunków przepływu wód powodziowych, a także ograniczenia potencjalnych strat majątkowych, na obszarze nieruchomości nabytych przez Wody Polskie na podstawie art. 258a ust. 1 oraz art. 17–21 ustawy z dnia 9 maja 2025 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (Dz. U. poz. 680) zakazuje się:
+1. W celu zapewnienia właściwych warunków przepływu wód powodziowych, a także ograniczenia potencjalnych strat majątkowych, na obszarze nieruchomości nabytych przez Wody Polskie na podstawie art. 258a ust. 1 oraz art. 17–21 ustawy z dnia 9 maja 2025 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (Dz. U. poz. 680) zakazuje się:
+
 - **1)** budowy, rozbudowy i odbudowy obiektów budowlanych z wyjątkiem obiektów małej architektury;
 - **2)** wykonywania innych obiektów lub urządzeń.
 
@@ -2529,7 +2402,7 @@ Art. 480–524. (pominięte)
 
 7. Decyzja, o której mowa w ust. 4, wygasa, jeżeli w terminie 6 lat od dnia, w którym stała się ostateczna, nie uzyskano wymaganego pozwolenia wodnoprawnego albo nie dokonano zgłoszenia wodnoprawnego lub nie rozpoczęto wykonywania robót lub czynności, o których mowa w ust. 1.
 
-8. W przypadku wykonania robót lub czynności, o których mowa w ust. 1 pkt 1–5, nieobjętych decyzją, o której mowa w ust. 4, przepisy art. 77 ust. 10 i 11 stosuje się odpowiednio.
+8. W przypadku wykonania robót lub czynności, o których mowa w ust. 1 pkt 1– 5, nieobjętych decyzją, o której mowa w ust. 4, przepisy art. 77 ust. 10 i 11 stosuje się odpowiednio.
 
 9. W celu zapewnienia właściwej szczelności lub stabilności wałów przeciwpowodziowych właściwy organ Wód Polskich, w drodze decyzji, może nakazać usunięcie drzew lub krzewów z wałów przeciwpowodziowych oraz z terenów, o których mowa w ust. 1 pkt 2.
 
@@ -2541,7 +2414,7 @@ Art. 480–524. (pominięte)
 
 - **1)** gdy jest zagrożona szczelność lub stabilność wałów przeciwpowodziowych,
 - **2)** wystąpienia zagrożenia powodującego konieczność ograniczenia możliwości poruszania się po wałach przeciwpowodziowych,
-- **3)** konieczności wykonania prac związanych z konserwacją lub remontem wałów przeciwpowodziowych właściciel lub zarządca wału przeciwpowodziowego wprowadza czasowy zakaz poruszania się po tych wałach.
+- **3)** konieczności wykonania prac związanych z konserwacją lub remontem wałów przeciwpowodziowych – właściciel lub zarządca wału przeciwpowodziowego wprowadza czasowy zakaz poruszania się po tych wałach.
 
 2. Za szkody powstałe na skutek wprowadzenia czasowego zakazu poruszania się po wałach przeciwpowodziowych nie przysługuje odszkodowanie.
 
@@ -2557,8 +2430,8 @@ Art. 480–524. (pominięte)
 
 2. Uzyskanie zgody, o której mowa w ust. 1, wymaga przedłożenia właścicielowi wału przeciwpowodziowego w przypadku:
 
-- **1)** wykonania drogi rowerowej dokumentacji zawierającej charakterystykę planowanych działań wraz z podstawowymi danymi technicznymi i opisem planowanej technologii robót oraz mapy sytuacyjno-wysokościowej pobranej z państwowego zasobu geodezyjnego i kartograficznego, kopii tej mapy potwierdzonej przez wnioskodawcę za zgodność z oryginałem albo innej mapy sytuacyjno-wysokościowej, z naniesionym schematem planowanych obiektów lub robót,
-- **2)** wyznaczenia szlaku turystycznego pieszego lub rowerowego dokumentacji zawierającej charakterystykę planowanych działań wraz z podstawowymi danymi technicznymi, mapy sytuacyjno-wysokościowej pobranej z państwowego zasobu geodezyjnego i kartograficznego, kopii tej mapy potwierdzonej przez wnioskodawcę za zgodność z oryginałem albo innej mapy sytuacyjno-wysokościowej, z naniesionym schematem planowanych obiektów lub robót, określającym przebieg szlaku oraz usytuowanie drogowskazów i tablic, a także opis planowanej do zastosowania techniki montażu oznakowania przed przystąpieniem do planowanych robót.
+- **1)** wykonania drogi rowerowej – dokumentacji zawierającej charakterystykę planowanych działań wraz z podstawowymi danymi technicznymi i opisem planowanej technologii robót oraz mapy sytuacyjno-wysokościowej pobranej z państwowego zasobu geodezyjnego i kartograficznego, kopii tej mapy potwierdzonej przez wnioskodawcę za zgodność z oryginałem albo innej mapy sytuacyjno-wysokościowej, z naniesionym schematem planowanych obiektów lub robót,
+- **2)** wyznaczenia szlaku turystycznego pieszego lub rowerowego – dokumentacji zawierającej charakterystykę planowanych działań wraz z podstawowymi danymi technicznymi, mapy sytuacyjno-wysokościowej pobranej z państwowego zasobu geodezyjnego i kartograficznego, kopii tej mapy potwierdzonej przez wnioskodawcę za zgodność z oryginałem albo innej mapy sytuacyjno-wysokościowej, z naniesionym schematem planowanych obiektów lub robót, określającym przebieg szlaku oraz usytuowanie drogowskazów i tablic, a także opis planowanej do zastosowania techniki montażu oznakowania – przed przystąpieniem do planowanych robót.
 
 3. W przypadku planowania robót, które mogą naruszyć strukturę korpusu lub podłoża wałów, dołącza się także badania hydrogeologiczne wraz z opinią dotyczącą wpływu tych robót na szczelność i stabilność wałów.
 
@@ -2665,7 +2538,9 @@ Art. 480–524. (pominięte)
 
 2. W kosztach utrzymywania urządzeń wodnych uczestniczy ten, kto odnosi z nich korzyści. Przepis stosuje się także w przypadku ochrony przed powodzią lub suszą, żeglugi, poboru wód, energetycznego wykorzystania urządzeń wodnych, wprowadzania ścieków lub odprowadzania wody do urządzeń wodnych oraz innych usług wodnych, a także działalności gospodarczej związanej z wykorzystaniem urządzeń wodnych do celów rekreacyjnych, z wyłączeniem działalności wykonywanej przez uprawnionych do rybactwa.
 
-3. Na wniosek właściciela urządzenia wodnego organ właściwy w sprawach pozwoleń wodnoprawnych na wykonywanie urządzeń wodnych, w drodze decyzji, dokonuje podziału kosztów utrzymywania urządzeń wodnych, o których mowa w ust. 2.
+3. Na wniosek właściciela urządzenia wodnego organ właściwy w sprawach pozwoleń wodnoprawnych na wykonywanie urządzeń wodnych, w drodze decyzji, dokonuje podziału kosztów utrzymywania urządzeń wodnych, o których mowa w ust.
+
+2.
 
 4. We wniosku, o którym mowa w ust. 3, właściciel urządzenia wodnego wskazuje podmioty odnoszące korzyści, określa zakres odnoszonych korzyści oraz proponowaną wielkość udziału w kosztach utrzymywania urządzenia wodnego.
 
@@ -2697,9 +2572,9 @@ Art. 480–524. (pominięte)
 - **4)** stanu urządzeń umożliwiających migrację ryb, w tym zachowania ich funkcji kompensacyjnych;
 - **5)** zmian na górnym i na dolnym stanowisku budowli.
 
-5. W ramach realizacji obowiązku, o którym mowa w ust. 4, budowle piętrzące stanowiące własność Skarbu Państwa, zaliczone na podstawie przepisów w sprawie warunków technicznych, jakim powinny odpowiadać budowle hydrotechniczne i ich usytuowanie, wydanych na podstawie art. 7 ust. 2 pkt 2 ustawy z dnia 7 lipca 1994 r. Prawo budowlane (Dz. U. z 2025 r. poz. 418) do I lub II klasy, poddaje się badaniom i pomiarom pozwalającym opracować ocenę stanu technicznego i stanu bezpieczeństwa dla tych budowli, wykonywanym przez państwową służbę do spraw bezpieczeństwa budowli piętrzących.
+5. W ramach realizacji obowiązku, o którym mowa w ust. 4, budowle piętrzące stanowiące własność Skarbu Państwa, zaliczone na podstawie przepisów w sprawie warunków technicznych, jakim powinny odpowiadać budowle hydrotechniczne i ich usytuowanie, wydanych na podstawie art. 7 ust. 2 pkt 2 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2025 r. poz. 418) – do I lub II klasy, poddaje się badaniom i pomiarom pozwalającym opracować ocenę stanu technicznego i stanu bezpieczeństwa dla tych budowli, wykonywanym przez państwową służbę do spraw bezpieczeństwa budowli piętrzących.
 
-6. Właściciel budowli piętrzącej, zaliczonej na podstawie przepisów ustawy z dnia 7 lipca 1994 r. Prawo budowlane do XXVII kategorii, przekazuje jeden egzemplarz oceny stanu technicznego i stanu bezpieczeństwa budowli piętrzącej państwowej służbie do spraw bezpieczeństwa budowli piętrzących w terminie miesiąca od dnia jej odbioru.
+6. Właściciel budowli piętrzącej, zaliczonej na podstawie przepisów ustawy z dnia 7 lipca 1994 r. – Prawo budowlane do XXVII kategorii, przekazuje jeden egzemplarz oceny stanu technicznego i stanu bezpieczeństwa budowli piętrzącej państwowej służbie do spraw bezpieczeństwa budowli piętrzących w terminie miesiąca od dnia jej odbioru.
 
 7. Przepisu ust. 6 nie stosuje się do właścicieli budowli piętrzących, dla których oceny stanu technicznego i stanu bezpieczeństwa dokonuje państwowa służba do spraw bezpieczeństwa budowli piętrzących.
 
@@ -2719,7 +2594,7 @@ Art. 480–524. (pominięte)
 - **4)** ustaleń programu ochrony wód morskich,
 - **5)** ustaleń krajowego programu oczyszczania ścieków komunalnych,
 - **6)** ustaleń miejscowych planów zagospodarowania przestrzennego, decyzji o warunkach zabudowy albo decyzji o ustaleniu lokalizacji inwestycji celu publicznego,
-- **7)** wymagań dotyczących ochrony zdrowia ludzi, środowiska, ochrony przyrody i dóbr kultury wpisanych do rejestru zabytków wynikających z przepisów odrębnych oraz jest zgodna z art. 187, ustalając jednocześnie obowiązek uiszczenia opłaty legalizacyjnej.
+- **7)** wymagań dotyczących ochrony zdrowia ludzi, środowiska, ochrony przyrody i dóbr kultury wpisanych do rejestru zabytków wynikających z przepisów odrębnych – oraz jest zgodna z art. 187, ustalając jednocześnie obowiązek uiszczenia opłaty legalizacyjnej.
 
 3. Jednostkowa stawka opłaty, o której mowa w ust. 2, wynosi 4340 zł .
 
@@ -2735,7 +2610,7 @@ Art. 480–524. (pominięte)
 
 9. Minister właściwy do spraw gospodarki wodnej, nie później niż do dnia 31 października każdego roku, ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, wysokość stawki opłaty obowiązującej od dnia 1 stycznia roku następnego.
 
-10. Do ponoszenia opłaty, o której mowa w ust. 2, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa, z tym że uprawnienia organów podatkowych przysługują Wodom Polskim.
+10. Do ponoszenia opłaty, o której mowa w ust. 2, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, z tym że uprawnienia organów podatkowych przysługują Wodom Polskim.
 
 11. Opłata, o której mowa w ust. 2, stanowi przychód Wód Polskich.
 
@@ -2753,7 +2628,7 @@ Art. 480–524. (pominięte)
 
 - **1)** wylot urządzenia służącego do wprowadzania ścieków do wód, ziemi lub urządzeń wodnych,
 - **2)** wylot służący do wprowadzania wody do wód, ziemi lub urządzeń wodnych lub
-- **3)** pomost i przystań przez zastosowanie środków lub urządzeń służących odpowiednio do zablokowania odprowadzania ścieków lub wód z tego urządzenia albo utrudniających wejście na dane urządzenie.
+- **3)** pomost i przystań – przez zastosowanie środków lub urządzeń służących odpowiednio do zablokowania odprowadzania ścieków lub wód z tego urządzenia albo utrudniających wejście na dane urządzenie.
 
 2. Uniemożliwienia korzystania z urządzenia wodnego, o którym mowa w ust. 1, lub ograniczenia korzystania z tego urządzenia, dokonuje organ Wód Polskich właściwy w sprawie wydania pozwolenia wodnoprawnego lub dokonania zgłoszenia wodnoprawnego lub Inspekcja Wodna.
 
@@ -2761,7 +2636,7 @@ Art. 480–524. (pominięte)
 
 - **1)** Inspekcja Wodna niezwłocznie powiadamia o uniemożliwieniu korzystania z urządzenia wodnego, o którym mowa w ust. 1, lub ograniczeniu korzystania z tego urządzenia właściwy organ Wód Polskich;
 - **2)** właściwy organ Wód Polskich:
-    - **a)** niezwłocznie powiadamia o uniemożliwieniu korzystania z urządzenia wodnego, o którym mowa w ust. 1, lub ograniczeniu korzystania z tego urządzenia odpowiednio właściciela urządzenia wodnego lub podmiot korzystający z tego urządzenia jeżeli jest możliwe ich ustalenie,
+    - **a)** niezwłocznie powiadamia o uniemożliwieniu korzystania z urządzenia wodnego, o którym mowa w ust. 1, lub ograniczeniu korzystania z tego urządzenia odpowiednio właściciela urządzenia wodnego lub podmiot korzystający z tego urządzenia – jeżeli jest możliwe ich ustalenie,
     - **b)** podejmuje działania w celu wszczęcia procedury legalizacji urządzenia wodnego ‒ w przypadku korzystania z urządzenia wodnego wykonanego bez wymaganego pozwolenia wodnoprawnego lub zgłoszenia wodnoprawnego,
     - **c)** podejmuje działania w celu wszczęcia postępowania na podstawie art. 343 ust. 1 lub 6 ‒ w przypadku korzystania z wód przez zakład bez wymaganego pozwolenia wodnoprawnego lub zgłoszenia wodnoprawnego.
 
@@ -2775,8 +2650,8 @@ Art. 480–524. (pominięte)
 
 6. Właściwy organ Wód Polskich rozpatruje sprzeciw w terminie 14 dni od dnia jego wniesienia i w przypadku:
 
-- **1)** uwzględnienia sprzeciwu niezwłocznie usuwa zainstalowane przez siebie lub Inspekcję Wodną urządzenia, które uniemożliwiały lub ograniczały korzystanie z wykonanego urządzenia;
-- **2)** gdy urządzenie wodne zostało wykonane bez wymaganego pozwolenia wodnoprawnego lub zgłoszenia wodnoprawnego lub korzystanie z wód z urządzenia wodnego odbywa się bez wymaganego pozwolenia wodnoprawnego lub zgłoszenia wodnoprawnego odmawia, w drodze decyzji, uwzględnienia sprzeciwu.
+- **1)** uwzględnienia sprzeciwu – niezwłocznie usuwa zainstalowane przez siebie lub Inspekcję Wodną urządzenia, które uniemożliwiały lub ograniczały korzystanie z wykonanego urządzenia;
+- **2)** gdy urządzenie wodne zostało wykonane bez wymaganego pozwolenia wodnoprawnego lub zgłoszenia wodnoprawnego lub korzystanie z wód z urządzenia wodnego odbywa się bez wymaganego pozwolenia wodnoprawnego lub zgłoszenia wodnoprawnego – odmawia, w drodze decyzji, uwzględnienia sprzeciwu.
 
 **Art. 191.**
 
@@ -2843,12 +2718,12 @@ Art. 480–524. (pominięte)
 2. Wody Polskie prowadzą dla każdego roku kalendarzowego ewidencję:
 
 - **1)** żeglugowego wykorzystania śluz i pochylni przez statki,
-- **2)** wydatków poniesionych na rozwój i utrzymanie śródlądowych dróg wodnych i ich infrastruktury zgodnie z przepisami rozporządzenia Rady (EWG) nr 1108/70 z dnia 4 czerwca 1970 r. wprowadzającego system księgowy dla wydatków na infrastrukturę w transporcie kolejowym, drogowym i w żegludze śródlądowej (Dz. Urz. WE L 130 z 15.06.1970, str. 4, z późn. zm. Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 1, str. 42).
+- **2)** wydatków poniesionych na rozwój i utrzymanie śródlądowych dróg wodnych i ich infrastruktury – zgodnie z przepisami rozporządzenia Rady (EWG) nr 1108/70 z dnia 4 czerwca 1970 r. wprowadzającego system księgowy dla wydatków na infrastrukturę w transporcie kolejowym, drogowym i w żegludze śródlądowej (Dz. Urz. WE L 130 z 15.06.1970, str. 4, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 1, str. 42).
 
 3. Coroczne informacje o wydatkach poniesionych w roku poprzednim przez:
 
 - **1)** zakłady lub jednostki organizacyjne, które z własnych środków finansowych wykonują urządzenia wodne na śródlądowej drodze wodnej służące uprawianiu żeglugi śródlądowej,
-- **2)** organy administracji żeglugi śródlądowej w zakresie wydatków dotyczących funkcjonowania administracji żeglugi śródlądowej, ustalonych przepisami ustawy z dnia 21 grudnia 2000 r. o żegludze śródlądowej są przekazywane przez te podmioty Wodom Polskim w terminie do dnia 31 marca każdego roku na formularzach ewidencyjnych.
+- **2)** organy administracji żeglugi śródlądowej w zakresie wydatków dotyczących funkcjonowania administracji żeglugi śródlądowej, ustalonych przepisami ustawy z dnia 21 grudnia 2000 r. o żegludze śródlądowej – są przekazywane przez te podmioty Wodom Polskim w terminie do dnia 31 marca każdego roku na formularzach ewidencyjnych.
 
 4. Formularze ewidencyjne, o których mowa w ust. 3, obejmują dane wymagane na podstawie załączników I i III do rozporządzenia, o którym mowa w ust. 2.
 
@@ -2888,7 +2763,7 @@ Art. 480–524. (pominięte)
 
 - **1)** planowanej lokalizacji inwestycji na nieruchomościach osób trzecich, uwzględniając potrzebę stosowania proporcjonalnych ograniczeń praw i wolności osób trzecich, a w szczególności przebiegu inwestycji liniowej po najkrótszej drodze od odbiornika wód pochodzących z odwodnienia zakładów górniczych do zakładu górniczego lub zbiornika retencyjnego, w którym są przetrzymywane te wody, chyba że ten przebieg powodowałby większą ingerencję w prawa i wolności osób trzecich, a także z uwzględnieniem uwarunkowań przyrodniczych i terenowych;
 - **2)** zakładanego efektu realizacji inwestycji dla środowiska wodnego, uwzględniając potrzebę zapewnienia retencjonowania ścieków przemysłowych lub wód pochodzących z odwodnienia zakładów górniczych, zawierających chlorki i siarczany, podczas obowiązywania na obszarze, na którym zlokalizowano odbiorniki ścieków, ostrzeżeń przed suszą hydrologiczną w celu okresowego, trwającego przez co najmniej 5 następujących po sobie dni wstrzymania wprowadzania tych ścieków do wód lub ziemi;
-- **3)** potrzeby zwiększenia efektywności działania systemu lub pozytywnego wpływu na środowisko planowanych zmian w przypadku rozbudowy lub przebudowy systemu retencyjno-dozującego.
+- **3)** potrzeby zwiększenia efektywności działania systemu lub pozytywnego wpływu na środowisko planowanych zmian – w przypadku rozbudowy lub przebudowy systemu retencyjno-dozującego.
 
 2. Do wniosku, o którym mowa w ust. 1, załącza się:
 
@@ -2898,7 +2773,7 @@ Art. 480–524. (pominięte)
     - **b)** ilości ścieków przemysłowych lub wód pochodzących z odwodnienia zakładów górniczych, zawierających chlorki i siarczany, odprowadzanych systemem retencyjno-dozującym,
     - **c)** maksymalnej ilości ścieków przemysłowych lub wód pochodzących z odwodnienia zakładów górniczych, zawierających chlorki i siarczany, wprowadzanych do wód lub ziemi, określonej w pozwoleniu wodnoprawnym albo w pozwoleniu zintegrowanym;
 
-- **3)** w przypadku rozbudowy lub przebudowy systemu retencyjno-dozującego opis zakładanego zwiększenia efektywności działania tego systemu lub opis pozytywnego wpływu planowanych zmian na środowisko.
+- **3)** w przypadku rozbudowy lub przebudowy systemu retencyjno-dozującego – opis zakładanego zwiększenia efektywności działania tego systemu lub opis pozytywnego wpływu planowanych zmian na środowisko.
 
 3. Opinię, o której mowa w ust. 1, inwestor załącza do:
 
@@ -2924,10 +2799,10 @@ Art. 480–524. (pominięte)
 
 - **1)** starostę w zakresie:
     - **a)** nieruchomości,
-    - **b)** danych podmiotowych o nieruchomościach oraz danych podmiotów, o których mowa w art. 20 ust. 2 pkt 1 ustawy z dnia 17 maja 1989 r. Prawo geodezyjne i kartograficzne;
+    - **b)** danych podmiotowych o nieruchomościach oraz danych podmiotów, o których mowa w art. 20 ust. 2 pkt 1 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne;
 
-- **2)** właściwy organ ochrony przyrody, o którym mowa w przepisach ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody w zakresie oceny obszarów chronionych ustanowionych w celu ochrony ekosystemów lub gatunków, których stan bezpośrednio zależy od stanu wód;
-- **3)** organy właściwe do wydawania zgód wodnoprawnych w zakresie zgód wodnoprawnych.
+- **2)** właściwy organ ochrony przyrody, o którym mowa w przepisach ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody – w zakresie oceny obszarów chronionych ustanowionych w celu ochrony ekosystemów lub gatunków, których stan bezpośrednio zależy od stanu wód;
+- **3)** organy właściwe do wydawania zgód wodnoprawnych – w zakresie zgód wodnoprawnych.
 
 4. Dla obszaru całego państwa zakłada się i prowadzi w systemie teleinformatycznym bazy danych, obejmujące zbiory danych przestrzennych infrastruktury informacji przestrzennej, dotyczących ewidencji melioracji wodnych.
 
@@ -2976,7 +2851,7 @@ Art. 480–524. (pominięte)
 - **5)** ziemne stawy rybne,
 - **6)** groble na obszarach nawadnianych,
 - **7)** systemy nawodnień grawitacyjnych,
-- **8)** systemy nawodnień ciśnieniowych jeżeli służą celom, o których mowa w art. 195.
+- **8)** systemy nawodnień ciśnieniowych – jeżeli służą celom, o których mowa w art. 195.
 
 2. Przepisy dotyczące urządzeń melioracji wodnych stosuje się odpowiednio do:
 
@@ -3012,7 +2887,7 @@ Art. 480–524. (pominięte)
 
 2. Opłatę melioracyjną pobiera się w 15 równych ratach rocznych w terminie do dnia 30 października każdego roku, przy czym opłata melioracyjna mniejsza od 1000 zł jest pobierana w 3 równych ratach rocznych.
 
-3. Pierwszą ratę opłaty melioracyjnej pobiera się po upływie 2 lat od dnia przekazania urządzeń melioracji wodnych do eksploatacji, a w przypadku zagospodarowania pomelioracyjnego łąk i pastwisk po upływie roku.
+3. Pierwszą ratę opłaty melioracyjnej pobiera się po upływie 2 lat od dnia przekazania urządzeń melioracji wodnych do eksploatacji, a w przypadku zagospodarowania pomelioracyjnego łąk i pastwisk – po upływie roku.
 
 **Art. 201.**
 
@@ -3024,7 +2899,7 @@ Art. 480–524. (pominięte)
 
 3. Opłata, o której mowa w ust. 1, stanowi dochód budżetu państwa.
 
-4. Do opłaty, o której mowa w ust. 1, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa, z tym że uprawnienia organów podatkowych przysługują Wodom Polskim.
+4. Do opłaty, o której mowa w ust. 1, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, z tym że uprawnienia organów podatkowych przysługują Wodom Polskim.
 
 5. Opłata, o której mowa w ust. 1, nieuiszczona w terminie podlega przymusowemu ściągnięciu w trybie określonym w przepisach ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji.
 
@@ -3040,11 +2915,11 @@ Art. 480–524. (pominięte)
 
 **Art. 204.**
 
-1. W przypadku wykonania urządzeń melioracji wodnych w trybie, o którym mowa w art. 199 ust. 2, właścicielowi gruntu przysługuje odszkodowanie za szkody powstałe w trakcie robót związanych z wykonywaniem urządzeń melioracji wodnych, na zasadach określonych w przepisach ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. z 2024 r. poz. 1061 i 1237 oraz z 2025 r. poz. 769), z tym że roszczenie o odszkodowanie przedawnia się z upływem 3 miesięcy od dnia, w którym poszkodowany dowiedział się o powstaniu szkody.
+1. W przypadku wykonania urządzeń melioracji wodnych w trybie, o którym mowa w art. 199 ust. 2, właścicielowi gruntu przysługuje odszkodowanie za szkody powstałe w trakcie robót związanych z wykonywaniem urządzeń melioracji wodnych, na zasadach określonych w przepisach ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2024 r. poz. 1061 i 1237 oraz z 2025 r. poz. 769), z tym że roszczenie o odszkodowanie przedawnia się z upływem 3 miesięcy od dnia, w którym poszkodowany dowiedział się o powstaniu szkody.
 
 2. Zainteresowanemu właścicielowi gruntu nie przysługuje odszkodowanie za zajęcie gruntu pod urządzenia melioracji wodnych, a także za szkody w uprawach rolnych, związane z wykonywaniem tych urządzeń, jeżeli szkody te powstały przy prawidłowej organizacji i technologii robót.
 
-**Art. 205.** Utrzymywanie urządzeń melioracji wodnych należy do zainteresowanych właścicieli gruntów, a jeżeli urządzenia te są objęte działalnością spółki wodnej działającej na terenie gminy lub związku spółek wodnych, w którym jest zrzeszona spółka wodna działająca na terenie gminy do tej spółki lub tego związku spółek wodnych.
+**Art. 205.** Utrzymywanie urządzeń melioracji wodnych należy do zainteresowanych właścicieli gruntów, a jeżeli urządzenia te są objęte działalnością spółki wodnej działającej na terenie gminy lub związku spółek wodnych, w którym jest zrzeszona spółka wodna działająca na terenie gminy – do tej spółki lub tego związku spółek wodnych.
 
 **Art. 206.** Jeżeli obowiązek, o którym mowa w art. 205, nie jest wykonywany, właściwy organ Wód Polskich ustala, w drodze decyzji, proporcjonalnie do odnoszonych korzyści przez właścicieli gruntów, szczegółowe zakresy i terminy jego wykonywania.
 
@@ -3086,8 +2961,8 @@ Art. 480–524. (pominięte)
 
 1. Prawa właścicielskie w stosunku do wód publicznych stanowiących własność Skarbu Państwa wykonują:
 
-- **1)** Wody Polskie w stosunku do śródlądowych wód płynących oraz wód podziemnych;
-- **2)** minister właściwy do spraw gospodarki morskiej w stosunku do wód morza terytorialnego oraz morskich wód wewnętrznych.
+- **1)** Wody Polskie – w stosunku do śródlądowych wód płynących oraz wód podziemnych;
+- **2)** minister właściwy do spraw gospodarki morskiej – w stosunku do wód morza terytorialnego oraz morskich wód wewnętrznych.
 - **3)** (uchylony)
 
 2. Wody Polskie wykonują prawa właścicielskie w stosunku do nieruchomości stanowiących własność Skarbu Państwa, znajdujących się w obrębie działki ewidencyjnej, która obejmuje także śródlądowe wody płynące będące własnością Skarbu Państwa.
@@ -3175,7 +3050,7 @@ Art. 480–524. (pominięte)
 
 16. Starosta wykonuje prawo pierwokupu przez złożenie oświadczenia, w formie aktu notarialnego, u notariusza, o którym mowa w ust. 15. Jeżeli złożenie oświadczenia u tego notariusza jest niemożliwe lub napotyka poważne trudności, oświadczenie może być złożone u innego notariusza.
 
-17. Z chwilą złożenia oświadczenia nieruchomość staje się własnością Skarbu Państwa. Starosta wysyła sprzedającemu oświadczenie w formie aktu notarialnego o wykonaniu prawa pierwokupu przesyłką poleconą nadaną za potwierdzeniem odbioru w placówce pocztowej operatora pocztowego w rozumieniu art. 3 pkt 12 ustawy z dnia 23 listopada 2012 r. Prawo pocztowe, a następnie publikuje na stronie podmiotowej w Biuletynie Informacji Publicznej starostwa powiatowego. Uważa się, że sprzedający zapoznał się z treścią oświadczenia starosty o wykonaniu prawa pierwokupu z chwilą jego publikacji na stronie podmiotowej w Biuletynie Informacji Publicznej starostwa powiatowego.
+17. Z chwilą złożenia oświadczenia nieruchomość staje się własnością Skarbu Państwa. Starosta wysyła sprzedającemu oświadczenie w formie aktu notarialnego o wykonaniu prawa pierwokupu przesyłką poleconą nadaną za potwierdzeniem odbioru w placówce pocztowej operatora pocztowego w rozumieniu art. 3 pkt 12 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe, a następnie publikuje na stronie podmiotowej w Biuletynie Informacji Publicznej starostwa powiatowego. Uważa się, że sprzedający zapoznał się z treścią oświadczenia starosty o wykonaniu prawa pierwokupu z chwilą jego publikacji na stronie podmiotowej w Biuletynie Informacji Publicznej starostwa powiatowego.
 
 18. Prawo pierwokupu wykonuje się po cenie ustalonej między stronami w umowie sprzedaży.
 
@@ -3190,7 +3065,7 @@ Art. 480–524. (pominięte)
 - **3)** sposób i terminy ogłaszania przetargu oraz treść ogłoszenia o przetargu,
 - **4)** sposób powoływania i działania komisji przetargowej,
 - **5)** sposób sporządzania oraz treść protokołu z przeprowadzonego przetargu,
-- **6)** sposób postępowania w przypadku zaskarżenia przetargu kierując się koniecznością zapewnienia jawności i jednolitości postępowania, równego dostępu do udziału w przetargu oraz uzyskania najkorzystniejszego wyniku przetargu.
+- **6)** sposób postępowania w przypadku zaskarżenia przetargu – kierując się koniecznością zapewnienia jawności i jednolitości postępowania, równego dostępu do udziału w przetargu oraz uzyskania najkorzystniejszego wyniku przetargu.
 
 **Art. 218.**
 
@@ -3212,16 +3087,16 @@ Art. 480–524. (pominięte)
 
 2a. (uchylony) 2b. Strony postępowania w sprawie dotyczącej ustalenia charakteru wód, inne niż wnioskodawca oraz Wody Polskie, oraz adresy do doręczeń ustala się na podstawie danych z ewidencji gruntów i budynków.
 
-2c. Jeżeli liczba stron postępowania w sprawie dotyczącej ustalenia charakteru wód przekracza 10, do stron innych niż wnioskodawca i Wody Polskie stosuje się przepis art. 49 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
+2c. Jeżeli liczba stron postępowania w sprawie dotyczącej ustalenia charakteru wód przekracza 10, do stron innych niż wnioskodawca i Wody Polskie stosuje się przepis art. 49 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
 3. Do wniosku, o którym mowa w ust. 2, dołącza się:
 
 - **1)** część opisową obejmującą:
-    - **a)** opis elementów hydromorfologicznych wód, w tym: reżimu hydrologicznego, ciągłości wód, warunków morfologicznych,
+    - **a)** opis elementów hydromorfologicznych wód, w tym: – reżimu hydrologicznego, – ciągłości wód, – warunków morfologicznych,
     - **b)** (uchylona)
     - **c)** (uchylona)
     - **d)** analizę historyczną przynależności tych wód do publicznych śródlądowych wód powierzchniowych,
-    - **e)** imię i nazwisko oraz adres albo nazwę i siedzibę wnioskodawcy, a w przypadku gdy wnioskodawcą jest właściciel nieruchomości przyległej do wód lub nieruchomości znajdującej się pod wodami dokumenty potwierdzające tytuł prawny wnioskodawcy do tej nieruchomości,
+    - **e)** imię i nazwisko oraz adres albo nazwę i siedzibę wnioskodawcy, a w przypadku gdy wnioskodawcą jest właściciel nieruchomości przyległej do wód lub nieruchomości znajdującej się pod wodami – dokumenty potwierdzające tytuł prawny wnioskodawcy do tej nieruchomości,
     - **f)** wykaz właścicieli nieruchomości przyległych do wód oraz nieruchomości znajdujących się pod wodami, których dotyczy wniosek o ustalenie charakteru wód, ujawnionych w ewidencji gruntów i budynków,
     - **g)** wypisy z ewidencji gruntów i budynków obejmujące nieruchomości przyległe do wód oraz nieruchomości znajdujące się pod wodami, których dotyczy wniosek o ustalenie charakteru wód;
 
@@ -3229,11 +3104,11 @@ Art. 480–524. (pominięte)
 
 4. Decyzja, o której mowa w ust. 1, stanowi podstawę do dokonania zmian w ewidencji gruntów i budynków.
 
-5. W przypadku gdy w dniu wszczęcia postępowania w sprawie ustalenia charakteru wód ewidencja gruntów i budynków nie zawiera danych umożliwiających ustalenie stron postępowania lub w przypadku gdy dane te stały się nieaktualne na skutek śmierci jednej ze stron tego postępowania, nie stosuje się przepisów art. 97 § 1 pkt 1 i 4 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
+5. W przypadku gdy w dniu wszczęcia postępowania w sprawie ustalenia charakteru wód ewidencja gruntów i budynków nie zawiera danych umożliwiających ustalenie stron postępowania lub w przypadku gdy dane te stały się nieaktualne na skutek śmierci jednej ze stron tego postępowania, nie stosuje się przepisów art. 97 § 1 pkt 1 i 4 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
 6. Nieuregulowany stan prawny nieruchomości, o których mowa w ust. 2, lub brak danych w ewidencji gruntów i budynków pozwalających na ustalenie właściciela nieruchomości nie stanowi przeszkody do wszczęcia postępowania w sprawie ustalenia charakteru wód, wydania i doręczenia decyzji ustalającej charakter wód oraz zawiadomienia o jej wydaniu.
 
-6a. W przypadku, o którym mowa w ust. 6, stosuje się przepis art. 49 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego, przy czym zawiadomienie o wszczęciu postępowania oraz o wydaniu decyzji uważa się za dokonane po upływie 30 dni od dnia, w którym nastąpiło publiczne obwieszczenie, inne publiczne ogłoszenie lub udostępnienie pisma w Biuletynie Informacji Publicznej.
+6a. W przypadku, o którym mowa w ust. 6, stosuje się przepis art. 49 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, przy czym zawiadomienie o wszczęciu postępowania oraz o wydaniu decyzji uważa się za dokonane po upływie 30 dni od dnia, w którym nastąpiło publiczne obwieszczenie, inne publiczne ogłoszenie lub udostępnienie pisma w Biuletynie Informacji Publicznej.
 
 7. Przez nieruchomość o nieuregulowanym stanie prawnym rozumie się nieruchomość o nieuregulowanym stanie prawnym w rozumieniu art. 113 ust. 6 i 7 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami.
 
@@ -3243,23 +3118,23 @@ Art. 480–524. (pominięte)
 
 2. Jeżeli krawędź brzegu jest wyraźna, linia brzegu biegnie tą krawędzią.
 
-3. Jeżeli krawędź brzegu nie jest wyraźna, linia brzegu biegnie granicą stałego porostu traw, a jeżeli granica stałego porostu traw leży powyżej stanu wody, o którym mowa w ust. 1 linią przecięcia się zwierciadła wody przy tym stanie z gruntem przyległym.
+3. Jeżeli krawędź brzegu nie jest wyraźna, linia brzegu biegnie granicą stałego porostu traw, a jeżeli granica stałego porostu traw leży powyżej stanu wody, o którym mowa w ust. 1 – linią przecięcia się zwierciadła wody przy tym stanie z gruntem przyległym.
 
-4. Jeżeli brzegi wód są uregulowane, linia brzegu biegnie linią łączącą zewnętrzne krawędzie budowli regulacyjnych, a przy plantacjach wikliny na gruntach uzyskanych w wyniku regulacji granicą plantacji od strony lądu.
+4. Jeżeli brzegi wód są uregulowane, linia brzegu biegnie linią łączącą zewnętrzne krawędzie budowli regulacyjnych, a przy plantacjach wikliny na gruntach uzyskanych w wyniku regulacji – granicą plantacji od strony lądu.
 
 5. Linię brzegu ustala, w drodze decyzji, na wniosek podmiotu mającego interes prawny lub faktyczny:
 
-- **1)** właściwy terenowy organ administracji morskiej dla morskich wód wewnętrznych oraz wód morza terytorialnego;
-- **2)** minister właściwy do spraw gospodarki wodnej dla cieków naturalnych, jezior oraz innych naturalnych zbiorników wodnych o ciągłym albo okresowym naturalnym odpływie wód powierzchniowych.
+- **1)** właściwy terenowy organ administracji morskiej – dla morskich wód wewnętrznych oraz wód morza terytorialnego;
+- **2)** minister właściwy do spraw gospodarki wodnej – dla cieków naturalnych, jezior oraz innych naturalnych zbiorników wodnych o ciągłym albo okresowym naturalnym odpływie wód powierzchniowych.
 
 6. Podstawę ustalenia linii brzegu stanowi dostarczony przez wnioskodawcę projekt rozgraniczenia gruntów pokrytych wodami od gruntów przyległych, który zawiera:
 
 - **1)** opis uwzględniający oznaczenie wnioskodawcy, ze wskazaniem jego siedziby i adresu, przyjęty sposób ustalenia projektowanej linii brzegu, ustalenie stanu prawnego nieruchomości objętych projektem z oznaczeniem właścicieli wraz ze wskazaniem ich siedziby i adresu oraz sposób zagospodarowania gruntów przyległych do projektowanej linii brzegu,
 - **2)** odpowiednią:
     - **a)** zaktualizowaną kopię mapy zasadniczej w skali 1:500, 1:1000, 1:2000 albo 1:5000,
-    - **b)** mapę inwentaryzacji powykonawczej budowli regulacyjnych w skali, w jakiej jest sporządzony projekt regulacji wód śródlądowych, a w przypadku jej braku inne dostępne materiały z wykazaniem projektowanej linii brzegu oraz elementów istotnych dla przyjętego sposobu ustalenia tej linii.
+    - **b)** mapę inwentaryzacji powykonawczej budowli regulacyjnych w skali, w jakiej jest sporządzony projekt regulacji wód śródlądowych, a w przypadku jej braku – inne dostępne materiały – z wykazaniem projektowanej linii brzegu oraz elementów istotnych dla przyjętego sposobu ustalenia tej linii.
 
-7. Projekt rozgraniczenia gruntów, o którym mowa w ust. 6, sporządza osoba posiadająca uprawnienia zawodowe w dziedzinie geodezji i kartografii, o których mowa w art. 43 pkt 1, 2 lub 5 ustawy z dnia 17 maja 1989 r. Prawo geodezyjne i kartograficzne.
+7. Projekt rozgraniczenia gruntów, o którym mowa w ust. 6, sporządza osoba posiadająca uprawnienia zawodowe w dziedzinie geodezji i kartografii, o których mowa w art. 43 pkt 1, 2 lub 5 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne.
 
 8. Decyzję w sprawie ustalenia linii brzegu doręcza się wnioskodawcy oraz ujawnionym w ewidencji gruntów i budynków właścicielom lub innym podmiotom władającym gruntami przyległymi.
 
@@ -3289,19 +3164,19 @@ Art. 480–524. (pominięte)
 
 20. Decyzja o ustaleniu linii brzegu stanowi podstawę do dokonania wpisu w ewidencji gruntów i budynków.
 
-21. Przepisy ust. 8–12 stosuje się odpowiednio do postępowań dotyczących ustalenia linii brzegu wszczętych na podstawie przepisów działu II rozdziału 12 i 13 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
+21. Przepisy ust. 8–12 stosuje się odpowiednio do postępowań dotyczących ustalenia linii brzegu wszczętych na podstawie przepisów działu II rozdziału 12 i 13 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
 22. W postępowaniach dotyczących udzielania zgód wodnoprawnych związanych z usuwaniem skutków powodzi nie stosuje się przepisów ust. 14, 16 i 17.
 
-23. W postępowaniach dotyczących udzielania zgód wodnoprawnych związanych z usuwaniem skutków powodzi, dla wskazania przebiegu granic działek ewidencyjnych między gruntami tworzącymi dna i brzegi cieków naturalnych, jezior oraz innych naturalnych zbiorników wodnych a gruntami przyległymi stosuje się procedury określone w przepisach wydanych na podstawie art. 26 ust. 2 ustawy z dnia 17 maja 1989 r. Prawo geodezyjne i kartograficzne.
+23. W postępowaniach dotyczących udzielania zgód wodnoprawnych związanych z usuwaniem skutków powodzi, dla wskazania przebiegu granic działek ewidencyjnych między gruntami tworzącymi dna i brzegi cieków naturalnych, jezior oraz innych naturalnych zbiorników wodnych a gruntami przyległymi stosuje się procedury określone w przepisach wydanych na podstawie art. 26 ust. 2 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne.
 
 **Art. 221.**
 
 1. Rozgraniczenia gruntów, które były pokryte wodami przed wykonaniem urządzenia wodnego, od pozostałych gruntów dokonuje, na wniosek podmiotu mającego interes prawny lub faktyczny, w drodze decyzji, właściwy organ, o którym mowa w art. 220 ust. 5.
 
-2. Dokonując rozgraniczenia, o którym mowa w ust. 1, stosuje się odpowiednio przepisy art. 220, z tym że podstawą rozgraniczenia jest dokumentacja sporządzona na potrzeby wykonania urządzenia wodnego, a w przypadku jej braku dostępne materiały.
+2. Dokonując rozgraniczenia, o którym mowa w ust. 1, stosuje się odpowiednio przepisy art. 220, z tym że podstawą rozgraniczenia jest dokumentacja sporządzona na potrzeby wykonania urządzenia wodnego, a w przypadku jej braku – dostępne materiały.
 
-3. W przypadku braku dokumentacji umożliwiającej dokonanie rozgraniczenia, o którym mowa w ust. 1, jako grunt pokryty wodami powierzchniowymi w granicach urządzenia wodnego wyznacza się obszar niezbędny dla zachowania ciągłości cieku w przypadku likwidacji tego urządzenia, przyjmując parametry koryta cieku powyżej i poniżej urządzenia, a w przypadku jezior podpiętrzonych rzędne wody sprzed piętrzenia.
+3. W przypadku braku dokumentacji umożliwiającej dokonanie rozgraniczenia, o którym mowa w ust. 1, jako grunt pokryty wodami powierzchniowymi w granicach urządzenia wodnego wyznacza się obszar niezbędny dla zachowania ciągłości cieku w przypadku likwidacji tego urządzenia, przyjmując parametry koryta cieku powyżej i poniżej urządzenia, a w przypadku jezior podpiętrzonych – rzędne wody sprzed piętrzenia.
 
 **Art. 222.**
 
@@ -3357,7 +3232,7 @@ Art. 480–524. (pominięte)
 - **2)** spływu lodu oraz przeciwdziałania powstawaniu niekorzystnych zjawisk lodowych,
 - **3)** warunków umożliwiających korzystanie z wód, w tym utrzymywania zwierciadła wody na poziomie umożliwiającym funkcjonowanie urządzeń wodnych, obiektów mostowych, rurociągów, linii energetycznych, linii telekomunikacyjnych oraz innych urządzeń,
 - **4)** warunków eksploatacyjnych śródlądowych dróg wodnych określonych w przepisach wydanych na podstawie art. 42 ust. 4 ustawy z dnia 21 grudnia 2000 r. o żegludze śródlądowej,
-- **5)** działania urządzeń wodnych, w szczególności ich odpowiedniego stanu technicznego i funkcjonalnego i nie powinno uniemożliwić osiągnięcia celów środowiskowych określonych w art. 56, art. 57, art. 59 oraz w art. 61, przy uwzględnieniu dopuszczalności nieosiągnięcia celów środowiskowych, o której mowa w art. 66.
+- **5)** działania urządzeń wodnych, w szczególności ich odpowiedniego stanu technicznego i funkcjonalnego – i nie powinno uniemożliwić osiągnięcia celów środowiskowych określonych w art. 56, art. 57, art. 59 oraz w art. 61, przy uwzględnieniu dopuszczalności nieosiągnięcia celów środowiskowych, o której mowa w art. 66.
 
 3. Utrzymywanie wód, o których mowa w ust. 1, jest realizowane przez:
 
@@ -3395,7 +3270,7 @@ Art. 480–524. (pominięte)
 
 2. Zakaz, o którym mowa w ust. 1, nie dotyczy grodzenia terenów ochrony bezpośredniej stref ochronnych ustanowionych na podstawie przepisów ustawy oraz obrębów hodowlanych ustanowionych na podstawie przepisów ustawy z dnia 18 kwietnia 1985 r. o rybactwie śródlądowym (Dz. U. z 2022 r. poz. 883).
 
-3. Przepisu ust. 1 nie stosuje się na terenach zamkniętych w rozumieniu art. 2 pkt 9 ustawy z dnia 17 maja 1989 r. Prawo geodezyjne i kartograficzne.
+3. Przepisu ust. 1 nie stosuje się na terenach zamkniętych w rozumieniu art. 2 pkt 9 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne.
 
 4. Właściwy organ Wód Polskich, a na obszarze pasa technicznego dyrektor urzędu morskiego, mogą, w drodze decyzji, zwolnić z zakazu, o którym mowa w ust. 1, jeżeli jest to niezbędne dla obronności państwa lub bezpieczeństwa publicznego.
 
@@ -3405,13 +3280,13 @@ Art. 480–524. (pominięte)
 
 2. Właściciel nieruchomości przyległej do wód objętych powszechnym korzystaniem jest obowiązany zapewnić dostęp do wód w sposób umożliwiający to korzystanie. Części nieruchomości umożliwiające dostęp do wód wyznacza wójt, burmistrz lub prezydent miasta, w drodze decyzji.
 
-3. Właścicielowi nieruchomości, o którym mowa w ust. 1, przysługuje odszkodowanie odpowiednio od właściciela wód albo właściciela hydrologiczno-meteorologicznych urządzeń pomiarowych, a właścicielowi nieruchomości, o którym mowa w ust. 2 z budżetu gminy, na warunkach określonych w art. 469.
+3. Właścicielowi nieruchomości, o którym mowa w ust. 1, przysługuje odszkodowanie odpowiednio od właściciela wód albo właściciela hydrologiczno-meteorologicznych urządzeń pomiarowych, a właścicielowi nieruchomości, o którym mowa w ust. 2 – z budżetu gminy, na warunkach określonych w art. 469.
 
 **Art. 234.**
 
 1. Właściciel gruntu, o ile przepisy ustawy nie stanowią inaczej, nie może:
 
-- **1)** zmieniać kierunku i natężenia odpływu znajdujących się na jego gruncie wód opadowych lub roztopowych ani kierunku odpływu wód ze źródeł ze szkodą dla gruntów sąsiednich;
+- **1)** zmieniać kierunku i natężenia odpływu znajdujących się na jego gruncie wód opadowych lub roztopowych ani kierunku odpływu wód ze źródeł – ze szkodą dla gruntów sąsiednich;
 - **2)** odprowadzać wód oraz wprowadzać ścieków na grunty sąsiednie.
 
 2. Na właścicielu gruntu ciąży obowiązek usunięcia przeszkód oraz zmian w odpływie wody, powstałych na jego gruncie na skutek przypadku lub działania osób trzecich, ze szkodą dla gruntów sąsiednich.
@@ -3513,7 +3388,7 @@ Art. 480–524. (pominięte)
 - **22)** ustala przebieg granic obszarów dorzeczy, granic regionów wodnych oraz granic zlewni, o których mowa w art. 13 ust. 4;
 - **23)** wykonuje kontrolę gospodarowania wodami, o której mowa w art. 335 ust. 1 pkt 1, oraz wydaje decyzje, o których mowa w art. 343 ust. 2, 3 i 6;
 - **24)** dokonuje uzgodnienia list programów priorytetowych Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej w części dotyczącej gospodarki wodnej;
-- **25)** prowadzi sprawy, w których Prezes Wód Polskich pełni funkcję organu wyższego stopnia w rozumieniu przepisów ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego;
+- **25)** prowadzi sprawy, w których Prezes Wód Polskich pełni funkcję organu wyższego stopnia w rozumieniu przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego;
 - **26)** realizuje zadania Krajowej Inspekcji Wodnej.
 
 3. Regionalne zarządy gospodarki wodnej wykonują następujące zadania Wód Polskich:
@@ -3559,8 +3434,8 @@ Art. 480–524. (pominięte)
 
 4. Zarządy zlewni wykonują następujące zadania Wód Polskich:
 
-- **1)** z uwzględnieniem przepisów art. 397 ust. 3 prowadzą sprawy dotyczące:
-    - **a)** decyzji, o których mowa w art. 80, art. 132, art. 135 ust. 1 pkt 1 i ust. 3, art. 226 ust. 4, art. 237 ust. 3, art. 271 ust. 7, art. 272 ust. 19, art. 273 ust. 6, art. 275 ust. 15 i 19, art. 310 ust. 7 oraz art. 311 ust. 6,
+- **1)** z uwzględnieniem przepisów art. 397 ust. 3 prowadzą sprawy dotyczące: 226 ust. 4, art. 237 ust. 3, art. 271 ust. 7, art. 272 ust. 19, art. 273 ust. 6, art. 275 ust. 15 i 19, art. 310 ust. 7 oraz art. 311 ust. 6,
+    - **a)** decyzji, o których mowa w art. 80, art. 132, art. 135 ust. 1 pkt 1 i ust. 3, art.
     - **b)** zgód wodnoprawnych, o których mowa w art. 388 ust. 1 pkt 1;
 
 - **2)** współuczestniczą w zapewnieniu ochrony ludności i mienia przed powodzią i przeciwdziałaniu skutkom suszy, na poziomie zlewni;
@@ -3598,7 +3473,7 @@ Art. 480–524. (pominięte)
 - **9)** zapewniają należyty stan techniczny, obsługi i bezpieczeństwa budowli hydrotechnicznych będących własnością Skarbu Państwa;
 - **10)** dokonują odczytu wskazań przyrządów pomiarowych, stosownie do art. 272 ust. 14 i art. 275 ust. 10.
 
-6. Wody Polskie mogą wykonywać działalność gospodarczą na zasadach określonych w przepisach ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców, polegającą na wykonywaniu działań w zakresie gospodarki wodnej obejmujących:
+6. Wody Polskie mogą wykonywać działalność gospodarczą na zasadach określonych w przepisach ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, polegającą na wykonywaniu działań w zakresie gospodarki wodnej obejmujących:
 
 - **1)** projektowanie, wykonywanie, utrzymywanie i eksploatację urządzeń wodnych;
 - **2)** wytwarzanie energii elektrycznej w instalacjach odnawialnych źródeł energii, o których mowa w art. 2 pkt 13 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii;
@@ -3649,7 +3524,7 @@ Art. 480–524. (pominięte)
 
 4. Minister właściwy do spraw gospodarki wodnej odwołuje zastępców Prezesa Wód Polskich na wniosek Prezesa Wód Polskich.
 
-5. Powołanie, o którym mowa w ust. 1 i 3, stanowi nawiązanie stosunku pracy na podstawie powołania w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2025 r. poz. 277 i 807).
+5. Powołanie, o którym mowa w ust. 1 i 3, stanowi nawiązanie stosunku pracy na podstawie powołania w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277 i 807).
 
 6. Funkcji Prezesa Wód Polskich oraz zastępcy Prezesa Wód Polskich nie można łączyć z zatrudnieniem w administracji rządowej i samorządowej, z członkostwem w radach nadzorczych spółek z udziałem Skarbu Państwa, z członkostwem w radach nadzorczych spółek z udziałem jednostek samorządu terytorialnego, a także z mandatem posła, senatora lub radnego jednostki samorządu terytorialnego.
 
@@ -3678,7 +3553,7 @@ Art. 480–524. (pominięte)
 
 2. Dyrektora regionalnego zarządu oraz zastępców dyrektora regionalnego zarządu odwołuje Prezes Wód Polskich.
 
-3. Powołanie, o którym mowa w ust. 1, stanowi nawiązanie stosunku pracy na podstawie powołania w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. Kodeks pracy.
+3. Powołanie, o którym mowa w ust. 1, stanowi nawiązanie stosunku pracy na podstawie powołania w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
 
 **Art. 246.**
 
@@ -3705,7 +3580,7 @@ Art. 480–524. (pominięte)
 
 3. Dyrektora zarządu zlewni oraz zastępców dyrektora zarządu zlewni odwołuje Prezes Wód Polskich, na wniosek dyrektora regionalnego zarządu.
 
-4. Powołanie, o którym mowa w ust. 2, stanowi nawiązanie stosunku pracy na podstawie powołania w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. Kodeks pracy.
+4. Powołanie, o którym mowa w ust. 2, stanowi nawiązanie stosunku pracy na podstawie powołania w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
 
 5. Funkcji dyrektora zarządu zlewni oraz zastępcy dyrektora zarządu zlewni nie można łączyć z zatrudnieniem w administracji rządowej i samorządowej, z członkostwem w radach nadzorczych spółek z udziałem Skarbu Państwa, z członkostwem w radach nadzorczych spółek z udziałem jednostek samorządu terytorialnego, a także z mandatem posła, senatora lub radnego jednostki samorządu terytorialnego.
 
@@ -3732,7 +3607,7 @@ Art. 480–524. (pominięte)
 
 3. Kierownika nadzoru wodnego odwołuje dyrektor regionalnego zarządu, na wniosek dyrektora zarządu zlewni, po zasięgnięciu opinii właściwego starosty.
 
-4. Powołanie, o którym mowa w ust. 2, stanowi nawiązanie stosunku pracy na podstawie powołania w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. Kodeks pracy.
+4. Powołanie, o którym mowa w ust. 2, stanowi nawiązanie stosunku pracy na podstawie powołania w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
 
 5. Do kierownika nadzoru wodnego stosuje się przepisy dotyczące oświadczeń o stanie majątkowym, o których mowa w przepisach ustawy z dnia 21 sierpnia 1997 r. o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne.
 
@@ -3824,33 +3699,33 @@ Art. 480–524. (pominięte)
 
 - **1)** poboru próbek wody i ścieków do badań wykonywanych przez inspektora akredytowanego w rozumieniu przepisów ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. z 2025 r. poz. 568);
 - **2)** nakładania grzywny w drodze mandatu karnego za wykroczenia określone w niniejszej ustawie oraz w ustawie z dnia 18 kwietnia 1985 r. o rybactwie śródlądowym;
-- **3)** kontrolowania dokumentów uprawniających do połowu ryb osób dokonujących połowu, a w przypadku podejrzenia popełnienia wykroczenia zatrzymywania tych dokumentów za pokwitowaniem, z tym że dokumenty te wraz z wnioskiem o ukaranie przekazuje się do sądu w terminie 7 dni od dnia ich zatrzymania;
+- **3)** kontrolowania dokumentów uprawniających do połowu ryb osób dokonujących połowu, a w przypadku podejrzenia popełnienia wykroczenia – zatrzymywania tych dokumentów za pokwitowaniem, z tym że dokumenty te wraz z wnioskiem o ukaranie przekazuje się do sądu w terminie 7 dni od dnia ich zatrzymania;
 - **4)** kontrolowania liczby, masy i gatunków odłowionych ryb oraz kontrolowania przedmiotów służących do ich połowu;
-- **5)** zabezpieczania porzuconych ryb i przedmiotów służących do ich połowu w przypadku niemożności ustalenia ich posiadacza;
+- **5)** zabezpieczania porzuconych ryb i przedmiotów służących do ich połowu – w przypadku niemożności ustalenia ich posiadacza;
 - **6)** żądania wyjaśnień i wykonywania czynności niezbędnych do przeprowadzenia kontroli, w szczególności w zakresie niezbędnym do ustalenia:
     - **a)** maksymalnej technicznej wydajności instalacji lub urządzeń służących do wprowadzania ścieków do wód lub ziemi przez podmiot wprowadzający ścieki do wód lub ziemi bez wymaganego pozwolenia wodnoprawnego,
     - **b)** rodzaju ścieków wprowadzanych do wód lub ziemi bez wymaganego pozwolenia wodnoprawnego;
 
 - **7)** legitymowania świadków przestępstwa lub wykroczenia w celu ustalenia ich tożsamości;
-- **8)** żądania niezbędnej pomocy od instytucji państwowych, a także zwracania się o taką pomoc do jednostek gospodarczych, organizacji społecznych, a w nagłych przypadkach zwracania się do każdego obywatela o udzielenie doraźnej pomocy na zasadach określonych w przepisach o Policji określających szczegółowe zasady żądania takiej pomocy;
+- **8)** żądania niezbędnej pomocy od instytucji państwowych, a także zwracania się o taką pomoc do jednostek gospodarczych, organizacji społecznych, a w nagłych przypadkach – zwracania się do każdego obywatela o udzielenie doraźnej pomocy na zasadach określonych w przepisach o Policji określających szczegółowe zasady żądania takiej pomocy;
 - **9)** dokonywania czynności wyjaśniających w postępowaniach w sprawach o wykroczenia, które zostały określone w przepisach niniejszej ustawy i ustawy z dnia 18 kwietnia 1985 r. o rybactwie śródlądowym, sporządzania wniosków o ukaranie do sądu w sprawach o wykroczenia, udziału w charakterze oskarżyciela publicznego oraz wnoszenia środków zaskarżenia od rozstrzygnięć zapadłych w tych sprawach;
 - **10)** wstępu i wjazdu na tereny:
-    - **a)** lasów, zakładów przemysłowych, ośrodków turystyczno-wypoczynkowych, gospodarstw rolnych w zakresie niezbędnym do prowadzenia kontroli na wodach przyległych do tych terenów,
+    - **a)** lasów, zakładów przemysłowych, ośrodków turystyczno-wypoczynkowych, gospodarstw rolnych – w zakresie niezbędnym do prowadzenia kontroli na wodach przyległych do tych terenów,
     - **b)** elektrowni, młynów i tartaków wodnych, z wyjątkiem terenów i obiektów sił zbrojnych, Straży Granicznej i Policji oraz innych terenów i obiektów, których szczególne przeznaczenie stanowi informacje niejawne o klauzuli tajności „tajne” lub „ściśle tajne”.
 
 4. Inspektor regionalnej inspekcji wodnej w przypadku uzasadnionego podejrzenia popełnienia przestępstwa lub wykroczenia jest również uprawniony do:
 
 - **1)** legitymowania osób podejrzanych w celu ustalenia ich tożsamości;
-- **2)** odebrania za pokwitowaniem ryb i przedmiotów służących do ich połowu, z tym że ryby należy przekazać za pokwitowaniem uprawnionemu do rybactwa, a przedmioty zabezpieczyć;
+- **2)** odebrania za pokwitowaniem ryb i przedmiotów służących do ich połowu, z tym że ryby należy przekazać za pokwitowaniem uprawnionemu do rybactwa, a przedmioty – zabezpieczyć;
 - **3)** ujęcia osoby, udaremnienia jej ucieczki lub pościgu za tą osobą celem niezwłocznego przekazania jej Policji.
 
-5. Wstęp na tereny zamknięte, o których mowa w art. 2 pkt 9 ustawy z dnia 17 maja 1989 r. Prawo geodezyjne i kartograficzne, następuje za zgodą i pod nadzorem podmiotu zarządzającego tym terenem.
+5. Wstęp na tereny zamknięte, o których mowa w art. 2 pkt 9 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne, następuje za zgodą i pod nadzorem podmiotu zarządzającego tym terenem.
 
 6. Z czynności, o których mowa w ust. 3 pkt 1, 3, 6 i 8, sporządza się protokół.
 
 7. Do wykonywania przez inspektora regionalnej inspekcji wodnej czynności, o których mowa w ust. 3 pkt 2–10 i ust. 4, stosuje się odpowiednio przepisy o Policji.
 
-8. Inspektorzy regionalnej inspekcji wodnej w związku z pełnieniem obowiązków służbowych korzystają z ochrony przewidzianej dla funkcjonariuszy publicznych na zasadach określonych w przepisach ustawy z dnia 6 czerwca 1997 r. Kodeks karny.
+8. Inspektorzy regionalnej inspekcji wodnej w związku z pełnieniem obowiązków służbowych korzystają z ochrony przewidzianej dla funkcjonariuszy publicznych na zasadach określonych w przepisach ustawy z dnia 6 czerwca 1997 r. – Kodeks karny.
 
 **Art. 251e.**
 
@@ -3980,9 +3855,9 @@ Art. 480–524. (pominięte)
 7. Wody Polskie reprezentują Skarb Państwa oraz wykonują prawa właścicielskie Skarbu Państwa w stosunku do będących własnością Skarbu Państwa innych niż określone w ust. 3:
 
 - **1)** nieruchomości gruntowych związanych z gospodarką wodną, w tym nieruchomości położonych w międzywalu, wraz z położonymi na tych nieruchomościach budynkami, budowlami oraz innymi urządzeniami i lokalami;
-- **2)** nieruchomości innych niż wymienione w pkt 1:
+- **2)** nieruchomości innych niż wymienione w pkt 1: o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw.
     - **a)** służących do realizacji zadań określonych w przepisach ustawy,
-    - **b)** zlokalizowanych na obszarach szczególnego zagrożenia powodzią nabytych na podstawie art. 258a ust. 1 i art. 17–21 ustawy z dnia 9 maja 2025 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw.
+    - **b)** zlokalizowanych na obszarach szczególnego zagrożenia powodzią nabytych na podstawie art. 258a ust. 1 i art. 17–21 ustawy z dnia 9 maja 2025 r.
 
 8. Wody Polskie reprezentują Skarb Państwa oraz wykonują prawa właścicielskie Skarbu Państwa w stosunku do stanowiących własność Skarbu Państwa urządzeń wodnych posadowionych na gruntach pokrytych śródlądowymi wodami płynącymi oraz na gruntach, o których mowa w art. 218 ust. 3, z wyłączeniem urządzeń wodnych, w stosunku do których prawa właścicielskie Skarbu Państwa oraz reprezentację Skarbu Państwa wykonują starosta realizujący zadanie z zakresu administracji rządowej lub podmioty, którym to mienie zostało powierzone.
 
@@ -3998,11 +3873,11 @@ Art. 480–524. (pominięte)
 
 13. Wpis w księdze wieczystej oraz założenie księgi wieczystej są wolne od opłat.
 
-14. Organem wyższego stopnia w rozumieniu przepisów ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego w sprawach decyzji, o których mowa w ust. 10, jest minister właściwy do spraw gospodarki wodnej.
+14. Organem wyższego stopnia w rozumieniu przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego w sprawach decyzji, o których mowa w ust. 10, jest minister właściwy do spraw gospodarki wodnej.
 
 **Art. 258a.**
 
-- **15)** 1. W szczególnie uzasadnionych przypadkach Wody Polskie mogą nabywać, w imieniu i na rzecz Skarbu Państwa, za zgodą właściciela nieruchomości, zlokalizowane na obszarach szczególnego zagrożenia powodzią, na których prawdopodobieństwo wystąpienia powodzi jest wysokie i wynosi co najmniej 10 %, w celu zapewnienia skutecznej ochrony przeciwpowodziowej.
+1. W szczególnie uzasadnionych przypadkach Wody Polskie mogą nabywać, w imieniu i na rzecz Skarbu Państwa, za zgodą właściciela nieruchomości, zlokalizowane na obszarach szczególnego zagrożenia powodzią, na których prawdopodobieństwo wystąpienia powodzi jest wysokie i wynosi co najmniej 10 %, w celu zapewnienia skutecznej ochrony przeciwpowodziowej.
 
 2. Za szczególnie uzasadnione przypadki, o których mowa w ust. 1, uznaje się sytuacje, w których istnieje potrzeba:
 
@@ -4028,9 +3903,7 @@ Art. 480–524. (pominięte)
 
 10. Zapotrzebowanie, o którym mowa w ust. 9, otrzymane od Wód Polskich jest przekazywane za pośrednictwem ministra właściwego do spraw gospodarki wodnej do ministra właściwego do spraw budżetu.
 
-**Art. 258b.**
-
-- **15)** Do nabycia nieruchomości, o których mowa w art. 258 ust. 7 pkt 2, lub w trybie, o którym mowa w art. 258a, nie stosuje się przepisów art. 27a ustawy z dnia 16 września 2011 r. o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi (Dz. U. z 2024 r. poz. 654, 1473, 1635 i 1717 oraz z 2025 r. poz. 620 i 680).
+**Art. 258b.** Do nabycia nieruchomości, o których mowa w art. 258 ust. 7 pkt 2, lub w trybie, o którym mowa w art. 258a, nie stosuje się przepisów art. 27a ustawy z dnia 16 września 2011 r. o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi (Dz. U. z 2024 r. poz. 654, 1473, 1635 i 1717 oraz z 2025 r. poz. 620 i 680).
 
 **Art. 259.** Parki narodowe wykonują prawo użytkowania wieczystego w stosunku do gruntów pokrytych wodami znajdujących się w granicach parku narodowego, z wyłączeniem gruntów pokrytych wodami granicznymi, gruntów pokrytych wodami śródlądowych dróg wodnych, które są sklasyfikowane w klasie wyższej niż klasa I, na podstawie przepisów ustawy z dnia 21 grudnia 2000 r. o żegludze śródlądowej, oraz śródlądowych dróg wodnych o szczególnym znaczeniu transportowym.
 
@@ -4046,7 +3919,7 @@ Art. 480–524. (pominięte)
 
 5. Od urzędów morskich nie pobiera się opłaty z tytułu trwałego zarządu.
 
-6. Organem wyższego stopnia w rozumieniu przepisów ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego w sprawach decyzji, o których mowa w ust. 2, jest minister właściwy do spraw gospodarki morskiej.
+6. Organem wyższego stopnia w rozumieniu przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego w sprawach decyzji, o których mowa w ust. 2, jest minister właściwy do spraw gospodarki morskiej.
 
 **Art. 261.**
 
@@ -4060,7 +3933,7 @@ Art. 480–524. (pominięte)
 - **6)** uprawianiem rekreacji, turystyki, sportów wodnych oraz amatorskiego połowu ryb,
 - **7)** działalnością usługową,
 - **8)** infrastrukturą telekomunikacyjną,
-- **9)** korzystaniem z gruntów pokrytych wodami w sposób inny niż określony w pkt 1–8 oddaje się w użytkowanie za opłatą roczną.
+- **9)** korzystaniem z gruntów pokrytych wodami w sposób inny niż określony w pkt 1–8 – oddaje się w użytkowanie za opłatą roczną.
 
 2. Umowę użytkowania zawiera się w formie pisemnej, a do jej zawarcia ze strony Skarbu Państwa są upoważnione odpowiednio podmioty, o których mowa w art. 212 ust. 1.
 
@@ -4080,16 +3953,19 @@ Art. 480–524. (pominięte)
 6. Zwalnia się z opłaty rocznej, o której mowa w ust. 1:
 
 - **1)** grunty pokryte wodami oddawane w użytkowanie podmiotom wykonującym prawa właścicielskie Skarbu Państwa w stosunku do tych gruntów;
-- **2)** grunty pokryte wodami oddawane w użytkowanie jednostkom samorządu terytorialnego, klubom sportowym, w tym uczniowskim klubom sportowym, związkom sportowym oraz uprawnionym do rybactwa, na potrzeby, o których mowa w ust. 1 pkt 6, jeżeli podmioty te zapewniają powszechny i bezpłatny dostęp do wód.
+- **2)** grunty pokryte wodami oddawane w użytkowanie jednostkom samorządu terytorialnego, klubom sportowym, w tym uczniowskim klubom sportowym, związkom sportowym oraz uprawnionym do rybactwa, na potrzeby, o których mowa w ust. 1 pkt 6, jeżeli podmioty te zapewniają powszechny i bezpłatny dostęp do wód;
+- **3)** grunty pokryte wodami pod strefami ochronnymi na obszarach morskich wód wewnętrznych i morza terytorialnego, w tym pod strefami bezpieczeństwa, o których mowa w art. 24 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej, oddawane w użytkowanie podmiotom, które uzyskały pozwolenie, o którym mowa w art. 26 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej, lub decyzję, o której mowa w art. 5 ustawy z dnia 24 lipca 2015 r. o przygotowaniu i realizacji strategicznych inwestycji w zakresie sieci przesyłowych (Dz. U. z 2024 r. poz. 1199), dotyczące:
+    - **a)** zespołu urządzeń służących do wyprowadzenia mocy w rozumieniu ustawy z dnia 17 grudnia 2020 r. o promowaniu wytwarzania energii elektrycznej w morskich farmach wiatrowych lub jego elementów,
+    - **b)** elementów sieci przesyłowej elektroenergetycznej, za których ruch sieciowy jest odpowiedzialny operator systemu przesyłowego elektroenergetycznego w rozumieniu przepisów ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2024 r. poz. 266, z późn. zm. ).
 
 7. Umowa użytkowania może zostać w każdym czasie rozwiązana przez każdą ze stron w przypadku cofnięcia lub wygaśnięcia albo ograniczenia pozwolenia wodnoprawnego, o ile ograniczenie to dotyczyło przedmiotu użytkowania, a także w przypadku zakończenia działalności objętej zgłoszeniem wodnoprawnym.
 
-8. W sprawach nieuregulowanych w ust. 1–7 do użytkowania gruntów, o których mowa w ust. 1, stosuje się odpowiednio przepisy ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny dotyczące użytkowania.
+8. W sprawach nieuregulowanych w ust. 1–7 do użytkowania gruntów, o których mowa w ust. 1, stosuje się odpowiednio przepisy ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny dotyczące użytkowania.
 
 9. Opłaty roczne, o których mowa w ust. 1, stanowią:
 
-- **1)** przychód Wód Polskich jeżeli umowę użytkowania, o której mowa w ust. 2, zawierają Wody Polskie;
-- **2)** dochód budżetu państwa jeżeli umowę użytkowania, o której mowa w ust. 2, zawiera minister właściwy do spraw gospodarki morskiej.
+- **1)** przychód Wód Polskich – jeżeli umowę użytkowania, o której mowa w ust. 2, zawierają Wody Polskie;
+- **2)** dochód budżetu państwa – jeżeli umowę użytkowania, o której mowa w ust. 2, zawiera minister właściwy do spraw gospodarki morskiej.
 
 10. Jeżeli zwolnienie, o którym mowa w ust. 6, stanowi pomoc publiczną lub pomoc de minimis, następuje z uwzględnieniem warunków dopuszczalności tej pomocy, określonych w przepisach prawa Unii Europejskiej.
 
@@ -4177,7 +4053,7 @@ Art. 480–524. (pominięte)
 
 9. (uchylony)
 
-10. W ogłoszeniu o przetargu podaje się czas, miejsce i warunki przetargu, a w razie ogłoszenia kolejnego przetargu albo rokowań również terminy przeprowadzenia poprzednich przetargów.
+10. W ogłoszeniu o przetargu podaje się czas, miejsce i warunki przetargu, a w razie ogłoszenia kolejnego przetargu albo rokowań – również terminy przeprowadzenia poprzednich przetargów.
 
 11. Ogłoszenie o przetargu zawiera ponadto odpowiednio:
 
@@ -4252,7 +4128,7 @@ Art. 480–524. (pominięte)
 
 2a. Opłaty stałej nie ponosi się także za pobór wód do celów ochrony przyrody w lasach lub ochrony przeciwpożarowej lasu.
 
-3. Opłatę za usługi wodne za odprowadzanie do wód wód pochodzących z odwodnienia gruntów w granicach administracyjnych miast ponosi się wyłącznie w formie opłaty stałej.
+3. Opłatę za usługi wodne za odprowadzanie do wód – wód pochodzących z odwodnienia gruntów w granicach administracyjnych miast ponosi się wyłącznie w formie opłaty stałej.
 
 4. Opłatę za pobór wód do celów elektrowni wodnych ponosi się wyłącznie za ilość energii elektrycznej wyprodukowanej w obiekcie energetyki wodnej z wykorzystaniem wody pobranej zwrotnie, rozumianej jako woda, która została pobrana, wykorzystana, a następnie odprowadzona w tej samej ilości i niepogorszonej jakości, oraz za pobraną bezzwrotnie wodę technologiczną nieprzeznaczoną wprost do produkcji energii elektrycznej.
 
@@ -4268,12 +4144,12 @@ Art. 480–524. (pominięte)
 
 9. Wysokość opłaty za wprowadzanie ścieków do wód lub ziemi zależy od rodzaju substancji zawartych w ściekach i ich ilości, rodzaju ścieków, a w przypadku:
 
-- **1)** wód z obiegów chłodzących elektrowni lub elektrociepłowni od temperatury tych wód;
-- **2)** ścieków przemysłowych lub wody pochodzące z odwodnienia zakładów górniczych, zawierających chlorki i siarczany także od ilości ścieków lub wód oczyszczonych lub podczyszczonych w systemie oczyszczania lub podczyszczania ścieków zasolonych, odprowadzanych z zakładu, zastosowania w zakładzie systemu retencyjno-dozującego lub innego systemu pozwalającego uzyskać ten sam efekt, co system retencyjno-dozujący.
+- **1)** wód z obiegów chłodzących elektrowni lub elektrociepłowni – od temperatury tych wód;
+- **2)** ścieków przemysłowych lub wody pochodzące z odwodnienia zakładów górniczych, zawierających chlorki i siarczany – także od ilości ścieków lub wód oczyszczonych lub podczyszczonych w systemie oczyszczania lub podczyszczania ścieków zasolonych, odprowadzanych z zakładu, zastosowania w zakładzie systemu retencyjno-dozującego lub innego systemu pozwalającego uzyskać ten sam efekt, co system retencyjno-dozujący.
 
 10. Przez substancje zawarte w ściekach rozumie się także substancje wyrażone jako wskaźniki pięciodobowego biochemicznego zapotrzebowania tlenu (BZT ), chemicznego zapotrzebowania tlenu, zawiesiny ogólnej oraz sumy chlorków i siarczanów (Cl+SO ).
 
-11. Opłata za usługi wodne za odprowadzanie do wód wód opadowych lub roztopowych ujętych w otwarte lub zamknięte systemy kanalizacji deszczowej służące do odprowadzania opadów atmosferycznych albo systemy kanalizacji zbiorczej w granicach administracyjnych miast składa się z opłaty stałej oraz opłaty zmiennej zależnej od istnienia urządzeń do retencjonowania wody z terenów uszczelnionych.
+11. Opłata za usługi wodne za odprowadzanie do wód – wód opadowych lub roztopowych ujętych w otwarte lub zamknięte systemy kanalizacji deszczowej służące do odprowadzania opadów atmosferycznych albo systemy kanalizacji zbiorczej w granicach administracyjnych miast składa się z opłaty stałej oraz opłaty zmiennej zależnej od istnienia urządzeń do retencjonowania wody z terenów uszczelnionych.
 
 12. Opłatę za usługi wodne za wprowadzanie do wód lub ziemi wód z obiegów chłodzących elektrowni lub elektrociepłowni, a także z pomp ciepła i akumulatorów ciepła warstwy wodonośnej, które pobierają wodę, wykorzystują, a następnie odprowadzają do wód lub tej samej warstwy wodonośnej w tej samej ilości i niepogorszonej jakości, z wyjątkiem zmiany jej temperatury, ponosi się wyłącznie w formie opłaty zmiennej.
 
@@ -4287,7 +4163,7 @@ Art. 480–524. (pominięte)
     - **a)** wód opadowych lub roztopowych ujętych w otwarte lub zamknięte systemy kanalizacji deszczowej służące do odprowadzania opadów atmosferycznych albo systemy kanalizacji zbiorczej w granicach administracyjnych miast,
     - **b)** wód pochodzących z odwodnienia gruntów w granicach administracyjnych miast,
 
-- **4)** wprowadzanie ścieków do wód lub do ziemi ustalają Wody Polskie oraz przekazują podmiotom obowiązanym do ponoszenia opłat za usługi wodne w formie informacji rocznej, zawierającej także sposób obliczenia tej opłaty.
+- **4)** wprowadzanie ścieków do wód lub do ziemi – ustalają Wody Polskie oraz przekazują podmiotom obowiązanym do ponoszenia opłat za usługi wodne w formie informacji rocznej, zawierającej także sposób obliczenia tej opłaty.
 
 2. Wysokość opłaty stałej za pobór wód podziemnych ustala się jako iloczyn jednostkowej stawki opłaty, czasu wyrażonego w dniach i maksymalnej ilości wody podziemnej wyrażonej w m /s, która może być pobrana na podstawie pozwolenia wodnoprawnego albo pozwolenia zintegrowanego.
 
@@ -4296,9 +4172,9 @@ Art. 480–524. (pominięte)
 4. Wysokość opłaty stałej za odprowadzanie do wód:
 
 - **1)** wód opadowych lub roztopowych ujętych w otwarte lub zamknięte systemy kanalizacji deszczowej służące do odprowadzania opadów atmosferycznych albo systemy kanalizacji zbiorczej w granicach administracyjnych miast,
-- **2)** wód pochodzących z odwodnienia gruntów w granicach administracyjnych miast ustala się jako iloczyn jednostkowej stawki opłaty, czasu wyrażonego w dniach i określonej w pozwoleniu wodnoprawnym albo w pozwoleniu zintegrowanym maksymalnej ilości wód, wyrażonej w m /s, odprowadzanych do wód.
+- **2)** wód pochodzących z odwodnienia gruntów w granicach administracyjnych miast – ustala się jako iloczyn jednostkowej stawki opłaty, czasu wyrażonego w dniach i określonej w pozwoleniu wodnoprawnym albo w pozwoleniu zintegrowanym maksymalnej ilości wód, wyrażonej w m /s, odprowadzanych do wód.
 
-4a. Na potrzeby ustalenia wysokości opłaty stałej za odprowadzanie do wód wód opadowych lub roztopowych ujętych w otwarte lub zamknięte systemy kanalizacji deszczowej, za czas ich wprowadzania uznaje się średnią roczną liczbę zrzutów wód opadowych lub roztopowych ustaloną w pozwoleniu wodnoprawnym z przelewów kanalizacji deszczowej.
+4a. Na potrzeby ustalenia wysokości opłaty stałej za odprowadzanie do wód – wód opadowych lub roztopowych ujętych w otwarte lub zamknięte systemy kanalizacji deszczowej, za czas ich wprowadzania uznaje się średnią roczną liczbę zrzutów wód opadowych lub roztopowych ustaloną w pozwoleniu wodnoprawnym z przelewów kanalizacji deszczowej.
 
 5. Wysokość opłaty stałej za wprowadzanie ścieków do wód lub do ziemi ustala się jako iloczyn jednostkowej stawki opłaty, czasu wyrażonego w dniach i określonej w pozwoleniu wodnoprawnym albo w pozwoleniu zintegrowanym maksymalnej ilości ścieków wprowadzanych do wód lub do ziemi, wyrażonej w m /s. Na potrzeby ustalenia wysokości opłaty stałej za wprowadzanie ścieków z przelewów burzowych komunalnej kanalizacji ogólnospławnej do wód, za czas wprowadzania tych ścieków do wód uznaje się, ustaloną w pozwoleniu wodnoprawnym, średnią roczną liczbę zrzutów z przelewów burzowych komunalnej kanalizacji ogólnospławnej.
 
@@ -4324,11 +4200,11 @@ Art. 480–524. (pominięte)
 
 3b. Wysokość opłaty zmiennej za wprowadzanie wód pochodzących z pomp ciepła lub akumulatorów ciepła warstwy wodonośnej do wód ustala się jako iloczyn jednostkowej stawki opłaty i ilości wód wprowadzanych do wód, pochodzących z pomp ciepła lub akumulatorów ciepła warstwy wodonośnej, wyrażonej w m , z uwzględnieniem ich temperatury.
 
-4. Wysokość opłaty zmiennej za pobór wód do celów zapewnienia funkcjonowania systemów chłodzenia elektrowni i elektrociepłowni ustala się jako iloczyn jednostkowej stawki opłaty i wyrażonej w m różnicy między ilością wód pobranych do tych celów a ilością wód z obiegów chłodzących elektrowni lub elektrociepłowni wprowadzanych do wód lub do ziemi.
+4. Wysokość opłaty zmiennej za pobór wód do celów zapewnienia funkcjonowania systemów chłodzenia elektrowni i elektrociepłowni ustala się jako iloczyn jednostkowej stawki opłaty i wyrażonej w m różnicy między ilością wód pobranych do tych celów a ilością wód z obiegów chłodzących elektrowni lub elektrociepłowni – wprowadzanych do wód lub do ziemi.
 
 4a. W przypadku poboru wód podziemnych lub wód powierzchniowych bez wymaganego pozwolenia wodnoprawnego albo pozwolenia zintegrowanego ilości pobranych wód podziemnych lub wód powierzchniowych ustala się w toku kontroli gospodarowania wodami, przyjmując pobór wynikający z maksymalnej technicznej wydajności eksploatowanych instalacji lub urządzeń do poboru wód, a także przyjmując okres eksploatacji instalacji lub urządzenia do poboru wód przez jeden kwartał, jeżeli w toku kontroli gospodarowania wodami nie ustalono tego okresu eksploatacji.
 
-5. Wysokość opłaty zmiennej za odprowadzanie do wód wód opadowych lub roztopowych ujętych w otwarte lub zamknięte systemy kanalizacji deszczowej służące do odprowadzania opadów atmosferycznych w granicach administracyjnych miast, ustala się jako iloczyn jednostkowej stawki opłaty, ilości odprowadzonych wód, wyrażonej w m , i czasu, wyrażonego w latach, z uwzględnieniem istnienia urządzeń do retencjonowania wody z terenów uszczelnionych oraz ich pojemności.
+5. Wysokość opłaty zmiennej za odprowadzanie do wód – wód opadowych lub roztopowych ujętych w otwarte lub zamknięte systemy kanalizacji deszczowej służące do odprowadzania opadów atmosferycznych w granicach administracyjnych miast, ustala się jako iloczyn jednostkowej stawki opłaty, ilości odprowadzonych wód, wyrażonej w m , i czasu, wyrażonego w latach, z uwzględnieniem istnienia urządzeń do retencjonowania wody z terenów uszczelnionych oraz ich pojemności.
 
 5a. W przypadku odprowadzania wód opadowych lub roztopowych z przelewów kanalizacji deszczowej do wód w zakresie ustalonym w pozwoleniu wodnoprawnym albo pozwoleniu zintegrowanym opłatę zmienną za odprowadzanie wód opadowych lub roztopowych z tych przelewów ustala się za każdy przelew w wysokości stanowiącej równowartość 10 % ustalonej opłaty zmiennej, o której mowa w ust. 5, należnej za okres rozliczeniowy, w którym doszło do uruchomienia przelewu.
 
@@ -4348,7 +4224,7 @@ Art. 480–524. (pominięte)
 - **1)** pięciodobowego biochemicznego zapotrzebowania tlenu (BZT ),
 - **2)** chemicznego zapotrzebowania tlenu,
 - **3)** zawiesiny ogólnej,
-- **4)** sumy chlorków i siarczanów (Cl+SO ) ustala się, przyjmując najwyższe dopuszczalne wartości substancji zanieczyszczających dla danego rodzaju ścieków, określone w przepisach wydanych na podstawie art. 99 ust. 1.
+- **4)** sumy chlorków i siarczanów (Cl+SO ) – ustala się, przyjmując najwyższe dopuszczalne wartości substancji zanieczyszczających dla danego rodzaju ścieków, określone w przepisach wydanych na podstawie art. 99 ust. 1.
 
 6d. W przypadku wprowadzania do wód ścieków z przelewów burzowych komunalnej kanalizacji ogólnospławnej w zakresie ustalonym w pozwoleniu wodnoprawnym albo pozwoleniu zintegrowanym opłatę zmienną za wprowadzenie do wód ścieków z tych przelewów ustala się za każdy przelew w wysokości stanowiącej równowartość 10 % ustalonej opłaty zmiennej, o której mowa w ust. 6, należnej za okres rozliczeniowy, w którym doszło do uruchomienia przelewu burzowego.
 
@@ -4397,13 +4273,11 @@ Art. 480–524. (pominięte)
 - **2)** określenie obiektu energetyki wodnej, którego dotyczy deklaracja;
 - **3)** określenie ilości energii elektrycznej wyprodukowanej w obiekcie energetyki wodnej;
 - **4)** określenie kwartału, za który jest składana deklaracja;
-- **5)** dane dotyczące pozwolenia wodnoprawnego:
+- **5)** dane dotyczące pozwolenia wodnoprawnego: <16c. Podmiot obowiązany do ponoszenia opłat za usługi wodne za pobór wód do celów, o których mowa w art. 270 ust. 2 pkt 4, jest obowiązany przekazywać Wodom Polskim deklaracje kwartalne o ilości energii cieplnej wyprodukowanej lub pobranej w instalacji do chłodzenia lub ogrzewania, wyrażonej w MWh, zgodnie ze wzorem zamieszczonym w Biuletynie Informacji Publicznej na stronie podmiotowej Wód Polskich, w terminie 14 dni od dnia, w którym upływa dzień przypadający na koniec każdego kwartału.
     - **a)** oznaczenie organu właściwego do wydania pozwolenia wodnoprawnego,
     - **b)** znak decyzji,
     - **c)** datę udzielenia pozwolenia wodnoprawnego,
     - **d)** datę obowiązywania pozwolenia wodnoprawnego.
-
-16c. Podmiot obowiązany do ponoszenia opłat za usługi wodne za pobór wód do celów, o których mowa w art. 270 ust. 2 pkt 4, jest obowiązany przekazywać Wodom Polskim deklaracje kwartalne o ilości energii cieplnej wyprodukowanej lub pobranej w instalacji do chłodzenia lub ogrzewania, wyrażonej w MWh, zgodnie ze wzorem zamieszczonym w Biuletynie Informacji Publicznej na stronie podmiotowej Wód Polskich, w terminie 14 dni od dnia, w którym upływa dzień przypadający na koniec każdego kwartału.
 
 16d. Deklaracja, o której mowa w ust. 16c, zawiera:
 
@@ -4421,7 +4295,7 @@ Art. 480–524. (pominięte)
     - **a)** oznaczenie organu właściwego do wydania pozwolenia wodnoprawnego,
     - **b)** znak decyzji,
     - **c)** datę udzielenia pozwolenia wodnoprawnego,
-    - **d)** datę obowiązywania pozwolenia wodnoprawnego.
+    - **d)** datę obowiązywania pozwolenia wodnoprawnego.>
 
 17. Wysokość opłat, o których mowa w ust. 1–7 i 9, ustalają Wody Polskie oraz przekazują podmiotom obowiązanym do ponoszenia opłat za usługi wodne, w formie informacji, zawierającej także sposób obliczenia tej opłaty.
 
@@ -4465,7 +4339,7 @@ Art. 480–524. (pominięte)
 
 10. Zaskarżenie decyzji, o której mowa w ust. 6, nie wstrzymuje jej wykonania.
 
-**Art. 273a.** W przypadku złożenia reklamacji, o której mowa w art. 273 ust. 1, przepisów art. 10 § 1 oraz art. 61 § 4 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego nie stosuje się.
+**Art. 273a.** W przypadku złożenia reklamacji, o której mowa w art. 273 ust. 1, przepisów art. 10 § 1 oraz art. 61 § 4 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego nie stosuje się.
 
 **Art. 274.** Górne jednostkowe stawki opłat za usługi wodne, o których mowa w art. 268 ust. 1 pkt 1–3 oraz w art. 269, wynoszą:
 
@@ -4539,9 +4413,9 @@ Art. 480–524. (pominięte)
 
 23. Górna jednostkowa stawka opłaty za wprowadzanie ścieków do wód lub do ziemi z chowu lub hodowli ryb w obiektach przepływowych, charakteryzujących się poborem zwrotnym, za 1 kg substancji wprowadzanych ze ściekami do wód lub do ziemi, wyrażonych jako wskaźnik:
 
-- **1)** pięciodobowego biochemicznego zapotrzebowania tlenu (BZT ) wynosi 4,28 zł;
-- **2)** chemicznego zapotrzebowania tlenu wynosi 1,71 zł;
-- **3)** zawiesiny ogólnej wynosi 0,52 zł.
+- **1)** pięciodobowego biochemicznego zapotrzebowania tlenu (BZT ) – wynosi 4,28 zł;
+- **2)** chemicznego zapotrzebowania tlenu – wynosi 1,71 zł;
+- **3)** zawiesiny ogólnej – wynosi 0,52 zł.
 
 24. Górna jednostkowa stawka opłaty za każde rozpoczęte 100 kg przyrostu masy ryb albo innych organizmów wodnych wynosi 0,272 zł, jeżeli średnioroczny przyrost masy tych ryb lub tych organizmów w poszczególnych latach cyklu produkcyjnego przekracza 1500 kg z 1 ha powierzchni użytkowej stawów o wodzie stojącej w jednym roku danego cyklu.
 
@@ -4630,7 +4504,7 @@ Art. 480–524. (pominięte)
 
 **Art. 283.**
 
-1. Wysokość opłaty podwyższonej, o której mowa w art. 280 pkt 2 lit. b, zależy odpowiednio od ilości, stanu i składu ścieków albo minimalnej procentowej redukcji stężeń substancji w ściekach substancji zanieczyszczających w procesie oczyszczania ścieków, a w przypadku ścieków przemysłowych, dopuszczalnej ilości substancji zanieczyszczających oraz dopuszczalnej masy substancji, w tym w szczególności ilości substancji szczególnie szkodliwych dla środowiska wodnego, w odprowadzanych ściekach przypadającej na jednostkę masy wykorzystanego surowca, materiału, paliwa lub wytworzonego produktu, o których mowa w przepisach wydanych na podstawie art. 99 ust. 1 pkt 1 stosownie do warunków określonych w pozwoleniu wodnoprawnym albo pozwoleniu zintegrowanym.
+1. Wysokość opłaty podwyższonej, o której mowa w art. 280 pkt 2 lit. b, zależy odpowiednio od ilości, stanu i składu ścieków albo minimalnej procentowej redukcji stężeń substancji w ściekach substancji zanieczyszczających w procesie oczyszczania ścieków, a w przypadku ścieków przemysłowych, dopuszczalnej ilości substancji zanieczyszczających oraz dopuszczalnej masy substancji, w tym w szczególności ilości substancji szczególnie szkodliwych dla środowiska wodnego, w odprowadzanych ściekach przypadającej na jednostkę masy wykorzystanego surowca, materiału, paliwa lub wytworzonego produktu, o których mowa w przepisach wydanych na podstawie art. 99 ust. 1 pkt 1 – stosownie do warunków określonych w pozwoleniu wodnoprawnym albo pozwoleniu zintegrowanym.
 
 2. Przez skład ścieków rozumie się stężenie zawartych w nich substancji.
 
@@ -4717,23 +4591,23 @@ Art. 480–524. (pominięte)
 
 8. Właściwy organ Inspekcji Ochrony Środowiska, który wydał decyzję o odroczeniu opłaty podwyższonej, o której mowa w art. 280 pkt 2, przesyła kopię tej decyzji do Wód Polskich.
 
-9. W przypadku wniesienia wniosku, o którym mowa w ust. 4, naliczane są odsetki za zwłokę na zasadach określonych w przepisach działu III ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa.
+9. W przypadku wniesienia wniosku, o którym mowa w ust. 4, naliczane są odsetki za zwłokę na zasadach określonych w przepisach działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa.
 
 10. W przypadku gdy terminowe zrealizowanie przedsięwzięcia będącego podstawą odroczenia terminu płatności usunęło przyczyny ponoszenia opłaty, o której mowa w art. 280 pkt 2, właściwy organ Inspekcji Ochrony Środowiska, w drodze decyzji, orzeka o zmniejszeniu odroczonej opłaty o sumę środków własnych wydatkowanych na realizację przedsięwzięcia. Jeżeli odroczenie dotyczy przedsięwzięcia służącego realizacji zadań własnych gminy, do środków własnych wlicza się także środki pochodzące z budżetu gminy.
 
-11. W przypadku, o którym mowa w ust. 10, do kwot pozostających do zapłaty stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa dotyczące opłaty prolongacyjnej według stawki ustalonej dla dochodów budżetu państwa.
+11. W przypadku, o którym mowa w ust. 10, do kwot pozostających do zapłaty stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa dotyczące opłaty prolongacyjnej według stawki ustalonej dla dochodów budżetu państwa.
 
-12. W przypadku gdy terminowe zrealizowanie przedsięwzięcia będącego podstawą odroczenia płatności opłaty podwyższonej, o której mowa w art. 280 pkt 2, nie usunęło przyczyn ponoszenia tej opłaty, właściwy organ Inspekcji Ochrony Środowiska, w drodze decyzji, orzeka o obowiązku uiszczenia odroczonej opłaty podwyższonej wraz z opłatą prolongacyjną, o której mowa w przepisach działu III ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa, według stawki ustalonej dla dochodów budżetu państwa.
+12. W przypadku gdy terminowe zrealizowanie przedsięwzięcia będącego podstawą odroczenia płatności opłaty podwyższonej, o której mowa w art. 280 pkt 2, nie usunęło przyczyn ponoszenia tej opłaty, właściwy organ Inspekcji Ochrony Środowiska, w drodze decyzji, orzeka o obowiązku uiszczenia odroczonej opłaty podwyższonej wraz z opłatą prolongacyjną, o której mowa w przepisach działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, według stawki ustalonej dla dochodów budżetu państwa.
 
 13. Przepisy ust. 10 i 11 stosuje się odpowiednio w sytuacji, gdy przedsięwzięcie, którego wykonanie zapewniło usunięcie przyczyn wymierzenia opłaty podwyższonej, o której mowa w art. 280 pkt 2, zostało zrealizowane przed wydaniem przez właściwy organ Inspekcji Ochrony Środowiska decyzji ustalającej tę opłatę.
 
 14. Wydanie przez właściwy organ Inspekcji Ochrony Środowiska decyzji o zmniejszeniu opłaty podwyższonej, o której mowa w art. 280 pkt 2, w sytuacji, o której mowa w ust. 13, wymaga złożenia wniosku do właściwego organu Inspekcji Ochrony Środowiska przed upływem terminu, w którym ta opłata powinna być uiszczona.
 
-15. Jeżeli przedsięwzięcie będące podstawą odroczenia terminu płatności opłaty podwyższonej, o której mowa w art. 280 pkt 2, nie zostanie zrealizowane w terminie, właściwy organ Inspekcji Ochrony Środowiska stwierdza, w drodze decyzji, obowiązek uiszczenia odroczonej opłaty podwyższonej wraz z określonymi w przepisach działu III ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa odsetkami za zwłokę naliczanymi za okres odroczenia.
+15. Jeżeli przedsięwzięcie będące podstawą odroczenia terminu płatności opłaty podwyższonej, o której mowa w art. 280 pkt 2, nie zostanie zrealizowane w terminie, właściwy organ Inspekcji Ochrony Środowiska stwierdza, w drodze decyzji, obowiązek uiszczenia odroczonej opłaty podwyższonej wraz z określonymi w przepisach działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa odsetkami za zwłokę naliczanymi za okres odroczenia.
 
 16. Właściwy organ Inspekcji Ochrony Środowiska może wydać decyzję, o której mowa w ust. 15, także przed upływem terminu odroczenia płatności opłaty podwyższonej, o której mowa w art. 280 pkt 2, jeżeli stwierdzi, że przedsięwzięcie będące podstawą odroczenia nie jest realizowane zgodnie z harmonogramem.
 
-**Art. 297.** Organem wyższego stopnia w rozumieniu przepisów ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego w sprawach decyzji, o których mowa w art. 296 ust. 7, 8, 10 i 12–15, jest właściwy organ Inspekcji Ochrony Środowiska.
+**Art. 297.** Organem wyższego stopnia w rozumieniu przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego w sprawach decyzji, o których mowa w art. 296 ust. 7, 8, 10 i 12–15, jest właściwy organ Inspekcji Ochrony Środowiska.
 
 **Art. 298.** Opłatę za usługi wodne są obowiązane ponosić:
 
@@ -4746,7 +4620,7 @@ Art. 480–524. (pominięte)
 3. Wpływy z tytułu opłat za usługi wodne oraz opłat podwyższonych stanowią przychody Wód Polskich, z wyjątkiem wpływów z:
 
 - **1)** opłat za wprowadzanie ścieków do wód lub do ziemi, o których mowa w art. 268 ust. 1 pkt 2,
-- **2)** opłaty podwyższonej, o której mowa w art. 280 pkt 2 lit. b które w 10 % stanowią przychód Wód Polskich, a w 90 % stanowią przychód Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej.
+- **2)** opłaty podwyższonej, o której mowa w art. 280 pkt 2 lit. b – które w 10 % stanowią przychód Wód Polskich, a w 90 % stanowią przychód Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej.
 
 4. Wpływy z tytułu opłat za wprowadzanie ścieków do wód lub do ziemi, o których mowa w art. 268 ust. 1 pkt 2, oraz wpływy z opłaty podwyższonej, o której mowa w art. 280 pkt 2 lit. b, w części stanowiącej przychód Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej, Wody Polskie przekazują na rachunek bankowy tego Funduszu w terminie do końca następnego miesiąca po ich wpływie na rachunek bankowy Wód Polskich.
 
@@ -4756,19 +4630,19 @@ Art. 480–524. (pominięte)
 
 **Art. 300.**
 
-1. Do ponoszenia opłat za usługi wodne oraz opłat podwyższonych stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa, z tym że uprawnienia organów podatkowych przysługują Wodom Polskim, właściwym organom Inspekcji Ochrony Środowiska oraz gminom.
+1. Do ponoszenia opłat za usługi wodne oraz opłat podwyższonych stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, z tym że uprawnienia organów podatkowych przysługują Wodom Polskim, właściwym organom Inspekcji Ochrony Środowiska oraz gminom.
 
 1a. Uprawnienia organu podatkowego, o których mowa w ust. 1, przysługujące Wodom Polskim wykonują dyrektorzy zarządów zlewni Wód Polskich.
 
-1b. W sprawach uprawnień organu podatkowego, o których mowa w ust. 1, właściwy dyrektor regionalnego zarządu gospodarki wodnej Wód Polskich pełni funkcję organu wyższego stopnia w rozumieniu przepisów ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego w stosunku do dyrektorów zarządów zlewni Wód Polskich.
+1b. W sprawach uprawnień organu podatkowego, o których mowa w ust. 1, właściwy dyrektor regionalnego zarządu gospodarki wodnej Wód Polskich pełni funkcję organu wyższego stopnia w rozumieniu przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego w stosunku do dyrektorów zarządów zlewni Wód Polskich.
 
-2. Do ponoszenia opłat za usługi wodne oraz opłat podwyższonych nie stosuje się przepisów ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa dotyczących ustalania opłaty prolongacyjnej, z zastrzeżeniem art. 296 ust. 11 i 12.
+2. Do ponoszenia opłat za usługi wodne oraz opłat podwyższonych nie stosuje się przepisów ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa dotyczących ustalania opłaty prolongacyjnej, z zastrzeżeniem art. 296 ust. 11 i 12.
 
-3. Do ponoszenia opłat podwyższonych nie stosuje się przepisów ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa dotyczących terminu płatności należności, odroczenia tego terminu oraz umarzania zaległych zobowiązań i odsetek za zwłokę.
+3. Do ponoszenia opłat podwyższonych nie stosuje się przepisów ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa dotyczących terminu płatności należności, odroczenia tego terminu oraz umarzania zaległych zobowiązań i odsetek za zwłokę.
 
-4. W razie odroczenia terminu płatności opłat podwyższonych stosuje się odpowiednio przepisy ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa w zakresie zawieszenia biegu terminu przedawnienia.
+4. W razie odroczenia terminu płatności opłat podwyższonych stosuje się odpowiednio przepisy ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa w zakresie zawieszenia biegu terminu przedawnienia.
 
-5. Do opłat podwyższonych, o których mowa w art. 280 pkt 2, nie stosuje się art. 68 ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa.
+5. Do opłat podwyższonych, o których mowa w art. 280 pkt 2, nie stosuje się art. 68 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa.
 
 6. Zobowiązanie wynikające z decyzji, o których mowa w art. 282 ust. 8 oraz art. 283 ust. 4, nie powstaje, jeżeli te decyzje zostały doręczone stronie po upływie 5 lat od końca roku kalendarzowego, za który ustalono opłatę podwyższoną.
 
@@ -4813,11 +4687,11 @@ Art. 480–524. (pominięte)
 
 1. Podmioty korzystające z usług wodnych są obowiązane do przekazywania wyników prowadzonych pomiarów ilości pobieranych wód podziemnych i wód powierzchniowych oraz ilości i jakości ścieków wprowadzanych do wód lub do ziemi, w zakresie określonym w pozwoleniu wodnoprawnym albo pozwoleniu zintegrowanym:
 
-- **1)** do organu właściwego w sprawach pozwoleń wodnoprawnych albo organu właściwego do wydania pozwolenia zintegrowanego w terminie do dnia 1 marca każdego roku za rok poprzedni;
+- **1)** do organu właściwego w sprawach pozwoleń wodnoprawnych albo organu właściwego do wydania pozwolenia zintegrowanego – w terminie do dnia 1 marca każdego roku za rok poprzedni;
 - **2)** do właściwego organu Inspekcji Ochrony Środowiska:
-    - **a)** w przypadku pomiarów ciągłych w terminie 30 dni od dnia zakończenia półrocza, w którym pomiary zostały wykonane za I półrocze oraz w terminie do dnia 31 stycznia roku następującego po roku kalendarzowym, w którym pomiary zostały wykonane za rok kalendarzowy,
-    - **b)** w przypadku pomiarów okresowych wykonywanych częściej niż jeden raz w miesiącu w terminie 30 dni od dnia zakończenia kwartału, w którym pomiary zostały wykonane,
-    - **c)** w pozostałych przypadkach w terminie 30 dni od dnia zakończenia pomiaru.
+    - **a)** w przypadku pomiarów ciągłych – w terminie 30 dni od dnia zakończenia półrocza, w którym pomiary zostały wykonane – za I półrocze oraz w terminie do dnia 31 stycznia roku następującego po roku kalendarzowym, w którym pomiary zostały wykonane – za rok kalendarzowy,
+    - **b)** w przypadku pomiarów okresowych wykonywanych częściej niż jeden raz w miesiącu – w terminie 30 dni od dnia zakończenia kwartału, w którym pomiary zostały wykonane,
+    - **c)** w pozostałych przypadkach – w terminie 30 dni od dnia zakończenia pomiaru.
 
 2. Minister właściwy do spraw gospodarki wodnej określi, w drodze rozporządzenia, formę i układ przekazywanych wyników pomiarów ilości pobranych wód podziemnych i wód powierzchniowych oraz ilości i jakości ścieków wprowadzanych do wód lub do ziemi, kierując się potrzebą ujednolicenia oraz uporządkowania przekazywanych wyników pomiarów.
 
@@ -4839,7 +4713,7 @@ Art. 480–524. (pominięte)
 
 1. Wysokość należności za przewóz osób statkami pasażerskimi oraz wycieczkowymi ustala się w zależności od liczby miejsc pasażerskich i długości przebytej drogi w jednym rejsie.
 
-2. Wysokość należności za przewóz towarów ustala się w zależności od masy przewożonych towarów i długości trasy. Masę przewożonych towarów zaokrągla się do pełnych ton, a wysokość należności do pełnych dziesiątek groszy.
+2. Wysokość należności za przewóz towarów ustala się w zależności od masy przewożonych towarów i długości trasy. Masę przewożonych towarów zaokrągla się do pełnych ton, a wysokość należności – do pełnych dziesiątek groszy.
 
 3. Wysokość należności za przewóz ustala się za tonokilometry.
 
@@ -4857,7 +4731,7 @@ Art. 480–524. (pominięte)
 
 **Art. 309.**
 
-1. Wysokość należności za korzystanie ze śluz lub pochylni ustala się w zależności od rodzaju i wielkości statku oraz od godzin korzystania z tych urządzeń (od 7 do 19 albo od 19 do 7 ) w godzinach pracy śluzy lub pochylni.
+1. Wysokość należności za korzystanie ze śluz lub pochylni ustala się w zależności od rodzaju i wielkości statku oraz od godzin korzystania z tych urządzeń (od 7 do 19 albo od 19 do 7 ) – w godzinach pracy śluzy lub pochylni.
 
 2. W śluzach wielostopniowych każdą komorę uznaje się za osobną śluzę.
 
@@ -4916,8 +4790,8 @@ Art. 480–524. (pominięte)
 - **2)** żeglugę statków pasażerskich i wycieczkowych nie może być wyższa niż 2,5 gr za iloczyn jednego miejsca na statku i każdego kilometra przebytej drogi wodnej;
 - **3)** przewóz towarów statkami towarowymi oraz holowanie i spław drewna nie może być wyższa niż 2 gr za jeden tonokilometr;
 - **4)** za korzystanie ze śluz lub pochylni nie może być wyższa niż:
-    - **a)** za jedno przejście przez śluzę lub pochylnię w godzinach od 7 do 19 35 zł ,
-    - **b)** za jedno przejście przez śluzę lub pochylnię w godzinach od 19 do 7 70 zł .
+    - **a)** za jedno przejście przez śluzę lub pochylnię w godzinach od 7 do 19 – 35 zł ,
+    - **b)** za jedno przejście przez śluzę lub pochylnię w godzinach od 19 do 7 – 70 zł .
 
 2. Minister właściwy do spraw gospodarki wodnej w porozumieniu z ministrem właściwym do spraw żeglugi śródlądowej, w drodze rozporządzenia:
 
@@ -4926,7 +4800,7 @@ Art. 480–524. (pominięte)
     - **a)** żeglugę pustych statków towarowych,
     - **b)** żeglugę statków pasażerskich i wycieczkowych,
     - **c)** przewóz towarów statkami towarowymi oraz holowanie i spław drewna,
-    - **d)** za korzystanie ze śluz lub pochylni: za jedno przejście przez śluzę lub pochylnię w godzinach od 7 do 19 , za jedno przejście przez śluzę lub pochylnię w godzinach od 19 do 7 ;
+    - **d)** za korzystanie ze śluz lub pochylni: – za jedno przejście przez śluzę lub pochylnię w godzinach od 7 do 19 , – za jedno przejście przez śluzę lub pochylnię w godzinach od 19 do 7 ;
 
 - **3)** określi wzór formularza do składania deklaracji, o której mowa w art. 310 ust. 1.
 
@@ -4962,7 +4836,7 @@ Art. 480–524. (pominięte)
 
 **Art. 314.**
 
-1. Do należności, z wyłączeniem należności za korzystanie ze śluz lub pochylni przez statki przeznaczone do uprawiania sportu lub rekreacji i inne małe statki (statki do 15 ton nośności lub służące do przewozu nie więcej niż 12 pasażerów), stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa, z tym że uprawnienia organów podatkowych przysługują Wodom Polskim.
+1. Do należności, z wyłączeniem należności za korzystanie ze śluz lub pochylni przez statki przeznaczone do uprawiania sportu lub rekreacji i inne małe statki (statki do 15 ton nośności lub służące do przewozu nie więcej niż 12 pasażerów), stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, z tym że uprawnienia organów podatkowych przysługują Wodom Polskim.
 
 2. Postępowanie w sprawie należności nieuiszczonej w terminie wszczyna się z urzędu, w stosunku do zakładu, który zalega z jej uiszczeniem, po upływie 6 miesięcy od dnia, w którym upłynął termin jej płatności.
 
@@ -4987,7 +4861,7 @@ Art. 480–524. (pominięte)
 - **7)** programy monitoringu wód;
 - **8)** wykazy wielkości emisji i stężeń:
     - **a)** substancji priorytetowych określonych w przepisach wydanych na podstawie art. 114,
-    - **b)** substancji innych niż wskazane w lit. a, powodujących zanieczyszczenie dla których zostały określone środowiskowe normy jakości.
+    - **b)** substancji innych niż wskazane w lit. a, powodujących zanieczyszczenie – dla których zostały określone środowiskowe normy jakości.
 
 2. Sporządzając dokumentacje planistyczne, o których mowa w ust. 1, uwzględnia się sporządzany przez ministra właściwego do spraw żeglugi śródlądowej plan lub program rozwoju śródlądowych dróg wodnych o szczególnym znaczeniu transportowym.
 
@@ -5029,15 +4903,15 @@ Art. 480–524. (pominięte)
 - **6)** podsumowanie wyników analiz ekonomicznych związanych z korzystaniem z wód;
 - **7)** zestaw działań z uwzględnieniem sposobów osiągania ustanawianych celów środowiskowych wraz z jego podsumowaniem;
 - **8)** informacje o planowanych i podjętych działaniach, które służą wdrożeniu zasady zwrotu kosztów usług wodnych, przy uwzględnieniu wkładu wniesionego przez użytkowników wód oraz kosztów środowiskowych i zasobowych, zawierające w szczególności informacje o wynikach tych działań oraz ich wpływie na stan wód;
-- **9)** podsumowanie działań podjętych dla realizacji:
+- **9)** podsumowanie działań podjętych dla realizacji: o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków – dla jednolitych części wód przeznaczonych do poboru wody na potrzeby zaopatrzenia ludności w wodę przeznaczoną do spożycia przez ludzi;
     - **a)** celów środowiskowych, o których mowa w art. 56, art. 57, art. 59 oraz w art. 61,
-    - **b)** wymagań wynikających z przepisów ustawy z dnia 7 czerwca 2001 r. o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków dla jednolitych części wód przeznaczonych do poboru wody na potrzeby zaopatrzenia ludności w wodę przeznaczoną do spożycia przez ludzi;
+    - **b)** wymagań wynikających z przepisów ustawy z dnia 7 czerwca 2001 r.
 
 - **10)** informacje dotyczące pozwoleń wodnoprawnych udzielonych na:
     - **a)** pobór wód,
     - **b)** magazynowanie wód,
     - **c)** wprowadzanie ścieków do wód,
-    - **d)** regulację wód wraz z informacją dotyczącą wyjątków od wymogu posiadania pozwolenia wodnoprawnego oraz odniesieniem się do rejestru pozwoleń wodnoprawnych zawartych w systemie informacyjnym gospodarowania wodami;
+    - **d)** regulację wód – wraz z informacją dotyczącą wyjątków od wymogu posiadania pozwolenia wodnoprawnego oraz odniesieniem się do rejestru pozwoleń wodnoprawnych zawartych w systemie informacyjnym gospodarowania wodami;
 
 - **11)** informacje o przypadkach, w których udzielono zezwolenia na wprowadzanie zanieczyszczeń bezpośrednio do wód podziemnych, rozumiane jako wprowadzanie w inny sposób niż przez przesiąkanie przez glebę i podglebie;
 - **12)** podsumowanie działań podjętych w celu eliminowania stężeń substancji priorytetowych, określonych w przepisach wydanych na podstawie art. 114, dla których środowiskowe normy jakości zostały określone w faunie i florze oraz które wykazują tendencje do akumulowania się w osadach, zawierające w szczególności informacje o wynikach prowadzonych działań oraz ich wpływie na stan wód;
@@ -5147,7 +5021,7 @@ Art. 480–524. (pominięte)
 - **1)** działania umożliwiające wdrożenie przepisów dotyczących ochrony wód, w szczególności działania służące:
     - **a)** zaspokajaniu obecnych i przyszłych potrzeb wodnych w zakresie zaopatrzenia ludności w wodę przeznaczoną do spożycia przez ludzi,
     - **b)** ochronie siedlisk lub gatunków zgodnie z przepisami ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody,
-    - **c)** kontroli zagrożeń wypadkami z udziałem substancji niebezpiecznych w rozumieniu przepisów ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska,
+    - **c)** kontroli zagrożeń wypadkami z udziałem substancji niebezpiecznych w rozumieniu przepisów ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska,
     - **d)** właściwemu wykorzystaniu osadów ściekowych,
     - **e)** zapobieganiu zanieczyszczeniu wód związkami azotu pochodzącymi ze źródeł rolniczych,
     - **f)** zapewnieniu, żeby nie wystąpił znaczny wzrost stężeń substancji priorytetowych wykazujących tendencję do akumulowania się w osadach lub faunie i florze;
@@ -5227,7 +5101,7 @@ Art. 480–524. (pominięte)
     - **a)** wskazanie podmiotów odpowiedzialnych za realizację działań,
     - **b)** uzasadnienie konieczności realizacji działań, z uwzględnieniem spodziewanych efektów ich realizacji,
     - **c)** jeżeli jest to możliwe, szacunkową analizę kosztów i korzyści wynikających z planowanych działań,
-    - **d)** w przypadku działań, o których mowa w art. 227 ust. 3 pkt 3, 6 i 7 zakres, rozmiar, przybliżoną lokalizację działań oraz terminy i sposoby ich prowadzenia.
+    - **d)** w przypadku działań, o których mowa w art. 227 ust. 3 pkt 3, 6 i 7 – zakres, rozmiar, przybliżoną lokalizację działań oraz terminy i sposoby ich prowadzenia.
 
 2. Projekty planów utrzymania wód opracowuje się z uwzględnieniem:
 
@@ -5278,7 +5152,7 @@ Art. 480–524. (pominięte)
 - **7)** lokalizacji źródeł zanieczyszczeń punktowych i obszarowych wraz z ich charakterystyką, w tym lokalizacją punktów zrzutu ścieków z podaniem współrzędnych;
 - **8)** obwodów rybackich;
 - **9)** profili wody w kąpieliskach;
-- **10)** pozwoleń wodnoprawnych, ocen wodnoprawnych oraz pozwoleń zintegrowanych wydawanych na podstawie przepisów ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska w zakresie poboru wód powierzchniowych lub wód podziemnych oraz wprowadzania ścieków do wód lub do ziemi;
+- **10)** pozwoleń wodnoprawnych, ocen wodnoprawnych oraz pozwoleń zintegrowanych wydawanych na podstawie przepisów ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska w zakresie poboru wód powierzchniowych lub wód podziemnych oraz wprowadzania ścieków do wód lub do ziemi;
 - **11)** ilości i rodzaju substancji szczególnie szkodliwych dla środowiska wodnego określonych w pozwoleniach, o których mowa w pkt 10;
 - **12)** urządzeń wodnych;
 - **13)** obszarów chronionych stref ochronnych oraz obszarów ochronnych;
@@ -5322,22 +5196,22 @@ Art. 480–524. (pominięte)
 
 1. Źródłami danych dla systemu informacyjnego gospodarowania wodami są rejestry i zbiory danych prowadzone przez ministra właściwego do spraw gospodarki wodnej oraz Wody Polskie, a także:
 
-- **1)** w zakresie stacji wodowskazowych, stacji synoptycznych, stacji klimatologicznych oraz stacji opadowych podstawowa sieć pomiarowo-obserwacyjna, o której mowa w art. 378 ust. 2;
-- **2)** w zakresie wyników oceny stanu ilościowego i chemicznego jednolitych części wód podziemnych Inspekcja Ochrony Środowiska oraz państwowy monitoring środowiska;
-- **3)** w zakresie warunków hydrogeologicznych, oceny wielkości zasobów wód podziemnych, stanu chemicznego oraz ilościowego wód podziemnych państwowa służba geologiczna oraz sieć obserwacyjno-badawcza wód podziemnych, o której mowa w art. 381 ust. 2;
-- **4)** w zakresie stanów wód i przepływów dla posterunków wodowskazowych państwowa służba hydrologiczno-meteorologiczna i pomiary i obserwacje hydrologiczne, o których mowa w art. 376 pkt 1;
-- **5)** w zakresie wyników pomiarów monitoringu wód państwowy monitoring środowiska;
-- **6)** w zakresie profilu wody w kąpielisku profil wody w kąpielisku;
-- **7)** w zakresie wyników badań i oceny wód powierzchniowych wykorzystywanych do zaopatrzenia ludności w wodę przeznaczoną do spożycia przez ludzi państwowy monitoring środowiska;
-- **8)** w zakresie ocen obszarowych jakości wody przeznaczonej do spożycia przez ludzi organy Państwowej Inspekcji Sanitarnej;
-- **9)** w zakresie wyników oceny stanu biologicznego i chemicznego jednolitych części wód powierzchniowych Inspekcja Ochrony Środowiska oraz państwowy monitoring środowiska;
-- **10)** w zakresie spółek wodnych spółki wodne oraz właściwi starostowie;
-- **11)** w zakresie związków spółek wodnych związki spółek wodnych oraz właściwi wojewodowie;
-- **12)** w zakresie pozwoleń zintegrowanych organ ochrony środowiska w rozumieniu art. 3 pkt 15 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska;
-- **13)** w zakresie stref ochronnych, o których mowa w art. 135 ust. 1 pkt 2, oraz obszarów ochronnych, o których mowa w art. 141 ust. 1 wojewodowie;
-- **14)** w zakresie ocen jakości wody w kąpielisku organy Państwowej Inspekcji Sanitarnej;
-- **15)** w zakresie urządzeń wodnych właściciele tych urządzeń;
-- **16)** w zakresie nieruchomości ewidencja gruntów i budynków.
+- **1)** w zakresie stacji wodowskazowych, stacji synoptycznych, stacji klimatologicznych oraz stacji opadowych – podstawowa sieć pomiarowoobserwacyjna, o której mowa w art. 378 ust. 2;
+- **2)** w zakresie wyników oceny stanu ilościowego i chemicznego jednolitych części wód podziemnych – Inspekcja Ochrony Środowiska oraz państwowy monitoring środowiska;
+- **3)** w zakresie warunków hydrogeologicznych, oceny wielkości zasobów wód podziemnych, stanu chemicznego oraz ilościowego wód podziemnych – państwowa służba geologiczna oraz sieć obserwacyjno-badawcza wód podziemnych, o której mowa w art. 381 ust. 2;
+- **4)** w zakresie stanów wód i przepływów dla posterunków wodowskazowych – państwowa służba hydrologiczno-meteorologiczna i pomiary i obserwacje hydrologiczne, o których mowa w art. 376 pkt 1;
+- **5)** w zakresie wyników pomiarów monitoringu wód – państwowy monitoring środowiska;
+- **6)** w zakresie profilu wody w kąpielisku – profil wody w kąpielisku;
+- **7)** w zakresie wyników badań i oceny wód powierzchniowych wykorzystywanych do zaopatrzenia ludności w wodę przeznaczoną do spożycia przez ludzi – państwowy monitoring środowiska;
+- **8)** w zakresie ocen obszarowych jakości wody przeznaczonej do spożycia przez ludzi – organy Państwowej Inspekcji Sanitarnej;
+- **9)** w zakresie wyników oceny stanu biologicznego i chemicznego jednolitych części wód powierzchniowych – Inspekcja Ochrony Środowiska oraz państwowy monitoring środowiska;
+- **10)** w zakresie spółek wodnych – spółki wodne oraz właściwi starostowie;
+- **11)** w zakresie związków spółek wodnych – związki spółek wodnych oraz właściwi wojewodowie;
+- **12)** w zakresie pozwoleń zintegrowanych – organ ochrony środowiska w rozumieniu art. 3 pkt 15 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska;
+- **13)** w zakresie stref ochronnych, o których mowa w art. 135 ust. 1 pkt 2, oraz obszarów ochronnych, o których mowa w art. 141 ust. 1 – wojewodowie;
+- **14)** w zakresie ocen jakości wody w kąpielisku – organy Państwowej Inspekcji Sanitarnej;
+- **15)** w zakresie urządzeń wodnych – właściciele tych urządzeń;
+- **16)** w zakresie nieruchomości – ewidencja gruntów i budynków.
 
 2. Organy administracji publicznej i podmioty, o których mowa w ust. 1, mają obowiązek nieodpłatnego przekazywania danych wchodzących w zakres informacji gromadzonych w systemie informacyjnym gospodarowania wodami.
 
@@ -5388,8 +5262,8 @@ Art. 480–524. (pominięte)
 
 6. Bezpłatny dostęp do danych z systemu informacyjnego gospodarowania wodami przysługuje:
 
-- **1)** organom administracji publicznej oraz instytutom badawczym w celu realizacji zadań ustawowych;
-- **2)** szkołom, uczelniom oraz organizacjom pozarządowym w celu edukacyjnym.
+- **1)** organom administracji publicznej oraz instytutom badawczym – w celu realizacji zadań ustawowych;
+- **2)** szkołom, uczelniom oraz organizacjom pozarządowym – w celu edukacyjnym.
 
 7. Minister właściwy do spraw gospodarki wodnej w porozumieniu z ministrem właściwym do spraw informatyzacji określi, w drodze rozporządzenia:
 
@@ -5407,10 +5281,10 @@ Art. 480–524. (pominięte)
 
 1. Kontrolę gospodarowania wodami wykonują:
 
-- **1)** Inspekcja Wodna w imieniu Wód Polskich w zakresie określonym w art. 334 pkt 1–7 oraz 9–13,
-- **2)** dyrektorzy urzędów morskich w zakresie określonym w art. 334 pkt 6 w odniesieniu do pasa technicznego zwani dalej „organami wykonującymi kontrolę”.
+- **1)** Inspekcja Wodna w imieniu Wód Polskich – w zakresie określonym w art. 334 pkt 1–7 oraz 9–13,
+- **2)** dyrektorzy urzędów morskich – w zakresie określonym w art. 334 pkt 6 w odniesieniu do pasa technicznego – zwani dalej „organami wykonującymi kontrolę”.
 
-2. Kontrolę gospodarowania wodami w zakresie określonym w art. 334 pkt 1–7 oraz 9–13 w stosunku do Wód Polskich wykonuje minister właściwy do spraw gospodarki wodnej.
+2. Kontrolę gospodarowania wodami w zakresie określonym w art. 334 pkt 1–7 oraz 9–13 w stosunku do Wód Polskich – wykonuje minister właściwy do spraw gospodarki wodnej.
 
 3. Pracownicy urzędu zapewniającego obsługę ministra właściwego do spraw gospodarki wodnej, Wód Polskich oraz urzędów morskich wykonują kontrolę gospodarowania wodami na podstawie upoważnień udzielonych odpowiednio przez organy wykonujące kontrolę.
 
@@ -5419,7 +5293,7 @@ Art. 480–524. (pominięte)
 5. Kontrolę gospodarowania wodami w zakresie określonym w art. 334:
 
 - **1)** pkt 2 i 3 dotyczącą pobranych wód oraz ochrony wód przed zanieczyszczeniami,
-- **2)** pkt 6 dotyczącą stosowania programu działań mających na celu zmniejszenie zanieczyszczenia wód azotanami pochodzącymi ze źródeł rolniczych oraz zapobieganie dalszemu zanieczyszczeniu przez podmioty prowadzące produkcję rolną i działalność, o których mowa w art. 102 ust. 1 wykonuje Inspekcja Ochrony Środowiska.
+- **2)** pkt 6 dotyczącą stosowania programu działań mających na celu zmniejszenie zanieczyszczenia wód azotanami pochodzącymi ze źródeł rolniczych oraz zapobieganie dalszemu zanieczyszczeniu przez podmioty prowadzące produkcję rolną i działalność, o których mowa w art. 102 ust. 1 – wykonuje Inspekcja Ochrony Środowiska.
 
 **Art. 336.**
 
@@ -5435,9 +5309,9 @@ Art. 480–524. (pominięte)
 - **8)** oceny sposobu i poprawności wykonywania pomiarów dotyczących korzystania z wód przez zakład;
 - **9)** nakładania grzywien w drodze mandatu karnego.
 
-2. Wykonujący kontrolę, o której mowa w art. 335 ust. 1, w związku z pełnieniem obowiązków służbowych, korzystają z ochrony przewidzianej dla funkcjonariuszy publicznych na zasadach określonych w przepisach ustawy z dnia 6 czerwca 1997 r. Kodeks karny (Dz. U. z 2025 r. poz. 383).
+2. Wykonujący kontrolę, o której mowa w art. 335 ust. 1, w związku z pełnieniem obowiązków służbowych, korzystają z ochrony przewidzianej dla funkcjonariuszy publicznych na zasadach określonych w przepisach ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2025 r. poz. 383).
 
-3. Na terenach zamkniętych w rozumieniu art. 2 pkt 9 ustawy z dnia 17 maja 1989 r. Prawo geodezyjne i kartograficzne wstęp na teren zamknięty następuje za zgodą i pod nadzorem zarządzającego tym terenem.
+3. Na terenach zamkniętych w rozumieniu art. 2 pkt 9 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne wstęp na teren zamknięty następuje za zgodą i pod nadzorem zarządzającego tym terenem.
 
 **Art. 337.**
 
@@ -5459,7 +5333,7 @@ Art. 480–524. (pominięte)
 4. W przypadku gdy:
 
 - **1)** podjęcie kontroli jest niezbędne dla przeciwdziałania popełnieniu przestępstwa lub wykroczenia,
-- **2)** przeprowadzenie kontroli jest uzasadnione bezpośrednim zagrożeniem życia, zdrowia lub środowiska naturalnego pracownicy urzędu zapewniającego obsługę ministra właściwego do spraw gospodarki wodnej oraz Wód Polskich są uprawnieni do jej przeprowadzania, po okazaniu legitymacji służbowej.
+- **2)** przeprowadzenie kontroli jest uzasadnione bezpośrednim zagrożeniem życia, zdrowia lub środowiska naturalnego – pracownicy urzędu zapewniającego obsługę ministra właściwego do spraw gospodarki wodnej oraz Wód Polskich są uprawnieni do jej przeprowadzania, po okazaniu legitymacji służbowej.
 
 5. W przypadkach, o których mowa w ust. 4, kontrolowanemu należy niezwłocznie, nie później niż w terminie 7 dni od dnia podjęcia kontroli, o której mowa w art. 335 ust. 1, doręczyć upoważnienie do przeprowadzenia tej kontroli.
 
@@ -5469,7 +5343,7 @@ Art. 480–524. (pominięte)
 
 8. W odniesieniu do kontroli przedsiębiorcy, przepisy ust. 6 i 7 stosuje się w przypadkach, o których mowa w ust. 4.
 
-9. W zakresie nieuregulowanym w niniejszym rozdziale, w odniesieniu do kontroli przedsiębiorcy, stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców.
+9. W zakresie nieuregulowanym w niniejszym rozdziale, w odniesieniu do kontroli przedsiębiorcy, stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
 
 **Art. 338.** Minister właściwy do spraw gospodarki wodnej określi, w drodze rozporządzenia, wzór legitymacji służbowej, o której mowa w art. 337 ust. 1, mając na uwadze zapewnienie możliwości identyfikacji organu wykonującego kontrolę i wykonujących kontrolę.
 
@@ -5621,7 +5495,7 @@ Art. 480–524. (pominięte)
 - **6)** informacje o:
     - **a)** możliwości występowania krótkotrwałych zanieczyszczeń,
     - **b)** liczbie dni, w których kąpiel była zakazana w czasie poprzedniego sezonu kąpielowego z uwagi na krótkotrwałe zanieczyszczenie,
-    - **c)** ostrzeżeniu o każdym występującym lub przewidywanym krótkotrwałym zanieczyszczeniu w przypadku wód w kąpieliskach, w których można spodziewać się wystąpienia takich zanieczyszczeń;
+    - **c)** ostrzeżeniu o każdym występującym lub przewidywanym krótkotrwałym zanieczyszczeniu – w przypadku wód w kąpieliskach, w których można spodziewać się wystąpienia takich zanieczyszczeń;
 
 - **7)** dane o rodzaju oraz spodziewanym czasie trwania sytuacji wyjątkowej, której występowania nie przewiduje się przeciętnie częściej niż raz na 4 lata.
 
@@ -5649,9 +5523,7 @@ Art. 480–524. (pominięte)
 
 5. W przypadku zmiany normy PN-EN ISO/IEC-17025 zatwierdzenie, o którym mowa w ust. 1 pkt 2, jest wykonywane zgodnie z wydaniem normy obowiązującym w momencie wykonania badań biegłości.
 
-6. Organizator badań biegłości powinien postępować zgodnie z wymaganiami zawartymi w normie PN-EN ISO/IEC
-
-17043.
+6. Organizator badań biegłości powinien postępować zgodnie z wymaganiami zawartymi w normie PN-EN ISO/IEC 17043.
 
 7. Właściwy państwowy powiatowy lub państwowy graniczny inspektor sanitarny może dokonać kontroli laboratorium przed zatwierdzeniem, o którym mowa w ust. 1 pkt 2, w zakresie zgodności systemu jakości prowadzonych badań z wymaganiami zawartymi w normie PN-EN ISO/IEC-17025.
 
@@ -5713,8 +5585,8 @@ Art. 480–524. (pominięte)
     - **a)** rodzaje monitoringu i cele ich ustanowienia,
     - **b)** kryteria wyboru jednolitych części wód do monitorowania,
     - **c)** rodzaje punktów pomiarowo-kontrolnych i kryteria ich wyznaczania,
-    - **d)** zakres i częstotliwość prowadzonych badań dla poszczególnych elementów klasyfikacji stanu ekologicznego i stanu chemicznego jednolitych części wód w ciekach naturalnych, jeziorach i innych naturalnych zbiornikach wodnych, wodach przejściowych oraz wodach przybrzeżnych, z uwzględnieniem specyfiki poszczególnych typów wód, a w przypadku stanu chemicznego także z uwzględnieniem rodzajów matrycy lub taksonu rozumianego jako jednostka systematyki organizmów, w tym fauny i flory ekosystemów wodnych,
-    - **e)** zakres prowadzonych badań dla poszczególnych elementów klasyfikacji potencjału ekologicznego i stanu chemicznego sztucznych jednolitych części wód powierzchniowych i silnie zmienionych jednolitych części wód powierzchniowych, a w przypadku stanu chemicznego także z uwzględnieniem rodzajów matrycy lub taksonu,
+    - **d)** zakres i częstotliwość prowadzonych badań dla poszczególnych elementów klasyfikacji stanu ekologicznego i stanu chemicznego jednolitych części wód w ciekach naturalnych, jeziorach i innych naturalnych zbiornikach wodnych, wodach przejściowych oraz wodach przybrzeżnych, z uwzględnieniem specyfiki poszczególnych typów wód, a w przypadku stanu chemicznego – także z uwzględnieniem rodzajów matrycy lub taksonu rozumianego jako jednostka systematyki organizmów, w tym fauny i flory ekosystemów wodnych,
+    - **e)** zakres prowadzonych badań dla poszczególnych elementów klasyfikacji potencjału ekologicznego i stanu chemicznego sztucznych jednolitych części wód powierzchniowych i silnie zmienionych jednolitych części wód powierzchniowych, a w przypadku stanu chemicznego – także z uwzględnieniem rodzajów matrycy lub taksonu,
     - **f)** metodyki referencyjne oraz warunki zapewnienia jakości pomiarów i badań,
     - **g)** liczbę, kryteria wyboru punktów pomiarowo-kontrolnych oraz zakres i częstotliwość badania substancji szczególnie szkodliwych dla środowiska wodnego zawartych na liście obserwacyjnej,
     - **h)** zakres i częstotliwość prowadzonych badań na potrzeby oceny wypełnienia dodatkowych wymagań ustanowionych dla spełnienia celów środowiskowych dla obszarów chronionych, o których mowa w art. 16 pkt 32 lit. c–e;
@@ -5746,7 +5618,7 @@ Art. 480–524. (pominięte)
 - **10)** opracowywania specyfikacji technicznych i ujednoliconych metod monitorowania stanu środowiska wód morskich w sposób zapewniający porównywalność informacji o stanie środowiska wód morskich na poziomie Unii Europejskiej;
 - **11)** zapewnienia, w zakresie, w jakim jest to możliwe, zgodności programu monitoringu wód morskich z programami opracowywanymi przez inne państwa członkowskie Unii Europejskiej położone w regionie Morza Bałtyckiego oraz państwa leżące poza granicami Unii Europejskiej, które graniczą z regionem Morza Bałtyckiego, w tym przy wykorzystaniu najbardziej odpowiednich dla regionu Morza Bałtyckiego wytycznych dotyczących monitorowania stanu środowiska wód morskich;
 - **12)** uwzględnienia oceny zmian cech i właściwości wód morskich, o których mowa w art. 150 ust. 1, a także, w razie konieczności, nowych i przyszłych zagrożeń ekosystemów morskich;
-- **13)** uwzględnienia właściwości fizycznych, chemicznych, hydromorfologicznych i biologicznych wód morskich, typów siedlisk oraz presji i oddziaływań na wody morskie zawartych w analizie, o której mowa w art. 150 ust. 1 pkt 2, w tym ich naturalnej zmienności, jak również potrzebę przeprowadzenia oceny postępów w realizacji celów środowiskowych dla wód morskich z zastosowaniem wskaźników, o których mowa w art. 153 ust. 1 pkt 1, oraz ich granicznych i docelowych punktów odniesienia o ile zostały ustalone;
+- **13)** uwzględnienia właściwości fizycznych, chemicznych, hydromorfologicznych i biologicznych wód morskich, typów siedlisk oraz presji i oddziaływań na wody morskie zawartych w analizie, o której mowa w art. 150 ust. 1 pkt 2, w tym ich naturalnej zmienności, jak również potrzebę przeprowadzenia oceny postępów w realizacji celów środowiskowych dla wód morskich z zastosowaniem wskaźników, o których mowa w art. 153 ust. 1 pkt 1, oraz ich granicznych i docelowych punktów odniesienia – o ile zostały ustalone;
 - **14)** uwzględnienia oceny stanu środowiska i programów monitoringu realizowanych na podstawie przepisów odrębnych, w tym monitoringu przyrodniczego różnorodności biologicznej i krajobrazowej, o którym mowa w art. 112 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody;
 - **15)** uwzględnienia właściwości i oddziaływań o charakterze transgranicznym na stan środowiska wód regionu Morza Bałtyckiego.
 
@@ -5764,7 +5636,7 @@ Art. 480–524. (pominięte)
 
 9. Do poprawionego programu monitoringu wód morskich stosuje się odpowiednio przepisy ust. 1, 2, 7, 8 i 11.
 
-10. Jeżeli Komisja Europejska odrzuci program monitoringu wód morskich w całości, opracowuje się nowy program monitoringu wód morskich zgodnie z ust. 1–8 i 11.
+10. Jeżeli Komisja Europejska odrzuci program monitoringu wód morskich w całości, opracowuje się nowy program monitoringu wód morskich zgodnie z ust. 1– 8 i 11.
 
 11. Minister właściwy do spraw gospodarki wodnej zatwierdza program monitoringu wód morskich i jego aktualizacje.
 
@@ -5914,9 +5786,9 @@ Art. 480–524. (pominięte)
 - **3)** Sekretarz Państwowej Rady;
 - **4)** członkowie Państwowej Rady w liczbie 30.
 
-3. Przewodniczący Państwowej Rady, Zastępcy Przewodniczącego Państwowej Rady oraz członkowie Państwowej Rady są powoływani przez ministra właściwego do spraw gospodarki wodnej spośród kandydatów zgłaszanych przez ogólnopolskie organizacje zrzeszające jednostki samorządu terytorialnego, podmioty, o których mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. ), organizacje społeczne, gospodarcze oraz ekologiczne, związane z gospodarką wodną.
+3. Przewodniczący Państwowej Rady, Zastępcy Przewodniczącego Państwowej Rady oraz członkowie Państwowej Rady są powoływani przez ministra właściwego do spraw gospodarki wodnej spośród kandydatów zgłaszanych przez ogólnopolskie organizacje zrzeszające jednostki samorządu terytorialnego, podmioty, o których mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. ), organizacje społeczne, gospodarcze oraz ekologiczne, związane z gospodarką wodną.
 
-4. Minister właściwy do spraw gospodarki wodnej może odwołać Przewodniczącego Państwowej Rady, Zastępców Przewodniczącego Państwowej Rady lub członka Państwowej Rady przed upływem jej kadencji na wniosek jednostki samorządu terytorialnego, podmiotu, o którym mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce, lub organizacji, która zgłosiła jego kandydaturę.
+4. Minister właściwy do spraw gospodarki wodnej może odwołać Przewodniczącego Państwowej Rady, Zastępców Przewodniczącego Państwowej Rady lub członka Państwowej Rady przed upływem jej kadencji na wniosek jednostki samorządu terytorialnego, podmiotu, o którym mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, lub organizacji, która zgłosiła jego kandydaturę.
 
 5. W miejsce odwołanego Przewodniczącego Państwowej Rady, Zastępców Przewodniczącego Państwowej Rady lub członka Państwowej Rady minister właściwy do spraw gospodarki wodnej powołuje nowego Przewodniczącego Państwowej Rady, Zastępców Przewodniczącego Państwowej Rady lub członka Państwowej Rady. Przepis ust. 3 stosuje się odpowiednio.
 
@@ -5952,7 +5824,7 @@ Art. 480–524. (pominięte)
 
 1. Państwowa służba do spraw bezpieczeństwa budowli piętrzących wykonuje zadania państwa w zakresie nadzoru nad stanem technicznym i stanem bezpieczeństwa budowli piętrzących.
 
-2. Kompetencje państwowej służby do spraw bezpieczeństwa budowli piętrzących nie naruszają kompetencji organów nadzoru budowlanego, określonych w przepisach ustawy z dnia 7 lipca 1994 r. Prawo budowlane.
+2. Kompetencje państwowej służby do spraw bezpieczeństwa budowli piętrzących nie naruszają kompetencji organów nadzoru budowlanego, określonych w przepisach ustawy z dnia 7 lipca 1994 r. – Prawo budowlane.
 
 3. Państwowa służba do spraw bezpieczeństwa budowli piętrzących przekazuje ministrowi właściwemu do spraw gospodarki wodnej roczne sprawozdanie z realizacji zadań określonych w przepisach ustawy w terminie do dnia 30 czerwca roku następującego po roku, którego dotyczy sprawozdanie.
 
@@ -5962,17 +5834,17 @@ Art. 480–524. (pominięte)
 
 2. Państwowa służba geologiczna przekazuje ministrowi właściwemu do spraw gospodarki wodnej oraz ministrowi właściwemu do spraw środowiska roczne sprawozdanie z realizacji zadań określonych w przepisach ustawy w terminie do dnia 30 czerwca roku następującego po roku, którego dotyczy to sprawozdanie.
 
-**Art. 370.** Państwową służbę hydrologiczno-meteorologiczną oraz państwową służbę do spraw bezpieczeństwa budowli piętrzących pełni Instytut Meteorologii i Gospodarki Wodnej Państwowy Instytut Badawczy.
+**Art. 370.** Państwową służbę hydrologiczno-meteorologiczną oraz państwową służbę do spraw bezpieczeństwa budowli piętrzących pełni Instytut Meteorologii i Gospodarki Wodnej – Państwowy Instytut Badawczy.
 
-**Art. 371.** Instytut Meteorologii i Gospodarki Wodnej Państwowy Instytut Badawczy posiada i utrzymuje bazę danych historycznych i bieżących z zakresu stanu technicznego oraz stanu bezpieczeństwa budowli piętrzących zaliczonych zgodnie z przepisami ustawy z dnia 7 lipca 1994 r. Prawo budowlane do XXVII kategorii, zgromadzoną w wyniku ujednoliconych metod określania stanu technicznego oraz stanu bezpieczeństwa tych budowli, stanowiącą jednolite źródło informacji dla organów administracji rządowej.
+**Art. 371.** Instytut Meteorologii i Gospodarki Wodnej – Państwowy Instytut Badawczy posiada i utrzymuje bazę danych historycznych i bieżących z zakresu stanu technicznego oraz stanu bezpieczeństwa budowli piętrzących zaliczonych zgodnie z przepisami ustawy z dnia 7 lipca 1994 r. – Prawo budowlane do XXVII kategorii, zgromadzoną w wyniku ujednoliconych metod określania stanu technicznego oraz stanu bezpieczeństwa tych budowli, stanowiącą jednolite źródło informacji dla organów administracji rządowej.
 
-**Art. 372.** Instytut Meteorologii i Gospodarki Wodnej Państwowy Instytut Badawczy posiada i utrzymuje bazę danych historycznych z zakresu meteorologii, hydrologii i oceanologii, zgromadzoną w wyniku ujednoliconych metod określanych przez Światową Organizację Meteorologiczną, stanowiącą wyłączne źródło informacji hydrologicznych, meteorologicznych i oceanologicznych dla potrzeb rozpoznania i kształtowania oraz ochrony zasobów wodnych kraju, a także rozpoznania warunków meteorologicznych, klimatologicznych i oceanologicznych.
+**Art. 372.** Instytut Meteorologii i Gospodarki Wodnej – Państwowy Instytut Badawczy posiada i utrzymuje bazę danych historycznych z zakresu meteorologii, hydrologii i oceanologii, zgromadzoną w wyniku ujednoliconych metod określanych przez Światową Organizację Meteorologiczną, stanowiącą wyłączne źródło informacji hydrologicznych, meteorologicznych i oceanologicznych dla potrzeb rozpoznania i kształtowania oraz ochrony zasobów wodnych kraju, a także rozpoznania warunków meteorologicznych, klimatologicznych i oceanologicznych.
 
-**Art. 373.** Państwową służbę geologiczną w zakresie realizacji zadań określonych w przepisach ustawy pełni Państwowy Instytut Geologiczny Państwowy Instytut Badawczy.
+**Art. 373.** Państwową służbę geologiczną w zakresie realizacji zadań określonych w przepisach ustawy pełni Państwowy Instytut Geologiczny – Państwowy Instytut Badawczy.
 
-**Art. 374.** Państwowy Instytut Geologiczny Państwowy Instytut Badawczy posiada i utrzymuje bazę danych historycznych z zakresu hydrogeologii.
+**Art. 374.** Państwowy Instytut Geologiczny – Państwowy Instytut Badawczy posiada i utrzymuje bazę danych historycznych z zakresu hydrogeologii.
 
-**Art. 375.** Instytut Meteorologii i Gospodarki Wodnej Państwowy Instytut Badawczy oraz Państwowy Instytut Geologiczny Państwowy Instytut Badawczy są państwowymi instytutami badawczymi w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2024 r. poz. 534).
+**Art. 375.** Instytut Meteorologii i Gospodarki Wodnej – Państwowy Instytut Badawczy oraz Państwowy Instytut Geologiczny – Państwowy Instytut Badawczy są państwowymi instytutami badawczymi w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2024 r. poz. 534).
 
 **Art. 376.** Do zadań państwowej służby hydrologiczno-meteorologicznej należy:
 
@@ -5981,11 +5853,11 @@ Art. 480–524. (pominięte)
 1. Do zadań państwowej służby do spraw bezpieczeństwa budowli piętrzących należy:
 
 - **1)** wykonywanie badań i pomiarów pozwalających na opracowanie oceny stanu technicznego i stanu bezpieczeństwa:
-    - **a)** budowli piętrzących stanowiących własność Skarbu Państwa, zaliczonych na podstawie przepisów w sprawie warunków technicznych, jakim powinny odpowiadać budowle hydrotechniczne i ich usytuowanie, wydanych na podstawie art. 7 ust. 2 pkt 2 ustawy z dnia 7 lipca 1994 r. Prawo budowlane do I lub II klasy,
+    - **a)** budowli piętrzących stanowiących własność Skarbu Państwa, zaliczonych na podstawie przepisów w sprawie warunków technicznych, jakim powinny odpowiadać budowle hydrotechniczne i ich usytuowanie, wydanych na podstawie art. 7 ust. 2 pkt 2 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane – do I lub II klasy,
     - **b)** budowli piętrzących stanowiących własność Skarbu Państwa innych niż określone w lit. a, wskazanych przez ministra właściwego do spraw gospodarki wodnej, które z uwagi na zły stan techniczny zagrażają lub mogą zagrażać bezpieczeństwu;
 
 - **2)** opracowywanie ocen stanu technicznego i stanu bezpieczeństwa budowli piętrzących, o których mowa w pkt 1;
-- **3)** prowadzenie bazy danych dotyczących budowli piętrzących zaliczonych zgodnie z przepisami ustawy z dnia 7 lipca 1994 r. Prawo budowlane do XXVII kategorii, zawierającej dane techniczne oraz informacje o lokalizacji, stanie prawnym, stanie technicznym i stanie bezpieczeństwa tych budowli;
+- **3)** prowadzenie bazy danych dotyczących budowli piętrzących zaliczonych zgodnie z przepisami ustawy z dnia 7 lipca 1994 r. – Prawo budowlane do XXVII kategorii, zawierającej dane techniczne oraz informacje o lokalizacji, stanie prawnym, stanie technicznym i stanie bezpieczeństwa tych budowli;
 - **4)** opracowywanie, w oparciu o wykonane oceny stanu technicznego i stanu bezpieczeństwa budowli piętrzących, raportu o stanie bezpieczeństwa tych budowli;
 - **5)** analiza i weryfikacja wytycznych w zakresie wykonywania badań, pomiarów i ocen stanu technicznego i stanu bezpieczeństwa budowli piętrzących w oparciu o aktualną wiedzę techniczną;
 - **6)** organizowanie szkoleń i seminariów dotyczących bezpieczeństwa budowli piętrzących.
@@ -6006,7 +5878,9 @@ Art. 480–524. (pominięte)
     - **a)** organizują, nadzorują i eksploatują podstawową sieć i specjalne sieci pomiarowo-obserwacyjne oraz system gromadzenia, przetwarzania i wymiany danych,
     - **b)** opracowują oceny oraz analizy charakterystyk hydrologicznych i meteorologicznych dla potrzeb projektowych,
     - **c)** przygotowują dane i oceny dla potrzeb bilansowania zasobów wód powierzchniowych, rozpoznawania, kształtowania oraz ochrony zasobów wodnych kraju,
-    - **d)** prowadzą prace rozwojowe i metodyczne w zakresie określonym w pkt 1–3.
+    - **d)** prowadzą prace rozwojowe i metodyczne w zakresie określonym w pkt 1–
+
+3.
 
 2. Podstawową sieć pomiarowo-obserwacyjną stanowią:
 
@@ -6069,8 +5943,8 @@ Art. 480–524. (pominięte)
 
 5. Na obszarach stref ochronnych urządzeń pomiarowych służb państwowych może być zakazane wznoszenie obiektów budowlanych oraz wykonywanie robót lub czynności, które mogą spowodować czasowe lub trwałe zaburzenie reprezentatywności pomiarów i obserwacji, a w szczególności:
 
-- **1)** w odległości 30 m od urządzeń pomiarowych wznoszenie wszelkich obiektów budowlanych, sadzenie drzew lub krzewów oraz sztuczne zraszanie upraw;
-- **2)** w odległości od 30 do 500 m od urządzeń pomiarowych wznoszenie zwartej zabudowy piętrowej oraz sadzenie drzew w zwartych zespołach.
+- **1)** w odległości 30 m od urządzeń pomiarowych – wznoszenie wszelkich obiektów budowlanych, sadzenie drzew lub krzewów oraz sztuczne zraszanie upraw;
+- **2)** w odległości od 30 do 500 m od urządzeń pomiarowych – wznoszenie zwartej zabudowy piętrowej oraz sadzenie drzew w zwartych zespołach.
 
 6. Na obszarach stref ochronnych urządzeń pomiarowych służb państwowych może być nakazane usunięcie drzew lub krzewów.
 
@@ -6088,7 +5962,7 @@ Art. 480–524. (pominięte)
 - **2)** umieszczania na gruntach, obiektach budowlanych oraz w wodach powierzchniowych urządzeń pomiarowych służb państwowych;
 - **3)** usuwania drzew lub krzewów z obszaru strefy ochronnej oraz wykonywania niwelacji terenu.
 
-2. Na terenach zamkniętych w rozumieniu art. 2 pkt 9 ustawy z dnia 17 maja 1989 r. Prawo geodezyjne i kartograficzne prace, o których mowa w ust. 1, mogą być wykonywane tylko za zgodą zarządzającego tym terenem.
+2. Na terenach zamkniętych w rozumieniu art. 2 pkt 9 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne prace, o których mowa w ust. 1, mogą być wykonywane tylko za zgodą zarządzającego tym terenem.
 
 3. W granicach parku narodowego prace, o których mowa w ust. 1, mogą być wykonywane za zgodą dyrektora parku narodowego.
 
@@ -6102,10 +5976,10 @@ Art. 480–524. (pominięte)
 
 1. Wobec pracowników inżynieryjno-technicznych zatrudnionych w ramach państwowej służby hydrologiczno-meteorologicznej wprowadza się rozkład czasu pracy:
 
-- **1)** zmianowy na stanowiskach, na których jest to konieczne ze względu na szczególne warunki pracy lub warunki atmosferyczne;
-- **2)** podstawowy na pozostałych stanowiskach.
+- **1)** zmianowy – na stanowiskach, na których jest to konieczne ze względu na szczególne warunki pracy lub warunki atmosferyczne;
+- **2)** podstawowy – na pozostałych stanowiskach.
 
-2. Stanowiska, o których mowa w ust. 1, ustala dyrektor Instytutu Meteorologii i Gospodarki Wodnej Państwowego Instytutu Badawczego.
+2. Stanowiska, o których mowa w ust. 1, ustala dyrektor Instytutu Meteorologii i Gospodarki Wodnej – Państwowego Instytutu Badawczego.
 
 3. Zmianowy rozkład czasu pracy pracowników, o których mowa w ust. 1 pkt 1, polega na wykonywaniu powierzonych im zadań nie dłużej niż przez 48 godzin, po których następuje co najmniej 48 godzin wolnych od pracy.
 
@@ -6113,7 +5987,7 @@ Art. 480–524. (pominięte)
 
 5. Czas pracy pracowników, o których mowa w ust. 1, nie może przekraczać przeciętnie 40 godzin tygodniowo w okresie rozliczeniowym nieprzekraczającym 6 miesięcy.
 
-6. W szczególnie uzasadnionych przypadkach dyrektor Instytutu Meteorologii i Gospodarki Wodnej Państwowego Instytutu Badawczego może ustalić indywidualny rozkład czasu pracy pracowników, o których mowa w ust. 1, w ramach normy czasu pracy, o której mowa w ust. 4.
+6. W szczególnie uzasadnionych przypadkach dyrektor Instytutu Meteorologii i Gospodarki Wodnej – Państwowego Instytutu Badawczego może ustalić indywidualny rozkład czasu pracy pracowników, o których mowa w ust. 1, w ramach normy czasu pracy, o której mowa w ust. 4.
 
 **Art. 385.**
 
@@ -6151,16 +6025,16 @@ Art. 480–524. (pominięte)
 - **5)** informacje przekazywane na potrzeby obronności państwa;
 - **6)** utrzymanie specjalnych sieci pomiarowo-obserwacyjnych.
 
-3a. Instytut Meteorologii i Gospodarki Wodnej Państwowy Instytut Badawczy w zakresie, w jakim wykonuje zadania państwowej służby hydrologiczno-meteorologicznej oraz państwowej służby do spraw bezpieczeństwa budowli piętrzących, może otrzymywać na zasadach określonych w przepisach ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych dotacje podmiotowe z budżetu państwa przeznaczone na dofinansowanie ich bieżącej działalności określonej w art. 376–379.
+3a. Instytut Meteorologii i Gospodarki Wodnej – Państwowy Instytut Badawczy w zakresie, w jakim wykonuje zadania państwowej służby hydrologicznometeorologicznej oraz państwowej służby do spraw bezpieczeństwa budowli piętrzących, może otrzymywać na zasadach określonych w przepisach ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych dotacje podmiotowe z budżetu państwa przeznaczone na dofinansowanie ich bieżącej działalności określonej w art. 376–379.
 
-3b. Państwowy Instytut Geologiczny Państwowy Instytut Badawczy w zakresie, w jakim wykonuje zadania państwowej służby geologicznej, może otrzymywać na zasadach określonych w przepisach ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych dotacje podmiotowe z budżetu państwa przeznaczone na dofinansowanie jej bieżącej działalności określonej w art. 380 i art. 381.
+3b. Państwowy Instytut Geologiczny – Państwowy Instytut Badawczy w zakresie, w jakim wykonuje zadania państwowej służby geologicznej, może otrzymywać na zasadach określonych w przepisach ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych dotacje podmiotowe z budżetu państwa przeznaczone na dofinansowanie jej bieżącej działalności określonej w art. 380 i art. 381.
 
 4. Służby państwowe mogą być dofinansowywane ze środków publicznych innych niż środki, o których mowa w ust. 1 i 3–3b, na zasadach dotyczących wykorzystania tych środków.
 
 5. Podmioty, które dla potrzeb działalności gospodarczej lub dla realizacji zadań, o których mowa w ust. 3, korzystają z informacji uzyskanych z:
 
 - **1)** podstawowej sieci pomiarowo-obserwacyjnej, systemu gromadzenia, przetwarzania i wymiany danych oraz biur prognoz hydrologicznych i biur prognoz meteorologicznych państwowej służby hydrologiczno-meteorologicznej,
-- **2)** sieci obserwacyjno-badawczej wód podziemnych państwowej służby geologicznej ponoszą koszty utrzymywania, odbudowy, rozbudowy i przebudowy tych sieci, systemów i biur lub koszty wykonania tych badań, pomiarów i ocen, na zasadach uzgodnionych przez strony w umowie.
+- **2)** sieci obserwacyjno-badawczej wód podziemnych państwowej służby geologicznej – ponoszą koszty utrzymywania, odbudowy, rozbudowy i przebudowy tych sieci, systemów i biur lub koszty wykonania tych badań, pomiarów i ocen, na zasadach uzgodnionych przez strony w umowie.
 
 6. Przepisu ust. 5 nie stosuje się do informacji stanowiących dane o wysokiej wartości, o których mowa w art. 26 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. z 2023 r. poz. 1524).
 
@@ -6168,9 +6042,9 @@ Art. 480–524. (pominięte)
 
 1. Skarb Państwa jest właścicielem wszystkich informacji zbieranych i przetwarzanych przez służby państwowe.
 
-2. W imieniu Skarbu Państwa informacjami, o których mowa w ust. 1, rozporządzają odpowiednio Instytut Meteorologii i Gospodarki Wodnej Państwowy Instytut Badawczy oraz Państwowy Instytut Geologiczny Państwowy Instytut Badawczy.
+2. W imieniu Skarbu Państwa informacjami, o których mowa w ust. 1, rozporządzają odpowiednio Instytut Meteorologii i Gospodarki Wodnej – Państwowy Instytut Badawczy oraz Państwowy Instytut Geologiczny – Państwowy Instytut Badawczy.
 
-3. Instytut Meteorologii i Gospodarki Wodnej Państwowy Instytut Badawczy oraz Państwowy Instytut Geologiczny Państwowy Instytut Badawczy przekazują nieodpłatnie w celu ponownego wykorzystywania informacje zbierane i przetwarzane odpowiednio przez państwową służbę hydrologiczno-meteorologiczną oraz państwową służbę geologiczną na zasadach określonych w przepisach ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego.
+3. Instytut Meteorologii i Gospodarki Wodnej – Państwowy Instytut Badawczy oraz Państwowy Instytut Geologiczny – Państwowy Instytut Badawczy przekazują nieodpłatnie w celu ponownego wykorzystywania informacje zbierane i przetwarzane odpowiednio przez państwową służbę hydrologiczno-meteorologiczną oraz państwową służbę geologiczną na zasadach określonych w przepisach ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego.
 
 **Art. 387.**
 
@@ -6190,9 +6064,9 @@ Art. 480–524. (pominięte)
 
 4. Wydając rozporządzenie, o którym mowa w ust. 3, minister właściwy do spraw gospodarki wodnej kieruje się względami bezpieczeństwa państwa, bezpieczeństwa ludzi i mienia oraz uwzględnia konieczność sprawnego przekazywania ostrzeżeń, prognoz, komunikatów i biuletynów w zależności od aktualnego lub prognozowanego stanu hydrologicznego, meteorologicznego lub hydrogeologicznego.
 
-5. Instytut Meteorologii i Gospodarki Wodnej Państwowy Instytut Badawczy jest obowiązany udostępniać nieodpłatnie informacje o stanie atmosfery i hydrosfery organom władzy publicznej oraz właścicielom wód lub działającym w ich imieniu zarządcom, a także uczelniom, instytutom badawczym, Centrum Łukasiewicz, instytutom działającym w ramach Sieci Badawczej Łukasiewicz oraz jednostkom naukowym Polskiej Akademii Nauk.
+5. Instytut Meteorologii i Gospodarki Wodnej – Państwowy Instytut Badawczy jest obowiązany udostępniać nieodpłatnie informacje o stanie atmosfery i hydrosfery organom władzy publicznej oraz właścicielom wód lub działającym w ich imieniu zarządcom, a także uczelniom, instytutom badawczym, Centrum Łukasiewicz, instytutom działającym w ramach Sieci Badawczej Łukasiewicz oraz jednostkom naukowym Polskiej Akademii Nauk.
 
-6. Państwowy Instytut Geologiczny Państwowy Instytut Badawczy jest obowiązany udostępniać nieodpłatnie zebrane informacje o stanie zasobów wód podziemnych organom władzy publicznej, a także uczelniom, instytutom badawczym, Centrum Łukasiewicz, instytutom działającym w ramach Sieci Badawczej Łukasiewicz oraz jednostkom naukowym Polskiej Akademii Nauk.
+6. Państwowy Instytut Geologiczny – Państwowy Instytut Badawczy jest obowiązany udostępniać nieodpłatnie zebrane informacje o stanie zasobów wód podziemnych organom władzy publicznej, a także uczelniom, instytutom badawczym, Centrum Łukasiewicz, instytutom działającym w ramach Sieci Badawczej Łukasiewicz oraz jednostkom naukowym Polskiej Akademii Nauk.
 
 7. Informacje, o których mowa w ust. 5 i 6, udostępnia się:
 
@@ -6217,17 +6091,17 @@ Art. 480–524. (pominięte)
 
 2. Wydanie pozwolenia wodnoprawnego, o którym mowa w art. 389 pkt 6–10 oraz art. 390 ust. 1 pkt 1, następuje przed uzyskaniem:
 
-- **1)** decyzji o pozwoleniu na budowę, decyzji o zatwierdzeniu projektu budowlanego oraz decyzji o pozwoleniu na wznowienie robót budowlanych wydawanych na podstawie przepisów ustawy z dnia 7 lipca 1994 r. Prawo budowlane;
-- **2)** decyzji o pozwoleniu na rozbiórkę obiektów jądrowych wydawanej na podstawie przepisów ustawy z dnia 7 lipca 1994 r. Prawo budowlane;
-- **3)** decyzji o zezwoleniu na realizację inwestycji drogowej wydawanej na podstawie przepisów ustawy z dnia 10 kwietnia 2003 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg publicznych (Dz. U. z 2024 r. poz. 311);
+- **1)** decyzji o pozwoleniu na budowę, decyzji o zatwierdzeniu projektu budowlanego oraz decyzji o pozwoleniu na wznowienie robót budowlanych – wydawanych na podstawie przepisów ustawy z dnia 7 lipca 1994 r. – Prawo budowlane;
+- **2)** decyzji o pozwoleniu na rozbiórkę obiektów jądrowych – wydawanej na podstawie przepisów ustawy z dnia 7 lipca 1994 r. – Prawo budowlane;
+- **3)** decyzji o zezwoleniu na realizację inwestycji drogowej – wydawanej na podstawie przepisów ustawy z dnia 10 kwietnia 2003 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg publicznych (Dz. U. z 2024 r. poz. 311);
 - **4)** decyzji o zezwoleniu na realizację inwestycji w zakresie lotniska użytku publicznego w rozumieniu przepisów ustawy z dnia 12 lutego 2009 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie lotnisk użytku publicznego (Dz. U. z 2024 r. poz. 1464);
 - **5)** (uchylony)
 - **6)** decyzji o pozwoleniu na realizację inwestycji w rozumieniu przepisów ustawy z dnia 8 lipca 2010 r. o szczególnych zasadach przygotowania do realizacji inwestycji w zakresie budowli przeciwpowodziowych (Dz. U. z 2024 r. poz. 274 oraz z 2025 r. poz. 680);
-- **7)** zezwolenia na budowę obiektu jądrowego oraz zezwolenia na budowę składowiska odpadów promieniotwórczych wydawanych na podstawie przepisów ustawy z dnia 29 listopada 2000 r. Prawo atomowe (Dz. U. z 2024 r. poz. 1277, 1897 i 1907);
-- **8)** decyzji o zezwoleniu na założenie lotniska wydawanej na podstawie przepisów ustawy z dnia 3 lipca 2002 r. Prawo lotnicze (Dz. U. z 2023 r. poz. 2110, z późn. zm. ).
+- **7)** zezwolenia na budowę obiektu jądrowego oraz zezwolenia na budowę składowiska odpadów promieniotwórczych wydawanych na podstawie przepisów ustawy z dnia 29 listopada 2000 r. – Prawo atomowe (Dz. U. z 2024 r. poz. 1277, 1897 i 1907);
+- **8)** decyzji o zezwoleniu na założenie lotniska – wydawanej na podstawie przepisów ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2023 r. poz. 2110, z późn. zm. ).
 - **9)** (uchylony)
 
-3. Wydanie pozwolenia wodnoprawnego, o którym mowa w art. 389 pkt 6–10 oraz w art. 390 ust. 1 pkt 1, lub przyjęcie zgłoszenia wodnoprawnego następuje także przed dokonaniem zgłoszenia budowy lub wykonania robót budowlanych oraz zgłoszenia zmiany sposobu użytkowania obiektu budowlanego lub jego części na podstawie przepisów ustawy z dnia 7 lipca 1994 r. Prawo budowlane.
+3. Wydanie pozwolenia wodnoprawnego, o którym mowa w art. 389 pkt 6–10 oraz w art. 390 ust. 1 pkt 1, lub przyjęcie zgłoszenia wodnoprawnego następuje także przed dokonaniem zgłoszenia budowy lub wykonania robót budowlanych oraz zgłoszenia zmiany sposobu użytkowania obiektu budowlanego lub jego części na podstawie przepisów ustawy z dnia 7 lipca 1994 r. – Prawo budowlane.
 
 4. Wydanie decyzji, o których mowa w ust. 1 pkt 4, następuje przed uzyskaniem decyzji wydawanych na podstawie przepisów ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym.
 
@@ -6253,7 +6127,7 @@ Art. 480–524. (pominięte)
 
 **Art. 391.** Obowiązek posiadania pozwolenia wodnoprawnego na szczególne korzystanie z wód na wprowadzanie do urządzeń kanalizacyjnych będących własnością innych podmiotów ścieków przemysłowych zawierających substancje szczególnie szkodliwe dla środowiska wodnego określone w przepisach wydanych na podstawie art. 100 ust. 1 dotyczy wytwórcy ścieków przemysłowych.
 
-**Art. 392.** Pozwolenia wodnoprawne na wprowadzanie ścieków do wód lub do ziemi albo do urządzeń kanalizacyjnych są wydawane z uwzględnieniem przepisów rozdziałów 1–4 w dziale IV tytułu III ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska.
+**Art. 392.** Pozwolenia wodnoprawne na wprowadzanie ścieków do wód lub do ziemi albo do urządzeń kanalizacyjnych są wydawane z uwzględnieniem przepisów rozdziałów 1–4 w dziale IV tytułu III ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska.
 
 **Art. 393.**
 
@@ -6298,8 +6172,8 @@ Art. 480–524. (pominięte)
 
 1. Przed wykonaniem robót, czynności lub urządzeń wodnych, o których mowa w art. 395 pkt 15 i 16, jest wymagane dokonanie powiadomienia:
 
-- **1)** właściwego organu Wód Polskich w przypadku robót, czynności lub urządzeń wodnych wykonywanych przez podmioty inne niż Wody Polskie;
-- **2)** ministra właściwego do spraw gospodarki wodnej w przypadku robót, czynności lub urządzeń wodnych wykonywanych przez Wody Polskie.
+- **1)** właściwego organu Wód Polskich – w przypadku robót, czynności lub urządzeń wodnych wykonywanych przez podmioty inne niż Wody Polskie;
+- **2)** ministra właściwego do spraw gospodarki wodnej – w przypadku robót, czynności lub urządzeń wodnych wykonywanych przez Wody Polskie.
 
 2. Powiadomienie zawiera:
 
@@ -6340,12 +6214,12 @@ Art. 480–524. (pominięte)
 
 2. Organem właściwym w sprawie zgód wodnoprawnych jest minister właściwy do spraw gospodarki wodnej, jeżeli wnioskodawcą są Wody Polskie.
 
-3. Organem właściwym w rozumieniu przepisów ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego w sprawie zgód wodnoprawnych jest:
+3. Organem właściwym w rozumieniu przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego w sprawie zgód wodnoprawnych jest:
 
 - **1)** dyrektor regionalnego zarządu gospodarki wodnej Wód Polskich w sprawach:
-    - **a)** pozwoleń wodnoprawnych, o których mowa w art. 388 ust. 1 pkt 1: jeżeli szczególne korzystanie z wód, korzystanie z usług wodnych, wykonywanie urządzeń wodnych lub eksploatacja instalacji lub urządzeń wodnych są związane z przedsięwzięciami lub instalacjami, o których mowa w art. 378 ust. 2a ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska, na wykonanie budowli przeciwpowodziowych, na przerzuty wody i wykonanie niezbędnych do tego urządzeń wodnych, na wprowadzanie do wód powierzchniowych substancji hamujących rozwój glonów, na działania związane z rekultywacją wód powierzchniowych lub wód podziemnych, na wydobywanie z wód powierzchniowych, w tym z morskich wód wewnętrznych wraz z wodami wewnętrznymi Zatoki Gdańskiej oraz wód morza terytorialnego, kamienia, żwiru, piasku oraz innych materiałów, a także na wycinanie roślin z wód lub brzegu, na wprowadzanie do urządzeń kanalizacyjnych ścieków przemysłowych zawierających substancje szczególnie szkodliwe dla środowiska, określone w przepisach wydanych na podstawie art. 100 ust. 1, pochodzących z eksploatacji instalacji związanej z przedsięwzięciami, o których mowa w art. 378 ust. 2a ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska, jeżeli szczególne korzystanie z wód, korzystanie z usług wodnych lub wykonywanie urządzeń wodnych, odbywa się w całości lub w części na terenach zamkniętych w rozumieniu art. 3 pkt 40 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska,
-    - **b)** ocen wodnoprawnych, o których mowa w art. 388 ust. 1 pkt 3: jeżeli korzystanie z usług wodnych, wykonywanie urządzeń wodnych lub eksploatacja instalacji lub urządzeń wodnych są związane z przedsięwzięciami lub instalacjami, o których mowa w art. 378 ust. 2a ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska, na wykonanie budowli przeciwpowodziowych, na przerzuty wody i wykonanie niezbędnych do tego urządzeń wodnych, na wprowadzanie do wód powierzchniowych substancji hamujących rozwój glonów, na działania związane z rekultywacją wód powierzchniowych lub wód podziemnych, na wydobywanie z wód powierzchniowych, w tym z morskich wód wewnętrznych wraz z wodami wewnętrznymi Zatoki Gdańskiej oraz wód morza terytorialnego, kamienia, żwiru, piasku oraz innych materiałów, a także na wycinanie roślin z wód lub brzegu, na wprowadzanie do urządzeń kanalizacyjnych ścieków przemysłowych zawierających substancje szczególnie szkodliwe dla środowiska, określone w przepisach wydanych na podstawie art. 100 ust. 1, pochodzących z eksploatacji instalacji związanej z przedsięwzięciami, o których mowa w art. 378 ust. 2a ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska, jeżeli korzystanie z usług wodnych lub wykonywanie urządzeń wodnych odbywa się w całości lub w części na terenach zamkniętych w rozumieniu art. 3 pkt 40 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska, wymaganych dla przedsięwzięcia, o którym mowa w art. 378 ust. 2a ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska, jeżeli jest organem właściwym do wydania oceny wodnoprawnej co najmniej dla jednej inwestycji lub jednego działania, o których mowa w art. 425 ust. 1, realizowanych w ramach tego przedsięwzięcia, jeżeli korzystanie z wód lub wykonywanie urządzeń wodnych odbywa się na sztucznych zbiornikach wodnych usytuowanych na śródlądowych wodach płynących, będących przedsięwzięciem mogącym zawsze znacząco oddziaływać na środowisko,
-    - **c)** pozwoleń wodnoprawnych, o których mowa w art. 389 i art. 390 ust. 1, wymaganych dla przedsięwzięcia, o którym mowa w art. 378 ust. 2a ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska, jeżeli jest organem właściwym w sprawie jednego z tych pozwoleń,
+    - **a)** pozwoleń wodnoprawnych, o których mowa w art. 388 ust. 1 pkt 1: – jeżeli szczególne korzystanie z wód, korzystanie z usług wodnych, wykonywanie urządzeń wodnych lub eksploatacja instalacji lub urządzeń wodnych są związane z przedsięwzięciami lub instalacjami, o których mowa w art. 378 ust. 2a ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, – na wykonanie budowli przeciwpowodziowych, – na przerzuty wody i wykonanie niezbędnych do tego urządzeń wodnych, – na wprowadzanie do wód powierzchniowych substancji hamujących rozwój glonów, – na działania związane z rekultywacją wód powierzchniowych lub wód podziemnych, – na wydobywanie z wód powierzchniowych, w tym z morskich wód wewnętrznych wraz z wodami wewnętrznymi Zatoki Gdańskiej oraz wód morza terytorialnego, kamienia, żwiru, piasku oraz innych materiałów, a także na wycinanie roślin z wód lub brzegu, – na wprowadzanie do urządzeń kanalizacyjnych ścieków przemysłowych zawierających substancje szczególnie szkodliwe dla środowiska, określone w przepisach wydanych na podstawie art. 100 ust. 1, pochodzących z eksploatacji instalacji związanej z przedsięwzięciami, o których mowa w art. 378 ust. 2a ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, – jeżeli szczególne korzystanie z wód, korzystanie z usług wodnych lub wykonywanie urządzeń wodnych, odbywa się w całości lub w części na terenach zamkniętych w rozumieniu art. 3 pkt 40 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska,
+    - **b)** ocen wodnoprawnych, o których mowa w art. 388 ust. 1 pkt 3: – jeżeli korzystanie z usług wodnych, wykonywanie urządzeń wodnych lub eksploatacja instalacji lub urządzeń wodnych są związane z przedsięwzięciami lub instalacjami, o których mowa w art. 378 ust. 2a ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, – na wykonanie budowli przeciwpowodziowych, – na przerzuty wody i wykonanie niezbędnych do tego urządzeń wodnych, – na wprowadzanie do wód powierzchniowych substancji hamujących rozwój glonów, – na działania związane z rekultywacją wód powierzchniowych lub wód podziemnych, – na wydobywanie z wód powierzchniowych, w tym z morskich wód wewnętrznych wraz z wodami wewnętrznymi Zatoki Gdańskiej oraz wód morza terytorialnego, kamienia, żwiru, piasku oraz innych materiałów, a także na wycinanie roślin z wód lub brzegu, – na wprowadzanie do urządzeń kanalizacyjnych ścieków przemysłowych zawierających substancje szczególnie szkodliwe dla środowiska, określone w przepisach wydanych na podstawie art. 100 ust. 1, pochodzących z eksploatacji instalacji związanej z przedsięwzięciami, o których mowa w art. 378 ust. 2a ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, – jeżeli korzystanie z usług wodnych lub wykonywanie urządzeń wodnych odbywa się w całości lub w części na terenach zamkniętych w rozumieniu art. 3 pkt 40 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, – wymaganych dla przedsięwzięcia, o którym mowa w art. 378 ust. 2a ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, jeżeli jest organem właściwym do wydania oceny wodnoprawnej co najmniej dla jednej inwestycji lub jednego działania, o których mowa w art. 425 ust. 1, realizowanych w ramach tego przedsięwzięcia, – jeżeli korzystanie z wód lub wykonywanie urządzeń wodnych odbywa się na sztucznych zbiornikach wodnych usytuowanych na śródlądowych wodach płynących, będących przedsięwzięciem mogącym zawsze znacząco oddziaływać na środowisko,
+    - **c)** pozwoleń wodnoprawnych, o których mowa w art. 389 i art. 390 ust. 1, wymaganych dla przedsięwzięcia, o którym mowa w art. 378 ust. 2a ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, jeżeli jest organem właściwym w sprawie jednego z tych pozwoleń,
     - **d)** pozwoleń wodnoprawnych, o których mowa w art. 389, jeżeli dotyczą korzystania z wód i wykonywania urządzeń wodnych w sztucznych zbiornikach wodnych usytuowanych na śródlądowych wodach płynących, będących przedsięwzięciem mogącym zawsze znacząco oddziaływać na środowisko,
     - **e)** decyzji, o których mowa w art. 77 ust. 3 i 8 oraz w art. 176 ust. 4;
 
@@ -6384,7 +6258,7 @@ Art. 480–524. (pominięte)
 
 6. Opłatę, o której mowa w ust. 3, ponosi się także za wydanie decyzji, o której mowa w art. 414 ust. 7.
 
-7. Jeżeli opłata za zgodę wodnoprawną nie pokrywa rzeczywistych kosztów postępowania, przepisy art. 264 oraz art. 265 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego stosuje się odpowiednio.
+7. Jeżeli opłata za zgodę wodnoprawną nie pokrywa rzeczywistych kosztów postępowania, przepisy art. 264 oraz art. 265 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego stosuje się odpowiednio.
 
 8. Opłaty, o których mowa w ust. 2–5, wnosi się na rachunek bankowy Wód Polskich.
 
@@ -6412,7 +6286,7 @@ Art. 480–524. (pominięte)
 
 16. Wody Polskie są zwolnione z opłaty za zgodę wodnoprawną w sprawach, w których są wnioskodawcą.
 
-17. Do opłat, o których mowa w ust. 1–6, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa, z tym że uprawnienia organów podatkowych przysługują Wodom Polskim.
+17. Do opłat, o których mowa w ust. 1–6, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, z tym że uprawnienia organów podatkowych przysługują Wodom Polskim.
 
 18. Opłaty, o których mowa w ust. 1–6, nieuiszczone w terminie podlegają przymusowemu ściągnięciu w trybie określonym w przepisach ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji.
 
@@ -6435,7 +6309,7 @@ Art. 480–524. (pominięte)
 
 3. Pozwolenie wodnoprawne na wprowadzanie do wód lub do urządzeń kanalizacyjnych, będących własnością innych podmiotów, ścieków przemysłowych zawierających substancje szczególnie szkodliwe dla środowiska wodnego, określone w przepisach wydanych na podstawie art. 99 ust. 1 pkt 1 albo art. 100 ust. 1, wydaje się na okres nie dłuższy niż 4 lata, liczony od dnia, w którym decyzja stała się ostateczna.
 
-4. Prawa i obowiązki określone w pozwoleniu wodnoprawnym na wprowadzenie ścieków do wód lub do ziemi i odprowadzanie do wód wód opadowych lub roztopowych obowiązują od dnia, w którym decyzja o pozwoleniu wodnoprawnym stała się ostateczna, chyba że w pozwoleniu wodnoprawnym została określona inna data, od której obowiązuje to pozwolenie.
+4. Prawa i obowiązki określone w pozwoleniu wodnoprawnym na wprowadzenie ścieków do wód lub do ziemi i odprowadzanie do wód – wód opadowych lub roztopowych obowiązują od dnia, w którym decyzja o pozwoleniu wodnoprawnym stała się ostateczna, chyba że w pozwoleniu wodnoprawnym została określona inna data, od której obowiązuje to pozwolenie.
 
 5. Pozwolenie wodnoprawne na wydobywanie z wód powierzchniowych, w tym z morskich wód wewnętrznych wraz z wodami wewnętrznymi Zatoki Gdańskiej oraz wód morza terytorialnego, kamienia, żwiru, piasku oraz innych materiałów, a także wycinanie roślin z wód lub brzegu wydaje się na okres nie dłuższy niż 5 lat, liczony od dnia, w którym decyzja stała się ostateczna.
 
@@ -6447,7 +6321,7 @@ Art. 480–524. (pominięte)
 
 9. Organ właściwy w sprawach pozwoleń wodnoprawnych na pobór wód oraz wprowadzanie ścieków do wód lub do ziemi, w tym na rolnicze wykorzystanie ścieków, przekazuje właściwemu organowi Inspekcji Ochrony Środowiska kopie ostatecznej decyzji.
 
-10. Do pozwoleń wodnoprawnych na wprowadzanie ścieków do wód lub do ziemi stosuje się odpowiednio przepisy art. 187 oraz art. 188 ust. 3 pkt 2 i ust. 4 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska.
+10. Do pozwoleń wodnoprawnych na wprowadzanie ścieków do wód lub do ziemi stosuje się odpowiednio przepisy art. 187 oraz art. 188 ust. 3 pkt 2 i ust. 4 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska.
 
 **Art. 401.**
 
@@ -6455,7 +6329,7 @@ Art. 480–524. (pominięte)
 
 2. (uchylony)
 
-3. Jeżeli liczba stron w postępowaniu w sprawach dotyczących pozwolenia wodnoprawnego przekracza 10, do stron innych niż wnioskodawca stosuje się art. 49 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
+3. Jeżeli liczba stron w postępowaniu w sprawach dotyczących pozwolenia wodnoprawnego przekracza 10, do stron innych niż wnioskodawca stosuje się art. 49 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
 4. W przypadku, o którym mowa w ust. 3, zawiadomienie o wszczęciu postępowania w sprawach dotyczących pozwolenia wodnoprawnego doręcza się wnioskodawcy na adres wskazany we wniosku oraz zawiadamia się pozostałe strony w drodze obwieszczeń, odpowiednio w urzędzie zapewniającym obsługę ministra właściwego do spraw gospodarki wodnej albo siedzibie właściwej jednostki organizacyjnej Wód Polskich, a także w Biuletynie Informacji Publicznej na stronach podmiotowych urzędów starostwa powiatowego i urzędów gmin, właściwych ze względu na zakres korzystania z wód lub lokalizację planowanych do wykonania urządzeń wodnych, robót lub działań.
 
@@ -6463,15 +6337,15 @@ Art. 480–524. (pominięte)
 
 6. Doręczenie zawiadomienia na adres wskazany w ewidencji gruntów i budynków uważa się za dokonane.
 
-7. W przypadku gdy w dniu wszczęcia postępowania w sprawie wydania pozwolenia wodnoprawnego, ewidencja gruntów i budynków nie zawiera danych umożliwiających ustalenie stron postępowania lub w przypadku gdy dane te stały się nieaktualne na skutek śmierci jednej ze stron tego postępowania, nie stosuje się przepisów art. 97 § 1 pkt 1 i 4 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
+7. W przypadku gdy w dniu wszczęcia postępowania w sprawie wydania pozwolenia wodnoprawnego, ewidencja gruntów i budynków nie zawiera danych umożliwiających ustalenie stron postępowania lub w przypadku gdy dane te stały się nieaktualne na skutek śmierci jednej ze stron tego postępowania, nie stosuje się przepisów art. 97 § 1 pkt 1 i 4 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
-8. Nieuregulowany stan prawny nieruchomości, o których mowa w art. 409 ust. 1 pkt 2 lit. e, lub brak danych w ewidencji gruntów i budynków pozwalających na ustalenie właściciela nieruchomości nie stanowi przeszkody do wszczęcia postępowania w sprawach dotyczących pozwolenia wodnoprawnego, wydania i doręczenia decyzji wydawanych w tych sprawach oraz zawiadomień o ich wydaniu. Do zawiadomienia stron o wszczęciu postępowania w sprawach dotyczących pozwolenia wodnoprawnego, innych czynnościach organu lub o wydaniu decyzji w sprawach dotyczących pozwolenia wodnoprawnego stosuje się przepisy art. 49 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
+8. Nieuregulowany stan prawny nieruchomości, o których mowa w art. 409 ust. 1 pkt 2 lit. e, lub brak danych w ewidencji gruntów i budynków pozwalających na ustalenie właściciela nieruchomości nie stanowi przeszkody do wszczęcia postępowania w sprawach dotyczących pozwolenia wodnoprawnego, wydania i doręczenia decyzji wydawanych w tych sprawach oraz zawiadomień o ich wydaniu. Do zawiadomienia stron o wszczęciu postępowania w sprawach dotyczących pozwolenia wodnoprawnego, innych czynnościach organu lub o wydaniu decyzji w sprawach dotyczących pozwolenia wodnoprawnego stosuje się przepisy art. 49 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
 9. Przez nieruchomość o nieuregulowanym stanie prawnym rozumie się nieruchomość o nieuregulowanym stanie prawnym w rozumieniu art. 113 ust. 6 i 7 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami.
 
 **Art. 402.**
 
-1. W postępowaniach dotyczących zgód wodnoprawnych nie stosuje się przepisów art. 31 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
+1. W postępowaniach dotyczących zgód wodnoprawnych nie stosuje się przepisów art. 31 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
 2. Do postępowania dotyczącego pozwolenia wodnoprawnego, poprzedzonego decyzją o środowiskowych uwarunkowaniach, stosuje się przepisy art. 86f ust. 6, art. 86g oraz art. 86h ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko.
 
@@ -6489,7 +6363,7 @@ Art. 480–524. (pominięte)
 
 - **1)** ilość pobieranej wody, w tym dla wód powierzchniowych maksymalną ilość m na sekundę, średnią ilość m na dobę, maksymalną ilość m na godzinę oraz dopuszczalną ilość m na rok, a dla wód podziemnych maksymalną ilość m na sekundę, średnią ilość m na dobę oraz dopuszczalną ilość m na rok;
 - **2)** ilość wód opadowych lub roztopowych, odprowadzanych do wód lub do ziemi, w tym maksymalną ilość m na sekundę i średnią ilość m na rok, oraz powierzchnię rzeczywistą i zredukowaną zlewni odwadnianej przez każdy wylot;
-- **3)** ilość ścieków wprowadzanych do wód lub do ziemi, lub do urządzeń kanalizacyjnych, w tym maksymalną ilość m na sekundę, średnią ilość m na dobę oraz dopuszczalną ilość m na rok, oraz stan i skład wprowadzanych ścieków albo minimalny procent redukcji substancji zanieczyszczających w procesie oczyszczania ścieków, a w przypadku ścieków przemysłowych dopuszczalne ilości substancji zanieczyszczających, w szczególności ilości substancji szczególnie szkodliwych dla środowiska wodnego, o których mowa w przepisach wydanych na podstawie art. 99 ust. 1 pkt 1, wyrażone w jednostkach masy przypadających na jednostkę wykorzystywanego surowca, materiału, paliwa lub powstającego produktu oraz przewidywany sposób i efekt ich oczyszczania;
+- **3)** ilość ścieków wprowadzanych do wód lub do ziemi, lub do urządzeń kanalizacyjnych, w tym maksymalną ilość m na sekundę, średnią ilość m na dobę oraz dopuszczalną ilość m na rok, oraz stan i skład wprowadzanych ścieków albo minimalny procent redukcji substancji zanieczyszczających w procesie oczyszczania ścieków, a w przypadku ścieków przemysłowych – dopuszczalne ilości substancji zanieczyszczających, w szczególności ilości substancji szczególnie szkodliwych dla środowiska wodnego, o których mowa w przepisach wydanych na podstawie art. 99 ust. 1 pkt 1, wyrażone w jednostkach masy przypadających na jednostkę wykorzystywanego surowca, materiału, paliwa lub powstającego produktu oraz przewidywany sposób i efekt ich oczyszczania;
 - **4)** terminy pobierania i odprowadzania wody oraz wprowadzania ścieków dla zakładów charakteryzujących się okresową lub zmienną sezonowo działalnością, z wyszczególnieniem parametrów korzystania z wód w zróżnicowanych okresach działalności zakładu;
 - **5)** ilość, stan i skład ścieków wykorzystywanych rolniczo, roczne wielkości dawek polewowych i terminy ich stosowania, numery i powierzchnie nawożonych działek;
 - **6)** sposób i zakres prowadzenia pomiarów ilości i jakości pobieranej wody w stanie pierwotnym;
@@ -6542,8 +6416,8 @@ Art. 480–524. (pominięte)
 
 - **1)** operat wodnoprawny, spełniający wymagania określone w art. 409, z oznaczeniem daty jego wykonania, zwany dalej „operatem”, wraz z opisem prowadzenia zamierzonej działalności niezawierającym określeń specjalistycznych;
 - **2)** decyzję o środowiskowych uwarunkowaniach, jeżeli jest wymagana;
-- **2a)** w przypadku przedsięwzięć, dla których wydano decyzję o środowiskowych uwarunkowaniach w postępowaniu wymagającym udziału społeczeństwa załącznik graficzny określający przewidywany teren, na którym będzie realizowane przedsięwzięcie, oraz przewidywany obszar, na który będzie oddziaływać przedsięwzięcie, o ile dołączenie tego załącznika było wymagane przez przepisy obowiązujące w dniu złożenia wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, w szczególności mapę, o której mowa w art. 74 ust. 1 pkt 3a ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko;
-- **3)** wypis i wyrys z miejscowego planu zagospodarowania przestrzennego, a w przypadku jego braku decyzję o ustaleniu lokalizacji inwestycji celu publicznego albo decyzję o warunkach zabudowy, jeżeli są wymagane;
+- **2a)** w przypadku przedsięwzięć, dla których wydano decyzję o środowiskowych uwarunkowaniach w postępowaniu wymagającym udziału społeczeństwa – załącznik graficzny określający przewidywany teren, na którym będzie realizowane przedsięwzięcie, oraz przewidywany obszar, na który będzie oddziaływać przedsięwzięcie, o ile dołączenie tego załącznika było wymagane przez przepisy obowiązujące w dniu złożenia wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, w szczególności mapę, o której mowa w art. 74 ust. 1 pkt 3a ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko;
+- **3)** wypis i wyrys z miejscowego planu zagospodarowania przestrzennego, a w przypadku jego braku – decyzję o ustaleniu lokalizacji inwestycji celu publicznego albo decyzję o warunkach zabudowy, jeżeli są wymagane;
 - **4)** ocenę wodnoprawną, jeżeli jest wymagana;
 - **5)** wypisy z rejestru gruntów lub uproszczone wypisy z rejestru gruntów dla nieruchomości usytuowanych w zasięgu oddziaływania zamierzonego korzystania z wód lub w zasięgu oddziaływania planowanych do wykonania urządzeń wodnych;
 - **6)** potwierdzenie skutecznego zgłoszenia, o którym mowa w art. 118 ust. 1 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody, jeżeli jest wymagane.
@@ -6636,7 +6510,7 @@ Art. 480–524. (pominięte)
 - **2)** rocznych wielkości dawek polewowych i terminów ich stosowania;
 - **3)** numerów i powierzchni nawożonych działek oraz charakterystyki gruntów przeznaczonych do rolniczego wykorzystania ścieków.
 
-6. Operat, na podstawie którego wydaje się pozwolenie wodnoprawne na odprowadzanie do wód lub do urządzeń wodnych wód opadowych lub roztopowych, ujętych w otwarte lub zamknięte systemy kanalizacji deszczowej służące do odprowadzania opadów atmosferycznych albo w systemy kanalizacji zbiorczej w granicach administracyjnych miast, oprócz odpowiednich danych, o których mowa w ust. 1 i 2, zawiera:
+6. Operat, na podstawie którego wydaje się pozwolenie wodnoprawne na odprowadzanie do wód lub do urządzeń wodnych – wód opadowych lub roztopowych, ujętych w otwarte lub zamknięte systemy kanalizacji deszczowej służące do odprowadzania opadów atmosferycznych albo w systemy kanalizacji zbiorczej w granicach administracyjnych miast, oprócz odpowiednich danych, o których mowa w ust. 1 i 2, zawiera:
 
 - **1)** maksymalną ilość wód opadowych lub roztopowych odprowadzonych do wód wyrażoną w m /s;
 - **2)** czas wyrażony w dniach, kiedy następuje odprowadzanie wód opadowych lub roztopowych do wód;
@@ -6668,7 +6542,7 @@ Art. 480–524. (pominięte)
 1. Jeżeli w związku z wykonywaniem pozwolenia wodnoprawnego nastąpiło naruszenie interesów osób trzecich, organ właściwy w sprawach pozwoleń wodnoprawnych, mając na uwadze, że korzystanie z wód nie może powodować pogorszenia stanu wód i ekosystemów od wód zależnych, marnotrawstwa wody lub energii wody, a także nie może wyrządzać szkód, może, w drodze decyzji, nałożyć na zakład posiadający pozwolenie wodnoprawne obowiązek:
 
 - **1)** wykonania ekspertyzy,
-- **2)** opracowania lub zaktualizowania instrukcji gospodarowania wodą i przedstawienia ich temu organowi, w terminie określonym w tej decyzji.
+- **2)** opracowania lub zaktualizowania instrukcji gospodarowania wodą – i przedstawienia ich temu organowi, w terminie określonym w tej decyzji.
 
 2. Jeżeli zmiana pozwolenia wodnoprawnego polegająca na ograniczeniu zakresu korzystania z wód lub w zakresie, o którym mowa w art. 403 ust. 1–6, jest uzasadniona treścią ekspertyzy lub wynika z instrukcji gospodarowania wodą, o których mowa w ust. 1, organ właściwy w sprawach pozwoleń wodnoprawnych może, bez odszkodowania, zmienić pozwolenie wodnoprawne. W przypadku zmiany pozwolenia wodnoprawnego przepis art. 409a stosuje się odpowiednio.
 
@@ -6744,18 +6618,20 @@ Art. 480–524. (pominięte)
 
 7. W razie stwierdzenia, że informacje zawarte w operacie wodnoprawnym, o którym mowa w ust. 3, są aktualne lub nie zachodzą okoliczności, o których mowa w art. 399 ust. 1, organ właściwy w sprawach pozwoleń wodnoprawnych ustala, w drodze decyzji, kolejny okres obowiązywania pozwolenia wodnoprawnego, nie dłuższy niż 20 lat, a w przypadku pozwolenia wodnoprawnego na:
 
-- **1)** wprowadzanie ścieków do wód lub do ziemi na okres nie dłuższy niż 10 lat,
-- **2)** wprowadzanie ścieków przemysłowych zawierających substancje szczególnie szkodliwe do urządzeń kanalizacyjnych będących własnością innych podmiotów na okres nie dłuższy niż 4 lata,
-- **3)** wydobywanie z wód powierzchniowych, w tym z morskich wód wewnętrznych wraz z wodami wewnętrznymi Zatoki Gdańskiej oraz wód morza terytorialnego, kamienia, żwiru, piasku oraz innych materiałów, a także wycinanie roślin z wód lub brzegu na okres nie dłuższy niż 5 lat liczony od dnia, w którym decyzja stała się ostateczna.
+- **1)** wprowadzanie ścieków do wód lub do ziemi – na okres nie dłuższy niż 10 lat,
+- **2)** wprowadzanie ścieków przemysłowych zawierających substancje szczególnie szkodliwe do urządzeń kanalizacyjnych będących własnością innych podmiotów – na okres nie dłuższy niż 4 lata,
+- **3)** wydobywanie z wód powierzchniowych, w tym z morskich wód wewnętrznych wraz z wodami wewnętrznymi Zatoki Gdańskiej oraz wód morza terytorialnego, kamienia, żwiru, piasku oraz innych materiałów, a także wycinanie roślin z wód lub brzegu – na okres nie dłuższy niż 5 lat – liczony od dnia, w którym decyzja stała się ostateczna.
 
 8. Do postępowań, o których mowa w ust. 2, przepisy art. 401 stosuje się odpowiednio.
 
-9. Terminy, o których mowa w ust. 1 pkt 3 i 4, dla pozwolenia wodnoprawnego na wykonanie urządzeń wodnych mogą zostać przedłużone, w drodze decyzji, na okres nie dłuższy niż 3 lata, jeżeli wnioskodawca przed wygaśnięciem pozwolenia wodnoprawnego wystąpi z wnioskiem do organu właściwego w sprawach pozwoleń wodnoprawnych oraz jeżeli nie będzie to sprzeczne z przepisami art. 396 i nie będzie wymagać przeprowadzenia oceny oddziaływania na środowisko lub na obszar Natura 2000.
+9. Terminy, o których mowa w ust. 1 pkt 3 i 4, dla pozwolenia wodnoprawnego na wykonanie urządzeń wodnych mogą zostać przedłużone, w drodze decyzji, na okres nie dłuższy niż 3 lata, jeżeli wnioskodawca przed wygaśnięciem pozwolenia wodnoprawnego wystąpi z wnioskiem do organu właściwego w sprawach pozwoleń wodnoprawnych oraz jeżeli nie będzie to sprzeczne z przepisami art. 396 i nie będzie wymagać przeprowadzenia oceny oddziaływania na środowisko lub na obszar Natura
+
+2000.
 
 10. Do wniosku w sprawie rozpatrywanej przez ministra właściwego do spraw gospodarki wodnej, o którym mowa:
 
-- **1)** w ust. 2 dołącza się oryginał albo kopię pozwolenia wodnoprawnego potwierdzoną za zgodność z oryginałem;
-- **2)** w ust. 9 dołącza się:
+- **1)** w ust. 2 – dołącza się oryginał albo kopię pozwolenia wodnoprawnego potwierdzoną za zgodność z oryginałem;
+- **2)** w ust. 9 – dołącza się:
     - **a)** oryginał albo kopię pozwolenia wodnoprawnego potwierdzoną za zgodność z oryginałem,
     - **b)** operat, na podstawie którego wydano dotychczasowe pozwolenie wodnoprawne, oraz oświadczenie, że zawarte w operacie informacje zachowały aktualność.
 
@@ -6779,8 +6655,8 @@ Art. 480–524. (pominięte)
 
 3. Odszkodowanie przysługuje od:
 
-- **1)** Wód Polskich jeżeli cofnięcie lub ograniczenie pozwolenia wodnoprawnego jest uzasadnione interesem społecznym;
-- **2)** zakładu, który odniósł korzyści z cofnięcia lub ograniczenia pozwolenia wodnoprawnego jeżeli cofnięcie lub ograniczenie pozwolenia wodnoprawnego jest uzasadnione ważnymi względami gospodarczymi tego zakładu.
+- **1)** Wód Polskich – jeżeli cofnięcie lub ograniczenie pozwolenia wodnoprawnego jest uzasadnione interesem społecznym;
+- **2)** zakładu, który odniósł korzyści z cofnięcia lub ograniczenia pozwolenia wodnoprawnego – jeżeli cofnięcie lub ograniczenie pozwolenia wodnoprawnego jest uzasadnione ważnymi względami gospodarczymi tego zakładu.
 
 4. W przypadku cofnięcia lub ograniczenia pozwolenia wodnoprawnego udzielonego Wodom Polskim, uzasadnionego interesem społecznym, odszkodowanie przysługuje z budżetu państwa.
 
@@ -6793,7 +6669,7 @@ Art. 480–524. (pominięte)
 3. Organ właściwy w sprawach pozwoleń wodnoprawnych po stwierdzeniu wygaśnięcia, cofnięciu lub ograniczeniu pozwolenia wodnoprawnego, w drodze decyzji:
 
 - **1)** nakłada obowiązek usunięcia negatywnych skutków w środowisku wynikających z wykonywania pozwolenia wodnoprawnego lub powstałych w wyniku działalności prowadzonej niezgodnie z warunkami określonymi w pozwoleniu wodnoprawnym,
-- **2)** nakłada obowiązki niezbędne do kształtowania zasobów wodnych a także określa zakres i termin wykonania tych obowiązków.
+- **2)** nakłada obowiązki niezbędne do kształtowania zasobów wodnych – a także określa zakres i termin wykonania tych obowiązków.
 
 **Art. 419.**
 
@@ -6801,9 +6677,9 @@ Art. 480–524. (pominięte)
 
 2. W przypadku wygaśnięcia pozwolenia wodnoprawnego lub jego cofnięcia urządzenia wodne lub ich części, których pozostawienie jest niezbędne do kształtowania zasobów wodnych, przechodzą, bez odszkodowania, na własność właściciela wód, chyba że właściciel urządzenia wodnego, w terminie 6 miesięcy od dnia, w którym:
 
-- **1)** pozwolenie wodnoprawne wygasło w przypadku upływu terminu, na który pozwolenie to zostało wydane,
+- **1)** pozwolenie wodnoprawne wygasło – w przypadku upływu terminu, na który pozwolenie to zostało wydane,
 - **2)** decyzja o stwierdzeniu wygaśnięcia pozwolenia wodnoprawnego stała się ostateczna,
-- **3)** decyzja o cofnięciu pozwolenia wodnoprawnego stała się ostateczna rozporządzi prawem własności tego urządzenia.
+- **3)** decyzja o cofnięciu pozwolenia wodnoprawnego stała się ostateczna – rozporządzi prawem własności tego urządzenia.
 
 3. Przejście urządzeń wodnych lub ich części, o których mowa w ust. 2, stwierdza wojewoda, w drodze decyzji, na wniosek właściciela wód.
 
@@ -6825,7 +6701,7 @@ Art. 480–524. (pominięte)
 
 3. Po upływie 3 lat od określonego w zgłoszeniu wodnoprawnym terminu rozpoczęcia czynności, robót lub urządzeń wodnych podlegających obowiązkowi zgłoszenia wodnoprawnego, zgłoszenie wodnoprawne staje się bezprzedmiotowe.
 
-4. W przypadku konieczności uzupełnienia zgłoszenia wodnoprawnego organ właściwy w sprawach zgłoszeń wodnoprawnych nakłada, w drodze postanowienia, na zgłaszającego obowiązek uzupełnienia, w określonym terminie, brakujących dokumentów lub informacji, a w przypadku ich nieuzupełnienia wnosi sprzeciw, w drodze decyzji.
+4. W przypadku konieczności uzupełnienia zgłoszenia wodnoprawnego organ właściwy w sprawach zgłoszeń wodnoprawnych nakłada, w drodze postanowienia, na zgłaszającego obowiązek uzupełnienia, w określonym terminie, brakujących dokumentów lub informacji, a w przypadku ich nieuzupełnienia – wnosi sprzeciw, w drodze decyzji.
 
 5. Organ właściwy w sprawach zgłoszeń wodnoprawnych wnosi sprzeciw, jeżeli wykonywanie czynności, robót lub urządzeń wodnych, a także korzystanie z wód:
 
@@ -6833,15 +6709,15 @@ Art. 480–524. (pominięte)
 - **2)** narusza ustalenia dokumentów, o których mowa w art. 396 ust. 1 pkt 1–7, nie spełnia wymagań, o których mowa w art. 396 ust. 1 pkt 8, lub narusza interesy osób trzecich, w tym właściciela wód;
 - **3)** zagraża osiągnięciu celów środowiskowych, o których mowa w art. 56, art. 57, art. 59 oraz w art. 61.
 
-6. Za dzień wniesienia sprzeciwu uznaje się dzień nadania decyzji w placówce pocztowej operatora wyznaczonego w rozumieniu art. 3 pkt 13 ustawy z dnia 23 listopada 2012 r. Prawo pocztowe, a w przypadku, o którym mowa w art. 61 § 3a ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego dzień wprowadzenia do systemu teleinformatycznego.
+6. Za dzień wniesienia sprzeciwu uznaje się dzień nadania decyzji w placówce pocztowej operatora wyznaczonego w rozumieniu art. 3 pkt 13 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe, a w przypadku, o którym mowa w art. 61 § 3a ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego – dzień wprowadzenia do systemu teleinformatycznego.
 
 7. Nałożenie obowiązku, o którym mowa w ust. 4, przerywa bieg terminu, o którym mowa w ust. 2.
 
 8. W przypadku zgłoszenia wodnoprawnego organ właściwy w sprawach zgłoszeń wodnoprawnych zamieszcza na stronie podmiotowej Biuletynu Informacji Publicznej urzędu zapewniającego jego obsługę, w terminie 7 dni od dnia:
 
-- **1)** doręczenia zgłoszenia informację o dokonaniu zgłoszenia, zawierającą imię i nazwisko albo nazwę dokonującego zgłoszenia, oraz o zakresie tego zgłoszenia;
-- **2)** wniesienia sprzeciwu informację o dacie jego wniesienia;
-- **3)** upływu terminu, o którym mowa w ust. 2 informację o braku wniesienia sprzeciwu.
+- **1)** doręczenia zgłoszenia – informację o dokonaniu zgłoszenia, zawierającą imię i nazwisko albo nazwę dokonującego zgłoszenia, oraz o zakresie tego zgłoszenia;
+- **2)** wniesienia sprzeciwu – informację o dacie jego wniesienia;
+- **3)** upływu terminu, o którym mowa w ust. 2 – informację o braku wniesienia sprzeciwu.
 
 9. W przypadku gdy organ właściwy w sprawach zgłoszeń wodnoprawnych nie wniósł sprzeciwu, na wniosek dokonującego zgłoszenia, wydaje zaświadczenie o niezgłoszeniu sprzeciwu.
 
@@ -6862,11 +6738,11 @@ Art. 480–524. (pominięte)
 5. Jeżeli jest to uzasadnione treścią ekspertyzy, o której mowa w ust. 4, organ właściwy w sprawach zgłoszeń wodnoprawnych może nałożyć obowiązek:
 
 - **1)** wykonania urządzeń zapobiegających szkodom;
-- **2)** likwidacji urządzeń i robót wykonanych na podstawie zgłoszenia wodnoprawnego lub zaniechania korzystania z wód, prowadzonego na podstawie zgłoszenia wodnoprawnego w przypadku gdy zaniechanie naruszenia interesów osób trzecich nie będzie możliwe przez wykonanie urządzeń zapobiegających szkodom.
+- **2)** likwidacji urządzeń i robót wykonanych na podstawie zgłoszenia wodnoprawnego lub zaniechania korzystania z wód, prowadzonego na podstawie zgłoszenia wodnoprawnego – w przypadku gdy zaniechanie naruszenia interesów osób trzecich nie będzie możliwe przez wykonanie urządzeń zapobiegających szkodom.
 
 6. Nałożenie obowiązków, o których mowa w ust. 5, następuje w drodze decyzji, bez odszkodowania. W decyzji ustala się termin wykonania obowiązku.
 
-**Art. 424a.** W zakresie nieuregulowanym w niniejszym rozdziale do zgłoszeń wodnoprawnych stosuje się przepisy działu II rozdziału 8a ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
+**Art. 424a.** W zakresie nieuregulowanym w niniejszym rozdziale do zgłoszeń wodnoprawnych stosuje się przepisy działu II rozdziału 8a ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
 **Art. 424b.** Do zgłoszeń wodnoprawnych na wyznaczenie miejsc okazjonalnie wykorzystywanych do kąpieli stosuje się przepisy niniejszego rozdziału, o ile nie są odmiennie uregulowane w przepisach działu II rozdziału 2.
 
@@ -6914,7 +6790,7 @@ Art. 480–524. (pominięte)
 
 2. Jeżeli jest wymagane uzyskanie oceny wodnoprawnej oraz decyzji, o której mowa w art. 77 ust. 3, sprawy rozpoznaje się łącznie i wydaje się jedną decyzję.
 
-**Art. 428.** W przypadku przedsięwzięć mogących znacząco oddziaływać na środowisko w rozumieniu przepisów ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko ocenę wodnoprawną zastępuje się decyzją o środowiskowych uwarunkowaniach oraz decyzją, przed wydaniem której jest przeprowadzana ponowna ocena oddziaływania na środowisko o ile taka ocena jest w przypadku danego przedsięwzięcia przeprowadzana. W postępowaniach o wydanie tych decyzji przepisy niniejszego rozdziału stosuje się odpowiednio.
+**Art. 428.** W przypadku przedsięwzięć mogących znacząco oddziaływać na środowisko w rozumieniu przepisów ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko ocenę wodnoprawną zastępuje się decyzją o środowiskowych uwarunkowaniach oraz decyzją, przed wydaniem której jest przeprowadzana ponowna ocena oddziaływania na środowisko – o ile taka ocena jest w przypadku danego przedsięwzięcia przeprowadzana. W postępowaniach o wydanie tych decyzji przepisy niniejszego rozdziału stosuje się odpowiednio.
 
 **Art. 429.** W postępowaniu o wydanie oceny wodnoprawnej dokonuje się analizy wpływu planowanej inwestycji lub działania na możliwość osiągnięcia celów środowiskowych, o których mowa w art. 56, art. 57, art. 59 oraz w art. 61.
 
@@ -6941,7 +6817,7 @@ Art. 480–524. (pominięte)
 1. Jeżeli jednocześnie prowadzi się dwa lub więcej postępowań o wydanie oceny wodnoprawnej dotyczącej inwestycji lub działania planowanych:
 
 - **1)** w obrębie tej samej jednolitej części wód,
-- **2)** sąsiadujących ze sobą jednolitych części wód organ właściwy w sprawach ocen wodnoprawnych dokonuje oceny skumulowanego oddziaływania inwestycji lub działania na możliwość osiągnięcia celów środowiskowych, o których mowa w art. 56, art. 57, art. 59 oraz w art. 61.
+- **2)** sąsiadujących ze sobą jednolitych części wód – organ właściwy w sprawach ocen wodnoprawnych dokonuje oceny skumulowanego oddziaływania inwestycji lub działania na możliwość osiągnięcia celów środowiskowych, o których mowa w art. 56, art. 57, art. 59 oraz w art. 61.
 
 2. Przepisy art. 429–434 stosuje się odpowiednio.
 
@@ -6952,7 +6828,7 @@ Art. 480–524. (pominięte)
 1. Na wniosek podmiotu planującego realizację inwestycji lub działania, dla których uzyskano ostateczną:
 
 - **1)** ocenę wodnoprawną, o której mowa w art. 430, art. 431 i art. 434 ust. 1, albo
-- **2)** decyzję o środowiskowych uwarunkowaniach lub decyzję, przed wydaniem której jest przeprowadzana ponowna ocena oddziaływania na środowisko, o których mowa w art. 428 organ właściwy w sprawach ocen wodnoprawnych w celu potwierdzenia zgodności inwestycji lub działania, o których mowa w art. 425, lub przedsięwzięcia, dla którego wydano decyzję, o której mowa w art. 428, z celami środowiskowymi, o których mowa w art. 56, art. 57, art. 59 oraz art. 61, sporządza deklarację zgodności.
+- **2)** decyzję o środowiskowych uwarunkowaniach lub decyzję, przed wydaniem której jest przeprowadzana ponowna ocena oddziaływania na środowisko, o których mowa w art. 428 – organ właściwy w sprawach ocen wodnoprawnych w celu potwierdzenia zgodności inwestycji lub działania, o których mowa w art. 425, lub przedsięwzięcia, dla którego wydano decyzję, o której mowa w art. 428, z celami środowiskowymi, o których mowa w art. 56, art. 57, art. 59 oraz art. 61, sporządza deklarację zgodności.
 
 2. W przypadku, o którym mowa w ust. 1 pkt 2, do wniosku dołącza się potwierdzoną za zgodność z oryginałem kopię ostatecznej decyzji o środowiskowych uwarunkowaniach wydanej dla przedsięwzięcia, którego dotyczy wniosek.
 
@@ -6960,7 +6836,7 @@ Art. 480–524. (pominięte)
 
 **Art. 440a.**
 
-1. Dla projektów, których całkowite koszty kwalifikowalne przekraczają kwoty wskazane w art. 100 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm. ), w celu potwierdzenia zgodności inwestycji lub działań z celami środowiskowymi, o których mowa w art. 56, art. 57, art. 59 oraz art. 61, minister właściwy do spraw gospodarki wodnej dla projektów realizowanych przez Wody Polskie, a dla pozostałych projektów dyrektor regionalnego zarządu gospodarki wodnej Wód Polskich, sporządza dokument potwierdzający zgodność z tymi celami środowiskowymi.
+1. Dla projektów, których całkowite koszty kwalifikowalne przekraczają kwoty wskazane w art. 100 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm. ), w celu potwierdzenia zgodności inwestycji lub działań z celami środowiskowymi, o których mowa w art. 56, art. 57, art. 59 oraz art. 61, minister właściwy do spraw gospodarki wodnej – dla projektów realizowanych przez Wody Polskie, a dla pozostałych projektów – dyrektor regionalnego zarządu gospodarki wodnej Wód Polskich, sporządza dokument potwierdzający zgodność z tymi celami środowiskowymi.
 
 2. W przypadku, o którym mowa w ust. 1, gdy projekt obejmuje obszar działania więcej niż jednego regionalnego zarządu gospodarki wodnej Wód Polskich, dokument, o którym mowa w ust. 1, sporządzany jest oddzielnie dla każdego obszaru działania, na którym planowana jest realizacja projektu.
 
@@ -7027,7 +6903,7 @@ Art. 480–524. (pominięte)
 
 3. Starosta właściwy miejscowo dla siedziby spółki wodnej zatwierdza statut tej spółki w drodze decyzji.
 
-4. W przypadku niezgodności statutu z prawem starosta wzywa do usunięcia tych niezgodności w określonym terminie, a jeżeli niezgodności nie zostaną usunięte odmawia, w drodze decyzji, zatwierdzenia statutu.
+4. W przypadku niezgodności statutu z prawem starosta wzywa do usunięcia tych niezgodności w określonym terminie, a jeżeli niezgodności nie zostaną usunięte – odmawia, w drodze decyzji, zatwierdzenia statutu.
 
 5. Spółka wodna nabywa osobowość prawną z chwilą uprawomocnienia się decyzji starosty o zatwierdzeniu statutu tej spółki.
 
@@ -7093,7 +6969,7 @@ Art. 480–524. (pominięte)
 
 5. Obowiązek spełnienia świadczenia, o którym mowa w ust. 1, mającego charakter należności pieniężnej, przedawnia się z upływem 5 lat od dnia, w którym to świadczenie stało się wymagalne.
 
-6. Do świadczenia, o którym mowa w ust. 1, mającego charakter należności pieniężnej, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa, z tym że uprawnienia organów podatkowych przysługują staroście.
+6. Do świadczenia, o którym mowa w ust. 1, mającego charakter należności pieniężnej, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, z tym że uprawnienia organów podatkowych przysługują staroście.
 
 7. Świadczenie, o którym mowa w ust. 1, będące obowiązkiem o charakterze niepieniężnym, niespełnione w terminie określonym w decyzji, o której mowa w ust. 3, podlega egzekucji w trybie określonym w przepisach ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji.
 
@@ -7180,8 +7056,8 @@ Art. 480–524. (pominięte)
 
 6. Uchwały walnego zgromadzenia podjęte w trybie określonym w ust. 2 podpisują:
 
-- **1)** 1 członek zarządu gdy w skład zarządu wchodzą nie więcej niż 2 osoby;
-- **2)** 2 członków zarządu w pozostałych przypadkach.
+- **1)** 1 członek zarządu – gdy w skład zarządu wchodzą nie więcej niż 2 osoby;
+- **2)** 2 członków zarządu – w pozostałych przypadkach.
 
 7. Do walnego zgromadzenia delegatów przepisy ust. 1–6 stosuje się odpowiednio.
 
@@ -7197,8 +7073,8 @@ Art. 480–524. (pominięte)
 
 5. Do składania oświadczeń w imieniu spółki wodnej, jeżeli statut spółki wodnej nie stanowi inaczej, są uprawnieni:
 
-- **1)** 1 członek zarządu gdy w skład zarządu wchodzą nie więcej niż 2 osoby;
-- **2)** 2 członków zarządu w pozostałych przypadkach.
+- **1)** 1 członek zarządu – gdy w skład zarządu wchodzą nie więcej niż 2 osoby;
+- **2)** 2 członków zarządu – w pozostałych przypadkach.
 
 6. Zarząd ma prawo obciążania członków spółki wodnej kosztami świadczeń lub prac niewykonanych w terminie.
 
@@ -7240,7 +7116,7 @@ Art. 480–524. (pominięte)
 
 3. Uchwały organów spółki wodnej sprzeczne z prawem lub statutem są nieważne.
 
-4. O nieważności uchwały organów spółki wodnej, podjętej w zakresie działalności, o której mowa w art. 441 ust. 1 i 3, w całości lub w części orzeka, w drodze decyzji, starosta, który w terminie nie dłuższym niż 30 dni od dnia doręczenia uchwały nadaje decyzję w placówce pocztowej operatora wyznaczonego w rozumieniu art. 3 pkt 13 ustawy z dnia 23 listopada 2012 r. Prawo pocztowe albo w przypadku, o którym mowa w art. 39 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego, wprowadza decyzję do systemu teleinformatycznego.
+4. O nieważności uchwały organów spółki wodnej, podjętej w zakresie działalności, o której mowa w art. 441 ust. 1 i 3, w całości lub w części orzeka, w drodze decyzji, starosta, który w terminie nie dłuższym niż 30 dni od dnia doręczenia uchwały nadaje decyzję w placówce pocztowej operatora wyznaczonego w rozumieniu art. 3 pkt 13 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe albo w przypadku, o którym mowa w art. 39 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, wprowadza decyzję do systemu teleinformatycznego.
 
 5. Starosta, wszczynając postępowanie w sprawie stwierdzenia nieważności uchwały organu spółki wodnej, może wstrzymać jej wykonanie.
 
@@ -7252,7 +7128,7 @@ Art. 480–524. (pominięte)
 
 9. W przypadku, o którym mowa w ust. 8, wydanie postanowienia o wstrzymaniu wykonania uchwały lub zarządzenia należy do sądu.
 
-10. Każdy, czyj interes prawny lub uprawnienie zostały naruszone uchwałą organu spółki wodnej podjętą w zakresie działalności, o której mowa w art. 441 ust. 1 i 3, może po bezskutecznym wezwaniu spółki wodnej do usunięcia naruszenia zaskarżyć uchwałę do sądu administracyjnego, chyba że w sprawie orzekał już na podstawie ust. 8 sąd administracyjny i skargę oddalił.
+10. Każdy, czyj interes prawny lub uprawnienie zostały naruszone uchwałą organu spółki wodnej podjętą w zakresie działalności, o której mowa w art. 441 ust. 1 i 3, może – po bezskutecznym wezwaniu spółki wodnej do usunięcia naruszenia – zaskarżyć uchwałę do sądu administracyjnego, chyba że w sprawie orzekał już na podstawie ust. 8 sąd administracyjny i skargę oddalił.
 
 **Art. 463.**
 
@@ -7288,7 +7164,7 @@ Art. 480–524. (pominięte)
 
 6. Likwidator odpowiada za szkody powstałe na skutek przeprowadzenia postępowania likwidacyjnego z naruszeniem zasad określonych w przepisach ustawy lub postanowieniach statutu spółki wodnej.
 
-7. W przypadku powołania więcej niż jednego likwidatora likwidatorzy odpowiadają solidarnie za szkody, o których mowa w ust. 6.
+7. W przypadku powołania więcej niż jednego likwidatora – likwidatorzy odpowiadają solidarnie za szkody, o których mowa w ust. 6.
 
 8. W okresie postępowania likwidacyjnego spółka wodna działa pod dotychczasową nazwą z dodaniem wyrazów „w likwidacji” i zachowuje osobowość prawną.
 
@@ -7310,7 +7186,7 @@ Art. 480–524. (pominięte)
 
 2. Prawo dochodzenia roszczeń, o którym mowa w ust. 1, obejmuje wyłącznie szkodę rzeczywiście poniesioną.
 
-3. Na żądanie poszkodowanego organ właściwy w sprawie pozwolenia wodnoprawnego albo zgłoszenia wodnoprawnego, którego następstwem jest szkoda, a jeżeli szkoda nie jest następstwem wykonywania pozwolenia wodnoprawnego albo dokonania zgłoszenia wodnoprawnego właściwy wojewoda, ustala wysokość odszkodowania, w formie pieniężnej, w drodze decyzji.
+3. Na żądanie poszkodowanego organ właściwy w sprawie pozwolenia wodnoprawnego albo zgłoszenia wodnoprawnego, którego następstwem jest szkoda, a jeżeli szkoda nie jest następstwem wykonywania pozwolenia wodnoprawnego albo dokonania zgłoszenia wodnoprawnego – właściwy wojewoda, ustala wysokość odszkodowania, w formie pieniężnej, w drodze decyzji.
 
 4. W terminie 30 dni od dnia doręczenia decyzji, o której mowa w ust. 3, strona może wnieść powództwo do sądu powszechnego.
 
@@ -7322,13 +7198,13 @@ Art. 480–524. (pominięte)
 
 1. Jeżeli szkoda wystąpiła na skutek wejścia w życie aktów prawa miejscowego wydanych na podstawie art. 31 ust. 2, art. 135 ust. 1 pkt 2 i ust. 2, art. 141 ust. 1 i 4, art. 327 ust. 4 i 6 lub art. 382 ust. 7, właścicielowi nieruchomości przysługuje odszkodowanie:
 
-- **1)** w przypadku zmiany aktu prawa miejscowego albo zastąpienia dotychczasowego aktu prawa miejscowego nowym aktem prawa miejscowego z tytułu uniemożliwienia lub istotnego ograniczenia:
+- **1)** w przypadku zmiany aktu prawa miejscowego albo zastąpienia dotychczasowego aktu prawa miejscowego nowym aktem prawa miejscowego – z tytułu uniemożliwienia lub istotnego ograniczenia:
     - **a)** korzystania z nieruchomości lub jej części w sposób zgodny z możliwościami zagospodarowania terenu wynikającymi z aktu prawa miejscowego przed jego zmianą lub zastąpieniem,
-    - **b)** możliwości zagospodarowania terenu zgodnie z przeznaczeniem ustalonym w miejscowym planie zagospodarowania przestrzennego jeżeli to uniemożliwienie lub istotne ograniczenie skutkuje obniżeniem wartości nieruchomości;
+    - **b)** możliwości zagospodarowania terenu zgodnie z przeznaczeniem ustalonym w miejscowym planie zagospodarowania przestrzennego – jeżeli to uniemożliwienie lub istotne ograniczenie skutkuje obniżeniem wartości nieruchomości;
 
-- **2)** w przypadkach innych niż określone w pkt 1 z tytułu uniemożliwienia lub istotnego ograniczenia:
+- **2)** w przypadkach innych niż określone w pkt 1 – z tytułu uniemożliwienia lub istotnego ograniczenia:
     - **a)** dalszego faktycznego użytkowania terenu i gruntu w sposób zgodny z mającym miejsce w dniu wejścia w życie aktu prawa miejscowego faktycznym użytkowaniem,
-    - **b)** możliwości zagospodarowania terenu zgodnie z przeznaczeniem ustalonym w miejscowym planie zagospodarowania przestrzennego jeżeli to uniemożliwienie lub istotne ograniczenie skutkuje obniżeniem wartości nieruchomości.
+    - **b)** możliwości zagospodarowania terenu zgodnie z przeznaczeniem ustalonym w miejscowym planie zagospodarowania przestrzennego – jeżeli to uniemożliwienie lub istotne ograniczenie skutkuje obniżeniem wartości nieruchomości.
 
 2. W przypadku stwierdzenia nieważności aktu prawa miejscowego albo jego uchylenia przez sąd administracyjny odszkodowanie, o którym mowa w ust. 1, podlega zwrotowi na rzecz podmiotu, który to odszkodowanie wypłacił.
 
@@ -7350,8 +7226,8 @@ Art. 480–524. (pominięte)
 9. Odszkodowanie, o którym mowa w ust. 1, wypłaca:
 
 - **1)** organ wydający akt prawa miejscowego;
-- **2)** właściciel ujęcia wody w przypadku ustanowienia strefy ochronnej;
-- **3)** odpowiednio Instytut Meteorologii i Gospodarki Wodnej Państwowy Instytut Badawczy albo Państwowy Instytut Geologiczny Państwowy Instytut Badawczy w przypadku ustanowienia strefy ochronnej urządzenia pomiarowego służb państwowych.
+- **2)** właściciel ujęcia wody – w przypadku ustanowienia strefy ochronnej;
+- **3)** odpowiednio Instytut Meteorologii i Gospodarki Wodnej – Państwowy Instytut Badawczy albo Państwowy Instytut Geologiczny – Państwowy Instytut Badawczy – w przypadku ustanowienia strefy ochronnej urządzenia pomiarowego służb państwowych.
 
 10. Roszczenie o zwrot odszkodowania, o którym mowa w ust. 2, przedawnia się z upływem 2 lat od dnia uchylenia albo stwierdzenia nieważności aktu prawa miejscowego.
 
@@ -7359,7 +7235,7 @@ Art. 480–524. (pominięte)
 
 **Art. 472.**
 
-1. W sprawie naprawienia szkód będących skutkiem okoliczności określonych w art. 222 ust. 3 i art. 223 ust. 1 stosuje się odpowiednio przepisy ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny, z tym że odszkodowanie obejmuje także koszty sporządzenia projektu, o którym mowa w art. 220 ust. 6.
+1. W sprawie naprawienia szkód będących skutkiem okoliczności określonych w art. 222 ust. 3 i art. 223 ust. 1 stosuje się odpowiednio przepisy ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny, z tym że odszkodowanie obejmuje także koszty sporządzenia projektu, o którym mowa w art. 220 ust. 6.
 
 2. Roszczenie o naprawienie szkody przedawnia się z upływem 2 lat od dnia wystąpienia szkody.
 
@@ -7384,15 +7260,15 @@ Art. 480–524. (pominięte)
 - **2)** art. 389, art. 394 ust. 1 lub art. 425 ust. 1 korzysta z wód, wykonuje urządzenia wodne, roboty w wodach lub inne działania wymagające odpowiedniej zgody wodnoprawnej, bez odpowiednio pozwolenia wodnoprawnego lub pozwolenia zintegrowanego, zgłoszenia wodnoprawnego lub oceny wodnoprawnej;
 - **3)** art. 101a ust. 1 lub 3 na obszarze, na którym jest zlokalizowany odbiornik ścieków danego zakładu, w okresach obowiązywania ostrzeżenia przed suszą hydrologiczną nie wstrzymuje lub nie ogranicza wprowadzania do wód ścieków przemysłowych lub wód pochodzących z odwodnienia zakładów górniczych, zawierających chlorki i siarczany.
 
-2. Administracyjną karę pieniężną, o której mowa w ust. 1, wymierza, w drodze decyzji, właściwy organ Wód Polskich, a w odniesieniu do Wód Polskich minister właściwy do spraw gospodarki wodnej.
+2. Administracyjną karę pieniężną, o której mowa w ust. 1, wymierza, w drodze decyzji, właściwy organ Wód Polskich, a w odniesieniu do Wód Polskich – minister właściwy do spraw gospodarki wodnej.
 
 3. Wysokość administracyjnej kary pieniężnej, o której mowa w ust. 1, wynosi od 5000 zł do 1 000 000 zł, z wyjątkiem:
 
-- **1)** dokonywania poboru wód podziemnych lub wód powierzchniowych bez wymaganego pozwolenia wodnoprawnego albo pozwolenia zintegrowanego gdzie podstawę ustalenia wysokości kary pieniężnej stanowi 500 % opłaty zmiennej za pobór wód podziemnych lub wód powierzchniowych;
-- **2)** wprowadzania ścieków do wód lub ziemi bez wymaganego pozwolenia wodnoprawnego albo pozwolenia zintegrowanego na wprowadzanie ścieków do wód lub ziemi gdzie podstawę ustalenia wysokości kary pieniężnej stanowi 500 % opłaty zmiennej za wprowadzanie ścieków do wód lub ziemi;
-- **3)** odprowadzania wód opadowych ujętych w otwarte lub zamknięte systemy kanalizacji deszczowej służące do odprowadzania opadów atmosferycznych albo systemy kanalizacji zbiorczej w granicach administracyjnych miast do wód gdzie podstawę ustalenia wysokości kary pieniężnej stanowi 500 % opłaty zmiennej za odprowadzanie wód opadowych lub roztopowych ujętych w otwarte lub zamknięte systemy kanalizacji deszczowej służące do odprowadzania opadów atmosferycznych albo systemy kanalizacji zbiorczej w granicach administracyjnych miast do wód.
+- **1)** dokonywania poboru wód podziemnych lub wód powierzchniowych bez wymaganego pozwolenia wodnoprawnego albo pozwolenia zintegrowanego – gdzie podstawę ustalenia wysokości kary pieniężnej stanowi 500 % opłaty zmiennej za pobór wód podziemnych lub wód powierzchniowych;
+- **2)** wprowadzania ścieków do wód lub ziemi bez wymaganego pozwolenia wodnoprawnego albo pozwolenia zintegrowanego na wprowadzanie ścieków do wód lub ziemi – gdzie podstawę ustalenia wysokości kary pieniężnej stanowi 500 % opłaty zmiennej za wprowadzanie ścieków do wód lub ziemi;
+- **3)** odprowadzania wód opadowych ujętych w otwarte lub zamknięte systemy kanalizacji deszczowej służące do odprowadzania opadów atmosferycznych albo systemy kanalizacji zbiorczej w granicach administracyjnych miast do wód – gdzie podstawę ustalenia wysokości kary pieniężnej stanowi 500 % opłaty zmiennej za odprowadzanie wód opadowych lub roztopowych ujętych w otwarte lub zamknięte systemy kanalizacji deszczowej służące do odprowadzania opadów atmosferycznych albo systemy kanalizacji zbiorczej w granicach administracyjnych miast do wód.
 
-4. Wpływy z tytułu administracyjnych kar pieniężnych stanowią dochód Wód Polskich, z wyjątkiem wpływów z tytułu administracyjnej kary pieniężnej, o której mowa w ust. 1, za wprowadzanie ścieków do wód lub ziemi bez wymaganego pozwolenia wodnoprawnego albo pozwolenia zintegrowanego na wprowadzanie ścieków do wód lub ziemi, które w 10 % stanowią przychód Wód Polskich, a w 90 % przychód Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej.
+4. Wpływy z tytułu administracyjnych kar pieniężnych stanowią dochód Wód Polskich, z wyjątkiem wpływów z tytułu administracyjnej kary pieniężnej, o której mowa w ust. 1, za wprowadzanie ścieków do wód lub ziemi bez wymaganego pozwolenia wodnoprawnego albo pozwolenia zintegrowanego na wprowadzanie ścieków do wód lub ziemi, które w 10 % stanowią przychód Wód Polskich, a w 90 % – przychód Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej.
 
 5. W przypadku administracyjnej kary pieniężnej, o której mowa w ust. 1, wymierzanej Wodom Polskim wpływy z tytułu tej kary w części przeznaczonej dla Wód Polskich stanowią dochód budżetu państwa.
 
@@ -7407,11 +7283,11 @@ Art. 480–524. (pominięte)
 3. Wysokość administracyjnej kary pieniężnej, o której mowa w ust. 1, wynosi do 200 zł za każdą równoważną liczbę mieszkańców odpowiadającą ładunkowi zanieczyszczeń z obszaru aglomeracji:
 
 - **1)** który nie jest zbierany przez sieć kanalizacyjną tej aglomeracji i który:
-    - **a)** przekracza 2 % ładunku zanieczyszczeń z obszaru aglomeracji w przypadku warunku, o którym mowa w art. 87a pkt 1, lub
-    - **b)** wynosi 2000 równoważnej liczby mieszkańców i więcej w przypadku warunku, o którym mowa w art. 87a pkt 2 lit. a, lub
-    - **c)** nie jest oczyszczany w systemach oczyszczania ścieków zapewniających ten sam poziom ochrony środowiska jak dla całej aglomeracji w przypadku warunku, o którym mowa w art. 87a pkt 2 lit. b;
+    - **a)** przekracza 2 % ładunku zanieczyszczeń z obszaru aglomeracji – w przypadku warunku, o którym mowa w art. 87a pkt 1, lub
+    - **b)** wynosi 2000 równoważnej liczby mieszkańców i więcej – w przypadku warunku, o którym mowa w art. 87a pkt 2 lit. a, lub
+    - **c)** nie jest oczyszczany w systemach oczyszczania ścieków zapewniających ten sam poziom ochrony środowiska jak dla całej aglomeracji – w przypadku warunku, o którym mowa w art. 87a pkt 2 lit. b;
 
-- **2)** który przekracza liczbę równoważną liczbie mieszkańców określającą wydajność oczyszczalni ścieków z aglomeracji w przypadku warunku, o którym mowa w art. 87a pkt 3.
+- **2)** który przekracza liczbę równoważną liczbie mieszkańców określającą wydajność oczyszczalni ścieków z aglomeracji – w przypadku warunku, o którym mowa w art. 87a pkt 3.
 
 4. Wysokość administracyjnej kary pieniężnej, o której mowa w ust. 1, za naruszenie standardów oczyszczania ścieków dla oczyszczalni ścieków w aglomeracji w przypadku naruszenia warunku, o którym mowa w art. 87a pkt 4, wynosi do 10 000 zł.
 
@@ -7429,23 +7305,23 @@ Art. 480–524. (pominięte)
 
 2. Administracyjną karę pieniężną uiszcza się w terminie 14 dni od dnia, w którym decyzja, o której mowa w ust. 1, stała się ostateczna.
 
-3. W zakresie nieuregulowanym w niniejszej ustawie do administracyjnych kar pieniężnych, o których mowa w art. 472a ust. 1, art. 472aa ust. 1 i art. 472b ust. 1, stosuje się przepisy działu IVa ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
+3. W zakresie nieuregulowanym w niniejszej ustawie do administracyjnych kar pieniężnych, o których mowa w art. 472a ust. 1, art. 472aa ust. 1 i art. 472b ust. 1, stosuje się przepisy działu IVa ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
 ### DZIAŁ XII Przepisy karne
 
 **Art. 473.**
 
-1. Kto wbrew przepisowi art. 31 ust. 1 uniemożliwia lub utrudnia korzystanie z wody do zwalczania poważnych awarii, klęsk żywiołowych, pożarów lub innych miejscowych zagrożeń lub do zapobieżenia poważnemu i nagłemu niebezpieczeństwu grożącemu życiu lub zdrowiu osób, lub mieniu znacznej wartości, którego w inny sposób nie można uniknąć podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
+1. Kto wbrew przepisowi art. 31 ust. 1 uniemożliwia lub utrudnia korzystanie z wody do zwalczania poważnych awarii, klęsk żywiołowych, pożarów lub innych miejscowych zagrożeń lub do zapobieżenia poważnemu i nagłemu niebezpieczeństwu grożącemu życiu lub zdrowiu osób, lub mieniu znacznej wartości, którego w inny sposób nie można uniknąć – podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
 
-2. Jeżeli następstwem czynu określonego w ust. 1 jest śmierć lub ciężki uszczerbek na zdrowiu człowieka lub znaczna szkoda w mieniu sprawca podlega grzywnie i karze pozbawienia wolności do lat 5.
+2. Jeżeli następstwem czynu określonego w ust. 1 jest śmierć lub ciężki uszczerbek na zdrowiu człowieka lub znaczna szkoda w mieniu – sprawca podlega grzywnie i karze pozbawienia wolności do lat 5.
 
 **Art. 474.**
 
-1. Kto wbrew przepisom art. 176 ust. 1, art. 192 ust. 1 pkt 3 lub art. 382 ust. 2 pkt 2 wykonuje w pobliżu urządzeń wodnych lub pomiarowych roboty lub czynności zagrażające tym urządzeniom podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
+1. Kto wbrew przepisom art. 176 ust. 1, art. 192 ust. 1 pkt 3 lub art. 382 ust. 2 pkt 2 wykonuje w pobliżu urządzeń wodnych lub pomiarowych roboty lub czynności zagrażające tym urządzeniom – podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
 
-2. Jeżeli następstwem czynu określonego w ust. 1 jest znaczna szkoda sprawca podlega grzywnie i karze pozbawienia wolności do lat 2.
+2. Jeżeli następstwem czynu określonego w ust. 1 jest znaczna szkoda – sprawca podlega grzywnie i karze pozbawienia wolności do lat 2.
 
-**Art. 475.** Kto niszczy lub uszkadza brzegi śródlądowych wód powierzchniowych, brzegi wód morskich, budowle, w tym mury, niebędące urządzeniami wodnymi, tworzące brzeg lub grunty pokryte śródlądowymi wodami powierzchniowymi podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
+**Art. 475.** Kto niszczy lub uszkadza brzegi śródlądowych wód powierzchniowych, brzegi wód morskich, budowle, w tym mury, niebędące urządzeniami wodnymi, tworzące brzeg lub grunty pokryte śródlądowymi wodami powierzchniowymi – podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
 
 **Art. 476.**
 
@@ -7453,7 +7329,7 @@ Art. 480–524. (pominięte)
 
 2. Tej samej karze podlega, kto nie wykonuje obowiązków określonych w decyzji stwierdzającej wygaśnięcie lub cofnięcie pozwolenia wodnoprawnego.
 
-3. Nie popełnia wykroczenia, o którym mowa w ust. 1 i 2, kto wykorzystuje wody na potrzeby wytwarzania energii elektrycznej na polecenie operatora systemu przesyłowego elektroenergetycznego lub operatora systemu połączonego elektroenergetycznego w celu usunięcia zagrożenia bezpieczeństwa dostaw energii elektrycznej w rozumieniu ustawy z dnia 10 kwietnia 1997 r. Prawo energetyczne (Dz. U. z 2024 r. poz. 266, z późn. zm. ), jeżeli wykorzystanie tej wody nastąpiło w rozmiarze i w czasie niezbędnym do usunięcia tego zagrożenia.
+3. Nie popełnia wykroczenia, o którym mowa w ust. 1 i 2, kto wykorzystuje wody na potrzeby wytwarzania energii elektrycznej na polecenie operatora systemu przesyłowego elektroenergetycznego lub operatora systemu połączonego elektroenergetycznego w celu usunięcia zagrożenia bezpieczeństwa dostaw energii elektrycznej w rozumieniu ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2024 r. poz. 266, z późn. zm. ), jeżeli wykorzystanie tej wody nastąpiło w rozmiarze i w czasie niezbędnym do usunięcia tego zagrożenia.
 
 **Art. 477.** Kto wbrew:
 
@@ -7611,7 +7487,7 @@ Art. 480–524. (pominięte)
 - **1)** Prezes Krajowego Zarządu Gospodarki Wodnej,
 - **2)** dyrektorzy regionalnych zarządów gospodarki wodnej,
 - **3)** marszałkowie województw,
-- **4)** kierownicy wojewódzkich samorządowych jednostek organizacyjnych dotyczących spraw wynikających z przepisów ustawy uchylanej w art. 573.
+- **4)** kierownicy wojewódzkich samorządowych jednostek organizacyjnych – dotyczących spraw wynikających z przepisów ustawy uchylanej w art. 573.
 
 6. Z dniem wejścia w życie niniejszej ustawy minister właściwy do spraw żeglugi śródlądowej wstępuje w prawa i obowiązki wynikające z umów i porozumień zawartych przez dyrektorów regionalnych zarządów gospodarki wodnej w zakresie prowadzenia inwestycji w gospodarce wodnej dotyczących zadań finansowanych lub dofinansowanych ze środków publicznych, na zasadach określonych w przepisach ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju oraz w przepisach ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020, dotyczących śródlądowych dróg wodnych, o ile inwestycje te służą wyłącznie realizacji zadań o charakterze transportowym.
 
@@ -7649,7 +7525,7 @@ Art. 480–524. (pominięte)
 
 **Art. 539.**
 
-1. Z dniem wejścia w życie ustawy pracownicy regionalnych zarządów gospodarki wodnej stają się z mocy prawa pracownikami Wód Polskich na zasadach określonych w art. 23 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2016 r. poz. 1666, 2138 i 2255 oraz z 2017 r. poz. 60 i 962).
+1. Z dniem wejścia w życie ustawy pracownicy regionalnych zarządów gospodarki wodnej stają się z mocy prawa pracownikami Wód Polskich na zasadach określonych w art. 23 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2016 r. poz. 1666, 2138 i 2255 oraz z 2017 r. poz. 60 i 962).
 
 2. Przepisu ust. 1 nie stosuje się do urzędników służby cywilnej, do których stosuje się przepisy rozdziału 5 ustawy z dnia 21 listopada 2008 r. o służbie cywilnej (Dz. U. z 2016 r. poz. 1345, 1605, 1807, 1948 i 2260 oraz z 2017 r. poz. 379).
 
@@ -7659,7 +7535,7 @@ Art. 480–524. (pominięte)
 
 5. W terminie 14 dni od dnia uzgodnienia wykazu, o którym mowa w ust. 4, Prezes Krajowego Zarządu Gospodarki Wodnej zawiadamia pracowników regionalnych zarządów gospodarki wodnej objętych tym wykazem oraz dyrektorów regionalnych zarządów gospodarki wodnej o treści opracowanego i uzgodnionego wykazu, o którym mowa w ust. 4, w formie pisemnej.
 
-6. Z dniem wejścia w życie ustawy pracownicy regionalnych zarządów gospodarki wodnej objęci opracowanym i uzgodnionym wykazem, o którym mowa w ust. 4, stają się z mocy prawa pracownikami właściwych urzędów żeglugi śródlądowej, na zasadach określonych w art. 23 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy.
+6. Z dniem wejścia w życie ustawy pracownicy regionalnych zarządów gospodarki wodnej objęci opracowanym i uzgodnionym wykazem, o którym mowa w ust. 4, stają się z mocy prawa pracownikami właściwych urzędów żeglugi śródlądowej, na zasadach określonych w art. 23 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
 
 7. Przepisów ust. 3–6 nie stosuje się do urzędników służby cywilnej, do których stosuje się przepisy rozdziału 5 ustawy, o której mowa w ust. 2.
 
@@ -7677,7 +7553,7 @@ Art. 480–524. (pominięte)
 
 6. Przepisów ust. 1–5 nie stosuje się do urzędników służby cywilnej, do których stosuje się przepisy rozdziału 5 ustawy z dnia 21 listopada 2008 r. o służbie cywilnej.
 
-7. Przepisy art. 23 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy stosuje się odpowiednio.
+7. Przepisy art. 23 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy stosuje się odpowiednio.
 
 **Art. 541.**
 
@@ -7689,7 +7565,7 @@ Art. 480–524. (pominięte)
 
 4. Przepisów ust. 1–3 nie stosuje się do urzędników służby cywilnej, do których stosuje się przepisy rozdziału 5 ustawy z dnia 21 listopada 2008 r. o służbie cywilnej.
 
-5. Przepisy art. 23 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy stosuje się odpowiednio.
+5. Przepisy art. 23 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy stosuje się odpowiednio.
 
 **Art. 542.**
 
@@ -7704,7 +7580,7 @@ Art. 480–524. (pominięte)
 - **1)** Wód Polskich albo
 - **2)** właściwych urzędów wojewódzkich, jeżeli wykonują zadania związane z utrzymywaniem wojewódzkich magazynów przeciwpowodziowych.
 
-5. Przepisy art. 23 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy stosuje się odpowiednio.
+5. Przepisy art. 23 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy stosuje się odpowiednio.
 
 6. Do dnia wejścia w życie niniejszej ustawy starostowie opracują i przekażą ministrowi właściwemu do spraw gospodarki wodnej wykazy pracowników starostw powiatowych realizujących zadania starostów określone w przepisach ustawy uchylanej w art. 573, uwzględniając dotychczasowe przygotowanie zawodowe tych pracowników oraz zakres wykonywanych dotychczas czynności.
 
@@ -7712,20 +7588,22 @@ Art. 480–524. (pominięte)
 
 8. Do dnia wejścia w życie ustawy starostowie zawiadamiają pracowników starostw powiatowych o treści wykazów, o których mowa w ust. 6, w formie pisemnej.
 
-9. Z upływem miesiąca od dnia zawiadomienia pracowników starostw powiatowych, o których mowa w ust. 6, o treści wykazów, o których mowa w ust. 6, pracownicy starostw powiatowych wymienieni w tych wykazach stają się z mocy prawa pracownikami Wód Polskich. Przepisy art. 23 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy stosuje się odpowiednio.
+9. Z upływem miesiąca od dnia zawiadomienia pracowników starostw powiatowych, o których mowa w ust. 6, o treści wykazów, o których mowa w ust. 6, pracownicy starostw powiatowych wymienieni w tych wykazach stają się z mocy prawa pracownikami Wód Polskich. Przepisy art. 23 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy stosuje się odpowiednio.
 
 10. Nie później niż z upływem miesiąca od dnia, o którym mowa w ust. 4 i 9, pracownikom, o których mowa w ust. 4 i 9, mogą zostać zaproponowane nowe warunki pracy lub płacy przez Prezesa Wód Polskich albo pełnomocnika, o którym mowa w art. 525 ust. 3, albo wojewodę, z uwzględnieniem zakresu dotychczasowych obowiązków tych pracowników oraz zakresu obowiązków, które będą realizowane na nowych stanowiskach pracy.
 
 11. Propozycja nowych warunków pracy lub płacy może obejmować nawiązanie stosunku pracy na stanowisku pracy w Wodach Polskich albo na stanowisku pracy w urzędzie wojewódzkim.
 
-12. Pracodawca jest obowiązany zawiadomić na piśmie pracowników o zmianach, jakie mają nastąpić w zakresie ich stosunków pracy, w tym o skutkach nieprzyjęcia nowych warunków pracy lub płacy. Przepisy art. 23 § 4 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy stosuje się odpowiednio.
+12. Pracodawca jest obowiązany zawiadomić na piśmie pracowników o zmianach, jakie mają nastąpić w zakresie ich stosunków pracy, w tym o skutkach nieprzyjęcia nowych warunków pracy lub płacy. Przepisy art. 23 § 4 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy stosuje się odpowiednio.
 
 13. Pracodawca w okresie miesiąca od dnia, o którym mowa w ust. 4 i 9, może wypowiedzieć z zachowaniem miesięcznego okresu wypowiedzenia stosunek pracy pracownika, o którym mowa w ust. 4 i 9, jeżeli nie jest możliwe powierzenie pracownikowi pracy odpowiadającej kwalifikacjom pracownika.
 
 14. Przepisu ust. 13 nie stosuje się do:
 
 - **1)** pracowników objętych szczególną ochroną stosunku pracy przewidzianą na podstawie odrębnych przepisów;
-- **2)** pracowników sprawujących opiekę nad dzieckiem, do ukończenia przez dziecko 4. roku życia.
+- **2)** pracowników sprawujących opiekę nad dzieckiem, do ukończenia przez dziecko
+
+4. roku życia.
 
 15. W razie wypowiedzenia, o którym mowa w ust. 13, pracownikom przysługują odpowiednie świadczenia przewidziane dla pracowników, z którymi stosunek pracy rozwiązuje się z przyczyn niedotyczących pracowników.
 
@@ -7753,12 +7631,14 @@ Art. 480–524. (pominięte)
 
 2. Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy dotyczących ustalenia linii brzegu stosuje się przepisy dotychczasowe.
 
-3. Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy dotyczących pozwoleń na budowę, zgłoszeń, o których mowa w art. 30 ustawy z dnia 7 lipca 1994 r. Prawo budowlane (Dz. U. z 2017 r. poz. 1332 i 1529), a także decyzji wydawanych na podstawie:
+3. Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy dotyczących pozwoleń na budowę, zgłoszeń, o których mowa w art. 30 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2017 r. poz. 1332 i 1529), a także decyzji wydawanych na podstawie:
 
-- **1)** ustawy z dnia 10 kwietnia 2003 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg publicznych (Dz. U. z 2017 r. poz. 1496 i 1566),
+- **1)** ustawy z dnia 10 kwietnia 2003 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg publicznych (Dz. U. z 2017 r. poz. 1496 i
+- **1566)** ,
 - **2)** ustawy z dnia 11 sierpnia 2001 r. o szczególnych zasadach odbudowy, remontów i rozbiórek obiektów budowlanych zniszczonych lub uszkodzonych w wyniku działania żywiołu (Dz. U. z 2016 r. poz. 1067 oraz z 2017 r. poz. 1566),
 - **3)** ustawy z dnia 12 lutego 2009 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie lotnisk użytku publicznego (Dz. U. z 2017 r. poz. 1122 i 1566),
-- **4)** ustawy z dnia 16 września 2011 r. o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi (Dz. U. z 2016 r. poz. 825 oraz z 2017 r. poz. 1566),
+- **4)** ustawy z dnia 16 września 2011 r. o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi (Dz. U. z 2016 r. poz. 825 oraz z 2017 r. poz.
+- **1566)** ,
 - **5)** ustawy z dnia 19 grudnia 2008 r. o postępowaniu kompensacyjnym w podmiotach o szczególnym znaczeniu dla polskiego przemysłu stoczniowego (Dz. U. z 2016 r. poz. 592),
 - **6)** ustawy z dnia 24 czerwca 2010 r. o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi z 2010 r. (Dz. U. poz. 835 i 993),
 - **7)** ustawy z dnia 24 kwietnia 2009 r. o inwestycjach w zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu (Dz. U. z 2016 r. poz. 1731 i 2260 oraz z 2017 r. poz. 1566),
@@ -7767,12 +7647,12 @@ Art. 480–524. (pominięte)
 - **10)** ustawy z dnia 24 lipca 2015 r. o przygotowaniu i realizacji strategicznych inwestycji w zakresie sieci przesyłowych (Dz. U. z 2016 r. poz. 1812 oraz z 2017 r. poz. 635 i 1566),
 - **11)** ustawy z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych (Dz. U. z 2016 r. poz. 1537, 1920 i 2003 oraz z 2017 r. poz. 1529 i 1566),
 - **12)** ustawy z dnia 7 września 2007 r. o przygotowaniu finałowego turnieju Mistrzostw Europy w Piłce Nożnej UEFA EURO 2012 (Dz. U. z 2017 r. poz. 1372),
-- **13)** ustawy z dnia 8 lipca 2010 r. o szczególnych zasadach przygotowania do realizacji inwestycji w zakresie budowli przeciwpowodziowych (Dz. U. z 2017 r. poz. 1377, 1381 i 1566) stosuje się przepisy dotychczasowe.
+- **13)** ustawy z dnia 8 lipca 2010 r. o szczególnych zasadach przygotowania do realizacji inwestycji w zakresie budowli przeciwpowodziowych (Dz. U. z 2017 r. poz. 1377, 1381 i 1566) – stosuje się przepisy dotychczasowe.
 
 3a. Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy dotyczących:
 
 - **1)** administracyjnych kar pieniężnych, o których mowa w art. 298 ust. 1 pkt 2 i 3 ustawy zmienianej w art. 493 , w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy,
-- **2)** odroczenia terminu płatności administracyjnych kar pieniężnych, o których mowa w art. 298 ust. 1 pkt 2 i 3 ustawy zmienianej w art. 493 , w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
+- **2)** odroczenia terminu płatności administracyjnych kar pieniężnych, o których mowa w art. 298 ust. 1 pkt 2 i 3 ustawy zmienianej w art. 493 , w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy – stosuje się przepisy dotychczasowe.
 
 3b. Do wymierzonych administracyjnych kar pieniężnych, o których mowa w art. 298 ust. 1 pkt 2 i 3 ustawy zmienianej w art. 493 , w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy, w tym do odraczania terminu ich płatności oraz z wpływów z tych kar, stosuje się przepisy dotychczasowe.
 
@@ -7780,7 +7660,7 @@ Art. 480–524. (pominięte)
 
 3d. W terminie nie dłuższym niż 36 miesięcy od dnia wejścia w życie niniejszej ustawy wojewódzki inspektor ochrony środowiska wymierza, na podstawie przepisów dotychczasowych, administracyjne kary pieniężne, o których mowa w art. 298 ust. 1 pkt 2 i 3 ustawy zmienianej w art. 493 , w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy, za przekroczenie określonych w pozwoleniach wodnoprawnych oraz pozwoleniach zintegrowanych warunków, dotyczących ilości pobranej wody oraz ilości ścieków, ich stanu, składu, minimalnej procentowej redukcji stężeń substancji w ściekach oraz masy substancji w odprowadzanych ściekach przypadającej na jednostkę masy wykorzystanego surowca, materiału, paliwa lub wytworzonego produktu, które wystąpiło do dnia 31 grudnia 2017 r.
 
-4. Do spraw wszczętych i niezakończonych przed dniem wejścia w życie ustawy, niewymienionych w ust. 1–3d, stosuje się przepisy dotychczasowe, z tym że organem wyższego stopnia w rozumieniu przepisów ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego jest Prezes Wód Polskich, jeżeli przed dniem wejścia w życie ustawy organem wyższego stopnia w rozumieniu przepisów ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego był w tych sprawach Prezes Krajowego Zarządu Gospodarki Wodnej albo dyrektor regionalnego zarządu gospodarki wodnej.
+4. Do spraw wszczętych i niezakończonych przed dniem wejścia w życie ustawy, niewymienionych w ust. 1–3d, stosuje się przepisy dotychczasowe, z tym że organem wyższego stopnia w rozumieniu przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego jest Prezes Wód Polskich, jeżeli przed dniem wejścia w życie ustawy organem wyższego stopnia w rozumieniu przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego był w tych sprawach Prezes Krajowego Zarządu Gospodarki Wodnej albo dyrektor regionalnego zarządu gospodarki wodnej.
 
 5. Organy, które po wejściu w życie ustawy utracą właściwość do wydawania pozwoleń wodnoprawnych, niezwłocznie przekażą sprawy wszczęte i niezakończone organom właściwym w sprawach pozwoleń wodnoprawnych.
 
@@ -7792,11 +7672,11 @@ Art. 480–524. (pominięte)
 
 1. Decyzje wydane na podstawie art. 50 i art. 59 ustawy zmienianej w art. 497 , dotyczące nieruchomości lub jej części znajdujących się na obszarze, o którym mowa w art. 169 ust. 2 pkt 2, lub w odległości mniejszej niż 50 m od stopy wału przeciwpowodziowego po stronie odpowietrznej, wygasają z dniem wejścia w życie niniejszej ustawy, z wyjątkiem decyzji dotyczących rozbudowy, przebudowy, odbudowy istniejących obiektów liniowych.
 
-2. Przepisu ust. 1 nie stosuje się do decyzji wydanych na podstawie art. 50 i art. 59 ustawy zmienianej w art. 497 , na podstawie których przed dniem wejścia w życie niniejszej ustawy wydano decyzje o pozwoleniu na budowę albo dokonano zgłoszeń, o których mowa w art. 30 ustawy z dnia 7 lipca 1994 r. Prawo budowlane, do których właściwy organ nie wniósł sprzeciwu.
+2. Przepisu ust. 1 nie stosuje się do decyzji wydanych na podstawie art. 50 i art. 59 ustawy zmienianej w art. 497 , na podstawie których przed dniem wejścia w życie niniejszej ustawy wydano decyzje o pozwoleniu na budowę albo dokonano zgłoszeń, o których mowa w art. 30 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, do których właściwy organ nie wniósł sprzeciwu.
 
 3. Przepisu ust. 1 nie stosuje się do decyzji wydanych na podstawie art. 50 i art. 59 ustawy zmienianej w art. 497 , dotyczących zagospodarowania terenu niezwiązanego z wykonywaniem robót budowlanych lub polegającego wyłącznie na budowie drogi rowerowej, urządzeń melioracji wodnych lub budowli przeciwpowodziowych.
 
-4. Do stwierdzenia wygaśnięcia decyzji wydanych na podstawie art. 50 i art. 59 ustawy zmienianej w art. 497 przepisów art. 162 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego nie stosuje się.
+4. Do stwierdzenia wygaśnięcia decyzji wydanych na podstawie art. 50 i art. 59 ustawy zmienianej w art. 497 przepisów art. 162 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego nie stosuje się.
 
 5. W ciągu 12 miesięcy od dnia wejścia w życie niniejszej ustawy wójt, burmistrz lub prezydent miasta opracowuje wykaz decyzji, o których mowa w ust. 1.
 
@@ -7811,7 +7691,7 @@ Art. 480–524. (pominięte)
 1. Do projektów studiów uwarunkowań i kierunków zagospodarowania przestrzennego gminy, projektów miejscowych planów zagospodarowania przestrzennego, projektów ramowych studiów uwarunkowań i kierunków zagospodarowania przestrzennego związków metropolitalnych, a także ich zmian, w stosunku do których przed dniem wejścia w życie ustawy:
 
 - **1)** podjęto uchwałę o przystąpieniu do sporządzenia lub zmiany studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy lub do sporządzenia lub zmiany miejscowego planu zagospodarowania przestrzennego, lub do sporządzenia lub zmiany ramowego studium uwarunkowań i kierunków zagospodarowania przestrzennego związku metropolitalnego i
-- **2)** ogłoszono w prasie miejscowej oraz przez obwieszczenie o wyłożeniu projektu studium lub planu do publicznego wglądu stosuje się przepisy dotychczasowe.
+- **2)** ogłoszono w prasie miejscowej oraz przez obwieszczenie o wyłożeniu projektu studium lub planu do publicznego wglądu – stosuje się przepisy dotychczasowe.
 
 2. Do projektów planów zagospodarowania przestrzennego województw, a także ich zmian, w stosunku do których przed dniem wejścia w życie ustawy skierowano projekt planu do ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, stosuje się przepisy dotychczasowe.
 
@@ -7849,7 +7729,7 @@ Art. 480–524. (pominięte)
 2b. Podmioty obowiązane do ponoszenia opłat za usługi wodne są obowiązane składać oświadczenia, o których mowa w ust. 2a pkt 2, zgodnie z wzorami zamieszczonymi w Biuletynie Informacji Publicznej na stronie podmiotowej Wód Polskich:
 
 - **1)** Wodom Polskim w celu ustalenia wysokości opłat, o których mowa w art. 272 ust. 1–7 i 9 oraz art. 275 ust. 8 pkt 6,
-- **2)** wójtowi, burmistrzowi lub prezydentowi miasta, w celu ustalenia wysokości opłaty, o której mowa w art. 272 ust. 8 w terminie 30 dni od dnia, w którym upływa dzień przypadający na koniec każdego kwartału, z tym że oświadczenia za IV kwartał 2026 r. podmioty korzystające z usług wodnych składają w terminie do 14 stycznia 2027 r.
+- **2)** wójtowi, burmistrzowi lub prezydentowi miasta, w celu ustalenia wysokości opłaty, o której mowa w art. 272 ust. 8 – w terminie 30 dni od dnia, w którym upływa dzień przypadający na koniec każdego kwartału, z tym że oświadczenia za IV kwartał 2026 r. podmioty korzystające z usług wodnych składają w terminie do 14 stycznia 2027 r.
 
 2c. Oświadczenia, o których mowa w ust. 2a pkt 2, zawierają:
 
@@ -7872,9 +7752,9 @@ Art. 480–524. (pominięte)
 
 2e. W celu ustalenia wysokości opłaty, o której mowa w art. 272 ust. 3, oświadczenia, o których mowa w ust. 2a pkt 2, zawierają wyrażoną w MWh ilość energii elektrycznej wyprodukowanej w obiekcie energetyki wodnej oraz wyrażoną w m ilość wód podziemnych lub wód powierzchniowych pobranych bezzwrotnie na potrzeby technologiczne w tym obiekcie, nieprzeznaczonych wprost do produkcji energii elektrycznej.
 
-2f. W celu ustalenia wysokości opłaty, o której mowa w art. 272 ust. 4, oświadczenia, o których mowa w ust. 2a pkt 2, zawierają różnicę między ilością wód pobranych do celów zapewnienia funkcjonowania systemów chłodzenia elektrowni i elektrociepłowni a ilością wód z obiegów chłodzących elektrowni lub elektrociepłowni wprowadzanych do wód lub do ziemi wyrażoną w dam , wyliczoną na podstawie odczytów z urządzeń pomiarowych lub oszacowaną na podstawie obserwacji, analiz lub kalkulacji związanych z parametrami charakteryzującymi wydajność lub moc urządzenia.
+2f. W celu ustalenia wysokości opłaty, o której mowa w art. 272 ust. 4, oświadczenia, o których mowa w ust. 2a pkt 2, zawierają różnicę między ilością wód pobranych do celów zapewnienia funkcjonowania systemów chłodzenia elektrowni i elektrociepłowni a ilością wód z obiegów chłodzących elektrowni lub elektrociepłowni – wprowadzanych do wód lub do ziemi wyrażoną w dam , wyliczoną na podstawie odczytów z urządzeń pomiarowych lub oszacowaną na podstawie obserwacji, analiz lub kalkulacji związanych z parametrami charakteryzującymi wydajność lub moc urządzenia.
 
-2g. W celu ustalenia wysokości opłaty, o której mowa w art. 272 ust. 5, oświadczenia, o których mowa w ust. 2a pkt 2, zawierają ilość odprowadzonych do wód wód opadowych lub roztopowych ujętych w otwarte lub zamknięte systemy kanalizacji deszczowej służące do odprowadzania opadów atmosferycznych w granicach administracyjnych miast, wyrażoną w m , wraz z informacją o istnieniu urządzeń do retencjonowania wody z terenów uszczelnionych i ich pojemności.
+2g. W celu ustalenia wysokości opłaty, o której mowa w art. 272 ust. 5, oświadczenia, o których mowa w ust. 2a pkt 2, zawierają ilość odprowadzonych do wód – wód opadowych lub roztopowych ujętych w otwarte lub zamknięte systemy kanalizacji deszczowej służące do odprowadzania opadów atmosferycznych w granicach administracyjnych miast, wyrażoną w m , wraz z informacją o istnieniu urządzeń do retencjonowania wody z terenów uszczelnionych i ich pojemności.
 
 2h. W celu ustalenia wysokości opłaty, o której mowa w art. 272 ust. 6, oświadczenia, o których mowa w ust. 2a pkt 2, zawierają wyrażoną w kg ilość substancji wprowadzanych ze ściekami do wód lub do ziemi, w tym substancji wyrażonych jako wskaźnik:
 
@@ -7904,8 +7784,8 @@ Art. 480–524. (pominięte)
 
 2r. W celu ustalenia wysokości opłaty, o której mowa w art. 272 ust. 6a, oświadczenia, o których mowa w ust. 2a pkt 2, zawierają także informacje o:
 
-- **1)** systemie retencyjno-dozującym jeżeli zakład korzysta z takiego systemu, w tym o lokalizacji i pojemności zbiorników, które wchodzą w skład tego systemu, a także liczbie następujących po sobie dni, w których zakład może wstrzymać zrzut ścieków przemysłowych lub wód pochodzących z odwodnienia jego zakładów górniczych w okresach suszy hydrologicznej;
-- **2)** systemie oczyszczania lub podczyszczania ścieków zasolonych jeżeli zakład korzysta z tego systemu, w tym ilości ścieków przemysłowych zawierających chlorki i siarczany lub wód pochodzących z odwodnienia zakładów górniczych, które są oczyszczane lub podczyszczane w tym systemie, i parametrach technicznych tego systemu.
+- **1)** systemie retencyjno-dozującym – jeżeli zakład korzysta z takiego systemu, w tym o lokalizacji i pojemności zbiorników, które wchodzą w skład tego systemu, a także liczbie następujących po sobie dni, w których zakład może wstrzymać zrzut ścieków przemysłowych lub wód pochodzących z odwodnienia jego zakładów górniczych w okresach suszy hydrologicznej;
+- **2)** systemie oczyszczania lub podczyszczania ścieków zasolonych – jeżeli zakład korzysta z tego systemu, w tym ilości ścieków przemysłowych zawierających chlorki i siarczany lub wód pochodzących z odwodnienia zakładów górniczych, które są oczyszczane lub podczyszczane w tym systemie, i parametrach technicznych tego systemu.
 
 2s. W celu ustalenia wysokości opłaty, o której mowa w art. 272 ust. 3b, oświadczenia, o których mowa w ust. 2a pkt 2, zawierają ilość wprowadzanych do wód lub ziemi wód pochodzących z pomp ciepła lub akumulatorów ciepła warstwy wodonośnej wyrażoną w m , wraz z informacją o ich temperaturze, odczytaną z urządzeń pomiarowych lub oszacowaną na podstawie obserwacji, analiz lub kalkulacji związanych z parametrami charakteryzującymi wydajność lub moc urządzenia.
 
@@ -7938,17 +7818,17 @@ Art. 480–524. (pominięte)
 
 2. Ustanowione na podstawie przepisów ustawy uchylanej w art. 573:
 
-- **1)** krajowy program ochrony wód morskich staje się programem ochrony wód morskich w rozumieniu art. 159 ust. 1 niniejszej ustawy i podlega przeglądowi do dnia 31 grudnia 2021 r. i w razie potrzeby aktualizacji;
-- **2)** program monitoringu wód morskich staje się programem monitoringu wód morskich w rozumieniu art. 351 ust. 1 niniejszej ustawy i podlega przeglądowi do dnia 31 grudnia 2021 i w razie potrzeby aktualizacji;
-- **3)** krajowy program oczyszczania ścieków komunalnych staje się krajowym programem oczyszczania ścieków komunalnych w rozumieniu art. 88 ust. 1 niniejszej ustawy i podlega aktualizacji do dnia 1 lipca 2021 r.;
-- **4)** mapy ryzyka powodziowego stają się mapami ryzyka powodziowego w rozumieniu art. 170 ust. 1 niniejszej ustawy i podlegają przeglądowi do dnia 22 grudnia 2019 r. i w razie potrzeby aktualizacji;
-- **5)** mapy zagrożenia powodziowego stają się mapami zagrożenia powodziowego w rozumieniu art. 169 ust. 1 niniejszej ustawy i podlegają przeglądowi do dnia 22 grudnia 2019 r. i w razie potrzeby aktualizacji;
-- **6)** plany gospodarowania wodami na obszarach dorzeczy stają się planami gospodarowania wodami na obszarach dorzeczy w rozumieniu art. 318 ust. 1 niniejszej ustawy i podlegają przeglądowi i aktualizacji do dnia 22 marca 2023 r.;
-- **7)** plany zarządzania ryzykiem powodziowym dla obszarów dorzeczy stają się planami zarządzania ryzykiem powodziowym dla obszarów dorzeczy w rozumieniu art. 172 ust. 1 niniejszej ustawy i podlegają przeglądowi do dnia 22 marca 2023 r. i w razie potrzeby aktualizacji;
-- **8)** wstępna ocena stanu środowiska wód morskich staje się wstępną oceną stanu środowiska wód morskich w rozumieniu art. 150 niniejszej ustawy i podlega przeglądowi do dnia 15 lipca 2018 r. i w razie potrzeby aktualizacji;
-- **9)** wstępna ocena ryzyka powodziowego staje się wstępną oceną ryzyka powodziowego w rozumieniu art. 167 ust. 1 niniejszej ustawy i podlega przeglądowi do dnia 22 grudnia 2018 r. i w razie potrzeby aktualizacji;
-- **10)** zestaw celów środowiskowych dla wód morskich i związanych z nim wskaźników staje się zestawem celów środowiskowych dla wód morskich w rozumieniu art. 156 ust. 1 niniejszej ustawy i podlega przeglądowi do dnia 15 lipca 2018 r. i w razie potrzeby aktualizacji;
-- **11)** zestaw właściwości typowych dla dobrego stanu środowiska wód morskich staje się zestawem właściwości typowych dla dobrego stanu środowiska wód morskich w rozumieniu art. 153 ust. 1 niniejszej ustawy i podlega przeglądowi do dnia 15 lipca 2018 r. i w razie potrzeby aktualizacji.
+- **1)** krajowy program ochrony wód morskich – staje się programem ochrony wód morskich w rozumieniu art. 159 ust. 1 niniejszej ustawy i podlega przeglądowi do dnia 31 grudnia 2021 r. i w razie potrzeby aktualizacji;
+- **2)** program monitoringu wód morskich – staje się programem monitoringu wód morskich w rozumieniu art. 351 ust. 1 niniejszej ustawy i podlega przeglądowi do dnia 31 grudnia 2021 i w razie potrzeby aktualizacji;
+- **3)** krajowy program oczyszczania ścieków komunalnych – staje się krajowym programem oczyszczania ścieków komunalnych w rozumieniu art. 88 ust. 1 niniejszej ustawy i podlega aktualizacji do dnia 1 lipca 2021 r.;
+- **4)** mapy ryzyka powodziowego – stają się mapami ryzyka powodziowego w rozumieniu art. 170 ust. 1 niniejszej ustawy i podlegają przeglądowi do dnia 22 grudnia 2019 r. i w razie potrzeby aktualizacji;
+- **5)** mapy zagrożenia powodziowego – stają się mapami zagrożenia powodziowego w rozumieniu art. 169 ust. 1 niniejszej ustawy i podlegają przeglądowi do dnia 22 grudnia 2019 r. i w razie potrzeby aktualizacji;
+- **6)** plany gospodarowania wodami na obszarach dorzeczy – stają się planami gospodarowania wodami na obszarach dorzeczy w rozumieniu art. 318 ust. 1 niniejszej ustawy i podlegają przeglądowi i aktualizacji do dnia 22 marca 2023 r.;
+- **7)** plany zarządzania ryzykiem powodziowym dla obszarów dorzeczy – stają się planami zarządzania ryzykiem powodziowym dla obszarów dorzeczy w rozumieniu art. 172 ust. 1 niniejszej ustawy i podlegają przeglądowi do dnia 22 marca 2023 r. i w razie potrzeby aktualizacji;
+- **8)** wstępna ocena stanu środowiska wód morskich – staje się wstępną oceną stanu środowiska wód morskich w rozumieniu art. 150 niniejszej ustawy i podlega przeglądowi do dnia 15 lipca 2018 r. i w razie potrzeby aktualizacji;
+- **9)** wstępna ocena ryzyka powodziowego – staje się wstępną oceną ryzyka powodziowego w rozumieniu art. 167 ust. 1 niniejszej ustawy i podlega przeglądowi do dnia 22 grudnia 2018 r. i w razie potrzeby aktualizacji;
+- **10)** zestaw celów środowiskowych dla wód morskich i związanych z nim wskaźników – staje się zestawem celów środowiskowych dla wód morskich w rozumieniu art. 156 ust. 1 niniejszej ustawy i podlega przeglądowi do dnia 15 lipca 2018 r. i w razie potrzeby aktualizacji;
+- **11)** zestaw właściwości typowych dla dobrego stanu środowiska wód morskich – staje się zestawem właściwości typowych dla dobrego stanu środowiska wód morskich w rozumieniu art. 153 ust. 1 niniejszej ustawy i podlega przeglądowi do dnia 15 lipca 2018 r. i w razie potrzeby aktualizacji.
 
 3. Minister właściwy do spraw gospodarki wodnej przekazuje Komisji Europejskiej pierwsze sprawozdanie, o którym mowa w art. 328 ust. 4, w terminie do dnia 22 grudnia 2018 r.
 
@@ -8037,38 +7917,39 @@ Art. 480–524. (pominięte)
 
 1. W latach 2018–2027 maksymalny limit wydatków Wód Polskich będący skutkiem finansowym wejścia w życie ustawy wynosi 28 751,87 mln zł, przy czym w:
 
-- **1)** 2018 r. 2 475,96 mln zł;
-- **2)** 2019 r. 3 662,32 mln zł;
-- **3)** 2020 r. 4 193,60 mln zł;
-- **4)** 2021 r. 3 090,99 mln zł;
-- **5)** 2022 r. 3 094,39 mln zł;
-- **6)** 2023 r. 3 117,07 mln zł;
-- **7)** 2024 r. 2 758,70 mln zł;
-- **8)** 2025 r. 2 116,00 mln zł;
-- **9)** 2026 r. 2 118,28 mln zł;
-- **10)** 2027 r. 2 124,56 mln zł.
+- **1)** 2018 r. – 2 475,96 mln zł;
+- **2)** 2019 r. – 3 662,32 mln zł;
+- **3)** 2020 r. – 4 193,60 mln zł;
+- **4)** 2021 r. – 3 090,99 mln zł;
+- **5)** 2022 r. – 3 094,39 mln zł;
+- **6)** 2023 r. – 3 117,07 mln zł;
+- **7)** 2024 r. – 2 758,70 mln zł;
+- **8)** 2025 r. – 2 116,00 mln zł;
+- **9)** 2026 r. – 2 118,28 mln zł;
+- **10)** 2027 r. – 2 124,56 mln zł.
 
 2. Minister właściwy do spraw gospodarki wodnej monitoruje wykorzystanie limitu wydatków, o którym mowa w ust. 1, oraz wdraża mechanizm korygujący, o którym mowa w ust. 3.
 
 3. W przypadku przekroczenia lub zagrożenia przekroczenia przyjętego na dany rok budżetowy maksymalnego limitu wydatków określonego w ust. 1 oraz w przypadku gdy część planowanych wydatków, o których mowa w ust. 1, przypadająca proporcjonalnie na okres od początku roku kalendarzowego do końca danego kwartału została przekroczona:
 
-- **1)** po pierwszym kwartale co najmniej o 20 %,
-- **2)** po dwóch kwartałach co najmniej o 15 %,
-- **3)** po trzech kwartałach co najmniej o 10 % minister właściwy do spraw gospodarki wodnej stosuje mechanizm korygujący polegający na obniżeniu kosztów realizacji zadań przez Wody Polskie.
+- **1)** po pierwszym kwartale – co najmniej o 20 %,
+- **2)** po dwóch kwartałach – co najmniej o 15 %,
+- **3)** po trzech kwartałach – co najmniej o 10 % – minister właściwy do spraw gospodarki wodnej stosuje mechanizm korygujący polegający na obniżeniu kosztów realizacji zadań przez Wody Polskie.
 
 **Art. 569a.**
 
-- **36)** 1. Maksymalny limit wydatków z budżetu państwa, będących skutkiem finansowym wejścia w życie ustawy z dnia 9 maja 2025 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (Dz. U. poz. 680), przeznaczonych na nabycie nieruchomości przez Wody Polskie, o którym mowa w art. 258a, wynosi 800 000 000 zł, w tym w roku:
-- **1)** 2025 0 zł;
-- **2)** 2026 50 000 000 zł;
-- **3)** 2027 50 000 000 zł;
-- **4)** 2028 100 000 000 zł;
-- **5)** 2029 100 000 000 zł;
-- **6)** 2030 100 000 000 zł;
-- **7)** 2031 100 000 000 zł;
-- **8)** 2032 100 000 000 zł;
-- **9)** 2033 100 000 000 zł;
-- **10)** 2034 100 000 000 zł.
+1. Maksymalny limit wydatków z budżetu państwa, będących skutkiem finansowym wejścia w życie ustawy z dnia 9 maja 2025 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (Dz. U. poz. 680), przeznaczonych na nabycie nieruchomości przez Wody Polskie, o którym mowa w art. 258a, wynosi 850 000 000 zł, w tym w roku:
+
+- **1)** 2025 – 0 zł;
+- **2)** 2026 – 100 000 000 zł, w tym 50 000 000 zł przeznaczonych na nabycie nieruchomości przez Wody Polskie, w szczególnie uzasadnionych przypadkach, o których mowa w art. 258a ust. 2 pkt 2;
+- **3)** 2027 – 50 000 000 zł;
+- **4)** 2028 – 100 000 000 zł;
+- **5)** 2029 – 100 000 000 zł;
+- **6)** 2030 – 100 000 000 zł;
+- **7)** 2031 – 100 000 000 zł;
+- **8)** 2032 – 100 000 000 zł;
+- **9)** 2033 – 100 000 000 zł;
+- **10)** 2034 – 100 000 000 zł.
 
 2. Wysokość środków finansowych określonych w ust. 1 przeznaczonych na poszczególne lata na nabycie nieruchomości przez Wody Polskie, o którym mowa w art. 258a, będzie uzależniona od dostępności środków budżetowych i ustalana w trakcie prac nad projektem ustawy budżetowej.
 
@@ -8090,7 +7971,7 @@ Art. 480–524. (pominięte)
 
 **Art. 572.** Minister właściwy do spraw gospodarki wodnej, po upływie 5 lat od dnia wejścia w życie ustawy, przedstawi Sejmowi informację o skutkach jej stosowania, obejmującą w szczególności informacje dotyczące:
 
-**Art. 573.** Traci moc ustawa z dnia 18 lipca 2001 r. Prawo wodne (Dz. U. z 2017 r. poz. 1121).
+**Art. 573.** Traci moc ustawa z dnia 18 lipca 2001 r. – Prawo wodne (Dz. U. z 2017 r. poz. 1121).
 
 **Art. 574.** Ustawa wchodzi w życie z dniem 1 stycznia 2018 r., z wyjątkiem:
 

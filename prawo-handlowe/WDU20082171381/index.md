@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# Ustawa z dnia 23 października 2008 r. o zmianie ustawy - Kodeks spółek handlowych
+# o zmianie ustawy – Kodeks spółek handlowych
+
+*USTAWA z dnia 23 października 2008 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,7 +26,7 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082171381) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1381/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 15 września 2000 r. — Kodeks spółek handlowych (Dz. U. Nr 94, poz. 1037, zpóên. zm. ) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 15 września 2000 r. − Kodeks spółek handlowych (Dz. U. Nr 94, poz. 1037, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 2.** Ustawa wchodzi wżycie po upływie 30 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński 1381 USTAWA zdnia 23 paêdziernika 2008 r. ozmianie ustawy — Kodeks spółek handlowych ———————
+**Art. 2.** Ustawa wchodzi życie po upływie 30 dni od dnia ogłoszenia.
 

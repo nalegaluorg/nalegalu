@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 7 maja 2021 r.
+# o zmianie ustawy o efektywności energetycznej oraz niektórych innych ustaw
+
+*USTAWA z dnia 20 kwietnia 2021 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,14 +26,11 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000868) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/868/text.pdf) |
 
-USTAWA z dnia 20 kwietnia 2021 r.
-o zmianie ustawy o efektywności energetycznej oraz niektórych innych ustaw
-
 **Art. 1.** W ustawie z dnia 20 maja 2016 r. o efektywności energetycznej (Dz. U. z 2021 r. poz. 468) wprowadza się następujące zmiany:
 
 **Art. 35a.**
 
-1. Instytut Ochrony Środowiska Państwowy Instytut Badawczy prowadzi centralny rejestr oszczędności energii finalnej, zwany dalej „rejestrem”, oraz jest administratorem danych zgromadzonych tym rejestrze.
+1. Instytut Ochrony Środowiska – Państwowy Instytut Badawczy prowadzi centralny rejestr oszczędności energii finalnej, zwany dalej „rejestrem”, oraz jest administratorem danych zgromadzonych tym rejestrze.
 
 2. W rejestrze są gromadzone dane oraz informacje dotyczące wysokości uzyskanej oszczędności energii finalnej.
 
@@ -46,7 +45,9 @@ o zmianie ustawy o efektywności energetycznej oraz niektórych innych ustaw
     - **a)** nazwę instytucji oraz adres jej siedziby,
     - **b)** adres poczty elektronicznej.
 
-4. Minister właściwy do spraw klimatu określi, drodze rozporządzenia, szczegółowy zakres informacji, o których mowa ust. 3 pkt 1 lit. a tiret pierwsze i szóste, gromadzonych rejestrze oraz sposób uwierzytelniania osób upoważnionych wpisanych do wykazu, mając na względzie użyteczność tych informacji, funkcjonalność rejestru oraz zapewnienie bezpieczeństwa rejestru i ochrony zgromadzonych nim informacji. 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2021 r. poz. 670).
+4. Minister właściwy do spraw klimatu określi, drodze rozporządzenia, szczegółowy zakres informacji, o których mowa ust. 3 pkt 1 lit. a tiret pierwsze i szóste, gromadzonych rejestrze oraz sposób uwierzytelniania osób
+
+5. Rejestr jest prowadzony z wykorzystaniem systemu teleinformatycznego zgodnie z przepisami ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2021 r. poz. 670).
 
 **Art. 35b.**
 
@@ -56,7 +57,7 @@ o zmianie ustawy o efektywności energetycznej oraz niektórych innych ustaw
 
 3. Uprawnionymi do wprowadzania danych i informacji do rejestru są:
 
-- **1)** Instytut Ochrony Środowiska Państwowy Instytut Badawczy jako administrator danych,
+- **1)** Instytut Ochrony Środowiska – Państwowy Instytut Badawczy – jako administrator danych,
 - **2)** minister właściwy do spraw klimatu,
 - **3)** minister właściwy do spraw rozwoju regionalnego,
 - **4)** minister właściwy do spraw finansów publicznych,
@@ -72,11 +73,11 @@ o zmianie ustawy o efektywności energetycznej oraz niektórych innych ustaw
 
 5. Dane osób upoważnionych wpisuje się do wykazu na wniosek:
 
-- **1)** dyrektora departamentu przypadku podmiotów, o których mowa ust. 3 pkt 2–4;
-- **2)** dyrektora przypadku podmiotu, o którym mowa ust. 3 pkt 5;
-- **3)** prezesa przypadku podmiotów, o których mowa ust. 3 pkt 6, 7, 9 i 10;
-- **4)** sekretarza województwa, sekretarza powiatu albo wójta, burmistrza lub prezydenta miasta przypadku podmiotów, o których mowa ust. 3 pkt 8;
-- **5)** właściwego organu lub osoby upoważnionej do reprezentowania instytucji przypadku, o którym mowa ust. 3 pkt 11.
+- **1)** dyrektora departamentu – przypadku podmiotów, o których mowa ust. 3 pkt 2–4;
+- **2)** dyrektora – przypadku podmiotu, o którym mowa ust. 3 pkt 5;
+- **3)** prezesa – przypadku podmiotów, o których mowa ust. 3 pkt 6, 7, 9 i 10;
+- **4)** sekretarza województwa, sekretarza powiatu albo wójta, burmistrza lub prezydenta miasta – przypadku podmiotów, o których mowa ust. 3 pkt 8;
+- **5)** właściwego organu lub osoby upoważnionej do reprezentowania instytucji – przypadku, o którym mowa ust. 3 pkt 11.
 
 6. Wykaz zawiera:
 
@@ -87,7 +88,7 @@ o zmianie ustawy o efektywności energetycznej oraz niektórych innych ustaw
 
 8. Dyrektor IOŚ-PIB przyznaje osobie upoważnionej dostęp do systemu teleinformatycznego obsługującego rejestr. Osobie upoważnionej przez podmiot uprawniony, o którym mowa ust. 3 pkt 2, zapewnia się dostęp do informacji zgromadzonych tym rejestrze oraz informacji archiwalnych wprowadzonych do rejestru. Osobom upoważnionym przez podmioty uprawnione, o których mowa ust. 3 pkt 3–11, zapewnia się dostęp do informacji zgromadzonych tym rejestrze oraz informacji archiwalnych wprowadzonych do rejestru przez osoby upoważnione przez te podmioty.
 
-9. Zmiana danych, o których mowa ust. 6, następuje na wniosek podmiotów, o których mowa ust. 5, składany za pomocą systemu teleinformatycznego obsługującego rejestr, terminie 14 dni od dnia zaistnienia zmiany. adresem elektronicznym wskazanym Biuletynie Informacji Publicznej na stronie podmiotowej Instytutu Ochrony Środowiska Państwowego Instytutu Badawczego.
+10. Wnioski, o których mowa ust. 7, składa się przy użyciu formularza elektronicznego udostępnionego pod adresem elektronicznym wskazanym Biuletynie Informacji Publicznej na stronie podmiotowej Instytutu Ochrony Środowiska – Państwowego Instytutu Badawczego.
 
 11. Minister właściwy do spraw klimatu udostępnia wzory wniosków, o których mowa ust. 7, formie dokumentu elektronicznego rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne, Biuletynie Informacji Publicznej urzędu obsługującego tego ministra, kierując się potrzebą zapewniania sprawności procesu wprowadzania danych do rejestru.
 
@@ -97,7 +98,7 @@ o zmianie ustawy o efektywności energetycznej oraz niektórych innych ustaw
 
 **Art. 35c.** Informacje zgromadzone rejestrze udostępnia się na wniosek za pomocą środków komunikacji elektronicznej.”;
 
-**Art. 3.** W ustawie z dnia 10 kwietnia 1997 r. Prawo energetyczne (Dz. U. z 2021 r. poz. 716) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2021 r. poz. 716) wprowadza się następujące zmiany:
 
 **Art. 45d.**
 
@@ -113,7 +114,7 @@ o zmianie ustawy o efektywności energetycznej oraz niektórych innych ustaw
 - **2)** promowanie energooszczędnych zachowań, zapewnienie ustalania opłat za zakupione ciepło sposób odpowiadający zużyciu ciepła na ogrzewanie i przygotowanie ciepłej wody użytkowej oraz uwzględnienie współczynników wyrównawczych zużycia ciepła na ogrzewanie, wynikających z położenia lokalu bryle budynku;
 - **3)** zakres informacji niezbędnych do dokonania indywidualnych rozliczeń oraz zapewnienia czytelności danych.”; „6a) będąc właścicielem lub zarządcą budynku wielolokalowego, o którym mowa art. 45a ust. 6, narusza obowiązek wyposażenia lokali budynku wielolokalowego przyrządy pomiarowe lub urządzenia umożliwiające rozliczanie kosztów ciepła według zużycia kosztów ogrzewania oraz zużycia ciepłej wody takich lokalach budynku wielolokalowego lub nie stosuje rozliczania kosztów według zużycia albo odmawia wypełnienia obowiązków informacyjnych, o których mowa art. 45a ust. 4a i art. 45c, lub pobiera opłaty za wypełnienie tych obowiązków informacyjnych;”.
 
-**Art. 4.** W ustawie z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (Dz. U. z 2020 r. poz. 1219, 1378, 1565, 2127 i 2338 oraz z 2021 r. poz. 802) art. 401c ust. 5 po pkt 8 dodaje się pkt 8a brzmieniu: „8a) działań związanych z utworzeniem i prowadzeniem centralnego rejestru oszczędności energii finalnej, o którym mowa art. 35a ust. 1 ustawy z dnia 20 maja 2016 r. o efektywności energetycznej;”.
+**Art. 4.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2020 r. poz. 1219, 1378, 1565, 2127 i 2338 oraz z 2021 r. poz. 802) art. 401c ust. 5 po pkt 8 dodaje się pkt 8a brzmieniu: „8a) działań związanych z utworzeniem i prowadzeniem centralnego rejestru oszczędności energii finalnej, o którym mowa art. 35a ust. 1 ustawy z dnia 20 maja 2016 r. o efektywności energetycznej;”.
 
 **Art. 5.** W ustawie z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym (Dz. U. z 2020 r. poz. 711 i 2275) art. 16b ust. 1 pkt 2 lit. i średnik zastępuje się przecinkiem i dodaje się lit. j brzmieniu: „j) przypadku umowy, której przedmiotem jest realizacja przedsięwzięcia służącego poprawie efektywności energetycznej, o którym mowa art. 2 pkt 12 ustawy z dnia 20 maja 2016 r. o efektywności energetycznej (Dz. U. z 2021 r. poz. 468 i 868), średniorocznych oszczędności energii finalnej możliwych do uzyskania wyniku realizacji tego przedsięwzięcia oraz okresu uzyskiwania tych oszczędności;”.
 
@@ -135,9 +136,9 @@ o zmianie ustawy o efektywności energetycznej oraz niektórych innych ustaw
 
 **Art. 14.** Informacje i dane, o których mowa art. 35a ust. 3 pkt 1 i 3 ustawy zmienianej art. 1, za rok 2021, instytucja, o której mowa art. 18 ust. 5 ustawy zmienianej art. 1, przekaże po raz pierwszy do centralnego rejestru energii finalnej, o którym mowa art. 35a ust. 1 ustawy zmienianej art. 1, terminie do dnia 31 marca 2022 r.
 
-**Art. 15.** Do dnia 31 grudnia 2021 r. właściciel lub zarządca budynku wielolokalowego nieodpłatnie umożliwia uzyskanie informacji, o której mowa art. 45c ust. 2 ustawy zmienianej art. 3, nie rzadziej niż raz na pół roku, a przypadku otrzymywania elektronicznych rozliczeń na żądanie nie rzadziej niż raz na kwartał, jeżeli rozliczenie dokonywane jest na podstawie wskazań urządzeń, o których mowa art. 45a ust. 7 pkt 2 ustawy zmienianej art. 3, brzmieniu nadanym niniejszą ustawą.
+**Art. 15.** Do dnia 31 grudnia 2021 r. właściciel lub zarządca budynku wielolokalowego nieodpłatnie umożliwia uzyskanie informacji, o której mowa art. 45c ust. 2 ustawy zmienianej art. 3, nie rzadziej niż raz na pół roku, a przypadku otrzymywania elektronicznych rozliczeń na żądanie – nie rzadziej niż raz na kwartał, jeżeli rozliczenie dokonywane jest na podstawie wskazań urządzeń, o których mowa art. 45a ust. 7 pkt 2 ustawy zmienianej art. 3, brzmieniu nadanym niniejszą ustawą.
 
-**Art. 16.** Do dnia 1 stycznia 2027 r. właściciel lub zarządca budynku wielolokalowego zastąpi ciepłomierze, podzielniki kosztów ogrzewania lub wodomierze do pomiaru ciepłej wody użytkowej zamontowane przed dniem wejścia życie ustawy zmienianej art. 3, brzmieniu nadanym niniejszą ustawą, urządzeniami posiadającymi funkcję zdalnego odczytu. podarki Wodnej, będący skutkiem finansowym wejścia życie art. 401c ust. 5 pkt 8a ustawy zmienianej art. 4, brzmieniu nadanym niniejszą ustawą, wynosi w:
+**Art. 16.** Do dnia 1 stycznia 2027 r. właściciel lub zarządca budynku wielolokalowego zastąpi ciepłomierze, podzielniki kosztów ogrzewania lub wodomierze do pomiaru ciepłej wody użytkowej zamontowane przed dniem wejścia życie ustawy zmienianej art. 3, brzmieniu nadanym niniejszą ustawą, urządzeniami posiadającymi funkcję zdalnego odczytu. niu nadanym niniejszą ustawą, wynosi w:
 
 **Art. 18.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 

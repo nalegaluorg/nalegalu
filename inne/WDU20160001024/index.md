@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 14 lipca 2016 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy o sejmowej komisji śledczej
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 27 czerwca 2016 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001024) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1024/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 27 czerwca 2016 r.
-sprawie ogłoszenia jednolitego tekstu ustawy o sejmowej komisji śledczej
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2016 r. poz. 296) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 21 stycznia 1999 r. o sejmowej komisji śledczej (Dz. U. z 2009 r. Nr 151, poz. 1218), z uwzględnieniem zmian wprowadzonych:
 1) ustawą z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. Nr 182, poz. 1228),
 2) ustawą z dnia 28 stycznia 2016 r. Przepisy wprowadzające ustawę Prawo o prokuraturze (Dz. U. poz. 178) oraz zmian wynikających z przepisów ogłoszonych przed dniem 27 czerwca 2016 r.
@@ -196,7 +196,7 @@ o sejmowej komisji śledczej
 
 3. Na postanowienie sądu przedmiocie zezwolenia przesłuchanie, komisji i osobie wezwanej służy zażalenie, zasadach określonych Kodeksie postępowania karnego.
 
-4. Wniesienie zażalenia wstrzymuje wykonanie postanowienia sądu.
+4. Wniesienie zażalenia wstrzymuje wykonanie postanowienia sądu. Komisja określa osoby, których udział posiedzeniu zamkniętym jest niezbędny.
 
 2. Wiadomości uzyskane toku przesłuchań, o których mowa art. 11f i art. 11g ust. 1, stanowią tajemnicę prawnie chronioną.
 
@@ -234,7 +234,7 @@ o sejmowej komisji śledczej
 
 **Art. 16.** Czynności określone art. 11a ust. 1, art. 11e ust. 1, art. 11g ust. 1, art. 14 i art. 15 ust. 1 przeprowadza się z zachowaniem przepisów o tajemnicy ustawowo chronionej.
 
-**Art. 16a.** Komisja może zezwolić przedstawicielom prasy, rozumieniu przepisów ustawy z dnia 26 stycznia 1984 r. Prawo prasowe (Dz. U. poz. 24, z późn. zm. ), dokonywanie za pomocą aparatury utrwalenia obrazu lub dźwięku z posiedzenia komisji, gdy przemawia za tym interes publiczny; dokonywanie tych czynności nie będzie utrudniać przebiegu posiedzenia, a ważny interes osoby wezwanej nie sprzeciwia się temu. nego podstawie przepisów ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2015 r. poz. 2008). 2. Wniosek, o którym mowa ust. 1, składa się najpóźniej z upływem trzeciego dnia od dnia zakończenia posiedzenia komisji lub od dnia, którym miało się ono odbyć. Niezłożenie wniosku terminie powoduje utratę prawa do zwrotu wydatków. 3. Jeżeli niedotrzymanie terminu, o którym mowa ust. 2, zaistniało bez winy osoby wzywanej, może ona najpóźniej z upływem siódmego dnia od dnia ustania przyczyny uchybienia złożyć wniosek o przywrócenie terminu. 4. O zwrocie wydatków oraz o przywróceniu terminu decyduje przewodniczący komisji, a przypadku gdy zakończyła ona swoją działalność Marszałek Sejmu. 5. Wydatki, o których mowa ust. 1, pokrywane są przez Kancelarię Sejmu.
+**Art. 16a.** Komisja może zezwolić przedstawicielom prasy, rozumieniu przepisów ustawy z dnia 26 stycznia 1984 r. Prawo prasowe (Dz. U. poz. 24, z późn. zm. ), dokonywanie za pomocą aparatury utrwalenia obrazu lub dźwięku z posiedzenia komisji, gdy przemawia za tym interes publiczny; dokonywanie tych czynności nie będzie utrudniać przebiegu posiedzenia, a ważny interes osoby wezwanej nie sprzeciwia się temu. złożenia wniosku. Suma zwrotu nie może przekraczać jednak trzykrotności minimalnego wynagrodzenia za pracę, określanego podstawie przepisów ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2015 r. poz. 2008). 2. Wniosek, o którym mowa ust. 1, składa się najpóźniej z upływem trzeciego dnia od dnia zakończenia posiedzenia komisji lub od dnia, którym miało się ono odbyć. Niezłożenie wniosku terminie powoduje utratę prawa do zwrotu wydatków. 3. Jeżeli niedotrzymanie terminu, o którym mowa ust. 2, zaistniało bez winy osoby wzywanej, może ona najpóźniej z upływem siódmego dnia od dnia ustania przyczyny uchybienia złożyć wniosek o przywrócenie terminu. 4. O zwrocie wydatków oraz o przywróceniu terminu decyduje przewodniczący komisji, a przypadku gdy zakończyła ona swoją działalność Marszałek Sejmu. 5. Wydatki, o których mowa ust. 1, pokrywane są przez Kancelarię Sejmu.
 
 **Art. 18.**
 

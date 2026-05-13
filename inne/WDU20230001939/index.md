@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 20 września 2023 r.
+# w sprawie ogłoszenia jednolitego tekstu ustawy o przeciwdziałaniu narkomanii
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 17 sierpnia 2023 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001939) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1939/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 17 sierpnia 2023 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o przeciwdziałaniu narkomanii
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 2023 r. poz. 172), z uwzględnieniem zmian wprowadzonych ustawą z dnia 7 lipca 2022 r. o zmianie ustawy Kodeks karny oraz niektórych innych ustaw (Dz. U.
 poz. 2600 oraz z 2023 r. poz. 403) oraz zmian wynikających z przepisów ogłoszonych przed dniem 16 sierpnia 2023 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 23–26 i art. 33 ustawy z dnia 7 lipca 2022 r. o zmianie ustawy Kodeks karny oraz niektórych innych ustaw (Dz. U. poz. 2600 oraz z 2023 r.

@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# DZIENN 'IK USTAW RZE·C ZYPOSPOLI TEJ POLSKIEJ Warszawa. dnia 24 kwietnia 1950 r.
+# o utworzeniu Centralnego Ochrony Pracy.
+
+*USTAWA dnia 4 kwietnia 1950 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,36 +26,36 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19500170139) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1950/139/text.pdf) |
 
-Nr 17 Poz.: .
-139 o utworzeniu Centralnego Instytutu Ochrony Pracy.
-się
-1.,Dziennik Ustaw Nr 17 ···.....196 Poz. 139 140 terenowe Instytutu oraz instytuty spe cjalne, w Instytutu.
-2. Instytut wzorcownie li warsztaty.
-8. 1. Instytut ma ku nieruchomego, oddanego mu protokolarnie Skarb
-2. ruchomy Instytutu proto kolarnie ogóli1egcr Skarbu przeka zuje Instytutowi na
-3. Za Instytutu od odpo Instytutu odpowiada Skarb do nieruchomego, nego Instytut. ..
-4. Rady Ministrów szczegó zasady przy ustalaniu zakresu odpo Skarbu
-9. Instytutu jest Pa:1stwowej Komisji Planowania Gospodarczego.
-10. Instytutu dyrekcja Rada
-11. 1. Dyrekcja kieruje prac In stytutu reprezentuje go na "
-2. W dyrekcji dyrekt{)IT naczelny oraz podlegli mu dyrektorzy.
-3. Dyrektora naczelnego Prze Komisji Planowania Gospodar czego.
-Art: 12. 1. Do zakresu dzd.ałania Rady Naukowo wytyczanie kierunku prac' Instytutu nadzór nad dyrekcji.
-2. wynagrodzenia Rady Nauko ustala Ko misji Planowania Gospodarczego w porozumieniu Mi nistrem Skarbu.
-13. PaIlStwowej Komisji Plano wania Gospodarczego w porozumieniu Ministrem Skar bu w drodze ralnej Rzeczypospolitej Polskiej Prokuratorii GeneIn stytutu w odniesieniu do wszystkich albo niektórych spraw.
-zakreS Instytutu, a sposób ków czas trwania kadencji Rady oraz sposób dyrektorów statut, nadany Ko misji Planowania Gospodarczego w porozumieniu Mi nistrami Pracy Opieki oraz Zdrowia po za opinii Centralnej Rady Zawodo wych.
-15. 1. Stosunek pracowników tutu na mocy umowy o jest publiczno-prawny. Do tego stosunku odpowied nie zastosowanie przepisy o cywilnej.
-2. Pracownicy Instytutu przepisom uposa dla pracowników . .D o pracow ników n:mkowych Instytutu w tym przepisy pahstwowych pracowników nauki.
-16. Instytut wolny jest od podatków or?z innych danin publicznych.
-lut. 17. Rady Ministrów, na wniosek Komd.sji Plano wania Gospodarczego, które stwowych placówek naukowo-badawczych tlub innych zakladów, \vzorcowni, warsztatów lub ich Instytut oraz termin sposób
-18. Wykonanie ustawy porucza Przewodni PaIlstwowej Komisji Planowania Gospodar czego.
-19. Ustawa wchodzi w dniem Prezydent Rzeczypospolitej: B. Bierut Prezes Rady Ministrów:]. Cyrankiewicz Wiceprezes Rady Ministrów Komisji Planowania GOSpocl;Hczego: H 140
-USTAWA dnia 4 kwietnia 1950 r.
-o nauczycieli zawodowych naukowych, Centralnemu dowi Szkolenia Zawodowego.
-1. Do nauczycieli zawodowych naukowych, Centralnemu Szkole n4a Zawodowego, stosuje przepisy ustawy dn.ia 1 lipca 1926 r. o stosunkach nauczycieli (Dz.
-:D. R. P. 1932 r. Nr 104, poz. 873, 1933 r. Nr 85, poz.
-660, 1938 ):. Nr 2'7, poz. 243 1947 Nr 60, poz. 332) ze zmianami, przepasów mniejszej ustawy.
-2. Do nauczycieli zawodowych naukowych, Centralnemu Szkole· nia Zawodowego, nie stosuje ], 11, 12, rownicy: kursów, instytutów, techn.icum, ol5rod 'ków szkolenia zawodowego, pruktycz nych warsztatów, asystenci .nauczyciele zawodu, kie rownicy wychowawcy internatów oraz
-2. Przepisom ustawy niniejszej nie osoby, na podstawie umowy (na uczyciele kontraktowi). ZG'.sady zawierania umów nau czyci€la mi kontraktowymi prze Komitetu Ekonomicznego Rady :MinistrÓw.
-4. 1. Dyrektorem zawodowej nauczyciel •
+1. Tworzy się Centralny Instytut Ochrony Pracy, zwany w dalszym ciągu Instytutem.
+2. 1. Zadaniem jest prowadzenie i organizowanie prac naukowobadawczych dziedziny ochrony pracy, a w szczególności:
+1) organizowanie i prowadzenie prac naukowo-badawczych, dotyczących higieny i bezpieczeństwa pracy oraz środków technicznych i urządzeń zapobiegających chorobom zawodowym,
+2) koordynowanie planów prac innych placówek naukowo-badawczych oraz zakładów szkół wyższych w dziedzinach, określonych w pkt 1,
+3) współdziałanie władzami: ochrony pracy, przemysłowymi, rolnymi, morskimi, leśnymi i służby zdrowia w zakresie określonym w pkt 1 oraz ze związkami zawodowymi.
+2. Przewodniczący Gospodarczego w porozumieniu właściwym ministrem może zlecić Instytutowi ustalanie wiążących wytycznych w zakresie, określonym w ust. 1 pkt 1 dla działalności przedsiębiorstw państwowych, do zakresu działania których należy:
+1) wydawanie opracowań naukowych i popularnych zakresu ochrony pracy lub
+2) produkowanie urządzeń i sprzętu zakresu bezpieczeństwa i higieny pracy.
+3. Instytut posiada osobowość prawną.
+4. Siedzibą jest m. st. Warszawa.
+5. Instytut ma prawo używania pieczęci okrągłej godłem państwowym pośrodku i napisem: „Centralny Instytut Ochrony Pracy” w otoku.
+6. Zwierzchni nadzór nad Instytutem sprawuje Przewodniczący może w drodze zarządzenia tworzyć oddziały terenowe oraz instytuty specjalne, wchodzące w skład Instytutu.
+2. Instytut może posiadać zakłady, wzorcownie i warsztaty.
+8. 1. Instytut ma zarząd i użytkowanie majątku nieruchomego, oddanego mu protokolarnie przez Skarb Państwa.
+2. Majątek ruchomy wyodrębnia się protokolarnie ogólnego majątku Skarbu Państwa i przekazuje Instytutowi własność.
+3. Za zobowiązania niezależnie od odpowiedzialności odpowiada Skarb Państwa do wysokości wartości majątku nieruchomego, użytkowanego i zarządzanego przez Instytut.
+4. Rozporządzenie Rady Ministrów określi szczegółowo zasady postępowania przy ustalaniu zakresu odpowiedzialności Skarbu Państwa.
+9. Budżet jest częścią budżetu
+10. Władzami są dyrekcja i Rada Naukowo-Społeczna.
+11. 1. Dyrekcja kieruje całokształtem prac i reprezentuje go zewnątrz.
+2. W skład dyrekcji wchodzą dyrektor naczelny oraz podlegli mu dyrektorzy.
+3. Dyrektora naczelnego powołuje i odwołuje Przewodniczący
+12. 1. Do zakresu działania Rady Naukowo-Społecznej należy wytyczanie kierunku prac i nadzór nad działalnością dyrekcji.
+2. Wysokość wynagrodzenia członków Rady Naukowo-Społecznej ustala Przewodniczący Gospodarczego w porozumieniu Ministrem Skarbu.
+13. Przewodniczący Gospodarczego w porozumieniu Ministrem Skarbu może w drodze zarządzenia zlecić Prokuratorii Generalnej Rzeczypospolitej Polskiej zastępstwo sądowe w odniesieniu do wszystkich albo niektórych spraw.
+sposób powoływania członków i czas trwania kadencji Rady Naukowo-Społecznej oraz liczbę i sposób powoływania dyrektorów określi statut, nadany przez Przewodniczącego Gospodarczego w porozumieniu Ministrami Pracy i Opieki Społecznej oraz Zdrowia po zasięgnięciu opinii Centralnej Rady Związków Zawodowych.
+15. 1. Stosunek służbowy pracowników wyjątkiem zatrudnionych mocy umowy o pracę jest publiczno-prawny. Do tego stosunku mają odpowiednie zastosowanie przepisy o państwowej służbie cywilnej.
+2. Pracownicy podlegają przepisom uposażeniowym dla pracowników państwowych. Do pracowników naukowych stosują się w tym względzie przepisy dotyczące państwowych pracowników nauki.
+16. Instytut wolny jest od podatków i opłat państwowych oraz innych danin publicznych.
+17. Uchwała Rady Ministrów, powzięta wniosek Przewodniczącego Gospodarczego, określi, które istniejących państwowych placówek naukowo-badawczych lub innych zakładów, wzorcowni, warsztatów lub ich części zostaną przejęte przez Instytut oraz termin i sposób przejęcia.
+18. Wykonanie ustawy porucza się Przewodniczącemu
+19. Ustawa wchodzi w życie dniem ogłoszenia.
 

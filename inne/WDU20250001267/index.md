@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 23 września 2025 r.
+# U. 2025 poz.
 
 | Pole | Wartość |
 |---|---|
@@ -136,7 +136,7 @@ o Polskiej Agencji Żeglugi Powietrznej
 - **3)** kontroluje powietrza systemy łączności lotniczej, nawigacji i dozorowania przestrzeni powietrznej;
 - **4)** prowadzi szkolenia i udziela konsultacji zakresie żeglugi powietrznej;
 - **5)** prowadzi działalność badawczo-rozwojową zakresie żeglugi powietrznej;
-- **6)** zapewnia projektowanie procedur lotu. do oszacowania wielkości emisji, o którym mowa art. 87 i art. 88 ustawy dnia 12 czerwca 2015 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych (Dz. U. 2024 r. poz. 1505 oraz 2025 r. poz. 303).
+- **6)** zapewnia projektowanie procedur lotu. uprawnieniami do emisji gazów cieplarnianych (Dz. U. 2024 r. poz. 1505 oraz 2025 r. poz. 303).
 
 4. Agencja zapewnia koordynację działań poszukiwawczo-ratowniczych.
 
@@ -359,7 +359,7 @@ o Polskiej Agencji Żeglugi Powietrznej
 
 **Art. 15.** Agencja, na potrzeby pokrycia zobowiązań Agencji Ruchu Lotniczego przejętych zgodnie art. 13 ust. 1 i 2 oraz art. 14, powstałych przed dniem wejścia życie ustawy, za zgodą ministra właściwego do spraw transportu, może emitować obligacje i inne papiery wartościowe na podstawie przepisów o obligacjach do wartości nie wyższej niż 50 % jej rocznych przychodów określonych planie finansowym na dany rok.
 
-**Art. 16.** W okresie 2 lat od dnia wejścia życie ustawy, ograniczenia, o których mowa art. 7 ust. 6, nie mają zastosowania do działalności inwestycyjnej prowadzonej, przed dniem wejścia życie ustawy, wspólnie ramach PPL, pod warunkiem uzyskania zgody ministra właściwego do spraw transportu. pożyczkę.
+**Art. 16.** W okresie 2 lat od dnia wejścia życie ustawy, ograniczenia, o których mowa art. 7 ust. 6, nie mają zastosowania do działalności inwestycyjnej prowadzonej, przed dniem wejścia życie ustawy, wspólnie ramach PPL, pod warunkiem uzyskania zgody ministra właściwego do spraw transportu.
 
 **Art. 18.**
 

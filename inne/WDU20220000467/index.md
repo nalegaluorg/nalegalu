@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 25 lutego 2022 r.
+# o zmianie ustawy o odnawialnych źródłach energii oraz ustawy o zmianie ustawy o odnawialnych źródłach energii oraz niektórych innych ustaw
+
+*USTAWA z dnia 27 stycznia 2022 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +25,6 @@ domain: null
 | Data wydania | 2022-02-25 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000467) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/467/text.pdf) |
-
-Poz. 467
-USTAWA z dnia 27 stycznia 2022 r.
-o zmianie ustawy o odnawialnych źródłach energii oraz ustawy o zmianie ustawy o odnawialnych źródłach energii oraz niektórych innych ustaw
 
 **Art. 1.** W ustawie z dnia 20 lutego 2015 r. o odnawialnych źródłach energii (Dz. U. z 2021 r. poz. 610, 1093, 1873 i 2376) w art. 4d:
 

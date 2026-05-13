@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# Ustawa z dnia 11 kwietnia 2001 r. o zmianie ustawy o ewidencji ludności i dowodach osobistych oraz o zmianie niektórych innych ustaw.
+# o zmianie ustawy o ewidencji ludności i dowodach osobistych oraz o zmianie niektórych innych ustaw
+
+*USTAWA z dnia 11 kwietnia 2001 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,280 +26,313 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010430476) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/476/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 10 kwietnia 1974 r. ewidencji ludności idowodach osobistych (Dz. U. z1984 r. 32, poz. 174, z1989 r. 35, poz. 192, z1990 r. 34, poz. 198, z 1997 r. 113, poz. 733, z 1998 r. 106, poz.668 iz1999 r. 108, poz. 1227) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 10 kwietnia 1974 r. o ewidencji ludności i dowodach osobistych (Dz.U. z 1984 r. Nr 32, poz. 174, z 1989 r. Nr 35, poz. 192, z 1990 r. Nr 34, poz. 198, z 1997 r. Nr 113, poz. 733, z 1998 r. Nr 106, poz. 668) wprowadza się następujące zmiany:
 
 **Art. 9b.**
 
-1. Zameldowanie pobyt stały lub czasowy następuje pod oznaczonym adresem.
+1. Zameldowanie na pobyt stały lub czasowy następuje pod oznaczonym adresem.
 
 2. Adres określa się przez podanie:
 
-- **1)** gminach, które uzyskały status miasta nazwy miasta (dzielnicy), ulicy, numeru domu i lokalu (pomieszczenia) oraz nazwy województwa,
-- **2)** winnych gminach nazwy miejscowości, numeru domu i lokalu (pomieszczenia), nazwy gminy i województwa.
-
-3. Przepisy ust. 1 i2 stosuje się odpowiednio do zameldowania osób przebywających stale lub czasowo statku morskim lub żeglugi śródlądowej albo winnych ruchomych pomieszczeniach mieszkalnych.”;
-
-- **4)** wart. 11 ust. 1 otrzymuje brzmienie: Ń1. Osoba zobowiązana do zameldowania się pobyt stały przedstawia organowi gminy włatu stałego zaświadczenie wymeldowaniu się z poprzedniego miejsca pobytu stałego oraz zgłasza następujące dane osobowe:
-- **1)** nazwisko iimiona,
+- **1)** w gminach, które uzyskały status miasta - nazwy miasta (dzielnicy), ulicy, numeru domu i lokalu (pomieszczenia) oraz nazwę województwa,
+- **2)** w innych gminach - nazwy miejscowości, numeru domu i lokalu (pomieszczenia), nazwy gminy i województwa. przebywających stale lub czasowo na statku morskim lub żeglugi śródlądowej albo w innych ruchomych pomieszczeniach mieszkalnych.”;
+- **4)** w art. 11 ust. 1 otrzymuje brzmienie: „1. Osoba zobowiązana do zameldowania się na pobyt stały przedstawia organowi gminy właściwemu ze względu na nowe miejsce jej pobytu stałego, zaświadczenie o wymeldowaniu się z poprzedniego miejsca pobytu stałego oraz zgłasza następujące dane osobowe:
+- **1)** nazwisko i imiona,
 - **2)** nazwisko rodowe,
-- **3)** nazwiska iimiona poprzednie,
+- **3)** nazwiska i imiona poprzednie,
 - **4)** imiona rodziców,
 - **5)** nazwiska rodowe rodziców,
 - **6)** stan cywilny,
 - **7)** imię i nazwisko małżonka oraz jego nazwisko rodowe,
 - **8)** płeć,
-- **9)** datę imiejsce urodzenia,
+- **9)** datę i miejsce urodzenia,
 - **10)** obywatelstwo,
 - **11)** numer PESEL,
-- **12)** dotyczące obowiązku wojskowego, tym stopień wojskowy, nazwę, serię inumer wojskowego dokumentu osobistego z oznaczeniem wojskowej komendy uzupełnień lub poświadczenie ozgłoszeniu się do rejestracji przedpoborowych,
+- **12)** dotyczące obowiązku wojskowego, w tym stopień wojskowy, nazwę, serię i numer wojskowego dokumentu osobistego z oznaczeniem wojskowej komendy uzupełnień lub poświadczenie o zgłoszeniu się do rejestracji przedpoborowych,
 - **13)** adres poprzedniego miejsca pobytu stałego,
 - **14)** adres nowego miejsca pobytu stałego,
-- **15)** rodzaj, serię inumer dokumentu tożsamości,
-- **16)** owykształceniu.”;
-- **5)** wart. 12 dodaje się ust. 3 wbrzmieniu: Ń3. Zwalnia się od obowiązku zameldowania pobyt czasowy dzieci do lat 7, okres nieprzekraczający 2 miesięcy.”;
-- **6)** wart. 15:
-    - **a)** ust. 1 skreśla się wyrazy Ńoraz podać nowe miejsce iadres pobytu”,
-    - **b)** po ust. 1 dodaje się ust. 1awbrzmieniu: Ń1a. Osoba zobowiązana do wymeldowania się zgłasza organowi gminy właściwemu ze względu dotychczasowe miejsce jej pobytu stałego lub czasowego trwającego ponad 2 miesiące następujące dane osobowe:
+- **15)** rodzaj, serię i numer dokumentu tożsamości,
+- **16)** o wykształceniu.”;
+- **5)** w art. 12 dodaje się ust. 3 w brzmieniu: „3. Zwalnia się od obowiązku zameldowania na pobyt czasowy dzieci do lat 7, na okres nie przekraczający 2 miesięcy.”;
+- **6)** w art. 15:
+    - **a)** w ust. 1 skreśla się wyrazy „oraz podać nowe miejsce i adres pobytu”,
+    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Osoba zobowiązana do wymeldowania się zgłasza organowi gminy właściwemu ze względu na dotychczasowe miejsce jej pobytu stałego lub czasowego trwającego ponad 2 miesiące następujące dane osobowe:
 
-- **1)** nazwisko iimiona,
+- **1)** nazwisko i imiona,
 - **2)** nazwisko rodowe,
-- **3)** nazwiska iimiona poprzednie,
-- **4)** imiona rodziców,
-- **5)** nazwiska rodowe rodziców, USTAWA zdnia 11 kwietnia 2001 r. ozmianie ustawy oewidencji ludności idowodach osobistych oraz ozmianie niektórych innych ustaw.
+- **3)** nazwiska i imiona poprzednie,
+- **5)** nazwiska rodowe rodziców,
+- **6)** stan cywilny,
+- **7)** imię i nazwisko małżonka oraz jego nazwisko rodowe,
 - **8)** płeć,
-- **9)** datę imiejsce urodzenia,
+- **9)** datę i miejsce urodzenia,
 - **10)** obywatelstwo,
 - **11)** numer PESEL,
-- **12)** dotyczące obowiązku wojskowego, tym stopień wojskowy, nazwę, serię i numer wojskowego dokumentu osobistego z oznaczeniem wojskowej komendy uzupełnień lub poświadczenie ozgłoszeniu się do rejestracji przedpoborowych,
+- **12)** dotyczące obowiązku wojskowego, w tym stopień wojskowy, nazwę, serię i numer wojskowego dokumentu osobistego z oznaczeniem wojskowej komendy uzupełnień lub poświadczenie o zgłoszeniu się do rejestracji przedpoborowych,
 - **13)** adres dotychczasowego miejsca pobytu stałego lub czasowego trwającego ponad 2 miesiące,
 - **14)** rodzaj, serię i numer dokumentu tożsamości,
-- **15)** owykształceniu.”,
-    - **c)** po ust. 3 dodaje się ust. 4 i5 wbrzmieniu: Ń4. Jeżeli okres pobytu czasowego trwającego ponad 2 miesiące odpowiada okresowi zgłoszonemu przy zameldowaniu, osoba opuszczająca miejsce tego pobytu jest zwolniona od obowiązku wymeldowania się.
+- **15)** o wykształceniu.”,
+    - **c)** po ust. 3 dodaje się ust. 4 i 5 w brzmieniu: „4. Jeżeli okres pobytu czasowego trwającego ponad 2 miesiące odpowiada okresowi zgłoszonemu przy zameldowaniu, osoba opuszczająca miejsce tego pobytu jest zwolniona od obowiązku wymeldowania się.
 
-5. Osobie, której mowa ust. 1, organ gminy wydaje zaświadczenie stwierdzające dopełnienie obowiązku wymeldowania się.”;
+5. Osobie, o której mowa w ust. 1, organ gminy wydaje zaświadczenie stwierdzające dopełnienie obowiązku wymeldowania się.”;
 
-- **7)** art. 26 wyraz Ńwydaną” zastępuje się wyrazami Ńalbo zezwolenie osiedlenie się wydane”;
-- **8)** po rozdziale 7 dodaje się rozdział 7awbrzmieniu: ŃRozdział 7a Nadawanie numeru Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL)
+- **7)** w art. 26 wyraz „wydaną” zastępuje się wyrazami „albo zezwolenie na osiedlenie się wydane”;
+- **8)** po rozdziale 7 dodaje się rozdział 7a w brzmieniu: „Rozdział 7a Nadawanie numeru Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL)
 
 **Art. 31a.**
 
-1. Numer Powszechnego Elektronicznego Systemu Ewidencji Ludności, zwany niniejszej ustawie «numerem PESEL», jest to 11-cyfrowy, stały symbol numeryczny, jednoznacznie identyfikujący osobę fizyczną, wktórym sześć pierwszych cyfr oznacza datę urodzenia (rok, miesiąc, dzień), kolejne cztery liczbę porządkową ipłeć osoby, aostatnia jest cyfrą kontrolną służącą do komputerowej kontroli poprawności nadanego numeru ewidencyjnego.
+1. Numer Powszechnego Elektronicznego Systemu Ewidencji Ludności, zwany w niniejszej ustawie „numerem PESEL”, jest to 11cyfrowy, stały symbol numeryczny, jednoznacznie identyfikujący osobę fizyczną, w którym sześć pierwszych cyfr oznacza datę urodzenia (rok, miesiąc, dzień), kolejne cztery - liczbę porządkową i płeć osoby, a ostatnia jest cyfrą kontrolną służącą do komputerowej kontroli poprawności nadanego numeru ewidencyjnego.
 
-2. Numer PESEL nadaje minister właściwy do spraw administracji publicznej formie czynności materialno-technicznej.
+2. Numer PESEL nadaje minister właściwy do spraw administracji publicznej w formie czynności materialno-technicznej.
 
-3. Numer PESEL nadaje się osobom fizycznym przebywającym stale terytorium Rzeczypospolitej Polskiej, zadowodu osobistego.
+3. Numer PESEL nadaje się osobom fizycznym przebywającym stale na terytorium Rzeczypospolitej Polskiej, zameldowanym na pobyt stały lub czasowy trwający ponad 2 miesiące, a także osobom ubiegającym się o wydanie dowodu osobistego.
 
-4. Nadanie numeru PESEL następuje wniosek organu gminy właściwej ze względu miejsce pobytu stałego lub czasowego osoby podlegającej obowiązkowi jego nadania albo organu, którym złożono wniosek wydanie dowodu osobistego, z zastrzeżeniem art. 31b.
+4. Nadanie numeru PESEL następuje na wniosek organu gminy właściwej ze względu na miejsce pobytu stałego lub czasowego osorym złożono wniosek o wydanie dowodu osobistego, z zastrzeżeniem art. 31b.
 
 **Art. 31b.**
 
-1. Minister właściwy do spraw administracji publicznej może nadać numer PESEL osobom innym niż wymienione art. 31a ust. 3 ich pisemny wniosek, jeżeli odrębne przepisy przewidują potrzebę posiadania numeru PESEL przez te osoby.
+1. Minister właściwy do spraw administracji publicznej może nadać numer PESEL osobom innym niż wymienione w art. 31a ust. 3 na ich pisemny wniosek, jeżeli odrębne przepisy przewidują potrzebę posiadania numeru PESEL przez te osoby.
 
-2. Osoby, których mowa ust. 1, składają umotywowany pisemny wniosek nadanie numeru PESEL bezpośrednio do ministra właściwego do spraw administracji publicznej.
+2. Osoby, o których mowa w ust. 1, składają umotywowany pisemny wniosek o nadanie numeru PESEL bezpośrednio do ministra właściwego do spraw administracji publicznej.
 
-3. Wniosek nadanie numeru PESEL powinien zawierać następujące dane:
+3. Wniosek o nadanie numeru PESEL powinien zawierać następujące dane:
 
-- **1)** nazwisko iimiona,
+- **1)** nazwisko i imiona,
 - **2)** nazwisko rodowe,
 - **3)** imiona rodziców,
 - **4)** nazwisko rodowe matki,
 - **5)** płeć,
-- **6)** datę imiejsce urodzenia,
+- **6)** datę i miejsce urodzenia,
 - **7)** obywatelstwo,
 - **8)** adres i miejsce pobytu stałego lub czasowego,
-- **9)** rodzaj, serię inumer dokumentu tożsamości.
+- **9)** rodzaj, serię i numer dokumentu tożsamości.
 
-4. Minister właściwy do spraw administracji publicznej może, umotywowany pisemny wniosek organów, których mowa art. 31a ust. 4, i osób, których mowa art. 31b ust.1, zmienić numer PESEL.
+4. Minister właściwy do spraw administracji publicznej może, na umotywowany pisemny wniosek organów, o których mowa w art. 31a ust. 4 i osób, o których mowa w art. 31b ust. 1, zmienić numer PESEL.
 
-**Art. 31c.** Minister właściwy do spraw administracji publicznej powiadamia nadaniu numeru PESEL organy, których mowa art. 31a ust. 4, oraz wnioskodawców, których mowa wart. 31bust. 1.”;
+**Art. 31c.** Minister właściwy do spraw administracji publicznej powiadamia o nadaniu numeru PESEL organy, o których mowa w art. 31a ust. 4, oraz wnioskodawców, o których mowa w art. 31b ust. 1.”;
 
 **Art. 44a.**
 
-1. Ewidencję ludności prowadzi się wsystemie informatycznym podstawie wart. 14 oraz wart. 17, wformie:
+1. Ewidencję ludności prowadzi się w systemie informatycznym na podstawie danych osobowych zgłoszonych przy wykonywaniu obowiązku meldunkowego oraz zgłoszeń, o których mowa w art. 14 oraz w art. 17, w formie:
 
 - **1)** zbiorów meldunkowych jako:
     - **a)** zbioru danych stałych mieszkańców,
     - **b)** zbioru danych byłych mieszkańców,
-    - **c)** zbioru danych osób zameldowanych pobyt czasowy trwający ponad 2 miesiące,
-    - **d)** zbioru danych osób zameldowanych pobyt czasowy trwający do 2 miesięcy,
+    - **c)** zbioru danych osób zameldowanych na pobyt czasowy trwający ponad 2 miesiące, trwający do 2 miesięcy,
 
-- **2)** zbioru danych osobowych PESEL, zwanego dalej «zbiorem PESEL», uzyskanych związku z nadawaniem numeru PESEL podstawie zbiorów meldunkowych, których mowa wpkt 1 lit. a)—c).
+- **2)** zbioru danych osobowych PESEL, zwanego dalej „zbiorem PESEL”, uzyskanych w związku z nadawaniem numeru PESEL na podstawie zbiorów meldunkowych, o których mowa w pkt 1 lit. a)-c).
 
-2. Wzbiorze danych stałych mieszkańców mendy uzupełnień, wktórej ewidencji osoba pozostaje, lub potwierdzenie zgłoszenia się do rejestracji przedpoborowych,
+2. W zbiorze danych stałych mieszkańców gromadzone są następujące ich dane:
 
-- **18)** seria i numer dowodu osobistego, data jego wydania i data ważności oraz oznaczenie organu, który go wydał,
-- **19)** seria i numer karty stałego pobytu, data jej wydania oraz oznaczenie organu, który ją wydał.
-
-3. Wzbiorze danych byłych mieszkańców gromadzone są:
-
-- **1)** ich dane, októrych mowa wust. 2,
-- **2)** data wymeldowania,
-- **3)** data zgonu oraz numer aktu zgonu i oznaczenie urzędu stanu cywilnego, który akt sporządził. gromadzone są następujące ich dane:
-- **1)** nazwisko iimiona,
+- **1)** nazwisko i imiona,
 - **2)** nazwisko rodowe,
-- **3)** nazwiska iimiona poprzednie,
-- **4)** imiona inazwiska rodowe rodziców,
-- **5)** data imiejsce urodzenia,
+- **3)** nazwiska i imiona poprzednie,
+- **4)** imiona i nazwiska rodowe rodziców,
+- **5)** data i miejsce urodzenia,
 - **6)** stan cywilny,
 - **7)** numer aktu urodzenia i oznaczenie urzędu stanu cywilnego, który ten akt sporządził,
 - **8)** płeć,
 - **9)** numer PESEL,
 - **10)** obywatelstwo,
-- **11)** imię inazwisko rodowe małżonka,
-- **12)** data zawarcia związku małżeńskiego, numer aktu małżeństwa i oznaczenie urzędu stanu cywilnego, który ten akt sporządził, data rozwiązania związku małżeńskiego, sygnatura akt i oznaczenie sądu, który rozwiązał małżeństwo, data zgonu małżonka, numer aktu zgonu ioznaczenie urzędu stanu cywilnego, który ten akt sporządził,
-- **13)** adres idata zameldowania pobyt stały,
-- **14)** poprzednie adresy zameldowania pobyt stały wraz zokreśleniem okresu zameldowania,
-- **15)** adres zameldowania pobyt czasowy trwający ponad 2 miesiące wraz zokreśleniem okresu zameldowania,
+- **11)** imię i nazwisko rodowe małżonka,
+- **12)** data zawarcia związku małżeńskiego, numer aktu małżeństwa i oznaczenie urzędu stanu cywilnego, który ten akt sporządził, data rozwiązania związku małżeńskiego, sygnatura akt i oznaczenie sądu, który rozwiązał małżeństwo, data zgonu małżonka, numer aktu zgonu i oznaczenie urzędu stanu cywilnego, który ten akt sporządził,
+- **13)** adres i data zameldowania na pobyt stały,
+- **14)** poprzednie adresy zameldowania na pobyt stały wraz z określeniem okresu zameldowania,
+- **15)** adres zameldowania na pobyt czasowy trwający ponad 2 miesiące wraz z określeniem okresu zameldowania,
 - **16)** tryb wymeldowania,
+- **17)** stopień wojskowy, nazwa, seria i numer wojskowego dokumentu osobistego oraz oznaczenie wojskowej komendy uzupełnień w której ewidencji osoba pozostaje, lub potwierdzenie zgłoszenia się do rejestracji przedpoborowych,
+- **18)** seria i numer dowodu osobistego, data jego wydania i data ważności oraz oznaczenie organu, który go wydał,
+- **19)** seria i numer karty stałego pobytu, data jej wydania oraz oznaczenie organu, który ją wydał,
 
-4. W zbiorze danych osób zameldowanych pobyt czasowy trwający ponad 2 miesiące gromadzone są:
+3. W zbiorze danych byłych mieszkańców gromadzone są:
 
-- **1)** ich dane, których mowa ust. 2 pkt 1—6, 9—11, 13, 15 i17—19,
-- **2)** seria inumer karty czasowego pobytu, data jej wydania, data ważności oraz oznaczenie organu, który ją wydał.
+- **1)** ich dane, o których mowa w ust. 2,
+- **3)** data zgonu oraz numer aktu zgonu i oznaczenie urzędu stanu cywilnego, który akt sporządził.
 
-5. W zbiorze danych osób zameldowanych pobyt czasowy trwający do 2 miesięcy gromadzone są:
+4. W zbiorze danych osób zameldowanych na pobyt czasowy trwający ponad 2 miesiące gromadzone są:
 
-- **1)** ich dane, których mowa ust. 2 pkt 1, 5, 13, 18, 19 iwust. 4 pkt 2,
+- **1)** ich dane, o których mowa w ust. 2 pkt 1-6, 9-11, 13, 15 i 1719,
+- **2)** seria i numer karty czasowego pobytu, data jej wydania, data ważności oraz oznaczenie organu, który ją wydał.
+
+5. W zbiorze danych osób zameldowanych na pobyt czasowy trwający do 2 miesięcy gromadzone są:
+
+- **1)** ich dane, o których mowa w ust. 2 pkt 1, 5, 13, 18, 19 i w ust. 4 pkt 2,
 - **2)** adres pobytu czasowego oraz zamierzony czas jego trwania.
 
-6. W zbiorach meldunkowych, których mowa wust. 4 i5, zamieszcza się także oznaczenie dokumentu uprawniającego do pobytu terytorium Rzeczypospolitej Polskiej oraz datę przekroczenia granicy, jeżeli gromadzone dane dotyczą cudzoziemców.
+6. W zbiorach meldunkowych, o których mowa w ust. 4 i 5, zamieszcza się także oznaczenie dokumentu uprawniającego do pobytu na terytorium Rzeczypospolitej Polskiej oraz datę przekroczenia granicy, jeżeli gromadzone dane dotyczą cudzoziemców.
 
-7. Wzbiorze PESEL gromadzone są następujące dane:
+7. W zbiorze PESEL gromadzone są następujące dane:
 
-- **1)** nazwisko iimiona,
+- **1)** nazwisko i imiona,
 - **2)** nazwisko rodowe,
-- **3)** nazwiska iimiona poprzednie,
-- **4)** imiona inazwiska rodowe rodziców,
-- **5)** data imiejsce urodzenia,
+- **3)** nazwiska i imiona poprzednie,
+- **4)** imiona i nazwiska rodowe rodziców,
+- **5)** data i miejsce urodzenia,
 - **6)** stan cywilny,
 - **7)** numer aktu urodzenia i oznaczenie urzędu stanu cywilnego, który ten akt sporządził,
 - **8)** płeć,
-- **12)** data zawarcia związku małżeńskie- 5) datę przybycia i zamierzony czas go, numer aktu małżeństwa i ozna- trwania pobytu, czenie urzędu stanu cywilnego, który 6)oznaczenie dowodu osobistego lub ten akt sporządził, data rozwiązania innego dokumentu stwierdzającego związku małżeńskiego, sygnatura akt tożsamość, a wtym numer iserię, dai oznaczenie sądu, który rozwiązał tę jego wydania, datę ważności oraz małżeństwo, data zgonu małżonka, oznaczenie organu, który go wydał. numer aktu zgonu ioznaczenie urzędu stanu cywilnego, który ten akt Art. 44c. 1. Organy prowadzące ewidencję ludnosporządził, ści są obowiązane do bezzwłocznej ak13) adres idata zameldowania pobyt tualizacji każdej zmiany danych osobostały, wych zawartych zbiorach meldunkowych, wzbiorze PESEL oraz wewiden14) poprzednie adresy zameldowania cji wydanych i utraconych dowodów pobyt stały wraz zokreśleniem okre- osobistych. su zameldowania,
-
-2. Dane do aktualizacji zbioru PESEL prze15) adres zameldowania pobyt czaso- kazuje się nośniku magnetycznym wy trwający ponad 2 miesiące wraz lub drodze teletransmisji formie zokreśleniem okresu zameldowania, dokumentu elektronicznego zaktualne16) tryb wymeldowania, go programu informatycznego.
-
-- **17)** dotyczące obowiązku wojskowego, 3. Wojskowi komendanci uzupełnień obowtym stopień wojskowy, nazwa, se- wiązani są do bezzwłocznej aktualizacji ria inumer wojskowego dokumentu danych dotyczących obowiązku wojosobistego wraz z określeniem woj- skowego. skowej komendy uzupełnień, której ewidencji osoba pozostaje, lub Art. 44d. 1. Organy, których mowa art. 46, są potwierdzenie zgłoszenia się do reje- obowiązane do wzajemnego przekazystracji przedpoborowych, wania danych zawartych prowadzonych przez siebie zbiorach.
-- **18)** seria i numer dowodu osobistego, data jego wydania i data ważności 2. Minister właściwy do spraw adminioraz oznaczenie organu, który go stracji publicznej określi, wdrodze rozwydał, porządzenia, tryb przekazywania danych pomiędzy organami, których
-- **19)** seria i numer karty stałego pobytu, mowa art. 46, oraz powiadamiania data jej wydania oraz oznaczenie or- nadaniu numeru PESEL organów, ganu, który ją wydał, poprzednie se- których mowa art. 31a ust. 4, oraz rie inumery kart stałego pobytu oraz wnioskodawcy, którym mowa art. oznaczenie organu, który je wydał, 31b ust. 1, uwzględniając potrzebę za20) seria inumer karty czasowego poby- pewnienia ochrony danych zawartych tu, data jej wydania i data ważności wzbiorach. oraz oznaczenie organu, który ją wydał, Art. 44e. 1. Gminy, podstawie danych zgłoszonych przy ubieganiu się wydanie lub
-- **21)** nazwa organu, numer i data decyzji wymianę dowodu osobistego, prowaozastrzeżeniu udostępnienia danych dzą ewidencję wydanych i utraconych osobowych, dowodów osobistych.
-- **22)** data zgonu oraz numer aktu zgonu 2. Ewidencję, októrej mowa wust. 1, proi oznaczenie urzędu stanu cywilne- wadzi się formie informatycznej, go, który akt sporządził. a dane osobowe z tej ewidencji mogą
+- **9)** numer PESEL,
+- **10)** obywatelstwo,
+- **11)** imię i nazwisko rodowe małżonka,
+- **12)** data zawarcia związku małżeńskiego, numer aktu małżeństwa i oznaczenie urzędu stanu cywilnego, który ten akt sporządził, data rozwiązania związku małżeńskiego, sygnatura akt i oznaczenie sądu, który rozwiązał małżeństwo, data zgonu małżonka, numer aktu zgonu i oznaczenie urzędu stanu cywilnego, który ten akt sporządził,
+- **13)** adres i data zameldowania na pobyt stały,
+- **14)** poprzednie adresy zameldowania na pobyt stały wraz z określeniem okresu zameldowania,
+- **15)** adres zameldowania na pobyt czasowy trwający ponad 2 miesiące wraz z określeniem okresu zameldowania,
+- **17)** dotyczące obowiązku wojskowego, w tym stopień wojskowy, nazwę, serię i numer wojskowego dokumentu osobistego wraz z określeniem wojskowej komendy uzupełnień, w której ewidencji osoba pozostaje, lub potwierdzenie zgłoszenia się do rejestracji przedpoborowych,
+- **18)** seria i numer dowodu osobistego, data jego wydania i data ważności oraz oznaczenie organu, który go wydał,
+- **19)** seria i numer karty stałego pobytu, data jej wydania oraz oznaczenie organu, który ją wydał, poprzednie serie i numery kart stałego pobytu oraz oznaczenie organu, który je wydał,
+- **20)** seria i numer karty czasowego pobytu, data jej wydania i data ważności oraz oznaczenie organu, który ją wydał,
+- **21)** nazwa organu, numer i data decyzji o zastrzeżeniu udostępnienia danych osobowych,
+- **22)** data zgonu oraz numer aktu zgonu i oznaczenie urzędu stanu cywilnego, który akt sporządził.
 
 **Art. 44b.**
 
-1. Zbiór danych osób przebywających być przetwarzane metodami informawobiektach, októrych mowa wart. 13, tycznymi. art. 18 ust. 1 i art. 20, prowadzi się 3. Ewidencja, której mowa ust. 1, zaformie książki zameldowań lub wiera następujące dane osobowe: wsystemie informatycznym.
+1. Zbiór danych osób przebywających w obiektach, o których mowa w art. 13, art. 18 ust. 1 i art. 20, prowadzi się w formie książki zameldowań lub w systemie informatycznym.
 
-- **1)** nazwisko iimiona,
+2. W zbiorze, o którym mowa w ust. 1, gromadzi się następujące dane osobowe:
 
-2. W zbiorze, którym mowa ust. 1, gromadzi się następujące dane osobo- 2) poprzednie imiona inazwiska, we: 3) nazwisko rodowe,
+- **1)** nazwisko i imię,
+- **2)** imiona rodziców,
+- **3)** datę i miejsce urodzenia,
+- **4)** adres miejsca pobytu stałego,
+- **5)** datę przybycia i zamierzony czas trwania pobytu,
+- **6)** oznaczenie dowodu osobistego lub innego dokumentu stwierdzającego tożsamość, a w tym numer i serię, datę jego wydania, datę ważności oraz oznaczenie organu, który go wydał.
 
-- **1)** nazwisko iimię, 4) imiona inazwiska rodowe rodziców,
+**Art. 44c.**
+
+1. Organy prowadzące ewidencję ludności są obowiązane do bezzwłocznej aktualizacji każdej zmiany danych osobowych zawartych w zbiorach meldunkowych, w zbiorze PESEL oraz w ewidencji wydanych i utraconych dowodów osobistych.
+
+2. Dane do aktualizacji zbioru PESEL przekazuje się na nośniku magnetycznym lub w drodze teletransmisji w formie dokumentu elektronicznego z aktualnego programu informatycznego.
+
+3. Wojskowi komendanci uzupełnień obowiązani są do bezzwłocznej aktualizacji danych dotyczących obowiązku wojskowego.
+
+**Art. 44d.**
+
+1. Organy, o których mowa w art. 46, są obowiązane do wzajemnego przekazywania danych zawartych w prowadzonych przez siebie zbiorach. drodze rozporządzenia, tryb przekazywania danych pomiędzy organami, o których mowa w art. 46, oraz powiadamiania o nadaniu numeru PESEL organów, o których mowa w art. 31a ust. 4, oraz wnioskodawcy, o którym mowa w art. 31b ust. 1, uwzględniając potrzebę zapewnienia ochrony danych zawartych w zbiorach.
+
+**Art. 44e.**
+
+1. Gminy, na podstawie danych zgłoszonych przy ubieganiu się o wydanie lub wymianę dowodu osobistego, prowadzą ewidencję wydanych i utraconych dowodów osobistych.
+
+2. Ewidencję, o której mowa w ust. 1, prowadzi się w formie informatycznej, a dane osobowe z tej ewidencji mogą być przetwarzane metodami informatycznymi.
+
+3. Ewidencja, o której mowa w ust. 1, zawiera następujące dane osobowe:
+
+- **1)** nazwisko i imiona,
+- **2)** poprzednie imiona i nazwiska,
+- **3)** nazwisko rodowe,
+- **4)** imiona i nazwiska rodowe rodziców,
+- **5)** datę i miejsce urodzenia,
+- **6)** numer PESEL,
+- **7)** wzrost,
 - **8)** płeć,
-- **9)** fotografię i podpis osoby ubiegającej się wydanie dowodu osobistego,
+- **9)** fotografię i podpis osoby ubiegającej się o wydanie dowodu osobistego,
 - **10)** adres miejsca pobytu stałego lub czasowego trwającego ponad 2 miesiące,
-- **11)** numer i serię aktualnego i poprzednich dowodów osobistych, a tym daty ich wydania, daty ważności oraz oznaczenie organu, który je wydał.
+- **11)** numer i seria aktualnego i poprzednich dowodów osobistych, a w tym daty ich wydania, daty ważności oraz oznaczenie organu, który je wydał.
 
-4. Minister właściwy do spraw administracji publicznej prowadzi ogólnokrajową ewidencję wydanych iutraconych dowodów osobistych.
+4. Minister właściwy do spraw administracji publicznej prowadzi ogólnokrajową ewidencję wydanych i utraconych dowodów osobistych.
 
-5. Ewidencję, októrej mowa wust. 4, prowadzi się systemie informatycznym, gromadząc dane określone wust. 3.
+5. Ewidencję, o której mowa w ust. 4, prowadzi się w systemie informatycznym, gromadząc dane określone w ust. 3.
 
-6. Gminy są obowiązane do przekazywania ministrowi właściwemu do spraw administracji publicznej danych niezbędnych do prowadzenia ewidencji, októrej mowa wust. 4.
+6. Gminy są obowiązane do przekazywania ministrowi właściwemu do spraw administracji publicznej danych niezbędnych do prowadzenia ewidencji, o której mowa w ust. 4.
 
-7. Minister właściwy do spraw administracji publicznej określi, wdrodze rozporządzenia, tryb przekazywania przez gminy danych z ewidencji wydanych i utraconych dowodów osobistych, uwzględniając terminy i formy przekazywania danych.
+7. Minister właściwy do spraw administracji publicznej określi, w drodze rozporządzenia, tryb przekazywania przez gminy danych z ewidencji wydanych i utraconych dowodów osobistych, uwzględniając terminy i formy przekazywania danych.
 
-**Art. 44f.** Dane do ogólnokrajowej ewidencji wydanych i utraconych dowodów osobistych gminy przekazują bezpośrednio ministrowi właściwemu do spraw administracji publicznej wdrodze teletransmisji danych wformie dokumentu elektronicznego zaktualnego programu informatycznego dostosowanego do wymogów PESEL.
+**Art. 44f.** Dane do ogólnokrajowej ewidencji wydanych i utraconych dowodów osobistych gminy przekazują bezpośrednio ministrowi właściwemu do spraw administracji publicznej w drodze teletransmisji mu informatycznego dostosowanego do wymogów PESEL.
 
-#### Rozdział 8b Udostępnianie danych osobowych ze zbiorów meldunkowych, zbioru PESEL oraz ewidencji wydanych iutraconych dowodów osobistych
+#### Rozdział 8b Udostępnianie danych osobowych ze zbiorów meldunkowych, zbioru PESEL oraz ewidencji wydanych i utraconych dowodów osobistych.
 
 **Art. 44g.**
 
-1. Organy prowadzące zbiory meldunkowe, zbiór PESEL oraz ewidencję wydanych i utraconych dowodów osobistych, pisemny wniosek zainteresowanej osoby, są zobowiązane wydać, formie zaświadczenia, pełny odpis przetworzonych danych dotyczących tej osoby.
+1. Organy prowadzące zbiory meldunkowe, zbiór PESEL oraz ewidencję wydanych i utraconych dowodów osobistych, na pisemny wniosek zainteresowanej osoby, są zobowiązane wydać, w formie zaświadczenia, pełny odpis przetworzonych danych dotyczących tej osoby.
 
-2. Zaświadczenie, którym mowa ust. 1, może mieć formę wydruku z aktualnego programu informatycznego.
+2. Zaświadczenie, o którym mowa w ust. 1, może mieć formę wydruku z aktualnego programu informatycznego.
 
 **Art. 44h.**
 
-1. Dane ze zbiorów meldunkowych, zbiodo realizacji ich ustawowych zadań, następującym podmiotom:
+1. Dane ze zbiorów meldunkowych, zbioru PESEL oraz ewidencji wydanych i utraconych dowodów osobistych udostępnia się, o ile są one niezbędne do realizacji ich ustawowych zadań, następującym podmiotom:
 
 - **1)** organom administracji publicznej, sądom, prokuraturze,
-- **2)** organom Policji, Straży Granicznej, Służbie Więziennej, Wojskowym Służbom Informacyjnym, ˚andarmerii Wojskowej i Urzędowi Ochrony Państwa,
+- **2)** organom Policji, Straży Granicznej, Służbie Więziennej, Wojskowym Służbom Informacyjnym, Żandarmerii Wojskowej i Urzędowi Ochrony Państwa,
 - **3)** organom kontroli skarbowej i wywiadu skarbowego.
 
-2. Dane, których mowa ust. 1, mogą być udostępnione:
+2. Dane, o których mowa w ust. 1, mogą być udostępnione:
 
-- **1)** innym państwowym i komunalnym jednostkom organizacyjnym oraz podmiotom zakresie potrzebnym dla realizowania zadań publicznych określonych przepisach prawa,
-- **2)** osobom i jednostkom organizacyjnym jeżeli wykażą tym interes prawny,
-- **3)** jednostkom organizacyjnym jeżeli po ich wykorzystaniu celach badawczych, statystycznych, badania opinii publicznej lub rynku, dane te zostaną poddane takiej modyfikacji, która nie pozwoli ustalenie tożsamości osób, których dane dotyczą,
-- **4)** innym osobom ipodmiotom jeżeli uwiarygodnią one interes faktyczny otrzymaniu danych i za zgodą osób, których dane dotyczą.
+- **1)** innym państwowym i komunalnym jednostkom organizacyjnym oraz podmiotom - w zakresie potrzebnym dla realizowania zadań publicznych określonych w przepisach prawa,
+- **2)** osobom i jednostkom organizacyjnym - jeżeli wykażą w tym interes prawny,
+- **3)** jednostkom organizacyjnym - jeżeli po ich wykorzystaniu w celach badawczych, statystycznych, badania opinii publicznej lub rynku, dane te zostaną poddane takiej modyfikacji, która nie pozwoli na ustalenie tożsamości osób, których dane dotyczą,
+- **4)** innym osobom i podmiotom - jeżeli uwiarygodnią one interes faktyczny w otrzymaniu danych i za zgodą osób, których dane dotyczą.
 
-3. Dane ze zbiorów meldunkowych, zbioru PESEL oraz ewidencji wydanych i utraconych dowodów osobistych udostępnia się, z zastrzeżeniem ust. 5, pisemny wniosek zainteresowanego podmiotu.
+3. Dane ze zbiorów meldunkowych, zbioru PESEL oraz ewidencji wydanych i utraconych dowodów osobistych udostępnia się, z zastrzeżeniem ust. 5, na pisemny wniosek zainteresowanego podmiotu.
 
-4. Dane udostępnione podstawie wniosku, którym mowa ust. 3, nie mogą być wykorzystane innym celu niż wskazany wtym wniosku.
+4. Dane udostępnione na podstawie wniosku, o którym mowa w ust. 3, nie mogą być wykorzystane w innym celu niż wskazany w tym wniosku.
 
-5. Wniosek, októrym mowa wust. 3, składa się formularzu.
+5. Wniosek, o którym mowa w ust. 3, składa się na formularzu.
 
-6. Minister właściwy do spraw administracji publicznej określi, wdrodze rozporządzenia, wzór formularza wniosku, uwzględniając zakres danych objętych wnioskiem oraz cel udostępniania danych.
+6. Minister właściwy do spraw administracji publicznej określi, w drodze rozporządzenia, wzór formularza wniosku, uwzględniając nych.
 
-7. Podmiotom, których mowa ust. 1 oraz ust. 2 pkt 1, dane można udostępniać za pomocą urządzeń teletransmisji danych, bez konieczności składania pisemnego wniosku, którym mowa wust. 3, jeżeli spełnią łącznie nastęne systemie oraz zakresu, daty icelu ich uzyskania,
+7. Podmiotom, o których mowa w ust. 1 oraz w ust. 2 pkt 1, dane można udostępniać za pomocą urządzeń teletransmisji danych, bez konieczności składania pisemnego wniosku, o którym mowa w ust. 3, jeżeli spełnią łącznie następujące warunki:
 
-- **2)** posiadają zabezpieczenia techniczne i organizacyjne uniemożliwiające wykorzystanie danych niezgodnie zcelem ich uzyskania,
+- **1)** posiadają urządzenia umożliwiające identyfikację osoby uzyskującej dane w systemie oraz zakresu, daty i celu ich uzyskania,
+- **2)** posiadają zabezpieczenia techniczne i organizacyjne uniemożliwiające wykorzystanie danych niezgodnie z celem ich uzyskania,
 - **3)** uzyskanie danych jest uzasadnione specyfiką lub zakresem wykonywanych zadań albo prowadzonej działalności.
 
 8. Udostępnienie danych ze zbiorów meldunkowych, zbioru PESEL oraz ewidencji wydanych i utraconych dowodów osobistych następuje:
 
-- **1)** dla podmiotów, których mowa wust. 1 nieodpłatnie,
-- **2)** dla podmiotów, których mowa wust. 2 odpłatnie.
+- **1)** dla podmiotów, o których mowa w ust. 1 - nieodpłatnie,
+- **2)** dla podmiotów, o których mowa w ust. 2 - odpłatnie.
 
 9. Opłaty pobrane za udostępnienie danych stanowią dochód budżetu państwa.
 
-10. Rada Ministrów określi, drodze rozporządzenia, wysokość opłat za udostępnienie danych ze zbiorów meldunkowych, zbioru PESEL oraz ewidencji wydanych iutraconych dowodów osobistych oraz warunki isposób ich wnoszenia. Rozporządzenie powinno określać zróżnicowaną wysokość opłat zależności od zakresu udostępnianych danych oraz celu i częstotliwości ich udostępniania taki sposób, aby pokrywały one koszty udostępnienia tych danych.
+10. Rada Ministrów określi, w drodze rozporządzenia, wysokość opłat za udostępnienie danych ze zbiorów meldunkowych, zbioru PESEL oraz ewidencji wydanych i utraconych dowodów osobistych oraz warunki i sposób ich wnoszenia. Rozporządzenie powinno określać zróżnicowaną wysokość opłat w zależności od zakresu udostępnianych danych oraz celu i częstotliwości ich udostępniania w taki sposób, aby pokrywały one koszty udostępnienia tych danych.
 
 **Art. 44i.**
 
 1. Dane ze zbiorów meldunkowych oraz ewidencji wydanych i utraconych dowodów osobistych udostępnia organ gminy.
 
-2. Dane, których mowa ust. 1, odniesieniu do województwa udostępnia wojewoda.
+2. Dane, o których mowa w ust. 1, w odniesieniu do województwa udostępnia wojewoda.
 
-3. Dane ze zbioru PESEL oraz ogólnokrajowej ewidencji wydanych iutraconych dowodów osobistych udostępnia minister właściwy do spraw administracji publicznej.
+3. Dane ze zbioru PESEL oraz ogólnokrajowej ewidencji wydanych i utraconych dowodów osobistych udostępnia minister właściwy do spraw administracji publicznej.
 
-4. O udostępnieniu danych za pomocą urządzeń teletransmisji danych rozstrzyga właściwy organ wdrodze decyzji administracyjnej.
+4. O udostępnieniu danych za pomocą urządzeń teletransmisji danych rozstrzyga właściwy organ w drodze decyzji administracyjnej.
 
-5. Organ rozpatrujący wniosek odmawia, drodze decyzji administracyjnej, udostępnienia danych osobowych, jeżeli udostępnienie danych spowodowałoby naruszenie dóbr osobistych osoby, której dane dotyczą, lub innych wołanie.”;
+5. Organ rozpatrujący wniosek odmawia, w drodze decyzji administracyjnej, udostępnienia danych osobowych, jeżeli udostępnienie danych spowodowałoby naruszenie dóbr osobistych osoby, której dane dotyczą, lub innych osób.
 
-- **10)** art. 46 otrzymuje brzmienie: ŃArt. 46. 1. Ewidencja ludności jest prowadzona wsystemie informatycznym przez:
-- **1)** ministra właściwego do spraw administracji publicznej wformie zbioru PESEL,
-- **2)** wojewodę formie wojewódzkich zbiorów meldunkowych, określonych art. 44a ust. 1 pkt 1 lit. a)—c),
-- **3)** organy gminy wformie gminnych zbiorów meldunkowych.
+6. Od decyzji odmawiającej udostępnienia danych osobowych przysługuje odwołanie.”; „Art. 46. 1. Ewidencja ludności jest prowadzona w systemie informatycznym przez:
 
-2. Zbiór, którym mowa art. 44b, prowadzi kierownik zakładu lub osoba przez niego upoważniona.”;
+- **1)** ministra właściwego do spraw administracji publicznej - w formie zbioru PESEL,
+- **2)** wojewodę - w formie wojewódzkich zbiorów meldunkowych, określonych w art. 44a ust. 1 pkt 1 lit. a)-c),
+- **3)** organy gminy - w formie gminnych zbiorów meldunkowych.
 
-- **11)** wart. 50:
-    - **a)** wust. 1 wyrazy ŃMinister Spraw Wewnętrznych i Administracji” zastępuje się wyrazami ŃMinister właściwy do spraw administracji publicznej”,
-    - **b)** po ust. 2 dodaje się ust. 3 wbrzmieniu: Ń3. Wojewoda jest organem odwoławczym od orzeczeń administracyjnych wydanych przez organy gminy podstawie ustawy.”;
+2. Zbiór, o którym mowa w art. 44b, prowadzi kierownik zakładu lub osoba przez niego upoważniona.”;
 
-- **12)** art. 51 otrzymuje brzmienie: ŃArt. 51. 1. Minister właściwy do spraw administracji publicznej określi, wdrodze rozporządzenia, sposób zgłaszania iprzyjmowania danych niezbędnych do zameldowania i wymeldowania, sposób prowadzenia ewidencji ludności i ewidencji wydanych i utraconych dowodów osobistych, wzory formularzy zgłoszeń meldunkowych oraz wzór wniosku nadanie numeru PESEL, uwzględniając wszczególności sposób wykonywania obowiązku meldunkowego za osobę niepełnoletnią, przez cudzoziemca oraz osoby przebywające stale lub czasowo statku morskim lub żeglugi śródlądowej albo innych ruchomych pomieszczeniach mieszkalnych, potrzebę zapewnienia ochrony danych zawartych ewidencji ludności i ewidencji wydanych i utraconych dowodów osobistych, a także zakres danych zgłaszanych przy zameldowaniu iobjętych wnioskiem onadanie numeru PESEL oraz danych niezbędnych do ustalenia obowiązku wojskowego.
+- **11)** w art. 50:
+    - **a)** w ust. 1 wyrazy „Minister Spraw Wewnętrznych i Administracji” zastępuje się wyrazami „Minister właściwy do spraw administracji publicznej”,
+    - **b)** po ust. 2 dodaje się ust. 3 w brzmieniu: „3. Wojewoda jest organem odwoławczym od orzeczeń administracyjnych wydanych przez organy gminy na podstawie ustawy.”;
 
-2. Minister właściwy do spraw administracji publicznej, wporozumieniu zMinistrem Obrony Narodowej, określi, wej, a także sposób prowadzenia ewidencji ludności budynkach pozostających zarządzie organów wojskowych, uwzględniając potrzeby wynikające zkonieczności zapewnienia ochrony informacji niejawnych.
+- **12)** art. 51 otrzymuje brzmienie: „Art. 51. 1. Minister właściwy do spraw administracji publicznej określi, w drodze rozporządzenia, sposób zgłaszania i przyjmowania danych niezbędnych do zameldowania i wymeldowania, sposób prowadzenia ewidencji ludności i ewidencji wydanych i utraconych dowodów osobistych, wzory formularzy zgłoszeń meldunkowych oraz wzór wniosku o nadanie numeru PESEL, uwzględniając w szczególności sposób wykonywania obowiązku meldunkowego za osobę niepełnoletnią, przez cudzoziemca oraz osoby przebywające stale lub czasowo na statku morskim lub żeglugi śródlądowej albo w innych ruchomych pomieszczeniach mieszkalnych, potrzebę zapewnienia ochrony danych zawartych w ewidencji ludności i ewidencji wydanych i utraconych dowodów osobistych, a także zakres danych zgłaszanych przy zameldowaniu i objętych wnioskiem o nadanie numeru PESEL oraz danych niezbędnych do ustalenia obowiązku wojskowego.
 
-3. Minister właściwy do spraw administracji publicznej może celu zapewnienia porządku i bezpieczeństwa publicznego, a także zwalczania klęsk żywiołowych i zagrożenia bezpieczeństwa państwa wprowadzić, drodze rozporządzenia, czas określony obowiązek zameldowania się zchwilą przybycia do danej miejscowości oraz obowiązek zgłoszenia wyjazdu z danej miejscowości, uwzględniając określenie szczegółowego sposobu i terminu zameldowania osób oraz zakres danych, jakie powinny być zgłoszone przy zameldowaniu lub wymeldowaniu.” stawie ustawy.”
+2. Minister właściwy do spraw administracji publicznej, w porozumieniu z Ministrem Obrony Narodowej, określi, w drodze rozporządzenia, zakres i sposób zameldowania oraz wymeldowania żołnierzy w czynnej służbie wojskowej, a także sposób prowadzenia ewidencji ludności w budynkach pozostających w zarządzie organów wojskowych, uwzględniając potrzeby wynikające z konieczności zapewnienia ochrony informacji niejawnych.
 
-**Art. 4.** Wustawie zdnia 15 listopada 1956 r. ozmianie imion inazwisk (Dz. U. z1963 r. 59, poz. 328 oraz z 1998 r. 106, poz. 668 i 117, poz. 757) wart.11adotychczasową treść oznacza się jako ust. 1 idodaje się ust. 2 i3 wbrzmieniu: Ń2. Wojewodowie sprawują nadzór nad działalnością organów powiatu wzakresie realizacji obowiązków określonych wustawie. 3. Wojewoda jest organem odwoławczym od orzeczeń administracyjnych wydanych przez organy powiatu podstawie ustawy.”
+3. Minister właściwy do spraw administracji publicznej może w celu zapewnienia porządku i bezpieczeństwa publicznego, a także zwalczania klęsk żywiołowych i zagrożenia bezpieczeństwa państwa wprowadzić, w drodze rozporządzenia, na czas określony obowiązek zameldowania się z chwilą przybycia do danej miejscowości oraz obowiązek zgłoszenia wyjazdu z danej miejscowości, uwzględniając określenie szczegółowego sposobu i terminu szone przy zameldowaniu lub wymeldowaniu.”.
 
-**Art. 5.** Zbiory meldunkowe oraz zbiory wydanych dowodów osobistych prowadzone systemie kartotecznym wdniu wejścia wżycie ustawy mogą być nadal prowadzone wtym systemie, nie dłużej jednak niż do dnia 31 grudnia 2005 r.
+**Art. 2.** W ustawie z dnia 20 sierpnia 1997 r. o zmianie ustawy o ewidencji ludności i dowodach osobistych oraz ustawy o działalności gospodarczej (Dz.U. Nr 113, poz. 733, z 1998 r. Nr 113, poz. 716 oraz z 1999 r. Nr 108, poz. 1227) skreśla się art. 6.
 
-**Art. 6.** Do czasu wydania przepisów wykonawczych
+**Art. 3.** W ustawie z dnia 29 września 1986 r. - Prawo o aktach stanu cywilnego (Dz.U. Nr 36, poz. 180, z 1988 r. Nr 19, poz. 132, z 1989 r. Nr 29, poz. 154, z 1990 r. Nr 34, poz. 198, z 1995 r. Nr 83, poz. 417, z 1998 r. Nr 117, poz. 757 oraz z 1999 r. Nr 52, poz. 532) w art. 8 wprowadza się następujące zmiany:
 
-**Art. 2.** Wustawie zdnia 20 sierpnia 1997 r. ozmia- przewidzianych wniniejszej ustawie, nie dłużej jednak nie ustawy ewidencji ludności i dowodach osobi- niż do dnia 31 grudnia 2002 r., zachowują moc dotychstych oraz ustawy działalności gospodarczej (Dz. U. czasowe przepisy wykonawcze, ile nie są sprzeczne 113, poz. 733, z 1998 r. 113, poz. 716 i z 1999 r. zprzepisami tej ustawy. Nr108, poz. 1227) skreśla się art. 6.
+**Art. 4.** W ustawie z dnia 15 listopada 1956 r. o zmianie imion i nazwisk (Dz.U. z 1963 r. Nr 59, poz. 328 oraz z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 757) w art. 11a dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 i 3 w brzmieniu: „2. Wojewodowie sprawują nadzór nad działalnością organów powiatu w zakresie realizacji obowiązków określonych w ustawie. 3. Wojewoda jest organem odwoławczym od orzeczeń administracyjnych wydanych przez organy powiatu na podstawie ustawy.”.
 
-**Art. 3.** Wustawie zdnia 29 września 1986 r. Pra- Art. 7. Marszałek Sejmu, wterminie 6 miesięcy od wo aktach stanu cywilnego (Dz. U. 36, poz. 180, dnia wejścia wżycie niniejszej ustawy, ogłosi wDzienz 1988 r. 19, poz. 132, z 1989 r. 29, poz. 154, niku Rzeczypospolitej Polskiej jednolity tekst z 1990 r. 34, poz. 198, z 1995 r. 83, poz. 417, ustawy zdnia 10 kwietnia 1974 r. oewidencji ludności z 1998 r. 117, poz. 757 i z 1999 r. 52, poz. 532) i dowodach osobistych, z uwzględnieniem zmian wywart. 8 wprowadza się następujące zmiany: nikających z przepisów ogłoszonych przed dniem wydania jednolitego tekstu.
+**Art. 5.**
 
-**Art. 9.** Ustawa wchodzi życie po upływie 14 dni
+1. Zbiory meldunkowe prowadzone w systemie kartotecznym mogą być nadal prowadzone w tym systemie do czasu uzupełnienia zbiorów meldunkowych prowadzonych w systemie informatycznym, nie dłużej jednak niż do dnia 31 grudnia 2010 r.
 
-#### Rozdział 1 Przepisy ogólne
+2. Ewidencja wydanych i utraconych dowodów osobistych (rejestry numerowe) prowadzona w systemie kartotecznym może być nadal prowadzona w tym systemie do czasu zakończenia wymiany książeczkowych dowodów osobistych, nie dłużej jednak niż do dnia 31 grudnia 2007 r.
 
-**Art. 1.**
+**Art. 6.** Do czasu wydania przepisów wykonawczych przewidzianych w niniejszej ustawie, nie dłużej jednak niż do dnia 31 grudnia 2002 r., zachowują moc dotychczasowe przepisy wykonawcze, o ile nie są sprzeczne z przepisami tej ustawy.
 
-1. Ustawa określa środki ochronne przed ny, zwane dalej Ńśrodkami ochronnymi”, oraz zasady i tryb postępowania sprawie stosowania tych środków, zwanegodalej Ńpostępowaniem ochronnym”.
+**Art. 7.** Marszałek Sejmu, w terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy, ogłosi w Dzienniku Ustaw Rzeczypospolitej Polskiej jednolity tekst ustawy z dnia 10 kwietnia 1974 r. o ewidencji ludności i dowodach osobistych, z uwzględnieniem zmian wynikających z przepisów ogłoszonych przed dniem wydania jednolitego tekstu.
 
-2. Przepisów ustawy nie stosuje się do towaru, któ-
+**Art. 8.** Numery ewidencyjne PESEL nadane przed dniem wejścia w życie niniejszej ustawy zachowują ważność.
 
+**Art. 9.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

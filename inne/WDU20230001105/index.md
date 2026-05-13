@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 14 czerwca 2023 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich ramach Programu Rozwoju Obszarów Wiejskich na lata 2007–2013
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 17 kwietnia 2023 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,10 +26,7 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001105) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1105/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 17 kwietnia 2023 r.
-sprawie ogłoszenia jednolitego tekstu ustawy o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich ramach Programu Rozwoju Obszarów Wiejskich na lata 2007–2013
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich ramach Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. z 2022 r. poz. 2138), z uwzględnieniem zmian wprowadzonych ustawą z dnia 8 lutego 2023 r.
-o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. poz. 412) oraz zmian wynikających z przepisów ogłoszonych przed dniem 13 kwietnia 2023 r.
+1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich ramach Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. z 2022 r. poz. 2138), z uwzględnieniem zmian wprowadzonych ustawą z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. poz. 412) oraz zmian wynikających z przepisów ogłoszonych przed dniem 13 kwietnia 2023 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 159 i art. 169 ustawy z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. poz. 412), które stanowią: „Art. 159. 1. W przypadku gdy nie ma podstaw, aby stowarzyszenie działało dalej jako lokalna grupa działania zgodnie z przepisami:
 1) art. 15 ustawy zmienianej art. 134 lub
 2) art. 4 ustawy zmienianej art. 138 marszałek województwa informuje stowarzyszenie o tych okolicznościach terminie 2 miesięcy od dnia wejścia życie niniejszej ustawy.
@@ -64,7 +63,7 @@ o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Fun
 
 - **2)** współpracuje z Komisją Europejską zakresie oceny przekazanego jej projektu programu oraz przeglądu tego programu zgodnie z rozporządzeniem nr 1698/2005.
 
-4. Po zatwierdzeniu programu przez Komisję Europejską minister właściwy do spraw rozwoju wsi ogłasza program, drodze obwieszczenia, Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”. monitorującego, o którym mowa art. 77 rozporządzenia nr 1698/2005. Do zmiany programu przepisy ust. 2–4 stosuje się odpowiednio.
+4. Po zatwierdzeniu programu przez Komisję Europejską minister właściwy do spraw rozwoju wsi ogłasza program, drodze obwieszczenia, Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”. odpowiednio.
 
 **Art. 4.**
 
@@ -101,7 +100,7 @@ o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Fun
 - **13)** płatności dla obszarów NATURA 2000 oraz związanych z wdrażaniem Ramowej Dyrektywy Wodnej;
 - **14)** program rolnośrodowiskowy;
 - **15)** zalesianie gruntów rolnych oraz zalesianie gruntów innych niż rolne;
-- **16)** odtwarzanie potencjału produkcji leśnej zniszczonego przez katastrofy oraz wprowadzanie instrumentów zapobiegawczych; nie odpowiednich działań zapobiegawczych;
+- **16)** odtwarzanie potencjału produkcji leśnej zniszczonego przez katastrofy oraz wprowadzanie instrumentów zapobiegawczych;
 - **17)** różnicowanie kierunku działalności nierolniczej;
 - **18)** tworzenie i rozwój mikroprzedsiębiorstw;
 - **19)** podstawowe usługi dla gospodarki i ludności wiejskiej;
@@ -260,7 +259,7 @@ o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Fun
 
 **Art. 19a.**
 
-1. Minister właściwy do spraw rozwoju wsi porozumieniu z ministrem właściwym do spraw finansów publicznych może podjąć, drodze rozporządzenia, decyzję o wypłacie zaliczek na poczet wypłaty pomocy ramach działania, o którym mowa art. 5 ust. 1 pkt 15, przewidzianą art. 75 ust. 1 akapit trzeci lit. b rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 z dnia 17 grudnia 2013 r. sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylającego rozporządzenia Rady (EWG) nr 352/78, (WE) nr 165/94, (WE) nr 2799/98, (WE) nr 814/2000, (WE) nr 1290/2005 i (WE) nr 485/2008 (Dz. Urz. UE L 347 z 20.12.2013, str. 549, z późn. zm. ), określając tym rozporządzeniu procentową wielkość zaliczek na poczet wypłaty pomocy ramach działania, o którym mowa art. 5 ust. 1 pkt 15, oraz termin rozpoczęcia wypłaty tych zaliczek, mając na względzie przepisy ustawy budżetowej na dany rok i realizację tej ustawy oraz przepisy Unii Europejskiej, o których mowa art. 1 pkt 1 ustawy z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego z 2022 r. poz. 2422, 2433 i 2727 oraz z 2023 r. poz. 412), tym przepisy wydane na podstawie art. 75 ust. 3 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 z dnia 17 grudnia 2013 r. sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylającego rozporządzenia Rady (EWG) nr 352/78, (WE) nr 165/94, (WE) nr 2799/98, (WE) nr 814/2000, (WE) nr 1290/2005 i (WE) nr 485/2008.
+1. Minister właściwy do spraw rozwoju wsi porozumieniu z ministrem właściwym do spraw finansów publicznych może podjąć, drodze rozporządzenia, decyzję o wypłacie zaliczek na poczet wypłaty pomocy ramach działania, o którym mowa art. 5 ust. 1 pkt 15, przewidzianą art. 75 ust. 1 akapit trzeci lit. b rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 z dnia 17 grudnia 2013 r. sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylającego rozporządzenia Rady (EWG) nr 352/78, (WE) nr 165/94, (WE) nr 2799/98, (WE) nr 814/2000, (WE) nr 1290/2005 i (WE) nr 485/2008 (Dz. Urz. UE L 347 z 20.12.2013, str. 549, z późn. zm. ), określając tym rozporządzeniu procentową wielkość zaliczek na poczet wypłaty pomocy ramach działania, o którym mowa art. 5 ust. 1 pkt 15, oraz termin rozpoczęcia wypłaty tych zaliczek, mając na względzie przepisy ustawy budżetowej na dany rok i realizację tej ustawy oraz przepisy Unii Europejskiej, o których mowa art. 1 pkt 1 ustawy z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. z 2022 r. poz. 2422, nia nią i monitorowania jej oraz uchylającego rozporządzenia Rady (EWG) nr 352/78, (WE) nr 165/94, (WE) nr 2799/98, (WE) nr 814/2000, (WE) nr 1290/2005 i (WE) nr 485/2008.
 
 2. Wydając rozporządzenie, o którym mowa ust. 1, minister właściwy do spraw rozwoju wsi porozumieniu z ministrem właściwym do spraw finansów publicznych może określić szczegółowe warunki lub tryb wypłaty zaliczek na poczet wypłaty pomocy ramach działania, o którym mowa art. 5 ust. 1 pkt 15, mając na względzie zabezpieczenie przed nieuzasadnioną wypłatą tych zaliczek.
 
@@ -424,7 +423,7 @@ o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Fun
     - **e)** działania i przypadki, których następcy prawnemu beneficjenta albo nabywcy gospodarstwa rolnego lub jego części albo przedsiębiorstwa lub jego części albo przejmującemu posiadanie gospodarstwa rolnego lub jego części może być przyznana pomoc oraz warunki i tryb przyznania tej pomocy mając na względzie zapewnienie prawidłowej realizacji programu oraz specyfikę poszczególnych działań;
 
 - **2)** szczegółowe kryteria i sposób wyboru lokalnej grupy działania do realizacji lokalnej strategii rozwoju, tym szczegółowe wymagania, jakim powinna odpowiadać umowa, o której mowa art. 14 ust. 3, mając na względzie realizację celów określonych art. 4 ust. 1 rozporządzenia nr 1698/2005 ramach podejścia Leader;
-- **3)** szczegółowe warunki i tryb przyznawania, wypłaty lub zwracania pomocy technicznej, tym tryb składania wniosków o przyznanie pomocy technicznej, szczegółowe wymagania, jakim powinny odpowiadać te wnioski oraz umowa, na podstawie której przyznaje się tę pomoc, mając na względzie zapewnienie prawidłowej realizacji programu i specyfikę pomocy technicznej. kiem przyznania pomocy jest spełnianie, ramach wzajemnej zgodności rozumieniu art. 19 ust. 1 rozporządzenia Komisji (UE) nr 65/2011 z dnia 27 stycznia 2011 r. ustanawiającego szczegółowe zasady wykonania rozporządzenia Rady (WE) nr 1698/2005 odniesieniu do wprowadzenia procedur kontroli oraz do zasady wzajemnej zgodności zakresie środków wsparcia rozwoju obszarów wiejskich (Dz. Urz. UE L 25 z 28.01.2011, str. 8), wymogów, norm lub minimalnych wymogów dotyczących stosowania nawozów i środków ochrony roślin, minister właściwy do spraw rozwoju wsi określi:
+- **3)** szczegółowe warunki i tryb przyznawania, wypłaty lub zwracania pomocy technicznej, tym tryb składania wniosków o przyznanie pomocy technicznej, szczegółowe wymagania, jakim powinny odpowiadać te wnioski oraz umowa, na podstawie której przyznaje się tę pomoc, mając na względzie zapewnienie prawidłowej realizacji programu i specyfikę pomocy technicznej. nr 65/2011 z dnia 27 stycznia 2011 r. ustanawiającego szczegółowe zasady wykonania rozporządzenia Rady (WE) nr 1698/2005 odniesieniu do wprowadzenia procedur kontroli oraz do zasady wzajemnej zgodności zakresie środków wsparcia rozwoju obszarów wiejskich (Dz. Urz. UE L 25 z 28.01.2011, str. 8), wymogów, norm lub minimalnych wymogów dotyczących stosowania nawozów i środków ochrony roślin, minister właściwy do spraw rozwoju wsi określi:
 - **1)** sposób dokonywania oceny wagi stwierdzonej niezgodności, o której mowa art. 54 ust. 1 lit. c rozporządzenia nr 1122/2009, przypadku niezgodności zakresie minimalnych wymogów dotyczących stosowania nawozów i środków ochrony roślin;
 - **2)** wyrażoną procentach wielkość zmniejszenia pomocy zależności od dokonanej oceny wagi stwierdzonej niezgodności, a także przypadki, które uznaje się za drobną niezgodność, biorąc pod uwagę przeprowadzanie oceny zgodnie z zasadami określonymi art. 51 ust. 4 rozporządzenia nr 1698/2005, art. 47, art. 71 i art. 72 rozporządzenia nr 1122/2009, jak również wielkość gospodarstwa rolnego oraz jego położenie geograficzne;
 - **3)** szczegółowe warunki i tryb podejmowania działań, o których mowa art. 51 ust. 2 i art. 51 ust. 4 lit. a rozporządzenia nr 1698/2005, przypadku niestosowania zmniejszeń lub wykluczeń określonych tych przepisach, mając na względzie zapewnienie współmierności tych działań do rodzaju stwierdzonych niezgodności i ograniczenie ich nadmiernej uciążliwości dla beneficjenta.
@@ -453,7 +452,7 @@ o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Fun
 
 **Art. 31.**
 
-1. Czynności ramach kontroli na miejscu oraz czynności ramach wizytacji miejscu, zwane dalej „czynnościami kontrolnymi”, są wykonywane przez osoby posiadające imienne upoważnienie do ich wykonywania wydane przez organ agencji płatniczej lub przez właściwy organ podmiotu wdrażającego. imienne upoważnienie, o którym mowa ust. 1.
+1. Czynności ramach kontroli na miejscu oraz czynności ramach wizytacji miejscu, zwane dalej „czynnościami kontrolnymi”, są wykonywane przez osoby posiadające imienne upoważnienie do ich wykonywania wydane przez organ agencji płatniczej lub przez właściwy organ podmiotu wdrażającego.
 
 3. Imienne upoważnienie, o którym mowa ust. 1, zawiera wskazanie osoby upoważnionej do wykonywania czynności kontrolnych, miejsce i zakres oraz podstawę prawną do ich wykonania.
 
@@ -533,7 +532,7 @@ o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Fun
 - **1)** oznaczenie podmiotu, któremu udzielono akredytacji;
 - **2)** określenie rodzaju usług doradczych, których dotyczy akredytacja.
 
-6. Podmiot, który otrzymał akredytację, informuje niezwłocznie ministra właściwego do spraw rozwoju wsi o wszelkich zmianach stanu faktycznego i prawnego zakresie spełniania warunków, o których mowa ust. 2. przestał spełniać warunki, o których mowa ust. 2.
+6. Podmiot, który otrzymał akredytację, informuje niezwłocznie ministra właściwego do spraw rozwoju wsi o wszelkich zmianach stanu faktycznego i prawnego zakresie spełniania warunków, o których mowa ust. 2. stał spełniać warunki, o których mowa ust. 2.
 
 8. Podmiot, któremu minister właściwy do spraw rozwoju wsi cofnął akredytację, może ponownie ubiegać się o jej udzielenie po upływie 3 lat od dnia cofnięcia akredytacji.
 
@@ -582,7 +581,7 @@ o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Fun
 4. Do zadań sekretariatów regionalnych należy zapewnienie funkcjonowania KSOW poszczególnych województwach, szczególności przez:
 
 - **1)** współpracę z podmiotami wymienionymi art. 6 ust. 1 rozporządzenia nr 1698/2005 poszczególnych województwach;
-- **2)** przygotowanie i realizację planu działania, o którym mowa art. 68 ust. 2 lit. b rozporządzenia nr 1698/2005, zakresie dotyczącym poszczególnych województw. gionalnych wykonują zarządy województw.
+- **2)** przygotowanie i realizację planu działania, o którym mowa art. 68 ust. 2 lit. b rozporządzenia nr 1698/2005, zakresie dotyczącym poszczególnych województw.
 
 6. Minister właściwy do spraw rozwoju wsi może powołać, drodze zarządzenia, organ opiniodawczo-doradczy zakresie funkcjonowania KSOW, skład którego wchodzą przedstawiciele podmiotów, o których mowa art. 6 ust. 1 rozporządzenia nr 1698/2005, tym sekretariatów regionalnych.
 

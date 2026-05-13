@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 12 sierpnia 2019 r.
+# o okresie przejściowym, o którym mowa w Umowie o wystąpieniu Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej z Unii Europejskiej i Europejskiej Wspólnoty Energii Atomowej
+
+*USTAWA z dnia 19 lipca 2019 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +25,6 @@ domain: null
 | Data wydania | 2019-08-12 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001516) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1516/text.pdf) |
-
-Poz. 1516
-USTAWA z dnia 19 lipca 2019 r.
-o okresie przejściowym, o którym mowa w Umowie o wystąpieniu Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej z Unii Europejskiej i Europejskiej Wspólnoty Energii Atomowej
 
 **Art. 1.** Ilekroć w przepisach odrębnych jest mowa o państwie członkowskim Unii Europejskiej lub Europejskiej Wspólnoty Energii Atomowej, w okresie przejściowym, o którym mowa w art. 126 Umowy o wystąpieniu Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej z Unii Europejskiej i Europejskiej Wspólnoty Energii Atomowej (Dz. Urz. UE C 144 I z 25.04.2019, str. 1), rozumie się przez to również Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej.
 

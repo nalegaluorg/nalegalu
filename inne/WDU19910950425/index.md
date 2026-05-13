@@ -23,7 +23,7 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 1991-09-07 |
 | Data wydania | 1991-10-25 |
-| Ostatnia zmiana | 2026-04-01 |
+| Ostatnia zmiana | 2026-04-29 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19910950425) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1991/425/text.pdf) |
 
 Art. 44zs. Egzamin ósmoklasisty jest przeprowadzany na podstawie wymagań określonych w podstawie programowej kształcenia ogólnego dla szkoły podstawowej, o której mowa w przepisach wydanych na podstawie art. 47 ust. 1 pkt 1 lit. b ustawy – Prawo oświatowe, oraz sprawdza, w jakim stopniu uczeń lub słuchacz spełnia te wymagania.

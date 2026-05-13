@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 września 2015 r.
+# 1. Na podstawie art. 16 ust. 1 zdanie pierwsze dnia 20 lipca 2000 o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. 2011 Nr 197, poz. 1172 i Nr 232, poz. 1378 oraz 2015 poz. 1045 i 1224) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst dnia 12 września 2002 o normalizacji (Dz. U. Nr 169, poz. 1386), uwzględnieniem zmian wprowadzonych:
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ dnia 8 września 2015 sprawie ogłoszenia jednolitego tekstu o normalizacji*
 
 | Pole | Wartość |
 |---|---|
@@ -24,33 +26,28 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001483) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1483/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 8 września 2015 r.
-sprawie ogłoszenia jednolitego tekstu ustawy o normalizacji
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2011 r. Nr 197, poz. 1172 i Nr 232, poz. 1378 oraz z 2015 r. poz. 1045 i 1224) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 12 września 2002 r.
-o normalizacji (Dz. U. Nr 169, poz. 1386), z uwzględnieniem zmian wprowadzonych:
-1) ustawą z dnia 25 listopada 2004 r. o zmianie ustawy o finansach publicznych oraz o zmianie niektórych ustaw (Dz. U. Nr 273, poz. 2703),
-2) ustawą z dnia 17 czerwca 2005 r. o zmianie ustawy o służbie cywilnej oraz niektórych innych ustaw (Dz. U. Nr 132, poz. 1110),
-3) ustawą z dnia 24 sierpnia 2006 r. o państwowym zasobie kadrowym i wysokich stanowiskach państwowych (Dz. U.
+1) ustawą dnia 25 listopada 2004 o zmianie o finansach publicznych oraz o zmianie niektórych ustaw (Dz. U. Nr 273, poz. 2703),
+2) ustawą dnia 17 czerwca 2005 o zmianie o służbie cywilnej oraz niektórych innych ustaw (Dz. U. Nr 132, poz. 1110),
+3) ustawą dnia 24 sierpnia 2006 o państwowym zasobie kadrowym i wysokich stanowiskach państwowych (Dz. U.
 Nr 170, poz. 1217),
-4) ustawą z dnia 21 listopada 2008 r. o służbie cywilnej (Dz. U. Nr 227, poz. 1505) oraz zmian wynikających z przepisów ogłoszonych przed dniem 7 września 2015 r.
-2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 80 ustawy z dnia 25 listopada 2004 r. o zmianie ustawy o finansach publicznych oraz o zmianie niektórych ustaw (Dz. U. Nr 273, poz. 2703), który stanowi: „Art. 80. Ustawa wchodzi życie z dniem 1 stycznia 2005 r., z wyjątkiem art. 26 pkt 2, który wchodzi życie z dniem 1 stycznia 2006 r.”;
-2) art. 19 i art. 21 ustawy z dnia 17 czerwca 2005 r. o zmianie ustawy o służbie cywilnej oraz niektórych innych ustaw (Dz. U. Nr 132, poz. 1110), które stanowią: „Art. 19. Sprawy, które zostały wszczęte, a niezakończone przed dniem wejścia życie niniejszej ustawy, podlegają rozpoznaniu według przepisów ustaw, o których mowa art. 1–18, brzmieniu nadanym niniejszą ustawą.” „Art. 21. Ustawa wchodzi życie po upływie 30 dni od dnia ogłoszenia.”;
-3) art. 84 i art. 89 ustawy z dnia 24 sierpnia 2006 r. o państwowym zasobie kadrowym i wysokich stanowiskach państwowych (Dz. U. Nr 170, poz. 1217), które stanowią: „Art. 84. Postępowania dotyczące konkursów na stanowiska, o których mowa art. 4, wszczęte na podstawie dotychczasowych przepisów i niezakończone do dnia wejścia życie ustawy ulegają zakończeniu z tym dniem.
+4) ustawą dnia 21 listopada 2008 o służbie cywilnej (Dz. U. Nr 227, poz. 1505) oraz zmian wynikających przepisów ogłoszonych przed dniem 7 września 2015
+2. Podany załączniku do niniejszego obwieszczenia tekst jednolity nie obejmuje:
+1) art. 80 dnia 25 listopada 2004 o zmianie o finansach publicznych oraz o zmianie niektórych ustaw (Dz. U. Nr 273, poz. 2703), który stanowi: „Art. 80. Ustawa wchodzi życie dniem 1 stycznia 2005 r., wyjątkiem art. 26 pkt 2, który wchodzi życie dniem 1 stycznia 2006 r.”;
+2) art. 19 i art. 21 dnia 17 czerwca 2005 o zmianie o służbie cywilnej oraz niektórych innych ustaw (Dz. U. Nr 132, poz. 1110), które stanowią: „Art. 19. Sprawy, które zostały wszczęte, a niezakończone przed dniem wejścia życie niniejszej ustawy, podlegają rozpoznaniu według przepisów ustaw, o których mowa art. 1–18, brzmieniu nadanym niniejszą ustawą.” „Art. 21. Ustawa wchodzi życie po upływie 30 dni od dnia ogłoszenia.”;
+3) art. 84 i art. 89 dnia 24 sierpnia 2006 o państwowym zasobie kadrowym i wysokich stanowiskach państwowych (Dz. U. Nr 170, poz. 1217), które stanowią: „Art. 84. Postępowania dotyczące konkursów na stanowiska, o których mowa art. 4, wszczęte na podstawie dotychczasowych przepisów i niezakończone do dnia wejścia życie ulegają zakończeniu tym dniem.
 Obsadzanie stanowisk, o których mowa art. 4, następuje na podstawie przepisów niniejszej ustawy.” „Art. 89. Ustawa wchodzi życie po upływie 30 dni od dnia ogłoszenia.”;
-„Art. 199. 1. Stosunek pracy na podstawie powołania osoby zajmującej dniu wejścia życie ustawy stanowisko:
+4) art. 199, art. 202 i art. 214–216 dnia 21 listopada 2008 o służbie cywilnej (Dz. U. Nr 227, poz. 1505), które stanowią: „Art. 199. 1. Stosunek pracy na podstawie powołania osoby zajmującej dniu wejścia życie stanowisko:
 1) kierownika centralnego urzędu administracji rządowej i jego zastępcy,
 2) prezesa agencji państwowej i jego zastępcy,
 3) prezesa zarządu państwowego funduszu celowego i jego zastępcy,
 4) Prezesa Narodowego Funduszu Zdrowia i jego zastępcy,
-5) kierownika państwowej jednostki organizacyjnej podległej lub nadzorowanej przez Prezesa Rady Ministrów lub właściwego ministra i jego zastępcy objęte przepisami ustawy uchylanej art. 214, nie ulega zmianie.
-2. Członek korpusu służby cywilnej zajmujący dniu wejścia życie ustawy stanowisko, o którym mowa ust. 1, może korzystać z urlopu bezpłatnego udzielonego na czas powołania na to stanowisko, do dnia ustania stosunku pracy na tym stanowisku. Po zakończeniu urlopu bezpłatnego dyrektor generalny urzędu wyznacza członkowi korpusu służby cywilnej stanowisko pracy, co najmniej równorzędne pod względem płacowym ze stanowiskiem zajmowanym przed powołaniem na wysokie stanowisko państwowe oraz zgodne z jego kwalifikacjami i przygotowaniem zawodowym.” „Art. 202. W okresie 10 lat od dnia wejścia życie ustawy warunek posiadania kompetencji kierowniczych na stanowiskach, o których mowa art. 52 oraz ustawach zmienianych art. 135–139, 141–143, 145–147, 149–156, 158, 159, 161–185 oraz 187–189, uważa się za spełniony przez osoby, które:
-1) uzyskały świadectwo potwierdzające kwalifikacje do pracy na wysokim stanowisku państwowym, wydane na podstawie art. 7 ust. 5 lub art. 8 ust. 7 ustawy uchylanej art. 214;
-2) wyniku postępowania kwalifikacyjnego dla pracowników służby cywilnej ubiegających się o mianowanie służbie cywilnej osiągnęły miejsce uprawniające do mianowania na podstawie ustawy uchylanej art. 215.” „Art. 214. Traci moc ustawa z dnia 24 sierpnia 2006 r. o państwowym zasobie kadrowym i wysokich stanowiskach państwowych (Dz. U. Nr 170, poz. 1217, z późn. zm. ).
+2. Członek korpusu służby cywilnej zajmujący dniu wejścia życie stanowisko, o którym mowa ust. 1, może korzystać urlopu bezpłatnego udzielonego na czas powołania na to stanowisko, do dnia ustania stosunku pracy na tym stanowisku. Po zakończeniu urlopu bezpłatnego dyrektor generalny urzędu wyznacza członkowi korpusu służby cywilnej stanowisko pracy, co najmniej równorzędne pod względem płacowym ze stanowiskiem zajmowanym przed powołaniem na wysokie stanowisko państwowe oraz zgodne jego kwalifikacjami i przygotowaniem zawodowym.” „Art. 202. W okresie 10 lat od dnia wejścia życie warunek posiadania kompetencji kierowniczych na stanowiskach, o których mowa art. 52 oraz ustawach zmienianych art. 135–139, 141–143, 145–147, 149–156, 158, 159, 161–185 oraz 187–189, uważa się za spełniony przez osoby, które:
+1) uzyskały świadectwo potwierdzające kwalifikacje do pracy na wysokim stanowisku państwowym, wydane na podstawie art. 7 ust. 5 lub art. 8 ust. 7 uchylanej art. 214;
+2) wyniku postępowania kwalifikacyjnego dla pracowników służby cywilnej ubiegających się o mianowanie służbie cywilnej osiągnęły miejsce uprawniające do mianowania na podstawie uchylanej art. 215.” „Art. 214. Traci moc ustawa dnia 24 sierpnia 2006 o państwowym zasobie kadrowym i wysokich stanowiskach państwowych (Dz. U. Nr 170, poz. 1217, późn. zm. ).
 
-**Art. 215.** Traci moc ustawa z dnia 24 sierpnia 2006 r. o służbie cywilnej (Dz. U. Nr 170, poz. 1218, z późn. zm. ), z wyjątkiem art. 6 ust. 1, art. 19–22, art. 24 i art. 26–28, które tracą moc z dniem 31 grudnia 2009 r.
+**Art. 215.** Traci moc ustawa dnia 24 sierpnia 2006 o służbie cywilnej (Dz. U. Nr 170, poz. 1218, późn. zm. ), wyjątkiem art. 6 ust. 1, art. 19–22, art. 24 i art. 26–28, które tracą moc dniem 31 grudnia 2009
 
-**Art. 216.** Ustawa wchodzi życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem art. 7 ust. 1, art. 40–43, art. 45, art. 47–49, art. 160 i art. 186 pkt 2–6, które wchodzą życie z dniem 1 stycznia 2010 r.”. Marszałek Sejmu: M. Kidawa-Błońska USTAWA z dnia 12 września 2002 r. o normalizacji
+**Art. 216.** Ustawa wchodzi życie po upływie 3 miesięcy od dnia ogłoszenia, wyjątkiem art. 7 ust. 1, art. 40–43, art. 45, art. 47–49, art. 160 i art. 186 pkt 2–6, które wchodzą życie dniem 1 stycznia 2010 r.”. Marszałek Sejmu: M. Kidawa-Błońska USTAWA dnia 12 września 2002 o normalizacji
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -76,39 +73,39 @@ Obsadzanie stanowisk, o których mowa art. 4, następuje na podstawie przepisów
 
 4. Polskie Normy mogą być powoływane przepisach prawnych po ich opublikowaniu języku polskim.
 
-5. Polskie Normy korzystają z ochrony jak utwory literackie, a autorskie prawa majątkowe do nich przysługują krajowej jednostce normalizacyjnej.
+5. Polskie Normy korzystają ochrony jak utwory literackie, a autorskie prawa majątkowe do nich przysługują krajowej jednostce normalizacyjnej.
 
-6. Przepis ust. 5 stosuje się odpowiednio do norm europejskich i międzynarodowych, z zachowaniem porozumień międzynarodowych.
+6. Przepis ust. 5 stosuje się odpowiednio do norm europejskich i międzynarodowych, zachowaniem porozumień międzynarodowych.
 
-7. Ochrony Polskich Norm, o której mowa ust. 5, nie narusza ustawa z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. z 2014 r. poz. 782 i 1662 oraz z 2015 r. poz. 1240).
+7. Ochrony Polskich Norm, o której mowa ust. 5, nie narusza ustawa dnia 6 września 2001 o dostępie do informacji publicznej (Dz. U. 2014 poz. 782 i 1662 oraz 2015 poz. 1240).
 
 **Art. 6.** Przepisy art. 5 ust. 3 i 5–7 odnoszą się również do innych niż Polskie Normy dokumentów normalizacyjnych zatwierdzonych przez krajową jednostkę normalizacyjną, przy czym dokumenty takie mogą zostać zachowane języku oryginału.
 
 **Art. 7.**
 
-1. Wyroby spełniające wymagania Polskich Norm oznaczane są na zasadzie dobrowolności znakiem zgodności z Polską Normą pod warunkiem uzyskania certyfikatu zgodności upoważniającego do takiego oznaczenia.
+1. Wyroby spełniające wymagania Polskich Norm oznaczane są na zasadzie dobrowolności znakiem zgodności Polską Normą pod warunkiem uzyskania certyfikatu zgodności upoważniającego do takiego oznaczenia.
 
-2. Wyłączne prawo do wyrażenia zgody na oznaczenie wyrobu znakiem zgodności z Polską Normą przysługuje krajowej jednostce normalizacyjnej.
+2. Wyłączne prawo do wyrażenia zgody na oznaczenie wyrobu znakiem zgodności Polską Normą przysługuje krajowej jednostce normalizacyjnej.
 
-3. Prezes Polskiego Komitetu Normalizacyjnego może upoważnić jednostki certyfikujące, powołane na mocy odrębnych przepisów, do wydawania certyfikatu zgodności z Polską Normą.
+3. Prezes Polskiego Komitetu Normalizacyjnego może upoważnić jednostki certyfikujące, powołane na mocy odrębnych przepisów, do wydawania certyfikatu zgodności Polską Normą.
 
-4. Uzyskanie certyfikatu, o którym mowa ust. 3, jest równoznaczne z uzyskaniem prawa do oznaczenia wyrobu znakiem zgodności z Polską Normą.
+4. Uzyskanie certyfikatu, o którym mowa ust. 3, jest równoznaczne uzyskaniem prawa do oznaczenia wyrobu znakiem zgodności Polską Normą.
 
-5. Rada Ministrów określi, drodze rozporządzenia, sposób nadawania i wykorzystywania znaku zgodności z Polską Normą, mając na względzie ułatwienie producentom i dystrybutorom oznaczania wyrobów znakiem zgodności z Polską Normą oraz uwzględniając:
+5. Rada Ministrów określi, drodze rozporządzenia, sposób nadawania i wykorzystywania znaku zgodności Polską Normą, mając na względzie ułatwienie producentom i dystrybutorom oznaczania wyrobów znakiem zgodności Polską Normą oraz uwzględniając:
 
 - **1)** cele systemu stosowania znaku zgodności;
 - **2)** wymagania stawiane wyrobom, które mają być oznaczone znakiem zgodności;
 - **3)** zasady wydawania certyfikatu zgodności.
 
-6. Producent lub osoba wprowadzająca wyroby do obrotu może zadeklarować ich zgodność z Polskimi Normami deklaracją zgodności wydaną na własną odpowiedzialność, przy czym wymagania stawiane takiej deklaracji określają Polskie Normy.
+6. Producent lub osoba wprowadzająca wyroby do obrotu może zadeklarować ich zgodność Polskimi Normami deklaracją zgodności wydaną na własną odpowiedzialność, przy czym wymagania stawiane takiej deklaracji określają Polskie Normy.
 
 7. Deklaracja zgodności nie upoważnia do oznaczenia wyrobu znakiem zgodności, o którym mowa ust. 1.
 
-8. Sprawy sporne wynikające z oceny zgodności z Polską Normą, dotyczące interpretacji postanowień Polskich Norm, rozstrzyga Prezes Polskiego Komitetu Normalizacyjnego, po zasięgnięciu opinii właściwego komitetu technicznego. dokumenty normalizacyjne, tym Normy Obronne, co do których nie jest wymagane spełnienie zasad normalizacji wymienionych art. 4 oraz art. 5 ust. 3 i 5–7.
+8. Sprawy sporne wynikające oceny zgodności Polską Normą, dotyczące interpretacji postanowień Polskich Norm, rozstrzyga Prezes Polskiego Komitetu Normalizacyjnego, po zasięgnięciu opinii właściwego komitetu technicznego. czeństwa mogą być opracowywane, zatwierdzane i wycofywane, przez inne niż Polski Komitet Normalizacyjny jednostki, dokumenty normalizacyjne, tym Normy Obronne, co do których nie jest wymagane spełnienie zasad normalizacji wymienionych art. 4 oraz art. 5 ust. 3 i 5–7.
 
 2. Rada Ministrów określi, drodze rozporządzenia, celu zapewnienia obszarze normalizacji ochrony interesów państwa zakresie obronności i bezpieczeństwa:
 
-- **1)** sposób organizacji i prowadzenia przez Polski Komitet Normalizacyjny oraz Ministra Obrony Narodowej i ministra właściwego do spraw wewnętrznych normalizacji związanej z obronnością i bezpieczeństwem państwa;
+- **1)** sposób organizacji i prowadzenia przez Polski Komitet Normalizacyjny oraz Ministra Obrony Narodowej i ministra właściwego do spraw wewnętrznych normalizacji związanej obronnością i bezpieczeństwem państwa;
 - **2)** rodzaje dokumentów normalizacyjnych dotyczących obronności i bezpieczeństwa państwa;
 - **3)** tryb opracowywania, zatwierdzania i stosowania dokumentów normalizacyjnych dotyczących obronności i bezpieczeństwa państwa, tym Norm Obronnych, zakresie, który nie może być ujęty Polskich Normach;
 - **4)** tryb zatwierdzania i wprowadzania do stosowania zagranicznych dokumentów normalizacyjnych dotyczących obronności i bezpieczeństwa państwa.
@@ -117,7 +114,7 @@ Obsadzanie stanowisk, o których mowa art. 4, następuje na podstawie przepisów
 
 **Art. 9.**
 
-1. Tworzy się Polski Komitet Normalizacyjny, zwany dalej „PKN”, jako krajową jednostkę normalizacyjną zapewniającą realizację celów wymienionych art. 3, zgodnie z zasadami wymienionymi art. 4.
+1. Tworzy się Polski Komitet Normalizacyjny, zwany dalej „PKN”, jako krajową jednostkę normalizacyjną zapewniającą realizację celów wymienionych art. 3, zgodnie zasadami wymienionymi art. 4.
 
 2. PKN jest państwową jednostką organizacyjną.
 
@@ -130,26 +127,26 @@ Obsadzanie stanowisk, o których mowa art. 4, następuje na podstawie przepisów
 1. Prezes Rady Ministrów sprawuje nadzór nad PKN zakresie spraw dotyczących:
 
 - **1)** obronności i bezpieczeństwa państwa;
-- **2)** realizacji zadań wynikających z podjętej współpracy z organami administracji rządowej;
-- **3)** realizacji zadań wynikających z zawartych przez Rzeczpospolitą Polską umów międzynarodowych.
+- **2)** realizacji zadań wynikających podjętej współpracy organami administracji rządowej;
+- **3)** realizacji zadań wynikających zawartych przez Rzeczpospolitą Polską umów międzynarodowych.
 
 2. W sprawach, o których mowa ust. 1, Prezes Rady Ministrów sprawuje nadzór, wydając Prezesowi PKN wiążące wytyczne i polecenia.
 
-**Art. 11.** Do zadań PKN należy organizowanie i prowadzenie normalizacji krajowej zgodnie z potrzebami kraju, tym:
+**Art. 11.** Do zadań PKN należy organizowanie i prowadzenie normalizacji krajowej zgodnie potrzebami kraju, tym:
 
 **Art. 12.**
 
-1. PKN uczestniczy krajowym systemie notyfikacji norm i aktów prawnych, szczególności prowadząc krajowy punkt informacyjny. administracji rządowej oraz państwowe jednostki organizacyjne celu realizacji zobowiązań wynikających z wiążących Rzeczpospolitą Polską umów międzynarodowych.
+1. PKN uczestniczy krajowym systemie notyfikacji norm i aktów prawnych, szczególności prowadząc krajowy punkt informacyjny. i aktów prawnych, mając na względzie konieczność precyzyjnego podziału zadań tym zakresie między właściwe organy administracji rządowej oraz państwowe jednostki organizacyjne celu realizacji zobowiązań wynikających wiążących Rzeczpospolitą Polską umów międzynarodowych.
 
 **Art. 13.**
 
-1. PKN współdziała z organami administracji rządowej szczególności poprzez:
+1. PKN współdziała organami administracji rządowej szczególności poprzez:
 
 - **1)** wzajemne informowanie się o zdarzeniach zachodzących gospodarce, administracji publicznej i normalizacji kontekście ich wzajemnego związku;
-- **2)** uzgadnianie potrzeb tłumaczenia na język polski norm europejskich z zakresu ochrony życia, zdrowia, środowiska, mienia oraz bezpieczeństwa pracy i użytkowania, wprowadzonych do Polskich Norm języku oryginału;
+- **2)** uzgadnianie potrzeb tłumaczenia na język polski norm europejskich zakresu ochrony życia, zdrowia, środowiska, mienia oraz bezpieczeństwa pracy i użytkowania, wprowadzonych do Polskich Norm języku oryginału;
 - **3)** uzgadnianie potrzeb sporządzania dokumentów zawierających wymagania techniczne procesie opracowywania projektów aktów normatywnych.
 
-2. Rada Ministrów określi, drodze rozporządzenia, sposoby współdziałania PKN z organami administracji rządowej, uwzględniając konieczność zapewnienia udziału organów administracji rządowej procesie opiniowania projektów Polskich Norm i innych dokumentów normalizacyjnych.
+2. Rada Ministrów określi, drodze rozporządzenia, sposoby współdziałania PKN organami administracji rządowej, uwzględniając konieczność zapewnienia udziału organów administracji rządowej procesie opiniowania projektów Polskich Norm i innych dokumentów normalizacyjnych.
 
 **Art. 14.**
 
@@ -162,11 +159,11 @@ Obsadzanie stanowisk, o których mowa art. 4, następuje na podstawie przepisów
 2. Do zadań Prezesa należy szczególności:
 
 - **1)** powoływanie i odwoływanie komitetów technicznych;
-- **2)** zatwierdzanie i wycofywanie, imieniu PKN, Polskich Norm i innych dokumentów normalizacyjnych na wniosek komitetów technicznych, z uwzględnieniem zasad normalizacji krajowej wymienionych art. 4;
+- **2)** zatwierdzanie i wycofywanie, imieniu PKN, Polskich Norm i innych dokumentów normalizacyjnych na wniosek komitetów technicznych, uwzględnieniem zasad normalizacji krajowej wymienionych art. 4;
 - **3)** podejmowanie decyzji sprawach dotyczących działalności PKN;
 - **4)** wydawanie przepisów wewnętrznych PKN;
-- **5)** współpraca z Radą Normalizacyjną, tym zasięganie opinii Rady sprawach, o których mowa art. 18 ust. 4;
-- **6)** składanie rocznych sprawozdań z działalności PKN Radzie Normalizacyjnej i Prezesowi Rady Ministrów terminie do 30 czerwca następnego roku kalendarzowego;
+- **5)** współpraca Radą Normalizacyjną, tym zasięganie opinii Rady sprawach, o których mowa art. 18 ust. 4;
+- **6)** składanie rocznych sprawozdań działalności PKN Radzie Normalizacyjnej i Prezesowi Rady Ministrów terminie do 30 czerwca następnego roku kalendarzowego;
 - **7)** reprezentowanie PKN na zewnątrz;
 - **8)** zarządzanie mieniem PKN.
 
@@ -180,14 +177,14 @@ Obsadzanie stanowisk, o których mowa art. 4, następuje na podstawie przepisów
 
 - **1)** posiada tytuł zawodowy magistra lub równorzędny;
 - **2)** jest obywatelem polskim;
-- **3)** korzysta z pełni praw publicznych;
+- **3)** korzysta pełni praw publicznych;
 - **4)** nie była skazana prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
 - **5)** posiada kompetencje kierownicze;
 - **6)** posiada co najmniej 6-letni staż pracy, tym co najmniej 3-letni staż pracy na stanowisku kierowniczym;
-- **7)** posiada wykształcenie i wiedzę z zakresu spraw należących do właściwości PKN. o dostępie do informacji publicznej, i Biuletynie Informacji Publicznej Kancelarii Prezesa Rady Ministrów. Ogłoszenie powinno zawierać:
+- **7)** posiada wykształcenie i wiedzę zakresu spraw należących do właściwości PKN. dostępnym siedzibie PKN oraz Biuletynie Informacji Publicznej, o którym mowa ustawie dnia 6 września 2001 o dostępie do informacji publicznej, i Biuletynie Informacji Publicznej Kancelarii Prezesa Rady Ministrów. Ogłoszenie powinno zawierać:
 - **1)** nazwę i adres PKN;
 - **2)** określenie stanowiska;
-- **3)** wymagania związane ze stanowiskiem wynikające z przepisów prawa;
+- **3)** wymagania związane ze stanowiskiem wynikające przepisów prawa;
 - **4)** zakres zadań wykonywanych na stanowisku;
 - **5)** wskazanie wymaganych dokumentów;
 - **6)** termin i miejsce składania dokumentów;
@@ -195,7 +192,7 @@ Obsadzanie stanowisk, o których mowa art. 4, następuje na podstawie przepisów
 
 5. Termin, o którym mowa ust. 4 pkt 6, nie może być krótszy niż 10 dni od dnia opublikowania ogłoszenia Biuletynie Informacji Publicznej Kancelarii Prezesa Rady Ministrów.
 
-6. Nabór na stanowisko Prezesa przeprowadza zespół, powołany przez Szefa Kancelarii Prezesa Rady Ministrów z upoważnienia Prezesa Rady Ministrów, liczący co najmniej 3 osoby, których wiedza i doświadczenie dają rękojmię wyłonienia najlepszych kandydatów. W toku naboru ocenia się doświadczenie zawodowe kandydata, wiedzę niezbędną do wykonywania zadań na stanowisku, na które jest przeprowadzany nabór, oraz kompetencje kierownicze.
+6. Nabór na stanowisko Prezesa przeprowadza zespół, powołany przez Szefa Kancelarii Prezesa Rady Ministrów upoważnienia Prezesa Rady Ministrów, liczący co najmniej 3 osoby, których wiedza i doświadczenie dają rękojmię wyłonienia najlepszych kandydatów. W toku naboru ocenia się doświadczenie zawodowe kandydata, wiedzę niezbędną do wykonywania zadań na stanowisku, na które jest przeprowadzany nabór, oraz kompetencje kierownicze.
 
 7. Ocena wiedzy i kompetencji kierowniczych, o których mowa ust. 6, może być dokonana na zlecenie zespołu przez osobę niebędącą członkiem zespołu, która posiada odpowiednie kwalifikacje do dokonania tej oceny.
 
@@ -228,7 +225,7 @@ Obsadzanie stanowisk, o których mowa art. 4, następuje na podstawie przepisów
 
 1. Wynagrodzenie Prezesa i jego zastępców ustala Prezes Rady Ministrów.
 
-2. Prezesowi i jego zastępcom przysługuje nagroda jubileuszowa i odprawa emerytalna według zasad obowiązujących pracowników PKN oraz może być przyznana nagroda roczna według zasad określonych przepisach wydanych na
+2. Prezesowi i jego zastępcom przysługuje nagroda jubileuszowa i odprawa emerytalna według zasad obowiązujących pracowników PKN oraz może być przyznana nagroda roczna według zasad określonych przepisach wydanych na 2013 poz. 254, późn. zm. ).
 
 3. Minister właściwy do spraw pracy ustali, drodze rozporządzenia, wysokość wynagrodzeń pracowników PKN, biorąc pod uwagę organizację PKN i konieczność zapewnienia właściwej realizacji jego zadań.
 
@@ -236,7 +233,7 @@ Obsadzanie stanowisk, o których mowa art. 4, następuje na podstawie przepisów
 
 - **4)** 1. Nabór kandydatów do zatrudnienia na wolne stanowiska pracy PKN jest otwarty i konkurencyjny.
 
-2. Ogłoszenie o naborze zamieszcza się Biuletynie Informacji Publicznej, o którym mowa ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej, oraz miejscu powszechnie dostępnym jednostce organizacyjnej, której jest prowadzony nabór.
+2. Ogłoszenie o naborze zamieszcza się Biuletynie Informacji Publicznej, o którym mowa ustawie dnia 6 września 2001 o dostępie do informacji publicznej, oraz miejscu powszechnie dostępnym jednostce organizacyjnej, której jest prowadzony nabór.
 
 **Art. 17b.**
 
@@ -285,7 +282,7 @@ Obsadzanie stanowisk, o których mowa art. 4, następuje na podstawie przepisów
 
 2. Kadencja Rady trwa 4 lata.
 
-3. Rada akceptuje coroczne sprawozdania z działalności PKN składane przez Prezesa PKN.
+3. Rada akceptuje coroczne sprawozdania działalności PKN składane przez Prezesa PKN.
 
 - **1)** stanu i kierunków rozwoju normalizacji;
 - **2)** wniosków o powołanie i odwołanie komitetów technicznych;
@@ -309,7 +306,7 @@ Obsadzanie stanowisk, o których mowa art. 4, następuje na podstawie przepisów
 
 3. Członków Rady reprezentujących organy administracji rządowej powołuje i odwołuje Prezes Rady Ministrów na wniosek wskazanego organu administracji rządowej, o którym mowa ust. 2.
 
-4. Rada Ministrów określi, drodze rozporządzenia, sposób przeprowadzenia wyboru pozostałych członków Rady Normalizacyjnej, z uwzględnieniem konieczności przeciwdziałania dominacji któregokolwiek z podmiotów, o których mowa ust. 1 pkt 2–6.
+4. Rada Ministrów określi, drodze rozporządzenia, sposób przeprowadzenia wyboru pozostałych członków Rady Normalizacyjnej, uwzględnieniem konieczności przeciwdziałania dominacji któregokolwiek podmiotów, o których mowa ust. 1 pkt 2–6.
 
 **Art. 20.**
 
@@ -327,7 +324,7 @@ Obsadzanie stanowisk, o których mowa art. 4, następuje na podstawie przepisów
 
 3. Organizację i tryb pracy Rady określa regulamin uchwalony przez Radę.
 
-**Art. 22.** Prezes i jego zastępcy uczestniczą posiedzeniach Rady z głosem doradczym.
+**Art. 22.** Prezes i jego zastępcy uczestniczą posiedzeniach Rady głosem doradczym.
 
 #### Rozdział 5 Komitety techniczne PKN
 
@@ -335,7 +332,7 @@ Obsadzanie stanowisk, o których mowa art. 4, następuje na podstawie przepisów
 
 1. Komitety techniczne realizują cele wymienione art. 3 poprzez opracowywanie Polskich Norm i innych dokumentów normalizacyjnych określonych zakresach tematycznych, między innymi poprzez udział przedstawicieli komitetów technicznych uczestniczących pracach regionalnych i międzynarodowych organizacji normalizacyjnych.
 
-2. W skład komitetu technicznego wchodzą specjaliści delegowani przez organy administracji rządowej, organizacje: gospodarcze, pracodawców, konsumenckie, zawodowe i naukowo-techniczne, szkół wyższych i nauki oraz pracownicy PKN, z zachowaniem zasady reprezentatywności wszystkich zainteresowanych określonym zakresem tematycznym, z uwzględnieniem potrzeb gospodarki krajowej.
+2. W skład komitetu technicznego wchodzą specjaliści delegowani przez organy administracji rządowej, organizacje: gospodarcze, pracodawców, konsumenckie, zawodowe i naukowo-techniczne, szkół wyższych i nauki oraz pracownicy PKN, zachowaniem zasady reprezentatywności wszystkich zainteresowanych określonym zakresem tematycznym, uwzględnieniem potrzeb gospodarki krajowej.
 
 4. Sekretariaty komitetów technicznych prowadzi PKN.
 
@@ -349,9 +346,9 @@ Obsadzanie stanowisk, o których mowa art. 4, następuje na podstawie przepisów
 
 **Art. 24.**
 
-1. Kto oznacza wyroby znakiem zgodności z Polską Normą bez uzyskania certyfikatu zgodności upoważniającego do takiego oznaczenia podlega karze grzywny.
+1. Kto oznacza wyroby znakiem zgodności Polską Normą bez uzyskania certyfikatu zgodności upoważniającego do takiego oznaczenia podlega karze grzywny.
 
-2. Tej samej karze podlega, kto oznacza znakiem zgodności z Polską Normą wyroby niespełniające odpowiednich wymagań Polskiej Normy lub deklaruje zgodność z Polską Normą wyrobów niespełniających tych wymagań.
+2. Tej samej karze podlega, kto oznacza znakiem zgodności Polską Normą wyroby niespełniające odpowiednich wymagań Polskiej Normy lub deklaruje zgodność Polską Normą wyrobów niespełniających tych wymagań.
 
 3. Postępowanie sprawach określonych ust. 1 i 2 następuje trybie przepisów Kodeksu postępowania sprawach o wykroczenia.
 
@@ -365,19 +362,19 @@ Obsadzanie stanowisk, o których mowa art. 4, następuje na podstawie przepisów
 
 **Art. 26.**
 
-1. Pierwsze wybory Rady przeprowadza się według tymczasowego regulaminu wyborów, przyjętego przez Polski Komitet Normalizacyjny uzgodnieniu z Prezesem „Polskiego Komitetu Normalizacyjnego”.
+1. Pierwsze wybory Rady przeprowadza się według tymczasowego regulaminu wyborów, przyjętego przez Polski Komitet Normalizacyjny uzgodnieniu Prezesem „Polskiego Komitetu Normalizacyjnego”.
 
 2. Prezes „Polskiego Komitetu Normalizacyjnego” ogłasza wybory do pierwszej Rady na podstawie regulaminu, o którym mowa ust. 1, nie później niż terminie 3 miesięcy od dnia wejścia życie ustawy.
 
 3. Prezes zwołuje pierwsze posiedzenie Rady nie później niż terminie 6 miesięcy od dnia wejścia życie ustawy.
 
-4. Na pierwszym posiedzeniu Rada przystępuje do realizacji czynności związanych z konkursem na stanowisko Prezesa.
+4. Na pierwszym posiedzeniu Rada przystępuje do realizacji czynności związanych konkursem na stanowisko Prezesa.
 
 **Art. 27.** Z dniem wejścia życie ustawy:
 
-**Art. 28.** Z dniem wejścia życie ustawy zaprzestaje się prowadzenia zbioru norm branżowych; istniejące zbiory zostaną zarchiwizowane przez PKN.
+**Art. 28.** Z dniem wejścia życie zaprzestaje się prowadzenia zbioru norm branżowych; istniejące zbiory zostaną zarchiwizowane przez PKN.
 
-**Art. 29.** Traci moc ustawa z dnia 3 kwietnia 1993 r. o normalizacji (Dz. U. Nr 55, poz. 251, z późn. zm. ).
+**Art. 29.** Traci moc ustawa dnia 3 kwietnia 1993 o normalizacji (Dz. U. Nr 55, poz. 251, późn. zm. ).
 
-**Art. 30.** Ustawa wchodzi życie z dniem 1 stycznia 2003 r.
+**Art. 30.** Ustawa wchodzi życie dniem 1 stycznia 2003
 

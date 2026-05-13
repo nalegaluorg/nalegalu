@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 7 stycznia 2015 r.
+# o ochronie i pomocy dla pokrzywdzonego i świadka
+
+*USTAWA z dnia 28 listopada 2014 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2025-02-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000021) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/21/text.pdf) |
 
-USTAWA z dnia 28 listopada 2014 r.
-o ochronie i pomocy dla pokrzywdzonego i świadka
 Art. 611wd. § 1. W razie wystąpienia państwa członkowskiego Unii Europejskiej, zwanego w niniejszym rozdziale „państwem wydania nakazu”, o wykonanie europejskiego nakazu ochrony, wydanego na podstawie orzeczenia nakładającego na osobę, przeciwko której jest lub było prowadzone postępowanie karne, obowiązek polegający na powstrzymaniu się od przebywania w określonych środowiskach lub miejscach lub kontaktowania się z określonymi osobami, lub zbliżania się do określonych osób, nakaz ten podlega wykonaniu przez prokuratora właściwego miejscowo ze względu na miejsce pobytu osoby podlegającej ochronie.
 § 2. Nakaz powinien zawierać informacje umożliwiające jego prawidłowe wykonanie. Do nakazu powinno być dołączone orzeczenie, o którym mowa w § 1, lub jego odpis poświadczony za zgodność z oryginałem. W odniesieniu do zawartych w nakazie danych dotyczących miejsca pobytu i pracy osoby podlegającej ochronie stosuje się odpowiednio art. 148 § 2b i 2c.
 § 3. Jeżeli prokurator, do którego został skierowany nakaz, nie jest właściwy do nadania mu biegu, przekazuje go właściwemu prokuratorowi i zawiadamia o tym właściwy sąd lub inny organ państwa wydania nakazu.
@@ -50,9 +50,10 @@ Art. 611wh. § 1. W razie otrzymania od właściwego sądu lub innego organu pa�
 § 2. Jeżeli dalsze wykonywanie nakazu nie jest możliwe z przyczyn faktycznych lub prawnych, prokurator niezwłocznie wydaje postanowienie o zaprzestaniu jego wykonywania i zawiadamia o tym właściwy sąd lub inny organ państwa wydania nakazu, osobę, przeciwko której jest lub było prowadzone postępowanie karne, oraz osobę podlegającą ochronie, jeżeli przebywają na terytorium Rzeczypospolitej Polskiej.
 § 3. W razie otrzymania od właściwego sądu lub innego organu państwa wydania nakazu informacji o zmianie obowiązku nałożonego na osobę, przeciwko której jest lub było prowadzone postępowanie karne, prokurator rozpoznaje sprawę wykonania zmienionego nakazu na zasadach określonych w niniejszym rozdziale. Przepisu art. 611wg nie stosuje się, z wyjątkiem § 1 i § 2 pkt 2 i 8.
 Art. 611wi. § 1. O treści postanowienia w przedmiocie wykonania europejskiego nakazu ochrony, o wniesieniu środka odwoławczego od tego postanowienia, o istotnych orzeczeniach zapadłych w trakcie postępowania, jak również o zmianie miejsca pobytu osoby, przeciwko której jest lub było prowadzone postępowanie karne, albo osoby podlegającej ochronie zawiadamia się niezwłocznie właściwy sąd lub inny organ państwa wydania nakazu.
-§ 2. Prokurator zawiadamia niezwłocznie właściwy sąd lub inny organ państwa wydania nakazu o wszelkich okolicznościach mających wpływ na jego wykonanie, w szczególności o naruszeniu nałożonego obowiązku. Zawiadomienie o naruszeniu tego obowiązku następuje w formie zaświadczenia zawierającego informacje dotyczące osoby, przeciwko której jest lub było prowadzone postępowanie karne, oraz naruszonego obowiązku.
-§ 3. W razie uzyskania informacji o naruszeniu nałożonego obowiązku prokurator może przedsięwziąć osobiście lub zlecić Policji sprawdzenie faktów w tym zakresie. Za zgodą osoby podlegającej ochronie prokurator może również wystąpić do właściwego komendanta Policji z wnioskiem o zastosowanie środków ochrony i pomocy przewidzianych w ustawie z dnia 28 listopada 2014 r. o ochronie i pomocy dla pokrzywdzonego i świadka (Dz. U.
-z 2015 r. poz. 21).
+§ 2. Prokurator zawiadamia niezwłocznie właściwy sąd lub inny organ państwa wydania nakazu o wszelkich okolicznościach mających wpływ na jego wykonanie, w szczególności o naruszeniu nałożonego obowiązku.
+Zawiadomienie o naruszeniu tego obowiązku następuje w formie zaświadczenia zawierającego informacje dotyczące osoby, przeciwko której jest lub było prowadzone postępowanie karne, oraz naruszonego obowiązku.
+§ 3. W razie uzyskania informacji o naruszeniu nałożonego obowiązku prokurator może przedsięwziąć osobiście lub zlecić Policji sprawdzenie faktów w tym zakresie. Za zgodą osoby podlegającej ochronie prokurator może również wystąpić do właściwego komendanta Policji z wnioskiem o zastosowanie środków ochrony i pomocy przewidzianych w ustawie z dnia 28 listopada 2014 r. o ochronie i pomocy dla pokrzywdzonego i świadka (Dz. U. z 2015 r.
+poz. 21).
 § 4. W razie ustania przyczyn nałożenia obowiązku lub powstania przyczyn uzasadniających jego uchylenie lub zmianę prokurator może wystąpić do właściwego sądu lub innego organu państwa wydania nakazu o uchylenie lub zmianę nakazu.
 § 5. Zawiadomienia, o których mowa w § 1 i 2, oraz wystąpienie, o którym mowa w § 4, mogą zostać przekazane również przy użyciu urządzeń służących do automatycznego przesyłania danych, w sposób umożliwiający stwierdzenie autentyczności przekazanych dokumentów.
 § 6. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzór zaświadczenia, o którym mowa w § 2, mając na uwadze konieczność udostępnienia państwu wydania nakazu wszelkich niezbędnych informacji umożliwiających podjęcie prawidłowej decyzji.
@@ -63,11 +64,11 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.”;
 
 1. Ustawa określa zasady, warunki i zakres stosowania środków ochrony i pomocy dla pokrzywdzonego i świadka oraz osób im najbliższych, jeżeli w związku z toczącym się albo zakończonym postępowaniem karnym z udziałem pokrzywdzonego lub świadka albo postępowaniem karnym skarbowym z udziałem świadka istnieje zagrożenie dla życia lub zdrowia tych osób.
 
-2. Środki ochrony i pomocy mogą być stosowane przed wszczęciem postępowania karnego lub karnego skarbowego, jeżeli zagrożenie życia lub zdrowia ujawni się w toku podjętych czynności operacyjno-rozpoznawczych lub postępowania sprawdzającego, o którym mowa w art. 307 ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego (Dz. U. Nr 89, poz. 555, z późn. zm. ).
+2. Środki ochrony i pomocy mogą być stosowane przed wszczęciem postępowania karnego lub karnego skarbowego, jeżeli zagrożenie życia lub zdrowia ujawni się w toku podjętych czynności operacyjno-rozpoznawczych lub postępowania sprawdzającego, o którym mowa w art. 307 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. Nr 89, poz. 555, z późn. zm. ).
 
-3. Osobami najbliższymi są osoby wymienione w art. 115 § 11 ustawy z dnia 6 czerwca 1997 r. Kodeks karny (Dz. U. Nr 88, poz. 553, z późn. zm. ).
+3. Osobami najbliższymi są osoby wymienione w art. 115 § 11 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. Nr 88, poz. 553, z późn. zm. ).
 
-4. Wobec pozbawionych wolności: pokrzywdzonego, świadka oraz osób im najbliższych stosuje się przepisy art. 88d ustawy z dnia 6 czerwca 1997 r. Kodeks karny wykonawczy (Dz. U. Nr 90, poz. 557, z późn. zm. ).
+4. Wobec pozbawionych wolności: pokrzywdzonego, świadka oraz osób im najbliższych stosuje się przepisy art. 88d ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. Nr 90, poz. 557, z późn. zm. ).
 
 **Art. 2.** Przy ocenie stopnia zagrożenia dla życia lub zdrowia pokrzywdzonego, świadka lub osób im najbliższych bierze się pod uwagę ich właściwości i warunki osobiste, związek ze sprawcą, rodzaj, sposób i okoliczności popełnienia czynu oraz motywację sprawcy.
 
@@ -89,7 +90,7 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.”;
 
 **Art. 5.**
 
-1. Ochrona osobista może zostać udzielona w przypadku wysokiego stopnia zagrożenia dla życia lub zdrowia osoby chronionej w związku z postępowaniem karnym lub karnym skarbowym, jeżeli zachodzi konieczność długotrwałej ochrony, w sprawach, których rozpoznanie w pierwszej instancji należy do właściwości sądu okręgowego, oraz w sprawach o przestępstwa określone w art. 197 § 1 i 2 oraz art. 207 ustawy z dnia 6 czerwca 1997 r. Kodeks karny, a w szczególnie uzasadnionych przypadkach także w innych sprawach.
+1. Ochrona osobista może zostać udzielona w przypadku wysokiego stopnia zagrożenia dla życia lub zdrowia osoby chronionej w związku z postępowaniem karnym lub karnym skarbowym, jeżeli zachodzi konieczność długotrwałej ochrony, w sprawach, których rozpoznanie w pierwszej instancji należy do właściwości sądu okręgowego, oraz w sprawach o przestępstwa określone w art. 197 § 1, 1a i 2 oraz art. 207 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, a w szczególnie uzasadnionych przypadkach także w innych sprawach.
 
 2. Ochrona osobista może polegać na:
 
@@ -120,7 +121,7 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.”;
 
 2. Wysokość pomocy finansowej, o której mowa w ust. 1 pkt 1, określa się, biorąc pod uwagę zakres i charakter udzielanych środków pomocy i ochrony oraz dotychczasowe wynagrodzenie osoby chronionej. Pomoc finansowa nie przekracza miesięcznie 3500 zł, a dla osoby małoletniej 2000 zł.
 
-3. Z pomocy finansowej, o której mowa w ust. 1 pkt 1, potrąca się opłaty i wydatki, o których mowa w art. 2 ust. 1 pkt 8 ustawy z dnia czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego (Dz. U. z 2014 r. poz. 150).
+3. Z pomocy finansowej, o której mowa w ust. 1 pkt 1, potrąca się opłaty i wydatki, o których mowa w art. 2 ust. 1 pkt 8 ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego (Dz. U. z 2014 r. poz. 150).
 
 4. Z pomocy finansowej, o której mowa w ust. 1 pkt 1 i 2, potrąca się wartość odszkodowania z tytułu wyrządzonych w tym lokalu lub mieszkaniu szkód.
 
@@ -132,14 +133,14 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.”;
 
 **Art. 8.**
 
-1. W przypadku udzielenia pomocy w zakresie zmiany miejsca pobytu właściwy komendant Policji może zobowiązać operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. Prawo pocztowe (Dz. U. poz. 1529) do:
+1. W przypadku udzielenia pomocy w zakresie zmiany miejsca pobytu właściwy komendant Policji może zobowiązać operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. poz. 1529) do:
 
 - **1)** przekazywania pod adres wskazanej przez siebie komendy Policji przesyłek pocztowych lub kwot pieniężnych określonych w przekazach pocztowych przeznaczonych dla osoby chronionej;
 - **2)** przekazywania przesyłek pocztowych lub kwot pieniężnych określonych w przekazach pocztowych przeznaczonych dla osoby chronionej za pośrednictwem osoby przez niego upoważnionej.
 
 2. Właściwy komendant Policji zapewnia niezwłoczne wydanie przesyłek pocztowych lub kwot pieniężnych określonych w przekazach pocztowych osobie chronionej.
 
-3. Wydanie przesyłki pocztowej lub wypłacenie kwoty pieniężnej określonej w przekazie pocztowym osobie chronionej jest doręczeniem w rozumieniu ustawy z dnia 23 listopada 2012 r. Prawo pocztowe.
+3. Wydanie przesyłki pocztowej lub wypłacenie kwoty pieniężnej określonej w przekazie pocztowym osobie chronionej jest doręczeniem w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe.
 
 **Art. 9.**
 
@@ -163,7 +164,7 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.”;
 
 **Art. 10.**
 
-1. W przypadku zagrożenia dla zdrowia psychicznego pokrzywdzonego, świadka lub osób im najbliższych organ prowadzący czynności operacyjno-rozpoznawcze albo postępowanie sprawdzające lub postępowanie przygotowawcze albo sąd informuje pokrzywdzonego lub świadka o możliwości uzyskania pomocy psychologicznej świadczonej przez podmioty, które otrzymały na ten cel dotację z Funduszu Pomocy Pokrzywdzonym oraz Pomocy Postpenitencjarnej, o którym mowa w art. 43 ustawy z dnia 6 czerwca 1997 r. Kodeks karny wykonawczy, lub inne podmioty świadczące pomoc psychologiczną, wraz ze wskazaniem listy tych podmiotów i określeniem sposobu kontaktu.
+1. W przypadku zagrożenia dla zdrowia psychicznego pokrzywdzonego, świadka lub osób im najbliższych organ prowadzący czynności operacyjno-rozpoznawcze albo postępowanie sprawdzające lub postępowanie przygotowawcze albo sąd informuje pokrzywdzonego lub świadka o możliwości uzyskania pomocy psychologicznej świadczonej przez podmioty, które otrzymały na ten cel dotację z Funduszu Pomocy Pokrzywdzonym oraz Pomocy Postpenitencjarnej, o którym mowa w art. 43 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy, lub inne podmioty świadczące pomoc psychologiczną, wraz ze wskazaniem listy tych podmiotów i określeniem sposobu kontaktu.
 
 2. Organ albo sąd, na wniosek pokrzywdzonego lub świadka, wzywa podmiot, który otrzymał dotację z Funduszu Pomocy Pokrzywdzonym oraz Pomocy Postpenitencjarnej, do udzielenia pomocy psychologicznej w terminie 14 dni od dnia wezwania.
 
@@ -206,7 +207,7 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.”;
 1. Przed rozpoczęciem stosowania środków ochrony i pomocy pełnoletnia osoba chroniona składa właściwemu komendantowi Policji pisemne zobowiązanie do:
 
 - **1)** przestrzegania zasad i zaleceń w zakresie udzielonej ochrony i pomocy;
-- **2)** wykonywania obowiązków ciążących na niej z mocy ustawy oraz wynikających z prawomocnych orzeczeń i decyzji w przypadku udzielenia pomocy w zakresie zmiany miejsca pobytu.
+- **2)** wykonywania obowiązków ciążących na niej z mocy ustawy oraz wynikających z prawomocnych orzeczeń i decyzji – w przypadku udzielenia pomocy w zakresie zmiany miejsca pobytu.
 
 2. Właściwy komendant Policji przedstawia osobom chronionym zasady i zalecenia w zakresie stosowania środków ochrony i pomocy.
 
@@ -258,7 +259,7 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.”;
 
 **Art. 19.** W ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2011 r. Nr 287, poz. 1687, ze zm. ) w art. 20 w ust. 2a w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „7) osobach, wobec których zastosowano środki ochrony i pomocy, przewidziane w ustawie z dnia 28 listopada 2014 r. o ochronie i pomocy dla pokrzywdzonego i świadka (Dz. U. z 2015 r. poz. 21).”.
 
-**Art. 20.** W ustawie z dnia 6 czerwca 1997 r. Kodeks postępowania karnego (Dz. U. Nr 89, poz. 555, z późn. zm. ) wprowadza się następujące zmiany:
+**Art. 20.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. Nr 89, poz. 555, z późn. zm. ) wprowadza się następujące zmiany:
 
 **Art. 611w.**
 
@@ -280,13 +281,13 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.”;
 
 #### Rozdział 66k Wystąpienie państwa członkowskiego Unii Europejskiej o wykonanie europejskiego nakazu ochrony
 
-**Art. 21.** W ustawie z dnia 6 czerwca 1997 r. Kodeks karny wykonawczy (Dz. U. Nr 90, poz. 557, z późn. zm. ) wprowadza się następujące zmiany:
+**Art. 21.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. Nr 90, poz. 557, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 22.** W ustawie z dnia 24 sierpnia 2001 r. Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2013 r. poz. 395, z późn. zm. ) wprowadza się następujące zmiany:
+**Art. 22.** W ustawie z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2013 r. poz. 395, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 23.** W ustawie z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. Nr 182, poz. 1228) w art. 5 w ust. 1 pkt 7 otrzymuje brzmienie: „7) zagrozi lub może zagrozić życiu lub zdrowiu świadków koronnych lub osób dla nich najbliższych, osób, którym udzielono środków ochrony i pomocy przewidzianych w ustawie z dnia 28 listopada 2014 r. o ochronie i pomocy dla pokrzywdzonego i świadka (Dz. U. z 2015 r. poz. 21), albo świadków, o których mowa w art. 184 ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego, lub osób dla nich najbliższych.”.
+**Art. 23.** W ustawie z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. Nr 182, poz. 1228) w art. 5 w ust. 1 pkt 7 otrzymuje brzmienie: „7) zagrozi lub może zagrozić życiu lub zdrowiu świadków koronnych lub osób dla nich najbliższych, osób, którym udzielono środków ochrony i pomocy przewidzianych w ustawie z dnia 28 listopada 2014 r. o ochronie i pomocy dla pokrzywdzonego i świadka (Dz. U. z 2015 r. poz. 21), albo świadków, o których mowa w art. 184 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, lub osób dla nich najbliższych.”.
 
-**Art. 24.** W ustawie z dnia 27 września 2013 r. o zmianie ustawy Kodeks postępowania karnego oraz niektórych innych ustaw (Dz. U. poz. 1247 oraz z 2014 r. poz. 1556 i 1778) wprowadza się następujące zmiany:
+**Art. 24.** W ustawie z dnia 27 września 2013 r. o zmianie ustawy – Kodeks postępowania karnego oraz niektórych innych ustaw (Dz. U. poz. 1247 oraz z 2014 r. poz. 1556 i 1778) wprowadza się następujące zmiany:
 
 **Art. 25.** Przepisy art. 148 § 2a–2c i art. 156a ustawy, o której mowa w art. 20 niniejszej ustawy, oraz art. 37 § 13 ustawy, o której mowa w art. 22 niniejszej ustawy, stosuje się do spraw wszczętych po dniu wejścia w życie niniejszej ustawy.
 
@@ -296,16 +297,16 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.”;
 
 1. W latach 2015–2024 maksymalny limit wydatków budżetu państwa będący skutkiem finansowym ustawy wynosi 435 473 132 zł, z tym że w:
 
-- **1)** 2015 r. 27 357 632 zł;
-- **2)** 2016 r. 30 132 488 zł;
-- **3)** 2017 r. 33 032 840 zł;
-- **4)** 2018 r. 36 435 176 zł;
-- **5)** 2019 r. 39 969 980 zł;
-- **6)** 2020 r. 43 999 796 zł;
-- **7)** 2021 r. 48 413 072 zł;
-- **8)** 2022 r. 53 202 836 zł;
-- **9)** 2023 r. 58 501 556 zł;
-- **10)** 2024 r. 64 427 756 zł.
+- **1)** 2015 r. – 27 357 632 zł;
+- **2)** 2016 r. – 30 132 488 zł;
+- **3)** 2017 r. – 33 032 840 zł;
+- **4)** 2018 r. – 36 435 176 zł;
+- **5)** 2019 r. – 39 969 980 zł;
+- **6)** 2020 r. – 43 999 796 zł;
+- **7)** 2021 r. – 48 413 072 zł;
+- **8)** 2022 r. – 53 202 836 zł;
+- **9)** 2023 r. – 58 501 556 zł;
+- **10)** 2024 r. – 64 427 756 zł.
 
 2. Minister właściwy do spraw wewnętrznych monitoruje wykorzystanie zaplanowanych na dany rok wydatków na środki ochrony i pomocy, obejmujących łącznie limit wydatków będący skutkiem finansowym ustawy, o którym mowa w ust. 1.
 
@@ -313,9 +314,9 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.”;
 
 4. W przypadku zagrożenia przyjętej na dany rok budżetowy łącznej wielkości planowanych wydatków, o których mowa w ust. 2, w szczególności w sytuacji, gdy część planowanych wydatków, o których mowa w ust. 2, przypadająca proporcjonalnie na okres od początku roku kalendarzowego do końca danego kwartału została przekroczona:
 
-- **1)** po pierwszym kwartale co najmniej o 15%,
-- **2)** po dwóch kwartałach co najmniej o 10%,
-- **3)** po trzech kwartałach co najmniej o 5% minister właściwy do spraw wewnętrznych wdraża mechanizmy korygujące zmierzające w szczególności do zmniejszenia wydatków na środki ochrony i pomocy dla pokrzywdzonego i świadka.
+- **1)** po pierwszym kwartale – co najmniej o 15%,
+- **2)** po dwóch kwartałach – co najmniej o 10%,
+- **3)** po trzech kwartałach – co najmniej o 5% – minister właściwy do spraw wewnętrznych wdraża mechanizmy korygujące zmierzające w szczególności do zmniejszenia wydatków na środki ochrony i pomocy dla pokrzywdzonego i świadka.
 
-**Art. 28.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem art. 20 pkt 18 i 19, które wchodzą w życie z dniem 11 stycznia 2015 r. Prezydent Rzeczypospolitej Polskiej: B. Komorowski
+**Art. 28.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem art. 20 pkt 18 i 19, które wchodzą w życie z dniem 11 stycznia 2015 r.
 

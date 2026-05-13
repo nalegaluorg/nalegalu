@@ -10,7 +10,9 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# 1. Ustawa określa zadania, zakres działalności 1) organizację wewnętrzną iszczegółowy zakres czynorganizację Banku Gospodarstwa Krajowego. ności wykonywanych przez BGK;
+# o Banku Gospodarstwa Krajowego
+
+*USTAWA z dnia 14 marca 2003 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,90 +26,339 @@ domain: null
 | Ostatnia zmiana | 2026-02-26 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030650594) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/594/text.pdf) |
 
-2. 1. Bank Gospodarstwa Krajowego, zwany 2)szczegółowy zakres działania Nadzorczej iZadalej ŃBGK”, utworzony rozporządzeniem Prezydenta rządu;
-Rzeczypospolitej dnia 30 maja 1924 o połączeniu (fuzji) Państwowych Instytucji Kredytowych Bank 3) osoby uprawnione reprezentowania BGK;
-Gospodarstwa Krajowego (Dz. U. 46, poz. 477), bankiem państwowym rozumieniu ustawy dnia 4) fundusze własne izasady prowadzenia gospo29 sierpnia 1997 Prawo bankowe (Dz. U. 2002 darki finansowej.
-72, poz. 665, 126, poz. 1070, 141, poz. 1178, Nr144, poz. 1208, 153, poz. 1271, 169, poz. 1385 4. Minister właściwy spraw Skarbu Państwa, nai1387 241, poz. 2074 2003 50, poz. 424, dając statut BGK, zasięga opinii ministrów właściwych 60, poz. 535 65, poz. 594). ze względu na nadzór nad funduszami utworzonymi, powierzonymi przekazanymi na podstawie
-2. Siedzibą miasto stołeczne Warszawa. odrębnych ustaw.
-3. Minister właściwy spraw Skarbu Państwa 3.Jeżeli przepisy ustawy nie stanowią inaczej,
-USTAWA zdnia 14 marca 2003 oBanku Gospodarstwa Krajowego
-2) obsługa funduszy utworzonych, powierzonych przekazanych na podstawie odrębnych ustaw;
-3) obsługa transakcji eksportowych zzastosowaniem instrumentów wspierania eksportu, zgodnie odrębnymi przepisami;
-4) wykonywanie czynności dotyczących instytucji kredytowych zlikwidowanych uznanych za zlikwidowane na podstawie:
-a) dekretu zdnia 25 paêdziernika 1948 ozasadach trybie likwidacji niektórych przedsiębiorstw (Dz. U. 52, poz. 410, 1949 Nr35, poz. 256 z1951 31, poz. 240), bu Państwa;
-2) przedstawiciel ministra właściwego spraw gospodarki;
-3) dwaj przedstawiciele ministra właściwego spraw budownictwa, gospodarki przestrzennej imieszkaniowej.
-4. Minister właściwy spraw instytucji finansowych odwołuje przewodniczącego członka Nadzorczej przed upływem kadencji wprzypadku skazania go prawomocnym wyrokiem sądowym za przestępstwo zwiny umyślnej.
-5. Minister właściwy spraw instytucji finansob) dekretu zdnia 25 paêdziernika 1948 ozasadach wych może odwołać przewodniczącego członka trybie likwidacji niektórych instytucyj kredytu Nadzorczej przed upływem kadencji, jeżeli: długoterminowego (Dz. U. 52, poz. 411 z1951 31, poz. 241), 1) nie wypełnia on obowiązków na skutek długotrwałej choroby trwającej ponad 6 miesięcy, stwierdzoc) dekretu zdnia 25 paêdziernika 1948 oreformie nej orzeczeniem lekarskim;
-bankowej (Dz. U. 1951 36, poz. 279 z1957 31, poz. 136). 2) prowadzone przeciwko niemu postępowanie karne karne skarbowe;
-2. Szczegółowy zakres czynności, o których ust. 1, określają odrębne przepisy umowy za- 3) dalsze pełnienie przez niego funkcji nie daje rękojwarte zwłaściwymi ministrami. mi należytego wykonywania czynności nadzorczych;
-6. 1. Zakres działania może obejmować 4) nie realizuje on zaleceń dotyczących działalności również: BGK, zgodnie zaktualną polityką społeczno-gospo1) obsługę państwa; darczą państwa, októrych wart. 12.
-2) obsługę budżetów jednostek samorządu terytorial- 9.1. Do zadań Nadzorczej należy wszczenego; gólności:
-3) obsługę państwowych samorządo- 1) sprawowanie nadzoru nad działalnością BGK;
-wych osób prawnych utworzonych na podstawie odrębnych ustaw celu wykonywania zadań publicznych;
-4) inne czynności określone odrębnymi ustawami;
-5) inne czynności, realizowane wykorzystaniem środków publicznych, określone umowami zawartymi zorganami administracji rządowej.
-2. Szczegółowy zakres czynności, o których ust. 1, określają odrębne przepisy umowy zawarte na ich podstawie.
-7.Organami są Rada Nadzorcza iZarząd.
-2) opracowywanie iudzielanie Zarządowi wytycznych dotyczących działalności związku zaleceniami, októrych wart. 12;
-3) czuwanie nad zgodnością działalności Zarządu przepisami prawa statutem wytycznymi, októrych wpkt 2;
-4) uchwalanie rocznego planu finansowo-rzeczowego BGK;
-5) zatwierdzanie przedstawionego przez Zarząd sprawozdania finansowego;
-6) zatwierdzanie podziału zysku sposobu pokrycia strat;
-Zarządu.
-3. Liczbę wiceprezesów iczłonków Zarządu określa Rada Nadzorcza.
-4. Prezesa Zarządu powołuje Rada Nadzorcza.
-5. Wiceprezesa pierwszego zastępcę prezesa, wiceprezesów ipozostałych członków Zarządu powołuje Rada Nadzorcza na wniosek prezesa Zarządu.
-6. Powołanie prezesa Zarządu ijednego członka Zarządu następuje za zgodą Komisji Nadzoru Bankowego. Przepisy art. 22 ustawy zdnia 29 sierpnia 1997 Prawo bankowe stosuje się odpowiednio.
-7. Prezes Zarządu reprezentuje na zewnątrz, przewodniczy obradom Zarządu organizuje działalność BGK.
-11.1. Kadencja członków Zarządu trwa 5 lat.
-2. Minister właściwy spraw instytucji finansowych odwołuje członka Zarządu przed upływem kadencji wprzypadku skazania go prawomocnym wyrokiem sądowym za przestępstwo zwiny umyślnej.
-3. Minister właściwy spraw instytucji finansowych, na wniosek Nadzorczej, może odwołać członka Zarządu przed upływem kadencji, jeżeli:
-1) nie wypełnia on obowiązków na skutek długotrwałej choroby trwającej ponad 6 miesięcy, stwierdzonej orzeczeniem lekarskim;
-2) prowadzone przeciwko niemu postępowanie karne karne skarbowe;
-3) dalsze pełnienie przez niego funkcji nie daje rękojmi ostrożnego istabilnego zarządzania bankiem;
-4) nie realizuje on wytycznych Nadzorczej dotyczących działalności BGK, wydanych związku zzaleceniami, októrych wart. 12.
-4. Rada Nadzorcza może, zważnych powodów, zawiesić wczynnościach członka Zarządu.
-12. uzasadnionych przypadkach minister właściwy spraw instytucji finansowych może udzielać Radzie Nadzorczej wiążących zaleceń wzakresie realizacji zadań zwykorzystaniem środków publicznych,
-14. ustawie dnia 29 sierpnia 1997 o Narodowym Banku Polskim (Dz. U. 140, poz. 938, 1998 160, poz. 1063, 2000 53, poz. 648, 62, poz. 718 119, poz. 1252, 2001 8, poz.64, 110, poz. 1189 iNr 154, poz. 1784 i1800 2002 126, poz. 1070 141, poz. 1178) art. 67 otrzymuje brzmienie: ŃArt. 67. Zasady rachunkowości NBP powinny odpowiadać standardom stosowanym Europejskim Systemie Banków Centralnych.”.
-15.Wustawie zdnia 29 sierpnia 1997 Prawo bankowe (Dz. U. 2002 72, poz. 665, 126, poz. 1070, 141, poz. 1178, 144, poz. 1208, 153, poz. 1271, 169, poz. 1385 1387 241, poz. 2074 2003 50, poz. 424 60, poz. 525) wprowadza się następujące zmiany:
-1) wart. 127:
-a) wust. 2 wpkt 2 uchyla się lit. c,
-b) wust. 5 uchyla się pkt 1a;
-2) po art. 128adodaje się art. 128bwbrzmieniu: ŃArt. 128b. Komisja Nadzoru Bankowego może, na wniosek banku państwowego, wyłączyć część działalności całą działalność tego banku, związaną obsługą funduszy utworzonych, powierzonych przekazanych temu bankowi na podstawie odrębnych ustaw, obowiązku spełniania niektórych wymogów norm, o których ustawie, pod warunkiem że:
-1) działalność ta wyodrębniona finansowo, awszczególności bank nie uczestniczy wjej finansowaniu,
-2) ryzyko związane tą działalnością żaden sposób nie obciąża banku, a szczególności bank nie ponosi odpowiedzialności za straty wynikające ztej działalności.”;
-3) uchyla się art. 185.
-16. ustawie dnia 26 listopada 1998 o finansach publicznych (Dz. U. 2003 15, poz. 148 45, poz. 391) wprowadza się następujące zmiany: niając niezbędne warunki techniczne iorganizacyjne, które muszą być spełnione przez ten podmiot, kwalifikacje zawodowe pracowników, jak również wpływ na stan finansów publicznych wzwiązku zpodjęciem iprowadzeniem obsługi tych rachunków.
-2b. Bank Gospodarstwa Krajowego może podjąć obsługę rachunków, o których wust. 1 pkt 1 i2, nie wcześniej niż zdniem przystąpienia Rzeczypospolitej Polskiej Unii Gospodarczej iWalutowej.”,
-c) ust. 3 otrzymuje brzmienie: Ń3.
-sie ust. 1 pkt 5 6 państwowych osób prawnych, o których art. 5 pkt 11, może prowadzić Narodowy Bank Polski, Bank Gospodarstwa Krajowego inny bank. Wyboru banku innego niż Narodowy Bank Polski Bank Gospodarstwa Krajowego dla obsługi tych dokonuje się trybie przepisów o zamówieniach publicznych.”,
-d) ust. 5 otrzymuje brzmienie: Ń5. Minister Finansów określi, drodze rozporządzenia, szczegółowe zasady obsługi centralnego rachunku bieżącego państwa, zakres informacji dotyczących wykonania terminy ich udostępniania wramach obsługi centralnego rachunku bieżącego państwa, uwzględniając szczególny charakter tego rachunku isposób wykonywania państwa, zzastrzeżeniem ust. 6.”,
-e) po ust. 5 dodaje się ust. 6 wbrzmieniu: Ń6. Jeżeli podmiotem prowadzącym obsługę centralnego rachunku bieżącego Narodowy Bank Polski, Minister Finansów, wydając rozporządzenie, o którym ust. 5, zasięga opinii Prezesa Narodowego Banku Polskiego.”;
-2) art. 108 ust. 2 otrzymuje brzmienie: uzasadnionych przypadkach Minister Finansów może dokonywać lokat, o których wust. 1, wdowolnie wybranym banŃ2a. Wyboru podmiotu prowadzącego obsługę rachunków, o których ust. 1 pkt 1 3 wyłączeniem środków specjalnych pkt 4 5, dokonuje Minister Finansów, uwzględniając niezbędne warunki techniczne organizacyjne, które muszą być spełnione przez ten podmiot, kwalifikacje zawodowe pracowników, jak również wpływ na stan finansów publicznych związku podjęciem prowadzeniem obsługi tych rachunków.
-2b. Bank Gospodarstwa Krajowego może podjąć obsługę rachunków, o których ust. 1 pkt 1 3 wyłączeniem rachunków środków specjalnych pkt 4, nie wcześniej niż zdniem przystąpienia Rzeczypospolitej Polskiej Unii Gospodarczej iWalutowej.”,
-c) ust. 3 otrzymuje brzmienie: Ń3.
-sie ust. 1 pkt 6 7, środków specjalnych jednostek, októrych wust. 1 pkt 3, rachunków państwowych osób prawnych, októrych wart. 5 pkt 11, może prowadzić Narodowy Bank Polski, Bank Gospodarstwa Krajowego inny bank. Wyboru banku innego niż Narodowy Bank Polski Bank Gospodarstwa Krajowego dla obsługi tych dokonuje się trybie przepisów ozamówieniach publicznych.”,
-d) ust. 5 po wyrazach ŃNarodowy Bank Polski” dodaje się wyrazy Ńlub Bank Gospodarstwa Krajowego”,
-e) ust. 6 otrzymuje brzmienie: Ń6. Minister Finansów określa, drodze rozporządzenia, szczegółowe zasady obsługi rachunków wust. 1 zakres informacji wymienionej ust. 5 pkt 1 sprawozdań ust. 5 pkt 2, zzastrzeżeniem ust. 7.”,
-f) po ust. 6 dodaje się ust. 7 wbrzmieniu: Ń7. Jeżeli podmiotem prowadzącym obsługę centralnego rachunku bieżącego Narodowy Bank Polski, Miniku.”; ster Finansów, wydając rozporządzenie, o którym ust. 6, zasięga opinii Presów trwa czasu powołania Nadzorczej zgodnie zprzepisami ustawy. 22. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 190 ust. 6 ustawy, októrej mo2. Członkowie Zarządu powołani na podsta- wa art. 16, zachowują moc czasu wydania nowie dotychczas obowiązujących przepisów pełnią swo- wych przepisów wykonawczych.
-je funkcje czasu powołania Zarządu na podstawie przepisów ustawy. 23.Ustawa wchodzi wżycie po upływie 45 dni od dnia ogłoszenia, zwyjątkiem art. 14, który wchodzi
-19. sprawozdaniu finansowym na dzień wżycie zdniem 1 stycznia 2004 31 grudnia 2003 uwzględni zmiany wynikające zprzepisów ustawy. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 595
-USTAWA zdnia 14 marca 2003 ostopniach naukowych itytule naukowym ostopniach itytule wzakresie sztuki
-1.1. Stopniami naukowymi są stopnie doktora doktora habilitowanego określonej dziedziny nauki wzakresie danej dyscypliny naukowej.
-2. Stopniami zakresie sztuki są stopnie doktora doktora habilitowanego określonej dziedziny sztuki wzakresie danej dyscypliny artystycznej.
-2. 1. Tytułem naukowym tytuł profesora określonej dziedziny nauki.
-2. Tytułem zakresie sztuki tytuł profesora określonej dziedziny sztuki.
-3. 1. Centralna Komisja Spraw Stopni Tytułów, zwana dalej ŃCentralną Komisją”, określa, drodze uchwały, dziedziny nauki dziedziny sztuki dyscypliny naukowe iartystyczne. Dyscyplina naukowa (artystyczna) może być tożsama zdziedziną nauki (sztuki).
-2. Uchwałę Centralnej Komisji, o której naukowe doktora doktora habilitowanego stopnie doktora idoktora habilitowanego sztuki;
-2) Ńtytule profesora” bez bliższego określenia rozumie się przez to tytuł naukowy profesora itytuł profesora sztuki;
-3) Ńjednostce organizacyjnej” bez bliższego określenia rozumie się przez to wydział, inną jednostkę organizacyjną szkoły wyższej albo inną placówkę naukową;
-4) Ńradzie jednostki organizacyjnej” bez bliższego określenia rozumie się przez to radę wydziału, radę innej jednostki organizacyjnej szkoły wyższej wust. 1, ogłasza Centralna Komisja wDzienniku Urzędowym Rzeczypospolitej Polskiej ŃMonitor Polski”.
-albo radę naukową innej placówki naukowej;
-5) Ńrozprawie doktorskiej rozprawie habilitacyjnej” rozumie się przez to również pracę doktorską ihabilitacyjną wzakresie sztuki.
-5.1. Stopnie doktora idoktora habilitowanego są nadawane jednostkach organizacyjnych, które posiadają uprawnienie ich nadawania.
+**Art. 1.** Ustawa określa zadania, zakres działalności oraz organizację Banku Gospodarstwa Krajowego.
 
-#### Rozdział 1 Przepisy ogólne
+**Art. 2.**
 
-#### Rozdział 2 Stopnie naukowe istopnie wzakresie sztuki
+1. Bank Gospodarstwa Krajowego, zwany dalej „BGK”, utworzony rozporządzeniem Prezydenta Rzeczypospolitej z dnia 30 maja 1924 r. o połączeniu (fuzji) państwowych instytucji kredytowych Bank Gospodarstwa Krajowego (Dz. U. z 1936 r. poz. 438), jest bankiem państwowym rozumieniu ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2026 r. poz. 38).
+
+2. Siedzibą BGK jest miasto stołeczne Warszawa.
+
+3. Minister właściwy do spraw gospodarki, po zasięgnięciu opinii ministra właściwego do spraw instytucji finansowych oraz Komisji Nadzoru Finansowego, nadaje, drodze rozporządzenia, statut BGK. W rozporządzeniu minister określi szczególności:
+
+- **1)** organizację wewnętrzną i szczegółowy zakres czynności wykonywanych przez BGK;
+- **2)** szczegółowy zakres działania Rady Nadzorczej i Zarządu;
+- **3)** (uchylony)
+- **4)** fundusze własne BGK i zasady prowadzenia gospodarki finansowej.
+
+4. Minister właściwy do spraw gospodarki, nadając statut BGK, zasięga opinii ministrów właściwych ze względu na nadzór nad funduszami utworzonymi, powierzonymi lub przekazanymi BGK na podstawie odrębnych ustaw. ustawy z dnia 4 lipca 2019 r. o systemie instytucji rozwoju (Dz. U. z 2026 r. poz. 9).
+
+**Art. 3.**
+
+1. Jeżeli przepisy prawa nie stanowią inaczej, do działalności BGK stosuje się przepisy ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe.
+
+1a. BGK przestrzega przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 575/2013 z dnia 26 czerwca 2013 r. sprawie wymogów ostrożnościowych dla instytucji kredytowych oraz zmieniającego rozporządzenie (UE) nr 648/2012 (Dz. Urz. UE L 176 z 27.06.2013, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem nr 575/2013”, oraz aktów przyjętych zgodnie z przepisami tego rozporządzenia, chyba że odrębne przepisy stanowią inaczej.
+
+1b. W odniesieniu do ekspozycji pozabilansowych BGK wynikających z poręczeń lub gwarancji portfela kredytów lub portfela innych zobowiązań, o których mowa art. 128b ust. 2 i 3 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, udzielonych ramach rządowych programów poręczeniowo-gwarancyjnych lub funduszy utworzonych, powierzonych lub przekazanych BGK na podstawie odrębnych ustaw lub ramach współpracy rozwojowej, o której mowa ustawie z dnia 16 września 2011 r. o współpracy rozwojowej (Dz. U. z 2025 r. poz. 1460), lub ramach realizacji zadań na rzecz rozwoju innych państw lub ich społeczeństw, a także innych ekspozycji wynikających z realizacji przez BGK zadań z zakresu współpracy rozwojowej lub zadań realizowanych na rzecz rozwoju innych państw lub ich społeczeństw, szczególności zadań powierzonych BGK przez Komisję Europejską lub realizowanych we współpracy z Europejskim Bankiem Inwestycyjnym, Europejskim Funduszem Inwestycyjnym, Europejskim Bankiem Odbudowy i Rozwoju, Grupą Banku Światowego lub innymi międzynarodowymi i krajowymi instytucjami rozwoju, BGK nie stosuje:
+
+- **1)** wymogów, o których mowa art. 395 ust. 1 rozporządzenia nr 575/2013; ryzyka kredytowego, określonych rozporządzeniu nr 575/2013, zakresie:
+    - **a)** weryfikacji spełniania przez ekspozycję warunków kwalifikacji do kategorii ekspozycji detalicznych, o których mowa art. 123 rozporządzenia nr 575/2013, dla ekspozycji spełniających banku lub instytucji finansowej udzielających finansowania warunki określone art. 123 ust. 1 lit. a, c i d rozporządzenia nr 575/2013,
+    - **b)** indywidualnego klasyfikowania ekspozycji do kategorii ekspozycji, zgodnie z art. 112 rozporządzenia nr 575/2013.
+
+1c. W odniesieniu do ekspozycji pozabilansowych BGK powstałych wskutek udzielanych formie reporęczeń BGK za zobowiązania funduszy poręczeniowych z tytułu udzielonych przez te fundusze poręczeń kredytów bankowych wynikających z poręczeń lub gwarancji portfela kredytowego, o którym mowa art. 128b ust. 2 pkt 1 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, a spełniających banku udzielającym kredytu obejmowanego poręczeniem lub gwarancją warunki kwalifikacji do kategorii ekspozycji detalicznych określone art. 123 lit. a i b rozporządzenia nr 575/2013, BGK nie stosuje:
+
+- **1)** wymogów, o których mowa art. 395 ust. 1 rozporządzenia nr 575/2013;
+- **2)** zasad wyznaczania wymogu zakresie funduszy własnych odniesieniu do ryzyka kredytowego, określonych rozporządzeniu nr 575/2013, zakresie:
+    - **a)** weryfikacji spełniania przez ekspozycję warunków kwalifikacji do kategorii ekspozycji detalicznych, o których mowa art. 123 rozporządzenia nr 575/2013,
+    - **b)** indywidualnego klasyfikowania ekspozycji do kategorii ekspozycji detalicznych,
+    - **c)** klasyfikowania ekspozycji do kategorii ekspozycji przeterminowanych.
+
+1d. (uchylony) 1e. W zakresie nieobjętym przepisami ust. 1b i 1c Komisja Nadzoru Finansowego może, na wniosek BGK, zwolnić ten bank z obowiązku przestrzegania wymogów ostrożnościowych, o których mowa ust. 1a, lub ograniczyć ich stosowanie, uwzględniając konieczność zapewnienia bezpieczeństwa działalności BGK oraz zgromadzonych nim środków, a także skuteczność realizacji zadań, o których mowa art. 5.
+
+- **1)** przepisów art. 141m–141x oraz art. 158–159 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe nie stosuje się;
+- **2)** przepisy art. 142–157f oraz art. 169 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe stosuje się odpowiednio.
+
+1g. W przypadku przejęcia przez BGK praw udziałowych, o których mowa art. 19d ust. 1 ustawy z dnia 12 lutego 2010 r. o rekapitalizacji niektórych instytucji oraz o rządowych instrumentach stabilizacji finansowej (Dz. U. z 2024 r. poz. 505), do BGK nie stosuje się konsolidacji ostrożnościowej, o której mowa art. 10a– 24 rozporządzenia nr 575/2013.
+
+1h. W odniesieniu do spółki specjalnego przeznaczenia, o której mowa ustawie z dnia 4 grudnia 2025 r. o szczególnych zasadach realizacji zadań związanych z inwestycją zakresie bezpieczeństwa i obronności realizowaną ramach Krajowego Planu Odbudowy i Zwiększania Odporności (Dz. U. poz. 1846), BGK nie stosuje przepisów rozporządzenia nr 575/2013, tym nie stosuje konsolidacji ostrożnościowej rozumieniu przepisów tego rozporządzenia.
+
+2. Do BGK stosuje się art. 6 pkt 4 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe i naprawcze (Dz. U. z 2025 r. poz. 614, 1085, 1170 i 1172).
+
+3. Minister właściwy do spraw finansów publicznych przekazuje BGK środki na:
+
+- **1)** utrzymanie funduszy własnych na poziomie gwarantującym realizację zadań, o których mowa art. 5,
+- **2)** spełnienie wymogów ostrożnościowych zakresie płynności, określonych przepisach rozporządzenia nr 575/2013 oraz przepisach ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe – mając na względzie konieczność pokrycia ryzyka działalności bankowej ponoszonego przez BGK.
+
+3a. Warunki oraz tryb przekazania środków, o których mowa ust. 3, określa umowa zawarta między ministrem właściwym do spraw finansów publicznych a BGK. rozumieniu art. 213–215 rozporządzenia nr 575/2013, udzielonej przez Skarb Państwa. Ekspozycjom wobec BGK przypisuje się wagę ryzyka na zasadach określonych art. 114 ust. 4 rozporządzenia nr 575/2013.
+
+3c. Fundusz statutowy BGK stanowi instrument kapitałowy rozumieniu art. 26 ust. 1 lit. a i art. 28 rozporządzenia nr 575/2013.
+
+3d. Przy obliczaniu płynności niezbędnej do przestrzegania wymogów ostrożnościowych, o których mowa przepisach rozporządzenia nr 575/2013, jako wpływy płynności określone przepisach tego rozporządzenia BGK uwzględnia całość niewykorzystanych bezwarunkowych zobowiązań pozabilansowych otrzymywanych od Skarbu Państwa.
+
+4. W przypadku likwidacji BGK, jego mienie i zobowiązania przejmuje z dniem likwidacji Skarb Państwa.
+
+5. BGK nie przyjmuje na siebie ekspozycji wobec:
+
+- **1)** grupy powiązanych klientów, o której mowa art. 4 ust. 1 pkt 39 rozporządzenia nr 575/2013, tym z udziałem podmiotów, o których mowa pkt 2 i 3,
+- **2)** banku krajowego,
+- **3)** funduszu inwestycyjnego, o którym mowa art. 3 ust. 1 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2026 r. poz. 60) – których wartość po uwzględnieniu skutku ograniczenia ryzyka kredytowego, o którym mowa art. 399–403 rozporządzenia nr 575/2013, przekracza 50 % wartości uznanego kapitału BGK, o którym mowa art. 4 ust. 1 pkt 71 tego rozporządzenia.
+
+6. Do ekspozycji, o których mowa ust. 5, BGK nie stosuje wymogów ostrożnościowych zakresie dużych ekspozycji, o których mowa art. 395 ust. 1 rozporządzenia nr 575/2013.
+
+**Art. 3a.**
+
+1. W celu spełnienia przez BGK wymogów ostrożnościowych zakresie płynności, o której mowa przepisach rozporządzenia nr 575/2013, minister właściwy do spraw finansów publicznych może udzielić, imieniu Skarbu Państwa, gwarancji spłaty kredytów oraz linii kredytowych przyznanych BGK przez bank krajowy, bank zagraniczny lub instytucję kredytową oraz spełnienia przez emitenta wartościowych, szczególności obligacji lub bankowych papierów wartościowych.
+
+2. Termin zapadalności dłużnych papierów wartościowych, o których mowa ust. 1, nie może być krótszy niż 1 miesiąc i dłuższy niż 5 lat.
+
+3. Gwarancja, o której mowa ust. 1, obejmuje spłatę kredytu lub wykup dłużnych papierów wartościowych wyemitowanych przez BGK wraz z odsetkami umownymi oraz innymi kosztami związanymi z tym kredytem lub tymi dłużnymi papierami wartościowymi. Gwarancja nie może obejmować spłaty kredytu wraz z odsetkami, którego zabezpieczenie stanowią skarbowe papiery wartościowe oraz papiery wartościowe wyemitowane przez Narodowy Bank Polski – do wysokości ich wartości nominalnej.
+
+4. Wypłaty z tytułu gwarancji są pomniejszane o spłaty kredytu lub wykup dłużnych papierów wartościowych dokonane przez BGK oraz o kwoty uzyskane przez bank krajowy, bank zagraniczny, instytucję kredytową przyznające kredyt lub właścicieli dłużnych papierów wartościowych wyemitowanych przez BGK wyniku zaspokojenia się z przedmiotu zabezpieczenia udzielonego kredytu lub emisji dłużnych papierów wartościowych.
+
+5. Od gwarancji, o której mowa ust. 1, jest pobierana opłata prowizyjna.
+
+6. Do gwarancji, o której mowa ust. 1, nie stosuje się przepisów ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U. z 2024 r. poz. 291), z wyjątkiem art. 31.
+
+**Art. 3b.**
+
+1. Do czynności prawnych dokonywanych przez BGK nie stosuje się:
+
+- **1)** przepisu art. 15 ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym (Dz. U. z 2024 r. poz. 125, 834, 1823, 1897 i 1940);
+- **2)** przepisu art. 38 ust. 1 ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym – odniesieniu do czynności prawnych zakresie rozporządzania składnikami aktywów trwałych rozumieniu ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, z późn. zm. ) o wartości nieprzekraczającej 5 000 000 złotych; mieniem państwowym – odniesieniu do czynności prawnych zakresie oddania składników aktywów trwałych rozumieniu ustawy z dnia 29 września 1994 r. o rachunkowości do korzystania innemu podmiotowi, jeżeli wartość rynkowa przedmiotu czynności prawnej nie przekracza 5 000 000 złotych;
+- **4)** przepisów art. 38 ust. 1 i 2 ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym – odniesieniu do czynności prawnych dotyczących wierzytelności powstałych wyniku dokonania czynności bankowych rozumieniu art. 5 ust. 1 i 2 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe oraz czynności dotyczących instrumentów finansowych rozumieniu art. 2 ust. 1 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2024 r. poz. 722, z późn. zm. ).
+
+2. W przypadku wykonywania praw funduszu zagranicznym, spółce zarządzającej, unijnym AFI lub zarządzającym z UE rozumieniu ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi BGK nie stosuje obowiązków wynikających z:
+
+- **1)** przepisów ustawy z dnia 9 czerwca 2016 r. o zasadach kształtowania wynagrodzeń osób kierujących niektórymi spółkami (Dz. U. z 2020 r. poz.
+- **1907)** ;
+- **2)** przepisów ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym.
+
+3. W przypadku utworzenia przez BGK funduszu zagranicznego, spółki zarządzającej, unijnego AFI lub zarządzającego z UE rozumieniu ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi lub uczestnictwa BGK tych podmiotach, lub zamiaru utworzenia przez BGK takich podmiotów, lub zamiaru uczestnictwa BGK takich podmiotach nie stosuje się obowiązków wynikających z przepisów działu III ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. z 2025 r. poz. 1714).
+
+**Art. 3c.** Do BGK stosuje się przepisy: 14 grudnia 2022 r. sprawie operacyjnej odporności cyfrowej sektora finansowego i zmieniającego rozporządzenia (WE) nr 1060/2009, (UE) nr 648/2012, (UE) nr 600/2014, (UE) nr 909/2014 oraz (UE) 2016/1011 (Dz. Urz. UE L 333 z 27.12.2022, str. 1, z późn. zm. ), z tym że nie stosuje się przepisu art. 16 tego rozporządzenia;
+
+**Art. 4.** Do podstawowych celów działalności BGK, zakresie określonym ustawą oraz odrębnymi przepisami, należy wspieranie polityki gospodarczej Rady Ministrów, rządowych programów społeczno-gospodarczych, tym poręczeniowo-gwarancyjnych lub zakresie współpracy rozwojowej, o której mowa ustawie z dnia 16 września 2011 r. o współpracy rozwojowej, oraz programów samorządności lokalnej i rozwoju regionalnego, obejmujących szczególności projekty:
+
+**Art. 4a.**
+
+1. W przypadku gdy inwestycja jest zgodna z celami działalności lub zadaniami BGK, BGK może dokonywać inwestycji samodzielnie lub wspólnie z innymi podmiotami, szczególności w:
+
+- **1)** podmioty krajowe albo zagraniczne pozyskujące od inwestorów środki celu inwestowania zgodnie z określoną przez te podmioty polityką inwestycyjną, zarządzających alternatywnymi spółkami inwestycyjnymi;
+- **2)** instrumenty zbywane lub emitowane przez podmioty, o których mowa pkt 1;
+- **3)** spółki specjalnego przeznaczenia.
+
+2. Przez inwestycję, o której mowa ust. 1, rozumie się szczególności nabycie lub objęcie akcji, udziałów, jednostek uczestnictwa, certyfikatów inwestycyjnych, innych instrumentów finansowych emitowanych lub oferowanych przez podmioty, o których mowa ust. 1 pkt 1, przystąpienie do spółki komandytowej charakterze komandytariusza, do spółki komandytowo-akcyjnej charakterze akcjonariusza oraz do spółki jawnej charakterze wspólnika lub powierzenie środków pieniężnych zarządzanie lub udzielenie pożyczki spółce przez jej udziałowców lub akcjonariuszy.
+
+3. W zakresie dokonywania inwestycji, o której mowa ust. 1, do BGK nie stosuje się art. 70 ust. 4 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi oraz przepisów wydanych na podstawie art. 94 ust. 1 tej ustawy.
+
+**Art. 5.**
+
+1. Do zadań BGK należy:
+
+- **1)** wykonywanie czynności określonych ustawą z dnia 29 sierpnia 1997 r. – Prawo bankowe;
+- **2)** obsługa funduszy utworzonych, powierzonych lub przekazanych BGK na podstawie odrębnych ustaw;
+- **3)** obsługa transakcji eksportowych z zastosowaniem instrumentów wspierania eksportu oraz wspieranie eksportu polskich towarów i usług, zgodnie z odrębnymi przepisami lub ramach realizacji programów rządowych;
+- **3a)** realizacja współpracy rozwojowej, o której mowa art. 2 ust. 3 ustawy z dnia 16 września 2011 r. o współpracy rozwojowej;
+- **4)** wykonywanie czynności dotyczących instytucji kredytowych zlikwidowanych lub uznanych za zlikwidowane na podstawie:
+    - **a)** dekretu z dnia 25 października 1948 r. o zasadach i trybie likwidacji niektórych przedsiębiorstw bankowych (Dz. U. poz. 410, z 1949 r. poz. 256 oraz z 1951 r. poz. 240),
+    - **b)** dekretu z dnia 25 października 1948 r. o zasadach i trybie likwidacji niektórych instytucyj kredytu długoterminowego (Dz. U. poz. 411 oraz z 1951 r. poz. 241), z 1951 r. poz. 279, z 1957 r. poz. 136 oraz z 1958 r. poz. 356);
+
+- **5)** prowadzenie – bezpośrednio lub pośrednio – działalności gwarancyjnej lub poręczeniowej ramach realizacji rządowych programów poręczeniowogwarancyjnych lub imieniu i na rachunek Skarbu Państwa na podstawie ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne, szczególności dla sektora mikroprzedsiębiorców, małych i średnich przedsiębiorców;
+- **6)** wydawanie oświadczeń mających moc dokumentu urzędowego rozumieniu art. 95 ust. 1 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, umożliwiających wykreślenie wpisów ujawnionych działach III i IV ksiąg wieczystych lub zbiorach dokumentów, dokonanych na rzecz:
+    - **a)** instytucji kredytowych zlikwidowanych lub uznanych za zlikwidowane na podstawie dekretów, o których mowa pkt 4,
+    - **b)** Skarbu Państwa z tytułu: – nabycia ziemi i inwentarza z Państwowego Funduszu Ziemi, utworzonego dekretem z dnia 6 września 1944 r. o przeprowadzeniu reformy rolnej (Dz. U. z 1945 r. poz. 13, z 1957 r. poz. 172 oraz z 1968 r. poz. 6), – udzielonych latach 1945–1990 kredytów i pożyczek na rozbiórkę i naprawę, wykończenie budowy, nadbudowę, remont i odbudowę budynków, na sprzedaż gruntów pod zabudowę oraz na sprzedaż przez państwo domów jednorodzinnych i wielorodzinnych,
+    - **c)** Skarbu Państwa lub podmiotów, których następcą jest Skarb Państwa, dokonanych przed dniem 1 września 1939 r.;
+
+- **7)** wspieranie rozwoju budownictwa mieszkaniowego, szczególności budownictwa mającego na celu budowę lokali mieszkalnych na wynajem, zgodnie z odrębnymi przepisami lub ramach realizacji rządowych programów.
+
+2. Szczegółowy zakres czynności, o których mowa ust. 1, określają odrębne przepisy lub umowy zawarte z właściwymi ministrami.
+
+2a. BGK może również pełnić rolę podmiotu wdrażającego instrument finansowy lub fundusz funduszy, o których mowa rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającym Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającym przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającym rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320).
+
+2b. Zasady oraz warunki pełnienia roli, o której mowa ust. 2a, określają odrębne przepisy oraz umowy zawarte z właściwymi organami administracji rządowej lub samorządu terytorialnego.
+
+3. Oświadczenia, o których mowa ust. 1 pkt 6, BGK wydaje na wniosek właścicieli nieruchomości obciążonych, po dokonaniu przez nich spłaty ujawnionej wierzytelności. BGK celu określenia aktualnej wysokości ujawnionej wierzytelności uwzględnia odpowiednie przepisy dotyczące systemu pieniężnego, tym przepisy dotyczące denominacji złotego.
+
+4. Minister właściwy do spraw finansów publicznych:
+
+- **1)** przekazuje BGK, celu realizacji programów rządowych, o których mowa ust. 1:
+    - **a)** pkt 3, środki na pokrycie kosztów i wydatków związanych z ich realizacją,
+    - **b)** pkt 5 i 7, środki na zwiększenie funduszu statutowego BGK;
+
+- **2)** ustala, celu realizacji programów rządowych, o których mowa ust. 1 pkt 3, minimalną wysokość stałej stopy procentowej kredytów eksportowych dla złotego.
+
+5. BGK celu realizacji programów rządowych, o których mowa ust. 1 pkt 3, 5 i 7, może również pozyskiwać środki z innych źródeł, szczególności zaciągać kredyty i pożyczki oraz emitować obligacje kraju i za granicą.
+
+6. W przypadku gdy BGK, na podstawie odrębnych przepisów lub programów rządowych, jest obowiązany do realizacji zadań polegających na świadczeniu usług wypłat gotówkowych, przez świadczenie takich usług rozumie się również wypłaty gotówkowe realizowane przez inne banki krajowe na podstawie umowy zawartej przez BGK z tymi bankami. skarbowe papiery wartościowe na zwiększenie funduszu statutowego BGK.
+
+2. Minister właściwy do spraw finansów publicznych określi, przez wydanie listu emisyjnego, warunki emisji skarbowych papierów wartościowych, o których mowa ust. 1, oraz sposób realizacji świadczeń z nich wynikających.
+
+3. List emisyjny zawiera szczególności:
+
+- **1)** datę emisji;
+- **2)** powołanie podstawy prawnej emisji;
+- **3)** jednostkową wartość nominalną;
+- **4)** walutę, której może następować emisja, lub sposób określenia waluty emisji;
+- **5)** cenę lub sposób jej ustalenia;
+- **6)** stopę procentową lub sposób jej obliczania;
+- **7)** określenie sposobu i terminów wypłaty należności głównej oraz należności ubocznych;
+- **8)** datę, od której nalicza się oprocentowanie skarbowych papierów wartościowych tej emisji;
+- **9)** termin wykupu oraz zastrzeżenia przedmiocie możliwości wcześniejszego wykupu.
+
+4. Emisja skarbowych papierów wartościowych, o których mowa ust. 1, następuje z dniem zarejestrowania skarbowych papierów wartościowych depozycie papierów wartościowych oraz kwocie równej wartości nominalnej wyemitowanych papierów wartościowych.
+
+5. Do emisji skarbowych papierów wartościowych, o których mowa ust. 1, nie stosuje się przepisów art. 97, art. 98 i art. 102 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2025 r. poz. 1483, 1844 i 1846).
+
+6. Emisji skarbowych papierów wartościowych, o których mowa ust. 1, nie wlicza się do limitów określonych ustawie budżetowej.
+
+7. Wartość nominalną zobowiązań z tytułu wyemitowanych skarbowych papierów wartościowych, o których mowa ust. 1, zalicza się do długu Skarbu Państwa, zgodnie z ustawą z dnia 27 sierpnia 2009 r. o finansach publicznych.
+
+**Art. 5b.**
+
+1. Minister właściwy do spraw finansów publicznych może udzielić BGK pożyczki ze środków budżetu państwa na zwiększenie funduszy własnych. Skarb Państwa wyemitowanych przez BGK dłużnych papierów wartościowych.
+
+**Art. 5c.**
+
+1. W przypadku gdy BGK posiada fundusze własne na poziomie wyższym niż poziom, który BGK jest zobowiązany utrzymywać zgodnie z ustawą z dnia 29 sierpnia 1997 r. – Prawo bankowe oraz wymogami ostrożnościowymi, których zgodnie z art. 3 ust. 1a przestrzega BGK, Rada Nadzorcza, na wniosek ministra właściwego do spraw instytucji finansowych, może, drodze uchwały, obniżyć fundusz statutowy. Wymogu uzyskania zezwolenia, o którym mowa art. 77 rozporządzenia nr 575/2013, nie stosuje się.
+
+2. Obniżenie funduszu statutowego BGK odbywa się poprzez:
+
+- **1)** wpłatę do budżetu państwa środków pieniężnych wysokości kwoty, o którą obniżono fundusz statutowy;
+- **2)** nieodpłatne przekazanie na rzecz Skarbu Państwa będących posiadaniu BGK skarbowych papierów wartościowych, o których mowa art. 5a ust. 1;
+- **3)** nieodpłatne przekazanie na rzecz Skarbu Państwa lub innej państwowej osoby prawnej akcji lub udziałów przekazanych uprzednio do BGK celu podwyższenia funduszu statutowego.
+
+3. Uchwała, o której mowa ust. 1, określa wysokość, o jaką fundusz statutowy ma zostać obniżony, oraz sposób jego obniżenia.
+
+**Art. 5d.** Zysk netto BGK może zostać przeznaczony na:
+
+**Art. 6.**
+
+1. Zakres działania BGK może obejmować również:
+
+- **1)** obsługę bankową rachunków budżetu państwa;
+- **2)** obsługę budżetów jednostek samorządu terytorialnego;
+- **3)** obsługę rachunków państwowych lub samorządowych osób prawnych utworzonych na podstawie odrębnych ustaw celu wykonywania zadań publicznych;
+- **4)** inne czynności określone odrębnymi ustawami;
+- **5)** inne czynności, realizowane z wykorzystaniem środków publicznych, określone umowami zawartymi z organami administracji rządowej. przepisy oraz umowy zawarte na ich podstawie.
+
+**Art. 6a.**
+
+1. BGK może dokonywać emisji listów zastawnych, szczególności celu realizacji programów rządowych, o których mowa art. 5 ust. 1 pkt 7.
+
+2. W przypadku emisji listów zastawnych, o których mowa ust. 1, stosuje się odpowiednio przepisy art. 1–8, art. 12a ust. 3 oraz art. 17–34 ustawy z dnia 29 sierpnia 1997 r. o listach zastawnych i bankach hipotecznych (Dz. U. z 2023 r. poz. 110).
+
+**Art. 7.** Organami BGK są Rada Nadzorcza i Zarząd.
+
+**Art. 8.**
+
+1. Rada Nadzorcza składa się z 15 członków, tym przewodniczącego, powoływanych spośród osób posiadających odpowiednie kwalifikacje.
+
+1a. Rada Nadzorcza jest zdolna do realizacji swoich zadań i podejmowania uchwał, jeżeli liczba jej członków wynosi niemniej niż 10 osób.
+
+1b. W przypadku gdy liczba członków Rady Nadzorczej jest mniejsza niż 15, terminie 30 dni podejmuje się czynności celu uzupełnienia składu do 15 osób.
+
+2. Kadencja Rady Nadzorczej trwa 4 lata.
+
+3. Przewodniczącego Rady Nadzorczej powołuje i odwołuje Prezes Rady Ministrów na wniosek ministra właściwego do spraw gospodarki. Pozostałych członków Rady Nadzorczej powołuje i odwołuje Prezes Rady Ministrów na wniosek właściwych ministrów, o których mowa ust. 4. Członek Rady Nadzorczej nie może być członkiem Zarządu.
+
+4. W skład Rady Nadzorczej wchodzą:
+
+- **1)** trzech przedstawicieli ministra właściwego do spraw gospodarki;
+- **2)** dwóch przedstawicieli ministra właściwego do spraw rozwoju regionalnego;
+- **3)** przedstawiciel ministra właściwego do spraw instytucji finansowych;
+- **4)** przedstawiciel ministra właściwego do spraw finansów publicznych;
+- **5)** (uchylony)
+- **6)** przedstawiciel ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa;
+- **7)** przedstawiciel ministra właściwego do spraw transportu;
+- **8)** przedstawiciel ministra właściwego do spraw energii;
+- **9)** przedstawiciel ministra właściwego do spraw szkolnictwa wyższego i nauki;
+- **10)** przedstawiciel ministra właściwego do spraw aktywów państwowych;
+- **12)** przedstawiciel ministra właściwego do spraw gospodarki surowcami energetycznymi.
+
+5. Mandat członka Rady Nadzorczej wygasa z upływem kadencji, wskutek śmierci, rezygnacji albo odwołania go ze składu Rady Nadzorczej.
+
+6. W przypadku wygaśnięcia mandatu członka Rady Nadzorczej trakcie trwania kadencji Rady Nadzorczej powołuje się nowego członka na okres do końca kadencji Rady Nadzorczej. Przepisy ust. 1, 3 i 4 stosuje się odpowiednio.
+
+7. Po upływie kadencji Rady Nadzorczej, członkowie Rady Nadzorczej są zobowiązani do pełnienia swoich obowiązków do dnia powołania nowej Rady Nadzorczej.
+
+**Art. 9.**
+
+1. Do zadań Rady Nadzorczej należy szczególności:
+
+- **1)** sprawowanie nadzoru nad działalnością BGK;
+- **2)** (uchylony)
+- **3)** czuwanie nad zgodnością działalności Zarządu z przepisami prawa i statutem;
+- **4)** uchwalanie rocznego planu finansowo-rzeczowego BGK;
+- **5)** zatwierdzanie przedstawionego przez Zarząd sprawozdania finansowego;
+- **6)** zatwierdzanie podziału zysku i sposobu pokrycia strat;
+- **7)** przyjmowanie sprawozdania z działalności BGK.
+
+2. Rada Nadzorcza uchyla uchwały Zarządu niezgodne z przepisami prawa lub statutem BGK.
+
+3. (uchylony)
+
+**Art. 10.**
+
+1. Zarząd kieruje działalnością BGK.
+
+2. Zarząd składa się z 6 członków, tym prezesa, pierwszego wiceprezesa i wiceprezesa.
+
+2a. Zarząd jest zdolny do kierowania działalnością BGK i podejmowania uchwał, jeżeli liczba jego członków wynosi niemniej niż 3 osoby.
+
+2b. W przypadku gdy liczba członków Zarządu jest mniejsza niż 6, terminie 30 dni podejmuje się czynności celu uzupełnienia składu do 6 osób.
+
+3. Do składania oświadczeń imieniu BGK, tym zakresie praw i obowiązków majątkowych, uprawnieni są:
+
+- **1)** dwaj członkowie Zarządu działający łącznie; samodzielnie lub łącznie z innym pełnomocnikiem lub członkiem Zarządu.
+
+4. (uchylony)
+
+5. Prezes Rady Ministrów powołuje i odwołuje:
+
+- **1)** prezesa Zarządu – na wniosek ministra właściwego do spraw gospodarki;
+- **2)** pierwszego wiceprezesa Zarządu – na wniosek ministra właściwego do spraw instytucji finansowych;
+- **3)** wiceprezesa Zarządu – na wniosek ministra właściwego do spraw transportu;
+- **4)** po jednym członku Zarządu – na wniosek odpowiednio ministra właściwego do spraw rozwoju regionalnego, ministra właściwego do spraw gospodarki oraz ministra właściwego do spraw finansów publicznych.
+
+6. (uchylony)
+
+7. Powołanie prezesa Zarządu i jednego członka Zarządu następuje za zgodą Komisji Nadzoru Finansowego. Przepisy art. 22a ust. 2 i art. 22b ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe stosuje się odpowiednio.
+
+8. Prezes Zarządu reprezentuje BGK na zewnątrz, przewodniczy obradom Zarządu oraz organizuje działalność BGK.
+
+**Art. 10a.** Do kompetencji:
+
+**Art. 11.**
+
+1. Kadencja Zarządu trwa 5 lat.
+
+2. Po upływie kadencji Zarządu, członkowie Zarządu są zobowiązani do pełnienia swoich obowiązków do dnia powołania nowego Zarządu. poszczególnych lub wszystkich członków Zarządu, na okres niedłuższy niż 3 miesiące.
+
+4. W okresie zawieszenia członek Zarządu otrzymuje połowę przysługującego mu wynagrodzenia.
+
+5. Rada Nadzorcza może delegować, na okres niedłuższy niż 3 miesiące, członków Rady Nadzorczej do wykonywania czynności członków Zarządu:
+
+- **1)** którzy zostali odwołani, złożyli rezygnację albo z innych przyczyn nie mogą sprawować swoich czynności;
+- **2)** jeżeli uzna takie działanie za niezbędne celu ostrożnego i stabilnego zarządzania bankiem.
+
+6. W okresie delegowania, o którym mowa ust. 5, mandat członka Rady Nadzorczej ulega zawieszeniu.
+
+7. Mandat członka Zarządu wygasa z upływem kadencji, wskutek śmierci, rezygnacji albo odwołania go ze składu Zarządu.
+
+8. W przypadku wygaśnięcia mandatu członka Zarządu trakcie trwania kadencji Zarządu powołuje się nowego członka na okres do końca kadencji Zarządu. Przepisy art. 10 ust. 5 i 7 stosuje się odpowiednio.
+
+9. Do złożenia rezygnacji przez członka Zarządu stosuje się odpowiednio przepisy o wypowiedzeniu zlecenia przez przyjmującego zlecenie.
+
+**Art. 11a.** Do wynagradzania członków Zarządu oraz członków Rady Nadzorczej stosuje się zasady wynikające z ustawy z dnia 9 czerwca 2016 r. o zasadach kształtowania wynagrodzeń osób kierujących niektórymi spółkami, przy czym zadania podmiotu uprawnionego do wykonywania praw udziałowych oraz walnego zgromadzenia wykonuje minister właściwy do spraw gospodarki. Minister właściwy do spraw gospodarki określa zasady wynagradzania członków Zarządu i członków Rady Nadzorczej formie oświadczeń.
+
+**Art. 12.** (uchylony)
+
+**Art. 12a.**
+
+1. Minister właściwy do spraw gospodarki może żądać od Rady Nadzorczej, Zarządu, członków Rady Nadzorczej, o których mowa art. 8 ust. 4 informacji dotyczących BGK z zakresu wspierania gospodarki.
+
+1a. Minister właściwy do spraw aktywów państwowych może żądać od Rady Nadzorczej, Zarządu oraz członka Rady Nadzorczej, o którym mowa art. 8 ust. 4 pkt 10, przekazania informacji dotyczących BGK z zakresu gospodarowania aktywami państwowymi.
+
+2. Minister właściwy do spraw rozwoju regionalnego może żądać od Rady Nadzorczej, Zarządu, członków Rady Nadzorczej, o których mowa art. 8 ust. 4 pkt 2, oraz od członka Zarządu powołanego na wniosek tego ministra przekazania informacji dotyczących BGK z zakresu polityki regionalnej i rozwoju regionów.
+
+3. Minister właściwy do spraw instytucji finansowych może żądać od Rady Nadzorczej, Zarządu, członka Rady Nadzorczej, o którym mowa art. 8 ust. 4 pkt 3, oraz od pierwszego wiceprezesa Zarządu przekazania informacji dotyczących BGK z zakresu funkcjonowania rynku finansowego.
+
+4. Minister właściwy do spraw finansów publicznych może żądać od Rady Nadzorczej, Zarządu, członka Rady Nadzorczej, o którym mowa art. 8 ust. 4 pkt 4, oraz od członka Zarządu powołanego na wniosek tego ministra przekazania informacji dotyczących BGK z zakresu realizacji dochodów i wydatków budżetu państwa.
+
+5. Minister właściwy do spraw szkolnictwa wyższego i nauki może żądać od Rady Nadzorczej, Zarządu oraz członka Rady Nadzorczej, o którym mowa art. 8 ust. 4 pkt 9, przekazania informacji dotyczących BGK z zakresu wspierania działalności naukowej lub szkolnictwa wyższego.
+
+6. Minister właściwy do spraw klimatu może żądać od Rady Nadzorczej, Zarządu oraz członka Rady Nadzorczej, o którym mowa art. 8 ust. 4 pkt 11, przekazania informacji dotyczących BGK z zakresu wspierania działań na rzecz ochrony środowiska, tym klimatu.
+
+7. Minister właściwy do spraw gospodarki surowcami energetycznymi może żądać od Rady Nadzorczej, Zarządu oraz członka Rady Nadzorczej, o którym mowa art. 8 ust. 4 pkt 12, przekazania informacji dotyczących BGK z zakresu gospodarowania surowcami energetycznymi. Art. 13–22. (pominięte) z wyjątkiem art. 14, który wchodzi życie z dniem 1 stycznia 2004 r.
+
 

@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# ustalanych alimen tów, nie 30% mie wynagrodzenia III kwartale 1999 r., szonego przez Prezesa Statystycz nego do celów emerytalnych. Prezydent Rzeczypospolitej Polskiej: 1001
+# zmianie ustawy pomocy społecznej i ustawy rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych
+
+*USTAWA dnia 8 października 1999 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,16 +26,13 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990901001) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1999/1001/text.pdf) |
 
-USTAWA dnia 8 1999 r.
-zmianie ustawy pomocy ustawy rehabilitacji zawodowej osób
+**Art. 1.** W ustawie dnia 29 listopada 1990 r. pomocy społecznej (Dz.U. 1998 r. Nr 64, poz. 414, Nr 106, poz. 668, Nr 117, poz. 756 i Nr 162, poz. 1118 i 1126 oraz 1999 r. Nr 20, poz. 170 i Nr 79, poz. 885) wprowadza się następujące zmiany:
 
-**Art. 1.** W ustawie dnia 29 listopada 1990 r. po mocy (Dz. U. 1998 r. Nr 64, poz. 414, Nr 106, poz. 668, Nr 117, poz. 756 Nr 162, poz. 1118 1126 oraz 1999 r. Nr 20, poz. 170 Nr 79, poz. 885) wprowadza zmiany:
+**Art. 2.** W ustawie dnia 27 sierpnia 1997 r. rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz.U. Nr 123, poz. 776 i Nr 160, poz. 1082, 1998 r. Nr 99, poz. 628, Nr 106, poz. 668, Nr 137, poz. 887, Nr 156, poz. 1019 i Nr 162, poz. 1118 i 1126 oraz 1999 r. Nr 49, poz. 486) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie dnia 27 sierpnia 1997 r. reha bilitacji zawodowej oraz zatrudnianiu osób (Dz. U. Nr 123, poz. 776 Nr 160, poz. 1082, 1998 r. Nr 99, poz. 628, Nr 106, poz. 668, Nr 137, poz. 887, Nr 156, poz. 1019 Nr 162, poz. 1118 1126 oraz 1999 r. Nr 49, poz. 486) wprowadza na zmiany:
+**Art. 3.** Osoby otrzymujące zasiłek stały na podstawie art. 27 1 i 2 ustawy, której mowa art. 1, zachowują do niego prawo przez okres 90 dni po dniu wejścia życie niniejszej ustawy, mimo że nie spełniają warunków do otrzymania zasiłku stałego na podstawie ustawy, której mowa art. 1, brzmieniu nadanym niniejszą ustawą.
 
-**Art. 3.** Osoby wie art. 27 ust. 1 2 ustawy, do niego prawo przez niniejszej ustawy, warunków do otrzymania wie ustawy, której mowa nym
+**Art. 4.** Do wniosków pracodawców przyznanie statusu zakładu pracy chronionej, złożonych i nie rozpatrzonych przed dniem wejścia życie niniejszej ustawy, stosuje się przepis art. 28 1 ustawy, której mowa art. 2, brzmieniu nadanym niniejszą ustawą.
 
-**Art. 4.** Do wniosków pracodawców statusu pracy chronionej, patrzonych przed dniem ustawy, stosuje przepis rej mowa wart. 2, brzmieniu
-
-**Art. 5.** Ustawa wchodzi od dnia Prezydent Rzeczypospolitej 1002 STATUT FUNDUSZU ROZWOJU RADY EUROPY, Porto Carras dniu 8 czerwca 1993 r. W imieniu Rzeczypospolitej Polskiej PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ podaje do powszechnej W dniu 8 czerwca 1993 r. Porto Carras Statut Funduszu Rozwoju py nr 247 (1993) Organu Funduszu. Po zaznajomieniu statutem, imieniu Rzeczypospolitej Polskiej - on uznany za zarówno jak nim - jest ratyfikowany potwierdzony, - niezmiennie zachowywany. Na dowód czego wydany akt niniejszy, opatrzony Rzeczypospolitej
+**Art. 5.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia.
 

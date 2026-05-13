@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 23 marca 2023 OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ dnia 9 lutego 2023 sprawie ogłoszenia jednolitego tekstu ustawy o stosunku Państwa do Polskiego Autokefalicznego Kościoła Prawosławnego
+# 1. Na podstawie 16 ust. 1 zdanie pierwsze ustawy dnia 20 lipca 2000 o ogłaszaniu aktów normatywnych niektórych innych aktów prawnych (Dz. U. 2019 poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy dnia 4 lipca 1991 o stosunku Państwa do Polskiego Autokefalicznego Kościoła Prawosławnego (Dz. U.
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ dnia 9 lutego 2023 sprawie ogłoszenia jednolitego tekstu ustawy o stosunku Państwa do Polskiego Autokefalicznego Kościoła Prawosławnego*
 
 | Pole | Wartość |
 |---|---|
@@ -24,7 +26,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000544) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/544/text.pdf) |
 
-1. Na podstawie 16 ust. 1 zdanie pierwsze ustawy dnia 20 lipca 2000 o ogłaszaniu aktów normatywnych niektórych innych aktów prawnych (Dz. U. 2019 poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy dnia 4 lipca 1991 o stosunku Państwa do Polskiego Autokefalicznego Kościoła Prawosławnego (Dz. U.
 2014 poz. 1726), uwzględnieniem zmiany wprowadzonej ustawą dnia 9 czerwca 2022 o wspieraniu resocjalizacji nieletnich (Dz. U. poz. 1700) oraz zmian wynikających przepisów ogłoszonych przed dniem 8 lutego 2023
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje 417 ustawy dnia 9 czerwca 2022 o wspieraniu resocjalizacji nieletnich (Dz. U. poz. 1700), który stanowi: „Art. 417. Ustawa wchodzi życie dniem 1 września 2022 r., wyjątkiem 135 ust. 1 2, 186 ust. 1 2, 243 ust. 1, 321, 324–338 zakresie okręgowych ośrodków wychowawczych, 340 zakresie okręgowych ośrodków wychowawczych, 341 zakresie okręgowych ośrodków wychowawczych, 343, 348 zakresie okręgowych ośrodków wychowawczych, 361, 363, 385 pkt 1 2, 389 pkt 1 3–7, 393, 400, 401 ust. 2 415 pkt 4, które wchodzą życie dniem następującym po dniu ogłoszenia.”.
 Marszałek Sejmu: E. Witek
@@ -123,7 +124,7 @@ USTAWA dnia 4 lipca 1991 o stosunku Państwa do Polskiego Autokefalicznego Kośc
 4. Właściwa władza kościelna powiadamia niezwłocznie organ administracji rządowej wymieniony ust. 2 o:
 
 - **1)** zmianach dotyczących nazwy siedziby kościelnej osoby prawnej oraz o zmianie jej granic;
-- **2)** połączeniu, podziale zniesieniu kościelnych osób prawnych. uzyskania osobowości prawnej.
+- **2)** połączeniu, podziale zniesieniu kościelnych osób prawnych.
 
 6. O powołaniu odwołaniu osoby sprawującej funkcje organu osoby prawnej władza kościelna powiadamia właściwy organ administracji rządowej. Powiadomienie obejmuje imię nazwisko, obywatelstwo oraz miejsce zamieszkania danej osoby.
 
@@ -175,7 +176,7 @@ USTAWA dnia 4 lipca 1991 o stosunku Państwa do Polskiego Autokefalicznego Kośc
 
 2. Katecheza nauczanie religii są organizowane na zasadach trybie przewidzianych odrębnych przepisach.
 
-**Art. 16.** Kościelne osoby prawne mają prawo zakładać prowadzić szkoły oraz inne placówki oświatowo-wychowawcze opiekuńczo-wychowawcze na zasadach organizacyjnych programowych określonych przez odpowiednie ustawy. Mają one charakter wyznaniowy podlegają władzy kościelnej. czych oraz placówkach opiekuńczo-wychowawczych prowadzonych przez kościelne osoby prawne, a także do świeckich nauczycieli seminariach duchownych oraz szkołach ikonografii śpiewu cerkiewnego stosuje się prawa obowiązki ustalone dla nauczycieli wychowawców zatrudnionych państwowych szkołach placówkach oświatowo-wychowawczych oraz opiekuńczo-wychowawczych, uwzględnieniem ust. 2. 2. Szczegółowy zakres uprawnień obowiązków, o których mowa ust. 1, określa Minister Edukacji Narodowej na wniosek Świętego Soboru Biskupów. 3. Pracownikom szkół innych placówek oświatowo-wychowawczych oraz placówek opiekuńczo-wychowawczych, niebędącym nauczycielami lub wychowawcami, przysługują uprawnienia świadczenia, przewidziane dla tej kategorii pracowników zatrudnionych państwowych szkołach placówkach.
+**Art. 16.** Kościelne osoby prawne mają prawo zakładać prowadzić szkoły oraz inne placówki oświatowo-wychowawcze opiekuńczo-wychowawcze na zasadach organizacyjnych programowych określonych przez odpowiednie ustawy. Mają one charakter wyznaniowy podlegają władzy kościelnej. nauczycieli seminariach duchownych oraz szkołach ikonografii śpiewu cerkiewnego stosuje się prawa obowiązki ustalone dla nauczycieli wychowawców zatrudnionych państwowych szkołach placówkach oświatowo-wychowawczych oraz opiekuńczo-wychowawczych, uwzględnieniem ust. 2. 2. Szczegółowy zakres uprawnień obowiązków, o których mowa ust. 1, określa Minister Edukacji Narodowej na wniosek Świętego Soboru Biskupów. 3. Pracownikom szkół innych placówek oświatowo-wychowawczych oraz placówek opiekuńczo-wychowawczych, niebędącym nauczycielami lub wychowawcami, przysługują uprawnienia świadczenia, przewidziane dla tej kategorii pracowników zatrudnionych państwowych szkołach placówkach.
 
 **Art. 18.**
 
@@ -264,7 +265,7 @@ USTAWA dnia 4 lipca 1991 o stosunku Państwa do Polskiego Autokefalicznego Kośc
 
 - **6)** 1. Osoby tymczasowo aresztowane mogą wykonywać praktyki religijne wysłuchiwać nabożeństw transmitowanych przez środki masowego przekazywania oraz, za zgodą organu, do którego dyspozycji pozostają, korzystać indywidualnych posług religijnych.
 
-2. Osobom skazanym zapewnia się możliwość wykonywania praktyk religijnych, korzystania posług religijnych oraz uczestniczenia nabożeństwach odprawianych niedziele święta prawosławne odpowiednio przystosowanym pomieszczeniu zakładzie, którym przebywają. Osobom, które nie mogą uczestniczyć odprawianych na terenie zakładu nabożeństwach, należy zapewnić, miarę potrzeby, oddzielnych pomieszczeniach, możliwość wysłuchania nabożeństw transmitowanych przez środki masowego przekazywania. nieletnich zapewnia się możliwość wykonywania praktyk religijnych, korzystania katechizacji posług religijnych, uczestniczenia Liturgii Świętej niedziele święta prawosławne. Nieletnim, którzy nie mogą uczestniczyć Liturgii Świętej, należy zapewnić, miarę potrzeby, oddzielnych pomieszczeniach, możliwość wysłuchania nabożeństw transmitowanych przez środki masowego przekazywania.
+2. Osobom skazanym zapewnia się możliwość wykonywania praktyk religijnych, korzystania posług religijnych oraz uczestniczenia nabożeństwach odprawianych niedziele święta prawosławne odpowiednio przystosowanym pomieszczeniu zakładzie, którym przebywają. Osobom, które nie mogą uczestniczyć odprawianych na terenie zakładu nabożeństwach, należy zapewnić, miarę potrzeby, oddzielnych pomieszczeniach, możliwość wysłuchania nabożeństw transmitowanych przez środki masowego przekazywania. niczenia Liturgii Świętej niedziele święta prawosławne. Nieletnim, którzy nie mogą uczestniczyć Liturgii Świętej, należy zapewnić, miarę potrzeby, oddzielnych pomieszczeniach, możliwość wysłuchania nabożeństw transmitowanych przez środki masowego przekazywania.
 
 4. W celu realizacji uprawnień osób wymienionych ust. 1–3 kierownicy odpowiednich zakładów zawierają umowy sprawie nieodpłatnego wykonywania obowiązków kapelana duchownymi skierowanymi przez biskupa diecezjalnego.
 
@@ -445,7 +446,7 @@ USTAWA dnia 4 lipca 1991 o stosunku Państwa do Polskiego Autokefalicznego Kośc
 - **4)** wywłaszczonych, jeżeli odszkodowanie za wywłaszczoną nieruchomość nie zostało wypłacone lub nie zostało podjęte;
 - **5)** przejętych we władanie państwowych jednostek organizacyjnych bez tytułu prawnego, bez względu na późniejsze ustawodawstwo konwalidujące te przejęcia.
 
-2. Regulacja nie może naruszać praw nabytych przez niepaństwowe osoby trzecie, szczególności przez inne kościoły związki wyznaniowe oraz rolników indywidualnych. ustawy do Ministra-Szefa Urzędu Rady Ministrów . Roszczenia niezgłoszone tym terminie wygasają.
+2. Regulacja nie może naruszać praw nabytych przez niepaństwowe osoby trzecie, szczególności przez inne kościoły związki wyznaniowe oraz rolników indywidualnych.
 
 2. Minister-Szef Urzędu Rady Ministrów wydając decyzję może:
 

@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 20 maja 2014 r.
+# o zmianie ustawy o transporcie kolejowym, ustawy o komercjalizacji, restrukturyzacji i prywatyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe” oraz ustawy o Funduszu Kolejowym
+
+*USTAWA z dnia 24 kwietnia 2014 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +25,6 @@ domain: null
 | Data wydania | 2014-05-20 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000644) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/644/text.pdf) |
-
-Poz. 644
-USTAWA z dnia 24 kwietnia 2014 r.
-o zmianie ustawy o transporcie kolejowym, ustawy o komercjalizacji, restrukturyzacji i prywatyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe” oraz ustawy o Funduszu Kolejowym
 
 **Art. 1.** W ustawie z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2013 r. poz. 1594) wprowadza się następujące zmiany:
 

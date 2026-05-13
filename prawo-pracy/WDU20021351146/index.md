@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# poz. 84, 100, poz. 1085, 123, poz. 1350 i 125, ki zostały wydane, nie dłużej jednak niż do dnia poz. 1367) art. 1 ust. 3 pkt 3 lit. b) skreśla się 31grudnia 2002 r.
+# o zmianie ustawy - Kodeks pracy oraz o zmianie niektórych innych ustaw
+
+*USTAWA z dnia 26 lipca 2002 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,52 +26,43 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021351146) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/1146/text.pdf) |
 
-wyrazy Ńiużywkami,”.
-3. Przepis ust. 1 nie dotyczy decyzji zezwalających
+**Art. 1.** W ustawie z dnia 26 czerwca 1974 r. - Kodeks pracy (Dz.U. z 1998 r. Nr 21, poz. 94, Nr 106, poz. 668 i Nr 113, poz. 717, z 1999 r. Nr 99, poz. 1152, z 2000 r. Nr 19, poz. 239, Nr 43, poz. 489, Nr 107, poz. 1127 i Nr 120, poz. 1268, z 2001 r. Nr 11, poz. 84, Nr 28, poz. 301, Nr 52, poz. 538, Nr 99, poz. 1075, Nr 111, poz. 1194, Nr 123, poz. 1354, Nr 128, poz. 1405 i Nr 154, poz. 1805 oraz z 2002 r. Nr 74, poz. 676) wprowadza się następujące zmiany:
 
-**Art. 13.** W ustawie z dnia 30 marca 2001 r. o rolni- wydanych na podstawie art. 13 ust. 7 ustawy, o której czych badaniach rynkowych (Dz. U. 42, poz. 471) mowa wart. 1. wart. 2 wpkt 1 skreśla się wyrazy Ń , używki”.
+**Art. 167².** Pracodawca jest obowiązany udzielić na żądanie pracownika i w terminie przez niego wskazanym nie więcej niż 4 dni urlopu w każdym roku kalendarzowym. Pracownik zgłasza żądanie udzielenia urlopu najpóźniej w dniu rozpoczęcia urlopu.
 
-**Art. 15.** Ustawa wchodzi wżycie po upływie 14 dni
+**Art. 167³.** Łączny wymiar urlopu wykorzystanego przez pracownika na zasadach i w trybie określonych w art. 167 nie może przekroczyć w roku kalendarzowym 4 dni, niezależnie od liczby pracodawców, z którymi pracownik pozostaje w danym roku w kolejnych stosunkach pracy.”;
 
-**Art. 14.**
+**Art. 2.** W ustawie z dnia 28 grudnia 1989 r. o szczególnych zasadach rozwiązywania z pracownikami stosunków pracy z przyczyn dotyczących zakładu pracy oraz o zmianie niektórych ustaw (Dz.U. z 2002 r. Nr 112, poz. 980) wprowadza się następujące zmiany:
 
-1. Decyzje zezwalające wydane na podsta- od dnia ogłoszenia, ztym że: wie ustawy, o której mowa art. 1, zachowują ważność na okres, na jaki były wydane, nie dłużej jednak 1) art. 1 pkt 9 wchodzi życie z dniem 1 stycznia niż do dnia uzyskania przez Rzeczpospolitą Polską 2003r., członkostwa wUnii Europejskiej.
+**Art. 3.** W ustawie z dnia 23 maja 1991 r. o związkach zawodowych (Dz.U. z 2001 r. Nr 79, poz. 854, Nr 100, poz. 1080 i Nr 128, poz. 1405) wprowadza się następujące zmiany:
 
-- **2)** art. 1 pkt 12 wchodzi życie z dniem 10 listopada
+**Art. 4.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz.U. z 2000 r. Nr 14, poz. 176, Nr 22, poz. 270, Nr 60, poz. 703, Nr 70, poz. 816, Nr 104, poz. 1104, Nr 117, poz. 1228 i Nr 122, poz. 1324, z 2001 r. Nr 4, poz. 27, Nr 8, poz. 64, Nr 52, poz. 539, Nr 73, poz. 764, Nr 74, poz. 784, Nr 88, poz. 961, Nr 89, poz. 968, Nr 102, poz. 1117, Nr 106, poz. 1150, Nr 110, poz. 1190, Nr 125, poz. 1363 i 1370 i Nr 134, poz. 1509 oraz z 2002 r. Nr 19, poz. 199, Nr 25, poz. 253, Nr 74, poz. 676, Nr 78, poz. 715 i Nr 89, poz. 804) w art. 21 w ust. 1 wprowadza się następujące zmiany:
 
-2. Decyzje zezwalające wydane na podstawie usta- 2002 r., wy z dnia 25 listopada 1970 r. o warunkach zdrowot- 3) art. 1 pkt 14 lit. a) wchodzi wżycie zdniem 1 stycznych żywności i żywienia (Dz. U. 29, poz. 245, nia 2004 r. z1971r. 12, poz. 115, z1985 r. 12, poz. 49, z1989r. 35, poz. 192, z 1992 r. 33, poz. 144 i 91, poz. 456, z 1997 r. 43, poz. 272, 60, poz. 369 Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski
+**Art. 5.** W ustawie z dnia 4 marca 1994 r. o zakładowym funduszu świadczeń socjalnych (Dz.U. z 1996 r. Nr 70, poz. 335, Nr 118, poz. 561, Nr 139, poz. 647 i Nr 147, poz. 686, z 1997 r. Nr 82, poz. 518 i Nr 121, poz. 770 oraz z 1998 r. Nr 75, poz. 486 i Nr 113, poz. 717) wprowadza się następujące zmiany:
 
-**Art. 1.** W ustawie z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 1998 r. 21, poz. 94, 106, poz. 668 i 113, poz. 717, z 1999 r. 99, poz. 1152, z 2000 r. 19, poz. 239, 43, poz. 489, 107, poz. 1127 i 120, poz. 1268, z 2001 r. 11, poz. 84, 28, poz. 301, 52, poz. 538, 99, poz. 1075, 111, poz. 1194, 123, poz. 1354, 128, poz. 1405 iNr 154, poz. 1805 oraz z2002 r. 74, poz. 676) wprowadza się następujące zmiany:
+**Art. 6.** Przepisu art. 25 ustawy, o której mowa w art. 1, nie stosuje się do dnia przystąpienia Rzeczypospolitej Polskiej do Unii Europejskiej.
 
-**Art. 167².** Pracodawca jest obowiązany udzielić na żądanie pracownika i terminie przez niego wskazanym nie więcej niż 4 dni urlopu każdym roku kalendarzowym. Pracownik zgłasza żądanie udzielenia urlopu najpóêniej wdniu rozpoczęcia urlopu.
-
-**Art. 167³.** Ęączny wymiar urlopu wykorzystanego przez pracownika na zasadach iwtrybie określonych art. 167 nie może przekroczyć roku kalendarzowym 4 dni, niezależnie od liczby pracodawców, z którymi pracownik pozostaje danym roku kolejnych stosunkach pracy.”;
-
-**Art. 2.** Wustawie zdnia 28 grudnia 1989 r. oszczególnych zasadach rozwiązywania z pracownikami stosunków pracy z przyczyn dotyczących zakładu pracy (Dz. U. z2002 r. 112, poz. 980) wprowadza się następujące zmiany:
-
-**Art. 3.** Wustawie zdnia 23 maja 1991 r. ozwiązkach zawodowych (Dz. U. z 2001 r. 79, poz. 854, 100, poz. 1080 iNr 128, poz. 1405) wprowadza się następujące zmiany:
-
-**Art. 4.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2000 r. 14, poz. 176, 22, poz. 270, 60, poz. 703, 70, poz. 816, 104, poz. 1104, 117, poz. 1228 iNr 122, poz. 1324, z 2001 r. 4, poz. 27, 8, poz. 64, 52, poz. 539, 73, poz. 764, 74, poz. 784, 88, poz. 961, 89, poz. 968, 102, poz. 1117, 106, poz. 1150, 110, poz. 1190, 125, poz. 1363 i 1370 iNr 134, poz. 1509 oraz z2002 r. 19, poz. 199, 25, poz. 253, 74, poz. 676, 78, poz. 715 i 89, poz. 804) wart. 21 wust. 1 wprowadza się następujące zmiany:
-
-**Art. 5.** Wustawie zdnia 4 marca 1994 r. ozakładowym funduszu świadczeń socjalnych (Dz. U. z 1996 r. 70, poz. 335, 118, poz. 561, 139, poz. 647 i 147, poz. 686, z 1997 r. 82, poz. 518 i 121, poz. 770 oraz z1998 r. 75, poz. 486 iNr 113, poz. 717) wprowadza się następujące zmiany:
-
-**Art. 6.** Przepisu art. 25 Kodeksu pracy nie stosuje się do dnia przystąpienia Rzeczypospolitej Polskiej do Unii Europejskiej.
-
-**Art. 7.** Jeżeli wypowiedzenie umowy opracę nastąpiło przed dniem wejścia życie ustawy, stosuje się przepisy art. 37 Kodeksu pracy wbrzmieniu obowiązującym przed tym dniem.
+**Art. 7.** Jeżeli wypowiedzenie umowy o pracę nastąpiło przed dniem wejścia w życie ustawy, stosuje się przepisy art. 37 Kodeksu pracy w brzmieniu obowiązującym przed tym dniem.
 
 **Art. 8.**
 
-1. Regulamin wynagradzania wprowadzony upracodawcy przed dniem wejścia wżycie ustawy, jeżeli zatrudnia on mniej niż 20 pracowników, obowiązuje do czasu wprowadzenia postanowień tego regulaminu dotyczących warunków umowy opracę, wzakresie wynikającym z art. 29 Kodeksu pracy, do umów opracę.
+1. Regulamin wynagradzania wprowadzony u pracodawcy przed dniem wejścia w życie ustawy, jeżeli zatrudnia on mniej niż 20 pracowników, obowiązuje do czasu wprowadzenia postanowień tego regulaminu dotyczących warunków umowy o pracę, w zakresie wynikającym z art. 29 Kodeksu pracy, do umów o pracę.
 
-2. Regulamin pracy wprowadzony u pracodawcy, który od dnia wejścia wżycie ustawy nie ma obowiązku ustalenia regulaminu pracy, obowiązuje do czasu spełnienia przez pracodawcę obowiązku, októrym mowa wart. 104 Kodeksu pracy.
+2. Regulamin pracy wprowadzony u pracodawcy, który od dnia wejścia w życie ustawy nie ma obowiązku ustalenia regulaminu pracy, obowiązuje do czasu spełnienia przez pracodawcę obowiązku, o którym mowa w art. 104 Kodeksu pracy.
 
-**Art. 9.** Do pracowników korzystających z urlopu wypoczynkowego dniu wejścia życie ustawy stosuje się dotychczasowe przepisy dotyczące urlopu wypoczynkowego.
+**Art. 9.** Do pracowników korzystających z urlopu wypoczynkowego w dniu wejścia w życie ustawy stosuje się dotychczasowe przepisy dotyczące urlopu wypoczynkowego.
 
 **Art. 10.**
 
-1. Do trwających dniu wejścia ustawy wżycie postępowań dotyczących rozwiązywania zpracownikami stosunków pracy z przyczyn określonych sowe przepisy wykonawcze, jeżeli nie są sprzeczne zni2. Pracownikom, których stosunki pracy rozwiązują niejszą ustawą. się, poczynając od dnia wejścia życie ustawy, następstwie postępowań, októrych mowa wust. 1, przy- Art. 14. Ustawa wchodzi wżycie po upływie 3 miesługuje odprawa pieniężna na zasadach określonych sięcy od dnia ogłoszenia, zwyjątkiem: wdotychczasowych przepisach, chyba że odprawa pieniężna przysługująca na podstawie ustawy, o której 1) art. 1 pkt 11, 14, 22, 26, 28, 32—38 oraz art. 3 mowa wart. 2, wbrzmieniu ustalonym niniejszą usta- pkt 1—3 i 5, art. 4, 5 i 12 ustawy, które wchodzą wą, jest dla nich korzystniejsza. wżycie pierwszego dnia roku kalendarzowego następującego po roku kalendarzowym, którym
+1. Do trwających w dniu wejścia ustawy w życie postępowań dotyczących rozwiązywania z pracownikami stosunków pracy z przyczyn określonych w ustawie wymienionej w art. 2 stosuje się dotychczasowe przepisy.
 
-**Art. 11.** Pracownik objęty ochroną, o której mowa ustawa wchodzi wżycie, wart. 32 ustawy wymienionej wart. 3, nabytą na podstawie tych przepisów brzmieniu obowiązującym 2) art. 2, 3 pkt 4 i6 oraz art. 10, które wchodzą wżycie przed dniem wejścia ustawy życie, podlega takiej pierwszego dnia siódmego miesiąca roku kalendaochronie wokresie roku od dnia wejścia wżycie art. 32 rzowego następującego po roku kalendarzowym, wbrzmieniu nadanym ustawą. wktórym ustawa wchodzi wżycie.
+2. Pracownikom, których stosunki pracy rozwiązują się, poczynając od dnia wejścia w życie ustawy, w następstwie postępowań, o których mowa w ust. 1, przysługuje odprawa pieniężna na zasadach określonych w dotychczasowych przepisach, chyba że odprawa pieniężna przysługująca na podstawie ustawy, o której mowa w art. 2, w brzmieniu ustalonym niniejszą ustawą, jest dla nich korzystniejsza.
 
-**Art. 12.** Pracodawcy, którzy utworzyli zakładowy fundusz świadczeń socjalnych, a nie mają obowiązku jego tworzenia na podstawie przepisów ustawy, októrej mowa art. 5, brzmieniu nadanym niniejszą ustawą, wydatkują zgromadzone na rachunku Funduszu środki na cele iwedług zasad dotychczasowych. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski ISSN 0867-3411 Cena brutto 6,60 zł
+**Art. 11.** Pracownik objęty ochroną, o której mowa w art. 32 ustawy wymienionej w art. 3, nabytą na podstawie tych przepisów w brzmieniu obowiązującym przed dniem wejścia ustawy w życie, podlega takiej ochronie w okresie roku od dnia wejścia w życie art. 32 w brzmieniu nadanym ustawą.
+
+**Art. 12.** Pracodawcy, którzy utworzyli zakładowy fundusz świadczeń socjalnych, a nie mają obowiązku jego tworzenia na podstawie przepisów ustawy, o której mowa w art. 5, w szu środki na cele i według zasad dotychczasowych.
+
+**Art. 13.** Do czasu wydania przepisów wykonawczych przewidzianych w ustawie stosuje się dotychczasowe przepisy wykonawcze, jeżeli nie są sprzeczne z niniejszą ustawą.
+
+**Art. 14.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem:
 

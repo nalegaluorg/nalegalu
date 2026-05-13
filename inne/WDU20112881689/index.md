@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# 1689
+# o zmianie ustawy o ewidencji ludności
+
+*USTAWA z dnia 15 grudnia 2011 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,7 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112881689) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/1689/text.pdf) |
 
-USTAWA z dnia 15 grudnia 2011 r.
-o zmianie ustawy o ewidencji ludności
+**Art. 1.** W ustawie z dnia 24 września 2010 r. o ewidencji ludności (Dz. U. Nr 217, poz. 1427 i Nr 239, poz. 1593 oraz z 2011 r. Nr 133, poz. 768 i Nr 204, poz. 1195) art. 80 otrzymuje brzmienie: „Art. 80. Ustawa wchodzi w życie z dniem 1 stycznia 2013 r.”.
 
-**Art. 1.** W ustawie z dnia 24 września 2010 r. o ewi- Art. 2. Ustawa wchodzi w życie z dniem 31 grudnia dencji ludności (Dz. U. Nr 217, poz. 1427 i Nr 239, 2011 r. poz. 1593 oraz z 2011 r. Nr 133, poz. 768 i Nr 204, poz. 1195) art. 80 otrzymuje brzmienie: „Art. 80. Ustawa wchodzi w życie z dniem 1 stycznia 2013 r.”. Prezydent Rzeczypospolitej Polskiej: B. Komorowski
+**Art. 2.** Ustawa wchodzi w życie z dniem 31 grudnia 2011 r.
 

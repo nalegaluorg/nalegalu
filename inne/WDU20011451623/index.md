@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# Ustawa z dnia 14 listopada 2001 r. o zmianie ustawy o dochodach jednostek samorządu terytorialnego w latach 1999-2001 oraz niektórych innych ustaw.
+# z dnia 14 listopada 2001 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,41 +24,44 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011451623) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/1623/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 26 listopada 1998 r. o dochodach jednostek samorządu terytorialnego wlatach 1999—2001 (Dz. U. 150, poz. 983 iNr 162, poz. 1119, z2000 r. 95, poz. 1041 oraz z2001 r. 39, poz. 459 iNr 55, poz. 574) wprowadza się następujące zmiany:
+zmianie ustawy dochodach jednostek samorządu terytorialnego latach 1999-2001 oraz niekt(cid:243)rych innych ustaw
 
-**Art. 43b.** Decyzje wsprawie zwrotu dotacji wydaje właściwy wojewoda, jeżeli odrębne przepisy nie stanowią inaczej.
+**Art. 1.** W ustawie z dnia 26 listopada 1998 r. dochodach jednostek samorządu terytorialnego latach 1999-2001 (Dz.U. 150, 983 162, 1119, z 2000 r. 95, 1041 oraz z 2001 r. 39, 459 55, 574) wprowadza następujące zmiany:
+
+**Art. 43b.** Decyzje sprawie zwrotu dotacji wydaje właściwy wojewoda, jeżeli odrębne przepisy nie stanowią inaczej.
 
 **Art. 43c.**
 
-1. Jednostki samorządu terytorialnego mogą otrzymywać dotacje celowe zbudżetu państwa na dofinansowanie zadań własnych związanych z:
+1. Jednostki samorządu terytorialnego mogą otrzymywać dotacje celowe z budżetu państwa na dofinansowanie zadań własnych związanych z:
 
-- **1)** dofinansowaniem kosztów wdrożenia reformy oświaty,
-- **2)** inicjatywami wspierania edukacji na obszarach wiejskich, tym na stypendia i pomoc materialną dla USTAWA zdnia 14 listopada 2001 r. ozmianie ustawy odochodach jednostek samorządu terytorialnego wlatach 1999—2001 oraz niektórych innych ustaw.
+- **1)** dofinansowaniem koszt(cid:243)w wdrożenia reformy oświaty,
+- **2)** inicjatywami wspierania edukacji na obszarach wiejskich, tym na stypendia pomoc materialną dla młodzieży,
+- **3)** programem działań osłonowych restrukturyzacji ochronie zdrowia.
 
-2. Podziału środków na poszczególne jednostki samorządu terytorialnego dokonuje, wporozumieniu zwojewodami, minister właściwy do spraw:
+2. Podziału środk(cid:243)w na poszczeg(cid:243)lne jednostki samorządu terytorialnego dokonuje, porozumieniu z wojewodami, minister właściwy do spraw:
 
-- **1)** oświaty i wychowania odniesieniu do zadań, o których mowa wust. 1 pkt 1 i2,
-- **2)** zdrowia wodniesieniu do zadań, októrych mowa wust. 1 pkt 3.
+- **1)** oświaty wychowania - odniesieniu do zadań, kt(cid:243)rych pkt 2,
+- **2)** zdrowia - odniesieniu do zadań, kt(cid:243)rych pkt 3.
 
-3. Do dotacji na cele inwestycyjne związane z zadaniami, o których mowa ust. 1, stosuje się odpowiednio art. 44 ust. 3—8 ustawy.”;
+3. Do dotacji na cele inwestycyjne związane z zadaniami, kt(cid:243)rych 1, stosuje odpowiednio art. 44 3-8 ustawy.(cid:148);
 
-- **9)** po art. 61adodaje się art. 61bwbrzmieniu: ŃArt. 61b. 1. W 2002 r. jednostki samorządu terytorialnego, z zastrzeżeniem art. 90 ust. 3 ustawy zdnia 26 listopada 1998 r. ofinansach publicznych (Dz. U. 155, poz. 1014, z 1999 r. 38, poz. 360, Nr49, poz. 485, 70, poz. 778 iNr110, poz. 1255, z2000 r. 6, poz.69, 12, poz. 136, 48, poz. 550, 95, poz. 1041, 119, poz. 1251 i 122, poz. 1315 oraz z2001 r. 45, poz. 497, 46, poz.499, 88, poz. 961, 98, poz. 1070, 100, poz. 1082, 102, poz. 1116 i 125, poz. 1368), mogą zmienić przeznaczenie dotacji celowych otrzymanych z budżetu państwa na realizację zadań własnych. Zmiana przeznaczenia nie może przekroczyć 15% planowanej kwoty dotacji. Art. 93 ustawy ofinansach publicznych iart. 44 ust. 6 i 7 niniejszej ustawy nie stosuje się.
+- **9)** po art. 61a dodaje art. 61b brzmieniu: (cid:132)Art. 61b. 1. W 2002 r. jednostki samorządu terytorialnego, z zastrzeżeniem art. 90 3 ustawy z dnia 26 listopada 1998 r. finansach publicznych (Dz.U. 155, 1014, z 1999 r. 38, 360, kroczyć 15% planowanej kwoty dotacji. Art. 93 ustawy finansach publicznych art. 44 6 7 niniejszej ustawy nie stosuje się.
 
-2. Zmian przeznaczeniu dotacji celowych, októrych mowa wust. 1, wtym przesunięć między działami, może dokonywać zarząd jednostki samorządu terytorialnego po uzyskaniu pozytywnej opinii komisji właściwej do spraw budżetu.
+2. Zmian przeznaczeniu dotacji celowych, kt(cid:243)rych 1, tym przesunięć między działami, może dokonywać zarząd jednostki samorządu terytorialnego po uzyskaniu pozytywnej opinii komisji właściwej do spraw budżetu.
 
-3. Zarząd jednostki samorządu terytorialnego informuje właściwego wojewodę o zmianach dokonanych na zasadach i trybie, o których mowa ust. 1 i 2, pełnej szczegółowości klasyfikacji budżetowej, wterminie 14 dni od dnia podjęcia uchwały tej sprawie.
+3. Zarząd jednostki samorządu terytorialnego informuje właściwego wojewodę zmianach dokonanych na zasadach trybie kt(cid:243)rych 2, pełnej szczeg(cid:243)łowości klasyfikacji budżetowej, terminie 14 dni od dnia podjęcia uchwały tej sprawie.
 
-4. Wojewodowie przedkładają ministrowi właściwemu do spraw finansów publicznych, wpełnej szczegółowości klasyfikacji budżetowej, zbiorczą informację, wraz z częścią opisową, odokonanych przez zarządy jednostek samorządu terytorialnego zmianach
+4. Wojewodowie przedkładają ministrowi właściwemu do spraw finans(cid:243)w publicznych, pełnej szczeg(cid:243)łowości klasyfikacji budżetowej, zbiorczą informację, wraz z częścią opisową, dokonanych przez zarządy jednostek samorządu terytorialnego zmianach przeznaczenia dotacji celowych otrzymanych z budżetu państwa na realizację zadań własnych, terminach określonych dla złożenia kwartalnych sprawozdań z wykonania dochod(cid:243)w wydatk(cid:243)w budżetu państwa.
 
-5. Część dotacji, stosunku do której dokonano zmian, o których mowa ust. 1, nie może być przeznaczona na wynagrodzenia.”
+5. Część dotacji, stosunku do kt(cid:243)rej dokonano zmian, kt(cid:243)rych 1, nie może być przeznaczona na wynagrodzenia.(cid:148).
 
-**Art. 2.** Wustawie zdnia 28 września 1991 r. olasach (Dz. U. z2000 r. 56, poz. 679, 86, poz. 958 iNr 120, poz. 1268 oraz z2001 r. 110, poz. 1189) wart. 5:
+**Art. 2.** W ustawie z dnia 28 września 1991 r. lasach (Dz.U. z 2000 r. 56, 679, 86, 958 120, 1268 oraz z 2001 r. 110, 1189) art. 5:
 
-**Art. 3.** W ustawie z dnia 16 paêdziernika 1991 r. o ochronie przyrody (Dz. U. z 2001 r. 99, poz. 1079, 100, poz. 1085 iNr 110, poz. 1189) wart. 14 skreśla przeznaczenia dotacji celowych otrzymanych zbudżetu państwa na realizasię ust. 13a.
+**Art. 3.** W ustawie z dnia 16 października 1991 r. ochronie przyrody (Dz.U. z 2001 r. 99, 1079, 100, 1085 110, 1189) art. 14 skreśla 13a. 1084 111, 1194) art. 19f 2 wyrazy (cid:132)w 2000 r. 2001 r.(cid:148) zastępuje wyrazami (cid:132)w latach 2000-2002(cid:148).
 
-**Art. 4.** W ustawie z dnia 13 paêdziernika 1998 r. Przepisy wprowadzające ustawy reformujące administrację publiczną (Dz. U. 133, poz. 872 i 162, poz.1126, z2000 r. 6, poz. 70, 12, poz. 136, 17, poz. 228, 19, poz. 239, 52, poz. 632, 95, poz. 1041 i 122, poz. 1312 oraz z 2001 r. 45, poz. 497, 100, poz. 1084 i 111, poz. 1194) wart.19fwust. 1 i2 wyrazy Ńw2000 r. i2001 r.” zastępuje się wyrazami Ńwlatach 2000—2002”.
+**Art. 5.** W ustawie z dnia 26 listopada 1998 r. finansach publicznych (Dz.U. 155, 1014, z 1999 r. 38, 360, 49, 485, 70, 778 110, 1255, z 2000 r. 6, 69, 12, 136, 48, 550, 95, 1041, 119, 1251 122, 1315 oraz z 2001 r. 45, 497, 46, 499, 88, 961, 98, 1070, 100, 1082 102, 1116) art. 128:
 
-**Art. 5.** Wustawie zdnia 26 listopada 1998 r. ofinansach publicznych (Dz. U. 155, poz. 1014, z 1999 r. Nr38, poz. 360, 49, poz. 485, 70, poz. 778 iNr 110, poz. 1255, z2000 r. 6, poz. 69, 12, poz. 136, 48, poz. 550, 95, poz. 1041, 119, poz. 1251 i 122, poz. 1315 oraz z2001 r. 45, poz. 497, 46, poz. 499, 88, poz. 961, 98, poz. 1070, 100, poz. 1082, Nr102, poz. 1116i 125, poz. 1368) wart. 128:
+**Art. 6.** Ilekroć innych aktach prawnych jest ustawie dochodach jednostek samorządu terytorialnego latach 1999 2000 lub ustawie dochodach jednostek samorządu terytorialnego latach 1999-2001, należy przez to rozumieć ustawę dochodach jednostek samorządu terytorialnego latach 1999-2002.
 
-**Art. 6.** Ilekroć innych aktach prawnych jest mowa oustawie odochodach jednostek samorządu terytorialnego wlatach 1999 i2000 lub oustawie odochodach jednostek samorządu terytorialnego latach 1999—2001, należy przez to rozumieć ustawę odochodach jednostek samorządu terytorialnego latach 1999—2002.
+**Art. 7.** Ustawa wchodzi życie z dniem stycznia 2002 r.
 

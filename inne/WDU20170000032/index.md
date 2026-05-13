@@ -10,7 +10,9 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 5 stycznia 2017 r.
+# o wyposażeniu morskim
+
+*USTAWA z dnia 2 grudnia 2016 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,9 +26,6 @@ domain: null
 | Ostatnia zmiana | 2025-05-08 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000032) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/32/text.pdf) |
 
-USTAWA z dnia 2 grudnia 2016 r.
-o wyposażeniu morskim
-
 **Art. 1.** Ustawa określa zasady:
 
 **Art. 2.**
@@ -37,9 +36,9 @@ o wyposażeniu morskim
 
 **Art. 3.** Ilekroć w ustawie jest mowa o:
 
-**Art. 4.** W przypadku gdy ustawa nie stanowi inaczej, do oceny zgodności wyposażenia morskiego, akredytacji, autoryzacji, notyfikacji, kontroli spełniania przez wyposażenie morskie wymagań i postępowania w sprawie wprowadzonego do obrotu lub oddanego do użytku wyposażenia morskiego niezgodnego z wymaganiami lub stwarzającego zagrożenie stosuje się odpowiednio przepisy art. 4 pkt 1–5, 7, 10–16, 19, 20, 22–27 i 29, art. 7 ust. 2, art. 22–37, art. 58–87 oraz art. 95 i art. 96 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. poz. 542, 1228 i 1579), zwanej dalej „ustawą o systemach oceny zgodności i nadzoru rynku”, z tym że wprowadzenie do obrotu w rozumieniu art. 4 pkt 26 ustawy o systemach oceny zgodności i nadzoru rynku obejmuje również zainstalowanie lub umieszczenie na statku wyposażenia morskiego określonego w przepisach międzynarodowych, określonych w aktach wykonawczych wydanych przez Komisję Europejską na podstawie art. 35 ust. 2 dyrektywy Parlamentu Europejskiego i Rady 2014/90/UE z dnia 23 lipca 2014 r. w sprawie wyposa ż enia morskiego i uchylaj ą cej dyrektyw ę Rady 96/98/WE (Dz. Urz. UE L 257 z 28.08.2014, str. 146).
+**Art. 4.** W przypadku gdy ustawa nie stanowi inaczej, do oceny zgodności wyposażenia morskiego, akredytacji, autoryzacji, notyfikacji, kontroli spełniania przez wyposażenie morskie wymagań, kontroli w zakresie stwarzania przez to wyposażenie zagrożenia oraz kontroli w zakresie niezgodności formalnych, a także postępowania w sprawie wprowadzonego do obrotu lub oddanego do użytku wyposażenia morskiego niezgodnego z wymaganiami lub stwarzającego zagrożenie oraz postępowania w sprawie niezgodności formalnych stosuje się odpowiednio przepisy art. 4 pkt 1–5, 7, 10–12, 13–16, 19, 20, 22–27 i 29, art. 7 ust. 2, art. 22–37, art. 58–87 oraz art. 95 i art. 96 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. z 2022 r. poz. 1854, z 2024 r. poz. 1089 oraz z 2025 r. poz. 179), zwanej dalej „ustawą o systemach oceny zgodności i nadzoru rynku”, z tym że:
 
-**Art. 5.** Wyposa ż enie morskie przed wprowadzeniem go do obrotu, umieszczeniem lub zainstalowaniem na statku podlega ocenie zgodno ś ci z wymaganiami.
+**Art. 5.** Wyposażenie morskie przed wprowadzeniem go do obrotu, umieszczeniem lub zainstalowaniem na statku podlega ocenie zgodności z wymaganiami.
 
 **Art. 6.**
 
@@ -57,7 +56,7 @@ o wyposażeniu morskim
 
 7. Minister właściwy do spraw gospodarki morskiej przekazuje Komisji Europejskiej informacje o stosowanych procedurach oceny i notyfikowania jednostek notyfikowanych i monitorowania tych jednostek oraz o wszelkich zmianach w tym zakresie.
 
-**Art. 7.** Domniemywa si ę , ż e wyposa ż enie morskie, na którym umieszczono znak zgodno ś ci i dla którego sporz ą dzono dokumentację potwierdzającą spełnianie wymagań w innych państwach członkowskich Unii Europejskiej, jest zgodne z wymaganiami.
+**Art. 7.** Domniemywa się, że wyposażenie morskie, na którym umieszczono znak zgodności i dla którego sporządzono dokumentację potwierdzającą spełnianie wymagań w innych państwach członkowskich Unii Europejskiej, jest zgodne z wymaganiami.
 
 **Art. 8.**
 
@@ -87,7 +86,7 @@ o wyposażeniu morskim
 
 2. Znak zgodności umieszcza się tak, aby był widoczny i czytelny, nie można go było usunąć z wyposażenia morskiego lub z jego tabliczki znamionowej oraz był, w stosownych przypadkach, wbudowany w oprogramowanie. Jeżeli nie ma takiej możliwości z uwagi na charakter wyposażenia morskiego, znak zgodności umieszcza się na opakowaniu i na dokumentach dołączonych do wyposażenia morskiego.
 
-3. Pod znakiem zgodno ś ci umieszcza si ę numer identyfikacyjny jednostki notyfikowanej oraz rok, w którym znak zgodno ś ci został umieszczony. Numer identyfikacyjny jednostki notyfikowanej umieszcza ta jednostka albo, zgodnie z jej poleceniem, producent, albo jego upowa ż niony przedstawiciel.
+3. Pod znakiem zgodności umieszcza się numer identyfikacyjny jednostki notyfikowanej oraz rok, w którym znak zgodności został umieszczony. Numer identyfikacyjny jednostki notyfikowanej umieszcza ta jednostka albo, zgodnie z jej poleceniem, producent, albo jego upoważniony przedstawiciel.
 
 4. Zabrania się umieszczania na wyposażeniu morskim, które nie spełnia wymagań oraz dla którego producent albo jego upoważniony przedstawiciel nie wystawił deklaracji zgodności UE, znaku zgodności lub znaku podobnego do znaku zgodności mogącego wprowadzać w błąd nabywcę lub użytkownika tego wyposażenia morskiego.
 
@@ -105,9 +104,9 @@ o wyposażeniu morskim
 
 4. Producent zapewnia stosowanie procedur mających na celu zapewnienie nieprzerwanej zgodności produkcji seryjnej oraz uwzględnia zmiany w projekcie lub charakterystyce wyposażenia morskiego oraz zmiany wymagań, a w razie konieczności zleca w tym zakresie przeprowadzenie nowej oceny zgodności.
 
-5. Producent umieszcza na wyposażeniu morskim nazwę typu, numer partii lub serii lub inną informację umożliwiającą jego identyfikację. Jeżeli nie jest to możliwe ze względu na wielkość lub charakter wyposażenia morskiego, producent umieszcza wymagane informacje na opakowaniu, w dokumencie załączonym do wyposażenia morskiego lub w stosownych przypadkach w obu tych miejscach.
+5. Producent umieszcza na wyposażeniu morskim nazwę typu, numer partii lub serii lub inną informację umożliwiającą jego identyfikację. Jeżeli nie jest to możliwe ze względu na wielkość lub charakter wyposażenia morskiego, producent umieszcza wymagane informacje na opakowaniu, w dokumencie załączonym do wyposażenia morskiego lub – w stosownych przypadkach – w obu tych miejscach.
 
-6. Producent umieszcza na wyposażeniu morskim w języku polskim swoją nazwę, zarejestrowaną nazwę handlową lub zarejestrowany znak towarowy oraz adres kontaktowy lub, jeżeli nie jest to możliwe na opakowaniu, w dokumencie załączonym do wyposażenia morskiego, lub w stosownych przypadkach w obu tych miejscach. Adres wskazuje jedną lokalizację, w której można skontaktować się z producentem.
+6. Producent umieszcza na wyposażeniu morskim w języku polskim swoją nazwę, zarejestrowaną nazwę handlową lub zarejestrowany znak towarowy oraz adres kontaktowy lub, jeżeli nie jest to możliwe – na opakowaniu, w dokumencie załączonym do wyposażenia morskiego, lub – w stosownych przypadkach – w obu tych miejscach. Adres wskazuje jedną lokalizację, w której można skontaktować się z producentem.
 
 7. Producent dołącza do wyposażenia morskiego, sporządzone w języku polskim i w sposób łatwo zrozumiały dla użytkowników, instrukcję oraz informację dotyczącą bezpiecznego montażu wyposażenia morskiego na statku i jego bezpiecznego użytkowania, w tym informację o ewentualnych ograniczeniach eksploatacyjnych, wraz z inną dokumentacją wymaganą zgodnie z przepisami międzynarodowymi.
 
@@ -121,21 +120,21 @@ o wyposażeniu morskim
 
 2. Wykonywanie obowiązków określonych w art. 11 ust. 1 oraz sporządzanie dokumentacji technicznej nie może wchodzić w zakres pełnomocnictwa upoważnionego przedstawiciela.
 
-3. Upowa ż niony przedstawiciel wykonuje zadania okre ś lone w pełnomocnictwie otrzymanym od producenta. Pełnomocnictwo umo ż liwia upowa ż nionemu przedstawicielowi wykonywanie co najmniej nast ę puj ą cych obowi ą zków:
+3. Upoważniony przedstawiciel wykonuje zadania określone w pełnomocnictwie otrzymanym od producenta. Pełnomocnictwo umożliwia upoważnionemu przedstawicielowi wykonywanie co najmniej następujących obowiązków:
 
-- **1)** przechowywanie deklaracji zgodno ś ci UE oraz dokumentacji technicznej do dyspozycji organów nadzoru rynku przez okres co najmniej 10 lat po umieszczeniu znaku zgodno ś ci, jednak nie krócej ni ż przewidywany okres eksploatacji danego wyposa ż enia morskiego;
-- **2)** na wniosek właściwego dyrektora urzędu morskiego udostępnianie mu wszelkich informacji i dokumentacji niezbędnych do potwierdzenia zgodności wyposażenia morskiego;
-- **3)** na wniosek właściwego dyrektora urzędu morskiego podejmowanie z nim współpracy we wszelkich działaniach mających na celu usunięcie zagrożeń, jakie stwarza wyposażenie morskie objęte pełnomocnictwem.
+- **1)** przechowywanie deklaracji zgodności UE oraz dokumentacji technicznej do dyspozycji organów nadzoru rynku przez okres co najmniej 10 lat po umieszczeniu znaku zgodności, jednak nie krócej niż przewidywany okres eksploatacji danego wyposażenia morskiego;
+- **2)** na wniosek właściwego dyrektora urzędu morskiego – udostępnianie mu wszelkich informacji i dokumentacji niezbędnych do potwierdzenia zgodności wyposażenia morskiego;
+- **3)** na wniosek właściwego dyrektora urzędu morskiego – podejmowanie z nim współpracy we wszelkich działaniach mających na celu usunięcie zagrożeń, jakie stwarza wyposażenie morskie objęte pełnomocnictwem.
 
 **Art. 13.**
 
-1. Importer umieszcza na wyposażeniu morskim swoją nazwę, zarejestrowaną nazwę handlową lub zarejestrowany znak towarowy oraz adres kontaktowy lub, jeżeli nie jest to możliwe na opakowaniu, w dokumencie załączonym do wyposażenia morskiego, lub w stosownych przypadkach w obu tych miejscach.
+1. Importer umieszcza na wyposażeniu morskim swoją nazwę, zarejestrowaną nazwę handlową lub zarejestrowany znak towarowy oraz adres kontaktowy lub, jeżeli nie jest to możliwe – na opakowaniu, w dokumencie załączonym do wyposażenia morskiego, lub – w stosownych przypadkach – w obu tych miejscach.
 
 2. W odpowiedzi na żądanie właściwego dyrektora urzędu morskiego, importer i dystrybutor niezwłocznie udostępniają informacje i dokumentację niezbędną do potwierdzenia zgodności danego wyposażenia morskiego, w języku polskim lub angielskim. Na wniosek właściwego dyrektora urzędu morskiego, importer i dystrybutor podejmują z nim współpracę w czynnościach mających na celu usunięcie zagrożeń, jakie stwarza wyposażenie morskie wprowadzone przez nich do obrotu.
 
 3. Importer lub dystrybutor są traktowani jak producent i podlegają obowiązkom producenta określonym w art. 11, jeżeli wprowadzają wyposażenie morskie do obrotu lub umieszczają je na statku UE pod własną nazwą lub znakiem towarowym albo modyfikują wyposażenie morskie już znajdujące się w obrocie w taki sposób, że może to mieć wpływ na zgodność tego wyposażenia morskiego z odpowiednimi wymaganiami.
 
-4. Przez okres co najmniej 10 lat od dnia umieszczenia znaku zgodności, jednak nie krócej niż przez przewidywany okres eksploatacji danego wyposażenia morskiego, podmiot gospodarczy wskazuje, na wniosek właściwego dyrektora urz ę du morskiego, podmiot gospodarczy:
+4. Przez okres co najmniej 10 lat od dnia umieszczenia znaku zgodności, jednak nie krócej niż przez przewidywany okres eksploatacji danego wyposażenia morskiego, podmiot gospodarczy wskazuje, na wniosek właściwego dyrektora urzędu morskiego, podmiot gospodarczy:
 
 - **1)** który dostarczył mu wyposażenie morskie;
 - **2)** któremu dostarczył wyposażenie morskie.
@@ -154,13 +153,13 @@ o wyposażeniu morskim
 
 3. Pozwolenie, o którym mowa w ust. 1, określa ograniczenia i warunki stosowania wyposażenia morskiego oraz jest przechowywane na statku.
 
-4. Jeżeli pozwolenie, o którym mowa w ust. 1, dotyczy wyposażenia radiokomunikacyjnego, nie może ono naruszać zasad dotyczących wykorzystywania częstotliwości radiowych określonych w ustawie z dnia 16 lipca 2004 r. Prawo telekomunikacyjne (Dz. U. z 2016 r. poz. 1489, 1579, 1823, 1948, 1954 i 2003), zwanej dalej „Prawem telekomunikacyjnym”.
+4. Jeżeli pozwolenie, o którym mowa w ust. 1, dotyczy wyposażenia radiokomunikacyjnego, nie może ono naruszać zasad dotyczących wykorzystywania częstotliwości radiowych określonych w ustawie z dnia 12 lipca 2024 r. – Prawo komu-nikacji elektronicznej (Dz. U. poz. 1221), zwanej dalej „Prawem komunikacji elektronicznej”.
 
 5. Właściwy dyrektor urzędu morskiego niezwłocznie informuje ministra właściwego do spraw gospodarki morskiej o wydaniu pozwolenia, o którym mowa w ust. 1.
 
 6. Minister właściwy do spraw gospodarki morskiej informuje Komisję Europejską i państwa członkowskie Unii Europejskiej o wydaniu pozwolenia, o którym mowa w ust. 1. Informacja zawiera także sprawozdania z dokonanych prób, ocen i procedur oceny zgodności wyposażenia morskiego.
 
-7. Pozwolenie, o którym mowa w ust. 1, mo ż e zosta ć , w drodze decyzji, cofni ę te przez wła ś ciwego dyrektora urz ę du morskiego po otrzymaniu wezwania z Komisji Europejskiej i w terminie okre ś lonym w takim wezwaniu lub w przypadku stwierdzenia przez wła ś ciwego dyrektora urz ę du morskiego niespełniania warunków, o których mowa w ust. 1.
+7. Pozwolenie, o którym mowa w ust. 1, może zostać, w drodze decyzji, cofnięte przez właściwego dyrektora urzędu morskiego po otrzymaniu wezwania z Komisji Europejskiej i w terminie określonym w takim wezwaniu lub w przypadku stwierdzenia przez właściwego dyrektora urzędu morskiego niespełniania warunków, o których mowa w ust. 1.
 
 **Art. 16.**
 
@@ -172,7 +171,7 @@ o wyposażeniu morskim
 
 4. Wyposażenie morskie, o którym mowa w ust. 1, nie może zastępować wyposażenia morskiego, które spełnia wymagania i które musi pozostawać na pokładzie statku gotowe do natychmiastowego użycia.
 
-5. Jeżeli pozwolenie, o którym mowa w ust. 1, dotyczy wyposażenia radiokomunikacyjnego, nie może ono naruszać zasad dotyczących wykorzystywania częstotliwości radiowych określonych w Prawie telekomunikacyjnym.
+5. Jeżeli pozwolenie, o którym mowa w ust. 1, dotyczy wyposażenia radiokomunikacyjnego, nie może ono naruszać zasad dotyczących wykorzystywania częstotliwości radiowych określonych w Prawie komunikacji elektronicznej.
 
 **Art. 17.**
 
@@ -182,7 +181,7 @@ o wyposażeniu morskim
 
 3. Dyrektor urzędu morskiego, o którym mowa w ust. 2, niezwłocznie, w drodze decyzji, wyznacza termin i określa warunki, na jakich armator powinien zapewnić umieszczenie na statku wyposażenia morskiego zgodnego z wymaganiami.
 
-4. W przypadku wyposażenia radiokomunikacyjnego nie może ono naruszać zasad dotyczących wykorzystywania częstotliwości radiowych określonych w Prawie telekomunikacyjnym.
+4. W przypadku wyposażenia radiokomunikacyjnego nie może ono naruszać zasad dotyczących wykorzystywania częstotliwości radiowych określonych w Prawie komunikacji elektronicznej.
 
 **Art. 18.**
 
@@ -201,11 +200,11 @@ o wyposażeniu morskim
 
 5. Pozwolenie, o którym mowa w ust. 1, może zostać, w drodze decyzji, cofnięte przez właściwego dyrektora urzędu morskiego w przypadku niespełniania wymagań.
 
-6. Jeżeli pozwolenie, o którym mowa w ust. 1, dotyczy wyposażenia radiokomunikacyjnego, nie może ono naruszać zasad dotyczących wykorzystywania częstotliwości radiowych określonych w Prawie telekomunikacyjnym.
+6. Jeżeli pozwolenie, o którym mowa w ust. 1, dotyczy wyposażenia radiokomunikacyjnego, nie może ono naruszać zasad dotyczących wykorzystywania częstotliwości radiowych określonych w Prawie komunikacji elektronicznej.
 
 **Art. 19.** Producent albo importer, który wprowadza do obrotu lub oddaje do użytku wyposażenie morskie niezgodne z wymaganiami, podlega karze pieniężnej w wysokości do 100 000 zł.
 
-**Art. 20.** Producent albo importer, który wprowadza do obrotu lub oddaje do u ż ytku wyposa ż enie morskie podlegaj ą ce oznakowaniu znakiem zgodno ś ci, albo dystrybutor, który udost ę pnia na rynku wyposa ż enie morskie, bez tego oznakowania, podlega karze pieni ęż nej w wysoko ś ci do 20 000 zł.
+**Art. 20.** Producent albo importer, który wprowadza do obrotu lub oddaje do użytku wyposażenie morskie podlegające oznakowaniu znakiem zgodności, albo dystrybutor, który udostępnia na rynku wyposażenie morskie, bez tego oznakowania, podlega karze pieniężnej w wysokości do 20 000 zł.
 
 **Art. 21.**
 
@@ -213,12 +212,12 @@ o wyposażeniu morskim
 
 - **1)** instrukcji sporządzonej w języku polskim,
 - **2)** informacji dotyczących bezpiecznego montażu wyposażenia morskiego na statku i jego bezpiecznego użytkowania,
-- **3)** kopii deklaracji zgodności UE podlega karze pieniężnej w wysokości do 10 000 zł.
+- **3)** kopii deklaracji zgodności UE – podlega karze pieniężnej w wysokości do 10 000 zł.
 
 2. Producent wyposażenia morskiego wprowadzonego do obrotu lub oddanego do użytku, który nie dopełnia obowiązków w zakresie dołączania do tego wyposażenia morskiego:
 
 - **1)** informacji umożliwiających jego identyfikację,
-- **2)** informacji umożliwiających identyfikację wyposażenia morskiego podlega karze pieniężnej w wysokości do 10 000 zł.
+- **2)** informacji umożliwiających identyfikację wyposażenia morskiego – podlega karze pieniężnej w wysokości do 10 000 zł.
 
 **Art. 22.** Importer wyposażenia morskiego wprowadzonego do obrotu lub oddanego do użytku, który nie dopełnia obowiązków w zakresie:
 
@@ -230,14 +229,14 @@ o wyposażeniu morskim
 
 **Art. 26.**
 
-1. Kary pieniężne, o których mowa w art. 19–25, nakłada, w drodze decyzji, dyrektor urzędu morskiego prowadzący postępowanie, o którym mowa w art. 76 ust. 1 lub art. 85 ust. 1 ustawy o systemach oceny zgodności i nadzoru rynku.
+1. Kary pieniężne, o których mowa w art. 19–25, nakłada, w drodze decyzji, dyrektor urzędu morskiego prowadzący postępowanie, o którym mowa w art. 76 ust. 1 lub 1a lub art. 85 ust. 1 ustawy o systemach oceny zgodności i nadzoru rynku.
 
 2. Ustalając wysokość kar pieniężnych, dyrektor urzędu morskiego uwzględnia:
 
 - **1)** stopień i okoliczności naruszenia przepisów ustawy;
-- **2)** liczbę wyposażenia morskiego niezgodnego z wymaganiami wprowadzonego do obrotu, oddanego do użytku lub udost ę pnionego na rynku;
+- **2)** liczbę wyposażenia morskiego niezgodnego z wymaganiami wprowadzonego do obrotu, oddanego do użytku lub udostępnionego na rynku;
 - **3)** uprzednie naruszenie przepisów ustawy;
-- **4)** współprac ę z organem nadzoru rynku prowadz ą cym post ę powanie, o którym mowa w art. 76 ust. 1 lub art. 85 ust. 1 ustawy o systemach oceny zgodno ś ci i nadzoru rynku, w szczególno ś ci przyczynienie si ę do szybkiego i sprawnego przeprowadzenia postępowania.
+- **4)** współpracę z organem nadzoru rynku prowadzącym postępowanie, o którym mowa w art. 76 ust. 1 lub 1a lub art. 85 ust. 1 ustawy o systemach oceny zgodności i nadzoru rynku, w szczególności przyczynienie się do szybkiego i sprawnego przeprowadzenia postępowania.
 
 3. Dyrektor urzędu morskiego odstępuje od nałożenia kary pieniężnej, jeżeli podmiot gospodarczy podlegający karze przedstawił dowody potwierdzające wykonanie postanowienia, o którym mowa w art. 82 ust. 1 ustawy o systemach oceny zgodności i nadzoru rynku.
 
@@ -251,21 +250,9 @@ o wyposażeniu morskim
 
 4. Kary pieniężnej nie pobiera się po upływie 3 lat od dnia wydania ostatecznej decyzji o nałożeniu kary.
 
-5. Środki finansowe pochodzące z kar pieniężnych stanowią dochód budżetu państwa.
+5. Środki finansowe pochodzące z kar pieniężnych stanowią dochód budżetu państwa. Art. 28–33. (pominięte)
 
-**Art. 28.** W ustawie z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2016 r. poz. 2145) w art. 42 w ust. 2:
-
-**Art. 29.** W ustawie z dnia 16 marca 1995 r. o zapobieganiu zanieczyszczaniu morza przez statki (Dz. U. z 2015 r. poz. 434 i 881 oraz z 2016 r. poz. 1954) w art. 13dg ust. 1 i 2 otrzymują brzmienie: „1. Zatwierdzenia metod redukcji emisji objętych przepisami ustawy z dnia 2 grudnia 2016 r. o wyposażeniu morskim (Dz. U. z 2017 r. poz. 32) dokonują jednostki notyfikowane, o których mowa w przepisach ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. poz. 542, 1228 i 1579). 2. Stosowanie metod redukcji emisji nieobjętych przepisami ustawy z dnia 2 grudnia 2016 r. o wyposażeniu morskim jest dopuszczalne pod warunkiem ich zatwierdzenia zgodnie z przepisami Unii Europejskiej dotyczącymi metod redukcji emisji oraz z uwzględnieniem:
-
-**Art. 30.** W ustawie z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego (Dz. U. z 2015 r. poz. 1100 i 1893 oraz z 2016 r. poz. 544, 1250, 1579 i 1948) w art. 2a pkt 3 otrzymuje brzmienie: „3) wyposażenia morskiego, o którym mowa w ustawie z dnia 2 grudnia 2016 r. o wyposażeniu morskim (Dz. U. z 2017 r. poz. 32);”.
-
-**Art. 31.** W ustawie z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2016 r. poz. 655 i 1228) wprowadza się następujące zmiany:
-
-**Art. 32.** W ustawie z dnia 17 listopada 2006 r. o systemie oceny zgodności wyrobów przeznaczonych na potrzeby obronności i bezpieczeństwa państwa (Dz. U. poz. 1700, z 2010 r. poz. 1228 oraz z 2011 r. poz. 528) w art. 2 w ust. 2 pkt 8 otrzymuje brzmienie: „8) wyposa ż enia morskiego, o którym mowa w ustawie z dnia 2 grudnia 2016 r. o wyposa ż eniu morskim (Dz. U. z 2017 r. poz. 32);”.
-
-**Art. 33.** W ustawie z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2016 r. poz. 281 i 1948) wprowadza się następujące zmiany:
-
-**Art. 34.** Minister wła ś ciwy do spraw gospodarki morskiej mo ż e notyfikowa ć bez wcze ś niejszej autoryzacji jednostki oceniające zgodność wyposażenia morskiego, w zakresie odpowiadającym zakresowi ich notyfikacji w dniu wejścia w życie niniejszej ustawy oraz zakresowi posiadanej akredytacji, do czasu uzyskania autoryzacji zgodnie z niniejszą ustawą, na okres nie dłuższy niż sześć miesięcy od dnia wejścia w życie niniejszej ustawy. Przepis art. 28 ust. 3 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. poz. 542, 1228 i 1579) stosuje się.
+**Art. 34.** Minister właściwy do spraw gospodarki morskiej może notyfikować bez wcześniejszej autoryzacji jednostki oceniające zgodność wyposażenia morskiego, w zakresie odpowiadającym zakresowi ich notyfikacji w dniu wejścia w życie niniejszej ustawy oraz zakresowi posiadanej akredytacji, do czasu uzyskania autoryzacji zgodnie z niniejszą ustawą, na okres nie dłuższy niż sześć miesięcy od dnia wejścia w życie niniejszej ustawy. Przepis art. 28 ust. 3 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. poz. 542, 1228 i 1579) stosuje się.
 
 **Art. 35.**
 
@@ -279,5 +266,5 @@ o wyposażeniu morskim
 
 **Art. 38.** Traci moc ustawa z dnia 20 kwietnia 2004 r. o wyposażeniu morskim (Dz. U. poz. 899, z 2011 r. poz. 1368 oraz z 2016 r. poz. 542).
 
-**Art. 39.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda WZÓR ZNAKU ZGODNOŚCI Wysokość znaku zgodności wynosi nie mniej niż 5 mm. W przypadku wyposażenia morskiego, na którym ze względu na jego rozmiar nie można umieścić znaku zgodności, dopuszcza się możliwość odstąpienia od minimalnego wymiaru. W przypadku zmniejszania lub powiększania znaku zgodności należy zachować proporcje podane na powyższym rysunku. PROCEDURY OCENY ZGODNOŚCI WYPOSAŻENIA MORSKIEGO Moduł B Badanie typu UE 1. Badanie typu UE to ta część procedury oceny zgodności, według której jednostka notyfikowana bada projekt techniczny wyposażenia morskiego oraz weryfikuje i poświadcza spełnienie przez projekt techniczny wyposażenia morskiego mających do niego zastosowanie wymagań. 2. Badanie typu UE można przeprowadzić jednym z następujących sposobów: badanie próbki kompletnego wyposażenia morskiego, reprezentatywnej dla przewidywanej produkcji (typ produkcji), ocena adekwatności projektu technicznego wyposażenia morskiego poprzez zbadanie dokumentacji technicznej i dowodów potwierdzających, o których mowa w pkt 3, oraz ocenę próbek reprezentatywnych dla przewidywanej produkcji, jednej lub więcej istotnych części wyposażenia morskiego (połączenie typu produkcji i typu projektu). 3. Producent składa wniosek o badanie typu UE w wybranej przez siebie jednostce notyfikowanej. Wniosek taki zawiera: nazwę i adres producenta oraz, w przypadku wniosku składanego przez upoważnionego przedstawiciela, dodatkowo jego nazwę i adres, pisemną deklarację, że ten sam wniosek nie został złożony w żadnej innej jednostce notyfikowanej, dokumentację techniczną, która umożliwia ocenę wyposażenia morskiego pod względem jego zgodności z wymaganiami oraz obejmuje odpowiednią analizę i ocenę ryzyka; dokumentacja techniczna określa wymagania i obejmuje, w stopniu odpowiednim dla takiej oceny, projekt, produkcję i działanie wyposażenia morskiego, zawierając, w stosownych przypadkach, co najmniej:
+**Art. 39.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia . Ustawa została ogłoszona w dniu 5 stycznia 2017 r. WZÓR ZNAKU ZGODNOŚCI Wysokość znaku zgodności wynosi nie mniej niż 5 mm. W przypadku wyposażenia morskiego, na którym ze względu na jego rozmiar nie można umieścić znaku zgodności, dopuszcza się możliwość odstąpienia od minimalnego wymiaru. W przypadku zmniejszania lub powiększania znaku zgodności należy zachować proporcje podane na powyższym rysunku. PROCEDURY OCENY ZGODNOŚCI WYPOSAŻENIA MORSKIEGO Moduł B Badanie typu UE 1. Badanie typu UE to ta część procedury oceny zgodności, według której jednostka notyfikowana bada projekt techniczny wyposażenia morskiego oraz weryfikuje i poświadcza spełnienie przez projekt techniczny wyposażenia morskiego mających do niego zastosowanie wymagań. 2. Badanie typu UE można przeprowadzić jednym z następujących sposobów: – badanie próbki kompletnego wyposażenia morskiego, reprezentatywnej dla przewidywanej produkcji (typ produkcji), – ocena adekwatności projektu technicznego wyposażenia morskiego poprzez zbadanie dokumentacji technicznej i dowodów potwierdzających, o których mowa w pkt 3, oraz ocenę próbek reprezentatywnych dla przewidywanej produkcji, jednej lub więcej istotnych części wyposażenia morskiego (połączenie typu produkcji i typu projektu). 3. Producent składa wniosek o badanie typu UE w wybranej przez siebie jednostce notyfikowanej. Wniosek taki zawiera: – nazwę i adres producenta oraz, w przypadku wniosku składanego przez upoważnionego przedstawiciela, dodatkowo jego nazwę i adres, – pisemną deklarację, że ten sam wniosek nie został złożony w żadnej innej jednostce notyfikowanej, – dokumentację techniczną, która umożliwia ocenę wyposażenia morskiego pod względem jego zgodności z wymaganiami oraz obejmuje odpowiednią analizę i ocenę ryzyka; dokumentacja techniczna określa wymagania i obejmuje, w stopniu odpowiednim dla takiej oceny, projekt, produkcję i działanie wyposażenia morskiego, zawierając, w stosownych przypadkach, co najmniej:
 

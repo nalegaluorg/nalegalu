@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 28 grudnia 2020 r.
+# o zmianie ustawy o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin oraz niektórych innych ustaw
+
+*USTAWA z dnia 10 grudnia 2020 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,9 +25,6 @@ domain: null
 | Data wydania | 2020-12-28 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002369) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2369/text.pdf) |
-
-USTAWA z dnia 10 grudnia 2020 r.
-o zmianie ustawy o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin oraz niektórych innych ustaw
 
 **Art. 1.** W ustawie z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. z 2019 r. poz. 293 oraz z 2020 r. poz. 2023) wprowadza się następujące zmiany:
 
@@ -44,11 +43,10 @@ o zmianie ustawy o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie or
 2. Przy ocenie spełniania warunku posiadania wystarczających środków finansowych, o którym mowa art. 16 pkt 2 lub 3 lit. a, uwzględnia się udział obywatela UE programach pomocowych współfinansowanych ze środków unijnych, mających na celu zwalczanie wykluczenia społecznego i wzmocnienie integracji społecznej.”;
 
 - **21)** art. 25:
-    - **a)** pkt 7 otrzymuje brzmienie: „7) jedno z małżonków lub oboje małżonkowie przeszłości zawierali już małżeństwa celu obejścia przepisów określających zasady i warunki wjazdu cudzoziemców na terytorium Rzeczypospolitej Polskiej, ich przejazdu przez to terytorium, pobytu na nim i wyjazdu z niego”, „– organ prowadzący postępowanie ustala, czy związek małżeński z obywatelem UE lub obywatelem Rzeczypospolitej Polskiej został zawarty celu obejścia przepisów określających zasady i warunki wjazdu cudzoziemców na terytorium Rzeczypospolitej Polskiej, ich przejazdu przez to terytorium, pobytu na nim i wyjazdu z niego.”;
+    - **a)** pkt 7 otrzymuje brzmienie: „7) jedno z małżonków lub oboje małżonkowie przeszłości zawierali już małżeństwa celu obejścia przepisów określających zasady i warunki wjazdu cudzoziemców na terytorium Rzeczypospolitej Polskiej, ich przejazdu przez to terytorium, pobytu na nim i wyjazdu z niego”,
+    - **b)** część wspólna otrzymuje brzmienie: „– organ prowadzący postępowanie ustala, czy związek małżeński z obywatelem UE lub obywatelem Rzeczypospolitej Polskiej został zawarty celu obejścia przepisów określających zasady i warunki wjazdu cudzoziem22) po art. 25 dodaje się art. 25a brzmieniu: „Art. 25a. 1. W celu dokonania ustaleń, o których mowa art. 25, organ prowadzący postępowanie sprawie o wydanie karty pobytowej może zwrócić się z wnioskiem o przeprowadzenie wywiadu środowiskowego lub ustalenie miejsca pobytu małżonków do komendanta oddziału Straży Granicznej lub komendanta placówki Straży Granicznej, właściwego ze względu na miejsce pobytu członka rodziny obywatela UE albo obywatela Rzeczypospolitej Polskiej.
 
-- **22)** po art. 25 dodaje się art. 25a brzmieniu: „Art. 25a. 1. W celu dokonania ustaleń, o których mowa art. 25, organ prowadzący postępowanie sprawie o wydanie karty pobytowej może zwrócić się z wnioskiem o przeprowadzenie wywiadu środowiskowego lub ustalenie miejsca pobytu małżonków do komendanta oddziału Straży Granicznej lub komendanta placówki Straży Granicznej, właściwego ze względu na miejsce pobytu członka rodziny obywatela UE albo obywatela Rzeczypospolitej Polskiej.
-
-2. Przy dokonywaniu ustaleń, o których mowa art. 25, oraz przy przeprowadzaniu wywiadu środowiskowego lub ustalaniu miejsca pobytu małżonków nie stosuje się przepisu art. 79 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.”;
+2. Przy dokonywaniu ustaleń, o których mowa art. 25, oraz przy przeprowadzaniu wywiadu środowiskowego lub ustalaniu miejsca pobytu małżonków nie stosuje się przepisu art. 79 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.”;
 
 - **23)** art. 27 dodaje się ust. 3 brzmieniu: „3. Zaświadczenie o zarejestrowaniu pobytu obywatela UE jest ważne przez 10 lat.”;
 - **24)** art. 28 i art. 29 otrzymują brzmienie: „Art. 28. 1. W zaświadczeniu o zarejestrowaniu pobytu obywatela UE lub karcie pobytowej umieszcza się:
@@ -58,15 +56,15 @@ o zmianie ustawy o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie or
     - **c)** informację o obywatelstwie,
     - **d)** informację o płci,
     - **e)** adres zameldowania na pobyt stały lub czasowy,
-    - **f)** numer ewidencyjny Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL) przypadku gdy został nadany;
+    - **f)** numer ewidencyjny Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL) – przypadku gdy został nadany;
 
-- **2)** obraz linii papilarnych członka rodziny niebędącego obywatelem UE przypadku karty pobytowej;
+- **2)** obraz linii papilarnych członka rodziny niebędącego obywatelem UE – przypadku karty pobytowej;
 - **3)** nazwę organu, który je wydał;
-- **4)** datę zarejestrowania pobytu przypadku zaświadczenia o zarejestrowaniu pobytu obywatela UE, lub datę wydania karty pobytowej;
+- **4)** datę zarejestrowania pobytu – przypadku zaświadczenia o zarejestrowaniu pobytu obywatela UE, lub datę wydania karty pobytowej;
 - **5)** datę upływu terminu ważności zaświadczenia o zarejestrowaniu pobytu obywatela UE, lub karty pobytowej;
 - **6)** fotografię obywatela UE lub członka rodziny niebędącego obywatelem UE;
-- **7)** adnotację „Dyrektywa 2004/38/WE” przypadku zaświadczenia o zarejestrowaniu pobytu obywatela UE;
-- **8)** adnotację „Członek rodziny obywatela UE, art. 10 dyrektywy 2004/38/WE” przypadku karty pobytowej.
+- **7)** adnotację „Dyrektywa 2004/38/WE” – przypadku zaświadczenia o zarejestrowaniu pobytu obywatela UE;
+- **8)** adnotację „Członek rodziny obywatela UE, art. 10 dyrektywy 2004/38/WE” – przypadku karty pobytowej.
 
 2. Niezależnie od danych, o których mowa ust. 1, zaświadczenie o zarejestrowaniu pobytu obywatela UE lub karta pobytowa może zawierać podpis obywatela UE lub członka rodziny niebędącego obywatelem UE oraz zakodowany zapis danych, o których mowa ust. 1 pkt 1 lit. a–d lub pkt 5.
 
@@ -80,9 +78,11 @@ o zmianie ustawy o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie or
 - **1)** jest wydana osobie, od której pobranie odcisków linii papilarnych jest fizycznie niemożliwe, lub
 - **2)** odstąpiono od osobistego stawiennictwa na podstawie art. 21 ust. 2b lub art. 33 ust. 3.
 
-5. W zaświadczeniu o zarejestrowaniu pobytu obywatela UE lub karcie pobytowej nie umieszcza się danych, o których mowa ust. 1 pkt 1 lit. e, gdy obywatel UE lub członek rodziny niebędący obywatelem UE nie zameldował się miejscu pobytu czasowego trwającego ponad 2 miesiące. dokumentu podróży lub innego ważnego dokumentu potwierdzającego jego tożsamość i obywatelstwo.
+5. W zaświadczeniu o zarejestrowaniu pobytu obywatela UE lub karcie pobytowej nie umieszcza się danych, o których mowa ust. 1 pkt 1 lit. e, gdy obywatel UE lub członek rodziny niebędący obywatelem UE nie zameldował się miejscu pobytu czasowego trwającego ponad 2 miesiące.
 
-2. W przypadku gdy zaświadczenie o zarejestrowaniu pobytu obywatela UE zostało wydane osobie małoletniej, która nie ukończyła 13. roku życia do dnia jego odbioru, albo osobie ubezwłasnowolnionej całkowicie, odbioru zaświadczenia dokonuje odpowiednio rodzic, opiekun prawny albo kurator, po okazaniu ważnego dokumentu potwierdzającego jego tożsamość.
+**Art. 29.**
+
+1. Obywatel UE odbiera zaświadczenie o zarejestrowaniu pobytu obywatela UE po okazaniu ważnego dokumentu podróży lub innego ważnego dokumentu potwierdzającego jego tożsamość i obywatelstwo. zaświadczenia dokonuje odpowiednio rodzic, opiekun prawny albo kurator, po okazaniu ważnego dokumentu potwierdzającego jego tożsamość.
 
 3. Odbioru zaświadczenia o zarejestrowaniu pobytu obywatela UE może dokonać pełnomocnik, na podstawie pełnomocnictwa szczególnego do odbioru tego zaświadczenia, po okazaniu dokumentu potwierdzającego jego tożsamość.
 
@@ -101,15 +101,15 @@ o zmianie ustawy o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie or
 6. Osoba odbierająca kartę pobytową potwierdza odbiór karty podpisem składanym na formularzu wniosku o jej wydanie.”;
 
 - **26)** art. 31:
-    - **a)** ust. 1: pkt 2 otrzymuje brzmienie: „2) wymagają tego względy obronności lub bezpieczeństwa państwa lub ochrony bezpieczeństwa i porządku publicznego, lub”, dodaje się pkt 3 i 4 brzmieniu: „3) postępowaniu o zarejestrowanie pobytu lub o wydanie karty pobytowej:
+    - **a)** ust. 1: – pkt 2 otrzymuje brzmienie: „2) wymagają tego względy obronności lub bezpieczeństwa państwa lub ochrony bezpieczeństwa i porządku publicznego, lub”, – dodaje się pkt 3 i 4 brzmieniu: „3) postępowaniu o zarejestrowanie pobytu lub o wydanie karty pobytowej:
     - **a)** złożył wniosek zawierający nieprawdziwe dane osobowe lub fałszywe informacje lub dołączył do niego dokumenty zawierające takie dane lub informacje lub
     - **b)** zeznał nieprawdę lub zataił prawdę albo podrobił lub przerobił dokument celu jego użycia jako autentycznego lub takiego dokumentu używał jako autentycznego, lub
 
-- **4)** ubiega się o zarejestrowanie pobytu lub wydanie karty pobytowej celu obejścia przepisów prawa obowiązujących innym państwie członkowskim Unii Europejskiej, państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej regulujących zasady wjazdu na terytorium Unii Europejskiej, pobytu oraz wyjazdu z tego terytorium.”, „Art. 32. 1. Zaświadczenie o zarejestrowaniu pobytu obywatela UE lub karta pobytowa podlegają wymianie przypadku:
+- **4)** ubiega się o zarejestrowanie pobytu lub wydanie karty pobytowej celu obejścia przepisów prawa obowiązujących innym państwie członkowskim Unii Europejskiej, państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej regulujących zasady wjazdu na terytorium Unii Europejskiej, pobytu oraz wyjazdu z tego terytorium.”,
     - **b)** ust. 2 otrzymuje brzmienie: „2. Członkowi rodziny niebędącemu obywatelem UE odmawia się wydania karty pobytowej, także gdy jego związek małżeński z obywatelem UE lub obywatelem Rzeczypospolitej Polskiej został zawarty celu obejścia przepisów określających zasady i warunki wjazdu cudzoziemców na terytorium Rzeczypospolitej Polskiej, ich przejazdu przez to terytorium, pobytu na nim i wyjazdu z niego.”;
 
+- **27)** art. 32 otrzymuje brzmienie: „Art. 32. 1. Zaświadczenie o zarejestrowaniu pobytu obywatela UE lub karta pobytowa podlegają wymianie przypadku:
 - **1)** zmiany danych nich zamieszczonych;
-- **2)** uszkodzenia;
 - **3)** utraty zaświadczenia o zarejestrowaniu pobytu obywatela UE lub karty pobytowej;
 - **4)** zmiany wizerunku twarzy posiadacza zaświadczenia o zarejestrowaniu pobytu obywatela UE lub karty pobytowej stosunku do wizerunku twarzy umieszczonego tym zaświadczeniu lub tej karcie pobytowej stopniu utrudniającym lub uniemożliwiającym identyfikację ich posiadacza.
 
@@ -131,9 +131,9 @@ o zmianie ustawy o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie or
 4. Do wniosku o wymianę albo wydanie nowego zaświadczenia o zarejestrowaniu pobytu obywatela UE lub karty pobytowej dołącza się aktualne fotografie obywatela UE lub członka rodziny niebędącego obywatelem UE.”,
 
 - **c)** dodaje się ust. 6 i 7 brzmieniu: „6. Wniosek, o którym mowa ust. 1a i 1b, przypadku obywatela UE lub członka rodziny niebędącego obywatelem UE będącego:
-- **1)** osobą małoletnią składają rodzice lub ustanowieni przez sąd lub inny organ opiekunowie albo jeden z rodziców lub ustanowionych przez sąd lub inny organ opiekunów;
-- **2)** osobą ubezwłasnowolnioną całkowicie składa opiekun ustanowiony przez sąd lub inny organ;
-- **3)** osobą małoletnią bez opieki składa kurator.
+- **1)** osobą małoletnią – składają rodzice lub ustanowieni przez sąd lub inny organ opiekunowie albo jeden z rodziców lub ustanowionych przez sąd lub inny organ opiekunów;
+- **2)** osobą ubezwłasnowolnioną całkowicie – składa opiekun ustanowiony przez sąd lub inny organ;
+- **3)** osobą małoletnią bez opieki – składa kurator.
 
 7. Od członka rodziny niebędącego obywatelem UE ubiegającego się o wymianę albo wydanie nowej karty pobytowej, który do dnia złożenia wniosku, o którym mowa ust. 1a i 1b, ukończył 6. rok życia, pobiera się odciski linii papilarnych.”;
 
@@ -143,9 +143,11 @@ o zmianie ustawy o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie or
 
 3. Zaświadczenie, o którym mowa ust. 2, jest ważne do czasu wymiany zaświadczenia o zarejestrowaniu pobytu obywatela UE lub karty pobytowej, nie dłużej jednak niż przez 2 miesiące.
 
-4. Zawiadomienia, o którym mowa ust. 1, dokonuje się na formularzu zawierającym dane, o których mowa art. 28 ust. 1, oraz podpis zawiadamiającego. czenie o zarejestrowaniu pobytu obywatela UE lub utraconą kartę pobytową, zawiadamia o tym fakcie, terminie 3 dni od dnia ich odzyskania, organ, który wydał te dokumenty.
+4. Zawiadomienia, o którym mowa ust. 1, dokonuje się na formularzu zawierającym dane, o których mowa art. 28 ust. 1, oraz podpis zawiadamiającego.
 
-2. Obywatel UE lub członek rodziny niebędący obywatelem UE, który otrzymał wymienione zaświadczenie o zarejestrowaniu pobytu obywatela UE lub wymienioną kartę pobytową miejsce utraconego zaświadczenia lub utraconej karty, niezwłocznie zwraca odzyskane dokumenty organowi, który je wydał.
+**Art. 33b.**
+
+1. Obywatel UE lub członek rodziny niebędący obywatelem UE, który odzyskał utracone zaświadczenie o zarejestrowaniu pobytu obywatela UE lub utraconą kartę pobytową, zawiadamia o tym fakcie, terminie 3 dni od dnia ich odzyskania, organ, który wydał te dokumenty. utraconej karty, niezwłocznie zwraca odzyskane dokumenty organowi, który je wydał.
 
 **Art. 33c.**
 
@@ -164,7 +166,7 @@ o zmianie ustawy o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie or
 
 - **2)** wymagają tego względy obronności lub bezpieczeństwa państwa lub ochrony bezpieczeństwa i porządku publicznego, lub
 - **3)** obywatel UE nie spełnia warunków pobytu określonych art. 16, art. 17, art. 19 ust. 1 lub 3 lub art. 19a, lub
-- **4)** obywatel UE zarejestrował swój pobyt celu obejścia przepisów prawa obowiązujących innym państwie członkowskim Unii Europejskiej, państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej regulujących zasady wjazdu na terytorium Unii Europejskiej, pobytu oraz wyjazdu z tego terytorium.”;
+- **4)** obywatel UE zarejestrował swój pobyt celu obejścia przepisów prawa obowiązujących innym państwie członkowskim Unii Europejskiej, państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej regulujących zasady wjazdu na terytorium Unii Europejskiej, pobytu oraz wyjazdu z tego terytorium.”;
 - **32)** art. 36 ust. 1 otrzymuje brzmienie: „1. Kartę pobytową unieważnia się przypadku, gdy:
 - **1)** wymagają tego względy obronności lub bezpieczeństwa państwa lub ochrony bezpieczeństwa i porządku publicznego lub
 - **2)** postępowaniu o wydanie karty pobytowej wnioskodawca:
@@ -173,10 +175,10 @@ o zmianie ustawy o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie or
 
 - **3)** związek małżeński z obywatelem UE lub obywatelem Rzeczypospolitej Polskiej został zawarty celu obejścia przepisów określających zasady i warunki wjazdu cudzoziemców na terytorium Rzeczypospolitej Polskiej, ich przejazdu przez to terytorium, pobytu na nim i wyjazdu z niego, lub
 - **4)** członek rodziny nie spełnia warunków pobytu określonych art. 18–19a, lub
-- **5)** członek rodziny uzyskał kartę pobytową celu obejścia przepisów prawa obowiązujących innym państwie członkowskim Unii Europejskiej, państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej regulujących zasady wjazdu na terytorium Unii Europejskiej, pobytu oraz wyjazdu z tego terytorium.”; „Art. 37. 1. Obywatel UE lub członek rodziny niebędący obywatelem UE zwraca zaświadczenie o zarejestrowaniu pobytu obywatela UE lub kartę pobytową organowi, który ją wydał, przypadku gdy:
+- **5)** członek rodziny uzyskał kartę pobytową celu obejścia przepisów prawa obowiązujących innym państwie członkowskim Unii Europejskiej, państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej regulujących zasady wjazdu na terytorium Unii Europejskiej, pobytu oraz wyjazdu z tego terytorium.”;
+- **33)** art. 37 otrzymuje brzmienie: „Art. 37. 1. Obywatel UE lub członek rodziny niebędący obywatelem UE zwraca zaświadczenie o zarejestrowaniu pobytu obywatela UE lub kartę pobytową organowi, który ją wydał, przypadku gdy:
 - **1)** nabył obywatelstwo polskie;
 - **2)** wydano mu decyzję o unieważnieniu zarejestrowania pobytu lub karty pobytowej;
-- **3)** uzyskał dokument potwierdzający prawo stałego pobytu lub kartę stałego pobytu.
 
 2. Obywatel UE lub członek rodziny niebędący obywatelem UE zwraca zaświadczenie o zarejestrowaniu pobytu obywatela UE lub kartę pobytową niezwłocznie, nie później jednak niż terminie 14 dni od dnia, którym:
 
@@ -189,16 +191,18 @@ o zmianie ustawy o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie or
 4. Organ, któremu zwrócono zaświadczenie o zarejestrowaniu pobytu obywatela UE lub kartę pobytową, wydaje na wniosek obywatela UE lub członka rodziny niebędącego obywatelem UE nieodpłatnie zaświadczenie o zwrocie zaświadczenia o zarejestrowaniu pobytu obywatela UE lub karty pobytowej ważne przez okres 30 dni.”;
 
 - **34)** po art. 37 dodaje się art. 37a–37d brzmieniu: „Art. 37a. Zaświadczenie o zarejestrowaniu pobytu obywatela UE lub kartę pobytową anuluje się przypadku:
-- **1)** gdy zostały utracone albo uszkodzone z dniem zgłoszenia utraty albo uszkodzenia do właściwego organu;
+- **1)** gdy zostały utracone albo uszkodzone – z dniem zgłoszenia utraty albo uszkodzenia do właściwego organu;
 - **2)** gdy zachodzi potrzeba ich wymiany z powodu:
     - **a)** zmiany wizerunku twarzy posiadacza zaświadczenia o zarejestrowaniu pobytu obywatela UE lub karty pobytowej stosunku do wizerunku twarzy umieszczonego tym zaświadczeniu lub tej karcie pobytowej stopniu utrudniającym lub uniemożliwiającym identyfikację ich posiadacza,
-    - **b)** zmiany danych nich umieszczonych z dniem odbioru nowego zaświadczenia o zarejestrowaniu pobytu obywatela UE lub nowej karty pobytowej;
+    - **b)** zmiany danych nich umieszczonych – z dniem odbioru nowego zaświadczenia o zarejestrowaniu pobytu obywatela UE lub nowej karty pobytowej;
 
-- **3)** nabycia przez obywatela UE lub członka rodziny niebędącego obywatelem UE obywatelstwa polskiego z dniem upływu terminu zwrotu zaświadczenia o zarejestrowaniu pobytu obywatela UE lub karty pobytowej;
-- **4)** zgonu posiadacza zaświadczenia o zarejestrowaniu pobytu obywatela UE lub karty pobytowej z dniem uzyskania przez organ, który je wydał, informacji o zgonie obywatela UE lub członka rodziny niebędącego obywatelem UE;
+- **3)** nabycia przez obywatela UE lub członka rodziny niebędącego obywatelem UE obywatelstwa polskiego – z dniem upływu terminu zwrotu zaświadczenia o zarejestrowaniu pobytu obywatela UE lub karty pobytowej;
+- **4)** zgonu posiadacza zaświadczenia o zarejestrowaniu pobytu obywatela UE lub karty pobytowej – z dniem uzyskania przez organ, który je wydał, informacji o zgonie obywatela UE lub członka rodziny niebędącego obywatelem UE;
 - **5)** gdy zaświadczenie o zarejestrowaniu pobytu obywatela UE lub karta pobytowa nie zostały zwrócone po wydaniu decyzji o ich unieważnieniu.
 
 **Art. 37b.** Zaświadczenie o zarejestrowaniu pobytu obywatela UE lub kartę pobytową anuluje:
+
+**Art. 37c.** W przypadku gdy organ prowadzący kontrolę graniczną lub kontrolę legalności pobytu ustali, że obywatel UE lub członek rodziny niebędący obywatelem UE posługuje się zaświadczeniem o zarejestrowaniu pobytu obywatela UE lub kartą pobytową, które był obowiązany zwrócić na podstawie art. 37 ust. 1, organ ten:
 
 **Art. 37d.**
 
@@ -230,10 +234,8 @@ o zmianie ustawy o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie or
 - **1)** konieczność zapewnienia czytelności i kompletności wzorów, o których mowa ust. 1 pkt 1;
 - **2)** dane osobowe zakresie niezbędnym do zarejestrowania pobytu, wymiany lub wydania nowego zaświadczenia o zarejestrowaniu pobytu obywatela UE oraz wydania lub wymiany karty pobytowej;
 - **3)** potrzebę zapewnienia sprawnej rejestracji pobytu obywatela UE oraz sprawnego wydania karty pobytowej oraz możliwości skutecznej weryfikacji przesłanek dokonania tych czynności;
-- **4)** zapewnienie możliwości sprawnego wyeliminowania wadliwego dokumentu.”; „Art. 41a. 1. Obywatelowi UE lub członkowi rodziny niebędącemu obywatelem UE, stosunku do którego istnieje domniemanie, że jest ofiarą handlu ludźmi rozumieniu art. 115 § 22 ustawy z dnia 6 czerwca 1997 r. Kodeks karny (Dz. U. z 2020 r. poz. 1444 i 1517), zwanej dalej „Kodeksem karnym”, wydaje się zaświadczenie potwierdzające istnienie tego domniemania.
-
-2. W zaświadczeniu, o którym mowa ust. 1, umieszcza się:
-
+- **4)** zapewnienie możliwości sprawnego wyeliminowania wadliwego dokumentu.”;
+- **36)** po art. 41 dodaje się art. 41a–41e brzmieniu: „Art. 41a. 1. Obywatelowi UE lub członkowi rodziny niebędącemu obywatelem UE, stosunku do którego istnieje domniemanie, że jest ofiarą handlu ludźmi rozumieniu art. 115 § 22 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2020 r. poz. 1444 i 1517), zwanej dalej „Kodeksem karnym”, wydaje się zaświadczenie potwierdzające istnienie tego domniemania.
 - **1)** imię (imiona) i nazwisko;
 - **2)** datę urodzenia;
 - **3)** miejsce i państwo urodzenia;
@@ -244,12 +246,12 @@ o zmianie ustawy o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie or
 
 1. Zaświadczenie, o którym mowa art. 41a ust. 1, wydaje organ właściwy do prowadzenia postępowania sprawie o przestępstwo, o którym mowa art. 189a § 1 Kodeksu karnego.
 
-2. Zaświadczenie, o którym mowa art. 41a ust. 1, jest ważne przez okres 3 miesięcy od dnia jego wydania, a przypadku małoletniego obywatela UE lub małoletniego członka rodziny niebędącego obywatelem UE przez okres 4 miesięcy od dnia jego wydania.
+2. Zaświadczenie, o którym mowa art. 41a ust. 1, jest ważne przez okres 3 miesięcy od dnia jego wydania, a przypadku małoletniego obywatela UE lub małoletniego członka rodziny niebędącego obywatelem UE – przez okres 4 miesięcy od dnia jego wydania.
 
 3. Obywatelowi UE lub członkowi rodziny niebędącemu obywatelem UE może być wydane kolejne zaświadczenie, o którym mowa art. 41a ust. 1, na okres co najmniej 6 miesięcy, nie dłużej jednak niż na okres 3 lat, przypadku gdy spełnione są następujące warunki:
 
 - **1)** przebywa na terytorium Rzeczypospolitej Polskiej;
-- **2)** podjął współpracę z organem właściwym do prowadzenia postępowania sprawie o przestępstwo, o którym mowa art. 189a § 1 Kodeksu karnego, a przypadku małoletniego cudzoziemca otrzymał status pokrzywdzonego postępowaniu sprawie o przestępstwo, o którym mowa art. 189a § 1 Kodeksu karnego;
+- **2)** podjął współpracę z organem właściwym do prowadzenia postępowania sprawie o przestępstwo, o którym mowa art. 189a § 1 Kodeksu karnego, a przypadku małoletniego cudzoziemca – otrzymał status pokrzywdzonego postępowaniu sprawie o przestępstwo, o którym mowa art. 189a § 1 Kodeksu karnego;
 - **3)** zerwał kontakty z osobami podejrzanymi o popełnienie przestępstwa, o którym mowa art. 189a § 1 Kodeksu karnego.
 
 **Art. 41c.**
@@ -269,7 +271,7 @@ o zmianie ustawy o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie or
 
 **Art. 41e.** Minister właściwy do spraw wewnętrznych określi, drodze rozporządzenia, wzór zaświadczenia, o którym mowa art. 41a ust. 1, uwzględniając cel, jakim zaświadczenie jest wydawane, oraz dane potwierdzające tożsamość obywatela UE lub członka rodziny niebędącego obywatelem UE.”;
 
-**Art. 43.** Członek rodziny niebędący obywatelem UE nabywa prawo stałego pobytu po upływie 5 lat nieprzerwanego pobytu na terytorium Rzeczypospolitej Polskiej z obywatelem UE lub z obywatelem Rzeczypospolitej Polskiej, podczas którego spełniał co najmniej jedną z przesłanek prawa pobytu określoną art. 18, art. 18a, art. 19 ust. 2 lub 3 lub art. 19a.”; „Art. 43a. Obywatel UE lub członek rodziny niebędący obywatelem UE będący małżonkiem obywatela Rzeczypospolitej Polskiej nabywa prawo stałego pobytu po upływie 3 lat nieprzerwanego pobytu na terytorium Rzeczypospolitej Polskiej, podczas którego spełniał co najmniej jedną z przesłanek prawa pobytu określoną art. 18, art. 18a, art. 19 ust. 2 lub 3 lub art. 19a.”;
+**Art. 43.** Członek rodziny niebędący obywatelem UE nabywa prawo stałego pobytu po upływie 5 lat nieprzerwanego pobytu na terytorium Rzeczypospolitej Polskiej z obywatelem UE lub z obywatelem Rzeczypospolitej Polskiej, podczas którego spełniał co najmniej jedną z przesłanek prawa pobytu określoną art. 18, art. 18a, art. 19 ust. 2 lub 3 lub art. 19a.”;
 
 **Art. 52.**
 
@@ -281,14 +283,14 @@ o zmianie ustawy o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie or
     - **c)** informację o obywatelstwie,
     - **d)** informację o płci,
     - **e)** adres zameldowania na pobyt stały lub czasowy,
-    - **f)** numer ewidencyjny Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL) przypadku gdy został nadany;
+    - **f)** numer ewidencyjny Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL) – przypadku gdy został nadany;
 
+- **2)** obraz linii papilarnych członka rodziny niebędącego obywatelem UE – przypadku karty stałego pobytu;
 - **3)** nazwę organu, który go wydał;
 - **4)** datę wydania;
 - **5)** datę upływu terminu ważności dokumentu potwierdzającego prawo stałego pobytu lub karty stałego pobytu;
-- **6)** fotografię obywatela UE lub członka rodziny niebędącego obywatelem UE;
-- **7)** adnotację „Dyrektywa 2004/38/WE” przypadku dokumentu potwierdzającego prawo stałego pobytu;
-- **8)** adnotację „członek rodziny obywatela UE, art. 20 dyrektywy 2004/38/WE” przypadku karty stałego pobytu.
+- **7)** adnotację „Dyrektywa 2004/38/WE” – przypadku dokumentu potwierdzającego prawo stałego pobytu;
+- **8)** adnotację „członek rodziny obywatela UE, art. 20 dyrektywy 2004/38/WE” – przypadku karty stałego pobytu.
 
 2. Niezależnie od danych, o których mowa ust. 1, dokument potwierdzający prawo stałego pobytu lub karta stałego pobytu może zawierać podpis posiadacza oraz zakodowany zapis danych, o których mowa ust. 1 pkt 1 lit. a–d lub pkt 5.
 
@@ -316,11 +318,13 @@ o zmianie ustawy o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie or
 
 - **44)** art. 55 otrzymuje brzmienie: „Art. 55. Dokument potwierdzający prawo stałego pobytu i karta stałego pobytu są ważne przez 10 lat.”;
 - **45)** art. 56:
-    - **a)** ust. 1: pkt 2 otrzymuje brzmienie: „2) wymagają tego względy obronności lub bezpieczeństwa państwa lub ochrony bezpieczeństwa i porządku publicznego, lub”, dodaje się pkt 3 i 4 brzmieniu: „3) postępowaniu o wydanie dokumentu potwierdzającego prawo stałego pobytu lub o wydanie karty stałego pobytu wnioskodawca:
+    - **a)** ust. 1: – pkt 2 otrzymuje brzmienie: „2) wymagają tego względy obronności lub bezpieczeństwa państwa lub ochrony bezpieczeństwa i porządku publicznego, lub”, – dodaje się pkt 3 i 4 brzmieniu: „3) postępowaniu o wydanie dokumentu potwierdzającego prawo stałego pobytu lub o wydanie karty stałego pobytu wnioskodawca:
     - **a)** złożył wniosek zawierający nieprawdziwe dane osobowe lub fałszywe informacje lub dołączył do niego dokumenty zawierające takie dane lub informacje lub
     - **b)** zeznał nieprawdę lub zataił prawdę albo podrobił lub przerobił dokument celu jego użycia jako autentycznego lub takiego dokumentu używał jako autentycznego, lub
 
-- **4)** obywatel UE lub członek rodziny niebędący obywatelem UE ubiega się o wydanie dokumentu potwierdzającego prawo stałego pobytu albo karty stałego pobytu celu obejścia przepisów prawa obowiązujących innym państwie członkowskim Unii Europejskiej, państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej regulujących zasady wjazdu na terytorium Unii Europejskiej, pobytu oraz wyjazdu z tego terytorium.”, „2. Członkowi rodziny niebędącemu obywatelem UE odmawia się wydania karty stałego pobytu także wtedy, gdy związek małżeński z obywatelem UE lub obywatelem Rzeczypospolitej Polskiej został zawarty celu obejścia przepisów określających zasady i warunki wjazdu cudzoziemców na terytorium Rzeczypospolitej Polskiej, ich przejazdu przez to terytorium, pobytu na nim i wyjazdu z niego.”;
+- **4)** obywatel UE lub członek rodziny niebędący obywatelem UE ubiega się o wydanie dokumentu potwierdzającego prawo stałego pobytu albo karty stałego pobytu celu obejścia przepisów prawa obowiązujących innym państwie członkowskim Unii Europejskiej, państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej regulujących zasady wjazdu na terytorium Unii Europejskiej, pobytu oraz wyjazdu z tego terytorium.”,
+    - **b)** ust. 2 otrzymuje brzmienie: „2. Członkowi rodziny niebędącemu obywatelem UE odmawia się wydania karty stałego pobytu także wtedy, gdy związek małżeński z obywatelem UE lub obywatelem Rzeczypospolitej Polskiej został zawarty
+
 - **46)** art. 57 i art. 58 otrzymują brzmienie: „Art. 57. Do wymiany lub wydania nowego dokumentu potwierdzającego prawo stałego pobytu lub nowej karty stałego pobytu stosuje się odpowiednio przepisy art. 32.
 
 **Art. 58.** Do wniosku o wymianę albo wydanie nowego dokumentu potwierdzającego prawo stałego pobytu lub nowej karty stałego pobytu stosuje się odpowiednio przepisy art. 33 ust. 1a–7.”;
@@ -334,7 +338,7 @@ o zmianie ustawy o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie or
     - **b)** zeznał nieprawdę lub zataił prawdę albo podrobił lub przerobił dokument celu jego użycia jako autentycznego lub takiego dokumentu używał jako autentycznego lub
 
 - **2)** wymagają tego poważne względy obronności lub bezpieczeństwa państwa lub ochrony bezpieczeństwa i porządku publicznego, lub
-- **3)** obywatel UE nabył prawo stałego pobytu celu obejścia przepisów prawa obowiązujących innym państwie członkowskim Unii Europejskiej, państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej regulujących zasady wjazdu na terytorium Unii Europejskiej, pobytu oraz wyjazdu z tego terytorium.
+- **3)** obywatel UE nabył prawo stałego pobytu celu obejścia przepisów prawa obowiązujących innym państwie członkowskim Unii Europejskiej, państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej regulujących zasady wjazdu na terytorium Unii Europejskiej, pobytu oraz wyjazdu z tego terytorium.
 
 2. Kartę stałego pobytu unieważnia się, przypadku gdy:
 
@@ -344,7 +348,7 @@ o zmianie ustawy o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie or
 
 - **2)** wymagają tego poważne względy obronności lub bezpieczeństwa państwa lub ochrony bezpieczeństwa i porządku publicznego, lub
 - **3)** związek małżeński z obywatelem UE lub obywatelem Rzeczypospolitej Polskiej został zawarty celu obejścia przepisów określających zasady i warunki wjazdu cudzoziemców na terytorium Rzeczypospolitej Polskiej, ich przejazdu przez to terytorium, pobytu na nim i wyjazdu z niego, lub
-- **4)** członek rodziny niebędący obywatelem UE nabył prawo stałego pobytu celu obejścia przepisów prawa obowiązujących innym państwie członkowskim Unii Europejskiej, państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej regulujących zasady wjazdu na terytorium Unii Europejskiej, pobytu oraz wyjazdu z tego terytorium.
+- **4)** członek rodziny niebędący obywatelem UE nabył prawo stałego pobytu celu obejścia przepisów prawa obowiązujących innym państwie członkowskim Unii Europejskiej, państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej regulujących zasady wjazdu na terytorium Unii Europejskiej, pobytu oraz wyjazdu z tego terytorium.
 
 3. Dokument potwierdzający prawo stałego pobytu lub kartę stałego pobytu można unieważnić, przypadku gdy obywatel UE albo członek rodziny niebędący obywatelem UE opuścił terytorium Rzeczypospolitej Polskiej na okres przekraczający 2 lata.
 
@@ -365,13 +369,13 @@ o zmianie ustawy o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie or
 
 1. Obywatelom Zjednoczonego Królestwa wydaje się:
 
-- **1)** przypadku posiadania prawa pobytu zaświadczenie o zarejestrowaniu pobytu;
-- **2)** przypadku posiadania prawa stałego pobytu dokument potwierdzający prawo stałego pobytu.
+- **1)** przypadku posiadania prawa pobytu – zaświadczenie o zarejestrowaniu pobytu;
+- **2)** przypadku posiadania prawa stałego pobytu – dokument potwierdzający prawo stałego pobytu.
 
 2. Członkom rodzin obywateli Zjednoczonego Królestwa wydaje się:
 
-- **1)** przypadku posiadania prawa pobytu kartę pobytową;
-- **2)** przypadku posiadania prawa stałego pobytu kartę stałego pobytu.
+- **1)** przypadku posiadania prawa pobytu – kartę pobytową;
+- **2)** przypadku posiadania prawa stałego pobytu – kartę stałego pobytu.
 
 **Art. 65c.**
 
@@ -391,17 +395,17 @@ o zmianie ustawy o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie or
     - **c)** informację o obywatelstwie,
     - **d)** informację o płci,
     - **e)** adres zameldowania na pobyt stały lub czasowy,
-    - **f)** numer ewidencyjny Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL) przypadku gdy został nadany;
+    - **f)** numer ewidencyjny Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL) – przypadku gdy został nadany;
 
 - **2)** obraz linii papilarnych obywatela Zjednoczonego Królestwa lub członka rodziny obywatela Zjednoczonego Królestwa;
 - **3)** nazwę organu, który je wydał;
-- **4)** datę zarejestrowania pobytu przypadku zaświadczenia o zarejestrowaniu pobytu, lub datę wydania karty pobytowej;
+- **4)** datę zarejestrowania pobytu – przypadku zaświadczenia o zarejestrowaniu pobytu, lub datę wydania karty pobytowej;
 - **5)** datę upływu terminu ważności zaświadczenia o zarejestrowaniu pobytu lub karty pobytowej;
 - **6)** fotografię obywatela Zjednoczonego Królestwa lub członka rodziny obywatela Zjednoczonego Królestwa;
 - **7)** adnotację „Art. 50 TUE, Art. 18 ust. 4 Umowy Wystąpienia”;
-- **8)** adnotację „Art. 50 TUE pracownik przygraniczny” przypadku zaświadczenia o zarejestrowaniu pobytu wydanego obywatelowi Zjednoczonego Królestwa będącemu pracownikiem przygranicznym, o którym mowa art. 9 lit. b Umowy Wystąpienia, korzystającym z uprawnień pracownika zakresie wjazdu i pobytu na terytorium Rzeczypospolitej Polskiej.
+- **8)** adnotację „Art. 50 TUE – pracownik przygraniczny” – przypadku zaświadczenia o zarejestrowaniu pobytu wydanego obywatelowi Zjednoczonego Królestwa będącemu pracownikiem przygranicznym, o którym mowa art. 9 lit. b Umowy Wystąpienia, korzystającym z uprawnień pracownika zakresie wjazdu i pobytu na terytorium Rzeczypospolitej Polskiej.
 
-2. Niezależnie od danych, o których mowa ust. 1, zaświadczenie o zarejestrowaniu pobytu lub karta pobytowa może zawierać podpis obywatela Zjednoczonego Królestwa lub członka rodziny obywatela Zjednoczonego Królestwa oraz zakodowany zapis danych osobowych, o których mowa ust. 1 pkt 1 lit. a–d lub pkt 5. gdy są one wydawane:
+2. Niezależnie od danych, o których mowa ust. 1, zaświadczenie o zarejestrowaniu pobytu lub karta pobytowa może zawierać podpis obywatela Zjednoczonego Królestwa lub członka rodziny obywatela Zjednoczonego Królestwa oraz zakodowany zapis danych osobowych, o których mowa ust. 1 pkt 1 lit. a–d lub pkt 5.
 
 - **1)** osobie małoletniej, która nie ukończyła 13. roku życia do dnia złożenia wniosku o wydanie zaświadczenia o zarejestrowaniu pobytu lub karty pobytowej, lub
 - **2)** osobie, która z powodu swojej niepełnosprawności nie może złożyć podpisu samodzielnie.
@@ -441,11 +445,11 @@ o zmianie ustawy o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie or
 
 5. Wnioski, o których mowa ust. 1, przypadku obywatela Zjednoczonego Królestwa lub członka rodziny obywatela Zjednoczonego Królestwa będącego:
 
-- **1)** osobą małoletnią składają rodzice lub ustanowieni przez sąd lub inny organ opiekunowie albo jeden z rodziców lub ustanowionych przez sąd lub inny organ opiekunów;
-- **2)** osobą ubezwłasnowolnioną całkowicie składa opiekun ustanowiony przez sąd lub inny organ;
-- **3)** osobą małoletnią bez opieki składa kurator.
+- **1)** osobą małoletnią – składają rodzice lub ustanowieni przez sąd lub inny organ opiekunowie albo jeden z rodziców lub ustanowionych przez sąd lub inny organ opiekunów;
+- **2)** osobą ubezwłasnowolnioną całkowicie – składa opiekun ustanowiony przez sąd lub inny organ;
+- **3)** osobą małoletnią bez opieki – składa kurator.
 
-6. Organ właściwy do wymiany lub wydania nowego zaświadczenia o zarejestrowaniu pobytu lub nowej karty pobytowej pobiera od obywatela Zjednoczonego Królestwa lub członka rodziny obywatela Zjednoczonego Królestwa, który składa wniosek, o którym mowa ust. 1, odciski linii papilarnych. przepisy art. 65e.
+6. Organ właściwy do wymiany lub wydania nowego zaświadczenia o zarejestrowaniu pobytu lub nowej karty pobytowej pobiera od obywatela Zjednoczonego Królestwa lub członka rodziny obywatela Zjednoczonego Królestwa, który składa wniosek, o którym mowa ust. 1, odciski linii papilarnych.
 
 **Art. 65h.**
 
@@ -492,9 +496,9 @@ o zmianie ustawy o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie or
     - **c)** informację o obywatelstwie,
     - **d)** informację o płci,
     - **e)** adres zameldowania na pobyt stały lub czasowy,
-    - **f)** numer ewidencyjny Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL) przypadku gdy został nadany;
+    - **f)** numer ewidencyjny Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL) – przypadku gdy został nadany;
 
-- **2)** obraz linii papilarnych obywatela Zjednoczonego Królestwa lub członka rodziny obywatela Zjednoczonego Królestwa;
+- **3)** nazwę organu, który go wydał;
 - **4)** datę wydania;
 - **5)** datę upływu terminu ważności dokumentu potwierdzającego prawo stałego pobytu lub karty stałego pobytu;
 - **6)** fotografię obywatela Zjednoczonego Królestwa lub członka rodziny obywatela Zjednoczonego Królestwa;
@@ -538,11 +542,11 @@ o zmianie ustawy o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie or
 
 3. W szczególnie uzasadnionych przypadkach, tym ze względu na stan zdrowia obywatela Zjednoczonego Królestwa lub członka rodziny obywatela Zjednoczonego Królestwa, można odstąpić od wymogu osobistego stawiennictwa, o którym mowa ust. 1.
 
-4. Do wniosku o wymianę albo wydanie nowego dokumentu, o którym mowa ust. 1, dołącza się aktualne fotografie obywatela Zjednoczonego Królestwa lub członka rodziny obywatela Zjednoczonego Królestwa. obywatela Zjednoczonego Królestwa będącego:
+5. Wnioski, o których mowa ust. 1, przypadku obywatela Zjednoczonego Królestwa lub członka rodziny obywatela Zjednoczonego Królestwa będącego:
 
-- **1)** osobą małoletnią składają rodzice lub ustanowieni przez sąd lub inny organ opiekunowie albo jeden z rodziców lub ustanowionych przez sąd lub inny organ opiekunów;
-- **2)** osobą ubezwłasnowolnioną całkowicie składa opiekun ustanowiony przez sąd lub inny organ;
-- **3)** osobą małoletnią bez opieki składa kurator.
+- **1)** osobą małoletnią – składają rodzice lub ustanowieni przez sąd lub inny organ opiekunowie albo jeden z rodziców lub ustanowionych przez sąd lub inny organ opiekunów;
+- **2)** osobą ubezwłasnowolnioną całkowicie – składa opiekun ustanowiony przez sąd lub inny organ;
+- **3)** osobą małoletnią bez opieki – składa kurator.
 
 6. Organ właściwy do wymiany lub wydania nowego dokumentu potwierdzającego prawo stałego pobytu lub nowej karty stałego pobytu pobiera od obywatela Zjednoczonego Królestwa, który składa wniosek, o którym mowa ust. 1, odciski linii papilarnych.
 
@@ -573,7 +577,7 @@ o zmianie ustawy o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie or
 - **1)** konieczność zapewnienia czytelności i kompletności wzorów, o których mowa ust. 1 pkt 1 i 2;
 - **2)** dane osobowe zakresie niezbędnym do wydania dokumentu potwierdzającego prawo stałego pobytu, karty stałego pobytu, wymiany lub wydania nowego dokumentu potwierdzającego prawo stałego pobytu lub nowej karty stałego pobytu.
 
-**Art. 65o.** Dokument potwierdzający prawo stałego pobytu lub kartę stałego pobytu, wydane obywatelowi Zjednoczonego Królestwa albo członkowi rodziny obywatela Zjednoczonego Królestwa można unieważnić, przypadku gdy obywatel Zjednoczonego Królestwa albo członek rodziny obywatela Zjednoczonego Królestwa opuścił terytorium Rzeczypospolitej Polskiej na okres przekraczający 5 lat.”;
+**Art. 65o.** Dokument potwierdzający prawo stałego pobytu lub kartę stałego pobytu, wydane obywatelowi Zjednoczonego Królestwa albo członkowi rodziny obywatela Zjednoczonego Królestwa można unieważnić, przypadku gdy obywatel Zjednoczonego Królestwa albo członek rodziny obywatela Zjednoczonego Królestwa opuścił terytorium Rzeczypospolitej Polskiej na okres przekraczający 5 lat.”; „Art. 65p. 1. Obywatelowi UE, który nie posiada prawa pobytu zgodnie z art. 16 lub art. 18 lub nie zachował prawa pobytu przypadku, o którym mowa art. 17, art. 19 ust. 1 i 3 lub art. 19a, może być wydana decyzja o wydaleniu z terytorium Rzeczypospolitej Polskiej. 2. Członkowi rodziny niebędącemu obywatelem UE, który:
 
 **Art. 68.**
 
@@ -590,8 +594,8 @@ o zmianie ustawy o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie or
 - **3)** charakter i okoliczności popełnionego przestępstwa, za które obywatel UE odbywał karę pozbawienia wolności;
 - **4)** zachowanie obywatela UE okresie odbywania kary pozbawienia wolności.”;
 - **55)** art. 68a dodaje się ust. 4 brzmieniu: „4. Przepisów ust. 1–3 nie stosuje się do decyzji, o której mowa art. 65p.”;
-- **56)** art. 71:
-    - **a)** ust. 2 otrzymuje brzmienie: „2. W decyzji, o której mowa ust. 1, nie określa się terminu opuszczenia terytorium Rzeczypospolitej Polskiej albo określa się termin krótszy niż 31 dni, gdy wymaga tego stopień zagrożenia dla obronności lub bezpieczeństwa państwa lub ochrony bezpieczeństwa i porządku publicznego.”, „2a. W decyzji, o której mowa ust. 1, której nie określono terminu opuszczenia terytorium Rzeczypospolitej Polskiej, wskazuje się państwo, do którego następuje wydalenie obywatela UE lub członka rodziny niebędącego obywatelem UE.
+    - **a)** ust. 2 otrzymuje brzmienie: „2. W decyzji, o której mowa ust. 1, nie określa się terminu opuszczenia terytorium Rzeczypospolitej Polskiej albo określa się termin krótszy niż 31 dni, gdy wymaga tego stopień zagrożenia dla obronności lub bezpieczeństwa państwa lub ochrony bezpieczeństwa i porządku publicznego.”,
+    - **b)** po ust. 2 dodaje się ust. 2a i 2b brzmieniu: „2a. W decyzji, o której mowa ust. 1, której nie określono terminu opuszczenia terytorium Rzeczypospolitej Polskiej, wskazuje się państwo, do którego następuje wydalenie obywatela UE lub członka rodziny niebędącego obywatelem UE.
 
 2b. Decyzja, o której mowa ust. 1, której nie określono terminu opuszczenia terytorium Rzeczypospolitej Polskiej, podlega przymusowemu wykonaniu.”;
 
@@ -599,19 +603,20 @@ o zmianie ustawy o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie or
 - **58)** art. 73:
     - **a)** ust. 1 otrzymuje brzmienie: „1. Decyzję o wydaleniu obywatela UE lub członka rodziny niebędącego obywatelem UE wydaje:
 
-- **1)** z urzędu komendant oddziału Straży Granicznej lub komendant placówki Straży Granicznej, który stwierdził istnienie przesłanki uzasadniającej wydanie decyzji o wydaleniu;
-- **2)** na wniosek wojewody, Ministra Obrony Narodowej, Szefa Agencji Bezpieczeństwa Wewnętrznego, Szefa Agencji Wywiadu, organu Krajowej Administracji Skarbowej, komendanta wojewódzkiego lub komendanta powiatowego Policji komendant oddziału Straży Granicznej lub komendant placówki Straży Granicznej właściwy ze względu na siedzibę organu występującego z wnioskiem albo miejsce pobytu obywatela UE lub członka rodziny niebędącego obywatelem UE.”,
+- **1)** z urzędu – komendant oddziału Straży Granicznej lub komendant placówki Straży Granicznej, który stwierdził istnienie przesłanki uzasadniającej wydanie decyzji o wydaleniu;
+- **2)** na wniosek wojewody, Ministra Obrony Narodowej, Szefa Agencji Bezpieczeństwa Wewnętrznego, Szefa Agencji Wywiadu, organu Krajowej Administracji Skarbowej, komendanta wojewódzkiego lub komendanta powiatowego Policji – komendant oddziału Straży Granicznej lub komendant placówki Straży Granicznej właściwy ze względu na siedzibę organu występującego z wnioskiem albo miejsce pobytu obywatela UE lub członka rodziny niebędącego obywatelem UE.”,
     - **b)** ust. 3 otrzymuje brzmienie: „3. Komendant oddziału Straży Granicznej lub komendant placówki Straży Granicznej odnotowuje wydanie decyzji o wydaleniu dokumencie podróży obywatela UE lub członka rodziny niebędącego obywatelem UE oraz niezwłocznie informuje o tym organ, który wystąpił z wnioskiem o jej wydanie.”;
 
 - **59)** art. 73a otrzymuje brzmienie: „Art. 73a. 1. Komendant oddziału Straży Granicznej lub komendant placówki Straży Granicznej, który wydał decyzję o wydaleniu obywatela UE lub członka rodziny niebędącego obywatelem UE, pobiera od niego odciski linii papilarnych oraz sporządza jego fotografię.
 
 2. Komendant oddziału Straży Granicznej lub komendant placówki Straży Granicznej, który pobrał odciski linii papilarnych obywatela UE lub członka rodziny niebędącego obywatelem UE, przekazuje Komendantowi Głównemu Policji ich obraz, dane osobowe obywatela UE lub członka rodziny niebędącego obywatelem UE oraz dane osobowe i informacje, o których mowa art. 430 ust. 6 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach.”;
 
-- **60)** po art. 73c dodaje się art. 73d brzmieniu: „Art. 73d. Organem wyższego stopnia, rozumieniu ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego, stosunku do komendanta oddziału Straży Granicznej lub komendanta placówki Straży Granicznej sprawach o wydalenie lub o uchylenie decyzji o wydaleniu obywatela UE lub członka rodziny niebędącego obywatelem UE jest Szef Urzędu do Spraw Cudzoziemców.”;
-- **61)** art. 74 ust. 4 otrzymuje brzmienie: „4. Komendant oddziału Straży Granicznej lub komendant placówki Straży Granicznej, który wydał decyzję o wydaleniu obywatela UE lub członka rodziny niebędącego obywatelem UE, informuje organ gminy właściwy ze względu na miejsce zameldowania na pobyt stały lub pobyt czasowy trwający ponad 3 miesiące obywatela UE lub członka rodziny niebędącego obywatelem UE o opuszczeniu przez niego terytorium Rzeczypospolitej Polskiej związku z wykonaniem decyzji o wydaleniu.”;
-- **62)** art. 74a dodaje się ust. 4 i 5 brzmieniu: „4. Koszty, o których mowa ust. 1, ustala się, gdy decyzja o wydaleniu obywatela UE lub członka rodziny niebędącego obywatelem UE stała się ostateczna, a przypadku wydania takiej decyzji przez organ wyższego stopnia gdy decyzja ostateczna została doręczona, chyba że podlega ona natychmiastowemu wykonaniu.
+- **60)** po art. 73c dodaje się art. 73d brzmieniu: „Art. 73d. Organem wyższego stopnia, rozumieniu ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, stosunku do komendanta oddziału Straży Granicznej lub komendanta placówki Straży Granicznej sprawach o wydalenie lub o uchylenie decyzji o wydaleniu obywatela UE lub członka rodziny niebędącego obywatelem UE jest Szef Urzędu do Spraw Cudzoziemców.”;
+- **61)** art. 74 ust. 4 otrzymuje brzmienie: „4. Komendant oddziału Straży Granicznej lub komendant placówki Straży Granicznej, który wydał decyzję o wydaleniu obywatela UE lub członka rodziny niebędącego obywatelem UE, informuje organ gminy właściwy ze względu na miejsce zameldowania na pobyt stały lub pobyt czasowy trwający ponad 3 miesiące obywatela UE lub członka rodziny niebędącego obywatelem UE o opuszczeniu przez niego terytorium Rzeczypospolitej Polskiej związku z wykonaniem decyzji o wydaleniu.”; „4. Koszty, o których mowa ust. 1, ustala się, gdy decyzja o wydaleniu obywatela UE lub członka rodziny niebędącego obywatelem UE stała się ostateczna, a przypadku wydania takiej decyzji przez organ wyższego stopnia – gdy decyzja ostateczna została doręczona, chyba że podlega ona natychmiastowemu wykonaniu.
 
-5. Należności z tytułu kosztów, o których mowa ust. 1, przedawniają się z upływem 5 lat, licząc od końca roku kalendarzowego, którym decyzja o ustaleniu wysokości kosztów stała się ostateczna.”; „Art. 74aa. Koszty, o których mowa art. 74a ust. 1, ponosi odpowiednio obywatel UE lub członek rodziny niebędący obywatelem UE. Art. 74ab. 1. Organ Straży Granicznej, który wydał decyzję o ustaleniu wysokości kosztów, o których mowa art. 74a ust. 1, może zmienić tę decyzję, jeżeli koszty te uległy zmianie po wydaniu decyzji. Decyzja podlega natychmiastowemu wykonaniu.
+5. Należności z tytułu kosztów, o których mowa ust. 1, przedawniają się z upływem 5 lat, licząc od końca roku kalendarzowego, którym decyzja o ustaleniu wysokości kosztów stała się ostateczna.”;
+
+- **63)** po art. 74a dodaje się art. 74aa i art. 74ab brzmieniu: „Art. 74aa. Koszty, o których mowa art. 74a ust. 1, ponosi odpowiednio obywatel UE lub członek rodziny niebędący obywatelem UE. Art. 74ab. 1. Organ Straży Granicznej, który wydał decyzję o ustaleniu wysokości kosztów, o których mowa art. 74a ust. 1, może zmienić tę decyzję, jeżeli koszty te uległy zmianie po wydaniu decyzji. Decyzja podlega natychmiastowemu wykonaniu.
 
 2. Od decyzji, o której mowa ust. 1, służy odwołanie do Komendanta Głównego Straży Granicznej.”;
 
@@ -638,8 +643,7 @@ o zmianie ustawy o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie or
 
 3. Zawieszenie obowiązywania wpisu do wykazu przerywa okres obowiązywania wpisu do wykazu.”;
 
-- **66)** art. 78 ust. 1 otrzymuje brzmienie: „1. Wpisu do wykazu, przedłużenia obowiązywania wpisu, zawieszenia obowiązywania wpisu oraz wykreślenia wpisu dokonuje z urzędu Szef Urzędu do Spraw Cudzoziemców.”;
-- **67)** po rozdziale 5 dodaje się rozdział 5a brzmieniu: „Rozdział 5a Postępowanie sprawie zatrzymania obywatela UE lub członka rodziny niebędącego obywatelem UE, umieszczenia go strzeżonym ośrodku lub zastosowania wobec niego aresztu dla cudzoziemców
+- **66)** art. 78 ust. 1 otrzymuje brzmienie: „1. Wpisu do wykazu, przedłużenia obowiązywania wpisu, zawieszenia obowiązywania wpisu oraz wykreślenia wpisu dokonuje z urzędu Szef Urzędu do Spraw Cudzoziemców.”; „Rozdział 5a Postępowanie sprawie zatrzymania obywatela UE lub członka rodziny niebędącego obywatelem UE, umieszczenia go strzeżonym ośrodku lub zastosowania wobec niego aresztu dla cudzoziemców
 
 **Art. 78a.**
 
@@ -647,11 +651,13 @@ o zmianie ustawy o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie or
 
 2. Obywatel UE lub członek rodziny niebędący obywatelem UE może także zostać zatrzymany na okres nie dłuższy niż 48 godzin celu przymusowego wykonania decyzji o wydaleniu.
 
-3. Zatrzymania obywatela UE lub członka rodziny niebędącego obywatelem UE dokonuje Straż Graniczna lub Policja, a przypadku, o którym mowa ust. 2 Straż Graniczna. członka rodziny niebędącego obywatelem UE i przekazują Komendantowi Głównemu Policji dane osobowe i informacje, o których mowa art. 430 ust. 6 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach.
+3. Zatrzymania obywatela UE lub członka rodziny niebędącego obywatelem UE dokonuje Straż Graniczna lub Policja, a przypadku, o którym mowa ust. 2 – Straż Graniczna.
+
+4. Organy, o których mowa ust. 3, niezwłocznie pobierają odciski linii papilarnych od obywatela UE lub członka rodziny niebędącego obywatelem UE i przekazują Komendantowi Głównemu Policji dane osobowe i informacje, o których mowa art. 430 ust. 6 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach.
 
 5. Po zatrzymaniu obywatela UE lub członka rodziny niebędącego obywatelem UE:
 
-- **1)** Policja niezwłocznie przekazuje go do dyspozycji właściwego ze względu na miejsce jego zatrzymania organu Straży Granicznej, składając jednocześnie wniosek o wydanie decyzji o wydaleniu;
+- **1)** Policja – niezwłocznie przekazuje go do dyspozycji właściwego ze względu na miejsce jego zatrzymania organu Straży Granicznej, składając jednocześnie wniosek o wydanie decyzji o wydaleniu;
 - **2)** Straż Graniczna zależności od okoliczności:
     - **a)** występuje do sądu z wnioskiem o umieszczenie obywatela UE lub członka rodziny niebędącego obywatelem UE strzeżonym ośrodku lub o zastosowanie wobec nich aresztu dla cudzoziemców lub
     - **b)** doprowadza obywatela UE lub członka rodziny niebędącego obywatelem UE do granicy albo portu lotniczego albo morskiego państwa, do którego następuje doprowadzenie.
@@ -677,8 +683,6 @@ o zmianie ustawy o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie or
 
 1. Sąd po wysłuchaniu obywatela UE lub członka rodziny niebędącego obywatelem UE wydaje postanowienie o umieszczeniu ich strzeżonym ośrodku lub o zastosowaniu wobec nich aresztu dla cudzoziemców.
 
-2. Postanowienie, o którym mowa ust. 1, wydaje, na wniosek organu Straży Granicznej, sąd rejonowy właściwy ze względu na miejsce aktualnego pobytu obywatela UE lub członka rodziny niebędącego obywatelem UE.
-
 3. Wniosek o umieszczenie obywatela UE lub członka rodziny niebędącego obywatelem UE strzeżonym ośrodku albo o zastosowanie wobec nich aresztu dla cudzoziemców zawiera:
 
 - **1)** następujące dane obywatela UE lub członka rodziny niebędącego obywatelem UE:
@@ -690,7 +694,9 @@ o zmianie ustawy o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie or
 - **3)** stałe miejsce zamieszkania za granicą;
 - **4)** podstawę prawną wniosku;
 - **5)** wskazanie okresu, na jaki umieszcza się strzeżonym ośrodku lub stosuje się wobec nich areszt dla cudzoziemców;
-- **6)** uzasadnienie. dącego obywatelem UE wraz z małoletnim pozostającym pod ich opieką, kieruje się także dobrem tego małoletniego.
+- **6)** uzasadnienie.
+
+4. Sąd, rozpatrując wniosek o umieszczenie strzeżonym ośrodku obywatela UE lub członka rodziny niebędącego obywatelem UE wraz z małoletnim pozostającym pod ich opieką, kieruje się także dobrem tego małoletniego.
 
 5. Minister właściwy do spraw wewnętrznych określi, drodze rozporządzenia, wzór wniosku o umieszczenie obywatela UE lub członka rodziny niebędącego obywatelem UE strzeżonym ośrodku albo o zastosowanie wobec nich aresztu dla cudzoziemców, uwzględniając konieczność zapewnienia sprawnego prowadzenia postępowań sprawie umieszczenia obywatela UE lub członka rodziny niebędącego obywatelem UE strzeżonym ośrodku albo zastosowania wobec nich aresztu dla cudzoziemców.
 
@@ -719,7 +725,6 @@ o zmianie ustawy o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie or
 5. Obywatela UE lub członka rodziny niebędącego obywatelem UE umieszczonego strzeżonym ośrodku albo areszcie dla cudzoziemców zwalnia się przypadku:
 
 - **1)** upływu okresu pobytu określonego postanowieniu, o którym mowa art. 78f ust. 1, lub
-- **2)** wydania postanowienia lub zarządzenia o zwolnieniu obywatela UE lub członka rodziny niebędącego obywatelem UE ze strzeżonego ośrodka albo z aresztu dla cudzoziemców, lub
 - **3)** doręczenia obywatelowi UE lub członkowi rodziny niebędącemu obywatelem UE decyzji o uchyleniu lub stwierdzeniu nieważności decyzji o wydaleniu.
 
 6. Organ Straży Granicznej, któremu podlega strzeżony ośrodek lub areszt dla cudzoziemców, niezwłocznie informuje sąd, który wydał postanowienie, o zwolnieniu obywatela UE lub członka rodziny niebędącego obywatelem UE ze strzeżonego ośrodka albo z aresztu dla cudzoziemców.”;
@@ -729,22 +734,25 @@ o zmianie ustawy o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie or
 - **2)** kart pobytowych;
 - **3)** dokumentów potwierdzających prawo stałego pobytu;
 - **4)** kart stałego pobytu;
-- **5)** zaświadczeń, o których mowa art. 41a ust. 1.”; „Art. 79a. Rejestry sprawach dotyczących obywateli UE i członków rodzin niebędących obywatelami UE prowadzą:
-- **1)** wojewoda i Szef Urzędu do Spraw Cudzoziemców, każdy swoim zakresie przypadku rejestrów, o których mowa art. 79 pkt 1–4;
-- **2)** minister właściwy do spraw wewnętrznych przypadku rejestru, o którym mowa art. 79 pkt 5.”;
-- **70)** art. 80: „Art. 80a. 1. Dane postaci odcisków linii papilarnych pobranych celu wydania karty pobytowej lub karty stałego pobytu przechowuje się rejestrach, o których mowa art. 79 pkt 2 lub 4, do czasu wpisania do tych rejestrów potwierdzenia odbioru tych kart przez organ, który je wydał, nie dłużej niż 90 dni od dnia wydania tych kart.
-    - **a)** pkt 1: lit. a otrzymuje brzmienie: „a) informacje o wnioskach dotyczących zarejestrowania pobytu, wydania nowego i wymiany zaświadczenia o zarejestrowaniu pobytu obywatela UE lub zaświadczenia o zarejestrowaniu pobytu,”, lit. d otrzymuje brzmienie: „d) informacje o wydaniu nowego i wymianie zaświadczenia o zarejestrowaniu pobytu obywatela UE lub zaświadczenia o zarejestrowaniu pobytu,”, lit. e średnik zastępuje się przecinkiem i dodaje się lit. f i g brzmieniu: „f) informacje o dacie wydania, numerze, serii i dacie upływu okresu ważności zaświadczenia o zarejestrowaniu pobytu obywatela UE lub zaświadczenia o zarejestrowaniu pobytu,
-    - **g)** obraz linii papilarnych przypadku obywateli Zjednoczonego Królestwa;”,
-    - **b)** pkt 2: lit. a i b otrzymują brzmienie: „a) wnioskach o wydanie karty pobytowej, wydanie nowej karty pobytowej i wymianę karty pobytowej,
-    - **b)** dacie wydania, numerze, serii i dacie upływu okresu ważności karty pobytowej,”, lit. c średnik zastępuje się przecinkiem i dodaje się lit. d brzmieniu: „d) obrazie linii papilarnych;”,
-    - **c)** pkt 3: lit. a i b otrzymują brzmienie: „a) wnioskach o wydanie dokumentu potwierdzającego prawo stałego pobytu, wydanie nowego dokumentu potwierdzającego prawo stałego pobytu i wymianę dokumentu potwierdzającego prawo stałego pobytu,
-    - **b)** dacie wydania, numerze, serii i dacie upływu okresu ważności dokumentu potwierdzającego prawo stałego pobytu,”, lit. c średnik zastępuje się przecinkiem i dodaje się lit. d brzmieniu: „d) obrazie linii papilarnych przypadku obywateli Zjednoczonego Królestwa;”,
-    - **d)** pkt 4: lit. a i b otrzymują brzmienie: „a) wnioskach o wydanie karty stałego pobytu, wydanie nowej karty stałego pobytu i wymianę karty stałego pobytu,
-    - **b)** dacie wydania, numerze, serii i dacie upływu okresu ważności karty stałego pobytu,”, lit. c kropkę zastępuje się przecinkiem i dodaje się lit. d brzmieniu: „d) obrazie linii papilarnych;”,
+- **5)** zaświadczeń, o których mowa art. 41a ust. 1.”;
+- **69)** po art. 79 dodaje się art. 79a brzmieniu: „Art. 79a. Rejestry sprawach dotyczących obywateli UE i członków rodzin niebędących obywatelami UE prowadzą:
+- **1)** wojewoda i Szef Urzędu do Spraw Cudzoziemców, każdy swoim zakresie – przypadku rejestrów, o których mowa art. 79 pkt 1–4;
+- **2)** minister właściwy do spraw wewnętrznych – przypadku rejestru, o którym mowa art. 79 pkt 5.”;
+- **70)** art. 80:
+    - **a)** pkt 1: – lit. a otrzymuje brzmienie: „a) informacje o wnioskach dotyczących zarejestrowania pobytu, wydania nowego i wymiany zaświadczenia o zarejestrowaniu pobytu obywatela UE lub zaświadczenia o zarejestrowaniu pobytu,”, – lit. d otrzymuje brzmienie: „d) informacje o wydaniu nowego i wymianie zaświadczenia o zarejestrowaniu pobytu obywatela UE lub zaświadczenia o zarejestrowaniu pobytu,”, – lit. e średnik zastępuje się przecinkiem i dodaje się lit. f i g brzmieniu: „f) informacje o dacie wydania, numerze, serii i dacie upływu okresu ważności zaświadczenia o zarejestrowaniu pobytu obywatela UE lub zaświadczenia o zarejestrowaniu pobytu,
+    - **g)** obraz linii papilarnych – przypadku obywateli Zjednoczonego Królestwa;”,
+    - **b)** pkt 2: – lit. a i b otrzymują brzmienie: „a) wnioskach o wydanie karty pobytowej, wydanie nowej karty pobytowej i wymianę karty pobytowej,
+    - **b)** dacie wydania, numerze, serii i dacie upływu okresu ważności karty pobytowej,”, – lit. c średnik zastępuje się przecinkiem i dodaje się lit. d brzmieniu: „d) obrazie linii papilarnych;”,
+    - **c)** pkt 3: – lit. a i b otrzymują brzmienie: „a) wnioskach o wydanie dokumentu potwierdzającego prawo stałego pobytu, wydanie nowego dokumentu potwierdzającego prawo stałego pobytu i wymianę dokumentu potwierdzającego prawo stałego pobytu,
+    - **b)** dacie wydania, numerze, serii i dacie upływu okresu ważności dokumentu potwierdzającego prawo stałego pobytu,”, „d) obrazie linii papilarnych – przypadku obywateli Zjednoczonego Królestwa;”,
+    - **d)** pkt 4: – lit. a i b otrzymują brzmienie: „a) wnioskach o wydanie karty stałego pobytu, wydanie nowej karty stałego pobytu i wymianę karty stałego pobytu,
+    - **b)** dacie wydania, numerze, serii i dacie upływu okresu ważności karty stałego pobytu,”, – lit. c kropkę zastępuje się przecinkiem i dodaje się lit. d brzmieniu: „d) obrazie linii papilarnych;”,
     - **e)** dodaje się pkt 5 brzmieniu: „5) rejestrze, o którym mowa art. 79 pkt 5, przechowuje się informacje o:
     - **a)** organie, który wydał zaświadczenie, o którym mowa art. 41a ust. 1,
     - **b)** dacie wydania zaświadczenia, o którym mowa art. 41a ust. 1,
     - **c)** dacie unieważnienia zaświadczenia, o którym mowa art. 41a ust. 1.”;
+
+- **71)** po art. 80 dodaje się art. 80a i art. 80b brzmieniu: „Art. 80a. 1. Dane postaci odcisków linii papilarnych pobranych celu wydania karty pobytowej lub karty stałego pobytu przechowuje się rejestrach, o których mowa art. 79 pkt 2 lub 4, do czasu wpisania do tych rejestrów potwierdzenia odbioru tych kart przez organ, który je wydał, nie dłużej niż 90 dni od dnia wydania tych kart.
 
 2. W przypadku wydania decyzji o odmowie wydania karty pobytowej lub karty stałego pobytu lub decyzji o odmowie ich wymiany dane postaci odcisków linii papilarnych przechowuje się rejestrach, o których mowa art. 79 pkt 2 lub 4, do czasu wpisania informacji o wydaniu tych decyzji do rejestrów, gdy decyzje te stały się prawomocne.
 
@@ -760,9 +768,17 @@ o zmianie ustawy o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie or
 - **3)** wbrew obowiązkowi nie zwraca zaświadczenia o zarejestrowaniu pobytu obywatela UE, karty pobytowej, dokumentu potwierdzającego prawo stałego pobytu lub karty stałego pobytu,”,
     - **b)** dodaje się pkt 4 brzmieniu: „4) wbrew obowiązkowi nie zawiadamia o utracie zaświadczenia o zarejestrowaniu pobytu obywatela UE, karty pobytowej, dokumentu potwierdzającego prawo stałego pobytu lub karty stałego pobytu terminie 3 dni od dnia ich utraty”.
 
-**Art. 2.** W ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2020 r. poz. 1876) wprowadza się następujące zmiany:
+- **1)** art. 5a otrzymuje brzmienie: „Art. 5a. Prawo do świadczeń formie interwencji kryzysowej, schronienia, posiłku, niezbędnego ubrania oraz zasiłku celowego przysługuje:
+- **1)** cudzoziemcom przebywającym na terytorium Rzeczypospolitej Polskiej na podstawie zaświadczenia, o którym mowa art. 170 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, lub
+- **2)** cudzoziemcom przebywającym na terytorium Rzeczypospolitej Polskiej na podstawie zezwolenia, o którym mowa art. 176 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, lub
+- **3)** obywatelom państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej oraz członkom ich rodzin rozumieniu art. 2 pkt 4 ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin posiadającym zaświadczenie, o którym mowa art. 41a ust. 1 tej ustawy.”;
+- **2)** art. 18 ust. 1 pkt 7 i art. 20 ust. 1 pkt 4 po wyrazie „cudzoziemcom” dodaje się wyrazy „i osobom”;
+- **3)** art. 47 ust. 3a otrzymuje brzmienie: „3a. Cudzoziemcom i osobom, o których mowa art. 5a, można udzielić schronienia na okres ważności zaświadczenia, o którym mowa art. 170 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, lub na okres ważności zaświadczenia, o którym mowa art. 41a ust. 1 ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin, lub na okres ważności zezwolenia, o którym mowa art. 176 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach.”;
+- **4)** art. 101 ust. 3 i art. 106 ust. 4 po wyrazie „cudzoziemców” dodaje się wyrazy „i osób”.
 
-**Art. 4.** W ustawie z dnia 16 listopada 2006 r. o opłacie skarbowej (Dz. U. z 2020 r. poz. 1546, 1565 i 2023) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2020 r. poz. 1409 i 2023) wprowadza się następujące zmiany:
+
+**Art. 5.** W ustawie z dnia 24 września 2010 r. o ewidencji ludności (Dz. U. z 2019 r. poz. 1397 i 2294 oraz z 2020 r. poz. 695 i 2320) wprowadza się następujące zmiany:
 
 **Art. 6.** W ustawie z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2020 r. poz. 35, 2023 i 2320) wprowadza się następujące zmiany:
 
@@ -776,9 +792,7 @@ o zmianie ustawy o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie or
 
 **Art. 8.**
 
-1. Zaświadczenia o zarejestrowaniu pobytu obywatela UE, karty pobytu członka rodziny obywatela UE, dokumenty potwierdzające prawo stałego pobytu i karty stałego pobytu członka rodziny obywatela UE wydane obywatelom Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej, o których mowa art. 10 ust. 1 lit. b i d Umowy o Wystąpieniu Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej z Unii Europejskiej i Europejskiej Wspólnoty Energii Atomowej (Dz. Urz. UE L 29 z 31.01.2020, str. 7), zwanej dalej „Umową Wystąpienia”, oraz członkom rodzin obywateli Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej, o których mowa art. 10 ust. 1 lit. e i f Umowy Wystąpienia, zachowują ważność przez okres, na który zostały wydane, nie dłużej jednak niż do dnia 31 grudnia 2021 r.
-
-2. Obywatele Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej, o których mowa ust. 1, zwani dalej „obywatelami Zjednoczonego Królestwa”, oraz członkowie rodzin obywateli Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej, o których mowa ust. 1, zwani dalej „członkami rodzin obywateli Zjednoczonego Królestwa”, posiadający dokumenty, o których mowa ust. 1, występują do wojewody właściwego ze względu na miejsce ich pobytu z wnioskiem o wydanie nowych dokumentów, o których mowa art. 65b ustawy zmienianej art. 1, terminie do dnia 31 grudnia 2021 r.
+1. Zaświadczenia o zarejestrowaniu pobytu obywatela UE, karty pobytu członka rodziny obywatela UE, dokumenty potwierdzające prawo stałego pobytu i karty stałego pobytu członka rodziny obywatela UE wydane obywatelom Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej, o których mowa art. 10 ust. 1 lit. b i d Umowy o Wystąpieniu Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej z Unii Europejskiej i Europejskiej Wspólnoty Energii Atomowej (Dz. Urz. UE L 29 z 31.01.2020, str. 7), zwanej dalej „Umową Wystąpienia”, oraz członkom rodzin obywateli Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej, o których mowa art. 10 ust. 1 lit. e i f Umowy Wystąpienia, zachowują ważność przez okres, na który zostały wydane, nie dłużej jednak niż do dnia 31 grudnia 2021 r. „obywatelami Zjednoczonego Królestwa”, oraz członkowie rodzin obywateli Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej, o których mowa ust. 1, zwani dalej „członkami rodzin obywateli Zjednoczonego Królestwa”, posiadający dokumenty, o których mowa ust. 1, występują do wojewody właściwego ze względu na miejsce ich pobytu z wnioskiem o wydanie nowych dokumentów, o których mowa art. 65b ustawy zmienianej art. 1, terminie do dnia 31 grudnia 2021 r.
 
 3. Przed wydaniem nowych dokumentów, o których mowa art. 65b ustawy zmienianej art. 1, wojewoda zwraca się do komendanta oddziału Straży Granicznej, komendanta wojewódzkiego Policji i Szefa Agencji Bezpieczeństwa Wewnętrznego z wnioskiem o przekazanie informacji, czy wjazd obywatela Zjednoczonego Królestwa lub członka rodziny obywatela Zjednoczonego Królestwa na terytorium Rzeczypospolitej Polskiej i ich pobyt na tym terytorium mogą stanowić zagrożenie dla obronności lub bezpieczeństwa państwa lub ochrony bezpieczeństwa i porządku publicznego.
 
@@ -792,11 +806,15 @@ o zmianie ustawy o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie or
 
 8. Przepisów ust. 3–7 nie stosuje się do obywatela Zjednoczonego Królestwa i członka rodziny obywatela Zjednoczonego Królestwa, który do dnia złożenia wniosku nie ukończył 13. roku życia.
 
-9. Wymiana informacji między wojewodą a organami, o których mowa ust. 3, może odbywać się za pomocą środków komunikacji elektronicznej. który:
+9. Wymiana informacji między wojewodą a organami, o których mowa ust. 3, może odbywać się za pomocą środków komunikacji elektronicznej.
+
+**Art. 9.**
+
+1. Obywatelowi Zjednoczonego Królestwa oraz członkowi rodziny obywatela Zjednoczonego Królestwa, który:
 
 - **1)** do dnia 31 grudnia 2021 r. złożył wniosek o wydanie nowego zaświadczenia o zarejestrowaniu pobytu, nowej karty pobytowej, nowego dokumentu potwierdzającego prawo stałego pobytu lub nowej karty stałego pobytu, o których mowa art. 65b ustawy zmienianej art. 1,
 - **2)** do dnia 31 grudnia 2021 r. złożył wniosek o zarejestrowanie pobytu lub wydanie karty pobytowej, dokumentu potwierdzającego prawo stałego pobytu lub karty stałego pobytu, o których mowa rozdziale 4a ustawy zmienianej art. 1,
-- **3)** przed dniem wejścia życie niniejszej ustawy złożył wniosek o zarejestrowanie pobytu lub o wydanie karty pobytu członka rodziny obywatela UE, dokumentu potwierdzającego prawo stałego pobytu lub karty stałego pobytu członka rodziny obywatela UE, o których mowa rozdziale 3 i rozdziale 4 ustawy zmienianej art. 1 brzmieniu dotychczasowym, jeżeli postępowanie tej sprawie nie zostało zakończone do dnia 31 grudnia 2020 r. wojewoda wydaje zaświadczenie o złożeniu tego wniosku ważne przez rok.
+- **3)** przed dniem wejścia życie niniejszej ustawy złożył wniosek o zarejestrowanie pobytu lub o wydanie karty pobytu członka rodziny obywatela UE, dokumentu potwierdzającego prawo stałego pobytu lub karty stałego pobytu członka rodziny obywatela UE, o których mowa rozdziale 3 i rozdziale 4 ustawy zmienianej art. 1 brzmieniu dotychczasowym, jeżeli postępowanie tej sprawie nie zostało zakończone do dnia 31 grudnia 2020 r. – wojewoda wydaje zaświadczenie o złożeniu tego wniosku ważne przez rok.
 
 2. W przypadku gdy postępowanie, o którym mowa ust. 1, nie zostało zakończone przed upływem okresu ważności zaświadczenia, wojewoda, przed którym toczy się to postępowanie, wydaje kolejne zaświadczenie ważne przez rok. Jeżeli postępowanie toczy się przed Szefem Urzędu do Spraw Cudzoziemców, zaświadczenie wydaje wojewoda, który orzekał sprawie pierwszej instancji.
 
@@ -805,7 +823,6 @@ o zmianie ustawy o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie or
 - **1)** następujące dane obywatela Zjednoczonego Królestwa lub członka rodziny obywatela Zjednoczonego Królestwa, który złożył wniosek:
     - **a)** imię (imiona) i nazwisko,
     - **b)** datę urodzenia,
-    - **c)** obywatelstwo;
 
 - **2)** nazwę organu, który je wydał;
 - **3)** datę wydania;
@@ -821,13 +838,17 @@ o zmianie ustawy o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie or
 5. Obywatel Zjednoczonego Królestwa oraz członek rodziny obywatela Zjednoczonego Królestwa zwraca zaświadczenie, o którym mowa ust. 1, wojewodzie, który je wydał:
 
 - **1)** najpóźniej dniu odbioru dokumentów, o których mowa ust. 1;
-- **2)** terminie 14 dni od dnia, którym decyzja kończąca postępowanie inny sposób niż określony pkt 1 stała się ostateczna, a przypadku decyzji Szefa Urzędu do Spraw Cudzoziemców od dnia doręczenia tej decyzji.
+- **2)** terminie 14 dni od dnia, którym decyzja kończąca postępowanie inny sposób niż określony pkt 1 stała się ostateczna, a przypadku decyzji Szefa Urzędu do Spraw Cudzoziemców – od dnia doręczenia tej decyzji.
 
 6. Zaświadczenie, o którym mowa ust. 1, unieważnia się przypadku, gdy obywatel Zjednoczonego Królestwa lub członek rodziny obywatela Zjednoczonego Królestwa nie zwróci go terminie określonym ust. 5.
 
 7. Organem właściwym sprawie unieważnienia zaświadczenia, o którym mowa ust. 1, jest wojewoda, który je wydał.
 
 8. Zaświadczenie, o którym mowa ust. 1, unieważnia się z dniem upływu terminu jego zwrotu, o którym mowa ust. 5.
+
+**Art. 10.**
+
+1. Minister właściwy do spraw wewnętrznych określi, drodze rozporządzenia:
 
 - **1)** wzór zaświadczenia o złożeniu wniosku wydawanego przypadkach, o których mowa art. 9 ust. 1 i 2;
 - **2)** sposób i tryb unieważniania zaświadczenia.
@@ -847,11 +868,7 @@ o zmianie ustawy o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie or
 
 1. Wizy wydane celu, o którym mowa art. 60 ust. 1 pkt 17 ustawy zmienianej art. 6, związku z dołączeniem do obywatela Zjednoczonego Królestwa, zachowują ważność na okres, na jaki zostały wydane.
 
-2. W postępowaniach sprawie wydania wizy celu, o którym mowa art. 60 ust. 1 pkt 17 ustawy zmienianej art. 6, wszczętych i niezakończonych przed dniem wejścia życie ustawy, dotyczących członków rodziny, o których mowa art. 2 pkt 4 ustawy zmienianej art. 1 brzmieniu dotychczasowym, związku z zamiarem dołączenia przez nich do obywatela Zjednoczonego Królestwa, tego obywatela Zjednoczonego Królestwa uważa się za obywatela państwa członkowskiego Unii Europejskiej.
-
-**Art. 13.**
-
-1. Zezwolenia na pobyt czasowy, o których mowa art. 160 pkt 1 ustawy zmienianej art. 6, udzielone przed dniem wejścia życie ustawy członkom rodziny obywateli Zjednoczonego Królestwa innym niż określeni art. 2 pkt 4 ustawy zmienianej art. 1 brzmieniu dotychczasowym, zachowują ważność na okresy, na jakie zostały udzielone.
+2. W postępowaniach sprawie wydania wizy celu, o którym mowa art. 60 ust. 1 pkt 17 ustawy zmienianej art. 6, wszczętych i niezakończonych przed dniem wejścia życie ustawy, dotyczących członków rodziny, o których mowa art. 2 pkt 4 ustawy zmienianej art. 1 brzmieniu dotychczasowym, związku z zamiarem dołączenia przez nich do obywatela Zjednoczonego Królestwa, tego obywatela Zjednoczonego Królestwa uważa się za obywatela państwa członkowskiego Unii Europejskiej. pkt 4 ustawy zmienianej art. 1 brzmieniu dotychczasowym, zachowują ważność na okresy, na jakie zostały udzielone.
 
 2. W postępowaniach sprawie udzielenia zezwolenia na pobyt czasowy, o którym mowa art. 160 pkt 1 ustawy zmienianej art. 6, wszczętych i niezakończonych przed dniem wejścia życie ustawy, dotyczących członków rodziny obywateli Zjednoczonego Królestwa innych niż określeni art. 2 pkt 4 ustawy zmienianej art. 1 brzmieniu dotychczasowym, obywatela Zjednoczonego Królestwa uważa się za obywatela państwa członkowskiego Unii Europejskiej.
 
@@ -865,7 +882,11 @@ o zmianie ustawy o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie or
 
 1. Jeżeli obywatel Zjednoczonego Królestwa będący pracownikiem przygranicznym, o którym mowa art. 9 lit. b Umowy Wystąpienia, przed dniem 31 grudnia 2020 r. wykonywał pracę lub prowadził inną działalność zarobkową we własnym imieniu i na własny rachunek na terytorium Rzeczypospolitej Polskiej i nie podlegał obowiązkowi rejestracji pobytu, po tym dniu nadal wykonuje pracę lub prowadzi taką działalność na tym terytorium i jednocześnie na nim nie zamieszkuje, jest obowiązany zarejestrować swój pobyt terminie do dnia 31 grudnia 2021 r.
 
-2. Do rejestracji pobytu obywatela Zjednoczonego Królestwa, o którym mowa ust. 1, stosuje się odpowiednio przepisy art. 65c–65g oraz przepisy wydane na podstawie art. 65h ustawy zmienianej art. 1. dniem wejścia życie niniejszej ustawy decyzją ostateczną stosuje się przepisy dotychczasowe.
+2. Do rejestracji pobytu obywatela Zjednoczonego Królestwa, o którym mowa ust. 1, stosuje się odpowiednio przepisy art. 65c–65g oraz przepisy wydane na podstawie art. 65h ustawy zmienianej art. 1.
+
+**Art. 16.**
+
+1. Do postępowań wszczętych na podstawie ustaw zmienianych niniejszą ustawą i niezakończonych przed dniem wejścia życie niniejszej ustawy decyzją ostateczną stosuje się przepisy dotychczasowe.
 
 2. Postępowania sprawie zarejestrowania pobytu, wydania karty pobytu członka rodziny obywateli UE, dokumentu potwierdzającego prawo stałego pobytu i karty stałego pobytu członka rodziny obywatela UE prowadzone wobec obywateli Zjednoczonego Królestwa oraz członków ich rodzin wszczęte i niezakończone przed dniem wejścia życie niniejszej ustawy prowadzi się jako postępowania, o których mowa rozdziale 4a ustawy zmienianej art. 1.
 
@@ -875,9 +896,7 @@ o zmianie ustawy o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie or
 
 5. Postępowanie, o którym mowa ust. 1, sprawie wydania lub wymiany karty stałego pobytu członka rodziny obywatela UE zakończone po dniu 1 sierpnia 2021 r. zakończy się wydaniem lub wymianą karty stałego pobytu według wzoru określonego przepisach wydanych na podstawie art. 65 ust. 1 ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą, chyba że zachodzą podstawy do odmowy wydania lub wymiany karty stałego pobytu.
 
-6. Postępowanie, o którym mowa ust. 1, sprawie zarejestrowania pobytu lub wymiany zaświadczenia o zarejestrowaniu pobytu zakończone po dniu 1 sierpnia 2021 r. zakończy się wydaniem lub wymianą tego zaświadczenia według wzoru określonego przepisach wydanych na podstawie art. 41 ust. 1 ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą, chyba że zachodzą podstawy do odmowy wydania lub wymiany zaświadczenia o zarejestrowaniu pobytu.
-
-7. Postępowanie, o którym mowa ust. 1, sprawie wydania lub wymiany dokumentu potwierdzającego prawo stałego pobytu zakończone po dniu 1 sierpnia 2021 r. zakończy się wydaniem lub wymianą tego dokumentu według wzoru określonego przepisach wydanych na podstawie art. 65 ust. 1 ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą, chyba że zachodzą podstawy do odmowy wydania lub wymiany dokumentu potwierdzającego prawo stałego pobytu.
+6. Postępowanie, o którym mowa ust. 1, sprawie zarejestrowania pobytu lub wymiany zaświadczenia o zarejestrowaniu pobytu zakończone po dniu 1 sierpnia 2021 r. zakończy się wydaniem lub wymianą tego zaświadczenia według wzoru określonego przepisach wydanych na podstawie art. 41 ust. 1 ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą, chyba że zachodzą podstawy do odmowy wydania lub wymiany zaświadczenia o zarejestrowaniu pobytu. określonego przepisach wydanych na podstawie art. 65 ust. 1 ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą, chyba że zachodzą podstawy do odmowy wydania lub wymiany dokumentu potwierdzającego prawo stałego pobytu.
 
 **Art. 17.**
 
@@ -893,7 +912,9 @@ o zmianie ustawy o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie or
 
 **Art. 20.**
 
-1. Do dnia 31 grudnia 2021 r. obywatele Zjednoczonego Królestwa oraz członkowie rodzin obywateli Zjednoczonego Królestwa, dokonując zameldowania na pobyt stały lub na pobyt czasowy, o którym mowa art. 43 ust. 1a i 3a ustawy zmienianej art. 5, mogą przedstawić dokumenty, o których mowa art. 8 ust. 1. zameldowania na pobyt stały lub na pobyt czasowy, o którym mowa art. 43 ust. 1a i 3a ustawy zmienianej art. 5, mogą przedstawić zaświadczenie, o którym mowa art. 9 ust. 1 lub 2.
+1. Do dnia 31 grudnia 2021 r. obywatele Zjednoczonego Królestwa oraz członkowie rodzin obywateli Zjednoczonego Królestwa, dokonując zameldowania na pobyt stały lub na pobyt czasowy, o którym mowa art. 43 ust. 1a i 3a ustawy zmienianej art. 5, mogą przedstawić dokumenty, o których mowa art. 8 ust. 1.
+
+2. Obywatele Zjednoczonego Królestwa oraz członkowie rodzin obywateli Zjednoczonego Królestwa, dokonując zameldowania na pobyt stały lub na pobyt czasowy, o którym mowa art. 43 ust. 1a i 3a ustawy zmienianej art. 5, mogą przedstawić zaświadczenie, o którym mowa art. 9 ust. 1 lub 2.
 
 **Art. 21.** Pobyt na terytorium Rzeczypospolitej Polskiej obywatela Zjednoczonego Królestwa, który do dnia 31 grudnia 2020 r. wykonywał na terytorium Rzeczypospolitej Polskiej pracę jako pracownik delegowany przez pracodawcę zagranicznego na terytorium Rzeczypospolitej Polskiej, uważa się za legalny okresie od dnia wejścia życie ustawy do dnia 31 grudnia 2021 r., chyba że ustawa stanowi inaczej.
 

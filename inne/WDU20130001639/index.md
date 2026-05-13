@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# Warszawa, dnia 23 grudnia 2013
+# dnia 22 listopada 2013 zmianie systemie informacji oświatowej
 
 | Pole | Wartość |
 |---|---|
@@ -24,30 +24,32 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001639) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1639/text.pdf) |
 
-USTAWA dnia 22 listopada 2013 zmianie ustawy systemie informacji oświatowej
-
 **Art. 1.** W ustawie dnia 15 kwietnia 2011 systemie informacji oświatowej (Dz. U. Nr 139, poz. 814, późn. zm. ) wprowadza się następujące zmiany:
 
 **Art. 2.**
 
-1. Od dnia wejścia życie niniejszej ustawy do dnia 31 grudnia 2016 danych identyfikacyjnych ucznia przekazanych do bazy danych SIO celu weryfikacji zgodnie art. 44 1 ustawy, której art. nie usuwa się bazy danych SIO oraz gromadzi się je bazie danych SIO zbiorze danych uczniach.
+1. Od dnia wejścia życie niniejszej do dnia 31 grudnia 2016 danych identyfikacyjnych ucznia przekazanych do bazy danych SIO celu weryfikacji zgodnie 44 ustawy, której 1, nie usuwa się bazy danych SIO oraz gromadzi się je bazie danych SIO zbiorze danych uczniach.
 
-2. Jeżeli dane identyfikacyjne ucznia, których zostały pozytywnie zweryfikowane, szkoła lub placówka oświatowa przekazuje do bazy danych SIO dane dziedzinowe tego ucznia.
+2. Jeżeli dane identyfikacyjne ucznia, których 1, zostały pozytywnie zweryfikowane, szkoła lub placówka oświatowa przekazuje do bazy danych SIO dane dziedzinowe tego ucznia.
 
-3. W okresie, którym przypadku negatywnej weryfikacji danych identyfikacyjnych ucznia, której art. 26b 4 art. 44 4 ustawy, której art. szkoła lub placówka oświatowa, wraz rozpoczęciem wyjaśniania stanu faktycznego, odpowiednio:
+3. W okresie, którym 1, przypadku negatywnej weryfikacji danych identyfikacyjnych ucznia, której 26b 4 44 4 ustawy, której 1, szkoła lub placówka oświatowa, wraz rozpoczęciem wyjaśniania stanu faktycznego, odpowiednio:
 
 - **1)** gromadzi lokalnej bazie danych SIO, zbiorach danych uczniach, dane identyfikacyjne oraz dane dziedzinowe tego ucznia;
-- **2)** przekazuje do bazy danych SIO, do zbioru danych uczniach, dane dziedzinowe tego ucznia. nie przekazała ponownie do bazy danych SIO danych identyfikacyjnych ucznia zgodnie 5, administrator bazy danych SIO usuwa bazy danych SIO dane identyfikacyjne dane dziedzinowe tego ucznia zgromadzone zgodnie 1 3 pkt 2 oraz przekazuje administratorowi lokalnej bazy danych SIO informację ich usunięciu. Administrator lokalnej bazy danych SIO niezwłocznie usuwa lokalnej bazy danych SIO dane, których zdaniu pierwszym.
+- **2)** przekazuje do bazy danych SIO, do zbioru danych uczniach, dane dziedzinowe tego ucznia.
 
-8. W okresie, którym do weryfikacji danych identyfikacyjnych nauczyciela przekazanych do bazy danych SIO zgodnie art. 47 1 ustawy, której art. oraz przekazywania danych dziedzinowych nauczyciela do bazy danych SIO przepisy 1–7 stosuje się odpowiednio.
+4. Do przechowywania danych identyfikacyjnych oraz danych dziedzinowych ucznia, których 3 pkt 1, oraz danych dziedzinowych ucznia, których 3 pkt 2, odpowiednio lokalnej bazie danych SIO bazie danych SIO, stosuje się przepisy 93 94 ustawy, której
 
-**Art. 3.**
+1.
 
-1. Jeżeli do dnia 31 grudnia 2016 zweryfikowane negatywnie dane identyfikacyjne ucznia zgromadzone zgodnie art. 2 1 3 odpowiednio bazie danych SIO lokalnej bazie danych SIO nie zostaną pozytywnie zweryfikowane, dniem 1 stycznia 2017 zbiór danych ucznia lokalnej bazie danych SIO staje się nieaktywny nie może być zmieniany ani uzupełniany. Przepisy art. 93 art. 94 ustawy, której art. stosuje się.
+5. Niezwłocznie po wyjaśnieniu stanu faktycznego szkoła lub placówka oświatowa ponownie przekazuje do bazy danych SIO dane identyfikacyjne ucznia. Dane te podlegają weryfikacji danymi osobowymi ucznia zawartymi zbiorze PESEL.
 
-2. Przepis 1 stosuje się odpowiednio przypadku zweryfikowanych negatywnie danych identyfikacyjnych nauczyciela zgromadzonych bazie danych SIO zgodnie art. 2.
+6. W przypadku pozytywnej weryfikacji danych identyfikacyjnych ucznia dane identyfikacyjne tego ucznia zgromadzone zgodnie 3 odpowiednio bazie danych SIO lokalnej bazie danych SIO usuwa się niezwłocznie.
 
-**Art. 4.** Do podziału części oświatowej subwencji ogólnej na lata 2014–2016 przyjmuje się dane zgromadzone systemie informacji oświatowej, którym art. 105 ustawy, której art. brzmieniu nadanym niniejszą ustawą.
+7. Jeżeli po upływie 6 miesięcy od dnia negatywnej weryfikacji, której 3, szkoła lub placówka oświatowa nie przekazała ponownie do bazy danych SIO danych identyfikacyjnych ucznia zgodnie 5, administrator bazy danych SIO usuwa bazy danych SIO dane identyfikacyjne dane dziedzinowe tego ucznia zgromadzone zgodnie 3 pkt 2 oraz przekazuje administratorowi lokalnej bazy danych SIO informację ich usunięciu. Administrator lokalSIO lokalnej bazie danych SIO nie zostaną pozytywnie zweryfikowane, dniem stycznia zbiór danych ucznia lokalnej bazie danych SIO staje się nieaktywny nie może być zmieniany ani uzupełniany. Przepisy 93 94 ustawy, której 1, stosuje się.
 
-**Art. 5.** Ustawa wchodzi życie dniem 1 stycznia 2014 Prezydent Rzeczypospolitej Polskiej: B. Komorowski
+2. Przepis stosuje się odpowiednio przypadku zweryfikowanych negatywnie danych identyfikacyjnych nauczyciela zgromadzonych bazie danych SIO zgodnie 2.
+
+**Art. 4.** Do podziału części oświatowej subwencji ogólnej na lata 2014–2016 przyjmuje się dane zgromadzone systemie informacji oświatowej, którym 105 ustawy, której 1, brzmieniu nadanym niniejszą ustawą.
+
+**Art. 5.** Ustawa wchodzi życie dniem stycznia 2014
 

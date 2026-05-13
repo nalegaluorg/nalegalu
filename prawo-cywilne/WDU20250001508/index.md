@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 3 listopada 2025 r.
+# o zmianie ustawy – Kodeks cywilny
+
+*USTAWA z dnia 9 października 2025 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +25,6 @@ domain: null
 | Data wydania | 2025-11-03 |
 | Ostatnia zmiana | 2025-11-12 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001508) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1508/text.pdf) |
-
-Poz. 1508
-USTAWA z dnia 9 października 2025 r.
-o zmianie ustawy – Kodeks cywilny
 
 **Art. 1.** W ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2025 r. poz. 1071 i 1172) w art. 647 :
 

@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 4 grudnia 2024 r.
+# w sprawie ogłoszenia jednolitego tekstu ustawy o publicznej służbie krwi
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 27 listopada 2024 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2024-12-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001782) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1782/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 27 listopada 2024 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o publicznej służbie krwi
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 22 sierpnia 1997 r. o publicznej służbie krwi (Dz. U. z 2024 r. poz. 281), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 24 lipca 2024 r. o zmianie ustawy o publicznej służbie krwi (Dz. U. poz. 1229) oraz zmian wynikających z przepisów ogłoszonych przed dniem 20 listopada 2024 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 2 ustawy z dnia 24 lipca 2024 r. o zmianie ustawy o publicznej służbie krwi (Dz. U. poz. 1229), który stanowi: „Art. 2. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
 Marszałek Sejmu: S. Hołownia

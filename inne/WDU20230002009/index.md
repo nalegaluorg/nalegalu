@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 26 września 2023 r.
+# w sprawie ogłoszenia jednolitego tekstu ustawy o wzajemnej pomocy przy dochodzeniu podatków, należności celnych i innych należności pieniężnych
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 17 sierpnia 2023 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002009) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2009/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 17 sierpnia 2023 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o wzajemnej pomocy przy dochodzeniu podatków, należności celnych i innych należności pieniężnych
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 11 października 2013 r. o wzajemnej pomocy przy dochodzeniu podatków, należności celnych i innych należności pieniężnych (Dz. U. z 2021 r. poz. 2157), z uwzględnieniem zmian wprowadzonych ustawą z dnia 9 marca 2023 r. o zmianie ustawy o postępowaniu egzekucyjnym w administracji oraz niektórych innych ustaw (Dz. U. poz. 556 i 1059) oraz zmian wynikających z przepisów ogłoszonych przed dniem 10 sierpnia 2023 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 29 ustawy z dnia 9 marca 2023 r. o zmianie ustawy o postępowaniu egzekucyjnym w administracji oraz niektórych innych ustaw (Dz. U. poz. 556 i 1059), który stanowi: „Art. 29. Ustawa wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia, z wyjątkiem:
 1) art. 1 pkt 2, pkt 5 w zakresie art. 15 § 3b, pkt 13 lit. a w zakresie art. 27 § 1 pkt 2 lit. a tiret czwarte i lit. b tiret trzecie, pkt 13 lit. c, pkt 24 lit. b oraz art. 22 ust. 2, które wchodzą w życie z dniem następującym po dniu ogłoszenia;

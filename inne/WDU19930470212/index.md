@@ -21,7 +21,6 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 1993-04-28 |
 | Data wydania | 1993-06-08 |
-| Wejście w życie | 1993-07-07 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19930470212) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1993/212/text.pdf) |
 

@@ -2,7 +2,7 @@
 
 Akty prawne z dziedziny: **Inne**.
 
-Łącznie: **5058** aktów
+Łącznie: **5082** aktów
 
 | Akt | Tytuł | Typ | Status | Orzecznictwo |
 |-----|-------|-----|--------|:---:|
@@ -22,7 +22,31 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20260000076](WDU20260000076/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 stycznia  | Obwieszczenie | obowiązujący |  |
 | [WDU20260000075](WDU20260000075/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 stycznia  | Obwieszczenie | obowiązujący |  |
 | [WDU20260000069](WDU20260000069/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 9 stycznia 2 | Obwieszczenie | obowiązujący |  |
+| [WDU20260000068](WDU20260000068/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 4 grudnia 20 | Obwieszczenie | obowiązujący |  |
+| [WDU20260000624](WDU20260000624/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 22 kwietnia  | Obwieszczenie | obowiązujący |  |
+| [WDU20260000623](WDU20260000623/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 17 kwietnia  | Obwieszczenie | obowiązujący |  |
+| [WDU20260000620](WDU20260000620/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 30 kwietnia  | Obwieszczenie | obowiązujący |  |
+| [WDU20260000619](WDU20260000619/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 30 kwietnia  | Obwieszczenie | obowiązujący |  |
+| [WDU20260000618](WDU20260000618/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 30 kwietnia  | Obwieszczenie | obowiązujący |  |
+| [WDU20260000615](WDU20260000615/index.md) | Ustawa z dnia 13 marca 2026 r. o zmianie ustawy o sporcie | Ustawa | obowiązujący |  |
+| [WDU20260000614](WDU20260000614/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 30 kwietnia  | Obwieszczenie | obowiązujący |  |
+| [WDU20260000612](WDU20260000612/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 17 kwietnia  | Obwieszczenie | obowiązujący |  |
+| [WDU20260000610](WDU20260000610/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 30 kwietnia  | Obwieszczenie | obowiązujący |  |
+| [WDU20260000607](WDU20260000607/index.md) | Ustawa z dnia 13 marca 2026 r. o zmianie ustawy - Prawo lotnicze oraz niekt | Ustawa | obowiązujący |  |
+| [WDU20260000605](WDU20260000605/index.md) | Ustawa z dnia 13 marca 2026 r. o zmianie ustawy o zbiorowym zaopatrzeniu w  | Ustawa | obowiązujący |  |
 | [WDU20260000060](WDU20260000060/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 5 grudnia 20 | Obwieszczenie | obowiązujący |  |
+| [WDU20260000599](WDU20260000599/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 22 kwietnia  | Obwieszczenie | obowiązujący |  |
+| [WDU20260000595](WDU20260000595/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 17 kwietnia  | Obwieszczenie | obowiązujący |  |
+| [WDU20260000591](WDU20260000591/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 kwietnia  | Obwieszczenie | obowiązujący |  |
+| [WDU20260000590](WDU20260000590/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 17 kwietnia  | Obwieszczenie | obowiązujący |  |
+| [WDU20260000584](WDU20260000584/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 17 kwietnia  | Obwieszczenie | obowiązujący |  |
+| [WDU20260000583](WDU20260000583/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 17 kwietnia  | Obwieszczenie | obowiązujący |  |
+| [WDU20260000574](WDU20260000574/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 kwietnia  | Obwieszczenie | obowiązujący |  |
+| [WDU20260000568](WDU20260000568/index.md) | Ustawa z dnia 13 marca 2026 r. o ratyfikacji poprawek do Rzymskiego Statutu | Ustawa | obowiązujący |  |
+| [WDU20260000567](WDU20260000567/index.md) | Ustawa z dnia 13 marca 2026 r. o ratyfikacji Umowy między Rzecząpospolitą P | Ustawa | obowiązujący |  |
+| [WDU20260000566](WDU20260000566/index.md) | Ustawa z dnia 13 marca 2026 r. o zmianie ustawy o działaczach opozycji anty | Ustawa | obowiązujący |  |
+| [WDU20260000563](WDU20260000563/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 22 kwietnia  | Obwieszczenie | obowiązujący |  |
+| [WDU20260000562](WDU20260000562/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 17 kwietnia  | Obwieszczenie | obowiązujący |  |
 | [WDU20260000558](WDU20260000558/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 17 kwietnia  | Obwieszczenie | obowiązujący |  |
 | [WDU20260000055](WDU20260000055/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 9 stycznia 2 | Obwieszczenie | obowiązujący |  |
 | [WDU20260000548](WDU20260000548/index.md) | Ustawa z dnia 27 marca 2026 r. o zarządzaniu danymi | Ustawa | obowiązujący |  |
@@ -4521,7 +4545,7 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU19990740836](WDU19990740836/index.md) | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 16 sierpn | Rozporządzenie | obowiązujący | [tak](WDU19990740836/orzecznictwo.md) |
 | [WDU19990740833](WDU19990740833/index.md) | Rozporządzenie Ministra Finansów z dnia 7 września 1999 r. zmieniające rozp | Rozporządzenie | obowiązujący |  |
 | [WDU19990740828](WDU19990740828/index.md) | Rozporządzenie Prezesa Rady Ministrów z dnia 8 września 1999 r. w sprawie m | Rozporządzenie | obowiązujący |  |
-| [WDU19990720804](WDU19990720804/index.md) | Ustawa z dnia 24 lipca 1999 r. o szczególnych zasadach, warunkach i trybie  | Ustawa | obowiązujący |  |
+| [WDU19990720804](WDU19990720804/index.md) | Ustawa z dnia 24 lipca 1999 r. o szczególnych zasadach, warunkach i trybie  | Ustawa | akt posiada tekst jednolity |  |
 | [WDU19990700784](WDU19990700784/index.md) | Rozporządzenie Ministra Edukacji Narodowej z dnia 10 sierpnia 1999 r. w spr | Rozporządzenie | obowiązujący |  |
 | [WDU19990700780](WDU19990700780/index.md) | Rozporządzenie Rady Ministrów z dnia 4 sierpnia 1999 r. zmieniające rozporz | Rozporządzenie | obowiązujący |  |
 | [WDU19990700779](WDU19990700779/index.md) | Rozporządzenie Rady Ministrów z dnia 27 lipca 1999 r. w sprawie Komisji Her | Rozporządzenie | akt posiada tekst jednolity |  |
@@ -5065,4 +5089,4 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU19330390311](WDU19330390311/index.md) | Ustawa z dnia 28 marca 1933 r. o grobach i cmentarzach wojennych. | Ustawa | akt posiada tekst jednolity | [tak](WDU19330390311/orzecznictwo.md) |
 | [WDU19200310178](WDU19200310178/index.md) | Ustawa z dnia 24 marca 1920 r. o nabywaniu nieruchomości przez cudzoziemców | Ustawa | akt posiada tekst jednolity | [tak](WDU19200310178/orzecznictwo.md) |
 
-*5058 aktów • [← Powrót do spisu głównego](../README.md)*
+*5082 aktów • [← Powrót do spisu głównego](../README.md)*

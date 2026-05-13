@@ -12,6 +12,8 @@ domain: null
 
 # Ustawa z dnia 10 lipca 2008 r. o zniesieniu Głównego Inspektora Inspekcji Handlowej, o zmianie ustawy o Inspekcji Handlowej oraz niektórych innych ustaw
 
+*USTAWA dnia 10 lipca 2008 o zniesieniu Głównego Inspektora Inspekcji Handlowej, o zmianie ustawy o Inspekcji Handlowej niektórych innych ustaw*
+
 | Pole | Wartość |
 |---|---|
 | Adres publikacyjny | Dz.U. 2008 nr 157 poz. 976 |
@@ -28,81 +30,91 @@ domain: null
 
 1. Z dniem 31 grudnia 2008 znosi się Głównego Inspektora Inspekcji Handlowej będącego organem Inspekcji Handlowej likwiduje się Główny Inspektorat Inspekcji Handlowej.
 
-2. Dotychczasowe zadania ikompetencje Głównego Inspektora Inspekcji Handlowej przejmuje Prezes Urzędu Ochrony Konkurencji iKonsumentów.
+2. Dotychczasowe zadania kompetencje Głównego Inspektora Inspekcji Handlowej przejmuje Prezes Urzędu Ochrony Konkurencji Konsumentów.
 
-**Art. 2.** W ustawie z dnia 15 grudnia 2000 o Inspekcji Handlowej (Dz. U. z 2001 4, 25, zpóên. zm. ) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie dnia 15 grudnia 2000 o Inspekcji Handlowej (Dz. U. 2001 4, 25, późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 3.** Wustawie zdnia 16 września 1982 opracownikach urzędów państwowych (Dz. U. z 2001 86, 953, zpóên. zm. produkt nie spełnia wymagań określonych ) wart. 1 wust. uchyla się pkt 6.
+**Art. 3.** W ustawie dnia 16 września 1982 o pracownikach urzędów państwowych (Dz. U. 2001 86, 953, późn. zm. ) art. 1 ust. 2 uchyla się pkt 6.
 
-**Art. 4.** Wustawie zdnia 7 paêdziernika 1999 ojęzyku polskim (Dz. U. 90, 999, z póên. zm. ) wart. 13 ust. 1 otrzymuje brzmienie: Ń1. Rada, na wniosek ministra właściwego do spraw kultury iochrony dziedzictwa narodowego, ministra właściwego do spraw oświaty i wychowania, ministra właściwego do spraw szkolnictwa wyższego, Prezesa Urzędu Ochrony Konkurencji iKonsumentów, Prezesa Polskiej Akademii Nauk lub z własnej inicjatywy, wyraża, w drodze uchwały, opinie o używaniu języka polskiego wdziałalności publicznej wobrocie na terytorium Rzeczypospolitej Polskiej z udziałem konsumentów i przy wykonywaniu na terytorium Rzeczypospolitej Polskiej przepisów z zakresu prawa pracy ustala zasady ortografii i interpunkcji języka polskiego.”.
+**Art. 4.** W ustawie dnia 7 października 1999 o języku polskim (Dz. U. 90, 999, późn. zm. ) art. 13 ust. 1 otrzymuje brzmienie: „1. Rada, na wniosek ministra właściwego do spraw kultury ochrony dziedzictwa narodowego, ministra właściwego do spraw oświaty wychowania, ministra właściwego do spraw szkolnictwa wyższego, Prezesa Urzędu Ochrony Konkurencji Konsumentów, Prezesa Polskiej Akademii Nauk lub własnej inicjatywy, wyraża, drodze uchwały, opinie o używaniu języka polskiego działalności publicznej obrocie na terytorium Rzeczypospolitej Polskiej udziałem konsumentów przy wykonywaniu na terytorium Rzeczypospolitej Polskiej przepisów zakresu prawa pracy ustala zasady ortografii interpunkcji języka polskiego.”.
 
-**Art. 5.** Wustawie zdnia 11 stycznia 2001 osubstancjach i preparatach chemicznych (Dz. U. 11, 84, z póên. zm. ) w art. 32 ust. 3 otrzymuje brzmienie: Ń3. Z wnioskiem o wydanie decyzji, o której mowa wust. 1a, może wystąpić także Główny Inspektor Sanitarny, Główny Inspektor Ochrony Ârodowiska lub Prezes Urzędu Ochrony Konkurencji iKonsumentów.”.
+**Art. 5.** W ustawie dnia 11 stycznia 2001 o substancjach preparatach chemicznych (Dz.U. 2001 11, 84, późn. zm. ) art. 32 ust. 3 otrzymuje brzmienie: „3. Z wnioskiem o wydanie decyzji, o której mowa ust. 1a, może wystąpić także Główny Inspektor Sanitarny, Główny Inspektor Ochrony Środowiska lub Prezes Urzędu Ochrony Konkurencji Konsumentów.”.
 
-**Art. 6.** W ustawie z dnia 5 lipca 2001 o cenach (Dz. U. 97, 1050, zpóên. zm. ) wart. 14 ust. otrzymuje brzmienie: Ń2. Od decyzji, októrej mowa wust. 1, przedsiębiorcy służy odwołanie do Prezesa Urzędu Ochrony Konkurencji iKonsumentów.”. ——————— minalnych (Dz. U. z2006 216, 1585 i 220, 1600 z 2007 120, 818 i 165,
+**Art. 6.** W ustawie dnia 5 lipca 2001 o cenach (Dz. U. 97, 1050, późn. zm. ) art. 14 ust. 2 otrzymuje brzmienie: „2. Od decyzji, o której mowa ust. 1, przedsiębiorcy służy odwołanie do Prezesa Urzędu Ochrony Konkurencji Konsumentów.”.
 
-**Art. 8.** W ustawie z dnia 30 sierpnia 2002 o systemie oceny zgodności (Dz. U. z 2004 204, 2087, z póên. zm. ) wprowadza się następujące zmiany:
+**Art. 7.** W ustawie dnia 6 lipca 2001 o gromadzeniu, przetwarzaniu przekazywaniu informacji kryminalnych (Dz. U. 2006 216, 1585, 220, 1600 120, 818 165, 1170) art. 20 ust. 1 uchyla się pkt 16.
 
-**Art. 9.** Wustawie zdnia 12 grudnia 2003 oogólnym bezpieczeństwie produktów (Dz. U. 229, 2275 z 2007 35, 215) wprowadza się następujące zmiany:
+**Art. 8.** W ustawie dnia 30 sierpnia 2002 o systemie oceny zgodności (Dz. U. 2004 204, 2087, późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 10.** Wustawie zdnia 20 kwietnia 2004 owyrobach stosowanych w medycynie weterynaryjnej (Dz. U. 93, 893) w art. 11 w ust. pkt 4 otrzymuje brzmienie: Ń4) Prezesem Urzędu Ochrony Konkurencji i Konsumentów,”.
+**Art. 9.** W ustawie dnia 12 grudnia 2003 o ogólnym bezpieczeństwie produktów (Dz. U. 229, 2275 35, 215) wprowadza się następujące zmiany:
 
-**Art. 11.** Wustawie zdnia 20 kwietnia 2004 owyrobach medycznych (Dz. U. 93, 896, z 2005 64, 565 z 2007 176, 1238) wart. 69 wust. pkt 4 otrzymuje brzmienie: Ń4) Prezesem Urzędu Ochrony Konkurencji i Konsumentów,”.
+**Art. 10.** W ustawie dnia 20 kwietnia 2004 o wyrobach stosowanych medycynie weterynaryjnej (Dz. U. 93, 893) art. 11 ust. 2 pkt 4 otrzymuje brzmienie: „4) Prezesem Urzędu Ochrony Konkurencji Konsumentów,”.
 
-**Art. 12.** Wustawie zdnia 24 sierpnia 2006 osłużbie cywilnej (Dz. U. 170, 1218, z póên. zm. ) wart. wust. 1 uchyla się pkt 5.
+**Art. 11.** W ustawie dnia 20 kwietnia 2004 o wyrobach medycznych (Dz. U. 93, 896, 2005 64, 565 176, 1238) art. 69 ust. 2 pkt 4 otrzymuje brzmienie: „4) Prezesem Urzędu Ochrony Konkurencji Konsumentów,”.
 
-**Art. 13.** Wustawie zdnia 25 sierpnia 2006 osystemie monitorowania i kontrolowania jakości paliw (Dz. U. 169, 1200) wprowadza się następujące zmiany:
+**Art. 12.** W ustawie dnia 24 sierpnia 2006 o służbie cywilnej (Dz. U. 170, 1218, późn. zm. ) art. 2 ust. 1 uchyla się pkt 5.
+
+**Art. 13.** W ustawie dnia 25 sierpnia 2006 o systemie monitorowania kontrolowania jakości paliw (Dz. U. 169, 1200) wprowadza się następujące zmiany:
 
 **Art. 24.**
 
-1. Jeżeli przeprowadzone badania wykazały, że paliwo nie spełnia wymagań jakościowych określonych w ustawie, Zarządzający zobowiązuje kontrolowanego, w drodze decyzji, do uiszczenia kwoty stanowiącej równowartość kosztów przeprowadzonych badań.
+1. Jeżeli przeprowadzone badania wykazały, że paliwo nie spełnia wymagań jakościowych określonych ustawie, Zarządzający zobowiązuje kontrolowanego, drodze decyzji, do uiszczenia kwoty stanowiącej równowartość kosztów przeprowadzonych badań.
 
-2. W przypadku, o którym mowa w art.22 ust. 3, wojewódzki inspektor Inspekcji Handlowej pobiera od kontrolowanego zaliczkę w wysokości kosztów badania próbki kontrolnej.
+2. W przypadku, o którym mowa art. 22 ust. 3, wojewódzki inspektor Inspekcji Handlowej pobiera od kontrolowanego zaliczkę wysokości kosztów badania próbki kontrolnej.
 
-3. Jeżeli badanie próbki kontrolnej nie wykaże naruszenia wymagań jakościowych określonych w przepisach wydanych na podstawie art. 3 ust. albo art. 4 ust. 2, albo art. 5 ust. 2, albo art. 6 ust. 3, uznaje się, że badane paliwo spełnia te wymagania. Wtakim biorców poza minimalnymi liczbami przypadku zwraca się kontrolowanebadania próbki wykonano w laboratorium prowadzonym przez Inspekcję Handlową na podstawie ustaleń kierownika tego laboratorium.
+3. Jeżeli badanie próbki kontrolnej nie wykaże naruszenia wymagań jakościowych określonych przepisach wydanych na podstawie art. 3 ust. 2 albo art. 4 ust. 2, albo art. 5 ust. 2, albo art. 6 ust. 3, uznaje się, że badane paliwo spełnia te wymagania. W takim przypadku zwraca się kontrolowanemu zaliczkę, o której mowa ust. 2.
 
-5. Kontrolowany jest obowiązany uiścić należność pieniężną, o której mowa wust. 1, na rachunek Urzędu Ochrony Konkurencji iKonsumentów.
+4. Zarządzający ustala wysokość należności pieniężnej, o której mowa ust. 1, na podstawie faktury wystawionej przez kierownika akredytowanego laboratorium, którym wykonano badania próbki, a przypadku gdy badania próbki wykonano laboratorium prowadzonym przez Inspekcję Handlową – na podstawie ustaleń kierownika tego laboratorium.
 
-6. Wpływy z tytułu należności, o których mowa w ust. 1, stanowią dochód budżetu państwa.
+5. Kontrolowany jest obowiązany uiścić należność pieniężną, o której mowa ust. 1, na rachunek Urzędu Ochrony Konkurencji Konsumentów.
 
-7. Należności, o których mowa w ust. 1, podlegają ściągnięciu w trybie przepisów o postępowaniu egzekucyjnym wadministracji.”;
+6. Wpływy tytułu należności, o których mowa ust. 1, stanowią dochód budżetu państwa.
 
-- **6)** wart. 25 ust. 1 otrzymuje brzmienie: Ń1. Akredytowane laboratoria, które nie są prowadzone przez Inspekcję Handlową, przeprowadzają badania pobranych próbek na podstawie umowy zawartej z Zarządzającym, a badania próbek kontrolnych na podstawie umowy zawartej z wojewódzkim inspektorem Inspekcji Handlowej.”;
-- **7)** wart. 27 ust. 1 otrzymuje brzmienie: Ń1. Kierownik akredytowanego laboratorium jest obowiązany do przekazania właściwemu wojewódzkiemu inspektorowi Inspekcji Handlowej Zarządzającemu, niezwłocznie po zakończeniu badań, protokołu zawierającego wyniki badań próbek zich analizą.”;
-- **8)** wart. 28 ust. otrzymuje brzmienie: Ń2. Wojewódzki inspektor Inspekcji Handlowej przekazuje Zarządzającemu dokumenty, o których mowa wust. 1, zgodnie zwytycznymi zawartymi wprogramach kontroli, októrych mowa wart. 12 ust. pkt 11.”.
+7. Należności, o których mowa ust. 1, podlegają ściągnięciu trybie przepisów o postępowaniu egzekucyjnym administracji.”;
 
-**Art. 14.** Wustawie zdnia 16 lutego 2007 oochronie konkurencji i konsumentów (Dz. U. 50, 331, 99, 660 171, 1206) wprowadza się następujące zmiany:
+- **6)** art. 25 ust. 1 otrzymuje brzmienie: „1. Akredytowane laboratoria, które nie są prowadzone przez Inspekcję Handlową, przeprowadzają badania pobranych próbek na podstawie umowy zawartej Zarządzającym, a badania próbek kontrolnych na podstawie umowy zawartej wojewódzkim inspektorem Inspekcji Handlowej.”;
+- **7)** art. 27 ust. 1 otrzymuje brzmienie: właściwemu wojewódzkiemu inspektorowi Inspekcji Handlowej Zarządzającemu, niezwłocznie po zakończeniu badań, protokołu zawierającego wyniki badań próbek ich analizą.”;
+- **8)** art. 28 ust. 2 otrzymuje brzmienie: „2. Wojewódzki inspektor Inspekcji Handlowej przekazuje Zarządzającemu dokumenty, o których mowa ust. 1, zgodnie wytycznymi zawartymi programach kontroli, o których mowa art. 12 ust. 2 pkt 11.”.
+
+**Art. 14.** W ustawie dnia 16 lutego o ochronie konkurencji konsumentów (Dz. U. 50, 331, 99, 660 171, 1206) wprowadza się następujące zmiany:
+
+**Art. 15.** W ustawie dnia 16 lutego o zapasach ropy naftowej, produktów naftowych gazu ziemnego zasadach postępowania sytuacjach zagrożenia bezpieczeństwa paliwowego państwa zakłóceń na rynku naftowym (Dz. U. 52, 343) art. 64 ust. 4 otrzymuje brzmienie: „4. Wojewódzki inspektor Inspekcji Handlowej wymierza karę, o której mowa art. 63 ust. 1 pkt 9, drodze decyzji, od której przysługuje odwołanie do Prezesa Urzędu Ochrony Konkurencji Konsumentów.”.
 
 **Art. 16.**
 
-1. Postępowania wszczęte iniezakończone przez Głównego Inspektora Inspekcji Handlowej są prowadzone przez Prezesa Urzędu Ochrony Konkurencji iKonsumentów.
+1. Postępowania wszczęte niezakończone przez Głównego Inspektora Inspekcji Handlowej są prowadzone przez Prezesa Urzędu Ochrony Konkurencji Konsumentów.
 
-2. Sprawy wszczęte i niezakończone przez Głównego Inspektora Inspekcji Handlowej są prowadzone przez Prezesa Urzędu Ochrony Konkurencji i Konsumentów.
+2. Sprawy wszczęte niezakończone przez Głównego Inspektora Inspekcji Handlowej są prowadzone przez Prezesa Urzędu Ochrony Konkurencji Konsumentów.
 
-3. Obowiązki i uprawnienia Głównego Inspektora Inspekcji Handlowej jako strony w sprawach, w których w dniu wejścia w życie ustawy przysługuje lub została wniesiona skarga do Naczelnego Sądu Administracyjnego, przejmuje Prezes Urzędu Ochrony Konkurencji iKonsumentów.
+3. Obowiązki uprawnienia Głównego Inspektora Inspekcji Handlowej jako strony sprawach, których dniu wejścia życie ustawy przysługuje lub została wniesiona skarga do Naczelnego Sądu Administracyjnego, przejmuje Prezes Urzędu Ochrony Konkurencji Konsumentów.
 
-**Art. 17.** Prawa i obowiązki wynikające z umów i porozumień zawartych przez Głównego Inspektora Inspekcji Handlowej przejmuje Prezes Urzędu Ochrony Konkurencji iKonsumentów.
+**Art. 17.** Prawa obowiązki wynikające umów porozumień zawartych przez Głównego Inspektora Inspekcji Handlowej przejmuje Prezes Urzędu Ochrony Konkurencji Konsumentów.
 
 **Art. 18.**
 
-1. Należności i zobowiązania Głównego Inspektoratu Inspekcji Handlowej stają się należnościami izobowiązaniami Urzędu Ochrony Konkurencji iKonsumentów.
+1. Należności zobowiązania Głównego Inspektoratu Inspekcji Handlowej stają się należnościami zobowiązaniami Urzędu Ochrony Konkurencji Konsumentów.
 
-2. Urząd Ochrony Konkurencji i Konsumentów przejmuje mienie Głównego Inspektoratu Inspekcji Handlowej z zastrzeżeniem przepisów o gospodarce nieruchomościami i przepisów o finansach publicznych.
+2. Urząd Ochrony Konkurencji Konsumentów przejmuje mienie Głównego Inspektoratu Inspekcji Handlowej zastrzeżeniem przepisów o gospodarce nieruchomościami przepisów o finansach publicznych.
 
 **Art. 19.**
 
-1. Pracownicy Głównego Inspektoratu Inspekcji Handlowej stają się z dniem 1 stycznia 2009r. pracownikami Urzędu Ochrony Konkurencji iKonsumentów.
+1. Pracownicy Głównego Inspektoratu Inspekcji Handlowej stają się dniem 1 stycznia 2009 pracownikami Urzędu Ochrony Konkurencji Konsumentów.
 
-2. Stosunki pracy z pracownikami, o których mowa w ust. 1, wygasają po upływie trzech miesięcy od dnia przejścia do Urzędu Ochrony Konkurencji i Konsumentów, jeżeli przed upływem tego terminu nie zostaną im zaproponowane nowe warunki pracy lub płacy albo w razie nieprzyjęcia nowych warunków pracy lub płacy.
+2. Stosunki pracy pracownikami, o których mowa ust. 1, wygasają po upływie trzech miesięcy od dnia przejścia do Urzędu Ochrony Konkurencji Konsumentów, jeżeli przed upływem tego terminu nie zostaną im zaproponowane nowe warunki pracy lub płacy albo razie nieprzyjęcia nowych warunków pracy lub płacy.
 
-3. Wcześniejsze rozwiązanie stosunku pracy zpracownikiem może nastąpić za wypowiedzeniem.
+3. Wcześniejsze rozwiązanie stosunku pracy pracownikiem może nastąpić za wypowiedzeniem.
 
-4. W przypadku wygaśnięcia stosunku pracy, o którym mowa w ust. 2, lub wypowiedzenia, o którym mowa w ust. 3, pracownikom przysługują odpowiednie świadczenia przewidziane dla pracowników, rozdziału 4 ustawy zdnia 24 sierpnia 2006 osłużbie cywilnej (Dz. U. 170, 1218, zpóên. zm. (Dz. U. 170, 1217, zpóên. zm. ).
+4. W przypadku wygaśnięcia stosunku pracy, o którym mowa ust. 2, lub wypowiedzenia, o którym mowa ust. 3, pracownikom przysługują odpowiednie świadczenia przewidziane dla pracowników, którymi stosunek pracy rozwiązuje się powodu likwidacji zakładu pracy.
+
+5. Do okresu pracy, od którego zależą świadczenia, o których mowa ust. 4, wlicza się okres pracy Głównym Inspektoracie Inspekcji Handlowej.
+
+6. Przepisów ust. 2 3 nie stosuje się do urzędników służby cywilnej, do których stosuje się przepisy rozdziału 4 ustawy dnia 24 sierpnia 2006 o służbie cywilnej (Dz. U. 170, 1218, późn. zm. ).
 
 **Art. 20.**
 
-1. Osoby zajmujące w dniu likwidacji Głównego Inspektoratu Inspekcji Handlowej stanowisko Głównego Inspektora Inspekcji Handlowej, Zastępcy Głównego Inspektora Inspekcji Handlowej dyrektora biura, jego zastępcy i kierownika laboratorium kontrolno-analitycznego w Głównym Inspektoracie Inspekcji Handlowej wchodzą w skład państwowego zasobu kadrowego, o którym mowa w ustawie ).
+1. Osoby zajmujące dniu likwidacji Głównego Inspektoratu Inspekcji Handlowej stanowisko Głównego Inspektora Inspekcji Handlowej, Zastępcy Głównego Inspektora Inspekcji Handlowej dyrektora biura, jego zastępcy kierownika laboratorium kontrolno-analitycznego Głównym Inspektoracie Inspekcji Handlowej wchodzą skład państwowego zasobu kadrowego, o którym mowa stanowiskach państwowych (Dz. U. 170, 1217, późn. zm. ).
 
-2. Osoby, októrych mowa wust. 1, podlegają wpisowi do ewidencji osób należących do państwowego zasobu kadrowego, prowadzonej przez Szefa Kancelarii Prezesa Rady Ministrów.
+2. Osoby, o których mowa ust. 1, podlegają wpisowi do ewidencji osób należących do państwowego zasobu kadrowego, prowadzonej przez Szefa Kancelarii Prezesa Rady Ministrów.
 
-**Art. 21.** Ustawa wchodzi wżycie zdniem 31 grudnia 2008 Prezydent Rzeczypospolitej Polskiej: L. Kaczyński ——————— ———————
+**Art. 21.** Ustawa wchodzi życie dniem 31 grudnia 2008
 

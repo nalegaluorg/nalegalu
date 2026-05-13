@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 14 września 2023 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy o stosunku Państwa do Kościoła Chrześcijan Baptystów Rzeczypospolitej Polskiej
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 2 sierpnia 2023 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001874) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1874/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 2 sierpnia 2023 r.
-sprawie ogłoszenia jednolitego tekstu ustawy o stosunku Państwa do Kościoła Chrześcijan Baptystów Rzeczypospolitej Polskiej
 1. Na podstawie 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Chrześcijan Baptystów Rzeczypospolitej Polskiej (Dz. U. z 2015 r. poz. 169), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 9 czerwca 2022 r. o wspieraniu resocjalizacji nieletnich (Dz. U. poz. 1700) oraz zmian wynikających z przepisów ogłoszonych przed dniem 20 lipca 2023 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje 393, 394, 395 ust. 1 417 ustawy z dnia 9 czerwca 2022 r. o wspieraniu resocjalizacji nieletnich (Dz. U. poz. 1700), które stanowią: „Art. 393. Zakłady poprawcze schroniska dla nieletnich utworzone na podstawie przepisów dotychczasowych stają się zakładami poprawczymi schroniskami dla nieletnich na podstawie niniejszej ustawy.
 394. Z dniem wejścia życie niniejszej ustawy:
@@ -58,7 +58,6 @@ o stosunku Państwa do Kościoła Chrześcijan Baptystów Rzeczypospolitej Polsk
 2) Rady Zboru Kościoła, tym Przewodniczący Rady Zboru lub jego zastępca.
 5. W sprawach majątkowych Kościół reprezentuje Rada Kościoła. Do składania oświadczeń woli imieniu Kościoła są uprawnieni dwaj członkowie Prezydium Rady Kościoła działający łącznie.
 6. Zmiana nazwy grup osób prawnych lub poszczególnych osób prawnych, wymienionych ust. 2 pkt 2–4, może być dokonana przepisami wewnątrzkościelnymi. Zmiany te, na wniosek Rady Kościoła, ogłasza Minister Szef Urzędu Rady Ministrów Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
-rozporządzenia Ministra Szefa Urzędu Rady Ministrów .
 7. 1. Kościół samodzielnie tworzy, przekształca znosi jednostki organizacyjne posiadające osobowość prawną.
 2. O faktach wymienionych ust. 1 władza kościelna powiadamia niezwłocznie właściwy organ administracji rządowej:
 1) odniesieniu do osób wymienionych 5 ust. 2 pkt 2 oraz jednostek, które otrzymały osobowość prawną drodze rozporządzenia, o którym mowa 6 Ministra Szefa Urzędu Rady Ministrów ;
@@ -100,7 +99,7 @@ Nauczycielom przysługują ponadto ulgi opłatach za przejazdy środkami publicz
 2. Nie powołuje się absolwentów studiów, o których mowa ust. 1, do odbywania przeszkolenia wojskowego okresie przygotowań do ordynacji ciągu dwóch lat od zakończenia studiów.
 3. Ordynowani duchowni są przenoszeni do rezerwy nie odbywają ćwiczeń wojskowych czasie pokoju. W razie ogłoszenia mobilizacji oraz czasie wojny mogą być oni powołani jedynie do pełnienia funkcji kapelanów wojskowych.
 4. W razie ogłoszenia mobilizacji czasie wojny właściwe organy wojskowe, porozumieniu z Radą Kościoła, zapewnią pozostawienie do duszpasterskiej obsługi ludności niezbędnej liczby duchownych spośród tych, którzy podlegają mobilizacji.
-jednostek wojskowych nabożeństwach czynnościach religijnych niedziele dni świąteczne Kościoła, jeżeli miejscowości stacjonowania jednostki wojskowej lub jej pobliżu znajduje się zbór jeżeli nie koliduje to z ważnymi obowiązkami służbowymi.
+scowości stacjonowania jednostki wojskowej lub jej pobliżu znajduje się zbór jeżeli nie koliduje to z ważnymi obowiązkami służbowymi.
 2. Opiekę duszpasterską na terenie jednostek wojskowych dla żołnierzy, o których mowa ust. 1, zapewniają duchowni Kościoła terminach uzgodnionych z dowódcami jednostek.
 3. Duchownych, o których mowa ust. 2, wyznacza Rada Kościoła, porozumieniu z Ministrem Obrony Narodowej.
 18. 1. Dzieciom młodzieży przebywającym zakładach wychowawczych opiekuńczych, jak również sanatoriach, prewentoriach szpitalach, zapewnia się prawo wykonywania praktyk religijnych, korzystania z posług religijnych katechizacji. W szczególności zapewnia się im możliwość udziału nabożeństwach także zborach Kościoła.
@@ -144,7 +143,6 @@ jednostek wojskowych nabożeństwach czynnościach religijnych niedziele dni św
 29. 1. Kościół ma prawo emitowania publicznych środkach masowego przekazu nabożeństw oraz swoich programów religijno-moralnych kulturalnych.
 2. Sposób realizacji uprawnień, o których mowa ust. 1, określi porozumienie między Radą Kościoła a właściwą jednostką publicznej radiofonii telewizji.
 3. Kościół może zakładać własne stacje radiowe telewizyjne. Rozpowszechnianie programów radiowych telewizyjnych wymaga uzyskania koncesji na zasadach określonych ustawie z dnia 29 grudnia 1992 r. o radiofonii telewizji (Dz. U. z 2022 r. poz. 1722).
-liczne.
 31. Instytucje państwowe, samorządowe kościelne współdziałają ochronie, konserwacji, udostępnianiu upowszechnianiu zabytków architektury kościelnej sztuki sakralnej oraz ich dokumentacji, muzeów, archiwów bibliotek będących własnością kościelną, a także dzieł kultury sztuki o motywach religijnych, stanowiących ważną część dziedzictwa kultury.
 32. Kościołowi jego osobom prawnym przysługuje prawo nabywania, posiadania zbywania mienia ruchomego nieruchomego, nabywania zbywania innych praw oraz zarządzania swoim majątkiem.
 33. 1. Majątek przychody Kościoła jego osób prawnych podlegają ogólnym przepisom podatkowym, z wyjątkami określonymi ust. 2–5.
@@ -164,7 +162,6 @@ liczne.
 36. 1. Kościół jego osoby prawne mogą zakładać fundacje. Do fundacji tych stosuje się ogólnie obowiązujące przepisy o fundacjach ze zmianami wynikającymi z przepisów ust. 2–5.
 2. Niezależnie od nadzoru państwowego, nadzór nad działalnością fundacji sprawuje kościelna osoba prawna będąca fundatorem lub wskazana statucie fundacji.
 3. W razie stwierdzenia nieprawidłowości zarządzaniu fundacją właściwy organ państwowy zwraca się do kościelnej osoby prawnej sprawującej nadzór nad fundacją, wyznaczając termin nie krótszy niż 3 miesiące na spowodowanie usunięcia nieprawidłowości. Po bezskutecznym upływie tego terminu można zastosować środki oznaczone przepisach o fundacjach.
-będzie sprawowała kościelna osoba prawna wyznaczona przez Radę Kościoła.
 5. Jeżeli statut fundacji nie stanowi inaczej, razie jej likwidacji:
 1) do jej majątku znajdującego się kraju stosuje się odpowiednio przepis 37;
 2) o przeznaczeniu jej majątku znajdującego się za granicą zadecyduje Rada Kościoła.
@@ -186,7 +183,6 @@ będzie sprawowała kościelna osoba prawna wyznaczona przez Radę Kościoła.
 1) przepisów ustawy z dnia 3 stycznia 1946 r. o przejęciu na własność Państwa podstawowych gałęzi gospodarki narodowej (Dz. U. poz. 17, z późn. zm. );
 2) praw nabytych przez osoby trzecie, szczególności przez inne kościoły związki wyznaniowe.
 5. Majątek nieruchomy, przekazany na własność gminie trybie ustawy z dnia 10 maja 1990 r. Przepisy wprowadzające ustawę o samorządzie terytorialnym ustawę o pracownikach samorządowych (Dz. U. poz. 191, z późn. zm. ), podlega postępowaniu, o którym mowa ust. 1–4.
-żenia nieruchomości.
 2. Wnioski o wszczęcie postępowania zgłasza się terminie 2 lat od dnia wejścia życie ustawy. Roszczenia niezgłoszone tym terminie wygasają.
 3. Postępowania sądowe lub administracyjne dotyczące nieruchomości, o których mowa 40, ulegają zawieszeniu, a sądy organy administracji państwowej przekazują je właściwemu wojewodzie. 39 ust. 5 stosuje się odpowiednio.
 42. 1. Decyzje, o których mowa 40 ust. 1 2 pkt 1, stanowią podstawę do dokonania wpisów księgach wieczystych ewidencji gruntów. Przepis 39 ust. 3 stosuje się odpowiednio.

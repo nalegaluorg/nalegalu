@@ -10,7 +10,7 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 10 listopada 1994 r.
+# zasadach przekazywania zakładowych budynków przez przedsiębiorstwa państwowe
 
 | Pole | Wartość |
 |---|---|
@@ -24,33 +24,54 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19941190567) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1994/567/text.pdf) |
 
-567
-USTAWA z dnia 12 1994 r.
-Nr 119 o zasadach przekazywania budynków mieszkalnych przez
-
 **Art. 1.**
 
-1. Ustawa reguluje zasady i tryb przekazywania przez bom prawnym gruntów zabudowanych budynkami miesz gminom lub innym oso- kalnymi wraz z obiektami infrastruktury
+1. Ustawa reguluje zasady tryb przekazywania przez przedsiębiorstwa państwowe gruntów zabudowanych budynkami mieszkalnymi wraz towarzyszącymi obiektami infrastruktury technicznej społecznej oraz lokali, zwanych dalej „nieruchomościami”:
 
-**Art. 8.**
+- **1)** gminom, których obszarze położone są przekazywane grunty;
+- **2)** spółdzielniom mieszkaniowym, których członkami są wszystkie osoby będące dniu złożenia oferty przejęcia nieruchomości przez spółdzielnię najemcami lokali położonych przekazywanych nieruchomościach.
 
-1. jest refun gminie, przez okres roku od dnia przekazania, udoku rzeczywistymi kosztami czania energii cieplnej na potrzeby centralnego ogrzewania i dostawy wody, na lokale mieszkalne przekazanym budynku, a nymi od tych cen wych. Koszty z tego zalicza do kosztów uzyskania przychodów.
+1a. Nieruchomości, których 1, nie wchodzą skład przedsiębiorstwa rozumieniu art. 55 Kodeksu cywilnego. Na zasadach określonych ustawą podmiotom, których 1, również zostać przekazane nieruchomości:
 
-2. refundowania gminie kosztów, o których mowa ust. 1, nie dotyczy postawionych stan likwidacji na podstawie ustawy o . Art. 9. 1. Przepisy art. 3, art. 4 oraz art. 7 ust. 1-3 stosuje odpowiednio wypadku przenie sienia na rzecz innej gmina osoby prawnej.
+- **1)** (uchylony);
+- **2)** spółek handlowych powstałych wyniku przekształceń przedsiębiorstw państwowych, których Skarb Państwa ma co najmniej 50% udziałów akcji.
 
-2. przekazanie ma na rzecz . mieszkaniowej, która wszystkich najemców poczet i doko na ich rzecz przewidziana przepi sami zgoda organu nie jest wymagana. Kaucje mieszkaniowe zaliczeniu na poczet mieszkaniowego lub budowlanego.
+3. Obiektami infrastruktury technicznej społecznej, których 1, są urządzenia sieci technicznego uzbrojenia terenu związane funkcjonowaniem budynków osiedli mieszkaniowych, także obiekty służby zdrowia, oświaty wychowania, kulturalno-oświatowe, handlowe inne, jeżeli jednostki te świadczą usługi przede wszystkim rzecz mieszkańców tych budynków osiedli.
 
-3. Przepisy ust. 1 i 2 stosuje odpowiednio wypad ku przekazania przez wowe na rzecz mieszkaniowych hoteli pracow niczych na cele mieszkaniowe.
+**Art. 1.** Przepisów ustawy nie stosuje się przedsiębiorstw państwowych, których art. 4 ustawy dnia 25 września 1981 przedsiębiorstwach zamiarze ich przekazania wraz z:
+
+**Art. 4.** Przekazania nieruchomości dokonuje się drodze umowy zawartej formie aktu notarialnego.
+
+**Art. 5.** (uchylony).
+
+**Art. 6.**
+
+1. Na podstawie umowy gmina nabywa własność budynku innych urządzeń wzniesionych gruncie. Własność gruntu gmina nabywa podstawie umowy wówczas, gdy budynek inne urządzenia są wzniesione gruncie stanowiącym własność przekazującego. niektórych lokali, po zawarciu umowy przekazania odpowiadające udziałowi właściciela lokalu we wspólności prawo użytkowania wieczystego obciąża grunt gminy.
+
+**Art. 7.**
+
+1. Przekazanie nieruchomości jest nieodpłatne pomniejsza dniem przekazania majątek przedsiębiorstwa państwowego, także fundusz założycielski fundusz przedsiębiorstwa, podstawie przepisów ustawy dnia 31 stycznia 1989 gospodarce finansowej przedsiębiorstw państwowych (Dz. U. 1992 6, 27, późn. zm. ). Od dnia zawarcia umowy przechodzą gminę wierzytelności związane przekazywanymi nieruchomościami, wierzytelności tytułu zaległych czynszów.
+
+3. Kaucje mieszkaniowe wniesione przez najemców przekazujący wypłaca gminie najpóźniej dniu zawarcia umowy takiej wysokości, jakiej należałoby je zwrócić najemcom dniu.
+
+4. Z dniem przekazania wygasają:
+
+- **1)** prawo użytkowania wieczystego gruntu, którym jest położony budynek inne urządzenia, zastrzeżeniem art. 6 3;
+- **2)** wierzytelności Skarbu Państwa tytułu nabycia własności, użytkowania wieczystego, oddania użytkowanie zarząd uprawnionym podmiotom, powstałe przed dniem przekazania nieruchomości; zabezpieczające je hipoteki podlegają wykreśleniu urzędu.
+
+5. Zaspokojenie innych, powstałych przed dniem zawarcia umowy, zobowiązań pieniężnych związanych przekazywanymi nieruchomościami obciąża przekazującego.
+
+**Art. 8.** (uchylony). jest dokonać rzecz członków, będących dotychczasowymi najemcami lokali położonych przekazywanych nieruchomościach, przydziału tych lokali ustanowić ich rzecz lokatorskie prawa tych lokali. Wysokość ustalonego przez spółdzielnię wkładu mieszkaniowego wnoszonego przez członków nie może takich przypadkach przekraczać 5% aktualnej wartości rynkowej prawa odrębnej własności lokali zajmowanych przez tych członków, wpłacone przez nich wcześniej kaucje mieszkaniowe podlegają zaliczeniu poczet wkładu mieszkaniowego. 3. Przepisy 1 2 stosuje się odpowiednio przypadku nieodpłatnego przekazania przez przedsiębiorstwo państwowe rzecz spółdzielni mieszkaniowych, których art. 1 1 pkt hoteli pracowniczych przeznaczonych cele mieszkaniowe.
 
 **Art. 10.**
 
-1. Za organu formie aktu notarialnego, na zasadach usta gminie przekazane budynki miesz kalne oddane przez Skarb do korzystania na podstawie art. 39 ustawy z dnia 13 lipca 1990 r. o prywatyzacji (Dz.U. Nr 51, poz. 298 oraz z 1991 r. Nr 60, poz. 253 i Nr 111, poz. 480).
+1. Za zgodą organu założycielskiego, wyrażoną formie aktu notarialnego, zasadach określonych ustawą gminie również zostać przekazane budynki mieszkalne oddane przez Skarb Państwa odpłatnego korzystania podstawie art. 39 ustawy dnia 13 lipca 1990 prywatyzacji przedsiębiorstw państwowych (Dz. U. 51, 298, późn. zm. ) . Przekazania dokonuje spółka będąca stroną umowy, której 1, czynność ta stanowi podstawę zmiany tej umowy.
 
-2. Przekazania dokonuje umowy, o której mowa ust. 1. budynku mieszkalnego z przedmiotu tej umowy i przekazanie go gminie na zasadach ust. 1 nie stanowi zmiany umowy ani nie daje ze stron podstaw do jej zmiany.
+3. Zmiana umowy polega wyłączeniu przedmiotu umowy przekazanych budynków wraz prawem użytkowania wieczystego gruntu może stanowić podstawę zmniejszenia wartości jej przedmiotu wielkość uzgodnioną między stronami tej umowy, uwzględnieniem metod wyceny przyjętych przy ustalaniu wartości budynków prawa użytkowania wieczystego gruntu dniu zawarcia umowy, której 1.
 
-**Art. 11.** Minister drodze dzenia,
+**Art. 11.** (uchylony).
 
-**Art. 12.** Umowy najmu lokali mieszkalnych cych przekazanych gminie budynkach z mocy prawa z dniem przekazania umowy najmu zawarte na czas nieoznaczony. Do umów tych za stosowanie przepisy ustawy o najmie lokali mieszkalnych i dodatkach mieszkaniowych.
+**Art. 12.** Umowy najmu lokali mieszczących się przekazanych gminie budynkach przekształcają się mocy prawa dniem przekazania umowy najmu zawarte czas nieoznaczony. Do umów tych mają zastosowanie przepisy ustawy najmie lokali dodatkach mieszkaniowych.
 
-**Art. 13.** Ustawa wchodzi z dniem ustawy o najmie lokali mieszkalnych i dodatkach mieszkaniowych. Prezydent Rzeczypospolitej Polskiej: L. 568 RADY MINISTRÓW z dnia 4 listopada 1994 r. sprawie ustanowienia kontyngentów celnych na niektóre maszyny i inwestycyjne z zagranicy dla motoryzacyjnego. Na podstawie art. 9 pkt 2 oraz art. 4 ust. 5 pkt 1 ustawy z dnia 28 grudnia 1989 r. - Prawo celne (Dz. U. z 1994 r. Nr 71, poz. 312) co § 1. 1. Do dnia 31 grudnia 1994 r. ustanawia kon tyngenty 394420 mln na . przywóz towarów wymienionych do dzenia, dla których ustanawia preferencyjne zerowe stawki celne. 2. Kontyngent celny, o którym mowa ust. 1, stosuje do towarów za których jest doko nywany nowych pojazdów samocho dowych pozycjami nr 8701, 8702, 8703, 8704 i 8705 taryfy celnej .
+**Art. 13.** Ustawa wchodzi życie dniem wejścia życie ustawy najmie lokali dodatkach mieszkaniowych .
 

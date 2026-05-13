@@ -10,7 +10,9 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# 1. 1. Przepisy ustawy stosuje się razie konieczności rozwiązania przez pracodawcę zatrudniającego co najmniej 20 pracowników stosunków zprzyczyn niedotyczących pracowników, wdrodze wypowiedzenia dokonanego przez pracodawcę, a także na mocy porozumienia stron, jeżeli wokresie nieprzekraczającym 30 dni zwolnienie obejmuje co najmniej:
+# szczególnych zasadach rozwiązywania pracownikami stosunków pracy przyczyn niedotyczących pracowników
+
+*USTAWA dnia 13 marca 2003 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,79 +26,127 @@ domain: null
 | Ostatnia zmiana | 2025-12-10 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030900844) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/844/text.pdf) |
 
-1) 10 pracowników, gdy pracodawca zatrudnia mniej 100 pracowników,
-2) 10% pracowników, gdy pracodawca zatrudnia co najmniej 100, jednakże mniej 300 pracowników, 30 pracowników, gdy pracodawca zatrudnia co najmniej 300 więcej pracowników zwanego dalej Ńgrupowym zwolnieniem”.
-Liczby odnoszące się pracowników, októrych 1, obejmują pracowników, zktórymi wramach grupowego zwolnienia następuje rozwiązanie stosunków zinicjatywy pracodawcy na mocy porozumienia stron, jeżeli dotyczy to co najmniej 5 pracowników.
-1. Pracodawca jest obowiązany skonsultować zamiar przeprowadzenia grupowego zwolnienia zzakładowymi organizacjami związkowymi działającymi utego pracodawcy.
-Konsultacja, o której 1, dotyczy szczególności możliwości uniknięcia zmniejszenia rozmiaru grupowego zwolnienia oraz spraw pracowniczych związanych tym zwolnieniem, tym zwłaszcza możliwości przekwalifikowania przeszkolenia zawodowego, a także uzyskania innego zatrudnienia przez zwolnionych pracowników.
-3. Pracodawca jest obowiązany zawiadomić na piśmie zakładowe organizacje związkowe oprzyczynach zamierzonego grupowego zwolnienia, liczbie zatrudnionych pracowników igrupach zawodowych, których oni należą, grupach zawodowych pracowników objętych zamiarem grupowego zwolnienia, okresie, wciągu którego nastąpi takie zwolnienie, proponowanych kryteriach doboru pracowników grupowego zwolnienia, kolejności dokonywania zwolnień pracowników, propozycjach rozstrzygnięcia spraw pracowniwterminie umożliwiającym tym organizacjom zgłoszeramach konsultacji propozycji dotyczących spraw określonych
-5. Wtrakcie konsultacji pracodawca jest obowiązany przekazać zakładowym organizacjom związkowym także inne określone informacje, jeżeli mogą one mieć wpływ na przebieg konsultacji oraz treść porozumienia, októrym 3.
-6. Pracodawca przekazuje na piśmie właściwemu powiatowemu urzędowi informacje, o których 3, zwyłączeniem informacji dotyczących sposobu ustalania wysokości świadczeń pieniężnych przysługujących pracownikom.
-7. udanego pracodawcy działają zakładowe organizacje związkowe, uprawnienia tych organizazakresie wynikającym 1—5 przysługują przedstawicielom pracowników wyłonionym trybie przyjętym udanego pracodawcy.
-3.1. Wterminie dłuższym 20 dni od dnia zawiadomienia, októrym 2 3, pracodawca i zakładowe organizacje związkowe zawierają porozumienie.
-Wporozumieniu, októrym 1, określa się zasady postępowania wsprawach dotyczących pracowników objętych zamiarem grupowego zwolnienia, obowiązki pracodawcy wzakresie niezbędnym rozstrzygnięcia innych spraw pracowniczych związanych zzamierzonym grupowym zwolnieniem.
-3. jest możliwe uzgodnienie treści porozumienia wszystkimi zakładowymi organizacjami związkowymi, pracodawca uzgadnia treść porozumienia organizacjami związkowymi reprezentatywnymi wrozumieniu art. 241 Kodeksu pracy.
-4. jest możliwe zawarcie porozumienia zgodnie zust. 1 i3, zasady postępowania wsprawach dotyczących pracowników objętych zamiarem grupowego zwolnienia ustala pracodawca regulaminie, uwzględniając, wmiarę możliwości, propozycje przedstawione ramach konsultacji przez zakładowe organizacje związkowe.
-oszczególnych zasadach rozwiązywania zpracownikami stosunków zprzyczyn niedotyczących pracowników ków oraz o przyczynach ich zwolnienia, okresie, ciągu którego ma być dokonane zwolnienie, oprzeprowadzonej konsultacji zamierzonego grupowego zwolnienia zzakładowymi organizacjami związkowymi przedstawicielami pracowników wyłonionymi wtrybie przyjętym udanego pracodawcy.
-Kopię zawiadomienia, o którym 1, pracodawca przekazuje zakładowym organizacjom związkowym. Zakładowe organizacje związkowe mogą przedstawić właściwemu powiatowemu urzędowi swoją opinię wsprawie grupowego zwolnienia.
-3. udanego pracodawcy działają zakładowe organizacje związkowe, przepis 2 stosuje się odpowiednio przedstawicieli pracowników wyłonionych wtrybie przyjętym udanego pracodawcy.
-4. W razie zakończenia działalności pracodawcy wskutek prawomocnego orzeczenia sądowego zawiadomienie, o którym 1, jest wymagane, gdy takim wnioskiem wystąpi właściwy powiatowy urząd pracy.
-5.1. Przy wypowiadaniu pracownikom stosunków wramach grupowego zwolnienia stosuje się art. 38 i 41 Kodeksu pracy, zastrzeżeniem 2—4, a także przepisów odrębnych dotyczących szczególnej ochrony pracowników przed wypowiedzeniem rozwiązaniem stosunku pracy, zastrzeżeniem 5.
-Wrazie niezawarcia porozumienia, októrym mowa 3, przy wypowiadaniu pracownikom stosunków pracy, warunków ipłacy, stosuje się art. 38 Kodeksu pracy.
-3. Wypowiedzenie pracownikom stosunków sytuacjach, o których art. 41 Kodeksu pracy, jest dopuszczalne czasie urlopu trwającego co najmniej miesiące, a także czasie innej usprawiedliwionej nieobecności pracownika pracy, jeżeli upłynął już okres uprawniający pracodawcę rozwiązania umowy opracę bez wypowiedzenia.
-4. Wypowiedzenie pracownikom warunków ipłacy wsytuacjach, októrych 41 Kodeksu pracy, jest dopuszczalne niezależnie od okresu trwania urlopu innej usprawiedliwionej nieobecności pracownika wpracy.
-5. Wokresie objęcia szczególną ochroną przed wywach zzakresu prawa pracy;
-5) społecznym inspektorem pracy;
-6) powołanemu odbycia czynnej służby wojskowej jej form zastępczych, zasadniczej służby wojskowej albo przeszkolenia wojskowego.
-6. wypowiedzenie warunków i płacy powoduje obniżenie wynagrodzenia, pracownikom, o których 5, przysługuje, końca okresu, wktórym korzystaliby ze szczególnej ochrony przed wypowiedzeniem rozwiązaniem stosunku pracy, dodatek wyrównawczy obliczony według zasad wynikających zKodeksu pracy.
-7. Wrazie wypowiadania pracownikom stosunków wramach grupowego zwolnienia umowy opracę zawarte na czas określony na czas wykonania określonej mogą być rozwiązane przez każdą ze stron za dwutygodniowym wypowiedzeniem.
-6. 1. Wypowiedzenie pracownikowi stosunku wramach grupowego zwolnienia może nastąpić wcześniej po dokonaniu przez pracodawcę zawiadomienia, októrym 4 1, awprzypadku gdy jest ono wymagane wcześniej po zawarciu porozumienia spełnieniu obowiązku, októrym 4 5.
-Rozwiązanie pracownikiem stosunku ramach grupowego zwolnienia może nastąpić wcześniej po upływie 30 dni od dnia zawiadomienia, októrym 4 1, awprzypadku gdy jest ono wymagane wcześniej po upływie 30 dni od dnia zawarcia porozumienia spełnienia obowiązku, októrym 4 5. Nie dotyczy to przypadków rozwiązania pracownikami stosunków razie zakończenia działalności pracodawcy wskutek prawomocnego orzeczenia sądowego.
-7.Przy rozwiązywaniu zpracownikami stosunków wramach grupowego zwolnienia zpowodu ogłoszenia upadłości likwidacji pracodawcy stosuje się przepisy art. 41 § 1, art. 177 § 4 i5 iart. 196 pkt2 Kodeksu pracy, a także odrębne przepisy regulujące rozwiązywanie pracownikami stosunków takiego powodu.
-8.1. Pracownikowi, wzwiązku zrozwiązaniem stosunku ramach grupowego zwolnienia, przysługuje odprawa pieniężna wwysokości:
+**Art. 1.**
+
+1. Przepisy ustawy stosuje się razie konieczności rozwiązania przez pracodawcę zatrudniającego co najmniej 20 pracowników stosunków pracy przyczyn niedotyczących pracowników, drodze wypowiedzenia dokonanego przez pracodawcę, a także na mocy porozumienia stron, jeżeli okresie nieprzekraczającym 30 dni zwolnienie obejmuje co najmniej:
+
+- **1)** 10 pracowników, gdy pracodawca zatrudnia mniej niż 100 pracowników,
+- **2)** 10 % pracowników, gdy pracodawca zatrudnia co najmniej 100, jednakże mniej niż 300 pracowników,
+- **3)** 30 pracowników, gdy pracodawca zatrudnia co najmniej 300 lub więcej pracowników – zwanego dalej „grupowym zwolnieniem”.
+
+2. Liczby odnoszące się do pracowników, których mowa ust. 1, obejmują pracowników, którymi ramach grupowego zwolnienia następuje rozwiązanie stosunków pracy inicjatywy pracodawcy na mocy porozumienia stron, jeżeli dotyczy to co najmniej 5 pracowników. u tego pracodawcy.
+
+2. Konsultacja, której mowa ust. 1, dotyczy szczególności możliwości uniknięcia lub zmniejszenia rozmiaru grupowego zwolnienia oraz spraw pracowniczych związanych tym zwolnieniem, tym zwłaszcza możliwości przekwalifikowania lub przeszkolenia zawodowego, a także uzyskania innego zatrudnienia przez zwolnionych pracowników.
+
+3. Pracodawca jest obowiązany zawiadomić na piśmie zakładowe organizacje związkowe przyczynach zamierzonego grupowego zwolnienia, liczbie zatrudnionych pracowników i grupach zawodowych, do których oni należą, grupach zawodowych pracowników objętych zamiarem grupowego zwolnienia, okresie, ciągu którego nastąpi takie zwolnienie, proponowanych kryteriach doboru pracowników do grupowego zwolnienia, kolejności dokonywania zwolnień pracowników, propozycjach rozstrzygnięcia spraw pracowniczych związanych zamierzonym grupowym zwolnieniem, a jeżeli obejmują one świadczenia pieniężne, pracodawca jest obowiązany dodatkowo przedstawić sposób ustalania ich wysokości.
+
+4. Pracodawca przekazuje zakładowym organizacjom związkowym informacje, których mowa ust. 3, terminie umożliwiającym tym organizacjom zgłoszenie ramach konsultacji propozycji dotyczących spraw określonych ust. 2.
+
+5. W trakcie konsultacji pracodawca jest obowiązany przekazać zakładowym organizacjom związkowym także inne niż określone ust. 3 informacje, jeżeli mogą one mieć wpływ na przebieg konsultacji oraz treść porozumienia, którym mowa art. 3.
+
+6. Pracodawca przekazuje na piśmie właściwemu powiatowemu urzędowi pracy informacje, których mowa ust. 3, wyłączeniem informacji dotyczących sposobu ustalania wysokości świadczeń pieniężnych przysługujących pracownikom.
+
+6a. W przypadku zamiaru przeprowadzenia grupowego zwolnienia dotyczącego członków załogi statku morskiego polskiej przynależności pracodawca przekazuje informacje, których mowa ust. 6, powiatowemu urzędowi pracy właściwemu ze względu na siedzibę armatora.
+
+7. Jeżeli u danego pracodawcy nie działają zakładowe organizacje związkowe, uprawnienia tych organizacji zakresie wynikającym ust. 1–5 przysługują
+
+**Art. 3.**
+
+1. W terminie nie dłuższym niż 20 dni od dnia zawiadomienia, którym mowa art. 2 ust. 3, pracodawca i zakładowe organizacje związkowe zawierają porozumienie.
+
+2. W porozumieniu, którym mowa ust. 1, określa się zasady postępowania sprawach dotyczących pracowników objętych zamiarem grupowego zwolnienia, a także obowiązki pracodawcy zakresie niezbędnym do rozstrzygnięcia innych spraw pracowniczych związanych zamierzonym grupowym zwolnieniem.
+
+3. Jeżeli nie jest możliwe uzgodnienie treści porozumienia ze wszystkimi zakładowymi organizacjami związkowymi, pracodawca uzgadnia treść porozumienia organizacjami związkowymi reprezentatywnymi rozumieniu art. 25 ust. 1 lub 2 ustawy dnia 23 maja 1991 r. związkach zawodowych (Dz. U. 2025 r. poz. 440), których każda zrzesza co najmniej 5 % pracowników zatrudnionych u pracodawcy.
+
+4. Jeżeli nie jest możliwe zawarcie porozumienia zgodnie ust. 1 i 3, zasady postępowania sprawach dotyczących pracowników objętych zamiarem grupowego zwolnienia ustala pracodawca regulaminie, uwzględniając, miarę możliwości, propozycje przedstawione ramach konsultacji przez zakładowe organizacje związkowe.
+
+5. Jeżeli u danego pracodawcy nie działają zakładowe organizacje związkowe, zasady postępowania sprawach dotyczących pracowników objętych zamiarem grupowego zwolnienia ustala pracodawca regulaminie, po konsultacji przedstawicielami pracowników wyłonionymi trybie przyjętym u danego pracodawcy.
+
+6. Informacja porozumieniu, którym mowa ust. 1 i 3, podlega wpisowi do Krajowej Ewidencji Układów Zbiorowych Pracy na zasadach określonych ustawie dnia 5 listopada 2025 r. układach zbiorowych pracy i porozumieniach zbiorowych (Dz. U. poz. 1661).
+
+**Art. 4.**
+
+1. Pracodawca – po zawarciu porozumienia, a razie niezawarcia porozumienia po spełnieniu obowiązku, którym mowa art. 3 ust. 4 lub 5 – zawiadamia na piśmie właściwy powiatowy urząd pracy przyjętych ustaleniach dotyczących grupowego zwolnienia, tym liczbie zatrudnionych i zwalnianych grupowego zwolnienia zakładowymi organizacjami związkowymi lub przedstawicielami pracowników wyłonionymi trybie przyjętym u danego pracodawcy.
+
+1a. W przypadku zamiaru przeprowadzenia grupowego zwolnienia dotyczącego członków załogi statku morskiego polskiej przynależności pracodawca przekazuje informacje, których mowa ust. 1, powiatowemu urzędowi pracy właściwemu ze względu na siedzibę armatora.
+
+2. Kopię zawiadomienia, którym mowa ust. 1, pracodawca przekazuje zakładowym organizacjom związkowym. Zakładowe organizacje związkowe mogą przedstawić właściwemu powiatowemu urzędowi pracy swoją opinię sprawie grupowego zwolnienia.
+
+3. Jeżeli u danego pracodawcy nie działają zakładowe organizacje związkowe, przepis ust. 2 stosuje się odpowiednio do przedstawicieli pracowników wyłonionych trybie przyjętym u danego pracodawcy.
+
+4. W razie zakończenia działalności pracodawcy wskutek prawomocnego orzeczenia sądowego zawiadomienie, którym mowa ust. 1, jest wymagane, gdy takim wnioskiem wystąpi właściwy powiatowy urząd pracy.
+
+**Art. 5.**
+
+1. Przy wypowiadaniu pracownikom stosunków pracy ramach grupowego zwolnienia nie stosuje się art. 38 i 41 Kodeksu pracy, zastrzeżeniem ust. 2–4, a także przepisów odrębnych dotyczących szczególnej ochrony pracowników przed wypowiedzeniem lub rozwiązaniem stosunku pracy, zastrzeżeniem ust. 5.
+
+2. W razie niezawarcia porozumienia, którym mowa art. 3, przy wypowiadaniu pracownikom stosunków pracy, a także warunków pracy i płacy, stosuje się art. 38 Kodeksu pracy.
+
+3. Wypowiedzenie pracownikom stosunków pracy sytuacjach, których mowa art. 41 Kodeksu pracy, jest dopuszczalne czasie urlopu trwającego co najmniej 3 miesiące, a także czasie innej usprawiedliwionej nieobecności pracownika pracy, jeżeli upłynął już okres uprawniający pracodawcę do rozwiązania umowy pracę bez wypowiedzenia. trwania urlopu lub innej usprawiedliwionej nieobecności pracownika pracy.
+
+5. W okresie objęcia szczególną ochroną przed wypowiedzeniem lub rozwiązaniem stosunku pracy pracodawca może jedynie wypowiedzieć dotychczasowe warunki pracy i płacy pracownikowi:
+
+- **1)** któremu brakuje nie więcej niż 4 lata do osiągnięcia wieku emerytalnego, pracownicy ciąży, pracownikowi od dnia złożenia wniosku udzielenie urlopu macierzyńskiego albo jego części, urlopu na warunkach urlopu macierzyńskiego albo jego części, uzupełniającego urlopu macierzyńskiego, urlopu rodzicielskiego albo jego części, urlopu ojcowskiego albo jego części oraz urlopu opiekuńczego – do dnia zakończenia tego urlopu;
+- **2)** będącemu członkiem rady pracowniczej przedsiębiorstwa państwowego;
+- **3)** będącemu członkiem zarządu zakładowej organizacji związkowej;
+- **4)** będącemu członkiem zakładowej organizacji związkowej, upoważnionemu do reprezentowania tej organizacji wobec pracodawcy albo organu lub osoby dokonującej za pracodawcę czynności sprawach zakresu prawa pracy;
+- **4a)** będącemu członkiem specjalnego zespołu negocjacyjnego lub europejskiej rady zakładowej;
+- **4b)** będącemu członkiem specjalnego zespołu negocjacyjnego, organu przedstawicielskiego lub przedstawicielem pracowników spółce europejskiej;
+- **4c)** będącemu członkiem specjalnego zespołu negocjacyjnego, organu przedstawicielskiego lub przedstawicielem pracowników spółdzielni europejskiej;
+- **4d)** będącemu członkiem specjalnego zespołu negocjacyjnego, członkiem zespołu przedstawicielskiego albo przedstawicielem pracowników radzie nadzorczej albo radzie dyrektorów spółki powstałej wyniku transgranicznego przekształcenia, połączenia lub podziału spółek;
+- **5)** będącemu społecznym inspektorem pracy;
+- **6)** powołanemu do odbycia czynnej służby wojskowej, służby zastępczej, zasadniczej służby wojskowej albo przeszkolenia wojskowego;
+- **7)** będącemu członkiem rady pracowników lub określonym porozumieniu, którym mowa art. 24 ustawy dnia 7 kwietnia 2006 r. informowaniu uprawnionym do uzyskiwania od pracodawcy informacji i prowadzenia nim konsultacji.
+
+6. Jeżeli wypowiedzenie warunków pracy i płacy powoduje obniżenie wynagrodzenia, pracownikom, których mowa ust. 5, przysługuje, do końca okresu, którym korzystaliby ze szczególnej ochrony przed wypowiedzeniem lub rozwiązaniem stosunku pracy, dodatek wyrównawczy obliczony według zasad wynikających Kodeksu pracy.
+
+6a. W przypadku rozwiązania umowy pracę pracownicą ciąży, pracownikiem od dnia złożenia wniosku udzielenie urlopu macierzyńskiego, urlopu na warunkach urlopu macierzyńskiego, uzupełniającego urlopu macierzyńskiego, urlopu rodzicielskiego, urlopu ojcowskiego oraz urlopu opiekuńczego, których mowa ust. 5 pkt 1, powodu odmowy przyjęcia przez tę pracownicę albo tego pracownika zaproponowanych warunków pracy lub płacy i rozwiązania umowy pracę upływem okresu dokonanego wypowiedzenia, pracodawca udowodni, że przy wypowiadaniu dotychczasowych warunków pracy i płacy kierował się innymi powodami.
+
+7. (uchylony)
+
+**Art. 6.**
+
+1. Wypowiedzenie pracownikowi stosunku pracy ramach grupowego zwolnienia może nastąpić nie wcześniej niż po dokonaniu przez pracodawcę zawiadomienia, którym mowa art. 4 ust. 1, a przypadku gdy nie jest ono wymagane – nie wcześniej niż po zawarciu porozumienia lub spełnieniu obowiązku, którym mowa art. 3 ust. 4 lub 5.
+
+2. Rozwiązanie pracownikiem stosunku pracy ramach grupowego zwolnienia może nastąpić nie wcześniej niż po upływie 30 dni od dnia zawiadomienia, którym mowa art. 4 ust. 1, a przypadku gdy nie jest ono wymagane – nie wcześniej niż po upływie 30 dni od dnia zawarcia porozumienia lub spełnienia obowiązku, którym mowa art. 3 ust. 4 lub 5. Nie dotyczy to przypadków rozwiązania pracownikami stosunków pracy razie zakończenia działalności pracodawcy wskutek prawomocnego orzeczenia sądowego. stosuje się przepisy art. 41 § 1, art. 177 § 4, art. 186 i art. 196 pkt 2 Kodeksu pracy, a także odrębne przepisy regulujące rozwiązywanie pracownikami stosunków pracy takiego powodu.
+
+**Art. 8.**
+
+1. Pracownikowi, związku rozwiązaniem stosunku pracy ramach grupowego zwolnienia, przysługuje odprawa pieniężna wysokości:
+
+- **1)** jednomiesięcznego wynagrodzenia, jeżeli pracownik był zatrudniony u danego pracodawcy krócej niż 2 lata;
+- **2)** dwumiesięcznego wynagrodzenia, jeżeli pracownik był zatrudniony u danego pracodawcy od 2 do 8 lat;
+- **3)** trzymiesięcznego wynagrodzenia, jeżeli pracownik był zatrudniony u danego pracodawcy ponad 8 lat.
+
+2. Przy ustalaniu okresu zatrudnienia, którym mowa ust. 1, przepis art. 36 § 1 Kodeksu pracy stosuje się odpowiednio.
+
 3. Odprawę pieniężną ustala się według zasad obowiązujących przy obliczaniu ekwiwalentu pieniężnego za urlop wypoczynkowy.
-4. Wysokość odprawy pieniężnej może przekraczać kwoty 15-krotnego minimalnego wynagrodzenia za pracę, ustalanego na podstawie odrębnych przepisów, obowiązującego dniu rozwiązania stosunku pracy.
-9.1. Wrazie ponownego zatrudniania pracowników tej samej grupie zawodowej pracodawca powinien zatrudnić pracownika, którym rozwiązał stosunek ramach grupowego zwolnienia, jeżeli zwolniony pracownik zgłosi zamiar podjęcia zatrudnienia utego pracodawcy wciągu roku od dnia rozwiązania znim stosunku pracy.
-Pracodawca powinien ponownie zatrudnić pracownika, októrym 1, wokresie 15 miesięcy od dnia rozwiązania znim stosunku wramach grupowego zwolnienia.
-10.1. Przepisy art. 5 3—7 iart. 8 stosuje się odpowiednio razie konieczności rozwiązania przez pracodawcę zatrudniającego co najmniej 20 pracowników stosunków przyczyn niedotyczących pracowników, jeżeli przyczyny te stanowią wyłączny powód uzasadniający wypowiedzenie stosunku jego rozwiązanie na mocy porozumienia stron, azwolnienia okresie nieprzekraczającym 30 dni obejmują mniejszą liczbę pracowników określona 1.
-W przypadku określonym 1 pracodawca może rozwiązać stosunki pracy, wdrodze wypowiedzenia, pracownikami, których stosunek podlega mocy odrębnych przepisów szczególnej ochronie przed wypowiedzeniem rozwiązaniem iwobec których jest dopuszczalne wypowiedzenie stosunku wramach grupowego zwolnienia, pod warunkiem niezgłoszenia sprzeciwu przez zakładową organizację związkową terminie 14 dni od dnia otrzymania zawiadomienia ozamierzonym wypowiedzeniu.
-3. Pracodawca może wypowiedzieć warunki i płacy pracownikom, o których 2, jeżeli zprzyczyn określonych 1 jest możliwe dalsze ich zatrudnianie na dotychczasowych stanowiskach pracy. W takim przypadku stosuje się art. 38 Kodeksu pracy.
-wypowiedzeniem rozwiązaniem.
-11. Przepisów ustawy stosuje się pracowników zatrudnionych na podstawie mianowania.
-12. Przy rozwiązywaniu stosunków przyczyn niedotyczących pracowników, zakresie nieuregulowanym niniejszej ustawie, a także przy rozpatrywaniu sporów związanych naruszeniem przepisów niniejszej ustawy stosuje się przepisy Kodeksu pracy.
-13.Wustawie zdnia 21 listopada 1967 r. opowszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. 2002 r. 21, poz. 205, póên. zm. ) wart.121 1 otrzymuje brzmienie: Ń1. ˚ołnierze rezerwy, którzy ciągu trzydziestu dni od dnia zwolnienia zczynnej służby wojskowej, zastrzeżeniem art. 120 4, mogą podjąć wskutek ogłoszenia upadłości likwidacji pracodawcy, uktórego byli zatrudnieni wdniu powołania tej służby, albo rozwiązania znimi stosunku zprzyczyn niedotyczących pracowników, a także którzy innych przyczyn poszukują korzystają zpierwszeństwa wzakresie pośrednictwa pracy.”.
-14. Wustawie zdnia 26 stycznia 1982 r. Karta Nauczyciela (Dz. U. z1997 r. 56, poz. 357, zpóên.
-zm. ) art. 20 2 zdanie drugie otrzymuje brzmienie: ŃNauczycielowi zatrudnionemu na podstawie umowy opracę, zktórym rozwiązano stosunek pracy przyczyn określonych 1, przysługują świadczenia określone przepisach o szczególnych zasadach rozwiązywania zpracownikami stosunków przyczyn niedotyczących pracowników.”.
-15. Wustawie zdnia 28 grudnia 1989 r. oszczególnych zasadach rozwiązywania pracownikami stosunków przyczyn dotyczących zakładu (Dz. U. 2002 r. 112, poz. 980, 135, poz. 1146 iNr200, poz. 1679) 8 uchyla się 4.
-ników.”.
-17. W ustawie dnia 12 paêdziernika 1990 r.
-oStraży Granicznej (Dz. U. z2002 r. 171, poz. 1399) 48 pkt 2 otrzymuje brzmienie: Ń2) inne uprawnienia przewidziane dla pracownic zwalnianych czasie urlopu wychowawczego przyczyn niedotyczących pracowników.”.
-18.Wustawie zdnia 26 lipca 1991 r. opodatku dochodowym od osób fizycznych (Dz. U. 2000 r.
-Nr14, poz. 176, zpóên. zm. ) 21 1 wpkt lit. botrzymuje brzmienie: Ńb) odpraw pieniężnych wypłacanych na podstawie przepisów o szczególnych zasadach rozprzez tego pracodawcę nowych warunków ipłacy;”.
-20.Wustawie zdnia 26 kwietnia 1996 r. oSłużbie Więziennej (Dz. U. 2002 r. 207, poz. 1761) wart.42 pkt 2 otrzymuje brzmienie: Ń2) inne uprawnienia przewidziane dla pracowników zwalnianych czasie urlopu wychowawczego przyczyn niedotyczących pracowników.”.
-21. W ustawie dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji (Dz. U. 2002 r. 171, poz. 1397 i 240, poz. 2055 oraz 2003 r. 60, poz.535) 2 wpkt 5 lit. cotrzymuje brzmienie: wiązywania pracownikami stosunków zprzyczyn niedotyczących pracowników,”.
-19. W ustawie dnia 14 grudnia 1994 r. o zatrudnieniu i przeciwdziałaniu bezrobociu (Dz. U.
-z2003r. 58, poz. 514) 2 1 pkt20aotrzymuje brzmienie: Ń20a) Ńprzyczynach dotyczących zakładu pracy” oznacza to:
-a) rozwiązanie stosunku przyczyn niedotyczących pracowników, zgodnie zprzepisami oszczególnych zasadach rozwiązywania pracownikami stosunków przyczyn niedotyczących pracowników zgodnie przepisami Kodeksu pracy, przypadku rozwiązania stosunku tych przyczyn pracodawcy zatrudniającego mniej 20 pracowników,
-b) rozwiązanie stosunku służbowego powodu ogłoszenia upadłości pracodawcy, jego likwidacji likwidacji stanowiska przyczyn ekonomicznych, organizacyjnych, produkcyjnych albo technologicznych, Ńc) osoby, które przepracowały co najmniej dziesięć lat komercjalizowanym przedsiębiorstwie państwowym przedsiębiorstwie, które zostało sprywatyzowane przez wniesienie spółki, a rozwiązanie stosunku nastąpiło wskutek przejścia na emeryturę rentę albo przyczyn niedotyczących pracowników,”.
-22.Wustawie zdnia 27 sierpnia 1997 r. orehabilitacji zawodowej ispołecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. 123, poz. 776, póên.
-zm. ) 38 2 otrzymuje brzmienie: Ń2. Szkoleniem, októrym 1, mogą być objęte również osoby niepełnosprawne będące okresie wypowiedzenia umowy o pracę zprzyczyn niedotyczących pracowników.”.
-23.Wustawie zdnia 26 listopada 1998 r. odostosowaniu górnictwa węgla kamiennego funkcjonowania warunkach gospodarki rynkowej oraz szczególnych uprawnieniach i zadaniach gmin górniczych (Dz. U. 162, poz. 1112, póên. zm. ) 20 5 otrzymuje brzmienie: Ń5. Uprawnienia, o których 1, ograniczają uprawnień określonych przepisach o szczególnych zasadach rozwiązywania pracownikami stosunków przyczyn niedotyczących pracowników.”.
-——————— chowawczego przyczyn niedotyczących pracowników.”. 28. 1. Do trwających dniu wejścia życie ustawy postępowań dotyczących rozwiązywania zpra25. W ustawie dnia 24 sierpnia 2001 r. o re- cownikami stosunków na podstawie przepisów strukturyzacji hutnictwa żelaza i stali (Dz. U. 111, ustawy wymienionej 29 stosuje się dotychczasopoz. 1196 oraz 2003 r. 56, poz. 495) 15 4 we przepisy.
-otrzymuje brzmienie: Pracownikom, których stosunki ulegną Ń4. Pracownikowi huty albo PHS S.A. korzystające- rozwiązaniu poczynając od dnia wejścia życie ustamu uprawnień, o których 1, wy, następstwie postępowań, o których przysługuje odprawa pieniężna, októrej 1, przysługuje odprawa pieniężna na zasadach wprzepisach oszczególnych zasadach rozwią- określonych wdotychczasowych przepisach, chyba że zywania pracownikami stosunków odprawa pieniężna przysługująca na podstawie niniejzprzyczyn niedotyczących pracowników.”. szej ustawy jest dla nich korzystniejsza.
-3. Pracownicy otrzymujący dodatek wyrównawczy
-26.Wustawie zdnia 24 maja 2002 r. oAgencji dniu wejścia życie ustawy, którzy byliby Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu uprawnieni dodatku wyrównawczego na podstawie (Dz. U. 74, poz. 676) 64 pkt 2 otrzymu- niniejszej ustawy, zachowują prawo tego dodatku je brzmienie: na zasadach określonych dotychczasowych przepiŃ2) inne uprawnienia przewidziane dla pracownic sach.
-zwalnianych czasie urlopu wycho- 29.Traci moc ustawa zdnia 28 grudnia 1989 r.
-wawczego przyczyn niedotyczących pracow- oszczególnych zasadach rozwiązywania zpracownikaników.”. mi stosunków przyczyn dotyczących zakładu (Dz. U. 2002 r. 112, poz. 980, 135,
-27. W ustawie dnia 30 paêdziernika 2002 r. poz. 1146 i 200, poz. 1679 oraz 2003 r. 90, o pomocy publicznej dla przedsiębiorców o szczegól- poz.844).
-nym znaczeniu dla rynku (Dz. U. 213, poz.1800) art. 39 otrzymuje brzmienie: 30.Ustawa wchodzi wżycie zdniem 1 stycznia 2004 r., wyjątkiem art. 15, który wchodzi życie zdniem 1 lipca 2003 r.
-Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 845
-USTAWA zdnia 10 kwietnia 2003 r.
-ozmianie ustawy ozawodzie lekarza oraz ustawy ozmianie ustawy ozawodzie lekarza oraz ozmianie innych ustaw
-1. W ustawie dnia 5 grudnia 1996 r. o zawodzie lekarza (Dz. U. 2002 r. 21, poz. 204, 76, poz. 691, 152, poz. 1266 i 153, poz. 1271) wprowadza się następujące zmiany:
-1) użyte 1, art. 2 2, art. 3, art. 5 1 wzdaniu wstępnym oraz pkt 2 lit. a—c i pkt 4, wust.4 i5, art. 6 1, i7, art. 7 1 i2, art. 8
-2) 2:
-a) 2 skreśla się wyrazy Ń , zastrzeżeniem 2a”,
-b) uchyla się 2a;
-5: ———————
+
+4. Wysokość odprawy pieniężnej nie może przekraczać kwoty 15-krotnego minimalnego wynagrodzenia za pracę, ustalanego na podstawie odrębnych przepisów, obowiązującego dniu rozwiązania stosunku pracy.
+
+**Art. 9.**
+
+1. W razie ponownego zatrudniania pracowników tej samej grupie zawodowej pracodawca powinien zatrudnić pracownika, którym rozwiązał stosunek pracy ramach grupowego zwolnienia, jeżeli zwolniony pracownik zgłosi zamiar podjęcia zatrudnienia u tego pracodawcy ciągu roku od dnia rozwiązania nim stosunku pracy.
+
+2. Pracodawca powinien ponownie zatrudnić pracownika, którym mowa ust. 1, okresie 15 miesięcy od dnia rozwiązania nim stosunku pracy ramach grupowego zwolnienia.
+
+**Art. 10.**
+
+1. Przepisy art. 5 ust. 3–6 i art. 8 stosuje się odpowiednio razie konieczności rozwiązania przez pracodawcę zatrudniającego co najmniej 20 pracowników stosunków pracy przyczyn niedotyczących pracowników, jeżeli przyczyny te stanowią wyłączny powód uzasadniający wypowiedzenie stosunku pracy art. 1.
+
+2. W przypadku określonym ust. 1 pracodawca może rozwiązać stosunki pracy, drodze wypowiedzenia, pracownikami, których stosunek pracy podlega mocy odrębnych przepisów szczególnej ochronie przed wypowiedzeniem lub rozwiązaniem i wobec których jest dopuszczalne wypowiedzenie stosunku pracy ramach grupowego zwolnienia, pod warunkiem niezgłoszenia sprzeciwu przez zakładową organizację związkową terminie 14 dni od dnia otrzymania zawiadomienia zamierzonym wypowiedzeniu.
+
+3. Pracodawca może wypowiedzieć warunki pracy i płacy pracownikom, których mowa ust. 2, jeżeli przyczyn określonych ust. 1 nie jest możliwe dalsze ich zatrudnianie na dotychczasowych stanowiskach pracy. W takim przypadku stosuje się art. 38 Kodeksu pracy.
+
+4. Jeżeli wypowiedzenie warunków pracy i płacy okolicznościach określonych ust. 3 powoduje obniżenie wynagrodzenia, pracownikom przysługuje, przez okres nieprzekraczający 6 miesięcy, dodatek wyrównawczy obliczony według zasad wynikających Kodeksu pracy. Prawo do dodatku wyrównawczego nie przysługuje pracownikom, których szczególna ochrona przed wypowiedzeniem umowy pracę wynika art. 41 Kodeksu pracy.
+
+5. Przepisów ust. 1–4 nie stosuje się do pracowników będących posłami, senatorami lub radnymi, okresie, którym ich stosunek pracy podlega mocy odrębnych przepisów szczególnej ochronie przed wypowiedzeniem lub rozwiązaniem.
+
+**Art. 11.** Przepisów ustawy nie stosuje się do pracowników zatrudnionych na podstawie mianowania.
+
+**Art. 12.** Przy rozwiązywaniu stosunków pracy przyczyn niedotyczących pracowników, zakresie nieuregulowanym niniejszej ustawie, a także przy rozpatrywaniu sporów związanych naruszeniem przepisów niniejszej ustawy stosuje się przepisy Kodeksu pracy. Art. 13–27. (pominięte) przepisów ustawy wymienionej art. 29 stosuje się dotychczasowe przepisy. 2. Pracownikom, których stosunki pracy ulegną rozwiązaniu poczynając od dnia wejścia życie ustawy, następstwie postępowań, których mowa ust. 1, przysługuje odprawa pieniężna na zasadach określonych dotychczasowych przepisach, chyba że odprawa pieniężna przysługująca na podstawie niniejszej ustawy jest dla nich korzystniejsza. 3. Pracownicy otrzymujący dodatek wyrównawczy dniu wejścia życie ustawy, którzy nie byliby uprawnieni do dodatku wyrównawczego na podstawie niniejszej ustawy, zachowują prawo do tego dodatku na zasadach określonych dotychczasowych przepisach.
+
+**Art. 29.** Traci moc ustawa dnia 28 grudnia 1989 r. szczególnych zasadach rozwiązywania pracownikami stosunków pracy przyczyn dotyczących zakładu pracy (Dz. U. 2002 r. poz. 980, 1146 i 1679 oraz 2003 r. poz. 844).
+
+**Art. 30.** Ustawa wchodzi życie dniem 1 stycznia 2004 r., wyjątkiem art. 15, który wchodzi życie dniem 1 lipca 2003 r.
 

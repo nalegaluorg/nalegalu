@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 14 marca 2024 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy o kosztach komorniczych
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 11 marca 2024 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000377) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/377/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 11 marca 2024 r.
-sprawie ogłoszenia jednolitego tekstu ustawy o kosztach komorniczych
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 28 lutego 2018 r. o kosztach komorniczych (Dz. U. z 2023 r. poz. 1357), z uwzględnieniem zmian wprowadzonych ustawą z dnia 7 lipca 2023 r. o zmianie ustawy Kodeks postępowania cywilnego, ustawy Prawo o ustroju sądów powszechnych, ustawy Kodeks postępowania karnego oraz niektórych innych ustaw (Dz. U. poz. 1860) oraz zmian wynikających z przepisów ogłoszonych przed dniem 29 lutego 2024 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 40 ustawy z dnia 7 lipca 2023 r. o zmianie ustawy Kodeks postępowania cywilnego, ustawy Prawo o ustroju sądów powszechnych, ustawy Kodeks postępowania karnego oraz niektórych innych ustaw (Dz. U. poz. 1860), który stanowi: „Art. 40. Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 1) art. 28 pkt 1, art. 30 pkt 2–6, art. 31 pkt 1 lit. a, c–e, f zakresie pkt 67 lit. b, oraz lit. g i h, pkt 2–4 oraz art. 39 ust. 1 i 2, które wchodzą życie z dniem 1 października 2023 r.;
@@ -79,7 +79,7 @@ Art. 49–51. (pominięte)
 
 **Art. 11.** Biegłemu i tłumaczowi przysługuje wynagrodzenie za wykonaną pracę oraz zwrot poniesionych przez nich wydatków niezbędnych do wydania opinii lub dokonania tłumaczenia. Do należności tych stosuje się odpowiednio przepisy tytułu III działu 2 ustawy z dnia 28 lipca 2005 r. o kosztach sądowych sprawach cywilnych (Dz. U. z 2023 r. poz. 1144, 1532 i 1860), przepisy wykonawcze wydane na podstawie art. 89 ust. 5 tej ustawy oraz przepisy wykonawcze wydane na podstawie art. 16 ust. 2 ustawy z dnia 25 listopada 2004 r. o zawodzie tłumacza przysięgłego (Dz. U. z 2019 r. poz. 1326).
 
-**Art. 12.** Ustalając wysokość należności z tytułu wydatków, o których mowa art. 6 pkt 2 i 3, komornik uwzględnia wynagrodzenie oraz celowe i niezbędne wydatki wskazane na rachunku lub fakturze złożonej przez podmiot uprawniony do otrzymania należności. pod uwagę wymagane kwalifikacje, nakład pracy potrzebny do dokonania czynności oraz wysokość celowych i niezbędnych wydatków wskazanych na złożonym rachunku lub fakturze. 2. Należności przysługujące kuratorowi ustanowionemu przez sąd przyznaje komornik. Pobraną od wierzyciela zaliczkę na poczet należności kuratora sąd, który go ustanowił, niezwłocznie przekazuje komornikowi. Do należności kuratora stosuje się odpowiednio przepisy wykonawcze wydane na podstawie art. 9 pkt 3 ustawy z dnia 28 lipca 2005 r. o kosztach sądowych sprawach cywilnych.
+**Art. 12.** Ustalając wysokość należności z tytułu wydatków, o których mowa art. 6 pkt 2 i 3, komornik uwzględnia wynagrodzenie oraz celowe i niezbędne wydatki wskazane na rachunku lub fakturze złożonej przez podmiot uprawniony do otrzymania należności. wydatków wskazanych na złożonym rachunku lub fakturze. 2. Należności przysługujące kuratorowi ustanowionemu przez sąd przyznaje komornik. Pobraną od wierzyciela zaliczkę na poczet należności kuratora sąd, który go ustanowił, niezwłocznie przekazuje komornikowi. Do należności kuratora stosuje się odpowiednio przepisy wykonawcze wydane na podstawie art. 9 pkt 3 ustawy z dnia 28 lipca 2005 r. o kosztach sądowych sprawach cywilnych.
 
 **Art. 14.**
 
@@ -332,7 +332,7 @@ Art. 49–51. (pominięte)
 
 3. Jeżeli przed dniem wejścia życie niniejszej ustawy powstały okoliczności uprawniające do złożenia wniosku, o którym mowa art. 49 ust. 2b ustawy z dnia 29 sierpnia 1997 r. o komornikach sądowych i egzekucji (Dz. U. z 2018 r. poz. 1309 i 1669), do tego wniosku i jego rozpoznania stosuje się przepisy dotychczasowe.
 
-4. Przepis art. 1035 ustawy zmienianej art. 49 , brzmieniu nadanym niniejszą ustawą, stosuje się do egzekucji z nieruchomości wszczętej po dniu wejścia życie niniejszej ustawy, niezależnie od daty wszczęcia postępowania egzekucyjnego. pism wnoszonych po dniu wejścia życie niniejszej ustawy.
+4. Przepis art. 1035 ustawy zmienianej art. 49 , brzmieniu nadanym niniejszą ustawą, stosuje się do egzekucji z nieruchomości wszczętej po dniu wejścia życie niniejszej ustawy, niezależnie od daty wszczęcia postępowania egzekucyjnego.
 
 **Art. 53.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 40a ust. 3 ustawy z dnia 29 sierpnia 1997 r. o komornikach sądowych i egzekucji zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych na podstawie art. 17 ust. 5 niniejszej ustawy, jednak nie dłużej niż do dnia 31 marca 2019 r.
 

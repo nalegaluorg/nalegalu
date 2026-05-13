@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 23 stycznia 2003 r.
+# o zmianie ustawy o odpadach oraz niektórych innych ustaw
+
+*USTAWA z dnia 19 grudnia 2002 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,24 +26,33 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030070078) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/78/text.pdf) |
 
-USTAWA zdnia 19 grudnia 2002 r.
-ozmianie ustawy oodpadach oraz niektórych innych ustaw
+**Art. 1.** W ustawie z dnia 27 kwietnia 2001 r. o odpadach (Dz.U. Nr 62, poz. 628 i z 2002 r. Nr 41, poz. 365, Nr 113, poz. 984 i Nr 199, poz. 1671) wprowadza się następujące zmiany:
 
-**Art. 1.** W ustawie z dnia 27 kwietnia 2001 r. o od- poz. 365, 113, poz. 984 i 199, poz. 1671) wpropadach (Dz. U. 62, poz. 628 oraz z 2002 r. 41, wadza następujące zmiany: ———————
-
-**Art. 2.** Wustawie zdnia 11 maja 2001 r. oopakowaniach i odpadach opakowaniowych (Dz. U. 63, poz. 638) wprowadza następujące zmiany:
+**Art. 2.** W ustawie z dnia 11 maja 2001 r. o opakowaniach i odpadach opakowaniowych (Dz.U. Nr 63, poz. 638) wprowadza się następujące zmiany:
 
 **Art. 24.** Kto, sprzedając środki niebezpieczne:
 
-**Art. 3.** Wustawie zdnia 11 maja 2001 r. oobowiązkach przedsiębiorców wzakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej i opłacie depozytowej (Dz. U. 63, poz. 639 oraz z 2002 r.
+**Art. 3.** W ustawie z dnia 11 maja 2001 r. o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej i opłacie depozytowej (Dz.U. Nr 63, poz. 639 oraz z 2002 r. Nr 113, poz. 984) wprowadza się następujące zmiany:
 
-**Art. 4.** Wustawie zdnia 27 lipca 2001 r. owprowadzeniu ustawy Prawo ochrony środowiska, ustawy o odpadach oraz o zmianie niektórych ustaw (Dz. U. 100, poz. 1085 oraz z 2002 r. 143, poz. 1196) wprowadza następujące zmiany:
+**Art. 4.** W ustawie z dnia 27 lipca 2001 r. o wprowadzeniu ustawy - Prawo ochrony środowiska, ustawy o odpadach oraz o zmianie niektórych ustaw (Dz.U. Nr 100, poz. 1085 oraz z 2002 r. Nr 143, poz. 1196) wprowadza się następujące zmiany:
 
-**Art. 6.** Wustawie zdnia 19 czerwca 1997 r. ozakaArt. 5.Wustawie zdnia 13 września 1996 r. outrzy- zie stosowania wyrobów zawierających azbest (Dz. U. maniu czystości i porządku w gminach (Dz. U. 132, 101, poz. 628, z 1998 r. 156, poz. 1018, z 2000 r. poz. 622, z 1997 r. 60, poz. 369 i 121, poz. 770, 88, poz. 986 oraz z2001 r. 100, poz. 1085 iNr 154, z 2000 r. 22, poz. 272, z 2001 r. 100, poz. 1085 poz. 1793) wart. 4: i 154, poz. 1800 oraz z 2002 r. 113, poz. 984) 1) ust. 1 otrzymuje brzmienie: wprowadza następujące zmiany: Ń1. Minister właściwy do spraw gospodarki, w po1) wart. 6: rozumieniu z ministrem właściwym do spraw
+**Art. 5.** W ustawie z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach (Dz.U. Nr 132, poz. 622, z 1997 r. Nr 60, poz. 369 i Nr 121, poz. 770, z 2000 r. Nr 22, poz. 272, z 2001 r. Nr 100, poz. 1085 i Nr 154, poz. 1800 oraz z 2002 r. Nr 113, poz. 984) wprowadza się następujące zmiany:
 
-**Art. 8.** Dotychczasowe przepisy wykonawcze za- Art. 10. Decyzje ustalające dopuszczalny poziom chowują moc do czasu wejścia wżycie nowych przepi- hałasu przenikającego do środowiska, októrych mowa sów wykonawczych. w art. 18 ust. 1 ustawy wymienionej w art. 4, wygasają zdniem wejścia wżycie niniejszej ustawy, jeżeli emiArt. 9.1. Przepisów art. 29 ust. 2 iart. 53 ust. 5 pkt 1 towanie hałasu do środowiska nie wymaga pozwoleustawy, októrej mowa wart. 1, nie stosuje od dnia nia. wejścia wżycie ustawy do dnia 30 czerwca 2004 r.
+**Art. 6.** W ustawie z dnia 19 czerwca 1997 r. o zakazie stosowania wyrobów zawierających azbest (Dz.U. Nr 101, poz. 628, z 1998 r. Nr 156, poz. 1018, z 2000 r. Nr 88, poz. 986 oraz z 2001 r. Nr 100, poz. 1085 i Nr 154, poz. 1793) w art. 4:
 
-**Art. 11.** Przepisy art. 3 pkt 17, 18 i19 stosuje od 2. Zezwolenia wydane na podstawie dotychczaso- dnia 1 stycznia 2004 r. wych przepisów podmiotom, które przed dniem wejścia wżycie ustawy prowadziły działalność wzakresie Art. 12.Ustawa wchodzi wżycie po upływie 14 dni zbierania, transportu, odzysku lub unieszkodliwiania od dnia ogłoszenia. odpadów komunalnych, zachowują moc na czas, na jaki zostały wydane, izastępują zezwolenia na prowadzenie działalności wzakresie zbierania, transportu, odzysku lub unieszkodliwiania odpadów komunalnych, wymagane na podstawie przepisów oodpadach. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 79 USTAWA zdnia 20 grudnia 2002 r. ozmianie ustawy orehabilitacji zawodowej ispołecznej oraz zatrudnianiu osób niepełnosprawnych oraz ozmianie niektórych innych ustaw
+**Art. 7.** W ustawie z dnia 9 września 2000 r. o opłacie skarbowej (Dz.U. Nr 86, poz. 960, z 2001 r. Nr 5, poz. 43, Nr 60, poz. 610, Nr 76, poz. 811, Nr 87, poz. 954, Nr 100, poz. 1085 i Nr 129, poz. 1441 oraz z 2002 r. Nr 71, poz. 655, Nr 135, poz. 1143, Nr 141, poz. 1178 i 1180 i Nr 216, poz. 1824) w załączniku do ustawy w części IV dodaje się pkt 43a i 43b w brzmieniu: 2 3 4 43a. Od zezwolenia na prowadzenie działalności w zakresie odbierania 100 zł odpadów komunalnych od właścicieli nieruchomości 43b. Od zezwolenia na prowadzenie działalności w zakresie opróżniania 100 zł zbiorników bezodpływowych i transportu nieczystości ciekłych
 
-**Art. 1.** Wustawie zdnia 27 sierpnia 1997 r. orehabilitacji zawodowej ispołecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. 123, poz. 776, z póên. zm.
+**Art. 8.** Dotychczasowe przepisy wykonawcze zachowują moc do czasu wejścia w życie nowych przepisów wykonawczych.
+
+**Art. 9.**
+
+1. Przepisów art. 29 ust. 2 i art. 53 ust. 5 pkt 1 ustawy, o której mowa w art. 1, nie stosuje się od dnia wejścia w życie ustawy do dnia 30 czerwca 2004 r.
+
+2. Zezwolenia wydane na podstawie dotychczasowych przepisów podmiotom, które przed dniem wejścia w życie ustawy prowadziły działalność w zakresie zbierania, transportu, odzysku lub unieszkodliwiania odpadów komunalnych, zachowują moc na czas, na jaki zostały wydane i zastępują zezwolenia na prowadzenie działalności w zakresie zbierania, transportu, odzysku lub unieszkodliwiania odpadów komunalnych, wymagane na podstawie przepisów o odpadach.
+
+**Art. 10.** Decyzje ustalające dopuszczalny poziom hałasu przenikającego do środowiska, o których mowa w art. 18 ust. 1 ustawy wymienionej w art. 4, wygasają z dniem wejścia w życie niniejszej ustawy, jeżeli emitowanie hałasu do środowiska nie wymaga pozwolenia.
+
+**Art. 11.** Przepisy art. 3 pkt 17, 18 i 19 stosuje się od dnia 1 stycznia 2004 r.
+
+**Art. 12.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

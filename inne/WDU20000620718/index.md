@@ -10,7 +10,9 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# Najwyższego. Przepis art. 526 § 2 stosuje się odpowiednio. Sąd Najwyższy rozpoznaje zażalenie jednoosobowo.
+# o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych
+
+*USTAWA z dnia 20 lipca 2000 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -20,208 +22,377 @@ domain: null
 | Status | akt posiada tekst jednolity |
 | W mocy | tak |
 | Data ogłoszenia | 2000-07-20 |
-| Ostatnia zmiana | 2026-04-23 |
+| Ostatnia zmiana | 2026-05-11 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000620718) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/718/text.pdf) |
 
-§ 4. W wypadku przyjęcia kasacji, której prokurator nie uznał za oczywiście bezzasadną, odpis pisemnej odpowiedzi prokuratora na kasację doręcza się pozostałym stronom, ich obrońcom ipełnomocnikom. Dalsze pisma procesowe wnosi się bezpośrednio do sądu kasacyjnego.
-§ 5. Prokurator, uznając kasację za oczywiście bezzasadną, przesyła odpis odpowiedzi na kasację pozostałym stronom, ich obrońcom ipełnomocnikom, którzy w terminie 14 dni od otrzymania odpowiedzi prokuratora mogą przedstawić sądowi na piśmie swoje stanowisko.”;
-ba że prezes sądu lub sąd postanowi inaczej.”;
-23) wart. 545 w§ 1 wyraz Ń455” zastępuje się wyrazem Ń456”;
-24) wart. 657 § 1 otrzymuje brzmienie: Ń§ 1. Uprawnienia procesowe Prokuratora Generalnego i prokuratora apelacyjnego przysługują również Naczelnemu Prokuratorowi Wojskowemu, jeżeli ustawa nie stanowi inaczej, a uprawnienia prokuratora okręgowego przysługują odpowiednio wojskowemu prokuratorowi okręgowemu.”
-2.Wustawie zdnia 6 czerwca 1997 r. Przepisy wprowadzające Kodeks postępowania karnego (Dz.U. 89, poz. 556 iNr 160, poz. 1083) dodaje się art.
-11awbrzmieniu: ŃArt. 11a. Jeżeli rozpoznanie sprawy w sądzie miejscowo właściwym nie jest możliwe
-21) art. 535 otrzymuje brzmienie: w terminie zabezpieczającym uniknięcie przedawnienia karalności przestępstwa ŃArt. 535. § 1. Kasację od wyroku Sąd Najwyższy określonym wart. 101 Kodeksu karnego, rozpoznaje na rozprawie, aod posta- uwzględniając wniosek sądu właściwenowienia może rozpoznać na posie- go, sąd apelacyjny może przekazać taką dzeniu, wktórym strony mogą wziąć sprawę do rozpoznania innemu sądowi udział. Oskarżonego pozbawionego równorzędnemu.” wolności nie sprowadza się, chyba że prezes sądu lub sąd postanowi 3. Wustawie zdnia 10 września 1999 r. Koinaczej. deks karny skarbowy (Dz.U. 83, poz. 930 i z 2000 r.
-60, poz. 703) skreśla się art. 168.
-§ 2. Sąd Najwyższy może oddalić na posiedzeniu bez udziału stron kasację 4. Czynności procesowe dokonane przed wrazie jej oczywistej bezzasadności. dniem wejścia w życie ustawy są skuteczne, jeżeli doNie dotyczy to kasacji wniesionej na konano ich z zachowaniem przepisów dotychczasopodstawie art. 521. Oddalenie kasa- wych.
-cji jako oczywiście bezzasadnej nie wymaga pisemnego uzasadnienia. 5. Wnioski o zastosowanie i przedłużenie stosowania tymczasowego aresztowania złożone przed § 3. Sąd Najwyższy może uwzględnić dniem wejścia wżycie ustawy rozpoznaje sąd dotychw całości na posiedzeniu bez udzia- czas właściwy.
-łu stron kasację wniesioną na korzyść oskarżonego w razie jej oczy- 6. Ustawa wchodzi w życie po upływie 30 dni wistej zasadności.”; od dnia ogłoszenia.
-22) wart. 544 § 3 otrzymuje brzmienie: Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski
-USTAWA zdnia 20 lipca 2000 r.
-oogłaszaniu aktów normatywnych iniektórych innych aktów prawnych.
-1.1. Ustawa określa zasady itryb ogłaszania aktów normatywnych iniektórych innych aktów prawnych
-2. Zasady i tryb ogłaszania umów międzynarodooraz zasady itryb wydawania dzienników urzędowych.
-wych, atakże układów zbiorowych pracy określają odrębne ustawy.
-2. Odrębna ustawa może wyłączyć obowiązek ogłoszenia aktu normatywnego niezawierającego przepisów powszechnie obowiązujących.
-3.Akty normatywne ogłasza się niezwłocznie.
-4. 1. Akty normatywne, zawierające przepisy powszechnie obowiązujące, ogłaszane w dziennikach urzędowych wchodzą w życie po upływie czternastu dni od dnia ich ogłoszenia, chyba że dany akt normatywny określi termin dłuższy.
-2. W uzasadnionych przypadkach akty normatywne, z zastrzeżeniem ust. 3, mogą wchodzić w życie wterminie krótszym niż czternaście dni, ajeżeli ważny interes państwa wymaga natychmiastowego wejścia w życie aktu normatywnego i zasady demokratycznego państwa prawnego nie stoją temu na przeszkodzie, dniem wejścia wżycie może być dzień ogłoszenia tego aktu wdzienniku urzędowym.
-3. Przepisy porządkowe wchodzą w życie po upływie trzech dni od dnia ich ogłoszenia. W uzasadnionych przypadkach przepisy porządkowe mogą wchodzić w życie w terminie krótszym niż trzy dni, a jeżeli zwłoka w wejściu w życie przepisów porządkowych mogłaby spowodować nieodwracalne szkody lub poważne zagrożenia życia, zdrowia lub mienia, można zarządzić wejście w życie takich przepisów z dniem ich ogłoszenia.
-5. Przepisy art. 4 nie wyłączają możliwości nadania aktowi normatywnemu wstecznej mocy obowiązującej, jeżeli zasady demokratycznego państwa prawnego nie stoją temu na przeszkodzie.
-6. 1. Przy obliczaniu terminu wejścia w życie aktu normatywnego określonego w dniach nie uwzględnia się dnia ogłoszenia, z wyjątkiem przypadków, gdy akt normatywny wchodzi w życie z dniem ogłoszenia.
-2. Terminy wejścia w życie aktu normatywnego określone wtygodniach, miesiącach lub latach kończą się z upływem dnia, który nazwą lub datą odpowiada dniu ogłoszenia, agdyby takiego dnia wostatnim miesiącu nie było wostatnim dniu tego miesiąca.
-7. Akty normatywne wydawane na podstawie ustaw można ogłaszać w okresie od dnia ogłoszenia danej ustawy, aprzed dniem jej wejścia wżycie; akt taki nie może wejść wżycie wcześniej niż ustawa.
-8. Dziennikami urzędowymi w rozumieniu ustawy są: Rzeczypospolitej Polskiej, Urzędowy Rzeczypospolitej Polskiej ŃMonitor Polski”, Urzędowy Rzeczypospolitej Polskiej ŃMonitor Polski B”, dzienniki urzędowe ministrów kierujących działami administracji rządowej, dzienniki urzędowe urzędów centralnych oraz wojewódzkie
-1) Konstytucję,
-2) ustawy,
-3) rozporządzenia zmocą ustawy wydane przez Prezydenta Rzeczypospolitej Polskiej,
-4) rozporządzenia wydane przez Prezydenta Rzeczypospolitej Polskiej, Radę Ministrów, Prezesa Rady Ministrów, ministrów kierujących działami administracji rządowej, przewodniczących określonych wustawach komitetów, będących członkami Rady Ministrów, oraz Krajową Radę Radiofonii i Telewizji,
-5) teksty jednolite aktów określonych wpkt 1—4,
-6) orzeczenia Trybunału Konstytucyjnego dotyczące aktów normatywnych ogłoszonych w Dzienniku Ustaw,
-7) uchwały Rady Ministrów uchylające rozporządzenie ministra.
-2. W Dzienniku ogłasza się również akty prawne dotyczące:
-1) stanu wojny izawarcia pokoju,
-2) referendum zatwierdzającego zmianę Konstytucji ireferendum ogólnokrajowego,
-3) wyborów do Sejmu iSenatu,
-4) wyborów Prezydenta Rzeczypospolitej Polskiej,
-5) powszechnej lub częściowej mobilizacji iużycia Sił Zbrojnych do obrony Rzeczypospolitej Polskiej,
-6) stanu wojennego,
-7) stanu wyjątkowego, dzienniki urzędowe.
-8) stanu klęski żywiołowej,
-9) stwierdzenia ważności wyboru Prezydenta Rzeczypospolitej Polskiej, wyborów do Sejmu i Senatu oraz ważności referendum zatwierdzającego zmianę Konstytucji ireferendum ogólnokrajowego.
-3. WDzienniku ogłasza się ponadto inne akty prawne, jeżeli odrębne ustawy tak stanowią.
-10.1. WDzienniku Urzędowym Rzeczypospolitej Polskiej ŃMonitor Polski”, zwanym dalej ŃMonitorem Polskim”, ogłasza się:
-1) zarządzenia Prezydenta Rzeczypospolitej Polskiej wydane na podstawie ustawy,
-2) uchwały Rady Ministrów izarządzenia Prezesa Rady Ministrów, wydane na podstawie ustawy,
-4) orzeczenia Trybunału Konstytucyjnego dotyczące aktów normatywnych ogłoszonych w Monitorze Polskim lub aktów normatywnych, które nie były ogłoszone.
-2. WMonitorze Polskim ogłasza się również:
-1) uchwały Zgromadzenia Narodowego dotyczące:
-a) regulaminu Zgromadzenia Narodowego,
-b) uznania trwałej niezdolności Prezydenta Rzeczypospolitej Polskiej do sprawowania urzędu ze względu na stan zdrowia,
-c)postawienia Prezydenta Rzeczypospolitej Polskiej wstan oskarżenia przed Trybunałem Stanu,
-2) uchwały Sejmu dotyczące:
-a) regulaminu Sejmu,
-b) skrócenia kadencji Sejmu,
-c) uchwalenia wotum zaufania Radzie Ministrów oraz absolutorium dla Rady Ministrów,
-d) uchwalenia wotum nieufności Radzie Ministrów lub ministrowi,
-e) pociągnięcia do odpowiedzialności przed Trybunałem Stanu,
-f) rozwiązania organu stanowiącego jednostki samorządu terytorialnego,
-g)wyboru, powoływania lub odwoływania na określone w Konstytucji lub ustawach stanowiska państwowe; uchwałę o powołaniu lub odwołaniu wymagającym zgody Senatu ogłasza się po wyrażeniu takiej zgody,
-3) uchwały Senatu dotyczące:
-a) regulaminu Senatu,
-b)wyboru, powoływania, odwoływania, a także wyrażenia zgody na powoływanie lub odwoływanie przez Sejm na określone w Konstytucji lub ustawach stanowiska państwowe,
-4) akty urzędowe Prezydenta Rzeczypospolitej Polskiej dotyczące:
-a) zwoływania pierwszego posiedzenia nowo wybranych Sejmu iSenatu,
-b) skracania kadencji Sejmu,
-c) zrzeczenia się urzędu Prezydenta Rzeczypospolitej Polskiej,
-d) desygnowania ipowoływania Prezesa Rady Mif) dokonywania zmian w składzie Rady Ministrów na wniosek Prezesa Rady Ministrów,
-g)odwoływania ministra, któremu Sejm wyraził wotum nieufności,
-h)powoływania lub odwoływania na określone w Konstytucji i ustawach stanowiska państwowe,
-i) powoływania sędziów,
-j) nadawania tytułu naukowego profesora,
-k) mianowania na stopień generała irównorzędny,
-l) nadawania statutu Kancelarii Prezydenta Rzeczypospolitej Polskiej, nistrów oraz Rady Ministrów,
-5)postanowienia Trybunału Konstytucyjnego o stwierdzeniu przeszkody w sprawowaniu urzędu przez Prezydenta Rzeczypospolitej Polskiej oraz powierzeniu Marszałkowi Sejmu tymczasowego wykonywania obowiązków Prezydenta Rzeczypospolitej Polskiej,
-6) postanowienia Trybunału Konstytucyjnego wsprawach sporów kompetencyjnych pomiędzy centralnymi konstytucyjnymi organami państwa.
-3. WMonitorze Polskim ogłasza się uchwały Sejmu iSenatu oraz Zgromadzenia Narodowego inne niż wymienione wust. 2, wyroki Trybunału Stanu, atakże postanowienia Marszałka Sejmu, jeżeli ich ogłoszenie wMonitorze Polskim jest przewidziane wtych uchwałach lub postanowieniach albo jeżeli odrębne ustawy tak stanowią.
-4. W Monitorze Polskim ogłasza się również inne akty prawne, a także ogłoszenia, obwieszczenia i komunikaty organów, instytucji i osób, jeżeli odrębne ustawy tak stanowią.
-5. Prezes Rady Ministrów może zarządzić:
-1)ogłoszenie wMonitorze Polskim również innych niż określone wart. 9 oraz wust. 1 aktów prawnych,
-2)ogłoszenie innych niż określone w ust. 2 aktów prawnych, ogłoszeń iobwieszczeń.
-11.1. WDzienniku Urzędowym Rzeczypospolitej Polskiej ŃMonitor Polski B”, zwanym dalej ŃMonitor Polski B”, ogłasza się:
-1) sprawozdania finansowe określone w przepisach orachunkowości,
-2) ogłoszenia i obwieszczenia przedsiębiorców, jeżeli odrębne przepisy nie wymagają ich ogłoszenia wMonitorze Sądowym iGospodarczym, iosób, jeżeli odrębne ustawy tak stanowią.
-7)uchwałę budżetową województwa oraz sprawo2. Ogłaszanie obwieszczeń i ogłoszeń, o których zdanie zwykonania budżetu województwa, mowa wust. 1 pkt 1 i2, jest odpłatne.
-8)obwieszczenia o rozwiązaniu sejmiku wojewódz3. Prezes Rady Ministrów określa, wdrodze rozpo- twa, rady powiatu lub rady gminy, rządzenia, wysokość opłat, kierując się rzeczowymi iosobowymi kosztami wydawania Monitora Polskiego 9) statut urzędu wojewódzkiego, B.
-10)inne akty prawne, informacje, komunikaty, ob12. 1. W dziennikach urzędowych ministrów wieszczenia i ogłoszenia, jeżeli tak stanowią przekierujących działami administracji rządowej oraz pisy szczególne.
-wdziennikach urzędowych urzędów centralnych ogłasza się: 14. 1. Przepisy porządkowe ogłasza się wdrodze obwieszczeń, atakże wsposób zwyczajowo przyję1) akty normatywne organu wydającego dziennik ty na danym terenie lub w środkach masowego przeurzędowy i nadzorowanych przez niego urzędów kazu.
-centralnych,
-2. Za dzień ogłoszenia przepisów porządkowych
-2) uchwały Rady Ministrów uchylające zarządzenia uważa się dzień wskazany wobwieszczeniu.
-ministra wydającego dziennik urzędowy,
-3) orzeczenia Trybunału Konstytucyjnego wsprawach 3. Ogłoszenie przepisów porządkowych w sposób aktów normatywnych, októrych mowa wpkt 1 i2. określony wust. 1 nie zwalnia zobowiązku ich ogłoszenia wwojewódzkim dzienniku urzędowym.
-2. W dziennikach urzędowych, o których mowa w ust. 1, mogą być publikowane informacje, komuni- 15. 1. Podstawą do ogłoszenia aktów normakaty, obwieszczenia i ogłoszenia organów wymienio- tywnych i innych aktów prawnych jest ich oryginał nych wust. 1 pkt 1. podpisany przez upoważniony do wydania tego aktu organ, a w przypadku orzeczenia sądu lub Trybunału
-3. W dziennikach urzędowych nie zamieszcza się Konstytucyjnego odpis orzeczenia.
-aktów prawnych, które podlegają ogłoszeniu wDzienniku Ustaw, Monitorze Polskim lub Monitorze Polskim 2. Na oryginale obok podpisu organu umieszcza się B, jak również, zzastrzeżeniem ust. 1 pkt 1, aktów praw- pieczęć urzędową.
-nych organów innych niż ten, który wydaje dziennik urzędowy. 3. Oryginał aktu normatywnego lub odpis orzeczenia wraz z trzema kopiami jest przedstawiany z wnio13. W wojewódzkim dzienniku urzędowym skiem oogłoszenie wdzienniku urzędowym organowi ogłasza się: wydającemu dziennik.
-1)akty prawa miejscowego stanowione przez woje- 4. Organ wydający dziennik urzędowy kieruje do wodę iorgany administracji niezespolonej, ogłoszenia akt normatywny lub odpis orzeczenia, zamieszczając wizę na tym akcie lub odpisie orzeczenia.
-2)akty prawa miejscowego stanowione przez sejmik województwa, organ powiatu oraz organ gminy, 16.
-wtym statuty województwa, powiatu igminy,
-3)statuty związków międzygminnych oraz statuty związków powiatów,
-4)akty Prezesa Rady Ministrów uchylające akty prawa miejscowego stanowionego przez wojewodę i organy administracji niezespolonej,
-5)wyroki sądu administracyjnego uwzględniające skargi na akty prawa miejscowego stanowionego przez: wojewodę i organy administracji niezespolonej, organ samorządu województwa, organ powiatu iorgan gminy,
-6) porozumienia w sprawie wykonywania zadań publicznych zawarte:
-a) między jednostkami samorządu terytorialnego,
-1. Jeżeli liczba zmian wustawie jest znaczna lub gdy ustawa była wielokrotnie uprzednio nowelizowana iposługiwanie się tekstem ustawy może być istotnie utrudnione, Marszałek Sejmu ogłasza tekst jednolity ustawy. Ustawa może określić termin ogłoszenia tekstu jednolitego.
-2. Organy administracji rządowej współdziałają z Marszałkiem Sejmu przy opracowywaniu tekstów jednolitych ustaw.
-3. Przepis ust. 1 stosuje się odpowiednio do ogłaszania tekstów jednolitych aktów normatywnych innych niż ustawa. Teksty jednolite tych aktów ogłasza organ właściwy do wydania aktu normatywnego.
-4. Tekst jednolity ogłasza się wformie obwieszczenia w dzienniku urzędowym, w którym dany akt normatywny ogłoszono.
-nie nie może prowadzić do merytorycznej zmiany tekstu aktu prawnego.
-2. Sprostowanie błędu ogłasza się w tym samym dzienniku urzędowym, wktórym ogłoszono prostowany akt.
-3. Prezes Rady Ministrów, z własnej inicjatywy lub na wniosek właściwego organu, prostuje błędy wtekstach aktów ogłoszonych wDzienniku Ustaw, Monitorze Polskim iMonitorze Polskim B.
-4. Organy wydające dzienniki urzędowe inne niż wymienione w ust. 3 prostują błędy w tekstach aktów prawnych ogłoszonych wtych dziennikach.
-18.1. Błędy wtekście jednolitym aktu prawnego polegające na niezgodności między jego tekstem wydrukowanym wdzienniku urzędowym atekstem aktu uwzględniającym wszystkie zmiany dokonane do czasu ogłoszenia tekstu jednolitego prostuje się wformie obwieszczenia.
-2. Sprostowania błędu w tekście jednolitym aktu prawnego dokonuje organ, który ogłosił tekst jednolity. Przepis art. 17 ust. 2 stosuje się odpowiednio.
-19.1. Organ wydający dziennik urzędowy ustala taki sposób redagowania dziennika, aby część zawierająca akty normatywne była wyraênie wyodrębniona.
-2. Organ wydający dziennik urzędowy ustala także cenę egzemplarza oraz warunki wydawania, rozpowszechniania i prenumeraty dziennika, tak aby dziennik urzędowy mógł być powszechnie dostępny.
-3. Organ wydający iMonitor Polski ustala warunki wydawania i rozpowszechniania tych dzienników również wformie zapisu elektronicznego.
-20. 1. urzędowy wydaje się z zachowaniem w roku kalendarzowym kolejności numerów, pozycji oraz stron.
-2. Na każdym numerze dziennika oznacza się dzień jego wydania, określany przez organ wydający dziennik. Jako dzień wydania określa się datę nie wcześniejszą od dnia udostępnienia dziennika do sprzedaży wsiedzibie organu wydającego dziennik.
-3. Dzień wydania jest dniem ogłoszenia aktów zamieszczonych wdanym numerze.
-21. 1. Prezes Rady Ministrów wydaje Ustaw, Monitor Polski iMonitor Polski Bprzy pomocy Kancelarii Prezesa Rady Ministrów i Rządowego Centrum Legislacji. Kancelaria może zlecić wyspecjalizowanym jednostkom gospodarczym niektóre czynności związane z drukiem i rozpowszechnianiem Dziennika Ustaw, Monitora Polskiego iMonitora Polskiego B.
-2. Ustaw, Monitor Polski i Monitor Polski tach sprzedaży mieszczących się w siedzibach niektórych organów administracji rządowej, sądów oraz innych jednostek.
-22. 1. Ministrowie kierujący działami administracji rządowej oraz kierownicy urzędów centralnych wydają dzienniki urzędowe.
-2. Każdy z organów wymienionych w ust. 1 może wydawać tylko jeden dziennik urzędowy, zuwzględnieniem ust. 5.
-3. Prezes Rady Ministrów może postanowić o wydawaniu wspólnego dziennika urzędowego dwóch lub więcej ministrów kierujących działami administracji rządowej oraz wspólnego dziennika urzędów centralnych podległych Prezesowi Rady Ministrów.
-4. Minister może postanowić o wydawaniu wspólnego dziennika urzędowego z urzędem centralnym Bsą rozpowszechniane wprenumeracie oraz sprzedanadzorowanym przez niego.
-5. Ministrowie właściwi do spraw obrony narodowej, do spraw wewnętrznych, do spraw zagranicznych oraz Szef Urzędu Ochrony Państwa wydają, wrazie potrzeby, wyodrębnioną edycję dziennika urzędowego z aktami prawnymi zawierającymi informacje niejawne.
-23. Wojewoda wydaje wojewódzki dziennik urzędowy.
-24. 1. Nazwy: Ustaw, Monitor Polski iMonitor Polski Boraz wzór graficzny pierwszych stron tych dzienników mogą być wykorzystywane jedynie przez organ wydający te dzienniki. Nazwy oraz wzór graficzny pierwszych stron tych dzienników nie mogą być wykorzystywane przez inne podmioty w celach handlowych w publikacjach, wydawnictwach lub innych formach upowszechniania aktów prawnych.
-2. Przepis ust. 1 stosuje się odpowiednio do dzienników urzędowych, októrych mowa wart. 22, oraz wojewódzkich dzienników urzędowych.
-3. Prezes Rady Ministrów określa, wdrodze rozporządzenia, wzór graficzny pierwszej i ostatniej strony Dziennika Ustaw, Monitora Polskiego, Monitora Polskiego B, dzienników urzędowych, o których mowa wart. 22, iwojewódzkich dzienników urzędowych.
-25. 1. Rozpowszechnianie wojewódzkiego dziennika urzędowego odbywa się w szczególności przez sprzedaż w stałych punktach sprzedaży oraz wsystemie prenumeraty.
-2. Stały punkt sprzedaży dziennika urzędowego jest prowadzony wsiedzibie urzędu wojewódzkiego idelegatury urzędu wojewódzkiego. Stałe punkty sprzedaży mogą być prowadzone również wsiedzibach organów samorządu terytorialnego, atakże winnych miejscach, stosownie do miejscowych potrzeb.
-idelegatury urzędu wojewódzkiego.
-4. Redakcje publikują przepisy porządkowe, o których mowa w art. 14, lub ich uzgodnione omówienia bezpłatnie, wsposób zapewniający ich największą dostępność.
-26.Urzędy terenowych organów administracji rządowej oraz organów samorządu terytorialnego prowadzą zbiory Dziennika Ustaw, Monitora Polskiego oraz Monitora Polskiego Biudostępniają je nieodpłatnie do powszechnego wglądu w miejscach do tego przeznaczonych w siedzibach i w godzinach pracy urzędu.
-27. 1. Organy wydające dzienniki urzędowe prowadzą zbiory tych dzienników.
-2. Do każdego rocznika dzienników urzędowych, o których mowa w ust. 1, wydaje się skorowidz za rok ubiegły wterminie do dnia 31 marca.
-3. Zbiory dzienników urzędowych wraz ze skorowidzami są wyłożone wsiedzibach organów wydających dzienniki urzędowe do nieodpłatnego, powszechnego wglądu, w godzinach pracy urzędu oraz w miejscu do tego przeznaczonym ipowszechnie dostępnym.
-4. W zakresie udostępniania do wglądu zbiorów dzienników urzędowych zaktami prawnymi zawierającymi informacje niejawne stosuje się przepisy oochronie informacji niejawnych.
-28. 1. Starostwo powiatowe gromadzi i udostępnia zbiór aktów prawa miejscowego ustanowionych przez powiat.
-2. Urząd gminy prowadzi zbiór przepisów gminnych dostępny do powszechnego wglądu w jego siedzibie.
-3. Przepisy art. 27 ust. 3 i 4 stosuje się odpowiednio.
-29. Przepisy art. 8, art. 12, art. 16 ust. 3, art. 17 ust. 4, art. 22 ust. 1 i 2, art. 24 oraz art. 27, w zakresie odnoszącym się do ministrów kierujących działami administracji rządowej, stosuje się do przewodniczących określonych w ustawach komitetów, będących członkami Rady Ministrów.
-30. W ustawie z dnia 31 stycznia 1980 r.
-oochronie ikształtowaniu środowiska (Dz. U. z1994 r.
-49, poz. 196, z1995 r. 90, poz. 446, z1996 r. Nr106, poz. 496 i 132, poz. 622, z 1997 r. 46, poz. 296, 96, poz. 592, 121, poz. 770 i 133, poz. 885, z 1998 r. 106, poz. 668, z 1999 r. 101, poz. 1178 oraz z 2000 r. 12, poz. 136 i 48, poz. 550) wart.88hwust. 4 wyrazy ŃMonitor Polski” zastępuje się wyrazami ŃMonitor Polski B”.
-31. Wustawie zdnia 26 lutego 1982 r. ocenach z 1997 r. 54, poz. 348 i 160, poz. 1085, z 1998 r.
-106, poz. 668 oraz z 2000 r. 12, poz. 136) skreśla się art. 24.
-32. W ustawie z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z1996 r. 13, poz. 74, 58, poz. 261, 106, poz. 496 i 132, poz. 622, z 1997 r.
-9, poz. 43, 106, poz. 679, 107, poz. 686, 113, poz. 734 i 123, poz. 775, z 1998 r. 155, poz. 1014 iNr 162, poz. 1126 oraz z2000 r. 26, poz. 306 i 48, poz. 552) wprowadza się następujące zmiany:
-1) tytuł rozdziału 4 otrzymuje brzmienie: ŃAkty prawa miejscowego stanowionego przez gminę”;
-2) wart. 40:
-a) wust. 1 wyrazy Ńprzepisów powszechnie” zastępuje się wyrazami Ńaktów prawa miejscowego” (Dz. U. z1988 r. 27, poz. 195, z1990 r. 34, poz. 198, oraz skreśla się wyrazy Ń , zwanych dalej przepisami gminnymi”,
-b) w ust. 2 w zdaniu wstępnym wyrazy Ńprzepisy gminne” zastępuje się wyrazami Ńakty prawa miejscowego”;
-3) wart. 41 wust. 1 wyrazy ŃPrzepisy gminne” zastępuje się wyrazami ŃAkty prawa miejscowego”;
-4) art. 42 otrzymuje brzmienie: ŃArt. 42. Zasady i tryb ogłaszania aktów prawa miejscowego określa ustawa zdnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych iniektórych innych aktów prawnych (Dz. U. 62, poz. 718).”;
-5) wart. 61 wust. 2 wyrazy Ńprzepisów gminnych” zastępuje się wyrazami Ńaktów prawa miejscowego”.
-33. Wustawie zdnia 23 listopada 1990 r. ołączności (Dz. U. z1995 r. 117, poz. 564, z1996 r. 106, poz. 496, z 1997 r. 43, poz. 272, 88, poz. 554, 106, poz. 675, 121, poz. 770 i 137, poz. 926, z1998 r. 137, poz. 887 iNr 150, poz. 984 oraz z1999r.
-47, poz. 461) skreśla się rozdział 5.
-34.Wustawie zdnia 12 stycznia 1991 r. outworzeniu Komitetu Badań Naukowych (Dz. U. 8, poz. 28, z 1993 r. 52, poz. 240, z 1995 r. 30, poz. 152, z 1996 r. 106, poz. 496, z 1997 r. 24, poz. 118, 75, poz. 469, 80, poz. 500, 96, poz. 590 i 121, poz. 770 oraz z 1998 r. 106, poz.668) dodaje się art. 16awbrzmieniu: ŃArt. 16a. W Dzienniku Urzędowym Komitetu Badań Naukowych ogłasza się uchwały Komitetu Badań Naukowych dotyczące przyznawania środków finansowych ustalonych w budżecie państwa na naukę.” iz1999 r. 101, poz. 1177) wart. 8:
-1) dotychczasową treść oznacza się jako ust. 1;
-2) dodaje się ust. 2 wbrzmieniu: Ń2. Przepis ust. 1 nie ma zastosowania do postanowień Prezydenta o nadaniu Medalu Za Długoletnie Pożycie Małżeńskie.”
-36. W ustawie z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. 140, poz. 938, z 1998 r. 160, poz. 1063 i z 2000 r. 53, poz. 648) wprowadza się następujące zmiany:
-1) skreśla się art. 45;
-2) art. 53 otrzymuje brzmienie: ŃArt. 53. Założenia polityki pieniężnej, sprawozdanie z wykonania założeń polityki pieniężnej oraz akty normatywne organów NBP i Komisji z wyjątkiem aktów, o których mowa wart. 54 ust. 1 pkt 1 iust. 2 ogłaszane są wDzienniku Urzędowym Rzeczypospolitej Polskiej «Monitor Polski».”;
-3) art. 54 otrzymuje brzmienie: ŃArt. 54. 1. Prezes NBP wydaje Urzędowy Narodowego Banku Polskiego, w którym ogłasza się:
-1) akty organów NBP iKomisji dotyczące funkcjonowania banków,
-2) bilans oraz rachunek zysków i strat NBP,
-3) obwieszczenia w sprawie utworzenia, likwidacji i upadłości banku oraz przejęcia banku przez inny bank.
-2. Prezes NBP może skierować do ogłoszenia również inne niż określone w ust. 1 akty prawne iobwieszczenia.”;
-4) dodaje się art. 54awbrzmieniu: ŃArt. 54a. 1. Nazwa oraz wzór graficzny pierwszej strony Dziennika Urzędowego Narodowego Banku Polskiego nie mogą być wykorzystywane przez inne niż NBP podmioty wcelach zarobkowych w publikacjach, wydawnictwach lub innych formach upowszechniania aktów prawnych.
-2. Do wydawania Dziennika Urzędowego Narodowego Banku Polskiego i ogłaszania w nim aktów prawnych stosuje się odpowiednio przepisy art.
-i niektórych innych aktów prawnych (Dz. U. 62, poz. 718).”
-37.Wustawie zdnia 4 września 1997 r. odziałach administracji rządowej (Dz. U. z 1999 r. 82, poz. 928 oraz z 2000 r. 12, poz. 136, 43, poz. 489 iNr 48, poz. 550) skreśla się art. 95.
-38.Wustawie zdnia 5 czerwca 1998 r. osamorządzie województwa (Dz. U. 91, poz. 576, 155, poz. 1014, 160, poz. 1060 i 162, poz. 1126 oraz z2000 r. 12, poz. 136,Nr 26, poz. 306 i 48, poz.550 i 552) wprowadza się następujące zmiany:
-1) w art. 7 w ust. 2 skreśla się wyrazy Ńoraz w Dzienniku Urzędowym Rzeczypospolitej Polskiej «Monitor Polski»”;
-2) wart. 89:
-a) ust. 4 otrzymuje brzmienie: Ń4. Zasady i tryb ogłaszania aktów prawa miejscowego oraz wydawania wojewódzkiego dziennika urzędowego określa ustawa zdnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. 62, poz. 718).”,
-b) skreśla się ust. 5.
-39.Wustawie zdnia 5 czerwca 1998 r. oadministracji rządowej w województwie (Dz. U. 91, poz. 577, z 1999 r. 70, poz. 778 oraz z 2000 r. 12, poz. 136,Nr 22, poz. 268 i 48, poz. 550 i 552) wprowadza się następujące zmiany:
-1) art. 42 otrzymuje brzmienie: ŃArt. 42. Zasady i tryb ogłaszania aktów prawa miejscowego oraz wydawania wojewódzkiego dziennika urzędowego określa ustawa zdnia 20 lipca 2000 r. oogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. 62, poz. 718).”;
-2) skreśla się art. 43.
-40. Wustawie zdnia 5 czerwca 1998 r. osamorządzie powiatowym (Dz. U. 91, poz. 578 i 155, poz. 1014 oraz z2000 r. 12, poz. 136,Nr 26, poz. 306 iNr 48, poz. 552) wprowadza się następujące zmiany:
-1) wart. 43 skreśla się ust. 1, 3 i4;
-2) art. 44 otrzymuje brzmienie: ŃArt. 44. Zasady i tryb ogłaszania aktów prawa miejscowego oraz wydawania wojewódzkiego dziennika urzędowego określa ustawa zdnia 20 lipca 2000 r. oogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. 62, poz. 718).”;
-3, art. 4, art. 6, art. 7, art. 15—20 i art. 3) skreśla się art. 45.
-mienionych wtych upoważnieniach, zawarte waktach skiej iDziennika Urzędowego Rzeczypospolitej Polskiej normatywnych wydanych przed dniem wejścia wżycie ŃMonitor Polski” (Dz. U. 58, poz. 524, z1991 r. 94, ustawy. poz. 420 iz1993 r. 7, poz. 34).
-42. W okresie od dnia wejścia w życie ustawy 44.Ustawa wchodzi wżycie zdniem 1 stycznia do dnia wypełnienia obowiązku wydawania dziennika 2001 r.
-urzędowego, októrym mowa wart. 22, akty iorzeczenia określone wart. 12 są ogłaszane wMonitorze Polskim. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski Na podstawie art. 19 ust. 4 ustawy z dnia 26 paê- 1) ustawie należy przez to rozumieć ustawę z dnia dziernika 1995 r. o niektórych formach popierania bu- 26 paêdziernika 1995 r. oniektórych formach popiedownictwa mieszkaniowego (Dz. U. 133, poz. 654, rania budownictwa mieszkaniowego, z 1996 r. 106, poz. 496 i 156, poz. 775, z 1997 r. 2) kredycie należy przez to rozumieć kredyt udzie80, poz. 507, 103, poz. 651, 115, poz. 741, lony ze środków Funduszu na realizację przedsię140, poz. 939 i 141, poz. 943, z 1998 r. 162, wzięcia inwestycyjno-budowlanego lub komunalpoz. 1121, z 1999 r. 108, poz. 1226 oraz z 2000 r. nej infrastruktury technicznej, Nr48, poz. 550 i 50, poz. 581) zarządza się, co następuje: 3) pożyczce należy przez to rozumieć pożyczkę udzieloną ze środków Funduszu,zprzeznaczeniem
-1) warunki itryb udzielania oraz spłaty kredytów ipożyczek ze środków Krajowego Funduszu Mieszka- Rozdział 2 niowego, zwanego dalej ŃFunduszem”, oraz wysokość ich oprocentowania, a także rodzaje doku- Warunki itryb udzielania oraz spłaty kredytów mentów składanych przez wnioskodawców, § 3. Kredyt może być udzielony:
-2) wymagania dotyczące lokali ibudynków budowanych, odbudowywanych, rozbudowywanych, 1) towarzystwu budownictwa społecznego oraz spółprzebudowywanych lub adaptowanych przy wy- dzielni mieszkaniowej na realizację przedsiękorzystaniu kredytu ze środków Funduszu w za- wzięć inwestycyjno-budowlanych, kresie właściwości energetycznych budynków, 2) gminie na realizację komunalnej infrastruktury minimalnych powierzchni mieszkań przeznaczo- technicznej towarzyszącej budownictwu mieszkanych do zasiedlenia przez określoną liczbę osób niowemu.
-oraz wyposażenia technicznego budynków imieszkań. § 4. 1. Wniosek o udzielenie kredytu jest składany § 2. Ilekroć wrozporządzeniu jest mowa o: w Banku Gospodarstwa Krajowego, zwanym dalej ŃBankiem”.
-719 ROZPORZÑDZENIE RADY MINISTRÓW zdnia 4 lipca 2000 r.
-wsprawie warunków itrybu udzielania kredytów ipożyczek ze środków Krajowego Funduszu Mieszkaniowego oraz niektórych wymagań dotyczących lokali ibudynków finansowanych przy udziale tych środków.
+**Art. 1.**
 
-#### Rozdział 1 na utrzymanie bieżącej płynności płatniczej kasy mieszkaniowej, Przepisy ogólne 4) przedsięwzięciu inwestycyjno-budowlanym należy przez to rozumieć przedsięwzięcie, o którym § 1. Rozporządzenie określa: mowa wart. 19 ust. 1 i2 ustawy.
+1. Ustawa określa zasady i tryb ogłaszania aktów normatywnych i niektórych innych aktów prawnych oraz zasady i tryb wydawania dzienników urzędowych.
+
+2. Zasady i tryb ogłaszania umów międzynarodowych, a także układów zbiorowych pracy określają odrębne ustawy.
+
+3. Zasady i tryb ogłaszania aktów normatywnych i niektórych aktów prawnych Unii Europejskiej oraz zasady i tryb wydawania Dziennika Urzędowego Unii Europejskiej, zwanego dalej „Dziennikiem UE”, określają przepisy Unii Europejskiej.
+
+**Art. 2.**
+
+1. Ogłoszenie aktu normatywnego w dzienniku urzędowym jest obowiązkowe.
+
+2. Odrębna ustawa może wyłączyć obowiązek ogłoszenia aktu normatywnego niezawierającego przepisów powszechnie obowiązujących.
+
+**Art. 2a.**
+
+1. Akty normatywne i inne akty prawne podlegające ogłoszeniu ogłasza się w formie dokumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2019 r. poz. 700, 730 i 848), chyba że ustawa stanowi inaczej.
+
+2. Dzienniki urzędowe wydaje się w postaci elektronicznej, chyba że ustawa stanowi inaczej.
+
+3. Dla każdego dziennika urzędowego wydawanego w postaci elektronicznej organ wydający prowadzi odrębną stronę internetową.
+
+**Art. 3.** Akty normatywne ogłasza się niezwłocznie.
+
+**Art. 4.**
+
+1. Akty normatywne, zawierające przepisy powszechnie obowiązujące, ogłaszane w dziennikach urzędowych wchodzą w życie po upływie czternastu dni od dnia ich ogłoszenia, chyba że dany akt normatywny określi termin dłuższy.
+
+2. W uzasadnionych przypadkach akty normatywne, z zastrzeżeniem ust. 3, mogą wchodzić w życie w terminie krótszym niż czternaście dni, a jeżeli ważny interes państwa wymaga natychmiastowego wejścia w życie aktu normatywnego i zasady demokratycznego państwa prawnego nie stoją temu na przeszkodzie, dniem wejścia w życie może być dzień ogłoszenia tego aktu w dzienniku urzędowym.
+
+3. Przepisy porządkowe wchodzą w życie po upływie trzech dni od dnia ich ogłoszenia. W uzasadnionych przypadkach przepisy porządkowe mogą wchodzić w życie w terminie krótszym niż trzy dni, a jeżeli zwłoka w wejściu w życie przepisów porządkowych mogłaby spowodować nieodwracalne szkody lub poważne zagrożenia życia, zdrowia lub mienia, można zarządzić wejście w życie takich przepisów z dniem ich ogłoszenia.
+
+**Art. 5.** Przepisy art. 4 nie wyłączają możliwości nadania aktowi normatywnemu wstecznej mocy obowiązującej, jeżeli zasady demokratycznego państwa prawnego nie stoją temu na przeszkodzie.
+
+**Art. 6.**
+
+1. Przy obliczaniu terminu wejścia w życie aktu normatywnego określonego w dniach nie uwzględnia się dnia ogłoszenia, z wyjątkiem przypadków, gdy akt normatywny wchodzi w życie z dniem ogłoszenia.
+
+2. Terminy wejścia w życie aktu normatywnego określone w tygodniach, miesiącach lub latach kończą się z upływem dnia, który nazwą lub datą odpowiada dniu ogłoszenia, a gdyby takiego dnia w ostatnim miesiącu nie było – w ostatnim dniu tego miesiąca.
+
+**Art. 7.** Akty normatywne wydawane na podstawie ustaw można ogłaszać w okresie od dnia ogłoszenia danej ustawy, a przed dniem jej wejścia w życie; akt taki nie może wejść w życie wcześniej niż ustawa.
+
+**Art. 8.** Dziennikami urzędowymi w rozumieniu ustawy są: Dziennik Ustaw Rzeczypospolitej Polskiej, Dziennik Urzędowy Rzeczypospolitej Polskiej „Monitor Polski”, dzienniki urzędowe ministrów kierujących działami administracji rządowej, dzienniki urzędowe urzędów centralnych, Dziennik Urzędowy Komisji Nadzoru Finansowego oraz wojewódzkie dzienniki urzędowe.
+
+**Art. 9.**
+
+1. W Dzienniku Ustaw Rzeczypospolitej Polskiej, zwanym dalej „Dziennikiem Ustaw”, ogłasza się:
+
+- **1)** Konstytucję;
+- **2)** ustawy;
+- **3)** rozporządzenia z mocą ustawy wydane przez Prezydenta Rzeczypospolitej Polskiej;
+- **4)** rozporządzenia wydane przez Prezydenta Rzeczypospolitej Polskiej, Radę Ministrów, Prezesa Rady Ministrów, ministrów kierujących działami administracji rządowej, przewodniczących określonych w ustawach komitetów, będących członkami Rady Ministrów, oraz Krajową Radę Radiofonii i Telewizji;
+- **5)** teksty jednolite aktów określonych w pkt 1–4;
+- **6)** orzeczenia Trybunału Konstytucyjnego dotyczące aktów normatywnych ogłoszonych w Dzienniku Ustaw;
+- **7)** uchwały Rady Ministrów uchylające rozporządzenie ministra.
+
+2. W Dzienniku Ustaw ogłasza się również akty prawne dotyczące:
+
+- **1)** stanu wojny i zawarcia pokoju;
+- **2)** referendum ogólnokrajowego, w tym referendum zatwierdzającego zmianę Konstytucji;
+- **2a)** skrócenia kadencji Sejmu;
+- **3)** wyborów do i Senatu;
+- **4)** wyborów Prezydenta Rzeczypospolitej Polskiej;
+- **5)** powszechnej lub częściowej mobilizacji i użycia Sił Zbrojnych do obrony Rzeczypospolitej Polskiej;
+- **6)** stanu wojennego;
+- **7)** stanu wyjątkowego;
+- **8)** stanu klęski żywiołowej;
+- **9)** ważności wyboru Prezydenta Rzeczypospolitej Polskiej, wyborów do i Senatu, wyborów do Parlamentu Europejskiego oraz ważności referendum ogólnokrajowego, w tym referendum zatwierdzającego zmianę Konstytucji.
+
+3. W Dzienniku Ustaw ogłasza się ponadto inne akty prawne, jeżeli odrębne ustawy tak stanowią.
+
+**Art. 10.**
+
+1. W Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, zwanym dalej „Monitorem Polskim”, ogłasza się:
+
+- **1)** zarządzenia Prezydenta Rzeczypospolitej Polskiej wydane na podstawie ustawy;
+- **2)** uchwały Rady Ministrów i zarządzenia Prezesa Rady Ministrów, wydane na podstawie ustawy;
+- **3)** teksty jednolite aktów określonych w pkt 1 i 2;
+- **4)** orzeczenia Trybunału Konstytucyjnego dotyczące aktów normatywnych ogłoszonych w Monitorze Polskim lub aktów normatywnych, które nie były ogłoszone.
+
+2. W Monitorze Polskim ogłasza się również:
+
+- **1)** uchwały Zgromadzenia Narodowego dotyczące:
+    - **a)** regulaminu Zgromadzenia Narodowego,
+    - **b)** uznania trwałej niezdolności Prezydenta Rzeczypospolitej Polskiej do sprawowania urzędu ze względu na stan zdrowia,
+    - **c)** postawienia Prezydenta Rzeczypospolitej Polskiej w stan oskarżenia przed Trybunałem Stanu;
+
+- **2)** uchwały dotyczące:
+    - **a)** regulaminu Sejmu,
+    - **b)** (uchylona)
+    - **c)** uchwalenia wotum zaufania Radzie Ministrów oraz absolutorium dla Rady Ministrów,
+    - **d)** uchwalenia wotum nieufności Radzie Ministrów lub ministrowi,
+    - **e)** pociągnięcia do odpowiedzialności przed Trybunałem Stanu,
+    - **f)** rozwiązania organu stanowiącego jednostki samorządu terytorialnego,
+    - **g)** wyboru, powoływania lub odwoływania na określone w Konstytucji lub ustawach stanowiska państwowe; uchwałę o powołaniu lub odwołaniu wymagającym zgody Senatu ogłasza się po wyrażeniu takiej zgody;
+
+- **3)** uchwały Senatu dotyczące:
+    - **a)** regulaminu Senatu,
+    - **b)** wyboru, powoływania, odwoływania, a także wyrażenia zgody na powoływanie lub odwoływanie przez Sejm na określone w Konstytucji lub ustawach stanowiska państwowe;
+
+- **4)** akty urzędowe Prezydenta Rzeczypospolitej Polskiej dotyczące:
+    - **a)** zwoływania pierwszego posiedzenia nowo wybranych i Senatu,
+    - **b)** (uchylona)
+    - **c)** zrzeczenia się urzędu Prezydenta Rzeczypospolitej Polskiej,
+    - **d)** desygnowania i powoływania Prezesa Rady Ministrów oraz Rady Ministrów,
+    - **e)** przyjmowania dymisji Rady Ministrów i powierzania jej tymczasowego pełnienia obowiązków,
+    - **f)** dokonywania zmian w składzie Rady Ministrów na wniosek Prezesa Rady Ministrów,
+    - **g)** odwoływania ministra, któremu Sejm wyraził wotum nieufności,
+    - **h)** powoływania lub odwoływania na określone w Konstytucji i ustawach stanowiska państwowe,
+    - **i)** powoływania sędziów,
+    - **j)** nadawania tytułu naukowego profesora i tytułu profesora sztuki,
+    - **k)** mianowania na stopień generała i równorzędny,
+    - **l)** nadawania statutu Kancelarii Prezydenta Rzeczypospolitej Polskiej;
+    - **m)** (uchylona)
+
+- **5)** postanowienia Trybunału Konstytucyjnego o stwierdzeniu przeszkody w sprawowaniu urzędu przez Prezydenta Rzeczypospolitej Polskiej oraz powierzeniu Marszałkowi tymczasowego wykonywania obowiązków Prezydenta Rzeczypospolitej Polskiej;
+- **6)** postanowienia Trybunału Konstytucyjnego w sprawach sporów kompetencyjnych pomiędzy centralnymi konstytucyjnymi organami państwa.
+
+3. W Monitorze Polskim ogłasza się uchwały i Senatu oraz Zgromadzenia Narodowego inne niż wymienione w ust. 2, wyroki Trybunału Stanu, a także postanowienia Marszałka Sejmu, jeżeli ich ogłoszenie w Monitorze Polskim jest przewidziane w tych uchwałach lub postanowieniach albo jeżeli odrębne ustawy tak stanowią.
+
+4. W Monitorze Polskim ogłasza się również inne akty prawne, a także ogłoszenia, obwieszczenia i komunikaty organów, instytucji i osób, jeżeli odrębne ustawy tak stanowią.
+
+5. Prezes Rady Ministrów może zarządzić:
+
+- **1)** ogłoszenie w Monitorze Polskim również innych niż określone w art. 9 oraz w ust. 1 aktów prawnych;
+- **2)** ogłoszenie innych niż określone w ust. 2 aktów prawnych, ogłoszeń i obwieszczeń.
+
+**Art. 11.** (uchylony)
+
+**Art. 12.**
+
+1. W dziennikach urzędowych ministrów kierujących działami administracji rządowej oraz w dziennikach urzędowych urzędów centralnych ogłasza się:
+
+- **1)** akty normatywne organu wydającego dziennik urzędowy i nadzorowanych przez niego urzędów centralnych;
+- **2)** uchwały Rady Ministrów uchylające zarządzenia ministra wydającego dziennik urzędowy;
+- **3)** orzeczenia Trybunału Konstytucyjnego w sprawach aktów normatywnych, o których mowa w pkt 1 i 2;
+- **4)** ogłoszenia sądowe, jeżeli tak stanowią inne ustawy.
+
+1a. W Dzienniku Urzędowym Komisji Nadzoru Finansowego ogłasza się:
+
+- **1)** uchwały i decyzje Komisji Nadzoru Finansowego,
+- **2)** obwieszczenia, ogłoszenia, komunikaty oraz inne akty lub dokumenty,
+- **3)** rejestry (listy) – jeżeli przepisy odrębne tak stanowią.
+
+1b. W przypadku gdy z przepisów odrębnych nie wynika obowiązek ogłoszenia uchwały Komisji Nadzoru Finansowego w Dzienniku Urzędowym Komisji Nadzoru Finansowego, Komisja Nadzoru Finansowego może zdecydować o ogłoszeniu podjętej uchwały w Dzienniku Urzędowym Komisji Nadzoru Finansowego.
+
+1c. Przewodniczący Komisji Nadzoru Finansowego może skierować do ogłoszenia również inne niż określone w ust. 1a obwieszczenia, ogłoszenia lub komunikaty, o ile są związane z zadaniami organów Urzędu Komisji Nadzoru Finansowego.
+
+2. W dziennikach urzędowych, o których mowa w ust. 1, mogą być publikowane informacje, komunikaty, obwieszczenia i ogłoszenia organów wymienionych w ust. 1 pkt 1.
+
+3. W dziennikach urzędowych nie zamieszcza się aktów prawnych, które podlegają ogłoszeniu w Dzienniku Ustaw lub Monitorze Polskim, jak również, z zastrzeżeniem ust. 1 pkt 1, aktów prawnych organów innych niż ten, który wydaje dziennik urzędowy.
+
+**Art. 13.** W wojewódzkim dzienniku urzędowym ogłasza się:
+
+**Art. 14.**
+
+1. Przepisy porządkowe ogłasza się w drodze obwieszczeń, a także w sposób zwyczajowo przyjęty na danym terenie lub w środkach masowego przekazu.
+
+2. Za dzień ogłoszenia przepisów porządkowych uważa się dzień wskazany w obwieszczeniu.
+
+3. Ogłoszenie przepisów porządkowych w sposób określony w ust. 1 nie zwalnia z obowiązku ich ogłoszenia w wojewódzkim dzienniku urzędowym.
+
+**Art. 15.**
+
+1. Podstawą do ogłoszenia aktu normatywnego lub innego aktu prawnego jest akt w formie dokumentu elektronicznego opatrzony kwalifikowanym podpisem elektronicznym przez upoważniony do wydania aktu organ.
+
+2. (uchylony)
+
+3. Jeżeli rozporządzenie jest wydawane w porozumieniu z innym organem, podpisu tego organu nie zamieszcza się w tekście rozporządzenia ogłaszanym w dzienniku urzędowym.
+
+4. Podstawą do ogłoszenia orzeczenia jest jego odpis w formie dokumentu elektronicznego, który w swojej treści zawiera poświadczenie zgodności z oryginałem oraz jest opatrzony przez osobę upoważnioną do sporządzenia odpisu orzeczenia kwalifikowanym podpisem elektronicznym, a także odpis tego orzeczenia w postaci papierowej.
+
+5. W przypadku orzeczenia poświadczenie zgodności z oryginałem, o którym mowa w ust. 4, obejmuje także oznaczenie organu oraz imiona i nazwiska członków składu orzekającego, który wydał i podpisał orzeczenie, a także wzmiankę o zgłoszeniu przez danego sędziego zdania odrębnego, w przypadku jego zgłoszenia.
+
+6. Przepisy ust. 4 i 5 stosuje się odpowiednio do aktów prawnych, o których mowa w art. 9 ust. 2 pkt 9, a także do uchwał i obwieszczeń Państwowej Komisji Wyborczej oraz protokołów terytorialnych komisji do spraw referendum.
+
+7. W przypadku ogłoszenia aktu normatywnego lub innego aktu prawnego w formie dokumentu elektronicznego wiza organu wydającego dziennik urzędowy nadawana przy skierowaniu aktu do ogłoszenia jest opatrzona kwalifikowanym podpisem elektronicznym organu wydającego dziennik urzędowy.
+
+**Art. 16.**
+
+1. Marszałek ogłasza tekst jednolity ustawy nie rzadziej niż raz na 12 miesięcy, jeżeli była ona nowelizowana. Ustawa może określić termin ogłoszenia tekstu jednolitego.
+
+2. Rządowe Centrum Legislacji oraz organy administracji rządowej współdziałają z Marszałkiem przy opracowywaniu tekstów jednolitych ustaw.
+
+3. Teksty jednolite aktów normatywnych innych niż ustawa ogłasza organ właściwy do wydania aktu normatywnego, a w przypadku:
+
+- **1)** regulaminów i Senatu – odpowiednio Marszałek i Marszałek Senatu;
+- **2)** aktów normatywnych Rady Ministrów – Prezes Rady Ministrów;
+- **3)** aktów normatywnych Krajowej Rady Radiofonii i Telewizji – Przewodniczący Krajowej Rady Radiofonii i Telewizji. Tekst jednolity aktu normatywnego innego niż ustawa ogłasza się nie rzadziej niż raz na 12 miesięcy, jeżeli był on nowelizowany. Akt normatywny może określić termin ogłoszenia tekstu jednolitego.
+
+4. Tekst jednolity ogłasza się w formie obwieszczenia w dzienniku urzędowym, w którym dany akt normatywny ogłoszono.
+
+**Art. 17.**
+
+1. Błędy w ogłoszonym tekście aktu prawnego prostuje się w formie obwieszczenia. Sprostowanie nie może prowadzić do merytorycznej zmiany tekstu aktu prawnego.
+
+2. Sprostowanie błędu ogłasza się w tym samym dzienniku urzędowym, w którym ogłoszono prostowany akt.
+
+2a. Błędy w tekstach ustaw prostuje Marszałek Sejmu.
+
+2b. Błędy w tekście umowy międzynarodowej, w tekście tłumaczenia umowy międzynarodowej na język polski lub w tekście oświadczenia rządowego dotyczącego tej umowy prostuje minister, który występował z wnioskiem o ogłoszenie tej umowy w dzienniku urzędowym.
+
+3. Prezes Rady Ministrów, z własnej inicjatywy lub na wniosek właściwego organu, prostuje błędy w tekstach aktów innych niż wymienione w ust. 2a i 2b, ogłoszonych w Dzienniku Ustaw i Monitorze Polskim.
+
+4. Organy wydające dzienniki urzędowe inne niż wymienione w ust. 3 prostują błędy w tekstach aktów prawnych ogłoszonych w tych dziennikach.
+
+**Art. 18.**
+
+1. Błędy w tekście jednolitym aktu normatywnego polegające na niezgodności jego tekstu ogłoszonego w dzienniku urzędowym z tekstem aktu uwzględniającym wszystkie zmiany dokonane do czasu ogłoszenia tekstu jednolitego prostuje się w formie obwieszczenia.
+
+2. Sprostowania błędu w tekście jednolitym aktu prawnego dokonuje organ, który ogłosił tekst jednolity. Przepis art. 17 ust. 2 stosuje się odpowiednio.
+
+**Art. 19.** (uchylony)
+
+**Art. 20.**
+
+1. Dziennik urzędowy wydaje się z zachowaniem kolejności pozycji w danym roku kalendarzowym.
+
+2. Dniem ogłoszenia aktu jest dzień jego ogłoszenia w postaci elektronicznej na stronie internetowej organu wydającego dziennik urzędowy.
+
+3. Dzień ogłoszenia aktu w postaci elektronicznej umieszcza się w obrębie nagłówka strony.
+
+4. (uchylony)
+
+**Art. 20a.** (uchylony)
+
+**Art. 20b.**
+
+1. Organ wydający dziennik urzędowy przechowuje akty normatywne i inne akty prawne ogłoszone w tym dzienniku w formie dokumentów elektronicznych, o których mowa w art. 15 ust. 1 i 4.
+
+2. (uchylony)
+
+3. Organ wydający Dziennik Ustaw i Monitor Polski przechowuje po jednym egzemplarzu każdego z tych dzienników również w formie ich wydruków, poświadczonych za zgodność z oryginałem przez ten organ.
+
+4. Organ wydający Dziennik Ustaw i Monitor Polski przekazuje po jednym egzemplarzu każdego z tych dzienników w formie wydruków, o których mowa w ust. 3, Prezydentowi Rzeczypospolitej Polskiej, Marszałkowi oraz Bibliotece Narodowej w celu ich przechowywania.
+
+5. Dzienniki w formie wydruków, o których mowa w ust. 3, oraz oryginały aktów, o których mowa w ust. 2, przechowuje się wieczyście.
+
+**Art. 20c.** (uchylony)
+
+**Art. 21.**
+
+1. Prezes Rady Ministrów wydaje:
+
+- **1)** Dziennik Ustaw i Monitor Polski przy pomocy Rządowego Centrum Legislacji, przy czym Rządowe Centrum Legislacji może zlecić wyspecjalizowanym podmiotom niektóre czynności związane z wydawaniem tych dzienników w sposób, o którym mowa w art. 2a ust. 2.
+- **2)** (uchylony)
+
+2. (uchylony)
+
+**Art. 22.**
+
+1. Ministrowie kierujący działami administracji rządowej oraz kierownicy urzędów centralnych wydają dzienniki urzędowe.
+
+1a. Przewodniczący Komisji Nadzoru Finansowego wydaje Dziennik Urzędowy Komisji Nadzoru Finansowego.
+
+2. Każdy z organów wymienionych w ust. 1 może wydawać tylko jeden dziennik urzędowy, z uwzględnieniem ust. 5.
+
+3. Prezes Rady Ministrów może postanowić o wydawaniu wspólnego dziennika urzędowego dwóch lub więcej ministrów kierujących działami administracji rządowej oraz wspólnego dziennika urzędów centralnych podległych Prezesowi Rady Ministrów.
+
+4. Minister może postanowić o wydawaniu wspólnego dziennika urzędowego z urzędem centralnym nadzorowanym przez niego.
+
+5. Minister Obrony Narodowej, minister właściwy do spraw wewnętrznych, minister właściwy do spraw zagranicznych, Szef Agencji Bezpieczeństwa Wewnętrznego, Szef Agencji Wywiadu lub Szef Centralnego Biura Antykorupcyjnego wydają w postaci papierowej, w razie potrzeby, wyodrębnioną edycję dziennika urzędowego z aktami prawnymi zawierającymi informacje niejawne.
+
+**Art. 23.** Wojewoda wydaje wojewódzki dziennik urzędowy.
+
+**Art. 23a.**
+
+1. W przypadku braku możliwości ogłoszenia aktu prawnego w postaci elektronicznej z powodu nadzwyczajnych okoliczności, organ wydający dziennik urzędowy ogłasza go w postaci papierowej do czasu ustąpienia tych okoliczności.
+
+2. W przypadku, o którym mowa w ust. 1, stosuje się odpowiednio przepisy dotyczące wydawania dzienników urzędowych w postaci elektronicznej, z tym że:
+
+- **1)** podstawą do ogłoszenia może być akt prawny w postaci papierowej, podpisany przez upoważniony do jego wydania organ i opatrzony pieczęcią urzędową tego organu;
+- **2)** organ wydający dziennik urzędowy ustala warunki wydawania i rozpowszechniania dziennika, tak aby dziennik urzędowy mógł być powszechnie i nieodpłatnie dostępny;
+- **3)** dniem ogłoszenia aktu prawnego jest dzień udostępnienia dziennika w sposób, o którym mowa w pkt 2.
+
+3. Po ustąpieniu okoliczności, o których mowa w ust. 1, organ wydający udostępnia ten akt w postaci elektronicznej.
+
+**Art. 24.**
+
+1. Nazwy Dziennik Ustaw i Monitor Polski oraz wzory graficzne winiet tych dzienników mogą być wykorzystywane jedynie przez organ wydający te dzienniki. Winieta obejmuje w szczególności nazwę dziennika urzędowego, wizerunek orła w koronie oraz miejsce i dzień ogłoszenia aktu prawnego.
+
+2. Nazwy oraz wzory graficzne winiet dzienników, o których mowa w ust. 1, nie mogą być wykorzystywane przez inne podmioty, w szczególności w celach handlowych w publikacjach, wydawnictwach lub innych formach upowszechniania aktów prawnych.
+
+3. Przepisy ust. 1 i 2 stosuje się odpowiednio do dzienników urzędowych, o których mowa w art. 22 ust. 1, 1a, 3 i 4, oraz wojewódzkich dzienników urzędowych.
+
+4. Prezes Rady Ministrów określi, w drodze rozporządzenia:
+
+- **1)** wzory graficzne winiet Dziennika Ustaw, Monitora Polskiego, dzienników urzędowych, o których mowa w art. 22 ust. 1, 1a, 3 i 4, oraz wojewódzkiego dziennika urzędowego, z uwzględnieniem jednolitości tych wzorów oraz cech wyróżniających dzienniki urzędowe spośród innych wydawnictw.
+- **2)** (uchylony)
+
+**Art. 25.**
+
+1. (uchylony)
+
+2. (uchylony)
+
+3. (uchylony)
+
+4. Redakcje w rozumieniu przepisów ustawy z dnia 26 stycznia 1984 r. – Prawo prasowe (Dz. U. z 2018 r. poz. 1914) publikują przepisy porządkowe, o których mowa w art. 14, lub ich uzgodnione omówienia bezpłatnie, w sposób zapewniający ich największą dostępność.
+
+**Art. 26.**
+
+1. Terenowe organy administracji rządowej oraz organy samorządu terytorialnego udostępniają nieodpłatnie Dziennik Ustaw i Monitor Polski lub zawarte w nich akty normatywne i inne akty prawne, w tym orzeczenia:
+
+- **1)** do wglądu i do pobrania w formie dokumentu elektronicznego;
+- **2)** w postaci elektronicznej do powszechnego wglądu w godzinach pracy urzędów obsługujących te organy, w miejscu do tego przeznaczonym i powszechnie dostępnym.
+
+2. (uchylony)
+
+**Art. 27.**
+
+1. Organy wydające dzienniki urzędowe prowadzą w postaci elektronicznej zbiory tych dzienników.
+
+2. Do zbiorów Dziennika Ustaw i Monitora Polskiego wydaje się skorowidz w postaci elektronicznej.
+
+2a. (uchylony) 2b. W przypadku dzienników urzędowych, o których mowa w art. 22 ust. 5, zbiór, o którym mowa w ust. 1, jest prowadzony w postaci papierowej.
+
+3. (uchylony) 3a. Do zbiorów, o których mowa w ust. 1, i do skorowidza, o którym mowa w ust. 2, stosuje się odpowiednio art. 26 ust. 1.
+
+4. W zakresie udostępniania do wglądu zbiorów dzienników urzędowych z aktami prawnymi zawierającymi informacje niejawne stosuje się przepisy o ochronie informacji niejawnych.
+
+**Art. 28.**
+
+1. Starosta prowadzi w postaci elektronicznej zbiór aktów prawa miejscowego stanowionych przez powiat.
+
+2. Wójt (burmistrz, prezydent miasta) prowadzi w postaci elektronicznej zbiór aktów prawa miejscowego stanowionych przez gminę.
+
+3. Do wglądu do zbiorów, o których mowa w ust. 1 i 2, stosuje się odpowiednio art. 26 ust. 1 i art. 27 ust. 4.
+
+**Art. 28a.** W przypadkach, o których mowa w art. 26 ust. 1, art. 27 ust. 3a oraz art. 28 ust. 3, wydawanie wydruków aktów normatywnych i innych aktów prawnych jest odpłatne. Kierownik urzędu, w którym są udostępnione do wglądu dzienniki urzędowe i zbiory aktów prawa miejscowego stanowionych przez powiat lub gminę, ustala cenę arkusza wydruku aktu normatywnego lub innego aktu prawnego, tak aby wydruki były powszechnie dostępne, a cena pokrywała wyłącznie koszty tych wydruków.
+
+**Art. 28b.**
+
+1. Dziennik Ustaw i Monitor Polski lub zawarte w nich akty normatywne i inne akty prawne, w tym orzeczenia, udostępnia się:
+
+- **1)** nieodpłatnie do wglądu i do pobrania w formie dokumentu elektronicznego na stronach internetowych Rządowego Centrum Legislacji;
+- **2)** za pomocą środków komunikacji elektronicznej lub informatycznych nośników danych w rozumieniu przepisów ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne, stosownie do wniosku zainteresowanego podmiotu, na zasadach i w trybie określonych w ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. z 2018 r. poz. 1330 i 1669).
+
+1a. Dzienniki urzędowe inne niż wymienione w ust. 1 oraz zbiory aktów prawa miejscowego stanowionych przez powiat lub gminę lub zawarte w nich akty normatywne i inne akty prawne udostępnia się:
+
+- **1)** nieodpłatnie do wglądu i do pobrania w formie dokumentu elektronicznego na stronach internetowych organów wydających te dzienniki i zbiory;
+- **2)** za pomocą środków komunikacji elektronicznej lub informatycznych nośników danych w rozumieniu przepisów ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne, stosownie do wniosku zainteresowanego podmiotu, na zasadach i w trybie określonych w ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej.
+
+2. (uchylony)
+
+3. (uchylony)
+
+**Art. 28c.** Prezes Rady Ministrów określi, w drodze rozporządzenia, wymagania techniczne:
+
+**Art. 29.** Przepisy art. 8, art. 12, art. 16 ust. 3, art. 17 ust. 4, art. 22 ust. 1 i 2, art. 24 oraz art. 27, w zakresie odnoszącym się do ministrów kierujących działami administracji rządowej, stosuje się do przewodniczących określonych w ustawach komitetów, będących członkami Rady Ministrów.
+
+**Art. 29a.** Dziennik Urzędowy Unii Europejskiej wydawany przez Urząd Oficjalnych Publikacji Komisji Europejskiej, zawiera:
+
+**Art. 29b.**
+
+1. Terenowe organy administracji rządowej udostępniają nieodpłatnie zbiory Dziennika UE w języku polskim w postaci elektronicznej.
+
+2. Do udostępniania zbiorów Dziennika UE w postaci elektronicznej stosuje się odpowiednio art. 26 ust. 1. Art. 30–40. (pominięte)
+
+**Art. 41.** Zachowują moc upoważnienia do wydawania tekstów jednolitych, skierowane do organów wymienionych w tych upoważnieniach, zawarte w aktach normatywnych wydanych przed dniem wejścia w życie ustawy.
+
+**Art. 42.** W okresie od dnia wejścia w życie ustawy do dnia wypełnienia obowiązku wydawania dziennika urzędowego, o którym mowa w art. 22, akty i orzeczenia określone w art. 12 są ogłaszane w Monitorze Polskim.
+
+**Art. 42a.** Wydawanie dzienników urzędowych i skorowidzów do roczników tych dzienników w formie elektronicznej, a także udostępnianie dzienników urzędowych, zbiorów aktów prawa miejscowego ustanowionych przez powiat i zbiorów przepisów gminnych oraz ogłoszonych w nich aktów normatywnych i innych aktów prawnych przez środki komunikacji elektronicznej oraz informatyczne nośniki danych następuje od dnia 1 lipca 2006 r.
+
+**Art. 42b.** Do dnia 1 maja 2008 r. przepisów art. 15 ust. 3a i ust. 5, art. 20a, art. 20b, art. 28a, art. 28b i art. 42a nie stosuje się.
+
+**Art. 43.** Traci moc ustawa z dnia 30 grudnia 1950 r. o wydawaniu Dziennika Ustaw Rzeczypospolitej Polskiej i Dziennika Urzędowego Rzeczypospolitej Polskiej „Monitor Polski” (Dz. U. poz. 524, z 1991 r. poz. 420 oraz z 1993 r. poz. 34).
+
+**Art. 44.** Ustawa wchodzi w życie z dniem 1 stycznia 2001 r.
 

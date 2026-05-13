@@ -10,7 +10,9 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 13 kwietnia 2018 r.
+# o Straży Marszałkowskiej
+
+*USTAWA z dnia 26 stycznia 2018 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,18 +26,15 @@ domain: null
 | Ostatnia zmiana | 2026-04-21 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000729) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/729/text.pdf) |
 
-USTAWA z dnia 26 stycznia 2018 r.
-o Stra ż y Marszałkowskiej
-
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.**
 
-1. Straż Marszałkowska jest umundurowaną i uzbrojoną formacją wykonującą zadania w zakresie ochrony Sejmu i Senatu.
+1. Straż Marszałkowska jest umundurowaną i uzbrojoną formacją wykonującą zadania w zakresie ochrony i Senatu.
 
 2. Straż Marszałkowska podlega Marszałkowi Sejmu.
 
-3. Zakres i sposób wykonywania zadań, o których mowa w ust. 1, w zakresie ochrony Senatu, określi Marszałek Sejmu w uzgodnieniu z Marszałkiem Senatu, z zachowaniem przepisów o ochronie informacji niejawnych.
+3. Zakres i sposób wykonywania zadań, o których mowa w ust. 1, w zakresie ochrony Senatu, określi Marszałek w uzgodnieniu z Marszałkiem Senatu, z zachowaniem przepisów o ochronie informacji niejawnych.
 
 4. Nazwa „Straż Marszałkowska” przysługuje wyłącznie formacji, o której mowa w ust. 1.
 
@@ -43,16 +42,16 @@ o Stra ż y Marszałkowskiej
 
 1. Do zadań Straży Marszałkowskiej należy:
 
-- **1)** ochrona terenów, obiektów i urządzeń będących w zarządzie Kancelarii Sejmu i zarządzie Kancelarii Senatu, w tym przy użyciu urządzeń służących do rejestracji obrazu i dźwięku;
-- **2)** zapewnienie, w zakresie niezastrzeżonym dla Służby Ochrony Państwa i Żandarmerii Wojskowej, bezpieczeństwa osobom przebywającym na terenach i w obiektach, o których mowa w pkt 1, oraz w miejscach odbywania posiedzeń Zgromadzenia Narodowego, Sejmu i Senatu;
+- **1)** ochrona terenów, obiektów i urządzeń będących w zarządzie Kancelarii i zarządzie Kancelarii Senatu, w tym przy użyciu urządzeń służących do rejestracji obrazu i dźwięku;
+- **2)** zapewnienie, w zakresie niezastrzeżonym dla Służby Ochrony Państwa i Żandarmerii Wojskowej, bezpieczeństwa osobom przebywającym na terenach i w obiektach, o których mowa w pkt 1, oraz w miejscach odbywania posiedzeń Zgromadzenia Narodowego, i Senatu;
 - **3)** kontrola uprawnień do przebywania na terenach i w obiektach, o których mowa w pkt 1, oraz wydawanie przepustek uprawniających do przebywania na tych terenach i w tych obiektach, a także zapewnienie tam porządku;
 - **4)** kontrola uprawnień do wjazdu i przebywania na terenach i w obiektach, o których mowa w pkt 1, oraz wydawanie przepustek uprawniających do wjazdu i przebywania na tych terenach i w tych obiektach, a także zapewnienie tam porządku;
-- **5)** wykonywanie zarządzeń porządkowych Marszałka Sejmu wydawanych na podstawie regulaminu Sejmu i zarządzeń porządkowych Marszałka Senatu wydawanych na podstawie regulaminu Senatu;
+- **5)** wykonywanie zarządzeń porządkowych Marszałka wydawanych na podstawie regulaminu i zarządzeń porządkowych Marszałka Senatu wydawanych na podstawie regulaminu Senatu;
 - **6)** prowadzenie rozpoznania pirotechniczno-radiologicznego osób, pojazdów, terenów i obiektów, o których mowa w pkt 1, oraz podejmowanie działań zmierzających do neutralizacji zagrożeń;
-- **7)** wykrywanie urządzeń podsłuchowych na terenach, w obiektach i w urządzeniach będących w zarządzie Kancelarii Sejmu i zarządzie Kancelarii Senatu;
-- **8)** wykonywanie zada ń w zakresie obrony cywilnej i ochrony przeciwpo ż arowej;
-- **9)** konwojowanie warto ś ci pieni ęż nych, mienia i dokumentów;
-- **10)** udział w wykonywaniu zada ń reprezentacyjnych, w szczególno ś ci w ceremoniale powita ń i po ż egna ń podczas wizyt parlamentarnych oraz w asystach honorowych.
+- **7)** wykrywanie urządzeń podsłuchowych na terenach, w obiektach i w urządzeniach będących w zarządzie Kancelarii i zarządzie Kancelarii Senatu;
+- **8)** wykonywanie zadań w zakresie obrony cywilnej i ochrony przeciwpożarowej;
+- **9)** konwojowanie wartości pieniężnych, mienia i dokumentów;
+- **10)** udział w wykonywaniu zadań reprezentacyjnych, w szczególności w ceremoniale powitań i pożegnań podczas wizyt parlamentarnych oraz w asystach honorowych.
 
 2. W celu zapewnienia ochrony obiektów i osób Straż Marszałkowska w szczególności:
 
@@ -85,6 +84,18 @@ o Stra ż y Marszałkowskiej
 
 5. Wykonywanie czynności z zakresu obsługi administracyjnej i materialno-technicznej Straży Marszałkowskiej można powierzyć osobom niebędącym funkcjonariuszami Straży Marszałkowskiej.
 
+6. Do pracowników Straży Marszałkowskiej, o których mowa w ust. 5, stosuje się odpowiednio przepisy art. 21 ust. 1, 2, 4, art. 22 ust. 1, art. 23 ust. 1, art. 24, art. 27–29, art. 30 ust. 1a–3 oraz art. 48 ust. 1a pkt 3 oraz ust. 1b i 1c ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych (Dz. U. z 2023 r. poz. 1917 oraz z 2025 r. poz. 39).
+
+7. Uprawnienia kierowników urzędów przewidziane w art. 48 ust. 1a pkt 3 oraz ust. 1b i 1c ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych w odniesieniu do pracowników Straży Marszałkowskiej, o których mowa w ust. 5, wykonuje Komendant Straży Marszałkowskiej.
+
+8. Regulamin wynagradzania pracowników Straży Marszałkowskiej, o których mowa w ust. 5, zatwierdza Marszałek Sejmu.
+
+**Art. 3a.**
+
+1. Sprawy ze stosunku służbowego funkcjonariusza Straży Marszałkowskiej rozstrzyga przełożony, chyba że ustawa stanowi inaczej.
+
+2. Przez sprawy ze stosunku służbowego należy rozumieć nawiązanie stosunku służbowego, powoływanie oraz mianowanie funkcjonariuszy Straży Marszałkowskiej na stanowiska służbowe, powierzanie obowiązków na innym stanowisku służbowym, przenoszenie, odwoływanie i zwalnianie ze stanowisk służbowych, nadawanie stopni Straży Marszałkowskiej, zawieszanie w czynnościach służbowych, zwalnianie ze służby, ustalanie uposażenia, przyznawanie świadczeń pieniężnych oraz inne czynności związane z powstaniem, zmianą, ustaniem stosunku służbowego oraz realizacją wynikających z treści tego stosunku służbowego uprawnień i obowiązków funkcjonariuszy Straży Marszałkowskiej.
+
 **Art. 4.**
 
 1. Organy administracji rządowej, organy samorządu terytorialnego oraz instytucje państwowe są obowiązane, w zakresie swojego działania, do współpracy ze Strażą Marszałkowską, a w szczególności do udzielania pomocy w realizacji jej zadań.
@@ -94,27 +105,31 @@ o Stra ż y Marszałkowskiej
 - **1)** korzystać z informacji o osobach i zagrożeniach udostępnianych przez Agencję Bezpieczeństwa Wewnętrznego, Agencję Wywiadu, Służbę Kontrwywiadu Wojskowego, Służbę Wywiadu Wojskowego, Policję, Straż Graniczną, Służbę Ochrony Państwa, Służbę Celno-Skarbową i Żandarmerię Wojskową;
 - **2)** gromadzić i przetwarzać informacje, w tym dane osobowe, mogące wpłynąć na realizację jej zadań.
 
+2a. Administratorem danych osobowych, o których mowa w ust. 2 pkt 2, jest Komendant Straży Marszałkowskiej.
+
 3. Straż Marszałkowska może przetwarzać dane osobowe bez wiedzy i zgody osoby, której one dotyczą, jeżeli służy to realizacji zadań, o których mowa w art. 2.
 
-4. Dane osobowe, o których mowa w ust. 2 pkt 2, przechowuje się przez okres niezbędny do wykonywania zadań przez Straż Marszałkowską, a weryfikacji tych danych dokonuje się co 5 lat od dnia ich uzyskania.
+4. (uchylony)
 
-5. Prezes Rady Ministrów określi, w drodze rozporządzenia, zakres, warunki i tryb przekazywania Straży Marszałkowskiej informacji uzyskanych przez podmioty, o których mowa w ust. 2, z uwzgl ę dnieniem:
+5. Prezes Rady Ministrów określi, w drodze rozporządzenia, zakres, warunki i tryb przekazywania Straży Marszałkowskiej informacji uzyskanych przez podmioty, o których mowa w ust. 2, z uwzględnieniem:
 
-- **1)** sytuacji, w których informacje s ą przekazywane;
+- **1)** sytuacji, w których informacje są przekazywane;
 - **2)** przypadków nieprzekazania informacji lub ograniczenia ich zakresu;
 - **3)** sposobu dokumentowania tych informacji.
+
+**Art. 4a.** Zarządzenia Marszałka wydane na podstawie ustawy ogłasza się w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
 
 **Art. 5.** Dzień 20 maja ustanawia się świętem Straży Marszałkowskiej.
 
 **Art. 6.** Marszałek Sejmu, w drodze zarządzenia, nadaje Straży Marszałkowskiej sztandar oraz określa jego wzór.
 
-#### Rozdział 2 Organizacja Stra ż y Marszałkowskiej
+#### Rozdział 2 Organizacja Straży Marszałkowskiej
 
 **Art. 7.**
 
 1. Straż Marszałkowska jest komórką organizacyjną Kancelarii Sejmu.
 
-2. Marszałek Sejmu określi, w drodze zarządzenia, organizację wewnętrzną, szczegółowy tryb działania Straży Marszałkowskiej oraz zakres zadań realizowanych na rzecz Straży Marszałkowskiej przez Kancelarię Sejmu.
+2. Marszałek określi, w drodze zarządzenia, organizację wewnętrzną, szczegółowy tryb działania Straży Marszałkowskiej oraz zakres zadań realizowanych na rzecz Straży Marszałkowskiej przez Kancelarię Sejmu.
 
 **Art. 8.**
 
@@ -128,6 +143,8 @@ o Stra ż y Marszałkowskiej
 
 5. Komendant Straży Marszałkowskiej jest przełożonym wszystkich funkcjonariuszy Straży Marszałkowskiej oraz osób, o których mowa w art. 3 ust. 5.
 
+6. Szef Kancelarii jest przełożonym Komendanta Straży Marszałkowskiej oraz – w sprawach ze stosunku służbowego – przełożonym jego zastępców.
+
 **Art. 9.** Komendantem Straży Marszałkowskiej oraz jego zastępcą może zostać osoba posiadająca wykształcenie wyższe i spełniająca warunki, o których mowa w art. 18 ust. 1 pkt 1, 2 i 4–9.
 
 **Art. 10.**
@@ -136,13 +153,31 @@ o Stra ż y Marszałkowskiej
 
 2. Zastępcę Komendanta Straży Marszałkowskiej powołuje i odwołuje Szef Kancelarii Sejmu.
 
-3. W razie opróżnienia stanowiska Komendanta Straży Marszałkowskiej Szef Kancelarii Sejmu powierza pełnienie obowiązków Komendanta Straży Marszałkowskiej jego zastępcy na okres nie dłuższy niż 3 miesiące.
+3. W razie opróżnienia stanowiska Komendanta Straży Marszałkowskiej Szef Kancelarii powierza pełnienie obowiązków Komendanta Straży Marszałkowskiej jego zastępcy na okres nie dłuższy niż 3 miesiące.
 
 4. W razie czasowej niemożności sprawowania funkcji przez Komendanta Straży Marszałkowskiej Szef Kancelarii Sejmu, do czasu ustania przeszkody w sprawowaniu tej funkcji, nie dłużej jednak niż na 6 miesięcy, powierza pełnienie obowiązków Komendanta Straży Marszałkowskiej jego zastępcy.
 
-#### Rozdział 3 Formy działania i zakres uprawnie ń Stra ż y Marszałkowskiej
+**Art. 10a.**
+
+1. Odwołanie Komendanta Straży Marszałkowskiej lub jego zastępcy z zajmowanego stanowiska nie powoduje ustania ich stosunku służbowego.
+
+2. Odwołany z zajmowanego stanowiska Komendant Straży Marszałkowskiej lub jego zastępca obejmują ostatnio zajmowane stanowisko służbowe, dla którego ustawa nie przewiduje powołania. Można ich jednak przenieść na inne, co najmniej równorzędne stanowisko służbowe.
+
+3. Funkcjonariusza Straży Marszałkowskiej, o którym mowa w ust. 1, przenosi się do dyspozycji Szefa Kancelarii Sejmu, jeżeli nie ma możliwości objęcia przez nich ostatnio zajmowanego stanowiska służbowego ani przeniesienia na stanowisko równorzędne. Okres pozostawania funkcjonariusza Straży Marszałkowskiej w dyspozycji nie może być dłuższy niż 3 miesiące. Po upływie tego okresu funkcjonariusza Straży Marszałkowskiej przenosi się za jego zgodą na niższe stanowisko służbowe. W przypadku niewyrażenia zgody, funkcjonariusza Straży Marszałkowskiej zwalnia się ze służby.
+
+4. W okresie pozostawania w dyspozycji Szefa Kancelarii funkcjonariusz Straży Marszałkowskiej, o którym mowa w ust. 1, zachowuje prawo do uposażenia i innych świadczeń pieniężnych przysługujących na ostatnio zajmowanym stanowisku służbowym, z uwzględnieniem powstałych w tym okresie zmian mających wpływ na prawo do uposażenia i innych świadczeń pieniężnych albo na ich wysokość.
+
+5. W okresie pozostawania w dyspozycji Szefa Kancelarii funkcjonariusz Straży Marszałkowskiej, o którym mowa w ust. 1, jest obowiązany wykonywać polecenia Szefa Kancelarii Sejmu.
+
+#### Rozdział 3 Formy działania i zakres uprawnień Straży Marszałkowskiej
 
 **Art. 11.** Funkcjonariusz Straży Marszałkowskiej w czasie wykonywania czynności służbowych jest obowiązany do poszanowania godności ludzkiej oraz przestrzegania i ochrony praw człowieka, działania z poczuciem powagi i z zachowaniem zasad kultury osobistej, przestrzegania zasad dyscypliny oraz udzielania niezbędnej pomocy i ochrony osobom znajdującym się w obiektach, o których mowa w art. 2 ust. 1 pkt 1.
+
+**Art. 11a.**
+
+1. W celu realizacji zadań, o których mowa w art. 2 ust. 1 pkt 1, 2 i 6, Straż Marszałkowska może używać psów służbowych.
+
+2. Komendant Straży Marszałkowskiej określi kryteria zdrowotne i użytkowe doboru psów do realizacji zadań Straży Marszałkowskiej, sposób szkolenia przewodników psów służbowych oraz kandydatów na przewodników, sposób szkolenia psów służbowych, a także sposób prowadzenia ewidencji psów służbowych.
 
 **Art. 12.**
 
@@ -154,18 +189,24 @@ o Stra ż y Marszałkowskiej
     - **c)** usunięcia pojazdu z miejsca postoju,
     - **d)** usunięcia innych przedmiotów i urządzeń lub oddania ich do depozytu;
 
-- **2)** legitymowa ć osoby w celu ustalenia ich to ż samo ś ci;
-- **3)** ujmowa ć osoby stwarzaj ą ce w sposób oczywisty bezpo ś rednie zagro ż enie dla ż ycia lub zdrowia ludzkiego oraz dla mienia, a tak ż e osoby w sposób ra żą cy naruszaj ą ce porz ą dek publiczny;
-- **4)** dokonywać kontroli osobistej, a także przeglądać zawartość bagaży i sprawdzać ładunki i pomieszczenia w sytuacjach, gdy jest to niezbędne dla zapewnienia bezpieczeństwa ochranianych osób, obiektów i urządzeń;
+- **2)** legitymować osoby w celu ustalenia ich tożsamości;
+- **3)** ujmować osoby stwarzające w sposób oczywisty bezpośrednie zagrożenie dla życia lub zdrowia ludzkiego oraz dla mienia, a także osoby w sposób rażący naruszające porządek publiczny;
+- **4)** dokonywać kontroli osobistej polegającej na sprawdzeniu zawartości odzieży i obuwia osoby kontrolowanej oraz przedmiotów, które znajdują się na jej ciele, włącznie z żądaniem zdjęcia odzieży i obuwia, sprawdzeniu jamy ustnej, nosa, uszu i włosów osoby kontrolowanej, jeżeli jest to niezbędne dla zapewnienia bezpieczeństwa ochranianych osób i obiektów, o których mowa w art. 2 ust. 1 pkt 1 i 2;
+- **4a)** przeglądać zawartość bagaży i sprawdzać ładunki poprzez manualne sprawdzenie ładunków i elementów konstrukcyjnych bagaży oraz znajdujących się w nich przedmiotów lub sprawdzenie bagaży i ładunków z wykorzystaniem urządzeń i sprzętu specjalistycznego lub psa służbowego, jeżeli jest to niezbędne dla zapewnienia bezpieczeństwa ochranianych osób i obiektów, o których mowa w art. 2 ust. 1 pkt 1 i 2;
+- **4b)** sprawdzać pomieszczenia oraz środki transportu z wykorzystaniem urządzeń i sprzętu specjalistycznego lub psa służbowego, jeżeli jest to niezbędne dla zapewnienia bezpieczeństwa ochranianych osób lub obiektów, o których mowa w art. 2 ust. 1 pkt 1 i 2;
 - **5)** żądać udzielenia niezbędnej pomocy, w zakresie ich działania, od instytucji państwowych, organów administracji rządowej i organów samorządu terytorialnego oraz jednostek gospodarczych prowadzących działalność w zakresie użyteczności publicznej;
 - **6)** zwracać się o udzielenie niezbędnej pomocy do innych jednostek gospodarczych i organizacji społecznych, a w nagłych przypadkach również do każdej osoby o udzielenie doraźnej pomocy;
 - **7)** dokonywać kontroli bezpieczeństwa osób wchodzących na teren obiektów, o których mowa w art. 2 ust. 1 pkt 1, pojazdów, bagaży, przesyłek, pomieszczeń, obiektów i terenu w formie:
     - **a)** kontroli manualnej lub
     - **b)** sprawdzenia za pomocą środków technicznych niezbędnych do wykrywania materiałów i urządzeń niebezpiecznych, lub
     - **c)** sprawdzenia biochemicznego, lub
-    - **d)** sprawdzenia z wykorzystaniem psów służbowych w zakresie niezbędnym do realizacji zadań.
+    - **d)** sprawdzenia z wykorzystaniem psów służbowych – w zakresie niezbędnym do realizacji zadań.
 
-2. Osobie ujętej przysługują uprawnienia osoby zatrzymanej przewidziane w przepisach ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego (Dz. U. z 2017 r. poz. 1904, z późn. zm. ).
+1a. Sprawdzenia, o którym mowa w ust. 1 pkt 4, można dokonać w formie, o której mowa w ust. 1 pkt 7 lit. a i b.
+
+1b. Kontrola bezpieczeństwa, o której mowa w ust. 1 pkt 7, polega na sprawdzeniu zawartości odzieży i obuwia osoby oraz przedmiotów, które znajdują się na jej ciele, włącznie z żądaniem zdjęcia odzieży i obuwia, sprawdzeniu jamy ustnej, nosa, uszu i włosów osoby, przeglądaniu zawartości jej bagaży lub sprawdzaniu ładunków oraz znajdujących się w nich przedmiotów.
+
+2. Osobie ujętej przysługują uprawnienia osoby zatrzymanej przewidziane w przepisach ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2025 r. poz. 46 i 304).
 
 3. Ujęcie osoby określone w ust. 1 pkt 3 może być zastosowane tylko wówczas, gdy inne środki okazały się bezcelowe lub nieskuteczne.
 
@@ -173,24 +214,54 @@ o Stra ż y Marszałkowskiej
 
 5. Osoby ujęte w przypadkach, o których mowa w ust. 1 pkt 3, oraz odebrane osobie ujętej broń i przedmioty, o których mowa w art. 15 pkt 2, są niezwłocznie przekazywane właściwej jednostce organizacyjnej Policji.
 
-6. Czynności, o których mowa w ust. 1 pkt 1–4 i 7, wykonuje się w sposób możliwie najmniej naruszający dobra osobiste osoby, wobec której zostały podjęte.
+6. Czynności, o których mowa w ust. 1 pkt 1–4b i 7, wykonuje się w sposób możliwie najmniej naruszający dobra osobiste osoby, wobec której zostają podjęte oraz w zakresie niezbędnym w danych okolicznościach do zrealizowania celu dokonywanej czynności.
 
-7. Na sposób przeprowadzenia czynności, o których mowa w ust. 1 pkt 1–4 i 7, w terminie 7 dni od dnia dokonania czynności przysługuje zażalenie do prokuratora właściwego ze względu na miejsce przeprowadzenia czynności. Do zażalenia stosuje się przepisy ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego dotyczące postępowania odwoławczego.
+6a. Po przeprowadzeniu czynności, o których mowa w ust. 1 pkt 1–4b lub 7, funkcjonariusz poucza osobę, wobec której dokonano czynności, o prawie do złożenia zażalenia, o którym mowa odpowiednio w ust. 7 lub 7a.
 
-8. Rada Ministrów określi, w drodze rozporządzenia, szczegółowe warunki przeprowadzania i dokumentowania czynności, o których mowa w ust. 1, uwzględniając dostosowany do sytuacji sposób przeprowadzania przez funkcjonariuszy Straży Marszałkowskiej czynności podejmowanych w ramach posiadanych uprawnień, obowiązki funkcjonariuszy Straży Marszałkowskiej podczas wykonywania czynności, uprawnienia osób, wobec których czynności są podejmowane, oraz mając na uwadze potrzebę zebrania pełnego materiału dowodowego celem dalszego prowadzenia postępowania przez właściwe organy.
+7. Na sposób prowadzenia czynności, o których mowa w ust. 1 pkt 1–3 i 4b–7, przysługuje zażalenie do właściwego miejscowo prokuratora w terminie 7 dni od dnia dokonania czynności. Do zażalenia stosuje się odpowiednio przepisy rozdziału 50 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego.
+
+7a. W celu zbadania zasadności, legalności i prawidłowości dokonania czynności, o których mowa w ust. 1 pkt 4 i 4a, przysługuje zażalenie do sądu rejonowego właściwego ze względu na miejsce przeprowadzania czynności w terminie 7 dni od dokonania czynności. Do zażalenia stosuje się odpowiednio przepisy rozdziału 50 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego.
+
+7b. Zażalenie, o którym mowa w ust. 7a, składa się za pośrednictwem Komendanta Straży Marszałkowskiej, który jest obowiązany do niezwłocznego przekazania zażalenia sądowi rejonowemu właściwemu ze względu na miejsce przeprowadzania czynności.
+
+7c. W przypadku gdy w toku przeprowadzania czynności, o których mowa w ust. 1 pkt 4–4b, znaleziono przedmioty mogące stworzyć niebezpieczeństwo dla życia, zdrowia ludzkiego lub mienia lub przedmioty, które służą do popełnienia czynu zabronionego pod groźbą kary lub których posiadanie jest zabronione, lub na żądanie osoby złożone bezpośrednio po dokonaniu czynności, sporządza się odpowiednio protokół z kontroli osobistej, protokół przeglądania zawartości bagaży i sprawdzenia ładunków lub protokół sprawdzenia pomieszczenia oraz środków transportu. Czynności, o których mowa w ust. 1 pkt 3, dokumentuje się w protokole ujęcia.
+
+7d. Protokoły, o których mowa w ust. 7c, zawierają w szczególności:
+
+- **1)** oznaczenie czynności, podstawy prawnej i przyczyny jej podjęcia, jej miejsca oraz danych osoby, wobec której dokonano czynności i osób w nich uczestniczących, obejmujących w szczególności imię, nazwisko, numer PESEL lub datę urodzenia oraz rodzaj i cechy identyfikacyjne dokumentu, na podstawie którego ustalono tożsamość osoby;
+- **2)** datę i godzinę rozpoczęcia i zakończenia czynności;
+- **3)** dane funkcjonariusza Straży Marszałkowskiej dokonującego czynności obejmujące stopień, imię i nazwisko;
+- **4)** przebieg czynności, oświadczenia i wnioski jej uczestników;
+- **5)** spis znalezionych i odebranych przedmiotów oraz w miarę potrzeby ich opis;
+- **6)** pouczenie osoby kontrolowanej o jej prawach;
+- **7)** w miarę potrzeby stwierdzenie innych okoliczności dotyczących przebiegu czynności.
+
+7e. Jeżeli w toku przeprowadzania czynności, o których mowa w ust. 1 pkt 4–4b, znaleziono przedmioty mogące stworzyć niebezpieczeństwo dla życia, zdrowia ludzkiego lub mienia lub przedmioty, które służą do popełnienia czynu zabronionego pod groźbą kary lub których posiadanie jest zabronione protokół, o którym mowa w ust. 7d, przekazuje się do jednostki organizacyjnej Policji właściwej dla miejsca przeprowadzenia czynności.
+
+7f. W przypadku gdy przedmioty ujawnione w wyniku czynności służbowych stwarzają niebezpieczeństwo dla życia, zdrowia ludzkiego lub mienia, funkcjonariusz jest obowiązany podjąć działania zmierzające do usunięcia niebezpieczeństwa.
+
+7g. W przypadku gdy w toku przeprowadzania czynności, o których mowa w ust. 1 pkt 4–4b, nie znaleziono przedmiotów mogących stworzyć niebezpieczeństwo dla życia, zdrowia ludzkiego lub mienia lub przedmiotów, które służą do popełnienia czynu zabronionego pod groźbą kary lub których posiadanie jest zabronione, lub osoba poddana tym czynnościom nie zgłosiła żądania sporządzenia protokołu z dokonanej czynności, dokonanie czynności dokumentuje się w dokumentacji służbowej, odnotowując rodzaj, czas, miejsce i wynik czynności oraz imiona, nazwiska i funkcje osób w nich uczestniczących.
+
+8. Rada Ministrów określi, w drodze rozporządzenia:
+
+- **1)** szczegółowe warunki przeprowadzania czynności, o których mowa w ust. 1 pkt 1–3 i 4a–7,
+- **2)** obowiązki funkcjonariuszy Straży Marszałkowskiej podczas wykonywania tych czynności,
+- **3)** uprawnienia osób, wobec których czynności są podejmowane, w tym treść pouczeń o prawach przysługujących tym osobom,
+- **4)** wzory protokołów, o których mowa w ust. 7c,
+- **5)** sposób dokumentowania czynności niewymagających spisania protokołów – uwzględniając niezbędne środki ostrożności przy wykonywaniu uprawnień, a także skuteczność działań podejmowanych przez Straż Marszałkowską oraz poszanowanie praw osób, wobec których działania te są podejmowane.
 
 9. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, tryb i przypadki przeprowadzania badań lekarskich, o których mowa w ust. 4, oraz sposób ich dokumentowania, uwzględniając przypadki uzasadniające potrzebę niezwłocznego udzielenia osobie ujętej pierwszej pomocy medycznej, podmioty właściwe do przeprowadzenia badań lekarskich, przypadki użycia specjalnego środka transportu oraz sposób dokumentowania przypadków uniemożliwienia przeprowadzania badania lekarskiego, mając na względzie konieczność zapewnienia szybkiej i skutecznej pomocy osobie ujętej.
 
 **Art. 13.**
 
-1. Funkcjonariusz Straży Marszałkowskiej, przystępując do czynności służbowych, o których mowa w art. 12 ust. 1 pkt 1–4, jest obowiązany:
+1. Funkcjonariusz Straży Marszałkowskiej, przystępując do czynności służbowych, o których mowa w art. 12 ust. 1 pkt 1–4b, jest obowiązany:
 
 - **1)** podać stopień oraz imię i nazwisko;
 - **2)** podać podstawę prawną oraz przyczynę podjęcia czynności służbowej.
 
 2. W przypadku realizacji czynności służbowych, o których mowa w art. 12 ust. 1 pkt 7, podanie informacji wskazanych w ust. 1 następuje na żądanie osoby, wobec której czynność służbowa jest realizowana.
 
-3. Funkcjonariusz Straży Marszałkowskiej może odstąpić od obowiązku, o którym mowa w ust. 1, w przypadku gdy jego realizacja mogłaby spowodować bezpośrednie zagrożenie dla osób lub obiektów, o których mowa w art. 2 ust. 1 pkt 1, podlegających ochronie Straży Marszałkowskiej.
+3. Funkcjonariusz Straży Marszałkowskiej może odstąpić od obowiązku, o którym mowa w ust. 1, w przypadku gdy jego realizacja mogłaby spowodować bezpośrednie zagrożenie dla osób lub obiektów, o których mowa w art. 2 ust. 1 pkt 1 lub 2, podlegających ochronie Straży Marszałkowskiej.
 
 4. Funkcjonariusz Straży Marszałkowskiej o każdym przypadku ujęcia osoby jest obowiązany powiadomić swojego przełożonego.
 
@@ -205,7 +276,7 @@ o Stra ż y Marszałkowskiej
 2. Funkcjonariusz Straży Marszałkowskiej ustala tożsamość osoby, o której mowa w ust. 1, w sposób umożliwiający odnotowanie:
 
 - **1)** imienia lub imion oraz nazwiska oraz adresów zamieszkania lub pobytu;
-- **2)** numeru PESEL, a w przypadku braku informacji o numerze PESEL daty i miejsca urodzenia oraz imion rodziców i nazwiska rodowego;
+- **2)** numeru PESEL, a w przypadku braku informacji o numerze PESEL – daty i miejsca urodzenia oraz imion rodziców i nazwiska rodowego;
 - **3)** rodzaju i cech identyfikacyjnych dokumentu, na podstawie którego ustalono tożsamość osoby legitymowanej.
 
 3. W razie legitymowania osób znajdujących się w pojeździe, gdy uzasadniają to względy bezpieczeństwa, funkcjonariusz Straży Marszałkowskiej ma prawo żądać opuszczenia pojazdu przez te osoby.
@@ -214,11 +285,26 @@ o Stra ż y Marszałkowskiej
 
 5. Rada Ministrów określi, w drodze rozporządzenia, rodzaje dokumentów, o których mowa w ust. 1, mając na względzie zapewnienie prawidłowego ustalenia tożsamości osoby oraz dokumentowania procesu legitymowania.
 
+**Art. 14a.**
+
+1. Osoba kontrolowana może żądać obecności przy tej czynności osoby wskazanej przez siebie oraz osoby przybranej przez prowadzącego czynności, jeżeli obecność tych osób nie utrudni lub nie umożliwi dokonania kontroli.
+
+2. Kontroli osobistej dokonuje funkcjonariusz tej samej płci, co osoba kontrolowana, w miejscu niedostępnym w czasie wykonywania kontroli dla osób postronnych.
+
+3. W przypadku gdy kontrola osobista musi być dokonana niezwłocznie, w szczególności ze względu na okoliczności mogące stanowić zagrożenie życia lub zdrowia ludzkiego lub mienia, może jej dokonać funkcjonariusz płci odmiennej niż osoba kontrolowana, a także może ona zostać dokonana w miejscu niespełniającym warunku określonego w ust. 2.
+
+4. Funkcjonariusz dokonujący kontroli osobistej, poza czynnościami, o których mowa w art. 13 ust. 1:
+
+- **1)** legitymuje osobę kontrolowaną oraz inne osoby, jeżeli uczestniczą w czynności;
+- **2)** może wezwać osobę kontrolowaną do dobrowolnego wydania przez nią broni lub innych niebezpiecznych przedmiotów służących do popełnienia czynu zabronionego pod groźbą kary lub których posiadanie jest zabronione oraz może żądać opróżnienia przez osobę kontrolowaną kieszeni, innych części odzieży, przedmiotów znajdujących się na ciele osoby kontrolowanej lub przez nią posiadanych;
+- **3)** odbiera osobie kontrolowanej broń lub inne niebezpieczne przedmioty, które służą do popełnienia czynu zabronionego pod groźbą kary lub których posiadanie jest zabronione;
+- **4)** sprawdza czy informacje o osobie kontrolowanej, przedmiotach lub dokumentach posiadanych przez tę osobę są przetwarzane w dostępnych Straży Marszałkowskiej krajowych i międzynarodowych systemach informacyjnych, w których przetwarza się informacje, w tym dane osobowe, o osobach podejrzanych o popełnienie przestępstw, osobach zaginionych lub osobach poszukiwanych w związku z ochroną bezpieczeństwa i porządku publicznego lub w których przetwarza się informacje o skradzionych lub utraconych dokumentach lub przedmiotach w celu ich odnalezienia.
+
 **Art. 15.** Przy wykonywaniu czynności, o której mowa w art. 12 ust. 1 pkt 3, funkcjonariusz jest obowiązany:
 
 **Art. 16.**
 
-1. Przy wykonywaniu zadań funkcjonariuszom Straży Marszałkowskiej przysługuje prawo użycia lub wykorzystania środków przymusu bezpośredniego, o których mowa w art. 12 ust. 1 pkt 1, 2, 4, 5, 7, 9, 11, 12 lit. a, pkt 13, 18 i 20 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej (Dz. U. z 2017 r. poz. 1120 oraz z 2018 r. poz. 106, 138 i 730), w przypadkach, o których mowa w art. 11 pkt 1–6 i 8–14 tej ustawy.
+1. W przypadkach, o których mowa w art. 11 pkt 1–6 i 8–15 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej (Dz. U. z 2024 r. poz. 383 i 1248 oraz z 2025 r. poz. 179), funkcjonariusze Straży Marszałkowskiej mogą użyć środków przymusu bezpośredniego, o których mowa w art. 12 ust. 1 pkt 1, 2, 4, 5, 7, 9, 11, pkt 12 lit. a, pkt 13, 18, 20 i 21 tej ustawy, lub wykorzystać te środki.
 
 2. W przypadkach, o których mowa w art. 45 pkt 1 lit. a–c i e, pkt 2, pkt 3 lit. a i pkt 4 lit. a oraz w art. 47 pkt 1, pkt 2 lit. a, pkt 3 i 5–7 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej, funkcjonariusze Straży Marszałkowskiej mogą użyć broni palnej lub ją wykorzystać.
 
@@ -230,11 +316,11 @@ o Stra ż y Marszałkowskiej
 
 2. Pomoc, o której mowa w ust. 1, może zostać udzielona przez funkcjonariuszy Służby Ochrony Państwa lub funkcjonariuszy Policji również w formie samodzielnych działań.
 
-3. W przypadku, o którym mowa w ust. 1, funkcjonariuszom Słu ż by Ochrony Pa ń stwa lub funkcjonariuszom Policji przysługuj ą , w zakresie niezb ę dnym do wykonania ich zada ń , wobec wszystkich osób uprawnienia funkcjonariuszy Stra ż y Marszałkowskiej okre ś lone w art. 12 i art. 16.
+3. W przypadku, o którym mowa w ust. 1, funkcjonariuszom Służby Ochrony Państwa lub funkcjonariuszom Policji przysługują, w zakresie niezbędnym do wykonania ich zadań, wobec wszystkich osób uprawnienia funkcjonariuszy Straży Marszałkowskiej określone w art. 12 i art. 16.
 
-4. Korzystanie z uprawnie ń , o których mowa w ust. 3, nast ę puje na zasadach i w trybie okre ś lonych dla funkcjonariuszy Straży Marszałkowskiej.
+4. Korzystanie z uprawnień, o których mowa w ust. 3, następuje na zasadach i w trybie określonych dla funkcjonariuszy Straży Marszałkowskiej.
 
-#### Rozdział 4 Słu ż ba w Stra ż y Marszałkowskiej
+#### Rozdział 4 Służba w Straży Marszałkowskiej
 
 **Art. 18.**
 
@@ -248,7 +334,7 @@ o Stra ż y Marszałkowskiej
 - **6)** dająca rękojmię zachowania tajemnicy stosownie do wymogów określonych w przepisach o ochronie informacji niejawnych;
 - **7)** posiadająca zdolność fizyczną i psychiczną do służby w formacji uzbrojonej i gotowa podporządkować się dyscyplinie służbowej;
 - **8)** mająca uregulowany stosunek do służby wojskowej;
-- **9)** która nie pełniła służby, nie pracowała i nie była współpracownikiem organów bezpieczeństwa państwa wymienionych w art. 2 ust. 1 ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpiecze ń stwa pa ń stwa z lat 1944–1990 oraz tre ś ci tych dokumentów (Dz. U. z 2017 r. poz. 2186 oraz z 2018 r. poz. 538, 650, 651 i 730).
+- **9)** która nie pełniła służby, nie pracowała i nie była współpracownikiem organów bezpieczeństwa państwa wymienionych w art. 2 ust. 1 ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów (Dz. U. z 2024 r. poz. 1632, 1897 i 1940).
 
 2. Przyjęcie kandydata do służby poprzedza się postępowaniem kwalifikacyjnym mającym na celu ustalenie, czy kandydat spełnia warunki przyjęcia do służby w Straży Marszałkowskiej, oraz określenie jego predyspozycji do pełnienia tej służby, na które składa się:
 
@@ -259,7 +345,9 @@ o Stra ż y Marszałkowskiej
 - **5)** sprawdzenie w ewidencjach, rejestrach i kartotekach prawdziwości danych zawartych w kwestionariuszu osobowym kandydata do służby;
 - **6)** przeprowadzenie postępowania sprawdzającego określonego w przepisach o ochronie informacji niejawnych.
 
-3. Ustalenia zdolności fizycznej i psychicznej do służby dokonuje komisja lekarska podległa ministrowi właściwemu do spraw wewnętrznych na zasadach i w trybie określonych w ustawie z dnia 28 listopada 2014 r. o komisjach lekarskich podległych ministrowi właściwemu do spraw wewnętrznych (Dz. U. z 2018 r. poz. 481 i 730).
+3. Ustalenia zdolności fizycznej i psychicznej do służby dokonuje komisja lekarska podległa ministrowi właściwemu do spraw wewnętrznych na zasadach i w trybie określonych w ustawie z dnia 28 listopada 2014 r. o komisjach lekarskich podległych ministrowi właściwemu do spraw wewnętrznych (Dz. U. z 2024 r. poz.
+
+- **310)** .
 
 4. W szczególnie uzasadnionych przypadkach Komendant Straży Marszałkowskiej może zwolnić kandydata do służby w Straży Marszałkowskiej z obowiązku odbycia testu sprawności fizycznej.
 
@@ -270,83 +358,168 @@ o Stra ż y Marszałkowskiej
 7. Komendant Straży Marszałkowskiej odmawia poddania kandydata postępowaniu kwalifikacyjnemu albo odstępuje od jego prowadzenia w przypadku:
 
 - **1)** niezłożenia kompletu dokumentów, o których mowa w ust. 2 pkt 1;
-- **2)** niespełnienia wymaga ń okre ś lonych w ust. 1;
-- **3)** uzyskania negatywnego wyniku z jednego z etapów post ę powania kwalifikacyjnego, o których mowa w ust. 2 pkt 2–4;
+- **2)** niespełnienia wymagań określonych w ust. 1;
+- **3)** uzyskania negatywnego wyniku z jednego z etapów postępowania kwalifikacyjnego, o których mowa w ust. 2 pkt 2–4;
 - **4)** zatajenia lub podania nieprawdziwych danych w kwestionariuszu osobowym, o którym mowa w ust. 2 pkt 1;
 - **5)** niepoddania się przez kandydata przewidzianym w postępowaniu kwalifikacyjnym czynnościom lub etapom tego postępowania;
 - **6)** przystąpienia do ponownego postępowania kwalifikacyjnego pomimo uzyskania przez niego w poprzednim postępowaniu kwalifikacyjnym negatywnego wyniku z etapu postępowania kwalifikacyjnego, o którym mowa w ust. 2 pkt 5 i 6, gdy z informacji posiadanych przez Komendanta Straży Marszałkowskiej wynika, że nie uległy zmianie okoliczności stanowiące podstawę negatywnego wyniku z danego etapu.
 
 8. Prezes Rady Ministrów, po zasięgnięciu opinii Szefa Kancelarii Sejmu, określi, w drodze rozporządzenia, tryb przeprowadzania i oceniania postępowania kwalifikacyjnego dla kandydatów do służby, zakres i sposób przeprowadzania testu sprawności fizycznej oraz sposób sprawdzania wymogów posiadania obywatelstwa polskiego, korzystania z pełni praw publicznych i niekaralności za popełnienie przestępstwa, mając na względzie specyfikę zadań związanych ze służbą funkcjonariuszy Straży Marszałkowskiej.
 
-**Art. 19.**
+**Art. 18a.** Postępowanie kwalifikacyjne w stosunku do żołnierzy albo funkcjonariuszy Policji, Straży Granicznej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Wywiadu Wojskowego, Służby Kontrwywiadu Wojskowego, Służby Ochrony Państwa, Służby Więziennej, Służby Celno-Skarbowej, Centralnego Biura Antykorupcyjnego można ograniczyć do przeprowadzenia czynności określonych w art. 18 ust. 2 pkt 1, 2, 5 i 6.
 
-1. Funkcjonariusz Policji, Straży Granicznej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Wywiadu Wojskowego, Służby Kontrwywiadu Wojskowego, Służby Ochrony Państwa, Służby Więziennej, Służby Celno-Skarbowej, Centralnego Biura Antykorupcyjnego może być na własną prośbę przeniesiony do służby w Straży Marszałkowskiej, jeżeli wykazuje predyspozycje do jej pełnienia.
+**Art. 19.** (uchylony)
 
-2. Funkcjonariusza, o którym mowa w ust. 1, do służby w Straży Marszałkowskiej przenosi Komendant Straży Marszałkowskiej za zgodą Szefa Kancelarii Sejmu oraz w porozumieniu odpowiednio z Komendantem Głównym Policji, Komendantem Głównym Straży Granicznej, Komendantem Głównym Państwowej Straży Pożarnej, Szefem Agencji Bezpieczeństwa Wewnętrznego, Szefem Agencji Wywiadu, Szefem Służby Wywiadu Wojskowego, Szefem Służby Kontrwywiadu Wojskowego, Komendantem Służby Ochrony Państwa, Dyrektorem Generalnym Służby Więziennej, Szefem Krajowej Administracji Skarbowej lub Szefem Centralnego Biura Antykorupcyjnego.
+**Art. 19a.**
 
-3. Funkcjonariusz Policji, Straży Granicznej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Wywiadu Wojskowego, Służby Kontrwywiadu Wojskowego, Służby Ochrony Państwa, Służby Więziennej, Służby Celno-Skarbowej lub Centralnego Biura Antykorupcyjnego przeniesiony do służby w Straży Marszałkowskiej zachowuje ciągłość służby.
+1. Straż Marszałkowska jest uprawniona do przetwarzania informacji, w tym danych osobowych, w zakresie niezbędnym do prowadzenia postępowań kwalifikacyjnych do służby w Straży Marszałkowskiej oraz w zakresie wynikającym z przebiegu stosunku służbowego funkcjonariuszy Straży Marszałkowskiej, także po jego ustaniu, w tym ma prawo przetwarzać dane osobowe, o których mowa w art. 9 i art. 10 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem (UE) 2016/679”, z wyłączeniem danych dotyczących kodu genetycznego oraz danych daktyloskopijnych.
 
-4. Funkcjonariuszowi przenoszonemu w trybie, o którym mowa w ust. 1, nie przysługuje odprawa ani inne należności przewidziane dla funkcjonariuszy odchodzących ze służby.
-
-5. Prezes Rady Ministrów określi, w drodze rozporządzenia, szczegółowy sposób i tryb prowadzenia postępowania w sprawie przenoszenia funkcjonariuszy, o których mowa w ust. 1, uwzględniając posiadane umiejętności predestynujące do służby w Straży Marszałkowskiej, równorzędność okresów służby i stażu, przysługujące należności oraz uzyskane w dotychczasowych jednostkach kwalifikacje zawodowe.
-
-6. Rada Ministrów określi, w drodze rozporządzenia, jakie stopnie służb wymienionych w ust. 1 odpowiadają poszczególnym stopniom Straży Marszałkowskiej, uwzględniając równorzędność pierwszych stopni w poszczególnych korpusach.
+2. Do przetwarzania danych osobowych, o których mowa w ust. 1, nie stosuje się art. 13 ust. 1 lit. d i e oraz art. 16 rozporządzenia (UE) 2016/679 w zakresie, w jakim przepisy szczególne przewidują odrębny tryb sprostowania. Zabezpieczenie przetwarzania danych osobowych polega co najmniej na dopuszczeniu do ich przetwarzania wyłącznie funkcjonariuszy Straży Marszałkowskiej lub pracowników posiadających pisemne upoważnienie wydane przez administratora danych po pisemnym zobowiązaniu funkcjonariuszy Straży Marszałkowskiej lub pracowników do zachowania przetwarzanych danych w poufności.
 
 **Art. 20.**
 
 1. Przed podjęciem służby funkcjonariusz Straży Marszałkowskiej składa ślubowanie według następującej roty: „Ja, obywatel Rzeczypospolitej Polskiej, świadom podejmowanych obowiązków funkcjonariusza Straży Marszałkowskiej ślubuję wiernie służyć Narodowi Polskiemu, przestrzegać prawa, dochować wierności konstytucyjnym organom Rzeczypospolitej Polskiej, sumiennie wykonywać obowiązki funkcjonariusza Straży Marszałkowskiej, nawet z narażeniem własnego życia, a także strzec honoru i dobrego imienia służby oraz przestrzegać dyscypliny służbowej i zasad etyki zawodowej.”. Funkcjonariusz Straży Marszałkowskiej składający ślubowanie może dodać na końcu zdanie „Tak mi dopomóż Bóg”.
 
-2. Marszałek Sejmu określi, w drodze zarządzenia, ceremoniał składania ślubowania.
+2. Marszałek określi, w drodze zarządzenia, ceremoniał składania ślubowania.
 
 **Art. 21.**
 
 1. Stosunek służbowy funkcjonariusza Straży Marszałkowskiej powstaje w drodze mianowania na podstawie dobrowolnego zgłoszenia się do służby.
 
-2. Osob ę przyj ę t ą do słu ż by mianuje si ę funkcjonariuszem Stra ż y Marszałkowskiej w słu ż bie przygotowawczej na okres 3 lat.
+2. Osobę przyjętą do służby mianuje się funkcjonariuszem Straży Marszałkowskiej w służbie przygotowawczej na okres 3 lat. Mianowania dokonuje Szef Kancelarii Sejmu.
 
-3. Po upływie okresu słu ż by przygotowawczej i uzyskaniu pozytywnej opinii słu ż bowej funkcjonariusza Stra ż y Marszałkowskiej mianuje si ę funkcjonariuszem Stra ż y Marszałkowskiej w słu ż bie stałej.
+2a. Przyjęcie do służby i mianowanie na określone stanowisko służbowe może nastąpić po uzyskaniu poświadczenia bezpieczeństwa upoważniającego do dostępu do informacji niejawnych wymaganego na tym stanowisku.
 
-4. W przypadkach uzasadnionych szczególnymi kwalifikacjami funkcjonariusza Straży Marszałkowskiej Szef Kancelarii Sejmu może skrócić okres służby przygotowawczej funkcjonariusza Straży Marszałkowskiej albo zwolnić go z odbywania tej służby.
+2b. Akt mianowania funkcjonariusza Straży Marszałkowskiej w służbie przygotowawczej zawiera:
 
-5. Szef Kancelarii Sejmu może przedłużyć okres służby przygotowawczej o okres przerwy w wykonywaniu przez funkcjonariusza Straży Marszałkowskiej obowiązków służbowych w przypadku przerwy trwającej łącznie ponad 3 miesiące.
+- **1)** oznaczenie organu wydającego akt mianowania oraz jego siedziby;
+- **2)** imię i nazwisko funkcjonariusza Straży Marszałkowskiej;
+- **3)** dzień przyjęcia do służby;
+- **4)** określenie stanowiska służbowego;
+- **5)** określenie miejsca pełnienia służby;
+- **6)** określenie uposażenia.
 
-6. Szef Kancelarii Sejmu wydaje funkcjonariuszowi Straży Marszałkowskiej identyfikator służbowy i legitymację służbową oraz dokonuje w niej wpisów.
+2c. Okres służby przygotowawczej ma na celu przygotowanie funkcjonariusza Straży Marszałkowskiej do służby i wyszkolenie go oraz sprawdzenie jego przydatności do służby.
+
+3. (uchylony)
+
+4. W przypadkach uzasadnionych szczególnymi kwalifikacjami funkcjonariusza Straży Marszałkowskiej Szef Kancelarii może skrócić okres służby przygotowawczej funkcjonariusza Straży Marszałkowskiej.
+
+5. Szef Kancelarii może przedłużyć okres służby przygotowawczej o okres przerwy w wykonywaniu przez funkcjonariusza Straży Marszałkowskiej obowiązków służbowych w przypadku przerwy trwającej łącznie ponad 3 miesiące.
+
+5a. Po upływie okresu służby przygotowawczej i uzyskaniu pozytywnej opinii służbowej funkcjonariusza Straży Marszałkowskiej mianuje się funkcjonariuszem Straży Marszałkowskiej w służbie stałej. Mianowania dokonuje Szef Kancelarii Sejmu.
+
+5b. Akt mianowania funkcjonariusza Straży Marszałkowskiej w służbie stałej zawiera:
+
+- **1)** oznaczenie organu wydającego akt mianowania oraz jego siedziby;
+- **2)** stopień służbowy Straży Marszałkowskiej;
+- **3)** imię i nazwisko funkcjonariusza Straży Marszałkowskiej;
+- **4)** określenie stanowiska służbowego;
+- **5)** określenie miejsca pełnienia służby;
+- **6)** określenie uposażenia;
+- **7)** dzień mianowania funkcjonariusza Straży Marszałkowskiej w służbie stałej.
+
+5c. Przełożony informuje na piśmie funkcjonariusza Straży Marszałkowskiej, nie później niż w terminie 7 dni od dnia przyjęcia do służby, co najmniej o:
+
+- **1)** świadczeniach pieniężnych przysługujących temu funkcjonariuszowi;
+- **2)** obowiązującym tego funkcjonariusza rozkładzie czasu służby, dniowym i tygodniowym wymiarze czasu służby, zasadach dotyczących pełnienia służby w ponadnormatywnym jej wymiarze, udzielania czasu wolnego od służby oraz wypłaty rekompensaty pieniężnej, o której mowa w art. 23 ust. 4, a także zasadach dotyczących przejścia ze zmiany na zmianę w przypadku pełnienia przez tego funkcjonariusza służby w ramach zmianowego rozkładu czasu służby;
+- **3)** wymiarze przysługującego temu funkcjonariuszowi płatnego urlopu, w szczególności urlopu wypoczynkowego, oraz procedurach jego udzielania;
+- **4)** obowiązującej procedurze rozwiązania stosunku służbowego, w tym wymogach formalnych, długości okresów, po upływie których następuje zwolnienie tego funkcjonariusza ze służby, oraz przysługujących środkach odwoławczych;
+- **5)** prawie tego funkcjonariusza do szkoleń organizowanych w Straży Marszałkowskiej oraz polityce szkoleniowej w Straży Marszałkowskiej;
+- **6)** terminach wypłacania temu funkcjonariuszowi uposażenia i innych świadczeń pieniężnych;
+- **7)** przyjętym sposobie potwierdzania przez tego funkcjonariusza przybycia i obecności w służbie oraz usprawiedliwiania nieobecności w służbie;
+- **8)** zasadach przekazywania do Zakładu Ubezpieczeń Społecznych składek na ubezpieczenie społeczne w przypadku zwolnienia tego funkcjonariusza ze służby.
+
+5d. Przełożony informuje na piśmie funkcjonariusza Straży Marszałkowskiej o zmianie warunków służby, o których mowa w ust. 5c, niezwłocznie, nie później niż w dniu, w którym taka zmiana warunków służby ma zastosowanie do tego funkcjonariusza. Nie dotyczy to przypadku, w którym zmiana warunków służby wynika ze zmiany przepisów prawa. Poinformowanie funkcjonariusza Straży Marszałkowskiej o jego warunkach służby, o których mowa w ust. 5c, oraz o ich zmianie może nastąpić przez pisemne wskazanie odpowiednich przepisów prawa.
+
+5e. Informacje, o których mowa w ust. 5c i 5d, przełożony może przekazać funkcjonariuszowi Straży Marszałkowskiej w postaci elektronicznej, pod warunkiem że będą one dostępne dla tego funkcjonariusza z możliwością ich wydrukowania oraz przechowywania, a przełożony zachowa dowód ich przekazania lub otrzymania przez tego funkcjonariusza.
+
+6. Szef Kancelarii wydaje funkcjonariuszowi Straży Marszałkowskiej identyfikator służbowy i legitymację służbową oraz dokonuje w niej wpisów.
 
 7. Prezes Rady Ministrów, po zasięgnięciu opinii Szefa Kancelarii Sejmu, określi, w drodze rozporządzenia, wzór legitymacji służbowej funkcjonariusza Straży Marszałkowskiej oraz tryb postępowania w przypadku utraty lub odnalezienia legitymacji, z uwzględnieniem informacji zawartych w tej legitymacji.
 
-**Art. 22.**
+**Art. 21a.**
 
-1. Szef Kancelarii Sejmu, w drodze decyzji, mianuje funkcjonariusza Straży Marszałkowskiej na stanowisko służbowe, przenosi oraz zwalnia ze stanowiska.
+1. Funkcjonariusz Straży Marszałkowskiej niezwłocznie po przyjęciu do służby odbywa szkolenie wstępne, na które składa się adaptacja zawodowa, kurs przygotowawczy oraz praktyka zawodowa.
 
-2. Mianowanie może nastąpić po uzyskaniu poświadczenia bezpieczeństwa upoważniającego do dostępu do informacji niejawnych wymaganego na określonym stanowisku służbowym.
+2. Funkcjonariusz Straży Marszałkowskiej może rozpocząć szkolenie zawodowe po pozytywnym zakończeniu szkolenia wstępnego.
+
+3. Komendant Straży Marszałkowskiej określi programy szkolenia wstępnego, zawodowego oraz specjalistycznego w Straży Marszałkowskiej oraz czas trwania szkoleń.
+
+4. Marszałek określi, w drodze zarządzenia:
+
+- **1)** warunki odbywania szkolenia wstępnego, zawodowego oraz specjalistycznego w Straży Marszałkowskiej;
+- **2)** sposób zakończenia szkolenia wstępnego;
+- **3)** sposób i tryb przeprowadzania egzaminów na pierwszy stopień w korpusie podoficerów, korpusie chorążych i korpusie oficerów;
+- **4)** warunki oraz sposób prowadzenia doskonalenia zawodowego funkcjonariuszy Straży Marszałkowskiej.
+
+**Art. 22.** (uchylony)
 
 **Art. 23.**
 
 1. Czas pełnienia służby przez funkcjonariusza Straży Marszałkowskiej jest określony wymiarem jego obowiązków, z uwzględnieniem prawa do wypoczynku.
 
-2. Czas pełnienia służby przez funkcjonariusza Straży Marszałkowskiej wynosi 40 godzin tygodniowo w przyjętym okresie rozliczeniowym nieprzekraczającym 6 miesięcy.
+2. Czas pełnienia służby funkcjonariusza Straży Marszałkowskiej wynosi przeciętnie 40 godzin tygodniowo w przyjętym okresie rozliczeniowym od dnia 1 stycznia do dnia 30 czerwca danego roku oraz od dnia 1 lipca do dnia 31 grudnia danego roku.
 
 3. Przepisu ust. 2 nie stosuje się do funkcjonariuszy Straży Marszałkowskiej skierowanych na szkolenie w systemie skoszarowanym lub przebywających w podróży służbowej.
 
-4. W zamian za czas służby przekraczający normę określoną w ust. 2 funkcjonariuszowi Straży Marszałkowskiej przysługuje czas wolny od służby w tym samym wymiarze albo rekompensata pieniężna.
+3a. Funkcjonariusz Straży Marszałkowskiej pełni służbę w rozkładzie czasu służby:
 
-5. Rekompensata pieniężna, o której mowa w ust. 4, za jedną godzinę służby stanowi 60% z 1/172 przeciętnego uposażenia zasadniczego należnego na ostatnio zajmowanym stanowisku służbowym wraz z dodatkami o charakterze stałym.
+- **1)** zmianowym – na stanowiskach służbowych, na których wymaga się pełnienia służby w systemie zmianowym lub w sposób ciągły;
+- **2)** podstawowym – na pozostałych stanowiskach służbowych.
 
-6. Należną rekompensatę pieniężną wypłaca się do końca kwartału następującego po okresie rozliczeniowym, lecz nie później niż w dniu zwolnienia ze służby.
+3b. W zmianowym rozkładzie czasu służby funkcjonariusz Straży Marszałkowskiej pełni służbę bez względu na dzień tygodnia, na zmiany trwające 12 godzin, po których następują 24 godziny wolne od służby albo 48 godzin wolnych od służby, jeżeli pełnił on służbę w porze nocnej.
 
-7. Marszałek Sejmu określi, w drodze zarządzenia, rozkład czasu służby oraz tryb udzielania czasu wolnego w zamian za służbę w wymiarze przekraczającym 40 godzin tygodniowo, uwzględniając czas niezbędny na wypoczynek oraz prawidłowe wykonywanie służby.
+3c. Godziny rozpoczęcia i zakończenia służby w zmianowym rozkładzie czasu służby ustala Komendant Straży Marszałkowskiej.
+
+3d. Przez służbę w porze nocnej należy rozumieć wykonywanie czynności służbowych przez funkcjonariusza Straży Marszałkowskiej co najmniej przez 3 godziny między godzinami 22.00 a 6.00.
+
+3e. W podstawowym rozkładzie czasu służby funkcjonariusz Straży Marszałkowskiej pełni służbę przez 8 godzin dziennie, od poniedziałku do piątku, w godzinach od 8.00 do 16.00. Komendant Straży Marszałkowskiej może określić inne godziny rozpoczęcia i zakończenia służby w podstawowym rozkładzie czasu służby, jeżeli wymaga tego szczególny charakter wykonywanych zadań lub na wniosek funkcjonariusza Straży Marszałkowskiej albo w czasie mobilizacji lub wojny.
+
+3f. W uzasadnionych przypadkach funkcjonariusz Straży Marszałkowskiej pełniący służbę w podstawowym rozkładzie czasu służby może być wyznaczony przez Komendanta Straży Marszałkowskiej do pełnienia służby w sobotę, niedzielę lub święto, jeżeli jest to niezbędne ze względu na charakter realizowanych zadań. W zamian za czas służby w sobotę, niedzielę lub święto funkcjonariuszowi Straży Marszałkowskiej udziela się czasu wolnego w tym samym wymiarze w okresie rozliczeniowym.
+
+3g. W szczególnie uzasadnionych przypadkach Komendant Straży Marszałkowskiej może ustalić indywidualny rozkład czasu służby funkcjonariusza Straży Marszałkowskiej, na jego wniosek lub za jego zgodą, w ramach czasu służby, o którym mowa w ust. 2.
+
+4. W zamian za czas służby przekraczający normę określoną w ust. 2 funkcjonariuszowi Straży Marszałkowskiej przysługuje w okresie rozliczeniowym czas wolny od służby w tym samym wymiarze albo po zakończeniu okresu rozliczeniowego rekompensata pieniężna, o ile w terminie 10 dni od dnia zakończenia okresu rozliczeniowego nie wystąpi z wnioskiem o udzielenie czasu wolnego od służby w tym samym wymiarze.
+
+5. Rekompensatę pieniężną, o której mowa w ust. 4, przyznaje się w wysokości 1/172 części miesięcznego uposażenia zasadniczego wraz z dodatkami o charakterze stałym należnego funkcjonariuszowi Straży Marszałkowskiej na stanowisku zajmowanym w ostatnim dniu okresu rozliczeniowego za każdą godzinę służby przekraczającą normę, o której mowa w ust. 2. Łączny czas służby przekraczający normę w danym okresie rozliczeniowym zaokrągla się w górę do pełnej godziny.
+
+6. Rekompensatę pieniężną, o której mowa w ust. 4, wypłaca się do końca kwartału następującego po okresie rozliczeniowym, o którym mowa w ust. 2, lecz nie później niż w dniu zwolnienia ze służby.
+
+7. Marszałek określi, w drodze zarządzenia, tygodniowy wymiar czasu służby, przypadki przedłużenia czasu służby ponad ustaloną normę, sposób ewidencjonowania i rozliczania czasu służby, tryb przyznawania i termin wypłaty rekompensaty pieniężnej, o której mowa w ust. 4, sposób pełnienia przez funkcjonariuszy Straży Marszałkowskiej dyżurów domowych oraz grupę funkcjonariuszy Straży Marszałkowskiej zwolnionych z pełnienia służby w porze nocnej, niedziele i święta.
 
 **Art. 24.**
 
 1. Funkcjonariusz Straży Marszałkowskiej podlega opiniowaniu służbowemu.
 
-2. Opiniowanie służbowe funkcjonariusza Straży Marszałkowskiej w służbie stałej odbywa się co najmniej raz na 2 lata, zaś funkcjonariusza Straży Marszałkowskiej w służbie przygotowawczej co najmniej raz na rok.
+2. Opiniowanie służbowe funkcjonariusza Straży Marszałkowskiej w służbie stałej odbywa się co najmniej raz na 2 lata, zaś funkcjonariusza Straży Marszałkowskiej w służbie przygotowawczej – co najmniej raz na rok.
 
 3. Opiniowanie służbowe funkcjonariusza Straży Marszałkowskiej ma:
 
 - **1)** ocenić jego wywiązywanie się z obowiązków na stanowisku służbowym;
 - **2)** ocenić jego kompetencje i predyspozycje;
 - **3)** wyznaczać kierunki rozwoju zawodowego i określać potrzeby szkoleniowe opiniowanego.
+
+3a. W opiniowaniu służbowym, w zależności od zajmowanego stanowiska służbowego i charakteru wykonywanych zadań służbowych, ocenia się:
+
+- **1)** umiejętności zawodowe, kwalifikacje specjalistyczne wynikające z ukończenia szkoleń lub studiów, znajomość języków obcych oraz wyniki osiągane przez funkcjonariusza Straży Marszałkowskiej podczas szkoleń;
+- **2)** znajomość przepisów i procedur oraz umiejętność ich stosowania, pozwalającą na wywiązywanie się z obowiązków służbowych na zajmowanym stanowisku;
+- **3)** inicjatywę oraz podnoszenie kwalifikacji, a także umiejętność samodzielnego wyszukiwania i zdobywania niezbędnych informacji;
+- **4)** umiejętność planowania i organizowania pracy, z uwzględnieniem zdolności stopniowania obowiązków według ich ważności, oraz sprawność i terminowość wykonywania obowiązków służbowych;
+- **5)** umiejętność pracy w zespole, z uwzględnieniem przejawiania postawy sprzyjającej kształtowaniu dobrej atmosfery pracy, niepowodowania sytuacji konfliktowych, a w razie potrzeby – udzielania pomocy i doradzania;
+- **6)** komunikatywność;
+- **7)** zdolność analitycznego myślenia, z uwzględnieniem umiejętności oceny wartości informacji, ich źródeł i wyboru oraz interpretowania i wyciągania wniosków;
+- **8)** samodzielność, z uwzględnieniem umiejętności działania bez angażowania innych osób oraz konieczności nadzoru przełożonych;
+- **9)** motywację i kreatywność, z uwzględnieniem umiejętności tworzenia nowych rozwiązań oraz doskonalenia już istniejących, inicjowania działań i przyjmowania odpowiedzialności za nie;
+- **10)** dyspozycyjność, z uwzględnieniem możliwości i gotowości podejmowania oraz wykonywania obowiązków służbowych;
+- **11)** zdolność do radzenia sobie w sytuacjach kryzysowych, z uwzględnieniem umiejętności stanowczego i zdecydowanego działania w sytuacjach nietypowych, gdy nie wystarczają standardowe procedury postępowania, odporność na stres, opanowanie emocjonalne, umiejętność dostosowania działań do szybko zmieniających się warunków i sytuacji;
+- **12)** zdyscyplinowanie, a także przestrzeganie zasad wynikających ze złożonego ślubowania.
+
+3b. W opiniowaniu służbowym funkcjonariusza Straży Marszałkowskiej zajmującego stanowisko kierownicze ocenie podlegają dodatkowo:
+
+- **1)** umiejętność efektywnego zarządzania, z uwzględnieniem umiejętności prawidłowego rozlokowania i wykorzystania potencjału ludzkiego oraz zasobów rzeczowych, finansowych i informacyjnych, niezbędnych w wykonywaniu obowiązków służbowych, kontroli wykonywania obowiązków służbowych przez podległych funkcjonariuszy i pracowników Straży Marszałkowskiej, a także motywowania ich do wyższej jakości pracy oraz rozwoju zawodowego;
+- **2)** zdolność negocjowania, z uwzględnieniem umiejętności wypracowania pożądanego stanowiska, utrzymania właściwych stosunków międzyludzkich, a w sytuacji konfliktowej – podejmowania otwartej dyskusji na temat źródeł konfliktu w celu rozwiązania problemu;
+- **3)** umiejętność strategicznego myślenia, rozpoznawania potrzeb i wyznaczania kierunków działania, umiejętność oceny ryzyka oraz tworzenia strategii działania zgodnej z celami służby.
 
 4. Na podstawie ocen, o których mowa w ust. 3, opiniujący wystawia ogólną ocenę opiniowanego funkcjonariusza Straży Marszałkowskiej, wyrażoną z zastosowaniem następującej skali ocen:
 
@@ -356,24 +529,60 @@ o Stra ż y Marszałkowskiej
 - **4)** dostateczna (3);
 - **5)** niedostateczna (2).
 
-5. Wła ś ciwy do opiniowania słu ż bowego Komendanta Stra ż y Marszałkowskiej i jego zast ę pców jest Szef Kancelarii Sejmu, za ś w stosunku do pozostałych funkcjonariuszy Stra ż y Marszałkowskiej Komendant Stra ż y Marszałkowskiej.
+5. Opinie służbowe sporządzają:
 
-6. Osoba opiniująca doręcza, za pokwitowaniem, potwierdzoną kopię opinii służbowej funkcjonariuszowi Straży Marszałkowskiej, którego ona dotyczy, w terminie 30 dni od dnia jej sporządzenia. W opinii służbowej zamieszcza się pouczenie o przysługującym opiniowanemu prawie do wniesienia odwołania od opinii.
+- **1)** Szef Kancelarii – o Komendancie Straży Marszałkowskiej i jego zastępcach;
+- **2)** Komendant Straży Marszałkowskiej – o kierujących komórkami wewnętrznymi oraz funkcjonariuszach Straży Marszałkowskiej pełniących służbę na stanowiskach samodzielnych;
+- **3)** kierujący komórką wewnętrzną – o podległych mu bezpośrednio funkcjonariuszach Straży Marszałkowskiej.
 
-7. W przypadku gdy nie jest możliwe doręczenie funkcjonariuszowi Straży Marszałkowskiej kopii opinii służbowej w terminie, o którym mowa w ust. 6, termin ten biegnie od dnia ustania przeszkody.
+6. Sporządzający opinię służbową zapoznaje z jej treścią opiniowanego funkcjonariusza Straży Marszałkowskiej w terminie 14 dni od dnia jej sporządzenia. W opinii służbowej zamieszcza się pouczenie o przysługującym opiniowanemu prawie do złożenia wniosku o jej zmianę.
 
-8. W przypadku odmowy przyjęcia opinii służbowej przez opiniowanego za równoznaczne z doręczeniem, o którym mowa w ust. 6, uznaje się zapoznanie opiniowanego z treścią opinii przez jej odczytanie w obecności funkcjonariusza. Opiniujący poucza opiniowanego o przysługującym mu prawie do wniesienia odwołania od opinii i dokonuje o tym fakcie adnotacji w arkuszu opinii służbowej.
+7. (uchylony)
 
-9. W terminie 14 dni od dnia zapoznania się z opinią służbową Komendantowi Straży Marszałkowskiej i jego zastępcom przysługuje odwołanie od niej do Marszałka Sejmu, zaś pozostałym funkcjonariuszom Straży Marszałkowskiej do Szefa Kancelarii Sejmu.
+8. Funkcjonariusz Straży Marszałkowskiej potwierdza fakt zapoznania się z treścią opinii służbowej własnoręcznym podpisem. W razie odmowy złożenia podpisu przez funkcjonariusza Straży Marszałkowskiej, sporządzający opinię służbową dokonuje o tym fakcie adnotacji w arkuszu opinii służbowej.
 
-10. Opinia służbowa wydana wskutek odwołania jest ostateczna.
+8a. Funkcjonariusz Straży Marszałkowskiej otrzymuje, za pokwitowaniem, kopię opinii służbowej.
 
-11. Do opiniowania Komendanta Straży Marszałkowskiej i jego zastępców mają zastosowanie przepisy ust. 3, 4, 6–8 i 12.
+9. W terminie 14 dni od dnia otrzymania kopii opinii służbowej przysługuje, za pośrednictwem sporządzającego opinię służbową, wniosek o jej zmianę do:
 
-12. Prezes Rady Ministrów po zasięgnięciu opinii Szefa Kancelarii Sejmu określi, w drodze rozporządzenia:
+- **1)** Szefa Kancelarii Sejmu, jeżeli opinia służbowa dotyczy: Komendanta Straży Marszałkowskiej, jego zastępców, kierujących komórkami wewnętrznymi oraz funkcjonariuszy Straży Marszałkowskiej pełniących służbę na stanowiskach samodzielnych;
+- **2)** Komendanta Straży Marszałkowskiej, jeżeli opinia służbowa dotyczy pozostałych funkcjonariuszy Straży Marszałkowskiej.
 
-- **1)** szczegółowy tryb opiniowania służbowego oraz sposób oceniania funkcjonariusza Straży Marszałkowskiej, doręczania mu i zapoznawania go z treścią opinii służbowej, wnoszenia i rozpatrywania odwołania od niej,
-- **2)** wzór arkusza opinii służbowej mając na względzie, aby sporządzana opinia służbowa jednoznacznie wskazywała na przydatność lub brak przydatności funkcjonariusza Straży Marszałkowskiej na zajmowanym stanowisku służbowym oraz na poziom i rzetelność wykonywania zadań służbowych, a wzór arkusza opinii służbowej zawierał wszystkie dane niezbędne do jej sporządzenia oraz umożliwiał opiniowanemu wypowiedzenie się w sprawie dalszego przebiegu służby.
+10. (uchylony)
+
+11. (uchylony)
+
+12. Marszałek określi, w drodze zarządzenia:
+
+- **1)** szczegółowy tryb opiniowania służbowego funkcjonariusza Straży Marszałkowskiej oraz rozpatrywania wniosków o zmianę opinii służbowej;
+- **2)** wzór arkusza opinii służbowej.
+
+**Art. 24a.**
+
+1. Stanowiska służbowe w Straży Marszałkowskiej dzieli się na oficerskie, chorążych i podoficerskie.
+
+2. Na stanowiskach oficerskich wymaga się posiadania tytułu zawodowego magistra, magistra inżyniera albo równorzędnego, ukończenia szkolenia zawodowego zakończonego zdanym egzaminem na pierwszy stopień podoficerski oraz ukończenia szkolenia specjalistycznego zakończonego zdanym egzaminem na pierwszy stopień oficerski.
+
+3. Na stanowiskach chorążych wymaga się posiadania co najmniej tytułu zawodowego licencjata, inżyniera albo równorzędnego, ukończenia szkolenia zawodowego zakończonego zdanym egzaminem na pierwszy stopień podoficerski oraz ukończenia szkolenia specjalistycznego zakończonego zdanym egzaminem na pierwszy stopień chorążego.
+
+4. Na stanowiskach podoficerskich wymaga się posiadania co najmniej wykształcenia średniego oraz ukończenia szkolenia zawodowego zakończonego zdanym egzaminem na pierwszy stopień podoficerski.
+
+**Art. 24b.**
+
+1. Funkcjonariusz Straży Marszałkowskiej może być mianowany na wyższe stanowisko służbowe, jeżeli spełnia wymagania w zakresie wykształcenia, kwalifikacji zawodowych oraz stażu służby.
+
+2. W szczególnie uzasadnionych przypadkach Komendant Straży Marszałkowskiej może mianować funkcjonariusza Straży Marszałkowskiej na wyższe stanowisko służbowe przed uzyskaniem przez niego kwalifikacji zawodowych oraz osiągnięciem przez niego stażu służby wymaganych na tym stanowisku.
+
+3. Marszałek określi, w drodze zarządzenia:
+
+- **1)** stanowiska służbowe w Straży Marszałkowskiej;
+- **2)** staż służby wymagany do zajmowania poszczególnych stanowisk służbowych;
+- **3)** wykształcenie oraz kwalifikacje zawodowe wymagane do zajmowania poszczególnych stanowisk służbowych;
+- **4)** najwyższe stopnie służbowe Straży Marszałkowskiej przypisane do poszczególnych stanowisk służbowych.
+
+**Art. 24c.** Funkcjonariuszowi Straży Marszałkowskiej można powierzyć pełnienie obowiązków służbowych na innym stanowisku służbowym niż zajmowane na czas nieprzekraczający łącznie 12 miesięcy. W okresie tym uposażenie funkcjonariusza Straży Marszałkowskiej nie może być obniżone.
+
+**Art. 24d.** Funkcjonariusza Straży Marszałkowskiej zwalnia się ze stanowiska służbowego i przenosi do dyspozycji Komendanta Straży Marszałkowskiej w przypadku odmowy wydania mu poświadczenia bezpieczeństwa lub wszczęcia wobec niego kontrolnego postępowania sprawdzającego, zgodnie z przepisami ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2024 r. poz. 632 i 1222).
 
 **Art. 25.**
 
@@ -394,11 +603,11 @@ o Stra ż y Marszałkowskiej
 
 1. Funkcjonariusza Straży Marszałkowskiej zawiesza się w czynnościach służbowych w razie wszczęcia przeciwko niemu postępowania karnego o przestępstwo umyślne ścigane z oskarżenia publicznego lub przestępstwo skarbowe.
 
-2. Funkcjonariusza Straży Marszałkowskiej można zawiesić w czynnościach służbowych w razie wszczęcia przeciwko niemu postępowania karnego o przestępstwo nieumyślne ścigane z oskarżenia publicznego albo postępowania dyscyplinarnego jeżeli jest to celowe ze względu na dobro postępowania.
+2. Funkcjonariusza Straży Marszałkowskiej można zawiesić w czynnościach służbowych w razie wszczęcia przeciwko niemu postępowania karnego o przestępstwo nieumyślne ścigane z oskarżenia publicznego albo postępowania dyscyplinarnego – jeżeli jest to celowe ze względu na dobro postępowania.
 
 3. Zawieszenie w czynnościach służbowych następuje na czas nie dłuższy niż 3 miesiące.
 
-4. W szczególnie uzasadnionych przypadkach okres zawieszenia w czynno ś ciach słu ż bowych mo ż na przedłu ż y ć do czasu uko ń czenia post ę powania karnego.
+4. W szczególnie uzasadnionych przypadkach okres zawieszenia w czynnościach służbowych można przedłużyć do czasu ukończenia postępowania karnego.
 
 **Art. 27.** Funkcjonariusz Straży Marszałkowskiej może być skierowany do komisji lekarskiej podległej ministrowi właściwemu do spraw wewnętrznych:
 
@@ -408,7 +617,7 @@ o Stra ż y Marszałkowskiej
 
 2. W przypadku gdy przeprowadzone badania i zgromadzona dokumentacja nie pozwalają na wydanie orzeczenia, funkcjonariusz Straży Marszałkowskiej może zostać skierowany na obserwację w podmiocie leczniczym, jeżeli wyraża na to zgodę.
 
-3. Funkcjonariusz Straży Marszałkowskiej może być również poddany badaniom psychofizjologicznym. O skierowaniu funkcjonariusza na te badania decyduje Szef Kancelarii Sejmu. Decyzja Szefa Kancelarii Sejmu nie wymaga uzasadnienia.
+3. Funkcjonariusz Straży Marszałkowskiej może być również poddany badaniom psychofizjologicznym.
 
 **Art. 29.**
 
@@ -418,10 +627,10 @@ o Stra ż y Marszałkowskiej
 - **2)** nieprzydatności do służby stwierdzonej w opinii służbowej w okresie służby przygotowawczej;
 - **3)** wymierzenia kary dyscyplinarnej wydalenia ze służby;
 - **4)** utraty obywatelstwa polskiego lub nabycia obywatelstwa innego państwa;
-- **5)** podania nieprawdy w oświadczeniu składanym na podstawie art. 10 ustawy z dnia 21 sierpnia 1997 r. o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne (Dz. U. z 2017 r. poz. 1393), stwierdzonego w drodze postępowania dyscyplinarnego;
+- **5)** podania nieprawdy w oświadczeniu składanym na podstawie art. 10 ustawy z dnia 21 sierpnia 1997 r. o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne (Dz. U. z 2023 r. poz. 1090 oraz z 2024 r. poz. 1840), stwierdzonego w drodze postępowania dyscyplinarnego;
 - **6)** skazania prawomocnym wyrokiem sądu za popełnione umyślnie przestępstwo ścigane z oskarżenia publicznego lub przestępstwo skarbowe;
 - **7)** objęcia kierowniczego stanowiska państwowego albo objęcia funkcji z wyboru w organach samorządu terytorialnego;
-- **8)** odmowy wydania mu poświadczenia bezpieczeństwa zgodnie z przepisami ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2018 r. poz. 412 i 650).
+- **8)** wydania ostatecznej decyzji o odmowie wydania poświadczenia bezpieczeństwa lub decyzji o cofnięciu poświadczenia bezpieczeństwa, zgodnie z przepisami ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych.
 
 2. Funkcjonariusza Straży Marszałkowskiej można zwolnić ze służby w przypadku:
 
@@ -429,29 +638,27 @@ o Stra ż y Marszałkowskiej
 - **2)** skazania prawomocnym wyrokiem sądu za przestępstwo nieumyślne ścigane z oskarżenia publicznego;
 - **3)** nabycia prawa do emerytury w pełnym wymiarze określonego w przepisach odrębnych;
 - **4)** niezłożenia w terminie oświadczenia, o którym mowa w art. 10 ustawy z dnia 21 sierpnia 1997 r. o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne;
-- **5)** dwukrotnego nieusprawiedliwionego niestawienia się na badania, o których mowa w art. 28 ust. 1, lub niepoddania się im albo dwukrotnego nieusprawiedliwionego niestawienia się na obserwację w podmiocie leczniczym w przypadku wyrażenia zgody przez funkcjonariusza Straży Marszałkowskiej, chyba że skierowanie do komisji lekarskiej nastąpiło na wniosek funkcjonariusza Straży Marszałkowskiej;
+- **5)** dwukrotnego nieusprawiedliwionego niestawienia się na badania, o których mowa w art. 28 ust. 1, lub niepoddania się im albo – dwukrotnego nieusprawiedliwionego niestawienia się na obserwację w podmiocie leczniczym w przypadku wyrażenia zgody przez funkcjonariusza Straży Marszałkowskiej, chyba że skierowanie do komisji lekarskiej nastąpiło na wniosek funkcjonariusza Straży Marszałkowskiej;
 - **6)** upływu 12 miesięcy od dnia zaprzestania wykonywania obowiązków służbowych z powodu choroby;
-- **7)** popełnienia przestępstwa ściganego z oskarżenia publicznego, w sytuacji gdy okoliczności jego popełnienia nie budzą wątpliwości;
-- **8)** osi ą gni ę cia wieku wynosz ą cego co najmniej 60 lat dla kobiet i co najmniej 65 lat dla m ęż czyzn;
-- **9)** odmowy poddania si ę badaniu, o którym mowa w art. 28 ust. 3.
+- **7)** popełnienia czynu o znamionach przestępstwa ściganego z oskarżenia publicznego, w sytuacji gdy okoliczności jego popełnienia nie budzą wątpliwości;
+- **8)** osiągnięcia wieku wynoszącego co najmniej 60 lat dla kobiet i co najmniej 65 lat dla mężczyzn;
+- **9)** odmowy poddania się badaniu, o którym mowa w art. 28 ust. 3.
 
-3. Funkcjonariusza Stra ż y Marszałkowskiej zwalnia si ę ze słu ż by w terminie 3 miesi ę cy od dnia pisemnego zgłoszenia przez niego wyst ą pienia ze słu ż by. Termin ten mo ż e by ć skrócony za zgod ą stron.
+3. Funkcjonariusza Straży Marszałkowskiej zwalnia się ze służby w terminie do 3 miesięcy od dnia pisemnego zgłoszenia wystąpienia przez niego ze służby.
 
-**Art. 30.**
-
-1. W przypadku uchylenia prawomocnego wyroku skazującego lub prawomocnego orzeczenia o warunkowym umorzeniu postępowania karnego lub postępowania karno-skarbowego i wydania orzeczenia o umorzeniu postępowania karnego albo w przypadku uchylenia kary dyscyplinarnej wyznaczenia na niższe stanowisko służbowe lub kary wydalenia ze służby, ulegają uchyleniu skutki, jakie powstały dla funkcjonariusza Straży Marszałkowskiej w związku z wyznaczeniem na niższe stanowisko służbowe. O uchyleniu innych skutków decyduje Szef Kancelarii Sejmu.
-
-2. W przypadku uchylenia prawomocnego wyroku skazującego lub prawomocnego orzeczenia o warunkowym umorzeniu postępowania karnego lub postępowania karno-skarbowego i wydania prawomocnego wyroku uniewinniającego ulegają uchyleniu wszystkie skutki, jakie powstały dla funkcjonariusza Straży Marszałkowskiej w wyniku postępowania dyscyplinarnego przeprowadzonego w związku z oskarżeniem o popełnienie przestępstwa stanowiącego przedmiot rozstrzygnięcia sądu.
-
-3. Jeżeli w przypadku, o którym mowa w ust. 2, podstawę orzeczenia kary dyscyplinarnej stanowiły przesłanki inne niż tylko oskarżenie o popełnienie przestępstwa lub przestępstwa skarbowego, o uchyleniu skutków, jakie powstały dla funkcjonariusza Straży Marszałkowskiej w wyniku postępowania dyscyplinarnego, decyduje Szef Kancelarii Sejmu. Przepis ust. 1 stosuje się odpowiednio.
+**Art. 30.** (uchylony)
 
 **Art. 31.** Zwolnienie funkcjonariusza Straży Marszałkowskiej ze służby nie może nastąpić przed upływem 12 miesięcy od dnia zaprzestania wykonywania obowiązków służbowych z powodu choroby, chyba że funkcjonariusz Straży Marszałkowskiej zgłosi pisemnie wystąpienie ze służby.
 
 **Art. 32.**
 
-1. Funkcjonariusza Straży Marszałkowskiej nie można zwolnić ze służby w okresie ciąży, w czasie urlopu macierzyńskiego, urlopu na warunkach urlopu macierzyńskiego, urlopu ojcowskiego, urlopu rodzicielskiego lub urlopu wychowawczego, z wyjątkiem przypadków określonych w art. 29 ust. 1 pkt 3, 4, 6 i 7 oraz ust. 2 pkt 2 i 3.
+1. Funkcjonariusza Straży Marszałkowskiej nie można zwolnić ze służby w okresie ciąży, w czasie urlopu macierzyńskiego, urlopu na warunkach urlopu macierzyńskiego, uzupełniającego urlopu macierzyńskiego, urlopu ojcowskiego, urlopu rodzicielskiego lub urlopu wychowawczego, z wyjątkiem przypadków określonych w art. 29 ust. 1 pkt 3, 4, 6 i 7 oraz ust. 2 pkt 2 i 3.
 
-2. W przypadku zwolnienia funkcjonariusza Straży Marszałkowskiej ze służby na podstawie art. 29 ust. 2 pkt 3 w okresie ciąży, w czasie urlopu macierzyńskiego, urlopu na warunkach urlopu macierzyńskiego, urlopu ojcowskiego lub urlopu rodzicielskiego przysługuje mu uposażenie do końca okresu ciąży oraz trwania wymienionego urlopu.
+1a. Wobec funkcjonariusza Straży Marszałkowskiej, o którym mowa w ust. 1, który złożył wniosek o elastyczną organizację służby, lub funkcjonariusza Straży Marszałkowskiej w przypadkach, o których mowa w art. 62a ust. 1 i art. 62b ust. 1, przełożony nie może prowadzić przygotowań w związku z zamiarem rozwiązania stosunku służbowego z tym funkcjonariuszem, z wyjątkiem przypadków, o których mowa w ust. 1.
+
+1b. W razie zwolnienia ze służby funkcjonariusza Straży Marszałkowskiej w przypadkach, o których mowa w ust. 1 i 1a, Szef Kancelarii udowadnia, że kierował się obiektywnymi powodami.
+
+2. W przypadku zwolnienia funkcjonariusza Straży Marszałkowskiej ze służby na podstawie art. 29 ust. 2 pkt 3 w okresie ciąży, w czasie urlopu macierzyńskiego, urlopu na warunkach urlopu macierzyńskiego, uzupełniającego urlopu macierzyńskiego, urlopu ojcowskiego lub urlopu rodzicielskiego przysługuje mu uposażenie do końca okresu ciąży oraz trwania wymienionego urlopu.
 
 3. Funkcjonariuszowi Straży Marszałkowskiej zwolnionemu na podstawie art. 29 ust. 2 pkt 3 w czasie urlopu wychowawczego przysługują do końca okresu, na który ten urlop został udzielony:
 
@@ -464,9 +671,9 @@ o Stra ż y Marszałkowskiej
 
 2. Funkcjonariusz Straży Marszałkowskiej może żądać sprostowania świadectwa służby w terminie 7 dni od dnia jego otrzymania.
 
-3. Właściwy w sprawach wydawania świadectwa służby i sprostowania świadectwa służby jest Szef Kancelarii Sejmu.
+3. (uchylony)
 
-4. Prezes Rady Ministrów po zasięgnięciu opinii Szefa Kancelarii Sejmu określi, w drodze rozporządzenia, dane, które należy podać w świadectwie służby, a także tryb wydawania i sprostowania świadectwa służby oraz formularz świadectwa służby, uwzględniając specyfikę służby.
+4. Prezes Rady Ministrów po zasięgnięciu opinii Szefa Kancelarii określi, w drodze rozporządzenia, dane, które należy podać w świadectwie służby, a także tryb wydawania i sprostowania świadectwa służby oraz formularz świadectwa służby, uwzględniając specyfikę służby.
 
 #### Rozdział 5 Stopnie Straży Marszałkowskiej
 
@@ -474,59 +681,45 @@ o Stra ż y Marszałkowskiej
 
 **Art. 35.**
 
-1. Na stopień aplikanta mianuje się funkcjonariusza Straży Marszałkowskiej z dniem wyznaczenia na stanowisko służbowe.
+1. Stopień aplikanta i starszego aplikanta nadaje Komendant Straży Marszałkowskiej. Stopień aplikanta nadaje się z dniem mianowania na pierwsze stanowisko służbowe.
 
-2. Na stopnie Straży Marszałkowskiej, o których mowa w art. 34 pkt 1–3, mianuje Szef Kancelarii Sejmu.
+2. Stopnie w korpusie podoficerów i korpusie chorążych nadaje Szef Kancelarii Sejmu.
 
-3. Na stopnie Straży Marszałkowskiej, o których mowa w art. 34 pkt 4 lit. b–f, mianuje Marszałek Sejmu.
+3. Stopień podkomisarza Straży Marszałkowskiej oraz nadinspektora Straży Marszałkowskiej nadaje Prezydent Rzeczypospolitej Polskiej na wniosek Marszałka Sejmu. Pozostałe stopnie w korpusie oficerów nadaje Marszałek Sejmu.
 
-4. Na stopnie podkomisarza Straży Marszałkowskiej oraz nadinspektora Straży Marszałkowskiej mianuje Prezydent Rzeczypospolitej Polskiej na wniosek Marszałka Sejmu.
+**Art. 36.** (uchylony)
 
-**Art. 36.**
-
-1. Na stopnie Straży Marszałkowskiej, o których mowa w art. 34 pkt 4, może być mianowany funkcjonariusz Straży Marszałkowskiej posiadający wykształcenie wyższe.
-
-2. Na stopień inspektora Straży Marszałkowskiej może być mianowany zastępca Komendanta Straży Marszałkowskiej.
-
-3. Na stopień nadinspektora Straży Marszałkowskiej może być mianowany funkcjonariusz Straży Marszałkowskiej będący Komendantem Straży Marszałkowskiej.
-
-**Art. 37.**
-
-1. Mianowanie na pierwszy stopień podoficerski następuje po zakończeniu służby przygotowawczej.
-
-2. Mianowanie na pierwszy stopień w korpusie chorążych może nastąpić po ukończeniu szkolenia specjalistycznego zakończonego zdanym egzaminem.
-
-3. Na pierwszy stopień oficerski może być mianowany funkcjonariusz Straży Marszałkowskiej spełniający warunek określony w art. 36 ust. 1, który odbył szkolenie specjalistyczne zakończone zdaniem egzaminu oficerskiego.
-
-4. Marszałek Sejmu określi, w drodze zarządzenia, sposób i tryb przeprowadzania egzaminów, o których mowa w ust. 2 i 3.
+**Art. 37.** Pierwszy stopień w korpusie podoficerów, korpusie chorążych i korpusie oficerów nadaje się funkcjonariuszowi Straży Marszałkowskiej, który zdał egzamin odpowiednio na pierwszy stopień podoficerski, chorążego albo oficerski.
 
 **Art. 38.**
 
-1. Mianowanie na kolejny wyższy stopień Straży Marszałkowskiej następuje stosownie do zajmowanego stanowiska służbowego oraz w zależności od opinii służbowej. Nadanie tego stopnia nie może jednak nastąpić wcześniej niż po przesłużeniu w Straży Marszałkowskiej:
+1. Nadanie kolejnego stopnia Straży Marszałkowskiej następuje stosownie do zajmowanego stanowiska służbowego, posiadanych kwalifikacji zawodowych i wykształcenia oraz w zależności od opinii służbowej. Nadanie kolejnego stopnia nie może nastąpić wcześniej niż po upływie odpowiedniego okresu służby w posiadanym stopniu, który wynosi:
 
-- **1)** aplikanta do 1 roku służby;
-- **2)** starszego aplikanta 1–2 lata służby;
-- **3)** młodszego strażnika 2–5 lat służby;
-- **4)** stra ż nika 5–8 lat słu ż by;
-- **5)** starszego stra ż nika 8–11 lat słu ż by;
-- **6)** młodszego aspiranta 11–14 lat słu ż by;
-- **7)** aspiranta powy ż ej 12 lat słu ż by;
-- **8)** starszego aspiranta 14–17 lat słu ż by;
-- **9)** aspiranta sztabowego powyżej 17 lat służby;
-- **10)** podkomisarza powyżej 5 lat służby;
-- **11)** komisarza powyżej 8 lat służby;
-- **12)** nadkomisarza powyżej 11 lat służby;
-- **13)** podinspektora powyżej 14 lat służby;
-- **14)** młodszego inspektora powyżej 17 lat służby.
+- **1)** w korpusie szeregowych w stopniu aplikanta – 1 rok;
+- **2)** w korpusie podoficerskim w stopniu:
+    - **a)** młodszego strażnika – 2 lata,
+    - **b)** strażnika – 2 lata;
 
-2. W szczególnie uzasadnionych przypadkach Prezydent Rzeczypospolitej Polskiej, na wniosek Marszałka Sejmu, może mianować funkcjonariusza Straży Marszałkowskiej na stopień podkomisarza Straży Marszałkowskiej z pominięciem wymogu przesłużenia w dotychczasowym stopniu Straży Marszałkowskiej co najmniej 5 lat.
+- **3)** w korpusie chorążych w stopniu:
+    - **a)** młodszego aspiranta – 2 lata,
+    - **b)** aspiranta – 2 lata,
+    - **c)** starszego aspiranta – 2 lata;
 
-3. W szczególnie uzasadnionych przypadkach Marszałek Sejmu może mianować każdego funkcjonariusza Straży Marszałkowskiej, z wyłączeniem stopnia podkomisarza i nadinspektora Straży Marszałkowskiej, na wyższy stopień Straży Marszałkowskiej, z uwzględnieniem ograniczeń wynikających z art. 36.
+- **4)** w korpusie oficerów w stopniu:
+    - **a)** podkomisarza – 2 lata,
+    - **b)** komisarza – 2 lata,
+    - **c)** nadkomisarza – 2 lata,
+    - **d)** podinspektora – 2 lata,
+    - **e)** młodszego inspektora – 2 lata.
+
+2. (uchylony)
+
+3. W szczególnie uzasadnionych przypadkach Marszałek może nadać funkcjonariuszowi Straży Marszałkowskiej spełniającemu warunki, o których mowa w ust. 1, posiadającemu wzorową opinię służbową oraz szczególne kwalifikacje zawodowe kolejny stopień przed upływem okresów, o których mowa w ust. 1, z wyłączeniem stopnia podkomisarza i nadinspektora Straży Marszałkowskiej.
 
 4. W szczególnie uzasadnionych przypadkach:
 
-- **1)** Prezydent Rzeczypospolitej Polskiej, na wniosek Marszałka Sejmu, może mianować na stopień podkomisarza i nadinspektora Straży Marszałkowskiej,
-- **2)** Marszałek Sejmu może mianować na pozostałe stopnie Straży Marszałkowskiej funkcjonariusza Straży Marszałkowskiej, który poniósł śmierć w związku z wykonywaniem czynności służbowych.
+- **1)** Prezydent Rzeczypospolitej Polskiej, na wniosek Marszałka Sejmu, może nadać stopień podkomisarza i nadinspektora Straży Marszałkowskiej,
+- **2)** Marszałek może nadać pozostałe stopnie Straży Marszałkowskiej – funkcjonariuszowi Straży Marszałkowskiej, który poniósł śmierć w związku z wykonywaniem czynności służbowych.
 
 **Art. 39.**
 
@@ -534,7 +727,7 @@ o Stra ż y Marszałkowskiej
 
 2. Funkcjonariusze Straży Marszałkowskiej zwolnieni ze służby mogą używać posiadanych stopni Straży Marszałkowskiej z dodaniem określenia „w stanie spoczynku”.
 
-3. Utrata stopnia Straży Marszałkowskiej następuje w razie:
+3. Pozbawienie stopnia Straży Marszałkowskiej następuje w razie:
 
 - **1)** utraty obywatelstwa polskiego;
 - **2)** prawomocnego orzeczenia przez sąd środka karnego w postaci pozbawienia praw publicznych;
@@ -546,22 +739,19 @@ o Stra ż y Marszałkowskiej
 
 2. O pozbawieniu funkcjonariusza Straży Marszałkowskiej stopnia Straży Marszałkowskiej decyduje Marszałek Sejmu.
 
-**Art. 41.**
+**Art. 41.** Marszałek przywraca funkcjonariuszowi Straży Marszałkowskiej stopień Straży Marszałkowskiej w razie uchylenia:
 
-1. Funkcjonariuszowi Straży Marszałkowskiej przywraca się stopień Straży Marszałkowskiej w razie uchylenia:
+**Art. 42.**
 
-- **1)** prawomocnego orzeczenia o zastosowaniu przez sąd środka karnego w postaci pozbawienia praw publicznych;
-- **2)** prawomocnego orzeczenia skazującego na karę pozbawienia wolności za przestępstwo popełnione w wyniku motywacji zasługującej na szczególne potępienie;
-- **3)** decyzji, na podstawie której nastąpiło pozbawienie stopnia Straży Marszałkowskiej;
-- **4)** orzeczenia dyscyplinarnego obniżającego stopień Straży Marszałkowskiej.
+1. Osobie przyjmowanej do służby w Straży Marszałkowskiej i posiadającej stopień wojskowy, Policji, Straży Granicznej, Biura Ochrony Rządu, Służby Ochrony Państwa, Służby Celno-Skarbowej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego lub Służby Więziennej nadaje się odpowiedni stopień Straży Marszałkowskiej.
 
-2. Decyzję o przywróceniu funkcjonariuszowi Straży Marszałkowskiej stopnia Straży Marszałkowskiej podejmuje Marszałek Sejmu.
+1a. Przy przyjmowaniu do służby w Straży Marszałkowskiej osób posiadających pierwszy stopień w korpusie oficerskim albo w korpusie generałów równorzędny stopień Straży Marszałkowskiej nadaje Marszałek Sejmu. Pozostałe równorzędne stopnie Straży Marszałkowskiej nadaje Szef Kancelarii Sejmu.
 
-**Art. 42.** Osobę przyjmowaną do służby w Straży Marszałkowskiej i posiadającą stopień wojskowy, Policji, Straży Granicznej, Biura Ochrony Rządu, Służby Ochrony Państwa, Służby Celno-Skarbowej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego lub Służby Więziennej mianuje się na odpowiedni stopień Straży Marszałkowskiej.
+2. Rada Ministrów określi, w drodze rozporządzenia, równorzędność stopni w formacjach, o których mowa w ust. 1, mając na względzie zapewnienie adekwatności tych stopni w służbach, o których mowa w ust. 1, oraz w odniesieniu do żołnierzy zawodowych.
 
-**Art. 43.** Prezes Rady Ministrów po zasi ę gni ę ciu opinii Szefa Kancelarii Sejmu okre ś li, w drodze rozporz ą dzenia, sposób i tryb mianowania funkcjonariusza Stra ż y Marszałkowskiej na stopnie Stra ż y Marszałkowskiej oraz wzory wniosku o mianowanie na stopie ń i aktu mianowania, a tak ż e tryb ich sporz ą dzania, uwzgl ę dniaj ą c potrzeb ę zapewnienia sprawnego post ę powania i informowania zainteresowanych funkcjonariuszy Stra ż y Marszałkowskiej o działaniach podejmowanych przez przeło ż onych w tych sprawach.
+**Art. 43.** Prezes Rady Ministrów, po zasięgnięciu opinii Szefa Kancelarii Sejmu, określi, w drodze rozporządzenia:
 
-#### Rozdział 6 Obowi ą zki i prawa funkcjonariuszy Stra ż y Marszałkowskiej
+#### Rozdział 6 Obowiązki i prawa funkcjonariuszy Straży Marszałkowskiej
 
 **Art. 44.**
 
@@ -573,15 +763,29 @@ o Stra ż y Marszałkowskiej
 
 **Art. 45.**
 
-1. Funkcjonariuszowi Straży Marszałkowskiej nie wolno pozostawać w stosunku pracy oraz podejmować innego zajęcia zarobkowego poza służbą.
+1. (uchylony)
 
 2. W stosunku do funkcjonariusza Straży Marszałkowskiej mają zastosowanie ograniczenia w prowadzeniu działalności gospodarczej wynikające z ustawy z dnia 21 sierpnia 1997 r. o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne.
 
 3. Funkcjonariusz Straży Marszałkowskiej jest obowiązany do złożenia oświadczenia o swoim stanie majątkowym na zasadach, w trybie i w terminach określonych w przepisach ustawy, o której mowa w ust. 2.
 
-4. Funkcjonariusz Straży Marszałkowskiej składa oświadczenie, o którym mowa w ust. 3, Szefowi Kancelarii Sejmu, który dokonuje analizy zawartych w nim danych.
+4. Funkcjonariusz Straży Marszałkowskiej składa oświadczenie, o którym mowa w ust. 3, przełożonemu, który dokonuje analizy zawartych w nim danych.
 
-**Art. 46.** Szef Kancelarii Sejmu może zezwolić funkcjonariuszowi Straży Marszałkowskiej na wykonywanie zajęcia zarobkowego poza służbą o charakterze naukowym lub naukowo-dydaktycznym, jeżeli nie koliduje to z wykonywaniem przez niego zadań służbowych.
+**Art. 46.**
+
+1. Funkcjonariusz Straży Marszałkowskiej nie może bez zezwolenia przełożonego podejmować zajęcia zarobkowego poza służbą.
+
+2. Przełożony może zezwolić funkcjonariuszowi Straży Marszałkowskiej na podjęcie zajęcia zarobkowego poza służbą, jeżeli zajęcie takie:
+
+- **1)** nie zakłóca wykonywania przez funkcjonariusza Straży Marszałkowskiej obowiązków służbowych;
+- **2)** nie narusza prestiżu służby;
+- **3)** nie podważa zaufania do bezstronności funkcjonariusza Straży Marszałkowskiej.
+
+3. Zezwolenia na podjęcie zajęcia zarobkowego poza służbą udziela się na pisemny wniosek funkcjonariusza Straży Marszałkowskiej na okres nie dłuższy niż dany rok kalendarzowy.
+
+4. Udzielone zezwolenie na podjęcie zajęcia zarobkowego poza służbą cofa się w przypadku naruszenia któregokolwiek z warunków, o których mowa w ust. 2.
+
+5. Marszałek określi, w drodze zarządzenia, tryb postępowania w sprawach udzielania zezwoleń na podjęcie zajęcia zarobkowego poza służbą, dane, jakie powinien zawierać wniosek funkcjonariusza Straży Marszałkowskiej o udzielenie zezwolenia, oraz sposób i termin zawiadamiania funkcjonariusza Straży Marszałkowskiej o udzieleniu zezwolenia, odmowie jego udzielenia albo jego cofnięcia.
 
 **Art. 47.**
 
@@ -591,7 +795,7 @@ o Stra ż y Marszałkowskiej
 
 3. Funkcjonariusze Straży Marszałkowskiej nie mogą zrzeszać się w związkach zawodowych.
 
-4. Funkcjonariusz Straży Marszałkowskiej jest obowiązany uzyskać zezwolenie Szefa Kancelarii Sejmu na przynależność do organizacji lub stowarzyszeń krajowych, zagranicznych lub międzynarodowych.
+4. Funkcjonariusz Straży Marszałkowskiej jest obowiązany uzyskać zezwolenie przełożonego na przynależność do organizacji lub stowarzyszeń krajowych, zagranicznych lub międzynarodowych.
 
 **Art. 48.**
 
@@ -607,42 +811,122 @@ o Stra ż y Marszałkowskiej
 
 2. Funkcjonariusz Straży Marszałkowskiej otrzymuje bezpłatne umundurowanie.
 
-3. Marszałek Sejmu określi, w drodze zarządzenia, przypadki, w których funkcjonariusz Straży Marszałkowskiej może wykonywać czynności służbowe bez obowiązku noszenia umundurowania.
+3. Marszałek określi, w drodze zarządzenia, przypadki, w których funkcjonariusz Straży Marszałkowskiej może wykonywać czynności służbowe bez obowiązku noszenia umundurowania.
 
 4. Funkcjonariuszowi Straży Marszałkowskiej przysługuje ryczałt pieniężny na czyszczenie przedmiotów umundurowania.
 
-5. Marszałek Sejmu określi, w drodze zarządzenia, wysokość ryczałtu pieniężnego na czyszczenie przedmiotów umundurowania, a także sposób oraz termin wypłaty tego ryczałtu.
+5. Marszałek określi, w drodze zarządzenia, wysokość ryczałtu pieniężnego na czyszczenie przedmiotów umundurowania, a także sposób oraz termin wypłaty tego ryczałtu.
 
 6. Prezes Rady Ministrów, po zasięgnięciu opinii Szefa Kancelarii Sejmu, określi, w drodze rozporządzenia:
 
-- **1)** rodzaje, wzory, kolory i normy umundurowania oraz wzory odznak i oznak funkcjonariusza Straży Marszałkowskiej, sposób noszenia umundurowania, orderów, odznacze ń , medali, odznak i oznak, uwzgl ę dniaj ą c tradycyjne elementy ubioru oraz odznaki stosowane przez Stra ż Marszałkowsk ą , okoliczno ś ci, w których funkcjonariusz Stra ż y Marszałkowskiej wyst ę puje w poszczególnych rodzajach umundurowania, przy zapewnieniu estetyki i praktyczno ś ci wykorzystania umundurowania w ró ż nych warunkach pogodowych;
-- **2)** przypadki, w których funkcjonariusz Stra ż y Marszałkowskiej jest obowi ą zany zwróci ć przedmioty umundurowania lub ich równowartość, biorąc pod uwagę stopień zużycia tych przedmiotów oraz okresy ich używalności.
+- **1)** rodzaje, wzory, kolory i normy umundurowania oraz wzory odznak i oznak funkcjonariusza Straży Marszałkowskiej, sposób noszenia umundurowania, orderów, odznaczeń, medali, odznak i oznak, uwzględniając tradycyjne elementy ubioru oraz odznaki stosowane przez Straż Marszałkowską, okoliczności, w których funkcjonariusz Straży Marszałkowskiej występuje w poszczególnych rodzajach umundurowania, przy zapewnieniu estetyki i praktyczności wykorzystania umundurowania w różnych warunkach pogodowych;
+- **2)** przypadki, w których funkcjonariusz Straży Marszałkowskiej jest obowiązany zwrócić przedmioty umundurowania lub ich równowartość, biorąc pod uwagę stopień zużycia tych przedmiotów oraz okresy ich używalności.
+
+**Art. 49a.** Funkcjonariusz Straży Marszałkowskiej jest obowiązany systematycznie podnosić kwalifikacje zawodowe.
 
 **Art. 50.**
 
-1. Funkcjonariusz Straży Marszałkowskiej jest obowiązany utrzymywać sprawność fizyczną zapewniającą wykonywanie przez niego zadań służbowych, w szczególności przez uczestnictwo w zajęciach z wychowania fizycznego oraz zajęciach sportowych.
+1. Funkcjonariusz Straży Marszałkowskiej jest obowiązany utrzymywać sprawność fizyczną zapewniającą wykonywanie przez niego zadań służbowych.
 
 2. Sprawność fizyczną, o której mowa w ust. 1, ocenia się na podstawie wyników testu sprawności fizycznej funkcjonariusza Straży Marszałkowskiej.
 
-3. Marszałek Sejmu określi, w drodze zarządzenia, zakres, warunki i tryb przeprowadzania oraz sposób oceniania testu sprawności fizycznej funkcjonariusza Straży Marszałkowskiej, uwzględniając charakter służby w Straży Marszałkowskiej.
+3. Marszałek określi, w drodze zarządzenia, zakres, warunki i tryb przeprowadzania oraz sposób oceniania testu sprawności fizycznej funkcjonariusza Straży Marszałkowskiej, uwzględniając charakter służby w Straży Marszałkowskiej.
 
-4. Marszałek Sejmu określi, w drodze zarządzenia, zadania z zakresu wychowania fizycznego realizowane przez Straż Marszałkowską oraz formy organizacyjne zajęć wychowania fizycznego i sposób ich finansowania, uwzględniając charakter służby w Straży Marszałkowskiej.
+4. (uchylony)
 
-5. Minister właściwy do spraw kultury fizycznej może, po zasięgnięciu opinii Szefa Kancelarii Sejmu, określić, w drodze rozporządzenia, wymagania wobec osób prowadzących zajęcia z wychowania fizycznego, uwzględniając konieczność utrzymania sprawności fizycznej przez funkcjonariuszy Straży Marszałkowskiej zapewniającej wykonywanie przez nich zadań służbowych i uwzględniając charakter służby w Straży Marszałkowskiej.
+5. (uchylony)
+
+**Art. 50a.**
+
+1. Komendant Straży Marszałkowskiej ma obowiązek niedopuszczenia podległego mu funkcjonariusza Straży Marszałkowskiej do służby w przypadku:
+
+- **1)** stawienia się przez niego do służby w stanie po użyciu alkoholu albo w stanie nietrzeźwości w rozumieniu art. 46 ust. 2 albo 3 ustawy z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2023 r. poz. 2151), lub po użyciu podobnie działającego środka, pełnienia jej w takim stanie, spożywania alkoholu lub używania podobnie działającego środka w czasie służby albo
+- **2)** uzasadnionego podejrzenia, że zachodzą okoliczności, o których mowa w pkt 1.
+
+2. Komendant Straży Marszałkowskiej informuje funkcjonariusza Straży Marszałkowskiej o okolicznościach stanowiących podstawę niedopuszczenia go do służby.
+
+3. W celu weryfikacji istnienia przesłanek uzasadniających niedopuszczenie funkcjonariusza Straży Marszałkowskiej do służby Komendant Straży Marszałkowskiej lub osoba przez niego upoważniona, zwani dalej „zarządzającym badania”, są uprawnieni do wydania polecenia poddania się przez funkcjonariusza Straży Marszałkowskiej badaniu na zawartość w organizmie alkoholu lub badaniu na obecność w organizmie innego podobnie działającego środka.
+
+4. Funkcjonariusz Straży Marszałkowskiej ma obowiązek poddać się badaniu, o którym mowa w ust. 3, oraz umożliwić jego przeprowadzenie.
+
+5. Badanie, o którym mowa w ust. 3, może obejmować odpowiednio przy badaniu na zawartość w organizmie:
+
+- **1)** alkoholu – badanie wydychanego powietrza lub badanie krwi;
+- **2)** środka działającego podobnie do alkoholu – badanie:
+    - **a)** śliny,
+    - **b)** krwi,
+    - **c)** moczu,
+    - **d)** potu.
+
+6. Badanie krwi, o którym mowa w ust. 5 pkt 1, przeprowadza się, jeżeli:
+
+- **1)** funkcjonariusz Straży Marszałkowskiej odmawia poddania się badaniu wydychanego powietrza;
+- **2)** funkcjonariusz Straży Marszałkowskiej, pomimo przeprowadzenia badania wydychanego powietrza, żąda badania krwi;
+- **3)** stan funkcjonariusza Straży Marszałkowskiej, w szczególności wynikający ze spożycia alkoholu, choroby układu oddechowego lub innych przyczyn, uniemożliwia przeprowadzenie badania wydychanego powietrza;
+- **4)** wystąpił brak wskazania stężenia alkoholu w wydychanym powietrzu spowodowany przekroczeniem zakresu pomiarowego urządzenia wykorzystywanego do pomiaru.
+
+7. Badania, o których mowa w ust. 5 pkt 2 lit. b lub c, przeprowadza się, jeżeli:
+
+- **1)** funkcjonariusz Straży Marszałkowskiej odmawia poddania się badaniu, o którym mowa w ust. 5 pkt 2 lit. a lub d;
+- **2)** funkcjonariusz Straży Marszałkowskiej, pomimo przeprowadzenia badania, o którym mowa w ust. 5 pkt 2 lit. a lub d, żąda badania krwi lub moczu;
+- **3)** stan funkcjonariusza Straży Marszałkowskiej uniemożliwia przeprowadzenie badania, o którym mowa w ust. 5 pkt 2 lit. a lub d.
+
+8. Czynności związane z pobraniem materiału biologicznego do badań, o których mowa w ust. 3:
+
+- **1)** odbywają się w miejscu i w warunkach zapewniających poszanowanie godności i intymności funkcjonariusza Straży Marszałkowskiej, od którego pobiera się materiał do badań;
+- **2)** w postaci krwi – są przeprowadzane przez osobę posiadającą odpowiednie kwalifikacje zawodowe;
+- **3)** w postaci moczu lub potu – odbywają się w obecności osoby tej samej płci co funkcjonariusz Straży Marszałkowskiej, od którego pobiera się materiał biologiczny do badań:
+    - **a)** o której mowa w pkt 2,
+    - **b)** wskazanej przez zarządzającego badania – w przypadku braku możliwości zapewnienia obecności osoby, o której mowa w pkt 2.
+
+9. W przypadku powzięcia uzasadnionego podejrzenia, że pobranie krwi może spowodować zagrożenie życia lub zdrowia funkcjonariusza Straży Marszałkowskiej, decyzję o przeprowadzeniu badania krwi podejmuje lekarz.
+
+10. W przypadku poddania funkcjonariusza Straży Marszałkowskiej badaniu w celu, o którym mowa w ust. 3, nie-dopuszczenie do służby trwa do czasu uzyskania wyniku badania wykluczającego w odniesieniu do funkcjonariusza Straży Marszałkowskiej poddanego badaniu:
+
+- **1)** stan nietrzeźwości albo stan po użyciu alkoholu lub
+- **2)** obecność w organizmie środka działającego podobnie do alkoholu – nie dłużej jednak niż do końca służby wynikającego z obowiązującego rozkładu czasu służby.
+
+11. W przypadku niedopuszczenia funkcjonariusza Straży Marszałkowskiej do służby, o którym mowa w ust. 1, do uposażenia funkcjonariusza Straży Marszałkowskiej za ten okres stosuje się odpowiednio przepisy art. 91 ust. 1 i 4 oraz art. 95.
+
+12. Przebieg badań, o których mowa w ust. 3, dokumentuje się z uwzględnieniem:
+
+- **1)** daty, godziny i minuty oraz miejsca przeprowadzenia badania;
+- **2)** wyniku badania;
+- **3)** stopnia, imienia i nazwiska, stanowiska oraz podpisu zarządzającego badania;
+- **4)** danych osobowych funkcjonariusza Straży Marszałkowskiej:
+    - **a)** stopnia, imienia i nazwiska oraz stanowiska,
+    - **b)** daty urodzenia, informacji o chorobach, na jakie choruje funkcjonariusz Straży Marszałkowskiej, oraz podpisu funkcjonariusza Straży Marszałkowskiej – jeżeli dane te pozyskano w związku z przeprowadzanym badaniem;
+
+- **5)** imienia, nazwiska i podpisu osoby przeprowadzającej badanie;
+- **6)** imienia, nazwiska, stanowiska i podpisu osoby przeprowadzającej pobranie próbek materiału biologicznego do badania;
+- **7)** imienia, nazwiska i podpisu osoby, w obecności której przeprowadzano badanie;
+- **8)** informacji o objawach lub okolicznościach uzasadniających przeprowadzenie badania oraz dacie, godzinie i minucie ich stwierdzenia;
+- **9)** innych informacji niezbędnych do oceny wiarygodności i poprawności badania;
+- **10)** w przypadku odstąpienia od pobrania próbek krwi – informacji o przyczynie odstąpienia.
+
+13. W przypadku badań, o których mowa w ust. 5 pkt 1, poza danymi, o których mowa w ust. 12 pkt 4, dokumentacja obejmuje również następujące dane osobowe funkcjonariusza Straży Marszałkowskiej: płeć, wzrost, masę ciała – jeżeli dane te pozyskano w związku z przeprowadzanym badaniem.
+
+14. Dokumentację zawierającą wyniki badań przekazuje się niezwłocznie zarządzającemu badania.
+
+15. Prezes Rady Ministrów, po zasięgnięciu opinii Szefa Kancelarii Sejmu, określi, w drodze rozporządzenia:
+
+- **1)** warunki i metody przeprowadzania badań, o których mowa w ust. 3,
+- **2)** sposób dokumentowania badań, o których mowa w ust. 3, w tym wzory protokołów z przeprowadzonych badań,
+- **3)** wykaz środków działających podobnie do alkoholu – mając na uwadze potrzebę sprawnego pobrania materiału do badań, sprawnego i prawidłowego przeprowadzania badań oraz zagwarantowania wiarygodności ich wyników, a także metodykę przeprowadzania takich badań oraz skutki oddziaływania środków działających podobnie do alkoholu na organizm i zapewniając poszanowanie godności funkcjonariusza Straży Marszałkowskiej i zasad ochrony danych osobowych.
 
 **Art. 51.**
 
 1. Funkcjonariusz Straży Marszałkowskiej otrzymuje nieodpłatnie uzbrojenie i wyposażenie niezbędne do wykonywania czynności służbowych.
 
-2. Marszałek Sejmu określi, w drodze zarządzenia, normy wyposażenia i uzbrojenia oraz warunki dostępu do wyposażenia i uzbrojenia, jego przyznawania i użytkowania.
+2. Marszałek określi, w drodze zarządzenia, normy wyposażenia i uzbrojenia oraz warunki dostępu do wyposażenia i uzbrojenia, jego przyznawania i użytkowania.
 
-3. Marszałek Sejmu określi, w drodze zarządzenia, rodzaje broni paradnej przysługującej funkcjonariuszom Straży Marszałkowskiej oraz jej wzory, a także przypadki występowania z tą bronią.
+3. Marszałek określi, w drodze zarządzenia, rodzaje broni paradnej przysługującej funkcjonariuszom Straży Marszałkowskiej oraz jej wzory, a także przypadki występowania z tą bronią.
 
 **Art. 52.**
 
-1. Za stan bezpieczeństwa i higieny służby w stosunku do podległych funkcjonariuszy Straży Marszałkowskiej odpowiadają Szef Kancelarii Sejmu i Komendant Straży Marszałkowskiej.
+1. Za stan bezpieczeństwa i higieny służby w stosunku do podległych funkcjonariuszy Straży Marszałkowskiej odpowiadają Szef Kancelarii i Komendant Straży Marszałkowskiej.
 
-2. W przypadku funkcjonariuszy Straży Marszałkowskiej odbywających szkolenia zawodowe lub doskonalenie zawodowe za stan bezpieczeństwa i higieny służby odpowiadają komendanci (kierownicy) szkół lub ośrodków szkolenia, w których odbywają się szkolenia zawodowe lub doskonalenia zawodowe, realizując obowiązki, o których mowa w art. 207 § 2 pkt 1–6, art. 207 , art. 209 § 1–3, art. 209 , art. 214, art. 215, art. 237 i art. 237 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2018 r. poz. 108, 4, 138, 305 i 357), zwanej dalej „Kodeksem pracy”.
+2. W przypadku funkcjonariuszy Straży Marszałkowskiej odbywających szkolenia zawodowe lub doskonalenie zawodowe za stan bezpieczeństwa i higieny służby odpowiadają komendanci (kierownicy) szkół lub ośrodków szkolenia, w których odbywają się szkolenia zawodowe lub doskonalenia zawodowe, realizując obowiązki, o których mowa w art. 207 § 2 pkt 1–6, art. 207 , art. 209 § 1–3, art. 209 , art. 214, art. 215, art. 237 i art. 237 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277), zwanej dalej „Kodeksem pracy”.
 
 3. Za pracodawcę, w rozumieniu przepisów działu dziesiątego Kodeksu pracy, a także przepisów wykonawczych wydanych na jego podstawie, w stosunku do funkcjonariuszy Straży Marszałkowskiej uważa się przełożonych wymienionych w ust. 1.
 
@@ -658,7 +942,7 @@ o Stra ż y Marszałkowskiej
 
 1. W celu ustalenia zdolności do wykonywania zadań na zajmowanym stanowisku służbowym funkcjonariusz Straży Marszałkowskiej jest obowiązany poddać się badaniom okresowym lub kontrolnym w terminie wskazanym w skierowaniu na takie badanie.
 
-2. Skierowanie na badanie okresowe lub kontrolne zawiera w szczególno ś ci imi ę i nazwisko, numer PESEL, adres zamieszkania, stanowisko słu ż bowe funkcjonariusza Stra ż y Marszałkowskiej kierowanego na badanie oraz opis warunków pełnienia słu ż by wyst ę puj ą cych na zajmowanym stanowisku słu ż bowym, w tym czynników szkodliwych lub uci ąż liwych, o których mowa w przepisach wykonawczych wydanych na podstawie art. 229 § 8 Kodeksu pracy, i innych wynikaj ą cych z warunków pełnienia służby.
+2. Skierowanie na badanie okresowe lub kontrolne zawiera w szczególności imię i nazwisko, numer PESEL, adres zamieszkania, stanowisko służbowe funkcjonariusza Straży Marszałkowskiej kierowanego na badanie oraz opis warunków pełnienia służby występujących na zajmowanym stanowisku służbowym, w tym czynników szkodliwych lub uciążliwych, o których mowa w przepisach wykonawczych wydanych na podstawie art. 229 § 8 Kodeksu pracy, i innych wynikających z warunków pełnienia służby.
 
 3. Na pierwsze badanie okresowe funkcjonariusz Straży Marszałkowskiej jest kierowany w terminie 3 lat od dnia przyjęcia do służby.
 
@@ -672,18 +956,18 @@ o Stra ż y Marszałkowskiej
 
 8. Badania okresowe i kontrolne są wykonywane na podstawie skierowania na badanie wystawionego przez:
 
-- **1)** Komendanta Straży Marszałkowskiej w stosunku do podległych mu funkcjonariuszy Straży Marszałkowskiej;
-- **2)** Szefa Kancelarii Sejmu w stosunku do Komendanta Straży Marszałkowskiej i jego zastępców.
+- **1)** Komendanta Straży Marszałkowskiej – w stosunku do podległych mu funkcjonariuszy Straży Marszałkowskiej;
+- **2)** Szefa Kancelarii – w stosunku do Komendanta Straży Marszałkowskiej i jego zastępców.
 
 9. Skierowanie na badanie:
 
-- **1)** kontrolne wystawia się najpóźniej w dniu zgłoszenia się funkcjonariusza Straży Marszałkowskiej do służby,
-- **2)** okresowe wystawia się nie później niż w terminie 30 dni przed upływem ważności orzeczenia lekarskiego w 3 egzemplarzach, z których jeden przeznaczony jest dla funkcjonariusza Straży Marszałkowskiej kierowanego na badanie.
+- **1)** kontrolne – wystawia się najpóźniej w dniu zgłoszenia się funkcjonariusza Straży Marszałkowskiej do służby,
+- **2)** okresowe – wystawia się nie później niż w terminie 30 dni przed upływem ważności orzeczenia lekarskiego – w 3 egzemplarzach, z których jeden przeznaczony jest dla funkcjonariusza Straży Marszałkowskiej kierowanego na badanie.
 
 10. Badania okresowe i kontrolne kończą się orzeczeniem lekarskim stwierdzającym:
 
 - **1)** brak przeciwwskazań zdrowotnych do służby na określonym stanowisku służbowym,
-- **2)** istnienie przeciwwskazań zdrowotnych do służby na określonym stanowisku służbowym w warunkach służby opisanych w skierowaniu na badanie.
+- **2)** istnienie przeciwwskazań zdrowotnych do służby na określonym stanowisku służbowym – w warunkach służby opisanych w skierowaniu na badanie.
 
 11. Od orzeczenia lekarskiego funkcjonariuszowi Straży Marszałkowskiej i przełożonym, o których mowa w art. 52 ust. 1, przysługuje odwołanie w terminie 7 dni od dnia otrzymania orzeczenia.
 
@@ -698,9 +982,9 @@ o Stra ż y Marszałkowskiej
 
 15. Orzeczenie lekarskie wydane w trybie odwołania jest ostateczne.
 
-16. Badania okresowe i kontrolne podlegaj ą dokumentowaniu i kontroli w sposób okre ś lony w przepisach wykonawczych wydanych na podstawie art. 229 § 8 Kodeksu pracy.
+16. Badania okresowe i kontrolne podlegają dokumentowaniu i kontroli w sposób określony w przepisach wykonawczych wydanych na podstawie art. 229 § 8 Kodeksu pracy.
 
-17. Kontrol ę bada ń okresowych i kontrolnych wykonuj ą podmioty, o których mowa w ust. 12.
+17. Kontrolę badań okresowych i kontrolnych wykonują podmioty, o których mowa w ust. 12.
 
 18. Prezes Rady Ministrów określi, w drodze rozporządzenia:
 
@@ -720,31 +1004,31 @@ o Stra ż y Marszałkowskiej
 
 3. Szkoleniu wstępnemu na stanowisku służby podlega funkcjonariusz Straży Marszałkowskiej w przypadku zmiany stanowiska służbowego, w związku z którym zmieniają się czynniki szkodliwe lub uciążliwe, lub inne czynniki wynikające z warunków pełnienia służby.
 
-4. Szkoleniu okresowemu podlega funkcjonariusz Straży Marszałkowskiej, w tym także pełniący służbę na stanowisku kierowniczym nie rzadziej niż raz na 5 lat, a w przypadku służby na stanowisku służbowym, na którym występują warunki szczególnie uciążliwe lub szkodliwe dla zdrowia nie rzadziej niż raz na 3 lata.
+4. Szkoleniu okresowemu podlega funkcjonariusz Straży Marszałkowskiej, w tym także pełniący służbę na stanowisku kierowniczym – nie rzadziej niż raz na 5 lat, a w przypadku służby na stanowisku służbowym, na którym występują warunki szczególnie uciążliwe lub szkodliwe dla zdrowia – nie rzadziej niż raz na 3 lata.
 
 5. Szkolenie okresowe funkcjonariusza Straży Marszałkowskiej pełniącego służbę na stanowisku kierowniczym zawiera tematykę z zakresu bezpieczeństwa i higieny służby oraz bezpieczeństwa i higieny pracy.
 
-**Art. 55.** Funkcjonariusz Straży Marszałkowskiej w związku z wykonywaniem zadań służbowych korzysta z ochrony przewidzianej dla funkcjonariuszy publicznych w przepisach ustawy z dnia 6 czerwca 1997 r. Kodeks karny (Dz. U. z 2017 r. poz. 2204 oraz z 2018 r. poz. 20, 305 i 663).
+**Art. 55.** Funkcjonariusz Straży Marszałkowskiej w związku z wykonywaniem zadań służbowych korzysta z ochrony przewidzianej dla funkcjonariuszy publicznych w przepisach ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2024 r. poz. 17, 1228, 1907 i 1965).
 
 **Art. 56.**
 
-1. Jeżeli funkcjonariusz Straży Marszałkowskiej zwolniony ze służby nie spełnia warunków do nabycia prawa do emerytury policyjnej lub policyjnej renty inwalidzkiej w rozumieniu przepisów ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin (Dz. U. z 2018 r. poz. 132, 138 i 730), od uposażenia wypłaconego funkcjonariuszowi do dnia zwolnienia ze służby, od którego nie odprowadzono składki na ubezpieczenie emerytalne i rentowe, przekazuje się do Zakładu Ubezpieczeń Społecznych składki za ten okres przewidziane w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2017 r. poz. 1778, z późn. zm. ).
+1. Jeżeli funkcjonariusz Straży Marszałkowskiej zwolniony ze służby nie spełnia warunków do nabycia prawa do emerytury policyjnej lub policyjnej renty inwalidzkiej w rozumieniu przepisów ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontr-wywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin (Dz. U. z 2024 r. poz. 1121, 1243, 1562 i 1871), od uposażenia wypłaconego funkcjonariuszowi do dnia zwolnienia ze służby, od którego nie odprowadzono składki na ubezpieczenie emerytalne i rentowe, przekazuje się do Zakładu Ubezpieczeń Społecznych składki za ten okres przewidziane w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2025 r. poz. 350).
 
 2. Przez uposażenie stanowiące podstawę wymiaru składek na ubezpieczenia emerytalne i rentowe, o którym mowa w ust. 1, rozumie się uposażenie zasadnicze, dodatki do uposażenia oraz nagrody roczne i uznaniowe, odpowiednio przeliczone zgodnie z art. 110 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych.
 
 3. Składki przekazuje się również w przypadku, gdy funkcjonariusz Straży Marszałkowskiej spełnia jedynie warunki do nabycia prawa do policyjnej renty inwalidzkiej.
 
-4. Składki podlegają waloryzacji wskaźnikiem waloryzacji składek określonym na podstawie ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2017 r. poz. 1383, 1386 i 2120 oraz z 2018 r. poz. 138, 357 i 730).
+4. Składki podlegają waloryzacji wskaźnikiem waloryzacji składek określonym na podstawie ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2024 r. poz. 1631 i 1674).
 
 5. Do obliczania kwoty należnych składek, waloryzowanych na podstawie ust. 4, stosuje się odpowiednio art. 19 ust. 1 oraz art. 22 ust. 1 pkt 1 i 2 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych.
 
-6. Przepisy ust. 1–5 stosuje si ę równie ż do funkcjonariusza Stra ż y Marszałkowskiej, je ż eli po zwolnieniu ze słu ż by, pomimo spełnienia warunków nabycia prawa do emerytury policyjnej, zgłosił wniosek o przyznanie emerytury z tytułu podlegania ubezpieczeniom społecznym.
+6. Przepisy ust. 1–5 stosuje się również do funkcjonariusza Straży Marszałkowskiej, jeżeli po zwolnieniu ze służby, pomimo spełnienia warunków nabycia prawa do emerytury policyjnej, zgłosił wniosek o przyznanie emerytury z tytułu podlegania ubezpieczeniom społecznym.
 
 7. W przypadkach, o których mowa w ust. 3 i 6, kwotę należnych, zwaloryzowanych składek przekazuje się niezwłocznie na podstawie zawiadomienia przez Zakład Ubezpieczeń Społecznych o nabyciu przez funkcjonariusza Straży Marszałkowskiej prawa do emerytury przewidzianej w przepisach, o których mowa w ust. 4.
 
 8. Kwota należnych, zwaloryzowanych składek stanowi przychód Funduszu Ubezpieczeń Społecznych.
 
-9. Prezes Rady Ministrów po zasięgnięciu opinii Szefa Kancelarii Sejmu określi, w drodze rozporządzenia, tryb i terminy przekazywania do Zakładu Ubezpieczeń Społecznych składek, o których mowa w ust. 1, 3, 4 i 7, mając na uwadze konieczność zapewnienia prawidłowego i niezwłocznego wykonywania czynności związanych z przekazywaniem tych składek.
+9. Prezes Rady Ministrów po zasięgnięciu opinii Szefa Kancelarii określi, w drodze rozporządzenia, tryb i terminy przekazywania do Zakładu Ubezpieczeń Społecznych składek, o których mowa w ust. 1, 3, 4 i 7, mając na uwadze konieczność zapewnienia prawidłowego i niezwłocznego wykonywania czynności związanych z przekazywaniem tych składek.
 
 **Art. 57.**
 
@@ -752,71 +1036,128 @@ o Stra ż y Marszałkowskiej
 
 2. Funkcjonariuszowi Straży Marszałkowskiej, który po zwolnieniu ze służby w Straży Marszałkowskiej podjął pracę, okres tej służby wlicza się do okresu zatrudnienia w zakresie wszelkich uprawnień wynikających z prawa pracy.
 
-**Art. 58.** Jeżeli przepisy niniejszej ustawy nie stanowią inaczej, funkcjonariuszowi Straży Marszałkowskiej przysługują uprawnienia pracownika związane z rodzicielstwem określone w Kodeksie pracy, z wyjątkiem art. 186. Przepis art. 189 wymienionego kodeksu stosuje się odpowiednio.
+**Art. 58.**
+
+1. Jeżeli przepisy niniejszej ustawy nie stanowią inaczej, funkcjonariuszowi Straży Marszałkowskiej przysługują uprawnienia pracownika związane z rodzicielstwem określone w Kodeksie pracy, z wyjątkiem art. 186 . Przepis art. 189 wymienionego kodeksu stosuje się odpowiednio.
+
+2. Funkcjonariusz Straży Marszałkowskiej wychowujący dziecko, do ukończenia przez nie 8. roku życia, może złożyć wniosek w postaci papierowej lub elektronicznej o zastosowanie do niego elastycznej organizacji służby. Wniosek składa się w terminie nie krótszym niż 21 dni przed planowanym rozpoczęciem korzystania z elastycznej organizacji służby.
+
+3. Za elastyczną organizację służby uważa się:
+
+- **1)** indywidualny rozkład czasu służby, o którym mowa w art. 23 ust. 3g;
+- **2)** ustalenie innych niż określone w art. 23 ust. 3e godzin rozpoczęcia i zakończenia służby;
+- **3)** pełnienie służby przez mniej niż 5 dni w ciągu tygodnia, przy równoczesnym przedłużeniu dobowego wymiaru czasu służby, nie więcej niż do 12 godzin;
+- **4)** wyznaczenie do pełnienia służby w piątki, soboty, niedziele i święta, przy równoczesnym przedłużeniu dobowego wymiaru czasu służby, nie więcej niż do 12 godzin.
 
 **Art. 59.**
 
 1. Funkcjonariuszowi Straży Marszałkowskiej przysługuje prawo do corocznego płatnego urlopu wypoczynkowego w wymiarze 26 dni roboczych.
 
-2. Funkcjonariusz Straży Marszałkowskiej nabywa prawo do urlopu wypoczynkowego po upływie roku służby.
+2. (uchylony) 2a. Funkcjonariusz Straży Marszałkowskiej w roku kalendarzowym, w którym został przyjęty do służby, uzyskuje prawo do urlopu wypoczynkowego z upływem każdego miesiąca służby, w wymiarze 1/12 wymiaru urlopu wypoczynkowego. Prawo do kolejnych urlopów wypoczynkowych funkcjonariusz Straży Marszałkowskiej nabywa w każdym następnym roku kalendarzowym.
 
 3. Wymiar urlopu wypoczynkowego ulega zwiększeniu do:
 
-- **1)** 30 dni roboczych po osiągnięciu 15 lat służby;
-- **2)** 33 dni roboczych po osiągnięciu 20 lat służby;
-- **3)** 36 dni roboczych po osiągnięciu 25 lat służby.
+- **1)** 30 dni roboczych – po osiągnięciu 15 lat służby;
+- **2)** 33 dni roboczych – po osiągnięciu 20 lat służby;
+- **3)** 36 dni roboczych – po osiągnięciu 25 lat służby.
 
-4. Do okresu służby, od którego zależy prawo do urlopu wypoczynkowego w wymiarze 26 dni roboczych, wlicza się okresy poprzedniego zatrudnienia i służby, bez względu na przerwy w zatrudnieniu i służbie oraz sposób rozwiązania stosunku pracy lub stosunku służbowego.
+3a. Wymiar urlopu wypoczynkowego funkcjonariusza Straży Marszałkowskiej ulega proporcjonalnemu obniżeniu o 1/12 za każdy miesiąc trwania zawieszenia w czynnościach służbowych, chyba że funkcjonariusz Straży Marszałkowskiej urlop ten wykorzystał w przysługującym mu wymiarze.
 
-5. Przez dni robocze rozumie się dni od poniedziałku do piątku, z wyłączeniem dni ustawowo wolnych od pracy.
+4. (uchylony)
+
+5. Urlopu wypoczynkowego udziela się w dni, które są dla funkcjonariusza Straży Marszałkowskiej dniami służby, zgodnie z obowiązującym go rozkładem czasu służby, w wymiarze godzinowym odpowiadającym dobowemu wymiarowi czasu służby tego funkcjonariusza w danym dniu.
+
+6. Przy udzielaniu urlopu wypoczynkowego jeden dzień urlopu wypoczynkowego odpowiada 8 godzinom służby.
+
+7. Udzielenie funkcjonariuszowi Straży Marszałkowskiej urlopu wypoczynkowego w dniu służby, w wymiarze godzinowym odpowiadającym części dobowego wymiaru czasu służby, jest dopuszczalne jedynie w przypadku, gdy część urlopu wypoczynkowego pozostała do wykorzystania jest niższa niż pełny dobowy wymiar czasu służby tego funkcjonariusza w dniu, w którym ma być udzielony urlop wypoczynkowy.
+
+**Art. 59a.**
+
+1. Urlopu wypoczynkowego funkcjonariuszowi Straży Marszałkowskiej udziela się zgodnie z harmonogramem służby oraz rocznym planem urlopów, biorąc pod uwagę wnioski funkcjonariuszy Straży Marszałkowskiej oraz konieczność zapewnienia prawidłowego funkcjonowania Straży Marszałkowskiej.
+
+2. Na wniosek funkcjonariusza Straży Marszałkowskiej urlop wypoczynkowy może być podzielony na części, z tym że co najmniej jedna część urlopu powinna obejmować 14 kolejnych dni kalendarzowych.
 
 **Art. 60.**
 
 1. Z ważnych względów służbowych funkcjonariusza Straży Marszałkowskiej można odwołać z urlopu wypoczynkowego, a także wstrzymać udzielenie mu urlopu w całości lub w części. Termin urlopu może być także przesunięty na wniosek funkcjonariusza umotywowany ważnymi względami.
 
-2. Funkcjonariuszowi Straży Marszałkowskiej odwołanemu z urlopu wypoczynkowego przysługuje, na jego wniosek, zwrot kosztów przejazdu spowodowanych odwołaniem, według norm ustalonych w przepisach o należnościach służbowych w przypadku przeniesienia lub delegowania, jak również innych kosztów związanych z odwołaniem z urlopu wypoczynkowego, określonych przez Marszałka Sejmu.
+2. Funkcjonariuszowi Straży Marszałkowskiej odwołanemu z urlopu wypoczynkowego lub któremu wstrzymano udzielenie urlopu przysługuje, na jego pisemny wniosek, zwrot poniesionych:
+
+- **1)** opłat za pobyt w hotelu lub innym obiekcie świadczącym usługi hotelarskie lub za inne usługi związane z wypoczynkiem w czasie tego pobytu, niewykorzystane przez funkcjonariusza Straży Marszałkowskiej i członków jego rodziny, jeżeli organizator wypoczynku lub inny podmiot świadczący usługi w tym zakresie nie zwrócił wniesionych opłat;
+- **2)** kosztów przejazdu funkcjonariusza Straży Marszałkowskiej na skutek odwołania go z urlopu wypoczynkowego lub wstrzymania udzielenia mu urlopu oraz kosztów przejazdu członków jego rodziny, jeżeli odwołanie funkcjonariusza Straży Marszałkowskiej z urlopu wypoczynkowego lub wstrzymanie udzielenia mu urlopu spowodowało również ich powrót.
+
+2a. Przez członków rodziny funkcjonariusza Straży Marszałkowskiej rozumie się:
+
+- **1)** małżonka;
+- **2)** pozostające na utrzymaniu funkcjonariusza Straży Marszałkowskiej dziecko własne, przysposobione, pasierba oraz dziecko obce przyjęte na wychowanie i utrzymanie, w tym także w ramach rodziny zastępczej, które:
+    - **a)** nie ukończyło 18. roku życia, a w razie pobierania nauki lub odbywania studiów – 25 lat,
+    - **b)** bez względu na wiek, stało się niezdolne do pracy oraz do samodzielnej egzystencji albo całkowicie niezdolne do pracy przed osiągnięciem wieku, o którym mowa w lit. a.
+
+2b. Do wniosku, o którym mowa w ust. 2, funkcjonariusz Straży Marszałkowskiej dołącza rachunki i bilety potwierdzające koszty. Jeżeli uzyskanie lub przedłożenie rachunków i biletów nie jest możliwe, funkcjonariusz Straży Marszałkowskiej składa pisemne oświadczenie o wysokości poniesionych kosztów oraz o przyczynach braku ich udokumentowania.
 
 3. Funkcjonariuszowi Straży Marszałkowskiej, który nie wykorzystał urlopu wypoczynkowego w danym roku kalendarzowym, urlopu tego udziela się do dnia 30 września następnego roku kalendarzowego.
 
+4. W okresie od dnia złożenia przez funkcjonariusza Straży Marszałkowskiej pisemnego zgłoszenia wystąpienia ze służby do dnia zwolnienia ze służby funkcjonariusz Straży Marszałkowskiej jest obowiązany wykorzystać przysługujący mu za dany rok kalendarzowy urlop wypoczynkowy, jeżeli w tym okresie przełożony udzieli mu tego urlopu.
+
 **Art. 61.**
 
-1. Szef Kancelarii Sejmu udziela funkcjonariuszowi Straży Marszałkowskiej płatnego urlopu okolicznościowego:
+1. Funkcjonariuszowi Straży Marszałkowskiej udziela się płatnego urlopu okolicznościowego w wymiarze:
 
-- **1)** w celu zawarcia związku małżeńskiego;
-- **2)** w przypadku urodzenia się dziecka;
-- **3)** ślubu dziecka własnego, przysposobionego, pasierba, dziecka obcego przyjętego na wychowanie i utrzymanie, w tym także w ramach rodziny zastępczej;
-- **4)** pogrzebu małżonka, dziecka, rodziców, rodzeństwa, teściów, dziadków i opiekunów oraz innej osoby pozostającej na utrzymaniu funkcjonariusza Straży Marszałkowskiej lub pod jego bezpośrednią opieką.
+- **1)** 2 dni – w przypadku zawarcia związku małżeńskiego przez funkcjonariusza Straży Marszałkowskiej, urodzenia się dziecka oraz zgonu i pogrzebu małżonka, dziecka, ojca, matki, ojczyma lub macochy funkcjonariusza Straży Marszałkowskiej;
+- **2)** 1 dnia – w przypadku ślubu dziecka własnego, przysposobionego, pasierba oraz dziecka obcego przyjętego na wychowanie i utrzymanie, w tym także w ramach rodziny zastępczej, a także z powodu zgonu i pogrzebu rodzeństwa, teściów, dziadków, opiekunów oraz innej osoby pozostającej na utrzymaniu funkcjonariusza Straży Marszałkowskiej lub pod jego bezpośrednią opieką.
 
-2. Szef Kancelarii Sejmu może udzielić funkcjonariuszowi Straży Marszałkowskiej płatnego urlopu okolicznościowego do załatwienia ważnych spraw osobistych albo w innych przypadkach zasługujących na szczególne uwzględnienie.
+2. Urlopu, o którym mowa w ust. 1, nie udziela się, jeżeli wskazany przez funkcjonariusza Straży Marszałkowskiej termin nie pozostaje w bezpośrednim związku ze zdarzeniem uzasadniającym jego udzielenie.
 
-3. Czas trwania urlopu okoliczno ś ciowego wynosi od 1 do 5 dni.
+3. Prawo do urlopu, o którym mowa w ust. 1, przysługuje także w razie zbiegu z prawem do urlopu z innego tytułu lub zwolnieniem od zajęć służbowych.
+
+4. Funkcjonariuszowi Straży Marszałkowskiej można także udzielić płatnego urlopu okolicznościowego do załatwienia ważnych spraw osobistych albo w innych przypadkach zasługujących na szczególne uwzględnienie. Czas trwania tego urlopu okolicznościowego może wynosić od 1 do 5 dni roboczych w roku kalendarzowym.
 
 **Art. 62.**
 
-1. Szef Kancelarii Sejmu mo ż e udzieli ć , na pisemny wniosek funkcjonariusza Stra ż y Marszałkowskiej w słu ż bie stałej uzasadniony wa ż nymi wzgl ę dami osobistymi, urlopu bezpłatnego w wymiarze do 6 miesi ę cy.
+1. Funkcjonariuszowi Straży Marszałkowskiej można udzielić, na jego pisemny wniosek, urlopu bezpłatnego w wymiarze do 6 miesięcy, jeżeli nie zakłóci to prawidłowego funkcjonowania Straży Marszałkowskiej. Okres urlopu bezpłatnego nie wlicza się do okresu służby w Straży Marszałkowskiej.
 
-2. Szef Kancelarii Sejmu, w przypadkach uzasadnionych wa ż nym interesem słu ż by lub na wniosek funkcjonariusza Straży Marszałkowskiej, może w każdym czasie odwołać funkcjonariusza Straży Marszałkowskiej z urlopu bezpłatnego.
+2. Funkcjonariusz Straży Marszałkowskiej może być w każdym czasie odwołany z urlopu bezpłatnego w przypadkach zagrożenia prawidłowego funkcjonowania Straży Marszałkowskiej lub na jego wniosek.
+
+3. Funkcjonariuszowi Straży Marszałkowskiej, który rozpoczyna urlop bezpłatny w ciągu miesiąca kalendarzowego, przysługuje uposażenie w wysokości 1/30 uposażenia miesięcznego za każdy dzień poprzedzający dzień rozpoczęcia urlopu bezpłatnego. Jeżeli funkcjonariusz Straży Marszałkowskiej pobrał już uposażenie za czas urlopu bezpłatnego, potrąca się odpowiednią część uposażenia przy najbliższej wypłacie.
+
+**Art. 62a.**
+
+1. Funkcjonariuszowi Straży Marszałkowskiej przysługuje prawo do urlopu opiekuńczego w wymiarze 5 dni w roku kalendarzowym w celu zapewnienia osobistej opieki lub wsparcia osobie będącej członkiem rodziny lub zamieszkującej w tym samym gospodarstwie domowym, która wymaga opieki lub wsparcia z poważnych względów medycznych.
+
+2. Przy udzielaniu urlopu, o którym mowa w ust. 1, stosuje się odpowiednio przepisy rozdziału Ia działu siódmego Kodeksu pracy.
+
+3. Za czas urlopu opiekuńczego funkcjonariusz Straży Marszałkowskiej nie zachowuje prawa do uposażenia.
+
+**Art. 62b.**
+
+1. Funkcjonariusz Straży Marszałkowskiej ma prawo do zwolnienia od służby z powodu działania siły wyższej w pilnych sprawach rodzinnych spowodowanych chorobą lub wypadkiem, jeżeli jest niezbędna natychmiastowa obecność tego funkcjonariusza, w wymiarze 2 dni albo 16 godzin w roku kalendarzowym, z zachowaniem prawa do połowy uposażenia, o którym mowa w art.
+
+85.
+
+2. Przy udzielaniu zwolnienia, o którym mowa w ust. 1, stosuje się odpowiednio przepisy art. 148 § 2–6 Kodeksu pracy.
 
 **Art. 63.**
 
-1. Szef Kancelarii Sejmu udziela płatnego urlopu szkoleniowego funkcjonariuszowi Straży Marszałkowskiej, który uzyskał zezwolenie na pobieranie nauki lub odbywanie studiów i który pobiera tę naukę lub odbywa studia, jak również funkcjonariuszowi Straży Marszałkowskiej, który uzyskał zezwolenie na przeprowadzenie przewodu doktorskiego lub habilitacyjnego, a także odbycie aplikacji radcowskiej lub legislacyjnej.
+1. Funkcjonariuszowi Straży Marszałkowskiej udziela się płatnego urlopu szkoleniowego, jeżeli uzyskał on zezwolenie na pobieranie nauki lub odbywanie studiów i pobiera tę naukę lub odbywa studia, lub uzyskał zezwolenie na wszczęcie postępowania w sprawie nadania stopnia doktora lub stopnia doktora habilitowanego, a także odbycie aplikacji radcowskiej lub legislacyjnej.
 
-2. Urlop szkoleniowy jest przeznaczony na udział w zajęciach obowiązkowych, przygotowanie się do egzaminów i złożenie ich, przygotowanie pracy dyplomowej, doktorskiej, habilitacyjnej, przygotowanie i złożenie egzaminu dyplomowego, obrony pracy doktorskiej lub habilitacyjnej.
+2. Urlop szkoleniowy jest przeznaczony na udział w zajęciach obowiązkowych, przygotowanie się do egzaminów i złożenie ich, przygotowanie pracy dyplomowej, rozprawy doktorskiej, przygotowanie i złożenie egzaminu dyplomowego, przygotowanie się do obrony rozprawy doktorskiej lub kolokwium habilitacyjnego.
 
 **Art. 64.**
 
 1. Wymiar urlopu szkoleniowego dla funkcjonariuszy Straży Marszałkowskiej wynosi:
 
-- **1)** na przygotowanie się do egzaminu wstępnego i jego złożenie 7 dni;
-- **2)** w szkołach wyższych, w każdym roku studiów 21 dni;
-- **3)** dla pobierających naukę w szkołach pomaturalnych i na studiach podyplomowych w celu przygotowania się do egzaminu końcowego i złożenia go 14 dni;
-- **4)** w celu przygotowania się do złożenia egzaminów doktorskich, obrony rozprawy doktorskiej lub na przygotowanie się do kolokwium oraz wykładu habilitacyjnego 28 dni;
-- **5)** w celu przygotowania się i złożenia egzaminu radcowskiego 30 dni;
-- **6)** w celu przygotowania się i złożenia egzaminu po zakończeniu aplikacji legislacyjnej 14 dni.
+- **1)** na przygotowanie się do egzaminu wstępnego i jego złożenie – 7 dni;
+- **2)** w szkołach wyższych, w każdym roku studiów – 21 dni;
+- **3)** dla pobierających naukę w szkołach pomaturalnych i na studiach podyplomowych w celu przygotowania się do egzaminu końcowego i złożenia go – 14 dni;
+- **4)** w celu przygotowania się do złożenia egzaminów doktorskich, obrony rozprawy doktorskiej lub kolokwium habilitacyjnego – 28 dni;
+- **5)** w celu przygotowania się i złożenia egzaminu radcowskiego – 30 dni;
+- **6)** w celu przygotowania się i złożenia egzaminu po zakończeniu aplikacji legislacyjnej – 14 dni.
 
 2. Urlop szkoleniowy może być udzielony funkcjonariuszowi Straży Marszałkowskiej jednorazowo albo w częściach w okresie danego roku szkolnego lub akademickiego.
 
-#### Rozdział 7 Uposa ż enie i inne ś wiadczenia pieni ęż ne funkcjonariuszy Stra ż y Marszałkowskiej
+3. Do urlopu szkoleniowego stosuje się odpowiednio przepisy art. 59 ust. 5 i 6.
+
+#### Rozdział 7 Uposażenie i inne świadczenia pieniężne funkcjonariuszy Straży Marszałkowskiej
 
 **Art. 65.**
 
@@ -828,7 +1169,7 @@ o Stra ż y Marszałkowskiej
 
 4. Jeżeli prawo do uposażenia powstało lub zmiana wysokości uposażenia nastąpiła w określonym dniu miesiąca kalendarzowego, uposażenie za każdy następny dzień do końca tego miesiąca oblicza się w wysokości 1/30 części miesięcznego uposażenia.
 
-5. Przeciętne uposażenie funkcjonariuszy Straży Marszałkowskiej stanowi wielokrotność kwoty bazowej, której wysokość ustaloną według odrębnych zasad określa ustawa budżetowa.
+5. Przeciętne uposażenie funkcjonariuszy Straży Marszałkowskiej stanowi wielokrotność kwoty bazowej, której wyso-kość ustaloną według odrębnych zasad określa ustawa budżetowa.
 
 6. Przez przeciętne uposażenie, o którym mowa w ust. 5, rozumie się uposażenie wraz z miesięczną równowartością nagrody rocznej.
 
@@ -843,68 +1184,76 @@ o Stra ż y Marszałkowskiej
 2. Uposażenie zasadnicze funkcjonariusza Straży Marszałkowskiej obejmuje:
 
 - **1)** uposażenie według stopnia Straży Marszałkowskiej;
-- **2)** uposa ż enie według stanowiska słu ż bowego z uwzgl ę dnieniem wzrostu uposa ż enia z tytułu wysługi lat.
+- **2)** uposażenie według stanowiska służbowego z uwzględnieniem wzrostu uposażenia z tytułu wysługi lat.
 
-3. Dodatkami o charakterze stałym s ą :
+3. Dodatkami o charakterze stałym są:
 
 - **1)** dodatek specjalny;
 - **2)** dodatek uzasadniony szczególnymi kwalifikacjami lub warunkami pełnienia służby.
 
-4. Funkcjonariusz Straży Marszałkowskiej otrzymuje dodatek specjalny, którego wysokość wynosi do 50% uposażenia zasadniczego, jednak nie mniej niż 1%, i jest uzależniona od:
+4. Funkcjonariusz Straży Marszałkowskiej otrzymuje dodatek specjalny, którego wysokość wynosi do 50 % uposażenia zasadniczego, jednak nie mniej niż 1 %, i jest uzależniona od:
 
 - **1)** stopnia trudności, złożoności i sposobu realizacji zadań wykonywanych przez funkcjonariusza Straży Marszałkowskiej;
-- **2)** efektów pracy funkcjonariusza Straży Marszałkowskiej;
-- **3)** opinii służbowej poprzedzającej ustalenie wysokości dodatku specjalnego.
+- **2)** efektów pracy funkcjonariusza Straży Marszałkowskiej.
+- **3)** (uchylony)
 
-5. Wysokość dodatku specjalnego funkcjonariusza Straży Marszałkowskiej, który uzyskał opinię służbową zawierającą ogólną ocenę bardzo dobrą albo wzorową, nie może być niższa niż 5% uposażenia zasadniczego.
+5. Wysokość dodatku specjalnego funkcjonariusza Straży Marszałkowskiej, który uzyskał opinię służbową zawierającą ogólną ocenę bardzo dobrą albo wzorową, nie może być niższa niż 5 % uposażenia zasadniczego.
 
-6. Wysokość dodatku uzasadnionego szczególnymi kwalifikacjami lub warunkami pełnienia służby nie może przekroczyć 20% uposażenia zasadniczego.
+6. Wysokość dodatku uzasadnionego szczególnymi kwalifikacjami lub warunkami pełnienia służby nie może przekroczyć 30 % uposażenia zasadniczego.
 
-7. Szef Kancelarii Sejmu ustala wysokość dodatku specjalnego funkcjonariusza na wniosek Komendanta Straży Marszałkowskiej.
+7. (uchylony)
 
-8. Szef Kancelarii Sejmu ustala wysokość dodatku specjalnego Komendantowi Straży Marszałkowskiej i jego zastępcom.
+8. (uchylony)
 
-9. Szef Kancelarii Sejmu ustala wysokość dodatku specjalnego na okres 6 miesięcy w terminach:
+9. Wysokość dodatku specjalnego ustala się na okres 6 miesięcy w terminach:
 
 - **1)** od dnia 1 stycznia do dnia 30 czerwca danego roku;
 - **2)** od dnia 1 lipca do dnia 31 grudnia danego roku.
 
-10. Ustalenie wysokości dodatku specjalnego następuje w drodze decyzji. Wydanie decyzji nie jest wymagane w sytuacji, gdy wysokość dodatku specjalnego nie ulega zmianie.
+10. Ustalenie wysokości dodatku specjalnego nie jest wymagane w sytuacji, gdy jego wysokość w kolejnym okresie, o którym mowa w ust. 9, nie ulega zmianie.
 
-11. Szef Kancelarii Sejmu w uzasadnionych przypadkach, a w szczególności w przypadku:
+11. Przełożony w uzasadnionych przypadkach, a w szczególności w przypadku:
 
 - **1)** popełnienia przez funkcjonariusza Straży Marszałkowskiej przewinienia dyscyplinarnego oraz naruszenia zasad etyki zawodowej funkcjonariuszy Straży Marszałkowskiej,
 - **2)** niewywiązywania się przez funkcjonariusza Straży Marszałkowskiej z realizacji zadań służbowych,
-- **3)** znacznego obniżenia efektywności pracy funkcjonariusza Straży Marszałkowskiej obniża wysokość dodatku specjalnego przed upływem sześciomiesięcznego okresu, na który został ustalony.
+- **3)** znacznego obniżenia efektywności pracy funkcjonariusza Straży Marszałkowskiej – obniża wysokość dodatku specjalnego przed upływem sześciomiesięcznego okresu, na który został ustalony.
 
-12. Szef Kancelarii Sejmu w przypadku przedstawienia funkcjonariuszowi Straży Marszałkowskiej w toku postępowania przygotowawczego zarzutu popełnienia przestępstwa lub przestępstwa skarbowego obniża wysokość dodatku specjalnego przed upływem sześciomiesięcznego okresu.
+12. Przełożony w przypadku przedstawienia funkcjonariuszowi Straży Marszałkowskiej w toku postępowania przygotowawczego zarzutu popełnienia przestępstwa lub przestępstwa skarbowego obniża wysokość dodatku specjalnego przed upływem sześciomiesięcznego okresu.
 
-13. Szef Kancelarii Sejmu może ustalić wyższą wysokość dodatku specjalnego przed upływem sześciomiesięcznego okresu, na który został ustalony, jeżeli jest to uzasadnione charakterem i efektami bieżąco realizowanych zadań lub wykonywaniem przez funkcjonariusza Straży Marszałkowskiej czynności wykraczających poza zakres jego obowiązków służbowych.
+13. Przełożony może ustalić wyższą wysokość dodatku specjalnego przed upływem sześciomiesięcznego okresu, na który został ustalony, jeżeli jest to uzasadnione charakterem i efektami bieżąco realizowanych zadań lub wykonywaniem przez funkcjonariusza Straży Marszałkowskiej czynności wykraczających poza zakres jego obowiązków służbowych.
 
-14. Prezes Rady Ministrów określi, w drodze rozporządzenia, rodzaj oraz wysokość dodatku uzasadnionego szczególnymi kwalifikacjami lub warunkami pełnienia służby, uwzględniając przesłanki przyznania dodatku oraz okoliczności uzasadniające jego podwyższanie, obniżanie i cofanie.
+14. (uchylony)
 
 15. Funkcjonariuszowi Straży Marszałkowskiej przysługują także należności pieniężne:
 
-- **1)** zasiłek na zagospodarowanie w związku z powołaniem do służby stałej;
+- **1)** zasiłek na zagospodarowanie w związku z mianowaniem do służby stałej;
 - **2)** nagrody roczne i zapomogi;
 - **3)** nagrody uznaniowe;
 - **4)** nagrody jubileuszowe;
 - **5)** należności za podróże służbowe;
-- **6)** nale ż no ś ci w zwi ą zku ze zwolnieniem ze słu ż by;
-- **7)** nale ż no ś ci po ś miertne.
+- **5a)** rekompensata pieniężna w zamian za czas służby przekraczający normę określoną w art. 23 ust. 2;
+- **5b)** świadczenie motywacyjne;
+- **5c)** świadczenie za długoletnią służbę;
+- **6)** należności w związku ze zwolnieniem ze służby;
+- **7)** należności pośmiertne.
 
-16. Prezes Rady Ministrów, po zasięgnięciu opinii Szefa Kancelarii Sejmu, określi, w drodze rozporządzenia, stawki uposażenia zasadniczego dla poszczególnych:
+16. (uchylony)
 
-- **1)** stanowisk służbowych z uwzględnieniem wzrostu uposażenia z tytułu wysługi lat, kierując się rangą stanowiska, zakresem wykonywanych zadań służbowych, ponoszoną odpowiedzialnością i wymaganymi kwalifikacjami;
-- **2)** stopni Straży Marszałkowskiej.
+17. (uchylony)
 
-17. Prezes Rady Ministrów, po zasięgnięciu opinii Szefa Kancelarii Sejmu, określi, w drodze rozporządzenia, terminy płatności uposażenia i innych należności pieniężnych oraz przypadki odstąpienia od tych terminów, uwzględniając specyfikę i warunki pełnionej służby.
+18. Marszałek określi, w drodze zarządzenia:
+
+- **1)** stawki uposażenia zasadniczego dla poszczególnych:
+    - **a)** stanowisk służbowych z uwzględnieniem wzrostu uposażenia z tytułu wysługi lat, kierując się stanowiskiem, zakresem wykonywanych zadań służbowych, ponoszoną odpowiedzialnością i wymaganymi kwalifikacjami,
+    - **b)** stopni Straży Marszałkowskiej;
+
+- **2)** rodzaje szczególnych kwalifikacji lub warunków służby uwzględnianych przy przyznawaniu dodatku, o którym mowa w ust. 3 pkt 2, jego wysokość uzasadnioną poszczególnymi kwalifikacjami lub warunkami pełnienia służby, a także przesłanki przyznania dodatku oraz okoliczności uzasadniające jego podwyższanie, obniżanie i cofanie.
 
 **Art. 68.**
 
 1. Do wysługi lat, od której jest uzależniona wysokość uposażenia według stanowiska służbowego Straży Marszałkowskiej, zalicza się służbę w Straży Marszałkowskiej, czynną służbę wojskową oraz służbę w Policji, Biurze Ochrony Rządu, Służbie Ochrony Państwa, Straży Granicznej, Państwowej Straży Pożarnej, Służbie Celno-Skarbowej, Służbie Więziennej, Urzędzie Ochrony Państwa, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego i Centralnym Biurze Antykorupcyjnym.
 
-2. Do wysługi lat, o której mowa w ust. 1, zalicza się również inne okresy służby lub pracy wykonywanej przed powołaniem funkcjonariusza Straży Marszałkowskiej do służby, zaliczane na podstawie przepisów prawa pracy.
+2. Do wysługi lat, o której mowa w ust. 1, zalicza się również inne okresy służby lub pracy wykonywanej przed mianowaniem funkcjonariusza Straży Marszałkowskiej do służby, zaliczane na podstawie przepisów prawa pracy.
 
 3. Funkcjonariuszowi Straży Marszałkowskiej, który ukończył studia w szkole wyższej, zalicza się do wysługi lat, o której mowa w ust. 1, również okres tych studiów, nie dłuższy jednak od programowego czasu trwania studiów.
 
@@ -921,7 +1270,7 @@ o Stra ż y Marszałkowskiej
 
 **Art. 70.** Funkcjonariusz Straży Marszałkowskiej odbywający studia lub pobierający naukę w szkołach albo na kursach otrzymuje uposażenie według stanowiska służbowego zajmowanego przed skierowaniem do szkoły lub na kurs.
 
-**Art. 71.** Szef Kancelarii Sejmu przyznaje funkcjonariuszowi Straży Marszałkowskiej uposażenie i inne należności pieniężne.
+**Art. 71.** (uchylony)
 
 **Art. 72.**
 
@@ -931,18 +1280,18 @@ o Stra ż y Marszałkowskiej
 
 3. Bieg przedawnienia roszczenia z tytułu uposażenia i innych należności pieniężnych przerywa:
 
-- **1)** każda czynność przed Szefem Kancelarii Sejmu podjęta bezpośrednio w celu dochodzenia lub ustalenia albo zaspokojenia roszczenia;
+- **1)** każda czynność przed przełożonym podjęta bezpośrednio w celu dochodzenia lub ustalenia albo zaspokojenia roszczenia;
 - **2)** uznanie roszczenia.
 
 **Art. 73.**
 
-1. Funkcjonariuszowi Straży Marszałkowskiej w związku z powołaniem do służby stałej przysługuje jednorazowy zasiłek na zagospodarowanie.
+1. Funkcjonariuszowi Straży Marszałkowskiej w związku z mianowaniem do służby stałej przysługuje jednorazowy zasiłek na zagospodarowanie.
 
-2. Zasiłek na zagospodarowanie przysługuje w wysoko ś ci jednomiesi ę cznego uposa ż enia zasadniczego wraz z dodatkami o charakterze stałym.
+2. Zasiłek na zagospodarowanie przysługuje w wysokości jednomiesięcznego uposażenia zasadniczego wraz z dodatkami o charakterze stałym należnego w dniu mianowania do służby stałej.
 
-3. Zasiłek na zagospodarowanie nie przysługuje funkcjonariuszowi, który podj ą ł słu ż b ę w Stra ż y Marszałkowskiej po zwolnieniu z zawodowej słu ż by wojskowej albo innej słu ż by, w czasie pełnienia której otrzymał taki zasiłek.
+3. Zasiłek na zagospodarowanie nie przysługuje funkcjonariuszowi, który podjął służbę w Straży Marszałkowskiej po zwolnieniu z zawodowej służby wojskowej albo innej służby, w czasie pełnienia której otrzymał taki zasiłek.
 
-**Art. 74.** Funkcjonariuszowi Stra ż y Marszałkowskiej mog ą by ć przyznawane nagrody roczne, uznaniowe i zapomogi.
+**Art. 74.** Funkcjonariuszowi Straży Marszałkowskiej mogą być przyznawane nagrody roczne, uznaniowe i zapomogi.
 
 **Art. 75.**
 
@@ -950,7 +1299,7 @@ o Stra ż y Marszałkowskiej
 
 2. Nagrodę roczną przysługującą zmarłemu funkcjonariuszowi Straży Marszałkowskiej wypłaca się uprawnionym do policyjnej renty rodzinnej członkom rodziny funkcjonariusza Straży Marszałkowskiej.
 
-3. Nagrodę roczną obniża się, nie więcej niż o 50% jej wysokości określonej w ust. 1, w przypadkach:
+3. Nagrodę roczną obniża się, nie więcej niż o 50 % jej wysokości określonej w ust. 1, w przypadkach:
 
 - **1)** warunkowego umorzenia prowadzonego przeciwko funkcjonariuszowi Straży Marszałkowskiej postępowania karnego lub postępowania karno-skarbowego albo odstąpienia przez sąd od wymierzenia kary;
 - **2)** wymierzenia funkcjonariuszowi Straży Marszałkowskiej kary dyscyplinarnej nagany;
@@ -964,11 +1313,14 @@ o Stra ż y Marszałkowskiej
 - **2)** wymierzenia funkcjonariuszowi Straży Marszałkowskiej kary dyscyplinarnej:
     - **a)** wydalenia ze służby,
     - **b)** wyznaczenia na niższe stanowisko służbowe,
-    - **c)** ostrzeżenia o niepełnej przydatności do służby na zajmowanym stanowisku;
+    - **c)** ostrzeżenia o niepełnej przydatności do służby na zajmowanym stanowisku,
+    - **d)** ostrzeżenia o niepełnej przydatności do służby;
 
-- **3)** zwolnienia ze służby na podstawie art. 29 ust. 1 pkt 2, 4 lub 5 albo art. 29 ust. 2 pkt 1.
+- **3)** zwolnienia ze służby na podstawie art. 29 ust. 1 pkt 2, 4 lub 5 albo ust. 2 pkt 1 i
 
-6. Obniżenie nagrody rocznej lub pozbawienie prawa do niej następuje za rok kalendarzowy, w którym funkcjonariusz Straży Marszałkowskiej popełnił czyn będący przedmiotem postępowania karnego, karnego skarbowego lub dyscyplinarnego, a jeżeli nagroda została funkcjonariuszowi Straży Marszałkowskiej wypłacona za rok, w którym postępowanie zostało zakończone prawomocnym orzeczeniem.
+7.
+
+6. Obniżenie nagrody rocznej lub pozbawienie prawa do niej następuje za rok kalendarzowy, w którym funkcjonariusz Straży Marszałkowskiej popełnił czyn będący przedmiotem postępowania karnego, karnego skarbowego lub dyscyplinarnego, a jeżeli nagroda została funkcjonariuszowi Straży Marszałkowskiej wypłacona – za rok, w którym postępowanie zostało zakończone prawomocnym orzeczeniem.
 
 7. Nagrodę roczną wypłaca się w ciągu pierwszych 3 miesięcy kalendarzowych następujących po roku, za który przysługuje nagroda roczna, z wyjątkiem nagrody rocznej przysługującej funkcjonariuszowi Straży Marszałkowskiej zwalnianemu ze służby oraz nagrody rocznej przysługującej zmarłemu funkcjonariuszowi Straży Marszałkowskiej, które wypłaca się niezwłocznie.
 
@@ -982,7 +1334,7 @@ o Stra ż y Marszałkowskiej
 
 **Art. 77.**
 
-1. Funkcjonariuszowi Straży Marszałkowskiej można przyznać nagrodę uznaniową za uzyskiwanie znaczących wyników w służbie, wykonywanie zadań służbowych w szczególnie trudnych warunkach lub wymagających znacznego nakładu pracy, zaangażowania i odpowiedzialności, a także w razie dokonania czynu świadczącego o odwadze funkcjonariusza Straży Marszałkowskiej.
+1. Funkcjonariuszowi Straży Marszałkowskiej można przyznać nagrodę uznaniową za uzyskiwanie znaczących wyników w służbie, wykonywanie zadań służbowych w szczególnie trudnych warunkach lub wymagających znacznego nakładu pracy, zaangażowania i odpowiedzialności, a także w razie dokonania czynu świadczącego o odwadze funkcjona-riusza Straży Marszałkowskiej.
 
 2. Wysokość nagrody uznaniowej powinna być adekwatna do warunków uzasadniających jej przyznanie.
 
@@ -990,11 +1342,11 @@ o Stra ż y Marszałkowskiej
 
 1. Funkcjonariuszowi Straży Marszałkowskiej przysługuje nagroda jubileuszowa w wysokości:
 
-- **1)** po 20 latach służby 75%,
-- **2)** po 25 latach służby 100%,
-- **3)** po 30 latach słu ż by 150%,
-- **4)** po 35 latach słu ż by 200%,
-- **5)** po 40 latach słu ż by 300% miesięcznego uposażenia zasadniczego wraz z dodatkami o charakterze stałym.
+- **1)** po 20 latach służby – 75 %,
+- **2)** po 25 latach służby – 100 %,
+- **3)** po 30 latach służby – 150 %,
+- **4)** po 35 latach służby – 200 %,
+- **5)** po 40 latach służby – 300 % – miesięcznego uposażenia zasadniczego wraz z dodatkami o charakterze stałym.
 
 2. Prezes Rady Ministrów, po zasięgnięciu opinii Szefa Kancelarii Sejmu, określi, w drodze rozporządzenia, okresy wliczane do okresu służby, od którego zależy nabycie prawa do nagrody jubileuszowej, oraz sposób jej obliczania i wypłacania, z uwzględnieniem podstawy obliczania nagrody, daty nabycia praw do niej, a także terminu wypłacania nagrody.
 
@@ -1009,42 +1361,95 @@ o Stra ż y Marszałkowskiej
 
 **Art. 80.**
 
-1. Funkcjonariuszowi Straży Marszałkowskiej zwolnionemu ze służby stałej przysługuje odprawa w wysokości trzymiesięcznego uposażenia zasadniczego należnego na ostatnio zajmowanym stanowisku służbowym wraz z dodatkami o charakterze stałym.
+1. Funkcjonariuszowi Straży Marszałkowskiej zwolnionemu ze służby stałej na podstawie art. 10a ust. 3 zdanie czwarte, art. 29 ust. 1 pkt 1 lub 7, ust. 2 pkt 1, 3, 6 lub 8 albo ust. 3 przysługuje odprawa w wysokości trzymiesięcznego uposażenia zasadniczego należnego na ostatnio zajmowanym stanowisku służbowym wraz z dodatkami o charakterze stałym.
 
-2. Wysokość odprawy ulega zwiększeniu o 20% miesięcznego uposażenia zasadniczego wraz z dodatkami o charakterze stałym za każdy pełny rok wysługi ponad 10 lat nieprzerwanej służby aż do wysokości sześciomiesięcznego uposażenia zasadniczego wraz z dodatkami o charakterze stałym. Okres służby przekraczający 6 miesięcy liczy się jako pełny rok.
+2. Wysokość odprawy ulega zwiększeniu o 20 % miesięcznego uposażenia zasadniczego wraz z dodatkami o charakterze stałym za każdy pełny rok wysługi ponad 10 lat nieprzerwanej służby – aż do wysokości sześciomiesięcznego uposażenia zasadniczego wraz z dodatkami o charakterze stałym. Okres służby przekraczający 6 miesięcy liczy się jako pełny rok.
 
-3. Funkcjonariuszowi Straży Marszałkowskiej zwolnionemu ze służby przygotowawczej przysługuje odprawa w wysokości jednomiesięcznego uposażenia zasadniczego należnego na ostatnio zajmowanym stanowisku wraz z dodatkami o charakterze stałym.
+3. (uchylony)
 
-4. Odprawa nie przysługuje funkcjonariuszowi Straży Marszałkowskiej zwolnionemu ze służby wskutek utraty stopnia Straży Marszałkowskiej albo skazania na karę pozbawienia wolności. Szef Kancelarii Sejmu może ze względu na szczególne okoliczności przyznać temu funkcjonariuszowi Straży Marszałkowskiej albo jego rodzinie do 50% odprawy.
+4. (uchylony)
 
-**Art. 81.** Funkcjonariuszowi Straży Marszałkowskiej zwolnionemu ze służby przysługuje ekwiwalent pieniężny za urlop wypoczynkowy niewykorzystany w roku zwolnienia ze służby oraz za urlopy zaległe.
+**Art. 81.**
+
+1. Funkcjonariuszowi Straży Marszałkowskiej zwolnionemu ze służby przysługuje ekwiwalent pieniężny za urlop wypoczynkowy niewykorzystany w roku zwolnienia ze służby oraz za urlopy zaległe.
+
+2. Ekwiwalent pieniężny za 1 dzień niewykorzystanego urlopu wypoczynkowego ustala się w wysokości 1/21 miesięcznego uposażenia zasadniczego, wraz z dodatkami o charakterze stałym, należnego na ostatnio zajmowanym stanowisku służbowym.
+
+**Art. 81a.**
+
+1. Funkcjonariuszowi Straży Marszałkowskiej przyznaje się świadczenie motywacyjne po osiągnięciu:
+
+- **1)** 25 lat służby, ale nie więcej niż 28 lat i 6 miesięcy – w wysokości 1500 zł miesięcznie albo
+- **2)** 28 lat i 6 miesięcy służby – w wysokości 2500 zł miesięcznie.
+
+2. Do stażu służby, o którym mowa w ust. 1, zalicza się okresy:
+
+- **1)** służby w Straży Marszałkowskiej;
+- **2)** służby w Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego, Centralnym Biurze Antykorupcyjnym, Straży Granicznej, Służbie Ochrony Państwa, Państwowej Straży Pożarnej, Służbie Celnej, Służbie Celno-Skarbowej i Służbie Więziennej;
+- **3)** traktowane jako równorzędne ze służbą, o której mowa w pkt 1 i 2, wymienione w art. 13 ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin.
+
+3. Przełożony przyznaje lub odmawia przyznania świadczenia motywacyjnego nie później niż w terminie 30 dni po osiągnięciu przez funkcjonariusza Straży Marszałkowskiej stażu służby, o którym mowa w ust. 1 pkt 1 lub 2.
+
+4. Przed przyznaniem świadczenia motywacyjnego funkcjonariusz Straży Marszałkowskiej podlega opiniowaniu służbowemu na zasadach, o których mowa w art. 24, jeżeli od dnia wydania ostatniej opinii o tym funkcjonariuszu upłynęły co najmniej 3 miesiące.
+
+5. Świadczenia motywacyjnego nie przyznaje się funkcjonariuszowi Straży Marszałkowskiej:
+
+- **1)** który podczas ostatniego opiniowania służbowego otrzymał jedną z opinii służbowych, o których mowa w art. 25 ust. 2 pkt 2 albo 3 albo art. 29 ust. 1 pkt 2 albo ust. 2 pkt 1 – przez okres jednego roku od dnia wydania ostatecznej opinii służbowej;
+- **2)** przeciwko któremu wszczęto postępowanie karne w sprawie o przestępstwo umyślne ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe lub postępowanie dyscyplinarne – do czasu prawomocnego zakończenia tego postępowania;
+- **3)** ukaranemu karą dyscyplinarną – do czasu jej zatarcia;
+- **4)** skazanemu wyrokiem sądu lub w stosunku do którego postępowanie karne zostało warunkowo umorzone – przez okres jednego roku od dnia uprawomocnienia się orzeczenia.
+
+6. Jeżeli po przyznaniu świadczenia motywacyjnego wystąpią okoliczności, o których mowa w ust. 5, przełożony niezwłocznie stwierdza ustanie prawa do wypłaty tego świadczenia.
+
+7. Świadczenia motywacyjnego nie wypłaca się za okres:
+
+- **1)** korzystania z urlopu bezpłatnego,
+- **2)** przerw w wykonywaniu obowiązków służbowych, za które funkcjonariusz Straży Marszałkowskiej nie zachował prawa do uposażenia, wymienionych w art. 95,
+- **3)** zawieszenia w czynnościach służbowych albo tymczasowego aresztowania,
+- **4)** zwolnienia od zajęć służbowych, o którym mowa w art. 87 ust. 2 pkt 1 i 3–5,
+- **5)** innej nieobecności trwającej co najmniej jeden miesiąc – proporcjonalnie do tego okresu.
+
+8. Świadczenie motywacyjne wypłaca się w każdym kolejnym miesiącu kalendarzowym, począwszy od miesiąca następującego po miesiącu, w którym przyznano świadczenie motywacyjne.
+
+9. Świadczenie motywacyjne płatne jest z dołu do dziesiątego dnia miesiąca następującego po miesiącu, za który świadczenie motywacyjne przysługuje.
+
+10. Prawo do wypłaty świadczenia motywacyjnego ustaje w miesiącu, w którym przełożony stwierdził ustanie prawa do wypłaty tego świadczenia lub nastąpiło rozwiązanie stosunku służbowego w związku ze zwolnieniem funkcjonariusza Straży Marszałkowskiej ze służby, z jego śmiercią lub zaginięciem. Świadczenia motywacyjnego za ten miesiąc nie wypłaca się.
+
+**Art. 81b.**
+
+1. Funkcjonariuszowi Straży Marszałkowskiej przysługuje świadczenie za długoletnią służbę w wysokości 5 % należnego uposażenia zasadniczego po osiągnięciu 15 lat służby.
+
+2. Świadczenie, o którym mowa w ust. 1, zwiększa się o kwotę 1 % należnego uposażenia zasadniczego za każdy kolejny rozpoczęty rok służby, nie więcej jednak niż do wysokości 15 % po 25 latach służby, i wypłaca się do dnia rozwiązania stosunku służbowego w związku ze zwolnieniem funkcjonariusza Straży Marszałkowskiej ze służby, z jego śmiercią lub zaginięciem.
+
+3. Do świadczenia, o którym mowa w ust. 1, stosuje się odpowiednio przepis art. 81a ust. 2.
 
 **Art. 82.**
 
 1. W przypadku śmierci funkcjonariusza Straży Marszałkowskiej pozostałej po nim rodzinie przysługuje, niezależnie od zasiłku pogrzebowego:
 
 - **1)** odprawa pośmiertna w takiej wysokości, w jakiej przysługiwałaby temu funkcjonariuszowi Straży Marszałkowskiej odprawa, gdyby był zwolniony ze służby;
-- **2)** ekwiwalent pieniężny za urlop wypoczynkowy niewykorzystany przez funkcjonariusza Straży Marszałkowskiej w roku zwolnienia ze służby oraz za urlopy zaległe.
+- **2)** ekwiwalent pieniężny za urlop wypoczynkowy niewykorzystany przez funkcjonariusza Straży Marszałkowskiej w roku zwolnienia ze służby oraz za urlopy zaległe;
+- **3)** rekompensata pieniężna w zamian za czas służby przekraczający normę określoną w art. 23 ust. 2.
 
 2. Świadczenia, o których mowa w ust. 1, przysługują małżonkowi funkcjonariusza Straży Marszałkowskiej, który pozostawał z nim we wspólności małżeńskiej, a w dalszej kolejności dzieciom oraz rodzicom, jeżeli w dniu śmierci funkcjonariusza Straży Marszałkowskiej spełniali warunki do uzyskania renty rodzinnej na podstawie przepisów ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin.
 
-3. Przepis ust. 1 stosuje się także do zaginionych funkcjonariuszy Straży Marszałkowskiej. Zaginięcie funkcjonariusza Straży Marszałkowskiej i związek tego zaginięcia ze służbą stwierdza Szef Kancelarii Sejmu.
+3. Przepis ust. 1 stosuje się także do zaginionych funkcjonariuszy Straży Marszałkowskiej. Zaginięcie funkcjonariusza Straży Marszałkowskiej i związek tego zaginięcia ze służbą stwierdza przełożony.
 
 **Art. 83.**
 
 1. W przypadku śmierci funkcjonariusza Straży Marszałkowskiej, niezależnie od odprawy pośmiertnej, przysługuje zasiłek pogrzebowy w wysokości:
 
-- **1)** 4000 zł jeżeli koszty pogrzebu ponoszą małżonek, dzieci, wnuki, rodzeństwo lub rodzice;
-- **2)** kosztów rzeczywiście poniesionych, jednak nie więcej niż do wysokości określonej w pkt 1 jeżeli koszty pogrzebu ponosi inna osoba.
+- **1)** 7000 zł – jeżeli koszty pogrzebu ponoszą małżonek, dzieci, wnuki, rodzeństwo lub rodzice;
+- **2)** kosztów rzeczywiście poniesionych, jednak nie więcej niż do wysokości określonej w pkt 1 – jeżeli koszty pogrzebu ponosi inna osoba.
 
-2. Je ż eli ś mier ć funkcjonariusza Stra ż y Marszałkowskiej nast ą piła na skutek wypadku pozostaj ą cego w zwi ą zku ze słu ż b ą , koszty pogrzebu pokrywa si ę ze ś rodków Kancelarii Sejmu. Szef Kancelarii Sejmu mo ż e wyrazi ć zgod ę na pokrycie kosztów pogrzebu funkcjonariusza Stra ż y Marszałkowskiej zmarłego wskutek choroby pozostaj ą cej w zwi ą zku ze słu ż b ą .
+2. Jeżeli śmierć funkcjonariusza Straży Marszałkowskiej nastąpiła na skutek wypadku pozostającego w związku ze służbą, koszty pogrzebu pokrywa się ze środków Kancelarii Sejmu. Szef Kancelarii może wyrazić zgodę na pokrycie kosztów pogrzebu funkcjonariusza Straży Marszałkowskiej zmarłego wskutek choroby pozostającej w związku ze służbą.
 
 **Art. 84.**
 
 1. Osobie, która pokryła koszty pogrzebu członka rodziny funkcjonariusza Straży Marszałkowskiej, przysługuje zasiłek pogrzebowy:
 
-- **1)** funkcjonariuszowi Straży Marszałkowskiej w wysokości 4000 zł;
-- **2)** innej osobie w wysokości kosztów rzeczywiście poniesionych, nie większej jednak niż określona w pkt 1.
+- **1)** funkcjonariuszowi Straży Marszałkowskiej – w wysokości 7000 zł;
+- **2)** innej osobie – w wysokości kosztów rzeczywiście poniesionych, nie większej jednak niż określona w pkt 1.
 
 2. Zasiłek pogrzebowy, o którym mowa w ust. 1, przysługuje w przypadku śmierci członków rodziny funkcjonariusza Straży Marszałkowskiej:
 
@@ -1055,48 +1460,50 @@ o Stra ż y Marszałkowskiej
 - **5)** rodziców funkcjonariusza Straży Marszałkowskiej, a także jego ojczyma, macochy oraz jego przysposabiających;
 - **6)** osób, których opiekunem prawnym został ustanowiony funkcjonariusz Straży Marszałkowskiej lub jego małżonek.
 
+**Art. 84a.** Zasiłek pogrzebowy, o którym mowa w art. 83 ust. 1 pkt 1 oraz art. 84 ust. 1 pkt 1, podlega zwiększeniu w terminach i na zasadach określonych w art. 80 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
+
 **Art. 85.** W czasie urlopu i zwolnienia od zajęć służbowych funkcjonariusz Straży Marszałkowskiej zachowuje prawo do pobieranego ostatnio uposażenia i innych należności pieniężnych, z uwzględnieniem powstałych zmian, mających wpływ na wysokość uposażenia zasadniczego lub na prawo do dodatków i innych należności pieniężnych.
 
 **Art. 86.**
 
-1. Miesięczne uposażenie funkcjonariusza Straży Marszałkowskiej za okres ustalony przepisami Kodeksu pracy jako okres urlopu macierzyńskiego, okres urlopu na warunkach urlopu macierzyńskiego oraz okres urlopu ojcowskiego wynosi 100% miesięcznego uposażenia, o którym mowa w art. 85.
+1. Miesięczne uposażenie funkcjonariusza Straży Marszałkowskiej za okres ustalony przepisami Kodeksu pracy jako okres urlopu macierzyńskiego, okres urlopu na warunkach urlopu macierzyńskiego, okres uzupełniającego urlopu macierzyńskiego oraz okres urlopu ojcowskiego wynosi 100 % uposażenia, o którym mowa w art. 85.
 
-2. Miesięczne uposażenie funkcjonariusza Straży Marszałkowskiej za okres ustalony przepisami Kodeksu pracy jako okres urlopu rodzicielskiego wynosi:
+2. Miesięczne uposażenie funkcjonariusza Straży Marszałkowskiej za okres ustalony przepisami Kodeksu pracy jako okres urlopu rodzicielskiego wynosi 70 % miesięcznego uposażenia, o którym mowa w art. 85.
 
-- **1)** 100% miesięcznego uposażenia, o którym mowa w art. 83, za okres do:
-    - **a)** 6 tygodni urlopu rodzicielskiego w przypadku, o którym mowa w art. 182 § 1 pkt 1 i art. 183 § 4 pkt 1 Kodeksu pracy,
-    - **b)** 8 tygodni urlopu rodzicielskiego w przypadkach, o których mowa w art. 182 § 1 pkt 2 i art. 183 § 4 pkt 2 Kodeksu pracy,
-    - **c)** 3 tygodni urlopu rodzicielskiego w przypadku, o którym mowa w art. 183 § 4 pkt 3 Kodeksu pracy;
+3. Funkcjonariusz Straży Marszałkowskiej – kobieta, nie później niż 21 dni po porodzie, może złożyć pisemny wniosek o wypłacenie jej uposażenia za okres odpowiadający okresowi urlopu macierzyńskiego i urlopu rodzicielskiego w pełnym wymiarze, z wyłączeniem okresu, o którym mowa w art. 182 § 4 Kodeksu pracy, przysługującego funkcjonariuszowi Straży Marszałkowskiej – ojcu dziecka, w wysokości 81,5 % uposażenia, o którym mowa w art. 85.
 
-- **2)** 60% miesięcznego uposażenia, o którym mowa w art. 85, za okres urlopu rodzicielskiego przypadający po okresach, o których mowa w pkt 1.
+4. Funkcjonariusz Straży Marszałkowskiej, nie później niż 21 dni po przyjęciu dziecka na wychowanie i wystąpieniu do sądu opiekuńczego z wnioskiem o wszczęcie postępowania w sprawie przysposobienia dziecka albo po przyjęciu dziecka na wychowanie jako rodzina zastępcza, z wyjątkiem rodziny zastępczej zawodowej, może złożyć pisemny wniosek o wypłacenie mu uposażenia za okres odpowiadający okresowi urlopu na warunkach urlopu macierzyńskiego i urlopu rodzicielskiego w pełnym wymiarze, z wyłączeniem okresu, o którym mowa w art. 182 § 4 Kodeksu pracy, przysługującego funkcjonariuszowi Straży Marszałkowskiej – drugiemu rodzicowi dziecka, w wysokości 81,5 % uposażenia, o którym mowa w art. 85.
 
-3. Miesięczne uposażenie funkcjonariusza Straży Marszałkowskiej kobiety, która we wniosku złożonym nie później niż 21 dni po porodzie wystąpi o udzielenie jej bezpośrednio po urlopie macierzyńskim urlopu rodzicielskiego w pełnym wymiarze, wynosi 80% miesięcznego uposażenia, o którym mowa w art. 85, za cały okres odpowiadający okresowi tych urlopów.
+4a. Funkcjonariusz Straży Marszałkowskiej nie później niż 21 dni przed zakończeniem korzystania z urlopu macierzyńskiego albo urlopu na warunkach urlopu macierzyńskiego może złożyć pisemny wniosek o wypłatę uposażenia za okres odpowiadający okresowi uzupełniającego urlopu macierzyńskiego, o którym mowa w art. 180 albo art. 183 § 3 Kodeksu pracy.
 
-4. W przypadku gdy wysokość uposażenia funkcjonariusza Straży Marszałkowskiej pomniejszonego o zaliczkę na podatek dochodowy od osób fizycznych, obliczonego zgodnie z ust. 1–3, jest niższa niż kwota świadczenia rodzicielskiego określonego w ustawie z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2017 r. poz. 1952 oraz z 2018 r. poz. 107, 138 i 650), kwotę uposażenia funkcjonariusza Straży Marszałkowskiej pomniejszonego o zaliczkę na podatek dochodowy od osób fizycznych podwyższa się do wysokości świadczenia rodzicielskiego.
+5. W przypadku złożenia wniosku, o którym mowa w ust. 3, funkcjonariusz Straży Marszałkowskiej – kobieta może dzielić się z funkcjonariuszem Straży Marszałkowskiej – ojcem dziecka korzystaniem z uposażenia za okres odpowiadający okresowi urlopu rodzicielskiego albo jego części, z wyłączeniem okresu, o którym mowa w art. 182 § 4 Kodeksu pracy. Przepis stosuje się odpowiednio do wniosku, o którym mowa w ust. 4.
 
-5. Przepis ust. 3 stosuje się odpowiednio do funkcjonariusza Straży Marszałkowskiej, który we wniosku złożonym nie później niż 21 dni po przyjęciu dziecka na wychowanie i wystąpieniu do sądu opiekuńczego z wnioskiem o wszczęcie postępowania w sprawie przysposobienia dziecka lub po przyjęciu dziecka na wychowanie jako rodzina zastępcza, z wyjątkiem rodziny zastępczej zawodowej, wystąpi o udzielenie mu bezpośrednio po urlopie na warunkach urlopu macierzyńskiego urlopu rodzicielskiego w pełnym wymiarze.
+6. Uposażenie za okres odpowiadający okresowi urlopu rodzicielskiego w części przysługującej funkcjonariuszowi Straży Marszałkowskiej – ojcu dziecka, o której mowa w art. 182 § 4 Kodeksu pracy, wynosi 70 % uposażenia, o którym mowa w art. 85.
 
-6. Funkcjonariuszowi Stra ż y Marszałkowskiej, który z uwagi na wniosek zło ż ony w trybie ust. 3 albo 5 otrzymał 80% uposa ż enia, o którym mowa w ust. 3, w przypadku rezygnacji z urlopu rodzicielskiego w pełnym wymiarze, o którym mowa w ust. 2 pkt 2, przysługuje jednorazowe wyrównanie otrzymywanego uposa ż enia, o którym mowa w ust. 3, do wysoko ś ci 100%, pod warunkiem niepobrania uposa ż enia za okres odpowiadaj ą cy okresom tych urlopów.
+7. W przypadku niewykorzystania przez funkcjonariusza Straży Marszałkowskiej ani jednego dnia urlopu rodzicielskiego w pierwszym roku życia dziecka uposażenie za okres urlopu rodzicielskiego przysługuje w wysokości 70 % miesięcznego uposażenia, o którym mowa w art. 85.
+
+8. W przypadku niewykorzystania przez funkcjonariusza Straży Marszałkowskiej ani jednego dnia urlopu rodzicielskiego w pierwszym roku życia dziecka, funkcjonariuszowi Straży Marszałkowskiej przysługuje jednorazowe wyrównanie pobranego uposażenia za okres urlopu macierzyńskiego do wysokości 100 % miesięcznego uposażenia, o którym mowa w art. 85.
+
+9. Jednorazowe wyrównanie uposażenia, o którym mowa w ust. 8, następuje na wniosek funkcjonariusza Straży Marszałkowskiej.
+
+10. W przypadku gdy wysokość uposażenia funkcjonariusza Straży Marszałkowskiej, pomniejszonego o zaliczkę na podatek dochodowy od osób fizycznych, obliczonego zgodnie z ust. 1–4, jest niższa niż kwota świadczenia rodzicielskiego określonego w ustawie z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2024 r. poz. 323, 858, 1615 i 1871), kwotę uposażenia funkcjonariusza Straży Marszałkowskiej, pomniejszonego o zaliczkę na podatek dochodowy od osób fizycznych, podwyższa się do wysokości świadczenia rodzicielskiego.
 
 **Art. 87.**
 
-1. W okresie przebywania na zwolnieniu lekarskim funkcjonariusz Straży Marszałkowskiej otrzymuje 80% uposażenia.
+1. W okresie przebywania na zwolnieniu lekarskim funkcjonariusz Straży Marszałkowskiej otrzymuje 80 % uposażenia.
 
 2. Zwolnienie lekarskie obejmuje okres, w którym funkcjonariusz Straży Marszałkowskiej jest zwolniony od zajęć służbowych z powodu:
 
-- **1)** choroby funkcjonariusza Straży Marszałkowskiej, w tym niemożności wykonywania zajęć służbowych z przyczyn określonych w art. 6 ust. 2 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz. U. z 2017 r. poz. 1368);
+- **1)** choroby funkcjonariusza Straży Marszałkowskiej, w tym niemożności wykonywania zajęć służbowych z przyczyn określonych w art. 6 ust. 2 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz. U. z 2023 r. poz. 2780 oraz z 2024 r. poz. 1871);
 - **2)** oddawania krwi lub jej składników w jednostkach organizacyjnych publicznej służby krwi lub z powodu okresowego badania lekarskiego dawców krwi;
 - **3)** konieczności osobistego sprawowania opieki nad chorym dzieckiem własnym lub małżonka funkcjonariusza Straży Marszałkowskiej, dzieckiem przysposobionym, dzieckiem przyjętym na wychowanie i utrzymanie, do ukończenia przez nie 14. roku życia;
 - **4)** konieczności osobistego sprawowania opieki nad chorym członkiem rodziny; za członków rodziny uważa się małżonka, rodziców, rodzica dziecka funkcjonariusza Straży Marszałkowskiej, ojczyma, macochę, teściów, dziadków, wnuki, rodzeństwo oraz dzieci w wieku powyżej 14 lat, jeżeli pozostają we wspólnym gospodarstwie domowym z funkcjonariuszem Straży Marszałkowskiej w okresie sprawowania nad nimi opieki;
-- **5)** konieczności osobistego sprawowania opieki nad dzieckiem własnym lub małżonka funkcjonariusza Straży Marszałkowskiej, dzieckiem przysposobionym, dzieckiem przyjętym na wychowanie i utrzymanie, do ukończenia przez nie
+- **5)** konieczności osobistego sprawowania opieki nad dzieckiem własnym lub małżonka funkcjonariusza Straży Marszałkowskiej, dzieckiem przysposobionym, dzieckiem przyjętym na wychowanie i utrzymanie, do ukończenia przez nie 8. roku życia, w przypadku: z 2024 r. poz. 338, 743 i 858), lub dziennego opiekuna, sprawujących opiekę nad dzieckiem,
+    - **a)** nieprzewidzianego zamknięcia żłobka, klubu dziecięcego, przedszkola lub szkoły, do których dziecko uczęszcza, a także w przypadku choroby niani, z którą rodzice mają umowę uaktywniającą, o której mowa w art. 50 ustawy z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3 (Dz. U.
+    - **b)** porodu lub choroby małżonka funkcjonariusza Straży Marszałkowskiej lub rodzica dziecka funkcjonariusza Straży Marszałkowskiej, stale opiekujących się dzieckiem, jeżeli poród lub choroba uniemożliwia temu małżonkowi lub rodzicowi sprawowanie opieki nad dzieckiem,
+    - **c)** pobytu małżonka funkcjonariusza Straży Marszałkowskiej lub rodzica dziecka funkcjonariusza Straży Marszałkowskiej, stale opiekujących się dzieckiem, w szpitalu lub innym przedsiębiorstwie podmiotu leczniczego wykonującego działalność leczniczą w rodzaju stacjonarne i całodobowe świadczenia zdrowotne.
 
-8. roku życia, w przypadku:
-
-- **a)** nieprzewidzianego zamknięcia żłobka, klubu dziecięcego, przedszkola lub szkoły, do których dziecko uczęszcza, a także w przypadku choroby niani, z którą rodzice mają umowę uaktywniającą, o której mowa w art. 50 ustawy z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3 (Dz. U. z 2018 r. poz. 603 i 650), lub dziennego opiekuna, sprawujących opiekę nad dzieckiem,
-- **b)** porodu lub choroby małżonka funkcjonariusza Straży Marszałkowskiej lub rodzica dziecka funkcjonariusza Straży Marszałkowskiej, stale opiekujących się dzieckiem, jeżeli poród lub choroba uniemożliwia temu małżonkowi lub rodzicowi sprawowanie opieki nad dzieckiem,
-- **c)** pobytu małżonka funkcjonariusza Straży Marszałkowskiej lub rodzica dziecka funkcjonariusza Straży Marszałkowskiej, stale opiekujących się dzieckiem, w szpitalu lub innym przedsiębiorstwie podmiotu leczniczego wykonującego działalność leczniczą w rodzaju stacjonarne i całodobowe świadczenia zdrowotne.
-
-3. Zwolnienie od zajęć służbowych z powodu konieczności osobistego sprawowania opieki, o której mowa w ust. 2 pkt 3 i 5, przysługuje przez okres nie dłuższy niż 60 dni w roku kalendarzowym, a w przypadku, o którym mowa w ust. 2 pkt 4 przez okres nie dłuższy niż 14 dni w roku kalendarzowym, przy czym okresy te łącznie nie mogą przekroczyć 60 dni w roku kalendarzowym.
+3. Zwolnienie od zajęć służbowych z powodu konieczności osobistego sprawowania opieki, o której mowa w ust. 2 pkt 3 i 5, przysługuje przez okres nie dłuższy niż 60 dni w roku kalendarzowym, a w przypadku, o którym mowa w ust. 2 pkt 4 – przez okres nie dłuższy niż 14 dni w roku kalendarzowym, przy czym okresy te łącznie nie mogą przekroczyć 60 dni w roku kalendarzowym.
 
 4. Przepis ust. 3 stosuje się bez względu na liczbę dzieci i innych członków rodziny wymagających opieki.
 
@@ -1108,22 +1515,38 @@ o Stra ż y Marszałkowskiej
 - **4)** choroby przypadającej w czasie ciąży,
 - **5)** poddania się niezbędnym badaniom lekarskim przewidzianym dla kandydatów na dawców komórek, tkanek i narządów oraz poddania się zabiegowi pobrania komórek, tkanek i narządów,
 - **6)** oddania krwi lub jej składników w jednostkach organizacyjnych publicznej służby krwi lub z powodu badania lekarskiego dawców krwi,
-- **7)** przebywania na obserwacji w podmiocie leczniczym w wyniku skierowania przez komisj ę lekarsk ą zachowuje on prawo do 100% uposa ż enia.
+- **7)** przebywania na obserwacji w podmiocie leczniczym w wyniku skierowania przez komisję lekarską – zachowuje on prawo do 100 % uposażenia.
 
-6. Prawo do 100% uposażenia przysługuje również wtedy, gdy funkcjonariusz Straży Marszałkowskiej został zwolniony od zajęć służbowych:
+6. Prawo do 100 % uposażenia przysługuje również wtedy, gdy funkcjonariusz Straży Marszałkowskiej został zwolniony od zajęć służbowych:
 
 - **1)** w wyniku popełnienia przez inną osobę umyślnego czynu zabronionego w związku z wykonywaniem przez funkcjonariusza Straży Marszałkowskiej czynności służbowych stwierdzonego orzeczeniem wydanym przez uprawniony organ;
 - **2)** na skutek czynów o charakterze bohaterskim dokonanych w szczególnie niebezpiecznych warunkach, z wykazaniem wyjątkowej odwagi, z narażeniem życia lub zdrowia, w obronie prawa, nienaruszalności granic państwowych, życia, mienia lub bezpieczeństwa obywateli.
 
-7. Związek zwolnienia od zajęć służbowych z czynami, o których mowa w ust. 6 pkt 2, stwierdza, w drodze decyzji, Szef Kancelarii Sejmu.
+7. Związek zwolnienia od zajęć służbowych z czynami, o których mowa w ust. 6 pkt 2, stwierdza przełożony.
 
-8. Od decyzji, o której mowa w ust. 7, funkcjonariuszowi Straży Marszałkowskiej przysługuje odwołanie do Marszałka Sejmu.
+8. (uchylony)
+
+**Art. 87a.**
+
+1. Za wypadek w drodze do miejsca pełnienia służby lub w drodze powrotnej ze służby, zwany dalej „wypadkiem”, uważa się nagłe zdarzenie wywołane przyczyną zewnętrzną, powodujące uraz, które nastąpiło w drodze do miejsca pełnienia służby lub w drodze powrotnej z miejsca pełnienia służby, jeżeli droga ta była najkrótsza i nie została przerwana. Jednakże uważa się, że wypadek nastąpił w drodze do miejsca pełnienia służby lub w drodze powrotnej z miejsca pełnienia służby, mimo że droga została przerwana, jeśli przerwa była życiowo uzasadniona i jej czas nie przekraczał granic potrzeby, a także wówczas, gdy droga, nie będąc drogą najkrótszą, była dla funkcjonariusza Straży Marszałkowskiej, ze względów organizacyjnych, najdogodniejsza.
+
+2. Za drogę do miejsca pełnienia służby lub drogę powrotną z miejsca pełnienia służby uważa się drogę z miejsca lub do miejsca zamieszkania funkcjonariusza Straży Marszałkowskiej.
+
+3. Przez uraz należy rozumieć uraz, o którym mowa w art. 3 ust. 2 ustawy z dnia 4 kwietnia 2014 r. o świadczeniach odszkodowawczych przysługujących w razie wypadku lub choroby pozostających w związku ze służbą (Dz. U. z 2023 r. poz. 2015).
+
+4. Uznania albo odmowy uznania zdarzenia za wypadek, po ustaleniu okoliczności i przyczyn zdarzenia, dokonuje przełożony.
+
+5. Ustalenie okoliczności i przyczyn zdarzenia oraz uznanie albo odmowę uznania zdarzenia za wypadek dokumentuje się w karcie wypadku.
+
+6. W przypadku odmowy uznania zdarzenia za wypadek przysługuje odwołanie do sądu pracy i ubezpieczeń społecznych na zasadach i w terminach określonych w przepisach ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568 i 1841).
+
+7. Marszałek określi, w drodze zarządzenia, tryb i sposób ustalania przyczyn i okoliczności zdarzeń, o których mowa w ust. 1, oraz informowania o zaistnieniu zdarzenia, a także wzór karty wypadku.
 
 **Art. 88.** Okres przebywania na zwolnieniu lekarskim stwierdza zaświadczenie lekarskie wystawione zgodnie z art. 55 ust. 1 i art. 55a ust. 7 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa albo wydruk zaświadczenia lekarskiego, o którym mowa w art. 55a ust. 6 tej ustawy, z tym że:
 
 **Art. 89.**
 
-1. Funkcjonariusz Straży Marszałkowskiej jest obowiązany dostarczyć komórce organizacyjnej Kancelarii Sejmu właściwej w sprawach osobowych zaświadczenie lekarskie, zaświadczenie jednostki organizacyjnej publicznej służby krwi albo decyzję, o której mowa w art. 88 pkt 5, w terminie 7 dni od dnia ich otrzymania.
+1. Funkcjonariusz Straży Marszałkowskiej jest obowiązany dostarczyć przełożonemu zaświadczenie lekarskie, zaświadczenie jednostki organizacyjnej publicznej służby krwi albo decyzję, o której mowa w art. 88 pkt 5, w terminie 7 dni od dnia ich otrzymania.
 
 2. Oświadczenie o wystąpieniu okoliczności, o których mowa w art. 87 ust. 2 pkt 5 lit. a, funkcjonariusz Straży Marszałkowskiej jest obowiązany złożyć przełożonemu w terminie 7 dni od dnia ich zaistnienia.
 
@@ -1135,10 +1558,10 @@ o Stra ż y Marszałkowskiej
 
 2. Kontrolę przeprowadzają:
 
-- **1)** komisje lekarskie podległe ministrowi właściwemu do spraw wewnętrznych w zakresie prawidłowości orzekania o czasowej niezdolności do służby z powodu choroby oraz prawidłowości wykorzystania zwolnienia lekarskiego;
-- **2)** Szef Kancelarii Sejmu lub upoważniony przez niego pracownik w zakresie prawidłowości wykorzystania zwolnienia lekarskiego i spełnienia wymogów formalnych zaświadczeń lekarskich oraz w zakresie oświadczenia funkcjonariusza Stra ż y Marszałkowskiej, o którym mowa w art. 88 pkt 3.
+- **1)** komisje lekarskie podległe ministrowi właściwemu do spraw wewnętrznych – w zakresie prawidłowości orzekania o czasowej niezdolności do służby z powodu choroby oraz prawidłowości wykorzystania zwolnienia lekarskiego;
+- **2)** przełożony – w zakresie prawidłowości wykorzystania zwolnienia lekarskiego i spełnienia wymogów formalnych zaświadczeń lekarskich oraz w zakresie oświadczenia funkcjonariusza Straży Marszałkowskiej, o którym mowa w art. 88 pkt 3.
 
-3. Je ż eli w wyniku kontroli zostanie ustalone nieprawidłowe wykorzystanie zwolnienia lekarskiego, funkcjonariusz Stra ż y Marszałkowskiej traci prawo do uposa ż enia za cały okres zwolnienia.
+3. Jeżeli w wyniku kontroli zostanie ustalone nieprawidłowe wykorzystanie zwolnienia lekarskiego, funkcjonariusz Straży Marszałkowskiej traci prawo do uposażenia za cały okres zwolnienia.
 
 4. Jeżeli w wyniku kontroli zostanie ustalone, że oświadczenie funkcjonariusza Straży Marszałkowskiej, o którym mowa w art. 88 pkt 3, zostało złożone niezgodnie z prawdą, funkcjonariusz traci prawo do uposażenia za cały okres zwolnienia.
 
@@ -1156,28 +1579,28 @@ o Stra ż y Marszałkowskiej
 
 11. Protokół przedstawia się funkcjonariuszowi Straży Marszałkowskiej w celu wniesienia do niego ewentualnych uwag. Wniesienie uwag funkcjonariusz potwierdza własnoręcznym podpisem.
 
-12. Na podstawie ustaleń zawartych w protokole Szef Kancelarii Sejmu stwierdza utratę prawa do uposażenia za okres, o którym mowa w ust. 3 lub 4. Przepis stosuje się odpowiednio w przypadku zawiadomienia przez komisję lekarską podległą ministrowi właściwemu do spraw wewnętrznych w wyniku przeprowadzenia przez tę komisję kontroli o nieprawidłowościach w wykorzystaniu zwolnienia lekarskiego.
+12. Na podstawie ustaleń zawartych w protokole przełożony stwierdza utratę prawa do uposażenia za okres, o którym mowa w ust. 3 lub 4. Przepis stosuje się odpowiednio w przypadku zawiadomienia przez komisję lekarską podległą ministrowi właściwemu do spraw wewnętrznych w wyniku przeprowadzenia przez tę komisję kontroli o nieprawidłowoś-ciach w wykorzystaniu zwolnienia lekarskiego.
 
-13. Od decyzji, o której mowa w ust. 12, funkcjonariuszowi Straży Marszałkowskiej przysługuje odwołanie do Marszałka Sejmu.
+13. (uchylony)
 
 14. Kontrola wymogów formalnych zaświadczeń lekarskich polega na sprawdzeniu, czy zaświadczenie:
 
 - **1)** nie zostało sfałszowane;
 - **2)** zostało wydane zgodnie z przepisami w sprawie zasad i trybu wystawiania zaświadczeń lekarskich.
 
-15. Jeżeli w wyniku kontroli, o której mowa w ust. 14 pkt 1, zachodzi podejrzenie, że zaświadczenie lekarskie zostało sfałszowane, Szef Kancelarii Sejmu występuje do lekarza, który wystawił zaświadczenie lekarskie, o wyjaśnienie sprawy.
+15. Jeżeli w wyniku kontroli, o której mowa w ust. 14 pkt 1, zachodzi podejrzenie, że zaświadczenie lekarskie zostało sfałszowane, przełożony występuje do lekarza, który wystawił zaświadczenie lekarskie, o wyjaśnienie sprawy.
 
-16. W razie podejrzenia, że zaświadczenie lekarskie zostało wydane niezgodnie z przepisami w sprawie zasad i trybu wystawiania zaświadczeń lekarskich, Szef Kancelarii Sejmu występuje o wyjaśnienie sprawy do terenowej jednostki organizacyjnej Zakładu Ubezpieczeń Społecznych.
+16. W razie podejrzenia, że zaświadczenie lekarskie zostało wydane niezgodnie z przepisami w sprawie zasad i trybu wystawiania zaświadczeń lekarskich, przełożony występuje o wyjaśnienie sprawy do terenowej jednostki organizacyjnej Zakładu Ubezpieczeń Społecznych.
 
 **Art. 91.**
 
-1. Podstawę uposażenia, o którym mowa w art. 85, stanowi uposażenie zasadnicze wraz z dodatkami o charakterze stałym przysługujące funkcjonariuszowi Straży Marszałkowskiej na ostatnio zajmowanym stanowisku służbowym, z uwzględnieniem powstałych w tym okresie zmian, mających wpływ na prawo do uposażenia i innych należności lub ich wysokość.
+1. Podstawę uposażenia, o którym mowa w art. 87, stanowi uposażenie zasadnicze wraz z dodatkami o charakterze stałym przysługujące funkcjonariuszowi Straży Marszałkowskiej na ostatnio zajmowanym stanowisku służbowym, z uwzględnieniem powstałych w tym okresie zmian, mających wpływ na prawo do uposażenia i innych należności lub ich wysokość.
 
 2. Przy obliczaniu uposażenia za okres przebywania na zwolnieniu lekarskim przyjmuje się, że uposażenie za jeden dzień przebywania na zwolnieniu lekarskim stanowi 1/30 uposażenia, o którym mowa w art. 87.
 
-3. W przypadku gdy funkcjonariusz pobrał już uposażenie za okres, w którym przebywał na zwolnieniu lekarskim, potr ą ca mu si ę odpowiedni ą cz ęść uposa ż enia przy najbli ż szej wypłacie.
+3. W przypadku gdy funkcjonariusz pobrał już uposażenie za okres, w którym przebywał na zwolnieniu lekarskim, potrąca mu się odpowiednią część uposażenia przy najbliższej wypłacie.
 
-4. Funkcjonariuszowi Stra ż y Marszałkowskiej, który przebywał na zwolnieniu lekarskim w ostatnim miesi ą cu pełnienia słu ż by, potr ą ca si ę odpowiedni ą cz ęść uposa ż enia z nale ż no ś ci przysługuj ą cych mu z tytułu zwolnienia ze słu ż by albo funkcjonariusz ten zwraca odpowiedni ą cz ęść uposa ż enia w dniu ustania stosunku słu ż bowego.
+4. Funkcjonariuszowi Straży Marszałkowskiej, który przebywał na zwolnieniu lekarskim w ostatnim miesiącu pełnienia służby, potrąca się odpowiednią część uposażenia z należności przysługujących mu z tytułu zwolnienia ze służby albo funkcjonariusz ten zwraca odpowiednią część uposażenia w dniu ustania stosunku służbowego.
 
 **Art. 92.**
 
@@ -1187,7 +1610,17 @@ o Stra ż y Marszałkowskiej
 
 3. Rozdział środków finansowych, o których mowa w ust. 1, odbywa się po zakończeniu okresu rozliczeniowego trwającego nie krócej niż miesiąc kalendarzowy i nie dłużej niż 3 miesiące kalendarzowe, przy czym wybór okresu rozliczeniowego uzależnia się od wielkości środków finansowych uzyskanych z tytułu zmniejszenia uposażeń funkcjonariuszy Straży Marszałkowskiej.
 
-**Art. 93.** Zmniejszenia wysokości uposażenia zasadniczego wraz z dodatkami o charakterze stałym za okres przebywania na zwolnieniu lekarskim nie uwzględnia się przy ustalaniu podstawy wymiaru należności, o których mowa w art. 67 ust. 15 pkt 1, 4 i 6 oraz art. 82 ust. 1.
+**Art. 93.** Zmniejszenia wysokości uposażenia zasadniczego wraz z dodatkami o charakterze stałym za okres przebywania na zwolnieniu lekarskim nie uwzględnia się przy ustalaniu podstawy wymiaru należności, o których mowa w art. 67 ust. 15 pkt 1, 4, 5a i 6 oraz art. 82 ust. 1.
+
+**Art. 93a.**
+
+1. Uposażenie wypłaca się funkcjonariuszowi Straży Marszałkowskiej w terminach miesięcznych z góry w pierwszym dniu roboczym każdego miesiąca, za który przysługuje uposażenie.
+
+2. Inne należności pieniężne wypłaca się funkcjonariuszowi Straży Marszałkowskiej w terminie 14 dni od dnia spełnienia warunków uzasadniających ich wypłatę.
+
+3. Należności pieniężne w związku ze zwolnieniem ze służby wypłaca się funkcjonariuszowi Straży Marszałkowskiej nie później niż w dniu zwolnienia ze służby.
+
+4. Uposażenie oraz świadczenia pieniężne wypłaca się zgodnie z wyborem funkcjonariusza Straży Marszałkowskiej w formie gotówkowej albo w formie bezgotówkowej na wskazany przez niego na piśmie rachunek bankowy lub rachunek w spółdzielczej kasie oszczędnościowo-kredytowej.
 
 **Art. 94.**
 
@@ -1221,21 +1654,21 @@ o Stra ż y Marszałkowskiej
 
 - **4)** odrębnych przepisów.
 
-2. Przepis ust. 1 stosuje się również do potrąceń z uposażenia i innych należności pieniężnych przysługujących funkcjonariuszowi Stra ż y Marszałkowskiej zwolnionemu ze słu ż by.
+2. Przepis ust. 1 stosuje się również do potrąceń z uposażenia i innych należności pieniężnych przysługujących funkcjonariuszowi Straży Marszałkowskiej zwolnionemu ze służby.
 
 **Art. 97.**
 
-1. Egzekucja z uposa ż enia funkcjonariusza Stra ż y Marszałkowskiej na podstawie tytułów egzekucyjnych s ą dowych i administracyjnych nast ę puje odpowiednio według przepisów o egzekucji s ą dowej lub egzekucji administracyjnej.
+1. Egzekucja z uposażenia funkcjonariusza Straży Marszałkowskiej na podstawie tytułów egzekucyjnych sądowych i administracyjnych następuje odpowiednio według przepisów o egzekucji sądowej lub egzekucji administracyjnej.
 
-2. Potr ą ce ń na podstawie dobrowolnych obci ąż e ń uposa ż enia, o których mowa w art. 96 ust. 1 pkt 3, dokonuje si ę w wysokości ustalonej przez funkcjonariusza Straży Marszałkowskiej w jego zobowiązaniu, niezależnie od potrąceń dokonywanych na podstawie tytułów egzekucyjnych sądowych i administracyjnych.
+2. Potrąceń na podstawie dobrowolnych obciążeń uposażenia, o których mowa w art. 96 ust. 1 pkt 3, dokonuje się w wysokości ustalonej przez funkcjonariusza Straży Marszałkowskiej w jego zobowiązaniu, niezależnie od potrąceń dokonywanych na podstawie tytułów egzekucyjnych sądowych i administracyjnych.
 
 **Art. 98.**
 
 1. Z odprawy przysługującej funkcjonariuszowi Straży Marszałkowskiej mogą być dokonywane potrącenia na zaspokojenie:
 
-- **1)** zaległych świadczeń alimentacyjnych na podstawie tytułów egzekucyjnych sądowych;
-- **2)** roszczeń z tytułu szkody na podstawie tytułów egzekucyjnych sądowych lub administracyjnych albo dobrowolnych zobowiązań do zapłaty odszkodowania;
-- **3)** zobowiązań funkcjonariusza Straży Marszałkowskiej wobec koleżeńskich kas oszczędnościowo-pożyczkowych na podstawie dobrowolnego obciążenia uposażenia przez funkcjonariusza Straży Marszałkowskiej.
+- **1)** zaległych świadczeń alimentacyjnych – na podstawie tytułów egzekucyjnych sądowych;
+- **2)** roszczeń z tytułu szkody – na podstawie tytułów egzekucyjnych sądowych lub administracyjnych albo dobrowolnych zobowiązań do zapłaty odszkodowania;
+- **3)** zobowiązań funkcjonariusza Straży Marszałkowskiej wobec koleżeńskich kas oszczędnościowo-pożyczkowych – na podstawie dobrowolnego obciążenia uposażenia przez funkcjonariusza Straży Marszałkowskiej.
 
 2. Przy zbiegu należności potrąceń dokonuje się w kolejności określonej w ust. 1. Potrącenia nie mogą przekraczać łącznie połowy należnej odprawy.
 
@@ -1248,7 +1681,75 @@ o Stra ż y Marszałkowskiej
 
 2. Należności, o których mowa w ust. 1 pkt 2, potrąca się z uposażenia i odprawy w pełnej wysokości, niezależnie od potrąceń z innych tytułów.
 
-#### Rozdział 8 Odpowiedzialno ść dyscyplinarna funkcjonariuszy Stra ż y Marszałkowskiej
+#### Rozdział 7a Rozstrzyganie spraw ze stosunku służbowego funkcjonariuszy Straży Marszałkowskiej
+
+**Art. 99a.**
+
+1. Sprawy dotyczące:
+
+- **1)** zwolnienia ze służby,
+- **2)** przeniesienia na niższe stanowisko służbowe,
+- **3)** zawieszenia w czynnościach służbowych – rozstrzyga w formie decyzji Szef Kancelarii Sejmu.
+
+2. Od decyzji, o których mowa w ust. 1, funkcjonariuszowi Straży Marszałkowskiej przysługuje wniosek o ponowne rozpatrzenie sprawy przez Szefa Kancelarii Sejmu.
+
+3. Złożenie wniosku o ponowne rozpatrzenie sprawy nie wstrzymuje wykonania decyzji.
+
+**Art. 99b.**
+
+1. Sprawy wynikające z podległości służbowej, dotyczące:
+
+- **1)** powoływania oraz mianowania na stanowiska służbowe,
+- **2)** odwoływania i zwalniania ze stanowisk służbowych oraz przenoszenia do dyspozycji,
+- **3)** nadawania stopni Straży Marszałkowskiej, a także obniżania, pozbawiania oraz przywracania stopnia Straży Marszałkowskiej,
+- **4)** powierzania obowiązków służbowych na innym stanowisku służbowym – rozstrzyga się w formie rozkazu personalnego.
+
+2. Rozkaz personalny jest wykonalny z dniem w nim określonym. Od rozkazu personalnego odwołanie nie przysługuje.
+
+**Art. 99c.** Sprawy ze stosunku służbowego niewymienione w art. 99a ust. 1 i art. 99b ust. 1 rozstrzyga się w formie pisemnej. Spory o roszczenia ze stosunku służbowego funkcjonariuszy Straży Marszałkowskiej w tych sprawach rozpatruje sąd właściwy w sprawach z zakresu prawa pracy.
+
+**Art. 99d.** Funkcjonariusz Straży Marszałkowskiej po zakończeniu urlopu macierzyńskiego, urlopu na warunkach urlopu macierzyńskiego, uzupełniającego urlopu macierzyńskiego, urlopu rodzicielskiego, urlopu ojcowskiego, urlopu opiekuńczego lub urlopu wychowawczego pełni służbę na dotychczasowym stanowisku służbowym, a jeżeli nie jest to możliwe – na stanowisku równorzędnym z zajmowanym przed rozpoczęciem urlopu na warunkach nie mniej korzystnych od tych, które obowiązywałyby, gdyby funkcjonariusz nie korzystał z urlopu.
+
+**Art. 99e.**
+
+1. Skorzystanie przez funkcjonariusza Straży Marszałkowskiej z uprawnień przysługujących na podstawie przepisów ustawy nie może być podstawą jakiegokolwiek niekorzystnego traktowania tego funkcjonariusza, a także nie może powodować jakichkolwiek negatywnych konsekwencji dla tego funkcjonariusza.
+
+2. Przepis ust. 1 stosuje się odpowiednio do funkcjonariusza Straży Marszałkowskiej, który udzielił w jakiejkolwiek formie wsparcia funkcjonariuszowi Straży Marszałkowskiej korzystającemu z uprawnień przysługujących na podstawie przepisów ustawy.
+
+3. Funkcjonariusz Straży Marszałkowskiej, o którym mowa w ust. 1 i 2, którego prawa zostały naruszone przez przełożonego, ma prawo do odszkodowania w wysokości nie niższej niż minimalne wynagrodzenie za pracę, ustalane na podstawie odrębnych przepisów.
+
+**Art. 99f.**
+
+1. Uchylenie:
+
+- **1)** ostatecznego orzeczenia komisji lekarskiej o trwałej niezdolności do służby,
+- **2)** prawomocnego wyroku skazującego lub prawomocnego orzeczenia o warunkowym umorzeniu postępowania karnego o przestępstwo umyślne ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe i wydanie prawomocnego wyroku uniewinniającego albo prawomocnego orzeczenia o umorzeniu tych postępowań,
+- **3)** prawomocnego orzeczenia o wymierzeniu kary dyscyplinarnej wydalenia ze służby,
+- **4)** ostatecznej decyzji o zwolnieniu ze służby w Straży Marszałkowskiej lub stwierdzenie jej nieważności – stanowi podstawę do wszczęcia postępowania kwalifikacyjnego, o którym mowa w art. 18; postępowanie kwalifikacyjne wszczyna się na wniosek funkcjonariusza Straży Marszałkowskiej zwolnionego ze służby.
+
+2. W wyjątkowych przypadkach, uzasadnionych szczególnymi okolicznościami sprawy, można odstąpić od przeprowadzenia postępowania kwalifikacyjnego lub przeprowadzić je w ograniczonym zakresie.
+
+**Art. 99g.**
+
+1. Pozytywne zakończenie postępowania w sprawie ponownego nawiązania stosunku służbowego stanowi podstawę do mianowania, o którym mowa w art. 21 ust. 5a, na określone stanowisko służbowe co najmniej równorzędne w zakresie uposażenia zasadniczego ze stanowiskiem zajmowanym przez funkcjonariusza Straży Marszałkowskiej bezpośrednio przed ustaniem stosunku służbowego.
+
+2. Ponowne nawiązanie stosunku służbowego następuje z dniem uchylenia przez właściwy organ orzeczenia, wyroku lub decyzji, o których mowa w art. 99f ust. 1. Prawo do uposażenia powstaje z dniem określonym w akcie mianowania, o którym mowa w art. 21 ust. 5b.
+
+3. W przypadku braku możliwości mianowania funkcjonariusza Straży Marszałkowskiej na stanowisko służbowe, o którym mowa w ust. 1, mianuje się go, za jego zgodą, na stanowisko służbowe odpowiednio niższe. Przepis art. 69 ust. 1 stosuje się odpowiednio.
+
+4. W przypadku niewyrażenia przez funkcjonariusza Straży Marszałkowskiej zgody na mianowanie na niższe stanowisko służbowe albo w przypadku negatywnego zakończenia postępowania w sprawie ponownego nawiązania stosunku służbowego wydaje się decyzję o odmowie nawiązania stosunku służbowego. Przepisy art. 99a stosuje się odpowiednio.
+
+**Art. 99h.**
+
+1. Funkcjonariuszowi Straży Marszałkowskiej, z którym ponownie nawiązano stosunek służbowy albo wobec którego wydano decyzję, o której mowa w art. 99g ust. 4, przysługuje za okres pozostawania poza służbą świadczenie pieniężne równe uposażeniu na stanowisku służbowym zajmowanym bezpośrednio przed ustaniem stosunku służbowego, nie więcej jednak niż za okres 6 miesięcy i nie mniej niż za 1 miesiąc.
+
+2. Jeżeli w okresie pozostawania poza służbą funkcjonariusz Straży Marszałkowskiej otrzymywał świadczenie emerytalno-rentowe, wypłaca się mu kwotę stanowiącą różnicę między należnym świadczeniem pieniężnym równym uposażeniu na stanowisku służbowym zajmowanym bezpośrednio przed ustaniem stosunku służbowego a wypłaconym świadczeniem emerytalno-rentowym.
+
+3. Okres pozostawania poza służbą, za który przyznano świadczenia określone w ust. 1 oraz 2, traktuje się na równi ze służbą w zakresie wszystkich uprawnień uzależnionych od stażu służby.
+
+**Art. 99i.** Świadczenie pieniężne, o którym mowa w art. 99h ust. 1 oraz 2, wypłaca się w terminie 14 dni od dnia złożenia przez funkcjonariusza Straży Marszałkowskiej wniosku w tej sprawie wraz z dokumentem potwierdzającym uchylenie lub stwierdzenie nieważności decyzji o zwolnieniu ze służby w Straży Marszałkowskiej.
+
+#### Rozdział 8 Odpowiedzialność dyscyplinarna funkcjonariuszy Straży Marszałkowskiej
 
 **Art. 100.** Funkcjonariusz Straży Marszałkowskiej ponosi odpowiedzialność dyscyplinarną za popełnione przestępstwo lub wykroczenie, niezależnie od odpowiedzialności karnej.
 
@@ -1273,7 +1774,7 @@ o Stra ż y Marszałkowskiej
 
 **Art. 103.**
 
-1. Funkcjonariusz Stra ż y Marszałkowskiej odpowiada dyscyplinarnie, je ż eli popełnia przewinienie dyscyplinarne sam albo wspólnie lub w porozumieniu z inn ą osob ą , a tak ż e w przypadku gdy kieruje popełnieniem przez innego funkcjonariusza Straży Marszałkowskiej przewinienia dyscyplinarnego.
+1. Funkcjonariusz Straży Marszałkowskiej odpowiada dyscyplinarnie, jeżeli popełnia przewinienie dyscyplinarne sam albo wspólnie lub w porozumieniu z inną osobą, a także w przypadku gdy kieruje popełnieniem przez innego funkcjonariusza Straży Marszałkowskiej przewinienia dyscyplinarnego.
 
 2. Funkcjonariusz Straży Marszałkowskiej odpowiada dyscyplinarnie także w przypadku, gdy nakłania innego funkcjonariusza Straży Marszałkowskiej do popełnienia przewinienia dyscyplinarnego albo ułatwia jego popełnienie.
 
@@ -1281,7 +1782,7 @@ o Stra ż y Marszałkowskiej
 
 **Art. 104.**
 
-1. Jeżeli postępowanie dyscyplinarne zostało wszczęte na wniosek sądu lub prokuratora, Szef Kancelarii Sejmu informuje sąd lub prokuratora o wyniku postępowania.
+1. Jeżeli postępowanie dyscyplinarne zostało wszczęte na wniosek sądu lub prokuratora, Szef Kancelarii informuje sąd lub prokuratora o wyniku postępowania.
 
 2. Przepis ust. 1 stosuje się odpowiednio, jeżeli sąd nakazał wymierzenie kary dyscyplinarnej funkcjonariuszowi Straży Marszałkowskiej, nie określając jednak jej rodzaju.
 
@@ -1315,11 +1816,11 @@ o Stra ż y Marszałkowskiej
 
 2. Nie można wymierzyć funkcjonariuszowi Straży Marszałkowskiej kary dyscyplinarnej po upływie roku od dnia popełnienia czynu, o którym mowa w ust. 1.
 
-3. W przypadku gdy czyn, o którym mowa w ust. 1, stanowi jednocze ś nie przest ę pstwo, przedawnienie karalno ś ci dyscyplinarnej nast ę puje dopiero z upływem okresu przedawnienia karalno ś ci przest ę pstwa.
+3. W przypadku gdy czyn, o którym mowa w ust. 1, stanowi jednocześnie przestępstwo, przedawnienie karalności dyscyplinarnej następuje dopiero z upływem okresu przedawnienia karalności przestępstwa.
 
 **Art. 114.**
 
-1. Za popełnione przewinienie dyscyplinarne mo ż na wymierzy ć tylko jedn ą kar ę dyscyplinarn ą .
+1. Za popełnione przewinienie dyscyplinarne można wymierzyć tylko jedną karę dyscyplinarną.
 
 2. Za popełnienie kilku przewinień dyscyplinarnych można wymierzyć jedną karę dyscyplinarną, odpowiednio surowszą.
 
@@ -1355,7 +1856,7 @@ o Stra ż y Marszałkowskiej
 
 1. Komendant Straży Marszałkowskiej jest przełożonym dyscyplinarnym w stosunku do funkcjonariuszy Straży Marszałkowskiej.
 
-2. Szef Kancelarii Sejmu jest przełożonym dyscyplinarnym w stosunku do Komendanta Straży Marszałkowskiej i jego zastępców.
+2. Szef Kancelarii jest przełożonym dyscyplinarnym w stosunku do Komendanta Straży Marszałkowskiej i jego zastępców.
 
 3. Prawo do obrony jest realizowane w szczególności przez powołanie obrońcy. Obrońcą może być funkcjonariusz Straży Marszałkowskiej, pracownik Straży Marszałkowskiej, adwokat albo radca prawny.
 
@@ -1371,9 +1872,9 @@ o Stra ż y Marszałkowskiej
 
 - **2)** może wszcząć postępowanie dyscyplinarne na wniosek pokrzywdzonego.
 
-2. Wy ż szy przeło ż ony dyscyplinarny mo ż e wszcz ąć lub przej ąć do prowadzenia post ę powanie dyscyplinarne przed wydaniem orzeczenia, je ż eli w jego ocenie jest to konieczne z uwagi na charakter sprawy.
+2. Wyższy przełożony dyscyplinarny może wszcząć lub przejąć do prowadzenia postępowanie dyscyplinarne przed wydaniem orzeczenia, jeżeli w jego ocenie jest to konieczne z uwagi na charakter sprawy.
 
-3. W przypadku, o którym mowa w ust. 1 pkt 1 lit. d i pkt 2, przeło ż ony dyscyplinarny zawiadamia odpowiednio s ą d lub prokuratora albo pokrzywdzonego o wszcz ę ciu post ę powania dyscyplinarnego i wyniku tego post ę powania, przesyłaj ą c odpis wydanego orzeczenia lub postanowienia. Materiały przekazane przez s ą d, prokuratora albo pokrzywdzonego wł ą cza się do akt postępowania dyscyplinarnego.
+3. W przypadku, o którym mowa w ust. 1 pkt 1 lit. d i pkt 2, przełożony dyscyplinarny zawiadamia odpowiednio sąd lub prokuratora albo pokrzywdzonego o wszczęciu postępowania dyscyplinarnego i wyniku tego postępowania, przesyłając odpis wydanego orzeczenia lub postanowienia. Materiały przekazane przez sąd, prokuratora albo pokrzywdzonego włącza się do akt postępowania dyscyplinarnego.
 
 4. Jeżeli zachodzą wątpliwości co do popełnienia przewinienia dyscyplinarnego, jego kwalifikacji prawnej albo tożsamości sprawcy, przed wszczęciem postępowania dyscyplinarnego przełożony dyscyplinarny zleca przeprowadzenie czynności wyjaśniających. Czynności te należy ukończyć w terminie 30 dni.
 
@@ -1421,13 +1922,13 @@ o Stra ż y Marszałkowskiej
 
 3. Wyjaśnienia, zeznania, oświadczenia i wnioski oraz stwierdzenia określonych okoliczności przez rzecznika dyscyplinarnego w postępowaniu dyscyplinarnym zapisuje się w protokole z możliwą dokładnością, a osoby biorące udział w czynnościach mają prawo żądać zapisania w protokole z pełną dokładnością wszystkiego, co dotyczy ich praw i interesów.
 
-4. Osoby bior ą ce udział w czynno ś ci, z której sporz ą dzany jest protokół, a tak ż e osoby przy niej obecne po zapoznaniu si ę z tre ś ci ą protokołu podpisuj ą ka ż d ą jego stron ę . Odmow ę zapoznania si ę z tre ś ci ą protokołu, a tak ż e odmow ę lub brak podpisu którejkolwiek osoby nale ż y omówi ć w protokole.
+4. Osoby biorące udział w czynności, z której sporządzany jest protokół, a także osoby przy niej obecne po zapoznaniu się z treścią protokołu podpisują każdą jego stronę. Odmowę zapoznania się z treścią protokołu, a także odmowę lub brak podpisu którejkolwiek osoby należy omówić w protokole.
 
-5. Rzecznik dyscyplinarny w toku post ę powania wydaje postanowienia, na które obwinionemu, jego obro ń cy, je ż eli został ustanowiony, oraz pokrzywdzonemu, o ile pozwala na to niniejsza ustawa, słu ż y za ż alenie w terminie 3 dni od dnia doręczenia postanowienia.
+5. Rzecznik dyscyplinarny w toku postępowania wydaje postanowienia, na które obwinionemu, jego obrońcy, jeżeli został ustanowiony, oraz pokrzywdzonemu, o ile pozwala na to niniejsza ustawa, służy zażalenie w terminie 3 dni od dnia doręczenia postanowienia.
 
 **Art. 122.**
 
-1. Szef Kancelarii Sejmu wyznacza, na wniosek Komendanta Straży Marszałkowskiej, rzecznika dyscyplinarnego na okres 4 lat spośród funkcjonariuszy Straży Marszałkowskiej służby stałej.
+1. Szef Kancelarii wyznacza, na wniosek Komendanta Straży Marszałkowskiej, rzecznika dyscyplinarnego na okres 4 lat spośród funkcjonariuszy Straży Marszałkowskiej służby stałej.
 
 2. Rzecznika dyscyplinarnego odwołuje się w przypadku:
 
@@ -1437,7 +1938,7 @@ o Stra ż y Marszałkowskiej
 3. Rzecznik dyscyplinarny podlega wyłączeniu od udziału w postępowaniu dyscyplinarnym, jeżeli:
 
 - **1)** sprawa dotyczy go bezpośrednio;
-- **2)** jest małżonkiem, krewnym lub powinowatym obwinionego lub osoby przez niego pokrzywdzonej w rozumieniu przepisów ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego;
+- **2)** jest małżonkiem, krewnym lub powinowatym obwinionego lub osoby przez niego pokrzywdzonej w rozumieniu przepisów ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego;
 - **3)** był świadkiem czynu;
 - **4)** między nim a obwinionym lub osobą pokrzywdzoną przez obwinionego zachodzi stosunek osobisty mogący wywołać wątpliwości co do jego bezstronności.
 
@@ -1445,15 +1946,15 @@ o Stra ż y Marszałkowskiej
 
 **Art. 123.**
 
-1. O okolicznościach uzasadniających wyłączenie od udziału w postępowaniu dyscyplinarnym rzecznik dyscyplinarny zawiadamia niezwłocznie Szefa Kancelarii Sejmu.
+1. O okolicznościach uzasadniających wyłączenie od udziału w postępowaniu dyscyplinarnym rzecznik dyscyplinarny zawiadamia niezwłocznie przełożonego dyscyplinarnego.
 
 2. Wyłączenie rzecznika dyscyplinarnego od udziału w postępowaniu dyscyplinarnym może nastąpić również na wniosek obwinionego lub jego obrońcy, jeżeli został ustanowiony.
 
-3. Szef Kancelarii Sejmu wydaje postanowienie o wyłączeniu albo odmowie wyłączenia rzecznika dyscyplinarnego od udziału w postępowaniu dyscyplinarnym.
+3. Przełożony dyscyplinarny wydaje postanowienie o wyłączeniu albo odmowie wyłączenia rzecznika dyscyplinarnego od udziału w postępowaniu dyscyplinarnym.
 
-4. W przypadku wyłączenia rzecznika dyscyplinarnego od udziału w postępowaniu dyscyplinarnym postępowanie dyscyplinarne prowadzi wskazany przez Szefa Kancelarii inny funkcjonariusz Straży Marszałkowskiej.
+4. W przypadku wyłączenia rzecznika dyscyplinarnego od udziału w postępowaniu dyscyplinarnym postępowanie dyscyplinarne prowadzi wskazany przez przełożonego dyscyplinarnego inny rzecznik dyscyplinarny.
 
-5. Do funkcjonariusza Straży Marszałkowskiej, o którym mowa w ust. 4, mają zastosowanie przepisy ust. 1–3 i art. 121 ust. 5.
+5. (uchylony)
 
 **Art. 124.**
 
@@ -1470,9 +1971,9 @@ o Stra ż y Marszałkowskiej
 
 3. Ustanowienie obrońcy, jeżeli nie zawiera ograniczeń, uprawnia go do działania w całym postępowaniu dyscyplinarnym, nie wyłączając czynności po uprawomocnieniu się orzeczenia. O zmianie zakresu pełnomocnictwa uprawniającego do działania w postępowaniu dyscyplinarnym lub o jego cofnięciu obwiniony niezwłocznie zawiadamia obrońcę oraz rzecznika dyscyplinarnego.
 
-4. Obrońca nie może podejmować czynności na niekorzyść obwinionego. Może on zrezygnować z reprezentowania obwinionego w toku post ę powania dyscyplinarnego, zawiadamiaj ą c o tym obwinionego oraz rzecznika dyscyplinarnego. Do czasu ustanowienia nowego obro ń cy, jednak nie dłu ż ej ni ż 14 dni od dnia zawiadomienia obwinionego, obro ń ca jest obowi ą zany podejmowa ć niezb ę dne czynno ś ci.
+4. Obrońca nie może podejmować czynności na niekorzyść obwinionego. Może on zrezygnować z reprezentowania obwinionego w toku postępowania dyscyplinarnego, zawiadamiając o tym obwinionego oraz rzecznika dyscyplinarnego. Do czasu ustanowienia nowego obrońcy, jednak nie dłużej niż 14 dni od dnia zawiadomienia obwinionego, obrońca jest obowiązany podejmować niezbędne czynności.
 
-5. Udział obro ń cy w post ę powaniu dyscyplinarnym nie wył ą cza osobistego działania obwinionego.
+5. Udział obrońcy w postępowaniu dyscyplinarnym nie wyłącza osobistego działania obwinionego.
 
 **Art. 125.**
 
@@ -1490,13 +1991,13 @@ o Stra ż y Marszałkowskiej
 
 **Art. 126.**
 
-1. Czynności dowodowe w postępowaniu dyscyplinarnym powinny być zakończone w terminie miesiąca od dnia wszczęcia tego postępowania. Komendant Straży Marszałkowskiej może, w drodze postanowienia, przedłużyć termin prowadzenia czynności dowodowych do 2 miesięcy.
+1. Czynności dowodowe w postępowaniu dyscyplinarnym powinny być zakończone w terminie miesiąca od dnia wszczęcia tego postępowania. Przełożony dyscyplinarny może, w drodze postanowienia, przedłużyć termin prowadzenia czynności dowodowych do 2 miesięcy.
 
-2. Szef Kancelarii Sejmu może przedłużyć termin prowadzenia czynności dowodowych na czas oznaczony powyżej 2 miesięcy.
+2. Wyższy przełożony dyscyplinarny może przedłużyć termin prowadzenia czynności dowodowych na czas oznaczony powyżej 2 miesięcy.
 
-3. Szef Kancelarii Sejmu może, w drodze postanowienia, zawiesić postępowanie dyscyplinarne z powodu zaistnienia długotrwałej przeszkody uniemożliwiającej prowadzenie postępowania. Jeżeli postępowanie dyscyplinarne zostało wszczęte z inicjatywy pokrzywdzonego, zażalenie na to postanowienie może również złożyć pokrzywdzony.
+3. Wyższy przełożony dyscyplinarny może, w drodze postanowienia, zawiesić postępowanie dyscyplinarne z powodu zaistnienia długotrwałej przeszkody uniemożliwiającej prowadzenie postępowania. Jeżeli postępowanie dyscyplinarne zostało wszczęte z inicjatywy pokrzywdzonego, zażalenie na to postanowienie może również złożyć pokrzywdzony.
 
-4. Szef Kancelarii Sejmu wydaje postanowienie o podjęciu zawieszonego postępowania dyscyplinarnego po ustaniu przeszkody, o której mowa w ust. 1.
+4. Wyższy przełożony dyscyplinarny wydaje postanowienie o podjęciu zawieszonego postępowania dyscyplinarnego po ustaniu przeszkody, o której mowa w ust. 3.
 
 **Art. 127.**
 
@@ -1515,8 +2016,8 @@ o Stra ż y Marszałkowskiej
 7. Rzecznik dyscyplinarny po zapoznaniu obwinionego z aktami postępowania dyscyplinarnego wydaje postanowienie o zakończeniu czynności dowodowych oraz sporządza sprawozdanie, w którym:
 
 - **1)** wskazuje prowadzącego postępowanie i przełożonego dyscyplinarnego, który wydał postanowienie o wszczęciu postępowania dyscyplinarnego;
-- **2)** wskazuje obwinionego oraz okre ś la zarzucane mu przewinienie dyscyplinarne z opisem stanu faktycznego ustalonym na podstawie zebranych dowodów;
-- **3)** przedstawia wnioski dotycz ą ce uniewinnienia, odst ą pienia od ukarania lub wymierzenia kary albo umorzenia post ę powania.
+- **2)** wskazuje obwinionego oraz określa zarzucane mu przewinienie dyscyplinarne z opisem stanu faktycznego ustalonym na podstawie zebranych dowodów;
+- **3)** przedstawia wnioski dotyczące uniewinnienia, odstąpienia od ukarania lub wymierzenia kary albo umorzenia postępowania.
 
 **Art. 128.**
 
@@ -1564,8 +2065,8 @@ o Stra ż y Marszałkowskiej
 - **4)** opis przewinienia dyscyplinarnego zarzucanego obwinionemu wraz z kwalifikacją prawną;
 - **5)** rozstrzygnięcie o uniewinnieniu, stwierdzeniu winy i odstąpieniu od ukarania lub wymierzeniu kary dyscyplinarnej albo umorzeniu postępowania dyscyplinarnego;
 - **6)** uzasadnienie faktyczne i prawne orzeczenia;
-- **7)** podpis z podaniem imienia i nazwiska przeło ż onego dyscyplinarnego;
-- **8)** pouczenie o prawie wniesienia odwołania do wy ż szego przeło ż onego dyscyplinarnego, za ś orzeczenie wydane w post ę powaniu w drugiej instancji pouczenie o prawie wniesienia skargi do wła ś ciwego s ą du administracyjnego.
+- **7)** podpis z podaniem imienia i nazwiska przełożonego dyscyplinarnego;
+- **8)** pouczenie o prawie wniesienia odwołania do wyższego przełożonego dyscyplinarnego, zaś orzeczenie wydane w postępowaniu w drugiej instancji – pouczenie o prawie wniesienia odwołania do właściwego sądu pracy.
 
 3. Przełożony dyscyplinarny uchyla postanowienie, o którym mowa w art. 127 ust. 7, oraz przekazuje akta sprawy rzecznikowi dyscyplinarnemu do uzupełnienia w przypadku stwierdzenia, że nie zostały wyjaśnione wszystkie okoliczności sprawy.
 
@@ -1575,9 +2076,9 @@ o Stra ż y Marszałkowskiej
 
 6. Orzeczenie, o którym mowa w ust. 1, doręcza się niezwłocznie obwinionemu.
 
-7. Jeżeli przełożony dyscyplinarny uzna, że należy wymierzyć karę dyscyplinarną, do której wymierzenia nie jest uprawniony, wniosek w tej sprawie wraz z aktami postępowania przesyła Szefowi Kancelarii Sejmu.
+7. Jeżeli przełożony dyscyplinarny uzna, że należy wymierzyć karę dyscyplinarną, do której wymierzenia nie jest uprawniony, wniosek w tej sprawie wraz z aktami postępowania przesyła wyższemu przełożonemu dyscyplinarnemu.
 
-8. W przypadku zamiaru wymierzenia kary wydalenia ze służby w Straży Marszałkowskiej Szef Kancelarii Sejmu, przed wydaniem orzeczenia dyscyplinarnego, wzywa obwinionego w celu wysłuchania go. W wysłuchaniu uczestniczy rzecznik dyscyplinarny. Obwinionemu doręcza się sprawozdanie, o którym mowa w art. 127 ust. 7, w terminie umożliwiającym zapoznanie się z nim przed wysłuchaniem.
+8. W przypadku zamiaru wymierzenia kary wydalenia ze służby w Straży Marszałkowskiej przełożony dyscyplinarny, przed wydaniem orzeczenia dyscyplinarnego, wzywa obwinionego w celu wysłuchania go. W wysłuchaniu uczestniczy rzecznik dyscyplinarny. Obwinionemu doręcza się sprawozdanie, o którym mowa w art. 127 ust. 7, w terminie umożliwiającym zapoznanie się z nim przed wysłuchaniem.
 
 9. Przepisu ust. 8 nie stosuje się w przypadku:
 
@@ -1591,9 +2092,11 @@ o Stra ż y Marszałkowskiej
 
 2. Odwołanie składa się do wyższego przełożonego dyscyplinarnego za pośrednictwem przełożonego, który wydał orzeczenie w pierwszej instancji.
 
-3. W stosunku do orzeczeń wydanych przez Komendanta Straży Marszałkowskiej wyższym przełożonym dyscyplinarnym jest Szef Kancelarii Sejmu, zaś w stosunku do orzeczeń wydanych przez Szefa Kancelarii Sejmu wyższym przełożonym dyscyplinarnym jest Marszałek Sejmu.
+3. Wyższym przełożonym dyscyplinarnym jest Szef Kancelarii Sejmu.
 
 4. Wyższy przełożony dyscyplinarny odmawia przyjęcia odwołania, w drodze postanowienia, jeżeli zostało wniesione po terminie lub przez osobę nieuprawnioną albo jest niedopuszczalne. Postanowienie w tej sprawie jest ostateczne.
+
+5. Jeżeli orzeczenie lub postanowienie w pierwszej instancji wydał Szef Kancelarii Sejmu, odwołanie lub zażalenie nie przysługuje. Obwiniony może jednak w terminie, o którym mowa w ust. 1, zwrócić się do Szefa Kancelarii z wnioskiem o ponowne rozpatrzenie sprawy; do wniosku tego stosuje się odpowiednio przepisy dotyczące odwołań od orzeczeń.
 
 **Art. 132.**
 
@@ -1607,11 +2110,11 @@ o Stra ż y Marszałkowskiej
 
 - **1)** utrzymać w mocy;
 - **2)** uchylić w całości albo w części i w tym zakresie uniewinnić obwinionego, odstąpić od ukarania, wymierzyć inną karę albo, uchylając to orzeczenie, postępowanie dyscyplinarne umorzyć;
-- **3)** uchylić w całości i przekazać sprawę do ponownego rozpatrzenia przez przełożonego dyscyplinarnego, gdy rozstrzygni ę cie sprawy wymaga przeprowadzenia czynno ś ci dowodowych w cało ś ci lub w znacznej cz ęś ci.
+- **3)** uchylić w całości i przekazać sprawę do ponownego rozpatrzenia przez przełożonego dyscyplinarnego, gdy rozstrzygnięcie sprawy wymaga przeprowadzenia czynności dowodowych w całości lub w znacznej części.
 
-2. Post ę powanie odwoławcze umarza si ę w przypadku cofni ę cia odwołania.
+2. Postępowanie odwoławcze umarza się w przypadku cofnięcia odwołania.
 
-3. W post ę powaniu odwoławczym wy ż szy przeło ż ony dyscyplinarny nie mo ż e wymierzy ć surowszej kary dyscyplinarnej.
+3. W postępowaniu odwoławczym wyższy przełożony dyscyplinarny nie może wymierzyć surowszej kary dyscyplinarnej.
 
 **Art. 134.**
 
@@ -1622,7 +2125,7 @@ o Stra ż y Marszałkowskiej
 
 2. Przełożony dyscyplinarny po uprawomocnieniu się orzeczenia niezwłocznie wykonuje orzeczoną karę.
 
-3. Szef Kancelarii Sejmu po uprawomocnieniu się orzeczenia niezwłocznie wykonuje karę:
+3. Szef Kancelarii po uprawomocnieniu się orzeczenia niezwłocznie wykonuje karę:
 
 - **1)** ostrzeżenia o niepełnej przydatności do służby na zajmowanym stanowisku;
 - **2)** wyznaczenia na niższe stanowisko służbowe przez wydanie decyzji o zwolnieniu lub odwołaniu ukaranego z dotychczas zajmowanego stanowiska służbowego i mianowaniu go na niższe stanowisko służbowe;
@@ -1630,11 +2133,11 @@ o Stra ż y Marszałkowskiej
 
 4. Prawomocne orzeczenie o odstąpieniu od ukarania albo o ukaraniu oraz prawomocne postanowienie o odstąpieniu od wszczęcia postępowania dyscyplinarnego włącza się do akt osobowych funkcjonariusza Straży Marszałkowskiej.
 
-**Art. 135.** Od orzeczenia oraz postanowienia kończącego postępowanie dyscyplinarne funkcjonariuszowi Straży Marszałkowskiej przysługuje prawo wniesienia skargi do sądu administracyjnego.
+**Art. 135.** Od orzeczenia oraz postanowienia kończącego postępowanie dyscyplinarne funkcjonariuszowi Straży Marszałkowskiej przysługuje prawo wniesienia odwołania do właściwego ze względu na miejsce zamieszkania obwinionego sądu pracy, w terminie 14 dni od dnia doręczenia orzeczenia lub postanowienia wraz z uzasadnieniem.
 
 **Art. 136.**
 
-1. W zakresie nieuregulowanym w niniejszej ustawie do postępowania dyscyplinarnego stosuje się odpowiednio przepisy ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego dotyczące wezwań, terminów, doręczeń i świadków, z wyłączeniem możliwości nakładania kar porządkowych oraz zatrzymania i doprowadzenia świadków. W postępowaniu dyscyplinarnym do świadków nie stosuje się art. 184 ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego.
+1. W zakresie nieuregulowanym w niniejszej ustawie do postępowania dyscyplinarnego stosuje się odpo-wiednio przepisy ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego dotyczące wezwań, terminów, doręczeń i świadków, z wyłączeniem możliwości nakładania kar porządkowych oraz zatrzymania i doprowadzenia świadków. W postępowaniu dyscyplinarnym do świadków nie stosuje się art. 184 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępo-wania karnego.
 
 2. O zwolnieniu od złożenia zeznania lub odpowiedzi na pytania osoby pozostającej z obwinionym w szczególnie bliskim stosunku osobistym rozstrzyga, w drodze postanowienia, rzecznik dyscyplinarny.
 
@@ -1660,7 +2163,7 @@ o Stra ż y Marszałkowskiej
 
 6. W przypadku jednoczesnego wykonywania więcej niż jednej kary dyscyplinarnej zatarcie skazania następuje z upływem terminu przewidzianego dla kary surowszej.
 
-7. Zatarcie skazania powoduje usuni ę cie z akt osobowych funkcjonariusza Stra ż y Marszałkowskiej orzeczenia o ukaraniu. Orzeczenie o odst ą pieniu od ukarania usuwa si ę z akt osobowych po upływie 6 miesi ę cy od dnia jego uprawomocnienia si ę ; przepisy ust. 3 i 4 stosuje si ę odpowiednio. Prawomocne postanowienie o odst ą pieniu od wszcz ę cia post ę powania dyscyplinarnego usuwa si ę z akt osobowych po upływie 6 miesi ę cy od dnia jego uprawomocnienia si ę ; przepisy ust. 3 i 4 stosuje si ę odpowiednio.
+7. Zatarcie skazania powoduje usunięcie z akt osobowych funkcjonariusza Straży Marszałkowskiej orzeczenia o ukaraniu. Orzeczenie o odstąpieniu od ukarania usuwa się z akt osobowych po upływie 6 miesięcy od dnia jego uprawomocnienia się; przepisy ust. 3 i 4 stosuje się odpowiednio. Prawomocne postanowienie o odstąpieniu od wszczęcia postępowania dyscyplinarnego usuwa się z akt osobowych po upływie 6 miesięcy od dnia jego uprawomocnienia się; przepisy ust. 3 i 4 stosuje się odpowiednio.
 
 **Art. 138.**
 
@@ -1669,19 +2172,20 @@ o Stra ż y Marszałkowskiej
 - **1)** dowody, na podstawie których ustalono istotne dla sprawy okoliczności, okazały się fałszywe;
 - **2)** zostały ujawnione istotne dla sprawy okoliczności, które nie były znane w toku postępowania dyscyplinarnego;
 - **3)** orzeczenie wydano z naruszeniem obowiązujących przepisów, jeżeli mogło to mieć wpływ na treść orzeczenia;
-- **4)** orzeczenie zostało wydane w oparciu o inną decyzję lub orzeczenie sądu, które zostało następnie uchylone lub zmienione.
+- **4)** orzeczenie zostało wydane w oparciu o inną decyzję lub orzeczenie sądu, które zostało następnie uchylone lub zmienione;
+- **5)** prowadzone o ten sam czyn postępowanie karne, karne skarbowe lub w sprawach o wykroczenia zostało zakończone prawomocnym wyrokiem uniewinniającym albo orzeczeniem o umorzeniu postępowania ze względu na okoliczności określone w art. 17 § 1 pkt 1 lub 2 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego albo w art. 5 § 1 pkt 1 lub 2 ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2024 r. poz. 977 i 1544).
 
 2. Postępowanie dyscyplinarne wznawia się na wniosek ukaranego lub obwinionego albo w przypadku jego śmierci na wniosek członka rodziny uprawnionego do renty rodzinnej, jeżeli w wyniku orzeczenia Trybunału Konstytucyjnego stracił moc lub uległ zmianie przepis prawny będący podstawą wydania orzeczenia dyscyplinarnego.
 
 3. W przypadku, o którym mowa w ust. 2, wniosek o wznowienie składa się w terminie miesiąca od dnia wejścia w życie orzeczenia Trybunału Konstytucyjnego.
 
-4. Postępowania dyscyplinarnego nie wznawia się po upływie 5 lat od dnia uprawomocnienia się orzeczenia.
+4. Postępowania dyscyplinarnego nie wznawia się po upływie 10 lat od dnia uprawomocnienia się orzeczenia dyscyplinarnego.
 
-5. Wznowienie postępowania dyscyplinarnego na korzyść ukaranego funkcjonariusza Straży Marszałkowskiej może nastąpić w każdym czasie.
+5. Przepisu ust. 4 nie stosuje się do spraw o wznowienie postępowania dyscyplinarnego zakończonego prawomocnym orzeczeniem o wydaleniu ze służby.
 
 6. Postępowania dyscyplinarnego nie wznawia się na niekorzyść ukaranego funkcjonariusza Straży Marszałkowskiej po ustaniu karalności przewinienia dyscyplinarnego.
 
-7. Przełożony dyscyplinarny, który wydał orzeczenie dyscyplinarne, wznawia postępowanie dyscyplinarne z urzędu lub na wniosek ukaranego lub obwinionego albo, w przypadku jego śmierci, na wniosek członka rodziny uprawnionego do renty rodzinnej. O wznowieniu postępowania dyscyplinarnego z urzędu zawiadamia się ukaranego lub obwinionego albo, w przypadku jego śmierci, członka rodziny uprawnionego do renty rodzinnej.
+7. Przełożony dyscyplinarny, który wydał prawomocne orzeczenie dyscyplinarne, wznawia postępowanie dyscyplinarne z urzędu lub na wniosek ukaranego lub obwinionego albo, w przypadku jego śmierci, na wniosek jego małżonka, krewnych w linii prostej, rodzeństwa, przysposabiającego lub przysposobionego. O wznowieniu postępowania dyscyplinarnego z urzędu zawiadamia się ukaranego lub obwinionego albo, w przypadku jego śmierci, jego małżonka, krewnych w linii prostej, rodzeństwo, przysposabiającego lub przysposobionego.
 
 8. Wniosek o wznowienie postępowania dyscyplinarnego wnosi się do przełożonego dyscyplinarnego, który wydał orzeczenie, w terminie 30 dni od dnia, w którym ukarany lub obwiniony dowiedział się o okoliczności stanowiącej podstawę do wznowienia postępowania.
 
@@ -1703,9 +2207,125 @@ o Stra ż y Marszałkowskiej
 
 5. Termin zatarcia kary zmienionej w następstwie wznowienia postępowania liczy się od dnia uprawomocnienia się orzeczenia o wymierzeniu nowej kary. Na poczet okresu zatarcia nowej kary zalicza się okres zatarcia, który upłynął od uprawomocnienia się orzeczenia kary dotychczasowej.
 
-**Art. 140.** Prezes Rady Ministrów, po zasięgnięciu opinii Szefa Kancelarii Sejmu, określi, w drodze rozporządzenia, szczegółowy tryb wykonywania czynności związanych z postępowaniem dyscyplinarnym w stosunku do funkcjonariuszy Stra ż y Marszałkowskiej, w tym obiegu dokumentów zwi ą zanych z post ę powaniem dyscyplinarnym, prostowania bł ę dów pisarskich i rachunkowych oraz innych oczywistych omyłek, oraz okre ś li wzory postanowie ń i innych dokumentów sporz ą dzanych w post ę powaniu dyscyplinarnym, maj ą c na wzgl ę dzie sprawno ść prowadzonego post ę powania.
+**Art. 140.** Prezes Rady Ministrów, po zasięgnięciu opinii Szefa Kancelarii Sejmu, określi, w drodze rozporządzenia, szczegółowy tryb wykonywania czynności związanych z postępowaniem dyscyplinarnym w stosunku do funkcjonariuszy Straży Marszałkowskiej mając na względzie sprawność prowadzonego postępowania.
 
-#### Rozdział 9 Przepis ko ń cowy
+#### Rozdział 8a Psy służbowe
 
-**Art. 141.** Ustawa wchodzi w życie w terminie i na zasadach określonych w ustawie z dnia 26 stycznia 2018 r. Przepisy wprowadzające ustawę o Straży Marszałkowskiej (Dz. U. poz. 730). Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 140a.**
+
+1. Do użycia w Straży Marszałkowskiej psy dobiera się w taki sposób, aby spełniały kryteria zdrowotne i użytkowe, o których mowa w przepisach wydanych na podstawie art. 11a ust. 2, zapewniające przydatność zwierzęcia do użycia w celu realizacji zadań, o których mowa w art. 2 ust. 1 pkt 1, 2 i 6.
+
+2. Psy służbowe mogą być używane w Straży Marszałkowskiej po odbyciu szkolenia, o którym mowa w przepisach wydanych na podstawie art. 11a ust. 2.
+
+3. Psy służbowe i psy służbowe wycofane z użycia znajdują się na stanie Straży Marszałkowskiej.
+
+**Art. 140b.** Opiekunem psa służbowego jest odpowiednio:
+
+**Art. 140c.**
+
+1. Opiekunem psa służbowego wycofanego z użycia w pierwszej kolejności może być dotychczasowy opiekun tego psa, jeżeli złoży pisemną deklarację woli sprawowania opieki.
+
+2. W następnej kolejności opiekunem psa służbowego wycofanego z użycia może być inny opiekun psa służbowego, jeżeli złoży pisemną deklarację woli sprawowania opieki.
+
+3. Jeżeli pies służbowy wycofany z użycia nie zostanie powierzony opiekunowi, o którym mowa w ust. 1 albo 2, zwierzę można powierzyć innemu funkcjonariuszowi Straży Marszałkowskiej, emerytowanemu funkcjonariuszowi Straży Marszałkowskiej lub funkcjonariuszowi zwolnionemu ze służby w Straży Marszałkowskiej, który ma ustalone prawo do policyjnej renty inwalidzkiej w rozumieniu ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin, jeżeli złoży pisemną deklarację woli sprawowania opieki oraz posiada wiedzę i umiejętności w zakresie opieki nad psem.
+
+4. W przypadku zgłoszenia się większej liczby kandydatów na opiekuna psa służbowego wycofanego z użycia, o których mowa w ust. 2 i 3, Komendant Straży Marszałkowskiej przeprowadza postępowanie rekrutacyjne.
+
+5. W przypadku śmierci opiekuna psa służbowego wycofanego z użycia opiekunem tego zwierzęcia w pierwszej kolejności może zostać członek rodziny zmarłego opiekuna, który prowadził z tym opiekunem wspólne gospodarstwo domowe, jeżeli złoży pisemną deklarację woli sprawowania opieki. Przepisy ust. 2 i 3 stosuje się odpowiednio.
+
+6. W przypadku gdy pies służbowy wycofany z użycia nie zostanie powierzony osobom, o których mowa w ust. 1–3 i 5, opiekę nad tym psem sprawuje Straż Marszałkowska. Komendant Straży Marszałkowskiej wyznacza opiekuna psa służbowego wycofanego z użycia.
+
+7. Komendant Straży Marszałkowskiej może powierzyć opiekę nad psem służbowym wycofanym z użycia organizacji społecznej, której statutowym celem działania jest ochrona zwierząt.
+
+8. Opiekunem psa służbowego wycofanego z użycia nie może zostać osoba, która w następstwie swojego zawinionego działania przyczyniła się do wycofania z użycia psa służbowego.
+
+9. Opiekunem psa służbowego wycofanego z użycia nie może zostać opiekun, któremu odebrano zwierzę z powodów, o których mowa w art. 140k ust. 1 pkt 1 lub 2. Do organizacji, o której mowa w ust. 7, zdanie pierwsze stosuje się.
+
+**Art. 140d.** Opiekun psa służbowego, opiekun psa służbowego wycofanego z użycia, zwani dalej „opiekunem”, oraz organizacja, o której mowa w art. 140c ust. 7, zapewniają prawidłowe utrzymanie zwierzęcia obejmujące w szczególności:
+
+**Art. 140e.**
+
+1. Żywienie psa służbowego oraz psa służbowego wycofanego z użycia jest dostosowane do potrzeb jego organizmu, wagi, wieku, stanu zdrowia, warunków klimatycznych, funkcji fizjologicznych oraz wysiłku fizycznego lub wskazań lekarza weterynarii.
+
+2. Żywienie psa służbowego oraz psa służbowego wycofanego z użycia odbywa się na podstawie normy wyżywienia, którą stanowi dobowa ilość karmy i artykułów spożywczych, niezbędnych do prawidłowego żywienia jednego psa. Z uwagi na zwiększone zapotrzebowanie energetyczne i odżywcze w trakcie odbywania szkolenia przez psa służbowego norma ta może zostać podwyższona. W przypadku wycofania psa służbowego z użycia norma ta jest zmniejszana w związku ze zmniejszonym wysiłkiem fizycznym zwierzęcia.
+
+3. W przypadku stwierdzenia przez lekarza weterynarii konieczności zastosowania w żywieniu psa służbowego lub psa służbowego wycofanego z użycia diety lub karmy leczniczej norma, o której mowa w ust. 2, może zostać podwyższona.
+
+4. Opiekun psa służbowego otrzymuje wyżywienie dla psa w naturze albo równoważnik w formie ryczałtu na pokrycie kosztów wyżywienia zwierzęcia. Ryczałt wypłaca się co miesiąc z góry.
+
+5. Opiekun psa służbowego wycofanego z użycia oraz organizacja, o której mowa w art. 140c ust. 7, otrzymują równoważnik pieniężny w formie ryczałtu na pokrycie kosztów wyżywienia zwierzęcia. Ryczałt wypłaca się co miesiąc z góry.
+
+6. Opiekun oraz organizacja, o której mowa w art. 140c ust. 7, są obowiązani do proporcjonalnego zwrotu wypłaconego ryczałtu na pokrycie kosztów wyżywienia zwierzęcia w przypadku:
+
+- **1)** padnięcia albo konieczności bezzwłocznego uśmiercenia zwierzęcia na zasadach określonych w ustawie z dnia 21 sierpnia 1997 r. o ochronie zwierząt (Dz. U. z 2023 r. poz. 1580);
+- **2)** odebrania zwierzęcia, o którym mowa w art. 140k ust. 1;
+- **3)** utraty lub zaginięcia zwierzęcia;
+- **4)** rezygnacji ze sprawowania opieki nad zwierzęciem;
+- **5)** powierzenia opieki nad psem służbowym innemu opiekunowi, o którym mowa w art. 140k ust. 3 i 4;
+- **6)** korzystania przez zwierzę w trakcie odbywania szkolenia z wyżywienia w naturze.
+
+7. W sprawach, o których mowa w ust. 3–6, właściwy jest Komendant Straży Marszałkowskiej.
+
+**Art. 140f.**
+
+1. Psa służbowego oraz psa służbowego wycofanego z użycia poddaje się zabiegom profilaktycznym i leczeniu według wskazań lekarza weterynarii. Leczenie psa służbowego oraz psa służbowego wycofanego z użycia następuje po uprzednim uzgodnieniu z Komendantem Straży Marszałkowskiej lub osobą przez niego upoważnioną.
+
+2. W sytuacjach nagłych, wymagających udzielenia natychmiastowej pomocy lekarsko-weterynaryjnej w celu ratowania życia lub zdrowia psa służbowego lub psa służbowego wycofanego z użycia dopuszcza się możliwość odstąpienia od uzgodnienia zakresu udzielanej pomocy lekarsko-weterynaryjnej z Komendantem Straży Marszałkowskiej lub osobą przez niego upoważnioną.
+
+3. W przypadku wystąpienia sytuacji nagłej, o której mowa w ust. 2, należy niezwłocznie poinformować o zaistniałej sytuacji i zakresie udzielonej pomocy lekarsko-weterynaryjnej Komendanta Straży Marszałkowskiej lub osobę przez niego upoważnioną.
+
+4. Koszty zabiegów profilaktycznych i leczenia psa służbowego oraz psa służbowego wycofanego z użycia, w tym koszty lekarstw, pokrywa się ze środków budżetowych Kancelarii na podstawie faktury.
+
+5. Koszt utylizacji zwłok psa służbowego oraz psa służbowego wycofanego z użycia pokrywa się ze środków budżetowych Kancelarii na podstawie faktury.
+
+6. W sprawach, o których mowa w ust. 4 i 5, właściwy jest Komendant Straży Marszałkowskiej.
+
+**Art. 140g.** Opiekunowi oraz organizacji, o której mowa w art. 140c ust. 7, zabrania się:
+
+**Art. 140h.**
+
+1. Psa służbowego wycofuje się z użycia w przypadku:
+
+- **1)** trwałej utraty sprawności użytkowej;
+- **2)** wystąpienia stanu chorobowego nierokującego poprawy;
+- **3)** padnięcia albo konieczności jego bezzwłocznego uśmiercenia na zasadach określonych w ustawie z dnia 21 sierpnia 1997 r. o ochronie zwierząt;
+- **4)** braku postępów w szkoleniu rokujących osiągnięcie odpowiedniego poziomu wyszkolenia zwierzęcia;
+- **5)** upływu 6 miesięcy od dnia jego utraty albo zaginięcia.
+
+2. Pies służbowy będący po raz pierwszy w trakcie szkolenia, w przypadkach, o których mowa w ust. 1 pkt 2 lub 4, podlega wymianie albo zwrotowi sprzedawcy na zasadach określonych w ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2024 r. poz. 1061 i 1237). W przypadkach, o których mowa w zdaniu pierwszym, nie mają zastosowania przepisy art. 140a ust. 3, art. 140c–140g i art. 140i–140k.
+
+3. Psa służbowego można wycofać z użycia po ukończeniu 9. roku życia.
+
+4. Psa służbowego wycofuje z użycia Komendant Straży Marszałkowskiej.
+
+**Art. 140i.** Nadzór nad psami służbowymi oraz psami służbowymi wycofanymi z użycia sprawuje Komendant Straży Marszałkowskiej.
+
+**Art. 140j.**
+
+1. Opiekun i przedstawiciel organizacji, o której mowa w art. 140c ust. 7, w celu umożliwienia sprawowania nadzoru na żądanie funkcjonariusza Straży Marszałkowskiej wyznaczonego przez Komendanta Straży Marszałkowskiej, okazują zwierzę.
+
+2. Opiekun oraz organizacja, o której mowa w art. 140c ust. 7, niezwłocznie powiadamiają Komendanta Straży Marszałkowskiej o:
+
+- **1)** zmianie stałego miejsca przebywania lub chowu zwierzęcia lub zmianie miejsca przebywania zwierzęcia trwającej dłużej niż 30 dni;
+- **2)** padnięciu albo konieczności bezzwłocznego uśmiercenia zwierzęcia na zasadach określonych w ustawie z dnia 21 sierpnia 1997 r. o ochronie zwierząt, utracie albo zaginięciu zwierzęcia oraz o okolicznościach tych zdarzeń.
+
+**Art. 140k.**
+
+1. Psa służbowego lub psa służbowego wycofanego z użycia odbiera się opiekunowi lub organizacji, o której mowa w art. 140c ust. 7, w przypadku:
+
+- **1)** stwierdzenia zaniedbania psa służbowego;
+- **2)** niewywiązywania się z obowiązku opieki nad zwierzęciem lub postępowania wbrew zakazom, o których mowa w art. 140g;
+- **3)** rezygnacji ze sprawowania opieki nad zwierzęciem.
+
+2. Do czasu powierzenia psa służbowego innemu opiekunowi opiekę nad zwierzęciem sprawuje Straż Marszałkowska.
+
+3. W przypadku przeniesienia opiekuna psa służbowego na stanowisko służbowe niezwiązane z realizacją czynności służbowych związanych z użyciem zwierzęcia opieka nad tym psem może zostać powierzona innemu opiekunowi psa służbowego.
+
+4. W przypadku czasowego braku możliwości sprawowania opieki nad psem służbowym przez opiekuna Komendant Straży Marszałkowskiej może wyznaczyć czasowego opiekuna psa służbowego. Do czasowego opiekuna stosuje się odpowiednio przepisy dotyczące opiekuna psa służbowego, z zastrzeżeniem, że ryczałt na pokrycie kosztów wyżywienia zwierzęcia wypłaca się co miesiąc z góry, proporcjonalnie do okresu sprawowania opieki nad psem służbowym.
+
+**Art. 140l.** Marszałek określi, w drodze zarządzenia:
+
+#### Rozdział 9 Przepis końcowy
+
+**Art. 141.** Ustawa wchodzi w życie w terminie i na zasadach określonych w ustawie z dnia 26 stycznia 2018 r. – Przepisy wprowadzające ustawę o Straży Marszałkowskiej (Dz. U. poz. 730 oraz z 2019 r. poz. 303, 1622, 1635 i 1726).
 

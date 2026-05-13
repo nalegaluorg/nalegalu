@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 4 listopada 2022 r.
+# o towarach paczkowanych
+
+*USTAWA z dnia 7 maja 2009 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,16 +25,6 @@ domain: null
 | Data wydania | 2022-11-04 |
 | Ostatnia zmiana | 2026-03-11 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002255) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2255/text.pdf) |
-
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 30 września 2022 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o towarach paczkowanych
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 7 maja 2009 r. o towarach paczkowanych (Dz. U. z 2020 r. poz. 1442), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 7 kwietnia 2022 r. o wyrobach medycznych (Dz. U. poz. 974) oraz zmian wynikających z przepisów ogłoszonych przed dniem 29 września 2022 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 148 ustawy z dnia 7 kwietnia 2022 r. o wyrobach medycznych (Dz. U. poz. 974), który stanowi: „Art. 148. Ustawa wchodzi w życie z dniem 26 maja 2022 r., z wyjątkiem:
-1) art. 54–61, które wchodzą w życie z dniem 1 stycznia 2023 r.;
-2) art. 21–25, które wchodzą w życie z dniem 1 lipca 2023 r.”.
-Marszałek Sejmu: E. Witek
-USTAWA z dnia 7 maja 2009 r.
-o towarach paczkowanych
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -55,7 +47,7 @@ o towarach paczkowanych
 - **1)** paczkowania produktów, w szczególności systemu kontroli wewnętrznej ilości towaru paczkowanego;
 - **2)** produkcji butelek miarowych, w szczególności stosowanego przez producenta butelek miarowych systemu kontroli wewnętrznej tych butelek.
 
-2. Nadzór, o którym mowa w ust. 1, jest sprawowany w trybie i na warunkach określonych w ustawie z dnia 11 maja 2001 r. Prawo o miarach (Dz. U. z 2021 r. poz. 2068 oraz z 2022 r. poz. 1117).
+2. Nadzór, o którym mowa w ust. 1, jest sprawowany w trybie i na warunkach określonych w ustawie z dnia 11 maja 2001 r. – Prawo o miarach (Dz. U. z 2021 r. poz. 2068 oraz z 2022 r. poz. 1117).
 
 **Art. 5.** Towary paczkowane znajdujące się w obrocie lub przeznaczone do wprowadzenia do obrotu podlegają kontroli Inspekcji Handlowej, Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych i Inspekcji Farmaceutycznej, w zakresie przewidzianym w niniejszej ustawie oraz w zakresie ich właściwości, w trybie i na warunkach określonych w przepisach odrębnych.
 
@@ -95,7 +87,7 @@ o towarach paczkowanych
 
 1. Paczkujący lub zlecający paczkowanie jest odpowiedzialny za zorganizowanie i przeprowadzenie kontroli wewnętrznej ilości towaru paczkowanego.
 
-2. Sprowadzający lub importer jest odpowiedzialny za zorganizowanie i przeprowadzenie kontroli wewnętrznej ilości towaru paczkowanego, chyba że towar paczkowany był wcześniej paczkowany lub wprowadzony do obrotu na terytorium państwa strony umowy o Europejskim Obszarze Gospodarczym, zgodnie z przepisami obowiązującymi w tym państwie.
+2. Sprowadzający lub importer jest odpowiedzialny za zorganizowanie i przeprowadzenie kontroli wewnętrznej ilości towaru paczkowanego, chyba że towar paczkowany był wcześniej paczkowany lub wprowadzony do obrotu na terytorium państwa – strony umowy o Europejskim Obszarze Gospodarczym, zgodnie z przepisami obowiązującymi w tym państwie.
 
 3. Paczkujący na zlecenie może, na podstawie umowy zawartej w formie pisemnej ze zlecającym paczkowanie, sprowadzającym lub importerem, przejąć odpowiedzialność za zorganizowanie i przeprowadzenie kontroli wewnętrznej ilości towaru paczkowanego.
 
@@ -105,7 +97,7 @@ o towarach paczkowanych
 
 **Art. 10.** W przypadku towarów paczkowanych, które są paczkowane poza terytorium Rzeczypospolitej Polskiej, za spełnienie wymagań określonych w ustawie uznaje się pisemną deklarację sprowadzającego lub importera, w tym zlecającego paczkowanie, lub posiadanie przez niego dokumentacji świadczącej o tym, że w procesie paczkowania były stosowane odpowiednie metody kontroli ilości rzeczywistej towaru paczkowanego.
 
-**Art. 11.** Wymagania dotyczące kontroli wewnętrznej ilości towaru paczkowanego uważa się za spełnione, jeżeli w procesie paczkowania na terytorium państw stron umowy o Europejskim Obszarze Gospodarczym wykorzystuje się butelki miarowe i napełnia je do poziomu odpowiadającego pojemności nominalnej określonej w ust. 1 lit. a załącznika nr 4 do ustawy. Przy wykorzystywaniu i napełnianiu butelek miarowych przepisy art. 9 stosuje się odpowiednio.
+**Art. 11.** Wymagania dotyczące kontroli wewnętrznej ilości towaru paczkowanego uważa się za spełnione, jeżeli w procesie paczkowania na terytorium państw – stron umowy o Europejskim Obszarze Gospodarczym wykorzystuje się butelki miarowe i napełnia je do poziomu odpowiadającego pojemności nominalnej określonej w ust. 1 lit. a załącznika nr 4 do ustawy. Przy wykorzystywaniu i napełnianiu butelek miarowych przepisy art. 9 stosuje się odpowiednio.
 
 **Art. 12.**
 
@@ -185,19 +177,19 @@ o towarach paczkowanych
 
 6. Organy inspekcji, o których mowa w art. 5, mają prawo wglądu do dokumentacji określonej w ust. 1 w celu ustalenia ilości rzeczywistej towarów paczkowanych wprowadzonych do obrotu.
 
-**Art. 19.** Przepisy art. 16–18 stosuje się do importera, chyba że wskaże on podmiot, który po raz pierwszy wprowadził towar do obrotu na terytorium państwa strony umowy o Europejskim Obszarze Gospodarczym, a w przypadku gdy taki podmiot nie jest znany importerowi podmiot, od którego nabył towar paczkowany.
+**Art. 19.** Przepisy art. 16–18 stosuje się do importera, chyba że wskaże on podmiot, który po raz pierwszy wprowadził towar do obrotu na terytorium państwa – strony umowy o Europejskim Obszarze Gospodarczym, a w przypadku gdy taki podmiot nie jest znany importerowi – podmiot, od którego nabył towar paczkowany.
 
 **Art. 20.**
 
 1. Dyrektor właściwego terytorialnie okręgowego urzędu miar, nie częściej niż raz w roku, przeprowadza w pomieszczeniach paczkującego, zlecającego paczkowanie, paczkującego na zlecenie, importera oraz w miejscu paczkowania lub składowania towarów paczkowanych, kontrole planowe w celu stwierdzenia poprawności stosowanego systemu kontroli wewnętrznej ilości towaru paczkowanego.
 
-2. Za czynności wykonywane przez dyrektora właściwego terytorialnie okręgowego urzędu miar związane z planową kontrolą towarów paczkowanych pobiera się odpowiednio od paczkującego, zlecającego paczkowanie, paczkującego na zlecenie albo importera opłaty zgodnie z przepisami ustawy z dnia 11 maja 2001 r. Prawo o miarach.
+2. Za czynności wykonywane przez dyrektora właściwego terytorialnie okręgowego urzędu miar związane z planową kontrolą towarów paczkowanych pobiera się odpowiednio od paczkującego, zlecającego paczkowanie, paczkującego na zlecenie albo importera opłaty zgodnie z przepisami ustawy z dnia 11 maja 2001 r. – Prawo o miarach.
 
 3. Do kontroli planowych przepis art. 14 ust. 3 stosuje się odpowiednio.
 
 4. Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, sposób przeprowadzania kontroli, o której mowa w ust. 1, w zależności od rodzaju paczkowanego produktu, biorąc pod uwagę zasady statystyki matematycznej.
 
-**Art. 21.** Towary paczkowane oznaczone znakiem „e” na terytorium państwa strony umowy o Europejskim Obszarze Gospodarczym, zgodnie z przepisami obowiązującymi w tym państwie, są dopuszczone do obrotu na terytorium Rzeczypospolitej Polskiej bez konieczności przeprowadzania dodatkowej kontroli.
+**Art. 21.** Towary paczkowane oznaczone znakiem „e” na terytorium państwa – strony umowy o Europejskim Obszarze Gospodarczym, zgodnie z przepisami obowiązującymi w tym państwie, są dopuszczone do obrotu na terytorium Rzeczypospolitej Polskiej bez konieczności przeprowadzania dodatkowej kontroli.
 
 #### Rozdział 4 Butelki miarowe
 
@@ -212,7 +204,7 @@ o towarach paczkowanych
 1. Butelka miarowa musi posiadać łatwe do odczytania, dobrze widoczne oraz nieusuwalne oznakowania:
 
 - **1)** na boku, przy krawędzi dna lub na dnie:
-    - **a)** wartości pojemności nominalnej w litrach, centylitrach lub mililitrach, podane wraz z symbolem zastosowanej jednostki miary, cyframi o wysokości co najmniej: 3 mm, jeżeli nominalna pojemność jest nie większa niż 20 cl, 4 mm, jeżeli nominalna pojemność jest większa od 20 cl i nie jest większa niż 100 cl, 6 mm, jeżeli nominalna pojemność jest większa od 100 cl,
+    - **a)** wartości pojemności nominalnej w litrach, centylitrach lub mililitrach, podane wraz z symbolem zastosowanej jednostki miary, cyframi o wysokości co najmniej: – 3 mm, jeżeli nominalna pojemność jest nie większa niż 20 cl, – 4 mm, jeżeli nominalna pojemność jest większa od 20 cl i nie jest większa niż 100 cl, – 6 mm, jeżeli nominalna pojemność jest większa od 100 cl,
     - **b)** znak identyfikacyjny producenta,
     - **c)** znak „3”;
 
@@ -254,6 +246,11 @@ o towarach paczkowanych
 5. Jeżeli w wyznaczonym terminie producent nie przedstawi innego znaku identyfikacyjnego, Prezes Głównego Urzędu Miar odmawia wpisu do rejestru.
 
 6. Wpis albo odmowa wpisu znaku identyfikacyjnego do rejestru następuje w drodze decyzji administracyjnej.
+
+7. Sprawę wpisu znaku identyfikacyjnego producenta do rejestru uznaje się za załatwioną milcząco w sposób w całości uwzględniający żądanie strony, jeżeli w terminie 14 dni od dnia otrzymania zgłoszenia Prezes Głównego Urzędu Miar:
+
+- **1)** nie dokona zawiadomienia, o którym mowa w ust. 3, albo
+- **2)** nie wyda decyzji, o której mowa w art. 122a § 2 pkt 1 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572 oraz z 2025 r. poz. 769).
 
 **Art. 27.** Prezes Głównego Urzędu Miar informuje właściwe organy państw członkowskich Unii Europejskiej oraz Komisję Europejską o znakach identyfikacyjnych producenta wpisanych do rejestru w terminie 30 dni od dnia wydania decyzji o wpisie.
 
@@ -330,7 +327,7 @@ o towarach paczkowanych
 
 **Art. 36.** Kto, będąc odpowiedzialnym za działalność produkcyjną lub kontrolę wewnętrzną, nie przestrzega obowiązków wynikających z przyjętego systemu kontroli wewnętrznej butelek miarowych lub prowadzi wymaganą dokumentację tego systemu nierzetelnie, podlega karze grzywny do 1000 złotych.
 
-**Art. 37.** Postępowanie w sprawach o czyny określone w art. 33–36 następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2022 r. poz. 1124).
+**Art. 37.** Postępowanie w sprawach o czyny określone w art. 33–36 następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2022 r. poz. 1124).
 
 #### Rozdział 6 Zmiany w przepisach obowiązujących
 
@@ -348,5 +345,50 @@ o towarach paczkowanych
 
 **Art. 43.** Traci moc ustawa z dnia 6 września 2001 r. o towarach paczkowanych (Dz. U. poz. 1409, z późn. zm. ).
 
-**Art. 44.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia . WYKAZ PRODUKTÓW, KTÓRE W OKREŚLONYCH ZAKRESACH ILOŚCIOWYCH MOGĄ BYĆ WPROWADZANE DO OBROTU WYŁĄCZNIE W OPAKOWANIACH JEDNOSTKOWYCH O OKREŚLONYCH ILOŚCIACH NOMINALNYCH TOWARU PACZKOWANEGO ORAZ TE ILOŚCI NOMINALNE Lp. Nazwa produktu Definicja produktu Nominalna ilość zawartości produktu w mililitrach 1 2 3 4 1 Wino niemusujące Wino wyszczególnione w części XII lit. b załącznika I do rozporządzenia Rady (WE) nr 1234/2007 z dnia 22 października 2007 r. ustanawiającego wspólną organizację rynków rolnych oraz przepisy szczegółowe dotyczące niektórych produktów rolnych („rozporządzenie o jednolitej wspólnej organizacji rynku”) W zakresie od 100 ml do 1500 ml wyłącznie 8 następujących nominalnych ilości: 100 187 250 , 375 500 750 zwanego dalej „rozporządzeniem nr 1234/2007” 1000 1500 (kod CN ex 2204) 2 Wino żółte Wino wyszczególnione w części XII lit. b załącznika I do rozporządzenia nr 1234/2007 z oznaczeniem pochodzenia: „Côtes du Jura”, „Arbois”, „L’Etoile” i „Château Chalon” w butelkach określonych w załączniku I pkt 3 do rozporządzenia Komisji (WE) nr 753/2002 z dnia 29 kwietnia 2002 r. ustanawiającego niektóre zasady stosowania rozporządzenia Rady (WE) nr 1493/1999 odnośnie do opisu, oznaczania, prezentacji i ochrony niektórych produktów sektora wina W zakresie od 100 ml do 1500 ml wyłącznie następująca nominalna ilość: 620 3 Wino musujące Wino wyszczególnione w części XII lit. b załącznika I do rozporządzenia Rady (WE) nr 1234/2007 i zdefiniowane w pkt 4–9 załącznika nr IV do rozporządzenia Rady (WE) nr 479/2008 z dnia 29 kwietnia 2008 r. w sprawie wspólnej organizacji rynku wina, zmieniającego rozporządzenia (WE) nr 1493/1999, (WE) nr 1782/2003, (WE) nr 1290/2005 i (WE) nr 3/2008 oraz uchylającego rozporządzenia (EWG) nr 2392/86 i (WE) nr 1493/1999 (kod CN 2204 10) W zakresie od 125 ml do 1500 ml wyłącznie 5 następujących nominalnych ilości: 125 200 375 750 1500 4 Wino likierowe Wino wyszczególnione w części XII lit. b załącznika I do rozporządzenia nr 1234/2007 i zdefiniowane w pkt 3 załącznika IV do rozporządzenia Rady (WE) nr 479/2008 z dnia 29 kwietnia 2008 r. w sprawie wspólnej organizacji rynku wina, zmieniającego rozporządzenia (WE) nr 1493/1999, (WE) nr 1782/2003, (WE) nr 1290/2005 i (WE) nr 3/2008 oraz uchylającego rozporządzenia (EWG) nr 2392/86 i (WE) nr 1493/1999 W zakresie od 100 ml do 1500 ml wyłącznie 7 następujących nominalnych ilości: 100 200 375 500 750 1000 1500 (kod CN 2204 21–2204 29) 1 2 3 4 5 Wino aromatyzowane Wino aromatyzowane zdefiniowane w art. 2 ust. 1 lit. a rozporządzenia Rady (EWG) nr 1601/91 z dnia 10 czerwca 1991 r. ustanawiającego ogólne zasady definicji, opisu i prezentacji win aromatyzowanych, aromatyzowanych napojów winopochodnych i aromatyzowanych koktajli winopodobnych W zakresie od 100 ml do 1500 ml wyłącznie 7 następujących nominalnych ilości: 100 200 375 500 750 1000 (kod CN 2205) 1500 6 Napoje spirytusowe Napoje spirytusowe zdefiniowane w art. 2 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 110/2008 z dnia 15 stycznia 2008 r. w sprawie definicji, opisu, prezentacji, etykietowania i ochrony oznaczeń geograficznych napojów spirytusowych oraz uchylające rozporządzenie Rady (EWG) nr 1576/89 W zakresie od 100 ml do 2000 ml wyłącznie 9 następujących nominalnych ilości: 100 200 350 500 700 1000 (kod CN 2208) 1500 1750 2000 OPIS METODY REFERENCYJNEJ KONTROLI TOWARÓW PACZKOWANYCH WRAZ Z WYMAGANIAMI METROLOGICZNYMI DOTYCZĄCYMI ILOŚCI RZECZYWISTEJ TOWARÓW PACZKOWANYCH Dopuszczalne błędy ilości rzeczywistej towaru paczkowanego § 1. 1. Partia towarów paczkowanych powinna spełniać jednocześnie następujące wymagania metrologiczne dotyczące:
+**Art. 44.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia . Załączniki do ustawy z dnia 7 maja 2009 r. (Dz. U. z 2022 r. poz.
+
+## Załącznik nr 3 — Wymiary podane na rysunku są wartością względną; są one funkcją średnicy okręgu opisanego na małej literze „e”.
+
+## Załącznik nr 4
+
+1. Butelki miarowe powinny charakteryzować się następującymi pojemnościami, które powinny być zawsze określane w temperaturze 20°C:
+a) pojemność nominalna 𝑉 jest pojemnością oznaczoną na butelce i stanowi objętość cieczy, którą powinna zawierać butelka napełniona w warunkach, w jakich jest wykorzystywana w celu, do którego jest przeznaczona,
+b) pojemność brzegowa butelki jest objętością cieczy, jaką w rzeczywistości zawiera butelka napełniona do brzegu,
+c) pojemność rzeczywista butelki jest objętością cieczy, którą ona rzeczywiście zawiera, jeżeli jest dokładnie napełniona zgodnie z warunkami odpowiadającymi teoretycznie pojemności nominalnej.
+2. Dopuszcza się stosowanie dwóch metod napełniania butelek miarowych:
+a) do stałego poziomu,
+b) do stałej pustej przestrzeni w butelce.
+Odległość pomiędzy teoretycznym poziomem napełnienia w przypadku pojemności nominalnej a poziomem brzegowym oraz różnica pomiędzy pojemnością brzegową a pojemnością nominalną, zwana „pojemnością rozszerzenia lub pustą przestrzenią w butelce”, powinny być jednakowe dla wszystkich butelek wykonanych według tego samego projektu (tego samego typu).
+3. W celu umożliwienia zmierzenia pojemności butelki miarowej z wystarczającą dokładnością, mając na uwadze pewne zwykle występujące niepewności, jakie mogą się pojawić przy napełnianiu, a w szczególności z dokładnością wymaganą na podstawie przepisów ustawy, maksymalnie dopuszczalne błędy (dodatni i ujemny) w pojemności butelek miarowych, tzn.
+największe dopuszczalne różnice (dodatnie i ujemne) w temperaturze 20°C oraz w warunkach kontrolnych określonych w opisie metody referencyjnej, pomiędzy pojemnością rzeczywistą a nominalną 𝑉 , powinny być zgodne z poniższą tabelą: Maksymalny dopuszczalny błąd w pojemności brzegowej powinien być identyczny z maksymalnym dopuszczalnym błędem dla odpowiadającej jej pojemności nominalnej.
+Tolerancja powinna być liczona zawsze od ustalonej wartości nominalnej.
+Systematyczne wykorzystywanie granic błędu jest zabronione.
+4. Pojemność rzeczywistą butelki miarowej należy sprawdzać przez określenie ilości wody o temperaturze 20°C, jaką butelka faktycznie zawiera, kiedy została napełniona do poziomu odpowiadającego teoretycznie pojemności nominalnej.
+Pojemność rzeczywistą można również sprawdzić pośrednio przy pomocy metody o ekwiwalentnej dokładności.
+5. Błąd pomiaru podczas wyznaczania pojemności rzeczywistej butelki miarowej nie powinien przekraczać 20% maksymalnego dopuszczalnego błędu określonego w tabeli w ust. 3.
+
+## Załącznik nr 5 — Załącznik nr 6 A. Metoda pobierania próbek
+
+1. Próbka butelek miarowych tego samego wzoru oraz tej samej produkcji powinna być pobrana w losowy sposób z partii odpowiadającej w zasadzie godzinowej produkcji.
+2. Jeżeli wynik pierwszej kontroli przeprowadzonej na partii odpowiadającej godzinowej produkcji jest niezadowalający, można przeprowadzić drugą kontrolę, opartą na innej próbce pobranej z partii odpowiadającej dłuższemu okresowi produkcji albo w oparciu o wyniki zanotowane na kartach kontroli wewnętrznej producenta.
+3. Liczba butelek miarowych stanowiących próbkę powinna wynosić 35 lub 40 w zależności od tego, która z dwóch metod stosowania wyników określonych w punkcie C została wybrana przez producenta butelek miarowych lub właściwe terytorialne organy administracji miar.
+B. Pomiar pojemności butelek miarowych stanowiących próbkę
+1. Błąd pomiaru pojemności nie powinien przekraczać jednej piątej dopuszczalnego błędu granicznego odpowiadającego nominalnej pojemności butelki miarowej.
+2. Butelki miarowe należy najpierw zważyć w stanie pustym.
+3. Następnie należy napełnić je wodą o temperaturze 20°C i znanej gęstości do poziomu napełnienia odpowiedniego dla zastosowanej metody kontroli.
+4. Następnie butelki należy zważyć w stanie napełnionym.
+5. Pomiary muszą być przeprowadzone za pomocą przyrządu pomiarowego, odpowiedniego do dokonania niezbędnych czynności:
+1) wprowadzonego do obrotu lub użytkowania na podstawie odrębnych przepisów dotyczących oceny zgodności albo prawnej kontroli metrologicznej, albo
+2) wywzorcowanego przez organy administracji miar albo laboratoria akredytowane, jeżeli nie podlega on przepisom, o których mowa w pkt 1.
+C. Opracowanie wyników pomiarów C1. Metoda odchylenia standardowego Liczba butelek miarowych w próbce wynosi 35.
+1) Obliczyć średnią 𝑥 pojemności rzeczywistych butelek znajdujących się w próbce 𝑥 wg wzoru:
+2) Obliczyć odchylenie standardowe s rzeczywistych pojemności 𝑥 butelek znajdujących się w partii wg wzoru:
+3) Partia powinna zostać uznana za zgodną z wymogami ustawy, jeżeli wartości 𝑥 i 𝑠 równocześnie spełniają trzy następujące nierówności: gdzie: 𝑘 = 1,57 𝐹 = 0,266 𝑇 = 𝑉 +𝐸 𝑇 = 𝑉 −𝐸 𝑉 – wartość pojemności nominalnej oznaczona na butelce miarowej zgodnie z art. 23 ust. 1 pkt 1 lit. a ustawy 𝐸 – wartość błędu granicznego dopuszczalnego odpowiadająca pojemności nominalnej 𝑉 wyznaczona zgodnie z tabelą określoną w załączniku nr 4 do ustawy C2. Metoda średniego zakresu Liczba butelek miarowych w próbce wynosi 40.
+1) Obliczyć średnią 𝑥 pojemności rzeczywistych butelek znajdujących się w próbce 𝑥 wg wzoru:
+2) Obliczyć średni zakres 𝑅 rzeczywistych pojemności 𝑥 butelek znajdujących się w próbce.
+W tym celu należy podzielić próbkę zgodnie z kolejnością wykonywania pomiarów pojemności rzeczywistej na osiem małych próbek składających się z pięciu butelek miarowych każda i przeprowadzić następujące obliczenia:
+a) obliczyć zakres 𝑅 każdej z małych próbek, to znaczy różnicę między rzeczywistymi pojemnościami największej i najmniejszej butelki wchodzącej w skład tej próbki;
+b) obliczyć sumę zakresów ośmiu mniejszych próbek
+c) obliczyć średni zakres
+3) Partia powinna zostać uznana za zgodną z przepisami ustawy, jeżeli wartości 𝑥 i 𝑅 spełniają równocześnie następujące trzy nierówności: gdzie: 𝑘′ = 0,668 𝐹′ = 0,628 𝑇 = 𝑉 +𝐸 𝑇 = 𝑉 −𝐸 𝑉 – wartość pojemności nominalnej oznaczona na butelce miarowej zgodnie z art. 23 ust. 1 pkt 1 lit. a ustawy, 𝐸 – wartość błędu granicznego dopuszczalnego odpowiadająca pojemności nominalnej 𝑉 wyznaczona zgodnie z tabelą określoną w załączniku nr 4 do ustawy.
 

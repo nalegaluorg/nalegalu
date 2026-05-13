@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 31 marca 2023 r.
+# w sprawie ogłoszenia jednolitego tekstu ustawy o bezpieczeństwie imprez masowych
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 9 lutego 2023 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000616) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/616/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 9 lutego 2023 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o bezpieczeństwie imprez masowych
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 20 marca 2009 r. o bezpieczeństwie imprez masowych (Dz. U. z 2022 r. poz. 1466), z uwzględnieniem zmian wprowadzonych ustawą z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700) oraz zmian wynikających z przepisów ogłoszonych przed dniem 8 lutego 2023 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 409 i art. 417 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700), które stanowią: „Art. 409. Do orzeczeń zobowiązujących do powstrzymania się od przebywania w miejscach przeprowadzania imprez masowych wydanych przed dniem wejścia w życie niniejszej ustawy wobec nieletniego na podstawie art. 6 pkt 2 ustawy uchylanej w art. 416 stosuje się przepisy ustawy zmienianej w art. 384 w brzmieniu dotychczasowym.” „Art. 417. Ustawa wchodzi w życie z dniem 1 września 2022 r., z wyjątkiem art. 135 ust. 1 i 2, art. 186 ust. 1 i 2, art. 243 ust. 1, art. 321, art. 324–338 w zakresie okręgowych ośrodków wychowawczych, art. 340 w zakresie okręgowych ośrodków wychowawczych, art. 341 w zakresie okręgowych ośrodków wychowawczych, art. 343, art. 348 w zakresie okręgowych ośrodków wychowawczych, art. 361, art. 363, art. 385 pkt 1 i 2, art. 389 pkt 1 i 3–7, art. 393, art. 400, art. 401 ust. 2 i art. 415 pkt 4, które wchodzą w życie z dniem następującym po dniu ogłoszenia.”.
 Marszałek Sejmu: E. Witek

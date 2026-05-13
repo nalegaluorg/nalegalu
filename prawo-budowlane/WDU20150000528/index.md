@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 15 kwietnia 2015 r.
+# o zmianie ustawy – Prawo budowlane oraz niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,15 +24,11 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000528) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/528/text.pdf) |
 
-Poz. 528
-USTAWA z dnia 20 marca 2015 r.
-o zmianie ustawy – Prawo budowlane oraz niektórych innych ustaw
+**Art. 1.** W ustawie dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. 2013 r. poz. 1409, późn. zm. ) w art. 29 w ust. 1 pkt 4 otrzymuje brzmienie: „4) altan działkowych i obiektów gospodarczych, o których mowa w ustawie dnia 13 grudnia 2013 r. o rodzinnych ogrodach działkowych (Dz. U. 2014 r. poz. 40);”.
 
-**Art. 1.** W ustawie z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2013 r. poz. 1409, z późn. zm. ) w art. 29 w ust. 1 pkt 4 otrzymuje brzmienie: „4) altan działkowych i obiektów gospodarczych, o których mowa w ustawie z dnia 13 grudnia 2013 r. o rodzinnych ogrodach działkowych (Dz. U. z 2014 r. poz. 40);”.
+**Art. 2.** W ustawie dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. 2014 r. poz. 849) w art. 7 w ust. 1 pkt 12 otrzymuje brzmienie: „12) położone na terenie rodzinnego ogrodu działkowego: grunty, altany działkowe i obiekty gospodarcze o powierzchni zabudowy do 35 m oraz budynki stanowiące infrastrukturę ogrodową, w rozumieniu ustawy dnia 13 grudnia 2013 r. o rodzinnych ogrodach działkowych (Dz. U. 2014 r. poz. 40), wyjątkiem zajętych na prowadzenie działalności gospodarczej;”.
 
-**Art. 2.** W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z 2014 r. poz. 849) w art. 7 w ust. 1 pkt 12 otrzymuje brzmienie: „12) położone na terenie rodzinnego ogrodu działkowego: grunty, altany działkowe i obiekty gospodarcze o powierzchni zabudowy do 35 m oraz budynki stanowiące infrastrukturę ogrodową, w rozumieniu ustawy z dnia 13 grudnia 2013 r. o rodzinnych ogrodach działkowych (Dz. U. z 2014 r. poz. 40), z wyjątkiem zajętych na prowadzenie działalności gospodarczej;”.
-
-**Art. 3.** W ustawie z dnia 13 grudnia 2013 r. o rodzinnych ogrodach działkowych (Dz. U. z 2014 r. poz. 40) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie dnia 13 grudnia 2013 r. o rodzinnych ogrodach działkowych (Dz. U. 2014 r. poz. 40) wprowadza się następujące zmiany:
 
 **Art. 4.**
 

@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 25 lipca 2023 r.
+# zmieniająca ustawę o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych oraz niektórych innych ustaw oraz ustawę o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne
+
+*USTAWA z dnia 16 czerwca 2023 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +25,6 @@ domain: null
 | Data wydania | 2023-07-25 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001414) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1414/text.pdf) |
-
-Poz. 1414
-USTAWA z dnia 16 czerwca 2023 r.
-zmieniająca ustawę o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych oraz niektórych innych ustaw oraz ustawę o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne
 
 **Art. 1.** W ustawie z dnia 29 października 2021 r. o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych oraz niektórych innych ustaw (Dz. U. poz. 2105, z późn. zm. ) wprowadza się następujące zmiany:
 

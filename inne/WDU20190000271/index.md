@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 12 lutego 2019 r.
+# o zmianie ustawy o Radzie Ministrów oraz niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +23,6 @@ domain: null
 | Data wydania | 2019-02-12 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000271) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/271/text.pdf) |
-
-Poz. 271
-USTAWA z dnia 31 stycznia 2019 r.
-o zmianie ustawy o Radzie Ministrów oraz niektórych innych ustaw
 
 **Art. 1.** W ustawie z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2012 r. poz. 392, z 2015 r. poz. 1064 oraz z 2018 r. poz. 1669) po art. 31 dodaje się art. 31a w brzmieniu: „Art. 31a. Prezes Rady Ministrów w szczególnie uzasadnionych przypadkach, w tym za wybitne osiągnięcia naukowe, sportowe lub z zakresu kultury i ochrony dziedzictwa narodowego, może, po zasięgnięciu opinii właściwego ministra, przyznać osobie fizycznej, z rezerwy ogólnej budżetu państwa, nagrodę specjalną Prezesa Rady Ministrów.”.
 

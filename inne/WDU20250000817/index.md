@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 24 czerwca 2025 r.
+# w sprawie ogłoszenia jednolitego tekstu ustawy o Agencji Mienia Wojskowego
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 13 czerwca 2025 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2025-06-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000817) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/817/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 13 czerwca 2025 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o Agencji Mienia Wojskowego
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego (Dz. U. z 2024 r. poz. 98), z uwzględnieniem zmian wprowadzonych:
 1) ustawą z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U. poz. 1907),
 2) ustawą z dnia 4 kwietnia 2025 r. o zmianie ustawy o Agencji Mienia Wojskowego (Dz. U. poz. 603) oraz zmian wynikających z przepisów ogłoszonych przed dniem 11 czerwca 2025 r.

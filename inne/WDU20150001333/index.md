@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 8 września 2015 r.
+# o zmianie ustawy o rachunkowości oraz niektórych innych ustaw
+
+*USTAWA z dnia 23 lipca 2015 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,9 +26,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001333) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1333/text.pdf) |
 
-USTAWA z dnia 23 lipca 2015 r.
-o zmianie ustawy o rachunkowości oraz niektórych innych ustaw
-
 **Art. 1.** W ustawie z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2013 r. poz. 330, z późn. zm. ) wprowadza się następujące zmiany:
 
 **Art. 63e.** Ilekroć w rozdziale jest mowa o:
@@ -37,21 +36,21 @@ o zmianie ustawy o rachunkowości oraz niektórych innych ustaw
 
 - **1)** jednostką, o której mowa w art. 3 ust. 1e pkt 1–6, będącą spółką kapitałową, spółką komandytowo-akcyjną lub taką spółką jawną lub komandytową, której wszystkimi wspólnikami ponoszącymi nieograniczoną odpowiedzialność są spółki kapitałowe, spółki komandytowo-akcyjne lub spółki z innych państw o podobnej do tych spółek formie prawnej, lub
 - **2)** spółką kapitałową, spółką komandytowo-akcyjną lub taką spółką jawną lub komandytową, której wszystkimi wspólnikami ponoszącymi nieograniczoną odpowiedzialność są spółki kapitałowe, spółki komandytowo-akcyjne lub spółki z innych państw o podobnej do tych spółek formie prawnej, pod warunkiem że w roku obrotowym, za który sporządza sprawozdanie finansowe, oraz w roku poprzedzającym ten rok przekracza co najmniej dwie z następujących trzech wielkości:
-    - **a)** 85 000 000 zł w przypadku sumy aktywów bilansu na koniec roku obrotowego,
-    - **b)** 170 000 000 zł w przypadku przychodów netto ze sprzedaży towarów i produktów za rok obrotowy,
-    - **c)** 250 osób w przypadku średniorocznego zatrudnienia w przeliczeniu na pełne etaty oraz jeżeli pojedyncza płatność lub suma płatności powiązanych dokonanych przez tę jednostkę stanowiła w roku obrotowym co najmniej równowartość kwoty 424 700 zł.
+    - **a)** 85 000 000 zł – w przypadku sumy aktywów bilansu na koniec roku obrotowego,
+    - **b)** 170 000 000 zł – w przypadku przychodów netto ze sprzedaży towarów i produktów za rok obrotowy,
+    - **c)** 250 osób – w przypadku średniorocznego zatrudnienia w przeliczeniu na pełne etaty – oraz jeżeli pojedyncza płatność lub suma płatności powiązanych dokonanych przez tę jednostkę stanowiła w roku obrotowym co najmniej równowartość kwoty 424 700 zł.
 
 2. W sprawozdaniu z płatności wykazuje się, w odniesieniu do danego roku obrotowego, następujące informacje:
 
 - **1)** łączną kwotę płatności dokonanych na rzecz administracji publicznej danego państwa, z podziałem na płatności na rzecz odpowiednich szczebli administracji publicznej;
 - **2)** łączną kwotę płatności z podziałem na tytuły wskazane w art. 63e pkt 6 dokonanych na rzecz odpowiedniego szczebla administracji publicznej danego państwa;
-- **3)** w przypadku gdy płatności zostały przypisane przez jednostkę do określonego projektu łączną kwotę dokonanych płatności z tytułu poszczególnych projektów wraz z podziałem na tytuły płatności wskazane w art. 63e pkt 6.
+- **3)** w przypadku gdy płatności zostały przypisane przez jednostkę do określonego projektu – łączną kwotę dokonanych płatności z tytułu poszczególnych projektów wraz z podziałem na tytuły płatności wskazane w art. 63e pkt 6.
 
 3. Przepis ust. 2 pkt 3 nie dotyczy płatności dokonywanych przez jednostkę w związku z wymogami nałożonymi na poziomie tej jednostki. W tym przypadku płatności te mogą być prezentowane na poziomie jednostki, a nie na poziomie projektu.
 
 4. W sprawozdaniu z płatności można nie uwzględniać pojedynczych płatności lub sum płatności powiązanych, niższych od wskazanej w ust. 1 wartości. Płatności lub rodzaje działalności nie mogą być sztucznie dzielone lub agregowane w celu uniknięcia ich wykazywania w sprawozdaniu z płatności.
 
-5. W przypadku dokonywania płatności w naturze, w sprawozdaniu z płatności wykazuje się ich wartość, jeżeli to możliwe także w jednostkach naturalnych, wraz z podaniem sposobu jej ustalenia.
+5. W przypadku dokonywania płatności w naturze, w sprawozdaniu z płatności wykazuje się ich wartość, jeżeli to możliwe – także w jednostkach naturalnych, wraz z podaniem sposobu jej ustalenia.
 
 **Art. 63g.**
 
@@ -61,11 +60,7 @@ o zmianie ustawy o rachunkowości oraz niektórych innych ustaw
 
 3. Skonsolidowane sprawozdanie z płatności obejmuje dane jednostki dominującej i jednostek wszystkich szczebli zależnych od niej. Skonsolidowane sprawozdanie z płatności może nie obejmować danych jednostki, która nie została objęta konsolidacją na podstawie art. 57.
 
-4. Do skonsolidowanego sprawozdania z płatności stosuje się odpowiednio przepisy art. 63c ust. 2 i 3.
-
-**Art. 63h.**
-
-1. Jednostka, o której mowa w art. 63f ust. 1, będąca jednostką zależną, może nie sporządzać sprawozdania z płatności, jeżeli jej jednostka dominująca mająca siedzibę lub miejsce sprawowania zarządu na terytorium Europejskiego Obszaru Gospodarczego sporządza skonsolidowane sprawozdanie z płatności zgodnie z przepisami prawa państwa Europejskiego Obszaru Gospodarczego, któremu podlega, a płatności dokonane przez tę jednostkę zależną na rzecz administracji publicznej są uwzględnione w tym skonsolidowanym sprawozdaniu z płatności.
+4. Do skonsolidowanego sprawozdania z płatności stosuje się odpowiednio przepisy art. 63c ust. 2 i 3. wozdania z płatności, jeżeli jej jednostka dominująca mająca siedzibę lub miejsce sprawowania zarządu na terytorium Europejskiego Obszaru Gospodarczego sporządza skonsolidowane sprawozdanie z płatności zgodnie z przepisami prawa państwa Europejskiego Obszaru Gospodarczego, któremu podlega, a płatności dokonane przez tę jednostkę zależną na rzecz administracji publicznej są uwzględnione w tym skonsolidowanym sprawozdaniu z płatności.
 
 2. Jednostka dominująca może nie sporządzać sprawozdania z płatności, jeżeli sporządza ona skonsolidowane sprawozdanie z płatności zgodnie z zasadami określonymi w art. 63g, a płatności dokonane przez tę jednostkę dominującą na rzecz administracji publicznej są uwzględnione w tym skonsolidowanym sprawozdaniu z płatności.
 
@@ -75,11 +70,9 @@ o zmianie ustawy o rachunkowości oraz niektórych innych ustaw
 
 **Art. 63j.** Do sprawozdania z płatności i skonsolidowanego sprawozdania z płatności stosuje się odpowiednio przepisy art. 52 ust. 1 i 2, z tym że nie podpisuje ich osoba, której powierzono prowadzenie ksiąg rachunkowych.”;
 
-**Art. 2.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2012 r. poz. 361, z późn. zm. ) w art. 24a ust. 6 otrzymuje brzmienie: „6. Wyrażone w euro wielkości, o których mowa w ust. 4 i 5, przelicza się na walutę polską według średniego kursu euro ogłaszanego przez Narodowy Bank Polski na pierwszy dzień roboczy października roku poprzedzającego rok podatkowy.”.
+**Art. 2.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2012 r. poz. 361, z późn. zm. ) w art. 24a ust. 6 otrzymuje brzmienie: „6. Wyrażone w euro wielkości, o których mowa w ust. 4 i 5, przelicza się na walutę polską według średniego kursu euro ogłaszanego przez Narodowy Bank Polski na pierwszy dzień roboczy października roku poprzedzającego rok podatkowy.”. osiąganych przez osoby fizyczne (Dz. U. Nr 144, poz. 930, z późn. zm. ) w art. 4 ust. 2 otrzymuje brzmienie: „2. Kwoty wyrażone w euro przelicza się na walutę polską według średniego kursu euro ogłaszanego przez Narodowy Bank Polski na pierwszy dzień roboczy października roku poprzedzającego rok podatkowy.”.
 
-**Art. 3.** W ustawie z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. Nr 144, poz. 930, z późn. zm. ) w art. 4 ust. 2 otrzymuje brzmienie: „2. Kwoty wyrażone w euro przelicza się na walutę polską według średniego kursu euro ogłaszanego przez Narodowy Bank Polski na pierwszy dzień roboczy października roku poprzedzającego rok podatkowy.”.
-
-**Art. 4.** W ustawie z dnia 15 września 2000 r. Kodeks spółek handlowych (Dz. U. z 2013 r. poz. 1030, z późn. zm. ) wprowadza się następujące zmiany:
+**Art. 4.** W ustawie z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2013 r. poz. 1030, z późn. zm. ) wprowadza się następujące zmiany:
 
 **Art. 5.** W ustawie z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2014 r. poz. 1118, z późn. zm. ) po art. 10 dodaje się art. 10a w brzmieniu: „Art. 10a. 1. Organizacje pozarządowe, z wyłączeniem spółek kapitałowych, oraz podmioty wymienione w art. 3 ust. 3 pkt 2 prowadzą uproszczoną ewidencję przychodów i kosztów, w przypadku gdy:
 

@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 8 grudnia 2016 r.
+# o zmianie ustawy – Prawo energetyczne oraz niektórych innych ustaw
+
+*USTAWA z dnia 30 listopada 2016 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,24 +26,21 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001986) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1986/text.pdf) |
 
-USTAWA z dnia 30 listopada 2016 r.
-o zmianie ustawy Prawo energetyczne oraz niektórych innych ustaw
-
-**Art. 1.** W ustawie z dnia 10 kwietnia 1997 r. Prawo energetyczne (Dz. U. z 2012 r. poz. 1059, z późn. zm. ) wprowadza si ę nast ę puj ą ce zmiany:
+**Art. 1.** W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2012 r. poz. 1059, z późn. zm. ) wprowadza się następujące zmiany:
 
 **Art. 2.** W ustawie z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych (Dz. U. z 2015 r. poz. 775 oraz z 2016 r. poz. 266, 1165 i 1948) wprowadza się następujące zmiany:
 
-**Art. 3.** W ustawie z dnia 16 lutego 2007 r. o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym (Dz. U. z 2014 r. poz. 1695 oraz z 2016 r. poz. 266, 352, 1052 i 1165) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 16 lutego 2007 r. o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym (Dz. U. z 2014 r. poz. 1695 oraz z 2016 r. poz. 266, 352, 1052 i 1165) wprowadza się następujące zmiany:
 
-**Art. 4.** W ustawie z dnia 22 lipca 2016 r. o zmianie ustawy Prawo energetyczne oraz niektórych innych ustaw (Dz. U. poz. 1165) wprowadza się następujące zmiany:
+**Art. 4.** W ustawie z dnia 22 lipca 2016 r. o zmianie ustawy – Prawo energetyczne oraz niektórych innych ustaw (Dz. U. poz. 1165) wprowadza się następujące zmiany:
 
-**Art. 5.** W ustawie z dnia 22 lipca 2016 r. o zmianie ustawy o minimalnym wynagrodzeniu za pracę oraz niektórych innych ustaw (Dz. U. poz. 1265) 6 pkt 1 otrzymuje brzmienie: „1) 10 1 po pkt 15a dodaje się pkt 15b brzmieniu: „15b) kontrola wypłacania wynagrodzenia wysokości wynikającej z wysokości minimalnej stawki godzinowej, zgodnie z przepisami ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2015 r. poz. 2008);”;”.
+**Art. 5.** W ustawie z dnia 22 lipca 2016 r. o zmianie ustawy o minimalnym wynagrodzeniu za pracę oraz niektórych innych ustaw (Dz. U. poz. 1265) w art. 6 pkt 1 otrzymuje brzmienie: „1) w art. 10 w ust. 1 po pkt 15a dodaje się pkt 15b w brzmieniu: „15b) kontrola wypłacania wynagrodzenia w wysokości wynikającej z wysokości minimalnej stawki godzinowej, zgodnie z przepisami ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2015 r. poz. 2008);”;”.
 
-**Art. 6.** Postępowania sprawie zatwierdzenia lub zwolnienia z obowiązku zatwierdzenia taryf dla paliw gazowych, ustalanych dla odbiorców, którzy dokonują zakupu paliw gazowych:
+**Art. 6.** Postępowania w sprawie zatwierdzenia lub zwolnienia z obowiązku zatwierdzenia taryf dla paliw gazowych, ustalanych dla odbiorców, którzy dokonują zakupu paliw gazowych:
 
 **Art. 7.** Na lata 2017–2020 ustala się następującą wysokość Narodowych Celów Wskaźnikowych:
 
-**Art. 8.** Rada Ministrów po raz pierwszy określi Narodowe Cele Wskaźnikowe na podstawie 24 1 ustawy zmienianej 2, brzmieniu nadanym niniejszą ustawą, terminie do dnia 15 czerwca 2019 r.
+**Art. 8.** Rada Ministrów po raz pierwszy określi Narodowe Cele Wskaźnikowe na podstawie art. 24 ust. 1 ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, w terminie do dnia 15 czerwca 2019 r.
 
-**Art. 9.** Ustawa wchodzi życie z dniem 1 stycznia 2017 r., z wyjątkiem:
+**Art. 9.** Ustawa wchodzi w życie z dniem 1 stycznia 2017 r., z wyjątkiem:
 

@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 22 września 2023 OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ dnia 2 sierpnia 2023 sprawie ogłoszenia jednolitego tekstu ustawy o stosunku Państwa do Kościoła Katolickiego Rzeczypospolitej Polskiej
+# 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy dnia 20 lipca 2000 o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. 2019 poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy dnia 17 maja 1989 o stosunku Państwa do Kościoła Katolickiego Rzeczypospolitej Polskiej (Dz. U.
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ dnia 2 sierpnia 2023 sprawie ogłoszenia jednolitego tekstu ustawy o stosunku Państwa do Kościoła Katolickiego Rzeczypospolitej Polskiej*
 
 | Pole | Wartość |
 |---|---|
@@ -24,7 +26,6 @@ domain: null
 | Ostatnia zmiana | 2024-10-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001966) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1966/text.pdf) |
 
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy dnia 20 lipca 2000 o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. 2019 poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy dnia 17 maja 1989 o stosunku Państwa do Kościoła Katolickiego Rzeczypospolitej Polskiej (Dz. U.
 2019 poz. 1347), uwzględnieniem zmiany wprowadzonej ustawą dnia 9 czerwca 2022 o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700) oraz zmian wynikających przepisów ogłoszonych przed dniem 27 lipca 2023
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 417 ustawy dnia 9 czerwca 2022 o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700), który stanowi: „Art. 417. Ustawa wchodzi życie dniem 1 września 2022 r., wyjątkiem art. 135 ust. 1 i 2, art. 186 ust. 1 i 2, art. 243 ust. 1, art. 321, art. 324–338 zakresie okręgowych ośrodków wychowawczych, art. 340 zakresie okręgowych ośrodków wychowawczych, art. 341 zakresie okręgowych ośrodków wychowawczych, art. 343, art. 348 zakresie okręgowych ośrodków wychowawczych, art. 361, art. 363, art. 385 pkt 1 i 2, art. 389 pkt 1 i 3–7, art. 393, art. 400, art. 401 ust. 2 i art. 415 pkt 4, które wchodzą życie dniem następującym po dniu ogłoszenia.”.
 Marszałek Sejmu: E. Witek

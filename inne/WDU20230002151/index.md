@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 6 października 2023 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy o wychowaniu trzeźwości i przeciwdziałaniu alkoholizmowi
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 4 września 2023 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002151) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2151/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 4 września 2023 r.
-sprawie ogłoszenia jednolitego tekstu ustawy o wychowaniu trzeźwości i przeciwdziałaniu alkoholizmowi
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 26 października 1982 r. o wychowaniu trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U.
 z 2023 r. poz. 165), z uwzględnieniem zmian wprowadzonych:
 1) ustawą z dnia 1 grudnia 2022 r. o zmianie ustawy Kodeks pracy oraz niektórych innych ustaw (Dz. U. z 2023 r.
@@ -75,7 +75,7 @@ o wychowaniu trzeźwości i przeciwdziałaniu alkoholizmowi Uznając życie obyw
 1. Użyte ustawie określenia oznaczają:
 
 - **1)** najbliższa okolica punktu sprzedaży napojów alkoholowych obszar mierzony od granicy obiektu, zamknięty trwałą przeszkodą o charakterze faktycznym, taką jak krawędź jezdni, zabudowa, która ze względu na swój charakter uniemożliwia dostęp oraz kontakt wzrokowy i głosowy, mur bez przejść oraz ciek wodny bez bliskich przepraw;
-- **2)** promocja napojów alkoholowych publiczną degustację napojów alkoholowych, rozdawanie rekwizytów związanych z napojami alkoholowymi, organizowanie premiowanej sprzedaży napojów alkoholowych, a także inne formy publicznego zachęcania do nabywania napojów alkoholowych; boli graficznych z nimi związanych, a także nazw i symboli graficznych przedsiębiorców produkujących napoje alkoholowe, nieróżniących się od nazw i symboli graficznych napojów alkoholowych, służące popularyzowaniu znaków towarowych napojów alkoholowych; za reklamę nie uważa się informacji używanych do celów handlowych pomiędzy przedsiębiorcami zajmującymi się produkcją, obrotem hurtowym i handlem napojami alkoholowymi;
+- **2)** promocja napojów alkoholowych publiczną degustację napojów alkoholowych, rozdawanie rekwizytów związanych z napojami alkoholowymi, organizowanie premiowanej sprzedaży napojów alkoholowych, a także inne formy publicznego zachęcania do nabywania napojów alkoholowych; holowe, nieróżniących się od nazw i symboli graficznych napojów alkoholowych, służące popularyzowaniu znaków towarowych napojów alkoholowych; za reklamę nie uważa się informacji używanych do celów handlowych pomiędzy przedsiębiorcami zajmującymi się produkcją, obrotem hurtowym i handlem napojami alkoholowymi;
 - **4)** sponsorowanie bezpośrednie lub pośrednie finansowanie lub współfinansowanie działalności osób fizycznych, osób prawnych lub jednostek organizacyjnych nieposiadających osobowości prawnej, dla upowszechniania, utrwalania lub podniesienia renomy nazwy, producenta lub dystrybutora, znaku towarowego lub innego oznaczenia indywidualizującego przedsiębiorcę, jego działalność, towar lub usługę, zamian za informowanie o sponsorowaniu;
 - **5)** informowanie o sponsorowaniu prezentowanie informacji zawierającej nazwę sponsora lub jego znak towarowy związku ze sponsorowaniem;
 - **6)** wydzielone stoisko oddzielone od pozostałej powierzchni punktu sprzedaży, ciąg handlowy lub lada;
@@ -112,7 +112,7 @@ o wychowaniu trzeźwości i przeciwdziałaniu alkoholizmowi Uznając życie obyw
 
 **Art. 3f.** (uchylony)
 
-**Art. 3g.** (uchylony) profilaktyki i rozwiązywania problemów alkoholowych oraz przeciwdziałania narkomanii, który stanowi część strategii wojewódzkiej zakresie polityki społecznej i który uwzględnia cele operacyjne dotyczące profilaktyki i rozwiązywania problemów alkoholowych oraz przeciwdziałania narkomanii, określone Narodowym Programie Zdrowia. Wojewódzki program profilaktyki i rozwiązywania problemów alkoholowych oraz przeciwdziałania narkomanii uchwala sejmik województwa. Elementem wojewódzkiego programu mogą być również zadania związane z przeciwdziałaniem uzależnieniom behawioralnym. 2. Zarząd województwa odpowiada za koordynację, przygotowanie i realizację programu, o którym mowa ust. 1, udziela pomocy merytorycznej instytucjom i osobom fizycznym, które realizują zadania objęte tym programem, oraz współdziała z innymi organami administracji publicznej zakresie rozwiązywania problemów alkoholowych oraz przeciwdziałania narkomanii. 3. Program, o którym mowa ust. 1, jest realizowany przez regionalny ośrodek polityki społecznej, o którym mowa przepisach o pomocy społecznej, lub inną jednostkę wskazaną programie. W celu realizacji programu zarząd województwa może powołać pełnomocnika. 4. Środki finansowe na prowadzenie działań, o których mowa ust. 2, ujmuje się budżecie województwa. 5. Zarząd województwa sporządza raport z wykonania danym roku programu, o którym mowa ust. 1, i efektów jego realizacji, który przedkłada sejmikowi województwa terminie do dnia 31 marca roku następującego po roku, którego dotyczy raport. 6. Zarząd województwa na podstawie opracowanej przez Centrum ankiety sporządza informację z realizacji działań podejmowanych danym roku, wynikających z programu, o którym mowa ust. 1, i przesyła ją do Centrum terminie do dnia 15 kwietnia roku następującego po roku, którego dotyczy informacja.
+**Art. 3g.** (uchylony) wojewódzkiej zakresie polityki społecznej i który uwzględnia cele operacyjne dotyczące profilaktyki i rozwiązywania problemów alkoholowych oraz przeciwdziałania narkomanii, określone Narodowym Programie Zdrowia. Wojewódzki program profilaktyki i rozwiązywania problemów alkoholowych oraz przeciwdziałania narkomanii uchwala sejmik województwa. Elementem wojewódzkiego programu mogą być również zadania związane z przeciwdziałaniem uzależnieniom behawioralnym. 2. Zarząd województwa odpowiada za koordynację, przygotowanie i realizację programu, o którym mowa ust. 1, udziela pomocy merytorycznej instytucjom i osobom fizycznym, które realizują zadania objęte tym programem, oraz współdziała z innymi organami administracji publicznej zakresie rozwiązywania problemów alkoholowych oraz przeciwdziałania narkomanii. 3. Program, o którym mowa ust. 1, jest realizowany przez regionalny ośrodek polityki społecznej, o którym mowa przepisach o pomocy społecznej, lub inną jednostkę wskazaną programie. W celu realizacji programu zarząd województwa może powołać pełnomocnika. 4. Środki finansowe na prowadzenie działań, o których mowa ust. 2, ujmuje się budżecie województwa. 5. Zarząd województwa sporządza raport z wykonania danym roku programu, o którym mowa ust. 1, i efektów jego realizacji, który przedkłada sejmikowi województwa terminie do dnia 31 marca roku następującego po roku, którego dotyczy raport. 6. Zarząd województwa na podstawie opracowanej przez Centrum ankiety sporządza informację z realizacji działań podejmowanych danym roku, wynikających z programu, o którym mowa ust. 1, i przesyła ją do Centrum terminie do dnia 15 kwietnia roku następującego po roku, którego dotyczy informacja.
 
 **Art. 4¹.**
 
@@ -132,7 +132,7 @@ o wychowaniu trzeźwości i przeciwdziałaniu alkoholizmowi Uznając życie obyw
 
 2b. Wójt (burmistrz, prezydent miasta) sporządza raport z wykonania danym roku gminnego programu profilaktyki i rozwiązywania problemów alkoholowych oraz przeciwdziałania narkomanii i efektów jego realizacji, który przedkłada radzie gminy terminie do dnia 30 czerwca roku następującego po roku, którego dotyczy raport.
 
-2c. Wójt (burmistrz, prezydent miasta) sporządza na podstawie ankiety opracowanej przez Centrum informację z realizacji działań podejmowanych danym roku, które wynikają z gminnego programu profilaktyki i rozwiązywania problemów alkoholowych oraz przeciwdziałania narkomanii, i przesyła ją do Centrum terminie do dnia 15 kwietnia roku następującego po roku, którego dotyczy informacja. szczególności inicjujące działania zakresie określonym ust. 1 oraz podejmujące czynności zmierzające do orzeczenia o zastosowaniu wobec osoby uzależnionej od alkoholu obowiązku poddania się leczeniu zakładzie lecznictwa odwykowego.
+2c. Wójt (burmistrz, prezydent miasta) sporządza na podstawie ankiety opracowanej przez Centrum informację z realizacji działań podejmowanych danym roku, które wynikają z gminnego programu profilaktyki i rozwiązywania problemów alkoholowych oraz przeciwdziałania narkomanii, i przesyła ją do Centrum terminie do dnia 15 kwietnia roku następującego po roku, którego dotyczy informacja. o zastosowaniu wobec osoby uzależnionej od alkoholu obowiązku poddania się leczeniu zakładzie lecznictwa odwykowego.
 
 4. W skład gminnych komisji rozwiązywania problemów alkoholowych wchodzą osoby przeszkolone zakresie profilaktyki i rozwiązywania problemów alkoholowych.
 
@@ -210,7 +210,7 @@ o wychowaniu trzeźwości i przeciwdziałaniu alkoholizmowi Uznając życie obyw
 
 6a. Do uzyskania zezwolenia na obrót hurtowy napojami alkoholowymi nie jest obowiązany przedsiębiorca, którego zezwolenie na sprzedaż napojów alkoholowych przeznaczonych do spożycia miejscu lub poza miejscem sprzedaży wygasło z przyczyn wymienionych art. 18 ust. 12 pkt 1–4 albo związku z okolicznościami, o których mowa art. 491, art. 528 § 1 albo art. 551 § 1, 2 i 5 ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych (Dz. U. z 2022 r. poz. 1467, z późn. zm. ), i który posiadając zezwolenie, o którym mowa art. 18 ust. 1, jednorazowo zbywa zinwentaryzowane zapasy napojów alkoholowych.
 
-7. Producent oraz przedsiębiorca, o których mowa ust. 6, jest obowiązany do składania terminie do dnia 31 stycznia zawiadomienia o ilości zbytych przez siebie napojów alkoholowych przedsiębiorcom posiadającym zezwolenie, o którym mowa art. 18 ust. 1, poprzednim roku kalendarzowym. na miejsce produkcji napojów alkoholowych objętych tym zawiadomieniem, podając:
+7. Producent oraz przedsiębiorca, o których mowa ust. 6, jest obowiązany do składania terminie do dnia 31 stycznia zawiadomienia o ilości zbytych przez siebie napojów alkoholowych przedsiębiorcom posiadającym zezwolenie, o którym mowa art. 18 ust. 1, poprzednim roku kalendarzowym.
 
 - **1)** imię i nazwisko lub firmę producenta albo przedsiębiorcy, o których mowa ust. 6;
 - **2)** siedzibę i adres oraz adres do doręczeń producenta albo przedsiębiorcy, o których mowa ust. 6;
@@ -247,7 +247,7 @@ o wychowaniu trzeźwości i przeciwdziałaniu alkoholizmowi Uznając życie obyw
 
 14. Kwotę należnej opłaty części, o której mowa ust. 11, pomniejsza się o kwotę opłaty części naliczonej od zwróconych przez przedsiębiorcę napojów alkoholowych opakowaniach jednostkowych o ilości nominalnej napoju nieprzekraczającej 300 ml.
 
-15. Obowiązek zapłaty opłaty ustalonej na podstawie ust. 11 powstaje momencie zaopatrzenia napoje alkoholowe opakowaniach jednostkowych o ilości nominalnej napoju nieprzekraczającej 300 ml. ze względu na miejsce zamieszkania albo siedzibę przedsiębiorcy posiadającego zezwolenie, o którym mowa art. 9 ust. 1 lub 2, albo zezwolenie na wyprzedaż, o którym mowa art. 9 ust. 4.
+15. Obowiązek zapłaty opłaty ustalonej na podstawie ust. 11 powstaje momencie zaopatrzenia napoje alkoholowe opakowaniach jednostkowych o ilości nominalnej napoju nieprzekraczającej 300 ml. lub 2, albo zezwolenie na wyprzedaż, o którym mowa art. 9 ust. 4.
 
 17. Przedsiębiorca posiadający zezwolenie, o którym mowa art. 9 ust. 1 lub 2, lub zezwolenie na wyprzedaż, o którym mowa art. 9 ust. 4, dokonujący zaopatrzenia napoje alkoholowe opakowaniach jednostkowych o ilości nominalnej napoju nieprzekraczającej 300 ml, jest obowiązany, odrębnie odniesieniu do każdego zezwolenia, do:
 
@@ -318,7 +318,7 @@ o wychowaniu trzeźwości i przeciwdziałaniu alkoholizmowi Uznając życie obyw
 3. Opłata części, o której mowa art. 9 ust. 11, oraz dodatkowa opłata, o której mowa art. 9 ust. 21, stanowią wysokości:
 
 - **1)** 50% dochód gmin, na terenie których jest prowadzona sprzedaż napojów alkoholowych;
-- **2)** 50% przychód Narodowego Funduszu Zdrowia. sektorowej polityki przeciwdziałania negatywnym skutkom spożywania alkoholu.
+- **2)** 50% przychód Narodowego Funduszu Zdrowia.
 
 5. Narodowy Fundusz Zdrowia przeznacza środki, o których mowa ust. 3 pkt 2, na działania o charakterze edukacyjnym i profilaktycznym oraz na świadczenia opieki zdrowotnej zakresie opieki psychiatrycznej i leczenia uzależnień oraz innych następstw zdrowotnych spożywania alkoholu, z uwzględnieniem art. 97 ust. 3h ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2022 r. poz. 2561, z późn. zm. ).
 
@@ -346,7 +346,7 @@ o wychowaniu trzeźwości i przeciwdziałaniu alkoholizmowi Uznając życie obyw
 
 - **1)** likwidacji przedsiębiorstwa lub zawiadomienia o zaprzestaniu prowadzenia obrotu hurtowego napojami alkoholowymi;
 - **2)** upływu terminu ważności zezwolenia;
-- **3)** zmiany składu osobowego wspólników spółki cywilnej. spraw gospodarki lub właściwy marszałek województwa wydaje zezwolenie z określeniem terminu na wyprzedaż posiadanych zapasów napojów alkoholowych. Termin, określony zezwoleniu na wyprzedaż, nie może być dłuższy niż 6 miesięcy od dnia wygaśnięcia zezwolenia.
+- **3)** zmiany składu osobowego wspólników spółki cywilnej. nych zapasów napojów alkoholowych. Termin, określony zezwoleniu na wyprzedaż, nie może być dłuższy niż 6 miesięcy od dnia wygaśnięcia zezwolenia.
 
 4a. Minister właściwy do spraw gospodarki określi wzór wniosku, o którym mowa ust. 4, formie dokumentu elektronicznego rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2023 r. poz. 57, 1123, 1234 i 1703).
 
@@ -591,7 +591,7 @@ o wychowaniu trzeźwości i przeciwdziałaniu alkoholizmowi Uznając życie obyw
 
 3a. Zezwolenia, o których mowa ust. 3, organ zezwalający wydaje po uzyskaniu pozytywnej opinii gminnej komisji rozwiązywania problemów alkoholowych o zgodności lokalizacji punktu sprzedaży z uchwałami rady gminy, o których mowa art. 12 ust. 1–3.
 
-3b. W przypadku gdy liczba wniosków o wydanie zezwolenia przewyższa ich maksymalną liczbę, o której mowa art. 12 ust. 1, zezwolenie pierwszej kolejności wydaje się uwzględniając kryterium jak największej odległości punktu, którym ma być prowadzona sprzedaż napojów alkoholowych od najbliższego działającego punktu sprzedaży napojów alkoholowych, liczonej najkrótszą drogą dojścia ciągiem dróg publicznych, a następnej kolejności kryterium prowadzenia przez wnioskodawcę jak najmniejszej liczby punktów sprzedaży. tek organizacyjnych resortu spraw wewnętrznych położonych poza obiektami wymienionymi art. 14 ust. 1 pkt 6 może być prowadzona jedynie za zezwoleniem, o którym mowa ust. 1, a ponadto za zgodą organów wojskowych określonych przez Ministra Obrony Narodowej lub resortu spraw wewnętrznych określonych przez ministra właściwego do spraw wewnętrznych.
+3b. W przypadku gdy liczba wniosków o wydanie zezwolenia przewyższa ich maksymalną liczbę, o której mowa art. 12 ust. 1, zezwolenie pierwszej kolejności wydaje się uwzględniając kryterium jak największej odległości punktu, którym ma być prowadzona sprzedaż napojów alkoholowych od najbliższego działającego punktu sprzedaży napojów alkoholowych, liczonej najkrótszą drogą dojścia ciągiem dróg publicznych, a następnej kolejności kryterium prowadzenia przez wnioskodawcę jak najmniejszej liczby punktów sprzedaży. być prowadzona jedynie za zezwoleniem, o którym mowa ust. 1, a ponadto za zgodą organów wojskowych określonych przez Ministra Obrony Narodowej lub resortu spraw wewnętrznych określonych przez ministra właściwego do spraw wewnętrznych.
 
 5. Wniosek o wydanie zezwolenia zawiera:
 
@@ -777,7 +777,7 @@ o wychowaniu trzeźwości i przeciwdziałaniu alkoholizmowi Uznając życie obyw
 - **4)** stopnia pokrewieństwa lub powinowactwa;
 - **5)** adresu do korespondencji lub numeru telefonu, lub adresu poczty elektronicznej.
 
-3. Członkowie gminnej komisji rozwiązywania problemów alkoholowych są obowiązani do zachowania poufności wszelkich informacji i danych, które uzyskali przy realizacji zadań związanych z procedurą zobowiązania do poddania się leczeniu odwykowemu. Obowiązek ten rozciąga się także na okres po ustaniu członkostwa gminnej komisji rozwiązywania problemów alkoholowych. odwykowemu członkowie gminnej komisji rozwiązywania problemów alkoholowych składają, formie pisemnej, wójtowi (burmistrzowi, prezydentowi miasta), oświadczenie o następującej treści: „Oświadczam, że zachowam poufność informacji i danych, które uzyskałem przy realizacji zadań związanych z procedurą zobowiązania do poddania się leczeniu odwykowemu, oraz że znane mi są przepisy o odpowiedzialności karnej za udostępnienie danych osobowych lub umożliwienie do nich dostępu osobom nieuprawnionym.”.
+3. Członkowie gminnej komisji rozwiązywania problemów alkoholowych są obowiązani do zachowania poufności wszelkich informacji i danych, które uzyskali przy realizacji zadań związanych z procedurą zobowiązania do poddania się leczeniu odwykowemu. Obowiązek ten rozciąga się także na okres po ustaniu członkostwa gminnej komisji rozwiązywania problemów alkoholowych. (burmistrzowi, prezydentowi miasta), oświadczenie o następującej treści: „Oświadczam, że zachowam poufność informacji i danych, które uzyskałem przy realizacji zadań związanych z procedurą zobowiązania do poddania się leczeniu odwykowemu, oraz że znane mi są przepisy o odpowiedzialności karnej za udostępnienie danych osobowych lub umożliwienie do nich dostępu osobom nieuprawnionym.”.
 
 **Art. 25b.** Wójt (burmistrz, prezydent miasta) jest administratorem danych, o których mowa art. 25a ust. 1 i 2, przetwarzanych przez powołaną przez niego gminną komisję rozwiązywania problemów alkoholowych.
 
@@ -861,7 +861,7 @@ o wychowaniu trzeźwości i przeciwdziałaniu alkoholizmowi Uznając życie obyw
 
 2. (uchylony)
 
-3. (uchylony) stawie zarządzenia sądu i zgodnie z jego postanowieniami.
+3. (uchylony)
 
 2. Osobie doprowadzanej odbiera się przedmioty, których użycie mogłoby spowodować samouszkodzenie albo zagrozić życiu lub zdrowiu innej osoby.
 
@@ -982,7 +982,7 @@ o wychowaniu trzeźwości i przeciwdziałaniu alkoholizmowi Uznając życie obyw
 
 - **2)** stanu zdrowia, tym o udzielonych im świadczeniach zdrowotnych;
 - **3)** nałogów;
-- **4)** sytuacji społecznej i rodzinnej. zdrowotnych, zakresie dotyczącym jej prowadzenia, udostępniania i przechowywania stosuje się odpowiednio przepisy ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2023 r. poz. 1545, 1675 i 1692), z wyłączeniem obowiązku jej prowadzenia postaci elektronicznej.
+- **4)** sytuacji społecznej i rodzinnej. ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2023 r. poz. 1545, 1675 i 1692), z wyłączeniem obowiązku jej prowadzenia postaci elektronicznej.
 
 4. Dokumentacja określona ust. 3 przypadku likwidacji izby wytrzeźwień lub placówki jest przechowywana przez jednostkę samorządu terytorialnego.
 
@@ -1059,7 +1059,7 @@ o wychowaniu trzeźwości i przeciwdziałaniu alkoholizmowi Uznając życie obyw
 
 - **1)** uszkodzenia ciała,
 - **2)** posiadania broni,
-- **3)** posiadania narzędzi lub innych przedmiotów, co do których może zachodzić podejrzenie, że służyły lub mogą być przeznaczone do popełnienia przestępstwa albo pochodzą z przestępstwa, oraz razie powstania innych okoliczności uzasadniających podejrzenie, że popełniono przestępstwo izba lub placówka zawiadamia niezwłocznie jednostkę Policji, podając termin, do którego osoba będzie przebywać izbie lub placówce. niezwłocznie po udzieleniu jej niezbędnych świadczeń zdrowotnych, na pisemny wniosek rodziców lub opiekunów.
+- **3)** posiadania narzędzi lub innych przedmiotów, co do których może zachodzić podejrzenie, że służyły lub mogą być przeznaczone do popełnienia przestępstwa albo pochodzą z przestępstwa, oraz razie powstania innych okoliczności uzasadniających podejrzenie, że popełniono przestępstwo izba lub placówka zawiadamia niezwłocznie jednostkę Policji, podając termin, do którego osoba będzie przebywać izbie lub placówce.
 
 **Art. 41.** Osobie przyjętej albo zatrzymanej jednostce Policji odbiera się środki pieniężne lub inne przedmioty i przekazuje do depozytu.
 
@@ -1133,7 +1133,7 @@ o wychowaniu trzeźwości i przeciwdziałaniu alkoholizmowi Uznając życie obyw
 
 7. Kwota maksymalnej wysokości opłaty za pobyt izbie wytrzeźwień, placówce lub jednostce Policji podlega corocznej waloryzacji o średnioroczny wskaźnik cen towarów i usług konsumpcyjnych ogółem, poprzednim roku kalendarzowym.
 
-8. Średnioroczny wskaźnik cen towarów i usług konsumpcyjnych ogółem, o którym mowa ust. 7, ustala się na podstawie komunikatu Prezesa Głównego Urzędu Statystycznego, ogłaszanego Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, na podstawie art. 94 ust. 1 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2023 r. poz. 1251, 1429 i 1672). Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, maksymalną wysokość opłaty za pobyt izbie wytrzeźwień, placówce lub jednostce Policji, po waloryzacji.
+8. Średnioroczny wskaźnik cen towarów i usług konsumpcyjnych ogółem, o którym mowa ust. 7, ustala się na podstawie komunikatu Prezesa Głównego Urzędu Statystycznego, ogłaszanego Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, na podstawie art. 94 ust. 1 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2023 r. poz. 1251, 1429 i 1672). placówce lub jednostce Policji, po waloryzacji.
 
 10. W wyjątkowych przypadkach, kierując się szczególnym charakterem placówki, organy jednostek samorządu terytorialnego mogą postanowić, drodze uchwały, o odstąpieniu od pobierania opłat przez tę placówkę.
 
@@ -1217,7 +1217,7 @@ o wychowaniu trzeźwości i przeciwdziałaniu alkoholizmowi Uznając życie obyw
 3. Stan nietrzeźwości zachodzi, gdy zawartość alkoholu organizmie wynosi lub prowadzi do:
 
 - **1)** stężenia we krwi powyżej 0,5‰ alkoholu albo
-- **2)** obecności wydychanym powietrzu powyżej 0,25 mg alkoholu 1 dm . osoba podejrzana może być poddana badaniu koniecznemu do ustalenia zawartości alkoholu organizmie, szczególności zabiegowi pobrania krwi. Zabiegu pobrania krwi dokonuje osoba posiadająca odpowiednie kwalifikacje zawodowe.
+- **2)** obecności wydychanym powietrzu powyżej 0,25 mg alkoholu 1 dm . zabiegowi pobrania krwi. Zabiegu pobrania krwi dokonuje osoba posiadająca odpowiednie kwalifikacje zawodowe.
 
 2. Minister właściwy do spraw zdrowia i minister właściwy do spraw wewnętrznych porozumieniu z Ministrem Sprawiedliwości określą, drodze rozporządzenia, warunki i sposób przeprowadzania badań celu ustalenia zawartości alkoholu organizmie, sposób ich dokumentowania oraz weryfikacji, mając na uwadze konieczność zapewnienia sprawnego przeprowadzania badań oraz zagwarantowania wiarygodności ich wyników.
 

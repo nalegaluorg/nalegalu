@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 2 stycznia 2018 r.
+# o zmianie niektórych ustaw w celu poprawy spójności terminologicznej systemu prawnego
+
+*USTAWA z dnia 9 listopada 2017 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +25,6 @@ domain: null
 | Data wydania | 2018-01-02 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000004) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/4/text.pdf) |
-
-Poz. 4
-USTAWA z dnia 9 listopada 2017 r.
-o zmianie niektórych ustaw w celu poprawy spójno ś ci terminologicznej systemu prawnego
 
 **Art. 1.** W ustawie z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2016 r. poz. 1666, 2138 i 2255 oraz z 2017 r. poz. 60 i 962) w art. 262 § 1 otrzymuje brzmienie: „§ 1. Spory o roszczenia ze stosunku pracy rozstrzygają sądy powszechne, zwane „sądami pracy”.”.
 

@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 16 kwietnia 2026 r.
+# w sprawie ogłoszenia jednolitego tekstu ustawy o rachunkowości
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 30 marca 2026 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2026-04-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000522) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/522/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 30 marca 2026 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o rachunkowości
 1. Na podstawie art. 16 ust. 1 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120), z uwzględnieniem stanu prawnego na dzień 26 marca 2026 r. oraz zmian wprowadzonych:
 1) ustawą z dnia 8 lutego 2023 r. o zmianie ustawy o szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na rynku paliw oraz niektórych innych ustaw (Dz. U. poz. 295);
 2) ustawą z dnia 16 czerwca 2023 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw (Dz. U.

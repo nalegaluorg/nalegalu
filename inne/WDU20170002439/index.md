@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 27 grudnia 2017 r.
+# o zmianie ustawy o ochronie zdrowia psychicznego oraz niektórych innych ustaw
+
+*USTAWA z dnia 24 listopada 2017 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,9 +25,6 @@ domain: null
 | Data wydania | 2017-12-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002439) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2439/text.pdf) |
-
-USTAWA z dnia 24 listopada 2017 r.
-o zmianie ustawy o ochronie zdrowia psychicznego oraz niektórych innych ustaw
 
 **Art. 1.** W ustawie z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego (Dz. U. z 2017 r. poz. 882 i 2245) wprowadza się następujące zmiany:
 
@@ -47,24 +46,22 @@ o zmianie ustawy o ochronie zdrowia psychicznego oraz niektórych innych ustaw
 - **2)** imię i nazwisko zlecającego zastosowanie przymusu bezpośredniego oraz osób wykonujących jego stosowanie;
 - **3)** zastosowany rodzaj środka przymusu bezpośredniego;
 - **4)** opis przyczyn zastosowania przymusu bezpośredniego;
-- **5)** czas trwania przymusu bezpo ś redniego (data i godzina rozpocz ę cia i zako ń czenia jego stosowania);
-- **6)** przebieg stosowania przymusu bezpo ś redniego, tym informacj ę o skutkach jego stosowania dla zdrowia osoby, wobec której został zastosowany.
+- **5)** czas trwania przymusu bezpośredniego (data i godzina rozpoczęcia i zakończenia jego stosowania);
+- **6)** przebieg stosowania przymusu bezpośredniego, tym informację o skutkach jego stosowania dla zdrowia osoby, wobec której został zastosowany.
 
-3. Przymus bezpo ś redni mo ż e by ć wykonywany wył ą cznie przez osoby poinstruowane zakresie okoliczno ś ci, zasad i sposobu jego stosowania.
+3. Przymus bezpośredni może być wykonywany wyłącznie przez osoby poinstruowane zakresie okoliczności, zasad i sposobu jego stosowania.
 
-- **1)** kierownik podmiotu leczniczego dla osób zatrudnionych kierowanym przez niego podmiocie leczniczym lub osób wykonujących tym podmiocie działalność na podstawie zawartej umowy lub porozumienia;
-- **2)** kierownik jednostki organizacyjnej pomocy społecznej dla osób zatrudnionych kierowanej przez niego jednostce lub osób wykonujących tej jednostce działalność na podstawie zawartej umowy lub porozumienia;
-- **3)** dysponent zespołów ratownictwa medycznego dla osób wchodzących skład zespołów ratownictwa medycznego.
+4. Za przekazanie instrukcji, o której mowa ust. 3, bezpośrednio odpowiada:
+
+- **1)** kierownik podmiotu leczniczego – dla osób zatrudnionych kierowanym przez niego podmiocie leczniczym lub osób wykonujących tym podmiocie działalność na podstawie zawartej umowy lub porozumienia;
+- **2)** kierownik jednostki organizacyjnej pomocy społecznej – dla osób zatrudnionych kierowanej przez niego jednostce lub osób wykonujących tej jednostce działalność na podstawie zawartej umowy lub porozumienia;
+- **3)** dysponent zespołów ratownictwa medycznego – dla osób wchodzących skład zespołów ratownictwa medycznego.
 
 **Art. 18d.**
 
 1. Osobę, wobec której zastosowano przymus bezpośredni formie unieruchomienia, umieszcza się pomieszczeniu jednoosobowym; przepis nie dotyczy sytuacji, o których mowa art. 18 ust. 5.
 
-2. W przypadku braku możliwości umieszczenia osoby, o której mowa ust. 1, pomieszczeniu jednoosobowym, osłania się ją od innych osób przebywających tym samym pomieszczeniu, zapewniając poszanowanie jej godności i intymności, tym również przy wykonywaniu zabiegów pielęgnacyjnych.
-
-**Art. 18e.**
-
-1. Przymus bezpośredni formie izolacji jest stosowany pomieszczeniu urządzonym sposób zabezpieczający przed uszkodzeniem ciała osoby z zaburzeniami psychicznymi i odpowiadającym wymogom, jakie powinny spełniać pokoje łóżkowe szpitalu psychiatrycznym lub innym zakładzie leczniczym albo pokoje mieszkalne jednostce organizacyjnej pomocy społecznej.
+2. W przypadku braku możliwości umieszczenia osoby, o której mowa ust. 1, pomieszczeniu jednoosobowym, osłania się ją od innych osób przebywających tym samym pomieszczeniu, zapewniając poszanowanie jej godności i intymności, tym również przy wykonywaniu zabiegów pielęgnacyjnych. powinny spełniać pokoje łóżkowe szpitalu psychiatrycznym lub innym zakładzie leczniczym albo pokoje mieszkalne jednostce organizacyjnej pomocy społecznej.
 
 2. Pomieszczenie przeznaczone do izolacji wyposaża się instalację monitoringu umożliwiającą stały nadzór nad osobą z zaburzeniami psychicznymi nim przebywającą oraz kontrolę wykonania czynności związanych z tym rodzajem środka przymusu bezpośredniego.
 
@@ -78,19 +75,19 @@ o zmianie ustawy o ochronie zdrowia psychicznego oraz niektórych innych ustaw
 
 **Art. 18f.** Minister właściwy do spraw zdrowia porozumieniu z Ministrem Sprawiedliwości oraz ministrem właściwym do spraw zabezpieczenia społecznego określi, drodze rozporządzenia:
 
+**Art. 2.** W ustawie z dnia 26 października 1982 r. o wychowaniu trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2016 r. poz. 487 oraz z 2017 r. poz. 2245) wprowadza się następujące zmiany:
+
 **Art. 37.**
 
-1. W zakładach poprawczych i schroniskach dla nieletnich prowadzi się leczenie odwykowe nieletnich uzależnionych od alkoholu dostępnymi metodami i środkami, zgodnie ze wskazaniami aktualnej wiedzy, przez osoby legitymujące się posiadaniem fachowych kwalifikacji do ich stosowania oraz działania związane z profilaktyką i rozwiązywaniem problemów alkoholowych.
+1. W zakładach poprawczych i schroniskach dla nieletnich prowadzi się leczenie odwykowe nieletnich uzależnionych od alkoholu dostępnymi metodami i środkami, zgodnie ze wskazaniami aktualnej wiedzy, przez osoby
 
 2. Nieletni uzależnieni od alkoholu umieszczeni zakładach poprawczych i schroniskach dla nieletnich, mają obowiązek poddania się zarządzonemu leczeniu odwykowemu.
 
-3. Leczenie odwykowe, o którym mowa ust. 2, zarządza dyrektor zakładu poprawczego lub schroniska dla nieletnich stosunku do małoletniego za zgodą przedstawiciela ustawowego, a razie jej braku, jak również stosunku do osoby pełnoletniej za zezwoleniem sądu wykonującego orzeczenie, wydanym po zasięgnięciu opinii biegłego.
+3. Leczenie odwykowe, o którym mowa ust. 2, zarządza dyrektor zakładu poprawczego lub schroniska dla nieletnich stosunku do małoletniego za zgodą przedstawiciela ustawowego, a razie jej braku, jak również stosunku do osoby pełnoletniej – za zezwoleniem sądu wykonującego orzeczenie, wydanym po zasięgnięciu opinii biegłego.
 
 **Art. 38.** W zakładach karnych i aresztach śledczych prowadzi się leczenie odwykowe i rehabilitację osób uzależnionych od alkoholu osadzonych tych jednostkach oraz działania związane z profilaktyką i rozwiązywaniem problemów alkoholowych.”;
 
-**Art. 3.** W ustawie z dnia 9 listopada 1995 r. o ochronie zdrowia przed następstwami używania tytoniu i wyrobów tytoniowych (Dz. U. z 2017 r. poz. 957) art. 15 dodaje się ust. 3 brzmieniu: „3. Sąd może orzec przepadek wyrobów tytoniowych, przedmiotów imitujących opakowania wyrobów tytoniowych, papierosów elektronicznych lub pojemników zapasowych niebędących własnością sprawcy, jeżeli ich właściciel lub inna osoba uprawniona, nie zachowując ostrożności wymaganej danych okolicznościach, przewidywała albo mogła przewidzieć, że mogą one służyć lub być przeznaczone do popełnienia przestępstwa.”.
-
-**Art. 4.** W ustawie z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 2017 r. poz. 783 i 1458) art. 70 po ust. 1 dodaje się ust. 1a brzmieniu: „1a. Sąd może orzec przepadek przedmiotów i narzędzi niebędących własnością sprawcy, jeżeli ich właściciel lub inna osoba uprawniona, nie zachowując ostrożności wymaganej danych okolicznościach, przewidywała albo mogła przewidzieć, że mogą one służyć lub być przeznaczone do popełnienia przestępstwa.”.
+**Art. 3.** W ustawie z dnia 9 listopada 1995 r. o ochronie zdrowia przed następstwami używania tytoniu i wyrobów tytoniowych (Dz. U. z 2017 r. poz. 957) art. 15 dodaje się ust. 3 brzmieniu: „3. Sąd może orzec przepadek wyrobów tytoniowych, przedmiotów imitujących opakowania wyrobów tytoniowych, papierosów elektronicznych lub pojemników zapasowych niebędących własnością sprawcy, jeżeli ich właściciel lub inna osoba uprawniona, nie zachowując ostrożności wymaganej danych okolicznościach, przewidywała albo mogła przewidzieć, że mogą one służyć lub być przeznaczone do popełnienia przestępstwa.”. „1a. Sąd może orzec przepadek przedmiotów i narzędzi niebędących własnością sprawcy, jeżeli ich właściciel lub inna osoba uprawniona, nie zachowując ostrożności wymaganej danych okolicznościach, przewidywała albo mogła przewidzieć, że mogą one służyć lub być przeznaczone do popełnienia przestępstwa.”.
 
 **Art. 5.** Pierwszą informację, o której mowa art. 2 ust. 7 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, sporządza się 2019 r. i obejmuje ona lata 2017 i 2018.
 
@@ -103,6 +100,25 @@ o zmianie ustawy o ochronie zdrowia psychicznego oraz niektórych innych ustaw
 **Art. 9.** Szpitale psychiatryczne dostosują rejestr osób przyjętych do szpitala psychiatrycznego prowadzony na podstawie dotychczasowych przepisów do wymagań określonych art. 30b ustawy zmienianej art. 1 terminie 6 miesięcy od dnia wejścia życie niniejszej ustawy.
 
 **Art. 10.** Dotychczasowe przepisy wykonawcze wydane na podstawie:
+
+**Art. 11.**
+
+1. W latach 2018–2027 maksymalny limit wydatków budżetu państwa części 15 – Sądy powszechne, będących skutkiem finansowym niniejszej ustawy, wynosi roku:
+
+- **1)** 2018 – 4,2 mln zł;
+- **2)** 2019 – 4,2 mln zł;
+- **3)** 2020 – 4,2 mln zł;
+- **4)** 2021 – 4,2 mln zł;
+- **5)** 2022 – 4,2 mln zł;
+- **6)** 2023 – 4,2 mln zł;
+- **7)** 2024 – 4,2 mln zł;
+- **8)** 2025 – 4,2 mln zł;
+- **9)** 2026 – 4,2 mln zł;
+- **10)** 2027 – 4,2 mln zł.
+
+2. W przypadku gdy wielkość wydatków, o których mowa ust. 1, po pierwszym półroczu danego roku budżetowego wyniesie więcej niż 65% limitu wydatków przewidzianych na ten rok, wielkość przyznanych środków przeznaczonych na wydatki obniża się drugim półroczu o kwotę stanowiącą różnicę między wielkością tego limitu a kwotą przekroczenia wydatków.
+
+3. Organem właściwym do monitorowania wykorzystania limitów wydatków, o których mowa ust. 1, oraz wdrożenia mechanizmu korygującego, o którym mowa ust. 2, jest Minister Sprawiedliwości.
 
 **Art. 12.** Ustawa wchodzi życie z dniem 1 stycznia 2018 r. Prezydent Rzeczypospolitej Polskiej: A. Duda
 

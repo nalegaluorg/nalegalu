@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# Ustawa z dnia 7 lipca 1994 r. o denominacji złotego.
+# denominacji złotego W celu ułatwienia rozliczeń pieniężnych oraz mając na względzie oznaki stabilizowania się relacji waluty polskiej z innymi walutami narodowymi, uchwala się, co następuje:
+
+*USTAWA z dnia 7 lipca 1994 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,45 +26,42 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19940840386) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1994/386/text.pdf) |
 
-**Art. 1.**
-
-1. od dnia stycznia 1995 r. Naro dowy Bank Polski dokona ekwiwalentnej denominacji . go, do obrotu Nowa jednostka o nazwie na 100 groszy.
-
-**Art. 1.** W okresie od wprowadzenia jednostki do dnia 31 grudnia 1996 r. banknoty i monety, obiegu przed dniem stycznia 1995 r., zwane dalej "starymi złotymi", zostaną stopniowo zastąpione banknota mi i monetami na o której mowa wart. 1. Nowa jednostka o której mowa wart. 1, 10000 starych
-
-**Art. 3.**
-
-1. W okresie, o którym mowa wart. 2 ust. 1, stare nadal bez prawnym przeliczeniu stosunku ustalo nego wart. 2 ust. Stare prawnymi niczymi od dnia stycznia 1997 r., tym jednak one bez wymianie terminie do dnia 31 grudnia 2010 r., stosunku lonym wart. 2 ust. 2, placówkach Narodowego Banku Polskiego oraz innych bankach do tej czy'nności przez Prezesa Narodowego Banku Polskiego.
-
-3. Wykaz placówek Narodowego Banku Polskiego oraz innych banków do o których mowa ust. 2, drodze Prezes' Narodo wego' Banku Polskiego. Prezesa Narodowego Banku Polskiego podlega Dzienniku wym "Monitor Polski".
-
-4. wymianie jest 100 starych lub jej
-
-**Art. 4.**
-
-1. Wszelkie prawa a zobo i przed wart. ust. 1, a po tej dacie przeliczeniu stosunku wart. 2 ust. W szcze przeliczeniu, o którym mowa zdaniu poprzednim, wynagrodzenia za emerytury, renty, inne praw i (publicznych i prywatnych) bez na ich po wstania, i surowców, lokat i depozytów bankowych. Przeliczenie, o którym mowa ust. 1, na stanu na stycznia 1995 r.
-
-3. Detaliczne ceny wszystkich towarów i okresie od dnia stycznia 1995 r. do dnia 31 stosunku, o którym mowa wart. 2 ust. 2, przy czym dopuszczalna jest jedynie korekta do grosza, na zasadach ogólnych.
-
-4. Dane statystyczne przeliczeniu stanu na stycznia 1995 r., tym wypadku gdy okres statystyczny jest ostatni 1994 r. - przeliczenie dniem 31 grudnia 1994 r.
-
-5. Przeliczeniu, o którym mowa ust. 2, kary kary odszkodowania, koszty po i inne orzeczone po administracyjnym oraz przez inne do ich organy, o ile nie uiszczone do dnia 31 grudnia 1994 r.
-
-6. Wszelkie przepisów lub przepisów, jakie do dnia zycie niniejszej ustawy, dniem stycznia 1995 r. przeliczeniu mocy prawa stosunku, o którym mowa wart. 2 ust.
-
-7. przelewów bankowych, czeków i weksli oraz przekazów pocztowych i innych tego rodzaju realizacji po dniu 31 grudnia 1994 r., lub zarachowywane na poczet po przeliczeniu stosunku, o którym mowa wart. 2 ust.
-
-8. M inister drodze dzenia, tryb dokonywania wieczystych przelicze nia na praw i ków tych ujawnionych oraz rejestrach prowadzonych przez
-
-9. ministrowie przepisy wydane na podstawie innych ustaw do przepisów niniejszej ustawy terminie do dnia 31 1994 r.
-
-**Art. 5.** Obligacje i inne papiery emitowa ne przed dniem stycznia 1995 r. po tej dacie stosunku, o którym mowa wart. 2 ust.
-
-**Art. 6.**
-
-1. Nie skasowane znaki publicznych, a pocztowej, skarbowej, dniem stycznia 1995 r. ust. 2, wymianie na nowe znaki na o której mowa wart. 1, przy czym one powinny przed o której mowa, stosunku wart. 2 ust. ministrowie drodze zasady wymiany znaków o których mowa ust. 1, na nowe znaki, przy czym dopuszcza do stosowania dotychczasowe znaki po umieszczeniu na nich sposób ich W okresie do dnia
-
-**Art. 8.** Kto nie uwidacznia detalicznej ceny towarów i sposób wart. 4 ust. 3, podlega karze grzywny albo karze nagany.
-
-**Art. 12.** Ustawa wchodzi dniem stycznia 1995 r., tym art. 4 ust. 9, art. 9 i art. 10 po 14 dni od dnia Prezydent Rzeczypospolitej Polskiej: L. 387 MINISTRA GOSPODARKI PRZESTRZENNEJ I BUDOWNICTWA dnia 21 czerwca 1994 sprawie wprowadzenia stosowania niektórych Polskich Norm zakresu budownictwa, gospodarki przestrzennej i komunalnej oraz geodezji i kartografii. Na podstawie art. 19 ust. 2 ustawy dnia 3 kwietnia 1993 r. o normalizacji (Dz. U. 55, poz. 251) co § 1. Wprowadza przestrzennej i komunalnej oraz geodezji i kartografii, wymie nionych stosowania niektórych Polskich Norm (PN) zakresu budownictwa, gospodarki do § wchodzi po 14 dni od dnia Minister Gospodarki Przestrzennej i Budownictwa: B. Blida do Ministra Gospodarki Przestrzennej i Budownict wa dnia 21 czerwca 1994 (poz. 387) WYKAZ POLSKICH NORM DO STOSOWANIA 04 Maszyny, Lp. Numer i normy postanowienia normy Zakres stosowania normy 2 3 4 KLASA 044. MASZYNY I DLA Grupa 0445. Maszyny i dla budowlanych, budownictwa, robót drogowych i ziemnych oraz gospodarki komunalnej PN-78jM-47060j01 Wszystkie normy Kafary. Ogólne wymagania i badania 2 PN-78jM-47075j08 Wszystkie normy kafarowe wibroudarowe Ogólne wymagania i badania
+1.
+1. Poczynając od dnia r. Narodowy Bank Polski dokona ekwiwalentnej denominacji złotego, wprowadzając do obrotu pieniężnego nową polską jednostkę pieniężną.
+2. Nowa jednostka pieniężna nazwie złoty będzie dzieliła się na 100 groszy.
+2.
+1. W okresie od wprowadzenia nowej jednostki pieniężnej do dnia 31 grudnia 1996 r. banknoty monety, będące obiegu przed r., zwane dalej "starymi złotymi", zostaną stopniowo zastąpione banknotami monetami opiewającymi na jednostkę pieniężną, której mowa art. 1.
+2. Nowa jednostka pieniężna, której mowa art. 1, będzie miała wartość równą 10 000 starych złotych.
+3.
+1. W okresie, którym mowa art. 2 ust. 1, stare złote będą nadal bez żadnych ograniczeń prawnym środkiem płatniczym przeliczeniu według stosunku ustalonego art. 2 ust. 2.
+2. Stare złote przestaną być prawnymi środkami płatniczymi poczynając od dnia 1997 r., z tym jednak że będą one podlegały bez żadnych ograniczeń wymianie terminie do dnia 31 grudnia 2010 r., stosunku określonym art.
+2 ust. 2, placówkach Narodowego Banku Polskiego oraz innych bankach zobowiązanych do tej czynności przez Prezesa Narodowego Banku Polskiego.
+3. Wykaz placówek Narodowego Banku Polskiego oraz innych banków zobowiązanych do czynności, których mowa ust. 2, określi drodze zarządzenia Prezes Narodowego Banku Polskiego. Zarządzenie Prezesa Narodowego Banku Polskiego podlega ogłoszeniu Dzienniku Urzędowym "Monitor Polski".
+4. Kwotą pieniężną podlegającą wymianie jest 100 starych złotych lub jej wielokrotność.
+łe przed datą określoną art. ust. 1, a płatne tej dacie - podlegają przeliczeniu stosunku określonym art. 2 ust. 2. W szczególności przeliczeniu, którym mowa zdaniu poprzednim, podlegają: wynagrodzenia za pracę, emerytury, renty, inne należności wynikające z praw zobowiązań majątkowych (publicznych prywatnych) bez względu na tytuł ich powstania, wartości materiałów surowców, wkładów oszczędnościowych, lokat depozytów bankowych.
+2. Przeliczenie, którym mowa ust. 1, na nową jednostkę pieniężną nastąpi według stanu na dzień r.
+3. Detaliczne ceny sprzedaży wszystkich towarów usług okresie od dnia r. do dnia 31 grudnia 1996 r. powinny być wyrażane nowej jednostce pieniężnej z jednoczesnym podaniem ich wysokości starych złotych.
+Przeliczenie to powinno być dokonane ściśle stosunku, którym mowa art.
+2 ust. 2, przy czym dopuszczalna jest jedynie korekta wynikająca z konieczności zaokrąglania końcówek wartości pieniężnej do grosza, na zasadach ogólnych.
+4. Dane statystyczne podlegają przeliczeniu według stanu na dzień r., z tym że wypadku gdy datą kończącą okres statystyczny jest ostatni dzień 1994 r. - przeliczenie nastąpi z 31 grudnia 1994 r.
+5. Przeliczeniu, którym mowa ust. 2, podlegają także: kary pieniężne, kary porządkowe, nawiązki, poręczenia majątkowe, odszkodowania, zadośćuczynienia, koszty postępowania, opłaty inne świadczenia orzeczone postępowaniu sądowym, administracyjnym oraz przez inne upoważnione do ich nakładania organy, ile nie zostały uiszczone do dnia 31 grudnia 1994 r.
+6. Wszelkie wartości pieniężne wynikające z obowiązujących przepisów lub przepisów, jakie zostaną ogłoszone do dnia wejścia życie niniejszej ustawy, podlegają z r. przeliczeniu z mocy prawa stosunku, którym mowa art. 2 ust. 2.
+6a. Wszelkie wartości pieniężne określone ustawach oraz uchwałach Rzeczypospolitej Polskiej przyjętych do dnia 31 grudnia 1994 r., a ogłoszonych tym dniu, podlegają z ogłoszenia przeliczeniu z mocy prawa stosunku, którym mowa art. 2 ust. 2.
+7. Należności z przelewów bankowych, czeków weksli oraz przekazów pocztowych innych tego rodzaju czynności, podlegające realizacji dniu 31 grudnia 1994 r., będą wypłacane lub zarachowywane na poczet zobowiązań przeliczeniu według stosunku, którym mowa art. 2 ust. 2.
+8. Minister Sprawiedliwości określi, drodze rozporządzenia, tryb dokonywania księgach wieczystych przeliczenia na nową jednostkę pieniężną wartości praw obowiązków tych księgach ujawnionych oraz wartości pieniężnych rejestrach prowadzonych przez sądy.
+9. Właściwi ministrowie dostosują przepisy wydane na podstawie innych ustaw do przepisów niniejszej ustawy terminie do dnia 31 października 1994 r.
+6.
+1. Nieskasowane znaki opłat publicznych, a szczególności opłat: pocztowej, skarbowej, sądowej, z r. podlegają, z zastrzeżeniem ust.
+2, wymianie na nowe znaki opiewające na jednostkę pieniężną, której mowa art. 1, przy czym wyrażać one powinny wartość obowiązującą przed datą, której wyżej mowa, przeliczoną według stosunku określonego art. 2 ust. 2.
+2. Właściwi ministrowie określą, drodze rozporządzeń, szczegółowe zasady wymiany znaków opłat, których mowa ust. 1, na nowe znaki, przy czym dopuszcza się do stosowania dotychczasowe znaki opłat umieszczeniu na nich sposób trwały nowej ich wartości. W okresie do dnia 31 grudnia 1996 r. mogą być dopuszczone jako prawne środki opłaty pocztowej znaczki tej opłaty będące dotychczas obiegu, przeliczeniu ich wartości według stosunku, którym mowa art. 2 ust. 2.
+7.
+Przy przeliczaniu wartości, innych niż wymienione art. 4 ust. 3, na nową jednostkę pieniężną stosuje się zasadę, że ich końcówki wysokości do 100 złotych, wyrażone jednostce pieniężnej będącej obiegu przed r., będą zaokrąglane górę do nowej wartości wyrażonej pełnych groszach.
+8.
+Kto nie uwidacznia detalicznej ceny sprzedaży towarów usług sposób określony art. 4 ust. 3, podlega karze grzywny albo karze nagany.
+9.
+Zobowiązuje się właściwych ministrów do ogłoszenia aktów wykonawczych, których mowa art. 4 ust. 8 art. 6 ust. 2, terminie do dnia 30 września 1994 r.
+10.
+Prezes Rady Ministrów oraz Prezes Narodowego Banku Polskiego przedstawią Sejmowi terminie do dnia 30 listopada 1994 r. informację stanie przygotowań do wejścia życie niniejszej ustawy.
+11.
+Traci moc ustawa z dnia 28 października 1950 r. zmianie systemu pieniężnego (Dz.U. Nr 50, poz. 459, z 1958 r. Nr 72, poz. 356 z 1982 r. Nr 7, poz. 56).
 

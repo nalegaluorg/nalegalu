@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 27 grudnia 2024 r.
+# o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw
+
+*USTAWA z dnia 21 listopada 2024 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,20 +26,17 @@ domain: null
 | Ostatnia zmiana | 2025-01-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001933) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1933/text.pdf) |
 
-USTAWA z dnia 21 listopada 2024 r.
-o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw
-
 **Art. 1.** W ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2024 r. poz. 750, 854 i 1473) wprowadza się następujące zmiany:
 
 **Art. 2.** W ustawie z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej (Dz. U. z 2024 r. poz. 152, 858 i 1572) wprowadza się następujące zmiany:
 
 **Art. 3.** W ustawie z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2024 r. poz. 1068) art. 74 ust. 2 pkt 3 po wyrazach „centra kształcenia zawodowego” dodaje się wyrazy „ , placówki kształcenia ustawicznego”.
 
-**Art. 4.** W ustawie z dnia 14 grudnia 2016 r. Prawo oświatowe (Dz. U. z 2024 r. poz. 737, 854, 1562 i 1635) wprowadza się następujące zmiany:
+**Art. 4.** W ustawie z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2024 r. poz. 737, 854, 1562 i 1635) wprowadza się następujące zmiany:
 
-**Art. 5.** W ustawie z dnia 14 grudnia 2016 r. Przepisy wprowadzające ustawę Prawo oświatowe (Dz. U. z 2017 r. poz. 60, 949 i 2203, z 2018 r. poz. 2245, z 2019 r. poz. 1287 oraz z 2022 r. poz. 1116) wprowadza się następujące zmiany:
+**Art. 5.** W ustawie z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe (Dz. U. z 2017 r. poz. 60, 949 i 2203, z 2018 r. poz. 2245, z 2019 r. poz. 1287 oraz z 2022 r. poz. 1116) wprowadza się następujące zmiany:
 
-**Art. 6.** W ustawie z dnia 22 listopada 2018 r. o zmianie ustawy Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 2245, z późn. zm. ) wprowadza się następujące zmiany:
+**Art. 6.** W ustawie z dnia 22 listopada 2018 r. o zmianie ustawy – Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 2245, z późn. zm. ) wprowadza się następujące zmiany:
 
 **Art. 7.** W ustawie z dnia 12 maja 2022 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 1116 oraz z 2023 r. poz. 2005) wprowadza się następujące zmiany:
 
@@ -48,7 +47,7 @@ o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw
 1. W latach szkolnych 2024/2025–2026/2027 absolwent zdał egzamin maturalny, o którym mowa art. 8, jeżeli:
 
 - **1)** z każdego przedmiotu obowiązkowego części ustnej i części pisemnej otrzymał co najmniej 30 % punktów możliwych do uzyskania oraz
-- **2)** przystąpił do przedmiotu dodatkowego części pisemnej z zastrzeżeniem ust. 2.
+- **2)** przystąpił do przedmiotu dodatkowego części pisemnej – z zastrzeżeniem ust. 2.
 
 2. W latach szkolnych 2024/2025–2026/2027 absolwent spełniający warunek, o którym mowa art. 44zzd ust. 4b ustawy zmienianej art. 1, zdał egzamin maturalny, o którym mowa art. 8, jeżeli z każdego przedmiotu obowiązkowego części ustnej i części pisemnej otrzymał co najmniej 30 % punktów możliwych do uzyskania.
 
@@ -102,7 +101,7 @@ o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw
 - **1)** operatorów pracowni informatycznej biorących udział przeprowadzaniu egzaminu maturalnego, o którym mowa art. 297 ust. 2 ustawy zmienianej art. 5, brzmieniu nadanym niniejszą ustawą;
 - **2)** egzaminatorów zakresie egzaminu potwierdzającego kwalifikacje zawodzie, o którym mowa art. 302a ust. 1 ustawy zmienianej art. 5, brzmieniu nadanym niniejszą ustawą, i egzaminu potwierdzającego kwalifikacje zawodzie, o którym mowa art. 130 ust. 1 ustawy zmienianej art. 6, brzmieniu nadanym niniejszą ustawą;
 - **3)** asystentów technicznych biorących udział przeprowadzaniu egzaminu potwierdzającego kwalifikacje zawodzie, o którym mowa art. 130 ust. 1 ustawy zmienianej art. 6, brzmieniu nadanym niniejszą ustawą;
-- **4)** operatorów pracowni informatycznej biorących udział przeprowadzaniu egzaminu potwierdzającego kwalifikacje zawodzie, o którym mowa art. 130 ust. 1 ustawy zmienianej art. 6, brzmieniu nadanym niniejszą ustawą. o którym mowa art. 44zzra ustawy zmienianej art. 1, staje się Systemem Informatycznym Obsługującym Egzaminy Ogólnokształcące, o którym mowa rozdziale 3c ustawy zmienianej art. 1.
+- **4)** operatorów pracowni informatycznej biorących udział przeprowadzaniu egzaminu potwierdzającego kwalifikacje zawodzie, o którym mowa art. 130 ust. 1 ustawy zmienianej art. 6, brzmieniu nadanym niniejszą ustawą. Ogólnokształcące, o którym mowa rozdziale 3c ustawy zmienianej art. 1.
 
 2. Elektroniczny system przeprowadzania egzaminu zawodowego, o którym mowa art. 44zzzd ust. 5 ustawy zmienianej art. 1, staje się Systemem Informatycznym Obsługującym Egzaminy Zawodowe, o którym mowa rozdziale 3c ustawy zmienianej art. 1.
 
@@ -110,8 +109,8 @@ o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw
 
 - **1)** przypadku egzaminu ósmoklasisty przeprowadzanego roku szkolnym 2024/2025 obejmują również informację o przedmiotach, do których przystąpił uczeń i słuchacz będący obywatelem Ukrainy, którego pobyt na terytorium Rzeczypospolitej Polskiej jest uznawany za legalny na podstawie ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy związku z konfliktem zbrojnym na terytorium tego państwa (Dz. U. z 2024 r. poz. 167, z późn. zm. ) albo którzy przebywają legalnie na terytorium Rzeczypospolitej Polskiej, przypadku gdy przybyli na terytorium Rzeczypospolitej Polskiej z terytorium Ukrainy od dnia 24 lutego 2022 r. związku z działaniami wojennymi prowadzonymi na terytorium tego państwa, zgodnie z art. 58b ust. 1 i 2 tej ustawy;
 - **2)** przypadku egzaminu maturalnego obejmują również informację o:
-    - **a)** przystąpieniu ponownie przez zdającego do części ustnej lub części pisemnej egzaminu maturalnego z danego przedmiotu lub danych przedmiotów przypadku, o którym mowa art. 10 ust. 2–4,
-    - **b)** przekazanym zdającemu świadectwie dojrzałości przypadku, o którym mowa art. 10 ust. 5.
+    - **a)** przystąpieniu ponownie przez zdającego do części ustnej lub części pisemnej egzaminu maturalnego z danego przedmiotu lub danych przedmiotów – przypadku, o którym mowa art. 10 ust. 2–4,
+    - **b)** przekazanym zdającemu świadectwie dojrzałości – przypadku, o którym mowa art. 10 ust. 5.
 
 4. W Systemie Informatycznym Obsługującym Egzaminy Zawodowe, o którym mowa rozdziale 3c ustawy zmienianej art. 1, gromadzi się i przetwarza również dane o egzaminatorach wpisanych do ewidencji egzaminatorów, o której mowa art. 9c ust. 2 pkt 7 ustawy zmienianej art. 1, zakresie egzaminu potwierdzającego kwalifikacje zawodzie, o którym mowa art. 130 ust. 1 ustawy zmienianej art. 6, brzmieniu nadanym niniejszą ustawą, obejmujące dane, o których mowa art. 44zzzze ust. 2 ustawy zmienianej art. 1.
 
@@ -127,7 +126,7 @@ o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw
 
 **Art. 19.** Do postępowań sprawie dopuszczenia do użytku szkolnego podręcznika do danych zajęć edukacyjnych z zakresu kształcenia ogólnego klasach IV–VIII szkoły podstawowej i szkole ponadpodstawowej, wszczętych i niezakończonych przed dniem wejścia życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
 
-**Art. 20.** W przypadku kolejnego niezmienionego wydania podręcznika dopuszczonego do użytku szkolnego przed dniem 1 stycznia 2026 r. podmiot, o którym mowa art. 22an ust. 3 ustawy zmienianej art. 1, może dokonać nim zmian pisowni, a przypadku podręcznika zawierającego zasady pisowni także zmian opisu tych zasad, wynikających z Komunikatu Rady Języka Polskiego przy Prezydium Polskiej Akademii Nauk z dnia 10 maja 2024 r., bez konieczności złożenia wniosku o dopuszczenie podręcznika do użytku szkolnego. cone przez ministra właściwego do spraw oświaty i wychowania przez dniem wejścia życie niniejszej ustawy, Instytut Badań Edukacyjnych Warszawie realizuje zgodnie z art. 94ba ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą.
+**Art. 20.** W przypadku kolejnego niezmienionego wydania podręcznika dopuszczonego do użytku szkolnego przed dniem 1 stycznia 2026 r. podmiot, o którym mowa art. 22an ust. 3 ustawy zmienianej art. 1, może dokonać nim zmian pisowni, a przypadku podręcznika zawierającego zasady pisowni także zmian opisu tych zasad, wynikających z Komunikatu Rady Języka Polskiego przy Prezydium Polskiej Akademii Nauk z dnia 10 maja 2024 r., bez konieczności złożenia wniosku o dopuszczenie podręcznika do użytku szkolnego. Badań Edukacyjnych Warszawie realizuje zgodnie z art. 94ba ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą.
 
 **Art. 22.**
 
@@ -147,16 +146,16 @@ o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw
 
 1. Ustala się następujący maksymalny limit wydatków z budżetu państwa przeznaczonych na zadania związane z przeprowadzaniem egzaminu ósmoklasisty, egzaminu maturalnego, egzaminu potwierdzającego kwalifikacje zawodzie, egzaminu zawodowego i egzaminów eksternistycznych:
 
-- **1)** 2025 r. 346 mln zł;
-- **2)** 2026 r. 365 mln zł;
-- **3)** 2027 r. 382 mln zł;
-- **4)** 2028 r. 384 mln zł;
-- **5)** 2029 r. 402 mln zł;
-- **6)** 2030 r. 440 mln zł;
-- **7)** 2031 r. 453 mln zł;
-- **8)** 2032 r. 457 mln zł;
-- **9)** 2033 r. 459 mln zł;
-- **10)** 2034 r. 463 mln zł.
+- **1)** 2025 r. – 346 mln zł;
+- **2)** 2026 r. – 365 mln zł;
+- **3)** 2027 r. – 382 mln zł;
+- **4)** 2028 r. – 384 mln zł;
+- **5)** 2029 r. – 402 mln zł;
+- **6)** 2030 r. – 440 mln zł;
+- **7)** 2031 r. – 453 mln zł;
+- **8)** 2032 r. – 457 mln zł;
+- **9)** 2033 r. – 459 mln zł;
+- **10)** 2034 r. – 463 mln zł.
 
 2. Minister właściwy do spraw oświaty i wychowania monitoruje wykorzystanie limitów wydatków na zadanie, o którym mowa ust. 1, oraz, razie potrzeby, wdraża mechanizmy korygujące.
 
@@ -166,15 +165,15 @@ o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw
 
 1. Ustala się następujący maksymalny limit wydatków z budżetu państwa przeznaczonych na realizację zadania, o którym mowa art. 44e ust. 1 ustawy zmienianej art. 4:
 
-- **1)** 2025 r. 2,3 mln zł;
-- **2)** 2026 r. 2,3 mln zł;
-- **3)** 2027 r. 2,6 mln zł;
-- **5)** 2029 r. 6,4 mln zł;
-- **6)** 2030 r. 7,0 mln zł;
-- **7)** 2031 r. 7,7 mln zł;
-- **8)** 2032 r. 8,4 mln zł;
-- **9)** 2033 r. 9,2 mln zł;
-- **10)** 2034 r. 10,1 mln zł.
+- **1)** 2025 r. – 2,3 mln zł;
+- **2)** 2026 r. – 2,3 mln zł;
+- **3)** 2027 r. – 2,6 mln zł;
+- **5)** 2029 r. – 6,4 mln zł;
+- **6)** 2030 r. – 7,0 mln zł;
+- **7)** 2031 r. – 7,7 mln zł;
+- **8)** 2032 r. – 8,4 mln zł;
+- **9)** 2033 r. – 9,2 mln zł;
+- **10)** 2034 r. – 10,1 mln zł.
 
 2. Minister właściwy do spraw oświaty i wychowania monitoruje wykorzystanie limitów wydatków na zadanie, o którym mowa art. 44e ust. 1 ustawy zmienianej art. 4, oraz, razie potrzeby, wdraża mechanizmy korygujące.
 

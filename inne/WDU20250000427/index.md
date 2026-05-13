@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 2 kwietnia 2025 r.
+# o zmianie ustawy o ochronie zdrowia przed następstwami używania tytoniu i wyrobów tytoniowych
+
+*USTAWA z dnia 21 lutego 2025 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +25,6 @@ domain: null
 | Data wydania | 2025-04-02 |
 | Ostatnia zmiana | 2025-04-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000427) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/427/text.pdf) |
-
-Poz. 427
-USTAWA z dnia 21 lutego 2025 r.
-o zmianie ustawy o ochronie zdrowia przed następstwami używania tytoniu i wyrobów tytoniowych
 
 **Art. 1.** W ustawie z dnia 9 listopada 1995 r. o ochronie zdrowia przed następstwami używania tytoniu i wyrobów tytoniowych (Dz. U. z 2024 r. poz. 1162) wprowadza się następujące zmiany:
 

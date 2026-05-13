@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 7 stycznia 2014 r.
+# zmieniająca ustawę o zmianie ustawy o podatku od spadków i darowizn oraz ustawy o podatku od czynności cywilnoprawnych
+
+*USTAWA z dnia 22 listopada 2013 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +25,6 @@ domain: null
 | Data wydania | 2014-01-07 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000019) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/19/text.pdf) |
-
-Poz. 19
-USTAWA z dnia 22 listopada 2013 r.
-zmieniająca ustawę o zmianie ustawy o podatku od spadków i darowizn oraz ustawy o podatku od czynności cywilnoprawnych
 
 **Art. 1.** W ustawie z dnia 16 listopada 2006 r. o zmianie ustawy o podatku od spadków i darowizn oraz ustawy o podatku od czynności cywilnoprawnych (Dz. U. Nr 222, poz. 1629 oraz z 2011 r. Nr 144, poz. 867) po art. 3 dodaje się art. 3a w brzmieniu: „Art. 3a. Osobie zaliczanej do III grupy podatkowej, która do dnia 31 grudnia 2006 r. zawarła przed organem gminy umowę o sprawowanie opieki nad wymagającym takiej opieki spadkodawcą, przysługuje prawo do ulgi określonej w art. 16 ust. 1 pkt 3 ustawy wymienionej w art. 1, w brzmieniu i na zasadach obowiązujących przed dniem 1 stycznia 2007 r., jeżeli po dniu 31 grudnia 2006 r. nabyła w drodze spadku po tym spadkodawcy budynek mieszkalny lub jego część, lokal mieszkalny stanowiący odrębną nieruchomość, spółdzielcze własnościowe prawo do lokalu mieszkalnego, wynikające z przydziału spółdzielni mieszkaniowej: prawo do domu jednorodzinnego lub prawo do lokalu w małym domu mieszkalnym.”.
 

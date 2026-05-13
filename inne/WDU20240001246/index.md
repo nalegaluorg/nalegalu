@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 16 sierpnia 2024 r.
+# o zmianie ustawy o świadczeniu pieniężnym z tytułu pełnienia funkcji sołtysa oraz ustawy o świadczeniu uzupełniającym dla osób niezdolnych do samodzielnej egzystencji
+
+*USTAWA z dnia 24 lipca 2024 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,10 +25,6 @@ domain: null
 | Data wydania | 2024-08-16 |
 | Ostatnia zmiana | 2024-08-21 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001246) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1246/text.pdf) |
-
-Poz. 1246
-USTAWA z dnia 24 lipca 2024 r.
-o zmianie ustawy o świadczeniu pieniężnym z tytułu pełnienia funkcji sołtysa oraz ustawy o świadczeniu uzupełniającym dla osób niezdolnych do samodzielnej egzystencji
 
 **Art. 1.** W ustawie z dnia 26 maja 2023 r. o świadczeniu pieniężnym z tytułu pełnienia funkcji sołtysa (Dz. U. poz. 1073) wprowadza się następujące zmiany:
 

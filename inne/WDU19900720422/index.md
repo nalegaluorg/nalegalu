@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ.
+# Ustawa z dnia 28 września 1990 r. o zmianie niektórych przepisów prawa karnego i prawa o wykroczeniach.
+
+*USTAWA (cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:2)(cid:7)(cid:8)(cid:2)(cid:9)(cid:10)(cid:1)(cid:11)(cid:12)(cid:4)(cid:5)(cid:6)(cid:2)(cid:13)(cid:14)(cid:14)(cid:15)(cid:2)(cid:10)(cid:16) o zmianie niektórych przepisów prawa karnego i prawa o wykroczeniach.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,40 +26,17 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19900720422) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1990/422/text.pdf) |
 
-Warszawa, dnia 24 października 1990 r.
-Poz.: 422
-USTAWA dnia 28 1990 r.
-o zmianie niektórych przepisów prawa karnego i prawa o wykroczeniach.
-Nr
+**Art. 1.** (cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:8)(cid:9)(cid:6)(cid:2)(cid:7)(cid:10)(cid:11)(cid:12)(cid:13)(cid:14)(cid:2)(cid:15)(cid:16)(cid:11)(cid:4)(cid:15)(cid:10)(cid:5)(cid:17)(cid:10)(cid:2)(cid:8)(cid:9)(cid:18)(cid:2)(cid:12)(cid:10)(cid:8)(cid:19)(cid:18)(cid:16)(cid:20)(cid:21)(cid:22)(cid:23)(cid:6)(cid:2)(cid:17)(cid:14)(cid:9)(cid:10)(cid:12)(cid:13)(cid:24)
 
-**Art. 1.** W Kodeksie karnym wprowadza zmiany:
+**Art. 2.** (cid:1)(cid:2)(cid:20)(cid:8)(cid:19)(cid:10)(cid:15)(cid:9)(cid:6)(cid:2)(cid:17)(cid:2)(cid:5)(cid:12)(cid:9)(cid:10)(cid:2) /(cid:2)(cid:7)(cid:15)(cid:9)(cid:6)(cid:19)(cid:12)(cid:9)(cid:10)(cid:2) /-/(cid:2)(cid:11)$(cid:2),(cid:2)1(cid:11)(cid:17)(cid:6)(cid:16)(cid:9)(cid:8)(cid:13)(cid:2)(cid:15)(cid:16)(cid:11)(cid:4)(cid:15)(cid:10)(cid:5)(cid:17)(cid:10)(cid:21)(cid:22)(cid:23)(cid:6)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:8)(cid:2)(cid:7)(cid:10)(cid:11)(cid:12)(cid:13)(cid:2).2(cid:17)$3$(cid:2)4(cid:11)(cid:2) (cid:25)# poz. 95, z 1982 r. Nr 40, poz. 271 i z 1985 r. Nr 23, poz. 100) X:
 
-**Art. 2.** W ustawie dnia 19 kwietnia 1969 Kodeks karny (Dz. U. Nr
+**Art. 3.** 5’(cid:6)(cid:7)(cid:11)(cid:4)&(cid:2)(cid:16)(cid:11)(cid:17)(cid:6)(cid:16)(cid:9)(cid:8)(cid:13)(cid:2)(cid:20)(cid:8)(cid:19)(cid:10)(cid:15)(cid:2)(cid:16)(cid:11)(cid:17)(cid:6)(cid:15)(cid:9)(cid:5)(cid:20)(cid:21)(cid:22)(cid:2)(cid:17)(cid:10)(cid:2)(cid:16)(cid:11)(cid:17)(cid:6)(cid:8)(cid:19)(cid:18)(cid:16)(cid:8)(cid:19)(cid:15)(cid:4)(cid:24) .(cid:2)(cid:9)(cid:12)(cid:12)(cid:22)(cid:2)(cid:5)(cid:4)’(cid:12)(cid:22)(cid:2)’(cid:20)((cid:2)+*(cid:11)(cid:12)(cid:10)(cid:2)+(cid:11)(cid:10)(cid:12)(cid:9)(cid:23)(cid:18)(cid:2)+(cid:11)(cid:17)(cid:13)(cid:15)(cid:12)(cid:13)(cid:2)(cid:12)(cid:9)%(cid:2)(cid:15)(cid:13)(cid:12)(cid:9)(cid:7)(cid:10)(cid:21)(cid:22)(cid:23)(cid:10)(cid:2)(cid:17)(cid:2)(cid:16)(cid:11)(cid:17)(cid:6)(cid:16)(cid:9)(cid:8)*(cid:15)(cid:2)(cid:23)(cid:17)(cid:18))(cid:23)(cid:9)(cid:2)(cid:4)+*’(cid:12)(cid:6)(cid:21)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:8)(cid:20) (cid:7)(cid:10)(cid:11)(cid:12)(cid:6)+(cid:4)#(cid:2)(cid:20)(cid:8)(cid:19)(cid:10)’(cid:10)(cid:2)(cid:8)(cid:9)(cid:18)(cid:2)(cid:21)(cid:10)(cid:2)(cid:15)(cid:2)(cid:15)(cid:13)(cid:8)(cid:4)(cid:7)(cid:4))(cid:23)(cid:9)(cid:2)(cid:5)(cid:17)(cid:9)(cid:6)(cid:8)(cid:9)(cid:18)(cid:23)(cid:9)(cid:4)(cid:7)(cid:11)(cid:4)(cid:19)(cid:12)(cid:6)(cid:21)# ".(cid:2)(cid:5)(cid:4)’(cid:12)(cid:22)(cid:2)’(cid:20)((cid:2)+*(cid:11)(cid:12)(cid:10)(cid:2)+(cid:11)(cid:10)(cid:12)(cid:9)(cid:23)(cid:18)(cid:2)(cid:12)(cid:10)(cid:15)(cid:9)(cid:22)(cid:17)(cid:7)(cid:9)(cid:2)(cid:10)’((cid:4)(cid:2)(cid:4)(cid:7)(cid:11)(cid:6))’(cid:10)(cid:21)(cid:22)(cid:2)(cid:15)(cid:10)(cid:11)(cid:19)(cid:4))&(cid:2)(cid:7)(cid:15)(cid:4)(cid:19)(cid:4)(cid:15)(cid:22)(cid:2)(cid:14)(cid:9)(cid:6)(cid:12)(cid:9)(cid:10)#(cid:2)(cid:19)(cid:4)(cid:15)(cid:10)(cid:11)(cid:20)(cid:2)’(cid:20)( (cid:15)(cid:13)(cid:11)(cid:17)(cid:22)(cid:5)(cid:17)(cid:4)(cid:12)(cid:6)(cid:21)(cid:2)(cid:8)(cid:17)(cid:7)(cid:4)(cid:5)(cid:13)#(cid:2)(cid:20)(cid:8)(cid:19)(cid:10)’(cid:10)(cid:2)(cid:8)(cid:9)(cid:18)(cid:2)(cid:21)(cid:6)(cid:2)(cid:15)(cid:2)(cid:15)(cid:13)(cid:8)(cid:4)(cid:7)(cid:4))(cid:23)(cid:9)(cid:2)(cid:5)(cid:17)(cid:9)(cid:6)(cid:8)(cid:9)(cid:18)(cid:23)(cid:9)(cid:4)(cid:7)(cid:11)(cid:4)(cid:19)(cid:12)(cid:6)(cid:21)$
 
-**Art. 3.** Ilekroć przepisy ustaw za przes
+**Art. 4.** (cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:8)(cid:9)(cid:6)(cid:2)(cid:16)(cid:4)(cid:8)(cid:19)(cid:18)(cid:16)(cid:4)(cid:15)(cid:10)(cid:12)(cid:9)(cid:10)(cid:2)(cid:7)(cid:10)(cid:11)(cid:12)(cid:6)+(cid:4)(cid:2)(cid:15)(cid:16)(cid:11)(cid:4)(cid:15)(cid:10)(cid:5)(cid:17)(cid:10)(cid:2)(cid:8)(cid:9)(cid:18)(cid:2)(cid:12)(cid:10)(cid:8)(cid:19)(cid:18)(cid:16)(cid:20)(cid:21)(cid:22)(cid:23)(cid:6)(cid:2)(cid:17)(cid:14)(cid:9)(cid:10)(cid:12)(cid:13)(cid:24)
 
-**Art. 4.** W Kodeksie karnego wprowadza zmiany:
+**Art. 5.** $(cid:2)(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:8)(cid:9)(cid:6)(cid:2)(cid:15)(cid:13)(cid:7)(cid:11)(cid:4)(cid:23)(cid:17)(cid:6)6(cid:2)(cid:15)(cid:16)(cid:11)(cid:4)(cid:15)(cid:10)(cid:5)(cid:17)(cid:10)(cid:2)(cid:8)(cid:9)(cid:18)(cid:2)(cid:12)(cid:10)(cid:8)(cid:19)(cid:18)(cid:16)(cid:20)(cid:21)(cid:22)(cid:23)(cid:6)(cid:2)(cid:17)(cid:14)(cid:9)(cid:10)(cid:12)(cid:13)(cid:24) .(cid:2)(cid:15)(cid:2)(cid:10)(cid:11)(cid:19)$(cid:2) (cid:2)(cid:15)(cid:13)(cid:11)(cid:10)(cid:17)(cid:13)(cid:2)(cid:26)(cid:5)(cid:4)(cid:2)(cid:27)(cid:28)(cid:2)(cid:28)(cid:28)(cid:28)(cid:2)(cid:17)(cid:29)(cid:4)(cid:19)(cid:13)(cid:23)(cid:30)(cid:31)(cid:2)(cid:17)(cid:10)(cid:8)(cid:19)(cid:18)(cid:16)(cid:20)(cid:21)(cid:6)(cid:2)(cid:8)(cid:9)(cid:18)(cid:2)(cid:15)(cid:13)(cid:11)(cid:10)(cid:17)(cid:10)(cid:14)(cid:9)(cid:2)(cid:26)(cid:5)(cid:4)(cid:2) (cid:2)(cid:28)(cid:28)(cid:28)(cid:2)(cid:28)(cid:28)(cid:28)(cid:2)(cid:17)(cid:29)(cid:4)(cid:19)(cid:13)(cid:23)(cid:30)(cid:31)!
 
-**Art. 5.**
+**Art. 6.** (cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:8)(cid:9)(cid:6)(cid:2)(cid:16)(cid:4)(cid:8)(cid:19)(cid:18)(cid:16)(cid:4)(cid:15)(cid:10)(cid:12)(cid:9)(cid:10)(cid:2)(cid:15)(cid:2)(cid:8)(cid:16)(cid:11)(cid:10)(cid:15)(cid:10)(cid:23)(cid:30)(cid:2)(cid:4)(cid:2)(cid:15)(cid:13)(cid:7)(cid:11)(cid:4)(cid:23)(cid:17)(cid:6)(cid:12)(cid:9)(cid:10)(cid:2)(cid:15)(cid:16)(cid:11)(cid:4)(cid:15)(cid:10)(cid:5)(cid:17)(cid:10)(cid:2)(cid:8)(cid:9)(cid:18)(cid:2)(cid:12)(cid:10)(cid:8)(cid:19)(cid:18)(cid:16)(cid:20)(cid:21)(cid:22)(cid:23)(cid:6)(cid:2)(cid:17)(cid:14)(cid:9)(cid:10)(cid:12)(cid:13)(cid:24)
 
-1. W Kodeksie wprowadza na zmiany:
-
-- **1)** wart. 1 wyrazy "do 50000 wyrazami "do 1000000
-- **2)** wart. 10 2 wyrazy "od 500 do 1 500 wyrazami "od 10000 do 30000
-- **3)** wart. 23 wyrazy "od 10000 do 30000 wyrazami "od 150000 do 450000 tych";
-- **4)** wart. 24 1 wyrazy "od 1000 do 50000 wyrazami "od 20000 do 1 000000 tych";
-- **5)** wart. 25 1 wyrazy ,,10000 wyrazami" 1 00 000 a wyrazy "od 500 do - wyrazami "od 10000 do 30000
-- **6)** wart. 37 wyrazy ,,20000 mi ,,200000
-- **7)** art. 37a.
-
-2. przepisy ustaw za wykroczenia:
-
-- **1)** lub grzywny przepisów ogólnej Kodeksu
-- **2)** lub albo mienia, towaru lub szkody, je
-
-**Art. 6.** W Kodeksie sprawach kroczenia wprowadza zmiany:
-
-**Art. 7.** Ustawa wchodzi po 14 dnia Prezydent Rzeczypospolitej Polskiej: W. Jaruzelski 423 USTAWA dnia 28 1990 r. o zmianie ustawy - Karta Nauczyciela.
-
-**Art. 1.** W ustawie dnia 26 stycznia 1982 r. - Karta Nauczyciela (Dz. U. Nr 3, poz. 19, Nr 25, poz. 187 i Nr 31, poz. 214, 1983 r. Nr 5, poz. 33, 1988 r. Nr 19, poz. 132, 1989 r. Nr 4, poz. 24 i Nr 35, poz. 192 oraz 1990 r. Nr 34, poz. 197 i Nr 36, poz. 206) wprowadza wi Art. 67 otrzymuje brzmienie: wynagrodzenie, jakie by gdyby tym czasie Wynagro dzenie za godziny ponadwymiarowe i dodatkowe oblicza na podstawie nego wynagrodzenia okresu wszystkich danego roku szkolnego, urlopu, a okres trudnienia jest krótszy od roku szkolnego
+**Art. 7.** 3(cid:8)(cid:19)(cid:10)(cid:15)(cid:10)(cid:2)(cid:15)(cid:23)(cid:30)(cid:4)(cid:5)(cid:17)(cid:9)(cid:2)(cid:15)(cid:2)%(cid:13)(cid:23)(cid:9)(cid:6)(cid:2)(cid:16)(cid:4)(cid:2)(cid:20)(cid:16)(cid:29)(cid:13)(cid:15)(cid:9)(cid:6)(cid:2) 0(cid:2)(cid:5)(cid:12)(cid:9)(cid:2)(cid:4)(cid:5)(cid:2)(cid:5)(cid:12)(cid:9)(cid:10)(cid:2)(cid:4)+(cid:29)(cid:4)(cid:8)(cid:17)(cid:6)(cid:12)(cid:9)(cid:10)$
 

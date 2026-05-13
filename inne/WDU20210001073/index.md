@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 16 czerwca 2021 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy o rodzinnych ogrodach działkowych
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 21 maja 2021 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001073) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1073/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 21 maja 2021 r.
-sprawie ogłoszenia jednolitego tekstu ustawy o rodzinnych ogrodach działkowych
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 13 grudnia 2013 r. o rodzinnych ogrodach działkowych (Dz. U. z 2017 r. poz. 2176), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 13 lutego 2020 r. o zmianie ustawy Prawo budowlane oraz niektórych innych ustaw (Dz. U. poz. 471) oraz zmian wynikających z przepisów ogłoszonych przed dniem 21 maja 2021 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 27, art. 36 i art. 39 ustawy z dnia 13 lutego 2020 r. o zmianie ustawy Prawo budowlane oraz niektórych innych ustaw (Dz. U. poz. 471), które stanowią: „Art. 27. 1. Do zamierzeń budowlanych realizowanych oparciu o projekt budowlany sporządzony na podstawie przepisów dotychczasowych:
 1) przypadkach, o których mowa art. 25 i art. 26,
@@ -68,7 +68,7 @@ Art. 53–64. (pominięte)
 
 4. W odniesieniu do gruntów stanowiących własność Skarbu Państwa, z wyłączeniem nieruchomości, którymi na mocy przepisów odrębnych gospodaruje inny organ, kompetencję, o której mowa ust. 1, wykonuje właściwy starosta drodze zarządzenia, po uzyskaniu zgody wojewody. Przepis ust. 2 stosuje się odpowiednio.
 
-**Art. 9.** Grunty stanowiące własność Skarbu Państwa lub jednostek samorządu terytorialnego mogą być drodze umowy sprzedawane, oddawane nieodpłatne lub odpłatne użytkowanie na czas nieoznaczony lub użytkowanie wieczyste stowarzyszeniom ogrodowym z przeznaczeniem na zakładanie i prowadzenie ROD trybie określonym ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2020 r. poz. 1990 oraz z 2021 r. poz. 11, 234 i 815). wane przez właściciela gruntu. 2. Gmina obowiązana jest do doprowadzenia do ROD dróg dojazdowych, energii elektrycznej, zaopatrzenia wodę oraz uwzględnienia organizacji komunikacji publicznej potrzeb ROD. 3. W drodze umowy pomiędzy gminą a stowarzyszeniem ogrodowym, obowiązki, o których mowa ust. 2, mogą być przejęte przez stowarzyszenie ogrodowe. W takim przypadku umowa określa tryb wzajemnych rozliczeń.
+**Art. 9.** Grunty stanowiące własność Skarbu Państwa lub jednostek samorządu terytorialnego mogą być drodze umowy sprzedawane, oddawane nieodpłatne lub odpłatne użytkowanie na czas nieoznaczony lub użytkowanie wieczyste stowarzyszeniom ogrodowym z przeznaczeniem na zakładanie i prowadzenie ROD trybie określonym ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2020 r. poz. 1990 oraz z 2021 r. poz. 11, 234 i 815). przez właściciela gruntu. 2. Gmina obowiązana jest do doprowadzenia do ROD dróg dojazdowych, energii elektrycznej, zaopatrzenia wodę oraz uwzględnienia organizacji komunikacji publicznej potrzeb ROD. 3. W drodze umowy pomiędzy gminą a stowarzyszeniem ogrodowym, obowiązki, o których mowa ust. 2, mogą być przejęte przez stowarzyszenie ogrodowe. W takim przypadku umowa określa tryb wzajemnych rozliczeń.
 
 **Art. 11.**
 
@@ -118,7 +118,10 @@ Art. 53–64. (pominięte)
 
 5. Wytoczenie powództwa, o którym mowa ust. 4, nie zawiesza obowiązywania zaskarżonego regulaminu lub jego zmian. Prawo do wytoczenia powództwa wygasa z upływem 3 miesięcy od dnia otrzymania wiadomości o uchwaleniu regulaminu lub jego zmian, jednakże nie później niż z upływem 6 miesięcy od dnia uchwalenia regulaminu lub jego zmian.
 
-- **1)** stowarzyszenia ogrodowego odniesieniu do terenu ogólnego;
+**Art. 15.**
+
+1. Utrzymanie porządku i czystości należy do:
+
 - **2)** działkowca odniesieniu do jego działki;
 - **3)** właściwej gminy odniesieniu do terenów przylegających do ROD, chyba że obowiązek ten na mocy przepisów szczególnych ciąży na osobach fizycznych, jednostkach organizacyjnych nieposiadających osobowości prawnej lub osobach prawnych innych niż stowarzyszenie ogrodowe.
 
@@ -163,7 +166,7 @@ Art. 53–64. (pominięte)
 
 3. W przypadku zaistnienia przesłanek, o których mowa art. 24 ust. 3, przedstawiając propozycję umowy, o której mowa ust. 2, właściciel nieruchomości jest zwolniony z obowiązku wskazania nieruchomości zamiennej.
 
-5. W przypadku odmowy zawarcia umowy, o której mowa ust. 2, właściciel nieruchomości może wytoczyć powództwo o uznanie odmowy za bezzasadną, terminie 6 miesięcy od dnia doręczenia odmowy. Rozpatrując sprawę sąd bada zgodność proponowanej umowy z przepisami ustawy. Orzeczenie sądu stwierdzające bezzasadność odmowy zastępuje oświadczenie przedmiocie zgody na likwidację.
+4. Zawarcie umowy, o której mowa ust. 2, wymaga zgody 2/3 działkowców likwidowanego ROD. bada zgodność proponowanej umowy z przepisami ustawy. Orzeczenie sądu stwierdzające bezzasadność odmowy zastępuje oświadczenie przedmiocie zgody na likwidację.
 
 **Art. 20.**
 
@@ -204,7 +207,8 @@ Art. 53–64. (pominięte)
 
 2. W przypadku likwidacji ROD, o której mowa ust. 1, przepis art. 22 ust. 1 stosuje się odpowiednio. Obowiązanym do wypłaty odszkodowań jest podmiot, który występował jako właściciel nieruchomości dniu, o którym mowa ust. 1. Ustalenie odszkodowań następuje drodze decyzji.
 
-- **1)** przypadku gdy podmiotem obowiązanym do wypłaty odszkodowań jest Skarb Państwa starosta, wykonujący zadanie z zakresu administracji rządowej;
+3. Organem właściwym do wydania decyzji, o której mowa ust. 2, jest:
+
 - **2)** przypadku gdy podmiotem obowiązanym do wypłaty odszkodowań jest jednostka samorządu terytorialnego organ wykonawczy tej jednostki.
 
 4. W przypadku gdy likwidacja części ROD, o której mowa ust. 1, powoduje, że inna część ROD nie nadaje się do prawidłowego wykorzystania na dotychczasowe cele, podmiot, o którym mowa ust. 2, jest obowiązany, na wniosek stowarzyszenia ogrodowego, do likwidacji tej części ROD. Przepisy art. 19–24 stosuje się.
@@ -249,7 +253,7 @@ Art. 53–64. (pominięte)
 
 6. Do ochrony dzierżawy działkowej stosuje się odpowiednio przepisy o ochronie własności.
 
-**Art. 29.** Zasady, warunki i tryb ustanawiania na rzecz działkowca tytułu prawnego do działki, innego niż uregulowany niniejszej ustawie, określi odrębna ustawa. zgodnie z przepisami ustawy oraz regulaminem. 2. Nasadzenia, urządzenia i obiekty znajdujące się na działce, wykonane lub nabyte ze środków finansowych działkowca, stanowią jego własność.
+**Art. 29.** Zasady, warunki i tryb ustanawiania na rzecz działkowca tytułu prawnego do działki, innego niż uregulowany niniejszej ustawie, określi odrębna ustawa. 2. Nasadzenia, urządzenia i obiekty znajdujące się na działce, wykonane lub nabyte ze środków finansowych działkowca, stanowią jego własność.
 
 **Art. 31.** Działkowiec jest uprawniony do korzystania z terenu ogólnego oraz infrastruktury ogrodowej zgodnie z ich przeznaczeniem i na zasadach określonych regulaminie.
 
@@ -289,7 +293,7 @@ Art. 53–64. (pominięte)
 
 3. Stowarzyszenie ogrodowe może wypowiedzieć umowę, nie później niż na miesiąc naprzód, na koniec miesiąca kalendarzowego, jeżeli działkowiec:
 
-- **1)** pomimo pisemnego upomnienia nadal korzysta z działki lub altany działkowej sposób sprzeczny z przepisami ustawy lub regulaminem, niszczy infrastrukturę ogrodową albo wykracza sposób rażący lub uporczywy przeciwko porządkowi ogrodowemu, czyniąc uciążliwym korzystanie z innych działek lub ogrodowego za korzystanie z działki co najmniej przez 6 miesięcy pomimo uprzedzenia go na piśmie o zamiarze wypowiedzenia umowy i wyznaczenia dodatkowego, miesięcznego terminu do zapłaty zaległych i bieżących należności, lub
+- **1)** pomimo pisemnego upomnienia nadal korzysta z działki lub altany działkowej sposób sprzeczny z przepisami ustawy lub regulaminem, niszczy infrastrukturę ogrodową albo wykracza sposób rażący lub uporczywy przeciwko porządkowi ogrodowemu, czyniąc uciążliwym korzystanie z innych działek lub dowego za korzystanie z działki co najmniej przez 6 miesięcy pomimo uprzedzenia go na piśmie o zamiarze wypowiedzenia umowy i wyznaczenia dodatkowego, miesięcznego terminu do zapłaty zaległych i bieżących należności, lub
 - **3)** oddał działkę lub jej część osobie trzeciej do płatnego lub bezpłatnego używania.
 
 **Art. 37.**
@@ -437,7 +441,7 @@ Art. 53–64. (pominięte)
 
 1. Do założenia stowarzyszenia ogrodowego, powołanego na podstawie uchwały o wyodrębnieniu ROD, stosuje się przepisy ustawy z dnia 7 kwietnia 1989 r. Prawo o stowarzyszeniach.
 
-2. Występując z wnioskiem o rejestrację stowarzyszenia ogrodowego powołanego na podstawie uchwały o wyodrębnieniu ROD, komitet założycielski, poza wymogami przewidzianymi przepisami ustawy z dnia 7 kwietnia 1989 r. Prawo o stowarzyszeniach, obowiązany jest przedłożyć uchwałę o wyodrębnieniu ROD oraz wykazać spełnienie wymogów, o których mowa art. 69 ust. 2 i art. 70 ust. 2 lub art. 72. stępcą prawnym stowarzyszenia ogrodowego, o którym mowa art. 65 ust. 1 pkt 1, zakresie praw i obowiązków terenowej jednostki organizacyjnej, której dotyczyła uchwała o wyodrębnieniu ROD. Następstwo prawne obejmuje szczególności prawa do nieruchomości zajmowanych przez rodzinny ogród działkowy, własność infrastruktury ogrodowej oraz środki na rachunkach bankowych prowadzonych dla terenowej jednostki organizacyjnej.
+2. Występując z wnioskiem o rejestrację stowarzyszenia ogrodowego powołanego na podstawie uchwały o wyodrębnieniu ROD, komitet założycielski, poza wymogami przewidzianymi przepisami ustawy z dnia 7 kwietnia 1989 r. Prawo o stowarzyszeniach, obowiązany jest przedłożyć uchwałę o wyodrębnieniu ROD oraz wykazać spełnienie wymogów, o których mowa art. 69 ust. 2 i art. 70 ust. 2 lub art. 72. wej jednostki organizacyjnej, której dotyczyła uchwała o wyodrębnieniu ROD. Następstwo prawne obejmuje szczególności prawa do nieruchomości zajmowanych przez rodzinny ogród działkowy, własność infrastruktury ogrodowej oraz środki na rachunkach bankowych prowadzonych dla terenowej jednostki organizacyjnej.
 
 4. Podstawę rachunkową wyodrębnienia rodzinnego ogrodu działkowego stanowi sprawozdanie finansowe tego rodzinnego ogrodu działkowego, sporządzone na dzień poprzedzający dzień, o którym mowa ust. 3. Stowarzyszenie ogrodowe, o którym mowa ust. 1, zobowiązane jest spłacić wszystkie należności wewnątrzorganizacyjne przysługujące stowarzyszeniu ogrodowemu, o którym mowa art. 65 ust. 1 pkt 1, a powstałe przed dniem, o którym mowa ust. 3.
 
@@ -477,8 +481,8 @@ Art. 53–64. (pominięte)
 1. Właściciel nieruchomości nie może wydać decyzji, o której mowa art. 75 ust. 1, jeżeli dniu wejścia życie niniejszej ustawy rodzinny ogród działkowy spełnia przynajmniej jeden z warunków:
 
 - **1)** funkcjonowanie rodzinnego ogrodu działkowego na nieruchomości jest zgodne z miejscowym planem zagospodarowania przestrzennego;
-- **2)** rodzinny ogród działkowy funkcjonuje na nieruchomości co najmniej 30 lat, a nabycie własności nieruchomości przez Skarb Państwa nastąpiło związku z zakładaniem rodzinnego ogrodu działkowego lub funkcjonował on na nieruchomości momencie nabycia własności nieruchomości przez Skarb Państwa; przez jednostkę samorządu terytorialnego nastąpiło związku z funkcjonowaniem na niej rodzinnego ogrodu działkowego;
-- **4)** nieruchomość zajęta jest przez rodzinny ogród działkowy, który posiadał ustaloną lokalizację dniu wejścia życie ustawy z dnia 6 maja 1981 r. o pracowniczych ogrodach działkowych, lub na podstawie art. 11 ust. 3 lub art. 33 tej ustawy stał się ogrodem stałym.
+- **2)** rodzinny ogród działkowy funkcjonuje na nieruchomości co najmniej 30 lat, a nabycie własności nieruchomości przez Skarb Państwa nastąpiło związku z zakładaniem rodzinnego ogrodu działkowego lub funkcjonował on na nieruchomości momencie nabycia własności nieruchomości przez Skarb Państwa;
+- **3)** rodzinny ogród działkowy funkcjonuje na nieruchomości co najmniej 30 lat, a nabycie własności nieruchomości przez jednostkę samorządu terytorialnego nastąpiło związku z funkcjonowaniem na niej rodzinnego ogrodu działkowego; ustawy stał się ogrodem stałym.
 
 2. W przypadku rodzinnego ogrodu działkowego spełniającego jeden z warunków, wskazanych ust. 1, stowarzyszenie ogrodowe prowadzące ten rodzinny ogród działkowy, z dniem wejścia życie niniejszej ustawy, nabywa prawo użytkowania rozumieniu przepisów ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny nieruchomości zajmowanej przez ten rodzinny ogród działkowy. Stwierdzenie nabycia prawa następuje drodze decyzji.
 

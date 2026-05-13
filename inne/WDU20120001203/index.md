@@ -10,7 +10,9 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 31 października 2012
+# o etykietowaniu energetycznym produktów związanych z energią
+
+*USTAWA z dnia 14 września 2012 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,7 +26,7 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001203) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1203/text.pdf) |
 
-USTAWA dnia 14 września 2012 obowiązkach zakresie informowania zużyciu energii przez produkty wykorzystujące energię
+Art. 19–21. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -32,89 +34,37 @@ USTAWA dnia 14 września 2012 obowiązkach zakresie informowania zużyciu energi
 
 **Art. 2.**
 
-1. Przepisy stosuje się produktów wykorzystujących energię, dla których wymagania dotyczące sporządzania dokumentacji technicznej stosowania etykiet kart określają akty Komisji Europejskiej wydane na podstawie kompetencji delegowanych przez Parlament Europejski Radę, zwane dalej „aktami delegowanymi”.
+1. Przepisy ustawy stosuje się do produktów związanych z energią, dla których wymagania dotyczące sporządzania dokumentacji technicznej oraz stosowania etykiet i kart informacyjnych produktów określają akty Komisji Europejskiej wydane na podstawie kompetencji delegowanych przez Parlament Europejski i Radę, zwane dalej „aktami delegowanymi”. wymagania dotyczące efektywności energetycznej i ich znakowania określa umowa między rządem Stanów Zjednoczonych Ameryki a Unią Europejską sprawie koordynacji programów znakowania efektywności energetycznej urządzeń biurowych (Dz. Urz. UE L 63 z 06.03.2013, str. 7), zwana dalej „umową”.
 
-2. Minister właściwy spraw gospodarki ogłasza, drodze obwieszczenia, Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, wykaz aktów delegowanych.
+3. Przepisów ustawy nie stosuje się do produktów i środków transportu, o których mowa art. 1 ust. 2 rozporządzenia (UE) 2017/1369.
 
-3. Przepisów nie stosuje się do:
+**Art. 2a.** Minister właściwy do spraw energii prowadzi działania edukacyjno-informacyjne na temat etykietowania energetycznego produktów związanych z energią rozumieniu rozporządzenia (UE) 2017/1369.
 
-- **1)** produktów używanych;
-- **2)** środków przewozu osób lub rzeczy;
-- **3)** tabliczek znamionowych lub ich odpowiedników umieszczanych ze względów bezpieczeństwa na produktach wykorzystujących energię;
-- **4)** urządzeń instalacji obiektów związanych obronnością lub bezpieczeństwem państwa, stanowiących integralne części systemów techniki wojskowej lub uzbrojenia, ratowniczo-gaśniczych ochrony granic, lub stosowanych więziennictwie, należących jednostek, których art. 21a dnia 10 kwietnia 1997 Prawo energetyczne (Dz. 2012 1059).
+**Art. 3.** (uchylony)
 
-**Art. 3.** Użyte ustawie określenia oznaczają:
+#### Rozdział 2 (uchylony)
 
-#### Rozdział 2 Obowiązki zakresie informowania zużyciu energii przez produkty wykorzystujące energię lub wpływie tych produktów na zużycie energii innych podstawowych zasobów
-
-**Art. 4.**
-
-1. Dostawca jest obowiązany do:
-
-- **1)** dołączenia produktu wykorzystującego energię, wprowadzanego obrotu lub oddawanego użytku, etykiety karty sporządzonych języku polskim;
-- **2)** dołączenia karty wszelkich broszur lub innej dokumentacji dostarczanej wraz produktem wykorzystującym energię;
-- **3)** umieszczenia na etykiecie karcie danych zgodnych parametrami technicznymi produktu wykorzystującego energię.
-
-2. Etykieta jest dostarczana dystrybutorowi nieodpłatnie.
-
-3. Dystrybutor jest obowiązany umieścić na produkcie wykorzystującym energię etykietę widocznym miejscu udostępnić użytkownikowi końcowemu kartę tego produktu.
-
-4. Informacje, jakie należy zamieścić na etykiecie karcie zużyciu energii przez produkt wykorzystujący energię podczas jego sprzedaży na odległość lub wykorzystaniem innych form sprzedaży lub wynajmu określają akty delegowane.
-
-5. Akty delegowane określają także sposób informowania użytkowników końcowych korzystających form sprzedaży lub wynajmu, których ust. 4, zużyciu energii przez produkty wykorzystujące energię, przed nabyciem tych produktów.
-
-6. Umieszczenie na produkcie wykorzystującym energię etykiety dołączenie niego karty oznacza zgodę dostawcy na upublicznienie informacji zamieszczonych na etykiecie karcie.
-
-**Art. 5.**
-
-1. Dostawca, celu umożliwienia organom, których art. 10 ust. 1, Komisji Europejskiej dokonania oceny rzetelności informacji zamieszczonych na etykiecie karcie, jest obowiązany do:
-
-- **1)** sporządzenia dokumentacji technicznej produktu wykorzystującego energię umożliwiającej ocenę rzetelności informacji zamieszczonych na etykiecie karcie;
-- **2)** wyniki przeprowadzonych badań, ile są istotne;
-- **3)** wyniki testów, ile są dostępne, tym testów przeprowadzanych przez notyfikowane jednostki rozumieniu przepisów systemie oceny zgodności.
-
-3. Dostawca udostępnia dokumentację techniczną produktu wykorzystującego energię na żądanie organów, których art. 10 ust. 1, Komisji Europejskiej, terminie 10 dni od dnia zgłoszenia żądania.
-
-**Art. 6.**
-
-1. Zakazuje się:
-
-- **1)** wprowadzania obrotu produktów wykorzystujących energię, których nie dołączono etykiety karty, dla których nie sporządzono dokumentacji technicznej;
-- **2)** umieszczania na produkcie wykorzystującym energię etykiet, znaków, symboli lub napisów, które mogą wprowadzić błąd użytkowników końcowych zużyciu energii przez ten produkt lub wpływie tego produktu na zużycie energii lub innych podstawowych zasobów;
-- **3)** posługiwania się etykietą sposób nieuprawniony.
-
-2. Przez posługiwanie się etykietą sposób nieuprawniony rozumie się posługiwanie się etykietą sposób inny niż określony ustawie aktach delegowanych.
-
-**Art. 7.**
-
-1. W przypadku gdy dostawca lub dystrybutor reklamuje produkt wykorzystujący energię, szczególności postaci reklamy prasowej, elektronicznej, programach radiowych lub telewizyjnych, lub innych środkach komunikacji elektronicznej rozumieniu dnia 18 lipca 2002 świadczeniu usług drogą elektroniczną (Dz. 144, 1204, późn. zm. ), zamieszcza tej reklamie informacje cenie tego produktu lub zużyciu przez niego energii, jest obowiązany zamieścić także informację klasie efektywności energetycznej tego produktu.
-
-2. Przez reklamowanie, którym ust. 1, rozumie się informowanie produkcie wykorzystującym energię lub zachęcanie jego nabywania, mające na celu zwiększenie sprzedaży tego produktu.
-
-**Art. 8.** Minister właściwy spraw gospodarki może określić, drodze rozporządzenia, po wydaniu przez Komisję Europejską wymagań dotyczących dokumentacji technicznej, etykiety karty, dla danego rodzaju produktu wykorzystującego energię, szczegółowe wymagania dotyczące dokumentacji technicznej, treści wzoru etykiety, a także treści karty dla danego rodzaju produktu wykorzystującego energię, mając na uwadze rzetelne dostarczanie informacji tym produkcie.
-
-#### Rozdział 3 Kontrola wykonywania obowiązków zakresie informowania zużyciu energii innych podstawowych zasobów przez produkty wykorzystujące energię
+#### Rozdział 3 Kontrola etykietowania energetycznego produktów związanych z energią
 
 **Art. 9.**
 
-1. W celu przeciwdziałania wprowadzaniu obrotu lub oddawaniu użytku produktów wykorzystujących energię:
+1. Tworzy się system kontroli etykietowania energetycznego produktów związanych z energią, zwany dalej „systemem kontroli”, celu przeciwdziałania wprowadzaniu do obrotu lub oddawaniu do użytku produktów związanych z energią, które nie spełniają wymagań określonych rozporządzeniu (UE) 2017/1369 lub aktach delegowanych.
 
-- **1)** których nie dołączono etykiety karty, dla których nie sporządzono dokumentacji technicznej,
-- **2)** na których umieszczono etykiety karty zawierające dane niezgodne parametrami technicznymi tych produktów tworzy się system kontroli produktów wykorzystujących energię, zwany dalej „systemem kontroli”.
+2. Do zadań systemu kontroli należy kontrolowanie wykonywania obowiązków:
 
-2. Do zadań systemu kontroli należy kontrolowanie wykonywania obowiązków, których art. 4, art. 5 art. 7 ust. 1, przestrzegania zakazów, których art. 6.
-
-**Art. 10.**
-
-1. System kontroli tworzą wojewódzcy inspektorzy Inspekcji Handlowej Prezes Urzędu Komunikacji Elektronicznej, zwani dalej „organami kontrolującymi”.
+- **1)** o których mowa art. 3 ust. 1–3 i 5, art. 4 ust. 1, 2, 4 i 6, art. 5 ust. 1 i art. 6 lit. a oraz c–e rozporządzenia (UE) 2017/1369 oraz
+- **2)** zakresie projektu i treści etykiety, karty informacyjnej produktu oraz dokumentacji technicznej, sposobu eksponowania etykiety na produkcie punkcie sprzedaży, tym sprzedaży na odległość, sposobu, jaki klasę energetyczną oraz zakres klas efektywności energetycznej dostępnych na etykiecie należy podawać reklamach wizualnych i technicznych materiałach kontrolującymi”.
 
 2. Organy kontrolujące:
 
-- **1)** przedstawiają Prezesowi Urzędu Ochrony Konkurencji Konsumentów, zwanemu dalej „Prezesem UOKiK”: następnego.
-    - **a)** zakresie działania wojewódzkich inspektorów Inspekcji Handlowej okresowe plany pracy sporządzone na podstawie planów kontroli, których art. 11 ust. 2 pkt 4,
-    - **b)** zakresie działania Prezesa Urzędu Komunikacji Elektronicznej okresowe plany kontroli produktów wykorzystujących energię wprowadzonych obrotu lub oddanych użytku;
+- **1)** przedstawiają Prezesowi Urzędu Ochrony Konkurencji i Konsumentów, zwanemu dalej „Prezesem UOKiK”:
+    - **a)** zakresie działania wojewódzkich inspektorów Inspekcji Handlowej – okresowe plany pracy sporządzone na podstawie planów kontroli, o których mowa art. 11 ust. 2 pkt 4,
+    - **b)** zakresie działania Prezesa Urzędu Komunikacji Elektronicznej, zwanego dalej „Prezesem UKE” – okresowe plany kontroli produktów związanych z energią wprowadzonych do obrotu lub oddanych do użytku;
 
-3. Prezes UOKiK może zgłaszać uwagi planów, których ust. 2 pkt 1 lit. b.
+- **2)** informują Prezesa UOKiK o wynikach przeprowadzonych kontroli;
+- **3)** sporządzają i przekazują Prezesowi UOKiK roczne sprawozdania z przeprowadzonych kontroli do dnia 31 marca roku następnego.
+
+3. Prezes UOKiK może zgłaszać uwagi do planów, o których mowa ust. 2 pkt 1 lit. b.
 
 **Art. 11.**
 
@@ -122,53 +72,89 @@ USTAWA dnia 14 września 2012 obowiązkach zakresie informowania zużyciu energi
 
 2. Do zadań Prezesa UOKiK należy:
 
-- **1)** monitorowanie stosowania przepisów dotyczących informowania zużyciu energii innych podstawowych zasobów przez produkty wykorzystujące energię;
-- **2)** współpraca organami kontrolującymi;
-- **3)** gromadzenie informacji wynikach kontroli produktów wykorzystujących energię;
-- **4)** przygotowywanie, zgodnie przepisami dnia 15 grudnia 2000 Inspekcji Handlowej (Dz. 2009 151, 1219, późn. zm. ), okresowych planów kontroli przeprowadzanych przez wojewódzkich inspektorów Inspekcji Handlowej.
+- **1)** monitorowanie stosowania przepisów dotyczących informowania o zużyciu energii oraz innych podstawowych zasobów przez produkty związane z energią;
+- **2)** współpraca z organami kontrolującymi;
+- **3)** gromadzenie informacji o wynikach kontroli produktów związanych z energią;
+- **4)** przygotowywanie, zgodnie z przepisami ustawy z dnia 15 grudnia 2000 r. o Inspekcji Handlowej (Dz. U. z 2019 r. poz. 1668 i 2166), okresowych planów kontroli przeprowadzanych przez wojewódzkich inspektorów Inspekcji Handlowej.
 
-3. Prezes UOKiK na podstawie wyników monitorowania, którym ust. 2 pkt 1, sporządza co cztery lata sprawozdanie wykonania obowiązków określonych ustawie przekazuje je Komisji Europejskiej terminie dnia 30 czerwca roku, którym sprawozdanie to sporządzono.
+3. Prezes UOKiK na podstawie wyników monitorowania, o którym mowa ust. 2 pkt 1, sporządza co cztery lata sprawozdanie z wykonania obowiązków określonych rozporządzeniu (UE) 2017/1369 i przekazuje je Komisji Europejskiej terminie do dnia 30 czerwca roku, którym sprawozdanie to sporządzono.
 
-**Art. 12.** Kontrola może być prowadzona u dostawcy lub dystrybutora, zwanych dalej „kontrolowanymi”.
+2. Do pobierania i badania próbek produktów związanych z energią stosuje się odpowiednio przepisy ustawy z dnia 15 grudnia 2000 r. o Inspekcji Handlowej oraz akty delegowane.
 
-**Art. 13.**
-
-1. Do prowadzenia kontroli stosuje się odpowiednio przepisy art. 40 ust. 1, 2 3, art. 40b ust. 2 3, art. 40c, art. 40d, art. 40e, art. 40f art. 40i ust. 1 dnia 30 sierpnia 2002 systemie oceny zgodności (Dz. 2010 138, 935 2011 102, 586 227, 1367).
-
-2. Do pobierania badania próbek produktów wykorzystujących energię stosuje się odpowiednio przepisy dnia 15 grudnia 2000 Inspekcji Handlowej akty delegowane.
-
-3. Do czynności kontrolnych badań przeprowadzanych podczas wykonywania czynności kontrolnych stosuje się przepisy ochronie informacji niejawnych, a także ochronie danych osobowych.
+3. Do czynności kontrolnych oraz badań przeprowadzanych podczas wykonywania czynności kontrolnych stosuje się przepisy o ochronie informacji niejawnych, a także o ochronie danych osobowych.
 
 **Art. 14.**
 
-1. W przypadku stwierdzenia niewykonania obowiązków, których art. 4, art. 5 lub art. 7 ust. 1, lub nieprzestrzegania zakazów, których art. 6, organ kontrolujący może zwrócić się kontrolowanego o:
+1. W przypadku stwierdzenia niewykonania obowiązków, o których mowa art. 3 ust. 1–3 i 5, art. 4 ust. 1, 2, 4 i 6, art. 5 ust. 1 i art. 6 lit. a oraz c–e rozporządzenia (UE) 2017/1369, lub obowiązków, o których mowa art. 9 ust. 2 pkt 2, organ kontrolujący zwraca się do dostawcy lub sprzedawcy o:
 
 - **1)** usunięcie niezgodności lub
-- **2)** wstrzymanie sprzedaży produktu wykorzystującego energię, lub
-- **3)** wycofanie produktu wykorzystującego energię obrotu lub użytku, lub
-- **4)** wstrzymanie się udostępnianiem produktu wykorzystującego energię, lub
-- **5)** zaprzestanie reklamowania produktu wykorzystującego energię przedstawienie dowodów podjętych działań terminie określonym przez organ kontrolujący.
+- **2)** wstrzymanie sprzedaży produktu związanego z energią, lub
+- **3)** wycofanie produktu związanego z energią z obrotu lub z użytku, lub
+- **4)** wycofanie produktu związanego z energią od użytkowników, lub
+- **5)** wstrzymanie się z udostępnianiem produktu związanego z energią, lub
+- **6)** zaprzestanie reklamowania produktu związanego z energią – oraz przedstawienie dowodów podjętych działań terminie określonym przez organ kontrolujący.
 
-2. Jeżeli kontrolowany nie przedstawi dowodów podjętych działań, terminie ustalonym przez organ kontrolujący lub wyniku kontroli stwierdzono, że działania takie nie podjęte, organ kontrolujący może wydać decyzję:
+2. Jeżeli dostawca lub sprzedawca nie przedstawi, terminie ustalonym przez organ kontrolujący, dowodów podjętych działań lub wyniku kontroli stwierdzono, że działania takie nie zostały podjęte, organ kontrolujący wydaje decyzję:
 
-- **1)** nakazującą dystrybutorowi wstrzymanie sprzedaży produktów wykorzystujących energię,
-- **2)** nakazującą dostawcy wycofanie obrotu lub użytku produktu wykorzystującego energię,
-- **3)** zakazującą udostępniania produktu wykorzystującego energię,
-- **4)** zakazującą reklamowania produktu wykorzystującego energię terminie określonym przez organ kontrolujący.
+- **1)** nakazującą sprzedawcy wstrzymanie sprzedaży produktu związanego z energią,
+- **2)** nakazującą dostawcy wycofanie z obrotu lub użytku produktu związanego z energią,
+- **3)** nakazującą usunięcie niezgodności,
+- **4)** nakazującą wycofanie produktu związanego z energią od użytkowników,
+- **5)** zakazującą udostępniania produktu związanego z energią,
+- **6)** zakazującą reklamowania produktu związanego z energią – terminie określonym przez organ kontrolujący.
 
-3. Organ kontrolujący może przeprowadzić kontrolę celu ustalenia, czy kontrolowany wykonał decyzję, której mowa ust. 2.
-
-**Art. 15.**
-
-1. Organ kontrolujący informuje Prezesa UOKiK wydanych decyzjach, których art. 14 ust. 2.
+2. Prezes UOKiK niezwłocznie informuje Komisję Europejską oraz inne państwa członkowskie Unii Europejskiej o decyzji wydanej przez organ kontrolujący, o której mowa art. 14 ust. 2.
 
 **Art. 16.**
 
-1. W przypadku stwierdzenia, że produkt wykorzystujący energię nie spełnia wymagań określonych etykiecie lub karcie, opłaty za badania, których art. 13 ust. 2 lub 3, ponosi dostawca.
+1. W przypadku stwierdzenia, że produkt związany z energią nie spełnia wymagań określonych etykiecie lub karcie informacyjnej produktu, opłaty związane z badaniami, o których mowa art. 13 ust. 2 lub 3, oraz oceną dokumentacji ponosi dostawca.
 
-2. Wysokość opłat, których ust. 1, organ kontrolujący ustala, drodze decyzji, na podstawie kosztów poniesionych związku badaniami produktu wykorzystującego energię.
+2. Wysokość opłat, o których mowa ust. 1, organ kontrolujący ustala, drodze decyzji, na podstawie kosztów poniesionych związku z badaniami produktu związanego z energią oraz oceną jego dokumentacji.
 
-3. Opłaty, których ust. 1, stanowią dochód budżetu państwa.
+3. Opłaty, o których mowa ust. 1, stanowią dochód budżetu państwa.
+
+#### Rozdział 3a Kontrola realizacji programu znakowania efektywności energetycznej urządzeń biurowych
+
+**Art. 16a.**
+
+1. Kontrolę realizacji programu znakowania efektywności energetycznej urządzeń biurowych przeprowadza Prezes UKE u uczestnika programu rozumieniu art. 3 lit. b rozporządzenia (WE) nr 106/2008, zwanego dalej „uczestnikiem programu”.
+
+2. Kontrola, o której mowa ust. 1, polega na sprawdzeniu prawidłowości posługiwania się przez uczestnika programu wspólnym logo rozumieniu art. 3 lit. a rozporządzenia (WE) nr 106/2008, zgodnie z wymaganiami określonymi umowie.
+
+**Art. 16b.**
+
+1. Kontrola, o której mowa art. 16a ust. 1, jest przeprowadzana przez osoby upoważnione przez Prezesa UKE.
+
+2. Osobom upoważnionym przez Prezesa UKE przysługuje, po okazaniu legitymacji służbowej oraz doręczeniu upoważnienia do przeprowadzenia kontroli, prawo:
+
+- **1)** wstępu do obiektów oraz pomieszczeń uczestnika programu;
+
+3. Czasowe zajęcie, o którym mowa ust. 2 pkt 3, następuje nieodpłatnie.
+
+4. Z kontroli sporządza się protokół podpisany przez osobę przeprowadzającą kontrolę. Protokół podpisuje także uczestnik programu, u którego przeprowadzono kontrolę, lub osoba przez niego upoważniona.
+
+**Art. 16c.**
+
+1. Jeżeli wyniku kontroli, o której mowa art. 16a ust. 1, stwierdzono, że uczestnik programu nie wypełnia zobowiązań wynikających z umowy, Prezes UKE wydaje zalecenia pokontrolne, których wzywa uczestnika programu do usunięcia nieprawidłowości lub udzielenia wyjaśnień.
+
+2. Usunięcie nieprawidłowości lub udzielenie wyjaśnień następuje terminie do 30 dni od dnia doręczenia uczestnikowi programu zaleceń pokontrolnych.
+
+3. Jeżeli po upływie 30 dni od dnia doręczenia uczestnikowi programu zaleceń pokontrolnych nie zostaną usunięte nieprawidłowości lub udzielone wyjaśnienia okażą się niewystarczające, Prezes UKE wydaje decyzję, której nakazuje usunięcie stwierdzonych nieprawidłowości, oraz może:
+
+- **1)** wskazać środki, jakie powinien zastosować uczestnik programu celu usunięcia nieprawidłowości;
+- **2)** określić termin, którym nieprawidłowości mają być usunięte.
+
+4. Prezes UKE informuje niezwłocznie Komisję Europejską o wydanych zaleceniach pokontrolnych oraz decyzji, o której mowa ust. 3.
+
+**Art. 16d.**
+
+1. W przypadku stwierdzenia, że urządzenie biurowe nie spełnia wymagań określonych umowie, za przeprowadzenie badań, o których mowa art. 16b ust. 2 pkt 3, pobiera się opłaty.
+
+2. Opłatę za przeprowadzenie badań, o których mowa art. 16b ust. 2 pkt 3, ponosi uczestnik programu, którego urządzenie biurowe nie spełnia wymagań określonych umowie.
+
+3. Wysokość opłaty za przeprowadzenie badań, o których mowa art. 16b ust. 2 pkt 3, ustala Prezes UKE na podstawie uzasadnionych kosztów tych badań, z uwzględnieniem rodzaju badanego urządzenia biurowego oraz zakresu przeprowadzonych badań. ust. 2 pkt 3, ponosi Skarb Państwa.
+
+6. Do opłat, o których mowa ust. 1, stosuje się przepisy o postępowaniu egzekucyjnym administracji.
 
 #### Rozdział 4 Kary pieniężne
 
@@ -176,59 +162,48 @@ USTAWA dnia 14 września 2012 obowiązkach zakresie informowania zużyciu energi
 
 1. Karze pieniężnej podlega ten, kto:
 
-- **1)** nie dopełnia obowiązku, którym art. 4 art. 5;
-- **2)** nie przestrzega zakazu, którym art. 6;
-- **3)** uniemożliwia lub utrudnia organowi kontrolującemu przeprowadzenie kontroli, której art. 12;
-- **4)** nie wykonał decyzji, której art. 14 ust. 2, terminie określonym przez organ kontrolujący.
+- **1)** nie dopełnia obowiązku, o którym mowa art. 3 ust. 1–3 i 5, art. 4 ust. 1, 2, 4 i 6, art. 5 ust. 1 i art. 6 lit. a oraz c–e rozporządzenia (UE) 2017/1369, lub obowiązków, o których mowa art. 9 ust. 2 pkt 2;
+- **2)** uniemożliwia lub utrudnia organowi kontrolującemu przeprowadzenie kontroli, o której mowa art. 12;
+- **3)** nie wykonał decyzji, o której mowa art. 14 ust. 2, terminie określonym przez organ kontrolujący.
 
-2. W przypadkach, których ust. 1 pkt 1–3, kara pieniężna wynosi od pięciokrotnego dwudziestokrotnego przeciętnego wynagrodzenia miesięcznego gospodarce narodowej za rok poprzedzający, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” na podstawie przepisów emeryturach rentach Funduszu Ubezpieczeń Społecznych, zwanego dalej „przeciętnym wynagrodzeniem”.
+2. W przypadkach, o których mowa ust. 1 pkt 1 i 2, kara pieniężna wynosi od jednokrotnego do dziesięciokrotnego przeciętnego wynagrodzenia miesięcznego gospodarce narodowej za rok poprzedzający, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” na podstawie przepisów o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
 
-3. W przypadku, którym ust. 1 pkt 4, kara pieniężna wynosi od pięciokrotnego piętnastokrotnego przeciętnego wynagrodzenia.
+3. W przypadku, o którym mowa ust. 1 pkt 3, kara pieniężna wynosi od dwukrotnego do dziesięciokrotnego przeciętnego wynagrodzenia, o którym mowa ust. 2.
 
-4. Kary pieniężne, których ust. 1, wymierza, drodze decyzji, organ kontrolujący.
+4. Kary pieniężne, o których mowa ust. 1, wymierza, drodze decyzji, organ kontrolujący.
 
-5. Wysokość kary pieniężnej, której ust. 1, ustala się, uwzględniając szczególności stopień okoliczności naruszenia obowiązków.
+5. Wysokość kary pieniężnej, o której mowa ust. 1, ustala się, uwzględniając szczególności stopień oraz okoliczności naruszenia obowiązków.
 
-6. Termin zapłaty kary pieniężnej wynosi 30 dni od dnia, którym decyzja wymierzeniu kary pieniężnej stała się ostateczna.
+6. Termin zapłaty kary pieniężnej wynosi 30 dni od dnia, którym decyzja o wymierzeniu kary pieniężnej stała się ostateczna.
 
-7. Należności pieniężne tytułu kar pieniężnych stanowią dochód budżetu państwa.
+9. W zakresie nieuregulowanym ustawie do kar pieniężnych stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2019 r. poz. 900, z późn. zm. ).
 
-8. Egzekucja kary pieniężnej następuje trybie przepisów postępowaniu egzekucyjnym administracji zakresie egzekucji należności pieniężnych.
+**Art. 18.** Właściwość miejscową organu kontrolującego sprawach, o których mowa art. 14 ust. 2 i art. 17, ustala się według miejsca przeprowadzenia kontroli.
 
-9. W zakresie nieuregulowanym ustawie kar pieniężnych stosuje się odpowiednio przepisy działu III dnia 29 sierpnia 1997 Ordynacja podatkowa (Dz. 2012 749 1101).
+#### Rozdział 5 Zmiany przepisach obowiązujących
 
-**Art. 18.** Właściwość miejscową organu kontrolującego sprawach, których art. 14 ust. 2 art. 17, ustala się według miejsca przeprowadzenia kontroli.
-
-#### Rozdział 5 przepisach obowiązujących
-
-**Art. 19.** W ustawie dnia 15 grudnia 2000 Inspekcji Handlowej (Dz. 2009 151, 1219, późn. zm. ) art. 3 ust. 1 po pkt 1c dodaje się pkt 1d brzmieniu: „1d) kontrola produktów wykorzystujących energię wprowadzanych obrotu lub oddawanych użytku zakresie wymienionym następujących aktach delegowanych:
-
-**Art. 20.** W ustawie dnia 16 lipca 2004 Prawo telekomunikacyjne (Dz. 171, 1800, późn. zm. ) wprowadza się następujące zmiany:
-
-**Art. 21.** W ustawie dnia 15 kwietnia 2011 efektywności energetycznej (Dz. 94, 551 2012
+#### Rozdział 6 Przepisy przejściowe i końcowe
 
 **Art. 22.**
 
-1. Maksymalny limit wydatków budżetu państwa przeznaczonych na realizację zadań zakresu kontroli monitorowania systemu kontroli, na lata 2013–2022 wynosi 51 208 tys. zł, tym że roku:
+1. Maksymalny limit wydatków budżetu państwa przeznaczonych na realizację zadań z zakresu kontroli i monitorowania systemu kontroli, na lata 2013– 2022 wynosi 51 208 tys. zł, z tym że roku:
 
-- **1)** 2013 5639 tys. zł;
-- **2)** 2014 4843 tys. zł;
-- **3)** 2015 4893 tys. zł;
-- **4)** 2016 4946 tys. zł;
-- **5)** 2017 5000 tys. zł;
-- **6)** 2018 5057 tys. zł;
-- **7)** 2019 5115 tys. zł;
-- **8)** 2020 5175 tys. zł;
-- **9)** 2021 5238 tys. zł;
-- **10)** 2022 5302 tys. zł.
+- **1)** 2013 – 5639 tys. zł;
+- **2)** 2014 – 4843 tys. zł;
+- **3)** 2015 – 4893 tys. zł;
+- **4)** 2016 – 4946 tys. zł;
+- **5)** 2017 – 5000 tys. zł;
+- **6)** 2018 – 5057 tys. zł;
+- **7)** 2019 – 5115 tys. zł;
+- **8)** 2020 – 5175 tys. zł;
+- **9)** 2021 – 5238 tys. zł;
+- **10)** 2022 – 5302 tys. zł.
 
-2. W przypadku zagrożenia przekroczenia limitu wydatków, którym ust. 1, na dany rok budżetowy, zastosowany zostanie mechanizm korygujący polegający na racjonalizacji częstotliwości wykonywania czynności ramach kontroli sprawowanej przez organy kontrolujące.
+2. W przypadku zagrożenia przekroczenia limitu wydatków, o którym mowa ust. 1, na dany rok budżetowy, zastosowany zostanie mechanizm korygujący Elektronicznej.
 
-3. Organem właściwym wdrożenia mechanizmu korygującego, którym ust. 2, jest odpowiednio Prezes UOKiK lub Prezes Urzędu Komunikacji Elektronicznej.
+4. Organem właściwym do monitorowania wykorzystania limitu wydatków, o którym mowa ust. 1, jest odpowiednio Prezes UOKiK lub Prezes Urzędu Komunikacji Elektronicznej.
 
-4. Organem właściwym monitorowania wykorzystania limitu wydatków, którym ust. 1, jest odpowiednio Prezes UOKiK lub Prezes Urzędu Komunikacji Elektronicznej.
+**Art. 23.** Wymagania dotyczące sporządzania dokumentacji technicznej oraz stosowania etykiet i kart dla urządzeń wykorzystujących energię, określone przed dniem wejścia życie niniejszej ustawy przepisach wydanych na podstawie art. 52 ust. 5 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne zachowują moc do dnia wejścia życie aktu delegowanego.
 
-**Art. 23.** Wymagania dotyczące sporządzania dokumentacji technicznej stosowania etykiet kart dla urządzeń wykorzystujących energię, określone przed dniem wejścia życie niniejszej przepisach wydanych na podstawie art. 52 ust. 5 dnia 10 kwietnia 1997 Prawo energetyczne zachowują moc dnia wejścia życie aktu delegowanego.
-
-**Art. 24.** Ustawa wchodzi życie po upływie 3 miesięcy od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: B. Komorowski
+**Art. 24.** Ustawa wchodzi życie po upływie 3 miesięcy od dnia ogłoszenia .
 

@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 30 listopada 2018 r.
+# o zmianie niektórych ustaw związku ze wzmocnieniem nadzoru nad rynkiem finansowym oraz ochrony inwestorów na tym rynku
+
+*USTAWA z dnia 9 listopada 2018 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,16 +26,13 @@ domain: null
 | Ostatnia zmiana | 2025-08-21 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002243) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2243/text.pdf) |
 
-USTAWA z dnia 9 listopada 2018 r.
-o zmianie niektórych ustaw związku ze wzmocnieniem nadzoru nad rynkiem finansowym oraz ochrony inwestorów na tym rynku
-
 **Art. 1.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2018 r. poz. 1036, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie z dnia 29 sierpnia 1997 r. Prawo bankowe (Dz. U. z 2018 r. poz. 2187) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2018 r. poz. 2187) wprowadza się następujące zmiany:
 
 **Art. 146b.**
 
-1. W razie obniżenia sumy funduszy własnych banku poniżej poziomu określonego art. 128 ust. 1 albo powstania niebezpieczeństwa obniżenia tej sumy poniżej poziomu określonego art. 128 ust. 1, Komisja Nadzoru Finansowego może podjąć decyzję o przejęciu banku przez inny bank za zgodą banku przejmującego, jeżeli nie zagrozi to bezpieczeństwu środków gromadzonych na rachunkach banku przejmującym, obniżeniem funduszy własnych banku przejmującego poniżej poziomu określonego zgodnie z art. 128 ust. 1, ani nie stworzy takiego niebezpieczeństwa, oraz nie zagrozi to spełnianiu wymogu, o którym mowa art. 55 ust. 4 ustawy o nadzorze makroostrożnościowym, przez bank przejmujący. Decyzja może zawierać warunki i terminy przejęcia banku przez inny bank.
+1. W razie obniżenia sumy funduszy własnych banku poniżej poziomu określonego art. 128 ust. 1 albo powstania niebezpieczeństwa obniżenia tej sumy poniżej poziomu określonego art. 128 ust. 1, Komisja za zgodą banku przejmującego, jeżeli nie zagrozi to bezpieczeństwu środków gromadzonych na rachunkach banku przejmującym, obniżeniem funduszy własnych banku przejmującego poniżej poziomu określonego zgodnie z art. 128 ust. 1, ani nie stworzy takiego niebezpieczeństwa, oraz nie zagrozi to spełnianiu wymogu, o którym mowa art. 55 ust. 4 ustawy o nadzorze makroostrożnościowym, przez bank przejmujący. Decyzja może zawierać warunki i terminy przejęcia banku przez inny bank.
 
 2. W przypadku gdy jest to konieczne ze względu na sytuację banku przejmowanego, Komisja Nadzoru Finansowego może udzielić zezwolenia na przejęcie mimo czasowego niespełniania przez bank przejmujący wymogu, o którym mowa art. 55 ust. 4 ustawy o nadzorze makroostrożnościowym.
 
@@ -51,7 +50,7 @@ o zmianie niektórych ustaw związku ze wzmocnieniem nadzoru nad rynkiem finanso
 - **2)** bank przejmujący obejmuje zarząd majątkiem banku przejętego;
 - **3)** wygasają prokury i pełnomocnictwa udzielone przez przejęty bank.
 
-2. Bank przejmujący dwukrotnie ogłasza dzienniku o zasięgu ogólnopolskim, Monitorze Sądowym i Gospodarczym oraz na swojej stronie internetowej decyzję o przejęciu banku oraz wzywa wierzycieli tego banku do zgłoszenia roszczeń terminie miesiąca od dnia ostatniego ogłoszenia. Obowiązek ten nie dotyczy wierzycieli z tytułu rachunków bankowych. W przypadku banków spółdzielczych wystarczające jest ogłoszenie piśmie lokalnym, Monitorze Spółdzielczym oraz na stronie internetowej banku przejmującego.
+2. Bank przejmujący dwukrotnie ogłasza dzienniku o zasięgu ogólnopolskim, Monitorze Sądowym i Gospodarczym oraz na swojej stronie internetowej decyzję o przejęciu banku oraz wzywa wierzycieli tego banku do zgłoszenia roszczeń terminie miesiąca od dnia ostatniego ogłoszenia. Obowiązek ten nie dotyczy wierzycieli z tytułu rachunków bankowych. lokalnym, Monitorze Spółdzielczym oraz na stronie internetowej banku przejmującego.
 
 **Art. 146d.**
 
@@ -63,17 +62,17 @@ o zmianie niektórych ustaw związku ze wzmocnieniem nadzoru nad rynkiem finanso
 
 4. Bank przejmujący zgłasza do właściwego rejestru sądowego przejęcie banku wraz z wnioskiem o wykreślenie z rejestru banku przejmowanego oraz sprawozdaniem finansowym banku przejmowanego zbadanym przez biegłego rewidenta.
 
+**Art. 146e.** Fundusze własne banku przejętego przeznacza się na pokrycie strat bilansowych tego banku.
+
 **Art. 146f.**
 
-1. Po zaspokojeniu lub zabezpieczeniu wierzycieli banku przejętego bank przejmujący dokonuje wypłat akcjonariuszom banku przejętego z jego pozostałego majątku proporcjonalnie do wysokości posiadanego uprzednio kapitału, a przypadku banku spółdzielczego wypowiada członkostwo członkom banku przejętego, skutkujące przyznaniem prawa do wypłaty członkom banku przejętego wartości ich udziałów proporcjonalnie do wysokości funduszu udziałowego przejmowanego banku, ustalonego na dzień przejęcia albo wydaje akcjonariuszom tego banku akcje własne. Bank przejmujący dokonuje wypłaty okresie 6 miesięcy od dnia rejestracji przejęcia we właściwym rejestrze sądowym.
+1. Po zaspokojeniu lub zabezpieczeniu wierzycieli banku przejętego bank przejmujący dokonuje wypłat akcjonariuszom banku przejętego z jego pozostałego majątku proporcjonalnie do wysokości posiadanego uprzednio kapitału, a przypadku banku spółdzielczego – wypowiada członkostwo członkom banku przejętego, skutkujące przyznaniem prawa do wypłaty członkom banku przejętego wartości ich udziałów proporcjonalnie do wysokości funduszu udziałowego przejmowanego banku, ustalonego na dzień przejęcia albo wydaje akcjonariuszom tego banku akcje własne. Bank przejmujący dokonuje wypłaty okresie 6 miesięcy od dnia rejestracji przejęcia we właściwym rejestrze sądowym.
 
 2. Wydanie akcji własnych następuje po ustalonej cenie emisyjnej, nie wyższej jednak niż wartość księgowa akcji. Wartość prawa do funduszu udziałowego jest ustalana przy uwzględnieniu ostatniego zatwierdzonego bilansu banku przejmującego.
 
-3. W przypadku gdy przejęcie banku jest przyczyną szkody, której naprawienie dochodzone jest na zasadach ogólnych, poszkodowany nie może żądać naprawienia poniesionej szkody poprzez zapłatę kwoty wyższej niż różnica między kwotą, która zostałaby uzyskana przypadku wydania przez sąd postanowienia o ogłoszeniu upadłości banku, a kwotą uzyskaną wyniku zaspokojenia wierzytelności albo wartością akcji albo udziałów ustaloną zgodnie z ust. 1. Ustalenia różnicy kwot, o której mowa zdaniu poprzednim, dokonuje się przy założeniu, że dniu przejęcia, określonym decyzji, o której mowa art. 146b ust. 1, sąd wydał postanowienie o ogłoszeniu upadłości banku.
+3. W przypadku gdy przejęcie banku jest przyczyną szkody, której naprawienie dochodzone jest na zasadach ogólnych, poszkodowany nie może żądać naprawienia poniesionej szkody poprzez zapłatę kwoty wyższej niż różnica między kwotą, która zostałaby uzyskana przypadku wydania przez sąd zaspokojenia wierzytelności albo wartością akcji albo udziałów ustaloną zgodnie z ust. 1. Ustalenia różnicy kwot, o której mowa zdaniu poprzednim, dokonuje się przy założeniu, że dniu przejęcia, określonym decyzji, o której mowa art. 146b ust. 1, sąd wydał postanowienie o ogłoszeniu upadłości banku.
 
 **Art. 146g.** Bank przejmujący może żądać zmiany treści zobowiązania zaciągniętego przez czynność prawną banku przejętego okresie roku przed przejęciem, jeżeli wyniku tej czynności druga strona uzyskała korzyść na warunkach korzystniejszych od stosowanych wówczas przez bank przejęty.”;
-
-**Art. 3.** W ustawie z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2017 r. poz. 1373) art. 51 ust. 1 po pkt 3a dodaje się pkt 3b brzmieniu: „3b) Urzędu Komisji Nadzoru Finansowego;”.
 
 **Art. 4.** W ustawie z dnia 29 sierpnia 1997 r. o listach zastawnych i bankach hipotecznych (Dz. U. z 2016 r. poz. 1771) wprowadza się następujące zmiany:
 
@@ -81,12 +80,12 @@ o zmianie niektórych ustaw związku ze wzmocnieniem nadzoru nad rynkiem finanso
 
 **Art. 123.**
 
-1. Certyfikaty inwestycyjne podlegają zarejestrowaniu depozycie papierów wartościowych prowadzonym zgodnie z przepisami ustawy o obrocie instrumentami finansowymi.
+1. Certyfikaty inwestycyjne podlegają zarejestrowaniu depozycie papierów wartościowych prowadzonym zgodnie z przepisami ustawy o obrocie instrumentami finansowymi. stosuje się przepisy ustawy o obrocie instrumentami finansowymi dotyczące praw ze zdematerializowanych papierów wartościowych.”;
 
-2. Do powstawania oraz przenoszenia praw z certyfikatów inwestycyjnych stosuje się przepisy ustawy o obrocie instrumentami finansowymi dotyczące praw ze zdematerializowanych papierów wartościowych.”;
+- **4)** art. 136:
+    - **a)** ust. 2 otrzymuje brzmienie: „2. Wydanie, o którym mowa ust. 1, następuje chwili zapisania certyfikatu na rachunku papierów wartościowych uczestnika albo na właściwym rachunku zbiorczym.”,
+    - **b)** uchyla się ust. 3;
 
-- **a)** ust. 2 otrzymuje brzmienie: „2. Wydanie, o którym mowa ust. 1, następuje chwili zapisania certyfikatu na rachunku papierów wartościowych uczestnika albo na właściwym rachunku zbiorczym.”,
-- **b)** uchyla się ust. 3;
 - **5)** art. 141 ust. 1 otrzymuje brzmienie: „1. Członkiem rady inwestorów może być wyłącznie uczestnik funduszu inwestycyjnego zamkniętego reprezentujący ponad 5% ogólnej liczby certyfikatów inwestycyjnych danym funduszu, który wyraził pisemną zgodę na udział radzie oraz dokonał blokady certyfikatów inwestycyjnych liczbie stanowiącej ponad 5% ogólnej liczby certyfikatów na rachunku papierów wartościowych lub na rachunku zbiorczym.”;
 - **6)** art. 143:
     - **a)** ust. 1 otrzymuje brzmienie: „1. Uprawnionymi do udziału zgromadzeniu inwestorów są uczestnicy funduszu, którzy nie później niż na 7 dni przed dniem odbycia zgromadzenia złożą towarzystwu świadectwo depozytowe wydane zgodnie z przepisami ustawy o obrocie instrumentami finansowymi.”,
@@ -109,8 +108,7 @@ o zmianie niektórych ustaw związku ze wzmocnieniem nadzoru nad rynkiem finanso
     - **a)** oznaczenie ich emisji,
     - **b)** liczbę obligacji wyemitowanych ramach tej emisji,
     - **c)** jednostkową wartość nominalną obligacji i walutę, której wartość ta została wyrażona,
-    - **d)** wysokość oprocentowania obligacji stosunku rocznym,
-    - **e)** łączną wartość i walutę świadczenia, które powinno zostać spełnione przez emitenta z tytułu wykupu obligacji,
+    - **d)** wysokość oprocentowania obligacji stosunku rocznym, przez emitenta z tytułu wykupu obligacji,
     - **f)** terminy, których emitent powinien wykonywać świadczenia z tych obligacji;
 
 - **2)** przypadku listów zastawnych:
@@ -122,15 +120,15 @@ o zmianie niektórych ustaw związku ze wzmocnieniem nadzoru nad rynkiem finanso
     - **f)** terminy, których emitent powinien wykonywać świadczenia z tych listów zastawnych;
 
 - **3)** przypadku certyfikatów inwestycyjnych:
-    - **a)** oznaczenie ich emisji, a przypadku gdy są związane z subfunduszem oznaczenie tego subfunduszu,
+    - **a)** oznaczenie ich emisji, a przypadku gdy są związane z subfunduszem – oznaczenie tego subfunduszu,
     - **b)** liczbę wyemitowanych certyfikatów inwestycyjnych ramach tej emisji,
     - **c)** wskazanie świadczeń wynikających z certyfikatów inwestycyjnych oraz terminów, których emitent powinien wykonywać te świadczenia.
 
 2. Emitent, o którym mowa ust. 1, jest obowiązany przekazywać Krajowemu Depozytowi, terminie 15 dni po zakończeniu każdego kolejnego miesiąca, informacje o wartości świadczeń wynikających z papierów wartościowych, o których mowa ust. 1, które okresie tego miesiąca stały się wymagalne, ze wskazaniem, czy i jakim zakresie świadczenia te zostały spełnione, a także aktualizować informacje, o których mowa ust. 1, przypadku gdy przestały one odpowiadać stanowi rzeczywistemu.
 
-3. W informacjach, o których mowa ust. 1 i 2, emitent wskazuje identyfikujący go niepowtarzalny identyfikator podmiotu prawnego zgodny z normą ISO 174420 (kod LEI) nadany przez podmiot uprawniony do rejestrowania takich identyfikatorów.”;
+3. W informacjach, o których mowa ust. 1 i 2, emitent wskazuje identyfikujący go niepowtarzalny identyfikator podmiotu prawnego zgodny z normą ISO 174420 (kod LEI) nadany przez podmiot uprawniony do rejestrowania takich identyfikatorów.”; „5e. Krajowy Depozyt gromadzi i udostępnia do publicznej wiadomości informacje o nieumorzonych obligacjach, listach zastawnych oraz certyfikatach inwestycyjnych wyemitowanych przez poszczególnych emitentów posiadających siedzibę na terytorium Rzeczypospolitej Polskiej, informacje dotyczące wielkości ich zobowiązań z tytułu tych papierów wartościowych, a także informacje pozwalające ustalić zakres i terminowość wykonywania przez nich tych zobowiązań.”;
 
-- **4)** art. 48 po ust. 5d dodaje się ust. 5e brzmieniu: „5e. Krajowy Depozyt gromadzi i udostępnia do publicznej wiadomości informacje o nieumorzonych obligacjach, listach zastawnych oraz certyfikatach inwestycyjnych wyemitowanych przez poszczególnych emitentów posiadających siedzibę na terytorium Rzeczypospolitej Polskiej, informacje dotyczące wielkości ich zobowiązań z tytułu tych papierów wartościowych, a także informacje pozwalające ustalić zakres i terminowość wykonywania przez nich tych zobowiązań.”;
+- **5)** art. 128:
     - **a)** ust. 7 wyrazy „urząd Komisji” zastępuje się wyrazami „Urząd Komisji”,
     - **b)** ust. 10 otrzymuje brzmienie: „10. Za egzaminy oraz za sprawdzian umiejętności, o którym mowa art. 129 ust. 3, pobiera się opłaty, które stanowią przychody Urzędu Komisji.”;
 
@@ -142,9 +140,7 @@ o zmianie niektórych ustaw związku ze wzmocnieniem nadzoru nad rynkiem finanso
 
 **Art. 178d.**
 
-1. Kto, będąc osobą uprawnioną do reprezentowania emitenta, dopuszcza do tego, że emitent nie wykonuje obowiązków, o których mowa art. 7b, albo wykonuje je nienależycie, podlega grzywnie do 2 000 000 zł.
-
-2. Tej samej karze podlega, kto przekazuje Krajowemu Depozytowi nieprawdziwe dane, o których mowa art. 7b, lub zataja prawdziwe dane.”.
+1. Kto, będąc osobą uprawnioną do reprezentowania emitenta, dopuszcza do tego, że emitent nie wykonuje obowiązków, o których mowa art. 7b, albo wykonuje je nienależycie, podlega grzywnie do 2 000 000 zł. nieprawdziwe dane, o których mowa art. 7b, lub zataja prawdziwe dane.”.
 
 **Art. 10.** W ustawie z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. z 2018 r. poz. 621, 650, 685, 1075 i 2215) wprowadza się następujące zmiany:
 
@@ -162,7 +158,11 @@ o zmianie niektórych ustaw związku ze wzmocnieniem nadzoru nad rynkiem finanso
 
 3. Sporządzone przez Komisję roczne sprawozdanie finansowe Urzędu Komisji jest przekazywane wraz ze sprawozdaniem z badania Prezesowi Rady Ministrów celu zatwierdzenia.
 
-4. Zatwierdzone sprawozdanie finansowe Urzędu Komisji jest przekazywane ministrowi właściwemu do spraw instytucji finansowych terminach określonych przepisach wydanych na podstawie art. 41 ust. 4 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2017 r. poz. 2077 oraz z 2018 r. poz. 62, 1000, 1366, 1669 i 1693).
+4. Zatwierdzone sprawozdanie finansowe Urzędu Komisji jest przekazywane ministrowi właściwemu do spraw instytucji finansowych terminach określonych przepisach wydanych na podstawie art. 41 ust. 4 poz. 2077 oraz z 2018 r. poz. 62, 1000, 1366, 1669 i 1693).
+
+**Art. 19d.**
+
+1. Urząd Komisji tworzy następujące fundusze własne:
 
 - **1)** fundusz podstawowy;
 - **2)** fundusz rezerwowy.
@@ -173,17 +173,35 @@ o zmianie niektórych ustaw związku ze wzmocnieniem nadzoru nad rynkiem finanso
 
 **Art. 19e.**
 
-1. Wpływy z tytułu kar pieniężnych nakładanych przez Komisję na podstawie art. 3c ust. 1 pkt 5 oraz na podstawie ustaw, o których mowa art. 1 ust. 2, stanowią środki Funduszu Edukacji Finansowej, o którym mowa ustawie z dnia 5 sierpnia 2015 r. o rozpatrywaniu reklamacji przez podmioty rynku finansowego i o Rzeczniku Finansowym (Dz. U. z 2018 r. poz. 2038 i 2215).
+1. Wpływy z tytułu kar pieniężnych nakładanych przez Komisję na podstawie art. 3c ust. 1 pkt 5 oraz na podstawie ustaw, o których mowa art. 1 ust. 2, stanowią środki Funduszu Edukacji Finansowej, o którym mowa ustawie z dnia 5 sierpnia 2015 r. o rozpatrywaniu reklamacji przez podmioty rynku finansowego i o Rzeczniku Finansowym (Dz. U. z 2018 r. poz. 2038 i
 
-2. Do kar pieniężnych nakładanych przez Komisję na podstawie art. 3c ust. 1 pkt 5 oraz na podstawie ustaw, o których mowa art. 1 ust. 2, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa oraz przepisy ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym administracji.
+- **2215)** .
+
+2. Do kar pieniężnych nakładanych przez Komisję na podstawie art. 3c ust. 1 pkt 5 oraz na podstawie ustaw, o których mowa art. 1 ust. 2, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa oraz przepisy ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym administracji.
 
 3. Przepisów ust. 1 i 2 nie stosuje się do kar pieniężnych nakładanych przez Komisję na podstawie:
 
-- **1)** art. 141 ustawy Prawo bankowe;
+- **1)** art. 141 ustawy – Prawo bankowe;
 - **2)** art. 72 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych.”;
-- **19)** art. 20 ust. 2 otrzymuje brzmienie: „2. Prezes Rady Ministrów określi, drodze rozporządzenia, sposób ustalania wysokości środków przeznaczonych na wynagrodzenia i nagrody dla Przewodniczącego Komisji i jego Zastępców oraz ustalania wysokości tych wynagrodzeń i nagród, uwzględniając organizację Urzędu Komisji i Komisji, konieczność zapewnienia właściwej realizacji zadań Urzędu Komisji i Komisji zakresie sprawowanego nadzoru oraz poziom płac instytucjach nadzorowanych.”.
+- **19)** art. 20 ust. 2 otrzymuje brzmienie: „2. Prezes Rady Ministrów określi, drodze rozporządzenia, sposób ustalania wysokości środków przeznaczonych na wynagrodzenia i nagrody dla Przewodniczącego Komisji i jego Zastępców oraz ustalania wysokości tych wynagrodzeń i nagród, uwzględniając organizację Urzędu Komisji i Komisji, konieczność zapewnienia właściwej realizacji zadań Urzędu Komisji i Komisji zakresie sprawowanego nadzoru oraz poziom płac instytucjach nadzorowanych.”. i konsumentów (Dz. U. z 2018 r. poz. 798, 650, 1637 i 1669) wprowadza się następujące zmiany:
+- **1)** po art. 106a dodaje się art. 106b brzmieniu: „Art. 106b. 1. Prezes Urzędu może nałożyć na osobę zarządzającą karę pieniężną wysokości do 2 000 000 zł, jeżeli osoba ta, ramach sprawowania swojej funkcji czasie trwania stwierdzonego naruszenia, umyślnie dopuściła przez swoje działanie lub zaniechanie do naruszenia przez przedsiębiorcę zakazów określonych art. 23a lub art. 24.
 
-**Art. 11.** W ustawie z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. z 2018 r. poz. 798, 650, 1637 i 1669) wprowadza się następujące zmiany:
+2. W przypadku osoby zarządzającej podmiocie, o którym mowa ustawach, o których mowa art. 1 ust. 2 ustawy z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. z 2018 r. poz. 621, 650, 685, 1075, 2215 i 2243), kara pieniężna, o której mowa ust. 1, może być nałożona wysokości do 5 000 000 zł.
+
+3. Nałożenie na osobę zarządzającą kary pieniężnej, o której mowa ust. 1 i 2, może nastąpić wyłącznie decyzji nakładającej na przedsiębiorcę karę pieniężną, o której mowa art. 106 ust. 1 pkt 3a lub 4.”;
+
+- **2)** art. 111:
+    - **a)** ust. 1 pkt 2 otrzymuje brzmienie: „2) art. 106a i art. 106b – stopień wpływu zachowania osoby zarządzającej na naruszenie, którego dokonał przedsiębiorca, przychody uzyskane przez osobę zarządzającą u danego przedsiębiorcy, z uwzględnieniem okresu trwania naruszenia, oraz okres i skutki rynkowe naruszenia lub skutki naruszenia dla konsumentów;”,
+    - **b)** ust. 3 po pkt 2 dodaje się pkt 2a brzmieniu: „2a) przypadku dopuszczenia przez osobę zarządzającą do naruszenia przez przedsiębiorcę zakazów, o których mowa art. 23a lub art. 24:
+    - **a)** działanie pod przymusem,
+    - **b)** przyczynienie się do dobrowolnego usunięcia przez przedsiębiorcę skutków naruszenia,
+    - **c)** przyczynienie się do zaniechania przez przedsiębiorcę z własnej inicjatywy stosowania niedozwolonej praktyki przed wszczęciem postępowania lub niezwłocznie po jego wszczęciu,
+    - **c)** ust. 4 po pkt 2 dodaje się pkt 2a brzmieniu: „2a) przypadku dopuszczenia przez osobę zarządzającą do naruszenia przez przedsiębiorcę zakazów, o których mowa art. 23a lub art. 24:
+    - **a)** znaczne korzyści uzyskane przez osobę zarządzającą związku z dokonanym naruszeniem,
+    - **b)** dokonanie uprzednio podobnego naruszenia;”;
+
+- **3)** art. 112 ust. 2 otrzymuje brzmienie: „2. Środki finansowe pochodzące z kar pieniężnych, o których mowa art. 106–108, stanowią dochód budżetu państwa, a przypadku gdy kara pieniężna została nałożona na podmiot, o którym mowa ustawach, o których mowa art. 1 ust. 2 ustawy z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym – przychód Funduszu Edukacji Finansowej, o którym mowa ustawie z dnia 5 sierpnia 2015 r. o rozpatrywaniu reklamacji przez podmioty rynku finansowego i o Rzeczniku Finansowym (Dz. U. z 2018 r. poz. 2038 i
+- **2215)** .”.
 
 **Art. 12.** W ustawie z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z 2017 r. poz. 2065, z późn. zm. ) art. 71b uchyla się ust. 4 i 5.
 
@@ -191,9 +209,7 @@ o zmianie niektórych ustaw związku ze wzmocnieniem nadzoru nad rynkiem finanso
 
 **Art. 14.** W ustawie z dnia 15 stycznia 2015 r. o obligacjach (Dz. U. z 2018 r. poz. 483) wprowadza się następujące zmiany:
 
-**Art. 95.** Kto głosowaniu na zgromadzeniu obligatariuszy posługuje się fałszywym świadectwem depozytowym, o którym mowa art. 55 ust. 2, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.”.
-
-**Art. 15.** W ustawie z dnia 5 sierpnia 2015 r. o nadzorze makroostrożnościowym nad systemem finansowym i zarządzaniu kryzysowym systemie finansowym (Dz. U. z 2017 r. poz. 1934 oraz z 2018 r. poz. 650) art. 14 ust. 2 i 3 otrzymują brzmienie: „2. Informacje, o których mowa ust. 1 pkt 1, mogą być udostępniane Prezesowi Rady Ministrów, członkom Komisji Nadzoru Finansowego oraz członkom Rady Polityki Pieniężnej. 3. Dostęp do informacji, o których mowa ust. 1 pkt 1, posiadają upoważnieni pracownicy Narodowego Banku Polskiego, Kancelarii Prezesa Rady Ministrów, urzędu obsługującego Ministra Finansów, Urzędu Komisji Nadzoru Finansowego oraz Bankowego Funduszu Gwarancyjnego.”.
+**Art. 95.** Kto głosowaniu na zgromadzeniu obligatariuszy posługuje się fałszywym świadectwem depozytowym, o którym mowa art. 55 ust. 2, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.”. nad systemem finansowym i zarządzaniu kryzysowym systemie finansowym (Dz. U. z 2017 r. poz. 1934 oraz z 2018 r. poz. 650) art. 14 ust. 2 i 3 otrzymują brzmienie: „2. Informacje, o których mowa ust. 1 pkt 1, mogą być udostępniane Prezesowi Rady Ministrów, członkom Komisji Nadzoru Finansowego oraz członkom Rady Polityki Pieniężnej. 3. Dostęp do informacji, o których mowa ust. 1 pkt 1, posiadają upoważnieni pracownicy Narodowego Banku Polskiego, Kancelarii Prezesa Rady Ministrów, urzędu obsługującego Ministra Finansów, Urzędu Komisji Nadzoru Finansowego oraz Bankowego Funduszu Gwarancyjnego.”.
 
 **Art. 16.** W ustawie z dnia 5 sierpnia 2015 r. o rozpatrywaniu reklamacji przez podmioty rynku finansowego i o Rzeczniku Finansowym (Dz. U. z 2018 r. poz. 2038 i 2215) wprowadza się następujące zmiany:
 
@@ -207,7 +223,7 @@ o zmianie niektórych ustaw związku ze wzmocnieniem nadzoru nad rynkiem finanso
 - **2)** opracowywanie strategii edukacji finansowej i monitorowanie jej realizacji;
 - **3)** opracowywanie programów edukacyjnych i wydawanie publikacji popularyzujących wiedzę zakresie funkcjonowania rynku finansowego, zagrożeń na nim występujących oraz podmiotów na nim działających;
 - **4)** współpracę z innymi podmiotami, tym podmiotami rynku finansowego, zakresie opracowywania dokumentów dotyczących edukacji finansowej;
-- **5)** współpracę z ministrem właściwym do spraw oświaty i wychowania zakresie systemowego podejścia do edukacji finansowej, szczególności odniesieniu do podstaw programowych określonych przepisach wydanych na podstawie art. 47 ust. 1 ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe (Dz. U. z 2018 r. poz. 996, 1000, 1290 i 1669);
+- **5)** współpracę z ministrem właściwym do spraw oświaty i wychowania zakresie systemowego podejścia do edukacji finansowej, szczególności odniesieniu do podstaw programowych określonych przepisach wydanych na podstawie art. 47 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2018 r. poz. 996, 1000, 1290 i 1669);
 - **6)** wspieranie projektów edukacyjnych i promocyjnych z zakresu finansów i rynku finansowego.
 
 2. Obsługę i realizację zadań, o których mowa ust. 1, zapewnia Rzecznik.
@@ -216,8 +232,7 @@ o zmianie niektórych ustaw związku ze wzmocnieniem nadzoru nad rynkiem finanso
 
 1. Środki Funduszu pochodzą z:
 
-- **1)** wpływów z tytułu kar pieniężnych nakładanych przez Komisję Nadzoru Finansowego na podstawie ustaw, o których mowa art. 1 ust. 2 ustawy z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. z 2018 r. poz. 621, 650, 685, 1075, 2215 i 2243), oraz art. 3c ust. 1 pkt 5 tej ustawy, z wyjątkiem kar pieniężnych nakładanych przez Komisję Nadzoru Finansowego na podstawie art. 141 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe oraz art. 72 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych;
-- **2)** wpływów z tytułu kar pieniężnych, o których mowa art. 112 ust. 2 ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. z 2018 r. poz. 798, 650, 1637, 1669 i 2243);
+- **1)** wpływów z tytułu kar pieniężnych nakładanych przez Komisję Nadzoru Finansowego na podstawie ustaw, o których mowa art. 1 ust. 2 ustawy z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. z 2018 r. poz. 621, 650, 685, 1075, 2215 i 2243), oraz art. 3c ust. 1 pkt 5 tej ustawy, z wyjątkiem kar pieniężnych nakładanych przez Komisję Nadzoru Finansowego na podstawie art. 141 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe oraz art. 72 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych; ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. z 2018 r. poz. 798, 650, 1637, 1669 i 2243);
 - **3)** wpływów z tytułu kar pieniężnych, o których mowa art. 159 ust. 5a, art. 183 ust. 4a i art. 193 ustawy z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym (Dz. U. poz. 1089 oraz z 2018 r. poz. 398, 1669, 2193 i 2243);
 - **4)** przychodów z lokowania środków Funduszu;
 - **5)** innych wpływów.
@@ -238,7 +253,9 @@ o zmianie niektórych ustaw związku ze wzmocnieniem nadzoru nad rynkiem finanso
 
 6. Środki Funduszu nie mogą być przedmiotem egzekucji kierowanej przeciwko Rzecznikowi.
 
-7. Z tytułu obsługi i realizacji zadań finansowanych ze środków Funduszu Rzecznikowi przysługuje wynagrodzenie, nie wyższe niż 3% przychodów, o których mowa ust. 1 pkt 1–3. obliczania wynagrodzenia, o którym mowa ust. 7, oraz terminy jego wypłaty, uwzględniając koszty Rzecznika ponoszone związku z obsługą i realizacją zadań finansowanych ze środków Funduszu.
+7. Z tytułu obsługi i realizacji zadań finansowanych ze środków Funduszu Rzecznikowi przysługuje wynagrodzenie, nie wyższe niż 3% przychodów, o których mowa ust. 1 pkt 1–3.
+
+8. Minister właściwy do spraw instytucji finansowych określi, drodze rozporządzenia, wysokość i sposób obliczania wynagrodzenia, o którym mowa związku z obsługą i realizacją zadań finansowanych ze środków Funduszu.
 
 **Art. 43d.**
 
@@ -269,9 +286,7 @@ o zmianie niektórych ustaw związku ze wzmocnieniem nadzoru nad rynkiem finanso
 
 6. W przypadku równej liczby głosów decyduje głos Przewodniczącego Rady Edukacji Finansowej.
 
-7. Obsługę Rady Edukacji Finansowej prowadzi Biuro Rzecznika.
-
-8. Minister właściwy do spraw instytucji finansowych określi, drodze rozporządzenia, regulamin pracy Rady Edukacji Finansowej, mając na uwadze potrzebę zapewnienia prawidłowego funkcjonowania Rady Edukacji Finansowej.
+7. Obsługę Rady Edukacji Finansowej prowadzi Biuro Rzecznika. rozporządzenia, regulamin pracy Rady Edukacji Finansowej, mając na uwadze potrzebę zapewnienia prawidłowego funkcjonowania Rady Edukacji Finansowej.
 
 **Art. 43e.**
 
@@ -296,7 +311,7 @@ o zmianie niektórych ustaw związku ze wzmocnieniem nadzoru nad rynkiem finanso
 - **3)** udzielenie gwarancji całkowitego lub częściowego pokrycia strat wynikających z ryzyka związanego z przejmowanymi prawami majątkowymi lub przejmowanymi zobowiązaniami;
 - **4)** udzielenie dotacji na pokrycie różnicy między wartością przejmowanych praw majątkowych i przejmowanych zobowiązań z tytułu środków gwarantowanych na rachunkach deponentów banku przejmowanego do wysokości przejmowanych zobowiązań z tytułu tych środków, pomniejszonych o przewidywane kwoty zaspokojenia roszczeń Funduszu z tytułu wypłaty środków gwarantowanych postępowaniu upadłościowym przypadku, gdyby na dzień przejęcia sąd wydał postanowienie o ogłoszeniu upadłości przejmowanego banku.
 
-3. W przypadku, o którym mowa ust. 2 pkt 1, przepisu art. 25 ust. 1 ustawy Prawo bankowe nie stosuje się.
+3. W przypadku, o którym mowa ust. 2 pkt 1, przepisu art. 25 ust. 1 ustawy – Prawo bankowe nie stosuje się.
 
 **Art. 268b.** Warunkiem udzielenia przez Fundusz wsparcia, o którym mowa art. 5 ust. 2a pkt 1, jest szczególności:
 
@@ -304,19 +319,11 @@ o zmianie niektórych ustaw związku ze wzmocnieniem nadzoru nad rynkiem finanso
 
 **Art. 268d.** Działania, o których mowa niniejszym dziale, mogą być podejmowane i prowadzone po uzyskaniu decyzji Komisji Europejskiej o zgodności ze wspólnym rynkiem.”;
 
-**Art. 20.** W ustawie z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym (Dz. U. z 2018 r. poz. 1182, 1669, 1735 i 2024) art. 3 ust. 1 po pkt 26 dodaje się pkt 26a brzmieniu: „26a) Urząd Komisji Nadzoru Finansowego;”.
-
 **Art. 21.** W ustawie z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym (Dz. U. poz. 1089 oraz z 2018 r. poz. 398, 1669 i 2193) wprowadza się następujące zmiany:
 
 **Art. 22.** W ustawie z dnia 15 grudnia 2017 r. o dystrybucji ubezpieczeń (Dz. U. z 2018 r. poz. 2210) uchyla się art. 86.
 
 **Art. 23.** Tworzy się:
-
-**Art. 24.**
-
-1. Znosi się dotychczasową Komisję Nadzoru Finansowego.
-
-2. Likwiduje się dotychczasowy Urząd Komisji Nadzoru Finansowego.
 
 **Art. 25.**
 
@@ -324,7 +331,7 @@ o zmianie niektórych ustaw związku ze wzmocnieniem nadzoru nad rynkiem finanso
 
 2. Tworzy się Komisję Nadzoru Finansowego.
 
-**Art. 26.** Pracownicy zatrudnieni dotychczasowym Urzędzie Komisji Nadzoru Finansowego, o którym mowa art. 24 ust. 2, stają się pracownikami zatrudnionymi Urzędzie Komisji Nadzoru Finansowego, o którym mowa art. 25 ust. 1. Przepisy art. 23 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2018 r. poz. 917, 1000, 1076, 1608, 1629 i 2215) stosuje się odpowiednio.
+**Art. 26.** Pracownicy zatrudnieni dotychczasowym Urzędzie Komisji Nadzoru Finansowego, o którym mowa art. 24 ust. 2, stają się pracownikami zatrudnionymi Urzędzie Komisji Nadzoru Finansowego, o którym mowa art. 25 ust. 1. Przepisy art. 231 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2018 r. poz. 917, 1000, 1076, 1608, 1629 i 2215) stosuje się odpowiednio.
 
 **Art. 27.**
 
@@ -338,9 +345,13 @@ o zmianie niektórych ustaw związku ze wzmocnieniem nadzoru nad rynkiem finanso
 
 1. Wierzytelności i zobowiązania Skarbu Państwa reprezentowanego przez Komisję Nadzoru Finansowego, o której mowa art. 24 ust. 1, stają się wierzytelnościami i zobowiązaniami Urzędu Komisji Nadzoru Finansowego, o którym mowa art. 25 ust. 1.
 
-2. W przypadku konieczności zwrotu należności z tytułu kar pieniężnych odprowadzonych do dnia 31 grudnia 2018 r. na rachunek budżetu państwa zwrot następuje ze środków budżetu państwa. Finansowego, o której mowa art. 24 ust. 1, staje się Urząd Komisji Nadzoru Finansowego, o którym mowa art. 25 ust. 1.
+2. W przypadku konieczności zwrotu należności z tytułu kar pieniężnych odprowadzonych do dnia 31 grudnia 2018 r. na rachunek budżetu państwa zwrot następuje ze środków budżetu państwa.
 
-2. Przepis ust. 1 stosuje się odpowiednio do umów i porozumień, których jako strona wskazany jest Urząd Komisji Nadzoru Finansowego, o którym mowa art. 24 ust. 2, lub Przewodniczący Komisji Nadzoru Finansowego, o której mowa art. 24 ust. 1.
+**Art. 30.**
+
+1. Stroną umów i porozumień, zawartych przez Skarb Państwa reprezentowany przez Komisję Nadzoru Finansowego, o której mowa art. 24 ust. 1, staje się Urząd Komisji Nadzoru Finansowego, o którym mowa art. 25 ust. 1.
+
+2. Przepis ust. 1 stosuje się odpowiednio do umów i porozumień, których jako strona wskazany jest Urząd Komisji Nadzoru Finansowego, o którym mowa art. 24 ust. 1.
 
 **Art. 31.**
 
@@ -358,7 +369,7 @@ o zmianie niektórych ustaw związku ze wzmocnieniem nadzoru nad rynkiem finanso
 
 2. Przewodniczący Komisji Nadzoru Finansowego dokonuje zamknięcia rachunków bankowych do dnia 31 grudnia 2019 r.
 
-**Art. 35.** Postępowania wszczęte i niezakończone przed dniem 1 stycznia 2019 r. przed Komisją Nadzoru Finansowego, o której mowa art. 24 ust. 1, od dnia 1 stycznia 2019 r. toczą się przed Komisją Nadzoru Finansowego, o której mowa art. 25 ust. 2.
+**Art. 35.** Postępowania wszczęte i niezakończone przed dniem 1 stycznia 2019 r. przed Komisją Nadzoru Finansowego, o której mowa art. 24 ust. 1, od dnia art. 25 ust. 2.
 
 **Art. 36.**
 
@@ -382,11 +393,11 @@ o zmianie niektórych ustaw związku ze wzmocnieniem nadzoru nad rynkiem finanso
 
 2. Przychody, o których mowa ust. 1, odprowadza się na rachunek dochodów ministra właściwego do spraw finansów publicznych nie później niż do dnia 31 grudnia 2019 r.
 
-3. Kwotę kosztów, o których mowa art. 19a ust. 6 ustawy zmienianej art. 10, za 2019 r. powiększa się o kwotę dotacji, o której mowa art. 37 ust. 1. porozumienie, które określi szczególności sposób i terminy odprowadzania do budżetu państwa dochodów budżetu państwa, o których mowa art. 38 ust. 1, oraz terminy przekazywania z budżetu państwa dotacji, o której mowa art. 37 ust. 1.
+3. Kwotę kosztów, o których mowa art. 19a ust. 6 ustawy zmienianej art. 10, za 2019 r. powiększa się o kwotę dotacji, o której mowa art. 37 ust. 1. z Urzędem Komisji Nadzoru Finansowego porozumienie, które określi szczególności sposób i terminy odprowadzania do budżetu państwa dochodów budżetu państwa, o których mowa art. 38 ust. 1, oraz terminy przekazywania z budżetu państwa dotacji, o której mowa art. 37 ust. 1.
 
 **Art. 40.** W celu wykonania przepisów niniejszej ustawy Prezes Rady Ministrów może dokonać, drodze rozporządzenia, przeniesienia planowanych dochodów i wydatków budżetowych między częściami, działami i rozdziałami budżetu państwa z zachowaniem przeznaczenia środków publicznych wynikającego z ustawy budżetowej.
 
-**Art. 41.** Do obliczenia kwoty wydatków, o której mowa art. 112aa ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, na rok 2020 przyjmuje się kwotę wydatków określoną ustawie budżetowej na rok 2018 z dnia 11 stycznia 2018 r. (Dz. U. poz. 291) pomniejszoną o kwotę odpowiadającą wydatkom Urzędu Komisji Nadzoru Finansowego wysokości 255 345 tys. zł.
+**Art. 41.** Do obliczenia kwoty wydatków, o której mowa art. 112aa ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, na rok 2020 przyjmuje się kwotę wydatków określoną ustawie budżetowej na rok 2019 z dnia 16 stycznia 2019 r. (Dz. U. poz. 198) pomniejszoną o kwotę odpowiadającą wydatkom Urzędu Komisji Nadzoru Finansowego wysokości 255 345 tys. zł.
 
 **Art. 42.** Dotychczasowe legitymacje służbowe pracowników Urzędu Komisji Nadzoru Finansowego, o którym mowa art. 24 ust. 2, zachowują ważność.
 
@@ -396,17 +407,13 @@ o zmianie niektórych ustaw związku ze wzmocnieniem nadzoru nad rynkiem finanso
 
 2. Przepis art. 29 ust. 1 ustawy zmienianej art. 8, brzmieniu nadanym niniejszą ustawą, stosuje się do czasu kontroli toczącej się dniu wejścia życie niniejszej ustawy, z tym że czas kontroli, który upłynął przed dniem wejścia życie niniejszej ustawy, zalicza się do okresu rocznego wskazanego tym przepisie.
 
-3. Komisja Nadzoru Finansowego przechowuje akta, o których mowa art. 18i ust. 4 ustawy zmienianej art. 10, brzmieniu nadanym niniejszą ustawą, przechowywane dniu wejścia życie niniejszej ustawy, przez okres 10 lat od dnia rozpoczęcia okresu ich przechowywania, chyba że przepisy odrębne przewidują inny okres przechowywania określonych informacji.
-
-**Art. 44.**
-
-1. Obligacje, listy zastawne oraz certyfikaty inwestycyjne wyemitowane przed dniem 1 lipca 2019 r. i nieumorzone przed tym dniem, mające formę dokumentów albo niemające formy dokumentu, lecz zapisane ewidencji prowadzonej na podstawie przepisów dotychczasowych, pozostają mocy.
+3. Komisja Nadzoru Finansowego przechowuje akta, o których mowa art. 18i ust. 4 ustawy zmienianej art. 10, brzmieniu nadanym niniejszą ustawą, przechowywane dniu wejścia życie niniejszej ustawy, przez okres 10 lat od dnia rozpoczęcia okresu ich przechowywania, chyba że przepisy odrębne przewidują inny okres przechowywania określonych informacji. przed dniem 1 lipca 2019 r. i nieumorzone przed tym dniem, mające formę dokumentów albo niemające formy dokumentu, lecz zapisane ewidencji prowadzonej na podstawie przepisów dotychczasowych, pozostają mocy.
 
 2. Do papierów wartościowych, o których mowa ust. 1, stosuje się przepisy dotychczasowe.
 
-3. Emitent papierów wartościowych, o których mowa ust. 1, a przypadku gdy są one zapisane ewidencji prowadzonej na podstawie przepisów dotychczasowych podmiot prowadzący ich ewidencję są obowiązani przekazać Krajowemu Depozytowi Papierów Wartościowych S.A. terminie do dnia 31 marca 2020 r.:
+3. Emitent papierów wartościowych, o których mowa ust. 1, a przypadku gdy są one zapisane ewidencji prowadzonej na podstawie przepisów dotychczasowych – podmiot prowadzący ich ewidencję są obowiązani przekazać Krajowemu Depozytowi Papierów Wartościowych S.A. terminie do dnia 31 marca 2020 r.:
 
-- **1)** przypadku obligacji informacje o wszystkich wyemitowanych przez niego emisjach tych obligacji, ze wskazaniem:
+- **1)** przypadku obligacji – informacje o wszystkich wyemitowanych przez niego emisjach tych obligacji, ze wskazaniem:
     - **a)** oznaczenia tych emisji,
     - **b)** liczby obligacji wyemitowanych ramach poszczególnych emisji,
     - **c)** jednostkowej wartości nominalnej tych obligacji i waluty, której wartość ta została wyrażona,
@@ -415,24 +422,26 @@ o zmianie niektórych ustaw związku ze wzmocnieniem nadzoru nad rynkiem finanso
     - **f)** terminów, których emitent powinien wykonywać świadczenia z tych obligacji,
     - **g)** czy świadczenia, które stały się już wymagalne, zostały przez niego wykonane i jakim zakresie,
 
-- **2)** przypadku listów zastawnych informacje o wszystkich wyemitowanych przez niego emisjach tych listów zastawnych, ze wskazaniem:
+- **2)** przypadku listów zastawnych – informacje o wszystkich wyemitowanych przez niego emisjach tych listów zastawnych, ze wskazaniem:
     - **a)** oznaczenia tych emisji,
     - **b)** liczby listów zastawnych wyemitowanych ramach poszczególnych emisji,
     - **c)** jednostkowej wartości nominalnej tych listów zastawnych i waluty, której wartość ta została wyrażona,
-    - **d)** wysokości oprocentowania tych listów zastawnych stosunku rocznym, zastawnych,
+    - **d)** wysokości oprocentowania tych listów zastawnych stosunku rocznym, przez emitenta z tytułu wykupu tych listów zastawnych,
     - **f)** terminów, których emitent powinien wykonywać świadczenia z tych listów zastawnych,
     - **g)** czy świadczenia, które stały się już wymagalne, zostały przez niego wykonane i jakim zakresie,
 
-- **3)** przypadku certyfikatów inwestycyjnych informacje o wszystkich wyemitowanych przez niego emisjach tych certyfikatów inwestycyjnych, ze wskazaniem:
-    - **a)** oznaczenia tych emisji, a przypadku gdy są związane z subfunduszem oznaczenie tego subfunduszu,
+- **3)** przypadku certyfikatów inwestycyjnych – informacje o wszystkich wyemitowanych przez niego emisjach tych certyfikatów inwestycyjnych, ze wskazaniem:
+    - **a)** oznaczenia tych emisji, a przypadku gdy są związane z subfunduszem – oznaczenie tego subfunduszu,
     - **b)** liczby certyfikatów inwestycyjnych wyemitowanych ramach poszczególnych emisji lub subfunduszy,
     - **c)** wartości i waluty świadczeń z tytułu udziału dochodach emitenta lub z tytułu wykupu tych certyfikatów inwestycyjnych, które stały się już wymagalne,
     - **d)** terminów, których emitent powinien wykonać te świadczenia,
-    - **e)** czy świadczenia te zostały przez niego wykonane i jakim zakresie według stanu na dzień 31 grudnia 2019 r.
+    - **e)** czy świadczenia te zostały przez niego wykonane i jakim zakresie – według stanu na dzień 31 grudnia 2019 r.
 
-4. Emitent papierów wartościowych, o którym mowa ust. 1, a przypadku gdy są one zapisane ewidencji prowadzonej na podstawie przepisów dotychczasowych podmiot prowadzący ich ewidencję są obowiązani przekazywać Krajowemu Depozytowi Papierów Wartościowych S.A. terminie 15 dni po zakończeniu każdego kolejnego miesiąca informacje, o których mowa ust. 3, zaktualizowane według stanu na ostatni dzień danego miesiąca, jeżeli przestały one odpowiadać stanowi rzeczywistemu. Obowiązek ten wygasa wraz z przekazaniem Krajowemu Depozytowi Papierów Wartościowych S.A. informacji, z której będzie wynikać, że emitent nie posiada zobowiązań z tytułu papierów wartościowych, o których mowa ust. 1.
+4. Emitent papierów wartościowych, o którym mowa ust. 1, a przypadku gdy są one zapisane ewidencji prowadzonej na podstawie przepisów dotychczasowych – podmiot prowadzący ich ewidencję są obowiązani przekazywać Krajowemu Depozytowi Papierów Wartościowych S.A. terminie 15 dni po zakończeniu każdego kolejnego miesiąca informacje, o których mowa ust. 3, zaktualizowane według stanu na ostatni dzień danego miesiąca, jeżeli przestały one odpowiadać stanowi rzeczywistemu. Obowiązek ten wygasa wraz z przekazaniem Krajowemu Depozytowi Papierów Wartościowych S.A. informacji, z której będzie wynikać, że emitent nie posiada zobowiązań z tytułu papierów wartościowych, o których mowa ust. 1.
 
-5. W informacjach, o których mowa ust. 3 i 4, emitent lub podmiot prowadzący ewidencję wskazują identyfikujący emitenta niepowtarzalny identyfikator podmiotu prawnego zgodny z normą ISO 174420 (kod LEI), nadany przez podmiot uprawniony do rejestrowania takich identyfikatorów. Emitent obowiązany jest uzyskać kod LEI przed terminem przekazania informacji, o których mowa ust. 3, oraz utrzymywać jego aktualność co najmniej do dnia, którym wygaśnie obowiązek, o którym mowa ust. 4.
+5. W informacjach, o których mowa ust. 3 i 4, emitent lub podmiot prowadzący ewidencję wskazują identyfikujący emitenta niepowtarzalny identyfikator podmiotu prawnego zgodny z normą ISO 174420 (kod LEI), nadany przez podmiot uprawniony do rejestrowania takich identyfikatorów. Emitent mowa ust. 3, oraz utrzymywać jego aktualność co najmniej do dnia, którym wygaśnie obowiązek, o którym mowa ust. 4.
+
+5a. Informacje, o których mowa ust. 3 i 4, są przekazywane postaci elektronicznej, za pomocą oprogramowania interfejsowego dostępnego na stronie internetowej Krajowego Depozytu Papierów Wartościowych S.A.
 
 6. Emitent papierów wartościowych, o których mowa ust. 1, może ubiegać się o ich zarejestrowanie depozycie papierów wartościowych. Do zawarcia umowy o zarejestrowanie tych papierów wartościowych depozycie papierów wartościowych stosuje się przepisy ustawy zmienianej art. 9, brzmieniu nadanym niniejszą ustawą.
 
@@ -448,12 +457,9 @@ o zmianie niektórych ustaw związku ze wzmocnieniem nadzoru nad rynkiem finanso
 
 **Art. 47.**
 
-1. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 24 ust. 4 pkt 1 ustawy zmienianej art. 5, art. 17 ust. 14 ustawy zmienianej art. 8 oraz art. 14 i art. 20 ust. 2 ustawy zmienianej art. 10 zachowują moc do dnia wejścia życie nowych przepisów wykonawczych wydanych na podstawie art. 24 ust. 4 pkt 1 ustawy zmienianej art. 5, art. 17 ust. 14 ustawy zmienianej art. 8 oraz art. 14 i art. 20 ust. 2 ustawy zmienianej art. 10, jednak nie dłużej niż do dnia 31 grudnia 2019 r.
+1. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 24 ust. 4 pkt 1 ustawy zmienianej art. 5, art. 17 ust. 14 ustawy zmienianej art. 8 oraz art. 14 i art. 20 ust. 2 ustawy zmienianej art. 10 zachowują moc do dnia art. 24 ust. 4 pkt 1 ustawy zmienianej art. 5, art. 17 ust. 14 ustawy zmienianej art. 8 oraz art. 14 i art. 20 ust. 2 ustawy zmienianej art. 10, jednak nie dłużej niż do dnia 31 grudnia 2019 r.
 
 2. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 131a ust. 3 ustawy zmienianej art. 2 oraz art. 14 ust. 3 ustawy z dnia 22 maja 2003 r. o nadzorze ubezpieczeniowym i emerytalnym (Dz. U. z 2016 r. poz. 477, z 2017 r. poz. 2486 oraz z 2018 r. poz. 2215) zachowują moc do dnia wejścia życie nowych przepisów wykonawczych wydanych na podstawie art. 131a ust. 3 ustawy zmienianej art. 2 oraz art. 14 ust. 3 ustawy z dnia 22 maja 2003 r. o nadzorze ubezpieczeniowym i emerytalnym, jednak nie dłużej niż do dnia 31 grudnia 2019 r.
 
-- **1)** art. 1 pkt 1 i pkt 2 lit. c, art. 2 pkt 3–5, art. 18 oraz art. 19, które wchodzą życie z dniem następującym po dniu ogłoszenia;
-- **2)** art. 2 pkt 1, art. 8 pkt 3–6, art. 10 pkt 2, 4, 6 i 9–16, art. 11 pkt 1 i 2, art. 15, art. 36 oraz art. 43, które wchodzą życie po upływie 14 dni od dnia ogłoszenia;
-- **3)** art. 4, art. 6, art. 9 pkt 1–4, pkt 6 lit. a i pkt 7, art. 14, art. 44 oraz art. 45, które wchodzą życie z dniem 1 lipca 2019 r. Prezydent Rzeczypospolitej Polskiej: A. Duda
-
+**Art. 48.** Ustawa wchodzi życie z dniem 1 stycznia 2019 r., z wyjątkiem:
 
