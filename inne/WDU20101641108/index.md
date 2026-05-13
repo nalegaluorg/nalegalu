@@ -36,7 +36,7 @@ domain: null
 
 1. F unkcjonariusze wchodzący skład krajowej rezerwy ekspertów mogą zostać delegowani do:
 
-- **1)** zespołów szybkiej interwencji na granicy utworzonych działających może udostępnić Agencji Frontex sprzęt techniczny będący zarządzie Straży Granicznej celu włączenia do centralnego rejestru dostępnego wyposażenia technicznego CRATE wykorzystania trakcie wspólnych działań koordynowanych przez Agencję Frontex, zgodnie rozporządzeniem 2007/2004, tym poza granicami państwa.
+- **1)** zespołów szybkiej interwencji na utworzonych działających może udostępnić Agencji Frontex sprzęt techniczny będący zarządzie Straży Granicznej celu włączenia do centralnego rejestru dostępnego wyposażenia technicznego CRATE wykorzystania trakcie wspólnych działań koordynowanych przez Agencję Frontex, zgodnie rozporządzeniem 2007/2004, tym poza granicami państwa.
 
 2. Komendant Główny Straży Granicznej może delegować funkcjonariuszy
 
@@ -61,7 +61,7 @@ domain: null
 
 4. Delegowanie pracownika do wykonywania zadań poza siedzibą urzędu, wykonuje on pracę, następuje na podstawie odrębnych przepisów.”.
 
-**Art. 3.** W ustawie dnia 12 października 1990 ochronie granicy państwowej (Dz. U. 2009 12,
+**Art. 3.** W ustawie dnia 12 października 1990 ochronie państwowej (Dz. U. 12,
 
 **Art. 5.** Dotychczasowe przepisy wykonawcze wydane na podstawie 40 ust. 3 4 ustawy, której 2, zachowują moc do czasu wejścia życie nowych przepisów wykonawczych wydanych na podstawie 40 ust. 5 7 ustawy, której 2, brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 12 miesięcy od dnia wejścia życie niniejszej ustawy.
 

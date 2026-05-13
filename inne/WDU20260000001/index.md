@@ -10,9 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy Prawo atomowe
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 7 listopada 2025 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 2 stycznia 2026 r.
 
 | Pole | Wartość |
 |---|---|
@@ -26,6 +24,8 @@ domain: null
 | Ostatnia zmiana | 2026-01-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000001) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/1/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 7 listopada 2025 r.
+w sprawie ogłoszenia jednolitego tekstu ustawy Prawo atomowe
 1. Na podstawie art. 16 ust. zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 29 listopada 2000 r. Prawo atomowe (Dz. U. z 2024 r. poz. 1277), z uwzględnieniem zmian wprowadzonych:
 1) ustawą z dnia 27 listopada 2024 r. o zmianie ustawy o Centrum Medycznym Kształcenia Podyplomowego oraz niektórych innych ustaw (Dz. U. poz. 1897),
 2) ustawą z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U. poz. 1907) oraz zmian wynikających z przepisów ogłoszonych przed dniem 3 listopada 2025 r.

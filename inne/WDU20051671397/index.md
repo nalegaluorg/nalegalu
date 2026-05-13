@@ -41,8 +41,8 @@ emerytura po osiągnięciu wieku okresów pracy lub okresu pracy, określonych w
 a) zdaniu wstępnym wyrazy Ńart. 34” zastępuje 50a. 1. Górnicza emerytura przysługuje prasię wyrazami Ńart. 50a”, cownikowi, który spełnia łącznie na——————— stępujące warunki:
 1) ukończył 55 lat życia;
 wynosi 50 lat.
-50b. Przy ustalaniu prawa do emerytury górniczej uwzględnia się okresy pracy górniczej pracy równorzędnej pracą górniczą, będące okresami składkowymi lub nieskładkowymi rozumieniu ustawy, tym że okresy pracy pracy równorzędnej pracą górniczą uwzględnia się, jeżeli praca ta wykonywana była co najmniej połowie wymiaru czasu pracy.
-50c. 1. Za pracę górniczą uważa się zatrudnienie: palń, przedsiębiorstw innych podmiotów określonych 1—3, a także kopalniach siarki węgla brunatnego oraz przedsiębiorstwach innych podmiotach, których mowa 4, stanowiskach określonych drodze rozporządzenia przez ministra właściwego do spraw gospodarki, porozumieniu ministrem właściwym do spraw Skarbu Państwa ministrem właściwym do spraw zabezpiecze1) pod ziemią kopalniach węgla, rud, kruszców, surowców ogniotrwałych, glin szlachetnych, kaolinów, magnezytów, gipsu, anhydrytu, soli kamiennej potasowej, fosforytów oraz barytu;
+50b. Przy ustalaniu prawa emerytury górniczej uwzględnia się okresy pracy górniczej pracy równorzędnej pracą górniczą, będące okresami składkowymi lub nieskładkowymi rozumieniu ustawy, tym że okresy pracy pracy równorzędnej pracą górniczą uwzględnia się, jeżeli praca ta wykonywana była co najmniej połowie wymiaru czasu pracy.
+50c. 1. Za pracę górniczą uważa się zatrudnienie: palń, przedsiębiorstw innych podmiotów określonych 1—3, a także kopalniach siarki węgla brunatnego oraz przedsiębiorstwach innych podmiotach, których mowa 4, stanowiskach określonych rozporządzenia przez ministra właściwego spraw gospodarki, porozumieniu ministrem właściwym spraw Skarbu Państwa ministrem właściwym spraw zabezpiecze1) pod ziemią kopalniach węgla, rud, kruszców, surowców ogniotrwałych, glin szlachetnych, kaolinów, magnezytów, gipsu, anhydrytu, soli kamiennej potasowej, fosforytów oraz barytu;
 2) pod ziemią głębieniu szybów przedsiębiorstwach budowy kopalń określonych oraz pod ziemią przedsiębiorstwach innych podmiotach wykonujących tych kopalń roboty górnicze lub budowie szybów;
 3) pod ziemią przedsiębiorstwach montażowych, przedsiębiorstwach maszyn górniczych, zakładach naprawczych iinnych podmiotach wykonujących kopalń określonych wpkt 1podziemne roboty budowlano-montażowe, roboty naprawie maszyn wdrażaniu nowych urządzeń; pracownikom zatrudnionym tych przedsiębiorstwach, zakładach iinnych podmiotach uznaje się za pracę górniczą te miesiące zatrudnienia, których co najmniej połowę dniówek roboczych przepracowali pod ziemią;
 4) odkrywce kopalniach siarki węgla brunatnego ręcznym lub zmechanizowanym urabianiu, ładowaniu oraz przewozie nadkładu złoża, pomiarach zakresie miernictwa górniczego oraz bieżącej konserwacji agregatów urządzeń wydobywczych, a także kopalniach otworowych siarki nia społecznego;
@@ -52,14 +52,14 @@ wynosi 50 lat.
 9) stanowiskach instruktorów zawodu górniczych polach szkoleniowych pod ziemią oraz kopalniach siarki węgla brunatnego.
 2. Za pracę równorzędną pracą górniczą uważa się:
 1) zatrudnienie stanowiskach wymagających kwalifikacji inżyniera lub technika zakresie górnictwa urzędach górniczych, jeżeli zatrudnienie jest związane wykonywaniem czynności inspekcyjno-technicznych kopalniach, przedsiębiorstwach innych podmiotach określonych 1—4, pod warunkiem uprzedniego przepracowania kopalniach, przedsiębiorstwach innych podmiotach określonych 1—4 co najmniej 10 lat pod ziemią, odkrywce kopalniach siarki lub węgla brunatnego, a także kopalniach nowiskach wymagających kwalifikacji inżyniera lub technika zakresie górnictwa jednostkach organizacyjnych określonych 2 uważa się osoby, które posiadają tytuł inżyniera lub technika są zatrudnione zgodnie posiadanymi kwalifikacjami zakresie górnictwa.
-4. Okresy pracy wymienionej 1—4 wykonywanej za granicą traktuje się równi okresami takiej pracy wykonywanej kraju, jeżeli spełnione są warunki określone ustawie, wymagane do uwzględnienia tych okresów pracy ustalaniu prawa do świadczeń.
-50d. 1. Przy ustalaniu prawa do emerytury pracownikom zatrudnionym pod ziemią oraz kopalniach siarki lub węgla brunatnego zalicza się wymiarze półtorakrotnym następujące okresy pracy obszarze Państwa Polskiego:
+4. Okresy pracy wymienionej 1—4 wykonywanej za granicą traktuje się równi okresami takiej pracy wykonywanej kraju, jeżeli spełnione są warunki określone ustawie, wymagane uwzględnienia tych okresów pracy ustalaniu prawa świadczeń.
+50d. 1. Przy ustalaniu prawa emerytury pracownikom zatrudnionym pod ziemią oraz kopalniach siarki lub węgla brunatnego zalicza się wymiarze półtorakrotnym następujące okresy pracy obszarze Państwa Polskiego:
 1) wprzodkach bezpośrednio urabianiu iładowaniu urobku oraz innych pracach przodkowych, montażu, likwidacji transporcie obudów, maszyn urabiających, ładujących transportujących przodkach oraz głębieniu szybów robotach szybowych;
 2) drużynach ratowniczych.
 2. Okresy pracy wymienione 2 zalicza się wymiarze półtorakrotnym również tym pracownikom dozoru ruchu kierownictwa ruchu kopalń, którzy pracują przez co najmniej połowę dniówek roboczych miesiącu pod ziemią, kopalniach siarki lub kopalniach węgla brunatnego.
-3. Minister właściwy do spraw zabezpieczenia społecznego, porozumieniu ministrem właściwym do spraw gospodarki ministrem właściwym do spraw Skarbu Państwa, drodze rozporządzenia, określa szczegółowo stanowiska pracy, których zatrudnienie zalicza się wmyśl 1i2wwymiarze półtorakrotnym.
-50e. 1. Prawo do emerytury, bez względu wiek izajmowane stanowisko, przysługuje pracownikom, którzy pracę górniczą wykonywali pod ziemią stale iwpełnym wymiarze czasu pracy przez okres wynoszący co najmniej 25 lat, uwzględnieniem 2.
-2. Do okresów pracy górniczej, której mowa wust. 1, zalicza się także okresy niezdolności do pracy tytułu wypadku pracy albo ztytułu choroby zawodowej, za które wypłacone zostało wynagrodzenie lub zasiłek chorobowy albo świadczenie rehabilitacyjne, bezpośrednio poprzedzone pracą górniczą wykonywaną pod ziemią stale pełnym wymiarze czasu pracy, przypadające czasie trwania stosunku pracy.”;
+3. Minister właściwy spraw zabezpieczenia społecznego, porozumieniu ministrem właściwym spraw gospodarki ministrem właściwym spraw Skarbu Państwa, rozporządzenia, określa szczegółowo stanowiska pracy, których zatrudnienie zalicza się wmyśl 1i2wwymiarze półtorakrotnym.
+50e. 1. Prawo emerytury, bez względu wiek izajmowane stanowisko, przysługuje pracownikom, którzy pracę górniczą wykonywali pod ziemią stale iwpełnym wymiarze czasu pracy przez okres wynoszący co najmniej 25 lat, uwzględnieniem 2.
+2. Do okresów pracy górniczej, której mowa wust. 1, zalicza się także okresy niezdolności pracy tytułu wypadku pracy albo ztytułu choroby zawodowej, za które wypłacone zostało wynagrodzenie lub zasiłek chorobowy albo świadczenie rehabilitacyjne, bezpośrednio poprzedzone pracą górniczą wykonywaną pod ziemią stale pełnym wymiarze czasu pracy, przypadające czasie trwania stosunku pracy.”;
 8) dziale II tytuł rozdziału 4 otrzymuje brzmienie: ŃUstalanie wysokości emerytur, których mowa 27—50e”;
 9) 51 1:
 a) zdaniu wstępnym wyrazy Ńart. 34 lub 48” zastępuje się wyrazami Ńart. 50a lub 50e”,
@@ -68,7 +68,7 @@ c) 3 wyrazy Ńart. 36 1—3 5—11” zastępuje się wyrazami Ńart. 50c 1—3 
 d) wpkt 4wyrazy Ńart. 36 1pkt 4i5” zastępuje się wyrazami Ńart. 50c 4 5”;
 10) 52 2 otrzymuje brzmienie: Ń2) 1,8 za każdy rok pracy wykonywanej pod ziemią, której mowa 50d 1,”;
 11) 182 wyrazy Ńart. 46—50” zastępuje się wyrazami Ńart. 46—47, 50, 50a oraz 50e”;
-12) po 183 dodaje się 183a brzmieniu: ŃArt. 183a. Przepisów 183 nie stosuje się do emerytur przyznanych ubezpieczonym, którzy prawa do emerytury nabykach określonych tych przepisach. do dnia 31 grudnia 2007 warunki do emerytury bez względu wiek.
+12) po 183 dodaje się 183a brzmieniu: ŃArt. 183a. Przepisów 183 nie stosuje się emerytur przyznanych ubezpieczonym, którzy prawa emerytury nabykach określonych tych przepisach. dnia 31 grudnia 2007 warunki emerytury bez względu wiek.
 2. Osobom, którym udzielono urlopu górniczego lub świadczenia górniczego warunkach określo- 4. Ustawa wchodzi życie dniem stycznia ——————— 2007 r., zwyjątkiem 1pkt 4i6oraz 2i3, które wchodzą życie po upływie 14 dni od dnia ogłoszenia.
 Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 1398
 USTAWA dnia 28 lipca 2005 kosztach sądowych sprawach cywilnych ——————— Tytuł I Przepisy ogólne
@@ -78,6 +78,6 @@ USTAWA dnia 28 lipca 2005 kosztach sądowych sprawach cywilnych —————�
 nych, zasady zwalniania od kosztów sądowych oraz umarzania, rozkładania raty odraczania terminu 2) apelacja zażalenie;
 zapłaty należności sądowych. 3) skarga kasacyjna skarga stwierdzenie niezgod2.1. Koszty sądowe obejmują opłaty iwydatki. ności prawem prawomocnego orzeczenia;
 2. Do uiszczenia kosztów sądowych obowiązana 4) sprzeciw od wyroku zaocznego;
-jest strona, która wnosi do sądu pismo podlegające 5) zarzuty od nakazu zapłaty;
+jest strona, która wnosi sądu pismo podlegające 5) zarzuty od nakazu zapłaty;
 opłacie lub powodujące wydatki, chyba że ustawa stanowi inaczej. 6) interwencja główna uboczna;
 

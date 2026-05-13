@@ -38,99 +38,99 @@ domain: null
     - **a)** liście kandydatów wyborach Sejmu wyborach Parlamentu Europejskiego Rzeczypospolitej Polskiej,
     - **b)** kandydatowi wyborach Senatu wyborach Prezydenta Rzeczypospolitej Polskiej.
 
-3. Minister właściwy spraw informatyzacji zapewnia utrzymanie portalu poparcia, tym:
+3. Minister właściwy spraw informatyzacji zapewnia utrzymanie poparcia, tym:
 
-- **1)** zapewnia ochronę przed nieuprawnionym dostępem portalu poparcia;
+- **1)** zapewnia ochronę przed nieuprawnionym dostępem poparcia;
 - **2)** zapewnia dostępność systemu teleinformatycznego, którym portal jest prowadzony, dla podmiotów przetwarzających dane tym portalu;
 - **3)** przeciwdziała uszkodzeniom systemu teleinformatycznego, którym portal jest prowadzony;
-- **4)** zapewnia rozliczalność działań dokonywanych na danych zgromadzonych portalu poparcia.
+- **4)** zapewnia rozliczalność działań dokonywanych na danych zgromadzonych poparcia.
 
-4. Minister właściwy spraw wewnętrznych zapewnia funkcjonowanie wydzielonej sieci umożliwiającej dostęp portalu Państwowej Komisji Wyborczej i okręgowym komisjom wyborczym.
+4. Minister właściwy spraw wewnętrznych zapewnia funkcjonowanie wydzielonej sieci umożliwiającej dostęp Państwowej Komisji Wyborczej i okręgowym komisjom wyborczym.
 
 **Art. 103e.**
 
-1. Minister właściwy spraw informatyzacji, uzgodnieniu z Państwową Komisją Wyborczą, dokonuje zmian portalu poparcia. Zmiany mogą być dokonywane z inicjatywy ministra albo na wniosek Państwowej Komisji Wyborczej. Państwowa Komisja Wyborcza we wniosku, którym mowa 1, wskazuje uzasadnienie proponowanej zmiany oraz termin jej realizacji.
+1. Minister właściwy spraw informatyzacji, uzgodnieniu z Państwową Komisją Wyborczą, dokonuje zmian poparcia. Zmiany mogą być dokonywane z inicjatywy ministra albo na wniosek Państwowej Komisji Wyborczej. Państwowa Komisja Wyborcza we wniosku, którym mowa 1, wskazuje uzasadnienie proponowanej zmiany oraz termin jej realizacji.
 
 - **1)** wykonuje obowiązki, mowa 15 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. sprawie ochrony osób fizycznych związku z przetwarzaniem danych osobowych i sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie ochronie danych);
-- **2)** określa zasady bezpieczeństwa przetwarzania danych osobowych portalu poparcia;
+- **2)** określa zasady bezpieczeństwa przetwarzania danych osobowych poparcia;
 - **3)** określa zasady zgłaszania naruszenia ochrony danych osobowych.
 
 **Art. 103g.**
 
-1. W portalu przetwarzane są:
+1. W przetwarzane są:
 
 - **1)** imię (imiona), nazwisko oraz numer ewidencyjny PESEL pełnomocnika wyborczego;
 - **2)** nazwa wyborczego oraz adres jego siedziby;
 - **3)** imię (imiona) i nazwisko kandydata wyborach Prezydenta Rzeczypospolitej Polskiej;
 - **4)** imię (imiona) i nazwisko kandydata oraz numer okręgu wyborczego wyborach Senatu Rzeczypospolitej Polskiej;
-- **5)** dane wyborców udzielających pośrednictwem portalu poparcia, zakresie:
+- **5)** dane wyborców udzielających poparcia, zakresie:
     - **a)** imienia (imion) i nazwiska,
     - **b)** numeru ewidencyjnego PESEL,
     - **c)** adresu zameldowania na pobyt stały adresu stałego zamieszkania, którym mowa 18a 1 pkt 6,
     - **d)** daty udzielenia poparcia;
 
-- **6)** dane wyborców udzielających postaci papierowej wprowadzone portalu przez właściwy organ wyborczy, zakresie: Dane, mowa 1 pkt 1–4, mogą być poprawione modyfikowane przez właściwe organy wyborcze.
+- **6)** dane wyborców udzielających postaci papierowej wprowadzone przez właściwy organ wyborczy, zakresie: Dane, mowa 1 pkt 1–4, mogą być poprawione modyfikowane przez właściwe organy wyborcze.
     - **a)** imienia (imion) i nazwiska,
     - **b)** numeru ewidencyjnego PESEL,
     - **c)** adresu zameldowania na pobyt stały adresu stałego zamieszkania, którym mowa 18a 1 pkt 6,
     - **d)** daty udzielenia poparcia.
 
-3. Dane, mowa 1 pkt 6, przetwarza się portalu przypadku, gdy kandydatów kandydat nie uzyskały wymaganego udzielonego pośrednictwem portalu poparcia.
+3. Dane, mowa 1 pkt 6, przetwarza się przypadku, gdy kandydatów kandydat nie uzyskały wymaganego udzielonego poparcia.
 
 **Art. 103h.**
 
-1. Dostęp danych zgromadzonych portalu celu realizacji zadań określonych kodeksie posiadają:
+1. Dostęp danych zgromadzonych celu realizacji zadań określonych kodeksie posiadają:
 
-- **1)** Państwowa Komisja Wyborcza, Szef Krajowego Biura Wyborczego oraz działający z upoważnienia Szefa Krajowego Biura Wyborczego dyrektor właściwej miejscowo delegatury Krajowego Biura Wyborczego zakresie, którym mowa 103g 1 i 103m, oraz zakresie liczby wyborców udzielających liście kandydatów albo kandydatowi wyborach pośrednictwem portalu poparcia;
-- **2)** okręgowe komisje wyborcze zakresie, którym mowa 103g 1 pkt 1–4 i 6, oraz zakresie liczby podpisów wyborców udzielających liście kandydatów albo kandydatowi wyborach pośrednictwem portalu poparcia;
-- **3)** pełnomocnik wyborczy wyborczego zakresie, którym mowa 103g 1 pkt 1–4, oraz zakresie liczby wyborców udzielających liście kandydatów albo kandydatowi wyborach pośrednictwem portalu poparcia, odniesieniu wyborczego, którego jest pełnomocnikiem wyborczym;
+- **1)** Państwowa Komisja Wyborcza, Szef Krajowego Biura Wyborczego oraz działający z upoważnienia Szefa Krajowego Biura Wyborczego dyrektor właściwej miejscowo delegatury Krajowego Biura Wyborczego zakresie, którym mowa 103g 1 i 103m, oraz zakresie liczby podpisów wyborców udzielających liście kandydatów albo kandydatowi wyborach poparcia;
+- **2)** okręgowe komisje wyborcze zakresie, którym mowa 103g 1 pkt 1–4 i 6, oraz zakresie liczby podpisów wyborców udzielających liście kandydatów albo kandydatowi wyborach poparcia;
+- **3)** pełnomocnik wyborczy wyborczego zakresie, którym mowa 103g 1 pkt 1–4, oraz zakresie liczby podpisów wyborców udzielających liście kandydatów albo kandydatowi wyborach pośrednictwem poparcia, odniesieniu wyborczego, którego jest pełnomocnikiem wyborczym;
 - **4)** minister właściwy spraw informatyzacji zakresie, którym mowa 103m.
 
-**Art. 103i.** Szef Krajowego Biura Wyborczego niezwłocznie po przyjęciu zawiadomienia utworzeniu wyborczego wprowadza portalu następujące dane:
+**Art. 103i.** Szef Krajowego Biura Wyborczego niezwłocznie po przyjęciu zawiadomienia utworzeniu wyborczego wprowadza następujące dane:
 
-**Art. 103j.** Do portalu poparcia:
+**Art. 103j.** Do poparcia:
 
 **Art. 103k.**
 
-1. Udzielenie pośrednictwem portalu jest możliwe po zalogowaniu się tego portalu oraz po uwierzytelnieniu się sposób określony 20a ust. 1 ustawy z dnia 17 lutego 2005 r. informatyzacji działalności podmiotów realizujących zadania publiczne. Po zalogowaniu się portalu oraz uwierzytelnieniu sposób określony 1 osoba udzielająca uzyskuje informacje o:
+1. Udzielenie jest możliwe po zalogowaniu się tego oraz po uwierzytelnieniu się sposób określony 20a ust. 1 ustawy z dnia 17 lutego 2005 r. informatyzacji działalności podmiotów realizujących zadania publiczne. Po zalogowaniu się oraz uwierzytelnieniu sposób określony 1 osoba udzielająca uzyskuje informacje o:
 
 - **1)** wyborach, kandydatów kandydat mają zostać zgłoszone;
 - **2)** oznaczeniu okręgu wyborczego, którym kandydatów kandydat mają zostać zgłoszone przypadku wyborów Sejmu i Senatu oraz wyborów Parlamentu Europejskiego Rzeczypospolitej Polskiej;
 - **3)** nazwie wyborczego, który zamierza zgłosić listę kandydatów kandydata;
 - **4)** kandydatach na Prezydenta Rzeczypospolitej Polskiej na senatora, którym może udzielić poparcia.
 
-3. Udzielenie pośrednictwem portalu polega na wyborze listy (list) kandydatów kandydata (kandydatów) wyborach i złożeniu kwalifikowanego podpisu elektronicznego, podpisu zaufanego albo podpisu osobistego.
+3. Udzielenie polega na wyborze listy (list) kandydatów kandydata (kandydatów) wyborach i złożeniu kwalifikowanego podpisu elektronicznego, podpisu zaufanego albo podpisu osobistego.
 
-**Art. 103l.** Szef Krajowego Biura Wyborczego działający z jego upoważnienia dyrektor właściwej miejscowo delegatury Krajowego Biura Wyborczego udostępnia dane gromadzone portalu na żądanie:
+**Art. 103l.** Szef Krajowego Biura Wyborczego działający z jego upoważnienia dyrektor właściwej miejscowo delegatury Krajowego Biura Wyborczego udostępnia dane gromadzone na żądanie:
 
-**Art. 103m.** Zapisy dziennikach systemów (logach) portalu przechowywane są przez 5 lat od dnia ich utworzenia. nej przepisami kodeksu, złożonych postaci papierowej nie weryfikuje się pod kątem spełnienia przez nie wymagań określonych przepisami kodeksu.
+**Art. 103m.** Zapisy dziennikach systemów (logach) przechowywane są przez 5 lat od dnia ich utworzenia. nej przepisami kodeksu, podpisów złożonych postaci papierowej nie weryfikuje się pod kątem spełnienia przez nie wymagań określonych przepisami kodeksu.
 
 **Art. 103p.**
 
-1. Osobie, której dane są przetwarzane portalu związku z udzieleniem przez nią poparcia, umożliwia się nieodpłatne pobranie informacji o:
+1. Osobie, której dane są przetwarzane związku z udzieleniem przez nią poparcia, umożliwia się nieodpłatne pobranie informacji o:
 
 - **1)** dacie udzielenia przez nią poparcia;
 - **2)** nazwie wyborczego, którego listę kandydatów albo kandydata poparła. Pobranie informacji, której mowa 1, następuje przy użyciu usługi elektronicznej udostępnionej przez ministra właściwego spraw informatyzacji, po uwierzytelnieniu sposób określony 20a ust. 1 ustawy z dnia 17 lutego 2005 r. informatyzacji działalności podmiotów realizujących zadania publiczne.”;
-- **2)** 209 dodaje się 4 brzmieniu: „§ 4. Wyborca może udzielić liście kandydatów także pośrednictwem portalu poparcia.”;
+- **2)** 209 dodaje się 4 brzmieniu: „§ 4. Wyborca może udzielić liście kandydatów także poparcia.”;
 - **3)** 210 1 otrzymuje brzmienie: „§ 1. Lista kandydatów powinna być poparta sposób, którym mowa 103k 209 2 i 3, podpisami co najmniej 5000 wyborców stale zamieszkałych danym okręgu wyborczym.”;
-- **4)** 212 5 po pkt 1 dodaje się pkt 1a brzmieniu: „1a) oświadczenie liczbie wyborców popierających listę pośrednictwem portalu poparcia;”;
+- **4)** 212 5 po pkt 1 dodaje się pkt 1a brzmieniu: „1a) oświadczenie liczbie podpisów wyborców popierających listę poparcia;”;
 - **5)** 215 3 zdanie pierwsze otrzymuje brzmienie: „Jeżeli zgłoszenie ma wady inne niż brak wymaganej liczby wyborców prawidłowo udzielających poparcia, komisja wzywa osobę zgłaszającą listę ich usunięcia terminie 3 dni.”;
-- **6)** 216 1 zdanie pierwsze otrzymuje brzmienie: „Jeżeli liczba wyborców prawidłowo udzielających zgłoszeniu listy kandydatów jest mniejsza niż wymagana kodeksie, okręgowa komisja wyborcza wzywa osobę zgłaszającą listę uzupełnienia wykazu uzyskania pośrednictwem portalu poparcia, ile nie upłynął termin, którym mowa 211 1.”;
+- **6)** 216 1 zdanie pierwsze otrzymuje brzmienie: „Jeżeli liczba wyborców prawidłowo udzielających zgłoszeniu listy kandydatów jest mniejsza niż wymagana kodeksie, okręgowa komisja wyborcza wzywa osobę zgłaszającą listę uzupełnienia wykazu podpisów uzyskania poparcia, ile nie upłynął termin, którym mowa 211 1.”;
 - **7)** 217 2 otrzymuje brzmienie: „§ Jeżeli wyniku przeprowadzonego postępowania ustalone zostanie, że zgłoszona nie uzyskała wymaganej kodeksie liczby wyborców, okręgowa komisja wyborcza postanawia odmowie rejestracji listy kandydatów.”;
 - **8)** 265:
     - **a)** 1 otrzymuje brzmienie: „§ 1. Zgłoszenie kandydata na senatora powinno być poparte przez co najmniej 2000 wyborców.”,
-    - **b)** po 4 dodaje się 4a brzmieniu: „§ 4a. Wyborca może udzielić kandydatowi na senatora także pośrednictwem portalu poparcia.”;
+    - **b)** po 4 dodaje się 4a brzmieniu: „§ 4a. Wyborca może udzielić kandydatowi na senatora także poparcia.”;
 
 - **9)** 296 skreśla się zdanie drugie;
 - **10)** 303: terminu, którym mowa 303 1.
-    - **a)** 1 pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 brzmieniu: „4) oświadczenie liczbie wyborców popierających kandydata pośrednictwem portalu poparcia.”,
-    - **b)** dodaje się 3 brzmieniu: „§ 3. Wyborca może udzielić także pośrednictwem portalu poparcia.”;
+    - **a)** 1 pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 brzmieniu: „4) oświadczenie liczbie podpisów wyborców popierających kandydata poparcia.”,
+    - **b)** dodaje się 3 brzmieniu: „§ 3. Wyborca może udzielić także poparcia.”;
 
 4b. Jeżeli uzupełnienia, którym mowa 4a, nie dokonano przed upływem terminu, którym mowa 303 1, Państwowa Komisja Wyborcza postanawia odmowie rejestracji kandydata.”;
 
-- **12)** 343 otrzymuje brzmienie: „Art. 343. Lista kandydatów powinna być poparta przez co najmniej 10 000 wyborców stale zamieszkałych danym okręgu wyborczym. Wyborca może udzielić liście kandydatów także pośrednictwem portalu poparcia. Przepisy 210 2 i 3 stosuje się.”.
+- **12)** 343 otrzymuje brzmienie: „Art. 343. Lista kandydatów powinna być poparta przez co najmniej 10 000 wyborców stale zamieszkałych danym okręgu wyborczym. Wyborca może udzielić liście kandydatów także poparcia. Przepisy 210 2 i 3 stosuje się.”.
 
-**Art. 1.** Do wyborów zarządzonych przed dniem wejścia życie niniejszej ustawy stosuje się przepisy ustawy zmienianej 1 brzmieniu dotychczasowym. Udzielania pośrednictwem portalu poparcia, którym mowa 103d ustawy zmienianej 1, nie stosuje się wyborów zarządzonych przed dniem wejścia życie ustawy.
+**Art. 1.** Do wyborów zarządzonych przed dniem wejścia życie niniejszej ustawy stosuje się przepisy ustawy zmienianej 1 brzmieniu dotychczasowym. Udzielania poparcia, którym mowa 103d ustawy zmienianej 1, nie stosuje się wyborów zarządzonych przed dniem wejścia życie ustawy.
 
 **Art. 3.** Minister właściwy spraw informatyzacji, terminie 12 miesięcy od dnia wejścia życie niniejszego przepisu:
 

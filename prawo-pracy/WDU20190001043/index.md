@@ -30,9 +30,9 @@ USTAWA dnia 16 maja 2019 zmianie ustawy Kodeks niektórych innych ustaw
 
 **Art. 477¹b.**
 
-1. wyroku uwzględniającym żądanie zobowiązania wydania którym mowa 97 1 ustawy dnia 26 czerwca 1974 Kodeks sąd określa treść zgodnie 97 2 ustawy dnia 26 czerwca 1974 Kodeks przepisami wydanymi podstawie 97 4 tej ustawy. Jeżeli określenie wszystkich faktów wymienionych tych przepisach niemożliwe, wyroku określa się co najmniej okres rodzaj wykonywanej wymiar czasu zajmowane stanowiska tryb rozwiązania albo okoliczności a sytuacji gdy określenie trybu albo okoliczności również niemożliwe wskazuje się, że rozwiązanie nastąpiło za wypowiedzeniem dokonanym przez pracodawcę.
+1. wyroku uwzględniającym żądanie zobowiązania pracodawcy którym mowa 97 1 ustawy dnia 26 czerwca 1974 Kodeks sąd określa treść zgodnie 97 2 ustawy dnia 26 czerwca 1974 Kodeks przepisami wydanymi podstawie 97 4 tej ustawy. Jeżeli określenie wszystkich faktów wymienionych tych przepisach niemożliwe, wyroku określa się co najmniej okres rodzaj wykonywanej wymiar czasu zajmowane stanowiska tryb rozwiązania albo okoliczności a sytuacji gdy określenie trybu albo okoliczności również niemożliwe wskazuje się, że rozwiązanie nastąpiło za wypowiedzeniem dokonanym przez pracodawcę.
 
-2. Prawomocny wyrok zobowiązujący pracodawcę wydania zastępuje to świadectwo.
+2. Prawomocny wyrok zobowiązujący pracodawcę zastępuje to świadectwo.
 
 3. Przepisy 1 2 stosuje się odpowiednio żądania sprostowania pracy.”;
 
@@ -44,9 +44,9 @@ USTAWA dnia 16 maja 2019 zmianie ustawy Kodeks niektórych innych ustaw
 
 - **1)** okres rodzaj wykonywanej wymiar czasu zajmowane stanowiska miejsce wykonywania pracy;
 - **2)** tryb albo okoliczności jeżeli pracownik posiada te informacje, a przypadku ich nieposiadania okoliczności zaprzestania świadczenia przez pracownika;
-- **3)** pracodawcę, który był obowiązany wydania przyczynę, powodu której wystąpienie przeciwko niemu żądaniem zobowiązania wydania niemożliwe.
+- **3)** pracodawcę, który był obowiązany przyczynę, powodu której wystąpienie przeciwko niemu żądaniem zobowiązania pracodawcy niemożliwe.
 
-2. Jeżeli wytoczenie powództwa zobowiązanie wydania możliwe, sąd rozpozna żądanie procesie jako żądanie zobowiązania wydania pracy.
+2. Jeżeli wytoczenie powództwa zobowiązanie pracodawcy możliwe, sąd rozpozna żądanie procesie jako żądanie zobowiązania pracodawcy pracy.
 
 3. postanowieniu uwzględniającym żądanie ustalenia uprawnienia otrzymania sąd określa treść zgodnie 97 2 ustawy dnia 26 czerwca 1974 Kodeks przepisami wydanymi podstawie 97 4 tej ustawy. Jeżeli określenie wszystkich faktów wymienionych tych przepisach niemożliwe, postanowieniu określa się co najmniej okres rodzaj wykonywanej wymiar czasu zajmowane stanowiska tryb albo okoliczności a sytuacji gdy określenie trybu albo okoliczności również niemożliwe wskazuje się, że rozwiązanie nastąpiło za wypowiedzeniem dokonanym przez pracodawcę.
 

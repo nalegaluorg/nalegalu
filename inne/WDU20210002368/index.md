@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# Poz.
+# Ustawa z dnia 17 listopada 2021 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw
+
+*USTAWA 17 listopada 2021 zmianie ustawy szczególnych rozwiązaniach związanych zapobieganiem, przeciwdziałaniem zwalczaniem COVID-19, innych chorób zakaźnych wywołanych nimi sytuacji kryzysowych niektórych innych ustaw*
 
 | Pole | Wartość |
 |---|---|
@@ -23,8 +25,6 @@ domain: null
 | Data wydania | 2021-12-21 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002368) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2368/text.pdf) |
-
-USTAWA 17 listopada 2021 zmianie ustawy szczególnych rozwiązaniach związanych zapobieganiem, przeciwdziałaniem zwalczaniem COVID-19, innych chorób zakaźnych wywołanych nimi sytuacji kryzysowych niektórych innych ustaw
 
 **Art. 1.** W ustawie 2 marca szczególnych rozwiązaniach związanych zapobieganiem, przeciwdziałaniem zwalczaniem COVID-19, innych chorób zakaźnych wywołanych nimi sytuacji kryzysowych (Dz. U. 2021 poz. 2095, 2120, 2133, 2262, 2269 2317) wprowadza się następujące zmiany:
 
@@ -60,7 +60,7 @@ USTAWA 17 listopada 2021 zmianie ustawy szczególnych rozwiązaniach związanych
     - **c)** zestawienie poniesionych kosztów realizacji zadań, tym kosztów nabycia autorskich praw majątkowych, których 15zzzzl 5 ustawy zmienianej 1, brzmieniu dotychczasowym, nie zostały
     - **c)** oświadczenie lub zestawienie raport, potwierdzające poniesienie kosztów realizacji zadań związanych wynagrodzeniem osób, brały udział realizacji tych zadań, sporządzone podstawie listy płac osób zatrudnionych Agencji.
 
-8. Oświadczenie, 7 lit. d, składa się pod rygorem odpowiedzialności karnej składanie fałszywych oświadczeń. W oświadczeniu zawiera się klauzulę następującej treści: „Jestem świadomy/świadoma odpowiedzialności karnej złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu odpowiedzialności karnej składanie fałszywych oświadczeń.
+8. Oświadczenie, 7 lit. d, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. W oświadczeniu zawiera się klauzulę następującej treści: „Jestem świadomy/świadoma odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
 9. Minister właściwy spraw transportu niezwłocznie po otrzymaniu poprawnego pod względem formalnym, rachunkowym merytorycznym wniosku, 4, przekazuje Banku Gospodarstwa Krajowego dyspozycję wypłaty środków finansowych, których 1, rachunek bankowy wskazany tym wniosku.
 
@@ -70,7 +70,7 @@ USTAWA 17 listopada 2021 zmianie ustawy szczególnych rozwiązaniach związanych
 
 12. W przypadku stwierdzenia, że wysokość przekazanych Agencji środków finansowych, których 1, przekracza wysokość poniesionych kosztów realizacji zadań, nie zostały sfinansowane innych środków publicznych, uzyskanych ze wsparcia innych źródeł finansowania, różnica między wysokością przekazanych Agencji środków finansowych a wysokością poniesionych kosztów realizacji zadań, nie zostały sfinansowane innych środków publicznych, uzyskanych ze wsparcia innych źródeł finansowania, podlega zwrotowi Funduszu Przeciwdziałania COVID-19, 65 ustawy zmienianej 5, najpóźniej terminie przekazania informacji, której 11.
 
-**Art. 8.** Środki finansowe, których 15zzzzl ustawy zmienianej 1, przekazywane operatorowi publicznego transportu zbiorowego przewozach pasażerskich transporcie kolejowym miesiące czwartego kwartału 2021 są wypłacane 31 marca 2022
+**Art. 8.** Środki finansowe, których 15zzzzl ustawy zmienianej 1, przekazywane operatorowi publicznego transportu zbiorowego przewozach pasażerskich transporcie kolejowym za miesiące czwartego kwartału 2021 są wypłacane 31 marca 2022
 
 **Art. 9.** Przepis 65 28a ustawy zmienianej 5, brzmieniu nadanym niniejszą ustawą, stosuje się również uchwał dotyczących wsparcia inwestycyjne zadania dla jednostek samorządu terytorialnego będących organami prowadzącymi jednostki systemu oświaty podjętych przed dniem wejścia życie niniejszej ustawy podstawie 65 28 ustawy zmienianej 5.
 

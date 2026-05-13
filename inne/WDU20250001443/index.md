@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# Poz. 1443 OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ 20 października sprawie ogłoszenia jednolitego tekstu ustawy o odpowiedzialności majątkowej publicznych za rażące naruszenie
+# 1443 OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ 20 października sprawie ogłoszenia jednolitego tekstu ustawy o odpowiedzialności majątkowej funkcjonariuszy publicznych za rażące naruszenie prawa
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +24,8 @@ domain: null
 | Ostatnia zmiana | 2025-10-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001443) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1443/text.pdf) |
 
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy 20 lipca 2000 o ogłaszaniu aktów normatywnych niektórych innych aktów prawnych 2019 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy 20 stycznia 2011 o odpowiedzialności majątkowej publicznych za rażące naruszenie 2016 1169), uwzględnieniem zmiany wprowadzonej ustawą 21 maja o zmianie niektórych ustaw celu deregulacji gospodarczego administracyjnego doskonalenia zasad opracowywania gospodarczego 769) zmian wynikających przepisów ogłoszonych przed dniem 9 października
-2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 48 ustawy 21 maja o zmianie niektórych ustaw celu deregulacji gospodarczego administracyjnego doskonalenia zasad opracowywania gospodarczego 769), który stanowi: „Art. 48. Ustawa wchodzi życie po upływie 30 dni od ogłoszenia, wyjątkiem:
+1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy 20 lipca 2000 o ogłaszaniu aktów normatywnych niektórych innych aktów prawnych 2019 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy 20 stycznia 2011 o odpowiedzialności majątkowej funkcjonariuszy publicznych za rażące naruszenie prawa 2016 1169), uwzględnieniem zmiany wprowadzonej ustawą 21 maja o zmianie niektórych ustaw celu deregulacji prawa gospodarczego administracyjnego doskonalenia zasad opracowywania prawa gospodarczego 769) zmian wynikających przepisów ogłoszonych przed dniem 9 października
+2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 48 ustawy 21 maja o zmianie niektórych ustaw celu deregulacji prawa gospodarczego administracyjnego doskonalenia zasad opracowywania prawa gospodarczego 769), który stanowi: „Art. 48. Ustawa wchodzi życie po upływie 30 dni od ogłoszenia, wyjątkiem:
 1) art. 6, art. 11, art. 18, art. 22, art. 24 pkt 4, 7 9, art. 38 art. 40 ust. 1 2, które wchodzą życie dniem 1 stycznia 2026 r.;
 2) art. 28 art. 44, które wchodzą życie po upływie 9 miesięcy od ogłoszenia.”.
 Marszałek Sejmu: S. Hołownia
@@ -33,7 +33,7 @@ Art. 11–15. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
-**Art. 1.** Ustawa określa zasady odpowiedzialności majątkowej publicznych wobec Skarbu Państwa, jednostek samorządu terytorialnego lub innych podmiotów ponoszących odpowiedzialność za szkodę wyrządzoną przy wykonywaniu władzy publicznej, za działania lub zaniechania prowadzące do rażącego naruszenia zasady postępowania przedmiocie takiej odpowiedzialności.
+**Art. 1.** Ustawa określa zasady odpowiedzialności majątkowej funkcjonariuszy publicznych wobec Skarbu Państwa, jednostek samorządu terytorialnego lub innych podmiotów ponoszących odpowiedzialność za szkodę wyrządzoną przy wykonywaniu władzy publicznej, za działania lub zaniechania prowadzące do rażącego naruszenia prawa zasady postępowania przedmiocie takiej odpowiedzialności.
 
 **Art. 2.**
 
@@ -49,13 +49,13 @@ Art. 11–15. (pominięte)
 
 **Art. 3.** Odpowiedzialność funkcjonariusza publicznego zasadach określonych ustawie wyłącza przewidzianą przepisach odrębnych odpowiedzialność majątkową funkcjonariusza publicznego wobec podmiotu odpowiedzialnego za szkodę wyrządzoną tym samym działaniem lub zaniechaniem.
 
-**Art. 4.** W sprawach nieuregulowanych ustawie do odpowiedzialności majątkowej publicznych stosuje się przepisy ustawy 23 kwietnia 1964 Kodeks cywilny.
+**Art. 4.** W sprawach nieuregulowanych ustawie do odpowiedzialności majątkowej funkcjonariuszy publicznych stosuje się przepisy ustawy 23 kwietnia 1964 Kodeks cywilny.
 
-#### Rozdział 2 Zasady odpowiedzialności majątkowej publicznych
+#### Rozdział 2 Zasady odpowiedzialności majątkowej funkcjonariuszy publicznych
 
 **Art. 5.** Funkcjonariusz publiczny ponosi odpowiedzialność majątkową razie łącznego zaistnienia następujących przesłanek:
 
-**Art. 6.** Przez stwierdzenie rażącego naruszenia należy rozumieć:
+**Art. 6.** Przez stwierdzenie rażącego naruszenia prawa należy rozumieć:
 
 #### Rozdział 3 Postępowanie
 
@@ -66,7 +66,7 @@ Art. 11–15. (pominięte)
 2. Do wniosku, o którym mowa ust. 1, załącza się:
 
 - **1)** dowód wypłaty odszkodowania, o którym mowa art. 5 pkt 1, stanowiące podstawę tej wypłaty orzeczenie lub ugodę;
-- **2)** rozstrzygnięcie stwierdzające rażące naruszenie uwierzytelnione kopie posiadanych akt postępowania sądowego lub administracyjnego, którym zostało wydane to rozstrzygnięcie.
+- **2)** rozstrzygnięcie stwierdzające rażące naruszenie prawa uwierzytelnione kopie posiadanych akt postępowania sądowego lub administracyjnego, którym zostało wydane to rozstrzygnięcie.
 
 3. Po wpłynięciu wniosku, o którym mowa ust. 1, prokurator przeprowadza postępowanie wyjaśniające zmierzające do ustalenia przesłanek uzasadniających wytoczenie rzecz podmiotu odpowiedzialnego powództwa o odszkodowanie przeciwko funkcjonariuszowi publicznemu tytułu szkody wyrządzonej przy wykonywaniu władzy publicznej rażącym naruszeniem prawa. Do przeprowadzenia tego postępowania stosuje się odpowiednio przepisy art. 69 ustawy 28 stycznia 2016 Prawo o prokuraturze 2024 390 304 1178).
 
@@ -74,13 +74,13 @@ Art. 11–15. (pominięte)
 
 5. Jeżeli brak jest podstaw do wytoczenia powództwa, o którym mowa ust. 3, prokurator odmawia podjęcia tej czynności.
 
-2. Jeżeli kilku publicznych dopuściło się działania lub zaniechania, o których mowa art. 5 pkt 2, każdy nich ponosi odpowiedzialność stosownie do przyczynienia się do rażącego naruszenia stopnia winy. Jeżeli nie jest możliwe ustalenie stopnia winy przyczynienia się poszczególnych publicznych do rażącego naruszenia prawa, odpowiadają oni częściach równych.
+2. Jeżeli kilku funkcjonariuszy publicznych dopuściło się działania lub zaniechania, o których mowa art. 5 pkt 2, każdy nich ponosi odpowiedzialność stosownie do przyczynienia się do rażącego naruszenia prawa stopnia winy. Jeżeli nie jest możliwe ustalenie stopnia winy przyczynienia się poszczególnych funkcjonariuszy publicznych do rażącego naruszenia prawa, odpowiadają oni częściach równych.
 
-3. Jeżeli kilku publicznych dopuściło się działania lub zaniechania, o których mowa art. 5 pkt 2, każdy nich ponosi odpowiedzialność do kwoty dwunastokrotności miesięcznego wynagrodzenia, o którym mowa ust. 1.
+3. Jeżeli kilku funkcjonariuszy publicznych dopuściło się działania lub zaniechania, o których mowa art. 5 pkt 2, każdy nich ponosi odpowiedzialność do kwoty dwunastokrotności miesięcznego wynagrodzenia, o którym mowa ust. 1.
 
 4. Jeżeli funkcjonariusz publiczny dopuścił się działania lub zaniechania, o których mowa art. 5 pkt 2, winy umyślnej, odpowiada on do wysokości odszkodowania, o którym mowa art. 5 pkt 1.
 
-5. Jeżeli kilku publicznych dopuściło się działania lub zaniechania, o których mowa art. 5 pkt 2, winy umyślnej, odpowiadają oni solidarnie.
+5. Jeżeli kilku funkcjonariuszy publicznych dopuściło się działania lub zaniechania, o których mowa art. 5 pkt 2, winy umyślnej, odpowiadają oni solidarnie.
 
 6. Wynagrodzenie przysługujące funkcjonariuszowi publicznemu, o którym mowa ust. 1, określa się dzień działania lub koniec okresu zaniechania, które spowodowało rażące naruszenie prawa. W przypadku gdy zgodnie ze zdaniem poprzedzającym wynagrodzenie może być określone różnej wysokości, przyjmuje się wysokość najwyższą. Jeżeli ustalenie wynagrodzenia według zasad określonych zdaniach poprzedzających nie jest możliwe, wynagrodzenie przysługujące funkcjonariuszowi publicznemu określa się dzień stwierdzenia rażącego naruszenia prawa, o którym mowa art. 5 pkt 3, a jeżeli tym dniu osobie odpowiedzialnej nie przysługuje już wynagrodzenie jako funkcjonariuszowi publicznemu, wynagrodzenie określa się ostatni dzień, którym jej ono przysługiwało.
 
@@ -94,7 +94,7 @@ Art. 11–15. (pominięte)
 
 #### Rozdział 5 Zmiany przepisach obowiązujących, przepisy przejściowe końcowe
 
-**Art. 16.** Przepisy ustawy stosuje się do działań zaniechań publicznych, które nastąpiły od wejścia życie ustawy.
+**Art. 16.** Przepisy ustawy stosuje się do działań zaniechań funkcjonariuszy publicznych, które nastąpiły od wejścia życie ustawy.
 
 **Art. 17.** Ustawa wchodzi życie po upływie 3 miesięcy od ogłoszenia .
 

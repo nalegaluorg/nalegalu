@@ -21,7 +21,7 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2012-11-23 |
 | Data wydania | 2012-12-29 |
-| Ostatnia zmiana | 2026-04-24 |
+| Ostatnia zmiana | 2026-05-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001529) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1529/text.pdf) |
 
 USTAWA z dnia 23 listopada 2012 r.

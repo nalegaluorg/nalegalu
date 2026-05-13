@@ -25,8 +25,8 @@ domain: null
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971130733) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/733/text.pdf) |
 
 Zezwolenia, których 1, wydawane na okres 2 dni.
-3. za jednorazowe zezwolenia, których 1, wnoszona jest kasy gminy przed wydaniem zezwolenia odpowiada 1/12 rocznej za poszcze gólne rodzaje których mo wa wart. 11' 2 18 1a.";
-5) po 18' dodaje 18 brzmieniu: "Art. 18 Dochody za wydane na podsta wie 'art. 18 lub 18" zezwolenia oraz dochody wart. 11' wykorzystywane jedynie na gminnych programów profiPodmioty, których 1, za rok 1997 skarbowej pobranej przy wydaniu zezwolenia.
+3. za jednorazowe zezwolenia, których 1, wnoszona jest kasy gminy przed wydaniem zezwolenia odpowiada 1/12 rocznej za poszcze gólne rodzaje których mo wa 11' 2 18 1a.";
+5) po 18' dodaje 18 brzmieniu: "Art. 18 Dochody za wydane na podsta wie 'art. 18 lub 18" zezwolenia oraz dochody 11' wykorzystywane jedynie na gminnych programów profiPodmioty, których 1, za rok 1997 skarbowej pobranej przy wydaniu zezwolenia.
 3. Podmioty, które nie której mo wa 2, terminie 30 dni od dnia niniejszej ustawy.
 4. Niedokonanie za rok 1997 terminie 3 powoduje zezwole nia.
 5. Podmiotom, których 1, które konały opłaty za korzystanie zezwoleń i997 r. wy 2, zalicza po na poczet za korzystanie zezwolenia 1998 r., chyba zainteresowany pod miot jej zwrot.

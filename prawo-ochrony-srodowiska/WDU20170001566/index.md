@@ -21,7 +21,7 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2017-07-20 |
 | Data wydania | 2017-08-23 |
-| Ostatnia zmiana | 2026-04-09 |
+| Ostatnia zmiana | 2026-05-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001566) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1566/text.pdf) |
 
 USTAWA z dnia 20 lipca 2017 r.

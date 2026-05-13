@@ -24,6 +24,7 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001986) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1986/text.pdf) |
 
+1986
 USTAWA dnia 17 września 2021 r.
 zmianie ustawy Prawo budowlane oraz ustawy planowaniu zagospodarowaniu przestrzennym
 
@@ -42,7 +43,7 @@ zmianie ustawy Prawo budowlane oraz ustawy planowaniu zagospodarowaniu przestrze
 
 **Art. 3.**
 
-1. Do budowy budynku spełniającego kryteria, których mowa 1a 16 ustawy zmienianej 1, przypadku której przed dniem wejścia życie niniejszej ustawy wydano decyzję pozwoleniu budowę dokonano zgłoszenia, stosuje się przepisy dotychczasowe.
+1. Do budowy budynku spełniającego kryteria, których 1a 16 ustawy zmienianej 1, przypadku której przed dniem wejścia życie niniejszej ustawy wydano decyzję pozwoleniu budowę dokonano zgłoszenia, stosuje się przepisy dotychczasowe.
 
 2. Do postępowań sprawie wydania decyzji pozwoleniu budowę zgłoszeń budowy budynków spełniająpodstawie tego przepisu.
 

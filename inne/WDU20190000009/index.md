@@ -26,9 +26,9 @@ domain: null
 
 USTAWA dnia 14 grudnia zmianie służbie zagranicznej oraz ujawnianiu informacji dokumentach organów bezpieczeństwa państwa lat 1944–1990 oraz treści tych dokumentów
 
-**Art. 1.** W ustawie dnia 27 lipca 2001 służbie zagranicznej (Dz. U. 2040) po art. 2 dodaje się art. 2a brzmieniu: „Art. 2a. 1. W służbie zagranicznej, tym na stanowiskach, których mowa art. 28a ust. 1, nie może być zatrudniona osoba, która okresie od dnia 22 lipca 1944 dnia 31 lipca 1990 pracowała lub pełniła służbę organach bezpieczeństwa państwa lub była współpracownikiem tych organów rozumieniu dnia 18 października 2006 ujawnianiu informacji dokumentach organów bezpieczeństwa państwa lat 1944–1990 oraz treści tych dokumentów (Dz. U. 2017 2186, późn. zm. ). 2. Przepis ust. 1 stosuje się także niebędących członkami służby zagranicznej osób:
+**Art. 1.** W ustawie dnia 27 lipca 2001 służbie zagranicznej (Dz. 2040) po art. 2 dodaje się art. 2a brzmieniu: „Art. 2a. 1. W służbie zagranicznej, tym na stanowiskach, których mowa art. 28a ust. 1, nie może być zatrudniona osoba, która okresie od dnia 22 lipca 1944 dnia 31 lipca 1990 pracowała lub pełniła służbę organach bezpieczeństwa państwa lub była współpracownikiem tych organów rozumieniu dnia 18 października 2006 ujawnianiu informacji dokumentach organów bezpieczeństwa państwa lat 1944–1990 oraz treści tych dokumentów (Dz. 2017 2186, późn. zm. ). 2. Przepis ust. 1 stosuje się także niebędących członkami służby zagranicznej osób:
 
-**Art. 2.** W ustawie dnia 18 października 2006 ujawnianiu informacji dokumentach organów bezpieczeństwa państwa lat 1944–1990 oraz treści tych dokumentów (Dz. U. 2017 2186, późn. zm. ) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie dnia 18 października 2006 ujawnianiu informacji dokumentach organów bezpieczeństwa państwa lat 1944–1990 oraz treści tych dokumentów (Dz. 2017 2186, późn. zm. ) wprowadza się następujące zmiany:
 
 **Art. 3.** Stosunki pracy osób zatrudnionych służbie zagranicznej albo osób, których mowa art. 4 ust. 1, które przed dniem wejścia życie niniejszej złożyły dokumenty, których mowa art. 7 ust. 1, art. 7a ust. 2 oraz art. 11 ust. 4 zmienianej art. 2, potwierdzające pracę lub służbę organach bezpieczeństwa państwa lub współpracę tymi organami, wygasają po upływie 60 dni od dnia wejścia życie niniejszej ustawy.
 
@@ -37,8 +37,8 @@ USTAWA dnia 14 grudnia zmianie służbie zagranicznej oraz ujawnianiu informacji
 1. Niebędące członkami służby zagranicznej osoby, które są obywatelami polskimi, zatrudnione dniu wejścia życie niniejszej w:
 
 - **1)** ministerstwie obsługującym ministra właściwego spraw zagranicznych albo placówce zagranicznej Rzeczypospolitej Polskiej, których mowa art. 2 ust. 2 pkt 1 3 zmienianej art. 1,
-- **2)** placówce zagranicznej Rzeczypospolitej Polskiej na podstawie umowy pracę rozumieniu przepisów dnia 26 czerwca 1974 Kodeks pracy (Dz. U. 917, późn. zm. ),
-- **3)** ministerstwie obsługującym ministra właściwego spraw zagranicznych na podstawie przepisów dnia 16 września 1982 pracownikach urzędów państwowych (Dz. U. 1915),
+- **2)** placówce zagranicznej Rzeczypospolitej Polskiej na podstawie umowy pracę rozumieniu przepisów dnia 26 czerwca 1974 Kodeks pracy (Dz. 917, późn. zm. ),
+- **3)** ministerstwie obsługującym ministra właściwego spraw zagranicznych na podstawie przepisów dnia 16 września 1982 pracownikach urzędów państwowych (Dz. 1915),
 - **4)** jednostkach organizacyjnych nadzorowanych przez ministra właściwego spraw zagranicznych są obowiązane złożenia dokumentów, których mowa art. 7 ust. 1, art. 7a ust. 2 oraz art. 11 ust. 4 zmienianej art. 2, terminie 30 dni od dnia wejścia życie niniejszej ustawy.
 
 2. Stosunki pracy osób, których mowa ust. 1, które złożyły dokumenty, których mowa art. 7 ust. 1, art. 7a ust. 2 oraz art. 11 ust. 4 zmienianej art. 2, potwierdzające pracę lub służbę organach bezpieczeństwa państwa lub współpracę tymi organami, wygasają po upływie 30 dni od dnia złożenia dokumentów.

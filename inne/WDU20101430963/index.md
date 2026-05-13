@@ -21,7 +21,7 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2010-07-08 |
 | Data wydania | 2010-08-10 |
-| Ostatnia zmiana | 2026-04-02 |
+| Ostatnia zmiana | 2026-05-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101430963) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/963/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne

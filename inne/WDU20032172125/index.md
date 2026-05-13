@@ -30,7 +30,7 @@ domain: null
 
 **Art. 7c.** Organ ewidencyjny wydaje decyzję o odmowie wpisu, jeżeli:
 
-**Art. 7d.** Przedsiębiorca jest obowiązany zgłaszać organowi ewidencyjnemu zmiany stanu faktycznego prawnego odnoszące przedsiębiorcy wykonywanej przez niego działalności gospodarczej, zakresie danych zawartych zgłoszeniu, októrym mowa wart. 7bust. 2, powstałe po dniu dokonania wpisu ewidencji działalności gospodarczej, wterminie 14 dni od dnia powstania tych zmian, atakże informację ozaprzestaniu wykonywania działalności gospodarczej. Do zgłoszenia zmian stosuje odpowiednio przepisy art.7bust.1—3 7c. Zmiana miejsca zamieszkania przedsiębiorcy podlega wpisowi przez organ ewidencyjny, który był właściwy przed zmianą. Po dokonaniu zmiany wpisu organ ewidencyjny dotychczas właściokoliczności, o których mowa formularze zgłoszeń identyfikacyjnych art.7c pkt 1 3, aktualizacyjnych.”;
+**Art. 7d.** Przedsiębiorca jest obowiązany zgłaszać organowi ewidencyjnemu zmiany stanu faktycznego prawnego odnoszące przedsiębiorcy wykonywanej przez niego działalności gospodarczej, zakresie danych zawartych zgłoszeniu, októrym mowa wart. 7bust. 2, powstałe dniu dokonania wpisu ewidencji działalności gospodarczej, wterminie 14 dni od dnia powstania tych zmian, atakże informację ozaprzestaniu wykonywania działalności gospodarczej. Do zgłoszenia zmian stosuje odpowiednio przepisy art.7bust.1—3 art. 7c. Zmiana miejsca zamieszkania przedsiębiorcy podlega wpisowi przez organ ewidencyjny, który był właściwy przed zmianą. Po dokonaniu zmiany wpisu organ ewidencyjny dotychczas właściokoliczności, o których mowa formularze zgłoszeń identyfikacyjnych art.7c pkt 1 3, aktualizacyjnych.”;
 
 **Art. 7f.** Organ ewidencyjny może wykreślić zurzędu wpis zawierający dane niezgodne zrzeczywistym stanem rzeczy.
 
@@ -40,5 +40,5 @@ domain: null
 
 **Art. 7.** Wustawie zdnia 28 lutego 2003 Prawo upadłościowe naprawcze (Dz. U. 60, 535) wprowadza następujące zmiany:
 
-**Art. 8.** Przedsiębiorcy wpisani ewidencji działalności uzupełnią, terminie 12 miesięcy od dnia wejścia życie ustawy, pod rygorem odmowy wydania zaświadczenia o wpisie przez organ ewidencyjny, brakujące dane, o których mowa 7b ust. 2 ustawy, o której mowa
+**Art. 8.** Przedsiębiorcy wpisani ewidencji działalności uzupełnią, terminie 12 miesięcy od dnia wejścia życie ustawy, pod rygorem odmowy wydania zaświadczenia o wpisie przez organ ewidencyjny, brakujące dane, o których mowa art. 7b ust. 2 ustawy, o której mowa art.
 

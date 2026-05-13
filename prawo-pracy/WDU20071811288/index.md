@@ -46,7 +46,7 @@ domain: null
 
 2. Jeżeli do uzgodnienia dotyczącego wykonywania formie teledochodzi przy zawieraniu umowy opracę, wumowie dodatkowo określa się warunki wykonywania pracy, zgodnie 67 .
 
-3. W trakcie zatrudnienia zmiana warunków wykonywania pracy, określone zgodnie 67 , może nastąpić mocy porozumienia stron, inicjatywy pracownika lub pracodawcy. Pracodawca powinien, miarę możliwości, uwzględnić wniosek pracownika dotyczący wykonywania formie telepracy. dnia 24 sierpnia zmianie ustawy Kodeks oraz niektórych innych ustaw nia pracy. Strony ustalają termin, od którego nastąpi przywrócenie poprzednich warunków wykonywania pracy, nie dłuższy niż 30 dni od dnia otrzymania wniosku.
+3. W trakcie zatrudnienia zmiana warunków wykonywania pracy, określone zgodnie 67 , może nastąpić mocy porozumienia stron, inicjatywy pracownika lub pracodawcy. Pracodawca powinien, miarę możliwości, uwzględnić wniosek pracownika dotyczący wykonywania formie telepracy. dnia 24 sierpnia 2007 zmianie ustawy Kodeks oraz niektórych innych ustaw nia pracy. Strony ustalają termin, od którego nastąpi przywrócenie poprzednich warunków wykonywania pracy, nie dłuższy niż 30 dni od dnia otrzymania wniosku.
 
 2. Jeżeli wniosek telepracownika zostanie złożony po upływie terminu określonego 1, pracodawca powinien miarę możliwości uwzględnić ten wniosek.
 

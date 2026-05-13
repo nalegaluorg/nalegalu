@@ -23,7 +23,7 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2002-10-28 |
 | Data wydania | 2002-11-27 |
-| Ostatnia zmiana | 2026-04-15 |
+| Ostatnia zmiana | 2026-05-08 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021971661) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/1661/text.pdf) |
 
 1. Ustawa określa zasady odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groêbą kary jako przestępstwa przestępstwa skarbowe oraz zasady postępowania wprzedmiocie takiej odpowiedzialności.

@@ -26,7 +26,7 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070730484) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/484/text.pdf) |
 
-**Art. 1.** Wustawie zdnia 27 lipca 2001 oKrajowej Radzie Sądownictwa (Dz. U. 100, 1082, póên. zm. tym o oczywistej rażącej obrazie przepisów prawa uchybieniu godności urzędu, ) wprowadza się następujące zmiany: występuje żądaniem podjęcia czynności dyscyplinarnych wobec sędziego,”,
+**Art. 1.** Wustawie zdnia 27 lipca 2001 oKrajowej Radzie Sądownictwa (Dz. U. 100, 1082, póên. zm. tym o oczywistej i rażącej obrazie przepisów prawa i uchybieniu godności urzędu, ) wprowadza się następujące zmiany: występuje żądaniem podjęcia czynności dyscyplinarnych wobec sędziego,”,
 
 **Art. 2.** W ustawie dnia 27 lipca 2001 Prawo o ustroju sądów powszechnych (Dz. U. 98, 1070, póên. zm. ) wprowadza się następujące zmiany:
 

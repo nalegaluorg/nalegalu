@@ -21,7 +21,7 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2020-12-17 |
 | Data wydania | 2021-02-03 |
-| Ostatnia zmiana | 2026-04-15 |
+| Ostatnia zmiana | 2026-05-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000234) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/234/text.pdf) |
 
 USTAWA z dnia 17 grudnia 2020 r.

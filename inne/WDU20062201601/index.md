@@ -24,13 +24,13 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062201601) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/1601/text.pdf) |
 
-**Art. 1.** Wustawie zdnia 10 kwietnia 2003 oszczególnych zasadach przygotowania irealizacji inwestycji zakresie dróg krajowych (Dz. 80, 721, z póên. zm. ) wprowadza się następujące
+**Art. 1.** Wustawie zdnia 10 kwietnia 2003 r. oszczególnych zasadach przygotowania irealizacji inwestycji zakresie dróg krajowych (Dz. 80, 721, z póên. zm. ) wprowadza się następujące
 
-**Art. 2.** W ustawie z 12 stycznia 1991 o podatkach opłatach lokalnych (Dz. z 2006 121,
+**Art. 2.** W ustawie z 12 stycznia 1991 r. o podatkach opłatach lokalnych (Dz. z 2006 r. 121,
 
-**Art. 3.** W ustawie z 21 sierpnia 1997 o gospodarce nieruchomościami (Dz. z 261, 2603, z póên. zm. ) art. 129 5 Ń5. Starosta, wykonujący zadanie z zakresu administracji rządowej, wydaje odrębną decyzję o odszkodowaniu:
+**Art. 3.** W ustawie z 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. z 2004 r. 261, 2603, z póên. zm. ) art. 129 ust. 5 Ń5. Starosta, wykonujący zadanie z zakresu administracji rządowej, wydaje odrębną decyzję o odszkodowaniu:
 
-**Art. 4.** W ustawie z 29 lipca 2005 o zmianie niektórych ustaw związku ze zmianami podziale zadań kompetencji administracji terenowej (Dz. Art. 6. Ustawa wchodzi życie po upływie 14 dni Nr175, 1462, 189, 1604 iNr 267, poz.2257 od ogłoszenia, zwyjątkiem art. 1 pkt 18 iart. 2 nioraz z 2006 144, 1043) wprowadza się nastę- niejszej ustawy, które wchodzą życie z dniem pujące 1 stycznia 2007
+**Art. 4.** W ustawie z 29 lipca r. o zmianie niektórych ustaw związku ze zmianami podziale zadań kompetencji administracji terenowej (Dz. Art. 6. Ustawa wchodzi życie po upływie 14 dni Nr175, 1462, 189, 1604 iNr 267, poz.2257 od ogłoszenia, zwyjątkiem art. 1 pkt 18 iart. 2 nioraz z 2006 r. 144, 1043) wprowadza się nastę- niejszej ustawy, które wchodzą życie z dniem pujące 1 stycznia 2007 r.
 
-**Art. 1.** Wustawie zdnia 11 września 2003 osłużbie wojskowej żołnierzy zawodowych (Dz. 179, 1750, z póên. zm. r., posiadający wyższy stopień wojskowy od stopnia etatowego sta) wprowadza się następujące nowiska służbowego, które zajmuje, będący oficerem terminie 31 grudnia 2007 r., a będący
+**Art. 1.** Wustawie zdnia 11 września 2003 r. osłużbie wojskowej żołnierzy zawodowych (Dz. 179, 1750, z póên. zm. 2004 r., posiadający wyższy stopień wojskowy od stopnia etatowego sta) wprowadza się następujące nowiska służbowego, które zajmuje, będący oficerem terminie 31 grudnia 2007 r., a będący
 

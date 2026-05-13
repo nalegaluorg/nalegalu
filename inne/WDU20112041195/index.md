@@ -43,7 +43,7 @@ stępniona Biuletynie Informacji Publicznej
 3. Prezes Rady Ministrów określa, dro- lub centralnym repozytorium, jest udostępniadze rozporządzenia: na na wniosek.”;
 1) asób informacyjny przeznaczony 8) art. 21 otrzymuje brzmienie: do umieszczenia centralnym repozytorium, wraz ze wskazaniem „Art. 21. Do skarg rozpatrywanych postępowapodmiotu obowiązanego do jego niach udostępnienie informacji publiczprzekazania, mając na względzie nej stosuje się przepisy ustawy dnia szczególne znaczenie określonych 30 sierpnia 2002 Prawo postępoinformacji publicznych dla rozwoju waniu przed sądami administracyjnymi innowacyjności społeczeństwa in- (Dz. U. 153, 1270, późn. zm.
 formacyjnego,
-2) ymagania techniczne opracowania zasobu informacyjnego, mając na względzie sposób koordynacji informacji stanowiących zasób informacyjny związane nim metadane opisujące ten dokument, ułatwiające jego wyszukiwanie, kontrolę, długotrwałe przechowywanie zarządzanie, możliwość jak najszerszego ponownego wykorzystywania informacji publicznych ich maszynowego odczytu,
+2) ymagania techniczne opracowania zasobu informacyjnego, mając na względzie sposób koordynacji informacji stanowiących zasób informacyjny oraz związane nim metadane opisujące ten dokument, ułatwiające jego wyszukiwanie, kontrolę, długotrwałe przechowywanie zarządzanie, oraz możliwość jak najszerszego ponownego wykorzystywania informacji publicznych ich maszynowego odczytu,
 3) h armonogram przekazywania zasobu informacyjnego do centralnego repozytorium, mając na względzie konieczność zagwarantowania aktualności informacji.
 
 **Art. 9b.**
@@ -76,7 +76,7 @@ formacyjnego,
 3. Przepisów niniejszego rozdziału nie stosuje się do:
 
 - **1)** a rchiwów państwowych zakresie znajdujących się ich dyspozycji materiałów archiwalnych,
-- **2)** j ednostek publicznej radiofonii telewizji rozumieniu ustawy dnia 29 grudnia 1992 radiofonii telewizji (Dz. U. 2011 43, 226, późn. zm. ), zakresie audycji radiowych telewizyjnych innych przekazów,
+- **2)** j ednostek publicznej radiofonii telewizji rozumieniu ustawy dnia 29 grudnia 1992 radiofonii telewizji (Dz. U. 2011 43, 226, późn. zm. ), zakresie audycji radiowych telewizyjnych oraz innych przekazów,
 - **3)** nstytucji kultury, samorządowych instytucji kultury ani innych podmiotów prowadzących działalność kulturalną, której mowa art. 2 ustawy dnia 25 października 1991 organizowaniu prowadzeniu działalności kulturalnej (Dz. U. 2001 13, 123, późn. zm. ), zakresie informacji publicznych stanowiących przedmiot ich działalności,
 - **4)** u czelni, Polskiej Akademii Nauk ani jednostek naukowych rozumieniu ustawy dnia 30 kwietnia 2010 zasadach finansowania nauki, służących ich działalności oświatowej.
 
@@ -89,14 +89,14 @@ formacyjnego,
 
 **Art. 23b.**
 
-1. Informacje publiczne są udostępniane celu ich ponownego wykorzystywania bez ograniczeń warunkami bezpłatnie, zastrzeżeniem ust. 2 3 art. 23c.
+1. Informacje publiczne są udostępniane celu ich ponownego wykorzystywania bez ograniczeń warunkami bezpłatnie, zastrzeżeniem ust. 2 3 oraz art. 23c.
 
 2. Podmiot zobowiązany może określić warunki ponownego wykorzystywania informacji publicznej dotyczące:
 
 - **1)** bowiązku poinformowania źródle, czasie wytworzenia pozyskania informacji publicznej od podmiotu zobowiązanego,
 - **2)** bowiązku dalszego udostępniania innym użytkownikom informacji pierwotnie pozyskanej formie,
 - **3)** bowiązku informowania przetworzeniu informacji ponownie wykorzystywanej,
-- **4)** akresu odpowiedzialności podmiotu zobowiązanego za przekazywane informacje. (Dz. U. 128, 1402, 2004 96, 959 2007 99, 662 176, 1238), zapewniający możliwość dowolnego wykorzystywania utworu lub bazy danych, do celów komercyjnych niekomercyjnych, tworzenia rozpowszechniania kopii utworu lub bazy danych, całości lub we fragmentach, wprowadzania zmian rozpowszechniania utworów zależnych.
+- **4)** akresu odpowiedzialności podmiotu zobowiązanego za przekazywane informacje. (Dz. U. 128, 1402, 2004 96, 959 oraz 2007 99, 662 176, 1238), zapewniający możliwość dowolnego wykorzystywania utworu lub bazy danych, do celów komercyjnych niekomercyjnych, tworzenia rozpowszechniania kopii utworu lub bazy danych, całości lub we fragmentach, oraz wprowadzania zmian rozpowszechniania utworów zależnych.
 
 4. Podmiot zobowiązany udostępnia warunki ponownego wykorzystywania informacji publicznej postaci elektronicznej.
 
@@ -104,7 +104,7 @@ formacyjnego,
 
 1. P odmiot zobowiązany może nałożyć opłatę za udostępnienie informacji publicznej celu ponownego wykorzystywania na wniosek, którym mowa art. 23g ust. 2, jeżeli przygotowanie informacji sposób wskazany we wniosku wymaga poniesienia dodatkowych kosztów.
 
-2. Nakładając opłatę, której mowa ust. 1, uwzględnia się koszty przygotowania przekazania informacji publicznej określony sposób określonej formie inne czynniki, jakie będą brane pod uwagę przy nietypowych wnioskach ponowne wykorzystywanie informacji publicznej, które mogą mieć wpływ szczególności na koszt lub czas przygotowania przekazania informacji. Łączna wysokość opłaty nie może przekroczyć sumy kosztów poniesionych bezpośrednio celu przygotowania przekazania informacji nie może wprowadzać ograniczenia korzystania tej informacji przez innych użytkowników, chyba że jest to niezbędne dla prawidłowego wykonywania zadań publicznych.
+2. Nakładając opłatę, której mowa ust. 1, uwzględnia się koszty przygotowania przekazania informacji publicznej określony sposób określonej formie oraz inne czynniki, jakie będą brane pod uwagę przy nietypowych wnioskach ponowne wykorzystywanie informacji publicznej, które mogą mieć wpływ szczególności na koszt lub czas przygotowania przekazania informacji. Łączna wysokość opłaty nie może przekroczyć sumy kosztów poniesionych bezpośrednio celu przygotowania przekazania informacji nie może wprowadzać ograniczenia korzystania tej informacji przez innych użytkowników, chyba że jest to niezbędne dla prawidłowego wykonywania zadań publicznych.
 
 2. W przypadku gdy warunki ponownego wykorzystywania informacji publicznej przewidują wyłączność korzystania tej informacji, treść warunków ponownego wykorzystywania jest ogłaszana na stronie podmiotowej Biuletynu Informacji Publicznej podmiotu wprowadzającego wyłączność. publicznej celu ponownego wykorzystywania określony sposób określonej formie.
 
@@ -112,9 +112,9 @@ formacyjnego,
 
 1. Podmiot zobowiązany udostępnia informację publiczną celu jej ponownego wykorzystywania porównywalnych sytuacjach na takich samych warunkach.
 
-2. W przypadku gdy ponowne wykorzyArt. 23f. 1. Podmioty zobowiązane, które przekazują informacje publiczne celu ponownego wykorzystywania użyciem systemów teleinformatycznych, są obowiązane do stosowania formatów danych protokołów komunikacyjnych szyfrujących, umożliwiających odczyt maszynowy, określonych przepisach wydanych na podstawie art. 18 pkt 1 ustawy dnia 17 lutego 2005 informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. 64, 565, późn. zm. ).
+2. W przypadku gdy ponowne wykorzyArt. 23f. 1. Podmioty zobowiązane, które przekazują informacje publiczne celu ponownego wykorzystywania użyciem systemów teleinformatycznych, są obowiązane do stosowania formatów danych oraz protokołów komunikacyjnych szyfrujących, umożliwiających odczyt maszynowy, określonych przepisach wydanych na podstawie art. 18 pkt 1 ustawy dnia 17 lutego 2005 informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. 64, 565, późn. zm. ).
 
-2. Podmioty zobowiązane nie są obowiązane do opracowywania, szczególności przetworzenia, informacji publicznej celu jej ponownego wykorzystywania dostarczania nich wyciągów, jeżeli spowoduje to konieczność podjęcia nieproporcjonalnych działań przekraczających proste czynności.
+2. Podmioty zobowiązane nie są obowiązane do opracowywania, szczególności przetworzenia, informacji publicznej celu jej ponownego wykorzystywania oraz dostarczania nich wyciągów, jeżeli spowoduje to konieczność podjęcia nieproporcjonalnych działań przekraczających proste czynności.
 
 **Art. 23g.**
 
@@ -143,7 +143,7 @@ formacyjnego,
 
 10. Wnioskodawca, który otrzymał ofertę, której mowa ust. 7 pkt 2, może, terminie 14 dni od dnia otrzymania oferty, złożyć sprzeciw powodu naruszenia przepisów ustawy. W przypadku otrzymania sprzeciwu podmiot zobowiązany, drodze decyzji, rozstrzyga warunkach ponownego wykorzystywania informacji publicznej lub wysokości opłat.
 
-11. Do decyzji odmowie przekazania informacji publicznej celu ponownego wykorzystywania do decyzji warunkach ponownego wykorzystywania informacji publicznej wysokości opłat stosuje się przepisy Kodeksu postępowania administracyjnego, tym że:
+11. Do decyzji odmowie przekazania informacji publicznej celu ponownego wykorzystywania oraz do decyzji warunkach ponownego wykorzystywania informacji publicznej oraz wysokości opłat stosuje się przepisy Kodeksu postępowania administracyjnego, tym że:
 
 - **1)** dwołanie od decyzji rozpoznaje się terminie 14 dni,
 - **2)** u zasadnienie decyzji odmowie ponownego wykorzystywania informacji publicznej na podstawie ust. 8 pkt 2 zawiera wskazanie osoby fizycznej, osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej, która posiada prawa autorskie, jeżeli jest znana, albo licencjodawcy, od którego podmiot zobowiązany uzyskał dany utwór.
@@ -172,7 +172,7 @@ formacyjnego,
 
 **Art. 6.** W ustawie dnia 2 lipca 2004 swobodzie działalności gospodarczej (Dz. U. 2010 220, 1447, późn. zm. ) art. 39:
 
-**Art. 8.** W ustawie dnia 24 września 2010 ewidencji ludności (Dz. U. 217, 1427 239, 1593 2011 133, 768) art. 46 dodaje się ust. 3 brzmieniu: „3. Udostępnienie danych celu ich ponownego wykorzystywania, którym mowa ust. 2 pkt 2, następuje na wniosek, na zasadach określonych ustawie dnia 6 września 2001 dostępie do informacji publicznej (Dz. U. 112, 1198, późn. zm.
+**Art. 8.** W ustawie dnia 24 września 2010 ewidencji ludności (Dz. U. 217, 1427 239, 1593 oraz 2011 133, 768) art. 46 dodaje się ust. 3 brzmieniu: „3. Udostępnienie danych celu ich ponownego wykorzystywania, którym mowa ust. 2 pkt 2, następuje na wniosek, na zasadach określonych ustawie dnia 6 września 2001 dostępie do informacji publicznej (Dz. U. 112, 1198, późn. zm.
 
 **Art. 9.**
 
@@ -181,7 +181,7 @@ formacyjnego,
 - **1)** 2012 5 550 000 zł;
 - **2)** 2013 5 550 000 zł; lub techniczno-organizacyjnych zakresie funkcjonowania centralnego repozytorium informacji publicznej.
 
-3. Organem właściwym do monitorowania wykorzystania limitu wydatków, którym mowa ust. 1, wdrożenia mechanizmów korygujących, których mowa ust. 2, jest minister właściwy do spraw informatyzacji.
+3. Organem właściwym do monitorowania wykorzystania limitu wydatków, którym mowa ust. 1, oraz wdrożenia mechanizmów korygujących, których mowa ust. 2, jest minister właściwy do spraw informatyzacji.
 
 **Art. 10.**
 

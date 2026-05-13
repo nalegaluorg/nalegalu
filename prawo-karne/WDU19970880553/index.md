@@ -10,9 +10,7 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# Kodeks karny
-
-*USTAWA z dnia 6 czerwca 1997 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 2 sierpnia 1997 r.
 
 | Pole | Wartość |
 |---|---|
@@ -26,3242 +24,1492 @@ domain: null
 | Ostatnia zmiana | 2026-01-21 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970880553) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/553/text.pdf) |
 
+Nr 88 Poz.: 2677 553
+USTAWA z dnia 6 czerwca 1997 r.
+Kodeks karny.
+
 ## CZĘŚĆ OGÓLNA
 
-#### Rozdział I Zasady odpowiedzialności karnej
+#### Rozdział I Zasady karnej
 
 **Art. 1.**
 
-§ 1. Odpowiedzialności karnej podlega ten tylko, kto popełnia czyn zabroniony pod groźbą kary przez ustawę obowiązującą w czasie jego popełnienia.
+§ 1. karnej podlega ten tylko, kto czyn zabroniony pod kary przez w czasie jego nia. 2. Nie stanowi czyn zabroniony, któ rego jest znikoma. 3. Nie sprawca czynu za bronionego, nie mu winy w cza sie czynu.
 
-§ 2. Nie stanowi przestępstwa czyn zabroniony, którego społeczna szkodliwość jest znikoma.
+**Art. 2.** Odpowiedzialności karnej za skutkowe przez zaniechanie podlega ten tylko, na kim prawny, szczególny za skutkowi.
 
-§ 3. Nie popełnia przestępstwa sprawca czynu zabronionego, jeżeli nie można mu przypisać winy w czasie czynu.
-
-**Art. 2.** Odpowiedzialności karnej za przestępstwo skutkowe popełnione przez zaniechanie podlega ten tylko, na kim ciążył prawny, szczególny obowiązek zapobiegnięcia skutkowi.
-
-**Art. 3.** Kary oraz inne środki przewidziane w tym kodeksie stosuje się z uwzględnieniem zasad humanitaryzmu, w szczególności z poszanowaniem godności człowieka.
+**Art. 3.** Kary oraz inne przewidziane w tym kodeksie stosuje z zasad humani taryzmu, w z poszanowaniem
 
 **Art. 4.**
 
-§ 1. Jeżeli w czasie orzekania obowiązuje ustawa inna niż w czasie popełnienia przestępstwa, stosuje się ustawę nową, jednakże należy stosować ustawę obowiązującą poprzednio, jeżeli jest względniejsza dla sprawcy.
+§ 1. w czasie orzekania ustawa inna w czasie stosuje poprzednio, jest niejsza dla sprawcy. 2. nowej ustawy czyn wyro kiem jest której górna granica jest sza od kary orzeczonej, do górnej granicy ustawowego przewidziane go za taki czyn w nowej ustawie. 3. nowej ustawy czyn wyro kiem nie jest pozbawienia pozbawienia wykonaniu zamienia na albo ograni czenia jeden pozba wienia równa 60 stawkom dziennym grzywny albo 2 ograniczenia 4. nowej ustawy czyn wyro kiem nie jest zabroniony pod kary, skazanie ulega zatarciu z mocy prawa.
 
-§ 2. Jeżeli według nowej ustawy za czyn objęty wyrokiem nie można orzec kary w wysokości kary orzeczonej, wymierzoną karę obniża się do wysokości najsurowszej kary możliwej do orzeczenia na podstawie nowej ustawy.
-
-§ 3. Jeżeli według nowej ustawy czyn objęty wyrokiem nie jest już zagrożony karą pozbawienia wolności, wymierzoną karę pozbawienia wolności podlegającą wykonaniu zamienia się na grzywnę albo karę ograniczenia wolności, przyjmując że jeden miesiąc pozbawienia wolności równa się 60 stawkom dziennym grzywny albo 2 miesiącom ograniczenia wolności.
-
-§ 4. Jeżeli według nowej ustawy czyn objęty wyrokiem nie jest już zabroniony pod groźbą kary, skazanie ulega zatarciu z mocy prawa.
-
-**Art. 5.** Ustawę karną polską stosuje się do sprawcy, który popełnił czyn zabroniony na terytorium Rzeczypospolitej Polskiej, jak również na polskim statku wodnym lub powietrznym, chyba że umowa międzynarodowa, której Rzeczpospolita Polska jest stroną, stanowi inaczej.
+**Art. 5.** Ustawę stosuje do sprawcy, który czyn zabroniony na terytorium Rzeczypo spolitej Polskiej, jak na polskim statku wodnym lub powietrznym, chyba umowa której Rzeczpospolita Polska jest stanowi inaczej.
 
 **Art. 6.**
 
-§ 1. Czyn zabroniony uważa się za popełniony w czasie, w którym sprawca działał lub zaniechał działania, do którego był obowiązany.
-
-§ 2. Czyn zabroniony uważa się za popełniony w miejscu, w którym sprawca działał lub zaniechał działania, do którego był obowiązany, albo gdzie skutek stanowiący znamię czynu zabronionego nastąpił lub według zamiaru sprawcy miał nastąpić.
+§ 1. Czyn zabroniony za ny w czasie, w którym sprawca lub do którego 2. Czyn zabroniony za w miejscu, w którym sprawca lub do którego albo gdzie sku tek czynu zabronionego lub zamiaru sprawcy
 
 **Art. 7.**
 
-§ 1. Przestępstwo jest zbrodnią albo występkiem.
+1. jest albo kiem.
 
-§ 2. Zbrodnią jest czyn zabroniony zagrożony karą pozbawienia wolności na czas nie krótszy od lat 3 albo karą surowszą.
+2. jest czyn zabroniony pozbawienia na czas nie krótszy od lat 3 albo
 
-§ 3. Występkiem jest czyn zabroniony zagrożony grzywną powyżej 30 stawek dziennych albo powyżej 5000 złotych, karą ograniczenia wolności przekraczającą miesiąc albo karą pozbawienia wolności przekraczającą miesiąc.
+3. jest czyn zabroniony 30 stawek dziennych, ogranicze nia albo pozbawienia przekra
 
-**Art. 8.** Zbrodnię można popełnić tylko umyślnie; występek można popełnić także nieumyślnie, jeżeli ustawa tak stanowi.
+**Art. 8.** Zbrodnię tylko ustawa tak stanowi.
 
 **Art. 9.**
 
-§ 1. Czyn zabroniony popełniony jest umyślnie, jeżeli sprawca ma zamiar jego popełnienia, to jest chce go popełnić albo przewidując możliwość jego popełnienia, na to się godzi.
+1. Czyn zabroniony jest nie, sprawca ma zamiar jego to jest chce go albo jego po na to godzi.
 
-§ 2. Czyn zabroniony popełniony jest nieumyślnie, jeżeli sprawca nie mając zamiaru jego popełnienia, popełnia go jednak na skutek niezachowania ostrożności wymaganej w danych okolicznościach, mimo że możliwość popełnienia tego czynu przewidywał albo mógł przewidzieć.
+2. Czyn zabroniony jest sprawca nie zamiaru jego po go jednak na skutek niezachowania wymaganej w danych mimo tego czynu albo
 
-§ 3. Sprawca ponosi surowszą odpowiedzialność, którą ustawa uzależnia od określonego następstwa czynu zabronionego, jeżeli następstwo to przewidywał albo mógł przewidzieć.
+3. Sprawca ponosi ustawa od czynu zabronionego, to albo
 
 **Art. 10.**
 
-§ 1. Na zasadach określonych w tym kodeksie odpowiada ten, kto popełnia czyn zabroniony po ukończeniu 17 lat.
+1. Na zasadach w tym kodek sie odpowiada ten, kto czyn zabroniony po 17 lat.
 
-§ 2. Nieletni, który po ukończeniu 15 lat dopuszcza się czynu zabronionego określonego w art. 134, art. 148 § 1, 2 lub 3, art. 156 § 1 lub 3, art. 163 § 1 lub 3, art. 166, art. 173 § 1 lub 3, art. 197 § 1, 1a, 3, 4 lub 5, art. 223 § 2, art. 252 § 1 lub 2 oraz w art. 280, może odpowiadać na zasadach określonych w tym kodeksie, jeżeli okoliczności sprawy oraz stopień rozwoju sprawcy, jego właściwości i warunki osobiste za tym przemawiają, a w szczególności, jeżeli poprzednio stosowane środki wychowawcze lub poprawcze okazały się bezskuteczne.
+2. Nieletni, który po 15 lat dopuszcza czynu zabronionego wart. 134, art. 148 1,2 lub 3, art. 156 1 lub 3, art. 163 1 lub 3, art. 166, art. 173 1 lub 3, art. 197 3, art. 252 11ub 2 oraz wart. 280, na zasadach w tym kodeksie, sprawy oraz sto rozwoju sprawcy, jego i warunki oso biste za tym a w po przednio stosowane wychowawcze lub popraw cze bezskuteczne.
 
-§ 2a. Nieletni, który po ukończeniu 14 lat, a przed ukończeniem 15 lat, dopuszcza się czynu zabronionego określonego w art. 148 § 2 lub 3, może odpowiadać na zasadach określonych w tym kodeksie, jeżeli okoliczności sprawy oraz stopień rozwoju sprawcy, jego właściwości i warunki osobiste za tym przemawiają oraz zachodzi uzasadnione przypuszczenie, że stosowanie środków wychowawczych lub poprawczych nie jest w stanie zapewnić resocjalizacji nieletniego.
+3. W wypadku w 2 orzeczona kara nie dwóch trzecich górnej granicy ustawowego przewidzianego za przypisane sprawcy nadzwyczajne kary.
 
-§ 3. W wypadku określonym w § 2 orzeczona kara nie może przekroczyć dwóch trzecich górnej granicy ustawowego zagrożenia przewidzianego za przypisane sprawcy przestępstwo, które nie jest zagrożone karą dożywotniego pozbawienia wolności. W wypadkach określonych w § 2 i 2a sąd może zastosować nadzwyczajne złagodzenie kary.
-
-§ 4. W stosunku do sprawcy, który popełnił występek po ukończeniu lat 17, lecz przed ukończeniem lat 18, sąd zamiast kary stosuje środki wychowawcze, lecznicze albo poprawcze przewidziane dla nieletnich, jeżeli okoliczności sprawy oraz stopień rozwoju sprawcy, jego właściwości i warunki osobiste za tym przemawiają.
+4. W stosunku do sprawcy, który pek po lat 17, lecz przed lat 18, zamiast kary stosuje wychowawcze, lecznicze albo poprawcze przewidziane dla nieletnich, sprawy oraz rozwoju spraw cy, jego i warunki osobiste za tym przema
 
 **Art. 11.**
 
-§ 1. Ten sam czyn może stanowić tylko jedno przestępstwo.
+§ 1. Ten sam czyn tylko jed no 2. czyn wyczerpuje znamiona w dwóch albo przepisach ustawy karnej, skazuje za jedno na podstawie wszyst kich przepisów. 3. W wypadku w 2 wymierza ka na podstawie przepisu najsu co nie stoi na przeszkodzie orzeczeniu innych przewidzianych w ustawie na podstawie wszystkich przepisów.
 
-§ 2. Jeżeli czyn wyczerpuje znamiona określone w dwóch albo więcej przepisach ustawy karnej, sąd skazuje za jedno przestępstwo na podstawie wszystkich zbiegających się przepisów.
-
-§ 3. W wypadku określonym w § 2 sąd wymierza karę na podstawie przepisu przewidującego karę najsurowszą, co nie stoi na przeszkodzie orzeczeniu innych środków przewidzianych w ustawie na podstawie wszystkich zbiegających się przepisów.
-
-**Art. 12.**
-
-§ 1. Dwa lub więcej zachowań, podjętych w krótkich odstępach czasu w wykonaniu z góry powziętego zamiaru, uważa się za jeden czyn zabroniony; jeżeli przedmiotem zamachu jest dobro osobiste, warunkiem uznania wielości zachowań za jeden czyn zabroniony jest tożsamość pokrzywdzonego.
-
-§ 2. Odpowiada jak za jeden czyn zabroniony wyczerpujący znamiona przestępstwa ten, kto w krótkich odstępach czasu, przy wykorzystaniu tej samej albo takiej samej sposobności lub w podobny sposób popełnia dwa lub więcej umyślnych wykroczeń przeciwko mieniu, jeżeli łączna wartość mienia uzasadnia odpowiedzialność za przestępstwo.
-
-#### Rozdział II Formy popełnienia przestępstwa
+**Art. 12.** Dwa lub w krótkich czasu w wykonaniu z góry po zamiaru, za jeden czyn zabroniony; przedmiotem zamachu jest dobro osobiste, wa runkiem uznania za jeden czyn za broniony jest pokrzywdzonego. Formy
 
 **Art. 13.**
 
-§ 1. Odpowiada za usiłowanie, kto w zamiarze popełnienia czynu zabronionego swoim zachowaniem bezpośrednio zmierza do jego dokonania, które jednak nie następuje.
+1. Odpowiada za kto w zamia rze czynu zabronionego swoim zachowa niem zmierza do jego dokonania, które jednak nie
 
-§ 2. Usiłowanie zachodzi także wtedy, gdy sprawca nie uświadamia sobie, że dokonanie jest niemożliwe ze względu na brak przedmiotu nadającego się do popełnienia na nim czynu zabronionego lub ze względu na użycie środka nie nadającego się do popełnienia czynu zabronionego.
+2. zachodzi wtedy, gdy sprawca nie sobie, dokonanie jest ze na brak przedmiotu do nienia na nim czynu zabronionego lub ze na nie do czynu zabronionego.
 
 **Art. 14.**
 
-§ 1. Sąd wymierza karę za usiłowanie w granicach zagrożenia przewidzianego dla danego przestępstwa.
+1. wymierza za w gra nicach przewidzianego dla danego prze
 
-§ 2. W wypadku określonym w art. 13 § 2 sąd może zastosować nadzwyczajne złagodzenie kary, a nawet odstąpić od jej wymierzenia.
+2. W wypadku wart. 13 2 mo nadzwyczajne kary, a nawet od jej wymierzenia.
 
 **Art. 15.**
 
-§ 1. Nie podlega karze za usiłowanie, kto dobrowolnie odstąpił od dokonania lub zapobiegł skutkowi stanowiącemu znamię czynu zabronionego.
+1. Nie podlega karze za kto dobrowolnie od dokonania lub skutkowi czynu zabronionego.
 
-§ 2. Sąd może zastosować nadzwyczajne złagodzenie kary w stosunku do sprawcy, który dobrowolnie starał się zapobiec skutkowi stanowiącemu znamię czynu zabronionego.
+2. nadzwyczajne nie kary w stosunku do sprawcy, który dobrowolnie zapobiec skutkowi czynu zabronionego.
 
 **Art. 16.**
 
-§ 1. Przygotowanie zachodzi tylko wtedy, gdy sprawca w celu popełnienia czynu zabronionego podejmuje czynności mające stworzyć warunki do przedsięwzięcia czynu zmierzającego bezpośrednio do jego dokonania, w szczególności w tymże celu wchodzi w porozumienie z inną osobą, uzyskuje lub przysposabia środki, zbiera informacje lub sporządza plan działania.
+1. Przygotowanie zachodzi tylko wtedy, gdy sprawca w celu czynu zabronionego podejmuje warunki do czynu do jego dokonania, w w celu wcho dzi w porozumienie z uzyskuje lub przy sposabia zbiera informacje lub plan
 
-§ 2. Przygotowanie jest karalne tylko wtedy, gdy ustawa tak stanowi.
+2. Przygotowanie jest karalne tylko wtedy, gdy ustawa tak stanowi.
 
 **Art. 17.**
 
-§ 1. Nie podlega karze za przygotowanie, kto dobrowolnie od niego odstąpił, w szczególności zniszczył przygotowane środki lub zapobiegł skorzystaniu z nich w przyszłości; w razie wejścia w porozumienie z inną osobą w celu popełnienia czynu zabronionego, nie podlega karze ten, kto nadto podjął istotne starania zmierzające do zapobieżenia dokonaniu.
+1. Nie podlega karze za przygotowanie, kto dobrowolnie od niego w przygotowane lub skorzy staniu z nich w w razie w porozu mienie z w celu czynu zabronionego, nie podlega karze ten, kto nadto istot ne starania do dokonaniu.
 
-§ 2. Nie podlega karze za przygotowanie osoba, do której stosuje się art. 15 § 1.
+2. Nie podlega karze za przygotowanie osoba, do której stosuje art. 15 1.
 
 **Art. 18.**
 
-§ 1. Odpowiada za sprawstwo nie tylko ten, kto wykonuje czyn zabroniony sam albo wspólnie i w porozumieniu z inną osobą, ale także ten, kto kieruje wykonaniem czynu zabronionego przez inną osobę lub wykorzystując uzależnienie innej osoby od siebie, poleca jej wykonanie takiego czynu.
+1. Odpowiada za sprawstwo nie tylko ten, kto wykonuje czyn zabroniony sam albo wspólnie i w porozumieniu z ale ten, kto kieru je wykonaniem czynu zabronionego przez lub innej osoby od siebie, poleca jej wykonanie takiego czynu.
 
-§ 2. Odpowiada za podżeganie, kto chcąc, aby inna osoba dokonała czynu zabronionego, nakłania ją do tego.
+2. Odpowiada za kto aby inna osoba czynu zabronionego, do te go.
 
-§ 3. Odpowiada za pomocnictwo, kto w zamiarze, aby inna osoba dokonała czynu zabronionego, swoim zachowaniem ułatwia jego popełnienie, w szczególności dostarczając narzędzie, środek przewozu, udzielając rady lub informacji; odpowiada za pomocnictwo także ten, kto wbrew prawnemu, szczególnemu obowiązkowi niedopuszczenia do popełnienia czynu zabronionego swoim zaniechaniem ułatwia innej osobie jego popełnienie.
+3. Odpowiada za pomocnictwo, kto w zamiarze, aby inna osoba czynu zabronionego, swoim zachowaniem jego w szczególno przewozu, rady lub informacji; odpowiada za pomocnictwo ten, kto wbrew prawnemu, szczególnemu wi niedopuszczenia do czynu zabronione go swoim zaniechaniem innej osobie jego po
 
 **Art. 19.**
 
-§ 1. Sąd wymierza karę za podżeganie lub pomocnictwo w granicach zagrożenia przewidzianego za sprawstwo.
+1. wymierza za lub pomocnictwo w granicach przewidzianego za sprawstwo.
 
-§ 2. Wymierzając karę za pomocnictwo sąd może zastosować nadzwyczajne złagodzenie kary.
+2. za pomocnictwo nadzwyczajne kary.
 
-**Art. 20.** Każdy ze współdziałających w popełnieniu czynu zabronionego odpowiada w granicach swojej umyślności lub nieumyślności niezależnie od odpowiedzialności pozostałych współdziałających.
+**Art. 20.** Każdy ze w czynu zabronionego odpowiada w granicach swojej lub od odpo
 
 **Art. 21.**
 
-§ 1. Okoliczności osobiste, wyłączające lub łagodzące albo zaostrzające odpowiedzialność karną, uwzględnia się tylko co do osoby, której dotyczą.
+1. osobiste, lub albo tylko co do osoby, której doty
 
-§ 2. Jeżeli okoliczność osobista dotycząca sprawcy, wpływająca chociażby tylko na wyższą karalność, stanowi znamię czynu zabronionego, współdziałający podlega odpowiedzialności karnej przewidzianej za ten czyn zabroniony, gdy o tej okoliczności wiedział, chociażby go nie dotyczyła.
+2. nadzwyczajne nie kary w stosunku do który do browolnie zapobiec dokonaniu czynu zabro nionego.
 
-§ 3. Wobec współdziałającego, którego nie dotyczy okoliczność określona w § 2, sąd może zastosować nadzwyczajne złagodzenie kary.
-
-**Art. 22.**
-
-§ 1. Jeżeli czynu zabronionego tylko usiłowano dokonać, podmiot określony w art. 18 § 2 i 3 odpowiada jak za usiłowanie.
-
-§ 2. Jeżeli czynu zabronionego nie usiłowano dokonać, sąd może zastosować nadzwyczajne złagodzenie kary, a nawet odstąpić od jej wymierzenia.
-
-**Art. 23.**
-
-§ 1. Nie podlega karze współdziałający, który dobrowolnie zapobiegł dokonaniu czynu zabronionego.
-
-§ 2. Sąd może zastosować nadzwyczajne złagodzenie kary w stosunku do współdziałającego, który dobrowolnie starał się zapobiec dokonaniu czynu zabronionego.
-
-**Art. 24.** Odpowiada jak za podżeganie, kto w celu skierowania przeciwko innej osobie postępowania karnego nakłania ją do popełnienia czynu zabronionego; w tym wypadku nie stosuje się art. 22 i 23.
-
-#### Rozdział III Wyłączenie odpowiedzialności karnej
+**Art. 24.** Odpowiada jak za kto w celu skierowania przeciwko innej osobie kar nego do czynu zabronionego; w tym wypadku nie stosuje art. 22 i 23. III karnej
 
 **Art. 25.**
 
-§ 1. Nie popełnia przestępstwa, kto w obronie koniecznej odpiera bezpośredni, bezprawny zamach na jakiekolwiek dobro chronione prawem.
+1. Nie kto w obro nie koniecznej odpiera bezprawny za mach na jakiekolwiek dobro chronione prawem.
 
-§ 2. W razie przekroczenia granic obrony koniecznej, w szczególności gdy sprawca zastosował sposób obrony niewspółmierny do niebezpieczeństwa zamachu, sąd może zastosować nadzwyczajne złagodzenie kary, a nawet odstąpić od jej wymierzenia.
+2. W razie przekroczenia granic obrony koniecz nej, w gdy sprawca sposób obrony do zama chu, nadzwyczajne kary, a nawet od jej wymierzenia.
 
-§ 2a. Nie podlega karze, kto przekracza granice obrony koniecznej, odpierając zamach polegający na wdarciu się do mieszkania, lokalu, domu albo na przylegający do nich ogrodzony teren lub odpierając zamach poprzedzony wdarciem się do tych miejsc, chyba że przekroczenie granic obrony koniecznej było rażące.
-
-§ 3. Nie podlega karze, kto przekracza granice obrony koniecznej pod wpływem strachu lub wzburzenia usprawiedliwionych okolicznościami zamachu.
-
-§ 4. (uchylony) § 5. (uchylony)
+3. od wymierzenia kary, prze kroczenie granic obrony koniecznej wynikiem strachu lub wzburzenia usprawiedliwionych okoliczno zamachu.
 
 **Art. 26.**
 
-§ 1. Nie popełnia przestępstwa, kto działa w celu uchylenia bezpośredniego niebezpieczeństwa grożącego jakiemukolwiek dobru chronionemu prawem, jeżeli niebezpieczeństwa nie można inaczej uniknąć, a dobro poświęcone przedstawia wartość niższą od dobra ratowanego.
+1. Nie kto w celu uchylenia jakiemukolwiek dobru chronionemu pra wem, nie inaczej unik a dobro przedstawia od dobra ratowanego.
 
-§ 2. Nie popełnia przestępstwa także ten, kto, ratując dobro chronione prawem w warunkach określonych w § 1, poświęca dobro, które nie przedstawia wartości oczywiście wyższej od dobra ratowanego.
+2. Nie ten, kto, ratu dobro chronione prawem w warunkach nych w 1, dobro, które nie przedstawia war od dobra ratowanego.
 
-§ 3. W razie przekroczenia granic stanu wyższej konieczności, sąd może zastosować nadzwyczajne złagodzenie kary, a nawet odstąpić od jej wymierzenia.
+3. W razie przekroczenia granic stanu ko nadzwyczajne dzenie kary, a nawet od jej wymierzenia.
 
-§ 4. Przepisu § 2 nie stosuje się, jeżeli sprawca poświęca dobro, które ma szczególny obowiązek chronić nawet z narażeniem się na niebezpieczeństwo osobiste.
+4. Przepisu 2 nie stosuje sprawca po dobro, które ma szczególny nawet z na osobi ste.
 
-§ 5. Przepisy § 1–3 stosuje się odpowiednio w wypadku, gdy z ciążących na sprawcy obowiązków tylko jeden może być spełniony.
+2. osobista sprawcy, tylko na sta nowi czynu zabronionego, podlega karnej przewidzianej za ten czyn zabroniony, gdy o tej cho go nie
+
+5. Przepisy 1-3 stosuje odpowiednio w wy
+
+3. Wobec którego nie dotyczy padku, gdy z na sprawcy tylko w 2, jeden nadzwyczajne kary.
+
+**Art. 22.**
+
+§ 1. czynu zabronionego tylko wano podmiot wart. 18 2 i 3 od powiada jak za 2. czynu zabronionego nie doko nadzwyczajne kary, a nawet od jej wymierzenia.
+
+**Art. 23.**
+
+1. Nie podlega karze któ ry dobrowolnie dokonaniu czynu zabronio nego.
 
 **Art. 27.**
 
-§ 1. Nie popełnia przestępstwa, kto działa w celu przeprowadzenia eksperymentu poznawczego, medycznego, technicznego lub ekonomicznego, jeżeli spodziewana korzyść ma istotne znaczenie poznawcze, medyczne lub gospodarcze, a oczekiwanie jej osiągnięcia, celowość oraz sposób przeprowadzenia eksperymentu są zasadne w świetle aktualnego stanu wiedzy.
+1. Nie kto w celu przeprowadzenia eksperymentu poznawczego, medycznego, technicznego lub ekonomicznego, spodziewana ma istotne znaczenie poznawcze, medyczne lub gospodarcze, a oczekiwanie jej oraz sposób przeprowadzenia eks perymentu zasadne w aktualnego stanu wie dzy.
 
-§ 2. Eksperyment jest niedopuszczalny bez zgody uczestnika, na którym jest przeprowadzany, należycie poinformowanego o spodziewanych korzyściach i grożących mu ujemnych skutkach oraz prawdopodobieństwie ich powstania, jak również o możliwości odstąpienia od udziału w eksperymencie na każdym jego etapie.
+2. Eksperyment jest niedopuszczalny bez zgody uczestnika, na którym jest przeprowadzany, poinformowanego o spodziewanych i gromu ujemnych skutkach oraz stwie ich powstania, jak o nia od w eksperymencie na jego etapie.
 
-§ 3. Zasady i warunki dopuszczalności eksperymentu medycznego określa ustawa.
+3. Zasady i warunki ekspery mentu medycznego ustawa.
 
 **Art. 28.**
 
-§ 1. Nie popełnia przestępstwa, kto pozostaje w usprawiedliwionym błędzie co do okoliczności stanowiącej znamię czynu zabronionego.
+§ 1. Nie czynu zabronio nego, kto pozostaje w co do stano jego 2. Odpowiada na podstawie przepisu cego sprawca, który dopuszcza czynu w usprawiedliwionym przekonaniu, zachodzi zna czynu zabronionego, od której taka
 
-§ 2. Odpowiada na podstawie przepisu przewidującego łagodniejszą odpowiedzialność sprawca, który dopuszcza się czynu w usprawiedliwionym błędnym przekonaniu, że zachodzi okoliczność stanowiąca znamię czynu zabronionego, od której taka łagodniejsza odpowiedzialność zależy.
+**Art. 29.** Nie kto dopuszcza czynu zabronionego w usprawiedliwionym nym przekonaniu, zachodzi albo sprawcy jest nie usprawiedliwiony, nadzwyczaj ne kary.
 
-**Art. 29.** Nie popełnia przestępstwa, kto dopuszcza się czynu zabronionego w usprawiedliwionym błędnym przekonaniu, że zachodzi okoliczność wyłączająca bezprawność albo winę; jeżeli błąd sprawcy jest nieusprawiedliwiony, sąd może zastosować nadzwyczajne złagodzenie kary.
-
-**Art. 30.** Nie popełnia przestępstwa, kto dopuszcza się czynu zabronionego w usprawiedliwionej nieświadomości jego bezprawności; jeżeli błąd sprawcy jest nieusprawiedliwiony, sąd może zastosować nadzwyczajne złagodzenie kary.
+**Art. 30.** Nie kto dopuszcza czynu zabronionego w usprawiedliwionej jego sprawcy jest nieusprawiedliwiony, nadzwy czajne kary.
 
 **Art. 31.**
 
-§ 1. Nie popełnia przestępstwa, kto, z powodu choroby psychicznej, upośledzenia umysłowego lub innego zakłócenia czynności psychicznych, nie mógł w czasie czynu rozpoznać jego znaczenia lub pokierować swoim postępowaniem.
+§ 1. Nie kto, z powo du choroby psychicznej, lub innego psychicznych, nie w czasie czynu jego znaczenia lub po swoim 2. w czasie zdol rozpoznania znaczenia czynu lub kierowania po w znacznym stopniu ograniczona, nadzwyczajne kary. 3. Przepisów 1 i 2 nie stosuje gdy sprawca w stan lub odurzenia powo lub ograniczenie któ re albo IV Kary
 
-§ 2. Jeżeli w czasie popełnienia przestępstwa zdolność rozpoznania znaczenia czynu lub kierowania postępowaniem była w znacznym stopniu ograniczona, sąd może zastosować nadzwyczajne złagodzenie kary.
-
-§ 3. Przepisów § 1 i 2 nie stosuje się, gdy sprawca wprawił się w stan nietrzeźwości lub odurzenia powodujący wyłączenie lub ograniczenie poczytalności, które przewidywał albo mógł przewidzieć.
-
-#### Rozdział IV Kary
-
-**Art. 32.** Karami są:
+**Art. 32.** Karami
 
 **Art. 33.**
 
-§ 1. Grzywnę wymierza się w stawkach dziennych, określając liczbę stawek oraz wysokość jednej stawki; jeżeli ustawa nie stanowi inaczej, najniższa liczba stawek wynosi 10, zaś najwyższa 540.
-
-§ 1a. Jeżeli ustawa nie stanowi inaczej, a przestępstwo jest zagrożone zarówno grzywną, jak i karą pozbawienia wolności, grzywnę wymierza się w wysokości nie niższej od:
-
-- **1)** 50 stawek – w przypadku czynu zagrożonego karą pozbawienia wolności nieprzekraczającą roku;
-- **2)** 100 stawek – w przypadku czynu zagrożonego karą pozbawienia wolności nieprzekraczającą 2 lat;
-- **3)** 150 stawek – w przypadku czynu zagrożonego karą pozbawienia wolności przekraczającą 2 lata.
-
-§ 2. Sąd może wymierzyć grzywnę także obok kary pozbawienia wolności wymienionej w art. 32 pkt 3, jeżeli sprawca dopuścił się czynu w celu osiągnięcia korzyści majątkowej lub gdy korzyść majątkową osiągnął.
-
-§ 2a. Przepis § 1a stosuje się również do grzywny wymierzanej obok kary pozbawienia wolności.
-
-§ 3. Ustalając stawkę dzienną, sąd bierze pod uwagę dochody sprawcy, jego warunki osobiste, rodzinne, stosunki majątkowe i możliwości zarobkowe; stawka dzienna nie może być niższa od 10 złotych, ani też przekraczać 2000 złotych.
+§ 1. wymierza w stawkach dziennych, stawek oraz jed nej stawki; ustawa nie stanowi inaczej, naj liczba stawek wynosi 10, 360. 2. obok kary pozbawienia wymienionej wart. 32 pkt 3, jesprawca czynu w celu ko lub gdy 3. bierze pod uwa dochody sprawcy, jego warunki osobiste, rodzinne, stosunki i zarobkowe; stawka dzienna nie od 10 ani prze 2 000
 
 **Art. 34.**
 
-§ 1. Jeżeli ustawa nie stanowi inaczej, kara ograniczenia wolności trwa najkrócej miesiąc, najdłużej 2 lata; wymierza się ją w miesiącach i latach.
+§ 1. ustawa nie stanowi inaczej, kara ograniczenia trwa najkrócej 12 wymierza w 2. W czasie odbywania kary ograniczenia wolno skazany:
 
-§ 1a. Kara ograniczenia wolności polega na:
-
-- **1)** obowiązku wykonywania nieodpłatnej, kontrolowanej pracy na cele społeczne;
-- **2)** (uchylony)
-- **3)** (uchylony)
-- **4)** potrąceniu od 10 % do 25 % wynagrodzenia za pracę w stosunku miesięcznym na cel społeczny wskazany przez sąd. § 1aa. Jeżeli ustawa nie stanowi inaczej, a przestępstwo jest zagrożone zarówno karą ograniczenia wolności, jak i karą pozbawienia wolności, karę ograniczenia wolności wymierza się w wysokości nie niższej od:
-- **1)** 2 miesięcy – w przypadku czynu zagrożonego karą pozbawienia wolności nieprzekraczającą roku;
-- **2)** 3 miesięcy – w przypadku czynu zagrożonego karą pozbawienia wolności nieprzekraczającą 2 lat;
-- **3)** 4 miesięcy – w przypadku czynu zagrożonego karą pozbawienia wolności przekraczającą 2 lata.
-
-§ 1b. Obowiązki i potrącenie, o których mowa w § 1a, orzeka się łącznie lub osobno.
-
-§ 2. W czasie odbywania kary ograniczenia wolności skazany:
-
-- **1)** nie może bez zgody sądu zmieniać miejsca stałego pobytu;
-- **2)** (uchylony)
-- **3)** ma obowiązek udzielania wyjaśnień dotyczących przebiegu odbywania kary.
-
-§ 3. Wymierzając karę ograniczenia wolności, sąd może orzec świadczenie pieniężne wymienione w art. 39 pkt 7 lub obowiązki, o których mowa w art. 72 § 1 pkt 2–7a.
+- **1)** nie bez zgody miejsca pobytu,
+- **2)** jest do wykonywania pracy wskazanej przez
+- **3)** ma przebiegu odbywania kary.
 
 **Art. 35.**
 
-§ 1. Nieodpłatna, kontrolowana praca na cele społeczne jest wykonywana w wymiarze od 20 do 40 godzin w stosunku miesięcznym.
-
-§ 2. Potrącenie wynagrodzenia za pracę może być orzeczone wobec osoby zatrudnionej; w okresie, na jaki zostało orzeczone potrącenie, skazany nie może rozwiązać bez zgody sądu stosunku pracy.
-
-§ 3. (uchylony) § 4. Do orzekania świadczenia pieniężnego wymienionego w art. 39 pkt 7 oraz obowiązków, o których mowa w art. 72 § 1 pkt 2–7a, przepis art. 74 stosuje się odpowiednio.
+§ 1. wart. 34 2 pkt 2 polega na wykonywaniu kontrolowanej pracy na cele wskazanej przez wodpo wiednim pracy, placówce zdrowia, opieki organizacji lub instytucji pomoc lub na rzecz lokal nej, w wymiarze od 20 do 40 godzin w stosunku mie 2. W stosunku do osoby zatrudnionej za miast w 1, orzec cenie od 10 do 25% wynagrodzenia za na rzecz Skarbu albo na cel wskazany przez w okresie odbywania kary skazany nie roz bez zgody stosunku pracy. 3. Miejsce, czas, rodzaj lub sposób wykonywania pracy, o którym mowa w 1, po skazanego.
 
 **Art. 36.**
 
-§ 1. (uchylony) § 2. (uchylony) § 3. (uchylony)
+§ 1. ograniczenia wolno skazanego pod dozór kuratora lub osoby godnej zaufania, stowarzyszenia, instytucji albo organizacji do której troska o wychowanie, zapobieganie demoralizacji lub pomoc skazanym. 2. ograniczenia orzec wobec skazanego wymienione wart. 72 1 pkt 2, 3 lub 5 oraz 2. 3. Przepis art. 74 stosuje odpowiednio.
 
-**Art. 37.** Kara pozbawienia wolności wymieniona w art. 32 pkt 3 trwa najkrócej miesiąc, najdłużej 30 lat; wymierza się ją w miesiącach i latach.
-
-**Art. 37a.**
-
-§ 1. Jeżeli przestępstwo jest zagrożone tylko karą pozbawienia wolności nieprzekraczającą 8 lat, a wymierzona za nie kara pozbawienia wolności nie byłaby surowsza od roku, sąd może zamiast tej kary orzec karę ograniczenia wolności nie niższą od 4 miesięcy albo grzywnę nie niższą od 150 stawek dziennych, w szczególności jeżeli równocześnie orzeka środek karny, środek kompensacyjny lub przepadek.
-
-§ 2. Przepisu § 1 nie stosuje się do sprawców określonych w art. 64 § 1 lub do sprawców, którzy popełniają przestępstwo działając w zorganizowanej grupie albo związku mających na celu popełnienie przestępstwa lub przestępstwa skarbowego, sprawców przestępstw o charakterze terrorystycznym i sprawców przestępstwa określonego w art. 178a § 4.
-
-**Art. 37b.** W sprawie o występek zagrożony karą pozbawienia wolności, niezależnie od dolnej granicy ustawowego zagrożenia przewidzianego w ustawie za dany czyn, sąd może orzec jednocześnie karę pozbawienia wolności w wymiarze nieprzekraczającym 3 miesięcy, a jeżeli górna granica ustawowego zagrożenia wynosi przynajmniej 10 lat – 6 miesięcy, oraz karę ograniczenia wolności do lat 2. Przepisów art. 69–75 nie stosuje się. W pierwszej kolejności wykonuje się wówczas karę pozbawienia wolności, chyba że ustawa stanowi inaczej.
+**Art. 37.** Kara pozbawienia wymieniona wart. 32 pkt 3 trwa najkrócej 15 lat; wymierza w i latach.
 
 **Art. 38.**
 
-§ 1. Jeżeli ustawa przewiduje obniżenie albo nadzwyczajne obostrzenie górnej granicy ustawowego zagrożenia, a ustawowe zagrożenie obejmuje więcej niż jedną z kar wymienionych w art. 32 pkt 1–3, obniżenie albo obostrzenie odnosi się do każdej z tych kar.
-
-§ 2. Kara nadzwyczajnie obostrzona nie może przekroczyć 810 stawek dziennych grzywny, 2 lat ograniczenia wolności lub 30 lat pozbawienia wolności.
-
-§ 3. Jeżeli ustawa przewiduje obniżenie górnej granicy ustawowego zagrożenia, kara wymierzona za przestępstwo zagrożone karą dożywotniego pozbawienia wolności nie może przekroczyć 30 lat pozbawienia wolności.
-
-#### Rozdział V Środki karne
+§ 1. ustawa przewiduje al bo nadzwyczajne obostrzenie górnej granicy ustawo wego w wypadku alternatywnego nia karami wymienionymi wart. 32 pkt 1-3 albo obostrzenie odnosi do z tych kar. 2. Kara nadzwyczajnie obostrzona nie prze 540 stawek dziennych grzywny, 18 ograniczenia albo 15 lat pozbawienia wolno 3. ustawa przewiduje górnej gra nicy ustawowego kara wymierzona za pozbawie nia nie 25 lat pozbawienia a za 25 lat po zbawienia nie 151at pozba wienia V Środki karne
 
 **Art. 39.** Środkami karnymi są:
 
 **Art. 40.**
 
-§ 1. Pozbawienie praw publicznych obejmuje utratę czynnego i biernego prawa wyborczego do organu władzy publicznej, organu samorządu zawodowego lub gospodarczego, utratę prawa do udziału w sprawowaniu wymiaru sprawiedliwości oraz do pełnienia funkcji w organach i instytucjach państwowych i samorządu terytorialnego lub zawodowego, jak również utratę posiadanego stopnia wojskowego i powrót do stopnia szeregowego; pozbawienie praw publicznych obejmuje ponadto utratę orderów, odznaczeń i tytułów honorowych oraz utratę zdolności do ich uzyskania w okresie trwania pozbawienia praw.
-
-§ 2. Sąd może orzec pozbawienie praw publicznych w razie skazania:
-
-- **1)** na karę pozbawienia wolności na czas nie krótszy od lat 3 za przestępstwo popełnione w wyniku motywacji zasługującej na szczególne potępienie;
-- **2)** za przestępstwa określone w art. 228 § 1 i 3–6, art. 229 § 1 i 3–5, art. 230 § 1, art. 230a § 1, art. 250a § 1 i 2, art. 271 § 3, art. 296a § 1, 2 i 4, art. 305 § 1–4 oraz art. 306b.
-
-§ 3. Sąd orzeka pozbawienie praw publicznych w razie skazania za przestępstwa określone w art. 130 § 1–5 lub 7–9.
+§ 1. Pozbawienie praw publicznych obej muje czynnego i biernego prawa wyborczego do organu publicznej, organu za wodowego lub gospodarczego, prawa do udzia w sprawowaniu wymiaru oraz do funkcji w organach i instytucjach wych i terytorialnego lub zawodowego, jak posiadanego stopnia wojskowego i po wrót do stopnia szeregowego; pozbawienie praw pu blicznych obejmuje ponadto orderów, odzna i honorowych oraz do ich uzyskania w okresie trwania pozbawienia praw. 2. orzec pozbawienie praw publicznych w razie skazania na pozbawienia na czas nie krótszy od lat 3 za w wy niku motywacji na szczególne
 
 **Art. 41.**
 
-§ 1. Sąd może orzec zakaz zajmowania określonego stanowiska albo wykonywania określonego zawodu, jeżeli sprawca nadużył przy popełnieniu przestępstwa stanowiska lub wykonywanego zawodu albo okazał, że dalsze zajmowanie stanowiska lub wykonywanie zawodu zagraża istotnym dobrom chronionym prawem.
-
-§ 1a. Sąd orzeka zakaz zajmowania wszelkich lub określonych stanowisk, wykonywania wszelkich lub określonych zawodów albo działalności, związanych z wychowaniem, edukacją, leczeniem małoletnich lub z opieką nad nimi na czas określony albo dożywotnio w razie skazania:
-
-- **1)** na karę pozbawienia wolności za umyślne przestępstwo przeciwko życiu lub zdrowiu na szkodę małoletniego;
-- **2)** za przestępstwo przeciwko wolności seksualnej lub obyczajności na szkodę małoletniego. § 1aa. Sąd orzeka zakaz:
-- **1)** zajmowania wszelkich lub określonych stanowisk lub
-- **2)** wykonywania wszelkich lub określonych zawodów, lub
-- **3)** wykonywania wszelkiej lub określonej pracy na podstawie stosunku pracy, umowy agencyjnej, umowy zlecenia lub innej umowy o świadczenie usług, do której zgodnie z Kodeksem cywilnym stosuje się przepisy dotyczące zlecenia, lub umowy o dzieło – w organach i instytucjach państwowych i samorządu terytorialnego, a także w spółkach prawa handlowego, w których Skarb Państwa lub jednostka samorządu terytorialnego posiadają bezpośrednio lub pośrednio przez inne podmioty co najmniej 10 % akcji lub udziałów, w razie skazania osoby pełniącej funkcję publiczną za przestępstwa określone w art. 228 § 1 i 3–6, art. 230 § 1, art. 230a § 1, art. 250a § 1 i 2, art. 271 § 3, art. 296a § 1, 2 i 4, art. 305 § 1–4 oraz art. 306b. § 1ab. W razie skazania innej osoby za przestępstwa określone w art. 229 § 1 i 3–5, art. 230 § 1, art. 230a § 1, art. 250a § 1 i 2, art. 271 § 3, art. 296a § 1, 2 i 4, art. 305 § 1–4 oraz art. 306b sąd może orzec zakaz, o którym mowa w § 1aa.
-
-§ 1b. Sąd orzeka dożywotnio zakaz, o którym mowa w § 1a i 1aa, w razie ponownego skazania sprawcy w warunkach określonych w tych przepisach.
-
-§ 2. Sąd może orzec zakaz prowadzenia określonej działalności gospodarczej w razie skazania za przestępstwo popełnione w związku z prowadzeniem takiej działalności, jeżeli dalsze jej prowadzenie zagraża istotnym dobrom chronionym prawem.
-
-**Art. 41a.**
-
-§ 1. Sąd może orzec zakaz przebywania w określonych środowiskach lub miejscach, kontaktowania się z określonymi osobami, zbliżania się do określonych osób lub opuszczania określonego miejsca pobytu bez zgody sądu, jak również nakaz okresowego opuszczenia lokalu zajmowanego wspólnie z pokrzywdzonym, w razie skazania za przestępstwo przeciwko wolności seksualnej lub obyczajności na szkodę małoletniego lub inne przestępstwo przeciwko wolności oraz w razie skazania za umyślne przestępstwo z użyciem przemocy, w tym zwłaszcza przemocy wobec osoby najbliższej. Zakaz lub nakaz może być połączony z obowiązkiem zgłaszania się do Policji lub innego wyznaczonego organu w określonych odstępach czasu, a zakaz zbliżania się do określonych osób – również kontrolowany w systemie dozoru elektronicznego.
-
-§ 1a. Sąd na wniosek pokrzywdzonego orzeka zakaz przebywania w określonych środowiskach lub miejscach, kontaktowania się z określonymi osobami, zbliżania się do określonych osób lub opuszczania określonego miejsca pobytu bez zgody sądu, jak również nakaz okresowego opuszczenia lokalu zajmowanego wspólnie z pokrzywdzonym, w razie skazania za przestępstwo przeciwko wolności seksualnej lub obyczajności. Zakaz lub nakaz może być połączony z obowiązkiem zgłaszania się do Policji lub innego wyznaczonego organu w określonych odstępach czasu, a zakaz zbliżania się do pokrzywdzonego – również kontrolowany w systemie dozoru elektronicznego.
-
-§ 2. Sąd orzeka zakaz przebywania w określonych środowiskach lub miejscach, kontaktowania się z określonymi osobami, zbliżania się do określonych osób lub opuszczania określonego miejsca pobytu bez zgody sądu, jak również nakaz okresowego opuszczenia lokalu zajmowanego wspólnie z pokrzywdzonym, w razie skazania na karę pozbawienia wolności bez warunkowego zawieszenia jej wykonania za przestępstwo przeciwko wolności seksualnej lub obyczajności. Zakaz lub nakaz może być połączony z obowiązkiem zgłaszania się do Policji lub innego wyznaczonego organu w określonych odstępach czasu, a zakaz zbliżania się do określonych osób – również kontrolowany w systemie dozoru elektronicznego.
-
-§ 3. Sąd może orzec zakaz przebywania w określonych środowiskach lub miejscach, kontaktowania się z określonymi osobami, zbliżania się do określonych osób lub opuszczania określonego miejsca pobytu bez zgody sądu dożywotnio w razie ponownego skazania sprawcy w warunkach określonych w § 2.
-
-§ 3a. W razie orzeczenia nakazu okresowego opuszczenia lokalu zajmowanego wspólnie z pokrzywdzonym za przestępstwa określone w rozdziałach XXV i XXVI sąd orzeka na ten sam okres zakaz zbliżania się do pokrzywdzonego.
-
-§ 4. Orzekając zakaz zbliżania się do określonych osób, sąd wskazuje odległość od osób chronionych, którą skazany obowiązany jest zachować.
-
-§ 5. Orzekając nakaz okresowego opuszczenia lokalu zajmowanego wspólnie z pokrzywdzonym, sąd określa termin jego wykonania.
-
-§ 6. Zakaz kontaktowania się z określoną osobą obejmuje wszelkie czynności związane z próbą nawiązania kontaktu z osobą chronioną, w tym podejmowane przez skazanego za pośrednictwem innej osoby lub z wykorzystaniem sieci teleinformatycznej.
-
-**Art. 41b.**
-
-§ 1. Sąd może orzec zakaz wstępu na imprezę masową, jeżeli przestępstwo zostało popełnione w związku z taką imprezą lub w razie skazania za występek o charakterze chuligańskim, a udział sprawcy w imprezach masowych zagraża dobrom chronionym prawem. Sąd orzeka zakaz wstępu na imprezę masową w wypadkach wskazanych w ustawie.
-
-§ 2. Zakaz wstępu na imprezę masową obejmuje wszelkie imprezy masowe na terytorium Rzeczypospolitej Polskiej oraz mecze piłki nożnej rozgrywane przez polską kadrę narodową lub polski klub sportowy poza terytorium Rzeczypospolitej Polskiej.
-
-§ 3. Orzekając zakaz wstępu na imprezę masową za czyn popełniony w związku z masową imprezą sportową, sąd może orzec obowiązek przebywania skazanego w czasie trwania niektórych imprez masowych objętych zakazem w miejscu stałego pobytu lub w innym wyznaczonym miejscu, z zastosowaniem systemu dozoru elektronicznego.
-
-§ 4. Sąd orzeka zakaz wstępu na imprezę masową i obowiązek określony w § 3, w razie ponownego skazania sprawcy za przestępstwo popełnione w związku z imprezą masową.
-
-§ 5. W szczególnie uzasadnionych wypadkach sąd może orzec, że po upływie okresu, na który orzeczono obowiązek określony w § 3, skazany będzie obowiązany do stawiennictwa w czasie trwania niektórych imprez masowych objętych zakazem w jednostce organizacyjnej Policji lub w miejscu określonym przez właściwego, ze względu na miejsce zamieszkania skazanego, komendanta powiatowego, rejonowego lub miejskiego Policji.
-
-§ 6. Łączny czas stosowania wobec skazanego obowiązków, określonych w § 3 i 5, nie może przekroczyć okresu orzeczonego wobec skazanego zakazu wstępu na imprezę masową.
-
-§ 7. Jeżeli z okoliczności wynika, że wykonanie obowiązku określonego w § 3 jest niemożliwe lub jego orzeczenie jest oczywiście niecelowe, w miejsce tego obowiązku orzeka się obowiązek stawiennictwa skazanego w czasie trwania niektórych imprez masowych objętych zakazem w jednostce organizacyjnej Policji lub w miejscu określonym przez właściwego, ze względu na miejsce zamieszkania skazanego, komendanta powiatowego, rejonowego lub miejskiego Policji.
-
-§ 8. Nakładając obowiązek, o którym mowa w § 3, 5 lub 7, sąd określa imprezy masowe, w czasie trwania których obowiązek ten ma być wykonywany, wskazując w szczególności nazwy dyscyplin sportowych, nazwy klubów sportowych oraz zakres terytorialny imprez, których obowiązek dotyczy.
-
-§ 9. Obowiązki orzekane na podstawie § 3, 5 i 7 orzeka się w miesiącach i latach. Obowiązek, o którym mowa w § 3, orzeka się na okres nie krótszy niż 6 miesięcy i nie dłuższy niż 12 miesięcy, zaś obowiązek, o którym mowa w § 7, orzeka się na okres od 6 miesięcy do lat 6, nieprzekraczający okresu, na jaki orzeczono zakaz wstępu na imprezę masową.
-
-**Art. 41c.**
-
-§ 1. Zakaz wstępu do ośrodków gier i uczestnictwa w grach hazardowych nie obejmuje uczestnictwa w loteriach promocyjnych.
-
-§ 2. Sąd może orzec zakaz wstępu do ośrodków gier i uczestnictwa w grach hazardowych, w razie skazania za przestępstwo popełnione w związku z urządzaniem gier hazardowych lub udziałem w nich.
+§ 1. orzec zakaz zajmowania okre stanowiska albo wykonywania za wodu, sprawca przy stwa stanowiska lub wykonywanego zawodu albo oka dalsze zajmowanie stanowiska lub wykonywanie zawodu istotnym dobrom chronionym prawem. 2. orzec zakaz prowadzenia gospodarczej w razie skazania za stwo w z prowadzeniem takiej dalsze jej prowadzenie istot nym dobrom chronionym prawem.
 
 **Art. 42.**
 
-§ 1. Sąd może orzec zakaz prowadzenia pojazdów określonego rodzaju w razie skazania osoby uczestniczącej w ruchu za przestępstwo przeciwko bezpieczeństwu w komunikacji, w szczególności jeżeli z okoliczności popełnionego przestępstwa wynika, że prowadzenie pojazdu przez tę osobę zagraża bezpieczeństwu w komunikacji.
-
-§ 1a. Sąd orzeka zakaz prowadzenia wszelkich pojazdów mechanicznych w razie skazania za przestępstwo określone w art. 177 § 2a, art. 178b, art. 178c § 1 pkt 2, art. 178d lub art. 180a.
-
-§ 2. Sąd orzeka, na okres nie krótszy niż 3 lata, zakaz prowadzenia wszelkich pojazdów albo pojazdów określonego rodzaju, jeżeli sprawca w czasie popełnienia przestępstwa wymienionego w § 1 był w stanie nietrzeźwości, pod wpływem środka odurzającego lub zbiegł z miejsca zdarzenia określonego w art. 173, art. 174 lub art. 177 lub po takim zdarzeniu, a przed poddaniem go przez uprawniony organ badaniu w celu ustalenia zawartości alkoholu lub środka odurzającego w organizmie, spożywał alkohol lub zażywał środek odurzający.
-
-§ 3. Sąd orzeka zakaz prowadzenia wszelkich pojazdów mechanicznych dożywotnio w razie popełnienia przestępstwa określonego w art. 178a § 4 lub art. 244, jeżeli czyn sprawcy polegał na niezastosowaniu się do zakazu prowadzenia pojazdów mechanicznych lub jeżeli sprawca w czasie popełnienia przestępstwa określonego w art. 173, którego następstwem jest śmierć innej osoby lub ciężki uszczerbek na jej zdrowiu, albo w czasie popełnienia przestępstwa określonego w art. 177 § 2 lub 2a lub art. 355 § 2 był w stanie nietrzeźwości lub pod wpływem środka odurzającego lub zbiegł z miejsca zdarzenia, lub po takim zdarzeniu, a przed poddaniem go przez uprawniony organ badaniu w celu ustalenia zawartości alkoholu lub środka odurzającego w organizmie, spożywał alkohol lub zażywał środek odurzający, chyba że zachodzi wyjątkowy wypadek, uzasadniony szczególnymi okolicznościami.
-
-§ 4. Sąd orzeka zakaz prowadzenia wszelkich pojazdów mechanicznych dożywotnio w razie ponownego skazania osoby prowadzącej pojazd mechaniczny w warunkach określonych w § 3.
+§ 1. orzec zakaz prowadzenia po jazdów rodzaju w razie skazania osoby w ruchu za przeciwko bez w komunikacji, w z wynika, prowadzenie pojazdu przez bezpie w komunikacji. 2. orzeka zakaz prowadzenia wszelkich pojaz dów mechanicznych albo pojazdów mechanicznych rodzaju, sprawca w czasie nia wymienionego w 1 w stanie nie pod lub z miejsca zdarzenia wart. 173, 174 lub 177.
 
 **Art. 43.**
 
-§ 1. Jeżeli ustawa nie stanowi inaczej, pozbawienie praw publicznych oraz zakaz i nakaz wymienione w art. 39 pkt 2d i 2e orzeka się w latach, od roku do lat 10, zakazy wymienione w art. 39 pkt 2–2b i 3 orzeka się w latach, od roku do lat 15, a zakaz wymieniony w art. 39 pkt 2c orzeka się w latach, od lat 2 do 6.
-
-§ 1a. Obowiązek, o którym mowa w art. 41a § 1 zdanie drugie i § 2 zdanie drugie, orzeka się w miesiącach, najkrócej na 3 miesiące, najdłużej na 12 miesięcy.
-
-§ 2. Pozbawienie praw publicznych, zakazy i nakaz obowiązują od uprawomocnienia się orzeczenia.
-
-§ 2a. Okres, na który orzeczono zakazy, nie biegnie w czasie odbywania kary pozbawienia wolności, chociażby orzeczonej za inne przestępstwo.
-
-§ 2b. Okres, na który orzeczono pozbawienie praw publicznych za dane przestępstwo, nie biegnie w czasie odbywania kary pozbawienia wolności za to przestępstwo.
-
-§ 3. (uchylony)
-
-**Art. 43a.**
-
-§ 1. Odstępując od wymierzenia kary, a także w wypadkach wskazanych w ustawie, sąd może orzec świadczenie pieniężne wymienione w art. 39 pkt 7 na rzecz Funduszu Pomocy Pokrzywdzonym oraz Pomocy Postpenitencjarnej; wysokość tego świadczenia nie może przekroczyć 60 000 złotych.
-
-§ 2. W razie skazania sprawcy za przestępstwo określone w art. 164 § 1, art. 165 § 1, art. 165a § 1 lub 2, art. 171 § 1, 2 lub 3, art. 174 § 1, art. 177 § 2a, art. 178a § 1, art. 178b, art. 178c § 1, art. 178d, art. 179, art. 180, art. 200a § 1 lub 2, art. 200b, art. 202 § 4b lub 4c, art. 244, art. 255a § 1 lub 2, art. 258 § 1, art. 263 § 2 sąd orzeka świadczenie pieniężne wymienione w art. 39 pkt 7 na rzecz Funduszu Pomocy Pokrzywdzonym oraz Pomocy Postpenitencjarnej w wysokości co najmniej 5000 złotych, do wysokości określonej w § 1.
-
-§ 3. W razie skazania sprawcy za przestępstwo określone w art. 178a § 4, art. 202 § 3, 4 lub 4a, art. 244, jeżeli czyn sprawcy polegał na niezastosowaniu się do zakazu prowadzenia pojazdów mechanicznych, art. 258 § 2, 3 lub 4, art. 263 § 1 sąd orzeka świadczenie pieniężne wymienione w art. 39 pkt 7 na rzecz Funduszu Pomocy Pokrzywdzonym oraz Pomocy Postpenitencjarnej w wysokości co najmniej 10 000 złotych, do wysokości określonej w § 1.
-
-§ 4. W razie skazania za udział w bójce lub pobiciu, o których mowa w art. 158 lub w art. 159, sąd orzeka, a jeżeli jednocześnie orzeka obowiązek lub nawiązkę na podstawie art. 46 § 1 lub 2 – może orzec, świadczenie pieniężne wymienione w art. 39 pkt 7 na rzecz Funduszu Pomocy Pokrzywdzonym oraz Pomocy Postpenitencjarnej w wysokości co najmniej 5000 złotych.
-
-**Art. 43b.** Sąd może orzec podanie wyroku do publicznej wiadomości w określony sposób, jeżeli uzna to za celowe, w szczególności ze względu na społeczne oddziaływanie skazania, o ile nie narusza to interesu pokrzywdzonego. Art. 43ba. § 1. Degradacja obejmuje utratę posiadanego stopnia wojskowego i powrót do stopnia szeregowego.
-
-**Art. 43c.** Sąd, uznając za celowe orzeczenie pozbawienia lub ograniczenia praw rodzicielskich lub opiekuńczych w razie popełnienia przestępstwa na szkodę małoletniego lub we współdziałaniu z nim, zawiadamia o tym właściwy sąd rodzinny.
-
-#### Rozdział Va Przepadek i środki kompensacyjne
+§ 1. ustawa nie stanowi inaczej, po zbawienie praw publicznych oraz zakazy wymienione wart. 39 pkt 2 lub 3 orzeka w latach, od roku do lat 10. 2. Pozbawienie praw publicznych lub zakaz obo od uprawomocnienia orzeczenia; okres, na który orzeczono, nie biegnie w czasie odbywa nia kary pozbawienia orzeczonej za inne 3. zakaz wart. 42, da zwrotu dokumentu do prowadzenia pojazdu; do chwili wykonania okres, na który orzeczono zakaz, nie biegnie.
 
 **Art. 44.**
 
-§ 1. Sąd orzeka przepadek przedmiotów pochodzących bezpośrednio z przestępstwa.
+§ 1. orzeka przepadek przedmiotów po z chyba zwrotowi pokrzywdzonemu lub innemu podmiotowi. 2. orzec przepadek przedmiotów stano mienie ruchome, które lub prze znaczone do chyba pod zwrotowi innemu podmiotowi. 3. Przepadku w 2 nie stosuje je jego orzeczenie do wagi czynu; wówczas orzec na rzecz Skarbu 4. W razie spowodowanej przez orzeczenia przepadku przedmio tów wymienionych w 1 lub 2, orzec obo uiszczenia kwoty ich 5. W razie skazania za na naruszeniu zakazu wytwarzania, posiadania, obrotu lub przewozu przedmiotów, orzec ich przepadek. 6. przedmioty wymienione w 2 lub 5 nie sprawcy, przepadek orzec tylko w wypadkach przewidzianych w ustawie; w razie orzeka przepadek cego do sprawcy albo uiszczenia kwoty pie sprawcy. 7. Przedmioty przepadkiem na Skarbu z uprawomocnienia wyroku.
 
-§ 2. Sąd może orzec, a w wypadkach wskazanych w ustawie orzeka, przepadek przedmiotów, które służyły lub były przeznaczone do popełnienia przestępstwa.
-
-§ 3. Jeżeli orzeczenie przepadku określonego w § 2 byłoby niewspółmierne do wagi popełnionego czynu, sąd zamiast przepadku może orzec nawiązkę na rzecz Skarbu Państwa.
-
-§ 4. Jeżeli orzeczenie przepadku określonego w § 1 lub 2 nie jest możliwe, sąd może orzec przepadek równowartości przedmiotów pochodzących bezpośrednio z przestępstwa lub przedmiotów, które służyły lub były przeznaczone do popełnienia przestępstwa.
-
-§ 5. Przepadku przedmiotów określonych w § 1 lub 2 nie orzeka się, jeżeli podlegają one zwrotowi pokrzywdzonemu lub innemu uprawnionemu podmiotowi.
-
-§ 6. W razie skazania za przestępstwo polegające na naruszeniu zakazu wytwarzania, posiadania, obrotu, przesyłania, przenoszenia lub przewozu określonych przedmiotów, sąd może orzec, a w wypadkach przewidzianych w ustawie orzeka, ich przepadek.
-
-§ 7. Jeżeli przedmioty wymienione w § 2 lub 6 nie stanowią własności sprawcy, ich przepadek można orzec tylko w wypadkach przewidzianych w ustawie; w razie współwłasności orzeka się przepadek udziału należącego do sprawcy lub przepadek równowartości tego udziału.
-
-§ 8. (uchylony)
-
-**Art. 44a.**
-
-§ 1. W razie skazania za przestępstwo, z którego popełnienia sprawca osiągnął, chociażby pośrednio, korzyść majątkową znacznej wartości, sąd może orzec przepadek przedsiębiorstwa stanowiącego własność sprawcy albo jego równowartości, jeżeli przedsiębiorstwo służyło do popełnienia tego przestępstwa lub ukrycia osiągniętej z niego korzyści.
-
-§ 2. W razie skazania za przestępstwo, z którego popełnienia sprawca osiągnął, chociażby pośrednio, korzyść majątkową znacznej wartości, sąd może orzec przepadek niestanowiącego własności sprawcy przedsiębiorstwa osoby fizycznej albo jego równowartości, jeżeli przedsiębiorstwo służyło do popełnienia tego przestępstwa lub ukrycia osiągniętej z niego korzyści, a jego właściciel chciał, aby przedsiębiorstwo służyło do popełnienia tego przestępstwa lub ukrycia osiągniętej z niego korzyści albo, przewidując taką możliwość, na to się godził.
-
-§ 3. W razie współwłasności przepadek, o którym mowa w § 1 i 2, orzeka się z uwzględnieniem woli i świadomości każdego ze współwłaścicieli i w ich granicach.
-
-§ 4. Przepadku, o którym mowa w § 1 i 2, nie orzeka się, jeżeli byłoby to niewspółmierne do wagi popełnionego przestępstwa, stopnia zawinienia oskarżonego lub motywacji i sposobu zachowania się właściciela przedsiębiorstwa.
-
-§ 5. Przepadku, o którym mowa w § 1 i 2, nie orzeka się, jeżeli szkoda wyrządzona przestępstwem lub wartość ukrytej korzyści nie jest znaczna wobec rozmiaru działalności przedsiębiorstwa.
-
-§ 6. Sąd może odstąpić od orzeczenia przepadku, o którym mowa w § 2, także w innych, szczególnie uzasadnionych przypadkach, kiedy byłby on niewspółmiernie dolegliwy dla właściciela przedsiębiorstwa.
-
-**Art. 44b.**
-
-§ 1. W razie skazania sprawcy za przestępstwo określone w art. 178a § 1 lub 4, art. 178c § 1 pkt 2, art. 178d lub art. 244, jeżeli czyn sprawcy polegał na niezastosowaniu się do zakazu prowadzenia pojazdów mechanicznych, a także wobec sprawcy określonego w art. 178 § 1 lub 1a sąd może orzec przepadek pojazdu mechanicznego prowadzonego przez sprawcę w ruchu lądowym, wodnym lub powietrznym.
-
-§ 1a. W razie skazania sprawcy za przestępstwo określone w art. 178a § 1 lub 4, art. 178c § 1 pkt 2 lub art. 178d, a także wobec sprawcy określonego w art. 178 § 1 lub 1a, jeśli zawartość alkoholu w organizmie sprawcy przestępstwa wynosiła co najmniej 1,5 promila we krwi lub 0,75 mg/dm3 w wydychanym powietrzu albo prowadziła do takiego stężenia, sąd orzeka przepadek pojazdu mechanicznego prowadzonego przez sprawcę w ruchu lądowym, wodnym lub powietrznym, chyba że zachodzi wyjątkowy wypadek, uzasadniony szczególnymi okolicznościami.
-
-§ 2. (uchylony) § 3. (uchylony) § 4. (uchylony) § 5. Przepadku pojazdu mechanicznego nie orzeka się, jeżeli:
-
-- **1)** w czasie popełnienia przestępstwa pojazd mechaniczny nie stanowił wyłącznej własności sprawcy;
-- **2)** orzeczenie przepadku pojazdu mechanicznego nie jest możliwe lub celowe, w szczególności z uwagi na jego zbycie albo utratę przez sprawcę, zniszczenie lub znaczne uszkodzenie.
-
-§ 6. W wypadku, o którym mowa w § 5 pkt 1, sąd orzeka, a w wypadku, o którym mowa w § 5 pkt 2 – może orzec nawiązkę na rzecz Skarbu Państwa w wysokości od 5000 do 500 000 złotych.
-
-**Art. 45.**
-
-§ 1. Jeżeli sprawca osiągnął z popełnienia przestępstwa, chociażby pośrednio, korzyść majątkową niepodlegającą przepadkowi przedmiotów wymienionych w art. 44 § 1 lub 6, sąd orzeka przepadek takiej korzyści albo jej równowartości. Przepadku nie orzeka się w całości lub w części, jeżeli korzyść lub jej równowartość podlega zwrotowi pokrzywdzonemu lub innemu podmiotowi.
-
-§ 1a. Za korzyść majątkową osiągniętą z popełnienia przestępstwa uważa się także pożytki z rzeczy lub praw stanowiących tę korzyść.
-
-§ 2. W razie skazania za przestępstwo, z którego popełnienia została osiągnięta, chociażby pośrednio, korzyść majątkowa znacznej wartości, albo przestępstwo, z którego została lub mogła zostać osiągnięta, chociażby pośrednio, korzyść majątkowa, zagrożone karą pozbawienia wolności, której górna granica jest nie niższa niż 5 lat, lub popełnione w zorganizowanej grupie albo związku mających na celu popełnienie przestępstwa za korzyść uzyskaną z popełnienia przestępstwa uważa się mienie, które sprawca objął we władanie lub do którego uzyskał jakikolwiek tytuł w okresie 5 lat przed popełnieniem przestępstwa do chwili wydania chociażby nieprawomocnego wyroku, chyba że sprawca lub inna zainteresowana osoba przedstawi dowód przeciwny.
-
-§ 3. Jeżeli mienie stanowiące korzyść uzyskaną z popełnienia przestępstwa, o którym mowa w § 2, zostało przeniesione na osobę fizyczną, prawną lub jednostkę organizacyjną niemającą osobowości prawnej, faktycznie lub pod jakimkolwiek tytułem prawnym, uważa się, że rzeczy będące w samoistnym posiadaniu tej osoby lub jednostki oraz przysługujące jej prawa majątkowe należą do sprawcy, chyba że na podstawie okoliczności towarzyszących ich nabyciu nie można było przypuszczać, że mienie to, chociażby pośrednio, pochodziło z czynu zabronionego.
-
-§ 4. (uchylony) § 5. W razie współwłasności orzeka się przepadek udziału należącego do sprawcy lub przepadek równowartości tego udziału.
-
-§ 6. (uchylony)
-
-**Art. 45a.**
-
-§ 1. Sąd może orzec przepadek, jeżeli społeczna szkodliwość czynu jest znikoma, a także w razie warunkowego umorzenia postępowania lub stwierdzenia, że sprawca dopuścił się czynu zabronionego w stanie niepoczytalności, o której mowa w art. 31 § 1, albo jeżeli zachodzi okoliczność wyłączająca ukaranie sprawcy czynu zabronionego.
-
-§ 2. Jeżeli zebrane dowody wskazują, że w razie skazania zostałby orzeczony przepadek, sąd może go orzec także w razie śmierci sprawcy, umorzenia postępowania z powodu jego niewykrycia, a także w przypadku zawieszenia postępowania w sprawie, w której nie można ująć oskarżonego albo oskarżony nie może brać udziału w postępowaniu z powodu choroby psychicznej lub innej ciężkiej choroby.
+**Art. 45.** W razie skazania sprawcy, o którym mowa wart. 65, orzec przepadek ko nio z
 
 **Art. 46.**
 
-§ 1. W razie skazania sąd może orzec, a na wniosek pokrzywdzonego lub innej osoby uprawnionej orzeka, stosując przepisy prawa cywilnego, obowiązek naprawienia, w całości albo w części, wyrządzonej przestępstwem szkody lub zadośćuczynienia za doznaną krzywdę; przepisów prawa cywilnego o możliwości zasądzenia renty nie stosuje się.
+1. W razie skazania za spo wodowania uszczerbku na zdrowiu, naruszenia lub rozstroju zdro wia, przeciwko w komu nikacji lub przeciwko mie niu lub obrotowi gospodarczemu, na wniosek po krzywdzonego lub innej osoby uprawnionej, orzeka naprawienia szkody w albo w przepisów prawa cywilnego o przedaw nieniu roszczenia oraz renty nie stosuje
 
-§ 2. Jeżeli orzeczenie obowiązku określonego w § 1 jest znacznie utrudnione, sąd może orzec zamiast tego obowiązku nawiązkę w wysokości do 200 000 złotych na rzecz pokrzywdzonego, a w razie jego śmierci w wyniku popełnionego przez skazanego przestępstwa nawiązkę na rzecz osoby najbliższej, której sytuacja życiowa wskutek śmierci pokrzywdzonego uległa znacznemu pogorszeniu. W razie gdy ustalono więcej niż jedną taką osobę, nawiązki orzeka się na rzecz każdej z nich.
-
-§ 3. Orzeczenie odszkodowania lub zadośćuczynienia na podstawie § 1 albo nawiązki na podstawie § 2 nie stoi na przeszkodzie dochodzeniu niezaspokojonej części roszczenia w drodze postępowania cywilnego.
+2. Zamiast w 1 mo orzec na rzecz pokrzywdzonego w celu za za uszczerbek na zdrowiu, naru szenie rozstrój zdrowia, a tak za
 
 **Art. 47.**
 
-§ 1. W razie skazania sprawcy za umyślne przestępstwo przeciwko życiu lub zdrowiu albo za inne przestępstwo umyślne, którego skutkiem jest śmierć człowieka, ciężki uszczerbek na zdrowiu, naruszenie czynności narządu ciała lub rozstrój zdrowia, sąd może orzec nawiązkę na rzecz Funduszu Pomocy Pokrzywdzonym oraz Pomocy Postpenitencjarnej.
+1. W razie skazania za stwo przeciwko lub zdrowiu albo za inne prze którego skutkiem jest wieka, uszczerbek na zdrowiu, naruszenie czyn lub rozstrój zdrowia, orzec na wskazany cel z zdrowia.
 
-§ 2. W razie skazania sprawcy za umyślne przestępstwo przeciwko środowisku sąd orzeka, a w wypadku skazania sprawcy za nieumyślne przestępstwo przeciwko środowisku sąd może orzec, nawiązkę w wysokości od 10 000 do 10 000 000 złotych na rzecz Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej, o którym mowa w art. 400 ust. 1 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2024 r. poz. 54, z późn. zm. ).
+2. W razie skazania za przeciwko orzec na wskazany cel z
 
-§ 2a. W przypadkach, o których mowa w art. 44a § 4–6, sąd może orzec nawiązkę w wysokości do 1 000 000 złotych na rzecz pokrzywdzonego lub Funduszu Pomocy Pokrzywdzonym oraz Pomocy Postpenitencjarnej.
+**Art. 48.**
 
-§ 3. W razie skazania sprawcy za przestępstwo określone w art. 173, art. 174, art. 177 lub w art. 355, jeżeli sprawca był w stanie nietrzeźwości lub pod wpływem środka odurzającego lub zbiegł z miejsca zdarzenia, sąd orzeka nawiązkę na rzecz pokrzywdzonego, a w razie jego śmierci w wyniku popełnionego przez skazanego przestępstwa nawiązkę na rzecz osoby najbliższej, której sytuacja życiowa wskutek śmierci pokrzywdzonego uległa znacznemu pogorszeniu. W razie gdy ustalono więcej niż jedną taką osobę, nawiązki orzeka się na rzecz każdej z nich. Jeśli ustalenie takiej osoby nie jest możliwe, sąd orzeka nawiązkę na rzecz Funduszu Pomocy Pokrzywdzonym oraz Pomocy Postpenitencjarnej. Sąd orzeka nawiązkę w wysokości co najmniej 10 000 złotych.
+1. jednej nie nego wynagrodzenia w czasie orzekania w pierwszej instancji.
 
-§ 4. W szczególnie uzasadnionych okolicznościach, gdy wymierzona nawiązka powodowałaby dla sprawcy uszczerbek dla niezbędnego utrzymania siebie i rodziny lub gdy pokrzywdzony pojednał się ze sprawcą, sąd może ją wymierzyć w wysokości niższej niż wysokość wskazana w § 2 i 3.
+2. wart. 47 2 orzeczona w od trzykrotnego do dwudzie stokrotnego wynagrodzenia w czasie orze kania w pierwszej instancji.
 
-§ 5. Przepisu § 3 nie stosuje się, jeżeli sąd orzekł obowiązek naprawienia wyrządzonej przestępstwem szkody lub zadośćuczynienia za doznaną krzywdę w wysokości wyższej niż 10 000 złotych.
+**Art. 49.** Odstępując od wymierzenia kary, a w wypadkach przewidzianych w ustawie, orzec wymienione wart. 39 pkt 7 na cel nie ono wynagrodze nia w czasie orzekania w pierwszej instancji.
 
-**Art. 47a.** (uchylony)
+**Art. 50.** Sąd orzec w wypadkach przewidzia nych w ustawie podanie wyroku do publicznej wiado w sposób przez siebie
 
-**Art. 48.** Nawiązkę orzeka się w wysokości do 100 000 złotych, chyba że ustawa stanowi inaczej.
+**Art. 51.** Sąd, za celowe orzeczenie pozba wienia lub ograniczenia praw rodzicielskich lub opie w razie na lub we z nim, zawiada mia o tym rodzinny.
 
-**Art. 49.** (uchylony)
-
-**Art. 49a.** (uchylony)
-
-**Art. 50.** (uchylony)
-
-**Art. 51.** (uchylony)
-
-**Art. 52.** (uchylony)
-
-#### Rozdział VI Zasady wymiaru kary i środków karnych
+**Art. 52.** W wypadku skazania za przy osobie fizycznej, prawnej lub jednostce organizacyjnej nie prawnej, a przez w jej imieniu lub interesie, podmiot, który do jej zwrotu w lub w na rzecz Skarbu nie dotyczy to zwrotowi innemu podmiotowi. VI Zasady wymiaru kary I karnych
 
 **Art. 53.**
 
-§ 1. Sąd wymierza karę według swojego uznania, w granicach przewidzianych w ustawie, uwzględniając stopień społecznej szkodliwości czynu, okoliczności obciążające i okoliczności łagodzące, cele kary w zakresie społecznego oddziaływania, a także cele zapobiegawcze, które ma ona osiągnąć w stosunku do skazanego. Dolegliwość kary nie może przekraczać stopnia winy.
+1. wymierza swojego uznania, w granicach przewidzianych przez ba by jej nie stopnia winy, czynu oraz pod cele zapobiegawcze i wycho wawcze, które ma w stosunku do skazanego, a potrzeby w zakresie prawnej
 
-§ 2. Wymierzając karę, sąd uwzględnia w szczególności motywację i sposób zachowania się sprawcy, zwłaszcza w razie popełnienia przestępstwa na szkodę osoby nieporadnej ze względu na wiek lub stan zdrowia, popełnienie przestępstwa wspólnie z nieletnim, rodzaj i stopień naruszenia ciążących na sprawcy obowiązków, rodzaj i rozmiar ujemnych następstw przestępstwa, właściwości i warunki osobiste sprawcy, sposób życia przed popełnieniem przestępstwa i zachowanie się po jego popełnieniu, a zwłaszcza staranie o naprawienie szkody lub zadośćuczynienie w innej formie społecznemu poczuciu sprawiedliwości, a także zachowanie się pokrzywdzonego.
+2. w szczegól i sposób zachowania sprawcy, po wspólnie z nieletnim, rodzaj i naruszenia na sprawcy ków, rodzaj i rozmiar ujemnych stwa, i warunki osobiste sprawcy, sposób przed i zachowanie po jego a staranie o napra wienie szkody lub w innej formie poczuciu a zacho wanie pokrzywdzonego.
 
-§ 2a. Okoliczności obciążające stanowią w szczególności:
-
-- **1)** uprzednia karalność za przestępstwo umyślne lub podobne przestępstwo nieumyślne;
-- **2)** wykorzystanie bezradności, niepełnosprawności, choroby lub podeszłego wieku pokrzywdzonego;
-- **3)** sposób działania prowadzący do poniżenia lub udręczenia pokrzywdzonego;
-- **4)** popełnienie przestępstwa z premedytacją;
-- **5)** popełnienie przestępstwa w wyniku motywacji zasługującej na szczególne potępienie;
-- **6)** popełnienie przestępstwa motywowanego nienawiścią z powodu przynależności narodowej, etnicznej, rasowej, politycznej lub wyznaniowej ofiary albo z powodu jej bezwyznaniowości;
-- **7)** działanie ze szczególnym okrucieństwem;
-- **8)** popełnienie przestępstwa w stanie po spożyciu alkoholu lub środka odurzającego, jeżeli ten stan był czynnikiem prowadzącym do popełnienia przestępstwa lub istotnego zwiększenia jego skutków;
-- **9)** popełnienie przestępstwa we współdziałaniu z nieletnim lub z wykorzystaniem jego udziału.
-
-§ 2b. Okoliczności łagodzące stanowią w szczególności:
-
-- **1)** popełnienie przestępstwa w wyniku motywacji zasługującej na uwzględnienie;
-- **2)** popełnienie przestępstwa pod wpływem gniewu, strachu lub wzburzenia, usprawiedliwionych okolicznościami zdarzenia;
-- **3)** popełnienie przestępstwa w reakcji na nagłą sytuację, której prawidłowa ocena była istotnie utrudniona z uwagi na okoliczności osobiste, zakres wiedzy lub doświadczenia życiowego sprawcy;
-- **4)** podjęcie działań zmierzających do zapobieżenia szkodzie lub krzywdzie, wynikającej z przestępstwa, albo do ograniczenia jej rozmiaru;
-- **5)** pojednanie się z pokrzywdzonym;
-- **6)** naprawienie szkody wyrządzonej przestępstwem lub zadośćuczynienie za krzywdę wynikłą z przestępstwa;
-- **7)** popełnienie przestępstwa ze znacznym przyczynieniem się pokrzywdzonego;
-- **8)** dobrowolne ujawnienie popełnionego przez siebie przestępstwa organowi powołanemu do ścigania przestępstw.
-
-§ 2c. Nie stanowi okoliczności, o której mowa w § 2a i 2b, okoliczność będąca znamieniem przestępstwa, które popełnił sprawca, chyba że wystąpiła ona ze szczególnie wysokim nasileniem.
-
-§ 2d. Nie stanowi okoliczności, o której mowa w § 2a, okoliczność niebędąca znamieniem przestępstwa, jeżeli stanowi podstawę zaostrzenia odpowiedzialności karnej zastosowanego wobec sprawcy.
-
-§ 2e. Nie stanowi okoliczności, o której mowa w § 2b, okoliczność niebędąca znamieniem przestępstwa, jeżeli stanowi podstawę złagodzenia odpowiedzialności karnej zastosowanego wobec sprawcy.
-
-§ 3. Wymierzając karę sąd bierze także pod uwagę pozytywne wyniki przeprowadzonej mediacji pomiędzy pokrzywdzonym a sprawcą albo ugodę pomiędzy nimi osiągniętą w postępowaniu przed sądem lub prokuratorem.
+3. bierze pod po zytywne wyniki przeprowadzonej mediacji po krzywdzonym a albo nimi w przed lub prokuratorem.
 
 **Art. 54.**
 
-§ 1. Wymierzając karę nieletniemu albo młodocianemu, sąd kieruje się przede wszystkim tym, aby sprawcę wychować.
+§ 1. nieletniemu albo kieruje przede wszystkim tym, aby 2. Wobec sprawcy, który w czasie nie 18 lat, nie orzeka kary pozbawienia
 
-§ 2. Wobec sprawcy, który w czasie popełnienia przestępstwa nie ukończył 18 lat, nie orzeka się kary dożywotniego pozbawienia wolności.
+**Art. 55.** Okoliczności na wymiar kary tylko co do osoby, której
 
-**Art. 55.** Okoliczności wpływające na wymiar kary uwzględnia się tylko co do osoby, której dotyczą.
-
-**Art. 56.** Przepisy art. 53, art. 54 § 1 oraz art. 55 stosuje się odpowiednio do orzekania innych środków przewidzianych w tym kodeksie, z wyjątkiem obowiązku naprawienia wyrządzonej przestępstwem szkody lub zadośćuczynienia za doznaną krzywdę.
+**Art. 56.** Przepisy art. 53, art. 54 1 oraz art. 55 sto suje odpowiednio do orzekania innych przewidzianych w tym kodeksie.
 
 **Art. 57.**
 
-§ 1. Jeżeli zachodzi kilka niezależnych od siebie podstaw do nadzwyczajnego złagodzenia albo obostrzenia kary, sąd może tylko jeden raz karę nadzwyczajnie złagodzić albo obostrzyć, uwzględniając przy określaniu wymiaru kary łącznie zbiegające się podstawy łagodzenia albo obostrzenia.
+1. zachodzi kilka od siebie podstaw do nadzwyczajnego albo obostrzenia kary, tylko jeden raz nad zwyczajnie albo pod uwa podstawy albo ob ostrzenia.
 
-§ 2. Jeżeli zbiegają się podstawy nadzwyczajnego złagodzenia i obostrzenia, sąd stosuje nadzwyczajne złagodzenie kary albo obostrzenie kary albo wymierza karę w granicach ustawowego zagrożenia.
-
-§ 3. W wypadkach, o których mowa w § 1 i 2, jeżeli zbiegają się podstawy nadzwyczajnego złagodzenia lub obostrzenia kary o charakterze obligatoryjnym i fakultatywnym, sąd stosuje podstawę o charakterze obligatoryjnym.
-
-§ 4. Przepisy § 1–3 w zakresie, w jakim odnoszą się do podstawy nadzwyczajnego złagodzenia, stosuje się odpowiednio do podstawy odstąpienia od wymierzenia kary.
-
-§ 5. Jeżeli zbiegają się podstawy nadzwyczajnego obostrzenia o charakterze obligatoryjnym oraz podstawy nadzwyczajnego złagodzenia określone w art. 60 § 3 sąd stosuje nadzwyczajne złagodzenie kary.
-
-§ 6. Jeżeli zbiegają się podstawy nadzwyczajnego obostrzenia o charakterze obligatoryjnym oraz podstawy nadzwyczajnego złagodzenia określone w art. 60 § 4 sąd może zastosować nadzwyczajne złagodzenie kary.
-
-§ 7. Jeżeli zbiegają się podstawy:
-
-- **1)** nadzwyczajnego złagodzenia oraz odstąpienia od wymierzenia kary o charakterze obligatoryjnym albo zbiegają się podstawy nadzwyczajnego złagodzenia o charakterze fakultatywnym oraz odstąpienia od wymierzenia kary o charakterze obligatoryjnym – sąd odstępuje od wymierzenia kary;
-- **2)** nadzwyczajnego złagodzenia o charakterze obligatoryjnym oraz odstąpienia od wymierzenia kary o charakterze fakultatywnym – sąd stosuje nadzwyczajne złagodzenie kary albo odstępuje od jej wymierzenia;
-- **3)** nadzwyczajnego złagodzenia kary oraz odstąpienia od wymierzenia kary o charakterze fakultatywnym – sąd stosuje nadzwyczajne złagodzenie kary albo odstępuje od jej wymierzenia albo wymierza karę w granicach ustawowego zagrożenia.
-
-**Art. 57a.**
-
-§ 1. Skazując za występek o charakterze chuligańskim, sąd wymierza karę przewidzianą za przypisane sprawcy przestępstwo w wysokości nie niższej od dolnej granicy ustawowego zagrożenia zwiększonego o połowę.
-
-§ 2. W wypadku określonym w § 1 sąd orzeka nawiązkę na rzecz pokrzywdzonego, chyba że orzeka obowiązek naprawienia szkody, obowiązek zadośćuczynienia za doznaną krzywdę lub nawiązkę na podstawie art. 46. Jeżeli pokrzywdzony nie został ustalony, sąd może orzec nawiązkę na rzecz Funduszu Pomocy Pokrzywdzonym oraz Pomocy Postpenitencjarnej.
-
-**Art. 57b.** Skazując za przestępstwo z zastosowaniem art. 12 § 1, sąd wymierza karę przewidzianą za przypisane sprawcy przestępstwo powyżej dolnej granicy ustawowego zagrożenia, a w wypadku grzywny lub kary ograniczenia wolności nie niższą od podwójnej dolnej granicy ustawowego zagrożenia – do podwójnej wysokości górnej granicy ustawowego zagrożenia.
+2. pOdstawy nadzwyczajnego i obostrzenia, nad zwyczajne albo obostrzenie kary.
 
 **Art. 58.**
 
-§ 1. Jeżeli ustawa przewiduje możliwość wyboru rodzaju kary, a przestępstwo jest zagrożone karą pozbawienia wolności nieprzekraczającą 5 lat, sąd orzeka karę pozbawienia wolności tylko wtedy, gdy inna kara lub środek karny nie może spełnić celów kary.
+1. ustawa przewiduje wyboru rodzaju kary, orzeka pozbawienia wolbez warunkowego zawieszenia jej wykonania tyl ko wtedy, gdy inna kara lub karny nie celów kary.
 
-§ 2. (uchylony) § 2a. Kary ograniczenia wolności w postaci obowiązku, o którym mowa w art. 34 § 1a pkt 1, nie orzeka się, jeżeli stan zdrowia oskarżonego lub jego właściwości i warunki osobiste uzasadniają przekonanie, że oskarżony nie wykona tego obowiązku.
+2. Grzywny nie orzeka dochody spraw cy, jego stosunki lub zarobkowe przekonanie, sprawca grzywny nie i nie jej w drodze egzekucji.
 
-§ 3. (uchylony) § 4. (uchylony)
+3. jest pozba wienia nie 5 lat, orzec zamiast kary pozbawienia al bo ograniczenia w orzeka karny.
 
-**Art. 59.** Jeżeli przestępstwo jest zagrożone karą pozbawienia wolności nieprzekraczającą 3 lat albo karą łagodniejszego rodzaju i społeczna szkodliwość czynu nie jest znaczna, sąd może odstąpić od wymierzenia kary, jeżeli orzeka jednocześnie środek karny, przepadek lub środek kompensacyjny, a cele kary zostaną w ten sposób spełnione.
+4. Przepisu 3 nie stosuje do sprawcy ku który uprzednio skazany na po zbawienia na czas nie krótszy 6 bez warunkowego zawieszenia jej wykonania.
 
-**Art. 59a.** (uchylony)
+**Art. 59.** Jeżeli jest po zbawienia nie 3 lat albo alter natywnie karami wymienionymi wart. 32 pkt 1-3 i czynu nie jest znaczna, od wymierzenia kary, orzeka rów karny, a cele kary przez ten
 
 **Art. 60.**
 
-§ 1. Sąd może zastosować nadzwyczajne złagodzenie kary w wypadkach przewidzianych w ustawie oraz w stosunku do młodocianego, jeżeli przemawiają za tym względy określone w art. 54 § 1.
+1. nadzwyczajne kary w wypadkach przewidzianych w usta wie oraz w stosunku do przema za tym wart. 54 1.
 
-§ 2. Sąd może również zastosować nadzwyczajne złagodzenie kary w szczególnie uzasadnionych wypadkach, kiedy nawet najniższa kara przewidziana za przestępstwo byłaby niewspółmiernie surowa, w szczególności:
+2. nadzwyczajne kary w szczególnie uzasadnionych wypad kach, kiedy nawet kara przewidziana za prze surowa, w szczegól
 
-- **1)** jeżeli pokrzywdzony pojednał się ze sprawcą, szkoda została naprawiona albo pokrzywdzony i sprawca uzgodnili sposób naprawienia szkody,
-- **2)** ze względu na postawę sprawcy, zwłaszcza gdy czynił starania o naprawienie szkody lub o jej zapobieżenie,
-- **3)** jeżeli sprawca przestępstwa nieumyślnego lub jego najbliższy poniósł poważny uszczerbek w związku z popełnionym przestępstwem.
+- **1)** pokrzywdzony ze szko da naprawiona albo pokrzywdzony i spraw ca uzgodnili sposób naprawienia szkody,
+- **2)** ze na sprawcy, gdy starania o naprawienie szkody lub o jej zapo
+- **3)** sprawca lub je go uszczerbek w ku z
 
-§ 3. Na wniosek prokuratora sąd stosuje nadzwyczajne złagodzenie kary, a nawet może warunkowo zawiesić jej wykonanie w stosunku do sprawcy współdziałającego z innymi osobami w popełnieniu przestępstwa, jeżeli ujawni on wobec organu powołanego do ścigania przestępstw informacje dotyczące osób uczestniczących w popełnieniu przestępstwa oraz istotne okoliczności jego popełnienia.
+3. stosuje nadzwyczajne kary, a nawet warunkowo jej wykonanie w stosunku do sprawcy z innymi osobami w ujawni on wobec organu do informacje osób w nieniu oraz istotne jego po
 
-§ 4. Na wniosek prokuratora sąd może zastosować nadzwyczajne złagodzenie kary, a nawet warunkowo zawiesić jej wykonanie w stosunku do sprawcy przestępstwa, który, niezależnie od wyjaśnień złożonych w swojej sprawie, ujawnił przed organem ścigania i przedstawił istotne okoliczności, nieznane dotychczas temu organowi, przestępstwa zagrożonego karą powyżej 5 lat pozbawienia wolności.
+4. Na wniosek prokuratora nadzwyczajne kary, a nawet warunkowo jej wykonanie w stosunku do sprawcy prze który, od w swojej sprawie, przed organem i istotne nieznane dotychczas temu organowi, powy 6 lat pozbawienia
 
-§ 5. W wypadkach określonych w § 3 i 4 sąd, wymierzając karę pozbawienia wolności do lat 5, może warunkowo zawiesić jej wykonanie na okres próby wynoszący do 10 lat, jeżeli uzna, że pomimo niewykonania kary sprawca nie popełni ponownie przestępstwa; przepisu art. 69 § 1 nie stosuje się, a przepisy art. 71–76 stosuje się odpowiednio.
+6. W wypadkach w 3 i 4 wymie pozbawienia do lat 5 warun kowo jej wykonanie na okres próby cy do 10 lat, uzna, pomimo niewykonania ka ry sprawca nie ponownie prze pisy art. 71- 76 stosuje odpowiednio.
 
-§ 6. Nadzwyczajne złagodzenie kary polega na wymierzeniu kary poniżej dolnej granicy ustawowego zagrożenia, kary łagodniejszego rodzaju albo na odstąpieniu od wymierzenia kary i orzeczeniu środka karnego, środka kompensacyjnego lub przepadku według następujących zasad:
+6. Nadzwyczajne kary polega na wy mierzeniu kary dolnej granicy ustawowego za albo kary rodzaju na zasad:
 
-- **1)** (uchylony)
-- **2)** jeżeli czyn stanowi zbrodnię, sąd wymierza karę pozbawienia wolności nie niższą od jednej trzeciej dolnej granicy ustawowego zagrożenia,
-- **3)** jeżeli czyn stanowi występek, przy czym dolną granicą ustawowego zagrożenia jest kara pozbawienia wolności nie niższa od roku, sąd wymierza grzywnę, karę ograniczenia wolności albo pozbawienia wolności,
-- **4)** jeżeli czyn stanowi występek, przy czym dolną granicą ustawowego zagrożenia jest kara pozbawienia wolności niższa od roku, a górną – kara pozbawienia wolności nie niższa od lat 3, sąd wymierza grzywnę albo karę ograniczenia wolności,
-- **5)** jeżeli czyn stanowi występek, przy czym górną granicą ustawowego zagrożenia jest kara pozbawienia wolności nieprzekraczająca 2 lat, sąd odstępuje od wymierzenia kary i orzeka środek karny wymieniony w art. 39 pkt 2–3, 7 lub 8, środek kompensacyjny lub przepadek; przepisu art. 61 § 2 nie stosuje się.
+- **1)** czyn stanowi wymierza po zbawienia nie od jednej trzeciej dolnej granicy ustawowego
+- **2)** czyn stanowi przy czym gra ustawowego jest kara pozbawienia nie od roku, wymierza grzyw ograniczenia albo pozbawienia
+- **3)** czyn stanowi przy czym gra ustawowego jest kara pozbawienia od roku, wymierza al bo ograniczenia
 
-§ 7. Jeżeli czyn jest zagrożony karą pozbawienia wolności oraz karą ograniczenia wolności lub grzywną, stosuje się odpowiednio przepis § 6.
-
-§ 7a. Jeżeli czyn nie jest zagrożony karą pozbawienia wolności, stosuje się odpowiednio przepis § 6 pkt 5.
-
-§ 8. (uchylony)
-
-**Art. 60a.** (uchylony)
+7. czyn jest alternatywnie kara mi wymienionymi wart. 32 pkt 1-3, nadzwyczajne godzenie kary polega na od wymierzenia kary i orzeczeniu karnego wymienionego wart. 39 pkt 2-8; przepisu art. 61 2 nie stosuje
 
 **Art. 61.**
 
-§ 1. Sąd może odstąpić od wymierzenia kary w wypadkach przewidzianych w ustawie oraz w wypadku określonym w art. 60 § 3, zwłaszcza gdy rola sprawcy w popełnieniu przestępstwa była podrzędna, a przekazane informacje przyczyniły się do zapobieżenia popełnieniu innego przestępstwa.
+§ 1. od wymierzenia ka ry w wypadkach przewidzianych w ustawie oraz w wy padku wart. 60 3, gdy rola sprawcy w a przekazane informacje do nia innego 2. od wymierzenia kary, od wymierzenia karnego, cho jego orzeczenie
 
-§ 2. Odstępując od wymierzenia kary, sąd może również odstąpić od wymierzenia środka karnego, nawiązki na rzecz Skarbu Państwa oraz przepadku, chociażby jego orzeczenie było obowiązkowe.
-
-**Art. 62.** Orzekając karę pozbawienia wolności, sąd może określić rodzaj i typ zakładu karnego, w którym skazany ma odbywać karę, a także orzec system terapeutyczny jej wykonania.
+**Art. 62.** Orzekając pozbawienia rodzaj i typ karnego, w którym skazany ma a orzec system tera peutyczny jej wykonania.
 
 **Art. 63.**
 
-§ 1. Na poczet orzeczonej kary zalicza się okres rzeczywistego pozbawienia wolności w sprawie, zaokrąglając w górę do pełnego dnia, przy czym jeden dzień rzeczywistego pozbawienia wolności równa się jednemu dniowi kary pozbawienia wolności, dwóm dniom kary ograniczenia wolności lub dwóm dziennym stawkom grzywny.
+1. Na poczet orzeczonej kary zalicza okres rzeczywistego pozbawienia w sprawie, do dnia, przy czym jeden rzeczywistego pozbawienia równa jedne mu dniowi kary pozbawienia dwóm dniom kary ograniczenia lub dwóm dziennym staw kom grzywny.
 
-§ 2. Zaliczając okres rzeczywistego pozbawienia wolności na poczet orzeczonej grzywny określonej kwotowo, przyjmuje się, że jeden dzień pozbawienia wolności odpowiada kwocie równej dwukrotności stawki dziennej ustalonej zgodnie z art. 33 § 3.
-
-§ 3. Na poczet orzeczonych środków karnych, o których mowa w art. 39 pkt 2– 3, zalicza się okres rzeczywistego stosowania odpowiadających im rodzajowo środków zapobiegawczych.
-
-§ 4. Na poczet orzeczonego środka karnego, o którym mowa w art. 39 pkt 3, zalicza się okres zatrzymania prawa jazdy lub innego odpowiedniego dokumentu.
-
-§ 5. Za dzień w rozumieniu § 1 i 2 przyjmuje się okres 24 godzin liczony od chwili rzeczywistego pozbawienia wolności.
-
-#### Rozdział VII Powrót do przestępstwa
+2. Na poczet orzeczonych karnych, o któ rych mowa wart. 39 pkt 2 i 3, zalicza okres rzeczy wistego stosowania im rodzajowo zapobiegawczych, wymienionych wart. 276 Kodeksu karnego. VII Powrót do
 
 **Art. 64.**
 
-§ 1. Jeżeli sprawca skazany za przestępstwo umyślne na karę pozbawienia wolności popełnia w ciągu 5 lat po odbyciu co najmniej 6 miesięcy kary umyślne przestępstwo podobne do przestępstwa, za które był już skazany, sąd wymierza karę przewidzianą za przypisane przestępstwo w wysokości powyżej dolnej granicy ustawowego zagrożenia, a może ją wymierzyć w wysokości do górnej granicy ustawowego zagrożenia zwiększonego o połowę.
+1. sprawca skazany za na pozbawienia w gu 5 lat po odbyciu co najmniej 6 kary ne podobne do za które skazany, przewidzia za przypisane sprawcy w do górnej granicy ustawowego nego o
 
-§ 2. Jeżeli sprawca uprzednio skazany w warunkach określonych w § 1 lub art. 64a, który odbył łącznie co najmniej rok kary pozbawienia wolności i w ciągu 5 lat po odbyciu w całości lub części ostatniej kary popełnia ponownie umyślne przestępstwo przeciwko życiu lub zdrowiu, przestępstwo zgwałcenia, rozboju, kradzieży z włamaniem lub inne przestępstwo przeciwko mieniu popełnione z użyciem przemocy lub groźbą jej użycia, sąd wymierza karę pozbawienia wolności przewidzianą za przypisane przestępstwo w wysokości od dolnej granicy ustawowego zagrożenia zwiększonego o połowę do górnej granicy ustawowego zagrożenia zwiększonego o połowę.
+2. sprawca uprzednio skazany w warun kach w 1, który co najmniej rok kary pozbawienia i w 5 lat po odby ciu w lub ostatniej kary ponow nie przeciwko lub zdro wiu, rozboju, z lub inne przeciwko mieniu z przemocy lub jej wymierza pozbawienia przewidzia za przypisane w dolnej granicy ustawowego a wy do górnej granicy ustawowego o
 
-§ 3. Przewidziane w § 1 lub 2 podwyższenie górnego ustawowego zagrożenia nie dotyczy zbrodni.
+3. Przewidziane w 1 lub 2 górne go ustawowego nie dotyczy zbrodni.
 
-**Art. 64a.** Jeżeli sprawca w ciągu 5 lat po odbyciu co najmniej 6 miesięcy kary pozbawienia wolności orzeczonej za zbrodnię zabójstwa w związku ze zgwałceniem lub za przestępstwo przeciwko wolności seksualnej zagrożone karą pozbawienia wolności, której górna granica wynosi co najmniej 8 lat, popełnia ponownie taką zbrodnię lub takie przestępstwo, sąd wymierza karę pozbawienia wolności przewidzianą za przypisane przestępstwo w wysokości od dolnej granicy ustawowego zagrożenia zwiększonego o połowę do górnej granicy ustawowego zagrożenia zwiększonego o połowę. Podwyższenie górnego ustawowego zagrożenia nie dotyczy zbrodni.
-
-**Art. 65.**
-
-§ 1. Przepisy dotyczące wymiaru kary, środków karnych oraz środków związanych z poddaniem sprawcy próbie, przewidziane wobec sprawcy określonego w art. 64 § 2, stosuje się także do sprawcy, który z popełnienia przestępstwa uczynił sobie stałe źródło dochodu lub popełnia przestępstwo działając w zorganizowanej grupie albo związku mających na celu popełnienie przestępstwa oraz wobec sprawcy przestępstwa o charakterze terrorystycznym.
-
-§ 2. Do sprawcy przestępstwa z art. 258 mają odpowiednie zastosowanie przepisy dotyczące sprawcy określonego w art. 64 § 2, z wyjątkiem przewidzianego w tym przepisie zaostrzenia kary.
-
-#### Rozdział VIII Środki związane z poddaniem sprawcy próbie
+**Art. 65.** Przepisy wymiaru kary, karnych oraz z poddaniem spraw cy próbie, przewidziane wobec sprawcy wart. 64 2, stosuje do sprawcy, który z po sobie do chodu lub w zorgani zowanej grupie albo na celu nianie VIII z poddaniem sprawcy próbie
 
 **Art. 66.**
 
-§ 1. Sąd może warunkowo umorzyć postępowanie karne, jeżeli wina i społeczna szkodliwość czynu nie są znaczne, okoliczności jego popełnienia nie budzą wątpliwości, a postawa sprawcy niekaranego za przestępstwo umyślne, jego właściwości i warunki osobiste oraz dotychczasowy sposób życia uzasadniają przypuszczenie, że pomimo umorzenia postępowania będzie przestrzegał porządku prawnego, w szczególności nie popełni przestępstwa.
-
-§ 2. Warunkowego umorzenia nie stosuje się do sprawcy przestępstwa zagrożonego karą przekraczającą 5 lat pozbawienia wolności.
+§ 1. warunkowo powanie karne, wina i czy nu nie znaczne, jego nie a postawa sprawcy nie karanego za jego i warunki osobiste oraz dotychczasowy sposób uzasadnia przypuszczenie, pomimo umorzenia nia prawnego, w szcze nie 2. Warunkowego umorzenia nie stosuje do sprawcy 3 lata pozbawienia 3. W wypadku gdy pokrzywdzony ze sprawca lub pokrzywdzony i sprawca uzgodnili sposób naprawienia szkody, wa runkowe umorzenie zastosowane do spraw cy nie 5 lat pozbawienia
 
 **Art. 67.**
 
-§ 1. Warunkowe umorzenie następuje na okres próby, który wynosi od roku do 3 lat i biegnie od uprawomocnienia się orzeczenia.
-
-§ 2. Umarzając warunkowo postępowanie karne, sąd może w okresie próby oddać sprawcę pod dozór kuratora lub osoby godnej zaufania, stowarzyszenia, instytucji albo organizacji społecznej, do której działalności należy troska o wychowanie, zapobieganie demoralizacji lub pomoc skazanym.
-
-§ 3. Umarzając warunkowo postępowanie karne, sąd nakłada na sprawcę obowiązek naprawienia szkody w całości albo w części, a w miarę możliwości również obowiązek zadośćuczynienia za doznaną krzywdę, albo zamiast tych obowiązków orzeka nawiązkę; sąd może nałożyć na sprawcę obowiązki wymienione w art. 72 § 1 pkt 1–3, 5–6b, 7a lub 7b, a ponadto orzec świadczenie pieniężne wymienione w art. 39 pkt 7 lub zakaz prowadzenia pojazdów, wymieniony w art. 39 pkt 3, do lat 2. Przepisy art. 72 § 1a i 1b stosuje się odpowiednio.
-
-§ 4. Przepis art. 74 stosuje się odpowiednio.
+§ 1. Warunkowe umorzenie na okres próby, który wynosi od roku do 2 lat i biegnie od uprawomocnienia orzeczenia. 2. warunkowo karne, w okresie próby pod dozór kuratora lub osoby godnej zaufania, stowarzyszenia, instytucji albo organizacji do której troska o wychowanie, zapobieganie de moralizacji lub pomoc skazanym. 3. warunkowo karne, do naprawienia szkody w ca lub w a na niego wymienione wart. 72 1 pkt 1-3 lub 5, a ponadto orzec wymienione wart. 39 pkt 7 oraz zakaz prowadzenia pojazdów, wymieniony wart. 39 pkt 3, do lat 2. 4. Przepis art. 74 stosuje odpowiednio.
 
 **Art. 68.**
 
-§ 1. Sąd podejmuje postępowanie karne, jeżeli sprawca w okresie próby popełnił przestępstwo umyślne, za które został prawomocnie skazany.
-
-§ 2. Sąd może podjąć postępowanie karne, jeżeli sprawca w okresie próby rażąco narusza porządek prawny, w szczególności gdy popełnił inne niż określone w § 1 przestępstwo, jeżeli uchyla się od dozoru, wykonania nałożonego obowiązku lub orzeczonego środka karnego, środka kompensacyjnego lub przepadku albo nie wykonuje zawartej z pokrzywdzonym ugody.
-
-§ 2a. Sąd podejmuje postępowanie karne, jeżeli okoliczności, o których mowa w § 2, zaistnieją po udzieleniu sprawcy pisemnego upomnienia przez sądowego kuratora zawodowego, chyba że przemawiają przeciwko temu szczególne względy.
-
-§ 3. Sąd może podjąć postępowanie karne, jeżeli sprawca po wydaniu orzeczenia o warunkowym umorzeniu postępowania, lecz przed jego uprawomocnieniem się, rażąco narusza porządek prawny, a w szczególności gdy w tym czasie popełnił przestępstwo.
-
-§ 4. Warunkowo umorzonego postępowania nie można podjąć później niż w ciągu 6 miesięcy od zakończenia okresu próby.
+§ 1. podejmuje karne, je sprawca w okresie próby za które prawomocnie skazany. 2. karne, sprawca w okresie próby narusza prawny, w gdy inne ne w 1 uchyla od dozoru, wy konania lub orzeczonego ka karnego albo nie wykonuje zawartej z pokrzywdzo nym ugody. 3. karne, sprawca po wydaniu orzeczenia o warunkowym umo rzeniu lecz przed jego uprawomocnie niem narusza prawny, a w szcze gdy w tym czasie 4. Warunkowo umorzonego nie w 6 od czenia okresu próby.
 
 **Art. 69.**
 
-§ 1. Sąd może warunkowo zawiesić wykonanie kary pozbawienia wolności orzeczonej w wymiarze nieprzekraczającym roku, jeżeli sprawca w czasie popełnienia przestępstwa nie był skazany na karę pozbawienia wolności i jest to wystarczające dla osiągnięcia wobec niego celów kary, a w szczególności zapobieżenia powrotowi do przestępstwa.
-
-§ 2. Zawieszając wykonanie kary, sąd bierze pod uwagę przede wszystkim postawę sprawcy, jego właściwości i warunki osobiste, dotychczasowy sposób życia oraz zachowanie się po popełnieniu przestępstwa.
-
-§ 3. (uchylony) § 4. Wobec:
-
-- **1)** sprawcy występku o charakterze chuligańskim,
-- **2)** sprawcy przestępstwa określonego w art. 178a § 4,
-- **3)** sprawcy przestępstwa określonego w art. 173 § 1 lub 3, art. 177 § 1–2a lub art. 355 § 1 lub 2, jeśli zawartość alkoholu w organizmie sprawcy przestępstwa wynosiła co najmniej 1,5 promila we krwi lub 0,75 mg/dm3 w wydychanym powietrzu albo prowadziła do takiego stężenia lub w czasie popełnienia przestępstwa obowiązywał sprawcę środek karny, o którym mowa w art. 39 pkt 3 – sąd może warunkowo zawiesić wykonanie kary jedynie w szczególnie uzasadnionych wypadkach.
+§ 1. warunkowo wyko nanie orzeczonej kary pozbawienia nie prze 2 lat, kary ograniczenia lub grzyw ny orzeczonej jako kara samoistna, jest to wystar dla wobec sprawcy celów kary, a w powrotowi do prze 2. wykonanie kary, bierze pod przede wszystkim sprawcy, jego i warunki osobiste, dotychczasowy sposób cia oraz zachowanie po 3. Zawieszenia wykonania kary nie stosuje się do sprawcy wart. 64 2, chyba zachodzi wypadek, uzasadniony szczególnymi oko zawieszenia wykonania kary, o którym mowa wart. 60 3-5, nie stosuje do sprawcy okre wart. 64 2.
 
 **Art. 70.**
 
-§ 1. Zawieszenie wykonania kary następuje na okres próby, który wynosi od roku do 3 lat i biegnie od uprawomocnienia się wyroku.
+§ 1. Zawieszenie wykonania kary je na okres próby, który biegnie od uprawomocnienia orzeczenia i wynosi:
 
-§ 2. W wypadku zawieszenia wykonania kary wobec sprawcy młodocianego oraz sprawcy, który popełnił przestępstwo z użyciem przemocy na szkodę osoby wspólnie zamieszkującej, okres próby wynosi od 2 do 5 lat.
+- **1)** od 2 do 5 lat - w wypadku warunkowego zawie szenia wykonania kary pozbawienia
+- **2)** od roku do 31at - w wypadku warunkowego zawie szenia wykonania grzywny lub kary ograniczenia 2. W wypadku zawieszenia wykonania kary po zbawienia wobec sprawcy lub Dziennik Ustaw Nr 88 - 2685- Poz. 553 wart. 64 2, okres próby wynosi od 3 do 5 lat.
 
 **Art. 71.**
 
-§ 1. Zawieszając wykonanie kary, sąd może orzec grzywnę, jeżeli jej wymierzenie obok kary pozbawienia wolności na innej podstawie nie jest możliwe.
-
-§ 2. W razie zarządzenia wykonania kary grzywna orzeczona na podstawie § 1 nie podlega wykonaniu; kara pozbawienia wolności ulega skróceniu o okres odpowiadający połowie liczby uiszczonych stawek dziennych grzywny z zaokrągleniem w górę do pełnego dnia.
+§ 1. wykonanie kary pozbawie nia orzec w do 180 stawek dziennych, jej wymierzenie na innej podstawie nie jest wykonanie ka ry ograniczenia orzec w do 90 stawek dziennych. 2. W razie wykonania kary pozbawie nia lub ograniczenia grzywna orze czona na podstawie 1 nie podlega wykonaniu; kara pozbawienia lub ograniczenia ule ga skróceniu o okres liczbie uiszczo nych stawek dziennych z do dnia.
 
 **Art. 72.**
 
-§ 1. Zawieszając wykonanie kary, sąd zobowiązuje, a jeżeli orzeka środek karny, może zobowiązać skazanego do:
+§ 1. wykonanie kary, skazanego do:
 
-- **1)** informowania sądu lub kuratora o przebiegu okresu próby,
+- **1)** informowania lub kuratora o przebiegu okre su próby,
 - **2)** przeproszenia pokrzywdzonego,
-- **3)** wykonywania ciążącego na nim obowiązku łożenia na utrzymanie innej osoby,
-- **4)** wykonywania pracy zarobkowej, do nauki lub przygotowania się do zawodu,
-- **5)** powstrzymania się od nadużywania alkoholu lub używania innych środków odurzających,
-- **6)** poddania się terapii uzależnień, 6a) poddania się terapii, w szczególności psychoterapii lub psychoedukacji, 6b) uczestnictwa w oddziaływaniach korekcyjno-edukacyjnych,
-- **7)** powstrzymania się od przebywania w określonych środowiskach lub miejscach, 7a) powstrzymania się od kontaktowania się z pokrzywdzonym lub innymi osobami w określony sposób lub zbliżania się do pokrzywdzonego lub innych osób, 7b) opuszczenia lokalu zajmowanego wspólnie z pokrzywdzonym,
-- **8)** innego stosownego postępowania w okresie próby, które może zapobiec popełnieniu ponownie przestępstwa – przy czym orzeka się przynajmniej jeden z obowiązków.
-
-§ 1a. Nakładając obowiązek wymieniony w § 1 pkt 7a, sąd wskazuje minimalną odległość od osób chronionych, którą skazany obowiązany jest zachować.
-
-§ 1b. Nakładając na sprawcę przestępstwa popełnionego z użyciem przemocy lub groźby bezprawnej wobec osoby najbliższej obowiązek wymieniony w § 1 pkt 7b, sąd określa sposób kontaktu skazanego z pokrzywdzonym.
-
-§ 2. Sąd może orzec świadczenie pieniężne wymienione w art. 39 pkt 7 albo zobowiązać skazanego do naprawienia wyrządzonej przestępstwem szkody w całości albo w części, chyba że orzekł środek kompensacyjny.
+- **3)** wykonywania na nim na utrzymanie innej osoby,
+- **4)** wykonywania pracy zarobkowej, do nauki lub przy gotowania do zawodu,
+- **5)** powstrzymania od alkoholu lub innych
+- **6)** poddania leczeniu, w odwykowe mu lub rehabilitacyjnemu,
+- **7)** powstrzymania od przebywania w lub miejscach,
+- **8)** innego stosownego w okresie pró by, to zapobiec ponownie 2. skazanego do naprawie nia szkody w lub w chyba dek karny wymieniony wart. 39 pkt 5, albo do uiszcze nia wymienionego wart. 39 pkt 7.
 
 **Art. 73.**
 
-§ 1. Zawieszając wykonanie kary, sąd może w okresie próby oddać skazanego pod dozór kuratora lub osoby godnej zaufania, stowarzyszenia, instytucji albo organizacji społecznej, do której działalności należy troska o wychowanie, zapobieganie demoralizacji lub pomoc skazanym.
-
-§ 2. Dozór jest obowiązkowy wobec młodocianego sprawcy przestępstwa umyślnego, sprawcy określonego w art. 64 § 2 lub art. 64a, a także wobec sprawcy przestępstwa popełnionego w związku z zaburzeniami preferencji seksualnych oraz sprawcy, który popełnił przestępstwo z użyciem przemocy na szkodę osoby wspólnie zamieszkującej.
+§ 1. wykonanie kary pozbawie nia w okresie próby skaza nego pod dozór kuratora lub osoby godnej zaufania, stowarzyszenia, instytucji albo organizacji do której troska o wychowanie, za pobieganie demoralizacji lub pomoc skazanym. 2. Dozór jest wobec sprawcy a wobec sprawcy wart. 64 2.
 
 **Art. 74.**
 
-§ 1. Czas i sposób wykonania nałożonych obowiązków wymienionych w art. 72 sąd określa po wysłuchaniu skazanego; nałożenie obowiązków wymienionych w art. 72 § 1 pkt 6 i 6a wymaga nadto zgody skazanego.
-
-§ 2. Jeżeli względy wychowawcze za tym przemawiają, sąd, wobec skazanego na karę z warunkowym zawieszeniem jej wykonania, może w okresie próby ustanawiać, rozszerzać lub zmieniać obowiązki wymienione w art. 72 § 1 pkt 3–8 albo od wykonania nałożonych obowiązków zwolnić, z wyjątkiem obowiązku wymienionego w art. 72 § 2, jak również oddać skazanego pod dozór albo od dozoru zwolnić.
-
-§ 2a. Zwolnienie od dozoru może nastąpić także, jeżeli sprawowanie dozoru jest niemożliwe albo znacznie utrudnione z przyczyn niezawinionych przez skazanego.
-
-§ 3. W przypadku gdy skazany został oddany pod dozór lub zobowiązany do wykonywania obowiązków w okresie próby, wniosek o określenie czasu i sposobu wykonania nałożonych obowiązków może złożyć również sądowy kurator zawodowy, a także osoba godna zaufania lub przedstawiciel stowarzyszenia, instytucji albo organizacji społecznej, o której mowa w art. 73 § 1.
+§ 1. Czas i sposób wykonania wymienionych wart. 72 po skazanego; wymie nionego wart. 72 1 pkt 6 wymaga nadto zgody ska zanego. 2. wychowawcze za tym przema wobec skazanego na pozbawienia wol z warunkowym zawieszeniem jej wykonania, mo w okresie próby lub wymienione wart. 72 1 pkt 3-8 albo od wy konania z wymienionego wart. 72 2, jak od skazanego pod dozór albo od dozoru
 
 **Art. 75.**
 
-§ 1. Sąd zarządza wykonanie kary, jeżeli skazany w okresie próby popełnił podobne przestępstwo umyślne, za które orzeczono prawomocnie karę pozbawienia wolności bez warunkowego zawieszenia jej wykonania.
-
-§ 1a. Sąd zarządza wykonanie kary jeżeli skazany za przestępstwo popełnione z użyciem przemocy lub groźby bezprawnej wobec osoby najbliższej lub innej osoby małoletniej zamieszkujących wspólnie ze sprawcą w okresie próby rażąco narusza porządek prawny, ponownie używając przemocy lub groźby bezprawnej wobec osoby najbliższej lub innej osoby małoletniej zamieszkujących wspólnie ze sprawcą.
-
-§ 2. Sąd może zarządzić wykonanie kary, jeżeli skazany w okresie próby rażąco narusza porządek prawny, w szczególności gdy popełnił inne przestępstwo niż określone w § 1, albo jeżeli uchyla się od uiszczenia grzywny, od dozoru, wykonania nałożonych obowiązków lub orzeczonych środków karnych, środków kompensacyjnych lub przepadku.
-
-§ 2a. Sąd zarządza wykonanie kary, jeżeli okoliczności, o których mowa w § 2, zaistnieją po udzieleniu skazanemu pisemnego upomnienia przez sądowego kuratora zawodowego, chyba że przemawiają przeciwko temu szczególne względy.
-
-§ 3. Sąd może zarządzić wykonanie kary, jeżeli skazany po wydaniu wyroku, lecz przed jego uprawomocnieniem się, rażąco narusza porządek prawny, a w szczególności gdy w tym czasie popełnił przestępstwo.
-
-§ 3a. Zarządzając wykonanie kary w wypadkach, o których mowa w § 2 i 3, sąd może, uwzględniając dotychczasowy przebieg próby, a w szczególności wykonanie nałożonych obowiązków, skrócić orzeczoną karę, nie więcej jednak niż o połowę.
-
-§ 4. Zarządzenie wykonania kary nie może nastąpić później niż w ciągu roku od zakończenia okresu próby.
-
-§ 5. (uchylony)
-
-**Art. 75a.** (uchylony)
+§ 1. wykonanie kary, skazany w okresie próby podobne stwo za które orzeczono prawomocnie pozbawienia 2. wykonanie kary, ska zany w okresie próby narusza prawny, w gdy inne w 1 albo uchyla od uiszczenia grzywny, od dozoru, wykonania ków lub orzeczonych karnych. 3. wykonanie kary, ska zany po wydaniu wyroku, lecz przed jego uprawomoc nieniem narusza prawny, a w gdy w tym czasie stwo. 4. wykonania kary nie w 6 od okresu próby.
 
 **Art. 76.**
 
-§ 1. Skazanie ulega zatarciu z mocy prawa z upływem roku od zakończenia okresu próby.
-
-§ 1a. (uchylony) § 1b. W wypadku, o którym mowa w § 1, przepis art. 108 stosuje się.
-
-§ 2. Jeżeli wobec skazanego orzeczono grzywnę, środek karny, przepadek lub środek kompensacyjny, zatarcie skazania nie może nastąpić przed ich wykonaniem, darowaniem albo przedawnieniem ich wykonania. Zatarcie skazania nie może nastąpić również przed wykonaniem środka zabezpieczającego.
+§ 1. Skazanie ulega zatarciu z mocy prawa z 6 od okresu próby. 2. wobec skazanego orzeczono lub karny, zatarcie skazania nie przed ich wykonaniem, darowaniem albo przedawnie niem ich wykonania; nie dotyczy to karnego wy mienionego wart. 39 pkt 5.
 
 **Art. 77.**
 
-§ 1. Skazanego na karę pozbawienia wolności sąd może warunkowo zwolnić z odbycia reszty kary tylko wówczas, gdy jego postawa, właściwości i warunki osobiste, okoliczności popełnienia przestępstwa oraz zachowanie po jego popełnieniu i w czasie odbywania kary uzasadniają przekonanie, że skazany po zwolnieniu będzie stosował się do orzeczonego środka karnego lub zabezpieczającego i przestrzegał porządku prawnego, w szczególności nie popełni ponownie przestępstwa.
-
-§ 2. W szczególnie uzasadnionych wypadkach sąd, wymierzając karę wymienioną w art. 32 pkt 3 lub 5, może wyznaczyć surowsze ograniczenia do skorzystania przez skazanego z warunkowego zwolnienia niż przewidziane w art. 78.
-
-§ 3. Wymierzając karę dożywotniego pozbawienia wolności sprawcy za czyn popełniony przez niego po prawomocnym skazaniu za przestępstwo przeciwko życiu i zdrowiu, wolności, wolności seksualnej, bezpieczeństwu powszechnemu lub za przestępstwo o charakterze terrorystycznym na karę dożywotniego pozbawienia wolności albo karę pozbawienia wolności na czas nie krótszy niż 20 lat, sąd może orzec zakaz warunkowego zwolnienia.
-
-§ 4. Wymierzając karę dożywotniego pozbawienia wolności, sąd może orzec zakaz warunkowego zwolnienia sprawcy, jeżeli charakter i okoliczności czynu oraz właściwości osobiste sprawcy wskazują, iż jego pozostawanie na wolności spowoduje trwałe niebezpieczeństwo dla życia, zdrowia, wolności lub wolności seksualnej innych osób.
+§ 1. Skazanego na pozbawienia wolno warunkowo z odbycia reszty ka ry tylko wówczas, gdy jego postawa, i wa runki osobiste, sposób przed prze jego oraz zachowa nie po i w czasie odbywania kary przekonanie, skazany po zwolnie niu prawnego, w szcze nie ponownie 2. W szczególnie uzasadnionych wypadkach pozbawienia wyzna surowsze ograniczenia do skorzystania przez ska zanego z warunkowego zwolnienia przewidziane wart. 78.
 
 **Art. 78.**
 
-§ 1. Skazanego można warunkowo zwolnić po odbyciu co najmniej połowy kary, a jeżeli wymierzono karę pozbawienia wolności na czas nie krótszy niż 25 lat – po odbyciu co najmniej 15 lat kary.
-
-§ 2. Skazanego określonego w art. 64 § 1 można warunkowo zwolnić po odbyciu dwóch trzecich kary, natomiast skazanego określonego w art. 64 § 2 lub art. 64a oraz skazanego, wobec którego wydano prawomocne postanowienie stwierdzające, że bezprawnie utrudniał wykonanie kary pozbawienia wolności, po odbyciu trzech czwartych kary.
-
-§ 3. Skazanego na karę dożywotniego pozbawienia wolności można warunkowo zwolnić po odbyciu 30 lat kary.
+§ 1. Skazanego warunkowo po odbyciu przez niego co najmniej kary, jed nak nie po 6 2. Skazanego wart. 64 1 warunkowo po odbyciu dwóch trzecich kary, natomiast wart. 64 2 po odbyciu trzech czwartych kary; warunkowe zwolnienie nie na po roku. 3. Skazanego na 25 lat pozbawienia wolno warunkowo po odbyciu 15 lat kary, natomiast skazanego na pozbawie nia po odbyciu 25 lat kary.
 
 **Art. 79.**
 
-§ 1. Przepisy art. 78 § 1 i 2 stosuje się odpowiednio do sumy dwóch lub więcej niepodlegających łączeniu kar pozbawienia wolności, które skazany ma odbyć kolejno. Przepis art. 78 § 2 stosuje się, jeżeli chociażby jedno z przestępstw popełniono w warunkach określonych w art. 64 lub art. 64a lub wobec skazanego wydano prawomocne postanowienie stwierdzające, że bezprawnie utrudniał wykonanie kary pozbawienia wolności.
+1. Przepisy art. 78 1 i 2 stosuje odpo wiednio do sumy dwóch lub nie kar pozbawienia które skazany ma kolejno; przepis art. 78 2 stosuje cho jedno z w warunkach wart. 64.
 
-§ 2. Skazanego można, niezależnie od warunków określonych w art. 78 § 1 lub 2, zwolnić warunkowo po odbyciu 25 lat pozbawienia wolności.
-
-§ 3. Przepis art. 78 § 3 stosuje się odpowiednio, jeżeli chociażby jedna z kar, które skazany ma odbyć kolejno, jest karą dożywotniego pozbawienia wolności.
+2. Skazanego od warunków wart. 78 1 lub 2, warunkowo po odbyciu 15 lat pozbawienia
 
 **Art. 80.**
 
-§ 1. W razie warunkowego zwolnienia czas pozostały do odbycia kary stanowi okres próby, który jednak nie może być krótszy niż 2 lata ani dłuższy niż 5 lat.
+§ 1. W razie warunkowego zwolnienia czas do odbycia kary stanowi okres próby, który jednak nie krótszy 2 lata ani 5 lat. 2. skazanym jest osoba wart. 64 2, okres próby nie krótszy 3 lata. 3. W razie warunkowego zwolnienia z kary wotniego pozbawienia okres próby wynosi 10 lat.
 
-§ 2. Jeżeli skazanym jest osoba określona w art. 64 § 2 lub art. 64a, okres próby nie może być krótszy niż 3 lata.
+**Art. 81.** W razie warunkowego zwolnie nia ponowne warunkowe zwolnienie nie przed roku od osadzenia skazanego w za karnym, a w wypadku kary po zbawienia przed 5 lat.
 
-§ 2a. W razie warunkowego zwolnienia z kary pozbawienia wolności w wymiarze 25 lat lub surowszym okres próby wynosi 10 lat.
+**Art. 82.** Jeżeli w okresie próby i w dalszych 6 nie warunkowego zwolnienia, za z warunkowego zwol nienia.
 
-§ 3. W razie warunkowego zwolnienia z kary dożywotniego pozbawienia wolności okres próby trwa dożywotnio.
-
-**Art. 81.** W razie odwołania warunkowego zwolnienia ponowne warunkowe zwolnienie nie może nastąpić przed odbyciem, po ponownym osadzeniu, przynajmniej roku kary pozbawienia wolności, a w wypadku kary dożywotniego pozbawienia wolności przed odbyciem przynajmniej 5 lat kary.
-
-**Art. 82.**
-
-§ 1. Jeżeli w okresie próby i w ciągu 6 miesięcy od jej zakończenia nie odwołano warunkowego zwolnienia, karę uważa się za odbytą z chwilą warunkowego zwolnienia.
-
-§ 2. W wypadku objęcia wyrokiem łącznym kary, z której odbywania skazany został warunkowo zwolniony, na poczet orzeczonej kary łącznej zalicza się jedynie okres faktycznego odbywania kary.
-
-**Art. 83.** Skazanego na karę ograniczenia wolności, który odbył przynajmniej połowę orzeczonej kary, przy czym przestrzegał porządku prawnego, jak również wykonał nałożone na niego obowiązki, orzeczone środki karne, środki kompensacyjne i przepadek, sąd może zwolnić od reszty kary, uznając ją za wykonaną.
+**Art. 83.** Skazanego na ograniczenia który przynajmniej orzeczonej kary, przy czym prawnego i sumiennie wy przez jak na niego i orzeczone karne, od reszty kary, za wykona
 
 **Art. 84.**
 
-§ 1. Sąd może po upływie połowy okresu, na który orzeczono środki karne wymienione w art. 39 pkt 1–3, uznać je za wykonane, jeżeli skazany przestrzegał porządku prawnego, a środek karny był w stosunku do niego wykonywany przynajmniej przez rok.
+§ 1. po okresu, na który orzeczono karne wymienione wart. 39 pkt 1-3, je za wykonane, skazany prze prawnego, a karny w sto sunku do niego wykonywany przynajmniej przez rok. 2. Przepisu 1 nie stosuje karny wymieniony wart. 39 pkt 3 orzeczono na podstawie art. 42 2. IX Zbieg przest,pstw oraz kar i karnych
 
-§ 2. Przepisu § 1 nie stosuje się, jeżeli środki karne wymienione w art. 39 pkt 2, 2a i 3 orzeczono na podstawie art. 41 § 1a albo art. 42 § 2.
-
-§ 2a. Jeżeli środek karny orzeczony został dożywotnio, sąd może uznać go za wykonany, jeżeli skazany przestrzegał porządku prawnego i nie zachodzi obawa ponownego popełnienia przestępstwa podobnego do tego, za które orzeczono środek karny, a środek karny był w stosunku do skazanego wykonywany przynajmniej przez 15 lat.
-
-§ 3. Sąd może zwolnić skazanego z obowiązku orzeczonego na podstawie art. 41b § 5 lub 7 po upływie połowy okresu, na który go orzeczono, jeżeli obowiązek był stosowany przynajmniej przez rok, a zachowanie skazanego wskazuje, że dalsze stosowanie obowiązku nie jest niezbędne do spełnienia celów środka karnego.
-
-**Art. 84a.** (uchylony)
-
-#### Rozdział IX Zbieg przestępstw oraz łączenie kar i środków karnych
-
-**Art. 85.**
-
-§ 1. Jeżeli sprawca popełnił dwa lub więcej przestępstw, zanim zapadł pierwszy wyrok, chociażby nieprawomocny, co do któregokolwiek z tych przestępstw i wymierzono za nie kary tego samego rodzaju albo inne podlegające łączeniu, sąd orzeka karę łączną, biorąc za podstawę kary z osobna wymierzone za zbiegające się przestępstwa.
-
-§ 2. Karą łączną nie obejmuje się kar orzeczonych wyrokami, o których mowa w art. 114a.
-
-**Art. 85a.** Orzekając karę łączną, sąd bierze pod uwagę przede wszystkim cele kary w zakresie społecznego oddziaływania, a także cele zapobiegawcze, które ma ona osiągnąć w stosunku do skazanego.
+**Art. 85.** Jeżeli sprawca dwa lub zanim pierwszy wyrok, nieprawomocny, co do któregokolwiek z tych prze i wymierzono za nie kary tego samego rodza ju albo inne orzeka za kary z osobna wymierzone za
 
 **Art. 86.**
 
-§ 1. Sąd wymierza karę łączną w granicach powyżej najwyższej z kar wymierzonych za poszczególne przestępstwa do ich sumy, nie przekraczając jednak 810 stawek dziennych grzywny, 2 lat ograniczenia wolności albo 30 lat pozbawienia wolności. Jeżeli najwyższą z kar wymierzonych za poszczególne przestępstwa jest kara 810 stawek dziennych grzywny, 2 lat ograniczenia wolności albo 30 lat pozbawienia wolności, orzeka się tę karę jako karę łączną. Karę pozbawienia wolności wymierza się w miesiącach i latach.
+1. wymierza w granicach od z kar wymierzonych za poszczególne do ich sumy, nie jednak 540 stawek dziennych grzywny, 18 ogranicze nia albo 15 lat pozbawienia kara grzywny wart. 71 1 nie prze 180 stawek dziennych - jest ona na z zawieszeniem wykonania kary pozbawienia wol oraz nie 90 stawek dziennych - jest ona z zawieszeniem wykonania kary ograniczenia
 
-§ 1a. (uchylony) § 2. Wymierzając karę łączną grzywny, sąd określa na nowo wysokość stawki dziennej, kierując się wskazaniami określonymi w art. 33 § 3; wysokość stawki dziennej nie może jednak przekraczać najwyższej ustalonej poprzednio.
+2. grzywny, na nowo stawki dziennej, wska zaniami wart. 33 3; stawki dziennej nie jednak usta lonej poprzednio.
 
-§ 2a. Jeżeli chociażby jedna z podlegających łączeniu grzywien jest wymierzona kwotowo, karę łączną grzywny wymierza się kwotowo.
+3. ograniczenia wolno na nowo wymiar czasu kontrolowanej pracy na cele albo art. 35; wymienione wart. 36 2 stosuje orzeczone tylko za jedno ze
 
-§ 2b. Jeżeli chociażby jedna z podlegających łączeniu grzywien została orzeczona na podstawie przepisu przewidującego wyższą górną granicę ustawowego zagrożenia tą karą niż określona w art. 33 § 1, sąd wymierza karę łączną grzywny w granicach powyżej najwyższej z kar tego rodzaju wymierzonych za poszczególne przestępstwa do ich sumy, nie przekraczając jednak 4500 stawek dziennych grzywny. Jeżeli najwyższa z podlegających łączeniu grzywien orzeczona została w wymiarze 4500 stawek dziennych lub wyższym, sąd orzeka tę karę jako karę łączną grzywny.
+**Art. 87.** W razie skazania za stwa na kary pozbawienia i ograniczenia wol wymierza pozbawienia ograniczenia równa 15 dniom pozbawienia
 
-§ 3. Wymierzając karę łączną ograniczenia wolności, sąd określa na nowo obowiązki lub wymiar potrącenia, o których mowa w art. 34 § 1a, a także może nałożyć na sprawcę obowiązki wymienione w art. 72 § 1 pkt 2–7a, jak również orzec świadczenie pieniężne wymienione w art. 39 pkt 7.
-
-§ 4. (uchylony)
-
-**Art. 87.**
-
-§ 1. W razie skazania za zbiegające się przestępstwa na kary pozbawienia wolności i ograniczenia wolności sąd wymierza karę łączną pozbawienia wolności, przyjmując, że miesiąc ograniczenia wolności równa się 15 dniom pozbawienia wolności.
-
-§ 2. Jeżeli za zbiegające się przestępstwa wymierzono kary pozbawienia wolności oraz ograniczenia wolności i kara łączna pozbawienia wolności nie przekroczyłaby 6 miesięcy, a kara łączna ograniczenia wolności – 2 lat, sąd może orzec te kary łączne jednocześnie, jeżeli cele kary zostaną w ten sposób spełnione.
-
-**Art. 88.** Jeżeli najsurowszą karą orzeczoną za jedno ze zbiegających się przestępstw jest kara dożywotniego pozbawienia wolności, orzeka się tę karę jako karę łączną; w wypadku zbiegu dwóch lub więcej kar pozbawienia wolności w wymiarze przynajmniej 25 lat sąd może orzec jako karę łączną karę dożywotniego pozbawienia wolności.
+**Art. 88.** Jeżeli za jedno ze jest kara 25 lat pozba wienia albo pozbawienia wol orzeka jako w wypadku zbiegu dwóch lub kar 25 lat pozbawienia wolno orzec jako pozbawienia
 
 **Art. 89.**
 
-§ 1. W razie skazania za zbiegające się przestępstwa na kary pozbawienia wolności z warunkowym zawieszeniem i bez warunkowego zawieszenia ich wykonania sąd może warunkowo zawiesić wykonanie kary łącznej w wymiarze nieprzekraczającym roku, jeżeli sprawca w czasie popełnienia każdego z tych przestępstw nie był skazany na karę pozbawienia wolności i jest to wystarczające do osiągnięcia wobec niego celów kary, a w szczególności zapobieżenia powrotowi do przestępstwa.
+1. W razie skazania za prze na kary pozbawienia ograniczenia albo grzywny z warunkowym zawieszeniem i bez warunkowego zawieszenia ich wykonania warunkowo wykonanie kary je wart. 69.
 
-§ 1a. W razie skazania za zbiegające się przestępstwa na kary pozbawienia wolności z warunkowym zawieszeniem ich wykonania sąd może w wyroku łącznym orzec karę łączną pozbawienia wolności bez warunkowego zawieszenia jej wykonania.
+2. pozbawienia lub ograniczenia z warunkowym zawiesze niem ich wykonania, orzec wart. 71 1, jej nie orzeczono za pozosta w zbiegu
 
-§ 1b. Sąd orzeka karę łączną pozbawienia wolności bez warunkowego zawieszenia jej wykonania, przyjmując, że miesiąc kary pozbawienia wolności z warunkowym zawieszeniem jej wykonania równa się 15 dniom kary pozbawienia wolności bez warunkowego zawieszenia jej wykonania.
-
-§ 2. (uchylony) § 3. (uchylony)
-
-**Art. 89a.**
-
-§ 1. Jeżeli chociażby jedną z kar podlegających łączeniu jest kara pozbawienia wolności z warunkowym zawieszeniem jej wykonania orzeczona na podstawie art. 60 § 5, a kara ta nie podlega łączeniu z surowszą karą pozbawienia wolności, sąd może wymierzyć karę łączną pozbawienia wolności w wymiarze równym karze pozbawienia wolności z warunkowym zawieszeniem jej wykonania orzeczonej na podstawie art. 60 § 5, o ile jednocześnie stosuje warunkowe zawieszenie wykonania kary łącznej.
-
-§ 2. Orzekając karę łączną pozbawienia wolności z warunkowym zawieszeniem jej wykonania, sąd może orzec grzywnę określoną w art. 71 § 1, chociażby jej nie orzeczono za pozostające w zbiegu przestępstwa.
-
-§ 3. W razie zbiegu orzeczeń o okresach próby sąd orzeka okres próby oraz związane z nim obowiązki na nowo. W razie zbiegu orzeczeń, o którym mowa w § 1, okres próby może wynosić do 10 lat.
+3. W razie zbiegu o okresach próby orzeka ten okres oraz z nim na no wo.
 
 **Art. 90.**
 
-§ 1. Środki karne, przepadek, środki kompensacyjne, środki zabezpieczające oraz dozór stosuje się, chociażby orzeczono je tylko co do jednego ze zbiegających się przestępstw.
+1. Środki karne i środki zabezpieczające oraz dozór stosuje je orzeczono tylko co do jednego ze
 
-§ 2. W razie orzeczenia za zbiegające się przestępstwa pozbawienia praw publicznych, zakazów lub obowiązku tego samego rodzaju, sąd stosuje odpowiednio przepisy o karze łącznej.
+2. W razie orzeczenia za stwa pozbawienia praw publicznych lub zakazów tego samego rodzaju, stosuje odpowiednio przepisy o karze
 
 **Art. 91.**
 
-§ 1. Jeżeli sprawca popełnia w krótkich odstępach czasu, z wykorzystaniem takiej samej sposobności, dwa lub więcej przestępstw, zanim zapadł pierwszy wyrok, chociażby nieprawomocny, co do któregokolwiek z tych przestępstw, sąd orzeka jedną karę określoną w przepisie stanowiącym podstawę jej wymiaru dla każdego z tych przestępstw, w wysokości do górnej granicy ustawowego zagrożenia zwiększonego o połowę.
+§ 1. sprawca w podobny sposób, w krótkich czasu, dwa lub zanim pierwszy wyrok, nieprawomocny, co do któregokolwiek z tych prze orzeka na podstawie przepisu, którego znamiona z tych wyczerpu je, w do górnej granicy ustawowego zagro o 2. sprawca w warunkach wart. 85 dwa lub w 1 lub oraz inne prze orzeka odpowied nio przepisy tego 3. sprawca skazany dwoma lub cej wyrokami za do prze w 1, orzeczona w wyroku nym kara nie górnej granicy ustawo wego o przewidzia nego w przepisie, którego znamiona z tych prze wyczerpuje.
 
-§ 2. Jeżeli sprawca w warunkach określonych w art. 85 § 1 popełnia dwa lub więcej ciągów przestępstw określonych w § 1 lub ciąg przestępstw oraz inne przestępstwo, sąd orzeka karę łączną, stosując odpowiednio przepisy tego rozdziału.
+**Art. 92.** Wydaniu wyroku nie stoi na prze szkodzie, poszczególne kary wymierzone za ce do lub stwa w albo w wykonane; przepis art. 71 2 stosuje odpowiednio. Środki zabezpieczające
 
-§ 3. Jeżeli sprawca został skazany dwoma lub więcej wyrokami za przestępstwa należące do ciągu przestępstw określonego w § 1, orzeczona kara łączna nie może przekroczyć górnej granicy ustawowego zagrożenia zwiększonego o połowę, przewidzianego w przepisie stanowiącym podstawę wymiaru kary dla każdego z tych przestępstw.
+**Art. 93.** Sąd orzec przewidziany w tym roz dziale z umieszcze niem w tylko wtedy, gdy jest to aby zapobiec ponownemu przez czynu zabronionego z jego lub od alkoholu lub innego odurza przed orzeczeniem tego je lekarzy psychiatrów oraz psychologa.
 
-**Art. 91a.** Wydaniu wyroku łącznego nie stoi na przeszkodzie, że poszczególne kary wymierzone za należące do ciągu przestępstw lub zbiegające się przestępstwa zostały już w całości albo w części wykonane. Przepis art. 71 § 2 stosuje się odpowiednio.
+**Art. 94.**
 
-**Art. 92.** (uchylony)
+§ 1. sprawca, w stanie niepoczytalno wart. 31 1, czyn zabroniony o znacznej i zachodzi wysokie taki czyn ponownie, orzeka umieszczenie sprawcy w odpowiednim za psychiatrycznym. 2. Czasu pobytu w nie z gó ry; orzeka zwolnienie sprawcy, jego dalsze pozostawanie w nie jest konieczne. 3. ponowne umieszczenie sprawcy w 1 w odpowiednim psychiatrycznym, za tym okoliczno wymienione w 1 lub wart. 93; nie mo wydane po lat od zwolnienia z du.
 
-**Art. 92a.** (uchylony)
+**Art. 95.**
 
-#### Rozdział X Środki zabezpieczające
+§ 1. na pozbawienia bez warunkowego zawieszenia jej wykonania za w stanie ograniczonej po wart. 31 2, orzec umieszczenie sprawcy w karnym, w którym stosuje szczególne lecznicze lub rehabilita cyjne. 2. wyniki leczenia lub rehabilitacji za tym w 1, skazanego na nie 31at pozbawienia warunkowo na zasadach nych wart. 77-82, bez z art. 78 1 lub 2; dozór jest
 
-**Art. 93.** (uchylony)
+**Art. 96.**
 
-**Art. 93a.**
+§ 1. na pozbawienia bez warunkowego zawieszenia jej wykonania za w z niem od alkoholu lub innego orzec umieszczenie sprawcy w za leczenia odwykowego, zachodzi wysokie ponownego prze z tym 2. Środka określonego w 1 nie orzeka się, jeżeli skazano na pozbawienia prze 2 lata. 3. Czasu pobytu w leczenia odwykowego nie z góry; nie on krócej i lata. zwolnieniu z rozstrzyga na podstawie wyników lecze nia, po zapoznaniu z leczenie. 4. Na poczet kary zalicza okres pobytu skaza nego w o którym mowa w 1.
 
-§ 1. Środkami zabezpieczającymi są:
+**Art. 97.**
 
-- **1)** elektroniczna kontrola miejsca pobytu;
-- **2)** terapia;
-- **3)** terapia uzależnień;
-- **4)** pobyt w zakładzie psychiatrycznym.
+§ 1. W od leczenia sprawcy wart. 96 1 go skiero na okres próby od 6 do lat 2, na leczenie ambulatoryjne lub w placówce leczniczo -rehabilitacyjnej, go pod dozór kuratora lub osoby godnej zaufania, stowarzyszenia, instytucji albo organizacji do której troska o wychowanie, zapobieganie de moralizacji lub pomoc skazanym. 2. ponowne umieszczenie skazanego w leczenia odwyko wego albo w karnym, skazany w okre sie próby uchyla od poddania leczeniu lub reha bilitacji albo lub narusza prawny albo regulamin placówki leczniczo -rehabilitacyj nej. 3. w okresie próby i w dalszych 6 mie nie ponownego umieszczenia skaza nego w leczenia odwykowego albo w karnym, za z okresu próby.
 
-§ 2. Jeżeli ustawa tak stanowi, tytułem środka zabezpieczającego można orzec nakaz i zakazy określone w art. 39 pkt 2–3.
-
-**Art. 93b.**
-
-§ 1. Sąd może orzec środek zabezpieczający, gdy jest to konieczne, aby zapobiec ponownemu popełnieniu przez sprawcę czynu zabronionego, a inne środki prawne określone w tym kodeksie lub orzeczone na podstawie innych ustaw nie są wystarczające. Środek zabezpieczający, o którym mowa w art. 93a § 1 pkt 4, można orzec jedynie, aby zapobiec ponownemu popełnieniu przez sprawcę czynu zabronionego o znacznej społecznej szkodliwości.
-
-§ 2. Sąd uchyla środek zabezpieczający, gdy dalsze jego stosowanie nie jest już konieczne.
-
-§ 3. Środek zabezpieczający i sposób jego wykonywania powinien być odpowiedni do stopnia społecznej szkodliwości czynu zabronionego, który sprawca może popełnić, oraz prawdopodobieństwa jego popełnienia, a także uwzględniać potrzeby i postępy w terapii lub terapii uzależnień. Sąd może zmienić orzeczony wobec sprawcy środek zabezpieczający lub sposób jego wykonywania, jeżeli poprzednio orzeczony środek stał się nieodpowiedni lub jego wykonywanie nie jest możliwe.
-
-§ 4. Wobec tego samego sprawcy można orzec więcej niż jeden środek zabezpieczający; przepisy § 1 i 3 stosuje się, biorąc pod uwagę wszystkie orzekane środki zabezpieczające.
-
-§ 5. Sąd orzeka pobyt w zakładzie psychiatrycznym tylko wtedy, gdy ustawa tak stanowi.
-
-**Art. 93c.** Środki zabezpieczające można orzec wobec sprawcy:
-
-**Art. 93d.**
-
-§ 1. Czasu stosowania środka zabezpieczającego nie określa się z góry.
-
-§ 2. Uchylając środek zabezpieczający w postaci pobytu w zakładzie psychiatrycznym, sąd może orzec jeden lub więcej ze środków zabezpieczających, o których mowa w art. 93a § 1 pkt 1–3.
-
-§ 3. Sąd ustala potrzebę i możliwości wykonania orzeczonego środka zabezpieczającego nie wcześniej niż na 6 miesięcy przed przewidywanym warunkowym zwolnieniem lub odbyciem kary pozbawienia wolności.
-
-§ 4. Jeżeli wobec sprawcy wykonywana jest kara pozbawienia wolności, środki zabezpieczające, o których mowa w art. 93a § 1 pkt 1–3, można orzec również do czasu wykonania tej kary, jednak nie wcześniej niż na 6 miesięcy przed przewidywanym warunkowym zwolnieniem lub odbyciem kary pozbawienia wolności.
-
-§ 5. Jeżeli sprawca został skazany na karę pozbawienia wolności bez warunkowego zawieszenia jej wykonania lub karę dożywotniego pozbawienia wolności, orzeczony środek zabezpieczający stosuje się po odbyciu kary lub warunkowym zwolnieniu, chyba że ustawa stanowi inaczej.
-
-§ 6. Jeżeli zachowanie sprawcy po uchyleniu środka zabezpieczającego wskazuje, że zachodzi konieczność stosowania środków zabezpieczających, sąd, nie później niż w ciągu 3 lat od uchylenia środka, może ponownie orzec ten sam środek zabezpieczający lub inny środek, o którym mowa w art. 93a § 1 pkt 1–3.
-
-**Art. 93e.** Sprawca, wobec którego orzeczono elektroniczną kontrolę miejsca pobytu, ma obowiązek poddania się nieprzerwanej kontroli miejsca swojego pobytu sprawowanej za pomocą urządzeń technicznych, w tym noszonego nadajnika.
-
-**Art. 93f.**
-
-§ 1. Sprawca, wobec którego orzeczono terapię, ma obowiązek stawiennictwa we wskazanej przez sąd placówce w terminach wyznaczonych przez lekarza psychiatrę, seksuologa lub terapeutę i poddania się terapii farmakologicznej zmierzającej do osłabienia popędu seksualnego, psychoterapii lub psychoedukacji w celu poprawy jego funkcjonowania w społeczeństwie.
-
-§ 2. Sprawca, wobec którego orzeczono terapię uzależnień, ma obowiązek stawiennictwa we wskazanej przez sąd placówce leczenia odwykowego w terminach wyznaczonych przez lekarza i poddania się leczeniu uzależnienia od alkoholu, środka odurzającego lub innego podobnie działającego środka.
-
-**Art. 93g.**
-
-§ 1. Sąd orzeka pobyt w odpowiednim zakładzie psychiatrycznym wobec sprawcy określonego w art. 93c pkt 1, jeżeli istnieje wysokie prawdopodobieństwo, że popełni on ponownie czyn zabroniony o znacznej społecznej szkodliwości w związku z chorobą psychiczną lub upośledzeniem umysłowym.
-
-§ 2. Skazując sprawcę określonego w art. 93c pkt 2 na karę pozbawienia wolności bez warunkowego zawieszenia jej wykonania lub karę dożywotniego pozbawienia wolności, sąd orzeka pobyt w odpowiednim zakładzie psychiatrycznym, jeżeli istnieje wysokie prawdopodobieństwo, że popełni on czyn zabroniony o znacznej społecznej szkodliwości w związku z chorobą psychiczną lub upośledzeniem umysłowym.
-
-§ 3. Skazując sprawcę określonego w art. 93c pkt 3 na karę pozbawienia wolności bez warunkowego zawieszenia jej wykonania lub karę dożywotniego pozbawienia wolności, sąd orzeka pobyt w odpowiednim zakładzie psychiatrycznym, jeżeli istnieje wysokie prawdopodobieństwo, że skazany popełni przestępstwo przeciwko życiu, zdrowiu lub wolności seksualnej w związku z zaburzeniem preferencji seksualnych.
-
-**Art. 94.** (uchylony)
-
-**Art. 95.** (uchylony)
-
-**Art. 95a.** (uchylony)
-
-**Art. 96.** (uchylony)
-
-**Art. 97.** (uchylony)
-
-**Art. 98.** (uchylony)
+**Art. 98.** Jeżeli wyniki leczenia, o których mowa wart. 96 3, za tym warunkowo zwalnia skazanego z do odbycia reszty kary na zasadach wart. 77-82, bez z art. 78 1 lub 2; dozór jest wy.
 
 **Art. 99.**
 
-§ 1. Jeżeli sprawca dopuścił się czynu zabronionego w stanie niepoczytalności określonej w art. 31 § 1, sąd może orzec tytułem środka zabezpieczającego nakaz lub zakazy wymienione w art. 39 pkt 2–3.
+§ 1. sprawca czynu za bronionego w stanie wart. 31 1, orzec cego zakazy wymienione wart. 39 pkt 2 lub 3, jest to konieczne ze na praw nego oraz przepadek wymieniony wart. 39 pkt 4. 2. Wymienione w 1 zakazy orzeka bez okre terminu; uchyla zakaz, przyczy ny jego orzeczenia.
 
-§ 2. Zakazy wymienione w art. 39 pkt 2–3 orzeka się bez określenia czasu ich obowiązywania; sąd uchyla je, gdy ustały przyczyny ich orzeczenia.
-
-**Art. 100.** (uchylony)
-
-#### Rozdział XI Przedawnienie
+**Art. 100.** Jeżeli czynu jest znikoma, a w razie warunkowego umorzenia po albo stwierdzenia, zachodzi okolicz ukaranie sprawcy czynu zabronione go, orzec przepadek wymieniony wart. 39 pkt 4. XI Przedawnienie
 
 **Art. 101.**
 
-§ 1. Karalność przestępstwa ustaje, jeżeli od czasu jego popełnienia upłynęło lat:
+§ 1. ustaje, od czasu jego lat:
 
-- **1)** 40 – gdy czyn stanowi zbrodnię zabójstwa;
-- **2)** 20 – gdy czyn stanowi inną zbrodnię;
-- **2a)** 15 – gdy czyn stanowi występek zagrożony karą pozbawienia wolności przekraczającą 5 lat;
-- **3)** 10 – gdy czyn stanowi występek zagrożony karą pozbawienia wolności przekraczającą 3 lata;
-- **4)** 5 – gdy chodzi o pozostałe występki.
-- **5)** (uchylony) § 2. Karalność przestępstwa ściganego z oskarżenia prywatnego ustaje z upływem roku od czasu, gdy pokrzywdzony dowiedział się o osobie sprawcy przestępstwa, nie później jednak niż z upływem 3 lat od czasu jego popełnienia.
+- **1)** 30 - gdy czyn stanowi zabójstwa,
+- **2)** 20 - gdy czyn stanowi
+- **3)** 10 - gdy czyn stanowi pozbawienia 3 lata,
+- **4)** 5 - gdy czyn jest pozbawienia wol nie 3 lat,
+- **5)** 3 - gdy czyn jest ograniczenia wol lub 2. z prywatnego ustaje z roku od czasu, gdy po krzywdzony o osobie sprawcy stwa, nie jednak z 3 lat od czasu jego 3. W wypadkach przewidzianych w 1 lub 2, li dokonanie od okre w ustawie skutku, bieg przedawnienia rozpo czyna od czasu, gdy skutek
 
-§ 3. Jeżeli dokonanie przestępstwa zależy od nastąpienia określonego w ustawie skutku, bieg przedawnienia rozpoczyna się od czasu, gdy skutek nastąpił.
-
-§ 3a. W przypadku przestępstwa popełnionego w czasie dłuższym niż jeden dzień bieg przedawnienia rozpoczyna się z upływem ostatniego dnia, w którym sprawca swoim zachowaniem wypełniał znamiona przestępstwa.
-
-§ 4. W przypadku przestępstw:
-
-- **1)** przeciwko życiu i zdrowiu, popełnionych na szkodę małoletniego, zagrożonych karą, której górna granica przekracza 5 lat pozbawienia wolności,
-- **2)** określonych w rozdziale XXV, popełnionych na szkodę małoletniego, albo gdy treści pornograficzne obejmują udział małoletniego,
-- **3)** określonych w art. 156a i art. 191b, popełnionych na szkodę małoletniego – przedawnienie karalności przestępstwa nie może nastąpić przed ukończeniem przez niego 40. roku życia.
-
-**Art. 102.**
-
-§ 1. Jeżeli w okresie, o którym mowa w art. 101, wszczęto postępowanie, karalność przestępstw określonych w art. 101 § 1 ustaje z upływem 10 lat, a w pozostałych wypadkach – z upływem 5 lat od zakończenia tego okresu.
-
-§ 2. Jeżeli w toku wszczętego postępowania powzięto uzasadnione podejrzenie popełnienia innego przestępstwa, karalność tego przestępstwa ulega przedłużeniu w sposób określony w § 1 z dniem, w którym podjęto pierwszą czynność procesową zmierzającą do ustalenia, czy zostało ono popełnione.
+**Art. 102.** Jeżeli w okresie przewidzianym wart. 101 przeciwko osobie, przez ustaje z wem 5 lat od tego okresu.
 
 **Art. 103.**
 
-§ 1. Nie można wykonać kary, jeżeli od uprawomocnienia się wyroku skazującego upłynęło lat:
+§ 1. Nie kary, od uprawomocnienia wyroku lat:
 
-- **1)** 30 – w razie skazania na karę pozbawienia wolności przekraczającą 5 lat albo karę surowszą;
-- **2)** 15 – w razie skazania na karę pozbawienia wolności nieprzekraczającą 5 lat;
-- **3)** 10 – w razie skazania na inną karę.
-
-§ 2. Przepis § 1 pkt 3 stosuje się odpowiednio do środków karnych, środków kompensacyjnych oraz przepadku.
+- **1)** 30 - w razie skazania na pozbawienia wolno 5 lat albo
+- **2)** 15 - w razie skazania na pozbawienia wolno nie 5 lat,
+- **3)** 10 - w razie skazania na 2. Przepis 1 pkt 3 stosuje odpowiednio do karnych wymienionych wart. 39 pkt 1-4 oraz 6 i 7; przepis 1 pkt 2 stosuje odpowiednio do ka karnego wymienionego wart. 39 pkt 5.
 
 **Art. 104.**
 
-§ 1. Przedawnienie nie biegnie, jeżeli przepis ustawy nie pozwala na wszczęcie lub dalsze prowadzenie postępowania karnego; nie dotyczy to jednak braku wniosku albo oskarżenia prywatnego.
+§ 1. Przedawnienie nie biegnie, prze pis ustawy nie pozwala na lub dalsze prowa dzenie karnego; nie dotyczy to jednak braku wniosku albo prywatnego. 2. Przedawnienie w stosunku do wart. 144, art. 145 2 lub 3, art. 338 1 lub 2 oraz wart. 339 biegnie od chwili uczynienia zaalbo od chwili, w której na sprawcy
 
-§ 2. (uchylony)
+**Art. 105.**
 
-**Art. 105.** Przepisów art. 101–103 nie stosuje się do:
+§ 1. Przepisów art. 101-103 nie stosuje do zbrodni przeciwko pokojowi, i prze wojennych. 2. Przepisów art. 101-103 nie stosuje do zabójstwa, uszkodzenia uszczerbku na zdrowiu lub pozbawienia ze szczególnym przez funkcjonariusza pu blicznego w z wych. XII Zatarcie skazania
 
-#### Rozdział XII Zatarcie skazania
-
-**Art. 106.** Z chwilą zatarcia skazania uważa się je za niebyłe; wpis o skazaniu usuwa się z rejestru skazanych.
-
-**Art. 106a.** Nie podlega zatarciu skazanie na karę pozbawienia wolności bez warunkowego zawieszenia jej wykonania za przestępstwo przeciwko wolności seksualnej i obyczajności, jeżeli pokrzywdzony był małoletnim poniżej lat 15.
+**Art. 106.** Z zatarcia skazania je za wpis o skazaniu usuwa z rejestru skaza nych.
 
 **Art. 107.**
 
-§ 1. W razie skazania na karę pozbawienia wolności wymienioną w art. 32 pkt 3 zatarcie skazania następuje z mocy prawa z upływem 10 lat od wykonania lub darowania kary albo od przedawnienia jej wykonania.
+§ 1. W razie skazania na pozbawienia wart. 32 pkt 3 lub 25 lat po zbawienia zatarcie skazania z mo cy prawa z 10 lat od wykonania lub darowa nia kary albo od przedawnienia jej wykonania. 2. na wniosek skazanego za tarcie skazania po 5 lat, skazany w tym okresie prawnego, a wy mierzona kara pozbawienia nie 3 lat. 3. W razie skazania na pozba wienia zatarcie skazania z mocy prawa z 10 lat od uznania jej za od darowania kary albo od przedawnienia jej wykona nia. 4. W razie skazania na albo ograni czenia zatarcie skazania z mocy prawa z 5 lat od wykonania lub darowania kary albo od przedawnienia jej wykonania; na wniosek skazanego zatarcie skazania po 3 lat. 5. W razie od wymierzenia kary, za tarcie skazania z mocy prawa z ro ku od wydania prawomocnego orzeczenia. 6. orzeczono karny, zatarcie skaza nia nie przed jego wykonaniem, daro waniem albo przedawnieniem jego wykonania, z za art. 76 2.
 
-§ 2. Sąd może na wniosek skazanego zarządzić zatarcie skazania już po upływie 5 lat, jeżeli skazany w tym okresie przestrzegał porządku prawnego, a wymierzona kara pozbawienia wolności nie przekraczała 3 lat.
+**Art. 108.** Jeżeli skazano za dwa lub nie w zbiegu jak skazany po lecz przed okresu wymaganego do zatarcia skazania ponownie dopuszczalne jest tylko jedno czesne zatarcie wszystkich XIII za za
 
-§ 3. W razie skazania na karę dożywotniego pozbawienia wolności zatarcie skazania następuje z mocy prawa z upływem 10 lat od darowania kary albo od przedawnienia jej wykonania.
-
-§ 4. W razie skazania na karę ograniczenia wolności zatarcie skazania następuje z mocy prawa z upływem 3 lat od wykonania lub darowania kary albo od przedawnienia jej wykonania.
-
-§ 4a. W razie skazania na grzywnę zatarcie skazania następuje z mocy prawa z upływem roku od wykonania lub darowania kary albo od przedawnienia jej wykonania.
-
-§ 5. W razie odstąpienia od wymierzenia kary, zatarcie skazania następuje z mocy prawa z upływem roku od wydania prawomocnego orzeczenia.
-
-§ 6. Jeżeli orzeczono środek karny, przepadek lub środek kompensacyjny, zatarcie skazania nie może nastąpić przed jego wykonaniem, darowaniem albo przedawnieniem jego wykonania. Zatarcie skazania nie może nastąpić również przed wykonaniem środka zabezpieczającego.
-
-**Art. 107a.** (uchylony)
-
-**Art. 108.** Jeżeli sprawcę skazano za dwa lub więcej nie pozostających w zbiegu przestępstw, jak również jeżeli skazany po rozpoczęciu, lecz przed upływem, okresu wymaganego do zatarcia skazania ponownie popełnił przestępstwo, dopuszczalne jest tylko jednoczesne zatarcie wszystkich skazań.
-
-#### Rozdział XIII Odpowiedzialność za przestępstwa popełnione za granicą
-
-**Art. 109.** Ustawę karną polską stosuje się do obywatela polskiego, który popełnił przestępstwo za granicą.
+**Art. 109.** Ustawę stosuje do obywa tela polskiego, który za
 
 **Art. 110.**
 
-§ 1. Ustawę karną polską stosuje się do cudzoziemca, który popełnił za granicą czyn zabroniony skierowany przeciwko interesom Rzeczypospolitej Polskiej, obywatela polskiego, polskiej osoby prawnej lub polskiej jednostki organizacyjnej niemającej osobowości prawnej oraz do cudzoziemca, który popełnił za granicą przestępstwo o charakterze terrorystycznym.
-
-§ 2. Ustawę karną polską stosuje się w razie popełnienia przez cudzoziemca za granicą czynu zabronionego innego niż wymieniony w § 1, jeżeli czyn zabroniony jest w ustawie karnej polskiej zagrożony karą przekraczającą 2 lata pozbawienia wolności, a sprawca przebywa na terytorium Rzeczypospolitej Polskiej i nie postanowiono go wydać.
+§ 1. stosuje do cu dzoziemca, który za skierowane przeciwko interesom Rzeczypospolitej Pol skiej, obywatela polskiego, polskiej osoby prawnej lub polskiej jednostki organizacyjnej nie osobo prawnej. 2. stosuje w razie nienia przez cudzoziemca za in nego wymienione w 1, jest w ustawie karnej polskiej 2 lata pozbawienia a sprawca przebywa na terytorium Rzeczypospolitej Polskiej i nie postano wiono go
 
 **Art. 111.**
 
-§ 1. Warunkiem odpowiedzialności za czyn popełniony za granicą jest uznanie takiego czynu za przestępstwo również przez ustawę obowiązującą w miejscu jego popełnienia.
+§ 1. Warunkiem za czyn za jest uznanie takiego czynu za przez w miejscu jego 2. a w miejscu czynu, te ce na sprawcy. 3. Warunek przewidziany w 1 nie ma zastosowa nia do polskiego funkcjonariusza publicznego, który za tam w z wykonywaniem swoich funkcji, ani do oso by, która w miejscu nie podle
 
-§ 2. Jeżeli zachodzą różnice między ustawą polską a ustawą obowiązującą w miejscu popełnienia czynu, stosując ustawę polską, sąd może uwzględnić te różnice na korzyść sprawcy.
+**Art. 112.** Niezależnie od przepisów w miejscu stosuje do obywatela polskiego oraz cudzo ziemca w razie
 
-§ 3. Warunek przewidziany w § 1 nie ma zastosowania do polskiego funkcjonariusza publicznego, który pełniąc służbę za granicą popełnił tam przestępstwo w związku z wykonywaniem swoich funkcji, ani do osoby, która popełniła przestępstwo w miejscu nie podlegającym żadnej władzy państwowej.
-
-**Art. 112.** Niezależnie od przepisów obowiązujących w miejscu popełnienia czynu zabronionego, ustawę karną polską stosuje się do obywatela polskiego oraz cudzoziemca w razie popełnienia:
-
-**Art. 112a.** Niezależnie od przepisów obowiązujących w miejscu popełnienia czynu zabronionego, ustawę karną polską stosuje się do obywatela polskiego oraz cudzoziemca w razie popełnienia przestępstwa przy użyciu systemu informatycznego, systemu teleinformatycznego lub sieci teleinformatycznej, jeżeli czyn ten na terytorium Rzeczypospolitej Polskiej wywołał lub mógł wywołać skutek naruszający interes państwa w zakresie ochrony niepodległości, integralności terytorialnej, bezpieczeństwa zewnętrznego i wewnętrznego, obronności, polityki zagranicznej, pozycji międzynarodowej lub potencjału naukowego lub gospodarczego.
-
-**Art. 113.** Niezależnie od przepisów obowiązujących w miejscu popełnienia przestępstwa, ustawę karną polską stosuje się do obywatela polskiego oraz cudzoziemca, którego nie postanowiono wydać, w razie popełnienia przez niego za granicą przestępstwa, do którego ścigania Rzeczpospolita Polska jest zobowiązana na mocy umowy międzynarodowej, lub przestępstwa określonego w Rzymskim Statucie Międzynarodowego Trybunału Karnego, sporządzonym w Rzymie dnia 17 lipca 1998 r. (Dz. U. z 2003 r. poz. 708 oraz z 2018 r. poz. 1753).
+**Art. 113.** Niezależnie od przepisów w miejscu stosuje do obywatela polskiego oraz cudzo ziemca, którego nie postanowiono w razie po przez niego za do któ rego Rzeczpospolita Polska jest na mocy umów
 
 **Art. 114.**
 
-§ 1. Orzeczenie zapadłe za granicą nie stanowi przeszkody do wszczęcia lub prowadzenia postępowania karnego o ten sam czyn zabroniony przed sądem polskim.
-
-§ 2. Sąd zalicza na poczet orzeczonej kary okres rzeczywistego pozbawienia wolności za granicą oraz wykonywaną tam karę, uwzględniając różnice zachodzące między tymi karami.
-
-§ 3. Przepisu § 1 nie stosuje się:
-
-- **1)** jeżeli wyrok skazujący zapadły za granicą został przejęty do wykonania na terytorium Rzeczypospolitej Polskiej, jak również wtedy, gdy orzeczenie zapadłe za granicą dotyczy przestępstwa, w związku z którym nastąpiło przekazanie ścigania lub wydanie sprawcy z terytorium Rzeczypospolitej Polskiej;
-- **2)** do orzeczeń międzynarodowych trybunałów karnych działających na podstawie wiążącego Rzeczpospolitą Polską prawa międzynarodowego;
-- **3)** do prawomocnych orzeczeń sądów lub innych organów państw obcych kończących postępowanie karne, jeżeli wynika to z wiążącej Rzeczpospolitą Polską umowy międzynarodowej.
-
-§ 4. Jeżeli nastąpiło przejęcie obywatela polskiego, skazanego prawomocnie przez sąd obcego państwa, do wykonania wyroku na terytorium Rzeczypospolitej Polskiej, sąd określa według polskiego prawa kwalifikację prawną czynu oraz podlegającą wykonaniu karę lub inny środek przewidziany w tej ustawie; podstawę określenia kary lub środka podlegającego wykonaniu stanowi wyrok wydany przez sąd państwa obcego, kara grożąca za taki czyn w polskim prawie, okres rzeczywistego pozbawienia wolności za granicą oraz wykonana tam kara lub inny środek, z uwzględnieniem różnic na korzyść skazanego.
-
-**Art. 114a.**
-
-§ 1. Wyrokiem skazującym jest również prawomocne orzeczenie skazujące za popełnienie przestępstwa wydane przez sąd właściwy w sprawach karnych w państwie członkowskim Unii Europejskiej, chyba że według ustawy karnej polskiej czyn nie stanowi przestępstwa, sprawca nie podlega karze albo orzeczono karę nieznaną ustawie.
-
-§ 2. W razie skazania przez sąd, o którym mowa w § 1, w sprawach:
-
-- **1)** stosowania nowej ustawy karnej, która weszła w życie po wydaniu wyroku skazującego,
-- **2)** zatarcia skazania – stosuje się ustawę obowiązującą w miejscu skazania. Przepisu art. 108 nie stosuje się.
-
-§ 3. Przepisu § 1 nie stosuje się, jeżeli informacje uzyskane z rejestru karnego lub od sądu państwa członkowskiego Unii Europejskiej nie są wystarczające do ustalenia skazania albo orzeczona kara podlega darowaniu w państwie, w którym nastąpiło skazanie.
-
-#### Rozdział XIV Objaśnienie wyrażeń ustawowych
+§ 1. Orzeczenie za nie sta nowi przeszkody do karnego o to samo przed polskim. 2. zalicza na poczet orzeczonej kary okres rze czywistego pozbawienia za oraz wy tam ce tymi karami. 3. Przepisu 1 nie stosuje wyrok skazu za do wykonania na terytorium Rzeczypospolitej Polskiej, jak wtedy, gdy orzeczenie za dotyczy prze w z którym przekazanie lub wydanie sprawcy z terytorium Rzeczypo spolitej Polskiej. 4. obywatela polskiego, skazanego prawomocnie przez obcego do wykonania wyroku na terytorium Rzeczypospolitej Polskiej, polskiego prawa kwalifi czynu oraz wykonaniu lub inny przewidziany w tej ustawie; kary lub wykonaniu stanowi wyrok wydany przez obcego, ka ra za taki czyn w polskim prawie, okres rzeczy wistego pozbawienia za oraz wyko nana tam kara lub inny z nic na skazanego. XIV ustawowych
 
 **Art. 115.**
 
-§ 1. Czynem zabronionym jest zachowanie o znamionach określonych w ustawie karnej.
+§ 1. Czynem zabronionym jest zachowanie o znamionach w ustawie karnej. 2. Przy ocenie stopnia czynu bierze pod rodzaj i charakter naruszo nego dobra, rozmiary lub szko dy, sposób i czynu, na ruszonych przez jak po zamiaru, sprawcy, rodzaj naruszonych i ich naruszenia. 3. podobnymi do tego samego rodzaju; z za stosowaniem przemocy lub jej albo w celu za podobne. 4. jest dla:
 
-§ 2. Przy ocenie stopnia społecznej szkodliwości czynu sąd bierze pod uwagę rodzaj i charakter naruszonego lub zagrożonego dobra, rozmiary wyrządzonej lub grożącej szkody, sposób i okoliczności popełnienia czynu, wagę naruszonych przez sprawcę obowiązków, jak również postać zamiaru, motywację sprawcy, rodzaj naruszonych reguł ostrożności i stopień ich naruszenia.
+- **1)** siebie,
+- **2)** innej osoby fizycznej lub prawnej,
+- **3)** jednostki organizacyjnej nie prawnej,
+- **4)** grupy osób 5. Mieniem znacznej jest mienie, które go w chwili czynu zabronionego przekracza dwustu mie wynagrodzenia. 6. Mieniem wielkiej jest mienie, którego w chwili czynu zabronionego przekracza mie wynagrodzenia. 7. Przepisy 5 i 6 stosuje do "znacz na szkoda" oraz "szkoda w wielkich rozmiarach". 8. wynagrodzeniem jest naj wynagrodzenie pracowników na podstawie Kodeksu pracy. 9. lub przedmiotem jest polski albo obcy lub inny oraz dokument do otrzymania sumy pie albo odsetek, w zyskach albo stwierdzenie uczest nictwa w 10. jest sprawca, który w chwili po czynu zabronionego nie 21 lat i w czasie orzekania w pierwszej instancji 24 lat. 11. jest powinowaty w tej samej linii lub stopniu, osoba w stosunku przysposobie nia oraz jej a osoba we wspólnym 12. jest zarówno o któ rej mowa wart. 190, jak i spowodowania powania karnego lub czci lub jego osoby nie stanowi spowodowania powania karnego, ma ona jedynie na celu ochro prawa naruszonego 13. Funkcjonariuszem publicznym jest:
+- **1)** Prezydent Rzeczypospolitej Polskiej,
+- **2)** senator, radny,
+- **3)** prokurator, notariusz, komornik, za wodowy kurator osoba w spra wach o wykroczenia lub w organach dyscyplinar nych na podstawie ustawy,
+- **4)** osoba pracownikiem administracji wej, innego organu lub terytorialnego, chyba a inna osoba w zakresie, w którym uprawniona jest do wydawania decyzji administra cyjnych,
+- **5)** osoba pracownikiem organu kontroli stwowej lub organu kontroli terytorial nego, chyba we,
+- **6)** osoba kierownicze stanowisko w innej instytucji
+- **7)** funkcjonariusz organu do ochrony publicznego albo funkcjonariusz
+- **8)** osoba 14. Dokumentem jest przedmiot lub zapis na komputerowym informacji, z którym jest prawo albo który ze na w nim stanowi dowód prawa, stosunku prawnego lub znaczenie praw ne. 15. W rozumieniu tego kodeksu za statek wodny na szelfie kontynentalnym. 16. Stan w rozumieniu tego kodek su zachodzi, gdy:
+- **1)** alkoholu we krwi przekracza 0,5 promila albo prowadzi do lub
+- **2)** alkoholu w 1 dm wydychanego powie trza przekracza 0,25 mg albo prowadzi do 17. Żołnierzem jest osoba pełniąca czynną służbę 18. Rozkazem jest polecenie nia lub zaniechania wydane przez lub uprawnionego star szego stopniem. XV Stosunek do ustaw szczególnych
 
-§ 3. Przestępstwami podobnymi są przestępstwa należące do tego samego rodzaju; przestępstwa z zastosowaniem przemocy lub groźby jej użycia albo przestępstwa popełnione w celu osiągnięcia korzyści majątkowej uważa się za przestępstwa podobne.
-
-§ 4. Korzyścią majątkową lub osobistą jest korzyść zarówno dla siebie, jak i dla kogo innego.
-
-§ 5. Mieniem znacznej wartości jest mienie, którego wartość w czasie popełnienia czynu zabronionego przekracza 200 000 złotych.
-
-§ 6. Mieniem wielkiej wartości jest mienie, którego wartość w czasie popełnienia czynu zabronionego przekracza 1 000 000 złotych.
-
-§ 7. Przepis § 5 stosuje się odpowiednio do określenia „znaczna szkoda” oraz określenia „wartość lub łączna wartość jest znaczna”.
-
-§ 7a. Przepis § 6 stosuje się odpowiednio do określenia „szkoda w wielkich rozmiarach”.
-
-§ 8. (uchylony) § 9. Rzeczą ruchomą lub przedmiotem jest także polski albo obcy pieniądz lub inny środek płatniczy, środek pieniężny zapisany na rachunku oraz dokument uprawniający do otrzymania sumy pieniężnej albo zawierający obowiązek wypłaty kapitału, odsetek, udziału w zyskach, albo stwierdzenie uczestnictwa w spółce.
-
-§ 9a. Kradzieżą szczególnie zuchwałą jest:
-
-- **1)** kradzież, której sprawca swoim zachowaniem wykazuje postawę lekceważącą lub wyzywającą wobec posiadacza rzeczy ruchomej lub innych osób lub używa przemocy innego rodzaju niż przemoc wobec osoby w celu zawładnięcia tą rzeczą;
-- **2)** kradzież rzeczy ruchomej znajdującej się bezpośrednio na osobie lub w noszonym przez nią ubraniu albo przenoszonej lub przemieszczanej przez tę osobę w warunkach bezpośredniego kontaktu lub znajdującej się w przedmiotach przenoszonych lub przemieszczanych w takich warunkach.
-
-§ 10. Młodocianym jest sprawca, który w chwili popełnienia czynu zabronionego nie ukończył 21 lat i w czasie orzekania w pierwszej instancji 24 lat.
-
-§ 11. Osobą najbliższą jest małżonek, wstępny, zstępny, rodzeństwo, powinowaty w tej samej linii lub stopniu, osoba pozostająca w stosunku przysposobienia oraz jej małżonek, a także osoba pozostająca we wspólnym pożyciu.
-
-§ 12. Groźbą bezprawną jest zarówno groźba, o której mowa w art. 190, jak i groźba spowodowania postępowania karnego lub innego postępowania, w którym może zostać nałożona administracyjna kara pieniężna, jak również rozgłoszenia wiadomości uwłaczającej czci zagrożonego lub jego osoby najbliższej; nie stanowi groźby zapowiedź spowodowania postępowania karnego lub innego postępowania, w którym może zostać nałożona administracyjna kara pieniężna, jeżeli ma ona jedynie na celu ochronę prawa naruszonego przestępstwem lub zachowaniem zagrożonym administracyjną karą pieniężną.
-
-§ 13. Funkcjonariuszem publicznym jest:
-
-- **1)** Prezydent Rzeczypospolitej Polskiej;
-- **2)** poseł, senator, radny;
-- **2a)** poseł do Parlamentu Europejskiego;
-- **3)** sędzia, ławnik, prokurator, funkcjonariusz finansowego organu postępowania przygotowawczego lub organu nadrzędnego nad finansowym organem postępowania przygotowawczego, notariusz, komornik, kurator sądowy, syndyk, nadzorca sądowy i zarządca, osoba orzekająca w organach dyscyplinarnych działających na podstawie ustawy;
-- **4)** osoba będąca pracownikiem administracji rządowej, innego organu państwowego lub samorządu terytorialnego, chyba że pełni wyłącznie czynności usługowe, a także inna osoba w zakresie, w którym uprawniona jest do wydawania decyzji administracyjnych;
-- **5)** osoba będąca pracownikiem organu kontroli państwowej lub organu kontroli samorządu terytorialnego, chyba że pełni wyłącznie czynności usługowe;
-- **6)** osoba zajmująca kierownicze stanowisko w innej instytucji państwowej;
-- **7)** funkcjonariusz organu powołanego do ochrony bezpieczeństwa publicznego albo funkcjonariusz Służby Więziennej;
-- **8)** osoba pełniąca czynną służbę wojskową, z wyjątkiem terytorialnej służby wojskowej pełnionej dyspozycyjnie;
-- **9)** pracownik międzynarodowego trybunału karnego, chyba że pełni wyłącznie czynności usługowe;
-- **10)** inspektor Inspekcji Wodnej.
-
-§ 14. Dokumentem jest każdy przedmiot lub inny zapisany nośnik informacji, z którym jest związane określone prawo, albo który ze względu na zawartą w nim treść stanowi dowód prawa, stosunku prawnego lub okoliczności mającej znaczenie prawne.
-
-§ 14a. Fakturą jest dokument, o którym mowa w art. 2 pkt 31 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2024 r. poz. 361, 852, 1473, 1721 i 1911 oraz z 2025 r. poz. 222).
-
-§ 15. W rozumieniu tego kodeksu za statek wodny uważa się także stałą platformę umieszczoną na szelfie kontynentalnym.
-
-§ 16. Stan nietrzeźwości w rozumieniu tego kodeksu zachodzi, gdy:
-
-- **1)** zawartość alkoholu we krwi przekracza 0,5 promila albo prowadzi do stężenia przekraczającego tę wartość lub
-- **2)** zawartość alkoholu w 1 dm wydychanego powietrza przekracza 0,25 mg albo prowadzi do stężenia przekraczającego tę wartość.
-
-§ 17. Żołnierzem jest osoba pełniąca czynną służbę wojskową, z wyjątkiem terytorialnej służby wojskowej pełnionej dyspozycyjnie.
-
-§ 18. Rozkazem jest polecenie określonego działania lub zaniechania wydane służbowo żołnierzowi przez przełożonego lub uprawnionego żołnierza starszego stopniem.
-
-§ 19. Osobą pełniącą funkcję publiczną jest funkcjonariusz publiczny, członek organu samorządowego, osoba zatrudniona w jednostce organizacyjnej dysponującej środkami publicznymi, chyba że wykonuje wyłącznie czynności usługowe, a także inna osoba, której uprawnienia i obowiązki w zakresie działalności publicznej są określone lub uznane przez ustawę lub wiążącą Rzeczpospolitą Polską umowę międzynarodową.
-
-§ 20. Przestępstwem o charakterze terrorystycznym jest czyn zabroniony zagrożony karą pozbawienia wolności, której górna granica wynosi co najmniej 5 lat, popełniony w celu:
-
-- **1)** poważnego zastraszenia wielu osób,
-- **2)** zmuszenia organu władzy publicznej Rzeczypospolitej Polskiej lub innego państwa albo organu organizacji międzynarodowej do podjęcia lub zaniechania określonych czynności,
-- **3)** wywołania poważnych zakłóceń w ustroju lub gospodarce Rzeczypospolitej Polskiej, innego państwa lub organizacji międzynarodowej – a także groźba popełnienia takiego czynu.
-
-§ 21. Występkiem o charakterze chuligańskim jest występek polegający na umyślnym zamachu na zdrowie, na wolność, na cześć lub nietykalność cielesną, na bezpieczeństwo powszechne, na działalność instytucji państwowych lub samorządu terytorialnego, na porządek publiczny, albo na umyślnym niszczeniu, uszkodzeniu lub czynieniu niezdatną do użytku cudzej rzeczy, jeżeli sprawca działa publicznie i bez powodu albo z oczywiście błahego powodu, okazując przez to rażące lekceważenie porządku prawnego.
-
-§ 22. Handlem ludźmi jest werbowanie, transport, dostarczanie, przekazywanie, przechowywanie lub przyjmowanie osoby z zastosowaniem:
-
-- **1)** przemocy lub groźby bezprawnej,
-- **2)** uprowadzenia,
-- **3)** podstępu,
-- **4)** wprowadzenia w błąd albo wyzyskania błędu lub niezdolności do należytego pojmowania przedsiębranego działania,
-- **5)** nadużycia stosunku zależności, wykorzystania krytycznego położenia lub stanu bezradności,
-- **6)** udzielenia albo przyjęcia korzyści majątkowej lub osobistej albo jej obietnicy osobie sprawującej opiekę lub nadzór nad inną osobą – w celu jej wykorzystania, nawet za jej zgodą, w szczególności w prostytucji, pornografii lub innych formach seksualnego wykorzystania, w pracy lub usługach o charakterze przymusowym, w żebractwie, w niewolnictwie lub innych formach wykorzystania poniżających godność człowieka albo w celu pozyskania komórek, tkanek lub narządów wbrew przepisom ustawy. Jeżeli zachowanie sprawcy dotyczy małoletniego, stanowi ono handel ludźmi, nawet gdy nie zostały użyte metody lub środki wymienione w pkt 1–6.
-
-§ 22a. Adopcją jest nabycie władzy rodzicielskiej nad dzieckiem przez inną osobę niż ta, od której dziecko pochodzi.
-
-§ 23. Niewolnictwo jest stanem zależności, w którym człowiek jest traktowany jak przedmiot własności.
-
-§ 24. Przy ocenie rozmiaru działalności przedsiębiorstwa sąd bierze pod uwagę wartość przedsiębiorstwa.
-
-§ 25. Przez koszty inne niż odsetki należy rozumieć:
-
-- **1)** marże, prowizje lub opłaty związane z przygotowaniem umowy, z której wynika udzielenie świadczenia pieniężnego, lub umowy związanej z udzieleniem tego świadczenia lub obsługą tych umów albo inne tego rodzaju koszty,
-- **2)** opłaty związane z odroczeniem terminu zwrotu udzielonego świadczenia pieniężnego, jego nieterminową spłatą albo inne tego rodzaju koszty,
-- **3)** koszty usług dodatkowych, w szczególności koszty ubezpieczeń, koszty związane z ustanowieniem zabezpieczenia zwrotu świadczenia pieniężnego, koszty pozyskiwania informacji związanych z udzielaniem świadczenia pieniężnego, w przypadku gdy ich poniesienie jest niezbędne do zawarcia umów, o których mowa w pkt 1,
-- **4)** wynagrodzenie osoby, która reprezentowała osobę udzielającą świadczenia pieniężnego przy zawarciu umów, o których mowa w pkt 1, lub za której pośrednictwem udzielający świadczenia zawarł te umowy lub udzielił tego świadczenia, bezpośrednio ponoszone przez osobę, na rzecz której udzielono świadczenia – z wyłączeniem opłat notarialnych oraz danin o charakterze publicznoprawnym, które strony umów, o których mowa w pkt 1, są zobowiązane ponieść w związku z zawarciem tych umów.
-
-§ 26. Nielegalnym wyścigiem pojazdów mechanicznych jest:
-
-- **1)** rywalizacja kierujących co najmniej dwoma pojazdami mechanicznymi w ruchu lądowym, w szczególności z zamiarem pokonania odcinka drogi w jak najkrótszym czasie, z naruszeniem zasad bezpieczeństwa w ruchu lądowym, lub
-- **2)** celowe wprowadzenie pojazdu mechanicznego w poślizg lub celowe doprowadzenie do utraty styczności z nawierzchnią chociażby jednego z kół pojazdu mechanicznego, wykonane w trakcie spotkania zorganizowanego na otwartej lub ogólnodostępnej przestrzeni – odbywające się bez wymaganego zezwolenia.
-
-#### Rozdział XV Stosunek do ustaw szczególnych
-
-**Art. 116.** Przepisy części ogólnej tego kodeksu stosuje się do innych ustaw przewidujących odpowiedzialność karną, chyba że ustawy te wyraźnie wyłączają ich zastosowanie.
+**Art. 116.** Przepisy ogólnej tego kodeksu sto suje do innych ustaw odpowie chyba ustawy te ich zastosowanie.
 
 ## CZĘŚĆ SZCZEGÓLNA
 
-#### Rozdział XVI Przestępstwa przeciwko pokojowi, ludzkości oraz przestępstwa wojenne
+#### Rozdział XVI Przestępstwa przeciwko pokojowi, oraz wojenne
 
 **Art. 117.**
 
-§ 1. Kto wszczyna lub prowadzi wojnę napastniczą, podlega karze pozbawienia wolności na czas nie krótszy od lat 12 albo karze dożywotniego pozbawienia wolności.
-
-§ 2. (uchylony) § 3. Kto publicznie nawołuje do wszczęcia wojny napastniczej lub publicznie pochwala wszczęcie lub prowadzenie takiej wojny, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
+§ 1. Kto wszczyna lub prowadzi napodlega karze pozbawienia na czas nie krótszy od lat 12, karze 251at pozbawienia albo karze pozbawienia 2. Kto czyni przygotowania do przew 1, podlega karze pozbawienia na czas nie krótszy od lat 3. 3. Kto publicznie do wojny napastniczej, podlega karze pozbawienia od 3 do lat 5.
 
 **Art. 118.**
 
-§ 1. Kto, w celu wyniszczenia w całości albo w części grupy narodowej, etnicznej, rasowej, politycznej, wyznaniowej lub grupy o określonym światopoglądzie, dopuszcza się zabójstwa albo powoduje ciężki uszczerbek na zdrowiu osoby należącej do takiej grupy, podlega karze pozbawienia wolności na czas nie krótszy od lat 12 albo karze dożywotniego pozbawienia wolności.
-
-§ 2. Kto, w celu określonym w § 1, stwarza dla osób należących do takiej grupy warunki życia grożące jej biologicznym wyniszczeniem, stosuje środki mające służyć do wstrzymania urodzeń w obrębie grupy lub przymusowo odbiera dzieci osobom do niej należącym, podlega karze pozbawienia wolności od lat 5 do 25.
-
-§ 3. (uchylony)
-
-**Art. 118a.**
-
-§ 1. Kto, biorąc udział w masowym zamachu lub choćby w jednym z powtarzających się zamachów skierowanych przeciwko grupie ludności podjętych w celu wykonania lub wsparcia polityki państwa lub organizacji:
-
-- **1)** dopuszcza się zabójstwa,
-- **2)** powoduje ciężki uszczerbek na zdrowiu człowieka,
-- **3)** stwarza dla osób należących do grupy ludności warunki życia grożące ich biologicznej egzystencji, w szczególności przez pozbawienie dostępu do żywności lub opieki medycznej, które są obliczone na ich wyniszczenie, podlega karze pozbawienia wolności na czas nie krótszy od lat 12 albo karze dożywotniego pozbawienia wolności.
-
-§ 2. Kto, biorąc udział w masowym zamachu lub choćby w jednym z powtarzających się zamachów skierowanych przeciwko grupie ludności podjętych w celu wykonania lub wsparcia polityki państwa lub organizacji:
-
-- **1)** powoduje oddanie osoby w stan niewolnictwa lub utrzymuje ją w tym stanie,
-- **2)** pozbawia osobę wolności na czas przekraczający 7 dni lub ze szczególnym udręczeniem,
-- **3)** stosuje tortury lub poddaje osobę okrutnemu lub nieludzkiemu traktowaniu,
-- **4)** dopuszcza się zgwałcenia albo stosując przemoc, groźbę bezprawną lub podstęp w inny sposób narusza wolność seksualną osoby,
-- **5)** stosując przemoc lub groźbę bezprawną powoduje zajście przez kobietę w ciążę w zamiarze wpłynięcia na skład etniczny grupy ludności lub dokonania innych poważnych naruszeń prawa międzynarodowego,
-- **6)** pozbawia osobę wolności i odmawia udzielenia informacji dotyczących tej osoby lub miejsca jej pobytu lub przekazuje nieprawdziwe informacje dotyczące tej osoby lub miejsca jej pobytu, w zamiarze pozbawienia takiej osoby ochrony prawnej przez dłuższy okres, podlega karze pozbawienia wolności od lat 5 do 25.
-
-§ 3. Kto, biorąc udział w masowym zamachu lub choćby w jednym z powtarzających się zamachów skierowanych przeciwko grupie ludności podjętych w celu wykonania lub wsparcia polityki państwa lub organizacji:
-
-- **1)** naruszając prawo międzynarodowe zmusza osoby do zmiany ich zgodnego z prawem miejsca zamieszkania,
-- **2)** dopuszcza się poważnego prześladowania grupy ludności z powodów uznanych za niedopuszczalne na podstawie prawa międzynarodowego, w szczególności politycznych, rasowych, narodowych, etnicznych, kulturowych, wyznaniowych lub z powodu bezwyznaniowości, światopoglądu lub płci, powodując pozbawienie praw podstawowych, podlega karze pozbawienia wolności od lat 3 do 20.
+§ 1. Kto, w celu wyniszczenia w al bo w grupy narodowej, etnicznej, rasowej, poli tycznej, wyznaniowej lub grupy o dopuszcza zabójstwa albo powoduje uszczerbek na zdrowiu osoby do takiej grupy, podlega karze pozbawienia na czas nie krótszy od lat 12, karze 251at pozbawienia albo karze pozbawienia 2. Kto, w celu w 1, stwarza dla osób do takiej grupy warunki jej biologicznym wyniszczeniem, stosuje do wstrzymania w grupy lub przymusowo odbiera dzieci osobom do niej cym, podlega karze pozbawienia na czas nie krótszy od lat 5 albo karze 25 lat pozbawienia wol 3. Kto czyni przygotowania do okrew 1 lub 2, podlega karze pozbawienia na czas nie krótszy od lat 3.
 
 **Art. 119.**
 
-§ 1. Kto stosuje przemoc lub groźbę bezprawną wobec grupy osób lub poszczególnej osoby z powodu jej przynależności narodowej, etnicznej, rasowej, politycznej, wyznaniowej lub z powodu jej bezwyznaniowości, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
+§ 1. Kto stosuje przemoc lub bez wobec grupy osób lub poszczególnej osoby z powodu jej narodowej, etnicznej, ra sowej, politycznej, wyznaniowej lub z powodu jej bez podlega karze pozbawienia od 3 do lat 5. 2. Tej samej karze podlega, kto publicznie nawo do w 1.
 
-§ 2. (uchylony)
-
-**Art. 120.** Kto stosuje środek masowej zagłady zakazany przez prawo międzynarodowe, podlega karze pozbawienia wolności na czas nie krótszy od lat 10 albo karze dożywotniego pozbawienia wolności.
+**Art. 120.** Kto stosuje masowej zakazany przez prawo podlega karze pozbawienia na czas nie krótszy od lat 10, karze 251at pozbawienia albo karze pozbawienia
 
 **Art. 121.**
 
-§ 1. Kto, wbrew zakazom prawa międzynarodowego lub przepisom ustawy, wytwarza, gromadzi, nabywa, zbywa, przechowuje, przewozi lub przesyła środki masowej zagłady lub środki walki bądź prowadzi badania mające na celu wytwarzanie lub stosowanie takich środków, podlega karze pozbawienia wolności od roku do lat 10.
+1. Kto, wbrew zakazom prawa narodowego lub przepisom ustawy, wytwarza, groma dzi, nabywa, zbywa, przechowuje, przewozi lub przesy masowej lub walki pro wadzi badania na celu wytwarzanie lub stoso wanie takich podlega karze pozbawienia od roku do lat 10.
 
-§ 2. Tej samej karze podlega, kto dopuszcza do popełnienia czynu określonego w § 1.
+2. Tej samej karze podlega, kto dopuszcza do po czynu w 1.
 
 **Art. 122.**
 
-§ 1. Kto w czasie działań zbrojnych atakuje miejscowość lub obiekt niebroniony, strefę sanitarną, zdemilitaryzowaną lub zneutralizowaną albo stosuje inny sposób walki zakazany przez prawo międzynarodowe, podlega karze pozbawienia wolności od lat 5 do 25.
+1. Kto w czasie zbrojnych ataku je lub obiekt nie broniony, sanitar lub albo stosuje inny sposób walki zakazany przez prawo podlega karze pozbawienia na czas nie krótszy od lat 5 albo karze 25 lat pozbawienia wol
 
-§ 2. Tej samej karze podlega, kto w czasie działań zbrojnych stosuje środek walki zakazany przez prawo międzynarodowe.
+2. Tej samej karze podlega, kto w czasie zbrojnych stosuje walki zakazany przez prawo
 
 **Art. 123.**
 
-§ 1. Kto, naruszając prawo międzynarodowe, dopuszcza się zabójstwa wobec:
+1. Kto, prawo we, dopuszcza zabójstwa wobec:
 
-- **1)** osób, które składając broń lub nie dysponując środkami obrony poddały się,
-- **2)** rannych, chorych, rozbitków, personelu medycznego lub osób duchownych,
-- **3)** jeńców wojennych,
-- **4)** ludności cywilnej obszaru okupowanego, zajętego lub na którym toczą się działania zbrojne, albo innych osób korzystających w czasie działań zbrojnych z ochrony międzynarodowej, podlega karze pozbawienia wolności na czas nie krótszy od lat 12 albo karze dożywotniego pozbawienia wolności.
+- **1)** osób, które lub nie kami obrony
+- **2)** rannych, chorych, rozbitków, personelu medyczne go lub osób duchownych,
+- **3)** wojennych, cywilnej obszaru okupowanego, lub na którym zbrojne, albo in nych osób w czasie zbroj nych z ochrony podlega karze pozbawienia na czas nie krótszy od lat 12, karze 25 lat pozbawienia wolno albo karze pozbawienia wolno
 
-§ 2. Kto, naruszając prawo międzynarodowe, powoduje u osób wymienionych w § 1 ciężki uszczerbek na zdrowiu, poddaje te osoby torturom, okrutnemu lub nieludzkiemu traktowaniu, dokonuje na nich, nawet za ich zgodą, eksperymentów poznawczych, używa ich do ochraniania swoją obecnością określonego terenu lub obiektu przed działaniami zbrojnymi albo własnych oddziałów lub zatrzymuje jako zakładników, podlega karze pozbawienia wolności od lat 5 do 25.
+2. Kto, prawo po woduje u osób wymienionych w 1 uszczerbek na zdrowiu, poddaje te osoby torturom, okrutnemu lub nieludzkiemu traktowaniu, dokonuje na nich, nawet za ich eksperymentów poznawczych, ich do ochraniania terenu lub obiektu przed zbrojnymi albo lub zatrzymuje jako podlega karze pozbawienia na czas nie krótszy od lat 5 albo karze 25 lat pozbawienia wol
 
-**Art. 124.**
-
-§ 1. Kto, naruszając prawo międzynarodowe, zmusza osoby wymienione w art. 123 § 1 do służby w nieprzyjacielskich siłach zbrojnych lub do uczestnictwa w działaniach zbrojnych skierowanych przeciwko własnemu krajowi, stosuje kary cielesne, przemocą, groźbą bezprawną lub podstępem doprowadza te osoby do obcowania płciowego, poddania się innej czynności seksualnej albo do wykonania takiej czynności, dopuszcza się zamachu na godność osobistą, w szczególności poniżającego i upokarzającego traktowania, pozbawia wolności, pozbawia prawa do niezawisłego i bezstronnego sądu albo ogranicza prawo tych osób do obrony w postępowaniu karnym, ogłasza prawa lub roszczenia obywateli strony przeciwnej za wygasłe, zawieszone lub niedopuszczalne do dochodzenia przed sądem, podlega karze pozbawienia wolności od lat 3 do 20.
-
-§ 2. Tej samej karze podlega, kto, naruszając prawo międzynarodowe, opóźnia repatriację jeńców wojennych lub osób cywilnych, dokonuje przemieszczenia, przesiedlenia lub deportacji ludności cywilnej, wciela, werbuje do sił zbrojnych osoby poniżej 18 roku życia lub faktycznie używa takich osób w działaniach zbrojnych.
+**Art. 124.** Kto, prawo zmusza osoby wymienione wart. 123 1 do w nieprzyjacielskich zbrojnych, przesiedla je, stosuje kary cielesne, pozbawia lub prawa do i bezstronnego albo ogranicza ich prawo do obrony w karnym, podlega karze pozbawienia na czas nie krótszy od lat 3.
 
 **Art. 125.**
 
-§ 1. Kto, na obszarze okupowanym, zajętym lub na którym toczą się działania zbrojne, naruszając prawo międzynarodowe, niszczy, uszkadza, zabiera lub przywłaszcza mienie albo dobro kultury, podlega karze pozbawienia wolności od roku do lat 10.
+1. Kto, na obszarze okupowanym, tym lub na którym zbrojne, narusza prawo niszczy, uszkadza lub za biera dobro kultury, podlega karze pozbawienia od roku do lat 10.
 
-§ 2. Jeżeli czyn dotyczy mienia znacznej wartości albo dobra o szczególnym znaczeniu dla kultury, sprawca podlega karze pozbawienia wolności od lat 3 do 20.
+2. czyn dotyczy dobra szczególne znaczenie dla kultury, sprawca podlega karze pozbawienia na czas nie krótszy od lat 3.
 
 **Art. 126.**
 
-§ 1. Kto w czasie działań zbrojnych używa niezgodnie z prawem międzynarodowym znaku Czerwonego Krzyża lub Czerwonego Półksiężyca, podlega karze pozbawienia wolności do lat 3.
-
-§ 2. Tej samej karze podlega, kto w czasie działań zbrojnych używa niezgodnie z prawem międzynarodowym znaku ochronnego dla dóbr kultury lub innego znaku chronionego przez prawo międzynarodowe albo posługuje się flagą państwową lub odznaką wojskową nieprzyjaciela, państwa neutralnego albo organizacji lub komisji międzynarodowej.
-
-**Art. 126a.** Kto publicznie nawołuje do popełnienia czynu określonego w art. 118, 118a, 119 § 1, art. 120–125 lub publicznie pochwala popełnienie czynu określonego w tych przepisach, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
-
-**Art. 126b.**
-
-§ 1. Kto, nie dopełniając obowiązku należytej kontroli, dopuszcza do popełnienia czynu określonego w art. 117 § 3, art. 118, 118a, 119 § 1, art. 120–126a przez osobę pozostającą pod jego faktyczną władzą lub kontrolą, podlega karze określonej w tych przepisach.
-
-§ 2. Jeżeli sprawca działa nieumyślnie, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
-
-**Art. 126c.**
-
-§ 1. Kto czyni przygotowania do przestępstwa określonego w art. 117, art. 118 lub art. 120, podlega karze pozbawienia wolności od lat 3 do 20.
-
-§ 2. Kto czyni przygotowania do przestępstwa określonego w art. 118a § 1 lub § 2, art. 122 lub art. 123, podlega karze pozbawienia wolności od roku do lat 10.
-
-§ 3. Kto czyni przygotowania do przestępstwa określonego w art. 124 § 1 lub art. 125, podlega karze pozbawienia wolności do lat 3.
-
-#### Rozdział XVII Przestępstwa przeciwko Rzeczypospolitej Polskiej
+§ 1. Kto w czasie zbrojnych niezgodnie z prawem znaku Czer wonego lub Czerwonego podlega karze pozbawienia do lat 3. 2. Tej samej karze podlega, kto w czasie zbrojnych niezgodnie z prawem wym znaku ochronnego dla dóbr kultury lub innego znaku chronionego przez prawo albo lub nieprzyjaciela, neutralnego albo organizacji lub komisji XVII przeciwko Rzeczypospolitej Polskiej
 
 **Art. 127.**
 
-§ 1. Kto, mając na celu pozbawienie niepodległości, oderwanie części obszaru lub zmianę przemocą konstytucyjnego ustroju Rzeczypospolitej Polskiej, podejmuje w porozumieniu z innymi osobami działalność zmierzającą bezpośrednio do urzeczywistnienia tego celu, podlega karze pozbawienia wolności na czas nie krótszy od lat 10 albo karze dożywotniego pozbawienia wolności.
+1. Kto, na celu pozbawienie nie oderwanie obszaru lub konstytucyjnego ustroju Rzeczypospolitej Dziennik Ustaw Nr 88 - 2692- Poz. 553 Polskiej, podejmuje w porozumieniu z innymi osobami do urzeczywist nienia tego celu, podlega karze pozbawienia na czas nie krótszy od lat 10, karze 251at pozbawienia albo karze pozbawienia
 
-§ 2. Kto czyni przygotowania do popełnienia przestępstwa określonego w § 1, podlega karze pozbawienia wolności od lat 3 do 20.
+2. Kto czyni przygotowania do przew 1, podlega karze pozbawienia na czas nie krótszy od lat 3.
 
 **Art. 128.**
 
-§ 1. Kto, w celu usunięcia przemocą konstytucyjnego organu Rzeczypospolitej Polskiej, podejmuje działalność zmierzającą bezpośrednio do urzeczywistnienia tego celu, podlega karze pozbawienia wolności od lat 3 do 20.
+§ 1. Kto, w celu kon stytucyjnego organu Rzeczypospolitej Polskiej, podej muje do urze czywistnienia tego celu, podlega karze pozbawienia na czas nie krótszy od lat 3. 2. Kto czyni przygotowania do prze w 1, podlega karze pozbawienia od 3 do lat 5. 3. Kto lub wywiera na konstytucyjnego orga nu Rzeczypospolitej Polskiej, podlega karze pozbawienia od roku do lat 10.
 
-§ 2. Kto czyni przygotowania do popełnienia przestępstwa określonego w § 1, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
-
-§ 3. Kto przemocą lub groźbą bezprawną wywiera wpływ na czynności urzędowe konstytucyjnego organu Rzeczypospolitej Polskiej, podlega karze pozbawienia wolności od roku do lat 10.
-
-**Art. 129.** Kto, będąc upoważniony do występowania w imieniu Rzeczypospolitej Polskiej w stosunkach z rządem obcego państwa lub zagraniczną organizacją, działa na szkodę Rzeczypospolitej Polskiej, podlega karze pozbawienia wolności od roku do lat 10.
+**Art. 129.** Kto, do nia w imieniu Rzeczypospolitej Polskiej w stosunkach z obcego lub na Rzeczypospolitej Polskiej, podlega karze pozbawienia od roku do lat 10.
 
 **Art. 130.**
 
-§ 1. Kto bierze udział w działalności obcego wywiadu albo działa na jego rzecz, przeciwko Rzeczypospolitej Polskiej, podlega karze pozbawienia wolności na czas nie krótszy od lat 5.
-
-§ 2. Kto, biorąc udział w działalności obcego wywiadu albo działając na jego rzecz, udziela temu wywiadowi wiadomości, której przekazanie może wyrządzić szkodę Rzeczypospolitej Polskiej, podlega karze pozbawienia wolności na czas nie krótszy od lat 8 albo karze dożywotniego pozbawienia wolności.
-
-§ 3. Kto zgłasza gotowość działania na rzecz obcego wywiadu przeciwko Rzeczypospolitej Polskiej albo w celu udzielenia obcemu wywiadowi wiadomości, których przekazanie może wyrządzić szkodę Rzeczypospolitej Polskiej, gromadzi je lub przechowuje lub wchodzi do systemu informatycznego w celu ich uzyskania, podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
-
-§ 4. Kto działalność obcego wywiadu, o której mowa w § 1, organizuje lub nią kieruje, podlega karze pozbawienia wolności na czas nie krótszy od lat 10 albo karze dożywotniego pozbawienia wolności.
-
-§ 5. Funkcjonariusz publiczny oraz osoba pełniąca dyspozycyjnie terytorialną służbę wojskową, dopuszczający się czynu, o którym mowa w § 1, podlega karze pozbawienia wolności na czas nie krótszy od lat 8 albo karze dożywotniego pozbawienia wolności.
-
-§ 6. Kto bierze udział w działalności obcego wywiadu nieskierowanej przeciwko Rzeczypospolitej Polskiej prowadzonej na jej terytorium bez zgody właściwego organu udzielonej na podstawie odrębnych przepisów, podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
-
-§ 7. Kto, biorąc udział w działalności obcego wywiadu albo działając na jego rzecz, dokonuje dywersji, sabotażu lub dopuszcza się przestępstwa o charakterze terrorystycznym, podlega karze pozbawienia wolności na czas nie krótszy od lat 10 albo karze dożywotniego pozbawienia wolności.
-
-§ 8. Kto czyni przygotowania do przestępstwa określonego w § 7, podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
-
-§ 9. Kto, biorąc udział w działalności obcego wywiadu albo działając na jego rzecz, prowadzi dezinformację, polegającą na rozpowszechnianiu nieprawdziwych lub wprowadzających w błąd informacji, mając na celu wywołanie poważnych zakłóceń w ustroju lub gospodarce Rzeczypospolitej Polskiej, państwa sojuszniczego lub organizacji międzynarodowej, której członkiem jest Rzeczpospolita Polska albo skłonienie organu władzy publicznej Rzeczypospolitej Polskiej, państwa sojuszniczego lub organizacji międzynarodowej, której członkiem jest Rzeczpospolita Polska, do podjęcia lub zaniechania określonych czynności, podlega karze pozbawienia wolności na czas nie krótszy od lat 8.
+§ 1. Kto bierze w obce go wywiadu przeciwko Rzeczypospolitej Polskiej, podlega karze pozbawienia od roku do lat 10. 2. Kto, w obcym wywiadzie albo na jego rzecz, udziela temu wywiadowi wia których przekazanie Rzeczypospolitej Polskiej, podlega karze pozbawienia na czas nie krótszy od lat 3. 3. Kto, w celu udzielenia obcemu wywiadowi w 2, gromadzi je lub prze chowuje, do sieci komputerowej w celu ich uzyskania albo na rzecz ob cego wywiadu przeciwko Rzeczypospolitej Polskiej, podlega karze pozbawienia od 6 do lat 8. 4. Kto obcego wywiadu organizuje lub kieruje, podlega karze pozbawienia na czas nie krótszy od lat 5 albo karze 25 lat pozbawienia wol
 
 **Art. 131.**
 
-§ 1. Nie podlega karze za usiłowanie przestępstwa określonego w art. 127 § 1, art. 128 § 1 lub art. 130 § 1, 2, 5, 7 i 9 kto dobrowolnie poniechał dalszej działalności i ujawnił wobec organu powołanego do ścigania przestępstw wszystkie istotne okoliczności popełnionego czynu; przepis art. 17 § 2 stosuje się odpowiednio.
+§ 1. Nie podlega karze za prze wart. 127 1, art. 128 1 lub wart. 130 1 lub 2, kto dobrowolnie dalszej i wobec organu do wszystkie istotne czynu; przepis art. 17 2 stosuje od powiednio. 2. Nie podlega karze za wart. 128 2, art. 129 lub wart. 130 3, kto dobrowol nie dalszej i istotne stara nia do zamierzo nego czynu zabronionego oraz wobec organu do wszystkie istotne czynu.
 
-§ 2. Nie podlega karze za przestępstwo określone w art. 128 § 2, art. 129 lub art. 130 § 3, 6 i 8, kto dobrowolnie poniechał dalszej działalności i podjął istotne starania zmierzające do zapobieżenia popełnieniu zamierzonego czynu zabronionego oraz ujawnił wobec organu powołanego do ścigania przestępstw wszystkie istotne okoliczności popełnionego czynu.
+**Art. 132.** Kto, wywiadowcze Rzeczy pospolitej Polskiej, wprowadza w polski organ przez dostarczanie podrobionych lub prze robionych dokumentów lub innych przedmiotów albo przez ukrywanie prawdziwych lub udzielanie wych istotne znaczenie dla Rze czypospolitej Polskiej, podlega karze pozbawienia od roku do lat 10.
 
-**Art. 132.** Kto, oddając usługi wywiadowcze Rzeczypospolitej Polskiej, wprowadza w błąd polski organ państwowy przez dostarczanie podrobionych lub przerobionych dokumentów lub innych przedmiotów albo przez ukrywanie prawdziwych lub udzielanie fałszywych wiadomości mających istotne znaczenie dla Rzeczypospolitej Polskiej, podlega karze pozbawienia wolności od roku do lat 10.
+**Art. 133.** Kto publicznie Naród lub Rzecz podlega karze pozbawienia do 3.
 
-**Art. 132a.** (utracił moc)
-
-**Art. 133.** Kto publicznie znieważa Naród lub Rzeczpospolitą Polską, podlega karze pozbawienia wolności do lat 3.
-
-**Art. 134.** Kto dopuszcza się zamachu na życie Prezydenta Rzeczypospolitej Polskiej, podlega karze pozbawienia wolności na czas nie krótszy od lat 12 albo karze dożywotniego pozbawienia wolności.
+**Art. 134.** Kto dopuszcza zamachu na Prezydenta Rzeczypospolitej Polskiej, podlega karze pozbawienia na czas nie krótszy od lat 12, karze 25 lat pozbawienia albo karze pozbawienia
 
 **Art. 135.**
 
-§ 1. Kto dopuszcza się czynnej napaści na Prezydenta Rzeczypospolitej Polskiej, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
-
-§ 2. Kto publicznie znieważa Prezydenta Rzeczypospolitej Polskiej, podlega karze pozbawienia wolności do lat 3.
+§ 1. Kto dopuszcza czynnej na Prezydenta Rzeczypospolitej Polskiej, podlega karze pozbawienia od 3 do lat 5. 2. Kto publicznie Prezydenta Rzeczypo spolitej Polskiej, podlega karze pozbawienia do lat 3.
 
 **Art. 136.**
 
-§ 1. Kto na terytorium Rzeczypospolitej Polskiej dopuszcza się czynnej napaści na głowę obcego państwa lub akredytowanego szefa przedstawicielstwa dyplomatycznego takiego państwa albo osobę korzystającą z podobnej ochrony na mocy ustaw, umów lub powszechnie uznanych zwyczajów międzynarodowych, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
-
-§ 2. Kto na terytorium Rzeczypospolitej Polskiej dopuszcza się czynnej napaści na osobę należącą do personelu dyplomatycznego przedstawicielstwa obcego państwa albo urzędnika konsularnego obcego państwa, w związku z pełnieniem przez nich obowiązków służbowych, podlega karze pozbawienia wolności do lat 3.
-
-§ 3. Karze określonej w § 2 podlega, kto na terytorium Rzeczypospolitej Polskiej publicznie znieważa osobę określoną w § 1.
-
-§ 4. Kto na terytorium Rzeczypospolitej Polskiej publicznie znieważa osobę określoną w § 2, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
+§ 1. Kto na terytorium Rzeczypospolitej Pol skiej dopuszcza czynnej na obcego lub akredytowanego szefa przedstawicielstwa dyplomatycznego takiego albo korzy z podobnej ochrony na mocy ustaw, umów lub powszechnie uznanych zwyczajów podlega karze pozbawienia od 3 do lat 5. 2. Kto na terytorium Rzeczypospolitej Polskiej do puszcza czynnej na do per sonelu dyplomatycznego przedstawicielstwa obcego albo konsularnego obcego stwa, w z przez nich podlega karze pozbawienia do lat 3. 3. Karze w 2 podlega, kto na teryto rium Rzeczypospolitej Polskiej publicznie w 1. 4. Kto na terytorium Rzeczypospolitej Polskiej publicznie w 2, podlega grzywnie, karze ograniczenia al bo pozbawienia do roku.
 
 **Art. 137.**
 
-§ 1. Kto publicznie znieważa, niszczy, uszkadza lub usuwa godło, sztandar, chorągiew, banderę, flagę lub inny znak państwowy, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
-
-§ 2. Tej samej karze podlega, kto na terytorium Rzeczypospolitej Polskiej znieważa, niszczy, uszkadza lub usuwa godło, sztandar, chorągiew, banderę, flagę lub inny znak państwa obcego, wystawione publicznie przez przedstawicielstwo tego państwa lub na zarządzenie polskiego organu władzy.
+§ 1. Kto publicznie niszczy, uszkadza lub usuwa sztandar, ban lub inny znak podlega grzywnie, karze ograniczenia al bo pozbawienia do roku. 2. Tej samej karze podlega, kto na terytorium Rze czypospolitej Polskiej niszczy, uszkadza lub usuwa sztandar, lub inny znak obcego, wystawione publicznie przez przedstawicielstwo tego lub na dzenie polskiego organu
 
 **Art. 138.**
 
-§ 1. Przepisy art. 136 oraz 137 § 2 stosuje się, jeżeli państwo obce zapewnia wzajemność.
+§ 1. Przepisy art. 136 oraz 137 2 stosuje obce zapewnia 2. Przepisy art. 127, 128, 130 oraz 131 stosuje odpowiednio, czyn zabroniony na sojuszniczego, a to zapewnia
 
-§ 2. Przepisy art. 127, 128, 130 oraz 131 stosuje się odpowiednio, jeżeli czyn zabroniony popełniono na szkodę państwa sojuszniczego, a państwo to zapewnia wzajemność.
-
-**Art. 139.** W sprawie o przestępstwo określone w art. 127, art. 128 oraz art. 130 sąd może orzec przepadek przedmiotów również wtedy, gdy przedmioty nie stanowią własności sprawcy.
-
-#### Rozdział XVIII Przestępstwa przeciwko obronności
+**Art. 139.** W sprawie o wart. 127, 128 oraz 130 orzec przepadek, o którym mowa wart. 39 pkt 4, wtedy, gdy przedmioty nie sprawcy. XVIII przeciwko
 
 **Art. 140.**
 
-§ 1. Kto, w celu osłabienia mocy obronnej Rzeczypospolitej Polskiej, dopuszcza się gwałtownego zamachu na jednostkę Sił Zbrojnych Rzeczypospolitej Polskiej, niszczy lub uszkadza obiekt albo urządzenie o znaczeniu obronnym, podlega karze pozbawienia wolności od roku do lat 10.
-
-§ 2. Jeżeli następstwem czynu jest śmierć człowieka lub ciężki uszczerbek na zdrowiu wielu osób, sprawca podlega karze pozbawienia wolności od lat 2 do 15.
-
-§ 3. Kto czyni przygotowania do przestępstwa określonego w § 1, podlega karze pozbawienia wolności do lat 3.
-
-§ 4. W sprawie o przestępstwo określone w § 1–3 sąd może orzec przepadek przedmiotów również wtedy, gdy przedmioty nie stanowią własności sprawcy.
+§ 1. Kto, w celu mocy obronnej Rzeczypospolitej Polskiej, dopuszcza zamachu na Zbrojnych Rzeczypospolitej Polskiej, niszczy lub uszkadza obiekt albo o znaczeniu obronnym, podlega karze pozbawienia od roku do lat 10. 2. czynu jest ka lub uszczerbek na zdrowiu wielu osób, spraw ca podlega karze pozbawienia od lat 2 do 12. 3. Kto czyni przygotowania do okre w 1, podlega karze pozbawienia do lat 3. 4. W sprawie o w 1-3 orzec przepadek, o którym mowa wart. 39 pkt 4, wtedy, gdy przedmioty nie sprawcy.
 
 **Art. 141.**
 
-§ 1. Kto, będąc obywatelem polskim, przyjmuje bez zgody właściwego organu obowiązki wojskowe w obcym wojsku lub w obcej organizacji wojskowej, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
-
-§ 2. Kto przyjmuje obowiązki w zakazanej przez prawo międzynarodowe wojskowej służbie najemnej, podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
-
-§ 3. Nie popełnia przestępstwa określonego w § 1 obywatel polski będący równocześnie obywatelem innego państwa, jeżeli zamieszkuje na jego terytorium i pełni tam służbę wojskową.
+§ 1. Kto, obywatelem polskim, przyjmuje bez zgody organu wojskowe w obcym wojsku lub w obcej organizacji wojskowej, podlega karze pozbawienia od 3 do lat 5. 2. Kto przyjmuje w zakazanej przez pra wo wojskowej najemnej, podlega karze pozbawienia od 6 do lat 8. 3. Nie w 1 obywatel polski obywatelem in nego zamieszkuje na jego terytorium i tam
 
 **Art. 142.**
 
-§ 1. Kto, wbrew przepisom ustawy, prowadzi zaciąg obywateli polskich lub przebywających w Rzeczypospolitej Polskiej cudzoziemców do służby wojskowej w obcym wojsku lub w obcej organizacji wojskowej, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
-
-§ 2. Kto prowadzi zaciąg obywateli polskich lub przebywających w Rzeczypospolitej Polskiej cudzoziemców do służby w zakazanej przez prawo międzynarodowe wojskowej służbie najemnej albo taką służbę najemną opłaca, organizuje, szkoli lub wykorzystuje, podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
+§ 1. Kto, wbrew przepisom ustawy, prowa dzi obywateli polskich lub w Rzeczypospolitej Polskiej cudzoziemców do wojskowej w obcym wojsku lub w obcej organizacji wojskowej, podlega karze pozbawienia od 3 do lat 5. 2. Kto prowadzi obywateli polskich lub w Rzeczypospolitej Polskiej cudzo ziemców do w zakazanej przez prawo rodowe wojskowej najemnej albo organizuje, szkoli lub wykorzystuje, podlega karze pozbawienia od 6 do lat 8.
 
 **Art. 143.**
 
-§ 1. Kto, w celu uzyskania zwolnienia od obowiązku służby wojskowej albo odroczenia tej służby, powoduje u siebie lub dopuszcza, by kto inny spowodował u niego skutek określony w art. 156 § 1 lub art. 157 § 1 albo w tym celu używa podstępu dla wprowadzenia w błąd właściwego organu, podlega karze pozbawienia wolności do lat 3.
-
-§ 2. Tej samej karze podlega, kto, w celu ułatwienia innej osobie zwolnienia od obowiązku służby wojskowej albo odroczenia tej służby, za jej zgodą powoduje u niej skutek określony w art. 156 § 1 lub art. 157 § 1 albo w tym celu używa podstępu dla wprowadzenia w błąd właściwego organu.
-
-§ 3. Kto dopuszcza się czynu zabronionego określonego w § 1 lub 2, jeżeli obowiązek dotyczy służby zastępującej służbę wojskową, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
+§ 1. Kto, w celu uzyskania zwolnienia od wojskowej albo odroczenia tej by, powoduje u siebie lub dopuszcza, by kto inny spo u niego skutek wart. 156 1 lub art. 157 1 albo w tym celu dla wpro wadzenia w organu, podlega karze pozbawienia do lat 3. 2. Tej samej karze podlega, kto, w celu innej osobie zwolnienia od wojsko wej albo odroczenia tej za jej powoduje u niej skutek wart. 156 1 lub art. 157 1 al bo w tym celu dla wprowadzenia w organu. 3. Kto dopuszcza czynu zabronionego nego w 1 lub 2, dotyczy za podlega grzywnie, karze ograniczenia al bo pozbawienia do lat 2.
 
 **Art. 144.**
 
-§ 1. Kto, będąc powołanym do pełnienia czynnej służby wojskowej, nie zgłasza się do odbywania tej służby w określonym terminie i miejscu, podlega karze pozbawienia wolności do lat 3.
-
-§ 2. W wypadku mniejszej wagi, sprawca podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
-
-§ 3. Kto nie zgłasza się do odbywania służby zastępującej służbę wojskową w warunkach określonych w § 1, podlega grzywnie albo karze ograniczenia wolności.
-
-**Art. 144a.**
-
-§ 1. Kto, będąc powołanym do pełnienia służby w obronie cywilnej, nie zgłasza się do odbywania tej służby w określonym terminie i miejscu, podlega karze pozbawienia wolności do lat 3.
-
-§ 2. W wypadku mniejszej wagi, sprawca podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
-
-**Art. 144b.**
-
-§ 1. Kto, odbywając służbę w obronie cywilnej, odmawia pełnienia tej służby, złośliwie lub uporczywie odmawia wykonania obowiązku wynikającego z tej służby albo polecenia w sprawach służbowych, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
-
-§ 2. Tej samej karze podlega, kto, pełniąc służbę określoną w § 1, samowolnie opuszcza wyznaczone miejsce wykonywania obowiązków służbowych lub samowolnie poza nim pozostaje.
-
-§ 3. Jeżeli sprawca czynu zabronionego określonego w § 2 opuszcza, w celu trwałego uchylenia się od tej służby, wyznaczone miejsce wykonywania obowiązków służbowych albo w takim celu poza nim pozostaje, podlega karze pozbawienia wolności do lat 3.
+§ 1. Kto, do czynnej wojskowej, nie do odbywa nia tej w terminie i miejscu, podlega karze pozbawienia do lat 3. 2. W wypadku mniejszej wagi, sprawca podlega grzywnie, karze ograniczenia al bo pozbawienia do roku. 3. Kto nie do odbywania w warunkach w 1, podlega grzywnie albo karze ograniczenia wolno
 
 **Art. 145.**
 
-§ 1. Kto, odbywając służbę zastępującą służbę wojskową:
+§ 1. Kto,
 
-- **1)** odmawia pełnienia tej służby, złośliwie lub uporczywie odmawia wykonania obowiązku wynikającego z tej służby albo polecenia w sprawach służbowych,
-- **2)** w celu częściowego lub zupełnego uchylenia się od tej służby albo wykonania obowiązku wynikającego z tej służby:
-    - **a)** powoduje u siebie lub dopuszcza, by kto inny spowodował u niego skutek określony w art. 156 § 1 lub art. 157 § 1,
-    - **b)** używa podstępu dla wprowadzenia w błąd przełożonego, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
+- **1)** odmawia tej lub upor czywie odmawia wykonania cego z tej albo polecenia w sprawach bowych, w celu lub uchylenia od tej albo wykonania go z tej 2. Tej samej karze podlega, kto, w 1, samowolnie opuszcza wyznaczone miejsce wykonywania lub sa mowolnie poza nim pozostaje. 3. sprawca czynu zabronionego go w 2 opuszcza, w celu uchylenia od tej wyznaczone miejsce wykonywania ków albo w takim celu poza nimi pozosta je, podlega karze pozbawienia do lat 3.
+    - **a)** powoduje u siebie lub dopuszcza, by kto inny u niego skutek wart. 156 1 lub art. 157 1,
+    - **b)** dla wprowadzenia w przepodlega grzywnie, karze ograniczenia al bo pozbawienia do lat 2.
 
-§ 2. Tej samej karze podlega, kto, pełniąc służbę określoną w § 1, samowolnie opuszcza wyznaczone miejsce wykonywania obowiązków służbowych lub samowolnie poza nim pozostaje.
+**Art. 146.** Jeżeli sprawca wart. 145 2 i 3 dobrowolnie a jego nieobec nie 14 dni, nadzwyczajne kary, a nawet od jej wymierzenia.
 
-§ 3. Jeżeli sprawca czynu zabronionego określonego w § 2 opuszcza, w celu trwałego uchylenia się od tej służby, wyznaczone miejsce wykonywania obowiązków służbowych albo w takim celu poza nimi pozostaje, podlega karze pozbawienia wolności do lat 3.
-
-**Art. 146.** Jeżeli sprawca przestępstwa określonego w art. 145 § 2 i 3 dobrowolnie powrócił, a jego nieobecność trwała nie dłużej niż 14 dni, sąd może zastosować nadzwyczajne złagodzenie kary, a nawet odstąpić od jej wymierzenia.
-
-**Art. 147.** W stosunku do sprawcy przestępstwa określonego w art. 143 § 1 lub w art. 144 lub 145, który w chwili czynu był niezdolny do pełnienia służby wojskowej, sąd może zastosować nadzwyczajne złagodzenie kary, a nawet odstąpić od jej wymierzenia.
-
-#### Rozdział XIX Przestępstwa przeciwko życiu i zdrowiu
+**Art. 147.** W stosunku do sprawcy wart. 143 1 lub wart. 144 lub 145, który w chwili czynu niezdolny do woj skowej, nadzwyczajne nie kary, a nawet od jej wymierzenia. XIX przeciwko i zdrowiu
 
 **Art. 148.**
 
-§ 1. Kto zabija człowieka, podlega karze pozbawienia wolności na czas nie krótszy od lat 10 albo karze dożywotniego pozbawienia wolności.
+§ 1. Kto zabija podlega karze pozbawienia na czas nie krótszy od lat 8, karze 25 lat pozbawienia albo karze pozbawienia 2. Kto zabija
 
-§ 2. Kto zabija człowieka:
+- **1)** ze szczególnym
+- **2)** w z al bo rozbojem,
+- **3)** w wyniku motywacji na szczególne
+- **4)** z broni palnej lub wybucho wych, podlega karze pozbawienia na czas nie krótszy od lat 12, karze 251at pozbawienia albo karze pozbawienia 3. Karze w 2 podlega, kto jednym czy nem zabija lub prawomocnie skazany za zabójstwo. 4. Kto zabija pod silnego wzburzenia usprawiedliwionego podlega karze pozbawienia od roku do lat 10.
 
-- **1)** ze szczególnym okrucieństwem,
-- **2)** w związku z wzięciem zakładnika, zgwałceniem albo rozbojem,
-- **3)** w wyniku motywacji zasługującej na szczególne potępienie,
-- **4)** z użyciem materiałów wybuchowych, podlega karze pozbawienia wolności na czas nie krótszy od lat 15 albo karze dożywotniego pozbawienia wolności.
-
-§ 3. Karze określonej w § 2 podlega, kto jednym czynem zabija więcej niż jedną osobę lub był wcześniej prawomocnie skazany za zabójstwo oraz sprawca zabójstwa funkcjonariusza publicznego popełnionego podczas lub w związku z pełnieniem przez niego obowiązków służbowych związanych z ochroną bezpieczeństwa ludzi lub ochroną bezpieczeństwa lub porządku publicznego.
-
-§ 4. Kto zabija człowieka pod wpływem silnego wzburzenia usprawiedliwionego okolicznościami, podlega karze pozbawienia wolności od roku do lat 10.
-
-§ 5. Kto czyni przygotowania do przestępstwa określonego w § 1, 2 lub 3, podlega karze pozbawienia wolności od lat 2 do 15.
-
-**Art. 148a.**
-
-§ 1. Kto przyjmuje zlecenie zabójstwa człowieka w zamian za udzieloną lub obiecaną korzyść majątkową lub osobistą, podlega karze pozbawienia wolności od lat 2 do 15.
-
-§ 2. Nie podlega karze za przestępstwo określone w § 1, kto przed wszczęciem postępowania karnego ujawnił wobec organu powołanego do ścigania przestępstw osobę lub osoby zlecające zabójstwo oraz istotne okoliczności popełnionego czynu.
-
-**Art. 149.** Matka, która zabija dziecko w okresie porodu pod wpływem jego przebiegu, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
+**Art. 149.** Matka, która zabija noworodka pod wem silnego z przebiegiem po rodu, znacznym dziecka lub ze szcze gólnie podlega karze pozbawienia od 3 do lat 5.
 
 **Art. 150.**
 
-§ 1. Kto zabija człowieka na jego żądanie i pod wpływem współczucia dla niego, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
+1. Kto zabija na jego i pod dla niego, podlega karze pozbawienia od 3 do lat 5.
 
-§ 2. W wyjątkowych wypadkach sąd może zastosować nadzwyczajne złagodzenie kary, a nawet odstąpić od jej wymierzenia.
+2. W wypadkach zastoso nadzwyczajne kary, a nawet od jej wymierzenia.
 
-**Art. 151.** Kto namową lub przez udzielenie pomocy doprowadza człowieka do targnięcia się na własne życie, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
+**Art. 151.** Kto lub przez udzielenie pomocy doprowadza do na cie, podlega karze pozbawienia od 3 do lat 5.
 
 **Art. 152.**
 
-§ 1. Kto za zgodą kobiety przerywa jej ciążę z naruszeniem przepisów ustawy, podlega karze pozbawienia wolności do lat 3.
+1. Kto za kobiety przerywa jej z naruszeniem przepisów ustawy, podlega karze pozbawienia do lat 3.
 
-§ 2. Tej samej karze podlega, kto udziela kobiecie ciężarnej pomocy w przerwaniu ciąży z naruszeniem przepisów ustawy lub ją do tego nakłania.
+2. Tej samej karze podlega, kto udziela kobiecie pomocy w przerwaniu z naruszeniem przepisów ustawy lub do tego
 
-§ 3. Kto dopuszcza się czynu określonego w § 1 lub 2, gdy dziecko poczęte osiągnęło zdolność do samodzielnego życia poza organizmem kobiety ciężarnej, podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
+3. Kto dopuszcza czynu w 1 lub 2, gdy do samodzielnego poza organizmem kobiety podlega karze pozbawienia od 6 do lat 8.
 
 **Art. 153.**
 
-§ 1. Kto stosując przemoc wobec kobiety ciężarnej lub w inny sposób bez jej zgody przerywa ciążę albo przemocą, groźbą bezprawną lub podstępem doprowadza kobietę ciężarną do przerwania ciąży, podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
+1. Kto przemoc wobec kobiety lub w inny spOSÓb bez jej zgody przerywa albo lub doprowadza do przerwania podlega karze pozbawienia od 6 do lat 8.
 
-§ 2. Kto dopuszcza się czynu określonego w § 1, gdy dziecko poczęte osiągnęło zdolność do samodzielnego życia poza organizmem kobiety ciężarnej, podlega karze pozbawienia wolności od roku do lat 10.
+2. Kto dopuszcza czynu w 1, gdy do samodzielnego poza organizmem kobiety podlega karze pozbawienia od roku do lat 10.
 
 **Art. 154.**
 
-§ 1. Jeżeli następstwem czynu określonego w art. 152 § 1 lub 2 jest śmierć kobiety ciężarnej, sprawca podlega karze pozbawienia wolności od roku do lat 10.
+1. czynu go wart. 152 1 lub 2 jest kobiety sprawca podlega karze pozbawienia od roku do lat 10.
 
-§ 2. Jeżeli następstwem czynu określonego w art. 152 § 3 lub w art. 153 jest śmierć kobiety ciężarnej, sprawca podlega karze pozbawienia wolności od lat 2 do 15.
+2. czynu wart. 152 3 lub wart. 153 jest kobiety sprawca podlega karze pozbawienia od lat 2 do 12.
 
-**Art. 155.** Kto nieumyślnie powoduje śmierć człowieka, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
+**Art. 155.** Kto powoduje wieka, podlega karze pozbawienia od 3 do lat 5.
 
 **Art. 156.**
 
-§ 1. Kto powoduje ciężki uszczerbek na zdrowiu w postaci:
-
-- **1)** pozbawienia człowieka wzroku, słuchu, mowy, zdolności płodzenia,
-- **2)** innego ciężkiego kalectwa, ciężkiej choroby nieuleczalnej lub długotrwałej, choroby realnie zagrażającej życiu, trwałej choroby psychicznej, całkowitej albo znacznej trwałej niezdolności do pracy w zawodzie lub trwałego, istotnego zeszpecenia lub zniekształcenia ciała,
-- **3)** wycięcia, infibulacji lub innego trwałego i istotnego okaleczenia żeńskiego narządu płciowego, podlega karze pozbawienia wolności od lat 3 do 20.
-
-§ 2. Jeżeli sprawca działa nieumyślnie, podlega karze pozbawienia wolności do lat 3.
-
-§ 3. Jeżeli następstwem czynu określonego w § 1 jest śmierć człowieka, sprawca podlega karze pozbawienia wolności na czas nie krótszy od lat 5 albo karze dożywotniego pozbawienia wolności.
-
-**Art. 156a.**
-
-§ 1. Kto nakłania inną osobę do spowodowania u niej ciężkiego uszczerbku na zdrowiu, o którym mowa w art. 156 § 1 pkt 3, podlega karze pozbawienia wolności do lat 3.
-
-§ 2. Kto przemocą lub groźbą bezprawną zmusza inną osobę do spowodowania u niej ciężkiego uszczerbku na zdrowiu, o którym mowa w art. 156 § 1 pkt 3, podlega karze pozbawienia wolności od 3 miesięcy do 5 lat.
+§ 1. Kto powoduje uszczerbek na zdrowiu w postaci: pozbawienia wzroku, mowy, innego kalectwa, choroby nieule czalnej lub choroby realnie cej choroby psychicznej, lub znacznej do pracy w zawo dzie lub istotnego zeszpecenia lub znie podlega karze pozbawienia od roku do lat 10. 2. sprawca podlega karze pozbawienia do lat 3. 3. czynu w 1 jest sprawca podlega karze pozbawienia od lat 2 do 12.
 
 **Art. 157.**
 
-§ 1. Kto powoduje naruszenie czynności narządu ciała lub rozstrój zdrowia, inny niż określony w art. 156 § 1, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
-
-§ 2. Kto powoduje naruszenie czynności narządu ciała lub rozstrój zdrowia trwający nie dłużej niż 7 dni, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
-
-§ 3. Jeżeli sprawca czynu określonego w § 1 lub 2 działa nieumyślnie, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
-
-§ 4. Ściganie przestępstwa określonego w § 2 lub 3, jeżeli naruszenie czynności narządu ciała lub rozstrój zdrowia nie trwał dłużej niż 7 dni, odbywa się z oskarżenia prywatnego, chyba że pokrzywdzonym jest osoba najbliższa zamieszkująca wspólnie ze sprawcą.
-
-§ 5. Jeżeli pokrzywdzonym jest osoba najbliższa, ściganie przestępstwa określonego w § 3 następuje na jej wniosek.
-
-**Art. 157a.**
-
-§ 1. Kto powoduje uszkodzenie ciała dziecka poczętego lub rozstrój zdrowia zagrażający jego życiu, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
-
-§ 2. Nie popełnia przestępstwa lekarz, jeżeli uszkodzenie ciała lub rozstrój zdrowia dziecka poczętego są następstwem działań leczniczych, koniecznych dla uchylenia niebezpieczeństwa grożącego zdrowiu lub życiu kobiety ciężarnej albo dziecka poczętego.
-
-§ 3. Nie podlega karze matka dziecka poczętego, która dopuszcza się czynu określonego w § 1.
+§ 1. Kto powoduje naruszenie lub rozstrój zdrowia, inny wart. 156 1, podlega karze pozbawienia od 3 do lat 5. 2. Kto powoduje naruszenie lub rozstrój zdrowia nie 7 dni, podlega grzywnie, karze ograniczenia al bo pozbawienia do lat 2. 3. sprawca czynu w 1 lub 2 podlega grzywnie, karze ograniczenia al bo pozbawienia do roku. 4. Ściganie przestępstwa określonego w 2 lub 3, naruszenie lub rozstrój zdrowia nie 7 dni, odbywa z oskar prywatnego. 5. naruszenie lub rozstrój zdrowia 7 dni, a pokrzywdzo nym jest osoba okre w 3 na jej wniosek.
 
 **Art. 158.**
 
-§ 1. Kto bierze udział w bójce lub pobiciu, w którym naraża się człowieka na bezpośrednie niebezpieczeństwo utraty życia albo nastąpienie skutku określonego w art. 156 § 1 lub w art. 157 § 1, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
+§ 1. Kto bierze w bójce lub pobiciu, w którym na niebez utraty albo skutku okre wart. 156 1 lub wart. 157 1, podlega karze pozbawienia do lat 3. 2. bójki lub pobicia jest ki uszczerbek na zdrowiu sprawca podlega karze pozbawienia od 6 do lat 8. 3. bójki lub pobicia jest sprawca podlega karze pozbawienia od roku do lat 10.
 
-§ 2. Jeżeli następstwem bójki lub pobicia jest ciężki uszczerbek na zdrowiu człowieka, sprawca podlega karze pozbawienia wolności od roku do lat 10.
-
-§ 3. Jeżeli następstwem bójki lub pobicia jest śmierć człowieka, sprawca podlega karze pozbawienia wolności od lat 2 do 15.
-
-**Art. 159.** Kto, biorąc udział w bójce lub pobiciu człowieka, używa broni palnej, noża lub innego podobnie niebezpiecznego przedmiotu, podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
+**Art. 159.** Kto, w bójce lub pobiciu wieka, broni palnej, lub innego podobnie niebezpiecznego przedmiotu, podlega karze pozbawienia od 6 do lat 8.
 
 **Art. 160.**
 
-§ 1. Kto naraża człowieka na bezpośrednie niebezpieczeństwo utraty życia albo ciężkiego uszczerbku na zdrowiu, podlega karze pozbawienia wolności do lat 3.
-
-§ 2. Jeżeli na sprawcy ciąży obowiązek opieki nad osobą narażoną na niebezpieczeństwo, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
-
-§ 3. Jeżeli sprawca czynu określonego w § 1 lub 2 działa nieumyślnie, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
-
-§ 4. Nie podlega karze za przestępstwo określone w § 1–3 sprawca, który dobrowolnie uchylił grożące niebezpieczeństwo.
-
-§ 5. Ściganie przestępstwa określonego w § 3 następuje na wniosek pokrzywdzonego.
+§ 1. Kto na utraty albo uszczerbku na zdrowiu, podlega karze pozbawienia do lat 3. 2. na sprawcy opieki nad na podlega karze pozbawienia od 3 do lat 5. 3. sprawca czynu w 1 lub 2 podlega grzywnie, karze ograniczenia al bo pozbawienia do roku. 4. Nie podlega karze za w 1-3 sprawca, który dobrowolnie 5. Ściganie przestępstwa określonego w 3 na na wniosek pokrzywdzonego.
 
 **Art. 161.**
 
-§ 1. Kto, wiedząc, że jest zarażony wirusem HIV lub dotknięty chorobą weneryczną lub zakaźną, ciężką chorobą nieuleczalną lub realnie zagrażającą życiu, naraża bezpośrednio inną osobę na zarażenie tym wirusem lub taką chorobą, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
-
-§ 2. (uchylony) § 3. Jeżeli sprawca czynu określonego w § 1 naraża na zarażenie wiele osób, podlega karze pozbawienia wolności od roku do lat 10.
-
-§ 4. Ściganie przestępstwa określonego w § 1 następuje na wniosek pokrzywdzonego.
+§ 1. Kto, jest wiru sem HIV, na takie za podlega karze pozbawienia do lat 3. 2. Kto, jest wene lub lub re alnie oso na podlega grzywnie, karze ograniczenia al bo pozbawienia do roku. 3. w 1 lub 2 na wniosek pokrzywdzonego.
 
 **Art. 162.**
 
-§ 1. Kto człowiekowi znajdującemu się w położeniu grożącym bezpośrednim niebezpieczeństwem utraty życia albo ciężkiego uszczerbku na zdrowiu nie udziela pomocy, mogąc jej udzielić bez narażenia siebie lub innej osoby na niebezpieczeństwo utraty życia albo ciężkiego uszczerbku na zdrowiu, podlega karze pozbawienia wolności do lat 3.
-
-§ 2. Nie popełnia przestępstwa, kto nie udziela pomocy, do której jest konieczne poddanie się zabiegowi lekarskiemu albo w warunkach, w których możliwa jest niezwłoczna pomoc ze strony instytucji lub osoby do tego powołanej.
-
-#### Rozdział XX Przestępstwa przeciwko bezpieczeństwu powszechnemu
+§ 1. Kto w stwem utraty albo uszczerbku na zdro wiu nie udziela pomocy, jej bez nia siebie lub innej osoby na utraty albo uszczerbku na zdrowiu, podlega karze pozbawienia do lat 3. 2. Nie kto nie udziela po mocy, do której jest konieczne poddanie zabiegowi lekarskiemu albo w warunkach, w których jest pomoc ze strony instytucji lub osoby do tego XX przeciwko powszechnemu
 
 **Art. 163.**
 
-§ 1. Kto sprowadza zdarzenie, które zagraża życiu lub zdrowiu wielu osób albo mieniu w wielkich rozmiarach, mające postać:
+§ 1. Kto sprowadza zdarzenie, które zagra lub zdrowiu wielu osób albo mieniu w wielkich rozmiarach,
 
-- **1)** pożaru,
-- **2)** zawalenia się budowli, zalewu albo obsunięcia się ziemi, skał lub śniegu,
-- **3)** eksplozji materiałów wybuchowych lub łatwopalnych albo innego gwałtownego wyzwolenia energii, rozprzestrzeniania się substancji trujących, duszących lub parzących,
-- **4)** gwałtownego wyzwolenia energii jądrowej lub wyzwolenia promieniowania jonizującego, podlega karze pozbawienia wolności od roku do lat 10.
-
-§ 2. Jeżeli sprawca działa nieumyślnie, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
-
-§ 3. Jeżeli następstwem czynu określonego w § 1 jest śmierć człowieka lub ciężki uszczerbek na zdrowiu wielu osób, sprawca podlega karze pozbawienia wolności od lat 2 do 15.
-
-§ 4. Jeżeli następstwem czynu określonego w § 2 jest śmierć człowieka lub ciężki uszczerbek na zdrowiu wielu osób, sprawca podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
+- **1)**
+- **2)** zawalenia budowli, zalewu albo ziemi, lub
+- **3)** eksplozji wybuchowych lub pal nych albo innego wyzwolenia ener gii, rozprzestrzeniania substancji du lub
+- **4)** wyzwolenia energii lub wy zwolenia promieniowania podlega karze pozbawienia od roku do lat 10. 2. sprawca podlega karze pozbawienia od 3 do lat 5. 3. czynu w 1 jest lub uszczerbek na zdrowiu wielu osób, sprawca podlega karze pozbawienia od lat 2 do 12. 4. czynu w 2 jest lub uszczerbek na zdrowiu wielu osób, sprawca podlega karze pozbawienia od 6 do lat 8.
 
 **Art. 164.**
 
-§ 1. Kto sprowadza bezpośrednie niebezpieczeństwo zdarzenia określonego w art. 163 § 1, podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
-
-§ 2. Jeżeli sprawca działa nieumyślnie, podlega karze pozbawienia wolności do lat 3.
+§ 1. Kto sprowadza niebez zdarzenia wart. 163 1, podlega karze pozbawienia od 6 do lat 8. 2. sprawca podlega karze pozbawienia do lat 3.
 
 **Art. 165.**
 
-§ 1. Kto sprowadza niebezpieczeństwo dla życia lub zdrowia wielu osób albo dla mienia w wielkich rozmiarach:
+§ 1. Kto sprowadza dla lub zdrowia wielu osób albo dla mienia w wiel kich rozmiarach:
 
-- **1)** powodując zagrożenie epidemiologiczne lub szerzenie się choroby zakaźnej albo zarazy zwierzęcej lub roślinnej,
-- **2)** wyrabiając lub wprowadzając do obrotu szkodliwe dla zdrowia substancje, środki spożywcze lub inne artykuły powszechnego użytku lub też środki farmaceutyczne nieodpowiadające obowiązującym warunkom jakości,
-- **3)** powodując uszkodzenie lub unieruchomienie urządzenia użyteczności publicznej, w szczególności urządzenia dostarczającego wodę, światło, ciepło, gaz, energię albo urządzenia zabezpieczającego przed nastąpieniem niebezpieczeństwa powszechnego lub służącego do jego uchylenia,
-- **4)** zakłócając, uniemożliwiając lub w inny sposób wpływając na automatyczne przetwarzanie, gromadzenie lub przekazywanie danych informatycznych,
-- **5)** działając w inny sposób w okolicznościach szczególnie niebezpiecznych, podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
-
-§ 2. Jeżeli sprawca działa nieumyślnie, podlega karze pozbawienia wolności do lat 3.
-
-§ 3. Jeżeli następstwem czynu określonego w § 1 jest śmierć człowieka lub ciężki uszczerbek na zdrowiu wielu osób, sprawca podlega karze pozbawienia wolności od lat 2 do 15.
-
-§ 4. Jeżeli następstwem czynu określonego w § 2 jest śmierć człowieka lub ciężki uszczerbek na zdrowiu wielu osób, sprawca podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
-
-**Art. 165a.**
-
-§ 1. Kto gromadzi, przekazuje lub oferuje środki płatnicze, instrumenty finansowe, papiery wartościowe, wartości dewizowe, prawa majątkowe lub inne mienie ruchome lub nieruchomości w zamiarze sfinansowania przestępstwa o charakterze terrorystycznym lub przestępstwa, o którym mowa w art. 120, art. 121, art. 136, art. 166, art. 167, art. 171, art. 252, art. 255a lub art. 259a, podlega karze pozbawienia wolności od lat 2 do 15.
-
-§ 2. Tej samej karze podlega, kto udostępnia mienie określone w § 1 zorganizowanej grupie lub związkowi mającym na celu popełnienie przestępstwa, o którym mowa w tym przepisie, osobie biorącej udział w takiej grupie lub związku lub osobie, która ma zamiar popełnienia takiego przestępstwa.
-
-§ 3. Kto, nie będąc do tego obowiązany na mocy ustawy, pokrywa koszty związane z zaspokojeniem potrzeb lub wykonaniem zobowiązań finansowych grupy, związku lub osoby, o których mowa w § 2, podlega karze pozbawienia wolności do lat 3.
-
-§ 4. Tej samej karze podlega sprawca czynu określonego w § 1 lub 2, który działa nieumyślnie.
+- **1)** epidemiologiczne lub sze rzenie choroby albo zarazy lub
+- **2)** lub do obrotu szkodliwe dla zdrowia substancje, lub inne powszechnego lub far maceutyczne nie warunkom
+- **3)** uszkodzenie lub unieruchomienie dzenia publicznej, w gaz, albo przed powszech nego lub do jego uchylenia,
+- **4)** lub w inny sposób na automatyczne przetwarzanie, gro madzenie lub informacji,
+- **5)** w inny sposób w szcze gólnie niebezpiecznych, podlega karze pozbawienia od 6 do lat 8. 2. sprawca podlega karze pozbawienia do lat 3. 3. czynu w jest lub uszczerbek na zdrowiu wielu osób, sprawca podlega karze pozbawienia od lat 2 do 12. 4. czynu w 2 jest lub uszczerbek na zdrowiu wielu osób, sprawca podlega karze pozbawienia od 6 do lat 8.
 
 **Art. 166.**
 
-§ 1. Kto, stosując podstęp albo gwałt na osobie lub groźbę bezpośredniego użycia takiego gwałtu, przejmuje kontrolę nad statkiem wodnym lub powietrznym albo nad publicznym środkiem transportu lądowego, podlega karze pozbawienia wolności od lat 2 do 15.
-
-§ 2. Kto, działając w sposób określony w § 1, sprowadza bezpośrednie niebezpieczeństwo dla życia lub zdrowia wielu osób, podlega karze pozbawienia wolności od lat 3 do 20.
-
-§ 3. Jeżeli następstwem czynu określonego w § 2 jest śmierć człowieka lub ciężki uszczerbek na zdrowiu wielu osób, sprawca podlega karze pozbawienia wolności od lat 5 do 25.
+§ 1. Kto, albo na osobie lub takiego przejmuje nad statkiem wodnym lub powietrznym, podlega karze pozbawienia od lat 2 do 12. 2. Kto, w sposób w 1, spro wadza dla lub zdrowia wielu osób, podlega karze pozbawienia na czas nie krótszy od lat 3. 3. czynu w 2 jest lub uszczerbek na zdrowiu wielu osób, sprawca podlega karze pozbawienia na czas nie krótszy od lat 5 albo karze 25 lat pozbawienia wol
 
 **Art. 167.**
 
-§ 1. Kto umieszcza na statku wodnym lub powietrznym albo w publicznym środku transportu lądowego urządzenie lub substancję zagrażającą bezpieczeństwu osób lub mieniu znacznej wartości, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
+§ 1. Kto umieszcza na statku wodnym lub powietrznym lub osób lub mieniu znacznej podlega karze pozbawienia od 3 do lat 5. 2. Tej samej karze podlega, kto niszczy, uszkadza lub czyni niezdatnym do nawigacyj ne albo jego to za osób.
 
-§ 2. Tej samej karze podlega, kto niszczy, uszkadza lub czyni niezdatnym do użytku urządzenie nawigacyjne albo uniemożliwia jego obsługę, jeżeli może to zagrażać bezpieczeństwu osób.
-
-**Art. 168.** Kto czyni przygotowania do przestępstwa określonego w art. 163 § 1, art. 165 § 1, art. 166 § 1 lub w art. 167 § 1, podlega karze pozbawienia wolności do lat 3.
+**Art. 168.** Kto czyni przygotowania do wart. 163 1, art. 165 1, art. 166 1 lub wart. 167 1, podlega karze pozbawienia do lat 3.
 
 **Art. 169.**
 
-§ 1. Nie podlega karze za przestępstwo określone w art. 164 lub 167 sprawca, który dobrowolnie uchylił grożące niebezpieczeństwo.
+§ 1. Nie podlega karze za wart. 164 lub 167 sprawca, który dobrowol nie 2. Wobec sprawcy wart. 163 1 lub 2, art. 165 1 lub 2 lub wart. 166 2 nadzwyczajne kary, sprawca dobrowolnie lub zdrowiu wielu osób. 3. Wobec sprawcy wart. 166 1 nadzwyczajne godzenie kary, sprawca statek lub kon nad nim osobie uprawnionej.
 
-§ 2. Wobec sprawcy przestępstwa określonego w art. 163 § 1 lub 2, art. 165 § 1 lub 2 lub w art. 166 § 2 sąd może zastosować nadzwyczajne złagodzenie kary, jeżeli sprawca dobrowolnie uchylił niebezpieczeństwo grożące życiu lub zdrowiu wielu osób.
-
-§ 3. Wobec sprawcy przestępstwa określonego w art. 166 § 1 sąd może zastosować nadzwyczajne złagodzenie kary, jeżeli sprawca przekazał statek lub kontrolę nad nim osobie uprawnionej.
-
-**Art. 170.** Kto uzbraja lub przysposabia statek morski przeznaczony do dokonania na morzu rabunku lub na takim statku przyjmuje służbę, podlega karze pozbawienia wolności od roku do lat 10.
+**Art. 170.** Kto uzbraja lub przysposabia statek mor ski przeznaczony do dokonania na morzu rabunku lub na takim statku przyjmuje podlega karze pozbawienia od roku do lat 10.
 
 **Art. 171.**
 
-§ 1. Kto, bez wymaganego zezwolenia lub wbrew jego warunkom, wyrabia, przetwarza, gromadzi, posiada, posługuje się lub handluje substancją lub przyrządem wybuchowym, materiałem radioaktywnym, urządzeniem emitującym promienie jonizujące lub innym przedmiotem lub substancją, która może sprowadzić niebezpieczeństwo dla życia lub zdrowia wielu osób albo mienia w wielkich rozmiarach, podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
+§ 1. Kto, bez wymaganego zezwolenia lub wbrew jego warunkom, wyrabia, przetwarza, groma dzi, posiada, lub handluje lub wybuchowym, radioaktyw nym, promienie lub innym przedmiotem lub która dla lub zdrowia wielu osób albo mienia w wielkich rozmiarach, podlega karze pozbawienia od 6 do lat 8. 2. Tej samej karze podlega, kto wbrew kowi dopuszcza do czynu w 1. 3. Tej samej karze podlega, kto przedmioty okre w 1 osobie nieuprawnionej.
 
-§ 2. Tej samej karze podlega, kto wbrew obowiązkowi dopuszcza do popełnienia czynu określonego w § 1.
-
-§ 3. Tej samej karze podlega, kto przedmioty określone w § 1 odstępuje osobie nieuprawnionej.
-
-**Art. 172.** Kto przeszkadza działaniu mającemu na celu zapobieżenie niebezpieczeństwu dla życia lub zdrowia wielu osób albo mienia w wielkich rozmiarach, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
-
-#### Rozdział XXI Przestępstwa przeciwko bezpieczeństwu w komunikacji
+**Art. 172.** Kto przeszkadza na celu dla lub zdrowia wielu osób albo mienia w wielkich rozmia rach, podlega karze pozbawienia od 3 do lat 5. XXI przeciwko w komunikacji
 
 **Art. 173.**
 
-§ 1. Kto sprowadza katastrofę w ruchu lądowym, wodnym lub powietrznym zagrażającą życiu lub zdrowiu wielu osób albo mieniu w wielkich rozmiarach, podlega karze pozbawienia wolności od roku do lat 10.
-
-§ 2. Jeżeli sprawca działa nieumyślnie, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
-
-§ 3. Jeżeli następstwem czynu określonego w § 1 jest śmierć człowieka lub ciężki uszczerbek na zdrowiu wielu osób, sprawca podlega karze pozbawienia wolności od lat 2 do 15.
-
-§ 4. Jeżeli następstwem czynu określonego w § 2 jest śmierć człowieka lub ciężki uszczerbek na zdrowiu wielu osób, sprawca podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
+§ 1. Kto sprowadza w ruchu dowym, wodnym lub powietrznym lub zdrowiu wielu osób albo mieniu w wielkich rozmia rach, podlega karze pozbawienia od roku do lat 10. 2. sprawca podlega karze pozbawienia od 3 do lat 5. 3. czynu w 1 jest lub uszczerbek na zdrowiu wielu osób, sprawca podlega karze pozbawienia od lat 2 do 12. 4. czynu w 2 jest lub uszczerbek na zdrowiu wielu osób, sprawca podlega karze pozbawienia od 6 do lat 8.
 
 **Art. 174.**
 
-§ 1. Kto sprowadza bezpośrednie niebezpieczeństwo katastrofy w ruchu lądowym, wodnym lub powietrznym, podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
+§ 1. Kto sprowadza niebez katastrofy w ruchu wodnym lub powietrznym, podlega karze pozbawienia od 6 do lat 8. 2. sprawca podlega karze pozbawienia do lat 3.
 
-§ 2. Jeżeli sprawca działa nieumyślnie, podlega karze pozbawienia wolności do lat 3.
-
-**Art. 175.** Kto czyni przygotowania do przestępstwa określonego w art. 173 § 1, podlega karze pozbawienia wolności do lat 3.
+**Art. 175.** Kto czyni przygotowania do wart. 173 1, podlega karze pozbawienia do lat 3.
 
 **Art. 176.**
 
-§ 1. Nie podlega karze sprawca przestępstwa określonego w art. 174, który dobrowolnie uchylił grożące niebezpieczeństwo.
+1. Nie podlega karze sprawca stwa wart. 174, który dobrowolnie uchy
 
-§ 2. Wobec sprawcy przestępstwa określonego w art. 173 § 1 lub 2 sąd może zastosować nadzwyczajne złagodzenie kary, jeżeli sprawca dobrowolnie uchylił niebezpieczeństwo grożące życiu lub zdrowiu wielu osób.
+2. Wobec sprawcy wart. 173 1 lub 2 nadzwyczaj ne kary, sprawca dobrowolnie uchy lub zdrowiu wielu osób.
 
 **Art. 177.**
 
-§ 1. Kto, naruszając, chociażby nieumyślnie, zasady bezpieczeństwa w ruchu lądowym, wodnym lub powietrznym, powoduje nieumyślnie wypadek, w którym inna osoba odniosła obrażenia ciała określone w art. 157 § 1, podlega karze pozbawienia wolności do lat 3.
+§ 1. Kto, nie, zasady w ruchu wod nym lub powietrznym, powoduje wypa dek, w którym inna osoba wart. 157 1, podlega karze pozbawienia do lat 3. 2. wypadku jest innej osoby albo uszczerbek na jej zdrowiu, sprawca podlega karze pozbawienia od 6 do lat 8. 3. pokrzywdzonym jest osoba w 1 na jej wniosek.
 
-§ 2. Jeżeli następstwem wypadku jest śmierć innej osoby albo ciężki uszczerbek na jej zdrowiu, sprawca podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
+**Art. 178.** Skazując który prze wart. 173, 174 lub 177 w stanie lub pod lub z miejsca zdarzenia, orze ka pozbawienia za przypi sane sprawcy w do górnej granicy ustawowego o
 
-§ 2a. Jeśli sprawca dopuszcza się czynu określonego w § 2, uczestnicząc w nielegalnym wyścigu pojazdów mechanicznych albo w warunkach określonych w art. 178d, albo w czasie obowiązywania środka karnego, o którym mowa w art. 39 pkt 3, podlega karze pozbawienia wolności od roku do lat 10.
+**Art. 179.** Kto wbrew szczególnemu dopuszcza do ruchu pojazd mechaniczny albo inny pojazd w stanie bezpie w ruchu wodnym lub powietrz nym lub dopuszcza do prowadzenia pojazdu me chanicznego albo innego pojazdu na drodze pu blicznej przez w stanie nie pod cego lub nie wymaganych podlega grzywnie, karze ograniczenia al bo pozbawienia do lat 2.
 
-§ 3. Jeżeli pokrzywdzonym jest wyłącznie osoba najbliższa, ściganie przestępstwa określonego w § 1 następuje na jej wniosek.
-
-**Art. 178.**
-
-§ 1. Skazując sprawcę, który popełnił przestępstwo określone w art. 173 § 1 lub 2, art. 174, art. 177 § 1 lub 2a, art. 178c § 1 pkt 2 lub art. 178d, znajdując się w stanie nietrzeźwości lub pod wpływem środka odurzającego, lub zbiegł z miejsca zdarzenia, lub spożywał alkohol, lub zażywał środek odurzający po popełnieniu czynu określonego w art. 173 § 1 lub 2, art. 174, art. 177 § 1 lub 2a, art. 178c § 1 pkt 2 lub art. 178d, a przed poddaniem go przez uprawniony organ badaniu w celu ustalenia w organizmie zawartości alkoholu lub obecności środka odurzającego, sąd orzeka karę pozbawienia wolności przewidzianą za przypisane sprawcy przestępstwo w wysokości od dolnej granicy ustawowego zagrożenia zwiększonego o połowę do górnej granicy tego zagrożenia zwiększonego o połowę.
-
-§ 1a. Skazując sprawcę, który popełnił przestępstwo określone w art. 173 § 3 lub 4, art. 177 § 2 lub 2a, art. 178c § 1 pkt 2 lub art. 178d, w warunkach określonych w § 1, lub którego dotyczy wskazana w tym przepisie okoliczność, sąd orzeka karę pozbawienia wolności w wysokości:
-
-- **1)** nie niższej niż 3 lata, jeżeli następstwem wypadku jest ciężki uszczerbek na zdrowiu innej osoby albo następstwem katastrofy jest ciężki uszczerbek na zdrowiu wielu osób, do dwukrotności górnej granicy ustawowego zagrożenia;
-- **2)** nie niższej niż 5 lat, jeżeli następstwem czynu jest śmierć człowieka, do dwukrotności górnej granicy ustawowego zagrożenia w przypadku katastrofy, a 20 lat pozbawienia wolności w przypadku wypadku.
-
-§ 2. (uchylony) § 3. (uchylony)
-
-**Art. 178a.**
-
-§ 1. Kto, znajdując się w stanie nietrzeźwości lub pod wpływem środka odurzającego, prowadzi pojazd mechaniczny w ruchu lądowym, wodnym lub powietrznym, podlega karze pozbawienia wolności do lat 3.
-
-§ 2. (uchylony) § 3. (uchylony) § 4. Jeżeli sprawca czynu określonego w § 1 był wcześniej prawomocnie skazany za prowadzenie pojazdu mechanicznego w stanie nietrzeźwości lub pod wpływem środka odurzającego albo za przestępstwo określone w art. 173, art. 174, art. 177 lub art. 355 § 2 popełnione w stanie nietrzeźwości lub pod wpływem środka odurzającego lub dopuścił się czynu określonego w § 1 w okresie obowiązywania zakazu prowadzenia pojazdów mechanicznych orzeczonego w związku ze skazaniem za przestępstwo, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
-
-§ 5. (uchylony)
-
-**Art. 178b.** Kto, pomimo wydania przez osobę uprawnioną do kontroli ruchu drogowego, poruszającą się pojazdem lub znajdującą się na statku wodnym albo powietrznym, przy użyciu sygnałów dźwiękowych i świetlnych, polecenia zatrzymania pojazdu mechanicznego nie zatrzymuje niezwłocznie pojazdu i kontynuuje jazdę, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
-
-**Art. 178c.**
-
-§ 1. Kto w ruchu lądowym:
-
-- **1)** organizuje lub prowadzi nielegalny wyścig pojazdów mechanicznych,
-- **2)** jako prowadzący pojazd mechaniczny uczestniczy w nielegalnym wyścigu pojazdów mechanicznych, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
-
-§ 2. Kto czyni przygotowania do przestępstwa określonego w § 1, podlega karze pozbawienia wolności do lat 3.
-
-**Art. 178d.** Kto prowadzi pojazd mechaniczny rażąco przekraczając prędkość oraz rażąco naruszając inne zasady bezpieczeństwa w ruchu lądowym i przez to naraża człowieka na bezpośrednie niebezpieczeństwo utraty życia albo nastąpienie skutku określonego w art. 156 § 1 lub w art. 157 § 1, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
-
-**Art. 179.** Kto wbrew szczególnemu obowiązkowi dopuszcza do ruchu pojazd mechaniczny albo inny pojazd w stanie bezpośrednio zagrażającym bezpieczeństwu w ruchu lądowym, wodnym lub powietrznym lub dopuszcza do prowadzenia pojazdu mechanicznego albo innego pojazdu na drodze publicznej, w strefie zamieszkania lub w strefie ruchu przez osobę znajdującą się w stanie nietrzeźwości, będącą pod wpływem środka odurzającego lub osobę nieposiadającą wymaganych uprawnień, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
-
-**Art. 180.** Kto, znajdując się w stanie nietrzeźwości lub pod wpływem środka odurzającego, pełni czynności związane bezpośrednio z zapewnieniem bezpieczeństwa ruchu pojazdów mechanicznych, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
-
-**Art. 180a.** Kto na drodze publicznej, w strefie zamieszkania lub w strefie ruchu, prowadzi pojazd mechaniczny, nie stosując się do decyzji właściwego organu o cofnięciu uprawnienia do kierowania pojazdami, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
-
-#### Rozdział XXII Przestępstwa przeciwko środowisku
+**Art. 180.** Kto, w stanie lub pod czynnoz zapewnieniem bezpie ruchu pojazdów mechanicznych, podlega karze pozbawienia od 3 do lat 5. XXII przeciwko
 
 **Art. 181.**
 
-§ 1. Kto powoduje zniszczenie w świecie roślinnym lub zwierzęcym w znacznych rozmiarach, podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
-
-§ 2. Kto, wbrew przepisom obowiązującym na terenie objętym ochroną, niszczy lub uszkadza rośliny, zwierzęta, grzyby lub ich siedliska, lub siedliska przyrodnicze, powodując istotną szkodę, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności od 3 miesięcy do lat 5.
-
-§ 3. Karze określonej w § 2 podlega także ten, kto niezależnie od miejsca czynu niszczy lub uszkadza rośliny, zwierzęta, grzyby pozostające pod ochroną gatunkową lub ich siedliska, powodując istotną szkodę.
-
-§ 4. Jeżeli sprawca czynu określonego w § 1 działa nieumyślnie, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
-
-§ 5. Jeżeli sprawca czynu określonego w § 2 lub 3 działa nieumyślnie, podlega grzywnie albo karze ograniczenia wolności.
+§ 1. Kto powoduje zniszczenie w lub w znacznych rozmiarach, podlega karze pozbawienia od 3 do lat 5. 2. Kto, wbrew przepisom na tere nie niszczy albo uszkadza lub podlega grzywnie, karze ograniczenia al bo pozbawienia do lat 2. 3. Karze w 2 podlega ten, kto od miejsca czynu niszczy albo uszkadza ro lub pod gatunko 4. sprawca czynu w 1 podlega grzywnie, karze ograniczenia al bo pozbawienia do lat 2. 5. sprawca czynu w 2 lub 3 podlega grzywnie albo karze ograniczenia wolno
 
 **Art. 182.**
 
-§ 1. Kto zanieczyszcza wodę, powietrze lub powierzchnię ziemi substancją albo promieniowaniem jonizującym w takiej ilości lub w takiej postaci, że może to zagrozić życiu lub zdrowiu człowieka lub spowodować istotne obniżenie jakości wody, powietrza lub powierzchni ziemi lub zniszczenie w świecie roślinnym lub zwierzęcym w znacznych rozmiarach, podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
-
-§ 2. Jeżeli sprawca czynu określonego w § 1 działa nieumyślnie, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 3.
-
-§ 3. Jeżeli czyn określony w § 1 został popełniony w związku z eksploatacją instalacji działającej w ramach zakładu, w zakresie korzystania ze środowiska, na które wymagane jest pozwolenie, sprawca podlega karze pozbawienia wolności od roku do lat 10.
-
-§ 4. Jeżeli sprawca czynu określonego w § 3 działa nieumyślnie, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
+§ 1. Kto zanieczyszcza powietrze lub albo promieniowaniem cym w takiej lub w takiej postaci, to za lub zdrowiu wielu osób lub zniszczenie w lub w znacznych rozmiarach, podlega karze pozbawienia od 3 do lat 5. 2. sprawca podlega grzywnie, karze ograniczenia al bo pozbawienia do lat 2.
 
 **Art. 183.**
 
-§ 1. Kto wbrew przepisom składuje, usuwa, przetwarza, zbiera, unieszkodliwia, transportuje odpady lub substancje albo dokonuje odzysku odpadów lub substancji w takich warunkach lub w taki sposób, że może to zagrozić życiu lub zdrowiu człowieka lub spowodować obniżenie jakości wody, powietrza lub powierzchni ziemi lub zniszczenie w świecie roślinnym lub zwierzęcym, podlega karze pozbawienia wolności od roku do lat 10.
-
-§ 2. Tej samej karze podlega, kto wbrew przepisom przywozi z zagranicy substancje zagrażające środowisku.
-
-§ 3. Karze określonej w § 1 podlega, kto wbrew obowiązkowi dopuszcza do popełnienia czynu określonego w § 1, 2 i 4.
-
-§ 4. Karze określonej w § 1 podlega, kto wbrew przepisom przywozi odpady z zagranicy lub wywozi odpady za granicę.
-
-§ 5. Kto bez wymaganego zgłoszenia lub zezwolenia albo wbrew jego warunkom przywozi z zagranicy lub wywozi za granicę odpady niebezpieczne, podlega karze pozbawienia wolności od lat 2 do 12.
-
-§ 5a. Karze określonej w § 5 podlega, kto porzuca odpady niebezpieczne w miejscu nieprzeznaczonym do ich składowania lub magazynowania.
-
-§ 6. Jeżeli sprawca czynu określonego w § 1–5a działa nieumyślnie, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 5.
+§ 1. Kto wbrew przepisom usu wa, przerabia, unieszkodliwia albo przewozi odpady lub substancje w takich warunkach lub w taki sposób, to lub zdrowiu wielu osób lub zniszczenie w lub w znacznych rozmiarach, podlega karze pozbawienia od 3 do lat 5. 2. Tej samej karze podlega, kto wbrew przepisom sprowadza z zagranicy odpady lub substancje 3. Tej samej karze podlega, kto wbrew kowi dopuszcza do czynu w 1 lub 2. 4. sprawca czynu w 1-3 podlega grzywnie, karze ograniczenia al bo pozbawienia do lat 2.
 
 **Art. 184.**
 
-§ 1. Kto wyrabia, przetwarza, transportuje, przywozi z zagranicy, wywozi za granicę, gromadzi, składuje, przechowuje, posiada, wykorzystuje, posługuje się, usuwa, porzuca lub pozostawia bez właściwego zabezpieczenia materiał jądrowy albo inne źródło promieniowania jonizującego, w takich warunkach lub w taki sposób, że może to zagrozić życiu lub zdrowiu człowieka lub spowodować istotne obniżenie jakości wody, powietrza lub powierzchni ziemi lub zniszczenie w świecie roślinnym lub zwierzęcym w znacznych rozmiarach, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
-
-§ 2. Tej samej karze podlega, kto wbrew obowiązkowi dopuszcza do popełnienia czynu określonego w § 1.
-
-§ 3. Jeżeli sprawca czynu określonego w § 1 lub 2 działa nieumyślnie, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
+§ 1. Kto przewozi, gromadzi, po rzuca lub pozostawia bez zabezpieczenia albo inne promieniowania jo to lub zdrowiu lub zniszczenie w ro lub w znacznych rozmiarach, podlega karze pozbawienia od 3 do lat 5. 2. Tej samej karze podlega, kto wbrew kowi dopuszcza do czynu w 1. 3. sprawca czynu w 1 lub 2 podlega grzywnie, karze ograniczenia al bo pozbawienia do lat 2.
 
 **Art. 185.**
 
-§ 1. Jeżeli następstwem czynu określonego w art. 182 § 1 lub 3, art. 183 § 1 lub 3 lub w art. 184 § 1 lub 2 jest zniszczenie w świecie roślinnym lub zwierzęcym w znacznych rozmiarach lub istotne obniżenie jakości wody, powietrza lub powierzchni ziemi, sprawca podlega karze pozbawienia wolności od lat 2 do 12.
-
-§ 2. Jeżeli następstwem czynu określonego w art. 182 § 1 lub 3, art. 183 § 1 lub 3 lub w art. 184 § 1 lub 2 jest ciężki uszczerbek na zdrowiu człowieka, sprawca podlega karze pozbawienia wolności od lat 2 do 12.
-
-§ 3. Jeżeli następstwem czynu określonego w art. 182 § 1 lub 3, art. 183 § 1 lub 3 lub w art. 184 § 1 lub 2 jest śmierć człowieka lub ciężki uszczerbek na zdrowiu wielu osób, sprawca podlega karze pozbawienia wolności od lat 3 do 20.
+§ 1. czynu go wart. 182 1, art. 183 1 lub 31ub wart. 184 1 lub 2 jest zniszczenie w lub w znacznych rozmiarach, sprawca podlega karze pozbawienia od 6 do lat 8. 2. czynu wart. 182 1, art. 183 1 lub 3 lub wart. 184 1 lub 2 jest lub uszczerbek na zdrowiu wielu osób, sprawca podlega karze pozbawienia od lat 2 do 12.
 
 **Art. 186.**
 
-§ 1. Kto wbrew obowiązkowi nie utrzymuje w należytym stanie lub nie używa urządzeń zabezpieczających wodę, powietrze lub powierzchnię ziemi przed zanieczyszczeniem lub urządzeń zabezpieczających przed skażeniem promieniotwórczym lub promieniowaniem jonizującym, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności od 3 miesięcy do lat 5.
-
-§ 2. Tej samej karze podlega, kto oddaje lub wbrew obowiązkowi dopuszcza do użytkowania obiekt budowlany lub zespół obiektów niemających wymaganych prawem urządzeń określonych w § 1.
-
-§ 3. Jeżeli sprawca czynu określonego w § 1 lub 2 działa nieumyślnie, podlega grzywnie albo karze ograniczenia wolności.
+§ 1. Kto wbrew nie utrzymu je w stanie lub nie zabezpie powietrze lub przed zanie czyszczeniem lub przed promieniowaniem radioaktywnym lub podlega grzywnie, karze ograniczenia al bo pozbawienia do lat 2. 2. Tej samej karze podlega, kto oddaje lub wbrew dopuszcza do obiekt bu dowlany lub obiektów nie wymaga nych prawem w 1. 3. sprawca czynu w 1 lub 2 podlega grzywnie albo karze ograniczenia wolno
 
 **Art. 187.**
 
-§ 1. Kto niszczy, poważnie uszkadza lub istotnie zmniejsza wartość przyrodniczą prawnie chronionego terenu lub obiektu, powodując istotną szkodę, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
+§ 1. Kto niszczy, uszkadza lub istotnie zmniejsza prawnie chro nionego terenu lub obiektu, podlega grzywnie, karze ograniczenia al bo pozbawienia do lat 2. 2. sprawca podlega grzywnie albo karze ograniczenia wolno
 
-§ 2. Jeżeli sprawca działa nieumyślnie, podlega grzywnie albo karze ograniczenia wolności.
-
-**Art. 188.** Kto, na terenie objętym ochroną ze względów przyrodniczych lub krajobrazowych albo w otulinie takiego terenu, wbrew przepisom, wznosi nowy lub powiększa istniejący obiekt budowlany albo prowadzi działalność gospodarczą zagrażającą środowisku, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
-
-**Art. 188a.** Wobec sprawcy przestępstwa określonego w art. 182 § 1 lub 3, art. 183 § 1, 3, 5a lub 6 lub w art. 184 § 1 lub 2, który dobrowolnie naprawił szkodę w całości albo w znacznej części, sąd może zastosować nadzwyczajne złagodzenie kary, a nawet odstąpić od jej wymierzenia.
-
-#### Rozdział XXIII Przestępstwa przeciwko wolności
+**Art. 188.** Kto, na terenie ze dów przyrodniczych lub krajobrazowych albo w otuli nie takiego terenu, wbrew przepisom, wznosi nowy lub obiekt budowlany albo prowadzi podlega grzywnie, karze ograniczenia al bo pozbawienia do lat 2. XXIII Przest,pstwa przeciwko
 
 **Art. 189.**
 
-§ 1. Kto pozbawia człowieka wolności, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
+1. Kto pozbawia podlega karze pozbawienia od 3 do lat 5.
 
-§ 2. Jeżeli pozbawienie wolności trwało dłużej niż 7 dni, sprawca podlega karze pozbawienia wolności od roku do lat 10.
-
-§ 2a. Jeżeli pozbawienie wolności, o którym mowa w § 2, dotyczy osoby nieporadnej ze względu na jej wiek, stan psychiczny lub fizyczny, sprawca podlega karze pozbawienia wolności od lat 2 do 15.
-
-§ 3. Jeżeli pozbawienie wolności, o którym mowa w § 1–2a, łączyło się ze szczególnym udręczeniem, sprawca podlega karze pozbawienia wolności od lat 5 do 25.
-
-**Art. 189a.**
-
-§ 1. Kto dopuszcza się handlu ludźmi, podlega karze pozbawienia wolności od lat 3 do 20.
-
-§ 2. Kto czyni przygotowania do popełnienia przestępstwa określonego w § 1, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
+2. pozbawienie 7 dni lub ze szczególnym sprawca podlega karze pozbawienia od roku do lat 10.
 
 **Art. 190.**
 
-§ 1. Kto grozi innej osobie popełnieniem przestępstwa na jej szkodę lub na szkodę osoby dla niej najbliższej, jeżeli groźba wzbudza w osobie, do której została skierowana lub której dotyczy, uzasadnioną obawę, że będzie spełniona, podlega karze pozbawienia wolności do lat 3.
+1. Kto grozi innej osobie na jej lub osoby szej, wzbudza w uzasadnio podlega grzywnie, karze ograniczenia al bo pozbawienia do lat 2.
 
-§ 2. Ściganie następuje na wniosek pokrzywdzonego.
-
-**Art. 190a.**
-
-§ 1. Kto przez uporczywe nękanie innej osoby lub osoby dla niej najbliższej wzbudza u niej uzasadnione okolicznościami poczucie zagrożenia, poniżenia lub udręczenia lub istotnie narusza jej prywatność, podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
-
-§ 2. Tej samej karze podlega, kto, podszywając się pod inną osobę, wykorzystuje jej wizerunek, inne jej dane osobowe lub inne dane, za pomocą których jest ona publicznie identyfikowana, przez co wyrządza jej szkodę majątkową lub osobistą.
-
-§ 3. Jeżeli następstwem czynu określonego w § 1 lub 2 jest targnięcie się pokrzywdzonego na własne życie, sprawca podlega karze pozbawienia wolności od lat 2 do 15.
-
-§ 4. Ściganie przestępstwa określonego w § 1 lub 2 następuje na wniosek pokrzywdzonego.
+2. Ściganie następuje na wniosek pokrzywdzonego.
 
 **Art. 191.**
 
-§ 1. Kto, stosując przemoc wobec osoby lub groźbę bezprawną, zmusza ją lub inną osobę do określonego działania, zaniechania lub znoszenia, podlega karze pozbawienia wolności do lat 3.
-
-§ 1a. Tej samej karze podlega, kto w celu zmuszenia innej osoby do określonego działania, zaniechania lub znoszenia stosuje przemoc innego rodzaju uporczywie lub w sposób istotnie utrudniający innej osobie korzystanie z zajmowanego lokalu mieszkalnego.
-
-§ 2. Jeżeli sprawca działa w sposób określony w § 1 w celu wymuszenia zwrotu wierzytelności, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
-
-§ 3. Ściganie przestępstwa określonego w § 1 lub 1a następuje na wniosek pokrzywdzonego.
-
-**Art. 191a.**
-
-§ 1. Kto utrwala wizerunek nagiej osoby lub osoby w trakcie czynności seksualnej, używając w tym celu wobec niej przemocy, groźby bezprawnej lub podstępu, albo wizerunek nagiej osoby lub osoby w trakcie czynności seksualnej bez jej zgody rozpowszechnia, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
-
-§ 2. Ściganie następuje na wniosek pokrzywdzonego.
-
-**Art. 191b.**
-
-§ 1. Kto przemocą, groźbą bezprawną lub przez nadużycie stosunku zależności lub wykorzystanie krytycznego położenia doprowadza inną osobę do zawarcia małżeństwa lub związku, który odpowiada małżeństwu w kręgu wyznaniowym lub kulturowym sprawcy, podlega karze pozbawienia wolności od 3 miesięcy do 5 lat.
-
-§ 2. Tej samej karze podlega kto w celu popełnienia przestępstwa określonego w § 1, używając podstępu lub nadużywając stosunku zależności lub wykorzystując krytyczne położenie, nakłania inną osobę do opuszczenia terytorium Rzeczypospolitej Polskiej.
+§ 1. Kto stosuje przemoc wobec osoby I ub w celu zmuszenia innej osoby do zaniechania lub znoszenia, podlega karze pozbawienia do lat 3. 2. sprawca w sposób w 1 w celu wymuszenia zwrotu podlega karze pozbawienia od 3 do lat 5.
 
 **Art. 192.**
 
-§ 1. Kto wykonuje zabieg leczniczy bez zgody pacjenta, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
+1. Kto wykonuje zabieg leczniczy bez zgody pacjenta, podlega grzywnie, karze ograniczenia al bo pozbawienia do lat 2.
 
-§ 2. Ściganie następuje na wniosek pokrzywdzonego.
+2. Ściganie następuje na wniosek pokrzywdzone go.
 
-**Art. 193.**
+**Art. 193.** Kto wdziera do cudzego domu, miesz kania, lokalu, pomieszczenia albo ogrodzonego terenu albo wbrew osoby uprawnionej miejsca takie go nie opuszcza, podlega grzywnie, karze ograniczenia al bo pozbawienia do roku. XXIV Przest,pstwa przeciwko sumienia i wyzna nia
 
-§ 1. Kto wdziera się do cudzego domu, mieszkania, lokalu, pomieszczenia albo ogrodzonego terenu albo wbrew żądaniu osoby uprawnionej miejsca takiego nie opuszcza, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
-
-§ 2. Ściganie następuje na wniosek pokrzywdzonego.
-
-#### Rozdział XXIV Przestępstwa przeciwko wolności sumienia i wyznania
-
-**Art. 194.** Kto ogranicza człowieka w przysługujących mu prawach ze względu na jego przynależność wyznaniową albo bezwyznaniowość, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
+**Art. 194.** Kto ogranicza w cych mu prawach ze na jego albo podlega grzywnie, karze ograniczenia al bo pozbawienia do lat 2.
 
 **Art. 195.**
 
-§ 1. Kto złośliwie przeszkadza publicznemu wykonywaniu aktu religijnego kościoła lub innego związku wyznaniowego o uregulowanej sytuacji prawnej, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
+1. Kto przeszkadza publiczne mu wykonywaniu aktu religijnego lub innego wyznaniowego o uregulowanej sytuacji praw nej, podlega grzywnie, karze ograniczenia al bo pozbawienia do lat 2.
 
-§ 2. Tej samej karze podlega, kto złośliwie przeszkadza pogrzebowi, uroczystościom lub obrzędom żałobnym.
+2. Tej samej karze podlega, kto przeszka dza pogrzebowi, lub nym.
 
-**Art. 196.** Kto obraża uczucia religijne innych osób, znieważając publicznie przedmiot czci religijnej lub miejsce przeznaczone do publicznego wykonywania obrzędów religijnych, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
-
-#### Rozdział XXV Przestępstwa przeciwko wolności seksualnej i obyczajności
+**Art. 196.** Kto uczucia religijne innych osób, publicznie przedmiot czci religijnej lub miejsce przeznaczone do publicznego wykonywania religijnych, podlega grzywnie, karze ograniczenia al bo pozbawienia do lat 2. XXV Przest,pstwa przeciwko seksualnej loby·
 
 **Art. 197.**
 
-§ 1. Kto doprowadza inną osobę do obcowania płciowego przemocą, groźbą bezprawną, podstępem lub w inny sposób mimo braku jej zgody, podlega karze pozbawienia wolności od lat 2 do 15.
+1. Kto lub doprowadza do obcowania podlega karze pozbawienia od roku do lat 10.
 
-§ 1a. Tej samej karze podlega, kto doprowadza inną osobę do obcowania płciowego wykorzystując brak możliwości rozpoznania przez nią znaczenia czynu lub pokierowania swoim postępowaniem.
+2. sprawca, w sposób w 1, do prowadza do poddania innej seksualnej albo wykonania takiej podlega karze pozbawienia od 3 do lat 5.
 
-§ 2. Jeżeli sprawca w sposób określony w § 1 lub 1a doprowadza inną osobę do poddania się innej czynności seksualnej albo wykonania takiej czynności, podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
+3. sprawca dopuszcza okre w 1 lub 2, ze szczególnym stwem lub wspólnie z podlega karze pozbawienia od lat 2 do 12.
 
-§ 3. Jeżeli sprawca dopuszcza się zgwałcenia:
+**Art. 198.** Kto, innej oso by lub z lub choroby psychicznej brak tej osoby do roz poznania znaczenia czynu lub pokierowania swoim po doprowadza do obcowania go lub do poddania innej seksualnej albo do wykonania takiej podlega karze pozbawienia od 6 do lat 8.
 
-- **1)** wspólnie z inną osobą,
-- **2)** (uchylony)
-- **3)** wobec wstępnego, zstępnego, przysposobionego, przysposabiającego, brata lub siostry,
-- **4)** posługując się bronią palną, nożem lub innym podobnie niebezpiecznym przedmiotem lub środkiem obezwładniającym albo działając w inny sposób bezpośrednio zagrażający życiu,
-- **5)** wobec kobiety ciężarnej,
-- **6)** utrwalając obraz lub dźwięk z przebiegu czynu, podlega karze pozbawienia wolności od lat 3 do 20.
-
-§ 4. Jeżeli sprawca dopuszcza się zgwałcenia wobec małoletniego poniżej lat 15 lub sprawca czynu określonego w § 1–3 działa ze szczególnym okrucieństwem lub następstwem tego czynu jest ciężki uszczerbek na zdrowiu, podlega karze pozbawienia wolności na czas nie krótszy od lat 5 albo karze dożywotniego pozbawienia wolności.
-
-§ 5. Jeżeli następstwem czynu określonego w § 1–4 jest śmierć człowieka, sprawca podlega karze pozbawienia wolności na czas nie krótszy od lat 8 albo karze dożywotniego pozbawienia wolności.
-
-**Art. 198.** Kto, wykorzystując bezradność innej osoby lub wynikające z upośledzenia umysłowego, choroby psychicznej lub innego zakłócenia czynności psychicznych znaczne ograniczenie zdolności do rozpoznania znaczenia czynu lub pokierowania swoim postępowaniem, doprowadza ją do obcowania płciowego lub do poddania się innej czynności seksualnej albo do wykonania takiej czynności, podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
-
-**Art. 199.**
-
-§ 1. Kto, przez nadużycie stosunku zależności lub wykorzystanie krytycznego położenia, doprowadza inną osobę do obcowania płciowego lub do poddania się innej czynności seksualnej albo do wykonania takiej czynności, podlega karze pozbawienia wolności do lat 3.
-
-§ 2. Jeżeli czyn określony w § 1 został popełniony na szkodę małoletniego, sprawca podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
-
-§ 3. Karze określonej w § 2 podlega, kto obcuje płciowo z małoletnim lub dopuszcza się wobec takiej osoby innej czynności seksualnej albo doprowadza ją do poddania się takim czynnościom albo do ich wykonania, nadużywając zaufania lub udzielając w zamian korzyści majątkowej lub osobistej albo jej obietnicy.
+**Art. 199.** Kto, przez stosunku lub wykorzystanie krytycznego doprowadza do obcowania lub do poddania innej seksualnej albo do wykonania ta kiej podlega karze pozbawienia do lat 3.
 
 **Art. 200.**
 
-§ 1. Kto obcuje płciowo z małoletnim poniżej lat 15 lub dopuszcza się wobec takiej osoby innej czynności seksualnej lub doprowadza ją do poddania się takim czynnościom albo do ich wykonania, podlega karze pozbawienia wolności od lat 2 do 15.
+§ 1. Kto doprowadza lat 15 do obcowania lub do poddania in nej seksualnej albo do wykonania takiej podlega karze pozbawienia od roku do lat 10. 2. Tej samej karze podlega, kto utrwala por nograficzne z takiej osoby.
 
-§ 2. (uchylony) § 3. Kto małoletniemu poniżej lat 15 prezentuje treści pornograficzne lub udostępnia mu przedmioty mające taki charakter albo rozpowszechnia treści pornograficzne w sposób umożliwiający takiemu małoletniemu zapoznanie się z nimi, podlega karze pozbawienia wolności do lat 3.
-
-§ 4. Karze określonej w § 3 podlega, kto w celu swojego zaspokojenia seksualnego lub zaspokojenia seksualnego innej osoby prezentuje małoletniemu poniżej lat 15 wykonanie czynności seksualnej.
-
-§ 5. Karze określonej w § 3 podlega, kto prowadzi reklamę lub promocję działalności polegającej na rozpowszechnianiu treści pornograficznych w sposób umożliwiający zapoznanie się z nimi małoletniemu poniżej lat 15.
-
-§ 6. Skazując sprawcę, który popełnił przestępstwo określone w § 1, 3 lub 4 wobec małoletniego poniżej lat 15, który w chwili czynu pozostawał w stosunku zależności od sprawcy, w szczególności pod jego pieczą, lub z wykorzystaniem krytycznego położenia małoletniego poniżej lat 15, sąd orzeka karę pozbawienia wolności przewidzianą za przypisane sprawcy przestępstwo w wysokości od dolnej granicy ustawowego zagrożenia zwiększonego o połowę.
-
-**Art. 200a.**
-
-§ 1. Kto w celu popełnienia przestępstwa określonego w art. 197 § 4 lub art. 200, jak również produkowania lub utrwalania treści pornograficznych, za pośrednictwem systemu teleinformatycznego lub sieci telekomunikacyjnej nawiązuje kontakt z małoletnim poniżej lat 15, zmierzając, za pomocą wprowadzenia go w błąd, wyzyskania błędu lub niezdolności do należytego pojmowania sytuacji albo przy użyciu groźby bezprawnej, do spotkania z nim, podlega karze pozbawienia wolności do lat 3.
-
-§ 2. Kto za pośrednictwem systemu teleinformatycznego lub sieci telekomunikacyjnej małoletniemu poniżej lat 15 składa propozycję obcowania płciowego, poddania się lub wykonania innej czynności seksualnej lub udziału w produkowaniu lub utrwalaniu treści pornograficznych, i zmierza do jej realizacji, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
-
-**Art. 200b.** Kto publicznie propaguje lub pochwala zachowania o charakterze pedofilskim, podlega karze pozbawienia wolności do lat 3.
-
-**Art. 201.** Kto dopuszcza się obcowania płciowego w stosunku do wstępnego, zstępnego, przysposobionego, przysposabiającego, brata lub siostry, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
+**Art. 201.** Kto dopuszcza obcowania w stosunku do przysposobio nego, brata lub siostry, podlega karze pozbawienia od 3 do lat 5.
 
 **Art. 202.**
 
-§ 1. Kto publicznie prezentuje treści pornograficzne w taki sposób, że może to narzucić ich odbiór osobie, która tego sobie nie życzy, podlega karze pozbawienia wolności do lat 3.
+§ 1. Kto publicznie prezentuje por nograficzne w taki sposób, to ich od biór osobie, która tego sobie nie podlega grzywnie, karze ograniczenia al bo pozbawienia do roku. 2. Kto lat 15 prezentuje tre pornograficzne lub mu przedmioty ma taki charakter, podlega grzywnie, karze ograniczenia al bo pozbawienia do lat 2. 3. Kto produkuje w celu rozpowszechniania lub sprowadza albo rozpowszechnia pornograficzne z lat 15 albo z przemocy lub ciem, podlega karze pozbawienia od 3 do lat 5.
 
-§ 2. (uchylony) § 3. Kto w celu rozpowszechniania produkuje, utrwala lub sprowadza, przechowuje lub posiada albo rozpowszechnia lub prezentuje treści pornograficzne z udziałem małoletniego albo treści pornograficzne związane z prezentowaniem przemocy lub posługiwaniem się zwierzęciem, podlega karze pozbawienia wolności od lat 2 do 15.
-
-§ 4. Kto utrwala treści pornograficzne z udziałem małoletniego, podlega karze pozbawienia wolności od roku do lat 10.
-
-§ 4a. Kto przechowuje, posiada lub uzyskuje dostęp do treści pornograficznych z udziałem małoletniego, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
-
-§ 4b. Kto produkuje, rozpowszechnia, prezentuje, przechowuje lub posiada treści pornograficzne przedstawiające wytworzony albo przetworzony wizerunek małoletniego uczestniczącego w czynności seksualnej podlega karze pozbawienia wolności do lat 3.
-
-§ 4c. Karze określonej w § 4b podlega, kto w celu zaspokojenia seksualnego uczestniczy w prezentacji treści pornograficznych z udziałem małoletniego.
-
-§ 5. Sąd może orzec przepadek narzędzi lub innych przedmiotów, które służyły lub były przeznaczone do popełnienia przestępstw określonych w § 1–4b, chociażby nie stanowiły własności sprawcy.
-
-**Art. 203.**
-
-§ 1. Kto, wykorzystując stosunek zależności lub krytyczne położenie, doprowadza inną osobę do uprawiania prostytucji, podlega karze pozbawienia wolności od roku do lat 10.
-
-§ 2. Kto, przemocą, groźbą bezprawną lub podstępem doprowadza inną osobę do uprawiania prostytucji, podlega karze pozbawienia wolności od lat 2 do 15.
+**Art. 203.** Kto, pod lub stosunek lub kry tyczne doprowadza do uprawia nia prostytucji, podlega karze pozbawienia od roku do lat 10.
 
 **Art. 204.**
 
-§ 1. Kto, w celu osiągnięcia korzyści majątkowej, nakłania inną osobę do uprawiania prostytucji lub jej to ułatwia, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
+§ 1. Kto, w celu ma do uprawiania prostytu cji lub jej to podlega karze pozbawienia do lat 3. 2. Karze w 1 podlega, kto czerpie ko z uprawiania prostytucji przez 3. osoba w 1 lub 2 jest nim, sprawca podlega karze pozbawienia od roku do lat 10. 4. Karze w 3 podlega, kto zwabia lub uprowadza w celu uprawiania prostytucji za
 
-§ 2. Karze określonej w § 1 podlega, kto czerpie korzyści majątkowe z uprawiania prostytucji przez inną osobę.
+**Art. 205.** Ściganie przestępstw określonych wart. 197 lub 199, jak wart. 198, w tym przepisie stan ofiary nie jest wynikiem psychicznych, na wniosek po krzywdzonego. XXVI przeciwko rodzinie i opiece
 
-§ 3. Jeżeli osoba określona w § 1 lub 2 jest małoletnim, sprawca podlega karze pozbawienia wolności od roku do lat 10.
-
-§ 4. (uchylony)
-
-**Art. 205.** (uchylony)
-
-#### Rozdział XXVI Przestępstwa przeciwko rodzinie i opiece
-
-**Art. 206.** Kto zawiera małżeństwo, pomimo że pozostaje w związku małżeńskim, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
+**Art. 206.** Kto zawiera pomimo po zostaje w podlega grzywnie, karze ograniczenia al bo pozbawienia do lat 2.
 
 **Art. 207.**
 
-§ 1. Kto znęca się fizycznie lub psychicznie nad osobą najbliższą lub nad inną osobą pozostającą w stałym lub przemijającym stosunku zależności od sprawcy, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
+§ 1. Kto fizycznie lub psychicznie nad lub nad w lub stosunku od sprawcy albo nad lub ze na jej stan psychiczny lub fizyczny, podlega karze pozbawienia od 3 do lat 5. 2. czyn w 1 jest ze stosowaniem szczególnego sprawca podlega karze pozbawienia od roku do lat 10. 3. czynu w 1 lub 2 jest pokrzywdzonego na cie, sprawca podlega karze pozbawienia od lat 2 do 12.
 
-§ 1a. Kto znęca się fizycznie lub psychicznie nad osobą nieporadną ze względu na jej wiek, stan psychiczny lub fizyczny, podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
-
-§ 2. Jeżeli czyn określony w § 1 lub 1a połączony jest ze stosowaniem szczególnego okrucieństwa, sprawca podlega karze pozbawienia wolności od roku do lat 10.
-
-§ 3. Jeżeli następstwem czynu określonego w § 1–2 jest targnięcie się pokrzywdzonego na własne życie, sprawca podlega karze pozbawienia wolności od lat 2 do 15.
-
-**Art. 208.** Kto rozpija małoletniego, dostarczając mu napoju alkoholowego, ułatwiając jego spożycie lub nakłaniając go do spożycia takiego napoju, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
+**Art. 208.** Kto rozpija mu napoju alkoholowego, jego lub na go do takiego napoju, podlega grzywnie, karze ograniczenia al bo pozbawienia do lat 2.
 
 **Art. 209.**
 
-§ 1. Kto uchyla się od wykonania obowiązku alimentacyjnego określonego co do wysokości orzeczeniem sądowym, ugodą zawartą przed sądem albo innym organem albo inną umową, jeżeli łączna wysokość powstałych wskutek tego zaległości stanowi równowartość co najmniej 3 świadczeń okresowych albo jeżeli opóźnienie zaległego świadczenia innego niż okresowe wynosi co najmniej 3 miesiące, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
-
-§ 1a. Jeżeli sprawca czynu określonego w § 1 naraża osobę uprawnioną na niemożność zaspokojenia podstawowych potrzeb życiowych, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
-
-§ 2. Ściganie przestępstwa określonego w § 1 lub 1a następuje na wniosek pokrzywdzonego, organu pomocy społecznej lub organu podejmującego działania wobec dłużnika alimentacyjnego.
-
-§ 3. Jeżeli pokrzywdzonemu przyznano odpowiednie świadczenia rodzinne albo świadczenia pieniężne wypłacane w przypadku bezskuteczności egzekucji alimentów, ściganie przestępstwa określonego w § 1 lub 1a odbywa się z urzędu.
-
-§ 4. Nie podlega karze sprawca przestępstwa określonego w § 1, który nie później niż przed upływem 30 dni od dnia pierwszego przesłuchania w charakterze podejrzanego uiścił w całości zaległe alimenty.
-
-§ 5. Sąd odstępuje od wymierzenia kary, jeżeli nie później niż przed upływem 30 dni od dnia pierwszego przesłuchania w charakterze podejrzanego sprawca przestępstwa określonego w § 1a uiścił w całości zaległe alimenty, chyba że wina i społeczna szkodliwość czynu przemawiają przeciwko odstąpieniu od wymierzenia kary.
+§ 1. Kto uporczywie uchyla od wykona nia na nim z mocy ustawy lub orzeczenia dowego opieki przez na utrzy manie osoby lub innej osoby i przez to na na zaspokojenia podstawowych potrzeb podlega grzywnie, karze ograniczenia al bo pozbawienia do lat 2. 2. Ściganie następuje na wniosek pokrzywdzone go, organu opieki lub instytucji. 3. pokrzywdzonemu przyznano nie z funduszu alimentacyjnego, odbywa z
 
 **Art. 210.**
 
-§ 1. Kto wbrew obowiązkowi troszczenia się o małoletniego poniżej lat 15 albo o osobę nieporadną ze względu na jej stan psychiczny lub fizyczny osobę tę porzuca, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
+§ 1. Kto wbrew troszczenia o lat 15 albo o niepo ze na jej stan psychiczny lub fizyczny porzuca, podlega karze pozbawienia do lat 3. 2. czynu jest osoby w 1, sprawca podlega karze pozbawienia od 6 do lat 8.
 
-§ 2. Jeżeli następstwem czynu jest śmierć osoby określonej w § 1, sprawca podlega karze pozbawienia wolności od lat 2 do 15.
-
-**Art. 211.** Kto, wbrew woli osoby powołanej do opieki lub nadzoru, uprowadza lub zatrzymuje małoletniego poniżej lat 15 albo osobę nieporadną ze względu na jej stan psychiczny lub fizyczny, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
-
-**Art. 211a.**
-
-§ 1. Kto, w celu osiągnięcia korzyści majątkowej, zajmuje się organizowaniem adopcji dzieci wbrew przepisom ustawy, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
-
-§ 2. Tej samej karze podlega, kto, będąc osobą, której przysługuje władza rodzicielska nad dzieckiem, wyraża zgodę na adopcję tego dziecka przez inną osobę:
-
-- **1)** w celu osiągnięcia korzyści majątkowej lub osobistej, zatajając ten cel przed sądem orzekającym w postępowaniu w sprawie o przysposobienie, a w przypadku wyrażenia przez rodzica zgody na przysposobienie dziecka w przyszłości bez wskazania osoby przysposabiającego – przed sądem przyjmującym oświadczenie o wyrażeniu tej zgody,
-- **2)** z pominięciem postępowania w sprawie o przysposobienie.
-
-§ 3. Tej samej karze podlega, kto wyraża zgodę na adopcję dziecka przez siebie w warunkach, o których mowa w § 2.
-
-#### Rozdział XXVII Przestępstwa przeciwko czci i nietykalności cielesnej
+**Art. 211.** Kto, wbrew woli osoby do opieki lub nadzoru, uprowadza lub zatrzymuje niego lat 15 albo ze na jej stan psychiczny lub fizyczny, podlega karze pozbawienia do lat 3. XXVII przeciwko czci i cielesnej
 
 **Art. 212.**
 
-§ 1. Kto pomawia inną osobę, grupę osób, instytucję, osobę prawną lub jednostkę organizacyjną niemającą osobowości prawnej o takie postępowanie lub właściwości, które mogą poniżyć ją w opinii publicznej lub narazić na utratę zaufania potrzebnego dla danego stanowiska, zawodu lub rodzaju działalności, podlega grzywnie albo karze ograniczenia wolności.
-
-§ 2. Jeżeli sprawca dopuszcza się czynu określonego w § 1 za pomocą środków masowego komunikowania, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
-
-§ 3. W razie skazania za przestępstwo określone w § 1 lub 2 sąd może orzec nawiązkę na rzecz pokrzywdzonego, Polskiego Czerwonego Krzyża albo na inny cel społeczny wskazany przez pokrzywdzonego.
-
-§ 4. Ściganie przestępstwa określonego w § 1 lub 2 odbywa się z oskarżenia prywatnego.
+§ 1. Kto pomawia osób, lub organinie prawnej o takie po lub które w opinii publicznej lub na zaufania po trzebnego dla danego stanowiska, zawodu lub rodza ju podlega grzywnie, karze ograniczenia albo pozba wienia do roku. 2. sprawca dopuszcza czynu go w 1 za masowego komunikowa nia, podlega grzywnie, karze ograniczenia al bo pozbawienia do lat 2. 3. W razie skazania za w 1 lub 2 orzec na rzecz pokrzyw dzonego, Polskiego Czerwonego albo na inny cel wskazany przez pokrzywdzonego. 4. Ściganie przestępstwa określonego w 1 lub 2 odbyvya z prywatnego.
 
 **Art. 213.**
 
-§ 1. Nie ma przestępstwa określonego w art. 212 § 1, jeżeli zarzut uczyniony niepublicznie jest prawdziwy.
+§ 1. Nie ma wart. 212 1, zarzut uczyniony niepublicznie jest prawdziwy. 2. Nie wart. 212 1 lub 2, kto publicznie podnosi lub sza prawdziwy zarzut obronie uza sadnionego interesu; zarzut dotyczy pry watnego lub rodzinnego, dowód prawdy przeprowadzony tylko wtedy, gdy zarzut ma zapobiec dla lub zdrowia al bo demoralizacji
 
-§ 2. Nie popełnia przestępstwa określonego w art. 212 § 1 lub 2, kto publicznie podnosi lub rozgłasza prawdziwy zarzut:
+**Art. 214.** Brak z przyczyn wart. 213 nie sprawcy za ze na podniesie nia lub zarzutu.
 
-- **1)** dotyczący postępowania osoby pełniącej funkcję publiczną lub
-- **2)** służący obronie społecznie uzasadnionego interesu. Jeżeli zarzut dotyczy życia prywatnego lub rodzinnego, dowód prawdy może być przeprowadzony tylko wtedy, gdy zarzut ma zapobiec niebezpieczeństwu dla życia lub zdrowia człowieka albo demoralizacji małoletniego.
-
-**Art. 214.** Brak przestępstwa wynikający z przyczyn określonych w art. 213 nie wyłącza odpowiedzialności sprawcy za zniewagę ze względu na formę podniesienia lub rozgłoszenia zarzutu.
-
-**Art. 215.** Na wniosek pokrzywdzonego sąd orzeka podanie wyroku skazującego do publicznej wiadomości.
+**Art. 215.** Na wniosek pokrzywdzonego orzeka podanie wyroku do publicznej wiadomo
 
 **Art. 216.**
 
-§ 1. Kto znieważa inną osobę w jej obecności albo choćby pod jej nieobecność, lecz publicznie lub w zamiarze, aby zniewaga do osoby tej dotarła, podlega grzywnie albo karze ograniczenia wolności.
-
-§ 2. Kto znieważa inną osobę za pomocą środków masowego komunikowania, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
-
-§ 3. Jeżeli zniewagę wywołało wyzywające zachowanie się pokrzywdzonego albo jeżeli pokrzywdzony odpowiedział naruszeniem nietykalności cielesnej lub zniewagą wzajemną, sąd może odstąpić od wymierzenia kary.
-
-§ 4. W razie skazania za przestępstwo określone w § 2 sąd może orzec nawiązkę na rzecz pokrzywdzonego, Polskiego Czerwonego Krzyża albo na inny cel społeczny wskazany przez pokrzywdzonego.
-
-§ 5. Ściganie odbywa się z oskarżenia prywatnego.
+§ 1. Kto w jej obec albo pod jej lecz publicznie lub w zamiarze, aby zniewaga do osoby tej podlega grzywnie albo karze ograniczenia wolno 2. Kto za masowego komunikowania, podlega grzywnie, karze ograniczenia al bo pozbawienia do roku. 3. zacho wanie pokrzywdzonego albo pokrzywdzony naruszeniem cielesnej lub od wymierze nia kary. 4. W razie skazania za w 2 orzec na rzecz pokrzywdzo nego, Polskiego Czerwonego albo na inny cel wskazany przez pokrzywdzonego. 5. Ściganie odbywa się z oskarżenia prywatne go.
 
 **Art. 217.**
 
-§ 1. Kto uderza człowieka lub w inny sposób narusza jego nietykalność cielesną, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
-
-§ 2. Jeżeli naruszenie nietykalności wywołało wyzywające zachowanie się pokrzywdzonego albo jeżeli pokrzywdzony odpowiedział naruszeniem nietykalności, sąd może odstąpić od wymierzenia kary.
-
-§ 3. Ściganie odbywa się z oskarżenia prywatnego.
-
-**Art. 217a.**
-
-§ 1. Kto uderza człowieka lub w inny sposób narusza jego nietykalność cielesną w związku z podjętą przez niego interwencją na rzecz ochrony bezpieczeństwa ludzi lub ochrony bezpieczeństwa lub porządku publicznego, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
-
-§ 2. Jeżeli sprawca czynu określonego w § 1 naraża pokrzywdzonego na bezpośrednie niebezpieczeństwo utraty życia albo ciężkiego uszczerbku na zdrowiu, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
-
-#### Rozdział XXVIII Przestępstwa przeciwko prawom osób wykonujących pracę zarobkową
+§ 1. Kto uderza lub w inny sposób narusza jego podlega grzywnie, karze ograniczenia al bo pozbawienia do roku. 2. naruszenie wy zachowanie pokrzywdzonego albo pokrzywdzony naruszeniem nietykalno od wymierzenia kary. 3. Ściganie odbywa się z oskarżenia prywatne go. XXVIII przeciwko prawom osób cych
 
 **Art. 218.**
 
-§ 1. (utracił moc) § 1a. Kto, wykonując czynności w sprawach z zakresu prawa pracy i ubezpieczeń społecznych, złośliwie lub uporczywie narusza prawa pracownika wynikające ze stosunku pracy lub ubezpieczenia społecznego, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
+§ 1. Kto, w sprawach z zakresu prawa pracy i lub uporczywie narusza prawa pracownika wy ze stosunku pracy lub ubezpieczenia nego, podlega grzywnie, karze ograniczenia al bo pozbawienia do lat 2. 2. Osoba w 1, ponow nego do pracy, o której przywróceniu organ, podlega grzywnie, karze ograniczenia al bo pozbawienia do roku.
 
-§ 2. Osoba określona w § 1a, odmawiająca ponownego przyjęcia do pracy, o której przywróceniu orzekł właściwy organ, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
-
-§ 3. Osoba określona w § 1a, która będąc zobowiązana orzeczeniem sądu do wypłaty wynagrodzenia za pracę lub innego świadczenia ze stosunku pracy, obowiązku tego nie wykonuje, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 3.
-
-**Art. 218a.** Kto, złośliwie lub uporczywie:
-
-**Art. 219.** Kto narusza przepisy prawa o ubezpieczeniach społecznych, nie zgłaszając, nawet za zgodą zainteresowanego, wymaganych danych albo zgłaszając nieprawdziwe dane mające wpływ na prawo do świadczeń albo ich wysokość, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
+**Art. 219.** Kto narusza przepisy prawa o ubezpiecze niach nie nawet za za interesowanego, wymaganych danych albo nieprawdziwe dane na prawo do albo ich podlega grzywnie, karze ograniczenia al bo pozbawienia do lat 2.
 
 **Art. 220.**
 
-§ 1. Kto, będąc odpowiedzialny za bezpieczeństwo i higienę pracy, nie dopełnia wynikającego stąd obowiązku i przez to naraża pracownika na bezpośrednie niebezpieczeństwo utraty życia albo ciężkiego uszczerbku na zdrowiu, podlega karze pozbawienia wolności do lat 3.
+§ 1. Kto, odpowiedzialny za bezpie i pracy, nie i przez to pracownika na bezpo utraty albo uszczerbku na zdrowiu, podlega karze pozbawienia do lat 3. 2. sprawca podlega grzywnie, karze ograniczenia al bo pozbawienia do roku. 3. Nie podlega karze sprawca, który dobrowolnie
 
-§ 2. Jeżeli sprawca działa nieumyślnie, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
-
-§ 3. Nie podlega karze sprawca, który dobrowolnie uchylił grożące niebezpieczeństwo.
-
-**Art. 221.** Kto wbrew obowiązkowi nie zawiadamia w terminie właściwego organu o wypadku przy pracy lub chorobie zawodowej albo nie sporządza lub nie przedstawia wymaganej dokumentacji, podlega grzywnie do 180 stawek dziennych albo karze ograniczenia wolności.
-
-#### Rozdział XXIX Przestępstwa przeciwko działalności instytucji państwowych oraz samorządu terytorialnego
+**Art. 221.** Kto wbrew nie zawiadamia w terminie organu o wypadku przy pracy lub chorobie zawodowej albo nie lub nie przedstawia wymaganej dokumentacji, podlega grzywnie do 180 stawek dziennych albo karze ograniczenia XXIX przeciwko instytucji stwowych oraz terytorialnego
 
 **Art. 222.**
 
-§ 1. Kto narusza nietykalność cielesną funkcjonariusza publicznego lub osoby do pomocy mu przybranej podczas lub w związku z pełnieniem obowiązków służbowych, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 3.
+§ 1. Kto narusza funkcjonariusza publicznego lub osoby do pomocy mu przybranej podczas lub w z obo podlega grzywnie, karze ograniczenia al bo pozbawienia do lat 3. 2. czyn w 1 zachowanie funkcjonariusza lub osoby do pomocy mu przybranej, nadzwy czajne kary, a nawet od jej wy mierzenia.
 
-§ 1a. Jeżeli sprawca czynu określonego w § 1 naraża pokrzywdzonego na bezpośrednie niebezpieczeństwo utraty życia albo ciężkiego uszczerbku na zdrowiu, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
-
-§ 2. Jeżeli czyn określony w § 1 lub 1a wywołało niewłaściwe zachowanie się funkcjonariusza lub osoby do pomocy mu przybranej, sąd może zastosować nadzwyczajne złagodzenie kary, a nawet odstąpić od jej wymierzenia.
-
-§ 3. Na wniosek pokrzywdzonego sąd orzeka podanie wyroku skazującego do publicznej wiadomości.
-
-**Art. 223.**
-
-§ 1. Kto, działając wspólnie i w porozumieniu z inną osobą lub używając broni palnej, noża lub innego podobnie niebezpiecznego przedmiotu albo środka obezwładniającego, dopuszcza się czynnej napaści na funkcjonariusza publicznego lub osobę do pomocy mu przybraną podczas lub w związku z pełnieniem obowiązków służbowych, podlega karze pozbawienia wolności od roku do lat 10.
-
-§ 2. Jeżeli w wyniku czynnej napaści nastąpił skutek w postaci ciężkiego uszczerbku na zdrowiu funkcjonariusza publicznego lub osoby do pomocy mu przybranej, sprawca podlega karze pozbawienia wolności od lat 2 do 15.
-
-§ 3. Na wniosek pokrzywdzonego sąd orzeka podanie wyroku skazującego do publicznej wiadomości.
-
-**Art. 223a.**
-
-§ 1. Kto publicznie nawołuje do udostępnienia informacji dotyczących życia prywatnego funkcjonariusza organu powołanego do ochrony bezpieczeństwa publicznego albo funkcjonariusza Służby Więziennej, których udostępnienie może spowodować zagrożenie bezpieczeństwa tego funkcjonariusza lub osoby dla niego najbliższej, podlega karze pozbawienia wolności do lat 3.
-
-§ 2. Tej samej karze podlega sprawca czynu określonego w § 1 popełnionego na szkodę byłego funkcjonariusza publicznego, o którym mowa w § 1, jeżeli czyn ten pozostaje w związku z zadaniami z zakresu ochrony bezpieczeństwa publicznego lub zadaniami Służby Więziennej, które pokrzywdzony wykonywał.
-
-**Art. 223b.**
-
-§ 1. Kto bez zgody funkcjonariusza organu powołanego do ochrony bezpieczeństwa publicznego albo funkcjonariusza Służby Więziennej, udostępnia innej osobie informacje dotyczące jego życia prywatnego, których udostępnienie może spowodować zagrożenie bezpieczeństwa tego funkcjonariusza lub osoby dla niego najbliższej, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
-
-§ 2. Tej samej karze podlega sprawca czynu określonego w § 1, popełnionego na szkodę byłego funkcjonariusza publicznego, o którym mowa w § 1, jeżeli czyn ten pozostaje w związku z zadaniami z zakresu ochrony bezpieczeństwa publicznego lub zadaniami Służby Więziennej, które pokrzywdzony wykonywał.
-
-§ 3. Jeżeli udostępnienie informacji przez sprawcę czynu określonego w § 1 lub 2 następuje przez ich publiczne rozpowszechnienie, sprawca podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
+**Art. 223.** Kto, wspólnie i w porozumieniu z innymi osobami lub broni palnej, lub innego podobnie niebezpiecznego przedmiotu albo dopuszcza czynnej na na funkcjonariusza publicznego lub do po mocy mu podczas lub w z niem podlega karze pozbawienia od roku do lat 10.
 
 **Art. 224.**
 
-§ 1. Kto przemocą lub groźbą bezprawną wywiera wpływ na czynności urzędowe organu administracji rządowej, innego organu państwowego lub samorządu terytorialnego, podlega karze pozbawienia wolności do lat 3.
-
-§ 2. Tej samej karze podlega, kto stosuje przemoc lub groźbę bezprawną w celu zmuszenia funkcjonariusza publicznego albo osoby do pomocy mu przybranej do przedsięwzięcia lub zaniechania prawnej czynności służbowej.
-
-§ 3. Jeżeli następstwem czynu określonego w § 2 jest skutek określony w art. 156 § 1 lub w art. 157 § 1, sprawca podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
-
-**Art. 224a.**
-
-§ 1. Kto wiedząc, że zagrożenie nie istnieje, zawiadamia o zdarzeniu, które zagraża życiu lub zdrowiu wielu osób lub mieniu w znacznych rozmiarach lub stwarza sytuację, mającą wywołać przekonanie o istnieniu takiego zagrożenia, czym wywołuje czynność instytucji użyteczności publicznej lub organu ochrony bezpieczeństwa, porządku publicznego lub zdrowia mającą na celu uchylenie zagrożenia, podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
-
-§ 2. Jeżeli sprawca czynu określonego w § 1 zawiadamia o więcej niż jednym zdarzeniu, podlega karze pozbawienia wolności od lat 2 do 15.
-
-**Art. 224b.** W razie skazania za przestępstwo określone w art. 224a sąd orzeka:
+§ 1. Kto lub wywiera na organu admi nistracji innego organu lub terytorialnego, podlega karze pozbawienia do lat 3. 2. Tej samej karze podlega, kto stosuje przemoc lub w celu zmuszenia funkcjonariu sza publicznego albo osoby do pomocy mu przybranej do lub zaniechania prawnej 3. czynu w 2 jest skutek wart. 156 1 lub wart. 157 1, sprawca podlega karze pozbawienia od 3 do lat 5.
 
 **Art. 225.**
 
-§ 1. Kto osobie uprawnionej do przeprowadzania kontroli w zakresie ochrony środowiska lub osobie przybranej jej do pomocy udaremnia lub utrudnia wykonanie czynności służbowej, podlega karze pozbawienia wolności do lat 3.
+1. Kto osobie uprawnionej do przepro wadzania kontroli w zakresie ochrony lub osobie przybranej jej do pomocy udaremnia lub utrud nia wykonanie podlega karze pozbawienia do lat 3.
 
-§ 2. Tej samej karze podlega, kto osobie uprawnionej do kontroli w zakresie inspekcji pracy lub osobie przybranej jej do pomocy udaremnia lub utrudnia wykonanie czynności służbowej.
-
-§ 3. (uchylony) § 4. Tej samej karze podlega, kto osobie upoważnionej do przeprowadzania czynności w zakresie nadzoru i kontroli w jednostkach organizacyjnych pomocy społecznej lub w placówkach zapewniających całodobową opiekę osobom niepełnosprawnym, przewlekle chorym lub osobom w podeszłym wieku udaremnia lub utrudnia wykonanie czynności służbowych.
+2. Tej samej karze podlega, kto osobie uprawnio nej do kontroli w zakresie inspekcji pracy lub osobie przybranej jej do pomocy udaremnia lub utrudnia wy konanie
 
 **Art. 226.**
 
-§ 1. Kto znieważa funkcjonariusza publicznego lub osobę do pomocy mu przybraną, podczas i w związku z pełnieniem obowiązków służbowych, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
+§ 1. Kto funkcjonariusza publicz nego albo do pomocy mu podczas lub w z podlega grzywnie, karze ograniczenia al bo pozbawienia do roku. 2. Przepis art. 222 2 stosuje odpowiednio. 3. Kto publicznie lub konstytucyj ny organ Rzeczypospolitej Polskiej, podlega grzywnie, karze ograniczenia al bo pozbawienia do lat 2.
 
-§ 2. Przepis art. 222 § 2 stosuje się odpowiednio.
-
-§ 3. Kto publicznie znieważa lub poniża konstytucyjny organ Rzeczypospolitej Polskiej, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
-
-**Art. 227.** Kto, podając się za funkcjonariusza publicznego albo wyzyskując błędne przeświadczenie o tym innej osoby, wykonuje czynność związaną z jego funkcją, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
+**Art. 227.** Kto, za funkcjonariusza publicz nego albo o tym in nej osoby, wykonuje z jego podlega grzywnie, karze ograniczenia al bo pozbawienia do roku.
 
 **Art. 228.**
 
-§ 1. Kto, w związku z pełnieniem funkcji publicznej, przyjmuje korzyść majątkową lub osobistą albo jej obietnicę, podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
-
-§ 2. W wypadku mniejszej wagi, sprawca podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
-
-§ 3. Kto, w związku z pełnieniem funkcji publicznej, przyjmuje korzyść majątkową lub osobistą albo jej obietnicę za zachowanie stanowiące naruszenie przepisów prawa, podlega karze pozbawienia wolności od roku do lat 10.
-
-§ 4. Karze określonej w § 3 podlega także ten, kto, w związku z pełnieniem funkcji publicznej, uzależnia wykonanie czynności służbowej od otrzymania korzyści majątkowej lub osobistej albo jej obietnicy lub takiej korzyści żąda.
-
-§ 5. Kto, w związku z pełnieniem funkcji publicznej, przyjmuje korzyść majątkową znacznej wartości albo jej obietnicę, podlega karze pozbawienia wolności od lat 2 do 15.
-
-§ 5a. Kto, w związku z pełnieniem funkcji publicznej, przyjmuje korzyść majątkową wielkiej wartości albo jej obietnicę, podlega karze pozbawienia wolności od lat 3 do 20.
-
-§ 6. Karom określonym w § 1–5a podlega odpowiednio także ten, kto, w związku z pełnieniem funkcji publicznej w państwie obcym lub w organizacji międzynarodowej, przyjmuje korzyść majątkową lub osobistą albo jej obietnicę lub takiej korzyści żąda, albo uzależnia wykonanie czynności służbowej od jej otrzymania.
+§ 1. Kto, w z funkcji publicznej, przyjmuje lub albo jej lub takiej podlega karze pozbawienia od 6 do lat 8. 2. W wypadku mniejszej wagi, sprawca podlega grzywnie, karze ograniczenia al bo pozbawienia do lat 2. 3. czyn w 1 w z naruszeniem przepisów prawa, sprawca podlega karze pozbawienia od roku do lat 10. 4. Karze w 3 podlega ten, kto, w z funkcji publicznej, wykonanie od otrzymania korzy 5. Kto, w z funkcji publicznej, przyjmuje znacznej lub jej podlega karze pozbawienia od lat 2 do 12.
 
 **Art. 229.**
 
-§ 1. Kto udziela albo obiecuje udzielić korzyści majątkowej lub osobistej osobie pełniącej funkcję publiczną w związku z pełnieniem tej funkcji, podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
+§ 1. Kto udziela lub obiecuje ko lub osobistej osobie funk podlega karze pozbawienia od 3 do lat 5. 2. W wypadku mniejszej wagi, sprawca podlega grzywnie, karze ograniczenia al bo pozbawienia do roku. 3. Kto udziela lub obiecuje ma lub osobistej osobie publicz aby do naruszenia go, albo udziela takiej osobie za naruszenie podlega karze pozbawienia od 6 do lat 8. 4. Karze w 3 podlega, kto osobie udziela lub obiecuje znacznej
 
-§ 2. W wypadku mniejszej wagi, sprawca podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
-
-§ 3. Jeżeli sprawca czynu określonego w § 1 działa, aby skłonić osobę pełniącą funkcję publiczną do naruszenia przepisów prawa lub udziela albo obiecuje udzielić takiej osobie korzyści majątkowej lub osobistej za naruszenie przepisów prawa, podlega karze pozbawienia wolności od roku do lat 10.
-
-§ 4. Kto osobie pełniącej funkcję publiczną, w związku z pełnieniem tej funkcji, udziela albo obiecuje udzielić korzyści majątkowej znacznej wartości, podlega karze pozbawienia wolności od lat 2 do 15.
-
-§ 4a. Kto osobie pełniącej funkcję publiczną, w związku z pełnieniem tej funkcji, udziela albo obiecuje udzielić korzyści majątkowej wielkiej wartości, podlega karze pozbawienia wolności od lat 3 do 20.
-
-§ 5. Karom określonym w § 1–4a podlega odpowiednio także ten, kto udziela albo obiecuje udzielić korzyści majątkowej lub osobistej osobie pełniącej funkcję publiczną w państwie obcym lub w organizacji międzynarodowej, w związku z pełnieniem tej funkcji.
-
-§ 6. Nie podlega karze sprawca przestępstwa określonego w § 1–5, jeżeli korzyść majątkowa lub osobista albo ich obietnica zostały przyjęte przez osobę pełniącą funkcję publiczną, a sprawca zawiadomił o tym fakcie organ powołany do ścigania przestępstw i ujawnił wszystkie istotne okoliczności przestępstwa, zanim organ ten o nim się dowiedział.
-
-**Art. 230.**
-
-§ 1. Kto, w zamian za korzyść majątkową lub osobistą albo jej obietnicę, podejmuje się pośrednictwa w załatwieniu sprawy, powołując się na wpływy, wywołując u innej osoby przekonanie o istnieniu wpływów, wykorzystując takie przekonanie lub utwierdzając ją w przekonaniu o istnieniu wpływów w:
-
-- **1)** instytucji państwowej lub samorządowej,
-- **2)** organizacji krajowej lub międzynarodowej,
-- **3)** krajowej lub zagranicznej jednostce organizacyjnej dysponującej środkami publicznymi,
-- **4)** przedsiębiorstwie państwowym,
-- **5)** spółce handlowej z udziałem Skarbu Państwa, samorządu terytorialnego lub państwowej osoby prawnej, podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
-
-§ 2. W wypadku mniejszej wagi, sprawca podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
-
-**Art. 230a.**
-
-§ 1. Kto udziela albo obiecuje udzielić korzyści majątkowej lub osobistej w zamian za pośrednictwo w załatwieniu sprawy w podmiocie wskazanym w art. 230 § 1, polegające na bezprawnym wywarciu wpływu na decyzję, działanie lub zaniechanie osoby pełniącej funkcję publiczną, w związku z pełnieniem tej funkcji, podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
-
-§ 2. W wypadku mniejszej wagi, sprawca podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
-
-§ 3. Nie podlega karze sprawca przestępstwa określonego w § 1 albo w § 2, jeżeli korzyść majątkowa lub osobista albo ich obietnica zostały przyjęte, a sprawca zawiadomił o tym fakcie organ powołany do ścigania przestępstw i ujawnił wszystkie istotne okoliczności przestępstwa, zanim organ ten o nim się dowiedział.
+**Art. 230.** Kto, na swoje w in stytucji lub terytorialnego, po dejmuje w sprawy w za mian za lub jej podlega karze pozbawienia do lat 3.
 
 **Art. 231.**
 
-§ 1. Funkcjonariusz publiczny, który, przekraczając swoje uprawnienia lub nie dopełniając obowiązków, działa na szkodę interesu publicznego lub prywatnego, podlega karze pozbawienia wolności do lat 3.
+1. Funkcjonariusz publiczny, który, prze swoje uprawnienia lub nie obo na interesu publicznego lub prywatnego, podlega karze pozbawienia do lat 3. Dziennik Ustaw Nr 88 - 2703- Poz. 553
 
-§ 2. Jeżeli sprawca dopuszcza się czynu określonego w § 1 w celu osiągnięcia korzyści majątkowej lub osobistej, podlega karze pozbawienia wolności od roku do lat 10.
+2. sprawca dopuszcza czynu go w 1 w celu lub osobistej, podlega karze pozbawienia od roku do lat 10.
 
-§ 3. Jeżeli sprawca czynu określonego w § 1 działa nieumyślnie i wyrządza istotną szkodę, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
+3. sprawca czynu w 1 i podlega grzywnie, karze ograniczenia al bo pozbawienia do lat 2.
 
-§ 4. Przepisu § 2 nie stosuje się, jeżeli czyn wyczerpuje znamiona czynu zabronionego określonego w art. 228.
+4. Przepisu 2 nie stosuje czyn wyczer puje znamiona czynu zabronionego wart. 228. XXX przeciwko wymiarowi
 
-**Art. 231a.** Z ochrony prawnej przewidzianej dla funkcjonariuszy publicznych podczas lub w związku z pełnieniem obowiązków służbowych funkcjonariusz publiczny korzysta również wtedy, jeżeli bezprawny zamach na jego osobę został podjęty z powodu wykonywanego przez niego zawodu lub zajmowanego stanowiska.
-
-**Art. 231b.**
-
-§ 1. Osoba, która w obronie koniecznej odpiera zamach na jakiekolwiek cudze dobro chronione prawem, chroniąc bezpieczeństwo lub porządek publiczny, korzysta z ochrony prawnej przewidzianej dla funkcjonariuszy publicznych.
-
-§ 2. (uchylony) § 3. Jeżeli czyn sprawcy zamachu skierowany przeciwko osobie odpierającej zamach godzi wyłącznie w cześć lub godność tej osoby, ściganie następuje na wniosek pokrzywdzonego.
-
-#### Rozdział XXX Przestępstwa przeciwko wymiarowi sprawiedliwości
-
-**Art. 232.**
-
-§ 1. Kto przemocą lub groźbą bezprawną wywiera wpływ na czynności urzędowe sądu, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
-
-§ 2. Tej samej karze podlega sprawca przestępstwa określonego w § 1, popełnionego na szkodę międzynarodowego trybunału karnego lub jego organu działającego na podstawie umowy międzynarodowej, której Rzeczpospolita Polska jest stroną, albo powołanego przez organizację międzynarodową ukonstytuowaną umową ratyfikowaną przez Rzeczpospolitą Polską.
+**Art. 232.** Kto lub wywiera na podlega karze pozbawienia od 3 do lat 5.
 
 **Art. 233.**
 
-§ 1. Kto, składając zeznanie mające służyć za dowód w postępowaniu sądowym lub w innym postępowaniu prowadzonym na podstawie ustawy, zeznaje nieprawdę lub zataja prawdę, podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
+§ 1. Kto, zeznanie za dowód w lub w innym po prowadzonym na podstawie ustawy, ze znaje lub zataja podlega karze pozbawienia do lat 3. 2. Warunkiem jest, aby przyj zeznanie, w zakresie swoich upraw o kar nej za zeznanie lub od niego przyrze czenie. 3. Nie podlega karze, kto, nie o prawie odmowy zeznania lub odpowiedzi na pytania, zeznanie z obawy przed jemu samemu lub jego 4. Kto, jako rzeczoznawca lub przedstawia lub za dowód w w 1, podlega karze pozbawienia do lat 3. 5. nadzwyczajne nie kary, a nawet od jej wymierzenia,
 
-§ 1a. Jeżeli sprawca czynu określonego w § 1 zeznaje nieprawdę lub zataja prawdę z obawy przed odpowiedzialnością karną grożącą jemu samemu lub jego najbliższym, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
+- **1)** zeznanie, opinia lub dotyczy nie na roz sprawy,
+- **2)** sprawca dobrowolnie sprostuje zeznanie, lub zanim nieprawomocne, sprawy. 6. Przepisy 1-3 oraz 5 stosuje odpowied nio do osoby, która je przepis ustawy przewiduje odebrania pod rygorem kar nej.
 
-§ 2. Warunkiem odpowiedzialności jest, aby przyjmujący zeznanie, działając w zakresie swoich uprawnień, uprzedził zeznającego o odpowiedzialności karnej za fałszywe zeznanie lub odebrał od niego przyrzeczenie.
+**Art. 234.** Kto, przed organem do nia lub orzekania w sprawach o wykro czenie lub przewinienie dyscyplinarne, o wy kroczenia lub przewinienia dyscyplinarnego, podlega grzywnie, karze ograniczenia al bo pozbawienia do lat 2.
 
-§ 3. Nie podlega karze za czyn określony w § 1a, kto składa fałszywe zeznanie, nie wiedząc o prawie odmowy zeznania lub odpowiedzi na pytania.
-
-§ 4. Kto, jako biegły, rzeczoznawca lub tłumacz, przedstawia fałszywą opinię, ekspertyzę lub tłumaczenie mające służyć za dowód w postępowaniu określonym w § 1, podlega karze pozbawienia wolności od roku do lat 10.
-
-§ 4a. Jeżeli sprawca czynu określonego w § 4 działa nieumyślnie, narażając na istotną szkodę interes publiczny, podlega karze pozbawienia wolności do lat 3.
-
-§ 5. Sąd może zastosować nadzwyczajne złagodzenie kary, a nawet odstąpić od jej wymierzenia, jeżeli:
-
-- **1)** fałszywe zeznanie, opinia, ekspertyza lub tłumaczenie dotyczy okoliczności niemogących mieć wpływu na rozstrzygnięcie sprawy,
-- **2)** sprawca dobrowolnie sprostuje fałszywe zeznanie, opinię, ekspertyzę lub tłumaczenie, zanim nastąpi, chociażby nieprawomocne, rozstrzygnięcie sprawy.
-
-§ 6. Przepisy § 1–3 oraz 5 stosuje się odpowiednio do osoby, która składa fałszywe oświadczenie, jeżeli przepis ustawy przewiduje możliwość odebrania oświadczenia pod rygorem odpowiedzialności karnej.
-
-**Art. 234.** Kto, przed organem powołanym do ścigania lub orzekania w sprawach o przestępstwo, w tym i przestępstwo skarbowe, wykroczenie, wykroczenie skarbowe lub przewinienie dyscyplinarne, fałszywie oskarża inną osobę o popełnienie tych czynów zabronionych lub przewinienia dyscyplinarnego, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
-
-**Art. 235.** Kto, przez tworzenie fałszywych dowodów lub inne podstępne zabiegi, kieruje przeciwko określonej osobie ściganie o przestępstwo, w tym i przestępstwo skarbowe, wykroczenie, wykroczenie skarbowe lub przewinienie dyscyplinarne albo w toku postępowania zabiegi takie przedsiębierze, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
+**Art. 235.** Kto, przez tworzenie dowodów lub inne zabiegi, kieruje przeciwko nej osobie o wykroczenie lub przewinienie dyscyplinarne albo w toku zabiegi takie podlega karze pozbawienia do lat 3.
 
 **Art. 236.**
 
-§ 1. Kto zataja dowody niewinności osoby podejrzanej o popełnienie przestępstwa, w tym i przestępstwa skarbowego, wykroczenia, wykroczenia skarbowego lub przewinienia dyscyplinarnego, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
+§ 1. Kto zataja dowody osoby podejrzanej o wykroczenia lub przewinienia dyscyplinarnego, podlega grzywnie, karze ograniczenia al bo pozbawienia do lat 2. 2. Nie podlega karze, kto zataja dowody niewin z obawy przed jemu samemu lub jego
 
-§ 2. Nie podlega karze, kto zataja dowody niewinności z obawy przed odpowiedzialnością karną grożącą jemu samemu lub jego najbliższym.
+**Art. 237.** Przepis art. 233 5 pkt 2 stosuje odpo wiednio do wart. 234, art. 235 oraz wart. 236 1.
 
-**Art. 237.** Przepis art. 233 § 5 pkt 2 stosuje się odpowiednio do przestępstw określonych w art. 234, art. 235 oraz w art. 236 § 1.
-
-**Art. 238.** Kto zawiadamia o przestępstwie, lub o przestępstwie skarbowym organ powołany do ścigania wiedząc, że przestępstwa nie popełniono, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
+**Art. 238.** Kto zawiadamia o organ do nie po podlega grzywnie, karze ograniczenia al bo pozbawienia do lat 2.
 
 **Art. 239.**
 
-§ 1. Kto utrudnia lub udaremnia postępowanie karne, pomagając sprawcy przestępstwa, w tym i przestępstwa skarbowego uniknąć odpowiedzialności karnej, w szczególności kto sprawcę ukrywa, tworzy fałszywe dowody, zaciera ślady przestępstwa, w tym i przestępstwa skarbowego, albo odbywa za skazanego karę, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
-
-§ 2. Nie podlega karze sprawca, który ukrywa osobę najbliższą.
-
-§ 3. Sąd może zastosować nadzwyczajne złagodzenie kary, a nawet odstąpić od jej wymierzenia, jeżeli sprawca udzielił pomocy osobie najbliższej albo działał z obawy przed odpowiedzialnością karną grożącą jemu samemu lub jego najbliższym.
+§ 1. Kto utrudnia lub udaremnia wanie karne, sprawcy unik karnej, w kto ukrywa, zaciera albo od bywa za skazanego podlega karze pozbawienia od 3 do lat 5. 2. Nie podlega karze sprawca, który ukrywa oso 3. nadzwyczajne nie kary, a nawet od jej wymierzenia, sprawca pomocy osobie albo dzia z obawy przed jemu samemu lub jego
 
 **Art. 240.**
 
-§ 1. Kto, mając wiarygodną wiadomość o karalnym przygotowaniu albo usiłowaniu lub dokonaniu czynu zabronionego określonego w art. 118, art. 118a, art. 120–124, art. 127, art. 128, art. 130, art. 134, art. 140, art. 148, art. 148a, art. 156, art. 163, art. 166, art. 189, art. 197 § 3–5, art. 198, art. 200, art. 252 lub przestępstwa o charakterze terrorystycznym, nie zawiadamia niezwłocznie organu powołanego do ścigania przestępstw, podlega karze pozbawienia wolności do lat 3.
-
-§ 2. Nie popełnia przestępstwa określonego w § 1, kto zaniechał zawiadomienia, mając dostateczną podstawę do przypuszczenia, że wymieniony w § 1 organ wie o przygotowywanym, usiłowanym lub dokonanym czynie zabronionym; nie popełnia przestępstwa również ten, kto zapobiegł popełnieniu przygotowywanego lub usiłowanego czynu zabronionego określonego w § 1.
-
-§ 2a. Nie podlega karze pokrzywdzony czynem wymienionym w § 1, który zaniechał zawiadomienia o tym czynie.
-
-§ 3. Nie podlega karze, kto zaniechał zawiadomienia z obawy przed odpowiedzialnością karną grożącą jemu samemu lub jego najbliższym.
+§ 1. Kto, o karalnym przygotowaniu albo lub doko naniu czynu zabronionego wart. 118, 127, 128, 130, 134, 140, 148, 163, 166 lub 252, nie zawiada mia organu do podlega karze pozbawienia do lat 3. 2. Nie w 1, kto zawiadomienia, pod do przypuszczenia, wymieniony w 1 organ wie o przygotowywanym, lub dokonanym czynie zabronionym; nie ten, kto przygotowywanego lub czynu zabronionego w 1. Dziennik Ustaw Nr 88 - 2704 - Poz. 553 3. Nie podlega karze, kto zawiadomie nia z obawy przed jemu samemu lub jego
 
 **Art. 241.**
 
-§ 1. Kto bez zezwolenia rozpowszechnia publicznie wiadomości z postępowania przygotowawczego, zanim zostały ujawnione w postępowaniu sądowym, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
-
-§ 2. Tej samej karze podlega, kto rozpowszechnia publicznie wiadomości z rozprawy sądowej prowadzonej z wyłączeniem jawności.
-
-§ 3. Karze określonej w § 1 podlega, kto bez zezwolenia rozpowszechnia publicznie wiadomości z postępowania prowadzonego na podstawie przepisów o postępowaniu w sprawach nieletnich.
+§ 1. Kto bez zezwolenia rozpowszechnia publicznie z przygotowaw czego, zanim ujawnione w wym, podlega grzywnie, karze ograniczenia al bo pozbawienia do lat 2. 2. Tej samej karze podlega, kto rozpowszechnia publicznie z rozprawy prowadzo nej z
 
 **Art. 242.**
 
-§ 1. Kto uwalnia się sam, będąc pozbawionym wolności na podstawie orzeczenia sądu lub prawnego nakazu wydanego przez inny organ państwowy, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
+§ 1. Kto uwalnia sam, pozbawio nym na podstawie orzeczenia lub praw nego nakazu wydanego przez inny organ podlega grzywnie, karze ograniczenia al bo pozbawienia do lat 2. 2. Kto, z zezwolenia na czasowe opuszczenie karnego lub aresztu bez dozoru, bez usprawiedliwionej przyczyny nie po wróci w 3 dni po wyznaczo nego terminu, podlega grzywnie, karze ograniczenia al bo pozbawienia do roku. 3. Karze w 2 podlega, kto, korzysta z przerwy w odbywaniu kary pozbawienia wolno bez usprawiedliwionej przyczyny nie powróci do karnego w 3 dni po wyznaczonego terminu. 4. sprawca czynu w 1 w porozumieniu z innymi osobami, przemocy lub grozi jej albo uszkadza miejsce cia, podlega karze pozbawienia do lat 3.
 
-§ 1a. Tej samej karze podlega, kto, będąc pozbawionym wolności na podstawie orzeczenia sądu lub prawnego nakazu wydanego przez inny organ państwowy oraz przebywając bez dozoru poza zakładem karnym lub aresztem śledczym w związku z wykonywaniem pracy, samowolnie opuszcza wyznaczone miejsce wykonywania pracy lub samowolnie poza nim pozostaje.
+**Art. 243.** Kto na pod stawie orzeczenia lub prawnego nakazu wydane go przez inny organ uwalnia lub jej podlega karze pozbawienia do lat 3.
 
-§ 2. Kto, korzystając z zezwolenia na czasowe opuszczenie zakładu karnego lub aresztu śledczego bez dozoru albo zakładu psychiatrycznego dysponującego warunkami podstawowego zabezpieczenia, bez usprawiedliwionej przyczyny nie powróci najpóźniej w ciągu 3 dni po upływie wyznaczonego terminu, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
+**Art. 244.** Kto nie stosuje do orzeczonego przez zakazu zajmowania stanowiska, wykonywania zawodu, prowadzenia lub prowadzenia pojazdów albo nie wykonuje o orzeczenia w sposób w nim przewidzia ny, podlega grzywnie, karze ograniczenia al bo pozbawienia do roku.
 
-§ 3. Karze określonej w § 2 podlega, kto, korzystając z przerwy w odbywaniu kary pozbawienia wolności, bez usprawiedliwionej przyczyny nie powróci do zakładu karnego najpóźniej w ciągu 3 dni po upływie wyznaczonego terminu.
+**Art. 245.** Kto przemocy lub bezpraw nej w celu wywarcia na macza, albo lub w z tym narusza jego podlega karze pozbawienia od 3 do lat 5.
 
-§ 4. Jeżeli sprawca czynu określonego w § 1 działa w porozumieniu z innymi osobami, używa przemocy lub grozi jej użyciem albo uszkadza miejsce zamknięcia, podlega karze pozbawienia wolności do lat 3.
-
-**Art. 243.** Kto osobę pozbawioną wolności na podstawie orzeczenia sądu lub prawnego nakazu wydanego przez inny organ państwowy uwalnia lub ułatwia jej ucieczkę, podlega karze pozbawienia wolności do lat 3.
-
-**Art. 244.** Kto nie stosuje się do orzeczonego przez sąd zakazu zajmowania stanowiska, wykonywania zawodu, prowadzenia działalności, zajmowania stanowiska lub wykonywania zawodu lub pracy w organach i instytucjach państwowych i samorządu terytorialnego, a także w spółkach prawa handlowego, w których Skarb Państwa lub jednostka samorządu terytorialnego posiadają bezpośrednio lub pośrednio przez inne podmioty co najmniej 10 % akcji lub udziałów, wykonywania czynności wymagających zezwolenia, które są związane z wykorzystywaniem zwierząt lub oddziaływaniem na nie, prowadzenia pojazdów, wstępu do ośrodków gier i uczestnictwa w grach hazardowych, wstępu na imprezę masową, przebywania w określonych środowiskach lub miejscach, nakazu okresowego opuszczenia lokalu zajmowanego wspólnie z pokrzywdzonym, zakazu kontaktowania się z określonymi osobami, zakazu zbliżania się do określonych osób lub zakazu opuszczania określonego miejsca pobytu bez zgody sądu, zakazu posiadania wszelkich zwierząt albo określonej kategorii zwierząt albo nie wykonuje zarządzenia sądu o ogłoszeniu orzeczenia w sposób w nim przewidziany, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
-
-**Art. 244a.**
-
-§ 1. Kto nie stosuje się do orzeczonego w związku z zakazem wstępu na imprezę masową obowiązku przebywania w miejscu stałego pobytu lub obowiązku stawiennictwa w jednostce organizacyjnej Policji lub w miejscu określonym przez właściwego, ze względu na miejsce zamieszkania osoby skazanej albo ukaranej, komendanta powiatowego, rejonowego lub miejskiego Policji, w czasie trwania imprezy masowej, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
-
-§ 2. Tej samej karze podlega, kto udaremnia lub utrudnia kontrolowanie, w systemie dozoru elektronicznego, orzeczonego wobec niego obowiązku, o którym mowa w § 1.
-
-**Art. 244b.**
-
-§ 1. Kto nie stosuje się do określonych w ustawie obowiązków związanych z orzeczonym wobec niego środkiem zabezpieczającym, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
-
-§ 2. Tej samej karze podlega, kto bezprawnie udaremnia wykonywanie orzeczonego wobec innej osoby środka zabezpieczającego w postaci elektronicznej kontroli miejsca pobytu.
-
-**Art. 244c.**
-
-§ 1. Kto uchyla się od wykonania orzeczonego przez sąd na rzecz pokrzywdzonego lub osoby dla niego najbliższej, za przestępstwo ścigane z oskarżenia publicznego, środka kompensacyjnego w postaci obowiązku naprawienia szkody lub zadośćuczynienia za doznaną krzywdę albo nawiązki, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
-
-§ 2. Nie podlega karze sprawca przestępstwa określonego w § 1, który wykonał w całości orzeczony wobec niego środek kompensacyjny nie później niż przed upływem 30 dni od dnia pierwszego przesłuchania w charakterze podejrzanego.
-
-§ 3. Ściganie przestępstwa określonego w § 1 następuje na wniosek pokrzywdzonego.
-
-**Art. 245.** Kto używa przemocy lub groźby bezprawnej w celu wywarcia wpływu na świadka, biegłego, tłumacza, oskarżyciela albo oskarżonego lub w związku z tym narusza jego nietykalność cielesną, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
-
-**Art. 246.** Funkcjonariusz publiczny lub ten, który działając na jego polecenie w celu uzyskania określonych zeznań, wyjaśnień, informacji lub oświadczenia stosuje przemoc, groźbę bezprawną lub w inny sposób znęca się fizycznie lub psychicznie nad inną osobą, podlega karze pozbawienia wolności od roku do lat 10.
+**Art. 246.** Funkcjonariusz publiczny lub ten, który na jego polecenie w celu uzyskania nych informacji lub stosuje przemoc, lub w inny sposób fizycznie lub psychicznie nad podlega karze pozbawienia od roku do lat 10.
 
 **Art. 247.**
 
-§ 1. Kto znęca się fizycznie lub psychicznie nad osobą prawnie pozbawioną wolności, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
+§ 1. Kto fizycznie lub psychicznie nad prawnie podlega karze pozbawienia od 3 do lat 5. 2. sprawca ze szczególnym stwem, podlega karze pozbawienia od roku do lat 10. 3. Funkcjonariusz publiczny, który wbrew obo dopuszcza do czynu go w 1 lub 2, podlega karze w tych przepisach. XXXI przeciwko wyborom i referendum
 
-§ 2. Jeżeli sprawca działa ze szczególnym okrucieństwem, podlega karze pozbawienia wolności od roku do lat 10.
+**Art. 248.** Kto w z wyborami do Sejmu, Se natu, wyborem Prezydenta Rzeczypospolitej Polskiej, wyborami do terytorialnego lub referen dum: lub z uprawnionych lub wpisaniem nie uprawnionych, celem dzenia listy wyborczej, uszkadza, ukrywa, przerabia lub podrabia protoko lub inne dokumenty wyborcze, dopuszcza do przy przyjmowaniu lub ob liczaniu dopuszcza w list z pod pisami obywateli kandydatów w wy borach lub referendum, podlega karze pozbawienia do lat 3.
 
-§ 3. Funkcjonariusz publiczny, który wbrew obowiązkowi dopuszcza do popełnienia czynu określonego w § 1 lub 2, podlega karze określonej w tych przepisach.
+**Art. 249.** Kto lub pod przeszkadza: odbyciu zgromadzenia nie, swobodnemu wykonywaniu prawa do kandydowa nia lub
 
-**Art. 247a.** Przepisy art. 233–237 oraz art. 239, 245 i 246 stosuje się odpowiednio do czynu popełnionego w związku z postępowaniem przed międzynarodowym trybunałem karnym lub jego organem działającym na podstawie umowy międzynarodowej, której Rzeczpospolita Polska jest stroną, albo powołanym przez organizację międzynarodową ukonstytuowaną umową ratyfikowaną przez Rzeczpospolitą Polską.
+**Art. 250.** Kto, lub przez stosunku wywiera na sposób osoby uprawnionej albo zmusza do lub powstrzymuje od podlega karze pozbawienia od 3 do lat 5. Dziennik Ustaw Nr 88 - 2705 - Poz. 553
 
-#### Rozdział XXXI Przestępstwa przeciwko wyborom i referendum
-
-**Art. 248.** Kto w związku z wyborami do Sejmu, do Senatu, wyborem Prezydenta Rzeczypospolitej Polskiej, wyborami do Parlamentu Europejskiego, wyborami organów samorządu terytorialnego lub referendum:
-
-**Art. 249.** Kto przemocą, groźbą bezprawną lub podstępem przeszkadza:
-
-**Art. 250.** Kto, przemocą, groźbą bezprawną lub przez nadużycie stosunku zależności, wywiera wpływ na sposób głosowania osoby uprawnionej albo zmusza ją do głosowania lub powstrzymuje od głosowania, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
-
-**Art. 250a.**
-
-§ 1. Kto, będąc uprawniony do głosowania, przyjmuje korzyść majątkową lub osobistą albo takiej korzyści żąda za głosowanie w określony sposób, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
-
-§ 2. Tej samej karze podlega, kto udziela korzyści majątkowej lub osobistej osobie uprawnionej do głosowania, aby skłonić ją do głosowania w określony sposób lub za głosowanie w określony sposób.
-
-§ 3. W wypadku mniejszej wagi, sprawca czynu określonego w § 1 lub 2 podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
-
-§ 4. Jeżeli sprawca przestępstwa określonego w § 1 albo w § 3 w związku z § 1 zawiadomił organ powołany do ścigania o fakcie przestępstwa i okolicznościach jego popełnienia, zanim organ ten o nich się dowiedział, sąd stosuje nadzwyczajne złagodzenie kary, a nawet może odstąpić od jej wymierzenia.
-
-**Art. 251.** Kto, naruszając przepisy o tajności głosowania, wbrew woli głosującego zapoznaje się z treścią jego głosu, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
-
-#### Rozdział XXXII Przestępstwa przeciwko porządkowi publicznemu
+**Art. 251.** Kto, przepisy o wania, wbrew woli zapoznaje z jego podlega grzywnie, karze ograniczenia al bo pozbawienia do lat 2. XXXII przeciwko publicznemu
 
 **Art. 252.**
 
-§ 1. Kto bierze lub przetrzymuje zakładnika w celu zmuszenia organu państwowego lub samorządowego, instytucji, organizacji, osoby fizycznej lub prawnej albo grupy osób do określonego zachowania się, podlega karze pozbawienia wolności od lat 3 do 20.
+§ 1. Kto bierze lub przetrzymuje w celu zmuszenia organu lub wego, instytucji, organizacji, osoby fizycznej lub prawnej albo grupy osób do zachowania podlega karze pozbawienia od roku do lat 10. 2. czynu w 1 jest lub uszczerbek na zdrowiu, sprawca podlega karze pozbawienia od lat 2 do 12. 3. Kto czyni przygotowania do okre w 1, podlega karze pozbawienia do lat 3. 4. Nie podlega karze za w 1, kto od zamiaru wymuszenia i za
 
-§ 2. Jeżeli czyn określony w § 1 łączył się ze szczególnym udręczeniem zakładnika, sprawca podlega karze pozbawienia wolności od lat 5 do 25.
+**Art. 253.**
 
-§ 3. Kto czyni przygotowania do przestępstwa określonego w § 1, podlega karze pozbawienia wolności do lat 3.
-
-§ 4. Nie podlega karze za przestępstwo określone w § 1, kto odstąpił od zamiaru wymuszenia i zwolnił zakładnika.
-
-§ 5. Sąd może zastosować nadzwyczajne złagodzenie kary wobec sprawcy czynu określonego w § 2, który odstąpił od zamiaru wymuszenia i zwolnił zakładnika, a stosuje nadzwyczajne złagodzenie kary, jeżeli odstąpienie od zamiaru wymuszenia i zwolnienie zakładnika nastąpiło dobrowolnie.
-
-**Art. 253.** (uchylony)
+§ 1. Kto uprawia handel nawet za ich podlega karze pozbawienia na czas nie krótszy od lat 3. 2. Kto, w celu zajmuje organizowaniem adopcji dzieci wbrew przepisom ustawy, podlega karze pozbawienia od 3 do lat 5.
 
 **Art. 254.**
 
-§ 1. Kto bierze czynny udział w zbiegowisku wiedząc, że jego uczestnicy wspólnymi siłami dopuszczają się gwałtownego zamachu na osobę lub mienie, podlega karze pozbawienia wolności do lat 3.
-
-§ 2. Jeżeli następstwem gwałtownego zamachu jest śmierć człowieka lub ciężki uszczerbek na zdrowiu, uczestnik zbiegowiska określony w § 1, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
-
-**Art. 254a.** Kto zabiera, niszczy, uszkadza lub czyni niezdatnym do użytku element wchodzący w skład sieci wodociągowej, kanalizacyjnej, ciepłowniczej, elektroenergetycznej, gazowej, telekomunikacyjnej albo linii kolejowej, tramwajowej, trolejbusowej lub linii metra, powodując przez to zakłócenie działania całości lub części sieci albo linii, podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
+§ 1. Kto bierze czynny w zbiegowi sku jego uczestnicy wspólnymi do zamachu na lub mienie, podlega karze pozbawienia do lat 3. 2. zamachu jest lub uszczerbek na zdrowiu, uczestnik zbiegowiska w 1, podlega karze pozbawienia od 3 do lat 5.
 
 **Art. 255.**
 
-§ 1. Kto publicznie nawołuje do popełnienia występku lub przestępstwa skarbowego, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
+§ 1. Kto publicznie do nia podlega grzywnie, karze ograniczenia ni, al bo pozbawienia do lat 2. 2. Kto publicznie do zbrodpodlega karze pozbawienia do lat 3. 3. Kto publicznie pochwala stwa, podlega grzywnie do 180 stawek dziennych, karze ograniczenia albo pozbawienia do roku.
 
-§ 2. Kto publicznie nawołuje do popełnienia zbrodni, podlega karze pozbawienia wolności do lat 3.
+**Art. 256.** Kto publicznie propaguje faszystowski lub inny totalitarny ustrój lub do niena na tle etnicznych, ra sowych, wyznaniowych albo ze na bezwyzna podlega grzywnie, karze ograniczenia al bo pozbawienia do lat 2.
 
-§ 3. Kto publicznie pochwala popełnienie przestępstwa, podlega grzywnie do 180 stawek dziennych, karze ograniczenia wolności albo pozbawienia wolności do roku.
-
-**Art. 255a.**
-
-§ 1. Kto rozpowszechnia lub publicznie prezentuje treści mogące ułatwić popełnienie przestępstwa o charakterze terrorystycznym w zamiarze, aby przestępstwo takie zostało popełnione, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
-
-§ 2. Tej samej karze podlega, kto w celu popełnienia przestępstwa o charakterze terrorystycznym uczestniczy w szkoleniu mogącym umożliwić popełnienie takiego przestępstwa lub samodzielnie zapoznaje się z treściami, o których mowa w § 1.
-
-**Art. 256.**
-
-§ 1. Kto publicznie propaguje nazistowski, komunistyczny, faszystowski lub inny totalitarny ustrój państwa lub nawołuje do nienawiści na tle różnic narodowościowych, etnicznych, rasowych, wyznaniowych albo ze względu na bezwyznaniowość, podlega karze pozbawienia wolności do lat 3.
-
-§ 1a. Tej samej karze podlega, kto publicznie propaguje ideologię nazistowską, komunistyczną, faszystowską lub ideologię nawołującą do użycia przemocy w celu wpływania na życie polityczne lub społeczne.
-
-§ 2. Karze określonej w § 1 podlega, kto w celu rozpowszechniania produkuje, utrwala lub sprowadza, nabywa, zbywa, oferuje, przechowuje, posiada, prezentuje, przewozi lub przesyła druk, nagranie lub inny przedmiot, zawierające treść określoną w § 1 lub 1a albo będące nośnikiem symboliki nazistowskiej, komunistycznej, faszystowskiej lub innej totalitarnej, użytej w sposób służący propagowaniu treści określonej w § 1 lub 1a.
-
-§ 3. Nie popełnia przestępstwa sprawca czynu zabronionego określonego w § 2, jeżeli dopuścił się tego czynu w ramach działalności artystycznej, edukacyjnej, kolekcjonerskiej lub naukowej.
-
-§ 4. W razie skazania za przestępstwo określone w § 2 sąd orzeka przepadek przedmiotów, o których mowa w § 2, chociażby nie stanowiły własności sprawcy.
-
-**Art. 257.** Kto publicznie znieważa grupę ludności albo poszczególną osobę z powodu jej przynależności narodowej, etnicznej, rasowej, wyznaniowej albo z powodu jej bezwyznaniowości lub z takich powodów narusza nietykalność cielesną innej osoby, podlega karze pozbawienia wolności do lat 3.
+**Art. 257.** Kto publicznie al bo z powodu jej narodowej, etnicznej, rasowej, wyznaniowej albo z po wodu jej lub z takich powodów na rusza innej osoby, podlega karze pozbawienia do lat 3.
 
 **Art. 258.**
 
-§ 1. Kto bierze udział w zorganizowanej grupie albo związku mających na celu popełnienie przestępstwa lub przestępstwa skarbowego, podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
+§ 1. Kto bierze w zorganizowanej grupie albo na celu podlega karze pozbawienia do lat 3. 2. grupa albo w 1 ma charakter zbrojny, sprawca podlega karze pozbawienia od 3 do lat 5. 3. Kto albo w 1 lub 2 lub albo takim kieru je, podlega karze pozbawienia od 6 do lat 8.
 
-§ 2. Jeżeli grupa albo związek określone w § 1 mają charakter zbrojny albo mają na celu popełnienie przestępstwa o charakterze terrorystycznym, sprawca podlega karze pozbawienia wolności od roku do lat 10.
+**Art. 259.** Nie podlega karze za okre wart. 258, kto dobrowolnie od w grupie albo i przed organem powo do wszystkie istotne oko czynu lub niu zamierzonego
 
-§ 3. Kto grupę albo związek określone w § 1, w tym mające charakter zbrojny, zakłada lub taką grupą albo związkiem kieruje, podlega karze pozbawienia wolności od lat 2 do 15.
+**Art. 260.** Kto lub uda remnia przeprowadzenie odbywanego zgodnie z pra wem zebrania, zgromadzenia lub pochodu albo takie zebranie, zgromadzenie lub pochód rozprasza, podlega grzywnie, karze ograniczenia al bo pozbawienia do lat 2.
 
-§ 4. Kto grupę albo związek mające na celu popełnienie przestępstwa o charakterze terrorystycznym zakłada lub taką grupą lub związkiem kieruje, podlega karze pozbawienia wolności od lat 3 do 20.
-
-**Art. 259.** Nie podlega karze za przestępstwo określone w art. 258, kto dobrowolnie odstąpił od udziału w grupie albo związku i ujawnił przed organem powołanym do ścigania przestępstw wszystkie istotne okoliczności popełnionego czynu lub zapobiegł popełnieniu zamierzonego przestępstwa, w tym i przestępstwa skarbowego.
-
-**Art. 259a.** Kto przekracza granicę Rzeczypospolitej Polskiej w celu popełnienia przestępstwa o charakterze terrorystycznym lub przestępstwa określonego w art. 255a lub art. 258 § 2 lub 4, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
-
-**Art. 259b.** Na wniosek prokuratora sąd stosuje nadzwyczajne złagodzenie kary, a nawet może warunkowo zawiesić jej wykonanie w stosunku do sprawcy przestępstwa określonego w art. 259a, który dobrowolnie odstąpił od:
-
-**Art. 260.** Kto przemocą lub groźbą bezprawną udaremnia przeprowadzenie odbywanego zgodnie z prawem zebrania, zgromadzenia lub pochodu albo takie zebranie, zgromadzenie lub pochód rozprasza, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
-
-**Art. 261.** Kto znieważa pomnik lub inne miejsce publiczne urządzone w celu upamiętnienia zdarzenia historycznego lub uczczenia osoby, podlega grzywnie albo karze ograniczenia wolności.
+**Art. 261.** Kto pomnik lub inne miejsce pu bliczne w celu zdarzenia hi storycznego lub uczczenia osoby, podlega grzywnie albo karze ograniczenia wolno
 
 **Art. 262.**
 
-§ 1. Kto znieważa zwłoki, prochy ludzkie lub miejsce spoczynku zmarłego, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
-
-§ 2. Kto ograbia zwłoki, grób lub inne miejsce spoczynku zmarłego, podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
+§ 1. Kto prochy ludzkie lub miejsce spoczynku podlega grzywnie, karze ograniczenia al bo pozbawienia do lat 2. I Dziennik Ustaw Nr 88 - 2706- Poz. 553 2. Kto ograbia grób lub inne miejsce spo czynku podlega karze pozbawienia od 6 do lat 8.
 
 **Art. 263.**
 
-§ 1. Kto bez wymaganego zezwolenia wyrabia broń palną albo amunicję lub nią handluje, podlega karze pozbawienia wolności od roku do lat 10.
-
-§ 2. Kto bez wymaganego zezwolenia posiada broń palną lub amunicję, podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
-
-§ 3. Kto, mając zezwolenie na posiadanie broni palnej lub amunicji, udostępnia lub przekazuje ją osobie nieuprawnionej, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
-
-§ 4. Kto nieumyślnie powoduje utratę broni palnej lub amunicji, która zgodnie z prawem pozostaje w jego dyspozycji, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
+§ 1. Kto bez wymaganego zezwolenia wy rabia albo lub handluje, podlega karze pozbawienia od roku do lat 10. 2. Kto bez wymaganego zezwolenia posiada lub podlega karze pozbawienia od 6 do lat 8. 3. Kto, zezwolenie na posiadanie broni pal nej lub amunicji, lub przekazuje osobie nieuprawnionej, podlega grzywnie, karze ograniczenia al bo pozbawienia do lat 2. 4. Kto powoduje broni palnej lub amunicji, która zgodnie z prawem pozostaje w jego dyspozycji, podlega grzywnie, karze ograniczenia al bo pozbawienia do roku.
 
 **Art. 264.**
 
-§ 1. (uchylony) § 2. Kto wbrew przepisom przekracza granicę Rzeczypospolitej Polskiej, używając przemocy, groźby, podstępu lub we współdziałaniu z innymi osobami, podlega karze pozbawienia wolności do lat 3.
-
-§ 3. Kto organizuje innym osobom przekraczanie wbrew przepisom granicy Rzeczypospolitej Polskiej, podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
-
-§ 4. Karze określonej w § 3 podlega ten, kto organizuje innym osobom przekraczanie wbrew przepisom granicy innego państwa, jeżeli obowiązek ścigania takiego czynu wynika z ratyfikowanej przez Rzeczpospolitą Polską umowy międzynarodowej.
-
-**Art. 264a.**
-
-§ 1. Kto, w celu osiągnięcia korzyści majątkowej lub osobistej, umożliwia lub ułatwia innej osobie pobyt na terytorium Rzeczypospolitej Polskiej wbrew przepisom, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
-
-§ 2. W wyjątkowych wypadkach, gdy sprawca nie osiągnął korzyści majątkowej, sąd może zastosować nadzwyczajne złagodzenie kary, a nawet odstąpić od jej wymierzenia.
-
-#### Rozdział XXXIII Przestępstwa przeciwko ochronie informacji
+§ 1. Kto wbrew przepisom przekracza graRzeczypospolitej Polskiej, podlega grzywnie, karze ograniczenia al bo pozbawienia do lat 2. 2. Kto dopuszcza czynu w 1, przemocy, lub we z innymi osobami, podlega karze pozbawienia do lat 3. 3. Kto organizuje innym osobom przekraczanie wbrew przepisom granicy Rzeczypospolitej Polskiej, podlega karze pozbawienia od 3 do lat 5. XXXIII przeciwko ochronie informacji
 
 **Art. 265.**
 
-§ 1. Kto ujawnia lub wbrew przepisom ustawy wykorzystuje informacje niejawne o klauzuli „tajne” lub „ściśle tajne”, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
-
-§ 2. Jeżeli informację określoną w § 1 ujawniono osobie działającej w imieniu lub na rzecz podmiotu zagranicznego, sprawca podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
-
-§ 3. Kto nieumyślnie ujawnia informację określoną w § 1, z którą zapoznał się w związku z pełnieniem funkcji publicznej lub otrzymanym upoważnieniem, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
+§ 1. Kto ujawnia lub wbrew przepisom ustawy wykorzystuje informacje podlega karze pozbawienia od 3 do lat 5. 2. w 1 ujawniono osobie w imieniu lub na rzecz podmiotu za granicznego, sprawca podlega karze pozbawienia od 6 do lat 8. 3. Kto ujawnia w 1, z w z funk cji publicznej lub otrzymanym podlega grzywnie, karze ograniczenia al bo pozbawienia do roku.
 
 **Art. 266.**
 
-§ 1. Kto, wbrew przepisom ustawy lub przyjętemu na siebie zobowiązaniu, ujawnia lub wykorzystuje informację, z którą zapoznał się w związku z pełnioną funkcją, wykonywaną pracą, działalnością publiczną, społeczną, gospodarczą lub naukową, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
-
-§ 2. Funkcjonariusz publiczny, który ujawnia osobie nieuprawnionej informację niejawną o klauzuli „zastrzeżone” lub „poufne” lub informację, którą uzyskał w związku z wykonywaniem czynności służbowych, a której ujawnienie może narazić na szkodę prawnie chroniony interes, podlega karze pozbawienia wolności do lat 3.
-
-§ 3. Ściganie przestępstwa określonego w § 1 następuje na wniosek pokrzywdzonego.
+§ 1. Kto, wbrew przepisom ustawy lub na siebie ujawnia lub wyko rzystuje z w z lub podlega grzywnie, karze ograniczenia al bo pozbawienia do lat 2. 2. Funkcjonariusz publiczny, który ujawnia osobie nieuprawnionej lub w z wyko nywaniem a której ujawnienie na prawnie chroniony interes, podlega karze pozbawienia do lat 3. 3. Ściganie przestępstwa określonego w 1 na na wniosek pokrzywdzonego.
 
 **Art. 267.**
 
-§ 1. Kto bez uprawnienia uzyskuje dostęp do informacji dla niego nieprzeznaczonej, otwierając zamknięte pismo, podłączając się do sieci telekomunikacyjnej lub przełamując albo omijając elektroniczne, magnetyczne, informatyczne lub inne szczególne jej zabezpieczenie, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
-
-§ 2. Tej samej karze podlega, kto bez uprawnienia uzyskuje dostęp do całości lub części systemu informatycznego.
-
-§ 3. Tej samej karze podlega, kto w celu uzyskania informacji, do której nie jest uprawniony, zakłada lub posługuje się urządzeniem podsłuchowym, wizualnym albo innym urządzeniem lub oprogramowaniem.
-
-§ 4. Tej samej karze podlega, kto informację uzyskaną w sposób określony w § 1–3 ujawnia innej osobie.
-
-§ 5. Ściganie przestępstwa określonego w § 1–4 następuje na wniosek pokrzywdzonego.
+§ 1. Kto bez uprawnienia uzyskuje infor dla niego nie te pismo, do przewodu do przekazywania informacji lub elektronicz ne, magnetyczne albo inne szczególne jej zabezpiecze nie, podlega grzywnie, karze ograniczenia al bo pozbawienia do lat 2. 2. Tej samej karze podlega, kto w celu uzyskania informacji, do której nie jest uprawniony, lub wizual nym albo innym specjalnym. 3. Tej samej karze podlega, kto uzyska w sposób w 1 lub 2 ujawnia innej osobie. 4. Ściganie przestępstwa określonego w 1-3 na wniosek pokrzywdzonego.
 
 **Art. 268.**
 
-§ 1. Kto, nie będąc do tego uprawnionym, niszczy, uszkadza, usuwa lub zmienia zapis istotnej informacji albo w inny sposób udaremnia lub znacznie utrudnia osobie uprawnionej zapoznanie się z nią, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
-
-§ 2. Jeżeli czyn określony w § 1 dotyczy zapisu na informatycznym nośniku danych, sprawca podlega karze pozbawienia wolności do lat 3.
-
-§ 3. Kto, dopuszczając się czynu określonego w § 1 lub 2, wyrządza znaczną szkodę majątkową, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
-
-§ 4. Ściganie przestępstwa określonego w § 1–3 następuje na wniosek pokrzywdzonego.
-
-**Art. 268a.**
-
-§ 1. Kto, nie będąc do tego uprawnionym, niszczy, uszkadza, usuwa, zmienia lub utrudnia dostęp do danych informatycznych albo w istotnym stopniu zakłóca lub uniemożliwia automatyczne przetwarzanie, gromadzenie lub przekazywanie takich danych, podlega karze pozbawienia wolności do lat 3.
-
-§ 2. Kto, dopuszczając się czynu określonego w § 1, wyrządza znaczną szkodę majątkową, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
-
-§ 3. Ściganie przestępstwa określonego w § 1 lub 2 następuje na wniosek pokrzywdzonego.
+§ 1. Kto, nie do tego uprawnionym, niszczy, uszkadza, usuwa lub zmienia zapis istotnej in formacji albo w inny sposób udaremnia lub znacznie utrudnia osobie uprawnionej zapoznanie z podlega grzywnie, karze ograniczenia al bo pozbawienia do lat 2. 2. czyn w 1 dotyczy zapisu na komputerowym informacji, sprawca podlega karze pozbawienia do lat 3. 3. Kto, czynu w 1 lub 2, podlega karze pozbawienia od 3 do lat 5. 4. Ściganie przestępstwa określonego w 1-3 na wniosek pokrzywdzonego.·
 
 **Art. 269.**
 
-§ 1. Kto niszczy, uszkadza, usuwa lub zmienia dane informatyczne o szczególnym znaczeniu dla obronności kraju, bezpieczeństwa w komunikacji, funkcjonowania administracji rządowej, innego organu państwowego lub instytucji państwowej albo samorządu terytorialnego albo zakłóca lub uniemożliwia automatyczne przetwarzanie, gromadzenie lub przekazywanie takich danych, podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
-
-§ 2. Tej samej karze podlega, kto dopuszcza się czynu określonego w § 1, niszcząc albo wymieniając informatyczny nośnik danych lub niszcząc albo uszkadzając urządzenie służące do automatycznego przetwarzania, gromadzenia lub przekazywania danych informatycznych.
-
-**Art. 269a.** Kto, nie będąc do tego uprawnionym, przez transmisję, zniszczenie, usunięcie, uszkodzenie, utrudnienie dostępu lub zmianę danych informatycznych, w istotnym stopniu zakłóca pracę systemu informatycznego, systemu teleinformatycznego lub sieci teleinformatycznej, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
-
-**Art. 269b.**
-
-§ 1. Kto wytwarza, pozyskuje, zbywa lub udostępnia innym osobom urządzenia lub programy komputerowe przystosowane do popełnienia przestępstwa określonego w art. 165 § 1 pkt 4, art. 267 § 3, art. 268a § 1 albo § 2 w związku z § 1, art. 269 § 1 lub 2, art. 269a, art. 270 § 1 albo art. 270a § 1, a także hasła komputerowe, kody dostępu lub inne dane umożliwiające nieuprawniony dostęp do informacji przechowywanych w systemie informatycznym, systemie teleinformatycznym lub sieci teleinformatycznej, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
-
-§ 1a. Nie popełnia przestępstwa określonego w § 1, kto działa wyłącznie w celu zabezpieczenia systemu informatycznego, systemu teleinformatycznego lub sieci teleinformatycznej przed popełnieniem przestępstwa wymienionego w tym przepisie albo opracowania metody takiego zabezpieczenia.
-
-§ 2. W razie skazania za przestępstwo określone w § 1, sąd orzeka przepadek określonych w nim przedmiotów, a może orzec ich przepadek, jeżeli nie stanowiły własności sprawcy.
-
-**Art. 269c.** Nie podlega karze za przestępstwo określone w art. 267 § 2 lub art. 269a, kto działa wyłącznie w celu zabezpieczenia systemu informatycznego, systemu teleinformatycznego lub sieci teleinformatycznej albo opracowania metody takiego zabezpieczenia i niezwłocznie powiadomił dysponenta tego systemu lub sieci o ujawnionych zagrożeniach, a jego działanie nie naruszyło interesu publicznego lub prywatnego i nie wyrządziło szkody.
-
-#### Rozdział XXXIV Przestępstwa przeciwko wiarygodności dokumentów
+§ 1. Kto, na komputerowym infor macji, niszczy, uszkadza, usuwa lub zmienia zapis o szcze gólnym znaczeniu dla kraju, w komunikacji, funkcjonowania administracji innego organu lub administracji dowej albo lub automatyczne gro madzenie lub przekazywanie takich informacji, Dziennik Ustaw Nr 88 - 2707 - Poz. 553 podlega karze pozbawienia od 6 do lat 8. 2. Tej samej karze podlega, kto dopuszcza czy nu w 1, albo no informacji lub albo nie automatycznemu przetwarzaniu, groma dzeniu lub informacji. XXXIV Przest,pstwa przeciwko dokumentów
 
 **Art. 270.**
 
-§ 1. Kto, w celu użycia za autentyczny, podrabia lub przerabia dokument lub takiego dokumentu jako autentycznego używa, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
+1. Kto, w celu za autentyczny, pod rabia lub przerabia dokument lub takiego dokumentu jako autentycznego podlega grzywnie, karze ograniczenia al bo pozbawienia od 3 do lat 5.
 
-§ 2. Tej samej karze podlega, kto wypełnia blankiet, opatrzony cudzym podpisem, niezgodnie z wolą podpisanego i na jego szkodę albo takiego dokumentu używa.
+2. Tej samej karze podlega, kto blankiet, opatrzony cudzym podpisem, niezgodnie z pod pisanego i na jego albo takiego dokumentu
 
-§ 2a. W wypadku mniejszej wagi, sprawca podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
-
-§ 3. Kto czyni przygotowania do przestępstwa określonego w § 1, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
-
-**Art. 270a.**
-
-§ 1. Kto, w celu użycia za autentyczną, podrabia lub przerabia fakturę w zakresie okoliczności faktycznych mogących mieć znaczenie dla określenia wysokości należności publicznoprawnej lub jej zwrotu albo zwrotu innej należności o charakterze podatkowym lub takiej faktury jako autentycznej używa, podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
-
-§ 2. Jeżeli sprawca dopuszcza się czynu określonego w § 1 wobec faktury lub faktur, zawierających kwotę należności ogółem, której wartość lub łączna wartość jest większa niż pięciokrotność kwoty określającej mienie wielkiej wartości, albo z popełnienia przestępstwa uczynił sobie stałe źródło dochodu, podlega karze pozbawienia wolności od lat 3 do 20.
-
-§ 3. W wypadku mniejszej wagi, sprawca czynu określonego w § 1 lub 2 podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
+3. Kto czyni przygotowania do okrew 1, podlega grzywnie, karze ograniczenia al bo pozbawienia do lat 2.
 
 **Art. 271.**
 
-§ 1. Funkcjonariusz publiczny lub inna osoba uprawniona do wystawienia dokumentu, która poświadcza w nim nieprawdę co do okoliczności mającej znaczenie prawne, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
+§ 1. Funkcjonariusz publiczny lub inna osoba uprawniona do wystawienia dokumentu, która w nim co do cej znaczenie prawne, podlega karze pozbawienia od 3 do lat 5. 2. W wypadku mniejszej wagi, sprawca podlega grzywnie albo karze ograniczenia wolno 3. sprawca dopuszcza czynu go w 1 w celu lub osobistej, podlega karze pozbawienia od 6 do lat 8.
 
-§ 2. W wypadku mniejszej wagi, sprawca podlega grzywnie albo karze ograniczenia wolności.
+**Art. 272.** Kto nieprawdy przez wprowadzenie w funkcjonariu sza publicznego lub innej osoby do wy stawienia dokumentu, podlega karze pozbawienia do lat 3.
 
-§ 3. Jeżeli sprawca dopuszcza się czynu określonego w § 1 w celu osiągnięcia korzyści majątkowej lub osobistej, podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
+**Art. 273.** Kto dokumentu wart. 271 lub 272, podlega grzywnie, karze ograniczenia al bo pozbawienia do lat 2.
 
-**Art. 271a.**
-
-§ 1. Kto wystawia fakturę lub faktury, zawierające kwotę należności ogółem, której wartość lub łączna wartość jest znaczna, poświadczając nieprawdę co do okoliczności faktycznych mogących mieć znaczenie dla określenia wysokości należności publicznoprawnej lub jej zwrotu albo zwrotu innej należności o charakterze podatkowym lub takiej faktury lub faktur używa, podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
-
-§ 2. Jeżeli sprawca dopuszcza się czynu określonego w § 1 wobec faktury lub faktur, zawierających kwotę należności ogółem, której wartość lub łączna wartość jest większa niż pięciokrotność kwoty określającej mienie wielkiej wartości, albo z popełnienia przestępstwa uczynił sobie stałe źródło dochodu, podlega karze pozbawienia wolności od lat 3 do 20.
-
-§ 3. W wypadku mniejszej wagi, sprawca czynu określonego w § 1 lub 2 podlega karze pozbawienia wolności do lat 3.
-
-**Art. 272.** Kto wyłudza poświadczenie nieprawdy przez podstępne wprowadzenie w błąd funkcjonariusza publicznego lub innej osoby upoważnionej do wystawienia dokumentu, podlega karze pozbawienia wolności do lat 3.
-
-**Art. 273.** Kto używa dokumentu określonego w art. 271 lub 272, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
-
-**Art. 274.** Kto zbywa własny lub cudzy dokument stwierdzający tożsamość, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
+**Art. 274.** Kto zbywa lub cudzy dokument podlega grzywnie, karze ograniczenia al bo pozbawienia do lat 2.
 
 **Art. 275.**
 
-§ 1. Kto posługuje się dokumentem stwierdzającym tożsamość innej osoby albo jej prawa majątkowe lub dokument taki kradnie lub go przywłaszcza, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
+1. Kto dokumentem innej osoby albo jej prawa lub dokument taki kradnie lub go przy podlega grzywnie, karze ograniczenia al bo pozbawienia do lat 2.
 
-§ 2. Tej samej karze podlega, kto bezprawnie przewozi, przenosi lub przesyła za granicę dokument stwierdzający tożsamość innej osoby albo jej prawa majątkowe.
+2. Tej samej karze podlega, kto bezprawnie prze wozi, przenosi lub za dokument innej osoby albo jej prawa
 
-**Art. 276.** Kto niszczy, uszkadza, czyni bezużytecznym, ukrywa lub usuwa dokument, którym nie ma prawa wyłącznie rozporządzać, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
+**Art. 276.** Kto niszczy, uszkadza, czyni nym, ukrywa lub usuwa dokument, którym nie ma pra wa podlega grzywnie, karze ograniczenia al bo pozbawienia do lat 2.
 
-**Art. 277.** Kto znaki graniczne niszczy, uszkadza, usuwa, przesuwa lub czyni niewidocznymi albo fałszywie wystawia, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
-
-**Art. 277a.**
-
-§ 1. Kto dopuszcza się przestępstwa określonego w art. 270a § 1 albo art. 271a § 1 wobec faktury lub faktur, zawierających kwotę należności ogółem, której wartość lub łączna wartość jest większa niż dziesięciokrotność kwoty określającej mienie wielkiej wartości, podlega karze pozbawienia wolności od lat 5 do 25.
-
-§ 2. W wypadku mniejszej wagi, sprawca czynu określonego w § 1 podlega karze pozbawienia wolności do lat 5.
-
-**Art. 277b.** W razie skazania za przestępstwo określone w art. 270a § 1 lub 2, art. 271a § 1 lub 2 albo art. 277a § 1, grzywnę orzeczoną obok kary pozbawienia wolności można wymierzyć w wysokości do 3000 stawek dziennych.
-
-**Art. 277c.**
-
-§ 1. Sąd na wniosek prokuratora stosuje nadzwyczajne złagodzenie kary wobec sprawcy przestępstwa określonego w art. 270a § 1 lub 2 lub art. 271a § 1 lub 2, który zawiadomił o nim organ powołany do ścigania przestępstw i ujawnił wszystkie istotne okoliczności przestępstwa, a także wskazał czyny pozostające w związku z popełnionym przez niego przestępstwem i ich sprawców, zanim organ ten o nich się dowiedział.
-
-§ 2. Sąd na wniosek prokuratora może odstąpić od wymierzenia kary wobec sprawcy przestępstwa określonego w art. 270a § 1, 2 lub 3, art. 271a § 1, 2 lub 3 lub art. 277a § 2, który, oprócz spełnienia warunków określonych w § 1, zwrócił korzyść majątkową osiągniętą z popełnienia tego przestępstwa w całości albo w istotnej części.
-
-§ 3. Sąd może zastosować nadzwyczajne złagodzenie kary wobec sprawcy przestępstwa określonego w art. 277a § 1, który, oprócz spełnienia warunków określonych w § 1, zwrócił korzyść majątkową osiągniętą z popełnienia tego przestępstwa w całości albo w istotnej części.
-
-**Art. 277d.** Przepisy art. 277c § 1 i 3 stosuje się odpowiednio do sprawcy, który po wszczęciu postępowania ujawnił wobec organu powołanego do ścigania przestępstw wszystkie jemu znane, a nieznane dotychczas temu organowi istotne okoliczności przestępstwa, a także wskazał czyny pozostające w związku z popełnionym przez niego przestępstwem i ich sprawców.
-
-#### Rozdział XXXV Przestępstwa przeciwko mieniu
+**Art. 277.** Kto znaki graniczne niszczy, uszkadza, usuwa, przesuwa lub czyni niewidocznymi albo wie wystawia, podlega grzywnie, karze ograniczenia al bo pozbawienia do lat 2. XXXV Przest,pstwa przeciwko mieniu
 
 **Art. 278.**
 
-§ 1. Kto zabiera w celu przywłaszczenia cudzą rzecz ruchomą, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
+1. Kto zabiera w celu cu rzecz podlega karze pozbawienia od 3 do lat 5.
 
-§ 1a. Tej samej karze podlega, kto zabiera w celu przywłaszczenia cudzą kartę uprawniającą do podjęcia pieniędzy z automatu bankowego.
+2. Tej samej karze podlega, kto bez zgody osoby uprawnionej uzyskuje cudzy program komputerowy w celu
 
-§ 2. Tej samej karze podlega, kto bez zgody osoby uprawnionej uzyskuje cudzy program komputerowy w celu osiągnięcia korzyści majątkowej.
+3. W wypadku mniejszej wagi, sprawca podlega grzywnie, karze ograniczenia al bo pozbawienia do roku.
 
-§ 3. W wypadku mniejszej wagi, sprawca czynu określonego w § 1, 1a lub 2 podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
+4. na osoby na wniosek pokrzyw dzonego.
 
-§ 3a. Kto dopuszcza się kradzieży szczególnie zuchwałej, podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
-
-§ 4. Jeżeli kradzież popełniono na szkodę osoby najbliższej, ściganie następuje na wniosek pokrzywdzonego.
-
-§ 5. Przepisy § 1, 3, 3a i 4 stosuje się odpowiednio do kradzieży energii.
-
-**Art. 278a.** (uchylony)
+5. Przepisy 1,3 i 4 stosuje odpowiednio do energii lub karty do z automatu bankowego.
 
 **Art. 279.**
 
-§ 1. Kto kradnie z włamaniem, podlega karze pozbawienia wolności od roku do lat 10.
-
-§ 2. Jeżeli kradzież z włamaniem popełniono na szkodę osoby najbliższej, ściganie następuje na wniosek pokrzywdzonego.
+§ 1. Kto kradnie z podlega karze pozbawienia od roku do lat 10. 2. z na osoby na wnio sek pokrzywdzonego.
 
 **Art. 280.**
 
-§ 1. Kto kradnie, używając przemocy wobec osoby lub grożąc natychmiastowym jej użyciem albo doprowadzając człowieka do stanu nieprzytomności lub bezbronności, podlega karze pozbawienia wolności od lat 2 do 15.
+1. Kto kradnie, przemocy wo bec osoby lub natychmiastowym jej al bo do stanu nieprzytomno lub podlega karze pozbawienia od lat 2 do 12.
 
-§ 2. Jeżeli sprawca rozboju posługuje się bronią palną, nożem lub innym podobnie niebezpiecznym przedmiotem lub środkiem obezwładniającym albo działa w inny sposób bezpośrednio zagrażający życiu lub wspólnie z inną osobą, która posługuje się taką bronią, przedmiotem, środkiem lub sposobem, podlega karze pozbawienia wolności od lat 3 do 20.
+2. sprawca rozboju lub innym podobnie niebezpiecznym Dziennik Ustaw Nr 88 - 2708- Poz. 553 przedmiotem lub albo w inny sposób lub wspólnie z która przedmiotem, lub sposobem, podlega karze pozbawienia na czas nie krótszy od lat 3.
 
-**Art. 281.** Kto, w celu utrzymania się w posiadaniu zabranej rzeczy, bezpośrednio po dokonaniu kradzieży, używa przemocy wobec osoby lub grozi natychmiastowym jej użyciem albo doprowadza człowieka do stanu nieprzytomności lub bezbronności, podlega karze pozbawienia wolności od roku do lat 10.
+**Art. 281.** Kto, w celu utrzymania w posiadaniu zabranej rzeczy, po dokonaniu przemocy wobec osoby lub grozi natychmia stowym jej albo doprowadza do stanu lub podlega karze pozbawienia od roku do lat 10.
 
-**Art. 282.**
+**Art. 282.** Kto, w celu wej, zamachu na lub zdrowie albo zamachu na mienie, doprowadza do mieniem lub cudzym albo do zaprzestania gospodar czej, podlega karze pozbawienia od roku do lat 10.
 
-§ 1. Kto, w celu osiągnięcia korzyści majątkowej, przemocą, groźbą zamachu na życie lub zdrowie albo gwałtownego zamachu na mienie, doprowadza inną osobę do rozporządzenia mieniem własnym lub cudzym albo do zaprzestania lub ograniczenia działalności gospodarczej, podlega karze pozbawienia wolności od roku do lat 10.
-
-§ 2. Tej samej karze podlega, kto, w celu osiągnięcia korzyści majątkowej, groźbą rozgłoszenia dotyczącej innej osoby lub osoby dla niej najbliższej wiadomości uwłaczającej czci lub istotnie naruszającej prywatność lub zarzutu, który może poniżyć w opinii publicznej lub narazić na utratę zaufania potrzebnego dla danego stanowiska, zawodu lub rodzaju działalności, doprowadza inną osobę do rozporządzenia mieniem własnym lub cudzym albo do zaprzestania lub ograniczenia działalności gospodarczej.
-
-**Art. 283.** W wypadku mniejszej wagi, sprawca czynu określonego w art. 279 § 1, art. 280 § 1, art. 281 lub art. 282, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
+**Art. 283.** W wypadku mniejszej wagi, sprawca czy nu wart. 279 1, art. 280 llub wart. 281 lub 282, podlega karze pozbawienia od 3 do lat 5.
 
 **Art. 284.**
 
-§ 1. Kto przywłaszcza sobie cudzą rzecz ruchomą lub prawo majątkowe, podlega karze pozbawienia wolności do lat 3.
-
-§ 2. Kto przywłaszcza sobie powierzoną mu rzecz ruchomą, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
-
-§ 3. W wypadku mniejszej wagi lub przywłaszczenia rzeczy znalezionej, sprawca podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
-
-§ 4. Jeżeli przywłaszczenie nastąpiło na szkodę osoby najbliższej, ściganie następuje na wniosek pokrzywdzonego.
+§ 1. Kto sobie rzecz ru lub prawo podlega karze pozbawienia do lat 3. 2. Kto sobie mu rzecz podlega karze pozbawienia od 3 do lat 5. 3. W wypadku mniejszej wagi lub nia rzeczy znalezionej, sprawca podlega grzywnie, karze ograniczenia al bo pozbawienia do roku. 4. na osoby na wniosek po krzywdzonego.
 
 **Art. 285.**
 
-§ 1. Kto, włączając się do urządzenia telekomunikacyjnego, uruchamia na cudzy rachunek impulsy telefoniczne, podlega karze pozbawienia wolności do lat 3.
-
-§ 2. Jeżeli czyn określony w § 1 popełniono na szkodę osoby najbliższej, ściganie następuje na wniosek pokrzywdzonego.
+§ 1. Kto, do tele komunikacyjnego, uruchamia na cudzy rachunek im pulsy telefoniczne, podlega karze pozbawienia do lat 3. 2. czyn w 1 na szko osoby na wniosek pokrzywdzonego.
 
 **Art. 286.**
 
-§ 1. Kto, w celu osiągnięcia korzyści majątkowej, doprowadza inną osobę do niekorzystnego rozporządzenia własnym lub cudzym mieniem za pomocą wprowadzenia jej w błąd albo wyzyskania błędu lub niezdolności do należytego pojmowania przedsiębranego działania, podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
-
-§ 2. Tej samej karze podlega, kto żąda korzyści majątkowej w zamian za zwrot bezprawnie zabranej rzeczy.
-
-§ 3. W wypadku mniejszej wagi, sprawca podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
-
-§ 4. Jeżeli czyn określony w § 1–3 popełniono na szkodę osoby najbliższej, ściganie następuje na wniosek pokrzywdzonego.
+§ 1. Kto, w celu ma doprowadza do niekorzystnego lub cudzym mieniem za po wprowadzenia jej w albo wyzyskania lub do pojmowania branego podlega karze pozbawienia od 6 do lat 8. 2. Tej samej karze podlega, kto ma w zamian za zwrot bezprawnie zabranej rze czy. 3. W wypadku mniejszej wagi, sprawca podlega grzywnie, karze ograniczenia al bo pozbawienia do lat 2. 4. czyn w 1-3 na osoby na wnio sek pokrzywdzonego.
 
 **Art. 287.**
 
-§ 1. Kto, w celu osiągnięcia korzyści majątkowej lub wyrządzenia innej osobie szkody, bez upoważnienia, wpływa na automatyczne przetwarzanie, gromadzenie lub przekazywanie danych informatycznych lub zmienia, usuwa albo wprowadza nowy zapis danych informatycznych, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
-
-§ 2. W wypadku mniejszej wagi, sprawca podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
-
-§ 3. Jeżeli oszustwo popełniono na szkodę osoby najbliższej, ściganie następuje na wniosek pokrzywdzonego.
+§ 1. Kto, w celu ma lub innej osobie szkody, bez upo na automatyczne przetwarzanie, gromadzenie lub informacji lub zmienia, usuwa albo wprowadza nowy zapis na komputerowym informacji, podlega karze pozbawienia od 3 do lat 5. 2. W wypadku mniejszej wagi, sprawca podlega grzywnie, karze ograniczenia al bo pozbawienia do roku. 3. oszustwo na osoby na wniosek pokrzyw dzonego.
 
 **Art. 288.**
 
-§ 1. Kto cudzą rzecz niszczy, uszkadza lub czyni niezdatną do użytku, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
-
-§ 2. W wypadku mniejszej wagi, sprawca podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
-
-§ 3. Karze określonej w § 1 podlega także ten, kto przerywa lub uszkadza kabel podmorski albo narusza przepisy obowiązujące przy zakładaniu lub naprawie takiego kabla.
-
-§ 4. Ściganie przestępstwa określonego w § 1 lub 2 następuje na wniosek pokrzywdzonego.
+§ 1. Kto rzecz niszczy, uszkadza lub czyni do podlega karze pozbawienia od 3 do lat 5. 2. W wypadku mniejszej wagi, sprawca podlega grzywnie, karze ograniczenia al bo pozbawienia do roku. 3. Karze w 1 podlega ten, kto przerywa lub uszkadza kabel podmorski albo narusza przepisy przy lub naprawie takiego kabla. 4. Ściganie przestępstwa określonego w 1 lub 2 na wniosek pokrzywdzonego.
 
 **Art. 289.**
 
-§ 1. Kto zabiera w celu krótkotrwałego użycia cudzy pojazd mechaniczny, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
-
-§ 2. Jeżeli sprawca czynu określonego w § 1 pokonuje zabezpieczenie pojazdu przed jego użyciem przez osobę nieupoważnioną, pojazd stanowi mienie znacznej wartości albo sprawca następnie porzuca pojazd w stanie uszkodzonym lub w takich okolicznościach, że zachodzi niebezpieczeństwo utraty lub uszkodzenia pojazdu albo jego części lub zawartości, podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
-
-§ 3. Jeżeli czyn określony w § 1 popełniono używając przemocy lub grożąc natychmiastowym jej użyciem albo doprowadzając człowieka do stanu nieprzytomności lub bezbronności, sprawca podlega karze pozbawienia wolności od roku do lat 10.
-
-§ 4. W wypadkach określonych w § 1–3 sąd może wymierzyć grzywnę obok kary pozbawienia wolności.
-
-§ 5. Jeżeli czyn określony w § 1–3 popełniono na szkodę osoby najbliższej, ściganie następuje na wniosek pokrzywdzonego.
+§ 1. Kto zabiera w celu cia cudzy pojazd mechaniczny, podlega karze pozbawienia od 3 do lat 5. 2. sprawca czynu w 1 poko nuje zabezpieczenie pojazdu przed jego przez pojazd stanowi mienie znacz nej albo sprawca porzuca pojazd w stanie uszkodzonym lub w takich zachodzi utraty lub uszkodzenia pojazdu albo jego lub podlega karze pozbawienia od 6 do lat 8. 3. czyn w 1 przemocy lub natychmiastowym jej Dziennik Ustaw Nr 88 - 2709- Poz. 553 albo do stanu nieprzytom lub sprawca podlega karze pozbawienia od roku do lat 10. 4. W wypadkach w 1-3 obok kary pozbawienia 5. czyn w 1-3 na osoby na wnio sek pokrzywdzonego.
 
 **Art. 290.**
 
-§ 1. Kto w celu przywłaszczenia dopuszcza się wyrębu drzewa w lesie, podlega odpowiedzialności jak za kradzież.
-
-§ 2. W razie skazania za wyrąb drzewa albo za kradzież drzewa wyrąbanego lub powalonego, sąd orzeka na rzecz pokrzywdzonego nawiązkę w wysokości podwójnej wartości drzewa.
+§ 1. Kto w celu dopuszcza drzewa w lesie, podlega jak za 2. W razie skazania za drzewa albo za kra drzewa lub powalonego, orzeka na rzecz pokrzywdzonego w po dwójnej drzewa.
 
 **Art. 291.**
 
-§ 1. Kto rzecz uzyskaną za pomocą czynu zabronionego nabywa lub pomaga do jej zbycia albo tę rzecz przyjmuje lub pomaga do jej ukrycia, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
-
-§ 2. W wypadku mniejszej wagi, sprawca podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
+§ 1. Kto rzecz za czynu zabronionego nabywa lub pomaga do jej zbycia albo rzecz przyjmuje lub pomaga do jej ukrycia, podlega karze pozbawienia od 3 do lat 5. 2. W wypadku mniejszej wagi, sprawca podlega grzywnie, karze ograniczenia al bo pozbawienia do roku.
 
 **Art. 292.**
 
-§ 1. Kto rzecz, o której na podstawie towarzyszących okoliczności powinien i może przypuszczać, że została uzyskana za pomocą czynu zabronionego, nabywa lub pomaga do jej zbycia albo tę rzecz przyjmuje lub pomaga do jej ukrycia, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
-
-§ 2. W wypadku znacznej wartości rzeczy, o której mowa w § 1, sprawca podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
+§ 1. Kto rzecz, o której na podstawie towa powinien i uzyskana za czynu zabronionego, nabywa lub pomaga do jej zbycia albo rzecz przyj muje lub pomaga do jej ukrycia, podlega grzywnie, karze ograniczenia al bo pozbawienia do lat 2. 2. W wypadku znacznej rzeczy, o której mowa w 1, sprawca podlega karze pozbawienia od 3 do lat 5.
 
 **Art. 293.**
 
-§ 1. Przepisy art. 291 i 292 stosuje się odpowiednio do programu komputerowego.
-
-§ 2. Sąd może orzec przepadek rzeczy określonej w § 1 oraz w art. 291 i 292, chociażby nie stanowiła ona własności sprawcy.
+§ 1. Przepisy art. 291 i 292 stosuje od powiednio do programu komputerowego. 2. orzec przepadek rzeczy w 1 oraz wart. 291 i 292, nie ona sprawcy.
 
 **Art. 294.**
 
-§ 1. Kto dopuszcza się przestępstwa określonego w art. 278 § 1, 1a, 2, 3a lub 5, art. 284 § 1 lub 2, art. 285 § 1, art. 286 § 1 lub 2, art. 287 § 1, art. 288 § 1 lub 3, art. 290 § 1 lub w art. 291 § 1, w stosunku do mienia znacznej wartości, podlega karze pozbawienia wolności od roku do lat 10.
-
-§ 2. Tej samej karze podlega sprawca, który dopuszcza się przestępstwa wymienionego w § 1 w stosunku do dobra o szczególnym znaczeniu dla kultury.
-
-§ 3. Kto dopuszcza się przestępstwa określonego w art. 278 § 1, 1a, 2, 3a lub 5, art. 279 § 1, art. 280 § 1, art. 281, art. 282, art. 284 § 1 lub 2, art. 285 § 1, art. 286 § 1 lub 2, art. 287 § 1, art. 288 § 1 lub 3, art. 290 § 1 lub w art. 291 § 1, w stosunku do mienia o wartości większej niż pięciokrotność kwoty określającej mienie wielkiej wartości, podlega karze pozbawienia wolności od lat 3 do 20.
-
-§ 4. Kto dopuszcza się przestępstwa określonego w art. 278 § 1, 1a, 2, 3a lub 5, art. 279 § 1, art. 280, art. 281, art. 282, art. 284 § 1 lub 2, art. 285 § 1, art. 286 § 1 lub 2, art. 287 § 1, art. 288 § 1 lub 3, art. 290 § 1 lub w art. 291 § 1, w stosunku do mienia o wartości większej niż dziesięciokrotność kwoty określającej mienie wielkiej wartości, podlega karze pozbawienia wolności od lat 5 do 25.
+§ 1. Kto dopuszcza okre wart. 278 1 lub 2, art. 284 1 lub 2, art. 285 1, art. 286 1, art. 287 1, art. 288 1 lub 3, lub wart. 291 1, w stosunku do mienia znacznej podlega karze pozbawienia od roku do lat 10. 2. Tej samej karze podlega sprawca, który dopusz cza wymienionego w 1 w stosunku do dobra o szczególnym znaczeniu dla kultury.
 
 **Art. 295.**
 
-§ 1. Wobec sprawcy przestępstwa określonego w art. 278, 284–289, 291, 292 lub 294, który dobrowolnie naprawił szkodę w całości albo zwrócił pojazd lub rzecz mającą szczególne znaczenie dla kultury w stanie nieuszkodzonym, sąd może zastosować nadzwyczajne złagodzenie kary, a nawet odstąpić od jej wymierzenia.
-
-§ 2. Wobec sprawcy przestępstwa wymienionego w § 1, który dobrowolnie naprawił szkodę w znacznej części, sąd może zastosować nadzwyczajne złagodzenie kary.
-
-#### Rozdział XXXVI Przestępstwa przeciwko obrotowi gospodarczemu i interesom majątkowym w obrocie cywilnoprawnym
+§ 1. Wobec sprawcy nego wart. 278, 284-289, 291, 292 lub 294, który dobrowolnie w albo po jazd lub rzecz szczególne znaczenie dla kultury w stanie nieuszkodzonym, nad zwyczajne kary, a nawet od jej wymierzenia. 2. Wobec sprawcy wymienionego w 1, który dobrowolnie w znacznej nadzwyczajne nie kary. XXXVI przeciwko obrotowi gospodarczemu
 
 **Art. 296.**
 
-§ 1. Kto, będąc obowiązany na podstawie przepisu ustawy, decyzji właściwego organu lub umowy do zajmowania się sprawami majątkowymi lub działalnością gospodarczą osoby fizycznej, prawnej albo jednostki organizacyjnej niemającej osobowości prawnej, przez nadużycie udzielonych mu uprawnień lub niedopełnienie ciążącego na nim obowiązku, wyrządza jej znaczną szkodę majątkową, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
-
-§ 1a. Jeżeli sprawca, o którym mowa w § 1, przez nadużycie udzielonych mu uprawnień lub niedopełnienie ciążącego na nim obowiązku, sprowadza bezpośrednie niebezpieczeństwo wyrządzenia znacznej szkody majątkowej, podlega karze pozbawienia wolności do lat 3.
-
-§ 2. Jeżeli sprawca przestępstwa określonego w § 1 lub 1a działa w celu osiągnięcia korzyści majątkowej, podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
-
-§ 3. Jeżeli sprawca przestępstwa określonego w § 1 lub 2 wyrządza szkodę majątkową w wielkich rozmiarach, podlega karze pozbawienia wolności od roku do lat 10.
-
-§ 4. Jeżeli sprawca przestępstwa określonego w § 1 lub 3 działa nieumyślnie, podlega karze pozbawienia wolności do lat 3.
-
-§ 4a. Jeżeli pokrzywdzonym nie jest Skarb Państwa, ściganie przestępstwa określonego w § 1a następuje na wniosek pokrzywdzonego, wspólnika, akcjonariusza lub udziałowca pokrzywdzonej spółki lub członka pokrzywdzonej spółdzielni.
-
-§ 5. Nie podlega karze, kto przed wszczęciem postępowania karnego dobrowolnie naprawił w całości wyrządzoną szkodę.
-
-**Art. 296a.**
-
-§ 1. Kto, pełniąc funkcję kierowniczą w jednostce organizacyjnej wykonującej działalność gospodarczą lub pozostając z nią w stosunku pracy, umowy zlecenia lub umowy o dzieło, żąda lub przyjmuje korzyść majątkową lub osobistą albo jej obietnicę, w zamian za nadużycie udzielonych mu uprawnień lub niedopełnienie ciążącego na nim obowiązku mogące wyrządzić tej jednostce szkodę majątkową albo stanowiące czyn nieuczciwej konkurencji lub niedopuszczalną czynność preferencyjną na rzecz nabywcy lub odbiorcy towaru, usługi lub świadczenia, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
-
-§ 2. Tej samej karze podlega, kto w wypadkach określonych w § 1 udziela albo obiecuje udzielić korzyści majątkowej lub osobistej.
-
-§ 3. W wypadku mniejszej wagi, sprawca czynu określonego w § 1 lub 2 podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
-
-§ 4. Jeżeli sprawca czynu określonego w § 1 wyrządza znaczną szkodę majątkową, podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
-
-§ 5. Nie podlega karze sprawca przestępstwa określonego w § 2 albo w § 3 w związku z § 2, jeżeli korzyść majątkowa lub osobista albo ich obietnica zostały przyjęte, a sprawca zawiadomił o tym fakcie organ powołany do ścigania przestępstw i ujawnił wszystkie istotne okoliczności przestępstwa, zanim organ ten o nim się dowiedział.
-
-**Art. 296b.** (uchylony)
+§ 1. Kto, na podstawie przepisu ustawy, decyzji organu lub umo wy do zajmowania sprawami lub osoby fizycznej, prawnej al bo jednostki organizacyjnej nie prawnej, przez udzielonych mu lub na nim wy jej podlega karze pozbawienia od 3 do lat 5. 2. sprawca w 1 w celu podlega karze pozbawienia od 6 do lat 8. 3. sprawca w 1 lub 2 w wielkich rozmia rach, podlega karze pozbawienia od roku do lat 10. 4. sprawca w 1 lub 3 podlega karze pozbawienia do lat 3. 5. Nie podlega karze, kto przed powania karnego dobrowolnie w wy
 
 **Art. 297.**
 
-§ 1. Kto, w celu uzyskania dla siebie lub kogo innego, od banku lub jednostki organizacyjnej prowadzącej podobną działalność gospodarczą na podstawie ustawy albo od organu lub instytucji dysponujących środkami publicznymi – kredytu, pożyczki pieniężnej, poręczenia, gwarancji, akredytywy, dotacji, subwencji, potwierdzenia przez bank zobowiązania wynikającego z poręczenia lub z gwarancji lub podobnego świadczenia pieniężnego na określony cel gospodarczy, instrumentu płatniczego lub zamówienia publicznego, przedkłada podrobiony, przerobiony, poświadczający nieprawdę albo nierzetelny dokument albo nierzetelne, pisemne oświadczenie dotyczące okoliczności o istotnym znaczeniu dla uzyskania wymienionego wsparcia finansowego, instrumentu płatniczego lub zamówienia, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
-
-§ 2. Tej samej karze podlega, kto wbrew ciążącemu obowiązkowi, nie powiadamia właściwego podmiotu o powstaniu sytuacji mogącej mieć wpływ na wstrzymanie albo ograniczenie wysokości udzielonego wsparcia finansowego, określonego w § 1, lub zamówienia publicznego albo na możliwość dalszego korzystania z instrumentu płatniczego.
-
-§ 3. Nie podlega karze, kto przed wszczęciem postępowania karnego dobrowolnie zapobiegł wykorzystaniu wsparcia finansowego lub instrumentu płatniczego, określonych w § 1, zrezygnował z dotacji lub zamówienia publicznego albo zaspokoił roszczenia pokrzywdzonego.
+§ 1. Kto, w celu uzyskania dla siebie lub in nej osoby kredytu, bankowej, gwarancji kre dytowej, dotacji, subwencji lub zamówienia publiczne go, lub dokumenty albo nierzetelne, pisemne istotne znaczenie dla uzyskania takiego kredytu, bankowej, gwa rancji kredytowej, dotacji, subwencji lub zamówienia publicznego, podlega karze pozbawienia od 3 do lat 5. 2. Tej samej karze podlega, kto wbrew na nim nie powiadamia or ganu lub instytucji o powstaniu cych na wstrzymanie lub ograniczenie wy udzielonego kredytu, bankowej, gwa rancji kredytowej, dotacji, subwencji lub zamówienia publicznego. Dziennik Ustaw Nr 88 - 2710 - Poz. 553 3. Nie podlega karze, kto dobrowolnie przed karnego wyko rzystaniu kredytu, bankowej, gwarancji kredy towej lub subwencji, z zamówienia pu blicznego lub dotacji uzyskanych w sposób w 1 lub 2 albo roszczenia pokrzywdzonego.
 
 **Art. 298.**
 
-§ 1. Kto, w celu uzyskania odszkodowania z tytułu umowy ubezpieczenia, powoduje zdarzenie będące podstawą do wypłaty takiego odszkodowania, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
+1. Kto, w celu uzyskania odszkodowania z umowy ubezpieczenia, powoduje zdarzenie do takiego odszkodowania, podlega karze pozbawienia od 3 do lat 5.
 
-§ 2. Nie podlega karze, kto przed wszczęciem postępowania karnego dobrowolnie zapobiegł wypłacie odszkodowania.
+2. Nie podlega karze, kto przed powania karnego dobrowolnie od szkodowania.
 
 **Art. 299.**
 
-§ 1. Kto środki płatnicze, instrumenty finansowe, papiery wartościowe, wartości dewizowe, prawa majątkowe lub inne mienie ruchome lub nieruchomości, pochodzące z korzyści związanych z popełnieniem czynu zabronionego, przyjmuje, posiada, używa, przekazuje lub wywozi za granicę, ukrywa, dokonuje ich transferu lub konwersji, pomaga do przenoszenia ich własności lub posiadania albo podejmuje inne czynności, które mogą udaremnić lub znacznie utrudnić stwierdzenie ich przestępnego pochodzenia lub miejsca umieszczenia, ich wykrycie, zajęcie albo orzeczenie przepadku, podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
+1. Kto papiery warto lub inne dewizowe, prawa albo mienie ruchome lub nieruchome, z z przez inne osoby, w na wytwarzaniu lub obrocie lub psychotropowymi, przemycie, lub papierów rozboju albo niu innego przeciwko mieniu wielkiej wymuszaniu okupu albo handlu amu lub wybuchowymi albo rozszczepial nymi, przyjmuje, przekazuje lub wywozi za po maga do przenoszenia ich lub posiadania al bo podejmuje inne które lub znacznie stwierdzenie ich pochodzenia lub miejsca umieszczenia, ich wykrycie, albo orzeczenie przepadku, podlega karze pozbawienia od 3 do lat 5.
 
-§ 2. Karze określonej w § 1 podlega, kto będąc pracownikiem lub działając w imieniu lub na rzecz banku, instytucji finansowej lub kredytowej lub innego podmiotu, na którym na podstawie przepisów prawa ciąży obowiązek rejestracji transakcji i osób dokonujących transakcji, przyjmuje, wbrew przepisom, środki płatnicze, instrumenty finansowe, papiery wartościowe, wartości dewizowe, dokonuje ich transferu lub konwersji, lub przyjmuje je w innych okolicznościach wzbudzających uzasadnione podejrzenie, że stanowią one przedmiot czynu określonego w § 1, lub świadczy inne usługi mające ukryć ich przestępne pochodzenie lub usługi w zabezpieczeniu przed zajęciem.
+2. Karze w 1 podlega, kto pra cownikiem banku, instytucji finansowej lub kredytowej przyjmuje w gotówce, wbrew przepisom, lub inne dewizowe, dokonuje ich transferu lub konwersji albo przyjmuje je w innych uzasadnione podejrzenie o ich prze pochodzeniu z czynów w 1 al bo inne ich pochodzenie lub w zabezpieczeniu przed ciem.
 
-§ 3. (uchylony) § 4. (uchylony) § 5. Jeżeli sprawca dopuszcza się czynu określonego w § 1 lub 2, działając w porozumieniu z innymi osobami, podlega karze pozbawienia wolności od roku do lat 10.
+3. Kto, odpowiedzialny w banku, instytucji finansowej lub kredytowej za informowanie lub organu nadzoru finansowego o przeprowadzeniu operacji finansowej, nie czyni tego w for mie przewidzianej przepisami prawa, mimo okolicz przeprowadzenia operacji finansowej uzasadnione podejrzenie, chodzi o ich pocho dzenia w 1, podlega karze pozbawienia do lat 3.
 
-§ 6. Karze określonej w § 5 podlega sprawca, jeżeli dopuszczając się czynu określonego w § 1 lub 2, osiąga znaczną korzyść majątkową.
+4. Karze w 3 podlega, kto w banku, instytucji finansowej lub kredytowej, odpowie dzialny za wyznaczenie osoby uprawnionej do przyj mowania informacji, o których mowa w 3, lub udzie lania ich osobie uprawnionej, nie czyni przepisom.
 
-§ 6a. Kto czyni przygotowania do przestępstwa określonego w § 1 lub 2, podlega karze pozbawienia wolności do lat 3.
+5. sprawca dopuszcza czynu go w 1 lub 2, w porozumieniu z innymi oso bami, podlega karze pozbawienia od roku do lat 10.
 
-§ 7. W razie skazania za przestępstwo określone w § 1 lub 2, sąd orzeka przepadek przedmiotów pochodzących bezpośrednio albo pośrednio z przestępstwa, a także korzyści z tego przestępstwa lub ich równowartość, chociażby nie stanowiły one własności sprawcy. Przepadku nie orzeka się w całości lub w części, jeżeli przedmiot, korzyść lub jej równowartość podlega zwrotowi pokrzywdzonemu lub innemu podmiotowi.
+6. Karze w 5 podlega sprawca, czynu w 1 lub 2, ga
 
-§ 8. Nie podlega karze za przestępstwo określone w § 1 lub 2, kto dobrowolnie ujawnił wobec organu powołanego do ścigania przestępstw informacje dotyczące osób uczestniczących w popełnieniu przestępstwa oraz okoliczności jego popełnienia, jeżeli zapobiegło to popełnieniu innego przestępstwa; jeżeli sprawca czynił starania zmierzające do ujawnienia tych informacji i okoliczności, sąd stosuje nadzwyczajne złagodzenie kary.
+7. W razie skazania za w 1 lub 2, orzeka przepadek przedmiotów pocho lub z przedmioty nie sprawcy.
+
+8. Nie podlega karze za w 1-4, kto dobrowolnie wobec organu po do informacje ce osób w oraz jego to innego sprawca starania do ujawnienia tych informacji i stosuje nadzwyczajne kary.
 
 **Art. 300.**
 
-§ 1. Kto, w razie grożącej mu niewypłacalności lub upadłości, udaremnia lub uszczupla zaspokojenie swojego wierzyciela przez to, że usuwa, ukrywa, zbywa, darowuje, niszczy, rzeczywiście lub pozornie obciąża albo uszkadza składniki swojego majątku, podlega karze pozbawienia wolności do lat 3.
+1. Kto, w razie mu lub udaremnia lub uszczupla za spokojenie swojego wierzyciela przez to, usuwa, ukrywa, zbywa, darowuje, niszczy, lub pozornie albo uszkadza swojego podlega karze pozbawienia do lat 3.
 
-§ 2. Kto, w celu udaremnienia wykonania orzeczenia sądu lub innego organu państwowego, udaremnia lub uszczupla zaspokojenie swojego wierzyciela przez to, że usuwa, ukrywa, zbywa, darowuje, niszczy, rzeczywiście lub pozornie obciąża albo uszkadza składniki swojego majątku zajęte lub zagrożone zajęciem, bądź usuwa znaki zajęcia, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
+2. Kto, w celu udaremnienia wykonania orzecze nia lub innego organu udaremnia lub uszczupla zaspokojenie swojego wierzyciela przez to, usuwa, ukrywa, zbywa, darowuje, niszczy, rze lub pozornie albo uszkadza ki swojego lub podlega karze pozbawienia od 3 do lat 5.
 
-§ 3. Jeżeli czyn określony w § 1 wyrządził szkodę wielu wierzycielom, sprawca podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
+3. czyn w 1 wielu wierzycielom, sprawca podlega karze pozbawienia od 6 do lat 8.
 
-§ 4. Jeżeli pokrzywdzonym nie jest Skarb Państwa, ściganie przestępstwa określonego w § 1 następuje na wniosek pokrzywdzonego.
+4. pokrzywdzonym nie jest Skarb w 1 na wniosek pokrzywdzonego.
 
 **Art. 301.**
 
-§ 1. Kto będąc dłużnikiem kilku wierzycieli udaremnia lub ogranicza zaspokojenie ich należności przez to, że tworzy w oparciu o przepisy prawa nową jednostkę gospodarczą i przenosi na nią składniki swojego majątku, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
+1. Kto kilku wierzycie li udaremnia lub ogranicza zaspokojenie ich przez to, tworzy w oparciu o przepisy prawa i przenosi na swo jego podlega karze pozbawienia od 3 do lat 5.
 
-§ 2. Tej samej karze podlega, kto będąc dłużnikiem kilku wierzycieli doprowadza do swojej upadłości lub niewypłacalności.
+2. Tej samej karze podlega, kto kilku wierzycieli doprowadza do swojej lub
 
-§ 3. Kto będąc dłużnikiem kilku wierzycieli w sposób lekkomyślny doprowadza do swojej upadłości lub niewypłacalności, w szczególności przez trwonienie części składowych majątku, zaciąganie zobowiązań lub zawieranie transakcji oczywiście sprzecznych z zasadami gospodarowania, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
+3. Kto kilku wierzycieli w spo sób doprowadza do swojej lub w przez trwonienie lub zawieranie transakcji sprzecznych z zasada mi gospodarowania, podlega grzywnie, karze ograniczenia al bo pozbawienia do lat 2.
 
 **Art. 302.**
 
-§ 1. Kto, w razie grożącej mu niewypłacalności lub upadłości, nie mogąc zaspokoić wszystkich wierzycieli, spłaca lub zabezpiecza tylko niektórych, czym działa na szkodę pozostałych, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
-
-§ 2. Kto wierzycielowi udziela lub obiecuje udzielić korzyści majątkowej za działanie na szkodę innych wierzycieli w związku z postępowaniem upadłościowym lub zmierzającym do zapobiegnięcia upadłości, podlega karze pozbawienia wolności do lat 3.
-
-§ 3. Tej samej karze podlega wierzyciel, który w związku z określonym w § 2 postępowaniem przyjmuje korzyść za działanie na szkodę innych wierzycieli albo takiej korzyści żąda.
+§ 1. Kto, w razie mu lub nie wszystkich wierzycieli, lub zabezpiecza tylko niektórych, czym na podlega grzywnie, karze ograniczenia al bo pozbawienia do lat 2. 2. Kto wierzycielowi udziela lub obiecuje za na innych wie rzycieli w z lub do podlega karze pozbawienia do lat 3. 3. Tej samej karze podlega wierzyciel, który w z w 2 przyj muje za na innych wierzycieli albo takiej
 
 **Art. 303.**
 
-§ 1. Kto wyrządza szkodę majątkową osobie fizycznej, prawnej albo jednostce organizacyjnej niemającej osobowości prawnej, przez nieprowadzenie dokumentacji działalności gospodarczej albo prowadzenie jej w sposób nierzetelny lub niezgodny z prawdą, w szczególności niszcząc, usuwając, ukrywając, przerabiając lub podrabiając dokumenty dotyczące tej działalności, podlega karze pozbawienia wolności do lat 3.
+§ 1. Kto oso bie fizycznej, prawnej albo jednostce organizacyjnej nie prawnej, przez nieprowadze nie dokumentacji gospodarczej albo pro wadzenie jej w sposób nierzetelny lub niezgodny z w ukrywa lub dokumenty tej podlega karze pozbawienia do lat 3. 2. sprawca w 1 podlega karze pozbawienia od 3 do lat 5. 3. W wypadku mniejszej wagi, sprawca stwa w 1 podlega grzywnie, karze ograniczenia al bo pozbawienia do roku. 4. pokrzywdzonym nie jest Skarb w 1-3 je na wniosek pokrzywdzonego.
 
-§ 2. Jeżeli sprawca przestępstwa określonego w § 1 wyrządza znaczną szkodę majątkową, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
-
-§ 3. W wypadku mniejszej wagi, sprawca przestępstwa określonego w § 1 podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
-
-§ 4. Jeżeli pokrzywdzonym nie jest Skarb Państwa, ściganie przestępstwa określonego w § 1–3 następuje na wniosek pokrzywdzonego.
-
-**Art. 304.**
-
-§ 1. Kto, wyzyskując przymusowe położenie innej osoby fizycznej, prawnej albo jednostki organizacyjnej niemającej osobowości prawnej, zawiera z nią umowę, nakładając na nią obowiązek świadczenia niewspółmiernego ze świadczeniem wzajemnym, podlega karze pozbawienia wolności do lat 3.
-
-§ 2. Kto, w zamian za udzielone osobie fizycznej świadczenie pieniężne wynikające z umowy pożyczki, kredytu lub innej umowy, której przedmiotem jest udzielenie takiego świadczenia z obowiązkiem jego zwrotu, niezwiązanej bezpośrednio z działalnością gospodarczą lub zawodową tej osoby, żąda od niej zapłaty kosztów innych niż odsetki w kwocie co najmniej dwukrotnie przekraczającej maksymalną wysokość tych kosztów określoną w ustawie, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
-
-§ 3. Tej samej karze podlega, kto, w związku z udzieleniem osobie fizycznej świadczenia pieniężnego wynikającego z umowy pożyczki, kredytu lub innej umowy, której przedmiotem jest udzielenie świadczenia pieniężnego z obowiązkiem jego zwrotu, niezwiązanej bezpośrednio z działalnością gospodarczą lub zawodową tej osoby, żąda od niej zapłaty odsetek w wysokości co najmniej dwukrotnie przekraczającej stopę odsetek maksymalnych lub odsetek maksymalnych za opóźnienie, określonych w ustawie.
+**Art. 304.** Kto, przymusowe innej osoby fizycznej, prawnej albo jednostki organiza cyjnej nie prawnej, zawiera z na nie ze wzajemnym, podlega karze pozbawienia do lat 3.
 
 **Art. 305.**
 
-§ 1. Kto utrudnia lub udaremnia przetarg albo postępowanie o udzielenie zamówienia publicznego, działając na szkodę właściciela mienia, osoby lub instytucji, na rzecz której przetarg jest dokonywany bądź która prowadzi postępowanie, albo na szkodę interesu publicznego, podlega karze pozbawienia wolności do lat 3.
+§ 1. Kto, w celu ma udaremnia lub utrudnia przetarg publiczny albo wchodzi w porozumienie z na mienia albo osoby lub instytucji, na rzecz której przetarg jest dokonywany, podlega karze pozbawienia do lat 3. 2. Tej samej karze podlega, kto w z pu blicznym przetargiem rozpowszechnia informacje lub przemilcza istotne znaczenie dla zawarcia umowy przedmiotem przetargu albo wchodzi w porozumienie z na mienia albo osoby lub instytucji, na rzect której przetarg jest dokonywany. 3. pokrzywdzonym nie jest Skarb w 1 lub 2 puje na wniosek pokrzywdzonego.
 
-§ 2. Kto, w celu wywarcia bezprawnego wpływu na wynik trwającego lub przygotowywanego przetargu lub postępowania o udzielenie zamówienia publicznego, wchodzi w porozumienie z inną osobą, przekazuje lub rozpowszechnia informacje lub przemilcza istotne okoliczności, działając na szkodę właściciela mienia, osoby lub instytucji, na rzecz której przetarg jest lub ma być dokonywany bądź która prowadzi lub ma prowadzić postępowanie, albo na szkodę interesu publicznego, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
-
-§ 3. Jeżeli sprawca dopuszcza się czynu określonego w § 1 lub 2 w celu osiągnięcia korzyści majątkowej lub osobistej, podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
-
-§ 4. Przepisy § 1–3 stosuje się odpowiednio do aukcji.
-
-§ 5. Ściganie przestępstwa określonego w § 1–4 następuje na wniosek pokrzywdzonego, chyba że pokrzywdzonym jest Skarb Państwa lub przedmiot przetargu, aukcji lub zamówienia publicznego jest co najmniej w części finansowany ze środków publicznych.
-
-§ 6. Nie podlega karze sprawca przestępstwa określonego w § 1 lub 2, który zawiadomił o fakcie jego popełnienia organ powołany do ścigania przestępstw lub organ ochrony konkurencji państwa członkowskiego Unii Europejskiej lub Komisję Europejską i ujawnił wszystkie istotne okoliczności tego przestępstwa, zanim organ powołany do ścigania przestępstw o nim się dowiedział.
-
-**Art. 306.** Kto usuwa, podrabia lub przerabia znaki identyfikacyjne, datę produkcji lub datę przydatności towaru lub urządzenia, podlega karze pozbawienia wolności do lat 3.
-
-**Art. 306a.**
-
-§ 1. Kto zmienia wskazanie drogomierza pojazdu mechanicznego lub ingeruje w prawidłowość jego pomiaru, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
-
-§ 2. Tej samej karze podlega, kto zleca innej osobie wykonanie czynu, o którym mowa w § 1.
-
-§ 3. W wypadku mniejszej wagi, sprawca czynu określonego w § 1 lub 2, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
-
-**Art. 306b.**
-
-§ 1. Kto dopuszcza się przestępstwa określonego w art. 296 § 1 lub 2, art. 296a § 1 lub 4, art. 299 § 1, 2, 5 lub 6 lub w art. 303 § 1, w stosunku do mienia o wartości większej niż pięciokrotność kwoty określającej mienie wielkiej wartości lub powodując szkodę w rozmiarach odpowiadających takiej wartości, podlega karze pozbawienia wolności od lat 3 do 20.
-
-§ 2. Kto dopuszcza się przestępstwa określonego w art. 296 § 1 lub 2, art. 296a § 1 lub 4, art. 299 § 1, 2, 5 lub 6 lub w art. 303 § 1, w stosunku do mienia o wartości większej niż dziesięciokrotność kwoty określającej mienie wielkiej wartości lub powodując szkodę w rozmiarach odpowiadających takiej wartości, podlega karze pozbawienia wolności od lat 5 do 25.
-
-**Art. 306c.**
-
-§ 1. Kto dokonuje zaboru tablicy rejestracyjnej pojazdu mechanicznego, umożliwiającej dopuszczenie tego pojazdu do ruchu na obszarze Rzeczypospolitej Polskiej, albo w celu użycia za autentyczną tablicę rejestracyjną pojazdu mechanicznego podrabia lub przerabia, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
-
-§ 2. Tej samej karze podlega, kto używa tablicy rejestracyjnej pojazdu mechanicznego nieprzypisanej do pojazdu, na którym ją umieszczono, albo używa jako autentycznej podrobionej lub przerobionej tablicy rejestracyjnej pojazdu mechanicznego.
+**Art. 306.** Kto usuwa, podrabia lub przerabia znaki identyfikacyjne, produkcji lub towaru lub podlega karze pozbawienia do lat 3.
 
 **Art. 307.**
 
-§ 1. Wobec sprawcy przestępstwa określonego w art. 296, art. 299–305 lub w art. 306b, który dobrowolnie naprawił szkodę w całości, sąd może zastosować nadzwyczajne złagodzenie kary, a nawet odstąpić od jej wymierzenia.
+§ 1. Wobec sprawcy nego wart. 296 lub 299-305, który dobrowolnie na w nad zwyczajne kary, a nawet od jej wymierzenia. 2. Wobec sprawcy wymienionego w 1, który dobrowolnie w znacznej nadzwyczajne nie kary.
 
-§ 2. Wobec sprawcy przestępstwa wymienionego w § 1, który dobrowolnie naprawił szkodę w znacznej części, sąd może zastosować nadzwyczajne złagodzenie kary.
+**Art. 308.** Za w tym rozdzia le odpowiada jak lub wierzyciel, kto, na podsta wie przepisu prawnego, decyzji organu, umowy lub faktycznego wykonywania, zajmuje sprawami innej osoby prawnej, fizycz nej, grupy osób lub podmiotu nie osobowo prawnej.
 
-**Art. 308.** Za przestępstwa określone w tym rozdziale odpowiada jak dłużnik lub wierzyciel, kto, na podstawie przepisu prawnego, decyzji właściwego organu, umowy lub faktycznego wykonywania, zajmuje się sprawami majątkowymi innej osoby prawnej, fizycznej, grupy osób lub podmiotu niemającego osobowości prawnej.
-
-**Art. 309.** W razie skazania za przestępstwo określone w art. 296 § 3, art. 297, art. 299 lub w art. 306b sąd może wymierzyć obok kary pozbawienia wolności grzywnę w wysokości do 3000 stawek dziennych.
-
-#### Rozdział XXXVII Przestępstwa przeciwko obrotowi pieniędzmi i papierami wartościowymi
+**Art. 309.** W razie skazania za ne wart. 296 3, art. 297 1 lub art. 299, orze obok kary pozbawienia wymie w do 2 000 stawek dziennych. XXXVII przeciwko obrotowi i pa pierami
 
 **Art. 310.**
 
-§ 1. Kto podrabia albo przerabia polski albo obcy pieniądz, polski albo obcy znak pieniężny, który został ustalony jako prawny środek płatniczy, jednak nie został jeszcze wprowadzony do obiegu, inny środek płatniczy albo dokument uprawniający do otrzymania sumy pieniężnej albo zawierający obowiązek wypłaty kapitału, odsetek, udziału w zyskach albo stwierdzenie uczestnictwa w spółce lub z pieniędzy, innego środka płatniczego albo z takiego dokumentu usuwa oznakę umorzenia, podlega karze pozbawienia wolności od lat 5 do 25.
+§ 1. Kto podrabia albo przerabia polski al bo obcy inny albo dokument do otrzymania sumy albo za odsetek, udzia w zyskach albo stwierdzenie uczestnictwa w lub z innego albo z takie go dokumentu usuwa umorzenia, podlega karze pozbawienia na czas nie krótszy od lat 5 albo karze 25 lat pozbawienia wol 2. Kto inny lub doku ment w 1 puszcza w obieg albo go w takim celu przyjmuje, przechowuje, przewozi, przenosi, prze albo pomaga do jego zbycia lub ukrycia, podlega karze pozbawienia od roku do lat 10. Dziennik Ustaw Nr 88 - 2712 3. W wypadku mniejszej wagi zastoso nadzwyczajne kary. 4. Kto czyni przygotowania do prze w 1 lub 2, podlega karze pozbawienia od 3 do lat 5.
 
-§ 2. Kto pieniądz, inny środek płatniczy lub znak pieniężny albo dokument określone w § 1 puszcza w obieg albo go w takim celu przyjmuje, przechowuje, przewozi, przenosi, przesyła albo pomaga do jego zbycia lub ukrycia, podlega karze pozbawienia wolności od roku do lat 10.
+**Art. 311.** Kto, w dokumentacji z obrotem papierami rozpowszechnia niepraw dziwe informacje lub przemilcza informacje o stanie oferenta, istotne znaczenie dla nabycia, zbycia papierów nia albo podlega karze pozbawienia do lat 3.
 
-§ 3. W wypadku mniejszej wagi sąd może zastosować nadzwyczajne złagodzenie kary.
-
-§ 4. Kto czyni przygotowania do popełnienia przestępstwa określonego w § 1 lub 2, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
-
-**Art. 311.** Kto, w dokumentacji związanej z obrotem papierami wartościowymi, rozpowszechnia nieprawdziwe informacje lub przemilcza informacje o stanie majątkowym oferenta, mające istotne znaczenie dla nabycia, zbycia papierów wartościowych, podwyższenia albo obniżenia wkładu, podlega karze pozbawienia wolności do lat 3.
-
-**Art. 312.** Kto puszcza w obieg podrobiony albo przerobiony pieniądz, inny środek płatniczy albo dokument określony w art. 310 § 1, który sam otrzymał jako prawdziwy, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
+**Art. 312.** Kto puszcza w obieg podrobiony albo przerobiony inny albo doku ment wart. 310 1, który sam jako prawdziwy, podlega grzywnie, karze ograniczenia al bo pozbawienia do roku.
 
 **Art. 313.**
 
-§ 1. Kto, w celu użycia lub puszczenia w obieg, podrabia albo przerabia urzędowy znak wartościowy albo ze znaku takiego usuwa oznakę umorzenia, podlega karze pozbawienia wolności do lat 3.
+§ 1. Kto, w celu lub puszczenia w obieg, podrabia albo przerabia znak war albo ze znaku takiego usuwa umorze nia, podlega karze pozbawienia do lat 3. 2. Tej samej karze podlega, kto znak podrobiony, przerobiony albo z umorzenia puszcza w obieg, nabywa lub go albo przechowuje w celu puszczenia w obieg.
 
-§ 2. Tej samej karze podlega, kto urzędowy znak wartościowy podrobiony, przerobiony albo z usuniętą oznaką umorzenia puszcza w obieg, nabywa lub go używa albo przechowuje w celu puszczenia w obieg.
-
-**Art. 314.** Kto, w celu użycia w obrocie gospodarczym, podrabia albo przerabia znak urzędowy, mający stwierdzić upoważnienie lub wynik badania albo w obrocie publicznym używa przedmiotów opatrzonych takimi podrobionymi albo przerobionymi znakami, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
+**Art. 314.** Kto, w celu w obrocie gospodar czym, podrabia albo przerabia znak uiszczenie skarbowej lub wynik badania albo w obrocie publicznym przedmiotów opatrzonych takimi podrobionymi albo przerobionymi znakami, podlega grzywnie, karze ograniczenia al bo pozbawienia do lat 2.
 
 **Art. 315.**
 
-§ 1. Kto, w celu użycia w obrocie gospodarczym, podrabia lub przerabia zalegalizowane narzędzie pomiarowe lub probiercze, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
-
-§ 2. Tej samej karze podlega, kto podrobionego albo przerobionego narzędzia pomiarowego lub probierczego w obrocie gospodarczym używa albo takie narzędzie w celu użycia w obrocie gospodarczym przechowuje.
+§ 1. Kto, w celu w obrocie gospo darczym, podrabia lub przerabia zalegalizowane dzie pomiarowe lub probiercze, podlega grzywnie, karze ograniczenia al bo pozbawienia do lat 2. 2. Tej samej karze podlega, kto podrobionego al bo przerobionego pomiarowego lub probier czego w obrocie gospodarczym albo takie na w celu w obrocie gospodarczym prze chowuje.
 
 **Art. 316.**
 
-§ 1. Pieniądze, dokumenty i znaki wartościowe podrobione, przerobione albo z usuniętą oznaką umorzenia oraz podrobione lub przerobione narzędzia pomiarowe, jak również przedmioty służące do popełnienia przestępstw określonych w tym rozdziale ulegają przepadkowi, chociażby nie stanowiły własności sprawcy.
-
-§ 2. Podrobione albo przerobione znaki urzędowe określone w art. 314 należy usunąć, chociażby to miało być połączone ze zniszczeniem przedmiotu.
+§ 1. dokumenty i znaki warto podrobione, przerobione albo z ozna umorzenia oraz podrobione lub przerobione dzia pomiarowe, jak przedmioty do w tym rozdziale przepadkowi, nie sprawcy. 2. Podrobione albo przerobione znaki wart. 314 to mia ze zniszczeniem przedmiotu.
 
 ## CZĘŚĆ WOJSKOWA
 
-#### Rozdział XXXVIII Przepisy ogólne dotyczące żołnierzy
+#### Rozdział XXXVIII Przepisy ogólne
 
 **Art. 317.**
 
-§ 1. Przepisy części ogólnej i szczególnej tego kodeksu stosuje się do żołnierzy, jeżeli część wojskowa nie zawiera przepisów odmiennych.
+§ 1. Przepisy ogólnej i szczególnej tego kodeksu stosuje do woj skowa nie zawiera przepisów odmiennych. 2. Przepisy art. 356-363 oraz, w wypadku nienia w nich przepisy ogólne stosuje odpowiednio do pracowników wojska. 3. Przepisy wojskowej stosuje odpo wiednio do innych osób, ustawa tak stano wi.
 
-§ 2. Przepisy art. 356–363 oraz, w wypadku popełnienia określonego w nich przestępstwa, przepisy ogólne dotyczące żołnierzy stosuje się odpowiednio także do pracowników wojska.
-
-§ 3. Przepisy części wojskowej stosuje się odpowiednio także do innych osób, jeżeli ustawa tak stanowi.
-
-**Art. 318.** Nie popełnia przestępstwa żołnierz, który dopuszcza się czynu zabronionego będącego wykonaniem rozkazu, chyba że wykonując rozkaz umyślnie popełnia przestępstwo.
+**Art. 318.** Nie który dopuszcza czynu zabronionego wykona niem rozkazu, chyba rozkaz po
 
 **Art. 319.**
 
-§ 1. Nie popełnia przestępstwa żołnierz, gdy w wypadku nieposłuszeństwa lub oporu stosuje środki niezbędne w celu wymuszenia posłuchu dla rozkazu, do którego wydania był uprawniony, jeżeli okoliczności wymagają natychmiastowego przeciwdziałania, a posłuchu dla rozkazu nie można osiągnąć w inny sposób.
+§ 1. Nie gdy w wypadku lub oporu stosuje w celu wymuszenia dla roz kazu, do którego wydania uprawniony, oko natychmiastowego nia, a dla rozkazu nie w inny sposób. 2. W razie przekroczenia granic ostatecznej po trzeby nadzwyczajne nie kary.
 
-§ 2. W razie przekroczenia granic ostatecznej potrzeby sąd może zastosować nadzwyczajne złagodzenie kary.
+**Art. 320.** W stosunku do sprawcy w wojskowej, który w chwili czynu niezdolny do wojskowej, mo nadzwyczajne kary, a nawet od jej wymierzenia.
 
-**Art. 320.** W stosunku do sprawcy przestępstwa określonego w części wojskowej, który w chwili czynu był niezdolny do pełnienia służby wojskowej, sąd może zastosować nadzwyczajne złagodzenie kary, a nawet odstąpić od jej wymierzenia.
-
-**Art. 321.** W wypadku przewidzianym w art. 10 § 4 sąd może zamiast orzekania środków wychowawczych lub poprawczych, o których mowa w tym przepisie, przekazać sprawcę właściwemu dowódcy w celu wymierzenia kary przewidzianej w wojskowych przepisach dyscyplinarnych.
+**Art. 321.** W wypadku przewidzianym wart. 10 4 zamiast orzekania wychowawczych lub poprawczych, o których mowa w tym przepisie, dowódcy w celu wy mierzenia kary przewidzianej w wojskowych przepi sach dyscyplinarnych.
 
 **Art. 322.**
 
-§ 1. Karą stosowaną wobec żołnierzy jest także areszt wojskowy; do kary aresztu wojskowego stosuje się odpowiednio przepisy o karze pozbawienia wolności.
-
-§ 2. Kara aresztu wojskowego trwa najkrócej miesiąc, najdłużej 2 lata; wymierza się ją w miesiącach i latach.
-
-§ 3. Karę aresztu wojskowego odbywa się w przeznaczonym do tego zakładzie karnym; w czasie odbywania kary skazany podlega także szkoleniu wojskowemu.
+§ 1. wobec jest areszt wojskowy; do kary aresztu wojskowego stosuje odpowiednio przepisy o karze pozbawienia 2. Kara aresztu wojskowego trwa najkrócej mie 2 lata; wymierza w i la tach. 3. aresztu wojskowego odbywa w prze znaczonym do tego karnym; w czasie odby wania kary skazany podlega szkoleniu wojskowe mu.
 
 **Art. 323.**
 
-§ 1. Do żołnierzy nie stosuje się przepisów art. 34 § 1a pkt 1.
+§ 1. Do nie stosuje przepisu art. 34 2 pkt 1 i 2. 2. W czasie odbywania kary ograniczenia wolno skazany:
 
-§ 2. W czasie odbywania kary ograniczenia wolności skazany:
-
-- **1)** nie może być mianowany na wyższy stopień wojskowy ani wyznaczony na wyższe stanowisko służbowe;
-- **2)** nie może brać udziału w uroczystościach i paradach organizowanych w jednostce wojskowej lub z udziałem jednostki.
-
-§ 3. Żołnierze innej służby niż zasadnicza odbywają karę ograniczenia wolności, pozostając w określonym miejscu w dyspozycji przełożonego w czasie od zakończenia zajęć służbowych przez 4 godziny 2 dni w tygodniu. Sąd może również orzec potrącenie od 5 do 15 % miesięcznego zasadniczego uposażenia na wskazany cel społeczny.
-
-§ 4. Żołnierze zasadniczej służby wojskowej odbywają karę ograniczenia wolności w wydzielonej jednostce wojskowej według zasad określonych w Kodeksie karnym wykonawczym.
-
-§ 5. Jeżeli skazany na karę ograniczenia wolności, według zasad określonych w § 1–4, w chwili przystąpienia do jej wykonania w całości lub w części, przestał być żołnierzem lub, w wypadku przewidzianym w art. 317 § 2, pracownikiem wojska, sąd zamienia tę karę na karę ograniczenia wolności orzekaną według zasad ogólnych.
+- **1)** nie mianowany na woj skowy ani wyznaczony na stanowisko bowe,
+- **2)** nie w i paradach organizowanych w jednostce wojskowej lub z jednostki. 3. ograniczenia wo bec innej zasadnicza lub w charakterze kandydata na zawodowego, orzeka pozostawania w miejscu w czasie od do capstrzyku przez 2 dni w tygodniu, a orzec cenie od 5 do 15% na wska zany przez cel 4. Żołnierze zasadniczej służby wojskowej odby ograniczenia w wydzielonej jedno stce wojskowej zasad w Kodeksie karnym wykonawczym. 5. skazany na ograniczenia we zasad w 1-4, w chwili do jej wykonania w lub w nierzem lub, w wypadku przewidzianym wart. 317 2, pracownikiem wojska, zamienia na ogra niczenia zasad ogólnych.
 
 **Art. 324.**
 
-§ 1. Środkami karnymi stosowanymi wobec żołnierzy są także:
+§ 1. Środkami karnymi stosowanymi wobec
 
-- **1)** (uchylony)
-- **2)** wydalenie z zawodowej służby wojskowej.
-- **3)** (uchylony) § 2. Wobec żołnierzy służby zasadniczej nie orzeka się środka karnego wymienionego w art. 39 pkt 7.
+- **1)** stopnia wojskowego,
+- **2)** wydalenie z zawodowej wojskowej,
+- **3)** degradacja. 2. Wobec zasadniczej nie orzeka karnego wymienionego wart. 39 pkt 7.
 
-**Art. 325.** (uchylony)
+**Art. 325.**
+
+§ 1. stopnia wojskowego obej muje posiadanego stopnia i powrót do stopnia w korpusu oficerów, albo podoficerów. 2. orzec stopnia wojskowe go w razie skazania za za tym rodzaj czynu, sposób i jego nia.
 
 **Art. 326.**
 
-§ 1. Wydalenie z zawodowej służby wojskowej obejmuje bezzwłoczne usunięcie ze służby oraz utratę odznak i zaszczytnych wyróżnień nadanych przez właściwego dowódcę.
+§ 1. Wydalenie z zawodowej woj skowej obejmuje ze oraz odznak i zaszczytnych nadanych przez 2. orzec wydalenie z zawodowej wojskowej, sprawca przy stwa swoich al bo dalsze tej istot nym dobrom chronionym prawem.
 
-§ 2. Sąd może orzec wydalenie z zawodowej służby wojskowej, jeżeli sprawca przy popełnieniu przestępstwa umyślnego rażąco nadużył swoich uprawnień albo okazał, że dalsze pełnienie tej służby zagraża istotnym dobrom chronionym prawem.
+**Art. 327.**
 
-**Art. 327.** (uchylony)
+§ 1. Degradacja obejmuje posiada nego stopnia wojskowego i powrót do stopnia szere gowego. 2. orzec w razie skazania za rodzaj czynu, sposób i jego sprawca wymagane do posiadania stopnia wojskowego, a w wypadku w celu
 
-**Art. 328.** (uchylony)
+**Art. 328.** Sąd orzec stopnia wojsko wego albo tylko wobec osoby, która w chwili czynu zabronionego rzem, nim w chwili orzekania.
 
-**Art. 329.** Jeżeli przestępstwo zagrożone jest karą pozbawienia wolności nie przekraczającą 5 lat, a wymierzona kara nie byłaby surowsza niż 2 lata pozbawienia wolności, sąd może w stosunku do żołnierza orzec karę aresztu wojskowego.
+**Art. 329.** Jeżeli jest pozbawienia nie 5 lat, a wy mierzona kara nie surowsza 2 lata pozba wienia w stosunku do orzec aresztu wojskowego.
 
-**Art. 330.** Jeżeli wymierzona za przestępstwo kara aresztu wojskowego nie byłaby surowsza od roku, sąd może w stosunku do żołnierza orzec karę ograniczenia wolności.
+**Art. 330.** Jeżeli wymierzona za kara aresztu wojskowego nie surowsza od roku, w stosunku do orzec ograniczenia
 
-**Art. 331.** Odstępując od wymierzenia kary, sąd może zwrócić się do właściwego dowódcy o wymierzenie kary dyscyplinarnej przewidzianej w wojskowych przepisach dyscyplinarnych.
+**Art. 331.** Odstępując od wymierzenia kary, mo do dowódcy o wymierzenie kary dyscyplinarnej przewidzianej w wojskowych prze pisach dyscyplinarnych.
 
 **Art. 332.**
 
-§ 1. W razie orzeczenia za zbiegające się przestępstwa pozbawienia praw publicznych i degradacji lub wydalenia z zawodowej służby wojskowej sąd orzeka tylko pozbawienie praw publicznych.
-
-§ 2. W razie orzeczenia za zbiegające się przestępstwa degradacji oraz wydalenia z zawodowej służby wojskowej sąd orzeka tylko degradację.
+§ 1. W razie orzeczenia za pozbawienia praw publicznych i degra dacji, wydalenia z zawodowej wojskowej lub stopnia wojskowego orzeka tylko pozba wienie praw publicznych. 2. W razie orzeczenia za stwa degradacji oraz wydalenia z zawodowej wojskowej lub stopnia wojskowego orzeka tylko
 
 **Art. 333.**
 
-§ 1. Stosując warunkowe umorzenie postępowania karnego wobec żołnierza, sąd może także zwrócić się do właściwego dowódcy o wymierzenie kary przewidzianej w wojskowych przepisach dyscyplinarnych.
-
-§ 2. Sąd może podjąć postępowanie karne także wtedy, gdy sprawca rażąco narusza zasady dyscypliny wojskowej.
+§ 1. warunkowe umorzenie po karnego wobec do dowódcy o wymierzenie ka ry przewidzianej w wojskowych przepisach dyscypli narnych. 2. karne wtedy, gdy sprawca narusza zasady dyscypliny wojskowej.
 
 **Art. 334.**
 
-§ 1. Nakładając na żołnierza obowiązki lub stosując środki przewidziane w art. 67 lub 72, uwzględnia się warunki służby wojskowej.
+§ 1. na lub przewidziane wart. 67 lub 72, nia warunki wojskowej. 2. dozór wobec po wykonywanie dozoru kuratorowi wojskowemu, lub wskaza nemu przez
 
-§ 2. Orzekając dozór wobec żołnierza, sąd może powierzyć wykonywanie czynności dozoru kuratorowi wojskowemu, przełożonemu lub żołnierzowi wskazanemu przez przełożonego.
-
-**Art. 335.** Zawieszając wykonanie kary wobec żołnierza, sąd może orzec także środki przewidziane w art. 323 § 2.
+**Art. 335.** Zawieszając wykonanie kary wobec nierza, orzec przewidziane wart. 323 2.
 
 **Art. 336.**
 
-§ 1. Sąd może odroczyć żołnierzowi służby zasadniczej wykonanie kary pozbawienia wolności nie przekraczającej 6 miesięcy do czasu ukończenia służby.
+§ 1. by zasadniczej wykonanie kary pozbawienia nie 6 do czasu Dziennik Ustaw Nr 88 - 2714 - Poz. 553 2. wykonanie odroczonej ka ry, skazany w okresie odroczenia narusza prawny lub zasady dyscypliny wojskowej. 3. po zapoznaniu z dowódcy jed nostki od kary pozbawienia nie 6 okres odroczenia co najmniej 6 a w tym okresie w wykonywaniu albo 4. od kary w 3, na wet gdy okres odroczenia krócej, przema za tym szczególnie powody. 5. Zwolnienie od kary w 31ub 4 za zatarcie skazania z mocy prawa; wobec ska zanego orzeczono lub karny, zatarcie skazania nie przed wykonaniem tej kary lub karnego. 6. Przepisy 1-5 stosuje odpowiednio do osoby do wojskowej.
 
-§ 2. Sąd może zarządzić wykonanie odroczonej kary, jeżeli skazany w okresie odroczenia rażąco narusza porządek prawny lub zasady dyscypliny wojskowej.
-
-§ 3. Sąd po zapoznaniu się z opinią dowódcy jednostki może zwolnić od kary pozbawienia wolności nie przekraczającej 6 miesięcy, jeżeli okres odroczenia trwał co najmniej 6 miesięcy, a żołnierz w tym okresie wyróżnił się w wykonywaniu obowiązków służbowych albo wykazał się odwagą.
-
-§ 4. Sąd może zwolnić od kary określonej w § 3, nawet gdy okres odroczenia trwał krócej, jeżeli przemawiają za tym szczególnie ważne powody.
-
-§ 5. Zwolnienie od kary w myśl § 3 lub 4 pociąga za sobą zatarcie skazania z mocy prawa; jeżeli wobec skazanego orzeczono grzywnę lub środek karny, zatarcie skazania nie może nastąpić przed wykonaniem tej kary lub środka karnego.
-
-§ 6. Przepisy § 1–5 stosuje się odpowiednio do osoby powołanej do służby wojskowej.
-
-**Art. 337.** Wobec żołnierza służby zasadniczej, który został skazany, za przestępstwo określone w części wojskowej popełnione w czasie tej służby, na grzywnę, karę ograniczenia wolności albo pozbawienia wolności nie przekraczającą roku, sąd może zarządzić zatarcie skazania po przeniesieniu go do rezerwy, jeżeli kara lub orzeczony środek karny zostały wykonane.
-
-#### Rozdział XXXIX Przestępstwa przeciwko obowiązkowi pełnienia służby wojskowej
+**Art. 337.** Wobec zasadniczej, który skazany, za w wojskowej w czasie tej na ograniczenia albo pozbawienia nie roku, zatarcie skazania po przeniesieniu go do rezerwy, kara lub orzeczony karny wykonane. XXXIX przeciwko wojskowej
 
 **Art. 338.**
 
-§ 1. Żołnierz, który co najmniej dwukrotnie w okresie nie dłuższym niż 3 miesiące samowolnie opuszcza swoją jednostkę lub wyznaczone miejsce przebywania albo samowolnie poza nimi pozostaje w wymiarze nieprzekraczającym jednorazowo 48 godzin, podlega karze ograniczenia wolności.
-
-§ 2. Żołnierz, który samowolnie opuszcza swoją jednostkę lub wyznaczone miejsce przebywania albo samowolnie poza nimi pozostaje przez okres powyżej 48 godzin, nie dłużej jednak niż przez okres 7 dni, podlega karze ograniczenia wolności, karze aresztu wojskowego do roku albo pozbawienia wolności do roku.
-
-§ 3. Żołnierz, który samowolnie opuszcza swoją jednostkę lub wyznaczone miejsce przebywania albo samowolnie poza nimi pozostaje przez okres powyżej 7 dni, podlega karze aresztu wojskowego albo pozbawienia wolności do lat 3.
-
-§ 4. Ściganie przestępstwa określonego w § 1 i 2 następuje na wniosek dowódcy jednostki wojskowej.
+§ 1. Żołnierz, który samowolnie opuszcza lub wyznaczone miejsce przebywania albo samowolnie poza nimi pozostaje, podlega karze aresztu wojskowego albo pozbawie nia do lat 3. 2. sprawcy czynu w 1 nie 14 dni, sprawca podlega karze ograniczenia aresztu woj skowego do roku albo pozbawienia do ro ku. 3. Ściganie przestępstwa określonego w 2 na na wniosek dowódcy jednostki. 4. Prz,episów 1 i 2 nie stosuje do zawodowej, okresowej oraz nadterminowej za sadniczej wojskowej, a do rezerwy oficerów, i podoficerów starszych.
 
 **Art. 339.**
 
-§ 1. Żołnierz, który w celu trwałego uchylenia się od służby wojskowej opuszcza swoją jednostkę lub wyznaczone miejsce przebywania lub w takim celu poza nimi pozostaje, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
+§ 1. Żołnierz, który w celu trwałego uchy lenia od wojskowej opuszcza jednost lub wyznaczone miejsce przebywania lub w takim celu poza nimi pozostaje, podlega karze pozbawienia od 3 do lat 5. 2. sprawca dopuszcza dezercji wspólnie z innymi lub podlega karze pozbawienia od 6 do lat 8. 3. Żołnierz, który w czasie dezercji ucieka za gra albo za uchyla od powro tu do kraju, podlega karze pozbawienia od roku do lat 10. 4. Żołnierz, który czyni przygotowania do prze w 1-3, podlega karze aresztu wojskowego albo pozbawie nia do lat 2.
 
-§ 2. Jeżeli sprawca dopuszcza się dezercji wspólnie z innymi żołnierzami lub zabierając broń, podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
-
-§ 3. Żołnierz, który w czasie dezercji ucieka za granicę albo przebywając za granicą uchyla się od powrotu do kraju, podlega karze pozbawienia wolności od roku do lat 10.
-
-§ 4. Żołnierz, który czyni przygotowania do przestępstwa określonego w § 1–3, podlega karze aresztu wojskowego albo pozbawienia wolności do lat 2.
-
-**Art. 340.** Jeżeli sprawca przestępstwa określonego w art. 339 dobrowolnie powrócił, a nieobecność jego trwała nie dłużej niż 14 dni, sąd może zastosować nadzwyczajne złagodzenie kary.
+**Art. 340.** Jeżeli sprawca wart. 339 dobrowolnie a jego nie 14 dni, nad zwyczajne kary.
 
 **Art. 341.**
 
-§ 1. Żołnierz, który odmawia pełnienia służby wojskowej albo wykonywania obowiązku wynikającego z tej służby, podlega karze aresztu wojskowego albo pozbawienia wolności do lat 3.
-
-§ 2. Tej samej karze podlega żołnierz innej służby niż zasadnicza, który uporczywie nie wykonuje obowiązku z niej wynikającego.
-
-§ 3. Ściganie przestępstwa określonego w § 2 następuje na wniosek dowódcy jednostki.
+§ 1. Żołnierz, który odmawia pełnienia wojskowej albo wykonywania wyni z tej podlega karze aresztu wojskowego albo pozbawie nia do lat 3. 2. Tej samej karze podlega innej zasadnicza, który uporczywie nie wykonuje obo z niej 3. Ściganie przestępstwa określonego w 2 na na wniosek dowódcy jednostki.
 
 **Art. 342.**
 
-§ 1. Żołnierz, który w celu zupełnego albo częściowego uchylenia się od służby wojskowej albo od wykonania obowiązku wynikającego z tej służby:
+§ 1. Żołnierz, który w celu zupełnego albo uchylenia od wojskowej albo od wykonania z tej
 
-- **1)** powoduje u siebie lub dopuszcza, by kto inny spowodował u niego skutek określony w art. 156 § 1 lub art. 157 § 1,
-- **2)** używa podstępu dla wprowadzenia w błąd organu wojskowego, podlega karze aresztu wojskowego albo pozbawienia wolności do lat 3.
-
-§ 2. W wypadku mniejszej wagi, sprawca podlega karze ograniczenia wolności, aresztu wojskowego do roku albo pozbawienia wolności do roku.
-
-#### Rozdział XL Przestępstwa przeciwko zasadom dyscypliny wojskowej
+- **1)** powoduje u siebie lub dopuszcza, by kto inny spo u niego skutek wart. 156 1 lub art. 157 1,
+- **2)** dla wprowadzenia w organu wojskowego, podlega karze aresztu wojskowego albo pozbawie nia do lat 3. 2. W wypadku mniejszej wagi, sprawca podlega karze ograniczenia aresztu wojsko wego do roku albo pozbawienia do roku. XL przeciwko zasadom dyscypliny wojskowej
 
 **Art. 343.**
 
-§ 1. Żołnierz, który nie wykonuje lub odmawia wykonania rozkazu albo wykonuje rozkaz niezgodnie z jego treścią, podlega karze aresztu wojskowego albo pozbawienia wolności do lat 3.
-
-§ 2. Jeżeli sprawca czynu określonego w § 1 działa wspólnie z innymi żołnierzami lub w obecności zebranych żołnierzy albo następstwem czynu określonego w § 1 jest znaczna szkoda majątkowa lub inna poważna szkoda, sprawca podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
-
-§ 3. Żołnierz, który wchodzi w porozumienie z innymi żołnierzami w celu popełnienia czynu zabronionego określonego w § 1 lub 2, podlega karze ograniczenia wolności, aresztu wojskowego albo pozbawienia wolności do lat 2.
-
-§ 4. Ściganie przestępstwa określonego w § 1 lub 3 następuje na wniosek dowódcy jednostki.
+§ 1. Żołnierz, który nie wykonuje lub od mawia wykonania rozkazu albo wykonuje rozkaz nie zgodnie z jego podlega karze aresztu wojskowego albo pozbawie nia do lat 3. 2. sprawca czynu w 1 wspólnie z innymi lub w zebra nych albo czynu Dziennik Ustaw Nr 88 - 2715 - Poz. 553 w 1 jest znaczna szkoda lub inna na szkoda, sprawca podlega karze pozbawienia od 3 do lat 5. 3. Żołnierz, który wchodzi w porozumienie z inny mi w celu czynu zabronionego w 1 lub 2, podlega karze ograniczenia aresztu woj skowego albo pozbawienia do lat 2. 4. Ściganie przestępstwa określonego w 1 lub 3 na wniosek dowódcy jednostki.
 
 **Art. 344.**
 
-§ 1. Nie popełnia przestępstwa określonego w art. 343 żołnierz, który odmawia wykonania rozkazu polecającego popełnienie przestępstwa albo nie wykonuje go.
+1. Nie go wart. 343 który odmawia wykonania roz kazu albo nie wykonuje go.
 
-§ 2. W razie wykonania rozkazu, o którym mowa w § 1, niezgodnie z jego treścią w celu istotnego zmniejszenia szkodliwości czynu, sąd może zastosować nadzwyczajne złagodzenie kary lub odstąpić od jej wymierzenia.
+2. W razie wykonania rozkazu, o którym mowa w 1, niezgodnie z jego w celu istotnego zmniejszenia czynu, zastoso nadzwyczajne kary lub od jej wymierzenia.
 
 **Art. 345.**
 
-§ 1. Żołnierz, który dopuszcza się czynnej napaści na przełożonego, podlega karze aresztu wojskowego albo pozbawienia wolności do lat 3.
-
-§ 2. Jeżeli sprawca dopuszcza się czynnej napaści w związku z pełnieniem przez przełożonego obowiązków służbowych albo wspólnie z innymi żołnierzami lub w obecności zebranych żołnierzy, podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
-
-§ 3. Jeżeli sprawca czynu określonego w § 1 lub 2 używa broni, noża lub innego podobnie niebezpiecznego przedmiotu, podlega karze pozbawienia wolności od roku do lat 10.
-
-§ 4. Karze przewidzianej w § 3 podlega sprawca czynu określonego w § 1 lub 2, jeżeli jego następstwem jest skutek określony w art. 156 lub 157 § 1.
+§ 1. Żołnierz, który dopuszcza się czynnej na podlega karze aresztu wojskowego albo pozbawie nia do lat 3. 2. sprawca dopuszcza czynnej w z przez ków albo wspólnie z innymi lub w zebranych podlega karze pozbawienia od 6 do lat 8. 3. sprawca czynu w 1 lub 2 broni, lub innego podobnie niebezpieczne go przedmiotu, podlega karze pozbawienia od roku do lat 10. 4. Karze przewidzianej w 3 podlega sprawca czynu w 11ub 2, jego jest skutek wart. 156 lub 157 1.
 
 **Art. 346.**
 
-§ 1. Żołnierz, który stosuje przemoc lub groźbę bezprawną w celu przeszkodzenia przełożonemu w czynności służbowej albo w celu zmuszenia przełożonego do przedsięwzięcia albo zaniechania czynności służbowej, podlega karze aresztu wojskowego albo pozbawienia wolności do lat 3.
-
-§ 2. Jeżeli sprawca działa wspólnie z innymi żołnierzami lub w obecności zebranych żołnierzy, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
+§ 1. Żołnierz, który stosuje przemoc lub w celu przeszkodzenia mu w albo w celu zmuszenia prze do albo zaniechania czynno podlega karze aresztu wojskowego albo pozbawie nia do lat 3. 2. sprawca wspólnie z innymi rzami lub w zebranych podlega karze pozbawienia od 3 do lat 5.
 
 **Art. 347.**
 
-§ 1. Żołnierz, który znieważa przełożonego, podlega karze ograniczenia wolności, aresztu wojskowego albo pozbawienia wolności do lat 2.
+§ 1. Żołnierz, który znieważa przełożone go, podlega karze ograniczenia aresztu woj skowego albo pozbawienia do lat 2. 2. Ściganie następuje na wniosek pokrzywdzone go lub dowódcy jednostki.
 
-§ 2. Ściganie następuje na wniosek pokrzywdzonego lub dowódcy jednostki.
+**Art. 348.** Przepisy art. 345-347 stosuje odpo wiednio do który dopuszcza czynu okre w tych przepisach nie jego w z przez niego
 
-**Art. 348.** Przepisy art. 345–347 stosuje się odpowiednio do żołnierza, który dopuszcza się czynu określonego w tych przepisach względem żołnierza niebędącego jego przełożonym w związku z pełnieniem przez niego obowiązków służbowych.
-
-**Art. 349.** Przepisy tego rozdziału stosuje się odpowiednio, jeżeli czyn zabroniony popełniono względem żołnierza państwa sprzymierzonego, a państwo to zapewnia wzajemność.
-
-#### Rozdział XLI Przestępstwa przeciwko zasadom postępowania z podwładnymi
+**Art. 349.** Przepisy tego stosuje odpo wiednio, czyn zabroniony sprzymierzonego, a to za pewnia XLI przeciwko zasadom z
 
 **Art. 350.**
 
-§ 1. Żołnierz, który poniża lub znieważa podwładnego, podlega karze ograniczenia wolności, aresztu wojskowego albo pozbawienia wolności do lat 2.
+§ 1. Żołnierz, który poniża lub znieważa podlega karze ograniczenia aresztu woj skowego albo pozbawienia do lat 2. 2. Ściganie następuje na wniosek pokrzywdzone go lub dowódcy jednostki.
 
-§ 2. Ściganie następuje na wniosek pokrzywdzonego lub dowódcy jednostki.
-
-**Art. 351.** Żołnierz, który uderza podwładnego lub w inny sposób narusza jego nietykalność cielesną, podlega karze aresztu wojskowego albo pozbawienia wolności do lat 2.
+**Art. 351.** Żołnierz, który uderza podwładnego lub w inny sposób narusza jego podlega karze aresztu wojskowego albo pozbawie nia do lat 2.
 
 **Art. 352.**
 
-§ 1. Żołnierz, który znęca się fizycznie lub psychicznie nad podwładnym, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
+§ 1. Żołnierz, który znęca się fizycznie lub psychicznie nad podlega karze pozbawienia od 3 do lat 5. 2. czyn w 1 jest ze stosowaniem szczególnego sprawca podlega karze pozbawienia od roku do lat 10. 3. czynu w 1 lub 2 jest pokrzywdzonego na cie, sprawca podlega karze pozbawienia od lat 2 do 12.
 
-§ 2. Jeżeli czyn określony w § 1 połączony jest ze stosowaniem szczególnego okrucieństwa, sprawca podlega karze pozbawienia wolności od roku do lat 10.
-
-§ 3. Jeżeli następstwem czynu określonego w § 1 lub 2 jest targnięcie się pokrzywdzonego na własne życie, sprawca podlega karze pozbawienia wolności od lat 2 do 15.
-
-**Art. 353.** Przepisy art. 350–352 stosuje się odpowiednio do żołnierza, który dopuszcza się czynu określonego w tych przepisach względem żołnierza młodszego stopniem albo równego stopniem o krótszym okresie pełnienia służby wojskowej.
-
-#### Rozdział XLII Przestępstwa przeciwko zasadom obchodzenia się z uzbrojeniem i uzbrojonym sprzętem wojskowym
+**Art. 353.** Przepisy art. 350-352 stosuje odpo wiednio do który dopuszcza czynu okre w tych przepisach szego stopniem albo równego stopniem o krótszym okresie wojskowej. XLII przeciwko zasadom obchodzenia z uzbrojeniem i uzbrojonym wojskowym
 
 **Art. 354.**
 
-§ 1. Żołnierz, który nieostrożnie obchodzi się z bronią wojskową, amunicją, materiałem wybuchowym lub innym środkiem walki albo ich nieostrożnie używa i przez to nieumyślnie powoduje naruszenie czynności narządu ciała lub rozstrój zdrowia innej osoby, podlega karze aresztu wojskowego albo pozbawienia wolności do lat 3.
-
-§ 2. Jeżeli następstwem czynu określonego w § 1 jest śmierć innej osoby lub ciężki uszczerbek na jej zdrowiu, sprawca podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
+§ 1. Żołnierz, który nieostrożnie obchodzi się z wybuchowym lub innym walki albo ich i przez to powoduje naruszenie lub rozstrój zdrowia innej osoby, podlega karze aresztu wojskowego albo pozbawie nia do lat 3. Dziennik Ustaw Nr 88 - 2716 - Poz. 553 2. czynu w 1 jest innej osoby lub uszczerbek na jej zdrowiu, sprawca podlega karze pozbawienia od 6 do lat 8.
 
 **Art. 355.**
 
-§ 1. Żołnierz, który prowadząc uzbrojony pojazd mechaniczny, narusza chociażby nieumyślnie zasady bezpieczeństwa w ruchu lądowym, wodnym lub powietrznym i powoduje nieumyślnie wypadek, w którym inna osoba odniosła obrażenia ciała określone w art. 157 § 1 lub wyrządzona została znaczna szkoda w mieniu, podlega karze aresztu wojskowego albo pozbawienia wolności do lat 3.
-
-§ 2. Jeżeli następstwem wypadku określonego w § 1 jest śmierć innej osoby lub ciężki uszczerbek na jej zdrowiu, sprawca podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
-
-§ 3. Przepisy art. 42 i 178 stosuje się odpowiednio.
-
-#### Rozdział XLIII Przestępstwa przeciwko zasadom pełnienia służby
+§ 1. Żołnierz, który prowadząc uzbrojony pojazd mechaniczny, narusza zasady w ruchu wodnym lub powietrznym i powoduje wypadek, w którym inna osoba ne wart. 157 1 lub znaczna szko da w mieniu, podlega karze aresztu wojskowego albo pozbawie nia do lat 3. 2. wypadku w 1 jest innej osoby lub uszczerbek na jej zdrowiu, sprawca podlega karze pozbawienia od 6 do lat 8. 3. Przepisy art. 42 i 178 stosuje odpowied nio. XLIII przeciwko zasadom
 
 **Art. 356.**
 
-§ 1. Żołnierz, który, po wyznaczeniu go do służby lub będąc w służbie, narusza obowiązek wynikający z przepisu lub zarządzenia regulującego tok tej służby, przez co stwarza bezpośrednie niebezpieczeństwo powstania szkody, której wyznaczona służba miała zapobiec, podlega karze ograniczenia wolności, aresztu wojskowego albo pozbawienia wolności do lat 3.
-
-§ 2. Jeżeli następstwem czynu jest szkoda, o której mowa w § 1, sprawca podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
-
-§ 3. Ściganie przestępstwa określonego w § 1 następuje na wniosek dowódcy jednostki.
+§ 1. Żołnierz, który, po wyznaczeniu go do lub w narusza wyni z przepisu lub tok tej przez co stwarza stwo powstania szkody, której wyznaczona mia zapobiec, podlega karze ograniczenia aresztu woj skowego albo pozbawienia do lat 3. 2. czynu jest szkoda, o której mowa w 1, sprawca podlega karze pozbawienia od 3 cy do lat 5. 3. Ściganie przestępstwa określonego w 1 na na wniosek dowódcy jednostki.
 
 **Art. 357.**
 
-§ 1. Żołnierz, który, po wyznaczeniu do służby lub będąc w służbie, wprawia się w stan nietrzeźwości lub odurzenia innym środkiem, podlega karze ograniczenia wolności, aresztu wojskowego albo pozbawienia wolności do lat 2.
-
-§ 2. Ściganie następuje na wniosek dowódcy jednostki.
-
-#### Rozdział XLIV Przestępstwa przeciwko mieniu wojskowemu
+§ 1. Żołnierz, który, po wyznaczeniu do lub w wprawia w stan nie lub odurzenia innym podlega karze ograniczenia aresztu woj skowego albo pozbawienia do lat 2. 2. Ściganie następuje na wniosek dowódcy jed nostki. XLIV przeciwko mieniu wojskowemu
 
 **Art. 358.**
 
-§ 1. Żołnierz, który samowolnie dysponuje bronią, amunicją, materiałem wybuchowym lub innym środkiem walki, podlega karze aresztu wojskowego albo pozbawienia wolności do lat 3.
+§ 1. Żołnierz, który samowolnie dysponu je wybuchowym lub in nym walki, podlega karze aresztu wojskowego albo pozbawie nia do lat 3. 2. Żołnierz, który samowolnie zabiera broń, amuwybuchowy lub inny walki, podlega karze pozbawienia od roku do lat 10.
 
-§ 2. Żołnierz, który samowolnie zabiera broń, amunicję, materiał wybuchowy lub inny środek walki, podlega karze pozbawienia wolności od roku do lat 10.
-
-**Art. 359.** Żołnierz, który, nie dopełniając obowiązku lub przekraczając uprawnienia w zakresie ochrony lub nadzoru nad bronią, amunicją, materiałem wybuchowym lub innym środkiem walki, powoduje choćby nieumyślnie ich utratę, podlega karze aresztu wojskowego albo pozbawienia wolności od 3 miesięcy do lat 5.
+**Art. 359.** Żołnierz, który, nie dopełniając obowiązk.u lub uprawnienia w zakresie ochrony lub nadzoru nad wybucho wym lub innym walki, powoduje nie ich podlega karze aresztu wojskowego albo pozbawie nia od 3 do lat 5.
 
 **Art. 360.**
 
-§ 1. Żołnierz, który broń, amunicję, materiał wybuchowy lub inny środek walki niszczy, uszkadza lub czyni niezdatnym do użytku, podlega grzywnie, karze ograniczenia wolności, aresztu wojskowego albo pozbawienia wolności do lat 2.
-
-§ 2. Jeżeli sprawca czynu określonego w § 1 powoduje przez to znaczną szkodę w mieniu, podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
+§ 1. Żołnierz, który broń, amunicję, mate wybuchowy lub inny walki niszczy, uszka dza lub czyni niezdatnym do podlega grzywnie, karze ograniczenia aresztu wojskowego albo pozbawienia do lat 2. 2. sprawca czynu w 1 powoduje przez to w mieniu, podlega karze pozbawienia od 6 do lat 8.
 
 **Art. 361.**
 
-§ 1. Żołnierz, który samowolnie używa wojskowego statku powietrznego lub wodnego dla celu niemającego związku ze służbą, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
-
-§ 2. W wypadku mniejszej wagi, sprawca podlega grzywnie, karze ograniczenia wolności, aresztu wojskowego albo pozbawienia wolności do roku.
+§ 1. Żołnierz, który samowolnie używa wojskowego statku powietrznego lub wodnego dla ce lu nie ze podlega karze pozbawienia od 3 do lat 5. 2. W wypadku mniejszej wagi, sprawca podlega grzywnie, karze ograniczenia aresz tu wojskowego albo pozbawienia do roku.
 
 **Art. 362.**
 
-§ 1. Żołnierz, który samowolnie używa wojskowego pojazdu mechanicznego z uszczerbkiem dla interesów służby lub w celu osiągnięcia korzyści majątkowej, podlega grzywnie, karze ograniczenia wolności, aresztu wojskowego albo pozbawienia wolności do lat 2.
-
-§ 2. W wypadku mniejszej wagi, sprawca podlega grzywnie albo karze ograniczenia wolności.
+§ 1. Żołnierz, który samowolnie używa wojskowego pojazdu mechanicznego z uszczerbkiem dla interesów lub w celu podlega grzywnie, karze ograniczenia aresztu wojskowego albo pozbawienia do lat 2. 2. W wypadku mniejszej wagi, sprawca podlega grzywnie albo karze ograniczenia wolno
 
 **Art. 363.**
 
-§ 1. Żołnierz, który samowolnie rozporządza przedmiotem swojego wyposażenia, w szczególności przedmiot taki zbywa, zastawia lub go użycza innej osobie, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
-
-§ 2. Ściganie następuje na wniosek dowódcy jednostki.
+§ 1. Żołnierz, który samowolnie rozporzą dza przedmiotem swojego w szczegól przedmiot taki zbywa, zastawia lub go in nej osobie, podlega grzywnie, karze ograniczenia al bo pozbawienia do lat 2. 2. Ściganie następuje na wniosek dowódcy jed nostki. Prezydent Rzeczypospolitej Polskiej: A.
 
 

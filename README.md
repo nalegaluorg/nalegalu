@@ -42,6 +42,10 @@ w świetle najnowszego orzecznictwa SN? Podaj sygnatury z bazy.
 
 Claude sam otworzy Kodeks cywilny, znajdzie art. 415, sprawdzi orzecznictwo i przygotuje analizę z konkretnymi sygnaturami.
 
+## Aktualizacja danych
+
+Dane aktualizują się automatycznie. Najnowszą wersję można pobrać jako [ZIP z zakładki Releases](https://github.com/nalegaluorg/nalegalu-public/releases).
+
 ## Dokumentacja
 
 | Przewodnik | Opis |
@@ -66,12 +70,12 @@ Claude sam otworzy Kodeks cywilny, znajdzie art. 415, sprawdzi orzecznictwo i pr
 | [Prawo konstytucyjne](prawo-konstytucyjne/README.md) | 1 | [Pełna lista aktów →](prawo-konstytucyjne/README.md) (1 z orzecznictwem) |
 | [Prawo morskie](prawo-morskie/README.md) | 6 | [Pełna lista aktów →](prawo-morskie/README.md) (2 z orzecznictwem) |
 | [Prawo ochrony środowiska](prawo-ochrony-srodowiska/README.md) | 49 | [Pełna lista aktów →](prawo-ochrony-srodowiska/README.md) (9 z orzecznictwem) |
-| [Prawo podatkowe](prawo-podatkowe/README.md) | 158 | [Pełna lista aktów →](prawo-podatkowe/README.md) (29 z orzecznictwem) |
+| [Prawo podatkowe](prawo-podatkowe/README.md) | 160 | [Pełna lista aktów →](prawo-podatkowe/README.md) (29 z orzecznictwem) |
 | [Prawo pracy](prawo-pracy/README.md) | 49 | [Pełna lista aktów →](prawo-pracy/README.md) (20 z orzecznictwem) |
 | [Prawo telekomunikacyjne](prawo-telekomunikacyjne/README.md) | 6 | [Pełna lista aktów →](prawo-telekomunikacyjne/README.md) (2 z orzecznictwem) |
 | [Prawo upadłościowe](prawo-upadlosciowe/README.md) | 13 | [Pełna lista aktów →](prawo-upadlosciowe/README.md) (4 z orzecznictwem) |
 | [Prawo zamówień publicznych](prawo-zamowien/README.md) | 19 | [Pełna lista aktów →](prawo-zamowien/README.md) (7 z orzecznictwem) |
-| [Inne](inne/README.md) | 5058 | [Pełna lista aktów →](inne/README.md) (1046 z orzecznictwem) |
+| [Inne](inne/README.md) | 5082 | [Pełna lista aktów →](inne/README.md) (1046 z orzecznictwem) |
 
 ## Zakres i ograniczenia
 
@@ -81,4 +85,4 @@ Repozytorium zawiera obowiązujące akty prawne z Dziennika Ustaw (teksty jednol
 
 Treść aktów prawnych jest wyłączona spod ochrony prawa autorskiego na mocy art. 4 ustawy o prawie autorskim i prawach pokrewnych. Struktura i metadane: [CC0 1.0 — Public Domain](LICENSE).
 
-*5718 aktów • wygenerowano automatycznie przez [nalegalu](https://github.com/nalegaluorg/nalegalu) • źródło danych: [ISAP](https://isap.sejm.gov.pl) + [SAOS](https://www.saos.org.pl) • aktualizacja: 2026-05-12*
+*5744 aktów • wygenerowano automatycznie przez [nalegalu](https://github.com/nalegaluorg/nalegalu) • źródło danych: [ISAP](https://isap.sejm.gov.pl) + [SAOS](https://www.saos.org.pl) • aktualizacja: 2026-05-13*

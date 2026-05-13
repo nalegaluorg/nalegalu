@@ -24,16 +24,16 @@ domain: null
 | Ostatnia zmiana | 2024-06-12 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000850) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/850/text.pdf) |
 
-USTAWA dnia 9 maja 2024 r.
+USTAWA z dnia 9 maja 2024 r.
 zmianie ustawy Krajowej Administracji Skarbowej oraz niektórych innych ustaw
 
-**Art. 1.** W ustawie dnia 16 listopada 2016 r. Krajowej Administracji Skarbowej (Dz. U. 2023 r. poz. 615, późn. zm. ) wprowadza następujące zmiany:
+**Art. 1.** W ustawie z dnia 16 listopada 2016 r. Krajowej Administracji Skarbowej (Dz. U. z 2023 r. poz. 615, z późn. zm. ) wprowadza następujące zmiany:
 
-**Art. 2.** W ustawie dnia 10 września 1999 r. Kodeks karny skarbowy (Dz. U. 2024 r. poz. 628) wprowadza następujące zmiany:
+**Art. 2.** W ustawie z dnia 10 września 1999 r. Kodeks karny skarbowy (Dz. U. z 2024 r. poz. 628) wprowadza następujące zmiany:
 
-**Art. 3.** W ustawie dnia 27 lipca 2002 r. Prawo dewizowe (Dz. U. 2022 r. poz. 309) wprowadza następujące zmiany:
+**Art. 3.** W ustawie z dnia 27 lipca 2002 r. Prawo dewizowe (Dz. U. z 2022 r. poz. 309) wprowadza następujące zmiany:
 
-**Art. 4.** W ustawie dnia 1 marca 2018 r. przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. 2023 r. poz. 1124, 1285, 1723 i 1843) uchyla 85.
+**Art. 4.** W ustawie z dnia 1 marca 2018 r. przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2023 r. poz. 1124, 1285, 1723 i 1843) uchyla 85.
 
-**Art. 5.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, wyjątkiem 3 pkt 2, który wchodzi życie po upływie 3 miesięcy od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 5.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem 3 pkt 2, który wchodzi życie po upływie 3 miesięcy od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
 

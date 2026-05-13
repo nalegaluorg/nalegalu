@@ -10,9 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy Prawo pocztowe
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 17 kwietnia 2026 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 23 kwietnia 2026 r.
 
 | Pole | Wartość |
 |---|---|
@@ -26,6 +24,8 @@ domain: null
 | Ostatnia zmiana | 2026-04-24 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000558) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/558/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 17 kwietnia 2026 r.
+w sprawie ogłoszenia jednolitego tekstu ustawy Prawo pocztowe
 1. Na podstawie art. 16 ust. 1 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 23 listopada 2012 r. Prawo pocztowe (Dz. U. z 2025 r. poz. 366), z uwzględnieniem stanu prawnego na dzień 14 kwietnia 2026 r. oraz zmian wprowadzonych:
 1) ustawą z dnia 9 maja 2025 r. o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 820);
 2) ustawą z dnia 12 września 2025 r. o zmianie ustawy Prawo pocztowe (Dz. U. poz. 1456).

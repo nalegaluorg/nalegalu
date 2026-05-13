@@ -21,7 +21,7 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2006-12-06 |
 | Data wydania | 2006-12-11 |
-| Ostatnia zmiana | 2026-04-14 |
+| Ostatnia zmiana | 2026-04-29 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062271658) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/1658/text.pdf) |
 
 #### Rozdział 1 8) rozwoju zachowań prospołecznych wspólnot lokalnych oraz budowy iumacniania struktur społePrzepisy ogólne czeństwa obywatelskiego;

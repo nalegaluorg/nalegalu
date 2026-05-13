@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# Poz.
+# Marszałek Sejmu: E. Witek Ustawa określa instytucje właściwe wykonywania zadań wynikających przepisów prawa Unii Europejskiej dopuszczających dobrowolny udział organizacji systemie ekozarządzania audytu (EMAS).
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ 16 września sprawie ogłoszenia jednolitego tekstu ustawy krajowym systemie ekozarządzania audytu (EMAS) Na podstawie 16 1 zdanie pierwsze ustawy 20 lipca 2000 ogłaszaniu aktów normatywnych niektórych innych aktów prawnych (Dz. U. 2019 poz. 1461) ogłasza załączniku niniejszego obwieszczenia jednolity tekst ustawy 15 lipca 2011 krajowym systemie ekozarządzania audytu (EMAS) (Dz. U. 2020 poz. 634), uwzględnieniem zmiany wprowadzonej ustawą 9 czerwca zmianie ustawy Prawo ochrony środowiska oraz niektórych innych ustaw (Dz. U. poz. 1260) oraz zmian wynikających przepisów ogłoszonych przed dniem 16 września Podany załączniku niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje 9 ustawy 9 czerwca zmianie ustawy Prawo ochrony środowiska oraz niektórych innych ustaw (Dz. U. poz. 1260), który stanowi: „Art. 9. Ustawa wchodzi życie po upływie 14 dni od ogłoszenia, wyjątkiem 1 pkt 3, 4 5, 4 oraz 6, które wchodzą życie dniem następującym po dniu ogłoszenia.”.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002013) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2013/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ 16 września sprawie ogłoszenia jednolitego tekstu ustawy krajowym systemie ekozarządzania audytu (EMAS) Na podstawie 16 1 zdanie pierwsze ustawy 20 lipca 2000 ogłaszaniu aktów normatywnych niektórych innych aktów prawnych (Dz. U. 2019 poz. 1461) ogłasza załączniku niniejszego obwieszczenia jednolity tekst ustawy 15 lipca 2011 krajowym systemie ekozarządzania audytu (EMAS) (Dz. U. 2020 poz. 634), uwzględnieniem zmiany wprowadzonej ustawą 9 czerwca zmianie ustawy Prawo ochrony środowiska oraz niektórych innych ustaw (Dz. U. poz. 1260) oraz zmian wynikających przepisów ogłoszonych przed dniem 16 września Podany załączniku niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje 9 ustawy 9 czerwca zmianie ustawy Prawo ochrony środowiska oraz niektórych innych ustaw (Dz. U. poz. 1260), który stanowi: „Art. 9. Ustawa wchodzi życie po upływie 14 dni od ogłoszenia, wyjątkiem 1 pkt 3, 4 5, 4 oraz 6, które wchodzą życie dniem następującym po dniu ogłoszenia.”.
-Marszałek Sejmu: E. Witek Ustawa określa instytucje właściwe wykonywania zadań wynikających przepisów prawa Unii Europejskiej dopuszczających dobrowolny udział organizacji systemie ekozarządzania audytu (EMAS).
 Krajowy system ekozarządzania audytu (EMAS), zwany dalej „systemem”, tworzą: minister właściwy spraw klimatu;
 Środowiska;
 3) Polskie Centrum Akredytacji.

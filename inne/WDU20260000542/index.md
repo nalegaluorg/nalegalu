@@ -10,9 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# o zmianie ustawy o wykonywaniu mandatu posła i senatora
-
-*USTAWA z dnia 13 lutego 2026 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 21 kwietnia 2026 r.
 
 | Pole | Wartość |
 |---|---|
@@ -23,9 +21,12 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2026-02-13 |
 | Data wydania | 2026-04-21 |
-| Wejście w życie | 2026-05-06 |
 | Ostatnia zmiana | 2026-04-23 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000542) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/542/text.pdf) |
+
+Poz. 542
+USTAWA z dnia 13 lutego 2026 r.
+o zmianie ustawy o wykonywaniu mandatu posła i senatora
 
 **Art. 1.** W ustawie z dnia 9 maja 1996 r. o wykonywaniu mandatu posła i senatora (Dz. U. z 2024 r. poz. 907) wprowadza się następujące zmiany:
 

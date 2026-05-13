@@ -21,7 +21,7 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2004-03-11 |
 | Data wydania | 2004-04-05 |
-| Ostatnia zmiana | 2026-04-13 |
+| Ostatnia zmiana | 2026-05-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040540535) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/535/text.pdf) |
 
 DZIAĘ I b) następujące terytoria poszczególnych państw członkowskich traktuje się jako wyłączone z tePrzepisy ogólne rytorium Wspólnoty Europejskiej: wyspę Helgoland, terytorium Buesingen

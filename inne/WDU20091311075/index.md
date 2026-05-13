@@ -30,32 +30,32 @@ domain: null
 4) wart.24 ust.1 i2 otrzymują brzmienie: Ń1. Do ksiąg wieczystych dla spółdzielczych własnościowych praw do lokalu stosuje się odpowiednio przepisy księgach wieczystych dla nieruchomości.
 2. W razie przekształcenia spółdzielczego własnościowego prawa do lokalu wprawo własności nieruchomości, księga wieczysta prowadzona dla spółdzielczego własnościowego prawa do lokalu staje się księgą wieczystą dla nieruchomości, a wpisana tej księdze hipoteka naspółdzielczym własnościowym prawie do lokalu obciąża nieruchomość.”;
 5) wart.25 ust.2 otrzymuje brzmienie: Ń2. Księga wieczysta dla spółdzielczego własnościowego prawa do lokalu zawiera cztery dziarej przysługuje spółdzielcze własnościowe prawo do lokalu,
-3) trzeci jest przeznaczony na wpisy ograniczeń rozporządzaniu prawem wpisy innych praw roszczeń, wyjątkiem roszczeń dotyczących hipotek,
+3) trzeci jest przeznaczony na wpisy ograniczeń rozporządzaniu prawem oraz wpisy innych praw roszczeń, wyjątkiem roszczeń dotyczących hipotek,
 4) czwarty jest przeznaczony na wpisy dotyczące hipotek.”;
-6) wart.36 ust.1 otrzymuje brzmienie: Ń1. Sądy, organy administracji rządowej jednostek samorządu terytorialnego notariusze sporządzający akty poświadczenia dziedziczeły, zktórych:
-1) pierwszy obejmuje oznaczenie lokalu lub domu jednorodzinnego oznaczenie nieruchomości, zktórą jest związany, nia zawiadamiają sąd właściwy do prowadzenia księgi wieczystej każdej zmianie właściciela nieruchomości, dla której założona jest księga wieczysta.”;
+6) wart.36 ust.1 otrzymuje brzmienie: Ń1. Sądy, organy administracji rządowej jednostek samorządu terytorialnego oraz notariusze sporządzający akty poświadczenia dziedziczeły, zktórych:
+1) pierwszy obejmuje oznaczenie lokalu lub domu jednorodzinnego oraz oznaczenie nieruchomości, zktórą jest związany, nia zawiadamiają sąd właściwy do prowadzenia księgi wieczystej każdej zmianie właściciela nieruchomości, dla której założona jest księga wieczysta.”;
 7) art.65 otrzymuje brzmienie: ŃArt. 65. 1. Wcelu zabezpieczenia oznaczonej wierzytelności wynikającej określonego stosunku prawnego można nieruchomość obciążyć prawem, na mocy którego wierzyciel może dochodzić zaspokojenia nieruchomości bez względu na to, czyją stała się własnością, izpierwszeństwem przed wierzycielami osobistymi właściciela nieruchomości (hipoteka).
 2. Przedmiotem hipoteki może być także:
 1) użytkowanie wieczyste wraz budynkami urządzeniami na użytkowanym gruncie stanowiącymi własność użytkownika wieczystego,
 2) spółdzielcze własnościowe prawo do lokalu,
 3) wierzytelność zabezpieczona hipoteką.
-3. Hipoteką może być obciążona część ułamkowa nieruchomości, jeżeli stanowi udział współwłaściciela, przysługujący współuprawnionemu udział we wspólności praw wymienionych wust.2 pkt1 i2.
+3. Hipoteką może być obciążona część ułamkowa nieruchomości, jeżeli stanowi udział współwłaściciela, oraz przysługujący współuprawnionemu udział we wspólności praw wymienionych wust.2 pkt1 i2.
 4. Do hipotek określonych ust. 2 3 stosuje się odpowiednio przepisy ohipotece na nieruchomości.”;
 8) art.68 otrzymuje brzmienie: ——————— ŃArt. 68. 1. Hipoteka zabezpiecza wierzytelność ŃArt. 68 1. Hipoteka umowna może także zabezpieczać kilka wierzytelności zróżnych stosunków prawnych przysługujących temu samemu wierzycielowi.
-2. W umowie ustanawiającej hipotekę należy określić stosunki prawne wynikające znich wierzytelności objęte zabezpieczeniem.
+2. W umowie ustanawiającej hipotekę należy określić stosunki prawne oraz wynikające znich wierzytelności objęte zabezpieczeniem.
 3. Wierzyciel hipoteczny może podzielić hipotekę. Oświadczenie podziale hipoteki należy złożyć właścicielowi nieruchomości. Podział hipoteki staje się skuteczny chwilą wpisu księdze wieczystej.
 Art. 68 2 1. W celu zabezpieczenia hipoteką kilku wierzytelności przysługujących różnym podmiotom, a służącym sfinansowaniu tego samego przedsięwzięcia, wierzyciele powołują administratora hipoteki. Administratorem może być jeden wierzycieli albo osoba trzecia.
 2. Umowa powołująca administratora hipoteki powinna zostać zawarta na piśmie pod rygorem nieważności.
-3. Administrator hipoteki zawiera umowę ustanowienie hipoteki wykonuje prawa obowiązki wierzyciela hipotecznego we własnym imieniu, lecz na rachunek wierzycieli, których wierzytelności są objęte zabezpieczeniem. W umowie ustanawiającej hipotekę należy określić zakres zabezpieczenia poszczególnych wierzytelności przedsięwzięcie, którego sfinansowaniu służą.
+3. Administrator hipoteki zawiera umowę ustanowienie hipoteki oraz wykonuje prawa obowiązki wierzyciela hipotecznego we własnym imieniu, lecz na rachunek wierzycieli, których wierzytelności są objęte zabezpieczeniem. W umowie ustanawiającej hipotekę należy określić zakres zabezpieczenia poszczególnych wierzytelności oraz przedsięwzięcie, którego sfinansowaniu służą.
 4. Do ustanowienia hipoteki na rzecz administratora hipoteki nie stosuje się art.95 ustawy zdnia 29 sierpnia 1997r.
 Prawo bankowe (Dz. U. 2002 Nr72, poz.665, zpóên. zm.
 dy wierzycieli, których wierzytelności są objęte zabezpieczeniem, może żądać podziału hipoteki. Przepisy zniesieniu współwłasności stosuje się odpowiednio.
 7. Przepis ust. 6 stosuje się również braku zgody wszystkich wierzycieli na zmianę administratora hipoteki.
 Art. 68 ).
 Można zastąpić zabezpieczoną wierzytelność inną wierzytelnością tego samego wierzyciela. Do zmiany zabezpieczonej wierzytelności stosuje się przepisy zmianie treści hipoteki. Zgoda osób, którym przysługują prawa pierwszeństwem równym lub niższym, nie jest potrzebna.
-Art. 68 4 1. Na zmianę waluty zabezpieczonej wierzytelności inne zmiany zabezpieczonej wierzytelności drodze czynności prawnej zwiększające zakres zaspokojenia nieruchomości obciążonej wymagana jest zgoda właściciela nieruchomości, jeżeli nie jest on dłużnikiem osobistym. Oświadczenie właściciela nieruchomości powinno być złożone którejkolwiek ze stron formie pisemnej pod rygorem nieważności.
+Art. 68 4 1. Na zmianę waluty zabezpieczonej wierzytelności oraz inne zmiany zabezpieczonej wierzytelności drodze czynności prawnej zwiększające zakres zaspokojenia nieruchomości obciążonej wymagana jest zgoda właściciela nieruchomości, jeżeli nie jest on dłużnikiem osobistym. Oświadczenie właściciela nieruchomości powinno być złożone którejkolwiek ze stron formie pisemnej pod rygorem nieważności.
 2. Zmiany zabezpieczonej wierzytelności, których mowa ust. 1, są bezskuteczne stosunku do właściciela nieruchomości, dopóki nie wyraził na nie zgody.”;
-10) art.69 otrzymuje brzmienie: ŃArt. 69. Hipoteka zabezpiecza mieszczące się sumie hipoteki roszczenia odsetki przyznane koszty postępowania, jak również inne roszczenia świadczenia uboczne, jeżeli zostały wymienione dokumencie stanowiącym podstawę wpisu hipoteki do księgi wieczystej.”;
+10) art.69 otrzymuje brzmienie: ŃArt. 69. Hipoteka zabezpiecza mieszczące się sumie hipoteki roszczenia odsetki oraz przyznane koszty postępowania, jak również inne roszczenia świadczenia uboczne, jeżeli zostały wymienione dokumencie stanowiącym podstawę wpisu hipoteki do księgi wieczystej.”;
 11) uchyla się art.70 iart.71;
 ——————— 12) wart.76:
 a) ust.1 otrzymuje brzmienie: Ń1. W razie podziału nieruchomości hipoteka obciążająca nieruchomość obciąża wszystkie nieruchomości utworzone przez podział (hipoteka łączna). Hipoteka na części ułamkowej nieruchomości obciąża wtym samym zakresie części ułamkowe wszystkich nieruwień umowy.”;
@@ -77,7 +77,7 @@ Art. 101 1 1. W razie wygaśnięcia hipoteki właścicielowi nieruchomości przy
 2. Jeżeli hipoteka wygasła tylko częściowo, właściciel może rozporządzać opróżnionym miejscem hipotecznym wtej części.
 Art. 101 2 Przepisy art. 101 stosuje się również, gdy opróżniło się miejsce wskutek przeniesienia jednej hipotek na miejsce opróżnione przez inną hipotekę.
 cześnie wykreśleniem hipoteki uprawnienie to zostanie wpisane do księgi wieczystej.
-2. Do wykreślenia wygasłej hipoteki do wpisu uprawnienia do rozporządzania opróżnionym miejscem hipotecznym potrzebne jest oświadczenie właściciela nieruchomości.
+2. Do wykreślenia wygasłej hipoteki oraz do wpisu uprawnienia do rozporządzania opróżnionym miejscem hipotecznym potrzebne jest oświadczenie właściciela nieruchomości.
 Art. 101 5 Uprawnienie do rozporządzania opróżnionym miejscem hipotecznym przysługuje każdoczesnemu właścicielowi nieruchomości.
 Art. 101 6 Uprawnienie do rozporządzania opróżnionym miejscem hipotecznym nie podlega zajęciu. Ustanowienie hipoteki przymusowej na opróżnionym miejscu nie jest dopuszczalne.
 Art. 101 7 Jeżeli nieruchomość stanowiąca przedmiot hipoteki łącznej zostanie zwolniona spod obciążenia, właściciel nieruchomości może rozporządzać opróżnionym miejscem hipotecznym do wysokości sumy hipoteki.

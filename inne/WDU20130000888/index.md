@@ -21,7 +21,7 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2013-06-13 |
 | Data wydania | 2013-08-06 |
-| Ostatnia zmiana | 2026-03-10 |
+| Ostatnia zmiana | 2026-05-12 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000888) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/888/text.pdf) |
 
 USTAWA z dnia 13 czerwca 2013 r.

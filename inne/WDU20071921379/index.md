@@ -21,7 +21,7 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2007-09-07 |
 | Data wydania | 2007-10-19 |
-| Ostatnia zmiana | 2026-04-16 |
+| Ostatnia zmiana | 2026-04-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071921379) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/1379/text.pdf) |
 
 #### Rozdział 7 Przepisy przejściowe, uchylające przepisy wejściu życie

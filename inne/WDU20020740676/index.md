@@ -21,7 +21,7 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2002-05-24 |
 | Data wydania | 2002-06-14 |
-| Ostatnia zmiana | 2026-04-10 |
+| Ostatnia zmiana | 2026-05-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20020740676) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/676/text.pdf) |
 
 Zmiany wprzepisach obowiązujących

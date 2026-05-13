@@ -28,5 +28,5 @@ domain: null
 
 **Art. 2.** W ustawie z dnia 26 paêdziernika 1995 r. oniektórych formach popierania budownictwa mieszkaniowego (Dz. U. z 2000 r. 98, poz. 1070, z póên. zm. ) art.30a otrzymuje brzmienie: ŃArt. 30a. 1. Towarzystwo może wynająć lokal mieszkalny powiatowi, gminie lub związkowi międzygminnemu wcelu:
 
-**Art. 3.** Do przedsięwzięć, na realizację których, Art. 6.Ustawa wchodzi wżycie zdniem 1 kwietnia zgodnie zart.9 ustawy zmienianej wart.1, został zło- 2009r. żony wniosek ofinansowe wsparcie przed dniem wejścia wżycie niniejszej ustawy, stosuje przepisy dotychczasowe, zzastrzeżeniem art.4. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński
+**Art. 3.** Do przedsięwzięć, na realizację których, Art. 6.Ustawa wchodzi wżycie zdniem kwietnia zgodnie zart.9 ustawy zmienianej wart.1, został zło- 2009r. żony wniosek ofinansowe wsparcie przed dniem wejścia wżycie niniejszej ustawy, stosuje przepisy dotychczasowe, zzastrzeżeniem art.4. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński
 

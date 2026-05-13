@@ -40,7 +40,7 @@ domain: null
 
 **Art. 5.**
 
-1. W przypadku podatników, których 4 pkt 1–4, podstawą opodatkowania jest nadwyżka sumy wartości aktywów podatnika, wynikająca zestawienia obrotów sald, ustalonego na ostatni dzień miesiąca na podstawie zapisów na kontach księgi głównej, zgodnie przepisami dnia 29 września 1994 rachunkowości (Dz. 2013 330, późn. zm. ) lub standardami rachunkowości stosowanymi przez podatnika na podstawie 2 3 tej ponad kwotę 4 mld zł.
+1. W przypadku podatników, których 4 pkt 1–4, podstawą opodatkowania jest nadwyżka sumy wartości aktywów podatnika, wynikająca zestawienia obrotów sald, ustalonego na ostatni dzień miesiąca na podstawie zapisów na kontach księgi głównej, zgodnie przepisami dnia 29 września 1994 rachunkowości (Dz. U. 2013 330, późn. zm. ) lub standardami rachunkowości stosowanymi przez podatnika na podstawie 2 3 tej ponad kwotę 4 mld zł.
 
 2. W przypadku podatników, których 4 pkt 5–8, podstawą opodatkowania jest nadwyżka sumy wartości aktywów podatnika, wynikająca zestawienia obrotów sald, ustalonego na ostatni dzień miesiąca na podstawie zapisów na kontach księgi głównej, zgodnie przepisami dnia 29 września 1994 rachunkowości lub standardami rachunkowości stosowanymi przez podatnika na podstawie 2 3 tej ponad kwotę 2 mld zł. Wartość tę oblicza się łącznie dla wszystkich podatników zależnych lub współzależnych pośrednio lub bezpośrednio od jednego podmiotu lub grupy podmiotów powiązanych ze sobą.
 
@@ -48,15 +48,15 @@ domain: null
 
 4. W przypadku podatników, których 4 pkt 1–3, podstawę opodatkowania obniża się wartość funduszy własnych, których 126 dnia 29 sierpnia 1997 Prawo bankowe, ustaloną na ostatni dzień miesiąca.
 
-5. W przypadku podatników, których 4 pkt 1, będących bankami zrzeszającymi rozumieniu 2 pkt 2 dnia 7 grudnia 2000 funkcjonowaniu banków spółdzielczych, ich zrzeszaniu się bankach zrzeszających (Dz. 2170) podstawę opodatkowania obniża się wartość środków finansowych zgromadzonych na wszystkich rachunkach zrzeszonych banków spółdzielczych, prowadzonych przez podatnika.
+5. W przypadku podatników, których 4 pkt 1, będących bankami zrzeszającymi rozumieniu 2 pkt 2 dnia 7 grudnia 2000 funkcjonowaniu banków spółdzielczych, ich zrzeszaniu się bankach zrzeszających (Dz. U. 2170) podstawę opodatkowania obniża się wartość środków finansowych zgromadzonych na wszystkich rachunkach zrzeszonych banków spółdzielczych, prowadzonych przez podatnika.
 
 6. W przypadku podatników, których 4 pkt 4, podstawę opodatkowania obniża się wartość funduszy własnych, których 24 dnia 5 listopada 2009 spółdzielczych kasach oszczędnościowo-kredytowych, ustaloną na ostatni dzień miesiąca.
 
 7. W przypadku podatników, których 4 pkt 1–4, podstawę opodatkowania obniża się kwoty, które podatnik wykonując decyzję, której 138 1 pkt 2 lub 2a albo 138d 1 dnia 29 sierpnia 1997 Prawo bankowe, podwyższył okresie miesiąca, za który ustala się podstawę opodatkowania, fundusze własne.
 
-8. W przypadku podatników, których 4 pkt 1–3, podstawę opodatkowania obniża się wartość aktywów nabytych przez podatnika od Narodowego Banku Polskiego, a stanowiących zabezpieczenie kredytu refinansowego udzielonego przez Narodowy Bank Polski na podstawie 42 1 dnia 29 sierpnia 1997 Narodowym Banku Polskim (Dz. 2013 908, późn. zm. ).
+8. W przypadku podatników, których 4 pkt 1–3, podstawę opodatkowania obniża się wartość aktywów nabytych przez podatnika od Narodowego Banku Polskiego, a stanowiących zabezpieczenie kredytu refinansowego udzielonego przez Narodowy Bank Polski na podstawie 42 1 dnia 29 sierpnia 1997 Narodowym Banku Polskim (Dz. U. 2013 908, późn. zm. ).
 
-9. W przypadku podatników, których 4 pkt 1–4, podstawę opodatkowania obniża się wartość aktywów postaci skarbowych papierów wartościowych rozumieniu 95 1 dnia 27 sierpnia 2009 finansach publicznych (Dz. 2013 885, późn. zm. ).
+9. W przypadku podatników, których 4 pkt 1–4, podstawę opodatkowania obniża się wartość aktywów postaci skarbowych papierów wartościowych rozumieniu 95 1 dnia 27 sierpnia 2009 finansach publicznych (Dz. U. 2013 885, późn. zm. ).
 
 **Art. 8.**
 
@@ -85,13 +85,13 @@ domain: null
 
 1. Zwalnia się od podatników, stosunku do których Komisja Nadzoru Finansowego wydała decyzję:
 
-- **1)** sprawach, których 12 2 pkt 1 lit. v, x, y, pkt 3 lit. f, g, h oraz 2a pkt 6 7 dnia 21 lipca 2006 nadzorze nad rynkiem finansowym (Dz. 614, późn. zm. ),
+- **1)** sprawach, których 12 2 pkt 1 lit. v, x, y, pkt 3 lit. f, g, h oraz 2a pkt 6 7 dnia 21 lipca 2006 nadzorze nad rynkiem finansowym (Dz. U. 614, późn. zm. ),
 - **2)** zawieszeniu działalności spółdzielczej kasy oszczędnościowo-kredytowej, której 74k 1 lub 2 dnia 5 listopada 2009 spółdzielczych kasach oszczędnościowo-kredytowych do czasu wykonania tej decyzji.
 
 2. Zwalnia się od również podatników objętych:
 
 - **1)** programem postępowania naprawczego, którym 142 1–3 dnia 29 sierpnia 1997 Prawo bankowe;
-- **2)** programem postępowania naprawczego, którym 72a dnia 5 listopada 2009 spółdzielczych kasach oszczędnościowo-kredytowych; „70) podatku, którym ustawie dnia 15 stycznia 2016 od niektórych instytucji finansowych (Dz. 68).”.
+- **2)** programem postępowania naprawczego, którym 72a dnia 5 listopada 2009 spółdzielczych kasach oszczędnościowo-kredytowych; „70) podatku, którym ustawie dnia 15 stycznia 2016 od niektórych instytucji finansowych (Dz. U. 68).”.
 
 **Art. 13.** Pierwszym okresem rozliczeniowym, za który podatnicy dokonują obliczenia wpłaty oraz składają deklarację podatkową, której 8 1 pkt 1, jest luty 2016
 

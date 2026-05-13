@@ -10,9 +10,7 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# o gwarancjach wolności sumienia wyznania Sejm Rzeczypospolitej Polskiej: – wykonując postanowienia Konstytucji Rzeczypospolitej Polskiej o wolności sumienia wyznania, – nawiązując do godnej trwałego szacunku kontynuacji tradycji tolerancji wolności religijnej oraz potwierdzającej ją współpracy Polaków różnych wyznań światopoglądów w rozwoju pomyślności Ojczyzny, – uznając historyczny wkład kościołów innych związków wyznaniowych w rozwój kultury narodowej oraz krzewienie umacnianie podstawowych wartości moralnych, – kierując się zasadami zawartymi w Powszechnej Deklaracji Praw Człowieka, Międzynarodowym Pakcie Praw Obywatelskich Politycznych, Akcie Końcowym Konferencji Bezpieczeństwa Współpracy w Europie oraz Deklaracji Organizacji Narodów Zjednoczonych o wyeliminowaniu wszelkich form nietolerancji dyskryminacji z powodów religijnych lub przekonań, – umacniając warunki do czynnego równoprawnego uczestnictwa obywateli w życiu publicznym społecznym, bez względu na ich stosunek do religii, stanowi, co następuje: Wolność sumienia wyznania
-
-*USTAWA z dnia 17 maja 1989 r.*
+# DZIENNIK USTAW POLSKIEJ RZEC ZYPOSPOLITEJ LUDOWEJ Warszawa, dnia 23 maja 1989 r. Nr 29 sc:
 
 | Pole | Wartość |
 |---|---|
@@ -26,422 +24,425 @@ domain: null
 | Ostatnia zmiana | 2025-12-08 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19890290155) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1989/155/text.pdf) |
 
-**Art. 1.**
+154.
+USTAWA z dnia 17 maja 1989 r.
+o stosunku do Katolickiego w Polskiej RzeczypospoJitej Ludowej.
+Sejm Polskiej Rzeczypospolitej Ludowej: - w Konstytucji Polskiej Rzeczypospolitej Ludowej, - zasadami w Karcie Narodów Zjednoczonych, w Powszechnej Deklaracji Praw wieka, Pakcie Praw Obywatelskich Politycznych, Akcie Konferencji Bezpie i w Europie oraz Deklaracji o wyeliminowaniu wszelkich form nietolerancji i dys :kryminacj'i z powodów religijnych lub - na celu dobro osoby ludz'kiej oraz wszystkich obywateli dla rozwoju Ikraju, dla narodu i polskiego stanowi, co I Katolicki w Polskiej Rzeczypospolitej Ludowej l Przepisy ogólne
+Art. Kościół Katolicki w Polskiej Rzeczypospolitej Ludowej, zwany dalej w konstytu cyjnych ramach ustrojowych Polskiej Rzeczypospolitej Ludowej.
 
-1. Rzeczpospolita Polska zapewnia każdemu obywatelowi wolność sumienia wyznania.
+**Art. 2.** Kościół w swych sprawach prawem, swobodnie wykonuje i jury.s oraz swoimi spTawami.
 
-2. Wolność sumienia wyznania obejmuje swobodę wyboru religii lub przekonań oraz wyrażania ich indywidualnie zbiorowo, prywatnie publicznie.
+**Art. 3.** Ustawa niniejsza zasady stosunku do w tym jego i ma 2. W sprawach do nie ure gulowanych stosuje powszechnie przepisy prawa, o ile nie sprzeczne z z niej zasadami.
 
-3. Obywatele wierzący wszystkich wyznań oraz niewierzący mają równe prawa w życiu państwowym, politycznym, gospodarczym, społecznym kulturalnym.
+**Art. 4.** Komisja Wspólna przedstawicieli Polskiej Rzeczypospolitej Ludowej i Konferencji Episko patu Polski, z ich przedsta· wicieli, w uzgodnionej liczbie na zasadzie parytetu, zwa na dalej rozpatruje problemy zane z rozwojem stosunków i oraz sprawy interpretacji niniejszej ustawy i jej wy konywania. 2. Przepis ust. 1 nie narusza organów ani organów jak kompe tencji Stolicy Apostolskiej. 2 Osoby prawne i ich organy
 
-**Art. 2.** Korzystając z wolności sumienia wyznania obywatele mogą w szczególności:
+**Art. 5.** W struktury organizacyjnej osoby prawne wymienione wad. 6-10. 2. w Llstawie jest mowa o rozumie przez to organ osoby prawnej.
 
-**Art. 4.**
+**Art. 6.** l, o ogólno polskim jest Konferencja Episkopatu Polsk'i. bziennik Ustaw Nr 2g -- 459 Poz. 154 Organami Konferencji Episkopatu Polski Prezydium Konferencji Episkopatu Polski, Rada Konferencji Episkopatu Polski, Sekretariat Konferencji Episkopatu Polski. G. W sprawach Episkopa tu Polski reprezentuje jej Prezydium. Do woli jest uprawniony z jego Art. Osobami prawnymi terytorialne jednostki organizacyjne metropolie, archidiecezje, diecezje, administratury apostolskie, parafie. Osobami prawnymi rektoralne (rektoraty), Caritas Polska, Caritas diecezji, Papieskie Misyjne. Organami osób prawnych wymienionych w ust.
 
-1. Prawo określone w art. 2 pkt 2 oraz prawo do posiadania korzystania z przedmiotów potrzebnych do uprawiania kultu praktyk religijnych przysługują również osobom:
+**Art. 8.** Osobami prawnymi personalne jednostki organizacyjne
 
-- **1)** pełniącym służbę wojskową lub zasadniczą służbę w obronie cywilnej;
-- **2)** przebywającym w zakładach służby zdrowia opieki społecznej oraz dzieciom młodzieży na krajowych koloniach obozach organizowanych przez instytucje państwowe;
-- **3)** przebywającym w zakładach karnych, zakładach poprawczych, okręgowych ośrodkach wychowawczych, młodzieżowych ośrodkach wychowawczych, aresztach śledczych oraz schroniskach dla nieletnich.
+**Art. 10.** Inne jednostki organizacyjne w drodze Ministra-Kierownika do Spraw
 
-2. Sposób realizacji uprawnień określonych w ust. 1 regulują odrębne ustawy oraz przepisy wydane na ich podstawie.
+**Art. 11.** Kościelna osoba prawna nie odpowiada za innej osoby prawnej.
 
-**Art. 5.** Obywatele mają prawo do swobodnego świadczenia na rzecz kościołów innych związków wyznaniowych oraz instytucji charytatywno-opiekuńczych.
+**Art. 12.** Kościelne wydawnictwa, wytwórcze, i handlowe, i inne placówki nie po prawnej, w ramach nych osób prawnych, które je
 
-**Art. 6.**
+**Art. 13.** Kościelne jednostki organizacyjne, o któ rych mowa wart. 7 i 8 oraz art. 9 ust. 1 pkt 7, z powiadomienia organu administracji o ich utworzeniu przez ratyfikowane umowy nie inaczej. 2. przepis prawa lub ratyfikowane umowy nie inaczej, organem admin'istracji stwowej jest:
 
-1. Nikt nie może być dyskryminowany bądź uprzywilejowany z powodu religii lub przekonań w sprawach religii. obrzędach religijnych ani do udziału w nich.
+**Art. 14.** O i osoby cej funkcje organu osoby prawnej po wiadamia organ administracji je ratyfikowane umowy nie inaczej. Powia domienie obejmuje i nazwisko, obywatelstwo oraz miejsce zamieszkan'ia danej osoby. Kult publiczny
 
-**Art. 7.**
+**Art. 15.** Organizowanie kultu publicznego i jego sprawowanie podlega 2. Publiczne sprawowanie kultu nie wymaga szania lub uzyskiwania odbywa w kaplicach, budynkach i na gruntach oraz w innych pomieszczeniach katechi'zacji lub organizacjom
 
-1. Cudzoziemcy przebywający na terytorium Rzeczypospolitej Polskiej korzystają z wolności sumienia wyznania na równi z obywatelami polskimi.
+**Art. 16.** Trasa i czas procesji lub pielgrzymki na drogach publicznych podlega uzgodnieniu z: terenowym organem administracji stop nia podstawowego, trasa przebiega w gminy, miasta lub dzielnicy miasta,
 
-2. Przepis ust. 1 stosuje się odpowiednio do bezpaństwowców.
+**Art. 17.**
 
-### DZIAŁ II Stosunek państwa do kościołów innych związków wyznaniowych
+1. Niedziele i katolickie, zwane dalej dniami wolnymi od pracy: stycznia - Rodzicielki Maryi Nowego Roku), drugi Wielkiej Nocy, sierpnia szej Maryi Panny, listopada - Wszystkich grudnia - pierws'zy Narodzenia, grudnia - drugi Narodzenia. Zmiana o których mowa w ust. wymaga uprzedniego uzgadnienia Polskiej Rzeczypospolitej Ludowej a Episkopatu Polski. Katecheza i szkolnictwo Art. Państwo uznaje prawo do naucza nia religii oraz religijnego wychowania dzieci i zgodnie z wyborem dokonanym przez rodziców lub praw nych opiekunów. Dzieci i szkolna, i osaby z nauczania religii - zgadnie z programem ustalonym przez Nauczanie relig,ii, jaka sprawa jest organi'zawane przez parafie i domy zakonne pod zwierzchnictwem biskupa diecezjalnego.
 
-#### Rozdział 1 Przepisy ogólne
+**Art. 1.** Nauczanie religii dzieci i bywa w punktach katechetycznych organizowanych w kaplicach i budynkach a tak w innych pomies1zczeniach na ten cel przez do dyspanowania pomieszcze niem. 2. lekcyjne w szkole i naucza nie religii nie 'Ze potrzeby zarówno szkolnych, jak i nauczania religii, Minister Edukacji Narodawej w porozumieniu z Sekre tariatem Konferencji Episkopatu Polski wyda dzenie zasady sposób godzenia nauczania religii z szkolnych.
 
-**Art. 8.** Kościoły inne związki wyznaniowe w Polsce działają w konstytucyjnych ramach ustrojowych Rzeczypospolitej Polskiej; ich sytuację prawną majątkową regulują przepisy rangi ustawowej.
+**Art. 20.** Kościelne osoby prawne prawo za i oraz inne placówki wo-wychowawcze i na zasadach organizacyjnych i programowych przez od pawiednie ustawy. one charakter katolicki i podle 2. Minister Edukacji Narodowej w porozumieniu z Sekretariatem Konferencji Episkopatu Polski rodzaje i placówek wymien'ionych w ust. i zasady ich tworzenia oraz warunki prowadzenia i nadzoru nimi; zasady ich dotowania. . 3. Diecezje i zakony prawo i prowa seminaria duchowne. W zakresie realizacji programu uzyskiwania dectw ane nadzorowi Ministra Edu kacji Narodowej.
 
-**Art. 9.**
+**Art. 21.** Do nauczycieli i wychowawców zatrudnio nych w i innych placówkach Dziennik Ustaw Nr 29 Poz. 154 wawczych OTa'Z placówkach opiekm'lczo-wychowawczych prowadzonych przez osoby prawne, a nauczycieli w seminariach duchownych stosuje prawa i ustalone dla nauczycieli i wychowawców zatrudnionych w i placówkach oraz -wychowawczych, z ust. 2. zakres uprawmen i o których mowa w ust. 1. Minister Edukacji Na rodowej na wniosek SekretarIatu Konferencji Episkopatu Polski. 3. Pracownikom i innych placówek -wychowawczych oraz placówek czych, nie nauczycielami lub wychowawcami. uprawnienia i przewidziane dla tej kategorii pracowników zatrudnionych w i placówkach.
 
-1. W Rzeczypospolitej Polskiej stosunek państwa do wszystkich kościołów innych związków wyznaniowych opiera się na poszanowaniu wolności sumienia wyznania.
+**Art. 22.** Uczącym w o których mowa wart. 20 ust. 1 i 3, zdrowia i ulgi w za przejazdy publiczny mi lokomocji na równi z uC'zniami stwowych. 2. Rodzicom lub opiekunom prawnym uczniów wymienionych wart. 20 ust. 1 i 3, guje prawo do rodzinnych. 3. w przyznawane, przez osoby prawne, stypendia lub inne socjalne.
 
-2. Gwarancjami wolności sumienia wyznania w stosunkach państwa z kościołami innymi związkami wyznaniowymi są:
+**Art. 23.** Konferencji Episkopatu Polski, diecezjom i zakonom prawo i prowadzenia 'sem'inariów duchownych, a w trybie nym w ust. 2 i 3 - innych uczelni. 2. Status uczelni papieskich oraz tryb i za kres uznawania przez stopni i tytu naukowych umowy Polskiej Rzeczypospolitej Ludowej a Episkopata Polski. 3. Tworzenie o zakI esie nauczania szerszym w ust. 1 i 2 w drodze ustawy na wniosek Konferencji Episkopatu Polski. ,4. Do wychowawców, pracowników oraz w wymienionych w ust. 1 i 3 stosuje przepisy art. 21 i 2'2. 5. prawo erygo wania instytutów naukowych i naukowo Nie one z przewi diianych w ust.
 
-- **1)** oddzielenie kościołów innych związków wyznaniowych od państwa;
-- **2)** swoboda wypełniania przez kościoły inne związki wyznaniowe funkcji religijnych;
-- **3)** równouprawnienie wszystkich kościołów innych związków wyznaniowych, bez względu na formę uregulowania ich sytuacji prawnej.
+**Art. 24.** Osoby duchowne i zakonów prawo w wszystkich stopni i rodzajów. oni przepisom, jednak prawo do noszenia stroju duchownego. 3 Duszpasterstwo wojskowe wojskowa osób duchownych
 
-**Art. 10.**
+**Art. 25.** Wszystkim osobom a ich rodzinom, zapewnia lub od ich woli, prak tyk religijnych. w czynnej wojskowej zapewnia uczestniczenia - poza terenem jednostek wojskowych - we Mszy w niedziele i oraz w innych zwyczajowych praktykach religijnych organizo wanych w garnizonowych lub niegarnizono wych, nie koliduje to z bowymi. Kapelani wojskowi siC; o zasad zawartych w ust. 1 i 2, w przez indywidual ny kontakt z dowódcami jednostek wojskowych oraz z 4. Kapelani wojskOWI kontaktowania z na terenie jednostek woj skowych, w terminach uzgodnionych z dowódcami jednostek.
 
-1. Rzeczpospolita Polska jest państwem świeckim, neutralnym w sprawach religii przekonań.
+**Art. 26.** Do kapelanów wojskowych zasto sowanie przepisy o wojskowej zawodo wych. Kapelani korpus osobowy zawodowych. 2. Ka.pelani wojskow'i w zakresie wojskowej organom wojskowym, a w zakresie duszpa sterslwa 3. Statut duszpasterstwa wojskowego opracowywany jest z z ust. 2. Statut uchwala Konferencja Episkopatu Polski, a Minister Obrony Narodowej.
 
-2. Państwo państwowe jednostki organizacyjne nie dotują nie subwencjonują kościołów innych związków wyznaniowych. Wyjątki od tej zasady regulują ustawy lub przepisy wydane na ich podstawie.
-
-**Art. 11.**
-
-1. Kościoły inne związki wyznaniowe są niezależne od państwa przy wykonywaniu swoich funkcji religijnych. prawnej, w granicach określonych w ustawach.
-
-3. Kościoły inne związki wyznaniowe mogą składać wnioski do Trybunału Konstytucyjnego na zasadach w trybie określonych w przepisach o Trybunale Konstytucyjnym.
-
-**Art. 12.**
-
-1. Duchowni oraz osoby zakonne kościołów innych związków wyznaniowych, ustanowione według przepisów prawa wewnętrznego kościoła lub innego związku wyznaniowego, korzystają z praw podlegają obowiązkom na równi z innymi obywatelami we wszystkich dziedzinach życia państwowego, politycznego, gospodarczego, społecznego kulturalnego. Są oni w ramach obowiązujących przepisów ustaw zwolnieni z obowiązków niemożliwych do pogodzenia z pełnieniem funkcji duchownego lub osoby zakonnej.
-
-2. Osoby, o których mowa w ust. 1, mają prawo do noszenia stroju duchownego.
-
-3. Uprawnienia obowiązki osób duchownych w myśl prawa państwowego określają odrębne ustawy.
-
-**Art. 13.**
-
-1. Majątek przychody kościołów innych związków wyznaniowych podlegają ogólnie obowiązującym przepisom podatkowym, z wyjątkami określonymi w odrębnych ustawach.
-
-2. Osoby prawne kościołów innych związków wyznaniowych są zwolnione od opodatkowania z tytułu przychodów ze swojej działalności niegospodarczej. W tym zakresie osoby te nie mają obowiązku prowadzenia dokumentacji wymaganej przez przepisy podatkowe.
-
-3. (uchylony)
-
-4. (uchylony)
-
-5. Dochody z działalności gospodarczej osób prawnych kościołów innych związków wyznaniowych oraz spółek, których udziałowcami są wyłącznie te osoby, są zwolnione od opodatkowania w części, w jakiej zostały przeznaczone w roku podatkowym lub w roku po nim następującym na cele kultowe, oświatowowychowawcze, naukowe, kulturalne, działalność charytatywno-opiekuńczą, punkty katechetyczne, konserwację zabytków oraz na inwestycje sakralne inwestycje kościelne, których przedmiotem są punkty katechetyczne zakłady charytatywnoopiekuńcze, jak również remonty tych obiektów. opodatkowania od świadczeń na fundusz gminny fundusz miejski , od nieruchomości lub ich części, stanowiących własność tych osób lub używanych przez nie na podstawie innego tytułu prawnego na cele niemieszkalne, z wyjątkiem części zajmowanej na wykonywanie działalności gospodarczej.
-
-7. Zwalnia się z należności celnych przywozowych towary przeznaczone na cele charytatywno-opiekuńcze oświatowo-wychowawcze oraz towary o charakterze kulturalnym przeznaczone na cele kultu, przywożone dla osób prawnych kościołów innych związków wyznaniowych, w granicach na warunkach określonych w rozporządzeniu Rady (WE) nr 1186/2009 z dnia 16 listopada 2009 r. ustanawiającym wspólnotowy system zwolnień celnych (Dz. Urz. UE L 342 z 10.12.2009, str. 23).
-
-**Art. 14.**
-
-1. Jeżeli odrębna ustawa lub ratyfikowana umowa międzynarodowa nie stanowią inaczej, kościół lub inny związek wyznaniowy powiadamia ministra właściwego do spraw wyznań religijnych wojewodę właściwego ze względu na siedzibę jednostki organizacyjnej kościoła lub innego związku wyznaniowego o utworzeniu, zmianie nazwy, siedziby, granic lub połączeniu, podziale zniesieniu diecezji (okręgów porównywalnych jednostek organizacyjnych) oraz parafii (zborów, gmin porównywalnych jednostek organizacyjnych).
-
-2. Jeżeli odrębna ustawa lub ratyfikowana umowa międzynarodowa nie stanowią inaczej, kościół lub inny związek wyznaniowy powiadamia w terminie 30 dni ministra właściwego do spraw wyznań religijnych wojewodę właściwego ze względu na siedzibę kościoła lub innego związku wyznaniowego o zmianie siedziby oraz o zmianie osób wchodzących do kierowniczych organów wykonawczych, podając ich imiona nazwiska, obywatelstwo miejsce zamieszkania.
-
-3. Przepis ust. 2 stosuje się odpowiednio do jednostek organizacyjnych, o których mowa w ust. 1.
-
-4. Jeżeli odrębna ustawa lub ratyfikowana umowa międzynarodowa nie stanowią inaczej, przed objęciem stanowisk, o których mowa w ust. 2 3, przez cudzoziemca, minister właściwy do spraw wyznań religijnych nie wyraża wobec tego zastrzeżeń. Niezgłoszenie zastrzeżeń w terminie 60 dni od daty powiadomienia uważa się za wyrażenie zgody.
-
-**Art. 15.** (uchylony)
-
-**Art. 16.**
-
-1. Państwo współdziała z kościołami innymi związkami wyznaniowymi w zachowaniu pokoju, kształtowaniu warunków rozwoju kraju oraz zwalczaniu patologii społecznych.
-
-2. W celach, o których mowa w ust. 1, oraz do rozpatrywania problemów związanych z rozwojem stosunków między państwem a poszczególnymi kościołami innymi związkami wyznaniowymi mogą być, na zasadach wzajemnego uzgodnienia, tworzone różne, w tym stałe formy współdziałania. Przepis ten nie narusza właściwości organów państwowych oraz organów kościołów innych związków wyznaniowych.
-
-**Art. 16a.**
-
-1. Dla określenia szczegółowych zasad stosunków, o których mowa w art. 16, mogą być zawierane umowy między właściwymi rzeczowo centralnymi organami administracji rządowej a władzami poszczególnych kościołów innych związków wyznaniowych.
-
-2. Przepisy umowy nie mogą naruszać przepisów ogólnie obowiązującego prawa, a w szczególności zasady równouprawnienia wszystkich kościołów innych związków wyznaniowych.
-
-3. Podpisana umowa zostaje opublikowana w dzienniku urzędowym właściwego ministerstwa.
-
-**Art. 17.** Państwo współdziała z kościołami innymi związkami wyznaniowymi w ochronie, konserwacji, udostępnianiu upowszechnianiu zabytków architektury, sztuki literatury religijnej, które stanowią integralną część dziedzictwa kultury.
-
-**Art. 18.**
-
-1. Przepisy rozdziału 2 działu III regulują stosunek państwa tylko do tych kościołów innych związków wyznaniowych, których sytuacja prawna majątkowa nie jest uregulowana odrębnymi ustawami.
-
-2. Przepisy rozdziału 2 określające uprawnienia kościołów innych związków wyznaniowych mają jednakże zastosowanie do kościołów innych związków określone w ust. 1 nie przewidują takich uprawnień.
-
-#### Rozdział 2 Działalność kościołów innych związków wyznaniowych
-
-**Art. 19.**
-
-1. Kościoły inne związki wyznaniowe korzystają na zasadach równouprawnienia ze swobody pełnienia funkcji religijnych.
-
-2. Wypełniając funkcje religijne kościoły inne związki wyznaniowe mogą w szczególności:
-
-- **1)** określać doktrynę religijną, dogmaty zasady wiary oraz liturgię;
-- **2)** organizować publicznie sprawować kult;
-- **3)** udzielać posług religijnych, w tym osobom, o których mowa w art. 4, oraz organizować obrzędy zgromadzenia religijne;
-- **4)** rządzić się w swoich sprawach własnym prawem, swobodnie wykonywać władzę duchowną oraz zarządzać swoimi sprawami;
-- **5)** ustanawiać, kształcić zatrudniać duchownych;
-- **6)** realizować inwestycje sakralne inne inwestycje kościelne;
-- **7)** nabywać, posiadać zbywać majątek ruchomy nieruchomy oraz zarządzać nim;
-- **8)** zbierać składki otrzymywać darowizny, spadki inne świadczenia od osób fizycznych prawnych;
-- **9)** wytwarzać nabywać przedmioty artykuły potrzebne do celów kultu praktyk religijnych oraz korzystać z nich;
-- **10)** nauczać religii głosić ją, w tym za pomocą prasy, książek innych druków oraz filmów środków audiowizualnych;
-- **11)** korzystać ze środków masowego przekazywania;
-- **12)** prowadzić działalność oświatowo-wychowawczą;
-- **13)** tworzyć prowadzić zakony oraz diakonaty;
-- **14)** tworzyć organizacje mające na celu działalność na rzecz formacji religijnej, kultu publicznego oraz przeciwdziałania patologiom społecznym ich skutkom;
-- **15)** prowadzić działalność charytatywno-opiekuńczą;
-- **16)** (uchylony)
-- **17)** powoływać krajowe organizacje międzykościelne; międzywyznaniowych oraz utrzymywać kontakty zagraniczne w sprawach związanych z realizacją swoich funkcji.
-
-3. Za wypełnianie funkcji religijnych, o których mowa w ust. 1, nie uznaje się oddziaływania poprzez badania eksperymenty psychologiczne.
-
-**Art. 19a.**
-
-1. Kościoły inne związki wyznaniowe mają prawo posiadania, zarządzania oraz zakładania poszerzania cmentarzy grzebalnych.
-
-2. Przepis ust. 1 nie narusza przepisów dotyczących cmentarzy chowania zmarłych.
-
-**Art. 20.**
-
-1. Kościoły inne związki wyznaniowe mogą nauczać religii oraz wychowywać religijnie dzieci młodzież, zgodnie z wyborem dokonanym przez ich rodziców lub opiekunów prawnych.
-
-2. Nauczanie religii dzieci młodzieży jest wewnętrzną sprawą kościołów innych związków wyznaniowych. Jest ono organizowane, zgodnie z programem ustalonym przez władze kościoła lub innego związku wyznaniowego, w punktach katechetycznych znajdujących się w kościołach, domach modlitw innych pomieszczeniach udostępnionych na ten cel przez osobę uprawnioną do dysponowania nimi.
-
-3. Nauczanie religii uczniów szkół publicznych wychowanków przedszkoli publicznych może odbywać się również w szkołach przedszkolach na zasadach określonych w odrębnej ustawie.
-
-**Art. 21.**
-
-1. Kościoły inne związki wyznaniowe mają prawo zakładać prowadzić szkoły przedszkola oraz inne placówki oświatowo-wychowawcze opiekuńczo-wychowawcze na zasadach określonych w ustawach.
-
-2. Szkoły, przedszkola oraz inne placówki, o których mowa w ust. 1, będą dotowane przez państwo lub organy samorządu terytorialnego w przypadkach na zasadach określonych w odrębnych ustawach.
-
-**Art. 21a.** Działalność służąca celom humanitarnym, charytatywnoopiekuńczym, naukowym oświatowo-wychowawczym, podejmowana przez osoby prawne kościołów innych związków wyznaniowych, jest zrównana pod względem prawnym z działalnością służącą analogicznym celom prowadzoną przez instytucje państwowe. prowadzić, według samodzielnie ustalonych programów, szkoły duchowne seminaria duchowne. 2. W zakresie realizacji programu szkół ogólnokształcących uzyskiwania świadectw dojrzałości szkoły duchowne wymienione w ust. 1 podlegają nadzorowi ministra właściwego do spraw oświaty wychowania. 3. Tworzenie prowadzenie przez kościoły inne związki wyznaniowe szkół wyższych, zasady udzielania im przez państwo pomocy finansowej oraz tryb zakres uznawania stopni tytułów naukowych nadawanych w tych szkołach regulują, na wniosek władz kościołów lub innych związków wyznaniowych, odrębne ustawy. 4. Kościoły inne związki wyznaniowe mają prawo zakładać religijne instytuty naukowe naukowo-dydaktyczne. 5. Status prawny wydziałów teologicznych na uniwersytetach państwowych regulują odrębne umowy pomiędzy ministrem właściwym do spraw szkolnictwa wyższego a władzami kościołów lub innych związków wyznaniowych.
-
-**Art. 23.** (uchylony)
-
-**Art. 24.**
-
-1. W celu realizacji działalności charytatywno-opiekuńczej kościoły inne związki wyznaniowe mają prawo zakładać prowadzić, na zasadach określonych w ustawach, odpowiednie instytucje, w tym zakłady dla osób potrzebujących opieki, szpitale inne zakłady lecznicze podmiotów leczniczych w rozumieniu przepisów o działalności leczniczej, żłobki schroniska dla dzieci.
-
-2. Środki na realizację działalności charytatywno-opiekuńczej pochodzą w szczególności z:
-
-- **1)** ofiar pieniężnych w naturze;
-- **2)** spadków, zapisów darowizn krajowych zagranicznych;
-- **3)** dochodów z imprez zbiórek publicznych;
-- **4)** subwencji, dotacji ofiar pochodzących od krajowych instytucji przedsiębiorstw państwowych, społecznych, wyznaniowych prywatnych;
-- **5)** odpłatności za usługi świadczone przez instytucje charytatywno-opiekuńcze kościołów innych związków wyznaniowych;
-
-**Art. 25.**
-
-1. W celu realizacji swoich funkcji kościoły inne związki wyznaniowe mają prawo wydawania prasy, książek, druków oraz zakładania posiadania wydawnictw oraz zakładów poligraficznych, z zachowaniem obowiązujących w tym zakresie przepisów prawa.
-
-2. Kościoły inne związki wyznaniowe mogą organizować własny kolportaż prasy lub korzystać z pośrednictwa innej sieci kolportażu.
-
-3. Dla realizacji postanowień ust. 1 kościoły inne związki wyznaniowe mogą otrzymywać jako darowizny z zagranicy maszyny, urządzenia, materiały poligraficzne papier.
-
-4. Kościoły inne związki wyznaniowe mają prawo do emitowania w radiu telewizji programów religijno-moralnych, społecznych kulturalnych w sposób określony w porozumieniach między władzami danego kościoła lub innego związku wyznaniowego a jednostkami publicznej radiofonii telewizji.
-
-**Art. 26.**
-
-1. Kościoły inne związki wyznaniowe mają prawo organizowania prowadzenia związanej z wypełnianiem swoich funkcji działalności kulturalnej artystycznej.
-
-2. Dla realizacji prawa, o którym mowa w ust. 1, kościoły inne związki wyznaniowe mogą zakładać prowadzić odpowiednie instytucje oraz dystrybucję rozpowszechnianie filmów.
-
-3. Korzystanie z praw, o których mowa w ust. 1 2, następuje bez obowiązku uzyskiwania zezwoleń upoważnień, jeżeli działalność ta prowadzona jest na potrzeby realizacji zadań religijno-moralnych w sferze kultury. O podjęciu prowadzeniu tej działalności władze kościoła lub innego związku wyznaniowego powiadamiają państwowy organ, właściwy do udzielania takich zezwoleń upoważnień.
-
-4. Dla realizacji postanowień ust. 1 2 kościoły inne związki wyznaniowe mogą otrzymywać jako darowizny z zagranicy urządzenia materiały.
-
-**Art. 27.**
-
-1. Działalność kościołów innych związków wyznaniowych nie może naruszać przepisów ogólnie obowiązujących ustaw chroniących bezpieczeństwo publiczne, porządek, zdrowie lub moralność publiczną, władzę rodzicielską albo podstawowe prawa wolności innych osób. odbywa się zgodnie z ogólnie obowiązującymi przepisami, chyba że ustawy stanowią inaczej.
+**Art. 27.** Do czasu Ordynariatu Polo wego, o którym mowa wart. 8 ust. 1 pkt 1 ust. 2 pkt l, duszpasterstwem wojskowym kieruje Generalny Dziekan Wojska Polskiego, jako naczelny kapelan wojskowy. Jego organem wykonawczym jest Generalny Dziekanat Woj'ska Polskiego. 2. Generalnego Dziekana Wojska Polskiego, po uprzednim uzgodnieniu jego kandydatury z' Episkopatu Polski, kapelanów wojsko wych Minister Obrony Narodowej. Biskup diecezjalny udziela Generalnemu Dziekanowi Wojska Polskiego ju rysdykcji 3. Generalny Dziekan Wojska Polskiego przestaje swoje funkcje z
 
 **Art. 28.**
 
-1. W sprawach majątkowych kościoły inne związki wyznaniowe działają poprzez swoje osoby prawne.
+1. Generalny Dziekan Wojska Polskiego, w porozumieniu z biskupem diecezjalnym, przedstawia Mi ni'strowi Obrony Narodowej wniosek w sprawie nia kapelana wojskowego i zwolnienia go z zawodowej wojskowej.
 
-2. Osoby prawne kościołów innych związków wyznaniowych, ich organy, zakres kompetencji sposób powoływania oraz reprezentacji określają statuty (prawo wewnętrzne, zwane dalej „statutami”).
+2. Generalny Dziekan Wojska Polskiego, w porozu mieniu z biskupem diecezjalnym i organem woj'skowym w statucie duszpasterstwa wojskowego, wy znacza kapelana wojskowego na stanowisko rektora ko garnizonowego i go.
 
-**Art. 29.**
+3. Na wniosek Generalnego Dziekana Wojska Pol skiego bis'kup diecezjalny udziela jurysdykcji rektorowi garnizonowego lub innemu kapelanowi wojskoDZiennik Ustaw Nr 29 wemu, chyba przeciwko temu przemawIa],l przewi dziane prawem kanonicznym 4b1
 
-1. W stosunku do organizacji tworzonych na podstawie art. 19 pkt 14, jeżeli nie mają osobowości prawnej, nie stosuje się Prawa o stowarzyszeniach. Natomiast przepisy ustawy o zgromadzeniach stosuje się do nich jedynie w zakresie dotyczącym zebrań na drogach placach publicznych oraz w pomieszczeniach użyteczności publicznej.
+4. Tryb w sprawach, o których mowa w ust. 1 2, oraz odmowy udzielenia jurys dykcji lub jej statut duszpasterstwa woj skowego.
 
-2. Organizacje, o których mowa w ust. 1, działają w ramach osób prawnych kościołów innych związków wyznaniowych, w których zostały powołane.
+5. Tryb tworzenia personalnych parafii wojskowych terytorialnych parafii przy garnizonowych statut duszpasterstwa wojskowego.
 
-3. Władze kościołów innych związków wyznaniowych czuwają nad zgodnością działania tych organizacji z ich celami religijnymi moralnymi.
+**Art. 29.** Przepisy odraczE!nia zasadniczej wojskowej ze na odbywanie nauki zastosowanie do alumnów seminariów duchownych oraz nowicjuszy zakonnych. 2. Duchowni po otrzymaniu i zakonów po profesji wieczystej przenie sieni do rezerwy. Nie oni do odbywania wojskowych w czasie pokoju, z przy padku przeszkolenia, za biskupa diecezjalnego lub zakonnego, do funkcji kapelana. 3. W razie mobilizacji i w czasie wojny osoby, o których mowa w ust. 1 i 2, przeznacza sto> sownie do potrzeb zbrojnych:
 
-### DZIAŁ III Rejestrowanie kościołów innych związków wyznaniowych
+**Art. 30.** Dzieciom w wychowawczych i jak w sanatoriach, prewentoriach i szpitalach, zapewnia prawo wykonywania praktyk religijnych, korzystania z religijnych katechizacji, z zachowaniem wzajem nej tolerancji. W zapewnia im we Mszy w niedziele i oraz w re kolekcjach. 2. Dzieciom i na krajo wych koloniach i obozach organizowanych przez insty tucje zapewnia prawo do wykonywania praktyk religijnych, w do we Mszy w niedziele i 3. przepisy w sprawach, o których mo wa w ust. 1 i 2, wydaje Minister Edukacji Narodowej, a do dzieci i w sana toriach, prewentoriach i szpitalach - Minister Zdrowia i Opieki w po·rozumieniu z Sekretariatem Kon ferencji Episkopatu Polski.
 
-**Art. 30.** Prawo wpisu do rejestru kościołów innych związków wyznaniowych, zwanego dalej „rejestrem”, prowadzonego przez ministra właściwego do spraw wyznań religijnych , jest realizowane przez złożenie temu ministrowi, zwanemu dalej „organem rejestrowym”, deklaracji o utworzeniu kościoła lub innego związku wyznaniowego wniosku o wpis do rejestru.
+**Art. 31.** Osobom w lecz niczych oraz pomocy zapewnia prawo wykonywania praktyk religijnych i korzystania z religijnych. Poz. 2. W celu realizacji uprawmen, o których mowa w ust. l, kierownicy kapelanów skierowanych przez biskupa die cezjalnego. 3. W celu zainteresowanych chorych i podopiecznych we Mszy i w innych zbioro wych praktykach religijnych, kierownicy za odpowiednie pomiesz czenia na kaplice, a w wypadkach do tego celu inne pomieszczen'ia.
 
-**Art. 31.**
+**Art. 32.** I. Osoby tymczasowo aresztowane praktyki religijne i we Mszy transmitowanej przez masowego przekazywania oraz, za organu, do którego dyspozycji z indywidualnej religijnej. 2. Osobom skazanym zapewnia wyko nywania praktyk religijnych, korzystania z religij nych oraz uczestniczenia we Mszy odprawit\nej w niedziele i w odpowiednio przystosowanym po mieszczeniu w w którym Osobom, które nie we Mszy odprawianej na terenie Mszy transmitowanej przez masowego prze kazywania. 3. Nieletnim w popraw czych i schroniskach dla nieletnich zapewnia wykonywania praktyk religijnych, korzystania z k(\ techizacji i religijnych, uczestniczenia we Mszy w niedziele i Nieletnim, którzy nie we Mszy wy Mszy transmitowanej przez masowe go przekazywania. 4. W celu realizacji osób wymienionych w ust. kierownicy odpowiednich zawie umowy w sprawie wykonywania obo kapelana z duchownymi skierowanymi przez biskupa diecezjalnego. 5 Organizacje katolickie oraz stowarzyszenia katolików
 
-1. Prawo wniesienia wniosku, o którym mowa w art. 30, przysługuje co najmniej 100 obywatelom polskim posiadającym pełną zdolność do czynności prawnych, zwanych dalej „wnioskodawcami”.
-
-2. Wnioskodawcy składają listę zawierającą ich notarialnie poświadczone podpisy potwierdzające treść wniosku, o którym mowa w ust. 1, deklaracji o utworzeniu kościoła lub innego związku wyznaniowego, imię nazwisko, datę oraz numer PESEL każdego z wnioskodawców.
-
-3. Wnioskodawcy mogą wybrać spośród siebie co najmniej pięcioosobowy komitet założycielski reprezentujący ich w postępowaniu w sprawie wpisu do rejestru.
-
-**Art. 32.**
-
-1. Wniosek, o którym mowa w art. 30, powinien zawierać:
-
-- **1)** listę, o której mowa w art. 31 ust. 2;
-- **2)** informację o dotychczasowych formach życia religijnego metodach działania kościoła lub innego związku wyznaniowego na terytorium Rzeczypospolitej Polskiej;
-- **3)** informację o podstawowych celach, źródłach zasadach doktrynalnych, obrzędach religijnych;
-- **4)** adres siedziby kościoła lub innego związku wyznaniowego oraz dane osób wchodzących do kierowniczych organów wykonawczych:
-    - **a)** imiona nazwisko,
-    - **b)** datę urodzenia,
-    - **c)** adres zamieszkania,
-    - **d)** nazwę, serię numer dokumentu tożsamości,
-    - **e)** nr PESEL;
-
-- **5)** statut.
-
-1a. W przypadku wybrania komitetu założycielskiego, o którym mowa w art. 31 ust. 3, wniosek o wpis do rejestru powinien zawierać także podpisany przez wnioskodawców protokół z wyboru tego komitetu określający datę miejsce wyborów oraz następujące dane osób wchodzących w jego skład:
-
-- **1)** imiona nazwisko;
-- **2)** datę urodzenia;
-- **3)** adres zamieszkania;
-- **4)** rodzaj, serię numer dokumentu tożsamości;
-- **5)** nr PESEL.
-
-2. Statut powinien określać w szczególności:
-
-- **1)** nazwę kościoła lub innego związku wyznaniowego różną od nazw innych organizacji;
-- **2)** teren działania siedzibę władz;
-- **3)** cele działalności oraz formy zasady ich realizacji; podejmowania decyzji;
-- **5)** źródła finansowania;
-- **6)** tryb dokonywania zmian statutu;
-- **7)** sposób reprezentowania na zewnątrz oraz zaciągania zobowiązań majątkowych;
-- **8)** sposób nabywania utraty członkostwa oraz prawa obowiązki członków;
-- **9)** sposób powoływania, odwoływania oraz kompetencje osób duchownych, o których mowa w art. 12 ust. 3, o ile kościół lub inny związek wyznaniowy przewiduje tworzenie takich stanowisk;
-- **10)** sposób rozwiązania kościoła lub innego związku wyznaniowego przeznaczenie pozostałego majątku.
-
-3. Jeżeli kościół lub inny związek wyznaniowy przewiduje tworzenie jednostek organizacyjnych mających osobowość prawną, statut powinien określać ich nazwy, teren działania, siedziby, zakres uprawnień, zasady tworzenia, znoszenia przekształcania tych jednostek, ich organy, zakres kompetencji, tryb podejmowania decyzji, sposób powoływania odwoływania tych organów, sposób reprezentowania na zewnątrz oraz zaciągania zobowiązań majątkowych, a także przeznaczenie majątku pozostałego po zakończeniu likwidacji osoby prawnej kościoła lub innego związku wyznaniowego.
-
-4. Jeżeli kościół lub inny związek wyznaniowy stanowi część organizacji o zasięgu międzynarodowym, w statucie powinny być określone zakres formy wzajemnych stosunków.
-
-5. Jeżeli kościół lub inny związek wyznaniowy przewiduje tworzenie jednostek organizacyjnych bez osobowości prawnej, w statucie powinny być określone nazwy, zasady tworzenia, znoszenia przekształcania tych jednostek.
-
-**Art. 33.**
-
-1. W trakcie postępowania w sprawie wpisu do rejestru organ rejestrowy może żądać od wnioskodawców wyjaśnień treści wniosku w zakresie określonym w art. 32, a także zwracać się do odpowiednich organów państwowych o sprawdzanie prawdziwości zawartych we wniosku danych.
-
-2. Jeżeli organ rejestrowy w trakcie postępowania w sprawie wpisu do rejestru stwierdzi braki lub uchybienia w treści wniosku, w zakresie określonym w art. 32, wyznacza dwumiesięczny termin ich uzupełnienia, a po upływie tego terminu wydaje decyzję o odmowie wpisu do rejestru. przepisami ustaw chroniącymi bezpieczeństwo porządek publiczny, zdrowie, moralność publiczną, władzę rodzicielską albo podstawowe prawa wolności innych osób, organ rejestrowy wydaje decyzję o odmowie wpisu do rejestru.
-
-4. Decyzje, o których mowa w ust. 2 3, powinny być wydane w terminie 3 miesięcy od daty wszczęcia postępowania o wpis do rejestru. Na decyzje te może być wniesiona skarga do sądu administracyjnego.
+**Art. 33.** Osobom do zapewnia zrzeszania w celu realizacji wynika z misji 2. Prawo w ust. 1 jest wykonywane w ra mach organizacji i katolickich.
 
 **Art. 34.**
 
-1. Jeżeli nie zachodzą okoliczności wskazane w art. 33 ust. 2 3, organ rejestrowy wydaje, w terminie 3 miesięcy od zgłoszenia deklaracji, decyzję o wpisie do rejestru.
+1. Organizacjami w rozumieniu niniejszej ustawy organizacje osoby nale do
 
-2. Z chwilą wpisu do rejestru kościół lub inny związek wyznaniowy uzyskuje, jako całość, osobowość prawną oraz korzysta ze wszystkich uprawnień podlega obowiązkom określonym w ustawach.
+- **1)** erygowane przez biskupa diecezjalnego lub w .ramach statutów zakonnych przez zakonnego, a w odniesieniu do organizacji o ponaddiecezjalnym - przez Episkopatu IPolski,
+- **2)** przez wiernych z proboszcza, rek tora lub zakonnego za zezwo ,leniem o której mowa w pkt
 
-3. Przepis ust. 2 stosuje się odpowiednio do jednostek organizacyjnych, zakonów diakonatów, o których mowa w art. 32 ust. 3.
+2. Organizacje na celu w szczególna rzecz formacji religijnej, kultu pu blicznego i nauki katolickiej. Dziennik Ustaw Nr 29 Poz. 154
 
-4. Do kościołów innych związków wyznaniowych wpisanych do rejestru stosuje się odpowiednio art. 14.
+3. Organizacje w ramach tych osób prawnych, w których O erygowaniu organizacji o ponaddiecezjalnym Sekretariat Konferencji Episkopatu Polski powiadamia do Spraw Organizacje wymienione w ust. 1 pkt 1 w trybie art. 10.
 
-**Art. 35.**
+4. nad dzia organizacji z ich celami religijnymi i moralnymi.
 
-1. Zmiany statutu kościoła lub innego związku wyznaniowego wpisanego do rejestru dokonuje się w trybie obowiązującym przy ich rejestrowaniu.
+5. Do organizacji nie stosuje prawa o stowarzyszeniach. Przepisy ustawy o zgromadzeniach stosuje do organizacji jedynie gdy chodzi o zebrania na drogach i placach publicznych oraz w bu dynkach
 
-2. Organ rejestrowy może domagać się aktualizacji danych warunkujących wpis do rejestru, określonych w art. 32 ust. 1 pkt 2–5.
+**Art. 35.** Organizacjami katolickimi w rozumieniu ustawy organizacje za cielnej, która zatwierdza im kapelana lub asystenta cielnego. one w z 2. Organizacje katolickie na celu w szcze z i charytatywno-opie 3. Do organizacji katolickich stosuje przepisy pra wa o stowarzyszeniach, z tym
 
-**Art. 36.**
+**Art. 36.** Organizacje, których celem jest krzewienie na osoby alko holu lub narkotyków oraz udzielanie pomocy ich rodzinom, tworzone w formie organi zacji o których mowa wart. 34, lub organi zacji katolickich, o których mowa wart. 35.
 
-1. Wykreśleniu z rejestru podlega:
+**Art. 37.** Organizacje inne wymienione wart. 33, katolików, we programów, na podsta wie ogólnie przepisów prawa oraz swo ich statutów. 6
 
-- **1)** kościół lub inny związek wyznaniowy, którego sytuacja prawna majątkowa została uregulowana w odrębnej ustawie;
-- **2)** kościół lub inny związek wyznaniowy, który zawiadomił organ rejestrowy o zaprzestaniu swojej działalności;
-- **3)** kościół lub inny związek wyznaniowy, który utracił cechy warunkujące uzyskanie wpisu do rejestru; dotyczy to w szczególności kościoła lub innego związku wyznaniowego, który w ciągu 3 lat nie odpowiedział na żądanie organu rejestrowego nie zaktualizował wpisów do rejestru w zakresie określonym w art. 32 ust. 1 pkt 4.
+**Art. 38.**
 
-2. Wykreślenie z rejestru następuje na podstawie decyzji organu rejestrowego. wykreślenie z rejestru następuje po przeprowadzeniu likwidacji.
+1. Osoby prawne prawo pro wadzenia dla z nich chary
 
-4. W przypadku, o którym mowa w ust. 1 pkt 2, likwidatorami są członkowie organu kościoła lub innego związku wyznaniowego uprawnionego do reprezentowania na zewnątrz zaciągania zobowiązań majątkowych, jeżeli statut lub, w razie braku odpowiednich postanowień statutu, decyzja właściwego organu kościoła lub innego związku wyznaniowego nie stanowi inaczej.
+2. Dla prowadzenia o której mowa w ust. uprawnione do po
 
-5. Organ rejestrowy, w drodze decyzji, zarządza likwidację wyznacza likwidatora:
+- **1)** Caritas Polskiej - jako instytucji o krajo wym,
+- **2)** Citritas diecezji - dla poszczególnych diecezji.
 
-- **1)** w przypadkach, o których mowa w ust. 1 pkt 3 art. 36a ust. 2;
-- **2)** w razie braku możliwości ustalenia likwidatora, o którym mowa w ust. 4.
+3. Caritas nadaje jej statut i nad zoruje Konferencja Episkopatu Polski. Caritas diecezji nadaje jej statut i nad zoruje biskup diecezjalny.
 
-6. Przed zniesieniem osoby prawnej, o której mowa w art. 32 ust. 3, kościół lub inny związek wyznaniowy zarządza jej likwidację wyznacza likwidatora informując o tym organ rejestrowy oraz określa przeznaczenie majątku pozostałego po zakończeniu likwidacji.
+5. Zakony charytatywno-opie w zakresie w ich statutach lub odpo wiednich aktach
 
-7. Do obowiązków likwidatora stosuje się odpowiednio art. 37 ustawy z dnia 7 kwietnia 1989 r. – Prawo o stowarzyszeniach (Dz. U. z 2020 r. poz. 2261).
+6. prowa organizacje katolickie w zakresie w ich statutach.
 
-8. Jeżeli statut kościoła lub innego związku wyznaniowego nie stanowi inaczej, majątek pozostały po zakończeniu postępowania likwidacyjnego kościoła lub innego związku wyznaniowego albo osób prawnych, o których mowa w art. 32 ust. 3, może być przeznaczony wyłącznie na cele charytatywno-opiekuńcze w drodze decyzji organu rejestrowego.
+**Art. 39.** Działalność obejmuje w
 
-**Art. 36a.**
+**Art. 40.** Środki na charytatyw w z:
 
-1. Organ rejestrowy lub prokurator może wystąpić do sądu okręgowego o stwierdzenie niezgodności działania kościoła lub innego związku wyznaniowego z przepisami prawa, o których mowa w art. 27 ust. 1, lub ze statutem, o którym mowa w art. 32.
-
-2. W razie stwierdzenia prawomocnym wyrokiem sądu, że działalność kościoła lub innego związku wyznaniowego rażąco narusza prawo lub postanowienia statutu, organ rejestrowy wykreśli z rejestru ten kościół lub inny związek wyznaniowy.
-
-**Art. 37.** Minister właściwy do spraw wyznań religijnych określa, w drodze rozporządzenia, zasady sposób prowadzenia rejestru, dane informacje podlegające wpisowi, sposób, formę termin aktualizacji wpisów do rejestru, warunki kościoła lub innego związku wyznaniowego z rejestru.
-
-**Art. 38.** Przepisy niniejszego działu stosuje się odpowiednio do krajowych organizacji międzykościelnych, jeżeli mają one mieć osobowość prawną. Do utworzenia takiej organizacji jest wymagana deklaracja podpisana przez władze co najmniej dwóch działających w Rzeczypospolitej Polskiej kościołów innych związków wyznaniowych.
-
-### DZIAŁ IIIa Regulacja spraw majątkowych niektórych kościołów
-
-**Art. 38a.**
-
-1. Tworzy się Międzykościelną Komisję Regulacyjną, zwaną dalej „Komisją”, w celu ostatecznego uregulowania spraw majątkowych między Państwem a kościołami ich osobami prawnymi, które zgłosiły roszczenia w trybie na zasadach określonych w:
-
-- **1)** art. 24–26 ustawy z dnia 13 maja 1994 r. o stosunku Państwa do Kościoła Ewangelicko-Reformowanego w Rzeczypospolitej Polskiej (Dz. U. z 2015 r. poz. 483);
-- **2)** art. 37 ustawy z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Ewangelicko-Metodystycznego w Rzeczypospolitej Polskiej (Dz. U. z 2014 r. poz. 1712 oraz z 2022 r. poz. 1700);
-- **3)** art. 40–42 ustawy z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Chrześcijan Baptystów w Rzeczypospolitej Polskiej (Dz. U. z 2015 r. poz. 169 oraz z 2022 r. poz. 1700);
-- **4)** art. 35 ustawy z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Adwentystów Dnia Siódmego w Rzeczypospolitej Polskiej (Dz. U. z 2022 r. poz.
-- **2616)** .
-
-2. Roszczenia majątkowe wobec Państwa mogą również zgłaszać do Komisji w terminie do dnia 31 grudnia 1998 r. kościoły inne związki wyznaniowe, niewymienione w ust. 1, a także krajowe organizacje międzykościelne, jeżeli wskażą we wniosku, że na rzecz Skarbu Państwa przejęto własność nieruchomości lub ich części będących uprzednio własnością tych kościołów związków wyznaniowych oraz krajowych organizacji międzykościelnych. których mowa w ust. 2, mają odpowiednie zastosowanie przepisy ustaw wskazanych w ust. 1 pkt 1–4.
-
-4. Jeżeli przywrócenie kościelnej osobie prawnej własności nieruchomości nie jest możliwe z uwagi na trudne do przezwyciężenia przeszkody, przyznaje się jej nieruchomość zamienną, a jeżeli nie jest to możliwe, osobie tej przyznaje się odszkodowanie ustalone według przepisów o wywłaszczeniu nieruchomości .
-
-5. Rada Ministrów określi, w drodze rozporządzenia, z mienia których państwowych jednostek organizacyjnych lub gmin może być wyłączona nieruchomość zamienna lub na którą państwową jednostkę organizacyjną może być nałożony obowiązek zapłaty odszkodowania.
-
-**Art. 38b.**
-
-1. Przedmiotem postępowania regulacyjnego może być również nieodpłatne przekazanie na własność nieruchomości lub ich części, które były własnością kościelnych osób prawnych działających do 1945 r. na Ziemiach Zachodnich Północnych, w celu przywrócenia w nich sprawowania kultu religijnego, działalności oświatowo-wychowawczej, charytatywno-opiekuńczej opiekuńczowychowawczej.
-
-2. W razie niemożności dokonania regulacji, o której mowa w ust. 1, postępowanie ulega umorzeniu.
-
-**Art. 38c.** Majątek nieruchomy, przekazany na własność gminie w trybie ustawy z dnia 10 maja 1990 r. – Przepisy wprowadzające ustawę o samorządzie terytorialnym ustawę o pracownikach samorządowych (Dz. U. poz. 191, z późn. zm. ), podlega postępowaniu, o którym mowa w art. 38a 38b.
-
-**Art. 38d.**
-
-1. Minister właściwy do spraw wyznań religijnych po zasięgnięciu opinii władz kościołów, o których mowa w art. 38a ust. 1 pkt 1–4, określi, w drodze rozporządzenia, liczebność Komisji, szczegółowy tryb postępowania regulacyjnego oraz wynagrodzenie dla członków Komisji personelu pomocniczego, uwzględniając w szczególności organizację pracy Komisji, zadania współprzewodniczących orzekania nadawania klauzul wykonalności orzeczeniom ugodom.
-
-2. Komisja rozpatruje sprawy w zespołach orzekających, w skład których wchodzi po dwóch członków wyznaczonych przez ministra właściwego do spraw wyznań religijnych władze kościoła lub związku wyznaniowego, którego wniosek dotyczy.
-
-3. Postępowanie regulacyjne wszczyna się z chwilą złożenia wniosku w Komisji. Zespół orzekający po otrzymaniu wniosku o wszczęcie postępowania regulacyjnego bada, czy jest ono dopuszczalne, a wniosek niedopuszczalny odrzuca.
-
-4. Postępowania sądowe lub administracyjne dotyczące nieruchomości, w stosunku do których wszczęto postępowanie regulacyjne, ulegają zawieszeniu, a sądy organy prowadzące postępowania administracyjne przekazują ich akta do Komisji.
-
-5. Uczestnikami postępowania regulacyjnego są, oprócz wnioskodawcy, wszystkie zainteresowane jednostki państwowe, samorządowe kościelne.
-
-6. Uczestnicy postępowania regulacyjnego mogą zawrzeć ugodę przed zespołem orzekającym. Jeżeli ugoda nie zostanie zawarta, zespół orzekający wydaje orzeczenie.
-
-7. Regulacja nie może naruszać praw nabytych przez niepaństwowe osoby trzecie, a w szczególności przez inne kościoły związki wyznaniowe oraz rolników indywidualnych.
-
-8. Ugody zawarte przed zespołem orzekającym, jak orzeczenia uwzględniające wniosek, powinny określać:
-
-- **1)** stan prawny nieruchomości;
-- **2)** związane z tym stanem obowiązki uczestników postępowania, a w szczególności obowiązek wydania nieruchomości w wyznaczonym terminie, jeżeli nie znajduje się ona we władaniu wnioskodawcy;
-- **3)** w razie przyznania odszkodowania, obowiązek termin zapłaty należnej z tego tytułu kwoty.
-
-9. Od orzeczenia zespołu orzekającego nie przysługuje odwołanie.
-
-**Art. 38e.**
-
-1. Ugody orzeczenia mają moc sądowych tytułów egzekucyjnych.
-
-2. Ugody orzeczenia stanowią podstawę do dokonywania wpisów w księgach wieczystych w ewidencji gruntów.
-
-**Art. 38f.**
-
-1. Postępowanie regulacyjne jest wolne od opłat. orzeczenia jest wolne od podatków opłat z tym związanych.
-
-**Art. 38g.**
-
-1. Jeżeli zespół orzekający nie uzgodni orzeczenia, zawiadamia o tym pisemnie uczestników postępowania regulacyjnego.
-
-2. Uczestnicy postępowania regulacyjnego mogą, w terminie sześciu miesięcy od otrzymania zawiadomienia, wystąpić o podjęcie zawieszonego postępowania sądowego lub administracyjnego, a jeżeli nie było ono wszczęte – wystąpić na drogę sądową pod rygorem wygaśnięcia roszczenia. Przy rozpoznawaniu sprawy sąd stosuje zasady określone w art. 38a 38b.
-
-### DZIAŁ IV Przepisy przejściowe końcowe
-
-**Art. 39.** (pominięty)
-
-**Art. 40.** Stosunki Państwa z kościołami innymi związkami wyznaniowymi działającymi na podstawie wpisu do rejestru mogą być regulowane w drodze odrębnej ustawy.
-
-**Art. 41.** Kościoły inne związki wyznaniowe działające w dniu wejścia w życie ustawy jako stowarzyszenia zwykłe mogą nabyć osobowość prawną, jeżeli spełnią wymagania określone w art. 30–32.
+**Art. 41.** Kościół w Polsce i jego osoby prawne prawo realizacji inwestycji sakralnych i nych. 2. jest budowa, rozbudowa, Dziennik Ustaw Nr 29 Poz. 154 budowa lub kaplicy, a adaptacja innego budynku na cele sakralne. 3. jest inwestycja osoby prawnej nie wymieniona w ust. 2. ,4. Inwes1ycje sakralne i ogólnie przepisom o planowaniu przestrzennym i prawa budowlanego, a w odniesieniu do budynków za bytkowych - przepisom o ochronie dóbr kultury.
 
 **Art. 42.**
 
-1. Osoby należące do kościołów innych związków wyznaniowych, których święta religijne nie są dniami ustawowo wolnymi od pracy, mogą na własną prośbę uzyskać zwolnienie od pracy lub nauki na czas niezbędny do obchodzenia tych świąt, zgodnie z wymogami wyznawanej przez siebie religii.
+1. Plany zagospodarowania przestrzennego inwestycje sakralne i oraz ka tolickie cmentarze wyznaniowe. Przeznaczenie terenu na te cele ustala w tych planach na wniosek biskupa diecezjalnego lub zakonnego.
 
-2. Osoby niepełnoletnie mogą korzystać z prawa określonego w ust. 1 na wniosek swych rodziców bądź opiekunów prawnych.
+2. Grunty lub mienie komunalne, a przeznaczone w planach zagospodarowania przestrzennego na cele wskazane w ust. 1, oddawane w wieczyste albo cielnym osobom prawnym na ich wniosek.
 
-3. Zwolnienie od pracy, o którym mowa w ust. 1 2, może być udzielone pod warunkiem odpracowania czasu zwolnienia, bez prawa do dodatkowego wynagrodzenia za pracę w dni ustawowo wolne od pracy lub pracę w godzinach nadliczbowych.
+3. Mienie gminne przeznaczone na te cele sprzedane za przez zebranie wiejskie, a na terenach miast - za przez naro stopnia podstawowego.
 
-4. Minister właściwy do spraw pracy oraz minister właściwy do spraw oświaty wychowania, minister właściwy do spraw szkolnictwa wyższego , w porozumieniu z określają szczegółowe zasady udzielania zwolnień, o których mowa w ust. 1 2.
+4. Biskupi diecezjalni lub zakonni realizacji inwestycji sakralnych i na okres lliirodowego planu podarczego.
 
-**Art. 43.** (pominięty)
+5. tryb i zakres uzgadniania, o którym mowa w ust. 4, terminy uzgadniania oraz w przypadkach losowych w drodze nia Minister Gospodarki Przestrzennej i Budownictwa w porozumieniu z Sekretariatem Konferencji Episkopatu Polski.
 
-**Art. 44.** (pominięty)
+**Art. 43.** Inwestycje sakralne i finan Sowane ze osób prawnych. 2. Przepisu ust. 1 nie stosuje do inwestycji ma na celu stworzenie warunków do dusz pasterstwa wojskowego oraz duszpasterstwa specjalnego w 3. Na i utrzymanie dóbr kultury cych osób prawnych udzie lane dotacje na podstawie prze pisów.
 
-**Art. 45.** Ustawa wchodzi w życie z dniem ogłoszenia .
+**Art. 44.** Nie pobiera za wie czyste gruntów oddanych pod charyta1ywno i punkty katechetyczne.
+
+**Art. 45.**
+
+1. Parafie prawo posiadania, nia oraz i poszerzania cmentarzy g,rzebalnych. Przepis ust. 1 ma zastosowanie do zako nów lub ich domów w odniesieniu do cmentarzy zakonnych.
+
+3. W gdzie nie ma cmentarzy ko munalnych, cmentarzy pochowanie na cmentarzach, o których mowa w ust. 1, na równych prawach innych
+
+4. Przepisy ust. nie ogólnych prze pisów o cmentarzach i chowaniu o planowaniu przestrzennym oraz o ochronie gruntów rolnych i Rozdzia! 8 Kultura oraz masowego przekazywania
+
+**Art. 46.** Dla zapewnienia warunków rozwoju kul tury osoby prawne pra: wo wydawania prasy, innych druków oraz za i posiadania wydawnictw, katolickiej agencji informacyjnej, poligraficznych, z zachowaniem w tym zakresie przepisów prawa. 2. W celu realizacji ust. 1 oso by prawne jako darowizny z zagranicy na potrzeby maszyny, i po ligraficzne oraz papier.
+
+**Art. 41.** Kościelne osoby prawne prasy lub z innej sieci
+
+**Art. 48.** Kościół ma prawo do emitowania w kach masowego przekazywania Mszy w niedziele i oraz swoich programów religijno-moralnych i kulturalnych. 2. Sposób realizacji ust. 1 reguluje porozumienie dzy Komitetem do Spraw Radia ,i Telewizji "Polskie Radio i Telewizja" a Sekretariatem Konferencji Episko patu Polski. 3. stacje radiowe te lewizyjne w porozumieniu z Ministrem Transportu, Leglu gi i
+
+**Art. 49.** Kościelne osoby prawne prawo za i prowadzenia teatrów, k'in, wytwórni filmów wytwórni innych audiowizualnych. 2. osoby prawne prawo dystrybucji i rozpowszechniania filmów i innych audiowi zualnych. 3. Korzystanie z praw, o których mowa w ust. 1 i 2, bez uzyskiwania i na jest prowadzona na potrzeby realizacji religijno-moralnych w sfe'rze kultury. O i prowadzeniu tej na powiadamia organ do udzielania takich i 4. osoby prawne lako: darowizny z zagranicy na potrzeby do prowadzenia okre w ust.
+
+**Art. 50.**
+
+1. osoby prawne prawo za i posiadania archiwów i muzeów.
+
+2. osoby prawne prawo do gromadze nia zbiorów bibliotecznych na cele i publicz ne. O publicznego zbiorów powiadamia do rejestracji bibliotek organ
+
+3. i jego osoby prawne bez potrzeby· uzyskiwania prawo organizowania i prowadze nia z jego kul turalnej i artystycznej.
+
+**Art. 51.** Instytucje w ochronie, konserwacji, i upowS'zechDziennik Ustaw Nr 29 - 464 Poz. 154 nianiu zabytków architektury i sztuki sakralnej oraz ich dokumentacji, muzeów, archiwów i bibliotek a dziel kultury i sztu ki o motywach religijnych, dziedzictwa kultury polskiej. III Sprawy osób prawnych
+
+**Art. 52.** Kościołowi i jego osobom prawnym guje prawo nabywania, posiadania i zbywania mienia ru chomego i nieruchomego, nabywania i zbywania innych praw oraz swoim
+
+**Art. 53.**
+
+1. osoby prawne zwolnione od uzyskania zezwolenia na spadku, za pisu i darowizny.
+
+2. przedmiotem darowizny od osób fizycznych i osób prawnych jest zwol nienie, o którym mowa w ust. 1, ma zastosowanie wów czas, gdy aktu darowizny jest prze znaczona na o której mowa wart. 41 ust. 2, i z dom die cezjalny, parafialny i zakonny oraz cmentarz, cha lub
+
+3. Zezwolenie na zawarcie umowy nie: jest wymagane, przedmiotem umowy jest przeznaczona na inwestycje, o kt6rych mowa w ust. 2. .4. Przepisy ust. nie innych przeplsow ustawowych ograniczenia w zakresie obro tu
+
+**Art. 54.**
+
+1. W obrocie cielnymi osobami prawnymi nie stosuje prawa pierwo kupu na rzecz Skarbu
+
+2. Przy nabywaniu lub ich przez osoby prawne od osób trzecich prawo pierwo kupu stosowane jedynie w przypadkach, gdy inwestor lub o ustaleniu lokalizacji inwestycji mieszkaniowej na tej lub tej
+
+**Art. 55.**
+
+1. i przychody osób prawnych ogólnym przepisom podatkowym z w ust. 2-6.
+
+2. osoby prawne zwoln"ione od opodat kowania z przychodów ze swojej nie gospodarczej. W tym zakresie osoby te nie ku prowadzenia dokumentacji wymaganej przez przepisy o podatkowych.
+
+3. Dochody z gospodarczej osób prawnych oraz których wy te osoby, zwolnione od opodatkowania w w jakiej przeznaczone w roku podatkowym lub w roku po nim na cele kultowe, wychowawcze, naukowe, kulturalne, charyta punkty katechetyczne, za bytków oraz na inwestycje sakralne, o których mowa w art. 41 ust. 2, i te inwestycje o których mowa wart. 41 ust. których przedmiotem punkty kateche tyczne i jak remonty tych obiektów. osoby prawne zwolnione od opodat kowania i od na fundusz gminny i fundusz miejski, od lub ich tych osób lub przez nie na podsta wie innego prawnego na cele niemieszkalne, z wy zajmowanej na wykonywanie gospodarczej.
+
+5. Zwolnienie od opodatkowania podatkiem od nie oraz od na fundusz gminny i fun dusz miejski obejmuje lub ich prze znaczone na cele mieszkalne duchownych i za konu,
+
+- **1)** one wpisane do rejestru zabytków,
+- **2)** jako internaty przy i seminariach du chownych, domy zakonów kontemplacyjnych, domy formacyjne zakonów domy emerytów (siósir emerytek),
+- **3)** w budynkach kurii diecezjalnych i bis kupich, zakonnych generalnych i prowin icjalnych w Sekretariacie Prymasa Polski i w Sekre 'tariacie Konferencji Episkopatu Polski. Nabywanie i zbywanie rzeczy i praw przez osoby prawne w drodze praw nych oraz spadkobrania, zapisu i zasiedzenia jest zwol nione od podatku od spadków i darowizn oraz skarbowej, ich przedmiotem
+- **1)** .rzeczy i prawa nie przeznaczone do gos podarczej,
+- **2)** sprowadzane z zagranicy maszyny, i ma poligraficzne oraz papier. 7_ Darowizny na charytatywno z podstawy opodatkowania podatkiem dochod owym i podatkiem wyrów nawczym, osoba prawna przedstawi dar cZyl1cy pokwitowanie odbioru oraz - w okresie dwóch lat od dnia przekazania darowizny - sprawozdanie o prze znaczeniu jej na W odniesieniu do daro wizn na inne cele zastosowanie ogólne przepisy po datkowe.
+
+8. jednostki organizacyjne, o których mowa wart. 12, na wniosek osoby prawnej uznane przez za pod mioty podatkowe, organizacyjnie
+
+9. Nabywanie rzeczy i praw o których mowa w ust. jest zwolnione od i no tarialnych, z kancelaryjnych. Art. Wolne od celnych
+
+- **1)** z zagranicy dla osób praw nych dary:
+    - **a)** przeznaczone na cele kultowe, charytatywno i
+    - **b)** maszyny, i poligraficzne oraz papier,
+
+- **2)** przez osoby prawne za dary: Dziennik Ustaw Nr Poz. 154 Art. Na wniosek osób prawnych wszczyna zwane dalej regulacyjnym", w przedmiocie przywrócenia im lub ich nie we osób prawnych o których mowa wart. ust. pkt chyba 'One w dniu w ustawy we innych wyznaniowych, w toku wykonywania ustawy o dobrach martwej nie wydzielono z nich w tej ustawy gospodarstw rolnych proboszczów lub gruntów, o których mowa w aneksie do proto Komisji Wspólnej i Episkopatu z dnia kwietnia r., które do zakonów bezhabitowych i stowarzy· a w toku likwidacji dokonanej na podstawie Ministra Administracji Publicznej z dnia marca r. w Isprawie przystosowania do przepisów prawa o stowarzyszeniach (Dz. U. Nr poz. mienia fundacji po r. w trybie egzekucji podatkowych, odszkodowanie za wywlasz· nie lub nie we jednostek orga nizacyjnych bez prawnego, bez na ustawodawstwo te prze Przedmiotem regulacyjnego przekazanie lub ich w celu przywrócenia w nich sprawowania kultu reli gijnego lub osób prawnych w zakresie, o którym mowa wart. i których stan prawny nie jest ustalony, nie sto temu na przeszkodzie prawa osób trzecich. W odniesieniu do na obszarze dekretem z dnia r. o i gruntów na obszarze m. st. Warszawy (Dz. U. Nr poz. przedmiotem powania regulacyjnego jest przywrócenie bu dynków wraz z ustanowieniem wieczystego odpowiednich gruntów.
+    - **a)** na rzecz zagranicznych i insty tuc ji Katolickiego,
+    - **b)** przeznaczone dla ofiar i osób w szczególnej potrzebie.
+
+4. Regulacja nie przepisów ustawy z dnia stycznia r. o prze· na podstawowych gos podarki narodowej (Dz. U. Nr poz. Nr poz. i Nr n, poz. z r. Nr poz. oraz z r. Nr IPOZ. przepisów ustawy o dobrach martwej z zastrze przepisów art. ust. pkt i art. ust. pkt 2, praw nabytych przez osoby trzecie, w przez inne i wyzna I1)OWe oraz folpików indywidualnych.
+
+**Art. 62.**
+
+1. regulacyjne przeprowadza Komisja zwana dalej z przedstawicieli wyznaczonych w równej liczbie przez do Spraw WyznalI i Sekretariat Konferencji Episko patu Polski. Uczestnikami regulacyjnego oprócz wnioskodawcy wszystkie zainteresowane jednostki i Wnioski o regulacyjnego w terminie lat od dnia w usta wy. Roszczenia nie w tym terminie lub administracyjne doty o których mowa wart. ulega zawieszeniu, i organy administracji ich akta do Spraw w celu Komisji.
+
+5. Komisja rozpatruje sprawy w cych, w których wchodzi po dwóch wy znaczonych przez do Spraw i Sekretariat Konferencji Episkopatu Polski oraz po jednym przedsta wicielu organów nad uczestnikami wania. Przedstawicielem tym nie osoba repre uczestnika. po otrzymaniu wniosku o regulacyjnego bada, czy jest ono dopuszczalne, a wniosek niedopuszczalny odrzuca.
+
+7. ze na szczególne do Komisji o rozpatrzenie sprat".,-y przez jej wraz z przedstaw'icielami organów nad uczestnikami Do 'Orzecze nia Komisji wydanego przez jej stosuje przepisy ustawy regulacyjne jest wolne od Komisji, tryb nia regulacyjnego oraz wynagrodzenie dla Ko misji i personelu pomocnIczego Minister-Kierow nik do Spraw w porozumieniu z Sekreta riatem Konferencji Episkopatu Polski. Art. Regulacja może na: przywróceniu osobom prawnym wymienionych wart. ust. lub ich przyznaniu odpowiedniej zamiennej, gdyby przywrócenie na trudne do przeszkody, przyznanIu odszkodowania ustalonego prze ipisów o w razie nie dokonania regulacji przewidzianych w pkt i Regulacja do rolnych na przez wydzielenie która wraz gruntami rolnymi wnioskodawcy gospodarstwa indy widualnego w danym województwie. W toku regulacyjnego doko regulacji granic a w po· trzeby lub dotychczas
+
+4. Uczestnicy przed ugoda nie zaDziennik Ustaw Nr 29 - 467 Poz. 154 warta, ten wydaje orzeczenie. Ugody i orzeczenia moc egzekucyjnych.
+
+5. Orzeczenie wniosek, jak i ugoda zawarta przed powinny
+
+- **1)** stan prawny
+- **2)** z tym stanem uczestników powania, w wydania w ozna czonym terminie nie znajduje ona we wnioskodawcy,
+- **3)** w razie przyznania odszkodowania ty z teg'o sumy.
+
+6. Wnioskodawca zrzec prawa nierolniczej zamiennej na rzecz innej cielnej osoby prawnej, za jej Zrzeczenie to do ugody lub orzeczenia.
+
+7. Orzeczenie jak i ugoda do do konania wpisów w wieczystych i w ewidencji gruntów. Przepis art. 60 ust. 7 stosuje odpowiednio.
+
+8. Od orzeczenia nie guje
+
+9. Rada Ministrów, w drodze z mienia których jednostek organizacyjnych lub mienia komunalnego nierucho w celu jej przekazania jako zamienna lub na odszkodowania.
+
+**Art. 64.** Jeżeli lub Komisja w n'ie orzeczenia, zawiada o tym pisemnie uczestników regula cyjnego. 2. Uczestnicy regulacyjnego w terminie od otrzymania zawiadom'ienia, o zawieszonego go lub administracyjnego, a nie ono do o rOszczenia. Przy rozpozna niu sprawy stosuje zasady wymienione wart. 63 ust. W przypadku braku do w tym okresie, roszczenie wygasa.
+
+**Art. 65.** Sytuację zdro wia, które osób prawnych i Rady Ministrów na oraz przez te za umowy organem administracji nadzór nad a cielem prowadzi lub inna osoba prawna, jest ona um·owy. 2. Umowa powinna
+
+**Art. 66.** Przydziały lokali w trybie prze pisów o szczególnym trybie najmu na rzecz jednostek organizacyjnych lub organizacji politycznych, zawodowych, lub w nierucho osób praw nych moc z dwóch lat dnia w ustawy. 2. W terminie w ust. 1 zwrot lokalu w stanie wolnym lub strony umo najmu lokalu lub o przenie-sienie 3. strony do porozumienia w sprawie najmu lokalu, lecz nie czyn szu, z nich w tej sprawie do
+
+**Art. 67.** Na wniosek jednostek orga n'izacyjnych wszczyna regulacyjne doty lub ich które tych jednostek i nie wymienione wart. 60, a znaj we osób prawnych bez ty prawnego. 2. regulacyjne lokaloi, na które osoby prawne przy lokali lub budynków w trybie przepisów o szcze gólnym trybie najmu, lokale lub budynki te dla nich 3. Przepisy art. 66 ust. 2 i 3 stosuje odpowiednio.
+
+**Art. 68.**
+
+1. Wnioski w terminie lat od dnia w ustawy, o wpisy do wieczystych na rzecz osoby prawnej lub z prawa oraz te wpisy wolne od a praw wolne podatku.
+
+2. Przepis ust. 1 ma zastosowanie do dania wieczystych, poprzednie wie czyste moc a znaczenie doku mentów.
+
+**Art. 69.** W okresie dwóch lat od dnia w cie ustawy darowizny d'okonane przez duchownych na, rzecz -osób prawnych, ich przedmiotem w zwolnione opodatkowania, skarbowych, i notarialnych, z kancelaryjnych.
+
+**Art. 70.** Przepis art. 44 stosuje do nie w dniu w usta wy w wieczystym osób praw nych z przeznaczeniem na cze i punkty ka"techetyczne. 2. Przepis art. 42 ust. 2 stosuje do nie w dniu w usta wy w wieczystym osób prawml w i Dziennik Ustaw Nr 29 - 469
+
+**Art. 75.** Do czasu wydania przepisów wykonaw czych, o których mowa wart. 19 ust. 2, art. 20 ust. 2, art. 21 ust. 2, art. 30 ust. 3 i art. 42 ust. 5, w mocy przepisy dotychczasowe. 2. moc inne akty prawne w sprawach uregu lowanych 4 Przepisy
+
+**Art. 76.** Tracą moc:
+
+**Art. 5.** Obywatele prawo do swobodnego na rzecz i innych wyzna niowych oraz instytucji
+
+**Art. 6.**
+
+1. Nikt nie dyskryminowany uprzywilejowany z powodu religii lub w spra wach religii.
+
+2. Nie wolno obywateli do niebrania w lub religijnych ani do w nich.
+
+**Art. 7.**
+
+1. Cudzoziemcy na terytorium Polskiej Rzeczypospolitej Ludowej z sumienia i wyznania na równi z obywatelami polskimi.
+
+2. Przepis ust. 1 stosuje odpowiednio do stwowców. II Stosunek do i innych wyznaniowych l Przepisy ogólne
+
+**Art. 8.** Kościoły i inne wyznaniowe w Polsce w konstytucyjnych ramach ustrojowych Polskiej Rzeczypospolitej Ludowej; ich i ustawy.
+
+**Art. 9.**
+
+1. "V Polskiej Rzeczypospolitej Ludowej sto sunek pallstwa do wszystkich i innych ków wyznaniowych opiera na poszanowaniu sumienia i wyznania.
+
+2. Gwarancjami sumienia i wyznania w sto sunkach z i innymi wyzna niowymi
+
+- **1)** oddzielenie i innych wyznanio wych od
+- **2)** swoboda przez i inne wyznaniowe funkcji religijnych,
+- **3)** równouprawnienie wszystkich i innych wyznaniowych, bez na forme: ure gulowania ich sytuacji prawnej. Poz. 155
+
+**Art. 10.**
+
+1. Polska Rzeczpospolita Ludowa jest stwem neutralnym w sprawach religii i prze
+
+2. i jednostki organizacyjne nie i nie i innych wyznaniowych. od tej zasady ustawy lub przepisy wydane na ich podstawie.
+
+**Art. 1.** Kościoły i inne wyznaniowe od panstwa przy wykonywaniu swoich funkcji religijnych. 2. i inne wyznaniowe oraz ich dzia ochronie prawnej, w granicach nych w ustawach. 3. i inne wyznaniowe wnioski do Konstytucyjnego na zasadach i w trybie w przepisach o Trybunale Konstytu cyjnym.
+
+**Art. 12.**
+
+1. Duchowni oraz osoby zakonne i innych wyznaniowych z praw i na równi z innymi obywatelami we wszystkich dziedzinach politycz nego, gospodarczego, i kulturalnego. oni w ramach przepisów ustaw zwolnieni z nie do pogodzenia z funkcji duchownego lub osoby zakonnej.
+
+2. Osoby, o których mowa w ust. 1, prawo do noszenia stroju duchownego.
+
+3. Sprawy ubezpieczell duchownych re guluje ustawa.
+
+**Art. 13.**
+
+1. i przychody i innych wyznaniowych ogólnie cym przepisom podatkowym, z w ustawach.
+
+2. Osoby prawne i innych wy znaniowych zwolnione od opodatkowania z przy chodów ze swojej niegospodarczej. W tym zakresie osoby te nie prowadzenia doku mentacji wymaganej przez przepisy podatkowe.
+
+3. Osoby prawne i innych wy znaniowych zwolnione od uzyskiwania ze na spadku, zapisu i darowizny. przedmiotem spadku, zapisu lub darowizny jest nierucho zwolnienie ma zastosowanie, gdy testamentu lub aktu darowizny jest przeznaczona na lub z
+
+4. Zezwolenie na zawarcie umowy nie jest wymagane, przedmiotem umo wy jest przeznaczona na lub z
+
+5. Dochody z gospodarczej osób praw nych i innych wyznaniowych oraz których te osoby, zwolnione od opodatkowania w w jakiej przeznaczone w roku podatkowym lub w roku po nim na na cele kultowe, naukowe, kulturalne, punkty katechetyczne, zabytków oraz na inDziennik Ustaw Nr 29 Poz. 155 westycje sakralne i inwestycje których przed miotem punkty katechetyczne i charytatywno jak remonty tych obiektów.
+
+6. Osoby prawne i innych wy znaniowych zwolnione od opodatkowania i od na fundusz gminny i fundusz miejski, od nierucho lub ich tych osób lub przez nie na podstawie innego prawne go na cele niemieszkalne, z ujmowanej na wykonywanie gospodiuczej.
+
+7. Wolne od celnych z zagranicy dla osób prawnych i innych wyzna niowych dary:
+
+- **l)** przeznaczone na cele kullowe, cze i
+- **2)** maszyny, i poligraficzne oraz papier.
+
+**Art. 1.** Jeżeli ustawa lub ratyfikowana umowa nie inaczej, lub innego wyznaniowego organ administracji o utworzeniu, zmianie nazwy, siedziby, granic lub podziale i zniesieniu diecezji i porównywalnych jednostek organizacyjnych) oraz parafii (zborów, gmin i porówny walnych jednostek organizacyjnych). 2. ustawa lub ratyfikowana umowa nie inaczej, lub innego wyznaniowego wy organ administracji o i odwo osoby kierowniczym organem wykonawczym w lub innym wyznaniowym. 3. Przepis ust. 2 stosuje odpowiednio do jednostek organizacyjnych, o których mowa w ust. 4. ustawa lub ratyfikowand umowa nie inaczej, przed na stanowiska, o których mowa w ust. 2 i 3, cudzoziemca, lub innego wyznaniowego winny czy Minister--Kierownik do Spraw nie wobec tego w terminie trzydziestu dni od daty powiado mienia za zgody.
+
+**Art. 15.** W sprawach, o których mowa wart. 14, organem administracji jest:
+
+**Art. 16.**
+
+1. z inny mi wyznaniowymi w zachowaniu pokoju, towaniu warunków rozwoju kraju oraz zwalczaniu pato logii
+
+2. W celach, o których mowa w ust. l, oraz do rozpa trywania problemów z rozwojem stosunków a poszcze9'ólnymi i innymi wyznaniowymi na zasadach wza jemnego uzgodnienia, tworzone w tym formy Przepis ten nie narusza orga nów oraz organów i innych ków wyznaniowych.
+
+**Art. 17.** Państwo z i innymi wyznaniowymi w ochronie, konserwacji, udo i upowszechnianiu zabytków architektury, sztu ki i literatury religijnej, które dziedzictwa kultury. Art. Przepisy rozdziału 2 i III stosunek tylko do tych i innych ków wyznaniowych, których sytuacja prawna nie jest uregulowana ustawami. 2. Przepisy 2 uprawnienia i innych wyznaniowych zastosowanie do innych wyznanio wych o ustawowo uregulowanej sytuacji wówczas, gdy ustawy w ust. 1 nie takich 2 i innych wyznaniowych
+
+**Art. 19.** Kościoły i inne wyznaniowe ko na zasadach równouprawnienia ze swobody nienia funkcji religijnych. 2. funkcje religijne inne wyznaniowe w
+
+**Art. 20.** Kościoły i inne wyznaniowe religii oraz religijnie dzieci i zgodnie z wyborem dokonanym przez ich rodzi ców lub opiekunów prawnych. 2. Nauczanie religii dzieci i jest i innych wyznaniowych. Jest ono organizowane, zgodnie z programem ustalonym przez lub innego wyznaniowego, w punktach katechetycznych w domach modlitw i innych pomieszczeniach nionych na ten cel przez do dyspono wania nimi. 3. Minister Eduk.acji Narodowej, w drodze dzenia, zasady i sposób godzenia szkolnych z z religii.
+
+**Art. 21.** Kościoły i inne wyznaniowe prawo i oraz inne placówki i opiekuilczo-wychowawcze na zasadach w ustawach. 2. Rodzaje i placówek wymienionych w ust. 1 i zasady ich tworzenia oraz warunki prowadzenia i nad zoru nad nimi Minister Edukacji Narodowej w porozumieni'u z lub innego wy znaniowego; zasady ich dotowania.
+
+**Art. 22.** Kościoły i inne wyznaniowe prawo i samodzielnie ustalo nych programów, duchowne i seminaria duchowne. 2. W zakresie realizacji programu i uzyskiwania du chowne wymienione w ust. 1 nadzorowi Mini stra Edukacji Narodowej. 3. Tworzenie i prowadzenie przez i inne wyznaniowe oraz tryb i zakres uznawania przez stopni i naukowych na dawanych w tych na wniosek ustawy. 4. i inne wyznaniowe prawo religijne instytuty naukowe i naukowo-dydak tyczne.
+
+**Art. 23.** Zakres stosowania do nauczycieli i wycho wawców oraz w o których mowa wart. 21 oraz art. 22 ust. 3, i spo oraz przewidzianych dla pracowników i uczniów w Minister Edukacji Narodowej w porozumieniu z i innych wyznaniowych, chyba przepis ustawy stanowi inaczej. Poz. 155
+
+**Art. 24.**
+
+1. W celu realizacji charytatyw i inne wyznaniowe prawo i na zasadach w ustawach, odpowiednie instytucje, w tym dla osób opieki, szpitale i inne lecz nicze, i schroniska dla dzif:ci.
+
+2. na charytatywno w z:
+
+- **1)** ofiar i w naturze,
+- **2)** spadkow, zapisów i darowizn krajowych zagranicz nych,
+- **3)** dochodów z imprez i zbiórek publicznych,
+- **4)** subwencji, dotacji i ofi<II od krajowych instytucji i pdl1stwowych, wyznaniowych i prywatnych,
+- **5)** za przez instytucje chainnych wyznaniowych,
+- **6)** dochodów instylucji innych wyznaniowych.
+
+**Art. 25.** W celu realizacji swoich funkcji i inne wyznaniowe prawo wydawania prasy, druków oraz i posiadania wydawnictw oraz poligraficznych, z zachowaniem w tym zakresie przepisów prawa. 2. i inne wyznaniowe organi prasy lub z twa innej sieci 3. Dla realizacji ust. 1 i inne wyznaniowe jako darowizny z zagranicy maszyny, poligraficzne papier. 4. l mne wyznaniowe pruwo do emitowania w radiu i telewizji programów religijno -moralnych i kulturalnych, w sposób w porozu mieniu danego lub innego wyznaniowego a Komitetem do Spraw Radia i Telewizji "Polskie Radio i Telewizja".
+
+**Art. 26.** Kościoły i inne wyznaniowe prawo organizowania i prowadzenia z nianiem swoich funkcji kulturalnej i artystycz nej. 2. Dla realizacji prawa, o którym mowa w ust. l, i inne wyznaniowe i pro odpowiednie instytucje oraz i rozpo wszechnianie filmów. 3. Korzystanie z praw, o których mowa w ust. 1 i 2, bez uzyskiwania i ta prowadzona jest na potrzeby realizacji religijno-moralnych w sferze kultury. O i prowadzeniu tej lub innego wyznaniowego wy organ, do udzielania takich i 'upo 4. Dla realizacji ust. 1 i 2 i inne wyznaniowe jako darowizny z zagranicy i Dziennik Ustaw Nr Poz. 155 Art. Dzialalność kościołów i innych wyznaniowych nie przepisów ogólnie obo ustaw publiczne, zdrowie lub albo podsta wowe prawa i innych osób. Korzystanie przez i inne wyzna niowe ze swobody odbywa zgodnie z ogólnie przepisami, chyba ustawy inaczej. Art. W sprawach i inne wyznaniowe poprzez swoje osoby prawne. Osoby prawne i innych wy znaniowych, ich organy, zakres kompetencji i sposób po oraz reprezentacji statuty (prawo wezwane dalej "statutami"). ' Art. W stosunku do organizacji tworzonych na podstawie art. pkt nie prawnej, nie stosuje Prawa o stowarzyszeniach. Nato miast przepisy ustawy o zgromadzeniach stosuje do nich jedynie w zakresie na drogach placach publicznych oraz w budynkach Organizacje, o których mowa w ust. w ramach osób prawnych i innych wy znaniowych, w których i innych wyznanio wych nad tych organizacji z ich celami religijnymi i moralnymi. III Tworzenie innych wyznaniowych Art. Prawo tworzenia i innych ków wyznaniowych jest realizowane przez w do Spraw Wyznali deklaracji oraz wpis do reje stru i innych wyznaniowych, zwa nego dalej "rejestrem".
+
+**Art. 31.** Prawo deklaracji, o której mowa w art. 30, co najmniej 15 o"bywatelom polskim do prawnych.
+
+**Art. 32.** Deklaracja, o której mowa wart. 30, po winna
+
+**Art. 34.** Jeżeli nie wskazane wart. 33, Minister-Kierownik do Spraw wydaje, w terminie dwóch od dekla racji, o wpisie do rejestru. 2. Z wpisu do rejestru lub inny zek wyznaniowy uzyskuje, jako oraz korzysta z wszystkich i podlega kom w ustawach. 3. Przepis ust. 2 stosuje odpowiednio do jednostek organizacyjnych, zakonów i diakonatów, o których mowa wart. 32 ust. 3. 4. Do i innych wyznaniowych wpisanych do rejestru stosuje odpowiednio przepisy art. 14 i 15.
+
+**Art. 35.** Zmiany statutu lub innego wyznaniowego wpisanego do rejestru dokonuje w try bie przy ich tworzeniu.
+
+**Art. 36.** Wykreśleniu z rejestru podlega:
+
+**Art. 10.** Zasiłki rodzinne i przy w i na zasadach w przepi sach o ubezpieczeniu rodzinnym.
+
+**Art. 11.** Świadczenia emerytalne na zasadach i w w przepisach o zaopa trzeniu emerytalnym pracowników i ich rodzin, z zastrze ust. 2. takie od nadal funkcji w kraju lub za 2. Wiek wymagany do przyznania emerytury wynosi 60 lat dla kobiet i 65 lat dla 3. Renta inwalidzka w razie zaliczenia do I lub II grupy inwalidów.
+
+**Art. 12.** Do emerytur i rent, o których mowa w art. 11, dodatki:
+
+**Art. 13.** Renta inwalidzka, renta rodzinna i jedno razowe odszkodowanie z wypadku oraz w razie cho roby zawodowej na zasadach i w w przepisach o z wy padków przy pracy i chorób zawodowych, z niem ust. 2. Za wypadek, o którym mowa w ust. l, zdarzenie które podczas wykonywania religijnych lub z powierzonymi funkcjami duszpas terskimi zakonnymi, jak w drodze do miej sca ich lub z tego miejsca. 3. Za choroby zawodowe choroby ne w przepisach wydanych na podstawie Kodeksu pracy. 4. Renta inwalidzka w razie zaliczenia do I lub II grupy inwalidów.
+
+**Art. 14.** Do rent inwalidzkich i rent rodzinnych, o których mowa wart. 13, dodatki:
+
+**Art. 15.** Okoliczności i przyczyny wypadku, o któ rym mowa wart. 13 ust. 2, bada i ustala instytu cja diecezjalna lub zakonna. 2. Duchowny, który wypadkowi, jest zany o wypadku die lub Poz. 156 3. Po uzyskaniu o wypadku od poszkodo wanego lub z innych instytucja diecezjalna lub zakonna wypadku, na poszkodowanego, zeznaniach innych dowodach. 4. Karta wypadku powinna
+
+**Art. 16.** W sprawach i stwierdzania cho rób zawodowych stosuje odpowiednio przepisy wydane na podstawie Kodeksu pracy.
+
+**Art. 17.** Zasiłek pogrzebowy
+
+**Art. 18.** Świadczenia w naturze z pobierania emerytury lub renty w zakresie i na zasadach przewidzianych w przepisach o zaopatrzeniu emerytalnym pracowników i ich rodzin. 19. Zadania w zakresie ubezpieczenia wykonuje a w naturze jednostki organizacyjne zdrowia opieki
+
+**Art. 20.** Ilekroć przepisy nych z ubezpieczenia w razie choroby i ma oraz o zaopatrzeniu emerytalnym pracowniUstaw Nr 29 - 478 - Poz. 156 ków i ich rodzin prawo do lub ich od posiadania ustalonego okresu zatrudnienia przy ustalaniu na podstawie ustawy przez taki okres rozumie okres ubezpieczenia i okresy zaliczane do okresu ubezpieczenia. 2. przepisy o zaopatrzeniu emerytalnym pra cowników i ich rodzin prawo do od wieku emerytalnego lub powstania inwa lidztwa w okresie zatrudnienia albo po jego ustaniu przy ustalaniu prawd do dla duchownych przez taki okres rozumie okres ubezpieczenia.
+
+**Art. 21.** Za okres ubezpieczenia art. 20 kalendarzowe, pieczony na ubezpieczenie zwolnienie od w rozumieniu za które ubez lub w których 2. Do okresów ubezpieczenia zalicza okresy:
+
+**Art. 22.**
+
+1. wymiaru emerytury lub renty stanowi kwota podstawie wymiaru z ostatniego ubezpieczenia.
+
+2. kwota podstawy wymiaru na ubez pieczenie w art. 28 ust. 3 do nie mie wynagrodzenia w gospodarce z roku wymiaru emerytury stanowi kwota podstawie wymiaru z okresu ostatnich 24 ubezpie czenia, a ubezpieczenie krócej - z faktycz nego okresu ubezpieczenia, nie jednak od kwoty ustalonej na podstawie ust.
+
+3. kwota podstawy wymiaru na ubez pieczenie zgodnie z art. 28 ust. 3, do wymiaru, o której mowa w ust. 2, wymiaru emerytury stanowi kwota podstawie wymiaru z okresu ostatnich 5 lat ubezpieczenia, a ubezpieczenie krócej - z faktycznego okresu ubezpieczenia, nie jednak od kwoty ustalo nej na podstawie ust.
+
+4. duchowny ubezpieczeniem SpD· pracowników, przy ustalaniu podstawy wymiaru emerytury lub renty na jego wniosek, wynagrodzenie za okres kolejnych 24 zatrudnienia, wybranych przez zainteresowu nego z ostatnich 12 lut zatrudnienia.
+
+**Art. 23.** Podstawę wymiaru chorobowego pogrzebowego w razie ubezpieczonego lub rodziny stanowi kwota podstawy wymiaru na ubezpieczenie za kalendarzowy, w któ rym prawo do 2. W razie na wniosek duchownego, podstawy wymiaru w ostatnich 12 ubezpieczenia w którym prawo do wymiaru chorobowego i pogrzebowego stanowi kwota podstawie wymiaru z tego okresu ubezpieczenia, a ubezpieczenie krócej - z faktycznego okresu ubezpieczenia.
+
+**Art. 24.** Podstawa wymiu.ru emerytury, renty inwa lidzkiej i renty rodzinnej ulega corocznym na zasadach i w terminach w przepisach o zaopa trzeniu emerytalnym pracowników i ich rodzin.
+
+**Art. 25.** Do zawieszenia prawa do emery talnych i ich zmniejszenia stosuje zasady w przepisach o zaopatrzeniu emerytalnym pracowników ich rodzin.
+
+**Art. 26.** Do w sprawach ustalenia z ubezpieczenia, zJ.sad ich realizacji oraz obo osób takie stosuje zasady w przepisach, na których podstawie ustala odpowiednie chyba przepisy ustawy inaczej. 3 do ubezpieczenia i na ubezpieczenie Art. Osoby wymienione wart. 1 ust. 2, art. 2 ust. 3 oraz art. 4 do ubezpieczenia za swojej zwierzchniej instytucji diecezjal nej lub zakonnej. 2. Po do ubezpieczenia zawiadamia o dacie, od której osoba duchow na ubezpieczeniem, o kwocie podstawy wy miaru na ubezpieczenie i o jej wyso oraz w'ydaje 3. Prezes ustala wzory do ubezpieczenia, tryb dokonywania wzory legitymacji ubezpieczeniowych, tryb wyda wania tych legitymacji oraz sposób dokonywania w nich zapisów.
+
+**Art. 28.** Podstawę wymiaru stanowi:
+
+**Art. 29.** Składka na ubezpieczenie, pokrywana przez ubezpieczonych, wynosi:
+
+**Art. 30.** Składki na ubezpieczenie za ubezpieczenia. 2. powstaje od pierw szego dnia wskazanego w do ubezpie czenia, o którym mowa wart. 27 ust. l, nie od dnia ustawy w 3. ustaje z kalendarzowego w którym:
+
+**Art. 31.** Składkę na ubezpieczenie
+
+**Art. 32.** Od nie w terminie na ubezpieczenie pobiera odsetki za na zasadach i w przepisami o podatkowych. 2. na ubezpieczenie nie przymusowemu w trybie egzeku cyjnego.
+
+**Art. 33.** W razie zalegania z na ubezpieczenie na trzy o których mowa wart. 7 ust. 1 pkt nie za okres do czasu nia wraz z odsetkami. 2. osoba duchowna, która prawo do po bierania emerytury lub renty inwalidzkiej, nie na ubezpieczenie za okres nabycie tego prawa, z na zasadach ustalonych w przepisach o zaopatrzeniu emerytalnym pracowników i ich rodzin w zakresie cania zaliczek na poczet 3. Przepis ust. 2 stosuje odpowiednio do renty ro dzinnej po ubezpieczonym, z na ubezpieczenie. 4 Przepisy szczególne,
+
+**Art. 34.** Niezależnie od ubezpiecze nia duchownych, w niniejszej ustawie, osoby prawne Katolickiego oraz innych i wyznaniowych na rzecz duchow nych. ta nie stanowi gospodarczej w rozumieniu przepisów podatkowych.
+
+**Art. 35.** Świadczenia w ustawie z wYlPadku, o którym mowa wart. ust. 2, gdy wypadek po ustawy w 2. w ustawie z choroby zawodowej uszczerbek na zdrowiu, spo wodowany stwierdzony po ustawy w 3. chorobowy z choroby przed dniem ustawy w od dnia jej w jednak okres liczy od daty powstania do pracy. Dziennik Ustaw Poz. 4. pogrzebowy na po ustawy w ustalonej od podstawy wymiaru, o której mowa w art. ust. pod warunkiem przez
+
+**Art. 36.** Osobom, które do dnia weJscla ustawy w okres od dnia ustawy w wiek emerytalny lub inwalidami I lub II grupy, przyznaje lub w wy na podstawie przepIsowo zao patrzeniu emerytalnym pracowników i ich rodzin, bez ustalonej od podstawy wymiaru, o której mowa w art. ust. pod warunkiem przez okres od dnia ustawy w Art. Koszty ubezpieczenia duchownych, o których mowa wart. pkt w pokrywa Fundusz cielny.
+
+**Art. 38.** Ustawa wchodzi w z dniem 1 lipca r. Rady w z. K. Barcikowski Sekretarz Rady Surowiec 157 z dnia maja r. w sprawie procentu odpisów amortyzacyjnych na dochody Funduszu 'Zmian Strukturalnych w i Funduszu Rozwoju Budownictwa Mieszkaniowego w latach Na podstawie art. ust. ustawy z dnia nika r. o Funduszu Zmian Strukturalnych w Prze U. Nr poz. i z r. Nr poz. oraz art. ust. ustawy z dnta l'ipca r. o Fun duszu Rozwoju Budownictwa Mieszkaniowego (Dz. U. Nr poz. co 1. W do Rady Ministrów z dnia stycznia w sprawie procentu odpisów amortyzacyjnych na dochody Fun duszu Zmian Strukturalnych w i Funduszu Roz woju Budownictwa Mieszkaniowego w latach i (Dz. U. Nr wprowadza zmiany: w ust. dodaje pkt w brzmieniu: kamiennego brunatnego L gazowniczy i naftowy elektroenergetyczny w ust. dodaje pkt w brzmieniu: morskiego", w ust. pkt i wchodzi w z dniem szenia, z tym jego przepisy stosuje od dnia lute go Prezes Rady Ministrów: M. F. Rakowski Zam. PL ISSN 0209-2123 Cena 192,00
 

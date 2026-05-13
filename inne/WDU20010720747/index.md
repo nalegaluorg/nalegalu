@@ -21,7 +21,7 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2001-06-07 |
 | Data wydania | 2001-07-13 |
-| Ostatnia zmiana | 2025-07-28 |
+| Ostatnia zmiana | 2026-05-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010720747) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/747/text.pdf) |
 
 2) wart. 3:

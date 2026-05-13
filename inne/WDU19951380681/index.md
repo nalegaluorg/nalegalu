@@ -29,13 +29,13 @@ Art. \V ustawie z dnia 17 1991 rewalc-ryl'lcji zasadach ustalania . er.t oraz zm
 U. Nr 104, poz. 450, z 1992 Nr 21, poz. 84, z 1993 Nr 127, poz. 583 Nr 129, poz. 602, z 1994 Nr 84, poz. 385 craz z 1995 Nr 4, poz. 17 Nr 95, poz. 473) wprowadza zmiany:
 1) wart. 7:
 a) ust. 5 pkt 4 otrzymuje brzmienie: ,,4) przez ten bazo której mowa ust. 9 10.",
-b) dodaje ust. 9 10 brzmieniu: ,,9. Kwota bazowa wynosi 93% wynagrodzenia kwartale kalendarzowym termin wa loryzacji, z ust. 10.
+b) dodaje ust. 9 10 brzmieniu: ,,9. Kwota bazowa wynosi 93% wynagrodzenia kwartale kalendarzowym wa loryzacji, z ust. 10.
 10. kwoty bazowej od pierwszego dnia którym jest procentowy, którym mowa ust. 9, ulega jeden punkt procentowy terminie waloryzacji, do kwoty bazowej równej 100% prze wynagrodzenia.";
 2) art. 8 otrzymuje brzmienie: "Art. 8. wymiaru emerytury dla oso by, która ustalone pra wo do inwalidzkiej na podstawie przepisów wymienionych wart. 1, sta nowi:
 1) podstawa wymiaru inwalidzkiej wszystkie kolejne waloryzacje przy okresie po ustaleniu prawa do inwalidzkiej albo
 2) podstawa wymiaru ustalona na no wo art. 7.
-"Art. 16. Kwoty rent bez dodatków, któ rych mowa wart. 21 39% wynagrodzenia kwartale kalendarzowym poprze termin ostatniej waloryza cji rent 1995 przypadku emerytury, ro dzinnej inwalidzkiej dla inwa lidy I lub II grupy,
-2) 30% wynagrodzenia kwartale kalendarzowym poprze termin ostatniej waloryza cji rent 1995 przypadku inwalidzkiej dla inwalidy III grupy.
+"Art. 16. Kwoty rent bez dodatków, któ rych mowa wart. 21 39% wynagrodzenia kwartale kalendarzowym poprze ostatniej waloryza cji rent 1995 przypadku emerytury, ro dzinnej inwalidzkiej dla inwa lidy I lub II grupy,
+2) 30% wynagrodzenia kwartale kalendarzowym poprze ostatniej waloryza cji rent 1995 przypadku inwalidzkiej dla inwalidy III grupy.
 2. Kwoty których mowa ust. 1, przy zastosowaniu walo ryzacji od którym jest prze prowadzana waloryzacja.
 3. Kwota inwalidzkiej z wypadku przy pracy lub choro by zawodowej oraz rodzinnej rodziny pozo po ubezpieczonym lub renci który wskutek wypadku przy pracy lub choroby zawodowej, wynosi 120% kwoty ust. 1, nych zgodnie z ust. 2.
 4. Emerytury ustalone kwotach ust. 1 2 pod do tych kwot z a je ich wstrzymana po wznowieniu
@@ -49,9 +49,9 @@ b) dodaje ust. 9 10 brzmieniu: ,,9. Kwota bazowa wynosi 93% wynagrodzenia kwarta
 
 **Art. 17².** W zakresie uregulowanym wart. 17' nie stosuje 1996 przepisów art. 17.";
 
-**Art. 4.** W ustawie z dnia 24 stycznia 1991 kom batantach oraz niektórych osobach ofiarami represji wojennych okresu powojennego (Dz. U. Nr 17, poz. 75 Nr 104, poz. 450, z 1992 Nr 21, poz. 85, z 1993 Nr 29, poz. 133, Nr 129, poz. 602 Nr 134 poz. 645, z 1994 Nr 99, poz. 482 oraz z 1995 Nr 4, poz. 17) wart. 15: ust. otrzymuje brzmienie: Kombatantom innym osobom uprawnionym, lub je dodatek, zwany dalej «dodatkiem komba tanckim», 10% mie wynagrodzenia kwartale kalenda rzowym termin ostatniej wa loryzacji rent 1995 r., z nieniem ust. 5.";
+**Art. 4.** W ustawie z dnia 24 stycznia 1991 kom batantach oraz niektórych osobach ofiarami represji wojennych okresu powojennego (Dz. U. Nr 17, poz. 75 Nr 104, poz. 450, z 1992 Nr 21, poz. 85, z 1993 Nr 29, poz. 133, Nr 129, poz. 602 Nr 134 poz. 645, z 1994 Nr 99, poz. 482 oraz z 1995 Nr 4, poz. 17) wart. 15: ust. otrzymuje brzmienie: Kombatantom innym osobom uprawnionym, lub je dodatek, zwany dalej «dodatkiem komba tanckim», 10% mie wynagrodzenia kwartale kalenda rzowym ostatniej wa loryzacji rent 1995 r., z nieniem ust. 5.";
 
-**Art. 6.** W ustawie z dnia 1 grudnia 1994 kach rodzinnych (Dz. U. z 1995 Nr 4, poz. 17) art. 15 otrzymuje brzmienie: "Art. 15. wynosi 10% prze wynagrodzenia kwartale kalendarzowym, cym termin ostatniej 1995 waloryza cji z ust. 2. 2. Kwota ulega przy zastosowaniu waloryzacji rent od którym jest przeprowadzana wal,oryzacja."
+**Art. 6.** W ustawie z dnia 1 grudnia 1994 kach rodzinnych (Dz. U. z 1995 Nr 4, poz. 17) art. 15 otrzymuje brzmienie: "Art. 15. wynosi 10% prze wynagrodzenia kwartale kalendarzowym, cym ostatniej 1995 waloryza cji z ust. 2. 2. Kwota ulega przy zastosowaniu waloryzacji rent od którym jest przeprowadzana wal,oryzacja."
 
 **Art. 7.** Ustawa wchodzi z dniem 1 stycznia 1996 Prezydent Rzeczypospolitej Polskiej: L. 682 USTAWA z dnia 26 1995 pobieraniu przeszczepianiu komórek, tkanek Art. Ustawa reguluje pobieranie przeszcze pianie komórek, tkanek ze lub od 2. Ustawa nie dotyczy pobierania przeszczepiania a pobierania, przechowywania, przetaczania dystrybucji krwi.
 

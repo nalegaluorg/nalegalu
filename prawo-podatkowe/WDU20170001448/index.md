@@ -26,15 +26,15 @@ domain: null
 
 USTAWA dnia 7 lipca zmianie podatku dochodowym od osób fizycznych podatku dochodowym od osób prawnych
 
-**Art. 1.** W ustawie dnia 26 lipca 1991 podatku dochodowym od osób fizycznych (Dz. 2032, późn. zm. ) wprowadza następujące zmiany:
+**Art. 1.** ustawie dnia 26 lipca 1991 podatku dochodowym od osób fizycznych (Dz. 2032, późn. zm. ) wprowadza następujące zmiany:
 
-**Art. 2.** W ustawie dnia 15 lutego 1992 podatku dochodowym od osób prawnych (Dz. 1888, późn. zm. ) wprowadza następujące zmiany:
+**Art. 2.** ustawie dnia 15 lutego 1992 podatku dochodowym od osób prawnych (Dz. 1888, późn. zm. ) wprowadza następujące zmiany:
 
 **Art. 3.**
 
-1. Przepisy ustaw zmienianych 1 2, brzmieniu nadanym niniejszą ustawą, mają zastosowanie środków trwałych nabytych od dnia 1 stycznia dokonanych od tego dnia wpłat tych środków.
+1. Przepisy ustaw zmienianych 1 2, brzmieniu nadanym niniejszą ustawą, mają zastosowanie do środków trwałych nabytych od dnia 1 stycznia dokonanych od tego dnia wpłat tych środków.
 
-2. Podatnicy podatku dochodowego od osób prawnych, których rok podatkowy jest inny niż kalendarzowy zakończył po dniu 31 grudnia r., a przed dniem wejścia życie niniejszej ustawy, stosują przepisy zmienianej 2, brzmieniu nadanym niniejszą ustawą, środków trwałych nabytych od dnia 1 stycznia dokonanych od tego dnia wpłat tych środków.
+2. Podatnicy podatku dochodowego od osób prawnych, których rok podatkowy jest inny niż kalendarzowy zakończył po dniu 31 grudnia r., a przed dniem wejścia życie niniejszej ustawy, stosują przepisy zmienianej 2, brzmieniu nadanym niniejszą ustawą, do środków trwałych nabytych od dnia 1 stycznia dokonanych od tego dnia wpłat tych środków.
 
 **Art. 4.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
 

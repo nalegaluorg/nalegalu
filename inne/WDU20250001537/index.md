@@ -21,7 +21,7 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2025-09-26 |
 | Data wydania | 2025-11-12 |
-| Ostatnia zmiana | 2025-11-17 |
+| Ostatnia zmiana | 2026-04-29 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001537) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1537/text.pdf) |
 
 USTAWA z dnia 26 września 2025 r.

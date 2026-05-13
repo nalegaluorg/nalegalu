@@ -21,7 +21,7 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2022-11-04 |
 | Data wydania | 2022-12-22 |
-| Ostatnia zmiana | 2026-03-30 |
+| Ostatnia zmiana | 2026-05-12 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002727) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2727/text.pdf) |
 
 USTAWA z dnia 4 listopada 2022 r.

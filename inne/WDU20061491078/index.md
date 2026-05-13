@@ -30,15 +30,15 @@ domain: null
 132. Kto, będąc członkiem zarządu, członzakładowego przed zarejestrowaniem podwyższenia, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności roku.”.
 kiem rady administrującej dyrektoTytuł VI Przepis końcowy
 
-**Art. 116.** Ustawa wchodzi wżycie zdniem 18 sierpnia 2006 Prezydent Rzeczypospolitej Polskiej: L. Kaczyński USTAWA dnia 22 lipca 2006 o zmianie ustawy o świadku koronnym ustawy o ochronie informacji niejawnych
+**Art. 116.** Ustawa wchodzi wżycie zdniem 18 sierpnia 2006 Prezydent Rzeczypospolitej Polskiej: L. Kaczyński USTAWA dnia 22 lipca 2006 zmianie ustawy świadku koronnym ustawy ochronie informacji niejawnych
 
-**Art. 1.** W ustawie dnia 25 czerwca 1997 o świadku koronnym (Dz. 114, 738, póên. zm. ) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie dnia 25 czerwca 1997 świadku koronnym (Dz. 114, 738, póên. zm. ) wprowadza się następujące zmiany:
 
-**Art. 2.** Wustawie zdnia 22 stycznia 1999 oochronie informacji niejawnych (Dz. 2005 196, 1631 z2006 104, 708 i711) wzałączniku nr 1 wczęści Ipkt 20 Ń20. Przebieg treść czynności, o których wart. 3, 5, 5ai6 ustawy zdnia 25 czerwca 1997r. rych 184 Kodeksu postępowania karnego; dane dotyczące okoliczności ochrony pomocy przewidzianych ustawie o świadku koronnym.”.
+**Art. 2.** Wustawie zdnia 22 stycznia 1999 oochronie informacji niejawnych (Dz. 2005 196, 1631 z2006 104, 708 i711) wzałączniku nr 1 wczęści Ipkt 20 Ń20. Przebieg treść czynności, których wart. 3, 5, 5ai6 ustawy zdnia 25 czerwca 1997r. rych 184 Kodeksu postępowania karnego; dane dotyczące okoliczności ochrony pomocy przewidzianych ustawie świadku koronnym.”.
 
 **Art. 3.** Do osób, którym prokurator przyznał ochronę pomoc na podstawie przepisów dotychczasowych, stosuje się te przepisy, ztym że wwypadku gdy zachodzą okoliczności wymagające zmiany form ochrony pomocy, stosuje się przepisy 18 3—5 ustawy, októrej wart. 1, wbrzmieniu nadanym niniejszą ustawą.
 
-**Art. 4.** Dotychczasowe przepisy wykonawcze wydane na podstawie 22 ustawy, o której 1, zachowują moc czasu wejścia życie nowych przepisów wykonawczych wydanych na podstawie 22, brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 6 miesięcy od dnia wejścia życie ustawy.
+**Art. 4.** Dotychczasowe przepisy wykonawcze wydane na podstawie 22 ustawy, której 1, zachowują moc czasu wejścia życie nowych przepisów wykonawczych wydanych na podstawie 22, brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 6 miesięcy od dnia wejścia życie ustawy.
 
-**Art. 5.** Ustawa wchodzi życie dniem 31 sierpnia 2006 Prezydent Rzeczypospolitej Polskiej: L. Kaczyński 1079 ROZPORZÑDZENIE MINISTRA OBRONY NARODOWEJ dnia 9 sierpnia 2006 zmieniające rozporządzenie sprawie równoważników pieniężnych przysługujących zamian za umundurowanie wyekwipowanie Na podstawie 66 3 pkt 1 ustawy dnia 11 września 2003 o służbie wojskowej żołnierzy zawodowych (Dz. 179, 1750, zpóên. zm.
+**Art. 5.** Ustawa wchodzi życie dniem 31 sierpnia 2006 Prezydent Rzeczypospolitej Polskiej: L. Kaczyński 1079 ROZPORZÑDZENIE MINISTRA OBRONY NARODOWEJ dnia 9 sierpnia 2006 zmieniające rozporządzenie sprawie równoważników pieniężnych przysługujących zamian za umundurowanie wyekwipowanie Na podstawie 66 3 pkt 1 ustawy dnia 11 września 2003 służbie wojskowej żołnierzy zawodowych (Dz. 179, 1750, zpóên. zm.
 

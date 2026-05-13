@@ -38,55 +38,55 @@ Marszałek Sejmu: S. Hołownia
 
 **Art. 5.**
 
-1. Dotację na realizację zadań, których 3 1 1 lit. a b oraz 4, przyznaje się na wniosek podmiotów, których 1 1 2, przypadku spełnienia następujących warunków:
+1. Dotację na realizację zadań, których mowa 3 1 1 lit. a b oraz 4, przyznaje się na wniosek podmiotów, których mowa 1 1 2, przypadku spełnienia następujących warunków:
 
 - **1)** podjęcia decyzji albo uchwały rozpoczęciu likwidacji zakładu górniczego przez ich właściwy organ; zaakceptowania przez ministra właściwego do spraw gospodarki surowcami energetycznymi:
-    - **a)** programu całkowitej likwidacji zakładu górniczego, obejmującego szczególności zabezpieczenie zabytkowych części podmiotach, których 1 1 2,
-    - **b)** rocznego planu obejmującego, podziale na miesiące: zakres rzeczowy finansowy oraz harmonogram ich realizacji, ujmujący także zabezpieczenie zabytko1 5, po zaakceptowaniu przez ministra właściwego do spraw gospodarki surowcami energetycznymi rocznego planu tych działań obejmującego, podziale na miesiące, jego zakres rzeczowy finansowy.
+    - **a)** programu całkowitej likwidacji zakładu górniczego, obejmującego szczególności zabezpieczenie zabytkowych części podmiotach, których mowa 1 1 2,
+    - **b)** rocznego planu obejmującego, podziale na miesiące: zakres rzeczowy finansowy oraz harmonogram ich realizacji, ujmujący także zabezpieczenie zabytkomowa 1 5, po zaakceptowaniu przez ministra właściwego do spraw gospodarki surowcami energetycznymi rocznego planu tych działań obejmującego, podziale na miesiące, jego zakres rzeczowy finansowy.
 
-4. Wniosek, którym 1‒3a, powinien zawierać:
+4. Wniosek, którym mowa 1‒3a, powinien zawierać:
 
 - **1)** oznaczenie wnioskodawcy; określenie:
-    - **a)** przewidzianych do realizacji, których 3 1 1, a przypadku podmiotów, których 1 1 2 również 4, albo
-    - **b)** działań przewidzianych do wykonania, których 3 1 2 3;
+    - **a)** przewidzianych do realizacji, których mowa 3 1 1, a przypadku podmiotów, których mowa 1 1 2 również 4, albo
+    - **b)** działań przewidzianych do wykonania, których mowa 3 1 2 3;
 
 - **3)** preliminarz środków planowanych na realizację albo na wykonanie działań danym roku kalendarzowym;
-- **4)** przypadku podmiotów, których 1 1 2 określenie stanu zaawansowania prac związanych likwidacją zakładu górniczego;
-- **5)** przypadku podmiotu, którym 1 4 określenie stanu zaawansowania prac związanych realizacją zadań, których 3 1 1 lit. c;
-- **6)** przypadku podmiotu, którym 1 3 określenie stanu wykonania działań, których 3 1 2;
-- **7)** przypadku podmiotu, którym 1 5, określenie stanu wykonania działań, których 3 1
+- **4)** przypadku podmiotów, których mowa 1 1 2 określenie stanu zaawansowania prac związanych likwidacją zakładu górniczego;
+- **5)** przypadku podmiotu, którym mowa 1 4 określenie stanu zaawansowania prac związanych realizacją zadań, których mowa 3 1 1 lit. c;
+- **6)** przypadku podmiotu, którym mowa 1 3 określenie stanu wykonania działań, których mowa 3 1 2;
+- **7)** przypadku podmiotu, którym mowa 1 5, określenie stanu wykonania działań, których mowa 3 1
 
 **Art. 6.**
 
-1. Podstawą przyznania dotacji na realizację wykonanie działań określonych ustawie jest umowa zawarta między ministrem właściwym do spraw gospodarki surowcami energetycznymi a podmiotem, którym
+1. Podstawą przyznania dotacji na realizację wykonanie działań określonych ustawie jest umowa zawarta między ministrem właściwym do spraw gospodarki surowcami energetycznymi a podmiotem, którym mowa
 
-1. Umowa, której 1, określa szczególności opis zadania lub działania, tym cel, na jaki dotacja została przyznana, termin jego wykonania, wysokość udzielonej dotacji, termin wykorzystania dotacji, termin sposób rozliczenia udzielonej dotacji, termin zwrotu niewykorzystanej części dotacji oraz tryb kontroli wykonania lub działań.
+1. Umowa, której mowa 1, określa szczególności opis zadania lub działania, tym cel, na jaki dotacja została przyznana, termin jego wykonania, wysokość udzielonej dotacji, termin wykorzystania dotacji, termin sposób rozliczenia udzielonej dotacji, termin zwrotu niewykorzystanej części dotacji oraz tryb kontroli wykonania lub działań.
 
 **Art. 7.** Dotacje na realizację wykonywanie działań określonych ustawie przyznawane są uwzględnieniem innej pomocy, tym pomocy de minimis oraz pomocy ze środków pochodzących budżetu Unii Europejskiej, udzielonej na realizację tych lub wykonywanie tych działań, niezależnie od formy źródła, oraz przychodów likwidacji majątku zakładu górniczego.
 
 **Art. 8.**
 
-1. Podmioty, których 1 1 2, otrzymują dotację na finansowanie ekwiwalentu pieniężnego tytułu prawa do bezpłatnego węgla na zasadach określonych zakładowym układzie zbiorowym pracy dla emerytów lub rencistów uprawnionych do bezpłatnego węgla. Uprawnienie, którym 1, przysługuje również wdowom, wdowcom sierotom po emerytach lub rencistach, jeżeli spełniają warunki do otrzymania renty rodzinnej. W przypadku gdy prawo do bezpłatnego węgla wynika renty rodzinnej wszystkim osobom do niej uprawnionym przysługuje łącznie jeden ekwiwalent pieniężny tytułu prawa do bezpłatnego węgla. W razie podziału renty rodzinnej sprawozdania, którym 10 1.
+1. Podmioty, których mowa 1 1 2, otrzymują dotację na finansowanie ekwiwalentu pieniężnego tytułu prawa do bezpłatnego węgla na zasadach określonych zakładowym układzie zbiorowym pracy dla emerytów lub rencistów uprawnionych do bezpłatnego węgla. Uprawnienie, którym mowa 1, przysługuje również wdowom, wdowcom sierotom po emerytach lub rencistach, jeżeli spełniają warunki do otrzymania renty rodzinnej. W przypadku gdy prawo do bezpłatnego węgla wynika renty rodzinnej wszystkim osobom do niej uprawnionym przysługuje łącznie jeden ekwiwalent pieniężny tytułu prawa do bezpłatnego węgla. W razie podziału renty rodzinnej sprawozdania, którym mowa 10 1.
 
 **Art. 10.**
 
-1. Podmiot, którym 1, składa ministrowi właściwemu do spraw gospodarki surowcami energetycznymi sprawozdanie miesięczne zawierające rozliczenie rzeczowo-finansowe zrealizowanych lub wykonanych działań, terminie do 25. miesiąca następującego po miesiącu, objętym tym sprawozdaniem. (uchylony) Podmiot, którym 1, przedstawia ministrowi właściwemu do spraw gospodarki surowcami energetycznymi, terminie do 20 lutego roku następnego, wraz rocznym rozliczeniem rzeczowo-finansowym, sprawozdanie realizacji:
+1. Podmiot, którym mowa 1, składa ministrowi właściwemu do spraw gospodarki surowcami energetycznymi sprawozdanie miesięczne zawierające rozliczenie rzeczowo-finansowe zrealizowanych lub wykonanych działań, terminie do 25. miesiąca następującego po miesiącu, objętym tym sprawozdaniem. (uchylony) Podmiot, którym mowa 1, przedstawia ministrowi właściwemu do spraw gospodarki surowcami energetycznymi, terminie do 20 lutego roku następnego, wraz rocznym rozliczeniem rzeczowo-finansowym, sprawozdanie realizacji:
 
-- **1)** rocznego planu zadań, którym 5 1 2 lit. b 2, albo rocznego planu działań, którym 5 3 3a.
+- **1)** rocznego planu zadań, którym mowa 5 1 2 lit. b 2, albo rocznego planu działań, którym mowa 5 3 3a.
 
-4. W przypadku gdy podmiot, którym 1, nie zrealizował albo nie wykonał działań, których 5 4 2, lub nie przedstawił sprawozdań, których 1 3, minister właściwy do spraw gospodarki surowcami energetycznymi wstrzymuje przekazywanie kolejnych rat dotacji do czasu ustania przyczyn wstrzymania.
+4. W przypadku gdy podmiot, którym mowa 1, nie zrealizował albo nie wykonał działań, których mowa 5 4 2, lub nie przedstawił sprawozdań, których mowa 1 3, minister właściwy do spraw gospodarki surowcami energetycznymi wstrzymuje przekazywanie kolejnych rat dotacji do czasu ustania przyczyn wstrzymania.
 
 **Art. 11.** Dysponentem dotacji na realizację wykonanie działań określonych ustawie jest minister właściwy do spraw gospodarki surowcami energetycznymi.
 
 **Art. 12.**
 
-1. Agencja Rozwoju Przemysłu Spółka Akcyjna siedzibą Warszawie, na zlecenie ministra właściwego do spraw gospodarki surowcami energetycznymi, realizuje zadania związane monitorowaniem prawidłowości wykorzystania dotacji przeznaczonej na cele określone ustawie. Zadania, których 1, są finansowane dotacji budżetu państwa. Podstawą przyznania dotacji na realizację zadań, których 1, jest umowa zawarta między ministrem właściwym do spraw gospodarki surowcami energetycznymi a Agencją Rozwoju Przemysłu Spółką Akcyjną siedzibą Warszawie.
+1. Agencja Rozwoju Przemysłu Spółka Akcyjna siedzibą Warszawie, na zlecenie ministra właściwego do spraw gospodarki surowcami energetycznymi, realizuje zadania związane monitorowaniem prawidłowości wykorzystania dotacji przeznaczonej na cele określone ustawie. Zadania, których mowa 1, są finansowane dotacji budżetu państwa. Podstawą przyznania dotacji na realizację zadań, których mowa 1, jest umowa zawarta między ministrem właściwym do spraw gospodarki surowcami energetycznymi a Agencją Rozwoju Przemysłu Spółką Akcyjną siedzibą Warszawie.
 
 **Art. 12a.** (uchylony)
 
-**Art. 13.** Dotacje na zadania określone ustawie są przekazywane podmiotom, których 1, do 31 grudnia 2027
+**Art. 13.** Dotacje na zadania określone ustawie są przekazywane podmiotom, których mowa 1, do 31 grudnia 2027
 
-**Art. 14.** Przepisy zakresie dotyczącym dotacji dla poszczególnych podmiotów, których 1, przypadku gdy konieczna jest zgoda Komisji Europejskiej, stosuje się od ogłoszenia przez Komisję Europejską decyzji zgodności tej dotacji rynkiem wewnętrznym.
+**Art. 14.** Przepisy zakresie dotyczącym dotacji dla poszczególnych podmiotów, których mowa 1, przypadku gdy konieczna jest zgoda Komisji Europejskiej, stosuje się od ogłoszenia przez Komisję Europejską decyzji zgodności tej dotacji rynkiem wewnętrznym.
 
 **Art. 15.** Do dotacji przyznanych na podstawie uchylanej 16 stosuje się przepisy dotychczasowe.
 

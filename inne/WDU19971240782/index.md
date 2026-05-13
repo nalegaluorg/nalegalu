@@ -24,7 +24,7 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971240782) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/782/text.pdf) |
 
-Poz.: dnia 28 sierpnia 1997 zmianie ustawy Prawo ustroju powszechnych niektórych innych ustaw.
+Poz.: 782 dnia 28 sierpnia 1997 zmianie ustawy Prawo ustroju powszechnych niektórych innych ustaw.
 "Art. 59. 1. Stosunek zuje mocy prawa, swojego stanowiska. Zrze czenie stanowiska jest skuteczne po od dnia zrzeczeniu Ministrowi chyba na wnio sek inny termin.
 2. Stosunek zuje mocy prawa, wy maga tego przepis ustawy ze du na zawarty
 3. przechodzi spoczynku,
@@ -34,18 +34,18 @@ Poz.: dnia 28 sierpnia 1997 zmianie ustawy Prawo ustroju powszechnych niektóryc
 5. przeniesiony spoczynku, na wniosek kolegium przez Ra powodu choroby urlopu dla porato wania zdrowia nie przez okres roku. Do okresu tego wlicza okresy poprzedniej przerwy niu powodu choroby nego urlopu dla poratowania zdro wia, okres czynnej nie 30 dni. Od decyzji Krajo wej Rady skarga admini stracyjnego.
 6. przeniesio ny spoczynku, trybie okre zajmowanemu, przyczy ny przeniesienia spoczynku.";
 3) art. 60 otrzymuje brzmienie: "Art. 60. 1. Prawomocne orzeczenie dyscy plinarnego wydaleniu ze dziowskiej prawomocne orze czenie na pozbawienia praw publicz nych lub zakazu zajmowania stanowi ska za mocy prawa, stanowiska stosunek wygasa uprawomocnienia orze czenia.
-2. Minister zawiada mia albo wy stosunku mowa 1 wart. 59 1 2, spoczynku.";
+2. Minister zawiada mia albo wy stosunku którym mowa 1 wart. 59 1 2, spoczynku.";
 4) art. 61 po 2 dodaje 2a brzmieniu: 2a. W wypadkach, których mowa 2 pkt 2-4, skarga administracyjnego.";
 5) po art. 68 dodaje art. 68 brzmieniu: "Art. 68 Przepisy art. 68 stosuje odpowiednio stanie spoczynku.";
-6) po art. 71 dodaje art. 71 art. 71 brzmieniu: "Art. 71 1. który przeniesiony spoczynku, razie zmiany ustroju lub zmiany granic czasu wieku, mowa wart. 59 3 pkt 1, wynagrodzenia pobie ranego na ostatnio zajmowanym stanowisku.
+6) po art. 71 dodaje art. 71 art. 71 brzmieniu: "Art. 71 1. który przeniesiony spoczynku, razie zmiany ustroju lub zmiany granic czasu wieku, którym mowa wart. 59 3 pkt 1, wynagrodzenia pobie ranego na ostatnio zajmowanym stanowisku.
 2. przeniesionemu spoczynku powodu wieku, choroby lub utraty nie 75% wynagrodzenia zasadniczego wraz dodatkiem za lat, pobieranego na ostat nio zajmowanym stanowisku.
-3. mowa 1, jest waloryzowane terminach stosownie zmian zasadniczych czynnych zawodowo.
-4. mowa 2, jest waloryzowane stosownie wzrostu cen towarów kon ry lub renty ubezpieczenia nego.
+3. którym mowa 1, jest waloryzowane terminach stosownie zmian zasadniczych czynnych zawodowo.
+4. którym mowa 2, jest waloryzowane stosownie wzrostu cen towarów kon ry lub renty ubezpieczenia nego.
 Art. 71 2 Minister porozumie niu Ministrem Pracy Polityki Socjalnej, drodze szcze zasady tryb ustalania nia rodzinnych stanie spoczynku ich rodzin.";
 7) art. 78 otrzymuje brzmienie: "Art. 78. 1. stanie spoczynku dotychczasowego doda niem wyrazów «w stanie spoczynku».
 2. W razie stanie spoczynku jego rodzinie odprawa na zasadach przewidzianych Kodeksie pracy dla rodzin pracowników.";
 8) po art. 78 dodaje art. 78' art. 78 brzmieniu: "Art. 78'. 1. Od wynagrodzenia nie od prowadza na ubezpiecze nie
-2. W razie albo stosunku sposób, mowa wart. 59 1 2 wart. 60 1, od wynagro dzenia okresie od którego nie od prowadzano na ubezpieczenie przekazuje za ten okres przepi sach ubezpieczeniu
+2. W razie albo stosunku sposób, którym mowa wart. 59 1 2 wart. 60 1, od wynagro dzenia okresie od którego nie od prowadzano na ubezpieczenie przekazuje za ten okres przepi sach ubezpieczeniu
 Art. 78 2 1. W razie albo dziego stanie spoczynku jego rodziny warunki wymagane uzyskania renty ro dzinnej, przepisów zaopa trzeniu emerytalnym pracowników ich rodzin, rodzinne
 1) dla jednej osoby uprawnionej 85%,
 2) dla dwóch osób uprawnionych 90%,
@@ -68,7 +68,7 @@ Art. 78 2 1. W razie albo dziego stanie spoczynku jego rodziny warunki wymagane 
 
 3. Minister porozumieniu Mi nistrem Pracy Polityki Socjalnej, drodze dzenia, zasady tryb upo rodzinnych emerytowanym prokuratorom ich rodzin miejsce ubezpieczenia
 
-**Art. 7.** Przepisy art. 1 6 niniejszej ustawy stosuje odpowiednio wojskowych, a tych Konstytucyjnego, którzy dnia kadencji wiek, spoczynku, lub tego wieku nie 5 lat.
+**Art. 7.** Przepisy art. 1 6 niniejszej ustawy stosuje odpowiednio wojskowych, a tych Konstytucyjnego, którzy dnia kadencji wiek, którym spoczynku, lub tego wieku nie 5 lat.
 
 **Art. 8.** Ustawa wchodzi dniem 17 dziernika 1997 r.,
 

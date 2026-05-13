@@ -21,7 +21,7 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2024-01-24 |
 | Data wydania | 2024-02-07 |
-| Ostatnia zmiana | 2026-04-10 |
+| Ostatnia zmiana | 2026-04-29 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000152) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/152/text.pdf) |
 
 OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 24 stycznia 2024 r.

@@ -21,7 +21,7 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2023-06-01 |
 | Data wydania | 2023-07-13 |
-| Ostatnia zmiana | 2025-12-15 |
+| Ostatnia zmiana | 2026-04-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001329) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1329/text.pdf) |
 
 OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 1 czerwca 2023 r.

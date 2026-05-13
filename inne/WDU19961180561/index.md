@@ -10,9 +10,7 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# o komercjalizacji i niektórych uprawnieniach pracowników
-
-*USTAWA z dnia 30 sierpnia 1996 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 7 października 1996 r.
 
 | Pole | Wartość |
 |---|---|
@@ -26,529 +24,486 @@ domain: null
 | Ostatnia zmiana | 2026-01-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19961180561) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1996/561/text.pdf) |
 
-### DZIAŁ I Przepisy ogólne
+Nr 118 Poz.: 561
+USTAWA z dnia 30 sierpnia 1996 r.
+o komercjalizacji i prywatyzacji I Przepisy ogólne
 
 **Art. 1.**
 
-1. Komercjalizacja, w rozumieniu ustawy, polega na przekształceniu przedsiębiorstwa państwowego w spółkę; jeżeli przepisy ustawy nie stanowią inaczej, spółka ta wstępuje we wszystkie stosunki prawne, których podmiotem było przedsiębiorstwo państwowe, bez względu na charakter prawny tych stosunków.
+1. Komercjalizacja, w rozumieniu ustawy, po lega na go w przepisy ustawy nie ina czej, ta we wszystkie stosunki prawne, których podmiotem bez na charakter prawny tych stosunków.
 
-2. (uchylony)
+2. Prywatyzacja, w rozumieniu ustawy, polega na:
 
-3. (uchylony)
+- **1)** zbywaniu do Skarbu akcji lub w wyniku komercjali zacji,
+- **2)** wszystkimi material nymi i niematerialnymi lub w wyniku ko mercjalizacji na zasadach przez:
+    - **a)**
+    - **b)** wniesienie do
+    - **c)** oddanie do korzy stania.
 
-**Art. 1a.** (uchylony)
-
-**Art. 1b.** Przepisów ustawy nie stosuje się do spółek i należącego do nich mienia – w czasie trwania przewłaszczenia akcji lub mienia tych spółek – na zabezpieczenie roszczeń przysługujących Skarbowi Państwa reprezentowanemu przez ministra właściwego do spraw finansów publicznych, z tytułu udzielonych poręczeń lub gwarancji.
+3. Rada Ministrów w drodze nia, o szczególnym zna czeniu dla gospodarki których prywatyzacja wymaga zgody Rady Ministrów.
 
 **Art. 2.** Ilekroć w ustawie jest mowa o:
 
-**Art. 2a.** (uchylony)
-
-**Art. 2b.** (uchylony)
-
-**Art. 2c.** (uchylony)
-
-**Art. 2d.** (uchylony)
-
-### DZIAŁ II Komercjalizacja przedsiębiorstw państwowych
-
 **Art. 3.**
 
-1. Komercjalizacji przedsiębiorstwa państwowego dokonuje organ założycielski.
+1. Komercjalizacji stwowego w celu prywatyzacji dokonuje Minister Prze
 
-2. (uchylony)
+2. Komercjalizacji w innym celu w ust. 1 dokonuje Minister za Rady Mini strów.
 
-3. Z zastrzeżeniem ust. 4 komercjalizacji mogą podlegać przedsiębiorstwa państwowe, z wyjątkiem:
+3. Z ust. 4 komercjalizacji podz
 
-- **1)** postawionych w stan likwidacji;
-- **2)** postawionych w stan upadłości;
-- **3)** wykonujących prawomocną decyzję o podziale lub łączeniu przedsiębiorstwa państwowego;
-- **4)** przedsiębiorstw, w stosunku do których toczy się postępowanie restrukturyzacyjne – do chwili uprawomocnienia się układu;
-- **5)** przedsiębiorstw, w stosunku do których toczy się bankowe postępowanie ugodowe – do chwili uprawomocnienia się ugody;
-- **6)** (uchylony)
-- **7)** działających na podstawie ustaw innych niż ustawa o przedsiębiorstwach państwowych, chyba że przedsiębiorstwa te podlegają komercjalizacji w drodze odrębnych ustaw;
-- **8)** (uchylony)
-- **9)** (uchylony)
-- **10)** (uchylony)
-- **11)** przedsiębiorstw wykonujących w dniu 1 stycznia 2006 r. działalność gospodarczą w zakresie międzynarodowego transportu morskiego.
+- **1)** postawionych w stan likwidacji,
+- **2)** postawionych w stan
+- **3)** o podziale lub
+- **4)** w stosunku do których toczy - do chwili uprawomoc nienia
+- **5)** w stosunku do których toczy bankowe ugodowe - do chwili uprawomocnienia ugody,
+- **6)** na podstawie umowy o chyba z wnioskiem o
+- **7)** na podstawie przepisów rangi ustawowej, innych ustawa o biorstwach
+- **8)** których uprawnione organy wniosek o dokonanie prywatyzacji niej - do czasu rozpatrzenia wniosku,
+- **9)** w stosunku do których wydane o prywatyzacji
+- **10)** pu blicznej "Poczta Polska".
 
-3a. Umowy o zarządzanie przedsiębiorstwem państwowym, o których mowa w rozdziale 8a ustawy z dnia 25 września 1981 r. o przedsiębiorstwach państwowych, wygasają z dniem wpisania spółki do rejestru.
-
-4. (uchylony) 4a. (uchylony)
+4. których fundusze kwoty wart. 159 2 Kodeksu handlowego, komercjalizacji jedynie na zasadach w dziale III ustawy.
 
 **Art. 4.**
 
-1. Komercjalizacji przedsiębiorstwa państwowego dokonuje się na wniosek dyrektora i rady pracowniczej przedsiębiorstwa państwowego.
+1. Komercjalizacji stwowego dokonuje Minister
 
-2. Komercjalizacji przedsiębiorstwa państwowego organ założycielski może dokonać z własnej inicjatywy.
+- **1)** na wniosek organu
+- **2)** na wniosek dyrektora wego i rady pracowniczej,
+- **3)** z inicjatywy.
 
-3. W przypadku komercjalizacji z własnej inicjatywy organ założycielski zawiadamia o zamiarze komercjalizacji dyrektora oraz radę pracowniczą przedsiębiorstwa państwowego.
+2. W przypadku komercjalizacji z inicjatywy Minister zawiadamia o zamiarze komercjalizacji dyrektora oraz organ cielski
 
-4. Dyrektor przedsiębiorstwa państwowego jest obowiązany doręczyć organowi założycielskiemu, w terminie nieprzekraczającym trzech miesięcy od dnia otrzymania zawiadomienia, kwestionariusz przedsiębiorstwa państwowego przeznaczonego do komercjalizacji, wraz z dokumentami określonymi w przepisach wykonawczych wydanych na podstawie ust. 6.
+3. W przypadku komercjalizacji na wniosek organu zawiadomienia dyrektora biorstwa oraz rady pracowniczej o za miarze komercjalizacji dokonuje organ
 
-5. W przypadku komercjalizacji na wniosek dyrektora i rady pracowniczej przedsiębiorstwa państwowego, do wniosku należy dołączyć kwestionariusz przedsiębiorstwa państwowego przeznaczonego do komercjalizacji, wraz z dokumentami określonymi w przepisach, o których mowa w ust. 6.
+4. Dyrektor jest zo Ministrowi w terminie nie trzech mie od dnia otrzymania zawiadomienia, kwestiona riusz przeznaczonego do komercjalizacji, wraz z dokumentami w przepisach, o których mowa w ust. 6. O niu dokumentów przez dyrektora Minister zawiadamia organ na którym spoczywa dokumentów w jednego od dnia zawiadomienia.
 
-6. Rada Ministrów, w drodze rozporządzenia, określi wzór kwestionariusza przedsiębiorstwa państwowego przeznaczonego do komercjalizacji oraz wykaz dokumentów niezbędnych do sporządzenia aktu komercjalizacji.
+5. W przypadku komercjalizacji na wniosek dyrek tora i rady pracowniczej go, do wniosku kwestionariusz przed przeznaczonego do komer cjalizacji, wraz z dokumentami w przepi sach, o których mowa w ust. 6.
 
-**Art. 4a.** (uchylony)
+6. Rada Ministrów, w drodze okre wzór kwestionariusza wego przeznaczonego do komercjalizacji oraz wykaz dokumentów do aktu ko mercjalizacji.
 
-**Art. 4b.**
-
-1. Nie jest zbyciem akcji na zasadach ogólnych zbycie akcji na rzecz:
-
-- **1)** jednostki samorządu terytorialnego w drodze darowizny, zgodnie z art. 11 ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym (Dz. U. z 2024 r. poz. 125, 834, 1823, 1897 i 1940);
-- **2)** spółek, której akcjonariuszami są wyłącznie Skarb Państwa lub inne państwowe osoby prawne.
-
-2. Uprawnieni pracownicy w spółce powstałej w wyniku komercjalizacji przedsiębiorstwa państwowego albo przez wniesienie przedsiębiorstwa do spółki, której akcje zostały zbyte zgodnie z ust. 1, zachowują uprawnienia do nieodpłatnego nabycia akcji. Przepisy art. 36–38 oraz art. 38b i art. 38c stosuje się odpowiednio, przy czym przewidziane w tych przepisach kompetencje w zakresie zbywania akcji na rzecz uprawnionych pracowników wykonuje minister właściwy do spraw aktywów państwowych, organ wykonawczy jednostki samorządu terytorialnego albo organ wykonawczy związku jednostek samorządu terytorialnego.
-
-3. Do ustalenia momentu powstania prawa do nieodpłatnego nabycia akcji przez uprawnionych pracowników oraz rolników lub rybaków stosuje się odpowiednio przepis art. 38 ust. 2.
-
-4. Przepisy ust. 1–3 stosuje się odpowiednio do nieodpłatnego zbycia akcji posiadanych przez jednostkę samorządu terytorialnego lub związek jednostek samorządu terytorialnego na rzecz innej jednostki samorządu terytorialnego lub związku jednostek samorządu terytorialnego, przy czym kompetencje w zakresie zbywania akcji wykonuje organ wykonawczy jednostki samorządu terytorialnego lub związku jednostek samorządu terytorialnego.
-
-**Art. 4c.**
-
-1. W przypadku sprzedaży akcji, nabytych zgodnie z art. 4b ust. 1 pkt 1, przez jednostkę samorządu terytorialnego lub związek jednostek samorządu terytorialnego, część uzyskanych przychodów jednostka samorządu terytorialnego lub związek jednostek samorządu terytorialnego przekazuje, w terminie 3 miesięcy od dnia uzyskania przychodów z tego tytułu, na rachunki bankowe:
-
-- **1)** budżetu państwa – w wysokości 20 % przychodów ze sprzedaży akcji;
-- **2)** Funduszu Reprywatyzacji – w wysokości 5 % przychodów ze sprzedaży akcji.
-
-2. Jeżeli jednostka samorządu terytorialnego lub związek jednostek samorządu terytorialnego zbędzie akcje, nabyte zgodnie z art. 4b ust. 1 pkt 1, w drodze czynności prawnej innej niż sprzedaż, przekazuje w terminie 3 miesięcy od dnia dokonania takiej czynności, na rachunki bankowe:
-
-- **1)** budżetu państwa – kwotę stanowiącą równowartość 20 % wartości księgowej zbytych akcji,
-- **2)** Funduszu Reprywatyzacji – kwotę stanowiącą równowartość 5 % wartości księgowej zbytych akcji – przy czym wartość księgową zbytych akcji ustala się na dzień ich zbycia.
-
-3. Jeżeli jednostka samorządu terytorialnego lub związek jednostek samorządu terytorialnego przekaże nieodpłatnie akcje, nabyte zgodnie z art. 4b ust. 1 pkt 1, na rzecz innej jednostki samorządu terytorialnego lub związku jednostek samorządu terytorialnego, przepisu ust. 2 nie stosuje się.
-
-**Art. 5.**
-
-1. Do spółki powstałej w wyniku komercjalizacji, o ile ustawa nie stanowi inaczej, stosuje się przepisy Kodeksu spółek handlowych.
-
-2. Do akcji Skarbu Państwa nie stosuje się przepisów art. 21 , art. 199 i art. 359 w zakresie dotyczącym umorzenia przymusowego oraz art. 418 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96).
-
-3. (uchylony)
+**Art. 5.** Do w wyniku komercjaliza cji stosuje przepisy Kodeksu handlowego, o ile ustawa nie stanowi inaczej.
 
 **Art. 6.**
 
-1. Z zastrzeżeniem ust. 3, pracownicy komercjalizowanego przedsiębiorstwa państwowego stają się, z mocy prawa, pracownikami spółki.
+1. Z ust. 3, pracownicy komer cjalizowanego z mocy prawa, pracownikami
 
-2. Do pełnienia funkcji prezesa pierwszego zarządu spółki powstałej w wyniku komercjalizacji powołuje się dyrektora komercjalizowanego przedsiębiorstwa państwowego, chyba że nie wyrazi on zgody na pełnienie tej funkcji.
+2. Do funkcji prezesa pierwszego w wyniku komercjalizacji dyrektora komercjalizowanego stwowego, chyba nie wyrazi on zgody na tej funkcji.
 
-3. Stosunek pracy dyrektora przedsiębiorstwa państwowego oraz pracowników zatrudnionych na podstawie powołania wygasa, z mocy prawa, z dniem wykreślenia przedsiębiorstwa państwowego z rejestru przedsiębiorców.
+3. Stosunek pracy dyrektora stwowego oraz pracowników zatrudnionych na pod stawie wygasa, z mocy prawa, z dniem wy z rejestru
 
-4. Pracownikom, o których mowa w ust. 3, przysługuje odprawa w wysokości trzymiesięcznego wynagrodzenia, liczonego jak ekwiwalent pieniężny za urlop wypoczynkowy. Odprawa ta nie przysługuje w wypadku zatrudnienia w spółce na stanowisku równorzędnym lub wyższym.
+4. Pracownikom, o których mowa w ust. 3, guje odprawa w wyna grodzenia, liczonego jak ekwiwalent za urlop wypoczynkowy. Odprawa ta nie w wypad ku zatrudnienia w na stanowisku nym lub
 
-**Art. 7.** Bilans zamknięcia przedsiębiorstwa państwowego staje się bilansem otwarcia spółki, przy czym suma kapitałów własnych jest równa sumie funduszu założycielskiego, funduszu przedsiębiorstwa i niepodzielonego wyniku finansowego za okres działalności przedsiębiorstwa przed komercjalizacją.
-
-**Art. 8.** W przypadku niezatwierdzenia sprawozdania finansowego za okres poprzedzający komercjalizację lub niepodjęcia decyzji w sprawie podziału zysku netto albo określenia sposobu pokrycia straty netto czynności tych dokona walne zgromadzenie spółki.
-
-**Art. 9.**
-
-1. Organ założycielski sporządza za Skarb Państwa akt komercjalizacji przedsiębiorstwa państwowego.
-
-2. W akcie komercjalizacji ustala się:
-
-- **1)** statut spółki;
-- **2)** wysokość kapitału zakładowego spółki;
-- **3)** imiona i nazwiska członków organów pierwszej kadencji;
-- **4)** osobę upoważnioną do zgłoszenia wniosku o wpisanie spółki do rejestru przedsiębiorców, jeżeli jest to osoba inna niż zarząd.
-
-3. Akt komercjalizacji zastępuje czynności określone w przepisach Kodeksu spółek handlowych, poprzedzające złożenie wniosku o wpisanie spółki do rejestru przedsiębiorców.
-
-4. (uchylony)
-
-**Art. 10.**
-
-1. Niezwłocznie po sporządzeniu aktu komercjalizacji zarząd lub osoba upoważniona w tym akcie przez organ założycielski zgłasza do sądu rejestrowego właściwego dla siedziby spółki wniosek o wpisanie spółki do rejestru przedsiębiorców.
-
-2. Dniem komercjalizacji jest pierwszy dzień miesiąca przypadającego po wpisaniu spółki do rejestru przedsiębiorców. Z tym dniem następuje skutek wykreślenia przedsiębiorstwa państwowego z rejestru.
-
-**Art. 11.**
-
-1. W spółce powstałej w wyniku komercjalizacji działa rada nadzorcza. Liczbę członków rady nadzorczej określa statut, z tym że pierwsza rada nadzorcza liczy pięć osób, w tym dwóch przedstawicieli pracowników. W spółkach powstałych z przekształcenia przedsiębiorstw przemysłu rolno-spożywczego rolnicy lub rybacy oraz pracownicy mają po jednym przedstawicielu w radzie nadzorczej.
-
-2. W spółkach z ograniczoną odpowiedzialnością powstałych w wyniku komercjalizacji można nie ustanawiać rady nadzorczej. Prawo kontroli wykonuje wówczas wspólnik lub osoba przez niego upełnomocniona.
-
-3. W razie ogłoszenia upadłości spółki określonej w ust. 1, w której Skarb Państwa jest jedynym akcjonariuszem, walne zgromadzenie może podjąć uchwałę o zaprzestaniu działania rady nadzorczej i odwołaniu jej członków.
-
-**Art. 12.**
-
-1. W czasie, w którym Skarb Państwa pozostaje jedynym akcjonariuszem spółki powstałej w wyniku komercjalizacji, członków rady nadzorczej powołuje i odwołuje walne zgromadzenie, z tym że dwie piąte składu rady nadzorczej stanowią, z zastrzeżeniem ust. 2, osoby wybrane przez pracowników albo osoby wybrane w jednej piątej przez pracowników i w jednej piątej przez rolników lub rybaków.
-
-2. (uchylony)
-
-3. Tryb wyboru członków rady nadzorczej przez pracowników albo pracowników i rolników lub rybaków określa statut spółki albo regulaminy uchwalone w sposób określony w statucie, z zastrzeżeniem ust. 4. Członkowie rad nadzorczych będący przedstawicielami pracowników albo pracowników i rolników lub rybaków wybierani są w wyborach bezpośrednich i tajnych, przy zachowaniu zasady powszechności.
-
-4. Przedstawicieli pracowników do pierwszej rady nadzorczej wybiera ogólne zebranie pracowników (delegatów).
-
-5. Na pisemny wniosek co najmniej 15 % ogółu pracowników spółki przeprowadza się głosowanie o odwołanie przedstawiciela pracowników z rady nadzorczej.
-
-6. Niedokonanie wyboru przedstawicieli pracowników, rolników lub rybaków do składu pierwszej rady nadzorczej nie stanowi przeszkody do wpisania spółki do rejestru przedsiębiorców ani do podejmowania ważnych uchwał przez radę.
-
-7. (uchylony)
-
-8. W przypadku gdy spółka, która powstała w wyniku komercjalizacji, wchodzi w skład grupy kapitałowej i jest jednostką dominującą w stosunku do przynajmniej jednej jednostki zależnej, przez pracowników uprawnionych do wyboru i odwołania przedstawicieli pracowników w radzie nadzorczej rozumie się pracowników spółki oraz pracowników wszystkich jej jednostek zależnych.
-
-**Art. 13.** (uchylony)
+**Art. 7.** Bilans stwowego staje bilansem otwarcia przy czym suma akcyjnego i zapasowego jest równa funduszom W dniu wpisania do rejestru handlowego kapi zapasowy nie jednej czwartej akcyjnego. Dziennik Ustaw Nr 118 - 2528 4. o którym mowa w ust. 1 pkt 4, jest rów funkcji z wyboru w organiza cji
 
 **Art. 14.**
 
-1. Od chwili, w której Skarb Państwa przestał być jedynym akcjonariuszem spółki powstałej w wyniku komercjalizacji, postanowienia statutu dotyczące powoływania i odwoływania członków rady nadzorczej mogą być zmienione, z tym że pracownicy albo pracownicy i rolnicy lub rybacy zachowują prawo wyboru:
+1. Po zbyciu przez Skarb ponad po akcji postanowienia statutu po i rady nadzorczej zmienione, z tym pracownicy albo pra cownicy i rolnicy lub rybacy prawo wyboru:
 
-- **1)** dwóch członków rady nadzorczej w radzie liczącej do sześciu członków, z tym że w spółkach powstałych z przekształcenia przedsiębiorstw przemysłu rolno-spożywczego rolnicy lub rybacy zachowują prawo wyboru jednego członka rady nadzorczej;
-- **2)** trzech członków rady nadzorczej w radzie liczącej od siedmiu do dziesięciu członków, z tym że w spółkach powstałych z przekształcenia przedsiębiorstw przemysłu rolno-spożywczego rolnicy lub rybacy zachowują prawo wyboru jednego członka rady nadzorczej;
-- **3)** czterech członków rady nadzorczej w radzie liczącej jedenastu lub więcej członków, z tym że w spółkach powstałych z przekształcenia przedsiębiorstw przemysłu rolno-spożywczego rolnicy lub rybacy zachowują prawo wyboru dwóch członków rady nadzorczej.
+- **1)** dwóch rady nadzorczej w radzie do z tym w powsta z rolnicy lub rybacy prawo wyboru jednego rady nadzorczej,
+- **2)** trzech rady nadzorczej w radzie od siedmiu do z tym w z biorstw przemysiu rolnicy lub rybacy prawo wyboru jednego rady nadzorczej,
+- **3)** czterech rady nadzorczej w radzie jedenastu lub z tym w z prze rolnicy lub rybacy za prawo wyboru dwóch rady nad zorczej.
 
-2. Członkowie rad nadzorczych, o których mowa w ust. 1, wybierani są w wyborach bezpośrednich i tajnych, przy zachowaniu zasady powszechności. Wynik wyborów jest wiążący dla walnego zgromadzenia.
+2. rad nadzorczych, o których mowa w ust. 1, wybierani w wyborach i taj nych, przy zachowaniu zasady Wynik wyborów jest dla walnego zgromadzenia.
 
-3. W przypadku gdy spółka, która powstała w wyniku komercjalizacji, wchodzi w skład grupy kapitałowej i jest jednostką dominującą w stosunku do przynajmniej jednej jednostki zależnej, do wyboru i odwołania przedstawicieli pracowników w radzie nadzorczej uprawnieni są pracownicy spółki oraz pracownicy wszystkich jej jednostek zależnych.
-
-**Art. 15.** Pracownikowi spółki, będącemu członkiem jej rady nadzorczej, spółka nie może, w okresie trwania kadencji rady ani w okresie roku po zakończeniu kadencji, wypowiedzieć stosunku pracy. W tym czasie spółka nie może również zmienić na niekorzyść pracownika warunków pracy lub płacy.
-
-**Art. 15a.** (uchylony)
+**Art. 15.** Pracownikowi jej rady nadzorczej, nie w okresie trwania kadencji rady ani w okresie roku po kaden cji, stosunku pracy. W tym czasie nie na pracownika warunków pracy lub
 
 **Art. 16.**
 
-1. W spółkach powstałych w drodze komercjalizacji, a także po zbyciu przez Skarb Państwa ponad połowy akcji spółki, pracownicy wybierają jednego członka zarządu, jeżeli średnioroczne zatrudnienie w spółce wynosi powyżej 500 pracowników. Zasady oraz tryb wyboru i odwołania przez pracowników członka zarządu określa statut.
+1. W w wyniku komercja lizacji, 500 pra cowników, jeden wybierany jest przez pracowników Zasady oraz tryb wyboru i odwo przez pracowników statut.
 
-2. Przepisy statutu dotyczące wyborów, o których mowa w ust. 1, uwzględniają zasady powszechności, tajności oraz bezpośredniego udziału pracowników. Wynik wyborów jest wiążący dla organu powołującego zarząd.
+2. Przepisy statutu wyborów, o których mowa w ust. 1, zasady oraz pracowników.
 
-3. Niedokonanie wyboru członka zarządu przez pracowników spółki nie stanowi przeszkody do wpisania spółki do rejestru przedsiębiorców ani do podejmowania ważnych uchwał przez zarząd.
+3. Niedokonanie wyboru przez pra cowników nie stanowi przeszkody do wpisania do rejestru handlowego ani do podejmowania przez
 
-4. (uchylony)
+**Art. 17.**
 
-**Art. 17.** (uchylony)
+1. Sprawowanie w zlecone, w drodze umowy, osobie fizycznej lub prawnej. W takim przypadku w ustanawia jednoosobowy przy czym w jego powo której zlecono sprawowanie Przepisu art. 16 nie stosuje
+
+2. osoby, której zostanie zlecone spra wowanie w drodze konkursu prze prowadzonego przez O przeprowadze niu konkursu postanawia walne zgromadzenie.
+
+3. o której mowa w ust. 1, w imieniu ki zawiera rada nadzorcza za
+
+4. Umowa, o której mowa w ust. 1, powinna okre walnego zgroma dzenia. w
+
+- **1)** osoby, której zlecono sprawowanie za w tym zakres zmian i w przed (restrukturyzacja
+- **2)** wynagrodzenie osoby, której zlecono sprawowanie w sposób wynagrodzenia z wynikiem finansowym oraz stopniem realizacji wykonywa nych w ramach o których mowa w pkt 1; wynagrodzenia na w akcjach
+- **3)** czas, na jaki umowa jest zawarta,
+- **4)** przedterminowego umowy.
+
+5. Umowa, o której mowa w ust. 1, przewidy uprawnienie dla osoby, której zlecono sprawowa nie do akcji w kapitale za w umowie.
+
+6. Do zbywania akcji, o których mowa w ust. 4 pkt 2 lub w ust. 5, nie stosuje trybu zbywania akcji okre w ustawie.
+
+7. Rada Ministrów w drodze nia, tryb przeprowadzania konkursu, o którym mowa w ust. 2.
+
+8. Umowa, o której mowa w ust. 1, podlega niu do rejestr.
 
 **Art. 18.**
 
-1. (uchylony)
+1. w wyniku komercjaliza cji jedynym akcyjnej lub z
 
-2. (uchylony)
+2. W w wyniku komercjalizacji, w której ponad ogólnej liczby akcji do Skarbu zgody walnego zgromadzenia wymaga:
 
-3. (uchylony)
+- **1)** innej
+- **2)** albo nabycie akcji innej
+- **3)** zbycie nabytych lub akcji innej
 
-4. (uchylony)
+3. W przypadku, o którym mowa w ust. 2 pkt 3, walnego zgromadzenia warunki i tryb zbycia akcji.
 
-5. Pracownicy spółki powstałej w wyniku przekształcenia przedsiębiorstwa państwowego, którzy nabyli akcje tej spółki, mogą wykonywać prawo głosu na walnym zgromadzeniu przez przedstawiciela wybranego ze swojego grona.
+4. Statut warunki, w jakich dokony wanie o których mowa w ust. 2, nie wyma ga zgody walnego zgromadzenia.
 
-**Art. 19.** (uchylony)
+5. Pracownicy w wyniku prze którzy na byli akcje tej prawo na walnym zgromadzeniu przez przedstawiciela wybrane go ze swojego grona.
 
-**Art. 19a.** (uchylony)
+**Art. 19.**
 
-**Art. 19b.** (uchylony)
+1. w wyniku komercjaliza cji, w której ponad ogólnej liczby akcji do Skarbu sprzedaje lub od daje mienie do korzystania innym podmio tom, w drodze publicznego przetargu.
 
-**Art. 20.** (uchylony)
+2. Rada Ministrów w drodze nia, zasady i tryb organizowania przetar gu oraz warunki, w których dopuszcza od przetargu.
 
-### DZIAŁ IIA (uchylony)
+**Art. 20.**
 
-### DZIAŁ III (uchylony)
+1. Nadzór nad w wyniku komercjalizacji w zaDziennik Ustaw Nr 118 - 2529 - Poz. 561 kresie obronnych sprawuje organ, który te zadania.
 
-### DZIAŁ IV Uprawnienia pracowników do nabywania akcji
+2. Finansowanie z zakresu powszechnego obrony na zasadach dla III Komercjalizacja z
 
-#### Rozdział 1 (Rozdział 2 – uchylony)
+**Art. 21.**
+
+1. Minister na zasadach w niniej szym dziale, w z z wierzy cieli, suma kredytów i czek, o wierzycielom odsetki za w tych stanowi 60% aktywów lub suma krótkoterminowych, tych kredytów i krótkoterminowych oraz kredytów i przeterminowanych, szona o wierzycielom odsetki za w tych stanowi 50% przychodów pomniejszonych o przychody ze i inwestycji uzyska nych przez w okresie od dnia 1 stycznia 1995 r. do dnia 31 grudnia 1995 r.
+
+2. Sumy, o których mowa w ust. 1, ustalane na podstawie stanu z rachunkowych na 31 grudnia 1995 r., z tym o odset ki za w tych naliczone do dnia 31 grudnia 1995 r.
+
+3. w dziale tym mowa jest o wierzycielach, to dla i kar z przepisów o ochronie i przepisów pra wa wodnego oraz przepisów prawa geologicznego i górniczego rozumie przez to: gminne i wojewódz kie fundusze ochrony i gospodarki wodnej oraz Narodowy Fundusz Ochrony i Gospo darki Wodnej.
+
+**Art. 22.** Nie w z wierzycieli w stosunku do których li kwidacyjne, w stosunku do których chyba na wyrazili wierzyciele nie mniej 50% ogólnej su my ustalonej przez listy; w takim przypadku zawiesza do czasu rozpatrzenia przez Mini stra wniosku o ko z które prawomocny lub banko
+
+**Art. 23.**
+
+1. obejmowane za wie zwane dalej konwerto walnymi".
+
+2. konwertowalne wszel kie przed dniem 31 grudnia 1995 r., stanu na 31 grudnia 1995 r., z ze stosunku pracy, nie kwoty 5000 wobec podmiotów zagranicznych, w rozumieniu przepisów o z zagranicznym, w dniu w ustawy jeszcze nie wyma galnych,
+
+- **5)** o których mowa wart. 24, z wieczystego nia gruntów, z kar za naruszenie wymogów ochrony których termin zo odroczony w trybie przepisów o ochronie i oraz prawa wodnego.
+
+**Art. 24.**
+
+1. umarzalnymi wobec z i na rzecz Funduszu Pracy, Funduszu Rehabilitacji Osób oraz Funduszu Gwarantowanych Świadczeń Pra cown iczych.
+
+2. umarzalne z dniem rejestracji umorzeniu z mocy prawa, w 70% tych
+
+3. z wierzycieli, z prze zaspokoi 30% umarzalnych w 24 równych ratach, od siódmego po wpisaniu do rejestru handlowego.
+
+**Art. 25.**
+
+1. Dyrektorzy pallstwo wych warunki wart. 21 ust. 1, w terminie trzech od dnia w ustawy, Ministrowi wnioski o parlstwowego w z odpowiedzial z Skarbu i wierzycieli, na za sadach w niniejszym dziale.
+
+2. Do wniosków, o których mowa w ust. 1,
+
+- **1)** sprawozdanie finansowe za trzy ostatnie lata obrotowe,
+- **2)** z rejestru
+- **3)** spis wierzycieli, ze wskazaniem imion, nazwisk lub firm, adresów, oraz wykaz i terminów ich wraz z odsetkami na liczonymi do dnia 31 grudnia 1995 r., cy konwertowalne, wie umarzane oraz inne wierzy
+- **4)** wykaz udzielonych
+- **5)** wykaz egzekucyjnych przeciwko biorstwu
+- **6)** pisemne dyrektora o i in formacji, o których mowa w pkt 1-5,
+- **7)** dokumenty, o których mowa wart. 4 ust. 5.
+
+**Art. 26.**
+
+1. Minister bez przedstawia wierzycielom posiada konwertowalne, wymienionym w spisie, o którym mowa wart. 25 ust. 2 pkt 3, projekt aktu komercjalizacji z
+
+2. Wierzyciele, o których mowa w ust. 1, w terminie trzech od dnia otrzymania projektu aktu ko mercjalizacji z odmó zgody na za Brak pisemnej odmowy w wyznaczonym terminie oznacza na za na warun kach w projekcie aktu komercjalizacji. Je na aktu komercjalizacji wyrazi wierzycieli wart. 28, on wszystkich wierzycieli o do i
+
+3. Projekt aktu komercjalizacji z wierzy Minister prze kazuje wierzycielom listem poleconym za zwrotnym odbioru, wraz z pouczeniem o i terminie odmowy zgody na za
+
+**Art. 27.**
+
+1. Bilans stwowego staje bilansem otwarcia przy czym fundusze o wierzytelno konwertowanym oraz odpowiada umarzanym równe sumie i zapasowego
+
+2. stanowi sumy funduszu i funduszu biorstwa na 31 grudnia 1995 r., wyniku finanso wego za rok 1995 oraz konwertowanym.
+
+**Art. 28.** Przedsiębiorstwo w z Skarbu i wierzycieli, na wierzyciele 50% sumy kon wertowalnych oraz umarzal nych.
+
+**Art. 29.**
+
+1. Wierzyciel obejmuje za konwertowane o nominalnej odpo jednej trzeciej mu
+
+2. W przypadku gdy go ustalonego zgodnie z art. 27 ust. 2 suma nominalnych wierzycielom ustalonych zgodnie z ust. 1, wówczas nominalna obejmowanych przez wierzycieli ulega proporcjonalnej redukcji.
+
+3. Odsetki od konwertowanych oraz umarzanych, naliczone od dnia w ustawy do dnia rejestracji umarza z mocy prawa.
+
+**Art. 30.**
+
+1. Do w wyniku prze na zasa dach w niniejszym dziale stosuje od powiednio przepisy II.
+
+2. Do zbywania do Skarbu w o których mowa w ust. 1, stosuje przepisy 1 IV.
+
+**Art. 31.** Do wspólników, którzy za wie w na zasadach nych w niniejszym dziale, nie stosuje przepisów art. 47 ustawy z dnia 19 grudnia 1980 r. o niach podatkowych (Dz. U. z 1993 r. Nr 108, poz. 486 i Nr 134, poz. 646, z 1995 r. Nr 5, poz. 25 i Nr 85, poz. 426 oraz z 1996 r. Nr 75, poz. 357). IV Prywatyzacja 1
+
+**Art. 32.**
+
+1. Przed zaoferowaniem do zbycia akcji Skarbu w w wyniku komer cjalizacji dokonuje analizy na celu ustalenie sytuacji prawnej stanu i perspektyw rozwoju oszacowania warto oraz oceny realizacji z ochrony
+
+2. Rada Ministrów w drodze nia, zakres analizy, o której mowa w ust. 1, sposób jej zlecania, opracowania, odbioru i finansowania oraz warunki, w razie których od opracowania analizy.
+
+3. Minister przed za oferowaniem akcji do zbycia do wprowadzenia w jej zmian wyni z wymogów ochrony a w szcze z analizy, o której mowa w ust. 1.
+
+**Art. 33.**
+
+1. Z art. 36 i 37, akcje ce do Skarbu zbywane w trybie:
+
+- **1)** oferty publicznie,
+- **2)** przetargu publicznego,
+- **3)** na podstawie publicznego za proszenia.
+
+2. Rada Ministrów w drodze nia, tryb zbywania akcji oraz warunki, ja kie powinny oferta zbycia akcji, zaproszenie do ofert nabycia akcji oraz zaproszenie do ro które inwestycyj nych, z a z interesów pracowników i innych osób ze
+
+3. Rada Ministrów na inny prze widziany w ust. 1 tryb zbywania akcji. Dziennik Ustaw Nr 118 - 2531 Poz. 561
+
+**Art. 34.** Zbycie akcji do Skarbu z naruszeniem art. 33 jest
+
+**Art. 35.**
+
+1. Za zbywane w trybie wart. 33 ust. 1 pkt 2 i 3 akcje do Skarbu stwa dokonana w ratach, nie warunki:
+
+- **1)** co najmniej 30% akcji jest obywa tel polski lub obywateli polskich,
+- **2)** zabezpieczona zostanie kwota do po uiszczeniu pierwszej raty.
+
+2. W przypadku, o którym mowa w ust. 1, pierwsza rata ceny za akcje wynosi co najmniej 20% tej ceny. Po kwota jest w ratach przez okres nie 5 lat. Kwota ta jest oprocentowana w wyso nie wzrostu cen dóbr inwe stycyjnych, co przez Prezesa nego Statystycznego w Dzienniku Rzeczypospolitej Polskiej "Monitor Polski".
+
+3. Rada Ministrów w drodze zasady finansowania zbywania akcji oraz za akcje nabywane od Skarbu 2
 
 **Art. 36.**
 
-1. Uprawnionym pracownikom przysługuje prawo do nieodpłatnego nabycia, z zastrzeżeniem ust. 2 i 3, do 15 % akcji objętych przez Skarb Państwa w dniu wpisania spółki do rejestru.
+1. Uprawnionym pracownikom je prawo do nabycia, z ust. 2 i 3, 15% do Skarbu akcji
 
-1a. Akcje na rzecz uprawnionych pracowników w imieniu Skarbu Państwa zbywa minister właściwy do spraw aktywów państwowych.
+2. nominalna akcji przeznaczonych do nabycia przez uprawnionych pra cowników nie iloczynu liczby upraw nionych pracowników oraz kwoty osiemnastu nich w sektorze biorstw bez z zysku, obliczonych z okresu sze w którym na nabycie tych akcji przez pracowników.
 
-2. Łączna wartość nominalna akcji przeznaczonych do nieodpłatnego nabycia przez uprawnionych pracowników nie może przekroczyć iloczynu liczby uprawnionych pracowników oraz kwoty osiemnastu średnich wynagrodzeń miesięcznych w sektorze przedsiębiorstw bez wypłat z zysku, obliczonych z okresu sześciu miesięcy poprzedzających miesiąc, w którym Skarb Państwa zbył pierwsze akcje na zasadach ogólnych.
+3. W przypadku w wyniku komer cjalizacji które na z rejestru stwowych uregulowane wobec oraz z w ilo czynie, o którym mowa w ust. 2, osiemnastu dwudziestu czterech
 
-3. W przypadku spółki powstałej w wyniku komercjalizacji przedsiębiorstwa państwowego, które miało na dzień wykreślenia z rejestru przedsiębiorców uregulowane zobowiązania wobec budżetu państwa oraz z tytułu ubezpieczeń społecznych, w iloczynie, o którym mowa w ust. 2, kwotę osiemnastu średnich wynagrodzeń zastępuje się kwotą dwudziestu czterech średnich wynagrodzeń.
+4. akcji nieodptatnie upraw nionym grupom pracowników statut
 
-4. Akcje zbywa się nieodpłatnie w grupach wyodrębnionych ze względu na okresy zatrudnienia uprawnionych pracowników w komercjalizowanym przedsiębiorstwie państwowym, jego poprzedniku i w spółce powstałej w wyniku komercjalizacji tego przedsiębiorstwa państwowego.
-
-4a. Nieodpłatne zbycie udziałów na rzecz uprawnionych pracowników następuje w formie pisemnej pod rygorem nieważności. Przepisu art. 180 Kodeksu spółek handlowych nie stosuje się.
-
-5. Minister właściwy do spraw aktywów państwowych określi, w drodze rozporządzenia, szczegółowe zasady podziału uprawnionych pracowników na grupy i ustalenia liczby akcji przypadających na każdą z tych grup oraz tryb nabywania akcji przez uprawnionych pracowników, mając na względzie potrzebę zapewnienia informowania uprawnionych pracowników o okolicznościach faktycznych i prawnych, które mogą mieć wpływ na ustalenie ich praw i obowiązków w zakresie nieodpłatnego nabywania akcji.
-
-**Art. 36a.** W przypadku obniżenia kapitału zakładowego spółki przed dniem zbycia przez Skarb Państwa pierwszych akcji na zasadach ogólnych, uprawnionym pracownikom oraz rolnikom lub rybakom przysługuje prawo do nieodpłatnego nabycia do 15 % akcji należących do Skarbu Państwa w kapitale zakładowym spółki po zarejestrowaniu obniżenia kapitału zakładowego. Do nieodpłatnego nabycia akcji stosuje się odpowiednio przepisy art. 36 i 37–38d.
+5. Minister w drodze tryb nabywania akcji przez uprawnionych pracowników.
 
 **Art. 37.**
 
-1. Rolnikom lub rybakom przysługuje prawo do nieodpłatnego nabycia do 15 % akcji objętych przez Skarb Państwa w dniu wpisania spółki do rejestru. Przepisy art. 36 ust. 2 lub ust. 3 oraz ust. 4a stosuje się odpowiednio.
+1. Rolnikom lub rybakom pra wo do nabycia 15% do Skar bu akcji Przepisy art. 36 stosuje od powiednio.
 
-1a. Liczba akcji przypadająca na jednego rolnika lub rybaka nie może przekroczyć najwyższej liczby akcji przypadającej na jednego uprawnionego pracownika.
+2. Uprawnieni rolnicy lub rybacy z prawa do nabycia akcji o ile w ro ku od dnia wpisania do rejestru pisemne o zamiarze nabycia akcji. w terminie powoduje prawa do nieodptatnego nabycia akcji.
 
-1b. Akcje na rzecz uprawnionych rolników lub rybaków w imieniu Skarbu Państwa zbywa minister właściwy do spraw aktywów państwowych.
+3. rolnikowi i rybakowi pra wo nabycia akcji w równej liczbie.
 
-2. (uchylony)
+4. Rolnicy i rybacy prawo do nabycia akcji nie w dwóch
 
-3. Każdemu rolnikowi i rybakowi przysługuje prawo nabycia akcji w równej liczbie.
+5. Minister Rolnictwa i Gospodarki Żywnościowej w drodze tryb na bywania akcji przez uprawnionych rolników i rybaków.
 
-4. Rolnicy i rybacy mają prawo do nabycia akcji nie więcej niż w dwóch spółkach.
-
-5. Minister Rolnictwa i Gospodarki Żywnościowej określi, w drodze rozporządzenia, sposób wykazania przez uprawnionych rolników i rybaków okoliczności, o których mowa w art. 2 pkt 6, oraz szczegółowy tryb nabywania przez nich akcji.
-
-6. (uchylony)
+6. Rada Ministrów w drodze nia, sposób przedstawicielstwa rolników lub rybaków uprawnionego do podejmowania czynno o których mowa w ustawie.
 
 **Art. 38.**
 
-1. Uprawnieni pracownicy oraz rolnicy lub rybacy mogą skorzystać z prawa do nabycia akcji nieodpłatnie, o ile w ciągu sześciu miesięcy od dnia wpisania spółki do rejestru złożą pisemne oświadczenie o zamiarze nabycia akcji. Niezłożenie oświadczenia w powyższym terminie powoduje utratę prawa do nieodpłatnego nabycia akcji.
+1. Uprawnienie do nabycia akcji, o których mowa wart. 36 i 37, powstaje z dniem zbycia przez Skarb pierwszych akcji na zasadach nych w rozdziale 1 IV i wygasa z sze od dnia zbycia przez Skarb pierwszych akcji na zasadach ogólnych.
 
-1a. (uchylony) 1b. (uchylony)
+2. Osoby, o których mowa wart. 2 pkt 5 lit. c), mo z prawa do nabycia akcji o ile w od dnia wpisania do rejestru pisemne o zamiarze na bycia akcji. w terminie powoduje prawa do na bycia akcji.
 
-2. Prawo do nieodpłatnego nabycia akcji powstaje po upływie 3 miesięcy od dnia zbycia przez Skarb Państwa pierwszych akcji na zasadach ogólnych i wygasa z upływem 24 miesięcy od dnia powstania tego prawa. Jeżeli zbycie akcji Skarbu Państwa na zasadach ogólnych nastąpiło w okresie, o którym mowa w ust. 1, prawo do nieodpłatnego nabycia akcji powstaje po 3 miesiącach od upływu terminu na złożenie oświadczenia o zamiarze nabycia akcji.
+3. Akcje, o których mowa w ust. 1, nie przedmiotem obrotu przed dwóch lat od dnia zbycia przez Skarb pierwszych akcji na zasa dach w rozdziale 1 IV, z tym akcje nabyte przez pracowników ków - przed trzech lat od dnia zbycia przez Skarb pierwszych akcji na zasa dach w rozdziale 1 IV.
 
-2a. (uchylony) 2b. Podmiot uprawniony do wykonywania praw z akcji należących do Skarbu Państwa w rozumieniu art. 2 pkt 4a ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym niezwłocznie przekazuje ministrowi właściwemu do spraw aktywów państwowych informacje i dokumenty dotyczące zbycia pierwszych akcji na zasadach ogólnych.
+4. Umowa za przedmiot zbycie akcji, o któ rych mowa w ust. 1, zawarta przed terminu w ust. 3, jest
 
-3. Akcje nabyte nieodpłatnie przez uprawnionych pracowników oraz przez rolników lub rybaków nie mogą być przedmiotem obrotu przed upływem dwóch lat od dnia zbycia przez Skarb Państwa pierwszych akcji na zasadach ogólnych, z tym że akcje nabyte przez pracowników pełniących funkcję członków zarządu spółki – przed upływem trzech lat od dnia zbycia przez Skarb Państwa pierwszych akcji na zasadach ogólnych.
+5. Uprawnienie pracowników do nabycia akcji wykorzystane tylko w jednej uprawniony przed nabyciem akcji nie z uprawnienia do nie nabycia akcji w innej
 
-3a. Akcje nabyte nieodpłatnie przez uprawnionych pracowników oraz przez rolników lub rybaków nie mogą być przedmiotem przymusowego wykupu, o którym mowa w art. 418 Kodeksu spółek handlowych, w terminach określonych w ust. 3.
+6. umowa zbycia akcji przewiduje, nabyw ca akcji tej umowy po wykonaniu okre w umowie kolejne ak cje, Rada Ministrów, w drodze okresy, o których mowa w ust. 3, do czasu wykonania tych V Prywatyzacja 1
 
-3b. Do akcji pracodawcy nabytych od Skarbu Państwa, wnoszonych do funduszu emerytalnego zgodnie z art. 19 ust. 1 ustawy z dnia 20 kwietnia 2004 r. o pracowniczych programach emerytalnych (Dz. U. z 2024 r. poz. 556 oraz z 2025 r. poz. 1216), nie stosuje się ograniczeń wynikających z ust. 3.
+**Art. 39.**
 
-4. Umowa mająca za przedmiot zbycie akcji nabytych nieodpłatnie, zawarta przed upływem terminów określonych w ust. 3, jest nieważna.
+1. Prywatyzacja polega na wszystkimi materialnymi i niematerialnymi wego przez:
 
-5. Prawo do nieodpłatnego nabycia akcji może być wykorzystane przez uprawnionych pracowników tylko w jednej spółce; uprawniony przed nabyciem akcji składa oświadczenie, że nie skorzystał z prawa do nieodpłatnego nabycia akcji w innej spółce.
+- **1)**
+- **2)** wniesienie do Dziennik Ustaw Nr 118 - 2532 - Poz. 561
+- **3)** oddanie do korzysta nia.
 
-6. Jeżeli umowa zbycia akcji na zasadach ogólnych przewiduje, że nabywca akcji będący stroną tej umowy po wykonaniu określonych w niej zobowiązań będzie mógł nabyć kolejne akcje, a termin ich wykonania przypada po upływie okresów, o których mowa w ust. 3, akcje nabyte nieodpłatnie mogą być przedmiotem obrotu po trzech i odpowiednio po sześciu miesiącach od dnia wykonania tych zobowiązań.
+2. Prywatyzacji które
 
-**Art. 38a.** (uchylony)
+- **1)** zatrudnienie w dniu 31 grudnia roku cego rok wydania o prywatyzacji bez nie przekracza 500 osób,
+- **2)** towarów i w roku poprze rok wydania o prywatyzacji nie jest od w polskich kwoty 6 milionów ECU, obliczo nej kursu kupna przez Naro dowy Bank Polski na 31 grudnia roku poprze rok wydania o prywatyzacji
+- **3)** funduszy w dniu 31 grudnia roku rok wydania o prywatyzacji nie jest od w polskich kwoty 2 milio nów ECU, obliczonej kursu kupna nego przez Narodowy Bank Polski na ten
 
-**Art. 38b.**
+3. Rada Ministrów, w uzasadnionych przypadkach, na biorstwa które nie wymienionych w ust. 2.
 
-1. W przypadku połączenia spółki powstałej w wyniku komercjalizacji z inną spółką, podziału tej spółki, jej przekształcenia lub wniesienia przez Skarb Państwa jej akcji do innej spółki, do nieodpłatnego nabywania akcji przez uprawnionych pracowników oraz rolników lub rybaków stosuje się odpowiednio przepisy art. 36–38, 38c i 38d.
+**Art. 40.**
 
-2. W przypadku podziału spółki powstałej w wyniku komercjalizacji do nieodpłatnego nabywania akcji przez uprawnionych pracowników oraz rolników lub rybaków nie stosuje się ograniczeń określonych w art. 37 ust. 4 i art. 69b ust. 2.
+1. O ile ustawa nie stanowi inaczej. cy lub we wszelkie prawa i wego, bez na charakter stosunku prawnego, z którego te prawa i
 
-3. W przypadku wniesienia 100 % akcji należących do Skarbu Państwa w jednoosobowej spółce Skarbu Państwa powstałej w wyniku komercjalizacji do innej jednoosobowej spółki Skarbu Państwa uprawnionym pracownikom oraz rolnikom lub rybakom przysługuje ekwiwalent prawa do nieodpłatnego nabycia akcji w postaci wynagrodzenia należnego z tytułu umorzenia akcji wypłaconego przez spółkę, do której Skarb Państwa wniósł akcje. Wypłata tego wynagrodzenia może być dokonana w ratach przez spółkę, do której Skarb Państwa wniósł akcje.
+2. lub od powiada za podatkowe ujawnione w bi lansie W stosunku do ku lub nie sto suje wart. 40 ust. 3 ustawy, o której mowa wart. 31.
 
-**Art. 38c.**
+3. W razie lub z wobec Skarbu zaspokajane w kolej przewidzianej do zaspokajania po datkowych.
 
-1. Prawo do nieodpłatnego nabycia akcji podlega dziedziczeniu, z zastrzeżeniem ust. 2–4.
+**Art. 41.**
 
-2. Spadkobierca uprawnionego pracownika, rolnika lub rybaka może skorzystać z prawa do nieodpłatnego nabycia akcji, o ile uprawniony pracownik, rolnik lub rybak złożył oświadczenie o zamiarze nieodpłatnego nabycia akcji, w terminie, o którym mowa w art. 38 ust. 1.
+1. Organ dokonuje prywatyza cji w imieniu Skarbu w szcze gdy z wnioskiem dyrektor biorstwa i rada pracownicza, albo wo bec oferty nabycia nia o której mowa wart. 39 ust. 1 pkt 2, lub za warcia umowy, o której mowa wart. 52.
 
-3. W przypadku śmierci uprawnionego pracownika, rolnika lub rybaka, w okresie 6 miesięcy od dnia wpisania spółki do rejestru, spadkobierca może skorzystać z prawa do nieodpłatnego nabycia akcji, o ile złoży oświadczenie o zamiarze nieodpłatnego nabycia akcji, w terminie, o którym mowa w art. 38 ust. 1. Do złożenia oświadczenia o zamiarze nieodpłatnego nabycia akcji przez spadkobiercę osoby uprawnionej nie jest wymagane przedstawienie postanowienia sądu o stwierdzeniu nabycia spadku albo zarejestrowanego aktu poświadczenia dziedziczenia sporządzonego przez notariusza.
+2. Organ wydaje, za Ministra o prywa tyzacji Od tego nie guje prawo wniesienia sprzeciwu, o którym mowa wart. 63 ustawy o
 
-4. Spadkobierca uprawnionego pracownika, rolnika lub rybaka może nieodpłatnie nabyć akcje spółki pod warunkiem przedstawienia prawomocnego postanowienia sądu o stwierdzeniu nabycia spadku albo zarejestrowanego aktu poświadczenia dziedziczenia sporządzonego przez notariusza, w terminie, o którym mowa w art. 38 ust. 2.
+3. Organ dokonuje prywatyzacji bez przez zwanego da lej do spraw prywatyzacji".
 
-5. W przypadku śmierci uprawnionego pracownika, rolnika lub rybaka termin do skorzystania z prawa do nieodpłatnego nabycia akcji, o którym mowa w art. 38 ust. 2, nie rozpoczyna biegu, a rozpoczęty ulega przerwaniu do czasu uzyskania prawomocnego postanowienia sądu o stwierdzeniu nabycia spadku, a w przypadku przedstawienia zarejestrowanego aktu poświadczenia dziedziczenia sporządzonego przez notariusza ulega przedłużeniu o miesiąc, o ile zostaną łącznie spełnione następujące warunki:
+4. W o którym mowa w ust. 2, organ w sposób prywaty zacji zuje zgodnie z art. 39 ust. 1, oraz wskaktórej do dokona nia prywatyzacji Analiza, o której mowa wart. 42 ust. 1, stanowi do
 
-- **1)** śmierć uprawnionego pracownika, rolnika lub rybaka nastąpiła przed upływem terminu wygaśnięcia prawa do nieodpłatnego nabycia akcji;
-- **2)** oświadczenie o zamiarze nabycia akcji zostało złożone przez uprawnionego pracownika, rolnika lub rybaka albo jego spadkobiercę z zachowaniem terminu, o którym mowa w art. 38 ust. 1;
-- **3)** został złożony wniosek o stwierdzenie nabycia spadku nie później niż w dniu, w którym upłynął termin wygaśnięcia prawa, o którym mowa w art. 38 ust. 2, albo w tym terminie został przedstawiony zarejestrowany akt poświadczenia dziedziczenia sporządzony przez notariusza.
+5. o których mowa wart. 39 ust. 1, do konuje do spraw prywatyzacji na podsta wie do dokonania tych
 
-6. W razie przerwania biegu terminu, o którym mowa w ust. 5, termin ten biegnie na nowo od dnia uprawomocnienia się postanowienia sądu o stwierdzeniu nabycia spadku.
+6. o prywatyzacji podle ga ujawnieniu w rejestrze wych.
 
-**Art. 38d.**
+**Art. 42.**
 
-1. W przypadku wniesienia akcji spółki powstałej w wyniku komercjalizacji do spółki z udziałem Skarbu Państwa, podmiot uprawniony do wykonywania praw z akcji należących do Skarbu Państwa w rozumieniu art. 2 pkt 4a ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym w spółce, do której te akcje zostały wniesione, może zaoferować uprawnionym pracownikom oraz rolnikom lub rybakom możliwość wykonania ich prawa do nieodpłatnego nabycia akcji, w drodze nabycia akcji spółki z udziałem Skarbu Państwa, objętych w zamian za wniesione akcje spółki powstałej w wyniku komercjalizacji.
+1. Przed wydaniem o prywaty zacji dokonuje analizy stanu przed innymi na ustaleniu stanu prawnego wego i ocenie realizacji z wymogów ochrony i ochrony dóbr kultu ry oraz oszacowaniu
 
-2. Zaoferowanie uprawnionym pracownikom oraz rolnikom lub rybakom możliwości wykonania ich prawa do nieodpłatnego nabycia akcji, o których mowa w ust. 1, powinno nastąpić niezwłocznie po zarejestrowaniu uchwały walnego zgromadzenia o podwyższeniu kapitału spółki, do której Skarb Państwa wniósł akcje spółki powstałej w wyniku komercjalizacji.
+2. Rada Ministrów w drodze nia, zakres analizy, o której mowa w ust. 1, sposób jej zlecania, opracowania i finansowania oraz warunki, w razie których od opraco wania analizy.
 
-3. Podstawą ustalenia liczby przysługujących uprawnionym pracownikom oraz rolnikom lub rybakom akcji spółki, do której wniesiono akcje spółki powstałej w wyniku komercjalizacji, jest wycena wartości aportu w postaci akcji spółki powstałej w wyniku komercjalizacji oraz ustalony na jej podstawie parytet służący określeniu liczby akcji obejmowanych przez Skarb Państwa w zamian za wnoszone akcje. Liczba akcji zbywanych nieodpłatnie uprawnionym pracownikom oraz rolnikom lub rybakom powinna być proporcjonalna do liczby akcji należnych im na podstawie art. 36 albo art. 37 i określa się ją na podstawie stosunku liczby akcji wnoszonych do liczby akcji objętych przez Skarb Państwa.
+**Art. 43.**
 
-4. Uprawnieni pracownicy oraz rolnicy lub rybacy mogą skorzystać z prawa do nieodpłatnego nabycia akcji spółki, do której Skarb Państwa wniósł akcje spółki powstałej w wyniku komercjalizacji, o ile w ciągu 2 miesięcy od dnia złożenia im oferty, o której mowa w ust. 1, przez podmiot uprawniony do wykonywania praw z akcji należących do Skarbu Państwa w rozumieniu art. 2 pkt 4a ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym w spółce, do której te akcje zostały wniesione, złożą spółce powstałej w wyniku komercjalizacji pisemne oświadczenie o zamiarze wykonania przysługującego im prawa do nieodpłatnego nabycia akcji. Niezłożenie oświadczenia w powyższym terminie powoduje utratę prawa do wykonania prawa nieodpłatnego nabycia akcji w spółce, do której Skarb Państwa wniósł akcje spółki powstałej w wyniku komercjalizacji.
+1. Z dniem wydania o prywaty zacji ustaje dotychczaso wych organów a ich funkcje wykonuje do spraw prywatyzacji.
 
-5. Do nabycia akcji, o którym mowa w ust. 1, stosuje się odpowiednio przepisy art. 36–38.
+2. Po dokonaniu o których mowa w art. 39 ust. 1, do spraw prywatyzacji spo bilans a wy z wnioskiem do o biorstwa z rejestru stwowych.
 
-### DZIAŁ V (uchylony)
+3. O z rejestru organ cielski zawiadamia Ministra wych.
 
-### DZIAŁ VI Fundusz Reprywatyzacji
+**Art. 44.** Do stosunków pracy, których prywatyzowane bezpo art. 23' Kodeksu pracy stosuje odpowied nio.
 
-**Art. 55.** (uchylony)
+**Art. 45.** Z pracownikami, którzy w dniu wydania za o prywatyzacji byli rady pracowniczej sprywatyzowanego na zasadach przepisa mi niniejszego nie pracodawca, który w wyniku prywatyzacji biorstwo, stosunku pracy za wypowiedze niem, jak za wypowiedzeniem warun ków pracy i na pracownika w jed nego roku od dnia stwowego z rejestru
 
-**Art. 56.**
+**Art. 46.**
 
-1. Z przychodów uzyskanych ze zbycia akcji lub udziałów należących do Skarbu Państwa tworzy się państwowy fundusz celowy pod nazwą Fundusz Reprywatyzacji, na rachunku którego są gromadzone środki pochodzące ze sprzedaży 5 % akcji należących do Skarbu Państwa w każdej ze spółek powstałych w wyniku komercjalizacji, środki z tytułu świadczeń należnych Skarbowi Państwa, o których mowa w art. 31 ust. 1, art. 31a oraz art. 39 ust. 3 ustawy z dnia 9 marca 2017 r. o szczególnych zasadach usuwania skutków prawnych decyzji reprywatyzacyjnych dotyczących nieruchomości warszawskich, wydanych z naruszeniem prawa (Dz. U. z 2021 r. poz. 795), a także odsetki od środków na rachunku Funduszu, z przeznaczeniem na cele związane z zaspokajaniem roszczeń byłych właścicieli mienia przejętego przez Skarb Państwa oraz wypłatę odszkodowań lub zadośćuczynień, o których mowa w art. 33 ustawy z dnia 9 marca 2017 r. o szczególnych zasadach usuwania skutków prawnych decyzji reprywatyzacyjnych dotyczących nieruchomości warszawskich, wydanych z naruszeniem prawa, poprzez:
+1. Zbycie skut ki wobec osób trzecich z ich zawiadomienia, naj jednak z z rejestru.
 
-- **1)** wypłatę odszkodowań wynikających z prawomocnych wyroków i ugód sądowych oraz ostatecznych decyzji administracyjnych wydanych w związku z nacjonalizacją mienia;
-- **2)** wypłatę odszkodowań przyznanych na podstawie art. 10 ustawy z dnia 23 lutego 1991 r. o uznaniu za nieważne orzeczeń wydanych wobec osób represjonowanych za działalność na rzecz niepodległego bytu Państwa Polskiego (Dz. U. z 2024 r. poz. 442);
-- **2a)** wypłatę odszkodowań lub zadośćuczynień, o których mowa w art. 33 ustawy z dnia 9 marca 2017 r. o szczególnych zasadach usuwania skutków prawnych decyzji reprywatyzacyjnych dotyczących nieruchomości warszawskich, wydanych z naruszeniem prawa;
-- **3)** realizację porozumień zawieranych przez ministra właściwego do spraw finansów publicznych oraz jednostki samorządu terytorialnego w sprawie dotacji celowych na rzecz jednostek samorządu terytorialnego przeznaczonych na dofinansowanie zaspokajania przez te jednostki roszczeń byłych właścicieli mienia przejętego przez Skarb Państwa, w szczególności przez wydanie rzeczy lub wypłatę świadczeń wynikających z prawomocnych wyroków i ugód sądowych oraz ostatecznych decyzji administracyjnych wydanych w związku z nacjonalizacją mienia;
-- **4)** pokrycie kosztów postępowania sądowego i egzekucyjnego, w tym wynagrodzeń biegłych sądowych za sporządzanie ekspertyz, których koszty w wyroku ponosi pozwany – Skarb Państwa;
-- **5)** pokrycie kosztów zastępstwa procesowego w sprawach prowadzonych poza granicami kraju;
-- **6)** pokrycie kosztów wynagrodzeń wypłacanych na podstawie umów cywilnoprawnych w zakresie specjalistycznych opinii i analiz, w ramach realizacji celów, o których mowa w pkt 1–5.
+2. Z powodów z lub oraz stronie umowy wzajemnej zawartej z stwem bez na jej odmienne po stanowienia, prawo wypowiedzenia tej Dziennik Ustaw Nr 118 - 2533 - Poz. 561 umowy. Uprawnienie do wypowiedzenia umowy wza jemnej wygasa z trzech od dnia za warcia umowy
 
-1a. (uchylony) 1a . (uchylony) 1a . (uchylony) 1a . (uchylony) 1b. (uchylony)
+**Art. 47.**
 
-2. Dysponentem Funduszu, o którym mowa w ust. 1, jest minister właściwy do spraw finansów publicznych.
+1. w wyniku prywatyzacji bezpo przy prowadzeniu nie wymaga zgody wierzycieli.
 
-2a. (uchylony)
+2. lub jest odpowiedzialny za lub ogranicza do war stanu z chwili nabycia, a cen z chwili zaspokojenia wierzyciela. 2 wniesienie do oraz oddanie przed do korzystania
 
-3. Przychody ze sprzedaży należących do Skarbu Państwa akcji i udziałów, stanowiących do dnia wejścia w życie ustawy z dnia 1 marca 2002 r. o zmianach w organizacji i funkcjonowaniu centralnych organów administracji rządowej i jednostek im podporządkowanych oraz o zmianie niektórych ustaw (Dz. U. poz. 253, z późn. zm. ) rezerwę na cele uwłaszczenia, podmiot uprawniony do wykonywania praw z akcji należących do Skarbu Państwa, w rozumieniu art. 2 pkt 4a ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym, przekazuje na wyodrębniony rachunek ministra właściwego do spraw pracy. Środki te przeznacza się na finansowanie zadań ministra właściwego do spraw pracy na rzecz przeciwdziałania bezrobociu. Minister właściwy do spraw pracy może przekazać środki do:
+**Art. 48.**
 
-- **1)** Funduszu Pracy;
-- **2)** Banku Gospodarstwa Krajowego.
+1. w trybie:
 
-4. (uchylony) 4a. Minister właściwy do spraw finansów publicznych może przekazywać, w terminie do dnia 31 stycznia każdego roku, z Funduszu, o którym mowa w ust. 1, na przychody budżetu państwa, nadwyżkę stanowiącą różnicę między przychodami tego Funduszu uzyskanymi w poprzednim roku budżetowym a sumą wydatków poniesionych w poprzednim roku budżetowym oraz planowanych do poniesienia w danym roku budżetowym na cele, o których mowa w ust. 1.
+- **1)** przetargu publicznego,
+- **2)** na podstawie publicznego za proszenia.
 
-4b. (uchylony) 4c. (uchylony) 4d. (uchylony) 4d . Środki Funduszu, o którym mowa w ust. 1, mogą być przeznaczone na udzielanie przez Skarb Państwa, reprezentowany przez ministra właściwego do spraw aktywów państwowych pożyczek na rzecz:
+2. W przypadku w try bie w ust. 1 pkt 2, w umowie w w zakresie przewidywanych inwestycji, ochrony dowiska i dóbr kultury oraz ochrony miejsc pracy. Zo socjalne ustalone z przedstawicielami pra cowników umowy.
 
-- **1)** spółek z udziałem Skarbu Państwa lub państwowej osoby prawnej, w których ponad połowa akcji albo udziałów należy do Skarbu Państwa lub innych państwowych osób prawnych;
-- **2)** przedsiębiorców, w stosunku do których osoby, o których mowa w pkt 1, są przedsiębiorcami dominującymi, w rozumieniu art. 4 pkt 3 ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów.
+3. do 15% ceny nie jednak stano iloczyn liczby pracowników zatrudnionych w w dniu oraz kwoty osiemnastu w sektorze bez z zysku, obliczo nych z okresu mie w którym przekazu je na fundusz socjalnych nie niej do dnia pierwszej za O pomniejsza
 
-4d. Oprocentowanie pożyczek nie może być niższe niż maksymalna stawka oprocentowania środków przyjętych w depozyt przez Ministra Finansów określona według przepisów wydanych na podstawie art. 78g ust. 1 pkt 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2024 r. poz. 1530, z późn. zm. ) powiększona o jeden punkt procentowy.
+4. W przypadku które na z rejestru uregulowane wobec bu oraz z w iloczynie, o którym mowa w ust. 3, osiemna stu dwu dziestu czterech
 
-4d. W przypadku udzielenia pożyczki zgodnie z ust. 4d i 4d , na rachunku Funduszu, o którym mowa w ust. 1, gromadzi się całość dochodów z tytułu odsetek oraz przychodów z tytułu spłaty pożyczek.
+5. za dokonana w ratach pod warunkiem zabezpiecze nia kwoty do po uiszczeniu pierw szej raty.
 
-4e. Dotacja, o której mowa w ust. 1 pkt 3, może zostać udzielona, jeżeli pozwala na to stan środków finansowych zgromadzonych na rachunku Funduszu, o którym mowa w ust. 1, oraz jeżeli jednostka samorządu terytorialnego wykaże szczególne okoliczności uzasadniające udzielenie dotacji, w tym związane z jej sytuacją finansową, uniemożliwiającą samodzielne zaspokojenie roszczeń, o których mowa w ust. 1 pkt 3.
+6. W przypadku, o którym mowa w ust. 5, pierwsza rata za wynosi co naj mniej 20% tej ceny. kwota jest w ra tach przez okres nie 5 lat. Kwota ta jest oprocentowana w nie wzrostu cen dóbr inwestycyjnych, co kwar przez Prezesa Statystycznego w Dzienniku Rzeczypospolitej Polskiej "Monitor Polski".
 
-4f. Łączna wysokość dotacji, o których mowa w ust. 1 pkt 3, udzielonych w roku budżetowym nie może być wyższa niż 200 000 000 zł.
+7. Rada Ministrów w drodze rozpo tryb o której mowa w ust. 1.
 
-4g. Stan środków zgromadzonych na rachunku Funduszu, o którym mowa w ust. 1, nie może być niższy niż dwukrotność wydatków poniesionych w poprzednim roku budżetowym na cele, o których mowa w ust. 1 pkt 1, 2, 4, 5, 6.
+**Art. 49.**
 
-5. (uchylony)
+1. Wniesienie do w trybie na podstawie publicznego zaproszenia.
 
-6. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, szczegółowy sposób postępowania w zakresie:
+2. Do o której mowa w ust. 1, akcjonariusze inni Skarb powinni na po krycie co najmniej 25% akcyjnego.
 
-- **1)** wypłaty odszkodowań, o których mowa w ust. 1 pkt 1 i 2, 1a) wypłaty odszkodowań lub zadośćuczynień, o których mowa w ust. 1 pkt 2a,
-- **2)** udzielania dotacji, o których mowa w ust. 1 pkt 3,
-- **3)** udzielania pożyczek, o których mowa w ust. 4d – mając na względzie potrzebę zapewnienia prawidłowej gospodarki finansowej Funduszu, o którym mowa w ust. 1, oraz ochronę interesów Skarbu Państwa.
+3. Zbycie akcji do Skarbu w o której mowa w ust. 1, w sposób wart. 33.
 
-7. Z przychodów uzyskanych z prywatyzacji przeznacza się, na zasadach i w trybie określonym w ustawie z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U. z 2024 r. poz.
+4. Osobom pracownikami stwa w dniu zawarcia umowy prawo do nie nabycia do 15% akcji do Skar bu w o której mowa w ust. 1. Przepisy art. 36-38 stosuje odpowiednio.
 
-- **291)** środki na rachunek rezerw poręczeniowych i gwarancyjnych Skarbu Państwa.
+**Art. 50.**
 
-8. (uchylony)
+1. W przypadku gdy akcjonariuszami ki, o której mowa wart. 49, oprócz Skarbu osoby w dniu wydania o prywatyzacji pracownikami biorstwa rolnicy lub rybacy, powinni oni na pokrycie co najmniej 10% akcyjnego.
 
-**Art. 56a.** (uchylony)
+2. W przypadku, o którym mowa w ust. 1, statut corocznego oferowania przez Skarb akcjonariuszom, o których mowa w ust. 1, akcji w takiej liczbie, aby ich w kapitale z dnia wpisania do rejestru, z akcjami ob zgodnie z ust. 1 oraz nabytymi zgodnie z art. 49 ust. 4, po latach od dnia wpisania do rejestru handlowego, 51%. Akcje oferowa ne i nie nabyte przez akcjonariuszy, o których mowa w ust. 1, zbywane w trybie wart. 33.
 
-### DZIAŁ VII Przepisy szczególne, przejściowe i końcowe
+3. Rada Ministrów w drodze nia, warunki, jakie powinien statut o której mowa w ust. 1.
 
-**Art. 57.** W okresie sześciu miesięcy od dnia wejścia w życie ustawy, w stosunku do przedsiębiorstw państwowych, o których mowa w art. 39 ust. 2, przepisu art. 4 ust. 1 pkt 3 nie stosuje się.
+**Art. 51.**
+
+1. Oddanie do go korzystania na rzecz warunki:
+
+- **1)** do odpowiednio ponad ogólnej liczby pracowników stwowego albo pracowników i rolników lub ryba ków,
+- **2)** akcjonariuszami osoby fizyczne miejsce zamieszkania w kraju, chyba Mi nister zezwoli na uczestnictwo w osobom fizycznym cym miejsce zamieszkania za lub osobom prawnym,
+- **3)** akcyjny nie jest z za przypadków w przepi sach wydanych na podstawie art. 54 ust. 2 pkt 1, 20% funduszu i fundu szu w dniu, na który spo bilans za rok obrotowy wydanie o prywatyzacji stwowych, o których mowa wart. 39 ust. 2, przepisu art. 4 ust. 1 pkt 3 nie stosuje
 
 **Art. 58.**
 
-1. Nierozpatrzone do dnia wejścia w życie ustawy wnioski o przekształcenie przedsiębiorstwa państwowego w spółkę ocenia się według przepisów ustawy.
+1. Nie rozpatrzone do dnia w ustawy wnioski o w ocenia przepisów ustawy.
 
-2. Jeżeli z przepisów ustawy wynika konieczność uzupełnienia wniosku, o którym mowa w ust. 1, wnioskodawca jest obowiązany uczynić to w terminie nieprzekraczającym dwóch miesięcy od dnia wejścia w życie ustawy.
+2. z przepisów ustawy wynika wniosku, o którym mowa w ust. 1, wnio skodawca jest to w terminie nie dwóch od dnia w cie ustawy.
 
-**Art. 59.** W okresie trzech lat od dnia wejścia w życie ustawy kwoty, stanowiące 5 % przychodów Skarbu Państwa z tytułu prywatyzacji bezpośredniej dokonywanej przez wojewodów, pozostają w dyspozycji organów dokonujących prywatyzacji z przeznaczeniem na cele związane z realizacją inwestycji o charakterze użyteczności publicznej.
-
-**Art. 59a.** (uchylony)
-
-**Art. 59b.** (uchylony)
+**Art. 59.** W okresie trzech lat od dnia w cie ustawy kwoty, 5% przychodów Skarbu z prywatyzacji dokony wanej przez wojewodów, w dyspozycji orga nów prywatyzacji z przeznaczeniem na cele z inwestycji o charakterze publicznej.
 
 **Art. 60.**
 
-1. Przepisy ustawy stosuje się do spółek, w których jedynym akcjonariuszem jest Skarb Państwa, tworzonych na zasadach określonych w przepisach o prywatyzacji przedsiębiorstw państwowych, jeżeli zostały wpisane do rejestru przedsiębiorców przed dniem wejścia w życie ustawy.
+1. Przepisy ustawy stosuje do w których jedynym akcjonariuszem jest Skarb stwa, tworzonych na zasadach w przepi sach o prywatyzacji je wpisane do rejestru handlowego przed dniem w ustawy.
 
-2. (uchylony)
+2. Skarb w terminie jednego roku od dnia w ustawy dostosuje statuty o któ rych mowa w ust. 1, do przepisów ustawy.
 
-3. (uchylony)
+3. Do rady nadzorczej, w dniu w ustawy, przepisu art. 12 nie stosuje
 
-4. (uchylony)
+4. rad nadzorczych pierwszej kadencji w wybrani przez pracowników, do egzaminu, o którym mowa wart. 12 ust. 2, w jednego roku od dnia w ustawy.
 
 **Art. 61.**
 
-1. W okresie roku od wpisania spółki do rejestru przedsiębiorców nie można, bez zgody rady nadzorczej, rozwiązać za wypowiedzeniem stosunku pracy z pracownikiem będącym członkiem rady pracowniczej w dniu wykreślenia przedsiębiorstwa państwowego z rejestru, jak również zmienić za wypowiedzeniem takiemu pracownikowi warunków pracy i płacy na jego niekorzyść.
+1. W okresie roku od wpisania do re jestru handlowego nie bez zgody rady nadzor czej, za wypowiedzeniem stosunku pracy z pracownikiem rady pracowniczej w dniu z rejestru, jak za wypowiedzeniem ta kiemu pracownikowi warunków pracy i na jego
 
-2. Jeżeli roczny okres ochrony stosunku pracy, o którym mowa w art. 6 ustawy z dnia 25 września 1981 r. o samorządzie załogi przedsiębiorstwa państwowego (Dz. U. z 2015 r. poz. 1543), rozciąga się w części na okres zatrudnienia pracownika w spółce powstałej w wyniku komercjalizacji przedsiębiorstwa państwowego – wypowiedzenie w tym okresie stosunku pracy pracownikowi korzystającemu z ochrony wymaga zgody rady nadzorczej.
+2. roczny okres ochrony stosunku pracy, o któ rym mowa wart. 6 ustawy z dnia 25 1981 r. o (Dz. U. Nr 24, poz. 123, z 1986 r. Nr 17, poz. 88, z 1987 r. Nr 33, poz. 181, z 1989 r. Nr 10, poz. 57, z 1990 r. Nr 17, poz. 99, z 1991 r. Nr 2, poz. 6 oraz z 1996 r. Nr 24, poz. 110), w na okres zatrudnienia pracownika w w wyniku komercjaliza cji - wypowiedzenie w tym okresie stosunku pracy pracownikowi cemu z ochrony wymaga zgody rady nadzorczej.
 
-3. Zgoda rady nadzorczej jest konieczna do zmiany za wypowiedzeniem warunków pracy i płacy na niekorzyść pracownika, o którym mowa w ust. 2.
+3. Zgoda rady nadzorczej jest konieczna do zmiany za wypowiedzeniem warunków pracy i na nieko pracownika, o którym mowa w ust. 2.
 
-**Art. 62.** (uchylony)
+**Art. 62.**
+
+1. Informacje uzyskane przy opracowaniu analiz, o których mowa wart. 32 ust. 1 oraz wart. 42 ust. 1, ochronie na za sadach przepisami o tajemnicy wej i
+
+2. Ochronie, o której mowa w ust. 1, rów informacje uzyskane w z
+
+3. Do informacji ujawnionych przy wprowadzaniu akcji do publicznego obrotu przepisów ust. 1 i 2 nie sto suje
 
 **Art. 63.**
 
-1. Jeżeli przed dniem wejścia w życie ustawy Skarb Państwa rozpoczął udostępnianie akcji na zasadach preferencyjnych, nabywanie przez pracowników przedsiębiorstwa przekształconego w spółkę oraz przez producentów rolnych na trwałe związanych z przedsiębiorstwem poprzez kontraktację lub kooperację akcji spółek powstałych w wyniku przekształcenia przedsiębiorstw państwowych odbywa się na zasadach określonych w przepisach dotychczasowych.
+1. przed dniem w usta wy Skarb akcji na za sadach preferencyjnych, nabywanie przez pracowni ków oraz rolników lub rybaków akcji powsta w wyniku stwowych odbywa na zasadach w przepisach dotychczasowych.
 
-2. Jeżeli przed dniem wejścia w życie ustawy Skarb Państwa nie rozpoczął udostępniania akcji na zasadach preferencyjnych, ich nabywanie przez uprawnionych pracowników oraz rolników lub rybaków odbywa się na zasadach określonych w ustawie.
+2. przed dniem w ustawy Skarb nie akcji na zasadach preferencyjnych, nabywanie przez pracowników oraz rolników lub rybaków akcji w wyni ku od bywa na zasadach w ustawie.
 
-3. Uprawnionym pracownikom zatrudnionym w przedsiębiorstwie w dniu zawarcia umowy rozporządzającej, na podstawie której Skarb Państwa wniósł to przedsiębiorstwo lub zorganizowaną część jego mienia do spółki według dotychczasowych zasad, przysługuje prawo do nieodpłatnego nabycia do 15 % akcji stanowiących własność Skarbu Państwa według stanu na dzień wejścia ustawy w życie. Przepisy art. 36 i 38 stosuje się odpowiednio.
-
-4. Rolnikom lub rybakom przysługuje prawo do nieodpłatnego nabycia do 15 % akcji stanowiących własność Skarbu Państwa, według stanu na dzień wejścia w życie ustawy, w spółkach, do których Skarb Państwa wniósł, na podstawie przepisów dotychczasowych, przedsiębiorstwo lub zorganizowane części mienia przedsiębiorstwa państwowego. Przepisy art. 36–38 stosuje się odpowiednio.
-
-5. Bieg terminu, o którym mowa w art. 38 ust. 1 i art. 49 ust. 4, rozpoczyna się z dniem wejścia w życie ustawy. Pozostałe terminy określone w przepisach rozdziału 2 działu IV oblicza się odpowiednio.
-
-6. Jeżeli Skarb Państwa przed dniem wejścia w życie ustawy zbył akcje na zasadach ogólnych, a nie rozpoczął udostępniania akcji na zasadach preferencyjnych, prawo do nieodpłatnego nabycia akcji powstaje w dniu upływu terminu, o którym mowa w ust. 5, natomiast z okresu sześciu miesięcy poprzedzających ten dzień oblicza się średnią wynagrodzeń miesięcznych stanowiących podstawę określenia łącznej wartości nominalnej akcji przeznaczonych do nieodpłatnego nabycia, o której mowa w art. 36 ust. 2 i 3.
+3. Przepis art. 49 ust. 4 stosuje odpowiednio do osób pracownikami stwowych, w tym zatrudnionych w zorganizowanych tych które na podstawie do tychczasowych przepisów wniesione do spó w których Skarb posiada akcje w dniu w ustawy.
 
 **Art. 64.**
 
-1. W sprawach wszczętych na podstawie przepisów rozdziału 4 ustawy, o której mowa w art. 74, stosuje się przepisy dotychczasowe.
+1. W sprawach na podstawie dotychczasowych przepisów 4 ustawy, o któ rej mowa wart. 74, i nie wydaniem za o postawieniu go w stan likwidacji stosuje przepisy dotychczaso we; w sprawach tych stosuje jednak przepisy usta wy, Minister na wniosek organu dotychczas organu albo wspólny wniosek dyrektora i ra dy pracowniczej tak postanowi.
 
-2. Organ założycielski może, na wniosek spółki będącej stroną umowy o oddanie mienia Skarbu Państwa do odpłatnego korzystania, złożony w terminie trzech miesięcy od dnia wejścia w życie rozporządzenia, o którym mowa w art. 54 ust. 1:
+2. Organ na wniosek umowy o oddanie mienia Skarbu do korzystania, w terminie trzech od dnia w o któ rym mowa wart. 54 ust. 1:
 
-- **1)** podjąć negocjacje w sprawie zmiany dotychczasowych warunków spłaty należności za korzystanie z mienia Skarbu Państwa;
-- **2)** zawrzeć umowę sprzedaży; w takim przypadku sprzedaż następuje za cenę ustaloną w umowie o oddanie mienia Skarbu Państwa do odpłatnego korzystania, a na poczet ceny zalicza się uiszczone przez spółkę raty kapitałowe z tytułu spłaty wartości przedmiotu umowy.
+- **1)** negocjacje w sprawie zmiany dotychczaso wych warunków za korzystanie z mienia Skarbu
+- **2)** w takim przypadku za w umowie o oddanie mienia Skarbu do korzystania, a na poczet ceny zalicza uiszczone przez raty z warto przedmiotu umowy.
 
-**Art. 65.** (uchylony)
+**Art. 65.** Upływająca w czasie trwania prywatyzacji kadencja organów ulega do dnia wydania o pry watyzacji
 
-**Art. 66.** (uchylony)
+**Art. 66.** Stosunek pracy pracowników zatrudnio nych w na podstawie wygasa z dniem wydania o pry watyzacji Pracownikom tym je odprawa w wynagro dzenia, liczonego jak ekwiwalent za urlop wypoczynkowy.
 
-**Art. 67.** Skutki prawne czynności dokonanych przed dniem wejścia w życie ustawy ocenia się według przepisów dotychczasowych.
+**Art. 67.** Skutki prawne dokonanych przed dniem w ustawy ocenia przepisów dotychczasowych.
 
-**Art. 68.** (uchylony)
+**Art. 68.** Przepisy ustawy oraz przepisy wydane na jej podstawie stosuje odpowiednio do komercjali zacji i prywatyzacji komunalnych.
 
-**Art. 69.** (uchylony)
+**Art. 69.**
 
-**Art. 69a.**
+1. Wójt lub burmistrz (prezydent miasta) jest do Ministrowi informacji i prywatyzacji mienia komunalnego.
 
-1. (uchylony)
+2. Minister w drodze zakres i tryb infor macji, o których mowa w ust. 1.
 
-2. (uchylony)
+**Art. 70.** W ustawie z dnia 25 1981 r. o (Dz. U. z 1991 r. Nr 18, poz. 80, Nr 75, poz. 329, Nr 101, poz. 444 i Nr 107, poz. 464, z 1993 r. Nr 18, poz. 82 i Nr 60, poz. 280, z 1994 r. Nr 1, poz. 3, Nr 80, poz. 368 i Nr 113, poz. 547, z 1995 r. Nr 1, poz. 2, Nr 95, poz. 474 i Nr 154, poz. 791 oraz z 1996 r. Nr 90, poz. 405) wart. 25 w ust. 3 wyrazy "art. 37 ustawy o prywatyzacji biorstw i".
 
-3. (uchylony)
+**Art. 71.** W ustawie z dnia 25 1981 r. o sa (Dz. U. Nr 24, poz. 123, z 1986 r. Nr 17, poz. 88, z 1987 r. Nr 33, poz. 181, z 1989 r. Nr 10, poz. 57, z 1990 r. Nr 17, poz. 99, z 1991 r. Nr 2, poz. 6 oraz z 1996 r. Nr 24, poz. 110) wart. 25 w ust. 2 po wyrazach ..likwidacji stwa," dodaje wyrazy "komercjalizacji i prywatyza cji - z przypadku, gdy z wnioskiem dyrektor przed i rada pracownicza,".
 
-4. (uchylony)
+**Art. 72.** W ustawie z dnia 3 lutego 1993 r. o restruk turyzacji finansowej i banków oraz o zmianie niektórych ustaw (Dz. U. Nr 18, poz. 82 oraz z 1996 r. Nr 52, poz. 235 i Nr 106, poz. 496) w art. 20:
 
-**Art. 69b.**
+**Art. 73.** W ustawie z dnia 4 marca 1994 r. o wym funduszu socjalnych (Dz. U. z 1996 r. Nr 70, poz. 335) wart. 7 ust. 3 otrzymuje brzmienie: ,,3. W przypadku prywatyzacji na wniesieniu do zgod nie z przepisami o prywatyzacji biorstw Fundusz podmiotu odpowiednio o Funduszu prywatyzowa nego
 
-1. (uchylony) 1a. (uchylony) 1b. (uchylony) 1c. (uchylony)
+**Art. 74.** Traci moc ustawa z dnia 13 lipca 1990 r. o prywatyzacji (Dz. U. Nr 51, poz. 298 i Nr 85, poz. 498, z 1991 r. Nr 60, poz. 253 i Nr 111, poz. 480, z 1994 r. Nr 121, poz. 591 i Nr 133, poz. 685 oraz z 1996 r. Nr 90, poz. 405 i Nr 106, poz. 496).
 
-2. Prawo do nieodpłatnego nabycia akcji przysługujące na podstawie niniejszej ustawy lub na podstawie przepisów odrębnych może być wykonane przez osoby uprawnione tylko z jednego tytułu; uprawniony przed nabyciem akcji składa oświadczenie, że nie skorzystał z prawa do nieodpłatnego nabycia akcji z innego tytułu.
+**Art. 75.** Jeżeli przepisy na przepisem art. 74 lub ogólnie do przepisów o prywatyzacji stosuje w tym zakresie odpowiednio przepisy ustawy o komercjalizacji i prywatyzacji przed
 
-**Art. 69c.** (uchylony)
+**Art. 76.** Do czasu wydania przepisów wykonaw czych moc przepisy wykonawcze do usta wy, o której mowa wart. 74, o ile nie sprzeczne z
 
-**Art. 69d.** (uchylony)
-
-**Art. 69e.** Kto składa fałszywe oświadczenie w celu wyłudzenia od Skarbu Państwa nieodpłatnie zbywanych akcji spółek należących do Skarbu Państwa, innych papierów wartościowych lub innego świadczenia określonego w przepisach o prywatyzacji mienia Skarbu Państwa, do którego otrzymania nie jest uprawniony, podlega karze grzywny albo karze aresztu, albo obu tym karom łącznie.
-
-**Art. 69f.** (uchylony)
-
-**Art. 69g.** Środki Funduszu, o którym mowa w art. 56 ust. 1 pkt 1, w kwocie nieprzekraczającej łącznie 30 000 000 zł, mogą zostać w roku 2016 przeznaczone na podwyższenie kapitału zakładowego spółek „Telewizja Polska – Spółka Akcyjna”, „Polskie Radio – Spółka Akcyjna” oraz spółek radiofonii regionalnej.
-
-**Art. 69h.**
-
-1. Środki Funduszu, o którym mowa w art. 56 ust. 1, w latach 2019– 2025 mogą być przeznaczane na nabywanie lub obejmowanie przez Skarb Państwa, reprezentowany przez ministra właściwego do spraw aktywów państwowych, akcji w spółkach.
-
-1a. W roku 2025 obejmowanie akcji przez Skarb Państwa, reprezentowany przez ministra właściwego do spraw aktywów państwowych, może być dokonywane poprzez konwersję wierzytelności Funduszu, o którym mowa w art. 56 ust. 1, z tytułu udzielonych pożyczek, o których mowa w art. 56 ust. 4d .
-
-1b. W roku 2026 środki Funduszu, o którym mowa w art. 56 ust. 1, mogą być, po uzyskaniu uprzedniej zgody dysponenta Funduszu, przeznaczane na obejmowanie przez Skarb Państwa, reprezentowany przez ministra właściwego do spraw aktywów państwowych, akcji w spółkach, z zastrzeżeniem że środki finansowe uzyskane przez spółki z tytułu tego objęcia będą przeznaczone na wzmocnienie potencjału militarnego lub bezpieczeństwa energetycznego, żywnościowego lub zdrowotnego.
-
-2. Do nabywania lub obejmowania akcji przez Skarb Państwa, reprezentowany przez ministra właściwego do spraw aktywów państwowych, na podstawie ust. 1, stosuje się przepisy art. 9a i art. 9b ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym.
-
-2a. Do obejmowania akcji przez Skarb Państwa, reprezentowany przez ministra właściwego do spraw aktywów państwowych, na podstawie ust. 1b stosuje się przepisy art. 9b ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym.
-
-3. Na rachunku Funduszu, o którym mowa w art. 56 ust. 1, gromadzi się:
-
-- **1)** całość przychodów z tytułu zbycia akcji nabytych, na podstawie ust. 1 oraz 5, ze środków Funduszu, o którym mowa w art. 56 ust. 1;
-- **2)** dochody uzyskane z tytułu posiadania akcji nabytych, na podstawie ust. 1 oraz 5, ze środków Funduszu, o którym mowa w art. 56 ust. 1.
-
-4. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, szczegółowy sposób postępowania w zakresie nabywania lub obejmowania przez Skarb Państwa, reprezentowany przez ministra właściwego do spraw aktywów państwowych, akcji, na podstawie ust. 1, mając na względzie potrzebę zapewnienia prawidłowej gospodarki finansowej Funduszu, o którym mowa w art. 56 ust. 1, oraz ochronę interesów Skarbu Państwa.
-
-4a. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, szczegółowy sposób postępowania w zakresie obejmowania przez Skarb Państwa, reprezentowany przez ministra właściwego do spraw aktywów państwowych, akcji na podstawie ust. 1b, mając na względzie potrzebę zapewnienia prawidłowej gospodarki finansowej Funduszu, o którym mowa w art. 56 ust. 1, oraz ochronę interesów Skarbu Państwa.
-
-5. Niezależnie od przepisów zawartych w ust. 1, w 2020 r. środki Funduszu, o którym mowa w art. 56 ust. 1, mogą zostać przeznaczone na objęcie przez Skarb Państwa, reprezentowany przez ministra właściwego do spraw aktywów państwowych, akcji w spółce Agencja Rozwoju Przemysłu S.A.
-
-6. Środki uzyskane przez Agencję Rozwoju Przemysłu S.A. w sposób, o którym mowa w ust. 5, zostaną przeznaczone na udzielanie przez Agencję Rozwoju Przemysłu S.A. pomocy publicznej dla przedsiębiorców, na udzielanie przez Agencję Rozwoju Przemysłu S.A. wsparcia niebędącego pomocą publiczną lub na realizację innych działań w celu przeciwdziałania skutkom COVID-19.
-
-7. Do obejmowania akcji przez Skarb Państwa, reprezentowany przez ministra właściwego do spraw aktywów państwowych, na podstawie ust. 5, nie stosuje się przepisu art. 9b ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym.
-
-8. Łączna wartość środków przeznaczonych na objęcie akcji w spółce Agencja Rozwoju Przemysłu S.A. wynosi nie więcej niż 900 000 000 zł.
-
-9. Agencja Rozwoju Przemysłu S.A. prowadzi odrębną ewidencję księgową dla działań, o których mowa w ust. 6, w tym jest obowiązana do prawidłowego przypisywania przychodów i kosztów na podstawie metod mających obiektywne uzasadnienie.
-
-10. Zmiany planu finansowego Funduszu, o którym mowa w art. 56 ust. 1, mogą być dokonywane w roku 2020 mimo niespełnienia wymogów określonych w art. 29 ust. 10–12 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
-
-11. W latach 2021–2024 w planie finansowym Funduszu, o którym mowa w art. 56 ust. 1, mogą być dokonywane zmiany mimo niespełnienia wymogów określonych w art. 29 ust. 12 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
-
-**Art. 70.** (pominięty)
-
-**Art. 71.** (pominięty)
-
-**Art. 72.** (pominięty)
-
-**Art. 73.** (pominięty)
-
-**Art. 74.** Traci moc ustawa z dnia 13 lipca 1990 r. o prywatyzacji przedsiębiorstw państwowych (Dz. U. poz. 298, z późn. zm. ).
-
-**Art. 75.** Jeżeli obowiązujące przepisy powołują się na uchyloną przepisem art. 74 ustawę lub odsyłają ogólnie do przepisów o prywatyzacji przedsiębiorstw państwowych, stosuje się w tym zakresie odpowiednio przepisy ustawy o komercjalizacji i prywatyzacji przedsiębiorstw państwowych.
-
-**Art. 76.** Do czasu wydania przepisów wykonawczych zachowują moc przepisy wykonawcze do ustawy, o której mowa w art. 74, o ile nie są sprzeczne z ustawą.
-
-**Art. 77.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia , z tym że przepisy art. 4, 25, 39, 48–50, 63 i 70–73 oraz rozdziału 2 działu IV wchodzą w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 77.** Ustawa wchodzi w po 3 mie od dnia z tym przepisy art. 4, 25, 39, 48-50, 63 i 70-73 oraz 2 IV wcho w po 14 dni od dnia Prezydent Rzeczypospolitej Polskiej: A. o ISSN 0867-3411 Cena 84 gr (8 400
 

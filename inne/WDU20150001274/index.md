@@ -21,7 +21,7 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2015-06-25 |
 | Data wydania | 2015-08-31 |
-| Ostatnia zmiana | 2025-12-15 |
+| Ostatnia zmiana | 2026-04-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001274) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1274/text.pdf) |
 
 USTAWA z dnia 25 czerwca 2015 r.

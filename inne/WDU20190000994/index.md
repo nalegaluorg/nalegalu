@@ -40,11 +40,11 @@ Art. 15–18. (pominięte)
 
 **Art. 3.** Zgłoszenia podejrzanej transakcji próby dokonania takiej transakcji, zniknięć kradzieży znacznych ilości substancji wymienionych załącznikach I II nr 98/2013 aktach delegowanych wydanych na podstawie art. 12 tego oraz mieszanin substancji zawierających te substancje dokonuje niezwłocznie.
 
-**Art. 4.** Minister właściwy spraw gospodarki ogłasza, drodze obwieszczenia, Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, wykaz aktów delegowanych wydanych na podstawie art. 12 nr 98/2013. 2. System zgłaszania prowadzi teleinformatycznym. 3. Administratorem danych informacji zgromadzonych zgłaszania jest Komendant Główny Policji. 4. Komendant Główny Policji podaje wiadomości publicznej, tym Biuletynie Informacji Publicznej na swojej stronie podmiotowej, numer telefonu oraz adres poczty elektronicznej krajowego punktu kontaktowego, którym art. 145j ust. 1 pkt 6 ustawy 6 kwietnia 1990 Policji U. 2019 poz. 161 125). 5. Komendant Główny Policji może upoważnić kierowników zastępców kierowników jednostek organizacyjnych Policji komórek organizacyjnych Komendy Głównej Policji udzielania cofania jego imieniu upoważnień przetwarzania danych osobowych zgłaszania.
+**Art. 4.** Minister właściwy spraw gospodarki ogłasza, drodze obwieszczenia, Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, wykaz aktów delegowanych wydanych na podstawie art. 12 nr 98/2013. 2. System prowadzi systemie teleinformatycznym. 3. Administratorem danych informacji zgromadzonych systemie jest Komendant Główny Policji. 4. Komendant Główny Policji podaje wiadomości publicznej, tym Biuletynie Informacji Publicznej na swojej stronie podmiotowej, numer telefonu oraz adres poczty elektronicznej krajowego punktu kontaktowego, którym art. 145j ust. 1 pkt 6 ustawy 6 kwietnia 1990 Policji U. 2019 poz. 161 125). 5. Komendant Główny Policji może upoważnić kierowników zastępców kierowników jednostek organizacyjnych Policji komórek organizacyjnych Komendy Głównej Policji udzielania cofania jego imieniu upoważnień przetwarzania danych osobowych systemie zgłaszania.
 
 **Art. 6.**
 
-1. W zgłaszania gromadzi się:
+1. W systemie gromadzi się:
 
 - **1)** dane zgłaszającym:
     - **a)** imię nazwisko,
@@ -59,13 +59,13 @@ Art. 15–18. (pominięte)
 - **3)** inne informacje mogące mieć istotny wpływ na wyjaśnienie zdarzenia, szczególności wszelkie dane dotyczące płatności;
 - **4)** dane przekazane przez krajowe punkty kontaktowe państw członkowskich Unii Europejskiej.
 
-2. Dane zgromadzone zgłaszania przechowuje przez 2 lata od dokonania zgłoszenia.
+2. Dane zgromadzone systemie przechowuje przez 2 lata od dokonania zgłoszenia.
 
-**Art. 7.** W przypadku zgłoszenia podejrzanej transakcji próby dokonania podejrzanej transakcji przez przeciętnego użytkownika podmiot gospodarczy, zgłaszania gromadzi także informacje niezbędne ich zidentyfikowania, tym niezbędne ustalenia tożsamości przeciętnego użytkownika, osoby fizycznej, której art. 3 pkt 9 nr 98/2013, osoby działającej imieniu podmiotu gospodarczego, zwanych dalej „klientem”, ile są one znane zgłaszającemu:
+**Art. 7.** W przypadku zgłoszenia podejrzanej transakcji próby dokonania podejrzanej transakcji przez przeciętnego użytkownika podmiot gospodarczy, systemie gromadzi także informacje niezbędne ich zidentyfikowania, tym niezbędne ustalenia tożsamości przeciętnego użytkownika, osoby fizycznej, której art. 3 pkt 9 nr 98/2013, osoby działającej imieniu podmiotu gospodarczego, zwanych dalej „klientem”, ile są one znane zgłaszającemu:
 
 **Art. 9.**
 
-- **2)** Do danych osobowych zgromadzonych zgłaszania stosuje przepisy ustawy 14 grudnia 2018 ochronie danych osobowych przetwarzanych związku zapobieganiem zwalczaniem przestępczości U. 2019 poz. 125).
+- **2)** Do danych osobowych zgromadzonych systemie stosuje przepisy ustawy 14 grudnia 2018 ochronie danych osobowych przetwarzanych związku zapobieganiem zwalczaniem przestępczości U. 2019 poz. 125).
 
 **Art. 10.** Komendant Główny Policji przekazuje ministrowi właściwemu spraw wewnętrznych oraz ministrowi właściwemu spraw gospodarki, raz roku, terminie 1 marca za okres poprzedniego roku kalendarzowego raport zawierający:
 

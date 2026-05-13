@@ -21,7 +21,7 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2000-10-26 |
 | Data wydania | 2000-11-27 |
-| Ostatnia zmiana | 2026-04-15 |
+| Ostatnia zmiana | 2026-05-08 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20001031099) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/1099/text.pdf) |
 
 **Art. 21.** Zysk netto PRS SA przeznacza się na: Przepis końcowy

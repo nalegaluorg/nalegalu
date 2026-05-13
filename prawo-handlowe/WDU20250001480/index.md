@@ -21,7 +21,7 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2025-10-20 |
 | Data wydania | 2025-10-28 |
-| Ostatnia zmiana | 2026-03-30 |
+| Ostatnia zmiana | 2026-05-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001480) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1480/text.pdf) |
 
 OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 20 października 2025 r.

@@ -26,7 +26,7 @@ domain: null
 
 22. W ustawie dnia 8 sierpnia 1996 o Radzie Ministrów z2003 24, 199 80, 717 oraz 2004 238, 2390 273,
 2703) dodaje się art. 39a brzmieniu: ŃArt. 39a. 1. Minister podaje Prezesowi Rady Ministrów następujące dane dotyczące pracowników zatrudnionych gabinecie ją udostępnieniu wBiuletynie Informacji Publicznej.”.
-23.Wustawie zdnia 4 września 1997 odziałach administracji rządowej 159, 1548, póên. zm.
+23.Wustawie zdnia 4 września 1997 odziałach administracji rządowej 2003 159, 1548, póên. zm.
 politycznym ministra: imię (imiona) nazwisko;
 2) datę urodzenia;
 3) miejsce zatrudnienia trzyletnim okresie poprzedzającym dzień, którym osoba została zatrudniona gabinecie politycznym ministra;

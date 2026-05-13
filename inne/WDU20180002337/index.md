@@ -24,9 +24,9 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002337) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2337/text.pdf) |
 
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze 20 lipca 2000 ogłaszaniu aktów normatywnych niektórych innych aktów prawnych (Dz. U. 2017 poz. 1523 oraz 2018 poz. 2243) ogłasza się załączniku niniejszego obwieszczenia jednolity tekst 28 marca 1933 grobach cmentarzach wojennych (Dz. U.
-2017 poz. 681), uwzględnieniem zmian wprowadzonych ustawą 26 stycznia 2018 zmianie Zbrodni przeciwko Narodowi Polskiemu, grobach cmentarzach wojennych, muzeach oraz odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary (Dz. U. poz. 369) oraz zmian wynikających przepisów ogłoszonych przed dniem 21 listopada 2018
-2. Podany załączniku niniejszego obwieszczenia tekst jednolity nie obejmuje art. 5 26 stycznia 2018 zmianie Zbrodni przeciwko Narodowi Polskiemu, grobach cmentarzach wojennych, muzeach oraz odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary (Dz. U. poz. 369), który stanowi: „Art. 5. Ustawa wchodzi życie po upływie 14 dni od ogłoszenia, wyjątkiem art. 1 pkt 4 oraz art. 3, które wchodzą życie po upływie 3 miesięcy od ogłoszenia.”.
+1. Na podstawie art. 16 ust. 1 zdanie pierwsze 20 lipca 2000 ogłaszaniu aktów normatywnych niektórych innych aktów prawnych (Dz. 2017 poz. 1523 oraz 2018 poz. 2243) ogłasza się załączniku niniejszego obwieszczenia jednolity tekst 28 marca 1933 grobach cmentarzach wojennych (Dz.
+2017 poz. 681), uwzględnieniem zmian wprowadzonych ustawą 26 stycznia 2018 zmianie Zbrodni przeciwko Narodowi Polskiemu, grobach cmentarzach wojennych, muzeach oraz odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary (Dz. poz. 369) oraz zmian wynikających przepisów ogłoszonych przed dniem 21 listopada 2018
+2. Podany załączniku niniejszego obwieszczenia tekst jednolity nie obejmuje art. 5 26 stycznia 2018 zmianie Zbrodni przeciwko Narodowi Polskiemu, grobach cmentarzach wojennych, muzeach oraz odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary (Dz. poz. 369), który stanowi: „Art. 5. Ustawa wchodzi życie po upływie 14 dni od ogłoszenia, wyjątkiem art. 1 pkt 4 oraz art. 3, które wchodzą życie po upływie 3 miesięcy od ogłoszenia.”.
 Marszałek Sejmu: M. Kuchciński
 
 **Art. 1.**
@@ -67,7 +67,7 @@ Marszałek Sejmu: M. Kuchciński
 
 **Art. 6.**
 
-1. Groby cmentarze wojenne pozostają pod opieką Państwa. Zwierzchni nadzór nad nimi polegający na sprawdzaniu kontrolowaniu działań podległych jednostek pod względem legalności podejmowania tym zakresie decyzji administracyjnych sprawuje minister właściwy spraw kultury ochrony dziedzictwa narodowego, zachowaniem uprawnień przysługujących Kościołom innym związkom wyznaniowym oraz wójtom (burmistrzom, prezydentom miast) na podstawie 31 stycznia 1959 cmentarzach chowaniu zmarłych (Dz. U. 2017 poz. 912 oraz 4a. W przypadku, którym mowa ust. 4, nadzór nad wykonywaniem przez fundacje, stowarzyszenia instytucje społeczne obowiązku utrzymania grobów cmentarzy wojennych sprawuje wojewoda.
+1. Groby cmentarze wojenne pozostają pod opieką Państwa. Zwierzchni nadzór nad nimi polegający na sprawdzaniu kontrolowaniu działań podległych jednostek pod względem legalności podejmowania tym zakresie decyzji administracyjnych sprawuje minister właściwy spraw kultury ochrony dziedzictwa narodowego, zachowaniem uprawnień przysługujących Kościołom innym związkom wyznaniowym oraz wójtom (burmistrzom, prezydentom miast) na podstawie 31 stycznia 1959 cmentarzach chowaniu zmarłych (Dz. 2017 poz. 912 oraz 4a. W przypadku, którym mowa ust. 4, nadzór nad wykonywaniem przez fundacje, stowarzyszenia instytucje społeczne obowiązku utrzymania grobów cmentarzy wojennych sprawuje wojewoda.
 
 4b. Minister właściwy spraw kultury ochrony dziedzictwa narodowego może przekazywać podmiotom wskazanym ust. 4, jak również jednostkom samorządu terytorialnego, związkom wyznaniowym innym podmiotom sprawującym opiekę nad grobami cmentarzami wojennymi, środki finansowe na wykonywanie zadań związanych opieką nad grobami cmentarzami wojennymi.
 
@@ -80,7 +80,7 @@ Marszałek Sejmu: M. Kuchciński
 
 4e. Dotacja może być udzielona wysokości 50% nakładów koniecznych na wykonanie zadań, których mowa ust. 4d.
 
-4f. Jeżeli grób lub cmentarz wojenny ma wyjątkową wartość historyczną, szczególności potwierdzoną objęciem go jedną form ochrony wskazanych art. 7 23 lipca 2003 ochronie zabytków opiece nad zabytkami (Dz. U. 2018 poz. 2067), dotacja może być udzielona wysokości 100% nakładów koniecznych na wykonanie zadań, których mowa ust. 4d.
+4f. Jeżeli grób lub cmentarz wojenny ma wyjątkową wartość historyczną, szczególności potwierdzoną objęciem go jedną form ochrony wskazanych art. 7 23 lipca 2003 ochronie zabytków opiece nad zabytkami (Dz. 2018 poz. 2067), dotacja może być udzielona wysokości 100% nakładów koniecznych na wykonanie zadań, których mowa ust. 4d.
 
 4g. Jeżeli uwagi na stan zachowania grobu lub cmentarza wojennego wymagane jest niezwłoczne podjęcie zadań, których mowa ust. 4d, dotacja może być udzielona wysokości 100% nakładów koniecznych na wykonanie tych zadań.
 
@@ -108,7 +108,7 @@ Marszałek Sejmu: M. Kuchciński
 
 4m. Dotacja może być udzielona na dofinansowanie nakładów koniecznych na zadania związane opieką nad grobami cmentarzami wojennymi, które zostaną wykonane roku złożenia wniosku udzielenie dotacji lub roku następującym po roku złożenia tego wniosku.
 
-4n. Wniosek udzielenie dotacji rozpatruje się terminie 3 miesięcy od jego otrzymania. Przy rozpatrywaniu wniosku udzielenie dotacji nie mają zastosowania przepisy 14 czerwca 1960 Kodeks postępowania administracyjnego (Dz. U. 2018 poz. 2096).
+4n. Wniosek udzielenie dotacji rozpatruje się terminie 3 miesięcy od jego otrzymania. Przy rozpatrywaniu wniosku udzielenie dotacji nie mają zastosowania przepisy 14 czerwca 1960 Kodeks postępowania administracyjnego (Dz. 2018 poz. 2096).
 
 4o. Dochodzenie przez ministra właściwego spraw kultury ochrony dziedzictwa narodowego należności wraz odsetkami wysokości określonej jak dla zaległości podatkowych tytułu niewykorzystania lub wykorzystania niezgodnie przeznaczeniem udzielonej dotacji następuje trybie przepisów postępowaniu egzekucyjnym administracji.
 

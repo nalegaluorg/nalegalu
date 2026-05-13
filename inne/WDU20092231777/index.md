@@ -24,19 +24,19 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20092231777) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/1777/text.pdf) |
 
-**Art. 1.** Wustawie zdnia 10 kwietnia 1974r. oewidencji ludności i dowodach osobistych (Dz. U. 2006 139, 993, póên. zm. ) wprowadza następujące zmiany:
+**Art. 1.** Wustawie zdnia 10 kwietnia 1974r. oewidencji ludności i dowodach osobistych (Dz. 2006 139, 993, póên. zm. ) wprowadza następujące zmiany:
 
-**Art. 2.** W ustawie dnia 26 paêdziernika 1982 postępowaniu sprawach nieletnich (Dz. U. z2002r. Nr11, poz.109, zpóên. zm. ) wart.83 § 1 i2 otrzymują brzmienie: Ń§ 1. Minister właściwy spraw wewnętrznych sprawuje zwierzchni nadzór nad policyjnymi izbami dziecka.
+**Art. 2.** W ustawie dnia 26 paêdziernika 1982 postępowaniu sprawach nieletnich (Dz. z2002r. Nr11, poz.109, zpóên. zm. ) wart.83 § 1 i2 otrzymują brzmienie: Ń§ 1. Minister właściwy spraw wewnętrznych sprawuje zwierzchni nadzór nad policyjnymi izbami dziecka.
 
 **Art. 3.** W ustawie dnia 20 czerwca 1985 prokuraturze (Dz.U. z2008r. Nr7, poz.39, zpóên. zm. objęcia stanowiska prokuratorskiego zgłoszonych przez Krajową Radę Prokuratury, zastrzeżeniem ust. 4. Informacje kandydacie objęcia stanowiska prokuratorskiego uzyskuje i sporządza na zasadach określonych dla informacji kandydacie objęcia stanowiska sędziowskiego.”,
 
-**Art. 4.** Wustawie zdnia 6 kwietnia 1990r. oPolicji (Dz. U. 43, 277, póên. zm. ) wprowadza następujące zmiany:
+**Art. 4.** Wustawie zdnia 6 kwietnia 1990r. oPolicji (Dz. 43, 277, póên. zm. ) wprowadza następujące zmiany:
 
-**Art. 5.** Wustawie zdnia 13 paêdziernika 1995r. Prawo łowieckie (Dz. U. 2005 127, 1066, zpóên. zm. ) wart.38 wust.1 uchyla pkt5.
+**Art. 5.** Wustawie zdnia 13 paêdziernika 1995r. Prawo łowieckie (Dz. 2005 127, 1066, zpóên. zm. ) wart.38 wust.1 uchyla pkt5.
 
-**Art. 6.** W ustawie dnia 29 sierpnia 1997 komornikach sądowych i egzekucji (Dz. U. 2006 Nr167, poz.1191, zpóên. zm. ) wprowadza następujące zmiany:
+**Art. 6.** W ustawie dnia 29 sierpnia 1997 komornikach sądowych i egzekucji (Dz. 2006 Nr167, poz.1191, zpóên. zm. ) wprowadza następujące zmiany:
 
-**Art. 7.** W ustawie dnia 18 grudnia 1998 pracownikach sądów i prokuratury (Dz. U. 162, poz.1125, zpóên. zm.
+**Art. 7.** W ustawie dnia 18 grudnia 1998 pracownikach sądów i prokuratury (Dz. 162, poz.1125, zpóên. zm.
 
 **Art. 8.** W ustawie dnia 27 lipca 2001 Prawo oustroju sądów powszechnych (Dz.U. Nr98, poz.1070, zpóên. zm. ) wprowadza następujące zmiany:
 

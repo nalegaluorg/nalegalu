@@ -29,7 +29,7 @@ domain: null
 
 **Art. 2.**
 
-1. rodziny osoby, która jednorazowe czenie jednorazowego odszko dowania przewidzianego 12 czerwca 1975 wypadków przy pracy chorób zawodowych (Dz. U. 1983 Nr 30, poz. 144, 1989 Nr 35, poz. 192, 1990 Nr 36, poz. 206, 1991 Nr 94, poz. 422, 1995 Nr 4, poz. 1996 r Nr 24, poz. 110 Nr 100, poz. 461).
+1. rodziny osoby, która jednorazowe czenie jednorazowego odszko dowania przewidzianego 12 czerwca 1975 wypadków przy chorób zawodowych (Dz. U. 1983 Nr 30, poz. 144, 1989 Nr 35, poz. 192, 1990 Nr 36, poz. 206, 1991 Nr 94, poz. 422, 1995 Nr 4, poz. 1996 r Nr 24, poz. 110 Nr 100, poz. 461).
 
 2. W okresie od 1 do 31 grudnia prawo do rodzinnego rodzi ny uprawnionego, który skutkami po wodzi, od dochodu rodziny.
 
@@ -43,28 +43,28 @@ domain: null
 
 **Art. 4.**
 
-1. nieobec pracownika pracy stanowi faktyczna pracy
+1. nieobec pracownika stanowi faktyczna
 
-2. Za czas usprawiedliwionej pracy przyczyny, której mowa ust. 1, pracownik zacho wuje prawo do odpowiedniej wynagrodzenia przez Ministra Pracy Polityki Socjalnej podstawie art. 77 pkt 1 Kodeksu pracy przez okres nie 5 dni roboczych.
+2. Za czas usprawiedliwionej przyczyny, której mowa ust. 1, pracownik zacho wuje prawo do odpowiedniej wynagrodzenia przez Ministra Pracy Polityki Socjalnej podstawie art. 77 pkt 1 Kodeksu przez okres nie 5 dni roboczych.
 
-3. Przepis ust. 2 nie ma zastosowania wobec pra cowników, których uprawnienie do wynagrodzenia czas usprawiedliwionej pracy powo codawca.
+3. Przepis ust. 2 nie ma zastosowania wobec pra cowników, których uprawnienie do wynagrodzenia czas usprawiedliwionej powo codawca.
 
-5. W wypadku braku wynagrodzenie, spowodowanego zaprzestaniem wskutek powodzi, wynagrodzenie, którym mo wa ust. 2, ze Funduszu Gwaran towanych Świadczeń Pracowniczych. Decyzję przy znaniu tego wynagrodzenia po dejmuje dyrektor wojewódzkiego pracy pod stawie pisemnego wniosku pracodawcy.
+5. W wypadku braku wynagrodzenie, spowodowanego zaprzestaniem wskutek powodzi, wynagrodzenie, którym mo wa ust. 2, ze Funduszu Gwaran towanych Świadczeń Pracowniczych. Decyzję przy znaniu tego wynagrodzenia po dejmuje dyrektor wojewódzkiego pod stawie pisemnego wniosku pracodawcy.
 
 **Art. 5.**
 
 1. W razie braku pra cownikom wynagrodzenia za:
 
 - **1)** czas niewykonywania pracy, pracownik gotów do jej wykonywania, a przeszkód przyczyn pracodawcy, które spowodowane
-- **2)** ochronie pracy przed lub usuwaniu skutków powodzi, celu utrzymanie lub przywró cenie prowadzenia przez gospodarczej przez który wskutek powodzi przej prowadzenia gospo darczej lub istotnie jej prowadzenie, Mini ster Pracy Polityki Socjalnej przeka zanie pracodawcy formie nie oprocentowanej Funduszu Gwarantowa nych Świadczeń Pracowniczych.
+- **2)** ochronie przed lub usuwaniu skutków powodzi, celu utrzymanie lub przywró cenie prowadzenia przez gospodarczej przez który wskutek powodzi przej prowadzenia gospo darczej lub istotnie jej prowadzenie, Mini ster Pracy Polityki Socjalnej przeka zanie pracodawcy formie nie oprocentowanej Funduszu Gwarantowa nych Świadczeń Pracowniczych.
 
-2. Wynagrodzenie, którym mowa ust. 1 pkt 1, zaspokojeniu ze Funduszu Gwarantowanych Pracowniczych do wyso wart. 81 1 Kodeksu pracy, nie szej jednak 3 24 lub 600 odpowiednio do czasu niewykonywania pracy okresie, którym mowa ust. 4.
+2. Wynagrodzenie, którym mowa ust. 1 pkt 1, zaspokojeniu ze Funduszu Gwarantowanych Pracowniczych do wyso wart. 81 1 Kodeksu pracy, nie szej jednak 3 24 lub 600 odpowiednio do czasu niewykonywania okresie, którym mowa ust. 4.
 
 3. Wynagrodzenie, którym mowa ust. 1 pkt 2, zaspokojeniu ze Funduszu Gwarantowanych Świadczeń Pracowniczych wyso nie 5 40 lub
 
-1. 000 odpowiednio do czasu wykony wania pracy okresie, którym mowa ust. 4.
+1. 000 odpowiednio do czasu wykony wania okresie, którym mowa ust. 4.
 
-4. Zaspokojeniu ze Funduszu Gwaranto wanych Świadczeń Pracowniczych może podlegać wy nagrodzenie ust. 1 pkt 1 2 okres nie od 1 lipca do
+4. Zaspokojeniu ze Funduszu Gwaranto wanych Świadczeń Pracowniczych może podlegać wy nagrodzenie ust. 1 pkt 1 2 okres nie od 1 lipca do 30
 
 5. Przekazanie Funduszu Gwarantowanych Świadczeń Pracowniczych wypłatę wynagrodzenia
 
@@ -72,9 +72,9 @@ domain: null
 
 **Art. 6.** Środki zakładowego funduszu świadczeń socjalnych przeznaczone cele skutków powodzi rzecz pra cowników innego pracodawcy.
 
-**Art. 7.** ŚrOdki Państwowego Funduszu Rehabilitacji Osób przewidziane planie finansowym przeznaczone na: utrzymanie powodu po wodzi, miejsc pracy osób pracy chronionej, które straty wyniku powodzi, utrzymanie warsztatów te rapii powodu powodzi, zakup rehabilitacyjnego utraconego wyniku powodzi zasadach trybie ustawie 9 maja 1991 zatrudnianiu rehabilitacji wodowej osób (Dz.U. Nr 46, poz. 201, Nr 80, poz. 350 Nr 110, poz. 472, 1992 Nr 21, poz. 85, 1993 Nr 11, poz. 50 Nr 28, poz. 127, 1995 Nr 1, poz. 1, Nr 5, poz. 25 Nr 120, poz. 577 1996 Nr 100, poz. 461).
+**Art. 7.** ŚrOdki Państwowego Funduszu Rehabilitacji Osób przewidziane planie finansowym przeznaczone na: utrzymanie powodu po wodzi, miejsc osób chronionej, które straty wyniku powodzi, utrzymanie warsztatów te rapii powodu powodzi, zakup rehabilitacyjnego utraconego wyniku powodzi zasadach trybie ustawie 9 maja 1991 zatrudnianiu rehabilitacji wodowej osób (Dz.U. Nr 46, poz. 201, Nr 80, poz. 350 Nr 110, poz. 472, 1992 Nr 21, poz. 85, 1993 Nr 11, poz. 50 Nr 28, poz. 127, 1995 Nr 1, poz. 1, Nr 5, poz. 25 Nr 120, poz. 577 1996 Nr 100, poz. 461).
 
-**Art. 8.** Zakład pracy chronionej funduszu rehabilitacji rzecz inne go pracy chronionej, który straty wy niku powodzi, przeznaczeniem pomoc dla osób nie zatrudnionych tym
+**Art. 8.** Zakład chronionej funduszu rehabilitacji rzecz inne go chronionej, który straty wy niku powodzi, przeznaczeniem pomoc dla osób nie zatrudnionych tym
 
 **Art. 9.** Pożyczki przyznane przed ze ków Funduszu Rehabilitacji Osób Nie
 
@@ -94,7 +94,7 @@ domain: null
 
 **Art. 14.**
 
-1. Publiczne opieki zdrowotnej okresie do 31 nie zdrowotnych osobom nieuprawnionym rozumieniu przepisów, których mowa wart. 33 ust. 2 ustawy sierpnia 1991 opieki zdrowotnej (Dz.U. Nr 91, poz. 408, 1992 Nr 63, poz. 315, 1994 Nr 121, poz. 591, 1995 Nr 138, poz. 682 1996 Nr 24, poz. 110) poszkodowanym wyniku powodzi tego powodu niedostat ku.
+1. Publiczne opieki zdrowotnej okresie do 31 nie zdrowotnych osobom nieuprawnionym rozumieniu przepisów, których mowa wart. 33 ust. 2 ustawy 30 sierpnia 1991 opieki zdrowotnej (Dz.U. Nr 91, poz. 408, 1992 Nr 63, poz. 315, 1994 Nr 121, poz. 591, 1995 Nr 138, poz. 682 1996 Nr 24, poz. 110) poszkodowanym wyniku powodzi tego powodu niedostat ku.
 
 2. do jest wydane przez organ gminy, których mowa ust. 1.
 
@@ -106,7 +106,7 @@ domain: null
 - **2)** darowizny otrzymane przez podatników podatku dochodowego od osób prawnych cele ne pkt 1,
 - **3)** kwoty umorzonych przyznanych ze ków Funduszu Rehabilitacji Osób
     - **a)** osobom
-    - **b)** pracy chronionej cele inwesty cyjne utrata tych
+    - **b)** chronionej cele inwesty cyjne utrata tych
 
 - **4)** których mowa wart. 1 2.
 
@@ -168,7 +168,7 @@ domain: null
 
 **Art. 24.** W wypadku zniszczenia wskutek powodzi dokumentów do ustalenia ubezpieczenia przyjmuje
 
-**Art. 25.** Minister wo bec podmiotów telekomu lub decyzje usuwania skutków powodzi te podmioty terminie do czerwca 1998
+**Art. 25.** Minister wo bec podmiotów telekomu lub decyzje usuwania skutków powodzi te podmioty terminie do 30 czerwca 1998
 
 **Art. 26.** Ustawa wchodzi dniem nia, tym art. 4, 10, 11 24 od 6 lipca
 

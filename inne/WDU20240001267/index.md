@@ -21,7 +21,7 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2024-08-19 |
 | Data wydania | 2024-08-21 |
-| Ostatnia zmiana | 2026-04-16 |
+| Ostatnia zmiana | 2024-09-04 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001267) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1267/text.pdf) |
 
 OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 19 sierpnia 2024 r.

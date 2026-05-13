@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# państw członkowskich Unii Europejskiej człon- Prezydent Rzeczypospolitej Polskiej: L. Kaczyński
+# państw członkowskich Unii Europejskiej człon- Prezydent Rzeczypospolitej Polskiej: L. Kaczyński 1044
 
 | Pole | Wartość |
 |---|---|
@@ -26,7 +26,7 @@ domain: null
 
 USTAWA dnia 14 lipca 2006 zmianie ustawy Prawo ustroju sądów powszechnych, ustawy Prawo ustroju sądów wojskowych ustawy prokuraturze
 
-**Art. 1.** W ustawie dnia 27 lipca 2001 Prawo ustroju sądów powszechnych 98, 1070, póên. zm. 3a okres dłuższy niż rok może być odwołany delegacji względnie niej ) wprowadza następujące ustąpić za trzymiesięcznym uprzedzezmiany: niem. Sędzia delegowany podstawie 3a okres nie dłuższy niż rok może
+**Art. 1.** W ustawie dnia 27 lipca 2001 Prawo ustroju sądów powszechnych U. 98, 1070, póên. zm. 3a okres dłuższy niż rok może być odwołany delegacji względnie niej ) wprowadza następujące ustąpić za trzymiesięcznym uprzedzezmiany: niem. Sędzia delegowany podstawie 3a okres nie dłuższy niż rok może
 
-**Art. 3.** W ustawie dnia 20 czerwca 1985 prokuraturze 2002 21, 206, póên. zm. ) wprowadza następujące zmiany:
+**Art. 3.** W ustawie dnia 20 czerwca 1985 prokuraturze U. 2002 21, 206, póên. zm. ) wprowadza następujące zmiany:
 

@@ -24,15 +24,15 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100400227) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/227/text.pdf) |
 
-**Art. 1.** W ustawie dnia 6 czerwca 1997 Kodeks karny (Dz. 88, 553, późn. zm. ) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie dnia 6 czerwca 1997 Kodeks karny (Dz. U. 88, poz. 553, późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie dnia 6 czerwca 1997 Kodeks karny wykonawczy (Dz. 90, 557, późn. zm. ) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie dnia 6 czerwca 1997 Kodeks karny wykonawczy (Dz. U. 90, poz. 557, późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 3.** W ustawie dnia 27 kwietnia 2001 Prawo ochrony środowiska (Dz. 2008 25, 150, późn. zm. ) art. 401:
+**Art. 3.** W ustawie dnia 27 kwietnia 2001 Prawo ochrony środowiska (Dz. U. 2008 25, poz. 150, późn. zm. ) 401:
 
-**Art. 5.** Instytucje, stowarzyszenia, fundacje or- społeczną obowiązków, których mowa art. 5. ganizacje społeczne, na rzecz których orzeczono środki finansowe tytułu nawiązki świadczenia pie- Art. 7. Prezesi sądów apelacyjnych są obowiązani, niężnego, są obowiązane przekazać Ministrowi Spra- terminie 60 dni od dnia wejścia życie niniejszej wiedliwości, terminie 60 dni od dnia wejścia życie ustawy, przekazać Ministrowi Sprawiedliwości zestaniniejszej ustawy, sprawozdanie dotyczące wykorzy- wienie środków finansowych przekazanych okresie od dnia 1 stycznia 30 czerwca 2011 poszczególnym instytucjom, stowarzyszeniom, fundacjom organizacjom społecznym, wyniku wyroków orzekających nawiązkę świadczenie pieniężne, zapadłych sądach na obszarze danej apelacji.
+**Art. 5.** Instytucje, stowarzyszenia, fundacje or- społeczną obowiązków, których mowa 5. ganizacje społeczne, na rzecz których orzeczono środki finansowe tytułu nawiązki świadczenia pie- Art. 7. Prezesi sądów apelacyjnych są obowiązani, niężnego, są obowiązane przekazać Ministrowi Spra- terminie 60 dni od dnia wejścia życie niniejszej wiedliwości, terminie 60 dni od dnia wejścia życie ustawy, przekazać Ministrowi Sprawiedliwości zestaniniejszej ustawy, sprawozdanie dotyczące wykorzy- wienie środków finansowych przekazanych okresie od dnia 1 stycznia do 30 czerwca 2011 poszczególnym instytucjom, stowarzyszeniom, fundacjom organizacjom społecznym, wyniku wyroków orzekających nawiązkę świadczenie pieniężne, zapadłych sądach na obszarze danej apelacji.
 
-**Art. 8.** Z dniem wejścia życie niniejszej Fundusz Postpenitencjarnej staje się Funduszem Pokrzywdzonym oraz Postpenitencjarnej.
+**Art. 8.** Z dniem wejścia życie niniejszej ustawy Fundusz Pomocy Postpenitencjarnej staje się Funduszem Pomocy Pokrzywdzonym Pomocy Postpenitencjarnej.
 
-**Art. 9.** Ustawa wchodzi życie dniem 1 lipca 2011 r., wyjątkiem art. 1 pkt 1, 6, 8 i 9, które wchodzą życie dniem 1 lipca 2010 Prezydent Rzeczypospolitej Polskiej: L. Kaczyński
+**Art. 9.** Ustawa wchodzi życie dniem 1 lipca 2011 r., wyjątkiem 1 1, 6, 8 i 9, które wchodzą życie dniem 1 lipca Prezydent Rzeczypospolitej Polskiej: L. Kaczyński
 

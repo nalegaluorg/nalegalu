@@ -44,7 +44,7 @@ domain: null
 
 **Art. 6.** Wustawie zdnia 27 lipca 2001 odiagnostyce laboratoryjnej (Dz. U. z2004 144, 1529, z 2005 119, 1015 z 2006 117,
 
-**Art. 7.** Wustawie zdnia 28 lipca 2005 okosztach sądowych sprawach cywilnych (Dz. U. 167, 1398, zpóên. zm. ) wart. 96 wust. 1 pkt otrzymuje brzmienie: Ń6) prokurator, Rzecznik Praw Obywatelskich, Rzecznik Praw Pacjenta;”. ——————— r bę wykonującą zawód medyczny rozumieniu art. 18d 1 pkt 1 z dnia 30 sierpnia 1991 zakładach opieki zdrowotnej (Dz. U. z 2007 14, 89, zpóên. zm. );”,
+**Art. 7.** Wustawie zdnia 28 lipca 2005 okosztach sądowych sprawach cywilnych (Dz. U. 167, 1398, zpóên. zm. ) wart. 96 wust. 1 pkt otrzymuje brzmienie: Ń6) prokurator, Rzecznik Praw Obywatelskich, Rzecznik Praw Pacjenta;”. ——————— bę wykonującą zawód medyczny rozumieniu art. 18d 1 pkt 1 z dnia 30 sierpnia 1991 zakładach opieki zdrowotnej (Dz. U. z 2007 14, 89, zpóên. zm. );”,
 
 **Art. 39.** Pacjent zakładzie opieki zdrowotnej, którym mowa art. 33 1, ma prawo do przechowywania rzeczy wartościowych depozycie. Koszty realizacji tego prawa ponosi ten zakład opieki zdrowotnej, chyba że przepisy odrębne stanowią inaczej.”;
 
@@ -56,7 +56,7 @@ domain: null
 
 **Art. 12.**
 
-1. Biuro Praw Pacjenta przy Ministrze Zdrowia staje się z dniem wejścia życie niniejszej 2008 oprawach pacjenta iRzeczniku Praw Pacjenta Prezes Rady Ministrów dokonuje, drodze rozporządzenia, przeniesienia planowanych dochodów i wydatków budżetowych, tym wynagrodzeń limitów zatrudnienia, między częściami działami budżetu państwa, zzachowaniem przeznaczenia środków publicznych wynikającego zustawy budżetowej.
+1. Biuro Praw Pacjenta przy Ministrze Zdrowia staje się z dniem wejścia życie niniejszej 2008 oprawach pacjenta iRzeczniku Praw Pacjenta Prezes Rady Ministrów dokonuje, drodze rozporządzenia, przeniesienia planowanych dochodów i wydatków budżetowych, tym wynagrodzeń limitów zatrudnienia, między częściami lub działami budżetu państwa, zzachowaniem przeznaczenia środków publicznych wynikającego zustawy budżetowej.
 
 **Art. 13.** Do dokumentacji medycznej sporządzonej i udostępnionej przed dniem wejścia życie niniejszej stosuje się przepisy dotychczasowe.
 
@@ -74,7 +74,7 @@ domain: null
 
 3. Na podstawie dokumentów stanowiących podstawę udzielenia akredytacji Rada Akredytacyjna, której mowa art. 2 2 z dnia listopada 2008 akredytacji ochronie zdrowia, potwierdza akredytację udzieloną przed dniem wejścia życie niniejszej ustawy. Przepisy art. 3 9—11 z dnia listopada 2008 akredytacji ochronie zdrowia stosuje się odpowiednio.
 
-4. Dokumenty, które są posiadaniu ośrodka akredytacyjnego, októrym mowa wart. 2 1 ustar z dniem wejścia życie niniejszej konsultantami krajowymi iwojewódzkimi wrozumieniu związanych, a także zasad udostępniania dokuzdnia listopada 2008 okonsultantach wochronie mentacji medycznej rozumie się przez to ustazdrowia. wę z dnia listopada 2008 prawach pacjenta iRzeczniku Praw Pacjenta;
+4. Dokumenty, które są posiadaniu ośrodka akredytacyjnego, októrym mowa wart. 2 1 ustaz dniem wejścia życie niniejszej konsultantami krajowymi iwojewódzkimi wrozumieniu związanych, a także zasad udostępniania dokuzdnia listopada 2008 okonsultantach wochronie mentacji medycznej rozumie się przez to ustazdrowia. wę z dnia listopada 2008 prawach pacjenta iRzeczniku Praw Pacjenta;
 
-**Art. 17.** Akty wykonawcze wydane na podstawie: 2) akredytowania zakładów opieki zdrowotnej ro1) art. 18 8 i9, art. 19bust. 2 iart. 66aust. usta- zumie się przez to ustawę z dnia listopada wy z dnia 30 sierpnia 1991 zakładach opieki 2008 oakredytacji wochronie zdrowia; zdrowotnej, 3) wojewódzkich krajowych konsultantów ro2) art. 20 8 zdnia 5 lipca 1996 ozawo- zumie się przez to ustawę z dnia listopada dach pielęgniarki ipołożnej, 2008 okonsultantach wochronie zdrowia.
+**Art. 17.** Akty wykonawcze wydane na podstawie: 2) akredytowania zakładów opieki zdrowotnej ro1) art. 18 8 i9, art. 19bust. 2 iart. 66aust. usta- zumie się przez to ustawę z dnia listopada wy z dnia 30 sierpnia 1991 zakładach opieki 2008 oakredytacji wochronie zdrowia; zdrowotnej, 3) wojewódzkich lub krajowych konsultantów ro2) art. 20 8 zdnia 5 lipca 1996 ozawo- zumie się przez to ustawę z dnia listopada dach pielęgniarki ipołożnej, 2008 okonsultantach wochronie zdrowia.
 

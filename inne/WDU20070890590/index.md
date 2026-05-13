@@ -21,7 +21,7 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2007-04-26 |
 | Data wydania | 2007-05-21 |
-| Ostatnia zmiana | 2026-03-31 |
+| Ostatnia zmiana | 2026-04-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070890590) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/590/text.pdf) |
 
 2. Niezakończone postępowania administracyjne toczą się nadal przed właściwymi okręgowymi inspektorami pracy.

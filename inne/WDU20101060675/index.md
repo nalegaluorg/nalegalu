@@ -21,7 +21,7 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2010-05-07 |
 | Data wydania | 2010-06-16 |
-| Ostatnia zmiana | 2026-03-18 |
+| Ostatnia zmiana | 2026-04-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101060675) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/675/text.pdf) |
 
 5. Minister właściwy do spraw budownictwa, gospodarki przestrzennej mieszkaniowej może, w drodze rozporządzenia, określić wysokość opłat za korzystanie nieruchomości będących własnością Skarbu Państwa lub jednostki sektora finansów publicznych, które są zajmowane lub administrowane przez jednostkę sektora finansów publicznych, biorąc pod uwagę rodzaj nieruchomości, rodzaj urządzenia obiektu, wielkość zajmowanej nieruchomości promowanie inwestycji w zakresie sieci szerokopasmowych.

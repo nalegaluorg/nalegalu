@@ -21,7 +21,7 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2001-04-27 |
 | Data wydania | 2001-06-20 |
-| Ostatnia zmiana | 2026-04-20 |
+| Ostatnia zmiana | 2026-05-11 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010620627) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/627/text.pdf) |
 
 Tytuł I Art. 2. 1. Przepisów ustawy, z wyjątkiem tytułu I działu IV rozdziału 1 i 2, nie stosuje się do spraw PRZEPISY OGÓLNE uregulowanych wprzepisach prawa atomowego.

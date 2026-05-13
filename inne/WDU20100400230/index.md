@@ -12,7 +12,7 @@ domain: null
 
 # Ustawa z dnia 12 lutego 2010 r. o zmianie ustawy o informatyzacji działalności podmiotów realizujących zadania publiczne oraz niektórych innych ustaw
 
-*USTAWA dnia 12 lutego 2010 o zmianie ustawy o informatyzacji działalności podmiotów realizujących zadania publiczne niektórych innych ustaw*
+*USTAWA dnia 12 lutego 2010 o zmianie ustawy o informatyzacji działalności podmiotów realizujących zadania publiczne oraz niektórych innych ustaw*
 
 | Pole | Wartość |
 |---|---|
@@ -32,7 +32,7 @@ domain: null
 
 1. Minister właściwy do spraw informatyzacji ramach ePUAP prowadzi centralne repozytorium wzorów dokumentów elektronicznych, zwane dalej „centralnym repozytorium”.
 
-2. W centralnym repozytorium umieszcza się, przechowuje udostępnia wzory pism, które uwzględniają niezbędne elementy struktury dokumentów elektronicznych określone przepisach wydanych na podstawie 5 ust. 2a ustawy dnia 14 lipca 1983 o narodowym zasobie archiwalnym archiwach (Dz. U. 2006 97, 673, późn. zm. udostępniają Biuletynie Informacji Publicznej wzory pism postaci dokumentów elektronicznych. Przy sporządzaniu wzorów pism stosuje się międzynarodowe standardy dotyczące sporządzania dokumentów elektronicznych przez organy administracji publicznej, uwzględnieniem konieczności podpisywania ich bezpiecznym podpisem elektronicznym.
+2. W centralnym repozytorium umieszcza się, przechowuje udostępnia wzory pism, które uwzględniają niezbędne elementy struktury dokumentów elektronicznych określone przepisach wydanych na podstawie 5 ust. 2a ustawy dnia 14 lipca 1983 o narodowym zasobie archiwalnym archiwach (Dz. U. 2006 97, 673, późn. zm. oraz udostępniają Biuletynie Informacji Publicznej wzory pism postaci dokumentów elektronicznych. Przy sporządzaniu wzorów pism stosuje się międzynarodowe standardy dotyczące sporządzania dokumentów elektronicznych przez organy administracji publicznej, uwzględnieniem konieczności podpisywania ich bezpiecznym podpisem elektronicznym.
 
 4. Jeżeli wzór podania określają odrębne przepisy, to umieszczenie wzoru dokumentu elektronicznego przez organy administracji publicznej centralnym repozytorium jest równoznaczne określeniem wzoru wnoszenia podań, o których mowa 63 § 3a ustawy dnia 14 czerwca 1960 Kodeks postępowania administracyjnego (Dz. U. 2000 98, 1071, późn. zm. ). ).
 
@@ -43,15 +43,15 @@ domain: null
 
 2. Podmiot publiczny, który używa do realizacji zadań publicznych systemów teleinformatycznych, może umożliwiać użytkownikom identyfikację tym systemie przez zastosowanie innych technologii, chyba że przepisy odrębne przewidują obowiązek dokonania czynności siedzibie podmiotu publicznego. nia: „Art. 28. 1. Kontrolerem może być osoba pełnoletnia, która:
 
-- **1)** szczegółowe warunki organizacyj- 1) posiada wykształcenie wyższe; ne techniczne, które powinien spełniać system teleinformatyczny 2) posiada obywatelstwo państwa służący do wydania certyfikatu członkowskiego Unii Europejskiej, stosowania technologii, o których Konfederacji Szwajcarskiej lub pańmowa ust. 1 2, stwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu
-- **2)** zasady potwierdzania, przedłużania (EFTA) strony umowy o Europejważności, wykorzystania unieważ- skim Obszarze Gospodarczym, chyniania profilu zaufanego ePUAP, ba że przepisy odrębne uzależniają tym: zatrudnienie jej jednostce kontrolowanej od posiadania obywatela) podmioty upoważnione do po- stwa polskiego; twierdzania, przedłużania unieważniania profilu zaufanego 3) ma pełną zdolność do czynności ePUAP, prawnych korzysta pełni praw publicznych; ePUAP, 5) posiada certyfikat, o którym mowa nuje się potwierdzenia profilu 2. Kontroler jest obowiązany zachować zaufanego ePUAP, tajemnicy informacje, które uzyskał nym ePUAP,
+- **1)** szczegółowe warunki organizacyj- 1) posiada wykształcenie wyższe; ne techniczne, które powinien spełniać system teleinformatyczny 2) posiada obywatelstwo państwa służący do wydania certyfikatu oraz członkowskiego Unii Europejskiej, stosowania technologii, o których Konfederacji Szwajcarskiej lub pańmowa ust. 1 2, stwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu
+- **2)** zasady potwierdzania, przedłużania (EFTA) strony umowy o Europejważności, wykorzystania unieważ- skim Obszarze Gospodarczym, chyniania profilu zaufanego ePUAP, ba że przepisy odrębne uzależniają tym: zatrudnienie jej jednostce kontrolowanej od posiadania obywatela) podmioty upoważnione do po- stwa polskiego; twierdzania, przedłużania unieważniania profilu zaufanego 3) ma pełną zdolność do czynności ePUAP, prawnych oraz korzysta pełni praw publicznych; ePUAP, 5) posiada certyfikat, o którym mowa nuje się potwierdzenia profilu 2. Kontroler jest obowiązany zachować zaufanego ePUAP, tajemnicy informacje, które uzyskał nym ePUAP,
     - **b)** okres ważności profilu zaufane- 4) nie była karana za umyślne przego ePUAP, stępstwo lub umyślne przestępstwo
     - **c)** zawartość profilu zaufanego skarbowe;
     - **d)** przypadki, których nie doko- ust. 3.
     - **e)** przypadki, których profil za- związku wykonywaniem czynności ufany ePUAP traci ważność, kontroli. Obowiązek zachowania tajemnicy trwa również po ustaniu pełnienia
     - **f)** warunki składania podpisu po- obowiązków kontrolera urzędzie obtwierdzonego profilem zaufa- sługującym organ dokonujący kontroli.
 
-3. Minister właściwy do spraw informatyg) warunki przechowywania zacji określi, drodze rozporządzenia, archiwizowania dokumentów wykaz certyfikatów uprawniających do danych bezpośrednio związa- prowadzenia kontroli rozumieniu nych potwierdzeniem profilu 25, uwzględniając zakres wiedzy zaufanego ePUAP, specjalistycznej wymaganej od osób biorąc pod uwagę konieczność za- 22) użyte 1 pkt 5, 3 pkt 10, tytule pewnienia bezpieczeństwa pewności rozdziału 3, 14 pkt 2, 16 ust. 2 procesie identyfikacji poufno- zdaniu wstępnym pkt 2, 18 pkt 1 ści kluczowych elementarnych czyn- lit. b pkt 2 25 ust. 1 pkt 3 ności. zdaniu końcowym, wyrazy „w formie elektroArt. 20b. 1. Podpis potwierdzony profilem zaufanym ePUAP wywołuje skutki prawne, jeżeli został utworzony lub złożony okresie ważności tego profilu.
+3. Minister właściwy do spraw informatyg) warunki przechowywania oraz zacji określi, drodze rozporządzenia, archiwizowania dokumentów wykaz certyfikatów uprawniających do danych bezpośrednio związa- prowadzenia kontroli rozumieniu nych potwierdzeniem profilu 25, uwzględniając zakres wiedzy zaufanego ePUAP, specjalistycznej wymaganej od osób biorąc pod uwagę konieczność za- 22) użyte 1 pkt 5, 3 pkt 10, tytule pewnienia bezpieczeństwa pewności rozdziału 3, 14 pkt 2, 16 ust. 2 procesie identyfikacji oraz poufno- zdaniu wstępnym pkt 2, 18 pkt 1 ści kluczowych elementarnych czyn- lit. b pkt 2 oraz 25 ust. 1 pkt 3 ności. zdaniu końcowym, wyrazy „w formie elektroArt. 20b. 1. Podpis potwierdzony profilem zaufanym ePUAP wywołuje skutki prawne, jeżeli został utworzony lub złożony okresie ważności tego profilu.
 
 - **h)** wzory wniosku o potwierdzenie, legitymujących się poszczególnymi przedłużenie unieważnienie certyfikatami zakres kontroli określoprofilu zaufanego ePUAP ny 25.”;
 

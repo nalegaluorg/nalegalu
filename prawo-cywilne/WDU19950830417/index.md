@@ -33,9 +33,9 @@ zmianie ustawy Kodeks rodzinny oraz niektórych innych ustaw.
 
 1. Przysposobić można oso/bę .małoletn 'ą, tylko dla jej dobra. :'
 
-2. Wymaganie dniu wniosku sposobienie. Art. 114 1 1. Przysposobić może osoba mająca pełną do prawnych, jej kwalifikacje osobiste pfzeko nanie,
+2. Wymaganie dniu wniosku sposobienie.
 
-2. M a bionym powinna odpowiedn'a nica wieku. Art. 114 2 1. Przysposobienie, które spowoduje dotychczasowego miejsca zamieszkania przysposabianego Pol skiej miejsce zamieszkania innym wówcza , gdy tylko ten sposób zapewnie; sposabianemu odpowiednie rodzinne.
+**Art. 114¹.** Przysposobić może osoba mająca pełną do prawnych, jej kwalifikacje osobiste pfzeko nanie, 2. M a bionym powinna odpowiedn'a nica wieku. Art. 114 2 1. Przysposobienie, które spowoduje dotychczasowego miejsca zamieszkania przysposabianego Pol skiej miejsce zamieszkania innym wówcza , gdy tylko ten sposób zapewnie; sposabianemu odpowiednie rodzinne.
 
 **Art. 115.**
 
@@ -51,9 +51,9 @@ zmianie ustawy Kodeks rodzinny oraz niektórych innych ustaw.
 
 1. Przysposobien ie orzecze
 
-2. Orzeczenie moze wydane rci lub osoby, która ma przysposobiona.
+2. Orzeczenie moze wydane po rci lub osoby, która ma przysposobiona.
 
-3. Po orzeczenie takie same skutki jak orzeczone przed Art. 117 1 Przysposobienie stoi przeszkodzie pono wnemu przysposobieniu przysposa
+3. Po orzeczenie takie same skutki jak orzeczone przed Art. 117 Przysposobienie stoi przeszkodzie pono wnemu przysposobieniu po przysposa
 
 **Art. 118.**
 
@@ -61,17 +61,19 @@ zmianie ustawy Kodeks rodzinny oraz niektórych innych ustaw.
 
 2. powinien sposabianego, który lat trzy nastu, on znaczenie sposobienia.
 
-3. orzec przysposobienie bez zgody sposabianego lub bez jego jest on zdolny do zgody lub oceny stosunku a przysposabianym wynika, on za dziecko cego, a zgody lub sprzeczne dobrem przysposabia nego.
+3. orzec przysposobienie bez zgody sposabianego lub bez jego jest on zdolny do zgody lub oceny stosunku a przysposabianym wynika, on za dziecko cego, a zgody lub sprzeczne dobrem przysposabia
 
 **Art. 119.**
 
 1. Do przysposobienia potrzebna jest zgoda przysposabianego, chyba zo stali oni pozbawieni rodzicielskiej lub nieznani albo porozumienie ni mi napotyka trudne do przeszkody. Nie jest potrzebna zgoda ojca, jego ojcostwo ustalone a rodzicielska mu przyznana.
 
-2. ze szczególne orzec przysposo bienie mimo braku zgody rodziców, któ rych do prawnych jest ograniczona, odmowa zgody przysposobienie jest sprzeczna dobrem dziecka. Art. 119 1 1. Rodzice przed przysposobienie swego dziecka bez wskazania osoby od przed jednak przed sprawy przysposobie nie.
+2. ze szczególne orzec przysposo bienie mimo braku zgody rodziców, któ rych do prawnych jest ograniczona, odmowa zgody przysposobienie jest sprzeczna dobrem dziecka.
 
-2. Przepisy przysposobieniu za ców bez wskazania osoby tygodni od urodzenia dziecka.
+**Art. 119¹.** Rodzice przed przysposobienie swego dziecka bez wskazania osoby od przed jednak przed sprawy przysposobie nie. 2. Przepisy przysposobieniu za ców bez wskazania osoby tygodni od urodzenia dziecka.
 
-**Art. 120.** Jeżeli dziecko pozostaje pod do sposobienia potrzebna jest zgoda opiekuna. Je ze szczególne orzec przysposobienie nawet mimo braku zgody opiekuna, wy maga tego dobro dziecka. Art. 120 1 1. Przed orzeczeniem przysposobienia sposób okres osobistej przysposabianym. 2. W wypadku formie pieczy nad dzieckiem stosuje odpowie dnio przepisy rodzinach tym koszty utrzymania sposabianego go. 3. jednak przysposobienie sposabiany ma dotychczasowe miejsce zamieszkania Rzeczypospolitej Polskiej miejsce zamieszkania innym przysposobienie orze czone okresu osobistej przysposabianym dotychczasowym miejscu zamieszkania przysposabianego lub innej miejscowo !3ci Rzeczypospolitej Polskiej. ,4. wykonywaniu nadzoru nad przebiegiem przysposabianym pomocy adopcyjno lub organu pomocniczego sprawach
+**Art. 120.** Jeżeli dziecko pozostaje pod do sposobienia potrzebna jest zgoda opiekuna. Je ze szczególne orzec przysposobienie nawet mimo braku zgody opiekuna, wy maga tego dobro dziecka.
+
+**Art. 120¹.** Przed orzeczeniem przysposobienia sposób okres osobistej przysposabianym. 2. W wypadku formie pieczy nad dzieckiem stosuje odpowie dnio przepisy rodzinach tym koszty utrzymania sposabianego go. 3. jednak przysposobienie sposabiany ma dotychczasowe miejsce zamieszkania Rzeczypospolitej Polskiej miejsce zamieszkania innym przysposobienie orze czone po okresu osobistej przysposabianym dotychczasowym miejscu zamieszkania przysposabianego lub innej miejscowo !3ci Rzeczypospolitej Polskiej. ,4. wykonywaniu nadzoru nad przebiegiem przysposabianym pomocy adopcyjno lub organu pomocniczego sprawach
 
 **Art. 121.**
 
@@ -85,7 +87,7 @@ zmianie ustawy Kodeks rodzinny oraz niektórych innych ustaw.
 
 2. Na osoby, która ma przysposo biona, za orzeczeniu przysposobie niu postanawia, przysposobiony nazwisko jego dotych czasowego nazwiska nazwiska przyspo albo przysposobiony nosi nazwisko, rozstrzyga, który tego nazwiska wejdzie nazwiska sposobionego. Przepisu tego stosuje razie nowego aktu uro dzenia przysposobionego wpisaniem jako jego rodziców.
 
-3. Na opie orzeczeniu przysposobie niu lub imiona przysposobio nego. przysposobiony lat to tylko za jego Przepis art. 118 2 stosuje odpowiednio.
+3. Na opie orzeczeniu przysposobie niu lub imiona przysposobio przysposobiony lat to tylko za jego Przepis art. 118 2 stosuje odpowiednio.
 
 **Art. 123.**
 
@@ -101,13 +103,13 @@ zmianie ustawy Kodeks rodzinny oraz niektórych innych ustaw.
 
 3. Na za stosunku przyspo sobienia jest dopuszczalne, wsku tek niego dobro niego dziecka. sto sunku przysposobienia, stosow do mocy niego alimentacyj ne.
 
-2. Po przysposobionego lub przyspo stosunku sposobienia jest dopuszczalne, chyba sprawy stosunku przysposo bienia. W wypadku takim miejsce procesie kura tor ustanowiony Art. 125 1 1. Nie jest dopuszczalne sposobienia, które rodzice przysposo bionego wyrazili przed czym bez wskazania osoby
+2. Po przysposobionego lub przyspo stosunku sposobienia jest dopuszczalne, chyba po sprawy stosunku przysposo bienia. W wypadku takim miejsce procesie kura tor ustanowiony
 
-2. Takie przysposobienie stoi przeszko dzie ponownemu przysposobieniu za
+**Art. 125¹.** Nie jest dopuszczalne sposobienia, które rodzice przysposo bionego wyrazili przed czym bez wskazania osoby 2. Takie przysposobienie stoi przeszko dzie ponownemu przysposobieniu za
 
 **Art. 126.**
 
-1. Z stosunku przysposo bienia jego skutki. skutki przysposobienia jego
+1. Z stosunku przysposo bienia jego skutki. po skutki przysposobienia jego
 
 2. Przysposobiony zachowuje nazwisko byte przysposobienie oraz otrzymane przysposobieniem lub imiona. powodów przysposobionego orzeczeniu stosunku przysposobienia przysposobiony powraca do nazwiska, które przed orzeczeniem przysposobienia. Na przysposo bionego orzeka jego powrocie do poprzednio noszonego imienia lub imion.
 
@@ -121,9 +123,9 @@ zmianie ustawy Kodeks rodzinny oraz niektórych innych ustaw.
 
 **Art. 1.** W ustawie dnia 5 stycznia 1995 r. do oprocentowania niektórych kredytów bankowych (Dz. U. Nr 13, poz. 60) wart. 6 ust. 7 wyrazy ,,0,2%" wyrazem ,,0,2".
 
-**Art. 2.** Ustawa wchodzi 14 dni od dnia od dnia 1 stycznia 1995 r. Prezydent Rzeczypospolitej Polskiej: L. 419 USTAWA dnia 22 czerwca 1995 r. zmianie ustawy Przepisy orderach odznaczeniach, przepisy honorowych oraz niektóre ustawy.
+**Art. 2.** Ustawa wchodzi po 14 dni od dnia od dnia stycznia 1995 r. Prezydent Rzeczypospolitej Polskiej: L. 419 USTAWA dnia 22 czerwca 1995 r. zmianie ustawy Przepisy orderach odznaczeniach, przepisy honorowych oraz niektóre ustawy.
 
-**Art. 1.** W ustawie dnia 16 1992 Przepisy orderach odznacze niach, przepisy honorowych oraz niektóre ustawy (Dz. U. Nr 90, poz. 451) art. 2 ust. 1 pkt 1, art. 6 ust. 3 art. 7 ust. 1 wyrazy ,,8 maja 1995 wyrazami ,,8 maja 1999
+**Art. 1.** W ustawie dnia 16 1992 Przepisy orderach odznacze niach, przepisy honorowych oraz niektóre ustawy (Dz. U. Nr 90, poz. 451) art. 2 ust. pkt 1, art. 6 ust. 3 art. 7 ust. wyrazy ,,8 maja 1995 wyrazami ,,8 maja 1999
 
 **Art. 2.** Ustawa wchodzi dniem od dnia 9 maja 1995 r. Prezydent Rzeczypospolitej Polskiej: L. 420 USTAWA dnia 29 czerwca 1995 r. obligacjach.
 

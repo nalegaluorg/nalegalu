@@ -21,7 +21,7 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2026-02-09 |
 | Data wydania | 2026-02-23 |
-| Ostatnia zmiana | 2026-04-07 |
+| Ostatnia zmiana | 2026-05-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000199) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/199/text.pdf) |
 
 OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 9 lutego 2026 r.

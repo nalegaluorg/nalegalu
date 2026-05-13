@@ -24,11 +24,11 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111590945) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/945/text.pdf) |
 
-**Art. 1.** W ustawie 6 września 2001 transporcie drogowym (Dz. 125, 874, późn. zm. ) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie 6 września 2001 transporcie drogowym (Dz. U. 2007 125, poz. 874, późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie 21 marca 1985 drogach publicznych (Dz. 115, późn. zm. ) prowadza się następujące zmiany:
+**Art. 2.** W ustawie 21 marca 1985 drogach publicznych (Dz. U. 2007 19, poz. 115, późn. zm. ) prowadza się następujące zmiany:
 
-**Art. 3.** Dotychczasowe przepisy wykonawcze wydane na podstawie 69 3a 76 4 pkt 1 ustawy, której 1, zachowują moc do wejścia życie przepisów wykonawczych wydanych na podstawie 69 3a 76 4 pkt 1 ustawy, której 1, brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 12 miesięcy od wejścia życie niniejszej ustawy.
+**Art. 3.** Dotychczasowe przepisy wykonawcze wydane na podstawie 69 ust. 3a 76 ust. 4 pkt 1 ustawy, której mowa 1, zachowują moc do wejścia życie przepisów wykonawczych wydanych na podstawie 69 ust. 3a 76 ust. 4 pkt 1 ustawy, której mowa ust. 1, brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 12 miesięcy od wejścia życie niniejszej ustawy.
 
 **Art. 4.** Ustawa wchodzi życie dniem ogłoszenia, wyjątkiem 1 pkt 2 15, które wchodzą życie po upływie 30 dni od ogłoszenia. Prezydent Rzeczypospolitej Polskiej: B. Komorowski
 

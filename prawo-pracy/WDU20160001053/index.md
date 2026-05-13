@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, 19 lipca Poz. 1053
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, 19 lipca 2016 Poz. 1053
 
 | Pole | Wartość |
 |---|---|
@@ -24,13 +24,13 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001053) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1053/text.pdf) |
 
-USTAWA 22 zmianie pracy oraz niektórych innych ustaw
+USTAWA 22 2016 zmianie pracy niektórych innych ustaw
 
-**Art. 1.** W ustawie pracy (Dz. 1502, późn. zm. ) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie pracy (Dz. U. 1502, późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie 21 listopada 1967 powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. 2015 827, późn. zm. ) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie 21 listopada 1967 powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. 827, późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 3.** W ustawie 11 września 2003 służbie wojskowej żołnierzy zawodowych (Dz. 1414, późn. zm. ) 65 ust. 2 pkt 3 otrzymuje brzmienie: „3) nie powierza się wykonywania zadań służbowych uciążliwych, niebezpiecznych lub szkodliwych dla zdrowia, określonych przepisach wydanych na podstawie § 2 pracy.”.
+**Art. 3.** W ustawie 11 września 2003 służbie wojskowej żołnierzy zawodowych (Dz. U. 1414, późn. zm. ) 65 ust. 2 pkt 3 otrzymuje brzmienie: „3) nie powierza się wykonywania zadań służbowych uciążliwych, niebezpiecznych lub szkodliwych dla zdrowia, określonych przepisach wydanych na podstawie § 2 pracy.”.
 
 **Art. 4.**
 

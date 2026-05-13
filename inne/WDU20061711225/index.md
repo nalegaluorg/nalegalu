@@ -21,7 +21,7 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2006-08-25 |
 | Data wydania | 2006-09-27 |
-| Ostatnia zmiana | 2026-03-19 |
+| Ostatnia zmiana | 2026-05-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061711225) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/1225/text.pdf) |
 
 USTAWA z dnia 25 sierpnia 2006 r.

@@ -37,27 +37,27 @@ Prezydent Rzeczypospolitej Polskiej: L.
 493
 USTAWA dnia 25 1991 organizowaniu prowadzeniu kulturalnej.
 1 Przepisy og61ne kulturalna rozumieniu niniejszej ustawy polega tworzeniu, upowszechnianiu ochronie kultury.
-2. Formami organizacyjnymi kultural nej teatly, opery, operetki, filharmonie, orkiestry, kina, muzea, biblioteki, domy ogniska artyst\'czne, galerie sztuki dokumentacji dziedzinach kuitury.
-3. oso by prawne, osoby fizyczne jednostki organizacyjne nie prawnej.
-2. Podmioty wymienione ust. 1 zasadach ustawie dnia 23 grudnia 1988 gospodarczej (Dz. U. Nr 41, 324, 1990 Nr 26, 149, Nr 34, 198, Nr 86, 504 1991 Nr 31, 128, Nr 41, 179, Nr prowadzenia gospodarczej przez podmioty zasadach.
-4. Osoby prawne jednostki organizacyj ne nie prawnej, których podsta wowym celem statutowym nie jest prowadzenie kulturalnej, szcze formie klubów, domów biblio tek.
+2. Formami organizacyjnymi kultural nej teatly, opery, operetki, filharmonie, orkiestry, kina, muzea, biblioteki, domy ogniska artyst\'czne, galerie sztuki oraz dokumentacji dziedzinach kuitury.
+3. oso by prawne, osoby fizyczne oraz jednostki organizacyjne nie prawnej.
+2. Podmioty wymienione ust. 1 zasadach ustawie dnia 23 grudnia 1988 gospodarczej (Dz. U. Nr 41, 324, 1990 Nr 26, 149, Nr 34, 198, Nr 86, 504 oraz 1991 Nr 31, 128, Nr 41, 179, Nr prowadzenia gospodarczej przez podmioty zasadach.
+4. Osoby prawne oraz jednostki organizacyj ne nie prawnej, których podsta wowym celem statutowym nie jest prowadzenie kulturalnej, szcze formie klubów, domów biblio tek.
 2. Koszty prowadzenia kulturalnej, której mowa ust. 1, tym .... 'ynagrodzenia dla pracowników wraz ze ubezpieczenie inne wydatki zatrudniania pracowników, koszty podstawowej.
 5. Podmioty zasadach wart. 3 dotacje
 6. Minister Kultury Sztuki drodze 2 Instytucje
-8. Naczelne centralne organy administracji wojewodowie kul formach organizacyjnych, których mowa wart. 2, dla których prowadzenie takiej jest podstawowym celem statutowym.
+8. Naczelne centralne organy administracji oraz wojewodowie kul formach organizacyjnych, których mowa wart. 2, dla których prowadzenie takiej jest podstawowym celem statutowym.
 2. Instytucjami których mowa ust. 1,
 1) narodowe - utworzone przez Minist ra Kultury Sztuki,
-2) - utworzone przez inne naczelne centralne organy administracji wojewodów.
+2) - utworzone przez inne naczelne centralne organy administracji oraz wojewodów.
 9. Gmina komunalny, formach organizacyjnych, których mowa wart. 2, komunalne dla których prowadzenie takiej jest podstawo wym celem statutowym.
 2. Prowadzenie kulturalnej jest zadaniem gminy charakterze
 10. Podmioty któ rych mowa wart. 8 9, zwane dalej organizatorami.
 11. Organizator wydaje akt utworzeniu który jej rodzaj, przedmiot
 12. Organizator zapewnia do akcie jej utworzeniu.
-13. Instytucje podstawie aktu ich utworzeniu statutu nadanego przez or ganizatora.
+13. Instytucje podstawie aktu ich utworzeniu oraz statutu nadanego przez or ganizatora.
 2. Statut zawiera:
 1) teren
 2) zakres tym zasady ze cznym ruchem kulturalnym,
-3) organy doradcze sposób ich wania,
+3) organy doradcze oraz sposób ich wania,
 4) sposób uzyskiwania finansowych,
 5) zasady dokonywania zmian statutowych,
 6) postanowienia prowadzenia in nej kulturalna, instytucja zamierza
@@ -86,22 +86,22 @@ tym samym trybie.
 4) ustalenie zasad przez wyniku
 4. Przepisy art. 19 ust. 3 4 stosuje odpowiednio.
 21. Organizatorzy, których mowa wart. 8 ust.
-2 pkt 2 wart. 9, podstawie umowy zawartej utworzone przez nich in stytucje kultury.
+2 pkt 2 oraz wart. 9, podstawie umowy zawartej utworzone przez nich in stytucje kultury.
 2. Organizatorzy, których mowa ust. 1, podstawie umowy zawartej nie prawnej kultury.
 3. W umowach, których mowa ust. 1 2, strony wnoszonych przez nich, do prowadzenia przez kultury.
 4. W przypadku, którym mowa ust. 1, strony umowie swoje uprawnienia do statutu, dyrektora, likwidacji instytucji, a organizatora rejestr tej instytucji.
-5. W przypadku, którym mowa ust. 2, strony umowie uprawnienia podmiotu organizatorem do statutu, nia dyrektora likwidacji kultury.
+5. W przypadku, którym mowa ust. 2, strony umowie uprawnienia podmiotu organizatorem do statutu, nia dyrektora oraz likwidacji kultury.
 22. Organizator kultury.
 2. Organizator jest 6 przed wydaniem aktu likwidacji do publicznej zamiarze przyczynach likwidacji.
 3. W przypadku likwidacji powodu braku finansowych, celem informacji, której mowa ust. 2, powinno innymi, stworzenie do zgromadzenia tych wart. 3 ust. 2, chyba umowa, której mowa wart. 21 ust. 1 2, stanowi inaczej.
 2. Organizator jest do zabezpieczenia mie nia likwidowanej instytucji.
 3 Zasady gospodarki finansowej
-27. Instytucja gospodaruje samodziel nie mienia prowadzi ramach posiadanych zasadami ich wykorzystania.
+27. Instytucja gospodaruje samodziel nie mienia oraz prowadzi ramach posiadanych zasadami ich wykorzystania.
 2. Instytucja Przy zbywaniu stosuje odpowiednio przepi sy
 3. gospodarki finansowej jest plan instytucji, zatwierdzony przez dyrektora zachowaniem dotacji organizatora, której mowa wart. 28 ust. 3.
-4. Plan zawiera potrzeb: plan plan przychodów kosztów, plan remon tów konserwacji plan inwestycji.
+4. Plan zawiera potrzeb: plan plan przychodów kosztów, plan remon tów konserwacji oraz plan inwestycji.
 28. Instytucja pokrywa koszty uzyskiwanych przychodów.
-2. Przychodami uzyskiwa ne prowadzonej dotacje art. 29 ust. 3 pkt 3, otrzymane od osób fizycznych prawnych innych
+2. Przychodami uzyskiwa ne prowadzonej dotacje art. 29 ust. 3 pkt 3, otrzymane od osób fizycznych prawnych oraz innych
 3. rocznej dotacji ustala organizator.
 29. odzwier ciedla fundusz który odpowiada wydzielonego nabytego mienia.
 2. Fundusz zmniejsza zmian instytucji, skut kiem:
@@ -111,9 +111,9 @@ tym samym trybie.
 3. Fundusz o:
 1)
 2) dotacje finansowanie rozwoju instytucji, r tyzacyjnych zasadach przepi sach.
-7. Instytucja zysku innych przekazanych przez osoby prawne osoby fizyczne fundusz przeznaczeniem nagród in dywidualnych inne fundusze. Zasady gospodarowania tymi funduszami regulaminy kultury.
+7. Instytucja zysku oraz innych przekazanych przez osoby prawne osoby fizyczne fundusz przeznaczeniem nagród in dywidualnych oraz inne fundusze. Zasady gospodarowania tymi funduszami regulaminy kultury.
 30. Instytucja prowadzi zasad przepisach ra.
-2. Roczny bilans wykazany nim wynik finansowy pozostale roczne sprawozdania finan sowe, stosownie do przepisów statystyce wowej, weryfikacji przepisów.
+2. Roczny bilans wykazany nim wynik finansowy oraz pozostale roczne sprawozdania finan sowe, stosownie do przepisów statystyce wowej, weryfikacji przepisów.
 31. Minister Kultury Sztuki porozumieniu Mini strem Pracy Polityki Socjalnej drodze nia, zB3ady wynagradzania pracowników kultury.
 32. Instytucje takie jak: muzea, badai' dokumentacji zabytków, biura wystaw artystycz nych, filmoteka narodowa, centra sztuki, biblioteki, domy kluby, domy pracy twór czej, ogniska artystyczne - finan gminy zasadach ustalonych dla
 2. Do podstawowych wymienionych ust. 1
@@ -121,8 +121,8 @@ tym samym trybie.
 2) gromadzenie, dokumentowanie, tworzenie, ochrona dóbr
 3) tvvorzenie warunków dla rozwoju amatorskiego ruchu artystycznego ora.z zainteresowania
 4) tworzenie warunków dl3 rozwoju folkloru, a ludowego artystycznego,
-5) rozpoznawanie, rozbudzanie zaspokajanie potrzeb ku!turalnych.
-3. Do zasadach lonych ust. 1 stosuje przepisy ustav'Y dnia 31 stycznia 1989 wynagrodzenia sferze (Dz. U. Nr4, 24, Nr48, 261 Nr64, 389 1990 Nr 71, 417).
+5) rozpoznawanie, rozbudzanie zaspokajanie potrzeb oraz ku!turalnych.
+3. Do zasadach lonych ust. 1 stosuje przepisy ustav'Y dnia 31 stycznia 1989 wynagrodzenia sferze (Dz. U. Nr4, 24, Nr48, 261 Nr64, 389 oraz 1990 Nr 71, 417).
 4. Do zasadach lonych ust. 1 nie stosuje art. 27-29 art. 30 ust. 2.
 33. Darowizny przekazane rzecz Fundacji Kul tury, która zniesionego Funduszu Rozwoju Kultury, podstawy opodatko'lI'fania podatkiem dochodowym
 2) rodzaj charakter imprezy,
@@ -141,7 +141,7 @@ ust. 5 liczy od dnia
 4. wyniku wniesienia terminie 3 dni.
 37. Prezes Rady Ministrów dowej, Ministra Spraw Ministra Sprawied
 2. Ministrowie, których mowa ust. 1, drodze przepisy ustawy przez podlegle im nadzorowane przez nich jednostki organiza cyjne.
-40. Przepisy niniejszej ustawy nie prze pisów ustawy dnia 15 lutego 1962 ochronie dóbr muzeach {Dz. U. Nr 10, 48, 1983 Nr 38, 173, 1989 Nr 35, 192 1990 Nr 34, 198 Nr 56, 322} ustawy dnia 9 kwietnia 1968 bibliotekach (Dz. U. Nr 12, 63, 1984 Nr 26, 129, 1989 Nr 29, 155 Nr 35, 192 1990 Nr 34, 198) zakresie prowadzenia kul turalnej formach tych ustawach.
+40. Przepisy niniejszej ustawy nie prze pisów ustawy dnia 15 lutego 1962 ochronie dóbr muzeach {Dz. U. Nr 10, 48, 1983 Nr 38, 173, 1989 Nr 35, 192 oraz 1990 Nr 34, 198 Nr 56, 322} oraz ustawy dnia 9 kwietnia 1968 bibliotekach (Dz. U. Nr 12, 63, 1984 Nr 26, 129, 1989 Nr 29, 155 Nr 35, 192 oraz 1990 Nr 34, 198) zakresie prowadzenia kul turalnej formach tych ustawach.
 41. Instytucje placówki upowszechniania kul tury dniu ustawy, dla których organizatorem podmioty wart. 8 9, wpisowi do rejestru prowadzone go przez organizatora, terminie 6 od dnia ustawy, a pracownicy tych pracownikami kultury.
 2. Instytucje placówki upowszechniania ist 'w dniu ustawy, dla których or ganizatorem inne podmioty wart. 8 9, nadal 3 od dnia ustawy wymogi przepisach niniejszej ustawy.
 3. W razie ust. 2, podmioty te do zaprzestania prowadzenia
@@ -151,7 +151,7 @@ ust. 5 liczy od dnia
 2. Do czasu dokonania wpisu, którym mowa ust. 1, moc dotychczasowe zezwolenia prowadzenie zakresie organizowania imprez artystycznych.
 3. sprawie organizowa nie imprez artystycznych rozrywkowych przed dniem ustawy nie toczy przepisów niniej szej ustawy.
 45. moc: 1} ustawa dnia 9 kwietnia 1968 zezwoleniach spor (Dz. U. Nr 12, 64) - zakresie imprez artystycznych rozrywkowych,
-2) ustawa dnia 26 kwietnia 1984 upowszechnianiu prawach pracowników upowszechniania (Dz. U. Nr 26, 129, 1988 Nr 19, 132, 1989 Nr 4, 24 Nr 35, 192 1990 Nr 34, 198), 3} ustawa dnia 28 grudnia 1984 instytucjach artys tycznych (Dz. U. Nr 60, 304 1989 Nr 35,
+2) ustawa dnia 26 kwietnia 1984 upowszechnianiu oraz prawach pracowników upowszechniania (Dz. U. Nr 26, 129, 1988 Nr 19, 132, 1989 Nr 4, 24 Nr 35, 192 oraz 1990 Nr 34, 198), 3} ustawa dnia 28 grudnia 1984 instytucjach artys tycznych (Dz. U. Nr 60, 304 1989 Nr 35,
 192).
 46. Ustawa wchodzi po upfywie 14 dni od dnia Prezydent Rzeczypospolitej Polskiej: L.
 494

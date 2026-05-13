@@ -32,13 +32,13 @@ domain: null
 
 1. Do wydawania odpisów stosuje te same zasady, jakich wydaje wypisy.
 
-2. Przepis art. 110 3 stosuje odpowiednio odpisów. Prezydent Rzeczypospolitej Polskiej: L. USTAWA dnia 14 lutego 1991 r. Przepisy Prawo notariacie zmianie Kodeksu cywilnego wieczystych. Dz I Przepisy
+2. Przepis art. 110 3 stosuje odpowiednio odpisów. Prezydent Rzeczypospolitej Polskiej: L. 92 USTAWA dnia 14 lutego 1991 r. Przepisy Prawo notariacie zmianie Kodeksu cywilnego wieczystych. Dz I Przepisy
 
-**Art. 1.** Ustawa Prawo notariacie wchodzi 1 od dnia
+**Art. 1.** Ustawa Prawo notariacie wchodzi po 1 od dnia
 
 **Art. 2.** Z art. 4 traci moc ustawa dnia 24 maja 1989 r. Prawo notariacie (Dz. U. 33, poz. 176 73, poz. 436), zwana dalej .
 
-**Art. 1.** Minister znosi we biura notarialne przekazuje prowadzenie wieczys tych rejonowym utworzeniu notarialnych obszarze znoszonego biura okresie nie 2 lata od dnia ustawy. 2. Wykaz zniesionych biur notarialnych Minister co 6 okresie 2 lat od dnia ustawy, formie obwieszczenia Dzienniku Rzeczypospolitej Polskiej "Monitor Polski".
+**Art. 1.** Minister znosi we biura notarialne przekazuje prowadzenie wieczys tych rejonowym po utworzeniu notarialnych obszarze znoszonego biura okresie nie 2 lata od dnia ustawy. 2. Wykaz zniesionych biur notarialnych Minister co 6 okresie 2 lat od dnia ustawy, formie obwieszczenia Dzienniku Rzeczypospolitej Polskiej "Monitor Polski".
 
 **Art. 4.** Do biur notarialnych czasu ich zniesienia notariuszy innych pracowników zatrudnionych tych biurach, a notariuszy prowa indywidualne kancelarie notarialne tych kancelarii, stosuje inne dotychczasowe wowych biurach notarialnych notariuszy indywidualne kancelarie notarialne, a notarialnych dokonywanych tych biurach kancelariach stosuje przepisy Prawo notariacie. za dokonanie notarialnej stosuje przepisy art. 59 dotychczasowej, a przechowywa nia archiwum dokumentów dokonane notarialne sposobu prowadzenia notarialnych przepisy wydane podstawie art. 77 tej ustawy.
 
@@ -56,7 +56,7 @@ domain: null
 
 1. Z dniem notariuszowi zawiado mienia wyznaczeniu siedziby notarialnej dotych czasowy stosunek pracy tym notariuszem wygasa.
 
-2. Stosunek pracy notariuszem, który nie wniosku wyznaczenie siedziby notarialnej, roz trzech od dnia mu zawiadomienia Ministra zwolnieniu, tym koniec tego terminu nie zniesienia biura notarialnego, którym notariusz zatrudniony, chyba wniosek notariusza krótszy termin.
+2. Stosunek pracy notariuszem, który nie wniosku wyznaczenie siedziby notarialnej, roz po trzech od dnia mu zawiadomienia Ministra zwolnieniu, tym koniec tego terminu nie zniesienia biura notarialnego, którym notariusz zatrudniony, chyba wniosek notariusza krótszy termin.
 
 **Art. 10.**
 
@@ -72,7 +72,7 @@ domain: null
 
 **Art. 14.** Minister osoby wymienionej wart. 12 notariacie notariusza wyznaczenie jej rialnej od odbycia przeszkolenia wowym biurze notarialnym. Przepis ten stosuje 2 lat od dnia ustawy.
 
-**Art. 15.** Minister opinii kolegium wojewódzkiego, rejonowego notariusza biurze notarialnym prowadzenia wieczystych, zasadach wart. 63 Prawo ustroju powszechnych.
+**Art. 15.** Minister po opinii kolegium wojewódzkiego, rejonowego notariusza biurze notarialnym prowadzenia wieczystych, zasadach wart. 63 Prawo ustroju powszechnych.
 
 **Art. 16.**
 
@@ -102,5 +102,5 @@ domain: null
 
 **Art. 24.** W ustawie dnia 6 lipca 1982 wieczystych hipotece (Dz. U. 19, poz. 147) wrowadza zmiany:
 
-**Art. 25.** Ustawa wchodzi 1 ca od dnia Prezydent Rzeczypospolitej Polskiej: L. 93 USTAWA dnia lutego 1991 r. zmianie kosztach sprawach cywilnych. Art. t W ustawie dnia 13 czerwca 1967 r. kosztach sprawach cywilnych (Dz. U. 24, poz. 110 i' 1982 r 31, poz. 215) wprowadza .:miany:
+**Art. 25.** Ustawa wchodzi po 1 ca od dnia Prezydent Rzeczypospolitej Polskiej: L. 93 USTAWA dnia lutego 1991 r. zmianie kosztach sprawach cywilnych. Art. t W ustawie dnia 13 czerwca 1967 r. kosztach sprawach cywilnych (Dz. U. 24, poz. 110 i' 1982 r 31, poz. 215) wprowadza .:miany:
 

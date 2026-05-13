@@ -34,21 +34,21 @@ bibliotekach.
 2. W zakresie nie uregulowanym bliotek stosuje odpowiednio przepisy organizo waniu prowadzeniu kulturalnej.
 3. 1. Biblioteki ich zbiory dobro na rodowe zachowaniu dziedzictwa narodowe go. Biblioteki zaso bów dorobku nauki kultury polskiej
 2. Prawo korzystania ma charakter po wszechny, na zasadach ustawie.
-4. 1. podstawowych gromadzenie, opracowywanie, przechowywanie ochrona
+4. 1. Do podstawowych gromadzenie, opracowywanie, przechowywanie ochrona
 2) przede wszystkim udo zbiorów prowadzenie informacyjnej, informowanie zbiorach innych bibliotek, muzeów in nej, naukowo-badawczej, wydawniczej, edukacyjnej, popularyzatorskiej instrukcyjno-metodycznej.
 5. bibliotecznymi szczególno dokumenty utrwalony wyraz ludzkiej, przeznaczone rozpowszechniania, nieza od fizycznego sposobu zapisu a dokumenty graficzne kar tograficzne, ikonograficzne muzyczne), wizualne, audiowizualne elektroniczne.
 6. 1. Zbiory war znaczenie dla dziedzictwa narodowego lub narodowy zasób biblioteczny.
 2. Narodowy zasób biblioteczny podlega szczegól nej ochronie.
-3. Kultury Sztuki, porozumieniu ministrami, ustali, drodze wykaz bibliotek, których zbiory narodowy zasób biblioteczny, tego zasobu zasa dy zakres jego szczególnej ochrony.
+3. Minister Sztuki, porozumieniu ministrami, ustali, drodze wykaz bibliotek, których zbiory narodowy zasób biblioteczny, tego zasobu zasa dy zakres jego szczególnej ochrony.
 2
 3) stymulowanie rozwoju kierunków polskiego bibliotekarstwa,
 4) opiniowanie inicjatyw istotnych dla rozwo ju bibliotek,
 5) okresowa ocena skuteczno polityki bibliotecznej.
-3. W Rady dyrektor Bibliote ki Narodowej, dyrektor Biblioteki czterej przedstawiciele publicznych wskazani przez Ministra Kultury Sztuki, czterej przedstawiciele biblio tek szkolnych, pedagogicznych naukowych wskazani przez M inistra Edukacji Narodowej, dwaj przedstawi ciele naukowych wskazani przez Przewodni Komitetu Naukowych trzej przed stawiciele bibliotekarskich twórczych.
-4. Rady Kultury ki na okres lat.
+3. W Rady dyrektor Bibliote ki Narodowej, dyrektor Biblioteki czterej przedstawiciele publicznych wskazani przez Ministra Sztuki, czterej przedstawiciele biblio tek szkolnych, pedagogicznych naukowych wskazani przez M inistra Edukacji Narodowej, dwaj przedstawi ciele naukowych wskazani przez Przewodni Komitetu Naukowych trzej przed stawiciele bibliotekarskich twórczych.
+4. Rady Minister ki na okres lat.
 5. Rada ze swojego grona wybiera cego Rady.
-6. Kultury Sztuki Rady przed okresu, którym mowa ust. 4, nie uczestniczy on pracach Rady.
-7. tryb Rady regula min, nadawany przez Ministra Kultury Sztuki dro dze 3 Organizacja
+6. Minister Sztuki Rady przed okresu, którym mowa ust. 4, nie uczestniczy on pracach Rady.
+7. tryb Rady regula min, nadawany przez Ministra Sztuki dro dze 3 Organizacja
 8.1. Biblioteki organizowane prowadzone przez podmioty zwane dalej "organizatorami".
 2. Organizatorami lokal,
 2) na:
@@ -88,7 +88,7 @@ Zadania, naczelne centralne organy administracji kres biblioteki innej nostki or
 4) doskonalenie merytorycznej kraju pomoc bibliotekom polskim za
 5) prowadzenie znormalizowanych nume rów wydawnictw zwartych wydawnictw
 2. Biblioteka Narodowa prowadzi me zakresie bibliotekarstwa, bliografii, nowoczesnych technologii bliotecznych konserwacji bibliotecz nych.
-3. Przy Bibliotece Narodowej na zasadach jej statucie, Rada Naukowa, której Kultury ki, na wniosek dyrektora Biblioteki Narodowej.
+3. Przy Bibliotece Narodowej na zasadach jej statucie, Rada Naukowa, której Minister ki, na wniosek dyrektora Biblioteki Narodowej.
 5 Biblioteki publiczne
 18. 1. Biblioteki publiczne zaspokajaniu potrzeb kulturalnych informacyjnych upowszech nianiu wiedzy kultury.
 2. Bibliotekami publicznymi zorganizowane formie instytucji kultury, Biblioteka Narodowa, wo jewódzkie biblioteki publiczne gminne (komunalne) biblioteki publiczne.
@@ -100,7 +100,7 @@ sposób dogodny bibliotecznych informacji. W tym celu województwie jest organiz
 3. Porozumienie, którym mowa ust. 2, finansowych, które wojewoda gmina, prowadze nia przez 6 Biblioteki naukowe
 21.1. Biblioteki naukowe: potrzebom nauki bibliotecznych zasobów in formacyjnych prowadzenia prac naukowo-badawczych wyniki naukowych,
 2) zakre sie bibliotekoznawstwa dziedzin pokrewnych, a zakresie przez nie dzie dzin nauki.
-2. naukowych Biblioteka Narodowa,
+2. Do naukowych Biblioteka Narodowa,
 2) biblioteki, których organizatorami
 3) biblioteki, których organizatorem jest Polska Aka demia Nauk, 7 Biblioteki szkolne pedagogiczne
 22. 1. Biblioteki szkolne biblioteki placówek systemu oświaty służą realizacji programów nauczania wychowania, edukacji kulturalnej macyjnej dzieci doskona leniu nauczycieli. W tym celu szkole publicz nej jest prowadzona biblioteka szkolna.
@@ -115,26 +115,26 @@ sposób dogodny bibliotecznych informacji. W tym celu województwie jest organiz
 26. 1. W celu zapewnienia bibliotecznej specjalnych grup prowadzone teki opieki zdrowotnej, domach cy karnych, poprawczych schroniskach dla nieletnich, a jednostkach ganizacyjnych Ministrowi Obrony Narodo wej Ministrowi Spraw Administracji.
 dalej
 2. W sieci bibliotecznej biblioteki publiczne.
-3. Biblioteki inne ust. 2 sieci bibliotecznej, na wniosek go organizatora, Ministra Kultury Sztuki, któ ry uzgodnieniu organizatorem wskazuje nadzór merytoryczny zakresie realizacji ust. 5. Decyzja sie ci bibliotecznej uchyleniu razie na ruszenia przez sieci bibliotecznej.
+3. Biblioteki inne ust. 2 sieci bibliotecznej, na wniosek go organizatora, Ministra Sztuki, któ ry uzgodnieniu organizatorem wskazuje nadzór merytoryczny zakresie realizacji ust. 5. Decyzja sie ci bibliotecznej uchyleniu razie na ruszenia przez sieci bibliotecznej.
 4. sieci bibliotecznej prowadzi Biblioteka Narodowa.
 5. Biblioteki sieci bibliotecznej zakresie: gromadzenia, opracowywania, przechowywan'ia zbiorów,
 2) rozpowszechniania informacji bliograficznych dokumentacyjnych,
 3) naukowo-badawczej nia doskonalenia zawodowego pracowników bliotek,
 4) wymiany przekazywania biblio tecznych informacji.
-28. Kultury Sztuki, porozumieniu ministrami, drodze ustala dla sieci bibliotecznej zasady: gromadzenia, opracowywania, przechowywania ochrony, wtym konserwacji, bibliotecz nych,
+28. Minister Sztuki, porozumieniu ministrami, drodze ustala dla sieci bibliotecznej zasady: gromadzenia, opracowywania, przechowywania ochrony, wtym konserwacji, bibliotecz nych,
 2) specjalizacji zbiorów bibliotecznych ustalania tym zakresie dla na ukowych biblioteczne, dziedziny wiedzy,
 3) wymiany
 4) ewidencji
 5) Pracownicy
 29. 1. Pracownicy zatrudnieni na stanowiskach bibliotekarskich powinni kwalifikacje biblio tekarskie. oni bibliotekarzy.
-2. pracowników, których mowa ust. 1, pracownicy bibliotecznej: bibliote karz, bibliotekarz, starszy bibliotekarz, kustosz starszy kustosz,
+2. Do pracowników, których mowa ust. 1, pracownicy bibliotecznej: bibliote karz, bibliotekarz, starszy bibliotekarz, kustosz starszy kustosz,
 2) bibliotekarze dyplomowani: asystent, adiunkt, ku stosz dyplomowany, starszy kustosz dyplomowany.
 3. W bibliotekach zatrudnieni, razie po trzeby, innych zawodów dzia
-4. Kultury Sztuki porozumieniu ministrami drodze wymagania kwalifikacyjne zajmowa nia stanowisk bibliotekach tryb stwierdzania tych kwalifikacji.
+4. Minister Sztuki porozumieniu ministrami drodze wymagania kwalifikacyjne zajmowa nia stanowisk bibliotekach tryb stwierdzania tych kwalifikacji.
 12 Zmiany przepisach przepisy
 30. W ustawie dnia 20 maja 1971 r. Kodeks (Dz. U. Nr 12, poz.114, 1981 r. Nr 24, poz. 124, 1982 r. Nr 16, poz. 125, 1983 r. Nr 6, poz. 35 Nr 44, poz. 203, 1984 r. Nr 54, poz. 275, 1985 r. Nr 14, poz. 60 Nr 23, poz. 100, 1986 r. Nr 39, poz. 193, 1988 r. Nr 20, poz. 135 Nr 41, poz. 324, 1989 r. Nr 34, poz. 180, 1990 r. Nr 51, poz. 297, Nr 72, poz. 422 Nr 86, poz. 504, 1991 r. Nr 75, poz. 332 Nr 91, poz. 408, 1992 r.
 Nr 24, poz. 101, 1994 r. Nr 123, poz. 600, 1995 r. Nr 6, poz. 29 Nr 60, poz. 310 1997 r. Nr 54, poz. 349 Nr 60, poz. 369) art. 53.
 31.1. Traci moc ustawa dnia 9 kwietnia 1968 r.
 bibliotekach (Dz.U. Nr 12, poz. 63, 1984 r. Nr 26, poz. 129, 1989 Nr 29, poz. 155 Nr 35, poz. 192, 1990 r. Nr 34, poz. 198 1996 r. Nr 152, poz. 722).
-2. czasu wydania przepisów wykonawczych przewidzianych ustawie, nie jednak przez okres 6 od dnia jej zachowu moc przepisy dotychczasowe, nie sprzeczne.
+2. Do czasu wydania przepisów wykonawczych przewidzianych ustawie, nie jednak przez okres 6 od dnia jej zachowu moc przepisy dotychczasowe, nie sprzeczne.
 

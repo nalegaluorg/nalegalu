@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# Warszawa, dnia 21 maja 2014 Poz.
+# Warszawa, dnia 21 maja 2014
 
 | Pole | Wartość |
 |---|---|
@@ -28,7 +28,7 @@ USTAWA dnia 4 kwietnia 2014 zmianie Prawo wodne niektórych innych ustaw
 
 **Art. 1.** W ustawie dnia 18 lipca 2001 Prawo wodne (Dz. 2012 145, późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie dnia 20 maja 1971 Kodeks wykroczeń (Dz. 2013 482, późn. zm. ) art. 80 § pkt otrzymuje brzmienie: przejeżdża pojazdem konno albo przepędza zwierzę gospodarskie przez wał przeciwpowodziowy miejscu do tego nieprzeznaczonym przejeżdża pojazdem innym niż rower konno albo przepędza zwierzę gospodarskie wzdłuż po wale przeciwpowodziowym, na którym nie ma drogi dostatecznie mocnej nawierzchni,”.
+**Art. 2.** W ustawie dnia 20 maja 1971 Kodeks wykroczeń (Dz. 2013 482, późn. zm. ) art. 80 § pkt otrzymuje brzmienie: przejeżdża pojazdem konno albo przepędza zwierzę gospodarskie przez wał przeciwpowodziowy miejscu do tego nieprzeznaczonym przejeżdża pojazdem innym niż rower konno albo przepędza zwierzę gospodarskie wzdłuż po wale przeciwpowodziowym, na nie ma drogi dostatecznie mocnej nawierzchni,”.
 
 **Art. 3.** W ustawie dnia 21 marca 1985 drogach publicznych (Dz. 2013 260, późn. zm. ) wprowadza się następujące zmiany:
 

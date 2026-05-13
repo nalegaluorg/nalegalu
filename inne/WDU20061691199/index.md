@@ -21,7 +21,7 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2006-08-25 |
 | Data wydania | 2006-09-25 |
-| Ostatnia zmiana | 2026-02-17 |
+| Ostatnia zmiana | 2026-05-12 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061691199) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/1199/text.pdf) |
 
 3. W przypadku wezwania rolnika do uzupełnienia wniosku owpis do rejestru rolników, termin, októrym Zasady wykonywania działalności gospodarczej mowa w ust. 1, biegnie od dnia wpływu uzupełnione- wzakresie wprowadzania do obrotu biokomponentów go wniosku. i biopaliw ciekłych oraz zasady określania i realizacji Narodowego Celu Wskaênikowego

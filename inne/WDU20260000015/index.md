@@ -21,7 +21,7 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2025-12-04 |
 | Data wydania | 2026-01-08 |
-| Ostatnia zmiana | 2026-03-18 |
+| Ostatnia zmiana | 2026-05-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000015) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/15/text.pdf) |
 
 OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 4 grudnia 2025 r.

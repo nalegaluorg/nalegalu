@@ -59,8 +59,8 @@ USTAWA dnia 7 lutego 2014 o udziale pracowników we wspólnych operacjach wspól
     - **b)** wniosek dotyczy przedłużenia pobytu zwiększenia liczby pracowników, o których mowa pkt 2 lit. d zwani dalej „organem wnioskującym”.
 
 - **1)** bezpośrednio przypadku wspólnej operacji, o której mowa art. 2 pkt 1 lit. b;
-- **2)** za pośrednictwem punktu kontaktowego, o którym mowa art. 145j ust. 1 pkt 5 dnia 6 kwietnia 1990 o Policji (Dz. 2011 287, 1687, ze zm. ) albo art. 147v dnia 12 października 1990 o Straży Granicznej (Dz. 2011 116, 675, późn. zm. ) przypadku wspólnej operacji, o której mowa art. 2 pkt 1 lit. a c;
-- **3)** za pośrednictwem stanowiska kierowania, o którym mowa art. 10 ust. 1 pkt 2 lit. a dnia 24 sierpnia 1991 o Państwowej Straży Pożarnej (Dz. 2013 1340 1351) przypadku wspólnego działania ratowniczego.
+- **2)** za pośrednictwem punktu kontaktowego, o którym mowa art. 145j ust. 1 pkt 5 ustawy dnia 6 kwietnia 1990 o Policji (Dz. 2011 287, 1687, ze zm. ) albo art. 147v ustawy dnia 12 października 1990 o Straży Granicznej (Dz. 2011 116, 675, późn. zm. ) przypadku wspólnej operacji, o której mowa art. 2 pkt 1 lit. a c;
+- **3)** za pośrednictwem stanowiska kierowania, o którym mowa art. 10 ust. 1 pkt 2 lit. a ustawy dnia 24 sierpnia 1991 o Państwowej Straży Pożarnej (Dz. 2013 1340 1351) przypadku wspólnego działania ratowniczego.
 
 3. We wniosku określa się:
 
@@ -71,7 +71,7 @@ USTAWA dnia 7 lutego 2014 o udziale pracowników we wspólnych operacjach wspól
 - **5)** rodzaj służb, które mają uczestniczyć we wspólnej operacji wspólnym działaniu ratowniczym;
 - **6)** przewidywane koszty wspólnej operacji wspólnego działania ratowniczego oraz zasady ich finansowania.
 
-4. W przypadku gdy wspólna operacja jest prowadzona związku zaistnieniem celu zapobieżenia zdarzeniu terrorystycznemu rozumieniu art. 3 pkt 11 dnia 26 kwietnia 2007 o zarządzaniu kryzysowym (Dz. 2013
+4. W przypadku gdy wspólna operacja jest prowadzona związku zaistnieniem celu zapobieżenia zdarzeniu terrorystycznemu rozumieniu art. 3 pkt 11 ustawy dnia 26 kwietnia 2007 o zarządzaniu kryzysowym (Dz. 2013
 
 - **1166)** gdy zachodzi konieczność bezzwłocznego prowadzenia wspólnego działania ratowniczego, wniosek, o którym mowa ust. 1 pkt 1, kierowany jest przez właściwy organ do organu państwa wysyłającego, trybie określonym ust. 2, równocześnie wnioskiem do ministra właściwego do spraw wewnętrznych o wyrażenie zgody. W przypadku braku zgody wspólna operacja wspólne działanie ratownicze nie mogą być prowadzone, a jeżeli rozpoczęte, muszą zostać zakończone terminie nie dłuższym niż 24 godziny od otrzymania przez organ wnioskujący informacji o braku zgody.
 
@@ -116,15 +116,15 @@ USTAWA dnia 7 lutego 2014 o udziale pracowników we wspólnych operacjach wspól
 - **2)** wwozu na terytorium Rzeczypospolitej Polskiej posiadania broni palnej, amunicji środków przymusu bezpośredniego;
 - **3)** użycia wykorzystania broni palnej sposób trybie określonych ustawie dnia 24 maja 2013 o środkach przymusu bezpośredniego broni palnej (Dz. 628 1165 oraz 2014 24):
     - **a)** celu odparcia bezpośredniego bezprawnego zamachu na życie, zdrowie wolność zagranicznego funkcjonariusza pracownika albo innej osoby,
-    - **b)** na rozkaz dowódcy: przypadkach określonych art. 45 pkt 1 lit. b–e, pkt 2, 3 4 lit. a b dnia 24 maja 2013 o środkach przymusu bezpośredniego broni palnej, celu przeciwdziałania czynnościom zmierzającym bezpośrednio do zamachu określonego lit. a;
+    - **b)** na rozkaz dowódcy: przypadkach określonych art. 45 pkt 1 lit. b–e, pkt 2, 3 4 lit. a b ustawy dnia 24 maja 2013 o środkach przymusu bezpośredniego broni palnej, celu przeciwdziałania czynnościom zmierzającym bezpośrednio do zamachu określonego lit. a;
 
 - **4)** użycia wykorzystania środków przymusu bezpośredniego sposób trybie określonych dla Policji;
 - **5)** wykonywania czynności, o których mowa w:
-    - **a)** art. 15 dnia 6 kwietnia 1990 o Policji przypadku gdy koordynującym wspólną operację jest komendant wojewódzki Policji albo osoba wyznaczona przez Komendanta Głównego Policji,
-    - **b)** art. 11 dnia 12 października 1990 o Straży Granicznej przypadku gdy koordynującym wspólną operację jest komendant oddziału Straży Granicznej albo osoba wyznaczona przez Komendanta Głównego Straży Granicznej,
-    - **c)** art. 13 dnia 16 marca 2001 o Biurze Ochrony Rządu (Dz. 2014 170) przypadku gdy koordynującym wspólną operację jest osoba wskazana przez Szefa Biura Ochrony Rządu sposób trybie określonych tych ustawach;
+    - **a)** art. 15 ustawy dnia 6 kwietnia 1990 o Policji przypadku gdy koordynującym wspólną operację jest komendant wojewódzki Policji albo osoba wyznaczona przez Komendanta Głównego Policji,
+    - **b)** art. 11 ustawy dnia 12 października 1990 o Straży Granicznej przypadku gdy koordynującym wspólną operację jest komendant oddziału Straży Granicznej albo osoba wyznaczona przez Komendanta Głównego Straży Granicznej,
+    - **c)** art. 13 ustawy dnia 16 marca 2001 o Biurze Ochrony Rządu (Dz. 2014 170) przypadku gdy koordynującym wspólną operację jest osoba wskazana przez Szefa Biura Ochrony Rządu sposób trybie określonych tych ustawach;
 
-- **6)** podejmowania stosunku do uczestników ruchu drogowego działań, o których mowa art. 129 ust. 2–4 dnia 20 czerwca 1997 Prawo o ruchu drogowym (Dz. 2012 1137, późn. zm. );
+- **6)** podejmowania stosunku do uczestników ruchu drogowego działań, o których mowa art. 129 ust. 2–4 ustawy dnia 20 czerwca 1997 Prawo o ruchu drogowym (Dz. 1137, późn. zm. );
 - **7)** posiadania użycia sprzętu, o którym mowa art. 5 ust. 2 pkt 16, służącego do wykonania czynności, o których mowa pkt 5 6. Zagraniczni funkcjonariusze biorący udział we wspólnej operacji korzystają uprawnień, o których mowa ust. 1 pkt 3–6, pod dowództwem obecności polskiego funkcjonariusza.
 
 3. Uprawnienia, o których mowa ust. 1 pkt 7, przysługują również zagranicznym pracownikom biorącym udział we wspólnej operacji.
@@ -136,7 +136,7 @@ USTAWA dnia 7 lutego 2014 o udziale pracowników we wspólnych operacjach wspól
 - **1)** noszenia munduru służbowego;
 - **2)** posiadania użycia sprzętu, o którym mowa art. 5 ust. 2 pkt 16;
 
-3. Do kierującego wspólnym działaniem ratowniczym stosuje się przepis art. 21 ust. 2 dnia 24 sierpnia 1991 o Państwowej Straży Pożarnej.
+3. Do kierującego wspólnym działaniem ratowniczym stosuje się przepis art. 21 ust. 2 ustawy dnia 24 sierpnia 1991 o Państwowej Straży Pożarnej.
 
 **Art. 11.** Zagraniczni funkcjonariusze pracownicy biorący udział we wspólnej operacji wspólnym działaniu ratowniczym mogą używać częstotliwości radiowych, które im wskazane przez właściwy organ wnioskujący.
 
@@ -155,23 +155,23 @@ USTAWA dnia 7 lutego 2014 o udziale pracowników we wspólnych operacjach wspól
 
 **Art. 15.** Służbowe środki transportowe, zarejestrowane dopuszczone do ruchu na podstawie przepisów obowiązujących państwie wysyłającym, dopuszcza się do ruchu na terytorium Rzeczypospolitej Polskiej, jeżeli kierujący pojazdem posiada wydany przez właściwe władze państwa wysyłającego dokument stwierdzający zarejestrowanie pojazdu oraz dopuszczenie go do ruchu.
 
-**Art. 16.** Pojazdy pracowników podlegają takim samym opłatom pobieranym za korzystanie dróg publicznych na podstawie przepisów dnia 27 października 1994 o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. 2012 931, późn. zm. ) oraz dnia 21 marca 1985 o drogach publicznych (Dz. 2013 260, późn. zm. ), jak pojazdy uprzywilejowane Policji.
+**Art. 16.** Pojazdy pracowników podlegają takim samym opłatom pobieranym za korzystanie dróg publicznych na podstawie przepisów ustawy dnia 27 października 1994 o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. 931, późn. zm. ) oraz ustawy dnia 21 marca 1985 o drogach publicznych (Dz. 2013 260, późn. zm. ), jak pojazdy uprzywilejowane Policji.
 
 **Art. 17.** Dokumentem uprawniającym pracowników do kierowania na terytorium Rzeczypospolitej Polskiej służbowymi środkami transportowymi jest prawo jazdy inne pozwolenie wydane przez właściwy organ państwa wysyłającego.
 
-**Art. 18.** Służbowe środki transportowe zarejestrowane państwie wysyłającym mogą być używane jako pojazdy uprzywilejowane, o których mowa art. 2 pkt 38 dnia 20 czerwca 1997 Prawo o ruchu drogowym albo jako statki sygnalizacją specjalną, o których mowa przepisach wydanych na podstawie art. 46 dnia 21 grudnia 2000 o żegludze śródlądowej (Dz. 2013 1458), na zasadach tam określonych.
+**Art. 18.** Służbowe środki transportowe zarejestrowane państwie wysyłającym mogą być używane jako pojazdy uprzywilejowane, o których mowa art. 2 pkt 38 ustawy dnia 20 czerwca 1997 Prawo o ruchu drogowym albo jako statki sygnalizacją specjalną, o których mowa przepisach wydanych na podstawie art. 46 ustawy dnia 21 grudnia 2000 o żegludze śródlądowej (Dz. 2013 1458), na zasadach tam określonych.
 
 **Art. 19.** Zagraniczni funkcjonariusze pracownicy biorący udział we wspólnej operacji wspólnym działaniu ratowniczym są uprawnieni do ulg przy przejazdach środkami publicznego transportu zbiorowego przysługujących funkcjoHandlu (EFTA), biorącym udział we wspólnej operacji wspólnym działaniu ratowniczym pokrywane są ramach limitu wydatków przewidzianych części budżetu państwa, której dysponentem jest minister właściwy do spraw wewnętrznych, chyba że przepisy wiążących Rzeczpospolitą Polską umów międzynarodowych stanowią inaczej.
 
-**Art. 21.** W ustawie dnia 21 maja 1999 o broni amunicji (Dz. 2012 576 oraz 2013 829) art. 3 po pkt 2a dodaje się pkt 2b brzmieniu: „2b) broni amunicji stanowiących uzbrojenie biorących udział we wspólnej operacji, o której mowa art. 2 pkt 1 dnia 7 lutego 2014 o udziale pracowników we wspólnych operacjach wspólnych działaniach ratowniczych na terytorium Rzeczypospolitej Polskiej (Dz. 295);”.
+**Art. 21.** W ustawie dnia 21 maja 1999 o broni amunicji (Dz. 576 oraz 2013 829) art. 3 po pkt 2a dodaje się pkt 2b brzmieniu: „2b) broni amunicji stanowiących uzbrojenie biorących udział we wspólnej operacji, o której mowa art. 2 pkt 1 ustawy dnia 7 lutego 2014 o udziale pracowników we wspólnych operacjach wspólnych działaniach ratowniczych na terytorium Rzeczypospolitej Polskiej (Dz. 295);”.
 
-**Art. 22.** W ustawie dnia 21 czerwca 2002 o materiałach wybuchowych przeznaczonych do użytku cywilnego (Dz. 2012 1329 oraz 2013 775 1238) art. 2 dodaje się ust. 4 brzmieniu: „4. Przepisów nie stosuje się do materiałów wybuchowych nabywanych, przechowywanych, przemieszczanych używanych przez biorących udział we wspólnej operacji, o której mowa art. 2 pkt 1 dnia 7 lutego 2014 o udziale pracowników we wspólnych operacjach wspólnych działaniach ratowniczych na terytorium Rzeczypospolitej Polskiej (Dz. 295).”.
+**Art. 22.** W ustawie dnia 21 czerwca 2002 o materiałach wybuchowych przeznaczonych do użytku cywilnego (Dz. 1329 oraz 2013 775 1238) art. 2 dodaje się ust. 4 brzmieniu: „4. Przepisów ustawy nie stosuje się do materiałów wybuchowych nabywanych, przechowywanych, przemieszczanych używanych przez biorących udział we wspólnej operacji, o której mowa art. 2 pkt 1 ustawy dnia 7 lutego 2014 o udziale pracowników we wspólnych operacjach wspólnych działaniach ratowniczych na terytorium Rzeczypospolitej Polskiej (Dz. 295).”.
 
 **Art. 23.** W ustawie dnia 27 sierpnia 2004 o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. 2008 164, 1027, późn. zm. ) wprowadza się następujące zmiany:
 
 **Art. 24.**
 
-1. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 13a zmienianej art. 23 zachowują moc do dnia wejścia życie przepisów wydanych na podstawie art. 13a zmienianej art. 23, brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez okres 12 miesięcy od dnia wejścia życie niniejszej ustawy. Minister właściwy do spraw zdrowia może, okresie przejściowym, dokonać zmiany dotychczasowych przepisów wykonawczych, o których mowa ust. 1.
+1. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 13a ustawy zmienianej art. 23 zachowują moc do dnia wejścia życie przepisów wydanych na podstawie art. 13a ustawy zmienianej art. 23, brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez okres 12 miesięcy od dnia wejścia życie niniejszej ustawy. Minister właściwy do spraw zdrowia może, okresie przejściowym, dokonać zmiany dotychczasowych przepisów wykonawczych, o których mowa ust. 1.
 
 **Art. 25.** Ustawa wchodzi życie po upływie 30 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: B. Komorowski
 

@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# Warszawa, dnia 12 listopada 2014 Poz. 1563
+# Warszawa, dnia 12 listopada 2014 1563
 
 | Pole | Wartość |
 |---|---|
@@ -24,7 +24,7 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001563) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1563/text.pdf) |
 
-USTAWA dnia 26 września 2014 zmianie ustawy podatku dochodowym osób fizycznych niektórych innych ustaw
+USTAWA dnia 26 września 2014 zmianie ustawy podatku dochodowym osób fizycznych oraz niektórych innych ustaw
 
 **Art. 1.** W ustawie dnia 26 lipca 1991 podatku dochodowym osób fizycznych 2012 361, późn. zm. ) wprowadza się następujące zmiany:
 

@@ -21,7 +21,7 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2025-03-06 |
 | Data wydania | 2025-04-04 |
-| Ostatnia zmiana | 2026-04-10 |
+| Ostatnia zmiana | 2026-04-29 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000439) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/439/text.pdf) |
 
 OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 6 marca 2025 r.

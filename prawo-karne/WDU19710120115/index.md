@@ -30,7 +30,7 @@ Art. II. l. Z dniem Kodeksu wykro moc wszelkie przepisy przedmiotów tym kodeksi
 2. W moc przepisy wymienione
 Art. lU. . niniejsza usta wa. wymienia przepisy tychczasowe, przez to przepisy nieniem wszystkich zmian wprowadzonych przed dniem tej ustawy.
 Art. IV. Uchyla
-l) Prezydenta 11 lip ca »1932 - Prawo wykroczeniach (Dz. U. 60,
+l) Prezydenta Rzeczypospolitej 11 lip ca »1932 - Prawo wykroczeniach (Dz. U. 60,
 572);
 14 kwietnia 1937 szkodnictwie nym polnym (Dz. U. 30, 224);
 ,3) dekret 4 marca 1953 uzupelnie.niu przepisów karnych sprawach niewykonanie dostaw wych (Dz. U. 1956 6, 31);
@@ -42,12 +42,12 @@ l) zawa rte wart. 6 Prawa wykroczeniach 1932 r.,
 2) zakresie - zawarte ustawie t5 grudnia 195\ orzecz.nictwie karno adrriiiJistracyjliym(Dz. U. 1966 39, 233) oraz ustawie 17 cze,rwca 1966r. przekazaniu ,których drobnych jako. orzeCznictwa karno-administracyjnego (Dz. U. 23, 149).
 2.W sprawach przez nieletnich czyny, które dotychczas zabronione przez pod kary jako pr~estQps1wa. a dniem wejścia życie,'Kądek:Su wykroczeniamI, stosuje nadal tychczas1lwe przepisy nielelnimi. którzy czynów za.bronionych przez Jak·o prze Rozdzlal' II Zmiany przepIsach
 Art. VI. Uchyla
-l) 4. 6 8 Prezydenta 22 marca 1928 ochronie (Dz. U.
+l) 4. 6 8 Prezydenta Rzeczypospolitej 22 marca 1928 ochronie (Dz. U.
 1932 417);
 2) 32 pkt 1 4 Prezydenta Rzeczypospo litej 22 marca 1928 badaniu (Dz. U. 1933 60, 454);
 3) 11 ustawy 15 marca 1933 zbiórkach pu blicznych (Dz. U.Nr 22, 162);
-4) 11 Prezydenta 24 1934 ustalaniu nazw obiektów fizjograficznych oraz o. numeracji nierucpo(Dz. U. 94, 850); •
-5) 6 Prezydenta 2 dziernika 1935 odznakach mundurach (Dz. U.
+4) 11 Prezydenta Rzeczypospolitej 24 1934 ustalaniu nazw obiektów fizjograficznych oraz o. numeracji nierucpo(Dz. U. 94, 850); •
+5) 6 Prezydenta Rzeczypospolitej 2 dziernika 1935 odznakach mundurach (Dz. U.
 ipoz. 455);
 6) 78 dekretu 8 czerwca 1955 - Prawo ak tach stanu cywilnego (Dz. U. 25, 1St);
 7) 10 dekretu 23 marca 1956--r.
@@ -67,7 +67,7 @@ U. 53. z, 295), warunkach zdrowotnych (Dz. U.
 29, 245).
 Art. VII. Tracą moc zakresie unormowanym Kodeksie' .
 lj 32 pkt 3 5 Prezydenta Rzeczypo spolitej 22 marca 1928 badaniu nych (Dz. U. 1933/ 60, 454);
-2) 10 Prezydenta d,nia 24 1934 ustalaniu nazw obiektów fizjograficznych oraz numeracji nie-rucho (Dz. U. 94, poz; 850) 8 9 tego
+2) 10 Prezydenta Rzeczypospolitej d,nia 24 1934 ustalaniu nazw obiektów fizjograficznych oraz numeracji nie-rucho (Dz. U. 94, poz; 850) 8 9 tego
 3) 10 ust. 1 dekretu 29 1952 go spodarowaniu obf'Otu towarowego zaopatrze nia (Dz. U. 44, poz" 301);
 4) 21 ust. l' ustawy 22 maja 1958 popieran'iu melioracji wodnych dla potrzeb rolnictwa (Dz. U. 1963 42, 237);
 5) 13-pkt 1 ustawy 22 kwietnia 1959 utrzymaniu miastach osiedlach (Dz.
@@ -101,7 +101,7 @@ ploou likwidacji eksplo'atacji albo Art. X. 1. Uchyla aresztu składa tych plan6
 5) ustawy 31 stycz.nia 1%1 broni, amunicji ma wybuchowych (Dz. 6, 43)i ustawy 31 stycznia 1961 zakwaterowaniu Zbrojnych (Dz. U. 6; 38J<
 7) ustawy 31 maja 1%2 - Prawo lotnicze (Dz. U.
 ,Nr 32, 153)i,
-8) ustawy 21 listopada 1967 'r. powszechnym obo obwny Polskiej Ludowej (Dz.
+8) ustawy 21 listopada 1967 'r. powszechnym obo obwny Polskiej Rzeczypospolitej Ludowej (Dz.
 44,poz. 22D).
 Art. XI. Zamiast kar dodatko,wych po szczególnych przepisach stosuje od.powiednie kary dodatkowe przewidziane Kodeksie wy Att. XII,§ przepisy na uchylone przepisy prawa wykroczeniach 1932 uchylone przepisy ustawy szczególnej a!llo ogól lIlie przepisów Wykroczeniach, stosuje tym zakre, sie, odpowiednio przepisy Kode,ksu
 2. W razie czy ma stosowane prawo dotychczasowe, czy Kodeks stosuje Kodeks '

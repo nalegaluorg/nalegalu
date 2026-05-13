@@ -24,13 +24,13 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20042402405) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/2405/text.pdf) |
 
-USTAWA dnia 8 paêdziernika 2004 zmianie ustawy Kodeks postępowania karnego ustawy Kodeks karny wykonawczy W ustawie dnia 6 czerwca 1997 Kodeks postępowania karnego (Dz. U. 89, 555, póên. zm.
+USTAWA dnia 8 paêdziernika 2004 zmianie ustawy Kodeks postępowania karnego oraz ustawy Kodeks karny wykonawczy W ustawie dnia 6 czerwca 1997 Kodeks postępowania karnego (Dz. U. 89, 555, póên. zm.
 Ń19) przestępstw określonych w rozdziale XVI ustawy dnia 6 czerwca 1997 Kodeks ) wprowadza się następujące zmiany: karny (Dz. U. 88, 553, póên. zm.
-1) wart. 237 w§ 3 wpkt 18 kropkę zastępuje się przecinkiem dodaje się pkt 19 w brzmieniu: ) w art. 5—8 Rzymskiego Statutu Międzynarodowego Trybunału Karnego, sporządzonego w Rzymie dnia 17 lipca 1998 (Dz. U.
+1) wart. 237 w§ 3 wpkt 18 kropkę zastępuje się przecinkiem dodaje się pkt 19 w brzmieniu: ) oraz w art. 5—8 Rzymskiego Statutu Międzynarodowego Trybunału Karnego, sporządzonego w Rzymie dnia 17 lipca 1998 (Dz. U.
 2) w art. 602 § 1 otrzymuje brzmienie: Ń§ Z zastrzeżeniem przepisów rozdziałów 65b 66a, ekstradycja jest wydaniem osoby ściganej albo skazanego, wniosek państwa obcego, w celach określonych w § 2.”;
 3) po rozdziale 66 dodaje się rozdział 66a w brzmieniu: ŃRozdział 66a Współpraca Międzynarodowym Trybunałem Karnym 611g. § Wniosek współpracę Międzynarodowego Trybunału Karnego, zwanego dalej ŃTrybunałem”, wzależności od stadium postępowania, wykonuje właściwy sąd lub prokurator za pośrednictwem Ministra Sprawiedliwości.
 § 2. Przepis § 1 stosuje się odpowiednio do wniosku opomoc prawną kierowanego do Trybunału przez sąd lub prokuratora.
-611h. § W wypadku wniosku Trybunału dostarczenie osoby Trybunałowi, w rozumieniu przepisów Statutu, zwanego dalej Ńwnioskiem przekazanie osoby”, przed pierwszym przesłuchaniem należy pouczyć osobę, której dotyczy wniosek, ojej uprawnieniach określonych w Statucie możliwości podniesienia zarzutu prawomocnego zakończenia prowadzonego przeciwko niej postępowania karnego czyn, którego dotyczy wniosek przekazanie osoby.
+611h. § W wypadku wniosku Trybunału dostarczenie osoby Trybunałowi, w rozumieniu przepisów Statutu, zwanego dalej Ńwnioskiem przekazanie osoby”, przed pierwszym przesłuchaniem należy pouczyć osobę, której dotyczy wniosek, ojej uprawnieniach określonych w Statucie oraz możliwości podniesienia zarzutu prawomocnego zakończenia prowadzonego przeciwko niej postępowania karnego czyn, którego dotyczy wniosek przekazanie osoby.
 § 2. Wwypadku wystąpienia przesłanek uzasadniających zarzut, którym mowa w § 1, sąd powiadamia tym Ministra Sprawiedliwości, który może odroczyć wykonanie wniosku przekazanie osoby.
 § 3. Przy orzekaniu w przedmiocie dopuszczalności przekazania osoby przepisów art. 604 nie stosuje się.
 § 4. Jeżeli po wydaniu przez sąd postanowienia odopuszczalności przekazania osoby Trybunałowi Minister Sprawiedliwości odroczył wykonanie wniosku przekazanie osoby § 5. Ustaleń Trybunałem, których mowa w § 4, dokonuje Minister Sprawiedliwości.
@@ -45,19 +45,19 @@ USTAWA dnia 8 paêdziernika 2004 zmianie ustawy Kodeks postępowania karnego ust
 611o. § Jeżeli wniosek Trybunału dotyczy udostępnienia dokumentu lub innego dowodu zawierającego informacje, których ujawnienie mogłoby zagrażać bezpieczeństwu Rzeczypospolitej Polskiej, sąd lub prokurator nie rozstrzyga wprzedmiocie wniosku przekazuje akta sprawy Ministrowi Sprawiedliwości, który wporozumieniu właściwym organem dokonuje ustaleń Trybunałem.
 § 2. Jeżeli mimo dokonania ustaleń Trybunałem w dalszym ciągu udzielenie pomocy prawnej mogłoby zagrażać bezpieczeństwu Rzeczypospolitej Polskiej, sąd lub prokurator odmawia jej udzielenia.
 611p. Jeżeli wniosek Trybunału dotyczy wydania dokumentu lub innego dowodu, udostępnionego organowi lub instytucji Rzeczypospolitej Polskiej przez inne państwo lub organizację międzynarodową zzastrzeżeniem zachowania wtajemnicy informacji zawartej w tym dokumencie lub dowodzie, wydanie może nastąpić wyłącznie po wyrażeniu zgody przez udostępniającego dany dokument lub dowód.
-611r. § Przy wykonywaniu wniosku współpracę, żądanie Trybunału, Prokuratorowi Trybunału innym osobom upoważnionym przez Trybunał zapewnia się obecność przy wykonywaniu czynności, których dotyczy wniosek.
-§ 2. Osoby, których mowa w § 1, mogą zwracać się zadawanie określonych pytań utrwalać przebieg czynności potrzeby postępowania prowadzonego przed Trybunałem.
+611r. § Przy wykonywaniu wniosku współpracę, żądanie Trybunału, Prokuratorowi Trybunału oraz innym osobom upoważnionym przez Trybunał zapewnia się obecność przy wykonywaniu czynności, których dotyczy wniosek.
+§ 2. Osoby, których mowa w § 1, mogą zwracać się zadawanie określonych pytań oraz utrwalać przebieg czynności potrzeby postępowania prowadzonego przed Trybunałem.
 § 3. Prokuratorowi Trybunału umożliwia się samodzielne dokonywanie czynności procesowych terytorium Rzeczypospolitej Polskiej zasadach w warunkach określonych w Statucie.
 611s. Ustaleń Trybunałem, których mowa pospolita Polska jest stroną, albo powołanymi przez organizacje międzynarodowe ukonstytuowane umową ratyfikowaną przez Rzeczpospolitą Polską stosuje się odpowiednio przepisy niniejszego działu.
 § 2. Przepisów niniejszego działu nie stosuje się, jeżeli umowa międzynarodowa, której Rzeczpospolita Polska jest stroną, albo akt prawny regulujący działanie międzynarodowego trybunału karnego stanowi inaczej.
 § 3. Przepisów niniejszego działu możnie stosować wobec państwa obcego, którym Rzeczpospolita Polska nie ma w tym przedmiocie umowy, a państwo to nie zapewnia wzajemności.
 § 4. Jeżeli umowa międzynarodowa albo akt prawny regulujący działanie międzynarodowego trybunału karnego tego wymaga, Minister Sprawiedliwości zawiadamia międzynarodowy trybunał karny wszczęciu postępowania przeciwko osobie popełnienie przestępstwa podlegającego ściganiu przez ten trybunał.
 § 5. Jeżeli co do tego samego czynu tej samej osoby wszczęto postępowanie karne w Rzeczypospolitej Polskiej iprzed międzynarodowym trybunałem karnym, Minister Sprawiedliwości przekazuje ściganie temu trybunałowi, jeżeli wymagają tego akty prawne regulujące działanie trybunału.”.
-2. W ustawie dnia 6 czerwca 1997 Kodeks karny wykonawczy (Dz. U. 90, 557, póên. zm. ) w art. 253 § 2 otrzymuje brzmienie: Ń§ 2. Przepis § 1 stosuje się odpowiednio w razie przeszkody uniemożliwiającej doprowadzenie lub przyjęcie tymczasowo aresztowanego albo skazanego do aresztu śledczego lub zakładu karnego w razie nieprzewidzianego lądowania podczas przewozu drogą powietrzną lub nieprzewidzianej przerwy w przewozie inną drogą osoby przekazywanej zasadach w warunkach określonych w Rzymskim Statu——————— 2406
-USTAWA dnia 8 paêdziernika 2004 zmianie ustawy dodatkach mieszkaniowych W ustawie dnia 21 czerwca 2001 dodatkach mieszkaniowych (Dz. U. 71, 734, 216, 1826 2003 203,
+2. W ustawie dnia 6 czerwca 1997 Kodeks karny wykonawczy (Dz. U. 90, 557, póên. zm. ) w art. 253 § 2 otrzymuje brzmienie: Ń§ 2. Przepis § 1 stosuje się odpowiednio w razie przeszkody uniemożliwiającej doprowadzenie lub przyjęcie tymczasowo aresztowanego albo skazanego do aresztu śledczego lub zakładu karnego oraz w razie nieprzewidzianego lądowania podczas przewozu drogą powietrzną lub nieprzewidzianej przerwy w przewozie inną drogą osoby przekazywanej zasadach w warunkach określonych w Rzymskim Statu——————— 2406
+USTAWA dnia 8 paêdziernika 2004 zmianie ustawy dodatkach mieszkaniowych W ustawie dnia 21 czerwca 2001 dodatkach mieszkaniowych (Dz. U. 71, 734, 216, 1826 oraz 2003 203,
 1966) wprowadza się następujące zmiany:
 1) art. 2 otrzymuje brzmienie: ŃArt. 2. Dodatek mieszkaniowy, zzastrzeżeniem art. 7 ust. 3 4, przysługuje:
-1) najemcom podnajemcom lokali mieszkalnych,
+1) najemcom oraz podnajemcom lokali mieszkalnych,
 2) osobom mieszkającym w lokalach mieszkalnych, do których przysługuje im spółdzielcze prawo do lokalu mieszkalnego,
 3) osobom mieszkającym w lokalach mieszkalnych znajdujących się w budynkach stanowiących ich własność właścicielom samodzielnych lokali mieszkalnych,
 4) innym osobom mającym tytuł prawny do zajmowanego lokalu mieszkalnego iponoszącym wydatki związane jego zajmowaniem,

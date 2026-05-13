@@ -37,9 +37,9 @@ b) dodaje 4 brzmieniu: lanych wydanych postanowieniach, decyzjach opiniach, prze
 2) s posób termin przekazywania tych informacji mając uwadze potrzebę monitorowania systemu kontroli budowlanych wprowadzonych do obrotu.”;
 4) po 14 dodaje 14a brzmieniu: „Art. 14a. Organy administracji publicznej zakresie swojej właściwości są obowiązane do współdziałania organami nadzoru budowlanego sprawach kontroli budowlanych.”;
 5) 15:
-a) 2 3 otrzymują brzmienie: „2. Główny Inspektor Nadzoru Budowlanego dokonuje wpisów do Wykazu przypadku wydania decyzji ostatecznych, których mowa 1 pkt 2 3 2 1 pkt 2 2.
+a) 2 3 otrzymują brzmienie: „2. Główny Inspektor Nadzoru Budowlanego dokonuje wpisów do Wykazu wydania decyzji ostatecznych, których mowa 1 pkt 2 3 2 1 pkt 2 2.
 3. Główny Inspektor Nadzoru Budowlanego, wniosek wojewódzkiego inspektora nadzoru budowlanego lub urzędu:
-1) usuwa wpis Wykazie, przypadku gdy producent, importer lub sprzedawca udowodni, wycofał obrotu wszystkie egzemplarze zakwestionowanego budowlanego, lub przypadku gdy niezgodności zakwestionowanego budowlanego wymaganiami określonymi niniejszej ustawie zostały usunięte, nie wcześniej jednak niż 6 miesięcy dnia, którym decyzje, podstawie których dokonano wpisu, stały ostateczne;
+1) usuwa wpis Wykazie, gdy producent, importer lub sprzedawca udowodni, wycofał obrotu wszystkie egzemplarze zakwestionowanego budowlanego, lub gdy niezgodności zakwestionowanego budowlanego wymaganiami określonymi niniejszej ustawie zostały usunięte, nie wcześniej jednak niż 6 miesięcy dnia, którym decyzje, podstawie których dokonano wpisu, stały ostateczne;
 2) może usunąć wpis Wykazie, przypadku gdy producent, importer lub sprzedawca zaprzestał prowadzenia działalności gospodarczej, nie wcześniej jednak niż po upływie 24 dokonania wpisu.”,
 b) 7 pkt 3 otrzymuje brzmienie: „3) niezbędne informacje decyzjach, których mowa 1 pkt 2 3 2 1 pkt 2 2.”;
 dują wyroby budowlane dokumenty objęte zakresem kontroli.”,
@@ -52,11 +52,11 @@ b) 3 otrzymuje brzmienie: „3. Kontrola dotyczy wyłącznie lanego, prawidłowo
 2) nazwy adresu zakładu, którym wyrób jest wytwarzany, a przypadku importowanych nazwę adres producenta;
 3) ykazu uwzględnionych specyfikacji technicznych, których mowa 5 1 pkt 1 lub 2, uwzględnionych Polskich Norm wyrobu albo aprobat technicznych;
 4) ogólnego opisu budowlanego, schematów instrukcji stosowania tego wyrobu.
-2. W przypadku uzasadnionych wątpliwości co do zgodności żądać kontrolowanego sprzedawcy:
+2. W uzasadnionych wątpliwości co do zgodności żądać kontrolowanego sprzedawcy:
 1) wskazania nazwy adresu producenta, importera lub sprzedawcy, którego nabył wyrób budowlany;
 2) przedstawienia ogólnego opisu wyrobu budowlanego, schematów instrukcji stosowania tego wyrobu;
 3) przedstawienia, wyznaczonym terminie, deklaracji zgodności, jeżeli producent lub importer ma siedzibę poza terytorium Rzeczypospolitej Polskiej.
-4. W przypadku gdy kontrolowany wyrób budowlany może stwarzać zagrożenie dla życia, zdrowia, mienia lub środowiska, kontrolujący może żądać kontrolowanego producenta, importera lub sprzedawcy, jeżeli producent lub importer ma siedzibę poza terytorium Rzeczypospolitej Polskiej, przedstawienia, wyznaczonym terminie, dokumentacji technicznej wyrobu.
+4. W gdy kontrolowany wyrób budowlany może stwarzać zagrożenie dla życia, zdrowia, mienia lub środowiska, kontrolujący może żądać kontrolowanego producenta, importera lub sprzedawcy, jeżeli producent lub importer ma siedzibę poza terytorium Rzeczypospolitej Polskiej, przedstawienia, wyznaczonym terminie, dokumentacji technicznej wyrobu.
 5. W trakcie kontroli kontrolujący może ponadto:
 1) badać dokumenty zakresie objętym kontrolą żądać kontrolowanego sporządzenia ich kopii tłumaczeń język polski, jeżeli jest to niezbędne do przeprowadzenia kontroli;
 2) dokonywać oględzin budowlanych zakresie objętym kontrolą;
@@ -77,21 +77,21 @@ nicą producenta, importera lub sprzedawcy, rozumiane jako nieujawnione do wiado
 12) 26 3 otrzymuje brzmienie: „3. Jeżeli przeprowadzone badania wykazały, wyrób budowlany nie spełnia wymagań określonych niniejszą ustawą, kontrolowany jest obowiązany do uiszczenia opłaty stanowiącej równowartość kosztów przeprowadzonych badań. Do kosztów tych zalicza koszty badań przeprowadzonych przez laboratoria, których mowa 1, koszty transportu przechowywania próbki.”;
 13) uchyla oznaczenie tytuł rozdziału 5;
 14) uchyla 28 29;
-15) otrzymują brzmienie: „Art. 30. 1. Właściwy organ, wyniku kontroli u sprzedawcy, przypadku stwierdzenia, wyrób budowlany nie spełnia wymagań określonych niniejszej ustawie, wydaje:
+15) otrzymują brzmienie: „Art. 30. 1. Właściwy organ, wyniku kontroli u sprzedawcy, stwierdzenia, wyrób budowlany nie spełnia wymagań określonych niniejszej ustawie, wydaje:
 1) postanowienie zakazujące dalszego przekazywania określonej partii wyrobu budowlanego przez sprzedawcę, wyznaczając termin usunięcia określonych nieprawidłowości, albo
 2) decyzję zakazującą dalszego przekazywania budowlanego albo jego określonej partii przez sprzedawcę decyzję nakazującą wycofanie obrotu tego lub jego określonej partii przez producenta lub importera, albo
 3) decyzję nakazującą wycofanie obrotu budowlanego albo jego określonej partii przez sprzedawcę, jeżeli producent lub importer ma siedzibę poza terytorium Rzeczypospolitej Polskiej.
-2. W przypadku nieusunięcia nieprawidłowości określonych postanowieniu, którym mowa 1 pkt 1, właściwy organ zakazuje, drodze decyzji, obrotu określoną partią budowlanego.
+2. W nieusunięcia nieprawidłowości określonych postanowieniu, którym mowa 1 pkt 1, właściwy organ zakazuje, drodze decyzji, obrotu określoną partią budowlanego.
 3. Decyzje, których mowa 1 2, podlegają natychmiastowemu wykojego określonej partii. naniu.
 5. Zabezpieczenia budowlanego 4. Decyzje, których mowa 1 pkt 2 albo jego określonej partii dokonuje 2, przekazuje niezwłocznie orprzez opieczętowanie sporzą- ganowi właściwemu ze względu
 1) postanowienie nakazujące wstrzymanie wprowadzania do obrotu wyrobu budowlanego albo jego określonej partii, wyznaczając termin usunięcia określonych nieprawidłowości, albo
 2) decyzję nakazującą wycofanie obrotu budowlanego albo jego określonej partii, albo
 3) decyzję nakazującą ograniczenie udostępniania budowlanego albo jego określonej partii użytkownikowi, konsumentowi sprzedawcy.
-2. W przypadku nieusunięcia nieprawidłowości określonych postanowieniu, którym mowa 1 pkt 1, właściwy organ nakazuje, drodze decyzji, wycofanie obrotu wyrobu budowlanego albo jego określonej partii.
+2. W nieusunięcia nieprawidłowości określonych postanowieniu, którym mowa 1 pkt 1, właściwy organ nakazuje, drodze decyzji, wycofanie obrotu wyrobu budowlanego albo jego określonej partii.
 3. Decyzje, których mowa 1 2, podlegają natychmiastowemu wykonaniu.”;
 16) po dodaje 31a brzmieniu: „Art. 31a. 1. W decyzji nakazującej wycofanie obrotu budowlanego albo jego określonej partii, której mowa 31, właściwy organ monakazać odpowiednio producentowi, importerowi lub sprzedawcy odkupienie żądanie osób, które faktycznie nim władają.
 2. W decyzjach, których mowa 1, właściwy organ może nakazać powiadomienie przez stronę postępowania konsumentów lub użytkowników wyrobu budowlanego stwierdzonych niezgodnościach wymaganiami określonymi niniejszą ustawą, określając termin sposób ich powiadomienia.
-3. W przypadku wydania decyzji stwierdzającej, wyrób budowlany nie spełnia wymagań określonych niniejszą ustawą, właściwy organ może nakazać, drodze decyzji, zniszczenie budowlanego koszt producenta, importera lub sprzedawcy, jeżeli producent lub importer mają siedzibę poza terytorium Rzeczylany nienadający do stosowania przy wykonywaniu robót budowlanych,
+3. W wydania decyzji stwierdzającej, wyrób budowlany nie spełnia wymagań określonych niniejszą ustawą, właściwy organ może nakazać, drodze decyzji, zniszczenie budowlanego koszt producenta, importera lub sprzedawcy, jeżeli producent lub importer mają siedzibę poza terytorium Rzeczylany nienadający do stosowania przy wykonywaniu robót budowlanych,
 2) u mieszcza oznakowanie CE albo znak budowlany wyrobie budowlanym, który nie spełnia wymagań określonych niniejszej ustawie,
 3) u mieszcza wyrobie budowlanym znak podobny do oznakowania CE albo znaku budowlanego, mogący wprowadzić błąd użytkownika, konsumenta lub sprzedawcę tego wyrobu,
 4) u mieszcza znak budowlany wyrobie, niebędącym wyrobem budowlanym podlega grzywnie.”;

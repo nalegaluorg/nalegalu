@@ -21,7 +21,7 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2011-01-05 |
 | Data wydania | 2011-01-31 |
-| Ostatnia zmiana | 2026-04-09 |
+| Ostatnia zmiana | 2026-04-29 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110210112) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/112/text.pdf) |
 
 7. Skład komisji podaje się niezwłocznie do publicznej wiadomości sposób zwyczajowo przyjęty. Art. 174. 1. W skład rejonowej komisji wyborczej wchodzi 5 sędziów, tym z urzędu, jako jej przewod8. Techniczno-materialne warunki pracy okręgo- niczący, komisarz wyborczy. W skład komisji może i art. 171, z tym że komisja wybiera jednego zastępcę przewodniczącego.

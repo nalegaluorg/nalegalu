@@ -10,9 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# Ustawa z dnia 5 listopada 2025 r. o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym oraz niektórych innych ustaw
-
-*USTAWA z 5 listopada 2025 zmianie ustawy planowaniu zagospodarowaniu przestrzennym oraz niektórych innych ustaw*
+# Poz.
 
 | Pole | Wartość |
 |---|---|
@@ -25,6 +23,8 @@ domain: null
 | Data wydania | 2025-12-01 |
 | Ostatnia zmiana | 2025-12-09 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001668) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1668/text.pdf) |
+
+USTAWA z 5 listopada 2025 zmianie ustawy planowaniu zagospodarowaniu przestrzennym oraz niektórych innych ustaw
 
 **Art. 1.** W ustawie z 27 marca 2003 planowaniu zagospodarowaniu przestrzennym (Dz. U. z 2024 poz. 1130, 1907 1940 oraz z 2025 poz. 527 680) wprowadza się następujące zmiany:
 

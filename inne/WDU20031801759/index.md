@@ -36,7 +36,7 @@ domain: null
 
 **Art. 7.** Przepisów ustawy nie stosuje się umów 2. Udzielenie gwarancji zapłaty nie stoi na prze- zawartych przed dniem wejścia życie ustawy. szkodzie żądaniu dalszych gwarancji łącznej wysokości określonej ust. 1. Art. 8. Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia. 3. Zamawiający może żądać zwrotu kosztów udzielonych gwarancji zapłaty części, jakiej dokonał Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski USTAWA dnia 11 września 2003 o zmianie ustawy o gospodarowaniu niektórymi składnikami mienia Skarbu Państwa o Agencji Mienia Wojskowego o zmianie niektórych innych ustaw
 
-**Art. 1.** W ustawie dnia 30 maja 1996 o gospo- Państwa o Agencji Mienia Wojskowego (Dz. U. darowaniu niektórymi składnikami mienia Skarbu Nr90, 405, zpóên. zm. ) wprowadza się następuniem będącym we władaniu tych jednostek, niewykorzystywanym realizacji ich zadań,
+**Art. 1.** W ustawie dnia 30 maja 1996 o gospo- Państwa o Agencji Mienia Wojskowego (Dz. darowaniu niektórymi składnikami mienia Skarbu Nr90, 405, zpóên. zm. ) wprowadza się następuniem będącym we władaniu tych jednostek, niewykorzystywanym realizacji ich zadań,
 
 **Art. 31a.**
 
@@ -50,9 +50,9 @@ domain: null
 
 3. Ârodek specjalny, o którym mowa ust. 1, przeznaczony jest na realizację zadań inwestycyjnych na modernizację uzbrojenia wyposażenia organów jednostek podległych ministrowi właściwemu spraw wewnętrznych przez niego nadzorowanych.”.
 
-**Art. 2.** W ustawie dnia 15 lutego 1992 o podatku dochodowym od osób prawnych (Dz. U. 2000 54, 654, póên. zm. ) 17 ust. 1 pkt4ł otrzymuje brzmienie: Ń4ł) dochody Agencji Mienia Wojskowego, części przeznaczonej na inwestycje:
+**Art. 2.** W ustawie dnia 15 lutego 1992 o podatku dochodowym od osób prawnych (Dz. 2000 54, 654, póên. zm. ) 17 ust. 1 pkt4ł otrzymuje brzmienie: Ń4ł) dochody Agencji Mienia Wojskowego, części przeznaczonej na inwestycje:
 
-**Art. 3.** Wustawie zdnia 3 marca 2000 owynagradzaniu osób kierujących niektórymi podmiotami prawnymi (Dz. U. 26, 306, póên. zm.
+**Art. 3.** Wustawie zdnia 3 marca 2000 owynagradzaniu osób kierujących niektórymi podmiotami prawnymi (Dz. 26, 306, póên. zm.
 
-**Art. 4.** W ustawie dnia 25 maja 2001 o przebudowie modernizacji technicznej finansowaniu Sił Zbrojnych Rzeczypospolitej Polskiej latach 2001—2006 (Dz. U. 76, 804, 85, 925 1802 2002 205, 1731) wprowadza się następujące zmiany:
+**Art. 4.** W ustawie dnia 25 maja 2001 o przebudowie modernizacji technicznej finansowaniu Sił Zbrojnych Rzeczypospolitej Polskiej latach 2001—2006 (Dz. 76, 804, 85, 925 1802 2002 205, 1731) wprowadza się następujące zmiany:
 

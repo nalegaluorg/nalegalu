@@ -21,7 +21,7 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2004-08-27 |
 | Data wydania | 2004-09-27 |
-| Ostatnia zmiana | 2026-04-21 |
+| Ostatnia zmiana | 2026-04-29 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20042102135) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/2135/text.pdf) |
 
 DZIAĘ I 1) warunki udzielania izakres świadczeń opieki zdroPrzepisy ogólne wotnej finansowanych ze środków publicznych;

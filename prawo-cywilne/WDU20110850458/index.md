@@ -31,7 +31,7 @@ lub ich zstępnych, udział spadkowy rodzica dziedziczącego zbiegu małżonkiem
 5) 939 § 1 otrzymuje brzmienie: „§ 1. Małżonek dziedziczący ustawy zbiegu innymi spadkobiercami, wyjąwszy zstępnych spadkodawcy, którzy mieszkali nim razem chwili jego śmierci, może żądać ze spadku ponad swój udział spadkowy przedmiotów urządzenia domowego, których za życia spadkodawcy korzystał wspólnie nim lub wyłącznie sam. Do roszczeń małżonka tego tytułu stosuje odpowiednio przepisy zapisie zwykłym.”;
 6) 967 § 1 otrzymuje brzmienie: „§ 1. Jeżeli osoba powołana jako spadkobierca testamentowy nie chce lub nie może być spadkobiercą, spadkobierca ustawowy, któremu przypadł przeznaczony dla tej osoby udział spadkowy, obowiązany jest, braku odmiennej woli spadkodawcy, wykonać obciążające tę osobę zapisy zwykłe, polecenia inne rozrządzenia spadkodawcy.”;
 7) księdze czwartej tytule III dziale III przed 968 dodaje oznaczenie brzmieniu: „Rozdział I Zapis zwykły”;
-8) 968 otrzymuje brzmienie: „Art. 968. § 1. Spadkodawca może przez rozrządzenie testamentowe zobowiązać spadkobiercę ustawowego lub teosoba nabywa przedmiot zapisu chwilą otwarcia spadku (zapis windykacyjny).
+8) 968 otrzymuje brzmienie: „Art. 968. § 1. Spadkodawca może przez rozrządzenie testamentowe zobowiązać spadkobiercę ustawowego lub ter osoba nabywa przedmiot zapisu chwilą otwarcia spadku (zapis windykacyjny).
 § 2. Przedmiotem zapisu windykacyjnego może być:
 1) rzecz oznaczona co do tożsamości,
 2) zbywalne prawo majątkowe,
@@ -50,7 +50,7 @@ Art. 981 5 Przepisy powołaniu spadkobiercy, przyjęciu odrzuceniu spadku, zdoln
 
 § 1. Do wzajemnych roszczeń między spadkobiercą a wykonawcą testamentu wynikających ze sprawowania zarządu spadkiem, jego zorganizowaną częścią lub oznaczonym składnikiem stosuje odpowiednio przepisy zleceniu za wynagrodzeniem.
 
-§ 2. Koszty zarządu majątkiem spadkowym, jego zorganizowaną częścią lub oznaczonym składnikiem oraz wynagrodzenie wykonawcy testamentu należą do długów spadkowych.”; „Art. 995. § 1. Wartość przedmiotu darowizny oblicza według stanu chwili jej dokonania, a według cen chwili ustalania zachowku.
+§ 2. Koszty zarządu majątkiem spadkowym, jego zorganizowaną częścią lub oznaczonym składnikiem oraz wynagrodzenie wykonawcy testamentu należą do długów spadkowych.”; r „Art. 995. § 1. Wartość przedmiotu darowizny oblicza według stanu chwili jej dokonania, a według cen chwili ustalania zachowku.
 
 § 2. Wartość przedmiotu zapisu windykacyjnego oblicza według stanu chwili otwarcia spadku, a według cen chwili ustalania zachowku.
 
@@ -66,7 +66,7 @@ Art. 981 5 Przepisy powołaniu spadkobiercy, przyjęciu odrzuceniu spadku, zdoln
 
 § 1. Jeżeli spadkobierca obowiązany do zaspokojenia roszczenia tytułu zachowku sam jest uprawniony do zachowku, może on żądać zmniejszenia zapisów zwykłych poleceń takim stopniu, ażeby pozostał mu jego własny zachowek.
 
-§ 2. Jeżeli zapisobierca sam jest uprawniony do zachowku, zapis zwykły uczyniony na jego rzecz podlega zmniejszeniu tylko do wysokości nadwyżki przekraczającej jego dawcy zapisu windykacyjnego lub darowizny przedawnia upływem lat pięciu od otwarcia spadku.”;
+§ 2. Jeżeli zapisobierca sam jest uprawniony do zachowku, zapis zwykły uczyniony na jego rzecz podlega zmniejszeniu tylko do wysokości nadwyżki przekraczającej jego r dawcy zapisu windykacyjnego lub darowizny przedawnia upływem lat pięciu od otwarcia spadku.”;
 
 - **21)** księdze czwartej tytuł tytułu VI otrzymuje brzmienie: „Stwierdzenie nabycia spadku lub przedmiotu zapisu windykacyjnego, poświadczenie dziedziczenia ochrona spadkobiercy”;
 - **22)** po 1029 dodaje 1029 brzmieniu: „Art. 1029 Przepisy niniejszego tytułu stosuje odpowiednio do stwierdzenia nabycia przedmiotu zapisu windykacyjnego.”;
@@ -83,15 +83,15 @@ Art. 981 5 Przepisy powołaniu spadkobiercy, przyjęciu odrzuceniu spadku, zdoln
 
 **Art. 1041.** Dalszy zstępny spadkodawcy obowiązany jest do zaliczenia na schedę spadkową darowizny oraz zapisu windykacyjnego dokonanych przez spadkodawcę na rzecz jego wstępnego.”;
 
-**Art. 3.** W ustawie dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. 43, 296, późn. zm. ) wprowadza następujące zmiany: wniosek, zaświadczenie, którym wymieni imię, nazwisko, miejsce ostatniego zamieszkania oraz datę miejsce śmierci spadkodawcy, imię, nazwisko miejsce zamieszkania wykonawcy testamentu, jak również zamieści stwierdzenie, że dana osoba została powołana na wykonawcę testamentu. W zaświadczeniu wskazuje też prawa obowiązki wykonawcy testamentu, jeżeli zostały one określone przez spadkodawcę.”;
+**Art. 3.** W ustawie dnia 17 listopada 1964 Kodeks postępowania cywilnego (Dz. U. 43, 296, późn. zm. ) wprowadza następujące zmiany: wniosek, zaświadczenie, którym wymieni imię, nazwisko, miejsce ostatniego zamieszkania oraz datę miejsce śmierci spadkodawcy, imię, nazwisko miejsce zamieszkania wykonawcy testamentu, jak również zamieści stwierdzenie, że dana osoba została powołana na wykonawcę testamentu. W zaświadczeniu wskazuje też prawa obowiązki wykonawcy testamentu, jeżeli zostały one określone przez spadkodawcę.”;
 
-**Art. 4.** W ustawie dnia 17 czerwca 1966 r. postępowaniu egzekucyjnym administracji (Dz. U. 2005 r. 229, 1954, późn. zm. oraz 2011 r. 75, 398) wprowadza następujące zmiany:
+**Art. 4.** W ustawie dnia 17 czerwca 1966 postępowaniu egzekucyjnym administracji (Dz. U. 2005 229, 1954, późn. zm. oraz 2011 75, 398) wprowadza następujące zmiany:
 
-**Art. 6.** W ustawie dnia 14 lutego 1991 r. Prawo notariacie (Dz. U. 2008 r. 189, 1158, 2009 r. 37, 286 166, 1317 oraz 2010 r. 182,
+**Art. 6.** W ustawie dnia 14 lutego 1991 Prawo notariacie (Dz. U. 2008 189, 1158, 2009 37, 286 166, 1317 oraz 2010 182,
 
-**Art. 7.** W ustawie dnia 28 lutego 2003 r. Prawo upadłościowe naprawcze (Dz. U. 2009 r. 175, 1361, późn. zm. ) 123 otrzymuje brzmienie: „Art. 123. Oświadczenie upadłego odrzuceniu spadku lub zapisu windykacyjnego jest bezskuteczne stosunku do masy upadłości, jeżeli zostało złożone po ogłoszeniu upadłości.”.
+**Art. 7.** W ustawie dnia 28 lutego 2003 Prawo upadłościowe naprawcze (Dz. U. 2009 175, 1361, późn. zm. ) 123 otrzymuje brzmienie: „Art. 123. Oświadczenie upadłego odrzuceniu spadku lub zapisu windykacyjnego jest bezskuteczne stosunku do masy upadłości, jeżeli zostało złożone po ogłoszeniu upadłości.”.
 
 **Art. 8.** Do roszczeń, których mowa 1007 ustawy, której mowa 1, powstałych przed dniem wejścia życie niniejszej ustawy tym dniu jeszcze nie przedawnionych, stosuje przepisy tego artykułu brzmieniu nadanym niniejszą ustawą.
 
-**Art. 9.** Ustawa wchodzi życie po upływie 6 mie-
+**Art. 9.** Ustawa wchodzi życie po upływie 6 mier
 

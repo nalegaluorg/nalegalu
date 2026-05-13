@@ -24,11 +24,11 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001960) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1960/text.pdf) |
 
-USTAWA dnia 19 listopada 2015 o zmianie o działach administracji rządowej niektórych innych ustaw
+USTAWA dnia 19 listopada 2015 o zmianie ustawy o działach administracji rządowej niektórych innych ustaw
 
 **Art. 1.** W ustawie dnia września 1997 o działach administracji rządowej (Dz. U. 2015 poz. 812, 1255
 
-**Art. 2.** W ustawie dnia 31 lipca 1981 o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe (Dz. U. 2011 Nr 79, poz. 430 Nr 112, poz. 654 2015 poz. 1348) otrzymuje brzmienie: „Art. 4. 1. Osobie zajmującej kierownicze stanowisko państwowe tytułu stałej dodatkowej pracy charakterze nauczyciela akademickiego szkole wyższej albo pracownika naukowego instytucie naukowym lub naukowo-badawczym przysługuje wynagrodzenie na zasadach określonych przepisach szczególnych. 2. Z zastrzeżeniem 1 osobie zajmującej kierownicze stanowisko państwowe, która pełni również inną funkcję, przysługuje jedno, wybrane przez nią wynagrodzenie przewidziane przepisach niniejszej bądź odrębnych przepisach.”.
+**Art. 2.** W ustawie dnia 31 lipca 1981 o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe (Dz. U. 2011 Nr 79, poz. 430 Nr 112, poz. 654 2015 poz. 1348) otrzymuje brzmienie: „Art. 4. 1. Osobie zajmującej kierownicze stanowisko państwowe tytułu stałej dodatkowej pracy charakterze nauczyciela akademickiego szkole wyższej albo pracownika naukowego instytucie naukowym lub naukowo-badawczym przysługuje wynagrodzenie na zasadach określonych przepisach szczególnych. 2. Z zastrzeżeniem 1 osobie zajmującej kierownicze stanowisko państwowe, która pełni również inną funkcję, przysługuje jedno, wybrane przez nią wynagrodzenie przewidziane przepisach niniejszej ustawy bądź odrębnych przepisach.”.
 
 **Art. 3.** W ustawie dnia 10 kwietnia 1997 Prawo energetyczne (Dz. U. 2012 poz. 1059, późn. zm. ) wprowadza się następujące zmiany:
 
@@ -40,7 +40,7 @@ USTAWA dnia 19 listopada 2015 o zmianie o działach administracji rządowej niek
 
 **Art. 7.**
 
-1. Postępowania administracyjne wszczęte niezakończone przed dniem wejścia życie niniejszej toczą się nadal przed organami, które przejęły kompetencje zgodnie przepisami niniejszej ustawy.
+1. Postępowania administracyjne wszczęte niezakończone przed dniem wejścia życie niniejszej ustawy toczą się nadal przed organami, które przejęły kompetencje zgodnie przepisami niniejszej ustawy.
 
 2. Organy, które przejęły zadania kompetencje na podstawie niniejszej ustawy, przejmują wszystkie prawa obowiązki organów, które utraciły kompetencje.
 

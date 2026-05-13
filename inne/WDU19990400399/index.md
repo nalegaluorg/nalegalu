@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# Poz.:
+# Poz.: 399
 
 | Pole | Wartość |
 |---|---|
@@ -27,13 +27,13 @@ domain: null
 USTAWA 9 kwietnia 1999 zmianie ustawy Bankowym Funduszu Gwarancyjnym niektórych innych ustaw.
 2) art. 2: systemem gwarantowania pomocy do gwaran towanych przypadkach powstania
 3) zasady gromadzenia wykorzystywania informacji podmiotach syste mem gwarantowania.";
-a) pkt 1 2 " 1) deponent nie osobo prawnej, posiada praw podmioty, których mowa wart. 50 2 ustawy 29 sierpnia 1997 Pra wo bankowe (Dz. U. 140, 939, 1998 160, 1063 162, 1118 1999 11, 95), zwanej dalej "Prawem bankowym", umo wy imiennego rachunku bankowego lub banko wych do banku sys temem gwarantowania, wy stawionym przez ten bank dokumentem imiennym,
+a) pkt 1 2 " 1) deponent nie osobo prawnej, ile posiada praw podmioty, których mowa wart. 50 2 ustawy 29 sierpnia 1997 Pra wo bankowe (Dz. U. 140, 939, 1998 160, 1063 162, 1118 1999 11, 95), zwanej dalej "Prawem bankowym", umo wy imiennego rachunku bankowego lub banko wych do sys temem gwarantowania, wy stawionym przez ten bank dokumentem imiennym,
 a) Skarbu
 b) banków,
 c) podmiotów podstawie ustawy 21 sierpnia 1997 Prawo publicznym obrocie papierami warto (Oz. U. 118, 754 141, 945 1998 107, 669 113, 715),
 d) podmiotów podstawie ustawy 28 lipca 1990 ubezpieczeniowej (Dz. U. 1996 11, 62, 1997 43, 272, 88, 554, 107, 685, 121, 769 770 139, 934 1998 155, 1015),
-e) akcjonariuszy banku dniu wniosku pakiet akcji do wykonywania ponad 5% podczas walnego zgromadzenia akcjonariuszy, a osób, które stosunku do nich podmiotami lub rozumieniu art. 4 pkt 16 ustawy, której banku lub warunku gwa rancji,
-2) gwarantowane zgromadzone banku przez deponenta rachunkach imiennych jego innych bankowych, potwierdzone wystawionymi przez bank do kumentami imiennymi, pa pierów innych ce a listów zastawnych, których mowa ustawie 29 sierpnia 1997 listach zastawnych bankach hipotecznych (Dz. U.
+e) akcjonariuszy dniu wniosku pakiet akcji do wykonywania ponad 5% podczas walnego zgromadzenia akcjonariuszy, a osób, które stosunku do nich podmiotami lub rozumieniu art. 4 pkt 16 ustawy, której lub warunku gwa rancji,
+2) gwarantowane zgromadzone przez deponenta rachunkach imiennych jego innych bankowych, potwierdzone wystawionymi przez bank do kumentami imiennymi, pa pierów innych ce a listów zastawnych, których mowa ustawie 29 sierpnia 1997 listach zastawnych bankach hipotecznych (Dz. U.
 140, 940 1998 107, 669), walucie polskiej lub walutach obcych, we stanu zawieszenia banku, odsetki nali czone do warunku gwarancji do
 b) pkt 3 lit. a) wyrazy " Rzeczy pospolitej Polskiej podstawie ustawy 31 stycznia 1989 Prawo ban kowe" wyrazami "w rozumieniu Prawa bankowego", a nawiasie wyrazach "poz. 369" stawia przecinek dodaje wy razy "z 1995 142, 704, 1996 106, 496 1997 121, 770 140, 939",
 c) pkt 5 ,,5) suma aktywów ryzykiem aktywów pozabilanso wych, którym Komisja Nadzoru Bankowego nadaje procentowo ryzyka,"
@@ -55,9 +55,9 @@ b) dodaje 5 6 brzmieniu: ,,5. Przepisu 4 nie stosuje do organów Funduszu, któr
 6. Minister do spraw instytucji finan sowych, opinii Komisji Nad zoru Bankowego, drodze dzenia, szczególne zasady Funduszu.";
 9) wart. 19:
 a) 2 wyrazy "stanu bank pomoc pozytywnej opinii Komisji Nadzoru Bankowego pro gramie naprawczego.";
-11) wart. 20a 1 2 ,,1. Komisja Nadzoru Bankowego informuje nie Funduszu ko przez banku powania naprawczego, którym mowa wart.
+11) wart. 20a 1 2 ,,1. Komisja Nadzoru Bankowego informuje nie Funduszu ko przez powania naprawczego, którym mowa wart.
 142 ustawy Prawo bankowe.
-2. Fundusz swój wniosek skierowany do Komi sji Nadzoru Bankowego jest ustanawiany kura torem, którym mowa wart. 144 ustawy Prawo bankowe, stosunku do banku go systemem gwarantowania, te mu bankowi pomocy, której mowa wart. 4 2 pkt 1 1a . Funduszowi nie wynagrodzenie, którym mowa wart. 144 8 ustawy Prawo bankowe.";
+2. Fundusz swój wniosek skierowany do Komi sji Nadzoru Bankowego jest ustanawiany kura torem, którym mowa wart. 144 ustawy Prawo bankowe, stosunku do go systemem gwarantowania, ile te mu bankowi pomocy, której mowa wart. 4 2 pkt 1 1a . Funduszowi nie wynagrodzenie, którym mowa wart. 144 8 ustawy Prawo bankowe.";
 12) wart. 23 dodaje 2b brzmieniu: ,,2b. Górna granica gwarantowanych 2 pkt 2 ulega
 1) do 8.000 EURO od 1 stycznia 1999 r.,
 2) do 11.000 EURO od 1 stycznia 2000 r.,
@@ -71,7 +71,7 @@ b) 3 wyrazach "ustalana jest" dodaje wyrazy "z 4", 140, 940 1998 117, 756";
 16) wart. 35 1 dodaje la brzmieniu: "la. W przypadku nabycia ban kowego trybie art. 165 3 ustawy Pra wo bankowe, nie zo Fun duszu, których mowa 1.";
 17) art. 38 3 wyrazy "ustawy 31 stycz nia 1989 Prawo bankowe" wyra zami "ustawy Prawo bankowe".
 
-**Art. 2.** W ustawie 16 1982 Prawo (Dz. U. 1995 54, 288 133, 654, 1996 5, 32, 24, 110 43, 189 1997 32, 183, 111, 723 121, 769 770) wart. 90 3 brzmie nie: 3. Strata bilansowa banku krywana jest zasad terminach programie prawczego, którym mowa wart. 142 ustawy 29 sierpnia 1997 Prawo bankowe (Dz.U. 140, 939, 1998 160, 1063 162, 1118 1999 11, 95)."
+**Art. 2.** W ustawie 16 1982 Prawo (Dz. U. 1995 54, 288 133, 654, 1996 5, 32, 24, 110 43, 189 1997 32, 183, 111, 723 121, 769 770) wart. 90 3 brzmie nie: 3. Strata bilansowa krywana jest zasad terminach programie prawczego, którym mowa wart. 142 ustawy 29 sierpnia 1997 Prawo bankowe (Dz.U. 140, 939, 1998 160, 1063 162, 1118 1999 11, 95)."
 
 **Art. 3.** W ustawie 29 sierpnia 1997 Pra wo bankowe (Dz.U. 140, 939 1998 160, 1063 162, 1118 1999 11,
 

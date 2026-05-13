@@ -21,7 +21,7 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2016-04-14 |
 | Data wydania | 2016-04-27 |
-| Ostatnia zmiana | 2026-03-20 |
+| Ostatnia zmiana | 2026-05-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000585) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/585/text.pdf) |
 
 USTAWA z dnia 14 kwietnia 2016 r.

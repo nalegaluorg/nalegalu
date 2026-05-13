@@ -69,11 +69,11 @@ USTAWA 9 listopada zmianie ustawy szczególnych rozwi ą zaniach słu żą cych 
 
 1. W roku tworzy się rezerwę celową przeznaczeniem na realizację ustawy 11 lutego 2016 pomocy państwa wychowywaniu dzieci 1851), na realizację dodatku wychowawczego dodatku zryczałtowanej kwoty, których ustawie 9 czerwca 2011 wspieraniu rodziny systemie pieczy zastępczej 697 1292), oraz na realizację ustawy 5 grudnia 2014 Karcie Dużej Rodziny.
 
-2. Podziału rezerwy celowej, 1, dokonuje minister właściwy spraw finansów publicznych na wniosek wła ś ciwego spraw transportu lub wła ś ciwego spraw rodziny oraz wła ś ciwych
+2. Podziału rezerwy celowej, 1, dokonuje minister właściwy spraw finansów publicznych na wniosek wła ciwego spraw transportu lub wła ciwego spraw rodziny oraz wła ciwych
 
 **Art. 16e.** W roku kwot zaplanowanych części 85 Budżety wojewodów dziale 855 Rodzina rozdziale 85501 Świadczenie wychowawcze nie stosuje się przepisów art. 170 ustawy 27 sierpnia 2009 finansach publicznych.
 
 **Art. 16f.** W przypadku utworzenia roku rezerwy celowej kwoty zablokowanych na podstawie art. 177 1 pkt 2 3 ustawy 27 sierpnia 2009 finansach publicznych przeznaczeniem na dotacje celowe podmiotowe dla Krajowego Zasobu Nieruchomości:
 
-**Art. 23b.** W ustawie 20 lipca Krajowym Zasobie Nieruchomości 1529) art. 133 2 otrzymuje brzmienie: „2. Środki na pokrycie wyposażenia KZN środki trwałe, wartości niematerialne prawne oraz inne składniki aktywów niezb ę dne rozpocz ę cia przez niego działalno ś ci, a tak e na pokrycie kosztów realizacji zada , organiza-
+**Art. 23b.** W ustawie 20 lipca Krajowym Zasobie Nieruchomości 1529) art. 133 2 otrzymuje brzmienie: „2. Środki na pokrycie wyposażenia KZN środki trwałe, wartości niematerialne prawne oraz inne składniki aktywów niezb ę dne rozpocz ę cia przez niego działalno ci, a tak e na pokrycie kosztów realizacji zada , organiza-
 

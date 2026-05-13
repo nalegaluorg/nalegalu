@@ -21,7 +21,7 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2025-04-10 |
 | Data wydania | 2025-05-07 |
-| Ostatnia zmiana | 2025-05-08 |
+| Ostatnia zmiana | 2026-05-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000602) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/602/text.pdf) |
 
 OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 10 kwietnia 2025 r.

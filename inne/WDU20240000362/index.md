@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# Poz.
+# 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy 20 lipca 2000 ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych U. 2019 poz. 1461) ogłasza załączniku do niniejszego obwieszczenia jednolity tekst ustawy 7 kwietnia 2017 czasie pracy na statkach żeglugi śródlądowej U. poz. 993), uwzględnieniem zmiany wprowadzonej ustawą 7 lipca 2023 zmianie ustawy żegludze śródlądowej ustawy czasie pracy na statkach żeglugi śródlądowej U. poz. 1588) zmian wynikających przepisów ogłoszonych przed dniem 7 marca 2024 Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 12 ustawy 7 lipca 2023 zmianie ustawy żegludze śródlądowej ustawy czasie pracy na statkach żeglugi śródlądowej U.
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ 11 marca 2024 sprawie ogłoszenia jednolitego tekstu ustawy czasie pracy na statkach żeglugi śródlądowej*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000362) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/362/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ 11 marca 2024 sprawie ogłoszenia jednolitego tekstu ustawy czasie pracy na statkach żeglugi śródlądowej
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy 20 lipca 2000 ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych U. 2019 poz. 1461) ogłasza załączniku do niniejszego obwieszczenia jednolity tekst ustawy 7 kwietnia 2017 czasie pracy na statkach żeglugi śródlądowej U. poz. 993), uwzględnieniem zmiany wprowadzonej ustawą 7 lipca 2023 zmianie ustawy żegludze śródlądowej ustawy czasie pracy na statkach żeglugi śródlądowej U. poz. 1588) zmian wynikających przepisów ogłoszonych przed dniem 7 marca 2024 Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 12 ustawy 7 lipca 2023 zmianie ustawy żegludze śródlądowej ustawy czasie pracy na statkach żeglugi śródlądowej U.
 poz. 1588), który stanowi: „Art. 12. Ustawa wchodzi życie po upływie 14 dni od ogłoszenia.”.
 Marszałek Sejmu: S. Hołownia umowy pracę jako członkowie załogi lub personel pokładowy, zwanych dalej „pracownikami”.
 Art. Ilekroć ustawie jest o: członku załogi należy przez to rozumieć członka załogi, ustawie 21 grudnia 2000 żegludze śródlądowej U. 2022 poz. 1097 i 2642 2023 poz. 1588 i 2029);

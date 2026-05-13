@@ -30,7 +30,7 @@ Przepisy ogólne kolonia jednostkę osadniczą powstałą jako rezulUstawa okre�
 1) zasady i tryb ustalania, dokonywania zmian i zno- miasta, kolonię wsi;
 szenia urzędowych nazw miejscowości iich części urzędowych nazw obiektów fizjograficznych; 3) miasto jednostkę osadniczą oprzewadze zwartej zabudowy i funkcjach nierolniczych posiadającą zasady działania Komisji Nazw Miejscowości prawa miejskie bądê status miasta nadany wtrybie iObiektów Fizjograficznych; określonym odrębnymi przepisami;
 3) sposób ustalania i ogłaszania wykazów urzędo- 4) miejscowość jednostkę osadniczą inny obwych nazw miejscowości iich części obiektów fizjograficznych.
-2. Przepisów stosuje się ustalania, dokonywania zmian i znoszenia urzędowych nazw wzakresie uregulowanym przepisami oochronie przyrody, a także przypadkach, gdy urzędową nazwę określa odrębna ustawa.
+2. Przepisów ustawy stosuje się ustalania, dokonywania zmian i znoszenia urzędowych nazw wzakresie uregulowanym przepisami oochronie przyrody, a także przypadkach, gdy urzędową nazwę określa odrębna ustawa.
 2.Użyte wustawie określenia oznaczają:
 1) jednostka osadnicza wyodrębniony przestrzenobszar zabudowy mieszkaniowej wraz zobiekszar zabudowany odróżniające się innych miejscowości odrębną nazwą, a przy jednakowej nazwie odmiennym określeniem ich rodzaju;
 5) miejscowość niezamieszkana miejscowość, wktórej przebywa stale jest zameldowana na pobyt stały co najmniej jedna osoba;
@@ -45,7 +45,7 @@ Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski
 1) miejscowości zamieszkanych iich części;
 miejscowości niezamieszkanych iich części;
 3) obiektów fizjograficznych.
-2. Przy ustalaniu urzędowych nazw, o których mowa ust. 1, określa się również rodzaj danej miejscowości obiektu fizjograficznego. Do określenia izmiany rodzaju miejscowości obiektu fizjograficznego stosuje się odpowiednio przepisy dotyczące ustalania izmian ich nazw.
+2. Przy ustalaniu urzędowych nazw, o których mowa ust. 1, określa się również rodzaj danej miejscowości obiektu fizjograficznego. Do określenia izmiany rodzaju miejscowości obiektu fizjograficznego stosuje się odpowiednio przepisy ustawy dotyczące ustalania izmian ich nazw.
 4. Tworzy się Komisję Nazw Miejscowości iObiektów Fizjograficznych, zwaną dalej ŃKomisją”, jako organ opiniodawczo-doradczy sprawach ustalania, dokonywania zmian iznoszenia urzędowych nazw miejscowości i ich części obiektów fizjograficznych, zwanych dalej Ńurzędowymi nazwami”.
 2. Komisja działa przy ministrze właściwym publicznej.
 3. Do zadań Komisji należy:
@@ -69,7 +69,7 @@ dla obiektów fizjograficznych wpierwszym idrugim przypadku deklinacji.
 2. Rozporządzenie, októrym mowa 1, powinno określać dotychczasową nazwę urzędową, nazwę po zmianach, rodzaj miejscowości obiektu fizjograficznego, pierwszy i drugi przypadek deklinacji, awprzypadku nazw miast iwsi również formę przymiotnika utworzonego tej nazwy.
 8. Urzędowa nazwa jest ustalana, zmieniana znoszona na wniosek rady gminy, na której obszarze jest położona miejscowość obiekt fizjograficzny.
 2. Rada gminy przedstawia wniosek, októrym mowa 1, ministrowi właściwemu administracji publicznej za pośrednictwem wojewody.
-Wprzypadku wniosku dotyczącego nazwy miejscowości zamieszkanej rada gminy jest obowiązana uprzednio przeprowadzić tej sprawie konsultacje mieszkańcami tej miejscowości, trybie, o którym mowa art. 5a ust. 2 dnia 8 marca 1990 o samorządzie gminnym (Dz. U. 2001 142, 1591, zpóên. zm.
+Wprzypadku wniosku dotyczącego nazwy miejscowości zamieszkanej rada gminy jest obowiązana uprzednio przeprowadzić tej sprawie konsultacje mieszkańcami tej miejscowości, trybie, o którym mowa art. 5a ust. 2 ustawy dnia 8 marca 1990 o samorządzie gminnym (Dz. U. 2001 142, 1591, zpóên. zm.
 3) omówienie wyników konsultacji przeprowadzonych zmieszkańcami miejscowości, której wniosek dotyczy;
 4) opinię starosty powiatu, na którego terenie jest położona miejscowość obiekt fizjograficzny, jako właściwego sprawach geodezji i gospodarki gruntami;
 5) mapę topograficzną zaznaczonymi granicami miejscowości, jej części obiektu fizjograficznego, będących przedmiotem wniosku;
@@ -105,7 +105,7 @@ scowym planem zagospodarowania przestrzennego są obowiązani umieścić na nier
 34, 198, zpóên. zm. ) wart. 1 uchyla się pkt
 12.Do czasu powołania składu osobowego Komisji Nazw Miejscowości i Obiektów Fizjograficznych, dłużej jednak niż rok dnia wejścia wżycie ustawy, jej zadania wykonuje Komisja Ustalania Nazw Miejscowości i Obiektów Fizjograficznych utworzona na podstawie rozporządzenia wymienionego wart. 15.
 13. Wnioski sprawie ustalania zmiany urzędowej nazwy, złożone i nierozpatrzone przed dniem wejścia życie ustawy, uznaje się za złożone wterminie itrybie określonym wustawie.
-——————— o numeracji nieruchomości (Dz. U. 94, 850, Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 1613 ROZPORZÑDZENIE RADY MINISTRÓW zdnia 18 września 2003 wsprawie określenia wysokości odsetek ustawowych Na podstawie art. 359 § 3 zdnia 23 kwietnia 1964 Kodeks cywilny (Dz. U. 16, 93, zpóên.
+——————— o numeracji nieruchomości (Dz. U. 94, 850, Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 1613 ROZPORZÑDZENIE RADY MINISTRÓW zdnia 18 września 2003 wsprawie określenia wysokości odsetek ustawowych Na podstawie art. 359 § 3 ustawy zdnia 23 kwietnia 1964 Kodeks cywilny (Dz. U. 16, 93, zpóên.
 zm.
 § 2. Rozporządzenie wchodzi życie dniem 25 września 2003 ) zarządza się, co następuje: § Wysokość odsetek ustawowych ustala się na 12,25 % wstosunku rocznym. Prezes Rady Ministrów: L. Miller ——————— 1614 ROZPORZÑDZENIE PREZESA RADY MINISTRÓW zdnia 19 września 2003 wsprawie przedterminowych wyborów wójta Gminy Bojadła wwojewództwie lubuskim
 
@@ -113,5 +113,5 @@ zm.
 
 #### Rozdział 2 Komisja Nazw Miejscowości iObiektów Fizjograficznych
 
-#### Rozdział 5 wprzepisach obowiązujących, przepisy przejściowe ikońcowe
+#### Rozdział 5 Zmiany wprzepisach obowiązujących, przepisy przejściowe ikońcowe
 

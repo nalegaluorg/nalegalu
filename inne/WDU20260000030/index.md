@@ -21,7 +21,7 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2026-01-07 |
 | Data wydania | 2026-01-12 |
-| Ostatnia zmiana | 2026-01-16 |
+| Ostatnia zmiana | 2026-05-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000030) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/30/text.pdf) |
 
 OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 7 stycznia 2026 r.

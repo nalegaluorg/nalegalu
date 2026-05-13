@@ -25,7 +25,7 @@ domain: null
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19900550318) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1990/318/text.pdf) |
 
 1990 r.
-1990 318
+1990
 USTAWA dnia 13 lipca 1990 r.
 zmianie ustawy Kodeks cywilnego.
 

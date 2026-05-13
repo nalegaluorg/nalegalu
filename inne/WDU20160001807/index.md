@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# Warszawa, dnia 4 listopada 2016 Poz. 1807
+# Warszawa, dnia 4 listopada 2016 1807
 
 | Pole | Wartość |
 |---|---|
@@ -38,5 +38,5 @@ USTAWA dnia 14 września 2016 zmianie ustawy Szkole niektórych innych ustaw
 
 **Art. 7.** Ilekroć przepisach prawa jest mowa o:
 
-**Art. 8.** Ustawa wchodzi ż ycie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 8.** Ustawa wchodzi ż ycie po upływie 14 dni od dnia ogłoszenia. Prezydent Polskiej: A. Duda
 

@@ -24,6 +24,7 @@ domain: null
 | Ostatnia zmiana | 2025-04-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000393) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/393/text.pdf) |
 
+Poz. 393
 USTAWA dnia 20 lutego 2025 r.
 zmianie ustawy przygotowaniu realizacji obiektów energetyki jądrowej oraz towarzyszących oraz ustawy wpłatach zysku przez jednoosobowe spółki Skarbu Państwa W ustawie dnia 29 czerwca 2011 r. przygotowaniu realizacji obiektów energetyki jądrowej oraz towarzyszących (Dz. U. 2024 r. poz. 1410 1572) wprowadza się następujące zmiany:
 1) 53a 1 wyrazy „w której spółka PEJ ma pozycję dominującą, której w” zastępuje się wyrazami „wobec której spółka PEJ jest spółką dominującą rozumieniu”;
@@ -37,15 +38,15 @@ b) 2 we wprowadzeniu do wyliczenia 4 skreśla się wyrazy „Rządu do spraw Str
 c) 3 we wprowadzeniu do wyliczenia wyrazy „ , których 53a 2,” zastępuje się wyrazami „przygotowujące realizujące inwestycje towarzyszące EJ1”;
 7) 53g 3 4 skreśla się wyrazy „Rządu do spraw Strategicznej Infrastruktury Energetycznej”;
 8) 53g dodaje się 53h–53n brzmieniu: „Art. 53h. Na przygotowanie realizację EJ1 lub przygotowywanej realizowanej przez spółkę PEJ, której został nadany status towarzyszącej zgodnie 52 oraz na bieżącą działalność spółki PEJ, tym na działania mające na celu zarządzanie ryzykiem ochronę wartości kapitałów tej spółki, spółce PEJ jest przekazywane przez Skarb Państwa wsparcie publiczne postaci wkładu na pokrycie udziałów podwyższonym kapitale zakładowym spółki PEJ.
-2. Pokrycia udziałów podwyższonym kapitale zakładowym spółki PEJ, którym dokonuje się przez wniesienie wkładu:
+2. Pokrycia udziałów podwyższonym kapitale zakładowym spółki PEJ, dokonuje się przez wniesienie wkładu:
 1) pieniężnego budżetu państwa lub
 2) niepieniężnego postaci skarbowych papierów wartościowych.
-3. Udziały podwyższonym kapitale zakładowym spółki PEJ, którym obejmuje Skarb Państwa.
+3. Udziały podwyższonym kapitale zakładowym spółki PEJ, obejmuje Skarb Państwa.
 ności pomocy publicznej dotyczącej EJ1 rynkiem wewnętrznym oraz potrzeby finansowe spółki PEJ, występuje do ministra właściwego do spraw finansów publicznych ze wskazaniem planowanej wysokości tego podwyższenia.
-2. Minister właściwy do spraw finansów publicznych wybiera jeden sposób lub oba sposoby wniesienia wkładu, których 53h 2, na pokrycie udziałów podwyższonym kapitale zakładowym spółki PEJ, którym 53h informuje ministra właściwego do spraw gospodarki surowcami energetycznymi oraz Pełnomocnika tym wyborze.
-3. Minister właściwy do spraw gospodarki surowcami energetycznymi przekazuje spółce PEJ wkład, którym 53h 2 pkt terminie uzgodnionym Pełnomocnikiem.
-4. Minister właściwy do spraw finansów publicznych przekazuje spółce PEJ wkład, którym 53h 2 pkt 2, terminie 90 dni od dnia otrzymania wystąpienia, którym wskazując uprzednio Pełnomocnikowi planowany dzień przekazania tego wkładu.
-53j. Suma wartości wkładu pieniężnego budżetu państwa wkładu niepieniężnego postaci skarbowych papierów wartościowych, których 53h 2, przekazanych spółce PEJ danym roku na pokrycie udziałów podwyższonym kapitale zakładowym spółki PEJ, którym 53h nie może być wyższa niż wartość maksymalnego limitu wydatków budżetu państwa na wniesienie wkładu pieniężnego określonego dla tego roku. Przy ocenianiu wartości przekazanego danym roku spółce PEJ wkładu niepieniężnego postaci skarbowych papierów wartościowych bierze się pod uwagę ich wartość nominalną.
+2. Minister właściwy do spraw finansów publicznych wybiera jeden sposób lub oba sposoby wniesienia wkładu, których 53h 2, na pokrycie udziałów podwyższonym kapitale zakładowym spółki PEJ, 53h informuje ministra właściwego do spraw gospodarki surowcami energetycznymi oraz Pełnomocnika tym wyborze.
+3. Minister właściwy do spraw gospodarki surowcami energetycznymi przekazuje spółce PEJ wkład, 53h 2 pkt terminie uzgodnionym Pełnomocnikiem.
+4. Minister właściwy do spraw finansów publicznych przekazuje spółce PEJ wkład, 53h 2 pkt 2, terminie 90 dni od dnia otrzymania wystąpienia, wskazując uprzednio Pełnomocnikowi planowany dzień przekazania tego wkładu.
+53j. Suma wartości wkładu pieniężnego budżetu państwa wkładu niepieniężnego postaci skarbowych papierów wartościowych, których 53h 2, przekazanych spółce PEJ danym roku na pokrycie udziałów podwyższonym kapitale zakładowym spółki PEJ, 53h nie może być wyższa niż wartość maksymalnego limitu wydatków budżetu państwa na wniesienie wkładu pieniężnego określonego dla tego roku. Przy ocenianiu wartości przekazanego danym roku spółce PEJ wkładu niepieniężnego postaci skarbowych papierów wartościowych bierze się pod uwagę ich wartość nominalną.
 53k. Minister właściwy do spraw budżetu określi liście emisyjnym warunki emisji skarbowych papierów wartościowych, których 53h 2 pkt 2, oraz sposób realizacji świadczeń nich wynikających.
 2. List emisyjny zawiera szczególności:
 1) datę emisji;
@@ -68,14 +69,14 @@ ności pomocy publicznej dotyczącej EJ1 rynkiem wewnętrznym oraz potrzeby fina
 4) 2028 r. 13 000 000 000 zł;
 5) 2029 r. 11 000 000 000 zł;
 6) 2030 r. 6 600 000 000 zł.
-2. Pełnomocnik monitoruje wykorzystanie przyjętego na dany rok budżetowy limitu wydatków, którym
-3. W przypadku zagrożenia przekroczenia przyjętego na dany rok budżetowy limitu wydatków, którym Pełnomocnik wdraża mechanizm korygujący polegający na tym, że nie występuje on do ministra właściwego do spraw finansów publicznych ze wskazaniem planowanej wysokości podwyższenia kapitału zakładowego spółki PEJ, którym 53h przekraczającej przyjęty na dany rok budżetowy limit wydatków, którym
+2. Pełnomocnik monitoruje wykorzystanie przyjętego na dany rok budżetowy limitu wydatków,
+3. W przypadku zagrożenia przekroczenia przyjętego na dany rok budżetowy limitu wydatków, Pełnomocnik wdraża mechanizm korygujący polegający na tym, że nie występuje on do ministra właściwego do spraw finansów publicznych ze wskazaniem planowanej wysokości podwyższenia kapitału zakładowego spółki PEJ, 53h przekraczającej przyjęty na dany rok budżetowy limit wydatków,
 4. Wydatki, których są finansowane budżetu państwa części, której dysponentem jest minister właściwy do spraw gospodarki surowcami energetycznymi.
-53n. Spółka PEJ przedstawia Pełnomocnikowi terminie do dnia 31 marca każdego roku sprawozdanie wykorzystania poprzednim roku wsparcia publicznego, którym 53h
-2. Pełnomocnik przedstawia Radzie Ministrów terminie do dnia 31 maja każdego roku informację wykorzystaniu poprzednim roku przez spółkę PEJ wsparcia publicznego, którym 53h 1.”.
+53n. Spółka PEJ przedstawia Pełnomocnikowi terminie do dnia 31 marca każdego roku sprawozdanie wykorzystania poprzednim roku wsparcia publicznego, 53h
+2. Pełnomocnik przedstawia Radzie Ministrów terminie do dnia 31 maja każdego roku informację wykorzystaniu poprzednim roku przez spółkę PEJ wsparcia publicznego, 53h 1.”.
 2. W ustawie dnia 1 grudnia 1995 r. wpłatach zysku przez jednoosobowe spółki Skarbu Państwa (Dz. U.
 2022 r. poz. 44) 7 pkt 2 lit. e na końcu kropkę zastępuje się średnikiem dodaje się pkt 3 brzmieniu: „3) przygotowujących realizujących inwestycję obiektu energetyki jądrowej na podstawie ustawy dnia 29 czerwca 2011 r. przygotowaniu realizacji obiektów energetyki jądrowej oraz inwestycji towarzyszących (Dz. U. 2024 r. poz. 1410 1572 oraz 2025 r. poz. 393).”.
-3. Do dnia wydania przez Komisję Europejską decyzji, której 53i 1 ustawy zmienianej Pełnomocnik Rządu do spraw Strategicznej Infrastruktury Energetycznej nie występuje do ministra właściwego do spraw finansów publicznych ze wskazaniem planowanej wysokości podwyższenia kapitału zakładowego Polskich Elektrowni Jądrowych spółki ograniczoną odpowiedzialnością siedzibą Warszawie, którym 53h 1 ustawy zmienianej
+3. Do dnia wydania przez Komisję Europejską decyzji, której 53i 1 ustawy zmienianej Pełnomocnik Rządu do spraw Strategicznej Infrastruktury Energetycznej nie występuje do ministra właściwego do spraw finansów publicznych ze wskazaniem planowanej wysokości podwyższenia kapitału zakładowego Polskich Elektrowni Jądrowych spółki ograniczoną odpowiedzialnością siedzibą Warszawie, 53h 1 ustawy zmienianej
 4. Do rozliczenia wpłat zysku za 2024 r. przez spółki przygotowujące realizujące inwestycję obiektu energetyki jądrowej na podstawie ustawy zmienianej 1 stosuje się przepisy ustawy zmienianej 2 brzmieniu dotychczasowym.
 2. Do dokonywania wpłat zysku 2025 r. rozliczenia wpłat zysku za ten rok przez spółki przygotowujące realizujące inwestycję obiektu energetyki jądrowej na podstawie ustawy zmienianej 1 stosuje się przepisy ustawy zmienianej 2 brzmieniu nadanym niniejszą ustawą.
 5. Sprawozdania, których 53n ustawy zmienianej raz pierwszy przedstawia się za rok 2025.

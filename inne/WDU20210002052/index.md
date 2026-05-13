@@ -28,11 +28,11 @@ USTAWA dnia 1 października 2021 o zmianie niektórych ustaw celu poprawy spójn
 
 **Art. 1.** W ustawie dnia 14 czerwca 1960 – Kodeks postępowania administracyjnego (Dz. 2021 735
 
-**Art. 2.** W ustawie dnia 29 czerwca 1963 o zagospodarowaniu wspólnot gruntowych (Dz. 2016 703) art. 2a wyrazy „18 lipca 2001 – Prawo wodne (Dz. 2015 469, 1590, 1642 2295 oraz 2016 352)” zastępuje się wyrazami „20 lipca 2017 – Prawo wodne (Dz. 2021 624, 784, 1564 1641)”.
+**Art. 2.** W ustawie dnia 29 czerwca 1963 o zagospodarowaniu wspólnot gruntowych (Dz. 2016 703) art. 2a wyrazy „18 lipca 2001 – Prawo wodne (Dz. 2015 469, 1590, 1642 2295 2016 352)” zastępuje się wyrazami „20 lipca 2017 – Prawo wodne (Dz. 2021 624, 784, 1564 1641)”.
 
 **Art. 3.** W ustawie dnia 17 listopada 1964 – Kodeks postępowania cywilnego (Dz. 2021 1805 1981) art. 479 pkt 2 wyrazy „27 czerwca 1997 o transporcie kolejowym (Dz. 591, późn. zm.)” zastępuje się wyrazami „28 marca 2003 o transporcie kolejowym (Dz. 2021 1984)”.
 
-**Art. 4.** W ustawie dnia 17 czerwca 1966 o postępowaniu egzekucyjnym administracji (Dz. 2020 1427, późn. zm. ) art. 19 § 2 wyrazy „gminy wchodzącej skład powiatu warszawskiego” zastępuje się wyrazami „miasta stołecznego Warszawy”.
+**Art. 4.** W ustawie dnia 17 czerwca 1966 o postępowaniu egzekucyjnym (Dz. 2020 1427, późn. zm. ) art. 19 § 2 wyrazy „gminy wchodzącej skład powiatu warszawskiego” zastępuje się wyrazami „miasta stołecznego Warszawy”.
 
 **Art. 5.** W ustawie dnia 20 maja 1971 – Kodeks wykroczeń (Dz. 2021 2008) art. 31 § 2 wyrazy „Kara określona § 1” zastępuje się wyrazami „Środek karny określony § 1”.
 
@@ -40,13 +40,13 @@ USTAWA dnia 1 października 2021 o zmianie niektórych ustaw celu poprawy spójn
 
 **Art. 7.** W ustawie dnia 6 lipca 1982 o radcach prawnych (Dz. 2020 75 2320) wprowadza się następujące zmiany:
 
-**Art. 8.** W ustawie dnia 7 stycznia 1993 o planowaniu rodziny, ochronie płodu ludzkiego warunkach dopuszczalności przerywania ciąży (Dz. 78, późn. zm. ) art. 2 ust. 1 pkt 2 wyrazy „29 listopada 1990 o pomocy społecznej (Dz. 1998 Nr 64, 414, Nr 106, 668, Nr 117, 756 Nr 162, 1118 1126, 1999 Nr 20, 170, Nr 79, 885 Nr 90, 1001, 2000 Nr 12, 136 Nr 19, 238 oraz 2001 Nr 72, 748, Nr 88, 961, Nr 89, 973, Nr 111, 1194, Nr 122, 1349 Nr 154, 1792)” zastępuje się wyrazami „12 marca 2004 o pomocy społecznej (Dz. 2020 1876 2369 oraz 2021 794, 803 1981)”.
+**Art. 8.** W ustawie dnia 7 stycznia 1993 o planowaniu rodziny, ochronie płodu ludzkiego warunkach dopuszczalności przerywania ciąży (Dz. 78, późn. zm. ) art. 2 ust. 1 pkt 2 wyrazy „29 listopada 1990 o pomocy społecznej (Dz. 1998 Nr 64, 414, Nr 106, 668, Nr 117, 756 Nr 162, 1118 1126, 1999 Nr 20, 170, Nr 79, 885 Nr 90, 1001, 2000 Nr 12, 136 Nr 19, 238 2001 Nr 72, 748, Nr 88, 961, Nr 89, 973, Nr 111, 1194, Nr 122, 1349 Nr 154, 1792)” zastępuje się wyrazami „12 marca 2004 o pomocy społecznej (Dz. 2020 1876 2369 2021 794, 803 1981)”.
 
 **Art. 9.** W ustawie dnia 29 sierpnia 1997 – Prawo bankowe (Dz. 2020 1896, późn. zm. ) art. 112 wyraz „Wojewódzki” zastępuje się wyrazem „Okręgowy”.
 
 **Art. 10.** W ustawie dnia 15 września 2000 – Kodeks spółek handlowych (Dz. 2020 1526 2320) art. 18 § 2 skreśla się wyrazy „art. 585,”.
 
-**Art. 11.** W ustawie dnia 17 listopada 2006 o systemie oceny zgodności wyrobów przeznaczonych na potrzeby obronności bezpieczeństwa państwa (Dz. 2018 114) art. 2 ust. 2 pkt 5 otrzymuje brzmienie: „5) wyrobów posiadających oznakowanie Π, zakresie objętym przepisami dnia 19 sierpnia 2011 o przewozie towarów niebezpiecznych (Dz. 2021 756);”.
+**Art. 11.** W ustawie dnia 17 listopada 2006 o systemie oceny zgodności wyrobów przeznaczonych na potrzeby obronności bezpieczeństwa państwa (Dz. 2018 114) art. 2 ust. 2 pkt 5 otrzymuje brzmienie: „5) wyrobów posiadających oznakowanie Π, zakresie objętym przepisami ustawy dnia 19 sierpnia 2011 o przewozie towarów niebezpiecznych (Dz. 2021 756);”.
 
 **Art. 12.** W ustawie dnia 4 września 2008 o ochronie żeglugi portów morskich (Dz. 2019 692) wprowadza się następujące zmiany:
 

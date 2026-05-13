@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 17 kwietnia
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 17 kwietnia 2015
 
 | Pole | Wartość |
 |---|---|
@@ -24,7 +24,7 @@ domain: null
 | Ostatnia zmiana | 2026-03-09 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000541) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/541/text.pdf) |
 
-USTAWA dnia 20 marca zmianie Kodeks karny niektórych innych ustaw
+USTAWA dnia 20 marca 2015 zmianie Kodeks karny niektórych innych ustaw
 
 **Art. 1.** W ustawie dnia 6 czerwca 1997 Kodeks karny (Dz. U. Nr 88, 553, późn. zm. ) wprowadza się następujące zmiany:
 

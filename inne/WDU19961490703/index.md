@@ -10,9 +10,7 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# o zastawie rejestrowym i rejestrze zastawów
-
-*USTAWA z dnia 6 grudnia 1996 r.*
+# Warszawa, dnia 19 grudnia 1996r.
 
 | Pole | Wartość |
 |---|---|
@@ -26,366 +24,163 @@ domain: null
 | Ostatnia zmiana | 2026-02-19 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19961490703) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1996/703/text.pdf) |
 
-Art. 45–49. (pominięte)
-
-#### Rozdział 1 Przepisy ogólne
-
-**Art. 1.**
-
-1. Ustawa reguluje ustanawianie, przeniesienie i wygaśnięcie zastawu rejestrowego, przedmiot tego zastawu, prawa i obowiązki zastawcy i zastawnika, zbieg zastawu rejestrowego z innym ograniczonym prawem rzeczowym, zaspakajanie zastawnika oraz prowadzenie rejestru zastawów.
-
-2. W sprawach nieuregulowanych w niniejszej ustawie do zastawu rejestrowego stosuje się przepisy Kodeksu cywilnego.
-
-#### Rozdział 1a Ustanowienie zastawu rejestrowego
-
-**Art. 2.**
-
-1. Do ustanowienia zastawu rejestrowego są wymagane umowa o ustanowienie tego zastawu (umowa zastawnicza) między osobą uprawnioną do rozporządzania przedmiotem zastawu (zastawcą) a wierzycielem (zastawnikiem) oraz wpis do rejestru zastawów.
-
-2. Rzeczy obciążone zastawem rejestrowym, a także papiery wartościowe lub inne dokumenty dotyczące praw obciążonych takim zastawem mogą być pozostawione w posiadaniu zastawcy lub osoby trzeciej wskazanej w umowie o ustanowienie zastawu rejestrowego, jeżeli wyraziła ona na to zgodę.
-
-3. Jeżeli zastawca był nieuprawniony do rozporządzania rzeczą, do ochrony zastawnika działającego w dobrej wierze stosuje się odpowiednio przepisy o ochronie nabywcy rzeczy ruchomej w dobrej wierze, a wpis zastawu rejestrowego do rejestru zastawów jest równoznaczny z wydaniem rzeczy.
-
-4. Do ustanowienia zastawu rejestrowego zabezpieczającego wierzytelności z tytułu dłużnych papierów wartościowych emitowanych w serii, zamiast umowy, o której mowa w ust. 1, jest wymagana umowa zastawnicza między zastawcą i administratorem zastawu, o którym mowa w art. 4 ust. 4.
-
-**Art. 3.**
-
-1. Umowa zastawnicza powinna być pod rygorem nieważności zawarta na piśmie. Do umów o ustanowienie zastawu rejestrowego na wierzytelnościach i prawach nie stosuje się przepisów o formie pisemnej szczególnej określonej w odrębnych przepisach.
-
-2. Umowa zastawnicza powinna określać co najmniej:
-
-- **1)** datę zawarcia umowy;
-- **2)** imię i nazwisko (nazwę) oraz miejsce zamieszkania (siedzibę) i adres zastawnika, zastawcy oraz dłużnika, jeżeli nie jest on zastawcą;
-- **3)** przedmiot zastawu w sposób odpowiadający jego właściwościom;
-- **4)** wierzytelność zabezpieczoną zastawem – przez oznaczenie stosunku prawnego, z którego ta wierzytelność wynika lub może wynikać, oraz najwyższej sumy zabezpieczenia.
-
-3. (uchylony)
-
-**Art. 4.**
-
-1. W razie zabezpieczenia:
-
-- **1)** wierzytelności przysługującej dwóm lub więcej wierzycielom,
-- **2)** dwóch lub więcej wierzytelności wynikających z umów,
-- **3)** wierzytelności objętej układem w postępowaniu upadłościowym albo restrukturyzacyjnym – jeden z wierzycieli wskazany w umowie zawartej z pozostałymi wierzycielami lub w układzie, może być upoważniony do zabezpieczenia zastawem rejestrowym wierzytelności przysługujących pozostałym wierzycielom i do wykonywania we własnym imieniu, ale na ich rachunek, praw i obowiązków zastawnika wynikających z umowy zastawniczej i przepisów prawa (administrator zastawu).
-
-2. Przepis ust. 1 stosuje się również w przypadku przeniesienia części wierzytelności zabezpieczonej zastawem rejestrowym na inną osobę.
-
-3. Zastaw rejestrowy zabezpieczający wierzytelności z tytułu dłużnych papierów wartościowych emitowanych w serii może być ustanowiony na rzecz wszystkich wierzycieli bez imiennego ich wskazania.
-
-4. W przypadku zastawu, o którym mowa w ust. 3, obowiązkowe jest ustanowienie administratora zastawu, na podstawie umowy między emitentem i administratorem zastawu. Administrator zastawu nie musi być wierzycielem z tytułu dłużnych papierów wartościowych emitowanych w serii.
-
-**Art. 5.** Zastawem rejestrowym można zabezpieczyć wierzytelność pieniężną wyrażoną w pieniądzu polskim lub walucie obcej.
-
-**Art. 6.** Zastaw rejestrowy może zabezpieczać dwie lub więcej wierzytelności wynikające z umów przysługujących jednemu wierzycielowi. Wierzytelności te określa umowa zastawnicza.
-
-**Art. 6a.** Zastaw rejestrowy zabezpiecza odsetki, roszczenia uboczne wskazane przez strony w umowie zastawniczej oraz koszty zaspokojenia zastawnika mieszczące się w sumie wymienionej we wpisie zastawu.
-
-#### Rozdział 2 Przedmiot zastawu rejestrowego
-
-**Art. 7.**
-
-1. Przedmiotem zastawu rejestrowego mogą być rzeczy ruchome i zbywalne prawa majątkowe, z wyjątkiem:
-
-- **1)** praw mogących być przedmiotem hipoteki;
-- **2)** wierzytelności na których ustanowiono hipotekę;
-- **3)** statków morskich oraz statków w budowie mogących być przedmiotem hipoteki morskiej.
-
-2. Zastawem rejestrowym można w szczególności obciążyć:
-
-- **1)** rzeczy oznaczone co do tożsamości;
-- **2)** rzeczy oznaczone co do gatunku, jeżeli w umowie zastawniczej określona zostanie ich ilość oraz sposób wyodrębnienia od innych rzeczy tego samego gatunku;
-- **3)** zbiór rzeczy ruchomych lub praw, stanowiący całość gospodarczą, choćby jego skład był zmienny;
-- **4)** wierzytelności;
-- **5)** prawa na dobrach niematerialnych;
-- **6)** prawa z papierów wartościowych;
-- **7)** prawa z niebędących papierami wartościowymi instrumentów finansowych w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2017 r. poz. 1768, z późn. zm. ).
-
-3. Zastaw rejestrowy może być ustanowiony także wówczas, gdy zastawca nabędzie przedmiot zastawu w przyszłości. Obciążenie zastawem rejestrowym takiego przedmiotu zastawu staje się skuteczne z chwilą jego nabycia przez zastawcę.
-
-**Art. 8.**
-
-1. Obciążenie rzeczy zastawem rejestrowym pozostaje w mocy bez względu na zmiany, którym może ona ulegać w toku przetwarzania, a w razie połączenia lub pomieszania rzeczy obciążonej z innymi rzeczami ruchomymi w taki sposób, że przywrócenie stanu poprzedniego byłoby niemożliwe albo związane z nadmiernymi trudnościami lub kosztami, zastaw rejestrowy obciąża całość rzeczy połączonych lub pomieszanych.
-
-2. Jeżeli rzeczy połączone lub pomieszane w sposób określony w ust. 1 były obciążone zastawami rejestrowymi, zastawy te pozostają w mocy i obciążają całość rzeczy połączonych lub pomieszanych, a o pierwszeństwie tych zastawów rozstrzyga się zgodnie z art. 16.
-
-**Art. 9.**
-
-1. Jeżeli rzecz ruchoma obciążona zastawem rejestrowym stała się częścią składową nieruchomości, zastaw rejestrowy wygasa. Jeżeli rzecz ruchoma wchodząca w skład zbioru rzeczy ruchomych, obciążona zastawem rejestrowym, stała się częścią składową nieruchomości, zastaw rejestrowy wygasa w stosunku do tej rzeczy.
-
-2. W przypadku, o którym mowa w ust. 1, zastawnik może żądać od właściciela nieruchomości ustanowienia hipoteki na tej nieruchomości do wysokości wartości rzeczy przyłączonej.
-
-3. Na wniosek zastawnika sąd prowadzący księgę wieczystą wpisuje ostrzeżenie o wytoczonym powództwie o ustanowienie hipoteki.
-
-4. Przepisy ust. 1–3 stosuje się odpowiednio do składników statku w budowie obciążonych zastawem rejestrowym po wpisaniu statku w budowie do rejestru okrętowego.
-
-**Art. 10.**
-
-1. Jeżeli umowa zastawnicza nie stanowi inaczej, zastaw rejestrowy obejmuje rzeczy, prawa lub składniki zbioru rzeczy lub praw, które weszły w miejsce pierwotnego przedmiotu zastawu jako ich surogat, chyba że zmiana przedmiotu zastawu rejestrowego powoduje pokrzywdzenie zastawnika. Zmieniony przedmiot zastawu rejestrowego ujawnia się w rejestrze zastawów na wniosek zastawcy lub zastawnika.
-
-2. Jeżeli umowa zastawnicza nie stanowi inaczej, zastaw rejestrowy obejmuje przysługujące zastawcy roszczenia o odszkodowanie z tytułu utraty, zniszczenia, uszkodzenia lub obniżenia wartości przedmiotu zastawu rejestrowego.
-
-#### Rozdział 3 Prawa i obowiązki zastawcy i zastawnika
-
-**Art. 11.**
-
-1. Jeżeli umowa zastawnicza nie stanowi inaczej, zastawca:
-
-- **1)** może korzystać z przedmiotu zastawu rejestrowego zgodnie z jego społeczno-gospodarczym przeznaczeniem;
-- **2)** powinien dbać o zachowanie przedmiotu zastawu rejestrowego w stanie nie gorszym niż wynikający z prawidłowego używania;
-- **3)** w wyznaczonym przez zastawnika stosownym terminie obowiązany jest umożliwić zastawnikowi zbadanie stanu przedmiotu zastawu rejestrowego.
-
-2. Przepis ust. 1 stosuje się odpowiednio do osoby trzeciej, w której posiadaniu znajduje się przedmiot zastawu rejestrowego, zgodnie z postanowieniami umowy zastawniczej.
-
-**Art. 12.**
-
-1. W razie ustanowienia zastawu rejestrowego na pojeździe mechanicznym podlegającym rejestracji, zastaw ten zostaje również odnotowany w dowodzie rejestracyjnym pojazdu.
-
-2. Minister właściwy do spraw transportu określi, w drodze rozporządzenia, tryb dokonywania adnotacji, o której mowa w ust. 1.
-
-**Art. 13.** Zbycie przedmiotu zastawu rejestrowego powoduje wygaśnięcie tego zastawu, jeżeli:
-
-**Art. 14.**
-
-1. W umowie zastawniczej dopuszczalne jest zastrzeżenie, przez które zastawca zobowiązuje się względem zastawnika, że przed wygaśnięciem zastawu rejestrowego nie dokona zbycia lub obciążenia przedmiotu zastawu.
-
-2. Zbycie lub obciążenie przedmiotu zastawu rejestrowego, dokonane wbrew zastrzeżeniu, o którym mowa w ust. 1, jest ważne, jeżeli osoba, na której rzecz zastawca dokonał zbycia lub obciążenia, nie wiedziała i przy zachowaniu należytej staranności nie mogła wiedzieć o tym zastrzeżeniu w chwili zawarcia umowy z zastawcą.
-
-3. W razie zbycia lub obciążenia przedmiotu zastawu rejestrowego wbrew zastrzeżeniu, o którym mowa w ust. 1, zastawnik może żądać natychmiastowego zaspokojenia wierzytelności zabezpieczonej tym zastawem.
-
-#### Rozdział 4 Zbieg obciążeń
-
-**Art. 15.** Ograniczone prawo rzeczowe powstałe później nie może być wykonywane z uszczerbkiem dla ustanowionego wcześniej zastawu rejestrowego.
-
-**Art. 16.** Jeżeli ten sam przedmiot jest obciążony więcej niż jednym zastawem rejestrowym, o pierwszeństwie tych zastawów rozstrzyga dzień złożenia wniosku o wpis do rejestru zastawów. Za dzień złożenia tego wniosku uważa się dzień jego wpływu do sądu prowadzącego rejestr zastawów. Wnioski, które wpłynęły tego samego dnia, uważa się za złożone równocześnie.
-
-#### Rozdział 5 Przeniesienie i wygaśnięcie zastawu rejestrowego
-
-**Art. 17.**
-
-1. Przeniesienie zastawu rejestrowego może być dokonane tylko wraz z przeniesieniem wierzytelności zabezpieczonej tym zastawem. Przeniesienie zastawu rejestrowego jest skuteczne od daty wpisu nabywcy do rejestru zastawów.
-
-2. Przeniesienie zastawu rejestrowego przysługującego administratorowi zastawu jest skuteczne od chwili wpisu do rejestru zastawów nowego zastawnika upoważnionego do pełnienia funkcji administratora zastawu zgodnie z art. 4 ust. 1.
-
-**Art. 18.**
-
-1. Wygaśnięcie wierzytelności zabezpieczonej zastawem rejestrowym powoduje wygaśnięcie zastawu, z zastrzeżeniem ust. 2.
-
-2. Zastaw rejestrowy nie wygasa, jeżeli umowa zastawnicza tak stanowi i określa co najmniej:
-
-- **1)** stosunek prawny, z którego wynika lub może wynikać nowa wierzytelność;
-- **2)** termin, w którym powinien powstać nowy stosunek prawny, nie dłuższy jednak niż 6 miesięcy od dnia wygaśnięcia wierzytelności zabezpieczonej zastawem;
-- **3)** najwyższą sumę zabezpieczenia dla nowej wierzytelności, przy czym suma ta nie może być wyższa od ujawnionej w rejestrze.
-
-3. Jeżeli w terminie, o którym mowa w ust. 2 pkt 2, nie powstanie stosunek prawny, z którego wynika nowa wierzytelność zabezpieczona zastawem rejestrowym, zastaw rejestrowy wygasa z upływem tego terminu, a zastawnik ma obowiązek niezwłocznego dokonania czynności niezbędnych do złożenia wniosku o wykreślenie zastawu z rejestru zastawów.
-
-4. W przypadku określonym w ust. 3, wniosek o wykreślenie zastawu może złożyć zastawnik lub zastawca, który dołącza do wniosku pisemne oświadczenie zastawnika o wyrażeniu zgody na wykreślenie zastawu.
-
-**Art. 18a.** Zastaw rejestrowy wygasa i podlega wykreśleniu z rejestru zastawów po upływie dwudziestu lat od chwili wpisu, chyba że strony postanowią o utrzymaniu zastawu na czas dalszy, nie dłuższy niż dziesięć lat, i do rejestru zastawów zostanie złożona zmiana umowy zastawniczej. Sąd dokonuje wykreślenia z urzędu.
-
-**Art. 19.**
-
-1. W przypadku wygaśnięcia zastawu rejestrowego podlega on wykreśleniu z rejestru zastawów.
-
-2. Wykreślenie zastawu rejestrowego z rejestru zastawów powoduje wygaśnięcie zastawu, o ile zastaw nie wygasł wcześniej.
-
-3. Zastaw rejestrowy podlega wykreśleniu z rejestru zastawów na wniosek:
-
-- **1)** zastawnika;
-- **2)** zastawcy, który dołącza do wniosku pisemne oświadczenie zastawnika o wygaśnięciu wierzytelności zabezpieczonej zastawem rejestrowym lub zrzeczeniu się tego zabezpieczenia albo prawomocny wyrok sądu ustalający wygaśnięcie zastawu rejestrowego;
-- **3)** osoby, która nabyła przedmiot zastawu rejestrowego i która dołączyła do wniosku:
-    - **a)** oświadczenie zastawnika o wyrażeniu zgody na wykreślenie zastawu rejestrowego z rejestru zastawów albo
-    - **b)** zaświadczenie komornika lub innego organu egzekucyjnego o nabyciu przedmiotu zastawu rejestrowego w postępowaniu egzekucyjnym, albo
-    - **c)** zaświadczenie sędziego komisarza o nabyciu przedmiotu zastawu rejestrowego w postępowaniu upadłościowym, albo
-    - **d)** prawomocne orzeczenie stwierdzające nieistnienie zastawu rejestrowego lub wskazała jego oznaczenie, gdy nie była stroną w sprawie.
-
-#### Rozdział 6 Zaspokojenie zastawnika
-
-**Art. 20.** Wierzytelność zabezpieczona zastawem rejestrowym podlega zaspokojeniu z przedmiotu tego zastawu z pierwszeństwem przed innymi wierzytelnościami, chyba że przepis szczególny stanowi inaczej.
-
-**Art. 21.** Zaspokojenie zastawnika z przedmiotu zastawu rejestrowego następuje w drodze sądowego postępowania egzekucyjnego, o ile przepisy niniejszej ustawy nie stanowią inaczej.
-
-**Art. 21a.** Od chwili zajęcia przedmiotu zastawu rejestrowego przez komornika lub inny organ egzekucyjny zastawnik nie może podejmować czynności mających na celu zaspokojenie na podstawie przepisów art. 22–27.
-
-**Art. 22.**
-
-1. Umowa zastawnicza może przewidywać zaspokojenie zastawnika przez przejęcie przez niego na własność przedmiotu zastawu rejestrowego, jeżeli:
-
-- **1)** zastaw rejestrowy ustanowiony został na instrumentach finansowych zapisanych na rachunku papierów wartościowych lub na innym rachunku w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi;
-- **2)** przedmiotem zastawu rejestrowego są rzeczy występujące powszechnie w obrocie towarowym;
-- **3)** przedmiotem zastawu rejestrowego są rzeczy, wierzytelności i prawa lub zbiory rzeczy lub praw stanowiące całość gospodarczą, a strony w umowie zastawniczej ściśle oznaczyły wartość przedmiotu zastawu albo określiły sposób ustalenia jego wartości dla zaspokojenia zastawnika;
-- **4)** przedmiotem zastawu rejestrowego jest wierzytelność z rachunku bankowego.
-
-2. Przejęcie na własność przedmiotu zastawu rejestrowego następuje po upływie terminu wykonania zobowiązania, które zostało zabezpieczone tym zastawem, z dniem:
-
-- **1)** zapisania instrumentów finansowych odpowiednio na rachunku papierów wartościowych lub innym rachunku – w przypadku określonym w ust. 1 pkt 1;
-- **2)** złożenia przez zastawnika oświadczenia na piśmie o przejęciu tego przedmiotu na własność – w przypadku określonym w ust. 1 pkt 2 i 3;
-- **3)** pobrania przez zastawnika prowadzącego rachunek bankowy środków znajdujących się na tym rachunku – w przypadku określonym w ust. 1 pkt 4.
-
-**Art. 23.**
-
-1. Jeżeli umowa zastawnicza przewiduje zaspokojenie zastawnika w drodze przejęcia na własność przedmiotu zastawu rejestrowego, a zastaw ten ustanowiono na dopuszczonych do obrotu zorganizowanego, w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, instrumentach finansowych, o których mowa w art. 22 ust. 1 pkt 1, wartość przejętych instrumentów finansowych ustala się po kursie notowań z końca dnia przejęcia. Jeżeli w tym dniu nie notowano tych instrumentów finansowych, wartość tę ustala się po kursie z końca dnia ostatniego ich notowania.
-
-2. Jeżeli umowa zastawnicza przewiduje zaspokojenie zastawnika w drodze przejęcia na własność rzeczy obciążonych zastawem rejestrowym, występujących powszechnie w obrocie towarowym, wartość przejętych rzeczy ustala się na podstawie średniej ceny tych rzeczy z dnia przejęcia.
-
-3. Wierzytelność zabezpieczona zastawem rejestrowym ulega zaspokojeniu do wysokości wartości przedmiotu zastawu rejestrowego przejętego na własność przez zastawnika. Jeżeli wartość przedmiotu zastawu rejestrowego przewyższa wysokość wierzytelności zabezpieczonej zastawem rejestrowym, zastawnik jest zobowiązany do uiszczenia kwoty nadwyżki w terminie 14 dni od dnia przejęcia.
-
-**Art. 24.**
-
-1. Umowa zastawnicza może przewidywać również, że zaspokojenie zastawnika nastąpi przez sprzedaż przedmiotu zastawu rejestrowego w drodze przetargu publicznego, który przeprowadzi notariusz lub komornik, w terminie 14 dni od dnia złożenia przez zastawnika wniosku o dokonanie sprzedaży.
-
-2. Minister Sprawiedliwości określi, w drodze rozporządzenia, miejsce, warunki, sposób i koszty przeprowadzenia sprzedaży, o której mowa w ust. 1, mając na uwadze rodzaj przedmiotu zastawu rejestrowego, interesy zastawnika i zastawcy oraz bezpieczeństwo obrotu.
-
-3. Sprzedaż przedmiotu zastawu rejestrowego, o której mowa w ust. 1, ma takie same skutki, jak sprzedaż w postępowaniu egzekucyjnym.
-
-**Art. 25.**
-
-1. Bezpośrednio przed podjęciem czynności mających na celu zaspokojenie zastawnika z przedmiotu zastawu rejestrowego, o których mowa w art. 22 i art. 24, zastawnik powinien na piśmie zawiadomić zastawcę o zamierzonym podjęciu działań zmierzających do zaspokojenia jego roszczeń wynikających z zastawu rejestrowego.
-
-2. Zastawca może w ciągu 7 dni od dnia zawiadomienia, o którym mowa w ust. 1, zaspokoić zastawnika bądź wystąpić do sądu z powództwem o ustalenie, że wierzytelność nie istnieje albo nie jest wymagalna w całości lub w części.
-
-3. Jeżeli powództwo zostało wniesione po upływie terminu, o którym mowa w ust. 2, zabezpieczenie roszczenia jest niedopuszczalne.
-
-4. Jeżeli przedmiotem zastawu rejestrowego jest zbiór rzeczy ruchomych lub praw, stanowiący całość gospodarczą, a wierzytelność zabezpieczona stała się wymagalna, zastawnik może w pisemnym zawiadomieniu żądać od zastawcy zabezpieczenia roszczeń przez przeprowadzenie spisu z natury składników majątkowych przedmiotu zastawu rejestrowego, w sposób określony przez strony umowy zastawniczej.
-
-5. Od chwili zawiadomienia, o którym mowa w ust. 1 i 4, zastawca nie może bez zgody zastawnika rozporządzać przedmiotem zastawu ani jego składnikami majątkowymi.
-
-**Art. 26.** Zastawnik może żądać od dłużnika, nawet jeżeli nie jest on zastawcą zabezpieczenia roszczeń jeszcze przed upływem terminu spełnienia świadczenia, jeżeli spełnienie świadczenia jest zagrożone.
-
-**Art. 27.**
-
-1. Jeżeli zastaw rejestrowy ustanowiono na zbiorze rzeczy lub praw, stanowiących całość gospodarczą, a umowa zastawnicza dopuszcza zaspokojenie zastawnika z dochodów przedsiębiorstwa zastawcy, przedsiębiorstwo to może być przejęte w zarząd. W umowie zastawniczej należy określić wymogi, jakie powinien spełniać zarządca takiego przedsiębiorstwa. Zarząd może być również wykonywany przez zastawnika.
-
-2. Jeżeli umowa zastawnicza nie stanowi inaczej, do zarządu nad przedsiębiorstwem zastawcy stosuje się odpowiednio przepisy Kodeksu postępowania cywilnego o egzekucji przez zarząd przymusowy, przy czym zastawnik jest odpowiedzialny solidarnie z zarządcą za szkody wyrządzone zastawcy przez zarządcę.
-
-3. Przedsiębiorstwo, o którym mowa w ust. 1, może być na żądanie zastawnika wydzierżawione w celu zaspokojenia jego wierzytelności z czynszu, jeżeli umowa zastawnicza tak stanowi. W umowie zastawniczej można zastrzec, że do zawarcia umowy dzierżawy jest potrzebna zgoda zastawnika. Jeżeli na podstawie umowy zastawniczej do zawarcia umowy dzierżawy upoważniony jest zastawnik, przed zawarciem umowy dzierżawy powinien on udostępnić zastawcy projekt umowy dzierżawy. Zastawnik jest odpowiedzialny solidarnie z dzierżawcą za szkody wyrządzone zastawcy przez dzierżawcę.
-
-**Art. 28.** (uchylony)
-
-#### Rozdział 7 (uchylony)
-
-#### Rozdział 8 Rejestr zastawów
-
-**Art. 36.**
-
-1. Rejestr zastawów służy do dokonywania wpisów przewidzianych przez niniejszą ustawę.
-
-1a. W sprawach o wpis do rejestru zastawów według przepisów ustawy jurysdykcja krajowa jest wyłączna.
-
-2. Rejestr zastawów prowadzą sądy rejonowe (sądy gospodarcze).
-
-3. Sądem miejscowo właściwym dla dokonania wpisu jest sąd, w którego okręgu znajduje się miejsce zamieszkania (siedziba) zastawcy.
-
-4. Sąd, który dokonał wpisu zastawu rejestrowego do rejestru zastawów, pozostaje właściwy dla dokonania dalszych wpisów dotyczących tego zastawu.
-
-5. Sądy współpracują z Szefem Krajowego Centrum Informacji Kryminalnych w zakresie niezbędnym do realizacji jego zadań ustawowych.
-
-**Art. 37.**
-
-1. Rejestr zastawów, wraz z dokumentami złożonymi do rejestru, jest jawny.
-
-2. Odpisy z rejestru zastawów, stanowiące dowód wpisu, a także zaświadczenia o braku wpisu zastawcy lub zastawcy i przedmiotu zastawu wydawane są na wniosek każdego, kto tego zażąda.
-
-3. Odpisy i zaświadczenia, o których mowa w ust. 2, podlegają opłacie.
-
-**Art. 38.**
-
-1. Z zastrzeżeniem art. 13 pkt 2, od dnia dokonania wpisu w rejestrze zastawów nikt nie może zasłaniać się nieznajomością danych ujawnionych w rejestrze, chyba że mimo zachowania należytej staranności nie mógł o nich wiedzieć.
-
-2. Wobec osób trzecich działających w dobrej wierze zastawca oraz zastawnik nie mogą się zasłaniać zarzutem, że dane ujawnione w rejestrze zastawów nie są prawdziwe, chyba że wpis nastąpił niezgodnie z wnioskiem, a zastawca lub zastawnik wystąpił niezwłocznie z wnioskiem o sprostowanie, uzupełnienie lub wykreślenie wpisu.
-
-**Art. 39.**
-
-1. Sąd dokonuje wpisu do rejestru zastawów na wniosek zastawnika lub zastawcy, chyba że przepis szczególny przewiduje wpis z urzędu. Do wniosku należy dołączyć umowę zastawniczą albo umowę, z której wynika nabycie przedmiotu zastawu wraz z zastawem rejestrowym, albo nabycie udziału we współwłasności przedmiotu zastawu, albo nabycie wierzytelności zabezpieczonej zastawem rejestrowym lub jej części lub inny dokument stanowiący podstawę wpisu.
-
-2. Wniosek o wpis do rejestru składa się na urzędowym formularzu.
-
-2a. Wnioski składane za pośrednictwem systemu teleinformatycznego opatruje się kwalifikowanym podpisem elektronicznym. W aktach przechowuje się wydruk tych wniosków i załączniki dokumentów wraz ze wskazaniem osób, które je podpisały.
-
-3. Wniosek nieopłacony podlega zwróceniu.
-
-4. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzory urzędowych formularzy, odpowiadających wymaganiom przewidzianym dla pism procesowych oraz zawierających niezbędne pouczenia dla stron co do sposobu ich wypełniania, wnoszenia i skutków niedostosowania wniosku do tych wymagań.
-
-5. Urzędowe formularze są udostępniane w siedzibach sądów oraz na stronie internetowej Ministerstwa Sprawiedliwości.
-
-**Art. 40.**
-
-1. Wpis zastawu rejestrowego do rejestru zastawów obejmuje:
-
-- **1)** datę złożenia wniosku o wpis;
-- **2)** imię i nazwisko (nazwę), właściwy powszechny numer identyfikacyjny oraz miejsce zamieszkania (siedzibę) i adres zastawcy, zastawnika oraz dłużnika niebędącego zastawcą; w przypadku gdy zastawca, zastawnik lub dłużnik posiada miejsce zamieszkania (siedzibę) poza granicami Rzeczypospolitej Polskiej, wpisuje się ponadto adres dla doręczeń w Polsce;
-- **3)** oznaczenie przedmiotu zastawu rejestrowego oraz, jeżeli umowa zastawnicza to przewiduje, sposób jego oznakowania;
-- **4)** oznaczenie najwyższej sumy zabezpieczenia i waluty, w której jest wyrażona;
-- **5)** określony umową zastawniczą sposób zaspokojenia zastawnika, jeżeli jest przewidziany przepisami niniejszej ustawy;
-- **6)** zastrzeżenie, o którym mowa w art. 14 ust. 1.
-
-2. Przez wpis rozumie się także wykreślenie wpisu.
-
-3. Rozpoznając wniosek o wpis, sąd bada jedynie treść i formę wniosku oraz dokumentów stanowiących podstawę wpisu w zakresie danych podlegających wpisowi. Sąd oddala wniosek o wpis, jeżeli treść dokumentów stanowiących jego podstawę oczywiście narusza prawo. <4. Do danych obejmujących miejsce zamieszkania (siedzibę) i adres nie stosuje się przepisów art. 48a ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2024 r. poz. 1799 oraz z 2025 r. poz. 1792).>
-
-**Art. 41.**
-
-1. Sprawy o wpis do rejestru zastawów rozpoznaje się na posiedzeniu niejawnym; sąd może zarządzić wyznaczenie rozprawy.
-
-2. Wpis do rejestru zastawów polega na wprowadzeniu do rejestru danych zawartych w postanowieniu sądu niezwłocznie po jego wydaniu. Jednak wykreślenie zastawu rejestrowego następuje po uprawomocnieniu się postanowienia, chyba że wniosek o wykreślenie złożył zastawnik.
-
-2a. W przypadku określonym w art. 18 ust. 2 lub w razie złożenia umowy ustanawiającej administratora zastawu lub innych umów i dokumentów niezwiązanych ze zmianą danych w rejestrze – sąd rejestrowy na podstawie postanowienia załącza umowy i dokumenty do właściwych akt.
-
-2b. Postanowienie w przedmiocie wpisu sąd doręcza na adres zamieszkania (siedziby) lub adres dla doręczeń ujawniony w rejestrze. O zmianie adresu należy zawiadomić sąd. W razie braku powiadomienia sądu o zmianie adresu, o którym mowa w art. 40 ust. 1 pkt 2, doręczenie dokonane w sposób określony w zdaniu pierwszym uważa się za skuteczne, o czym sąd poucza przy pierwszym doręczeniu.
-
-3. Postanowienie niezgodne z wnioskiem sąd uzasadnia z urzędu, jeżeli zostało wydane na posiedzeniu niejawnym.
-
-4. W przypadkach innych niż określone w ust. 3 postanowienie sąd uzasadnia, jeżeli w ustawowym terminie od jego doręczenia lub ogłoszenia na posiedzeniu jawnym zostanie wniesiony środek odwoławczy.
-
-5. Od postanowienia w przedmiocie wpisu do rejestru zastawów przysługuje apelacja.
-
-6. Od postanowień innych niż określone w ust. 5 przysługuje zażalenie.
-
-**Art. 41a.** W razie dokonania wpisu zastawu rejestrowego na cywilnym statku powietrznym lub prawach własności przemysłowej, sąd niezwłocznie przesyła do organu prowadzącego rejestr cywilnych statków powietrznych lub organu prowadzącego rejestr danego prawa własności przemysłowej odpis postanowienia o wpisie zastawu rejestrowego wraz z nadanym numerem pozycji rejestru zastawów, celem ujawnienia tego zastawu we właściwym rejestrze.
-
-**Art. 42.**
-
-1. Minister Sprawiedliwości utworzy centralną informację o zastawach rejestrowych.
-
-2. Zadaniem centralnej informacji o zastawach rejestrowych jest: utworzenie i eksploatacja połączeń rejestru zastawów w systemie informatycznym, prowadzenie zbioru informacji z rejestru zastawów oraz udzielanie informacji, wydawanie odpisów i zaświadczeń z rejestru zastawów.
-
-2a. Centralna informacja o zastawach rejestrowych może również udzielać informacji, wydawać odpisy i zaświadczenia z rejestru zastawów za pośrednictwem systemu teleinformatycznego.
-
-3. Odpisy i zaświadczenia wydane w formie papierowej przez centralną informację o zastawach rejestrowych mają moc dokumentów urzędowych.
-
-3a. Odpisy i zaświadczenia wydane za pośrednictwem systemu teleinformatycznego przez centralną informację o zastawach rejestrowych opatrzone kwalifikowanym podpisem elektronicznym, mają moc dokumentów urzędowych.
-
-4. Centralna informacja o zastawach rejestrowych pobiera opłaty za udzielanie informacji oraz wydawanie odpisów i zaświadczeń. Opłaty te stanowią dochód budżetu państwa.
-
-4a. Skarb Państwa, państwowe jednostki organizacyjne, jednostki samorządu terytorialnego oraz związki międzygminne, związki powiatów, związki powiatowo-gminne i związki metropolitalne, których zadanie nie polega na prowadzeniu działalności gospodarczej, nie ponoszą opłat, o których mowa w ust. 4.
-
-5. (uchylony)
-
-6. (uchylony)
-
-7. (uchylony)
-
-**Art. 43.** Minister Sprawiedliwości określa:
-
-**Art. 43a.** Minister Sprawiedliwości określi, w drodze rozporządzenia, warunki organizacyjno-techniczne dotyczące formy wniosków i dokumentów oraz ich składania do sądów prowadzących rejestr zastawów i do centralnej informacji o zastawach rejestrowych za pośrednictwem systemu teleinformatycznego, a także orzeczeń, odpisów, zaświadczeń i informacji doręczanych wnioskodawcom przez sądy oraz centralną informację za pośrednictwem systemu teleinformatycznego, kierując się potrzebą ułatwienia i upowszechnienia dostępu do rejestru zastawów.
-
-**Art. 44.** Do postępowania rejestrowego stosuje się przepisy Kodeksu postępowania cywilnego o postępowaniu nieprocesowym, z uwzględnieniem przepisów niniejszej ustawy.
-
-#### Rozdział 9 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
-
-**Art. 50.**
-
-1. Zastaw, ustanowiony przed dniem wejścia w życie niniejszej ustawy na mocy przepisu art. 308 Kodeksu cywilnego, wygasa z upływem 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
-
-2. Na wniosek zastawnika, złożony w terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy, zastaw, o którym mowa w ust. 1, podlega wpisowi do rejestru zastawów prowadzonego na podstawie niniejszej ustawy i przekształca się w zastaw rejestrowy.
-
-3. Do wniosku należy załączyć umowę o ustanowieniu zastawu oraz odpis z prowadzonego przez bank rejestru zastawów.
-
-**Art. 51.**
-
-1. Do postępowań egzekucyjnych wszczętych przed dniem wejścia w życie niniejszej ustawy, na podstawie wyciągów z ksiąg banków oraz innych dokumentów związanych z dokonywaniem czynności bankowych, stwierdzających zobowiązania na rzecz tych banków i zaopatrzonych w oświadczenie, że oparte na nich roszczenia są wymagalne, mających moc tytułów wykonawczych bez potrzeby uzyskiwania dla nich sądowych klauzul wykonalności, stosuje się przepisy dotychczasowe.
-
-2. Do nadania klauzuli wykonalności bankowym tytułom egzekucyjnym oraz prowadzenia egzekucji według Kodeksu postępowania cywilnego na podstawie tych tytułów nie jest wymagane oświadczenie dłużnika o poddaniu się egzekucji, jeżeli czynność bankowa, z której wynika wierzytelność banku, została dokonana przed dniem wejścia w życie niniejszej ustawy.
-
-**Art. 52.** Ustawa wchodzi w życie z dniem 1 stycznia 1998 r., z wyjątkiem przepisów art. 42 ust. 1 i 2 oraz art. 43, które wchodzą w życie z dniem ogłoszenia .
+Poz.:
+4. W przypadku wspólnego udzielenia kredytu lup przez dwóch lub wierzycieli, któ rych przynajmniej jeden swoje wie zastawem rejestrowym, zgodnie wierzyciel taki na podstawie umowy zawartej wierzycielami do zabezpieczenia zastawem rejestrowym wierzytelno wierzycielom wspólnie udzielonego kredytu lub i do wyko nania we imieniu, lecz na ich rachunek, wszelkich praw i zastawnika cych umowy zastawniczej i przepisów prawa (admi nistrator zastawu).
+5. Zastawem rejestrowym pol skim lub walucie obcej.
+6. lub warunkowa mo zabezpieczona zastawem rejestrowym tylko do umowie zastawniczej sumy zabezpieczen ia.
+2 Przedmiot zastawu rejestrowego
+7. 1. Przedmiotem zastawu rejestrowego mo rzeczy ruchome, statków morskich wpisanych do rejestru a prawa ma zbywalne.
+2. Zastawem rejestrowym
+1) rzeczy oznaczone co do
+2) rzeczy oznaczone co do gatunku, umowie zastawniczej zostanie ich oraz spo sób od innych rzeczy tego samego gatunku,
+3) zbiór rzeczy ruchomych lub praw, cajego zmienny,
+4)
+5) prawa na dobrach niematerialnych,
+6) prawa papierów
+3. Zastaw rejestrowy rzeczy lub prawa, które zastawca dopiero przy W takim przypadku tych rzeczy lub praw zastawem rejestrowym staje skuteczne ich nabycia przez
+8. 1. rzeczy zastawem rejestrowym pozostaje mocy bez na zmiany, którym mo ona toku przetwarzania, a razie nia lub pomieszania rzeczy innymi rzecza mi ruchomymi wtaki sposób, przywrócenie stanu przedniego albo nad miernymi lub kosztami, zastaw rejestrowy rzeczy lub pomieszanych.
+2. rzeczy lub pomieszane spo sób ust. 1 zastawami reje strowymi, zastawy te mocy i ca rzeczy lub pomieszanych, a pierw tych zastawów rozstrzyga zgodnie
+3. Na wniosek zastawnika wpisuje wytoczonym powódz twie ustanowienie hipoteki.
+10. umowa zastawnicza nie stanowi ina czej, zastaw rejestrowy obejmuje za stawcy roszczenia odszkodowanie utraty, zniszczenia, uszkodzenia lub przed miotu zastawu rejestrowego.
+3 Prawa i zastawcy i zastawnika
+11. 1. umowa zastawnicza nie stanowi inaczej, zastawca:
+1) przedmiotu zastawu rejestrowe go zgodnie jego prze znaczeniem,
+2) powinien zachowanie przedmiotu zastawu rejestrowego stanie nie gorszym
+3) wyznaczonym przez zastawnika stosownym ter minie jest zastawnikowi zbadanie stanu przedmiotu zastawu rejestrowego.
+2. Przepis ust. 1 stosuje odpowiednio do osoby trzeciej, której posiadaniu znajduje przedmiot za stawu rejestrowego, zgodnie postanowieniami umo wy zastawniczej.
+12. 1. W razie ustanowienia zastawu rejestro wego na mechanicznym reje stracji, zastaw ten zostaje odnotowany do wodzie rejestracyjnym pojazdu.
+2. Minister Transportu i Gospodarki Morskiej okre drodze tryb dokonywania adnotacji, której mowa ust. 1.
+13. Zbycie przedmiotu zastawu rejestrowego powoduje tego zastawu,
+1) nabywca nie i przy zachowaniu nie istnieniu zastawu rejestrowego chwili wydania mu rzeczy lub na niego prawa zastawem rejestrowym albo
+2) rzecz zastawem rejestrowym zalicza do rzeczy zbywanych zwykle zakresie gospodarczej zastawcy i rzecz ta wyda na nabywcy, chyba nabywca rzecz celu pokrzywdzenia zastawnika.
+14. 1. W umowie zastawniczej dopuszczalne jest przez które zastawca zastawnika, przed zasta wu rejestrowego nie dokona zbycia lub przedmiotu zastawu.
+2. Zbycie lub przedmiotu zastawu rejestro wego, dokonane wbrew którym mowa ust. 1, jest osoba, na której rzecz zastaw ca zbycia lub nie i przy za chowaniu nie tym chwili zawarcia umowy
+3. W razie zbycia lub przedmiotu nie wykonywane uszczerbkiem dla ustanowionego zastawu rejestrowego.
+16. ten sam przedmiot jest cej jednym zastawem rejestrowym, stwie tych zastawów rozstrzyga wniosku wpis do rejestru zastawów. Za tego wniosku jego do prowa rejestr zastawów. Wnioski, które tego samego dnia, za 5 Przeniesienie i zastawu rejestrowego
+17. 1. Przeniesienie zastawu rejestrowego mo dokonane tylko wraz przeniesieniem wierzytel zabezpieczonej tym zastawem na inny podmiot uprawniony do zabezpieczenia swoich zastawem rejestrowym przepisów niniejszej ustawy. Przeniesienie zastawu rejestrowego jest sku teczne od daty wpisu nabywcy do rejestru zastawów.
+2. W razie przeniesienia zabezpie czonej zastawem rejestrowym na podmiot nieupraw niony do zabezpieczenia zastawem reje strowym przepisów niniejszej ustawy, zastaw ten wygasa.
+3. W przypadku, którym mowa ust. 2, dotych czasowy zastawnik jest nie wniosek zastawu reje strowego rejestru zastawów i odpowiada za zastawcy niewykonania te go
+18. 1. zabezpieczo nej zastawem rejestrowym za cie tego zastawu, chyba umowa zastawnicza stano wi inaczej.
+2. zastawu rejestrowego rejestru za stawów na wniosek zastawnika powoduje tego zastawu.
+19. W przypadku zastawu reje strowego, podlega on rejestru zasta wów. na wniosek:
+1) zastawnika,
+2) zastawcy, który powinien do wniosku pi semne zastawnika zabezpieczonej zastawem rejestro wym lub zrzeczeniu tego zabezpieczenia albo prawomocny wyrok cie zastawu rejestrowego,
+3) osoby, która przedmiot zasta wem rejestrowym sposób wyga tego zastawu; osoba taka powinna do wniosku:
+a) zastawnika na zgody na zastawu rejestrowego rejestru zastawów albo
+b) nabyciu przedmiotu 6 Zaspokojenie zastawnika
+20. 1. zabezpieczona zastawem rejestrowym podlega zaspokojeniu przedmiotu tego zastawu przed innymi wierzytelno kosztów egzekucyjnych, alimentacyjnych, za za okres nie 3 oraz rent odszkodowa nia za choroby, do pracy, ka lectwa lub jak kosztów ostatniej cho roby i pogrzebu
+2. Skarbowi zobo podatkowych ustawowe prawo zastawu oraz zaspokojenia nie wykonywa ne odniesieniu do przedmiotu zastawu rejestrowe go, chyba ustawowe prawo zastawu ujaw nione we rejestrze przed ustanowieniem zastawu rejestrowego.
+21. Zaspokojenie zastawnika przedmiotów zastawem rejestrowym dro dze egzekucyjnego, ile przepisy niniejszej ustawy nie inaczej.
+22. 1. Umowa zastawnicza zaspokojenie zastawnika przez przez niego na przedmiotu zastawu rejestrowego,
+1) zastaw rejestrowy ustanowiony na papie rach dopuszczonych do publiczne go obrotu, a Komisja Papierów wy na takie i warunki
+2) przedmiotem zastawu rejestrowego rzeczy wy powszechnie obrocie towarowym,
+3) przedmiotem zastawu rejestrowego rzeczy, któ rych oznaczona umowie zastawniczej.
+2. W sprawach ust. 1 pkt 2 i 3 prze na przedmiotu zastawu rejestrowego terminu wykonania nia, które zabezpieczone tym zastawem, dniem przez zastawnika tego przedmiotu na
+23.1. umowa zastawnicza przewiduje za spokojenie zastawnika drodze na przedmiotu zastawu rejestrowego, a zastaw ten usta nowiono na papierach dopuszczonych do publicznego obrotu, papierów ustala kursie dnia prze dniu nie notowano tych papie rów ich ustala kursie dnia ostatniego notowania tych papierów.
+2. umowa zastawnicza przewiduje zaspoko jenie zastawnika drodze na rze czy zastawem rejestrowym, cych powszechnie obrocie towarowym, rzeczy ustala na podstawie ce ny tych rzeczy dnia lub komornik, terminie 14 dni od dnia przez zastawnika wniosku dokonanie
+2. Minister drodze dzenia, zasady, tryb i koszty prze prowadzenia której mowa ust. 1.
+25. 1. przed czynno na celu zaspokojenie zastawnika przed miotu zastawu rejestrowego, których mowa wart. 22 i art. 24, zastawnik powinien na za zamierzonym do zaspokojenia jego zastawu rejestrowego.
+2. Zastawca 7 dni od dnia zawiado mienia, którym mowa ust. 1, zastawnika do powództwem ustalenie, nie istnieje albo nie jest wymagalna lub
+3. powództwo wniesione terminu, którym mowa ust. 2, zabezpieczenie rosz czenia jest niedopuszczalne.
+26. Zastawnik zabezpieczenia rosz jeszcze przed terminu czenia, jest
+27. 1. umowie zastawniczej postano wiono, zastawnika zaspokojo na dochodu, jaki przynosi zastaw cy, którego wchodzi przedmiot zastawu reje strowego, to za takiego wyznacza umowie zastawniczej.
+2. którym mowa ust. 1, mo na zastawnika celu zaspokojenia jego czynszu, umo wa zastawnicza tak stanowi. W umowie zastawniczej zastrzec, do zawarcia umowy trzebna jest zgoda zastawnika.
+28. 1. zastawnikiem jest bank zagranicz ny, jego zaspokojona walu tach obcych, przewiduje to umowa zastawnicza.
+do przeliczenia na sumy pie uzyskanej celu zaspokojenia zastawnika sta nowi przez Narodowy Bank Polski kurs tej waluty dnia na przedmiotu zastawu rejestrowego, a gdy zaspokojenie przez przymusowy lub nie zastawcy dnia, którym za lub jest do przekazania dochodu lub czynszu zastawnikowi.
+2. W przypadku gdy zaspokojenie zastawnika drodze egzekucji, przeliczenia stanowi kurs waluty dnia uprawomocnieniu planu sumy uzyskanej egzekucji, a razie gdy planu nie spo dnia przedmio tu zastawu rejestrowego.
+7 zastawu rejestrowego banki prawo wy stawiania bankowych zabezpieczenia, gdy zgodnie przepisami prawa bankowego im prawo wystawiania bankowego egzekucyjnego.
+2. W bankowym tytule zabezpieczenia okre osoby wierzyciela oraz dochodzo ne roszczenie oraz sposób zabezpieczenia.
+3. Do bankowego zabezpieczenia stosuje odpowiednio przepisy prawa bankowego bankowym tytule egzekucyjnym.
+31. 1. W sprawach, których nie wy stawiony bankowy zabezpieczenia, wniosek za stawnika zabezpieczenie za stawu rejestrowego rozpoznaje na posiedzeniu niejawnym jednego
+2. Wniosek, którym mowa ust. 1, rozpozna je nie jednak terminie 3 dni od dnia jego
+32. 1. tymczasowe przed sprawie, wyznaczy termin, którym sprawa powinna wytoczona pod rygorem upadku zabezpieczenia. Termin ten nie krótszy i nie dwóch tygodni.
+2. zastawca egzekucji aktem nota rialnym, wyznaczy zastawnikowi termin do nia wniosku nadanie aktowi notarialnemu klauzuli Przepis ust. 1 stosuje odpowiednio.
+3. W sprawach, których mowa ust. 2, zabez pieczenie upada, zastawnik nie wniosku egzekucji terminie tygodnia od daty do mu wykonawczego.
+4. Przepisów ust. 1-3 nie stosuje do zabezpie czenia ustanowionego na podstawie art. 26.
+33. na rzecz banku jako zabezpieczenie ustanowiono nad lub poszczególnymi zastawcy, on wykonywany stosownie do wniosku banku przepisów toku egzekucji we zasad umowie zastawniczej, umowa ta przewiduje.
+34. wniosek zastawnika tak stanowi, ramach zabezpieczenia orzeka, dochód uzy skiwany zastawcy dzie zastawnikowi.
+35. W razie gdy zastawca wytoczy powództwo ustalenie, dochodzone roszczenie lub nie istnieje, na nie powoda orzeka uchyleniu lub zmianie za bezpieczenia oraz naprawieniu szkody wykonaniem zabezpieczenia.
+R6zdział 8 obszar województwa.
+3. miejscowo dla dokonania wpisu jest którego znajduje miejsce zamieszkania (siedziba) zastawcy.
+4. który wpisu zastawu rejestrowego do rejestru zastawów, pozostaje dla dokona nia dalszych wpisów tego zastawu.
+37. 1. Rejestr zastawów, wraz dokumentami do rejestru, jest jawny.
+2. Odpisy rejestru zastawów, dowód wpisu, a braku wpisu zastawcy lub przedmiotu zastawu wydawane na wniosek dego, kto tego
+3. Odpisy i których mowa ust. 2,
+38.1. Z art. 13 pkt 2, od dnia do konania wpisu rejestrze zastawów nikt nie za danych ujawnionych re jestrze, chyba mimo zachowania staranno nie nich
+2. Wobec osób trzecich dobrej wie rze zastawca oraz zastawnik nie za rzutem, dane ujawnione rejestrze zastawów nie prawdziwe, chyba wpis niezgodnie wnio skiem, a zastawca lub zastawnik wnioskiem sprostowanie, lub wykre wpisu.
+39. 1. Wpis do rejestru zastawów dokonywany jest na wniosek, do którego za
+2. Wniosek wpis do rejestru na wym formularzu.
+3. Wniosek naruszeniem przepisu ust. 2 podlega zwróceniu. Przepisów art. 130 1-3 Kodeksu cywilnego nie stosuje
+4. Minister drodze roz wzory formularzy.
+40. 1. Wpis zastawu rejestrowego do rejestru zastawów obejmuje:
+1) wniosku wpis,
+2) i nazwisko powszechny nu mer identyfikacyjny oraz miejsce zamieszkania i adres zastawcy, zastawnika oraz ka, nie jest on
+3) oznaczenie przedmiotu zastawu rejestrowego oraz, umowa zastawnicza to przewiduje, sposób jego oznakowania,
+4) zabezpieczonej zastawem re jestrowym, a przypadku zabezpieczenia wierzy lub warunkowej oznaczenie kwoty zabezpieczenia,
+5) sposób zaspokoje nia zastawnika, jest przewidziany przepisami niniejszej ustawy, '\(
+41. 1. Sprawy wpis do rejestru zastawów roz poznaje na posiedzeniu niejawnym; za wyznaczenie rozprawy.
+2. wydaje orzeczenia formie postanowienia.
+3. Postanowienie niezgodne wnioskiem uza sadnia wydane na posiedzeniu niejawnyrn.
+4. W przypadkach innych ust. 3 stanowienie uzasadnia, ustawowym termi nie od jego lub na posiedzeniu jawnym zostanie wniesiony
+5. Od postanowienia przedmiocie wpisu zastawu rejestrowego do rejestru zastawów oraz jego nia apelacja.
+6. Od innych ust. 5
+42. 1. Minister utworzy cen zastawach rejestrowych.
+2. Zadaniem centralnej informacji zastawach re jestrowych jest: utworzenie i eksploatacja re jestru zastawów systemie informatycznym, prowa dzenie zbioru informacji rejestru zastawów oraz udzielanie informacji, wydawanie odpisów i rejestru zastawów.
+3. Odpisy i wydawane przez central zastawach rejestrowych moc do kumentów wydawanych przez
+4. Centralna informacja zastawach rejestrowych pobiera za udzielanie informacji oraz wydawa nie odpisów i
+5. Dochody uzyskane których mowa ust. 4, przeznacza na usprawnienie funkcjonowa nia powszechnych, a na koszty ich podstawowej oraz zakupy inwestycyjne.
+43. Minister
+1) drodze i sposób prowadzenia rejestru zastawów,
+2) drodze ustrój i cen tralnej informacji zastawach rejestrowych oraz zasady udzielania informacji oraz wy dawania odpisów i
+3) porozumieniu Ministrem Finansów, drodze za udzielanie in formacji oraz wydawanie odpisów i przez zastawach rejestro wych,
+4) drodze sposób i tryb przekazywania przez danych do centralnej informacji zasta wach rejestrowych.
+44. Do rejestrowego stosuje przepisy Kodeksu cywilnego waniu nieprocesowym, przepisów niniejszej ustawy.
+9 Zmiany przepisach przepisy dodaje 4 brzmieniu:
+4. masy i we syndyka przedmiot zastawu re jestrowego sprzedany drodze licytacji publicznej przepisów Kodeksu wania cywilnego egzekucji lub za zezwoleniem komisarza wolnej Z ceny pokryte koszty a zaspokojone zabezpieczone za stawem rejestrowym ustanowionym na sprze danych przedmiotach. reszta na do mCl y celem prze pisów prawa niniejszego podziale funduszów masy. Przepis 3 stosuje odpowiednio."
+46. W ustawie dnia 23 kwietnia 1964 r. Ko deks cywilny (Dz. U. 16, poz. 93, 1971 r. 27, poz. 252, 1976 r. 19, poz. 122, 1982 r. 11, poz. 81, 19, poz. 147 i 30, poz. 210, 1984 r. 45, poz. 242, 1985 r. 22, poz. 99, 1989 r. 3, poz. 11, 1990 34, poz. 198, 55, poz. 321 i 79, poz. 464, 1991 r.
+107, poz. 464 i 115, poz. 496, 1993 r. 17, poz. 78, 1994 r. 27, poz. 96, 85, poz. 388 i 105, poz. 509, 1995 r. 83, poz. 417 oraz 1996 r. 114, poz. 542 i 139, poz. 646) art. 308 otrzymuje brzmienie: "Art. 308.
+zastawem rejestrowym, który od przepisy."
+47. W ustawie dnia 17 listopada 1964 r. Ko deks cywilnego (Dz. U. 43, poz. 296, 1965 r. 15, poz. 113, 1974 r. 27, poz. 157 i 39, poz. 231, 1975 r. 45, poz. 234, 1982 r. 11, poz. 82 i 30, poz. 210, 1983 r. 5, poz. 33, 1984 r. 45, poz. 241 i 242, 1985 r. 20, poz. 86, 1987 r. 21, poz. 123, 1988 r. 41, poz. 324, 1989 r. 4, poz. 21 i 33, poz. 175, 1990 r. 14, poz. 88, 34, poz. 198, 53, poz. 306, 55, poz. 318 i 79, poz. 464, 1991 r. 7, poz. 24, 22, poz. 92 i 115, poz. 496, 1993 r. 12, poz. 53, 1994 r. 105, poz. 509, 1995 r. 83, poz. 417 oraz 1996 r. 24, poz. 110, 43, poz. 189 i 73, poz. 350) wprowadza zmiany:
+1) wart. 777:
+a) dotychczasowa otrzymuje oznaczenie 1 i paragrafie tym dodaje pkt 5 brzmieniu: ,,5) akt notarialny, którym egzekucji i który obejmuje ty sumy do akcie wprost albo oznaczonej za pomo klauzuli waloryzacyjnej, gdy akt warunki, które wierzyciela do prowadzenia przeciwko egzeku cji na podstawie tego aktu lub roszczenia, jak termin, do którego wierzyciel nadanie temu aktowi klauzuli
+b) dodaje 2 brzmieniu:
+2. którym mowa 1 pkt 4 lub 5,
+48. W ustawie dnia 31 stycznia 1989 r. Pra wo bankowe (Dz. U. 1992 r. 72, poz. 359, 1993 r.
+6, poz. 29, 28, poz. 127 i 134, poz. 646, 1994 r.
+80, poz. 369 i 121, poz. 591, 1995 r. 4, poz. 18 i 133, poz. 654 oraz 1996 r. 10, poz. 61, 75, poz. 357, 90, poz. 406 i 106, poz. 496) wprowadza zmiany:
+1) wart. 30 ust. 2 i 3;
+2) art. 50;
+3) wart. 53 oznaczenie ust. 1 oraz ust. 2-4;
+4) art. 53 dodaje art. 53'-53 brzmieniu: "Art. 53'. 1. Na podstawie banków lub in nych dokumentów doko nywaniem bankowych ban ki bankowe eg zekucyjne.
+2. W bankowym tytule egzekucyjnym na bank, który go i na którego rzecz egzekucja ma prowadzona, do wraz odsetkami i terminami ich wystawienia banko wego egzekucyjnego, jak rów oznaczenie bankowej, której dochodzone roszcze nia, oraz dochodzonego roszczenia. Bankowy egzekucyjny pie banku oraz podpisami i nazwiskami osób uprawnionych do imieniu banku.
+3. W przypadku gdy zachodzi potrzeba egzekucji przeciwko kilku osobom lub kilku nika, dalsze bankowe egzekucyjne.
+53 1. Bankowy egzekucyjny egzekucji prowadzonej we przepisów Kodeksu nia cywilnego nadaniu mu przez klauzuli przeciwko osobie, która bankiem ban kowej i pisemne poddaniu egzekucji, oraz gdy roszczenie wynika bez z:
+1) umowy rachunku bankowego,
+2) umowy kredytowej,
+3) umowy
+4) umowy
+5) akredytywy,
+6) gwarancji bankowej,
+7) operacji czekowych i wekslowych.
+przypadku gdy ustanowiono zastaw rejestrowy lub dokonano przeniesie nia celu zabezpieczenia roszczenia.
+53 1. Bankowy egzekucyjny egzekucji przeciwko osobie trzeciej, gdy osoba ta przejmie banko wych, których mowa wart. 53 ust. 1.
+2. dokonaniu banko wej, której mowa wart. 53 ust. 1 pkt 1-6, czenia na inne osoby wy niku spadkobrania lub osoby prawnej, albo gdy zachodzi trzeba egzekucji wspólnego egzekucji wykonawczy oparty na ban kowym tytule egzekucyjnym zaopa trzonym przez przeciwko tym oso bom.
+53 1. W razie gdy egzekucja jest prowadzo na na podstawie bankowego eg zekucyjnego, drodze powództwa, umorzenia lub egzekucji,
+1) egzekwowane roszczenie lub nie istnieje,
+2) egzekucja prowadzona jest spra wie, której niedopuszczalne jest jej prowadzenie na podstawie ban kowego egzekucyjnego.
+2. Do powództwa, którym mowa ust. 1, stosuje odpowiednio art. 843 Kodek su cywilnego.";
+5) dotychczasowy art. 53' otrzymuje oznaczenie art. 53
+49. W ustawie dnia 22 marca 1991 r. Prawo publicznym obrocie papierami i fun duszach powierniczych (Dz. U. 1994 r. 58, poz. 239, "Art. 54a. Papiery zastawem, do chwili zaspokojenia zastawnika, nie mo przedmiotem obrotu i stosuje do nich tryb na pod stawie art. 32 1."
+50. 1. Zastaw, ustanowiony przed dniem wej niniejszej ustawy na mocy przepisu art. 308 Kodeksu cywilnego, wygasa 3 mie od dnia niniejszej ustawy.
+2. Na wniosek zastawnika, terminie 3 od dnia niniejszej ustawy, zastaw, którym mowa ust. 1, podlega wpisowi do rejestru zastawów prowadzonego na podstawie niniej szej ustawy i zastaw rejestrowy.
+3. Do wniosku ustanowie niu zastawu oraz odpis prowadzonego przez bank re jestru zastawów.
+51. 1. Do egzekucyjnych tych przed dniem niniejszej ustawy, na podstawie banków oraz innych do kumentów dokonywaniem bankowych, na rzecz tych banków i zaopatrzonych opar te na nich roszczenia wymagalne, moc ty wykonawczych bez potrzeby uzyskiwania dla nich klauzul stosuje prze pisy dotychczasowe.
+2. Do nadania klauzuli bankowym egzekucyjnym oraz prowadzenia egzekucji Kodeksu cywilnego na podsta wie tych nie jest wymagane poddaniu egzekucji, bankowa, której wynika banku, zosta dokonana przed dniem niniejszej ustawy.
+52. Ustawa wchodzi dniem 1 stycznia 1998 r., przepisów art. 42 ust. 1 i 2 oraz art. 43, które dniem Prezydent Rzeczypospolitej Polskiej: A.
+704
+USTAWA dnia 6 grudnia 1996 r.
+zmianie ustawy podatkach i lokalnych i ustawy finansowaniu gmin.
+1. W ustawie dnia 12 stycznia 1991 r. podat kach i lokalnych (Dz. U. 9, poz. 31 i 101, poz. 444, 1992 r. 21, poz. 86, 1994 r. 123, poz.
+600 oraz 1996 r. 91, poz. 409) wprowadza na zmiany:
+1) wart. 4: obliczania amortyzacji tym ro ku, a przypadku budowli zamortyzowanych ich dnia 1 stycznia roku, którym dokonano ostat niego odpisu amortyzacyjnego.",
 

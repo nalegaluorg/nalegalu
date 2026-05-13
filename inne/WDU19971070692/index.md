@@ -45,9 +45,9 @@ b) pkt pod zdanie drugie otrzymuje brzmienie: naliczona dwóch okresów, któryc
 
 2. Bezrobotnym gmi nach wymienionych wykazie, któ rym 11a 7, którzy okresie od dnia 7 lipca 1997 do dnia 31 lipca 1997 utracili prawo do dla bezrobotnych powodu okresu jego pobierania, przy od dnia niniej szej ustawy prawo do zasilku dla bez robotnych przez okres 30 dni. Art. l1d. 1. Środki Funduszu Pracy mogą być przeznaczone pomoc osobom, których 12 l, okresie odbudowy jego go spodarstwa rolnego, które uleglo zniszczeniu lub znaczne stra ty wskutek powodzi.
 
-2. Aada Ministrów roz tryb ubie gania pomoc, l, oraz warunki do ubiegania pomoc.
+2. Aada Ministrów roz tryb ubie gania pomoc, której l, oraz warunki do ubiegania pomoc.
 
-3. Pomoc, l, for mie specjalnego nego, przyznaje, decyzji, kie rownik rejonowego pracy wniosek osoby zainteresowanej po zaopiniowaniu przez gminy ze go spodarstwa rolnego.
+3. Pomoc, której l, for mie specjalnego nego, przyznaje, decyzji, kie rownik rejonowego pracy wniosek osoby zainteresowanej po zaopiniowaniu przez gminy ze go spodarstwa rolnego.
 
 4. Specjalne którym mo wa 3, przyznane zasilku, którym 24 l ustawy zatrudnieniu,
 

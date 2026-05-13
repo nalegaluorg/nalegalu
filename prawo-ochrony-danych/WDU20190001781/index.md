@@ -21,7 +21,7 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2019-08-30 |
 | Data wydania | 2019-09-19 |
-| Ostatnia zmiana | 2026-03-24 |
+| Ostatnia zmiana | 2026-05-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001781) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1781/text.pdf) |
 
 OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 30 sierpnia 2019 r.

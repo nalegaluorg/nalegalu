@@ -387,7 +387,7 @@ Art. 73–76. (pominięte)
 
 **Art. 28a.**
 
-- **43)** Hodowca, dostawca lub użytkownik, który został wykreślony z rejestru na podstawie 28 ust. 2 lit. a tiret drugie, może uzyskać ponowny wpis do rejestru nie wcześniej niż po upływie roku od dnia, którym decyzja, 60a ust. 1, stała się ostateczna i prawomocna.
+- **43)** Hodowca, dostawca lub użytkownik, który został wykreślony z rejestru na podstawie 28 ust. 2 a tiret drugie, może uzyskać ponowny wpis do rejestru nie wcześniej niż po upływie roku od dnia, którym decyzja, 60a ust. 1, stała się ostateczna i prawomocna.
 
 **Art. 29.**
 
@@ -429,7 +429,7 @@ Art. 73–76. (pominięte)
 - **1)** 5 lat od dnia dokonania ostatniego wpisu przypadku danych, których ust. 1–8;
 - **2)** 3 lata od śmierci zwierzęcia albo przywrócenia go do siedliska przyrodniczego właściwego dla danego gatunku albo znalezienia dla niego nowego opiekuna przypadku danych, których ust. 9.
 
-3. Informacje, których ust. 9 lit. f, przekazuje się nowemu opiekunowi zwierzęcia.
+3. Informacje, których ust. 9 f, przekazuje się nowemu opiekunowi zwierzęcia.
 
 4. Użytkownik, na podstawie danych zawartych ewidencji, przekazuje ministrowi właściwemu do spraw szkolnictwa wyższego i nauki corocznie, terminie do dnia 31 marca, informacje dotyczące:
 

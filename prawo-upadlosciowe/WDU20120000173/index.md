@@ -24,18 +24,17 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000173) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/173/text.pdf) |
 
-USTAWA dnia 27 stycznia 2012 r.
-zmianie ustawy ostateczności rozrachunku systemach płatności systemach rozrachunku papierów wartościowych zasadach nadzoru nad tymi systemami, ustawy niektórych zabezpieczeniach finansowych ustawy Prawo upadłościowe naprawcze
+USTAWA dnia 27 stycznia 2012 zmianie ustawy ostateczności rozrachunku systemach płatności systemach rozrachunku papierów wartościowych zasadach nadzoru nad tymi systemami, ustawy niektórych zabezpieczeniach finansowych ustawy Prawo upadłościowe naprawcze
 
-**Art. 1.** W ustawie dnia 24 sierpnia 2001 r. ostateczności rozrachunku systemach płatności systemach rozrachunku papierów wartościowych zasadach nadzoru nad tymi systemami (Dz. U. 2010 r. Nr 112, poz. 743 2011 r. Nr 199, poz. 1175 Nr 234, poz. 1391) wprowadza następujące zmiany:
+**Art. 1.** W ustawie dnia 24 sierpnia 2001 ostateczności rozrachunku systemach płatności systemach rozrachunku papierów wartościowych zasadach nadzoru nad tymi systemami (Dz. U. 2010 Nr 112, poz. 743 2011 Nr 199, poz. 1175 Nr 234, poz. 1391) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie dnia 2 kwietnia 2004 r. niektórych zabezpieczeniach finansowych (Dz. U. Nr 91, poz. 871, późn. zm. ) wprowadza następujące zmiany:
+**Art. 2.** W ustawie dnia 2 kwietnia 2004 niektórych zabezpieczeniach finansowych (Dz. U. Nr 91, poz. 871, późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 3.** W ustawie dnia 28 lutego 2003 r. Prawo upadłościowe naprawcze (Dz. U. r. Nr 175, poz. 1361, późn. zm. ) wprowadza następujące zmiany:
+**Art. 3.** W ustawie dnia 28 lutego 2003 Prawo upadłościowe naprawcze (Dz. U. Nr 175, poz. 1361, późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 4.** Do zleceń rozrachunku wprowadzonych do przed dniem wejścia życie niniejszej ustawy stosuje przepisy ustawy, której mowa art. 1, ustawy, której mowa art. 3, brzmieniu nadanym niniejszą ustawą.
+**Art. 4.** Do zleceń rozrachunku wprowadzonych do przed dniem wejścia życie niniejszej ustawy stosuje się przepisy ustawy, której mowa art. 1, ustawy, której mowa art. 3, brzmieniu nadanym niniejszą ustawą.
 
-**Art. 5.** Do zawartych przed dniem wejścia życie niniejszej ustawy umów spełniających cechy umów ustanowienie zabezpieczenia finansowego na wierzytelnościach kredytowych rozumieniu ustawy, której mowa art. 2, brzmieniu nadanym niniejszą ustawą, nie stosuje przepisów ustawy, której mowa art. 2.
+**Art. 5.** Do zawartych przed dniem wejścia życie niniejszej ustawy umów spełniających cechy umów ustanowienie zabezpieczenia finansowego na wierzytelnościach kredytowych rozumieniu ustawy, której mowa art. 2, brzmieniu nadanym niniejszą ustawą, nie stosuje się przepisów ustawy, której mowa art. 2.
 
-**Art. 6.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: B. Komorowski
+**Art. 6.** Ustawa wchodzi życie upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: B. Komorowski
 

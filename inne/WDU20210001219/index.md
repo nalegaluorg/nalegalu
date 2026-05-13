@@ -51,7 +51,7 @@ Europejskie ugrupowania współpracy terytorialnej wpisane przed dniem wejścia 
 
 1. Uchwałę przystąpieniu ugrupowania Rzeczypospolitej Polskiej podejmuje Rada Ministrów. Rada Ministrów uchwale, ust. 1, wskazuje organ administracji rządowej upoważniony reprezentowania Rzeczypospolitej Polskiej ugrupowaniu, którego Rzeczpospolita Polska przystępuje.
 
-3. Na przystąpienie ugrupowania organu administracji rządowej jako władzy, 3 ust. lit. a rozporządzenia 1082/2006, zgodę wyraża, drodze uchwały, Rada Ministrów.
+3. Na przystąpienie ugrupowania organu administracji rządowej jako władzy, 3 ust. a rozporządzenia 1082/2006, zgodę wyraża, drodze uchwały, Rada Ministrów.
 
 4. W uchwale, ust. albo 3, Rada Ministrów zatwierdza konwencję ugrupowania, którego przystępuje Rzeczpospolita Polska albo organ administracji rządowej, jeżeli zatwierdzenie jest wymagane na podstawie 4 rozporządzenia 1082/2006.
 
@@ -61,7 +61,7 @@ Europejskie ugrupowania współpracy terytorialnej wpisane przed dniem wejścia 
 
 **Art. 6.**
 
-- **8)** 1. Na przystąpienie ugrupowania jednostki samorządu terytorialnego, podmiotu prawa publicznego, przedsiębiorstwa publicznego albo przedsiębiorstwa, którym 3 ust. lit. e rozporządzenia 1082/2006, zgodę wyraża, drodze decyzji, minister właściwy spraw zagranicznych uzgodnieniu z ministrem właściwym spraw wewnętrznych, ministrem właściwym spraw finansów publicznych oraz ministrem właściwym spraw rozwoju regionalnego. Decyzja zawiera również rozstrzygnięcie sprawie zatwierdzenia konwencji ugrupowania, jeżeli zatwierdzenie jest wymagane na podstawie 4 rozporządzenia 1082/2006. zajmuje stanowisko terminie 21 dni od dnia otrzymania tego wystąpienia. Niezajęcie stanowiska terminie uznaje się za uzgodnienie decyzji, ust. 1.
+- **8)** 1. Na przystąpienie ugrupowania jednostki samorządu terytorialnego, podmiotu prawa publicznego, przedsiębiorstwa publicznego albo przedsiębiorstwa, którym 3 ust. e rozporządzenia 1082/2006, zgodę wyraża, drodze decyzji, minister właściwy spraw zagranicznych uzgodnieniu z ministrem właściwym spraw wewnętrznych, ministrem właściwym spraw finansów publicznych oraz ministrem właściwym spraw rozwoju regionalnego. Decyzja zawiera również rozstrzygnięcie sprawie zatwierdzenia konwencji ugrupowania, jeżeli zatwierdzenie jest wymagane na podstawie 4 rozporządzenia 1082/2006. zajmuje stanowisko terminie 21 dni od dnia otrzymania tego wystąpienia. Niezajęcie stanowiska terminie uznaje się za uzgodnienie decyzji, ust. 1.
 
 3. Minister właściwy spraw zagranicznych może wystąpić ministra innego niż wymieniony ust. wyrażenie opinii sprawie zgody na przystąpienie ugrupowania lub zatwierdzenia jego konwencji, jeżeli jest to uzasadnione charakterem działań ugrupowania. Niezajęcie stanowiska terminie 14 dni od dnia otrzymania wystąpienia wyrażenie opinii uznaje się za wyrażenie opinii pozytywnej.
 

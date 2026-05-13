@@ -31,9 +31,7 @@ zmianie ustawy ubezpieczenia razie choroby oraz zmianie ustawy Kodeks pracy.
 
 **Art. 11.**
 
-1. chorobowy, niem ust. 2, wynosi 80% wynagrodzenia wymiaru
-
-2. chorobowy wynosi jed wynagrodzenia wymiaru niezdol pracy:
+1. chorobowy, niem ust. 2, wynosi 80% wynagrodzenia wymiaru chorobowy wynosi jed wynagrodzenia wymiaru niezdol pracy:
 
 - **1)** wskutek wypadku przy pracy, wypadku drodze pracy lub pracy albo wskutek choroby zawodowej,
 
@@ -41,24 +39,16 @@ zmianie ustawy ubezpieczenia razie choroby oraz zmianie ustawy Kodeks pracy.
 
 **Art. 12.**
 
-1. wymiaru chorobowego stanowi wynagro dzenie pracownikowi za okres 6 kalendarzowych cych którym niezdol pracy. wymiaru chorobowego za jeden pracy stanowi jedna trzydziesta tego wynagrodzenia.
+1. wymiaru chorobowego stanowi wynagro dzenie pracownikowi za okres 6 kalendarzowych cych którym niezdol pracy. wymiaru chorobowego za jeden pracy stanowi jedna trzydziesta tego wynagrodzenia. wymiaru chorobowego stanowi wynagro dzenie pracownikowi za okres 12 kalendarzowych cych którym niezdol pracy, gdy wynagrodzenie ulega znacznemu wahaniu ze chara kter pracy lub zasady wynagradzania.
 
-2. wymiaru chorobowego stanowi wynagro dzenie pracownikowi za okres 12 kalendarzowych cych którym niezdol pracy, gdy wynagrodzenie ulega znacznemu wahaniu ze chara kter pracy lub zasady wynagradzania.
-
-3. prawo chorobowego przed okresów, których mowa ust. 2, podstawa wymiaru chorobowego nie 250% wy nagrodzenia. ustala nie od trzeciego ka lendarzowego za okres cy, podstawie wynagro dzenia poprzedniego nego dla celów emerytalnych.
+3. prawo chorobowego przed okresów, których mowa ust. 1 2, podstawa wymiaru chorobowego nie 250% wy nagrodzenia. ustala nie od trzeciego ka lendarzowego za okres cy, podstawie wynagro dzenia poprzedniego nego dla celów emerytalnych.
 
 4. Przy ustalaniu podstawy wymiaru wa wymiaru chorobowego ulega procent wzros tu wyna grodzenia III kwartale stosunku I roku kalen darzowego, chorobowego II kwartale kalendarzowym danego roku, podsta wa wymiaru chorobowego ulega procent wzros tu wyna grodzenia IV kwartale stosunku II roku kalen darzowego,
 
 - **3)** chorobowego III kwartale kalendarzowym danego roku, podsta wa wymiaru chorobowego ulega procent wzros tu wyna grodzenia I kwartale tego roku kalendarzowego stosunku III roku kalendarzo wego,
-- **4)** chorobowego IV kwartale kalendarzowym danego roku, podsta wa wymiaru chorobowego ulega procent wzros tu wyna grodzenia II kwartale tego roku kalendarzowego stosunku IV roku kalendarzo wego.
-
-2. Prezes Monitorze Polskim, terminie ostatniego ka lendarzowego, waloryzacji ku chorobowego nym kwartale.";
-
+- **4)** chorobowego IV kwartale kalendarzowym danego roku, podsta wa wymiaru chorobowego ulega procent wzros tu wyna grodzenia II kwartale tego roku kalendarzowego stosunku IV roku kalendarzo wego. Prezes Monitorze Polskim, terminie ostatniego ka lendarzowego, waloryzacji ku chorobowego nym kwartale.";
 - **5)** art. 13 otrzymuje brzmienie: "Art. 13. Minister Pracy Polityki Socjalnej drodze
-- **1)** przypadki, których ze chara kter pracy lub zasady wynagradzania za wymiaru chorobowego przyjmuje wynagrodzenie okresu wy mienionego wart. 12 ust. 2, pracy lub pracy albo wskutek choroby zawodowej tego wynagrodzenia, ust. 2.
-
-2. rehabilitacyjne przyznane 6 niezdol pracy, podstawa wymiaru ku chorobowego, od której ustala rehabilitacyjnego, podlega waloryzacji. Przepisy art. 12a stosuje odpowiednio.";
-
+- **1)** przypadki, których ze chara kter pracy lub zasady wynagradzania za wymiaru chorobowego przyjmuje wynagrodzenie okresu wy mienionego wart. 12 ust. 2, pracy lub pracy albo wskutek choroby zawodowej tego wynagrodzenia, ust. rehabilitacyjne przyznane 6 niezdol pracy, podstawa wymiaru ku chorobowego, od której ustala rehabilitacyjnego, podlega waloryzacji. Przepisy art. 12a stosuje odpowiednio.";
 - **9)** art. 24 otrzymuje brzmienie: "Art. 24. Przepisy art. 11 ust. 3, art. 14, 18 stosuje odpowiednio rehabilita cyjnego.";
 - **10)** wart. 27:
     - **a)** ust. 2 otrzymuje brzmienie: ,,2. Przy ustalaniu wyrównaw czego stosuje odpowiednio przepisy art. 12 art. 14 ust. 2.",
@@ -79,9 +69,7 @@ zmianie ustawy ubezpieczenia razie choroby oraz zmianie ustawy Kodeks pracy.
 
 - **1)** przypadki, których ze charak ter pracy lub zasady wynagradzania za pod wymiaru przyjmuje wynagrodzenie okresu wy mienionego wart. 12 ust. 2, zasady ustalania podstawy wy miaru obliczania
 - **15)** art. 36;
-- **16)** art. 39 otrzymuje brzmienie: "Art. 39. 1. wynosi 80% wynagrodzenia.
-
-2. Do stosuje od powiednio przepisy art. 11 ust. oraz art. 12 14.
+- **16)** art. 39 otrzymuje brzmienie: "Art. 39. 1. wynosi 80% wynagrodzenia. Do stosuje od powiednio przepisy art. 11 ust. oraz art. 12 14.
 
 3. Minister Pracy Polityki Socjalnej drodze
 
@@ -89,10 +77,13 @@ zmianie ustawy ubezpieczenia razie choroby oraz zmianie ustawy Kodeks pracy.
 - **17)** wart. 40 ust. 2;
 - **18)** art. 43 otrzymuje brzmienie: "Art. 43. pogrzebowy 200% wynagro
 - **22)** art. 47;
-- **23)** wart. 50 ust. wyrazy zdrowia" wyrazami lekarskie";
-- **24)** art. 59.
+- **23)** wart. 50 ust. 1 wyrazy zdrowia" wyrazami lekarskie";
+- **24)** art. 59. Art. W ustawie 26 czerwca 1974 Kodeks pracy wprowadza zmiany:
+- **1)** wart. 53:
+    - **a)** § 1 pkt 1 lit. b) wyrazy okres pobierania wyrazami okres pobierania tego wyna grodzenia
+    - **b)** § 2 otrzymuje brzmienie: ,,§ umowy bez wypowiedze nia nie razie pracownika pracy powodu sprawowania opieki nad dzieckiem okresie pobierania tego a przypadku odosob nienia pracownika ze okresie pobierania tego wynagrodzenia art. 92 otrzymuje brzmienie: "Art. 92. § 1. Za czas pracownika pra cy wskutek:
 
-**Art. 2.** W ustawie 26 czerwca 1974 Kodeks pracy wprowadza zmiany:
+- **1)** choroby lub odosobnienia ku 35 dni roku kalendarzowego pracownik za chowuje prawo 80% wynagro dzenia, chyba danym pracy wprowadzono wyna grodzenie tego wypadku przy pracy, wypadku drodze pracy lub pracy albo choroby zawodowej lub choroby czasie okresie wskazanym pkt 1 pracownik zachowuje prawo wynagrodzenia. § Wynagrodzenie, którym mowa § 1, oblicza zasad cych przy ustalaniu podstawy wymiaru chorobowego za dy pracy, nie ,,9a) sprawach ze stosunkiem pracy oraz akta osobowe pracow ników."
 
 **Art. 3.** Zakład pracy jest wy danym pracownikowi pracy liczbie dni pracy roku kalendarzowym, którym stosunku pracy, za które wy pracownikowi wynagrodzenie wart. 92 Kodeksu pracy.
 
@@ -100,33 +91,13 @@ zmianie ustawy ubezpieczenia razie choroby oraz zmianie ustawy Kodeks pracy.
 
 **Art. 6.**
 
-1. W okresie od marca r. 31 grudnia r. pracy 5 pracowników pracownicy nie prawa wyna grodzenia, którym mowa wart. 92 Kodeksu pracy. Za okres pracy powodu choroby lub odosobnienia im choro bowy.
+1. W okresie od 1 marca r. 31 grudnia r. pracy 5 pracowników pracownicy nie prawa wyna grodzenia, którym mowa wart. 92 Kodeksu pracy. Za okres pracy powodu choroby lub odosobnienia im choro bowy. pracowników zatrudnionych pracy, których mowa ust. 1, ustala kalendarzowym, którym pracy.
 
-2. pracowników zatrudnionych pracy, których mowa ust. 1, ustala kalendarzowym, którym pracy.
-
-**Art. 7.** Ustawa wchodzi dniem marca r. Prezydent Rzeczypospolitej Polskiej: L. 78 USTAWA lutego r. ochronie gruntów rolnych Przepisy ogólne
+**Art. 7.** Ustawa wchodzi dniem 1 marca r. Prezydent Rzeczypospolitej Polskiej: L. 78 USTAWA lutego r. ochronie gruntów rolnych 1 Przepisy ogólne
 
 **Art. 1.** Ustawa reguluje zasady ochrony gruntów rol nych oraz rekultywacji poprawiania gruntów.
 
-**Art. 2.**
-
-1. Gruntami rolnymi, rozumieniu ustawy, grunty:
-
-- **1)** ewidencji gruntów jako rolne, pod stawami rybnymi innymi zbiornikami wodnymi, dla potrzeb rolnictwa,
-- **3)** pod gospodarstw rolnych budyn kami mieszkalnymi oraz innymi budynkami mi produkcji rolniczej oraz prze twórstwu
-- **4)** pod budynkami produkcji rolniczej uznanej za specjalny, stoso wnie przepisów podatku dochodowym od osób fizycznych podatku dochodowym od osób prawnych,
-- **5)** parków wiejskich oraz pod zadrzewieniami zakrzewie
-- **7)** pod melioracji wodnych, przeciwpowo dziowych zaopatrzenia rolnictwa kanalizacji oraz utylizacji odpadów dla potrzeb rolnictwa,
-- **8)** zrekultywowane dla potrzeb rolnictwa,
-- **9)** torfowisk oczek wodnych,
-- **10)** pod drogami dojazdowymi gruntów rolnych.
-
-2. Gruntami rozumieniu ustawy, grunty:
-
-- **1)** jako lasy przepisach lasach, zrekultywowane dla potrzeb gospodarki
-- **3)** pod drogami dojazdowymi gruntów
-
-3. Nie za grunty rolne gruntów pod parkami ogrodami wpisanymi rejestru zabytków.
+**Art. 1.** Gruntami rolnymi, rozumieniu ustawy, grunty:
 
 **Art. 3.**
 

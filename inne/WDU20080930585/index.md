@@ -30,20 +30,20 @@ domain: null
 
 1. Podmioty udzielające są zobonej powszechnie dostępnej sieci teleinformatycznej przez Prezesa Urzędu, a przypadku organów, wiązane sporządzania przedstawiania ministrowi właściwemu spraw rolnictwa sprawozdań oudzielonej publicznej wrolnictwie lub rybołówstwie albo informacji nieudzieleniu takiej danym okresie sprawozdawczym. Sprawozdania zawierają wszczególności informacje beneficjentach oraz rodzajach, formach, wielkości przeznaczeniu udzielonej pomocy.
 
-2. Z zastrzeżeniem 5, przekazywania sprawozdań iinformacji, októrych mowa 1, ministrowi właściwemu spraw rolnictwa przepisy art. 32 2—9 stosuje odpowiednio.
+2. Z zastrzeżeniem 5, przekazywania sprawozdań iinformacji, októrych 1, ministrowi właściwemu spraw rolnictwa przepisy art. 32 2—9 stosuje odpowiednio.
 
-3. Sprawozdania albo informacje, októrych mowa 1, przekazuje przez teletransmisję danych wformie elektronicznej, na formularzach zamieszczonych powszechnie dostępnej sieci teleinformatycznej przez ministra właściwego spraw rolnictwa albo, zzastrzeżeniem 4, zwykorzystaniem aplikacji udostępnionej powszechnie dostępnej sieci teleinformatycznej przez ministra właściwego spraw rolnictwa.
+3. Sprawozdania albo informacje, októrych 1, przekazuje przez teletransmisję danych wformie elektronicznej, na formularzach zamieszczonych powszechnie dostępnej sieci teleinformatycznej przez ministra właściwego spraw rolnictwa albo, zzastrzeżeniem 4, zwykorzystaniem aplikacji udostępnionej powszechnie dostępnej sieci teleinformatycznej przez ministra właściwego spraw rolnictwa.
 
-4. Rada Ministrów określi, drodze rozporządzenia, wykaz podmiotów udzielających zobowiązanych przekazywania ministrowi właściwemu spraw rolnictwa sprawozdań albo informacji, mowa 1, zwykorzystaniem aplikacji oraz sposób jej udostępniania, mając na uwadze kowozdań albo informacji, mowa 1, z wykorzystaniem aplikacji.”;
+4. Rada Ministrów określi, drodze rozporządzenia, wykaz podmiotów udzielających zobowiązanych przekazywania ministrowi właściwemu spraw rolnictwa sprawozdań albo informacji, 1, zwykorzystaniem aplikacji oraz sposób jej udostępniania, mając na uwadze kowozdań albo informacji, 1, z wykorzystaniem aplikacji.”;
 
 - **4)** art. 34:
-    - **a)** 2 otrzymuje brzmienie: Ń2. Sprawozdania, mowa 1, przekazuje przez teletransmisję danych formie elektronicznej, na formularzach zamieszczonych powszechnie dostępnej sieci teleinformatycznej przez Prezesa Urzędu.”,
+    - **a)** 2 otrzymuje brzmienie: Ń2. Sprawozdania, 1, przekazuje przez teletransmisję danych formie elektronicznej, na formularzach zamieszczonych powszechnie dostępnej sieci teleinformatycznej przez Prezesa Urzędu.”,
     - **b)** dodaje 3 brzmieniu: Ń3. Przepisy art. 32 3—9 stosuje odpowiednio.”;
 
 - **5)** art. 35 otrzymuje brzmienie: ŃArt. 35. Rada Ministrów określi, drodze rozporządzeń:
-- **1)** zakres sprawozdań informacji, których mowa art. 32 1, oraz sprawozdań, mowa art. 34 1, terminy ich składania okresy sprawozdawcze oraz wzory formularzy, mając na uwadze zapewnienie skuteczności monitorowania publicznej oraz konieczność uwzględnienia technicznych uwarunkowań związanych z przekazywaniem sprawozdań informacji, mowa wart. 32 1, zwykorzystaniem aplikacji SHRIMP;
-- **2)** zakres sprawozdań informacji, których mowa art. 32a 1, terminy ich składania okresy sprawozdawcze oraz wzory formularzy, mając na uwadze zapewnienie skuteczności monitorowania publicznej rolnictwie lub rybołówstwie, szczególności przestrzegania krajowego limitu skumulowanej kwoty minimis rolnictwie lub rybołówstwie.”;
-- **6)** art. 36 1 otrzymuje brzmienie: Ń1. Prezes Urzędu, a zakresie publicznej rolnictwie lub rybołówstwie minister właściwy spraw rolnictwa, na podstawie sprawozdań informacji, mowa art. 32 1 oraz art. 32a 1, opracowuje, wporozumieniu zministrem właściwym spraw finansów publicznych, przedstawia Radzie Ministrów sprawozdanie zawierające wyniki monitorowania publicznej skiem oudzielenie pomocy:
+- **1)** zakres sprawozdań informacji, których art. 32 1, oraz sprawozdań, art. 34 1, terminy ich składania okresy sprawozdawcze oraz wzory formularzy, mając na uwadze zapewnienie skuteczności monitorowania publicznej oraz konieczność uwzględnienia technicznych uwarunkowań związanych z przekazywaniem sprawozdań informacji, wart. 32 1, zwykorzystaniem aplikacji SHRIMP;
+- **2)** zakres sprawozdań informacji, których art. 32a 1, terminy ich składania okresy sprawozdawcze oraz wzory formularzy, mając na uwadze zapewnienie skuteczności monitorowania publicznej rolnictwie lub rybołówstwie, szczególności przestrzegania krajowego limitu skumulowanej kwoty minimis rolnictwie lub rybołówstwie.”;
+- **6)** art. 36 1 otrzymuje brzmienie: Ń1. Prezes Urzędu, a zakresie publicznej rolnictwie lub rybołówstwie minister właściwy spraw rolnictwa, na podstawie sprawozdań informacji, art. 32 1 oraz art. 32a 1, opracowuje, wporozumieniu zministrem właściwym spraw finansów publicznych, przedstawia Radzie Ministrów sprawozdanie zawierające wyniki monitorowania publicznej skiem oudzielenie pomocy:
 - **1)** wszystkich zaświadczeń opomocy minimis, jakie otrzymał roku, którym ubiega pomoc, oraz ciągu 2 poprzedzających go lat, albo oświadczenia owielkości otrzymanej tym okresie;
 - **2)** oświadczenia wielkości przeznaczeniu publicznej otrzymanej odniesieniu tych samych kosztów kwalifikujących objęcia pomocą, na pokrycie ma być przeznaczona minimis.
 
@@ -57,7 +57,7 @@ domain: null
 
 4. Minister właściwy spraw rolnictwa przedstawia Komisji, na jej wniosek, informacje opomocy wrolnictwie lub rybołówstwie.”,
 
-- **b)** 7 otrzymuje brzmienie: Ń7. Do czasu przekazania przez podmiot ubiegapejskiej wzakresie publicznej, przekazywanie sprawozdań udzielonej wtrybie art. 32 iart. 32aoraz sprawozdań ozaległościach, mowa art. 34 1.”.
+- **b)** 7 otrzymuje brzmienie: Ń7. Do czasu przekazania przez podmiot ubiegapejskiej wzakresie publicznej, przekazywanie sprawozdań udzielonej wtrybie art. 32 iart. 32aoraz sprawozdań ozaległościach, art. 34 1.”.
 
 **Art. 2.** W ustawie z dnia 12 stycznia 1991 r. podatkach opłatach lokalnych (Dz. U. z 2006 r. 121, poz. 844, z póên. zm.
 
@@ -65,7 +65,7 @@ domain: null
 
 1. Przepisy wykonawcze wydane na podstawie art. 35 ustawy wymienionej art. 1 zachowują moc dnia wejścia życie przepisów wykonawczych wydanych na podstawie art. 35 tej ustawy, brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż dnia 30 września 2008 r. ) wprowadza następujące zmiany: 2. Przepisy wykonawcze wydane na podstawie
 
-- **1)** art. 7 uchyla 6b; art. 20d 1 ustawy wymienionej art. 2 zachowują moc dnia wejścia życie przepisów wykonaw2) art. 20c otrzymuje brzmienie: czych wydanych na podstawie art. 20d 1 tej ustawy, brzmieniu nadanym niniejszą ustawą. ŃArt. 20c. W przypadkach, mowa art. 5 2—4, art. 10 2 oraz Art. 4. Do czasu określenia okresów sprawozdawart. 19 pkt 1 3, jeżeli uchwała rady czych terminów składania informacji nieudzieleniu gminy przewiduje udzielanie pomocy, mowa art. 32 1 oraz publicznej, ta jest udzielana jako art. 32a 1 ustawy wymienionej art. 1, minimis.”; wbrzmieniu nadanym niniejszą ustawą, informacje te składa za okresy sprawozdawcze
-- **3)** art. 20d 1 otrzymuje brzmienie: terminach określonych dla sprawozdań udzieloŃ1. Rada Ministrów określi, wdrodze rozporządze- nej publicznej lub sprawozdań udzielonej nia, warunki udzielania zwolnień stanowiących publicznej rolnictwie lub rybołówstwie. publiczną, mowa w: ——————— Art. 5. Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński
+- **1)** art. 7 uchyla 6b; art. 20d 1 ustawy wymienionej art. 2 zachowują moc dnia wejścia życie przepisów wykonaw2) art. 20c otrzymuje brzmienie: czych wydanych na podstawie art. 20d 1 tej ustawy, brzmieniu nadanym niniejszą ustawą. ŃArt. 20c. W przypadkach, art. 5 2—4, art. 10 2 oraz Art. 4. Do czasu określenia okresów sprawozdawart. 19 pkt 1 3, jeżeli uchwała rady czych terminów składania informacji nieudzieleniu gminy przewiduje udzielanie pomocy, art. 32 1 oraz publicznej, ta jest udzielana jako art. 32a 1 ustawy wymienionej art. 1, minimis.”; wbrzmieniu nadanym niniejszą ustawą, informacje te składa za okresy sprawozdawcze
+- **3)** art. 20d 1 otrzymuje brzmienie: terminach określonych dla sprawozdań udzieloŃ1. Rada Ministrów określi, wdrodze rozporządze- nej publicznej lub sprawozdań udzielonej nia, warunki udzielania zwolnień stanowiących publicznej rolnictwie lub rybołówstwie. publiczną, w: ——————— Art. 5. Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński
 
 

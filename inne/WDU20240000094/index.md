@@ -84,22 +84,22 @@ Art. 45–47. (pominięte)
 
 **Art. 3b.**
 
-- **6)** Organy państwa, do których Komisja wystąpiła z interwencją, której 3 ust. 2 2, niezwłocznie, nie później niż terminie 30 dni od dnia otrzymania interwencji, informują Komisję podjętych działaniach lub zajętym stanowisku oraz przekazują jej żądane informacje i dokumenty, chyba że zawierają one informacje niejawne. Przepis 24 ust. 2 stosuje się odpowiednio.
+- **6)** Organy państwa, do których Komisja wystąpiła z interwencją, 3 ust. 2 2, niezwłocznie, nie później niż terminie 30 dni od dnia otrzymania interwencji, informują Komisję podjętych działaniach lub zajętym stanowisku oraz przekazują jej żądane informacje i dokumenty, chyba że zawierają one informacje niejawne. Przepis 24 ust. 2 stosuje się odpowiednio.
 
 **Art. 3c.**
 
 - **6)** W zakresie niezbędnym do realizacji zadań, których 2 ust. 2 i 2 i 3 ust. 2 2, Komisja ma prawo dostępu do informacji stanowiących tajemnicę zawodową:
-- **1)** lekarza i lekarza dentysty, której 40 ust. ustawy z dnia 5 grudnia 1996 r. zawodach lekarza i lekarza dentysty (Dz. U. z 2023 r. poz. 1516, 1617, 1831 i 1972);
-- **2)** osoby wykonującej zawód medyczny, której 14 ust. ustawy z dnia 6 listopada 2008 r. prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2023 r. poz. 1545, 1675, 1692 i 1972);
-- **3)** pielęgniarki i położnej, której 17 ust. ustawy z dnia 15 lipca 2011 r. zawodach pielęgniarki i położnej (Dz. U. z 2022 r. poz. 2702 i 2705 oraz z 2023 r. poz. 185 i 1234);
-- **4)** członków samorządu zawodu farmaceuty, której 21 2 ustawy z dnia 19 kwietnia 1991 r. izbach aptekarskich (Dz. U. z 2021 r. poz. 1850 oraz z 2023 r. poz. 1972);
-- **5)** osoby wykonującej czynności wynikające z ustawy z dnia 19 sierpnia 1994 r. ochronie zdrowia psychicznego (Dz. U. z 2022 r. poz. 2123 oraz z 2023 r. poz. 1972), której 50 ust. tej ustawy; zawodowym psychologów (Dz. U. z 2019 r. poz. 1026);
-- **7)** pracownika socjalnego, której 119 ust. 2 5 ustawy z dnia 12 marca 2004 r. pomocy społecznej (Dz. U. z 2023 r. poz. 901, 1693, 1938 i 2760).
+- **1)** lekarza i lekarza dentysty, 40 ust. ustawy z dnia 5 grudnia 1996 r. zawodach lekarza i lekarza dentysty (Dz. U. z 2023 r. poz. 1516, 1617, 1831 i 1972);
+- **2)** osoby wykonującej zawód medyczny, 14 ust. ustawy z dnia 6 listopada 2008 r. prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2023 r. poz. 1545, 1675, 1692 i 1972);
+- **3)** pielęgniarki i położnej, 17 ust. ustawy z dnia 15 lipca 2011 r. zawodach pielęgniarki i położnej (Dz. U. z 2022 r. poz. 2702 i 2705 oraz z 2023 r. poz. 185 i 1234);
+- **4)** członków samorządu zawodu farmaceuty, 21 2 ustawy z dnia 19 kwietnia 1991 r. izbach aptekarskich (Dz. U. z 2021 r. poz. 1850 oraz z 2023 r. poz. 1972);
+- **5)** osoby wykonującej czynności wynikające z ustawy z dnia 19 sierpnia 1994 r. ochronie zdrowia psychicznego (Dz. U. z 2022 r. poz. 2123 oraz z 2023 r. poz. 1972), 50 ust. tej ustawy; zawodowym psychologów (Dz. U. z 2019 r. poz. 1026);
+- **7)** pracownika socjalnego, 119 ust. 2 5 ustawy z dnia 12 marca 2004 r. pomocy społecznej (Dz. U. z 2023 r. poz. 901, 1693, 1938 i 2760).
 
 2. W zakresie niezbędnym do realizacji zadań, których 2 ust. 2 i 2 i 3 ust. 2 2, Komisja ma prawo dostępu do:
 
-- **1)** dokumentacji medycznej, której 24 ust. ustawy z dnia 6 listopada 2008 r. prawach pacjenta i Rzeczniku Praw Pacjenta;
-- **2)** dokumentacji medycznej, której 11 ust. ustawy z dnia 27 czerwca 1997 r. służbie medycyny pracy (Dz. U. z 2022 r. poz. 437), oraz dokumentacji, której 11 ust. 2 i 2a tej ustawy.
+- **1)** dokumentacji medycznej, 24 ust. ustawy z dnia 6 listopada 2008 r. prawach pacjenta i Rzeczniku Praw Pacjenta;
+- **2)** dokumentacji medycznej, 11 ust. ustawy z dnia 27 czerwca 1997 r. służbie medycyny pracy (Dz. U. z 2022 r. poz. 437), oraz dokumentacji, 11 ust. 2 i 2a tej ustawy.
 
 **Art. 4.**
 
@@ -121,7 +121,7 @@ Art. 45–47. (pominięte)
 - **1)** opiniowanie projektów aktów prawnych, których przedmiot dotyczy spraw należących do właściwości Komisji;
 - **2)** kierowanie do właściwych organów wniosków podjęcie inicjatywy ustawodawczej albo wydanie lub zmianę innych aktów prawnych, których przedmiot dotyczy spraw należących do właściwości Komisji.
 
-**Art. 5.** Komisja przetwarza wszelkie informacje niezbędne do realizacji jej ustawowych zadań, tym dane osobowe, których 9 ust. i 10 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. sprawie ochrony osób fizycznych związku z przetwarzaniem danych osobowych i sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ). 2. Komisja odmawia, tym także organom władzy publicznej, ujawnienia danych osobowych osoby, od której uzyskała informacje, oraz osoby, której dotyczy zgłoszenie, a także dokumentacji zgromadzonej Komisję, jeżeli uzna to za niezbędne dla ochrony czci, praw i godności tych osób. 2a. Przepisu ust. 2 nie stosuje się do:
+**Art. 5.** Komisja przetwarza wszelkie informacje niezbędne do realizacji jej ustawowych zadań, tym dane osobowe, których 9 ust. i 10 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. sprawie ochrony osób fizycznych związku z przetwarzaniem danych osobowych i sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ). 2. Komisja odmawia, tym także organom władzy publicznej, ujawnienia danych osobowych osoby, od uzyskała informacje, oraz osoby, dotyczy zgłoszenie, a także dokumentacji zgromadzonej Komisję, jeżeli uzna to za niezbędne dla ochrony czci, praw i godności tych osób. 2a. Przepisu ust. 2 nie stosuje się do:
 
 #### Rozdział 3 Skład i tryb powoływania Komisji
 
@@ -173,7 +173,7 @@ Art. 45–47. (pominięte)
 
 - **23)** Członkowie Komisji, pracownicy Urzędu Komisji oraz osoby wykonujące pracę Urzędzie Komisji na podstawie umowy dzieło, umowy zlecenia albo innych umów cywilnoprawnych są obowiązani zachować tajemnicy informacje, których powzięli wiadomość związku z czynnościami wykonywanymi na podstawie ustawy.
 
-2. Naruszenia tajemnicy, której ust. 1, nie stanowi złożenie zawiadomienia podejrzeniu popełnienia przestępstwa ani udzielenie informacji lub przekazanie dokumentu ramach wykonania obowiązku lub uprawnienia wynikającego z przepisu prawa.
+2. Naruszenia tajemnicy, ust. 1, nie stanowi złożenie zawiadomienia podejrzeniu popełnienia przestępstwa ani udzielenie informacji lub przekazanie dokumentu ramach wykonania obowiązku lub uprawnienia wynikającego z przepisu prawa.
 
 #### Rozdział 4 Postępowanie przed Komisją
 
@@ -236,17 +236,17 @@ Art. 45–47. (pominięte)
 
 - **30)** Komisja nie przekazuje zgłoszenia, którym 21 ust. 1, przypadku gdy jest ono oczywiście bezzasadne.
 
-2. Oczywistą bezzasadność zgłoszenia Komisja stwierdza drodze uchwały, której odpis doręcza się osobie zgłaszającej z pouczeniem, że odwołanie nie przysługuje.
+2. Oczywistą bezzasadność zgłoszenia Komisja stwierdza drodze uchwały, odpis doręcza się osobie zgłaszającej z pouczeniem, że odwołanie nie przysługuje.
 
-3. Przed podjęciem uchwały, której ust. 2, Komisja wyznacza ze swego składu członka sprawozdawcę, który po zapoznaniu się ze zgłoszeniem przedstawia stan sprawy pozostałym członkom Komisji.
+3. Przed podjęciem uchwały, ust. 2, Komisja wyznacza ze swego składu członka sprawozdawcę, który po zapoznaniu się ze zgłoszeniem przedstawia stan sprawy pozostałym członkom Komisji.
 
 **Art. 23a.**
 
 - **32)** Jeżeli zgłoszenie, którym 21 ust. 1, nie zawiera żądań lub informacji umożliwiających nadanie mu dalszego biegu, Komisja, drodze uchwały, pozostawia zgłoszenie bez rozpoznania z podaniem przyczyny.
 
-2. Przed podjęciem uchwały, której ust. 1, Komisja wzywa osobę zgłaszającą do uzupełnienia zgłoszenia żądania lub informacje umożliwiające nadanie zgłoszeniu dalszego biegu, terminie nie krótszym niż 14 dni od dnia doręczenia osobie zgłaszającej wezwania do uzupełnienia braków zgłoszeniu.
+2. Przed podjęciem uchwały, ust. 1, Komisja wzywa osobę zgłaszającą do uzupełnienia zgłoszenia żądania lub informacje umożliwiające nadanie zgłoszeniu dalszego biegu, terminie nie krótszym niż 14 dni od dnia doręczenia osobie zgłaszającej wezwania do uzupełnienia braków zgłoszeniu.
 
-3. Odpis uchwały, której ust. 1, doręcza się osobie zgłaszającej z pouczeniem, że odwołanie nie przysługuje.
+3. Odpis uchwały, ust. 1, doręcza się osobie zgłaszającej z pouczeniem, że odwołanie nie przysługuje.
 
 4. Nieuzupełnienie braków wyznaczonym terminie nie wyłącza możliwości dokonania nowego zgłoszenia.
 
@@ -262,7 +262,7 @@ Art. 45–47. (pominięte)
 
 3. Złożenie Komisję oświadczenia wstąpieniu do postępowania na prawach oskarżyciela posiłkowego wymaga pisemnej zgody pokrzywdzonego złożonej Komisji. Zgoda może być udzielona także ustnie do protokołu na rozprawie głównej.
 
-4. Zgoda, której ust. 3, może być każdym czasie wycofana i skutkuje utratą uprawnienia Komisji do działania na prawach oskarżyciela posiłkowego. tym, a stosunku do innych uczestników postępowania z chwilą doręczenia im tego zawiadomienia sąd.
+4. Zgoda, ust. 3, może być każdym czasie wycofana i skutkuje utratą uprawnienia Komisji do działania na prawach oskarżyciela posiłkowego. tym, a stosunku do innych uczestników postępowania z chwilą doręczenia im tego zawiadomienia sąd.
 
 6. W zakresie nieuregulowanym ust. 3–5 do zgody pokrzywdzonego i jej cofnięcia przepisy 51 § 2 i 3 ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego stosuje się odpowiednio.
 
@@ -305,7 +305,7 @@ Art. 45–47. (pominięte)
 **Art. 27d.**
 
 - **37)** Członek Komisji jest wyłączony z mocy samej ustawy od udziału postępowaniu wyjaśniającym sprawie:
-- **1)** której jest osobą poszkodowaną lub osobą wskazaną jako sprawca aktach sprawy przekazanych prokuratora albo właściwy sąd lub pozostaje z tymi osobami takim stosunku prawnym, że wynik sprawy oddziaływa na jego prawa lub obowiązki;
+- **1)** jest osobą poszkodowaną lub osobą wskazaną jako sprawca aktach sprawy przekazanych prokuratora albo właściwy sąd lub pozostaje z tymi osobami takim stosunku prawnym, że wynik sprawy oddziaływa na jego prawa lub obowiązki;
 - **2)** swego małżonka, krewnych lub powinowatych linii prostej, krewnych bocznych do czwartego stopnia i powinowatych bocznych do drugiego stopnia albo osoby pozostającej z nim we wspólnym pożyciu;
 - **3)** osoby związanej z nim z tytułu przysposobienia, opieki lub kurateli;
 - **4)** jeżeli brał udział jako świadek lub biegły prawomocnie umorzonym postępowaniu karnym z powodu przedawnienia przestępstwa, którym 2; przekazanych prokuratora albo właściwy sąd;
@@ -349,11 +349,11 @@ Art. 45–47. (pominięte)
 
 5. Osoby, których ust. 2 i 3, mogą ustanowić pełnomocnika. Komisja nie ustanawia pełnomocnika z urzędu.
 
-6. Odmowa udzielenia osobę, której ust. 2 lub 3, odpowiedzi na pytania zadawane toku wysłuchania, odmowa poddania się badaniu biegłego, a także nieobecność tych osób na wysłuchaniu pomimo prawidłowego zaproszenia nie stanowią przeszkody do wydania Komisję postanowienia przedmiocie wpisu Rejestrze, jeżeli pozostałe dowody dają do tego podstawę.
+6. Odmowa udzielenia osobę, ust. 2 lub 3, odpowiedzi na pytania zadawane toku wysłuchania, odmowa poddania się badaniu biegłego, a także nieobecność tych osób na wysłuchaniu pomimo prawidłowego zaproszenia nie stanowią przeszkody do wydania Komisję postanowienia przedmiocie wpisu Rejestrze, jeżeli pozostałe dowody dają do tego podstawę.
 
 2. Komisja może toku wysłuchania zadawać pytania osobie wysłuchiwanej.
 
-3. W postępowaniu wyjaśniającym osoba wysłuchiwana, której 28 ust. 2 i 3 i ust. 2 1, ma prawo do:
+3. W postępowaniu wyjaśniającym osoba wysłuchiwana, 28 ust. 2 i 3 i ust. 2 1, ma prawo do:
 
 - **1)** uchylenia się od odpowiedzi na pytanie, jeżeli jej udzielenie mogłoby narazić tę osobę lub osobę dla niej najbliższą rozumieniu 115 § 11 ustawy z dnia 6 czerwca 1997 r. Kodeks karny na odpowiedzialność za przestępstwo lub przestępstwo skarbowe lub narazić na wydanie postanowienia wpisie Rejestrze;
 - **2)** odmowy odpowiedzi na pytania, gdy jest ona podejrzanym albo oskarżonym popełnienie przestępstwa pozostającego ścisłym związku z czynem stanowiącym przedmiot postępowania albo gdy za to przestępstwo została skazana;
@@ -380,7 +380,7 @@ Art. 45–47. (pominięte)
 
 **Art. 31.**
 
-- **43)** Komisja wysłuchuje osobę, której 28 ust. 2 i 3, obecności ustanowionego nią pełnomocnika, chyba że wyrazi zgodę na wysłuchanie pod nieobecność pełnomocnika.
+- **43)** Komisja wysłuchuje osobę, 28 ust. 2 i 3, obecności ustanowionego nią pełnomocnika, chyba że wyrazi zgodę na wysłuchanie pod nieobecność pełnomocnika.
 
 **Art. 31a.**
 
@@ -420,7 +420,7 @@ Art. 45–47. (pominięte)
 
 2. Jeżeli postępowaniu wyjaśniającym uczestniczy więcej niż jedna osoba poszkodowana, przypadku wniesienia sprzeciwu, którym ust. 2, postępowanie wyjaśniające umarza się części dotyczącej tej osoby poszkodowanej.
 
-3. Odpis uchwały, której ust. 1, doręcza się osobie poszkodowanej a uchwały, której ust. 2, również osobie wskazanej jako sprawca aktach sprawy przekazanych prokuratora albo właściwy sąd z pouczeniem, że odwołanie nie przysługuje. Osobę zgłaszającą powiadamia się umorzeniu postępowania wyjaśniającego.
+3. Odpis uchwały, ust. 1, doręcza się osobie poszkodowanej a uchwały, ust. 2, również osobie wskazanej jako sprawca aktach sprawy przekazanych prokuratora albo właściwy sąd z pouczeniem, że odwołanie nie przysługuje. Osobę zgłaszającą powiadamia się umorzeniu postępowania wyjaśniającego.
 
 **Art. 36a.**
 
@@ -515,7 +515,7 @@ Art. 45–47. (pominięte)
 
 2. Osobie zaproszonej lub osobie wezwanej Komisję charakterze świadka postępowaniu wyjaśniającym przysługuje zwrot kosztów podróży z miejsca ich zamieszkania do siedziby Urzędu Komisji, z tym że osobie wskazanej jako sprawca aktach sprawy przekazanych prokuratora albo właściwy sąd zwrot kosztów podróży przysługuje razie uprawomocnienia się postanowienia, którym 37 ust. 2, lub umorzenia postępowania wyjaśniającego całości z przyczyn określonych 36 ust. 2.
 
-3. Zwrot kosztów podróży przyznaje się na wniosek osoby, której ust. 2, złożony do protokołu lub na piśmie, terminie 7 dni od dnia zakończenia czynności z jej udziałem. W przypadku osoby wskazanej jako sprawca aktach sprawy przekazanych prokuratora albo właściwy sąd wniosek taki może być złożony na piśmie terminie 7 dni od dnia uprawomocnienia się postanowienia, którym 37 ust. 2, lub podjęcia uchwały umorzeniu postępowania wyjaśniającego całości z przyczyn określonych 36 ust. 2.
+3. Zwrot kosztów podróży przyznaje się na wniosek osoby, ust. 2, złożony do protokołu lub na piśmie, terminie 7 dni od dnia zakończenia czynności z jej udziałem. W przypadku osoby wskazanej jako sprawca aktach sprawy przekazanych prokuratora albo właściwy sąd wniosek taki może być złożony na piśmie terminie 7 dni od dnia uprawomocnienia się postanowienia, którym 37 ust. 2, lub podjęcia uchwały umorzeniu postępowania wyjaśniającego całości z przyczyn określonych 36 ust. 2.
 
 4. Wysokość kosztów podróży ustala i przyznaje ich zwrot drodze zarządzenia przewodniczący Komisji. Od zarządzenia przysługuje odwołanie do całego składu Komisji terminie 7 dni od dnia doręczenia tego zarządzenia. Rejestrze, a także na podstawie prawomocnego orzeczenia sądu oddalającego odwołanie lub wpisie Rejestrze.
 
@@ -526,7 +526,7 @@ Art. 45–47. (pominięte)
 - **1)** terminie 14 dni od dnia upływu terminu do wniesienia odwołania od postanowienia wpisie Rejestrze;
 - **2)** niezwłocznie po otrzymaniu prawomocnego orzeczenia sądu oddalającego odwołanie lub wpisie Rejestrze.
 
-4. Przed przekazaniem postanowienia, którym ust. 3, Komisja ustala bazie danych PESEL, czy osoba, stosunku do której Komisja wydała postanowienie wpisie Rejestrze, żyje. W przypadku śmierci tej osoby po zakończeniu postępowania wyjaśniającego postanowienie wpisie Rejestrze pozostawia się aktach postępowania wyjaśniającego, czym Komisja zawiadamia osobę poszkodowaną oraz osobę zgłaszającą.
+4. Przed przekazaniem postanowienia, którym ust. 3, Komisja ustala bazie danych PESEL, czy osoba, stosunku do Komisja wydała postanowienie wpisie Rejestrze, żyje. W przypadku śmierci tej osoby po zakończeniu postępowania wyjaśniającego postanowienie wpisie Rejestrze pozostawia się aktach postępowania wyjaśniającego, czym Komisja zawiadamia osobę poszkodowaną oraz osobę zgłaszającą.
 
 5. Jeżeli osoba wskazana jako sprawca aktach sprawy przekazanych prokuratora albo właściwy sąd zmarła przed wydaniem postanowienia wpisie Rejestrze, a Komisja powzięła informację jej śmierci po wydaniu tego postanowienia, Komisja, drodze uchwały, uchyla postanowienie wpisie Rejestrze i umarza postępowanie wyjaśniające; przepis 36 ust. 3 stosuje się odpowiednio.
 

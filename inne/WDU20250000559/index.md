@@ -23,7 +23,7 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2025-04-23 |
 | Data wydania | 2025-04-28 |
-| Ostatnia zmiana | 2026-03-20 |
+| Ostatnia zmiana | 2026-05-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000559) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/559/text.pdf) |
 
 2. Podany załączniku niniejszego obwieszczenia tekst jednolity nie obejmuje art. 3 i art. 4 24 lipca 2024 zmianie gospodarowaniu nieruchomościami rolnymi Skarbu Państwa oraz wstrzymaniu sprzedaży nieruchomości Zasobu Własności Rolnej Skarbu Państwa oraz zmianie niektórych ustaw (Dz. U. poz. 1230), które stanowią: „Art. 3. Do wejścia życie planu ogólnego gminy danej gminie przez plan ogólny gminy, którym mowa art. 2 ust. 1 pkt 1 lit. d zmienianej art. 2, rozumie się studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy.

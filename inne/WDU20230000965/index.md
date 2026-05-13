@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# Warszawa, dnia 19 maja 2023 965
+# Warszawa, dnia 19 maja 2023 Poz.
 
 | Pole | Wartość |
 |---|---|
@@ -36,7 +36,7 @@ USTAWA z dnia 9 maja 2023 zmianie ustawy zwrocie podatku akcyzowego zawartego ce
 
 **Art. 4.** W 2023 zwrot podatku za olej napędowy zakupiony od dnia sierpnia 2022 dnia 31 lipca 2023 składa się odniesieniu świń, owiec, kóz i terminie od dnia sierpnia dnia 31 sierpnia wraz z fakturami VAT albo ich kopiami, stanowiącymi dowód zakupu tego oleju napędowego tym okresie.
 
-**Art. 5.** W 2023 wniosku zwrot podatku za olej napędowy zakupiony od dnia sierpnia 2022 dnia 31 lipca 2023 odniesieniu koni, zamiast dokumentu, mowa art. 6 3 pkt 6 ustawy zmienianej art. 1, dołącza się oświadczenie rolnego posiadaniu tego 2022 odniesieniu każdej siedziby stada tego producenta. Składający oświadczenie jest obowiązany zawarcia nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu odpowiedzialności karnej za składanie fałszywych oświadczeń.
+**Art. 5.** W 2023 wniosku zwrot podatku za olej napędowy zakupiony od dnia sierpnia 2022 dnia 31 lipca 2023 odniesieniu koni, zamiast dokumentu, mowa art. 6 3 pkt 6 ustawy zmienianej art. 1, dołącza się rolnego liczbie jednostek tego 2022 odniesieniu każdej siedziby stada tego producenta. Składający jest obowiązany zawarcia nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
 **Art. 6.** W 2023 wzór wniosku zwrot podatku za olej napędowy zakupiony od dnia sierpnia 2022 dnia 31 lipca 2023 odniesieniu świń, owiec, kóz i udostępnia się Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego spraw rozwoju wsi.
 

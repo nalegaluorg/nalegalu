@@ -21,7 +21,7 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2009-11-05 |
 | Data wydania | 2012-07-26 |
-| Ostatnia zmiana | 2026-03-20 |
+| Ostatnia zmiana | 2026-05-12 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000855) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/855/text.pdf) |
 
 USTAWA dnia 5 listopada 2009 o spółdzielczych kasach oszczędnościowo-kredytowych

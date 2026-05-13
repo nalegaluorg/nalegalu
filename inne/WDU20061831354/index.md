@@ -144,7 +144,7 @@ domain: null
 
 **Art. 14.** Wustawie zdnia 14 grudnia 1994 oBankowym Funduszu Gwarancyjnym (Dz. U. z2000 9, 131, póên. zm. ) art. 14 3 otrzymuje brzmienie: Ń3. Nie nalicza się obowiązkowej opłaty rocznej od aktywów Krajowego Funduszu Mieszkaniowego, Krajowego Funduszu Poręczeń Kredytowych, Funduszu Termomodernizacji, Funduszu Dopłat oraz Krajowego Funduszu Drogowego, utworzonych wBanku Gospodarstwa Krajowego, oraz od środków zgromadzonych na rachunku rezerw poręczeniowych gwarancyjnych Skarbu Państwa tym banku.”.
 
-**Art. 15.** Wustawie zdnia 14 grudnia 1995 ospółdzielczych kasach oszczędnościowo-kredytowych (Dz.U. z1996 1, 2, zpóên. zm. dnia 29 sierpnia 1997 Ordynacja podatkowa (Dz. U. 2005 8, 60, póên. zm. ) wprowadza się następujące zmiany:
+**Art. 15.** Wustawie zdnia 14 grudnia 1995 ospółdzielczych kasach oszczędnościowo-kredytowych (Dz.U. z1996 1, 2, zpóên. zm. dnia 29 sierpnia 1997 Ordynacja podatkowa (Dz. U. 2005 60, póên. zm. ) wprowadza się następujące zmiany:
 
 **Art. 16.** Wustawie zdnia 5 grudnia 2002 odopłatach oprocentowania kredytów mieszkaniowych o stałej stopie procentowej (Dz. U. 230, 1922 oraz 2004 19, 177 146, 1546) wprowadza się następujące zmiany:
 

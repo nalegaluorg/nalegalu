@@ -26,11 +26,11 @@ domain: null
 
 USTAWA dnia 7 lipca zmianie podatku od towarów usług niektórych innych ustaw
 
-**Art. 1.** W ustawie dnia 11 marca 2004 podatku od towarów usług (Dz. U. 710, 846 960) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie dnia 11 marca 2004 podatku od towarów usług (Dz. 710, 846 960) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie dnia 10 kwietnia 1997 Prawo energetyczne (Dz. U. 2012 1059, późn. zm. ) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie dnia 10 kwietnia 1997 Prawo energetyczne (Dz. 2012 1059, późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 3.** W ustawie dnia 10 września 1999 Kodeks karny skarbowy (Dz. U. 2013 186, późn. zm. ) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie dnia 10 września 1999 Kodeks karny skarbowy (Dz. 2013 186, późn. zm. ) wprowadza się następujące zmiany:
 
 **Art. 69c.**
 
@@ -38,9 +38,9 @@ USTAWA dnia 7 lipca zmianie podatku od towarów usług niektórych innych ustaw
 
 § 2. W wypadku mniejszej wagi, sprawca czynu zabronionego określonego § 1 podlega karze grzywny za wykroczenie skarbowe.”.
 
-**Art. 4.** W ustawie dnia 16 lutego 2007 zapasach ropy naftowej, produktów naftowych gazu ziemnego zasadach postępowania sytuacjach zagrożenia bezpieczeństwa paliwowego państwa zakłóceń na rynku naftowym (Dz. U. 1695 266 352) wprowadza się następujące zmiany:
+**Art. 4.** W ustawie dnia 16 lutego 2007 zapasach ropy naftowej, produktów naftowych gazu ziemnego zasadach postępowania sytuacjach zagrożenia bezpieczeństwa paliwowego państwa zakłóceń na rynku naftowym (Dz. 1695 266 352) wprowadza się następujące zmiany:
 
-**Art. 5.** W ustawie dnia 6 grudnia 2008 podatku akcyzowym (Dz. U. 752, późn. zm. ) wprowadza się następujące zmiany:
+**Art. 5.** W ustawie dnia 6 grudnia 2008 podatku akcyzowym (Dz. 752, późn. zm. ) wprowadza się następujące zmiany:
 
 **Art. 6.**
 

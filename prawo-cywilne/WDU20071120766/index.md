@@ -24,35 +24,35 @@ domain: null
 | Ostatnia zmiana | 2024-04-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071120766) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/766/text.pdf) |
 
-**Art. 1.** W ustawie dnia 17 listopada 1964 296, póên. zm. Kodeks postępowania cywilnego (Dz. U. 43, ) wprowadza się następujące zmiany: Warszawa, dnia 27 czerwca 2007 USTAWA dnia 15 marca 2007 o zmianie ustawy Kodeks postępowania cywilnego, ustawy Kodeks postępowania karnego oraz o zmianie niektórych innych ustaw ——————— Ń§ 1. Wpierwszej instancji sąd rozpoznaje sprawy składzie jednego sędziego, chyba że przepis szczególny stanowi inaczej.
+**Art. 1.** W ustawie dnia 17 listopada 1964 poz. 296, póên. zm. Kodeks postępowania cywilnego (Dz. U. 43, ) wprowadza się następujące zmiany: Warszawa, dnia 27 czerwca 2007 USTAWA dnia 15 marca 2007 o zmianie ustawy Kodeks postępowania cywilnego, ustawy Kodeks postępowania karnego oraz o zmianie niektórych innych ustaw ——————— Ń§ 1. Wpierwszej instancji sąd rozpoznaje sprawy składzie jednego sędziego, chyba że przepis szczególny stanowi inaczej.
 
-**Art. 2.** W ustawie dnia 26 paêdziernika 1982 o postępowaniu sprawach nieletnich (Dz. U. z2002r. 11, 109, zpóên. zm. nia zatrudnieniu o roszczenia tym związane,
+**Art. 2.** W ustawie dnia 26 paêdziernika 1982 o postępowaniu sprawach nieletnich (Dz. U. z2002r. 11, poz. 109, zpóên. zm. nia zatrudnieniu o roszczenia tym związane,
 
-**Art. 3.** W ustawie dnia 7 kwietnia 1989 Prawo o stowarzyszeniach (Dz. U. 2001 79, poz.855, 2003 96, 874 oraz 2004 102,
+**Art. 3.** W ustawie dnia 7 kwietnia 1989 Prawo o stowarzyszeniach (Dz. U. 2001 79, poz.855, 2003 96, poz. 874 oraz 2004 102, poz. 1055) art. 32 otrzymuje brzmienie: ŃArt. 32. Wnioski, o których mowa art. 29 1 art.31, sąd rozpoznaje na rozprawie postępowaniu nieprocesowym rejestrowym.”.
 
-**Art. 4.** W ustawie dnia 27 września 1990 o wyborze Prezydenta Rzeczypospolitej Polskiej (Dz. U. z2000 47, 544, zpóên. zm. ) wprowadza się następujące zmiany: ——————— Ń2. Sąd rozpatruje sprawę postępowaniu nieprocesowym wterminie 3 dni od daty wniesienia skargi. Postanowienie sądu doręcza się osobie, która wniosła skargę, oraz organowi, który sporządził spis. Od postanowienia sądu nie przysługują środki odwoławcze.”;
+**Art. 4.** W ustawie dnia 27 września 1990 o wyborze Prezydenta Rzeczypospolitej Polskiej (Dz. U. z2000 47, poz. 544, zpóên. zm. ) wprowadza się następujące zmiany: ——————— Ń2. Sąd rozpatruje sprawę postępowaniu nieprocesowym wterminie 3 dni od daty wniesienia skargi. Postanowienie sądu doręcza się osobie, która wniosła skargę, oraz organowi, który sporządził spis. Od postanowienia sądu nie przysługują środki odwoławcze.”;
 
 **Art. 5.** W ustawie dnia 19 sierpnia 1994 o ochronie zdrowia psychicznego (Dz. U. 111, poz.535, póên. zm. ) art. 45 1 otrzymuje brzmienie: Ń1. W sprawach określonych art. 25, 29, 36 3 art. 39 sąd opiekuńczy orzeka po przeprowadzeniu rozprawy; rozprawa powinna się odbyć nie póêniej niż terminie 14 dni od dnia wpływu wniosku lub otrzymania zawiadomienia, októrym mowa art. 23 4.”.
 
-**Art. 6.** Wustawie zdnia 14 grudnia 1995 oizbach rolniczych (Dz. U. 2002 101, 927, 113, 984 153, 1271 oraz 2006 200, poz.1472) art. 28 6 otrzymuje brzmienie: Ń6. Sąd rozpoznaje skargę postępowaniu nieprocesowym terminie 3 dni od daty wniesienia skargi. Postanowienie sądu doręcza się osobie, która wniosła skargę, oraz organowi, który sporządził spis. Od postanowienia sądu nie przysługują środki odwoławcze.”.
+**Art. 6.** Wustawie zdnia 14 grudnia 1995 oizbach rolniczych (Dz. U. 2002 101, poz. 927, 113, poz. 984 153, poz. 1271 oraz 2006 200, poz.1472) art. 28 6 otrzymuje brzmienie: Ń6. Sąd rozpoznaje skargę postępowaniu nieprocesowym terminie 3 dni od daty wniesienia skargi. Postanowienie sądu doręcza się osobie, która wniosła skargę, oraz organowi, który sporządził spis. Od postanowienia sądu nie przysługują środki odwoławcze.”.
 
-**Art. 7.** W ustawie dnia 6 grudnia 1996 o zastawie rejestrowym rejestrze zastawów (Dz. U. 149, 703, póên. zm. ka o zabezpieczenie roszczeń wynikających zastawu rejestrowego sąd rozpoznaje na posiedzeniu niejawnym.”.
+**Art. 7.** W ustawie dnia 6 grudnia 1996 o zastawie rejestrowym rejestrze zastawów (Dz. U. 149, poz. 703, póên. zm. ka o zabezpieczenie roszczeń wynikających zastawu rejestrowego sąd rozpoznaje na posiedzeniu niejawnym.”.
 
-**Art. 8.** W ustawie dnia 6 czerwca 1997 Kodeks postępowania karnego (Dz. U. 89, 555, póên. zm. ) art. 31 1 otrzymuje brzmienie: ) wprowadza się następujące zmiany:
+**Art. 8.** W ustawie dnia 6 czerwca 1997 Kodeks postępowania karnego (Dz. U. 89, poz. 555, póên. zm. ) art. 31 1 otrzymuje brzmienie: ) wprowadza się następujące zmiany:
 
-**Art. 9.** W ustawie dnia 6 czerwca 1997 Przepisy wprowadzające Kodeks postępowania karnego (Dz. U. 89, 556, póên. zm. poz.753, póên. zm. ) art. 12 pkt 8 otrzymuje brzmienie: Ń8) wsprawie ozbrodnię popełnioną na szkodę osoby niebędącej żołnierzem, na wniosek pokrzywdzonego złożony terminie 7 dni od doręczenia mu zawiadomienia prokuratora wojskowego o przesłaniu aktu oskarżenia do sądu wojskowego zpouczeniem, októrym mowa wpkt 7, prezes tego sądu, jeżeli nie zachodzi wypadek przewidziany art. 28 § 3 Kodeksu postępowania karnego, wyznacza do składu orzekającego zamiast ławników żołnierzy ławników sądu powszechnego; wypadku określonym art. 55 § 1 Ko) wprowadza się następujące zmiany:
+**Art. 9.** W ustawie dnia 6 czerwca 1997 Przepisy wprowadzające Kodeks postępowania karnego (Dz. U. 89, poz. 556, póên. zm. poz.753, póên. zm. ) art. 12 pkt 8 otrzymuje brzmienie: Ń8) wsprawie ozbrodnię popełnioną na szkodę osoby niebędącej żołnierzem, na wniosek pokrzywdzonego złożony terminie 7 dni od doręczenia mu zawiadomienia prokuratora wojskowego o przesłaniu aktu oskarżenia do sądu wojskowego zpouczeniem, októrym mowa wpkt 7, prezes tego sądu, jeżeli nie zachodzi wypadek przewidziany art. 28 § 3 Kodeksu postępowania karnego, wyznacza do składu orzekającego zamiast ławników żołnierzy ławników sądu powszechnego; wypadku określonym art. 55 § 1 Ko) wprowadza się następujące zmiany:
 
-**Art. 11.** W ustawie dnia 16 lipca 1998 Ordynacja wyborcza do rad gmin, rad powiatów isejmików województw (Dz. U. z2003 159, 1547, zpóên. zm. ) wprowadza się następujące zmiany:
+**Art. 11.** W ustawie dnia 16 lipca 1998 Ordynacja wyborcza do rad gmin, rad powiatów isejmików województw (Dz. U. z2003 159, poz. 1547, zpóên. zm. ) wprowadza się następujące zmiany:
 
-**Art. 13.** W ustawie dnia 15 września 2000 o referendum lokalnym (Dz. U. 88, 985, póên. zm. ) art. 35 2 otrzymuje brzmienie: Ń2. Sąd okręgowy rozpoznaje wniosek, októrym mowa 1, ciągu 24 godzin postępowaniu nieprocesowym. Sąd może rozpoznać sprawę przypadku usprawiedliwionej nieobecności wnioskodawcy lub uczestnika postępowania, pod warunkiem że o terminie rozprawy zostali oni prawidłowo powiadomieni. Postanowienie kończące postępowanie sprawie sąd niezwłocznie doręcza osobie zainteresowanej, o której mowa 1, zobowiązanemu do wykonania postanowienia.”.
+**Art. 13.** W ustawie dnia 15 września 2000 o referendum lokalnym (Dz. U. 88, poz. 985, póên. zm. ) art. 35 2 otrzymuje brzmienie: Ń2. Sąd okręgowy rozpoznaje wniosek, októrym mowa 1, ciągu 24 godzin postępowaniu nieprocesowym. Sąd może rozpoznać sprawę przypadku usprawiedliwionej nieobecności wnioskodawcy lub uczestnika postępowania, pod warunkiem że o terminie rozprawy zostali oni prawidłowo powiadomieni. Postanowienie kończące postępowanie sprawie sąd niezwłocznie doręcza osobie zainteresowanej, o której mowa 1, zobowiązanemu do wykonania postanowienia.”.
 
-**Art. 14.** Wustawie zdnia 12 kwietnia 2001 Ordynacja wyborcza do Sejmu Rzeczypospolitej Polskiej do Senatu Rzeczypospolitej Polskiej (Dz. U. 46, 499, póên. zm. nia sądu.”.
+**Art. 14.** Wustawie zdnia 12 kwietnia 2001 Ordynacja wyborcza do Sejmu Rzeczypospolitej Polskiej do Senatu Rzeczypospolitej Polskiej (Dz. U. 46, poz. 499, póên. zm. nia sądu.”.
 
 **Art. 15.** Wustawie zdnia 27 lipca 2001 Prawo o ustroju sądów powszechnych (Dz. U. 98, poz.1070, zpóên. zm. ) wprowadza się następujące zmiany:
 
-**Art. 16.** W ustawie dnia 14 marca 2003 o referendum ogólnokrajowym (Dz. U. 57, 507 iNr85, 782) wart. 44 2 otrzymuje brzmienie: Ń2. Sąd okręgowy rozpoznaje wniosek, októrym mowa 1, ciągu 24 godzin postępowaniu nieprocesowym. Sąd może rozpoznać sprawę przypadku usprawiedliwionej nieobecności wnioskodawcy lub uczestnika postępowania, którzy o terminie rozprawy zostali prawidłowo powiadomieni. Postanowienie kończące postępowanie sprawie sąd niezwłocznie doręcza, wraz uzasadnieniem, osobie, która złożyła wniosek, o którym mowa 1, zobowiązanemu do wykonania zobowiązania sądu.”.
+**Art. 16.** W ustawie dnia 14 marca 2003 o referendum ogólnokrajowym (Dz. U. 57, poz. 507 iNr85, poz. 782) wart. 44 2 otrzymuje brzmienie: Ń2. Sąd okręgowy rozpoznaje wniosek, októrym mowa 1, ciągu 24 godzin postępowaniu nieprocesowym. Sąd może rozpoznać sprawę przypadku usprawiedliwionej nieobecności wnioskodawcy lub uczestnika postępowania, którzy o terminie rozprawy zostali prawidłowo powiadomieni. Postanowienie kończące postępowanie sprawie sąd niezwłocznie doręcza, wraz uzasadnieniem, osobie, która złożyła wniosek, o którym mowa 1, zobowiązanemu do wykonania zobowiązania sądu.”.
 
-**Art. 17.** Wustawie zdnia 23 stycznia 2004 Ordynacja wyborcza do Parlamentu Europejskiego (Dz.U. 25, 219, z2006 218, 1592 oraz 2007 25, 162) wprowadza się następujące zmiany:
+**Art. 17.** Wustawie zdnia 23 stycznia 2004 Ordynacja wyborcza do Parlamentu Europejskiego (Dz.U. 25, poz. 219, z2006 218, poz. 1592 oraz 2007 25, poz. 162) wprowadza się następujące zmiany:
 
 **Art. 18.**
 
@@ -64,7 +64,7 @@ domain: null
 
 **Art. 19.** Ustawa wchodzi wżycie po upływie 30 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński 767 USTAWA dnia 10 maja 2007 o zmianie ustawy o szczególnych zasadach przygotowania realizacji inwestycji zakresie dróg publicznych oraz o zmianie ustawy o zmianie ustawy o szczególnych zasadach przygotowania realizacji inwestycji zakresie dróg krajowych oraz o zmianie niektórych innych ustaw
 
-**Art. 1.** Wustawie zdnia 10 kwietnia 2003 oszczególnych zasadach przygotowania realizacji inwestycji wzakresie dróg publicznych (Dz. U. 80, 721, póên. zm.
+**Art. 1.** Wustawie zdnia 10 kwietnia 2003 oszczególnych zasadach przygotowania realizacji inwestycji wzakresie dróg publicznych (Dz. U. 80, poz. 721, póên. zm.
 
-**Art. 2.** W ustawie dnia 18 paêdziernika 2006 o zmianie ustawy o szczególnych zasadach przygotowania irealizacji inwestycji wzakresie dróg krajowych ) art. 18 1 otrzymuje brzmienie: oraz ozmianie niektórych innych ustaw (Dz. U. 220,
+**Art. 2.** W ustawie dnia 18 paêdziernika 2006 o zmianie ustawy o szczególnych zasadach przygotowania irealizacji inwestycji wzakresie dróg krajowych ) art. 18 1 otrzymuje brzmienie: oraz ozmianie niektórych innych ustaw (Dz. U. 220, poz. 1601) wart. 5 dotychczasową treść oznacza się jaŃ1. Wysokość odszkodowania, o którym mowa ko 1 dodaje się 2 brzmieniu: wart. 12 4, ustala się według stanu nieruchomości dniu wydania decyzji o ustaleniu lokali- Ń2. Do nieruchomości objętych decyzjami o ustalezacji drogi przez organ I instancji oraz według jej niu lokalizacji drogi krajowej, wydanymi na podwartości wdniu wydania decyzji ustalającej wyso- stawie dotychczasowych przepisów, stosuje się kość odszkodowania. Do ustalenia wartości nieru- przepisy rozdziału 3 ustawy, o której mowa chomości mają zastosowanie odpowiednio prze- art. 1, jego dotychczasowym brzmieniu.”. pisy o gospodarce nieruchomościami. W odniesieniu do lokali mieszkalnych ustalona wartość
 

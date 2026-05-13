@@ -12,7 +12,7 @@ domain: null
 
 # Ustawa z dnia 28 czerwca 2012 r. o spłacie niektórych niezaspokojonych należności przedsiębiorców, wynikających z realizacji udzielonych zamówień publicznych
 
-*USTAWA 28 czerwca spłacie niektórych niezaspokojonych należności przedsiębiorców, wynikających realizacji udzielonych zamówień publicznych*
+*USTAWA 28 czerwca 2012 spłacie niektórych niezaspokojonych należności przedsiębiorców, wynikających realizacji udzielonych zamówień publicznych*
 
 | Pole | Wartość |
 |---|---|
@@ -28,55 +28,55 @@ domain: null
 
 **Art. 1.**
 
-1. Ustawa określa zasady spłaty przez Generalnego Dyrektora Dróg Krajowych i Autostrad niezaspokojonych przez wykonawcę należności głównych przedsiębiorcy, który zawarł umowę wykonawcą związku realizacją zamówienia publicznego roboty budowlane udzielonego przez Generalnego Dyrektora Dróg Krajowych i Autostrad, wyłącznie za zrealizowane i odebrane prace, zwanych dalej „należnościami”.
+1. Ustawa określa zasady spłaty przez Generalnego Dyrektora Dróg Krajowych Autostrad niezaspokojonych przez wykonawcę należności głównych przedsiębiorcy, który zawarł umowę wykonawcą związku realizacją zamówienia publicznego roboty budowlane udzielonego przez Generalnego Dyrektora Dróg Krajowych Autostrad, wyłącznie za zrealizowane odebrane prace, zwanych dalej „należnościami”.
 
-2. Przepisy nie mają zastosowania do należności, które mogą być zaspokojone podstawie 647 23 kwietnia 1964 Kodeks cywilny (Dz. 16, 93, późn. zm. ).
+2. Przepisy ustawy nie mają zastosowania do należności, które mogą być zaspokojone podstawie art. 647 ustawy 23 kwietnia 1964 Kodeks cywilny (Dz. U. 16, 93, późn. zm. ).
 
-**Art. 2.** Generalny Dyrektor Dróg Krajowych i Autostrad, zwany dalej „Generalnym Dyrektorem”, spłaca należności do wysokości równej kwocie zabezpieczenia, którym mowa 147 29 stycznia 2004 Prawo zamówień publicznych (Dz. 113, 759, późn. zm. ) ze środków pochodzących Krajowego Funduszu Drogowego.
+**Art. 2.** Generalny Dyrektor Dróg Krajowych Autostrad, zwany dalej „Generalnym Dyrektorem”, spłaca należności do wysokości równej kwocie zabezpieczenia, którym mowa art. 147 ustawy 29 stycznia 2004 Prawo zamówień publicznych (Dz. U. 2010 113, 759, późn. zm. ) ze środków pochodzących Krajowego Funduszu Drogowego.
 
-**Art. 3.** Przepisy stosuje się do zamówień publicznych rozumieniu 2 pkt 13 29 stycznia 2004 Prawo zamówień publicznych, których przedmiotem są roboty budowlane rozumieniu 3 pkt 7 7 lipca 1994 Prawo budowlane (Dz. 243, 1623, późn. zm. ), co do których Generalny Dyrektor wszczął postępowanie udzielenie zamówienia lub udzielił zamówienia przed dniem wejścia życie ustawy, ile zabezpieczenie, którym mowa 147 29 stycznia 2004 Prawo zamówień publicznych, nie zostało zwrócone wykonawcy zgodnie 151 tej ustawy.
+**Art. 3.** Przepisy ustawy stosuje się do zamówień publicznych rozumieniu art. 2 pkt 13 ustawy 29 stycznia 2004 Prawo zamówień publicznych, których przedmiotem są roboty budowlane rozumieniu art. 3 pkt 7 ustawy 7 lipca 1994 Prawo budowlane (Dz. U. 2010 243, 1623, późn. zm. ), co do których Generalny Dyrektor wszczął postępowanie udzielenie zamówienia lub udzielił zamówienia przed dniem wejścia życie ustawy, ile zabezpieczenie, którym mowa art. 147 ustawy 29 stycznia 2004 Prawo zamówień publicznych, nie zostało zwrócone wykonawcy zgodnie art. 151 tej ustawy.
 
 **Art. 4.** Użyte ustawie określenia oznaczają:
 
-**Art. 6.** Przedsiębiorcom umieszczonym liście, której mowa 5 ust. 3, poczet należności jest wypłacana zaliczka, niezwłocznie po doręczeniu przez nich:
+**Art. 6.** Przedsiębiorcom umieszczonym liście, której mowa art. 5 ust. 3, poczet należności jest wypłacana zaliczka, niezwłocznie po doręczeniu przez nich:
 
 **Art. 7.**
 
-1. Przedsiębiorcom umieszczonym liście, której mowa 5 ust. 3, jest wypłacana kwota należności lub kwota ustalona zgodnie 5 ust. 4, pomniejszona kwotę zaliczki, po doręczeniu przez nich:
+1. Przedsiębiorcom umieszczonym liście, której mowa art. 5 ust. 3, jest wypłacana kwota należności lub kwota ustalona zgodnie art. 5 ust. 4, pomniejszona kwotę zaliczki, po doręczeniu przez nich:
 
 - **1)** prawomocnego orzeczenia sądu albo
-- **2)** ugody zawartej przed sądem sprawie między przedsiębiorcą i wykonawcą, opatrzonej klauzulą wykonalności, albo
-- **3)** listy wierzytelności pod warunkiem niezłożenia stosunku do danej wierzytelności sprzeciwu, którym mowa 256 28 lutego 2003 Prawo upadłościowe i naprawcze lub zatwierdzonej przez sędziego-komisarza listy wierzytelności r
+- **2)** ugody zawartej przed sądem sprawie między przedsiębiorcą wykonawcą, opatrzonej klauzulą wykonalności, albo
+- **3)** listy wierzytelności pod warunkiem niezłożenia stosunku do danej wierzytelności sprzeciwu, którym mowa art. 256 ustawy 28 lutego 2003 Prawo upadłościowe naprawcze lub zatwierdzonej przez sędziego-komisarza listy wierzytelności r
 
 **Art. 8.**
 
-1. Do dokumentów, których mowa 5 ust. 2, 6 i 7 ust. 1, przedsiębiorca dołącza oświadczenie, iż należności wymienione tych dokumentach wynikają ze zrealizowanych i odebranych prac związanych realizacją zamówienia publicznego oraz że nie są objęte gwarancją udzieloną przez wykonawcę lub nie zostały zaspokojone.
+1. Do dokumentów, których mowa art. 5 ust. 2, art. 6 art. 7 ust. 1, przedsiębiorca dołącza oświadczenie, iż należności wymienione tych dokumentach wynikają ze zrealizowanych odebranych prac związanych realizacją zamówienia publicznego że nie są objęte gwarancją udzieloną przez wykonawcę lub nie zostały zaspokojone.
 
-2. Oświadczenia, których mowa ust. 1 i 7 ust. 3, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań. Składający oświadczenie jest obowiązany do zawarcia nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie nieprawdziwego oświadczenia.”. Klauzula ta zastępuje pouczenie odpowiedzialności karnej za składanie fałszywych zeznań.
+2. Oświadczenia, których mowa ust. 1 art. 7 ust. 3, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań. Składający oświadczenie jest obowiązany do zawarcia nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie nieprawdziwego oświadczenia.”. Klauzula ta zastępuje pouczenie odpowiedzialności karnej za składanie fałszywych zeznań.
 
-3. W przypadku przedsiębiorcy będącego osobą prawną, oświadczenia, których mowa ust. 1 i 7 ust. 3, składa osoba uprawniona do reprezentowania takiego przedsiębiorcy.
+3. W przypadku przedsiębiorcy będącego osobą prawną, oświadczenia, których mowa ust. 1 art. 7 ust. 3, składa osoba uprawniona do reprezentowania takiego przedsiębiorcy.
 
-**Art. 9.** W przypadku gdy kwota należności umieszczonych liście, której mowa 5 ust. 3, jest mniejsza niż kwota zabezpieczenia, którym mowa 147 29 stycznia 2004 Prawo zamówień publicznych, Generalny Dyrektor może ponownie sporządzić listę przedsiębiorców, której mowa 5 ust. 3. Przepisy 5–8 stosuje się.
+**Art. 9.** W przypadku gdy kwota należności umieszczonych liście, której mowa art. 5 ust. 3, jest mniejsza niż kwota zabezpieczenia, którym mowa art. 147 ustawy 29 stycznia 2004 Prawo zamówień publicznych, Generalny Dyrektor może ponownie sporządzić listę przedsiębiorców, której mowa art. 5 ust. 3. Przepisy art. 5–8 stosuje się.
 
 **Art. 10.**
 
-1. W przypadku ogłoszenia upadłości wykonawcy Generalny Dyrektor zawiadamia sędziego-komisarza przedsiębiorcach, którym wypłacono należności, oraz ich wysokości.
+1. W przypadku ogłoszenia upadłości wykonawcy Generalny Dyrektor zawiadamia sędziego-komisarza przedsiębiorcach, którym wypłacono należności, ich wysokości.
 
-2. W przypadku niezaspokojenia należności podstawie przepisów podlegają one zaspokojeniu majątku wykonawcy.
+2. W przypadku niezaspokojenia należności podstawie przepisów ustawy podlegają one zaspokojeniu majątku wykonawcy.
 
 **Art. 11.**
 
 1. Generalnemu Dyrektorowi przysługuje wobec wykonawcy roszczenie zwrot środków wypłaconych podstawie ustawy.
 
-2. Generalnemu Dyrektorowi przysługuje wobec przedsiębiorcy roszczenie zwrot zaliczki, której mowa 6, przypadku gdy należność nie została potwierdzona dokumentami określonymi 7 ust. 1 i oświadczeniem określonym 7 ust. 3.
+2. Generalnemu Dyrektorowi przysługuje wobec przedsiębiorcy roszczenie zwrot zaliczki, której mowa art. 6, przypadku gdy należność nie została potwierdzona dokumentami określonymi art. 7 ust. 1 oświadczeniem określonym art. 7 ust. 3.
 
-3. Kwoty odzyskane zgodnie ust. 1 i 2 Generalny Dyrektor przekazuje niezwłocznie rachunek Krajowego Funduszu Drogowego.
+3. Kwoty odzyskane zgodnie ust. 1 2 Generalny Dyrektor przekazuje niezwłocznie rachunek Krajowego Funduszu Drogowego.
 
-**Art. 12.** Jeżeli zabezpieczenie, którym mowa 147 29 stycznia 2004 Prawo zamówień publicznych, zostało wniesione pieniądzu, nie wchodzi skład masy upadłości.
+**Art. 12.** Jeżeli zabezpieczenie, którym mowa art. 147 ustawy 29 stycznia 2004 Prawo zamówień publicznych, zostało wniesione pieniądzu, nie wchodzi skład masy upadłości.
 
 **Art. 13.**
 
-1. W zakresie niezbędnym do przeznaczania, zgodnie 2, środków Krajowego Funduszu Drogowego spłaty należności oraz zakresie niezbędnym do przekazywania, zgodnie 11 ust. 3, odzyskanych kwot, Bank Gospodarstwa Krajowego opracuje projekt zmiany planu finansowego Krajowego Funduszu Drogowego, którym mowa 39n ust. 1 27 października 1994 autostradach płatnych oraz Krajowym Funduszu Drogowym (Dz. 2004 256, 2571, późn. zm. ), rok 2012, terminie 14 dni od wejścia życie ustawy.
+1. W zakresie niezbędnym do przeznaczania, zgodnie art. 2, środków Krajowego Funduszu Drogowego spłaty należności zakresie niezbędnym do przekazywania, zgodnie art. 11 ust. 3, odzyskanych kwot, Bank Gospodarstwa Krajowego opracuje projekt zmiany planu finansowego Krajowego Funduszu Drogowego, którym mowa art. 39n ust. 1 ustawy 27 października 1994 autostradach płatnych Krajowym Funduszu Drogowym (Dz. U. 2004 256, 2571, późn. zm. ), rok 2012, terminie 14 dni od wejścia życie ustawy.
 
 2. Projekt zmiany planu, którym mowa ust. 1, podlega, terminie 30 dni od wejścia życie ustawy:
 

@@ -26,9 +26,9 @@ domain: null
 
 USTAWA 19 kwietnia 2013 zmianie ustawy izbach lekarskich oraz niektórych innych ustaw
 
-**Art. 1.** W ustawie 2 grudnia 2009 izbach lekarskich (Dz. U. Nr 219, poz. 1708 oraz 2011 Nr 112, poz. 654 Nr 113, poz. 657) 95:
+**Art. 1.** W ustawie 2 grudnia 2009 izbach lekarskich (Dz. U. 219, poz. 1708 oraz 2011 112, poz. 654 113, poz. 657) 95:
 
-**Art. 2.** W ustawie 21 grudnia 1990 zawodzie lekarza weterynarii izbach lekarsko-weterynaryjnych (Dz. U. 2009 Nr 93, poz. 767 oraz 2010 Nr 200, poz. 1326) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie 21 grudnia 1990 zawodzie lekarza weterynarii izbach lekarsko-weterynaryjnych (Dz. U. 2009 93, poz. 767 oraz 2010 200, poz. 1326) wprowadza się następujące zmiany:
 
 **Art. 46b.**
 
@@ -42,7 +42,7 @@ USTAWA 19 kwietnia 2013 zmianie ustawy izbach lekarskich oraz niektórych innych
 
 **Art. 46c.**
 
-1. Kasacja może być wniesiona powodu uchybień wymienionych 439 § ustawy 6 czerwca 1997 Kodeks postępowania karnego (Dz. U. Nr 89, poz. 555, późn. zm. ) lub innego rażącego naruszenia prawa. Kasacja może być wniesiona również powodu niewspółmierności kary.
+1. Kasacja może być wniesiona powodu uchybień wymienionych 439 § ustawy 6 czerwca 1997 Kodeks postępowania karnego (Dz. U. 89, poz. 555, późn. zm. ) lub innego rażącego naruszenia prawa. Kasacja może być wniesiona również powodu niewspółmierności kary.
 
 2. Niedopuszczalne jest uwzględnienie kasacji na niekorzyść obwinionego wniesionej po upływie 6 miesięcy od uprawomocnienia się orzeczenia.
 
@@ -64,9 +64,9 @@ USTAWA 19 kwietnia 2013 zmianie ustawy izbach lekarskich oraz niektórych innych
 4. Organ prowadzący postępowanie przedmiocie odpowiedzialności zawodowej może ograniczyć osobie, której mowa ust. 1, dostęp do akt sprawy zakresie przewidzianym ustawach.”; „1. W sprawach nieuregulowanych ustawie do postępowania przedmiocie odpowiedzialności zawodowej stosuje się odpowiednio przepisy:
 
 - **1)** ustawy 6 czerwca 1997 Kodeks postępowania karnego dotyczące postępowania uproszczonego; nie stosuje się przepisów oskarżycielu prywatnym, powodzie cywilnym, przedstawicielu społecznym, postępowaniu przygotowawczym oraz środkach przymusu, wyjątkiem przepisów karze pieniężnej;
-- **2)** rozdziałów I–III 53 ustawy 6 czerwca 1997 Kodeks karny (Dz. U. 1997 Nr 88, poz. 553, późn. zm. ).”.
+- **2)** rozdziałów I–III 53 ustawy 6 czerwca 1997 Kodeks karny (Dz. U. 1997 88, poz. 553, późn. zm. ).”.
 
-**Art. 3.** W ustawie 19 kwietnia 1991 izbach aptekarskich (Dz. U. 2008 Nr 136, poz. 856, 2010 Nr 107, poz. 679 oraz 2011 Nr 113, poz. 657) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie 19 kwietnia 1991 izbach aptekarskich (Dz. U. 2008 136, poz. 856, 2010 107, poz. 679 oraz 2011 113, poz. 657) wprowadza się następujące zmiany:
 
 **Art. 46b.**
 
@@ -102,7 +102,7 @@ USTAWA 19 kwietnia 2013 zmianie ustawy izbach lekarskich oraz niektórych innych
 - **6)** 62 ust. otrzymuje brzmienie: „1. W sprawach nieuregulowanych ustawie do postępowania przedmiocie odpowiedzialności zawodowej stosuje się odpowiednio przepisy:
 - **1)** ustawy 6 czerwca 1997 Kodeks postępowania karnego dotyczące postępowania uproszczonego; nie stosuje się przepisów oskarżycielu prywatnym, powodzie cywilnym, przedstawicielu społecznym, postępowaniu przygotowawczym oraz środkach przymusu, wyjątkiem przepisów karze pieniężnej;
 
-**Art. 4.** W ustawie 27 lipca 2001 diagnostyce laboratoryjnej (Dz. U. 2004 Nr 144, poz. 1529, późn. zm. ) wprowadza się następujące zmiany:
+**Art. 4.** W ustawie 27 lipca 2001 diagnostyce laboratoryjnej (Dz. U. 2004 144, poz. 1529, późn. zm. ) wprowadza się następujące zmiany:
 
 **Art. 58b.**
 
@@ -138,7 +138,7 @@ USTAWA 19 kwietnia 2013 zmianie ustawy izbach lekarskich oraz niektórych innych
 
 - **8)** po 70 dodaje się 70a brzmieniu: „Art. 70a. W sprawach nieuregulowanych ustawie do postępowania przedmiocie odpowiedzialności dyscyplinarnej stosuje się odpowiednio przepisy:
 - **1)** ustawy 6 czerwca 1997 Kodeks postępowania karnego dotyczące postępowania uproszczonego; nie stosuje się przepisów oskarżycielu prywatnym, powodzie cywilnym, przedstawicielu społecznym, postępowaniu przygotowawczym oraz środkach przymusu, wyjątkiem przepisów karze pieniężnej;
-- **2)** rozdziałów I–III 53 ustawy 6 czerwca 1997 Kodeks karny (Dz. U. 1997 Nr 88, poz. 553, późn. zm. ).”.
+- **2)** rozdziałów I–III 53 ustawy 6 czerwca 1997 Kodeks karny (Dz. U. 1997 88, poz. 553, późn. zm. ).”.
 - **1)** ust. zdanie pierwsze otrzymuje brzmienie: „Od prawomocnego orzeczenia Naczelnego Sądu, wydanego drugiej instancji, kończącego postępowanie przedmiocie odpowiedzialności zawodowej, stronom, ministrowi właściwemu do spraw zdrowia Prezesowi Naczelnej Rady przysługuje kasacja do Sądu Najwyższego terminie 2 miesięcy od doręczenia orzeczenia.”;
 - **2)** uchyla się ust. 2 3.
 

@@ -28,7 +28,7 @@ USTAWA dnia 21 marca 2014 zmianie ustawy świadczeniach opieki zdrowotnej finans
 
 **Art. 1.** W ustawie dnia 27 sierpnia 2004 świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. 2008 164, 1027, późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie dnia 21 listopada 1967 powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. 2012 461, późn. zm. ) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie dnia 21 listopada 1967 powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. 461, późn. zm. ) wprowadza się następujące zmiany:
 
 **Art. 3.** W ustawie dnia 12 października 1990 Straży Granicznej (Dz. U. 2011 116, 675, późn. zm. ) art. 153 7a otrzymuje brzmienie: „7a. Funkcjonariusz służbie kandydackiej, na zasadach określonych ustawie dnia 27 sierpnia 2004 świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, ma prawo wyboru:
 

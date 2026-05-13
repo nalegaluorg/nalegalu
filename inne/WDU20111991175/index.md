@@ -21,7 +21,7 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2011-08-19 |
 | Data wydania | 2011-09-23 |
-| Ostatnia zmiana | 2026-03-24 |
+| Ostatnia zmiana | 2026-05-12 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111991175) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/1175/text.pdf) |
 
 3. Dostawca może spełnić obowiązek, którym mowa ust. 2, dostarczając, co najmniej formie elektronicznej, wzór umowy pojedynczą transakcję płatniczą lub formularz zlecenia płatniczego, zawierający informacje określone art. 23 ust. 1.

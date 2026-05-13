@@ -102,7 +102,7 @@ domain: null
 
 1. Przychodami są coroczne dotacje podmiotowe budżetu państwa, przeznaczone pokrycie bieżących kosztów realizacji zadań określonych 2.
 
-2. Ośrodek może prowadzić działalność gospodarczą zakresie realizacji swoich zadań, szczególności poprzez komercjalizację wyników prowadzonych badań działalność wydawniczą szkoleniową. c środków pochodzących dotacji budżetowych;
+2. Ośrodek może prowadzić działalność gospodarczą zakresie realizacji swoich zadań, szczególności poprzez komercjalizację wyników prowadzonych badań działalność wydawniczą szkoleniową. środków pochodzących dotacji budżetowych;
 
 - **5)** zapisów, spadków darowizn.
 
@@ -138,5 +138,5 @@ domain: null
 
 2. Przepis 9 ust. 4 nie ma zastosowania przy powoływaniu pierwszego składu Ośrodka.
 
-**Art. 22.** Ustawa wchodzi życie dniem 1 stycznia 2012 r. Prezydent Rzeczypospolitej Polskiej: B. Komorowski c
+**Art. 22.** Ustawa wchodzi życie dniem 1 stycznia 2012 r. Prezydent Rzeczypospolitej Polskiej: B. Komorowski
 

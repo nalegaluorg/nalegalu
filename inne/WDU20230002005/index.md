@@ -21,7 +21,7 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2023-08-30 |
 | Data wydania | 2023-09-26 |
-| Ostatnia zmiana | 2026-01-13 |
+| Ostatnia zmiana | 2026-04-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002005) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2005/text.pdf) |
 
 USTAWA z dnia 30 sierpnia 2023 r.

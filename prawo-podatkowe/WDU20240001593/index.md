@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# Poz.
+# Ustawa z dnia 27 września 2024 r. o zmianie ustawy o podatku dochodowym od osób fizycznych oraz niektórych innych ustaw
+
+*USTAWA dnia 27 września o zmianie o podatku dochodowym od osób fizycznych niektórych innych ustaw*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +26,6 @@ domain: null
 | Ostatnia zmiana | 2024-10-31 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001593) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1593/text.pdf) |
 
-USTAWA dnia 27 września o zmianie o podatku dochodowym od osób fizycznych niektórych innych ustaw
-
 **Art. 1.** W ustawie dnia 26 lipca 1991 o podatku dochodowym od osób fizycznych (Dz. U. poz. 226, późn. zm. ) wprowadza następujące zmiany: 9 5 zdaniu drugim wyrazy „art. 1” zastępuje wyrazami „art. 1, 1a i 1d”;
 
 **Art. 2.** W ustawie dnia 20 listopada 1998 o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. poz. 776 i 863) wprowadza następujące zmiany: 6:
@@ -36,20 +36,20 @@ USTAWA dnia 27 września o zmianie o podatku dochodowym od osób fizycznych niek
 
 **Art. 5.**
 
-1. Przepisy 14c, 22 4–4b, 24a 1da i 1db, 26i 20 i 21 44 25 i 26 zmienianej 1, brzmieniu nadanym niniejszą ustawą, mają zastosowanie do: przychodów udokumentowanych fakturami wystawionymi, terminach określonych zgodnie odrębnymi przepisami, po dniu 31 grudnia r., jeżeli przychody te nie zostały zaliczone przychodów przed dniem 1 stycznia 2025 zgodnie 14 zmienianej 1;
+1. Przepisy 14c, 22 4–4b, 24a 1da i 1db, 26i 20 i 21 44 25 i 26 zmienianej 1, brzmieniu nadanym niniejszą ustawą, mają zastosowanie do: przychodów udokumentowanych fakturami wystawionymi, terminach określonych zgodnie odrębnymi przepisami, po dniu 31 grudnia r., jeżeli przychody te nie zostały zaliczone do przychodów przed dniem 1 stycznia 2025 zgodnie 14 zmienianej 1;
 
-- **2)** kosztów uzyskania przychodów poniesionych po dniu 31 grudnia r., jeżeli koszty te nie zostały potrącone przed dniu wystawienia tych faktur, jeżeli: dniu ich wystawienia podatnik kasową rozliczania przychodów, o której mowa 14c zmienianej 1,
-- **2)** pobrane wpłaty lub zarachowane nie zostały zaliczone przychodów przed dniem 1 stycznia 2025 zgodnie 14 zmienianej 1.
+- **2)** kosztów uzyskania przychodów poniesionych po dniu 31 grudnia r., jeżeli koszty te nie zostały potrącone przed dniu wystawienia tych faktur, jeżeli: dniu ich wystawienia podatnik kasową przychodów, o której mowa 14c zmienianej 1,
+- **2)** pobrane wpłaty lub zarachowane nie zostały zaliczone do przychodów przed dniem 1 stycznia 2025 zgodnie 14 zmienianej 1.
 
-4. W przypadku gdy podatnik stosujący kasową rozliczania przychodów, o której mowa 14c zmienianej 1, dokonał przed dniem 1 stycznia 2025 wpłat na poczet dostaw towarów i usług, które zostaną wykonane po dniu 31 grudnia r., koszty uzyskania przychodów tytułu tych wpłat są potrącane najwcześniej dniu, o którym mowa 22 6b zmienianej 1, przypadającym po dniu 31 grudnia
+4. W przypadku gdy podatnik stosujący kasową przychodów, o której mowa 14c zmienianej 1, dokonał przed dniem 1 stycznia 2025 wpłat na poczet dostaw towarów i usług, które zostaną wykonane po dniu 31 grudnia r., koszty uzyskania przychodów tytułu tych wpłat są potrącane najwcześniej dniu, o którym mowa 22 6b zmienianej 1, przypadającym po dniu 31 grudnia
 
 **Art. 6.**
 
-1. Przepis 21 1 pkt 23c zmienianej 1, brzmieniu nadanym niniejszą ustawą, dochodów uzyskanych po dniu 31 grudnia 2020
+1. Przepis 21 1 pkt 23c zmienianej 1, brzmieniu nadanym niniejszą ustawą, do dochodów uzyskanych po dniu 31 grudnia 2020
 
-2. Przepisy 52a 1 pkt 3 zmienianej 1, brzmieniu nadanym niniejszą ustawą, 11 3 zmienianej 2, brzmieniu nadanym niniejszą ustawą, dochodów (przychodów) uzyskanych po dniu 31 grudnia 2023
+2. Przepisy 52a 1 pkt 3 zmienianej 1, brzmieniu nadanym niniejszą ustawą, 11 3 zmienianej 2, brzmieniu nadanym niniejszą ustawą, do dochodów (przychodów) uzyskanych po dniu 31 grudnia 2023
 
-3. Przepis 30c 3a zmienianej 1, brzmieniu nadanym niniejszą ustawą, dochodów uzyskanych po dniu 31 grudnia
+3. Przepis 30c 3a zmienianej 1, brzmieniu nadanym niniejszą ustawą, do dochodów uzyskanych po dniu 31 grudnia
 
 **Art. 7.** Ustawa wchodzi życie dniem 1 stycznia 2025 r., wyjątkiem 1 pkt 3 i 9, 2 pkt 2 lit. a, 4 1 i 2, które wchodzą życie dniem ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
 

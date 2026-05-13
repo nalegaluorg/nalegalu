@@ -10,9 +10,7 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# Prawo o stowarzyszeniach W celu stworzenia warunków do pełnej realizacji gwarantowanej przepisami Konstytucji wolności zrzeszania się zgodnie z Powszechną Deklaracją Praw Człowieka i Międzynarodowym Paktem Praw Obywatelskich i Politycznych, umożliwienia obywatelom równego, bez względu na przekonania, prawa czynnego uczestniczenia w życiu publicznym i wyrażania zróżnicowanych poglądów oraz realizacji indywidualnych zainteresowań, a także uwzględniając tradycje i powszechnie uznawany dorobek ruchu stowarzyszeniowego, stanowi się, co następuje:
-
-*USTAWA z dnia 7 kwietnia 1989 r.*
+# , r t , .
 
 | Pole | Wartość |
 |---|---|
@@ -26,507 +24,197 @@ domain: null
 | Ostatnia zmiana | 2026-03-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19890200104) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1989/104/text.pdf) |
 
-#### Rozdział 1 Przepisy ogólne
+POLSKIEJ RZECZYPOSPOLITEJ LUDOWEJ Warszawa, dnia 10 kwietnia 1989 r.
+104
+USTAWA z dnia 7 kwietnia 1989 Prawo o stowarzyszeniach.
+W celu stworzenia warunków do pełnej r~alizacji 'gwarantowanej Polskiej Rzeczypospolitej Lu dowej zrzeszania zgodnie z Praw i Paktem Praw Obywatelskich i Politycznych, obywa telom równego, bez na przekonania, prawa czyn nego uczestniczenia w publicznym i nicowanych oraz realizacji indywidualnych za a tradycje i powszechnie uznawany dorobek ruchu stowarzyszeniowego, stanowi co 1 ,Przepisy ogólne
 
-**Art. 1.**
+**Art. 1.** Obywatele polscy prawo zrzesza nia w stowarzyszeniach, zgodnie z Polskiej Rzeczypospolitej Ludowej oraz prawnym w ustawach. 2. Prawo zrzeszania w stowarzyszeniach ograniczeniom przewidzianym jedynie przez usta wy, do zapewnienia interesów lub publicznego oraz ochrony zdro wia lub publicznej albo ochrony praw i wol- _ innych osób. . 3. Stowarzyszenia prawo wypowiadania w sprawach publicznych.
 
-1. Obywatele polscy realizują prawo zrzeszania się w stowarzyszeniach, zgodnie z przepisami Konstytucji oraz porządkiem prawnym określonym w ustawach.
+**Art. 2.** Stowarzyszenie jest dobrowolnym, nym, zrzeszeniem o celach nie zarobkowych. 2. Stowarzyszenie samodzielnie swoje cele, programy i struktury organizacyjne oraz uchwala akty jego 3. Stowarzyszenie opiera na pracy do prowadzenia swych spraw pracowników.
 
-2. W zakresie swoich celów statutowych stowarzyszenia mogą reprezentować interesy zbiorowe swoich członków wobec organów władzy publicznej.
+**Art. 3.** Prawo tworzenia obywatelom polskim do prawnych i nie pozbawionym praw publicznych. 2. w wieku od 16 do 18 lat, którzy do prawnych, nale do i z czynnego i biernego prawa wyborczego, z tym w stowa rzyszenia osoby o zdol nosci do prawnych. 3. 16 lat za przedsta wicieli ustawowych, do za sad ich statutach, bez prawa w na walnych zebraniach oraz bez ko rzystania z czynnego i biernego prawa wyborczego do stowarzyszenia. jednak jednostka organiza cyjna stowarzyszenia zrzesza oni i wybierani do tej jednostki.
 
-3. Stowarzyszenia mają prawo wypowiadania się w sprawach publicznych.
+**Art. 4.** Cudzoziemcy mleJsce zamieszka nia na terytorium Polskiej Rzeczypospolitej Ludowej w stowarzyszeniach, zgodnie z przepi 'sami obywateli polskich. 2. Cudzoziemcy nie miejsca zamieszkania na terytorium Polskiej Rzeczypospolitej Ludowej do których statuty
 
-**Art. 2.**
+**Art. 5.** Stowarzyszenia tworzone na terytorium Polskiej Rzeczypospolitej Ludowej zasad w ustawie. 2. Stowarzyszenia do organizacji dzynarodowych na warunkach w ich statu tach, nie narusza to z umów których Polska Ludowa jest
 
-1. Stowarzyszenie jest dobrowolnym, samorządnym, trwałym zrzeszeniem o celach niezarobkowych.
+**Art. 6.** Tworzenie ich wobec stowarzyszenia jest zakazane. 2. Nikogo nie wolno do w slowarzy szeniu lub jego prawa do ze sto _w arzyszenia. Nikt nie ujemnych z powodu do stowarzyszenia albo pozosta wania poza nim.
 
-2. Stowarzyszenie samodzielnie określa swoje cele, programy działania i struktury organizacyjne oraz uchwala akty wewnętrzne dotyczące jego działalności.
+**Art. 7.** Przepisom ustawy nie
 
-3. Stowarzyszenie opiera działalność na pracy społecznej swoich członków. Do prowadzenia swych spraw stowarzyszenie może zatrudniać pracowników, w tym swoich członków.
+**Art. 8.** Stowarzyszenie podlega rejestracji,' o ile przepisy ustawy nie inaczej. 2. Rejestracja stowarzyszenia do ze na stowarzyszenia - rejestrowego wojewódzkiego, zwanego dalej rejestrowym". 3. Stosowanie wobec stowarzyszenia lonych w ustawie do ze na stowarzyszenia wojewódzkiego, zwanego dalej 4. Do w sprawach rozpozna wanych przez rejestrowy' lub stosuje przepisy. Kodeksu cywilnego o niepro cesowynl, ze' zmianami z niniejszej ustawy. 5. Nadzór nad stowarzyszenia do ze na stowarzyszenia, tere nowego organu administracji o szczególnej w sprawach, stop nia wojewódzkiego, zwanego dplej "organem cym", 6. Przepisy ustawy nie prokura tora z innych ustaw. 2 Tworzenie
 
-**Art. 3.**
+**Art. 9.** Osoby w liczbie co najhmiej ce stowarzyszenie, statut stowarzyszenia i komitet 10. Stalut st0'Yarzyszenia szcze.
 
-1. Prawo tworzenia stowarzyszeń przysługuje obywatelom polskim mającym pełną zdolność do czynności prawnych i niepozbawionym praw publicznych.
+**Art. 11.** Najwyższą stowarzyszenia jest walne zebranie W sprawach, w których statut nie stowarzyszenia, podejmo wanie do zebrania 2. Statut zamiast walnego zebra nia zebranie dele'gatów lub walnego' zebrania zebraniem delegatów, liczba przekroczy w statucie W takich przypadkach statut zasady wyboru dele gatów i czas trwania ich kadencji. 3. Stowarzyszenie jest organ kontroli
 
-2. Małoletni w wieku od 16 do 18 lat, którzy mają ograniczoną zdolność do czynności prawnych, mogą należeć do stowarzyszeń i korzystać z czynnego i biernego prawa wyborczego, z tym że w składzie zarządu stowarzyszenia większość muszą stanowić osoby o pełnej zdolności do czynności prawnych.
+**Art. 12.** Komitet do reje strowego wniosek o wraz ze statutem, imiona i nazwiska, i miejsce urodzenia, miejsce zamieszkania oraz pod pisy z wyboru komitetu skiego, a o adresie tymczasowej siedziby stowarzyszenia.
 
-3. Małoletni poniżej 16 lat mogą, za zgodą przedstawicieli ustawowych, należeć do stowarzyszeń według zasad określonych w ich statutach, bez prawa udziału w głosowaniu na walnych zebraniach członków oraz bez korzystania z czynnego i biernego prawa wyborczego do władz stowarzyszenia. Jeżeli jednak jednostka organizacyjna stowarzyszenia zrzesza wyłącznie małoletnich, mogą oni wybierać i być wybierani do władz tej jednostki.
+**Art. 13.** Wniosek o zarejestrowanie stowarzysze nia rejestrowy rozpoznaje a rozstrzyg powinno nie w 3 od dnia wniosku. rejestrowy organowi odpis wniosku o wraz z wymie nionymi wart. 12. Organ ten ma prawo w sprawie wniosku w terminie 14 dni od dnia jego a za do jako zainteresowany.
 
-**Art. 4.**
+**Art. 14.**
 
-1. Cudzoziemcy mający miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej mogą zrzeszać się w stowarzyszeniach, zgodnie z przepisami obowiązującymi obywateli polskich.
+1. rejestrowy odmawia zarejestrowania stowarzyszenia, nie ono warunków nych w ustawie.
 
-2. Cudzoziemcy niemający miejsca zamieszkania na terytorium Rzeczypospolitej Polskiej mogą wstępować do stowarzyszeń, których statuty przewidują taką możliwość.
+2. Postanowienie o odmowie zarejestrowania stowa rzyszenia w jednego jako przewod oraz dwóch wydaje po przeprcryla dzeniu rozprawy.
 
-**Art. 5.**
+**Art. 15.**
 
-1. Stowarzyszenia międzynarodowe mogą być tworzone na terytorium Rzeczypospolitej Polskiej według zasad określonych w ustawie.
+1. rejestrowy przed wydaniem posta nowienia o zarejestrowaniu stowarzyszenia, uzna za dokonanie dodatkowych wyznacza w ,.; tym celu posiedzenie
 
-2. Stowarzyszenia mogą należeć do organizacji międzynarodowych na warunkach określonych w ich statutach, jeżeli nie narusza to zobowiązań wynikających z umów międzynarodowych, których Rzeczpospolita Polska jest stroną.
+2. posiedzenie rejestrowy wzywa -uczestników
 
-**Art. 6.**
+**Art. 16.** Sąą rejestrowy wydaje postanowienie o za rejestrowaniu stowarzyszenia po stwierdzeniu, jego statut jest zgodny z przepisami prawa i wymagania
 
-1. Tworzenie stowarzyszeń przyjmujących zasadę bezwzględnego posłuszeństwa ich członków wobec władz stowarzyszenia jest zakazane.
+**Art. 17.** Stowarzyszenie uzyskuje praw i z uprawomocnie nia postanowienia o zarejestrowaniu. 2. Wpisanie stowarzyszenia ,do rejestru po uprawomocnieniu postanowienia o zare jestrowaiiu stowarzyszenia. 3. O wpisaniu stowarzyszenia do rejestru stowarzy sZeJ) rejestrowy zawiadamia oraz organ temu organowi statut.
 
-2. Nikogo nie wolno zmuszać do udziału w stowarzyszeniu lub ograniczać jego prawa do wystąpienia ze stowarzyszenia. Nikt nie może ponosić ujemnych następstw z powodu przynależności do stowarzyszenia albo pozostawania poza nim.
+**Art. 18.** Wpisowi do rejestru, o którym mowa w art. 17 ust. 2, nazwa i siedziba stowarzyszenia oraz teren dat~ wpisu do" rejestru, ce1e stowarzyszenia i sposoby ich realizacji, imiona nazwiska skiego, komitetu dane adresu stowarzyszenia, dane sposobu reprezentowania stowarzysze nia oraz 2. Wpisowi do rejestru postanowienia o zastosowaniu wobec stowarzyszenia przewidzianych w ustawie oraz o ustanowieniu kuratora lub wyznaczeniu likwidatora. 3. Rejestry jawne i dla osób trzecich. prawo otrzymania uwierzytelnionych odpisów z/·tych rejestrów. 4. Minister w drodze wzór i sposób prowadzenia rejestru
 
-**Art. 7.**
+**Art. 19.**
 
-1. Przepisom ustawy nie podlegają:
+1. stowarzyszenia wpisanego do re jestru jest w od jego 'wyboru, rejestrowy i organ nadzo o swoim miejscu zamieszkania a adres siedziby stowarzyszenia.
 
-- **1)** organizacje społeczne działające na podstawie odrębnych ustaw lub umów międzynarodowych, których Rzeczpospolita Polska jest stroną;
-- **2)** kościoły i inne związki wyznaniowe oraz ich osoby prawne;
-- **3)** organizacje religijne, których sytuacja prawna jest uregulowana ustawami o stosunku państwa do kościołów i innych związków wyznaniowych, działające w obrębie tych kościołów i związków;
-- **4)** komitety wyborcze utworzone w związku z wyborami do Sejmu, do Senatu, wyborem Prezydenta Rzeczypospolitej Polskiej, wyborami do Parlamentu Europejskiego lub wyborami do organów samorządu terytorialnego;
-- **5)** partie polityczne.
+2. Przepis ust. 1 stosuje odpowiednio do zmian w i adresie siedziby stowarzyszenia. Art, 20,. 1. terenowej jednostki organizacyj nej stowarzyszenia jest w terminie 14, dni ód chwili jej powołania, zawiadomić o tym trgan nadzo ze na tej jednostki, po i adres siedziby jednostki, oraz stowarzyszenia.
 
-2. Do organizacji, o których mowa w ust. 1 pkt 1 i 3, w sprawach nieuregulowanych odrębnie stosuje się przepisy ustawy.
+2. Przepis ust. 1 stosuje odpowiednio w razie zmian w i adresie siedziby terenowej jednostki organizacyjnej stowarzyszenia oraz w statucie stowarzyszenia.
 
-**Art. 8.**
-
-1. Stowarzyszenie podlega obowiązkowi wpisu do Krajowego Rejestru Sądowego, o ile przepis ustawy nie stanowi inaczej.
-
-2. (uchylony)
-
-3. (uchylony)
-
-4. (uchylony)
-
-5. Nadzór nad działalnością stowarzyszeń należy do:
-
-- **1)** wojewody właściwego ze względu na siedzibę stowarzyszenia − w zakresie nadzoru nad działalnością stowarzyszeń jednostek samorządu terytorialnego,
-- **2)** starosty właściwego ze względu na siedzibę stowarzyszenia − w zakresie nadzoru nad innymi niż wymienione w pkt 1 stowarzyszeniami − zwanych dalej „organami nadzorującymi”.
-
-6. Przepisy ustawy nie naruszają uprawnień prokuratora wynikających z innych ustaw.
-
-#### Rozdział 2 Tworzenie stowarzyszeń
-
-**Art. 9.** Osoby w liczbie co najmniej siedmiu, zamierzające założyć stowarzyszenie, uchwalają statut stowarzyszenia oraz wybierają komitet założycielski albo władze stowarzyszenia. <Art. 9a. 1. Osoby w liczbie co najmniej siedmiu, zamierzające założyć stowarzyszenie, mogą uchwalić statut stowarzyszenia oraz wybrać jego władze przy wykorzystaniu wzorca statutu oraz wzorców uchwał o wyborze władz stowarzyszenia. 2. Przepisu ust. 1 nie stosuje się do zakładania:
-
-**Art. 10.**
-
-1. Statut stowarzyszenia określa w szczególności:
-
-- **1)** nazwę stowarzyszenia, odróżniającą je od innych stowarzyszeń, organizacji i instytucji;
-- **2)** teren działania i siedzibę stowarzyszenia;
-- **3)** cele i sposoby ich realizacji;
-- **4)** sposób nabywania i utraty członkostwa, przyczyny utraty członkostwa oraz prawa i obowiązki członków;
-- **5)** władze stowarzyszenia, tryb dokonywania ich wyboru, uzupełniania składu oraz ich kompetencje;
-- **5a)** możliwość otrzymywania przez członków zarządu wynagrodzenia za czynności wykonywane w związku z pełnioną funkcją;
-- **6)** sposób reprezentowania stowarzyszenia, w szczególności sposób zaciągania zobowiązań majątkowych, a także warunki ważności uchwał władz stowarzyszenia;
-- **7)** sposób uzyskiwania środków finansowych oraz ustanawiania składek członkowskich;
-- **8)** zasady dokonywania zmian statutu;
-- **9)** sposób rozwiązania się stowarzyszenia.
-
-1a. Jeżeli członkowie władzy stowarzyszenia wyrazili na to zgodę w formie dokumentowej, głosowanie poza posiedzeniami władz stowarzyszenia może odbywać się z wykorzystaniem środków komunikacji elektronicznej.
-
-1b. Możliwość udziału w posiedzeniu władz stowarzyszenia przy wykorzystaniu środków komunikacji elektronicznej jest wskazana w zawiadomieniu o tym zebraniu, zawierającym dokładny opis sposobu uczestnictwa i wykonywania prawa głosu.
-
-1c. Wykorzystanie środków komunikacji elektronicznej w głosowaniach na posiedzeniach władzy stowarzyszenia odbywa się przy zapewnieniu co najmniej:
-
-- **1)** transmisji obrad posiedzenia w czasie rzeczywistym;
-- **2)** dwustronnej komunikacji w czasie rzeczywistym, w ramach której członek władzy stowarzyszenia może wypowiadać się w toku obrad;
-- **3)** wykonywania osobiście lub przez pełnomocnika prawa głosu przed lub w toku posiedzenia.
-
-1d. Wykorzystanie środków komunikacji elektronicznej w głosowaniach na oraz poza posiedzeniami władz stowarzyszenia może podlegać odmiennym uregulowaniom w tym ograniczeniom w statucie stowarzyszenia. Statut stowarzyszenia może też wprost wyłączyć możliwość stosowania powyższych przepisów w stowarzyszeniu.
-
-1e. (uchylony) 1f. Jeżeli kadencja władz stowarzyszenia, o których mowa w ust. 1 pkt 5, upływa w okresie obowiązywania stanu zagrożenia epidemicznego lub stanu epidemii, o których mowa w ustawie z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, lub do 30 dni po odwołaniu danego stanu, podlega ona przedłużeniu do czasu wyboru władz stowarzyszenia na nową kadencję, jednak nie dłużej niż do 60 dni od dnia odwołania stanu zagrożenia epidemicznego lub stanu epidemii.
-
-2. Ogólnokrajowe stowarzyszenia zrzeszające osoby wykonujące określony zawód lub zawody pokrewne, podejmujące zadania w zakresie rozpowszechniania wiedzy specjalistycznej i podnoszenia poziomu zawodowego w ramach wewnętrznego systemu potwierdzania kwalifikacji i umiejętności – określają w statucie te zadania oraz zakres i sposób ich realizacji.
-
-3. Osoba prawna może być jedynie wspierającym członkiem stowarzyszenia.
-
-**Art. 10a.**
-
-1. Stowarzyszenie może tworzyć terenowe jednostki organizacyjne. W takim przypadku statut stowarzyszenia określa:
-
-- **1)** zasady tworzenia oraz rozwiązania terenowej jednostki organizacyjnej;
-- **2)** strukturę organizacyjną terenowej jednostki organizacyjnej;
-- **3)** organy terenowej jednostki organizacyjnej, w tym zarząd, oraz tryb dokonywania ich wyboru lub powoływania;
-- **4)** możliwość otrzymywania przez członków zarządu terenowej jednostki organizacyjnej wynagrodzenia za czynności wykonywane w związku z pełnioną funkcją, w przypadku gdy w statucie stowarzyszenia przewidziano możliwość otrzymywania takiego wynagrodzenia przez członków zarządu stowarzyszenia.
-
-2. Terenowa jednostka organizacyjna prowadzi działalność na podstawie statutu stowarzyszenia. Na zasadach i w trybie określonym w statucie stowarzyszenia terenowa jednostka organizacyjna może przyjąć regulamin określający szczegółową jej organizację i sposób działania.
-
-3. Jeżeli statut stowarzyszenia tak stanowi, terenowa jednostka organizacyjna może uzyskać osobowość prawną. W takim przypadku statut stowarzyszenia określa:
-
-- **1)** warunki, które muszą być spełnione, aby mogła ona uzyskać osobowość prawną;
-- **2)** zasady gospodarowania majątkiem;
-- **3)** sposób reprezentowania, w szczególności zaciągania zobowiązań majątkowych oraz zawierania umów z członkami jej zarządu;
-- **4)** szczegółowe zasady likwidacji.
-
-4. Wniosek o wpis oraz wniosek o wykreślenie terenowej jednostki organizacyjnej, o której mowa w ust. 3, z Krajowego Rejestru Sądowego składa zarząd stowarzyszenia.
-
-5. Terenowa jednostka organizacyjna uzyskuje osobowość prawną i może rozpocząć działalność po wpisie do Krajowego Rejestru Sądowego.
-
-6. Z chwilą wykreślenia z Krajowego Rejestru Sądowego terenowej jednostki organizacyjnej z osobowością prawną traci ona osobowość prawną, a stowarzyszenie wstępuje we wszystkie prawa i obowiązki tej jednostki.
-
-7. W przypadku rozwiązania terenowej jednostki organizacyjnej posiadającej osobowość prawną, przeprowadza się jej likwidację. Majątek pozostały po likwidacji pozostaje majątkiem stowarzyszenia. Do likwidacji przepisy art. 36 i art. 37 stosuje się odpowiednio.
-
-**Art. 10b.**
-
-1. W przypadku gdy działalność terenowej jednostki organizacyjnej posiadającej osobowość prawną wykazuje rażące lub uporczywe naruszanie przepisów prawa lub statutu stowarzyszenia, jeżeli statut stowarzyszenia tak stanowi, organ w nim wskazany może podjąć uchwałę o powołaniu zarządu komisarycznego w tej jednostce.
-
-2. Zarząd komisaryczny powołuje się na okres niezbędny do usunięcia nieprawidłowości związanych z rażącym lub uporczywym naruszaniem przepisów prawa lub statutu stowarzyszenia, nie dłuższy jednak niż przewidziany w statucie stowarzyszenia.
-
-3. Uchwała o powołaniu zarządu komisarycznego wskazuje sposób reprezentacji terenowej jednostki organizacyjnej przez ten zarząd.
-
-4. Z dniem podjęcia uchwały o powołaniu zarządu komisarycznego członkowie zarządu terenowej jednostki organizacyjnej zostają odwołani z mocy prawa.
-
-5. Zarząd stowarzyszenia składa wniosek o wpis zarządu komisarycznego do Krajowego Rejestru Sądowego, w terminie 7 dni od dnia podjęcia uchwały, o której mowa w ust. 1, oraz zawiadamia o jej podjęciu organ nadzorujący, właściwy ze względu na siedzibę terenowej jednostki organizacyjnej. Po ustaniu przyczyny powołania zarządu komisarycznego albo upływu okresu, na jaki został on ustanowiony zarząd stowarzyszenia składa wniosek o jego wykreślenie z Krajowego Rejestru Sądowego.
-
-**Art. 11.**
-
-1. Najwyższą władzą stowarzyszenia jest walne zebranie członków. W sprawach, w których statut nie określa właściwości władz stowarzyszenia, podejmowanie uchwał należy do walnego zebrania członków.
-
-2. Statut może przewidywać zamiast walnego zebrania członków zebranie delegatów lub zastąpienie walnego zebrania członków zebraniem delegatów, jeżeli liczba członków przekroczy określoną w statucie wielkość. W takich przypadkach statut określa zasady wyboru delegatów i czas trwania ich kadencji.
-
-3. Stowarzyszenie jest obowiązane posiadać zarząd i organ kontroli wewnętrznej.
-
-4. W umowach między stowarzyszeniem a członkiem zarządu oraz w sporach z nim stowarzyszenie reprezentuje członek organu kontroli wewnętrznej wskazany w uchwale tego organu lub pełnomocnik powołany uchwałą walnego zebrania członków (zebrania delegatów). [Art. 12. 1. Zarząd składa wniosek o wpis stowarzyszenia do Krajowego Rejestru Sądowego wraz ze statutem, listą założycieli, zawierającą imiona i nazwiska, datę i miejsce urodzenia, miejsce zamieszkania oraz własnoręczne podpisy założycieli, protokołem z wyboru władz stowarzyszenia oraz adresem siedziby stowarzyszenia.
-
-2. Wniosek, o którym mowa w ust. 1, podpisują wszyscy członkowie zarządu.] <Art. 12. 1. Zarząd składa wniosek o wpis stowarzyszenia do Krajowego Rejestru Sądowego wraz ze statutem, listą założycieli, zawierającą imiona i nazwiska, datę i miejsce urodzenia, miejsce zamieszkania oraz własnoręczne podpisy założycieli oraz protokołem z wyboru władz stowarzyszenia.
-
-2. Przepisu ust. 1 nie stosuje się do złożenia wniosku o wpis stowarzyszenia, którego statut uchwalono przy wykorzystaniu wzorca statutu. W takim przypadku do wniosku o wpis stowarzyszenia do Krajowego Rejestru Sądowego dołącza się sporządzone na wzorcach udostępnionych w systemie teleinformatycznym:
-
-- **1)** statut;
-- **2)** listę założycieli, zawierającą ich imiona i nazwiska, datę i miejsce ich urodzenia oraz miejsce ich zamieszkania, opatrzoną ich kwalifikowanymi podpisami elektronicznymi, podpisami zaufanymi lub podpisami osobistymi;
-- **3)** uchwały o wyborze władz stowarzyszenia.
-
-3. Wnioski, o których mowa w ust. 1 i 2, podpisują wszyscy członkowie zarządu.
-
-4. Do wniosku o zmianę danych stowarzyszenia wynikających z uchwały walnego zebrania członków podjętej przy wykorzystaniu wzorca uchwały należy dołączyć sporządzoną na wzorcu udostępnionym w systemie teleinformatycznym aktualną na dzień jej podjęcia listę członków stowarzyszenia uprawnionych do głosowania opatrzoną kwalifikowanymi podpisami elektronicznymi, podpisami zaufanymi lub podpisami osobistymi wszystkich członków zarządu.>
-
-**Art. 13.** (uchylony)
-
-**Art. 14.** (uchylony)
-
-**Art. 15.** (uchylony)
-
-**Art. 16.**
-
-1. Sąd rejestrowy wydaje postanowienie o wpisie stowarzyszenia do Krajowego Rejestru Sądowego po stwierdzeniu, że jego statut jest zgodny z przepisami prawa i założyciele spełniają wymagania określone ustawą.
-
-2. Sąd rejestrowy przed wydaniem postanowienia o wpisie, jeżeli uzna za niezbędne dokonanie dodatkowych ustaleń, wyznacza w tym celu posiedzenie wyjaśniające.
-
-3. Sąd rejestrowy oddala wniosek o wpis stowarzyszenia do Krajowego Rejestru Sądowego, jeżeli nie spełnia ono warunków określonych w przepisach prawa.
-
-4. O wpisie stowarzyszenia do Krajowego Rejestru Sądowego sąd zawiadamia właściwy organ nadzorujący, przesyłając mu jednocześnie odpis postanowienia o wpisie, statut stowarzyszenia, listę założycieli i podjęte uchwały.
-
-5. O wykreśleniu stowarzyszenia z Krajowego Rejestru Sądowego sąd zawiadamia właściwy organ nadzorujący, przesyłając mu odpis postanowienia o wykreśleniu.
-
-**Art. 17.**
-
-1. Stowarzyszenie uzyskuje osobowość prawną i może rozpocząć działalność po wpisie do Krajowego Rejestru Sądowego.
-
-2. Za czynności niezbędne do rozpoczęcia działalności przez stowarzyszenie dokonane na rzecz stowarzyszenia przed jego wpisem do Krajowego Rejestru Sądowego członkowie zarządu odpowiadają wobec osób trzecich solidarnie. Po wpisie do Krajowego Rejestru Sądowego za zobowiązania wynikające z tych czynności stowarzyszenie odpowiada tak jak za zaciągnięte przez siebie.
-
-3. Postępowanie w sprawach o wpis lub zmianę wpisu stowarzyszenia oraz terenowej jednostki organizacyjnej do rejestru stowarzyszeń, innych organizacji społecznych i zawodowych, fundacji oraz samodzielnych publicznych zakładów opieki zdrowotnej Krajowego Rejestru Sądowego jest wolne od opłat sądowych.
-
-**Art. 18.** (uchylony)
-
-**Art. 19.** (uchylony)
-
-**Art. 20.**
-
-1. Zarząd terenowej jednostki organizacyjnej stowarzyszenia jest obowiązany, w terminie 14 dni od chwili jej powołania, zawiadomić o tym organ nadzorujący właściwy ze względu na siedzibę tej jednostki, podając skład zarządu i adres siedziby jednostki, oraz doręczyć statut stowarzyszenia.
-
-2. Przepis ust. 1 stosuje się odpowiednio w razie zmian w składzie zarządu i adresie siedziby terenowej jednostki organizacyjnej stowarzyszenia oraz w statucie stowarzyszenia.
-
-**Art. 21.**
-
-1. Zarząd stowarzyszenia ma obowiązek niezwłocznie zawiadomić sąd rejestrowy o zmianie statutu. W sprawie wpisu zmiany statutu stowarzyszenia do Krajowego Rejestru Sądowego stosuje się odpowiednio zasady i tryb przewidziane dla wpisu stowarzyszenia do tego rejestru. Sąd rejestrowy dokonuje wpisu zmian statutu do Krajowego Rejestru Sądowego po stwierdzeniu, że są one zgodne z obowiązującym statutem.
-
-2. O wpisie zmiany statutu stowarzyszenia sąd zawiadamia właściwy organ nadzorujący, przesyłając mu odpis postanowienia i tekst jednolity zmienionego statutu.
+**Art. 21.** Zarząd stowarzyszenia ma nie rejestrowy o zmianie statutu. \V sprawie wpisania do rejestru zmiany statutu stowarzy szenia stosuje odpowiednio zasady i tryb przewidziane dla rejestracji stowarzyszenia.
 
 **Art. 22.**
 
-1. Stowarzyszenia w liczbie co najmniej trzech mogą założyć związek stowarzyszeń. Założycielami i członkami związku mogą być także inne osoby prawne, z tym że osoby prawne mające cele zarobkowe mogą być członkami wspierającymi.
+1. Stowarzyszenia w liczbie co najmmeJ trzech i inne osoby prawne, z tym osoby prawne cele zarobkowe
 
-2. Do związków, o których mowa w ust. 1, stosuje się odpowiednio przepisy ustawy.
+2. Do o których mowa w ust. 1, stosuje sil;i odpowiednio przepisy ustawy.
 
-**Art. 23.** (uchylony)
+**Art. 23.**
 
-**Art. 24.** (uchylony)
+1. Ustanawia honorowy "Stowarzy szenie
 
-#### Rozdział 3 Nadzór nad stowarzyszeniami
+2. honorowy nadaje stowarzyszeniu na podstawie ustawy, szczególne w realizacji celów
 
-**Art. 25.**
+**Art. 24.**
 
-1. Organ nadzorujący sprawuje nadzór nad działalnością stowarzyszeń wyłącznie w zakresie zgodności ich działania z przepisami prawa i postanowieniami statutu.
+1. honorowy, o którym mowa art. 23, nadaje Rada Rada tryb przedstawiania wniosku o nadanie honorowego. 3 Nadzór nad stowarzyszeniami Art. Organ nadzorujący ma ,prawo: dostarczenia przez stowarzyszenia, w wyznaczonym terminie, odpisów walnego ze brania (zebrania delegatów), w lokalu stowarzyszenia, w przedstawiciela stowarzyszenia, dokumenty z jego oraz z nich notatki, odpisy i swego przedstawiciela do uczestniczenia w walnym zebraniu (zebraniu delegatów), a w posiedzeniu stowarzyszenia, które go .przedmiotem obrad sprawozdanie z wyko rzystania dotacji, darowizn, spadków i zapisów oraz z publicznej, od stowarzyszenia O terminie i mIeJscu posiedzenia, o którym mowa w ust. 1 pkt 3, stowarzyszenia jest organ
 
-2. Organ nadzorujący ma prawo w wyznaczonym terminie żądać:
+**Art. 2.** W razie niezastosowania stowarzyszenia do wart. ust. i organ nad na stowarzyszenie w jednorazowo nie Od grzywny po jej wymierzeniu stowarzyszenie zastosuje do organu cego. Stowarzyszenie, w terminie dni, o zwolnienie od grzywny.
 
-- **1)** dostarczenia przez zarząd stowarzyszenia odpisów uchwał walnego zebrania członków (zebrania delegatów);
-- **2)** niezbędnych wyjaśnień od władz stowarzyszenia.
+**Art. 27.** Organem stowarzyszenia jest organ w art. 8 ust. 5, ze na tej jed nostki.
 
-3. Organ nadzorujący jest obowiązany wskazać uzasadnienie żądań, o których mowa w ust. 2.
-
-**Art. 25a.**
-
-1. Organ, o którym mowa w art. 8 ust. 5, sprawuje kontrolę nad działalnością stowarzyszenia będącego instytucją obowiązaną w rozumieniu przepisów o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu w zakresie zgodności jego działania z przepisami tej ustawy.
-
-2. Do kontroli, o której mowa w ust. 1, stosuje się odpowiednio przepisy rozdziału 12 ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2020 r. poz. 971, 875 i 1086).
-
-**Art. 26.** W przypadku niezastosowania się stowarzyszenia do żądań określonych w art. 25 ust. 2 sąd, na wniosek organu nadzorującego, może nałożyć grzywnę w wysokości jednorazowo nieprzekraczającej 5000 zł. Od grzywny można zwolnić, jeżeli po jej wymierzeniu stowarzyszenie niezwłocznie zastosuje się do żądań organu nadzorującego. Stowarzyszenie, w terminie 7 dni, może wystąpić do sądu o zwolnienie od grzywny.
-
-**Art. 27.** Organem nadzorującym terenową jednostkę organizacyjną stowarzyszenia jest organ określony w art. 8 ust. 5, właściwy ze względu na siedzibę tej jednostki.
-
-**Art. 28.** W razie stwierdzenia, że działalność stowarzyszenia jest niezgodna z prawem lub narusza postanowienia statutu w sprawach, o których mowa w art. 10 ust. 1, art. 10a ust. 1 i 3 i art. 10b, organ nadzorujący, w zależności od rodzaju i stopnia stwierdzonych nieprawidłowości, może wystąpić o ich usunięcie w określonym terminie, udzielić ostrzeżenia władzom stowarzyszenia lub wystąpić do sądu na podstawie art. 29.
+**Art. 28.** W razie stwierdzenia, stowa rzyszenia jest niezgodna z prawem lub narusza postano wienia statutu w sprawach, o których mowa wart. 10 ust. 1 i 2, organ w od rodzaju i stopnia stwierdzonych o ich w terminie, ostrze stowarzyszenia, do o zasto sowanie wart. 29.
 
 **Art. 29.**
 
-1. Sąd, na wniosek organu nadzorującego lub prokuratora, może:
+1. na wniosek organu lub prokuratora,
 
-- **1)** udzielić upomnienia władzom stowarzyszenia;
-- **2)** uchylić niezgodną z prawem lub statutem uchwałę stowarzyszenia;
-- **3)** rozwiązać stowarzyszenie, jeżeli jego działalność wykazuje rażące lub uporczywe naruszanie prawa albo postanowień statutu i nie ma warunków do przywrócenia działalności zgodnej z prawem lub statutem.
+- **1)** upomnienia stowarzyszenia,
+- **2)** z prawem lub statutem stowarzyszenia, /' pod rygorem zawieszenfa w od stowarzyszenia prze prowadzenia w terminie nowych wyborów do naruszenie lub statutu, a inne nie gwarancji przywrócenia zgodnej z prawem lub statutem, rozwiązać stowarzyszenie, jeżeli jego działalność wy kazuje lub uporczywe naruszanie prawa albo statutu i nie ma warunków do przywró cenia zgodnej z prawem lub statutem. wniosek, o którym mowa w ust. pkt na wniosek z inicjatywy tymczasowe o zawieszeniu w stowarzyszenia, przedstawiciela do prowadzenia spraw stowarzyszenia. wniosek o zawieszenie w ciach stowarzyszenia lub o stowarzy szenia, stowarzyszenia do w terminie -i za W razie bezskutecznego ter minu na wniosek organu lub z inicjatywy, podejmie zawieszone
 
-2. Sąd rozpoznając wniosek, o którym mowa w ust. 1 pkt 3, może na wniosek lub z własnej inicjatywy wydać zarządzenie tymczasowe o zawieszeniu w czynnościach zarządu stowarzyszenia, wyznaczając przedstawiciela do prowadzenia bieżących spraw stowarzyszenia.
+**Art. 30.** Jeżeli stowarzyszenie nie posiada zdolnego do prawnych, na wniosek organu lub z inicjatywy, ustanawia dla niego kuratora. Kurator jest do w okresie nie walnego zebrania (ze brania delegatów) stowarzyszenia w celu wyboru Do czasu wyboru kurator reprezentuje stowarzy szenie w sprawach Wynagrodzenie kuratora pokrywa z stowarzyszenia. Art. Na wniosek organu wy daje postanowienie o stowarzyszenia, w razie gdy: liczba stowarzyszenia poni liczby wymaganych ,do jego
 
-3. Rozpoznając wniosek o rozwiązanie stowarzyszenia, sąd może zobowiązać władze stowarzyszenia do usunięcia nieprawidłowości w określonym terminie i zawiesić postępowanie. W razie bezskutecznego upływu terminu, sąd, na wniosek organu nadzorującego lub z własnej inicjatywy, podejmie zawieszone postępowanie.
+**Art. 32.** Postanowienie o zastosowaniu lonego wart. 29 ust. 1 i art. 31 w jednego jako oraz dwóch wydaje po przeprowadzeniu rozprawy. 4 stowarzyszenia
 
-**Art. 30.**
+**Art. 33.** Majątek stowarzyszenia powstaje ze dek darowizn, spadków, zapisów, docho dów z dochodów z stowa rzyszenia oraz z publicznej. 2. Stowarzyszenie, z zachowaniem przepisów, darowizny, oraz z publicznej. spadki i zapisy
 
-1. Jeżeli stowarzyszenie nie posiada zarządu zdolnego do działań prawnych, sąd, na wniosek organu nadzorującego lub z własnej inicjatywy, ustanawia dla niego kuratora.
-
-2. Kurator jest obowiązany do zwołania w okresie nie dłuższym niż 6 miesięcy walnego zebrania członków (zebrania delegatów) stowarzyszenia w celu wyboru zarządu. Do czasu wyboru zarządu, kurator reprezentuje stowarzyszenie w sprawach majątkowych wymagających bieżącego załatwienia.
-
-2a. W szczególnie uzasadnionych przypadkach, na wniosek organu nadzorującego lub z własnej inicjatywy, sąd może przedłużyć okres, na jaki został ustanowiony kurator, nie dłużej niż o 6 miesięcy, jeżeli jego czynności nie mogły zostać zakończone przed upływem okresu, o którym mowa w ust. 2.
-
-3. Wynagrodzenie kuratora pokrywa się z majątku stowarzyszenia.
-
-**Art. 31.**
-
-1. Sąd wydaje postanowienie o rozwiązaniu stowarzyszenia na wniosek organu nadzorującego, w przypadku gdy:
-
-- **1)** liczba członków stowarzyszenia jest mniejsza niż liczba członków wymaganych do jego założenia;
-- **2)** stowarzyszenie nie posiada przewidzianych w ustawie władz i nie ma warunków do ich wyłonienia w okresie nie dłuższym niż 12 miesięcy.
-
-2. Sąd wydaje postanowienie o rozwiązaniu stowarzyszenia na wniosek kuratora, jeżeli pomimo podejmowanych przez kuratora czynności, nie wybrano władz stowarzyszenia i nie ma warunków do ich wyłonienia, w okresie, o którym mowa w ust. 1 pkt 2.
-
-**Art. 32.**
-
-1. Wnioski, o których mowa w art. 29 ust. 1 oraz art. 31, rozpoznaje sąd rejestrowy na rozprawie.
-
-2. Wnioski organu nadzorującego wnoszone do sądu w ramach sprawowanego nadzoru, są wolne od opłat sądowych.
-
-#### Rozdział 4 Majątek stowarzyszenia
-
-**Art. 33.**
-
-1. Majątek stowarzyszenia powstaje ze składek członkowskich, darowizn, spadków, zapisów, dochodów z własnej działalności, dochodów z majątku stowarzyszenia oraz z ofiarności publicznej.
-
-2. Stowarzyszenie, z zachowaniem obowiązujących przepisów, może przyjmować darowizny, spadki i zapisy oraz korzystać z ofiarności publicznej.
-
-**Art. 34.** Stowarzyszenie może prowadzić działalność gospodarczą, według ogólnych zasad określonych w odrębnych przepisach. Dochód z działalności gospodarczej stowarzyszenia służy realizacji celów statutowych i nie może być przeznaczony do podziału między jego członków.
-
-**Art. 35.** Stowarzyszenie może otrzymywać dotację według zasad określonych w odrębnych przepisach.
-
-#### Rozdział 5 Likwidacja stowarzyszeń
+**Art. 34.** Stowarzyszenie ogólnych zasad w nych przepisach. Dochód z gospodarczej sto realizacji celów statutowych i nie przeznaczony do jego Art. Stowarzyszenie może zasad w przepisach. 5 Likwidacja
 
 **Art. 36.**
 
-1. W razie rozwiązania się stowarzyszenia na podstawie własnej uchwały, likwidatorami stowarzyszenia są członkowie jego zarządu, jeżeli statut lub, w razie braku odpowiednich postanowień statutu, uchwała ostatniego walnego zebrania członków (zebrania delegatów) tego stowarzyszenia nie stanowi inaczej.
+1. W razie stowarzyszenia na podstawie· likwidatorami stowarzy szenia jego statut lub, w razie braku odpowiednich statutu, ostatniego walnego zebrania (zebrania delega tów) tego stowarzyszenia nie stanowi inaczej.
 
-2. W razie rozwiązania stowarzyszenia przez sąd, zarządza on jego likwidację, wyznaczając likwidatora.
+2. W- razie stowarzyszenia przez za on jego likwidatora.
 
-**Art. 37.**
+**Art. 37.** Obowiązkiem likwidatora jest przeprowa dzenie likwidacji w najkrótszym czasie, w spo likwidowanego stowarzysze nia przed nieuzasadnionym uszczupleniem. Likwidator w powinien:
 
-1. Obowiązkiem likwidatora jest przeprowadzenie likwidacji w możliwie najkrótszym czasie, w sposób zabezpieczający majątek likwidowanego stowarzyszenia przed nieuzasadnionym uszczupleniem.
+**Art. 38.** Majątek zlikwidowanego. stowarzyszenia przeznacza na cel w slatucie lub w uchwale walnego zebrania (zebrania delegatów) o likwi dacji stowarzyszenia. W ra'zie braku postanowienia statu tu lub w tej sprawie, orzeka o przeznaczeniu na cel
 
-2. Likwidator w szczególności powinien:
+**Art. 39.** Koszty likwidacji pokrywa z likwidowanego stowarzyszenia, a w razie nieposiadania przez likwidowane stowarzyszenie, koszty likwi dacji pokrywa ze Skarbu 6 Stowarzyszenia
 
-- **1)** zawiadomić sąd o wszczęciu likwidacji i wyznaczeniu likwidatora, z podaniem swego nazwiska, imienia i miejsca zamieszkania, jeżeli nie zachodzą warunki określone w art. 36 ust. 2;
-- **2)** dokonywać czynności prawnych niezbędnych do przeprowadzenia likwidacji, podając do publicznej wiadomości o wszczęciu postępowania likwidacyjnego;
-- **3)** po zakończeniu likwidacji zgłosić sądowi wniosek o wykreślenie stowarzyszenia z Krajowego Rejestru Sądowego.
+**Art. 40.** -Uproszczoną stowarzyszenia jest stowClrzyszenie nie prawnej. Osoby w liczbie co najmniej trzech, za stowarzyszenie regulamin w jego cel, teren i oraz przedstawiciela reprezen stowarzyszenie. 3. O utworzeniu stowarzyszenia jego na ze na stowarzyszenia, organ po dane, o których mowa w ust.
 
-3. Jeżeli likwidacja nie zostanie zakończona w ciągu roku od dnia jej zarządzenia, likwidatorzy przedstawiają przyczyny opóźnienia sądowi, który w razie uznania opóźnienia za usprawiedliwione przedłuża termin likwidacji lub zarządza zmianę likwidatorów.
+**Art. 41.** Sąd rejestrowy, na wniosek organu nad lub prokuratora, sto warzyszenia nie ono warunków wart. 16. Art. 14 ust. 2 stosuje odpo wiednio. w dni od dnia uzyskania informacji o stowarzyszenia nie zakazano jego ono Art. Stowarzyszenie zwykłe nie terenowych jednostek organizacyjnych, w osób prawnych, gospodarczej, darowizn, spadków i zapisów oraz otrzy dotacji, a z publicz nej. 2. Stowarzyszenie uzyskuje na ze 43. W sprawach nie uregulowanych odmiennie· w tym rozdziale do stowarzyszenia stosuje odpowiednio przepisy ustawy, z tym
 
-**Art. 38.** Majątek zlikwidowanego stowarzyszenia przeznacza się na cel określony w statucie lub w uchwale walnego zebrania członków (zebrania delegatów) o likwidacji stowarzyszenia. W razie braku postanowienia statutu lub uchwały w tej sprawie, sąd orzeka o przeznaczeniu majątku na określony cel społeczny.
+**Art. 44.** Ograniczenia we w czynnej wojskowej i junaków w obronie cywilnej oraz funkcjonariuszy i Milicji Obywatelskiej do stowa a uczestniczeniu w ich ustawy. 2. na terenach i w obiek tach w lub orga nów wojskowych albo resortu spraw maga zezwolenia, odpowiednio, Ministra Obrony Narodo wej lub Ministra Spraw albo organów przez nich
 
-**Art. 39.** Koszty likwidacji pokrywa się z majątku likwidowanego stowarzyszenia.
+**Art. 45.** Osoby stowarzyszenie .pro z albo lub publicznego zakres tej odpowiednio, z Ministrem Obrony Narodowej lub Ministrem Spraw albo organami przez nich Art. Związek Harcerstwa Polskiego zachowuje dotychczasowe uprawnienia do posh,lgiwania mundurem, odznakami i Uprawnienia Harcerstwa ,Polskiego w tym zakresie nie naruszane przez ,inne stowarzyszenia. Art. W ustawie z dnia marca o zgro madzeniach JDz. U. poz. z poz. z r. poz. i z r. poz. wart. 7 'Po ust. 1 dodaje ust. la w brzmieniu: "la. Do odbycia zebrania w celu nia stowarzyszenia jest wym_agane organu administracji o szczególnej w sprawach stopnia wojewódzkiego."
 
-#### Rozdział 6 Stowarzyszenia zwykłe
+**Art. 48.** W ustawie z dnia listopada r. o po wszechnym obrony Polskiej Rzeczypospolitej Ludowej (Dz. U. z poz. watt. do oznaqa jako ust. i dodaje ust. w brzmieniu: Junacy w obronie cy wilnej do organizacji i lub czynny w pracach organizacji i stowa do których przed do tylko za komendantów obro ny cywilnej." Art. W ustawie z dnia czerwca r. o bie wojskowej żołnierzy zawodówych (Dz. U; pozo, z r. poz. i z r. poz. i poz. z r. poz, oraz z poz. art. otrzymuje brzmienie: "Art. zawodowy Cio orga nizacji lub krajowych poza wojskiem, a do organi zacji lub zagranicznych lub za zezwoleniem Mini stra' Obrony Narodowej lub organów woj skowych przez niego
 
-**Art. 40.**
+**Art. 50.** W ustawie z dnia maja r. o szkolnic twie (Dz. U. z r. poz. z poz. i z r. poz. poz. wprowadza zmiany: wart. w ust. wyrazy "i niniejszej ustawy" za wyrazami "o ile przepisy niniejszej usta wy ,nie inaczej", art. otrzymuje brzmienie: "Art. Organem uprawnionym do sprawowa nia nadzoru nad organiza cji i studenckich o gu ogólnokrajowym i lokalnym jest Minister Edukacji Narodowej. Organem uprawnionym do sprawowania nadzoru nad uczelnianych organizacji i studenckich oraz nad (ogniwami) uczelnianymi organizacji i studenckich o ogólnokrajowym i lokalnym jest rek tor.", art.
 
-1. Uproszczoną formą stowarzyszenia jest stowarzyszenie zwykłe, nieposiadające osobowości prawnej.
+**Art. 51.** Do czasu uregulowania statusu prawnego wyznaniowych oraz zakonów i kon gregacji duchownych, do których zastosowanie prze pisy Prezydenta Rzeczypospolitej z dnia Prawo o stowarzyszeniach (Dz. U. poz. z poz. -z r. poz. poz. z poz. i poz. z poz. oraz z r. poz. stosuje wobec nich przepisy tego roz Przepis ust. stosuje odpowiednio do nowo wyznaniowych oraz zakonów kongregacji duchownych.
 
-1a. Stowarzyszenie zwykłe może we własnym imieniu nabywać prawa, w tym własność i inne prawa rzeczowe, zaciągać zobowiązania, pozywać i być pozywane.
+**Art. 52.** Działające w dniu ustawy w stowarzyszenia zarejestrowane i stowarzyszenia stowarzyszeniami w rozumieniu jej przepisów. Statuty tych podsta ich móc z ust. moc postanowienia statutów o których mowa w ust. sprzeczne z przepisami ustawy. _Art. Stowarzyszeniom, które do dnia ustawy w przyznaje honorowy "Stowarzyszenie szej i wpisuje je do rejestru stowarzy
 
-1b. Każdy członek odpowiada za zobowiązania stowarzyszenia zwykłego bez ograniczeń całym swoim majątkiem solidarnie z pozostałymi członkami oraz ze stowarzyszeniem. Odpowiedzialność ta powstaje z chwilą, gdy egzekucja z majątku stowarzyszenia zwykłego okaże się bezskuteczna.
+**Art. 54.**
 
-1c. Przepis ust. 1b nie stanowi przeszkody do wniesienia powództwa przeciwko członkowi, zanim egzekucja z majątku stowarzyszenia zwykłego okaże się bezskuteczna.
+1. Organy w terminie dw6ch od dnia ustawy w rejestrowym rejestry i stowarzy-_ prowadzone terenowe organy admi nistracji na terenie województwa zarejestrowanych, oraz ich statuty. Organy dotychczasowo w sprawach sto organowi tych w terminie w ust.
 
-2. Osoby w liczbie co najmniej trzech, zamierzające założyć stowarzyszenie zwykłe, uchwalają regulamin działalności, określający w szczególności nazwę stowarzyszenia zwykłego, cel lub cele, teren i środki działania, siedzibę, przedstawiciela reprezentującego stowarzyszenie zwykłe albo zarząd, zasady dokonywania zmian regulaminu działalności, sposób nabycia i utraty członkostwa, a także sposób rozwiązania stowarzyszenia zwykłego.
+**Art. 55.** W sprawach uregulowanych nie przed dniem / jej w stosuje przepisy tej ustawy. likwidacyjne ,przed dniem ustawy w prowadzi na pod stawie dotychczasowych prz.episów.
 
-3. Stowarzyszenie zwykłe, które zamierza posiadać zarząd, określa w regulaminie działalności tryb jego wyboru oraz uzupełniania składu, kompetencje, warunki ważności jego uchwał oraz sposób reprezentowania stowarzyszenia zwykłego, w szczególności zaciągania zobowiązań majątkowych.
+**Art. 56.** Tracą moc: Prezydenta Rzeczypospolitej z dnia r. - Prawo o stowarzyszeniach (Dz. U. poz. z poz. :4 r. poz. i poz. z· poz. poz. z r. poz. oraz z poz. z art. niniejszej ustawy, dekret z dnia 5 sierpnia o zmianie niektórych przepisów prawa o stowarzyszeniach (Dz. U. poz. z art. ust. lit. a) i cJ. •
 
-4. Stowarzyszenie zwykłe, które zamierza posiadać organ kontroli wewnętrznej, określa w regulaminie działalności tryb jego wyboru, uzupełniania składu oraz jego kompetencje.
+**Art. 57.** Ustawa wchodzi w z dniem Rady Pdllstwa: W. Jaruzelski Sekretarz Rady t. Surowiec 105 USTAW·A z dnia 7 kwietnia 1989 r. o zmianie ustawy o zawodowych.
 
-5. Przedstawiciel reprezentujący stowarzyszenie zwykłe albo zarząd składają na piśmie organowi nadzorującemu właściwemu ze względu na siedzibę stowarzyszenia zwykłego wniosek o wpis do ewidencji stowarzyszeń zwykłych, zwanej dalej „ewidencją”, dołączając:
+**Art. 1.** W ustawie z dnia 8 1982 r. o zawodowych (Dz.U. z 1985 r. 54, poz. 277 i z 1988 r. 11, poz. 84) wprowadza zmiany:
 
-- **1)** regulamin działalności;
-- **2)** listę założycieli stowarzyszenia zwykłego, zawierającą ich imiona i nazwiska, datę i miejsce urodzenia, miejsce zamieszkania oraz własnoręczne podpisy założycieli;
-- **3)** imię i nazwisko, adres zamieszkania oraz numer PESEL przedstawiciela reprezentującego stowarzyszenie zwykłe albo członków zarządu;
-- **4)** imię i nazwisko, adres zamieszkania oraz numer PESEL członków organu kontroli wewnętrznej, o ile regulamin działalności przewiduje ten organ;
-- **5)** adres siedziby stowarzyszenia zwykłego.
+**Art. 2.** Rejestracje organizacji wych, ogólnokrajowych organizacji orazl ogólnokrajowych i organizacji wych dokonane przed dniem w niniejszej ustawy moc Art. Ustawa wchodzi w z dniem Rady W. Jaruzelski Sekretarz Rady Z. 106 USTAWA z dnia 7 kwietnia 1989 r. • o zawodowych rolników indywidualnych.
 
-6. Jeżeli wniosek o wpis składa zarząd, podpisują go wszyscy członkowie zarządu.
+**Art. 1.** Rolnicy indywidualni gospo darstwo oraz osoby im bliskie stale wraz z nimi w tym gospodarstwie prawo tworzenia i zrzeszania w zawodowych rolników indywidualnych w celu ochrony swych praw i interesów zawodowych. 2. zawodowe rolników indywidualnych dzia w zakr61sie ochrony gospodarstw, intere sów ekonomicznych socjalnych swoich i ich rodzin oraz w na rzecz rozwoju gospodarczego oraz wsi i rolnidwa.
 
-**Art. 40a.**
+**Art. 2.**
 
-1. Stowarzyszenie zwykłe powstaje i może rozpocząć działalność z chwilą wpisu do ewidencji.
+1. zawodowe rolników indywidual nych niejszej ustawy i innymi powszechnie zgodnie z konstytucyjnymi zasadami ustro jowymi, Polskiej Rzeczypospolitej Ludowej, przepisami niprzepisami prawa, na podstawie zarejestrowanego statutu, zgodnego z tymi zasadami i przepisamI.
 
-2. Organ nadzorujący dokonuje wpisu do ewidencji w terminie 7 dni od dnia:
+2. zawodowe rolników indywidualnych a w samodzielnie, w spo sób zgodny z prawem, cele i programy swo jego statuty i inne akty oraz struktury organizacyjne.
 
-- **1)** wpływu wniosku o wpis, jeżeli nie został złożony wniosek, o którym mowa w art. 41;
-- **2)** uprawomocnienia się orzeczenia odrzucającego albo oddalającego wniosek, o którym mowa w art. 41.
+3. zawodowe rolników indywidualnych i nie nadzorowi lub kontroli ze stro ny organów administracji Organy te obo do powstrzymania wszelkich pro..... '. do ograniczenia lub ich zgodnej z prawem.
 
-3. Jeżeli wniosek o wpis zawiera braki, organ nadzorujący wzywa do jego uzupełnienia w terminie 14 dni od dnia otrzymania wezwania. Termin na dokonanie wpisu, o którym mowa w ust. 2, liczy się od dnia uzupełnienia wniosku o wpis. Nieuzupełnienie wniosku o wpis w terminie 14 dni powoduje jego bezskuteczność.
+**Art. 3.** Rolnicy za wodowy rolników indywidualnych komitet za i statut.' Liczba rolników cieli w dniu statutu do rejestracji nie mniejsza 30 osób, a rolników miejsce zamieszkania w jednej wsi 10 osób, z ust. 2. 2. W przypadku o ogólnokrajowym zakresie n'ie mniej 30 rolni ków miejsce zamieszkania w co !lajmniej 25 województwach.
 
-4. Organ nadzorujący informuje niezwłocznie przedstawiciela reprezentującego stowarzyszenie zwykłe albo zarząd o dokonaniu wpisu do ewidencji albo bezskuteczności wniosku o wpis.
+**Art. 4.** Statut zawodowego rolników indy widualnych a ponadto teryto rialny podmiotowy zakres oraz cele zasady nabywania i utraty prawa i obo i ku, tryb dokonywania ich wyboru i finansowania zasady uchwalania zmiany statutu oraz sposób
 
-5. W przypadku gdy organ nadzorujący nie dokona wpisu do ewidencji w terminie 7 dni od dnia wpływu wniosku o wpis lub uzupełnienia jego braków i nie został złożony wniosek, o którym mowa w art. 41, przedstawicielowi reprezentującemu stowarzyszenie zwykłe albo zarządowi przysługuje prawo wniesienia skargi na bezczynność do sądu administracyjnego.
+**Art. 5.**
 
-6. Do rozpoznania skargi, o której mowa w ust. 5, stosuje się przepisy ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2019 r. poz. 2325), z tym że:
+1. zawodowy rolników indywidual nych nabywa oraz prawo do nia z dniem zarejestrowania. 2: odmówi rejestracji, sta,tutu wska zuje, organizacja nie jest zawodowym rol ników indywidualnych w rozumieniu ustawy albo posta nowienia statutu niezgodne z jej przepisami.
 
-- **1)** organ nadzorujący przekazuje akta sprawy i odpowiedź na skargę w terminie 14 dni od dnia wniesienia skargi;
-- **2)** sąd rozpoznaje skargę w terminie 30 dni od dnia otrzymania akt sprawy wraz z odpowiedzią na skargę.
+3. organ zawodowego r.runików indywidualnych ma o zmianie statutu. W sprawie wpisania do rejestru zmiany statutu stosuje odpowiednio ust. 2.
 
-**Art. 40b.**
+**Art. 6.** Sąd zawodowy rolników indywidualnych z rejestru:
 
-1. W ewidencji zamieszcza się:
+**Art. 7.** Do rozpoznawania spraw, o których mowa wart. 5 i 6, stosuje odpowiednio przepisy Kodekim cywilnego o nieprocesowym. Sprawy te wojewódzkie ze na z spraw ków o ogólnokrajowym zakresie które rozpo znaje. Wojewódzki w Warszawie. 2. wymienione w ust. 1 rejestr ków zawodowych rolników indywidualnych. Rejestr jest jawny i dla osób trzeci'€h; zainteresowany ma prawo otrzymania uwierzytelnionych odpisów z tego rejestru. 3. W sprawach rejesttacji zawodowych rolników indywidualnych stosuje odpowiednio szcze tryb rejestrowego zawo dowych, w przepisach.
 
-- **1)** nazwę stowarzyszenia zwykłego, jego cel lub cele, teren i środki działania oraz adres siedziby;
-- **2)** imię i nazwisko przedstawiciela reprezentującego stowarzyszenie zwykłe albo członków zarządu oraz sposób reprezentowania stowarzyszenia zwykłego przez zarząd, o ile regulamin działalności przewiduje ten organ;
-- **3)** imię i nazwisko członków organu kontroli wewnętrznej, o ile regulamin działalności przewiduje ten organ;
-- **4)** informacje o regulaminie działalności i jego zmianach;
-- **5)** informację o posiadaniu statusu organizacji pożytku publicznego;
-- **6)** informacje o przekształceniu lub rozwiązaniu stowarzyszenia zwykłego;
-- **7)** imię i nazwisko likwidatora stowarzyszenia zwykłego;
-- **8)** informacje o zastosowaniu wobec stowarzyszenia zwykłego środków, o których mowa w rozdziale 3.
+**Art. 8.**
 
-2. Stowarzyszenie zwykłe składa organowi nadzorującemu, w terminie 7 dni od dnia wystąpienia zdarzenia uzasadniającego zmianę danych, wniosek o zamieszczenie w ewidencji zmienionych danych, o których mowa w ust. 1, załączając dokumenty stanowiące podstawę zmiany. Przepisy o wpisie do ewidencji stosuje się odpowiednio.
+1. na podstawie niniejszej ustawy prawa. i jakie przepisy ustaw organizacjom rolników w zakresie reprezentacji i obrony praw oraz interesów rolników.
 
-3. Stowarzyszenie zwykłe ma obowiązek informować o zmianie adresu zamieszkania osób, o których mowa w art. 40 ust. 5 pkt 3 i 4.
+2. Organy' i na równi wszystkie zawodowe rolni ków indywidualnych i organizacje rolników w zakresie ich o której mowa w ust.
 
-4. Ewidencja jest jawna i udostępniana na stronie podmiotowej organu nadzorującego w Biuletynie Informacji Publicznej. Każdy ma prawo otrzymania zaświadczeń z ewidencji.
+**Art. 9.**
 
-5. Dokumenty złożone do organu nadzorującego stanowią akta ewidencyjne, które są dostępne dla osób mających interes prawny.
+1. w razie stwierdzenia, dany organ zawodowego rolników indywidualnych prowadzi z Polskiej Rzeczypospo litej Ludowej lub innymi ustawami, ustala termin dostosowania tego organu do prawa.
 
-6. Ewidencja może być prowadzona w systemie teleinformatycznym.
+2. W razie bezskutecznego terminu przewi dzianego w ust. 1, orzec do 50 000 indywidualnie na poszczegól;nych da nego organu Grzywna ulega umorzeniu, je po jej wymierzeniu organ dostosuje do prawa.
 
-7. Minister właściwy do spraw administracji publicznej określi, w drodze rozporządzenia, sposób prowadzenia ewidencji, jej wzór oraz szczegółową treść wpisów w ewidencji w zakresie, o którym mowa w ust. 1, biorąc pod uwagę konieczność zapewnienia przejrzystości, kompletności i dostępności do danych zawartych w ewidencji.
+3. organ prowadzi z Polskiej Rzeczypospolitej Ludo wej lub innymi ustawami, a zastosowane na pod stawie ust. 1 i 2 bezskuteczne, od przeprowadzenia, w terminie, nowych wyborów do tego organu, pod rygorem zawieszenia tego organu.
 
-**Art. 41.** Sąd rejestrowy, na wniosek organu nadzorującego lub prokuratora, może zakazać założenia stowarzyszenia zwykłego, jeżeli nie spełnia ono warunków określonych w przepisach prawa.
+4. w ust. 1- 3 bez skuteczne, orzeka o z rejestru.
 
-**Art. 41a.**
+5. zawodowy rolników 'indywidualnych skre z rejestru jest swojej a w terminie 3 od uprawomocnienia orzeczenia o z reje stru swojej likwidacji w sposób przewidziany w statucie.
 
-1. Stowarzyszenie zwykłe reprezentuje przedstawiciel reprezentujący stowarzyszenie zwykłe albo zarząd.
+6. Do spraw, o których mowa w ust. 1-4, stosuje przepis art. 7 ust. L z tym orzeka w tych spra wach w jednego jako cego oraz dwóch 'po przeprowadzeniu rozpra wy. w tych sprawach wszczyna .na wniosek prokuratora.
 
-2. Podejmowanie przez przedstawiciela reprezentującego stowarzyszenie zwykłe albo zarząd czynności przekraczających zakres zwykłego zarządu wymaga uprzedniej zgody wszystkich członków stowarzyszenia zwykłego oraz udzielenia przez nich pełnomocnictwa do dokonania tych czynności.
+**Art. 10.** Ustawa ;wchodzi w z dniem Rady W. Jaruzelski Sekretarz Rady Z. Surowiec 107 USTAWA z dnia kwietnia r. o zmianie ustawy - Kodeks pracy oraz o zmianie niektórych ustaw. Art. W ustawie z dnia czerwca r. - Ko deks pracy (Dz. U. poz. z poz. z r. poz. z r. poz. z r. poz. i poz. z poz. z r. poz. oraz z r. poz. wprowadza zmiany: art. brzmienie: "Art. Pracownicy mają prawo tworze~ia zawodowych i zrzeszania w 2. Zasady tworzenia zawodo wych zrzeszania w ustawa o zlwodo wych i inne Art. Załoga uczestniczy w pracy w zakresie i na zasadach w przepisach. Art. 21. Kierownicy pracy oraz organy ad ministracji i gospodarczej warunki korzystanie z w art. 19 i
 
-3. Czynnościami przekraczającymi zakres zwykłego zarządu są w szczególności:
+**Art. 2.** . w przepisach Kodeksu pracy lub w innych przepisach prawa w przypadkach liczbie wyrazy: - "rada w odpowied nich przypadkach wyrazami organizacja - zawodowego" w odpowiednich przypadkach i liczbie wyrazami ogólnokrajowa organi zacja "Centralna Rada Zawodowych" w odpowiednich przypadkach wyrazami "ogólnokrajowa organizacja międzyzwiązkowa". 3. organizacje ogólno krajowe organizacje i ogólnokrajowa organi zacja zadania przewidziane w Kodeksie pracy i w innych przepisach prawa przez organy w statutach tych organizacji.
 
-- **1)** nabycie oraz zbycie nieruchomości lub prawa użytkowania wieczystego;
-- **2)** ustanowienie ograniczonego prawa rzeczowego;
-- **3)** zawarcie umowy kredytu albo pożyczki;
-- **4)** przejęcie długu, uznanie długu, zwolnienie z długu, przystąpienie do długu, zawarcie umowy poręczenia lub zawarcie innej podobnej umowy;
-- **5)** zaciągnięcie innych zobowiązań przekraczających wartość 10 000 zł.
+**Art. 4.** 'Umowy o zawarte na okres przed dniem w ustawy, w mocy do terminu, na jaki zawarte. Do umów tych przepisy dotychczasowe.
 
-**Art. 42.**
+**Art. 5.** W ustawie z dnia czerwca Ko deks administracyjnego U. z r. poz. i poz. z poz. i poz. z poz. z poz. z poz. oraz z poz. i poz. wart. po wyraz.ach "Rzecz nik Praw Obywatelskich" stawia przecinek i dodaje wyrazy "a w sprawach z zakresu prawa pracy i ubezMinister Pracy i Polityki Socjalnej oraz ogólnokrajowa organizacja kowa.". 6. ustawie z dnia r. o przed (Dz. U. z r. poz. i z poz. wprowadza zmiany:
 
-1. Stowarzyszenie zwykłe nie może:
+**Art. 7.** Ustawa wchodzi w z dniem 1 maja 1989 Rady w z. K. Barcikowski Sekretarz Rady Z. Surowiec 108 USTAWA z dnia 7 kwietnia 1989 o zmianie ustawy ---_Prawo lokalowe.
 
-- **1)** powoływać terenowych jednostek organizacyjnych;
-- **2)** zrzeszać osób prawnych;
-- **3)** prowadzić działalności gospodarczej;
-- **4)** prowadzić odpłatnej działalności pożytku publicznego.
+**Art. 1.** W ustawie z dnia 16 lipca 1987 r. o zmianie ustawy - Prawo (Dz. U. 21, poz. 124) art. 4 otrzymuje brzmienie: "Art. 1. Dotychczasowe mieszkania funkcyjne sta mieszkaniami warunkom w art. 50 ust. 2' ustawy wymienionej- w art. 1. 2. Decyzje o przydziale -funkcyj nych innych wymienione -w ust. 1 równoznaczne z ust. 7 - z o przydziale , przez terenowy organ administracji stwowej na czas nie oznaczony. 3. Przepis ust. 1 stosuje odpowiednio do lokali mieszkalnych wybudowanych lub uzyskanych ze pracy, przydzielonych przez terenowy organ administracji po 1 sierpnia 1974 osobom wskazanym przez te 4. Dotychcza,sowe o których mowa w ust. 1 i 1.. i równoznaczne z najmu mieszkania na czas nie oznaczony. 5. Dotychczasowym najemcom o których mowa w ust. 3, nie w dniu 1 stycznia 1988 r. pracownikami za pracy mieszkaniem, w razie umowy najmu prawo do lokalu zamiennego; w przypadku opuszczenia mieszkania przez takiego prawo do lokalu zamiennego jego ,lub Nie dotyczy to osób, z którymi stosunek: najmu z przyczyn wypowiedzenie najmu bez' zachowania terminów. 6. W razie osób, o których mowa w ust. 3, po dniu 1 1988 r., do i osób blis kich stosuje przepis art. 51 ust. 4 ustawy wymienionej wart. W takim przypadku nie ma zastosowania przepis art. 691 Kodeksu cywilnego. 7. Dotychczasowe funk cyjnych, dokonane na rzecz dozorców palaczy centralnego ogrzewania w bu dynkach, o którYch mowa wart. ust. 1 ustawy wymienionej wart. i równoznaczne z de o przydziale, przez tereno wy organ administracji na czas trwania ,,,,mowy o wykonywanie ich w danym budynku."
 
-2. Stowarzyszenie zwykłe uzyskuje środki na działalność ze składek członkowskich, darowizn, spadków, zapisów, dochodów z majątku stowarzyszenia oraz ofiarności publicznej.
-
-3. Stowarzyszenie zwykłe może otrzymywać dotacje na zasadach określonych w odrębnych przepisach.
-
-**Art. 42a.**
-
-1. Stowarzyszenie zwykłe liczące co najmniej siedmiu członków, może przekształcić się w stowarzyszenie.
-
-2. Przekształcenie stowarzyszenia zwykłego wymaga zgody wszystkich członków stowarzyszenia zwykłego, wyrażonej w drodze uchwały, zawierającej:
-
-- **1)** nazwę i siedzibę stowarzyszenia;
-- **2)** powołanie władz stowarzyszenia;
-- **3)** przyjęcie statutu stowarzyszenia, który stanowi załącznik do uchwały;
-- **4)** sprawozdanie finansowe stowarzyszenia zwykłego sporządzone na określony dzień w miesiącu poprzedzającym podjęcie uchwały o przekształceniu, które stanowi załącznik do uchwały.
-
-3. Informację o podjęciu uchwały o przekształceniu przedstawiciel reprezentujący stowarzyszenie zwykłe albo zarząd stowarzyszenia niezwłocznie podaje do publicznej wiadomości oraz zawiadamia o podjęciu tej uchwały wierzycieli stowarzyszenia zwykłego.
-
-**Art. 42b.**
-
-1. Stowarzyszenie zwykłe zawiadamia członków o zamiarze przekształcenia nie później niż na miesiąc przed planowanym dniem podjęcia uchwały o przekształceniu.
-
-2. Do zawiadomienia, o którym mowa w ust. 1, należy dołączyć:
-
-- **1)** projekt statutu stowarzyszenia;
-- **2)** informacje o aktywach i pasywach stowarzyszenia zwykłego.
-
-**Art. 42c.**
-
-1. Przekształcenie stowarzyszenia zwykłego następuje z chwilą wpisu stowarzyszenia do Krajowego Rejestru Sądowego.
-
-2. Sąd rejestrowy przesyła niezwłocznie właściwemu organowi nadzorującemu odpis postanowienia o wpisie do Krajowego Rejestru Sądowego wraz z zaświadczeniem o wpisie stowarzyszenia. Właściwy organ nadzorujący z urzędu wykreśla stowarzyszenie zwykłe z ewidencji.
-
-3. Wniosek o wpis stowarzyszenia do Krajowego Rejestru Sądowego składają i podpisują wszyscy członkowie zarządu. Do wniosku dołącza się uchwałę o przekształceniu wraz z zaświadczeniem o wpisie stowarzyszenia zwykłego do ewidencji, wydanym nie wcześniej niż na 3 miesiące przed dniem podjęcia uchwały o przekształceniu.
-
-4. Stowarzyszenie zwykłe zostaje rozwiązane bez przeprowadzenia postępowania likwidacyjnego z chwilą wpisu stowarzyszenia do Krajowego Rejestru Sądowego.
-
-**Art. 42d.**
-
-1. Z chwilą wpisu stowarzyszenia do Krajowego Rejestru Sądowego wstępuje ono we wszystkie prawa i obowiązki stowarzyszenia zwykłego, a członkowie stowarzyszenia zwykłego stają się członkami stowarzyszenia.
-
-2. Ujawnienie w księgach wieczystych lub rejestrach publicznych przejścia na stowarzyszenie praw ujawnionych w tych księgach lub rejestrach następuje na wniosek stowarzyszenia.
-
-3. Członkowie przekształcanego stowarzyszenia zwykłego odpowiadają na dotychczasowych zasadach, solidarnie ze stowarzyszeniem za zobowiązania stowarzyszenia zwykłego, powstałe przed dniem przekształcenia, przez okres roku, licząc od dnia przekształcenia. Odpowiedzialność ta powstaje z chwilą, gdy egzekucja z majątku stowarzyszenia okaże się bezskuteczna. Przepis art. 40 ust. 1c stosuje się odpowiednio.
-
-**Art. 42e.** Do przekształcenia stowarzyszenia zwykłego stosuje się odpowiednio przepisy dotyczące utworzenia stowarzyszenia.
-
-**Art. 43.** W sprawach nieuregulowanych odmiennie w tym rozdziale do stowarzyszenia zwykłego stosuje się odpowiednio przepisy ustawy, z tym że:
-
-#### Rozdział 7 Przepisy szczególne, zmiana przepisów obowiązujących oraz przepisy przejściowe i końcowe
-
-**Art. 44.**
-
-1. (uchylony)
-
-2. Działalność stowarzyszeń na terenach i w obiektach znajdujących się w zarządzie lub użytkowaniu organów wojskowych albo resortu spraw wewnętrznych wymaga zezwolenia, odpowiednio, Ministra Obrony Narodowej lub ministra właściwego do spraw wewnętrznych albo organów przez nich określonych.
-
-**Art. 45.** Osoby pragnące założyć stowarzyszenie prowadzące działalność bezpośrednio związaną z obronnością albo bezpieczeństwem państwa lub ochroną porządku publicznego są obowiązane uzgodnić zakres tej działalności, odpowiednio, z Ministrem Obrony Narodowej lub ministrem właściwym do spraw wewnętrznych albo organami przez nich określonymi.
-
-**Art. 46.** (uchylony) Art. 47–50. (pominięte)
-
-**Art. 51.**
-
-1. Do czasu odrębnego uregulowania statusu prawnego związków wyznaniowych oraz zakonów i kongregacji duchownych, do których miały zastosowanie przepisy rozporządzenia Prezydenta Rzeczypospolitej z dnia 27 października 1932 r. − Prawo o stowarzyszeniach (Dz. U. poz. 808, z późn. zm. ), stosuje się wobec nich przepisy tego rozporządzenia.
-
-2. Przepis ust. 1 stosuje się odpowiednio do nowo powstających związków wyznaniowych oraz zakonów i kongregacji duchownych.
-
-**Art. 52.**
-
-1. Działające w dniu wejścia ustawy w życie stowarzyszenia zarejestrowane i stowarzyszenia wyższej użyteczności stają się stowarzyszeniami w rozumieniu jej przepisów. Statuty tych stowarzyszeń, stanowiące podstawę ich działania, zachowują moc z zastrzeżeniem ust. 2.
-
-2. Tracą moc postanowienia statutów stowarzyszeń, o których mowa w ust. 1, sprzeczne z przepisami ustawy.
-
-**Art. 53.** (uchylony)
-
-**Art. 54.** (pominięty)
-
-**Art. 55.**
-
-1. W sprawach uregulowanych niniejszą ustawą, niezakończonych decyzją ostateczną przed dniem jej wejścia w życie, stosuje się przepisy tej ustawy.
-
-2. Postępowanie likwidacyjne stowarzyszeń wszczęte przed dniem wejścia ustawy w życie prowadzi się na podstawie dotychczasowych przepisów.
-
-**Art. 56.** Tracą moc:
-
-**Art. 57.** Ustawa wchodzi w życie z dniem ogłoszenia .
+**Art. 2.** Ustawa wchodzi w z daiem Rady w z. K. Barcikowski Sekretarz Rady Z. Surowiec t. Zam. 0181-1300-89 . . PL ISSN 0209-2123 Cena 64,00
 

@@ -24,7 +24,7 @@ domain: null
 | Ostatnia zmiana | 2024-10-21 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001544) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1544/text.pdf) |
 
-Poz.
+1544
 USTAWA z dnia 25 września 2024 r.
 zmianie ustawy delegowaniu kierowców transporcie drogowym oraz niektórych innych ustaw
 
@@ -32,9 +32,9 @@ zmianie ustawy delegowaniu kierowców transporcie drogowym oraz niektórych inny
 
 **Art. 28c.**
 
-1. Zagraniczny podmiot wykonujący przewóz, przypadkach, których 28b lub 2, przed rozpoczęciem na terytorium Rzeczypospolitej Polskiej, jest obowiązany przekazać kierującemu numer referencyjny albo dokument zastępujący zgłoszenie potwierdzenie przyjęcia dokumentu zastępującego zgłoszenie.
+1. Zagraniczny podmiot wykonujący przewóz, przypadkach, których 28b lub 2, przed rozpoczęciem na terytorium Rzeczypospolitej Polskiej, jest obowiązany przekazać kierującemu numer referencyjny albo dokument zastępujący zgłoszenie potwierdzenie przyjęcia zastępującego zgłoszenie.
 
-2. W przypadku nieotrzymania przez kierującego numeru referencyjnego albo dokumentu zastępującego zgłoszenie potwierdzenia przyjęcia dokumentu zastępującego zgłoszenie kierujący jest obowiązany odmówić rozpoczęcia towaru.”;”;
+2. W przypadku nieotrzymania przez kierującego numeru referencyjnego albo zastępującego zgłoszenie potwierdzenia przyjęcia zastępującego zgłoszenie kierujący jest obowiązany odmówić rozpoczęcia towaru.”;”;
 
 - **2)** po 48 dodaje 48a brzmieniu: „Art. 48a. Przepisy 39 4, 5, 8, 11 lit. b, 12–14, 18 19 oraz 43, zakresie dotyczącym wykonywania międzynarodowego rzeczy, 1a ustawy zmienianej 39, stosuje od dnia stycznia 2025 r.”;
 - **3)** 49 2 wyrazy „1 stycznia 2025 r.” zastępuje wyrazami „1 listopada 2024 r.”.

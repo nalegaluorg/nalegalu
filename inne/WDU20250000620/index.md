@@ -21,7 +21,7 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2025-03-20 |
 | Data wydania | 2025-05-12 |
-| Ostatnia zmiana | 2026-04-13 |
+| Ostatnia zmiana | 2026-05-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000620) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/620/text.pdf) |
 
 USTAWA z dnia 20 marca 2025 r.

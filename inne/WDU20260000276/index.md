@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# Poz. 276 OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ dnia 27 lutego 2026 sprawie ogłoszenia jednolitego tekstu ustawy o elektronicznym fakturowaniu zamówieniach publicznych, koncesjach roboty budowlane lub usługi partnerstwie publiczno-prywatnym
+# 276 OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ dnia 27 lutego 2026 sprawie ogłoszenia jednolitego tekstu ustawy elektronicznym fakturowaniu zamówieniach publicznych, koncesjach roboty budowlane lub usługi partnerstwie publiczno-prywatnym
 
 | Pole | Wartość |
 |---|---|
@@ -24,7 +24,8 @@ domain: null
 | Ostatnia zmiana | 2026-03-09 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000276) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/276/text.pdf) |
 
-1. Na podstawie 16 ust. zdanie pierwsze ustawy dnia 20 lipca 2000 o ogłaszaniu aktów normatywnych nieaktów prawnych U. 2019 poz. 1461) ogłasza się załączniku niniejszego obwieszczenia jednolity tekst ustawy dnia 9 listopada 2018 o elektronicznym fakturowaniu zamówieniach publicznych, koncesjach roboty budowlane lub usługi partnerstwie publiczno-prywatnym U. 2020 poz. 1666), uwzględnieniem zmiany wprowadzonej ustawą dnia 16 czerwca 2023 o zmianie ustawy o podatku od towarów usług niektórych ustaw U. poz. 1598, 2024 poz. 852 2025 poz. 1203) zmian wynikających przepisów ogłoszonych przed dniem 24 lutego 2026 Podany załączniku niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje 23 ustawy dnia 16 czerwca 2023 o zmianie ustawy o podatku od towarów usług niektórych ustaw U. poz. 1598, 2024 poz. 852 2025 poz. 1203), który stanowi: „Art. 23. Ustawa wchodzi życie dniem lutego 2026 r., wyjątkiem:
+1. Na podstawie 16 ust. zdanie pierwsze ustawy dnia 20 lipca 2000 ogłaszaniu aktów normatywnych nieaktów prawnych 2019 poz. 1461) ogłasza się załączniku niniejszego obwieszczenia jednolity tekst ustawy dnia 9 listopada 2018 elektronicznym fakturowaniu zamówieniach publicznych, koncesjach roboty budowlane lub usługi partnerstwie publiczno-prywatnym 2020 poz. 1666), uwzględnieniem zmiany wprowadzonej ustawą dnia 16 czerwca 2023 zmianie ustawy podatku od towarów usług niektórych ustaw poz. 1598, 2024 poz. 852 2025 poz. 1203) zmian wynikających przepisów ogłoszonych przed dniem 24 lutego 2026
+2. Podany załączniku niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje 23 ustawy dnia 16 czerwca 2023 zmianie ustawy podatku od towarów usług niektórych ustaw poz. 1598, 2024 poz. 852 2025 poz. 1203), który stanowi: „Art. 23. Ustawa wchodzi życie dniem lutego 2026 r., wyjątkiem:
 1) 3 1, 3 5 zakresie 299g § 2 299h § 2, 7 2 10, które wchodzą życie dniem następującym po dniu ogłoszenia;
 2) 8, 9, 10 14 14, które wchodzą życie dniem września 2023 r.;
 3) 4 5, 4–6, 7 3, 9 18–21, które wchodzą życie dniem stycznia 2024 r.;
@@ -36,11 +37,15 @@ Marszałek Sejmu: W. Czarzasty
 
 **Art. 1.** Ustawa określa:
 
+**Art. 2.** Ilekroć niniejszej ustawie jest mowa o:
+
 **Art. 4.**
 
-1. Zamawiający obowiązany odbierania od wykonawcy ustrukturyzowanych faktur elektronicznych przesłanych za pośrednictwem platformy. Wykonawca nie obowiązany wysyłania ustrukturyzowanych faktur elektronicznych zamawiającego za pośrednictwem platformy.
+1. Zamawiający jest obowiązany odbierania od wykonawcy ustrukturyzowanych faktur elektronicznych przesłanych za pośrednictwem platformy.
 
-3. W przypadku zamówień publicznych, nie stosuje się przepisów ustawy Prawo zamówień publicznych, ustawy o umowie koncesji albo ustawy o partnerstwie publiczno-prywatnym, zamawiający może umowie, ogłoszeniu o zamówieniu, specyfikacji warunków zamówienia albo innym dokumencie rozpoczynającym postępowanie o udzielenie zamówienia publicznego, postępowanie o zawarcie umowy koncesji albo postępowanie sprawie wyboru partnera prywatnego wyłączyć stosowanie ustrukturyzowanych faktur elektronicznych.
+2. Wykonawca nie jest obowiązany wysyłania ustrukturyzowanych faktur elektronicznych zamawiającego za pośrednictwem platformy.
+
+3. W przypadku zamówień publicznych, nie stosuje się przepisów ustawy Prawo zamówień publicznych, ustawy umowie koncesji albo ustawy partnerstwie publiczno-prywatnym, zamawiający może umowie, ogłoszeniu zamówieniu, specyfikacji warunków zamówienia albo innym dokumencie rozpoczynającym postępowanie udzielenie zamówienia publicznego, postępowanie zawarcie umowy koncesji albo postępowanie sprawie wyboru partnera prywatnego wyłączyć stosowanie ustrukturyzowanych faktur elektronicznych.
 
 4. Zamawiający wykonawca mogą wysyłać odbierać inne ustrukturyzowane dokumenty elektroniczne za pośrednictwem platformy, jeżeli druga strona wyrazi to zgodę.
 
@@ -48,30 +53,36 @@ Marszałek Sejmu: W. Czarzasty
 
 **Art. 5.**
 
-1. Zamawiający obowiązany posiadania konta platformie. Zamawiający zakłada konto platformie przed przewidywanym terminem otrzymania pierwszej ustrukturyzowanej faktury elektronicznej.
+1. Zamawiający jest obowiązany posiadania konta platformie.
 
-3. W przypadku gdy wykonawca wysyła ustrukturyzowane faktury elektroniczne inne ustrukturyzowane dokumenty elektroniczne, wykorzystuje własne konto platformie, chyba że upoważnił ich wysyłania inną osobę lub jednostkę organizacyjną nieposiadającą osobowości prawnej. Jeżeli ustrukturyzowaną fakturę elektroniczną lub inne ustrukturyzowane dokumenty elektroniczne wysyła upoważniona osoba lub jednostka organizacyjna nieposiadająca osobowości prawnej, ich treści zamieszcza się stosowną adnotację o wykonawcy.
+2. Zamawiający zakłada konto platformie przed przewidywanym terminem otrzymania pierwszej ustrukturyzowanej faktury elektronicznej.
 
-4. Korzystanie platformy bezpłatne.
+3. W przypadku gdy wykonawca wysyła ustrukturyzowane faktury elektroniczne inne ustrukturyzowane dokumenty elektroniczne, wykorzystuje własne konto platformie, chyba że upoważnił ich wysyłania inną osobę lub jednostkę organizacyjną nieposiadającą osobowości prawnej. Jeżeli ustrukturyzowaną fakturę elektroniczną lub inne ustrukturyzowane dokumenty elektroniczne wysyła upoważniona osoba lub jednostka organizacyjna nieposiadająca osobowości prawnej, ich treści zamieszcza się stosowną adnotację wykonawcy.
 
-5. Uwierzytelnienie użytkownika platformy następuje sposób określony 20a ust. albo 2 ustawy dnia 17 lutego 2005 o informatyzacji działalności podmiotów realizujących zadania publiczne.
+4. Korzystanie platformy jest bezpłatne.
+
+5. Uwierzytelnienie użytkownika platformy następuje sposób określony 20a ust. albo 2 ustawy dnia 17 lutego 2005 informatyzacji działalności podmiotów realizujących zadania publiczne.
 
 **Art. 6.**
 
-1. Ustrukturyzowana faktura elektroniczna składa się danych wymaganych przepisami o podatku od towarów usług danych zawierających:
+1. Ustrukturyzowana faktura elektroniczna składa się danych wymaganych przepisami podatku od towarów usług danych zawierających:
 
 - **1)** informacje dotyczące odbiorcy płatności;
-- **2)** wskazanie umowy sprawie zamówienia publicznego. W ustrukturyzowanej fakturze elektronicznej, poza danymi określonymi ust. 1, mogą być zamieszczone także inne dane, jeżeli są niezbędne ze względu specyfikę zamówień publicznych.
+- **2)** wskazanie umowy sprawie zamówienia publicznego.
 
-3. Inny ustrukturyzowany dokument elektroniczny zawiera wskazanie umowy sprawie zamówienia publicznego lub ustrukturyzowanej faktury elektronicznej, dotyczy. mieniu ustawy dnia 30 kwietnia 2010 o instytutach badawczych U. 2024 poz. 534, 2025 poz. 1017 1080 2026 poz. 160) lub instytutowi działającemu ramach Sieci Badawczej Łukasiewicz rozumieniu ustawy dnia 21 lutego 2019 o Sieci Badawczej Łukasiewicz U. 2026 poz. 194) realizację niektórych zadań wynikających pełnienia terytorium Rzeczypospolitej Polskiej roli krajowej jednostki zarządzającej ramach OpenPEPPOL, mając uwadze zakres działalności tego instytutu zapewnienie efektywnego fakturowania elektronicznego zamówieniach publicznych, zapewniając niezbędne finansowanie.
+2. W ustrukturyzowanej fakturze elektronicznej, poza danymi określonymi ust. 1, mogą być zamieszczone także inne dane, jeżeli są niezbędne ze względu specyfikę zamówień publicznych.
 
-3. Zadania, o mowa ust. 2, są finansowane budżetu państwa części, której dysponentem minister właściwy spraw gospodarki formie dotacji celowej.
+3. Inny ustrukturyzowany dokument elektroniczny zawiera wskazanie umowy sprawie zamówienia publicznego lub ustrukturyzowanej faktury elektronicznej, dotyczy. mieniu ustawy dnia 30 kwietnia 2010 instytutach badawczych 2024 poz. 534, 2025 poz. 1017 1080 2026 poz. 160) lub instytutowi działającemu ramach Sieci Badawczej Łukasiewicz rozumieniu ustawy dnia 21 lutego 2019 Sieci Badawczej Łukasiewicz 2026 poz. 194) realizację niektórych zadań wynikających pełnienia terytorium Rzeczypospolitej Polskiej roli krajowej jednostki zarządzającej ramach OpenPEPPOL, mając uwadze zakres działalności tego instytutu zapewnienie efektywnego fakturowania elektronicznego zamówieniach publicznych, zapewniając niezbędne finansowanie.
 
-4. Minister właściwy spraw gospodarki, zakresie zadań, o mowa ust. 2, współdziała ministrem nadzorującym instytut badawczy.
+3. Zadania, mowa ust. 2, są finansowane budżetu państwa części, której dysponentem jest minister właściwy spraw gospodarki formie dotacji celowej.
+
+4. Minister właściwy spraw gospodarki, zakresie zadań, mowa ust. 2, współdziała ministrem nadzorującym instytut badawczy.
 
 **Art. 9.**
 
-1. Ustrukturyzowana faktura elektroniczna inny ustrukturyzowany dokument elektroniczny spełniają wymagania określone normie europejskiej. Minister właściwy spraw gospodarki określi, drodze rozporządzenia, listę ustrukturyzowanych dokumentów elektronicznych, które mogą być przesyłane za pośrednictwem platformy, uwzględniając rodzaje dokumentów stosowanych przez zamawiających wykonawców związku realizacją zamówień publicznych.
+1. Ustrukturyzowana faktura elektroniczna inny ustrukturyzowany dokument elektroniczny spełniają wymagania określone normie europejskiej.
+
+2. Minister właściwy spraw gospodarki określi, drodze rozporządzenia, listę ustrukturyzowanych dokumentów elektronicznych, które mogą być przesyłane za pośrednictwem platformy, uwzględniając rodzaje dokumentów stosowanych przez zamawiających wykonawców związku realizacją zamówień publicznych.
 
 3. Minister właściwy spraw gospodarki zamieszcza platformie dokumentację organizacyjno-techniczną platformy, zawierającą szczególności:
 
@@ -81,7 +92,9 @@ Marszałek Sejmu: W. Czarzasty
 
 **Art. 10.**
 
-1. Minister właściwy spraw gospodarki administratorem przetwarzanych platformie danych osobowych rozumieniu przepisów rozporządzenia Parlamentu Europejskiego Rady (UE) 2016/679 dnia 27 kwietnia 2016 sprawie ochrony osób fizycznych związku przetwarzaniem danych osobowych sprawie swobodnego przepływu takich danych uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) Urz. UE L 119 04.05.2016, str. 1, późn. zm. ). Dane osobowe zgromadzone platformie są przetwarzane celu zapewnienia sprawności rzetelności elektronicznego fakturowania zamówieniach publicznych.
+1. Minister właściwy spraw gospodarki jest administratorem przetwarzanych platformie danych osobowych rozumieniu przepisów rozporządzenia Parlamentu Europejskiego Rady (UE) 2016/679 dnia 27 kwietnia 2016 sprawie ochrony osób fizycznych związku przetwarzaniem danych osobowych sprawie swobodnego przepływu takich danych uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie ochronie danych) Urz. UE L 119 04.05.2016, str. 1, późn. zm. ).
+
+2. Dane osobowe zgromadzone platformie są przetwarzane celu zapewnienia sprawności rzetelności elektronicznego fakturowania zamówieniach publicznych.
 
 3. Administrator może publikować Biuletynie Informacji Publicznej stronie podmiotowej urzędu obsługującego ministra właściwego spraw gospodarki, przypadkach określonych 8 dyrektywy Parlamentu Europejskiego Rady 2014/55/UE dnia 16 kwietnia 2014 sprawie fakturowania elektronicznego zamówieniach publicznych (Tekst mający znaczenie dla EOG) Urz. UE L 133 06.05.2014, str. 1), dane osobowe zgromadzone związku fakturowaniem elektronicznym zamówieniach publicznych, zakresie niezbędnym zapewnienia przejrzystości rozliczalności poszanowaniem zasady ochrony prywatności.
 
@@ -92,13 +105,17 @@ Marszałek Sejmu: W. Czarzasty
 - **1)** 2019 730 000 zł;
 - **2)** 2020 2 850 000 zł;
 - **3)** 2021 2 850 000 zł;
-- **10)** 2028 2 850 000 zł. Minister właściwy spraw gospodarki monitoruje wykorzystanie limitu wydatków, o którym mowa ust. 1, przynajmniej cztery razy roku dokonuje, według stanu koniec każdego kwartału, oceny wykorzystania limitu wydatków dany rok.
+- **10)** 2028 2 850 000 zł.
 
-3. W przypadku zagrożenia przekroczeniem lub przekroczenia przyjętego dany rok budżetowy maksymalnego limitu wydatków, o którym mowa ust. 1, minister właściwy spraw gospodarki wdraża mechanizm korygujący polegający ograniczeniu kosztów rzeczowych związanych realizacją zadań bieżących.
+2. Minister właściwy spraw gospodarki monitoruje wykorzystanie limitu wydatków, którym mowa ust. 1, przynajmniej cztery razy roku dokonuje, według stanu koniec każdego kwartału, oceny wykorzystania limitu wydatków dany rok.
+
+3. W przypadku zagrożenia przekroczeniem lub przekroczenia przyjętego dany rok budżetowy maksymalnego limitu wydatków, którym mowa ust. 1, minister właściwy spraw gospodarki wdraża mechanizm korygujący polegający ograniczeniu kosztów rzeczowych związanych realizacją zadań bieżących.
 
 **Art. 12.**
 
-1. Do zamówień publicznych, o mowa 2 ust. ustawy Prawo zamówień publicznych, umów koncesji, o mowa 3 ust. ustawy o umowie koncesji, umów o partnerstwie publiczno-prywatnym, o mowa 4 ust. 3 ustawy o partnerstwie publiczno-prywatnym, przepisy niniejszej ustawy stosuje się od dnia sierpnia 2019 Przepisów niniejszej ustawy nie stosuje się postępowań o udzielenie zamówienia publicznego, postępowań o zawarcie umowy koncesji postępowań sprawie wyboru partnera prywatnego, wszczętych przed dniem wejścia życie niniejszej ustawy, umów zawartych wyniku takich postępowań.
+1. Do zamówień publicznych, mowa 2 ust. ustawy Prawo zamówień publicznych, umów koncesji, mowa 3 ust. ustawy umowie koncesji, umów partnerstwie publiczno-prywatnym, mowa 4 ust. 3 ustawy partnerstwie publiczno-prywatnym, przepisy niniejszej ustawy stosuje się od dnia sierpnia 2019
+
+2. Przepisów niniejszej ustawy nie stosuje się postępowań udzielenie zamówienia publicznego, postępowań zawarcie umowy koncesji postępowań sprawie wyboru partnera prywatnego, wszczętych przed dniem wejścia życie niniejszej ustawy, umów zawartych wyniku takich postępowań.
 
 **Art. 13.** Tworzy się platformę.
 

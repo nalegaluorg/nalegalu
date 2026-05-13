@@ -33,7 +33,7 @@ USTAWA dnia 13 maja 1994 o stosunku do Ewangelicko-Reformowanego Rzeczypospolite
 
 3. Zmiany niniejszej ustawy uprzedniej opinii Konsystorza
 
-**Art. 1.** Kościół swoich sprawach we przepisami Prawa swobodnie swoje funkcje cele. Prawo o którym mowa 1, jest uchwalane przez Synod 3. jest samodzielny jakiejkolwiek pozakrajowej duchownej 5. wyznawców osób innych zamiesz czasowo terytorium Rzeczy pospolitej Polskiej. 2 Osoby prawne ich organy
+**Art. 1.** Kościół swoich sprawach we przepisami Prawa swobodnie swoje funkcje cele. Prawo o którym mowa 1, jest uchwalane przez Synod 3. jest samodzielny jakiejkolwiek pozakrajowej duchownej 5. wyznawców innych zamiesz czasowo terytorium Rzeczy pospolitej Polskiej. 2 Osoby prawne ich organy
 
 **Art. 3.**
 
@@ -43,7 +43,7 @@ USTAWA dnia 13 maja 1994 o stosunku do Ewangelicko-Reformowanego Rzeczypospolite
 
 1. Tworzenie przez nowych parafii znoszenie try bie przewidzianym przepisach Nowo utworzone parafie pra powiadomienia przez Konsystorz wojewody ze parafii.
 
-3. Powiadomienie powinno parafii, jej nego proboszczem lub administ ratorem parafii. O osoby organu Konsystorz powiadamia Ministra Szefa Rady Ministrów, odniesieniu do innych cielnych osób prawnych publiczna
+3. Powiadomienie powinno parafii, jej nego proboszczem lub administ ratorem parafii. O osoby organu Konsystorz powiadamia Ministra Szefa Rady Ministrów, odniesieniu do innych cielnych prawnych publiczna
 
 **Art. 8.**
 
@@ -73,7 +73,7 @@ USTAWA dnia 13 maja 1994 o stosunku do Ewangelicko-Reformowanego Rzeczypospolite
 
 **Art. 14.** Osobom do prawo zwolnienia nauki lub pracy Wielki warunkach ustawie dnia 17 maja 1989 o gwarancjach sumienia wyznania (Dz. U. 29, poz. 155, 1990 51, poz. 297, 55, poz. 321 86, poz. 504, 1991 95, poz. 425 1993 7, poz. 34).
 
-**Art. 15.** Instytucje dokumentacji, ochronie, konserwacji, upowszechnianiu zabytków architektury sztuki sakralnej, muzeów, archiwów bibliotek a kultury sztuki o motywach religijnych, dziedzictwa kultury polskiej. 4 Sprawy osób prawnych
+**Art. 15.** Instytucje dokumentacji, ochronie, konserwacji, upowszechnianiu zabytków architektury sztuki sakralnej, muzeów, archiwów bibliotek a kultury sztuki o motywach religijnych, dziedzictwa kultury polskiej. 4 Sprawy prawnych
 
 **Art. 16.** Kościelnym osobom prawnym prawo nabywania, posiadania zbywania mienia ruchomego nieruchomego, nabywania zbywania innych praw kowych swobodnego swoim
 
@@ -83,7 +83,7 @@ USTAWA dnia 13 maja 1994 o stosunku do Ewangelicko-Reformowanego Rzeczypospolite
 
 1. Grunty Skarbu twa lub gminy, przeznaczone planach zagospodarowania przestrzennego cele sakralne wniosek osoby prawnej jej sprzedawane lub oddawane wieczyste. przekazania darowizny sprawozdanie o przeznaczeniu jej
 
-3. osoby prawne zwolnione podatku lub ich tych osób albo przez nie, podstawie innego prawnego, cele niemieszkalne, zaj mowanej wykonywanie gospodarczej.
+3. osoby prawne zwolnione podatku lub ich tych albo przez nie, podstawie innego prawnego, cele niemieszkalne, zaj mowanej wykonywanie gospodarczej.
 
 4. Zwolnienie podatku obejmuje lub ich przeznaczone cele mieszkal ne duchownych diakonatów,
 

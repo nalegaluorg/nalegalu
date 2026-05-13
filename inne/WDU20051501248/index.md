@@ -26,7 +26,7 @@ domain: null
 
 **Art. 1.** Wustawie zdnia 15 grudnia 2000 osamorządach zawodowych architektów, inżynierów budownictwa urbanistów (Dz. U. 2001 5, 42, póên. zm. ) wprowadza się następujące zmiany:
 
-**Art. 2.** Sprawy ze skarg, których mowa 26 pkt 2 iart. 38 pkt 2 ustawy wymienionej wart. 1, wniesionych Naczelnego Sądu Administracyjnego przed dniem wejścia życie niniejszej ustawy, któinżynierów budownictwa,”; rych postępowanie nie zostało zakończone, podlegają rozpoznaniu przez właściwy wojewódzki sąd administracyjny.
+**Art. 2.** Sprawy ze skarg, których mowa art. 26 pkt 2 iart. 38 pkt 2 ustawy wymienionej wart. 1, wniesionych Naczelnego Sądu Administracyjnego przed dniem wejścia życie niniejszej ustawy, któinżynierów budownictwa,”; rych postępowanie nie zostało zakończone, podlegają rozpoznaniu przez właściwy wojewódzki sąd administracyjny.
 
 **Art. 3.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski dnia 30 czerwca 2005 zmianie ustawy samorządach zawodowych architektów, inżynierów budownictwa urbanistów —————— USTAWA dnia 1 lipca 2005 zmianie ustawy systemie ubezpieczeń społecznych niektórych innych ustaw
 
@@ -34,7 +34,7 @@ domain: null
 
 **Art. 2.** Wustawie zdnia 20 grudnia 1990 oubezpieczeniu społecznym rolników (Dz. U. 1998 7, 25, póên. zm.
 
-**Art. 4.** Przepisy 18aust. 1 ustawy, októrej mowa 1, brzmieniu nadanym niniejszą ustawą, mają zastosowanie osób, które rozpoczęły wykonywanie po dniu wejścia wżycie niniejszej ustawy.
+**Art. 4.** Przepisy art. 18aust. 1 ustawy, októrej mowa art. 1, brzmieniu nadanym niniejszą ustawą, mają zastosowanie osób, które rozpoczęły wykonywanie po dniu wejścia wżycie niniejszej ustawy.
 
 **Art. 5.** Ustawa wchodzi życie po upływie 14 dni
 

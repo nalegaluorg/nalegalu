@@ -10,7 +10,7 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# Warszawa, dnia 16 lutego 2016
+# Warszawa, dnia 16 lutego 2016 Poz.
 
 | Pole | Wartość |
 |---|---|

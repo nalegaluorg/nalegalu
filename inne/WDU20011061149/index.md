@@ -26,7 +26,7 @@ domain: null
 
 3. Wydatki wykładane przez Skarb Państwa mają art. 637—639 641 Kodeksu karnego, charakter zryczałtowany. Zryczałtowane wydatki po- przy czym wydatkami Skarbu Państwa są także wydatstępowania nie obejmują jednak należności dla osób, ki ponoszone wtoku czynności wyjaśniających.
 zakładów, instytutów iinstytucji powołanych wydania opinii należności ustanowionych urzędu obrońcy ipełnomocnika. Prezydent Rzeczypospolitej Polskiej:A. Kwaśniewski
-USTAWA zdnia 24 sierpnia 2001 Przepisy wprowadzające Kodeks owykroczenia.
+USTAWA 24 sierpnia 2001 Przepisy wprowadzające Kodeks owykroczenia.
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -36,7 +36,7 @@ USTAWA zdnia 24 sierpnia 2001 Przepisy wprowadzające Kodeks owykroczenia.
 
 **Art. 3.**
 
-1. Jeżeli obowiązujące przepisy powołują się na uchylone przepisy dotyczące przedmiotów unormowanych Kodeksie sprawach o wykroczenia albo odsyłają ogólnie przepisów o postępowaniu sprawach o wykroczenia, stosuje się wtym zakresie odpowiednio przepisy Kodeksu postępowania sprawach o wykroczenia, zastrzeżeniem Przepisy ustawy, o której mowa art. 2 2 pkt1, wymienione wart. 170 ustawy zdnia 26 listopada 1998 o finansach publicznych (Dz. U. 155, 1014, 1999 38, 360, 49, 485, 70, 778 110, 1255, 2000 6, 69, 12, 136, 48, 550, 95, 1041, 119, 1251 122, 1315 z2001 45, 497,Nr 46, 499, 88, 961, 98, 1070, 100, 1082 102, 1116), stosuje się nadal onaruszenie dyscypliny
+1. Jeżeli obowiązujące przepisy powołują się na uchylone przepisy dotyczące przedmiotów unormowanych Kodeksie sprawach o wykroczenia albo odsyłają ogólnie przepisów o postępowaniu sprawach o wykroczenia, stosuje się wtym zakresie odpowiednio przepisy Kodeksu postępowania sprawach o wykroczenia, zastrzeżeniem Przepisy ustawy, o której mowa art. 2 2 pkt1, wymienione wart. 170 ustawy 26 listopada 1998 o finansach publicznych (Dz. U. 155, 1014, 1999 38, 360, 49, 485, 70, 778 110, 1255, 2000 6, 69, 12, 136, 48, 550, 95, 1041, 119, 1251 122, 1315 z2001 45, 497,Nr 46, 499, 88, 961, 98, 1070, 100, 1082 102, 1116), stosuje się nadal onaruszenie dyscypliny
 
 3. Stosunek pracy zradcą kolegium spraw wykroczeń wygasa zupływem terminu wskazanego w§ 1, chyba że przed upływem tego terminu zostanie on mianowany asesorem albo referendarzem sądowym bądê zatrudniony jako pracownik sądowy.
 
@@ -44,7 +44,7 @@ USTAWA zdnia 24 sierpnia 2001 Przepisy wprowadzające Kodeks owykroczenia.
 
 **Art. 5.**
 
-1. Wustawie zdnia 20 maja 1971 Kodeks wykroczeń (Dz. U. 12, 114, z1981r. 24, 124, z1982 16, 125, z1983r. 6, 35 iNr 44, 203, z1984 54, 275, z1985 Nr14, 60 23, 100, 1986 39, 193, z1988r. 20, 135 iNr41, 324, z1989 Nr34, 180, 1990 51, 297, 72, 422 86, 504, 1991 75, 332 91, 408, 1992 24, 101, 1994 poz.600, z1995 6, poz.29 iNr 60, 310, z1997r. 54, 349, 60, poz.369, 85, 539, 98, 602, 104, 661, 106, 677, 111, 724, 779, 133, 884 141, 942, 1998 113, 717, 1999 83, 931 101, 1178, 2000 22, 271, 73, 852, 74, 855 iNr 117, 1228 2001 100, 1081) art. 10 otrzymuje brzmienie: ŃArt. 10. 1. Jeżeli czyn będący wykroczeniem wyczerpuje zarazem znamiona przestępstwa, orzeka się za przestępstwo za wykroczenie, tym że jeżeli orzeczono za przestępstwo za wykroczenie karę lub środek karny tego samego rodzaju, wykonuje się surowszą karę lub środek karny. W razie uprzedniego wykonania łagodniejszej kary lub środka karnego zalicza się je na poczet surowszych. Przy zaliczaniu kar przyjmuje się jeden dzień aresztu za równoważny jednemu dniowi pozbawienia wolności, dwóm dniom ograniczenia wolności grzywnie kwocie od 20 150 złotych.
+1. Wustawie 20 maja 1971 Kodeks wykroczeń (Dz. U. 12, 114, z1981r. 24, 124, z1982 16, 125, z1983r. 6, 35 iNr 44, 203, z1984 54, 275, z1985 Nr14, 60 23, 100, 1986 39, 193, z1988r. 20, 135 iNr41, 324, z1989 Nr34, 180, 1990 51, 297, 72, 422 86, 504, 1991 75, 332 91, 408, 1992 24, 101, 1994 poz.600, z1995 6, poz.29 iNr 60, 310, z1997r. 54, 349, 60, poz.369, 85, 539, 98, 602, 104, 661, 106, 677, 111, 724, 779, 133, 884 141, 942, 1998 113, 717, 1999 83, 931 101, 1178, 2000 22, 271, 73, 852, 74, 855 iNr 117, 1228 2001 100, 1081) art. 10 otrzymuje brzmienie: ŃArt. 10. 1. Jeżeli czyn będący wykroczeniem wyczerpuje zarazem znamiona przestępstwa, orzeka się za przestępstwo za wykroczenie, tym że jeżeli orzeczono za przestępstwo za wykroczenie karę lub środek karny tego samego rodzaju, wykonuje się surowszą karę lub środek karny. W razie uprzedniego wykonania łagodniejszej kary lub środka karnego zalicza się je na poczet surowszych. Przy zaliczaniu kar przyjmuje się jeden dzień aresztu za równoważny jednemu dniowi pozbawienia wolności, dwóm dniom ograniczenia wolności grzywnie kwocie od 20 150 złotych.
 
 3. Karę aresztu orzeczoną za wykroczenie uważa się za karę tego samego rodzaju co kara pozbawienia wolności orzeczona za przestępstwo.
 
@@ -60,7 +60,7 @@ USTAWA zdnia 24 sierpnia 2001 Przepisy wprowadzające Kodeks owykroczenia.
 - **3)** wart. 138 wust. 3 skreśla się zdanie drugie;
 - **4)** wart. 138 dodaje się ust. 4 wbrzmieniu: Ń4. Wniosek, o którym mowa ust. 3, dotyczący komendantów wojewódzkich Policji ich zastępców lub policjantów pełniących służbę wKomendzie Głównej Policji kieruje się Komendanta Głównego Policji.”
 
-4. Wustawie zdnia 6 kwietnia 1990 oUrzędzie Ochrony Państwa (Dz. U. 1999 51, 526, 53, 548 110, 1255, 2000 73, 852 2001 81, 877) wprowadza się następujące zmiany:
+4. Wustawie 6 kwietnia 1990 oUrzędzie Ochrony Państwa (Dz. U. 1999 51, 526, 53, 548 110, 1255, 2000 73, 852 2001 81, 877) wprowadza się następujące zmiany:
 
 - **1)** wart. 119:
     - **a)** skreśla się ust. 2,
@@ -68,7 +68,7 @@ USTAWA zdnia 24 sierpnia 2001 Przepisy wprowadzające Kodeks owykroczenia.
 
 - **2)** skreśla się art. 121 i122.
 
-5. Wustawie zdnia 12 paêdziernika 1990r. oStraży Granicznej (Dz. U. 78, 462, 1991 94, 422, 1992 54, 254, 1993 12, poz.52, z1994 53, 214, z1995 4, 17,
+5. Wustawie 12 paêdziernika 1990r. oStraży Granicznej (Dz. U. 78, 462, 1991 94, 422, 1992 54, 254, 1993 12, poz.52, z1994 53, 214, z1995 4, 17,
 
 - **1)** wart. 126 skreśla się ust. 2;
 - **2)** skreśla się art. 128;
@@ -84,7 +84,7 @@ USTAWA zdnia 24 sierpnia 2001 Przepisy wprowadzające Kodeks owykroczenia.
 - **5)** art. 646 otrzymuje brzmienie: ŃArt. 646. W sprawach podlegających orzecznictwu sądów wojskowych nie stosuje się przepisów o postępowaniu uproszczonym, prywatno-skargowym nakazowym. Poza tym stosuje się przepisy działów poprzednich, chyba że przepisy działu niniejszego stanowią inaczej.”;
 - **6)** skreśla się rozdział 75.
 
-8. Wustawie zdnia 6 czerwca 1997 r.—Przepisy wprowadzające Kodeks karnego (Dz. U. 89, 556 iNr 160, 1083 z2000 62,
+8. Wustawie 6 czerwca 1997 r.—Przepisy wprowadzające Kodeks karnego (Dz. U. 89, 556 iNr 160, 1083 z2000 62,
 
 - **717)** skreśla się art. 13.
 
@@ -128,5 +128,5 @@ USTAWA zdnia 24 sierpnia 2001 Przepisy wprowadzające Kodeks owykroczenia.
 
 **Art. 14.** Ustawa wchodzi życie dniem 17 paêdziernika 2001 Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski
 
-**Art. 1.** W ustawie dnia 26 lipca 1991 o podatku 1) wart. 14: 1150 USTAWA zdnia 6 września 2001 ozmianie ustaw: opodatku dochodowym od osób fizycznych, opodatku dochodowym od osób prawnych opodatku od towarów iusług opodatku akcyzowym.
+**Art. 1.** W ustawie dnia 26 lipca 1991 o podatku 1) wart. 14: 1150 USTAWA 6 września 2001 ozmianie ustaw: opodatku dochodowym od osób fizycznych, opodatku dochodowym od osób prawnych opodatku od towarów iusług opodatku akcyzowym.
 

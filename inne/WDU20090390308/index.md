@@ -10,7 +10,7 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# lania wsparcia finansowym przeznaczonego na przedsięwzięcia mające na celu utrzymanie płynności płatniczej, wtym wzwiązku zrozwojem akcji kredytowej banku krajowego.
+# lania Skarb instytucjom finansowym przeznaczonego na przedsięwzięcia mające na celu utrzymanie płynności płatniczej, wtym wzwiązku zrozwojem akcji kredytowej banku krajowego.
 
 | Pole | Wartość |
 |---|---|
@@ -24,7 +24,7 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090390308) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/308/text.pdf) |
 
-**Art. 2.** Instytucją finansową rozumieniu jest:
+**Art. 2.** Instytucją finansową rozumieniu ustawy jest:
 
 **Art. 3.**
 
@@ -38,21 +38,21 @@ domain: null
 
 2. Wsparcie, którym mowa 1 pkt 1, może być udzielone wyłącznie bankowi krajowemu.
 
-3. W celu zabezpieczenia wierzytelności wynikających zudzielonego wsparcia, októrym mowa wust.1, minister właściwy do spraw finansów publicznych żąda ustanowienia zabezpieczenia gwarantującego zwrot pełnej kwoty wsparcia wraz zodsetkami.
+3. W celu zabezpieczenia wierzytelności wynikających zudzielonego wsparcia, októrym mowa wust.1, minister właściwy do spraw finansów publicznych żąda ustanowienia zabezpieczenia gwarantującego zwrot pełnej kwoty wraz zodsetkami.
 
-4. Zabezpieczenie, którym mowa 3, może być ustanowione wformach przewidzianych wustawie dnia 23 kwietnia 1964 — Kodeks cywilny (Dz. U. 16, 93, póên. zm. ), ustawie dnia 28 kwiet——————— ——————— r
+4. Zabezpieczenie, którym mowa 3, może być ustanowione wformach przewidzianych wustawie dnia 23 kwietnia 1964 Kodeks cywilny (Dz. 16, 93, póên. zm. ), ustawie dnia 28 kwiet——————— ——————— g
 
 **Art. 4.**
 
-1. może udzielić gwarancji spłaty kredytu refinansowego rozumieniu art. 42 ust.1 zdnia 29 sierpnia 1997r. oNarodowym Banku Polskim (Dz. U. 2005 1, 2, póên. zm. są pomniejszane ospłaty kredytu dokonane kredytobiorcę oraz kwoty uzyskane Narodowy Bank Polski albo bank krajowy, bank zagraniczny lub instytucję kredytową przyznające kredyt, których ), zwanej dalej Ńgwarancją dla Narodowego Ban- mowa art. 5 1, wyniku zaspokojenia się ku Polskiego”. zprzedmiotu zabezpieczenia udzielonego kredytu.
+1. Skarb może udzielić gwarancji spłaty kredytu refinansowego rozumieniu art. 42 ust.1 ustawy zdnia 29 sierpnia 1997r. oNarodowym Banku Polskim (Dz. 2005 1, 2, póên. zm. są pomniejszane ospłaty kredytu dokonane kredytobiorcę kwoty uzyskane Narodowy Bank Polski albo bank krajowy, bank zagraniczny lub instytucję kredytową przyznające kredyt, których ), zwanej dalej Ńgwarancją dla Narodowego Ban- mowa art. 5 1, wyniku zaspokojenia się ku Polskiego”. zprzedmiotu zabezpieczenia udzielonego kredytu.
 
-2. Gwarancja dla Narodowego Banku Polskiego Art. 8. Od gwarancji dla Narodowego Banku Polmoże być udzielona do wysokości 50 % pozostającej skiego oraz gwarancji dla banku jest pobierana opłado spłaty kwoty kredytu refinansowego. ta prowizyjna.
+2. Gwarancja dla Narodowego Banku Polskiego Art. 8. Od gwarancji dla Narodowego Banku Polmoże być udzielona do wysokości 50 % pozostającej skiego gwarancji dla banku jest pobierana opłado spłaty kwoty kredytu refinansowego. ta prowizyjna.
 
 **Art. 5.**
 
-1. może udzielić gwarancji Art. 9. Do gwarancji dla Narodowego Banku Polspłaty kredytów oraz linii kredytowych przyznanych skiego oraz do gwarancji dla banku nie stosuje się bank krajowy, bank zagraniczny lub instytucję przepisów dnia 8 maja 1997 poręczekredytową innemu bankowi krajowemu, zastrzeże- niach igwarancjach udzielanych niem 2, celu utrzymania ten bank odpo- oraz niektóre osoby prawne (Dz. U. 2003 174, wiednich wymogów wynikających norm płynności poz.1689, zpóên. zm. płatniczej określonych przepisach dnia 29 sierpnia 1997 — Prawo bankowe, zwanej dalej Ńgwarancją dla banku”.
+1. Skarb może udzielić gwarancji Art. 9. Do gwarancji dla Narodowego Banku Polspłaty kredytów linii kredytowych przyznanych skiego do gwarancji dla banku nie stosuje się bank krajowy, bank zagraniczny lub instytucję przepisów ustawy dnia 8 maja 1997 poręczekredytową innemu bankowi krajowemu, zastrzeże- niach igwarancjach udzielanych Skarb niem 2, celu utrzymania ten bank odpo- niektóre osoby prawne (Dz. 2003 174, wiednich wymogów wynikających norm płynności poz.1689, zpóên. zm. płatniczej określonych przepisach ustawy dnia 29 sierpnia 1997 Prawo bankowe, zwanej dalej Ńgwarancją dla banku”.
 
-2. Instytucja kredytowa, bank zagraniczny oraz bank krajowy udzielający kredytu, których mowa 1, nie mogą pozostawać bankiem krajowym, któremu został przyznany kredyt lub linia kredytowa, wrelacjach, októrych mowa wart.4 ust.1 pkt 14—16 zdnia 29 sierpnia 1997r. — Prawo bankowe.
+2. Instytucja kredytowa, bank zagraniczny bank krajowy udzielający kredytu, których mowa 1, nie mogą pozostawać bankiem krajowym, któremu został przyznany kredyt lub linia kredytowa, wrelacjach, októrych mowa wart.4 ust.1 pkt 14—16 ustawy zdnia 29 sierpnia 1997r. Prawo bankowe.
 
 3. Przez kredyt, którym mowa 1, rozumie się również emisję bank krajowy dłużnych papierów wartościowych, szczególności obligacji lub bankowych papierów wartościowych.
 
@@ -60,17 +60,17 @@ domain: null
 
 **Art. 6.**
 
-1. Gwarancja dla Narodowego Banku Polskiego oraz gwarancja dla banku obejmuje spłatę kredytu wraz odsetkami umownymi oraz innymi kosztami związanymi kredytem, zastrzeżeniem
+1. Gwarancja dla Narodowego Banku Polskiego gwarancja dla banku obejmuje spłatę kredytu wraz odsetkami umownymi innymi kosztami związanymi kredytem, zastrzeżeniem
 
 2. ), zwyjątkiem art.31.
 
 **Art. 10.** Minister właściwy do spraw finansów publicznych, imieniu Skarbu Państwa, może udzielać pożyczek skarbowych papierów wartościowych.
 
-**Art. 11.** Minister właściwy do spraw finansów publicznych, imieniu Skarbu Państwa, może udzielać wsparcia poprzez sprzedaż skarbowych papierów wartościowych odroczonym terminem płatności, sprzedaż skarbowych papierów wartościowych rozłożeniem płatności na raty lub sprzedaż skarbowych papierów wartościowych drodze oferty kierowanej do określonej instytucji finansowej.
+**Art. 11.** Minister właściwy do spraw finansów publicznych, imieniu Skarbu Państwa, może udzielać poprzez sprzedaż skarbowych papierów wartościowych odroczonym terminem płatności, sprzedaż skarbowych papierów wartościowych rozłożeniem płatności na raty lub sprzedaż skarbowych papierów wartościowych drodze oferty kierowanej do określonej instytucji finansowej.
 
 **Art. 12.**
 
-1. Minister właściwy do spraw finansów publicznych określi wydanie listu emisyjnego warunki emisji skarbowych papierów wartościowych, których mowa art. 10 11, oraz sposób realizacji świadczeń znich wynikających.
+1. Minister właściwy do spraw finansów publicznych określi wydanie listu emisyjnego warunki emisji skarbowych papierów wartościowych, których mowa art. 10 11, sposób realizacji świadczeń znich wynikających.
 
 2. List emisyjny zawiera wszczególności:
 
@@ -80,11 +80,11 @@ domain: null
 - **4)** walutę, której może następować emisja, lub sposób określenia waluty emisji;
 - **5)** cenę zbycia lub sposób jej ustalenia, ile emisja nie następuje celu, którym mowa art. 3 ——————— ust.1 pkt 2;
 - **6)** stopę procentową lub sposób jej obliczania;
-- **7)** określenie sposobu iterminów wypłaty należnośr kwocie równej wartości nominalnej wyemitowanych papierów wartościowych.
+- **7)** określenie sposobu iterminów wypłaty należnośg kwocie równej wartości nominalnej wyemitowanych papierów wartościowych.
 
 **Art. 14.**
 
-1. Do emisji skarbowych papierów wartościowych, których mowa niniejszej ustawie, nie stosuje się przepisów art. 89, 90 94 dnia 30 czerwca 2005 finansach publicznych (Dz. U. Nr249, poz.2104, zpóên. zm. ).
+1. Do emisji skarbowych papierów wartościowych, których mowa niniejszej ustawie, nie stosuje się przepisów art. 89, 90 94 ustawy dnia 30 czerwca 2005 finansach publicznych (Dz. Nr249, poz.2104, zpóên. zm. ).
 
 2. Emisji skarbowych papierów wartościowych, októrych mowa wniniejszej ustawie, nie wlicza się do limitów określonych wustawie budżetowej.
 
@@ -103,24 +103,24 @@ domain: null
 
 3. Wniosek, októrym mowa wust.1, składa się do ministra właściwego do spraw finansów publicznych.
 
-4. Minister właściwy do spraw finansów publiczbec członków organów instytucji finansowej oraz kadry kierowniczej;
+4. Minister właściwy do spraw finansów publiczbec członków organów instytucji finansowej kadry kierowniczej;
 
 - **4)** formę zabezpieczenia wierzytelności wynikających zudzielonego wsparcia;
 - **5)** koszty ponoszone instytucję finansową związane udzieleniem wsparcia, tym wysokość opłaty prowizyjnej;
 - **6)** okres, na jaki udziela się wsparcia.
 
-6. Minister właściwy do spraw finansów publicznych powierza kontrolę realizacji nałożonych na instytucję finansową wdrodze umowy warunków iograninych może udzielić wsparcia po zasięgnięciu opinii Komisji Nadzoru Finansowego oraz Prezesa Narodowego Banku Polskiego, a przypadku wsparcia udzielanego bankowi — również Bankowego Funduszu Gwarancyjnego.
+6. Minister właściwy do spraw finansów publicznych powierza kontrolę realizacji nałożonych na instytucję finansową wdrodze umowy warunków iograninych może udzielić po zasięgnięciu opinii Komisji Nadzoru Finansowego Prezesa Narodowego Banku Polskiego, a przypadku udzielanego bankowi również Bankowego Funduszu Gwarancyjnego.
 
 5. Umowa udzielenie wsparcia, którym mowa wart.3 ust.1, powinna określać wszczególności:
 
 - **1)** formę wsparcia;
 - **2)** wysokość wsparcia; czeń organowi uprawnionemu do sprawowania nadzoru nad tą instytucją.
 
-7. Odmowa udzielenia wsparcia nie stanowi podstawy roszczeń instytucji finansowych oraz osób trzecich wobec Skarbu Państwa.
+7. Odmowa udzielenia nie stanowi podstawy roszczeń instytucji finansowych osób trzecich wobec Skarbu Państwa.
 
 **Art. 16.**
 
-1. Na podstawie dokumentów związanych wierzytelnością Skarbu tytułu udzielonego wsparcia minister właściwy do spraw finansów publicznych może wystawić tytuł wykonawczy.
+1. Na podstawie dokumentów związanych wierzytelnością Skarbu tytułu udzielonego minister właściwy do spraw finansów publicznych może wystawić tytuł wykonawczy.
 
 2. Wtytule wykonawczym należy oznaczyć:
 
@@ -131,11 +131,11 @@ domain: null
 - **5)** umowę, zktórej wynikają dochodzone roszczenia;
 - **6)** wzmiankę wymagalności dochodzonego roszczenia.
 
-3. Tytuł wykonawczy należy opatrzyć pieczęcią organu wystawiającego tytuł oraz podpisami osób uprawnionych do działania wjego imieniu.
+3. Tytuł wykonawczy należy opatrzyć pieczęcią organu wystawiającego tytuł podpisami osób uprawnionych do działania wjego imieniu.
 
 4. Wprzypadku egzekucji przeciwko kilku osobom lub zkilku części składowych majątku dłużnika można wystawić dalsze tytuły wykonawcze.
 
-**Art. 17.** Jeżeli dług wynikający zudzielonego ——————— wsparcia przejdzie na osobę trzecią r blicznych przedstawia komisji sejmowej właściwej do spraw budżetu kwartalną informację podejmowanych działaniach będących realizacją postanowień niniejszej terminie 30 dni od zakończenia kwartału.
+**Art. 17.** Jeżeli dług wynikający zudzielonego ——————— Skarb przejdzie na osobę trzecią g blicznych przedstawia komisji sejmowej właściwej do spraw budżetu kwartalną informację podejmowanych działaniach będących realizacją postanowień niniejszej ustawy terminie 30 dni od zakończenia kwartału.
 
 **Art. 20.**
 
@@ -143,7 +143,7 @@ domain: null
 
 2. O zachowaniu terminu, którym mowa 1, decyduje data złożenia wniosku instytucję finansową.
 
-**Art. 21.** Wustawie zdnia 17 czerwca 1966r. opostępowaniu egzekucyjnym administracji (Dz. U. Nr229, poz.1954, zpóên. zm. ) wprowadza się następujące zmiany:
+**Art. 21.** Wustawie zdnia 17 czerwca 1966r. opostępowaniu egzekucyjnym administracji (Dz. Nr229, poz.1954, zpóên. zm. ) wprowadza się następujące zmiany:
 
-**Art. 22.** Ustawa wchodzi wżycie zdniem ogłoszenia. ——————— Prezydent Rzeczypospolitej Polskiej: L. Kaczyński ——————— r
+**Art. 22.** Ustawa wchodzi wżycie zdniem ogłoszenia. ——————— Prezydent Rzeczypospolitej Polskiej: L. Kaczyński ——————— g
 

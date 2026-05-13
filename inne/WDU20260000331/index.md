@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# Poz.
+# Ustawa z dnia 23 stycznia 2026 r. o zmianie ustawy o funkcjonowaniu banków spółdzielczych, ich zrzeszaniu się i bankach zrzeszających oraz niektórych innych ustaw
+
+*USTAWA 23 stycznia 2026 zmianie ustawy funkcjonowaniu spółdzielczych, ich zrzeszaniu bankach zrzeszających oraz niektórych innych ustaw*
 
 | Pole | Wartość |
 |---|---|
@@ -23,8 +25,6 @@ domain: null
 | Data wydania | 2026-03-13 |
 | Ostatnia zmiana | 2026-03-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000331) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/331/text.pdf) |
-
-USTAWA 23 stycznia 2026 zmianie ustawy funkcjonowaniu spółdzielczych, ich zrzeszaniu bankach zrzeszających oraz niektórych innych ustaw
 
 **Art. 1.** W ustawie 7 grudnia 2000 funkcjonowaniu spółdzielczych, ich zrzeszaniu bankach zrzeszających (Dz. U. 2025 poz. 265 1191) wprowadza następujące zmiany:
 
@@ -40,7 +40,7 @@ USTAWA 23 stycznia 2026 zmianie ustawy funkcjonowaniu spółdzielczych, ich zrze
 
 **Art. 7.**
 
-1. Umowa zrzeszenia, której 16 1 ustawy zmienianej 1, zawarta przed dniem wejścia życie niniejszej ustawy obowiązuje podpisania zrzeszenia zgodnie przepisami ustawy zmienianej 1, brzmieniu nadanym niniejszą ustawą, przy czym zrzeszenia zawartej przed dniem wejścia życie niniejszej ustawy stosuje przepisy dotychczasowe.
+1. Umowa zrzeszenia, której 16 1 ustawy zmienianej 1, zawarta przed dniem wejścia życie niniejszej ustawy obowiązuje do podpisania zrzeszenia zgodnie przepisami ustawy zmienianej 1, brzmieniu nadanym niniejszą ustawą, przy czym do zrzeszenia zawartej przed dniem wejścia życie niniejszej ustawy stosuje przepisy dotychczasowe.
 
 2. Bank zrzeszający obowiązany przedstawić Komisji Nadzoru Finansowego projekt wzoru zrzeszenia zgodnie 16 2 ustawy zmienianej 1, brzmieniu nadanym niniejszą ustawą, terminie 3 miesięcy od wejścia życie niniejszej ustawy.
 

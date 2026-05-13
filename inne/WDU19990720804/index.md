@@ -6,7 +6,7 @@ publisher: DU
 year: 1999
 pos: 804
 act_type: Ustawa
-status: obowiązujący
+status: akt posiada tekst jednolity
 domain: null
 ---
 
@@ -19,11 +19,11 @@ domain: null
 | Adres publikacyjny | Dz.U. 1999 nr 72 poz. 804 |
 | ISAP | WDU19990720804 |
 | Typ aktu | Ustawa |
-| Status | obowiązujący |
+| Status | akt posiada tekst jednolity |
 | W mocy | tak |
 | Data ogłoszenia | 1999-07-24 |
 | Data wydania | 1999-08-31 |
-| Ostatnia zmiana | 2024-03-15 |
+| Ostatnia zmiana | 2026-05-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990720804) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1999/804/text.pdf) |
 
 W celu szczególnego Ojczy zny za wieloletnie przemilczanie ich za doznane w okresie powojennym represje oraz za cierpienia z przymu sowym oddaleniem od Ojczyzny Sejm Rzeczypo spolitej Polskiej uchwala, co

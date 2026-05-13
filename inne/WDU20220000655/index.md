@@ -21,7 +21,7 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2022-03-11 |
 | Data wydania | 2022-03-23 |
-| Ostatnia zmiana | 2026-04-17 |
+| Ostatnia zmiana | 2026-04-28 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000655) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/655/text.pdf) |
 
 USTAWA z dnia 11 marca 2022 r.

@@ -28,7 +28,7 @@ Agencja jest państwową osobą prawną.
 3. Siedzibą Agencji jest miasto stołeczne Warszawa.
 4. Agencja może tworzyć oddziały wkraju.
 Agencja podlega ministrowi właściwemu gospodarki.
-3. Ilekroć wustawie jest mowa oprzedsiębiorcy, małym przedsiębiorcy, średnim przedsiębiorcy, należy przez to rozumieć odpowiednio przedsiębiorcę, małego przedsiębiorcę, średniego przedsiębiorcę rozumieniu przepisów ustawy z 19 listopada 1999 r. Prawo działalności gospodarczej (Dz. U.
+3. Ilekroć wustawie jest mowa oprzedsiębiorcy, małym przedsiębiorcy, średnim przedsiębiorcy, należy przez to rozumieć odpowiednio przedsiębiorcę, małego przedsiębiorcę, średniego przedsiębiorcę rozumieniu przepisów ustawy z dnia 19 listopada 1999 r. Prawo działalności gospodarczej (Dz. U.
 Nr101, poz. 1178i z 2000 r. 86, poz. 958).
 4. Celem Agencji jest uczestnictwo realizacji programów rozwoju gospodarki, szczególności wzakresie wspierania:
 1) rozwoju małych iśrednich przedsiębiorców, eksportu, spójności społeczno-gospodarczej kraju.
@@ -56,7 +56,7 @@ Zastępcę Prezesa odwołuje minister właściwy gospodarki, na wniosek Prezesa.
 10. Prezesa powołuje minister właściwy gospodarki spośród dwóch kandydatów przedstawionych przez Radę, wyłonionych drodze publicznie ogłoszonego konkursu.
 Minister właściwy gospodarki określi, drodze rozporządzenia, szczegółowe zasady i tryb przeprowadzenia konkursu wymogi stawiane osobom przystępującym konkursu, wszczególności wzakresie wykształcenia idoświadczenia:
 1) wzarządzaniu zespołami pracowniczymi, opracowywaniu lub realizacji programów dotyczących małych lub średnich przedsiębiorstw, wzarządzaniu środkami finansowymi pochodzącymi zbezzwrotnej pomocy zagranicznej.
-11. Kadencja Prezesa trwa 4 lata powołania, zzastrzeżeniem 21 Minister właściwy gospodarki może odwołać Prezesa wtrakcie kadencji:
+11. Kadencja Prezesa trwa 4 lata dnia powołania, zzastrzeżeniem 21 Minister właściwy gospodarki może odwołać Prezesa wtrakcie kadencji:
 1) na jego wniosek, wrazie niewykonania przez Prezesa jednego zobowiązków określonych wart. 14 4—6, razie niezatwierdzenia jednego z dokumentów, októrych mowa wart. 14 4—6, jeżeli dokument ten został negatywnie zaopiniowany przez Radę.
 lub innemu pracownikowi Agencji, czasu powołania nowego Prezesa, jednak na okres dłuższy niż 3 miesiące.
 Minister właściwy gospodarki powołuje nowego Prezesa na pełną kadencję z zachowaniem wymogów określonych wart. 10.
@@ -81,11 +81,11 @@ Nr60, poz. 700i 107, poz. 1127), minister właściwy gospodarki powołuje 4 czł
 5) razie niewywiązywania się przez Radę z zadań określonych wart. 12
 7. Do wynagrodzeń członków Rady stosuje się odpowiednio przepisy o wynagrodzeniach członków rad nadzorczych spółek, których Skarb Państwa jest jedynym akcjonariuszem.
 8. Obsługę administracyjną Rady zapewnia Prezes.
-14. Agencja działa zgodnie zrocznym planem działania, którego skład wchodzi plan finansowy, o którym mowa 33 ustawy z 26 listopada 1998 r. ofinansach (Dz.U. 155, poz.1014, z1999 r. 38, poz. 360, 49, poz. 485, Nr70, poz. 778 i 110, poz. 1255 z 2000 r. 6, poz. 69, 12, poz.136, 48, poz. 550i 95, poz.1041).
-Projekt planu podlega uzgodnieniu zministrem właściwym rozwoju regionalnego trybie określonym ustawie z 12 maja 2000 r. o zasadach wspierania rozwoju regionalnego (Dz.U. 48, poz. 550i 95, poz. 1041).
-3. Do zatwierdzenia rocznego planu Agencja działa na podstawie projektu planu.
-4. Prezes, wterminie 1 grudnia każdego roku, przekazuje zatwierdzenia ministrowi właściwe7. Rokiem obrotowym Agencji jest rok kalendarzowy.
-8. Plan Agencji wpierwszym roku obrotowym Prezes przedstawia ministrowi właściwemu gospodarki wterminie miesiąca wejścia życie ustawy. Jeśli czasu Rada zostanie powołana, Prezes przedstawia plan Agencji bez opinii
+14. Agencja działa zgodnie zrocznym planem działania, którego skład wchodzi plan finansowy, o którym mowa 33 ustawy z dnia 26 listopada 1998 r. ofinansach (Dz.U. 155, poz.1014, z1999 r. 38, poz. 360, 49, poz. 485, Nr70, poz. 778 i 110, poz. 1255 z 2000 r. 6, poz. 69, 12, poz.136, 48, poz. 550i 95, poz.1041).
+Projekt planu podlega uzgodnieniu zministrem właściwym rozwoju regionalnego trybie określonym ustawie z dnia 12 maja 2000 r. o zasadach wspierania rozwoju regionalnego (Dz.U. 48, poz. 550i 95, poz. 1041).
+3. Do dnia zatwierdzenia rocznego planu Agencja działa na podstawie projektu planu.
+4. Prezes, wterminie dnia 1 grudnia każdego roku, przekazuje zatwierdzenia ministrowi właściwe7. Rokiem obrotowym Agencji jest rok kalendarzowy.
+8. Plan Agencji wpierwszym roku obrotowym Prezes przedstawia ministrowi właściwemu gospodarki wterminie miesiąca dnia wejścia życie ustawy. Jeśli czasu Rada zostanie powołana, Prezes przedstawia plan Agencji bez opinii
 15. Agencja prowadzi samodzielną gospodarkę finansową celu wykonania rocznych planów działania.
 Przychodami Agencji są:
 1) dotacje podmiotowe na dofinansowanie działalności wymienionej 6 1 pkt 1—6 i 9 ust.2, wwysokości określanej corocznie wustawie budżetowej, środki budżetu państwa pochodzące ze êródeł zagranicznych, niepodlegające zwrotowi, wszczególności środki zfunduszy Unii Europejskiej, przeznaczone na realizację zadań Agencji, środki budżetu państwa przeznaczone na współfinansowanie programów realizowanych ze środków, októrych mowa wpkt 2, zarządzanie tymi programami,
@@ -106,13 +106,13 @@ Zchwilą likwidacji Fundacji:
 1) Agencja przejmuje zobowiązania i wierzytelności środki finansowe i pozostały majątek Fundacji, atakże posiadane przez nią dokumenty, Agencja staje się stroną umów obowiązujących Fundację, z tym że umów o pracę stosuje się przepis pkt 3, pracownicy Fundacji stają się pracownikami Agencji istosuje się nich przepisy 23 §3 i4 Kodeksu pracy.
 3. Agencja jest zwolniona z podatków i innych danin ztytułu przejęcia majątku Fundacji.
 4. Agencja wykorzystuje środki majątkowe przejęte Fundacji na realizację celów, którym Fundacja służyła.
-Podmiot będący stroną umowy wzajemnej zawartej zFundacją może, wciągu 30 dni wejścia życie ustawy, odstąpić tej umowy, informując otym Prezesa. Wtym przypadku zaspokajania wzajemnych roszczeń stosuje się przepisy umowy, ajeżeli umowa reguluje tej sytuacji przepisy Kodeksu cywilnego.
-18. Prezes,powołany zgodnie zart. 21 1, powołania wejścia wżycie ustawy pełni funkcję likwidatora Fundacji.
+Podmiot będący stroną umowy wzajemnej zawartej zFundacją może, wciągu 30 dni dnia wejścia życie ustawy, odstąpić tej umowy, informując otym Prezesa. Wtym przypadku zaspokajania wzajemnych roszczeń stosuje się przepisy umowy, ajeżeli umowa reguluje tej sytuacji przepisy Kodeksu cywilnego.
+18. Prezes,powołany zgodnie zart. 21 1, dnia powołania dnia wejścia wżycie ustawy pełni funkcję likwidatora Fundacji.
 Na żądanie likwidatora Zarząd Fundacji udostępnia wszelkie dokumenty Fundacji.
 6. Likwidator zleci badanie sprawozdania finansowego, o którym mowa 4, biegłemu rewidentowi.
 19. Wustawie zdnia 4 września 1997 r. odziałach administracji rządowej (Dz. U. z 1999 r. 82, poz.928 z2000 r. 12, poz. 136, 43, poz. 489, 48, poz. 550, 62, poz. 718, 70, poz. 816 iNr 73, poz. 852) wart. 9 4 otrzymuje brzmienie: Ń4. Ministrowi właściwemu gospodarki podlega Polskie Centrum Badań i Certyfikacji, Agencja Rezerw Materiałowych, Agencja Techniki iTechnologii Polska Agencja Rozwoju Przedsiębiorczości.”
 20. Wustawie zdnia 12 maja 2000 r. ozasadach wspierania rozwoju regionalnego (Dz. U. 48, poz. 550 i 95, poz. 1041) 14 2 pkt 22 po wyrazie ŃMieszkaniowej” stawia się przecinek idodaje pkt 23 wbrzmieniu: Ń23) Polskiej Agencji Rozwoju Przedsiębiorczości”.
-21. Na pierwszą kadencję minister właściwy gospodarki powołuje Prezesa bez zachowania trybu określonego wart. 10 Powołany zgodnie z 1 Prezes, okresie powołania wejścia wżycie ustawy, opracuje plan Agencji, o którym mowa 14 8, koncepcję organizacyjną Agencji.
+21. Na pierwszą kadencję minister właściwy gospodarki powołuje Prezesa bez zachowania trybu określonego wart. 10 Powołany zgodnie z 1 Prezes, okresie dnia powołania dnia wejścia wżycie ustawy, opracuje plan Agencji, o którym mowa 14 8, koncepcję organizacyjną Agencji.
 3. Na żądanie Prezesa, Zarząd Fundacji udostępni materiały i informacje niezbędne opracowania dokumentów, októrych mowa wust.
 4. Za czynności, o których mowa 2 18, Prezesowi przysługuje wynagrodzenie płatne ze środków Fundacji, którego wysokość określi minister właściwy gospodarki wakcie powołania.
 Pierwsza kadencja Prezesa rozpoczyna się dniu wejścia życie ustawy i trwa rok. Przepisy art.11 2—5 stosuje się odpowiednio.

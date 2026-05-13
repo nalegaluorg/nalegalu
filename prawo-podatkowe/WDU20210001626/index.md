@@ -24,7 +24,7 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001626) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1626/text.pdf) |
 
-Poz. 1626
+Poz.
 USTAWA dnia 11 sierpnia 2021 r.
 o zmianie o podatku od towarów usług oraz Prawo bankowe
 
@@ -32,7 +32,7 @@ o zmianie o podatku od towarów usług oraz Prawo bankowe
 
 **Art. 2.** W ustawie dnia 29 sierpnia 1997 r. Prawo bankowe (Dz. U. 2020 r. poz. 1896, późn. zm. ) wprowadza następujące zmiany:
 
-**Art. 3.** Przepisy 33a 6a 7 zmienianej 1, brzmieniu nadanym niniejszą ustawą, stosuje importu towarów, dla którego obowiązek podatkowy powstał od pierwszego dnia miesiąca, wchodzi życie 1 5.
+**Art. 3.** Przepisy 33a 6a 7 zmienianej 1, brzmieniu nadanym niniejszą ustawą, stosuje importu towarów, dla którego obowiązek podatkowy powstał od pierwszego dnia miesiąca, którym wchodzi życie 1 5.
 
 **Art. 4.** W przypadku gdy prawo obniżenia kwoty podatku należnego o kwotę podatku naliczonego powstało przed dniem wejścia życie niniejszej ustawy, stosuje przepis 86 13 zmienianej 1, brzmieniu dotychczasowym.
 

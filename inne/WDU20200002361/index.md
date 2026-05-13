@@ -38,7 +38,7 @@ domain: null
 
 1. Do dokumentów DPO, o których mowa art. 8 pkt 1 lit. b ustawy zmienianej art. 6, dokumentów DPR, o których mowa art. 8 pkt 1 lit. a ustawy zmienianej art. 6, wystawianych na wniosek, o którym mowa art. 23 4 ustawy zmienianej art. 6, złożony dnia 31 grudnia 2021 r., stosuje przepisy dotychczasowe.
 
-2. Do dokumentów EDPO, o których mowa art. 8 pkt 1 lit. d ustawy zmienianej art. 6, dokumentów EDPR, o których mowa art. 8 pkt 1 lit. c ustawy zmienianej art. 6, wystawianych na wniosek, o którym mowa art. 24 ustawy zmienianej art. 6, złożony dnia 31 grudnia 2021 r., stosuje przepisy dotychczasowe.
+2. Do dokumentów EDPO, o których mowa art. 8 pkt 1 lit. d ustawy zmienianej art. 6, dokumentów EDPR, o których mowa art. 8 pkt 1 lit. c ustawy zmienianej art. 6, wystawianych na wniosek, o którym mowa art. 24 2 ustawy zmienianej art. 6, złożony dnia 31 grudnia 2021 r., stosuje przepisy dotychczasowe.
 
 **Art. 18.** Do zaświadczeń, o których mowa art. 53 1, art. 55 1 art. 57 1 ustawy zmienianej art. 7, wystawianych 2021 dotyczących 2021 stosuje przepisy dotychczasowe.”;
 

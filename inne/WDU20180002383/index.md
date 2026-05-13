@@ -26,13 +26,13 @@ domain: null
 
 USTAWA dnia 6 grudnia zmianie szczególnych rozwiązaniach służących realizacji budżetowej na rok
 
-**Art. 1.** W ustawie dnia 8 grudnia 2017 szczególnych rozwiązaniach służących realizacji budżetowej na rok (Dz. U. 2371) wprowadza następujące zmiany:
+**Art. 1.** W ustawie dnia 8 grudnia 2017 szczególnych rozwiązaniach służących realizacji budżetowej na rok (Dz. 2371) wprowadza następujące zmiany:
 
 **Art. 29b.**
 
 1. W roku minister właściwy spraw gospodarki złożami kopalin może przekazać dodatkowe środki budżetu państwa przeznaczeniem na dofinansowanie zadań restrukturyzacyjnych sektorze górnictwa węgla kamiennego wysokości 150 000 tys. zł.
 
-2. Zadania, których są finansowane ramach limitu, którym 6 dnia 22 stycznia 2015 zmianie funkcjonowaniu górnictwa węgla kamiennego latach 2008–2015 oraz niektórych innych ustaw (Dz. U. 143 oraz 2016 1592).
+2. Zadania, których są finansowane ramach limitu, którym 6 dnia 22 stycznia 2015 zmianie funkcjonowaniu górnictwa węgla kamiennego latach 2008–2015 oraz niektórych innych ustaw (Dz. 143 oraz 2016 1592).
 
 3. Środki, których mogą być wykorzystane dnia 31 marca 2019
 
@@ -52,15 +52,15 @@ USTAWA dnia 6 grudnia zmianie szczególnych rozwiązaniach służących realizac
 
 **Art. 29f.**
 
-1. W roku upoważnia ministra właściwego spraw finansów publicznych dokonania, na wniosek Ministra Obrony Narodowej, przeniesienia wydatków wysokości 12 000 tys. zł ustawie budżetowej na rok dnia 11 stycznia (Dz. U. 291) części 29 Obrona Narodowa części 57 Agencja Bezpieczeństwa Wewnętrznego, przeznaczeniem na realizację wydatków wynikających Programu Pozamilitarnych Przygotowań Obronnych Rzeczypospolitej Polskiej latach 2017–2026, sporządzonego na podstawie przepisów wykonawczych wydanych na podstawie 6 2 pkt dnia 21 listopada 1967 powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. 1459, 1669, 2182 2245).
+1. W roku upoważnia ministra właściwego spraw finansów publicznych dokonania, na wniosek Ministra Obrony Narodowej, przeniesienia wydatków wysokości 12 000 tys. zł ustawie budżetowej na rok dnia 11 stycznia (Dz. 291) części 29 Obrona Narodowa części 57 Agencja Bezpieczeństwa Wewnętrznego, przeznaczeniem na realizację wydatków wynikających Programu Pozamilitarnych Przygotowań Obronnych Rzeczypospolitej Polskiej latach 2017–2026, sporządzonego na podstawie przepisów wykonawczych wydanych na podstawie 6 2 pkt dnia 21 listopada 1967 powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. 1459, 1669, 2182 2245).
 
 2. Środki, których mogą zostać wykorzystane dnia 31 grudnia 2019
 
-**Art. 29g.** W roku źródłem przychodu Funduszu Emerytur Pomostowych, którym 30 dnia 19 grudnia 2008 emeryturach pomostowych (Dz. U. 1924), może być również wpłata budżetu państwa wysokości 000 000 tys. zł przekazana przez Prezesa Zakładu Ubezpieczeń Społecznych.
+**Art. 29g.** W roku źródłem przychodu Funduszu Emerytur Pomostowych, którym 30 dnia 19 grudnia 2008 emeryturach pomostowych (Dz. 1924), może być również wpłata budżetu państwa wysokości 000 000 tys. zł przekazana przez Prezesa Zakładu Ubezpieczeń Społecznych.
 
-**Art. 29h.** W roku źródłem przychodu Funduszu Rezerwy Demograficznej, którym 58 ustawy dnia 13 października 1998 systemie ubezpieczeń społecznych (Dz. U. 2017 1778, późn. zm. ), może być również wpłata budżetu państwa wysokości 2 000 000 tys. zł przekazana przez Prezesa Zakładu Ubezpieczeń Społecznych.”;
+**Art. 29h.** W roku źródłem przychodu Funduszu Rezerwy Demograficznej, którym 58 ustawy dnia 13 października 1998 systemie ubezpieczeń społecznych (Dz. 2017 1778, późn. zm. ), może być również wpłata budżetu państwa wysokości 2 000 000 tys. zł przekazana przez Prezesa Zakładu Ubezpieczeń Społecznych.”;
 
-**Art. 38b.** W ustawie dnia 23 października Funduszu Dróg Samorządowych (Dz. U. 2161) wprowadza następujące zmiany:
+**Art. 38b.** W ustawie dnia 23 października Funduszu Dróg Samorządowych (Dz. 2161) wprowadza następujące zmiany:
 
 **Art. 38c.** Środki, których 29b–29d 29f oraz 50 3 zmienianej 38b, stanowią wydatki budżetu państwa, które nie wygasają upływem roku budżetowego. Przepisy 41 7 181 5 8 dnia 27 sierpnia 2009 finansach publicznych oraz przepisy wydane na podstawie 41 2–6 198 dnia 27 sierpnia 2009 finansach publicznych stosuje odpowiednio.
 

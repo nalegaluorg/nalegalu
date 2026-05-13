@@ -26,27 +26,27 @@ domain: null
 
 1) tytuł rozdziału 2 otrzymuje brzmienie: ŃUstanawianie, łączenie, znoszenie stref oraz zmiaich obszaru”;
 2) wart. 4:
-a) 1 wyrazy zastępuje się wyrazami Ńministra właściwego gospodarki uzgodniony ministrem właściwym rozwoju regionalnego”,
-b) 2 3 wyrazy ŃMinister Handlu” zastępuje się wyrazami ŃMinister właściwy gospodarki”,
+a) wyrazy ŃMinistra zastępuje się wyrazami Ńministra właściwego spraw gospodarki uzgodniony ministrem właściwym spraw rozwoju regionalnego”,
+b) 2 3 wyrazy ŃMinister Handlu” zastępuje się wyrazami ŃMinister właściwy spraw gospodarki”,
 c) wust. 4: pkt 2 otrzymuje brzmienie: Ń2) przedmioty gospodarczej, które nie będzie wydawane zezwolenie, októrym mowa wart. 16 1,” pkt 5 otrzymuje brzmienie: Ń5) wielkość pomocy publicznej udzielanej przedsiębiorcom prowadzącym działalność gospodarczą terenie strefy podstawie zezwolenia, którym mowa wart. 16 1,” dodaje się pkt 6 wbrzmieniu: Ń6) szczegółowe warunki uznawania wydatków za wydatki poniesione inwestycję terenie strefy, a także ich minimalną wysokość.”,
 d) 5 otrzymuje brzmienie: Ń5. Rada Ministrów, określając dopuszczalną wielkość pomocy publicznej poszczególnych strefach, uwzględnia następujące kryteria:
 1) poziom bezrobocia regionie oddziaływania strefy,
 2) poziom produktu krajowego brutto jednego mieszkańca regionu, którym usytuowana jest strefa, 153, 41, 255, 63, 403, 93, 569, 107, 692, 121, 770 iNr 123, 776, z1998 66, 431, 106, 668, 108, 684, 137, 887 162, 1112, 1118 1126, 1999 636 oraz 2000 12, 136, 31, 384, 48, 550, 70, poz.820i 106, 1118).”;
-3) po art. 5 dodaje się art. 5awbrzmieniu: ŃArt. 5a. Rada Ministrów, wniosek ministra właściwego gospodarki uzgodniony zministrem właściwym rozwoju regionalnego, wdrodze rozporządzenia, znieść strefę przed upływem okresu, jaki została ona ustanowiona, zmienić jej obszar lub połączyć strefy, ztym że łączny obszar wszystkich stref nie przekroczyć dotychczas ustalonego łącznego obszaru stref.
+3) po art. 5 dodaje się art. 5awbrzmieniu: ŃArt. 5a. Rada Ministrów, wniosek ministra właściwego spraw gospodarki uzgodniony zministrem właściwym spraw rozwoju regionalnego, wdrodze rozporządzenia, znieść strefę przed upływem okresu, jaki została ona ustanowiona, zmienić jej obszar lub połączyć strefy, ztym że łączny obszar wszystkich stref nie przekroczyć dotychczas ustalonego łącznego obszaru stref.
 2. Zniesienie strefy nie nastąpić wokresie, wktórym pozostaje wmocy choćby jedno zezwolenie wydane podstawie art. 16
 3. Zakazu, którym mowa 2, nie stosuje się, gdy obszar, którym przedsiębiorca prowadzi działalność gospodarczą podstawie zezwolenia, zostanie włączony obszaru innej strefy zachowaniem prawa przedsiębiorcy zwolnień podatkowych dotychczasowych warunkach.
 4. Zmniejszenie obszaru strefy nie dotyczyć nieruchomości, których prowadzona jest działalność podstawie zezwolenia wydanego zgodnie zart. 16 1, chyba że przedsiębiorca prowadzący tam działalność podstawie zezwolenia wyrazi to zgodę.”;
 4) tytuł rozdziału 3 otrzymuje brzmienie: ŃZarządzanie strefą izwolnienia podatkowe”;
 5) art. 6 otrzymuje brzmienie: być oddane walnym zgromadzeniu lub zgromadzeniu wspólników, powołuje się najwyżej 7 osób, wtym:
-1) po jednym przedstawicielu: ministra właściwego Skarbu Państwa, ministra właściwego gospodarki, Prezesa Urzędu Ochrony Konkurencji iKonsumentów oraz wojewody jako przedstawicieli Skarbu Państwa,
+1) po jednym przedstawicielu: ministra właściwego spraw Skarbu Państwa, ministra właściwego spraw gospodarki, Prezesa Urzędu Ochrony Konkurencji iKonsumentów oraz wojewody jako przedstawicieli Skarbu Państwa,
 2) najwyżej trzech przedstawicieli jednostek samorządu terytorialnego, które mają udziały lub akcje wtej spółce.”,
 b) dodaje się 1awbrzmieniu: Ń1a. Do składu rady nadzorczej spółki będącej zarządzającym, wstosunku której samorząd województwa posiada większość głosów, które mogą być oddane walnym zgromadzeniu lub zgromadzeniu wspólników, powołuje się najwyżej 7 osób, wtym:
 1) czterech przedstawicieli samorządu województwa,
-2) przedstawiciela ministra właściwego gospodarki,
+2) przedstawiciela ministra właściwego spraw gospodarki,
 3) najwyżej dwóch przedstawicieli jednostek samorządu terytorialnego, wyłączeniem samorządu województwa, które mają udziały lub akcje wtej spółce.”,
-c) 2 otrzymuje brzmienie: Ń2. Do składu rady nadzorczej, której mowa wust. 1 i1a, nie być powołana osoba, która jest członkiem władz lub pracownikiem przedsiębiorcy prowadzącego działalność gospodarczą terenie strefy lub pozostaje takim przedsiębiorcą związku, którym mowa wart. 11 4—8 ustawy zdnia 15 lutego 1992 opodatku dochodowym od osób prawnych (Dz. U. 2000 54, 654, Nr60, 700 i703,Nr 86, 958 103,
+c) 2 otrzymuje brzmienie: Ń2. Do składu rady nadzorczej, której mowa wust. i1a, nie być powołana osoba, która jest członkiem władz lub pracownikiem przedsiębiorcy prowadzącego działalność gospodarczą terenie strefy lub pozostaje takim przedsiębiorcą związku, którym mowa wart. 11 4—8 ustawy zdnia 15 lutego 1992 opodatku dochodowym od osób prawnych (Dz. U. 2000 54, 654, Nr60, 700 i703,Nr 86, 958 103,
 1100).”;
-7) wart. 8 dodaje się 4 wbrzmieniu: Ń4. Organ właściwy podstawie przepisów ustawy zdnia 21 sierpnia 1997 ogospodarce nieruchomościami (Dz. U. z2000 46, 543) powierzyć zarządzającemu organizację przeprowadzenie przetargu zbycie nieruramach zezwolenia, którym mowa art. 16 1, przez osoby prawne lub osoby fizyczne prowadzące działalność gospodarczą są zwolnione od podatku dochodowego, odpowiednio zasadach określonych przepisach podatku dochodowym od osób prawnych lub wprzepisach podatku dochodowym od osób fizycznych. Wielkość zwolnień podatkowych określają rozporządzenia Rady Ministrów ustanawiające strefy zachowaniem zasad określonych wustawie zdnia 30 czerwca 2000 warunkach dopuszczalności nadzorowaniu pomocy publicznej dla przedsiębiorców (Dz. U. Nr60,
+7) wart. 8 dodaje się 4 wbrzmieniu: Ń4. Organ właściwy podstawie przepisów ustawy zdnia 21 sierpnia 1997 ogospodarce nieruchomościami (Dz. U. z2000 46, 543) powierzyć zarządzającemu organizację przeprowadzenie przetargu zbycie nieruramach zezwolenia, którym mowa art. 16 1, osoby prawne lub osoby fizyczne prowadzące działalność gospodarczą są zwolnione od podatku dochodowego, odpowiednio zasadach określonych przepisach podatku dochodowym od osób prawnych lub wprzepisach podatku dochodowym od osób fizycznych. Wielkość zwolnień podatkowych określają rozporządzenia Rady Ministrów ustanawiające strefy zachowaniem zasad określonych wustawie zdnia 30 czerwca 2000 warunkach dopuszczalności nadzorowaniu pomocy publicznej dla przedsiębiorców (Dz. U. Nr60,
 704).
 
 **Art. 13.** Wokresie,na jaki ustanowiono strefę,zasady iwielkość pomocy publicznej udzielanej przedsiębiorcom podstawie ustawy nie mogą ulec zmianie niekorzyść przedsiębiorców posiadających ważne zezwolenie, októrym mowa wart. 16 1, zzastrzeżeniem art. 19.”;

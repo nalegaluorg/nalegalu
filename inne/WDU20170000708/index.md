@@ -21,7 +21,7 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2017-03-09 |
 | Data wydania | 2017-04-03 |
-| Ostatnia zmiana | 2026-03-13 |
+| Ostatnia zmiana | 2026-04-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000708) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/708/text.pdf) |
 
 USTAWA z dnia 9 marca 2017 r.

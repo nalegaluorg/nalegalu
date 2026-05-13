@@ -24,17 +24,17 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20042132157) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/2157/text.pdf) |
 
-**Art. 1.** W ustawie dnia 26 paêdziernika 1995 oniektórych formach popierania budownictwa mieszkaniowego (Dz. U. 2000 98, 1070, póên. zm. ) wprowadza następujące zmiany:
+**Art. 1.** W ustawie dnia 26 paêdziernika 1995 oniektórych formach popierania budownictwa mieszkaniowego (Dz. 2000 98, 1070, póên. zm. ) wprowadza następujące zmiany:
 
-**Art. 3.** Wustawie zdnia 18 grudnia 1998 owspieraniu przedsięwzięć termomodernizacyjnych (Dz. U. 162, 1121, póên. zm. ) art. 12 uchyla ust. 1a.
+**Art. 3.** Wustawie zdnia 18 grudnia 1998 owspieraniu przedsięwzięć termomodernizacyjnych (Dz. 162, 1121, póên. zm. ) 12 uchyla 1a.
 
 **Art. 4.**
 
-1. Przepisy art. 19 ust. 2 1, ust. 2a—2d ust. 10 art. 29 art. 29a ustawy, o której mowa art. 1, brzmieniu nadanym niniejszą ustawą, mają zastosowanie przedsięwzięć inwestycyjno-budowlanych objętych wnioskami wstępnymi o udzielenie kredytu ze środków Krajowego Funduszu Mieszkaniowego, złożonymi zachowaniem terminów określonych przepisach wykonawczych, wydanych podstawie art. 19 ust. 4 ustawy, o której mowa art. 1, począwszy od dnia 1 stycznia 2005
+1. Przepisy 19 2 1, 2a—2d 10 oraz 29 29a ustawy, o której mowa 1, brzmieniu nadanym niniejszą ustawą, mają zastosowanie przedsięwzięć inwestycyjno-budowlanych objętych wnioskami wstępnymi o udzielenie kredytu ze środków Krajowego Funduszu Mieszkaniowego, złożonymi zachowaniem terminów określonych przepisach wykonawczych, wydanych podstawie 19 4 ustawy, o której mowa 1, począwszy od dnia 1 stycznia 2005
 
 2. Do przedsięwzięć inwestycyjno-budowlanych objętych wnioskami wstępnymi o udzielenie kredytu upływie 4 lat od dnia jej wejścia życie. Art. 6. Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia.
 
 4. Wterminie 1 roku od dnia wejścia wżycie ustawy towarzystwa budownictwa społecznego istniejące Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 2158 USTAWA dnia 27 sierpnia 2004 o zmianie o kosmetykach
 
-**Art. 1.** Wustawie zdnia 30 marca 2001 okosmetykach (Dz. U. 42, 473 2003 73, 659, 189, 1852 208, 2019) wprowadza następujące zmiany:
+**Art. 1.** Wustawie zdnia 30 marca 2001 okosmetykach (Dz. 42, 473 oraz 2003 73, 659, 189, 1852 208, 2019) wprowadza następujące zmiany:
 

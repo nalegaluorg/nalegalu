@@ -12,7 +12,7 @@ domain: null
 
 # 1. ustawie 29 sierpnia 1997 Prawo bankowe (Dz. U. 128, wprowadza się następujące zmiany:
 
-*USTAWA 25 września o zmianie ustawy Prawo bankowe niektórych innych ustaw*
+*USTAWA 25 września o zmianie ustawy Prawo bankowe oraz niektórych innych ustaw*
 
 | Pole | Wartość |
 |---|---|
@@ -37,7 +37,7 @@ domain: null
 4) uchyla się 96–98.
 1) 42d uchyla się ust. 10;
 2) 43 uchyla się ust. 5.
-5. ustawie 29 listopada 2000 o objęciu poręczeniami Skarbu Państwa spłaty niektórych kredytów mieszkaniowych (Dz. U. Nr 122, 1310, 2003 Nr 139, 1325 2009 Nr 69, 594) 5 uchyla się ust. 5.
+5. ustawie 29 listopada 2000 o objęciu poręczeniami Skarbu Państwa spłaty niektórych kredytów mieszkaniowych (Dz. U. Nr 122, 1310, 2003 Nr 139, 1325 oraz 2009 Nr 69, 594) 5 uchyla się ust. 5.
 6. ustawie 15 kwietnia 2005 o pomocy publicznej restrukturyzacji publicznych zakładów opieki zdrowotnej (Dz. U. Nr 78, 684, 36 uchyla się ust. 7.
 7. ustawie 28 lipca 2005 o kosztach sądowych sprawach cywilnych (Dz. U. 1025, 13 po ust. 1 dodaje się ust. 1a brzmieniu: „1a. sprawach o roszczenia wynikające czynności bankowych, o których mowa 5 ust. 1 2 ustawy 29 sierpnia 1997 Prawo bankowe (Dz. U. 128, ), opłata stosunkowa wynosi 5% wartości przedmiotu sporu lub przedmiotu zaskarżenia, jednak nie mniej niż 30 złotych nie więcej niż 1000 złotych.”.
 8. ustawie 27 sierpnia 2009 o finansach publicznych (Dz. U. 2013 885, 225 uchyla się ust. 5.

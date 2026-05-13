@@ -21,18 +21,18 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2003-12-18 |
 | Data wydania | 2004-01-23 |
-| Ostatnia zmiana | 2026-03-11 |
+| Ostatnia zmiana | 2026-05-08 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040100076) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/76/text.pdf) |
 
 **Art. 1.** Ustawa określa zasady tworzenia prowa- 4) dokumentacji związanej prowadzeniem ewidendzenia, zakres przeznaczenie krajowego systemu cji, których 1—3. producentów, gospodarstw rolnych wniosków oprzyznanie płatności. Art. 5. 1. System wykorzystuje się zakresie:
 
-**Art. 2.** Agencja Restrukturyzacji iModernizacji Rol- 1) przyznawania wypłaty płatności; nictwa, zwana dalej ŃAgencją”, tworzy iprowadzi kra- 2) nadzoru nad przestrzeganiem przepisów dotycząjowy system producentów, go- cych płatności realizowanych przez Agencję; spodarstw rolnych wniosków przyznanie płatności, zwany dalej Ńsystemem”. 3) postępowania sprawie zwrotu nienależnie wypłaconych płatności;
+**Art. 2.** Agencja Restrukturyzacji iModernizacji Rol- przyznawania wypłaty płatności; nictwa, zwana dalej ŃAgencją”, tworzy iprowadzi kra- 2) nadzoru nad przestrzeganiem przepisów dotycząjowy system producentów, go- cych płatności realizowanych przez Agencję; spodarstw rolnych wniosków przyznanie płatności, zwany dalej Ńsystemem”. 3) postępowania sprawie zwrotu nienależnie wypłaconych płatności;
 
-**Art. 3.** Użyte ustawie określenia oznaczają: 4) postępowania wsprawie wymierzania kar pienięż1) gospodarstwo rolne wszystkie nieruchomości nych lub zastosowania innych sankcji; rolne będące posiadaniu tego samego podmio- 5) identyfikacji producentów. tu;
+**Art. 3.** Użyte ustawie określenia oznaczają: 4) postępowania wsprawie wymierzania kar pieniężgospodarstwo rolne wszystkie nieruchomości nych lub zastosowania innych sankcji; rolne będące posiadaniu tego samego podmio- 5) identyfikacji producentów. tu;
 
 **Art. 4.** System składa się z: zastrzeżeniem ust. 3;
 
-**Art. 8.** Ewidencja gospodarstw rolnych zawiera:
+**Art. 8.** Ewidencja gospodarstw rolnych zawiera: numer identyfikacyjny, którym art. 12;
 
 **Art. 10.** Dane zawarte wsystemie dokumentację, której art. 4 4, przechowuje się przez okres 5 lat, licząc od dnia 1 stycznia roku następującego po roku, wktórym wniosek został zarejestrowany systemie.
 
@@ -42,9 +42,7 @@ domain: null
 
 2. Wniosek wpis do producentów zawiera dane, których art. 7 ust. 1 1 3—6.
 
-3. Wniosek, októrym wust. 1, składa się nie póêniej niż na 21 dni przed dniem złożenia pierwszego wniosku płatności, tym że:
-
-- **1)** producenci rolni będący posiadaczami zwierząt składają wniosek nie póêniej niż wdniu zgłoszenia pierwszego zwierzęcia do rejestru zwierząt prowaminie 7 dni od dnia wpisu do rejestru, którym przepisach organizacji rynku przetworów owocowych warzywnych.
+3. Wniosek, októrym wust. 1, składa się nie póêniej niż na 21 dni przed dniem złożenia pierwszego wniosku płatności, tym że: producenci rolni będący posiadaczami zwierząt składają wniosek nie póêniej niż wdniu zgłoszenia pierwszego zwierzęcia do rejestru zwierząt prowaminie 7 dni od dnia wpisu do rejestru, którym przepisach organizacji rynku przetworów owocowych warzywnych.
 
 **Art. 12.**
 
@@ -82,7 +80,7 @@ domain: null
 
 3. Minister właściwy do spraw rozwoju wsi określi, drodze rozporządzenia, warunki tryb udostępniania danych przechowywanych wprowadzonych re77 USTAWA dnia 18 grudnia 2003 r. zmianie ustawy Przepisy wprowadzające ustawę Prawo farmaceutyczne, ustawę rąc pod uwagę zapewnienie prawidłowego funkcjonowania systemu.
 
-**Art. 18.** Wustawie zdnia 17 maja 1989 r. Prawo geodezyjne kartograficzne (Dz. U. 2000 r. 100, poz. 1086, póên. zm. terminie 14 dni od dnia otrzymania formularza takiego wniosku od Agencji. 2. Podmioty prowadzące zakłady utylizacyjne dniu wejścia życie ustawy są obowiązane do zło) art. 24 wprowadza się na- żenia wniosków wpis do producentów stępujące zmiany: terminie 21 dni od dnia jej wejścia życie.
+**Art. 18.** Wustawie zdnia 17 maja 1989 r. Prawo geodezyjne kartograficzne (Dz. U. 2000 r. 100, poz. 1086, póên. zm. terminie 14 dni od dnia otrzymania formularza takiego wniosku od Agencji. 2. Podmioty prowadzące zakłady utylizacyjne dniu wejścia życie ustawy są obowiązane do zło) art. 24 wprowadza się na- żenia wniosków wpis do producentów stępujące zmiany: terminie 21 dni od dnia jej wejścia życie. ust. 4 otrzymuje brzmienie: Art. 20.Ilekroć wodrębnych przepisach jest Ń4. Starosta zapewnia nieodpłatnie gminom krajowym systemie gospodarstw rolnych Agencji Restrukturyzacji Modernizacji Rolnic- izwierząt gospodarskich, rozumie się przez to krajowy twa, wcelu utworzenia iprowadzenia krajowe- system producentów, gospogo systemu producentów, darstw rolnych wniosków oprzyznanie gospodarstw rolnych wnio- płatności. sków płatności, bezpośredni dostęp do bazy danych gruntów bu- Art. 21. Dane pozyskane celu utworzenia ewidynków, bez prawa ich udostępniania osobom dencji gospodarstw rolnych, októrej wustawie trzecim, zastrzeżeniem ust. 5.”; wymienionej art. 23, Agencja wykorzystuje celu utworzenia gospodarstw rolnych, której
 
 **Art. 24.** Ustawa wchodzi wżycie po upływie 14 dni ——————— od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski
 

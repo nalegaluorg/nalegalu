@@ -10,9 +10,7 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# o ochronie gruntów rolnych i leśnych
-
-*USTAWA z dnia 3 lutego 1995 r.*
+# pracownikowi cho robowy na zasadach od przepisach.";
 
 | Pole | Wartość |
 |---|---|
@@ -26,499 +24,352 @@ domain: null
 | Ostatnia zmiana | 2026-01-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19950160078) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1995/78/text.pdf) |
 
-#### Rozdział 1 Przepisy ogólne
+3) wart. 94 po pkt 9 dodaje pkt 9a brzmieniu: ,,9a) sprawach ze stosunkiem pracy oraz akta osobowe pracow ników."
 
-**Art. 1.** Ustawa reguluje zasady ochrony gruntów rolnych i leśnych oraz rekultywacji i poprawiania wartości użytkowej gruntów.
+**Art. 3.** Zakład pracy jest wy danym pracownikowi pracy o liczbie dni do pracy roku kalendarzowym, którym stosunku pracy, za które wy pracownikowi wynagrodzenie wart. 92 Kodeksu pracy.
+
+**Art. 4.** Ilekroć przepisy prawa pracy stosunku pracy z pracow nikiem niezdolnym do pracy wskutek choroby lub odosob nienia ze na od okresu pobierania przez niego zasilku chorobowego, okres ten z okresem pobierania przez pracowtychczasowych, za okres nieprzerwanej do pracy z powodu choroby. 2. Przepis ust. 1 stosuje do wyrównawczego oraz rehabili tacyjnego.
+
+**Art. 6.**
+
+1. W okresie od dnia 1 marca 1995 r. do dnia 31 grudnia 1995 r. pracy do 5 pracowników pracownicy nie prawa do wyna grodzenia, o którym mowa wart. 92 Kodeksu pracy. Za okres do pracy z powodu choroby lub odosobnienia z im choro bowy.
+
+2. pracowników zatrudnionych pracy, o których mowa ust. 1, ustala kalendarzowym, którym do pracy.
+
+**Art. 7.** Ustawa wchodzi z dniem 1 marca 1995 r. Prezydent Rzeczypospolitej Polskiej: L. USTAWA z dnia 3 lutego 1995 r. o ochronie gruntów rolnych 1 Przepisy ogólne
+
+**Art. 1.** Ustawa reguluje zasady ochrony gruntów rol nych oraz rekultywacji poprawiania gruntów.
 
 **Art. 2.**
 
-1. Gruntami rolnymi, w rozumieniu ustawy, są grunty:
+1. Gruntami rolnymi, rozumieniu ustawy, grunty:
 
-- **1)** określone w ewidencji gruntów jako użytki rolne;
-- **2)** pod stawami rybnymi i innymi zbiornikami wodnymi, służącymi wyłącznie dla potrzeb rolnictwa;
-- **3)** pod wchodzącymi w skład gospodarstw rolnych budynkami mieszkalnymi oraz innymi budynkami i urządzeniami służącymi wyłącznie produkcji rolniczej oraz przetwórstwu rolno-spożywczemu;
-- **3a)** pod budynkami, budowlami i urządzeniami wchodzące w skład biogazowni rolniczej spełniającej warunki określone w art. 4 ust. 1 ustawy z dnia 13 lipca 2023 r. o ułatwieniach w przygotowaniu i realizacji inwestycji w zakresie biogazowni rolniczych, a także ich funkcjonowaniu (Dz. U. poz. 1597), a także grunty położone między tymi budynkami, budowlami i urządzeniami lub w bezpośrednim ich sąsiedztwie, tworzące zorganizowaną całość gospodarczą, w tym zajęte pod dojazdy, place składowe, postojowe i manewrowe, śmietniki, miejsca magazynowania odpadów i ogrodzenia, o ile ich łączna powierzchnia nie jest większa niż 1 ha i wchodzą one w skład gospodarstwa rolnego;
-- **4)** pod budynkami i urządzeniami służącymi bezpośrednio do produkcji rolniczej uznanej za dział specjalny, stosownie do przepisów o podatku dochodowym od osób fizycznych i podatku dochodowym od osób prawnych;
-- **5)** parków wiejskich oraz pod zadrzewieniami i zakrzewieniami śródpolnymi, w tym również pod pasami przeciwwietrznymi i urządzeniami przeciwerozyjnymi;
-- **6)** rodzinnych ogrodów działkowych i ogrodów botanicznych;
-- **7)** pod urządzeniami: melioracji wodnych, przeciwpowodziowych i przeciwpożarowych, zaopatrzenia rolnictwa w wodę, kanalizacji oraz utylizacji ścieków i odpadów dla potrzeb rolnictwa i mieszkańców wsi;
-- **8)** zrekultywowane dla potrzeb rolnictwa;
-- **9)** torfowisk i oczek wodnych;
+- **1)** ewidencji gruntów jako rolne,
+- **2)** pod stawami rybnymi innymi zbiornikami wodnymi, dla potrzeb rolnictwa,
+- **3)** pod gospodarstw rolnych budyn kami mieszkalnymi oraz innymi budynkami mi produkcji rolniczej oraz prze twórstwu
+- **4)** pod budynkami do produkcji rolniczej uznanej za specjalny, stoso wnie do przepisów o podatku dochodowym od osób fizycznych podatku dochodowym od osób prawnych,
+- **5)** parków wiejskich oraz pod zadrzewieniami zakrzewie niami tym pod pasami przeciw wietrznymi przeciwerozyjnymi,
+- **6)** pracowniczych ogrodów
+- **7)** pod ogrodów bota melioracji wodnych, przeciwpowo dziowych zaopatrzenia rolnictwa kanalizacji oraz utylizacji odpadów dla potrzeb rolnictwa,
+- **8)** zrekultywowane dla potrzeb rolnictwa,
+- **9)** torfowisk oczek wodnych,
 - **10)** pod drogami dojazdowymi do gruntów rolnych.
 
-2. Gruntami leśnymi, w rozumieniu ustawy, są grunty:
+2. Gruntami rozumieniu ustawy, grunty:
 
-- **1)** określone jako lasy w przepisach o lasach;
-- **2)** zrekultywowane dla potrzeb gospodarki leśnej;
-- **3)** pod drogami dojazdowymi do gruntów leśnych.
+- **1)** jako lasy przepisach o lasach,
+- **2)** zrekultywowane dla potrzeb gospodarki
+- **3)** pod drogami dojazdowymi do gruntów
 
-3. Nie uważa się za grunty rolne gruntów znajdujących się pod parkami i ogrodami wpisanymi do rejestru zabytków.
+3. Nie za grunty rolne gruntów pod parkami ogrodami wpisanymi do rejestru zabytków.
 
 **Art. 3.**
 
 1. Ochrona gruntów rolnych polega na:
 
-- **1)** ograniczaniu przeznaczania ich na cele nierolnicze lub nieleśne;
-- **2)** zapobieganiu procesom degradacji i dewastacji gruntów rolnych oraz szkodom w produkcji rolniczej, powstającym wskutek działalności nierolniczej i ruchów masowych ziemi;
-- **3)** rekultywacji i zagospodarowaniu gruntów na cele rolnicze;
-- **4)** zachowaniu torfowisk i oczek wodnych jako naturalnych zbiorników wodnych;
-- **5)** ograniczaniu zmian naturalnego ukształtowania powierzchni ziemi.
+- **1)** ograniczaniu przeznaczania ich na cele nierolnicze lub
+- **2)** zapobieganiu procesom degradacji dewastacji grun tów rolnych oraz szkodom produkcji rolniczej. po
+- **1)** ograniczaniu przeznaczania ich na cele lub nierolnicze,
+- **2)** zapobieganiu procesom degradacji dewastacji grun tów oraz szkodom drzewostanach produkcji wskutek
+- **3)** przywracaniu gruntom, które utraci charakter gruntów wskutek niele
+- **4)** poprawianiu ich oraz zapobieganiu ich
 
-2. Ochrona gruntów leśnych polega na:
-
-- **1)** ograniczaniu przeznaczania ich na cele nieleśne lub nierolnicze;
-- **2)** zapobieganiu procesom degradacji i dewastacji gruntów leśnych oraz szkodom w drzewostanach i produkcji leśnej, powstającym wskutek działalności nieleśnej i ruchów masowych ziemi;
-- **3)** przywracaniu wartości użytkowej gruntom, które utraciły charakter gruntów leśnych wskutek działalności nieleśnej;
-- **4)** poprawianiu ich wartości użytkowej oraz zapobieganiu obniżania ich produkcyjności;
-- **5)** ograniczaniu zmian naturalnego ukształtowania powierzchni ziemi.
-
-**Art. 4.** Ilekroć w ustawie jest mowa o:
-
-**Art. 5.**
-
-1. Jeżeli przepisy niniejszej ustawy nie stanowią inaczej, właściwym w sprawach ochrony gruntów rolnych jest starosta, a gruntów leśnych – dyrektor regionalnej dyrekcji Lasów Państwowych, z wyjątkiem obszarów parków narodowych, gdzie właściwym jest dyrektor parku.
-
-2. Zadania starosty, o których mowa w ustawie, są zadaniami z zakresu administracji rządowej.
-
-3. Zadania marszałka województwa, o których mowa w art. 7 ust. 2 i 4, w art. 22c oraz w art. 26 ust. 1, są zadaniami własnymi samorządu województwa.
-
-**Art. 5a.** (uchylony)
-
-**Art. 5b.** (uchylony)
-
-#### Rozdział 2 Ograniczanie przeznaczania gruntów na cele nierolnicze i nieleśne
+**Art. 4.** Ilekroć ustawie jest mowa o:
 
 **Art. 6.**
 
-1. Na cele nierolnicze i nieleśne można przeznaczać przede wszystkim grunty oznaczone w ewidencji gruntów jako nieużytki, a w razie ich braku – inne grunty o najniższej przydatności produkcyjnej.
+1. Na cele nierolnicze prze przede wszystkim grunty oznaczone ewidencji gruntów jako a razie ich braku inne grunty o produkcyjnej.
 
-2. Przy budowie, rozbudowie lub modernizacji obiektów związanych z działalnością przemysłową, a także innych obiektów budowlanych należy stosować takie rozwiązania, które ograniczają skutki ujemnego oddziaływania na grunty.
+2. Przy budowie, rozbudowie lub modernizacji obiek tów z a innych obiektów budowlanych takie które skutki ujemnego na grunty.
 
 **Art. 7.**
 
-1. Przeznaczenia gruntów rolnych i leśnych na cele nierolnicze i nieleśne, wymagającego zgody, o której mowa w ust. 2, dokonuje się w miejscowym planie zagospodarowania przestrzennego, sporządzonym w trybie określonym w przepisach o planowaniu i zagospodarowaniu przestrzennym.
+1. Przeznaczenia gruntów rolnych na cele nierolnicze dokonuje miejscowym planie zagospodarowania przestrzennego, trybie przepisach o zagospodarowaniu przestrzen nym.
 
-1a. Przepisu, o którym mowa w ust. 1, nie stosuje się do terenów, dla których miejscowego planu zagospodarowania przestrzennego nie sporządza się.
+2. Przeznaczenie na cele nierolnicze
 
-2. Przeznaczenie na cele nierolnicze i nieleśne:
+- **1)** gruntów rolnych rolne klas l-III, ich zwarty obszar projektowany do takiego prze znaczenia przekracza 0,5 ha wymaga uzyskania zgody Ministra Rolnictwa Gospodarki
+- **2)** gruntów Skarbu wa wymaga uzyskania zgody Ministra Ochrony Zasobów Naturalnych lub przez niego osoby,
+- **3)** gruntów rolnych rolne klas IV, ich zwarty obszar projektowany do takiego przeznacze nia przekracza 1 ha,
+- **4)** gruntów rolnych rolne klas V VI, wytworzonych z gleb pochodzenia organicznego, oraz torfowisk oczek wodnych, przeznaczone na cele budowy zbiorników wodnych, eksploatacji kopalin, budowy dróg publicznych lub linii kolejowych,
+- **5)** gruntów wymaga uzyskania zgody wojewody.
 
-- **1)** gruntów rolnych stanowiących użytki rolne klas I–III – wymaga uzyskania zgody ministra właściwego do spraw rozwoju wsi, z zastrzeżeniem ust. 2a,
-- **2)** gruntów leśnych stanowiących własność Skarbu Państwa – wymaga uzyskania zgody Ministra Ochrony Środowiska, Zasobów Naturalnych i Leśnictwa lub upoważnionej przez niego osoby,
-- **3)** (uchylony)
-- **4)** (uchylony)
-- **5)** pozostałych gruntów leśnych – wymaga uzyskania zgody marszałka województwa wyrażanej po uzyskaniu opinii izby rolniczej.
+3. zgody, o której mowa ust. 2 pkt 1-5, na wniosek gminy. Do wniosku cego gruntów Skarbu twa gminy dyrektora regionalnej dyrek cji Lasów a odniesieniu do gruntów parków narodowych dyrektora parku.
 
-2a. Nie wymaga uzyskania zgody ministra właściwego do spraw rozwoju wsi przeznaczenie na cele nierolnicze i nieleśne gruntów rolnych stanowiących użytki rolne klas I–III położonych na obszarze uzupełnienia zabudowy w rozumieniu przepisów o planowaniu i zagospodarowaniu przestrzennym.
+4. Do wniosku gruntów, o których mowa ust. 2 pkt 1 2, wojewoda przekazuje wniosek odpowiedniemu ministrowi terminie do 30 dni od chwili wniosku przez gminy.
 
-3. Wyrażenie zgody, o której mowa w ust. 2 pkt 1, 2 i 5, następuje na wniosek wójta (burmistrza, prezydenta miasta). Do wniosku dotyczącego gruntów leśnych stanowiących własność Skarbu Państwa wójt (burmistrz, prezydent miasta) dołącza opinię dyrektora regionalnej dyrekcji Lasów Państwowych, a w odniesieniu do gruntów parków narodowych – opinię dyrektora parku. <Termin na wyrażenie zgody wynosi 60 dni od dnia otrzymania wniosku. Brak wyrażenia zgody albo odmowy wyrażenia zgody w tym terminie uważa się za równoznaczny z wyrażeniem zgody.> 3a. Stroną w postępowaniu, o którym mowa w ust. 2, jest wójt (burmistrz, prezydent miasta).
+5. Organ o którym mowa ust. 2, wniosku kilku wariantach, przedArt. 9. 1. Zasady zaliczania lasów do lasów ochron nych przepisy o lasach.
 
-4. Do wniosku dotyczącego gruntów, o których mowa w ust. 2 pkt 1 i 2, marszałek województwa dołącza swoją opinię i przekazuje wniosek odpowiedniemu ministrowi w terminie do 30 dni od chwili złożenia wniosku przez wójta (burmistrza, prezydenta miasta).
+2. W lasach ochronnych wznoszone budynki budowle gospodarce lub bez oznakowaniu nawigacyjnemu, geo dezyjnemu, ochronie zdrowia oraz turys tyce.
 
-5. (uchylony)
-
-6. (uchylony)
-
-**Art. 8.**
-
-1. Przepisów art. 7 nie stosuje się do okresowego, na czas nie dłuższy niż 10 lat, wyłączenia gruntów z produkcji w zakresie niezbędnym do:
-
-- **1)** podjęcia natychmiastowych działań interwencyjnych niezbędnych do zwalczania klęsk żywiołowych i ich następstw, jak również usuwania następstw wypadków losowych;
-- **2)** poszukiwania lub rozpoznawania węglowodorów, węgla kamiennego, węgla brunatnego, rud metali, z wyjątkiem darniowych rud żelaza, metali w stanie rodzimym, rud pierwiastków promieniotwórczych, siarki rodzimej, soli kamiennej, soli potasowej, gipsu i anhydrytu, kamieni szlachetnych.
-
-2. Wyłączenie, o którym mowa w ust. 1, nie zwalnia z obowiązków określonych w rozdziale 5, a wyłączenie dokonane na cele określone w ust. 1 pkt 2 – z obowiązków określonych w rozdziale 3.
-
-**Art. 9.**
-
-1. Zasady zaliczania lasów do lasów ochronnych określają przepisy o lasach.
-
-2. W lasach ochronnych mogą być wznoszone budynki i budowle służące gospodarce leśnej, obronności lub bezpieczeństwu państwa, oznakowaniu nawigacyjnemu, geodezyjnemu, ochronie zdrowia oraz urządzenia służące turystyce.
-
-3. W przypadkach uzasadnionych ważnymi względami społecznymi i brakiem innych gruntów lasy ochronne mogą być przeznaczone na inne cele niż określone w ust. 2, po uzyskaniu zgody właściwego organu wymienionego w art. 7 ust. 2.
+3. W przypadkach uzasadnionych brakiem innych gruntów lasy ochronne po uzyskaniu trybie art. 7 ust. 2 zgody Ministra Ochrony Zasobów Naturalnych przeznaczone na inne cele ust. 2.
 
 **Art. 10.**
 
-1. Wniosek, o którym mowa w art. 7 ust. 4, powinien zawierać:
+1. Wniosek, o którym mowa wart. 7 ust. 4, powinien
 
-- **1)** uzasadnienie potrzeby zmiany przeznaczenia gruntów, o których mowa w art. 7 ust. 2;
-- **2)** wykaz powierzchni gruntów, o których mowa w pkt 1, z uwzględnieniem klas bonitacyjnych gruntów rolnych i typów siedliskowych gruntów leśnych;
-- **3)** ekonomiczne uzasadnienie projektowanego przeznaczenia, uwzględniające w szczególności:
-    - **a)** sumę należności i opłat rocznych za grunty projektowane do przeznaczenia na cele nierolnicze i nieleśne,
-    - **b)** przewidywany rozmiar strat, które poniesie rolnictwo i leśnictwo w wyniku ujemnego oddziaływania inwestycji lokalizowanych na gruntach projektowanych do przeznaczenia na cele nierolnicze i nieleśne.
+- **1)** uzasadnienie potrzeby zmiany przeznaczenia gruntów, o których mowa wart. 7 ust. 2,
+- **2)** wykaz powierzchni gruntów, o których mowa pkt 1, z klas bonitacyjnych gruntów rolnych typów siedliskowych gruntów ekonomiczne uzasadnienie projektowanego przezna czenia,
+    - **a)** rocznych za grunty projek towane do przeznaczenia na cele nierolnicze ne,
+    - **b)** przewidywany rozmiar strat. które poniesie rolnictwo wyniku ujemnego in westycji lokalizowanych na gruntach projektowa nych do przeznaczenia na cele nierolnicze
 
-2. Do wniosku powinna być dołączona mapa gminy lub miasta, z oznaczeniem gruntów zabudowanych, z wyjątkiem gruntów, o których mowa w art. 2 ust. 1 pkt 3 i 4 oraz ust. 2 pkt 1, klas bonitacyjnych gruntów rolnych i typów siedliskowych gruntów leśnych oraz granic gruntów, o których mowa w ust. 1 pkt 1, wykonana w skali takiej jak część graficzna miejscowego planu zagospodarowania przestrzennego. W odniesieniu do gruntów leśnych mapa stanowiąca załącznik do wniosku zawiera treść mapy gospodarczej lasów.
+2. Do wniosku powinna mapa gminy lub miasta, z oznaczeniem gruntów zabudowanych, z gruntów, o których mowa wart. 2 ust. 1 pkt 3 4 oraz ust. 2 pkt 1, klas bonitacyjnych gruntów rolnych typów siedliskowych gruntów oraz granic gruntów, o któ rych mowa ust. 1 pkt 1, wykonana skali takiej jak mapa planu zagospodarowania gminy lub miasta. W odniesieniu do gruntów mapa do wniosku zawiera mapy gospodarczej lasów.
 
-3. Wniosek, o którym mowa w ust. 1, dotyczący gruntów o obszarze ponad 10 ha na cele inwestycji górniczych, powinien zawierać oprócz danych określonych w ust. 1 i 2 także wariantowe rozwiązania w zakresie rekultywacji i zagospodarowania gruntów w trakcie i po zakończeniu działalności przemysłowej, określające dla każdego wariantu koszty rekultywacji i zagospodarowania oraz straty, które poniesie rolnictwo i leśnictwo.
+3. Wniosek, o którym mowa ust. 1, grun tów o obszarze ponad 10 ha na cele inwestycji górniczych, powinien oprócz danych ust. 1 2 wariantowe zakresie rekultywacji zago spodarowania gruntów trakcie po dla wariantu koszty rekultywacji zagospodarowania oraz straty, które poniesie rolnictwo
 
-4. Organ wyrażający zgodę, o którym mowa w art. 7 ust. 2, może w szczególnie uzasadnionym przypadku odstąpić od wymogu przedkładania uzasadnienia ekonomicznego oraz rozwiązań wariantowych, o których mowa w ust. 3.
-
-**Art. 10a.** Przepisów rozdziału 2 nie stosuje się do gruntów rolnych położonych w granicach administracyjnych miast.
-
-#### Rozdział 3 Wyłączanie gruntów z produkcji rolniczej lub leśnej
+4. Organ o którym mowa wart. 7 ust. 2, szczególnie uzasadnionym przypadku od od wymogu uzasadnienia ekonomicz nego oraz wariantowych, o których mowa ust. 3. 3 gruntów z produkcji lub
 
 **Art. 11.**
 
-1. Wyłączenie z produkcji użytków rolnych wytworzonych z gleb pochodzenia mineralnego i organicznego, zaliczonych do klas I, II, III, IIIa, IIIb, oraz użytków rolnych klas IV, IVa, IVb, V i VI wytworzonych z gleb pochodzenia organicznego, a także gruntów, o których mowa w art. 2 ust. 1 pkt 2–10, oraz gruntów leśnych, przeznaczonych na cele nierolnicze i nieleśne – może nastąpić po wydaniu decyzji zezwalających na takie wyłączenie.
+1. z produkcji rolnych wytworzonych z gleb pochodzenia mineralnego, zaliczonych z
 
-1a. W decyzji dotyczącej wyłączenia z produkcji użytków rolnych wytworzonych z gleb pochodzenia mineralnego i organicznego, zaliczonych do klas I, II, III, IIIa, IIIb, a także gruntów, o których mowa w art. 2 ust. 1 pkt 2–10, oraz gruntów leśnych, przeznaczonych na cele nierolnicze i nieleśne określa się obowiązki związane z wyłączeniem.
+2. W odniesieniu do gruntów parków narodowych decyzje, o których mowa ust. 1, dyrektorzy tych parków, z art. 7 ust. 5.
 
-1b. Wniosek o wyłączenie z produkcji użytków rolnych klas IV, IVa, IVb, V i VI wytworzonych z gleb pochodzenia organicznego jest wiążący, a decyzja ma charakter deklaratoryjny.
+3. Decyzje, o których mowa ust. 1 2, gruntów wymienionych wart. 8, wydane po dniu faktycznego gruntów z produkcji.
 
-2. W odniesieniu do gruntów wchodzących w skład parków narodowych decyzje, o których mowa w ust. 1 i 1a, wydają dyrektorzy tych parków.
+4. Wydanie decyzji, o których mowa ust. 1 2, przed uzyskaniem pozwolenia na
 
-3. Decyzje, o których mowa w ust. 1–2, dotyczące gruntów wymienionych w art. 8, mogą być wydane po dniu faktycznego wyłączenia gruntów z produkcji.
+5. Osoba o wydanie decyzji, o których mowa ust. 1 2, celem wydobywania torfów jest zana organowi doku menty:
 
-4. Wydanie decyzji, o których mowa w ust. 1 i 2, następuje przed uzyskaniem pozwolenia na budowę albo dokonaniem zgłoszenia budowy lub wykonania robót budowlanych, o których mowa w ustawie z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2023 r. poz. 682, z późn. zm. ).
+- **1)** torfowiska oraz rodzaj tam torfu,
+- **2)** projekt eksploatacji, na etapy termin jej
+- **3)** projekt rekultywacji torfowiska termin jej
+- **4)** eksploatacji torfowiska na przyrodnicze, ze szczególnym gospo darki wodnej.
 
-4a. Decyzje, o których mowa w ust. 1 i 2, dołącza się do wniosku o pozwolenie na budowę albo zgłoszenia budowy lub wykonania robót budowlanych, o których mowa w ustawie z dnia 7 lipca 1994 r. – Prawo budowlane.
-
-5. Osoba ubiegająca się o wydanie decyzji, o których mowa w ust. 1–2, celem wydobywania torfów jest obowiązana przedstawić właściwemu organowi następujące dokumenty:
-
-- **1)** dokumentację określającą położenie, powierzchnię i miąższość torfowiska oraz rodzaj występującego tam torfu;
-- **2)** projekt eksploatacji, uwzględniający podział na etapy i termin jej zakończenia;
-- **3)** projekt rekultywacji torfowiska i termin jej zakończenia;
-- **4)** ocenę wpływu eksploatacji torfowiska na środowisko przyrodnicze, ze szczególnym uwzględnieniem gospodarki wodnej.
-
-6. Nie wymaga się decyzji, o których mowa w ust. 1–2, jeżeli grunty rolne mają być użytkowane na cele leśne.
+6. Nie wymaga decyzji, o których mowa ust. 1 2, grunty rolne na cele
 
 **Art. 12.**
 
-1. Osoba, która uzyskała zezwolenie na wyłączenie gruntów z produkcji, jest obowiązana uiścić należność i opłaty roczne, a w odniesieniu do gruntów leśnych – także jednorazowe odszkodowanie w razie dokonania przedwczesnego wyrębu drzewostanu. Obowiązek taki powstaje od dnia faktycznego wyłączenia gruntów z produkcji.
+1. Osoba, która zezwolenie na czenie gruntów z produkcji, jest roczne, a odniesieniu do gruntów Grunty orne sady, pod budynkami wchogospodarstw rolnych oraz pod zadrzewieniami zakrzewieniami tym pod pasami przeciwwietrznymi przeciwerozyjnymi klasa ton ziarna odpowiednio do powierzchni gruntów nie czonych z produkcji. Zwrot uiszczonej terminie do trzech od dnia rezygnacji.
 
-2. Właściciel, który w okresie 2 lat zrezygnuje w całości lub w części z uzyskanego prawa do wyłączenia gruntów z produkcji rolniczej lub leśnej, otrzymuje zwrot należności, jaką uiścił, odpowiednio do powierzchni gruntów niewyłączonych z produkcji. Zwrot uiszczonej należności następuje w terminie do trzech miesięcy od dnia zgłoszenia rezygnacji.
+3. W razie zbycia gruntów, co do których wydano decyzje, o których mowa wart. 11 ust. 1 2, a nie jeszcze z produkcji, uiszczenia nale rocznych na nabywcy, który grunt z produkcji. jest o tym
 
-3. W razie zbycia gruntów, co do których wydano decyzje, o których mowa w art. 11 ust. 1–2, a niewyłączonych jeszcze z produkcji, obowiązek uiszczenia należności i opłat rocznych ciąży na nabywcy, który wyłączył grunt z produkcji. Zbywający jest obowiązany uprzedzić nabywcę o tym obowiązku.
+4. W razie zbycia gruntów z produkcji, uiszczania rocznych przechodzi na nabyw jest o tym
 
-4. W razie zbycia gruntów wyłączonych z produkcji, obowiązek uiszczania opłat rocznych przechodzi na nabywcę. Zbywający jest obowiązany uprzedzić o tym nabywcę.
+5. jednorazowego odszkodowania za przed wczesny drzewostanu stanowi spo drzewostanu wieku lonym planie lasu, a chwili jego W drzewostanach których nie sortymentów drzewnych, odszkodowanie to sta nowi kosztów poniesionych na drzewostanów. Zasady ustalania odszkodowania Minister Ochrony Zasobów Naturalnych nictwa.
 
-5. Wysokość jednorazowego odszkodowania za przedwczesny wyrąb drzewostanu stanowi różnicę między spodziewaną wartością drzewostanu w wieku rębności, określonym w planie urządzania lasu, a wartością w chwili jego wyrębu. W drzewostanach młodszych, w których nie można pozyskać sortymentów drzewnych, odszkodowanie to stanowi wartość kosztów poniesionych na założenie i pielęgnację drzewostanów.
+6. pomniejsza o gruntu, cen rynkowych stosowanych danej obrocie gruntami, dniu faktycznego tego gruntu z produkcji.
 
-5a. Minister właściwy do spraw środowiska określa, w drodze rozporządzenia, szczegółowe zasady ustalania jednorazowego odszkodowania, o którym mowa w ust. 5, za przedwczesny wyrąb drzewostanu, uwzględniając wartość drzewostanów, stopień zadrzewienia drzewostanu w wieku wyrębu faktycznego, powierzchnię drzewostanu oraz aktualną cenę sprzedaży 1 m drewna.
+7. za z produkcji 1 ha gruntów rolnych wymienionych wart. 2 ust. 1 pkt 1, 3 5 wynosi: pastwiska pod budynkami gospodarstw rolnych oraz pod zadrzewieniami zakrzewieniami tym pod pasami przeciwwietrznymi przeciwerozyj nymi klasa ton ziarna wytworzone z gleb pochodzenia mineralnego I 750 Ps I 750 II 650 Ps II 620 lila 550 Ps III 500 IIlb 450 wytworzone z gleb pochodzenia organicznego IVa 350 IVb 250 V 200 VI 150
 
-6. Należność pomniejsza się o wartość gruntu, ustaloną według cen rynkowych stosowanych w danej miejscowości w obrocie gruntami, w dniu faktycznego wyłączenia tego gruntu z produkcji.
+8. tony ziarna ustala wysoko stosowanej do wymierzania podatku rolnego, przez Statystyczny.
 
-7. Należność za wyłączenie z produkcji 1 ha gruntów rolnych wymienionych w art. 2 ust. 1 pkt 1, 3 i 5 wynosi:
+9. za z produkcji parków wiejs Ps IV 300 250 Ps V 200 Ps VI 150 ustala jak za grunty pod budynkami gospodarstw rolnych oraz grunty pod zadrzewieniami zakrzewieniami Lp. Typy siedliskowe lasów tego nej przez Statystyczny 1 Lasy: wilgotny, górski oraz ols jesionowy ols górski 2000 2 Lasy mieszane: wilgotny bagienny, górski ols 1500 3 Bory mieszane: wilgotny, bagienny, górski 1150 4 Bory: wilgotny, górski 5 Bory: suchy bagienny
 
-8. (uchylony)
+12. roczne za z produkcji gruntów lasach ochronnych o 50% od o których mowa ust. 11.
 
-9. Należność za wyłączenie z produkcji parków wiejskich oraz gruntów wymienionych w art. 2 ust. 1 pkt 4 i 10 ustala się jak za grunty pod budynkami i urządzeniami wchodzącymi w skład gospodarstw rolnych oraz grunty pod zadrzewieniami i zakrzewieniami śródpolnymi.
+13. uiszcza terminie do 60 dni od dnia, którym decyzja ostateczna.
 
-10. Należność za wyłączenie z produkcji 1 ha gruntów pod stawami rybnymi oraz za grunty wymienione w art. 2 ust. 1 pkt 6–9 wynosi 233 160 zł.
+14. za dany rok uiszcza terminie do dnia 30 czerwca tego roku, za ustalenia ceny tony ziarna stosowanej przy wy mierzaniu podatku rolnego za pierwsze tym Grunty orne sady, pod budynkami wchogospodarstw rolnych oraz pod zadrzewieniami zakrzewieniami tym pod pasami przeciwwietrznymi przeciwerozyjnymi klasa ton ziarna 600 250 roku, a odniesieniu do gruntów 1 m drewna tartacznego iglastego, przy wymiarze podatku danym roku.
 
-11. Należność za wyłączenie z produkcji 1 ha gruntu leśnego bez drzewostanu wynosi:
-
-12. Należność i opłaty roczne za wyłączenie z produkcji gruntów leśnych w lasach ochronnych są wyższe o 50% od należności i opłat, o których mowa w ust. 11.
-
-13. Należność uiszcza się w terminie do 60 dni od dnia, w którym decyzja stała się ostateczna.
-
-14. Opłatę roczną za dany rok uiszcza się w terminie do dnia 30 czerwca tego roku, przyjmując:
-
-- **1)** w odniesieniu do gruntów rolnych kwoty określone na podstawie ust. 7;
-- **2)** w odniesieniu do gruntów leśnych za podstawę ustalenia cenę 1 m drewna, stosowaną przy wymiarze podatku leśnego w danym roku.
-
-15. (uchylony)
-
-16. Na wniosek organu wykonawczego jednostki samorządu terytorialnego marszałek województwa – w odniesieniu do gruntów rolnych, dyrektor regionalnej dyrekcji Lasów Państwowych – w odniesieniu do gruntów leśnych, a w odniesieniu do obszarów wchodzących w skład parków narodowych – dyrektor parku mogą umorzyć całość lub część należności i opłat rocznych, a w odniesieniu do gruntów leśnych również jednorazowe odszkodowanie w razie dokonania przedwczesnego wyrębu drzewostanu w przypadku inwestycji o charakterze użyteczności publicznej z zakresu oświaty i wychowania, kultury, kultu religijnego oraz ochrony zdrowia i opieki społecznej, jeżeli inwestycja ta służy zaspokojeniu potrzeb lokalnej społeczności, oraz dotyczącej powiększenia lub założenia cmentarza, jeżeli obszar gruntu podlegający wyłączeniu nie przekracza 1 ha i nie ma możliwości zrealizowania inwestycji na gruncie nieobjętym ochroną.
-
-17. Na wniosek organu wykonawczego jednostki samorządu terytorialnego marszałek województwa może umorzyć całość lub część należności i opłat rocznych w odniesieniu do gruntów rolnych w przypadku inwestycji zmierzającej do osiągnięcia celów, o których mowa w art. 6 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, przeznaczonej na cele inne niż określone w ust. 16, jeżeli obszar gruntu podlegający wyłączeniu nie przekracza 1 ha i nie ma możliwości zrealizowania inwestycji na gruncie nieobjętym ochroną.
-
-**Art. 12a.** Obowiązek uiszczenia należności i opłat rocznych, a w odniesieniu do gruntów leśnych również jednorazowego odszkodowania, o którym mowa w art. 12 ust. 1, nie dotyczy wyłączenia gruntów z produkcji rolniczej lub leśnej na cele budownictwa mieszkaniowego:
-
-**Art. 12b.**
-
-1. Obowiązek uiszczenia należności i opłat rocznych, o którym mowa w art. 12 ust. 1, nie powstaje jeżeli:
-
-- **1)** wyłączenie gruntów z produkcji dotyczy części gruntu rolnego pod zabudową zagrodową, którego powierzchnia nie przekracza 30% całkowitej powierzchni gruntu rolnego pod zabudową zagrodową w danym gospodarstwie rolnym, nie więcej niż 0,05 ha;
-- **2)** właściciel gruntów wyłączanych z produkcji, o których mowa w pkt 1, zobowiąże się do dalszego prowadzenia gospodarstwa rolnego, w skład którego wchodzi zabudowa zagrodowa, składając wniosek o wyłączenie tych gruntów z produkcji.
-
-2. Do wyłączenia gruntów z produkcji, o którym mowa w ust. 1, nie jest wymagane przeznaczenie gruntów na cele nierolnicze.
-
-3. Osoba, która zamierza wykonywać w zabudowie zagrodowej działalność inną niż działalność rolnicza, powiadamia starostę właściwego ze względu na miejsce położenia tej zabudowy zagrodowej o zamiarze wykonywania tej działalności oraz jednocześnie składa do tego starosty wniosek, o którym mowa w ust. 1 pkt 2, w terminie 30 dni przed dniem planowanego podjęcia tej działalności.
-
-4. W powiadomieniu, o którym mowa w ust. 3, wskazuje się dane ewidencyjne działki ewidencyjnej pod zabudową zagrodową.
-
-5. Do powiadomienia, o którym mowa w ust. 3, dołącza się plan budynków i urządzeń tworzących zabudowę zagrodową w danym gospodarstwie rolnym, ze wskazaniem:
-
-- **1)** budynków i urządzeń, w których będzie wykonywana działalność inna niż działalność rolnicza;
-- **2)** całkowitej powierzchni zabudowy zagrodowej;
-- **3)** powierzchni, na której będzie wykonywana działalność inna niż działalność rolnicza.
-
-6. Jeżeli zobowiązanie, o którym mowa w ust. 1 pkt 2, nie jest wykonywane, uznaje się, że grunty rolne pod zabudową zagrodową zostały wyłączone z produkcji niezgodnie z przepisami ustawy.
+15. Rada gminy o na jej obszarze gruntów rolnych wymienionych wart. 2 ust. 1 pkt 1, 3 5, zaliczonych do klas IV, IVa IVb, wytworzonych z gleb pochodzenia mineralnego. Wówczas przepisy ust. 1- 4, 6, 8, 9, 13 14 stosuje odpowiednio, a z z produkcji 1 ha tych gruntów wynosi: pastwiska pod budynkami gospodarstw rolnych oraz pod zadrzewieniami zakrzewieniami tym pod pasami przeciwwietrznymi przeciwerozyjnymi klasa ton ziarna wytworzone z gleb pochodzenia mineralnego IVa 350 IVb 250
 
 **Art. 13.**
 
-1. Przy wyłączaniu gruntów z produkcji w celu budowy zbiorników wodnych należność i opłaty roczne określa się proporcjonalnie do udziału osób w eksploatacji tych zbiorników.
+1. Przy gruntów z produkcji ce lu budowy zbiorników wodnych roczne proporcjonalnie do osób eksploatacji tych zbiorników.
 
-2. Jeżeli w eksploatacji zbiorników wodnych, o których mowa w ust. 1, przewiduje się udział osób wykorzystujących wodę na cele produkcji rolniczej, leśnej, wytwarzania energii elektrycznej w elektrowniach wodnych o mocy zainstalowanej nie większej niż 10 MW lub ochrony przeciwpowodziowej, zawiesza się na lat 10 uiszczenie proporcjonalnej części sumy należności i opłat rocznych. Proporcjonalną część sumy należności i opłat rocznych ustala się stosownie do udziału tych osób, określonego w dokumentacji technicznej eksploatacji zbiornika, z tym że ustalony w tej dokumentacji przepływ nienaruszalny zalicza się do eksploatacji zbiornika dla potrzeb rolnictwa. Zawieszoną część sumy należności i opłat rocznych umarza się po upływie 10 lat.
+2. eksploatacji zbiorników wodnych, o których mowa ust. 1, przewiduje osób na cele produkcji rolniczej, lub ochrony przeciw powodziowej, zawiesza na lat 10 uiszczenie propor cjonalnej sumy rocznych. Propor sumy rocznych ustala stosownie do tych osób, dokumen tacji technicznej eksploatacji zbiornika, z tym ustalony tej dokumentacji nienaruszalny zalicza do eksploatacji zbiornika dla potrzeb rolnictwa. sumy rocznych umarza po 10 lat.
 
-3. W razie zmniejszenia udziału osób, o których mowa w ust. 2, w eksploatacji zbiornika w okresie 10 lat od rozpoczęcia jego eksploatacji, osoby przejmujące część lub całość tego udziału uiszczają należności i opłaty roczne proporcjonalnie do wielkości przejętego udziału w eksploatacji zbiornika w oparciu o protokół zdawczo-odbiorczy.
+3. W razie zmniejszenia udzialu osób, o których mowa ust. 2, eksploatacji zbiornika okresie 10 lat od jego eksploatacji, osoby lub Ps IV 300 proporcjonalnie do weksploa tacji zbiornika oparciu o zdawczo-odbiorczy.
 
 **Art. 14.**
 
-1. W razie wyłączania gruntów z produkcji, w decyzji o wyłączeniu, o której mowa w art. 11 ust. 1 i 2, można, po zasięgnięciu opinii wójta, nałożyć obowiązek zdjęcia oraz wykorzystania na cele poprawy wartości użytkowej gruntów próchnicznej warstwy gleby z gruntów rolnych klas I, II, IIIa, IIIb, III, IVa i IV oraz z torfowisk.
+1. W razie gruntów z produkcji, decyzji o o której mowa wart. 11 ust. 1 2, po opinii wójta, oraz wykorzystania na cele poprawy kowej gruntów próchnicznej warstwy gleby z gruntów rolnych klas I, II, lila, IlIb, III, IVa IV oraz z torfowisk.
 
-2. W razie niewykonania obowiązku określonego w ust. 1, osoba wyłączająca grunty z produkcji uiszcza za każdy 1 m wykorzystanej niewłaściwie próchnicznej warstwy gleby opłatę w wysokości obowiązującej w dniu wydania decyzji o ustaleniu wysokości opłaty, która wynosi:
+2. W razie niewykonania ust. 1, osoba grunty z produkcji uiszcza za 1 m wykorzystanej próchnicznej warstwy gleby ceny ziarna dniu wydania decyzji o ustaleniu która wynosi:
 
-- **1)** z gleb klasy I i II oraz gleb pochodzenia organicznego – 291,45 zł;
-- **2)** z gleb pochodzenia mineralnego, zaliczonych do klas III, IIIa i IIIb – 233,16 zł;
-- **3)** z gleb pochodzenia mineralnego, zaliczonych do klas IVa i IV – 174,87 zł.
+- **1)** z gleb klas I Iloraz gleb pochodzenia organicznego 5q,
+- **2)** z gleb pochodzenia mineralnego, zaliczonych do klas III, lila IIlb 4 q,
+- **3)** z gleb pochodzenia mineralnego, zaliczonych do klas gólnie erozji.
 
-#### Rozdział 4 Zapobieganie degradacji gruntów
+2. organ wymieniony wart. 5, ze na gleb przed drodze decyzji, zalesienie, zadrzewienie czy zakrzewienie gruntów lub na nich zielonych. gruntów zwrot kosztów zakupu nasion sadzonek ze Funduszu Ochrony Gruntów Rolnych.
 
-**Art. 15.**
+3. wykonanie nakazu, o którym mowa ust. 2, spowoduje szkody ze zmniejszenia produkcji gruntów odszkodowa nie ze Funduszu Ochrony Gruntów Rolnych, wy przez okres 10 lat.
 
-1. Właściciel gruntów stanowiących użytki rolne oraz gruntów zrekultywowanych na cele rolne jest obowiązany do przeciwdziałania degradacji gleb, w tym szczególnie erozji i ruchom masowym ziemi.
+4. utrzymywania stanie tech nicznej przeciwerozyjnych oraz melioracji na gruntów, na których te
 
-2. Właściwy organ wymieniony w art. 5, ze względu na ochronę gleb przed erozją i ruchami masowymi ziemi, może, w drodze decyzji, nakazać właścicielowi gruntów, o których mowa w ust. 1, zalesienie, zadrzewienie lub zakrzewienie gruntów, lub założenie na nich trwałych użytków zielonych. Właścicielowi gruntów przysługuje zwrot kosztów zakupu niezbędnych nasion i sadzonek ze środków budżetu województwa, o których mowa w art. 22b ust. 1.
-
-3. Jeżeli wykonanie nakazu, o którym mowa w ust. 2, spowoduje szkody wynikające ze zmniejszenia produkcji roślinnej, właścicielowi gruntów przysługuje odszkodowanie ze środków budżetu województwa, o których mowa w art. 22b ust. 1, wypłacane przez okres 10 lat.
-
-4. Obowiązek utrzymywania w stanie sprawności technicznej urządzeń przeciwerozyjnych oraz urządzeń melioracji szczegółowych ciąży na właścicielu gruntów, na których znajdują się te urządzenia.
-
-5. W razie wystąpienia z winy właściciela innych form degradacji gruntów, o których mowa w ust. 1, w tym również spowodowanej nieprzestrzeganiem przepisów o ochronie roślin uprawnych przed chorobami, szkodnikami i chwastami, wójt, w drodze decyzji, nakazuje właścicielowi gruntów wykonanie w określonym terminie odpowiednich zabiegów. W razie niewykonania decyzji wójt zleca wykonanie zastępcze tych zabiegów na koszt właściciela gruntów, wykorzystując do czasu zwrotu kosztów wykonania zastępczego środki budżetu województwa, o których mowa w art. 22b ust. 1.
+5. W razie z winy innych form degradacji gruntów, o których mowa ust. 1, tym spowodowanej nieprzestrzeganiem przepisów o ochronie uprawnych przed chorobami, szkodnikami chwas tami, wójt drodze decyzji nakazuje gruntów wykonanie terminie odpowiednich zabiegów. W razie niewykonania decyzji, wójt zleca wykonanie cze tych zabiegów na koszt gruntów, wykorzys do czasu zwrotu kosztów wykonania Funduszu Ochrony Gruntów Rolnych.
 
 **Art. 16.**
 
-1. Dla gruntów położonych na obszarach ograniczonego użytkowania, istniejących wokół zakładów przemysłowych, opracowuje się, na koszt odpowiedzialnych zakładów, plany gospodarowania na tych gruntach.
+1. Dla gruntów na obszarach szczególnej ochrony lub strefach ochronnych, opracowuje na koszt odpowiedzialnych plany gospodaro wania na tych gruntach.
 
-2. Projekt planu gospodarowania na gruntach, o których mowa w ust. 1, powinien określać:
+2. Projekt planu gospodarowania na gruntach, o któ rych mowa ust. 1, powinien
 
-- **1)** rodzaje występujących zanieczyszczeń i ich stężenie;
-- **2)** wpływ zanieczyszczeń lub innego szkodliwego oddziaływania na istniejący sposób zagospodarowania, z ewentualnym podziałem strefy ochronnej na części;
-- **3)** aktualne kierunki produkcji roślinnej oraz wielkość tej produkcji;
-- **4)** rośliny, które mogą być uprawiane, zalecenia dotyczące ich uprawy oraz proponowany sposób ich gospodarczego wykorzystania;
-- **5)** sposób przeciwdziałania zmniejszeniu wartości użytkowej gleb;
-- **6)** spodziewany poziom globalnej produkcji rolniczej lub leśnej;
-- **7)** wykaz gospodarstw rolnych prowadzących produkcję rolniczą;
-- **8)** wysokość przewidywanych odszkodowań z tytułu obniżenia poziomu produkcji lub zmiany kierunku produkcji;
-- **9)** ewentualne obowiązki związane z prowadzeniem produkcji zwierzęcej, w tym również rybackiej;
-- **10)** ewentualne nakłady niezbędne do zmiany kierunków produkcji;
-- **11)** przewidywany obszar i koszty nabycia gruntów przez zakład przemysłowy.
+- **1)** rodzaje ich
+- **2)** lub innego szkodliwego oddzia na sposób z ewentualnym strefy ochronnej na
+- **3)** aktualne kierunki produkcji oraz tej produkcji,
+- **4)** które uprawiane, zalecenia ich uprawy oraz proponowany sposób ich gospodar czego wykorzystania,
+- **5)** sposób zmniejszeniu kowej gleb,
+- **6)** spodziewany poziom globalnej produkcji rolniczej lub
+- **7)** wykaz gospodarstw rolnych
+- **8)** przewidywanych z ob poziomu produkcji lub zmiany kierunku pro dukcji,
+- **9)** ewentualne z prowadzeniem pro uwag wniosków. O projektu planu do gminy powiadamia gruntów na
 
-3. Projekt planu powinien być wyłożony w urzędzie gminy do wglądu właścicieli gruntów na okres 30 dni w celu zgłoszenia uwag i wniosków. O wyłożeniu projektu planu do wglądu urząd gminy powiadamia właścicieli gruntów na piśmie.
+4. Rada gminy podejmuje, jako zadanie uchwa przedmiocie zatwierdzenia planu, po uzyskaniu opinii placówek naukowych lub innych osób przez Ministra Rolnictwa Gospodarki porozu mieniu z Ministrem Ochrony Zasobów Natural nych Koszty opinii pokrywa
 
-4. Rada gminy podejmuje jako zadanie własne uchwałę w przedmiocie zatwierdzenia planu, po uzyskaniu opinii izby rolniczej, a także placówek naukowych lub innych osób upoważnionych przez ministra właściwego do spraw rozwoju wsi w porozumieniu z ministrem właściwym do spraw środowiska. Koszty sporządzenia opinii pokrywa zakład przemysłowy.
+5. W razie prowadzenia produkcji sposób ustalenia planu, o których mowa ust. 2 pkt 4 9, wójt, porozumieniu z wojewódzkim inspektorem sanitarnym, nakazuje gruntów oznaczonym terminie zniszczenie upraw, przemieszczenie poza obszar strefy ochronnej lub dokonanie ich uboju.
 
-5. W razie prowadzenia produkcji w sposób naruszający ustalenia planu, o których mowa w ust. 2 pkt 4 i 9, wójt, w porozumieniu z wojewódzkim inspektorem sanitarnym , nakazuje właścicielowi gruntów w oznaczonym terminie zniszczenie określonych upraw, przemieszczenie zwierząt poza obszar ograniczonego użytkowania lub dokonanie ich uboju.
-
-6. Wykonanie decyzji, o której mowa w ust. 5, następuje bez odszkodowania.
+6. Wykonanie decyzji, o której mowa ust. 5, bez odszkodowania.
 
 **Art. 17.**
 
-1. Jeżeli właściciel gruntów, o których mowa w art. 16 ust. 1, poniósł szkodę przez obniżenie poziomu produkcji rolniczej lub leśnej, przysługuje mu z tego tytułu odszkodowanie od zakładu przemysłowego. W przypadku obniżenia poziomu produkcji w okresie trzech lat co najmniej o jedną trzecią dotychczasowej wartości, zakład jest obowiązany, na wniosek właściciela, wykupić całość lub część tych gruntów według cen wolnorynkowych.
+1. gruntów, o których mowa wart. ust. 1, przez poziomu produkcji rolniczej lub mu z tego odszkodowanie od W przypadku poziomu produkcji okresie trzech lat co najmniej o dotychczasowej jest zany, na wniosek lub tych gruntów cen wolnorynkowych.
 
-2. Jeżeli w wyniku realizacji planu, o którym mowa w art. 16 ust. 1, zachodzi potrzeba zmiany kierunku produkcji rolniczej lub leśnej, zakład przemysłowy jest obowiązany zwrócić właścicielowi gruntów poniesione z tego tytułu nakłady i koszty oraz wypłacić równowartość szkód wynikłych ze zmiany kierunków produkcji.
+2. wyniku realizacji planu, o którym mowa wart. ust. 1, zachodzi potrzeba zmiany kierunku produkcji rolniczej lub jest gruntów poniesione z tego koszty oraz szkód wynik ze zmiany kierunków produkcji.
 
 **Art. 18.**
 
-1. Na gruntach, o których mowa w art. 16 ust. 1, starosta zapewnia prowadzenie co 3 lata okresowych badań poziomu skażenia gleb i roślin. Jeżeli okresowe badania wykażą, że uzyskiwane płody nie nadają się do spożycia lub przetworzenia, kosztami badań należy obciążyć zakład przemysłowy, a skażone grunty wyłącza się z produkcji w trybie określonym w art. 11 ust. 1. Skutki tych decyzji obciążają zakład przemysłowy odpowiedzialny za skażenie.
+1. Na gruntach, o których mowa wart. ust. 1, wojewoda zapewnia prowadzenie co 3 lata okreso wych poziomu gleb okresowe badania uzyskiwane nie do lub przetworzenia, kosztami a grunty z produk cji trybie wart. 11 ust. 1. Skutki tych decyzji odpowiedzialny za
 
-2. Na żądanie właściciela gruntów wyłączonych z produkcji, zakład przemysłowy, o którym mowa w ust. 1, jest obowiązany nabyć te grunty wraz z budynkami i urządzeniami. Przepis art. 17 stosuje się odpowiednio.
+2. Na gruntów z pro dukcji, o którym mowa ust. 1, jest te grunty wraz z budynkami mi. Przepis art. 17 stosuje odpowiednio.
 
-3. Jeżeli wyłączenie gruntów z produkcji następuje w wyniku ujemnego oddziaływania obiektów lub urządzeń należących do kilku osób, odpowiedzialność tych osób jest solidarna.
+3. gruntów z produkcji wyniku ujemnego obiektów lub do kilku osób, tych osób jest solidarna.
 
-4. Pierwsze badania okresowe, o których mowa w ust. 1, należy przeprowadzić do końca 1996 r.
+4. Pierwsze badania okresowe, o których mowa ust. 1, do 1996 r.
 
-**Art. 19.** Przepisy art. 16–18 stosuje się odpowiednio także do gruntów zdewastowanych i zdegradowanych, położonych poza obszarami ograniczonego użytkowania.
+**Art. 19.** Przepisy art. 16- 18 stosuje odpowiednio do gruntów zdewastowanych zdegradowanych, po poza obszarami szczególnej ochrony 2. Rekultywacji gruntów zdewastowanych lub zdegra dowanych przez nie ustalone osoby lub wyniku dokonuje organ wymieniony wart. 5 przy wykorzystaniu Funduszu Ochrony Gruntów Rolnych, a odniesieniu do gruntów gruntów przeznaczonych do zalesienia na zasadach przepisach o lasach. 3. zagospodarowanie gruntów planuje projektuje realizuje na wszystkich etapach 4. gruntów prowadzi jak grunty te lub na czas do prowadzenia oraz terminie do 5 lat od zaprzestania tej 5. obo rekultywacji gruntów prowadzona jest przez kilka osób, ten na z nich, odpowiednio do zakresu rekultywacji.
 
-#### Rozdział 5 Rekultywacja i zagospodarowanie gruntów
-
-**Art. 20.**
-
-1. Osoba powodująca utratę albo ograniczenie wartości użytkowej gruntów jest obowiązana do ich rekultywacji na własny koszt.
-
-2. Rekultywacji na cele rolnicze gruntów rolnych, zdewastowanych lub zdegradowanych przez nieustalone osoby, w wyniku klęsk żywiołowych lub ruchów masowych ziemi, dokonuje właściwy organ wymieniony w art. 5, przy wykorzystaniu środków budżetu województwa, o których mowa w art. 22b ust. 1, a rekultywacji gruntów leśnych i gruntów przeznaczonych do zalesienia – przy wykorzystaniu środków pochodzących z budżetu państwa, na zasadach określonych w przepisach o lasach.
-
-2a. Rekultywacji na cele inne niż wymienione w ust. 2 pozostałych gruntów zdewastowanych lub zdegradowanych przez nieustalone osoby, w wyniku klęsk żywiołowych lub ruchów masowych ziemi, dokonuje właściwy organ wymieniony w art. 5, przy wykorzystaniu środków pochodzących z budżetu państwa lub środków osób zainteresowanych prowadzeniem działalności na zrekultywowanych gruntach.
-
-3. Rekultywację i zagospodarowanie gruntów planuje się, projektuje i realizuje na wszystkich etapach działalności przemysłowej.
-
-4. Rekultywację gruntów prowadzi się w miarę jak grunty te stają się zbędne całkowicie, częściowo lub na określony czas do prowadzenia działalności przemysłowej oraz kończy się w terminie do 5 lat od zaprzestania tej działalności.
-
-5. Jeżeli działalność przemysłowa powodująca obowiązek rekultywacji gruntów prowadzona jest przez kilka osób, obowiązek ten ciąży na każdej z nich, odpowiednio do zakresu działalności powodującej potrzebę rekultywacji.
-
-6. W przypadku zmiany osoby zobowiązanej do rekultywacji gruntów, w drodze decyzji właściwego organu wymienionego w art. 5, następuje przekazanie praw i obowiązków wynikających z wcześniej wydanych decyzji.
-
-**Art. 21.** Na terenach przewidywanego osiadania gruntów na skutek działalności górniczej zakład przemysłowy, na wniosek właściciela, rozpoczyna rekultywację przed wystąpieniem degradacji gruntów.
+**Art. 21.** Na terenach przewidywanego osiadania grun tów na skutek górniczej na wniosek rozpoczyna przed wy degradacji gruntów.
 
 **Art. 22.**
 
-1. Decyzje w sprawach rekultywacji i zagospodarowania określają:
+1. Decyzje sprawach rekultywacji zagos podarowania
 
-- **1)** stopień ograniczenia lub utraty wartości użytkowej gruntów, ustalony na podstawie opinii, o których mowa w art. 28 ust. 5;
-- **2)** osobę obowiązaną do rekultywacji gruntów;
-- **3)** kierunek i termin wykonania rekultywacji gruntów;
-- **4)** uznanie rekultywacji gruntów za zakończoną.
+- **1)** ograniczenia lub utraty gruntów, ustalony na podstawie opinii, o których mowa wart. 28 ust. 5,
+- **2)** do rekultywacji gruntów,
+- **3)** kierunek termin wykonania rekultywacji gruntów,
+- **4)** uznanie rekultywacji gruntów za
 
-2. W sprawach, o których mowa w ust. 1, decyzje wydaje starosta, po zasięgnięciu opinii:
+2. W sprawach, o których mowa ust. 1, decyzje wydaje kierownik rejonowego administracji ogólnej, po opinii:
 
-- **1)** dyrektora właściwego terenowo okręgowego urzędu górniczego – w odniesieniu do działalności górniczej;
-- **2)** dyrektora regionalnej dyrekcji Lasów Państwowych lub dyrektora parku narodowego – w odniesieniu do gruntów o projektowanym leśnym kierunku rekultywacji;
-- **3)** wójta (burmistrza, prezydenta miasta).
+- **1)** dyrektora terenowo górniczego odniesieniu do górniczej,
+- **2)** dyrektora regionalnej dyrekcji Lasów lub dyrektora parku narodowego odniesieniu do grun tów o projektowanym kierunku rekultywacji,
+- **3)** gminy.
 
-3. Osoby obowiązane do rekultywacji gruntów zawiadamiają organ, o którym mowa w ust. 2, w terminie do dnia 28 lutego każdego roku o powstałych w ubiegłym roku zmianach w zakresie gruntów podlegających rekultywacji.
+3. Osoby do rekultywacji gruntów zawia organ, o którym mowa ust. 2, terminie do dnia 28 lutego roku o roku zmianach zakresie gruntów rekultywacji. 6 Fundusz Ochrony Gruntów Rolnych
 
-**Art. 22a.**
+**Art. 23.**
 
-1. Przepisów art. 20 i art. 22 nie stosuje się do rekultywacji gruntów, które zostały zanieczyszczone substancjami, preparatami, organizmami lub mikroorganizmami.
+1. Tworzy Fundusz Ochrony Gruntów Rol nych, zwany dalej "Funduszem".
 
-2. Do rekultywacji gruntów, o których mowa w ust. 1, stosuje się odpowiednio do gruntów zanieczyszczonych:
+2. Regulamin funkcjonowania Funduszu ustala Mini
 
-- **1)** po dniu 30 kwietnia 2007 r. – przepisy ustawy z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom w środowisku i ich naprawie (Dz. U. z 2020 r. poz.
-- **2187)** ;
-- **2)** przed dniem 30 kwietnia 2007 r. – przepisy ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska.
+- **2)** roczne,
+- **3)** z niewykonania wyko rzystania próchnicznej warstwy gleby,
+- **4)** oraz roczne wart. 28 ust. 1-3.
 
-#### Rozdział 5a Dochody związane z wyłączeniem z produkcji gruntów rolnych
+4. Dochodami Funduszu darowizny inne dochody.
 
-**Art. 22b.**
+**Art. 24.**
 
-1. Dochodami budżetu województwa związanymi z wyłączaniem z produkcji gruntów rolnych są pobierane na podstawie ustawy:
+1. Fundusz dzieli na terenowy centralny.
 
-- **1)** należności;
-- **2)** opłaty roczne;
-- **3)** opłaty z tytułu niewykonania obowiązku zdjęcia i wykorzystania próchnicznej warstwy gleby;
-- **4)** opłaty oraz należności i opłaty roczne podwyższone, określone w art. 28 ust. 1–4;
-- **5)** odsetki z tytułu należności i opłat, o których mowa w pkt 1–4.
+2. Fundusz centralny tworzy z 20% dochodów Funduszu, o których mowa wart. 23 ust. 3 4.
 
-2. Zarząd województwa gromadzi dochody, o których mowa w ust. 1, na wyodrębnionym rachunku bankowym.
+3. Funduszu centralnego dysponuje Minister Rolnictwa Gospodarki
 
-3. Dochody, o których mowa w ust. 1, są niepodatkowymi należnościami budżetowymi o charakterze publiczno-prawnym w rozumieniu ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm. ).
+4. Funduszu terenowego dysponuje woje woda.
 
-4. Marszałek województwa jest wierzycielem i organem egzekucyjnym uprawnionym do egzekucji należności za zobowiązania z tytułu dochodów, o których mowa w ust. 1.
+5. Fundusz terenowy przekazuje, terminie 15 dni po 20% zgromadzonych do chodów, wymienionych wart. 23 ust. 3, na rachunek Funduszu centralnego.
 
-**Art. 22c.**
+**Art. 25.**
 
-1. Ze środków budżetu województwa, w zakresie ustalonym w ustawie, finansowane są ochrona, rekultywacja i poprawa jakości gruntów rolnych oraz wypłata odszkodowań przewidzianych ustawą, w szczególności:
+1. Funduszu przeznacza na ochro gruntów rolnych oraz na przewidzianych a szcze na:
 
-- **1)** rekultywacja na cele rolnicze gruntów, które utraciły lub zmniejszyły wartość użytkową wskutek działalności nieustalonych osób;
-- **2)** rolnicze zagospodarowanie gruntów zrekultywowanych;
-- **3)** użyźnianie gleb o niskiej wartości produkcyjnej, ulepszanie rzeźby terenu i struktury przestrzennej gleb, usuwanie kamieni i odkrzaczanie;
-- **4)** przeciwdziałanie erozji gleb i ruchom masowym ziemi na gruntach rolnych, w tym zwrot kosztów zakupu nasion i sadzonek, utrzymanie w stanie sprawności technicznej urządzeń przeciwerozyjnych oraz odszkodowania, o których mowa w art. 15 ust. 3;
-- **5)** budowa i renowacja zbiorników wodnych służących małej retencji;
-- **6)** budowa i modernizacja dróg dojazdowych do gruntów rolnych;
-- **7)** wdrażanie i upowszechnianie wyników prac naukowo-badawczych związanych z ochroną gruntów rolnych;
-- **8)** wykonywanie badań płodów rolnych uzyskiwanych na obszarach ograniczonego użytkowania, o których mowa w art. 16, oraz niezbędnych dokumentacji i ekspertyz z zakresu ochrony gruntów rolnych;
-- **9)** wykonywanie zastępcze obowiązków określonych w ustawie;
-- **10)** rekultywacja nieużytków i użyźnianie gleb na potrzeby nowo zakładanych rodzinnych ogrodów działkowych;
-- **11)** zakup sprzętu pomiarowego i informatycznego oraz oprogramowania, niezbędnego do zakładania i aktualizowania operatów ewidencji gruntów oraz prowadzenia spraw ochrony gruntów rolnych, do wysokości 5% rocznych dochodów, o których mowa w art. 22b ust. 1.
+- **1)** na cele rolnicze gruntów, które lub wskutek nie ustalonych osób,
+- **2)** rolnicze zagospodarowanie gruntów zrekultywowa nych,
+- **3)** gleb o niskiej produkcyjnej, ulep szanie terenu struktury przestrzennej gleb, usuwanie kamieni odkrzaczanie,
+- **4)** erozji gleb na gruntach rolnych, tym zwrot kosztów zakupu nasion sadzonek, utrzymania stanie technicznej przeciwero zyjnych, oraz odszkodowania, o których mowa wart. 15 ust. 3,
+- **5)** zbiorników wodnych retencji,
+- **6)** dróg dojazdowych do gruntów rolnych,
+- **7)** upowszechnianie wyników prac naukowo -badawczych z gruntów rolnych,
+- **8)** wykonywanie rolnych uzyskiwanych strefach ochronnych, o których mowa wart. 16, oraz dokumentacji ekspertyz z zakresu ochrony gruntów rolnych,
+- **9)** wykonywanie ustawie,
+- **10)** gleb na potrzeby nowo pracowniczych ogrodów lanie Funduszu terenowego oraz na zadania wymienione ust. 1 pkt 7 11.
 
-2. Dochody, o których mowa w art. 22b, powinny być w pierwszej kolejności przeznaczane na wykonywanie prac wymienionych w ust. 1 na obszarze tych gmin, w których powstają te dochody oraz istnieją warunki uzyskania wzrostu produkcji rolniczej, rekompensującej straty poniesione w wyniku zmniejszenia obszaru gruntów rolnych.
+3. Funduszu terenowego powinny pierw szej przeznaczane na wykonywanie prac wymie nionych ust. 1 na obszarze tych gmin, których dochody Funduszu oraz warunki uzyskania wzrostu produkcji rolniczej, straty poniesione wyniku zmniejszenia obszaru gruntów rolnych.
 
-3. Przy przydzielaniu środków uzyskanych z dochodów, o których mowa w art. 22b ust. 1, właścicielom gruntów, na ich wniosek, należy uwzględniać udział własny tych właścicieli w kosztach robót oraz efektywność projektowanych przedsięwzięć.
+4. Przy przydzielaniu Funduszu terenowego gruntów, na ich wniosek, tych kosztach robót oraz efektyw projektowanych
 
-#### Rozdział 6 (uchylony)
-
-#### Rozdział 7 Kontrola wykonania przepisów ustawy
+5. Skutki finansowe decyzji, o których mowa wart. 15 ust. 2 3 oraz art. 20 ust. 2, uzgodnienia z dys ponentem Funduszu. 7 Kontrola wykonania przepisów ustawy
 
 **Art. 26.**
 
-1. Kontrolę stosowania przepisów ustawy sprawują Minister Rolnictwa i Gospodarki Żywnościowej , Minister Ochrony Środowiska, Zasobów Naturalnych i Leśnictwa , marszałkowie województw oraz podmioty wymienione w art. 5 oraz art. 15 ust. 5 i art. 16 ust. 5.
+1. stosowania przepisów ustawy Minister Rolnictwa Gospodarki Minister Ochrony Zasobów Naturalnych nictwa, wojewodowie oraz organy wymienione wart. 5 oraz art. 1 5 ust. 5 art. ust. 5.
 
-2. Osoby przeprowadzające kontrolę są uprawnione do:
+2. Osoby uprawnione do:
 
-- **1)** wstępu na grunt i teren zakładu przemysłowego;
-- **2)** wglądu do dokumentów oraz żądania sporządzenia ich odpisów;
-- **3)** sprawdzania tożsamości osób w związku z prowadzoną kontrolą;
-- **4)** żądania wyjaśnień i zasięgania informacji;
-- **5)** pobierania próbek gleby lub roślin do analizy.
+- **1)** na grunt teren
+- **2)** do dokumentów oraz ich odpisów,
+- **3)** sprawdzania osób z
+- **4)** informacji,
+- **5)** pobierania próbek gleby lub do analizy.
 
-3. Kontrolę stosowania przepisów ustawy w odniesieniu do gruntów użytkowanych na cele obronności lub bezpieczeństwa państwa można przeprowadzać po uprzednim uzgodnieniu jej zakresu z jednostką nadrzędną użytkownika tych gruntów.
+3. stosowania przepisów ustawy odniesie niu do gruntów na cele lub po uprzed nim uzgodnieniu jej zakresu z nika tych gruntów.
 
 **Art. 27.**
 
-1. Kontrola obejmuje wykonanie następujących obowiązków:
+1. Kontrola obejmuje wykonanie cych
 
-- **1)** zdjęcia i wykorzystania próchnicznej warstwy gleby;
-- **2)** rekultywacji gruntów zdewastowanych i zdegradowanych;
-- **3)** rolniczego zagospodarowania gruntów zrekultywowanych, jeżeli zagospodarowanie odbywa się przy wykorzystaniu środków, o których mowa w art. 22b ust. 1;
-- **4)** przeciwdziałania erozji gleb i ruchom masowym ziemi oraz innym zjawiskom powodującym trwałe pogarszanie wartości użytkowej gruntów;
-- **5)** określonych w art. 16–19.
+- **1)** wykorzystania próchnicznej warstwy gleby,
+- **2)** rekultywacji gruntów zdewastowanych zdegradowa nych,
+- **3)** rolniczego zagospodarowania gruntów zrekultywowa nych, zagospodarowanie odbywa przy wyko rzystaniu Funduszu,
+- **4)** erozji gleb innym zjawiskom powodu pogarszanie gruntów,
+- **5)** wart. 16-19.
 
-2. Jeżeli objętość próchnicznej warstwy gleby zdejmowanej z gruntów wyłączanych z produkcji przekracza 1000 m , kontrolę przeprowadza się z wykorzystaniem pomiarów geodezyjnych.
+2. próchnicznej warstwy gleby zdej mowanej z gruntów z produkcji przekracza 1000 m przeprowadza z wykorzystaniem po
 
-3. Kontrola wykonania obowiązku rekultywacji gruntów polega na sprawdzeniu co najmniej raz w roku zgodności wykonywanych zabiegów z dokumentacją rekultywacji tych gruntów, a zwłaszcza wymagań technicznych oraz ich terminowości, ze szczególnym uwzględnieniem obowiązku zakończenia rekultywacji w okresie 5 lat od zaprzestania działalności przemysłowej.
+4. O terminie kontroli wymienionych ust. 1- 3, na obszarach górniczych, morskiego pasa kole jowych lotnisk komunikacyjnych, powiadamia odpo wiednio, nie 3 dni przed
 
-4. O terminie kontroli wymienionych w ust. 1–3, na obszarach górniczych, morskiego pasa nadbrzeżnego, kolejowych i lotnisk komunikacyjnych, powiadamia się odpowiednio, nie później niż 3 dni przed zamierzoną kontrolą:
-
-- **1)** okręgowy urząd górniczy;
-- **2)** urząd morski;
-- **3)** organ kolejowy lub zarząd lotniska.
+- **1)** górniczy,
+- **2)** morski,
+- **3)** organ kolejowy lub lotniska.
 
 **Art. 28.**
 
-1. W razie stwierdzenia, że grunty zostały wyłączone z produkcji niezgodnie z przepisami niniejszej ustawy, sprawcy wyłączenia ustala się opłatę w wysokości dwukrotnej należności.
+1. W razie stwierdzenia, grunty z produkcji niezgodnie z przepisami niniejszej ustawy, sprawcy ustala dwukrotnej
 
-2. W razie stwierdzenia, że grunty przeznaczone w miejscowym planie zagospodarowania przestrzennego na cele nierolnicze lub nieleśne zostały wyłączone z produkcji bez decyzji, o której mowa w art. 11 ust. 1 i 2, decyzję taką wydaje się z urzędu, podwyższając jednocześnie wysokość należności o 10%.
+2. W razie stwierdzenia, grunty przeznaczone miej scowym planie zagospodarowania przestrzennego na cele nierolnicze lub z produkcji bez decyzji, o której mowa wart. 11 ust. 1 2, wydaje z o 10%.
 
-3. W razie niezakończenia rekultywacji gruntów zdewastowanych w okresie, o którym mowa w art. 20 ust. 4, stosuje się opłatę roczną podwyższoną o 200% od dnia, w którym rekultywacja gruntów powinna zostać zakończona.
+3. W razie rekultywacji gruntów zdewa stowanych okresie, o którym mowa wart. 20 ust. 4, stosuje o 200% od dnia, którym rekultywacja gruntów powinna
 
-4. W razie niewykonania obowiązku rekultywacji gruntów zdegradowanych ustala się, w drodze decyzji, obowiązek corocznego wpłacania na wyodrębniony rachunek bankowy zarządu województwa, o którym mowa w art. 22b ust. 2, lub na Fundusz Leśny, przez osobę powodującą ograniczenie wartości użytkowej gruntów, równowartości opłaty rocznej w takiej części, w jakiej nastąpiło ograniczenie wartości użytkowej gruntów. Do ustalenia wysokości opłaty rocznej za zdegradowanie gruntów stosuje się wartości wymienione:
+4. W razie niewykonania rekultywacji grun tów zdegradowanych, ustala drodze decyzji, zek corocznego na Fundusz Ochrony Gruntów Rolnych lub na Fundusz przez ograniczenie gruntów, rocznej takiej jakiej ograniczenie gruntów. Do ustalenia rocznej za zdegradowanie gruntów stosuje wymienione:
 
-- **1)** w art. 12 ust. 7 w odniesieniu do gruntów rolnych klas I–IV;
-- **2)** w art. 12 ust. 11 w odniesieniu do gruntów leśnych. Opłaty te uiszcza się do czasu wykonania obowiązku rekultywacji.
+- **1)** wart. 12 ust. 7 odpowiednio wart. 12 ust. 15 odniesieniu do gruntów rolnych klas l-IV,
+- **2)** wart. 12 ust. 11 odniesieniu do gruntów te uiszcza do czasu wykonania rekul tywacji.
 
-5. Rozmiar ograniczenia wartości użytkowej gruntów ustala się na podstawie dwóch odrębnych opinii rzeczoznawców.
+5. Rozmiar ograniczenia gruntów ustala na podstawie dwóch opinii rzeczo znawców.
 
-6. W razie ograniczenia wartości użytkowej gruntów w wyniku zasadzenia drzew przydrożnych, nie pobiera się opłat, o których mowa w ust. 4.
+6. W razie ograniczenia gruntów wyniku zasadzenia drzew nie pobiera o których mowa ust. 4.
 
-7. Przepisy ust. 1–5 stosuje się odpowiednio w odniesieniu do gruntów leśnych, z tym że decyzję wydaje dyrektor regionalnej dyrekcji Lasów Państwowych, a w parkach narodowych dyrektor parku.
+7. Przepisy ust. 1- 5 stosuje odpowiednio od niesieniu do gruntów z tym wydaje dyrektor regionalnej dyrekcji Lasów a par kach narodowych dyrektor parku.
 
-8. Opłaty, o których mowa w ust. 1–4, stosuje się niezależnie od kar przewidzianych w przepisach o ochronie środowiska oraz innych obowiązujących przepisach.
+8. o których mowa ust. 1- 4, stosuje od kar przewidzianych przepisach o ochronie oraz innych przepisach.
 
 **Art. 29.**
 
-1. Opłaty, o których mowa w art. 28, nie mogą być wliczane do kosztów działalności osób, na które nałożono te opłaty.
+1. o których mowa wart. 28, nie wliczane do kosztów osób, na które egzekucyjnym administracji.
 
-2. Jeżeli opłaty, o których mowa w art. 28, dotyczą jednostek organizacyjnych, na kierowników tych jednostek nakłada się karę w wysokości ich wynagrodzenia za okres 3 ostatnich miesięcy.
+**Art. 31.**
 
-**Art. 29a.**
+1. Dochody Funduszu, o których mowa art. 23, z niniejszej ustawy, rozumieniu przepisów o umarzaniu udzie laniu ulg
 
-1. Kto, w zabudowie zagrodowej, podejmuje działalność inną niż działalność rolnicza nie powiadamiając właściwego starosty zgodnie z art. 12b ust. 3, podlega karze pieniężnej w wysokości od 5000 zł do 30 000 zł.
-
-2. Karę pieniężną, o której mowa w ust. 1, wymierza, w drodze decyzji, starosta, o którym mowa w ust. 1.
-
-3. Środki finansowe, pochodzące z kar pieniężnych, o których mowa w ust. 1, stanowią dochód budżetu powiatu.
-
-**Art. 30.** W przypadkach niewykonywania obowiązków określonych w ustawie stosuje się przepisy o postępowaniu egzekucyjnym w administracji.
-
-**Art. 31.** (uchylony)
-
-#### Rozdział 8 Przepisy przejściowe i końcowe
+2. o których mowa ust. 1, z 5 lat od dnia ich 8 Przepisy
 
 **Art. 32.**
 
-1. Działający na podstawie ustawy z dnia 26 marca 1982 r. o ochronie gruntów rolnych i leśnych (Dz. U. poz. 79) Fundusz Ochrony Gruntów Rolnych staje się Funduszem Ochrony Gruntów Rolnych w rozumieniu niniejszej ustawy.
+1. na podstawie ustawy z dnia 26 marca 1982 r. o ochronie gruntów rolnych (Dz. U. 11, poz. 79) Fundusz Ochrony Gruntów Rolnych staje Funduszem Ochrony Gruntów Rolnych rozumieniu niniej szej ustawy.
 
-2. Dochody, o których mowa w art. 12 ust. 1 oraz w art. 28 ust. 1–4, dotyczące gruntów leśnych są dochodami Funduszu Leśnego, o którym mowa w przepisach o lasach. Przepisy art. 31 stosuje się odpowiednio.
+2. Dochody, o których mowa wart. 12 ust. 1 oraz art. 28 ust. 1- 4, gruntów dochodami Funduszu o którym mowa przepisach o lasach. Przepisy art. 31 stosuje odpowiednio.
 
-**Art. 32a.** (pominięty)
+**Art. 33.** Właściwy sprawach ochrony gruntów or gan, o którym mowa wart. 5, prowadzi z zakresu:
 
-**Art. 32b.** (pominięty)
+**Art. 36.** Traci moc ustawa z dnia 26 marca 1982 r. o ochronie gruntów rolnych (Dz. U. 11, poz. 79, z 1984 r. 35, poz. 185, z 1988 24, poz. 169, z 1990 r. 34, poz. 198, z 1991 r. 101, poz. 444, 103, poz. 446 114, poz. 494 oraz z 1994 r. 27, poz. 96).
 
-**Art. 33.** Właściwy w sprawach ochrony gruntów organ, o którym mowa w art. 5, prowadzi sprawozdawczość z zakresu:
+**Art. 37.** Ustawa wchodzi po 30 dni od dnia jej Prezydent Rzeczypospolitej Polskiej: L. 79 USTAWA z dnia 3 lutego 1995 o zmianie ustawy o denominacji
 
-**Art. 34.** W stosunku do gruntów, na których znajdują się zabytki archeologiczne, wojewódzki konserwator zabytków może określić, w drodze decyzji, zakres i sposób eksploatacji takich gruntów.
+**Art. 1.** W ustawie z dnia 7 lipca 1994 r. o denominacji (Dz. U. 84, poz. 386) wart. 4 po ust. 6 dodaje ust. 6a brzmieniu: ,,6a. Wszelkie ustawach oraz Sejmu Rzeczypospolitej Polskiej do dnia 31 grudnia 1994 a po tym dniu, z dniem przeliczeniu z mocy prawa stosunku, o którym mowa wart. 2 ust. 2."
 
-**Art. 35.**
-
-1. Do spraw wszczętych przed dniem wejścia w życie ustawy, a niezakończonych decyzją ostateczną, stosuje się przepisy niniejszej ustawy.
-
-2. Do spraw, w których wydano decyzję ostateczną o wyłączeniu z produkcji rolniczej gruntów rolnych klas I–III, a wyłączenie takie faktycznie jeszcze nie nastąpiło, stosuje się przepisy dotychczasowe.
-
-3. Tracą ważność niewykonane do dnia wejścia w życie ustawy decyzje ostateczne, dotyczące:
-
-- **1)** opłat z tytułu odłogowania gruntów rolnych;
-- **2)** wyłączenia z produkcji rolniczej gruntów klas IV–VI, na mocy których nie nastąpiło jeszcze faktyczne wyłączenie.
-
-4. Stałe opłaty roczne, ustalone na podstawie dotychczasowych przepisów, ulegają z mocy prawa umorzeniu, o ile ich kwota jest równa lub niższa od 10 zł.
-
-5. Do wznowienia postępowania w sprawach, w których na podstawie dotychczasowych przepisów wydano decyzje ostateczne, dotyczące:
-
-- **1)** wyłączenia gruntów z produkcji bez zezwolenia,
-- **2)** rekultywacji i zagospodarowania gruntów, w tym niewykonania rekultywacji gruntów w wyznaczonym terminie, stosuje się przepisy niniejszej ustawy.
-
-6. Niewykonane do dnia wejścia w życie ustawy decyzje ostateczne w sprawach przeciwdziałania erozji gleb pozostają w mocy.
-
-**Art. 36.** Traci moc ustawa z dnia 26 marca 1982 r. o ochronie gruntów rolnych i leśnych (Dz. U. poz. 79, z późn. zm. ).
-
-**Art. 37.** Ustawa wchodzi w życie po upływie 30 dni od dnia jej ogłoszenia .
+**Art. 2.** Ustawa wchodzi z dniem z od dnia 1 stycznia 1995 r. Prezydent Rzeczypospolitej Polskiej: L.
 

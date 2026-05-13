@@ -21,7 +21,7 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2025-07-25 |
 | Data wydania | 2025-08-06 |
-| Ostatnia zmiana | 2026-03-09 |
+| Ostatnia zmiana | 2026-05-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001071) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1071/text.pdf) |
 
 OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 25 lipca 2025 r.

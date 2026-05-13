@@ -25,7 +25,7 @@ domain: null
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19910170075) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1991/75/text.pdf) |
 
 USTAWA z dnia 24 stycznia 1991 kombatantach niektórych osobach ofiarami represji wojennych okresu powojennego.
-Sejm Rzeczypospolitej Polskiej uznaje szczególne za dla Polski tych wszystkich obywateli polskich, którzy walczyli Ojczyzny, zdrowia polach walki zbrojnej formacjach Wojska Polskiego, armii sojuszniczych, a podziem nych organizacjach cywilnej z represje.
+Sejm Rzeczypospolitej Polskiej uznaje szczególne za dla Polski tych wszystkich obywateli polskich, którzy walczyli Ojczyzny, nie zdrowia polach walki zbrojnej formacjach Wojska Polskiego, armii sojuszniczych, a podziem nych organizacjach cywilnej z represje.
 Sejm stwierdza, III Rzeszy Niemieckiej, ów czesne Socjalistycznych Republik Radziec kich komunistyczny aparat repfesji .w iPolsce winni zadanych wielu ze politycznych religijnych.
 one wielu milionów, a dla wielu utraty zdrowia.
 Kombatantom ofiarom represji jest wszystkich rodaków szczególna troska opie ka ze strony instytucji terytorial nych organizacji wyraz tym intencjom uchwala co 1 Przepisy ogólne
@@ -38,7 +38,7 @@ Kombatantom ofiarom represji jest wszystkich rodaków szczególna troska opie ka
 
 - **1)** wojskowej Wojsku Polskim polskich formacjach wojskowych przy armiach soju szniczych podczas wojennych prowadzonych wszystkich frontach przez Polskie,
 - **2)** uczestniczenie ramach polskich formacji organizacji wojskowych I wojnie powstaniach narodowych walkach odzyskanie utrzymanie terytoriów Rzeczypospolitej Polskiej,
-- **3)** polskich podziemnych formacjach okresie wojny 1939-1945, z formacji Ludowego Komisariatu Spraw Socjalistycznych Republik Radzieckich (NKWD) innych specjalnych formacji, które przeciwko polskiej,
+- **3)** polskich podziemnych formacjach okresie wojny 1939-1945, z formacji Ludowego Komisariatu Socjalistycznych Republik Radzieckich (NKWD) innych specjalnych formacji, które przeciwko polskiej,
 - **5)** polskich podziemnych formacjach wojskowych organizacjach terytorium Polskiego jego granicach sprzed dnia 1 1939 r. granicach powojennych wkroczenia armii Socjalistycznych .Republik-Radzieckich (ZSRR) do 1956 r., to formacje organizacje sobie za cel Rzeczypospolitej,
 - **6)** uczestniczenie walkach z Po Armii grupami Wehrwolfu.
 
@@ -50,7 +50,7 @@ Kombatantom ofiarom represji jest wszystkich rodaków szczególna troska opie ka
 
 - **1)** z przyczyn politycznych, religij nych rasowych:
     - **a)** hitlerowskich obozach koncentracyj nych
-    - **b)** innych miejscach odosobnienia, których waru nki pobytu od warunków obozach koncentracyjnych, a osoby tam osadzone pozos dyspozycji hitlerowskich bezpie
+    - **b)** innych miejscach odosobnienia, których waru nki pobytu nie od warunków obozach koncentracyjnych, a osoby tam osadzone pozos dyspozycji hitlerowskich bezpie
 
 - **2)** z przyczyn rasowych gettach,
 - **3)** z przyczyn politycznych, religijnych wych:
@@ -59,55 +59,55 @@ Kombatantom ofiarom represji jest wszystkich rodaków szczególna troska opie ka
 
 - **4)** polskich mocy skazania latach 1944-1956, podstawie przepisów wydanych przez polskie, przez wojskowe specjalne albo latach 1944-1956 bez wyroku, za polity z ... ------: :-2. Przepisy ustawy stosuje do osób, które jako dzieci odebrane rodzicom celu poddania ekster minacji celu przymusowego wynarodowienia.
 
-**Art. 5.** Okresy, których mowa wart. 1 ust. 2 wart. 2-4, ustala W przypadku braku danych do ustalenia takiego okresu, przyjmuje okres wymiarze 1
+**Art. 5.** Okresy, których wart. 1 ust. 2 wart. 2-4, ustala W przypadku braku danych do ustalenia takiego okresu, przyjmuje okres wymiarze 1
 
-**Art. 6.** Ilekroć ustawie jest mowa stowarzysze niach kombatanckich, rozumie przez to stowarzyszenia podstawie prawa stowarzyszeniach, kombatantów ofiary represji wojennych okresu powojennego.
+**Art. 6.** Ilekroć ustawie jest stowarzysze niach kombatanckich, rozumie przez to stowarzyszenia podstawie prawa stowarzyszeniach, kombatantów ofiary represji wojennych okresu powojennego.
 
 **Art. 7.**
 
-1. Tworzy do Spraw Kombatantów Osób Represjonowanych jako centralny organ administracji
+1. Tworzy do Kombatantów Osób Represjonowanych jako centralny organ administracji
 
-2. do Spraw Kombatantów Osób Represjono wanych podlega Prezesowi Rady Ministrów.
+2. do Kombatantów Osób Represjono wanych podlega Prezesowi Rady Ministrów.
 
-3. do Spraw Kombatantów Osób Repres jonowanych kieruje Kierownik tego przez Prezesa Rady Ministrów.
+3. do Kombatantów Osób Repres jonowanych kieruje Kierownik tego przez Prezesa Rady Ministrów.
 
-4. Rada Ministrów, drodze zakres do Spraw Kombatantów Osób Represjonowanych.
+4. Rada Ministrów, drodze zakres do Kombatantów Osób Represjonowanych.
 
 **Art. 8.**
 
-1. Kierownik do Spraw Kombatantów Osób Represjonowanych
+1. Kierownik do Kombatantów Osób Represjonowanych
 
-- **2)** Minister potwierdza której mowa wart. 4 ust. 1 pkt 4,
-- **3)** Komisja Badania Zbrodni Hitlerowskich Polsce-Instytut Narodowej potwierdza okoli której mowa wart. 4 ust. 2. 2 Uprawnienia pracownicze
+- **2)** Minister potwierdza której wart. 4 ust. 1 pkt 4,
+- **3)** Komisja Badania Zbrodni Hitlerowskich Polsce-Instytut Narodowej potwierdza okoli której wart. 4 ust. 2. 2 Uprawnienia pracownicze
 
 **Art. 9.**
 
-1. Okresy, których mowa wart. 1 ust. 2 wart. 2, 3 4 ust. 1, zalicza do okresów zatrudnienia, od których przyznanie przy pracownikom od pracy.
+1. Okresy, których wart. 1 ust. 2 wart. 2, 3 4 ust. 1, zalicza do okresów zatrudnienia, od których przyznanie przy pracownikom od pracy.
 
-2. Minister Pracy Polityki Socjalnej porozumieniu z Kierownikiem do Kombatantów Osób Represjonowanych, drodze szcze zasady tryb zaliczania okresów, których mowa ust. 1, do okresu zatrudnienia.
+2. Minister Pracy Polityki Socjalnej porozumieniu z Kierownikiem do Kombatantów Osób Represjonowanych, drodze szcze zasady tryb zaliczania okresów, których ust. 1, do okresu zatrudnienia.
 
-**Art. 10.** Kombatantom osobom, których mowa wart. 2 4, zwanym dalej "innymi osobami uprawnionymi", zatrudnieniu, im urlop wypoczynkowy 10 dni roboczych. to osoby te z urlopu wymiarze roku. Art: 1; .1 .' Rozwiązanie stosunku pracy z kombatan tem okresie 2 lat przed wieku do którym mowa wart. 14, po uprzednim uzyskaniu zgody kierownika ciwego rejonowego 2. Przepis ust. 1 dotyczy osób kierow nicze stanowiska obsadzane drodze osób, które warunki wymagane do uzyskania emerytury, a stosunku pracy bez wypowiedzenia z winy pracownika. 3 Uprawnienia emerytalne
+**Art. 10.** Kombatantom osobom, których wart. 2 4, zwanym dalej "innymi osobami uprawnionymi", zatrudnieniu, im urlop wypoczynkowy 10 dni roboczych. to nie osoby te z urlopu wymiarze roku. Art: 1; .1 .' Rozwiązanie stosunku pracy z kombatan tem okresie 2 lat przed wieku do którym wart. 14, po uprzednim uzyskaniu zgody kierownika ciwego rejonowego 2. Przepis ust. 1 nie dotyczy osób kierow nicze stanowiska obsadzane drodze osób, które warunki wymagane do uzyskania emerytury, a stosunku pracy bez wypowiedzenia z winy pracownika. 3 Uprawnienia emerytalne
 
 **Art. 12.**
 
-1. Kombatantom inwalidami wojen nymi wojskowymi po rodzin inne uprawnienia przewidziane przepisach zaopatrzeniu inwalidów wojen nych wojskowych ich rodzin.
+1. Kombatantom inwalidami wojen nymi wojskowymi po nich rodzin inne uprawnienia przewidziane przepisach zaopatrzeniu inwalidów wojen nych wojskowych ich rodzin.
 
-2. $wiadczenia inne uprawnienia, przewi dziane przepisach, których mowa ust. 1, zasadach tych przepisach
+2. $wiadczenia inne uprawnienia, przewi dziane przepisach, których ust. 1, zasadach tych przepisach
 
-- **1)** osobom, które zaliczone do jednej z grup in walidów wskutek inwalidztwa ku z pobytem miejscach, których mowa wart. 3 pkt 2 art. 4 ust. 1 pkt 1, 2 3 lit. a) pkt 4, Art. gą, przejść Art. pobierającym emeryturę Art. mają jeżeli Art. rzystają zwła Art. znajdującym się Art. przysługuje: wysokości caniu ubezpieczenie pojazdów samochodowych.
+- **1)** osobom, które zaliczone do jednej z grup in walidów wskutek inwalidztwa ku z pobytem miejscach, których wart. 3 pkt 2 art. 4 ust. 1 pkt 1, 2 3 lit. a) pkt 4, Art. gą, przejść Art. pobierającym emeryturę Art. mają jeżeli Art. rzystają zwła Art. znajdującym się Art. przysługuje: wysokości caniu ubezpieczenie pojazdów samochodowych.
 
 5. Rada Ministrów, drodze inne ust; 1-4 ulgi, zakres, szczegó 'zasady ich przyznawania.
 
-6. organy administracji orga ny gmin komunalnych zasady stosowania ulg których mowa ust. 1-5. 5 Zasady orzekania uprawnieniach
+6. organy administracji orga ny gmin komunalnych zasady stosowania ulg których ust. 1-5. 5 Zasady orzekania uprawnieniach
 
 **Art. 21.**
 
-1. Uprawnienia ustawie osobie, która uzyska wart. 1 ust, 2 wart. 2 albo fakty, których mowa wart. .., posiada obywatelstwo polskie je okresie kombatanckiej okresie podlegania rePresjpm, z ust. 2.
+1. Uprawnienia ustawie osobie, która uzyska wart. 1 ust, 2 wart. 2 albo fakty, których wart. .., posiada obywatelstwo polskie je okresie kombatanckiej okresie podlegania rePresjpm, z ust. 2.
 
-2. Uprawnienia, których mowa ust. 1, przy osobie, która:
+2. Uprawnienia, których ust. 1, nie przy osobie, która:
 
 - **1)** okresie wojny 1939--1945 z hitlerows kim okupantem liJb dobrowolnie stwo od polskiej,
-- **2)** przymusowo warmii niemieckiej, potem do wojny walce . Polski,
+- **2)** przymusowo warmii niemieckiej, potem do wojny nie walce . Polski,
 - **3)** okresie od 1939 r. do 1956 r. NKWD albo innych organach represji ZSRR przeciwko Narodowi Pol skiemu,
 - **4)** a) zatrudniona aparacie pub licznego informacji wojskowej,
     - **b)** latach 1944-1956 zatrudniona funkcje jednostkach organizacyjnych sta nowiskach ze stosowaniem represji wo bec osób podejrzanych skazanych za rzecz Rze czypospolitej Polskiej: organach prokuratury prokuraturze wojs kowej, powszechnym wojskowym,
@@ -117,21 +117,21 @@ Kombatantom ofiarom represji jest wszystkich rodaków szczególna troska opie ka
 
 **Art. 23.**
 
-1. Zachowuje Fundusz Kom batantów, zwany dalej "funduszem". Dysponentem fun duszu jest Kierownik do Spraw Kombatantów Osób Represjonowanych.
+1. Zachowuje Fundusz Kom batantów, zwany dalej "funduszem". Dysponentem fun duszu jest Kierownik do Kombatantów Osób Represjonowanych.
 
 2. dochodów funduszu dotacje z darowizny. .
 
 3. $rodki funduszu przeznaczone na:
 
-- **1)** pomoc dla kombatantów po rodzin, której mowa wart. 19, .
+- **1)** pomoc dla kombatantów po nich rodzin, której wart. 19, .
 - **2)** z art. 20, z ust. 2 pkt 1 3,
 - **3)** finansowanie kosztów rozszerzenia bazy sanatoryjnej domów pomocy leczniczych, przeznaczonych dla kombatantów, a domów kom batanta,
 - **4)** walk Odrodzenie Polski represji wojennych okresu powojennego. _:_--, .. -.._-- -.
 
 4. Wydatki na:
 
-- **1)** których mowa wart. 20 ust. 2 pkt 1,
-- **2)** finansowanie kosztów administracyjnych opie wykonywanych rzecz kom batanckiego , zlecanych organizacjom przez do Spraw Kombatantów Osób Represjonowa nych, realizowane ze Art. 24: Określone wart. 12, 15 16 przewidziane dla kombatantów innych osób uprawnionych po rodzin, a energetyczny wart. 20 ust. 2 pkt 3 ust. 3, przez nych z Funduszu $wiadczenia te wraz z odsetkami za ustaleniu do prawa ich koszty refundacji rzecz Funduszu z dotacji 7 Przepisy
+- **1)** których wart. 20 ust. 2 pkt 1,
+- **2)** finansowanie kosztów administracyjnych opie wykonywanych rzecz kom batanckiego , zlecanych organizacjom przez do Kombatantów Osób Represjonowa nych, realizowane ze Art. 24: Określone wart. 12, 15 16 przewidziane dla kombatantów innych osób uprawnionych po nich rodzin, a energetyczny wart. 20 ust. 2 pkt 3 ust. 3, przez nych z Funduszu $wiadczenia te wraz z odsetkami za ustaleniu do nich prawa ich koszty refundacji rzecz Funduszu z dotacji 7 Przepisy
 
 **Art. 25.**
 

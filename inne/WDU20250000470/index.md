@@ -26,7 +26,7 @@ domain: null
 
 1. Na podstawie 16 ust. 1 zdanie pierwsze ustawy dnia 20 lipca 2000 ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. 2019 poz. 1461) ogłasza się załączniku niniejszego obwieszczenia jednolity tekst ustawy dnia 18 marca 2010 szczególnych uprawnieniach ministra właściwego aktywów państwowych ich wykonywaniu niektórych spółkach kapitałowych grupach kapitałowych prowadzących działalność sektorach energii elektrycznej, ropy naftowej (Dz. U. 2020 poz. 2173), uwzględnieniem zmian wprowadzonych ustawą dnia 15 maja 2024 zmianie niektórych ustaw związanych funkcjonowaniem administracji rządowej (Dz. U. poz. 834) zmian wynikających przepisów ogłoszonych przed 13 marca 2025 Podany załączniku niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje 84 ustawy dnia 15 maja 2024 zmianie niektórych ustaw związanych funkcjonowaniem administracji rządowej (Dz. U. poz. 834), który stanowi: „Art. 84. Ustawa wchodzi życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia, wyjątkiem:
 1) 65 ust. 2 i 73 ust. 2, które wchodzą życie ogłoszenia;
-2) 47 i 82, które wchodzą życie następującym po dniu ogłoszenia.”.
+47 i 82, które wchodzą życie następującym po dniu ogłoszenia.”.
 Marszałek Sejmu: S. Hołownia
 USTAWA dnia 18 marca 2010 szczególnych uprawnieniach ministra właściwego aktywów państwowych ich wykonywaniu niektórych spółkach kapitałowych grupach kapitałowych prowadzących działalność sektorach energii elektrycznej, ropy naftowej
 
@@ -34,8 +34,7 @@ USTAWA dnia 18 marca 2010 szczególnych uprawnieniach ministra właściwego akty
 
 1. Ustawa określa szczególne uprawnienia przysługujące ministrowi właściwemu aktywów państwowych spółkach kapitałowych grupach kapitałowych, rozumieniu 3 ust. 1 44 ustawy dnia 29 września 1994 rachunkowości (Dz. U. 2023 poz. 120, 295 i 1598 2024 poz. 619, 1685 i 1863) prowadzących działalność sektorach energii elektrycznej, ropy naftowej gazowych, których mienie zostało ujawnione jednolitym wykazie obiektów, instalacji, urządzeń i usług wchodzących skład krytycznej, którym 5b ust. 7 1 ustawy dnia 26 kwietnia 2007 zarządzaniu kryzysowym (Dz. U. 2023 poz. 122 2024 poz. 834, 1222, 1473, 1572 i 1907), zwanych dalej „spółkami”. Mienie, którym ust. 1, obejmuje:
 
-- **1)** sektorze energii elektrycznej infrastrukturę służącą wytwarzania albo przesyłania energii elektrycznej;
-- **2)** sektorze ropy naftowej infrastrukturę służącą wydobycia, rafinacji, przetwarzania ropy naftowej magazynowania i przesyłania rurociągami ropy naftowej produktów ropopochodnych, jak również terminale portowe przeładunku tych produktów ropy naftowej;
+- **1)** sektorze energii elektrycznej infrastrukturę służącą wytwarzania albo przesyłania energii elektrycznej; sektorze ropy naftowej infrastrukturę służącą wydobycia, rafinacji, przetwarzania ropy naftowej magazynowania i przesyłania rurociągami ropy naftowej produktów ropopochodnych, jak również terminale portowe przeładunku tych produktów ropy naftowej;
 - **3)** sektorze infrastrukturę służącą produkcji, wydobycia, rafinacji, przetwarzania, magazynowania, przesyłania gazociągami terminale skroplonego gazu ziemnego (LNG).
 
 3. (uchylony)
@@ -62,8 +61,7 @@ USTAWA dnia 18 marca 2010 szczególnych uprawnieniach ministra właściwego akty
 
 3. Pełnomocnikiem krytycznej spółce może być osoba, która:
 
-- **1)** posiada wykształcenie wyższe;
-- **2)** korzysta pełni praw cywilnych i obywatelskich;
+- **1)** posiada wykształcenie wyższe; korzysta pełni praw cywilnych i obywatelskich;
 - **3)** posiada poświadczenie bezpieczeństwa upoważniające dostępu informacji niejawnych oznaczonych klauzulą „tajne”; nieskazitelnego charakteru i swym dotychczasowym zachowaniem, doświadczeniem zawodowym związanym przedmiotem działania spółki posiadanymi kwalifikacjami daje rękojmię prawidłowego wykonywania obowiązków;
 - **5)** nie była karana za umyślne przestępstwo umyślne przestępstwo skarbowe.
 
@@ -71,8 +69,7 @@ USTAWA dnia 18 marca 2010 szczególnych uprawnieniach ministra właściwego akty
 
 5. Pełnomocnikowi krytycznej przysługuje prawo do:
 
-- **1)** uczestniczenia posiedzeniach zarządu spółki dotyczących spraw, których 2 ust. 1 i 2, głosem doradczym;
-- **2)** żądania od organów spółki wszelkich dokumentów, informacji wyjaśnień dotyczących spraw, których 2 ust. 1 i
+- **1)** uczestniczenia posiedzeniach zarządu spółki dotyczących spraw, których 2 ust. 1 i 2, głosem doradczym; żądania od organów spółki wszelkich dokumentów, informacji wyjaśnień dotyczących spraw, których 2 ust. 1 i
 
 **Art. 6.**
 
@@ -80,8 +77,7 @@ USTAWA dnia 18 marca 2010 szczególnych uprawnieniach ministra właściwego akty
 
 3. Pełnomocnik krytycznej sporządza dla zarządu spółki rady nadzorczej raport stanie krytycznej. Raport sporządzany co kwartał na żądanie zarządu spółki rady nadzorczej. Raport powinien zawierać informacje dotyczące krytycznej zakresie:
 
-- **1)** fizycznej;
-- **2)** technicznej;
+- **1)** fizycznej; technicznej;
 - **3)** prawnej; osobowej;
 - **5)** teleinformatycznej;
 - **6)** planów odbudowy i przywracania krytycznej funkcjonowania.

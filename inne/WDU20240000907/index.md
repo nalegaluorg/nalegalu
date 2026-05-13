@@ -21,7 +21,7 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2024-05-23 |
 | Data wydania | 2024-06-19 |
-| Ostatnia zmiana | 2024-06-25 |
+| Ostatnia zmiana | 2026-04-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000907) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/907/text.pdf) |
 
 OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 23 maja 2024 r.

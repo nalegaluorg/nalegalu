@@ -26,7 +26,7 @@ domain: null
 
 **Art. 58.**
 
-1. Zezwolenia wydane na podstawie do- Art. 61. Ustawa wchodzi wżycie po upływie 3 mietychczasowych przepisów zachowują ważność przez sięcy od dnia ogłoszenia, ztym że: okres, na który zostały wydane, nie dłużej jednak niż do czasu wydania przepisów wykonawczych, o których 1) art. 41 ust. 5 wchodzi życie dniem uzyskania mowa wart. 59. przez Rzeczpospolitą Polską członkostwa Unii Europejskiej, Zezwolenia, o których mowa ust. 1, stają decyzjami wrozumieniu niniejszej ustawy. 2) art. 10 ust. 3, art. 28 ust. 2, art. 30, art. 32, art. 36 ust. 6 i art. 48 ust. 1 zakresie dotyczącym systeArt. 59. Dotychczasowe przepisy wykonawcze za- mu HACCP obowiązują od dnia 1 stycznia 2004 chowują moc do czasu wydania przepisów wykonawczych na podstawie niniejszej ustawy, oile nie są znią sprzeczne, nie dłużej jednak niż do dnia 31 grudnia 2002 Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski USTAWA zdnia 11 maja 2001 ozmianie ustawy oksięgach wieczystych ihipotece, ustawy Kodeks postępowania cywilnego, ustawy okosztach sądowych wsprawach cywilnych oraz ustawy Prawo onotariacie.
+1. Zezwolenia wydane na podstawie do- Art. 61. Ustawa wchodzi wżycie po upływie 3 mietychczasowych przepisów zachowują ważność przez sięcy od dnia ogłoszenia, ztym że: okres, na który zostały wydane, nie dłużej jednak niż czasu wydania przepisów wykonawczych, o których 1) art. 41 ust. 5 wchodzi życie dniem uzyskania mowa wart. 59. przez Rzeczpospolitą Polską członkostwa Unii Europejskiej, Zezwolenia, o których mowa ust. 1, stają decyzjami wrozumieniu niniejszej ustawy. 2) art. 10 ust. 3, art. 28 ust. 2, art. 30, art. 32, art. 36 ust. 6 i art. 48 ust. 1 zakresie dotyczącym systeArt. 59. Dotychczasowe przepisy wykonawcze za- mu HACCP obowiązują od dnia 1 stycznia 2004 chowują moc czasu wydania przepisów wykonawczych na podstawie niniejszej ustawy, oile nie są znią sprzeczne, nie dłużej jednak niż dnia 31 grudnia 2002 Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski USTAWA zdnia 11 maja 2001 ozmianie ustawy oksięgach wieczystych ihipotece, ustawy Kodeks postępowania cywilnego, ustawy okosztach sądowych wsprawach cywilnych oraz ustawy Prawo onotariacie.
 
 **Art. 1.** W ustawie dnia 6 lipca 1982 o księgach wieczystych ihipotece (Dz. U. 19, 147, z1991 22, 92 i 115, 496, 1994 85, 388, 1996 107, 499, 1997 117, 752, 137, 926 i 140, 940, 1998 106, 668,z2000 74, 855oraz 2001 39, 459) wprowadza następujące zmiany:
 
@@ -53,7 +53,7 @@ domain: null
 1. Kopia powstała trybie określonym art. 58 podlega uwierzytelnieniu przez sędziego lub referendarza i ma moc księgi wieczystej. Wrazie konieczności dokonania nowego wpisu, księdze wieczystej,
 
 - **16)** skreśla rozdział 3 wdziale I;
-- **17)** wart. 65 wust. 4 wpkt 3 skreśla wyrazy Ń(prawo do lokalu mieszkalnego domu budowanym przez spółdzielnię mieszkaniową wcelu przeniesienia jego własności na członka)”;
+- **17)** wart. 65 wust. 4 wpkt 3 skreśla wyrazy Ń(prawo lokalu mieszkalnego domu budowanym przez spółdzielnię mieszkaniową wcelu przeniesienia jego własności na członka)”;
 - **18)** wart. 68 dodaje zdanie drugie wbrzmieniu: ŃJeżeli wierzytelność zgodnie zprawem została wyrażona winnym pieniądzu niż pieniądz polski, hipotekę wyraża wtym innym pieniądzu.”;
 - **19)** wart. 76 po ust. 2 dodaje ust. 3 i4 wbrzmieniu: Ń3. Wcelu zabezpieczenia tej samej wierzytelności można, drodze czynności prawnej, obciążyć więcej niż jedną nieruchomość (hipoteka łączna umowna).
 
@@ -70,9 +70,9 @@ domain: null
 
 § 2. Uczestnikami postępowania oprócz wnioskodawcy są tylko te osoby, których prawa zostały wykreślone lub obciążone bądê na rzecz których wpis ma nastąpić.
 
-§ 3. Nie stanowi przeszkody do wpisu okoliczność, że po złożeniu wniosku wnioskodawca bądê inny uczestnik wym, zwyjątkiem zwolnienia zopłat sądowych od wnoszonych środków zaskarżenia. Jednak wnioskodawca nie ma obowiązku uiszczania opłat sądowych od wniosku o wpis do księgi wieczystej zamieszczonego akcie notarialnym, jeżeli został całości zwolniony od ponoszenia wynagrodzenia notariusza.
+§ 3. Nie stanowi przeszkody wpisu okoliczność, że po złożeniu wniosku wnioskodawca bądê inny uczestnik wym, zwyjątkiem zwolnienia zopłat sądowych od wnoszonych środków zaskarżenia. Jednak wnioskodawca nie ma obowiązku uiszczania opłat sądowych od wniosku o wpis księgi wieczystej zamieszczonego akcie notarialnym, jeżeli został całości zwolniony od ponoszenia wynagrodzenia notariusza.
 
-§ 5. Jeżeli wpis do księgi wieczystej ma nastąpić na wniosek zawarty wakcie notarialnym, za wartość prawa podlegającego ujawnieniu przyjmuje się, zawartą akcie notarialnym, wartość przedmiotu podaną przez strony. Wtakim przypadku przepisu art. 25 nie stosuje się.
+§ 5. Jeżeli wpis księgi wieczystej ma nastąpić na wniosek zawarty wakcie notarialnym, za wartość prawa podlegającego ujawnieniu przyjmuje się, zawartą akcie notarialnym, wartość przedmiotu podaną przez strony. Wtakim przypadku przepisu art. 25 nie stosuje się.
 
 **Art. 626².**
 
@@ -80,19 +80,19 @@ domain: null
 
 § 3. Do wniosku o dokonanie wpisu należy dołączyć dokumenty, stanowiące podstawę wpisu księdze wieczystej.
 
-§ 4. Jeżeli dokumentów załączonych do wniosku wynika, że nastąpiła zmiana prawie własności, sąd, zwracając wniosek, stosuje art.626 § 1.
+§ 4. Jeżeli dokumentów załączonych wniosku wynika, że nastąpiła zmiana prawie własności, sąd, zwracając wniosek, stosuje art.626 § 1.
 
 § 5. Wniosek o dokonanie wpisu może złożyć właściciel nieruchomości, użytkownik wieczysty, osoba, na rzecz której wpis ma nastąpić, albo wierzyciel, jeżeli przysługuje mu prawo, które może być wpisane księdze wieczystej. W sprawach dotyczących obciążeń powstałych zmocy ustawy wniosek może złożyć uprawniony organ.
 
 **Art. 626³.** W postępowaniu wieczystoksięgowym nie stosuje przepisów owznowieniu postępowania.
 
-**Art. 626⁴.** Przekazanie przez notariusza sądowi wypisu aktu notarialnego zawierającego wniosek odokonanie wpisu do księgi wieczystej, na podstawie odrębnych przepisów, uważa za złożenie wniosku przez uprawnionego.
+**Art. 626⁴.** Przekazanie przez notariusza sądowi wypisu aktu notarialnego zawierającego wniosek odokonanie wpisu księgi wieczystej, na podstawie odrębnych przepisów, uważa za złożenie wniosku przez uprawnionego.
 
-**Art. 626⁵.** Jeżeli treści wniosku i dołączonych dokumentów wynika, że nastąpiła zmiana prawa własności, cofnięcie wniosku sek wpłynął do sądu. § Wnioski, które wpłynęły wtej samej chwili, będą uważane za złożone równocześnie.
+**Art. 626⁵.** Jeżeli treści wniosku i dołączonych dokumentów wynika, że nastąpiła zmiana prawa własności, cofnięcie wniosku sek wpłynął sądu. § Wnioski, które wpłynęły wtej samej chwili, będą uważane za złożone równocześnie.
 
 **Art. 626⁷.**
 
-§ 1. Wniosek o wpis powinien być dniu wpływu do sądu zarejestrowany niezwłocznie dzienniku ksiąg wieczystych iopatrzony kolejnym numerem. § Niezwłocznie po zarejestrowaniu wniosku dzienniku ksiąg wieczystych zaznacza odpowiednim dziale księgi wieczystej numer wniosku (wzmianka owniosku).
+§ 1. Wniosek o wpis powinien być dniu wpływu sądu zarejestrowany niezwłocznie dzienniku ksiąg wieczystych iopatrzony kolejnym numerem. § Niezwłocznie po zarejestrowaniu wniosku dzienniku ksiąg wieczystych zaznacza odpowiednim dziale księgi wieczystej numer wniosku (wzmianka owniosku).
 
 § 3. Wzmiankę o wniosku wykreśla urzędu, niezwłocznie po dokonaniu wpisu, po uprawomocnieniu postanowienia o odmowie dokonania wpisu lub oodrzuceniu wniosku albo o umorzeniu postępowania albo po uprawomocnieniu zarządzenia ozwrocie wniosku.
 
@@ -100,13 +100,13 @@ domain: null
 
 **Art. 626⁸.**
 
-§ 1. Wpis dokonywany jest jedynie na wniosek i jego granicach, chyba że przepis szczególny przewiduje dokonanie wpisu zurzędu. § Rozpoznając wniosek o wpis, sąd bada jedynie treść wniosku, treść iformę dołączonych do wniosku dokumentów oraz treść księgi wieczystej.
+§ 1. Wpis dokonywany jest jedynie na wniosek i jego granicach, chyba że przepis szczególny przewiduje dokonanie wpisu zurzędu. § Rozpoznając wniosek o wpis, sąd bada jedynie treść wniosku, treść iformę dołączonych wniosku dokumentów oraz treść księgi wieczystej.
 
 § 3. W postępowaniu wieczystoksięgowym wpis księdze wieczystej jest orzeczeniem. Uzasadnienia wpisu nie sporządza się.
 
 § 4. Założenie księgi wieczystej następuje chwilą dokonania pierwszego wpisu.
 
-**Art. 626⁹.** Sąd oddala wniosek o wpis, jeżeli brak jest podstaw albo istnieją przeszkody do jego dokonania.
+**Art. 626⁹.** Sąd oddala wniosek o wpis, jeżeli brak jest podstaw albo istnieją przeszkody jego dokonania.
 
 **Art. 626¹⁰.**
 
@@ -120,7 +120,7 @@ domain: null
 
 **Art. 626¹².**
 
-§ 1. Osoba, na rzecz której wpisane jest prawo lub roszczenie wksiędze wieczystej, jej przedstawiciel albo pełnomocnik do doręczeń mają obowiązek niezwłocznego zawiadomienia sądu prowadzącego księgę wieczystą o każdej zmianie adresu względnie wskazania adresu do doręczeń. Osoba zamieszkała lub mająca siedzibę za granicą jest obowiązana wskazać pełnomocnika do doręczeń Rzeczypospolitej Polskiej. § Przepis § 1 stosuje odpowiednio do spadkobierców lub innych następców prawnych osoby, na rzecz której jest wpisane prawo wksiędze wieczystej.
+§ 1. Osoba, na rzecz której wpisane jest prawo lub roszczenie wksiędze wieczystej, jej przedstawiciel albo pełnomocnik doręczeń mają obowiązek niezwłocznego zawiadomienia sądu prowadzącego księgę wieczystą o każdej zmianie adresu względnie wskazania adresu doręczeń. Osoba zamieszkała lub mająca siedzibę za granicą jest obowiązana wskazać pełnomocnika doręczeń Rzeczypospolitej Polskiej. § Przepis § 1 stosuje odpowiednio spadkobierców lub innych następców prawnych osoby, na rzecz której jest wpisane prawo wksiędze wieczystej.
 
 § 3. W razie zaniedbania obowiązku, októrym mowa w§ 1 i2, pismo sądowe pozostawia waktach sprawy ze skutkiem doręczenia, chyba że nowy adres jest sądowi znany.
 
@@ -134,7 +134,7 @@ domain: null
 
 **Art. 5.** W postępowaniu wieczystoksięgowym, sprawach, których wnioski zostały złożone przed dniem wejścia wżycie ustawy, wzakresie kosztów sądowych stosuje przepisy dotychczasowe.
 
-**Art. 6.** W postępowaniu wieczystoksięgowym, sprawach wszczętych urzędu, do których przed dniem wejścia wżycie ustawy nie został złożony wniosek, postępowanie przynaglające umarza zurzędu. Nieściągnięte grzywny, nałożone na podstawie art. 35 ustawy, októrej mowa wart. 1, sąd umarza zurzędu.
+**Art. 6.** W postępowaniu wieczystoksięgowym, sprawach wszczętych urzędu, których przed dniem wejścia wżycie ustawy nie został złożony wniosek, postępowanie przynaglające umarza zurzędu. Nieściągnięte grzywny, nałożone na podstawie art. 35 ustawy, októrej mowa wart. 1, sąd umarza zurzędu.
 
 **Art. 7.** Marszałek Sejmu, wterminie 6 miesięcy od dnia wejścia wżycie niniejszej ustawy, ogłosi wDzienniku Rzeczypospolitej Polskiej jednolity tekst ustawy dnia 6 lipca 1982 o księgach wieczystych i hipotece uwzględnieniem zmian wynikających zprzepisów ogłoszonych przed dniem wydania jednolitego tekstu.
 

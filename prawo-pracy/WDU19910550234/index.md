@@ -21,7 +21,7 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 1991-05-23 |
 | Data wydania | 1991-06-26 |
-| Ostatnia zmiana | 2026-04-23 |
+| Ostatnia zmiana | 2026-04-29 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19910550234) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1991/234/text.pdf) |
 
 USTAWA dnia 23 maja 1991 r.

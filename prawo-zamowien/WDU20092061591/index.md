@@ -34,5 +34,5 @@ domain: null
 
 **Art. 4.** Do zmian umów sprawach zamówień publicznych zawartych przed dniem wejścia życie niniejszej ustawy stosuje przepisy dotychczasowe, z tym że zmian umów zawartych od dnia 24 paêdziernika 2008 r. stosuje art. 144 1 brzmieniu nadanym niniejszą ustawą.
 
-**Art. 5.** Ustawa wchodzi wżycie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 5 i art. 3 2, które wchodzą wżycie zdniem ogłoszenia. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński ———————
+**Art. 5.** Ustawa wchodzi wżycie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 5 i art. 3 2, które wchodzą wżycie zdniem ogłoszenia. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński ——————— c
 

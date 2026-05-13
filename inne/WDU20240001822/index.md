@@ -21,7 +21,7 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2024-12-06 |
 | Data wydania | 2024-12-11 |
-| Ostatnia zmiana | 2024-12-12 |
+| Ostatnia zmiana | 2026-05-08 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001822) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1822/text.pdf) |
 
 OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 6 grudnia 2024 r.

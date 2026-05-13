@@ -43,7 +43,7 @@ USTAWA dnia 13 lipca 1990 apelacyjnych oraz zmianie ustawy - Prawo ustroju powsz
 
 **Art. 5.** W ustawie dnia 20 1984 r. (Dz. U. 1990 r. Nr 26, poz. 153) wprowadza zmiany:
 
-**Art. 6.** W ustawie dnia 31 stycznia 1980 r. Naczel nym Administracyjnym oraz zmianie ustawy - Ko deks administracyjnego (Dz. U. Nr 4, poz. 8, Nr 19, poz. 68 Nr 27, poz. 111 oraz 1989 r. Nr 73, poz. 436) wart. 6 ust. 4 ,,4. Na stanowisko Administ racyjnego wymiarze czasu pracy profesor oraz doktor habilitowany nauk praw nych polskich Polskiej Akade mii Nauk oraz instytutach naukowo-badawczych innych placówkach naukowych.".
+**Art. 6.** W ustawie dnia 31 stycznia 1980 r. Naczel nym Administracyjnym oraz zmianie ustawy - Ko deks administracyjnego (Dz. U. Nr 4, poz. 8, Nr 19, poz. 68 Nr 27, poz. 111 oraz 1989 r. Nr 73, poz. 436) 6 ust. 4 brzmieniu: ,,4. Na stanowisko Administ racyjnego wymiarze czasu pracy profesor oraz doktor habilitowany nauk praw nych polskich Polskiej Akade mii Nauk oraz instytutach naukowo-badawczych innych placówkach naukowych.".
 
 **Art. 7.** W ustawie dnia 20 grudnia 1989 r.-o Krajowej Radzie (Dz. U. Nr 73, poz. 435) wprowadza zmiany:
 
@@ -55,7 +55,7 @@ USTAWA dnia 13 lipca 1990 apelacyjnych oraz zmianie ustawy - Prawo ustroju powsz
 
 **Art. 9.** Krajowa Rada terminie dwóch od dnia niniejszej ustawy, przed stawi Prezydentowi Rzeczypospolitej Polskiej wnioski po apelacyjnych, liczb.ie ustalonej przez Ministra kandydatów posia kwalifikacje do zajmowania tych stanowisk, szonych terminie jednego od dnia gospodarcze, których przedmiotu sporu nie prze kracza milionów przekazuje apelacyjnym.
 
-**Art. 11.** Z spraw, których mowa wart. 10 ust. 3, sprawy przed dniem stycznia 1991 r. dotychczasowych przepisów; wypadku uchylenia orzeczenia lub przez rewizyjny, ten przekazuje przepisów niniejszej ustawy.
+**Art. 11.** Z spraw, których mowa 10 ust. 3, sprawy przed dniem stycznia 1991 r. dotychczasowych przepisów; wypadku uchylenia orzeczenia lub przez rewizyjny, ten przekazuje przepisów niniejszej ustawy.
 
 **Art. 12.** Zebranie ogólnych dów apelacyjnych, terminie do dnia 30 listopada 1990 wybierze Krajowej Rady na kaden Rady dniu niniejszej ustawy.
 

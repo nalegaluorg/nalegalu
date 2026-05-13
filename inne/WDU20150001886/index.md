@@ -12,7 +12,7 @@ domain: null
 
 # Ustawa z dnia 25 września 2015 r. o zmianie ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych
 
-*USTAWA dnia 25 września zmianie rehabilitacji zawodowej społecznej oraz zatrudnianiu osób niepełnosprawnych*
+*USTAWA dnia 25 września zmianie ustawy rehabilitacji zawodowej społecznej oraz zatrudnianiu osób niepełnosprawnych*
 
 | Pole | Wartość |
 |---|---|
@@ -30,11 +30,11 @@ domain: null
 
 **Art. 2.**
 
-1. Pracodawca, który przed dniem wejścia życie niniejszej nabył prawo do obniżenia wpłat, może je wykorzystać na warunkach dotychczasowych, nie dłużej jednak niż przez 12 miesięcy od dnia wejścia życie niniejszej ustawy.
+1. Pracodawca, który przed dniem wejścia życie niniejszej ustawy nabył prawo do obniżenia wpłat, może je wykorzystać na warunkach dotychczasowych, nie dłużej jednak niż przez 12 miesięcy od dnia wejścia życie niniejszej ustawy.
 
-5. Przepis 22 3 zmienianej 1, brzmieniu nadanym niniejszą ustawą, stosuje się odniesieniu do wpłat należnych za okresy począwszy od lipca 2016
+5. Przepis 22 3 ustawy zmienianej 1, brzmieniu nadanym niniejszą ustawą, stosuje się odniesieniu do wpłat należnych za okresy począwszy od lipca 2016
 
-**Art. 3.** Przepisy 1 7 8 stosuje się do dofinansowania, którym mowa 26a zmienianej 1 należnego za okresy przypadające począwszy od lipca 2016
+**Art. 3.** Przepisy 1 7 8 stosuje się do dofinansowania, którym mowa 26a ustawy zmienianej 1 należnego za okresy przypadające począwszy od lipca 2016
 
 **Art. 4.** Ustawa wchodzi życie dniem 1 lipca 2016 r., wyjątkiem 1 1 2, które wchodzą życie dniem 1 października 2016 Prezydent Rzeczypospolitej Polskiej: A. Duda
 

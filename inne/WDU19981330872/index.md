@@ -10,9 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# Przepisy wprowadzające ustawy reformujące administrację publiczną
-
-*USTAWA z dnia 13 października 1998 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 października 1998 r.
 
 | Pole | Wartość |
 |---|---|
@@ -26,945 +24,823 @@ domain: null
 | Ostatnia zmiana | 2024-11-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19981330872) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1998/872/text.pdf) |
 
-#### Rozdział 1 Przepisy ogólne
+Poz.:
+USTAWA z dnia 13 1998 r.
+Przepisy ustawy 1 Przepisy ogólne
 
-**Art. 1.** Ustawa określa zasady i tryb wprowadzenia w życie ustaw:
+**Art. 1.** Ustawa zasady i tryb wprowadze nia w ustaw:
 
 **Art. 2.** Ilekroć w niniejszej ustawie jest mowa o:
 
-**Art. 3.** Wdrożenie reformy administracji publicznej należy do zakresu działania ministra właściwego do spraw administracji publicznej oraz do innych organów administracji rządowej - zgodnie z ich właściwością.
+**Art. 3.** Wdrożenie reformy administracji publicznej do zakresu ministra do spraw administracji publicznej oraz do innych orga nów administracji zgodnie z ich
 
 **Art. 4.**
 
-1. Z dniem wejścia w życie ustawy wdrożenie reformy administracji publicznej na obszarze województwa należy do Delegata Rządu do Spraw Reformy Ustrojowej w Województwie, zwanego dalej „Delegatem Rządu”, będącego pełnomocnikiem Rządu w rozumieniu art. 10 ustawy z dnia 8 sierpnia 1996 r. o organizacji i trybie pracy Rady Ministrów oraz o zakresie działania ministrów (Dz.U. z 1996 r. Nr 106, poz. 492 i Nr 156, poz. 775 oraz z 1997 r. Nr 141, poz. 943).
+1. Z dniem w ustawy nie reformy administracji publicznej na obszarze woje wództwa do Delegata do Spraw Reformy Ustrojowej w Województwie, zwanego dalej "Delega tem w rozu mieniu art. 10 ustawy z dnia 8 sierpnia 1996 r. o orga nizacji i trybie pracy Rady Ministrów oraz o zakresie ministrów (Dz. U. z 1996 r. 106, poz. 492 i 156, poz. 775 oraz z 1997 r. 141, poz. 943).
 
-2. W przypadku powołania na Delegata Rządu osoby będącej dotychczasowym wojewodą, zakres zadań i kompetencji tego wojewody wykonuje dotychczasowy wicewojewoda.
+2. W przypadku na Delegata oso by dotychczasowym zakres i kompetencji tego wojewody wykonuje dotychczaso wy wicewojewoda.
 
-3. Z dniem powołania Delegata Rządu Prezes Rady Ministrów jednocześnie powierza Delegatowi Rządu pełnienie obowiązków wojewody od dnia 1 stycznia 1999 r. do dnia powołania wojewody w trybie ustawy o administracji rządowej w województwie, z wyjątkiem uprawnień określonych w art. 28 ust. 1 wymienionej ustawy. Delegatowi Rządu będącemu dotychczasowym wojewodą przysługuje wynagrodzenie przewidziane dla wojewody w przepisach o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe.
+3. Z dniem Delegata Prezes Rady Ministrów powierza Delegatowi wojewody od dnia stycznia 1999 r. do dnia wojewody w trybie ustawy o administracji w województwie, z wart. 28 ust. wymienionej ustawy. Delegatowi dotychczaso wym wynagrodzenie przewi dziane dla wojewody w przepisach o wynagrodzeniu osób kierownicze stanowiska we.
 
-4. Przepisu art. 10 ust. 4 ustawy, o której mowa w ust. 1, nie stosuje się.
+4. Przepisu art. 10 ust. 4 ustawy, o której mowa w ust. 1, nie stosuje
 
 **Art. 5.**
 
-1. Do zadań Delegata Rządu należy:
+1. Do Delegata
 
-- **1)** koordynowanie prac organów administracji rządowej w zakresie spraw związanych z wdrożeniem reformy administracji publicznej w województwie,
-- **2)** współdziałanie z organami jednostek samorządu terytorialnego w zakresie spraw związanych z reformą administracji publicznej w województwie,
-- **3)** przygotowanie administracji publicznej do działania od dnia 1 stycznia 1999 r., w tym:
-    - **a)** zapewnienie, we współpracy z gminami i terenowymi organami administracji rządowej, warunków umożliwiających odbycie - w okresie do dnia 31 grudnia 1998 r. - posiedzeń rad powiatów i sejmików województw,
-    - **b)** nadzorowanie kierowników urzędów rejonowych w zakresie tworzenia przez nich starostw powiatowych na obszarze ich działania,
-    - **c)** wskazanie lokalizacji urzędów i jednostek organizacyjnych zespolonej administracji rządowej w województwie,
-    - **d)** przygotowanie projektu tymczasowego statutu urzędu wojewódzkiego, obowiązującego do czasu nadania statutu na podstawie ustawy o administracji rządowej w województwie,
-    - **e)** przygotowanie, do dnia 28 grudnia 1998 r., projektu tymczasowego regulaminu urzędu wojewódzkiego i innych aktów w zakresie organizacji urzędu do czasu ich ustalenia na podstawie ustawy o administracji rządowej w województwie,
-    - **f)** uzgodnienie, do dnia 28 grudnia 1998 r., tymczasowych regulaminów komend, inspektoratów i innych jednostek organizacyjnych, będących aparatem pomocniczym kierowników zespolonych służb, inspekcji i straży wojewódzkich, chyba że odrębne przepisy stanowią inaczej,
-    - **g)** uzgodnienia dotyczące przekazywania zadań z zakresu administracji rządowej organom jednostek samorządu terytorialnego w drodze porozumienia, o którym mowa w art. 2 pkt 4 ustawy o administracji rządowej w województwie,
-    - **h)** koordynowanie przekazywania instytucji i jednostek organizacyjnych lub ich części odpowiednim jednostkom samorządu terytorialnego,
-    - **i)** sprawowanie nadzoru nad ewidencją zobowiązań i inwentaryzacją obiektów, nieruchomości, urządzeń, sprzętu i dokumentacji, w tym archiwalnej, likwidowanych, przekształcanych lub przekazywanych jednostek organizacyjnych, a także nad protokolarnym ich przekazywaniem,
-    - **j)** zapewnienie funkcjonowania, od dnia 1 stycznia 1999 r., komitetów, zespołów, rad i innych ciał kolegialnych, wykonujących zadania określone w odrębnych ustawach,
-    - **k)** współpraca z organami samorządu województwa i powiatów w przygotowaniu ich statutów i regulaminów,
+- **1)** koordynowanie prac organów administracji dowej w zakresie spraw z reformy administracji publicznej w województwie,
+- **2)** z organami jednostek terytorialnego w zakresie spraw z re administracji publicznej w województwie, przygotowanie administracji publicznej do nia od dnia 1 stycznia 1999 r., w tym:
+    - **a)** zapewnienie, we z gminami i tereno wymi organami administracji warun ków odbycie w okresie do dnia 31 grudnia 1998 r. rad powia tów i sejmików województw,
+    - **b)** nadzorowanie kierowników rejono wych w zakresie tworzenia przez nich starostw powiatowych na obszarze ich
+    - **c)** wskazanie lokalizacji i jednostek orga nizacyjnych zespolonej administracji w województwie,
+    - **d)** przygotowanie projektu tymczasowego statutu wojewódzkiego, do cza su nadania statutu na podstawie ustawy o admi nistracji w województwie,
+    - **e)** przygotowanie, do dnia 28 grudnia 1998 r., pro jektu tymczasowego regulaminu woje wódzkiego i innych aktów w zakresie organizacji do czasu ich ustalenia na podstawie ustawy o administracji w wojewódz twie,
+    - **f)** uzgodnienie, do dnia 28 grudnia 1998 r., tymcza sowych regulaminów komend, inspektoratów i innych jednostek organizacyjnych, aparatem pomocniczym kierowników zespolo nych inspekcji i wojewódzkich, chy ba przepisy inaczej,
+    - **g)** uzgodnienia przekazywania z zakresu administracji organom jed nostek terytorialnego w drodze po rozumienia, o którym mowa wart. 2 pkt 4 usta wy o administracji w województwie,
+    - **h)** koordynowanie przekazywania instytucji i jed nostek organizacyjnych lub ich odpo wiednim jednostkom terytorialnego,
+    - **i)** sprawowanie nadzoru nad i obiektów, i dokumentacji, w tym archi walnej, likwidowanych, lub przekazywanych jednostek organizacyjnych, a nad protokolarnym ich przekazywaniem,
+    - **j)** zapewnienie funkcjonowania, od dnia stycznia 1999 r., komitetów, rad i innych kolegialnych, zadania w ustawach,
+    - **k)** z organami wojewódz twa i powiatów w przygotowaniu ich statutów i regulaminów,
 
-- **4)** przedstawianie ministrowi właściwemu do spraw administracji publicznej miesięcznych sprawozdań ze swojej działalności, ocen i wniosków wynikających z wykonywanych zadań oraz informacji o występujących zagrożeniach,
-- **5)** wykonywanie innych zadań określonych przez Prezesa Rady Ministrów lub ministra właściwego do spraw administracji publicznej, w szczególności w zakresie koordynowania prac pełnomocnika regionalnej kasy chorych; art. 7 stosuje się odpowiednio.
+- **4)** przedstawianie ministrowi do spraw administracji publicznej ze swojej ocen i wniosków cych z wykonywanych oraz informacji o wy
+- **5)** wykonywanie innych przez Pre zesa Rady Ministrów lub ministra do spraw administracji publicznej, w w zakresie koordynowania prac re gionalnej kasy chorych; art. 7 stosuje odpo wiednio.
 
-2. W zakresie określonym w ust. 1, organy administracji rządowej oraz organy jednostek samorządu terytorialnego są obowiązane do współdziałania z Delegatem Rządu, w tym w szczególności do udzielania niezbędnych informacji.
+2. W zakresie w ust. 1 organy admini stracji oraz organy jednostek te rytorialnego do z Dele gatem w tym w do udzielania nie informacji.
 
-3. Nadzór nad działalnością Delegata Rządu sprawuje minister właściwy do spraw administracji publicznej.
+3. Nadzór nad Delegata spra wuje minister do spraw administracji pu blicznej.
 
-4. Minister właściwy do spraw administracji publicznej, na wniosek Delegata Rządu, nada najpóźniej do dnia 15 grudnia 1998 r., w drodze zarządzenia, urzędowi wojewódzkiemu tymczasowy statut.
+4. Minister do spraw administracji pu blicznej, na wniosek Delegata nada do dnia 15 grudnia 1998 r., w drodze dowi wojewódzkiemu tymczasowy statut.
 
-5. (uchylony)
+5. Minister do spraw administracji pu blicznej w drodze rodzaje i zasady tworzenia delegatur wo jewódzkiego, o których mowa w art. 36 ust. 1 ustawy o administracji w województwie.
 
 **Art. 6.**
 
-1. Tymczasowy statut urzędu wojewódzkiego oraz regulamin, o którym mowa w art. 5 ust. 1 pkt 3 lit. e), wchodzą w życie z dniem 1 stycznia 1999 r.
+1. Tymczasowy statut wojewódzkie go oraz regulamin, o którym mowa wart. 5 ust. 1 pkt 3 lit. e), w z dniem 1 stycznia 1999 r.
 
-2. Tymczasowy statut urzędu wojewódzkiego podlega ogłoszeniu w wojewódzkim dzienniku urzędowym, o którym mowa w art. 43 ustawy o administracji rządowej w województwie.
+2. Tymczasowy statut wojewódzkiego pod lega w wojewódzkim dzienniku wym, o którym mowa wart. 43 ustawy o administracji w województwie.
 
 **Art. 7.**
 
-1. Delegat Rządu może wydawać polecenia obowiązujące organy administracji rządowej na obszarze województwa, z wyjątkiem organów określonych w załączniku do ustawy o administracji rządowej w województwie. O wydanych poleceniach Delegat Rządu niezwłocznie informuje właściwego ministra.
+1. Delegat polecenia organy administracji na obsza rze województwa, z organów w do ustawy o administracji w wo jewództwie. O wydanych poleceniach Delegat informuje ministra.
 
-2. Z zastrzeżeniem przepisów niniejszej ustawy, polecenia, o których mowa w ust. 1, nie mogą dotyczyć rozstrzygnięć co do istoty sprawy załatwianej w drodze decyzji administracyjnej oraz indywidualnych spraw pracowniczych.
+2. Z przepisów niniejszej ustawy po lecenia, o których mowa w ust. 1, nie co do istoty sprawy w drodze decyzji administracyjnej oraz indywidualnych spraw pracowniczych.
 
-3. Właściwy minister może wstrzymać wykonanie poleceń, o których mowa w ust. 1, wydanych organom administracji specjalnej i wystąpić do Prezesa Rady Ministrów o rozstrzygnięcie sporu.
+3. minister wykonanie o których mowa w ust. 1, wydanych organom administracji specjalnej i do Prezesa Rady Mi nistrówo sporu.
 
 **Art. 8.**
 
-1. Organem pomocniczym Delegata Rządu jest Zespół do Spraw Wdrożenia Reformy Administracji Publicznej w Województwie, zwany dalej „Zespołem”. W skład Zespołu wchodzą dotychczasowi wojewodowie mający siedziby na obszarze województwa oraz inne osoby powołane przez Delegata Rządu.
+1. Organem pomocniczym Delegata jest do Spraw Reformy Administra cji Publicznej w Województwie, zwany dalej "Zespo W dotychczasowi woje wodowie siedziby na obszarze województwa oraz inne osoby przez Delegata
 
-2. Delegat Rządu wyznacza sekretarza Zespołu kierującego bieżącymi pracami Zespołu.
+2. Delegat wyznacza sekretarza kie pracami
 
-3. Delegat Rządu może powoływać inne zespoły o charakterze opiniodawczodoradczym.
+3. Delegat inne
 
-4. Obsługę merytoryczną, finansową, organizacyjno-prawną, techniczną i kancelaryjno-biurową Delegata Rządu oraz Zespołu wykonuje dotychczasowy urząd wojewódzki w mieście będącym siedzibą wojewody oraz inne dotychczasowe urzędy wojewódzkie na obszarze województwa.
+4. o charakterze opiniodawczo-doradczym. organizacyj i Delega ta oraz wykonuje dotychczasowy wojewódzki w wojewody oraz inne dotychczasowe wojewódzkie na ob szarze województwa.
 
-**Art. 9.** Z dniem 31 grudnia 1998 r. wygasają akty powołania dotychczasowych wojewodów i wicewojewodów. Wygaśnięcie aktu powołania jest równoznaczne z odwołaniem w rozumieniu przepisów o wynagradzaniu osób zajmujących kierownicze stanowiska państwowe.
+**Art. 9.** Z dniem 31 grudnia 1998 r. akty po dotychczasowych wojewodów i wicewojewo dów. aktu jest równoznaczne z w rozumieniu przepisów o wynagradza niu osób kierownicze stanowiska stwowe.
 
-**Art. 10.** Od dnia powołania do dnia 31 grudnia 2000 r. wojewoda wykonuje jednocześnie zadania i ma kompetencje Delegata Rządu określone w ustawie.
-
-#### Rozdział 2 Organizacja administracji publicznej
+**Art. 10.** Od dnia do dnia 31 grudnia 2000 r. wojewoda wykonuje zadania i ma kompetencje Delegata w ustawie. 2 Organizacja administracji publicznej
 
 **Art. 11.**
 
-1. Z dniem 1 stycznia 1999 r. tworzy się:
+1. Z dniem 1 stycznia 1999 r. tworzy
 
-- **1)** Główny Inspektorat Weterynarii,
-- **2)** Urząd Generalnego Konserwatora Zabytków – działające na podstawie odrębnych przepisów.
+- **1)** Inspektorat Weterynarii,
+- **2)** Generalnego Konserwatora Zabytków na podstawie przepisów.
 
-2. Prezes Rady Ministrów określi, w drodze rozporządzenia, sposób tworzenia urzędów, o których mowa w ust. 1, w szczególności poprzez wyłączenie odpowiednich jednostek organizacyjnych ze struktury organizacyjnej właściwych ministerstw.
+2. Prezes Rady Ministrów w drodze rozpo sposób tworzenia o których mo wa w ust. 1, w poprzez odpo wiednich jednostek organizacyjnych ze struktury orga nizacyjnej ministerstw.
 
 **Art. 12.**
 
-1. Dotychczasowe urzędy wojewódzkie w: Białymstoku, Bydgoszczy, Gdańsku, Gorzowie Wielkopolskim, Katowicach, Kielcach, Krakowie, Lublinie, Łodzi, Olsztynie, Opolu, Poznaniu, Rzeszowie, Szczecinie, Warszawie i Wrocławiu, stają się z dniem 1 stycznia 1999 r. urzędami wojewódzkimi.
+1. Dotychczasowe wojewódzkie w: Bydgoszczy, Gorzowie Wielko polskim, Katowicach, Kielcach, Krakowie, Lublinie, dzi, Olsztynie, Opolu, Poznaniu, Rzeszowie, Szczecinie, Warszawie i z dniem 1 stycznia 1999 r. wojewódzkimi.
 
-2. Dotychczasowe urzędy wojewódzkie nie wymienione w ust. 1 wchodzą z dniem 1 stycznia 1999 r. w skład urzędu wojewódzkiego w województwie, na którego obszarze miały swoje siedziby.
-
-**Art. 13.** Z dniem 31 grudnia 1998 r. wygasają akty powołania kierowników urzędów rejonowych i ich zastępców.
+2. Dotychczasowe wojewódzkie nie wymie nione w ust. 1 z dniem 1 stycznia 1999 r. w wojewódzkiego w województwie, na którego obszarze swoje siedziby. Art. Z dniem 31 grudnia 1998 r. akty kierowników rejonowych i ich za
 
 **Art. 14.**
 
-1. Z dniem 1 stycznia 1999 r. istniejące w dniu 31 grudnia 1998 r.:
+1. Z dniem 1 stycznia 1999 r. w dniu 31 grudnia 1998 r.:
 
-- **1)** urzędy rejonowe oraz zamiejscowe jednostki urzędów rejonowych w tych miastach będących siedzibami władz powiatów, w których nie ma siedzib władz miasta na prawach powiatu, stają się starostwami powiatowymi,
-- **2)** urzędy rejonowe w miastach na prawach powiatu stają się starostwami powiatowymi powiatów mających siedziby swoich władz w tych miastach,
-- **3)** urzędy rejonowe w miastach na prawach powiatu, w których nie ma siedziby władz innego powiatu, wchodzą w skład urzędu miasta,
-- **4)** urzędy rejonowe nie wymienione w pkt 1-3 wchodzą w skład starostwa powiatowego powiatu, na którego obszarze miały siedziby.
+- **1)** rejonowe oraz zamiejscowe jednostki dów rejonowych w tych miastach siedzi bami powiatów, w których nie ma siedzib miasta na prawach powiatu, staro stwami powiatowymi,
+- **2)** rejonowe w miastach na prawach powiatu starostwami powiatowymi powiatów ma siedziby swoich w tych miastach, rejonowe w miastach na prawach powiatu, w których nie ma siedziby innego powiatu, w miasta,
+- **4)** rejonowe nie wymienione w pkt 1-3 wcho w starostwa powiatowego powiatu, na którego obszarze siedziby.
 
-2. Z dniem 1 stycznia 1999 r. tworzy się starostwa powiatowe w miastach będących siedzibami władz powiatu, w których przed tym dniem nie było siedziby urzędu rejonowego lub zamiejscowej jednostki urzędu rejonowego.
+2. Z dniem 1 stycznia 1999 r. tworzy starostwa powiatowe w miastach siedzibami po wiatu, w których przed tym dniem nie siedziby rejonowego lub zamiejscowej jednostki rejonowego.
 
-3. Dla obszaru miasta na prawach powiatu funkcję starostwa powiatowego pełni urząd miasta.
+3. Dla obszaru miasta na prawach powiatu starostwa powiatowego miasta.
 
 **Art. 15.**
 
-1. Z dniem 31 grudnia 1998 r. rozwiązuje się miejskie strefy usług publicznych, utworzone na podstawie ustawy z dnia 24 listopada 1995 r. o zmianie zakresu działania niektórych miast oraz o miejskich strefach usług publicznych (Dz.U. z 1997 r. Nr 36, poz. 224, Nr 123, poz. 780 i Nr 162, poz. 1120).
+1. Z dniem 31 grudnia 1998 r. miejskie strefy publicznych, utworzone na pod stawie ustawy z dnia 24 listopada 1995 r. o zmianie za kresu niektórych miast oraz o miejskich stre fach publicznych (Dz. U. z 1997 r. 36, poz. 224, 123, poz. 780 i 162, poz. 1120).
 
-2. Istniejące w dniu 31 grudnia 1998 r. urzędy miejskich stref usług publicznych, stają się z dniem 1 stycznia 1999 r. odpowiednio starostwami powiatowymi albo tworzą starostwa powiatowe w połączeniu z urzędem rejonowym lub jego zamiejscową jednostką, mającymi siedziby na obszarze powiatu.
+2. w dniu 31 grudnia 1998 r. miej skich stref publicznych z dniem 1 stycz nia 1999 r. odpowiednio starostwami powiatowymi al bo starostwa powiatowe w z dem rejonowym lub jego ma siedziby na obszarze powiatu.
 
 **Art. 16.**
 
-1. Z dniem 1 stycznia 1999 r. jednostki organizacyjne mające siedziby w mieście będącym siedzibą wojewody:
+1. Z dniem 1 stycznia 1999 r. jednostki orga nizacyjne siedziby w siedzi wojewody: komenda wojewódzka nej, komenda wojewódzka Policji, kuratorium delegatura Inspekcji Skupu i Przetwórstwa Rolnych, inspektorat inspekcji nasiennej, wojewódzki inspektorat nadzoru farmaceutyczne go,
 
-- **1)** komenda wojewódzka Państwowej Straży Pożarnej,
-- **2)** komenda wojewódzka Policji,
-- **3)** kuratorium oświaty,
-- **4)** okręgowa delegatura Państwowej Inspekcji Skupu i Przetwórstwa Artykułów Rolnych,
-- **5)** okręgowy inspektorat inspekcji nasiennej,
-- **6)** wojewódzki inspektorat nadzoru farmaceutycznego,
-- **7)** wojewódzki inspektorat ochrony roślin,
-- **8)** wojewódzki inspektorat ochrony środowiska,
-- **9)** wojewódzki inspektorat Państwowej Inspekcji Handlowej,
+- **7)** wojewódzki inspektorat ochrony
+- **8)** wojewódzki inspektorat ochrony
+- **9)** wojewódzki inspektorat Inspekcji Handlowej,
 - **10)** wojewódzki inspektorat weterynarii,
 - **11)** wojewódzka stacja sanitarno-epidemiologiczna,
-- **12)** wojewódzki oddział Państwowej Służby Ochrony Zabytków – stają się jednostkami organizacyjnymi stanowiącymi aparat pomocniczy odpowiednich kierowników zespolonych służb, inspekcji i straży wojewódzkich, w rozumieniu ustawy o administracji rządowej w województwie i ustawy kompetencyjnej, z zastrzeżeniem art. 32.
+- **12)** wojewódzki Ochrony Zabytków jednostkami organizacyjnymi mi aparat pomocniczy odpowiednich kierowników ze spolonych inspekcji i wojewódzkich, w ro zumieniu ustawy o administracji w województwie art. 32. ustawy kompetencyjnej, z
 
-2. Istniejące w dniu 31 grudnia 1998 r. jednostki wymienione w ust. 1, w miastach, które z dniem 1 stycznia 1999 r. nie będą siedzibami wojewodów, z tym dniem wchodzą w skład jednostek organizacyjnych stanowiących aparat pomocniczy odpowiednich kierowników zespolonych służb, inspekcji i straży wojewódzkich.
+2. w dniu 31 grudnia 1998 r. jednostki wy mienione w ust. 1, w miastach, które z dniem 1 stycz nia 1999 r. nie siedzibami wojewodów, z tym dniem w jednostek organizacyjnych aparat pomocniczy odpowiednich kie rowników zespolonych inspekcji i woje wódzkich.
 
-3. Minister właściwy do spraw administracji publicznej, na wniosek Delegata Rządu, w drodze zarządzenia, wydanego do dnia 30 listopada 1998 r., może ustalić inne niż określone w ust. 1 siedziby jednostek organizacyjnych stanowiących aparat pomocniczy odpowiednich kierowników zespolonych służb, inspekcji i straży wojewódzkich.
+3. Minister do spraw administracji pu blicznej, na wniosek Delegata w drodze dzenia wydanego do dnia 30 listopada 1998 r., inne w ust. 1 siedziby jednostek organizacyjnych aparat pomocniczy od powiednich kierowników zespolonych inspekcji i wojewódzkich.
 
 **Art. 17.**
 
-1. Z dniem 1 stycznia 1999 r. jednostki organizacyjne mające siedziby w mieście będącym siedzibą władz powiatu:
+1. Z dniem 1 stycznia 1999 r. jednostki orga nizacyjne siedziby w siedzi powiatu: komenda rejonowa komenda rejonowa Policji, rejonowy inspektorat weterynarii, terenowa stacja sanitarno-epidemiologiczna jednostkami organizacyjnymi cymi aparat pomocniczy odpowiednich kierowników powiatowych inspekcji i w rozumieniu ustawy o powiatowym, ustawy o admini stracji w województwie i ustawy kompeten cyjnej, z art. 32.
 
-- **1)** komenda rejonowa Państwowej Straży Pożarnej,
-- **2)** komenda rejonowa Policji,
-- **3)** rejonowy inspektorat weterynarii,
-- **4)** terenowa stacja sanitarno-epidemiologiczna – stają się jednostkami organizacyjnymi stanowiącymi aparat pomocniczy odpowiednich kierowników powiatowych służb, inspekcji i straży, w rozumieniu ustawy o samorządzie powiatowym, ustawy o administracji rządowej w województwie i ustawy kompetencyjnej, z zastrzeżeniem art. 32.
+2. Jednostki organizacyjne wymienione w ust. 1 w miastach, które z dniem 1 stycznia 1999 r. nie siedzibami powiatów, z tym dniem w jednostek organizacyjnych apa rat pomocniczy odpowiednich kierowników in spekcji i powiatowych.
 
-2. Jednostki organizacyjne wymienione w ust. 1 w miastach, które z dniem 1 stycznia 1999 r. nie będą siedzibami władz powiatów, z tym dniem wchodzą w skład jednostek organizacyjnych stanowiących aparat pomocniczy odpowiednich kierowników służb, inspekcji i straży powiatowych.
+3. Minister do spraw administracji pu blicznej, na wniosek Delegata uzgodniony z w drodze wydane go do dnia 15 grudnia 1998 r., inne wy z ust. 1 siedziby jednostek organizacyjnych aparat pomocniczy odpowiednich kie rowników inspekcji i powiatowych.
 
-3. Minister właściwy do spraw administracji publicznej, na wniosek Delegata Rządu, uzgodniony z właściwym starostą, w drodze zarządzenia, wydanego do dnia 15 grudnia 1998 r., może ustalić inne niż wynikające z ust. 1 siedziby jednostek organizacyjnych stanowiących aparat pomocniczy odpowiednich kierowników służb, inspekcji i straży powiatowych.
+4. Z dniem 1 stycznia 1999 r. jednostki organizacyj ne, o których mowa w ust. 1, w miastach sie miasta na prawach powiatu i powiatu ma w tym miejski mi jednostkami organizacyjnymi zada nia na obszarze tego miasta i powiatu, z art. 30 ust. 2.
 
-4. Z dniem 1 stycznia 1999 r. jednostki organizacyjne, o których mowa w ust. 1, w miastach będących siedzibą władz miasta na prawach powiatu i powiatu mającego siedzibę władz w tym mieście, stają się miejskimi jednostkami organizacyjnymi wykonującymi zadania na obszarze tego miasta i powiatu, z zastrzeżeniem art. 30 ust.
+5. W przypadkach, o których mowa w ust. 4, przepisy ustaw nie inaczej, uprawnienia wymienione wart. 35 ust. 3 pkt 1 ustawy o powiatowym wykonywane wspól nie, w drodze porozumienia, przez prezydenta miasta w miastach na prawach powiatu i
 
-2.
+6. W razie braku porozumienia, o którym mowa w ust. 5, w 30 dni od dnia zwolnienia stanowiska albo od dnia pisemnego poinformowania o zamiarze nia z funkcji, uprawnienia prezydenta miasta i starosty przejmuje wojewoda.
 
-5. W przypadkach, o których mowa w ust. 4, jeżeli przepisy odrębnych ustaw nie stanowią inaczej, uprawnienia wymienione w art. 35 ust. 3 pkt 1 ustawy o samorządzie powiatowym wykonywane są wspólnie, w drodze porozumienia, przez prezydenta miasta w miastach na prawach powiatu i starostę. W porozumieniu określa się w szczególności organ właściwy do dokonania czynności w sprawach z zakresu prawa pracy oraz składniki wynagrodzenia i ich wysokość.
-
-6. W razie braku porozumienia, o którym mowa w ust. 5, w ciągu 30 dni od dnia zwolnienia stanowiska albo od dnia pisemnego poinformowania współdziałającego przewodniczącego zarządu o zamiarze odwołania z funkcji, uprawnienia prezydenta miasta i starosty przejmuje wojewoda.
-
-7. Uprawnienia wymienione w art. 35 ust. 3 pkt 2-5 ustawy o samorządzie powiatowym wykonuje odrębnie prezydent miasta w miastach na prawach powiatu i starosta, zgodnie z właściwością miejscową.
+7. Uprawnienia wymienione wart. 35 ust. 3 pkt 2- 5 ustawy o powiatowym wykonuje nie prezydent miasta w miastach na prawach powiatu i starosta, zgodnie z
 
 **Art. 18.**
 
-1. Z uwzględnieniem przepisów niniejszej ustawy ministrowie i centralne organy administracji rządowej, nadzorujący terenowe organy rządowej administracji specjalnej, których zadania z dniem 1 stycznia 1999 r. są przejmowane odpowiednio przez samorządy województw, powiaty, kierowników zespolonych służb, inspekcji i straży działających pod zwierzchnictwem wojewodów oraz kierowników powiatowych służb, inspekcji i straży działających pod zwierzchnictwem starostów, w terminie do dnia 30 listopada 1998 r., zapewnią dostosowanie ich organizacji, w ramach swoich kompetencji, do organizacji administracji publicznej określonej w ustawach, o których mowa w art. 1.
+1. Z przepisów niniejszej ustawy ministrowie i centralne organy administracji terenowe organy ad ministracji specjalnej, których zadania z dniem 1 stycz nia 1999 r. przejmowane odpowiednio przez samo województw, powiaty, kierowników zespolonych inspekcji i pod zwierzchnic twem wojewodów oraz kierowników powiatowych inspekcji i pod zwierzchnic twem starostów, w terminie do dnia 30 listopada 1998 r., dostosowanie ich organizacji, w ra mach swoich kompetencji, do organizacji administra cji publicznej w ustawach, o których mowa wart. 1.
 
-2. Przepis ust. 1 stosuje się odpowiednio do dotychczasowych wojewodów i podległych im jednostek organizacyjnych, których zadania z dniem 1 stycznia 1999 r. przejmują odpowiednie jednostki samorządu terytorialnego lub wojewodowie.
+2. Przepis ust. 1 stosuje odpowiednio do do tychczasowych wojewodów i im jednostek organizacyjnych, których zadania z dniem 1 stycznia 1999 r. odpowiednie jednostki terytorialnego lub wojewodowie.
 
 **Art. 19.**
 
-1. Minister Pracy i Polityki Socjalnej w porozumieniu z ministrem właściwym do spraw administracji publicznej, w drodze rozporządzenia, wydanego do dnia 31 grudnia 1998 r., dostosuje organizację i obszar działania wojewódzkich i rejonowych urzędów pracy do organizacji administracji publicznej określonej w ustawach, o których mowa w art. 1.
+1. Minister Pracy i Polityki Socjalnej w po rozumieniu z ministrem do spraw admini stracji publicznej, w drodze wydanego do dnia 31 grudnia 1998 r., dostosuje i ob szar wojewódzkich i rejonowych pracy do organizacji administracji publicznej nej w ustawach, o których mowa wart. 1.
 
-2. Z dniem 1 stycznia 2000 r. wojewódzkie urzędy pracy stają się wojewódzkimi urzędami pracy wchodzącymi w skład urzędu marszałkowskiego, z zastrzeżeniem ust.
+2. Z dniem 1 stycznia 2000 r. wojewódzkie pracy wojewódzkimi pracy wcho w z zastrze ust. 3.
 
-3.
+3. Z dniem 1 stycznia 2000 r. wojewoda przejmuje mienia wojewódzkiego pra cy, wykonywaniu jego w zakresie prze bezrobociu, oraz pracowników.
 
-3. Z dniem 1 stycznia 2000 r. wojewoda przejmuje odpowiednią część mienia wojewódzkiego urzędu pracy, służącą wykonywaniu jego zadań w zakresie przeciwdziałania bezrobociu, oraz zespół pracowników.
+4. Z dniem 1 stycznia 2000 r. pracy nie wy mienione w ust. 2 powiatowymi pra cy w powiatowej administracji ze spolonej.
 
-4. Z dniem 1 stycznia 2000 r. urzędy pracy nie wymienione w ust. 2 stają się powiatowymi urzędami pracy wchodzącymi w skład powiatowej administracji zespolonej.
+5. Do pracy lub ich o któ rych mowa w ust. 2-4, stosuje przepisy niniejszej ustawy, przekazywania jednostek organiza cyjnych, z tym przepisy art. 54, 57 i 58 stosuje od powiednio.
 
-5. Do przejęcia urzędów pracy lub ich części, o których mowa w ust. 2–4, stosuje się przepisy niniejszej ustawy, dotyczące przekazywania jednostek organizacyjnych, z tym że przepisy art. 54, 57 i 58 stosuje się odpowiednio.
+**Art. 20.**
 
-6. Prezes Krajowego Urzędu Pracy rozlicza środki budżetowe za 1999 r. - na podstawie sprawozdań własnych oraz powiatowych i wojewódzkich urzędów pracy, sporządzonych i przekazanych przez powiatowe i wojewódzkie urzędy pracy przejęte z dniem 1 stycznia 2000 r. przez jednostki samorządu terytorialnego - według podległości obowiązującej w roku 1999.
+1. Minister Pracy i Polityki Socjalnej w poro zumieniu z ministrem do spraw administracji publicznej, w drodze wydanego do dnia 31 grudnia 1998 r., dostosuje re gionalnych i wojewódzkich komend Ochotniczych Huf ców Pracy do organizacji administracji publicznej okre w ustawach, o których mowa wart. 1.
 
-7. Minister Finansów określi, w drodze rozporządzenia, tryb rozliczania środków budżetowych za rok 1999 oraz szczególne zasady i tryb sporządzania i przekazywania sprawozdań budżetowych za rok 1999, a także szczególne zasady i terminy przeprowadzania inwentaryzacji przez dotychczasowe urzędy pracy, o których mowa w ust. 2 i 4.
+2. Z dniem 1 stycznia 2000 r. wojewódzkie komen dy Ochotniczych Hufców Pracy jednostkami organizacyjnymi
 
-**Art. 19a.**
+3. Do wojewódzkich komend Ochotni czych Hufców Pracy stosuje przepisy niniejszej ustawy przekazywania jednostek organiza cyjnych.
 
-1. Powiatowy urząd pracy, działający w dniu wejścia w życie ustawy z dnia 21 stycznia 2000 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji publicznej (Dz.U. Nr 12, poz. 136) na obszarze przekraczającym granice jednego powiatu lub miasta na prawach powiatu, staje się powiatowym urzędem pracy działającym pod zwierzchnictwem prezydenta miasta na prawach powiatu lub starosty właściwego ze względu na siedzibę powiatowego urzędu pracy.
+**Art. 21.** Minister Transportu i Gospodarki Morskiej w porozumieniu z ministrem do spraw ad ministracji publicznej w drodze wydanego do dnia 30 listopada 1998 r., dy rekcji dróg publicznych oraz ich drogowych i drogowej li niowej, która dostosowanie z dniem 1 stycz nia 1999 r. organizacji tych jednostek do organizacji administracji publicznej w ustawach, o któ rych mowa wart. 1.
 
-2. W przypadkach określonych w ust. 1 powiatowy urząd pracy wykonuje zadania na dotychczasowym obszarze działania na rzecz organów zatrudnienia w jednostkach samorządu terytorialnego, o których mowa w tym przepisie.
-
-3. Powołania i odwołania kierownika powiatowego urzędu pracy oraz jego zastępców dokonują wspólnie, w drodze porozumienia, prezydenci miast na prawach powiatu i starostowie określeni w ust. 1. W porozumieniu określa się w szczególności organ właściwy do dokonania czynności w sprawach z zakresu prawa pracy oraz składniki wynagrodzenia i ich wysokość. Przepis art. 17 ust. 6 stosuje się odpowiednio.
-
-4. Przepisów ust. 1 i 3 nie stosuje się w przypadku, gdy powiaty i miasta na prawach powiatu określone w ust. 1 zawarły porozumienia, o których mowa w art. 26 ust. 2 pkt 2, lub właściwy wojewoda dokonał podziału powiatowego urzędu pracy w trybie art. 26 ust. 4.
-
-5. W przypadkach określonych w ust. 1 tworzy się jedną powiatową radę zatrudnienia, której przewodniczącym jest odpowiednio prezydent miasta na prawach powiatu lub starosta powiatu, w którym nie ma siedziby powiatowego urzędu pracy.
-
-6. W przypadku określonym w ust. 5 powiatowa rada zatrudnienia składa się z 16 osób powołanych w równych częściach przez zainteresowane organy zatrudnienia. Przepis art. 10 ust. 3 ustawy o zatrudnieniu i przeciwdziałaniu bezrobociu stosuje się odpowiednio.
-
-7. W przypadkach określonych w ust. 1, gdy powiatowy urząd pracy działa na obszarze przekraczającym granice dwóch powiatów, powiatowa rada zatrudnienia składa się z 24 osób powoływanych zgodnie z zasadami określonymi w ust. 6. Funkcję przewodniczącego tej rady pełnią kolejno starostowie obu powiatów przez dwa lata w ramach jednej kadencji, przy czym pierwszym przewodniczącym jest starosta powiatu o mniejszej liczbie mieszkańców.
-
-8. W przypadkach określonych w ust. 1 organy zatrudnienia, o których mowa w tych przepisie, mogą udzielić kierownikowi lub innemu pracownikowi pełnomocnictwa do prowadzenia spraw w ich imieniu, w tym do wydawania decyzji administracyjnych.
-
-**Art. 19b.**
-
-1. Właściwi kierownicy powiatowych urzędów pracy i dyrektorzy wojewódzkich urzędów pracy stają się odpowiednio następcami prawnymi kierowników rejonowych urzędów pracy i dyrektorów wojewódzkich urzędów pracy w umowach i porozumieniach zawartych do dnia 31 grudnia 1998 r.
-
-2. Właściwi starostowie i marszałkowie województw stają się odpowiednio następcami prawnymi kierowników powiatowych urzędów pracy i dyrektorów wojewódzkich urzędów pracy w umowach i porozumieniach zawartych do dnia 31 grudnia 1999 r.
-
-3. Przepisy ust. 1 i 2 stosuje się również do postępowania przed sądami i w postępowaniu egzekucyjnym.
-
-**Art. 19c.** Postępowania toczące się przed organami zatrudnienia w sprawach indywidualnych wszczętych i nie zakończonych do dnia 31 grudnia 1999 r., przechodzących do właściwości organów powiatów i samorządów województw, przejmują starostowie i marszałkowie województw, jeżeli przepisy szczególne nie stanowią inaczej, z tym że:
-
-**Art. 19d.**
-
-1. Dyrektorzy dotychczasowych wojewódzkich urzędów pracy i ich zastępcy oraz kierownicy dotychczasowych powiatowych urzędów pracy i ich zastępcy z dniem wejścia w życie ustawy, o której mowa w art. 19a ust. 1, stają się odpowiednio dyrektorami wojewódzkich urzędów pracy i ich zastępcami oraz kierownikami powiatowych urzędów pracy i ich zastępcami.
-
-2. Stosunek pracy z dyrektorami dotychczasowych wojewódzkich urzędów pracy i ich zastępcami oraz kierownikami dotychczasowych powiatowych urzędów pracy i ich zastępcami – wygasa z dniem 30 czerwca 2000 r. Przepisy art. 57 i 58 stosuje się odpowiednio.
-
-**Art. 19e.**
-
-1. Znosi się komisje dyscyplinarne I i II instancji, działające na podstawie przepisów o pracownikach urzędów państwowych, powołane do orzekania w sprawach dyscyplinarnych dotyczących pracowników powiatowych i wojewódzkich urzędów pracy oraz kierowników powiatowych urzędów pracy i ich zastępców, a także dyrektorów wojewódzkich urzędów pracy i ich zastępców.
-
-2. Wszystkie czynności podjęte w postępowaniu dyscyplinarnym do dnia wejścia w życie ustawy, o której mowa w art. 19a ust. 1, a także orzeczenia komisji, o których mowa w ust. 1, pozostają w mocy.
-
-3. Odwołania od orzeczeń wydanych do dnia wejścia w życie ustawy, o której mowa w art. 19a ust. 1, przez komisje dyscyplinarne I instancji, działające w wojewódzkich urzędach pracy, rozpatruje Prezes Krajowego Urzędu Pracy.
-
-4. Komisje dyscyplinarne działające odpowiednio przy staroście lub marszałku województwa przejmą postępowania dyscyplinarne wszczęte przed dniem wejścia w życie ustawy, o której mowa w art. 19a ust. 1, przez komisje, o których mowa w ust.
-
-1.
-
-5. Postanowienia ust. 4 stosuje się odpowiednio do postępowań prowadzonych przez rzeczników dyscyplinarnych.
-
-**Art. 19f.**
-
-1. Działalność wojewódzkich urzędów pracy w latach 2000-2002 finansowana jest z dotacji celowej przekazanej z budżetu państwa na realizację bieżących zadań własnych samorządu województwa, a także z innych źródeł określonych w odrębnych przepisach.
-
-2. Działalność powiatowych urzędów pracy w latach 2000-2002 finansowana jest z dotacji celowej przekazanej z budżetu państwa na realizację zadań własnych powiatu, a także z innych źródeł określonych w odrębnych przepisach.
-
-**Art. 19g.**
-
-1. Powiatowe i wojewódzkie urzędy pracy przejęte z dniem 1 stycznia 2000 r. przez jednostki samorządu terytorialnego sporządzają sprawozdania Rb-30 za rok 1999 z wykonania otrzymanych środków Funduszu Pracy zgodnie z obowiązującymi w tym zakresie przepisami i przekazują Prezesowi Krajowego Urzędu Pracy.
-
-2. Prezes Krajowego Urzędu Pracy sporządza sprawozdanie Rb-30 za rok 1999 z wykonania planu finansowego Funduszu Pracy zgodnie z obowiązującymi w tym zakresie przepisami.
-
-**Art. 19h.** Ilekroć w dotychczasowych przepisach jest mowa o dyrektorach wojewódzkich urzędów pracy oraz kierownikach powiatowych urzędów pracy, należy przez to rozumieć odpowiednio marszałków województw oraz starostów.
-
-**Art. 20.** (uchylony)
-
-**Art. 21.** Minister Transportu i Gospodarki Morskiej w porozumieniu z ministrem właściwym do spraw administracji publicznej określi, w drodze rozporządzenia, wydanego do dnia 30 listopada 1998 r., organizację dyrekcji okręgowych dróg publicznych oraz będących ich częściami zarządów drogowych i drogowej służby liniowej, która umożliwi dostosowanie z dniem 1 stycznia 1999 r. organizacji tych jednostek do organizacji administracji publicznej określonej w ustawach, o których mowa w art. 1.
-
-**Art. 22.** Minister Finansów w porozumieniu z ministrem właściwym do spraw administracji publicznej, w drodze rozporządzenia, dostosuje organizację, obszar działania urzędów i izb skarbowych oraz urzędów kontroli skarbowej, a także ich siedziby do organizacji administracji publicznej określonej w ustawach, o których mowa w art. 1.
+**Art. 22.** Minister Finansów w porozumieniu z mini strem do spraw administracji publicznej, w drodze dostosuje ob szar i izb skarbowych oraz kontroli skarbowej, a ich siedziby do organizacji administracji publicznej w ustawach, o któ rych mowa wart. 1.
 
 **Art. 23.**
 
-1. Z dniem 1 stycznia 1999 r. dotychczasowe wojewódzkie zespoły do spraw orzekania o stopniu niepełnosprawności stają się powiatowymi zespołami do spraw orzekania o stopniu niepełnosprawności.
+1. Z dniem 1 stycznia 1999 r. dotychczaso we wojewódzkie do spraw orzekania o stopniu powiatowymi do spraw orzekania o stopniu
 
-2. Z dniem 1 stycznia 1999 r. Krajowy Zespół do Spraw Orzekania o Stopniu Niepełnosprawności staje się wojewódzkim zespołem do spraw orzekania o stopniu niepełnosprawności w województwie mazowieckim i zostaje przejęty przez wojewodę mazowieckiego.
+2. Z dniem 1 stycznia 1999 r. Krajowy do Spraw Orzekania o Stopniu staje wojewódzkim do spraw orzekania o stop niu w województwie mazowiec kim i zostaje przez mazowieckiego.
 
-3. Zespoły, o których mowa w ust. 1, do czasu powołania powiatowych zespołów do spraw orzekania o stopniu niepełnosprawności, wykonują zadania na obszarze więcej niż jednego powiatu.
+3. o których mowa w ust. 1, do czasu po powiatowych do spraw orzekania o stopniu zadania na obszarze jednego powiatu.
 
-4. Do przejęcia zespołów do spraw orzekania o stopniu niepełnosprawności, o których mowa w ust. 1 i 2, stosuje się odpowiednio przepisy niniejszej ustawy dotyczące przekazywania jednostek organizacyjnych.
+4. Do do spraw orzekania o stopniu o których mowa w ust. 1 i 2, stosuje odpowiednio przepisy niniejszej ustawy przekazywania jednostek organiza cyjnych.
 
-5. Do czasu powołania wojewódzkich zespołów do spraw orzekania o stopniu niepełnosprawności zespołem orzekającym w drugiej instancji jest zespół, o którym mowa w ust. 2. ust. 3 w art. 23 skreślony
+5. Do czasu wojewódzkich do spraw orzekania o stopniu zespo w drugiej instancji jest o któ rym mowa w ust. 2.
 
-7. Prezes Rady Ministrów określi, w drodze rozporządzenia, wykaz zespołów i ich właściwość miejscową.
+6. o których mowa w ust. 1, do czasu nowych nie jednak do dnia 30 czerwca 1999 r.
+
+7. Prezes Rady Ministrów w drodze rozpo wykaz i ich miejsco
 
 **Art. 24.**
 
-1. Z dniem 1 stycznia 1999 r. tworzy się, z zastrzeżeniem art. 17 ust. 4, jednostki organizacyjne powiatowych służb, inspekcji i straży, o których mowa w art. 17 ust. 1, w miastach będących siedzibami władz powiatu, w których przed dniem 1 stycznia 1999 r. nie było siedzib odpowiednich rejonowych jednostek organizacyjnych.
+1. Z dniem 1 stycznia 1999 r. tworzy z za art. 17 ust. 4, jednostki organizacyjne po wiatowych inspekcji i o których mowa wart. 17 ust. 1, w miastach siedzibami powiatu, w których przed dniem 1 stycznia 1999 r. nie siedzib odpowiednich rejonowych jednostek or ganizacyjnych.
 
-2. Do czasu zorganizowania jednostek organizacyjnych w powiatach, o których mowa w ust. 1, oraz powołania ich kierowników zadania tych kierowników wykonują kierownicy jednostek organizacyjnych powiatowych służb, inspekcji i straży właściwych dla sąsiedniego powiatu.
+2. Do czasu zorganizowania jednostek organizacyj nych w powiatach, o których mowa w ust. 1, oraz po ich kierowników zadania tych kierowników kierownicy jednostek organizacyjnych po wiatowych inspekcji i dla siedniego powiatu.
 
-3. W przypadku określonym w ust. 2 nie stosuje się przepisów art. 17 ust. 5-7.
+3. W przypadku w ust. 2 nie stosuje przepisów art. 17 ust. 5-7.
 
-4. Prezes Rady Ministrów określi, w drodze rozporządzenia, wykaz jednostek organizacyjnych, o których mowa w ust. 2, oraz obszar ich działania.
+4. Prezes Rady Ministrów w drodze rozpo wykaz jednostek organizacyjnych, o których mowa w ust. 2, oraz obszar ich
 
 **Art. 25.**
 
-1. Z dniem 1 stycznia 1999 r. samorząd województwa przejmuje mające siedzibę na obszarze województwa następujące wojewódzkie państwowe jednostki organizacyjne nie posiadające osobowości prawnej:
+1. Z dniem 1 stycznia 1999 r. wo jewództwa przejmuje na obszarze wo jewództwa wojewódzkie jed nostki organizacyjne nie prawnej:
 
 - **1)** biura planowania przestrzennego,
-- **2)** ośrodki dokumentacji geodezyjnej i kartograficznej,
-- **3)** biura geodezji i terenów rolnych oraz ich oddziały,
-- **4)** zarządy melioracji i urządzeń wodnych,
-- **5)** zakłady konserwacji urządzeń wodnych i melioracyjnych,
-- **6)** ośrodki medycyny pracy,
+- **2)** dokumentacji geodezyjnej i kartograficznej,
+- **3)** biura geodezji i terenów rolnych oraz ich
+- **4)** melioracji i wodnych,
+- **5)** konserwacji wodnych i meliora cyjnych,
+- **6)** medycyny pracy,
 - **7)** kolumny transportu sanitarnego.
 
-2. Z dniem 1 stycznia 1999 r. samorząd województwa przejmuje mające siedzibę na obszarze województwa wojewódzkie ośrodki ruchu drogowego, które z tym dniem stają się wojewódzkimi osobami prawnymi w rozumieniu ustawy o samorządzie województwa.
+2. Z dniem 1 stycznia 1999 r. wojewódz twa przejmuje na obszarze wojewódz twa wojewódzkie ruchu drogowego, które z tym dniem wojewódzkimi osobami prawny mi w rozumieniu ustawy o województwa.
 
-3. Z dniem 1 stycznia 1999 r. powiaty przejmują rejonowe oddziały wojewódzkich ośrodków dokumentacji geodezyjnej i kartograficznej.
+3. Z dniem 1 stycznia 1999 r. powiaty wo jewódzkie dokumentacji geodezyjnej i karto graficznej.
 
-4. Z dniem 1 stycznia 1999 r. wojewodowie przejmują, mające siedzibę na obszarze województwa, przedsiębiorstwa państwowe i państwowe jednostki organizacyjne nie mające osobowości prawnej podległe, podporządkowane lub nadzorowane przez dotychczasowych wojewodów i nie przejmowane przez samorząd województwa lub powiat, w tym w szczególności wojewódzkie ośrodki informatyki, ośrodki doradztwa rolniczego, z wyjątkiem ośrodków doradztwa rolniczego, które po tym dniu przejmie minister właściwy do spraw rolnictwa w celu utworzenia Krajowego Centrum Doradztwa Rozwoju Rolnictwa i Obszarów Wiejskich.
+4. Z dniem 1 stycznia 1999 r. wojewodowie przej na obszarze województwa, i jednostki organizacyjne nie prawnej podle lub nadzorowane przez dotych czasowych wojewodów i nie przejmowane przez sa województwa lub powiat, w tym w szczególno wojewódzkie informatyki, doradz twa rolniczego, z doradztwa rolniczego, które po tym dniu przejmie minister do spraw rolnictwa w celu utworzenia Krajowego Cen trum Doradztwa Rozwoju Rolnictwa i Obszarów Wiej skich.
 
 **Art. 26.**
 
-1. Przejęcie przez jednostki samorządu terytorialnego instytucji i jednostek organizacyjnych określonych w ustawie kompetencyjnej oraz niniejszej ustawie następuje z mocy prawa z dniem 1 stycznia 1999 r.
+1. przez jednostki te rytorialnego instytucji i jednostek organizacyjnych w ustawie kompetencyjnej oraz niniejszej ustawie z mocy prawa z dniem 1 stycznia 1999 r.
 
-2. Przejęcie instytucji i jednostek organizacyjnych, o których mowa w ust. 1, mających siedzibę na obszarze danej jednostki samorządu terytorialnego następuje również wtedy, gdy dotychczasowy obszar działania tych instytucji lub jednostek organizacyjnych obejmuje obszar więcej niż jednej jednostki samorządu terytorialnego i jeżeli:
+2. instytucji i jednostek organizacyjnych, o których mowa w ust. 1, na obsza rze danej jednostki terytorialnego je wtedy, gdy dotychczasowy obszar tych instytucji lub jednostek organizacyjnych obejmu je obszar jednej jednostki teryto rialnego i
 
-- **1)** organ administracji rządowej, któremu ta instytucja lub jednostka podlega lub jest podporządkowana, nie dokona jej podziału we właściwym trybie do dnia 31 grudnia 1998 r. lub
-- **2)** właściwe organy jednostek samorządu terytorialnego, których obszar pokrywa się z obszarem działania tych instytucji lub jednostek organizacyjnych, nie zawrą do dnia 31 grudnia 1998 r. porozumienia, o którym mowa w art. 5 ust. 2 ustawy o samorządzie powiatowym lub w art. 8 ust. 2 ustawy o samorządzie województwa, określającego jednostki samorządu terytorialnego właściwe do przejęcia instytucji lub jednostek organizacyjnych.
+- **1)** organ administracji któremu ta instytucja lub jednostka podlega lub jest nie dokona jej we trybie do dnia 31 grudnia 1998 r. lub
+- **2)** organy jednostek terytorial nego, których obszar pokrywa z obszarem dzia tych instytucji lub jednostek organizacyjnych, nie do dnia 31 grudnia 1998 r. porozumienia, o którym mowa wart. 5 ust. 2 ustawy o dzie powiatowym lub wart. 8 ust. 2 ustawy o sa województwa, jednostki terytorialnego do instytucji lub jednostek organizacyjnych.
 
-3. Podział instytucji lub jednostek organizacyjnych, o którym mowa w ust. 2 pkt 1, może polegać w szczególności na utworzeniu dwóch lub więcej instytucji lub jednostek organizacyjnych na podstawie wydzielonych części mienia i zespołu pracowników instytucji lub jednostki organizacyjnej podlegającej podziałowi.
+3. instytucji lub jednostek organizacyjnych, o którym mowa w ust. 2 pkt w szcze na utworzeniu dwóch lub instytucji lub jednostek organizacyjnych na podstawie wydzielo nych mienia i pracowników instytucji lub jednostki organizacyjnej
 
-4. Jeżeli do dnia 31 grudnia 1998 r. nie zostanie dokonany podział instytucji lub jednostki organizacyjnej, lub nie zostaną zawarte porozumienia, o których mowa w ust. 2, podziału tych instytucji lub jednostki organizacyjnej dokonuje, w drodze decyzji, właściwy wojewoda.
+4. do dnia 31 grudnia 1998 r. nie zostanie do konany instytucji lub jednostki organizacyjnej lub nie zawarte porozumienia, o których mo wa w ust. 2, tych instytucji lub jednostki orga nizacyjnej dokonuje, w drodze decyzji, woje woda.
 
-**Art. 27.** Z dniem 1 stycznia 1999 r. tworzy się urzędy marszałkowskie w miastach będących siedzibami władz samorządu województwa.
+**Art. 27.** Z dniem 1 stycznia 1999 r. tworzy dy w miastach siedzibami województwa.
 
 **Art. 28.**
 
-1. Z dniem 1 stycznia 1999 r. dotychczasowi komendanci komend wojewódzkich, o których mowa w art. 16 ust. 1 pkt 1 i 2, oraz ich zastępcy stają się pełniącymi obowiązki odpowiednio komendanta wojewódzkiego Państwowej Straży Pożarnej i komendanta wojewódzkiego Policji oraz ich zastępców, nie dłużej jednak niż do dnia 30 czerwca 1999 r.
+1. Z dniem 1 stycznia 1999 r. dotychczaso wi komendanci komend wojewódzkich, o których mo wa wart. 16 ust. 1 pkt 1 i 2, oraz ich odpowiednio komendanta woje wódzkiego i komendanta wojewódzkiego Policji oraz ich nie jednak do dnia 30 czerwca 1999
 
-2. Z dniem 1 stycznia 1999 r. dotychczasowi wojewódzcy (okręgowi) inspektorzy i kierownicy innych jednostek organizacyjnych, o których mowa w art. 16 ust. 1 pkt 3-12 oraz ich zastępcy, stają się pracownikami tych jednostek pełniącymi obowiązki odpowiednio wojewódzkich inspektorów i kierowników innych jednostek organizacyjnych oraz ich zastępców.
+2. Z dniem 1 stycznia 1999 r. dotychczasowi woje wódzcy inspektorzy i kierownicy innych jednostek organizacyjnych, o których mowa wart. 16 ust. 1 pkt 3-12, oraz ich pracownika mi tych jednostek odpowiednio wojewódzkich inspektorów i kierowników innych jed nostek organizacyjnych oraz ich
 
-3. Osoby, o których mowa w ust. 2, pełnią obowiązki do czasu powołania wojewódzkich inspektorów i kierowników innych wojewódzkich jednostek organizacyjnych, nie dłużej jednak niż do dnia 30 czerwca 1999 r., chyba że odrębne przepisy stanowią inaczej.
+3. Osoby, o których mowa w ust. 2, ki do czasu wojewódzkich inspektorów i kie rowników innych wojewódzkich jednostek organiza cyjnych, nie jednak do dnia 30 czerwca 1999 r., chyba przepisy inaczej.
 
-4. Z dniem 1 stycznia 1999 r. dotychczasowi komendanci komend rejonowych Państwowej Straży Pożarnej i komendanci komend rejonowych Policji, o których mowa w art. 17 ust. 1 pkt 1 i 2, oraz ich zastępcy stają się pełniącymi obowiązki odpowiednio komendantów komend powiatowych Państwowej Straży Pożarnej i komendantów komend powiatowych Policji oraz ich zastępców.
+4. Z dniem 1 stycznia 1999 r. dotychczasowi komen danci komend rejonowych nej i komendanci komend rejonowych Policji, o któ rych mowa wart. 17 ust. 1 pkt 1 i 2, oraz ich odpowiednio komen dantów komend powiatowych Po i komendantów komend powiatowych Policji oraz ich
 
-5. Z dniem 1 stycznia 1999 r. rejonowi inspektorzy i kierownicy innych rejonowych jednostek organizacyjnych, o których mowa w art. 17 ust. 1 pkt 3 i 4, oraz ich zastępcy stają się pracownikami tych jednostek pełniącymi obowiązki odpowiednio powiatowych inspektorów i kierowników innych jednostek organizacyjnych oraz ich zastępców.
+5. Z dniem 1 stycznia 1999 r. rejonowi inspektorzy i kierownicy innych rejonowych jednostek organizacyj nych, o których mowa wart. 17 ust. 1 pkt 3 i 4, oraz ich pracownikami tych jednostek cymi odpowiednio powiatowych inspekto rów i kierowników innych jednostek organizacyjnych oraz ich
 
-6. Osoby, o których mowa w ust. 5, pełnią obowiązki do czasu powołania powiatowych inspektorów i kierowników innych powiatowych jednostek organizacyjnych, nie dłużej jednak niż do dnia 30 czerwca 1999 r., chyba że odrębne przepisy stanowią inaczej.
+6. Osoby, o których mowa w ust. 5, ki do czasu powiatowych inspektorów i kie rowników innych powiatowych jednostek organizacyj nych, nie jednak do dnia 30 czerwca 1999 r., chyba przepisy inaczej.
 
-7. Stosunki pracy z osobami, o których mowa w ust. 2 i 5, wygasają z dniem 30 czerwca 1999 r. Przepisy art. 57 i 58 stosuje się odpowiednio.
+7. Stosunki pracy z osobami, o których mowa w ust. 2 i 5, z dniem 30 czerwca 1999 r. Prze pisy art. 57 i 58 stosuje odpowiednio.
 
 **Art. 29.**
 
-1. Z dniem 31 grudnia 1998 r. odwołuje się dotychczasowych wojewódzkich (okręgowych) komendantów, inspektorów i kierowników innych jednostek organizacyjnych, o których mowa w art. 16 ust. 2 oraz ich zastępców, z zastrzeżeniem ust. 2.
+1. Z dniem 31 grudnia 1998 r. dotychczasowych wojewódzkich ko mendantów, inspektorów i kierowników innych jedno stek organizacyjnych, o których mowa wart. 16 ust. 2, oraz ich z ust. 2.
 
-2. Stosunki pracy z osobami, o których mowa w ust. 1, jeżeli przepisy odrębne nie stanowią inaczej, wygasają z dniem 30 czerwca 1999 r. Przepisy art. 57 i 58 stosuje się odpowiednio.
+2. Stosunki pracy z osobami, o których mowa w ust. 1, przepisy nie inaczej. wy z dniem 30 czerwca 1999 r. Przepisy art. 57 i 58 stosuje odpowiednio.
 
-3. W okresie od dnia 1 stycznia 1999 r. do dnia 30 czerwca 1999 r. osoby, o których mowa w ust. 1, wykonują zadania ustalone przez odpowiednich wojewódzkich inspektorów i kierowników innych wojewódzkich jednostek organizacyjnych lub osoby pełniące ich obowiązki zgodnie z art. 28 ust. 2.
+3. W okresie od dnia 1 stycznia 1999 r. do dnia 30 czerwca 1999 r. osoby, o których mowa w ust. 1, wy zadania ustalone przez odpowiednich woje wódzkich inspektorów i kierowników innych woje wódzkich jednostek organizacyjnych lub osoby ce ich zgodnie z art. 28 ust. 2.
 
-4. Z dniem 31 grudnia 1998 r. odwołuje się dotychczasowych rejonowych komendantów, inspektorów i kierowników innych jednostek organizacyjnych, o których mowa w art. 17 ust. 2, oraz ich zastępców. Przepisy ust. 2 i 3 stosuje się odpowiednio.
+4. Z dniem 31 grudnia 1998 r. dotych czasowych rejonowych komendantów, inspektorów i kierowników innych jednostek organizacyjnych, o których mowa wart. 17 ust. 2, oraz ich Przepisy ust. 2 i 3 stosuje odpowiednio.
 
 **Art. 30.**
 
-1. Z dniem 1 stycznia 1999 r. w miastach, które były siedzibami więcej niż jednej komendy rejonowej Policji, tworzy się z dotychczasowych komend rejonowych komendę miejską Policji.
+1. Z dniem 1 stycznia 1999 r. w miastach, które siedzibami jednej komendy rejo nowej Policji, tworzy z dotychczasowych komend rejonowych Policji.
 
-2. Z dniem 1 stycznia 1999 r. tworzy się, w miastach liczących więcej niż 700 000 mieszkańców i będących siedzibami władz powiatu, komendę powiatową Policji, z zastrzeżeniem art. 32.
+2. Z dniem 1 stycznia 1999 r. tworzy w miastach 700 000 i siedzibami powiatu, Poli cji, z art. 32.
 
 3. Z dniem 1 stycznia 1999 r.:
 
-- **1)** komisariaty Policji w miastach będących siedzibami władz powiatów, w których przed tym dniem nie było siedzib komend rejonowych Policji, z zastrzeżeniem art. 24 ust. 1 i 2, stają się komendami powiatowymi Policji,
-- **2)** dotychczasowe komisariaty i komisariaty specjalistyczne Policji stają się komisariatami i komisariatami specjalistycznymi Policji podległymi właściwym miejscowo komendantom odpowiednio: powiatowym (miejskim) i wojewódzkim Policji.
+- **1)** komisariaty Policji w miastach siedziba mi powiatów, w których przed tym dniem nie siedzib komend rejonowych Policji, z zastrze art. 24 ust. 1 i 2, komendami po wiatowymi Policji,
+- **2)** dotychczasowe komisariaty i komisariaty specjali styczne Policji komisariatami i komisaria tami specjalistycznymi Policji wym miejscowo komendantom odpowiednio: po wiatowym (miejskim) i wojewódzkim Policji.
 
-4. Komendant Główny Policji, w terminie 14 dni od dnia wejścia w życie niniejszej ustawy, wyznaczy pełnomocników do spraw organizacji komend miejskich Policji, o których mowa w ust. 1, oraz komend powiatowych Policji, o których mowa w ust. 2, spośród komendantów komend rejonowych Policji działających na obszarze miasta.
+4. Komendant Policji, w terminie 14 dni od dnia w niniejszej ustawy, wyznaczy nomocników do spraw organizacji komend miejskich Policji, o których mowa w ust. 1, oraz komend powia towych Policji, o których mowa w ust. 2, ko mendantów komend rejonowych Policji na obszarze miasta.
 
-5. W przypadkach, o których mowa w art. 17 ust. 4:
+5. W przypadkach, o których mowa wart. 17 ust. 4:
 
-- **1)** uprawnienia określone w art. 6c ust. 1 i art. 6e ust. 2 pkt 2 ustawy o Policji, wykonywane są wspólnie, w drodze porozumienia, przez prezydenta miasta na prawach powiatu i starostę, a określone w art. 11 ustawy o Policji, przez prezydenta miasta lub starostę - zgodnie z właściwością miejscową; przepis art. 17 ust. 5-7 stosuje się odpowiednio,
-- **2)** w skład komisji konkursowej, o której mowa w art. 6h ust. 4 pkt 2 ustawy o Policji, wchodzą jako przedstawiciele władz samorządowych: jeden przedstawiciel prezydenta miasta w miastach na prawach powiatu i jeden przedstawiciel starosty powiatu, którego władze mają swoją siedzibę w tym mieście.
+- **1)** uprawnienia wart. 6c ust. 1 i art. 6e ust. 2 pkt 2 ustawy o Policji wykonywane wspólnie, w drodze porozumienia, przez prezydenta miasta na prawach powiatu i a wart. 11 ustawy o Policji, przez prezydenta miasta lub zgodnie z przepis art. 17 ust. 5-7 stosuje odpowiednio,
+- **2)** w komisji konkursowej. o której mowa w art. 6h ust. 4 pkt 2 ustawy o Policji, jako przedstawiciele jeden przedstawiciel prezydenta miasta w miastach na prawach powiatu i jeden przedstawiciel starosty powiatu, którego w tym
 
 **Art. 31.**
 
-1. Z dniem 1 stycznia 1999 r. dotychczasowi komendanci komisariatów i komisariatów specjalistycznych Policji stają się pełniącymi obowiązki odpowiednio:
+1. Z dniem 1 stycznia 1999 r. dotychczaso wi komendanci komisariatów i komisariatów specjali stycznych Policji odpo wiednio:
 
-- **1)** komendanta powiatowego (miejskiego) Policji, w przypadku określonym w art. 30 ust. 3 pkt 1,
+- **1)** komendanta powiatowego (miejskiego) Policji, w przypadku wart. 30 ust. 3 pkt 1,
 - **2)** komendanta komisariatu Policji,
 - **3)** komendanta komisariatu specjalistycznego Policji.
 
-2. Z dniem 1 stycznia 1999 r. komendanci rejonowi będący pełnomocnikami, o których mowa w art. 30 ust. 4, stają się pełniącymi obowiązki odpowiednio komendanta miejskiego lub powiatowego Policji.
+2. Z dniem 1 stycznia 1999 r. komendanci rejonowi o których mowa wart. 30 ust. 4, odpowiednio ko mendanta miejskiego lub powiatowego Policji.
 
-3. Pełnienie obowiązków komendantów Policji, o których mowa w ust. 1 i 2, trwa nie dłużej niż do dnia 31 grudnia 1999 r.
+3. komendantów Policji, o których mowa w ust. 1 i 2, trwa nie do dnia 31 grudnia 1999 r.
 
-4. Przepisy ust. 1 i 3 stosuje się odpowiednio do zastępców komendantów komisariatów Policji.
+4. Przepisy ust. 1 i 3 stosuje odpowiednio do za komendantów komisariatów Policji.
 
 **Art. 32.**
 
-1. Z dniem 1 stycznia 1999 r. tworzy się komendę wojewódzką Policji obejmującą zakresem swojego działania obszar województwa mazowieckiego, z wyłączeniem obszaru, o którym mowa w art. 1 w pkt 2 lit. b) ustawy z dnia 27 lipca 2001 r. o zmianie ustawy o Policji, ustawy o działalności ubezpieczeniowej, ustawy Prawo bankowe, ustawy o samorządzie powiatowym oraz ustawy - Przepisy wprowadzające ustawy reformujące administrcację publiczną (Dz.U. Nr 100, poz.
+1. Z dniem 1 stycznia 1999 r. tworzy ko Policji zakresem swo jego obszar województwa mazowieckiego, z obszaru powiatu warszawskiego.
 
-- **1084)** .
+2. Z dniem 1 stycznia 1999 r. Komenda Policji staje aparat pomocniczy Komendanta Policji, swoje zadania na obszarze powiatu war szawskiego.
 
-2. Z dniem 1 stycznia 1999 r. Komenda Stołeczna Policji staje się jednostką organizacyjną stanowiącą aparat pomocniczy Komendanta Stołecznego Policji, wykonującą swoje zadania na obszarze, o którym mowa w art. 1 w pkt 2 lit. b) ustawy z dnia 27 lipca 2001 r. o zmianie ustawy o Policji, ustawy o działalności ubezpieczeniowej, ustawy - Prawo bankowe, ustawy o samorządzie powiatowym oraz ustawy - Przepisy wprowadzające ustawy reformujące administrcację publiczną (Dz.U. Nr 100, poz. 1084).
+3. Komenda Policji na prawach ko mendy wojewódzkiej i nie wchodzi w zespolonej administracji powiatowej.
 
-3. Komenda Stołeczna Policji działa na prawach komendy wojewódzkiej i nie wchodzi w skład zespolonej administracji powiatowej.
+4. Z dniem 1 stycznia 1999 r. dotychczasowy Ko mendant Policji oraz jego odpowiednio Komendanta Sto Policji oraz jego
 
-4. Z dniem 1 stycznia 1999 r. dotychczasowy Komendant Stołeczny Policji oraz jego zastępcy stają się pełniącymi obowiązki odpowiednio Komendanta Stołecznego Policji oraz jego zastępców.
+5. Komendant Policji wykonuje na obsza rze powiatu warszawskiego zadania i kompetencje od zadaniom i kompetencjom komendanta komendy powiatowej i wojewódzkiej Policji. Komen dant wojewódzkiej komendy Policji, o którym mowa w ust. 1, wykonuje swoje zadania i kompetencje na ob szarze województwa mazowieckiego, z ob szaru powiatu warszawskiego.
 
-5. Komendant Stołeczny Policji wykonuje na obszarze, o którym mowa w art. 1 w pkt 2 lit. b) ustawy z dnia 27 lipca 2001 r. o zmianie ustawy o Policji, ustawy o działalności ubezpieczeniowej, ustawy - Prawo bankowe, ustawy o samorządzie powiatowym oraz ustawy - Przepisy wprowadzające ustawy reformujące administrcację publiczną (Dz.U. Nr 100, poz. 1084) zadania i kompetencje odpowiadające zadaniom i kompetencjom komendanta komendy powiatowej i wojewódzkiej Policji. Komendant wojewódzkiej komendy Policji, o którym mowa w ust. 1, wykonuje swoje zadania i kompetencje na obszarze województwa mazowieckiego, z wyjątkiem obszaru, o którym mowa w art. 1 w pkt 2 lit. b) ustawy z dnia 27 lipca 2001 r. o zmianie ustawy o Policji, ustawy o działalności ubezpieczeniowej, ustawy - Prawo bankowe, ustawy o samorządzie powiatowym oraz ustawy - Przepisy wprowadzające ustawy reformujące administrcację publiczną (Dz.U. Nr 100, poz. 1084).
+6. Komendant Policji Komendan ta Policji, na wniosek wojewody mazo wieckiego, i go po zaopiniowaniu przez tego
 
-6. Komendant Główny Policji powołuje Komendanta Stołecznego Policji, na wniosek wojewody mazowieckiego, i odwołuje go po zaopiniowaniu przez tego wojewodę.
+7. Komendant Policji, na wniosek Komen danta Policji, i I i II za Komendanta Policji.
 
-7. Komendant Główny Policji, na wniosek Komendanta Stołecznego Policji, powołuje i odwołuje I i II zastępcę Komendanta Stołecznego Policji.
+8. Do konkursu na stanowisko Komendanta Sto Policji stosuje odpowiednio przepisy usta wy o Policji konkursu na stanowisko komen danta wojewódzkiego, z tym w komisji konkur sowej wchodzi zamiast przedstawiciela sejmiku woje wództwa przedstawiciel rady powiatu. prze pisy ustawy o Policji trybu oraz zasad powo i komendanta wojewódzkiego stosuje odpowiednio.
 
-8. Do konkursu na stanowisko Komendanta Stołecznego Policji stosuje się odpowiednio przepisy ustawy o Policji dotyczące konkursu na stanowisko komendanta wojewódzkiego, z tym że w skład komisji konkursowej wchodzi zamiast przedstawiciela sejmiku województwa przedstawiciel Zgromadzenia Warszawskiego Zespołu Miejskiego. Pozostałe przepisy ustawy o Policji dotyczące trybu oraz zasad powoływania i odwoływania komendanta wojewódzkiego stosuje się odpowiednio.
+9. Kompetencje starosty warszawskiego w stosun ku do Komendanta Policji w ustawie o powiatowym i w ustawie o Policji wykonuje wojewoda mazowiecki.
 
-9. Kompetencje starosty warszawskiego w stosunku do Komendanta Stołecznego Policji określone w ustawie o samorządzie powiatowym i w ustawie o Policji wykonuje wojewoda mazowiecki.
+10. W administracyjnym w spra wach, w których organem jest:
 
-10. W postępowaniu administracyjnym w sprawach, w których organem właściwym jest:
+- **1)** komendant powiatowy Policji organem go stopnia w stosunku do Komendanta go Policji jest komendant komendy wojewódzkiej, o której mowa w ust. 1,
+- **2)** komendant wojewódzki Policji organem go stopnia w stosunku do Komendanta go Policji jest Komendant
 
-- **1)** komendant powiatowy Policji - organem wyższego stopnia w stosunku do Komendanta Stołecznego Policji jest komendant komendy wojewódzkiej, o której mowa w ust. 1,
-- **2)** komendant wojewódzki Policji - organem wyższego stopnia w stosunku do Komendanta Stołecznego Policji jest Komendant Główny Policji.
-
-11. Komendant Główny Policji, w terminie 14 dni od dnia wejścia w życie niniejszej ustawy, wyznaczy spośród oficerów Policji pełnomocnika do spraw organizacji komendy, o której mowa w ust. 1, który z dniem 1 stycznia 1999 r. staje się pełniącym obowiązki komendanta tej komendy.
-
-12. Minister właściwy do spraw wewnętrznych, w drodze rozporządzenia, może przekazać określone zadania i kompetencje z zakresu właściwości komendanta powiatowego Policji komendantom poszczególnych komisariatów Policji na obszarze miasta stołecznego Warszawy. Jeżeli kompetencje te dotyczą spraw z zakresu postępowania administracyjnego właściwym organem wyższego stopnia w stosunku do komendanta komisariatu jest Komendant Stołeczny Policji.
+11. Komendant Policji. Policji, w terminie 14 dni od dnia w niniejszej ustawy, wyznaczy oficerów Policji do spraw orga nizacji komendy, o której mowa w ust. 1, który z dniem 1 stycznia 1999 r. staje komen danta tej komendy.
 
 **Art. 33.**
 
-1. Z dniem 1 stycznia 1999 r. osoby pełniące obowiązki:
+1. Z dniem 1 stycznia 1999 r. osoby ce
 
-- **1)** komendanta wojewódzkiego Policji przejmują wykonywanie kompetencji wynikających ze stosunku służbowego lub stosunku pracy odpowiednio wobec policjantów i pracowników dotychczasowych komend wojewódzkich i komisariatów specjalistycznych, które miały siedziby na obszarze województwa,
-- **2)** komendanta powiatowego (miejskiego) Policji przejmują wykonywanie kompetencji wynikających ze stosunku służbowego lub stosunku pracy odpowiednio wobec policjantów i pracowników dotychczasowych komend rejonowych i komisariatów, które miały siedziby na obszarze powiatu lub miasta na prawach powiatu.
+- **1)** komendanta wojewódzkiego Policji wy konywanie kompetencji ze stosunku lub stosunku pracy odpowiednio wo bec policjantów i pracowników dotychczasowych komend wojewódzkich i komisariatów specjali stycznych, które siedziby na obszarze woje wództwa,
+- **2)** komendanta powiatowego (miejskiego) Policji wykonywanie kompetencji cych ze stosunku lub stosunku pracy odpowiednio wobec policjantów i pracowników dotychczasowych komend rejonowych i komisa riatów, które siedziby na obszarze powiatu lub miasta na prawach powiatu.
 
-2. Uprawnienie, o którym mowa w art. 103 ust. 2 ustawy o Policji, w okresie do dnia 30 czerwca 1999 r. przysługuje właściwym komendantom wojewódzkim Policji.
+2. Uprawnienie, o którym mowa wart. 103 ust. 2 ustawy o Policji, w okresie do dnia 30 czerwca 1999 r. komendantom wojewódzkim Policji.
 
-**Art. 34.** W przypadkach określonych w art. 17 ust. 4 uprawnienia, o których mowa w art. 13 ust. 1 i 2 ustawy o Państwowej Straży Pożarnej, wykonywane są wspólnie, w drodze porozumienia, przez prezydenta miasta w miastach na prawach powiatu i starostę, a uprawnienia określone w art. 14 ustawy o Państwowej Straży Pożarnej, przez prezydenta miasta lub starostę zgodnie z ich właściwością miejscową. Przepis art. 17 ust. 6 stosuje się odpowiednio.
+**Art. 34.** W przypadkach wart. 17 ust. 4 uprawnienia, o których mowa wart. 13 ust. 1 i 2 usta wy o wykonywane wspólnie, w drodze porozumienia, przez prezydenta miasta w miastach na prawach powiatu i a uprawnienia wart. 14 ustawy o wej przez prezydenta miasta lub sta zgodnie z ich Przepis art. 17 ust. 6 stosuje odpowiednio.
 
 **Art. 35.**
 
-1. Z dniem 1 stycznia 1999 r. jednostki ratowniczo-gaśnicze Państwowej Straży Pożarnej stają się jednostkami ratowniczo-gaśniczymi komend powiatowych lub komend miejskich Państwowej Straży Pożarnej w powiatach, na których obszarze znajdują się siedziby tych jednostek.
+1. Z dniem 1 stycznia 1999 r. jednostki ra jednostkami komend po wiatowych lub komend miejskich w powiatach, na których obszarze siedziby tych jednostek.
 
-2. Z dniem 1 stycznia 1999 r. stosunek służbowy dowódców jednostek ratowniczo – gaśniczych Państwowej Straży Pożarnej przekształca się w stosunek służbowy na podstawie mianowania.
+2. Z dniem 1 stycznia 1999 r. stosunek do wódców jednostek wej w stosunek bowy na podstawie mianowania.
 
-3. Do dnia 30 czerwca 1999 r. jednostki ratowniczo-gaśnicze komend powiatowych (miejskich) Państwowej Straży Pożarnej mogą prowadzić działania ratownicze na dotychczasowych obszarach operacyjnych.
+3. Do dnia 30 czerwca 1999 r. jednostki ratowniczo komend powiatowych (miejskich) wej ratow nicze na dotychczasowych obszarach operacyjnych.
 
-4. Do dnia 30 czerwca 1999 r. stanowiska kierowania dotychczasowych komendantów zniesionych komend wojewódzkich Państwowej Straży Pożarnej podlegają komendantom wojewódzkim Państwowej Straży Pożarnej.
+4. Do dnia 30 czerwca 1999 r. stanowiska kierowa nia dotychczasowych komendantów zniesionych ko mend wojewódzkich pod komendantom wojewódzkim Stra
 
-**Art. 36.** Z dniem 1 stycznia 1999 r. osoby pełniące obowiązki komendanta wojewódzkiego Państwowej Straży Pożarnej przejmują wykonywanie kompetencji wynikających ze stosunku służbowego lub stosunku pracy odpowiednio wobec strażaków i pracowników zniesionych komend wojewódzkich i rejonowych Państwowej Straży Pożarnej, które miały siedziby na obszarze województwa.
+**Art. 36.** Z dniem 1 stycznia 1999 r. osoby komendanta wojewódzkiego wykonywanie kompetencji ze stosunku lub stosunku pracy odpowiednio wobec i pracowników zniesionych komend wojewódzkich i rejonowych stwowej które siedziby na ob szarze województwa.
 
 **Art. 37.**
 
-1. Z dniem 1 stycznia 1999 r. znosi się komisje dyscyplinarne, o których mowa w art. 121 ust. 1 pkt 2 lit.a) ustawy o Państwowej Straży Pożarnej, działające przy dotychczasowych komendantach wojewódzkich Państwowej Straży Pożarnej w miastach nie będących z dniem 1 stycznia 1999 r. siedzibami wojewodów, z zastrzeżeniem ust. 2.
+1. Z dniem 1 stycznia 1999 r. znosi komi sje dyscyplinarne, o których mowa wart. 121 ust. 1 pkt 2 lit. a) ustawy o dzia przy dotychczasowych komendantach woje wódzkich w miastach nie z dniem 1 stycznia 1999 r. siedzibami woje wodów, z ust. 2.
 
-2. Komisje dyscyplinarne przy dotychczasowych komendantach wojewódzkich Państwowej Straży Pożarnej w miastach będących z dniem 1 stycznia 1999 r. siedzibami wojewodów stają się komisjami dyscyplinarnymi przy komendantach wojewódzkich Państwowej Straży Pożarnej.
+2. Komisje dyscyplinarne przy dotychczasowych komendantach wojewódzkich Po w miastach z dniem 1 stycznia 1999 r. siedzibami wojewodów komisjami dyscypli narnymi przy komendantach wojewódzkich wej
 
-3. Komisje, o których mowa w ust. 2, działają do czasu powołania nowych komisji, nie dłużej jednak niż do dnia 30 czerwca 1999 r.
+3. Komisje, o których mowa w ust. 2, do czasu nowych komisji, nie jednak do dnia 30 czerwca 1999 r.
 
-4. Postępowania dyscyplinarne wszczęte przed dniem 1 stycznia 1999 r. przez komisje, o których mowa w ust. 1, przekazuje się odpowiednio do komisji dyscyplinarnych, o których mowa w ust. 2.
+4. dyscyplinarne przed dniem 1 stycznia 1999 r. przez komisje, o których mo wa w ust. 1, przekazuje odpowiednio do komisji dyscyplinarnych, o których mowa w ust. 2.
 
 **Art. 38.**
 
-1. Z dniem 1 stycznia 1999 r. w miastach będących siedzibami wojewodów tworzy się wojewódzkie inspektoraty nadzoru budowlanego.
+1. Z dniem 1 stycznia 1999 r. w miastach siedzibami wojewodów tworzy wojewódz kie inspektoraty nadzoru budowlanego.
 
-2. Z dniem 1 stycznia 1999 r. terenowe biura inspekcyjno–kontrolne Głównego Urzędu Nadzoru Budowlanego mające siedziby w miastach, o których mowa w ust. 1, wchodzą w skład wojewódzkich inspektoratów nadzoru budowlanego.
+2. Z dniem 1 stycznia 1999 r. terenowe biura inspek cyjno-kontrolne Nadzoru Budowla nego siedziby w miastach, o których mowa w ust. 1, w wojewódzkich inspektora tów nadzoru budowlanego.
 
-3. Główny Inspektor Nadzoru Budowlanego przekaże z majątku Głównego Urzędu Nadzoru Budowlanego część wyposażenia wojewódzkim inspektoratom nadzoru budowlanego.
+3. Inspektor Nadzoru Budowlanego prze z Nadzoru Budowlane go wojewódzkim inspektoratom nadzoru budowlanego.
 
 **Art. 39.**
 
-1. Główny Inspektor Nadzoru Budowlanego, w uzgodnieniu z Delegatem Rządu, do dnia 30 listopada 1998 r. powierzy pełnienie obowiązków wojewódzkiego inspektora nadzoru budowlanego osobie, która jest pracownikiem aparatu wykonawczego organów nadzoru budowlanego. Z zastrzeżeniem art. 41 i 42 pełniący obowiązki wojewódzkiego inspektora nadzoru budowlanego wykonują swoje zadania i kompetencje od dnia 1 stycznia 1999 r. do czasu powołania we właściwym trybie wojewódzkich inspektorów nadzoru budowlanego, nie dłużej jednak niż do dnia 30 czerwca 1999 r.
+1. Inspektor Nadzoru Budowlane go, w uzgodnieniu z Delegatem do dnia 30 listo pada 1998 r. powierzy woje wódzkiego inspektora nadzoru budowlanego osobie, która jest pracownikiem aparatu wykonawczego orga nów nadzoru budowlanego. Z art. 41 i 42 wojewódzkiego inspektora nadzoru budowlanego swoje zadania i kom petencje od dnia 1 stycznia 1999 r. do czasu we trybie wojewódzkich inspektorów nad zoru budowlanego, nie jednak do dnia 30 czerwca 1999 r.
 
-2. Pracownicy Głównego Urzędu Nadzoru Budowlanego zatrudnieni w terenowych biurach inspekcyjno–kontrolnych mających siedziby w miastach będących z dniem 1 stycznia 1999 r. siedzibami wojewodów stają się z tym dniem pracownikami wojewódzkich inspektoratów nadzoru budowlanego.
+2. Pracownicy Nadzoru Budow lanego zatrudnieni w terenowych biurach inspekcyjno -kontrolnych, siedziby w miastach z dniem 1 stycznia 1999 r. siedzibami wojewodów, sta
 
-3. Pracownicy dotychczasowych urzędów wojewódzkich wykonujący zadania z zakresu nadzoru budowlanego, określone w art. 83 ustawy z dnia 7 lipca 1994 r. Prawo budowlane (Dz.U. Nr 89, poz. 414, z 1996 r. Nr 100, poz. 465, Nr 106, poz. 496 i Nr 146, poz. 680, z 1997 r. Nr 88, poz. 554 i Nr 111, poz. 726 oraz z 1998 r. Nr 22, poz. 118, Nr 106, poz. 668), stają się z dniem 1 stycznia 1999 r. pracownikami wojewódzkich inspektoratów nadzoru budowlanego. Przepis art. 57 i 58 stosuje się odpowiednio.
+3. Pracownicy dotychczasowych z tym dniem pracownikami wojewódzkich in spektoratów nadzoru budowlanego. woje wódzkich zadania z zakresu nadzoru bu dowlanego, wart. 83 ustawy z dnia 7 lipca 1994 r. Prawo budowlane (Dz. U. 89, poz. 414, z 1996 r. 100, poz. 465, 106, poz. 496 i 146, poz. 680, z 1997 r. 88, poz. 554 i 111, poz. 726 oraz z 1998 r. 22, poz. 118 i 106, poz. 668), z dniem 1 stycznia 1999 r. pracownikami wojewódzkich inspektoratów nadzoru budowlanego. Przepisy art. 57 i 58 stosuje odpowiednio.
 
-**Art. 40.** Z dniem 1 stycznia 1999 r. w miastach będących siedzibami władz powiatów tworzy się powiatowe inspektoraty nadzoru budowlanego.
+**Art. 40.** Z dniem 1 stycznia 1999 r. w miastach siedzibami powiatów tworzy powia towe inspektoraty nadzoru budowlanego.
 
 **Art. 41.**
 
-1. Pełniący obowiązki wojewódzkiego inspektora nadzoru budowlanego, w uzgodnieniu z Delegatem Rządu, do dnia 15 grudnia 1998 r. powierzy pełnienie obowiązków powiatowego inspektora nadzoru budowlanego osobie będącej pracownikiem aparatu wykonawczego organów nadzoru budowlanego. Pełniący obowiązki powiatowego inspektora nadzoru budowlanego wykonują swoje kompetencje od dnia 1 stycznia 1999 r. do czasu powołania we właściwym trybie powiatowych inspektorów nadzoru budowlanego, nie dłużej jednak niż do dnia 30 czerwca 1999 r.
+1. wojewódzkiego in spektora nadzoru budowlanego, w uzgodnieniu z De legatem do dnia 15 grudnia 1998 r. powierzy powiatowego inspektora nad zoru budowlanego osobie pracownikiem apa ratu wykonawczego organów nadzoru budowlanego. powiatowego inspektora nadzoru budowlanego swoje kompetencje od dnia 1 stycznia 1999 r. do czasu we trybie powiatowych inspektorów nadzoru budowlane go, nie jednak do dnia 30 czerwca 1999 r.
 
-2. Pracownicy urzędów rejonowych wykonujący zadania z zakresu nadzoru budowlanego, stają się z dniem 1 stycznia 1999 r. pracownikami powiatowych inspektoratów nadzoru budowlanego. Przepis art. 57 i 58 stosuje się odpowiednio.
+2. Pracownicy rejonowych zadania z zakresu nadzoru budowlanego z dniem 1 stycznia 1999 r. pracownikami powiatowych inspektoratów nadzoru budowlanego. Przepisy art. 57 i 58 stosuje odpowiednio.
 
-3. Wykazy pracowników, o których mowa w ust. 2, przygotowuje kierownik urzędu rejonowego.
+3. Wykazy pracowników, o których mowa w ust. 2, przygotowuje kierownik rejonowego.
 
 **Art. 42.**
 
-1. Organizację wojewódzkiego inspektoratu nadzoru budowlanego określa tymczasowy regulamin organizacyjny, ustalony, w uzgodnieniu z Delegatem Rządu, do dnia 31 grudnia 1998 r. przez pełniącego obowiązki wojewódzkiego inspektora nadzoru budowlanego.
+1. wojewódzkiego inspektora tu nadzoru budowlanego tymczasowy regula min organizacyjny, ustalony, w uzgodnieniu z Delega tem do dnia 31 grudnia 1998 r. przez go wojewódzkiego inspektora nadzoru bu dowlanego.
 
-2. Organizację powiatowych inspektoratów nadzoru budowlanego określają tymczasowe regulaminy organizacyjne, ustalone przez pełniących obowiązki wojewódzkich inspektorów nadzoru budowlanego.
+2. powiatowych inspektoratów nadzo ru budowlanego tymczasowe regulaminy or ganizacyjne, ustalone przez wo jewódzkich inspektorów nadzoru budowlanego.
 
 **Art. 43.**
 
-1. Dotychczasowe wojewódzkie fundusze, których siedziby znajdują się w miastach nie będących z dniem 1 stycznia 1999 r. siedzibami władz samorządów województw, włącza się z tym dniem do dotychczasowego wojewódzkiego funduszu, którego siedzibą jest miasto będące siedzibą władz samorządu województwa.
+1. Dotychczasowe wojewódzkie fundusze, których siedziby w miastach nie z dniem 1 stycznia 1999 r. siedzibami dów województw, z tym dniem do dotych czasowego wojewódzkiego funduszu, którego jest miasto woje wództwa.
 
-2. Dotychczasowy wojewódzki fundusz, którego siedzibą jest miasto będące z dniem 1 stycznia 1999 r. siedzibą władz samorządu województwa, z włączonymi wojewódzkimi funduszami, o których mowa w ust. 1, staje się z tym dniem wojewódzkim funduszem i wstępuje w prawa i obowiązki dotychczasowych wojewódzkich funduszy.
+2. Dotychczasowy wojewódzki fundusz, którego jest miasto z dniem 1 stycznia 1999 r. województwa, z mi wojewódzkimi funduszami, o których mowa w ust. 1, staje z tym dniem wojewódzkim funduszem i w prawa i dotychczasowych wo jewódzkich funduszy.
 
-3. Zarządy dotychczasowych wojewódzkich funduszy sporządzą, do dnia 31 grudnia 1998 r., wykaz zobowiązań i wierzytelności tych funduszy.
+3. dotychczasowych wojewódzkich fundu szy do dnia 31 grudnia 1998 r., wykaz zobo i tych funduszy.
 
-4. Z dniem wejścia w życie ustawy dotychczasowe wojewódzkie fundusze nie mogą zaciągać zobowiązań obciążających majątek funduszu statutowego i rezerwowego.
+4. Z dniem w ustawy dotychczasowe wojewódzkie fundusze nie funduszu statutowego i rezer wowego.
 
 **Art. 44.**
 
-1. Z dniem 31 grudnia 1998 r. wygasają akty powołania prezesów zarządów oraz zastępców prezesów zarządów dotychczasowych wojewódzkich funduszy, których siedziby znajdują się w miastach nie będących z dniem 1 stycznia 1999 r. siedzibami władz samorządu województwa.
+1. Z dniem 31 grudnia 1998 r. ak ty prezesów oraz pre zesów dotychczasowych wojewódzkich fun duszy, których siedziby w miastach nie z dniem 1 stycznia 1999 r. siedzibami sa województwa.
 
-2. Z dniem 1 stycznia 1999 r. prezesi zarządów oraz zastępcy prezesów zarządów dotychczasowych wojewódzkich funduszy, których siedziby znajdują się w miastach będących z dniem 1 stycznia 1999 r. siedzibami władz samorządu województwa, do czasu powołania zarządów wojewódzkich funduszy we właściwym trybie pełnią obowiązki odpowiednio prezesów zarządów lub ich zastępców.
+2. Z dniem 1 stycznia 1999 r. prezesi oraz prezesów dotychczasowych woje wódzkich funduszy, których siedziby w miastach z dniem 1 stycznia 1999 r. siedzi bami województwa, do czasu powo wojewódzkich funduszy we trybie odpowiednio prezesów dów lub ich
 
-3. Z dniem 31 grudnia 1998 r. rady nadzorcze dotychczasowych wojewódzkich funduszy ulegają rozwiązaniu. Do dnia 31 stycznia 1999 r. zarządy województw powołają rady nadzorcze wojewódzkich funduszy.
+3. Z dniem 31 grudnia 1998 r. rady nadzorcze do tychczasowych wojewódzkich funduszy roz Do dnia 31 stycznia 1999 r. woje wództw rady nadzorcze wojewódzkich fun duszy.
 
-**Art. 45.** Do czasu nadania statutu wojewódzkiemu funduszowi stosuje się statut dotychczasowego wojewódzkiego funduszu, którego siedzibą jest miasto będące z dniem 1 stycznia 1999 r. siedzibą władz samorządu województwa.
+**Art. 45.** Do czasu nadania statutu wojewódzkiemu funduszowi stosuje statut dotychczasowego woje wódzkiego funduszu, którego jest miasto z dniem 1 stycznia 1999 r. samo województwa.
 
 **Art. 46.**
 
-1. Minister Transportu i Gospodarki Morskiej, w drodze zarządzenia wydanego do dnia 30 listopada 1998 r., wydzieli z dniem 31 grudnia 1998 r., z przedsiębiorstwa państwowego „Polskie Koleje Państwowe” 16 jednostek organizacyjnych o nazwie „Okręgowy Inspektorat Sanitarny Polskich Kolei Państwowych” i utworzy z nich z tym dniem państwowe jednostki organizacyjne publiczne zakłady opieki zdrowotnej - o nazwie „kolejowa stacja sanitarnoepidemiologiczna”.
+1. Minister Transportu i Gospodarki Mor skiej, w drodze wydanego do dnia 30 listo pada 1998 r., wydzieli z dniem 31 grudnia 1998 r. z "Polskie Koleje stwowe" 16 jednostek organizacyjnych o nazwie Inspektorat Sanitarny Polskich Kolei stwowych" i utworzy z nich z tym dniem jednostki organizacyjne publiczne opieki zdrowotnej o nazwie "kolejowa stacja sanitarno-epi demiologiczna" .
 
-2. Z dniem 1 stycznia 1999 r. kolejowe stacje sanitarno-epidemiologiczne, o których mowa w ust. 1, stają się jednostkami organizacyjnymi stanowiącymi aparat pomocniczy kolejowego inspektora sanitarnego.
+2. Z dniem 1 stycznia 1999 r. kolejowe stacje sani tarno-epidemiologiczne, o których mowa w ust. 1, sta jednostkami organizacyjnymi apa rat pomocniczy kolejowego inspektora sanitarnego.
 
-3. Z dniem 1 stycznia 1999 r. dotychczasowi okręgowi inspektorzy sanitarni Polskich Kolei Państwowych stają się pełniącymi obowiązki kolejowych inspektorów sanitarnych do czasu powołania kolejowych inspektorów sanitarnych, nie dłużej jednak niż do dnia 30 czerwca 1999 r.
+3. Z dniem 1 stycznia 1999 r. dotychczasowi gowi inspektorzy sanitarni Polskich Kolei wych kolejowych in spektorów sanitarnych do czasu kolejo wych inspektorów sanitarnych, nie jednak do dnia 30 czerwca 1999 r.
 
-4. Z dniem 1 stycznia 1999 r. portowe stacje sanitarno-epidemiologiczne stają się jednostkami organizacyjnymi stanowiącymi aparat pomocniczy portowych inspektorów sanitarnych.
+4. Z dniem 1 stycznia 1999 r. portowe stacje sani tarno-epidemiologiczne jednostkami organi zacyjnymi aparat pomocniczy porto wych inspektorów sanitarnych.
 
-5. Z dniem 1 stycznia 1999 r. dotychczasowi portowi inspektorzy sanitarni stają się pełniącymi obowiązki portowych inspektorów sanitarnych do czasu powołania portowych inspektorów sanitarnych, nie dłużej jednak niż do dnia 30 czerwca 1999 r.
+5. Z dniem 1 stycznia 1999 r. dotychczasowi porto wi inspektorzy sanitarni ki portowych inspektorów sanitarnych do czasu powo portowych inspektorów sanitarnych, nie jednak do dnia 30 czerwca 1999 r.
 
 **Art. 47.**
 
-1. Z dniem 1 stycznia 1999 r. jednostki samorządu terytorialnego przejmują uprawnienia organu administracji rządowej, który utworzył samodzielny publiczny zakład opieki zdrowotnej, w rozumieniu przepisów o zakładach opieki zdrowotnej.
+1. Z dniem 1 stycznia 1999 r. jednostki sa terytorialnego uprawnienia orga nu administracji który samodzielny publiczny opieki zdrowotnej, w rozumieniu przepisów o opieki zdrowotnej.
 
-1a. Uprawnienia, o których mowa w ust. 1, w stosunku do samodzielnych publicznych zakładów opieki zdrowotnej przejmują gminy, powiaty i samorządy województw, odpowiednio do swoich kompetencji, przy uwzględnieniu:
+2. Prezes Rady Ministrów do dnia 30 listopa da 1998 r., w drodze wykaz o których mowa w ust. 1, oraz jednostek te rytorialnego do orga nu, który je
 
-- **1)** miejsca usytuowania zakładu, w tym jego jednostek lub komórek organizacyjnych,
-- **2)** dostępności świadczeń zdrowotnych udzielanych przez zakład oraz znaczenia zakładu ze względu na zakres i rodzaj udzielanych świadczeń zdrowotnych na obszarze województwa.
-
-2. (uchylony).
-
-2a. Prezes Rady Ministrów określi, w drodze rozporządzenia, wykaz samodzielnych publicznych zakładów opieki zdrowotnej, które zostały przejęte przez gminy, powiaty i samorządy województw, uwzględniając przepisy ust. 1 i 1a.
-
-3. Przejęcie zakładów, o których mowa w ust. 1, następuje w trybie i na zasadach określonych w niniejszej ustawie, z tym że majątek ruchomy Skarbu Państwa, przekazany w nieodpłatne użytkowanie samodzielnym publicznym zakładom opieki zdrowotnej, staje się z dniem 1 stycznia 1999 r. własnością tych zakładów.
+3. o których mowa w ust. 1, na w trybie i na zasadach w niniejszej ustawie, z tym ruchomy Skarbu przekazany w samodzielnym publicznym opieki zdrowotnej, staje z dniem 1 stycznia 1999 r. tych
 
 **Art. 48.**
 
-1. Z dniem 1 stycznia 1999 r. powiaty przejmują publiczne szkoły podstawowe specjalne, szkoły ponadpodstawowe, szkoły sportowe i mistrzostwa sportowego oraz placówki wymienione w art. 2 pkt 3-5 i 7 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz.U. z 1996 r. Nr 67, poz. 329 i Nr 106, poz. 496, z 1997 r. Nr 28, poz. 153 i Nr 141, poz. 943, oraz z 1998 r. Nr 117, poz. 759), z zastrzeżeniem ust. 2, prowadzone do dnia 31 grudnia 1998 r. przez dotychczasowych wojewodów oraz właściwych ministrów.
+1. Z dniem 1 stycznia 1999 r. powiaty przej publiczne podstawowe speCJalne, ponadpodstawowe, sportowe i mistrzostwa sportowego oraz placówki wymienione wart. 2 pkt 3-5 i 7 ustawy z dnia 7 1991 r. o systemie (Dz. U. z 1996 r. 67, poz. 329 i 106, poz. 496, z 1997 r. 28, poz. 153 i 141, poz. 943 oraz z 1998 r. 117, poz. 759), z ust. 2, pro wadzone do dnia 31 grudnia 1998 r. przez dotychczaso wych wojewodów oraz ministrów.
 
-2. Z dniem 1 stycznia 1999 r. samorządy województw przejmują publiczne zakłady kształcenia i placówki doskonalenia nauczycieli - z wyjątkiem placówek o zasięgu ogólnokrajowym, biblioteki pedagogiczne oraz szkoły i placówki o znaczeniu regionalnym określone w odrębnych przepisach, prowadzone do dnia 31 grudnia 1998 r. przez dotychczasowych wojewodów oraz właściwych ministrów.
+2. Z dniem 1 stycznia 1999 r. woje wództw publiczne i pla cówki doskonalenia nauczycieli z placó wek o ogólnokrajowym, biblioteki pedagogicz ne oraz i placówki o znaczeniu regionalnym w przepisach, prowadzone do dnia 31 grudnia 1998 r. przez dotychczasowych woje wadów oraz ministrów.
 
-3. Przejęcie szkół i placówek wymienionych w ust. 1 i 2 następuje w trybie i na zasadach określonych w niniejszej ustawie. Przepis art. 89 stosuje się odpowiednio.
+3. i placówek wymienionych w ust. 1 i 2 w trybie i na zasadach w ni niejszej ustawie. Przepis art. 89 stosuje odpowied nio.
 
-**Art. 49.** (uchylony)
+**Art. 49.**
 
-**Art. 50.** Z dniem 1 stycznia 1999 r. minister właściwy do spraw oświaty i wychowania przejmuje placówki doskonalenia nauczycieli o zasięgu ogólnokrajowym, prowadzone dotychczas przez właściwych ministrów.
+1. Z dniem 1 stycznia 2001 r. i prowadzenie artystycznych przechodzi odpo wiednio do woje wództwa lub powiatu.
 
-**Art. 50a.**
+2. i prowadzenie artystycznych do sa województwa lub powiatu w terminie wcze w ust. 1, w drodze porozumie nia organem odpowiedniej jednostki du terytorialnego a ministrem do spraw kultury.
 
-1. Muzeum Narodowe Rolnictwa i Przemysłu Rolno-Spożywczego w Szreniawie, na podstawie uchwały Sejmiku Województwa Wielkopolskiego, może być przekazane ministrowi właściwemu do spraw rolnictwa.
+3. Do czasu, o którym mowa w ust. 1 i 2, i prowadzenie artystycznych do ministra do spraw kultury.
 
-2. Przekazanie, o którym mowa w ust. 1, następuje w drodze porozumienia zawartego między Marszałkiem Województwa Wielkopolskiego a ministrem właściwym do spraw rolnictwa.
+**Art. 50.** Z dniem 1 stycznia 1999 r. minister wy do spraw i wychowania przejmuje placów ki doskonalenia nauczycieli o ogólnokrajo wym, prowadzone dotychczas przez mini strów.
 
-3. Porozumienie, o którym mowa w ust. 2, stanowi podstawę do wykreślenia Muzeum Narodowego Rolnictwa i Przemysłu Rolno-Spożywczego w Szreniawie z rejestru instytucji kultury prowadzonego przez Samorząd Województwa Wielkopolskiego i wpisania do rejestru prowadzonego przez ministra właściwego do spraw rolnictwa.
-
-4. Z dniem wpisania do rejestru prowadzonego przez ministra właściwego do spraw rolnictwa Muzeum Narodowe Rolnictwa i Przemysłu Rolno-Spożywczego w Szreniawie staje się państwową instytucją kultury i zachowuje swój majątek.
-
-**Art. 51.** (uchylony)
-
-#### Rozdział 3 Sprawy pracownicze
+**Art. 51.** Do nauczycieli zatrudnionych w Centralnej Komisji Egzaminacyjnej, komisjach egza minacyjnych i w specjalistycznych jednostkach nadzo ru, o których mowa odpowiednio wart. 9a ust. 1, art. 9c ust. 1 i wart. 32a ust. 1 ustawy z dnia 7 1991 r. o systemie na stanowiskach wymaga kwalifikacji pedagogicznych, stosuje przepi sy ustawy z dnia 26 stycznia 1982 r. Karta Nauczycie la (Dz. U. z 1997 r. 56, poz. 357 i z 1998 r. 106, poz. 668) nauczycieli zatrudnionych w dach organów administracji 3 Sprawy pracownicze
 
 **Art. 52.**
 
-1. Pracownicy dotychczasowych urzędów wojewódzkich, wykonujący do dnia wejścia w życie ustawy zadania i kompetencje podlegające przejęciu przez samorząd województwa lub powiat, z dniem 1 stycznia 1999 r. stają się odpowiednio pracownikami urzędu marszałkowskiego lub starostwa powiatowego.
+1. Pracownicy dotychczasowych wojewódzkich, do dnia w ustawy zadania i kompetencje przez województwa lub powiat, z dniem 1 stycznia 1999 r. odpowiednio pracownikami lub starostwa powiatowe go.
 
-2. Pracownicy dotychczasowych urzędów wojewódzkich, nie wymienieni w ust. 1, wykonujący z upoważnienia wojewody jego zadania i kompetencje, z dniem 1 stycznia 1999 r. stają się pracownikami urzędu wojewódzkiego.
+2. Pracownicy dotychczasowych woje wódzkich, nie wymienieni w ust. 1, z upo wojewody jego zadania i kompetencje, z dniem 1 stycznia 1999 r. pracownikami du wojewódzkiego.
 
 **Art. 53.**
 
-1. Pracownicy urzędów rejonowych i zamiejscowych jednostek tych urzędów, mających siedziby na obszarze powiatu, z dniem 1 stycznia 1999 r. stają się odpowiednio pracownikami starostwa powiatowego lub urzędu miasta, zgodnie z art. 14 ust. 1.
+1. Pracownicy rejonowych i za miejscowych jednostek tych sie dziby na obszarze powiatu, z dniem 1 stycznia 1999 r. odpowiednio pracownikami starostwa powia towego lub miasta, zgodnie z art. 14 ust. 1.
 
-2. Do kierowników urzędów rejonowych oraz ich zastępców stosuje się przepis ust. 1 oraz odpowiednio przepisy art. 29 ust. 2.
+2. Do kierowników rejonowych oraz ich stosuje przepis ust. 1 oraz odpowiednio przepisy art. 29 ust. 2.
 
-**Art. 54.** Pracownicy urzędów terenowych organów rządowej administracji specjalnej i jednostek organizacyjnych wchodzących w skład rządowej administracji ogólnej, wykonujący zadania i kompetencje, które z dniem 1 stycznia 1999 r. stają się zadaniami i kompetencjami służb, inspekcji i straży działających pod zwierzchnictwem wojewody lub starosty albo urzędów wojewódzkich, marszałkowskich lub starostw powiatowych, z tym dniem stają się pracownikami jednostek organizacyjnych stanowiących aparat pomocniczy kierowników odpowiednich służb, inspekcji i straży wojewódzkich lub powiatowych albo odpowiednich urzędów.
+**Art. 54.** Pracownicy terenowych organów administracji specjalnej i jednostek organiza cyjnych w administracji ogólnej, zadania i kompetencje, które z dniem 1 stycznia 1999 r. zadaniami i kompe tencjami inspekcji i pod zwierzchnictwem wojewody lub starosty albo wojewódzkich, lub starostw powia towych, z tym dniem pracownikami jednostek organizacyjnych aparat pomocniczy kie rowników odpowiednich inspekcji i woje wódzkich lub powiatowych albo odpowiednich dów.
 
 **Art. 55.**
 
-1. Stosownie do podziału zadań i kompetencji między administrację rządową a jednostki samorządu terytorialnego pracownicy dotychczasowych państwowych jednostek organizacyjnych nie wymienieni w art. 52-54 stają się z dniem 1 stycznia 1999 r. pracownikami odpowiednio wojewódzkich samorządowych lub powiatowych jednostek organizacyjnych albo jednostek podległych lub podporządkowanych wojewodzie.
+1. Stosownie do i kompe tencji a jednostki samo terytorialnego pracownicy dotychczasowych jednostek organizacyjnych nie wymie nieni wart. 52-54 pracownikami odpowiednio wojewódzkich z dniem 1 stycznia 1999 r. dowych lub powiatowych jednostek organizacyjnych albo jednostek lub wojewodzie.
 
-2. Osoby pełniące na podstawie dotychczas obowiązujących przepisów funkcje kierowników jednostek, o których mowa w ust. 1, z wyjątkiem osób wymienionych w art. 29, stają się z dniem 1 stycznia 1999 r. kierownikami tych jednostek.
+2. Osoby na podstawie dotychczas obo przepisów funkcje kierowników jedno stek, o których mowa w ust. 1, z osób wy mienionych wart. 29, z dniem 1 stycznia 1999 r. kierownikami tych jednostek.
 
 **Art. 56.**
 
-1. Pracownicy biur wojewódzkich sejmików samorządowych mających siedziby na obszarze województwa z dniem 1 stycznia 1999 r. stają się pracownikami urzędu marszałkowskiego w tym województwie.
+1. Pracownicy biurwojewódzkich sejmików siedziby na obszarze woje wództwa z dniem 1 stycznia 1999 r. pracowni kami w tym województwie.
 
-2. Pracownicy urzędów miejskich stref usług publicznych mających siedziby w miastach będących siedzibami starostw powiatowych z dniem 1 stycznia 1999 r. stają się pracownikami tych starostw.
+2. Pracownicy miejskich stref pu blicznych siedziby w miastach sie dzibami starostw powiatowych z dniem 1 stycznia 1999 r. pracownikami tych starostw.
 
-3. Marszałek województwa przejmuje, z dniem wyboru, uprawnienia pracodawcy w stosunku do pracowników biur wojewódzkich sejmików samorządowych mających siedzibę na obszarze województwa.
+3. województwa przejmuje, z dniem wy boru, uprawnienia pracodawcy w stosunku do pracow ników biur wojewódzkich sejmików na obszarze województwa.
 
 **Art. 57.**
 
-1. Pracodawcy zatrudniający pracowników, o których mowa w art. 5254 i w art. 56, w terminie do dnia 30 października 1998 r. przygotują imienne wykazy osób wykonujących z upoważnienia wojewody jego zadania i kompetencje podlegające przejęciu, odpowiednio do ich podziału, przez jednostki samorządu terytorialnego i administrację rządową w województwie.
+1. Pracodawcy pracowników, o których mowa wart. 52-54 i wart. 56, w terminie do dnia 30 1998 r., imienne wyka zy osób z wojewody jego zadania i kompetencje odpo wiednio do ich przez jednostki te rytorialnego i w województwie.
 
-2. Pracodawcy, o których mowa w ust.1, są obowiązani do dnia 15 listopada 1998 r. podać na piśmie zainteresowanym pracownikom dane dotyczące nazwy i siedziby nowego pracodawcy. Przepisy art. 231 § 4 Kodeksu pracy stosuje się odpowiednio.
+2. Pracodawcy, o których mowa w ust.l, zani do dnia 15 listopada 1998 r. na zain teresowanym pracownikom dane nazwy i siedziby nowego pracodawcy. Przepisy art. 23' 4 Ko deksu pracy stosuje odpowiednio.
 
-3. Delegat Rządu ustali i przekaże zbiorcze wykazy osób przechodzących do jednostek samorządu terytorialnego odpowiednio dotychczasowemu wojewodzie, marszałkowi województwa i starostom, a w miastach na prawach powiatu prezydentom miast.
+3. Delegat ustali i zbiorcze wykazy osób do jednostek teryto rialnego odpowiednio dotychczasowemu wojewodzie, województwa i starostom, a w miastach na prawach powiatu prezydentom miast.
 
-4. Przepis ust. 3 stosuje się odpowiednio w przypadku, gdy:
+4. Przepis ust. 3 stosuje odpowiednio w przy padku, gdy:
 
-- **1)** obszar działania urzędów rejonowych, urzędów organów administracji specjalnej i urzędów miejskich stref usług publicznych nie odpowiada obszarowi powiatu,
-- **2)** obszar działania wojewódzkiego sejmiku samorządowego nie odpowiada obszarowi województwa.
+- **1)** obszar rejonowych, or ganów administracji specjalnej i miej skich stref publicznych nie odpowiada ob szarowi powiatu,
+- **2)** obszar wojewódzkiego sejmiku dowego nie odpowiada obszarowi województwa.
 
 **Art. 58.**
 
-1. Stosunki pracy z pracownikami, o których mowa w art. 52–54 i 56, wygasają z dniem 30 czerwca 1999 r., jeżeli przed dniem 31 maja 1999 r. nie zostaną im zaproponowane nowe warunki pracy lub płacy na dalszy okres albo w razie ich nieprzyjęcia do dnia 15 czerwca 1999 r.
+1. Stosunki pracy z pracownikami, o któ rych mowa wart. 52-54 i 56, z dniem 30 czerwca 1999 r., przed dniem 31 maja 1999 nie im zaproponowane nowe warunki pracy lub na dalszy okres albo w razie ich do dnia 15 czerwca 1999 r.
 
-2. Pracodawca obowiązany jest powiadomić na piśmie pracownika odpowiednio o terminie wygaśnięcia stosunku pracy albo o skutkach nieprzyjęcia nowych warunków pracy lub płacy. zmiana w art. 58 w ust. 3 - wyrok TK (Dz.U. z 2000 r. Nr 17, poz. 228).
+2. Pracodawca jest na pi pracownika odpowiednio o terminie stosunku pracy albo o skutkach nowych warunków pracy i
 
-3. Wcześniejsze rozwiązanie stosunku pracy przez pracodawcę może nastąpić za wypowiedzeniem. [Przepis art. 411 Kodeksu pracy stosuje się odpowiednio.]
+3. stosunku pracy przez za wypowiedzeniem. Prze pis art. 41 Kodeksu pracy stosuje odpowiednio.
 
-4. Pracownicy, o których mowa w ust. 1, zachowują uprawnienia pracownicze wynikające z aktów, na których podstawie powstał ich stosunek pracy przed dniem 1 stycznia 1999 r., do dnia:
+4. Pracownicy, o których mowa w ust. 1, zachowu uprawnienia pracownicze z aktów, na których podstawie ich stosunek pracy przed dniem 1 stycznia 1999 r., do dnia:
 
-- **1)** 15 czerwca 1999 r., jeżeli przyjęli proponowane warunki pracy lub płacy na dalszy okres, albo
-- **2)** wygaśnięcia stosunku pracy, o którym mowa w ust. 1, albo
+- **1)** 15 czerwca 1999 r., proponowane wa runki pracy lub na dalszy okres, albo
+- **2)** stosunku pracy, o którym mowa w ust. 1, albo
 - **3)** wypowiedzenia, o którym mowa w ust. 3.
 
-5. W przypadku wygaśnięcia stosunku pracy, o którym mowa w ust. 1, lub wypowiedzenia, o którym mowa w ust. 3, pracownikom:
+5. W przypadku stosunku pracy, o któ rym mowa w ust. 1, lub wypowiedzenia, o którym mo wa w ust. 3, pracownikom:
 
-- **1)** mianowanym - przysługuje świadczenie pieniężne przewidziane w art. 131 ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych (Dz.U. Nr 31, poz. 214, z 1984 r. Nr 35, poz. 187, z 1988 r. Nr 19, poz. 132, z 1989 r. Nr 4, poz. 24, Nr 34, poz. 178 i 182, z 1990 r. Nr 20, poz.121, z 1991 r. Nr 55, poz. 234, Nr 88, poz. 400 i Nr 95, poz. 425, z 1992 r. Nr 54, poz. 254 i Nr 90, poz. 451, z 1994 r. Nr 136, poz. 704, z 1995 r. Nr 132, poz 640, z 1996 r. Nr 89, poz. 402 i Nr 106, poz. 496, oraz z 1997 r. Nr 98, poz 604, Nr 133, poz. 882 i 883 i Nr 141, poz. 943 oraz z 1998 r. Nr 131, poz. 860),
-- **2)** innym niż wymienieni w pkt 1 - przysługuje odprawa, o której mowa w art. 8 ustawy z dnia 28 grudnia 1989 r. o szczególnych zasadach rozwiązywania z pracownikami stosunków pracy z przyczyn dotyczących zakładu pracy oraz o zmianie niektórych ustaw (Dz.U. z 1990 r. Nr 4, poz.19, Nr 10, poz 59 i Nr 51, poz. 298, z 1991 r. Nr 83, poz. 372, Nr 106, poz. 457 i Nr 113, poz. 491, z 1992 r. Nr 21, poz. 84, z 1994 r. Nr 1, poz. 1 oraz z 1996 r. Nr 24, poz. 110).
+- **1)** mianowanym ne przewidziane wart. 13 ustawy z dnia 16 wrze 1982 r. o pracownikach wych (Dz. U. 31, poz. 214, z 1984 r. 35, poz. 187, z 1988 r. 19, poz. 132, z 1989 r. 4, poz. 24, 34, poz. 178 i 182, z 1990 r. 20, poz.121, z 1991 r. 55, poz. 234, 88, poz. 400 i 95, poz. 425, z 1992 r. 54, poz. 254 i 90, poz. 451, z 1994 r. 136, poz. 704, z 1995 r. 132, poz. 640, z 1996 r. 89, poz. 402 i 106, poz. 496, z 1997 r. 98, poz. 604, 133, poz. 882 i 883 i 141, poz. 943 oraz z 1998 r. 131, poz. 860),
+- **2)** innym wymienieni w pkt 1 odpra wa, o której mowa art. 8 ustawy z dnia 28 grud nia 1989 r. o szczególnych zasadach z pracownikami stosunków pracy z przyczyn doty pracy oraz o zmianie niektórych ustaw (Dz. U. z 1990 r. 4, poz.19, 10, poz. 59 i 51, poz. 298, z 1991 r. 83, poz. 372, 106, poz. 457 i 113, poz. 491, z 1992 r. 21, poz. 84, z 1994 r. 1, poz. 1 oraz z 1996 r. 24, poz. 110).
 
-6. Przepisy ust. 4 i 5 stosuje się odpowiednio do osób, o których mowa w art. 29.
+6. Przepisy ust. 4 i 5 stosuje odpowiednio do osób, o których mowa wart. 29.
 
 **Art. 59.**
 
-1. Z dniem 31 grudnia 1998 r. znosi się komisje dyscyplinarne:
+1. Z dniem 31 grudnia 1998 r. znosi ko misje dyscyplinarne:
 
-- **1)** działające przy kierownikach urzędów rejonowych,
-- **2)** pierwszej instancji, działające przy dotychczasowych wojewodach mających siedziby w miastach, które po tym dniu nie będą siedzibami wojewodów,
-- **3)** drugiej instancji, działające przy dotychczasowych wojewodach mających siedziby w miastach, które po tym dniu nie będą siedzibami wojewodów.
+- **1)** przy kierownikach rejonowych,
+- **2)** pierwszej instancji, przy dotychczaso wych wojewodach siedziby w miastach, które po tym dniu nie siedzibami wojewo dów,
+- **3)** drugiej instancji, przy dotychczasowych wojewodach siedziby w miastach, które po tym dniu nie dach w miastach siedzibami wojewodów.
 
-2. Z dniem 1 stycznia 1999 r. komisje dyscyplinarne pierwszej instancji przy dotychczasowych wojewodach w miastach będących z tym dniem siedzibami wojewodów stają się odpowiednimi komisjami dyscyplinarnymi działającymi przy wojewodach.
+2. Z dniem 1 stycznia 1999 r. komisje dyscyplinarne pierwszej instancji przy dotychczasowych woj ewoz tym dniem siedzibami wojewodów odpowiednimi komisjami dyscy plinarnymi przy wojewodach.
 
-3. Komisje, o których mowa w ust. 2, działają do czasu powołania nowych komisji, nie dłużej jednak niż do dnia 30 czerwca 1999 r.
+3. Komisje, o których mowa w ust. 2, do czasu nowych komisji, nie jednak do dnia 30 czerwca 1999 r.
 
-4. Sprawy dyscyplinarne wszczęte przed dniem 1 stycznia 1999 r. przez komisje, o których mowa w ust. 1, przekazuje się właściwym komisjom, o których mowa w ust. 2.
-
-#### Rozdział 4 Nabycie mienia
+4. Sprawy dyscyplinarne przed dniem stycznia 1999 r. przez komisje, o których mowa w ust. 1, przekazuje komisjom, o któ rych mowa w ust. 2. 4 Nabycie mienia
 
 **Art. 60.**
 
-1. Mienie Skarbu Państwa będące we władaniu instytucji i państwowych jednostek organizacyjnych przejmowanych z dniem 1 stycznia 1999 r. przez jednostki samorządu terytorialnego na podstawie przepisów ustawy kompetencyjnej oraz przepisów niniejszej ustawy z tym dniem staje się z mocy prawa mieniem właściwych jednostek samorządu terytorialnego, chyba że przepis szczególny stanowi inaczej.
+1. Mienie Skarbu we daniu instytucji i jednostek organizacyj nych przejmowanych z dniem 1 stycznia 1999 r. przez jednostki terytorialnego na podstawie przepisów ustawy kompetencyjnej oraz przepisów ni niejszej ustawy z tym dniem staje z mocy prawa mieniem jednostek terytorial nego, chyba przepis szczególny stanowi inaczej.
 
-2. Państwowe osoby prawne, które z dniem 1 stycznia 1999 r. stają się samorządowymi osobami prawnymi, zachowują swój majątek.
+2. osoby prawne, które z dniem 1 stycz nia 1999 r. osobami prawny mi, swój
 
-3. Nabycie mienia, o którym mowa w ust. 1, stwierdza wojewoda w drodze decyzji. Przepisu art. 49 ust. 1 ustawy o samorządzie województwa nie stosuje się.
+3. Nabycie mienia, o którym mowa w ust. 1, stwier dza wojewoda w drodze decyzji. Przepisu art. 49 ust. 1 ustawy o województwa nie stosuje
 
-4. Przepis ust. 3 stosuje się również w przypadkach, gdy nabycie mienia Skarbu Państwa z mocy prawa przez jednostki samorządu terytorialnego przewidują odrębne przepisy.
+4. Przepis ust. 3 stosuje w przypadkach, gdy nabycie mienia Skarbu z mocy prawa przez jednostki terytorialnego przepisy.
 
 **Art. 61.**
 
-1. Mienie Skarbu Państwa będące we władaniu instytucji i państwowych jednostek organizacyjnych nie przejmowanych w całości przez jednostki samorządu terytorialnego podlega przekazaniu po uprzednim wygaśnięciu zarządu lub trwałego zarządu.
+1. Mienie Skarbu we daniu instytucji i jednostek organizacyj nych nie przejmowanych w przez jednostki sa terytorialnego podlega przekazaniu po uprzednim lub
 
-2. Przekazanie części mienia państwowej osoby prawnej jednostce samorządu terytorialnego, wynikające z częściowego przejęcia zadań i kompetencji przez tę jednostkę, następuje po uprzednim przekształceniu tej osoby prawnej, dokonanym zgodnie z właściwymi przepisami.
+2. Przekazanie mienia osoby prawnej jednostce terytorialnego, wynika z i kompetencji przez po uprzednim tej osoby prawnej, dokonanym zgodnie z przepisami.
 
-**Art. 62.** Organem odwoławczym w sprawach nabycia mienia Skarbu Państwa przez jednostki samorządu terytorialnego jest minister właściwy do spraw administracji publicznej.
+**Art. 62.** Organem w sprawach naby cia mienia Skarbu przez jednostki terytorialnego jest minister do spraw Skarbu
 
-**Art. 63.** Koszty uregulowania stanu prawnego mienia przekazywanego jednostkom samorządu terytorialnego ponosi Skarb Państwa.
+**Art. 63.** Koszty uregulowania stanu prawnego mie nia przekazywanego jednostkom terytorial nego ponosi Skarb
 
-**Art. 64.** Przekazanie powiatom mienia Skarbu Państwa oraz mienia Skarbu Państwa będącego we władaniu państwowych osób prawnych, innego niż określone w art. 60 ust. 1 i 4, a służącego do wykonania zadań powiatu, może nastąpić, na wniosek zarządu powiatu, w drodze decyzji wojewody.
+**Art. 64.** Przekazanie powiatom mienia Skarbu stwa oraz mienia Skarbu we niu osób prawnych, innego ne wart. 60 ust. 1 i 4, a do wykonania powiatu, na wniosek powiatu, w drodze decyzji wojewody.
 
 **Art. 65.**
 
-1. Nabycie przez powiat przekazywanego mienia Skarbu Państwa oraz mienia Skarbu Państwa będącego we władaniu państwowych osób prawnych następuje wraz z obciążeniami, które ujawnia się w decyzji o przekazaniu.
+1. Nabycie przez powiat przekazywanego mienia Skarbu oraz mienia Skarbu we osób prawnych wraz z które ujawnia w de cyzji o przekazaniu.
 
-2. Ujawnienie obciążeń nie narusza praw osób trzecich.
+2. Ujawnienie nie narusza praw osób trze cich.
 
-3. Przepisów ust. 1 i 2 nie stosuje się do zobowiązań Skarbu Państwa oraz państwowych osób prawnych, wynikających z działalności organów i instytucji władających przekazywanym mieniem, powstałych przed dniem jego przejęcia przez powiat.
+3. Przepisów ust. 1 i 2 nie stosuje do Skarbu oraz osób praw nych, z organów i instytucji przekazywanym mieniem, przed dniem jego przez powiat.
 
-4. Przekazanie powiatowi mienia Skarbu Państwa oraz mienia Skarbu Państwa będącego we władaniu państwowych osób prawnych jest nieodpłatne oraz wolne od podatków i opłat.
+4. Przekazanie powiatowi mienia Skarbu oraz mienia Skarbu we osób prawnych jest oraz wolne od podatków i
 
-**Art. 66.** Do postępowania w sprawie przekazania mienia powiatowi, w drodze decyzji, stosuje się odpowiednio przepisy Kodeksu postępowania administracyjnego.
+**Art. 66.** Do w sprawie przekazania mienia powiatowi, w drodze decyzji, stosuje odpo wiednio przepisy Kodeksu administra cyjnego.
 
 **Art. 67.**
 
-1. Ostateczna decyzja o przekazaniu powiatowi praw, które są lub mogą być ujawnione w księdze wieczystej, stanowi podstawę do wpisu w księdze wieczystej.
+1. Ostateczna decyzja o przekazaniu powia towi praw, które lub ujawnione w wieczystej, stanowi do wpisu w wie czystej.
 
-2. Postępowanie w przedmiocie wpisu jest wolne od opłat sądowych.
+2. w przedmiocie wpisu jest wolne od
 
 **Art. 68.**
 
-1. Mienie będące we władaniu wojewódzkich sejmików samorządowych staje się z mocy prawa z dniem 1 stycznia 1999 r. mieniem samorządu województwa, na którego obszarze miał siedzibę sejmik.
+1. Mienie we wojewódz kich sejmików staje z mocy prawa z dniem 1 stycznia 1999 r. mieniem woje wództwa, na którego obszarze sejmik.
 
-2. Mienie miejskich stref usług publicznych staje się z mocy prawa z dniem 1 stycznia 1999 r. mieniem właściwych powiatów.
+2. Mienie miejskich stref publicznych staje z mocy prawa z dniem 1 stycznia 1999 r. mieniem powiatów.
 
-3. Nabycie mienia określonego w ust. 1 lub 2 stwierdza wojewoda w drodze decyzji. Przepis art. 62 stosuje się odpowiednio.
+3. Nabycie mienia w ust. 1 lub 2 stwierdza wojewoda w drodze decyzji. Przepis art. 62 stosuje odpowiednio.
 
 **Art. 69.**
 
-1. Minister właściwy do spraw Skarbu Państwa w terminie do dnia 30 czerwca 2000 r. przekaże:
+1. Minister do spraw Skarbu stwa organom woje wództwa wykonywanie praw z akcji i cych do Skarbu w agencjach rozwoju regio nalnego, których siedziby na obszarze wo jewództwa. Przepis art. 50 ustawy o woje wództwa stosuje odpowiednio.
 
-- **1)** samorządom województw - nieodpłatnie własność akcji i udziałów należących do Skarbu Państwa w agencjach właściwych w sprawach rozwoju regionalnego, których siedziby znajdują się na obszarze województwa,
-- **2)** powiatom - nieodpłatnie własność akcji i udziałów należących do Skarbu Państwa w agencjach rozwoju lokalnego o znaczeniu lokalnym, których udziałowcami lub akcjonariuszami są gminy, obejmujących zasięgiem działania obszar jednego lub kilku powiatów; przekazanie akcji i udziałów dotyczy tych powiatów, na których obszarze działają gminy, udziałowcy lub akcjonariusze danej agencji, a parytet podziału akcji lub udziałów ustalany jest proporcjonalnie do liczby ludności w tych powiatach, jeżeli agencja działa na terenie więcej niż jednego powiatu.
+2. Z dniem 1 stycznia 1999 r. wojewódz twa przejmuje zadania i kompetencje przewidziane dla fundatora w statutach fundacji, których fundatorem jest Skarb ustanowionych przez dotychcza sowych wojewodów.
 
-2. Z dniem 1 stycznia 1999 r. marszałek województwa przejmuje zadania i kompetencje przewidziane dla fundatora w statutach fundacji, których fundatorem jest Skarb Państwa, ustanowionych przez dotychczasowych wojewodów.
+**Art. 70.** Przekazanie mienia jednostek, o których mowa wart. 25 ust. 1 pkt 5, z w
 
-**Art. 70.** Przekazanie mienia jednostek, o których mowa w art. 25 ust. 1 pkt 4, następuje z wyłączeniem będących w trwałym zarządzie:
-
-**Art. 71.** Mienie nabyte, na zasadach określonych w ustawie, przez jednostki samorządu terytorialnego podlega przepisom dotyczącym postępowania regulacyjnego, o którym mowa w:
+**Art. 71.** Mienie nabyte, na zasadach w ustawie, przez jednostki terytorialnego podlega przepisom regula cyjnego, o którym mowa w:
 
 **Art. 72.**
 
-1. W okresie od dnia wejścia w życie ustawy do dnia 31 grudnia 2000 r., Agencja Mienia Wojskowego przekaże wojewodzie lub właściwemu organowi jednostki samorządu terytorialnego, w drodze umowy, nieruchomości będące własnością Skarbu Państwa na cele związane z wykonywaniem przez te organy zadań administracji publicznej.
+1. W okresie od dnia w ustawy do dnia 31 grudnia 1999 r. Agencja Mienia Wojsko wego wojewodzie lub organowi jednostki terytorialnego, w drodze umowy, Skarbu na cele z wykonywaniem przez te organy administracji publicznej.
 
-2. Do przekazywania nieruchomości, o których mowa w ust. 1, stosuje się art. 23 ustawy z dnia 30 maja 1996 r. o gospodarowaniu niektórymi składnikami mienia Skarbu Państwa oraz o Agencji Mienia Wojskowego (Dz.U. Nr 90, poz. 405 i Nr 156, poz. 775 oraz z 1997 r. Nr 80, poz. 509 i Nr 121, poz. 770), z tym że odwołanie od decyzji Prezesa Agencji Mienia Wojskowego, której stroną jest wojewoda, rozpatruje minister właściwy do spraw administracji publicznej.
+2. Do przekazywania o których mo wa w ust. 1, stosuje art. 23 ustawy z dnia 30 maja 1996 r. o gospodarowaniu niektórymi mie nia Skarbu oraz o Agencji Mienia Wojskowe go (Dz. U. 90, poz. 405 i 156, poz. 775 oraz z 1997 r. 80, poz. 509 i 121, poz. 770). z tym od decyzji Prezesa Agencji Mienia Wojskowego, której jest wojewoda, rozpatruje Minister Skarbu stwa.
 
 **Art. 73.**
 
-1. Nieruchomości pozostające w dniu 31 grudnia 1998 r. we władaniu Skarbu Państwa lub jednostek samorządu terytorialnego nie stanowiące ich własności, a zajęte pod drogi publiczne, z dniem 1 stycznia 1999 r. stają się z mocy prawa własnością Skarbu Państwa lub właściwych jednostek samorządu terytorialnego za odszkodowaniem.
+1. w dniu 31 grudnia 1998 r. we Skarbu lub jednostek terytorialnego, nie ich a pod drogi publiczne, z dniem 1 stycznia 1999 r. z mocy prawa Skarbu lub jednostek terytorialnego za odszkodowaniem.
 
-2. Odszkodowanie, o którym mowa w ust. 1, wypłaca:
+2. Odszkodowanie, o którym mowa w ust. 1,
 
-- **1)** gmina - w odniesieniu do dróg będących w dniu 31 grudnia 1998 r. drogami gminnymi,
-- **2)** Skarb Państwa - w odniesieniu do pozostałych dróg.
+- **1)** gmina w odniesieniu do dróg w dniu 31 grudnia 1998 r. drogami gminnymi,
+- **2)** Skarb w odniesieniu do dróg.
 
-3. Podstawą do ujawnienia w księdze wieczystej przejścia na własność Skarbu Państwa lub jednostek samorządu terytorialnego nieruchomości, o których mowa w ust. 1, jest ostateczna decyzja wojewody.
+3. do ujawnienia w wieczystej na Skarbu lub jednostek terytorialnego o których mowa w ust. 1, jest ostateczna decyzja wojewody wy dana na wniosek drogi.
 
-3a. Jeżeli istnieje konieczność określenia granic nieruchomości, które przeszły na własność Skarbu Państwa lub własność jednostek samorządu terytorialnego, wydając decyzję, o której mowa w ust. 3, nie wydaje się decyzji o podziale nieruchomości.
+4. Odszkodowanie, o którym mowa w ust. 1 i 2, dzie ustalane i zasad i trybu okre w ustawie, na wniosek w okresie od dnia 1 stycznia 2001 r. do dnia 31 grudnia 2005 r. Po tego okre su roszczenie wygasa.
 
-4. Odszkodowanie, o którym mowa w ust. 1 i 2, będzie ustalane i wypłacane według zasad i trybu określonych w przepisach o odszkodowaniach za wywłaszczone nieruchomości, na wniosek właściciela nieruchomości złożony w okresie od dnia 1 stycznia 2001 r. do dnia 31 grudnia 2005 r. Po upływie tego okresu roszczenie wygasa.
-
-5. Podstawę do ustalenia wysokości odszkodowania stanowi wartość nieruchomości według stanu z dnia wejścia w życie ustawy, przy czym nie uwzględnia się wzrostu wartości nieruchomości spowodowanego trwałymi nakładami poczynionymi po utracie przez osobę uprawnioną prawa do władania gruntem.
+5. do ustalenia odszkodowa nia stanowi stanu z dnia w ustawy, przy czym nie nia wzrostu spowodowa nego poczynionymi po utracie przez prawa do gruntem.
 
 **Art. 74.**
 
-1. Samorządy województw oraz powiaty przejmują z dniem 1 stycznia 1999 r. mieszczące się w zakresie ich zadań i kompetencji inwestycje centralne, których inwestorami w dniu 31 grudnia 1998 r. byli ministrowie lub dotychczasowi wojewodowie.
+1. województw oraz powiaty z dniem 1 stycznia 1999 r. w zakresie ich i kompetencji inwestycje central ne, których inwestorami w dniu 31 grudnia 1998 r. by li ministrowie lub dotychczasowi wojewodowie.
 
-2. Kwoty dotacji celowych na kontynuację inwestycji, o których mowa w ust. 1, określa na dany rok ustawa budżetowa.
+2. Kwoty dotacji celowych na inwesty cji, o których mowa w ust. 1, na dany rok usta wa
 
-3. Rada Ministrów określi, w drodze rozporządzenia:
+3. Rada Ministrów w drodze nia:
 
-- **1)** szczegółowe zasady i tryb przekazywania samorządom województw i powiatom inwestycji, o których mowa w ust. 1,
-- **2)** wykaz inwestycji centralnych, o których mowa w ust. 1, podlegających przekazaniu samorządom województw oraz powiatom.
-
-#### Rozdział 5 Rozliczenia finansowe
+- **1)** zasady i tryb przekazywania
+- **2)** wykaz inwestycji centralnych, o których mowa w ust. 1, dom województw i powiatom inwestycji, o których mowa w ust. 1, przekazaniu województw oraz powiatom. 5 Rozliczenia finansowe
 
 **Art. 75.**
 
-1. Wojewodowie są obowiązani rozliczyć dotacje udzielone ze środków budżetu państwa przez dotychczasowych wojewodów, którzy mieli swoje siedziby na obszarze województwa.
+1. Wojewodowie dotacje udzielone ze przez dotychczasowych wojewodów, którzy mieli swoje sie dziby na obszarze województwa.
 
-2. Jeżeli z rozliczenia, o którym mowa w ust. 1, wynika obowiązek zwrotu całości lub części dotacji, środki te są przekazywane na rachunek bieżący właściwego wojewody, chyba że przepisy szczególne stanowią inaczej.
+2. z rozliczenia, o którym mowa w ust. 1, wy nika zwrotu lub dotacji, ki te przekazywane na rachunek wojewody, chyba przepisy szczególne ina czej.
 
-**Art. 76.** Łączne sprawozdania budżetowe z wykonania budżetów dotychczasowych wojewodów za rok 1998, odrębnie dla każdego dotychczasowego województwa, przy uwzględnieniu podległości jednostek istniejącej w dniu 31 grudnia 1998 r., sporządza i przekazuje ministrowi właściwemu do spraw finansów publicznych wojewoda, na którego obszarze działania położone są miasta będące siedzibami dotychczasowych wojewodów.
+**Art. 76.** Łączne sprawozdania z wykona nia dotychczasowych wojewodów za rok 1998, dla dotychczasowego woje wództwa, przy jednostek w dniu 31 grudnia 1998 r., i prze kazuje ministrowi do spraw finansów pu blicznych wojewoda, na którego obszarze po miasta siedzibami dotychczasowych wojewodów.
 
 **Art. 77.**
 
-1. Środki pieniężne znajdujące się w dniu 31 grudnia 1998 r. na rachunkach bankowych, z wyjątkiem rachunków bieżących, państwowych jednostek budżetowych, zakładów budżetowych, gospodarstw pomocniczych państwowych jednostek budżetowych oraz instytucji kultury prowadzących gospodarkę finansową na zasadach określonych dla zakładów budżetowych:
+1. w dniu 31 grudnia 1998 r. na rachunkach bankowych, z kiem rachunków jednostek gospodarstw pomocniczych jednostek oraz instytucji kultury fi na zasadach dla bu
 
-- **1)** o których mowa w art. 26 ust. 1 lub przejmowanych w całości przez wojewodów - pozostają w dyspozycji tych jednostek,
-- **2)** o których mowa w art. 26 ust. 2 lub przejmowanych w części przez wojewodów - podlegają przekazaniu odpowiednim jednostkom, stosownie do decyzji właściwego organu administracji rządowej,
-- **3)** likwidowanych - podlegają przekazaniu jako dochód budżetu państwa po zakończeniu likwidacji.
+- **1)** o których mowa wart. 26 ust. 1 lub przejmowanych w przez wojewodów w dyspo zycji tych jednostek,
+- **2)** o których mowa wart. 26 ust. 2 lub przejmowanych w przez wojewodów przekaza niu odpowiednim jednostkom, stosownie do decy zji organu administracji
+- **3)** likwidowanych przekazaniu jako do chód po likwidacji.
 
-2. Środki finansowe pozostające w dniu 31 grudnia 1998 r. na rachunkach bankowych sejmików samorządowych podlegają przekazaniu sejmikom województw.
+2. finansowe w dniu 31 grudnia 1998 r. na rachunkach bankowych sejmików dowych przekazaniu sejmikom woje wództw.
 
 **Art. 78.**
 
-1. Środki pieniężne pozostające w dniu 31 grudnia 1998 r. na rachunkach bankowych:
+1. Środki pienlęzne pozostające w dniu 31 grudnia 1998 r. na rachunkach bankowych:
 
-- **1)** wojewódzkich funduszy gospodarki zasobem geodezyjnym i kartograficznym,
-- **2)** terenowych funduszy ochrony gruntów rolnych, – w dotychczasowych urzędach wojewódzkich podlegają przekazaniu na właściwe rachunki tych funduszy w urzędzie wojewódzkim województwa, którego obszar obejmuje miasta będące siedzibami dotychczasowych wojewodów.
+- **1)** wojewódzkich funduszy gospodarki zasobem geo dezyjnym i kartograficznym,
+- **2)** terenowych funduszy ochrony gruntów rolnych w dotychczasowych wojewódzkich podle przekazaniu na rachunki tych funduszy w wojewódzkim województwa, którego obszar obejmuje miasta siedzibami dotychczaso wych wojewodów.
 
-2. Wojewodowie ustalą kwoty należne za rok 1998, zgodnie z obowiązującymi w tym zakresie przepisami, i przekażą środki pieniężne odpowiednio:
+2. Wojewodowie kwoty za rok 1998, zgodnie z w tym zakresie przepisami, i odpowiednio: Centralnemu Funduszowi Gospodarki Zasobem Geodezyjnym i Kartograficznym, Centralnemu Funduszowi Ochrony Gruntów.
 
-- **1)** Centralnemu Funduszowi Gospodarki Zasobem Geodezyjnym i Kartograficznym,
-- **2)** Centralnemu Funduszowi Ochrony Gruntów.
+3. Wojewodowie, po przekazaniu o któ rych mowa w ust. 2, ne na rachunkach funduszy wymienionych w ust. województw odpowiednio na ra chunki: wojewódzkich funduszy gospodarki zasobem geodezyjnym i kartograficznym lub terenowych fundu szy ochrony gruntów rolnych, nie do dnia 30 kwietnia 1999 r.
 
-3. Wojewodowie, po przekazaniu środków, o których mowa w ust. 2, przekażą pozostałe środki pieniężne na rachunkach bieżących funduszy wymienionych w ust. 1 zarządom województw odpowiednio na rachunki: wojewódzkich funduszy gospodarki zasobem geodezyjnym i kartograficznym lub terenowych funduszy ochrony gruntów rolnych, nie później niż do dnia 30 kwietnia 1999 r.
+4. Wojewodowie zestawienie i funduszy, o których mowa w ust. 1, we stanu na 31 grudnia 1998 r. i je za województw, nie do dnia 30 kwiet nia 1999 r.
 
-4. Wojewodowie sporządzą zestawienie należności i zobowiązań funduszy, o których mowa w ust. 1, według stanu na dzień 31 grudnia 1998 r. i przekażą je zarządom województw, nie później niż do dnia 30 kwietnia 1999 r.
-
-5. Należności i zobowiązania wojewódzkich funduszy gospodarki zasobem geodezyjnym i kartograficznym oraz terenowych funduszy ochrony gruntów rolnych, których dysponentem był dotychczasowy wojewoda, stają się z dniem 1 stycznia 1999 r. należnościami i zobowiązaniami odpowiednio wojewódzkich funduszy gospodarki zasobem geodezyjnym i kartograficznym lub terenowych funduszy ochrony gruntów rolnych, których dysponentem jest zarząd województwa.
+5. i wojewódzkich fundu szy gospodarki zasobem geodezyjnym i kartograficz nym oraz terenowych funduszy ochrony gruntów rol nych, których dysponentem dotychczasowy woje woda, z dniem 1 stycznia 1999 r. mi i odpowiednio wojewódzkich fun duszy gospodarki zasobem geodezyjnym i kartogra ficznym lub terenowych funduszy ochrony gruntów rolnych, których dysponentem jest wojewódz twa.
 
 **Art. 79.**
 
-1. Środki pieniężne, pozostające w dniu 31 grudnia 1998 r. na rachunkach bankowych dotychczasowego urzędu wojewódzkiego i dotychczasowego wojewódzkiego inspektoratu ochrony środowiska, służących do gromadzenia i redystrybucji wpływów z tytułu opłat za gospodarcze korzystanie ze środowiska i za wprowadzanie w nim zmian oraz kar pieniężnych za naruszenie wymagań dotyczących ochrony środowiska, za naruszanie warunków, jakim powinny odpowiadać ścieki wprowadzane do wód lub do ziemi, a także za składowanie odpadów w miejscu na ten cel nie wyznaczonym lub niezgodnie z wymaganiami określonymi decyzją organu właściwego w sprawach nadzoru budowlanego o pozwoleniu na budowę składowiska odpadów, podlegają przekazaniu na właściwe rachunki:
+1. Środki pieniężne, pozostające w dniu 31 grudnia 1998 r. na rachunkach bankowych dotych czasowego wojewódzkiego i dotychczasowego wojewódzkiego inspektoratu ochrony do gromadzenia i redystrybucji z ty za gospodarcze korzystanie ze i za wprowadzanie w nim zmian oraz kar za naruszenie ochrony wiska, za naruszanie warunków, jakim powinny odpo wprowadzane do wód lub do ziemi, a tak za odpadów w miejscu na ten cel nie wyznaczonym lub niezgodnie z wymaganiami nymi organu w sprawach nadzoru budowlanego o pozwoleniu na odpadów, przekazaniu na rachun ki:
 
-- **1)** urzędu wojewódzkiego województwa, na którego obszarze była siedziba dotychczasowego urzędu wojewódzkiego,
-- **2)** wojewódzkiego inspektoratu ochrony środowiska województwa, na którego obszarze była siedziba dotychczasowych wojewódzkich inspektorów ochrony środowiska – oraz podziałowi zgodnie z obowiązującymi w dniu 31 grudnia 1998 r. przepisami ustawy z dnia 31 stycznia 1980 r. o ochronie i kształtowaniu środowiska (Dz.U. z 1994 r. Nr 49, poz. 196, z 1995 r. Nr 90, poz. 446, z 1996 r. Nr 106, poz. 496 i Nr 132, poz. 622, z 1997 r. Nr 46, poz. 296, Nr 96, poz. 592, Nr 121, poz. 770 i Nr 133, poz. 885 oraz z 1998 r. Nr 106, poz. 668).
+- **1)** wojewódzkiego województwa, na którego obszarze siedziba dotychczasowego wojewódzkiego,
+- **2)** wojewódzkiego inspektoratu ochrony województwa, na którego obszarze siedziba dotychczasowych wojewódzkich inspektorów ochrony oraz zgodnie z w dniu 31 grudnia 1998 r. przepisami ustawy z dnia 31 stycznia 1980 r. o ochronie i (Dz. U. z 1994 r. 49, poz. 196, z 1995 r. 90, poz. 446, z 1996 r. 106, poz. 496 i 132, poz. 622, z 1997 r. 46, poz. 296, 96, poz. 592, 121, poz. 770 i 133, poz. 885 oraz z 1998 r. 106, poz. 668).
 
-2. Wojewodowie i wojewódzcy inspektorzy ochrony środowiska w województwach, o których mowa w ust. 1, sporządzą na dzień 31 grudnia 1998 r. zestawienie należności z tytułu opłat i kar pieniężnych, o których mowa w ust. 1, i zestawienie zobowiązań wobec dotychczasowych funduszy stanowiących dochody tych funduszy i przekażą je samorządom województwa i ministrowi właściwemu do spraw środowiska.
+2. Wojewodowie i wojewódzcy inspektorzy ochro ny w województwach, o których mowa w ust. 1, na 31 grudnia 1998 r. zesta wienie z i kar o któ rych mowa w ust. 1, i zestawienie wobec dotychczasowych funduszy dochody tych funduszy i je województwa i ministrowi do spraw
 
-3. Samorząd województwa przejmuje z dniem 1 stycznia 1999 r. prawa i obowiązki wynikające ze zobowiązań i należności, o których mowa w ust. 2.
+3. województwa przejmuje z dniem 1 stycznia 1999 r. prawa i z zobo i o których mowa w ust. 2.
 
-4. Zobowiązania i należności nie ujawnione zmieniają kwotę wpłat na rachunek odpowiedniego funduszu.
+4. i nie ujawnione zmie na rachunek odpowiedniego fundu szu.
 
 **Art. 80.**
 
-1. Zobowiązaniami Skarbu Państwa, powstałymi do dnia 31 grudnia 1998 r., są zobowiązania finansowe państwowych jednostek budżetowych i zakładów budżetowych, przejmowanych przez jednostki samorządu terytorialnego.
+1. Skarbu po do dnia 31 grudnia 1998 r., finansowe jednostek i za przejmowanych przez jednostki terytorialnego.
 
-2. Zobowiązania sejmików województw powstałe przed dniem 31 grudnia 1998 r. stają się zobowiązaniami samorządów województw.
+2. sejmików województw przed dniem 31 grudnia 1998 r. mi województw.
 
-**Art. 81.** W celu wykonania zobowiązań, w tym wynikających z art. 56 ust. 3, marszałek województwa, z dniem wyboru, jest uprawniony do dysponowania środkami finansowymi wojewódzkich sejmików samorządowych mających siedziby na obszarze województwa.
+**Art. 81.** W celu wykonania w tym wy z art. 56 ust. 3, województwa, z dniem wyboru, jest uprawniony do dysponowania finansowymi wojewódzkich sejmików samo siedziby na obszarze wojewódz twa.
 
-**Art. 82.** Minister Finansów określi, w drodze rozporządzenia, tryb rozliczenia środków budżetowych za rok 1998 oraz szczególne zasady i tryb sporządzenia i przekazywania sprawozdań budżetowych za rok 1998, a także szczególne zasady i terminy przeprowadzenia inwentaryzacji przez jednostki organizacyjne, o których mowa w art. 16, 18 i 26, oraz inne jednostki przejmowane przez wojewodów.
+**Art. 82.** Minister Finansów w drodze rozpo tryb rozliczenia za rok 1998 oraz szczególne zasady i tryb i przekazywania za rok 1998, a szczególne zasady i terminy przeprowadzenia inwentaryzacji przez jednostki organizacyjne, o których mowa wart. 16, 18 i 26, oraz inne jednostki przejmo wane przez wojewodów.
 
 **Art. 83.**
 
-1. Zarządy województw i zarządy powiatów, a w przypadku ich niepowołania - pełnomocnicy, o których mowa odpowiednio w art. 101 ust. 3 i 5 oraz w art. 102 ust. 3 i 4, w terminie do dnia 10 grudnia 1998 r. zawrą z bankiem umowę o obsługę bankową odpowiednio budżetu województwa lub powiatu, z zastrzeżeniem ust. 2 i 3.
+1. województw i powia tów, a w przypadku ich -cy, o których mowa odpowiednio wart. 101 ust. 3 i 5 oraz wart. 102 ust. 3 i 4, w terminie do dnia 10 grudnia 1998 r. z bankiem o odpowiednio województwa lub powiatu, z za ust. 2 i 3.
 
-2. W przypadku, o którym mowa w ust. 1, nie stosuje się trybu określonego w przepisach o zamówieniach publicznych.
+2. W przypadku, o którym mowa w ust. 1, nie sto suje trybu w przepisach o zamówie niach publicznych.
 
-3. Umowa, o której mowa w ust. 1, obowiązuje do czasu zakończenia procedury wyboru banku do obsługi budżetu odpowiednio województwa lub powiatu, określonej w art. 73 ustawy o samorządzie województwa oraz w art. 62 ustawy o samorządzie powiatowym.
+3. Umowa, o której mowa w ust. 1, do czasu procedury wyboru banku do gi odpowiednio województwa lub powiatu, wart. 73 ustawy o wojewódz twa oraz wart. 62 ustawy o powiatowym.
 
-4. Zarządy województw i zarządy powiatów lub pełnomocnicy, o których mowa w ust. 1, w terminie do dnia 15 grudnia 1998 r. przekażą Ministrowi Finansów informacje o numerach rachunków bankowych do obsługi ich budżetu.
+4. województw i powiatów lub nomocnicy, o których mowa w ust. 1, w terminie do dnia 15 grudnia 1998 r. Ministrowi Finansów informacje o numerach rachunków bankowych do ob ich
 
-5. Minister Finansów, w terminie do dnia 20 grudnia 1998 r., przekaże na rachunki, o których mowa w ust. 4, ratę części oświatowej subwencji ogólnej na styczeń 1999 r.
+5. Minister Finansów, w terminie do dnia 20 grud nia 1998 r., na rachunki, o których mowa w ust. 4, subwencji ogólnej na 1999 r.
 
 **Art. 84.**
 
-1. Minister Finansów opracuje dla poszczególnych powiatów i województw samorządowych, z wyłączeniem miast na prawach powiatu, projekty ich budżetów na rok 1999, z uwzględnieniem podziału na działy klasyfikacji budżetowej, w terminie do dnia 30 listopada 1998 r. oraz przekaże te projekty właściwym organom stanowiącym tych jednostek.
+1. Minister Finansów opracuje dla poszcze gólnych powiatów i województw z miast na prawach powiatu, projekty ich na rok 1999, z na klasyfikacji w terminie do dnia 30 li stopada 1998 r. oraz te projekty organom tych jednostek.
 
-2. W okresie od dnia 1 stycznia 1999 r. do dnia podjęcia uchwał budżetowych powiaty i województwa prowadzą gospodarkę finansową na podstawie projektów budżetów, o których mowa w ust. 1.
+2. W okresie od dnia 1 stycznia 1999 r. do dnia pod powiaty i województwa na podstawie projek tów o których mowa w ust. 1.
 
-3. Minister Finansów do dnia 20 listopada 1998 r. przekaże właściwym organom władz mającym siedzibę w miastach na prawach powiatu informacje niezbędne do przygotowania projektu budżetu.
+3. Minister Finansów do dnia 20 listopada 1998 r. organom siedzi w miastach na prawach powiatu informacje nie do przygotowania projektu
 
-4. Zarządy miast na prawach powiatu przedkładają projekty budżetów na rok 1999 do 10 grudnia 1998 r.
+4. miast na prawach powiatu projekty na rok 1999 do dnia 10 grudnia 1998 r.
 
 **Art. 85.**
 
-1. Miasto na prawach powiatu sporządza jeden budżet.
+1. Miasto na prawach powiatu je den
 
-2. Uchwała budżetowa miasta na prawach powiatu określa poszczególne dochody z uwzględnieniem podziału według źródeł dochodów gmin, powiatów oraz rodzajów przewidzianych na zadania realizowane przez gminy i powiaty wydatków.
-
-3. Dochody miast na prawach powiatu z tytułu udziałów w podatku dochodowym od osób fizycznych i podatku dochodowym od osób prawnych oraz subwencji ogólnej stanowią dochód gminy z przeznaczeniem na wydatki związane z realizacją zadań gminnych i powiatowych.
+2. miasta na prawach powiatu poszczególne dochody z po dochodów gmin, powiatów oraz rodzajów przewidzianych na zadania realizowane przez gminy i powiaty wydatków.
 
 **Art. 86.**
 
-1. Z dniem 31 grudnia 1998 r. znosi się komisje orzekające w sprawach o naruszenie dyscypliny budżetowej przy dotychczasowych wojewodach mających siedziby w miastach, które po tym dniu nie będą siedzibami wojewodów.
+1. Z dniem 31 grudnia 1998 r. znosi ko misje w sprawach o naruszenie dyscypliny przy dotychczasowych wojewodach cych siedziby w miastach, które po tym dniu nie siedzibami wojewodów.
 
-2. Komisje orzekające w sprawach o naruszenie dyscypliny budżetowej przy dotychczasowych wojewodach, w mieście będącym z dniem 1 stycznia 1999 r. siedzibą wojewody, stają się z tym dniem komisjami orzekającymi przy wojewodzie.
+2. Komisje w sprawach o naruszenie dyscypliny przy dotychczasowych woje wodach, w z dniem 1 stycznia 1999 r. wojewody, z tym dniem komisjami przy wojewodzie.
 
-3. Właściwość komisji orzekającej przy wojewodzie obejmuje swoim zakresem dotychczasowy zakres należący do właściwości komisji przy dotychczasowych wojewodach.
+3. komisji przy wojewodzie obejmuje swoim zakresem dotychczasowy zakres na do komisji przy dotychczasowych wojewodach.
 
-4. Postępowania w sprawach o naruszenie dyscypliny budżetowej wszczęte przed dniem 1 stycznia 1999 r. przez komisje orzekające przy dotychczasowych wojewodach przekazuje się właściwej komisji przy wojewodzie, przy czym rozstrzygnięcia dotychczasowe pozostają w mocy.
+4. w sprawach o naruszenie dyscy pliny przed dniem 1 stycznia 1999 r. przez komisje przy dotychczasowych wojewodach, przekazuje komisji przy wojewodzie, przy czym dotychczasowe
 
-5. Sprawozdanie o sposobie załatwienia spraw wniesionych w 1998 r. do komisji orzekających w sprawach o naruszenie dyscypliny budżetowej przy dotychczasowych wojewodach, odrębnie dla każdego dotychczasowego województwa, sporządzi i złoży komisja orzekająca przy wojewodzie, na którego obszarze działania położona jest siedziba dotychczasowego wojewody.
+5. Sprawozdanie o sposobie w mocy. spraw wniesionych w 1998 r. do komisji w spra wach o naruszenie dyscypliny przy dotych czasowych wojewodach, dla do tychczasowego województwa, i komi sja przy wojewodzie, na którego obszarze jest siedziba dotychczasowego wo jewody.
 
-6. Nie wyegzekwowane do dnia 31 grudnia 1998 r. kary pieniężne za naruszenie dyscypliny budżetowej wymierzone przez komisje orzekające przy dotychczasowych wojewodach egzekwuje właściwa miejscowo komisja orzekająca przy wojewodzie.
+6. Nie wyegzekwowane do dnia 31 grudnia 1998 r. kary za naruszenie dyscypliny wymierzone przez komisje przy dotychcza sowych wojewodach, egzekwuje miejscowo komisja przy wojewodzie. 6 Przepisy oraz przepisy
 
-#### Rozdział 6 Przepisy dostosowujące oraz przepisy końcowe
+**Art. 87.** Zadania i im kompetencje, przez gminy o statusie miasta na podstawie art. 2 ust. 4 ustawy z dnia 24 listopada 1995 r. o zmia nie zakresu niektórych miast oraz o miejskich strefach publicznych (Dz. U. z 1997 r. 36, poz. 224, 123, poz. 780 i 162, poz. 1120), zadaniami i kompetencjami tych miast.
 
-**Art. 87.**
-
-1. Zadania i odpowiadające im kompetencje, przejęte przez gminy o statusie miasta na podstawie art. 2 ust. 4 ustawy z dnia 24 listopada 1995 r. o zmianie zakresu działania niektórych miast oraz o miejskich strefach usług publicznych (Dz.U. z 1997 r. Nr 36, poz. 224, Nr 123, poz. 780 i Nr 162, poz. 1120), stają się zadaniami i kompetencjami tych miast.
-
-2. Stwierdzenia nabycia z mocy prawa mienia, o którym mowa w art. 23 ust. 1 ustawy, wymienionej w ust. 1, co do którego nie została wydana decyzja wojewody, dokonuje wojewoda, stosując odpowiednio przepisy art. 16 ust. 1 oraz art. 17-20 ustawy z dnia 10 maja 1990 r. – Przepisy wprowadzające ustawę o samorządzie terytorialnym i ustawę o pracownikach samorządowych (Dz.U. Nr 32, poz. 191, Nr 43, poz. 253 i Nr 92, poz. 541, z 1991 r. Nr 34, poz. 151, z 1992 r. Nr 6, poz. 20, z 1993 r. Nr 40, poz. 180, z 1994 r. Nr 1, poz. 3 i Nr 65, poz. 285, z 1996 r. Nr 23, poz. 102 i Nr 106, poz. 496 oraz z 1997 r. Nr 9, poz. 43).
-
-**Art. 88.** Z dniem 1 stycznia 1999 r. do właściwości gmin tworzących powiat warszawski przechodzą, jako zadania własne, zadania i odpowiadające im kompetencje określone w art. 19 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz.U. z 1991 r. Nr 36, poz. 161, z 1992 r. Nr 20, poz. 78, z 1993 r. Nr 28, poz. 127, z 1995 r. Nr 85, poz. 426, z 1996 r. Nr 43, poz. 189 i Nr 146, poz. 680 oraz z 1997 r. Nr 137, poz. 926 i Nr 141, poz. 943 i Nr 944), w zakresie należności z tytułu podatków i opłat, dla których organ gminy jest właściwy do ich ustalenia i pobierania.
+**Art. 88.** Z dniem 1 stycznia 1999 r. do gmin powiat warszawski jako zadania zadania i im kompe tencje wart. 19 ustawy z dnia 17 czerwca 1966 r. o egzekucyjnym w administracji (Dz. U. z 1991 r. 36, poz. 161, z 1992 r. 20, poz. 78, z 1993 r. 28, poz. 127, z 1995 r. 85, poz. 426, z 1996 r. 43, poz. 189 i 146, poz. 680 oraz z 1997 r. 137, poz. 926 i 141, poz. 943 i 944), w zakresie na z podatków i dla których organ gminy jest do ich ustalenia i pobierania.
 
 **Art. 89.**
 
-1. Porozumienia zawarte przez gminy z organami administracji rządowej w zakresie przejęcia przez te gminy określonych w porozumieniach zadań i kompetencji wraz ze środkami na ich realizację, z zastrzeżeniem ust. 4, pozostają w mocy, z tym że w prawa i obowiązki organów administracji rządowej działających na podstawie ustawy o terenowych organach rządowej administracji ogólnej wstępują te organy i podmioty, które z dniem 1 stycznia 1999 r. przejęły zadania i kompetencje będące przedmiotem porozumienia.
+1. Porozumienia zawarte przez gminy z or ganami administracji w zakresie przez te gminy w porozumieniach i kompetencji wraz ze na ich z za ust. 4, w mocy, z tym w pra wa i organów administracji na podstawie ustawy o terenowych organach administracji ogólnej te organy i podmioty, które z dniem 1 stycznia 1999 r. za dania i kompetencje przedmiotem porozumie nia.
 
-2. Nie uregulowane do dnia 1 stycznia 1999 r. zobowiązania administracji rządowej wynikające z porozumień, pozostają zobowiązaniami Skarbu Państwa.
+2. Nie uregulowane do dnia 1 stycznia 1999 r. zobo administracji z porozu Skarbu
 
-3. Porozumienia, o których mowa w ust. 1, obowiązują do czasu ich rozwiązania, chyba że odrębne przepisy stanowią inaczej.
+3. Porozumienia, o których mowa w ust. 1, do czasu ich chyba prze pisy inaczej.
 
-4. Gminom, które po dniu 1 stycznia 1999 r. poniosą na realizację zadań i kompetencji będących przedmiotem porozumienia nakłady konieczne wyższe niż określone w porozumieniu, o którym mowa w ust. 1, nie przysługuje roszczenie o ich zwrot, chyba że zainteresowana gmina do dnia 31 stycznia 1999 r. wypowie warunki finansowe dotychczasowej współpracy przy wykonywaniu zadań i kompetencji przejętych przez organy i podmioty określone w ust. 1, ze skutkiem w postaci rozwiązania porozumienia, w przypadku gdy strony, w terminie dwóch miesięcy, nie ustalą nowych warunków finansowych.
+4. Gminom, które po dniu 1 stycznia 1999 r. ponio na i kompetencji przed miotem porozumienia konieczne w porozumieniu, o którym mowa w ust. 1, nie roszczenie o ich zwrot, chyba zainte resowana gmina do dnia 31 stycznia 1999 r. wypowie warunki finansowe dotychczasowej przy wykonywaniu i kompetencji przez or gany i podmioty w ust. 1, ze skutkiem w po staci porozumienia, w przypadku gdy stro ny, w terminie dwóch nie nowych wa runków finansowych.
 
-5. Delegat Rządu sporządzi i przekaże zainteresowanym organom i podmiotom, o których mowa w ust. 1, wykaz zawartych przez te organy porozumień z gminami lub ich związkami.
+5. Delegat i zaintereso wanym organom i podmiotom, o których mowa w ust. 1, wykaz zawartych przez te organy z gminami lub ich
 
-**Art. 90.** Gminy, które przed dniem wejścia w życie niniejszej ustawy przejęły zadania z zakresu geodezji i kartografii, nadal realizują te zadania, z zastrzeżeniem warunków, o których mowa w art. 6a ust. 6 ustawy z dnia 17 maja 1989 r. - Prawo geodezyjne i kartograficzne (Dz.U. Nr 30, poz. 163 i Nr 43, poz. 241, z 1990 r. Nr 34, poz.198, z 1991 r. Nr 103, poz. 446, z 1996 r. Nr 106, poz. 496 i Nr 156, poz. 775, z 1997 r. Nr 54, poz. 349, Nr 115, poz. 741 i Nr 121, poz. 770 oraz z 1998 r. Nr 106, poz. 668).
+**Art. 90.** Gminy, które przed dniem w niniejszej ustawy zadania z zakresu geodezji i kartografii, nadal te zadania, z warunków, o których mowa wart. 6a ust. 6 ustawy z dnia 17 maja 1989 r. Prawo geodezyjne i kartogra ficzne (Dz. U. 30, poz. 163 i 43, poz. 241, z 1990 r. 34, poz.198, z 1991 r. 103, poz. 446, z 1996 r. 106, poz. 496 i 156, poz. 775, z 1997 r. 54, poz. 349, 115, poz. 741 i 121, poz. 770 oraz z 1998 r. 106, poz. 668).
 
-**Art. 91.** Z dniem 1 stycznia 1999 r. samorządy województw oraz powiaty przejmują od wojewodów do prowadzenia jako zadania własne, działające odpowiednio na obszarze danego województwa lub powiatu zakłady, ośrodki oraz domy, o których mowa w art. 22 ust. 1 i ust. 1a ustawy z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi (Dz.U. Nr 35, poz. 230, z 1984 r. Nr 34, poz.184, z 1987 r. Nr 33, poz. 180, z 1989 r. Nr 35, poz. 192, z 1990 r. Nr 34, poz. 198 i Nr 73, poz. 431, z 1991 r. Nr 73, poz. 321 i Nr 94, poz. 419, z 1993 r. Nr 40, poz. 184, z 1996 r. Nr 127, poz. 593 z 1997 r. Nr 88, poz. 554, Nr 113, poz. 732 i Nr 121, poz. 770 oraz z 1998 r. Nr 106, poz. 668).
+**Art. 91.** Z dniem 1 stycznia 1999 r. wo jewództw oraz powiaty od wojewodów do prowadzenia jako zadania odpo wiednio na obszarze danego województwa lub powia tu oraz domy, o których mowa wart. 22 ust. 1 i ust. 1a ustawy z dnia 26 1982 r. o wychowaniu w i alkoho lizmowi (Dz. U. 35, poz. 230, z 1984 r. 34, poz.184, z 1987 r. 33, poz. 180, z 1989 r. 35, poz. 192, z 1990 r. 34, poz. 198 i 73, poz. 431, z 1991 r. 73, poz. 321 i 94, poz. 419, z 1993 r. 40, poz. 184, z 1996 r. 127, poz. 593, z 1997 r. 88, poz. 554, 113, poz. 732 i 121, poz. 770 oraz z 1998 r. 106, poz. 668).
 
-**Art. 92.** Do czasu przyjęcia odmiennych uregulowań zarząd powiatu wykonuje zadania wymienione w art. 4 ust. 1 pkt 16 ustawy o samorządzie powiatowym przy pomocy powiatowego centrum zarządzania kryzysowego wchodzącego w skład starostwa powiatowego.
+**Art. 92.** Do czasu odmiennych uregulo powiatu wykonuje zadania wymienione wart. 4 ust. 1 pkt 16 ustawy o powiato wym przy pomocy powiatowego centrum kryzysowego w starostwa powia towego.
 
 **Art. 93.**
 
-1. Dla bezrobotnych, którzy nabędą prawo do zasiłku w 1999 r., okres pobierania zasiłku, o którym mowa w art. 25 ust. 1 ustawy z dnia 14 grudnia 1994 r. o zatrudnieniu i przeciwdziałaniu bezrobociu (Dz.U. z 1997 r. Nr 25, poz. 128, Nr 28, poz. 153, Nr 141, poz. 225, Nr 63, poz. 403, Nr 93, poz. 569, Nr 107, poz. 692, Nr 121, poz. 770 i Nr 123, poz. 776 oraz z 1998 r. Nr 66, poz. 431, Nr 106, poz. 668 i Nr 108, poz. 684), ustala się z uwzględnieniem stopy bezrobocia, jaka występowała w dniu 30 czerwca 1998 r. na obszarze działania rejonowego urzędu pracy obejmującym gminę, na obszarze której zamieszkuje bezrobotny.
+1. Dla bezrobotnych, którzy prawo do w 1999 r., okres pobierania o którym mowa wart. 25 ust. 1 ustawy z dnia 14 grudnia 1994 r. o zatrudnieniu i bezrobociu (Dz. U. z 1997 r. 25, poz. 128, 28, poz. 153, 41, poz. 225, 63, poz. 403, 93, poz. 569, 107, poz. 692, 121, poz. 770 i 123, poz. 776 oraz z 1998 r. 66, poz. 431, 106, poz. 668 i 108, poz. 684), ustala z stopy bezrobocia, jaka w dniu 30 czerwca 1998 r. na obszarze re jonowego pracy na której obszarze zamieszkuje bezrobotny.
 
-2. W składzie rad zatrudnienia, o których mowa w art. 8 i 9 ustawy wymienionej w ust. 1, rozpoczynających działalność po dniu 1 stycznia 1999 r., uwzględnia się przedstawicieli powiatów i samorządu województwa.
+2. W rad zatrudnienia, o których mowa wart. 8 i 9 ustawy wymienionej w ust. 1, rozpoczyna po dniu 1 stycznia 1999 r., nia przedstawicieli powiatów i woje wództwa.
 
-**Art. 94.** Do właściwości starosty przechodzą, jeżeli przepisy szczególne nie stanowią inaczej, jako zadania z zakresu administracji rządowej, określone w przepisach zadania urzędów rejonowych rządowej administracji ogólnej oraz zadania i kompetencje kierowników tych urzędów.
+**Art. 94.** Do starosty przepisy szczególne nie z zakresu administracji inaczej, jako zadania w przepi sach zadania rejonowych admini stracji ogólnej oraz zadania i kompetencje kierowni ków tych
 
 **Art. 95.**
 
-1. Do dnia 31 grudnia 1999 r. ministrowie oraz kierownicy urzędów centralnych, każdy w zakresie swojego działania, dostosują istniejące systemy organizacyjne, ewidencyjne i informacyjne do nowej organizacji terytorialnej administracji publicznej.
+1. Do dnia 31 grudnia 1999 r. ministrowie oraz kierownicy centralnych, w zakresie swojego systemy orga nizacyjne, ewidencyjne i informacyjne do nowej orga nizacji terytorialnej administracji publicznej.
 
-2. Przepis ust. 1 nie dotyczy Ministra Sprawiedliwości, w zakresie obowiązku dostosowania struktury sądownictwa powszechnego i powszechnych jednostek organizacyjnych prokuratury do nowego podziału terytorialnego państwa.
+2. Przepis ust. 1 nie dotyczy Ministra Sprawiedliwo w zakresie dostosowania struktury downictwa powszechnego i powszechnych jednostek organizacyjnych prokuratury do nowego tery torialnego
 
 **Art. 96.**
 
-1. Postępowanie w sprawach indywidualnych wszczętych i nie zakończonych przed dniem 1 stycznia 1999 r., przechodzących do właściwości organów gmin, powiatów i samorządów województw, przejmują wójtowie, starostowie i marszałkowie województw, jeżeli przepisy szczególne nie stanowią inaczej, z tym że:
+1. w sprawach indywidual nych i nie przed dniem 1 stycznia 1999 r., do or ganów powiatów i województw, przej starostowie i województw, przepisy szczególne nie inaczej, z tym
 
-- **1)** wszystkie czynności podjęte w postępowaniu przed dniem 1 stycznia 1999 r., a także decyzje administracyjne pozostają w mocy,
-- **2)** odwołania od decyzji wydanych w pierwszej instancji przez terenowe organy administracji rządowej stopnia wojewódzkiego przed dniem 1 stycznia 1999 r. w sprawach przechodzących do właściwości powiatów rozpatrują właściwi ministrowie lub kierownicy centralnych organów administracji rządowej,
-- **3)** odwołania od decyzji wydanych przez kierowników rejonowych urzędów rządowej administracji ogólnej przed dniem 1 stycznia 1999 r. w sprawach przechodzących do właściwości gmin i powiatów:
-    - **a)** z zakresu administracji rządowej - rozpatruje wojewoda,
-    - **b)** z zakresu zadań własnych jednostek samorządu terytorialnego - rozpatruje właściwe terytorialnie samorządowe kolegium odwoławcze.
+- **1)** wszystkie w przed dniem 1 stycznia 1999 r., a decyzje admini stracyjne w mocy,
+- **2)** od decyzji wydanych w pierwszej in stancji przez terenowe organy administracji wej stopnia wojewódzkiego przed dniem 1 stycz nia 1999 r. w sprawach do powiatów ministrowie lub kierownicy centralnych organów administracji
+- **3)** od decyzji wydanych przez kierowników rejonowych administracji ogól nej przed dniem 1 stycznia 1999 r. w sprawach do powiatów:
+    - **a)** z zakresu administracji rozpatruje wojewoda,
+    - **b)** z zakresu jednostek terytorialnego rozpatruje terytorial nie kolegium
 
-2. Odwołania od decyzji wydanych w pierwszej instancji przez naczelnych dyrektorów okręgów dróg publicznych przed dniem 1 stycznia 1999 r. rozpatruje Generalny Dyrektor Dróg Publicznych.
+2. od decyzji wydanych w pierwszej in stancji przez naczelnych dyrektorów dróg pu blicznych przed dniem 1 stycznia 1999 r. rozpatruje Ge neralny Dyrektor Dróg Publicznych.
 
-3. Odwołania od decyzji wydanych w pierwszej instancji przez obwodowych i okręgowych kolejowych inspektorów sanitarnych rozpatruje wojewódzki inspektor sanitarny.
+3. od decyzji wydanych w pierwszej in stancji przez obwodowych i kolejowych inspektorów sanitarnych rozpatruje wojewódzki in spektor sanitarny.
 
-**Art. 97.** Z dniem 31 grudnia 1998 r. znosi się kolegialne organy opiniodawczodoradcze działające przy dotychczasowych wojewodach, kierownikach urzędów rejonowych i wojewódzkich sejmikach samorządowych.
+**Art. 97.** Z dniem 31 grudnia 1998 r. znosi kole gialne organy opiniodawczo-doradcze przy dotychczasowych wojewodach, kierownikach dów rejonowych i wojewódzkich sejmikach dowych.
 
 **Art. 98.**
 
-1. Z dniem przejęcia jednostek organizacyjnych powiaty i samorząd województwa przejmują, określone w przepisach szczególnych, uprawnienia i obowiązki organów prowadzących lub utrzymujących te jednostki.
+1. Z dniem jednostek organizacyj nych powiaty i województwa w przepisach szczególnych, uprawnienia i organów lub te jednostki.
 
-2. Statuty, regulaminy lub inne przepisy organizacyjne w przejmowanych jednostkach organizacyjnych zachowują moc do czasu wydania przez organy powiatu lub samorządu województwa nowych przepisów, chyba że do ich wydania są właściwe inne organy.
+2. Statuty, regulaminy lub inne przepisy organiza cyjne w przejmowanych jednostkach organizacyjnych moc do czasu wydania przez organy powia tu lub województwa nowych przepisów, chyba do ich wydania inne organy.
 
-**Art. 98a.** Organ, który na podstawie dotychczasowych przepisów utworzył publiczny zakład opieki zdrowotnej lub na podstawie tej ustawy przejął uprawnienia organu tworzącego publiczny zakład opieki zdrowotnej, w terminie do dnia 30 czerwca 1999 r., dostosuje skład rady społecznej do wymagań określonych w art. 45 ustawy z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej (Dz.U. Nr 91, poz. 408, z 1992 r. Nr 63, poz. 315; z 1994 r. Nr 121, poz. 591, z 1995 r. Nr 138, poz. 682, z 1996 r. Nr 24, poz. 110; z 1997 r. Nr 104, poz. 661, Nr 121, poz. 769, Nr 158, poz. 1041 i z 1998 r. Nr 106, poz. 668, Nr 117, poz. 756 i Nr 162, poz. 1115).
-
-**Art. 99.** Z dniem 31 grudnia 1998 r. wygasają porozumienia zawarte pomiędzy organami administracji rządowej i gminami lub innymi podmiotami, dotyczące wykonywania zadań i kompetencji administracji rządowej w zakresie opieki zdrowotnej.
-
-**Art. 100.** Po upływie terminu określonego w art. 20 ust. 2 ustawy z dnia 8 marca 1990 r. o samorządzie terytorialnym (Dz.U. z 1996 r. Nr 13, poz. 74, Nr 58, poz. 261, Nr 106, poz. 496 i Nr 132, poz. 622 oraz z 1997 r. Nr 9, poz. 43, Nr 106, poz. 679, Nr 107, poz. 686, Nr 113, poz. 734 i Nr 123, poz. 775) pierwszą sesję nowo wybranej rady gminy zwołuje właściwy miejscowo dotychczasowy wojewoda.
+**Art. 99.** Z dniem 31 grudnia 1998 r. poro zumienia zawarte organami administracji i gminami lub innymi podmiotami, ce wykonywania i kompetencji administracji dowej w zakresie opieki zdrowotnej. 100. Po terminu wart. 20 ust. 2 ustawy z dnia 8 marca 1990 r. o te rytorialnym (Dz. U. z 1996 r. 13, poz. 74, 58, poz. 261, 106, poz. 496 i 132, poz. 622 oraz z 1997 r. 9, poz. 43, 106, poz. 679, 107, poz. 686, 113, poz. 734 i 123, poz. 775) nowo wybra nej rady gminy miejscowo dotych czasowy wojewoda.
 
 **Art. 101.**
 
-1. Pierwszą sesję nowo wybranej rady powiatu zwołuje przewodniczący właściwej terytorialnie komisji wyborczej, w terminie czternastu dni od dnia ogłoszenia przez Państwową Komisję Wyborczą zbiorczych wyników wyborów do rad powiatów w Dzienniku Ustaw Rzeczypospolitej Polskiej.
+1. nowo wybranej rady po wiatu terytorialnie komisji wyborczej, w terminie czternastu dni od dnia przez zbior czych wyników wyborów do rad powiatów w Dzienni ku Rzeczypospolitej Polskiej.
 
-2. Na pierwszej sesji rada powiatu wybiera przewodniczącego rady, a także ustala termin wyboru zarządu powiatu, który nie może przypadać później niż w okresie dwóch tygodni od dnia zakończenia tej sesji.
+2. Na pierwszej sesji rada powiatu wybiera prze rady, a ustala termin wyboru za powiatu, który nie w okresie dwóch tygodni od dnia tej sesji.
 
-3. Jeżeli do dnia 15 listopada 1998 r. nie zostanie wybrany zarząd powiatu, rada powiatu ustanawia pełnomocnika do organizacji starostwa powiatowego.
+3. do dnia 15 listopada 1998 r. nie zostanie wybrany powiatu, rada powiatu ustanawia nomocnika do organizacji starostwa powiatowego.
 
-4. Rada powiatu ustanawia pełnomocnika, o którym mowa w ust. 3, w głosowaniu tajnym, zwykłą większością głosów ustawowego składu rady.
+4. Rada powiatu ustanawia o któ rym mowa w ust. 3, w tajnym, ustawowego rady.
 
-5. Jeżeli do dnia 25 listopada 1998 r. rada powiatu nie wybierze zarządu powiatu i nie ustanowi pełnomocnika, o którym mowa w ust. 3, pełnomocnika tego wyznacza Prezes Rady Ministrów na wniosek Delegata Rządu właściwego ze względu na siedzibę władz powiatu.
+5. do dnia 25 listopada 1998 r. rada powiatu nie wybierze powiatu i nie ustanowi nika, o którym mowa w ust. 3, tego wy znacza Prezes Rady Ministrów na wniosek Delegata du ze na powiatu.
 
-6. Do zadań pełnomocnika, o którym mowa w ust. 3 i 5, należy zorganizowanie starostwa powiatowego oraz przygotowanie projektów uchwał rady powiatu, w tym projektów statutu powiatu, a w przypadku niewybrania przez radę powiatu do dnia 31 grudnia 1998 r. zarządu powiatu - wykonywanie zadań zarządu powiatu i starosty, w tym wydawanie decyzji w sprawach indywidualnych.
+6. Do o którym mowa w ust. 3 i 5, zorganizowanie starostwa powiatowego oraz przygotowanie projektów rady powiatu, w tym projektów statutu powiatu, a w przypadku nie wybrania przez powiatu do dnia 31 grudnia 1998 r. powiatu wykonywanie po wiatu i starosty, w tym wydawanie decyzji w sprawach indywidualnych.
 
-7. Pełnomocnik, o którym mowa w ust. 3 i 5, działa do dnia wyboru zarządu powiatu.
+7. o którym mowa w ust. 3 i 5, do dnia wyboru powiatu.
 
-**Art. 102.**
+102. 1. nowo wybranego sejmi ku województwa terytorialnie komisji wyborczej, w terminie czternastu dni od zbiorczych wyników wyborów do sejmików województw na obszarze kraju. Otwarcie sesji powierza jednemu znajstarszych wiekiem radnych wskazanemu przez go komisji wyborczej.
 
-1. Pierwszą sesję nowo wybranego sejmiku województwa zwołuje przewodniczący właściwej terytorialnie komisji wyborczej, w terminie czternastu dni od ogłoszenia zbiorczych wyników wyborów do sejmików województw na obszarze całego kraju. Otwarcie sesji powierza się jednemu z najstarszych wiekiem radnych wskazanemu przez przewodniczącego komisji wyborczej.
+2. Na pierwszej sesji sejmik województwa wybiera sejmiku, a ustala termin wy boru województwa, który nie w okresie dwóch tygodni od dnia nia pierwszej sesji.
 
-2. Na pierwszej sesji sejmik województwa wybiera przewodniczącego sejmiku, a także ustala termin wyboru zarządu województwa, który nie może przypadać później niż w okresie dwóch tygodni od dnia zakończenia pierwszej sesji.
+3. do dnia 15 listopada 1998 r. nie zostanie wybrany województwa, sejmik województwa ustanawia do organizacji mar
 
-3. Jeżeli do dnia 15 listopada 1998 r. nie zostanie wybrany zarząd województwa, sejmik województwa ustanawia pełnomocnika do organizacji urzędu marszałkowskiego.
+4. do dnia 25 listopada 1998 r. sejmik woje wództwa nie wybierze województwa i nie usta nowi o którym mowa w ust. 3, mocnika tego wyznacza Prezes Rady Ministrów na wniosek Delegata
 
-4. Jeżeli do dnia 25 listopada 1998 r. sejmik województwa nie wybierze zarządu województwa i nie ustanowi pełnomocnika, o którym mowa w ust. 3, pełnomocnika tego wyznacza Prezes Rady Ministrów na wniosek Delegata Rządu.
+5. Do o którym mowa w ust. 3, zorganizowanie go oraz przygotowanie projektów sejmiku wo jewództwa, w tym projektu statutu województwa.
 
-5. Do zadań pełnomocnika, o którym mowa w ust. 3, należy zorganizowanie urzędu marszałkowskiego oraz przygotowanie projektów uchwał sejmiku województwa, w tym projektu statutu województwa
+6. o którym mowa w ust. 3 i 4, do dnia wyboru województwa.
 
-6. Pełnomocnik, o którym mowa w ust. 3 i 4, działa do dnia wyboru zarządu województwa.
+103. 1. Rada Ministrów w drodze roz do dnia 31 1998 r., wykaz dróg krajowych i wojewódzkich.
 
-**Art. 103.**
+2. Dotychczasowe drogi gminne oraz lokalne miej skie z dniem 1 stycznia 1999 r. drogami gmin nymi.
 
-1. Rada Ministrów określi, w drodze rozporządzenia, do dnia 31 października 1998 r., wykaz dróg krajowych i wojewódzkich.
+3. Z dniem 1 stycznia 1999 r. dotychczasowe drogi krajowe i wojewódzkie, nie wymienione w ust. 1, drogami powiatowymi.
 
-2. Dotychczasowe drogi gminne oraz lokalne miejskie stają się z dniem 1 stycznia 1999 r. drogami gminnymi.
+4. drogi powiatowej lub wojewódzkiej, który drogi, jest prawnym dotychczasowego drogi. Przepis art. 49 ust. 2 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieru (Dz. U. 115, poz. 741 i z 1998 r. 106, poz. 668) stosuje odpowiednio.
 
-3. Z dniem 1 stycznia 1999 r. dotychczasowe drogi krajowe i wojewódzkie, nie wymienione w ust. 1, stają się drogami powiatowymi.
+5. prawny dotychczasowego dro gi publicznej w jego prawa i w z zawartych umów i poro oraz decyzji administracyjnych.
 
-4. Zarząd drogi powiatowej lub wojewódzkiej, który przejął właściwe drogi, jest następcą prawnym dotychczasowego zarządu drogi. Przepis art. 49 ust. 2 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz.U. Nr 115, poz. 741 i z 1998 r. Nr 106, poz. 668) stosuje się odpowiednio.
+104. W okresie od dnia w ustawy do dnia 30 czerwca 2000 r. nie dokonuje gmin w celu utworzenia nowej gminy.
 
-5. Następca prawny dotychczasowego zarządu drogi publicznej wstępuje w jego prawa i obowiązki, w szczególności wynikające z zawartych umów i porozumień oraz decyzji administracyjnych.
-
-**Art. 104.** W okresie do dnia 31 grudnia 2005 r. nie dokonuje się podziału gmin w celu utworzenia nowej gminy.
-
-**Art. 105.** Do czasu wydania przepisów wykonawczych na podstawie upoważnień zmienionych ustawą kompetencyjną, nie dłużej jednak niż do dnia 30 września 1999 r., zachowują moc dotychczasowe akty wykonawcze, o ile nie są sprzeczne z ustawami.
+105. Do czasu wydania przepisów wykonaw czych na podstawie zmienionych nie jednak do dnia 30 wrze 1999 r., moc dotychczasowe akty wy konawcze, o ile nie sprzeczne z ustawami.
 
 **Art. 106.**
 
-1. Wojewodowie ustalą i ogłoszą w terminie do dnia 31 marca 1999 r. wykazy aktów prawa miejscowego wydanych przez dotychczasowych wojewodów i nadal obowiązujących na obszarze województwa lub jego części.
+1. Wojewodowie i w termi nie do dnia 31 marca 1999 r. wykazy aktów prawa miej scowego wydanych przez dotychczasowych wojewo dów i nadal na obszarze województwa lub jego
 
-2. Akty prawa miejscowego nie zamieszczone w wykazie, o którym mowa w ust. 1, tracą moc z dniem ogłoszenia wykazu.
+2. Akty prawa miejscowego nie zamieszczone w wykazie, o którym mowa w ust. 1, moc z dniem wykazu.
 
-**Art. 107.** Rada Ministrów do dnia 30 czerwca 2000 r. przedłoży Sejmowi informację o skutkach obowiązywania ustaw, o których mowa w art. 1, wraz z propozycjami niezbędnych zmian.
+**Art. 107.** Rada Ministrów do dnia 30 czerwca 2000 r. Sejmowi o skutkach wania ustaw, o których mowa wart. 1, wraz z propozy cjami zmian.
 
-**Art. 108.** W ustawie z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym (Dz.U. Nr 98, poz. 602, Nr 123, poz. 779, Nr 160, poz. 1086 oraz z 1998 r. Nr 106, poz. 668) w art. 109 w ust. 3 kropkę na końcu skreśla się i dodaje się wyrazy „albo w mieście, które do dnia 31 grudnia 1998 r. było siedzibą wojewody.”.
+**Art. 108.** W ustawie z dnia 20 czerwca 1997 r. Pra wo o ruchu drogowym (Dz. U. 98, poz. 602, 123, poz. 779 i 160, poz. 1086 oraz z 1998 r. 106, poz. 668) wart. 109 w ust. 3 na i dodaje wyrazy "albo w które do dnia 31 grudnia 1998 r. wojewody."
 
-**Art. 109.** Z dniem 31 grudnia 1998 r. tracą moc:
+**Art. 109.** Z dniem 31 grudnia 1998 r. moc:
 
-**Art. 110.** Ustawa wchodzi w życie z dniem ogłoszenia, z wyjątkiem art. 108, który wchodzi w życie z dniem 1 stycznia 1999 r.
+**Art. 110.** Ustawa wchodzi w z dn iem nia, z art. 108, który wchodzi w z dniem 1 styczn ia 1999 r. Prezydent Rzeczypospolitej Polskiej: A. Szanowni o ISSN 0867-3411 Cena 1 80 gr
 

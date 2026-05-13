@@ -36,5 +36,5 @@ USTAWA dnia 20 kwietnia 2021 zmianie ustawy Kodeks karny niektórych innych usta
 
 **Art. 7.** Do czynów popełnionych przed dniem wejścia życie niniejszej ustawy kar orzeczonych przed dniem wejścia życie niniejszej ustawy stosuje się przepisy przedawnieniu brzmieniu nadanym tą ustawą, chyba że termin przedawnienia już upłynął.
 
-**Art. 8.** Ustawa wchodzi życie upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 8.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
 

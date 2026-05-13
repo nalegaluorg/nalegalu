@@ -29,13 +29,13 @@ zmianie ustawy ochronie osób mienia ustawy Wojskowej wojskowych organach porzą
 
 **Art. 1.** W ustawie z dnia 22 sierpnia 1997 r. ochronie osób mienia (Dz. U. z 2020 r. poz. 838) wprowadza następujące zmiany:
 
-**Art. 43b.** Szef Sztabu Generalnego Wojska Polskiego, dowódcy rodzajów sił zbrojnych, Szef Inspektoratu obiektu dostępu urządzenia, art. 4 1 1, wyjścia wyjazdu z nich wynoszenia wywożenia mienia, a także uniemożliwienia nielegalnego wejścia osób postronnych ten obszar tego obiektu dostępu tego urządzenia;
+**Art. 43b.** Szef Sztabu Generalnego Wojska Polskiego, dowódcy rodzajów sił zbrojnych, Szef Inspektoratu obiektu do dostępu do urządzenia, art. 4 1 1, wyjścia wyjazdu z nich wynoszenia wywożenia mienia, a także do uniemożliwienia nielegalnego wejścia osób postronnych ten obszar do tego obiektu dostępu do tego urządzenia;
 
 **Art. 43d.** Specjalistyczne uzbrojone formacje ochronne realizują zadania z zakresu obszarów, obiektów urządzeń, art. 4 1 1, szczególności przez:
 
 **Art. 2.** W ustawie z dnia 24 sierpnia 2001 r. Wojskowej wojskowych organach porządkowych (Dz. U. z 2020 r. poz. 431, 956 2320) art. 4 2 po 16 dodaje 16a brzmieniu: „16a) przeprowadzanie kontroli obszarów, obiektów urządzeń, art. 4 1 1 ustawy z dnia 22 sierpnia 1997 r. ochronie osób mienia (Dz. U. z 2020 r. poz. 838 z 2021 r. poz. 469), specjalistyczne uzbrojone formacje ochronne;”.
 
-**Art. 3.** Do kontroli obszarów, obiektów urządzeń, art. 4 1 1 ustawy zmienianej art. 1, specjalistyczne uzbrojone formacje ochronne, wszczętych podstawie art. 44 1a tej ustawy niezakończonych dnia wejścia życie niniejszej ustawy, stosuje przepisy ustawy zmienianej art. 1 brzmieniu dotychczasowym.
+**Art. 3.** Do kontroli obszarów, obiektów urządzeń, art. 4 1 1 ustawy zmienianej art. 1, specjalistyczne uzbrojone formacje ochronne, wszczętych podstawie art. 44 1a tej ustawy niezakończonych do dnia wejścia życie niniejszej ustawy, stosuje przepisy ustawy zmienianej art. 1 brzmieniu dotychczasowym.
 
 **Art. 4.** Ustawa wchodzi życie po upływie 30 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
 

@@ -10,9 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# Ustawa z dnia 21 kwietnia 2017 r. o zmianie ustawy o stopniach naukowych i tytule naukowym oraz o stopniach i tytule w zakresie sztuki oraz niektórych innych ustaw
-
-*USTAWA dnia 21 kwietnia 2017 zmianie ustawy stopniach naukowych i tytule oraz stopniach i tytule zakresie sztuki oraz niektórych innych ustaw*
+# Poz.
 
 | Pole | Wartość |
 |---|---|
@@ -25,6 +23,8 @@ domain: null
 | Data wydania | 2017-04-28 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000859) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/859/text.pdf) |
+
+USTAWA dnia 21 kwietnia 2017 zmianie ustawy stopniach naukowych i tytule oraz stopniach i tytule zakresie sztuki oraz niektórych innych ustaw
 
 **Art. 1.** ustawie dnia 14 marca 2003 stopniach naukowych i tytule oraz stopniach i tytule zakresie sztuki (Dz. U. 2016 poz. 882 i 1311) wprowadza się następujące zmiany:
 

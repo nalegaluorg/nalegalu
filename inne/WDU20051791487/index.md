@@ -27,23 +27,23 @@ domain: null
 a) 26,0 t włącznie 0
 b) powyżej 26,0 t 31,0 t 600
 c) powyżej 31,0 t 36,0 t 440
-d) powyżej 36,0 t 46,0 t 2 880
-e) za każde rozpoczęte przekroczenie 5 t powyżej 46,0 dodatkowo 2 160
+d) powyżej 36,0 t 46,0 t 880
+e) za każde rozpoczęte przekroczenie 5 t powyżej 46,0 dodatkowo 160
 15) czteroosiowego pojazdu samochodowego dwoma osiami kierowanymi, jeżeli oś napędowa jest wyposażona opony bliêniacze zawieszenie pneumatyczne lub równoważne albo jeżeli każda zosi napędowych jest wyposażona wopony bliêniacze, amaksymalny nacisk każdej tych osi nie 9,5 t:
 a) 32,0 t włącznie 0
 b) powyżej 32,0 t 37,0 t 600
 c) powyżej 37,0 t 42,0 t 440
-d) powyżej 42,0 t 52,0 t 2 880
-e) za każde rozpoczęte przekroczenie 5 t powyżej 52,0 dodatkowo 2 160
+d) powyżej 42,0 t 52,0 t 880
+e) za każde rozpoczęte przekroczenie 5 t powyżej 52,0 dodatkowo 160
 16) trzyosiowego autobusu przegubowego:
 a) 28,0 t włącznie 0
 b) powyżej 28,0 t 33,0 t 600
 c) powyżej 33,0 t 38,0 t 440
-d) powyżej 38,0 t 48,0 t 2 880
-e) za każde rozpoczęte przekroczenie 5 t powyżej 48,0 dodatkowo 2 160 Za niedotrzymanie któregokolwiek zpozostałych warunków przejazdu podanych wzezwoleniu 000
+d) powyżej 38,0 t 48,0 t 880
+e) za każde rozpoczęte przekroczenie 5 t powyżej 48,0 dodatkowo 160 Za niedotrzymanie któregokolwiek zpozostałych warunków przejazdu podanych wzezwoleniu 000
 USTAWA dnia 29 lipca zmianie ustawy pomocy społecznej oraz ustawy Karta Nauczyciela
 
-**Art. 1.** W ustawie dnia 12 marca pomocy społecznej (Dz. 64, 593, póên. zm. gicznych zatrudnionych placówkach opie) kuńczo-wychowawczych ośrodkach adopwprowadza następujące zmiany: cyjno-opiekuńczych podstawie przepisów ustawy zdnia 26 stycznia 1982 Karta Na1) 22 dodaje pkt 8a uczyciela (Dz. 118, 1112, 2. Organ, po przeprowadzeniu negocjacji, zleca prowadzenie placówki podmiotowi uprawnionemu, jeżeli spełnione są warunki, których mowa 3. 3. Zlecenie realizacji zadania odbywa wtrybie określonym wust. 2, jeżeli placówka:
+**Art. 1.** W ustawie dnia 12 marca pomocy społecznej (Dz. U. 64, 593, póên. zm. gicznych zatrudnionych placówkach opie) kuńczo-wychowawczych ośrodkach adopwprowadza następujące zmiany: cyjno-opiekuńczych podstawie przepisów ustawy zdnia 26 stycznia 1982 Karta Na1) 22 dodaje pkt 8a uczyciela (Dz. U. 118, 1112, 2. Organ, po przeprowadzeniu negocjacji, zleca prowadzenie placówki podmiotowi uprawnionemu, jeżeli spełnione są warunki, których mowa ust. 3. 3. Zlecenie realizacji zadania odbywa wtrybie określonym wust. 2, jeżeli placówka:
 
-**Art. 2.** Wustawie zdnia 26 stycznia 1982 Karta Nauczyciela (Dz. 118, 1112, póên. zm. ) wprowadza następujące zmiany:
+**Art. 2.** Wustawie zdnia 26 stycznia 1982 Karta Nauczyciela (Dz. U. 118, 1112, póên. zm. ) wprowadza następujące zmiany:
 

@@ -21,7 +21,7 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 1995-12-22 |
 | Data wydania | 1996-01-23 |
-| Ostatnia zmiana | 2026-04-23 |
+| Ostatnia zmiana | 2026-05-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19960060042) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1996/42/text.pdf) |
 
 USTAWA z dnia 22 grudnia 1995 r.

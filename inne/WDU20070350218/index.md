@@ -24,9 +24,9 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070350218) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/218/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 19 paêdziernika 1991 ogospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2004 208, 2128, z póên. zm.
+**Art. 1.** W ustawie dnia 19 paêdziernika 1991 ogospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. 2004 208, 2128, póên. zm.
 
-**Art. 2.** W ustawie z dnia 4 września 1997 działach administracji rządowej (Dz. U. z 2003 159, 1548, z póên. zm. ) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie dnia 4 września 1997 działach administracji rządowej (Dz. U. 2003 159, 1548, póên. zm. ) wprowadza się następujące zmiany: ———————
 
 **Art. 4.** Ustawa wchodzi życie po upływie 14 dni
 

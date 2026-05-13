@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 20 czerwca
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 20 czerwca 2012
 
 | Pole | Wartość |
 |---|---|
@@ -24,7 +24,7 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000692) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/692/text.pdf) |
 
-USTAWA dnia 25 maja o zmianie ustawy o wykonywaniu wolności poza zakładem karnym systemie dozoru elektronicznego
+USTAWA dnia 25 maja 2012 zmianie wykonywaniu pozbawienia wolności poza zakładem karnym systemie dozoru
 
-**Art. 1.** W ustawie dnia 7 września 2007 o wykonywaniu wolności poza zakładem karnym systemie dozoru elektronicznego (Dz. U. 2010 142, 960 oraz 2011 217, 1280) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie dnia 7 września 2007 wykonywaniu pozbawienia wolności poza zakładem karnym systemie dozoru (Dz. U. 2010 142, 960 2011 217, 1280) wprowadza się następujące zmiany:
 

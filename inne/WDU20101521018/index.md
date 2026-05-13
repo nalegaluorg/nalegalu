@@ -80,7 +80,7 @@ domain: null
 
 1. Postępowania sprawach przejęcia na rzecz Skarbu Państwa własności pojazdów nieodebranych przez uprawnione osoby terminie określonym art. 130a 10 ustawy zmienianej art. 1 brzmieniu dotychczasowym, niezakończone przed dniem wejścia życie niniejszej ustawy umarza się, a sprawy przekazuje właściwym starostom. Przepis art. 10 stosuje odpowiednio.
 
-2. W przypadkach, których termin określony art. 130a 10 ustawy zmienianej art. 1 brzmieniu dotychczasowym, upłynął przed dniem wejścia rych 6-miesięczny termin od dnia ich usunięcia upłynął okresie od dnia 11 czerwca do dnia wejścia życie niniejszej ustawy.
+2. W przypadkach, których termin określony art. 130a 10 ustawy zmienianej art. 1 brzmieniu dotychczasowym, upłynął przed dniem wejścia rych 6-miesięczny termin od dnia ich usunięcia upłynął okresie od dnia 11 czerwca 2009 do dnia wejścia życie niniejszej ustawy.
 
 **Art. 14.** Podmioty zarządzające drogami, o których mowa art. 10 7 ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą, dostosują oznakowanie dróg, na których zarządzają ruchem, do wymagań wynikających przepisów ustawy, o której mowa art. 1, terminie 24 miesięcy od dnia wejścia życie ustawy.
 

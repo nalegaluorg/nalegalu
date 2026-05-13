@@ -24,16 +24,17 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000545) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/545/text.pdf) |
 
-1. Na podstawie art. 16 ust. zdanie pierwsze ustawy dnia 20 lipca 2000 ogłaszaniu aktów normatywnych niektórych innych aktów prawnych 2017 1523) ogłasza załączniku do niniejszego obwieszczenia jednolity tekst ustawy dnia 7 listopada 1996 obowiązkowych egzemplarzach bibliotecznych Nr 152,
+1. Na podstawie art. 16 zdanie pierwsze ustawy dnia 20 lipca 2000 ogłaszaniu aktów normatywnych niektórych innych aktów prawnych U. 2017 1523) ogłasza załączniku do niniejszego obwieszczenia jednolity tekst ustawy dnia 7 listopada 1996 obowiązkowych egzemplarzach bibliotecznych U. Nr 152,
 722), uwzględnieniem zmian wprowadzonych:
-1) ustawą dnia 4 września 2008 zmianie celu ujednolicenia terminologii informatycznej Nr 171,
+1) ustawą dnia 4 września 2008 zmianie celu ujednolicenia terminologii informatycznej U. Nr 171,
 1056),
-2) ustawą dnia 23 listopada 2012 Prawo pocztowe 1529),
-3) ustawą dnia 21 kwietnia 2017 zmianie ustawy kinematografii oraz niektórych innych 961) oraz zmian wynikających przepisów ogłoszonych przed dniem 5 marca 2018
+2) ustawą dnia 23 listopada 2012 Prawo pocztowe U. 1529),
+3) ustawą dnia 21 kwietnia 2017 zmianie ustawy kinematografii oraz niektórych innych U. 961) oraz zmian wynikających przepisów ogłoszonych przed dniem 5 marca 2018
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 35 ustawy dnia 4 września 2008 zmianie celu ujednolicenia terminologii informatycznej Nr 171, 1056), który stanowi: „Art. 35. Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, wyjątkiem art. 12 pkt 5, art. 13, art. 17 pkt 2 oraz art. 28, które wchodzą życie po upływie 6 miesięcy od dnia ogłoszenia.”;
-2) odnośnika nr oraz art. 192 ustawy dnia 23 listopada 2012 Prawo pocztowe 1529), które stanowią: „ Niniejsza ustawa dokonuje zakresie swojej regulacji wdrożenia dyrektywy 97/67/WE Parlamentu Europejskiego Rady dnia 15 grudnia 1997 sprawie wspólnych zasad rozwoju rynku wewnętrznego usług pocztowych Wspólnoty oraz poprawy jakości usług Urz. WE L 15 21.01.1998, str. 14, późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 6, t. 3, str. 71, późn. zm.).” „Art. 192. Ustawa wchodzi życie dniem stycznia 2013 r.”;
-3) art. 4 ustawy dnia 21 kwietnia 2017 zmianie ustawy kinematografii oraz niektórych innych
+1) art. 35 ustawy dnia 4 września 2008 zmianie celu ujednolicenia terminologii informatycznej U.
+Nr 171, 1056), który stanowi: „Art. 35. Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, wyjątkiem art. 12 pkt 5, art. 13, art. 17 pkt 2 oraz art. 28, które wchodzą życie po upływie 6 miesięcy od dnia ogłoszenia.”;
+2) odnośnika nr oraz art. 192 ustawy dnia 23 listopada 2012 Prawo pocztowe U. 1529), które stanowią: „ Niniejsza ustawa dokonuje zakresie swojej regulacji wdrożenia dyrektywy 97/67/WE Parlamentu Europejskiego Rady dnia 15 grudnia 1997 sprawie wspólnych zasad rozwoju rynku wewnętrznego usług pocztowych Wspólnoty oraz poprawy jakości usług Urz. WE L 15 21.01.1998, str. 14, późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 6, t. 3, str. 71, późn. zm.).” „Art. 192. Ustawa wchodzi życie dniem stycznia 2013 r.”;
+3) art. 4 ustawy dnia 21 kwietnia 2017 zmianie ustawy kinematografii oraz niektórych innych U.
 961), który stanowi: „Art. 4. Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia.”.
 Marszałek Sejmu: M. Kuchci ń ski
 USTAWA dnia 7 listopada 1996 obowi zkowych egzemplarzach bibliotecznych
@@ -54,11 +55,11 @@ USTAWA dnia 7 listopada 1996 obowi zkowych egzemplarzach bibliotecznych
 
 **Art. 3.**
 
-1. Wydawca, który udostępnia publicznie egzemplarze publikacji na obszarze Rzeczypospolitej Polskiej lub za granicą, obowiązany jest do nieodpłatnego przekazania uprawnionym bibliotekom liczby egzemplarzy publikacji (egzemplarze obowiązkowe), określonej art. 5 ust. 1–3.
+1. Wydawca, który udostępnia publicznie egzemplarze publikacji na obszarze Rzeczypospolitej Polskiej lub za granicą, obowiązany jest do nieodpłatnego przekazania uprawnionym bibliotekom liczby egzemplarzy publikacji (egzemplarze obowiązkowe), określonej art. 5 1–3.
 
-2. Obowiązkowi, którym mowa ust. 1, podlega również bezpośredni producent dzieła wyprodukowanego kraju dla wydawcy zagranicznego.
+2. Obowiązkowi, którym mowa 1, podlega również bezpośredni producent dzieła wyprodukowanego kraju dla wydawcy zagranicznego.
 
-3. Osoby, których mowa ust. 2, obowiązane są także do przekazywania uprawnionym bibliotekom egzemplarzy obowiązkowych:
+3. Osoby, których mowa 2, obowiązane są także do przekazywania uprawnionym bibliotekom egzemplarzy obowiązkowych:
 
 - **1)** kolejnych wydań tego samego dzieła;
 - **2)** poszczególnych mutacji gazet czasopism, tym również poszczególnych wersji językowych;
@@ -72,7 +73,7 @@ USTAWA dnia 7 listopada 1996 obowi zkowych egzemplarzach bibliotecznych
 
 **Art. 4.**
 
-1. Osoby, których mowa art. 3 ust. 2, nie są obowiązane do przekazywania egzemplarzy obowiązkowych:
+1. Osoby, których mowa art. 3 2, nie są obowiązane do przekazywania egzemplarzy obowiązkowych:
 
 - **1)** druków przeznaczonych wyłącznie do użytku służbowego organów administracji państwowej, organów samorządu terytorialnego, wojska oraz do użytku wewnętrznego organizacji politycznych, społecznych innych, jeżeli takie przeznaczenie zostało okre lone przed wykonaniem druku;
 - **2)** papierów znaków wartościowych;
@@ -80,7 +81,7 @@ USTAWA dnia 7 listopada 1996 obowi zkowych egzemplarzach bibliotecznych
 - **4)** druków, zapisów utrwalających dźwięk, obraz lub obraz dźwięk, dokonywanych na dowolnym nośniku lub dowolną techniką, przeznaczonych do użytku osobistego;
 - **5)** formularzy, biletów, etykiet opakowań.
 
-2. Minister Kultury Sztuki może, drodze rozporządzenia, wyłączyć obowiązku przekazywania egzemplarzy obowiązkowych także inne rodzaje dzieł niż określone ust. 1.
+2. Minister Kultury Sztuki może, drodze rozporządzenia, wyłączyć obowiązku przekazywania egzemplarzy obowiązkowych także inne rodzaje dzieł niż określone 1.
 
 **Art. 5.**
 
@@ -90,23 +91,23 @@ USTAWA dnia 7 listopada 1996 obowi zkowych egzemplarzach bibliotecznych
 
 3. Pozostałym bibliotekom uprawnionym przekazuje po jednym egzemplarzu obowiązkowym.
 
-4. Biblioteki, których mowa ust. 1, mają obowiązek wieczystego archiwizowania jednego egzemplarza obowiązkowego.
+4. Biblioteki, których mowa 1, mają obowiązek wieczystego archiwizowania jednego egzemplarza obowiązkowego.
 
 **Art. 6.**
 
-- **3)** Państwowej instytucji kultury wyspecjalizowanej zakresie ochrony narodowego dziedzictwa kulturalnego dziedzinie kinematografii, której mowa art. 28 ust. ustawy dnia 30 czerwca 2005 kinematografii 2016 438 oraz 2017 961), przekazuje po jednym egzemplarzu kopii filmu kinowego telewizyjnego. Obowiązek ten ciąży na producencie filmu. Przepisy art. 2 ust. oraz art. 3 ust. 2 4 stosuje odpowiednio.
+- **3)** Państwowej instytucji kultury wyspecjalizowanej zakresie ochrony narodowego dziedzictwa kulturalnego dziedzinie kinematografii, której mowa art. 28 ustawy dnia 30 czerwca 2005 kinematografii U. 2016 438 oraz 2017 961), przekazuje po jednym egzemplarzu kopii filmu kinowego telewizyjnego. Obowiązek ten ciąży na producencie filmu. Przepisy art. 2 oraz art. 3 2 4 stosuje odpowiednio.
 
 **Art. 7.**
 
-- **4)** Przesyłki zawierające egzemplarze obowiązkowe wysyłane do bibliotek uprawnionych do ich otrzymywania są zwolnione od opłat pocztowych, do wysokości najniższej opłaty za przyjęcie, przemieszczenie doręczenie przesyłki niebędącej przesyłką najszybszej kategorii, tego rodzaju, tej samej masy, ustalonej obowiązującym cenniku usług powszechnych operatora wyznaczonego rozumieniu ustawy dnia 23 listopada 2012 Prawo pocztowe 2017 1481 oraz 2018 106 138).
+- **4)** Przesyłki zawierające egzemplarze obowiązkowe wysyłane do bibliotek uprawnionych do ich otrzymywania są zwolnione od opłat pocztowych, do wysokości najniższej opłaty za przyjęcie, przemieszczenie doręczenie przesyłki niebędącej przesyłką najszybszej kategorii, tego rodzaju, tej samej masy, ustalonej obowiązującym cenniku usług powszechnych operatora wyznaczonego rozumieniu ustawy dnia 23 listopada 2012 Prawo pocztowe U. 2017 1481 oraz 2018 106 138).
 
 **Art. 8.**
 
-1. Kto uchyla od obowiązku przekazania uprawnionej bibliotece lub państwowej instytucji kultury wyspecjalizowanej zakresie ochrony narodowego dziedzictwa kulturalnego dziedzinie kinematografii, której mowa art. 28 ust. ustawy dnia 30 czerwca 2005 kinematografii, egzemplarza obowiązkowego, podlega karze grzywny.
+1. Kto uchyla od obowiązku przekazania uprawnionej bibliotece lub państwowej instytucji kultury wyspecjalizowanej zakresie ochrony narodowego dziedzictwa kulturalnego dziedzinie kinematografii, której mowa art. 28 ustawy dnia 30 czerwca 2005 kinematografii, egzemplarza obowiązkowego, podlega karze grzywny.
 
-2. Orzekanie sprawach określonych ust. następuje trybie przepisów postępowaniu sprawach wykroczenia.
+2. Orzekanie sprawach określonych następuje trybie przepisów postępowaniu sprawach wykroczenia.
 
-**Art. 9.** Tracą moc przepisy art. 32 art. 33 ustawy dnia 9 kwietnia 1968 bibliotekach 63, 1984 129, 1989 155 192 oraz 1990 198).
+**Art. 9.** Tracą moc przepisy art. 32 art. 33 ustawy dnia 9 kwietnia 1968 bibliotekach U. 63, 1984 129, 1989 155 192 oraz 1990 198).
 
 **Art. 10.** Ustawa wchodzi życie po upływie 3 miesięcy od dnia ogłoszenia .
 

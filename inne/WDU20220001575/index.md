@@ -24,15 +24,15 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001575) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1575/text.pdf) |
 
-1. Na podstawie 16 ust. zdanie pierwsze 20 lipca 2000 ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych 2019 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst 7 stycznia 1993 planowaniu rodziny, ochronie płodu ludzkiego i warunkach dopuszczalności ciąży 78), uwzględnieniem zmian wprowadzonych:
+1. Na podstawie 16 ust. 1 zdanie pierwsze 20 lipca 2000 ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych 2019 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst 7 stycznia 1993 planowaniu rodziny, ochronie płodu ludzkiego i warunkach dopuszczalności ciąży 78), uwzględnieniem zmian wprowadzonych:
 1) ustawą 30 marca 1995 zmianie planowaniu rodziny, ochronie płodu ludzkiego i warunkach dopuszczalności ciąży 334),
 2) ustawą 30 sierpnia 1996 zmianie planowaniu rodziny, ochronie płodu ludzkiego i warunkach dopuszczalności ciąży oraz zmianie niektórych innych ustaw 646),
 3) ustawą 4 września 1997 działach administracji rządowej 943 oraz 1998 1122),
-4) obwieszczeniem Prezesa Trybunału Konstytucyjnego 18 grudnia 1997 utracie mocy obowiązującej pkt 2, pkt 5, 2 pkt 2, 3 pkt i 3 pkt 4 zmianie planowaniu rodziny, ochronie płodu ludzkiego i warunkach dopuszczalności ciąży oraz zmianie niektórych innych ustaw 1040),
+4) obwieszczeniem Prezesa Trybunału Konstytucyjnego 18 grudnia 1997 utracie mocy obowiązującej 1 pkt 2, 1 pkt 5, 2 pkt 2, 3 pkt 1 i 3 pkt 4 zmianie planowaniu rodziny, ochronie płodu ludzkiego i warunkach dopuszczalności ciąży oraz zmianie niektórych innych ustaw 1040),
 5) ustawą 16 grudnia 1998 zmianie planowaniu rodziny, ochronie płodu ludzkiego i warunkach dopuszczalności ciąży 1999 32),
 6) ustawą 17 grudnia 2001 zmianie pomocy społecznej, planowaniu rodziny, ochronie płodu ludzkiego i warunkach dopuszczalności ciąży, rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych, systemie ubezpieczeń społecznych oraz emeryturach i rentach Funduszu Ubezpieczeń Społecznych 1792),
 7) wyrokiem Trybunału Konstytucyjnego 22 października 2020 sygn. akt K 1/20 2021 175),
-8) ustawą października 2021 zmianie niektórych ustaw celu poprawy spójności terminologicznej systemu prawnego 2052) oraz zmian wynikających przepisów ogłoszonych przed 30 czerwca 2022
+8) ustawą 1 października 2021 zmianie niektórych ustaw celu poprawy spójności terminologicznej systemu prawnego 2052) oraz zmian wynikających przepisów ogłoszonych przed dniem 30 czerwca 2022
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity nie obejmuje:
 1) 5–8 7 stycznia 1993 planowaniu rodziny, ochronie płodu ludzkiego i warunkach dopuszczalności
 
@@ -42,9 +42,9 @@ domain: null
 
 **Art. 149b.** Kto stosując przemoc wobec kobiety ciężarnej powoduje śmierć dziecka poczętego albo inny sposób powoduje śmierć dziecka poczętego bez zgody kobiety ciężarnej lub przemocą, groźbą bezprawną albo podstępem doprowadza matkę dziecka poczętego do pozbawienia życia tego dziecka, podlega karze pozbawienia wolności od 6 miesięcy do lat 8.”,
 
-**Art. 8.** W ustawie 8 marca 1990 samorządzie terytorialnym Nr 16, 95, Nr 32, 191, Nr 34, 199, Nr 43, 253 i Nr 89, 518, 1991 Nr 4, 18 i Nr 110, 473 oraz 1992 Nr 85, 428 i Nr 100, 499) 7 ust. dodaje się pkt 16 brzmieniu: „16) zapewnienia kobietom ciąży opieki socjalnej, medycznej i prawnej.” ”;
+**Art. 8.** W ustawie 8 marca 1990 samorządzie terytorialnym Nr 16, 95, Nr 32, 191, Nr 34, 199, Nr 43, 253 i Nr 89, 518, 1991 Nr 4, 18 i Nr 110, 473 oraz 1992 Nr 85, 428 i Nr 100, 499) 7 ust. 1 dodaje się pkt 16 brzmieniu: „16) zapewnienia kobietom ciąży opieki socjalnej, medycznej i prawnej.” ”;
 
-**Art. 6.** Ustawa wchodzi życie po upływie 30 dni od ogłoszenia, tym że przepis 4 ust. 2 ustawy, której mowa 1, brzmieniu ustalonym niniejszą ustawą, wchodzi życie września 1997 r.”;
+**Art. 6.** Ustawa wchodzi życie po upływie 30 dni od ogłoszenia, tym że przepis 4 ust. 2 ustawy, której mowa 1, brzmieniu ustalonym niniejszą ustawą, wchodzi życie dniem 1 września 1997 r.”;
 
 **Art. 1.**
 
@@ -64,7 +64,7 @@ domain: null
 
 3. Szkoła ma obowiązek udzielić uczennicy ciąży urlopu oraz innej pomocy niezbędnej do ukończenia przez nią edukacji, miarę możliwości nie powodując opóźnień zaliczaniu przedmiotów. Jeżeli ciąża, poród lub połóg powoduje niemożliwość zaliczenia terminie egzaminów ważnych dla ciągłości nauki, szkoła zobowiązana jest do wyznaczenia dodatkowego terminu egzaminu dogodnego dla kobiety, okresie nie dłuższym niż 6 miesięcy.
 
-4. Zakres i formy oraz tryb udzielania pomocy, której mowa ust. i 2, określa, drodze rozporządzenia, Rada Ministrów.
+4. Zakres i formy oraz tryb udzielania pomocy, której mowa ust. 1 i 2, określa, drodze rozporządzenia, Rada Ministrów.
 
 **Art. 3.**
 
@@ -88,15 +88,15 @@ domain: null
 - **3)** zachodzi uzasadnione podejrzenie, że ciąża powstała wyniku czynu zabronionego,
 - **4)** (utracił moc)
 
-2. W przypadkach określonych ust. pkt 2 przerwanie ciąży jest dopuszczalne do chwili osiągnięcia przez płód zdolności do samodzielnego życia poza organizmem kobiety ciężarnej; przypadku określonym ust. pkt 3 lub 4, jeżeli od początku ciąży nie upłynęło więcej niż 12 tygodni.
+2. W przypadkach określonych ust. 1 pkt 2 przerwanie ciąży jest dopuszczalne do chwili osiągnięcia przez płód zdolności do samodzielnego życia poza organizmem kobiety ciężarnej; przypadku określonym ust. 1 pkt 3 lub 4, jeżeli od początku ciąży nie upłynęło więcej niż 12 tygodni.
 
-3. W przypadkach, których mowa ust. pkt i 2, przerwania ciąży dokonuje lekarz szpitalu.
+3. W przypadkach, których mowa ust. 1 pkt 1 i 2, przerwania ciąży dokonuje lekarz szpitalu.
 
 4. Do przerwania ciąży wymagana jest pisemna zgoda kobiety. W przypadku małoletniej lub kobiety ubezwłasnowolnionej całkowicie wymagana jest pisemna zgoda jej przedstawiciela ustawowego. W przypadku małoletniej powyżej 13 roku życia wymagana jest również pisemna zgoda tej osoby. W przypadku małoletniej poniżej 13 roku życia wymagana jest zgoda sądu opiekuńczego, a małoletnia ma prawo do wyrażenia własnej opinii. W przypadku kobiety ubezwłasnowolnionej całkowicie wymagana jest także pisemna zgoda tej osoby, chyba że na wyrażenie zgody nie pozwala stan jej zdrowia psychicznego. W razie braku zgody przedstawiciela ustawowego, do przerwania ciąży wymagana jest zgoda sądu opiekuńczego.
 
-5. Wystąpienie okoliczności, których mowa ust. pkt i 2, stwierdza inny lekarz niż dokonujący przerwania ciąży, chyba że ciąża zagraża bezpośrednio życiu kobiety. Okoliczność, której mowa ust. pkt 3, stwierdza prokurator.
+5. Wystąpienie okoliczności, których mowa ust. 1 pkt 1 i 2, stwierdza inny lekarz niż dokonujący przerwania ciąży, chyba że ciąża zagraża bezpośrednio życiu kobiety. Okoliczność, której mowa ust. 1 pkt 3, stwierdza prokurator.
 
-6. W przypadku, którym mowa ust. pkt 4, kobieta składa pisemne oświadczenie, a ponadto zaświadczenie odbytej konsultacji u lekarza podstawowej opieki zdrowotnej, innego niż dokonujący przerwania ciąży, lub u innej wybranej przez siebie uprawnionej osoby. Przerwanie ciąży może być dokonane, jeżeli kobieta podtrzymuje zamiar przerwania ciąży po upływie 3 dni od konsultacji.
+6. W przypadku, którym mowa ust. 1 pkt 4, kobieta składa pisemne oświadczenie, a ponadto zaświadczenie odbytej konsultacji u lekarza podstawowej opieki zdrowotnej, innego niż dokonujący przerwania ciąży, lub u innej wybranej przez siebie uprawnionej osoby. Przerwanie ciąży może być dokonane, jeżeli kobieta podtrzymuje zamiar przerwania ciąży po upływie 3 dni od konsultacji.
 
 7. Celem konsultacji, której mowa ust. 6, jest szczególności ustalenie sytuacji zdrowotnej i życiowej kobiety, pomoc rozwiązaniu jej problemów, między innymi poprzez wskazanie dostępnych form pomocy przysługujących kobietom związku ciążą i po urodzeniu dziecka, poinformowanie kobiety ochronie prawnej życia fazie prenatalnej, aspektach medycznych ciąży oraz przerwania ciąży, a także środkach i metodach antykoncepcyjnych. Za zgodą kobiety konsultacji może wziąć udział jej partner, członkowie rodziny lub inna bliska osoba.
 

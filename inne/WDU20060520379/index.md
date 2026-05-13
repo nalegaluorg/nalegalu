@@ -21,7 +21,7 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2006-03-10 |
 | Data wydania | 2006-03-30 |
-| Ostatnia zmiana | 2026-04-23 |
+| Ostatnia zmiana | 2026-04-29 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060520379) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/379/text.pdf) |
 
 **Art. 1.** Ustawa określa zasady zwrotu podatku akcyzowego, zwanego dalej Ńzwrotem podatku”, zawartego wcenie oleju napędowego oznaczonego kodem CN 2710 19 41 2710 19 49, wykorzystywanego produkcji rolnej, zwanego dalej Ńolejem napędowym”.

@@ -31,9 +31,9 @@ zmianie ustawy odnawialnych źródłach oraz ustawy – Prawo energetyczne
 
 **Art. 2.** W ustawie dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. 2012 r. poz. 1059, późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 3.** Zatwierdzone decyzjami Prezesa Urzędu Regulacji Energetyki taryfy dla elektrycznej albo zmiany tych taryf, ustalone przedsiębiorstwa energetyczne zajmujące się przesyłaniem dystrybucją elektrycznej, części dotyczącej opłaty związanej zapewnieniem Operatora Rozliczeń Energii Odnawialnej dostępności elektrycznej ze źródeł odnawialnych krajowym systemie elektroenergetycznym, obowiązują od dnia wejścia życie przepisów rozdziału 4 ustawy, której 1 niniejszej ustawy dotyczących sposobu obliczania pobierania powołanej opłaty.
+**Art. 3.** Zatwierdzone decyzjami Prezesa Urzędu Regulacji Energetyki taryfy dla elektrycznej albo zmiany tych taryf, ustalone przedsiębiorstwa energetyczne zajmujące się przesyłaniem dystrybucją elektrycznej, części dotyczącej opłaty związanej zapewnieniem Operatora Rozliczeń Energii Odnawialnej dostępności elektrycznej ze źródeł odnawialnych krajowym systemie elektroenergetycznym, obowiązują od dnia wejścia życie przepisów rozdziału 4 której 1 niniejszej ustawy dotyczących sposobu obliczania i pobierania powołanej opłaty.
 
-**Art. 4.** Dotychczasowe przepisy wykonawcze wydane podstawie 6 5, 9 2, 10 5 oraz 53 4 ustawy zmienianej 1, brzmieniu dotychczasowym, zachowują moc dnia wejścia życie przepisów wykonawczych wydanych odpowiednio podstawie 6 5, 9 2, 10 5 oraz 53 4 ustawy zmienianej 1, brzmieniu nadanym niniejszą ustawą, dłużej jednak niż 24 miesiące od dnia wejścia życie niniejszej ustawy.
+**Art. 4.** Dotychczasowe przepisy wykonawcze wydane podstawie 6 5, 9 2, 10 5 oraz 53 4 ustawy zmienianej 1, brzmieniu dotychczasowym, zachowują moc dnia wejścia życie przepisów wykonawczych wydanych odpowiednio podstawie 6 5, 9 2, 10 5 oraz 53 4 ustawy zmienianej 1, brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż 24 miesiące od dnia wejścia życie niniejszej ustawy.
 
 **Art. 5.** Ustawa wchodzi życie dniem 31 grudnia 2015 r. Prezydent Rzeczypospolitej Polskiej: A. Duda
 

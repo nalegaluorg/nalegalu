@@ -84,7 +84,7 @@ Administracyjnego wspólnie przedstawicielami zgromadzeń ogólnych wojewódzkic
 18. W razie zwolnienia stanowiska członka Prezydium Rady, dokonuje wyboru uzupełniającego na najbliższym posiedzeniu.
 2. Wybór Przewodniczącego, wiceprzewodniczących
 2) komisję budżetową, której zadaniem jest coroczne:
-a) pracowywanie projektu uchwały zawierającej plan dochodów wydatków Rady uchwał zawierających wnioski, których mowa art. 178 § 3 ustawy dnia 27 lipca 2001 Prawo ustroju sądów powszechnych (Dz. U. 98, poz. 1070, późn. zm. ) art. 4 § 4 ustawy dnia 21 sierpnia 1997 Prawo ustroju sądów wojskowych (Dz. U. 2007 226, poz. 1676, późn. zm. ),
+a) pracowywanie projektu uchwały zawierającej plan dochodów wydatków Rady uchwał zawierających wnioski, których mowa art. 178 § 3 ustawy dnia 27 lipca 2001 Prawo ustroju sądów powszechnych (Dz. U. 98, 1070, późn. zm. ) art. 4 § 4 ustawy dnia 21 sierpnia 1997 Prawo ustroju sądów wojskowych (Dz. U. 2007 226, 1676, późn. zm. ),
 b) b adanie danych zawartych oświadczeniach prezesów sądów apelacyjnych prezesów wojskowych sądów okręgowych ich stanie majątkowym celem dokonania przez Radę analizy tych oświadczeń do dnia 30 czerwca każdego roku;
 3) k omisję do spraw wizytacji lustracji, której zadaniem jest przygotowanie projektów uchwał sprawach przeprowadzenia wizytacji sądu albo jego jednostki organizacyjnej, lustracji sądzie albo lustracji pracy sędziego;
 4) k omisję do spraw etyki zawodowej sędziów, której zadaniem jest przygotowywanie projektów uchwał dotyczących zbioru zasad etyki zawodowej sędziów przestrzegania tych zasad.
@@ -106,7 +106,7 @@ cią głosów, głosowaniu jawnym. Na żądanie członka Rady głosowanie jest t
 1) diety za każdy dzień udziału posiedzeniach plenarnych innych pracach Rady wysokości 20%
 2. Dochody wydatki Rady stanowią odrębną część budżecie państwa.
 3. Dysponentem części budżetowej odpowiadającej Radzie jest Przewodniczący Rady.
-4. Projekt planu dochodów wydatków uchwalony przez Radę Przewodniczący Rady przekazuje ministrowi właściwemu do spraw budżetu, celu włączenia do projektu ustawy budżetowej na podstawie art. 139 ust. 2 ustawy dnia 27 sierpnia 2009 finansach publicznych (Dz. U. 157, poz. 1240, późn. zm. ).
+4. Projekt planu dochodów wydatków uchwalony przez Radę Przewodniczący Rady przekazuje ministrowi właściwemu do spraw budżetu, celu włączenia do projektu ustawy budżetowej na podstawie art. 139 ust. 2 ustawy dnia 27 sierpnia 2009 finansach publicznych (Dz. U. 157, 1240, późn. zm. ).
 28. Członek Rady jest wyłączony mocy prawa sprawach:
 1) które jego dotyczą;
 2) swego małżonka, krewnych lub powinowatych linii prostej, krewnych bocznych do czwartego stopnia powinowatych bocznych do drugiego stopnia;
@@ -136,7 +136,7 @@ zespół kieruje przede wszystkim oceną kwalifikacji kandydatów, a ponadto uwz
 2) szczegółowe zestawienie okresów niepełnienia służby ze względu na chorobę urlop dla poratowania zdrowia;
 odpowiednio.
 40. O wszczęciu postępowania lub odmowie uwzględnienia wniosku przedmiocie stwierdzenia okoliczności wymienionych art. 7 ust. 1 pkt 1—5, ust. 2 ust. 3 art. 8 ust. 1 ustawy dnia 17 grudnia 1997 zmianie ustawy Prawo ustroju sądów powszechnych niektórych innych ustaw (Dz. U.
-1998 98, poz. 607 2001 98, poz. 1070), rozstrzyga drodze uchwały.
+1998 98, 607 2001 98, 1070), rozstrzyga drodze uchwały.
 2. Odpis uchwały doręcza wnioskodawcy zainteresowanemu sędziemu lub członkowi jego rodziny wraz odpisem wniosku. Odpis uchwały wszczęciu postępowania doręcza również jednostce organizacyjnej wypłacającej uposażenie sędziowskie lub uposażenie rodzinne.
 3. Doręczając sędziemu lub członkowi jego rodziny odpis uchwały wszczęciu postępowania, udziela pouczenia treści art. 7 ust. 3 ustawy, której mowa ust. 1, wzywając do złożenia wyjaśnień na piśmie wniosków dowodowych, wyznacza tym celu odpowiedni termin.
 4. Po bezskutecznym upływie terminu, którym mowa ust. 3, po przeprowadzeniu przez zespół postępowania wyjaśniającego, podejmuje uchwałę stwierdzającą okoliczności wymienione art. 7 ust. 1 pkt 1—5, ust. 2 ust. 3 art. 8 ust. 1 ustawy, której mowa ust. 1, lub odmawiającą ich stwierdzenia.
@@ -145,21 +145,22 @@ odpowiednio.
 2. Uzasadnienie uchwały sporządza terminie miesiąca od jej podjęcia.
 3. Uchwały sprawach indywidualnych doręcza uczestnikom postępowania wraz uzasadnieniem pouczeniem sposobie wniesienia odwołania do Sądu Najwyższego.
 43. Uchwała Rady staje prawomocna, jeżeli nie przysługuje od niej odwołanie.
-2. Jeżeli uchwały, której mowa art. 37 ust. 1, nie zaskarżyli wszyscy uczestnicy postępowania, uchwała ta staje prawomocna części obejmującej rozstrzygnięcia nieprzedstawieniu wniosku powołanie suje przepisy ustawy dnia 17 listopada 1964 Kodeks postępowania cywilnego (Dz. U. 43, poz. 296, późn. zm. ) skardze kasacyjnej. Przepisów art. 87 Kodeksu postępowania cywilnego nie stosuje się.
+2. Jeżeli uchwały, której mowa art. 37 ust. 1, nie zaskarżyli wszyscy uczestnicy postępowania, uchwała ta staje prawomocna części obejmującej rozstrzygnięcia nieprzedstawieniu wniosku powołanie suje przepisy ustawy dnia 17 listopada 1964 Kodeks postępowania cywilnego (Dz. U. 43, 296, późn. zm. ) skardze kasacyjnej. Przepisów art. 87 Kodeksu postępowania cywilnego nie stosuje się.
 Prezydent.
 3. O ponownym rozpatrzeniu albo jego odmowie rozstrzyga drodze uchwały.
-46. W ustawie dnia 17 grudnia 1997 zmianie ustawy Prawo ustroju sądów powszechnych niektórych innych ustaw (Dz. U. 1998 98, poz. 607 2001 98, poz. 1070) art. 7 ust. 4 otrzymuje brzmienie: „4. Okoliczności wymienione ust. 1 pkt 1—5, ust. 2 3 stosunku do sędziów lub członków ich rodzin stwierdza Krajowa Sądownictwa, drodze uchwały. Wniosek podjęcie uchwały może złożyć Minister Sprawiedliwości, a także osoba represjonowana za działalność niepodległościową lub obronę praw człowieka, a razie śmierci tej osoby jej małżonek, rodzeństwo lub dzieci.”.
-47. W ustawie dnia 27 lipca 2001 Prawo ustroju sądów powszechnych (Dz. U. 98, poz. 1070, późn. zm.
+46. W ustawie dnia 17 grudnia 1997 zmianie ustawy Prawo ustroju sądów powszechnych niektórych innych ustaw (Dz. U. 1998 98, 607 2001 98, 1070) art. 7 ust. 4 otrzymuje brzmienie: „4. Okoliczności wymienione ust. 1 pkt 1—5, ust. 2 3 stosunku do sędziów lub członków ich rodzin stwierdza Krajowa Sądownictwa, drodze uchwały. Wniosek podjęcie uchwały może złożyć Minister Sprawiedliwości, a także osoba represjonowana za działalność niepodległościową lub obronę praw człowieka, a razie śmierci tej osoby jej małżonek, rodzeństwo lub dzieci.”.
+47. W ustawie dnia 27 lipca 2001 Prawo ustroju sądów powszechnych (Dz. U. 98, 1070, późn. zm.
 dzenia ogólnego tego sądu.”,
 b) § 3 4 otrzymują brzmienie: „§ 3. W przypadku wydania przez zgromadzenie ogólne negatywnej opinii kandydacie, Prezes Naczelnego Sądu Administracyjnego może go powołać po uzyskaniu pozytywnej opinii Krajowej Rady Sądownictwa. Negatywna opinia Krajowej Rady Sądownictwa jest dla Prezesa Naczelnego Sądu Administracyjnego wiążąca.
 § 4. Jeżeli Krajowa Sądownictwa terminie trzydziestu dni od dnia przedstawienia przez Prezesa Naczelnego Sądu Administracyjnego zamiaru powołania sędziego na stanowisko prezesa sądu, mimo negatywnej opinii zgromadzenia ogólnego tego sądu, nie wyda opinii, uważa się, że opinia jest pozytywna.”;
 2) art. 21a § 2 zdanie pierwsze otrzymuje brzmienie: „Odwołanie prezesa wiceprezesa sądu wojewódzkim sądzie administracyjnym następuje po zasięgnięciu opinii zgromadzenia ogólnego tego sądu Krajowej Rady Sądownictwa.”;
 ) art. 70 po § 3 dodaje § 3a brzmie- 3) art. 46 uchyla § 3.
-niu: 49. W ustawie dnia 23 listopada 2002 Są„§ 3a. Od orzeczenia lekarza orzecznika, którym mo- dzie Najwyższym (Dz. U. 240, poz. 2052, późn. zm.
+niu: 49. W ustawie dnia 23 listopada 2002 Są„§ 3a. Od orzeczenia lekarza orzecznika, którym mo- dzie Najwyższym (Dz. U. 240, 2052, późn. zm.
 wa § 1 2, zainteresowanemu sędziemu lub kolegium właściwego sądu przysługuje sprzeciw do komisji lekarskiej Zakładu Ubezpieczeń Społecznych, ciągu 14 dni od dnia doręczenia tego orzeczenia.”.
-48. W ustawie dnia 25 lipca 2002 Prawo ustroju sądów administracyjnych (Dz. U. 153, poz. 1269, 2005 169, poz. 1417, 2009 219, poz. 1706 2010 36, poz. 196) wprowadza następujące zmiany: ) art. 31 § 7 otrzymuje brzmienie: „§ 7. Jeżeli wnioskiem przeniesienie sędziego stan spoczynku wystąpiło Kolegium Sądu Najwyższego, odwołanie przysługuje także temu Kolegium.”.
+48. W ustawie dnia 25 lipca 2002 Prawo ustroju sądów administracyjnych (Dz. U. 153, 1269, 2005 169, 1417, 2009 219, 1706 2010 36, 196) wprowadza następujące zmiany: ) art. 31 § 7 otrzymuje brzmienie: „§ 7. Jeżeli wnioskiem przeniesienie sędziego stan spoczynku wystąpiło Kolegium Sądu Najwyższego, odwołanie przysługuje także temu Kolegium.”.
 50. Kadencja członków Rady Prezydium Rady wybranych na podstawie dotychczasowych przepisów trwa do końca okresu, na który zostali wybrani.
-51. Traci moc ustawa dnia 27 lipca 2001 Krajowej Radzie Sądownictwa (Dz. U. 2010 11, poz. 67).
+51. Traci moc ustawa dnia 27 lipca 2001 Krajowej Radzie Sądownictwa (Dz. U. 2010 11,
+67).
 52. Ustawa wchodzi życie po upływie 30 dni od dnia ogłoszenia.
 
 #### Rozdział 2 Kompetencje ustrój Rady

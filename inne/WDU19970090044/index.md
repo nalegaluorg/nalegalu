@@ -24,21 +24,26 @@ domain: null
 | Ostatnia zmiana | 2026-03-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970090044) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/44/text.pdf) |
 
-24. W ustawie dnia 8 marca 1990 dzie terytorialnym (Dz. U. 13, poz. 74, 58, poz. 261, 106, poz. 496 132, poz. 622) wart. 9:
+24. W ustawie dnia 8 marca 1990 r.
+dzie terytorialnym (Dz. U. r. 13, poz. 74, 58, poz. 261, 106, poz. 496 132, poz. 622) wart. 9:
 1) uSl. 1 wyrazy", tym stwa,";
 2) 2 otrzymuje brzmienie: ,,2. Gmina oraz inna komunalna osoba prawna wy poza zadania charakterze publicznej przypadkach ustawie.";
-dodaje 3 4 brzmieniu: ,,3. Formy prowadzenia gospodarki komunalnej, tym wykonywania chacownikach (Dz. U. 21, poz. 124 43, poz. 253 oraz 1994 98, poz. 471) wart. 1 po wyrazach "jednostkach administracyjnych gminy" dodaje wyrazy "oraz komunalnych bu .
-26. W ustawie dnia 10 maja 1990 Przepi sy terytorial nym pracownikach (Dz. U.
-32, poz. 191, 43, poz. 253 92, poz. 541, 1991 34, poz. 151, 1992 6, poz. 20, 1993 40, poz. 180, 1994 1, poz. 3 65, poz. 285 orazz 1996r. Nr23, poz. 102 106, poz. 496)wart.8
+dodaje 3 4 brzmieniu: ,,3. Formy prowadzenia gospodarki komunalnej, tym wykonywania chacownikach (Dz. U. 21, poz. 124 43, poz. 253 oraz 1994 r. 98, poz. 471) wart. 1 po wyrazach "jednostkach administracyjnych gminy" dodaje wyrazy "oraz komunalnych bu .
+26. W ustawie dnia 10 maja 1990 r. Przepi sy terytorial nym pracownikach (Dz. U.
+32, poz. 191, 43, poz. 253 92, poz. 541, 1991 r. 34, poz. 151, 1992 r. 6, poz. 20, 1993 r.
+40, poz. 180, 1994 r. 1, poz. 3 65, poz. 285 orazz 1996r. Nr23, poz. 102 106, poz. 496)wart.8
 27. gminy terminie 6 od dnia ustawy dostosuje statuty przed dniem ustawy przepisów ustawy.
 28. Ustawa wchodzi po 14 dni od dnia tym przepis art. 11 wchodzi po 3 od dnia Prezydent Rzeczypospolitej Polskiej: A.
-USTAWA dnia 20 grudnia portach przystaniach morskich.
+USTAWA dnia 20 grudnia r.
+portach przystaniach morskich.
 1 Przepisy ogólne
 1. 1. Ustawa zasady tworzenia podmio tów portami przystaniami morskimi, ich funkcjonowanie.
 Granice przystani przepisy.
 3. Przepisów ustawy nie stosuje wo jennych.
 2) porcie Jub przystani morskiej rozumie to akweny grunty oraz nimi infrastruk granicach portu przystani morskiej, portach podstawowym znaczeniu dla gospodarki narodowej rozumie to porty morskie Gdańsku, Gdyni, Szczecinie Świnoujściu,
-4) infrastrukturze portowej rozumie to granicach portu przystani morskiej obiekty, in stalacje funkcjonowaniem portu, znaj zumie to Portu SA Morski Port Handlowy Gdynia SA Gdyni, Portu SA Szczecinie, utworzone na podstawie art. 5 usta wy dnia 13 lipca 1990 prywatyzacji biorstw (Dz. U. 51, poz. 298, 1991 60, poz. 253 1 l 1, poz. 480, 1994 121, poz. 591 133, poz. 685 oraz 90, poz. 405 106, poz. 496).
+4) infrastrukturze portowej rozumie to granicach portu przystani morskiej obiekty, in stalacje funkcjonowaniem portu, znaj zumie to Portu SA Morski Port Handlowy Gdynia SA Gdyni, Portu SA Szczecinie, utworzone na podstawie art. 5 usta wy dnia 13 lipca 1990 r. prywatyzacji biorstw (Dz. U. 51, poz. 298, 1991 r. 60, poz. 253 1 l 1, poz. 480, 1994 r.
+121, poz. 591 133, poz. 685 oraz r.
+90, poz. 405 106, poz. 496).
 2 Gospodarka gruntami portach przystaniach
 3. 1. Przeniesienie wie czystego oddanie wieczyste grun tów Skarbu gmi ny, granicach podstawowym znaczeniu dla gospodarki narodowej, wymaga zgody Ministra Skarbu porozumieniu Ministrem Transportu Gospodarki Morskiej.
 Przeniesienie wieczyste go oddanie wieczyste gruntów sta Skarbu gminy, granicach przystani morskich, wymaga zgody Ministra Skarbu po opinii dyrektora mor skiego.
@@ -93,20 +98,22 @@ pobiera
 25. 1. W przypadku podmiotu za portem których wart. 23 1, por portu przystani morskiej dyrektora morskiego.
 Dyrektor morskiego uprawniony stanowienia pobierania portowych portach przystaniach morskich, których 1.
 6 Zmiany przepisach
-26. W ustawie dnia 29 kwietnia 1985 go spodarce gruntami (Dz. U. 1991 30, poz. 127, 103, poz. 446 107, poz. 464, 1993 47, poz. 212 131, poz. 629, 1994 27, poz. 96, 31, poz. 118, 84, poz. 384, 85, poz. 388, 89, poz. 415 123, poz. 60', 1995 99, poz. 486 oraz 5, poz. 33, 90, poz. 405, 106, poz. 496 156, poz. 775) wart. 8 pkt 1 wyrazy "portów i".
-27. W ustawie dnia 23 grudnia 1988 dzia gospodarczej (Dz. U. 41, poz. 324, 1990 26, poz. 149, 34, poz. 198 86, poz. 504, 1991 31, poz. 128, 41, poz. 179, 73, poz. 321, 105, poz. 452, 106, poz. 457 107, poz. 460, 1993 28, poz. 127, 47, poz. 212 134, poz. 646, 1994 27, poz. 96 127, poz. 627, 1995 60, poz. 310, 85, poz. 426, 90, poz. 446, 14 " poz. 700 147, poz. 713 oraz 41, poz. 177 45, poz. 199) wart. 11 1 pkt 7 otrzy muje brzmienie: ,,7) transportu morskiego, lotniczego oraz wykony wania innych lotniczych, a dzania portami morskimi innymi porty podstawowym znaczeniu dla gospodarki na rodowej lotniskami,".
-infrastruktury portowej oraz na za wart. 7 1 pkt 2 4 ustawy dnia 20 grudnia portach przysta niach (Oz. U. 1997 9, poz. 44)."
-29. W ustawie dnia 29 marca zmia nie ustawy zagranicznym oraz zmianie niektórych ustaw (Dz. U. 45, poz. 199) wart. 8 wyrazy "portami morskimi i".
+26. W ustawie dnia 29 kwietnia 1985 r. go spodarce gruntami (Dz. U. 1991 r. 30, poz. 127, 103, poz. 446 107, poz. 464, 1993 r. 47, poz. 212 131, poz. 629, 1994 r. 27, poz. 96, 31, poz. 118, 84, poz. 384, 85, poz. 388, 89, poz. 415 123, poz. 60', 1995 r. 99, poz. 486 oraz r. 5, poz. 33, 90, poz. 405, 106, poz. 496 156, poz. 775) wart. 8 pkt 1 wyrazy "portów i".
+27. W ustawie dnia 23 grudnia 1988 r. dzia gospodarczej (Dz. U. 41, poz. 324, 1990 r.
+26, poz. 149, 34, poz. 198 86, poz. 504, 1991 r. 31, poz. 128, 41, poz. 179, 73, poz. 321, 105, poz. 452, 106, poz. 457 107, poz. 460, 1993 r. 28, poz. 127, 47, poz. 212 134, poz. 646, 1994 r. 27, poz. 96 127, poz. 627, 1995 r. 60, poz. 310, 85, poz. 426, 90, poz. 446, 14 " poz. 700 147, poz. 713 oraz r. 41, poz. 177 45, poz. 199) wart. 11 1 pkt 7 otrzy muje brzmienie: ,,7) transportu morskiego, lotniczego oraz wykony wania innych lotniczych, a dzania portami morskimi innymi porty podstawowym znaczeniu dla gospodarki na rodowej lotniskami,".
+infrastruktury portowej oraz na za wart. 7 1 pkt 2 4 ustawy dnia 20 grudnia r. portach przysta niach (Oz. U. 1997 r. 9, poz. 44)."
+29. W ustawie dnia 29 marca r. zmia nie ustawy zagranicznym oraz zmianie niektórych ustaw (Dz. U. 45, poz. 199) wart. 8 wyrazy "portami morskimi i".
 7 Przepisy
 30. Minister Skarbu poro zumieniu Ministrem Transportu Gospodarki Mor skiej, po 3 od dnia ustawy, dokona zmian statutów zakresie przedmiotu ustawy, rada gminy nie podejmie uchwa której wart. 13 1-3, Skarb
 32. Podmioty, które dniu ustawy zakresie portami morskimi innymi porty pod stawowym znaczeniu dla gospodarki narodowej, obo terminie 12 od dnia ustawy wnioskiem
 33. Ustawa wchodzi po 6 mie od dnia Prezydent Rzeczypospolitej Polskiej: A.
-45 ROZPORZĄDZENIE RADY MINISTRÓW dnia 28 stycznia 1997 sprawie zawieszenia pobierania od niektórych towarów.
-Na podstawie art. 4 5 pkt 2 ustawy dnia 28 grudnia 1989 Prawo celne (Dz. U. 1994 71, poz. 312, 1995 85, poz. 427 87, poz. 434, 106, poz. 496 oraz 1997 6, poz. 31) za co
-1. W Rady Ministrów dnia 17 grudnia sprawie zawieszenia pobierania od niektórych towarów U. 153, poz. 742) za nr 3 otrzymuje brzmienie ku niniejszego
+45 ROZPORZĄDZENIE RADY MINISTRÓW dnia 28 stycznia 1997 r.
+sprawie zawieszenia pobierania od niektórych towarów.
+Na podstawie art. 4 5 pkt 2 ustawy dnia 28 grudnia 1989 r. Prawo celne (Dz. U. 1994 r. 71, poz. 312, 1995 r. 85, poz. 427 87, poz. 434, r. 106, poz. 496 oraz 1997 r. 6, poz. 31) za co
+1. W Rady Ministrów dnia 17 grudnia r. sprawie zawieszenia pobierania od niektórych towarów U. 153, poz. 742) za nr 3 otrzymuje brzmienie ku niniejszego
 1. W przypadku gdy wzrostu cen sku pu przekroczy cen detalicznych artyku to od dnia po dniu Prezesa Staty stycznego obwieszczenia przekroczeniu nik wzrostu cen skupu cen detalicznych na zasadach trybie 2, zawiesza stawki celne wod oraz obwieszczenie, których
 1. Prezesa Statystycznego dnia 20 poczyna od marca 1997 r., Dzienniku Rzeczy pospolitej Polskiej "Monitor Polski" na podstawie od przepisów.
-3. Do dnia 30 czerwca 1997 towarów lonych kodami peN 1001 90 91 l, 1001 90 91 9, 1001 9099 O, 1002 00 00 O, 10030090 O, 10040000 stosuje stawki celne nr 3 którym 1, dotychczaso wym brzmieniu,
+3. Do dnia 30 czerwca 1997 r. towarów lonych kodami peN 1001 90 91 l, 1001 90 91 9, 1001 9099 O, 1002 00 00 O, 10030090 O, 10040000 stosuje stawki celne nr 3 którym 1, dotychczaso wym brzmieniu,
 1) towary te kontraktami zawartymi przed niniejszego oraz
 2) kontrakty, których pkt 1, potwier dzone fakturami handlowymi przedstawione wraz fakturami zarejestrowania Ministra Go
 

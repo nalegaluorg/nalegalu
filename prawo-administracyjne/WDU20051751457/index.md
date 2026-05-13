@@ -26,11 +26,11 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051751457) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/1457/text.pdf) |
 
-**Art. 1.** W 8 marca 1990 samorządzie gminnym (Dz. 2001 142, 1591, póên. zm. dzeniu, októrym wust. 1, wójt wskazuje imiennie pierwszego kolejnych zastęp) wprowadza się następujące zmiany: ców.”;
+**Art. 1.** W ustawie 8 marca 1990 samorządzie gminnym (Dz. 2001 142, 1591, póên. zm. dzeniu, októrym mowa wust. 1, wójt wskazuje imiennie pierwszego i kolejnych zastęp) wprowadza się następujące zmiany: ców.”;
 
-**Art. 28h.** W przypadkach, których art. 28g 2 3, Prezes Rady Ministrów, na wniosek wojewody przekazany niezwłocznie za pośrednictwem ministra właściwego do spraw administracji publicznej, wyznacza osobę, która przejmie wykonywanie zadań ikompetencji wójta.”.
+**Art. 28h.** W przypadkach, których mowa art. 28g 2 i 3, Prezes Rady Ministrów, na wniosek wojewody przekazany niezwłocznie za pośrednictwem ministra właściwego do spraw administracji publicznej, wyznacza osobę, która przejmie wykonywanie zadań ikompetencji wójta.”.
 
-**Art. 2.** Wustawie zdnia 16 lipca 1998 Ordynacja wyborcza do rad gmin, rad powiatów sejmików województw (Dz. 2003 159, 1547 2004 25, 219, 102, 1055 167,
+**Art. 2.** Wustawie zdnia 16 lipca 1998 Ordynacja wyborcza do rad gmin, rad powiatów i sejmików województw (Dz. 2003 159, 1547 2004 25, 219, 102, 1055 i 167,
 
-**Art. 1.** W 27 kwietnia 2001 odpadach (Dz. 62, 628, zpóên. zm. ) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie 27 kwietnia 2001 odpadach (Dz. 62, 628, zpóên. zm. ) wprowadza się następujące zmiany:
 

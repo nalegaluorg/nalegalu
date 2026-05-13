@@ -27,9 +27,9 @@ domain: null
 9) wart. 21 wpkt i3 po wyrazie Ńproduktów” dodaje się wyrazy Ńiurządzeń”;
 10) wart. 22 wust. 3 wyrazy Ńrecyklingowi iregeneracji” zastępuje się wyrazami Ńrecyklingowi regeneracji”;
 11) wart. 24 po dodaje się 1ai1bwbrzmieniu: Ń1a. Rozpatrując wniosek wydanie pozwolenia na przywóz zzagranicy substancji kontrolowa13) wart. 32 wust. pkt 2 otrzymuje brzmienie: Ń2) prowadzące działalność polegającą na niszczeniu substancji kontrolowanych produktów urządzeń je zawierających.”;
-14) załączniku nr 3 ustawy pozycji 16 wyrazy ŃR-142” zastępuje się wyrazami ŃR-142b”.
+14) załączniku nr 3 pozycji 16 wyrazy ŃR-142” zastępuje się wyrazami ŃR-142b”.
 
-**Art. 2.** Rozporządzenie wydane na podstawie upoważnienia zmienionego wart. pkt 7 niniejszej ustawy zachowuje moc czasu wydania nowego rozporządzenia. nych wymienionych wzałącznikach nr 3 i5 Art. 3. Ustawa wchodzi życie po upływie 14 dni ustawy, uwzględnia się dotychczasowy udział od dnia ogłoszenia. podmiotu ubiegającego się owydanie pozwolenia wprzywozie tych substancji. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski USTAWA zdnia 27 marca 2003 ozmianie ustawy oemeryturach irentach zFunduszu Ubezpieczeń Społecznych niektórych innych ustaw
+**Art. 2.** Rozporządzenie wydane na podstawie upoważnienia zmienionego wart. pkt 7 niniejszej zachowuje moc czasu wydania nowego rozporządzenia. nych wymienionych wzałącznikach nr 3 i5 Art. 3. Ustawa wchodzi życie po upływie 14 dni ustawy, uwzględnia się dotychczasowy udział od dnia ogłoszenia. podmiotu ubiegającego się owydanie pozwolenia wprzywozie tych substancji. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski USTAWA zdnia 27 marca 2003 ozmianie oemeryturach irentach zFunduszu Ubezpieczeń Społecznych niektórych innych ustaw
 
 **Art. 1.** W ustawie dnia 17 grudnia 1998 emeryturach rentach Funduszu Ubezpieczeń Społecznych (Dz. U. 162, 1118, zpóên. zm.
 
@@ -74,11 +74,11 @@ domain: null
 
 - **9)** wart. 133 wust. wpkt na końcu dodaje się wyrazy Ńzzastrzeżeniem art. 107aust. 3,”.
 
-**Art. 2.** Wustawie zdnia 29 maja 1974 ozaopatrzeniu inwalidów wojennych iwojskowych rodzin (Dz. U. z2002 9, 87 181, 1515) wart. 64 po wyrazach Ń107,” dodaje się wyrazy Ń107a,”. miaru podlegają na zasadach terminach przewidzianych ustawie dnia 17 grudnia 1998 emeryturach irentach zFunduszu Ubezpieczeń Społecznych (Dz. U. 162, 1118, póên. zm.) , ztym że:
+**Art. 2.** Wustawie zdnia 29 maja 1974 ozaopatrzeniu inwalidów wojennych iwojskowych ich rodzin (Dz. U. z2002 9, 87 181, 1515) wart. 64 po wyrazach Ń107,” dodaje się wyrazy Ń107a,”. miaru podlegają na zasadach terminach przewidzianych ustawie dnia 17 grudnia 1998 emeryturach irentach zFunduszu Ubezpieczeń Społecznych (Dz. U. 162, 1118, póên. zm.) , ztym że:
 
-**Art. 4.** W ustawie dnia 18 lutego 1994 zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej Służby Więziennej rodzin (Dz. U. 53, 214, póên. zm. dnia 17 grudnia 1998 emeryturach irentach zFunduszu Ubezpieczeń Społecznych (Dz. U. 162, 1118, póên. zm. ) wprowadza się następujące zmiany:
+**Art. 4.** W ustawie dnia 18 lutego 1994 zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej Służby Więziennej ich rodzin (Dz. U. 53, 214, póên. zm. dnia 17 grudnia 1998 emeryturach irentach zFunduszu Ubezpieczeń Społecznych (Dz. U. 162, 1118, póên. zm. ) wprowadza się następujące zmiany:
 
 **Art. 5.** W ustawie dnia 13 paêdziernika 1998 systemie ubezpieczeń społecznych (Dz. U. 137, 887, zpóên. zm. ) wart. 28:
 
-**Art. 6.** W ustawie dnia 30 sierpnia 2002 restrukturyzacji niektórych należności publicznopraw- Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 499 ROZPORZÑDZENIE RADY MINISTRÓW zdnia 18 marca 2003 wsprawie szczegółowych zasad itrybu udzielania pomocy uczniom podejmującym naukę wklasach pierwszych szkół podstawowych wroku szkolnym 2003/2004 Na podstawie art. 33 2 ustawy dnia 29 listopada 1990 pomocy społecznej (Dz. U. 1998 64, 414, póên. zm. wart. 2aust. pkt 2aiart. 4 ustawy zdnia 29 listopada 1990 opomocy społecznej, zzastrzeżeniem 3. ) zarządza się, co następuje: 3. Wuzasadnionych przypadkach, wszczególności powodów, których mowa art. 3 ustawy dnia § 1. Rozporządzenie określa: 29 listopada 1990 opomocy społecznej, pomoc może być przyznana również uczniom zrodzin, wktórych
+**Art. 6.** W ustawie dnia 30 sierpnia 2002 restrukturyzacji niektórych należności publicznopraw- Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 499 ROZPORZÑDZENIE RADY MINISTRÓW zdnia 18 marca 2003 wsprawie szczegółowych zasad itrybu udzielania pomocy uczniom podejmującym naukę wklasach pierwszych szkół podstawowych wroku szkolnym 2003/2004 Na podstawie art. 33 2 dnia 29 listopada 1990 pomocy społecznej (Dz. U. 1998 64, 414, póên. zm. wart. 2aust. pkt 2aiart. 4 zdnia 29 listopada 1990 opomocy społecznej, zzastrzeżeniem 3. ) zarządza się, co następuje: 3. Wuzasadnionych przypadkach, wszczególności powodów, których mowa art. 3 dnia § 1. Rozporządzenie określa: 29 listopada 1990 opomocy społecznej, pomoc może być przyznana również uczniom zrodzin, wktórych
 

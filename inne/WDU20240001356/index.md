@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 12 września 2024 OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ dnia 23 lipca 2024 sprawie ogłoszenia kształtowaniu państwowej sferze budżetowej oraz zmianie niektórych ustaw
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 12 września 2024 OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ dnia 23 lipca 2024 sprawie ogłoszenia kształtowaniu państwowej sferze budżetowej zmianie niektórych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,10 +24,10 @@ domain: null
 | Ostatnia zmiana | 2024-09-13 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001356) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1356/text.pdf) |
 
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze dnia 20 lipca 2000 ogłaszaniu aktów normatywnych niektórych innych aktów prawnych (Dz. 2019 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst dnia 23 grudnia 1999 kształtowaniu państwowej sferze budżetowej oraz zmianie niektórych ustaw (Dz. 2023 2692), uwzględnieniem zmiany wprowadzonej ustawą dnia 16 stycznia 2024 szczególnych rozwiązaniach służących realizacji budżetowej na rok 2024 (Dz. 123) oraz zmian wynikających przepisów ogłoszonych przed dniem 17 lipca 2024
+1. Na podstawie art. 16 ust. 1 zdanie pierwsze dnia 20 lipca 2000 ogłaszaniu aktów normatywnych niektórych innych aktów prawnych (Dz. 2019 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst dnia 23 grudnia 1999 kształtowaniu państwowej sferze budżetowej zmianie niektórych ustaw (Dz. 2023 2692), uwzględnieniem zmiany wprowadzonej ustawą dnia 16 stycznia 2024 szczególnych rozwiązaniach służących realizacji budżetowej na rok 2024 (Dz. 123) zmian wynikających przepisów ogłoszonych przed dniem 17 lipca 2024
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity nie obejmuje art. 42 dnia 16 stycznia 2024 szczególnych rozwiązaniach służących realizacji budżetowej na rok 2024 (Dz. 123), który stanowi: „Art. 42. Ustawa wchodzi życie dniem ogłoszenia, mocą od dnia 1 stycznia 2024 r., wyjątkiem art. 1 art. 2, które wchodzą życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia.”.
 Marszałek Sejmu: S. Hołownia
-USTAWA dnia 23 grudnia 1999 kształtowaniu państwowej sferze budżetowej oraz zmianie niektórych ustaw
+USTAWA dnia 23 grudnia 1999 kształtowaniu państwowej sferze budżetowej zmianie niektórych ustaw
 
 **Art. 1.** Ustawa określa zasady tryb kształtowania państwowej sferze budżetowej.
 
@@ -47,9 +47,9 @@ USTAWA dnia 23 grudnia 1999 kształtowaniu państwowej sferze budżetowej oraz z
 
 **Art. 6.**
 
-1. Podstawę do określenia roku budżetowym dla pracowników, których mowa art. 5 pkt 1 lit. a d oraz pkt 2, stanowią wynagrodzenia roku poprzedniego, zwaloryzowane średniorocznym wskaźnikiem wzrostu ustalonym ustawie budżetowej, oraz dodatkowe wynagrodzenie roczne, wypłacane na podstawie odrębnych przepisów.
+1. Podstawę do określenia roku budżetowym dla pracowników, których mowa art. 5 pkt 1 lit. a d pkt 2, stanowią wynagrodzenia roku poprzedniego, zwaloryzowane średniorocznym wskaźnikiem wzrostu ustalonym ustawie budżetowej, dodatkowe wynagrodzenie roczne, wypłacane na podstawie odrębnych przepisów.
 
-2. Wynagrodzenia dla pracowników, których mowa art. 5 pkt 1 lit. b, określane są zgodnie przepisami dnia 28 stycznia 2016 Prawo prokuraturze (Dz. 2024 390) oraz dnia 27 lipca 2001 Prawo ustroju sądów powszechnych (Dz. 2024 334).
+2. Wynagrodzenia dla pracowników, których mowa art. 5 pkt 1 lit. b, określane są zgodnie przepisami dnia 28 stycznia 2016 Prawo prokuraturze (Dz. 2024 390) dnia 27 lipca 2001 Prawo ustroju sądów powszechnych (Dz. 2024 334).
 
 3. Wynagrodzenia dla pracowników, których mowa art. 5 pkt 1 lit. c, określane są zgodnie przepisami dnia 26 stycznia 1982 Karta Nauczyciela (Dz. 2024 986).
 
@@ -96,7 +96,7 @@ USTAWA dnia 23 grudnia 1999 kształtowaniu państwowej sferze budżetowej oraz z
 
 **Art. 10.** W budżecie państwa mogą być tworzone rezerwy celowe przeznaczone dla państwowych jednostek budżetowych na:
 
-**Art. 10a.** Upoważnia się ministra właściwego do spraw finansów do dokonywania przeniesień kwoty środków na uposażenia, nagrody roczne pozostałe należności żołnierzy funkcjonariuszy między częściami działami odpowiednio na wniosek Ministra Obrony Narodowej, Ministra Sprawiedliwości, ministra właściwego do spraw wewnętrznych, Szefa Agencji Bezpieczeństwa Wewnętrznego, Szefa Agencji Wywiadu oraz Szefa Centralnego Biura Antykorupcyjnego. Art. 11–29e. (pominięte)
+**Art. 10a.** Upoważnia się ministra właściwego do spraw finansów do dokonywania przeniesień kwoty środków na uposażenia, nagrody roczne pozostałe należności żołnierzy funkcjonariuszy między częściami działami odpowiednio na wniosek Ministra Obrony Narodowej, Ministra Sprawiedliwości, ministra właściwego do spraw wewnętrznych, Szefa Agencji Bezpieczeństwa Wewnętrznego, Szefa Agencji Wywiadu Szefa Centralnego Biura Antykorupcyjnego. Art. 11–29e. (pominięte)
 
 **Art. 29f.** (uchylony) Art. 29g–29n. (pominięte)
 

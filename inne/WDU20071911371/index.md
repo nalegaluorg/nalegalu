@@ -26,7 +26,7 @@ domain: null
 
 **Art. 5.**
 
-1. W celu wyliczenia na 2009 dla województw części wyrównawczej subwencji ogólnej wpłat określonych odpowiednio 24 ust. 1 i art.31 zmienianej 1 przyjmuje się dochody podatkowe województwa, których mowa 24 ust. 3 zmienianej 1, wykazane sprawozdaniach sporządzonych 2007 na podstawie odrębnych przepisów, zastrzeżeniem ust. 2.
+1. W celu wyliczenia na 2009 dla województw części wyrównawczej subwencji ogólnej wpłat określonych odpowiednio 24 ust. 1 i art.31 zmienianej 1 przyjmuje się dochody podatkowe województwa, których mowa 24 ust. 3 zmienianej 1, wykazane sprawozdaniach sporządzonych za 2007 na podstawie odrębnych przepisów, zastrzeżeniem ust. 2.
 
 2. Dochody ztytułu udziału we wpływach zpodatku dochodowego od osób prawnych zmniejsza się wej, której miały zastosowanie przepisy dnia 31 stycznia 1989 opłacie skarbowej (Dz. U. 4, 23, zpóên. zm. kwoty wynikającej ze wskaênika udziału województw we wpływach tego podatku wysokości 14,0 %.
 
@@ -42,11 +42,11 @@ domain: null
 
 **Art. 11.** Przepisy 20 ust. 4—6, 21, 21a, 22, 23, 23a, 24, 25 i 26 zmienianej 1, brzmieniu nadanym niniejszą ustawą, stosuje się po raz pierwszy, zuwzględnieniem 3 i 4, ustalenia subwencji ogólnej wpłat dla jednostek samorządu terytorialnego na 2008 opracowania budżetowej iuchwał budżetowych na 2008
 
-**Art. 12.** Ustawa wchodzi życie dniem 1 stycznia 2008 r., wyjątkiem:
+**Art. 12.** Ustawa wchodzi życie dniem 1 stycznia 2008 r., wyjątkiem: 3, 4 i 11, które wchodzą życie dniem ogłoszenia;
 
-**Art. 1.** W ustawie dnia 29 lipca 2005 prze- 1) 1: kształceniu prawa użytkowania wieczystego prawo a) po ust. 1 dodaje się ust. 1a brzmieniu: własności nieruchomości (Dz. U. 175, 1459) Ń1a. Z żądaniem przekształcenia prawa użytkoSkarbu Państwa na podstawie innych tytułów, dniem 5 grudnia 1990 r.;
+**Art. 1.** W ustawie dnia 29 lipca 2005 prze- 1: kształceniu prawa użytkowania wieczystego prawo a) po ust. 1 dodaje się ust. 1a brzmieniu: własności nieruchomości (Dz. U. 175, 1459) Ń1a. Z żądaniem przekształcenia prawa użytkoSkarbu Państwa na podstawie innych tytułów, dniem 5 grudnia 1990 r.;
 
-**Art. 2.** Wustawie zdnia 14 lutego 1991 Prawo notariacie (Dz. U. 2002 42, 369, póên. zm. rzecz członków właścicieli lokali, którym przekształcono udział prawie użytkowania wieczystego wprawo własności. W szczególnie uzasadnionych przypadkach organ może odstąpić od żądania zwrotu bonifikaty, zgodą odpowiednio wojewody, rady sejmiku. 16. Waloryzacji, której mowa ust. 15, dokonuje się według zasad określonych wart. 5 zdnia 21 sierpnia 1997r. ogospodarce nieruchomościami. 17. W przypadkach, których mowa ust.5, 7, 11 i 15, wyrażenia zgody ) 92 dodaje się § 6 brzmieniu: Ń§ 6. Jeżeli akt notarialny wswej treści zawiera przeniesienie własności nieruchomości dokonane przez osobę, na rzecz której zostało przekształcone prawo użytkowania wieczystego prawo własności nieruchomości na podstawie 1 ust. 1, 2 albo ust. 3 zdnia 29 lipca 2005r. przekształceniu prawa użytkowania wieczystego prawo własności nieruchomości (Dz. U. 175, poz.1459 2007 191,
+**Art. 2.** Wustawie zdnia 14 lutego 1991 Prawo notariacie (Dz. U. 2002 42, 369, póên. zm. rzecz członków właścicieli lokali, którym przekształcono udział prawie użytkowania wieczystego wprawo własności. W szczególnie uzasadnionych przypadkach organ może odstąpić od żądania zwrotu bonifikaty, za zgodą odpowiednio wojewody, rady sejmiku. 16. Waloryzacji, której mowa ust. 15, dokonuje się według zasad określonych wart. 5 zdnia 21 sierpnia 1997r. ogospodarce nieruchomościami. 17. W przypadkach, których mowa ust.5, 7, 11 i 15, wyrażenia zgody ) 92 dodaje się § 6 brzmieniu: Ń§ 6. Jeżeli akt notarialny wswej treści zawiera przeniesienie własności nieruchomości dokonane przez osobę, na rzecz której zostało przekształcone prawo użytkowania wieczystego prawo własności nieruchomości na podstawie 1 ust. 1, 2 albo ust. 3 zdnia 29 lipca 2005r. przekształceniu prawa użytkowania wieczystego prawo własności nieruchomości (Dz. U. 175, poz.1459 2007 191,
 
 **Art. 3.** Wustawie zdnia 28 lipca 2005 okosztach sądowych sprawach cywilnych (Dz. U. 167, poz.1398, zpóên. zm. ) wart. 95 wust. 1 wpkt 5 kropkę zastępuje się przecinkiem i dodaje się pkt 6 brzmieniu: Ń6) wpis księdze wieczystej prawa własności uzyskanego na podstawie przekształcenia, którym mowa 1 ust. 1a dnia 29 lipca 2005 oprzekształceniu prawa użytkowania wieczystego prawo własności nieruchomości (Dz.U. 175, 1459 2007 191,
 

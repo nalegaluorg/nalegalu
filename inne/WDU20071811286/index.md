@@ -30,7 +30,7 @@ domain: null
 
 **Art. 3.** W ustawie dnia 18 lipca 2001 Prawo wodne (Dz. U. z2005 239, 2019, zpóên. zm.
 
-**Art. 5.** Dotychczasowe przepisy wykonawcze wydane podstawie art. 286a ust. 5 ustawy zmienianej Art. 6. Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński 1287 USTAWA dnia 24 sierpnia 2007 o zmianie ustawy Prawo o notariacie niektórych ustaw
+**Art. 5.** Dotychczasowe przepisy wykonawcze wydane podstawie art. 286a ust. 5 ustawy zmienianej Art. 6. Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński 1287 USTAWA dnia 24 sierpnia 2007 o zmianie ustawy Prawo o notariacie oraz niektórych ustaw
 
 **Art. 1.** Wustawie zdnia 14 lutego 1991 Prawo o notariacie (Dz. U. 2002 42, 369, póên. zm. ) wprowadza się następujące zmiany:
 
@@ -38,7 +38,7 @@ domain: null
 
 **Art. 95c.**
 
-§ 1. Przystępując do spisania protokołu dziedziczenia notariusz poucza osoby biorące udział spisywaniu protokołu o obowiązku ujawnienia wszelkich okoliczności objętych treścią protokołu o odpowiedzialności karnej za złożenie fałszywych oświadczeń.
+§ 1. Przystępując do spisania protokołu dziedziczenia notariusz poucza osoby biorące udział spisywaniu protokołu o obowiązku ujawnienia wszelkich okoliczności objętych treścią protokołu oraz o odpowiedzialności karnej za złożenie fałszywych oświadczeń.
 
 § 2. W protokole dziedziczenia zamieszcza się szczególności:
 

@@ -21,7 +21,7 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2015-03-20 |
 | Data wydania | 2015-05-20 |
-| Ostatnia zmiana | 2026-02-18 |
+| Ostatnia zmiana | 2026-05-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000693) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/693/text.pdf) |
 
 USTAWA dnia 20 marca 2015 działaczach opozycji antykomunistycznej oraz osobach represjonowanych powodów politycznych Uznając szczególne zasługi dla Polski tych jej obywateli, którzy latach 1956–1989 narażeniem własnego życia, wolności, majątku praw pracowniczych angażowali się działalność antykomunistyczną zmierzającą do odzyskania suwerenności niepodległości Ojczyzny byli tych powodów represjonowani, uchwala się, co następuje:

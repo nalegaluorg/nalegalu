@@ -24,14 +24,15 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001521) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1521/text.pdf) |
 
+Poz. 1521
 USTAWA z dnia 20 lipca 2017 r.
 zmianie ustawy ochronie zdrowia zwierząt zwalczaniu chorób zakaźnych zwierząt
 
-**Art. 1.** W ustawie z dnia 11 marca 2004 r. ochronie zdrowia zwierząt zwalczaniu chorób zakaźnych zwierząt (Dz. U. z 2014 r. poz. 1539, z 2015 r. poz. 266 i 470 z 2016 r. poz. 1605) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 11 marca 2004 r. ochronie zdrowia zwierząt zwalczaniu chorób zakaźnych zwierząt (Dz. U. z 2014 r. poz. 1539, z 2015 r. poz. 266 470 z 2016 r. poz. 1605) wprowadza następujące zmiany:
 
-**Art. 2.** Odstrzał sanitarny zwierząt wprowadzony przed dniem wejścia życie niniejszej ustawy na podstawie 45 1, 46 i 47 1 ustawy zmienianej 1 jest wykonywany zgodnie z przepisami ustawy zmienianej 1 brzmieniu nadanym niniejszą ustawą.
+**Art. 2.** Odstrzał sanitarny zwierząt wprowadzony przed dniem wejścia życie niniejszej ustawy na podstawie art. 45 1, art. 46 art. 47 1 ustawy zmienianej art. 1 jest wykonywany zgodnie z przepisami ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą.
 
-**Art. 3.** Dotychczasowe przepisy wykonawcze wydane na podstawie 45 1, 46 3, 47 1, 48a 61 1 ustawy zmienianej 1 zachowują moc i mogą być zmieniane na podstawie tego przepisu.
+**Art. 3.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 45 1, art. 46 3, art. 47 1, art. 48a art. 61 1 ustawy zmienianej art. 1 zachowują moc mogą być zmieniane na podstawie tego przepisu.
 
 **Art. 4.** Ustawa wchodzi życie upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
 

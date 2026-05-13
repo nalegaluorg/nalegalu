@@ -24,6 +24,7 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001158) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1158/text.pdf) |
 
+Poz.
 WYROK TRYBUNAŁU KONSTYTUCYJNEGO dnia 31 lipca 2015 r.
 sygn. akt K 41/12 Trybunał Konstytucyjny składzie: Andrzej Rzepliński przewodniczący, Stanisław Biernat, Zbigniew Cieślak, Maria Gintowt-Jankowicz, Mirosław Granat, Leon Kieres sprawozdawca, Marek Kotlinowski, Teresa Liszcz, Stanisław Rymar, Piotr Tuleja, Sławomira Wronkowska-Jaśkiewicz, Andrzej Wróbel, Marek Zubik, po rozpoznaniu, udziałem wnioskodawców oraz Sejmu i Prokuratora Generalnego, na rozprawie dniach 29, 30 i 31 lipca 2015 r., połączonych wniosków: I) grupy posłów 27 lipca 2012 r. o zbadanie zgodności:
 1) 7 ust. 1, 4 i 5 dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. 2012 r. poz. 855) 2, 7, 9, 20, 22, 32 ust. 2 i 58 ust. związku 31 ust. 3 i 91 ust. 3

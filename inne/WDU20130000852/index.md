@@ -26,7 +26,7 @@ domain: null
 
 USTAWA dnia 21 czerwca 2013 o zmianie o urzędzie Ministra Obrony Narodowej niektórych innych ustaw
 
-**Art. 1.** W ustawie dnia 14 grudnia 1995 o urzędzie Ministra Obrony Narodowej (Dz. 2013 189) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie dnia 14 grudnia 1995 o urzędzie Ministra Obrony Narodowej (Dz. U. 2013 189) wprowadza się następujące zmiany:
 
 **Art. 4.** Minister Obrony Narodowej sprawuje bezpośrednio lub przy pomocy wyznaczonego sekretarza stanu lub podsekretarza stanu nadzór nad:
 
@@ -38,7 +38,7 @@ USTAWA dnia 21 czerwca 2013 o zmianie o urzędzie Ministra Obrony Narodowej niek
 - **2)** Dowódca Generalny;
 - **3)** Dowódca Operacyjny.
 
-2. Ministrowi Obrony Narodowej podlegają Służba Kontrwywiadu Wojskowego Służba Wywiadu Wojskowego na zasadach określonych ustawie dnia 9 czerwca 2006 o Służbie Kontrwywiadu Wojskowego Służbie Wywiadu Wojskowego (Dz. 104, 709, późn. zm. ) Żandarmeria Wojskowa na zasadach określonych ustawie dnia 24 sierpnia 2001 o Żandarmerii Wojskowej wojskowych organach porządkowych (Dz. 2013 568 628).
+2. Ministrowi Obrony Narodowej podlegają Służba Kontrwywiadu Wojskowego Służba Wywiadu Wojskowego na zasadach określonych ustawie dnia 9 czerwca 2006 o Służbie Kontrwywiadu Wojskowego Służbie Wywiadu Wojskowego (Dz. U. 104, 709, późn. zm. ) Żandarmeria Wojskowa na zasadach określonych ustawie dnia 24 sierpnia 2001 o Żandarmerii Wojskowej wojskowych organach porządkowych (Dz. U. 2013 568 628).
 
 **Art. 6.**
 
@@ -60,9 +60,9 @@ USTAWA dnia 21 czerwca 2013 o zmianie o urzędzie Ministra Obrony Narodowej niek
 
 - **6)** uchyla się art. 11.
 
-**Art. 2.** W ustawie dnia 1 grudnia 1961 o izbach morskich (Dz. 2009 69, 599, późn. zm. ) art. 2 ust. 2 otrzymuje brzmienie: „2. Sprawy wypadków morskich, których uczestniczyły jednostki pływające Marynarki Wojennej, Straży Granicznej lub Policji, izby morskie rozpoznają, odniesieniu do tych jednostek, za zgodą odpowiednio Dowódcy Generalnego Rodzajów Sił Zbrojnych, Komendanta Głównego Straży Granicznej lub Komendanta Głównego Policji.”.
+**Art. 2.** W ustawie dnia 1 grudnia 1961 o izbach morskich (Dz. U. 2009 69, 599, późn. zm. ) art. 2 ust. 2 otrzymuje brzmienie: „2. Sprawy wypadków morskich, których uczestniczyły jednostki pływające Marynarki Wojennej, Straży Granicznej lub Policji, izby morskie rozpoznają, odniesieniu do tych jednostek, za zgodą odpowiednio Dowódcy Generalnego Rodzajów Sił Zbrojnych, Komendanta Głównego Straży Granicznej lub Komendanta Głównego Policji.”.
 
-**Art. 3.** W ustawie dnia 21 listopada 1967 o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. 2012 461, późn. zm. ) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie dnia 21 listopada 1967 o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. 2012 461, późn. zm. ) wprowadza się następujące zmiany:
 
 **Art. 11b.**
 
@@ -76,7 +76,7 @@ USTAWA dnia 21 czerwca 2013 o zmianie o urzędzie Ministra Obrony Narodowej niek
 - **4)** określanie wymagań operacyjnych dla Sił Zbrojnych zakresie planowania operacyjnego programowania rozwoju Sił Zbrojnych;
 - **5)** przygotowanie stanowiska dowodzenia Naczelnego Dowódcy Sił Zbrojnych;
 - **6)** zarządzanie przeprowadzanie kontroli podległych jednostkach wojskowych związkach organizacyjnych na zasadach trybie określonych przepisach dnia 15 lipca 2011 o kontroli administracji rządowej;
-- **7)** przewodniczenie Radzie SAR, o której mowa art. 121 dnia 18 sierpnia 2011 o bezpieczeństwie morskim (Dz. 228, 1368 2012 1068).
+- **7)** przewodniczenie Radzie SAR, o której mowa art. 121 dnia 18 sierpnia 2011 o bezpieczeństwie morskim (Dz. U. 228, 1368 2012 1068).
 
 3. Dowódca Operacyjny wykonuje swoje zadania przy pomocy Dowództwa Operacyjnego Rodzajów Sił Zbrojnych, zwanego dalej „Dowództwem Operacyjnym”.
 
@@ -87,19 +87,19 @@ USTAWA dnia 21 czerwca 2013 o zmianie o urzędzie Ministra Obrony Narodowej niek
     - **a)** po ust. 1 dodaje się ust. 1a brzmieniu: „1a. Szef Inspektoratu Wsparcia Sił Zbrojnych podlega Dowódcy Generalnemu.”,
     - **b)** ust. 2 uchyla się pkt 4.
 
-**Art. 4.** W ustawie dnia 12 października 1990 o ochronie granicy państwowej (Dz. 2009 12, 67, późn. zm. ) wprowadza się następujące zmiany:
+**Art. 4.** W ustawie dnia 12 października 1990 o ochronie granicy państwowej (Dz. U. 2009 12, 67, późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 5.** W ustawie dnia 23 września 1999 o zasadach pobytu wojsk obcych na terytorium Rzeczypospolitej Polskiej zasadach ich przemieszczania się przez to terytorium (Dz. 93, 1063, późn. zm. ) wprowadza się następujące zmiany:
+**Art. 5.** W ustawie dnia 23 września 1999 o zasadach pobytu wojsk obcych na terytorium Rzeczypospolitej Polskiej zasadach ich przemieszczania się przez to terytorium (Dz. U. 93, 1063, późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 6.** W ustawie dnia 11 kwietnia 2003 o świadczeniach odszkodowawczych przysługujących razie wypadków chorób pozostających związku ze służbą wojskową (Dz. 83, 760, późn. zm. ) art. 22 ust. 2 otrzymuje brzmienie: „2. Jeżeli wypadkowi uległ:
+**Art. 6.** W ustawie dnia 11 kwietnia 2003 o świadczeniach odszkodowawczych przysługujących razie wypadków chorób pozostających związku ze służbą wojskową (Dz. U. 83, 760, późn. zm. ) art. 22 ust. 2 otrzymuje brzmienie: „2. Jeżeli wypadkowi uległ:
 
-**Art. 7.** W ustawie dnia 11 września 2003 o służbie wojskowej żołnierzy zawodowych (Dz. 2010 90, 593, późn. zm. ) wprowadza się następujące zmiany:
+**Art. 7.** W ustawie dnia 11 września 2003 o służbie wojskowej żołnierzy zawodowych (Dz. U. 2010 90, 593, późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 8.** W ustawie dnia 9 czerwca 2006 o Służbie Kontrwywiadu Wojskowego Służbie Wywiadu Wojskowego (Dz. 104, 709, późn. zm. ) art. 10 wprowadza się następujące zmiany:
+**Art. 8.** W ustawie dnia 9 czerwca 2006 o Służbie Kontrwywiadu Wojskowego Służbie Wywiadu Wojskowego (Dz. U. 104, 709, późn. zm. ) art. 10 wprowadza się następujące zmiany:
 
-**Art. 9.** W ustawie dnia 4 września 2008 o ochronie żeglugi portów morskich (Dz. 171, 1055) art. 18 ust. 7 otrzymuje brzmienie: „7. W przypadku gdy port graniczy portem wojennym, plan ochrony portu wymaga również uzgodnienia Dowódcą Generalnym Rodzajów Sił Zbrojnych zakresie wzajemnego funkcjonowania planów ochrony.”.
+**Art. 9.** W ustawie dnia 4 września 2008 o ochronie żeglugi portów morskich (Dz. U. 171, 1055) art. 18 ust. 7 otrzymuje brzmienie: „7. W przypadku gdy port graniczy portem wojennym, plan ochrony portu wymaga również uzgodnienia Dowódcą Generalnym Rodzajów Sił Zbrojnych zakresie wzajemnego funkcjonowania planów ochrony.”.
 
-**Art. 10.** W ustawie dnia 18 sierpnia 2011 o bezpieczeństwie morskim (Dz. 228, 1368 2012
+**Art. 10.** W ustawie dnia 18 sierpnia 2011 o bezpieczeństwie morskim (Dz. U. 228, 1368 2012
 
 **Art. 11.** Z dniem wejścia życie likwiduje się Dowództwo Wojsk Lądowych, Dowództwo Sił Powietrznych, Dowództwo Marynarki Wojennej Dowództwo Wojsk Specjalnych.
 

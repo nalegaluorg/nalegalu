@@ -26,7 +26,7 @@ domain: null
 
 **Art. 1.** W ustawie 24 marca 1920 nabywaniu nieruchomości przez cudzoziemców (Dz. U. z1996 54, 245, zpóên. zm. 14 dni od doręczenia wystąpienia ministra właściwego do spraw wewnętrznych. ) wprowadza W szczególnie uzasadnionych przypadkach następujące zmiany: minister właściwy do spraw wewnętrznych, wniosek organu, któremu przysługuje
 
-**Art. 2.** W ustawie 9 września 2000 opłacie skarbowej (Dz. U. 86, 960, póên. zm. ) załączniku do ustawy części IV kol. 2 6:
+**Art. 2.** W ustawie 9 września 2000 opłacie skarbowej (Dz. U. 86, 960, póên. zm. ) załączniku do ustawy części IV kol. 2 ust. 6:
 
 **Art. 3.**
 

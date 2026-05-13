@@ -21,7 +21,7 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2019-09-11 |
 | Data wydania | 2019-10-24 |
-| Ostatnia zmiana | 2026-03-30 |
+| Ostatnia zmiana | 2026-04-24 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002019) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2019/text.pdf) |
 
 USTAWA z dnia 11 września r.

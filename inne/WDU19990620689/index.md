@@ -28,13 +28,16 @@ domain: null
 2. Polska Organizacja Turystyczna tworzy warunki organów administracji samo terytorialnego organizacji przed dziedziny turystyki, tym go spodarczego zawodowego, oraz tej dziedzinie.
 2. 1. Polska Organizacja Turystyczna jest
 2. Nadzór nad sprawuje minister do spraw kultury fizycznej turystyki, zwany dalej ministrem".
-3. 1. Do promocja Polski jako kraju atrakcyjnego turystycz nie, zapewnianie funkcjonowania rozwijania polskiego systemu informacji turystycznej kraju cie, inicjowanie, opiniowanie wspomaganie planów rozwoju modernizacji infrastruktury turystycz nej,
-4) wykonywanie innych powierzonych or gany jednostki, o których mowa ust. 1 2, zasadach umowie zawieranej tymi organami jednostkami a
-2. Polska Organizacja Turystyczna, swoje zadania, z: jednostkami terytorialnego, organizacjami dziedziny turystyki, tym gospodar czego zawodowego, oraz stowarzyszeniami dzia tej dziedzinie, polskimi przedstawicielstwami zagranicznymi zakresie wykonywanych za
-4. Dla zapewnienia o której mowa wart. 1 ust. 2, Polska Organizacja Turystyczna in tworzenie regionalnych organizacji tury stycznych swoim zakresem obszar jednego lub województw oraz lokalnych organizacji turystycznych swoim zakre sem obszar jednej lub jednostek sa terytorialnego nimi Organy
+3. 1. Do promocja Polski jako kraju atrakcyjnego turystycz nie, zapewnianie funkcjonowania rozwijania polskiego systemu informacji turystycznej kraju cie,
+3) inicjowanie, opiniowanie wspomaganie planów rozwoju modernizacji infrastruktury turystycz nej,
+4) wykonywanie innych powierzonych or gany jednostki, o których mowa ust. 2 1 2, zasadach umowie zawieranej tymi organami jednostkami a
+2. Polska Organizacja Turystyczna, swoje zadania, z: jednostkami terytorialnego, organizacjami dziedziny turystyki, tym gospodar czego zawodowego, oraz stowarzyszeniami dzia tej dziedzinie,
+3) polskimi przedstawicielstwami zagranicznymi zakresie wykonywanych za
+4. Dla zapewnienia o której mowa wart. 1 ust. 2, Polska Organizacja Turystyczna in tworzenie regionalnych organizacji tury stycznych swoim zakresem obszar jednego lub województw oraz lokalnych organizacji turystycznych swoim zakre sem obszar jednej lub jednostek sa terytorialnego nimi 2 Organy
 5. Organami Rada Prezes Turystycznej.
 6. 1. Rada wy konuje kompetencje opiniodawcze okre ustawie.
-2. Do kompetencji Rady Tury stycznej przyjmowanie przedstawionych Pol skiej rocznych planów fi nansowych oraz przedstawianie ich ministrowi, przyjmowanie rocznych wieloletnich programów zatwierdzanie rocznych
+2. Do kompetencji Rady Tury stycznej przyjmowanie przedstawionych Pol skiej rocznych planów fi nansowych oraz przedstawianie ich ministrowi, przyjmowanie rocznych wieloletnich programów
+3) zatwierdzanie rocznych
 4) przyjmowanie rocznych finansowych
 5) opiniowanie kandydatów stanowisko wiceprezesów Turystycz nej,
 6) zasad wynagradzania pracowników Pol skiej kwalifika cyjnych wobec tych pracowników.
@@ -78,7 +81,7 @@ Kwoty tych dotacji ustala ustawa 4 gospodarcza
 2. Dochód gospodarczej wy realizacji Turystycz nej wart. 3 ust. 1.
 5 Zmiany przepisach
 21. W ustawie 25 stycznia 1991 o utwo rzeniu Kultury Fizycznej Turystyki (Dz. U.
-16, poz. 74 1997 141, poz. 943) wprowadza zmiany: wart. dodaje wyrazy" , niem przepisów o Turystycz nej.";
+16, poz. 74 1997 141, poz. 943) wprowadza zmiany: wart. 2 dodaje wyrazy" , niem przepisów o Turystycz nej.";
 wart. 3 8.
 22. W ustawie 26 lipca 1991 o podatku dochodowym od osób fizycznych (Dz. U. 1993 90, poz. 416 134, poz. 646, 1994 43, poz. 163, 90, poz. 419, 113, poz. 547, 123, poz. 602 126, poz. 626, 1995 5, poz. 25 133, poz. 654, 1996 25, poz. 113, 87, poz. 395, 137, poz. 638, 147, poz. 686 156, poz. 776, 1997 28, poz. 153, 30, poz. 164, 71, poz. 449, 85, poz. 538, 96, poz. 592, 121, poz. 770, 123, poz. 776, 137, poz. 926, 139, poz. 932, 933 934 141, poz. 943 945 oraz 1998 66, poz. 430, 74, poz. 471, 108, poz. 685, 117, poz. 756, 137, poz. 887, 144, poz. 930 162, poz. 1121) wart. 23 wprowadza zmiany: ust. 1 30 po wyrazach" drodze dzenia," dodaje wyrazy "a przed gospodar dziedzinie turystyki, wypoczynku, sportu rekreacji, rzecz Turystycz nej,";
 poz. 419, 113, poz. 547, 123, poz. 602 127, poz. 627, 1995 5, poz. 25, 86, poz. 433, 96, poz. 478, 133, poz. 654 142, poz. 704, 1996 25, poz. 113, 34, poz. 146, 90, poz. 405, 137, poz. 639 147, poz. 686, 1997 9, poz. 44, 28, poz. 153, 79, poz. 484, 96, poz. 592, 107, poz. 685, 118, poz. 754, 121, poz. 770, 123, poz. 776 777, 137, poz. 926, 139, poz. 932, 933 934, 140, poz. 939 141, poz. 945, 1998 60, poz. 383, 108, poz. 685, 117, poz. 756, 137, poz. 887, 144, poz. 931 162, poz. 1112 1121 oraz 1999 49, poz. 484) wprowadza zmiany: wart. 6 ust. 1 13 prze cinkiem oraz dodaje 14 brzmieniu: ,,14)

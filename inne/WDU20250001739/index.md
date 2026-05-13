@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# Warszawa, dnia 9 grudnia 2025 Poz.
+# Warszawa, dnia 9 grudnia 2025
 
 | Pole | Wartość |
 |---|---|

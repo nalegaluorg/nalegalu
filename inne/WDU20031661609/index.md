@@ -26,7 +26,7 @@ domain: null
 
 **Art. 1.** W ustawie z dnia 13 paêdziernika 1998 r. o systemie ubezpieczeń społecznych (Dz. U. 137, 887, z póên. zm. ) wprowadza się następujące zmiany:
 
-**Art. 2.** Wustawie zdnia 17 grudnia 1974 r. ouposażeniu żołnierzy (Dz. U. z2002 r. 76, 693, 153, 1271, 166, 1363 iNr 1679) wprowadza się następujące zmiany:
+**Art. 2.** Wustawie zdnia 17 grudnia 1974 r. ouposażeniu żołnierzy (Dz. U. z2002 r. 76, 693, 153, 1271, 1363 iNr 1679) wprowadza się następujące zmiany:
 
 **Art. 3.** Wustawie zdnia 6 kwietnia 1990 r. oPolicji (Dz. U. z 2002 r. 7, 58, z póên. zm. ) po art. 69 dodaje się art. 69awbrzmieniu: ŃArt. 69a. 1. Jeżeli policjant zwolniony ze służby nie spełnia warunków do nabycia prawa do emerytury policyjnej lub policyjnej renty inwalidzkiej, od uposażenia wypłaconego policjantowi po dniu 31 grudnia 1998 r. do dnia zwolnienia ze służby, od którego nie odprowadzono składki na ubezpieczenia emerytalne irentowe, przekazuje się do Zakładu Ubezpieczeń Społecznych składki ——————— za ten okres przewidziane w ustawie z dnia 13 paêdziernika 1998 r. o systemie ubezpieczeń społecznych (Dz. U. 137, 887, zpóên. zm. ). 2. Przez uposażenie stanowiące podstawę wymiaru składek na ubezpieczenia emerytalne irentowe, októrym mowa wust. 1, rozumie się:
 

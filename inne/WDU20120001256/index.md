@@ -24,9 +24,9 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001256) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1256/text.pdf) |
 
-USTAWA 12 października zmianie ustawy wspieraniu rozwoju usług sieci telekomunikacyjnych oraz niektórych innych ustaw
+USTAWA 12 października zmianie ustawy wspieraniu rozwoju usług sieci telekomunikacyjnych niektórych innych ustaw
 
-**Art. 1.** W ustawie 7 maja 2010 wspieraniu rozwoju usług sieci telekomunikacyjnych (Dz. U. 106, 675 oraz 951) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie 7 maja 2010 wspieraniu rozwoju usług sieci telekomunikacyjnych (Dz. U. 106, 675 951) wprowadza się następujące zmiany:
 
 **Art. 2.** W ustawie 21 marca 1985 drogach publicznych (Dz. U. 2007 19, 115, późn. zm. ) wprowadza się następujące zmiany:
 
@@ -40,7 +40,7 @@ USTAWA 12 października zmianie ustawy wspieraniu rozwoju usług sieci telekomun
 
 **Art. 7.** Do postępowań wszczętych na podstawie wniosków wydanie decyzji lokalizacji regionalnej sieci szerokopasmowej na podstawie ustawy zmienianej 1 niezakończonych przed dniem wejścia życie niniejszej ustawy, stosuje się przepisy tej ustawy brzmieniu nadanym niniejszą ustawą.
 
-**Art. 8.** Do spraw wszczętych na podstawie 30 33 ustawy zmienianej 1, oraz 139 ustawy zmienianej 5 niezakończonych przed dniem wejścia życie niniejszej ustawy stosuje się przepisy tych ustaw brzmieniu nadanym niniejszą ustawą.
+**Art. 8.** Do spraw wszczętych na podstawie 30 33 ustawy zmienianej 1, 139 ustawy zmienianej 5 niezakończonych przed dniem wejścia życie niniejszej ustawy stosuje się przepisy tych ustaw brzmieniu nadanym niniejszą ustawą.
 
 **Art. 9.** Do postępowań sądowych sprawach odwołania od decyzji, których 30 ustawy zmienianej 1, wszczętych niezakończonych prawomocnie do wejścia życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
 

@@ -10,9 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# 1. Na podstawie 16 zdanie pierwsze 20 lipca 2000 ogłaszaniu aktów normatywnych niektórych innych aktów prawnych (Dz. U. 2019 poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst 21 stycznia 2021 kolejnym 2021 dodatkowym rocznym świadczeniu pieniężnym dla emerytów rencistów (Dz. U. poz. 432), uwzględnieniem zmiany wprowadzonej ustawą 26 maja 2022 kolejnym 2022 dodatkowym rocznym świadczeniu pieniężnym dla emerytów rencistów (Dz. U. poz. 1358) zmian wynikających przepisów ogłoszonych przed dniem 6 października 2022
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ 7 października 2022 sprawie ogłoszenia jednolitego tekstu kolejnym 2021 dodatkowym rocznym świadczeniu pieniężnym dla emerytów rencistów*
+# Poz.
 
 | Pole | Wartość |
 |---|---|
@@ -26,12 +24,14 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002235) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2235/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ 7 października 2022 sprawie ogłoszenia jednolitego tekstu kolejnym 2021 dodatkowym rocznym świadczeniu pieniężnym dla emerytów rencistów
+1. Na podstawie 16 zdanie pierwsze 20 lipca 2000 ogłaszaniu aktów normatywnych niektórych innych aktów prawnych (Dz. U. 2019 poz. 1461) ogłasza załączniku do niniejszego obwieszczenia jednolity tekst 21 stycznia 2021 kolejnym 2021 dodatkowym rocznym świadczeniu pieniężnym dla emerytów rencistów (Dz. U. poz. 432), uwzględnieniem zmiany wprowadzonej ustawą 26 maja 2022 kolejnym 2022 dodatkowym rocznym świadczeniu pieniężnym dla emerytów rencistów (Dz. U. poz. 1358) zmian wynikających przepisów ogłoszonych przed dniem 6 października 2022
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity nie obejmuje:
-1) 15–18 21 stycznia 2021 kolejnym 2021 dodatkowym rocznym świadczeniu pieniężnym dla emerytów rencistów (Dz. U. poz. 432), które stanowią: „Art. 15. W ustawie 29 sierpnia 1997 Prawo bankowe (Dz. U. 2020 poz. 1896, 2320 2419) 54a otrzymuje brzmienie: „Art. 54a. Środki pieniężne znajdujące się na rachunkach oszczędnościowych, rachunkach oszczędnościowo-rozliczeniowych na rachunkach terminowych lokat oszczędnościowych pochodzące ze świadczeń, dodatków zasiłków, których 833 § 6 17 listopada 1964 Kodeks postępowania cywilnego 10 § 4 17 czerwca 1966 postępowaniu egzekucyjnym administracji (Dz. U. 2020 poz. 1427, 1492 2320 2021 poz. 11 41), świadczeń, dodatków innych kwot, których 1, 80 1a, 81, 83 4, 84 pkt 3 140 pkt 9 czerwca 2011 wspieraniu rodziny systemie pieczy zastępczej (Dz. U. 2020 poz. 821 2021 poz. 159), środków finansowych na utrzymanie lokalu mieszkalnego budynku wielorodzinnym lub domu jednorodzinnego, których 83 84 pkt 9 czerwca 2011 wspieraniu rodziny systemie pieczy zastępczej, części przysługującej na umieszczone rodzinie zastępczej lub rodzinnym domu dziecka dzieci osoby, które osiągnęły pełnoletność, przebywając pieczy zastępczej, świadczenia uzupełniającego, którym lipca 2019 świadczeniu uzupełniającym dla osób niezdolnych do samodzielnej egzystencji (Dz. U. 2020 poz. 1936 2021 poz. 353), dodatkowego rocznego świadczenia pieniężnego, którym 9 stycznia 2020 dodatkowym rocznym świadczeniu pieniężnym dla emerytów rencistów (Dz. U. poz. 321), kolejnego 2021 dodatkowego rocznego świadczenia pieniężnego, którym 21 stycznia 2021 kolejnym 2021 dodatkowym rocznym świadczeniu pieniężnym dla emerytów rencistów (Dz. U. poz. 432), są wolne od zajęcia na podstawie sądowego lub administracyjnego tytułu wykonawczego.”.
+1) 15–18 21 stycznia 2021 kolejnym 2021 dodatkowym rocznym świadczeniu pieniężnym dla emerytów rencistów (Dz. U. poz. 432), które stanowią: „Art. 15. W ustawie 29 sierpnia 1997 – Prawo bankowe (Dz. U. 2020 poz. 1896, 2320 2419) 54a otrzymuje brzmienie: „Art. 54a. Środki pieniężne znajdujące na rachunkach oszczędnościowych, rachunkach oszczędnościowo-rozliczeniowych na rachunkach terminowych lokat oszczędnościowych pochodzące ze świadczeń, dodatków zasiłków, których 833 § 6 17 listopada 1964 – Kodeks postępowania cywilnego 10 § 4 17 czerwca 1966 postępowaniu egzekucyjnym administracji (Dz. U. 2020 poz. 1427, 1492 2320 2021 poz. 11 41), świadczeń, dodatków innych kwot, których 1, 80 1a, 81, 83 4, 84 pkt 3 140 pkt 9 czerwca 2011 wspieraniu rodziny systemie pieczy zastępczej (Dz. U. 2020 poz. 821 2021 poz. 159), środków finansowych na utrzymanie lokalu mieszkalnego budynku wielorodzinnym domu jednorodzinnego, których 83 84 pkt 9 czerwca 2011 wspieraniu rodziny systemie pieczy zastępczej, części przysługującej na umieszczone rodzinie zastępczej rodzinnym domu dziecka dzieci osoby, które osiągnęły pełnoletność, przebywając pieczy zastępczej, świadczenia uzupełniającego, którym lipca 2019 świadczeniu uzupełniającym dla osób niezdolnych do samodzielnej egzystencji (Dz. U. 2020 poz. 1936 2021 poz. 353), dodatkowego rocznego świadczenia pieniężnego, którym 9 stycznia 2020 dodatkowym rocznym świadczeniu pieniężnym dla emerytów rencistów (Dz. U. poz. 321), kolejnego 2021 dodatkowego rocznego świadczenia pieniężnego, którym 21 stycznia 2021 kolejnym 2021 dodatkowym rocznym świadczeniu pieniężnym dla emerytów rencistów (Dz. U. poz. 432), są wolne od zajęcia na podstawie sądowego administracyjnego tytułu wykonawczego.”.
 
-**Art. 16.** W ustawie 13 października 1998 systemie ubezpieczeń społecznych (Dz. U. 2021 poz. 423) 59: dodatków zasiłków, których 833 § 6 17 listopada 1964 Kodeks postępowania cywilnego 10 § 4 17 czerwca 1966 postępowaniu egzekucyjnym administracji (Dz. U. 2020 poz. 1427, 1492 2320 2021 poz. 11 41), świadczeń, dodatków innych kwot, których 1, 80 1a, 81, 83 4, 84 pkt 3 140 pkt 9 czerwca 2011 wspieraniu rodziny systemie pieczy zastępczej (Dz. U. 2020 poz. 821 2021 poz. 159), środków finansowych na utrzymanie lokalu mieszkalnego budynku wielorodzinnym lub domu jednorodzinnego, których 83 84 pkt 9 czerwca 2011 wspieraniu rodziny systemie pieczy zastępczej, części przysługującej na umieszczone rodzinie zastępczej lub rodzinnym domu dziecka dzieci osoby, które osiągnęły pełnoletność, przebywając pieczy zastępczej, świadczenia uzupełniającego, którym lipca 2019 świadczeniu uzupełniającym dla osób niezdolnych do samodzielnej egzystencji (Dz. U. 2020 poz. 1936 2021 poz. 353), dodatkowego rocznego świadczenia pieniężnego, którym 9 stycznia 2020 dodatkowym rocznym świadczeniu pieniężnym dla emerytów rencistów (Dz. U. poz. 321), kolejnego 2021 dodatkowego rocznego świadczenia pieniężnego, którym 21 stycznia 2021 kolejnym 2021 dodatkowym rocznym świadczeniu pieniężnym dla emerytów rencistów (Dz. U. poz. 432), są wolne od zajęcia na podstawie sądowego lub administracyjnego tytułu wykonawczego.”.
+**Art. 16.** W ustawie 13 października 1998 systemie ubezpieczeń społecznych (Dz. U. 2021 poz. 423) 59: dodatków zasiłków, których 833 § 6 17 listopada 1964 – Kodeks postępowania cywilnego 10 § 4 17 czerwca 1966 postępowaniu egzekucyjnym administracji (Dz. U. 2020 poz. 1427, 1492 2320 2021 poz. 11 41), świadczeń, dodatków innych kwot, których 1, 80 1a, 81, 83 4, 84 pkt 3 140 pkt 9 czerwca 2011 wspieraniu rodziny systemie pieczy zastępczej (Dz. U. 2020 poz. 821 2021 poz. 159), środków finansowych na utrzymanie lokalu mieszkalnego budynku wielorodzinnym domu jednorodzinnego, których 83 84 pkt 9 czerwca 2011 wspieraniu rodziny systemie pieczy zastępczej, części przysługującej na umieszczone rodzinie zastępczej rodzinnym domu dziecka dzieci osoby, które osiągnęły pełnoletność, przebywając pieczy zastępczej, świadczenia uzupełniającego, którym lipca 2019 świadczeniu uzupełniającym dla osób niezdolnych do samodzielnej egzystencji (Dz. U. 2020 poz. 1936 2021 poz. 353), dodatkowego rocznego świadczenia pieniężnego, którym 9 stycznia 2020 dodatkowym rocznym świadczeniu pieniężnym dla emerytów rencistów (Dz. U. poz. 321), kolejnego 2021 dodatkowego rocznego świadczenia pieniężnego, którym 21 stycznia 2021 kolejnym 2021 dodatkowym rocznym świadczeniu pieniężnym dla emerytów rencistów (Dz. U. poz. 432), są wolne od zajęcia na podstawie sądowego administracyjnego tytułu wykonawczego.”.
 
-**Art. 18.** W ustawie 9 stycznia 2020 dodatkowym rocznym świadczeniu pieniężnym dla emerytów rencistów (Dz. U. poz. 321) pkt 5 13 pkt 3 po wyrazach „Straży Granicznej,” dodaje się wyrazy „Straży Marszałkowskiej,”.”;
+**Art. 18.** W ustawie 9 stycznia 2020 dodatkowym rocznym świadczeniu pieniężnym dla emerytów rencistów (Dz. U. poz. 321) pkt 5 13 pkt 3 po wyrazach „Straży Granicznej,” dodaje wyrazy „Straży Marszałkowskiej,”.”;
 
 **Art. 1.** Ustawa określa warunki nabywania prawa do kolejnego 2021 dodatkowego rocznego świadczenia pieniężnego, zwanego dalej „dodatkowym świadczeniem”, zasady jego wypłaty.
 
@@ -43,15 +43,15 @@ domain: null
 
 1. Do renty rodzinnej, do której uprawniona jest więcej niż jedna osoba, przysługuje jedno dodatkowe świadczenie, które podlega proporcjonalnemu podziałowi na osoby uprawnione do renty rodzinnej.
 
-2. Jeżeli do renty rodzinnej uprawniona jest więcej niż jedna osoba przynajmniej jedna nich uprawniona jest do renty socjalnej, dodatkowe świadczenie tytułu renty rodzinnej podlega podziałowi stosownie do liczby osób uprawnionych do renty rodzinnej, wyłączeniem osoby lub osób uprawnionych do renty socjalnej.
+2. Jeżeli do renty rodzinnej uprawniona jest więcej niż jedna osoba przynajmniej jedna nich uprawniona jest do renty socjalnej, dodatkowe świadczenie tytułu renty rodzinnej podlega podziałowi stosownie do liczby osób uprawnionych do renty rodzinnej, wyłączeniem osoby osób uprawnionych do renty socjalnej.
 
-3. Osobie lub osobom wyłączonym liczby osób uprawnionych do renty rodzinnej, których 2, przysługuje dodatkowe świadczenie tytułu przysługującego prawa do renty socjalnej.
+3. Osobie osobom wyłączonym liczby osób uprawnionych do renty rodzinnej, których 2, przysługuje dodatkowe świadczenie tytułu przysługującego prawa do renty socjalnej.
 
 **Art. 6.**
 
-1. Dodatkowe świadczenie wypłaca się osobie uprawnionej urzędu, wraz ze świadczeniem, którym 2.
+1. Dodatkowe świadczenie wypłaca osobie uprawnionej urzędu, wraz ze świadczeniem, którym 2.
 
-2. Dodatkowe świadczenie, którym 1, wypłaca się terminie wypłaty świadczeń, których 2, przypadającym listopadzie 2021 r., wyjątkiem dodatkowego świadczenia przyznanego osobie uprawnionej do świadczeń, których pkt 10, które wypłaca się terminie wypłaty świadczeń przypadającym grudniu 2021 r., 49 3 ustawy, której pkt 2, które wypłaca się terminie wypłaty świadczeń przypadającym styczniu 2022
+2. Dodatkowe świadczenie, którym 1, wypłaca terminie wypłaty świadczeń, których 2, przypadającym listopadzie 2021 r., wyjątkiem dodatkowego świadczenia przyznanego osobie uprawnionej do świadczeń, których pkt 10, które wypłaca terminie wypłaty świadczeń przypadającym grudniu 2021 r., 49 3 ustawy, której pkt 2, które wypłaca terminie wypłaty świadczeń przypadającym styczniu 2022
 
 **Art. 7.**
 
@@ -63,9 +63,9 @@ domain: null
 
 4. Od decyzji organu wypłacającego przysługują środki odwoławcze przewidziane przepisach, których 2.
 
-**Art. 8.** Kwoty dodatkowego świadczenia nie wlicza się do dochodu, którym w:
+**Art. 8.** Kwoty dodatkowego świadczenia nie wlicza do dochodu, którym w:
 
-**Art. 13.** W sprawach nieuregulowanych niniejszej ustawie stosuje się przepisy:
+**Art. 13.** W sprawach nieuregulowanych niniejszej ustawie stosuje przepisy:
 
 **Art. 14.**
 

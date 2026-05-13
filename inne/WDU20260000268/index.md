@@ -21,7 +21,7 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2026-02-20 |
 | Data wydania | 2026-03-04 |
-| Ostatnia zmiana | 2026-03-05 |
+| Ostatnia zmiana | 2026-05-08 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000268) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/268/text.pdf) |
 
 OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 20 lutego 2026 r.

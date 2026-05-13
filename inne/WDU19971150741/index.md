@@ -10,9 +10,7 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# o gospodarce nieruchomościami
-
-*USTAWA z dnia 21 sierpnia 1997 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 września 1997 r.
 
 | Pole | Wartość |
 |---|---|
@@ -26,2999 +24,1802 @@ domain: null
 | Ostatnia zmiana | 2026-04-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971150741) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/741/text.pdf) |
 
-Art. 234–239. (pominięte)
+Nr 115 Poz.: . 3545 741
+USTAWA z dnia 21 sierpnia 1997 r.
+o gospodarce I Przepisy ogólne
 
-### DZIAŁ I Przepisy ogólne
+**Art. 1.** Ustawa zasady:
 
-**Art. 1.**
-
-1. Ustawa określa zasady:
-
-- **1)** gospodarowania nieruchomościami stanowiącymi własność Skarbu Państwa oraz własność jednostek samorządu terytorialnego;
-- **2)** podziału nieruchomości;
-- **3)** scalania i podziału nieruchomości;
-- **4)** pierwokupu nieruchomości;
-- **5)** wywłaszczania nieruchomości i zwrotu wywłaszczonych nieruchomości;
-- **6)** udziału w kosztach budowy urządzeń infrastruktury technicznej;
-- **7)** wyceny nieruchomości;
-- **8)** działalności zawodowej, której przedmiotem jest gospodarowanie nieruchomościami.
-
-2. Przepisów ustawy nie stosuje się do nieruchomości służących wykonywaniu zadań placówek zagranicznych Rzeczypospolitej Polskiej w rozumieniu przepisów o służbie zagranicznej, z zastrzeżeniem art. 61 ust. 3a.
-
-**Art. 2.** Ustawa nie narusza innych ustaw w zakresie dotyczącym gospodarki nieruchomościami, a w szczególności:
+**Art. 2.** Ustawa nie narusza innych ustaw w zakresie gospodarki a w szcze
 
 **Art. 3.**
 
-1. Właściwym w sprawach gospodarki nieruchomościami, regulowanych przepisami ustawy, jest minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa.
+1. Centralnym organem administracji wej w sprawach gospodarki regu lowanych przepisami ustawy, jest Prezes Mieszkalnictwa i Rozwoju Miast.
 
-2. (uchylony)
+2. Organem doradczym Prezesa Mieszkal nictwa i Rozwoju Miast w sprawach gospodarki nieru jest Rada
 
-3. (uchylony)
+3. Prezes Mieszkalnictwa i Rozwoju Miast i i Ra dy, o której mowa w ust. 2, oraz ustala jej regulamin, który i zasady tej Rady.
 
 **Art. 4.** Ilekroć w ustawie jest mowa o:
 
-**Art. 5.**
+**Art. 5.** Waloryzacji kwot z okrew ustawie dokonuje przy zastosowaniu zmian cen przez Prezesa Statystycznego, w drodze w Dzienniku Rze czypospolitej Polskiej "Monitor Polski".
 
-1. Waloryzacji kwot należnych z tytułów określonych w ustawie dokonuje się przy zastosowaniu wskaźników zmian cen nieruchomości dla nieruchomości sklasyfikowanych w rejestrze cen nieruchomości, z uwzględnieniem danych wynikających z ewidencji gruntów i budynków.
+**Art. 6.** Celami publicznymi w rozumieniu ustawy wydzielanie gruntów pod drogi publiczne i drogi wodne, budowa i utrzymywanie tych dróg, obiek tów i transportu publicznego oraz kontro li ruchu lotniczego, a publicznej i sy gnalizacji, budowa i utrzymywanie przewodów i do pary, gazów i energii elektrycznej, a innych obiektów i do korzy stania z tych przewodów i budowa i utrzymywanie publicznych do zaopatrzenia w groma dzenia, i oczyszczania oraz utylizacji odpadów, budowa oraz utrzymywanie obiektów i ochronie zbiorników i in nych wodnych zaopatrzeniu w regulacji i ochronie przed po a regulacja i utrzymywanie wód oraz melioracji wodnych, Skarbu lub gmin, ochrona dobra kultu ry w rozumieniu przepisów o ochronie dóbr kultu ry, budowa i utrzymywanie dla organów administracji, i prokura tur, publicz nych, a publicznych: obiektów ochrony zdro wia, przedszkoli, domów opieki i placó wek budowa i utrzymywanie obiektów oraz na potrzeby i ochrony granicy a do zapew nienia publicznego, w tym budo wa i utrzymywanie karnych oraz dów dla nieletnich, poszukiwanie, rozpoznawanie i wydobywanie ko palin Skarbu i utrzymywanie cmentarzy, inne cele publiczne w usta wach.
 
-2. Prezes Głównego Urzędu Statystycznego ogłasza, w formie obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, wskaźniki zmian cen nieruchomości dla danego rodzaju nieruchomości, niepóźniej niż w terminie 4 miesięcy od zakończenia kwartału, którego te wskaźniki dotyczą, z podziałem na województwa.
+**Art. 7.** Jeżeli istnieje potrzeba rzeczoznawcy ma o których mowa w przepisach dzia V.
 
-3. W przypadku gdy dla danego kwartału nie ogłoszono wskaźnika zmian cen nieruchomości dla danego rodzaju nieruchomości, waloryzacji kwot należnych z tytułów określonych w ustawie za ten kwartał dokonuje się przy zastosowaniu ostatniego ogłoszonego przez Prezesa Głównego Urzędu Statystycznego wskaźnika zmian cen nieruchomości dla danego rodzaju nieruchomości.
+**Art. 8.** Jeżeli przy spraw, o których mo wa w przepisach III, nie istnieje za wiadomienia stron o decyzjach i innych organów administracji publicznej ze na nie ustalone adresy stron, stosuje art. 49 Kodeksu po administracyjnego.
 
-4. W przypadku gdy dla danego rodzaju nieruchomości nie ogłoszono nigdy wskaźnika zmian cen nieruchomości, waloryzacji kwot należnych z tytułów określonych w ustawie w tym zakresie dokonuje się przy zastosowaniu wskaźnika cen towarów i usług konsumpcyjnych ogłaszanego przez Prezesa Głównego Urzędu Statystycznego.
-
-5. W przypadku gdy nieruchomość składa się z co najmniej dwóch części odpowiadających różnym rodzajom nieruchomości, waloryzacji, o której mowa w ust. 1, dokonuje się przy zastosowaniu średniej ważonej wskaźników zmian cen nieruchomości właściwych dla każdej z części tej nieruchomości, przyjmując za wagi powierzchnię poszczególnych części.
-
-**Art. 6.** Celami publicznymi w rozumieniu ustawy są:
-
-**Art. 7.** Jeżeli istnieje potrzeba określenia wartości nieruchomości, wartość tę określają rzeczoznawcy majątkowi, o których mowa w przepisach rozdziału 1 działu V.
-
-**Art. 8.** Jeżeli przy załatwianiu spraw, o których mowa w przepisach działu III, nie istnieje możliwość zawiadomienia stron o decyzjach i innych czynnościach organów administracji publicznej ze względu na nieustalone adresy stron, stosuje się art. 49 Kodeksu postępowania administracyjnego.
-
-**Art. 9.** W sprawach, o których mowa w przepisach działu III, z wyłączeniem art. 97 ust. 3 pkt 1, art. 122, art. 124 ust. 1a, art. 124b ust. 1, art. 126 i art. 132 ust. 1a, wykonanie decyzji następuje po upływie 14 dni od dnia, w którym upłynął bezskutecznie trzydziestodniowy termin do wniesienia skargi na decyzję do sądu administracyjnego. W przypadku wniesienia skargi do sądu administracyjnego w tych sprawach organ, który wydał decyzję, wstrzymuje z urzędu jej wykonanie, w drodze postanowienia, na które nie przysługuje zażalenie.
-
-**Art. 9a.** Organem wyższego stopnia w sprawach określonych w ustawie, rozstrzyganych w drodze decyzji przez starostę wykonującego zadania z zakresu administracji rządowej, jest wojewoda.
-
-### DZIAŁ II Gospodarowanie nieruchomościami stanowiącymi własność Skarbu Państwa oraz własność jednostki samorządu terytorialnego
-
-#### Rozdział 1 Zasady ogólne
+**Art. 9.** W razie wniesienia do administracyj nego skargi na w sprawach, o których mowa w przepisach III, organ administracji pu blicznej, który wstrzymuje z jej wykonanie, z art. 122 i 126. II Gospodarowanie Skarbu oraz gminy 1 Zasady ogólne
 
 **Art. 10.**
 
-1. Przepisy niniejszego działu stosuje się do nieruchomości stanowiącej własność Skarbu Państwa oraz własność jednostek samorządu terytorialnego.
+1. Przepisy niniejszego stosuje do Skarbu stwa oraz gminy, z nierucho w Zasobu Rolnej Skarbu chyba przepisy gospo darowania tym Zasobem inaczej. nie dotyczy art. 13 ust. 4 oraz art. 67 ust. 1.
 
-2. Przepisy dotyczące jednostek samorządu terytorialnego stosuje się odpowiednio do związków tych jednostek.
+2. Przepisy gminy stosuje odpowied nio do
 
-3. Przepisy dotyczące czynności cywilnoprawnych, dokonywanych między Skarbem Państwa a jednostkami samorządu terytorialnego, stosuje się odpowiednio do czynności cywilnoprawnych dokonywanych między tymi jednostkami.
+**Art. 11.** Z z przepisów niniejszej ustawy oraz ustaw, organem Skarb w sprawach gospodarowania jest kierownik rejonowego, a organem w tych sprawach jest gminy.
 
-4. Jeżeli nieruchomość jest przedmiotem współwłasności Skarbu Państwa lub jednostek samorządu terytorialnego i osób trzecich, przepisy niniejszego działu stosuje się wyłącznie do gospodarowania udziałem Skarbu Państwa lub jednostek samorządu terytorialnego w tej nieruchomości.
-
-5. Przepisy niniejszego działu stosuje się z uwzględnieniem przepisów o pomocy publicznej.
-
-**Art. 10a.** (uchylony)
-
-**Art. 11.**
-
-1. Z zastrzeżeniem wyjątków wynikających z przepisów niniejszej ustawy oraz odrębnych ustaw, organem reprezentującym Skarb Państwa w sprawach gospodarowania nieruchomościami jest starosta, wykonujący zadanie z zakresu administracji rządowej, a organami reprezentującymi jednostki samorządu terytorialnego są ich organy wykonawcze.
-
-2. Jeżeli przepisy ustawy wymagają udzielenia zgody przez radę, sejmik lub wojewodę, wyrażenie zgody, z wyjątkiem zgody, o której mowa w art. 46 ust. 4, następuje odpowiednio w drodze uchwały rady lub sejmiku albo zarządzenia wojewody w terminie miesiąca od złożenia odpowiedniego wniosku przez starostę, z zastrzeżeniem art. 23a.
-
-**Art. 11a.** Przepis art. 11 ust. 1 stosuje się do czynności prawnych lub czynności procesowych podejmowanych na rzecz lub w interesie Skarbu Państwa lub jednostek samorządu terytorialnego.
-
-**Art. 11b.** Nadzór nad gospodarowaniem nieruchomościami należącymi do zasobu nieruchomości Skarbu Państwa przez starostów wykonujących zadania z zakresu administracji rządowej sprawuje wojewoda.
-
-**Art. 12.** Organy, o których mowa w art. 11, działające za Skarb Państwa i jednostkę samorządu terytorialnego, są zobowiązane do gospodarowania nieruchomościami w sposób zgodny z zasadami prawidłowej gospodarki.
-
-**Art. 12a.**
-
-1. Należności pieniężne z tytułu gospodarowania nieruchomościami mające charakter cywilnoprawny, przypadające Skarbowi Państwa reprezentowanemu przez starostę wykonującego zadanie z zakresu administracji rządowej albo ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, mogą być umarzane w całości albo w części lub ich spłata może być odraczana lub rozkładana na raty. W przypadkach nieuregulowanych w niniejszej ustawie stosuje się przepisy art. 56, art. 57 i art. 58 ust. 2–4 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2025 r. poz. 1483, 1844 i 1846).
-
-2. Odraczania lub rozkładania na raty spłaty należności oraz umarzania należności, o których mowa w ust. 1, z wyjątkiem przypadków określonych w art. 71 ust. 4 i art. 219, dokonuje starosta wykonujący zadanie z zakresu administracji rządowej, za zgodą wojewody.
-
-3. Odraczania lub rozkładania na raty spłaty należności oraz umarzania należności, o których mowa w ust. 1, w odniesieniu do nieruchomości, określonych w art. 60 ust. 1, dokonuje minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa.
-
-4. Wojewoda, a w odniesieniu do nieruchomości, określonych w art. 60 ust. 1, minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa może wyrazić zgodę na odstąpienie od dochodzenia należności, o której mowa w ust. 1, jeżeli wysokość tej należności wraz z odsetkami nie przekracza kwoty 100 zł.
+**Art. 12.** Organy, o których mowa wart. 11, ce za Skarb i do go spodarowania w sposób zgodny z zasadami gospodarki.
 
 **Art. 13.**
 
-1. Z zastrzeżeniem wyjątków wynikających z ustaw, nieruchomości mogą być przedmiotem obrotu. W szczególności nieruchomości mogą być przedmiotem sprzedaży, zamiany i zrzeczenia się, oddania w użytkowanie wieczyste, w najem lub dzierżawę, użyczenia, oddania w trwały zarząd, a także mogą być obciążane ograniczonymi prawami rzeczowymi, wnoszone jako wkłady niepieniężne (aporty) do spółek, przekazywane jako wyposażenie tworzonych przedsiębiorstw państwowych oraz jako majątek tworzonych fundacji.
+1. Z z ustaw, przedmiotem obro tu. W przed miotem zamiany i zrzeczenia oddania w wieczyste, w najem lub czenia, oddania w a ob ograniczonymi prawami rzeczowymi, wnoszo ne jako (aporty) do prze kazywane jako tworzonych biorstw oraz jako tworzonych fundacji.
 
-1a. Nieruchomość może być także przekazywana nieodpłatnie w drodze umowy partnerowi prywatnemu lub spółce, o której mowa w art. 14 ust. 1 albo 1a ustawy z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym (Dz. U. z 2023 r. poz.
+2. z art. 59 ust. 1, przedmiotem darowizny na cele publiczne, a przedmiotem darowizny dokonywanej Skarbem i Kierownik rejono wego darowizny stano Skarbu za wojewody, a gminy w odniesieniu do sta gminy - za rady gminy. W umowie darowizny cel, na który nierujest darowana. W przypadku niewykorzysta nia na ten cel darowizna od
 
-- **1637)** , na czas realizacji przedsięwzięcia w ramach partnerstwa publiczno-prywatnego.
+3. Prawo wieczystego gruntowej przedmiotem nego (aportu) wnoszonego do
 
-1b. Nie oddaje się w użytkowanie wieczyste nieruchomości gruntowych na cele budownictwa mieszkaniowego, z wyjątkiem realizacji roszczeń o oddanie nieruchomości gruntowej w użytkowanie wieczyste oraz ustanowienia użytkowania wieczystego na rzecz spółdzielni mieszkaniowej albo ustanowienia użytkowania wieczystego w ramach gospodarowania nieruchomościami przez Krajowy Zasób Nieruchomości.
+4. zamiana, darowizna lub oddanie w wieczyste wpisanych do rejestru zabytków, a wnoszenie tych nierucho jako (aportów) do ek, wymaga uzyskania:
 
-2. Nieruchomość może być, z zastrzeżeniem art. 59 ust. 1, przedmiotem darowizny na cele publiczne, a także przedmiotem darowizny dokonywanej między Skarbem Państwa a jednostką samorządu terytorialnego, a także między tymi jednostkami. W umowie darowizny określa się cel, na który nieruchomość jest darowana.
-
-2a. Darowizny nieruchomości stanowiącej przedmiot własności Skarbu Państwa dokonuje starosta, wykonujący zadanie z zakresu administracji rządowej – za zgodą wojewody, a nieruchomości stanowiącej przedmiot własności jednostki samorządu terytorialnego jej organ wykonawczy – za zgodą rady albo sejmiku. Zgody nie wymaga dokonanie darowizny przez ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, o której mowa w art. 59 ust. 1.
-
-2b. W przypadku niewykorzystania nieruchomości na cel, na który została darowana, lub wykorzystywania nieruchomości na inny cel niż cel, na który została darowana, darowizna podlega odwołaniu, chyba że organ, który wyraził zgodę na dokonanie darowizny, wyrazi zgodę na zmianę warunków umowy darowizny, w tym na zmianę celu, na który nieruchomość została darowana, z uwzględnieniem zasad, o których mowa w ust. 2. Zgody nie wymaga zmiana warunków umowy darowizny, o której mowa w art. 59 ust. 2a.
-
-3. Prawo użytkowania wieczystego nieruchomości gruntowej może być przedmiotem wkładu niepieniężnego (aportu) wnoszonego do spółki.
-
-4. Sprzedaż, zamiana, darowizna lub oddanie w użytkowanie wieczyste nieruchomości wpisanych do rejestru zabytków, stanowiących własność Skarbu Państwa lub jednostki samorządu terytorialnego, a także wnoszenie tych nieruchomości jako wkładów niepieniężnych (aportów) do spółek, wymaga pozwolenia wojewódzkiego konserwatora zabytków.
-
-5. Sprzedaż, zamiana, darowizna lub dzierżawa nieruchomości stanowiących własność Skarbu Państwa lub jednostki samorządu terytorialnego, będących cmentarzami ujętymi w wojewódzkiej ewidencji zabytków, a także wnoszenie tych nieruchomości jako wkładów niepieniężnych (aportów) do spółek wymagają pozwolenia wojewódzkiego konserwatora zabytków.
+- **1)** zgody wojewódzkiego konserwatora zabytków w imieniu wojewody w odniesieniu do Skarbu
+- **2)** opinii wojewódzkiego konserwatora zabytków w imieniu wojewody w odniesieniu do gminy.
 
 **Art. 14.**
 
-1. Nieruchomości stanowiące przedmiot własności Skarbu Państwa mogą być sprzedawane jednostkom samorządu terytorialnego za cenę niższą niż ich wartość rynkowa lub oddawane tym jednostkom w użytkowanie wieczyste bez pobierania pierwszej opłaty. Nieruchomości stanowiące przedmiot własności jednostek samorządu terytorialnego mogą być sprzedawane Skarbowi Państwa lub innym jednostkom samorządu terytorialnego za cenę niższą niż wartość rynkowa nieruchomości albo oddawane im w użytkowanie wieczyste bez pobierania pierwszej opłaty.
+1. Skarbu sprzedawane gminie za ce lub oddawane jej w wanie wieczyste. gminy sprzedawane Skarbowi za albo oddawane mu w wieczyste.
 
-2. Nieruchomości stanowiące własność Skarbu Państwa mogą być nieodpłatnie obciążane na rzecz jednostek samorządu terytorialnego ograniczonymi prawami rzeczowymi. Nieruchomości stanowiące własność jednostek samorządu terytorialnego mogą być nieodpłatnie obciążane na rzecz Skarbu Państwa lub innych jednostek samorządu terytorialnego ograniczonymi prawami rzeczowymi.
+2. Skarbu na rzecz gminy ograniczonymi prawami rzeczowymi. Nierucho gminy nieod na rzecz Skarbu ograniczo nymi prawami rzeczowymi.
 
-3. Nieruchomości mogą być przedmiotem zamiany między Skarbem Państwa a jednostkami samorządu terytorialnego oraz między tymi jednostkami, bez obowiązku dokonywania dopłat w przypadku różnej wartości zamienianych nieruchomości.
+3. przedmiotem zamiany Skarbem i bez do konywania w przypadku zamie nianych
 
-4. Przepis ust. 3 stosuje się również w razie zamiany własności nieruchomości na prawo użytkowania wieczystego lub prawa użytkowania wieczystego na własność, a także zamiany praw użytkowania wieczystego dokonywanej między Skarbem Państwa a jednostkami samorządu terytorialnego oraz między tymi jednostkami.
+4. Przepis ust. 3 stosuje w razie zamia ny na prawo wieczystego lub prawa wieczystego na a zamiany praw wieczy stego Skarbem a
 
-5. Zawarcie umów w sprawach, o których mowa w ust. 1–4, wymaga uprzedniej zgody wojewody w odniesieniu do nieruchomości stanowiących własność Skarbu Państwa, z wyłączeniem czynności prawnych, dokonywanych przez ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa albo zgody odpowiednio rady lub sejmiku w odniesieniu do nieruchomości stanowiących własność jednostek samorządu terytorialnego.
+5. Zawarcie umów, o których mowa w ust. 1-4, wymaga zgody wojewody w odniesieniu do nierucho Skarbu i odpo wiednio zgody rady gminy w odniesieniu do nierucho gminy.
 
 **Art. 15.**
 
-1. Nieruchomości stanowiące własność Skarbu Państwa oraz własność jednostki samorządu terytorialnego mogą być przedmiotem zamiany na nieruchomości stanowiące własność osób fizycznych lub osób prawnych. W przypadku nierównej wartości zamienianych nieruchomości stosuje się dopłatę, której wysokość jest równa różnicy wartości zamienianych nieruchomości.
+1. Skarbu oraz gminy przed miotem zamiany na osób fizycznych lub osób prawnych. W przypad ku nierównej zamienianych stosuje której jest równa cy zamienianych Dziennik Ustaw Nr 115 - 3548 - Poz. 741
 
-2. Przepis ust. 1 stosuje się odpowiednio w przypadku zamiany własności nieruchomości na prawo użytkowania wieczystego lub prawa użytkowania wieczystego na własność nieruchomości, a także wzajemnej zamiany praw użytkowania wieczystego.
-
-3. Przepisy ust. 1 i 2 stosuje się odpowiednio do zamiany udziałów we współwłasności lub we współużytkowaniu wieczystym nieruchomości.
+2. Przepis ust. 1 stosuje w przypadku za miany na prawo nia wieczystego lub prawa wieczystego na
 
 **Art. 16.**
 
-1. Państwowa lub samorządowa osoba prawna może zrzec się własności nieruchomości odpowiednio na rzecz Skarbu Państwa lub jednostki samorządu terytorialnego.
+1. lub komunalna osoba praw na zrzec lub wieczy stego odpowiednio na rzecz Skarbu lub gminy. Do zrzeczenia tych praw stosu je odpowiednio przepis art. 179 Kodeksu cywilne go.
 
-1a. Państwowa lub samorządowa osoba prawna może zrzec się użytkowania wieczystego. W takim przypadku prawo użytkowania wieczystego wygasa.
-
-2. (uchylony)
+2. W stosunku do przed miotem lub wieczystego ko munalnej osoby prawnej zrzeczenie wymaga zgody gminy, na której terenie jest po Z zrzeczenia staje przedmiotem albo przedmiotem nia wieczystego tej gminy.
 
 **Art. 17.**
 
-1. Państwowe jednostki organizacyjne nieposiadające osobowości prawnej nabywają nieruchomości – na własność lub w użytkowanie wieczyste Skarbu Państwa, a samorządowe jednostki organizacyjne nieposiadające osobowości prawnej – na własność lub w użytkowanie wieczyste odpowiedniej jednostki samorządu terytorialnego.
+1. jednostki organizacyjne nie prawnej nierucho na Skarbu a komunalne jed nostki organizacyjne nie prawnej - na gminy.
 
-2. W przypadku nabycia przez państwową jednostkę organizacyjną prawa użytkowania wieczystego ustanowionego na nieruchomości gruntowej stanowiącej własność Skarbu Państwa, prawo to wygasa. Przepis ten stosuje się również w przypadku nabycia przez samorządową jednostkę organizacyjną prawa użytkowania wieczystego ustanowionego na nieruchomości gruntowej stanowiącej własność odpowiedniej jednostki samorządu terytorialnego.
+2. W przypadku nabycia przez jednost prawa wieczystego ustanowionego na gruntowej stano Skarbu prawo to wygasa. Przepis ten stosuje w przypadku nabycia przez prawa kowania wieczystego ustanowionego na nieruchomo gruntowej gminy.
 
-3. Jednostki organizacyjne, o których mowa w ust. 1 i 2, uzyskują do nabytych nieruchomości trwały zarząd z mocy prawa z dniem ich nabycia.
+3. Jednostki organizacyjne, o których mowa ust. 1 i 2, do nabytych trwa z dniem ich nabycia.
 
-4. Jednostki organizacyjne zawiadamiają o nabyciu nieruchomości odpowiednio właściwy organ albo ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa w terminie 14 dni od dnia nabycia, przekazując wypis z aktu notarialnego umowy nabycia nieruchomości.
+**Art. 18.** Nieruchomości oddawane jed nostkom organizacyjnym w najem i oraz na cele z ich dzia
 
-**Art. 18.** Nieruchomości mogą być oddawane jednostkom organizacyjnym w trwały zarząd, najem i dzierżawę oraz użyczane na cele związane z ich działalnością.
+**Art. 19.** Sprzedaż i oddawanie ich w wieczyste, najem i dzier na obszarach:
 
-**Art. 19.**
+**Art. 20.** Tworzy zasób Skarbu gminne zasoby
 
-1. Sprzedaż nieruchomości, oddawanie w użytkowanie wieczyste, użytkowanie, najem lub dzierżawę, jeżeli są położone na obszarach:
+**Art. 21.** Zasób Skarbu sta które w dniu w ni niejszej ustawy Skarbu i nie w wieczystym lub oraz nie prawem a które po dniu w ustawy:
 
-- **1)** terenów górniczych – wymaga, w przypadku braku planu miejscowego, opinii organu nadzoru górniczego w zakresie potencjalnego przewidywanego wpływu robót górniczych zakładu górniczego na nieruchomość będącą przedmiotem umowy, o ile nieruchomość jest położona w granicach terenu górniczego utworzonego w celu prowadzenia działalności dotyczącej złóż kopalin, o których mowa w art. 10 ust. 1 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2026 r. poz. 69);
-- **2)** parków narodowych – wymaga porozumienia z dyrektorem właściwego parku narodowego;
-- **3)** graniczących z nieruchomościami oddanymi w trwały zarząd na cele obronności i bezpieczeństwa państwa – wymaga porozumienia z właściwym w tych sprawach naczelnym organem administracji rządowej.
-
-2. W odniesieniu do nieruchomości położonych na obszarach morskiego pasa nadbrzeżnego wymagane jest porozumienie z właściwym terytorialnie organem administracji morskiej, w razie:
-
-- **1)** sprzedaży, oddawania w użytkowanie wieczyste, użytkowanie, najem lub dzierżawę – na obszarze pasa technicznego;
-- **2)** sprzedaży lub oddawania w użytkowanie wieczyste – na obszarze pasa ochronnego.
-
-3. W przypadku naruszenia przepisów ust. 1 i 2, strony umowy ponoszą odpowiedzialność na zasadach ogólnych.
-
-#### Rozdział 2 Zasoby nieruchomości
-
-**Art. 20.** Tworzy się:
-
-**Art. 21.** Do zasobu nieruchomości Skarbu Państwa należą nieruchomości, które stanowią przedmiot własności Skarbu Państwa i nie zostały oddane w użytkowanie wieczyste, oraz nieruchomości będące przedmiotem użytkowania wieczystego Skarbu Państwa.
-
-**Art. 21a.** W skład zasobu nieruchomości Skarbu Państwa, o którym mowa w art. 21, nie wchodzą:
-
-**Art. 22.**
-
-1. Nieruchomości stanowiące odpowiednio zasób nieruchomości Skarbu Państwa, województwa lub powiatu, przeznaczone w planach miejscowych pod budownictwo mieszkaniowe oraz na realizację związanych z tym budownictwem urządzeń infrastruktury technicznej, przekazuje się gminie, w drodze darowizny, na jej wniosek, jeżeli przemawia za tym ważny interes gminy i jeżeli cele te nie są lub nie mogą być realizowane odpowiednio przez Skarb Państwa, województwo lub powiat. W umowie darowizny określa się cel, na który nieruchomość jest darowana.
-
-2. W przypadku niewykorzystania nieruchomości na cel, na który została darowana, lub wykorzystywania nieruchomości na inny cel niż cel, na który została darowana, darowizna podlega odwołaniu, chyba że odpowiednio wojewoda, sejmik województwa lub rada powiatu wyrazi zgodę na zmianę warunków umowy darowizny, w tym na zmianę celu, na który nieruchomość została darowana.
+**Art. 22.** Nieruchomości zasób nieru Skarbu przeznaczone w planach miejscowych pod budownictwo mieszkaniowe oraz na z tym budownictwem infrastruktury technicznej, przekazuje gminie w dro dze darowizny, na jej wniosek, przemawia za tym interes gminy i cele te nie lub nie mo realizowane przez Skarb W umowie darowizny cel, na który jest darowana. W przypadku niewykorzystania nierucho na ten cel darowizna
 
 **Art. 23.**
 
-1. Zasobem nieruchomości Skarbu Państwa gospodarują, z zastrzeżeniem ust. 1e, art. 43 ust. 2 i 4, art. 51, art. 57 ust. 1, art. 58–60, starostowie, wykonujący zadania z zakresu administracji rządowej, a w szczególności:
+1. Zasobem Skarbu stwa z art. 60, kierownicy rejonowych, a w
 
-- **1)** ewidencjonują nieruchomości zgodnie z katastrem nieruchomości;
-- **2)** zapewniają wycenę tych nieruchomości;
-- **3)** (uchylony)
-- **4)** zabezpieczają nieruchomości przed uszkodzeniem lub zniszczeniem;
-- **5)** wykonują czynności związane z naliczaniem należności za nieruchomości udostępniane z zasobu oraz prowadzą windykację tych należności;
-- **6)** współpracują z innymi organami, które na mocy odrębnych przepisów gospodarują nieruchomościami Skarbu Państwa, a także z właściwymi jednostkami samorządu terytorialnego;
-- **7)** zbywają oraz nabywają, za zgodą wojewody, nieruchomości wchodzące w skład zasobu, z zastrzeżeniem art. 17;
-- **7a)** wydzierżawiają, wynajmują, użyczają oraz oddają w użytkowanie nieruchomości wchodzące w skład zasobu, przy czym umowa zawierana na czas oznaczony dłuższy niż 3 lata lub czas nieoznaczony wymaga zgody wojewody; zgoda wojewody jest wymagana również w przypadku, gdy po umowie zawartej na czas oznaczony niedłuższy niż 3 lata strony zawierają kolejne umowy, których przedmiotem jest ta sama nieruchomość;
-- **8)** podejmują czynności w postępowaniu sądowym, w szczególności w sprawach dotyczących własności lub innych praw rzeczowych na nieruchomości, o zapłatę należności za korzystanie z nieruchomości, o roszczenia ze stosunku najmu, dzierżawy lub użyczenia, o stwierdzenie nabycia spadku, o stwierdzenie nabycia własności nieruchomości przez zasiedzenie;
-- **9)** składają wnioski o założenie księgi wieczystej dla nieruchomości Skarbu Państwa oraz o wpis w księdze wieczystej.
+- **1)**
+- **2)** tych
+- **3)** plany wykorzystania zasobu,
+- **4)** przed uszkodzeniem lub zniszczeniem,
+- **5)** z naliczaniem za z zasobu oraz tych z innymi organami, które na mocy przepisów nieruchomo Skarbu a z gmi nami, w zaso bu,
+- **8)** w w sprawach o lub inne prawa rzeczowe na o roszczenia ze stosunku najmu lub o stwierdzenie nabycia spadku, o stwierdzenie nabycia przez zasiedzenie oraz o wpis w wieczystej lub o wieczystej.
 
-1a. Starosta sporządza roczne sprawozdanie z gospodarowania nieruchomościami zasobu i przekazuje je wojewodzie w terminie do dnia 30 kwietnia roku następującego po roku, którego sprawozdanie dotyczy.
-
-1b. Obowiązek ewidencjonowania, o którym mowa w ust. 1 pkt 1, dotyczy również nieruchomości Skarbu Państwa oddanych w użytkowanie wieczyste.
-
-1c. Ewidencjonowanie, o którym mowa w ust. 1 pkt 1, obejmuje w szczególności:
-
-- **1)** oznaczenie nieruchomości według księgi wieczystej oraz katastru nieruchomości;
-- **2)** powierzchnie nieruchomości;
-- **3)** wskazanie dokumentu potwierdzającego posiadanie przez Skarb Państwa praw do nieruchomości, w przypadku braku księgi wieczystej;
-- **4)** przeznaczenie nieruchomości w planie miejscowym, a w przypadku braku planu – profil funkcjonalny strefy planistycznej obejmującej nieruchomość w planie ogólnym gminy;
-- **5)** wskazanie daty ostatniej aktualizacji opłaty rocznej z tytułu użytkowania wieczystego nieruchomości Skarbu Państwa oddanych w użytkowanie wieczyste lub daty ostatniej aktualizacji opłaty rocznej z tytułu trwałego zarządu nieruchomości Skarbu Państwa;
-- **6)** informacje o zgłoszonych roszczeniach do nieruchomości;
-- **7)** informacje o toczących się postępowaniach administracyjnych i sądowych.
-
-1d. (uchylony) 1da. Starosta sporządza plan wykorzystania zasobu nieruchomości Skarbu Państwa oraz przedkłada go wojewodzie – do zatwierdzenia – najpóźniej na 2 miesiące przed zakończeniem okresu obowiązywania aktualnego planu. Wojewoda, rozstrzygając o zatwierdzeniu planu, bierze pod uwagę wyłącznie jego zgodność z przepisami prawa powszechnie obowiązującego. 1db. Plan wykorzystania zasobu nieruchomości Skarbu Państwa opracowuje się na okres 3 lat. Plan zawiera w szczególności:
-
-- **1)** zestawienie nieruchomości zasobu na podstawie danych zawartych w ewidencji nieruchomości prowadzonej na podstawie ust. 1 pkt 1 oraz zestawienie nieruchomości oddanych w użytkowanie wieczyste, w tym wskazanie:
-    - **a)** miejscowości położenia nieruchomości,
-    - **b)** powierzchni nieruchomości, z uwzględnieniem powierzchni użytkowej budynków lub samodzielnych lokali wykazanej w katastrze nieruchomości,
-    - **c)** sposobu zagospodarowania nieruchomości;
-
-- **2)** sprawozdanie z realizacji aktualnego planu wykorzystania zasobu nieruchomości Skarbu Państwa, obejmujące okres następujący po okresie objętym poprzednim sprawozdaniem;
-- **3)** prognozę dotyczącą:
-    - **a)** udostępniania nieruchomości zasobu oraz nabywania nieruchomości do zasobu,
-    - **b)** poziomu wydatków związanych z udostępnianiem nieruchomości zasobu oraz nabywaniem nieruchomości do zasobu,
-    - **c)** wpływów osiąganych z opłat z tytułu użytkowania wieczystego nieruchomości, opłat z tytułu przekształcenia prawa użytkowania wieczystego w prawo własności oraz opłat z tytułu trwałego zarządu nieruchomości,
-    - **d)** aktualizacji opłat z tytułu użytkowania wieczystego nieruchomości oraz opłat z tytułu trwałego zarządu nieruchomości;
-
-- **4)** program zagospodarowania nieruchomości zasobu.
-
-1e. W postępowaniu administracyjnym i sądowoadministracyjnym, w których jedną ze stron lub uczestników postępowania jest Skarb Państwa, a drugą stroną lub uczestnikiem postępowania jest powiat albo miasto na prawach powiatu, Skarb Państwa reprezentuje wojewoda.
-
-2. (uchylony)
-
-3. Od wpływów osiąganych ze sprzedaży, opłat z tytułu trwałego zarządu, użytkowania, czynszu dzierżawnego i najmu – nieruchomości Skarbu Państwa, o których mowa w ust. 1, a także od wpływów osiąganych z opłat z tytułu użytkowania wieczystego nieruchomości Skarbu Państwa oddanych w użytkowanie wieczyste, oraz od odsetek za nieterminowe wnoszenie tych należności potrąca się 25 % środków, które stanowią dochód powiatu, na obszarze którego położone są te nieruchomości.
-
-4. Starosta, wykonujący zadanie z zakresu administracji rządowej, przekazuje do wojewody informacje o umowach oraz innych czynnościach prawnych związanych z obrotem nieruchomościami Skarbu Państwa, o którym mowa w art. 13, zawierające:
-
-- **1)** określenie strony umowy lub innej czynności prawnej;
-- **2)** wartość nieruchomości i cenę nieruchomości;
-- **3)** w przypadku przetargu albo rokowań, wykaz uczestników przetargu albo rokowań;
-- **4)** w przypadku darowizny nieruchomości lub innych nieodpłatnych rozporządzeń podstawowe warunki umowy albo innej czynności prawnej, w szczególności cel.
-
-5. (uchylony)
-
-6. Wojewoda może wystąpić o przekazanie informacji o nieruchomościach, które mogą służyć wykonywaniu zadań określonych w przepisach niniejszej ustawy, do:
-
-- **1)** starostów wykonujących zadania z zakresu administracji rządowej,
-- **2)** jednostek organizacyjnych, na rzecz których został ustanowiony trwały zarząd w stosunku do nieruchomości Skarbu Państwa,
-- **3)** jednostek organizacyjnych, które władają nieruchomościami Skarbu Państwa bez tytułu prawnego – a podmioty te przekazują żądane informacje w zakresie oraz formie określonych w wystąpieniu wojewody; w wystąpieniu wojewoda określa termin przekazania informacji – niekrótszy niż 7 dni od dnia otrzymania wystąpienia.
-
-**Art. 23a.**
-
-1. Wniosek o wyrażenie zgody, o której mowa w art. 13 ust. 2a i 2b, art. 14 ust. 5 lub art. 23 ust. 1 pkt 7 i 7a, powinien zawierać:
-
-- **1)** oznaczenie nieruchomości;
-- **2)** wartość nieruchomości i cenę nieruchomości, a w przypadku wniosku o wyrażenie zgody, o której mowa w art. 23 ust. 1 pkt 7a – wysokość opłat z tytułu użytkowania, najmu albo dzierżawy nieruchomości;
-- **3)** sposób rozporządzenia, a w przypadku darowizny nieruchomości lub innych nieodpłatnych rozporządzeń osobę, na rzecz której następuje rozporządzenie;
-- **4)** uzasadnienie gospodarcze czynności prawnej, z uwzględnieniem przeznaczenia nieruchomości w planie miejscowym oraz planie wykorzystania zasobu nieruchomości Skarbu Państwa.
-
-2. Do wniosku dołącza się:
-
-- **1)** (uchylony)
-- **2)** dokumenty potwierdzające wartość nieruchomości, z wyjątkiem wniosku o wyrażenie zgody, o której mowa w art. 23 ust. 1 pkt 7a;
-- **3)** informację, że nie toczy się postępowanie, o którym mowa w art. 34 ust. 3;
-- **4)** inne dokumenty potwierdzające dane i informacje zawarte we wniosku.
-
-3. Jeżeli złożony wniosek nie spełnia wymagań określonych w ust. 1 i 2, wojewoda wzywa wnioskodawcę do usunięcia braków w wyznaczonym terminie, pod rygorem zwrotu wniosku. Bieg terminu, o którym mowa w ust. 4, ulega zawieszeniu do dnia usunięcia braków.
-
-4. Rozpatrzenie wniosku następuje w terminie miesiąca od dnia doręczenia wojewodzie wniosku spełniającego wymagania określone w ust. 1 i 2.
-
-5. W sprawach szczególnie skomplikowanych termin rozpatrzenia wniosku może ulec wydłużeniu, niedłużej niż o 30 dni, a w przypadku zlecenia sporządzenia dodatkowej wyceny nieruchomości lub wystąpienia w trybie, o którym mowa w art. 157 ust. 1 lub 4, o czas niezbędny na wykonanie tych czynności. O przyczynie wydłużenia terminu rozpatrzenia wniosku wojewoda zawiadamia wnioskodawcę.
-
-6. Zgoda może być wydana z zastrzeżeniem warunków.
-
-7. W przypadku zgody wydanej z zastrzeżeniem warunków wojewoda jest obowiązany do pisemnego uzasadnienia.
-
-8. W razie dokonania czynności prawnej z naruszeniem lub w celu obejścia obowiązku określonego w ust. 1, o nieważności czynności prawnej orzeka sąd także na żądanie wojewody.
+2. Realizacja o których mowa w ust. 1 pkt 1-6, powierzana nieruchomo o których mowa w przepisach 3 V.
 
 **Art. 24.**
 
-1. Do gminnego zasobu nieruchomości należą nieruchomości, które stanowią przedmiot własności gminy i nie zostały oddane w użytkowanie wieczyste, oraz nieruchomości będące przedmiotem użytkowania wieczystego gminy.
+1. Gminny zasób które w dniu w niniejszej ustawy gminy i nie w wieczystym lub oraz nie prawem w tym nieru nabyte na podstawie przepisów ustawy z dnia 10 maja 1990 r. - Przepisy usta o terytorialnym i o pracowni kach (Dz. U. Nr 32, poz. 191, Nr 43, poz. 253 i Nr 92, poz. 541, z 1991 r. Nr 34, poz. 151, z 1992 r. Nr 6, poz. 20, z 1993 r. Nr 40, poz. 180, z 1994 r. Nr 1, poz. 3 i Nr 65, poz. 285, z 1996 r. Nr 23, poz. 102 i Nr 106, poz. 496 oraz z 1997 r. Nr 9, poz. 43). Gminny zasób nieruchomo które po dniu w ustawy:
 
-2. Na cele rozwojowe gmin i zorganizowanej działalności inwestycyjnej, a w szczególności na realizację budownictwa mieszkaniowego oraz związanych z tym budownictwem urządzeń infrastruktury technicznej, a także na realizację innych celów publicznych mogą być wykorzystywane gminne zasoby nieruchomości.
+- **1)** nabyte, w drodze umowy, na lub w wieczyste gminy,
+- **2)** nabyte w drodze na rzecz gminy,
+- **3)** gminy w drodze zamiany lub darowizny albo co do których gmina w tym trybie prawo wieczystego,
+- **4)** gminy i w stosunku do których po tym dniu prawo wieczy stego, lub
+- **5)** po zlikwidowanych lub sprywatyzowa nych komunalnych osobach prawnych oraz zlikwi dowanych komunalnych jednostkach organizacyj nych,
+- **6)** gminy na skutek zrzeczenia
+- **7)** nabyte w drodze pierwokupu,
+- **8)** nabyte w drodze oraz i po
+- **9)** na gminy na podstawie innych prawnych.
 
-3. (uchylony)
+2. Na cele rozwojowe gmin i zorganizowanej dzia inwestycyjnej, a w na budownictwa mieszkaniowego oraz z tym budownictwem infrastruktury technicznej, a na innych celów publicznych wykorzystywane gminne zasoby
+
+3. tworzenia gminnych zasobów nieru studia i kierunków zago spodarowania przestrzennego gmin uchwalane na podstawie przepisów ustawy z dnia 7 lipca 1994 r. o za gospodarowaniu przestrzennym (Dz. U. Nr 89, poz. 415, z 1996 r. Nr 106, poz. 496 i z 1997 r. Nr 111, poz. 726).
 
 **Art. 25.**
 
-1. Gminnym zasobem nieruchomości gospodaruje wójt, burmistrz albo prezydent miasta.
+1. Gminnym zasobem go spodaruje gminy.
 
-2. Gospodarowanie zasobem polega w szczególności na wykonywaniu czynności, o których mowa w art. 23 ust. 1, a ponadto na sporządzaniu planów wykorzystania zasobu, przygotowywaniu opracowań geodezyjno-prawnych i projektowych, dokonywaniu podziałów oraz scaleń i podziałów nieruchomości, a także wyposażaniu ich, w miarę możliwości, w niezbędne urządzenia infrastruktury technicznej.
+2. Gospodarowanie zasobem polega w szczególno na wykonywaniu o których mowa wart. 23 ust. 1, a ponadto na przygotowywaniu geodezyjno-prawnych i projektowych, dokonywaniu oraz i a ich, w w nie infrastruktury technicznej.
 
-2a. Plany wykorzystania zasobu, o których mowa w ust. 2, opracowuje się na okres 3 lat. Plany zawierają w szczególności:
-
-- **1)** zestawienie nieruchomości zasobu na podstawie danych zawartych w ewidencji nieruchomości prowadzonej na podstawie art. 23 ust. 1 pkt 1 oraz zestawienie nieruchomości oddanych w użytkowanie wieczyste, w tym wskazanie:
-    - **a)** miejscowości położenia nieruchomości,
-    - **b)** powierzchni nieruchomości, z uwzględnieniem powierzchni użytkowej budynków lub samodzielnych lokali wykazanej w katastrze nieruchomości,
-    - **c)** sposobu zagospodarowania nieruchomości;
-
-- **2)** prognozę dotyczącą:
-    - **a)** udostępniania nieruchomości zasobu oraz nabywania nieruchomości do zasobu,
-    - **b)** poziomu wydatków związanych z udostępnianiem nieruchomości zasobu oraz nabywaniem nieruchomości do zasobu,
-    - **c)** wpływów osiąganych z opłat z tytułu użytkowania wieczystego nieruchomości, opłat z tytułu przekształcenia prawa użytkowania wieczystego w prawo własności oraz opłat z tytułu trwałego zarządu nieruchomości,
-    - **d)** aktualizacji opłat z tytułu użytkowania wieczystego nieruchomości oraz opłat z tytułu trwałego zarządu nieruchomości;
-
-- **3)** program zagospodarowania nieruchomości zasobu.
-
-3. (uchylony)
-
-**Art. 25a.** Do powiatowego zasobu nieruchomości należą nieruchomości, które stanowią przedmiot własności powiatu i nie zostały oddane w użytkowanie wieczyste, oraz nieruchomości będące przedmiotem użytkowania wieczystego powiatu.
-
-**Art. 25b.** Powiatowym zasobem nieruchomości gospodaruje zarząd powiatu. Przepisy art. 25 ust. 2 i 2a stosuje się odpowiednio.
-
-**Art. 25c.** Do wojewódzkiego zasobu nieruchomości należą nieruchomości, które stanowią przedmiot własności województwa i nie zostały oddane w użytkowanie wieczyste, oraz nieruchomości będące przedmiotem użytkowania wieczystego województwa.
-
-**Art. 25d.** Wojewódzkim zasobem nieruchomości gospodaruje zarząd województwa. Przepisy art. 25 ust. 2 i 2a stosuje się odpowiednio.
+3. Wykonywanie o których mowa w ust. 2, z wymienionych wart. 23 ust. 1 pkt 7 i 8, powierzane com o których mowa w przepisach roz 3 V.
 
 **Art. 26.**
 
-1. Granice między nieruchomościami nabywanymi na własność Skarbu Państwa lub na własność jednostki samorządu terytorialnego przyjmuje się według istniejącego stanu prawnego, a jeżeli stanu takiego nie można stwierdzić, według stanu uwidocznionego w katastrze nieruchomości.
+1. Granice naby wanymi na Skarbu lub na gminy przyjmuje stanu praw nego, a stanu takiego nie we stanu uwidocznionego w katastrze nieruchomo
 
-2. W razie sporu co do przebiegu linii granicznych, o których mowa w ust. 1, nie wstrzymuje się czynności związanych z nabyciem nieruchomości, co nie wyłącza roszczeń pomiędzy właścicielami nieruchomości, których granice zostały ustalone w sposób, o którym mowa w ust. 1.
+2. W razie sporu co do przebiegu linii granicznych, o których mowa w ust. 1, nie wstrzymuje z nabyciem co nie któ rych granice ustalone w sposób, o którym mo wa w ust. 1. 3 i oddawanie w wieczyste
 
-#### Rozdział 3 Sprzedaż i oddawanie w użytkowanie wieczyste
-
-**Art. 27.** Sprzedaż nieruchomości albo oddanie w użytkowanie wieczyste nieruchomości gruntowej wymaga zawarcia umowy w formie aktu notarialnego. Oddanie nieruchomości gruntowej w użytkowanie wieczyste i przeniesienie tego prawa w drodze umowy wymaga wpisu w księdze wieczystej.
+**Art. 27.** Sprzedaż albo oddanie w wieczyste gruntowej wymaga zawarcia umowy w formie aktu notarialnego. Oddanie gruntowej w wieczyste i przeniesienie tego prawa w drodze umowy wymaga wpisu w wieczystej.
 
 **Art. 28.**
 
-1. Sprzedaż nieruchomości albo oddanie w użytkowanie wieczyste nieruchomości gruntowej następuje w drodze przetargu lub w drodze bezprzetargowej, stosownie do przepisów rozdziału 4 niniejszego działu.
+1. albo oddanie w wieczyste gruntowej w drodze przetargu lub w drodze bezprzetar gowej, stosownie do przepisów 4 niniejszego
 
-2. Warunki zbycia nieruchomości w drodze przetargu obwieszcza się w ogłoszeniu o przetargu. Warunki zbycia nieruchomości w drodze bezprzetargowej ustala się w rokowaniach przeprowadzanych z nabywcą. W przypadku zbycia nieruchomości gruntowej wykorzystywanej do prowadzenia działalności gospodarczej, sprzedawanej jej użytkownikowi wieczystemu, rokowania przeprowadza się w formie pisemnej.
+2. Warunki zbycia w drodze przetar gu obwieszcza w o przetargu. Warunki zbycia w drodze bezprzetargowej usta la w rokowaniach przeprowadzanych z
 
-3. Protokół z przeprowadzonego przetargu oraz protokół z rokowań przy zbyciu w drodze bezprzetargowej stanowią podstawę do zawarcia umowy.
+3. z przeprowadzonego przetargu oraz z przy zbyciu w drodze bezprzetargo wej do zawarcia umowy.
 
 **Art. 29.**
 
-1. W umowie o oddanie nieruchomości gruntowej w użytkowanie wieczyste ustala się okres użytkowania wieczystego zależnie od celu, na który nieruchomość gruntowa zostaje oddana w użytkowanie wieczyste, oraz określa się sposób korzystania z nieruchomości, stosownie do art. 236 i art. 239 Kodeksu cywilnego.
+1. W umowie o oddanie gruntowej w wieczyste ustala okres wieczystego od celu, na który gruntowa zostaje oddana w nie wieczyste, oraz sposób korzystania z stosownie do art. 236 i art. 239 Ko deksu cywilnego.
 
-2. Jeżeli przedmiotem umowy o oddanie nieruchomości gruntowej w użytkowanie wieczyste jest nieruchomość wpisana do rejestru zabytków, przy określaniu sposobu korzystania z tej nieruchomości można nałożyć, w razie potrzeby, na nabywcę obowiązek odbudowy lub remontu położonych na niej zabytkowych obiektów budowlanych, w terminie określonym w umowie.
+2. przedmiotem umowy o oddanie nierucho gruntowej w wieczyste jest nieru wpisana do rejestru zabytków, przy niu sposobu korzystania z tej w razie potrzeby, na od budowy lub remontu na niej zabytkowych obiektów budowlanych, w terminie w umowie.
 
-**Art. 30.** Postanowienia umowy o oddanie nieruchomości gruntowej w użytkowanie wieczyste dotyczące sposobu korzystania z tej nieruchomości podlegają ujawnieniu w księdze wieczystej.
+**Art. 30.** Postanowienia umowy o oddanie nieru gruntowej w wieczyste doty sposobu korzystania z tej podle ujawnieniu w wieczystej.
 
-**Art. 31.** Oddanie w użytkowanie wieczyste nieruchomości gruntowej zabudowanej następuje z równoczesną sprzedażą położonych na tej nieruchomości budynków i innych urządzeń.
+**Art. 31.** Oddanie w wieczyste nieru gruntowej zabudowanej z równo na tej bu dynków i innych
 
 **Art. 32.**
 
-1. Nieruchomość gruntowa oddana w użytkowanie wieczyste może być sprzedana wyłącznie użytkownikowi wieczystemu, z zastrzeżeniem ust. 1a i ust. 3. Sprzedaż nieruchomości gruntowej na rzecz jej użytkownika wieczystego nie może nastąpić przed upływem 10 lat od dnia zawarcia umowy o oddanie nieruchomości gruntowej w użytkowanie wieczyste.
+1. gruntowa oddana w kowanie wieczyste sprzedana wieczystemu.
 
-1a. Nieruchomość gruntowa stanowiąca własność Skarbu Państwa może być sprzedana użytkownikowi wieczystemu za zgodą wojewody. Zgody wojewody nie wymaga sprzedaż na rzecz użytkownika wieczystego nieruchomości, o których mowa w art. 51 ust. 2 i art. 57 ust. 1.
+2. Z dniem zawarcia umowy nierucho wygasa, z mocy prawa, uprzednio ustanowione prawo wieczystego.
 
-1b. Wojewoda – w odniesieniu do nieruchomości stanowiących własność Skarbu Państwa albo odpowiednia rada albo sejmik – w odniesieniu do nieruchomości stanowiących własność jednostek samorządu terytorialnego ustalają, odpowiednio w drodze zarządzenia albo uchwały, zasady przeznaczania do sprzedaży nieruchomości gruntowych oddanych w użytkowanie wieczyste oraz szczegółowe wytyczne sprzedaży nieruchomości gruntowych na rzecz ich użytkowników wieczystych, kierując się w szczególności:
-
-- **1)** potrzebami społeczności lokalnej oraz interesem publicznym, w tym potrzebą zapewnienia rezerw terenów na realizację celów publicznych i pod budownictwo mieszkaniowe;
-- **2)** ładem przestrzennym;
-- **3)** racjonalnością ekonomiczną;
-- **4)** stanem realizacji postanowień umowy o oddanie nieruchomości gruntowej w użytkowanie wieczyste, w tym celu, na który nieruchomość została oddana w użytkowanie wieczyste;
-- **5)** okresem pozostałym do wygaśnięcia prawa użytkowania wieczystego na skutek upływu okresu ustalonego w umowie o oddanie nieruchomości gruntowej w użytkowanie wieczyste;
-- **6)** potencjałem inwestycyjnym nieruchomości gruntowej na potrzeby realizacji celów publicznych, budownictwa mieszkaniowego lub celów użyteczności publicznej.
-
-1c. Przepisu ust. 1b nie stosuje się w odniesieniu do nieruchomości, którymi gospodaruje Agencja Mienia Wojskowego.
-
-2. Z dniem zawarcia umowy sprzedaży nieruchomości wygasa, z mocy prawa, uprzednio ustanowione prawo użytkowania wieczystego. Przepisu art. 241 Kodeksu cywilnego nie stosuje się.
-
-3. W odniesieniu do nieruchomości gruntowej oddanej w użytkowanie wieczyste przeniesienie własności tej nieruchomości, w drodze umowy, między Skarbem Państwa a jednostką samorządu terytorialnego oraz między jednostkami samorządu terytorialnego może nastąpić za powiadomieniem jej użytkownika wieczystego.
+3. W odniesieniu do gruntowej od danej w wieczyste przeniesienie tej w drodze umowy, Skar bem a za powiadomie niem jej wieczystego.
 
 **Art. 33.**
 
-1. Użytkowanie wieczyste wygasa z upływem okresu ustalonego w umowie albo przez rozwiązanie umowy przed upływem tego okresu.
+1. wieczyste wygasa z wem okresu ustalonego w umowie albo przez zanie umowy przed tego okresu.
 
-2. W razie wygaśnięcia użytkowania wieczystego na skutek upływu okresu ustalonego w umowie albo na skutek rozwiązania umowy przed upływem tego okresu, użytkownikowi wieczystemu przysługuje wynagrodzenie za wzniesione przez niego lub nabyte na własność budynki i inne urządzenia. Wynagrodzenie powinno być równe wartości tych budynków i urządzeń określonej na dzień wygaśnięcia użytkowania wieczystego. Za budynki i inne urządzenia wzniesione wbrew postanowieniom umowy wynagrodzenie nie przysługuje.
+2. W razie wieczystego na skutek okresu ustalonego w umowie albo na skutek umowy przed tego okresu, wieczystemu wy nagrodzenie za wzniesione przez niego lub nabyte na budynki i inne Wynagrodzenie powinno równe tych budynków i na wieczystego. Za budynki i inne wzniesione wbrew postanowieniom umowy wynagrodzenie nie
 
-3. Właściwy organ może żądać rozwiązania umowy użytkowania wieczystego przed upływem ustalonego okresu stosownie do art. 240 Kodeksu cywilnego, jeżeli użytkownik wieczysty korzysta z tej nieruchomości w sposób sprzeczny z ustalonym w umowie, a w szczególności, jeżeli nie zabudował jej w ustalonym terminie.
+3. organ umowy wieczystego przed ustalonego okresu stosownie do art. 240 Kodeksu cywilnego, li wieczysty korzysta z tej w sposób sprzeczny z ustalonym w umowie, a w szcze nie jej w ustalonym termi nie. W razie umowy zwraca z wieczystego oraz rocznych wniesionych z tego za nie wykorzystany okres wieczystego. te waloryzacji. Maksymalna wyso kwoty zwrotowi nie przekra prawa wieczystego nej na umowy.
 
-3a. W razie rozwiązania umowy użytkowania wieczystego przed upływem okresu ustalonego w umowie zwraca się sumę opłat rocznych wniesionych z tego tytułu za niewykorzystany okres użytkowania wieczystego. Opłaty podlegają waloryzacji. Maksymalna wysokość kwoty podlegającej zwrotowi nie może przekraczać wartości prawa użytkowania wieczystego określonej na dzień rozwiązania umowy.
-
-4. Przepisy ust. 1–3a stosuje się odpowiednio do użytkowania wieczystego nabytego w inny sposób niż w drodze umowy zawartej w formie aktu notarialnego.
+4. Przepisy ust. 1-3 stosuje odpowiednio do wieczystego nabytego w inny sposób w drodze umowy zawartej w formie aktu notarialnego.
 
 **Art. 34.**
 
-1. W przypadku zbywania nieruchomości osobom fizycznym i prawnym pierwszeństwo w ich nabyciu, z zastrzeżeniem art. 216a, przysługuje osobie, która spełnia jeden z następujących warunków:
+1. W przypadku zbywania osobom fizycznym i prawnym w ich nabyciu osobie, która jeden z na warunków:
 
-- **1)** przysługuje jej roszczenie o nabycie nieruchomości z mocy niniejszej ustawy lub odrębnych przepisów, jeżeli złoży wniosek o nabycie przed upływem terminu określonego w wykazie, o którym mowa w art. 35 ust. 1; termin złożenia wniosku nie może być krótszy niż 6 tygodni, licząc od dnia wywieszenia wykazu;
-- **2)** jest poprzednim właścicielem zbywanej nieruchomości pozbawionym prawa własności tej nieruchomości przed dniem 5 grudnia 1990 r. albo jego spadkobiercą, jeżeli złoży wniosek o nabycie przed upływem terminu określonego w wykazie, o którym mowa w art. 35 ust. 1; termin złożenia wniosku nie może być krótszy niż 6 tygodni, licząc od dnia wywieszenia wykazu;
-- **3)** jest najemcą lokalu mieszkalnego, a najem został nawiązany na czas nieoznaczony.
+- **1)** jej roszczenie o nabycie z mocy niniejszej ustawy lub przepisów,
+- **2)** jest poprzednim zbywanej nierucho lub prawnym tego je go adres jest znany, a prze przed dniem 5 grudnia 1990 r.,
+- **3)** jest lokalu mieszkalnego, a najem przed dniem 12 listopada 1994 r. na podstawie decyzji administracyjnej o przydziale.
 
-2. W przypadku zbiegu uprawnień do pierwszeństwa w nabyciu, stosuje się kolejność wymienioną w ust. 1.
+2. W przypadku zbiegu do stwa w nabyciu, stosuje w ust. 1.
 
-3. Zbycie nieruchomości nie może nastąpić, jeżeli toczy się postępowanie administracyjne dotyczące prawidłowości nabycia nieruchomości przez Skarb Państwa lub jednostkę samorządu terytorialnego.
+3. Zbycie nie toczy administracyjne nabycia przez Skarb lub
 
-4. Osobom, o których mowa w ust. 1 pkt 3, doręcza się zawiadomienie w formie pisemnej o przeznaczeniu nieruchomości do zbycia oraz o przysługującym im pierwszeństwie w nabyciu tej nieruchomości, pod warunkiem złożenia wniosków o nabycie w terminie określonym w zawiadomieniu. Termin ten nie może być krótszy niż 21 dni od dnia otrzymania zawiadomienia. Przy doręczaniu zawiadomień stosuje się przepisy Kodeksu postępowania administracyjnego.
+4. Osoby, o których mowa w ust. 1, zawiadamia na o przeznaczeniu do zbycia oraz o im w nabyciu tej pod warunkiem wniosków o nabycie w terminie w zawiadomieniu. Termin ten nie krótszy 21 dni od dnia otrzymania zawiadomienia. Przy zawiado stosuje przepisy Kodeksu ad ministracyjnego.
 
-5. Osoby, o których mowa w ust. 1 i ust. 6, korzystają z pierwszeństwa w nabyciu nieruchomości, jeżeli złożą oświadczenie, że wyrażają zgodę na cenę ustaloną w sposób określony w ustawie.
+5. Osoby, o których mowa w ust. 1, z w nabyciu na w sposób w ustawie.
 
-6. Wojewoda w odniesieniu do nieruchomości stanowiących własność Skarbu Państwa, a odpowiednia rada lub sejmik w odniesieniu do nieruchomości stanowiących własność jednostki samorządu terytorialnego, mogą przyznać, odpowiednio w drodze zarządzenia lub uchwały, pierwszeństwo w nabywaniu lokali ich najemcom lub dzierżawcom, z wyłączeniem nieruchomości, o których mowa w art. 57 ust. 1 i art. 60 ust. 1.
-
-6a. Przepis ust. 6 stosuje się do budynków mieszkalnych lub użytkowych, stanowiących w całości przedmiot najmu lub dzierżawy.
-
-6b. W przypadku realizacji pierwszeństwa, o którym mowa w ust. 1 pkt 3, ust. 6 lub ust. 6a, przedmiotem zbycia powinna być nieruchomość wraz z gruntem niezbędnym do racjonalnego korzystania z budynku.
-
-7. Zbycie nieruchomości zabudowanej domem wielolokalowym na rzecz innych osób niż wymienione w ust. 1 pkt 1 i 2 nie może nastąpić z pominięciem pierwszeństwa w nabyciu lokali mieszkalnych przysługującego najemcom tych lokali.
-
-8. Przepisów ust. 1 i 7 nie stosuje się, jeżeli zbycie następuje między Skarbem Państwa a jednostką samorządu terytorialnego albo między tymi jednostkami dla realizacji celów publicznych.
+6. Wojewoda w odniesieniu do sta Skarbu a rada gminy w odniesieniu do gminy, odpowiednio w drodze lub w nabywaniu lokali ich najemcom lub z art. 60.
 
 **Art. 35.**
 
-1. Właściwy organ sporządza i podaje do publicznej wiadomości wykaz nieruchomości przeznaczonych do zbycia lub oddania w użytkowanie, najem, dzierżawę lub użyczenie. Wykaz ten wywiesza się na okres 21 dni w siedzibie właściwego urzędu, a także zamieszcza się na stronach internetowych właściwego urzędu. Starosta, wykonujący zadanie z zakresu administracji rządowej, przekazuje wykaz wojewodzie, w celu jego zamieszczenia na stronie podmiotowej wojewody w Biuletynie Informacji Publicznej przez okres 21 dni. Informację o zamieszczeniu wykazu właściwy organ podaje do publicznej wiadomości przez ogłoszenie w prasie lokalnej o zasięgu obejmującym co najmniej powiat, na terenie którego położona jest nieruchomość.
+1. organ i podaje do publicznej wykaz przezna czonych do do oddania w wie czyste, najem lub Wykaz ten wywiesza na okres 21 dni w siedzibie rejo nowego lub gminy, a ponadto o wy wieszeniu tego wykazu podaje do publicznej wiado w sposób zwyczajowo w danej miejsco
 
-1a. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa w odniesieniu do nieruchomości, o których mowa w art. 57 ust. 1, oraz do nieruchomości ujętych w ewidencji, o której mowa w art. 60 ust. 2 pkt 1, sporządza i podaje do publicznej wiadomości wykaz nieruchomości przeznaczonych do sprzedaży, do oddania w użytkowanie, najem lub dzierżawę. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa zamieszcza wykaz na stronie podmiotowej Biuletynu Informacji Publicznej przez okres 21 dni, a ponadto informację o zamieszczeniu tego wykazu podaje do publicznej wiadomości przez ogłoszenie w prasie lokalnej o zasięgu obejmującym co najmniej powiat na terenie którego położona jest nieruchomość.
+2. W wykazie, o którym mowa w ust.1, odpowiednio:
 
-1b. Obowiązek, o którym mowa w ust. 1 i 1a, nie dotyczy oddania nieruchomości w najem, dzierżawę lub użyczenie na czas oznaczony do 3 miesięcy. Wykaz sporządza się i podaje do publicznej wiadomości, jeżeli po umowie zawartej na czas oznaczony do 3 miesięcy strony zawierają kolejne umowy, których przedmiotem jest ta sama nieruchomość.
+- **1)** oznaczenie wieczystej oraz katastru
+- **2)**
+- **3)** opis
+- **4)** przeznaczenie w planie miejscowym i sposób jej zagospodarowania,
+- **5)** termin zagospodarowania
+- **6)**
+- **7)** stawek procentowych z kowania wieczystego,
+- **8)** z najmu lub
+- **9)** terminy wnoszenia
+- **10)** zasady aktualizacji
+- **11)** informacje o przeznaczeniu do do odda nia w wieczyste, najem lub
 
-2. W wykazie, o którym mowa w ust. 1 i 1a, określa się odpowiednio:
+3. Ustanawianie lokali w do mach wielolokalowych, w nieru na zasadach w usta wie z dnia 24 czerwca 1994 r. o lokali (Dz.U. Nr 85, poz. 388 i z1997 r. Nr 106, poz. 682).
 
-- **1)** oznaczenie nieruchomości według księgi wieczystej oraz katastru nieruchomości;
-- **2)** powierzchnię nieruchomości;
-- **3)** opis nieruchomości;
-- **4)** przeznaczenie nieruchomości i sposób jej zagospodarowania;
-- **5)** termin zagospodarowania nieruchomości;
-- **6)** cenę nieruchomości;
-- **7)** wysokość stawek procentowych opłat z tytułu użytkowania wieczystego;
-- **8)** wysokość opłat z tytułu użytkowania, najmu lub dzierżawy;
-- **9)** terminy wnoszenia opłat;
-- **10)** zasady aktualizacji opłat;
-- **11)** informacje o przeznaczeniu do zbycia lub oddania w użytkowanie, najem, dzierżawę lub użyczenie;
-- **12)** termin do złożenia wniosku przez osoby, którym przysługuje pierwszeństwo w nabyciu nieruchomości na podstawie art. 34 ust. 1 pkt 1 i pkt 2.
-
-3. Ustanawianie odrębnej własności lokali w domach wielolokalowych, wchodzących w skład nieruchomości, następuje na zasadach określonych w ustawie z dnia 24 czerwca 1994 r. o własności lokali (Dz. U. z 2026 r. poz. 232).
-
-4. (uchylony)
-
-**Art. 36.** W przypadkach naruszenia przez właściwy organ albo ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa w odniesieniu do nieruchomości, o których mowa w art. 57 ust. 1, oraz do nieruchomości ujętych w ewidencji, o której mowa w art. 60 ust. 2 pkt 1, przepisów art. 34 ust. 1–5 i 7 Skarb Państwa lub jednostka samorządu terytorialnego ponoszą odpowiedzialność na zasadach ogólnych.
-
-#### Rozdział 4 Przetargi na zbycie nieruchomości
+**Art. 36.** W przypadku naruszenia przez or gan przepisów art. 34 ust. 1-5 Skarb i gmina na zasadach ogólnych. 4 Przetargi na zbycie
 
 **Art. 37.**
 
-1. Z zastrzeżeniem ust. 2 i 3, nieruchomości są sprzedawane lub oddawane w użytkowanie wieczyste w drodze przetargu.
+1. Z ust. 2 i 3, sprzedawane lub oddawane w wieczy ste w drodze przetargu.
 
-2. Nieruchomość jest zbywana w drodze bezprzetargowej, jeżeli:
+2. jest zbywana w drodze bezprze targowej, jest zbywana na rzecz osoby, której w jej nabyciu, stosownie do art. 34,
 
-- **1)** jest zbywana na rzecz osoby, której przysługuje pierwszeństwo w jej nabyciu, stosownie do art. 34;
-- **2)** zbycie następuje między Skarbem Państwa a jednostką samorządu terytorialnego oraz między tymi jednostkami;
-- **3)** jest zbywana na rzecz osób, o których mowa w art. 68 ust. 1 pkt 2;
-- **4)** zbycie następuje w drodze zamiany lub darowizny;
-- **5)** sprzedaż nieruchomości następuje na rzecz jej użytkownika wieczystego;
-- **6)** przedmiotem zbycia jest nieruchomość lub jej części, jeśli mogą poprawić warunki zagospodarowania nieruchomości przyległej, stanowiącej własność lub oddanej w użytkowanie wieczyste osobie, która zamierza tę nieruchomość lub jej części nabyć, jeżeli nie mogą być zagospodarowane jako odrębne nieruchomości;
-- **7)** ma stanowić wkład niepieniężny (aport) do spółki albo wyposażenie nowo tworzonej państwowej lub samorządowej osoby prawnej, lub majątek tworzonej fundacji;
-- **8)** jest zbywana na rzecz zarządzającego specjalną strefą ekonomiczną, na której terenie jest położona;
-- **9)** przedmiotem zbycia jest udział w nieruchomości, a zbycie następuje na rzecz innych współwłaścicieli nieruchomości;
-- **10)** jest zbywana na rzecz kościołów i związków wyznaniowych, mających uregulowane stosunki z państwem, na cele działalności sakralnej;
-- **11)** jest sprzedawana partnerowi prywatnemu lub spółce, o której mowa w art. 14 ust. 1 albo 1a ustawy z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym, jeżeli sprzedaż stanowi wniesienie wkładu własnego podmiotu publicznego, a wybór partnera prywatnego nastąpił w trybie przewidzianym w art. 4 ust. 1 lub 2 powołanej ustawy;
-- **12)** jest zbywana na rzecz podmiotów, o których mowa w art. 61 ust. 1;
-- **13)** jest zbywana na rzecz spółki celowej utworzonej na podstawie przepisów ustawy z dnia 7 września 2007 r. o przygotowaniu finałowego turnieju Mistrzostw Europy w Piłce Nożnej UEFA EURO 2012 (Dz. U. z 2020 r. poz. 2008 oraz z 2026 r. poz. 160) lub właściwych podmiotów wymienionych w art. 17 ust. 2 tej ustawy, realizujących przedsięwzięcia Euro 2012, w celu ich wykonania, w sytuacji gdy jej nabycie przez Skarb Państwa lub jednostkę samorządu terytorialnego nastąpiło w trybie przepisów ustawy z dnia 7 września 2007 r. o przygotowaniu finałowego turnieju Mistrzostw Europy w Piłce Nożnej UEFA EURO 2012;
-- **14)** jest zbywana na rzecz inwestora realizującego inwestycję w zakresie budowy obiektu energetyki jądrowej zgodnie z przepisami ustawy z dnia 29 czerwca 2011 r. o przygotowaniu i realizacji inwestycji w zakresie obiektów energetyki jądrowej oraz inwestycji towarzyszących (Dz. U. z 2025 r. poz. 1156);
-- **15)** jest zbywana na rzecz inwestora realizującego inwestycję w zakresie terminalu lub inwestycję towarzyszącą zgodnie z przepisami ustawy z dnia 24 kwietnia 2009 r. o inwestycjach w zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu (Dz. U. z 2025 r. poz. 1222);
-- **16)** jest zbywana na rzecz inwestora realizującego strategiczną inwestycję w zakresie sieci przesyłowej zgodnie z przepisami ustawy z dnia 24 lipca 2015 r. o przygotowaniu i realizacji strategicznych inwestycji w zakresie sieci przesyłowych (Dz. U. z 2024 r. poz. 1199);
-- **17)** jest zbywana na rzecz inwestora realizującego inwestycję w zakresie infrastruktury dostępowej realizowanej na podstawie ustawy z dnia 24 lutego 2017 r. o inwestycjach w zakresie budowy drogi wodnej łączącej Zalew Wiślany z Zatoką Gdańską (Dz. U. z 2024 r. poz. 285);
-- **18)** jest zbywana na rzecz Krajowego Zasobu Nieruchomości;
-- **19)** jest zbywana na rzecz Spółki Celowej, o której mowa w przepisach ustawy z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym (Dz. U. z 2024 r. poz. 1747 oraz z 2025 r. poz. 1531);
-- **20)** jest sprzedawana finansującemu wybranemu w trybie ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320, z późn. zm. ), z równoczesnym zawarciem umowy leasingu, na mocy której finansujący nieodwołalnie zobowiązuje się przenieść na zbywcę albo podmiot wskazany przez zbywcę własność tej nieruchomości po upływie oznaczonego w umowie czasu trwania leasingu, zapłacie ostatniej raty albo w razie rozwiązania umowy leasingu z innych przyczyn;
-- **21)** jest zbywana na rzecz inwestora realizującego inwestycję w zakresie budowy Muzeum Westerplatte i Wojny 1939 – Oddziału Muzeum II Wojny Światowej w Gdańsku realizowanej na podstawie ustawy z dnia 19 lipca 2019 r. o inwestycjach w zakresie budowy Muzeum Westerplatte i Wojny 1939 – Oddziału Muzeum II Wojny Światowej w Gdańsku (Dz. U. z 2024 r. poz. 100);
-- **22)** jest zbywana na rzecz inwestora realizującego inwestycję w zakresie budowy portu zewnętrznego zgodnie z przepisami ustawy z dnia 9 sierpnia 2019 r. o inwestycjach w zakresie budowy portów zewnętrznych (Dz. U. z 2024 r. poz. 1852 oraz z 2025 r. poz. 409);
-- **23)** jest zbywana na rzecz inwestora realizującego inwestycje w zakresie budowy strzelnic realizowanych przez uczelnie na podstawie ustawy z dnia 7 lipca 2023 r. o inwestycjach w zakresie budowy strzelnic realizowanych przez uczelnie (Dz. U. poz. 1906);
-- **24)** jest zbywana na rzecz inwestora strategicznej inwestycji realizującego strategiczną inwestycję w zakresie potrzeb obronności państwa na podstawie ustawy z dnia 25 lipca 2025 r. o szczególnych zasadach przygotowania i realizacji strategicznych inwestycji w zakresie potrzeb obronności państwa lub kluczowych inwestycji w zakresie potrzeb obronności państwa lub bezpieczeństwa publicznego oraz ustanawiania stref ochronnych terenów zamkniętych (Dz. U. poz. 1080).
+- **2)** zbycie Skarbem a gmi
+- **3)** jest zbywana na zasadach, o których mowa wart. 68 ust. 1 pkt 2,
+- **4)** zbycie w drodze zamiany lub darowizny,
+- **5)** na rzecz jej kownika wieczystego,
+- **6)** przedmiotem zbycia nie do poprawienia warunków zagospodaro wania lub oddanej w wieczyste oso bie, która zamierza te nie zbyte jako
+- **7)** ma (aport) do albo nowo tworzonej lub komunalnej osoby prawnej, lub two rzonej fundacji.
 
-3. Wojewoda albo minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa – w odniesieniu do nieruchomości stanowiących własność Skarbu Państwa, albo odpowiednia rada lub sejmik województwa, w odniesieniu do nieruchomości stanowiących własność jednostek samorządu terytorialnego, mogą podjąć odpowiednio zarządzenie albo uchwałę o odstąpieniu od zbycia w drodze przetargu nieruchomości:
-
-- **1)** przeznaczonych pod budownictwo mieszkaniowe lub na realizację urządzeń infrastruktury technicznej albo innych celów publicznych, jeżeli cele te będą realizowane przez podmiot, dla którego są to cele statutowe i którego dochody przeznacza się w całości na działalność statutową;
-- **2)** zabudowanych na podstawie zezwolenia na budowę lub których zabudowa została zalegalizowana zgodnie z procedurami przewidzianymi w odrębnych przepisach, jeżeli o nabycie nieruchomości ubiega się osoba, która dzierżawi lub użytkuje nieruchomość na podstawie umowy zawartej na co najmniej 10 lat.
-
-3a. Przepis ust. 3 stosuje się odpowiednio w odniesieniu do nieruchomości:
-
-- **1)** (uchylony)
-- **2)** w stosunku do których wygasło użytkowanie wieczyste na skutek upływu okresu ustalonego w umowie lub decyzji administracyjnej, jeżeli o nabycie nieruchomości ubiega się dotychczasowy użytkownik wieczysty nieruchomości albo jego spadkobierca.
-
-3b. Przepisu ust. 3 nie stosuje się, jeżeli o nabycie nieruchomości ubiega się więcej niż jeden podmiot spełniający warunki określone w tym przepisie.
-
-4. Zawarcie umów użytkowania, najmu lub dzierżawy na czas oznaczony dłuższy niż 3 lata lub na czas nieoznaczony następuje w drodze przetargu. Wojewoda albo odpowiednia rada lub sejmik mogą wyrazić zgodę na odstąpienie od obowiązku przetargowego trybu zawarcia tych umów.
-
-4a. Umowy użytkowania, najmu lub dzierżawy zawiera się w drodze bezprzetargowej:
-
-- **1)** na czas oznaczony dłuższy niż 3 lata lub na czas nieoznaczony, jeżeli: U. z 2021 r. poz. 1073);
-    - **a)** użytkownikiem, najemcą lub dzierżawcą nieruchomości jest organizacja pożytku publicznego,
-    - **b)** użytkownikiem nieruchomości jest stowarzyszenie ogrodowe w rozumieniu ustawy z dnia 13 grudnia 2013 r. o rodzinnych ogrodach działkowych (Dz.
-
-- **2)** na czas oznaczony dłuższy niż 3 lata, ale nieprzekraczający czasu trwania umowy o partnerstwie publiczno-prywatnym, jeżeli użytkownikiem, najemcą lub dzierżawcą nieruchomości jest partner prywatny lub spółka, o której mowa w art. 14 ust. 1 albo 1a ustawy z dnia 19 grudnia 2008 r. o partnerstwie publicznoprywatnym, jeżeli oddanie w użytkowanie, najem albo dzierżawę stanowi wniesienie wkładu własnego podmiotu publicznego, a wybór partnera prywatnego nastąpił w trybie przewidzianym w art. 4 ust. 1 lub 2 tej ustawy.
-
-5. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa może odstąpić od obowiązku przetargowego trybu zawarcia umów, o których mowa w ust. 3 i 4, w odniesieniu do nieruchomości, o których mowa w art. 57 ust. 1, oraz do nieruchomości ujętych w ewidencji, o której mowa w art. 60 ust. 2 pkt 1, bez konieczności odpowiednio zwolnienia z obowiązku lub wyrażenia zgody przez wojewodę.
+3. Wojewoda - w odniesieniu do Skarbu a rada gminy - w odniesieniu do gminy, odpowiednio w drodze lub z zbycia w drodze przetargu przeznaczone pod budownic two mieszkaniowe, na infrastruktu ry technicznej lub innych celów publicznych, ce le te realizowane przez podmioty, dla których celami statutowymi, i których dochody przeznacza w na Przepis ten stosuje gdy na rzecz osoby, która na podsta wie umowy zawartej co najmniej na 10 lat, nieru ta zabudowana na podstawie zezwo lenia na
 
 **Art. 38.**
 
-1. Przetarg ogłasza, organizuje i przeprowadza właściwy organ albo minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa w odniesieniu do nieruchomości, o których mowa w art. 57 ust. 1, oraz do nieruchomości ujętych w ewidencji, o której mowa w art. 60 ust. 2 pkt 1.
+1. Przetarg organizuje i przeprowa dza organ.
 
-2. Ogłoszenie o przetargu podaje się do publicznej wiadomości niewcześniej niż po upływie terminów, o których mowa w art. 34 ust. 1 pkt 1 i 2 oraz ust. 4. W ogłoszeniu o przetargu podaje się informacje zamieszczone w wykazie oraz czas, miejsce i warunki przetargu, a w razie ogłoszenia kolejnego przetargu lub rokowań, również terminy przeprowadzenia poprzednich przetargów. Ogłoszenie o przetargu wywiesza się w siedzibie właściwego urzędu, a ponadto informację o ogłoszeniu przetargu podaje się do publicznej wiadomości w sposób zwyczajowo przyjęty w danej miejscowości, a także na stronach internetowych właściwego urzędu.
+2. o przetargu podaje do publicznej nie po okresu wy wieszenia wykazu oraz terminu wyzna czonego w zawiadomieniu o przeznaczeniu nierucho do zbycia, o którym mowa wart. 34 ust. 4. W o przetargu podaje informacje za mieszczone w wykazie oraz czas, miejsce i warunki przetargu. o przetargu wywiesza w sie dzibie rejonowego albo gminy, a ponad to o przetargu podaje do pu blicznej w sposób zwyczajowo w danej
 
-3. Przed ogłoszeniem o przetargu rozpatruje się wnioski osób uprawnionych do nabycia nieruchomości w drodze bezprzetargowej. W przypadku pozytywnego rozpatrzenia wniosku, informacji o nieruchomości, której ten wniosek dotyczy, nie zamieszcza się w ogłoszeniu o przetargu.
-
-4. Właściwy organ albo minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa w odniesieniu do nieruchomości, o których mowa w art. 57 ust. 1, oraz do nieruchomości ujętych w ewidencji, o której mowa w art. 60 ust. 2 pkt 1, może odwołać ogłoszony przetarg jedynie z ważnych powodów, niezwłocznie podając informację o odwołaniu przetargu do publicznej wiadomości, w sposób określony w ust. 2. W informacji podaje się także przyczynę odwołania przetargu.
+3. Przed o przetargu rozpatruje wnioski osób uprawnionych do nabycia nieruchomo w drodze bezprzetargowej. W przypadku pozytyw nego rozpatrzenia wniosku, informacji o nieruchomo której ten wniosek dotyczy, nie zamieszcza w o przetargu.
 
 **Art. 39.**
 
-1. Jeżeli pierwszy przetarg zakończył się wynikiem negatywnym, w okresie niekrótszym niż 30 dni, ale niedłuższym niż 6 miesięcy, licząc od dnia jego zamknięcia, przeprowadza się drugi przetarg, w którym właściwy organ albo minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, w odniesieniu do nieruchomości, o których mowa w art. 57 ust. 1, oraz do nieruchomości ujętych w ewidencji, o której mowa w art. 60 ust. 2 pkt 1, może obniżyć cenę wywoławczą nieruchomości ustaloną przy ogłoszeniu pierwszego przetargu, stosownie do art. 67 ust. 2 pkt 2.
+1. pierwszy przetarg wynikiem negatywnym, przeprowadza przetarg drugi, w którym organ przy pierwszego przetargu, stosownie do art. 67 ust. 2 pkt 2.
 
-2. Jeżeli drugi przetarg zakończył się wynikiem negatywnym, właściwy organ albo minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa w odniesieniu do nieruchomości, o których mowa w art. 57 ust. 1, oraz do nieruchomości ujętych w ewidencji, o której mowa w art. 60 ust. 2 pkt 1, w okresie niekrótszym niż 30 dni, ale niedłuższym niż 6 miesięcy, licząc od dnia jego zamknięcia, może zbyć nieruchomość w drodze rokowań albo organizować kolejne przetargi. Przy ustalaniu warunków kolejnych przetargów stosuje się zasady obowiązujące przy organizowaniu drugiego przetargu.
-
-3. W przypadku zachowania terminów, o których mowa w ust. 1 i 2, właściwy organ nie ma obowiązku ponownego sporządzania wykazu nieruchomości przeznaczonych do sprzedaży lub oddania w użytkowanie wieczyste.
+2. drugi przetarg wynikiem ne gatywnym, organ nie ma organi zowania dalszych przetargów, a zbyta w drodze za w tych rokowaniach.
 
 **Art. 40.**
 
-1. Przetarg przeprowadza się w formie:
+1. Przetarg przeprowadza w formie:
 
-- **1)** przetargu ustnego nieograniczonego;
-- **2)** przetargu ustnego ograniczonego;
-- **3)** przetargu pisemnego nieograniczonego;
+- **1)** przetargu ustnego nieograniczonego,
+- **2)** przetargu ustnego ograniczonego,
+- **3)** przetargu pisemnego nieograniczonego,
 - **4)** przetargu pisemnego ograniczonego.
 
-2. Przetarg ustny ma na celu uzyskanie najwyższej ceny. Przetarg pisemny ma na celu wybór najkorzystniejszej oferty.
+2. Przetarg ustny ma na celu uzyskanie ceny. Przetarg pisemny ma na celu wybór najkorzyst niejszej oferty.
 
-2a. Przetarg ograniczony organizuje się, jeżeli warunki przetargowe mogą być spełnione tylko przez ograniczoną liczbę osób.
-
-3. O zastosowanej formie przetargu decyduje jego organizator.
-
-4. Przetarg uważa się za zakończony wynikiem negatywnym, jeżeli nikt nie przystąpił do przetargu ustnego lub żaden z uczestników nie zaoferował postąpienia ponad cenę wywoławczą albo jeżeli w przetargu pisemnym nie wpłynęła ani jedna oferta lub żaden z uczestników nie zaoferował ceny wyższej od wywoławczej, a także jeżeli komisja przetargowa stwierdziła, że żadna oferta nie spełnia warunków przetargu.
-
-5. Uczestnik przetargu może, w terminie 7 dni od dnia ogłoszenia wyniku przetargu ustnego lub doręczenia zawiadomienia o wyniku przetargu pisemnego, zaskarżyć czynności związane z przeprowadzeniem przetargu do wojewody, jeżeli przetarg dotyczy nieruchomości Skarbu Państwa, albo do organu wykonawczego jednostki samorządu terytorialnego, jeżeli przetarg dotyczy nieruchomości stanowiących własność tej jednostki. Jeżeli przetarg dotyczy nieruchomości, o których mowa w art. 57 ust. 1, oraz nieruchomości ujętych w ewidencji, o której mowa w art. 60 ust. 2 pkt 1, uczestnik przetargu może zaskarżyć czynności związane z przeprowadzeniem przetargu do ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa.
+3. O zastosowanej formie przetargu decyduje jego orga n izator.
 
 **Art. 41.**
 
-1. Organizator przetargu jest obowiązany zawiadomić osobę ustaloną jako nabywca nieruchomości o miejscu i terminie zawarcia umowy sprzedaży lub oddania w użytkowanie wieczyste nieruchomości, najpóźniej w ciągu 21 dni od dnia rozstrzygnięcia przetargu. Wyznaczony termin nie może być krótszy niż 7 dni od dnia doręczenia zawiadomienia.
+1. Organizator przetargu jest jako nabywca nierucho o miejscu i terminie zawarcia umowy sprzeda lub oddania w wieczyste nieruchomo w 21 dni od dnia przetargu. Wyznaczony termin nie krótszy 7 dni od dnia zawiadomienia.
 
-2. Jeżeli osoba ustalona jako nabywca nieruchomości nie przystąpi bez usprawiedliwienia do zawarcia umowy w miejscu i w terminie podanych w zawiadomieniu, o którym mowa w ust. 1, organizator przetargu może odstąpić od zawarcia umowy, a wpłacone wadium nie podlega zwrotowi. W zawiadomieniu zamieszcza się informację o tym uprawnieniu.
+2. osoba ustalona jako nabywca nierucho nie stawi bez usprawiedliwienia w miejscu i w terminie podanym w zawiadomieniu, o którym mo wa w ust. 1, organizator przetargu od zawarcia umowy, a wadium nie podlega zwrotowi. W zawiadomieniu zamieszcza o tym uprawnieniu.
 
-**Art. 42.**
-
-1. Rada Ministrów określi, w drodze rozporządzenia, sposób i tryb przeprowadzania przetargów na zbycie nieruchomości stanowiących własność Skarbu Państwa lub własność jednostek samorządu terytorialnego oraz przeprowadzania rokowań po drugim przetargu, uwzględniając konieczność zapewnienia jawności i jednolitości postępowania, równego dostępu do udziału w przetargu, uzyskania najkorzystniejszego wyniku przetargu.
-
-2. Wydając rozporządzenie, o którym mowa w ust. 1, Rada Ministrów ustali:
-
-- **1)** wysokość wadium oraz terminy i formy jego wnoszenia i zwrotu;
-- **2)** sposób, terminy i treść ogłoszenia przetargu;
-- **3)** tryb powoływania, skład i sposób działania komisji przetargowej oraz organy właściwe do powołania tej komisji;
-- **4)** sposób sporządzania oraz treść protokołu z przeprowadzonego przetargu;
-- **5)** tryb postępowania w przypadku zaskarżenia przetargu;
-- **6)** tryb postępowania przy przeprowadzaniu poszczególnych rodzajów przetargów oraz warunki organizowania przetargu ograniczonego;
-- **7)** tryb postępowania przy przeprowadzaniu rokowań po drugim przetargu.
-
-#### Rozdział 5 Oddawanie w trwały zarząd
+**Art. 42.** Rada Ministrów w drodze dzenia, zasady i tryb przeprowadzania przetargów na 5 Oddawanie w
 
 **Art. 43.**
 
-1. Trwały zarząd jest formą prawną władania nieruchomością przez jednostkę organizacyjną.
+1. jest nia przez lub nie prawnej.
 
-2. Jednostka organizacyjna ma prawo, z zastrzeżeniem ust. 6, korzystania z nieruchomości oddanej w trwały zarząd, a w szczególności do:
+2. Jednostka organizacyjna ma prawo, z niem ust. 6, korzystania z oddanej w a w do:
 
-- **1)** korzystania z nieruchomości w celu prowadzenia działalności należącej do zakresu jej działania;
-- **2)** wykonywania robót budowlanych, zgodnie z przepisami prawa budowlanego, za zgodą organu nadzorującego;
-- **3)** oddania nieruchomości lub jej części w najem, dzierżawę albo użyczenie na czas niedłuższy niż czas, na który został ustanowiony trwały zarząd, z równoczesnym zawiadomieniem właściwego organu i organu nadzorującego, jeżeli umowa jest zawierana na czas oznaczony do 3 lat, albo za zgodą tych organów, jeżeli umowa jest zawierana na czas oznaczony dłuższy niż 3 lata lub czas nieoznaczony, jednak na okres niedłuższy niż czas, na który został ustanowiony trwały zarząd; zgoda jest wymagana również w przypadku, gdy po umowie zawartej na czas oznaczony strony zawierają kolejne umowy, których przedmiotem jest ta sama nieruchomość.
+- **1)** korzystania z w celu prowadzenia do zakresu jej
+- **2)** zabudowy, odbudowy, rozbudowy, nadbudowy, przebudowy lub modernizacji obiektu budowlane go na zgodnie z przepisami Prawa budowlanego, za organu
+- **3)** oddania, za organu nieru lub jej w najem, albo jej w drodze umowy zawartej na okres nie czas, na który ustanowiony trwa z równoczesnym zawiadomieniem organu, umowa jest zawierana na okres do 3 lat, lub za organu, je umowa jest zawierana na okres 3 lat.
 
-3. (uchylony)
+3. oddane w ministerstwom, centralnym i wojewódzkim oddawane w najem, lub nie za Prezesa Rady Ministrów albo nego przez niego ministra.
 
-4. Jednostka organizacyjna ma prawo wypowiedzenia, za zgodą organu nadzorującego, każdej umowy najmu, dzierżawy i użyczenia nieruchomości lub jej części, obciążających nieruchomość objętą trwałym zarządem, z zachowaniem trzymiesięcznego terminu wypowiedzenia.
+4. Jednostka organizacyjna ma prawo wypowie dzenia, za organu umowy najmu, i lub jej z zachowaniem terminu wypowiedzenia.
 
-4a. Zgoda, o której mowa w ust. 2 pkt 2 i 3, a także w art. 47 ust. 1, art. 48 ust. 1 i art. 60 ust. 2 pkt 12, nie jest wymagana w przypadku instytucji wymienionych w art. 60 ust. 1 pkt 1 oraz Kancelarii Prezesa Rady Ministrów.
+5. Skarbu oddaje w jedno stce organizacyjnej, a gminy - komunalnej jednostce organizacyjnej.
 
-4b. Jednostka organizacyjna ponosi opłatę roczną z tytułu użytkowania wieczystego nieruchomości oddanej w trwały zarząd lub opłatę z tytułu przekształcenia prawa użytkowania wieczystego w prawo własności, a także koszty wynikające z korzystania z nieruchomości. W sprawach dotyczących tych opłat i kosztów Skarb Państwa albo jednostkę samorządu terytorialnego reprezentuje odpowiednio kierownik państwowej jednostki organizacyjnej albo kierownik samorządowej jednostki organizacyjnej.
-
-5. Nieruchomości stanowiące przedmiot własności lub przedmiot użytkowania wieczystego Skarbu Państwa oddaje się w trwały zarząd państwowej jednostce organizacyjnej, a nieruchomości stanowiące przedmiot własności lub przedmiot użytkowania wieczystego jednostki samorządu terytorialnego – odpowiedniej samorządowej jednostce organizacyjnej, chyba że odrębne przepisy stanowią inaczej.
-
-6. Wojewoda albo odpowiednia rada lub sejmik mogą ustalić, odpowiednio w drodze zarządzenia lub uchwały, szczegółowe warunki korzystania z nieruchomości przez jednostki organizacyjne.
+6. Wojewoda lub rada gminy odpo wiednio w drodze lub we warunki korzystania z przez jednost ki organizacyjne, o których mowa w ust. 1.
 
 **Art. 44.**
 
-1. Trwały zarząd ustanawia się na czas nieoznaczony lub czas oznaczony.
+1. ustanawia na czas nie oznaczony lub czas oznaczony.
 
-2. Z wnioskiem o ustanowienie trwałego zarządu występuje jednostka organizacyjna.
+2. Z wnioskiem o ustanowienie jednostka organizacyjna.
 
 **Art. 45.**
 
-1. Trwały zarząd na rzecz jednostki organizacyjnej ustanawia właściwy organ, w drodze decyzji, z zastrzeżeniem art. 60 ust. 3.
+1. na rzecz jednostki organi zacyjnej ustanawia organ, w drodze decyzji, z art. 60.
 
-2. Decyzja o ustanowieniu trwałego zarządu powinna zawierać:
+2. Decyzja o ustanowieniu powin na
 
-- **1)** nazwę i siedzibę jednostki organizacyjnej, na rzecz której jest ustanawiany trwały zarząd;
-- **2)** oznaczenie nieruchomości według księgi wieczystej oraz według katastru nieruchomości;
-- **3)** powierzchnię oraz opis nieruchomości;
-- **4)** przeznaczenie nieruchomości i sposób jej zagospodarowania;
-- **5)** cel, na jaki nieruchomość została oddana w trwały zarząd;
-- **6)** termin zagospodarowania nieruchomości;
-- **7)** cenę nieruchomości i opłatę z tytułu trwałego zarządu, jeżeli trwały zarząd ustanawiany jest odpłatnie;
-- **8)** możliwość aktualizacji opłaty z tytułu trwałego zarządu, jeżeli trwały zarząd ustanawiany jest odpłatnie;
-- **9)** czas, na który trwały zarząd został ustanowiony.
+- **1)** i jednostki organizacyjnej, na rzecz której jest ustanawiany
+- **2)** oznaczenie wieczy stej oraz katastru
+- **3)** oraz opis
+- **4)** przeznaczenie w planie miejsco wym i sposób jej zagospodarowania,
+- **5)** cel, na jaki oddana w
+- **6)** termin zagospodarowania
+- **7)** i z za
+- **8)** aktualizacji z za
+- **9)** czas, na który ustanowiony.
 
-2a. W przypadku nieruchomości wpisanej do rejestru zabytków, w decyzji o ustanowieniu trwałego zarządu można nałożyć, w miarę potrzeby, na jednostkę organizacyjną obowiązek odbudowy lub remontu położonych na tej nieruchomości zabytkowych obiektów budowlanych, w terminie określonym w decyzji.
-
-3. Objęcie nieruchomości w trwały zarząd następuje na podstawie protokołu zdawczo-odbiorczego.
+3. w je na podstawie zdawczo-odbiorczego.
 
 **Art. 46.**
 
-1. Trwały zarząd wygasa z upływem okresu, na który został ustanowiony, albo na skutek wydania decyzji właściwego organu o jego wygaśnięciu.
+1. wygasa z okre su, na który ustanowiony, albo na skutek wyda nia decyzji organu o jego
 
-2. Właściwy organ może z urzędu wydać decyzję o wygaśnięciu trwałego zarządu w odniesieniu do nieruchomości lub jej części w razie stwierdzenia, że:
+2. organ z o w odniesieniu do nie lub jej w razie stwierdzenia,
 
-- **1)** nieruchomość nie została zagospodarowana zgodnie z decyzją o ustanowieniu trwałego zarządu;
-- **2)** jednostka organizacyjna nie zawiadomiła właściwego organu o oddaniu nieruchomości lub jej części w najem, dzierżawę albo o użyczeniu lub nie uzyskała zgody, o której mowa w art. 43 ust. 2 pkt 3;
-- **3)** nieruchomość jest wykorzystywana niezgodnie z jej przeznaczeniem określonym w decyzji, o której mowa w art. 45;
-- **4)** sposób korzystania z nieruchomości pogarsza stan środowiska w stopniu zagrażającym życiu, zdrowiu lub mieniu;
-- **5)** przeznaczenie nieruchomości w planie miejscowym uległo zmianie, która nie pozwala na dalsze wykorzystywanie nieruchomości lub jej części w dotychczasowy sposób, a jednostka organizacyjna nie ma możliwości zmiany sposobu wykorzystywania nieruchomości;
-- **6)** nieruchomość stała się zbędna na cel określony w decyzji o ustanowieniu trwałego zarządu.
+- **1)** nie zagospodarowana zgod nie z o ustanowieniu
+- **2)** jednostka organizacyjna nie wego organu o oddaniu w najem, albo o lub nie zgody, o której mowa wart. 43 ust. 2 pkt 3,
+- **3)** jest wykorzystywana niezgodnie z jej przeznaczeniem w planie miejscowym,
+- **4)** sposób korzystania z pogarsza stan w stopniu zdrowiu lub mieniu,
+- **5)** przeznaczenie w planie miejsco wym zmianie, która nie pozwala na dalsze wykorzystywanie lub jej w dotychczasowy sposób, a jednostka organizacyj na nie ma zmiany sposobu wykorzysty wania
+- **6)** na cel w decyzji o ustanowieniu
 
-3. Umowa najmu, dzierżawy lub użyczenia nieruchomości oddanej w trwały zarząd ulega rozwiązaniu po upływie 3 miesięcy od dnia wygaśnięcia trwałego zarządu, chyba że w okresie 3 miesięcy od dnia wygaśnięcia trwałego zarządu właściwy organ albo minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, albo jednostka organizacyjna, na rzecz której ustanowiono trwały zarząd – w przypadku gdy nieruchomość została ponownie oddana w trwały zarząd, wstąpi w stosunek najmu, dzierżawy lub użyczenia tej nieruchomości.
+3. jest równoznacz ne z wypowiedzeniem umów najmu, lub z zachowaniem okresu wypowiedzenia, w stosunku do której wiona lub
 
-4. Decyzja o wygaśnięciu trwałego zarządu przysługującego jednostkom organizacyjnym:
+4. Decyzja o jednostkom organizacyjnym:
 
-- **1)** resortu obrony narodowej – wymaga zgody wojewody, wydanej w porozumieniu z ministrem właściwym do spraw obrony narodowej;
-- **2)** resortu spraw wewnętrznych – wymaga zgody wojewody, wydanej w porozumieniu z ministrem właściwym do spraw wewnętrznych;
-- **3)** resortu sprawiedliwości – wymaga zgody wojewody, wydanej w porozumieniu z ministrem właściwym do spraw sprawiedliwości;
-- **4)** Agencji Bezpieczeństwa Wewnętrznego lub Agencji Wywiadu – wymaga zgody wojewody, wydanej w porozumieniu odpowiednio z Szefem Agencji Bezpieczeństwa Wewnętrznego lub Szefem Agencji Wywiadu;
-- **5)** Centralnego Biura Antykorupcyjnego – wymaga zgody wojewody, wydanej w porozumieniu z Szefem Centralnego Biura Antykorupcyjnego.
-
-**Art. 46a.**
-
-1. Wojewoda lub minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa może z urzędu wydać decyzję o wygaśnięciu trwałego zarządu w odniesieniu do nieruchomości lub jej części.
-
-2. Uprawnienia przysługujące Skarbowi Państwa do nieruchomości, w odniesieniu do których trwały zarząd wygasł zgodnie z ust. 1, do czasu rozstrzygnięcia o sposobie ich zagospodarowania przez organ, który wydał decyzję o wygaśnięciu trwałego zarządu, wykonuje ten organ.
+- **1)** resortu obrony narodowej - wymaga zgody woje wody, wydanej w porozumieniu z Ministrem Obro ny Narodowej,
+- **2)** resortu spraw i administracji - wy maga zgody wojewody, wydanej w porozumieniu z Ministrem Spraw i Administracji,
+- **3)** resortu - wymaga zgody woje wody, wydanej w porozumieniu z Ministrem Spra
+- **4)** Ochrony - wymaga zgody wo jewody, wydanej w porozumieniu z Szefem Ochrony
 
 **Art. 47.**
 
-1. Jednostka organizacyjna sprawująca trwały zarząd może zgłosić właściwemu organowi wniosek o wydanie decyzji o wygaśnięciu tego zarządu do całej nieruchomości lub jej części, jeżeli stała się dla niej zbędna. Złożenie wniosku powinno być poprzedzone uzyskaniem zgody organu nadzorującego jednostkę organizacyjną.
+1. Jednostka organizacyjna organowi wniosek o wydanie decyzji o tego do lub jej dla niej wniosku powinno poprze dzone uzyskaniem zgody organu jed
 
-2. Właściwy organ wydaje decyzję o wygaśnięciu trwałego zarządu, na wniosek jednostki organizacyjnej, po uzyskaniu możliwości zagospodarowania nieruchomości, w ciągu 18 miesięcy od dnia złożenia wniosku, o którym mowa w ust. 1.
+2. organ wydaje o na wniosek jednostki organizacyjnej, po uzyskaniu zagospodarowania nie w 18 od dnia wniosku, o którym mowa w ust. 1.
 
-3. W sprawach, o których mowa w ust. 1, nie stosuje się przepisu art. 46 ust. 4.
-
-4. Wydanie nieruchomości następuje na podstawie protokołu zdawczoodbiorczego.
+3. W sprawach, o których mowa w ust. 1, nie stosu je przepisu art. 46 ust. 4.
 
 **Art. 48.**
 
-1. Właściwy organ może orzec, w drodze decyzji, o przekazaniu trwałego zarządu między jednostkami organizacyjnymi na ich wniosek, złożony za zgodą organów nadzorujących te jednostki.
+1. organ orzec, w drodze decyzji, o przekazaniu jed nostkami organizacyjnymi na ich wniosek, za organów te jednostki.
 
-2. W decyzji, o której mowa w ust. 1, orzeka się o wygaśnięciu trwałego zarządu, dotychczas sprawowanego przez jednostkę organizacyjną, i jego ustanowieniu na rzecz jednostki organizacyjnej wnioskującej o przekazanie. W sprawach tych stosuje się przepis art. 45 ust. 3.
-
-3. Jeżeli co najmniej jedną ze stron przekazania trwałego zarządu jest jednostka wymieniona w art. 60 ust. 1, o ustanowieniu i wygaśnięciu trwałego zarządu orzeka minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa.
+2. W decyzji, o której mowa w ust. 1, orzeka o dotychczas sprawo wanego przez i jego ustano wieniu na rzecz jednostki organizacyjnej o przekazanie. W sprawach tych stosuje przepis art. 45 ust. 3.
 
 **Art. 49.**
 
-1. Likwidacja jednostki organizacyjnej sprawującej trwały zarząd nieruchomości powoduje, z zastrzeżeniem ust. 2, jego wygaśnięcie.
+1. Likwidacja jednostki organizacyjnej spra powoduje, z za ust. 2, jego
 
-2. Jeżeli likwidacja jednostki organizacyjnej następuje w wyniku przekształceń organizacyjnych, właściwy organ albo minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa w odniesieniu do nieruchomości ujętych w ewidencji, o której mowa w art. 60 ust. 2 pkt 1, orzeka o wygaśnięciu trwałego zarządu przysługującego likwidowanej jednostce organizacyjnej albo o wygaśnięciu trwałego zarządu przysługującego likwidowanej jednostce organizacyjnej z równoczesnym ustanowieniem trwałego zarządu na rzecz jednostek organizacyjnych utworzonych w wyniku tych przekształceń lub na rzecz jednostek przejmujących zadania jednostki likwidowanej.
+2. likwidacja jednostki organizacyjnej puje w wyniku organizacyjnych, przechodzi na prawnego tej jednostki. Organ organowi wniosek o wydanie decyzji o za
 
-**Art. 49a.** Przepisy art. 43–49 stosuje się odpowiednio w przypadku:
-
-**Art. 50.** Do trwałego zarządu w sprawach nieuregulowanych w ustawie stosuje się odpowiednio przepisy Kodeksu cywilnego o użytkowaniu.
-
-#### Rozdział 6 Przekazywanie nieruchomości na cele szczególne
+**Art. 50.** Do w sprawach nie ure gulowanych w ustawie stosuje odpowiednio prze pisy Kodeksu cywilnego o 6 Przekazywanie na cele szczególne
 
 **Art. 51.**
 
-1. Państwowa osoba prawna oraz państwowa jednostka organizacyjna, z dniem ich utworzenia, są wyposażane w nieruchomości niezbędne do ich działalności odpowiednio przez ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, organ założycielski lub przez organ nadzorujący.
+1. osoba prawna oraz stwowa jednostka organizacyjna, z dniem ich utworze nia, w do ich odpowiednio przez Ministra Skarbu organ lub przez organ nadzoru
 
-2. Wyposażenie polega na przeniesieniu na rzecz państwowej osoby prawnej własności nieruchomości albo oddaniu jej nieruchomości gruntowej w użytkowanie wieczyste, użytkowanie, w tym użytkowanie nieodpłatne, użyczenie lub na oddaniu państwowej jednostce organizacyjnej nieruchomości w trwały zarząd.
+2. polega na przeniesieniu na rzecz osoby prawnej albo oddaniu jej gruntowej w wanie wieczyste lub na oddaniu jednost ce organizacyjnej w
 
-3. Na wyposażenie, o którym mowa w ust. 1, mogą być przeznaczane nieruchomości z zasobu nieruchomości Skarbu Państwa, zasobu nieruchomości Agencji Mienia Wojskowego oraz Zasobu Własności Rolnej Skarbu Państwa.
+3. Na o którym mowa w ust. 1, prze znacza z zasobu Skarbu
 
-4. Przy wyposażaniu państwowych osób prawnych przeniesienie własności nieruchomości następuje nieodpłatnie oraz nie pobiera się pierwszej opłaty z tytułu użytkowania wieczystego.
+4. Przy osób prawnych przeniesienie nie oraz nie pobiera pierwszej z wieczystego.
 
-**Art. 51a.** Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa może doposażyć państwową osobę prawną oraz państwową jednostkę organizacyjną w nieruchomości Skarbu Państwa. Przepis art. 51 stosuje się odpowiednio.
-
-**Art. 52.**
-
-1. Na wniosek ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, organu założycielskiego lub organu nadzorującego starosta wykonujący zadanie z zakresu administracji rządowej lub dyrektor oddziału regionalnego Agencji Mienia Wojskowego wskazują nieruchomości, które mogą być przeznaczone na wyposażenie lub doposażenie państwowej osoby prawnej lub państwowej jednostki organizacyjnej.
-
-2. Starosta wykonujący zadanie z zakresu administracji rządowej lub dyrektor oddziału regionalnego Agencji Mienia Wojskowego przekazują dokumentację nieruchomości niezbędnych dla potrzeb, o których mowa w ust. 1, ministrowi właściwemu do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, organowi założycielskiemu lub organowi nadzorującemu – na ich wniosek, w terminie 2 miesięcy od dnia złożenia wniosku.
+**Art. 52.** Na wniosek Ministra Skarbu or ganu lub organu kie rownik rejonowego wskazuje które przeznaczone na stwowej osoby prawnej lub jednostki or ganizacyjnej.
 
 **Art. 53.**
 
-1. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa lub organ założycielski w akcie o utworzeniu państwowej osoby prawnej rozstrzyga o wyposażeniu tej osoby w nieruchomości, o których mowa w art. 52, oraz art. 24a ustawy z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa.
+1. Minister Skarbu lub organ w akcie o utworzeniu osoby prawnej rozstrzyga o tej osoby w nieru o których mowa wart. 52.
 
-2. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa lub organ założycielski, wykonując ustalenia zawarte w akcie o utworzeniu państwowej osoby prawnej, przenosi na państwową osobę prawną własność nieruchomości lub oddaje tej osobie nieruchomości gruntowe w użytkowanie wieczyste, użytkowanie, użyczenie w drodze umowy zawartej w formie aktu notarialnego.
+2. Minister Skarbu lub organ ustalenia zawarte w akcie o utworzeniu osoby prawnej, przenosi na lub oddaje tej osobie gruntowe w wie czyste w drodze umowy zawartej w formie aktu nota rialnego.
 
 **Art. 54.**
 
-1. Organ nadzorujący w akcie o utworzeniu państwowej jednostki organizacyjnej wyposaża tę jednostkę w nieruchomości, o których mowa w art. 52.
+1. Organ w akcie o utworzeniu jednostki organizacyjnej jed w o których mowa wart. 52.
 
-2. Starosta, wykonujący zadanie z zakresu administracji rządowej, wykonując ustalenia zawarte w akcie o utworzeniu państwowej jednostki organizacyjnej, oddaje tej jednostce nieruchomości w trwały zarząd w drodze decyzji.
+2. Kierownik rejonowego, usta lenia zawarte w akcie o utworzeniu jed nostki organizacyjnej, oddaje tej jednostce nierucho w w drodze decyzji.
 
-**Art. 55.** W razie gdy państwowe osoby prawne albo państwowe jednostki organizacyjne są tworzone w wyniku podziału istniejących osób prawnych lub jednostek organizacyjnych, nie stosuje się przepisów art. 52, jeżeli wyposażenie dotyczy nieruchomości, do których prawa przysługiwały osobom lub jednostkom ulegającym podziałowi.
+**Art. 55.** W razie gdy osoby prawne al bo jednostki organizacyjne tworzone w wyniku osób prawnych lub jed nostek organizacyjnych, nie stosuje przepisów art. 52, dotyczy do których prawa osobom lub jednostkom
 
-**Art. 55a.**
-
-1. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa może nieodpłatnie przejąć na rzecz Skarbu Państwa prawa do nieruchomości państwowej osoby prawnej, która nie jest spółką, za jej zgodą lub za zgodą organu nadzorującego, i przekazać je na rzecz innej państwowej osoby prawnej lub na potrzeby jednostek, o których mowa w art. 60 ust. 1. Przepisy art. 51 ust. 2, art. 51a albo art. 58 ust. 1 stosuje się odpowiednio.
-
-1a. Uprawnienia przysługujące Skarbowi Państwa do nieruchomości przejętych na podstawie ust. 1, do czasu rozstrzygnięcia o sposobie ich zagospodarowania, wykonuje minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa. O sposobie zagospodarowania nieruchomości przejętych na podstawie ust. 1, rozstrzyga minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa.
-
-2. Przed przejęciem praw do nieruchomości za zgodą państwowej osoby prawnej minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa występuje o opinię do organu nadzorującego.
-
-3. W przypadku przekazania praw do nieruchomości na rzecz państwowej osoby prawnej, o którym mowa w ust. 1, osoba ta odpowiada solidarnie z państwową osobą prawną, której prawa zostały odjęte, za zobowiązania powstałe do dnia przekazania, do wysokości wartości tej nieruchomości ustalonej według stanu z chwili przekazania, a według cen z chwili zapłaty. W przypadku niewypłacalności państwowej osoby prawnej, której prawa zostały odjęte, powstałej wskutek przekazania praw do nieruchomości, a egzekucja z majątku tej państwowej osoby prawnej okaże się bezskuteczna, Skarb Państwa odpowiada na zasadach określonych w art. 40 Kodeksu cywilnego.
-
-4. Przekazanie może nastąpić na wniosek zainteresowanej państwowej osoby prawnej lub z urzędu.
-
-**Art. 56.** Przy tworzeniu lub powoływaniu samorządowych osób prawnych lub samorządowych jednostek organizacyjnych stosuje się odpowiednio przepisy art. 51 i art. 53–55, z tym że na wyposażenie tych osób lub jednostek organ wykonawczy gminy, powiatu lub województwa przeznacza nieruchomości odpowiednio z gminnego, powiatowego lub wojewódzkiego zasobu nieruchomości.
+**Art. 56.** Przy tworzeniu komunalnych osób praw nych lub komunalnych jednostek organizacyjnych sto suje odpowiednio przepisy art. 51 i 53-55, z tym na tych osób lub jednostek gminy przeznacza z gminnego zasobu nieru
 
 **Art. 57.**
 
-1. Prawa do nieruchomości, które pozostały po zlikwidowanej lub sprywatyzowanej państwowej osobie prawnej, przechodzą z mocy prawa na rzecz Skarbu Państwa odpowiednio z dniem likwidacji lub z dniem zakończenia prywatyzacji.
+1. Prawa do które pozosta po zlikwidowanej lub sprywatyzowanej osobie prawnej, z mocy prawa na rzecz Skarbu odpowiednio z dniem likwidacji lub z dniem prywatyzacji.
 
-2. O sposobie zagospodarowania tych nieruchomości rozstrzyga minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa.
+2. O sposobie zagospodarowania tych nierucho rozstrzyga Minister Skarbu lub organ
 
-3. Jeżeli minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa lub inny organ upoważniony na mocy odrębnych przepisów nie zagospodarował nieruchomości, o których mowa w ust. 1, może przekazać je protokolarnie do zasobu nieruchomości Skarbu Państwa, Agencji Mienia Wojskowego, Krajowego Ośrodka Wsparcia Rolnictwa albo Krajowego Zasobu Nieruchomości.
+3. Minister Skarbu lub organ cielski nie o których mowa w ust. 1, przekazuje je protokólarnie do zasobu Skarbu
 
-4. W razie likwidacji lub prywatyzacji samorządowej osoby prawnej stosuje się odpowiednio ust. 1–3, z tym że nieruchomości, które nie zostały zagospodarowane, organ wykonawczy jednostki samorządu terytorialnego włącza protokolarnie odpowiednio do gminnego, powiatowego lub wojewódzkiego zasobu nieruchomości.
+4. W razie likwidacji lub prywatyzacji komunalnej osoby prawnej stosuje odpowiednio ust. 1-3, z tym które nie zagospoda rowane, gminy protokólarnie do gmin nego zasobu
 
-5. Nieruchomości stanowiące własność Skarbu Państwa, w stosunku do których trwały zarząd wygasł na skutek likwidacji jednostki organizacyjnej, z zastrzeżeniem przepisu art. 49 ust. 2, organ nadzorujący przekazuje protokolarnie do zasobu nieruchomości Skarbu Państwa, a jeżeli nieruchomości stanowią własność jednostek samorządu terytorialnego, organ nadzorujący włącza je protokolarnie do zasobu nieruchomości odpowiedniej jednostki samorządu terytorialnego.
+5. Skarbu w stosunku do których na skutek likwidacji jednostki organizacyjnej, z zastrzeprzepisu art. 49 ust. 2, organ prze kazuje protokólarnie do zasobu Skarbu a gminy, organ je protokólarnie do gminnego zasobu
 
 **Art. 58.**
 
-1. Nieruchomości stanowiące własność Skarbu Państwa mogą być wnoszone jako wkład niepieniężny (aport) do spółki przez ministra właściwego do spraw aktywów państwowych, w drodze umowy zawartej w formie aktu notarialnego.
+1. Skarbu wnoszone jako nie (aport) do przez Ministra Skarbu stwa, w drodze umowy zawartej w formie aktu nota rialnego.
 
-2. W przypadku wnoszenia nieruchomości jako wkładu niepieniężnego (aportu) do spółki, stosuje się odpowiednio procedurę określoną w art. 52.
-
-**Art. 58a.** Na wniosek ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa albo wojewody starosta wykonujący zadanie z zakresu administracji rządowej przekazuje nieruchomość z zasobu nieruchomości Skarbu Państwa na cel wskazany we wniosku. W terminie 14 dni od dnia otrzymania wniosku starosta wydaje opinię o możliwości przekazania nieruchomości na cel wskazany we wniosku.
+2. W przypadku wnoszenia jako (aportu) do stosuje odpowiednio przepis art. 52.
 
 **Art. 59.**
 
-1. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa może wyposażyć fundację lub dokonać darowizny nieruchomości z zasobu Skarbu Państwa na rzecz fundacji oraz organizacji pożytku publicznego prowadzących działalność, o której mowa w art. 68 ust. 1 pkt 2, na jej cele statutowe.
+1. Minister Skarbu wyposa lub darowizny z zasobu Skarbu na rzecz fundacji cej o której mowa wart. 68 ust. 1 pkt 2. W umowie darowizny cel, na który nieru jest darowana. W przypadku niewykorzysta nia na ten cel darowizna od
 
-2. W przypadku niewykorzystania nieruchomości na cel, na który została darowana, lub wykorzystywania nieruchomości na inny cel niż cel, na który została darowana, darowizna podlega odwołaniu.
-
-2a. W przypadku, o którym mowa w ust. 2, można odstąpić od odwołania darowizny, jeżeli strony zmienią warunki umowy darowizny, w tym cel, na który nieruchomość została darowana, z uwzględnieniem zasad, o których mowa w ust. 1.
-
-3. Czynność prawna dokonana przez fundację albo organizację pożytku publicznego z naruszeniem przepisu ust. 2 jest nieważna.
-
-4. W sprawach, o których mowa w ust. 1, stosuje się odpowiednio przepisy art. 51 ust. 2 i 4 oraz art. 52.
-
-5. Krajowy Ośrodek Wsparcia Rolnictwa oraz Agencja Mienia Wojskowego mogą, na warunkach określonych w ust. 1, wyposażyć fundację lub dokonać na jej rzecz albo na rzecz organizacji pożytku publicznego darowizny nieruchomości, w stosunku do której wykonują prawa właścicielskie Skarbu Państwa, po uprzednim uzyskaniu zgody ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, a w zakresie nieruchomości wchodzących w skład Zasobu Własności Rolnej Skarbu Państwa po uprzednim uzyskaniu zgody ministra właściwego do spraw rozwoju wsi. W przypadku niewykorzystania nieruchomości na ten cel darowiznę odwołuje się. Przepisy ust. 3 i 4 stosuje się.
-
-6. Zgoda ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, o której mowa w ust. 5, jest wyrażana w formie aktu notarialnego.
+2. W sprawach, o których mowa w ust. 1, stosuje odpowiednio przepisy art. 51 ust. 2 i 4 oraz art. 52.
 
 **Art. 60.**
 
-1. Nieruchomościami wchodzącymi w skład zasobu nieruchomości Skarbu Państwa przeznaczonymi na:
+1. Gospodarka stano Skarbu na potrzeby statu towe Kancelarii Sejmu, Kancelarii Senatu, Kancelarii Prezydenta Rzeczypospolitej Polskiej i Kancelarii Pre zesa Rady Ministrów, Konstytucyjnego, Rzecznika Praw Obywatelskich, Naczelnego Administracyjnego, Izby Kontroli, Krajowej Rady Radiofonii i Telewizji, Krajowe go Biura Wyborczego oraz Inspekcji Pra cy, a ministerstw, centralnych i wojewódzkich - do Ministra Spraw nych i Administracji.
 
-- **1)** potrzeby Kancelarii Sejmu, Kancelarii Senatu, Kancelarii Prezydenta Rzeczypospolitej Polskiej, Trybunału Konstytucyjnego, Rzecznika Praw Obywatelskich, Rzecznika Praw Dziecka, Prezesa Urzędu Ochrony Danych Osobowych, Sądu Najwyższego, Naczelnego Sądu Administracyjnego i wojewódzkich sądów administracyjnych, Najwyższej Izby Kontroli, Krajowej Rady Sądownictwa, Krajowej Rady Radiofonii i Telewizji, Prokuratury Krajowej, Krajowego Biura Wyborczego, Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu oraz Państwowej Inspekcji Pracy,
-- **2)** potrzeby Kancelarii Prezesa Rady Ministrów, Rządowego Centrum Legislacji, Prokuratorii Generalnej Rzeczypospolitej Polskiej, ministerstw, urzędów centralnych i urzędów wojewódzkich,
-- **3)** potrzeby Generalnej Dyrekcji Dróg Krajowych i Autostrad, z wyłączeniem rejonów oraz nieruchomości zajętych pod drogi publiczne lub przeznaczonych na realizację inwestycji drogowych – gospodaruje minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, z zastrzeżeniem art. 43 ust. 2.
+2. Minister Spraw i Administracji oddaje w drodze decyzji, jednostkom or ganizacyjnym, o których mowa w ust. 1, w za zasób Skarbu po uprzednim zawarciu porozumie nia z kierownikiem rejonowego, które z zasobu oddane tym jednostkom.
 
-1a. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa gospodaruje nieruchomościami, w odniesieniu do których wydał decyzję o wygaśnięciu trwałego zarządu zgodnie z art. 46a ust. 1.
+3. oddane w jednostkom organizacyjnym, o których mowa w ust. 1, im Minister Spraw i Administracji, po uprzednim wydaniu decyzji o wyga tego zawiadamia kierownika rejonowego o ich przekazaniu do zasobu nieruchomo Skarbu Przepisy art. 46 i 47 stosuje od powiednio.
 
-2. W ramach gospodarowania minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa:
-
-- **1)** prowadzi, zgodnie z katastrem nieruchomości, ewidencję nieruchomości przeznaczonych na potrzeby jednostek wymienionych w ust. 1;
-- **2)** prowadzi, zgodnie z zasadami prawidłowej gospodarki, politykę planowania w zakresie nabywania albo przejmowania od starosty, wykonującego zadanie z zakresu administracji rządowej, wojewody, Agencji Mienia Wojskowego lub Krajowego Ośrodka Wsparcia Rolnictwa nieruchomości na potrzeby jednostek organizacyjnych, wymienionych w ust. 1, oraz sprzedaży albo przekazywania do starosty, wykonującego zadanie z zakresu administracji rządowej, wojewody, Agencji Mienia Wojskowego lub Krajowego Ośrodka Wsparcia Rolnictwa nieruchomości zbędnych dla potrzeb jednostek organizacyjnych wymienionych w ust. 1;
-- **3)** zapewnia wycenę nieruchomości;
-- **4)** (uchylony)
-- **5)** dokonuje czynności faktycznych i prawnych związanych z utrzymaniem nieruchomości nieoddanych w trwały zarząd;
-- **6)** współpracuje z właściwymi organami oraz z innymi organami, które na mocy odrębnych przepisów gospodarują nieruchomościami Skarbu Państwa;
-- **7)** sprzedaje, dokonuje zamiany, a także wydzierżawia, wynajmuje, użycza albo przekazuje nieruchomości do starosty, wykonującego zadanie z zakresu administracji rządowej, wojewody, Krajowego Zasobu Nieruchomości, Agencji Mienia Wojskowego lub Krajowego Ośrodka Wsparcia Rolnictwa, jeżeli stały się zbędne dla jednostek organizacyjnych wymienionych w ust. 1;
-- **7a)** nabywa nieruchomości oraz wykonuje czynności, o których mowa w art. 43 ust. 2 pkt 2;
-- **8)** składa wnioski o założenie księgi wieczystej dla nieruchomości Skarbu Państwa oraz o wpis w księdze wieczystej;
-- **9)** podejmuje czynności w postępowaniach sądowych i administracyjnych, w szczególności w sprawach dotyczących własności lub innych praw rzeczowych na nieruchomości, o stwierdzenie nabycia własności nieruchomości przez zasiedzenie, dotyczących podziału nieruchomości;
-- **10)** podejmuje czynności w sprawach ze stosunku najmu, dzierżawy lub użyczenia, w odniesieniu do nieruchomości nieoddanych w trwały zarząd;
-- **11)** ustanawia nieodpłatnie trwały zarząd w sposób określony w ust. 3–6;
-- **12)** wyraża zgodę jednostkom wymienionym w ust. 1 pkt 2 i 3 na udostępnienie nieruchomości na okres powyżej 90 dni, w szczególności przez oddanie nieruchomości w najem, dzierżawę albo użyczenie.
-
-3. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa oddaje nieodpłatnie, w drodze decyzji, jednostkom organizacyjnym, o których mowa w ust. 1, w trwały zarząd nieruchomości, o których mowa w ust. 1.
-
-4. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa może orzec, w drodze decyzji, o przekazaniu trwałego zarządu między jednostkami organizacyjnymi, o których mowa w ust. 1, na ich wniosek. Przepis art. 48 stosuje się odpowiednio.
-
-5. Starosta, wykonujący zadanie z zakresu administracji rządowej, lub wojewoda oraz Agencja Mienia Wojskowego, przekazuje dokumentację nieruchomości należącej do zasobu nieruchomości Skarbu Państwa, niezbędnej dla potrzeb jednostek organizacyjnych wymienionych w ust. 1, ministrowi właściwemu do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, na jego wniosek, w terminie 2 miesięcy od dnia złożenia wniosku. Faktyczne wydanie nieruchomości następuje po wydaniu decyzji na podstawie protokołu zdawczoodbiorczego.
-
-6. Jeżeli nieruchomości oddane w trwały zarząd jednostkom organizacyjnym, o których mowa w ust. 1, stały się im zbędne, minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, po uprzednim wydaniu decyzji o wygaśnięciu trwałego zarządu, rozstrzyga o sposobie zagospodarowania nieruchomości lub o przekazaniu jej do zasobu, którym gospodaruje starosta, wykonujący zadanie z zakresu administracji rządowej, lub wojewoda. Nieruchomość może być również przekazana do Agencji Mienia Wojskowego lub Krajowego Ośrodka Wsparcia Rolnictwa. Do czasu protokolarnego przekazania nieruchomości nieruchomość jest administrowana przez dotychczasowego trwałego zarządcę.
-
-**Art. 60a.** (uchylony)
-
-**Art. 60b.** (uchylony)
-
-**Art. 60c.** Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa może wystąpić o przekazanie informacji o nieruchomościach, które mogą służyć wykonywaniu zadań określonych w przepisach niniejszej ustawy, do:
+4. W razie likwidacji lub jednostek, o których mowa w ust. 1, Minister Spraw nych i Administracji rozstrzyga, w terminie 6 cy od likwidacji lub o sposobie zagospodarowania cych w tych jednostek. Po tego terminu nie zagospodarowane przekazuje do zasobu Skarbu stwa.
 
 **Art. 61.**
 
-1. Przedstawicielstwom dyplomatycznym lub urzędom konsularnym państw obcych oraz innym przedstawicielstwom i instytucjom zrównanym z nimi w zakresie przywilejów i immunitetów na podstawie ustaw, umów międzynarodowych lub powszechnie obowiązujących zwyczajów międzynarodowych nieruchomości Skarbu Państwa mogą być, na zasadzie wzajemności, zbywane lub oddawane w użytkowanie, dzierżawę lub najem.
+1. Przedstawicielstwom dyplomatycznym lub konsularnym obcych oraz innym przedstawicielstwom i instytucjom zrównanym z nimi w zakresie przywilejów i immunitetów na podstawie ustaw, umów lub powszechnie zwyczajów nieru Skarbu na zasadzie wza sprzedawane lub oddawane w wieczyste, lub najem.
 
-2. Umowy z podmiotami, o których mowa w ust. 1, zawiera minister właściwy do spraw zagranicznych. Minister może udzielić bonifikaty, o której mowa w art. 68 ust. 1 pkt 11.
+2. Umowy z przedstawicielstwami, o których mowa w ust. 1, zawiera Minister Spraw i Ad ministracji.
 
-3. Jednostka samorządu terytorialnego jest obowiązana wskazać i przenieść własność nieruchomości na rzecz Skarbu Państwa, jeżeli jest ona niezbędna na cele, o których mowa w ust. 1. Umowę przeniesienia nieruchomości na własność Skarbu Państwa zawiera z tą jednostką starosta, wykonujący zadanie z zakresu administracji rządowej, w porozumieniu z ministrem właściwym do spraw zagranicznych.
+3. Gmina jest i na rzecz Skarbu jest ona na cele, o których mowa w ust. 1. przeniesienia do za sobu Skarbu zawiera z kierownik du rejonowego w porozumieniu z Ministrem Spraw i Administracji.
 
-3a. Minister właściwy do spraw zagranicznych wykonuje uprawnienia przysługujące Skarbowi Państwa w odniesieniu do nieruchomości znajdujących się poza terytorium Rzeczypospolitej Polskiej, chyba że z odrębnych przepisów lub czynności prawnych wynika właściwość innego organu, jednostki organizacyjnej Skarbu Państwa lub państwowej osoby prawnej.
-
-3b. Minister właściwy do spraw zagranicznych może ustanowić nieodpłatnie, w drodze decyzji, trwały zarząd nieruchomości stanowiących własność Skarbu Państwa, znajdujących się poza terytorium Rzeczypospolitej Polskiej, w stosunku do których wykonuje uprawnienia, o których mowa w ust. 3a. Przepisy rozdziału 5 niniejszego działu stosuje się odpowiednio.
-
-3c. Do zbywania nieruchomości, o których mowa w ust. 3a, nie stosuje się przepisów rozdziału 4 niniejszego działu.
-
-4. W sprawach nieuregulowanych w ust. 1–3 stosuje się odpowiednio przepisy art. 60 ust. 6.
-
-#### Rozdział 7 Ustalanie sposobu i terminów zagospodarowania nieruchomości gruntowych
+4. W sprawach nie uregulowanych w ust. 1-3 sto suje odpowiednio przepis art. 60 ust. 3 i 4. 7 Ustalanie sposobu i terminów zagospodarowania gruntowych
 
 **Art. 62.**
 
-1. W umowie o oddanie nieruchomości gruntowej w użytkowanie wieczyste ustala się sposób i termin jej zagospodarowania, w tym termin zabudowy, zgodnie z celem, na który nieruchomość gruntowa została oddana w użytkowanie wieczyste.
+1. W umowie o oddanie gruntowej w wieczyste ustala sposób i termin jej zagospodarowania, w tym termin zabudo wy, zgodnie z celem, na który gruntowa oddana w wieczyste.
 
-2. Jeżeli sposób zagospodarowania nieruchomości gruntowej polega na jej zabudowie, ustala się termin rozpoczęcia lub termin zakończenia zabudowy.
+2. sposób zagospodarowania gruntowej polega na jej zabudowie, ustala termin lub termin zabudowy.
 
-3. Za rozpoczęcie zabudowy uważa się wybudowanie fundamentów, a za zakończenie zabudowy wybudowanie budynku w stanie surowym zamkniętym.
+3. Za zabudowy wybudowa nie fundamentów, a za zabudowy wybu dowanie budynku w stanie surowym
 
-4. Termin, o którym mowa w ust. 1, może być przedłużony na wniosek użytkownika wieczystego, jeżeli nie mógł być dotrzymany z przyczyn niezależnych od użytkownika.
+4. Termin, o którym mowa w ust. 1, prze na wniosek wieczystego, nie dotrzymany z przyczyn od
 
 **Art. 63.**
 
-1. W razie niedotrzymania terminów zagospodarowania nieruchomości gruntowej, o których mowa w art. 62, właściwy organ może wyznaczyć termin dodatkowy.
+1. W razie niedotrzymania ustalonych ter minów zagospodarowania gruntowej organ termin dodatkowy.
 
-2. W przypadku niedotrzymania terminów, o których mowa w ust. 1 oraz w art. 62, mogą być ustalone dodatkowe opłaty roczne obciążające użytkownika wieczystego, niezależnie od opłat z tytułu użytkowania wieczystego, ustalonych stosownie do przepisów rozdziału 8 działu II.
+2. W przypadku niedotrzymania terminów, o któ rych mowa w ust. 1 oraz wart. 62, ustalone dodatkowe roczne wieczystego, od z wieczystego, ustalonych stosownie do przepisów roz 8 II.
 
-3. Wysokość dodatkowej opłaty rocznej, o której mowa w ust. 2, wynosi 10 % wartości nieruchomości gruntowej określonej na dzień ustalenia opłaty za pierwszy rok, po bezskutecznym upływie terminu jej zagospodarowania, ustalonego w umowie lub decyzji. Za każdy następny rok opłata podlega zwiększeniu o dalsze 10 % tej wartości.
+3. dodatkowej rocznej, o której mowa w ust. 2, wynosi 10% gruntowej na ustalenia za pierwszy rok, po bezskutecznym terminu jej zagospodarowania, ustalonego w umowie lub decyzji. Za rok podlega o dalsze 10% tej
 
-3a. W przypadku dokonania aktualizacji opłaty rocznej w okresie 3 lat przed upływem terminu zagospodarowania nieruchomości gruntowej podstawą ustalenia dodatkowej opłaty rocznej, o której mowa w ust. 2, jest wartość nieruchomości gruntowej określona dla celów tej aktualizacji.
-
-4. Opłaty, o których mowa w ust. 2, ustala właściwy organ w drodze decyzji.
+4. o których mowa w ust. 2, ustala wy organ w drodze decyzji.
 
 **Art. 64.**
 
-1. Obowiązek ponoszenia dodatkowych opłat rocznych powstaje z dniem 1 stycznia roku następującego po bezskutecznym upływie terminów zagospodarowania nieruchomości gruntowej ustalonych w umowie lub decyzji.
+1. ponoszenia dodatkowych rocznych powstaje z dniem 1 stycznia roku po bezskutecznym terminów zago spodarowania gruntowej ustalonych w umowie lub decyzji.
 
-2. Opłaty za dany rok wnosi się w terminie do dnia 31 marca każdego roku.
+2. za dany rok wnosi w terminie do dnia 31 marca roku.
 
 **Art. 65.**
 
-1. Nie pobiera się dodatkowych opłat rocznych w razie:
+1. Nie pobiera dodatkowych rocz nych w razie:
 
-- **1)** niewybudowania urządzeń infrastruktury technicznej na obszarze, na którym nieruchomość gruntowa jest położona, jeżeli do wybudowania tych urządzeń był zobowiązany właściwy organ, a ich brak uniemożliwiałby korzystanie z obiektów, do których wybudowania został zobowiązany użytkownik wieczysty na podstawie umowy lub decyzji;
-- **2)** złożenia do właściwego organu wniosku o rozwiązanie umowy o oddanie nieruchomości gruntowej w użytkowanie wieczyste.
+- **1)** niewybudowania infrastruktury technicz nej na obszarze, na którym grunto wa jest do wybudowania tych organ, a ich brak korzystanie z obiektów, do których wybudowania kownik wieczysty na podstawie umowy lub decy zji,
+- **2)** do organu wniosku o zanie umowy o oddanie gruntowej w wieczyste.
 
-2. W przypadku, o którym mowa w ust. 1 pkt 2, stosuje się przepisy art. 33 ust. 3 i 3a.
+2. W przypadku, o którym mowa w ust. 1 pkt 2, sto suje przepis art. 33 ust. 3.
 
-**Art. 66.** Przepisy niniejszego rozdziału stosuje się odpowiednio do trwałego zarządu.
-
-#### Rozdział 8 Ceny, opłaty i rozliczenia za nieruchomości
+**Art. 66.** Przepisy niniejszego stosuje odpowiednio do 8 Ceny, i rozliczenia za
 
 **Art. 67.**
 
-1. Cenę nieruchomości ustala się na podstawie jej wartości.
+1. ustala na pod stawie jej przez ma
 
-1a. Cena lokalu, oznaczonego jako przedmiot odrębnej własności, obejmuje lokal wraz z pomieszczeniami przynależnymi, w rozumieniu ustawy o własności lokali oraz udział w nieruchomości wspólnej.
+2. Przy w drodze przetar gu stosuje zasady ustalania cen:
 
-2. Przy sprzedaży nieruchomości w drodze przetargu stosuje się następujące zasady ustalania cen:
+- **1)** w pierwszym przetargu ustala w nie nierucho
+- **2)** w drugim przetargu usta w jednak nie 50% tej
+- **3)** jest jej nabywca, ustala w ceny uzy skanej w wyniku przetargu,
+- **4)** przetargi nie rezultatów, nie ustala w uzgodnionej z jej
 
-- **1)** cenę wywoławczą w pierwszym przetargu ustala się w wysokości nieniższej niż wartość nieruchomości;
-- **2)** cenę wywoławczą w drugim przetargu można ustalić w wysokości niższej niż wartość nieruchomości, jednak nieniższej niż 50 % tej wartości;
-- **3)** cenę nieruchomości, którą jest obowiązany zapłacić jej nabywca, ustala się w wysokości ceny uzyskanej w wyniku przetargu;
-- **4)** jeżeli drugi przetarg zakończył się wynikiem negatywnym, cenę nieruchomości ustala się w rokowaniach z nabywcą w wysokości nieniższej niż 40 % jej wartości.
+3. Przy w drodze bezprze targowej ustala w nie jej
 
-3. Przy sprzedaży nieruchomości w drodze bezprzetargowej, o której mowa w art. 37 ust. 2 i 3, cenę nieruchomości ustala się w wysokości nieniższej niż jej wartość, z zastrzeżeniem ust. 3a i art. 69.
-
-3a. Jeżeli nieruchomość jest sprzedawana w drodze bezprzetargowej w celu realizacji roszczeń przysługujących na mocy niniejszej ustawy lub odrębnych przepisów, cenę nieruchomości ustala się w wysokości równej jej wartości.
-
-4. Przepisów ust. 2–3a nie stosuje się przy zbyciu nieruchomości na rzecz podmiotów, o których mowa w art. 61 ust. 1.
+4. Przepisów ust. 2 i 3 nie stosuje przy sprzeda na rzecz przedstawicielstw, o których mowa wart. 61 ust. 1.
 
 **Art. 68.**
 
-1. Właściwy organ może udzielić bonifikaty od ceny ustalonej zgodnie z art. 67 ust. 3, na podstawie odpowiednio zarządzenia wojewody albo uchwały rady lub sejmiku, jeżeli nieruchomość jest sprzedawana:
+1. organ za odpowiednio wojewody lub rady gminy, bonifikaty od ceny ustalonej zgodnie z art. 67 ust. 3, nierucho jest sprzedawana: pod budownictwo mieszkaniowe, na infrastruktury technicznej oraz innych ce lów publicznych, osobom fizycznym i osobom prawnym, które pro kul badaw lub sportowo-tury na cele nie z zarob organizacjom z prze znaczeniem na pracownicze ogrody poprzedniemu lub jego prawnemu, od niego przed dniem 5 grudnia 1990 r., na rzecz Skarbu albo na rzecz gminy, i wyznaniowym, uregulowane stosunki z na cele sakralnej, jako lokal mieszkalny.
 
-- **1)** na cele mieszkaniowe, na realizację urządzeń infrastruktury technicznej oraz innych celów publicznych;
-- **2)** osobom fizycznym i osobom prawnym, które prowadzą działalność charytatywną, opiekuńczą, kulturalną, leczniczą, oświatową, naukową, badawczo-rozwojową, wychowawczą, sportową lub turystyczną, na cele niezwiązane z działalnością zarobkową, a także organizacjom pożytku publicznego na cel prowadzonej działalności pożytku publicznego;
-- **3)** stowarzyszeniom ogrodowym w rozumieniu ustawy z dnia 13 grudnia 2013 r. o rodzinnych ogrodach działkowych z przeznaczeniem na rodzinne ogrody działkowe;
-- **4)** poprzedniemu właścicielowi lub jego spadkobiercy, jeżeli nieruchomość została od niego przejęta przed dniem 5 grudnia 1990 r.;
-- **5)** na rzecz Skarbu Państwa albo na rzecz jednostki samorządu terytorialnego;
-- **6)** kościołom i związkom wyznaniowym, mającym uregulowane stosunki z państwem, na cele działalności sakralnej;
-- **7)** jako lokal mieszkalny;
-- **8)** w wyniku uwzględnienia roszczeń, o których mowa w art. 209a ust. 1, 3 i 5;
-- **9)** spółdzielniom mieszkaniowym w związku z ustanowieniem odrębnej własności lokali lub z przeniesieniem własności lokali lub domów jednorodzinnych;
-- **10)** osobie, o której mowa w art. 37 ust. 2 pkt 6, z zastrzeżeniem, że nieruchomość przyległa jest przeznaczona lub wykorzystywana na cele mieszkaniowe;
-- **11)** podmiotom, o których mowa w art. 61 ust. 1;
-- **12)** na cele realizacji przedsięwzięć rewitalizacyjnych, o których mowa w art. 15 ust. 1 pkt 5 lit. a ustawy z dnia 9 października 2015 r. o rewitalizacji (Dz. U. z 2024 r. poz. 278).
+2. organ zwrotu kwoty rów nej udzielonej bonifikacie po jej waloryzacji, na bywca przed 10 lat, od dnia jej nabycia, lub na inne cele wymienione w ust. 1 pkt 1-3 i 7. Nie do tyczy to zbycia na rzecz osoby bliskiej.
 
-1a. W przypadku, o którym mowa w ust. 1 pkt 7, bonifikata obejmuje cenę lokalu, w tym cenę udziału w prawie własności gruntu lub, w przypadku gdy udział obejmuje prawo użytkowania wieczystego, pierwszą opłatę z tego tytułu. Bonifikata udzielana od ceny lokalu obejmuje wszystkie jej składniki w jednakowej wysokości.
+3. zgodnie z art. 67, wpisanej do rejestru zabytków o 50%. organ za odpowiednio wojewody lub rady gminy, lub
 
-1b. W zarządzeniu wojewody albo uchwale rady lub sejmiku, o których mowa w ust. 1, określa się w szczególności warunki udzielania bonifikat i wysokość stawek procentowych. Zarządzenie wojewody albo uchwała rady lub sejmiku stanowi akt prawa miejscowego lub może dotyczyć indywidualnych nieruchomości.
-
-2. Jeżeli nabywca nieruchomości zbył nieruchomość lub wykorzystał ją na inne cele niż cele uzasadniające udzielenie bonifikaty, przed upływem 10 lat, a w przypadku nieruchomości stanowiącej lokal mieszkalny przed upływem 5 lat, licząc od dnia nabycia, jest zobowiązany do zwrotu kwoty równej udzielonej bonifikacie po jej waloryzacji. Zwrot następuje na żądanie właściwego organu.
-
-2a. Przepisu ust. 2 nie stosuje się w przypadku:
-
-- **1)** zbycia na rzecz osoby bliskiej, z zastrzeżeniem ust. 2b;
-- **2)** zbycia pomiędzy jednostkami samorządu terytorialnego;
-- **3)** zbycia pomiędzy jednostkami samorządu terytorialnego i Skarbem Państwa;
-- **4)** zamiany lokalu mieszkalnego na:
-    - **a)** inny lokal mieszkalny będący przedmiotem prawa własności lub spółdzielczego własnościowego prawa do lokalu mieszkalnego, albo
-    - **b)** nieruchomość przeznaczoną lub wykorzystywaną na cele mieszkaniowe będącą przedmiotem prawa własności lub prawa użytkowania wieczystego;
-
-- **5)** sprzedaży lokalu mieszkalnego, jeśli środki uzyskane z jego sprzedaży wykorzystane zostały w ciągu 12 miesięcy na nabycie:
-    - **a)** innego lokalu mieszkalnego będącego przedmiotem prawa własności lub przedmiotem spółdzielczego własnościowego prawa do lokalu mieszkalnego, albo
-    - **b)** nieruchomości przeznaczonej lub wykorzystywanej na cele mieszkaniowe będącej przedmiotem prawa własności lub prawa użytkowania wieczystego.
-
-2b. Przepis ust. 2 stosuje się odpowiednio do osoby bliskiej, która zbyła lub wykorzystała nieruchomość na inne cele niż cele uzasadniające udzielenie bonifikaty, przed upływem 10 lat, a w przypadku nieruchomości stanowiącej lokal mieszkalny przed upływem 5 lat, licząc od dnia pierwotnego nabycia.
-
-2c. Właściwy organ może odstąpić od żądania zwrotu udzielonej bonifikaty, w innych przypadkach niż określone w ust. 2a, za zgodą odpowiednio wojewody, rady lub sejmiku.
-
-2d. Jeżeli w przypadkach, o których mowa w ust. 2a pkt 4 lub 5, na nabycie albo zamianę nieruchomości albo lokalu mieszkalnego nie zostały wykorzystane wszystkie uzyskane środki, obowiązek zwrotu, o którym mowa w ust. 2, dotyczy kwoty odpowiadającej części bonifikaty niewykorzystanej na nabycie lub zamianę, po jej waloryzacji.
-
-3. Cenę nieruchomości lub jej części wpisanych do rejestru zabytków obniża się na wniosek nabywcy o 50 %. Właściwy organ może, za zgodą odpowiednio wojewody albo rady lub sejmiku, podwyższyć lub obniżyć tę bonifikatę.
-
-3a. Zgoda, o której mowa w ust. 2c i 3, może dotyczyć więcej niż jednej nieruchomości.
-
-4. W razie zbiegu praw do bonifikat z tytułów, o których mowa w ust. 1 oraz ust. 3, stosuje się jedną bonifikatę korzystniejszą dla nabywcy.
-
-**Art. 68a.**
-
-1. Właściwy organ może udzielić za zgodą, odpowiednio wojewody albo rady lub sejmiku, bonifikaty od ceny ustalonej zgodnie z art. 67 ust. 3, jeżeli nieruchomość jest sprzedawana partnerowi prywatnemu lub spółce, o której mowa w art. 14 ust. 1 albo 1a ustawy z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym, jeżeli sprzedaż stanowi wniesienie wkładu własnego podmiotu publicznego.
-
-2. Sprzedaż nieruchomości na zasadach określonych w ust. 1 następuje z zastrzeżeniem prawa odkupu. Wykonanie prawa odkupu następuje najpóźniej w terminie 6 miesięcy od zakończenia czasu trwania umowy o partnerstwie publiczno-prywatnym.
-
-3. Z chwilą wykonania prawa odkupu partner prywatny lub spółka, o której mowa w art. 14 ust. 1 albo 1a ustawy z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym, jest obowiązany przenieść na rzecz podmiotu publicznego własność nieruchomości za zwrotem ceny ustalonej zgodnie z ust. 1 i po uwzględnieniu jej waloryzacji.
-
-4. Do prawa odkupu, o którym mowa w ust. 2, nie stosuje się przepisów art. 593 § 1 oraz art. 594 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny.
-
-**Art. 69.**
-
-1. Cenę nieruchomości gruntowej niewykorzystywanej do prowadzenia działalności gospodarczej, sprzedawanej jej użytkownikowi wieczystemu, ustala się jako dwudziestokrotność kwoty stanowiącej iloczyn dotychczasowej stawki procentowej opłaty rocznej z tytułu użytkowania wieczystego oraz wartości nieruchomości gruntowej określonej na dzień zawarcia umowy sprzedaży. Przepisy art. 68 i art. 68a stosuje się odpowiednio.
-
-2. Cenę nieruchomości gruntowej wykorzystywanej do prowadzenia działalności gospodarczej, sprzedawanej jej użytkownikowi wieczystemu, ustala się w wysokości nieniższej niż dwudziestokrotność kwoty stanowiącej iloczyn dotychczasowej stawki procentowej opłaty rocznej z tytułu użytkowania wieczystego oraz wartości nieruchomości gruntowej określonej na dzień zawarcia umowy sprzedaży, jednak niewyższej niż wartość nieruchomości gruntowej określona na dzień zawarcia umowy sprzedaży.
-
-3. Jeżeli dotychczas nie obowiązywała opłata roczna z tytułu użytkowania wieczystego nieruchomości gruntowej, właściwy organ ustala cenę, o której mowa w ust. 1 i 2, przyjmując stawkę procentową określoną w art. 72 ust. 3 stosownie do celu wynikającego ze sposobu korzystania z nieruchomości gruntowej.
-
-**Art. 69a.**
-
-1. W przypadku nieruchomości gruntowej wykorzystywanej do prowadzenia działalności gospodarczej, sprzedawanej jej użytkownikowi wieczystemu, za dzień udzielenia pomocy publicznej uznaje się dzień zawarcia umowy sprzedaży. Wartość pomocy publicznej odpowiada różnicy między wartością nieruchomości gruntowej a ceną tej nieruchomości.
-
-1a. Udzielenie pomocy publicznej wymaga spełnienia warunków udzielenia pomocy de minimis określonych we właściwych przepisach prawa Unii Europejskiej dotyczących pomocy de minimis.
-
-2. W przypadku gdy wartość pomocy publicznej przekracza limit pomocy de minimis, pomocy udziela się do tego limitu i stosuje się dopłatę do wartości nieruchomości gruntowej przyjętej do ustalenia jej ceny. Wysokość dopłaty jest ustalana w umowie sprzedaży nieruchomości gruntowej.
-
-3. Dopłata, o której mowa w ust. 2, może zostać uiszczona w:
-
-- **1)** pełnej wysokości w terminie 14 dni od dnia nabycia nieruchomości gruntowej;
-- **2)** ratach rocznych płatnych przez okres niedłuższy niż 20 lat, wnoszonych od roku następującego po roku nabycia nieruchomości gruntowej;
-- **3)** kwocie pozostałej do spłaty w przypadku, o którym mowa w pkt 2, na wniosek nabywcy nieruchomości, złożony w każdym czasie trwania okresu, na jaki dopłata została rozłożona na raty.
-
-4. Do dopłaty wnoszonej w formie rat przepis art. 70 ust. 3a stosuje się odpowiednio.
+**Art. 69.** Na poczet ceny gruntowej sprzedawanej jej wieczystemu zalicza prawa wieczy stego tej stanu na
 
 **Art. 70.**
 
-1. Cena nieruchomości sprzedawanej w drodze przetargu podlega zapłacie niepóźniej niż do dnia zawarcia umowy przenoszącej własność.
+1. Cena sprzedawanej w drodze przetargu podlega nie do dnia zawarcia umowy
 
-2. Cena nieruchomości sprzedawanej w drodze bezprzetargowej lub w drodze rokowań, o których mowa w art. 37 ust. 2 i 3 oraz w art. 39 ust. 2, może zostać rozłożona na raty, na czas niedłuższy niż 10 lat. Wierzytelność Skarbu Państwa lub jednostki samorządu terytorialnego w stosunku do nabywcy z tego tytułu podlega zabezpieczeniu, w szczególności przez ustanowienie hipoteki. Pierwsza rata podlega zapłacie niepóźniej niż do dnia zawarcia umowy przenoszącej własność nieruchomości, a następne raty wraz z oprocentowaniem podlegają zapłacie w terminach ustalonych przez strony w umowie.
+2. Cena sprzedawanej w drodze bezprzetargowej na raty, nie na 10 lat. Skarbu lub gminy w stosunku do nabywcy z tego podlega zabezpieczeniu, a w zabezpieczeniu hi potecznemu. Pierwsza rata podlega nie niej do dnia zawarcia umowy a raty wraz z oprocen towaniem w terminach ustalonych przez strony w umowie.
 
-3. Rozłożona na raty niespłacona część ceny podlega oprocentowaniu przy zastosowaniu stopy procentowej równej stopie redyskonta weksli stosowanej przez Narodowy Bank Polski.
+3. na raty nie ceny pod lega oprocentowaniu przy zastosowaniu stopy procen towej równej stopie redyskonta weksli stosowanej przez Narodowy Bank Polski.
 
-3a. W przypadku nieruchomości gruntowej wykorzystywanej do prowadzenia działalności gospodarczej, sprzedawanej jej użytkownikowi wieczystemu, rozłożona na raty niespłacona część ceny podlega oprocentowaniu według stopy referencyjnej ustalonej zgodnie z komunikatem Komisji w sprawie zmiany metody ustalania stóp referencyjnych i dyskontowych (Dz. Urz. UE C 14 z 19.01.2008, str. 6).
-
-4. Wojewoda w stosunku do nieruchomości stanowiących przedmiot własności Skarbu Państwa, a rada lub sejmik w stosunku do nieruchomości stanowiących odpowiednio przedmiot własności gminy, powiatu lub województwa, mogą wyrazić zgodę na zastosowanie, innej niż określona w ust. 3, stopy procentowej.
+4. Wojewoda w stosunku do stano Skarbu a rada gminy w stosunku do gminy umowne stawki oprocento wania.
 
 **Art. 71.**
 
-1. Za oddanie nieruchomości gruntowej w użytkowanie wieczyste pobiera się pierwszą opłatę i opłaty roczne.
+1. Za oddanie gruntowej w wieczyste pobiera i roczne.
 
-2. Pierwsza opłata za oddanie nieruchomości gruntowej w użytkowanie wieczyste w drodze przetargu podlega zapłacie jednorazowo, niepóźniej niż do dnia zawarcia umowy o oddanie tej nieruchomości w użytkowanie wieczyste.
+2. Pierwsza za oddanie grun towej w wieczyste w drodze przetargu podlega jednorazowo, nie do dnia zawarcia umowy o oddanie tej w kowanie wieczyste.
 
-3. Pierwszą opłatę za oddanie nieruchomości gruntowej w użytkowanie wieczyste w drodze bezprzetargowej można rozłożyć na oprocentowane raty. W sprawach tych stosuje się odpowiednio przepis art. 70 ust. 2–4.
+3. za oddanie grun towej w wieczyste w drodze bezprzetar gowej na oprocentowane raty. W spra wach tych stosuje odpowiednio przepis art. 70 ust. 2-4.
 
-4. Opłaty roczne wnosi się przez cały okres użytkowania wieczystego, w terminie do dnia 31 marca każdego roku, z góry za dany rok. Opłaty rocznej nie pobiera się za rok, w którym zostało ustanowione prawo użytkowania wieczystego. Właściwy organ, na wniosek użytkownika wieczystego złożony niepóźniej niż 14 dni przed upływem terminu płatności, może ustalić inny termin zapłaty, nieprzekraczający danego roku kalendarzowego.
+4. roczne wnosi przez okres wania wieczystego, w terminie do dnia 31 marca dego roku, z góry za dany rok. rocznej nie po biera za rok, w którym ustanowione prawo wieczystego. organ, na wnio sek wieczystego, inny termin nie danego roku kalendarzowe go.
 
-5. Pierwszej opłaty nie pobiera się w przypadku:
-
-- **1)** zamiany, o której mowa w art. 14 ust. 4 i art. 15 ust. 2;
-- **2)** zawarcia kolejnej umowy o oddanie gruntu w użytkowanie wieczyste, o której mowa w art. 37 ust. 3a pkt 2, jeżeli od wygaśnięcia użytkowania wieczystego nie upłynęły 3 lata.
-
-6. W razie wygaśnięcia użytkowania wieczystego opłata roczna z tytułu użytkowania wieczystego za rok, w którym prawo wygasło, podlega zmniejszeniu proporcjonalnie do czasu trwania użytkowania wieczystego w tym roku.
-
-7. W przypadku gdy nastąpiła zmiana użytkownika wieczystego w wyniku przeniesienia prawa użytkowania wieczystego, opłatę roczną pobiera się w całości od osoby będącej użytkownikiem wieczystym nieruchomości w dniu 1 stycznia roku, za który obowiązuje opłata.
+5. Pierwszej nie pobiera w przypadku za miany, o której mowa wart. 14 ust. 4 i art. 15 ust. 2.
 
 **Art. 72.**
 
-1. Opłaty z tytułu użytkowania wieczystego ustala się według stawki procentowej od ceny nieruchomości gruntowej określonej zgodnie z art. 67.
+1. z wieczystego ustala stawki procentowej od ceny nieru gruntowej zgodnie z art. 67.
 
-2. Stawka procentowa pierwszej opłaty z tytułu użytkowania wieczystego wynosi od 15 % do 25 % ceny nieruchomości gruntowej.
+2. Stawka procentowa pierwszej z wieczystego wynosi od 15% do 25% ceny gruntowej.
 
-3. Wysokość stawek procentowych opłat rocznych z tytułu użytkowania wieczystego jest uzależniona od określonego w umowie celu, na jaki nieruchomość gruntowa została oddana, i wynosi:
+3. stawek procentowych rocznych z wieczystego jest od w umowie celu, na jaki gruntowa oddana, i wynosi:
 
-- **1)** za nieruchomości gruntowe oddane na cele obronności i bezpieczeństwa państwa, w tym ochrony przeciwpożarowej – 0,3 % ceny;
-- **2)** za nieruchomości gruntowe pod budowę obiektów sakralnych wraz z budynkami towarzyszącymi, plebanii w parafiach diecezjalnych i zakonnych, archiwów i muzeów diecezjalnych, seminariów duchownych, domów zakonnych oraz siedzib naczelnych władz kościołów i związków wyznaniowych – 0,3 % ceny;
-- **3)** za nieruchomości gruntowe na działalność charytatywną oraz na niezarobkową działalność: opiekuńczą, kulturalną, leczniczą, oświatową, wychowawczą, naukową lub badawczo-rozwojową – 0,3 % ceny;
-- **3a)** za nieruchomości gruntowe oddane na cele rolne – 1 % ceny;
-- **3b)** za nieruchomości gruntowe, na których położone są garaże lub stanowiska postojowe niewykorzystywane do prowadzenia działalności gospodarczej albo nieruchomości przeznaczone na te cele – 1 % ceny;
-- **4)** za nieruchomości gruntowe oddane na cele mieszkaniowe, na realizację urządzeń infrastruktury technicznej i innych celów publicznych oraz działalność sportową – 1 % ceny;
-- **4a)** za nieruchomości gruntowe na działalność turystyczną – 2 % ceny;
-- **5)** za pozostałe nieruchomości gruntowe – 3 % ceny.
+- **1)** za gruntowe oddane na cele obron i w tym ochrony - 0,3% ceny, Dziennik Ustaw Nr 115 - 3557 - Poz. 741
+- **2)** za gruntowe pod obiektów sakralnych wraz z budynkami ple banii w parafiach diecezjalnych i zakonnych, archi wów i muzeów diecezjalnych, seminariów du chownych, domów zakonnych oraz siedzib naczel nych i wyznaniowych -0,3% ceny,
+- **3)** za gruntowe na charyta lub badawczo-rozwo - 0,3% ceny,
+- **4)** za gruntowe pod budownictwo mieszkaniowe, na infrastruktu rytechnicznej i innych celów publicznych oraz dzia - 1% ceny,
+- **5)** za gruntowe - 3% ceny.
 
 **Art. 73.**
 
-1. Jeżeli nieruchomość gruntowa została oddana w użytkowanie wieczyste na więcej niż jeden cel, stawkę procentową opłaty rocznej przyjmuje się dla celu podstawowego, na który nieruchomość została oddana w użytkowanie wieczyste.
+1. gruntowa oddana w wieczyste na jeden cel, rocznej przyjmuje dla tego celu, który w umowie o oddanie w nie wieczyste jako podstawowy.
 
-2. Jeżeli po oddaniu nieruchomości gruntowej w użytkowanie wieczyste nastąpi trwała zmiana sposobu korzystania z nieruchomości, powodująca zmianę celu użytkowania wieczystego, z wnioskiem o zmianę celu użytkowania wieczystego występuje właściwy organ albo użytkownik wieczysty.
+2. po oddaniu gruntowej w wieczyste zmiana sposo bu korzystania z celu, na który oddana, rocznej zmienia stosownie do tego celu. Przy dokonywaniu zmiany stawki procento wej stosuje tryb wart. 78-81.
 
-2a. Przepisy ust. 1 i 2 stosuje się odpowiednio do udziału w prawie użytkowania wieczystego nieruchomości gruntowej, w przypadku:
+3. W wypadkach, o których mowa wart. 68 ust. 1 pkt 1-6, organ za od powiednio wojewody albo rady gminy, bonifikaty od pierwszej i rocznych ustalonych zgodnie z art. 72 ust. 2 i 3 pkt 1-4. Bonifikaty te stoso do gruntowych oddanych w wieczyste przed dniem w ustawy.
 
-- **1)** ustanowienia odrębnej własności lokalu, którego przeznaczenie jest inne, niż cel podstawowy, użytkowania wieczystego, lub
-- **2)** zmiany sposobu korzystania z lokalu.
+4. Ustalone, zgodnie z art. 72 ust. 2 i 3 pkt 5, z wieczystego o 50%, je gruntowa wpisana do reje stru zabytków. organ za odpo wiednio wojewody lub rady gminy, lub
 
-2b. Z wnioskiem o zmianę celu użytkowania wieczystego nieruchomości gruntowej użytkownik wieczysty może wystąpić również w przypadku, gdy proponowana zmiana jest zgodna:
+5. pierwszej i rocznych oraz udzielanych bonifikat i sposób tych usta la w umowie.
 
-- **1)** z przeznaczeniem nieruchomości ustalonym w obowiązującym miejscowym planie zagospodarowania przestrzennego lub
-- **2)** z decyzją o pozwoleniu na użytkowanie obiektu budowlanego, lub
-- **3)** ze zgłoszeniem budowy lub przebudowy, wobec którego organ administracji architektoniczno-budowlanej nie wniósł sprzeciwu, lub [4) z uchwałą o ustaleniu lokalizacji inwestycji mieszkaniowej lub inwestycji towarzyszącej podjętą na podstawie ustawy z dnia 5 lipca 2018 r. o ułatwieniach w przygotowaniu i realizacji inwestycji mieszkaniowych oraz inwestycji towarzyszących (Dz. U. z 2025 r. poz. 1754), lub]
-- **5)** z decyzją o warunkach zabudowy i zagospodarowania terenu.
-
-2c. Jeżeli w przypadku, o którym mowa w ust. 2b, w związku ze zmianą celu użytkowania wieczystego ulegnie obniżeniu wysokość stawki procentowej opłaty rocznej, strony mogą ustalić jednorazową opłatę na rzecz właściciela nieruchomości niewyższą niż dwukrotność dotychczasowej opłaty rocznej z tytułu użytkowania wieczystego.
-
-2d. Właściwy organ przedstawia w formie pisemnego oświadczenia propozycję zmiany celu użytkowania wieczystego oraz wyznacza termin na zajęcie pisemnego stanowiska przez użytkownika wieczystego, niekrótszy niż 2 miesiące od dnia otrzymania propozycji. Jeżeli użytkownik wieczysty nie zgadza się z proponowaną zmianą celu użytkowania wieczystego lub nie przedstawił stanowiska, właściwy organ może wnieść powództwo do sądu powszechnego właściwego ze względu na położenie nieruchomości.
-
-2e. W przypadku złożenia przez użytkownika wieczystego wniosku, o którym mowa w ust. 2 lub 2b, właściwy organ przedstawia pisemne stanowisko w terminie 2 miesięcy od dnia otrzymania wniosku. Jeżeli organ nie zgadza się na zmianę celu użytkowania wieczystego lub nie przedstawił stanowiska, użytkownik wieczysty może wnieść powództwo do sądu powszechnego właściwego ze względu na położenie nieruchomości.
-
-2f. Stawkę procentową opłaty rocznej przyjmuje się stosownie do celu ustalonego na podstawie zgodnego oświadczenia stron albo orzeczenia sądu. Nowa stawka opłaty obowiązuje od dnia 1 stycznia roku następującego po roku, w którym została ustalona.
-
-2g. Przepisy ust. 2b i 2d–2f stosuje się również, w przypadku gdy cel użytkowania wieczystego nie został dotychczas ustalony.
-
-3. Właściwy organ może udzielić bonifikaty od pierwszej opłaty i opłat rocznych, na podstawie odpowiednio zarządzenia wojewody albo uchwały rady lub sejmiku. W zarządzeniu wojewody albo uchwale rady lub sejmiku określa się w szczególności warunki udzielania bonifikat i wysokość stawek procentowych. Bonifikaty te można stosować również do nieruchomości gruntowych oddanych w użytkowanie wieczyste przed dniem 1 stycznia 1998 r.
-
-4. Ustalone, zgodnie z art. 72 ust. 2 i 3 pkt 5, opłaty z tytułu użytkowania wieczystego obniża się o 50 %, jeżeli nieruchomość gruntowa została wpisana do rejestru zabytków. Właściwy organ może, za zgodą odpowiednio wojewody albo rady lub sejmiku, podwyższyć lub obniżyć tę bonifikatę.
-
-5. Wysokość pierwszej opłaty i opłat rocznych oraz udzielanych bonifikat i sposób zapłaty tych opłat ustala się w umowie.
-
-6. Właściwy organ wypowiada udzieloną bonifikatę, jeżeli osoba, której oddano nieruchomość w użytkowanie wieczyste, przed upływem 10 lat, licząc od dnia ustanowienia tego prawa, dokonała jego zbycia lub wykorzystała nieruchomość na inne cele niż cele uzasadniające udzielenie bonifikaty. Przy wypowiedzeniu stosuje się odpowiednio art. 78–81.
-
-7. Przepisu ust. 6 nie stosuje się w przypadku zbycia:
-
-- **1)** na rzecz osoby bliskiej;
-- **2)** pomiędzy jednostkami samorządu terytorialnego;
-- **3)** pomiędzy jednostkami samorządu terytorialnego i Skarbem Państwa.
+6. po oddaniu w wieczyste zmiana celu udzielenia bonifikaty, podlega ona wypowiedzeniu na zasadach wart. 78-81.
 
 **Art. 74.**
 
-1. Osobom fizycznym, których dochód miesięczny na jednego członka gospodarstwa domowego nie przekracza 50 % przeciętnego wynagrodzenia w gospodarce narodowej w roku poprzedzającym rok, za który opłata ma być wnoszona, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, na podstawie art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2025 r. poz. 1749 oraz z 2026 r. poz. 26), właściwy organ udziela na ich wniosek 50 % bonifikaty od opłaty rocznej, jeżeli nieruchomość jest przeznaczona na cele mieszkaniowe lub wykorzystywana na te cele.
+1. Osobom fizycznym, których dochód mie na jednego rodziny nie przekracza 50% wynagrodzenia w gospodar ce narodowej za ostatni roku rok, za który ma wnoszona, przez Prezesa Statystycznego, udziela bonifikaty od rocznych z wania wieczystego gruntowej, jest przeznaczona lub wykorzystywana na cele mieszkaniowe.
 
-1a. Dochód miesięczny, o którym mowa w ust. 1, jest obliczany jako średnia miesięczna z dochodu, o którym mowa w przepisach o dodatkach mieszkaniowych, uzyskanego w roku poprzedzającym rok, za który opłata roczna jest wnoszona. Ciężar dowodu, że istnieją przesłanki udzielenia bonifikaty od tej opłaty, spoczywa na użytkowniku wieczystym.
+2. Osoby, o których mowa w ust. 1, kami mieszkaniowej, z bonifika ty w formie ulgi w z w kosztach eksploatacji budynków. ulgi powinna odpo bonifikaty od rocznej z wieczystego gruntowej, udzielonej mieszkaniowej, proporcjonalnie do powierzchni lokali zajmowanych przez osoby uprawnione do bonifikaty.
 
-1b. Przez gospodarstwo domowe rozumie się gospodarstwo prowadzone przez użytkownika wieczystego samodzielnie lub wspólnie z małżonkiem lub innymi osobami stale z nim zamieszkującymi i gospodarującymi na nieruchomości oddanej w użytkowanie wieczyste.
-
-2. Osoby, o których mowa w ust. 1, którym przysługują spółdzielcze prawa do lokali, korzystają z bonifikaty w formie ulgi w opłatach z tytułu udziału w kosztach eksploatacji budynków. Wysokość ulgi powinna odpowiadać wysokości bonifikaty od opłaty rocznej z tytułu użytkowania wieczystego nieruchomości gruntowej, udzielonej spółdzielni mieszkaniowej, proporcjonalnie do powierzchni lokali zajmowanych przez osoby uprawnione do bonifikaty.
-
-**Art. 75.** W razie zbiegu praw do bonifikat z tytułów, o których mowa w art. 73 ust. 3 i ust. 4 oraz art. 74 ust. 1, stosuje się jedną bonifikatę korzystniejszą dla użytkownika wieczystego.
+**Art. 75.** W razie zbiegu praw do bonifikat z o których mowa wart. 73 ust. 3 i art. 74 ust. 1, stosuje dla wieczystego.
 
 **Art. 76.**
 
-1. Stawka procentowa opłaty rocznej za nieruchomości gruntowe, o których mowa w art. 72 ust. 3 pkt 5, może być podwyższona zarządzeniem wojewody w stosunku do nieruchomości stanowiących własność Skarbu Państwa lub uchwałą odpowiedniej rady lub sejmiku w stosunku do nieruchomości stanowiących własność jednostek samorządu terytorialnego. Podwyższenie stawki procentowej może nastąpić tylko przed oddaniem nieruchomości gruntowej w użytkowanie wieczyste.
+1. Stawka procentowa rocznej za nie gruntowe, o których mowa wart. 72 ust. 3 pkt 5, wojewody w stosunku do Skarbu lub rady gminy w stosunku do gminy. Pod stawki procentowej tylko przed oddaniem gruntowej w wanie wieczyste.
 
-2. Opłat rocznych nie pobiera się od użytkowników wieczystych, którzy na podstawie przepisów ustawy z dnia 14 lipca 1961 r. o gospodarce terenami w miastach i osiedlach (Dz. U. z 1969 r. poz. 159, z 1972 r. poz. 193 oraz z 1974 r. poz. 84) wnieśli jednorazowo opłaty roczne za cały okres użytkowania wieczystego. Użytkownicy wieczyści, którzy wnieśli opłaty roczne za okres krótszy niż czas trwania prawa użytkowania wieczystego, wnoszą opłaty roczne po upływie tego okresu.
+2. rocznych nie pobiera od wieczystych, którzy na podstawie przepisów ustawy z dnia 14 lipca 1961 r. o gospodarce terenami w mia stach i osiedlach (Dz. U. z 1969 r. Nr 22, poz. 159, z 1972 r. Nr 27, poz. 193 i z 1974 r. Nr 14, poz. 84) wnie jednorazowo roczne za okres nia wieczystego. którzy roczne za okres krótszy czas trwania prawa wieczystego, roczne po tego okresu.
 
 **Art. 77.**
 
-1. Wysokość opłaty rocznej z tytułu użytkowania wieczystego nieruchomości gruntowej, z zastrzeżeniem ust. 2 i 2a, podlega aktualizacji nieczęściej niż raz na 3 lata, jeżeli wartość tej nieruchomości ulegnie zmianie. Zaktualizowaną opłatę roczną ustala się, przy zastosowaniu dotychczasowej stawki procentowej, od wartości nieruchomości określonej na dzień aktualizacji opłaty.
+1. rocznej z wania wieczystego gruntowej aktualizowana, nie raz w roku, tej ulegnie zmianie. Z zastrze ust. 2, ustala przy zastosowaniu dotychczasowej stawki procento wej, od na aktualizacji
 
-2. Jeżeli wartość nieruchomości gruntowej na dzień aktualizacji opłaty rocznej byłaby niższa niż ustalona w drodze przetargu cena tej nieruchomości w dniu oddania jej w użytkowanie wieczyste, aktualizacji nie dokonuje się. W przypadku nieruchomości oddanych w użytkowanie wieczyste na cele mieszkaniowe przepis stosuje się w okresie 5 lat, licząc od dnia zawarcia umowy o oddanie nieruchomości w użytkowanie wieczyste.
+2. gruntowej na aktualizacji rocznej usta lona w drodze przetargu cena tej w dniu oddania jej w wieczyste, aktualiza cji nie dokonuje
 
-2a. W przypadku gdy zaktualizowana wysokość opłaty rocznej przewyższa co najmniej dwukrotnie wysokość dotychczasowej opłaty rocznej, użytkownik wieczysty wnosi opłatę roczną w wysokości odpowiadającej dwukrotności dotychczasowej opłaty rocznej. Pozostałą kwotę ponad dwukrotność dotychczasowej opłaty (nadwyżka) rozkłada się na dwie równe części, które powiększają opłatę roczną w następnych dwóch latach. Opłata roczna w trzecim roku od aktualizacji jest równa kwocie wynikającej z tej aktualizacji.
+3. Aktualizacji rocznej dokonuje z albo na wniosek wieczystego nierucho gruntowej, na podstawie nieruchomo gruntowej przez wego.
 
-3. Aktualizacji opłaty rocznej dokonuje się z urzędu albo na wniosek użytkownika wieczystego nieruchomości gruntowej, na podstawie wartości nieruchomości gruntowej określonej przez rzeczoznawcę majątkowego.
-
-4. W przypadku aktualizacji opłaty rocznej na poczet różnicy między opłatą zaktualizowaną a opłatą dotychczasową zalicza się wartość niezaliczonych nakładów poniesionych przez użytkownika wieczystego na budowę poszczególnych urządzeń infrastruktury technicznej, o których mowa w art. 143 ust. 2, wybudowanych z udziałem środków, o których mowa w art. 143 ust. 1.
-
-5. (uchylony)
-
-6. Zasadę, o której mowa w ust. 4, stosuje się odpowiednio do nakładów koniecznych wpływających na cechy techniczno-użytkowe gruntu, poniesionych przez użytkownika wieczystego, o ile w ich następstwie wzrosła wartość nieruchomości gruntowej.
+4. Przy aktualizacji o której mowa w ust. 1, stosuje odpowiednio przepis art. 148 ust. 4.
 
 **Art. 78.**
 
-1. Aktualizacji opłaty rocznej dokonuje właściwy organ, wypowiadając w formie pisemnej wysokość dotychczasowej opłaty w terminie do dnia 31 grudnia roku poprzedzającego oraz przesyłając równocześnie ofertę przyjęcia nowej wysokości opłaty rocznej. W wypowiedzeniu należy wskazać sposób obliczenia nowej wysokości opłaty rocznej i pouczyć użytkownika wieczystego o sposobie zakwestionowania wypowiedzenia. Do wypowiedzenia dołącza się informację o wartości nieruchomości, o której mowa w art. 77 ust. 3, oraz o miejscu, w którym można zapoznać się z operatem szacunkowym. Do doręczenia wypowiedzenia stosuje się przepisy Kodeksu postępowania administracyjnego.
+1. organ zaktualizo z wieczystego gruntowej powinien na dotychczasowej do dnia 31 grudnia roku równocze nowej jej W wypowie dzeniu sposób obliczenia nowej wyso i wieczystego o spo sobie zakwestionowania wypowiedzenia. Do wypo wiedzenia o oszaco wania, o którym mowa wart. 77 ust. 3, oraz o miejscu, w którym z operatem szacunko wym.
 
-2. Użytkownik wieczysty może, w terminie 30 dni od dnia otrzymania wypowiedzenia, złożyć do samorządowego kolegium odwoławczego właściwego ze względu na miejsce położenia nieruchomości, zwanego dalej „kolegium”, wniosek o ustalenie, że aktualizacja opłaty rocznej jest nieuzasadniona albo jest uzasadniona w innej wysokości. Wniosek składa się za pośrednictwem właściwego organu.
+2. wieczysty w terminie 30 dni od dnia otrzymania wypowiedzenia, do samo kolegium ze na miejsce zwane go dalej "kolegium", wniosek o ustalenie, aktualiza cja jest nieuzasadniona albo jest uzasadniona w innej
 
-3. Wniosek, o którym mowa w ust. 2, składa się przeciwko właścicielowi nieruchomości. Ciężar dowodu, że istnieją przesłanki aktualizacji opłaty rocznej, spoczywa na właściwym organie.
+3. Wniosek, o którym mowa w ust. 2, przeciwko organowi. dowodu, do aktualizacji spoczywa na organie.
 
-4. Złożenie wniosku, o którym mowa w ust. 2, nie zwalnia z obowiązku wnoszenia opłat rocznych w dotychczasowej wysokości. W przypadku niezłożenia wniosku obowiązuje nowa wysokość opłaty rocznej zaoferowana w wypowiedzeniu. Przepis art. 79 ust. 5 stosuje się odpowiednio.
+4. wniosku, o którym mowa w ust. 2, nie zwalnia z uiszczania w dotychczaso wej W przypadku wniosku organ oraz wieczystego je nowa zaoferowana w wypowiedze niu. Przepis art. 79 ust. 5 stosuje odpowiednio.
 
 **Art. 79.**
 
-1. Wniosek do kolegium składa się w formie pisemnej w dwóch egzemplarzach.
+1. Wniosek do kolegium na pi w dwóch egzemplarzach. Podlega on skarbowej.
 
-2. W przypadku zaistnienia przesłanek określonych w art. 89 § 2 Kodeksu postępowania administracyjnego kolegium wyznacza niezwłocznie termin rozprawy.
+2. Kolegium wyznacza termin pierw szej rozprawy, organowi odpis wniosku.
 
-3. Kolegium powinno dążyć do polubownego załatwienia sprawy w drodze ugody. Jeżeli do ugody nie doszło, kolegium wydaje orzeczenie o oddaleniu wniosku lub o ustaleniu nowej wysokości opłaty. Od orzeczenia kolegium odwołanie nie przysługuje.
+3. Kolegium powinno do polubownego twienia sprawy w drodze ugody. do ugody nie kolegium wydaje orzeczenie o oddaleniu wnio sku lub o ustaleniu nowej Od orze czenia kolegium nie
 
-4. W przypadku oddalenia wniosku obowiązuje wysokość opłaty zaoferowana zgodnie z art. 78 ust. 1. Przepis ust. 5 stosuje się odpowiednio.
+4. W przypadku oddalenia wniosku wy zaoferowana zgodnie z art. 78 ust. 1. Przepis ust. 5 stosuje odpowiednio.
 
-5. Ustalona na skutek prawomocnego orzeczenia kolegium lub w wyniku zawarcia ugody nowa wysokość opłaty rocznej obowiązuje, począwszy od dnia 1 stycznia roku następującego po roku, w którym wypowiedziano wysokość dotychczasowej opłaty.
+5. Ustalona na skutek prawomocnego orzeczenia ko legium lub w wyniku zawarcia przed kolegium ugody nowa rocznej od dnia 1 stycznia roku po roku, w któ rym wypowiedziano dotychczasowej
 
-6. Kolegium przyznaje w orzeczeniu, na wniosek właściwego organu, zwrot kosztów postępowania od użytkownika wieczystego, jeżeli oddaliło w orzeczeniu wniosek, o którym mowa w ust. 1. Jeżeli kolegium w orzeczeniu uznało wniosek za zasadny, przyznaje, na wniosek użytkownika wieczystego, zwrot kosztów od właściwego organu.
+6. Na wniosek organu kolegium przy znaje w orzeczeniu zwrot kosztów i skarbowych od wieczystego, odda w orzeczeniu wniosek, o którym mowa w ust. 1. Je kolegiur.1 w orzeczeniu wniosek za zasadny, przyznaje na wniosek wieczystego zwrot kosztów i od organu.
 
-7. Do postępowania przed kolegium stosuje się odpowiednio przepisy Kodeksu postępowania administracyjnego o wyłączeniu pracownika oraz organu, o załatwianiu spraw, doręczeniach, wezwaniach, terminach i postępowaniu, z wyjątkiem przepisów dotyczących odwołań i zażaleń. Do postępowania, o którym mowa wyżej, stosuje się również przepisy o opłatach i kosztach.
+7. Do przed kolegium stosuje od powiednio przepisy Kodeksu admini stracyjnego o pracownika oraz organu, o spraw, wezwaniach, termi nach i z przepisów cych i oraz przepisów o i kosztach
 
-8. Przepisy ust. 4 i 5 stosuje się odpowiednio, jeżeli sprawę rozstrzygnięto prawomocnym wyrokiem sądu lub zawarto ugodę sądową, w następstwie wniesienia sprzeciwu.
+8. Przepisy ust. 4 i 5 stosuje odpowiednio, li prawomocnym wyrokiem du lub zawarto w wniesie nia sprzeciwu.
 
-9. Orzeczenie lub ugoda, której kolegium nadało klauzulę wykonalności, podlegają wykonaniu w drodze egzekucji sądowej.
+9. Orzeczenie lub ugoda, której kolegium wykonaniu w drodze egzekucji
 
 **Art. 80.**
 
-1. Od orzeczenia kolegium właściwy organ lub użytkownik wieczysty mogą wnieść sprzeciw w terminie 14 dni od dnia doręczenia orzeczenia. Wniesienie sprzeciwu jest równoznaczne z żądaniem przekazania sprawy do sądu powszechnego właściwego ze względu na miejsce położenia nieruchomości.
+1. Od orzeczenia kolegium organ lub wieczysty sprzeciw w ter minie 14 dni od dnia orzeczenia. Wniesie nie sprzeciwu jest równoznaczne z przekaza nia sprawy do powszechnego ze na miejsce
 
-2. Kolegium przekazuje właściwemu sądowi akta sprawy wraz ze sprzeciwem. Wniosek, o którym mowa w art. 78 ust. 2, zastępuje pozew.
+2. Kolegium przekazuje akta sprawy wraz ze sprzeciwem. Wniosek, o którym mowa wart. 78 ust. 2, pozew.
 
-3. W razie wniesienia sprzeciwu w terminie, orzeczenie traci moc, nawet gdy sprzeciw odnosi się tylko do części orzeczenia.
+3. W razie wniesienia sprzeciwu w terminie, orze czenie traci moc, nawet gdy sprzeciw odnosi tylko do orzeczenia.
 
-4. Jeżeli sprzeciw dotyczy wyłącznie kosztów postępowania, przepisu ust. 3 nie stosuje się, a właściwy sąd rozstrzyga o kosztach postępowania postanowieniem na posiedzeniu niejawnym.
+4. sprzeciw dotyczy kosztów po przepisu ust. 3 nie stosuje a rozstrzyga o kosztach postanowie niem na posiedzeniu niejawnym.
 
 **Art. 81.**
 
-1. Użytkownik wieczysty może żądać dokonania aktualizacji opłaty rocznej, jeżeli wartość nieruchomości uległa zmianie, a właściwy organ nie podjął aktualizacji. Doręczenie żądania powinno nastąpić w formie pisemnej w terminie do dnia 31 grudnia roku poprzedzającego aktualizację opłaty rocznej. W przypadku odmowy aktualizacji opłaty rocznej użytkownik wieczysty może, w terminie 30 dni od dnia otrzymania odmowy, skierować sprawę do kolegium. W przypadku nierozpatrzenia żądania w terminie 30 dni użytkownik wieczysty może, w terminie 90 dni od dnia doręczenia żądania, skierować sprawę do kolegium. Przepisy art. 77–80 stosuje się odpowiednio.
+1. wieczysty od organu dokonania aktualizacji rocz nej z wieczystego gruntowej, zmia nie, a organ nie aktualizacji W razie odmowy wieczysty skiero do kolegium. Przepisy art. 79 i 80 stosuje odpowiednio.
 
-2. Ciężar dowodu, że istnieją przesłanki do aktualizacji opłaty, spoczywa na użytkowniku wieczystym.
+2. dowodu, aktuali zacji spoczywa na wieczystym.
 
-3. W przypadku oddalenia wniosku przez kolegium obowiązuje opłata dotychczasowa.
+3. W przypadku oddalenia wniosku przez kolegium dotychczasowa.
 
-4. Nowa wysokość opłaty rocznej, ustalona w wyniku uwzględnienia żądania, o którym mowa w ust. 1, albo w wyniku prawomocnego orzeczenia kolegium lub zawarcia ugody, obowiązuje, począwszy od dnia 1 stycznia roku następującego po roku, w którym użytkownik wieczysty zażądał jej aktualizacji.
+4. Ustalona w wyniku prawomocnego orzeczenia kolegium lub ugody zawartej przed kolegium nowa rocznej od dnia 1 stycznia roku po roku, w którym wieczysty jej aktualizacji.
 
-5. Przepisy ust. 3 i 4 stosuje się odpowiednio, jeżeli sprawę rozstrzygnięto prawomocnym wyrokiem sądu lub zawarto ugodę sądową, w następstwie wniesienia sprzeciwu.
+5. Przepisy ust. 3 i 4 stosuje odpowiednio, li prawomocnym wyrokiem du lub zawarto w wniesie nia sprzeciwu.
 
 **Art. 82.**
 
-1. Za nieruchomość oddaną w trwały zarząd pobiera się opłaty roczne.
+1. Za w za pobiera roczne.
 
-2. Opłaty roczne uiszcza się przez cały okres trwałego zarządu, w terminie do dnia 31 marca każdego roku, z góry za dany rok. W pierwszym roku po ustanowieniu trwałego zarządu opłatę roczną uiszcza się najpóźniej po upływie 30 dni od dnia, w którym decyzja o oddaniu nieruchomości w trwały zarząd stała się ostateczna. Opłatę tę ustala się proporcjonalnie w stosunku do pozostałego do wykorzystania w danym roku okresu trwałego zarządu.
+2. roczne uiszcza przez okres go w terminie do dnia 31 marca ro ku, z góry za dany rok. W pierwszym roku po ustano wieniu uiszcza naj po 30 dni od dnia, w którym decyzja o oddaniu w ostateczna. ustala proporcjonalnie w sto sunku do do wykorzystania w danym ro ku okresu
 
-3. Właściwy organ może, na wniosek jednostki organizacyjnej złożony niepóźniej niż 14 dni przed upływem terminu uiszczenia opłaty rocznej, ustalić inny termin uiszczenia tej opłaty, nieprzekraczający danego roku kalendarzowego.
+3. organ, na wniosek jednostki organiza cyjnej, inny termin rocznej. nie danego roku kalendarzowego.
 
 **Art. 83.**
 
-1. Opłaty z tytułu trwałego zarządu ustala się według stawki procentowej od ceny nieruchomości ustalonej zgodnie z art. 67 ust. 3.
+1. z ustala stawki procentowej od ceny ustalonej zgodnie z art. 67 ust. 3.
 
-2. Wysokość stawek procentowych opłat rocznych z tytułu trwałego zarządu jest uzależniona od celu, na jaki nieruchomość została oddana, i wynosi:
+2. stawek procentowych rocznych z jest od celu, na jaki oddana, i wynosi:
 
-- **1)** za nieruchomości oddane na cele obronności i bezpieczeństwa państwa, w tym ochrony przeciwpożarowej – 0,1 % ceny;
-- **2)** za nieruchomości oddane na cele mieszkaniowe, na realizację urządzeń infrastruktury technicznej i innych celów publicznych, działalność charytatywną, opiekuńczą, kulturalną, leczniczą, oświatową, naukową, badawczo-rozwojową, wychowawczą, sportową lub turystyczną, a także na siedziby organów władzy i administracji publicznej niewymienionych w art. 60 ust. 1 – 0,3 % ceny;
-- **3)** za pozostałe nieruchomości – 1 % ceny.
+- **1)** za oddane na cele i bez w tym ochrony przeciwpo - 0,1% ceny,
+- **2)** za oddane pod budownictwo mieszkaniowe, na infrastruktu ry technicznej i innych celów publicznych, leczni lub a na siedziby organów i administracji stwowej nie wymienionych wart. 60 - 0,3% ceny,
+- **3)** za - 1% ceny.
 
-3. Nie pobiera się opłat rocznych za nieruchomości oddane w trwały zarząd pod drogi publiczne, parki, zieleńce, ogrody botaniczne, ogrody zoologiczne oraz rezerwaty przyrody.
+3. Nie pobiera rocznych za oddane w pod drogi publiczne.
 
 **Art. 84.**
 
-1. Jeżeli nieruchomość oddana w trwały zarząd jest wykorzystywana na więcej niż jeden cel, stawkę procentową opłaty rocznej przyjmuje się dla tego celu, który w decyzji o oddaniu w trwały zarząd został określony jako podstawowy.
+1. oddana w za jest wykorzystywana na jeden cel, staw rocznej przyjmuje dla tego celu, który w decyzji o oddaniu w jako podstawowy.
 
-2. Jeżeli po oddaniu nieruchomości w trwały zarząd nastąpi trwała zmiana sposobu korzystania z nieruchomości, stawkę procentową opłaty rocznej zmienia się stosownie do zmienionego sposobu korzystania. Zmiany stawki procentowej opłaty rocznej dokonuje się w drodze decyzji właściwego organu.
+2. po oddaniu w za zmiana sposobu korzystania z nie rocznej zmie nia stosownie do zmienionego sposobu korzysta nia. Zmiany stawki procentowej rocznej doko nuje w drodze decyzji organu.
 
-3. Właściwy organ może udzielić, za zgodą odpowiednio wojewody albo rady lub sejmiku, bonifikaty od opłat rocznych ustalonych zgodnie z przepisem art. 83 ust. 2, jeżeli nieruchomość jest oddana:
+3. organ za odpo wiednio wojewody lub rady gminy, bonifikaty od rocznych ustalonych zgodnie z przepisem art. 83 ust. 2, jest oddawana:
 
-- **1)** na cele mieszkaniowe, na realizację urządzeń infrastruktury technicznej oraz innych celów publicznych;
-- **2)** jednostkom organizacyjnym, które prowadzą działalność charytatywną, opiekuńczą, kulturalną, leczniczą, oświatową, naukową, badawczo-rozwojową, wychowawczą, sportową lub turystyczną, na cele niezwiązane z działalnością zarobkową;
-- **3)** na siedziby organów administracji publicznej i sądów niewymienionych w art. 60 ust. 1 oraz prokuratur;
-- **4)** na siedziby aresztów śledczych, zakładów karnych i zakładów dla nieletnich.
+- **1)** pod budownictwo mieszkaniowe, na infrastruktury technicznej oraz innych celów publicznych,
+- **2)** jednostkom organizacyjnym, które dzia lecz badawczo-rozwojo na cele nie z
+- **3)** na siedziby organów administracji i nie wymienionych wart. 60 oraz prokura tur,
+- **4)** na siedziby karnych i dla nielet nich.
 
-4. Ustalone, zgodnie z art. 83 ust. 2 pkt 3, opłaty z tytułu trwałego zarządu obniża się o 50 %, jeżeli nieruchomość lub jej część składowa zostały wpisane do rejestru zabytków. Właściwy organ może, za zgodą odpowiednio wojewody albo rady lub sejmiku, podwyższyć lub obniżyć tę bonifikatę.
+4. Ustalone, zgodnie z art. 83 ust. 2 pkt 3, z ty o 50%, nierucho lub jej wpisane do reje stru zabytków. organ za odpo wiednio wojewody lub rady gminy, lub
 
-4a. W razie zbiegu praw do bonifikat z tytułów, o których mowa w ust. 3 i ust. 4, stosuje się jedną bonifikatę korzystniejszą dla jednostki organizacyjnej.
-
-5. Wysokość opłat rocznych oraz udzielonych bonifikat i sposób zapłaty tych opłat ustala się w decyzji właściwego organu.
+5. rocznych oraz udzielonych boni fikat i sposób tych ustala w decyzji organu.
 
 **Art. 85.**
 
-1. Jednostka organizacyjna sprawująca trwały zarząd nieruchomością, która oddała nieruchomość lub jej część w najem lub dzierżawę, może być pozbawiona przysługującej jej bonifikaty, o której mowa w art. 84 ust. 3 i 4, a ponadto może być zobowiązana do uiszczania opłat rocznych w wysokości 1 % ceny nieruchomości. Pozbawienie bonifikaty oraz zmiana opłaty rocznej następuje w drodze decyzji właściwego organu.
+1. ,Jednostka organizacyjna która nieru w najem lub jest do uiszczania rocznych w 1% ceny nieru i nie jej bonifikaty, o których mo wa wart. 84 ust. 3 i 4. Zmiana stawki procentowej ty rocznej oraz pozbawienie bonifikaty w drodze decyzji organu.
 
-2. Jeżeli po oddaniu nieruchomości w trwały zarząd nastąpiła trwała zmiana celu wykorzystywania nieruchomości, będącego podstawą udzielonej bonifikaty, właściwy organ pozbawia przyznanej bonifikaty w drodze decyzji.
+2. po oddaniu w za zmiana celu wykorzystywania udzielonej bonifi katy, organ pozbawia przyznanej bonifikaty w drodze decyzji.
 
-**Art. 86.** Stawka procentowa opłaty rocznej z tytułu trwałego zarządu nieruchomości, o których mowa w art. 83 ust. 2 pkt 3, może być podwyższona zarządzeniem wojewody w stosunku do nieruchomości stanowiących własność Skarbu Państwa albo uchwałą odpowiednio rady lub sejmiku w stosunku do nieruchomości stanowiących własność jednostek samorządu terytorialnego. Podwyższenie stawki procentowej może nastąpić tylko przed oddaniem nieruchomości w trwały zarząd.
+**Art. 86.** Stawka procentowa rocznej z o których mowa wart. 83 ust. 2 pkt 3, niem wojewody w stosunku do stano Skarbu lub rady gminy w stosunku do gminy. stawki procentowej tylko przed oddaniem w
 
 **Art. 87.**
 
-1. Wysokość opłaty rocznej z tytułu trwałego zarządu nieruchomości może być aktualizowana, nieczęściej niż raz w roku, jeżeli wartość tej nieruchomości ulegnie zmianie. Zaktualizowaną opłatę roczną ustala się według dotychczasowej stawki procentowej od wartości nieruchomości określonej na dzień aktualizacji opłaty.
+1. rocznej z go aktualizowana, nie raz w roku, tej nierucho ulegnie zmianie. ustala dotychczasowej stawki procentowej od na aktuali zacji
 
-2. Aktualizacji opłaty rocznej dokonuje się, z urzędu albo na wniosek jednostki organizacyjnej posiadającej nieruchomość w trwałym zarządzie, na podstawie wartości nieruchomości określonej przez rzeczoznawcę majątkowego.
+2. Aktualizacji rocznej dokonuje z albo na wniosek jednostki organizacyjnej w na podstawie warprzez
 
-3. Aktualizacji opłaty rocznej dokonuje się w drodze decyzji właściwego organu. Nowa wysokość opłaty rocznej obowiązuje począwszy od dnia 1 stycznia roku następującego po roku, w którym decyzja stała się ostateczna.
+3. Aktualizacji rocznej dokonuje w drodze decyzji organu. Nowa rocznej od dnia 1 stycznia roku po roku, w którym decyzja ostateczna.
 
-4. Przy aktualizacji opłaty, na poczet różnicy między opłatą dotychczasową a opłatą zaktualizowaną, zalicza się wartość nakładów poniesionych przez jednostkę organizacyjną, po dniu dokonania ostatniej aktualizacji, na budowę poszczególnych urządzeń infrastruktury technicznej.
-
-5. Zaliczenie wartości nakładów poniesionych przez jednostkę organizacyjną na budowę poszczególnych urządzeń infrastruktury technicznej następuje również w przypadku, gdy nie zostały one uwzględnione w poprzednio dokonywanych aktualizacjach.
-
-6. Zasady, o których mowa w ust. 4 i 5, stosuje się odpowiednio do nakładów koniecznych wpływających na cechy techniczno-użytkowe gruntu, poniesionych przez jednostkę organizacyjną, o ile w ich następstwie wzrosła wartość nieruchomości gruntowej.
+4. Przy aktualizacji o której mowa w ust. 1, stosuje odpowiednio przepis art. 148 ust. 4.
 
 **Art. 88.**
 
-1. Jeżeli jednostka organizacyjna poniosła nakłady na wybudowanie budynków i innych urządzeń trwale związanych z gruntem, położonych na nieruchomości oddanej w trwały zarząd, wartości tych nakładów nie uwzględnia się w cenie nieruchomości będącej podstawą do ustalenia opłat z tytułu trwałego zarządu. Przepis ten stosuje się odpowiednio w przypadku nabycia budynków i innych urządzeń w trybie, o którym mowa w art. 17.
+1. jednostka organizacyjna wybudo budynki i inne trwale z grun tem, na oddanej w za ich nie w cenie nierucho do ustalenia z Przepis ten stosuje odpowiednio w przypadku nabycia budynków i innych w trybie, o którym mowa wart. 17.
 
-2. Przepis ust. 1 stosuje się odpowiednio w przypadku innych robót budowlanych wykonanych zgodnie z przepisami prawa budowlanego.
+2. Przepis ust.l stosuje odpowiednio w przypad ku odbudowy, rozbudowy, nadbudowy, przebudowy lub modernizacji budynków i innych trwale z gruntem, na
 
-**Art. 89.** W razie nabycia trwałego zarządu z mocy prawa, opłaty roczne ustala właściwy organ w drodze decyzji. Opłaty tej nie pobiera się za rok, w którym nastąpiło nabycie trwałego zarządu.
+**Art. 89.** W razie nabycia z mocy prawa, roczne ustala organ w drodze decyzji. tej nie pobiera za rok, w którym na nabycie
 
 **Art. 90.**
 
-1. Przy przekazywaniu trwałego zarządu nieruchomości przez jednostkę organizacyjną na wniosek innej jednostki organizacyjnej dokonują one między sobą rozliczenia z tytułu nakładów na tę nieruchomość poniesionych w związku z wykonaniem robót budowlanych zgodnie z przepisami prawa budowlanego. Sposób rozliczenia ustala się w porozumieniu między jednostkami organizacyjnymi.
+1. Przy przekazywaniu przez na wnio sek innej jednostki organizacyjnej one dzy rozliczenia z na tej nierucho poniesionych na rozbudo lub bu dynków i innych trwale z grun tem. Sposób rozliczenia ustala w porozumieniu jednostkami organizacyjnymi.
 
-2. W razie wygaśnięcia trwałego zarządu na skutek upływu okresu, na który został ustanowiony, albo wydania decyzji o jego wygaśnięciu, właściwy organ zwraca jednostce organizacyjnej kwotę równą wartości nakładów, o których mowa w ust. 1.
+2. W razie na skutek okresu, na który ustanowiony, albo wy dania decyzji o jego organ zwraca jednostce organizacyjnej o których mowa w ust. 1. Przy ustalaniu poniesionych bierze za faktycznie wykonane roboty oraz ich w dniu
 
-3. Jeżeli wygaśnięcie trwałego zarządu nastąpiło na wniosek jednostki organizacyjnej, rozliczeń, o których mowa w ust. 1, nie dokonuje się, a jednostka organizacyjna jest zwolniona z obowiązku wnoszenia opłat rocznych począwszy od dnia złożenia wniosku. Opłat wniesionych do dnia złożenia wniosku nie zwraca się.
+3. na wniosek jednostki organizacyjnej, o któ rych mowa w ust. 1, nie dokonuje a jednostka or ganizacyjna jest zwolniona z wnoszenia rocznych od dnia wniosku. wniesionych do dnia wniosku nie zwra ca
 
-4. Przepis art. 88 ust. 1 stosuje się odpowiednio, jeżeli jednostka organizacyjna, sprawująca trwały zarząd, rozliczyła się z tytułu poniesionych nakładów, stosownie do ust. 1, z jednostką organizacyjną, na wniosek której nastąpiło przekazanie trwałego zarządu.
+4. Przepis art. 88 ust. 1 stosuje odpowiednio, je jednostka organizacyjna z poniesionych stosow nie do ust. 1.
 
-**Art. 91.** Rada Ministrów określi, w drodze rozporządzenia, rodzaje nieruchomości uznawanych za niezbędne na cele obronności i bezpieczeństwa państwa, uwzględniając ich przeznaczenie, wyposażenie i lokalizację.
+**Art. 91.** Rada Ministrów w drodze dzenia, rodzaje uznawanych za nie na cele i III Wykonywanie, ograniczanie lub pozbawianie praw do 1
 
-### DZIAŁ III Wykonywanie, ograniczanie lub pozbawianie praw do nieruchomości
-
-#### Rozdział 1 Podziały nieruchomości
-
-**Art. 92.**
-
-1. Przepisów niniejszego rozdziału nie stosuje się do nieruchomości położonych na obszarach przeznaczonych w planach miejscowych na cele rolne i leśne, a w przypadku braku planu miejscowego do nieruchomości wykorzystywanych na cele rolne i leśne, chyba że dokonanie podziału spowodowałoby konieczność wydzielenia nowych dróg niebędących niezbędnymi drogami dojazdowymi do nieruchomości wchodzących w skład gospodarstw rolnych albo spowodowałoby wydzielenie działek gruntu o powierzchni mniejszej niż 0,3000 ha.
-
-2. Za nieruchomości wykorzystywane na cele rolne i leśne uznaje się nieruchomości wykazane w katastrze nieruchomości jako użytki rolne albo grunty leśne oraz zadrzewione i zakrzewione, a także wchodzące w skład nieruchomości rolnych użytki kopalne, nieużytki i drogi, jeżeli nie ustalono dla nich warunków zabudowy i zagospodarowania terenu.
+**Art. 92.** Przepisów niniejszego nie stosu je do na obszarach przeznaczonych w planach miejscowych na cele rolne i chyba dokonanie wydzielenia nowych dróg.
 
 **Art. 93.**
 
-1. Podziału nieruchomości można dokonać, jeżeli jest on zgodny z ustaleniami planu miejscowego. W razie braku tego planu stosuje się przepisy art. 94.
+1. jest on zgodny z ustaleniami planu miejscowego. W razie braku tego planu stosuje przepis art. 94.
 
-2. Zgodność z ustaleniami planu w myśl ust. 1 dotyczy zarówno przeznaczenia terenu, jak i możliwości zagospodarowania wydzielonych działek gruntu.
+2. z ustaleniami planu w ust. 1 do tyczy zarówno przeznaczenia terenu, jak i zagospodarowania wydzielonych gruntu.
 
-2a. Podział nieruchomości położonych na obszarach przeznaczonych w planach miejscowych na cele rolne i leśne, a w przypadku braku planu miejscowego wykorzystywanych na cele rolne i leśne, powodujący wydzielenie działki gruntu o powierzchni mniejszej niż 0,3000 ha, jest dopuszczalny, pod warunkiem że działka ta zostanie przeznaczona na powiększenie sąsiedniej nieruchomości lub dokonana zostanie regulacja granic między sąsiadującymi nieruchomościami. W decyzji zatwierdzającej podział nieruchomości określa się termin na przeniesienie praw do wydzielonych działek gruntu, który nie może być dłuższy niż 6 miesięcy od dnia, w którym decyzja zatwierdzająca podział nieruchomości stała się ostateczna. Przepisu nie stosuje się w przypadku podziałów nieruchomości, o których mowa w art. 95.
+3. nie jest dopuszczalny, je projektowane do wydzielenia gruntu nie do drogi publicznej; za do drogi publicznej ustano wienie dla wydzielonych gruntu odpowiednich drogowych, nie ma wy dzielenia drogi z
 
-3. Podział nieruchomości nie jest dopuszczalny, jeżeli projektowane do wydzielenia działki gruntu nie mają dostępu do drogi publicznej; za dostęp do drogi publicznej uważa się również wydzielenie drogi wewnętrznej wraz z ustanowieniem na tej drodze odpowiednich służebności dla wydzielonych działek gruntu albo ustanowienie dla tych działek innych służebności drogowych, jeżeli nie ma możliwości wydzielenia drogi wewnętrznej z nieruchomości objętej podziałem. Nie ustanawia się służebności na drodze wewnętrznej w przypadku sprzedaży wydzielonych działek gruntu wraz ze sprzedażą udziału w prawie do działki gruntu stanowiącej drogę wewnętrzną. Przepisu nie stosuje się w odniesieniu do projektowanych do wydzielenia działek gruntu stanowiących części nieruchomości, o których mowa w art. 37 ust. 2 pkt 6.
+4. proponowanego nierucho z ustaleniami planu miejscowego, z niem art. 94, opiniuje wójt, burmistrz albo prezydent miasta.
 
-3a. Warunku, o którym mowa w ust. 2a, dotyczącego wydzielenia działki gruntu o powierzchni mniejszej niż 0,3000 ha, nie stosuje się do działek gruntu projektowanych do wydzielenia pod drogi wewnętrzne.
+5. o której mowa w ust. 4, w for mie postanowienia, na które
 
-3b. Jeżeli przedmiotem podziału jest nieruchomość zabudowana, a proponowany jej podział powoduje także podział budynku, granice projektowanych do wydzielenia działek gruntu powinny przebiegać wzdłuż pionowych płaszczyzn, które tworzone są przez ściany oddzielenia przeciwpożarowego usytuowane na całej wysokości budynku od fundamentu do przekrycia dachu. W budynkach, w których nie ma ścian oddzielenia przeciwpożarowego, granice projektowanych do wydzielenia działek gruntu powinny przebiegać wzdłuż pionowych płaszczyzn, które tworzone są przez ściany usytuowane na całej wysokości budynku od fundamentu do przekrycia dachu, wyraźnie dzielące budynek na dwie odrębnie wykorzystywane części.
-
-4. Zgodność proponowanego podziału nieruchomości z ustaleniami planu miejscowego, z wyjątkiem podziałów, o których mowa w art. 95, opiniuje wójt, burmistrz albo prezydent miasta. W przypadku podziału nieruchomości położonej na obszarze, dla którego brak jest planu miejscowego, opinia dotyczy spełnienia warunków, o których mowa w art. 94 ust. 1.
-
-5. Opinię, o której mowa w ust. 4, wyraża się w formie postanowienia, na które przysługuje zażalenie.
-
-6. (uchylony)
+6. ustalenia planu miejscowego nie zawiera zasad wa runki ustala w decyzji o warunkach zabu dowy i zagospodarowania terenu.
 
 **Art. 94.**
 
-1. W przypadku braku planu miejscowego – jeżeli nieruchomość jest położona na obszarze nieobjętym obowiązkiem sporządzenia tego planu – podziału nieruchomości można dokonać, jeżeli:
+1. W razie braku planu miejscowego - je jest na obszarze nie tym planu miejscowego, a gmina nie o do tego planu - zasady ustala w decyzji o warunkach zabudowy i zagospodaro wania terenu.
 
-- **1)** nie jest sprzeczny z przepisami odrębnymi, albo
-- **2)** jest zgodny z warunkami określonymi w decyzji o warunkach zabudowy i zagospodarowania terenu.
+2. w przypadku, o którym mowa w ust. 1, gmina o do planu miejscowego przed wniosku o nie w sprawie zawie sza do czasu uchwalenia tego planu, jednak nie na okres 12 w okresie zawieszenia plan miejscowy nie zostanie uchwa lony, stosuje przepis ust. 1.
 
-2. Jeżeli w przypadku, o którym mowa w ust. 1, wniosek o podział został złożony:
+3. nie uchwalony plan miejscowy dla obszarów takiego planu, w sprawie zawiesza do czasu uchwalenia tego planu.
 
-- **1)** po upływie 6 miesięcy, licząc od dnia podjęcia przez gminę uchwały o przystąpieniu do sporządzenia planu miejscowego, lub
-- **2)** po wyłożeniu projektu planu miejscowego do publicznego wglądu – postępowanie w sprawie podziału nieruchomości zawiesza się do czasu uchwalenia planu miejscowego, jednak niedłużej niż na okres 6 miesięcy, licząc od dnia złożenia wniosku o podział. Jeżeli w okresie zawieszenia postępowania w sprawie podziału nieruchomości plan miejscowy nie zostanie uchwalony, stosuje się przepis ust. 1.
-
-3. Jeżeli nie został uchwalony plan miejscowy dla obszarów objętych, na mocy przepisów odrębnych, obowiązkiem sporządzenia takiego planu, postępowanie w sprawie podziału nieruchomości zawiesza się do czasu uchwalenia tego planu.
-
-**Art. 95.** Niezależnie od ustaleń planu miejscowego, a w przypadku braku planu niezależnie od decyzji o warunkach zabudowy i zagospodarowania terenu, podział nieruchomości może nastąpić w celu:
+**Art. 95.** Niezależnie od planu miejscowego w celu: zniesienia zabudo wanej co najmniej dwoma budynkami, wzniesio nymi na podstawie pozwolenia na ma na wydzieleniu dla poszczegól nych wskazanych we wspólnym wniosku, budynków wraz z gruntu nie do korzystania z tych bu dynków, wydzielenia gruntu pod bu dynkiem, do korzystania z niego, budynek ten wzniesiony w do brej wierze przez samoistnego posiadacza, wydzielenia której lub wieczyste nabyte z mocy prawa, realizacji do wyni z przepisów niniejszej ustawy lub z nych ustaw, realizacji przepisów albo likwidacji stwowych lub komunalnych, wydzielenia o ustaleniu lokalizacji autostrady.
 
 **Art. 96.**
 
-1. Podziału nieruchomości dokonuje się na podstawie decyzji wójta, burmistrza albo prezydenta miasta zatwierdzającej podział.
+1. dokonuje na podstawie decyzji wójta, burmistrza albo prezydenta miasta, projekt Projekt po powinien na aktualnej mapie do zasobu geodezyjnego i kar tograficznego.
 
-1a. W odniesieniu do nieruchomości wpisanej do rejestru zabytków decyzję, o której mowa w ust. 1, wydaje się po uzyskaniu pozwolenia wojewódzkiego konserwatora zabytków na podział tej nieruchomości.
+2. W przypadku gdy o podziale orzeka nie wy daje decyzji, o której mowa w ust. 1. jest od planu miejscowego, opinii wójta, burmistrza albo prezydenta mia sta. Do opinii tej nie stosuje art. 93 ust. 5.
 
-1b. W przypadku wydzielenia nieruchomości, której własność lub użytkowanie wieczyste zostały nabyte z mocy prawa, albo w przypadku wydzielenia części nieruchomości na potrzeby zwrotu wywłaszczonej nieruchomości nie wydaje się decyzji, o której mowa w ust. 1. Ostateczna decyzja o nabyciu własności lub użytkowania wieczystego albo ostateczna decyzja o zwrocie wywłaszczonej nieruchomości zatwierdza podział.
+3. na wydziele niu w jej gruntu i oznaczonych w katastrze nie wymaga wydania decyzji projekt
 
-2. W przypadku gdy o podziale nieruchomości orzeka sąd, nie wydaje się decyzji, o której mowa w ust. 1, i pozwolenia, o którym mowa w ust. 1a. Jeżeli podział nieruchomości jest uzależniony od ustaleń planu miejscowego, a w razie braku planu – od warunków określonych w art. 94 ust. 1 i 2, sąd zasięga opinii wójta (burmistrza, prezydenta miasta), a w odniesieniu do nieruchomości wpisanej do rejestru zabytków także opinii wojewódzkiego konserwatora zabytków. Do opinii tych nie stosuje się art. 93 ust. 5.
-
-3. Podział nieruchomości polegający na wydzieleniu wchodzących w jej skład działek gruntu, odrębnie oznaczonych w katastrze nieruchomości, nie wymaga wydania decyzji zatwierdzającej podział.
-
-4. Decyzja lub orzeczenie sądu, o których mowa w ust. 1 i 2, stanowią podstawę do dokonania wpisów w księdze wieczystej oraz w katastrze nieruchomości.
+4. Decyzja lub orzeczenie o których mowa w ust. 1 i 2, do dokonania wpi sów w wieczystej oraz w katastrze nierucho
 
 **Art. 97.**
 
-1. Podziału nieruchomości dokonuje się na wniosek i koszt osoby, która ma w tym interes prawny.
+1. dokonuje na wniosek i koszt osoby, która ma w tym interes prawny.
 
-1a. Do wniosku, o którym mowa w ust. 1, należy dołączyć następujące dokumenty:
+2. jest lub wieczystym, na wniosek albo wieczystych. Przepis art. 199 Ko deksu cywilnego stosuje odpowiednio. Nie dotyczy to o którym orzeka
 
-- **1)** stwierdzające tytuł prawny do nieruchomości w szczególności oświadczenie, o którym mowa w art. 116 ust. 2 pkt 4;
-- **2)** wypis z katastru nieruchomości i kopię mapy katastralnej obejmującej nieruchomość podlegającą podziałowi;
-- **3)** decyzję o warunkach zabudowy i zagospodarowania terenu, w przypadku, o którym mowa w art. 94 ust. 1 pkt 2;
-- **3a)** pozwolenie, o którym mowa w art. 96 ust. 1a, w przypadku nieruchomości wpisanej do rejestru zabytków;
-- **4)** wstępny projekt podziału, z wyjątkiem podziałów, o których mowa w art. 95;
-- **5)** protokół z przyjęcia granic nieruchomości;
-- **6)** wykaz zmian gruntowych;
-- **7)** wykaz synchronizacyjny, jeżeli oznaczenie działek gruntu w katastrze nieruchomości jest inne niż w księdze wieczystej;
-- **8)** mapę z projektem podziału.
+3. z du, jest on do realizacji celów publicznych, stanowi gminy i nie zosta oddana w wieczyste.
 
-1b. Jeżeli jest wymagane wyrażenie opinii, o której mowa w art. 93 ust. 4 i 5, lub uzyskanie pozwolenia wojewódzkiego konserwatora zabytków, o którym mowa w art. 96 ust. 1a, dokumenty wymienione w ust. 1a pkt 5–8 dołącza się do wniosku o podział nieruchomości po uzyskaniu pozytywnej opinii lub pozwolenia. Dokumenty te podlegają przyjęciu do państwowego zasobu geodezyjnego i kartograficznego.
+4. W przypadkach, o których mowa wart. 95 pkt 3-6, z du albo na wniosek kierownika rejonowego.
 
-2. Jeżeli nieruchomość jest przedmiotem współwłasności lub współużytkowania wieczystego, podziału można dokonać na wniosek wszystkich współwłaścicieli albo współużytkowników wieczystych. Przepis art. 199 Kodeksu cywilnego stosuje się odpowiednio. Nie dotyczy to podziału, o którym orzeka sąd.
-
-2a. Wniosek o dokonanie podziału, o którym mowa w art. 95 pkt 4a, może złożyć zarząd spółdzielni mieszkaniowej, zarząd wspólnoty mieszkaniowej lub zarządca, któremu powierzono zarząd nieruchomością wspólną w sposób określony w art. 18 ust. 1 ustawy z dnia 24 czerwca 1994 r. o własności lokali. Do wniosku nie stosuje się przepisu art. 22 ust. 3 pkt 6 ustawy z dnia 24 czerwca 1994 r. o własności lokali.
-
-3. Podziału nieruchomości można dokonać z urzędu, jeżeli:
-
-- **1)** jest on niezbędny do realizacji celów publicznych;
-- **2)** nieruchomość stanowi własność gminy i nie została oddana w użytkowanie wieczyste.
-
-4. W przypadkach, o których mowa w art. 95 pkt 3–5, podziału nieruchomości można dokonać z urzędu albo na wniosek odpowiednio starosty, wykonującego zadanie z zakresu administracji rządowej, zarządu powiatu albo zarządu województwa.
-
-5. Podziału nieruchomości stanowiącej własność Skarbu Państwa, powiatu lub województwa można dokonać z urzędu, po zasięgnięciu opinii odpowiednio starosty, wykonującego zadanie z zakresu administracji rządowej, zarządu powiatu lub zarządu województwa.
-
-6. Podziału nieruchomości, o którym mowa w ust. 3 pkt 1, można również dokonać na koszt osoby lub jednostki organizacyjnej, która będzie realizowała cel publiczny.
-
-**Art. 97a.** W przypadku dokonywania z urzędu podziału nieruchomości o nieuregulowanym stanie prawnym stosuje się następujące zasady:
+5. Skarbu z po opinii kierownika rejonowego.
 
 **Art. 98.**
 
-1. Działki gruntu wydzielone pod drogi publiczne: gminne, powiatowe, wojewódzkie, krajowe – z nieruchomości, której podział został dokonany na wniosek właściciela, przechodzą, z mocy prawa, odpowiednio na własność gminy, powiatu, województwa lub Skarbu Państwa z dniem, w którym decyzja zatwierdzająca podział stała się ostateczna albo orzeczenie o podziale prawomocne. Przepis ten stosuje się także do nieruchomości, której podział został dokonany na wniosek użytkownika wieczystego, z tym że prawo użytkowania wieczystego działek gruntu wydzielonych pod drogi publiczne wygasa z dniem, w którym decyzja zatwierdzająca podział stała się ostateczna albo orzeczenie o podziale prawomocne. Przepis stosuje się odpowiednio przy wydzielaniu działek gruntu pod poszerzenie istniejących dróg publicznych.
+1. gruntu wydzielone pod drogi z której dokonany na wniosek z mocy prawa na gminy z dniem, w którym decyzja o podziale sta ostateczna, a orzeczenie o podziale prawomocne. Skarbu dokonany na wniosek nika wieczystego, prawo wieczystego gruntu wydzielonych pod drogi przechodzi na rzecz gminy. stano gminy dokonany na wniosek wieczystego, prawo wieczy stego gruntu wydzielonych pod drogi wygasa.
 
-2. Właściwy organ składa wniosek o ujawnienie w księdze wieczystej praw gminy, powiatu, województwa lub Skarbu Państwa do działek gruntu wydzielonych pod drogi publiczne lub pod poszerzenie istniejących dróg publicznych. Podstawą wpisu tych praw do księgi wieczystej jest ostateczna decyzja zatwierdzająca podział.
+2. Wniosek o ujawnienie w wieczystej praw gminy do gruntu wydzielonych pod drogi da wójt, burmistrz albo prezydent miasta.
 
-3. Za działki gruntu, o których mowa w ust. 1, przysługuje odszkodowanie w wysokości uzgodnionej między właścicielem lub użytkownikiem wieczystym a właściwym organem. Przepis art. 131 stosuje się odpowiednio. Jeżeli do takiego uzgodnienia nie dojdzie, na wniosek właściciela lub użytkownika wieczystego odszkodowanie ustala się i wypłaca według zasad i trybu obowiązujących przy wywłaszczaniu nieruchomości.
+3. Za gruntu, które na gminy lub co do których gmina prawo kowania wieczystego, a z te go prawa, odszkodowanie w uzgodnionej lub wieczystym a gminy. do takiego uzgodnienia nie dojdzie, odszkodowanie ustala zasad i trybu przy czaniu Odszkodowanie gmi na.
 
-**Art. 98a.**
+4. w wyniku wzro jej gminy z tego w kwocie nie 50%
 
-1. Jeżeli w wyniku podziału nieruchomości dokonanego na wniosek właściciela lub użytkownika wieczystego, który wniósł opłaty roczne za cały okres użytkowania tego prawa, wzrośnie jej wartość, wójt, burmistrz albo prezydent miasta może ustalić, w drodze decyzji, opłatę adiacencką z tego tytułu. Wysokość stawki procentowej opłaty adiacenckiej ustala rada gminy, w drodze uchwały, w wysokości niewiększej niż 30 % różnicy wartości nieruchomości. Wszczęcie postępowania w sprawie ustalenia opłaty adiacenckiej może nastąpić w terminie do 3 lat od dnia, w którym decyzja zatwierdzająca podział nieruchomości stała się ostateczna albo orzeczenie o podziale stało się prawomocne. Przepisy art. 144 ust. 2, art. 146 ust. 1a, art. 147 i art. 148 ust. 1–3 stosuje się odpowiednio.
+**Art. 99.** Jeżeli zapewnienie do drogi pu blicznej, o którym mowa wart. 93 ust. 3, wymaga usta nowienia drogowej, nierucho dokonuje pod warunkiem, przy zbywaniu wydzielonych w wyniku zostanie ona ustanowiona.
 
-1a. Ustalenie opłaty adiacenckiej może nastąpić, jeżeli w dniu, w którym decyzja zatwierdzająca podział nieruchomości stała się ostateczna albo orzeczenie o podziale nieruchomości stało się prawomocne, obowiązywała uchwała rady gminy, o której mowa w ust. 1. Do ustalenia opłaty adiacenckiej przyjmuje się stawkę procentową obowiązującą w dniu, w którym decyzja zatwierdzająca podział nieruchomości stała się ostateczna albo orzeczenie o podziale nieruchomości stało się prawomocne.
-
-1b. Wartość nieruchomości przed podziałem i po podziale określa się według cen na dzień, w którym decyzja zatwierdzająca podział nieruchomości stała się ostateczna albo orzeczenie o podziale stało się prawomocne. Stan nieruchomości przed podziałem przyjmuje się na dzień wydania decyzji zatwierdzającej podział nieruchomości, a stan nieruchomości po podziale przyjmuje się na dzień, w którym decyzja zatwierdzająca podział nieruchomości stała się ostateczna albo orzeczenie o podziale stało się prawomocne, przy czym nie uwzględnia się części składowych nieruchomości. Wartość nieruchomości przyjmuje się jako sumę wartości działek możliwych do samodzielnego zagospodarowania wchodzących w skład nieruchomości podlegającej podziałowi.
-
-2. Przepisu ust. 1 nie stosuje się przy podziale nieruchomości dokonywanym niezależnie od ustaleń planu miejscowego.
-
-3. Jeżeli w wyniku podziału nieruchomości wydzielono działki gruntu pod drogi publiczne lub pod poszerzenie istniejących dróg publicznych, do określenia wartości nieruchomości, zarówno według stanu przed podziałem jak i po podziale, powierzchnię nieruchomości pomniejsza się o powierzchnię działek gruntu wydzielonych pod te drogi lub pod ich poszerzenie.
-
-4. W rozliczeniu opłaty adiacenckiej lub zaległości z tego tytułu, osoba zobowiązana do jej wniesienia może przenieść na rzecz gminy, za jej zgodą, prawa do działki gruntu wydzielonej w wyniku podziału. Przepis art. 66 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm. ) stosuje się odpowiednio. Różnice między wartością działki gruntu wydzielonej w wyniku podziału a należnością wynikającą z opłaty adiacenckiej pokrywane są w formie dopłat.
-
-5. Do ulg w spłacie oraz umarzania należności z tytułu opłaty adiacenckiej stosuje się przepisy ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
-
-**Art. 98b.**
-
-1. Właściciele albo użytkownicy wieczyści nieruchomości ukształtowanych w sposób uniemożliwiający ich racjonalne zagospodarowanie mogą złożyć zgodny wniosek o ich połączenie i ponowny podział na działki gruntu, jeżeli przysługują im jednorodne prawa do tych nieruchomości. Do wniosku należy dołączyć, złożone w formie aktu notarialnego, zobowiązanie do dokonania zamiany, o której mowa w ust. 3.
-
-2. W sprawach, o których mowa w ust. 1, stosuje się odpowiednio art. 93, art. 94, art. 96, art. 97 ust. 1–2, art. 98, art. 98a oraz art. 99.
-
-3. Podziału nieruchomości, o którym mowa w ust. 1, dokonuje się pod warunkiem, że właściciele albo użytkownicy wieczyści dokonają, w drodze zamiany, wzajemnego przeniesienia praw do części ich nieruchomości, które weszły w skład nowo wydzielonych działek gruntu. W razie nierównej wartości zamienianych części nieruchomości stosuje się art. 15.
-
-**Art. 99.** Jeżeli zapewnienie dostępu do drogi publicznej ma polegać na ustanowieniu służebności, o których mowa w art. 93 ust. 3, podziału nieruchomości dokonuje się pod warunkiem, że przy zbywaniu działek wydzielonych w wyniku podziału zostaną one ustanowione. Za spełnienie warunku uważa się także sprzedaż wydzielonych działek gruntu wraz ze sprzedażą udziału w prawie do działki gruntu stanowiącej drogę wewnętrzną.
-
-**Art. 100.** Rada Ministrów określi, w drodze rozporządzenia, sposób i tryb dokonywania podziałów nieruchomości, z uwzględnieniem sposobu postępowania przy sporządzaniu dokumentów wymaganych w tym postępowaniu oraz rodzaje i treść tych dokumentów.
-
-#### Rozdział 2 Scalanie i podział nieruchomości
+**Art. 100.** Rada Ministrów w drodze rozpo tryb dokonywania nieruchomo oraz sposób i rodzaje dokumentów wymaganych w tym 2 Scalanie i
 
 **Art. 101.**
 
-1. Przepisy niniejszego rozdziału regulują sprawy scalania nieruchomości i ich ponownego podziału na działki gruntu.
+1. Przepisy niniejszego sprawy scalania i ich ponownego po na gruntu.
 
-2. Przepisy rozdziału stosuje się do nieruchomości położonych na obszarach przeznaczonych w planach miejscowych na cele inne niż rolne i leśne.
+2. Przepisy stosuje do na obszarach przeznaczonych w planach miejscowych na cele inne rolne i
 
-3. Przepisów rozdziału nie stosuje się do nieruchomości, które zostały objęte postępowaniem scaleniowym na podstawie ustawy o scalaniu i wymianie gruntów.
+3. Przepisów nie stosuje do nierucho które scalenio wym na podstawie ustawy o scalaniu i wymianie grun tów.
 
 **Art. 102.**
 
-1. Gmina może dokonać scalenia i podziału nieruchomości, o którym mowa w art. 101 ust. 1. Szczegółowe warunki scalenia i podziału nieruchomości określa plan miejscowy.
+1. Gmina scalenia i podzia o którym mowa wart. 101 ust. 1. warunki scalenia i nieruchomo plan miejscowy.
 
-2. Scalenia i podziału nieruchomości można dokonać, jeżeli są one położone w granicach obszarów określonych w planie miejscowym albo gdy o scalenie i podział wystąpią właściciele lub użytkownicy wieczyści posiadający, z zastrzeżeniem ust. 4, ponad 50 % powierzchni gruntów objętych scaleniem i podziałem.
+2. Scalenia i doko one w granicach obszarów usta lonych w trybie art. 10 ust. 1 pkt 11 ustawy o zagospo darowaniu przestrzennym albo gdy o scalenie i lub posia z ust. 4, ponad 50% powierzchni gruntów scaleniem i
 
-3. O przystąpieniu do scalenia i podziału nieruchomości decyduje rada gminy w drodze uchwały, określając w niej granice zewnętrzne gruntów objętych scaleniem i podziałem.
+3. O do scalenia i nierucho decyduje rada gminy w drodze okre w niej granice gruntów sca leniem i
 
-4. Zabudowane części nieruchomości mogą być objęte uchwałą, o której mowa w ust. 3, za zgodą ich właścicieli lub użytkowników wieczystych.
+4. Zabudowane o której mowa w ust. 3, za ich lub wieczystych.
 
-5. Wójt, burmistrz albo prezydent miasta składa we właściwym sądzie wniosek o ujawnienie w księdze wieczystej przystąpienia do scalenia i podziału nieruchomości, a gdy nieruchomość nie ma założonej księgi wieczystej, o złożenie do istniejącego zbioru dokumentów odpisu uchwały, o której mowa w ust. 3.
+5. Wójt, burmistrz albo prezydent miasta we wniosek o ujawnienie w wieczystej do scalenia i nieru a gdy nie ma gi wieczystej, o do zbioru doku mentów odpisu o której mowa w ust. 3.
 
 **Art. 103.**
 
-1. Właściciele i użytkownicy wieczyści oraz samoistni posiadacze nieruchomości objętych scaleniem i podziałem są uczestnikami postępowania w sprawie scalenia i podziału. Wójt, burmistrz albo prezydent miasta powiadamia ich o wszczęciu postępowania, chyba że mimo dołożenia należytej staranności adres tych osób nie został ustalony. Przepis art. 113 ust. 4 stosuje się odpowiednio.
+1. i oraz samoistni posiadacze scaleniem i uczestnikami w sprawie scalenia i Wójt, burmistrz albo pre zydent miasta powiadamia ich o wania, chyba mimo adres tych osób nie ustalony. Przepis art. 113 ust. 4 stosuje odpowiednio.
 
-2. Właściciele i użytkownicy wieczyści nieruchomości objętych scaleniem i podziałem mogą wybrać ze swojego grona radę uczestników scalenia w liczbie do 10 osób. Rada ta posiada uprawnienia opiniodawcze.
+2. i nierucho scaleniem i ze swojego grona uczestników scalenia w liczbie do 10 osób. Rada ta posiada uprawnienia opiniodaw cze.
 
-3. Projekt uchwały rady gminy o scaleniu i podziale nieruchomości podlega zaopiniowaniu przez radę uczestników scalenia oraz wyłożeniu do wglądu uczestnikom postępowania, na okres 21 dni, w siedzibie urzędu gminy. O wyłożeniu projektu uchwały do wglądu zawiadamia się na piśmie uczestników postępowania, których adresy są znane, a ponadto informację o wyłożeniu podaje się do publicznej wiadomości w sposób zwyczajowo przyjęty w danej miejscowości oraz na stronach internetowych urzędu gminy, a także przez ogłoszenie w prasie lokalnej.
+3. Projekt rady gminy o scaleniu i podzia le podlega zaopiniowaniu przez uczestników scalenia oraz do uczestnikom na okres 21 dni, w siedzi bie gminy. O projektu do zawiadamia na uczestników powania.
 
-4. W okresie kiedy projekt uchwały wyłożony jest do wglądu, uczestnicy postępowania mogą składać na piśmie wnioski, uwagi i zastrzeżenia do tego projektu. We wnioskach uczestnicy postępowania mogą wskazywać działki gruntu, które chcieliby otrzymać w zamian za dotychczas posiadane nieruchomości objęte scaleniem i podziałem. Złożone wnioski, uwagi i zastrzeżenia podlegają zaopiniowaniu przez radę uczestników scalenia.
+4. W okresie kiedy projekt jest do uczestnicy na wnioski, uwagi i do tego projektu. We wnioskach uczestnicy wska gruntu, które chcieliby w za mian za dotychczas posiadane scaleniem i wnioski, uwagi i za zaopiniowaniu przez uczest ników scalenia.
 
-5. O sposobie załatwienia wniosków, uwag i zastrzeżeń, o których mowa w ust. 4, rozstrzyga rada gminy w uchwale o scaleniu i podziale nieruchomości. O sposobie rozstrzygnięcia zawiadamia się na piśmie uczestników postępowania, którzy złożyli wnioski, uwagi i zastrzeżenia, doręczając im wyciąg z uchwały.
+5. O sposobie wniosków, uwag i za o których mowa w ust. 4, rozstrzyga rada gmi ny w uchwale o scaleniu i podziale O sposobie zawiadamia na uczestników którzy wnioski, uwagi i im z
 
-6. Koszty związane ze scalaniem i podziałem nieruchomości ponoszą uczestnicy postępowania proporcjonalnie do powierzchni posiadanych przez nich nieruchomości objętych scaleniem i podziałem, jeżeli postępowanie zostało przeprowadzone na ich wniosek.
+6. Koszty ze scaleniem i nieru uczestnicy propor cjonalnie do powierzchni posiadanych przez nich nie scaleniem i
 
 **Art. 104.**
 
-1. Rada gminy podejmuje uchwałę o scaleniu i podziale nieruchomości. Uchwałę doręcza się uczestnikom postępowania, których adresy są znane, a ponadto informację o podjęciu uchwały podaje się do publicznej wiadomości w sposób zwyczajowo przyjęty w danej miejscowości oraz na stronach internetowych urzędu gminy, a także przez ogłoszenie w prasie lokalnej. Czynności związane z przeprowadzeniem postępowania w sprawie scalenia i podziału wykonuje wójt, burmistrz albo prezydent miasta.
+1. Rada gminy podejmuje o sca leniu i podziale z przeprowadzeniem w sprawie scale nia i wykonuje wójt, burmistrz albo prezydent miasta.
 
-2. Uchwała rady gminy o scaleniu i podziale nieruchomości powinna zawierać:
+2. rady gminy o scaleniu i podziale nieru powinna
 
-- **1)** opracowane geodezyjnie granice gruntów objętych scaleniem i podziałem;
-- **2)** wypis i wyrys z planu miejscowego;
-- **3)** geodezyjny projekt scalenia i podziału nieruchomości;
-- **4)** rejestr nieruchomości, z wykazaniem ich stanu dotychczasowego oraz stanu nowego po scaleniu i podziale, w tym nieruchomości przyznanych uczestnikom postępowania w zamian za nieruchomości będące ich własnością lub pozostające w użytkowaniu wieczystym przed scaleniem i podziałem;
-- **5)** rozstrzygnięcia w sprawach, o których mowa w art. 105 ust. 2 i 5;
-- **6)** ustalenia co do rodzaju urządzeń infrastruktury technicznej planowanych do wybudowania, terminy ich budowy oraz źródła finansowania;
-- **7)** ustalenia co do wysokości, terminu i sposobu zapłaty opłat adiacenckich;
-- **8)** rozstrzygnięcie o sposobie załatwienia wniosków, uwag i zastrzeżeń, złożonych przez uczestników postępowania.
+- **1)** opracowane geodezyjnie granice gruntów tych scaleniem i
+- **2)** wypis i wyrys z planu miejscowego,
+- **3)** geodezyjny projekt scalenia i nierucho
+- **4)** rejestr z wykazaniem ich stanu do tychczasowego oraz stanu nowego po scaleniu i podziale, w tym przyznanych uczestnikom w zamian za nierucho ich lub w wieczystym przed scaleniem i po
+- **5)** w sprawach, o których mowa w art.105 ust. 2 i 5,
+- **6)** ustalenia co do rodzaju infrastruktury technicznej planowanych do wybudowania, termi ny ich budowy oraz finansowania,
+- **7)** ustalenia co do terminu i sposobu za adiacenckich,
+- **8)** o sposobie wniosków, uwag i przez uczestników po
 
-3. Uchwała, o której mowa w ust. 1, stanowi podstawę do:
+3. o której mowa w ust. 1, stanowi pod do: wieczystych, nowych wieczystych i ujawnienia w nich praw do w wy niku scalenia i ujawnienia nowego stanu prawnego nieruchomo w katastrze wyznaczenia i utrwalenia na gruncie granic nieru w wyniku scalenia i podzia
 
-- **1)** zamknięcia istniejących ksiąg wieczystych;
-- **2)** założenia nowych ksiąg wieczystych i ujawnienia w nich praw do nieruchomości powstałych w wyniku scalenia i podziału;
-- **3)** ujawnienia nowego stanu prawnego nieruchomości w katastrze nieruchomości;
-- **4)** wyznaczenia i utrwalenia na gruncie granic nieruchomości powstałych w wyniku scalenia i podziału;
-- **5)** wprowadzenia uczestników postępowania na nowe nieruchomości.
+- **5)** wprowadzenia uczestników na no we
 
-4. Wnioski o dokonanie czynności, o których mowa w ust. 3 pkt 1–3, składa wójt, burmistrz albo prezydent miasta.
+4. Wnioski o dokonanie o których mowa w ust. 3 pkt 1-3, wójt, burmistrz albo prezydent miasta.
 
-5. Obciążenia na nieruchomościach objętych scaleniem i podziałem przenosi się do nowo założonych ksiąg wieczystych, z zastrzeżeniem art. 105 ust. 5.
+5. na scale niem i przenosi do nowo wieczystych.
 
-6. Uchwała, o której mowa w ust. 1, nie narusza praw osób trzecich ustanowionych na nieruchomościach objętych scaleniem i podziałem.
+6. o której mowa w ust. 1, nie narusza praw osób trzecich ustanowionych na nieruchomo scaleniem i
 
 **Art. 105.**
 
-1. Powierzchnię każdej nieruchomości objętej scaleniem i podziałem pomniejsza się o powierzchnię niezbędną do wydzielenia działek gruntu pod nowe drogi lub pod poszerzenie dróg istniejących. Pomniejszenie to następuje proporcjonalnie do powierzchni wszystkich nieruchomości objętych scaleniem i podziałem oraz do ogólnej powierzchni działek gruntu wydzielonych pod nowe drogi i pod poszerzenie dróg istniejących.
+1. ob scaleniem i pomniejsza o po do wydzielenia gruntu pod nowe drogi lub pod poszerzenie dróg Pomniejszenie to proporcjonalnie do po wierzchni wszystkich scale niem i oraz do ogólnej powierzchni gruntu wydzielonych pod nowe drogi i pod poszerze nie dróg
 
-2. W zamian za nieruchomości objęte scaleniem i podziałem każdy z dotychczasowych właścicieli lub użytkowników wieczystych otrzymuje odpowiednio na własność lub w użytkowanie wieczyste, nieruchomości składające się z takiej liczby działek gruntu wydzielonych w wyniku scalenia i podziału, których łączna powierzchnia jest równa powierzchni dotychczasowej jego nieruchomości, pomniejszonej zgodnie z przepisem ust. 1. Jeżeli nie ma możliwości przydzielenia nieruchomości o powierzchni w pełni równoważnej, za różnicę powierzchni dokonuje się odpowiednich dopłat w gotówce.
+2. W zamian za scaleniem i z dotychczasowych lub wieczystych otrzymuje, z ust. 3, odpowiednio na lub w wieczyste, z takiej liczby gruntu wydzielonych w wyniku scalenia i po których powierzchnia jest równa po wierzchni dotychczasowej jego po mniejszonej zgodnie z przepisem ust. 1. nie ma przydzielenia o powierzch ni w za powierzchni doko nuje odpowiednich w gotówce.
 
-2a. Przepis ust. 2 stosuje się odpowiednio do samoistnych posiadaczy nieruchomości.
+3. scaleniem i podzia w granicach obszarów, o których mo wa wart. 10 ust. 1 pkt 11 ustawy o zagospodarowaniu przestrzennym, lub od gminy, na ich wnio sek, zamiast nowo wydzielonych w uzgodnionej z gminy.
 
-3. (uchylony)
+4. gruntu wydzielone pod nowe drogi lub pod poszerzenie dróg z mocy prawa na gminy, a ustanowione na tych prawo wieczystego wygasa z dniem w rady gminy o scale niu i podziale
 
-4. Działki gruntu wydzielone pod nowe drogi albo pod poszerzenie dróg istniejących, niebędących drogami powiatowymi, wojewódzkimi lub krajowymi, przechodzą z mocy prawa na własność gminy, a ustanowione na tych działkach prawo użytkowania wieczystego wygasa z dniem wejścia w życie uchwały rady gminy o scaleniu i podziale nieruchomości. Jeżeli działki gruntu zostały wydzielone pod drogi powiatowe, wojewódzkie lub krajowe albo pod poszerzenie tych dróg, stosuje się odpowiednio art. 98 ust. 1.
-
-5. Służebności gruntowe ustanowione na nieruchomościach objętych scaleniem i podziałem podlegają zniesieniu, jeżeli stały się zbędne do korzystania z nowo wydzielonych nieruchomości.
+5. gruntowe ustanowione na nieru scaleniem i podlega zniesieniu, do korzystania z nowo wydzielonych
 
 **Art. 106.**
 
-1. Za działki gruntu, wydzielone pod nowe drogi albo pod poszerzenie dróg istniejących, a także za urządzenia, których właściciele lub użytkownicy wieczyści nie mogli odłączyć od gruntu, oraz za drzewa i krzewy gmina wypłaca, z zastrzeżeniem ust. 1a, odszkodowanie w wysokości uzgodnionej między właścicielami lub użytkownikami wieczystymi a właściwym organem wykonawczym jednostki samorządu terytorialnego lub starostą. Dopłatę, o której mowa w art. 105 ust. 2, oraz odszkodowanie, jeżeli nie dojdzie do jego uzgodnienia, ustala się i wypłaca według zasad i trybu obowiązujących przy wywłaszczaniu nieruchomości. Odszkodowanie wypłaca właściwy organ.
+1. Za gruntu, o których mowa wart. 105 ust. 4, a za których ciele lub nie mogli od gruntu, oraz za drzewa i krzewy gmina od szkodowanie w uzgodnionej cielami lub wieczystymi a gminy. nie dojdzie do uzgodnienia, odszkodowa nie ustala zasad i trybu przy Odszkodowanie gmina.
 
-1a. Za działki gruntu wydzielone pod drogi powiatowe, wojewódzkie lub krajowe albo pod poszerzenie tych dróg odszkodowanie wypłaca odpowiednio powiat, województwo lub Skarb Państwa.
+2. w scale niem i o nie usta lonym stanie prawnym, odszkodowanie, o którym mo wa w ust. 1, do depozytu
 
-2. (uchylony)
-
-3. Gmina jest zobowiązana do wybudowania na gruntach objętych uchwałą o scaleniu i podziale nieruchomości niezbędnych urządzeń infrastruktury technicznej, stosownie do przepisu art. 104 ust. 2 pkt 6. Koszty wybudowania tych urządzeń nie mogą obciążać uczestników postępowania, chyba że na mocy zawartego z gminą porozumienia strony postanowią inaczej.
+3. Gmina jest do wybudowania na gruntach o scaleniu i podziale nieru infrastruktury tech nicznej, stosownie do przepisu art. 104 ust. 2 pkt 6. Koszty wybudowania tych nie uczestników chyba na mocy zawar tego z porozumienia strony inaczej.
 
 **Art. 107.**
 
-1. Osoby, które otrzymały nowe nieruchomości wydzielone w wyniku scalenia i podziału, są zobowiązane do wniesienia na rzecz gminy opłat adiacenckich w wysokości do 50 % wzrostu wartości tych nieruchomości, w stosunku do wartości nieruchomości dotychczas posiadanych. Przy ustalaniu wartości dotychczas posiadanych nieruchomości nie uwzględnia się wartości urządzeń, drzew i krzewów, o których mowa w art. 106 ust. 1, jeżeli zostało za nie wypłacone odszkodowanie.
+1. Osoby, które nowe nierucho wydzielone w wyniku scalenia i zo do wniesienia na rzecz gminy adia cenckich w do 50% wzrostu tych w stosunku do nieruchomo dotychczas posiadanych. Przy ustalaniu dotychczas posiadanych nie nia drzew i krzewów, o których mowa wart. 106 ust. 1, za nie odszkodowanie.
 
-2. Wysokość stawki procentowej opłaty adiacenckiej ustala rada gminy w uchwale o scaleniu i podziale nieruchomości.
+2. stawki procentowej adiacenc kiej ustala rada gminy w uchwale o scaleniu i podziale
 
-3. Terminy i sposób wnoszenia opłat adiacenckich ustala wójt, burmistrz albo prezydent miasta, w drodze ugody z osobami zobowiązanymi do ich zapłaty, przez podpisanie protokołu uzgodnień. W razie niedojścia do ugody, o terminie i sposobie zapłaty rozstrzyga rada gminy, podejmując uchwałę o scaleniu i podziale nieruchomości. Termin ustalony w uchwale nie może być krótszy niż termin wybudowania urządzeń infrastruktury technicznej.
+3. Terminy i sposób wnoszenia adiacenckich ustala wójt, burmistrz albo prezydent miasta, w drodze ugody z osobami do ich przez podpisanie W razie do ugody, o terminie i sposobie rozstrzyga rada gminy, o scaleniu i podziale nie Termin ustalony w uchwale nie krótszy termin wybudowania infrastruktu ry technicznej.
 
-4. Opłatę adiacencką ustala wójt, burmistrz albo prezydent miasta, w drodze decyzji, zgodnie z ugodą lub uchwałą o scaleniu i podziale nieruchomości, o których mowa w ust. 3. W razie ustanowienia na nieruchomości ograniczonych praw rzeczowych decyzja o ustaleniu opłaty adiacenckiej stanowi podstawę wpisu do księgi wieczystej.
-
-5. W rozliczeniu opłaty adiacenckiej lub zaległości z tego tytułu, osoba zobowiązana do jej wniesienia może przenieść na rzecz gminy, za jej zgodą, prawa do działki gruntu wydzielonej w wyniku scalenia i podziału. Przepis art. 66 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa stosuje się odpowiednio. Różnice między wartością działki gruntu wydzielonej w wyniku scalenia i podziału a należnością wynikającą z opłaty adiacenckiej są pokrywane w formie dopłat.
-
-6. Do ulg w spłacie oraz umarzania należności z tytułu opłaty adiacenckiej stosuje się przepisy ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
-
-**Art. 108.**
-
-1. Rada Ministrów określi, w drodze rozporządzenia, sposób i tryb scalania i podziału nieruchomości oraz sposób i tryb ustalania opłat adiacenckich, z uwzględnieniem rodzajów dokumentów i rozliczania kosztów postępowania.
-
-2. Wydając rozporządzenie, o którym mowa w ust. 1, Rada Ministrów określi w szczególności:
-
-- **1)** rodzaje czynności poprzedzających wszczęcie postępowania w sprawie scalenia i podziału nieruchomości oraz terminy wykonywania tych czynności;
-- **2)** sposób ustalania granic zewnętrznych gruntów przeznaczonych do objęcia scaleniem i podziałem;
-- **3)** sposób przyjmowania granic nieruchomości przy wykonywaniu mapy z projektem scalenia i podziału;
-- **4)** sposób wyboru i działania rady uczestników scalenia;
-- **5)** sposób sporządzania, rodzaje i treść dokumentów niezbędnych w postępowaniu w sprawie scalenia i podziału.
-
-#### Rozdział 3 Prawo pierwokupu nieruchomości
+**Art. 108.** Rada Ministrów w drodze rozpo
 
 **Art. 109.**
 
-1. Gminie przysługuje prawo pierwokupu w przypadku sprzedaży:
+1. Gminie prawo pierwokupu w przypadku
 
-- **1)** niezabudowanej nieruchomości nabytej uprzednio przez sprzedawcę od Skarbu Państwa albo jednostek samorządu terytorialnego;
-- **2)** prawa użytkowania wieczystego niezabudowanej nieruchomości gruntowej, niezależnie od formy nabycia tego prawa przez zbywcę;
-- **3)** nieruchomości oraz prawa użytkowania wieczystego nieruchomości położonej na obszarze przeznaczonym w planie miejscowym na cele publiczne albo nieruchomości, dla której została wydana decyzja o ustaleniu lokalizacji inwestycji celu publicznego;
-- **4)** nieruchomości wpisanej do rejestru zabytków lub prawa użytkowania wieczystego takiej nieruchomości;
-- **4a)** nieruchomości położonych na obszarze rewitalizacji, jeżeli przewiduje to uchwała, o której mowa w art. 8 ustawy z dnia 9 października 2015 r. o rewitalizacji;
-- **4b)** nieruchomości położonych na obszarze Specjalnej Strefy Rewitalizacji, o której mowa w rozdziale 5 ustawy z dnia 9 października 2015 r. o rewitalizacji.
-- **5)** (uchylony)
+- **1)** nie zabudowanej nabytej uprzednio przez od Skarbu lub gminy,
+- **2)** prawa wieczystego nie zabudowanej gruntowej,
+- **3)** na obszarze przeznaczo nym w planie miejscowym na cele publiczne,
+- **4)** wpisanej do rejestru zabytków lub prawa wieczystego takiej nierucho
 
-2. Przepisów ust. 1 pkt 1 i 2 nie stosuje się do nieruchomości przeznaczonych w planach miejscowych na cele rolne i leśne, a w przypadku braku planów miejscowych do nieruchomości wykorzystywanych na cele rolne i leśne. Przepis art. 92 ust. 2 stosuje się odpowiednio.
+2. Przepisów ust. 1 pkt 1 i 2 nie stosuje do nie przeznaczonych w planach miejscowych lub w decyzjach o warunkach zabudowy i zagospoda rowania terenu na cele rolne i
 
-3. Prawo pierwokupu nie przysługuje, jeżeli:
+3. Prawo pierwokupu nie
 
-- **1)** sprzedaż nieruchomości lub prawa użytkowania wieczystego następuje na rzecz osób bliskich dla sprzedawcy;
-- **2)** sprzedaż nieruchomości lub prawa użytkowania wieczystego następuje między osobami prawnymi tego samego kościoła lub związku wyznaniowego;
-- **3)** prawo własności lub prawo użytkowania wieczystego zostało ustanowione jako odszkodowanie lub rekompensata za utratę własności nieruchomości;
-- **4)** prawo własności lub prawo użytkowania wieczystego zostało ustanowione w wyniku zamiany własności nieruchomości;
-- **5)** w przypadkach, o których mowa w ust. 1 pkt 3 i 4, prawo pierwokupu nie zostało ujawnione w księdze wieczystej;
-- **6)** sprzedaż nieruchomości następuje na cele budowy dróg krajowych;
-- **7)** prawo pierwokupu przysługuje partnerowi prywatnemu lub ostatniemu partnerowi prywatnemu w przypadkach, o których mowa w ustawie z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym;
-- **8)** sprzedaż nieruchomości następuje na cele realizacji inwestycji w zakresie lotniska użytku publicznego w rozumieniu przepisów ustawy z dnia 12 lutego 2009 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie lotnisk użytku publicznego albo Inwestycji w rozumieniu art. 2 pkt 3 ustawy z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym, albo na szczególnych zasadach, określonych w art. 29b ust. 1 ustawy z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym;
-- **9)** sprzedaż nieruchomości następuje na cele realizacji inwestycji w rozumieniu przepisów ustawy z dnia 8 lipca 2010 r. o szczególnych zasadach przygotowania do realizacji inwestycji w zakresie budowli przeciwpowodziowych oraz stacji radarów meteorologicznych;
-- **10)** prawo pierwokupu przysługuje Krajowemu Zasobowi Nieruchomości w przypadkach, o których mowa w ustawie z dnia 20 lipca 2017 r. o Krajowym Zasobie Nieruchomości.
+- **1)** lub prawa wieczystego na rzecz osób bliskich dla sprzedawcy,
+- **2)** lub prawa wieczystego osobami prawnymi tego samego lub wyznaniowego,
+- **3)** prawo wieczystego ustano wione jako odszkodowanie lub rekompensata za
+- **4)** prawo wieczystego ustano wione w wyniku zamiany nieruchomo
+- **5)** w przypadkach, o których mowa w ust. 1 pkt 3 i 4, prawo pierwokupu nie ujawnione w dze wieczystej.
 
-4. Prawo pierwokupu wykonuje wójt, burmistrz albo prezydent miasta.
+4. Prawo pierwokupu wykonuje gminy.
 
 **Art. 110.**
 
-1. Sprzedaż nieruchomości, o których mowa w art. 109, oraz prawa użytkowania wieczystego tych nieruchomości może nastąpić, jeżeli wójt, burmistrz albo prezydent miasta nie wykona prawa pierwokupu.
+1. o których mo wa wart. 109, oraz prawa wieczystego tych gminy nie wykona prawa pierwokupu.
 
-2. Prawo pierwokupu może być wykonane w terminie miesiąca od dnia otrzymania przez wójta, burmistrza albo prezydenta miasta zawiadomienia o treści umowy sprzedaży.
+2. Prawo pierwokupu wykonane w termi nie 2 od dnia otrzymania przez gminy zawiadomienia o umowy
 
-3. Notariusz sporządzający umowę sprzedaży jest zobowiązany do zawiadomienia wójta, burmistrza albo prezydenta miasta o treści umowy, stosownie do przepisu ust. 2.
+3. Notariusz jest do zawiadomienia gminy o umowy, stosownie do przepisu ust. 2.
 
-4. Wójt, burmistrz albo prezydent miasta wykonuje prawo pierwokupu przez złożenie oświadczenia w formie aktu notarialnego u notariusza, o którym mowa w ust. 3. W przypadku gdyby złożenie oświadczenia u tego notariusza było niemożliwe lub napotykało poważne trudności, może być ono złożone u innego notariusza. Z chwilą złożenia oświadczenia:
+4. gminy wykonuje prawo pierwokupu przez w formie aktu notarialne go u notariusza, o którym mowa w ust. 3. W przypad ku gdyby u tego notariusza by lub mo ono u innego notariusza. Z
 
-- **1)** nieruchomość staje się własnością gminy, jeżeli wykonanie prawa pierwokupu dotyczyło sprzedaży nieruchomości;
-- **2)** prawo użytkowania wieczystego wygasa, jeżeli wykonanie prawa pierwokupu dotyczyło sprzedaży prawa użytkowania wieczystego nieruchomości gruntowej stanowiącej własność gminy;
-- **3)** gmina uzyskuje prawo użytkowania wieczystego, jeżeli wykonanie prawa pierwokupu dotyczyło sprzedaży prawa użytkowania wieczystego nieruchomości gruntowej stanowiącej własność Skarbu Państwa, powiatu lub województwa.
+- **1)** staje gminy, wykonanie prawa pierwokupu
+- **2)** prawo wieczystego wygasa, wy konanie prawa pierwokupu prawa wieczystego gruntowej gminy,
+- **3)** gmina uzyskuje prawo wieczystego, wykonanie prawa pierwokupu prawa wieczystego nieru gruntowej Skarbu
 
-5. Oświadczenie, o którym mowa w ust. 4, notariusz doręcza sprzedawcy.
+5. o którym mowa w ust. 4, nota riusz sprzedawcy.
 
-**Art. 111.** Prawo pierwokupu wykonuje się po cenie ustalonej między stronami w umowie sprzedaży.
-
-**Art. 111a.**
-
-1. Skarbowi Państwa lub miastu stołecznemu Warszawie przysługuje prawo pierwokupu w przypadku sprzedaży:
-
-- **1)** praw i roszczeń określonych w dekrecie z dnia 26 października 1945 r. o własności i użytkowaniu gruntów na obszarze m.st. Warszawy (Dz. U. poz. 279 oraz z 1985 r. poz. 99);
-- **2)** roszczeń określonych w art. 214;
-- **3)** prawa użytkowania wieczystego ustanowionego na skutek realizacji roszczeń, o których mowa w pkt 1 i 2.
-
-2. Przeniesienie praw i roszczeń, o których mowa w ust. 1, wymaga zawarcia umowy w formie aktu notarialnego.
-
-3. W sprawach, o których mowa w ust. 1, stosuje się odpowiednio art. 109 ust. 3 pkt 1 i 2 oraz art. 110 i art. 111.
-
-4. Prawo pierwokupu wykonuje Prezydent m.st. Warszawy.
-
-5. Jeżeli prawa i roszczenia, o których mowa w ust. 1, dotyczą nieruchomości Skarbu Państwa, którymi gospodaruje minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa lub w stosunku do których prawa właścicielskie wykonuje wojewoda, Krajowy Ośrodek Wsparcia Rolnictwa albo Agencja Mienia Wojskowego, prawo pierwokupu wykonuje właściwy minister, wojewoda, Krajowy Ośrodek Wsparcia Rolnictwa lub Agencja Mienia Wojskowego.
-
-#### Rozdział 4 Wywłaszczanie nieruchomości
+**Art. 111.** Prawo pierwokupu wykonuje po cenie ustalonej stronami w umowie 4
 
 **Art. 112.**
 
-1. Przepisy niniejszego rozdziału stosuje się do nieruchomości położonych, z zastrzeżeniem art. 122a, art. 124 ust. 1b, art. 124b, art. 125 i art. 126, na obszarach przeznaczonych w planach miejscowych na cele publiczne albo do nieruchomości, dla których wydana została decyzja o ustaleniu lokalizacji inwestycji celu publicznego.
+1. Przepisy niniejszego stosuje do z art. 125 i 126, na obszarach przeznaczonych w planach miejscowych na cele publiczne.
 
-2. Wywłaszczenie nieruchomości polega na pozbawieniu albo ograniczeniu, w drodze decyzji, prawa własności, prawa użytkowania wieczystego lub innego prawa rzeczowego na nieruchomości.
+2. polega na pozba wieniu albo ograniczeniu, w drodze decyzji, prawa prawa wieczystego lub innego prawa rzeczowego na
 
-3. Wywłaszczenie nieruchomości może być dokonane, jeżeli cele publiczne nie mogą być zrealizowane w inny sposób niż przez pozbawienie albo ograniczenie praw do nieruchomości, a prawa te nie mogą być nabyte w drodze umowy.
+3. doko nane, cele publiczne nie zrealizowane w inny sposób przez pozbawienie albo ogranicze nie praw do a prawa te nie nabyte w drodze umowy.
 
-4. Organem właściwym w sprawach wywłaszczenia jest starosta, wykonujący zadanie z zakresu administracji rządowej.
+4. Organem w sprawach nia jest wojewoda.
 
 **Art. 113.**
 
-1. Nieruchomość może być wywłaszczona tylko na rzecz Skarbu Państwa albo na rzecz jednostki samorządu terytorialnego.
+1. tylko na rzecz Skarbu albo na rzecz gminy.
 
-2. Nieruchomość stanowiąca własność Skarbu Państwa nie może być wywłaszczona. Nie dotyczy to wywłaszczenia prawa użytkowania wieczystego oraz ograniczonych praw rzeczowych obciążających nieruchomość.
+2. Skarbu nie Nie dotyczy to prawa wieczystego oraz ograniczonych praw rzeczowych nieru
 
-3. Wywłaszczeniem może być objęta cała nieruchomość albo jej część. Jeżeli wywłaszczeniem jest objęta część nieruchomości, a pozostała część nie nadaje się do prawidłowego wykorzystywania na dotychczasowe cele, na żądanie właściciela lub użytkownika wieczystego nieruchomości nabywa się tę część w drodze umowy na rzecz Skarbu Państwa lub na rzecz jednostki samorządu terytorialnego, w zależności od tego, na czyją rzecz następuje wywłaszczenie.
+3. nierucho albo jej jest a nie nadaje do wykorzystywania na dotychczasowe cele, na lub wieczy stego nabywa w drodze umowy na rzecz Skarbu lub na rzecz gminy, w od tego, na rzecz wy
 
-4. Jeżeli nieruchomość nie ma założonej księgi wieczystej lub zbioru dokumentów, przy jej wywłaszczeniu przyjmuje się inne dokumenty stwierdzające prawa do nieruchomości oraz służące do jej oznaczenia dane z katastru nieruchomości.
-
-5. W przypadku nieruchomości o nieuregulowanym stanie prawnym, przy jej wywłaszczeniu, przyjmuje się służące do jej oznaczenia dane z katastru nieruchomości.
-
-6. Przez nieruchomość o nieuregulowanym stanie prawnym rozumie się nieruchomość, dla której ze względu na brak księgi wieczystej, zbioru dokumentów albo innych dokumentów nie można ustalić osób, którym przysługują do niej prawa rzeczowe.
-
-7. Przepis ust. 6 stosuje się również, jeżeli właściciel lub użytkownik wieczysty nieruchomości nie żyje i nie przeprowadzono lub nie zostało zakończone postępowanie spadkowe.
+4. nie ma wieczystej lub zbioru dokumentów, przy jej czeniu przyjmuje inne dokumenty prawa do oraz dane z katastru nieru
 
 **Art. 114.**
 
-1. Wszczęcie postępowania wywłaszczeniowego, z zastrzeżeniem ust. 2 i ust. 3, należy poprzedzić rokowaniami o nabycie w drodze umowy praw określonych w art. 112 ust. 3, przeprowadzonymi między starostą, wykonującym zadanie z zakresu administracji rządowej, a właścicielem lub użytkownikiem wieczystym nieruchomości, a także osobą, której przysługuje do nieruchomości ograniczone prawo rzeczowe. W trakcie prowadzenia rokowań może być zaoferowana nieruchomość zamienna.
+1. niowego, z ust. 2, ro kowaniami o nabycie w drodze umowy praw nych wart. 112 ust. 3, przeprowadzonymi wo a lub wieczystym a której do ograniczone prawo rzeczowe. W trak cie prowadzenia zaoferowana nie zamienna.
 
-2. W przypadku wywłaszczania nieruchomości na wniosek jednostki samorządu terytorialnego rokowania, o których mowa w ust. 1, przeprowadzają ich organy wykonawcze.
-
-3. W przypadku nieruchomości o nieuregulowanym stanie prawnym informację o zamiarze wywłaszczenia starosta, wykonujący zadanie z zakresu administracji rządowej, podaje do publicznej wiadomości w sposób zwyczajowo przyjęty w danej miejscowości oraz na stronach internetowych starostwa powiatowego, a także przez ogłoszenie w prasie o zasięgu ogólnopolskim. Jeżeli wywłaszczenie dotyczy części nieruchomości, ogłoszenie zawiera również informację o zamiarze wszczęcia postępowania w sprawie podziału tej nieruchomości.
-
-4. Jeżeli w terminie 2 miesięcy od dnia ogłoszenia, o którym mowa w ust. 3, nie zgłoszą się osoby, które wykażą, że przysługują im prawa rzeczowe do nieruchomości, można wszcząć postępowanie w sprawie podziału i postępowanie wywłaszczeniowe.
+2. W przypadku na wniosek gminy rokowania, o których mowa w ust. 1, przeprowadza gminy.
 
 **Art. 115.**
 
-1. Wszczęcie postępowania wywłaszczeniowego na rzecz Skarbu Państwa następuje z urzędu, a na rzecz jednostki samorządu terytorialnego – na wniosek jej organu wykonawczego. Wszczęcie postępowania z urzędu może także nastąpić na skutek zawiadomienia złożonego przez podmiot, który zamierza realizować cel publiczny.
+1. niowego na rzecz Skarbu z a na rzecz gminy - na wniosek gminy.
 
-2. Wszczęcie postępowania wywłaszczeniowego następuje po bezskutecznym upływie dwumiesięcznego terminu do zawarcia umowy, o której mowa w art. 114 ust. 1, wyznaczonego na piśmie właścicielowi, użytkownikowi wieczystemu nieruchomości, a także osobie, której przysługuje ograniczone prawo rzeczowe na tej nieruchomości.
+2. po bezskutecznym dwumie terminu do zawarcia umowy, o której mowa wart. 114, wyznaczonego przez na wieczystemu nierucho a osobie, której ograniczone prawo rzeczowe na tej Termin ten liczy od dnia
 
-3. Wszczęcie postępowania wywłaszczeniowego następuje z dniem doręczenia zawiadomienia stronom lub z dniem określonym w ogłoszeniu o wszczęciu postępowania, wywieszonym w urzędzie starostwa powiatowego, po upływie terminu, o którym mowa w art. 114 ust. 4.
+3. z dniem zawiadomienia stro nom.
 
-4. Odmowa wszczęcia postępowania wywłaszczeniowego, o które wystąpił organ wykonawczy jednostki samorządu terytorialnego albo podmiot, który zamierza realizować cel publiczny, następuje w drodze decyzji.
-
-5. Przepisu ust. 2 nie stosuje się w przypadku nieruchomości o nieuregulowanym stanie prawnym.
+4. Odmowa niowego, o które gminy, w drodze decyzji.
 
 **Art. 116.**
 
-1. We wniosku o wywłaszczenie należy określić:
+1. We wniosku o
 
-- **1)** nieruchomość z podaniem oznaczeń z księgi wieczystej lub zbioru dokumentów oraz z katastru nieruchomości;
-- **2)** cel publiczny, do którego realizacji nieruchomość jest niezbędna;
-- **3)** powierzchnię nieruchomości, a jeżeli wywłaszczeniem ma być objęta tylko jej część – powierzchnię tej części i całej nieruchomości;
-- **4)** dotychczasowy sposób korzystania z nieruchomości i stan jej zagospodarowania;
-- **5)** lokale zamienne oraz sposób ich zapewnienia najemcom wywłaszczonych lokali;
-- **6)** właściciela lub użytkownika wieczystego nieruchomości, a w razie braku danych umożliwiających określenie tych osób – władającego nieruchomością zgodnie z wpisem w katastrze nieruchomości;
-- **7)** osobę, której przysługują ograniczone prawa rzeczowe na nieruchomości;
-- **8)** nieruchomość zamienną, jeżeli jednostka samorządu terytorialnego taką oferuje;
-- **9)** inne okoliczności istotne w sprawie.
+- **1)** z podaniem z wie czystej lub zbioru dokumentów oraz z katastru nie
+- **2)** cel publiczny, do którego realizacji jest
+- **3)** a niem ma tylko jej tej i dotychczasowy sposób korzystania z nieruchomo i stan jej zagospodarowania, lokale zamienne oraz sposób ich zapewnienia na jemcom lokali, najem przed dniem 12 listopada 1994 r. na podstawie decyzji administracyjnych o przydziale, lub wieczystego nierucho a w razie braku danych tych osób - nieruchomo zgodnie z wpisem w katastrze której ograniczone prawa rze czowe na gmina oferuje, inne istotne w sprawie.
 
-2. Do wniosku o wywłaszczenie należy dołączyć:
+2. Do wniosku o dokumenty z przebiegu o których mowa wart. 114, o warunkach zabudowy i zagospodarowa nia terenu, granic nych terenu do realizacji celu publicz nego, na który ma na,
 
-- **1)** dokumenty z przebiegu rokowań, o których mowa w art. 114;
-- **2)** wypis i wyrys z planu miejscowego, a w przypadku braku planu miejscowego decyzję o ustaleniu lokalizacji inwestycji celu publicznego;
-- **3)** mapę z rejestrem nieruchomości objętych wnioskiem o wywłaszczenie lub mapę z podziałem i rejestrem nieruchomości oraz decyzję zatwierdzającą ten podział, jeżeli wniosek o wywłaszczenie dotyczy tylko części nieruchomości;
-- **4)** odpis księgi wieczystej albo oświadczenie przedstawiające aktualny stan wpisów w księdze wieczystej założonej dla nieruchomości objętej wnioskiem o wywłaszczenie wraz ze wskazaniem numeru księgi wieczystej albo zaświadczenie o stanie prawnym, jaki wynika ze zbioru dokumentów;
-- **5)** w razie braku dokumentów, o których mowa w pkt 4, zaświadczenie właściwego sądu stwierdzające, że nieruchomość nie ma założonej księgi wieczystej lub że nie jest dla niej prowadzony zbiór dokumentów;
-- **6)** wypis i wyrys z katastru nieruchomości.
+- **3)** z rejestrem wnio skiem o lub z i re jestrem oraz ten wniosek o do tyczy tylko
+- **4)** odpis z wieczystej dla nieru wnioskiem o albo o stanie prawnym, jaki wynika ze zbioru dokumentów,
+- **5)** w razie braku dokumentów, o których mowa w pkt 4, stwier nie ma wieczystej lub nie jest dla niej prowadzony zbiór dokumentów,
+- **6)** wypis i wyrys z katastru
 
-2a. Oświadczenie, o którym mowa w ust. 2 pkt 4, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań.
-
-3. Przepisy ust. 1 i 2 stosuje się odpowiednio w razie wszczęcia postępowania wywłaszczeniowego z urzędu.
+3. Przepisy ust. 1 i 2 stosuje odpowiednio w ra zie z
 
 **Art. 117.**
 
-1. Starosta, wykonujący zadanie z zakresu administracji rządowej, składa w sądzie wniosek o ujawnienie w księdze wieczystej wszczęcia postępowania wywłaszczeniowego, a jeżeli nieruchomość nie ma założonej księgi wieczystej – o złożenie do istniejącego zbioru dokumentów zawiadomienia o wszczęciu tego postępowania.
+1. Wojewoda w wniosek o ujawnienie w wieczystej wania a nie ma wieczystej - o do istnie zbioru dokumentów zawiadomienia o ciu tego
 
-2. Jeżeli wywłaszczenie nie doszło do skutku, starosta, wykonujący zadanie z zakresu administracji rządowej, jest obowiązany wystąpić niezwłocznie o wykreślenie z księgi wieczystej wpisu o wszczęciu postępowania wywłaszczeniowego albo złożyć odpowiednie zawiadomienie do zbioru dokumentów.
+2. nie do skutku, woje woda jest o wykre z wieczystej wpisu o wania
 
 **Art. 118.**
 
-1. Po wszczęciu postępowania wywłaszczeniowego starosta, wykonujący zadanie z zakresu administracji rządowej, przeprowadza rozprawę administracyjną.
+1. Po czeniowego wojewoda przeprowadza admi
 
-1a. Przepisu ust. 1 nie stosuje się w przypadku nieruchomości o nieuregulowanym stanie prawnym.
-
-2. W postępowaniu wywłaszczeniowym nie stosuje się przepisów o ugodzie administracyjnej.
-
-**Art. 118a.**
-
-1. Jeżeli w terminie określonym w art. 114 ust. 4, nie zostały ustalone osoby, które wykażą, że przysługują im prawa rzeczowe do nieruchomości, starosta wykonujący zadanie z zakresu administracji rządowej, wydaje decyzję o nabyciu własności nieruchomości przez Skarb Państwa lub jednostkę samorządu terytorialnego, wnioskującą o wywłaszczenie. Nabycie prawa własności następuje z dniem, w którym decyzja stała się ostateczna.
-
-2. Decyzja podlega ogłoszeniu w sposób określony w art. 49 Kodeksu postępowania administracyjnego.
-
-3. Odszkodowanie za nieruchomość, której własność przeszła na rzecz Skarbu Państwa lub jednostki samorządu terytorialnego, ustala się według przepisów rozdziału 5 i składa do depozytu sądowego na okres 10 lat.
+2. W. nie stosu je przepisów o ugodzie administracyjnej.
 
 **Art. 119.**
 
-1. Decyzja o wywłaszczeniu nieruchomości, poza elementami określonymi w art. 107 § 1 Kodeksu postępowania administracyjnego, powinna zawierać:
+1. Decyzja o nieruchomo poza elementami wart. 107 2 Kodek su administracyjnego, powinna zawie
 
-- **1)** ustalenie, na jakie cele nieruchomość jest wywłaszczana;
-- **2)** określenie przedmiotu wywłaszczenia przez podanie oznaczenia nieruchomości według księgi wieczystej lub zbioru dokumentów oraz według katastru nieruchomości;
-- **3)** określenie praw podlegających wywłaszczeniu;
-- **4)** wskazanie właściciela lub użytkownika wieczystego nieruchomości;
-- **5)** wskazanie osoby, której przysługują ograniczone prawa rzeczowe na nieruchomości;
-- **6)** zobowiązanie do zapewnienia lokali, o których mowa w art. 116 ust. 1 pkt 5;
-- **7)** ustalenie wysokości odszkodowania.
+- **1)** ustalenie, na jakie cele jest czana,
+- **2)** przedmiotu przez poda nie oznaczenia wie czystej lub zbioru dokumentów oraz kata stru
+- **3)** praw
+- **4)** wskazanie lub wieczyste go a w razie braku danych ustalenie tych osób - nie zgodnie z wpisem w katastrze nieru
+- **5)** wskazanie osoby, której ograniczone prawa rzeczowe na
+- **6)** do zapewnienia lokali, o których mo wa wart. 116 ust. 1 pkt 5.
 
-2. Jeżeli osoby, o których mowa w ust. 1 pkt 4 i pkt 5, są nieobecne lub niezdolne do czynności prawnych, stosuje się art. 34 Kodeksu postępowania administracyjnego.
+2. osoby, o których mowa w ust. 1 pkt 4, nieobecne lub niezdolne do prawnych, sto suje art. 34 Kodeksu administracyj nego.
 
-**Art. 120.** Jeżeli zachodzi potrzeba zapobieżenia niebezpieczeństwu, wystąpieniu szkody lub niedogodnościom, jakie mogą powstać dla właścicieli albo użytkowników wieczystych nieruchomości sąsiednich wskutek wywłaszczenia lub innego niż dotychczas zagospodarowania wywłaszczonej nieruchomości, w decyzji o wywłaszczeniu ustanawia się niezbędne służebności oraz ustala obowiązek budowy i utrzymania odpowiednich urządzeń zapobiegających tym zdarzeniom lub okolicznościom. Obowiązek budowy i utrzymania odpowiednich urządzeń ciąży na występującym z wnioskiem o wywłaszczenie.
+**Art. 120.** Jeżeli zachodzi potrzeba nie szkody lub niedogodno jakie dla albo kowników wieczystych wskutek lub innego dotychczas za gospodarowania w de cyzji o ustanawia oraz ustala budowy i utrzymania od powiednich tym zdarze niom lub budowy i utrzy mania odpowiednich na z wnioskiem o
 
 **Art. 121.**
 
-1. Przejście prawa własności na rzecz Skarbu Państwa lub na rzecz jednostki samorządu terytorialnego następuje z dniem, w którym decyzja o wywłaszczeniu nieruchomości stała się ostateczna.
+1. prawa na rzecz Skarbu lub na rzecz gminy z dniem, w którym decyzja o sta ostateczna.
 
-2. Przejście prawa użytkowania wieczystego na rzecz Skarbu Państwa lub na rzecz jednostki samorządu terytorialnego następuje z dniem, w którym decyzja o wywłaszczeniu tego prawa stała się ostateczna, jeżeli prawo użytkowania wieczystego było ustanowione na nieruchomości gruntowej stanowiącej własność innej osoby niż ta, na rzecz której nastąpiło wywłaszczenie.
+2. prawa wieczystego na rzecz Skarbu lub na rzecz gminy z dniem, w którym decyzja o tego pra wa ostateczna, prawo wie czystego ustanowione na grunto wej innej osoby ta, na rzecz której
 
-3. Prawo użytkowania wieczystego nieruchomości gruntowej wygasa z dniem, w którym decyzja o wywłaszczeniu tego prawa stała się ostateczna, jeżeli prawo użytkowania wieczystego było ustanowione na nieruchomości gruntowej stanowiącej własność osoby, na rzecz której nastąpiło wywłaszczenie.
+3. Prawo wieczystego gruntowej wygasa z dniem, w którym decyzja o wytego prawa ostateczna, pra wo wieczystego ustanowione na nie gruntowej osoby, na rzecz której
 
-4. Wywłaszczoną nieruchomość do czasu jej wykorzystania na cel, na który nastąpiło wywłaszczenie, oddaje się w dzierżawę poprzedniemu właścicielowi na jego wniosek.
+4. do czasu jej wyko rzystania na cel, na który od daje w poprzedniemu na jego wniosek.
 
 **Art. 122.**
 
-1. W przypadkach określonych w art. 108 Kodeksu postępowania administracyjnego lub uzasadnionych ważnym interesem gospodarczym starosta, wykonujący zadanie z zakresu administracji rządowej, w drodze decyzji, udziela podmiotowi, który będzie realizował cel publiczny, zezwolenia na niezwłoczne zajęcie nieruchomości po wydaniu decyzji o wywłaszczeniu nieruchomości, jeżeli zwłoka w jej zajęciu uniemożliwiałaby realizację celu publicznego, na który nieruchomość została wywłaszczona. Decyzji o niezwłocznym zajęciu nieruchomości nadaje się rygor natychmiastowej wykonalności.
+1. W przypadkach wart. 108 Kodeksu administracyjnego wojewoda w drodze decyzji, osobie, która cel publiczny, zezwolenia na po wydaniu decyzji o czeniu w jej unie celu publicznego, na który nie Decyzji tej nadany rygor natychmiastowej
 
-2. Jeżeli w przypadkach, o których mowa w ust. 1, wydanie decyzji o wywłaszczeniu wymagałoby uprzedniego dokonania podziału nieruchomości, decyzji zatwierdzającej podział nadaje się rygor natychmiastowej wykonalności.
+2. w przypadkach, o których mowa w ust. 1, wydanie decyzji o uprzedniego dokonania de cyzji projekt nada ny rygor natychmiastowej
 
-3. (uchylony)
-
-**Art. 122a.** Jeżeli cel publiczny został zrealizowany, a postępowanie wywłaszczeniowe nie zostało zakończone wydaniem ostatecznej decyzji o wywłaszczeniu, starosta, wykonujący zadanie z zakresu administracji rządowej, w drodze decyzji orzeka o nabyciu praw na rzecz Skarbu Państwa albo właściwej jednostki samorządu terytorialnego za odszkodowaniem. Starosta wykonujący zadanie z zakresu administracji rządowej przed wszczęciem postępowania wyznacza dwumiesięczny termin do zawarcia umowy. Po bezskutecznym upływie dwumiesięcznego terminu do zawarcia umowy odszkodowanie ustala się według przepisów rozdziału 5.
-
-**Art. 123.**
-
-1. Ostateczna decyzja o wywłaszczeniu nieruchomości stanowi podstawę do dokonania wpisu w księdze wieczystej. Wpisu dokonuje się na wniosek starosty, wykonującego zadanie z zakresu administracji rządowej, lub organu wykonawczego jednostki samorządu terytorialnego, jeżeli nieruchomość została wywłaszczona na rzecz tej jednostki.
-
-2. Najem, dzierżawa lub użyczenie oraz trwały zarząd wywłaszczonej nieruchomości wygasają z upływem 3 miesięcy od dnia, w którym decyzja o wywłaszczeniu stała się ostateczna.
+**Art. 123.** Ostateczna decyzja o nie stanowi do dokonania wpisu w wieczystej. Wpisu dokonuje na wniosek wojewody lub na wniosek gminy, nieru na rzecz gminy.
 
 **Art. 124.**
 
-1. Starosta, wykonujący zadanie z zakresu administracji rządowej, może ograniczyć, w drodze decyzji, sposób korzystania z nieruchomości przez udzielenie zezwolenia na zakładanie i przeprowadzenie na nieruchomości ciągów drenażowych, przewodów i urządzeń służących do przesyłania lub dystrybucji płynów, pary, gazów i energii elektrycznej oraz urządzeń łączności publicznej i sygnalizacji, a także innych podziemnych, naziemnych lub nadziemnych obiektów i urządzeń niezbędnych do korzystania z tych przewodów i urządzeń, jeżeli właściciel lub użytkownik wieczysty nieruchomości nie wyraża na to zgody. Ograniczenie to następuje zgodnie z planem miejscowym, a w przypadku braku planu, zgodnie z decyzją o ustaleniu lokalizacji inwestycji celu publicznego.
+1. Wojewoda w drodze decyzji, sposób korzystania z przez udzielenie zezwolenia na i przeprowadzanie na przewodów i do pary, ga zów i energii elektrycznej oraz pu blicznej i sygnalizacji, a innych podziemnych, na ziemnych lub nadziemnych obiektów i nie do korzystania z tych przewodów i lub wieczysty nieruchomo nie na to zgody. Ograniczenie to zgodnie z o warunkach zabudowy i zagospoda rowania terenu.
 
-1a. W przypadkach określonych w art. 108 Kodeksu postępowania administracyjnego lub uzasadnionych ważnym interesem gospodarczym starosta, wykonujący zadanie z zakresu administracji rządowej, na wniosek podmiotu, który będzie realizował cel publiczny, udziela, w drodze decyzji, zezwolenia na niezwłoczne zajęcie nieruchomości po wydaniu decyzji, o której mowa w ust. 1. Decyzji o niezwłocznym zajęciu nieruchomości nadaje się rygor natychmiastowej wykonalności.
+2. Zezwolenie udzielone z albo na wniosek gminy, innej osoby lub jednostki or ganizacyjnej.
 
-1b. W zakresie urządzeń łączności publicznej decyzję w sprawie zezwolenia wydaje się w uzgodnieniu z Prezesem Urzędu Komunikacji Elektronicznej. Decyzja ta może być również wydana w przypadku braku planu miejscowego lub gdy decyzja o ustaleniu lokalizacji inwestycji celu publicznego nie jest wymagana.
+3. Udzielenie zezwolenia powinno poprzedzo ne rokowaniami z lub wieczystym o uzyskanie zgody na wy konanie prac, o których mowa w ust. 1. Rokowania przeprowadza osoba lub jednostka organizacyjna za z wnioskiem o zezwolenie. Do wniosku dokumenty z przeprowadzo nych
 
-2. Starosta, wykonujący zadanie z zakresu administracji rządowej, udziela zezwolenia z urzędu albo na wniosek organu wykonawczego jednostki samorządu terytorialnego, innej osoby lub jednostki organizacyjnej.
+4. Na osobie lub jednostce organizacyjnej o zezwolenie przywrócenia nie do stanu poprzedniego, po lub przeprowadzeniu przewodów Dziennik Ustaw Nr 115 - 3567 - Poz. 741 i o których mowa w ust. 1. przywróce nie do stanu poprzedniego jest liwe albo powoduje nadmierne lub koszty, stosuje odpowiednio przepis art. 128 ust. 4.
 
-3. Udzielenie zezwolenia, o którym mowa w ust. 1, powinno być poprzedzone rokowaniami z właścicielem lub użytkownikiem wieczystym nieruchomości o uzyskanie zgody na wykonanie prac, o których mowa w ust. 1. Rokowania przeprowadza osoba lub jednostka organizacyjna zamierzająca wystąpić z wnioskiem o zezwolenie. Do wniosku należy dołączyć dokumenty z przeprowadzonych rokowań. Przepisy art. 114 ust. 1 i 2 oraz art. 115 stosuje się odpowiednio.
+5. lub przeprowadzenie przewodów i o których mowa w ust. 1, unie albo wieczyste mu dalsze korzystanie z w sposób dotychczasowy albo w sposób zgodny z jej dotychczasowym przeznaczeniem, lub kownik wieczysty aby odpowiednio woje woda lub z wnioskiem o zezwolenie, o którym mowa w ust. 2, od niego na rzecz Skar bu w drodze umowy, albo wanie wieczyste
 
-4. Na osobie lub jednostce organizacyjnej występującej o zezwolenie ciąży obowiązek przywrócenia nieruchomości do stanu poprzedniego, niezwłocznie po założeniu lub przeprowadzeniu ciągów, przewodów i urządzeń, o których mowa w ust. 1. Jeżeli przywrócenie nieruchomości do stanu poprzedniego jest niemożliwe albo powoduje nadmierne trudności lub koszty, stosuje się odpowiednio przepis art. 128 ust. 4.
+6. lub wieczysty nierucho jest w celu wykonania z oraz usuwaniem awarii przewodów i o których mowa w ust. 1.
 
-5. Jeżeli założenie lub przeprowadzenie ciągów, przewodów i urządzeń, o których mowa w ust. 1, uniemożliwia właścicielowi albo użytkownikowi wieczystemu dalsze prawidłowe korzystanie z nieruchomości w sposób dotychczasowy albo w sposób zgodny z jej dotychczasowym przeznaczeniem, właściciel lub użytkownik wieczysty może żądać, aby odpowiednio starosta, wykonujący zadanie z zakresu administracji rządowej, lub występujący z wnioskiem o zezwolenie, o którym mowa w ust. 2, nabył od niego na rzecz Skarbu Państwa, w drodze umowy, własność albo użytkowanie wieczyste nieruchomości.
+7. Decyzja ostateczna, o której mowa w ust. 1, sta nowi do dokonania wpisu w wieczy stej. Wpisu dokonuje na wniosek wojewody lub za gminy, zezwolenie udzielone na wnio sek gminy.
 
-6. Właściciel lub użytkownik wieczysty nieruchomości jest obowiązany udostępnić nieruchomość w celu wykonania czynności związanych z przebudową, konserwacją oraz usuwaniem awarii ciągów, przewodów i urządzeń, o których mowa w ust. 1. Obowiązek udostępnienia nieruchomości podlega egzekucji administracyjnej. Przepisy ust. 4 stosuje się odpowiednio.
-
-7. Decyzja ostateczna, o której mowa w ust. 1, stanowi podstawę do dokonania wpisu w księdze wieczystej. Wpisu dokonuje się na wniosek starosty, wykonującego zadanie z zakresu administracji rządowej, lub organu wykonawczego jednostki samorządu terytorialnego, jeżeli zezwolenie było udzielone na wniosek tej jednostki.
-
-8. W sprawach, o których mowa w ust. 1, w których stroną postępowania jest gmina lub powiat, prezydent miasta na prawach powiatu sprawujący funkcję starosty podlega wyłączeniu na zasadach określonych w rozdziale 5 działu I Kodeksu postępowania administracyjnego.
-
-**Art. 124a.** Przepisy art. 124 ust. 1–2 i 4–7, art. 124b oraz art. 125 i art. 126 stosuje się odpowiednio do nieruchomości o nieuregulowanym stanie prawnym. Do postępowania w sprawie ograniczenia sposobu korzystania z tych nieruchomości stosuje się art. 114 ust. 3 i 4, art. 115 ust. 3 i 4 oraz art. 118a ust. 2 i 3.
-
-**Art. 124b.**
-
-1. Starosta, wykonujący zadanie z zakresu administracji rządowej, w drodze decyzji zobowiązuje właściciela, użytkownika wieczystego lub osobę, której przysługują inne prawa rzeczowe do nieruchomości do udostępnienia nieruchomości w celu wykonania czynności związanych z konserwacją, remontami oraz usuwaniem awarii ciągów drenażowych, przewodów i urządzeń, nienależących do części składowych nieruchomości, służących do przesyłania lub dystrybucji płynów, pary, gazów i energii elektrycznej oraz urządzeń łączności publicznej i sygnalizacji, a także innych podziemnych, naziemnych lub nadziemnych obiektów i urządzeń niezbędnych do korzystania z tych przewodów i urządzeń, a także usuwaniem z gruntu tych ciągów, przewodów, urządzeń i obiektów, jeżeli właściciel, użytkownik wieczysty lub osoba, której przysługują inne prawa rzeczowe do nieruchomości nie wyraża na to zgody. Decyzja o zobowiązaniu do udostępniania nieruchomości może być także wydana w celu zapewnienia dojazdu umożliwiającego wykonanie czynności.
-
-2. Decyzję, o której mowa w ust. 1, wydaje się z urzędu albo na wniosek podmiotu zobowiązanego do wykonania czynności, o których mowa w ust. 1.
-
-2a. Decyzji, o której mowa w ust. 1, nadaje się rygor natychmiastowej wykonalności.
-
-3. Obowiązek udostępnienia nieruchomości może być ustanowiony na czas niedłuższy niż 6 miesięcy. Przepis art. 124 ust. 1a i 4 stosuje się odpowiednio.
-
-4. Za udostępnienie nieruchomości oraz szkody powstałe na skutek czynności, o których mowa w ust. 1, przysługuje odszkodowanie w wysokości uzgodnionej między właścicielem, użytkownikiem wieczystym lub osobą, której przysługują inne prawa rzeczowe do nieruchomości a podmiotem, któremu udostępniono nieruchomość. Jeżeli do takiego uzgodnienia nie dojdzie w terminie 30 dni, licząc od dnia, w którym upłynął termin udostępnienia nieruchomości, określony w decyzji, o której mowa w ust. 1, starosta, wykonujący zadanie z zakresu administracji rządowej wszczyna postępowanie w sprawie ustalenia odszkodowania.
-
-5. Obowiązek udostępnienia nieruchomości, o którym mowa w ust. 1, podlega egzekucji administracyjnej.
-
-**Art. 124c.**
-
-1. Przepisy art. 124 stosuje się odpowiednio dla ograniczenia, w drodze decyzji, sposobu korzystania z nieruchomości poprzez udzielenie zezwolenia na:
-
-- **1)** zakładanie na obiektach budowlanych elementów trakcji, znaków i sygnałów drogowych lub innych urządzeń bezpieczeństwa ruchu drogowego, urządzeń służących do zapewnienia bezpieczeństwa publicznego, a także urządzeń niezbędnych do korzystania z nich,
-- **2)** urządzanie i utrzymywanie ogólnodostępnego ciągu pieszego, przebiegającego przez prześwity lub podcienia, w obrysie obiektu budowlanego – jeżeli właściciel lub użytkownik wieczysty nieruchomości nie wyraża na to zgody.
-
-2. Ograniczenie, o którym mowa w ust. 1 pkt 1, następuje zgodnie z planem miejscowym, a w przypadku braku planu, zgodnie z decyzją o ustaleniu lokalizacji inwestycji celu publicznego, zaś ograniczenie, o którym mowa w ust. 1 pkt 2, następuje zgodnie z planem miejscowym.
-
-**Art. 125.**
-
-1. Starosta, wykonujący zadanie z zakresu administracji rządowej, może, w drodze decyzji, ograniczyć sposób korzystania z nieruchomości niezbędnej w celu poszukiwania, rozpoznawania, wydobywania kopalin objętych własnością górniczą. Przepisy art. 124 ust. 2–4 stosuje się odpowiednio.
-
-2. Ograniczenie, o którym mowa w ust. 1, może nastąpić wyłącznie na rzecz przedsiębiorcy, który uzyskał koncesję na wykonywanie takiej działalności, na czas niedłuższy niż termin obowiązywania koncesji. Odszkodowanie z tytułu ograniczenia wypłaca przedsiębiorca.
-
-3. Jeżeli ograniczenie, o którym mowa w ust. 1, jest ustanawiane na czas dłuższy niż rok, lub uniemożliwia właścicielowi albo użytkownikowi wieczystemu dalsze prawidłowe korzystanie z nieruchomości w sposób dotychczasowy albo w sposób zgodny z jej dotychczasowym przeznaczeniem, właściciel lub użytkownik wieczysty nieruchomości może żądać, aby przedsiębiorca nabył od niego nieruchomość. W sprawach spornych orzekają sądy powszechne.
+**Art. 125.** Wojewoda w drodze de cyzji, sposób korzystania z przez udzie lenie zezwolenia na prowadzenie polega na poszukiwaniu, rozpoznawaniu lub wydobywa niu kopalin Skarbu w okresie nie 12 ciellub wieczysty nie wyra na to zgody. Przepisy art. 124 ust. 3-5 stosuje odpowiednio.
 
 **Art. 126.**
 
-1. W przypadku siły wyższej lub nagłej potrzeby zapobieżenia powstaniu znacznej szkody, z zastrzeżeniem ust. 5, starosta, wykonujący zadanie z zakresu administracji rządowej, udziela, w drodze decyzji, zezwolenia na czasowe zajęcie nieruchomości na okres niedłuższy niż 6 miesięcy, licząc od dnia zajęcia nieruchomości. W przypadku postępowania prowadzonego na wniosek, wydanie decyzji następuje niezwłocznie, niepóźniej jednak niż w terminie 7 dni, licząc od dnia złożenia wniosku.
+1. W przypadku lub po trzeby powstaniu znacznej szkody, woje woda w drodze decyzji, zezwolenia na czasowe na okres nie 6
 
-2. Decyzji, o której mowa w ust. 1, nadaje się rygor natychmiastowej wykonalności.
+2. Decyzji, o której mowa w ust. 1, nadaje rygor natychmiastowej
 
-3. Po upływie okresu, na który nastąpiło zajęcie nieruchomości, podmiot, który zajął nieruchomość, jest obowiązany doprowadzić nieruchomość do stanu poprzedniego. Za udostępnienie nieruchomości oraz szkody powstałe w wyniku zajęcia nieruchomości przysługuje odszkodowanie w wysokości uzgodnionej między właścicielem, użytkownikiem wieczystym lub osobą, której przysługują inne prawa rzeczowe do nieruchomości a podmiotem, któremu udostępniono nieruchomość. Jeżeli do takiego uzgodnienia nie dojdzie w terminie 30 dni, licząc od dnia, w którym upłynął termin udostępnienia nieruchomości, określony w decyzji, o której mowa w ust. 1, starosta, wykonujący zadanie z zakresu administracji rządowej, wszczyna postępowanie w sprawie ustalenia odszkodowania.
+3. Po okresu, na który nie wojewoda jest do stanu poprzedniego. Gdyby przy wrócenie do stanu poprzedniego albo za nadmierne trudno lub koszty, stosuje odpowiednio przepis art. 128 ust. 4.
 
-4. Jeżeli na skutek czasowego zajęcia nieruchomości właściciel lub użytkownik wieczysty nie będzie mógł korzystać z nieruchomości w sposób dotychczasowy lub zgodny z dotychczasowym przeznaczeniem, może żądać, aby podmiot, który zajął nieruchomość, nabył od niego własność lub użytkowanie wieczyste nieruchomości w drodze umowy.
+4. na skutek czasowego nieruchomo lub wieczysty nie z w sposób dotychcza sowy lub zgodny z dotychczasowym przeznaczeniem, aby wojewoda od niego na rzecz Skarbu lub wieczyste w drodze umowy.
 
-5. W przypadku, gdy nagła potrzeba zapobieżenia okolicznościom, o których mowa w ust. 1, uniemożliwia złożenie wniosku o wydanie decyzji na czasowe zajęcie nieruchomości, właściciel lub użytkownik wieczysty nieruchomości ma obowiązek udostępnienia jej w celu zapobieżenia tym okolicznościom. Obowiązek udostępnienia nieruchomości podlega egzekucji administracyjnej. Podmiot, który zajął nieruchomość składa wniosek o wydanie tej decyzji w terminie 3 dni od dnia zajęcia nieruchomości. Decyzja może być wydana niepóźniej niż po upływie 6 miesięcy licząc od dnia zajęcia nieruchomości.
-
-6. W przypadku niezłożenia wniosku, o którym mowa w ust. 5, w terminie 3 dni, starosta, wykonujący zadanie z zakresu administracji rządowej, w drodze decyzji orzeka o nałożeniu kary w wysokości 5000 zł za każdy dzień zwłoki, licząc od dnia następującego po dniu, w którym upłynął termin do złożenia wniosku. Wpływy z kar stanowią dochód budżetu państwa.
-
-7. O nałożeniu kary, o której mowa w ust. 6, starosta, wykonujący zadanie z zakresu administracji rządowej, orzeka również w sytuacji, jeżeli nastąpiło zajęcie nieruchomości, a nie zaistniały przesłanki, o których mowa w ust. 1 i 5, uzasadniające zajęcie nieruchomości.
-
-8. Starosta, wykonujący zadanie z zakresu administracji rządowej, wydaje decyzję potwierdzającą zaistnienie przesłanek zajęcia nieruchomości w terminie 7 dni od dnia złożenia wniosku, o którym mowa w ust. 5.
-
-9. Kary, o których mowa w ust. 6 i 7, uiszcza się w terminie 14 dni od dnia doręczenia decyzji. W przypadku nieuiszczenia kary, podlega ona ściągnięciu w trybie przepisów o postępowaniu egzekucyjnym w administracji.
-
-10. Przepisy ust. 1–9 stosuje się również w przypadku nagłej potrzeby zapobieżenia znacznej szkody wynikającej z awarii, o których mowa w art. 124b.
-
-**Art. 127.** (uchylony)
-
-#### Rozdział 5 Odszkodowania za wywłaszczone nieruchomości
+**Art. 127.** Przepisy art. 124-126 stosuje odpo wiednio, stanowi przedmiot kowania, najmu, lub Odszkodowania za
 
 **Art. 128.**
 
-1. Wywłaszczenie własności nieruchomości, użytkowania wieczystego lub innego prawa rzeczowego następuje za odszkodowaniem na rzecz osoby wywłaszczonej odpowiadającym wartości tych praw.
+1. nieruchomo lub innego prawa za odszkodowaniem na rzecz osoby lub tego pra wa.
 
-2. Jeżeli na wywłaszczanej nieruchomości lub prawie użytkowania wieczystego tej nieruchomości są ustanowione inne prawa rzeczowe, odszkodowanie zmniejsza się o kwotę równą wartości tych praw.
+2. na lub pra wie wieczystego tej ustanowione inne prawa rzeczowe, odszkodowanie zmniejsza o tych praw.
 
-3. Jeżeli na wywłaszczanej nieruchomości, stanowiącej własność jednostki samorządu terytorialnego, jest ustanowione prawo użytkowania wieczystego, odszkodowanie zmniejsza się o kwotę równą wartości tego prawa.
+3. na stano gminy, jest ustanowione prawo kowania wieczystego, odszkodowanie zmniejsza o tego prawa.
 
-4. Odszkodowanie przysługuje również za szkody powstałe wskutek zdarzeń, o których mowa w art. 120 i 124–126. Odszkodowanie powinno odpowiadać wartości poniesionych szkód. Jeżeli wskutek tych zdarzeń zmniejszy się wartość nieruchomości, odszkodowanie powiększa się o kwotę odpowiadającą temu zmniejszeniu.
+4. Odszkodowanie za szkody wskutek o których mowa wart. 120 i 124-126. Odszkodowanie powinno war poniesionych szkód. wskutek tych zmniejszy odszkodowanie o temu zmniejsze niu.
 
 **Art. 129.**
 
-1. Odszkodowanie ustala starosta, wykonujący zadanie z zakresu administracji rządowej, w decyzji o wywłaszczeniu nieruchomości, z zastrzeżeniem ust. 5.
+1. Odszkodowanie ustala wojewoda w drodze decyzji. Decyzja powinna wydana w ter minie od dnia wydania decyzji o niu.
 
-2. (uchylony)
+2. Decyzja o odszkodowaniu powinna w dane wymienione wart. 119 ust. 1 pkt 2-5, a ponadto przyznanego od szkodowania.
 
-3. Jeżeli w ramach odszkodowania została przyznana nieruchomość zamienna, w decyzji, o której mowa w ust. 1, podaje się dodatkowo oznaczenie nieruchomości zamiennej według treści księgi wieczystej oraz według katastru nieruchomości, jej wartość oraz wysokość dopłaty.
+3. w ramach odszkodowania przyznana zamienna, w decyzji o odszkodowaniu po daje dodatkowo oznaczenie zamien nej wieczystej oraz katastru jej oraz
 
-4. (uchylony)
-
-5. Starosta, wykonujący zadanie z zakresu administracji rządowej, wydaje odrębną decyzję o odszkodowaniu:
-
-- **1)** w przypadkach, o których mowa w art. 98 ust. 3, art. 106 ust. 1 i art. 124–126;
-- **2)** na wniosek podmiotu realizującego cel publiczny lub właściciela wywłaszczonej nieruchomości;
-- **3)** gdy nastąpiło pozbawienie praw do nieruchomości bez ustalenia odszkodowania, a obowiązujące przepisy przewidują jego ustalenie.
+4. Wojewoda orzec w jednej decyzji o wy i o odszkodowaniu.
 
 **Art. 130.**
 
-1. Wysokość odszkodowania ustala się według stanu, przeznaczenia i wartości, wywłaszczonej nieruchomości w dniu wydania decyzji o wywłaszczeniu. W przypadku gdy starosta, wykonujący zadanie z zakresu administracji rządowej, wydaje odrębną decyzję o odszkodowaniu, wysokość odszkodowania ustala się według stanu i przeznaczenia nieruchomości w dniu pozbawienia lub ograniczenia praw, a w przypadkach, o których mowa w art. 98 ust. 3 i art. 106 ust. 1, według stanu i przeznaczenia nieruchomości odpowiednio w dniu wydania decyzji o podziale lub podjęcia uchwały o przystąpieniu do scalenia i podziału oraz jej wartości w dniu wydania decyzji o odszkodowaniu. Przepis art. 134 stosuje się odpowiednio.
+1. odszkodowania ustala stanu w dniu wydania decyzji o i jej w dniu wydania decyzji o odszkodowaniu.
 
-2. Ustalenie wysokości odszkodowania następuje po uzyskaniu opinii rzeczoznawcy majątkowego, określającej wartość nieruchomości.
+2. Ustalenie odszkodowania po uzyskaniu opinii rzeczoznawcy okre
 
 **Art. 131.**
 
-1. W ramach odszkodowania właścicielowi lub użytkownikowi wieczystemu wywłaszczonej nieruchomości może być przyznana, za jego zgodą, odpowiednia nieruchomość zamienna.
+1. W ramach odszkodowania wi lub wieczystemu przyznana, za jego od powiednia zamienna.
 
-2. Nieruchomość zamienną przyznaje się z zasobu nieruchomości Skarbu Państwa, jeżeli wywłaszczenie następuje na rzecz Skarbu Państwa, lub z zasobu nieruchomości odpowiedniej jednostki samorządu terytorialnego, jeżeli wywłaszczenie następuje na rzecz tej jednostki.
+2. przyznaje z zasobu Skarbu na rzecz Skarbu lub z gminnego za sobu na rzecz gminy.
 
-3. Nieruchomość zamienna może być przyznana w porozumieniu z Dyrektorem Generalnym Krajowego Ośrodka Wsparcia Rolnictwa, z Zasobu Własności Rolnej Skarbu Państwa, jeżeli wywłaszczenie następuje na rzecz Skarbu Państwa.
+3. zamienna przyznana, w porozumieniu z Prezesem Agencji Rolnej Skarbu z Zasobu Rolnej Skarbu na rzecz Skar bu
 
-3a. Nieruchomość zamienna może być również przyznana w porozumieniu z Prezesem Krajowego Zasobu Nieruchomości, jeżeli wywłaszczenie następuje na rzecz Skarbu Państwa.
+4. odszkodowania ustalonego w decyzji a za miennej wyrównuje przez
 
-4. Różnicę między wysokością odszkodowania ustalonego w decyzji a wartością nieruchomości zamiennej wyrównuje się przez dopłatę pieniężną.
-
-5. Przeniesienie praw do nieruchomości zamiennej na rzecz osoby, której zostało przyznane odszkodowanie, następuje z dniem, w którym decyzja o wywłaszczeniu stała się ostateczna. Decyzja ta stanowi podstawę do dokonania wpisu w księdze wieczystej.
+5. Przeniesienie praw do zamiennej na rzecz osoby, której przyznane odszkodowa nie, z dniem, w którym decyzja o odszkodo waniu ostateczna. Decyzja ta stanowi podsta do dokonania wpisu w wieczystej.
 
 **Art. 132.**
 
-1. Zapłata odszkodowania następuje jednorazowo, w terminie 14 dni od dnia, w którym decyzja o wywłaszczeniu podlega wykonaniu, z zastrzeżeniem ust. 1a i 1b.
+1. odszkodowania jed norazowo, w terminie 14 dni od dnia, w którym decy zja o odszkodowaniu ostateczna.
 
-1a. W sprawach, w których wydano odrębną decyzję o odszkodowaniu, zapłata odszkodowania następuje jednorazowo w terminie 14 dni od dnia, w którym decyzja o odszkodowaniu stała się ostateczna.
+2. Do skutków lub w od szkodowania stosuje odpowiednio przepisy Kodek su cywilnego.
 
-1b. W przypadku wydania decyzji o niezwłocznym zajęciu nieruchomości na wniosek osoby wywłaszczanej wypłaca się zaliczkę w wysokości 70 % odszkodowania ustalonego przez organ pierwszej instancji w decyzji o wywłaszczeniu. Zapłata zaliczki następuje jednorazowo w terminie 50 dni licząc od dnia złożenia wniosku o wypłatę zaliczki. Wysokość odszkodowania za wywłaszczone nieruchomości pomniejsza się o kwotę wypłaconej zaliczki.
+3. odszkodowania ustalona w decyzji o odszkodowaniu podlega waloryzacji na jego
 
-1c. Jeżeli uchylono decyzję o wywłaszczeniu lub stwierdzono nieważność decyzji o niezwłocznym zajęciu nieruchomości, osoba, której wypłacono zaliczkę, lub jej spadkobierca są zobowiązani do zwrotu tej zaliczki po jej waloryzacji na dzień zwrotu, o ile nie przysługuje im uprawnienie, o którym mowa w art. 122a.
+4. Za osoby uprawnionej do odszkodowania wojewoda inny w ust. 1-3 sposób przyznanego odszkodowania.
 
-2. Do skutków zwłoki lub opóźnienia w zapłacie odszkodowania stosuje się odpowiednio przepisy Kodeksu cywilnego.
+5. Do odszkodowania za nie oraz za szkody wskutek o których mowa wart. 120, a do zapewnienia nie zamiennej jest wojewoda, na rzecz Skarbu stwa, albo gminy, je na rzecz gminy.
 
-3. Wysokość odszkodowania ustalona w decyzji podlega waloryzacji na dzień jego zapłaty. Waloryzacji dokonuje organ, osoba lub jednostka organizacyjna zobowiązana do zapłaty odszkodowania.
+6. odszkodowania za szkody wskutek wymienionych wart. 124 i 125 lub która zezwolenie odpowiednio na lub przeprowa dzenie przewodów i albo zezwolenie na prowadzenie na poszuki waniu, rozpoznawaniu lub wydobywaniu kopalin.
 
-3a. Jeżeli decyzja, na podstawie której wypłacono odszkodowanie, została następnie uchylona lub stwierdzono jej nieważność, osoba, której wypłacono odszkodowanie, lub jej spadkobierca są zobowiązani do zwrotu tego odszkodowania po jego waloryzacji na dzień zwrotu.
+7. Do odszkodowania za szkody wskutek o których mowa wart. 126, jest zobo wojewoda.
 
-4. Za zgodą osoby uprawnionej do odszkodowania starosta, wykonujący zadanie z zakresu administracji rządowej, może ustalić inny niż określony w ust. 1–3 sposób zapłaty przyznanego odszkodowania.
-
-5. Do zapłaty odszkodowania za wywłaszczone nieruchomości, za szkody powstałe wskutek zdarzeń, o których mowa w art. 120, do zapłaty ceny nabycia części nieruchomości, o której mowa w art. 113 ust. 3, a także do zapewnienia nieruchomości zamiennej jest zobowiązany, z zastrzeżeniem ust. 6 i 8, starosta, wykonujący zadanie z zakresu administracji rządowej, jeżeli wywłaszczenie następuje na rzecz Skarbu Państwa, albo organ wykonawczy jednostki samorządu terytorialnego, jeżeli wywłaszczenie następuje na rzecz tej jednostki.
-
-6. Obowiązek zapłaty odszkodowania za szkody powstałe wskutek zdarzeń wymienionych w art. 124, art. 124b, art. 125 i art. 126 oraz za zmniejszenie wartości nieruchomości z tego powodu obciąża osobę lub jednostkę organizacyjną, która uzyskała zezwolenie odpowiednio na założenie lub przeprowadzenie ciągów drenażowych, przewodów i urządzeń, o którym mowa w art. 124 ust. 1, albo zezwolenie na wykonanie czynności związanych z konserwacją, remontami, usuwaniem awarii oraz usuwaniem z gruntu, o którym mowa w art. 124b ust. 1, albo zezwolenie na czasowe zajęcie nieruchomości w przypadku siły wyższej lub innej nagłej potrzeby zapobieżenia powstaniu znacznej szkody albo przedsiębiorcę, który na podstawie koncesji wykonuje działalność w zakresie poszukiwania, rozpoznawania lub wydobywania kopalin objętych własnością górniczą.
-
-7. (uchylony)
-
-8. Podmiot, który będzie realizował cel publiczny, może pokryć koszty należności, o których mowa w ust. 5 i 6, oraz koszty ustalenia tych należności.
-
-**Art. 133.** Odszkodowanie wpłaca się do depozytu sądowego, jeżeli:
+**Art. 133.** Odszkodowanie do depozytu
 
 **Art. 134.**
 
-1. Podstawę ustalenia wysokości odszkodowania stanowi, z zastrzeżeniem art. 135, wartość rynkowa nieruchomości.
+1. ustalenia odszko dowania stanowi, z art. 135, rynkowa
 
-2. Przy określaniu wartości rynkowej nieruchomości uwzględnia się w szczególności jej rodzaj, położenie, sposób użytkowania, przeznaczenie, stan nieruchomości oraz aktualnie kształtujące się ceny w obrocie nieruchomościami.
+2. Przy rynkowej nieruchomo w jej rodzaj. nie, sposób przeznaczenie w planie miej scowym, w infra struktury technicznej, stan zagospodarowania oraz ak tualnie ceny w obrocie nieruchomo
 
-3. Wartość nieruchomości dla celów odszkodowania określa się według aktualnego sposobu jej użytkowania, jeżeli przeznaczenie nieruchomości, zgodne z celem wywłaszczenia, nie powoduje zwiększenia jej wartości.
+3. we aktualnego sposobu jej prze znaczenie w planie miejscowym, zgod ne z celem nie powoduje jej
 
-4. Jeżeli przeznaczenie nieruchomości, zgodne z celem wywłaszczenia, powoduje zwiększenie jej wartości, wartość nieruchomości dla celów odszkodowania określa się według alternatywnego sposobu użytkowania wynikającego z tego przeznaczenia.
+4. przeznaczenie w planie miejscowym, zgodne z celem powodu je jej nierucho alternatywnego sposobu z tego przeznaczenia.
 
 **Art. 135.**
 
-1. Jeżeli ze względu na rodzaj nieruchomości nie można określić jej wartości rynkowej, gdyż tego rodzaju nieruchomości nie występują w obrocie, określa się jej wartość odtworzeniową.
+1. ze na rodzaj nierucho nie jej rynkowej. tego rodzaju nie w obrocie, jej
 
-2. Przy określaniu wartości odtworzeniowej nieruchomości, oddzielnie określa się wartość gruntu i oddzielnie wartość jego części składowych.
+2. Przy odtworzeniowej nieru oddzielnie gruntu i od dzielnie jego
 
-3. Przy określaniu wartości gruntu stosuje się przepisy art. 134 ust. 2–4.
+3. Przy gruntu stosuje prze pisy art. 134 ust. 2-4.
 
-4. Przy określaniu wartości budynków lub ich części, budowli, urządzeń infrastruktury technicznej i innych urządzeń szacuje się koszt ich odtworzenia, z uwzględnieniem stopnia zużycia.
+4. Przy budynków lub ich budowli, infrastruktury technicznej i in nych szacuje koszt ich odtworzenia, z stopnia
 
-5. Przy określaniu wartości drzewostanu leśnego albo zadrzewień, jeżeli w drzewostanie znajdują się materiały użytkowe, szacuje się wartość drewna znajdującego się w tym drzewostanie. Jeżeli w drzewostanie nie występuje materiał użytkowy lub wartość drewna, które może być pozyskane, jest niższa od kosztów zalesienia i pielęgnacji drzewostanu, szacuje się koszty zalesienia oraz koszty pielęgnacji drzewostanu do dnia wywłaszczenia.
+5. Przy drzewostanu albo w drzewostanie szacuje drewna znaj w tym drzewostanie. w drzewosta nie nie lub drew na, które pozyskane, jest od kosztów zalesienia i drzewostanu, szacuje koszty zalesienia oraz koszty drzewostanu do dnia
 
-6. Przy określaniu wartości plantacji kultur wieloletnich szacuje się koszty założenia plantacji i jej pielęgnacji do czasu pierwszych zbiorów oraz wartość utraconych pożytków w okresie od dnia wywłaszczenia do dnia zakończenia pełnego plonowania. Sumę kosztów i wartość utraconych pożytków zmniejsza się o sumę rocznych odpisów amortyzacyjnych, wynikającą z okresu wykorzystania plantacji od pierwszego roku plonowania do dnia wywłaszczenia.
+6. Przy plantacji kultur wielolet nich szacuje koszty plantacji i jej cji do czasu pierwszych zbiorów oraz utraco nych w okresie od dnia do dnia plonowania. kosztów i utraconych zmniejsza o rocznych odpisów amortyzacyjnych, z okresu wykorzystania plantacji od pierwszego roku plonowania do dnia
 
-7. Przy określaniu wartości zasiewów, upraw i innych zbiorów jednorocznych szacuje się wartość przewidywanych plonów według cen kształtujących się w obrocie rynkowym, zmniejszając ją o wartość nakładów koniecznych w związku ze zbiorem tych plonów.
-
-#### Rozdział 6 Zwrot wywłaszczonych nieruchomości
+7. Przy zasiewów, upraw i in nych zbiorów jednorocznych szacuje prze widywanych plonów cen w obrocie rynkowym, o dów koniecznych w ze zbiorem tych plonów. 6 Zwrot
 
 **Art. 136.**
 
-1. Nieruchomość wywłaszczona nie może być użyta na cel inny niż określony w decyzji o wywłaszczeniu, z uwzględnieniem art. 137, chyba że poprzedni właściciel lub jego spadkobierca nie złożą wniosku o zwrot tej nieruchomości.
+1. nie na cel inny w decyzji o wy chyba poprzedni lub jego prawny nie wniosku o zwrot tej nieru
 
-2. W razie powzięcia zamiaru użycia wywłaszczonej nieruchomości lub jej części na inny cel niż określony w decyzji o wywłaszczeniu właściwy organ zawiadamia poprzedniego właściciela lub jego spadkobiercę o tym zamiarze, informując równocześnie o możliwości zwrotu wywłaszczonej nieruchomości lub udziału w tej nieruchomości albo części wywłaszczonej nieruchomości lub udziału w tej części.
+2. W razie zamiaru lub jej na inny cel w decyzji o organ zawiada mia poprzedniego lub jego praw nego o tym zamiarze, o zwrotu
 
-2a. W przypadku braku możliwości ustalenia adresu poprzedniego właściciela lub jego spadkobiercy zawiadomienia dokonuje się w drodze obwieszczenia. Obwieszczenie podaje się do publicznej wiadomości na okres 3 miesięcy poprzez wywieszenie w siedzibie właściwego organu oraz umieszczenie na jego stronie podmiotowej w Biuletynie Informacji Publicznej. Informację o obwieszczeniu właściwy organ podaje do publicznej wiadomości przez ogłoszenie w prasie lokalnej o zasięgu obejmującym co najmniej powiat, na terenie którego położona jest nieruchomość.
+3. Poprzedni lub jego prawny zwrotu lub jej stosownie do przepisu art. 137, na cel w decyzji o Z wnioskiem o zwrot lub jej wy do wojewody, o tym wy organ. Przepis ust. stosuje odpowiednio do nabytej w drodze umowy zgodnie z art. 113 ust. 3.
 
-2b. Zawiadomienie zawiera w szczególności:
-
-- **1)** wskazanie nieruchomości według księgi wieczystej lub zbioru dokumentów oraz według katastru nieruchomości;
-- **2)** oznaczenie decyzji administracyjnej stanowiącej podstawę wywłaszczenia;
-- **3)** imię i nazwisko poprzedniego właściciela lub jego spadkobiercy;
-- **4)** informację o tym, że z wnioskiem o zwrot występuje się do starosty, wykonującego zadanie z zakresu administracji rządowej;
-- **5)** pouczenie o skutkach niezłożenia wniosku o zwrot w terminie, o którym mowa w ust. 5 i 7.
-
-3. Poprzedni właściciel lub jego spadkobierca mogą żądać zwrotu wywłaszczonej nieruchomości lub udziału w tej nieruchomości albo części wywłaszczonej nieruchomości lub udziału w tej części, jeżeli, stosownie do przepisu art. 137, nieruchomość lub jej część stała się zbędna na cel określony w decyzji o wywłaszczeniu. Z wnioskiem o zwrot występuje się do starosty, wykonującego zadanie z zakresu administracji rządowej, który zawiadamia o tym właściwy organ gospodarujący zasobem nieruchomości. Warunkiem zwrotu wywłaszczonej nieruchomości lub udziału w tej nieruchomości albo części wywłaszczonej nieruchomości lub udziału w tej części jest zwrot przez poprzedniego właściciela lub jego spadkobiercę odszkodowania lub nieruchomości zamiennej stosownie do art. 140.
-
-3a. W przypadku gdy postępowanie w sprawie zwrotu dotyczy udziału w wywłaszczonej nieruchomości lub udziału w jej części, starosta, wykonujący zadanie z zakresu administracji rządowej, zawiadamia pozostałych uprawnionych o możliwości zwrotu udziału w wywłaszczonej nieruchomości albo udziału w jej części.
-
-3b. W przypadku gdy zostało zgłoszone więcej niż jedno żądanie zwrotu udziału w wywłaszczonej nieruchomości lub w jej części, starosta, wykonujący zadanie z zakresu administracji rządowej, prowadzi jedno postępowanie dotyczące wszystkich żądań.
-
-4. Przepisy ust. 3–3b stosuje się odpowiednio do części nieruchomości nabytej w drodze umowy zgodnie z art. 113 ust. 3.
-
-5. W przypadku niezłożenia przez uprawnionego wniosku o zwrot wywłaszczonej nieruchomości lub udziału w tej nieruchomości albo części wywłaszczonej nieruchomości lub udziału w tej części w terminie 3 miesięcy od dnia otrzymania zawiadomienia, o którym mowa w ust. 2, albo od dnia następującego po dniu, w którym upłynął okres, o którym mowa w ust. 2a, uprawnienie do zwrotu wywłaszczonej nieruchomości lub udziału w tej nieruchomości albo części wywłaszczonej nieruchomości lub udziału w tej części wygasa.
-
-6. (utracił moc)
-
-7. Uprawnienie do zwrotu, o którym mowa w ust. 3, wygasa, jeżeli od dnia, w którym decyzja o wywłaszczeniu stała się ostateczna, upłynęło 20 lat, a w tym terminie uprawniony nie złożył wniosku, o którym mowa w ust. 3. W takim przypadku właściwy organ nie ma obowiązku zawiadamiania oraz informowania, o którym mowa w ust. 2.
+5. W przypadku wniosku o zwrot wy lub jej w terminie 3 od dnia otrzymania zawiadomienia o zwrotu, uprawnienie do zwrotu lub jej wygasa.
 
 **Art. 137.**
 
-1. Nieruchomość uznaje się za zbędną na cel określony w decyzji o wywłaszczeniu, jeżeli:
+1. uznaje za na cel w decyzji o pomimo lat od dnia, w którym decyzja o ostateczna, nie to prac z tego celu albo moc decyzja o ustaleniu lokalizacji inwesty cji lub decyzja o warunkach zabudowy i zagospo darowania terenu, a cel ten nie zrealizowa ny.
 
-- **1)** pomimo upływu 7 lat od dnia, w którym decyzja o wywłaszczeniu stała się ostateczna, nie rozpoczęto prac związanych z realizacją tego celu albo
-- **2)** pomimo upływu 10 lat od dnia, w którym decyzja o wywłaszczeniu stała się ostateczna, cel ten nie został zrealizowany.
-
-2. Jeżeli w przypadku, o którym mowa w ust. 1 pkt 2, cel wywłaszczenia został zrealizowany tylko na części wywłaszczonej nieruchomości, zwrotowi podlega pozostała część.
+2. w przypadku, o którym mowa w ust. 1 pkt 2, cel zrealizowany tylko na zwrotowi podle ga
 
 **Art. 138.**
 
-1. Jeżeli nieruchomość lub jej część podlegająca zwrotowi została oddana w trwały zarząd lub została obciążona prawem użytkowania, prawa te wygasają z dniem, w którym decyzja o zwrocie wywłaszczonej nieruchomości stała się ostateczna. Przepis art. 90 ust. 2 stosuje się odpowiednio.
+1. lub jej pod zwrotowi oddana w lub prawem prawa te wy z dniem, w którym decyzja o zwrocie czonej ostateczna. Przepis art. 90 ust. 2 stosuje odpowiednio.
 
-2. Najem, dzierżawa lub użyczenie zwracanej nieruchomości wygasa z upływem 3 miesięcy od dnia, w którym decyzja o zwrocie wywłaszczonej nieruchomości stała się ostateczna.
+2. Umowa najmu, lub zwraca nej wygasa z 3 od dnia, w którym decyzja o zwrocie nie ostateczna.
 
-**Art. 139.** Nieruchomość wywłaszczona podlega zwrotowi w stanie, w jakim znajduje się w dniu jej zwrotu.
+**Art. 139.** Nieruchomość podlega zwrotowi w stanie, w jakim znajduje w dniu jej zwrotu.
 
 **Art. 140.**
 
-1. W razie zwrotu wywłaszczonej nieruchomości poprzedni właściciel lub jego spadkobierca zwraca Skarbowi Państwa lub właściwej jednostce samorządu terytorialnego, w zależności od tego, kto jest właścicielem nieruchomości w dniu zwrotu, ustalone w decyzji odszkodowanie, a także nieruchomość zamienną, jeżeli była przyznana w ramach odszkodowania.
+1. W razie zwrotu nieru poprzedni lub jego prawny zwraca Skarbowi lub gminie, w od tego, kto jest w dniu zwrotu, odszkodowanie, a nie przyznana w ramach odszkodowania. Zwrotowi kwoty z odszkodowania na wo bec Skarbu lub wobec gminy.
 
-2. Odszkodowanie pieniężne podlega waloryzacji, z tym że jego wysokość po waloryzacji, z zastrzeżeniem art. 217 ust. 2, nie może być wyższa niż wartość rynkowa nieruchomości w dniu zwrotu, a jeżeli ze względu na rodzaj nieruchomości nie można określić jej wartości rynkowej, nie może być wyższa niż jej wartość odtworzeniowa.
+2. Odszkodowanie oraz kwoty, o których mowa w ust. 1, waloryzacji, z tym ich po waloryzacji, z art. 217 ust. 2, nie mo rynkowa w dniu zwrotu, a ze na rodzaj nierucho nie jej rynkowej, nie jej odtworzeniowa.
 
-3. Jeżeli zwrotowi podlega część wywłaszczonej nieruchomości, zwracaną kwotę odszkodowania ustala się proporcjonalnie do powierzchni tej części nieruchomości.
+3. W razie zmniejszenia albo warto wskutek na nieru po jej zwaloryzowane od szkodowanie podlega odpowiednio zmniejszeniu lub o ustalonej na zwrotu. Przy ustalaniu przyj muje stan z dnia oraz stan z dnia zwrotu.
 
-3a. Jeżeli zwrotowi podlega udział w wywłaszczonej nieruchomości albo w jej części, zwracaną kwotę odszkodowania ustala się proporcjonalnie do wielkości udziału.
+4. Ustalenie stopnia zmniejszenia albo po uzyskaniu opinii rzeczoznawcy
 
-4. W razie zmniejszenia się albo zwiększenia wartości nieruchomości wskutek działań podjętych bezpośrednio na nieruchomości po jej wywłaszczeniu, odszkodowanie, ustalone stosownie do ust. 2, pomniejsza się albo powiększa o kwotę równą różnicy wartości określonej na dzień zwrotu. Przy określaniu wartości nieruchomości przyjmuje się stan nieruchomości z dnia wywłaszczenia oraz stan nieruchomości z dnia zwrotu. Nie uwzględnia się skutków wynikających ze zmiany przeznaczenia w planie miejscowym i zmian w otoczeniu nieruchomości. Przepisy ust. 3 i 3a stosuje się odpowiednio.
+5. zwrot odszkodowania polega na zwrocie zamiennej, za zwaloryzowane odszko dowanie przyjmuje w dniu zwrotu tej Przepisy ust. i stosuje odpo wiednio.
 
-5. Jeżeli w ramach odszkodowania została przyznana nieruchomość zamienna oraz dopłata pieniężna, oprócz nieruchomości zamiennej zwraca się także tę dopłatę w wysokości ustalonej według zasad, o których mowa w ust. 2, z tym że wysokość zwaloryzowanej kwoty nie może być wyższa niż różnica między wartością nieruchomości zwracanej a wartością nieruchomości zamiennej określonej na dzień zwrotu. Przy określaniu wartości nieruchomości nie uwzględnia się skutków wynikających ze zmiany przeznaczenia w planie miejscowym i zmian w otoczeniu nieruchomości. W razie zmniejszenia się albo zwiększenia wartości nieruchomości zamiennej stosuje się dopłaty pieniężne równe różnicy wartości tej nieruchomości określonej na dzień zwrotu.
-
-6. Koszty postępowania o zwrot nieruchomości ponosi odpowiednio Skarb Państwa albo właściwa jednostka samorządu terytorialnego w zależności od tego, któremu z tych podmiotów odszkodowanie jest zwracane.
+6. Koszty o zwrot po nosi odpowiednio Skarb albo gmina w od tego, któremu z tych podmiotów odszkodo wanie jest zwracane.
 
 **Art. 141.**
 
-1. Należności, o których mowa w art. 140, mogą być, na wniosek poprzedniego właściciela albo jego spadkobiercy, rozłożone na raty, niedłużej niż na 10 lat. Warunki rozłożenia na raty określa się w decyzji o zwrocie wywłaszczonej nieruchomości.
+1. o których mowa wart. 140, na wniosek poprzedniego albo jego prawnego, na raty, nie na 10 lat. Warunki na raty w decyzji o zwrocie
 
-2. Wierzytelności Skarbu Państwa lub właściwej jednostki samorządu terytorialnego z tytułu, o którym mowa w art. 140, podlegają stosownemu zabezpieczeniu. Jeżeli zabezpieczenie polega na ustanowieniu hipoteki na nieruchomości, decyzja o zwrocie stanowi podstawę wpisu hipoteki do księgi wieczystej.
+2. Skarbu lub gminy z tytu o którym mowa w ust. 1, stosownemu za bezpieczeniu. zabezpieczenie polega na ustano wieniu hipoteki na decyzja o zwrocie stanowi wpisu hipoteki do wieczystej.
 
-3. Raty, o których mowa w ust. 1, podlegają oprocentowaniu przy zastosowaniu stopy procentowej równej stopie redyskonta weksli stosowanej przez Narodowy Bank Polski.
+3. o których mowa w ust. 1, oprocentowaniu przy zastosowaniu stopy procentowej równej stopie redyskonta weksli stosowanej przez Na rodowy Bank Polski.
 
-4. Do skutków zwłoki lub opóźnienia w zapłacie należności stosuje się odpowiednio przepisy Kodeksu cywilnego.
+4. Do skutków lub w na stosuje odpowiednio przepisy Kodeksu cy wilnego.
 
-**Art. 142.**
-
-1. O zwrocie wywłaszczonych nieruchomości, zwrocie odszkodowania, w tym także nieruchomości zamiennej, oraz o rozliczeniach z tytułu zwrotu i terminach zwrotu orzeka starosta, wykonujący zadanie z zakresu administracji rządowej, w drodze decyzji.
-
-2. W sprawach, o których mowa w ust. 1, w których stroną postępowania jest gmina lub powiat, prezydent miasta na prawach powiatu sprawujący funkcję starosty podlega wyłączeniu na zasadach określonych w rozdziale 5 działu I Kodeksu postępowania administracyjnego.
-
-**Art. 142a.** Przepisy art. 136–142 stosuje się odpowiednio do nieruchomości nabytych w drodze umowy, o której mowa w art. 114 ust. 1.
-
-#### Rozdział 7 Udział w kosztach budowy urządzeń infrastruktury technicznej
+**Art. 142.** O zwrocie nieruchomo zwrocie odszkodowania, w tym nieruchomo zamiennej oraz o rozliczeniach z zwrotu i ter minach zwrotu orzeka wojewoda w drodze decyzji. 7 w kosztach budowy infrastruktury technicznej
 
 **Art. 143.**
 
-1. Przepisy niniejszego rozdziału stosuje się do nieruchomości bez względu na ich rodzaj i położenie, jeżeli urządzenia infrastruktury technicznej zostały wybudowane z udziałem środków Skarbu Państwa, jednostek samorządu terytorialnego, środków pochodzących z budżetu Unii Europejskiej lub ze źródeł zagranicznych niepodlegających zwrotowi, z wyłączeniem nieruchomości przeznaczonych w planie miejscowym na cele rolne i leśne, a w przypadku braku planu miejscowego do nieruchomości wykorzystywanych na cele rolne i leśne. Przepis art. 92 ust. 2 stosuje się odpowiednio.
+1. Przepisy niniejszego stosuje do bez na ich rodzaj i infrastruktury technicznej zo wybudowane z Skarbu stwa lub gminy, z prze znaczonych w planie miejscowym na cele rolne i
 
-2. Przez budowę urządzeń infrastruktury technicznej rozumie się budowę drogi oraz wybudowanie pod ziemią, na ziemi albo nad ziemią przewodów lub urządzeń wodociągowych, kanalizacyjnych, ciepłowniczych, elektrycznych, gazowych i telekomunikacyjnych.
+2. Przez infrastruktury technicz nej rozumie albo drogi oraz wybudowanie pod na ziemi albo nad zie przewodów lub kanali zacyjnych, elektrycznych, gazowych i telekomunikacyjnych.
 
 **Art. 144.**
 
-1. Właściciele nieruchomości uczestniczą w kosztach budowy urządzeń infrastruktury technicznej przez wnoszenie na rzecz gminy opłat adiacenckich.
+1. w kosztach budowy infrastruktury technicz nej przez wnoszenie na rzecz gminy adiacenc kich.
 
-2. Przepis ust. 1 stosuje się także do użytkowników wieczystych nieruchomości gruntowych, którzy na podstawie odrębnych przepisów nie mają obowiązku wnoszenia opłat rocznych za użytkowanie wieczyste lub wnieśli, za zgodą właściwego organu, jednorazowo opłaty roczne za cały okres użytkowania wieczystego.
+2. Przepis ust. 1 stosuje do wieczystych gruntowych, którzy na podstawie przepisów nie wnoszenia rocznych za wieczyste lub za organu, jednorazo wo roczne za okres wieczyste go.
 
 **Art. 145.**
 
-1. Wójt, burmistrz albo prezydent miasta może, w drodze decyzji, ustalić opłatę adiacencką każdorazowo po stworzeniu warunków do podłączenia nieruchomości do poszczególnych urządzeń infrastruktury technicznej albo po stworzeniu warunków do korzystania z wybudowanej drogi.
+1. gminy w drodze decyzji, po lub modernizacji drogi albo po stworzeniu warunków do do poszczególnych infrastruktury technicznej.
 
-2. Wszczęcie postępowania w sprawie ustalenia opłaty adiacenckiej może nastąpić w terminie do 3 lat od dnia stworzenia warunków do podłączenia nieruchomości do poszczególnych urządzeń infrastruktury technicznej albo od dnia stworzenia warunków do korzystania z wybudowanej drogi, jeżeli w dniu stworzenia tych warunków obowiązywała uchwała rady gminy, o której mowa w art. 146 ust. 2. Do ustalenia opłaty przyjmuje się stawkę procentową określoną w uchwale rady gminy obowiązującą w dniu, w którym stworzono warunki do podłączenia nieruchomości do poszczególnych urządzeń infrastruktury technicznej albo w dniu stworzenia warunków do korzystania z wybudowanej drogi.
+2. Ustalenie adiacenckiej w terminie do 3 lat od dnia lub moderniza cji drogi albo od stworzenia warunków do do poszczególnych infra struktury technicznej.
 
 **Art. 146.**
 
-1. Ustalenie i wysokość opłaty adiacenckiej zależą od wzrostu wartości nieruchomości spowodowanego budową urządzeń infrastruktury technicznej.
+1. Ustalenie i adiacenc kiej od wzrostu spowo dowanego infrastruktury technicz nej.
 
-1a. Ustalenie opłaty adiacenckiej następuje po uzyskaniu opinii rzeczoznawcy majątkowego, określającej wartości nieruchomości.
+2. adiacenckiej wynosi nie 50% przed wybudowaniem infrastruktury technicznej, a ma po ich wybudowaniu. stawki procentowej adiacenckiej ustala rada gminy w drodze
 
-2. Wysokość opłaty adiacenckiej wynosi niewięcej niż 50 % różnicy między wartością, jaką nieruchomość miała przed wybudowaniem urządzeń infrastruktury technicznej, a wartością, jaką nieruchomość ma po ich wybudowaniu. Wysokość stawki procentowej opłaty adiacenckiej ustala rada gminy w drodze uchwały.
-
-2a. W odniesieniu do nieruchomości położonych na obszarze Specjalnej Strefy Rewitalizacji, o której mowa w rozdziale 5 ustawy z dnia 9 października 2015 r. o rewitalizacji, wysokość opłaty, o której mowa w ust. 2, wynosi niewięcej niż 75 % różnicy między wartością, jaką nieruchomość miała przed wybudowaniem urządzeń infrastruktury technicznej, a wartością, jaką nieruchomość ma po ich wybudowaniu.
-
-3. Wartość nieruchomości według stanu przed wybudowaniem urządzeń infrastruktury technicznej i po ich wybudowaniu określa się według cen na dzień, w którym stworzono warunki do podłączenia nieruchomości do poszczególnych urządzeń infrastruktury technicznej albo na dzień stworzenia warunków do korzystania z wybudowanej drogi.
+3. przed wybudowaniem infrastruktury technicznej i po ich wybudo waniu rzeczoznawcy sta nu i cen na wydania decyzji o ustaleniu adiacenckiej.
 
 **Art. 147.**
 
-1. Opłata adiacencka może być, na wniosek właściciela nieruchomości, rozłożona na raty roczne płatne w okresie do 10 lat. Warunki rozłożenia na raty określa się w decyzji o ustaleniu opłaty. Należność gminy z tego tytułu podlega zabezpieczeniu, w tym przez ustanowienie hipoteki. Decyzja o ustaleniu opłaty adiacenckiej stanowi podstawę wpisu do księgi wieczystej.
+1. adiacencka na wnio sek na raty rocz ne w okresie do 10 lat. Warunki na ra ty w decyzji o ustaleniu gminy z tego podlega zabezpieczeniu.
 
-2. Raty, o których mowa w ust. 1, podlegają oprocentowaniu przy zastosowaniu stopy procentowej równej stopie redyskonta weksli stosowanej przez Narodowy Bank Polski.
+2. o których mowa w ust. 1, opro centowaniu przy zastosowaniu stopy procentowej równej stopie redyskonta weksli stosowanej przez Na rodowy Bank Polski.
 
 **Art. 148.**
 
-1. Obowiązek wnoszenia opłaty adiacenckiej powstaje po upływie 14 dni od dnia, w którym decyzja o ustaleniu opłaty stała się ostateczna. W przypadku rozłożenia opłaty na raty obowiązek ten dotyczy wpłacenia pierwszej raty.
+1. wnoszenia adiacenc kiej powstaje po 14 dni od dnia, w którym de cyzja o ustaleniu ostateczna. W przy padku na raty ten dotyczy pierwszej raty.
 
-2. Do skutków zwłoki lub opóźnienia w zapłacie opłaty adiacenckiej stosuje się odpowiednio przepisy Kodeksu cywilnego.
+2. Do skutków lub w adiacenckiej stosuje odpowiednio przepisy Kodeksu cywilnego.
 
-3. Wysokość opłaty adiacenckiej ustalona w decyzji podlega waloryzacji począwszy od pierwszego dnia miesiąca następującego po miesiącu, w którym wydana została decyzja, do pierwszego dnia miesiąca, w którym powstał obowiązek zapłaty.
+3. adiacenckiej ustalona w decy zji podlega waloryzacji od pierwszego dnia po w którym wyda na decyzja, do pierwszego dnia w którym
 
-4. Na poczet opłaty adiacenckiej zalicza się wartość świadczeń pieniężnych wniesionych przez właściciela lub użytkownika wieczystego nieruchomości na rzecz budowy poszczególnych urządzeń infrastruktury technicznej.
+4. Na poczet adiacenckiej zalicza wniesionych przez lub nika wieczystego w gotówce lub w na turze, na rzecz budowy poszczególnych infra struktury technicznej. IV Wycena 1
 
-5. Do ulg w spłacie oraz umarzania należności z tytułu opłaty adiacenckiej stosuje się przepisy ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
-
-**Art. 148a.** (uchylony)
-
-**Art. 148b.**
-
-1. Ustalenie, że zostały stworzone warunki do podłączenia nieruchomości do urządzeń infrastruktury technicznej albo warunki do korzystania z wybudowanej drogi, następuje na podstawie odrębnych przepisów.
-
-2. Właściwym organom gminy, rzeczoznawcom majątkowym sporządzającym opinie o wartości nieruchomości, o których mowa w art. 146 ust. 1a, a także osobom zobowiązanym do wniesienia opłaty adiacenckiej, właściwe podmioty są obowiązane udzielać informacji w sprawach ustalenia, o którym mowa w ust. 1, że zostały stworzone warunki do podłączenia nieruchomości do urządzeń infrastruktury technicznej albo warunki do korzystania z wybudowanej drogi, wystarczające do ustalenia tej opłaty.
-
-### DZIAŁ IV Wycena nieruchomości
-
-#### Rozdział 1 Określanie wartości nieruchomości
-
-**Art. 149.** Przepisy niniejszego rozdziału stosuje się do wszystkich nieruchomości, bez względu na ich rodzaj, położenie i przeznaczenie, a także bez względu na podmiot własności i cel wyceny, z wyłączeniem określania wartości nieruchomości w związku z realizacją ustawy o scalaniu i wymianie gruntów.
+**Art. 149.** Przepisy niniejszego stosuje do wszystkich bez na ich ro dzaj, i przeznaczenie w planie miejscowym, a bez na podmiot z niem w z ustawy o scalaniu i wymianie gruntów.
 
 **Art. 150.**
 
-1. W wyniku wyceny nieruchomości dokonuje się:
+1. W wyniku wyceny doko nuje Dziennik Ustaw Nr 115 - 3571 - Poz. 741
 
-- **1)** określenia wartości rynkowej;
-- **2)** określenia wartości odtworzeniowej;
-- **3)** ustalenia wartości katastralnej;
-- **4)** (uchylony)
-- **5)** określenia innych rodzajów wartości przewidzianych w odrębnych przepisach.
+- **1)** rynkowej,
+- **2)** odtworzeniowej,
+- **3)** ustalenia katastralnej.
 
-2. Wartość rynkową określa się dla nieruchomości, które są lub mogą być przedmiotem obrotu.
+2. dla które lub przedmiotem obrotu.
 
-3. Wartość odtworzeniową określa się dla nieruchomości, które ze względu na rodzaj, obecne użytkowanie lub przeznaczenie nie są lub nie mogą być przedmiotem obrotu rynkowego, a także jeżeli wymagają tego przepisy szczególne.
+3. dla nieru które ze na obecne lub przeznaczenie nie lub nie przedmio tem obrotu rynkowego, a tego przepisy szczególne.
 
-4. Wartość katastralną nieruchomości ustala się dla nieruchomości, o których mowa w przepisach o podatku od nieruchomości. Zasady i tryb ustalania tej wartości regulują przepisy rozdziału 2 niniejszego działu.
+4. ustala dla o których mowa w przepisach o podat ku od Zasady i tryb ustalania tej warto przepisy 2 niniejszego
 
-5. Określenia wartości wymienionych w ust. 1 pkt 1 i 2 oraz w art. 161 dokonują rzeczoznawcy majątkowi, o których mowa w przepisach rozdziału 1 działu V.
-
-6. (uchylony)
+5. wymienionych w ust. 1 pkt 1 i 2 oraz wart. 161 rzeczoznawcy o których mowa w przepisach 1 V.
 
 **Art. 151.**
 
-1. Wartość rynkową nieruchomości stanowi szacunkowa kwota, jaką w dniu wyceny można uzyskać za nieruchomość w transakcji sprzedaży zawieranej na warunkach rynkowych pomiędzy kupującym a sprzedającym, którzy mają stanowczy zamiar zawarcia umowy, działają z rozeznaniem i postępują rozważnie oraz nie znajdują się w sytuacji przymusowej.
+1. stano wi jej przewidywana cena, do uzyskania na rynku, ustalona z cen transakcyjnych uzyskanych przy warunków:
 
-2. Wartość odtworzeniowa nieruchomości jest równa kosztom jej odtworzenia, z uwzględnieniem stopnia zużycia.
+- **1)** strony umowy od siebie nie w sytuacji przymusowej oraz stanowczy zamiar zawarcia umowy,
+- **2)** czas do wyeksponowania nieru na rynku i do wynegocjowania warun ków umowy.
 
-3. Wartość katastralną nieruchomości stanowi wartość ustalona w procesie powszechnej taksacji nieruchomości.
+2. odtworzeniowa jest równa kosztom jej odtworzenia, z stopnia
 
 **Art. 152.**
 
-1. Sposoby określania wartości nieruchomości, stanowiące podejścia do ich wyceny, są uzależnione od przyjętych rodzajów czynników wpływających na wartość nieruchomości.
+1. Sposoby nierucho do ich wyceny, nione od rodzajów czynników cych na
 
-2. Wyceny nieruchomości dokonuje się przy zastosowaniu podejść: porównawczego, dochodowego lub kosztowego, albo mieszanego, zawierającego elementy podejść poprzednich.
-
-3. Przy zastosowaniu podejścia porównawczego lub dochodowego określa się wartość rynkową nieruchomości. Jeżeli istniejące uwarunkowania nie pozwalają na zastosowanie podejścia porównawczego lub dochodowego, wartość rynkową nieruchomości określa się w podejściu mieszanym. Przy zastosowaniu podejścia kosztowego określa się wartość odtworzeniową nieruchomości.
+2. Wyceny dokonuje przy zasto sowaniu porównawczego, dochodowego lub kosztowego, albo mieszanego, elemen ty poprzednich.
 
 **Art. 153.**
 
-1. Podejście porównawcze polega na określeniu wartości nieruchomości przy założeniu, że wartość ta odpowiada cenom, jakie uzyskano za nieruchomości podobne, które były przedmiotem obrotu rynkowego. Ceny te koryguje się ze względu na cechy różniące nieruchomości podobne od nieruchomości wycenianej oraz uwzględnia się zmiany poziomu cen wskutek upływu czasu. Podejście porównawcze stosuje się, jeżeli są znane ceny i cechy nieruchomości podobnych do nieruchomości wycenianej.
+1. porównawcze polega na przy ta odpowiada cenom, jakie uzyskano za nieru podobne, które przedmiotem obrotu rynkowego. koryguje ze na cechy te i ustala z zmian poziomu cen wskutek czasu. porównawcze stosuje znane ceny podobnych do nierucho wycenianych.
 
-2. Podejście dochodowe polega na określaniu wartości nieruchomości przy założeniu, że jej nabywca zapłaci za nią cenę, której wysokość uzależni od przewidywanego dochodu, jaki uzyska z nieruchomości. Stosuje się je przy wycenie nieruchomości przynoszących lub mogących przynosić dochód.
+2. dochodowe polega na war przy jej nabywca za za której od przewi dywanego dochodu, jaki uzyska z Stosuje je przy wycenie lub dochód.
 
-3. Podejście kosztowe polega na określaniu wartości nieruchomości przy założeniu, że wartość ta odpowiada kosztom jej odtworzenia, pomniejszonym o wartość zużycia nieruchomości. Przy podejściu tym określa się oddzielnie koszt nabycia gruntu i koszt odtworzenia jego części składowych.
+3. kosztowe polega na warto przy ta odpo wiada kosztom jej odtworzenia, pomniejszonym o war Przy tym okre oddzielnie koszt nabycia gruntu i koszt odtwo rzenia jego
 
-**Art. 154.**
-
-1. Wyboru właściwego podejścia oraz metody i techniki szacowania nieruchomości dokonuje rzeczoznawca majątkowy, uwzględniając w szczególności cel wyceny, rodzaj i położenie nieruchomości, przeznaczenie w planie miejscowym, stan nieruchomości oraz dostępne dane o cenach, dochodach i cechach nieruchomości podobnych.
-
-2. W przypadku braku planu miejscowego przeznaczenie nieruchomości ustala się na podstawie decyzji o warunkach zabudowy i zagospodarowania terenu.
-
-3. W przypadku braku planu miejscowego oraz decyzji o warunkach zabudowy i zagospodarowania terenu uwzględnia się faktyczny sposób użytkowania nieruchomości lub ustalenia planu ogólnego gminy.
+**Art. 154.** Wyboru oraz meto dy i techniki szacowania dokonuje rze czoznawca w cel wyceny, rodzaj i dla niej w planie miejscowym, w infrastruktury technicznej, stan jej zagospodarowania oraz dane o ce nach podobnych.
 
 **Art. 155.**
 
-1. Przy szacowaniu nieruchomości wykorzystuje się wszelkie, niezbędne i dostępne dane o nieruchomościach, zawarte w szczególności w:
+1. Przy szacowaniu wyko rzystuje wszelkie dane o nieruchomo zawarte w w:
 
-- **1)** księgach wieczystych;
-- **2)** katastrze nieruchomości;
-- **3)** ewidencji sieci uzbrojenia terenu;
-- **3a)** ewidencji numeracji porządkowej nieruchomości;
-- **3b)** rejestrach zabytków;
-- **4)** tabelach taksacyjnych i na mapach taksacyjnych tworzonych na podstawie art. 169;
-- **5)** planach miejscowych, decyzjach o warunkach zabudowy i zagospodarowania terenu, pozwoleniach na budowę oraz planach ogólnych gmin;
-- **6)** wykazach prowadzonych przez urzędy skarbowe;
-- **6a)** dokumentach będących w posiadaniu agencji, którym Skarb Państwa powierzył, w drodze ustaw, wykonywanie prawa własności i innych praw rzeczowych na jego rzecz;
-- **6b)** w aktach notarialnych znajdujących się w posiadaniu spółdzielni mieszkaniowych, dotyczących zbywania spółdzielczych praw do lokali;
-- **7)** umowach, orzeczeniach, decyzjach i innych dokumentach, będących podstawą wpisu do ksiąg wieczystych oraz do rejestrów wchodzących w skład operatu katastralnego;
-- **8)** świadectwie charakterystyki energetycznej.
+- **1)** wieczystych,
+- **2)** katastrze
+- **3)** ewidencji sieci uzbrojenia terenu,
+- **4)** tabelach taksacyjnych i na mapach taksacyjnych tworzonych na podstawie art. 169,
+- **5)** planach miejscowych,
+- **6)** wykazach prowadzonych przez skarbowe,
+- **7)** umowach, orzeczeniach, decyzjach i innych doku mentach, wpisu do wie czystych, rejestrów w operatu katastralnego, a do z operatów szacunkowych przekazywanych do katastru.
 
-2. Wykorzystane w operacie szacunkowym dane poświadczone przez rzeczoznawcę majątkowego mogą mieć formę wypisów i wyrysów z dokumentów lub rejestrów, o których mowa w ust. 1.
+2. Wykorzystane w operacie szacunkowym dane, o których mowa w ust. 1, wypisów i wyrysów, przez ma
 
-3. Właściwe organy, agencje, o których mowa w ust. 1 pkt 6a, spółdzielnie mieszkaniowe, sądy oraz urzędy skarbowe są obowiązane udostępniać rzeczoznawcom majątkowym rejestry i dokumenty, o których mowa w ust. 1, w tym umożliwiać sporządzanie kopii dokumentów w dowolnej formie.
+3. organy oraz udo rzeczoznawcom dane, o których mowa w ust. 1.
 
-4. Przy wycenie nieruchomości na potrzeby związane w szczególności z pozbawieniem lub ograniczeniem praw do nieruchomości, a także z ponoszeniem ciężarów i świadczeń publicznych, w tym podatków, rzeczoznawca majątkowy działający na zlecenie organów administracji publicznej lub sądów ma prawo wstępu na nieruchomość będącą przedmiotem wyceny oraz dokonywania niezbędnych czynności związanych z szacowaniem nieruchomości.
+**Art. 156.** Rzeczoznawca na o w formie ope ratu szacunkowego.
 
-**Art. 156.**
+**Art. 157.** W razie istotnych w opiniach o tej samej przez rzeczoznawców oceny tych wycen dokonuje organizacja zawodowa rzeczoznawców
 
-1. Rzeczoznawca majątkowy sporządza na piśmie opinię o wartości nieruchomości w formie operatu szacunkowego.
+**Art. 158.** Rzeczoznawcy z art. 175 ust. 3, organom cym kataster z wykonanych przez siebie operatów szacunkowych, opi sy oraz ich w terminie 3 mie od dnia ich Dziennik Ustaw Nr 115 - 3572- Poz. 741
 
-1a. Jednostka sektora finansów publicznych lub inny podmiot, który w zakresie, w jakim wykorzystuje środki publiczne w rozumieniu przepisów ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych lub dysponuje nimi, zlecił rzeczoznawcy majątkowemu sporządzenie operatu szacunkowego, są obowiązani umożliwić osobie, której interesu prawnego dotyczy jego treść, przeglądanie tego operatu oraz sporządzanie z niego notatek i odpisów. Osoba ta może żądać uwierzytelnienia sporządzonych przez siebie odpisów z operatu szacunkowego lub wydania jej z operatu szacunkowego uwierzytelnionych odpisów, o ile jest to uzasadnione ważnym interesem tej osoby.
+**Art. 159.** Rada Ministrów w drodze rozpo zasady wyceny oraz zasady i tryb operatu szacunkowe go. 2 Powszechna taksacja
 
-2. Rzeczoznawca majątkowy nie ponosi odpowiedzialności za wykorzystanie operatu bez jego zgody do innego celu niż cel, dla którego został sporządzony.
-
-3. Operat szacunkowy może być wykorzystywany do celu, dla którego został sporządzony, przez okres 12 miesięcy od daty jego sporządzenia, chyba że wystąpiły zmiany uwarunkowań prawnych lub istotne zmiany czynników, o których mowa w art. 154.
-
-4. Operat szacunkowy może być wykorzystywany po upływie okresu, o którym mowa w ust. 3, po potwierdzeniu jego aktualności przez rzeczoznawcę majątkowego. Potwierdzenie aktualności operatu szacunkowego następuje przez umieszczenie stosownej klauzuli w operacie szacunkowym przez rzeczoznawcę, który go sporządził, oraz dołączenie do operatu szacunkowego analizy potwierdzającej, że od daty jego sporządzenia nie wystąpiły zmiany uwarunkowań prawnych lub istotne zmiany czynników, o których mowa w art. 154. Po potwierdzeniu aktualności operat szacunkowy może być wykorzystywany do celu, dla którego został sporządzony, w kolejnych 12 miesiącach, licząc od dnia upływu okresu, o którym mowa w ust. 3, chyba że wystąpią zmiany uwarunkowań prawnych lub istotne zmiany czynników, o których mowa w art. 154.
-
-5. Przepisy ust. 3 i 4 nie naruszają uregulowań wynikających z przepisów odrębnych.
-
-**Art. 157.**
-
-1. Oceny prawidłowości sporządzenia operatu szacunkowego dokonuje organizacja zawodowa rzeczoznawców majątkowych w terminie niedłuższym niż 2 miesiące od dnia zawarcia umowy o dokonanie tej oceny, mając na względzie następujące zasady:
-
-- **1)** organizacja zawodowa rzeczoznawców majątkowych wyznacza zespół oceniający w składzie co najmniej 2 rzeczoznawców majątkowych;
-- **2)** w ocenie nie mogą brać udziału rzeczoznawcy majątkowi, wobec których zachodzą przesłanki wymienione w art. 24 Kodeksu postępowania administracyjnego lub inne przesłanki, które mogą budzić uzasadnione wątpliwości co do ich bezstronności.
-
-1a. (uchylony)
-
-2. Sporządzenie przez innego rzeczoznawcę majątkowego wyceny tej samej nieruchomości w formie operatu szacunkowego nie może stanowić podstawy oceny prawidłowości sporządzenia operatu szacunkowego, o którym mowa w ust. 1.
-
-3. W przypadku gdy operat szacunkowy został sporządzony przez osoby powołane lub ustanowione przez sąd, o ocenę operatu może wnioskować tylko sąd.
-
-4. Przepisy ust. 1 i 3 stosuje się odpowiednio w przypadku rozbieżnych operatów szacunkowych określających wartość tej samej nieruchomości dla tożsamego celu wyceny.
-
-**Art. 158.** (uchylony)
-
-**Art. 159.** Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa określi, w drodze rozporządzenia, rodzaje metod i technik wyceny nieruchomości, sposoby określania wartości nieruchomości, wartości nakładów i szkód na nieruchomości oraz sposób sporządzania, formę i treść operatu szacunkowego, uwzględniając:
-
-#### Rozdział 2 Powszechna taksacja nieruchomości
-
-**Art. 160.** Przepisy niniejszego rozdziału stosuje się do nieruchomości, dla których ustala się wartość katastralną.
+**Art. 160.** Przepisy niniejszego stosuje do dla których ustala kata
 
 **Art. 161.**
 
-1. Powszechna taksacja nieruchomości ma na celu ustalanie wartości katastralnej nieruchomości i jest przeprowadzana, na podstawie niniejszej ustawy oraz odrębnych przepisów, przez organy prowadzące kataster nieruchomości.
+1. Powszechna taksacja ma na celu ustalanie katastralnej nierucho i jest przeprowadzana, na podstawie niniejszej ustawy oraz przepisów, przez organy pro kataster
 
-2. Wartość katastralną nieruchomości ustala się na podstawie oszacowania nieruchomości reprezentatywnych dla poszczególnych rodzajów nieruchomości na obszarze danej gminy. Do ustalania wartości tych nieruchomości stosuje się przepisy rozdziału 1 niniejszego działu. Wartość nieruchomości reprezentatywnych określa się z wykorzystaniem cen transakcyjnych nieruchomości na obszarze gminy, a w przypadku braku dostatecznej liczby transakcji, na obszarze gmin sąsiadujących.
+2. ustala na podstawie oszacowania reprezenta tywnych dla poszczególnych rodzajów na obszarze danej gminy. Do ustalania tych stosuje przepisy 1 niniej szego reprezentatywne przedmiotem obrotu, ustala z wykorzystaniem cen transakcyjnych tych nieru
 
-3. Czynności szacowania nieruchomości reprezentatywnych w celu ustalenia wartości katastralnej, a także w celu sporządzenia map taksacyjnych i tabel taksacyjnych, wykonują rzeczoznawcy majątkowi.
+3. szacowania reprezen tatywnych w celu ustalenia katastralnej, a tak w celu map taksacyjnych i tabel taksa cyjnych, rzeczoznawcy
 
 **Art. 162.**
 
-1. Wartości katastralne, ustalone w procesie powszechnej taksacji nieruchomości, powinny uwzględniać różnice, jakie występują między poszczególnymi nieruchomościami oraz zbliżenie do wartości rynkowej możliwe do uzyskania przy zastosowaniu zasad przyjętych dla masowej wyceny.
+1. katastralne, ustalone w proce sie powszechnej taksacji powinny jakie poszcze gólnymi oraz do rynkowej do uzyskania przy zastosowaniu za sad dla masowej wyceny.
 
-2. Wartości katastralne wykorzystuje się do ustalania podstawy opodatkowania podatkiem od nieruchomości, a także w zakresie określonym niniejszą ustawą albo przepisami odrębnych ustaw, przy określaniu wartości nieruchomości stanowiących własność Skarbu Państwa lub właściwej jednostki samorządu terytorialnego, albo przy wykonywaniu czynności urzędowych, do których wykonania niezbędne jest określenie wartości nieruchomości.
+2. katastralne wykorzystuje do ustala nia podstawy opodatkowania podatkiem od nierucho a w zakresie albo przepisami ustaw, przy Skar bu lub gminy, albo przy wykonywaniu czyn do których wykonania jest
 
 **Art. 163.**
 
-1. Powszechną taksację nieruchomości przeprowadza się okresowo. Termin rozpoczęcia oraz zakończenia powszechnej taksacji nieruchomości, a także źródła jej finansowania, określi odrębna ustawa.
+1. przeprowadza okresowo. Termin oraz powszechnej taksacji a jej finansowania, ustawa.
 
-2. W okresach rocznych dzielących przeprowadzanie kolejnych powszechnych taksacji nieruchomości ustalone w wyniku poprzedniej powszechnej taksacji wartości katastralne przeszacowuje się, stosując wskaźniki cen nieruchomości, o których mowa w art. 5.
+2. W okresach rocznych przeprowadza nie kolejnych powszechnych taksacji ustalone w wyniku poprzedniej powszechnej taksacji katastralne przeszacowuje cen o których mowa wart. 5.
 
-3. Rada gminy może podjąć uchwałę o przeprowadzeniu na koszt gminy powszechnej taksacji nieruchomości w okresie między terminami ustalonymi w ustawie, o której mowa w ust. 1, jednak nieczęściej niż co 3 lata.
+3. Rada gminy o przeprowa dzeniu na koszt gminy powszechnej taksacji nieruchow okresie terminami ustalonymi w usta wie, o której mowa w ust. l, jednak nie co 3 lata.
 
 **Art. 164.**
 
-1. Podstawą do ustalenia wartości katastralnej poszczególnych nieruchomości są mapy taksacyjne i tabele taksacyjne.
+1. do ustalenia kata stralnej poszczególnych mapy taksa cyjne i tabele taksacyjne.
 
-2. Wartość katastralną nieruchomości ustala się dla całych nieruchomości lub ich części, jeżeli zostały wyodrębnione jako przedmioty opodatkowania w przepisach o podatku od nieruchomości.
+2. ustala dla lub ich wy jako przedmioty opodatkowania w przepi sach o podatku od
 
-3. Jeżeli nieruchomość jest położona na obszarze więcej niż jednej gminy, wartość katastralną ustala się odrębnie dla każdej części nieruchomości położonej w każdej z tych gmin.
+3. jest na obszarze jednej gminy, ustala dla w z tych gmin.
 
-4. Jeżeli zachodzi potrzeba zastosowania kilku podejść w celu ustalenia wartości katastralnej tej samej nieruchomości, wartość tę ustala się odrębnie dla każdej części nieruchomości, dla której zastosowano odrębne podejście.
+4. zachodzi potrzeba zastosowania kilku po w celu ustalenia katastralnej tej samej ustala dla dej dla której zastosowano od
 
-**Art. 165.** Wartość katastralną nieruchomości gruntowej stanowi wartość katastralna gruntu oraz wartość katastralna jego części składowych.
+**Art. 165.** Wartość grun towej stanowi katastralna gruntu oraz katastralna jego
 
 **Art. 166.**
 
-1. W celu ustalenia wartości katastralnej gruntu określa się dla stref wyodrębnionych, ze względu na podobne czynniki wpływające na wartość rynkową, jednostkowe wartości powierzchni gruntów położonych w tych strefach.
+1. W celu ustalenia katastralnej gruntu dla stref ze du na podobne czynniki na rynko jednostkowe powierzchni gruntów w tych strefach.
 
-2. Jednostkowe wartości powierzchni gruntów w wyodrębnionych strefach przedstawia się w wykazach tych stref, stanowiących integralną część map taksacyjnych.
+2. Jednostkowe powierzchni gruntów w strefach przedstawia na ma pach taksacyjnych.
 
-3. Wartość katastralną gruntu ustala się jako iloczyn powierzchni wykazanej w katastrze nieruchomości oraz jednostkowej wartości, o której mowa w ust. 2.
+3. gruntu ustala jako ilo czyn powierzchni wykazanej w katastrze nieruchomo oraz jednostkowej wykazanej na mapie taksacyjnej.
 
 **Art. 167.**
 
-1. W celu ustalenia wartości katastralnej części składowych gruntu określa się jednostkowe wartości powierzchni tych części składowych w grupach, uwzględniając ich położenie oraz różnice, jakie między nimi występują.
+1. W celu ustalenia katastralnej gruntu jednostkowe powierzchni tych w gru pach, ich oraz jakie nimi
 
-2. Jednostkowe wartości powierzchni części składowych gruntu w wyodrębnionych grupach wykazuje się w tabelach taksacyjnych.
+2. Jednostkowe powierzchni dowych gruntu w grupach wykazuje w tabelach taksacyjnych.
 
-3. Wartość katastralną części składowych gruntu ustala się jako sumę wartości katastralnej poszczególnych obiektów składających się na te części. Wartość katastralną poszczególnych obiektów ustala się jako iloczyn ich powierzchni wykazanej w katastrze nieruchomości oraz wartości jednostkowej wykazanej w tabelach taksacyjnych.
+3. gruntu ustala jako katastralnej poszczegól nych obiektów na te poszczególnych obiektów ustala jako iloczyn ich powierzchni wykazanej w katastrze nieru oraz jednostkowej wykazanej w ta belach taksacyjnych.
 
-4. Przepisy ust. 1–3 stosuje się odpowiednio do budynków oraz lokali stanowiących odrębny przedmiot własności.
+4. Przepisy ust. 1-3 stosuje odpowiednio do budynków oraz lokali przed miot Poz. 741
 
-**Art. 168.** Przepisy art. 166 i 167 stosuje się również w razie konieczności ponownego ustalenia wartości katastralnej po przeprowadzeniu powszechnej taksacji nieruchomości.
+**Art. 168.** Przepisy art. 166 i 167 stosuje w razie ponownego ustalenia katastralnej po przeprowadzeniu powszechnej taksacji
 
 **Art. 169.**
 
-1. Mapy taksacyjne i tabele taksacyjne sporządza organ prowadzący kataster nieruchomości na podstawie oszacowania nieruchomości reprezentatywnych, wykonanego przez rzeczoznawców majątkowych.
+1. Mapy taksacyjne i tabele taksacyjne organ kataster na podstawie oszacowania reprezenta tywnych, wykonanego przez rzeczoznawców wych.
 
-2. Organ prowadzący kataster nieruchomości, w porozumieniu z właściwym terytorialnie wójtem, burmistrzem albo prezydentem miasta, wykłada mapy taksacyjne i tabele taksacyjne do publicznego wglądu na okres co najmniej 21 dni. Informację o wyłożeniu ogłasza się w formie obwieszczenia oraz w miejscowej prasie, a także w sposób zwyczajowo przyjęty w danej miejscowości, określając miejsce i termin wyłożenia wraz z pouczeniem o możliwości zgłaszania zarzutów.
+2. Organ kataster w porozumieniu z gminy, mapy taksacyjne i tabele taksacyjne do publicznego na okres co najmniej 21 dni. o wy w formie obwieszczenia oraz w miejscowej prasie, a w sposób zwyczajowo w danej miejsce i ter min wraz z pouczeniem o szania zarzutów.
 
-3. Każdy, czyjego interesu prawnego dotyczą ustalenia wynikające z map i tabel taksacyjnych, może w okresie wyłożenia zgłaszać do nich zarzuty.
+3. czyjego interesu prawnego usta lenia z map i tabel taksacyjnych, w okresie do nich zarzuty.
 
-4. Organ prowadzący kataster nieruchomości rozpatruje zgłoszone zarzuty i przedstawia je radzie gminy właściwej dla miejsca położenia nieruchomości, wraz z propozycją rozstrzygnięcia, dołączając mapy i tabele taksacyjne. Rada gminy podejmuje uchwałę w sprawie nadania mocy urzędowej mapom taksacyjnym i tabelom taksacyjnym, w której rozstrzyga również o sposobie załatwienia zgłoszonych zarzutów.
+4. Organ kataster roz patruje zarzuty i przedstawia je radzie gmi ny dla miejsca wraz z mapy i tabele taksacyjne. Rada gminy podejmuje w sprawie nadania mocy mapom taksacyj nym i tabelom taksacyjnym, w której rozstrzyga rów o sposobie zarzutów.
 
-5. Stronie niezadowolonej ze sposobu załatwienia zgłoszonych zarzutów przysługuje skarga do sądu administracyjnego.
+5. Stronie niezadowolonej ze sposobu zarzutów skarga do Naczelne go Administracyjnego.
 
-6. Uchwała rady gminy w sprawie nadania mocy urzędowej mapom taksacyjnym i tabelom taksacyjnym podlega ogłoszeniu w wojewódzkim dzienniku urzędowym.
+6. rady gminy w sprawie nadania mocy mapom taksacyjnym i tabelom taksacyj nym podlega w wojewódzkim dzienniku
 
 **Art. 170.**
 
-1. Organ prowadzący kataster orzeka, w drodze decyzji, o ustaleniu wartości katastralnej nieruchomości i jej wpisie w katastrze nieruchomości.
+1. Organ kataster orzeka, w drodze decyzji, o ustaleniu katastralnej nie i jej wpisie w katastrze
 
-2. Decyzja, o której mowa w ust. 1, podlega natychmiastowemu wykonaniu.
+2. Decyzja, o której mowa w ust. 1, podlega natych miastowemu wykonaniu.
 
-3. Wartości katastralne nieruchomości ustalone na podstawie obowiązujących map i tabel taksacyjnych, wpisane w katastrze nieruchomości, uzyskują z datą ich wpisu moc danych urzędowych.
+3. katastralne ustalone na podstawie map i tabel taksacyjnych, wpisane w katastrze z ich wpisu moc danych
 
-4. Wartości, o których mowa w ust. 3, mogą być aktualizowane na wniosek właściciela lub użytkownika wieczystego oraz innej osoby, na której ciąży obowiązek podatkowy, a także z urzędu, na podstawie indywidualnego oszacowania nieruchomości. Przepisy ust. 1 i 2 stosuje się odpowiednio.
+4. o których mowa w ust. 3, aktualizowane na wniosek lub wieczystego oraz innej osoby, na której zek podatkowy, a z na podstawie indywi dualnego oszacowania Przepisy ust. 1 i 2 stosuje odpowiednio.
 
 **Art. 171.**
 
-1. Osoby, o których mowa w art. 170 ust. 4, są obowiązane dostarczyć organowi prowadzącemu kataster nieruchomości dokumenty i informacje dotyczące tej nieruchomości, niezbędne do przeprowadzenia powszechnej taksacji nieruchomości.
+1. Osoby, o których mowa wart. 170 ust. 4, organowi kataster dokumenty i informacje doty tej do przeprowadze nia powszechnej taksacji
 
-2. W razie niedostarczenia dokumentów i informacji, o których mowa w ust. 1, organ prowadzący kataster nieruchomości, po przeprowadzeniu postępowania wyjaśniającego, ustala wartość katastralną tej nieruchomości na podstawie dostępnych dokumentów i informacji.
+2. W razie niedostarczenia dokumentów i informa cji, o których mowa w ust. 1, organ kata ster po przeprowadzeniu nia ustala tej nie na podstawie dokumentów i informacji.
 
 **Art. 172.**
 
-1. Naczelny organ administracji państwowej, właściwy w sprawach katastru nieruchomości, przeprowadza co roku na wybranych obszarach kontrolę powszechnej taksacji nieruchomości.
+1. Naczelny organ administracji wej, w sprawach katastru przeprowadza co roku na wybranych obszarach kon powszechnej taksacji
 
-2. Wyniki kontroli, o której mowa w ust. 1, mogą stanowić podstawę do przeprowadzenia kolejnej powszechnej taksacji nieruchomości na wybranych obszarach.
+2. Wyniki kontroli, o której mowa w ust. 1, do przeprowadzenia kolejnej po wszechnej taksacji na wybranych ob szarach.
 
-**Art. 173.** Rada Ministrów określi, w drodze rozporządzenia, sposób przeprowadzenia powszechnej taksacji nieruchomości, uwzględniając:
-
-#### Rozdział 3 Badanie rynku nieruchomości
-
-**Art. 173a.**
-
-1. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa dokonuje okresowych badań rynku nieruchomości, ze szczególnym uwzględnieniem nieruchomości przeznaczonych na cele mieszkaniowe lub wykorzystywanych na te cele. Badania dotyczą cen transakcyjnych nieruchomości, stawek czynszów oraz częstotliwości obrotu nieruchomościami.
-
-2. (uchylony)
-
-**Art. 173b.** Organy administracji publicznej dysponujące informacjami o rynku nieruchomości, a w szczególności organy statystyki publicznej uzyskujące informacje statystyczne w zakresie i terminach określonych w programie badań statystycznych i organy właściwe w sprawach katastru nieruchomości są obowiązane do nieodpłatnego udostępniania do wglądu ministrowi właściwemu do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa posiadanych informacji dotyczących rynku nieruchomości.
-
-**Art. 173c.** Przez informacje o rynku nieruchomości, o których mowa w art. 173b, rozumie się informacje dotyczące w szczególności cen transakcyjnych nieruchomości, stawek czynszów oraz częstotliwości obrotu nieruchomościami.
-
-### DZIAŁ V Działalność zawodowa w dziedzinie gospodarowania nieruchomościami
-
-#### Rozdział 1 Rzeczoznawstwo majątkowe
+**Art. 173.** Rada Ministrów w drodze rozpo zasady i tryb przeprowadzania powszechnej taksacji i jej kontroli oraz rodzaje i wzory dokumentów stosowanych przy prze prowadzaniu taksacji. V zawodowa w dziedzinie gospodarowania 1 Rzeczoznawstwo
 
 **Art. 174.**
 
-1. Rzeczoznawstwo majątkowe jest działalnością zawodową wykonywaną przez rzeczoznawców na zasadach określonych w niniejszej ustawie.
+1. Rzeczoznawstwo jest dzia przez rzeczoznaw ców na zasadach w niniejszej ustawie.
 
-2. Rzeczoznawcą majątkowym jest osoba fizyczna posiadająca uprawnienia zawodowe w zakresie szacowania nieruchomości, nadane w trybie przepisów rozdziału 4 niniejszego działu.
+2. jest osoba fizyczna uprawnienia zawodowe w zakresie szaco wania nadane w trybie przepisów roz 4 niniejszego
 
-3. Rzeczoznawca majątkowy dokonuje określania wartości nieruchomości, a także maszyn i urządzeń trwale związanych z nieruchomością.
+3. Rzeczoznawca ma prawo szacowania a maszyn i trwale zanych z gruntem.
 
-3a. Rzeczoznawca majątkowy może sporządzać opracowania i ekspertyzy, niestanowiące operatu szacunkowego, dotyczące:
+4. Z art. 230 ust. 2, osoby ne lub ustanawiane i wpisywane na dowych z zakresu szacowania powinny uprawnienia zawodowe w zakresie szacowa nia nadane w trybie 4 niniej szego
 
-- **1)** rynku nieruchomości oraz doradztwa w zakresie tego rynku;
-- **2)** efektywności inwestowania w nieruchomości i ich rozwoju;
-- **3)** skutków finansowych uchwalania lub zmiany planów miejscowych;
-- **4)** oznaczania przedmiotu odrębnej własności lokali;
-- **5)** bankowo-hipotecznej wartości nieruchomości;
-- **6)** określania wartości nieruchomości na potrzeby indywidualnego inwestora;
-- **7)** wyceny nieruchomości zaliczanych do inwestycji w rozumieniu przepisów o rachunkowości;
-- **8)** wyceny nieruchomości jako środków trwałych jednostek w rozumieniu ustawy o rachunkowości.
+5. Rzeczoznawca nie funkcji
 
-3b. Z dniem wpisu do centralnego rejestru rzeczoznawców majątkowych osoba, o której mowa w ust. 2, nabywa prawo wykonywania zawodu oraz używania tytułu zawodowego „rzeczoznawca majątkowy”. Tytuł zawodowy „rzeczoznawca majątkowy” podlega ochronie prawnej.
-
-4. Biegłych sądowych z zakresu szacowania nieruchomości powołuje się lub ustanawia spośród osób posiadających uprawnienia zawodowe w zakresie szacowania nieruchomości, nadane w trybie rozdziału 4 niniejszego działu.
-
-5. Rzeczoznawca majątkowy nie może odmówić pełnienia funkcji biegłego sądowego.
-
-6. Prowadzenie działalności w zakresie szacowania nieruchomości na terytorium Rzeczypospolitej Polskiej jest możliwe, w przypadku gdy czynności z zakresu szacowania nieruchomości będą wykonywane przez rzeczoznawców majątkowych.
-
-7. Rzeczoznawca majątkowy wykonuje zawód:
-
-- **1)** prowadząc we własnym imieniu działalność gospodarczą jednoosobowo lub w ramach spółki osobowej w zakresie szacowania nieruchomości, lub
-- **2)** w ramach stosunku pracy lub umowy cywilnoprawnej u podmiotu prowadzącego działalność w zakresie szacowania nieruchomości.
-
-8. (uchylony)
-
-9. Przepis ust. 7 nie dotyczy biegłych sądowych wykonujących wycenę na zlecenie sądu.
+6. Podmioty gospodarcze w zakresie szacowania z tego zakresu wykonywane przez rze czoznawców
 
 **Art. 175.**
 
-1. Rzeczoznawca majątkowy jest zobowiązany do wykonywania czynności, o których mowa w art. 174 ust. 3 i 3a, zgodnie z zasadami wynikającymi z przepisów prawa, ze szczególną starannością właściwą dla zawodowego charakteru tych czynności oraz z zasadami etyki zawodowej, kierując się zasadą bezstronności w wycenie nieruchomości.
+1. Rzeczoznawca jest zany do wykonywania szacowania nierucho zgodnie z zasadami z przepisów prawa i standardami zawodowymi, ze sta dla zawodowego charakteru tych oraz z zasadami etyki zawodowej, w wycenie
 
-2. Rzeczoznawca majątkowy jest zobowiązany do stałego doskonalenia kwalifikacji zawodowych oraz dokumentowania wypełniania tego obowiązku. Dokumentację potwierdzającą wypełnianie tego obowiązku rzeczoznawca majątkowy przechowuje przez okres 5 lat.
+2. Rzeczoznawca jest do doskonalenia kwalifikacji zawodowych.
 
-3. Informacje uzyskane przez rzeczoznawcę majątkowego w związku z wykonywaniem zawodu stanowią tajemnicę zawodową. W szczególności informacje uzyskane w toku wykonywania czynności zawodowych nie mogą być przekazywane osobom trzecim, chyba że odrębne przepisy stanowią inaczej lub w przypadkach, o których mowa w art. 157, art. 194, art. 195 i art. 195a.
+3. Rzeczoznawca jest wy dane, o których mowa wart. 155, z zachowaniem zasady W szcze nie osobom trzecim infor macji uzyskanych w toku wykonywania sza cowania chyba przepisy ustawy lub przepisy ustaw inaczej.
 
-4. Przedsiębiorca prowadzący działalność, o której mowa w art. 174 ust. 3 i 3a, podlega obowiązkowemu ubezpieczeniu odpowiedzialności cywilnej za szkody wyrządzone w związku z wykonywaniem umowy, której jest stroną, a której przedmiotem są czynności wskazane w art. 174 ust. 3 i 3a. Jeżeli wykonuje ją przy pomocy rzeczoznawcy majątkowego związanego z tym przedsiębiorcą umową o pracę lub umową cywilnoprawną, podlega on również odpowiedzialności cywilnej za szkody wyrządzone działaniem tej osoby.
-
-4a. Kopia dokumentu ubezpieczenia, o którym mowa w ust. 4, aktualnego na dzień sporządzenia operatu szacunkowego, stanowi załącznik do operatu szacunkowego lub umowy o dokonanie wyceny nieruchomości.
-
-4b. Przepis ust. 4a stosuje się odpowiednio w przypadku potwierdzenia aktualności operatu szacunkowego, o którym mowa w art. 156 ust. 4, a także w odniesieniu do opracowań i ekspertyz niestanowiących operatu szacunkowego, o których mowa w art. 174 ust. 3a.
-
-5. Minister właściwy do spraw instytucji finansowych w porozumieniu z ministrem właściwym do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, po zasięgnięciu opinii Polskiej Izby Ubezpieczeń, określi, w drodze rozporządzenia, szczegółowy zakres ubezpieczenia obowiązkowego, o którym mowa w ust. 4, termin powstania obowiązku ubezpieczenia oraz minimalną sumę gwarancyjną, biorąc w szczególności pod uwagę specyfikę wykonywanego zawodu oraz zakres realizowanych zadań, a także sposoby uznawania ubezpieczeń i gwarancji zawodowych wydanych w państwach członkowskich, o których mowa w art. 3 pkt 6 ustawy z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2025 r. poz. 89, 619, 621 i 1794).
-
-6. (uchylony)
-
-**Art. 176.** Rzeczoznawca majątkowy podlega wyłączeniu od udziału w szacowaniu nieruchomości, jeżeli zachodzą przesłanki wymienione w art. 24 Kodeksu postępowania administracyjnego.
+**Art. 176.** Rzeczoznawca podlega czeniu od w szacowaniu wymienione wart. 24 Kodeksu po administracyjnego.
 
 **Art. 177.**
 
-1. Uprawnienia zawodowe w zakresie szacowania nieruchomości nadaje się osobie fizycznej, która:
+1. Uprawnienia zawodowe w zakresie sza cowania nadaje osobie, która:
 
-- **1)** posiada pełną zdolność do czynności prawnych;
-- **2)** nie była karana za przestępstwo przeciwko działalności instytucji państwowych oraz samorządu terytorialnego, za przestępstwo przeciwko wymiarowi sprawiedliwości, za przestępstwo przeciwko wiarygodności dokumentów, za przestępstwo przeciwko mieniu, za przestępstwo przeciwko obrotowi gospodarczemu, za przestępstwo przeciwko obrotowi pieniędzmi i papierami wartościowymi lub za przestępstwo skarbowe;
-- **3)** posiada wyższe wykształcenie;
-- **4)** ukończyła studia podyplomowe w zakresie wyceny nieruchomości;
-- **5)** odbyła co najmniej 6-miesięczną praktykę zawodową w zakresie wyceny nieruchomości;
-- **6)** przeszła z wynikiem pozytywnym postępowanie kwalifikacyjne, w tym złożyła egzamin dający uprawnienia w zakresie szacowania nieruchomości.
+- **1)** posiada do prawnych,
+- **2)** nie karana za przeciwko mieniu, dokumentom, za gospodarcze, za szowanie papierów znaków za skarbowe oraz za inne znaczenie ze na wykonywany zawód,
+- **3)** posiada
+- **4)** studia podyplomowe w zakresie wyceny
+- **5)** w zakresie wyceny nie
+- **6)** z wynikiem pozytywnym kwalifikacyjne, w tym egzamin uprawnienia w zakresie szacowania nieruchomo
 
-1a. Przebieg praktyki zawodowej, o której mowa w ust. 1 pkt 5, jest rejestrowany w dzienniku praktyki zawodowej. Kandydat na rzeczoznawcę majątkowego ponosi opłatę za wydanie dziennika praktyki zawodowej, w wysokości nieprzekraczającej 3 % kwoty przeciętnego miesięcznego wynagrodzenia w gospodarce narodowej w roku poprzedzającym wydanie dziennika praktyki zawodowej, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
+2. o którym mowa w ust. 1 pkt 4, nie do tyczy osoby, która studia o specjal z
 
-2. Obowiązek, o którym mowa w ust. 1 pkt 4, nie dotyczy osoby, która posiada dyplom ukończenia studiów wyższych na kierunku, którego program umożliwia nabycie wiedzy i umiejętności w zakresie wyceny nieruchomości w takim stopniu, jak program studiów podyplomowych w zakresie wyceny nieruchomości, co potwierdza suplement do dyplomu lub zaświadczenie uczelni.
-
-2a. (uchylony) 2b. Obowiązek, o którym mowa w ust. 1 pkt 5, nie dotyczy osoby która:
-
-- **1)** odbyła praktykę w zakresie wyceny nieruchomości objętą programem studiów w wymiarze jednego semestru, pod warunkiem, że praktyka była realizowana na podstawie umowy dotyczącej praktyki zawartej między uczelnią a organizacją zawodową rzeczoznawców majątkowych, lub
-- **2)** posiada udokumentowane dwuletnie doświadczenie zawodowe świadczące o nabyciu wiedzy i umiejętności w zakresie wyceny nieruchomości w takim stopniu jak osoby, które odbyły praktykę zawodową, o której mowa w ust. 1 pkt
-
-5.
-
-3. (uchylony)
-
-4. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa określi wzór zaświadczenia, o którym mowa w ust. 2, w formie dokumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
+3. Osoba nie obywatelstwa polskiego uprawnienia zawodowe w zakresie sza cowania po warunków wy mienionych w ust. 1 oraz po wykazaniu zna polskiego.
 
 **Art. 178.**
 
-1. Rzeczoznawca majątkowy niewypełniający obowiązków, o których mowa w art. 175 ust. 1–3, podlega odpowiedzialności zawodowej.
+1. Rzeczoznawca nie o których mowa wart. 175, podlega zawodowej.
 
-2. Wobec rzeczoznawcy majątkowego mogą być orzeczone, z tytułu odpowiedzialności zawodowej, następujące kary dyscyplinarne:
+2. Wobec rzeczoznawcy orzeczone, z zawodowej, na kary dyscyplinarne:
 
-- **1)** upomnienie;
-- **2)** nagana;
-- **3)** zawieszenie uprawnień zawodowych na okres od 3 miesięcy do 1 roku;
-- **4)** zawieszenie uprawnień zawodowych do czasu ponownego złożenia egzaminu z wynikiem pozytywnym;
-- **4a)** pozbawienie uprawnień zawodowych z możliwością ponownego ubiegania się o ich nadanie;
-- **5)** pozbawienie uprawnień zawodowych z możliwością ubiegania się o ponowne ich nadanie po upływie 3 lat od dnia ich pozbawienia.
+- **1)** upomnienie,
+- **2)** nagana z wpisem do centralnego rejestru rzeczo znawców
+- **3)** zawieszenie wykonywania zawodo wych na okres od 6 do 1 roku,
+- **4)** zawieszenie wykonywania zawodo wych do czasu ponownego egzaminu z wynikiem pozytywnym,
+- **5)** pozbawienie zawodowych z ubiegania o ponowne ich nadanie po wie 3 lat od dnia ich pozbawienia.
 
-2a. (uchylony) 2b. (uchylony) 2c. Wykonanie kary dyscyplinarnej następuje przez wpis do centralnego rejestru rzeczoznawców majątkowych.
+3. Pozbawienie zawodowych w przypadku utraty do prawnych oraz skazania za o których mowa wart. 177 ust. 1 pkt 2.
 
-3. Pozbawienie uprawnień zawodowych następuje również w przypadku:
+4. Zawieszenie wykonywania lub pozbawienie zawodowych w razie niewykonywania z zakresu szacowania nie przez okres 5 lat od ostatniej zawodowej. 2 w obrocie
 
-- **1)** utraty zdolności do czynności prawnych;
-- **2)** skazania za przestępstwa, o których mowa w art. 177 ust. 1 pkt 2;
-- **3)** sądowego zakazu wykonywania zawodu rzeczoznawcy majątkowego;
-- **4)** sądowego zakazu prowadzenia działalności gospodarczej w zakresie szacowania nieruchomości.
+**Art. 179.**
 
-4. (uchylony)
+1. w obrocie nieruchomo jest przez na zasadach w niniej szej ustawie.
 
-5. Pozbawienie uprawnień zawodowych, o którym mowa w ust. 3, następuje na podstawie prawomocnego orzeczenia sądu. Osoba, której dotyczy orzeczenie sądu, jest obowiązana niezwłocznie poinformować o tym zdarzeniu ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa.
+2. w obrocie jest osoba fizyczna w trybie przepisów 4 niniejszego
 
-6. Osoba pozbawiona uprawnień zawodowych w trybie, o którym mowa w ust. 5, z dniem uprawomocnienia się orzeczenia sądu traci prawo wykonywania zawodu oraz używania tytułu zawodowego „rzeczoznawca majątkowy”.
-
-#### Rozdział 2 Pośrednictwo w obrocie nieruchomościami
-
-**Art. 179.** (uchylony)
-
-**Art. 179a.** Pośrednik w obrocie nieruchomościami to przedsiębiorca prowadzący działalność gospodarczą z zakresu pośrednictwa w obrocie nieruchomościami.
-
-**Art. 179b.** Pośrednictwo w obrocie nieruchomościami polega na odpłatnym wykonywaniu czynności zmierzających do zawarcia przez inne osoby umów:
+3. Podmioty gospodarcze w zakresie w obrocie nieruchomo wykonywane przez osoby licencje zawodowe.
 
 **Art. 180.**
 
-1. (uchylony) 1a. (uchylony)
+1. w obrocie nieruchomo polega na wykonywaniu cych do zawarcia umów:
 
-2. (uchylony)
+- **1)** nabycia lub zbycia praw do
+- **2)** nabycia lub zbycia prawa do lokalu mieszkalnego, pra wa do lokalu lub prawa do domu jed norodzinnego w mieszkaniowej,
+- **3)** najmu lub
 
-3. Zakres czynności pośrednictwa w obrocie nieruchomościami określa umowa pośrednictwa. Umowa wymaga formy pisemnej lub elektronicznej pod rygorem nieważności.
+2. wykonuje o których mowa w ust. 1, lub przy pomocy innych osób dzia pod jego nadzorem, za ich czynno w usta wie.
 
-3a. (uchylony)
+3. Zakres w obrocie nieru umowa zawarta a Dziennik Ustaw Nr 115 - 3575 - Poz. 741
 
-4. (uchylony)
+4. Przez zuje do dokonywania dla do zawarcia umów, o których mowa w ust. l, a do po wynagrodzenia.
 
-5. (uchylony)
+5. Sposób ustalenia lub wynagrodzenia za w obrocie nieruchomo umowa W razie nie wynagrodzenia w umowie, wynagrodzenie zwyczajowo w danych sto sunkach.
 
-6. (uchylony)
-
-7. (uchylony)
-
-8. (uchylony)
-
-**Art. 180a.**
-
-1. Działalność w zakresie pośrednictwa w obrocie nieruchomościami może być wykonywana przez:
-
-- **1)** osobę fizyczną, która nie została prawomocnie skazana za umyślne przestępstwo przeciwko działalności instytucji państwowych oraz samorządu terytorialnego, przeciwko wymiarowi sprawiedliwości, przeciwko wiarygodności dokumentów, przeciwko mieniu, przeciwko obrotowi gospodarczemu i interesom majątkowym w obrocie cywilnoprawnym, przeciwko obrotowi pieniędzmi i papierami wartościowymi, przestępstwo, o którym mowa w art. 165a Kodeksu karnego, przestępstwo popełnione w celu osiągnięcia korzyści majątkowej lub osobistej lub umyślne przestępstwo skarbowe;
-- **2)** osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, w której wspólnicy, którym powierzono prowadzenie spraw spółki, lub uprawnieni do reprezentacji spółki, lub członkowie organów zarządzających nie zostali prawomocnie skazani za przestępstwo, o którym mowa w pkt 1, lub umyślne przestępstwo skarbowe.
-
-2. Wymóg niekaralności, o którym mowa w ust. 1, stosuje się również do osób kierujących wykonywaniem czynności związanych z prowadzeniem działalności w zakresie pośrednictwa w obrocie nieruchomościami oraz do beneficjenta rzeczywistego w rozumieniu art. 2 ust. 2 pkt 1 ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2025 r. poz. 644 i 1669) podmiotu prowadzącego taką działalność.
+6. w obrocie nieruchomo wykonywane w stosunku do wszel kich a na rzecz wszystkich osób fizycznych i prawnych oraz jednostek organizacyjnych nie prawnej.
 
 **Art. 181.**
 
-1. (uchylony)
+1. Przy wykonywaniu zawo dowej jest przepisy prawa i standardy zawodowe, zasadami etyki zawodowej, a wykony ze dla ich zawo dowego charakteru. Jest on do kie rowania ochrony interesu osób, na których rzecz wykonuje te
 
-2. (uchylony)
+2. w obrocie jest zo do doskonalenia kwalifikacji zawo dowych.
 
-3. Pośrednik w obrocie nieruchomościami podlega obowiązkowemu ubezpieczeniu odpowiedzialności cywilnej za szkody wyrządzone w związku z pośrednictwem w obrocie nieruchomościami. Jeżeli pośrednik w obrocie nieruchomościami wykonuje czynności przy pomocy innych osób, działających pod jego nadzorem, podlega on również ubezpieczeniu odpowiedzialności cywilnej za szkody wyrządzone działaniem tych osób.
+**Art. 182.**
 
-3a. Kopia dokumentu ubezpieczenia, o którym mowa w ust. 3, aktualnego na dzień zawarcia umowy pośrednictwa stanowi załącznik do tej umowy. Pośrednik w obrocie nieruchomościami niezwłocznie informuje stronę umowy pośrednictwa o wszelkich zmianach danych zawartych w dokumencie ubezpieczenia i o zawarciu nowej umowy ubezpieczenia, przekazując kopię dokumentu ubezpieczenia.
+1. w obro cie nadaje osobie, która: posiada do prawnych, nie karana za przeciwko mieniu, dokumentom, za gospodarcze, za szowanie papierów znaków za skarbowe oraz za inne znaczenie ze na wykonywany zawód, posiada co najmniej kurs kwalifikacyjny, w zakresie twa w obrocie z wynikiem pozytywnym kwalifikacyjne, w tym egzamin upraw do otrzymania licencji zawodowej w za kresie w obrocie mi.
 
-3b. Jeżeli pośrednik w obrocie nieruchomościami nie dopełnił obowiązków, o których mowa w ust. 3a, strona umowy pośrednictwa, po uprzednim wezwaniu w formie pisemnej pośrednika w obrocie nieruchomościami do przedłożenia kopii dokumentu ubezpieczenia w ciągu 7 dni od dnia otrzymania wezwania, ma prawo wypowiedzieć umowę pośrednictwa ze skutkiem natychmiastowym.
+2. o którym mowa w ust. 1 pkt 4, nie do tyczy osoby, która studia o specjal z
 
-4. Minister właściwy do spraw instytucji finansowych w porozumieniu z ministrem właściwym do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, po zasięgnięciu opinii Polskiej Izby Ubezpieczeń, określi, w drodze rozporządzenia, szczegółowy zakres ubezpieczenia obowiązkowego, o którym mowa w ust. 3, termin powstania obowiązku ubezpieczenia oraz minimalną sumę gwarancyjną, biorąc w szczególności pod uwagę specyfikę wykonywanego zawodu oraz zakres realizowanych zadań, a także sposoby uznawania ubezpieczeń i gwarancji zawodowych wydanych w państwach członkowskich, o których mowa w art. 3 pkt 6 ustawy z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej.
+3. Osoba nie obywatelstwa polskiego w obro cie po warunków wy mienionych w ust. 1 oraz po wykazaniu zna polskiego.
 
-5. (uchylony)
+**Art. 183.**
 
-6. (uchylony)
+1. nie ków, o których mowa wart. 181, podlega odpowie zawodowej.
 
-**Art. 181a.** Pośrednik w obrocie nieruchomościami wykonujący czynności, o których mowa w art. 179b, w związku z zawartą umową pośrednictwa ma prawo wglądu do:
+2. Wobec orzeczone, z zawodowej, kary dys cyplinarne: upomnienie, nagana z wpisem do centralnego rejestru ników,
 
-**Art. 182.** (uchylony)
+- **3)** zawieszenie licencji zawodowej na okres od 6 mie do roku, zawieszenie licencji zawodowej do czasu ponow nego zdania egzaminu z wynikiem pozytywnym, pozbawienie licencji zawodowej z ubiegania o ponowne jej nadanie po 3 lat od dnia pozbawienia.
 
-**Art. 183.** (uchylony)
+3. Pozbawienie licencji zawodowej rów w przypadku utraty do praw nych oraz skazania za o których mowa wart. 182 ust. 1 pkt 2.
 
-**Art. 183a.** (uchylony)
+4. Zawieszenie lub pozbawienie licencji zawodowej w wypadku niewykonywania w obrocie przez okres 5 lat od ostatniej za wodowej. 3
 
-#### Rozdział 3 Zarządzanie nieruchomościami
+**Art. 184.**
 
-**Art. 184.** (uchylony)
+1. jest przez ców na zasadach w niniejszej ustawie.
 
-**Art. 184a.** Zarządca nieruchomości to przedsiębiorca prowadzący działalność gospodarczą z zakresu zarządzania nieruchomościami.
+2. jest osoba fizyczna po w trybie przepi sów 4 niniejszego
 
-**Art. 184b.** Zarządzanie nieruchomością polega na podejmowaniu decyzji i dokonywaniu czynności mających na celu zapewnienie racjonalnej gospodarki nieruchomością, a w szczególności:
+3. Podmioty gospodarcze w zakresie wykonywane przez osoby posiada licencje zawodowe.
 
 **Art. 185.**
 
-1. (uchylony) 1a. (uchylony) 1b. (uchylony) 1c. (uchylony)
+1. w rozu mieniu niniejszej ustawy, polega na podejmowaniu wszelkich decyzji i dokonywaniu wszelkich do utrzymywania w sta nie nie pogorszonym zgodnie z jej przeznaczeniem, jak do uzasadnionego inwestowania w nieru
 
-2. Zakres zarządzania nieruchomością określa umowa o zarządzanie nieruchomością, zawarta z jej właścicielem, wspólnotą mieszkaniową albo inną osobą lub jednostką organizacyjną, której przysługuje prawo do nieruchomości, ze skutkiem prawnym bezpośrednio dla tej osoby lub jednostki organizacyjnej. Umowa wymaga formy pisemnej lub elektronicznej pod rygorem nieważności.
+2. na podstawie umowy o zawartej z jej albo oso lub której pra wo do ze skutkiem prawnym bezpo dla tej osoby lub jednostki organizacyjnej.
 
-3. (uchylony)
+3. Zakres i wyni ka z przepisów ustawy, z przepisów ustaw oraz z umowy o
 
-4. (uchylony)
+4. ma prawo do wynagrodzenia, którego umowa o nieruchomo
 
-5. (uchylony)
+5. nie innych z za oprócz wynagrodzenia, chy ba umowa o stanowi inaczej.
 
 **Art. 186.**
 
-1. (uchylony)
+1. Przy wykonywaniu zawo dowej jest przepisy prawa i standardy zawodowe, zasadami etyki zawodowej, a ze dla ich zawodo wego charakteru. Jest on do kiero wania ochrony interesu osób, na których rzecz wykonuje te
 
-2. (uchylony)
+2. jest do doskonalenia kwalifikacji zawodowych.
 
-3. Zarządca nieruchomości podlega obowiązkowemu ubezpieczeniu odpowiedzialności cywilnej za szkody wyrządzone w związku z zarządzaniem nieruchomością. Jeżeli zarządca nieruchomości wykonuje czynności przy pomocy innych osób, działających pod jego nadzorem, podlega on również ubezpieczeniu odpowiedzialności cywilnej za szkody wyrządzone działaniem tych osób.
+**Art. 187.**
 
-3a. Kopia dokumentu ubezpieczenia, o którym mowa w ust. 3, aktualnego na dzień zawarcia umowy o zarządzanie nieruchomością stanowi załącznik do tej umowy. Zarządca nieruchomości niezwłocznie informuje stronę umowy o zarządzanie nieruchomością o wszelkich zmianach danych zawartych w dokumencie ubezpieczenia i o zawarciu nowej umowy ubezpieczenia, przekazując kopię dokumentu ubezpieczenia.
+1. nierucho nadaje osobie, która:
 
-3b. Jeżeli zarządca nieruchomości nie dopełnił obowiązków, o których mowa w ust. 3a, strona umowy o zarządzanie nieruchomością, po uprzednim wezwaniu w formie pisemnej zarządcy nieruchomości do przedłożenia kopii dokumentu ubezpieczenia w ciągu 7 dni od dnia otrzymania wezwania, ma prawo wypowiedzieć umowę o zarządzanie nieruchomością ze skutkiem natychmiastowym.
+- **1)** posiada do prawnych,
+- **2)** nie karana za przeciwko mieniu, dokumentom, za gospodarcze, za szowanie papierów znaków za skarbowe oraz za inne znaczenie ze na wykonywany zawód,
+- **3)** posiada co najmniej
+- **4)** kurs kwalifikacyjny,
+- **5)** w zakresie
+- **6)** z wynikiem pozytywnym kwalifikacyjne, w tym egzamin cy do otrzymania licencji zawodowej w zakresie za
 
-4. Minister właściwy do spraw instytucji finansowych w porozumieniu z ministrem właściwym do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, po zasięgnięciu opinii Polskiej Izby Ubezpieczeń, określi, w drodze rozporządzenia, szczegółowy zakres ubezpieczenia obowiązkowego, o którym mowa w ust. 3, termin powstania obowiązku ubezpieczenia oraz minimalną sumę gwarancyjną, biorąc w szczególności pod uwagę specyfikę wykonywanego zawodu oraz zakres realizowanych zadań, a także sposoby uznawania ubezpieczeń i gwarancji zawodowych wydanych w państwach członkowskich, o których mowa w art. 3 pkt 6 ustawy z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej.
+2. o którym mowa w ust. 1 pkt 4, nie do tyczy osoby, która studia o specjal z
 
-5. (uchylony)
+3. Osoba nie obywatelstwa polskiego nierucho po warunków wymienionych w ust. 1 oraz po wykazaniu pol skiego.
 
-6. (uchylony)
+**Art. 188.**
 
-**Art. 186a.** Zarządca nieruchomości przekazuje organom wykonawczym gminy właściwej ze względu na miejsce położenia nieruchomości dane dotyczące czynszów najmu lokali mieszkalnych, w powiązaniu z lokalizacją, wiekiem budynku i jego stanem technicznym oraz powierzchnią użytkową lokalu i jego standardem, wynikające z umów najmu, położonych w zarządzanych przez niego budynkach, w terminach i według wzoru określonych w odrębnych przepisach.
+1. nie o których mowa wart. 186, podlega odpowiedzialno zawodowej.
 
-**Art. 187.** (uchylony)
+2. Wobec orzeczone z od zawodowej kary dyscy plinarne:
 
-**Art. 188.** (uchylony)
+- **1)** upomnienie,
+- **2)** nagana z wpisem do centralnego rejestru ców,
+- **3)** zawieszenie licencji zawodowej na okres od 6 mie do roku,
+- **4)** zawieszenie licencji zawodowej do czasu ponow nego zdania egzaminu z wynikiem pozytywnym,
+- **5)** pozbawienie licencji zawodowej z ubiegania o ponowne jej nadanie po 3 lat od dnia pozbawienia.
 
-**Art. 189.** (uchylony)
+3. Pozbawienie licencji zawodowej rów w przypadku utraty do praw nych oraz skazania za o których mowa wart. 187 ust. 1 pkt 2.
 
-**Art. 190.** (uchylony)
+4. Zawieszenie lub pozbawienie licencji zawodowej w razie niewykonywania za przez okres 5 lat od ostatniej zawodowej.
 
-**Art. 190a.** Przepisów niniejszego rozdziału nie stosuje się do gospodarowania nieruchomościami bezpośrednio przez właściwy organ, Krajowy Ośrodek Wsparcia Rolnictwa, Agencję Mienia Wojskowego i Krajowy Zasób Nieruchomości, zarządzania nieruchomościami bezpośrednio przez ich właścicieli lub użytkowników wieczystych oraz jednostki organizacyjne w stosunku do nieruchomości oddanych tym jednostkom w trwały zarząd, a także zarządzania nieruchomościami przez spółkę, o której mowa w art. 2 pkt 10 ustawy z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym, oraz spółkę, o której mowa w art. 15 ust. 1 tej ustawy, której powierzono zadania związane z gospodarowaniem Zasobem w rozumieniu art. 2 pkt 13 tej ustawy.
+**Art. 189.**
 
-#### Rozdział 4 Nadawanie uprawnień zawodowych rzeczoznawcom majątkowym i dokonywanie wpisów do centralnego rejestru oraz orzekanie w sprawach odpowiedzialności zawodowej
+1. Skarbu lub gminy, z art. 190, przez osoby w zakresie
+
+2. Skarbu lub gminy puje na podstawie przepisów ustawy z dnia 10 czerw ca 1994 r. o zamówieniach publicznych (Dz.U. Nr 76, poz. 344 i Nr 130, poz. 645 oraz z 1995 r. Nr 99, poz. 488).
+
+**Art. 190.** Przepisów niniejszego nie stosu je do gospodarowania przez Rolnej Skarbu i Mienia Wojskowego, a do gospodarowania przez organy lub przez 4 Nadawanie i licencji zawodowych rzeczo znawcom w obrocie nie i oraz orzekanie w sprawach zawodowej
 
 **Art. 191.**
 
-1. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa nadaje uprawnienia zawodowe w zakresie szacowania nieruchomości, osobom które spełniły wymogi określone w art. 177.
+1. Prezes Mieszkalnictwa i Rozwo ju Miast nadaje uprawnienia i licencje zawodowe, o których mowa w 1-3 niniejszego na podstawie kwalifikacyjnego czonego wynikiem pozytywnym.
 
-2. (uchylony)
+2. Uprawnienia i licencje zawodowe nadaje demu, kto z wynikiem pozytywnym wanie kwalifikacyjne.
 
-3. Spełnienie wymogów, o których mowa w ust. 1, stwierdza Państwowa Komisja Kwalifikacyjna w postępowaniu kwalifikacyjnym.
+3. kwalifikacyjne przeprowadza stwowa Komisja Kwalifikacyjna.
 
-3a. Wniosek o nadanie uprawnień zawodowych w zakresie szacowania nieruchomości podlega rozpatrzeniu w terminie niedłuższym niż dwa miesiące od daty przeprowadzenia etapu postępowania kwalifikacyjnego, którego dotyczy wniosek. Do wniosku o nadanie uprawnień zawodowych w zakresie szacowania nieruchomości dołącza się dokumenty w formie oryginału, poświadczonej kopii lub poświadczonego tłumaczenia, potwierdzające spełnienie wymogów, o których mowa w art. 177 ust. 1.
+4. Prezes Mieszkalnictwa i Rozwoju Miast w drodze z osób wskazanych przez Mi nistra oraz organizacje zawodowe rzeczoznawców w obrocie i
 
-3b. W przypadku stwierdzenia konieczności uzupełnienia wniosku, organ wzywa wnioskodawcę do uzupełnienia wniosku w terminie siedmiu dni od dnia otrzymania wezwania. Nieuzupełnienie wniosku w terminie powoduje pozostawienie wniosku bez rozpoznania. W przypadku uzupełnienia wniosku jest on kierowany na pierwsze postępowanie kwalifikacyjne odbywające się po dniu uzupełnienia wniosku, chyba że jest możliwe skierowanie wniosku na postępowanie kwalifikacyjne, którego data została wskazana we wniosku. Bieg terminu, o którym mowa w ust. 3a, liczy się od dnia postępowania kwalifikacyjnego, na które wniosek został skierowany.
+5. kwalifikacyjne przeprowadza na koszt osób o nadanie i licencji zawodowych.
 
-3c. Jeżeli w toku postępowania kwalifikacyjnego na podstawie złożonych dokumentów nie jest możliwe stwierdzenie, czy kandydat spełnia warunki określone w art. 177, zespół kwalifikacyjny Państwowej Komisji Kwalifikacyjnej sporządza protokół, w którym występuje do ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa o zwrócenie się do odpowiednich organów, instytucji lub osób o udzielenie informacji niezbędnych dla przeprowadzenia tego postępowania. Bieg terminu, o którym mowa w ust. 3a, ulega zawieszeniu do dnia otrzymania dodatkowych wyjaśnień.
-
-3d. Przepisu ust. 3c nie stosuje się do warunków określonych w art. 177 ust. 1 pkt 1 i 2.
-
-3e. Termin rozpatrzenia wniosku, o którym mowa w ust. 3a, może zostać przedłużony tylko jeden raz. Przedłużenie terminu nie może przekroczyć dwóch miesięcy.
-
-4. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa powołuje i odwołuje, w drodze zarządzenia, Państwową Komisję Kwalifikacyjną lub jej członków. W skład tej Komisji wchodzą przedstawiciele ministra (3/5 liczby członków) oraz osoby wskazane przez organizacje zawodowe rzeczoznawców majątkowych (2/5 liczby członków).
-
-5. Postępowanie kwalifikacyjne przeprowadza się na koszt osób ubiegających się o nadanie uprawnień zawodowych. Koszty są pokrywane przez wniesienie opłaty za postępowanie kwalifikacyjne.
-
-6. Wysokość opłaty za postępowanie kwalifikacyjne nie może być wyższa niż kwota przeciętnego miesięcznego wynagrodzenia w roku poprzedzającym przeprowadzenie postępowania kwalifikacyjnego, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
-
-7. Członkom Państwowej Komisji Kwalifikacyjnej przysługuje wynagrodzenie za przeprowadzenie postępowania kwalifikacyjnego oraz zwrot kosztów podróży związanych z udziałem w tym postępowaniu. Zwrot kosztów podróży przysługuje członkom Państwowej Komisji Kwalifikacyjnej także w przypadku udziału w posiedzeniach Komisji.
-
-8. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa określi, w drodze rozporządzenia:
-
-- **1)** wysokość opłaty za postępowanie kwalifikacyjne, umożliwiającej pokrycie kosztów postępowania kwalifikacyjnego i wydatków związanych z funkcjonowaniem Państwowej Komisji Kwalifikacyjnej, tryb jej pobierania oraz przypadki uzasadniające zwrot tej opłaty, a także tryb jej zwrotu, uwzględniając etapy i terminy postępowania kwalifikacyjnego;
-- **2)** wysokość wynagrodzenia członków Państwowej Komisji Kwalifikacyjnej, uwzględniając liczbę osób przystępujących do postępowania kwalifikacyjnego oraz sposób przeprowadzenia postępowania kwalifikacyjnego.
-
-**Art. 192.**
-
-1. Nadanie uprawnień zawodowych w zakresie szacowania nieruchomości stwierdza się świadectwem. Odmowa nadania uprawnień zawodowych następuje w drodze decyzji.
-
-2. Świadectwa, o których mowa w ust. 1, wydaje się również obywatelom państw członkowskich Unii Europejskiej, którym, na zasadach określonych w przepisach ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2026 r. poz. 166), uznano kwalifikacje do wykonywania zawodu rzeczoznawcy majątkowego, na ich wniosek.
-
-3. Świadectwo, o którym mowa w ust. 1, jest wydawane w postaci spersonalizowanej dwustronnej karty identyfikacyjnej, która zawiera:
-
-- **1)** imię i nazwisko rzeczoznawcy majątkowego;
-- **2)** fotografię rzeczoznawcy majątkowego;
-- **3)** numer uprawnień i datę ich uzyskania;
-- **4)** wskazanie tytułu zawodowego;
-- **5)** podstawę prawną wydania świadectwa;
-- **6)** dane identyfikujące świadectwo:
-    - **a)** nazwę,
-    - **b)** datę wydania,
-    - **c)** numer blankietu wraz z kodem kreskowym,
-    - **d)** organ wydający i odwzorowanie jego pieczęci,
-    - **e)** elementy zabezpieczające przed sfałszowaniem.
-
-4. W przypadku osób posiadających obywatelstwo polskie świadectwo, o którym mowa w ust. 1, może być również udostępniane w postaci dokumentu mobilnego w rozumieniu art. 2 pkt 7 ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel (Dz. U. z 2024 r. poz. 1275 i 1717 oraz z 2025 r. poz. 1019).
-
-5. Świadectwo, o którym mowa w ust. 1, udostępniane w postaci dokumentu mobilnego zawiera dane, o których mowa w ust. 3 pkt 1–4.
-
-6. W przypadku osób posiadających obywatelstwo polskie fotografię, o której mowa w ust. 3 pkt 2, pobiera się z Rejestru Dowodów Osobistych, o którym mowa w przepisach ustawy z dnia 6 sierpnia 2010 r. o dowodach osobistych (Dz. U. z 2025 r. poz. 1753).
+**Art. 192.** Nadanie zawodowych w zakre sie szacowania a licencji zawodo wych w obrocie oraz za stwierdza Od mowa nadania i licencji zawodowych na w drodze decyzji.
 
 **Art. 193.**
 
-1. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa prowadzi centralny rejestr rzeczoznawców majątkowych.
+1. Osoby, którym nadano uprawnienia i li cencje zawodowe, wpisowi odpowiednio do centralnych rejestrów: rzeczoznawców w obrocie oraz za Z dniem wpisu do rejestrów osoby te prawo wykonywania za wodowych.
 
-2. Do centralnego rejestru wymienionego w ust. 1 wpisuje się osoby, którym nadano uprawnienia zawodowe rzeczoznawców majątkowych na podstawie świadectw nadania tych uprawnień.
+2. Prezes Mieszkalnictwa i Rozwoju Miast prowadzi centralne rejestry, o których mowa w ust. 1. Rejestry w dzienniku wym Prezesa Mieszkalnictwa i Rozwoju Miast.
 
-3. Do centralnego rejestru, o którym mowa w ust. 1, wpisuje się również osoby, o których mowa w art. 192 ust. 2.
-
-4. W centralnym rejestrze wpisuje się następujące dane dotyczące osób, którym nadano uprawnienia:
-
-- **1)** numer kolejny wpisu;
-- **2)** datę wpisu;
-- **3)** imię i nazwisko;
-- **4)** imiona rodziców;
-- **5)** datę i miejsce urodzenia;
-- **6)** adres korespondencyjny;
-- **7)** wykształcenie;
-- **8)** numer ewidencyjny PESEL;
-- **9)** numer dokumentu tożsamości obywatela państwa członkowskiego Unii Europejskiej;
-- **10)** numer uprawnień;
-- **11)** informacje o orzeczonych karach dyscyplinarnych, o których mowa w art. 178 ust. 2, a także informacje o pozbawieniu uprawnień z przyczyn, o których mowa w art. 178 ust. 3;
-- **12)** informacje o wykreśleniach z rejestru oraz przyczynach tych wykreśleń.
-
-5. Wykreślenie z rejestru osób, którym nadano uprawnienia zawodowe, następuje w przypadku:
-
-- **1)** zawieszenia uprawnień, o którym mowa w art. 178 ust. 2 pkt 3 i 4;
-- **2)** pozbawienia uprawnień, o którym mowa w art. 178 ust. 2 pkt 4a i 5;
-- **3)** pozbawienia uprawnień, o którym mowa w art. 178 ust. 3;
-- **4)** śmierci.
-
-6. W razie orzeczenia kary dyscyplinarnej, o której mowa w art. 178 ust. 2 pkt 3, ponowny wpis do centralnego rejestru, o którym mowa w ust. 1, następuje na wniosek osoby ukaranej po upływie okresu orzeczonej kary dyscyplinarnej, licząc od dnia wykreślenia z tego rejestru. W razie orzeczenia kary dyscyplinarnej, o której mowa w art. 178 ust. 2 pkt 4, ponowny wpis do rejestru następuje po ponownym złożeniu egzaminu z wynikiem pozytywnym.
-
-7. W razie orzeczenia kar dyscyplinarnych, o których mowa w art. 178 ust. 2 pkt 1 i 2 zatarcie kary następuje na wniosek osoby ukaranej po upływie 1 roku od jej wykonania.
-
-8. W razie orzeczenia kary dyscyplinarnej, o której mowa w art. 178 ust. 2 pkt 3 zatarcie kary następuje na wniosek osoby ukaranej po upływie 2 lat od zakończenia okresu orzeczonej kary.
-
-9. W razie zatarcia kary dyscyplinarnej informację o tej karze wykreśla się z centralnego rejestru.
-
-10. Wyciągi z centralnego rejestru, o którym mowa w ust. 1, z wyjątkiem danych wymienionych w ust. 4 pkt 4, 5, 7–9, 11 i 12, podlegają udostępnieniu na stronach internetowych urzędu obsługującego ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa i są niezwłocznie aktualizowane.
-
-11. (uchylony)
-
-12. Na uzasadniony wniosek organu państwa członkowskiego w rozumieniu art. 3 pkt 6 ustawy z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej, minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa udostępnia dane, o których mowa w ust. 4, w zakresie wskazanym we wniosku, powiadamiając o tym rzeczoznawcę majątkowego, którego dane zostały udostępnione.
-
-**Art. 193a.** (uchylony)
+3. Wojewodowie w wojewódzkich dzien nikach z centralnych rejestrów osób w tych województwach.
 
 **Art. 194.**
 
-1. (uchylony) 1a. Postępowanie z tytułu odpowiedzialności zawodowej wszczyna minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, z zastrzeżeniem ust. 1b i 1c. Po wszczęciu postępowania minister przekazuje sprawę do Komisji Odpowiedzialności Zawodowej w celu przeprowadzenia postępowania wyjaśniającego.
+1. Prezes Mieszkalnictwa i Rozwo ju Miast orzeka w drodze decyzji o zastosowaniu kar dyscyplinarnych, o których mowa wart. 178 ust. 2, art. 183 ust. 2 oraz art. 188 ust. 2, na podstawie wyników a podejmuje de cyzje w sprawach wart. 178 ust. 3 i 4, art. 183 ust. 3 i 4 oraz wart. 188 ust. 3 i 4.
 
-1b. W przypadku gdy sprawa dotyczy osób powołanych, wyznaczonych lub ustanowionych przez sąd, prokuratora lub komornika, postępowanie z tytułu odpowiedzialności zawodowej wszczyna się wyłącznie na skutek skargi złożonej przez sąd lub prokuratora.
+2. przeprowadza Ko misja Zawodowej.
 
-1c. Nie wszczyna się postępowania z tytułu odpowiedzialności zawodowej, jeżeli do dnia otrzymania przez ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa informacji o zaistnieniu okoliczności mogących stanowić podstawę odpowiedzialności zawodowej upłynęły 3 lata, licząc od dnia zaistnienia tych okoliczności.
-
-2. Postępowanie wyjaśniające dotyczące wypełniania obowiązków, o których mowa w art. 175 ust. 1–3, przeprowadza Komisja Odpowiedzialności Zawodowej.
-
-3. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa powołuje i odwołuje, w drodze zarządzenia, Komisję Odpowiedzialności Zawodowej lub jej członków, w tym spośród osób wskazanych przez organizacje zawodowe rzeczoznawców majątkowych.
-
-4. Koszty postępowania z tytułu odpowiedzialności zawodowej są pokrywane ze środków budżetu państwa znajdujących się w dyspozycji ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa.
-
-5. Członkom Komisji Odpowiedzialności Zawodowej przysługuje wynagrodzenie za przeprowadzenie postępowania wyjaśniającego oraz zwrot kosztów podróży i noclegów związanych z udziałem w tym postępowaniu. Zwrot kosztów podróży i noclegów przysługuje członkom Komisji Odpowiedzialności Zawodowej także w przypadku udziału w posiedzeniach prezydium oraz posiedzeniach plenarnych tej komisji. Przewodniczącemu Komisji Odpowiedzialności Zawodowej przysługuje również dodatkowe miesięczne wynagrodzenie za kierowanie całokształtem spraw związanych z realizacją prac tej komisji.
+3. Prezes Mieszkalnictwa i Rozwoju Miast w drodze Odpowie Zawodowej z osób wskazanych przez organizacje zawodowe rzeczoznawców wych, w obrocie oraz
 
 **Art. 195.**
 
-1. Postępowanie wyjaśniające wymienione w art. 194 odbywa się z udziałem osoby, wobec której wszczęto postępowanie z tytułu odpowiedzialności zawodowej. Nieusprawiedliwione niestawiennictwo nie wstrzymuje postępowania wyjaśniającego. W przypadku dwukrotnej usprawiedliwionej nieobecności Komisja Odpowiedzialności Zawodowej przeprowadza postępowanie wyjaśniające.
+1. Postępowanie wymienio ne wart. 194 odbywa z osoby, w stosun ku do której toczy Nie usprawiedli wione niestawiennictwo nie wstrzymuje nia.
 
-2. Osoba, o której mowa w ust. 1, może ustanowić obrońcę lub zwrócić się o wyznaczenie obrońcy z urzędu. Obrońca ustanowiony lub wyznaczony z urzędu jest uprawniony do udziału w postępowaniu wyjaśniającym. Obrońcy z urzędu przysługuje wynagrodzenie oraz zwrot kosztów podróży i noclegów związanych z udziałem w tym postępowaniu.
+2. Osoba, o której mowa w ust. 1, rzeczoznawców wych, w obrocie oraz ust. 1 pkt 4, art. 182 ust. 1 pkt 4 oraz art. 187 ust. 1 pkt 4,
 
-3. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa ustala, w drodze zarządzenia, listę obrońców z urzędu, z udziałem osób wskazanych przez organizacje zawodowe rzeczoznawców majątkowych.
+**Art. 196.** Programy studiów podyplomowych oraz kursów specjalistycznych, o których mowa wart. 177 uzgodnieniu z Prezesem Mieszkal nictwa i Rozwoju Miast.
 
-4. Komisja Odpowiedzialności Zawodowej, z upoważnienia ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, może zwracać się do organów administracji publicznej, wymiaru sprawiedliwości oraz innych instytucji i osób o udzielenie informacji niezbędnych dla przeprowadzenia postępowania wyjaśniającego.
+**Art. 197.** Rada Ministrów, w drodze
 
-**Art. 195a.**
-
-1. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, na podstawie wyników postępowania wyjaśniającego, orzeka, w drodze decyzji, o zastosowaniu jednej z kar dyscyplinarnych, o których mowa w art. 178 ust. 2, albo o umorzeniu postępowania z tytułu odpowiedzialności zawodowej.
-
-1a. Wykonanie decyzji, o której mowa w ust. 1, następuje po upływie 14 dni od dnia, w którym upłynął bezskutecznie termin na złożenie wniosku o ponowne rozpatrzenie sprawy.
-
-2. W przypadkach, o których mowa w art. 127 § 3 Kodeksu postępowania administracyjnego, minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa może odstąpić od przekazania sprawy do Komisji Odpowiedzialności Zawodowej w celu przeprowadzenia postępowania wyjaśniającego.
-
-3. Wykonanie decyzji, o której mowa w art. 138 Kodeksu postępowania administracyjnego, następuje po upływie 14 dni od dnia, w którym upłynął bezskutecznie termin do wniesienia skargi na decyzję do sądu administracyjnego. W przypadku wniesienia skargi do sądu administracyjnego minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa wstrzymuje z urzędu wykonanie decyzji, w drodze postanowienia, na które nie przysługuje zażalenie.
-
-**Art. 196.**
-
-1. Programy studiów podyplomowych, o których mowa w art. 177 ust. 1 pkt 4, uwzględniają co najmniej minimalne wymogi programowe ustalone przez ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa.
-
-2. (uchylony)
-
-3. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa określi, w drodze rozporządzenia, minimalne wymogi programowe dla studiów podyplomowych w zakresie wyceny nieruchomości, w tym czas trwania tych studiów, program ogólny i program szczegółowy studiów podyplomowych, z uwzględnieniem tematyki wykładów oraz minimalnej liczby godzin ich trwania, biorąc pod uwagę kwalifikacje i umiejętności, jakie powinni posiadać absolwenci tych studiów, niezbędne dla prawidłowego i rzetelnego wykonywania działalności zawodowej w powyższym zakresie.
-
-**Art. 196a.** (uchylony)
-
-**Art. 197.** Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, mając na względzie zapewnienie obiektywnego, rzetelnego i sprawnego sprawdzenia przygotowania kandydatów na rzeczoznawców majątkowych, sprawności i prawidłowości wydawania świadectw nadania uprawnień zawodowych w zakresie szacowania nieruchomości, powszechnej dostępności wzoru tego świadectwa, jak również potrzebę zabezpieczenia tych świadectw przed sfałszowaniem oraz zapewnienie obiektywnej oceny skarg na działalność osób, którym nadano te uprawnienia, a także uwzględniając rzeczywiste koszty postępowania z tytułu odpowiedzialności zawodowej, określi, w drodze rozporządzenia:
-
-**Art. 197a.** Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa określi, w drodze rozporządzenia, sposoby doskonalenia kwalifikacji zawodowych przez rzeczoznawców majątkowych, sposoby dokumentowania oraz sposób oceny spełnienia tego obowiązku, mając na względzie potrzebę ciągłego aktualizowania i pogłębiania wiedzy oraz umiejętności związanych z wykonywaniem przez rzeczoznawców majątkowych czynności zawodowych oraz zapewnienie przejrzystej weryfikacji spełniania obowiązku stałego doskonalenia kwalifikacji zawodowych.
-
-### DZIAŁ VI Przepisy karne i o karach pieniężnych
-
-**Art. 198.**
-
-1. Kto bez uprawnień zawodowych w zakresie szacowania nieruchomości dokonuje określenia wartości nieruchomości lub trwale związanych z nieruchomością maszyn lub urządzeń, podlega karze grzywny w wysokości do 50 000 zł.
-
-2. Tej samej karze podlega:
-
-- **1)** rzeczoznawca majątkowy, wobec którego orzeczono karę dyscyplinarną, o której mowa w art. 178 ust. 2 pkt 3 albo 4, jeżeli w okresie odbywania tej kary wykonuje czynności określone w ust. 1;
-- **2)** podmiot prowadzący działalność w zakresie szacowania nieruchomości, który powierza wykonywanie czynności określonych w ust. 1 osobie nieposiadającej uprawnień zawodowych w zakresie szacowania nieruchomości lub rzeczoznawcy majątkowemu, o którym mowa w pkt 1.
-
-3. Orzekanie w sprawach o czyny, o których mowa w ust. 1 i 2, następuje w trybie przepisów Kodeksu postępowania w sprawach o wykroczenia.
-
-**Art. 198a.** Przepisu art. 198 ust. 1 nie stosuje się do usługodawców z państwa członkowskiego w rozumieniu przepisów art. 3 pkt 10 ustawy z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej.
-
-**Art. 198b.**
-
-1. Kto:
-
-- **1)** dokonuje określenia wartości nieruchomości bez spełnienia warunku, o którym mowa w art. 174 ust. 7,
-- **2)** wykonuje czynności określone w umowie pośrednictwa, o której mowa w art. 180 ust. 3, bez spełnienia warunku, o którym mowa w art. 179a,
-- **3)** podejmuje decyzje i wykonuje czynności określone w umowie o zarządzanie nieruchomością, o której mowa w art. 185 ust. 2, bez spełnienia warunku, o którym mowa w art. 184a – podlega karze grzywny w wysokości do 50 000 zł.
-
-2. Orzekanie w sprawach o czyny, o których mowa w ust. 1, następuje w trybie przepisów Kodeksu postępowania w sprawach o wykroczenia.
-
-**Art. 198c.**
-
-1. Kto prowadzi działalność, o której mowa w art. 174 ust. 3 i 3a, bez spełnienia obowiązku zawarcia umowy ubezpieczenia, o którym mowa w art. 175 ust. 4, podlega karze pieniężnej w wysokości od dwukrotnego do pięciokrotnego przeciętnego miesięcznego wynagrodzenia w gospodarce narodowej w roku poprzedzającym rok, w którym stwierdzono naruszenie, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
-
-2. W sprawach, o których mowa w ust. 1, decyzje wydaje wojewódzki inspektor Inspekcji Handlowej właściwy ze względu na miejsce przeprowadzania kontroli.
-
-3. Przy ustalaniu wysokości kary pieniężnej uwzględnia się dotychczasową działalność przedsiębiorcy, skalę prowadzonej działalności oraz czas trwania naruszenia.
-
-4. Karę pieniężną uiszcza się w terminie 14 dni od dnia, w którym decyzja o wymierzeniu kary pieniężnej stała się ostateczna.
-
-5. Egzekucja kary pieniężnej następuje w trybie przepisów o postępowaniu egzekucyjnym w administracji.
-
-6. Kara pieniężna stanowi dochód budżetu państwa.
-
-7. Kary pieniężnej nie wymierza się, jeżeli do dnia stwierdzenia przez właściwego wojewódzkiego inspektora Inspekcji Handlowej naruszenia upłynęły 3 lata, licząc od dnia powstania obowiązku zawarcia umowy ubezpieczenia, o którym mowa w art. 175 ust. 4, przez przedsiębiorcę, u którego to naruszenie stwierdzono.
-
-8. Obowiązek uiszczenia kary pieniężnej przedawnia się po upływie 3 lat od ostatniego dnia terminu, w którym kara powinna zostać uiszczona.
-
-**Art. 198d.** Kto prowadzi działalność gospodarczą z zakresu pośrednictwa w obrocie nieruchomościami bez spełnienia obowiązku zawarcia umowy ubezpieczenia, o którym mowa w art. 181 ust. 3, podlega karze pieniężnej w wysokości od dwukrotnego do pięciokrotnego przeciętnego miesięcznego wynagrodzenia w gospodarce narodowej w roku poprzedzającym rok, w którym stwierdzono naruszenie, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych. Przepisy art. 198c ust. 2–8 stosuje się odpowiednio.
-
-**Art. 198e.** Kto prowadzi działalność gospodarczą z zakresu zarządzania nieruchomościami bez spełnienia obowiązku zawarcia umowy ubezpieczenia, o którym mowa w art. 186 ust. 3, podlega karze pieniężnej w wysokości od czterokrotnego do dziesięciokrotnego przeciętnego miesięcznego wynagrodzenia w gospodarce narodowej w roku poprzedzającym rok, w którym stwierdzono naruszenie, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych. Przepisy art. 198c ust. 2–8 stosuje się odpowiednio.
-
-**Art. 198f.** Kto prowadzi działalność gospodarczą z zakresu pośrednictwa w obrocie nieruchomościami z naruszeniem warunku, o którym mowa w art. 180a, podlega karze pieniężnej w wysokości od dwukrotnego do pięciokrotnego przeciętnego miesięcznego wynagrodzenia w gospodarce narodowej w roku poprzedzającym rok, w którym stwierdzono naruszenie, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych. Przepisy art. 198c ust. 2–8 stosuje się odpowiednio. Przepisy epizodyczne dotyczące roszczenia o sprzedaż nieruchomości gruntowej na rzecz jej użytkownika wieczystego
-
-**Art. 198g.**
-
-1. Użytkownik wieczysty nieruchomości gruntowej w terminie 12 miesięcy od dnia wejścia w życie ustawy z dnia 26 maja 2023 r. o zmianie ustawy o samorządzie gminnym, ustawy o społecznych formach rozwoju mieszkalnictwa, ustawy o gospodarce nieruchomościami, ustawy o podatku od czynności cywilnoprawnych oraz niektórych innych ustaw (Dz. U. poz. 1463) może wystąpić z żądaniem sprzedaży tej nieruchomości na jego rzecz.
-
-2. Żądanie sprzedaży, o którym mowa w ust. 1, nie przysługuje:
-
-- **1)** jeżeli nieruchomość została oddana w użytkowanie wieczyste po dniu 31 grudnia 1997 r.;
-- **2)** jeżeli użytkownik wieczysty nie wykonał zobowiązania określonego w umowie o oddanie nieruchomości gruntowej w użytkowanie wieczyste;
-- **3)** w odniesieniu do gruntów położonych na terenie portów i przystani morskich w rozumieniu art. 2 pkt 2 ustawy z dnia 20 grudnia 1996 r. o portach i przystaniach morskich (Dz. U. z 2023 r. poz. 1796);
-- **4)** jeżeli grunt jest wykorzystywany na prowadzenie rodzinnego ogrodu działkowego w rozumieniu art. 2 pkt 5 ustawy z dnia 13 grudnia 2013 r. o rodzinnych ogrodach działkowych;
-- **5)** w odniesieniu do nieruchomości gruntowej niezabudowanej.
-
-3. Nie zawiera się umowy sprzedaży nieruchomości, o której mowa w ust. 1, jeżeli toczy się postępowanie o rozwiązanie umowy o oddanie tej nieruchomości w użytkowanie wieczyste.
-
-4. Przepisy ust. 1–3 stosuje się odpowiednio do użytkowania wieczystego powstałego w inny sposób niż w drodze umowy zawartej w formie aktu notarialnego.
-
-**Art. 198h.**
-
-1. W odniesieniu do nieruchomości gruntowych stanowiących własność Skarbu Państwa cenę nieruchomości ustala się:
-
-- **1)** w przypadku zapłaty ceny jednorazowo – jako dwudziestokrotność kwoty stanowiącej iloczyn dotychczasowej stawki procentowej opłaty rocznej z tytułu użytkowania wieczystego oraz wartości nieruchomości gruntowej określonej na dzień zawarcia umowy sprzedaży;
-- **2)** w przypadku rozłożenia ceny na raty – jako dwudziestopięciokrotność kwoty stanowiącej iloczyn dotychczasowej stawki procentowej opłaty rocznej z tytułu użytkowania wieczystego oraz wartości nieruchomości gruntowej określonej na dzień zawarcia umowy sprzedaży.
-
-2. W odniesieniu do nieruchomości stanowiących własność jednostek samorządu terytorialnego cenę nieruchomości ustala się w wysokości nieniższej niż dwudziestokrotność kwoty stanowiącej iloczyn dotychczasowej stawki procentowej opłaty rocznej z tytułu użytkowania wieczystego oraz wartości nieruchomości gruntowej określonej na dzień zawarcia umowy sprzedaży, jednak niewyższej niż wartość nieruchomości gruntowej określona na dzień zawarcia umowy sprzedaży.
-
-3. Jeżeli w dniu wystąpienia z żądaniem zawarcia umowy nie obowiązywała opłata roczna z tytułu użytkowania wieczystego nieruchomości gruntowej albo toczy się postępowanie w sprawie aktualizacji stawki procentowej opłaty rocznej, właściwy organ ustala cenę, o której mowa w ust. 1 i 2, przyjmując stawkę procentową określoną w art. 72 ust. 3 stosownie do celu wynikającego ze sposobu korzystania z nieruchomości gruntowej.
-
-**Art. 198i.**
-
-1. Odpowiednia rada albo sejmik w terminie 4 miesięcy od dnia wejścia w życie ustawy z dnia 26 maja 2023 r. o zmianie ustawy o samorządzie gminnym, ustawy o społecznych formach rozwoju mieszkalnictwa, ustawy o gospodarce nieruchomościami, ustawy o podatku od czynności cywilnoprawnych oraz niektórych innych ustaw określi, w drodze uchwały, szczegółowe warunki sprzedaży nieruchomości gruntowych na rzecz ich użytkowników wieczystych albo zobowiąże, w drodze uchwały, organ wykonawczy do indywidualnego określania tych warunków w drodze zarządzenia.
-
-2. W razie niepodjęcia uchwał w terminie, o którym mowa w ust. 1, przepis art. 198h ust. 1 stosuje się odpowiednio.
-
-**Art. 198j.**
-
-1. Jeżeli w okresie 12 miesięcy przed dniem wejścia w życie ustawy z dnia 26 maja 2023 r. o zmianie ustawy o samorządzie gminnym, ustawy o społecznych formach rozwoju mieszkalnictwa, ustawy o gospodarce nieruchomościami, ustawy o podatku od czynności cywilnoprawnych oraz niektórych innych ustaw użytkownik wieczysty przyjął ofertę nowej wysokości opłaty rocznej z tytułu użytkowania wieczystego zawartą w wypowiedzeniu albo właściwy organ nie odmówił aktualizacji tej opłaty na żądanie użytkownika wieczystego, do ustalenia ceny nieruchomości gruntowej sprzedawanej jej użytkownikowi wieczystemu przyjmuje się wartość nieruchomości, która była podstawą ustalenia zaktualizowanej opłaty rocznej z tytułu użytkowania wieczystego.
-
-2. Przepis ust. 1 stosuje się także w przypadku, gdy w okresie 12 miesięcy przed dniem wejścia w życie ustawy z dnia 26 maja 2023 r. o zmianie ustawy o samorządzie gminnym, ustawy o społecznych formach rozwoju mieszkalnictwa, ustawy o gospodarce nieruchomościami, ustawy o podatku od czynności cywilnoprawnych oraz niektórych innych ustaw wartość nieruchomości została określona na potrzeby ustalenia opłaty rocznej z tytułu użytkowania wieczystego.
-
-**Art. 198k.**
-
-1. W odniesieniu do nieruchomości stanowiących własność Skarbu Państwa właściwy organ udziela na wniosek bonifikaty w wysokości 90 % od ceny nieruchomości gruntowej sprzedawanej osobie fizycznej:
-
-- **1)** w stosunku do której orzeczono niepełnosprawność:
-    - **a)** w stopniu umiarkowanym lub znacznym lub
-    - **b)** przed ukończeniem 16 roku życia lub
-
-- **2)** zamieszkującej w dniu wystąpienia z żądaniem sprzedaży z osobami, o których mowa w pkt 1 lit. a lub b, będącej opiekunem prawnym lub przedstawicielem ustawowym tych osób, lub
-- **3)** będącej członkiem rodziny wielodzietnej w rozumieniu art. 4 ust. 1 ustawy z dnia 5 grudnia 2014 r. o Karcie Dużej Rodziny (Dz. U. z 2024 r. poz. 1512) i uprawnionej do posiadania Karty Dużej Rodziny.
-
-2. W odniesieniu do nieruchomości stanowiących własność jednostek samorządu terytorialnego właściwy organ udziela na podstawie uchwały odpowiedniej rady albo sejmiku bonifikaty od ceny nieruchomości gruntowej sprzedawanej jej użytkownikowi wieczystemu.
-
-3. W uchwale rady albo sejmiku, o której mowa w ust. 2, określa się warunki udzielania bonifikat i wysokość stawek procentowych, uwzględniając w szczególności:
-
-- **1)** okoliczności, o których mowa w ust. 1, oraz przypadki, o których mowa w art. 68;
-- **2)** realizację przez użytkownika wieczystego celów publicznych, budownictwa mieszkaniowego lub celów użyteczności publicznej oraz potrzeb społeczności lokalnej;
-- **3)** długość okresu trwania użytkowania wieczystego;
-- **4)** terminową realizację celu określonego w umowie o oddanie nieruchomości gruntowej w użytkowanie wieczyste, w szczególności terminową zabudowę;
-- **5)** brak zaległości w regulowaniu zobowiązań z tytułu opłat rocznych za użytkowanie wieczyste oraz podatku od nieruchomości.
-
-**Art. 198l.** Przepisy niniejszego działu stosuje się z uwzględnieniem przepisów o pomocy publicznej. Udzielenie pomocy publicznej wymaga spełnienia warunków udzielenia pomocy de minimis określonych we właściwych przepisach prawa Unii Europejskiej dotyczących pomocy de minimis.
-
-### DZIAŁ VII Przepisy przejściowe, zmiany w przepisach obowiązujących i przepisy końcowe
-
-#### Rozdział 1 Przepisy przejściowe
+**Art. 198.** Kto prowadzi w za kresie rzeczoznawstwa bez lub w zakresie w obrocie nieruchomo oraz bez licencji, podlega grzywnie do 5 000 VII Przepisy zmiany w przepisach i przepisy 1 Przepisy
 
 **Art. 199.**
 
-1. Nieruchomości nabyte przez państwowe osoby prawne po wejściu w życie ustawy z dnia 31 stycznia 1989 r. o zmianie ustawy – Kodeks cywilny (Dz. U. poz. 11), to jest po dniu 1 lutego 1989 r., stanowią od daty nabycia własność tych osób.
+1. nabyte przez we osoby prawne po w ustawy z dnia 31 stycznia 1989 r. o zmianie ustawy - Kodeks cywilny (Dz.U. Nr 3, poz. 11), to jest po dniu 1 lutego 1989 r., sta od daty nabycia tych osób.
 
-2. Zarząd nieruchomości stanowiących własność Skarbu Państwa oraz własność gminy, sprawowany w dniu wejścia w życie niniejszej ustawy przez jednostki organizacyjne, przekształca się z tym dniem w trwały zarząd tych nieruchomości.
+2. Skarbu oraz gminy, sprawowany w dniu w niniejszej ustawy przez jednost ki organizacyjne, z tym dniem w trwa tych
 
 **Art. 200.**
 
-1. W sprawach stwierdzenia nabycia, z mocy prawa, na podstawie ustawy z dnia 29 września 1990 r. o zmianie ustawy o gospodarce gruntami i wywłaszczaniu nieruchomości (Dz. U. poz. 464, z późn. zm. ), z dniem 5 grudnia 1990 r. prawa użytkowania wieczystego gruntów oraz własności budynków, innych urządzeń i lokali przez państwowe i komunalne osoby prawne oraz Bank Gospodarki Żywnościowej, które posiadały w tym dniu grunty w zarządzie, niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się następujące zasady:
+1. W sprawach stwierdzenia nabycia, z mocy prawa, na podstawie ustawy z dnia 29 1990 r. o zmianie ustawy o gospodarce gruntami i wy (Dz.U. Nr 79, poz. 464, z 1991 r. Nr 83, poz. 373, z 1992 r. Nr 91, poz. 455, z 1994 r. Nr 51, poz. 201, Nr 80, poz. 369, Nr 84, poz. 384 i Nr 123, poz. 601, z 1996 r. Nr 5, poz. 33 oraz z 1997 r. Nr 106, poz. 675), z dniem 5 grudnia 1990 r. prawa kowania wieczystego gruntów oraz budyn ków, innych i lokali przez i komu nalne osoby prawne oraz Bank Gospodarki Żywnościo wej, które w tym dniu grunty w nie przed dniem w niniejszej ustawy, stosuje zasady:
 
-- **1)** nabycie własności budynków, innych urządzeń i lokali następuje odpłatnie, jeżeli obiekty te nie były wybudowane lub nabyte ze środków własnych tych osób lub ich poprzedników prawnych;
-- **2)** nabycie prawa użytkowania wieczystego oraz własności stwierdza w drodze decyzji wojewoda – w odniesieniu do nieruchomości stanowiących własność Skarbu Państwa lub wójt, burmistrz albo prezydent miasta – w odniesieniu do nieruchomości stanowiących własność gminy;
-- **3)** w decyzji, o której mowa w pkt 2, ustala się warunki użytkowania wieczystego, z zachowaniem zasad określonych w art. 62 ustawy i w art. 236 Kodeksu cywilnego, oraz kwotę należną za nabycie własności, a także sposób zabezpieczenia wierzytelności określony w ust. 2;
-- **4)** na poczet ceny nabycia własności, o której mowa w pkt 3, zalicza się zwaloryzowane opłaty poniesione z tytułu zarządu budynków, innych urządzeń i lokali; przy nabyciu użytkowania wieczystego nie pobiera się pierwszej opłaty.
+- **1)** nabycie budynków, innych i lo kali obiekty te nie wybudowane lub nabyte ze tych osób lub ich poprzedników prawnych,
+- **2)** nabycie prawa wieczystego oraz stwierdza w drodze decyzji wojewoda w odniesieniu do Skarbu lub gminy w odniesieniu do gminy,
+- **3)** w decyzji, o której mowa w pkt 2, ustala warun ki wieczystego, z zachowaniem zasad wart. 62 ustawy i wart. 236 Kodeksu cywilnego, oraz za nabycie a sposób zabezpieczenia w ust. 2,
+- **4)** na poczet ceny nabycia o której mowa w pkt 3, zalicza zwaloryzowane poniesio ne z budynków, innych i lo kali; przy nabyciu wieczystego nie po biera pierwszej
 
-2. Wierzytelności z tytułu nabycia własności budynków, innych urządzeń i lokali przez osoby, o których mowa w ust. 1, podlegają zabezpieczeniu hipotecznemu na użytkowaniu wieczystym gruntów lub wyodrębnionych częściach tych gruntów, które te osoby nabyły. Hipoteka powstaje z dniem wpisu do księgi wieczystej. Wpis hipoteki następuje po bezskutecznym upływie terminu na zaspokojenie wierzytelności, wyznaczonego w decyzji, o której mowa w ust. 1 pkt 2. Przy zabezpieczeniu hipotecznym stosuje się odpowiednio przepisy o księgach wieczystych i hipotece, z zastrzeżeniem następujących zasad:
+2. z nabycia bu dynków, innych i lokali przez osoby, o których mowa w ust. 1, zabezpieczeniu hipoteczne mu na wieczystym gruntów lub nionych tych gruntów, które te osoby naby Hipoteka powstaje z dniem wpisu do wieczy stej. Wpis hipoteki po bezskutecznym wie terminu na zaspokojenie wyzna czonego w decyzji, o której mowa w ust. 1 pkt 2. Przy zabezpieczeniu hipotecznym stosuje odpowiednio przepisy o wieczystych i hipotece, z niem zasad:
 
-- **1)** podstawą wpisu hipoteki jest decyzja, o której mowa w ust. 1 pkt 2;
-- **2)** wierzytelności zabezpieczone hipotecznie podlegają w chwili zapłaty waloryzacji według zasad obowiązujących przy zwrocie wywłaszczonych nieruchomości i nie podlegają oprocentowaniu;
-- **3)** w razie sprzedaży, wynajęcia, wydzierżawienia albo innego odpłatnego udostępnienia nieruchomości lub ich części, na których dokonano zabezpieczenia hipotecznego wierzytelności, wierzytelność staje się natychmiast wymagalna w części równej korzyściom uzyskanym z tego tytułu; za korzyści te uważa się przychody pomniejszone o koszty związane z zawarciem umowy;
-- **4)** w razie ustanowienia odrębnej własności lokalu mieszkalnego, udział w użytkowaniu wieczystym gruntów oraz udział we współwłasności części wspólnych budynku związane z prawem własności tego lokalu są wolne od hipoteki.
-- **5)** (uchylony)
+- **1)** wpisu hipoteki jest de.cyzja, o której mo wa w ust. 1 pkt 2,
+- **2)** zabezpieczone hipotecznie podlega w chwili waloryzacji zasad obo przy zwrocie nieru i nie oprocentowaniu,
+- **3)** w razie albo innego lub ich na których dokonano zabezpieczenia hipotecznego staje natychmiast wymagalna w równej korzy uzyskanym z tego
+- **4)** w razie ustanowienia lokalu mieszkalnego, w wieczystym gruntów oraz we wspólnych budynku z prawem tego lokalu wolne od hipoteki,
+- **5)** organ, o którym mowa wart. 16, nie wyrazi zgody na zrzeczenie nierucho ona zbyta za za bezpieczona na niej ze zbycia uznaje za zaspokojenie a hipoteka podlega zasady te stosuje odpowiednio w razie zbycia lub nieruchomo
 
-3. Wierzytelności z tytułu nabycia własności budynków, innych urządzeń i lokali wygasają z chwilą:
+3. z nabycia bu dynków, innych i lokali z
 
-- **1)** przekształcenia przedsiębiorstwa państwowego w spółkę z wyłącznym udziałem Skarbu Państwa lub przekształcenia przedsiębiorstwa komunalnego w jednoosobową spółkę gminy;
-- **2)** wydania zarządzenia o prywatyzacji bezpośredniej na podstawie ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji (Dz. U. z 2016 r. poz. 981 i
-- **1174)** .
+- **1)** w z Skarbu
+- **2)** wydania o prywatyzacji na podstawie ustawy z dnia 30 sierpnia 1996 r. o ko mercjalizacji i prywatyzacji stwowych (Dz.U. Nr 118, poz. 561 i Nr 156, poz. 575 oraz z 1997 r. Nr 32, poz. 184, Nr 98, poz. 603 i Nr 106, poz. 673).
 
-4. Nabycie własności oraz prawa użytkowania wieczystego, o którym mowa w ust. 1 i 2, nie może naruszać praw osób trzecich.
-
-5. Windykację należności, o których mowa w ust. 2 pkt 3, prowadzi właściwy organ.
+4. Nabycie oraz prawa wie czystego, o którym mowa w ust. 1 i 2, nie naru praw osób trzecich.
 
 **Art. 201.**
 
-1. Przepisy art. 200 stosuje się odpowiednio do utworzonych z dniem 1 maja 1991 r., 1 lipca 1991 r. oraz z dniem 1 stycznia 1992 r. na podstawie zarządzeń Ministra Transportu i Gospodarki Morskiej przedsiębiorstw państwowych, które nabyły z mocy prawa, zgodnie z ustawą z dnia 25 marca 1994 r. zmieniającą ustawę o zmianie ustawy o gospodarce gruntami i wywłaszczaniu nieruchomości (Dz. U. poz. 201), z dniem ich wpisu do rejestru przedsiębiorstw państwowych prawo użytkowania wieczystego gruntów oraz własność położonych na nich budynków, innych urządzeń i lokali będących w zarządzie rejonów dróg publicznych, okręgowych zakładów transportu i maszyn drogowych, rejonów budowy dróg i mostów, rejonów budowy dróg, rejonów budowy mostów, kopalni odkrywkowych surowców drogowych, rejonów eksploatacji kruszywa lub dyrekcji okręgowych dróg publicznych.
+1. Przepisy art. 200 stosuje odpowiednio do utworzonych z dniem 1 maja 1991 r., 1 lipca 1991 r. oraz z dniem 1 stycznia 1992 r. na podstawie Ministra Transportu i Gospodarki Morskiej biorstw które z mocy prawa, zgod nie z z dnia 25 marca 1994 r. o zmianie ustawy o gospodarce gruntami i niu (Dz. U. Nr 51, poz. 201), z dniem ich wpisu do rejestru prawo wieczystego gruntów oraz na nich budynków, innych i lokali cych w rejonów dróg publicznych, transportu i maszyn drogowych, rejonów bu dowy dróg i mostów, rejonów budowy dróg, rejonów budowy mostów, kopalni odkrywkowych surowców drogowych, rejonów eksploatacji kruszywa lub dyrekcji dróg publicznych.
 
-2. Nabycie własności budynków, innych urządzeń i lokali przez przedsiębiorstwa państwowe, o których mowa w ust. 1, następuje odpłatnie, jeżeli obiekty te nie były wybudowane lub nabyte ze środków własnych poprzedników prawnych tych przedsiębiorstw.
+2. Nabycie budynków, innych i lokali przez o których mowa w ust. 1, obiekty te nie wybudowane lub nabyte ze snych poprzedników prawnych tych
 
 **Art. 202.**
 
-1. Państwowe instytucje kultury, które na podstawie ustawy z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej (Dz. U. poz. 493, z 1994 r. poz. 591, z 1996 r. poz. 407 oraz z 1997 r. poz. 24 i 680) uzyskały osobowość prawną, nabywają z mocy prawa, z dniem ich wpisu do rejestru instytucji kultury, użytkowanie wieczyste gruntów, którymi zarządzały w dniu 5 grudnia 1990 r., oraz własność położonych na nich budynków, innych urządzeń i lokali, jeżeli w dniu wejścia w życie niniejszej ustawy nadal zarządzają tymi gruntami. Nie może to naruszać praw osób trzecich. Do nabycia stosuje się odpowiednio przepisy art. 200.
+1. instytucje kultury, które na podstawie ustawy z dnia 25 1991 r. o or ganizowaniu i prowadzeniu kulturalnej (Dz. U. Nr 114, poz. 493, z 1994 r. Nr 121, poz. 591, z 1996 r. Nr 90, poz. 407 oraz z 1997 r. Nr 5, poz. 24 i Nr 106, poz. 680) z mocy prawa, z dniem ich wpisu do rejestru instytucji kultury, wieczyste gruntów, którymi za w dniu 5 grudnia 1990 r., oraz na nich budynków, innych i lokali, jeDziennik Ustaw Nr 115 w dniu w niniejszej ustawy nadal za tymi gruntami. Nie to praw osób trzecich. Do nabycia stosuje odpowiednio przepisy art. 200.
 
-2. Nabycie własności budynków, innych urządzeń i lokali przez instytucje kultury, o których mowa w ust. 1, następuje nieodpłatnie.
-
-3. Przepisy ust. 1 i ust. 2 stosuje się odpowiednio do komunalnych instytucji kultury, które uzyskały osobowość prawną w trybie art. 41 ustawy wymienionej w ust. 1.
+2. Nabycie budynków, innych i lokali przez instytucje kultury, o których mowa w ust. l,
 
 **Art. 203.**
 
-1. Zobowiązania osób prawnych z tytułu odpłatności za budynki, inne urządzenia i lokale, o których mowa w art. 200 ust. 1 oraz art. 201 ust. 2, niewykonane w całości lub w części przed dniem wejścia w życie niniejszej ustawy, podlegają zabezpieczeniu hipotecznemu zgodnie z jej przepisami.
+1. osób prawnych z za budynki, inne i lokale, o któ rych mowa wart. 200 ust. 1 oraz art. 201 ust. 2, nie wy konane w lub w przed dniem w niniejszej ustawy, zabezpieczeniu hi potecznemu zgodnie z jej przepisami.
 
-2. Zobowiązania spółek z wyłącznym udziałem Skarbu Państwa, powstałych z przekształcenia przedsiębiorstw państwowych, z tytułu, o którym mowa w ust. 1, wygasają.
+2. z Skarbu z przed z o którym mowa w ust. l,
 
-3. Przepisu ust. 1 nie stosuje się do zobowiązań spółek, którym na podstawie ustawy o komercjalizacji i prywatyzacji oddano do odpłatnego korzystania mienie zlikwidowanego przedsiębiorstwa.
+3. Przepisu ust. 1 nie stosuje do którym na podstawie ustawy o komercjalizacji i prywatyzacji oddano do korzystania mienie zlikwidowanego
 
 **Art. 204.**
 
-1. Spółdzielni, związkowi spółdzielczemu oraz innym osobom prawnym, które w dniu 5 grudnia 1990 r. były użytkownikami gruntów, stanowiących własność Skarbu Państwa lub gminy, przysługuje roszczenie o ustanowienie użytkowania wieczystego gruntu oraz o przeniesienie własności znajdujących się na nim budynków, innych urządzeń i lokali.
+1. oraz innym osobom prawnym, które w dniu 5 grudnia 1990 r. gruntów, Skarbu lub gminy, rosz czenie o ustanowienie wieczystego grun tu oraz o przeniesienie na nim budynków, innych i lokali.
 
-2. Zawarcie umowy o oddanie gruntu w użytkowanie wieczyste następuje bez przetargu.
+2. Zawarcie umowy o oddanie gruntu w nie wieczyste bez przetargu.
 
-3. Przeniesienie własności budynków, innych urządzeń i lokali następuje odpłatnie, chyba że obiekty te zostały wybudowane lub nabyte ze środków własnych spółdzielni, związków spółdzielczych oraz innych osób prawnych.
+3. Przeniesienie budynków, innych i lokali chyba obiekty te wybudowane lub nabyte ze oraz innych osób prawnych.
 
-4. Opłatę z tytułu użytkowania wieczystego gruntu oraz cenę budynków, innych urządzeń i lokali ustala się według przepisów rozdziału 8 działu II, z wyłączeniem przepisu o obowiązku wniesienia pierwszej opłaty. Na poczet ceny zalicza się zwaloryzowane opłaty poniesione z tytułu użytkowania budynków, innych urządzeń i lokali.
+4. z wieczystego gruntu oraz budynków, innych i lokali ustala przepisów 8 II, z przepisu o wniesienia pierwszej Na poczet ceny zalicza zwaloryzowane ponie sione z budynków, innych i lokali.
 
-5. Roszczenia, o których mowa w ust. 1, wygasły, jeżeli wnioski w tej sprawie nie zostały złożone do dnia 31 grudnia 1996 r.
+5. Roszczenia, o których mowa w ust. l, wnioski w tej sprawie nie do dnia 31 grudnia 1996 r.
 
-6. W przypadku sprzedaży prawa użytkowania wieczystego przed upływem 10 lat od jego ustanowienia, spółdzielnia, związek spółdzielczy oraz inne osoby prawne są obowiązane uiścić pierwszą opłatę w wysokości określonej w dniu sprzedaży, według przepisów rozdziału 8 działu II. Nie uiszcza się pierwszej opłaty w razie:
+6. W przypadku prawa wie czystego przed 10 lat od jego ustanowienia, oraz inne osoby praw ne w w dniu przepisów rozdzia 8 II. Nie uiszcza pierwszej w razie:
 
-- **1)** nieodpłatnego przekazania prawa użytkowania wieczystego na rzecz gminy lub Skarbu Państwa;
-- **2)** nieodpłatnego przekazania prawa użytkowania wieczystego na rzecz innej spółdzielni na podstawie ustawy z dnia 20 stycznia 1990 r. o zmianach w organizacji i działalności spółdzielczości (Dz. U. poz. 36, z późn. zm. ).
+- **1)** przekazania prawa wieczystego na rzecz gminy lub Skarbu
+- **2)** przekazania prawa wieczystego na rzecz innej na podsta wie ustawy z dnia 20 stycznia 1990 r. o zmianach w organizacji i (Dz. U. Nr 6, poz. 36, Nr 11, poz. 74, Nr 29, poz. 175 i Nr 34, poz. 198, z 1991 r. Nr 83, poz. 373, z 1992 r. Nr 18, poz. 74 i Nr 80, poz. 406, z 1993 r. Nr 40, poz. 182 oraz z 1994 r. Nr 68, poz. 294 i Nr 90, poz. 419).
 
 **Art. 205.**
 
-1. Roszczenia spółdzielni, związków spółdzielczych oraz innych osób prawnych o ustanowienie użytkowania wieczystego, powstałe przed dniem wejścia w życie niniejszej ustawy, podlegają z tym dniem jej przepisom.
+1. Roszczenia dzielczych oraz innych osób prawnych o ustanowienie wieczystego, przed dniem wej w niniejszej ustawy, z tym dniem jej przepisom.
 
-2. Przepisy art. 204 stosuje się odpowiednio do następców prawnych spółdzielni, związków spółdzielczych oraz innych osób prawnych, które istniały w dniu 24 grudnia 1992 r. i istnieją w dniu wejścia w życie niniejszej ustawy.
+2. Przepisy art. 204 stosuje odpowiednio do na prawnych czych oraz innych osób prawnych, które w dniu 24 grudnia 1992 r. i w dniu w ni niejszej ustawy.
 
-**Art. 206.** Rada Ministrów określi, w drodze rozporządzenia, szczegółowe zasady i tryb stwierdzania dotychczasowego prawa zarządu państwowych i komunalnych osób prawnych do nieruchomości, a także prawa użytkowania nieruchomości przez spółdzielnie, związki spółdzielcze oraz inne osoby prawne, uznawania środków, o których mowa w art. 200 ust. 1, art. 201 ust. 2 i art. 204 ust. 3, za środki własne, określania wartości nieruchomości oraz wysokości kwot należnych za nabycie własności budynków, innych urządzeń i lokali, zabezpieczenia wierzytelności z tego tytułu, a także rodzaje dokumentów stanowiących niezbędne dowody w tych sprawach.
+**Art. 206.** Rada Ministrów w drodze rozpo zasady i tryb stwierdzania do tychczasowego prawa i komu nalnych osób prawnych do a pra wa przez oraz inne osoby prawne, uznawa nia o których mowa wart. 200 ust. l, art. 201 ust. 2 i art. 204 ust. 3, za war oraz kwot za nabycie budynków, innych i lokali, zabezpieczenia z tego a ro dzaje dokumentów dowody w tych sprawach.
 
 **Art. 207.**
 
-1. Osoby, które były posiadaczami nieruchomości stanowiących własność Skarbu Państwa lub własność gminy w dniu 5 grudnia 1990 r. i pozostawały nimi nadal w dniu 1 stycznia 1998 r., mogą żądać oddania nieruchomości w drodze umowy w użytkowanie wieczyste wraz z przeniesieniem własności budynków, jeżeli zabudowały te nieruchomości na podstawie pozwolenia na budowę z lokalizacją stałą. Nabycie własności budynków wybudowanych ze środków własnych posiadaczy następuje nieodpłatnie.
+1. Posiadaczom cych Skarbu lub gminy, którzy w dniu 5 grudnia 1990 r. nie legitymowali do kumentami o przekazaniu im tych wy danymi w formie przewidzianej prawem, i nie legity nimi w dniu w niniejszej ustawy, oddaje je odpowiednio w wieczyste, w drodze umowy, lub w w drodze decy zji. oddaniu w wieczyste podlega gruntowa zabudowana na podstawie pozwolenia na z stosuje odpowiednio przepis art. 200 ust. 1 pkt 1.
 
-1a. Jeżeli nieruchomość została zabudowana na podstawie pozwolenia na budowę z lokalizacją czasową, zawarcie umowy, o której mowa w ust. 1, jest uzależnione od zgodności tej lokalizacji z ustaleniami planu miejscowego obowiązującego w dniu zgłoszenia żądania.
-
-2. Posiadacze, o których mowa w ust. 1, mogą być zwolnieni z pierwszej opłaty z tytułu użytkowania wieczystego, jeżeli złożą wnioski o oddanie im nieruchomości w użytkowanie wieczyste przed upływem roku od dnia wejścia w życie ustawy.
-
-**Art. 207a.** Przepisy art. 207 ust. 1 i 1a, w zakresie dotyczącym nieruchomości stanowiących własność Skarbu Państwa, stosuje się również do:
+2. Posiadacze, o których mowa w ust. l, zwolnieni z pierwszej z wie czystego, wnioski o oddanie im nierucho w wieczyste przed roku od dnia w ustawy.
 
 **Art. 208.**
 
-1. Osobom fizycznym oraz prawnym, które do dnia 5 grudnia 1990 r. uzyskały ostateczne decyzje lokalizacyjne lub pozwolenia na budowę na nieruchomości stanowiące własność Skarbu Państwa lub własność gminy, oddaje się te nieruchomości w użytkowanie wieczyste w trybie bezprzetargowym, jeżeli wnioski o oddanie tych nieruchomości zostały złożone przed dniem utraty ważności tych decyzji, jednak niepóźniej niż do dnia 31 grudnia 2000 r.
+1. Osobom fizycznym oraz prawnym, któ re do dnia 5 grudnia 1990 r. ostateczne decy zje lokalizacyjne lub pozwolenia na na nieru Skarbu lub gminy, oddaje te w kowanie wieczyste w trybie bezprzetargowym, wnioski o oddanie tych przed dniem utraty tych decyzji.
 
-2. Spółdzielniom, ich związkom oraz Krajowej Radzie Spółdzielczej i innym osobom prawnym, które na gruntach stanowiących własność Skarbu Państwa lub własność gminy do dnia 5 grudnia 1990 r. wybudowały same lub wybudowali ich poprzednicy prawni z własnych środków, za zezwoleniem właściwego organu nadzoru budowlanego budynki, przysługuje roszczenie o ustanowienie użytkowania wieczystego gruntów oraz o nieodpłatne przeniesienie własności znajdujących się na nich budynków. Roszczenie przysługuje tym osobom w stosunku do gruntów będących w dniu zgłoszenia roszczenia w ich posiadaniu w rozumieniu art. 207 i obejmuje grunty niezbędne do prawidłowego korzystania z budynku.
+2. ich oraz Krajowej Ra dzie i innym osobom prawnym, które na gruntach Skarbu lub gminy do dnia 5 grudnia 1990 r. wybudowa same lub wybudowali ich poprzednicy prawni z snych za zezwoleniem organu nadzoru budowlanego budynki, roszcze nie o ustanowienie wieczystego gruntów oraz o przeniesienie cych na nich budynków. Roszczenie tym osobom w stosunku do gruntów w dniu roszczenia w ich posiadaniu w rozumieniu art. 207 i obejmuje grunty do korzystania z budynku.
 
-3. W sprawach, o których mowa w ust. 2, zawarcie umowy o oddanie gruntu w użytkowanie wieczyste oraz o przeniesienie własności budynków następuje bez przetargu oraz bez obowiązku wniesienia pierwszej opłaty.
+3. W sprawach, o których mowa w ust. 2, zawarcie umowy o oddanie gruntu w wieczyste oraz o przeniesienie budynków bez przetargu oraz bez wniesienia pierwszej
 
-4. Roszczenia, o których mowa w ust. 2, wygasły, jeżeli wnioski w tej sprawie nie zostały złożone do dnia 31 grudnia 1996 r.
+4. Roszczenia, o których mowa w ust. 2, wnioski w tej sprawie nie do dnia 31 grudnia 1996 r.
 
-**Art. 209.** Osoby, które uzyskały prawo zabudowy nieruchomości ustanowione przed dniem wejścia w życie dekretu z dnia 26 października 1945 r. o prawie zabudowy (Dz. U. poz. 280), mogą żądać przekształcenia tego prawa w użytkowanie wieczyste. Przekształcenie następuje w drodze decyzji właściwego organu, w której określa się także warunki użytkowania wieczystego, z zachowaniem zasad określonych w art. 62. Decyzja stanowi podstawę do dokonania wpisu w księdze wieczystej.
-
-**Art. 209a.**
-
-1. Jeżeli przy wyodrębnianiu własności lokali w budynku wydzielono dla tego budynku działkę gruntu niespełniającą wymogów działki budowlanej, właścicielom lokali przysługuje w stosunku do Skarbu Państwa lub jednostki samorządu terytorialnego roszczenie o zawarcie umowy przeniesienia własności lub oddania w użytkowanie wieczyste przyległej nieruchomości gruntowej lub jej części, która wraz z dotychczas wydzieloną działką gruntu będzie spełniać wymogi działki budowlanej.
-
-2. Przeniesienie własności nieruchomości, o którym mowa w ust. 1, może nastąpić po rozpatrzeniu przez właściwe organy wniosków poprzednich właścicieli lub ich spadkobierców o przywrócenie własności tej nieruchomości.
-
-3. W przypadku, o którym mowa w ust. 1, Skarbowi Państwa lub jednostce samorządu terytorialnego przysługuje w stosunku do właścicieli lokali roszczenie o zawarcie umowy przeniesienia na ich rzecz własności lub oddania im w użytkowanie wieczyste przyległej nieruchomości gruntowej lub jej części.
-
-4. Roszczenie, o którym mowa w ust. 1, nie przysługuje, jeżeli:
-
-- **1)** toczy się postępowanie dotyczące prawidłowości nabycia nieruchomości przez Skarb Państwa lub jednostkę samorządu terytorialnego;
-- **2)** przyległa nieruchomość gruntowa, stanowiąca własność Skarbu Państwa lub jednostki samorządu terytorialnego, została oddana w użytkowanie wieczyste innej osobie lub w trwały zarząd jednostce organizacyjnej na cele obronności i bezpieczeństwa państwa, lub graniczy z tymi nieruchomościami;
-- **3)** wskutek realizacji roszczenia przyległa nieruchomość gruntowa przestałaby spełniać wymogi działki budowlanej.
-
-5. Przepisy ust. 1–4 stosuje się odpowiednio w odniesieniu do nieruchomości gruntowej lub jej części, która nie przylega do działki gruntu, o której mowa w ust. 1, jeżeli jest ona niezbędna do prawidłowego i racjonalnego korzystania z budynku, w którym została wyodrębniona własność lokali.
+**Art. 209.** Osoby, które prawo zabudowy ustanowione przed dniem w dekretu z dnia 26 1945 r. o prawie zabudowy (Dz.U. Nr 50, poz. 280), prze tego prawa w wieczyste. Prze w drodze decyzji or ganu, w której warunki wieczystego, z zachowaniem zasad wart. 62. Decyzja stanowi do dokonania wpisu w wieczystej.
 
 **Art. 210.**
 
-1. Grunty stanowiące własność Skarbu Państwa lub własność gminy, będące w dniu 5 grudnia 1990 r. w użytkowaniu osób prawnych lub jednostek organizacyjnych nieposiadających osobowości prawnej oraz znajdujące się na tych gruntach budynki, inne urządzenia i lokale pozostają nadal w użytkowaniu tych osób i jednostek. Do użytkowania tego stosuje się odpowiednio przepisy dotyczące trwałego zarządu.
+1. Grunty Skarbu lub gminy, w dniu 5 grudnia 1990 r. w osób prawnych lub jednostek organizacyjnych nie praw nej oraz na tych gruntach budynki, inne i lokale nadal w tych osób i jednostek. Do tego stosuje prze pisy Kodeksu cywilnego.
 
-2. W razie sprzedaży dotychczasowemu użytkownikowi budynków, innych urządzeń i lokali, o których mowa w ust. 1, na poczet ceny nabycia własności zalicza się opłaty poniesione z tytułu użytkowania.
-
-3. Do użytkowania ustanowionego w drodze decyzji przed dniem 1 stycznia 1998 r. stosuje się odpowiednio przepisy dotyczące trwałego zarządu.
+2. W razie dotychczasowemu kowi budynków, innych i lokali, o których mo wa w ust. 1, na poczet ceny nabycia zalicza poniesione z
 
 **Art. 211.**
 
-1. Osoba, która na podstawie pozwolenia na budowę wybudowała przed dniem 5 grudnia 1990 r. ze środków własnych garaż na gruncie stanowiącym własność Skarbu Państwa lub własność gminy, a także jej następca prawny, mogą żądać nabycia tego garażu na własność oraz oddania w użytkowanie wieczyste gruntu niezbędnego do korzystania z tego garażu, jeżeli jest jego najemcą. Nabycie garażu na własność następuje nieodpłatnie.
+1. Osoba, która na podstawie pozwolenia na przed dniem 5 grudnia 1990 r. ze na gruncie Skarbu lub gminy, a jej prawny, nabycia tego na oraz oddania w wieczyste gruntu do korzystania z tego li jest jego Nabycie na na
 
-2. Nabycie garażu na własność, wybudowanego przed dniem 5 grudnia 1990 r. na podstawie pozwolenia na budowę z lokalizacją czasową, jest uzależnione od zgodności tej lokalizacji z ustaleniami planu miejscowego obowiązującego w dniu zgłoszenia żądania.
+2. Nabycie na wybudowanego przed dniem 5 grudnia 1990 r. na podstawie pozwole nia na z jest od tej lokalizacji z ustaleniami planu miej scowego w dniu
 
-3. Uprawnienie, o którym mowa w ust. 1, wygasa, jeżeli żądanie nabycia garażu na własność oraz oddania użytkowania wieczystego gruntu niezbędnego do korzystania z tego garażu nie zostanie złożone właściwemu organowi do dnia 31 grudnia 2000 r.
+**Art. 212.**
 
-**Art. 212.** (uchylony)
+1. Na pokrycie za wie czyste lub ceny budowlanej oraz ce ny na niej budynków lub lokali Skarbu osobom, któ re w z w 1939 r. na terenach nie w obecnego obszaru a które na mocy umów zawartych przez ekwiwalent za mienie pozostawione za grani zalicza pozostawionych
 
-**Art. 213.** Przepisów art. 204–211 nie stosuje się do nieruchomości wchodzących w skład Zasobu Własności Rolnej Skarbu Państwa, chyba że przepisy dotyczące gospodarowania tym Zasobem stanowią inaczej.
+2. pozostawionych o których mowa w ust. 1, nabytych jako ekwiwalent, zaliczona na pokrycie za wieczyste lub ceny zabudowanej budynkiem, przeznaczonym na prowadzenie handlo wej lub na do prowadzenia dzia twórczej, domem letniskowym, albo przeznaczonej pod tego rodzaju
+
+3. W razie zaliczenia o któ rych mowa w ust. 1, nie stosuje przepisów art. 62 i 109.
+
+4. Zaliczenie o których mowa w ust. 1, na rzecz tych nie lub wskazanej przez niego jednej osoby uprawnionej do dziedziczenia ustawowego.
+
+5. W razie po zostawionych za uprawnienia z ust. 1 wszystkim jego spadkobier com lub jednemu z nich, wskazanemu przez osoby uprawnione.
+
+6. Rada Ministrów w drodze nia, sposób zaliczania na pokrycie za nie wieczyste lub ceny budowlanej i ceny na niej budynków lub lo kali, Skarbu pozostawionych na terenach nie wcho w obszaru oraz sposób ustala nia tych
+
+**Art. 213.** Przepisów art. 204-212 nie stosuje do w Zasobu Rolnej Skarbu chyba przepisy ce gospodarowania tym Zasobem inaczej.
 
 **Art. 214.**
 
-1. Poprzednim właścicielom, których prawa do odszkodowania za przejęte przez państwo grunty, budynki i inne części składowe nieruchomości, przewidziane w art. 7 ust. 4 i 5 oraz art. 8 dekretu z dnia 26 października 1945 r. o własności i użytkowaniu gruntów na obszarze m.st. Warszawy wygasły na podstawie przepisów ustawy wymienionej w art. 241 pkt 1, jeżeli w terminie do dnia 31 grudnia 1988 r. zgłosili oni lub ich następcy prawni wnioski o oddanie gruntów w użytkowanie wieczyste, może zostać zwrócona nieruchomość stanowiąca ich dawną własność.
+1. Poprzednim których pra wa do odszkodowania za przez grun ty, budynki i inne przewidziane wart. 7 ust. 4 i 5 i art. 8 dekretu z dnia 26 1945 r. o i gruntów na obszarze m.st.Warszawy (Dz.U. Nr 50, poz. 279 i z 1985 r. Nr 22, poz. 99), na podsta wie przepisów ustawy wymienionej wart. 241 pkt 1, oni lub ich prawni w terminie do dnia 31 grudnia 1988 r. wnioski o oddanie gruntów Dziennik Ustaw Nr 115 - 3581 - Poz. 741 w wieczyste, zwrócona jed na
 
-2. Zwrot nieruchomości, o którym mowa w ust. 1, przysługuje poprzednim właścicielom działek zabudowanych domami jednorodzinnymi, małymi domami mieszkalnymi i domami, w których liczba izb nie przekracza 20, oraz domami, w których przed dniem 21 listopada 1945 r. została wyodrębniona własność poszczególnych lokali, a także domami, które stanowiły przed tym dniem własność spółdzielni mieszkaniowych.
+2. Zwrot o którym mowa w ust. 1, poprzednim zabudo wanych domami jednorodzinnymi, domami mieszkalnymi i domami, w których liczba izb nie prze kracza 20, oraz domami, w których przed dniem 21 li stopada 1945 r. po szczególnych lokali, a domami, które przed tym dniem mieszkanio wych.
 
-3. O przyznaniu prawa użytkowania wieczystego gruntów i o zwrocie budynków orzeka właściwy organ.
+3. O przyznaniu prawa wieczystego gruntów i o zwrocie budynków orzeka organ.
 
-4. Przepis ust. 2 stosuje się odpowiednio do obiektów sakralnych, klasztorów, domów zakonnych i innych obiektów kościelnych, użytkowanych w całości przez byłych właścicieli lub ich następców prawnych. Jeżeli obiekty te są użytkowane tylko w części, przepis ust. 2 stosuje się wyłącznie w granicach faktycznego władania.
+4. Przepis ust. 2 stosuje odpowiednio do obiek tów sakralnych, klasztorów, domów zakonnych i in nych obiektów w przez lub ich prawnych. obiekty te tylko w przepis ust. 2 stosuje w granicach faktycznego
 
-5. Przepisu ust. 2 nie stosuje się do gruntów oddanych w użytkowanie wieczyste osobom innym niż byli właściciele oraz do gruntów oddanych w użytkowanie.
-
-**Art. 214a.**
-
-1. Odmawia się oddania gruntu w użytkowanie wieczyste lub przeniesienia prawa własności gruntu na rzecz osoby uprawnionej, o której mowa w art. 7 ust. 1 dekretu z dnia 26 października 1945 r. o własności i użytkowaniu gruntów na obszarze m.st. Warszawy, niezależnie od przyczyn wymienionych w art. 7 ust. 2 tego dekretu, ze względu na:
-
-- **1)** przeznaczenie lub wykorzystywanie na cele określone w art. 6;
-- **2)** sprzedaż lub oddanie w użytkowanie wieczyste na rzecz osób trzecich;
-- **3)** zabudowę przez Skarb Państwa lub jednostkę samorządu terytorialnego dokonaną po dniu wejścia w życie dekretu z dnia 26 października 1945 r. o własności i użytkowaniu gruntów na obszarze m.st. Warszawy, której wartość przenosi znacznie wartość zajętego na ten cel gruntu;
-- **4)** odbudowę lub remont, dokonany ze środków publicznych, budynków, o których mowa w art. 5 dekretu z dnia 26 października 1945 r. o własności i użytkowaniu gruntów na obszarze m.st. Warszawy, zniszczonych w latach 1939–1945 więcej niż w 50 %;
-- **5)** brak możliwości dokonania zgodnego z prawem i ładem przestrzennym podziału nieruchomości, której części dotyczy roszczenie, o którym mowa w art. 7 ust. 1 i 2 dekretu z dnia 26 października 1945 r. o własności i użytkowaniu gruntów na obszarze m.st. Warszawy;
-- **6)** zajmowanie lokalu przez lokatora w rozumieniu art. 2 ust. 1 pkt 1 ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego (Dz. U. z 2023 r. poz. 725);
-- **7)** przeznaczenie nieruchomości na cele nauki, oświaty i kultury;
-- **8)** położenie gruntu w ramach publicznego kompleksu wypoczynkowego lub rekreacyjnego lub terenów zieleni w rozumieniu art. 5 pkt 21 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2023 r. poz. 1336, 1688 i 1890);
-- **9)** ustanowienie lub przeniesienie na rzecz osób trzecich praw rzeczowych na gruncie, budynku lub ich części albo oddanie nieruchomości lub jej części do odpłatnego korzystania, w szczególności na podstawie umowy najmu lokalu mieszkalnego – bez względu na czas trwania stosunku cywilnoprawnego z osobą trzecią;
-- **10)** przeszkody powodujące, iż ustanowienie użytkowania wieczystego oraz własności budynku lub innego urządzenia powodowałyby sprzeczność z przeznaczeniem społeczno-gospodarczym tych praw;
-- **11)** niemożność pogodzenia z prawidłowym ukształtowaniem stosunków sąsiedzkich;
-- **12)** przeznaczenie lub wykorzystanie nieruchomości na cele użyteczności publicznej.
-
-2. Przepis ust. 1 stosuje się także w przypadku, gdy wyłączenia, o których mowa w ust. 1, dotyczą części gruntu, budynku albo ich części składowych.
-
-**Art. 214b.**
-
-1. W sprawach dotyczących rozpatrzenia wniosków, o których mowa w art. 7 ust. 1 dekretu z dnia 26 października 1945 r. o własności i użytkowaniu gruntów na obszarze m.st. Warszawy umarza się postępowanie, jeżeli nie jest możliwe ustalenie stron postępowania lub ich adresów.
-
-2. Podstawa umorzenia zachodzi, gdy organ wezwał nieustalone strony lub strony, których adresów nie ustalono, do uczestnictwa w postępowaniu przez ogłoszenie, a w sprawie nie wpłynęło żadne pismo pochodzące od wzywanej strony w przeciągu ostatnich 30 lat poprzedzających dzień publikacji ogłoszenia. Organ wydaje decyzję o umorzeniu postępowania, jeżeli w terminie 6 miesięcy od dnia ogłoszenia wzywana strona nie zgłosiła swych praw albo zgłosiwszy je, nie udowodniła ich w terminie kolejnych 3 miesięcy lub nie wskazała swego adresu.
-
-2a. Wnioskodawca oraz jego ewentualni następcy prawni nie mogą być reprezentowani przez kuratora spadku lub kuratora dla osoby nieznanej z miejsca pobytu.
-
-3. Ogłoszenie zawiera:
-
-- **1)** imię, nazwisko oraz ostatnie znane organowi miejsce zamieszkania wnioskodawcy;
-- **2)** informację o złożonym wniosku;
-- **3)** wskazanie nieruchomości objętej złożonym wnioskiem;
-- **4)** wezwanie, aby wzywana strona w terminach, o których mowa w ust. 2 zdanie drugie, zgłosiła i udowodniła swe prawa, gdyż w przeciwnym razie postępowanie zostanie umorzone.
-
-4. Ogłoszenie zamieszcza się w dzienniku o zasięgu ogólnokrajowym a ponadto w prasie lokalnej obejmującej swym zasięgiem miejsce ostatniego zamieszkania wnioskodawcy, a także na okres 30 dni na stronie internetowej właściwego urzędu.
-
-5. Decyzja o umorzeniu postępowania stanowi podstawę do ujawnienia tytułu własności do nieruchomości Skarbu Państwa lub jednostki samorządu terytorialnego w księgach wieczystych prowadzonych dla budynku i dla lokali wydzielonych z tego budynku jako odrębnych nieruchomości oraz do zamknięcia powyższych ksiąg.
-
-6. Prezydent m.st. Warszawy zawiadamia o wydaniu decyzji w trybie art. 214b w drodze obwieszczenia w urzędowym publikatorze teleinformatycznym – Biuletynie Informacji Publicznej m.st. Warszawy. Skutek doręczenia decyzji następuje z upływem 14 dni od dnia obwieszczenia.
-
-**Art. 214c.** Odmawia się oddania gruntu w użytkowanie wieczyste na rzecz osoby, która nabyła prawo lub roszczenie od kuratora reprezentującego osobę uprawnioną ustanowionego, dla osoby nieznanej z miejsca pobytu, jeżeli nie było podstaw do jego ustanowienia albo od kuratora spadku lub z naruszeniem przepisów o dziedziczeniu, w tym przepisów dotyczących dziedziczenia spadków wakujących lub nieobjętych.
+5. Przepisu ust. 2 nie stosuje do gruntów odda nych w wieczyste osobom innym byli oraz do gruntów oddanych w
 
 **Art. 215.**
 
-1. Przepisy ustawy dotyczące odszkodowań za wywłaszczone nieruchomości stosuje się odpowiednio do odszkodowania za gospodarstwo rolne na gruntach, które na podstawie dekretu z dnia 26 października 1945 r. o własności i użytkowaniu gruntów na obszarze m.st. Warszawy przeszły na własność państwa, jeżeli ich poprzedni właściciele lub następcy prawni tych właścicieli, prowadzący gospodarstwo, zostali pozbawieni faktycznego władania wspomnianym gospodarstwem po dniu 5 kwietnia 1958 r.
+1. Przepisy ustawy odszkodo za stosuje odpo wiednio do odszkodowania za gospodarstwo rolne na gruntach, które na podstawie dekretu z dnia 26 dziernika 1945 r. o i gruntów na obszarze m.st. Warszawy na stwa, ich poprzedni lub prawni tych gospodarstwo, zostali pozbawieni faktycznego wspomnia nym gospodarstwem po dniu 5 kwietnia 1958 r.
 
-2. Przepisy ustawy dotyczące odszkodowania za wywłaszczone nieruchomości stosuje się odpowiednio do domu jednorodzinnego, jeżeli przeszedł on na własność państwa po dniu 5 kwietnia 1958 r., oraz do działki, która przed dniem wejścia w życie dekretu wymienionego w ust. 1 mogła być przeznaczona pod budownictwo jednorodzinne, jeżeli poprzedni właściciel bądź jego następcy prawni zostali pozbawieni faktycznej możliwości władania nią po dniu 5 kwietnia 1958 r. W ramach przyznanego odszkodowania poprzedni właściciel bądź jego następcy prawni mogą otrzymać w użytkowanie wieczyste działkę pod budowę domu jednorodzinnego.
+2. Przepisy ustawy odszkodowania za stosuje odpowied nio do domu jednorodzinnego, on na po dniu 5 kwietnia 1958 r., oraz do która przed dniem w dekretu wy mienionego w ust. 1 przeznaczona pod bu downictwo jednorodzinne, poprzedni jego prawni zostali pozbawieni faktycz nej po dniu 5 kwietnia 1958 r. W ramach przyznanego odszkodowania poprzedni jego prawni w wieczyste pod domu jednorodzinnego.
 
-**Art. 216.**
-
-1. Przepisy rozdziału 6 działu III niniejszej ustawy stosuje się odpowiednio do nieruchomości przejętych lub nabytych na rzecz Skarbu Państwa na podstawie art. 6 lub art. 47 ustawy z dnia 12 marca 1958 r. o zasadach i trybie wywłaszczania nieruchomości (Dz. U. z 1974 r. poz. 64 oraz z 1982 r. poz. 79), ustawy z dnia 22 maja 1958 r. o terenach dla budownictwa domów jednorodzinnych w miastach i osiedlach (Dz. U. poz. 138, z 1961 r. poz. 47 i 159 oraz z 1972 r. poz. 192), ustawy z dnia 31 stycznia 1961 r. o terenach budowlanych na obszarach wsi (Dz. U. z 1969 r. poz. 216, z 1972 r. poz. 312 oraz z 1985 r. poz. 99), art. 22 ustawy z dnia 14 lipca 1961 r. o gospodarce terenami w miastach i osiedlach (Dz. U. z 1969 r. poz. 159, z 1972 r. poz. 193 oraz z 1974 r. poz. 84), ustawy z dnia 6 lipca 1972 r. o terenach budownictwa jednorodzinnego i zagrodowego oraz o podziale nieruchomości w miastach i osiedlach (Dz. U. poz. 192, z 1973 r. poz. 282 oraz z 1985 r. poz. 99) oraz do nieruchomości wywłaszczonych na rzecz państwowych i spółdzielczych przedsiębiorstw gospodarki rolnej, jak również do gruntów wywłaszczonych na podstawie odrębnych przepisów w związku z potrzebami Tatrzańskiego Parku Narodowego.
-
-2. Przepisy rozdziału 6 działu III stosuje się odpowiednio do nieruchomości nabytych na rzecz Skarbu Państwa albo gminy odpowiednio na podstawie:
-
-- **1)** art. 5 i art. 13 ustawy z dnia 25 czerwca 1948 r. o podziale nieruchomości na obszarach miast i niektórych osiedli (Dz. U. poz. 240 oraz z 1957 r. poz. 172);
-- **2)** art. 9 dekretu z dnia 26 kwietnia 1949 r. o nabywaniu i przekazywaniu nieruchomości niezbędnych dla realizacji narodowych planów gospodarczych (Dz. U. z 1952 r. poz. 31);
-- **3)** ustawy z dnia 29 kwietnia 1985 r. o gospodarce gruntami i wywłaszczaniu nieruchomości (Dz. U. z 1991 r. poz. 127, z późn. zm. ).
-
-**Art. 216a.** Przepisu art. 34 ust. 1 pkt 2 nie stosuje się do nieruchomości, o których mowa w:
+**Art. 216.** Przepisy 6 III niniejszej ustawy stosuje odpowiednio do lub nabytych na rzecz Skarbu na podstawie art. 6 ustawy z dnia 12 marca 1958 r. o zasa dach i trybie (Dz.U. z 1974 r. Nr 10, poz. 64 i z 1982 r. Nr 11, poz. 79), usta wy z dnia 22 maja 1958 r. o terenach dla budownictwa domów jednorodzinnych w miastach i osiedlach (Dz. U. Nr 31, poz. 138, z 1961 r. Nr 7, poz. 47 i Nr 32, poz. 159 oraz z 1972 r. Nr 27, poz. 192), ustawy z dnia 31 stycznia 1961 r. o terenach budowlanych na obsza rach wsi (Dz. U. z 1969 r. Nr 27, poz. 216, z 1972 r. Nr 49, poz. 312 i z 1985 r. Nr 22, poz. 99), ustawy z dnia 6 lip ca 1972 r. o terenach budownictwa jednorodzinnego i zagrodowego oraz o podziale w mia stach i osiedlach (Dz. U. Nr 27, poz. 192, z 1973 r. Nr 48, poz. 282 i z 1985 r. Nr 22, poz. 99) oraz do nieruchomo na rzecz i czych gospodarki rolnej, jak do gruntów na podstawie przepisów w z potrzebami Par ku Narodowego.
 
 **Art. 217.**
 
-1. Osobom, które w wyniku utraty własności nieruchomości otrzymały tytułem odszkodowania lub rekompensaty inne nieruchomości w użytkowanie wieczyste, oraz spadkobiercom tych osób przysługuje roszczenie o nieodpłatne przeniesienie na ich rzecz własności nieruchomości przyznanych z tytułu odszkodowania lub rekompensaty.
+1. Osobom, które w wyn iku utraty odszkodowania lub rekompensaty inne w wieczyste, oraz prawnym tych osób przy roszczenie o przeniesienie na ich rzecz przyznanych z odszkodowania lub rekompensaty.
 
-2. Osoby, które zostały pozbawione własności nieruchomości w wyniku wywłaszczenia dokonanego przed dniem 5 grudnia 1990 r., w razie zwrotu tych nieruchomości, zwracają odszkodowanie zwaloryzowane, w wysokości niewiększej niż 50 % aktualnej wartości tych nieruchomości.
+2. Osoby, które pozbawione nie w wyniku dokonanego przed dniem 5 grudnia 1990 r., w razie zwrotu tych nie odszkodowanie zwaloryzowane, w nie 50% aktualnej tych
 
 **Art. 218.**
 
-1. Osobie, która dokonała – za zgodą właściciela – przebudowy lub rozbudowy budynku stanowiącego własność Skarbu Państwa lub własność jednostki samorządu terytorialnego, w wyniku czego nastąpiło wyodrębnienie lokalu, w razie nabycia tego lokalu na poczet ceny nabycia zalicza się wartość nakładów poniesionych na jego przebudowę lub rozbudowę.
+1. Osobie, która - za - przebudowy lub rozbudowy budynku stano Skarbu lub gmi ny, w wyniku czego lokalu, w razie nabycia tego lokalu na poczet ceny nabycia za licza poniesione na jego lub Przy ustalaniu poniesionych bierze za faktycznie wykonane roboty oraz tych robót w dniu ustalenia ceny.
 
-2. Przepisu ust. 1 nie stosuje się, jeżeli umowa najmu lub dzierżawy lokalu stanowi inaczej.
+2. Przepisu ust. 1 nie stosuje umowa naj mu lub lokalu stanowi inaczej.
 
 **Art. 219.**
 
-1. Zaległe w dniu wejścia w życie ustawy zobowiązania osób prawnych lub fizycznych z tytułu opłat za użytkowanie wieczyste nieruchomości gruntowych lub należności z tytułu nabycia własności budynków, innych urządzeń i lokali mogą być rozłożone na nieoprocentowane raty roczne płatne przez okres do 10 lat, a odsetki od tych należności mogą być umorzone. Rozłożenia na raty oraz umorzenia odsetek dokonuje, w drodze decyzji, wojewoda, jeżeli nieruchomość stanowi własność Skarbu Państwa, lub organ wykonawczy jednostki samorządu terytorialnego, jeżeli nieruchomość stanowi własność jednostki samorządu terytorialnego, o ile jest to uzasadnione sytuacją finansową tych osób prawnych lub fizycznych.
+1. w dniu w ustawy osób prawnych lub fizycznych z za wieczyste grunto wych na nie oprocentowane raty roczne przez okres do 10 lat, a odsetki od tych umorzone. na raty oraz umorzenia odsetek dokonuje, w drodze decyzji, wojewoda, stanowi Skarbu lub gminy, nierucho stanowi gminy, o ile jest to uzasadnio ne tych osób prawnych lub fizycz nych.
 
-2. Zaległe w dniu wejścia w życie ustawy zobowiązania jednostek organizacyjnych z tytułu opłat za zarząd nieruchomości oraz odsetki od tych należności umarza się, jeżeli jest to uzasadnione sytuacją finansową tych jednostek. Przepis ust. 1 dotyczący właściwości organów stosuje się odpowiednio.
+2. w dniu w ustawy zania jednostek organizacyjnych z za za oraz odsetki od tych umarza jest to uzasadnione finanso tych jednostek. Przepis ust. 1 organów stosuje odpowiednio.
 
 **Art. 220.**
 
-1. Jeżeli w dniu wejścia w życie ustawy nie były ustalone terminy zagospodarowania nieruchomości gruntowej stanowiącej przedmiot użytkowania wieczystego, właściwy organ może, w ciągu roku od dnia wejścia w życie ustawy, ustalić te terminy w drodze decyzji.
+1. Jeżeli w dniu w ustawy nie ustalone terminy zagospodarowania nieruchogruntowej przedmiot wieczystego, organ w roku od dnia w ustawy, te terminy w dro dze decyzji.
 
-2. Terminy zagospodarowania nieruchomości gruntowej ustalone na podstawie ust. 1 nie mogą być krótsze niż 12 miesięcy w odniesieniu do rozpoczęcia zabudowy i 36 miesięcy w odniesieniu do zakończenia zabudowy.
+2. Terminy zagospodarowania gruntowej ustalone na podstawie ust.l nie krótsze 12 w odniesieniu do zabudowy i 36 w odniesieniu do zabudowy.
 
 **Art. 221.**
 
-1. Przepisy art. 72 ust. 3 stosuje się odpowiednio do nieruchomości gruntowych oddanych w użytkowanie wieczyste przed dniem 1 stycznia 1998 r., z wyjątkiem nieruchomości, dla których stawki procentowe opłat rocznych zostały ustalone w wysokości powyżej 3 %. Zmiany wysokości stawek procentowych opłat rocznych dokonują właściwe organy stosując tryb postępowania określony w art. 78–
+1. Przepisy art. 72 ust. 3 stosuje odpo wiednio do gruntowych oddanych w wieczyste przed dniem w niniejszej ustawy. Zmiany stawek procento wych rocznych organy w ter minie roku od dnia w ustawy. Przy doko nywaniu zmiany stawek procentowych stosuje tryb wart. 78-81.
 
-81.
+2. przy oddaniu gruntowej w wieczyste nie wyso stawki procentowej rocznej z wania wieczystego, organ tej stawki, z przypadków, o których mowa wart. 212 i art. 217 ust. 1, w terminie roku od dnia wej w ustawy. stawki pro centowej dokonuje w trybie w przepi sach art. 78-81.
 
-2. Jeżeli przy oddaniu nieruchomości gruntowej w użytkowanie wieczyste nie została określona wysokość stawki procentowej opłaty rocznej z tytułu użytkowania wieczystego, właściwy organ określi wysokość tej stawki, z wyłączeniem przypadków, o których mowa w art. 217 ust. 1, stosując tryb postępowania określony w art. 78–81.
-
-3. Jeżeli przy oddaniu nieruchomości gruntowej w użytkowanie wieczyste nie został określony cel, na który nieruchomość była oddana, stawkę procentową opłaty rocznej przyjmuje się stosownie do celu wynikającego ze sposobu korzystania z nieruchomości.
+3. przy oddaniu gruntowej w wieczyste nie cel, na który oddana, rocznej przyjmuje stosownie do celu wynika ze sposobu korzystania z
 
 **Art. 222.**
 
-1. Przepisy art. 83 stosuje się odpowiednio do nieruchomości oddanych w zarząd przed dniem wejścia w życie niniejszej ustawy. Zmiany wysokości stawek procentowych opłat rocznych dokonają, w drodze decyzji, właściwe organy.
+1. Przepisy art. 83 stosuje odpowied nio do oddanych w przed dniem w niniejszej ustawy. Zmiany stawek procentowych rocznych w dro dze decyzji, organy, w terminie roku od dnia w ustawy.
 
-2. Wniesione do dnia wejścia w życie ustawy pierwsze opłaty z tytułu zarządu nieruchomością nie podlegają zwrotowi.
+2. Wniesione do dnia w ustawy pierw sze z nie podle zwrotowi.
 
 **Art. 223.**
 
-1. (uchylony)
+1. Kierownicy rejonowych prze protokólarnie Ministrowi Spraw i Administracji wykaz w za jednostek, o których mowa wart. 60 ust. 1, wraz z w terminie 6 od dnia w niniejszej ustawy.
 
-2. Starostowie, wykonujący zadania z zakresu administracji rządowej, oddadzą w trwały zarząd Generalnej Dyrekcji Dróg Krajowych i Autostrad nieruchomości stanowiące własność Skarbu Państwa, zajęte pod drogi krajowe.
+2. Kierownicy rejonowych w dyrekcjom dróg publicz nych Skarbu stwa, pod drogi krajowe i wojewódzkie w termi nie nie 2 lata od dnia w usta wy.
 
-**Art. 224.** Do czasu przekształcenia ewidencji gruntów i budynków w kataster nieruchomości przez użyte w niniejszej ustawie pojęcie „kataster nieruchomości” rozumie się tę ewidencję.
+**Art. 224.** Do czasu ewidencji grun tów i budynków w kataster przez w niniejszej ustawie "kataster rozumie Art: 225. W okresie do dnia 31 grudnia 2005 r. funk katastralnej dla gruntów rolnych i liczba hektarów przeliczeniowych, ustalana zgod nie z przepisami o podatku rolnym oraz z przepisami o lasach.
 
-**Art. 225.** W okresie do dnia 31 grudnia 2005 r. funkcję wartości katastralnej dla gruntów rolnych pełni liczba hektarów przeliczeniowych, ustalana zgodnie z przepisami o podatku rolnym.
+**Art. 226.** Wartości katastralne, przy przeprowadza nej po raz pierwszy powszechnej taksacji nieruchomo ustala na 31 grudnia roku go rok, w którym na mocy przepisów zosta nie wprowadzony podatek od nalicza ny od jej
 
-**Art. 226.** Wartości katastralne, przy przeprowadzanej po raz pierwszy powszechnej taksacji nieruchomości, ustala się na dzień 31 grudnia roku poprzedzającego rok, w którym na mocy odrębnych przepisów zostanie wprowadzony podatek od nieruchomości naliczany od jej wartości.
+**Art. 227.** Do czasu przez Prezesa nego Statystycznego zmian cen waloryzacji dokonuje przy zastoso waniu cen towarów i konsumpcyj nych przez Prezesa Statystycznego, w drodze w Dzienniku Rzeczypospolitej Polskiej "Monitor Pol ski".
 
-**Art. 227.** (uchylony)
+**Art. 228.** W zasobie Skarbu stwa nie ewidencjonuje które na podstawie ustawy wymienionej wart. 24 ust. 1 z mocy prawa, z dniem 27 maja 1990 r. gmin, lecz co do których nie wydane ostatecz ne decyzje nabycie
 
-**Art. 228.** W zasobie nieruchomości Skarbu Państwa nie ewidencjonuje się nieruchomości, które na podstawie przepisów ustawy z dnia 10 maja 1990 r. – Przepisy wprowadzające ustawę o samorządzie terytorialnym i ustawę o pracownikach samorządowych (Dz. U. poz. 191, z późn. zm. ) stały się, z mocy prawa, z dniem 27 maja 1990 r. własnością gmin, lecz co do których nie zostały wydane ostateczne decyzje potwierdzające nabycie własności.
-
-**Art. 229.** Roszczenie, o którym mowa w art. 136 ust. 3, nie przysługuje, jeżeli przed dniem wejścia w życie niniejszej ustawy nieruchomość została sprzedana albo ustanowiono na niej prawo użytkowania wieczystego na rzecz osoby trzeciej i prawo to zostało ujawnione w księdze wieczystej.
-
-**Art. 229a.** (utracił moc)
+**Art. 229.** Roszczenie, o którym mowa wart. 136 ust. 3, nie przed dniem w cie niniejszej ustawy sprzedana albo oddana w wieczyste osobie trzeciej, a prawa nabywcy ujawnione w wieczy stej.
 
 **Art. 230.**
 
-1. Osoby, które w dniu wejścia w życie ustawy były wpisane na listy wojewódzkie biegłych z zakresu szacowania nieruchomości, mają prawo szacowania nieruchomości przez 9 miesięcy od dnia wejścia w życie ustawy.
+1. Osoby, które w dniu w ustawy wpisane na listy wojewódzkie z zakresu szacowania prawo sza cowania przez 9 od dnia wej w ustawy.
 
-2. Osoby ustanowione i wpisane przed dniem wejścia w życie ustawy na listę biegłych sądowych z zakresu szacowania nieruchomości mogą prowadzić działalność bez uprawnień zawodowych, o których mowa w art. 174 ust. 1, przez 3 lata od dnia wejścia w życie ustawy. Przepis stosuje się odpowiednio do osób powoływanych przez sąd lub organ prowadzący postępowanie przygotowawcze w sprawach karnych w charakterze biegłego sądowego spoza listy biegłych sądowych.
+2. Osoby ustanowione i wpisane przed dniem wej w ustawy na z zakre su szacowania bez zawodowych, o których mowa wart. 174 ust. 1, przez 2 lata od dnia w ustawy. Przepis stosuje odpowiednio do osób po przez lub organ wanie przygotowawcze w sprawach karnych w charak terze spoza listy wych.
 
-3. Osoby z wykształceniem wyższym, legitymujące się świadectwem ukończenia, przed dniem wejścia w życie ustawy, kursu specjalistycznego z zakresu szacowania nieruchomości, mogą ubiegać się, z zastrzeżeniem ust. 4, o nadanie uprawnień zawodowych w zakresie szacowania nieruchomości, pod warunkiem ukończenia uzupełniającego kursu kwalifikacyjnego, którego program został uzgodniony z Prezesem Urzędu Mieszkalnictwa i Rozwoju Miast, oraz wykonania co najmniej 15 operatów szacunkowych, a także przejścia, z wynikiem pozytywnym, postępowania kwalifikacyjnego, o którym mowa w art. 191.
+3. Osoby z przed dniem w ustawy, kursu specjalistycznego z zakresu sza cowania z niem ust. 4, o nadanie zawodowych w za kresie szacowania pod warunkiem kursu kwalifikacyjnego, Dziennik Ustaw Nr 115 - 3583- Poz. 741 którego program uzgodniony z Prezesem du Mieszkalnictwa i Rozwoju Miast, oraz wykonania co najmniej 15 operatów szacunkowych.
 
-4. Osoby z wykształceniem średnim legitymujące się świadectwem, o którym mowa w ust. 3, mogą ubiegać się o nadanie uprawnień zawodowych w zakresie szacowania nieruchomości w ciągu 3 lat od dnia wejścia w życie ustawy, pod warunkiem ukończenia uzupełniającego kursu kwalifikacyjnego, którego program został uzgodniony z Prezesem Urzędu Mieszkalnictwa i Rozwoju Miast, wykonania co najmniej 15 operatów szacunkowych oraz przejścia z wynikiem pozytywnym postępowania kwalifikacyjnego, o którym mowa w art. 191.
+4. Osoby z o którym mowa w ust. 3, ubie o nadanie zawodowych w zakresie szacowania w 2 lat od dnia wej w ustawy, pod warunkiem uzu kursu kwalifikacyjnego, którego program uzgodniony z Prezesem Mieszkalnictwa i Rozwoju Miast, oraz wykonania co najmniej 15 ope ratów szacunkowych.
 
-**Art. 231.**
+**Art. 231.** Uprawnienia zawodowe w zakresie szaco wania nadane na podstawie ustawy z dnia 17 maja 1989 r. - Prawo geodezyjne i kartogra ficzne (Dz. U. Nr 30, poz. 163 i Nr 43, poz. 241, z 1990 r. Nr 34, poz. 198, z 1991 r. Nr 103, poz. 446, z 1996 r. Nr 106, poz. 496 i Nr 156, poz. 775 oraz z 1997 r. Nr 54, poz. 349), uznaje za uprawnienia zawodowe, o któ rych mowa wart. 174 i 191, z zachowaniem zakresu w nadania tych
 
-1. Uprawnienia zawodowe w zakresie szacowania nieruchomości, nadane po dniu 29 listopada 1991 r. na podstawie ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2023 r. poz. 1752, 1615, 1688 i 1762) uznaje się za uprawnienia zawodowe, o których mowa w art. 174 i art. 191.
+**Art. 232.**
 
-2. Osoby, które uzyskały uprawnienia wymienione w ust. 1 przed dniem 29 listopada 1991 r., zachowują prawo do szacowania nieruchomości w zakresie określonym w świadectwach nadania.
+1. Osoby, które w dniu w ustawy w obrocie przez okres:
 
-3. Do osób, o których mowa w ust. 2, stosuje się odpowiednio art. 175, 176, 178, 194, 195 i 195a.
+- **1)** do 2 lat - o zaliczenie tego okre su do praktyki zawodowej,
+- **2)** 2 lata - zwolnione z ku kursu kwalifikacyjnego i odbycia praktyki zawodowej,
+- **3)** 5 lat - zwolnione z ku kursu kwalifikacyjnego, odbycia praktyki zawodowej oraz egzaminu.
 
-4. Wobec osób, o których mowa w ust. 2, w stosunku do których orzeczone zostały, z tytułu odpowiedzialności zawodowej, kary dyscyplinarne, o których mowa w art. 178 ust. 2, wykonanie decyzji następuje przez organ prowadzący centralny rejestr osób posiadających uprawnienia zawodowe w dziedzinie geodezji i kartografii.
+2. o których mowa w ust. 1 pkt 2 i 3, do konuje Komisja Kwalifikacyjna na wniosek osoby o nadanie licencji zawodowej, przed 2 lat od dnia w niniejszej ustawy.
 
-**Art. 232.** (uchylony)
+3. Osoby, które w dniu w ustawy pro na podstawie przed tym dniem przepisów w zakresie w obrocie lub dzania bez posiadania licencji zawodowych przez 2 lata od dnia w niniejszej ustawy.
 
-**Art. 233.** Sprawy wszczęte, lecz niezakończone decyzją ostateczną przed dniem wejścia w życie niniejszej ustawy, prowadzi się na podstawie jej przepisów.
+4. po raz pierwszy po w ustawy Komisji Kwalifika cyjnej uprawnienia i licencje zawodowe na podstawie dokonanej przez Prezesa Mieszkal nictwa i Rozwoju Miast oceny ich dorobku zawodowe go w dziedzinie gospodarki
 
-#### Rozdział 2 Zmiany w przepisach obowiązujących
+**Art. 233.** Sprawy lecz nie de przed dniem w niniejszej ustawy, prowadzi na podstawie jej przepisów. 2 Zmiany w przepisach
 
-#### Rozdział 3 Przepisy końcowe
+**Art. 234.** W ustawie z dnia 23 kwietnia 1964 r. - Ko deks cywilny (Dz. U. Nr 16, poz. 93, z 1971 r. Nr 27, poz. 252, z 1976 r. Nr 19, poz. 122, z 1982 r. Nr 11, poz. 81, Nr 19, poz. 147 i Nr 30, poz. 210, z 1984 r. Nr 45, poz. 242, z 1985 r. Nr 22, poz. 99, z 1989 r. Nr 3, poz. 11, z 1990 r. Nr 34, poz. 198, Nr 55, poz. 321 i Nr 79, poz. 464, z 1991 r. Nr 107, poz. 464, Nr 115, poz. 496, z 1993 r. Nr 17, poz. 78, z 1994 r. Nr 27, poz. 96, Nr 85, poz. 388 i Nr 105, poz. 509 i z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 114, poz. 542, Nr 139, poz. 646 i Nr 149, poz. 703 oraz z 1997 r. Nr 43, poz. 242) wprowadza zmiany:
+
+**Art. 235.** W ustawie z dnia 15 lutego 1962 r. o ochro nie dóbr kultury (Dz. U. Nr 10, poz. 48, z 1983 r. Nr 38, poz. 173, z 1989 r. Nr 35, poz. 192, z 1990 r. Nr 34, poz. 198, Nr 56, poz. 322, z 1996 r. Nr 106, poz. 496 oraz z 1997 r. Nr 5, poz. 24 i Nr 88, poz. 554) art. 35.
+
+**Art. 236.** W ustawie z dnia 31 marca 1965 r. o szym szkolnictwie wojskowym (Dz. U. z 1992 r. Nr 10, poz. 40, z 1996 r. Nr 7, poz. 44 i z 1997 r. Nr 96, poz. 590) wprowadza zmiany:
+
+**Art. 237.** W ustawie z dnia 17 maja 1989 r. - Prawo geodezyjne i kartograficzne (Dz. U. Nr 30, poz. 163 i Nr 43, poz. 241, z 1990 r. Nr 34, poz. 198, z 1991 r. Dziennik Ustaw Nr 115 - 3584- Poz. 741 Nr 103, poz. 446, z 1996 r. Nr 106, poz. 496 i Nr 156, poz. 775 oraz z 1997 r. Nr 54, poz. 349) wprowadza zmiany:
+
+**Art. 238.** W ustawie z dnia 26 1995 r. o niektórych formach popierania budownictwa miesz kaniowego oraz o zmianie niektórych ustaw (Dz. U. Nr 133, poz. 654, z 1996 r. Nr 106, poz. 496 i Nr 156, poz. 775 oraz z 1997 r. Nr 80, poz. 507) wart. 33c w pkt 2 po wyrazie "urbanistyki" dodaje wyrazy "oraz licencje zawodowe w dziedzinie w obrocie nieru i
+
+**Art. 239.** W ustawie z dnia 8 sierpnia 1996 r. o dzie Ministra Skarbu (Dz. U. Nr 106, poz. 493 i Nr 156, poz. 775) wprowadza zmiany:
 
 **Art. 240.**
 
-1. Jeżeli obowiązujące przepisy powołują się na ustawy uchylone przepisem art. 241 albo odsyłają ogólnie do przepisów o gospodarce gruntami i wywłaszczaniu nieruchomości, stosuje się w tym zakresie odpowiednio przepisy niniejszej ustawy.
+1. przepisy na ustawy uchylone przepisem art. 241 albo odsy ogólnie do przepisów o gospodarce gruntami i wy stosuje w tym zakresie odpowiednio przepisy niniejszej ustawy.
 
-2. Ilekroć w przepisach odrębnych ustaw jest mowa o czynnościach wykonywanych przez biegłych lub inne osoby posiadające uprawnienia do szacowania nieruchomości, należy przez to rozumieć, że czynności te mogą wykonywać wyłącznie rzeczoznawcy majątkowi, o których mowa w niniejszej ustawie.
+2. w przepisach ustaw jest mowa o wykonywanych przez lub in ne osoby uprawnienia do szacowania nie przez to te rzeczoznawcy o których mowa w niniejszej ustawie.
 
 **Art. 241.** Tracą moc:
 
-**Art. 242.** Ustawa wchodzi w życie z dniem 1 stycznia 1998 r.
+**Art. 242.** Ustawa wchodzi w z dniem 1 stycz nia 1998 r. Prezydent Rzeczypospolitej Polskiej: A. o ISSN 0867-3411 Cena 3 20 gr
 

@@ -34,68 +34,98 @@ domain: null
 2) 129, który wchodzi życie dniem następującym po dniu ogłoszenia, mocą od 24 lutego r.;
 3) 111, 139 144, które wchodzą życie dniem następującym po dniu ogłoszenia;
 4) 84, który wchodzi życie dniem lipca r.;
-5) 113 pkt 4 lit. b pkt 5 140, które wchodzą życie po upływie 3 miesięcy od ogłoszenia;
+5) 113 pkt 4 lit. b pkt 5 140, które wchodzą życie po upływie miesięcy od ogłoszenia;
 6) 125 pkt 12, który wchodzi życie po upływie 6 miesięcy od ogłoszenia, mocą od lipca 2019 r.;
 7) 125 pkt 10, 17, 18 20, które wchodzą życie po upływie 6 miesięcy od ogłoszenia;
 8) 113 pkt 19 142 4, które wchodzą życie po upływie 36 miesięcy od ogłoszenia.”.
 Marszałek Sejmu: E. Witek
 USTAWA 7 lipca 2017 wykonywaniu zadań zakresu promocji polskiej gospodarki przez Polską Agencję Inwestycji Handlu Spółka Akcyjna
-1. Ustawa określa zasady wykonywania zadań zakresu promocji polskiej gospodarki przez Polską Agencję Inwestycji Handlu Spółka Akcyjna, zwaną dalej „Agencją”.
-2. Do zadań Agencji należy promocja polskiej gospodarki, tym:
-1) promocja eksportu polskich przedsiębiorców, szczególności małych średnich;
-2) promocja polskich branż;
-3) wspieranie napływu bezpośrednich inwestycji zagranicznych;
-4) wspieranie inwestycji polskich za granicą;
-5) wspieranie inwestycji polskich na terytorium Rzeczypospolitej Polskiej;
-6) dostarczanie przedsiębiorcom informacji ekonomiczno-handlowych na temat rynków zagranicznych inwestorom zagranicznym informacji na temat warunków uregulowań prawnych prowadzenia działalności gospodarczej na terytorium Rzeczypospolitej Polskiej, tym prowadzenie portalu informacyjnego;
-7) organizowanie przedsięwzięć informacyjnych promocyjnych na terytorium Rzeczypospolitej Polskiej poza jej granicami;
-8) działalność wydawnicza;
-9) podejmowanie działań służących zapobieganiu skutkom sytuacji kryzysowych rozumieniu 3 pkt 26 kwietnia 2007 zarządzaniu kryzysowym 261 583) lub łagodzeniu tych skutków, tym skutków rozprzestrzeniania się zakażeń wirusem SARS-CoV-2, powodującym chorobę zakaźną COVID-19.
-3. 1. Zadania Agencji, mowa 2, mogą być wykonywane przy pomocy zagranicznych biur handlowych, tworzonych prowadzonych przez Agencję formie prawnej organizacyjnej zależnej od uwarunkowań prawnych ekonomicznych miejsca ich utworzenia, tym spółek kapitałowych.
+
+**Art. 1.** Ustawa określa zasady wykonywania zadań zakresu promocji polskiej gospodarki przez Polską Agencję Inwestycji Handlu Spółka Akcyjna, zwaną dalej „Agencją”.
+
+**Art. 2.** Do zadań Agencji należy promocja polskiej gospodarki, tym:
+
+**Art. 3.**
+
+1. Zadania Agencji, mowa 2, mogą być wykonywane przy pomocy zagranicznych biur handlowych, tworzonych prowadzonych przez Agencję formie prawnej organizacyjnej zależnej od uwarunkowań prawnych ekonomicznych miejsca ich utworzenia, tym spółek kapitałowych.
+
 2. Finansowanie lub dofinansowanie wykonywania zadań Agencji części realizowanej przez zagraniczne biura handlowe może następować ze środków, mowa 6 pkt 2–4.
-3a. Agencja należy do systemu instytucji rozwoju, którym mowa 2 4 lipca 2019 systemie instytucji rozwoju 760 1079).
-4. 1. Minister właściwy do spraw gospodarki lub inny podmiot sektora finansów publicznych mogą powierzyć Agencji wykonywanie zadań zakresu administracji rządowej, wynikające szczególności dokumentów programów przyjętych przez Radę Ministrów lub właściwego ministra.
+
+**Art. 3a.** Agencja należy do systemu instytucji rozwoju, którym mowa 2 4 lipca 2019 systemie instytucji rozwoju 760 1079).
+
+**Art. 4.**
+
+1. Minister właściwy do spraw gospodarki lub inny podmiot sektora finansów publicznych mogą powierzyć Agencji wykonywanie zadań zakresu administracji rządowej, wynikające szczególności dokumentów programów przyjętych przez Radę Ministrów lub właściwego ministra.
+
 2. Powierzając zadania, podmioty, mowa 1, zapewniają Agencji odpowiednie środki finansowe na ich realizację.
-3. przypadku, którym mowa 1, określenie zadań Agencji następuje umowie. 150 27 sierpnia 2009 finansach publicznych 1634, 1692, 1725, 1747 1768) stosuje się odpowiednio.
-5. 1. zakresie promocji polskiej gospodarki Agencja może udzielać pomocy finansowej związanej programami finansowanymi budżetu Unii Europejskiej, mowa ustawie 11 lipca 2014 zasadach realizacji programów zakresie polityki spójności finansowanych perspektywie finansowej 2014–2020 2020 818) ustawie 28 kwietnia zasadach realizacji zadań finansowanych ze środków europejskich perspektywie finansowej 2021–2027 1079), innymi programami finansowanymi ze źródeł zagranicznych niepodlegających zwrotowi, do której zastosowanie znajdą szczegółowe warunki tryb właściwe dla udzielania tej pomocy.
-pomocy de minimis, dotyczącej promocji eksportu polskich przedsiębiorców, do której zastosowanie znajdą szczegółowe warunki tryb właściwe dla udzielania tej pomocy.
-6. 1. Agencja otrzymuje:
-1) dotację podmiotową budżetu państwa na dofinansowanie działalności bieżącej związanej realizacją zadań, mowa 2;
-2) dotacje celowe przeznaczone na:
-a) realizację zadań, mowa 2,
-b) finansowanie lub dofinansowanie kosztów realizacji inwestycji,
-c) współfinansowanie realizacji programów finansowanych udziałem środków europejskich;
-3) płatności budżetu środków europejskich przeznaczone na realizację projektów finansowanych udziałem środków europejskich, dla beneficjentem jest Agencja;
-4) środki pochodzące:
-a) ze źródeł zagranicznych niepodlegające zwrotowi,
-b) budżetu Unii Europejskiej.
+
+3. przypadku, którym mowa 1, określenie zadań Agencji następuje umowie. Art. 150 27 sierpnia 2009 finansach publicznych 1634, 1692, 1725, 1747 1768) stosuje się odpowiednio.
+
+**Art. 5.**
+
+1. zakresie promocji polskiej gospodarki Agencja może udzielać pomocy finansowej związanej programami finansowanymi budżetu Unii Europejskiej, mowa ustawie 11 lipca 2014 zasadach realizacji programów zakresie polityki spójności finansowanych perspektywie finansowej 2014–2020 2020 818) ustawie 28 kwietnia zasadach realizacji zadań finansowanych ze środków europejskich perspektywie finansowej 2021–2027 1079), innymi programami finansowanymi ze źródeł zagranicznych niepodlegających zwrotowi, do której zastosowanie znajdą szczegółowe warunki tryb właściwe dla udzielania tej pomocy. pomocy de minimis, dotyczącej promocji eksportu polskich przedsiębiorców, do której zastosowanie znajdą szczegółowe warunki tryb właściwe dla udzielania tej pomocy.
+
+**Art. 6.**
+
+1. Agencja otrzymuje:
+
+- **1)** dotację podmiotową budżetu państwa na dofinansowanie działalności bieżącej związanej realizacją zadań, mowa 2;
+- **2)** dotacje celowe przeznaczone na:
+    - **a)** realizację zadań, mowa 2,
+    - **b)** finansowanie lub dofinansowanie kosztów realizacji inwestycji,
+    - **c)** współfinansowanie realizacji programów finansowanych udziałem środków europejskich;
+
+- **3)** płatności budżetu środków europejskich przeznaczone na realizację projektów finansowanych udziałem środków europejskich, dla beneficjentem jest Agencja;
+- **4)** środki pochodzące:
+    - **a)** ze źródeł zagranicznych niepodlegające zwrotowi,
+    - **b)** budżetu Unii Europejskiej.
+
 2. Dotacja, której mowa pkt 1, nie może przewyższać koniecznych, rzeczywistych kosztów bezpośrednich pośrednich poniesionych przez Agencję na realizację zadań, mowa 2.
+
 3. Dotacje płatności, mowa pkt 1–3, nie mogą obejmować dofinansowania działalności gospodarczej Agencji.
-7. Zamówienia na potrzeby własne zagranicznych biur handlowych, mowa 3, Agencja może udzielić wolnej ręki, zgodnie przepisami 304 306 11 września 2019 Prawo zamówień publicznych 1710 1812), ile wartość zamówienia jest mniejsza niż progi unijne, mowa 3 tej ustawy.
-8. 1. Agencja prowadzi wyodrębnioną ewidencję dla działalności związanej realizacją zadań finansowanych ze środków, mowa 6 pkt 1–3, dla działalności finansowanej ze środków, mowa 6 pkt 4, dla działalności gospodarczej, tym obowiązana jest do prawidłowego przypisywania przychodów kosztów na podstawie metod mających obiektywne uzasadnienie.
+
+**Art. 7.** Zamówienia na potrzeby własne zagranicznych biur handlowych, mowa 3, Agencja może udzielić wolnej ręki, zgodnie przepisami 304 306 11 września 2019 Prawo zamówień publicznych 1710 1812), ile wartość zamówienia jest mniejsza niż progi unijne, mowa tej ustawy.
+
+**Art. 8.**
+
+1. Agencja prowadzi wyodrębnioną ewidencję dla działalności związanej realizacją zadań finansowanych ze środków, mowa 6 pkt 1–3, dla działalności finansowanej ze środków, mowa 6 pkt 4, dla działalności gospodarczej, tym obowiązana jest do prawidłowego przypisywania przychodów kosztów na podstawie metod mających obiektywne uzasadnienie.
+
 2. Zasady prowadzenia odrębnej ewidencji metody przypisywania przychodów kosztów zgodnie podziałem tych środków, którym mowa 1, Agencja określa dokumentacji, której mowa 10 29 września 1994 rachunkowości 2021 217, 2105 2106 1488).
-9. Łączna kwota dotacji celowych przyznanych kolejnych latach na dofinansowanie inwestycji realizowanej przez Agencję ze środków niepochodzących budżetu Unii Europejskiej może wynosić do 100% planowanej wartości kosztorysowej inwestycji.
-10. (pominięty)
-11. 1. terminie 36 miesięcy od wejścia życie minister właściwy do spraw gospodarki dokona likwidacji wydziałów promocji handlu inwestycji ambasad konsulatów Rzeczypospolitej Polskiej.
+
+**Art. 9.** Łączna kwota dotacji celowych przyznanych kolejnych latach na dofinansowanie inwestycji realizowanej przez Agencję ze środków niepochodzących budżetu Unii Europejskiej może wynosić do 100% planowanej wartości kosztorysowej inwestycji.
+
+**Art. 10.** (pominięty)
+
+**Art. 11.**
+
+1. terminie 36 miesięcy od wejścia życie minister właściwy do spraw gospodarki dokona likwidacji wydziałów promocji handlu inwestycji ambasad konsulatów Rzeczypospolitej Polskiej.
+
 2. Do likwidacji wydziałów, mowa 1, stosuje się 12 27 sierpnia 2009 finansach publicznych, tym że:
-1) nie stosuje się wymogu porozumienia Ministrem Finansów, którym mowa 12 3 27 sierpnia 2009 finansach publicznych;
-2) mienie znajdujące się zarządzie likwidowanego wydziału, tym środki zgromadzone na wydzielonym rachunku bankowym likwidowanego wydziału, mogą być przeznaczone dla Agencji;
-3) przekazanie mienia Agencji może wiązać się przejęciem przez Agencję należności zobowiązań tego wydziału;
-4) przypadku gdy mienie znajdujące się zarządzie likwidowanego wydziału nie będzie przeznaczone dla Agencji, decyzja przeznaczeniu tego mienia będzie podejmowana po zasięgnięciu opinii ministra właściwego do spraw zagranicznych.
-wynosi 435 000 000 zł, tym w:
-1) 2017 135 000 000 zł;
-2) 2018 0 zł;
-3) 2019 0 zł;
-4) 2020 0 zł;
-5) 2021 300 000 000 zł;
-6) 0 zł;
-7) 2023 0 zł;
-8) 2024 0 zł;
-9) 2025 0 zł;
-10) 2026 0 zł.
+
+- **1)** nie stosuje się wymogu porozumienia Ministrem Finansów, którym mowa 12 27 sierpnia 2009 finansach publicznych;
+- **2)** mienie znajdujące się zarządzie likwidowanego wydziału, tym środki zgromadzone na wydzielonym rachunku bankowym likwidowanego wydziału, mogą być przeznaczone dla Agencji;
+- **3)** przekazanie mienia Agencji może wiązać się przejęciem przez Agencję należności zobowiązań tego wydziału;
+- **4)** przypadku gdy mienie znajdujące się zarządzie likwidowanego wydziału nie będzie przeznaczone dla Agencji, decyzja przeznaczeniu tego mienia będzie podejmowana po zasięgnięciu opinii ministra właściwego do spraw zagranicznych. wynosi 435 000 000 zł, tym w:
+- **1)** 2017 135 000 000 zł;
+- **2)** 2018 0 zł;
+- **3)** 2019 0 zł;
+- **4)** 2020 0 zł;
+- **5)** 2021 300 000 000 zł;
+- **6)** 0 zł;
+- **7)** 2023 0 zł;
+- **8)** 2024 0 zł;
+- **9)** 2025 0 zł;
+- **10)** 2026 0 zł.
+
 2. przypadku przekroczenia lub zagrożenia przekroczenia przyjętego na dany rok budżetowy maksymalnego limitu wydatków, którym mowa 1, zostanie zastosowany mechanizm korygujący, polegający na obniżeniu kosztów działalności bieżącej Agencji przy jednoczesnym zapewnieniu nieprzerwanego procesu promocji polskiej gospodarki.
+
 3. Organem właściwym do monitorowania wykorzystania limitu wydatków, którym mowa 1, wdrożenia mechanizmu korygującego, którym mowa 2, jest minister właściwy do spraw gospodarki.
-12a. roku 2017 minister właściwy do spraw gospodarki przeznaczy środki wysokości 100 000 tys. zł na zakup objęcie akcji podwyższonym kapitale zakładowym Agencji, związku realizacją zadań wynikających ustawy.
-12b. roku 2021 minister właściwy do spraw gospodarki przeznaczy środki wysokości 300 000 tys. zł na zakup objęcie akcji podwyższonym kapitale zakładowym Agencji, związku realizacją zadań wynikających ustawy.
-13. Ustawa wchodzi życie po upływie 14 dni od ogłoszenia .
+
+**Art. 12a.** roku 2017 minister właściwy do spraw gospodarki przeznaczy środki wysokości 100 000 tys. zł na zakup objęcie akcji podwyższonym kapitale zakładowym Agencji, związku realizacją zadań wynikających ustawy.
+
+**Art. 12b.**
+
+- **4)** roku 2021 minister właściwy do spraw gospodarki przeznaczy środki wysokości 300 000 tys. zł na zakup objęcie akcji podwyższonym kapitale zakładowym Agencji, związku realizacją zadań wynikających ustawy.
+
+**Art. 13.** Ustawa wchodzi życie po upływie 14 dni od ogłoszenia .
 

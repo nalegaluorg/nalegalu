@@ -51,7 +51,7 @@ c) 5 dodaje się 5a brzmieniu: „5a. Zakończenie uczestnictwa klubie integracj
 4. Podmiot, 18 1, zobowiązany jest przypadku zaprzestania prowadzenia klubu integracji społecznej do zgłoszenia tego faktu wojewodzie, formie pisemnej, nie później niż terminie dni od daty zaprzestania prowadzenia klubu integracji społecznej.
 5. W przypadku stwierdzenia przez wojewodę zaprzestania prowadzenia klubu integracji społecznej lub dokonania zgłoszenia, 4, wojewoda wykreśla klub integracji społecznej rejestru.
 
-**Art. 18b.** W ojewoda przedstawia corocznie, nie później niż do kwietnia, ministrowi właściwemu do zabezpieczenia społecznego informację liczbie zarejestrowanych klubów integracji społecznej według stanu dzień 31 grudnia roku poprzedniego.
+**Art. 18b.** W ojewoda przedstawia corocznie, nie później niż do kwietnia, ministrowi właściwemu do spraw zabezpieczenia społecznego informację liczbie zarejestrowanych klubów integracji społecznej według stanu dzień 31 grudnia roku poprzedniego.
 
 **Art. 18c.** Rada Ministrów przedkłada Sejmowi Senatowi Rzeczypospolitej Polskiej okresach dwuletnich, najpóźniej do czerwca, informacje funkcjonowaniu centrów klubów integracji społecznej.”.
 

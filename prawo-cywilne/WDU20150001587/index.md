@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# Warszawa, dnia 12 października 2015 1587
+# Warszawa, 12 października 2015 1587
 
 | Pole | Wartość |
 |---|---|
@@ -24,13 +24,13 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001587) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1587/text.pdf) |
 
-USTAWA dnia 5 sierpnia 2015 zmianie państwowej kompensacie przysługującej ofiarom niektórych przestępstw, Kodeks postępowania cywilnego oraz kosztach sądowych sprawach cywilnych
+USTAWA 5 sierpnia 2015 o zmianie o państwowej kompensacie przysługującej ofiarom niektórych przestępstw, Kodeks postępowania cywilnego oraz o kosztach sądowych sprawach cywilnych
 
-**Art. 1.** W ustawie dnia 7 lipca 2005 państwowej kompensacie przysługującej ofiarom niektórych przestępstw Nr 169, 1415, 2008 Nr 96, 608 oraz 2009 Nr 79, 665) wprowadza następujące zmiany:
+**Art. 1.** W ustawie 7 lipca 2005 o państwowej kompensacie przysługującej ofiarom niektórych przestępstw (Dz. Nr 169, 1415, 2008 Nr 96, 608 oraz 2009 Nr 79, 665) wprowadza następujące zmiany:
 
-**Art. 3.** W ustawie dnia 28 lipca 2005 kosztach sądowych sprawach cywilnych 2014 1025, ) 96 ust. 1 pkt 12 kropkę zastępuje średnikiem i dodaje pkt 13 brzmieniu: „13) osoba ubiegająca uzyskanie kompensaty podstawie dnia 7 lipca 2005 państwowej kompensacie przysługującej ofiarom niektórych czynów zabronionych Nr 169, 1415, ).”.
+**Art. 3.** W ustawie 28 lipca 2005 o kosztach sądowych sprawach cywilnych (Dz. 2014 1025, ) art. 96 ust. 1 12 kropkę zastępuje średnikiem i dodaje 13 brzmieniu: „13) osoba ubiegająca o uzyskanie kompensaty podstawie 7 lipca 2005 o państwowej kompensacie przysługującej ofiarom niektórych czynów zabronionych (Dz. Nr 169, 1415, ).”.
 
-**Art. 4.** Do postępowań sprawach wniosków kompensatę złożonych trybie przepisów ustawy, której mowa 1, przed dniem wejścia życie niniejszej ustawy, a także sprawach wypłat oraz zwrotu przyznanych podstawie tych przepisów kompensat stosuje przepisy dotychczasowe.
+**Art. 4.** Do postępowań sprawach wniosków o kompensatę złożonych trybie przepisów ustawy, o której mowa art. 1, przed dniem wejścia życie niniejszej ustawy, a także sprawach wypłat oraz zwrotu przyznanych podstawie tych przepisów kompensat stosuje przepisy dotychczasowe.
 
-**Art. 5.** Ustawa wchodzi życie po upływie trzech miesięcy od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 5.** Ustawa wchodzi życie po upływie trzech miesięcy od ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
 

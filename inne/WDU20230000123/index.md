@@ -35,16 +35,16 @@ art. 2 27 listopada 2003 zmianie opłatach sprawach karnych poz. 2272), który s
 3. Do zażaleń na postanowienia wydane toku wykonawczego, wniesionych przed dniem wejścia życie niniejszej ustawy, stosuje się przepisy dotychczasowe.” „Art. 13. Ustawa wchodzi życie dniem 1 stycznia 2012 r.”;
 4) art. 27–29 art. 56 27 września 2013 zmianie Kodeks karnego oraz niektórych innych ustaw poz. 1247), które stanowią: „Art. 27. Przepisy ustaw wymienionych art. 1–26 niniejszej ustawy, brzmieniu nadanym niniejszą ustawą, stosuje się do spraw wszczętych przed dniem jej wejścia życie, jeżeli przepisy poniższe nie stanowią inaczej.
 28. Czynności procesowe dokonane przed dniem wejścia życie niniejszej są skuteczne, jeżeli dokonano ich zachowaniem przepisów dotychczasowych.
-29. razie wątpliwości, czy stosować prawo dotychczasowe, czy przepisy niniejszej ustawy, stosuje się niniejszą ustawę.” „Art. 56. Ustawa wchodzi życie dniem 1 lipca 2015 r., wyjątkiem:
-1) art. 1 pkt 18, pkt 19, pkt 38, pkt 63 zakresie art. 232a § 1, art. 1 pkt 104 zakresie art. 335, art. 1 pkt 112 lit. b pkt 204 lit. a, art. 2, art. 12 pkt 3, art. 50, art. 53 art. 54, które wchodzą życie po upływie 14 dni ogłoszenia;
-art. 1 pkt 45 lit. c zakresie art. 156 § 5 5a, art. 1 pkt 65 lit. b, pkt 79 lit. b, pkt 88 oraz pkt 204 lit. b, które wchodzą życie dniem 2 czerwca 2014 r.”;
+29. W razie wątpliwości, czy stosować prawo dotychczasowe, czy przepisy niniejszej ustawy, stosuje się niniejszą ustawę.” „Art. 56. Ustawa wchodzi życie dniem 1 lipca 2015 r., wyjątkiem:
+1) art. 1 18, 19, 38, 63 zakresie art. 232a § 1, art. 1 104 zakresie art. 335, art. 1 112 lit. b 204 lit. a, art. 2, art. 12 3, art. 50, art. 53 art. 54, które wchodzą życie po upływie 14 dni ogłoszenia;
+art. 1 45 lit. c zakresie art. 156 § 5 5a, art. 1 65 lit. b, 79 lit. b, 88 oraz 204 lit. b, które wchodzą życie dniem 2 czerwca 2014 r.”;
 5) art. 824 11 marca 2022 obronie Ojczyzny poz. 655), który stanowi: „Art. 824. Ustawa wchodzi życie po upływie 30 dni ogłoszenia, wyjątkiem:
 1) art. 288 ust. 2 art. 777 ust. 4, które wchodzą życie dniem następującym po dniu ogłoszenia;
-art. 439 ust. 1 pkt 4, który wchodzi życie dniem 1 stycznia 2023 r.”;
+art. 439 ust. 1 4, który wchodzi życie dniem 1 stycznia 2023 r.”;
 6) art. 33 7 lipca 2022 zmianie Kodeks karny oraz niektórych innych ustaw poz. 2600), który stanowi: „Art. 33. Ustawa wchodzi życie po upływie 3 miesięcy ogłoszenia, wyjątkiem:
-1) art. 1 pkt 14, 67 lit. c, pkt 68 lit. c oraz art. 9 pkt 11 12, które wchodzą życie po upływie roku ogłoszenia;
-art. 10 pkt 1–6, 12, 13 17, które wchodzą życie dniem 1 stycznia 2026 r.”.
-Marszałek Sejmu: E. Witek opłatach sprawach karnych sprawach karnych uiszcza się opłaty na rzecz Skarbu Państwa.
+1) art. 1 14, 67 lit. c, 68 lit. c oraz art. 9 11 12, które wchodzą życie po upływie roku ogłoszenia;
+art. 10 1–6, 12, 13 17, które wchodzą życie dniem 1 stycznia 2026 r.”.
+Marszałek Sejmu: E. Witek opłatach sprawach karnych W sprawach karnych uiszcza się opłaty na rzecz Skarbu Państwa.
 2. Skazany pierwszej instancji obowiązany jest uiścić opłatę razie skazania na karę pozbawienia wolności:
 1) do 3 miesięcy 60 zł;
 do 6 miesięcy 120 zł;
@@ -54,20 +54,20 @@ do 6 miesięcy 120 zł;
 6) do 15 lat albo 25 lat 600 zł.
 6) do 15 lat 600 zł;
 7) powyżej 15 lat 1000 zł.
-2. Przepisy ust. 1 pkt 1–4 stosuje się odpowiednio razie skazania na karę ograniczenia wolności.
+2. Przepisy ust. 1 1–4 stosuje się odpowiednio razie skazania na karę ograniczenia wolności.
 3. Skazany pierwszej instancji na karę grzywny obowiązany jest uiścić opłatę wysokości 10%, nie mniej jednak niż 30 zł, a razie orzeczenia grzywny obok kary pozbawienia wolności wysokości 20% kwoty wymierzonej grzywny.
-2. razie orzeczenia grzywny na podstawie art. 71 § 1 Kodeksu karnego skazany pierwszej instancji obowiązany jest uiścić opłatę wysokości 10% kwoty wymierzonej mu grzywny, nie mniej jednak niż 30 zł.
+2. W razie orzeczenia grzywny na podstawie art. 71 § 1 Kodeksu karnego skazany pierwszej instancji obowiązany jest uiścić opłatę wysokości 10% kwoty wymierzonej mu grzywny, nie mniej jednak niż 30 zł.
 4. (uchylony)
-5. wypadku gdy sąd odstąpił wymierzenia kary, odstąpił wymierzenia kary poprzestał na wymierzeniu środka karnego albo zamiast kary zastosował na podstawie art. 10 § 4 Kodeksu karnego środek wychowawczy albo poprawczy, oskarżony obowiązany jest uiścić opłatę wysokości 30 zł.
-6. razie orzeczenia kary łącznej opłatę wymierza się tej kary. Jeżeli kara łączna została orzeczona wyrokiem łącznym, odrębnej opłaty tej kary nie pobiera się.
-7. razie warunkowego umorzenia oskarżony obowiązany jest uiścić opłatę wysokości 60 zł do 100 zł.
-8. razie nieuwzględnienia apelacji wniesionej na korzyść oskarżonego, zwróconej przeciwko rozstrzygnięciu winie karze zasadniczej, sąd wymierza za postępowanie odwoławcze opłatę wysokości należnej za pierwszą instancję, przy czym opłatę wymierza się tej kary, przeciwko której była zwrócona apelacja oskarżonego.
+5. W wypadku gdy sąd odstąpił wymierzenia kary, odstąpił wymierzenia kary poprzestał na wymierzeniu środka karnego albo zamiast kary zastosował na podstawie art. 10 § 4 Kodeksu karnego środek wychowawczy albo poprawczy, oskarżony obowiązany jest uiścić opłatę wysokości 30 zł.
+6. W razie orzeczenia kary łącznej opłatę wymierza się tej kary. Jeżeli kara łączna została orzeczona wyrokiem łącznym, odrębnej opłaty tej kary nie pobiera się.
+7. W razie warunkowego umorzenia oskarżony obowiązany jest uiścić opłatę wysokości 60 zł do 100 zł.
+8. W razie nieuwzględnienia apelacji wniesionej na korzyść oskarżonego, zwróconej przeciwko rozstrzygnięciu winie karze zasadniczej, sąd wymierza za postępowanie odwoławcze opłatę wysokości należnej za pierwszą instancję, przy czym opłatę wymierza się tej kary, przeciwko której była zwrócona apelacja oskarżonego.
 11. Jeżeli apelacja oskarżonego nie jest zwrócona przeciwko rozstrzygnięciu winie albo karze zasadniczej, razie jej nieuwzględnienia, sąd wymierza za postępowanie odwoławcze opłatę wysokości 30 zł.
 12. Przepisy art. 8–11 stosuje się odpowiednio razie wniesienia środka odwoławczego orzeczenia warunkowym umorzeniu postępowania.
-13. sprawach oskarżenia publicznego, których wyłącznym oskarżycielem stał się oskarżyciel posiłkowy, oraz sprawach oskarżenia prywatnego, razie uniewinnienia oskarżonego sąd wymierza oskarżycielowi posiłkowemu albo prywatnemu opłatę wysokości 60 zł do 240 zł, jednakże jeżeli oskarżony nie został uniewinniony wszystkich zarzucanych czynów sąd może, biorąc pod uwagę ilość rodzaj zarzutów, których oskarżony został uniewinniony, wymierzyć opłatę niższą albo odstąpić jej wymierzenia. Opłaty nie wymierza się, jeżeli uniewinnienie nastąpiło przyczyn wymienionych art. 31 § 1 Kodeksu karnego.
-2. razie nieuwzględnienia środka odwoławczego wniesionego przez oskarżyciela posiłkowego albo prywatnego sąd wymierza za postępowanie odwoławcze opłatę wysokości 60 zł do 240 zł.
+13. W sprawach oskarżenia publicznego, których wyłącznym oskarżycielem stał się oskarżyciel posiłkowy, oraz sprawach oskarżenia prywatnego, razie uniewinnienia oskarżonego sąd wymierza oskarżycielowi posiłkowemu albo prywatnemu opłatę wysokości 60 zł do 240 zł, jednakże jeżeli oskarżony nie został uniewinniony wszystkich zarzucanych czynów sąd może, biorąc pod uwagę ilość rodzaj zarzutów, których oskarżony został uniewinniony, wymierzyć opłatę niższą albo odstąpić jej wymierzenia. Opłaty nie wymierza się, jeżeli uniewinnienie nastąpiło przyczyn wymienionych art. 31 § 1 Kodeksu karnego.
+2. W razie nieuwzględnienia środka odwoławczego wniesionego przez oskarżyciela posiłkowego albo prywatnego sąd wymierza za postępowanie odwoławcze opłatę wysokości 60 zł do 240 zł.
 14. Instytucje państwowe społeczne występujące charakterze oskarżyciela posiłkowego oskarżyciela prywatnego nie ponoszą opłat.
-15. sprawach karnych uiszcza się opłaty następujących wniosków próśb:
+15. W sprawach karnych uiszcza się opłaty następujących wniosków próśb:
 1) wniosku odroczenie wykonania kary pozbawienia wolności albo kary ograniczenia wolności 80 zł;
 wniosku udzielenie przerwy odbywaniu kary pozbawienia wolności albo kary aresztu 60 zł;
 3) wniosku warunkowe przedterminowe zwolnienie 45 zł;
@@ -78,11 +78,11 @@ wniosku udzielenie przerwy odbywaniu kary pozbawienia wolności albo kary areszt
 8) wniosku zatarcie skazania 45 zł;
 9) ponownej prośby ułaskawienie 45 zł;
 10) wniosku wznowienie 150 zł.
-2. Opłaty wymienione ust. 1 uiszcza się wraz ze złożeniem wniosku prośby. Do wniosku prośby dołącza się dowód wpłacenia opłaty do kasy sądowej. razie wznowienia opłata wniosku tym przedmiocie podlega zwrotowi.
+2. Opłaty wymienione ust. 1 uiszcza się wraz ze złożeniem wniosku prośby. Do wniosku prośby dołącza się dowód wpłacenia opłaty do kasy sądowej. W razie wznowienia opłata wniosku tym przedmiocie podlega zwrotowi.
 3. Organ wykonawczego dowódca jednostki wojskowej nie mają obowiązku uiszczania opłat wymienionych ust.
 17. Do zwolnienia opłat stosuje się odpowiednio przepisy zwolnieniu kosztów karnego.
 2. Zwolnienie opłat sąd stwierdza orzeczeniu kończącym postępowanie.
-3. Zwolnienie opłat, których mowa art. 15, następuje postanowieniu wydanym przed rozpoznaniem wniosku prośby.
+3. Zwolnienie opłat, których art. 15, następuje postanowieniu wydanym przed rozpoznaniem wniosku prośby.
 4. Przepisy art. 16 stosuje się odpowiednio.
 5. Nie pobiera się opłaty wypadku warunkowego umorzenia skazania żołnierza odbywającego zasadniczą służbę wojskową; dotyczy to również osoby spełniającej zastępczo obowiązek służby wojskowej.
 18. Na orzeczenie przedmiocie opłat przysługuje zażalenie, jeżeli nie wniesiono apelacji.

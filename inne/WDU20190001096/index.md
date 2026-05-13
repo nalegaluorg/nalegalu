@@ -30,9 +30,9 @@ USTAWA 16 maja 2019 zmianie refundacji leków, środków spożywczych specjalneg
 
 **Art. 3.** W ustawie 21 lutego 2019 zmianie świadczeniach opieki zdrowotnej finansowanych ze środków publicznych niektórych innych ustaw (Dz. U. poz. 399 999) wprowadza następujące zmiany:
 
-**Art. 4.** W okresie od 1 września 2019 do 31 grudnia 2019 świadczeniodawcy, porozumieniu Narodowym Funduszem Zdrowia, mogą wystawiać realizować wyroby naprawy zasadach określonych przepisami zmienianej 1, brzmieniu nadanym niniejszą ustawą.
+**Art. 4.** W okresie od 1 września 2019 31 grudnia 2019 świadczeniodawcy, porozumieniu Narodowym Funduszem Zdrowia, mogą wystawiać realizować wyroby medyczne naprawy zasadach określonych przepisami zmienianej 1, brzmieniu nadanym niniejszą ustawą.
 
-**Art. 5.** Dotychczasowe przepisy wykonawcze wydane podstawie 38 7 zmienianej 1 zachowują moc do wejścia życie przepisów wykonawczych wydanych podstawie 38 7 zmienianej 1, brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż do 31 grudnia 2019
+**Art. 5.** Dotychczasowe przepisy wykonawcze wydane podstawie 38 7 zmienianej 1 zachowują moc wejścia życie przepisów wykonawczych wydanych podstawie 38 7 zmienianej 1, brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż 31 grudnia 2019
 
 **Art. 6.** Ustawa wchodzi życie dniem 1 września 2019 r., wyjątkiem 2 3, które wchodzą życie dniem 30 czerwca 2019 Prezydent Rzeczypospolitej Polskiej: A. Duda
 

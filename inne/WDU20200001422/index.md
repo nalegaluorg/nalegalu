@@ -28,11 +28,11 @@ domain: null
 
 **Art. 1.**
 
-1. Ustawa określa zasady warunki przejmowania przez Skarb Państwa od zakładów ubezpieczeń ryzyka tytułu umów ubezpieczenia należności handlowych zakresie należności handlowych powstałych okresie od 1 kwietnia do 31 grudnia r., zwanych dalej „należnościami handlowymi”, celu przeciwdziałania skutkom gospodarczym wynikającym rozprzestrzeniania się zakażeń wirusem SARS-CoV-2, powodującym chorobę zakaźną, zwaną dalej „COVID-19”.
+1. Ustawa określa zasady i warunki przejmowania przez Skarb Państwa od zakładów ubezpieczeń ryzyka tytułu umów ubezpieczenia należności handlowych zakresie należności handlowych powstałych okresie od 1 kwietnia do 31 grudnia r., zwanych dalej „należnościami handlowymi”, celu przeciwdziałania skutkom gospodarczym wynikającym rozprzestrzeniania się zakażeń wirusem SARS-CoV-2, powodującym chorobę zakaźną, zwaną dalej „COVID-19”.
 
 2. Przejęcie ryzyka dotyczy należności handlowych:
 
-- **1)** stanowiących kwoty pieniężne należne przedsiębiorcy tytułu transakcji handlowej od kontrahenta mającego siedzibę lub miejsce sprawowania zarządu państwie ryzyku tymczasowo niezbywalnym, którym załączniku do komunikatu Komisji do państw członkowskich sprawie zastosowania 107 108 Traktatu funkcjonowaniu Unii Europejskiej do krótkoterminowego ubezpieczenia kredytów eksportowych (Dz. C 392 19.12.2012, 1, późn. zm. );
+- **1)** stanowiących kwoty pieniężne należne przedsiębiorcy tytułu transakcji handlowej od kontrahenta mającego siedzibę lub miejsce sprawowania zarządu państwie ryzyku tymczasowo niezbywalnym, którym załączniku do komunikatu Komisji do państw członkowskich sprawie zastosowania 107 i 108 Traktatu funkcjonowaniu Unii Europejskiej do krótkoterminowego ubezpieczenia kredytów eksportowych (Dz. C 392 19.12.2012, 1, późn. zm. );
 - **2)** potwierdzonych dokumentem księgowym wystawionym zgodnie obowiązującymi przepisami prawa lub prawomocnym wyrokiem sądu;
 - **3)** terminie płatności poniżej 2 lat.
 
@@ -52,7 +52,7 @@ domain: null
 - **1)** diagnozę gospodarczej sektorze ubezpieczeń należności handlowych oraz oczekiwane efekty ekonomiczno-finansowe realizacji Programu;
 - **2)** szczegółowe cele;
 - **3)** szczegółowe warunki realizacji wsparcia;
-- **4)** sposób sprawozdawania realizacji celów oraz monitorowania oceny stopnia ich realizacji;
+- **4)** sposób sprawozdawania realizacji celów oraz monitorowania i oceny stopnia ich realizacji;
 - **5)** kwotę środków przeznaczonych finansowanie Programu.
 
 3. Realizację Programu powierza się ministrowi właściwemu do spraw gospodarki.
@@ -65,20 +65,20 @@ domain: null
 
 3. Zobowiązanie Skarbu Państwa nie może przekroczyć kwoty stanowiącej równowartość 375% składki przypisanej brutto zakładu ubezpieczeń ubezpieczenia należności handlowych 2019
 
-4. Umowa jest techniką przenoszenia ryzyka, której 3 1 pkt 47 ustawy 11 września 2015 działalności ubezpieczeniowej reasekuracyjnej.
+4. Umowa jest techniką przenoszenia ryzyka, której 3 1 pkt 47 ustawy 11 września 2015 działalności ubezpieczeniowej i reasekuracyjnej.
 
 5. Umowa określa co najmniej:
 
 - **1)** kwotę równą 243,75% składki przypisanej brutto zakładu ubezpieczeń ubezpieczenia należności handlowych 2019 oraz wysokość zobowiązania Skarbu Państwa wyliczonego zgodnie 3;
 - **2)** szczegółowe warunki przejmowania ryzyka przez Skarb Państwa;
-- **3)** szczegółowe warunki dotyczące utrzymania, obniżenia anulowania przez zakład ubezpieczeń limitów ubezpieczeniowych stanowiących maksymalną wysokość należności handlowych podlegających ochronie ubezpieczeniowej podstawie umowy ubezpieczenia zawartej pomiędzy przedsiębiorcą a zakładem ubezpieczeń;
-- **4)** szczegółowy tryb przekazywania rozliczania środków, których 6;
-- **5)** zakres, formy terminy składania sprawozdań.
+- **3)** szczegółowe warunki dotyczące utrzymania, obniżenia i anulowania przez zakład ubezpieczeń limitów ubezpieczeniowych stanowiących maksymalną wysokość należności handlowych podlegających ochronie ubezpieczeniowej podstawie umowy ubezpieczenia zawartej pomiędzy przedsiębiorcą a zakładem ubezpieczeń;
+- **4)** szczegółowy tryb przekazywania i rozliczania środków, których 6;
+- **5)** zakres, formy i terminy składania sprawozdań.
 
 6. Umowa może zostać zawarta zakładem ubezpieczeń, który:
 
-- **1)** dniu zawarcia umowy nie znajduje się trudnej sytuacji, której 2 pkt 18 rozporządzenia Komisji (UE) nr 651/2014 17 czerwca 2014 uznającego niektóre rodzaje pomocy za zgodne rynkiem wewnętrznym zastosowaniu 107 108 Traktatu (Dz. L 187 26.06.2014, 1, późn. zm. ), zwanego dalej „rozporządzeniem 651/2014”, albo
-- **2)** dniu 31 grudnia 2019 nie znajdował się trudnej sytuacji, której 2 pkt 18 rozporządzenia 651/2014, pieczeniowej reasekuracyjnej.
+- **1)** dniu zawarcia umowy nie znajduje się trudnej sytuacji, której 2 pkt 18 rozporządzenia Komisji (UE) nr 651/2014 17 czerwca 2014 uznającego niektóre rodzaje pomocy za zgodne rynkiem wewnętrznym zastosowaniu 107 i 108 Traktatu (Dz. L 187 26.06.2014, 1, późn. zm. ), zwanego dalej „rozporządzeniem 651/2014”, albo
+- **2)** dniu 31 grudnia 2019 nie znajdował się trudnej sytuacji, której 2 pkt 18 rozporządzenia 651/2014, pieczeniowej i reasekuracyjnej.
 
 **Art. 5.** Beneficjentem pomocy publicznej jest zakład ubezpieczeń, którym zawierana jest umowa, której 4 1.
 
@@ -93,13 +93,13 @@ domain: null
 
 3. Środki, których 1, po potrąceniu przez zakład ubezpieczeń prowizji są wpłacane rachunek dochodów budżetu państwa.
 
-4. Środki pokrycie kosztów odszkodowań tytułu przejętego, zgodnie 4 1 2, przez Skarb Państwa ryzyka ubezpieczeniowego są przekazywane zakładom ubezpieczeń ze środków Funduszu Przeciwdziałania COVID-19, którym 65 1 ustawy 31 zmianie ustawy szczególnych rozwiązaniach związanych zapobieganiem, przeciwdziałaniem zwalczaniem COVID-19, chorób zakaźnych oraz wywołanych nimi kryzysowych oraz niektórych ustaw (Dz. U. 568, 695, 1086 1262), lub budżetu państwa.
+4. Środki pokrycie kosztów odszkodowań tytułu przejętego, zgodnie 4 1 i 2, przez Skarb Państwa ryzyka ubezpieczeniowego są przekazywane zakładom ubezpieczeń ze środków Funduszu Przeciwdziałania COVID-19, którym 65 1 ustawy 31 zmianie ustawy szczególnych rozwiązaniach związanych zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, chorób zakaźnych oraz wywołanych nimi kryzysowych oraz niektórych ustaw (Dz. U. poz. 568, 695, 1086 i 1262), lub budżetu państwa.
 
 **Art. 7.**
 
-1. Minister właściwy do spraw gospodarki monitoruje działalność zakładów ubezpieczeń zakresie realizacji umów, których 4 1, obowiązków, których 6.
+1. Minister właściwy do spraw gospodarki monitoruje działalność zakładów ubezpieczeń zakresie realizacji umów, których 4 1, i obowiązków, których 6.
 
-2. Minister właściwy do spraw gospodarki może zwrócić się do Komisji Nadzoru Finansowego wnioskiem opinię zakresie sposobu realizacji przepisów ustawy umów, których 4 1, przez zakłady ubezpieczeń.
+2. Minister właściwy do spraw gospodarki może zwrócić się do Komisji Nadzoru Finansowego wnioskiem opinię zakresie sposobu realizacji przepisów ustawy i umów, których 4 1, przez zakłady ubezpieczeń.
 
 3. We wniosku minister właściwy do spraw gospodarki przekazuje informacje niezbędne do wydania opinii.
 
@@ -107,7 +107,7 @@ domain: null
 
 5. Komisja Nadzoru Finansowego wydaje opinię nie później niż terminie 30 dni, licząc od zebrania niezbędnych informacji.
 
-**Art. 8.** Przekazanie środków, których 6 4, stanowi pomoc publiczną może być dokonane zgodnie postanowieniami zawartymi decyzji Komisji Europejskiej, wydanej wyniku notyfikacji, okresie obowiązywania tej decyzji.
+**Art. 8.** Przekazanie środków, których 6 4, stanowi pomoc publiczną i może być dokonane zgodnie postanowieniami zawartymi decyzji Komisji Europejskiej, wydanej wyniku notyfikacji, okresie obowiązywania tej decyzji.
 
-**Art. 9.** W ustawie 7 lipca 2017 wykonywaniu zadań zakresu promocji polskiej gospodarki przez Polską Agencję Inwestycji Handlu Spółka Akcyjna (Dz. U. 994) 2 pkt 8 kropkę zastępuje się średnikiem dodaje się pkt 9 brzmieniu: Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 9.** W ustawie 7 lipca 2017 wykonywaniu zadań zakresu promocji polskiej gospodarki przez Polską Agencję Inwestycji i Handlu Spółka Akcyjna (Dz. U. poz. 994) 2 pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 brzmieniu: Prezydent Rzeczypospolitej Polskiej: A. Duda
 

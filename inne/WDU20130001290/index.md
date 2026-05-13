@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# Warszawa, 6 listopada Poz.
+# Warszawa, 6 listopada
 
 | Pole | Wartość |
 |---|---|

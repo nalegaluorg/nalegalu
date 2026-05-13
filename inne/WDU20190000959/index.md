@@ -37,21 +37,21 @@ USTAWA dnia 26 kwietnia 2019 o zmianie ustawy Prawo farmaceutyczne niektórych i
 9. Organ zezwalający obciąża kontrolowanego kosztami udzielonej pomocy drodze decyzji.
 10. Minister właściwy do spraw wewnętrznych porozumieniu ministrem właściwym do spraw zdrowia określi, drodze rozporządzenia, sposób ustalania wysokości sposób tryb rozliczania kosztów udzielonej przez Policję Straż Graniczną pomocy umożliwieniu dokonania inspekcji kontroli organowi zezwalającemu osobie upoważnionej do dokonywania tej inspekcji kontroli, mając względzie rozmiar nakładów niezbędnych do udzielenia pomocy potrzebę ich sprawnego rozliczenia.
 37atb. Instytucje państwowe samorządowe są obowiązane zakresie swojego działania do współpracy organem zezwalającym przy wykonywaniu przez ten organ ustawowych zadań, szczególności do przekazania posiadanych dokumentów, danych informacji.”;
-4) po 78a 78b „Art. 78b. Zakazane zaopatrywanie produkty lecznicze przez hurtownię farmaceutyczną od podmiotów innych niż określone 78 pkt 1.”;
-5) 80 pkt 4 kropkę zastępuje średnikiem pkt 5 „5) gdy właściciel, wspólnik, współwłaściciel członek organu wnioskodawcy został prawomocnie skazany za przestępstwo, o którym mowa 126b 126c.”;
+4) po 78a 78b „Art. 78b. Zakazane zaopatrywanie produkty lecznicze przez hurtownię farmaceutyczną od podmiotów innych niż określone 78 1 pkt 1.”;
+5) 80 1 pkt 4 kropkę zastępuje średnikiem pkt 5 „5) gdy właściciel, wspólnik, współwłaściciel członek organu wnioskodawcy został prawomocnie skazany za przestępstwo, o którym mowa 126b 126c.”;
 6) 86a otrzymuje brzmienie: „Art. 86a. 1. Apteka ogólnodostępna punkt apteczny może zbyć, zasadach określonych ustawie ustawie dnia 12 maja 2011 o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego wyrobów medycznych, produkt leczniczy wyłącznie:
 1) celu bezpośredniego zaopatrywania ludności, tym nieodpłatnie pacjentowi wyłącznie potrzeby jego leczenia;
 2) celu zaopatrzenia podmiotu wykonującego podstawie zapotrzebowania, o którym mowa 96 1;
 3) nieodpłatnie, zasadach określonych 3 4;
-4) celu zaopatrzenia podmiotów innych niż wymienione pkt 2, niebędących podmiotami uprawnionymi do obrotu produktami leczniczymi, produkty lecznicze dopuszczone do obrotu sklepach ogólnodostępnych sklepach specjalistycznego zaopatrzenia medycznego, wymienione wykazie, o którym mowa przepisach wydanych podstawie 71 3 pkt 2.
-2. Apteka ogólnodostępna punkt apteczny niezwłocznie przekazują postaci papierowej za pośrednictwem środków komunikacji elektronicznej informację właściwemu miejscowo wojewódzkiemu inspektorowi farmaceutycznemu zawierającą dane o ilości nazwie produktów leczniczych przekazanych nieodpłatnie zgodnie pkt dane obejmujące numer PESEL, a przypadku jego braku imię nazwisko rodzaj, serię numer dokumentu potwierdzającego tożsamość pacjenta, któremu je przekazano.
+4) celu zaopatrzenia podmiotów innych niż wymienione pkt 1 2, niebędących podmiotami uprawnionymi do obrotu produktami leczniczymi, produkty lecznicze dopuszczone do obrotu sklepach ogólnodostępnych sklepach specjalistycznego zaopatrzenia medycznego, wymienione wykazie, o którym mowa przepisach wydanych podstawie 71 3 pkt 2.
+2. Apteka ogólnodostępna punkt apteczny niezwłocznie przekazują postaci papierowej za pośrednictwem środków komunikacji elektronicznej informację właściwemu miejscowo wojewódzkiemu inspektorowi farmaceutycznemu zawierającą dane o ilości nazwie produktów leczniczych przekazanych nieodpłatnie zgodnie 1 pkt 1 dane obejmujące numer PESEL, a przypadku jego braku imię nazwisko rodzaj, serię numer dokumentu potwierdzającego tożsamość pacjenta, któremu je przekazano.
 3. Apteka ogólnodostępna punkt apteczny może, za zgodą właściwego miejscowo wojewódzkiego inspektora farmaceutycznego, przekazać produkty lecznicze:
 4. Podmiot prowadzący aptekę ogólnodostępną punkt apteczny występują o wydanie zgody, o której mowa 3, nie później niż 7 dni przed planowanym przekazaniem. Zgody nie udziela się, jeżeli zachodzi podejrzenie, że produkt leczniczy zostanie wykorzystany celu innym niż deklarowany.
 5. Udzielenie albo odmowa udzielenia zgody, o której mowa 3, następuje formie postanowienia, które przysługuje zażalenie.”;
 7) 87:
 a) 5 otrzymuje brzmienie: „5. Zakazane nabywanie przez podmiot wykonujący produktu leczniczego albo środka spożywczego specjalnego przeznaczenia żywieniowego wyrobu medycznego objętych refundacją, innym celu niż udzielanie przez ten podmiot świadczenia opieki zdrowotnej terytorium Rzeczypospolitej Polskiej.”,
 b) po 5 5a „5a. Poza przypadkiem określonym 106 3 pkt 1, zakazane zbywanie przez podmiot wykonujący produktu leczniczego albo środka spożywczego specjalnego przeznaczenia żywieniowego wyrobu medycznego objętych refundacją.”,
-c) 6 otrzymuje brzmienie: „6. W przypadku uzasadnionego podejrzenia, że podmiot wykonujący naruszył zakaz określony 5 5a, organ Państwowej Inspekcji Farmaceutycznej informuje o tym właściwy organ prowadzący rejestr podmiotów wykonujących leczniczą, o którym mowa 106 ustawy dnia 15 kwietnia 2011 o działalności leczniczej.”;
+c) 6 otrzymuje brzmienie: „6. W przypadku uzasadnionego podejrzenia, że podmiot wykonujący naruszył zakaz określony 5 5a, organ Państwowej Inspekcji Farmaceutycznej informuje o tym właściwy organ prowadzący rejestr podmiotów wykonujących leczniczą, o którym mowa 106 1 ustawy dnia 15 kwietnia 2011 o działalności leczniczej.”;
 8) 101 pkt 6 kropkę zastępuje średnikiem pkt 7 „7) właściciel, wspólnik, współwłaściciel członek organu wnioskodawcy został prawomocnie skazany za przestępstwo, o którym mowa 126b 126c.”;
 9) 125 otrzymuje brzmienie: „Art. 125. 1. Kto bez wymaganego zezwolenia wykonuje gospodarczą zakresie wytwarzania importu produktu leczniczego, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności od 3 miesięcy do lat 5.
 2. Tej samej karze podlega, kto wykonuje gospodarczą zakresie:
@@ -59,13 +59,13 @@ c) 6 otrzymuje brzmienie: „6. W przypadku uzasadnionego podejrzenia, że podmi
 2) obrotu produktami leczniczymi bez wymaganego zezwolenia.”;
 10) 126b otrzymuje brzmienie: „Art. 126b. 1. Kto zbywa produkt leczniczy naruszeniem warunków określonych 86a 1–4 naruszeniem zakazu, o którym mowa 87 5a, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
 2. Tej samej karze podlega, kto nabywa produkt leczniczy naruszeniem zakazu, o którym mowa 78b 87 5.
-3. Tej samej karze podlega, kto nabywa zbywa, wywozi poza terytorium Rzeczypospolitej Polskiej, przewozi, przechowuje produkt leczniczy uzyskany za pomocą czynu, o którym mowa 2.
+3. Tej samej karze podlega, kto nabywa zbywa, wywozi poza terytorium Rzeczypospolitej Polskiej, przewozi, przechowuje produkt leczniczy uzyskany za pomocą czynu, o którym mowa 1 2.
 4. Jeżeli przedmiotem czynu, o którym mowa 1–3, mienie znacznej wartości, sprawca podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
 leczniczy, zawarty wykazie, o którym mowa 37av 14, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
 2. Kto bez zgłoszenia, o którym mowa 37av 1, wbrew sprzeciwowi, o którym mowa 37av 3, albo przed upływem terminu zgłoszenie tego sprzeciwu wywozi poza terytorium Rzeczypospolitej Polskiej zbywa podmiotowi prowadzącemu poza terytorium Rzeczypospolitej Polskiej, środek spożywczy specjalnego przeznaczenia żywieniowego wyrób medyczny, zawarte wykazie, o którym mowa 37av 14, podlega karze pozbawienia wolności do lat 2.”;
-12) 127 otrzymuje brzmienie: „1. Karze pieniężnej podlega ten, kto prowadzi zakresie prowadzenia hurtowni farmaceutycznej, apteki ogólnodostępnej punktu aptecznego wbrew warunkom wymaganego zezwolenia.”;
+12) 127 1 otrzymuje brzmienie: „1. Karze pieniężnej podlega ten, kto prowadzi zakresie prowadzenia hurtowni farmaceutycznej, apteki ogólnodostępnej punktu aptecznego wbrew warunkom wymaganego zezwolenia.”;
 13) 127b:
-a) uchyla pkt 1,
+a) 1 uchyla pkt 1,
 b) 2 uchyla pkt 1;
 14) 132 otrzymuje brzmienie: „Art. 132. Kto osobie upoważnionej do przeprowadzenia inspekcji albo kontroli działalności gospodarczej objętej zezwoleniem, zgodą wpisem do właściwego rejestru udaremnia utrudnia wykonywanie czynności służbowych, podlega grzywnie albo karze pozbawienia wolności do lat 3 albo obu tym karom łącznie.”;
 15) 133 otrzymuje brzmienie: „Art. 133. W przypadku skazania za przestępstwo określone 124, 124a, 126, 126b, 126c, 132a 132b, sąd orzeka przepadek przedmiotu przestępstwa, chociażby nie stanowił on własności sprawcy, może zarządzić jego zniszczenie.”.
@@ -73,7 +73,7 @@ b) 2 uchyla pkt 1;
 3. W ustawie dnia 20 lipca 2018 o zmianie ustawy o systemie informacji ochronie zdrowia niektórych innych ustaw (Dz. U. poz. 1515 2429) wprowadza następujące zmiany:
 1) 3 uchyla pkt 1;
 2) 12 uchyla pkt 3.
-4. Do kontroli, inspekcji postępowań administracyjnych wszczętych podstawie przepisów ustawy zmienianej niezakończonych do dnia wejścia życie niniejszej ustawy stosuje przepisy dotychczasowe.
+4. Do kontroli, inspekcji postępowań administracyjnych wszczętych podstawie przepisów ustawy zmienianej 1 niezakończonych do dnia wejścia życie niniejszej ustawy stosuje przepisy dotychczasowe.
 5. Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, wyjątkiem:
-1) pkt 2 3, które wchodzą życie po upływie trzech miesięcy od dnia ogłoszenia;
+1) 1 pkt 2 3, które wchodzą życie po upływie trzech miesięcy od dnia ogłoszenia;
 

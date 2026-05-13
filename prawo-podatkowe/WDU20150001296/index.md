@@ -26,9 +26,9 @@ domain: null
 
 USTAWA dnia 10 lipca 2015 zmianie ustawy podatku dochodowym od osób fizycznych oraz ustawy podatku dochodowym od osób prawnych
 
-**Art. 1.** W ustawie dnia 26 lipca 1991 podatku dochodowym od osób fizycznych (Dz. U. poz. 361, późn. zm. ) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie dnia 26 lipca 1991 podatku dochodowym od osób fizycznych (Dz. 2012 poz. 361, późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie dnia 15 lutego 1992 podatku dochodowym od osób prawnych (Dz. U. 2014 poz. 851, późn. zm. ) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie dnia 15 lutego 1992 podatku dochodowym od osób prawnych (Dz. 2014 poz. 851, późn. zm. ) wprowadza się następujące zmiany:
 
 **Art. 3.** Ustawa wchodzi życie dniem 1 stycznia 2016 Prezydent Rzeczypospolitej Polskiej: A. Duda
 

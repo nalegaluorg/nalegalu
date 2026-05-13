@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# Warszawa, 10 maja 2018
+# Warszawa, 10 maja 2018 Poz.
 
 | Pole | Wartość |
 |---|---|

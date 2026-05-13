@@ -2,10 +2,12 @@
 
 Akty prawne z dziedziny: **Prawo podatkowe**.
 
-Łącznie: **158** aktów
+Łącznie: **160** aktów
 
 | Akt | Tytuł | Typ | Status | Orzecznictwo |
 |-----|-------|-----|--------|:---:|
+| [WDU20260000622](WDU20260000622/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 22 kwietnia  | Obwieszczenie | obowiązujący |  |
+| [WDU20260000592](WDU20260000592/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 17 kwietnia  | Obwieszczenie | obowiązujący |  |
 | [WDU20260000554](WDU20260000554/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 27 marca 202 | Obwieszczenie | obowiązujący |  |
 | [WDU20260000424](WDU20260000424/index.md) | Ustawa z dnia 13 lutego 2026 r. o zmianie ustawy o podatku dochodowym od os | Ustawa | obowiązujący |  |
 | [WDU20250000896](WDU20250000896/index.md) | Ustawa z dnia 24 czerwca 2025 r. o zmianie ustawy o podatku od towarów i us | Ustawa | obowiązujący |  |
@@ -165,4 +167,4 @@ Akty prawne z dziedziny: **Prawo podatkowe**.
 | [WDU19920210086](WDU19920210086/index.md) | Ustawa z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych | Ustawa | akt posiada tekst jednolity | [tak](WDU19920210086/orzecznictwo.md) |
 | [WDU19910800350](WDU19910800350/index.md) | Ustawa z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych. | Ustawa | akt posiada tekst jednolity | [tak](WDU19910800350/orzecznictwo.md) |
 
-*158 aktów • [← Powrót do spisu głównego](../README.md)*
+*160 aktów • [← Powrót do spisu głównego](../README.md)*

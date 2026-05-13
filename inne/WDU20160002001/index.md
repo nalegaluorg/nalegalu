@@ -24,8 +24,8 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002001) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/2001/text.pdf) |
 
-USTAWA 30 listopada 2016 o zmianie o kierujących pojazdami ustaw
-1. W 5 stycznia 2011 o kierujących pojazdami (Dz. U. 2016 627, 904, 1241, 1579 i 1948) wprowadza si ę nast ę puj ą ce zmiany:
+USTAWA 30 listopada 2016 o o kierujących pojazdami niektórych innych ustaw
+1. ustawie 5 stycznia 2011 o kierujących pojazdami (Dz. U. 2016 627, 904, 1241, 1579 i 1948) wprowadza si ę nast ę puj ą ce zmiany:
 1) 46:
 a) 2 otrzymuje brzmienie: „2) niespełniania przez niego co najmniej jednego wymagań określonych 33 2–8;”,
 b) 2 2 otrzymuje brzmienie: „2) niespełniania przez niego co najmniej jednego wymagań określonych 33 6–8;”;
@@ -33,7 +33,7 @@ b) 2 2 otrzymuje brzmienie: „2) niespełniania przez niego co najmniej jednego
 3) 103 5 otrzymuje brzmienie: „5) kierowania pojazdem silnikowym przedłużonym okresie, o którym mowa 102 1d;”;
 4) 134 5 otrzymuje brzmienie: „5. Okres posiadania uprawnień do kierowania pojazdami, o którym mowa 33 2 lit. b i 3 58 2, dla osób, które uzyskały uprawnienia do kierowania pojazdami po dniu 3 r., liczy zakończenia okresu próbnego, o którym mowa 91 1.”;
 5) 135a otrzymuje brzmienie: „Art. 135a. Do 3 starosta wydaje decyzję, o której mowa 99 2 lit. a, 3 lit. a 5, na podstawie odpisu wyroku przesłanego przez sąd trybie 182 § 6 1997 Kodeks karny wykonawczy.”;
-6) 136 1–4 otrzymują brzmienie: „1. W stosunku do osób, które dopuściły naruszeń przepisów ruchu drogowego przed dniem 4 i naruszenia te skutkowały przekroczeniem liczby 24 punktów za naruszenia przepisów ruchu drogowego,
+6) 136 1–4 otrzymują brzmienie: „1. stosunku do osób, które dopuściły naruszeń przepisów ruchu drogowego przed dniem 4 i naruszenia te skutkowały przekroczeniem liczby 24 punktów za naruszenia przepisów ruchu drogowego,
 3. Przekaz informacji dotyczących naruszeń popełnionych przed dniem 4 następuje według stanu prawnego na dzień popełnienia naruszenia.
 4. Kopie wpisów dotyczących naruszeń popełnionych przed dniem 4 zgromadzonych przez Policję ewidencji kierowców naruszających przepisy ruchu drogowego, o której mowa 130 20 1997 Prawo o ruchu drogowym, przenosi do centralnej ewidencji kierowców.”;
 7) 138a otrzymuje brzmienie: „Art. 138a. Opłatę ewidencyjną, o której mowa 28 8 i 9, 31 3, 33 2 1, 38 2 1, 58 2 1, 77 2 1, 85 8, 87 3 1, 101 3 2 3, 109 1, 3 i 4, 110 i 117 3 1, pobiera 4 r.”;
@@ -41,8 +41,8 @@ b) 2 2 otrzymuje brzmienie: „2) niespełniania przez niego co najmniej jednego
 a) wprowadzenie do wyliczenia otrzymuje brzmienie: „Organy właściwe prowadzące ewidencje, o których mowa odpowiednio 33 9, 38 2, 58 10, 77 5, 87 2 4 i 117 2 8, przekazują do centralnej ewidencji kierowców dane, zgromadzone do 3 r., nast ę puj ą cym zakresie:”,
 b) 1a wprowadzenie do wyliczenia otrzymuje brzmienie: „Organy właściwe prowadzące ewidencje, o których mowa odpowiednio 30 1, 86 4 i 116 4, i rejestry działalności regulowanej, o których mowa odpowiednio 28 1, 85 i 114 1, przekazują do centralnej ewidencji kierowców dane, zgromadzone do 3 r., następującym zakresie:”;
 9) 139 3 otrzymuje brzmienie: „3) 13 lit. b, 43 2 4, 44 2 lit. b i 3 2, 67 2 2, 82 4 lit. c, 91–95, 98, 99 3 lit. c i 4, 2 lit. b 3, 100, 101, 102 2, 103 2 i 3 2, 105 i 2, 112 lit. b, 124 7, 125 10 lit. g zakresie 114 lit. b 20 1997 Prawo o ruchu drogowym, 13 16 zakresie 140 3, 3a i 4 lit. a 20 1997 Prawo o ruchu drogowym, 136 1–3, które wchodzą życie dniem 4 r.”.
-2. W 23 października 2013 o zmianie Prawo o ruchu drogowym innych ustaw (Dz. U. 1446, 2014 486 i 1589 1273 i 2183) 7 otrzymuje brzmienie: „Art. 7. Opłatę ewidencyjną, o której mowa 8 4 i 5 zmienianej 1, pobiera 4 r.”.
-3. W 26 2014 o zmianie o kierujących pojazdami (Dz. U. 970
+2. ustawie 23 października 2013 o Prawo o ruchu drogowym niektórych innych ustaw (Dz. U. 1446, 2014 486 i 1589 1273 i 2183) 7 otrzymuje brzmienie: „Art. 7. Opłatę ewidencyjną, o której mowa 8 4 i 5 zmienianej 1, pobiera 4 r.”.
+3. ustawie 26 2014 o o kierujących pojazdami (Dz. U. 970
 2183) 12 otrzymuje brzmienie: „Art. 12. 1. Do 3 osoba skierowana na badanie, o którym mowa 99 2 lub 3 lit. a, b i d zmienianej 1, jest obowiązana do:
 1) poddania badaniu terminie miesiąca doręczenia decyzji o skierowaniu;
 2) przedstawienia staroście odpowiedniego orzeczenia lekarskiego lub orzeczenia psychologicznego terminie 3 miesięcy doręczenia decyzji o skierowaniu.
@@ -52,8 +52,8 @@ b) 1–3 otrzymują brzmienie: „1) podmiot, który ujawnił popełnienie narus
 3) organ kontroli ruchu drogowego, który stwierdził kierowanie pojazdem silnikowym okolicznościach, o których mowa 102 1d albo 103 5 wymienionej 5, niezwłocznie powiadamia o tym starostę właściwego ze względu na miejsce zamieszkania kierującego pojazdem;”;
 2) 8 i 9 otrzymują brzmienie: „Art. 8. Przepis 135 lit. h ustawy, o której mowa 4, traci moc dniem 4
 9. Ustawa wchodzi życie po upływie 30 dni ogłoszenia, wyjątkiem 5 7 lit. b, zakresie dotyczącym 102 1b wymienionej 5, który wchodzi życie dniem 4 r.”.
-5. W 24 lipca o zmianie Prawo o ruchu drogowym ustaw (Dz. U. 1273, 2183 i 2281 2016 352) wprowadza następujące zmiany:
-1) 17, 100aa 3 otrzymuje brzmienie: „3. W ewidencji gromadzi także dane zgromadzone do 3 przez organy właściwe sprawach wydawania uprawnień do kierowania pojazdami związku tworzeniem profilu kandydata na kierowcę.”;
+5. ustawie 24 lipca o Prawo o ruchu drogowym niektórych innych ustaw (Dz. U. 1273, 2183 i 2281 2016 352) wprowadza następujące zmiany:
+1) 17, 100aa 3 otrzymuje brzmienie: „3. ewidencji gromadzi także dane zgromadzone do 3 przez organy właściwe sprawach wydawania uprawnień do kierowania pojazdami związku tworzeniem profilu kandydata na kierowcę.”;
 2) 11 otrzymuje brzmienie: „Art. 11. 1. Zakłady ubezpieczeń przekazują do centralnej ewidencji pojazdów dane i informacje zgromadzone do 3 zakresie, o którym mowa 80b 6 i 11 zmienianej brzmieniu nadanym niniejszą ustawą.
 2. Organy właściwe sprawach wydawania uprawnień do kierowania pojazdami przekazują do centralnej ewidencji kierowców dane i informacje zgromadzone do 3 zakresie wynikającym utworzenia profilu kandydata na kierowcę, według stanu prawnego na dzień 3
 3. Organy rejestrujące organy właściwe sprawach wydawania uprawnień do kierowania pojazdami przekazują odpowiednio do centralnej ewidencji pojazdów i centralnej ewidencji kierowców dane i informacje zgromadzone do 3 r., a nieprzekazane do ewidencji, według stanu prawnego na dzień 3

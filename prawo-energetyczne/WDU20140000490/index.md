@@ -46,16 +46,16 @@ domain: null
 - **2)** dla jednostki kogeneracji, której 9l 1 1a ustawy zmienianej 1, na poziomie:
     - **a)** 0,9% 2013 r.,
     - **b)** 1,1% 2014 r.,
-    - **c)** 1,3% 2015 r., gospodarczą zakresie wytwarzania lub obrotu tą energią i sprzedające tę energię odbiorcom końcowym;
+    - **c)** 1,3% 2015 r., gospodarczą zakresie wytwarzania elektrycznej lub obrotu tą energią i sprzedające tę energię odbiorcom końcowym;
 
-- **3)** dokonanego zakupu na giełdzie towarowej lub na rynku organizowanym przez podmiot prowadzący na terytorium Rzeczypospolitej Polskiej rynek regulowany transakcjach zawieranych we własnym imieniu przez odbiorców końcowych, 9a 1a 3 ustawy zmienianej 1;
-- **4)** dokonanego zakupu przez towarowy dom maklerski, lub dom maklerski, 2 8 i 9 ustawy z dnia 26 października 2000 r. giełdach towarowych (Dz. U. z 2014 r. poz. 197), odniesieniu do transakcji realizowanych na zlecenie odbiorców końcowych, innych niż odbiorcy przemysłowi, 9a 1a 1 ustawy zmienianej 1.
+- **3)** dokonanego zakupu elektrycznej na giełdzie towarowej lub na rynku organizowanym przez podmiot prowadzący na terytorium Rzeczypospolitej Polskiej rynek regulowany transakcjach zawieranych we własnym imieniu przez odbiorców końcowych, 9a 1a 3 ustawy zmienianej 1;
+- **4)** dokonanego zakupu elektrycznej przez towarowy dom maklerski, lub dom maklerski, 2 8 i 9 ustawy z dnia 26 października 2000 r. giełdach towarowych (Dz. U. z 2014 r. poz. 197), odniesieniu do transakcji realizowanych na zlecenie odbiorców końcowych, innych niż odbiorcy przemysłowi, 9a 1a 1 ustawy zmienianej 1.
 
 **Art. 5.**
 
 1. Przepisy dotyczące obowiązku, którym 9a 8 ustawy zmienianej 1, stosuje się do dnia 30 czerwca 2019 r.
 
-2. Świadectw pochodzenia z kogeneracji wydanych dla wytworzonej przed dniem wejścia życie niniejszej ustawy, wysokosprawnej kogeneracji jednostkach kogeneracji, 9l 1 1 i 2 ustawy zmienianej 1, nie uwzględnia się przy rozliczeniu wykonania obowiązku, którym 9a 8 ustawy zmienianej 1.
+2. Świadectw pochodzenia z kogeneracji wydanych dla elektrycznej wytworzonej przed dniem wejścia życie niniejszej ustawy, wysokosprawnej kogeneracji jednostkach kogeneracji, 9l 1 1 i 2 ustawy zmienianej 1, nie uwzględnia się przy rozliczeniu wykonania obowiązku, którym 9a 8 ustawy zmienianej 1.
 
 3. Przy ustalaniu zakresu obowiązku, którym 4 1 1 i 3, za 2014 r. nie uwzględnia się elektrycznej, której 4 2, zakupionej lub sprzedanej przed dniem wejścia życie niniejszej ustawy.
 

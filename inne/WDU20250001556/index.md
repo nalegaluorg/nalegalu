@@ -42,7 +42,7 @@ domain: null
 
 **Art. 7.** W ustawie dnia 27 kwietnia 2006 spółdzielniach socjalnych (Dz. U. 2025 poz. 178 620) art. 6 3 skreśla wyrazy „oraz nie uiszcza opłaty za ogłoszenie tych wpisów Monitorze Sądowym Gospodarczym”.
 
-**Art. 8.** W ustawie dnia 22 lipca 2006 spółdzielni europejskiej (Dz. U. 2018 poz. 2043) art. 5 brzmienie: „Art. 5. Centralna Informacja Krajowego Rejestru Sądowego przekazuje dane, które zgodnie art. 13 rozporządzenia podlegają ogłoszeniu Dzienniku Urzędowym Unii Europejskiej, Urzędu Oficjalnych Publikacji Unii Europejskiej terminie miesiąca od dnia ich wpisu rejestru.”.
+**Art. 8.** W ustawie dnia 22 lipca 2006 spółdzielni europejskiej (Dz. U. 2018 poz. 2043) art. 5 otrzymuje „Art. 5. Centralna Informacja Krajowego Rejestru Sądowego przekazuje dane, które zgodnie art. 13 rozporządzenia podlegają ogłoszeniu Dzienniku Urzędowym Unii Europejskiej, Urzędu Oficjalnych Publikacji Unii Europejskiej terminie miesiąca od dnia ich wpisu rejestru.”.
 
 **Art. 9.** W przypadku rozbieżności między wpisem Krajowego Rejestru Sądowego a ogłoszeniem Monitorze Sądowym Gospodarczym opublikowanym przed dniem wejścia życie niniejszej ustawy, obowiązuje wpis Krajowym Rejestrze Sądowym. Osoba trzecia może powoływać na treść ogłoszenia, chyba że podmiot wpisany Krajowego Rejestru Sądowego udowodni, że osoba trzecia wiedziała treści wpisu. Prezydent Rzeczypospolitej Polskiej: K. Nawrocki
 

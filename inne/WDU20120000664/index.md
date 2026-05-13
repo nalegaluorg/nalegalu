@@ -115,13 +115,13 @@ USTAWA dnia 11 maja 2012 o zmianie ustawy o zaopatrzeniu emerytalnym żołnierzy
 1. Funkcjonariusz, który dniu zwolnienia ze służby osiągnął staż służby 25 lat, ale nie osiągnął wieku 55 lat życia, nabywa prawo do emerytury dniu osiągnięcia tego wieku, przypadku gdy zwolnienie ze służby nastąpiło przyczyn określonych w:
 
 - **1)** art. 41 1 pkt 1 2 pkt 6 ustawy dnia 6 kwietnia 1990 o Policji (Dz. 2011 287, 1687, 217, 1280 230, 1371 2012 627);
-- **2)** art. 54 3, art. 57 4 związku 2 pkt 4 art. 60 1 pkt 1 2 pkt 6 ustawy dnia 24 maja 2002 o Agencji Bezpieczeństwa Wewnętrznego Agencji Wywiadu (Dz. 29, 154, późn. zm. );
+- **2)** art. 54 3, art. 57 4 związku 2 pkt 4 art. 60 1 pkt 1 2 pkt 6 ustawy dnia 24 maja 2002 o Agencji Bezpieczeństwa Wewnętrznego Agencji Wywiadu (Dz. 2010 29, 154, późn. zm. );
 - **3)** art. 13 3, art. 16 4 związku 2 pkt 4 art. 19 1 pkt 1 2 pkt 7 ustawy dnia 9 czerwca 2006 o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego Służby Wywiadu Wojskowego (Dz. 104, 710, późn. zm. );
 - **4)** art. 58 3, art. 61 4 związku 2 pkt 4 art. 64 1 pkt 1 ustawy dnia 9 czerwca 2006 o Centralnym Biurze Antykorupcyjnym (Dz. 2012 621 627);
 - **5)** art. 45 1 pkt 1 2 pkt 7 ustawy dnia 12 października 1990 o Straży Granicznej (Dz. 2011 116, 675, późn. zm. );
 - **6)** art. 35 1 pkt 1 9 2 pkt 5 ustawy dnia 16 marca 2001 o Biurze Ochrony Rządu (Dz. 2004 163, 1712, późn. zm. );
 - **7)** art. 43 2 pkt 1 3 pkt 4 ustawy dnia 24 sierpnia 1991 o Państwowej Straży Pożarnej (Dz. 2009 12, 68, późn. zm. );
-- **8)** art. 96 2 pkt 3 4 art. 97 1 pkt 1 ustawy dnia 9 kwietnia o Służbie Więziennej (Dz. 79, 523, późn. zm. ).
+- **8)** art. 96 2 pkt 3 4 art. 97 1 pkt 1 ustawy dnia 9 kwietnia 2010 o Służbie Więziennej (Dz. 79, 523, późn. zm. ).
 
 3. Przepisu 2 nie stosuje się, jeżeli funkcjonariusz wystąpił wnioskiem o zaliczenie okresów służby jako okresów składkowych albo jeżeli śmierć funkcjonariusza nastąpiła przed dniem nabycia prawa do emerytury.
 
@@ -176,7 +176,7 @@ USTAWA dnia 11 maja 2012 o zmianie ustawy o zaopatrzeniu emerytalnym żołnierzy
 
 **Art. 8.** W ustawie dnia 9 czerwca 2006 o Centralnym Biurze Antykorupcyjnym (Dz. 2012 621
 
-**Art. 9.** W ustawie dnia 9 kwietnia o Służbie Więziennej (Dz. 79, 523, późn. zm. ) wprowadza się następujące zmiany:
+**Art. 9.** W ustawie dnia 9 kwietnia 2010 o Służbie Więziennej (Dz. 79, 523, późn. zm. ) wprowadza się następujące zmiany:
 
 **Art. 10.** Funkcjonariuszom Straży Granicznej służby stałej, których emerytura policyjna jest ustalana na podstawie przepisów działu II rozdziału 1 ustawy dnia 18 lutego 1994 o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej Służby Więziennej ich rodzin, okresy służby, o których mowa art. 74 2 ustawy dnia 12 października 1990 o Straży Granicznej, brzmieniu obowiązującym do dnia 31 grudnia 2012 r., pełnionej do dnia 31 grudnia 2012 zalicza się do wysługi emerytalnej za jeden rok służby półtora roku służby.
 

@@ -23,7 +23,7 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2011-01-05 |
 | Data wydania | 2011-02-10 |
-| Ostatnia zmiana | 2026-04-07 |
+| Ostatnia zmiana | 2026-05-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110300151) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/151/text.pdf) |
 
 2. Przepis ust. 1 pkt 2 stosuje się także wobec osoby ubiegającej się o uzyskanie uprawnień w zakresie prawa jazdy kategorii:

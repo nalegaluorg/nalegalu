@@ -26,7 +26,7 @@ domain: null
 
 USTAWA dnia 21 listopada o zmianie o podatku od wydobycia niektórych kopalin niektórych innych ustaw
 
-**Art. 1.** ustawie dnia 2 marca 2012 o podatku od wydobycia niektórych kopalin (Dz. 2022 1539) wprowadza się następujące zmiany:
+**Art. 1.** ustawie dnia 2 marca 2012 o podatku od wydobycia niektórych kopalin (Dz. U. 2022 poz. 1539) wprowadza się następujące zmiany:
 
 **Art. 10c.**
 
@@ -55,7 +55,7 @@ USTAWA dnia 21 listopada o zmianie o podatku od wydobycia niektórych kopalin ni
 
 11. Informację, o której mowa ust. 9, składa się za pomocą środków komunikacji elektronicznej.
 
-12. Pełnomocnictwo podpisywania deklaracji składanej za pomocą środków komunikacji elektronicznej udzielone na podstawie przepisów działu III rozdziału 9a dnia 29 sierpnia 1997 Ordynacja podatkowa (Dz. 111, późn. zm. ) obejmuje również upoważnienie podpisywania informacji, o której mowa ust. 9.
+12. Pełnomocnictwo podpisywania deklaracji składanej za pomocą środków komunikacji elektronicznej udzielone na podstawie przepisów działu III rozdziału 9a dnia 29 sierpnia 1997 Ordynacja podatkowa (Dz. U. poz. 111, późn. zm. ) obejmuje również upoważnienie podpisywania informacji, o której mowa ust. 9.
 
 13. Do korekty informacji, o której mowa ust. 9, stosuje się odpowiednio przepisy działu III rozdziału 10 dnia 29 sierpnia 1997 Ordynacja podatkowa.
 
@@ -89,9 +89,9 @@ USTAWA dnia 21 listopada o zmianie o podatku od wydobycia niektórych kopalin ni
 
 - **11)** dodaje się załącznik brzmieniu określonym załączniku niniejszej ustawy.
 
-**Art. 2.** ustawie dnia 26 lipca 1991 o podatku dochodowym od osób fizycznych (Dz. 163, późn. zm. ) art. 23 dodaje się ust. 11 brzmieniu: „11. Przepisu ust. 1 pkt 45 nie stosuje się wydatków dotyczących kwalifikowanych nakładów inwestycyjnych rozumieniu dnia 2 marca 2012 o podatku od wydobycia niektórych kopalin (Dz. 2022 1539
+**Art. 2.** ustawie dnia 26 lipca 1991 o podatku dochodowym od osób fizycznych (Dz. U. poz. 163, późn. zm. ) art. 23 dodaje się ust. 11 brzmieniu: „11. Przepisu ust. 1 pkt 45 nie stosuje się wydatków dotyczących kwalifikowanych nakładów inwestycyjnych rozumieniu dnia 2 marca 2012 o podatku od wydobycia niektórych kopalin (Dz. U. 2022 poz. 1539 poz. 1804), wysokości dokonanego odliczenia, o którym mowa art. 10b ust. 1 tej ustawy.”. zm. ) art. 16 dodaje się ust. 10 brzmieniu: „10. Przepisu ust. 1 pkt 48 nie stosuje się wydatków dotyczących kwalifikowanych nakładów inwestycyjnych rozumieniu dnia 2 marca 2012 o podatku od wydobycia niektórych kopalin (Dz. U. 2022 poz. 1539 poz. 1804), wysokości dokonanego odliczenia, o którym mowa art. 10b ust. 1 tej ustawy.”.
 
-**Art. 4.** ustawie dnia 29 sierpnia 1997 Ordynacja podatkowa (Dz. 111, późn. zm. ) art. 272 pkt 7 kropkę zastępuje się średnikiem dodaje się pkt 8 brzmieniu: „8) sprawdzenie terminowości składania informacji o wysokości kwalifikowanych nakładów inwestycyjnych zgodnie przepisami dnia 2 marca 2012 o podatku od wydobycia niektórych kopalin (Dz. 2022 1539 1804), stwierdzenie formalnej poprawności tych informacji weryfikację danych nich zawartych.”.
+**Art. 4.** ustawie dnia 29 sierpnia 1997 Ordynacja podatkowa (Dz. U. poz. 111, późn. zm. ) art. 272 pkt 7 kropkę zastępuje się średnikiem dodaje się pkt 8 brzmieniu: „8) sprawdzenie terminowości składania informacji o wysokości kwalifikowanych nakładów inwestycyjnych zgodnie przepisami dnia 2 marca 2012 o podatku od wydobycia niektórych kopalin (Dz. U. 2022 poz. 1539 poz. 1804), stwierdzenie formalnej poprawności tych informacji weryfikację danych nich zawartych.”.
 
 **Art. 5.**
 

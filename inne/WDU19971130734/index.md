@@ -32,9 +32,9 @@ domain: null
 
 1. wniosków zawartych pokontrolnych roz kolegia izb.
 
-2. Kolegium lub Przed ciem sprawy przeprowadzenie dodatkowych czyn kontrolnych.
+2. Kolegium lub Przed ciem sprawy kolegium przeprowadzenie dodatkowych czyn kontrolnych.
 
-3. sprawach odwo ,,3a. Nieetatowi otrzy stosowny dzeniem, o którym mowa 6. Do nie etatowych stosuje odpowiednio przepisy art. 25 1-3 ustawy o terytorialnym, tym stosunku pracy izby.",
+3. kolegium sprawach odwo ,,3a. Nieetatowi kolegium otrzy stosowny dzeniem, o którym mowa 6. Do nie etatowych kolegium stosuje odpowiednio przepisy art. 25 1-3 ustawy o terytorialnym, tym stosunku pracy kolegium izby.",
 
 - **c)** 4 5;
 - **22)** 27 wyrazy "do 5000000

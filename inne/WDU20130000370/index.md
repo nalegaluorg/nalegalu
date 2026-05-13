@@ -47,7 +47,7 @@ Nr 121, poz. 770), który stanowi: „Art. 99. Ustawa wchodzi stycznia 2001 r., 
 6) 2 dnia 4 marca 1999 zmianie dopłatach niektórych kredytów bankowych (Dz. U. Nr 27, poz. 243), który stanowi: „Art. 2. Ustawa wchodzi ogłoszenia mocą od dnia stycznia 1999 r.”;
 7) 2 dnia 23 lipca 1999 zmianie dopłatach niektórych kredytów bankowych (Dz. U. Nr 63, poz. 702), który stanowi: „Art. 2. Ustawa wchodzi ogłoszenia.”;
 8) 10 12 dnia 8 grudnia 2000 zmianie postępowaniu egzekucyjnym administracji, ustawy podatkach opłatach lokalnych, dopłatach niektórych kredytów bankowych, Prawo publicznym obrocie papierami wartościowymi, Ordynacja podatkowa, finansach publicznych, podatku dochodowym od osób prawnych oraz komercjalizacji prywatyzacji przedsiębiorstw państwowych związku dostosowaniem prawa Unii Europejskiej (Dz. U. Nr 122, poz. 1315 oraz 2004 Nr 64, poz. 594), które stanowią: „Art. 10. Do czasu wygaśnięcia pozostają mocy prawa nabyte na podstawie przepisów uchylanych 3.” „Art. 12. 1. Ustawa wchodzi po upływie 14 dni od dnia ogłoszenia, zastrzeżeniem ust. 2–4.
-2. Przepisy 5 pkt 1–3 oraz 6 pkt 1–3, 6 9 wchodzą stycznia 2001
+2. Przepisy 5 1–3 oraz 6 1–3, 6 9 wchodzą stycznia 2001
 10) 2 3 dnia 7 czerwca 2001 zmianie dopłatach niektórych kredytów bankowych (Dz. U. Nr 72, poz. 746), które stanowią: „Art. 2. Do czasu wydania przepisów wykonawczych na podstawie 8 ustawy, której 1, brzmieniu nadanym mu niniejszą ustawą, zachowują moc dotychczasowe przepisy wykonawcze zakresie, jakim nie są nią sprzeczne.
 
 **Art. 3.** Ustawa wchodzi po upływie 14 dni od dnia ogłoszenia.”;
@@ -77,7 +77,7 @@ Nr 121, poz. 770), który stanowi: „Art. 99. Ustawa wchodzi stycznia 2001 r., 
 
 **Art. 4.**
 
-1. Za kredyty na cele rolnicze, których 3 ust. pkt 1, uważa się kredyty:
+1. Za kredyty na cele rolnicze, których 3 ust. 1, uważa się kredyty:
 
 - **1)** dla krajowych przedsiębiorców prowadzących produkcję rolniczą, przeznaczone na: wyrobów alkoholowych;
     - **a)** zakup rzeczowych środków obrotowych produkcji rolniczej,
@@ -86,19 +86,19 @@ Nr 121, poz. 770), który stanowi: „Art. 99. Ustawa wchodzi stycznia 2001 r., 
 
 - **3)** (uchylony).
 
-2. Skup przechowywanie ryb, których 3 ust. pkt 2, dotyczy ryb złowionych lub skupionych przez krajowych przedsiębiorców .
+2. Skup przechowywanie ryb, których 3 ust. 2, dotyczy ryb złowionych lub skupionych przez krajowych przedsiębiorców .
 
 3. (uchylony).
 
-4. Finansowanie zadań związanych restrukturyzacją techniczną, technologiczną organizacyjną, tym zatrudnienia, dotyczy przedsiębiorstw, których 3 ust. pkt 4.
+4. Finansowanie zadań związanych restrukturyzacją techniczną, technologiczną organizacyjną, tym zatrudnienia, dotyczy przedsiębiorstw, których 3 ust. 4.
 
 **Art. 5.**
 
 - **9)** Dopłaty kredytów mogą być stosowane za okres nie dłuższy niż:
-- **1)** 12 miesięcy kredytów na cele, których 3 ust. pkt 2, zastrzeżeniem pkt 2,
-- **2)** 24 miesiące kredytów zaciągniętych od lipca 1996 30 czerwca 1998 przeznaczeniem na cele wymienione 4 ust. pkt 1, dla osób posiadających gospodarstwa rolne lub prowadzących działy specjalne produkcji rolnej, których wystąpiły poważne szkody spowodowane przez powódź, która miała miejsce lipcu 1997 r.,
+- **1)** 12 miesięcy kredytów na cele, których 3 ust. 2, zastrzeżeniem 2,
+- **2)** 24 miesiące kredytów zaciągniętych od lipca 1996 30 czerwca 1998 przeznaczeniem na cele wymienione 4 ust. 1, dla osób posiadających gospodarstwa rolne lub prowadzących działy specjalne produkcji rolnej, których wystąpiły poważne szkody spowodowane przez powódź, która miała miejsce lipcu 1997 r.,
 - **3)** (uchylony),
-- **4)** dnia 31 grudnia 2007 przypadku kredytów na cele, których 3 ust. pkt 4 od dnia otrzymania kredytu.
+- **4)** dnia 31 grudnia 2007 przypadku kredytów na cele, których 3 ust. 4 od dnia otrzymania kredytu.
 
 **Art. 6.**
 
@@ -107,29 +107,29 @@ Nr 121, poz. 770), który stanowi: „Art. 99. Ustawa wchodzi stycznia 2001 r., 
 - **1)** 1,1 stopy redyskontowej weksli przyjmowanych od banków redyskonta przez Narodowy Bank Polski przy udzielaniu kredytów na skup przechowywanie zapasów ryb morskich;
 - **2)** 1,25 stopy redyskontowej weksli przyjmowanych od banków redyskonta przez Narodowy Bank Polski przy udzielaniu kredytów na cele rolnicze;
 - **3)** (uchylony);
-- **4)** 1,3 stopy redyskontowej weksli przyjmowanych od banków redyskonta przez Narodowy Bank Polski przy udzielaniu kredytów na finansowanie zadań związanych restrukt uryzacją przedsiębiorstw przemysłu lekkiego. 4 ust. pkt 2.
+- **4)** 1,3 stopy redyskontowej weksli przyjmowanych od banków redyskonta przez Narodowy Bank Polski przy udzielaniu kredytów na finansowanie zadań związanych restrukt uryzacją przedsiębiorstw przemysłu lekkiego. 4 ust. 2.
 
-3. Wysokość kredytu objętego dopłatami ze środków budżetu państwa na cele, których 4 ust. pkt 1, zastrzeżeniem ust. 4, nie może przekroczyć łącznie równowartości 10 q żyta na ha użytków rolnych, według cen przyjmowanych dla celów naliczania podatku rolnego.
+3. Wysokość kredytu objętego dopłatami ze środków budżetu państwa na cele, których 4 ust. 1, zastrzeżeniem ust. 4, nie może przekroczyć łącznie równowartości 10 q żyta na ha użytków rolnych, według cen przyjmowanych dla celów naliczania podatku rolnego.
 
 4. Rada Ministrów może, drodze rozporządzenia, podwyższyć wysokość kredytu, którym ust. 3, równowartości 15 q żyta na ha użytków rolnych, według cen przyjmowanych dla celów naliczania podatku rolnego.
 
-5. Dopłaty ze środków budżetu państwa kredytów na cele, których 3 ust. pkt 2, stanowią część należnego bankom, odpowiadającą różnicy między stopą tych kredytów, określoną ust. 1, a stopą dla kredytobiorcy, określoną ust. 2.
+5. Dopłaty ze środków budżetu państwa kredytów na cele, których 3 ust. 2, stanowią część należnego bankom, odpowiadającą różnicy między stopą tych kredytów, określoną ust. 1, a stopą dla kredytobiorcy, określoną ust. 2.
 
 6. (uchylony).
 
 7. (utracił moc).
 
-8. Dopłaty ze środków budżetu państwa kredytów na cele, których 3 ust. pkt 4, przysługują wysokości naliczonego według stopy równej stopie redyskontowej weksli przyjmowanych od banków redyskonta przez Narodowy Bank Polski, powiększonego marżę banku.
+8. Dopłaty ze środków budżetu państwa kredytów na cele, których 3 ust. 4, przysługują wysokości naliczonego według stopy równej stopie redyskontowej weksli przyjmowanych od banków redyskonta przez Narodowy Bank Polski, powiększonego marżę banku.
 
-9. Dopłaty na cele, których 3 ust. pkt 4, mogą być udzielone przedsiębiorcy tylko raz.
+9. Dopłaty na cele, których 3 ust. 4, mogą być udzielone przedsiębiorcy tylko raz.
 
 **Art. 7.**
 
-- **25)** Dopłaty ze środków budżetu państwa kredytów mogą być udzielane pod warunkiem udokumentowania wykorzystania co najmniej 80% kredytu na zakupy na cele, których 4 ust. pkt 1.
+- **25)** Dopłaty ze środków budżetu państwa kredytów mogą być udzielane pod warunkiem udokumentowania wykorzystania co najmniej 80% kredytu na zakupy na cele, których 4 ust. 1.
 
 **Art. 7a.**
 
-- **26)** Dopłaty ze środków budżetu państwa kredytów na realizację zadań związanych restrukturyzacją przedsiębiorstw przemysłu lekkiego mogą być udzielane pod warunkiem posiadania przez przedsiębiorstwo, którym 3 ust. pkt 4, programu restrukturyzacji zatwierdzonego przez organ nadzoru, ile przedsiębiorstwo taki organ posiada.
+- **26)** Dopłaty ze środków budżetu państwa kredytów na realizację zadań związanych restrukturyzacją przedsiębiorstw przemysłu lekkiego mogą być udzielane pod warunkiem posiadania przez przedsiębiorstwo, którym 3 ust. 4, programu restrukturyzacji zatwierdzonego przez organ nadzoru, ile przedsiębiorstwo taki organ posiada.
 
 **Art. 8.**
 
@@ -150,9 +150,9 @@ Nr 121, poz. 770), który stanowi: „Art. 99. Ustawa wchodzi stycznia 2001 r., 
 
 **Art. 10b.**
 
-- **30)** 1. Dopłaty kredytów zaciągniętych od dnia 15 lipca 2002 dnia 15 lipca 2003 przez krajowych przedsiębiorców prowadzących produkcję rolniczą, przeznaczeniem na cele określone 4 ust. pkt 1, mogą być stosowane za okres nie dłuższy niż 24 miesiące od dnia otrzymania kredytu, przypadku gdy gospodarstwach tych przedsiębiorców wystąpiły poważne szkody spowodowane przez suszę, która miała miejsce 2003
+- **30)** 1. Dopłaty kredytów zaciągniętych od dnia 15 lipca 2002 dnia 15 lipca 2003 przez krajowych przedsiębiorców prowadzących produkcję rolniczą, przeznaczeniem na cele określone 4 ust. 1, mogą być stosowane za okres nie dłuższy niż 24 miesiące od dnia otrzymania kredytu, przypadku gdy gospodarstwach tych przedsiębiorców wystąpiły poważne szkody spowodowane przez suszę, która miała miejsce 2003
 
-2. Oprocentowanie kredytów, których ust. 1, ustala się wysokości określonej 6 ust. pkt 2.
+2. Oprocentowanie kredytów, których ust. 1, ustala się wysokości określonej 6 ust. 2.
 
 **Art. 10c.**
 

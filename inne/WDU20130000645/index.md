@@ -26,13 +26,13 @@ domain: null
 
 USTAWA dnia 10 maja 2013 zmianie pracownikach samorządowych niektórych innych ustaw
 
-**Art. 1.** W ustawie dnia 21 listopada 2008 pracownikach samorządowych (Dz. 223, 1458, późn. zm. ) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie dnia 21 listopada 2008 pracownikach samorządowych (Dz. 223, poz. 1458, późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie dnia 8 marca 1990 samorządzie gminnym (Dz. 2013 594) art. 98a po ust. 1 dodaje się ust. 1a brzmieniu: ,,1a. Przepis ust. 1 stosuje się odpowiednio do obowiązków, których mowa art. 6a dnia 21 listopada 2008 pracownikach samorządowych (Dz. 223, 1458, późn. zm. ).”.
+**Art. 2.** W ustawie dnia 8 marca 1990 samorządzie gminnym (Dz. 2013 poz. 594) art. 98a po ust. 1 dodaje się ust. 1a brzmieniu: ,,1a. Przepis ust. 1 stosuje się odpowiednio do obowiązków, których mowa art. 6a dnia 21 listopada 2008 pracownikach samorządowych (Dz. 223, poz. 1458, późn. zm. ).”.
 
-**Art. 3.** W ustawie dnia 5 czerwca 1998 samorządzie województwa (Dz. 2013 596) art. 86a po ust. 1 dodaje się ust. 1a brzmieniu: ,,1a. Przepis ust. 1 stosuje się odpowiednio do obowiązków, których mowa art. 6a dnia 21 listopada 2008 pracownikach samorządowych (Dz. 223, 1458, późn. zm. ).”.
+**Art. 3.** W ustawie dnia 5 czerwca 1998 samorządzie województwa (Dz. 2013 poz. 596) art. 86a po ust. 1 dodaje się ust. 1a brzmieniu: ,,1a. Przepis ust. 1 stosuje się odpowiednio do obowiązków, których mowa art. 6a dnia 21 listopada 2008 pracownikach samorządowych (Dz. 223, poz. 1458, późn. zm. ).”.
 
-**Art. 4.** W ustawie dnia 5 czerwca 1998 samorządzie powiatowym (Dz. 2013 595) art. 85a po ust. 1 dodaje się ust. 1a brzmieniu: ,,1a. Przepis ust. 1 stosuje się odpowiednio do obowiązków, których mowa art. 6a dnia 21 listopada 2008 pracownikach samorządowych (Dz. 223, 1458, późn. zm. ).”.
+**Art. 4.** W ustawie dnia 5 czerwca 1998 samorządzie powiatowym (Dz. 2013 poz. 595) art. 85a po ust. 1 dodaje się ust. 1a brzmieniu: ,,1a. Przepis ust. 1 stosuje się odpowiednio do obowiązków, których mowa art. 6a dnia 21 listopada 2008 pracownikach samorządowych (Dz. 223, poz. 1458, późn. zm. ).”.
 
 **Art. 5.** Stosunki pracy burmistrza dzielnicy m.st. Warszawy, zastępcy burmistrza dzielnicy m.st. Warszawy pozostałych członków zarządu dzielnicy m.st. Warszawy zatrudnionych na podstawie umowy pracę przekształcają się dniu wejścia życie niniejszej stosunki pracy na podstawie wyboru.
 

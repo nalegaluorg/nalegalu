@@ -24,14 +24,14 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971060678) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/678/text.pdf) |
 
-2) art. 12 2: al pkt 3 porozumieniu Ministrami stwa oraz Narodowej ustalanie rocz nego planu finansowego Agencji, ki erunków rozdysponowania finansowych, a wnioskami Mini stra Narodowej sprawie wysoko dotacji na wart. usl. pkt 4,"
+2) art. 12 2: al pkt 3 porozumieniu Ministrami stwa oraz Narodowej ustalanie rocz nego planu finansowego Agencji, ki erunków rozdysponowania finansowych, a wnioskami Mini stra Narodowej sprawie wysoko dotacji na wart. 19 usl. pkt 4,"
 b) pkt 4 przedstawianie Radzie Nadzorczej, Ministro wi oraz Ministrowi Narodowej sprawozdania rocznej dzialal Agencji.";
 art. 14 .. 1. Skarb powierza Agencji wykonywanie prawa innych praw rzeczowych na jego rzecz stosunku gruntów, buuynków lokali mieszkalnych wykorzystywanych na za"-waterowanie tymczasowe zawodowych, pod obiekty infrastruk tury technicznej nie o których mowa pkt 1, uznanych za 11a cele miejsco wym planie zagospodarowania przestrzen nego przeznaczone pod bu downictwo mieszkaniowe.";
 wart. 16: al l pkt 3 otn:.ymuje ,,3) dokonywanie remontów budynków miesz· ,,2) planowania realizowania inwestycji mo dernizacji budynków mieszkalnych interna towo-hotelowych oraz nimi in frastruktury technicznej, ";
 5) art. 17: al pkt zawieranie umów naj mu lokali ele mentów infrastruktury technicznej nej oraz innych bl pkt 5 ,,5) gruntów ni budownictwa mieszkaniowe go, których udzia osoby uprawnione przydzia Jub pracownicy wojska cy warunki zawarcia umowy najmu na czas nie oznaczony lokalu mieszkalnego przeznaczonego na zakwaterowanie zawodowych.";
 61 wart. 18:
 a) l, bl .. 2. przekazywania oraz innych mienia zdawczo-odbiorcze." ;
-71 art. 6 .. 6. Minister porozumieniu Mi nistrami Narodowej oraz Finan sów drodze szcze warunki sposób prowadzenia go spodarki finansowej Agencji.";
+71 art. 19 6 .. 6. Minister porozumieniu Mi nistrami Narodowej oraz Finan sów drodze szcze warunki sposób prowadzenia go spodarki finansowej Agencji.";
 81 wart, 20 .. 2. Wynagrodzenie Prezesa Rady Nadzorczej Agencji ustala Prezes Rady Mini strów.";
 9) wart. 23 4 .. 4. Zachowanie nabycie kwa tery stwierdza, drodze decyzji administra cyjnej, dyrektor terenowego Agen cji na podstawie posiDda zdrowia,
 2) normy, o której mowa 1.";
@@ -59,8 +59,7 @@ e) po 7 dodaje 7a brzmieniu: ,,7a. W pobliskich, których na skutek restruktury 
 a) administrowania kwaterami (lokalami mieszkalnymi) przez
 b) przydzielania, zwalniania zamiany kwa art. 58 8 oraz art. 83 3 przy Ministrowi Spraw nych Administracji stosunku nierzy woj mu jed nostkach wojskowych oraz emerytów, rencistów wojskowych ich rodzin.
 2. Minister porozumie niu Ministrem Spraw Administracji odniesieniu zasobów mieszkaniowych jednostek wojskowych pod Ministrowi Spraw Administracji, powo na zasadach rozdziale 3.
-W takim wypadku Ministrowi Spraw Administracji uprawnienia Ministra Na rodowej wart. 9 1, art. 11 2, art. 12, art. 16 oraz art.
-pkt 4 6.";
+W takim wypadku Ministrowi Spraw Administracji uprawnienia Ministra Na rodowej wart. 9 1, art. 11 2, art. 12, art. 16 oraz art. 19 pkt 4 6.";
 22) art. 86 "Art. 86. 1. gmina, pracy inny dokonuje sprze lokalu mieszkalnego zajmowane go przez udzieli jej ulgi cenie na bycia ca art. 58 2, na wniosek zainte resowanego Agencja przekazuje gminie, pracy innemu nieruchomo
 2. W wypadku niezastosowania ulgi cenie nabycia, Agencja prze kazuje na rzecz na podstawie art. 58 2.
 3. Przy ustalaniu o której mowa 1, przyjmuje m2 wska przez jednak nie na podstawie art.

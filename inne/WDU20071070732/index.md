@@ -24,7 +24,7 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071070732) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/732/text.pdf) |
 
-**Art. 1.** W ustawie dnia 21 listopada 1967 o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. 2004 241, 2416, póên. zm. ) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie dnia 21 listopada 1967 o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. 241, 2416, póên. zm. ) wprowadza się następujące zmiany:
 
 **Art. 13b.**
 

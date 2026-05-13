@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 16 marca 2026
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, 16 marca 2026
 
 | Pole | Wartość |
 |---|---|
@@ -24,13 +24,13 @@ domain: null
 | Ostatnia zmiana | 2026-03-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000346) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/346/text.pdf) |
 
-USTAWA dnia 27 lutego 2026 o zmianie Prawo o stowarzyszeniach, o Sądowym oraz o kosztach sądowych sprawach cywilnych
+USTAWA 27 lutego 2026 zmianie Prawo stowarzyszeniach, Sądowym oraz kosztach sądowych sprawach cywilnych
 
-**Art. 1.** W ustawie dnia 7 kwietnia 1989 Prawo o stowarzyszeniach 2020 2261 oraz 2026
+**Art. 1.** W ustawie 7 kwietnia 1989 Prawo stowarzyszeniach U. 2020 2261 oraz 2026
 
-**Art. 2.** W ustawie dnia o Sądowym 2025 869, 1556 1792 oraz 2026 119, 176 252) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie 20 sierpnia 1997 Sądowym U. 869, 1556 1792 oraz 2026 119, 176 252) wprowadza się następujące zmiany:
 
-**Art. 3.** W ustawie dnia 28 lipca 2005 o kosztach sądowych sprawach cywilnych 2025 1228) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie 28 lipca 2005 kosztach sądowych sprawach cywilnych U. 1228) wprowadza się następujące zmiany:
 
 **Art. 4.** Ustawa wchodzi życie dniem 30 września 2028 Prezydent Rzeczypospolitej Polskiej: K. Nawrocki
 

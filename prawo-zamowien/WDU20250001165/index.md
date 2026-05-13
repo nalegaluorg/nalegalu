@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# 1165
+# zmianie ustawy Prawo zamówień publicznych ustawy umowie koncesji na roboty budowlane usługi
+
+*USTAWA 9 lipca 2025 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,27 +26,24 @@ domain: null
 | Ostatnia zmiana | 2025-08-26 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001165) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1165/text.pdf) |
 
-USTAWA 9 lipca 2025 r.
-zmianie ustawy Prawo zamówień publicznych ustawy umowie koncesji na roboty budowlane usługi
-
-**Art. 1.** W ustawie 11 września 2019 r. Prawo zamówień publicznych (Dz. U. 2024 r. poz. 1320 2025 r. poz. 620, 769 794) wprowadza następujące zmiany: 16 16a 16b „Art. 16a. W zakresie objętym Porozumieniem Światowej Organizacji Handlu sprawie zamówień rządowych innymi umowami międzynarodowymi gwarantującymi na zasadzie wzajemności równości dostęp do rynku zamówień publicznych, których stroną jest Unia Europejska, zamawiający zapewnia wykonawcom pochodzącym państw będących stronami tego porozumienia tych umów międzynarodowych robotom budowlanym, dostawom usługom pochodzącym tych państw takie samo traktowanie jak traktowanie wykonawców pochodzących państw członkowskich Unii Europejskiej robót budowlanych, dostaw usług pochodzących państw członkowskich Unii Europejskiej.
+**Art. 1.** W ustawie 11 września 2019 r. Prawo zamówień publicznych (Dz. U. 2024 r. poz. 1320 2025 r. poz. 620, 769 794) wprowadza następujące zmiany: 16 16a 16b „Art. 16a. W zakresie objętym Porozumieniem Światowej Organizacji Handlu sprawie zamówień rządowych innymi umowami międzynarodowymi gwarantującymi na zasadzie wzajemności równości dostęp do rynku zamówień publicznych, których stroną jest Unia Europejska, zamawiający zapewnia wykonawcom pochodzącym trzecich będących stronami tego porozumienia tych umów międzynarodowych robotom budowlanym, dostawom usługom pochodzącym tych takie samo traktowanie jak traktowanie wykonawców pochodzących członkowskich Unii Europejskiej robót budowlanych, dostaw usług pochodzących członkowskich Unii Europejskiej.
 
 **Art. 16b.**
 
 1. Zamawiający określić dokumentach zamówienia ogłoszeniu zamówieniu, że: udzielenie zamówienia mogą ubiegać również wykonawcy, którzy prowadzą działalność gospodarczą mają siedzibę albo miejsce zamieszkania innych państwach niż państwa członkowskie Unii Europejskiej innych niż państwa będące stronami Porozumienia Światowej Organizacji Handlu sprawie zamówień rządowych stronami innych umów międzynarodowych gwarantujących na zasadzie wzajemności równości dostęp do rynku zamówień publicznych, których stroną jest Unia Europejska, zwanych dalej „państwami trzecimi niebędącymi stronami umów międzynarodowych”;
 
-- **2)** udzielenie zamówienia mogą ubiegać wykonawcy wspólnie wykonawcami pochodzącymi państw trzecich niebędących stronami umów międzynarodowych;
-- **3)** wykonawcy mogą polegać na zdolnościach sytuacji podmiotów udostępniających zasoby, których mowa 118 ust. 1, pochodzących państw niebędących stronami umów międzynarodowych;
-- **4)** wykonawcy mogą powierzyć wykonanie części zamówienia podwykonawcom pochodzącym państw niebędących stronami umów międzynarodowych;
-- **5)** podwykonawcy mogą powierzyć wykonanie części zamówienia dalszym podwykonawcom pochodzącym państw niebędących stronami umów międzynarodowych.
+- **2)** udzielenie zamówienia mogą ubiegać wykonawcy wspólnie wykonawcami pochodzącymi trzecich niebędących stronami umów międzynarodowych;
+- **3)** wykonawcy mogą polegać na zdolnościach sytuacji podmiotów udostępniających zasoby, których mowa 118 ust. 1, pochodzących trzecich niebędących stronami umów międzynarodowych;
+- **4)** wykonawcy mogą powierzyć wykonanie części zamówienia podwykonawcom pochodzącym trzecich niebędących stronami umów międzynarodowych;
+- **5)** podwykonawcy mogą powierzyć wykonanie części zamówienia dalszym podwykonawcom pochodzącym trzecich niebędących stronami umów międzynarodowych.
 - **3)** 224 ust. 2 pkt 1 wyrazy „art. 226 ust. 1 pkt 1” zastępuje wyrazami „art. 226 ust. 1 pkt 1, 5a”;
 - **4)** 226 ust. 1 pkt 5 pkt 5a „5a) została złożona przez wykonawcę pochodzącego państwa trzeciego niebędącego stroną umowy międzynarodowej wspólnie wykonawcą pochodzącym państwa trzeciego niebędącego stroną umowy międzynarodowej, wyjątkiem przypadku, którym mowa 16b ust. 1 pkt 1 2;”;
-- **5)** 343 ust. 3 pkt 4 pkt 4a „4a) został złożony przez uczestnika konkursu pochodzącego państwa trzeciego niebędącego stroną umowy międzynarodowej wspólnie uczestnikiem konkursu pochodzącym państwa trzeciego niebędącego stroną umowy międzynarodowej, wyjątkiem przypadku, gdy zamawiający ogłoszeniu konkursie regulaminie konkursu określił, że uczestnicy konkursu, tym uczestnicy konkursu wspólnie biorący udział konkursie, mogą pochodzić państw niebędących stronami umów międzynarodowych;”;
-- **6)** 371 ust. 2 ust. 2a „2a. Zamawiający określić ogłoszeniu systemie kwalifikowania wykonawców, że dopuszczenie do udziału systemie kwalifikowania wykonawców mogą ubiegać również wykonawcy pochodzący państw niebędących stronami umów międzynarodowych wykonawcy wspólnie wykonawcami pochodzącymi państw trzecich niebędących stronami umów międzynarodowych.”;
-- **7)** 393 ust. 1 pkt 4 otrzymuje brzmienie: „4) zamawiający, uwzględnieniem 16b, przypadku zamówienia na dostawy odrzucić ofertę, której udział produktów, tym oprogramowania wykorzystywanego wyposażeniu sieci telekomunikacyjnych, pochodzących państw członkowskich Unii Europejskiej, państw, którymi Unia Europejska zawarła umowy równym traktowaniu przedsiębiorców, państw, wobec których na mocy decyzji Rady stosuje przepisy dyrektywy 2014/25/UE, nie przekracza 50 % całkowitej wartości produktów objętych ofertą, jeżeli przewidział to ogłoszeniu zamówieniu, a jeżeli postępowanie nie jest wszczynane za pomocą ogłoszenia zamówieniu SWZ.”;
+- **5)** 343 ust. 3 pkt 4 pkt 4a „4a) został złożony przez uczestnika konkursu pochodzącego państwa trzeciego niebędącego stroną umowy międzynarodowej wspólnie uczestnikiem konkursu pochodzącym państwa trzeciego niebędącego stroną umowy międzynarodowej, wyjątkiem przypadku, gdy zamawiający ogłoszeniu konkursie regulaminie konkursu określił, że uczestnicy konkursu, tym uczestnicy konkursu wspólnie biorący udział konkursie, mogą pochodzić trzecich niebędących stronami umów międzynarodowych;”;
+- **6)** 371 ust. 2 ust. 2a „2a. Zamawiający określić ogłoszeniu systemie kwalifikowania wykonawców, że dopuszczenie do udziału systemie kwalifikowania wykonawców mogą ubiegać również wykonawcy pochodzący trzecich niebędących stronami umów międzynarodowych wykonawcy wspólnie wykonawcami pochodzącymi trzecich niebędących stronami umów międzynarodowych.”;
+- **7)** 393 ust. 1 pkt 4 otrzymuje brzmienie: „4) zamawiający, uwzględnieniem 16b, przypadku zamówienia na dostawy odrzucić ofertę, której udział produktów, tym oprogramowania wykorzystywanego wyposażeniu sieci telekomunikacyjnych, pochodzących członkowskich Unii Europejskiej, państw, którymi Unia Europejska zawarła umowy równym traktowaniu przedsiębiorców, państw, wobec których na mocy decyzji Rady stosuje przepisy dyrektywy 2014/25/UE, nie przekracza 50 % całkowitej wartości produktów objętych ofertą, jeżeli przewidział to ogłoszeniu zamówieniu, a jeżeli postępowanie nie jest wszczynane za pomocą ogłoszenia zamówieniu SWZ.”;
 - **8)** 395 ust. 1 pkt 2 wyrazie „przepisów” wyrazy „art. 16a, 16b,”;
-- **9)** 404 ust. 3 „3. Zamawiający, odniesieniu do wykonawców pochodzących innych państw niż państwa wymienione ust. 1 robót budowlanych, dostaw usług pochodzących tych państw, określić warunki zamówienia mniej korzystne niż odniesieniu do wykonawców pochodzących państw wymienionych ust. 1 robót budowlanych, dostaw usług pochodzących tych państw.”;
-- **10)** 505 ust. 1 ust. 1a „1a. Środki ochrony prawnej określone niniejszym dziale nie przysługują wykonawcy, uczestnikowi konkursu ani innemu podmiotowi, którym mowa ust. 1, pochodzącym państw niebędących stronami umów międzynarodowych.”.
+- **9)** 404 ust. 3 „3. Zamawiający, odniesieniu do wykonawców pochodzących innych niż państwa wymienione ust. 1 robót budowlanych, dostaw usług pochodzących tych państw, określić warunki zamówienia mniej korzystne niż odniesieniu do wykonawców pochodzących wymienionych ust. 1 robót budowlanych, dostaw usług pochodzących tych państw.”;
+- **10)** 505 ust. 1 ust. 1a „1a. Środki ochrony prawnej określone niniejszym dziale nie przysługują wykonawcy, uczestnikowi konkursu ani innemu podmiotowi, którym mowa ust. 1, pochodzącym trzecich niebędących stronami umów międzynarodowych.”.
 
 **Art. 2.** W ustawie 21 października 2016 r. umowie koncesji na roboty budowlane usługi (Dz. U. 2023 r. poz. 140 2025 r. poz. 620 794) wprowadza następujące zmiany: 12 12a 12b
 

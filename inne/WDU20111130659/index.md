@@ -38,7 +38,7 @@ administracyjnych Ministerstwie Sprawiedliwości lub innej jednostce organizacyj
 6) 32 dodaje się 32a brzmieniu: „Art. 32a. 1. przypadku zniesienia sądu wojskowego sędzia tego sądu, na swój wniosek lub za swoją zgodą, jest powoływany, trybie określonym przepisach ustawy, której mowa 32 6, na urząd sędziego sądu powszechnego, jeżeli nie ma innych przeszkód prawnych. Przepisy 32 7—9 stosuje się odpowiednio.
 2. Z chwilą powołania sędziego sądu wojskowego na urząd sędziego sądu powszechnego zwalnia się go, mocy prawa, zawodowej służby wojskowej.”;
 7) 33 4 otrzymuje brzmienie: „§ 4. razie odmowy przedstawienia Prezydentowi Rzeczypospolitej Polskiej wniosku, którym mowa 3, zainteresowanemu służy odwołanie do Sądu Najwyższego.”;
-8) 35: rządzeń zamykających drogę do wydania wy„§ 2a. przypadku przeniesienia stan spo- roku przysługuje odwołanie obwinionemu czynku oraz przypadku powołania na i rzecznikowi dyscyplinarnemu, a także Krajourząd sędziego sądu powszechnego wej Radzie Sądownictwa, Ministrowi Spratrybie określonym 32a uznaje wiedliwości oraz Ministrowi Obrony Narodosię, iż zwolnienie sędziego zawodowej wej, którym doręcza się odpis orzeczenia.
+8) 35: c rządzeń zamykających drogę do wydania wy„§ 2a. przypadku przeniesienia stan spo- roku przysługuje odwołanie obwinionemu czynku oraz przypadku powołania na i rzecznikowi dyscyplinarnemu, a także Krajourząd sędziego sądu powszechnego wej Radzie Sądownictwa, Ministrowi Spratrybie określonym 32a uznaje wiedliwości oraz Ministrowi Obrony Narodosię, iż zwolnienie sędziego zawodowej wej, którym doręcza się odpis orzeczenia.
 służby wojskowej nastąpiło drodze wy- 4. Rozstrzygnięcia zapadające toku postępopowiedzenia stosunku służbowego za- wania dyscyplinarnego wymagają urzędu wodowej służby wojskowej dokonanego uzasadnienia na piśmie i doręczenia ich stroprzez właściwy organ.”, nom.”;
 c) 6 otrzymuje brzmienie: 13) po 42 dodaje się 42a brzmieniu: „§ 6. razie odmowy przedstawienia Prezy- „Art. 42a. Krajowa Rada Sądownictwa, Pierwszy dentowi Rzeczypospolitej Polskiej wnios- Prezes Sądu Najwyższego, Minister ku, którym mowa 4, zainteresowanemu służy odwołanie do Sądu Najwyższego.”;
 9) 37 2 otrzymuje brzmienie: „§ 2. P rzewinieniem dyscyplinarnym rozumieniu ustawy jest naruszenie obowiązków sędziego, tym oczywista i rażąca obraza przepisów prawa, uchybienie powadze stanowiska sędziowskiego, naruszenie dyscypliny wojskowej oraz zasad honoru i godności żołnierskiej.”;
@@ -56,7 +56,7 @@ a) 1 i 2 otrzymują brzmienie: „§ 1. Uprawnionym oskarżycielem przed sądem 
 
 2. Zasady zatrudniania urzędników i innych pracowników sądów wojskowych oraz ich obowiązki i prawa określają przepisy ustawy dnia 18 grudnia 1998 r. pracownikach sądów i prokuratury (Dz. 2011 r. 109, poz. 639).”;
 
-- **15)** 70 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „Do sądów wojskowych, sądów dyscyplinarnych, sędziów sądów wojskowych oraz asystentów sędziów i do ławników stosuje się odpowiednio przepisy 4 i 5, 8, 22 6, 37 5a i 6, 40, 41 2, 42, 44—52, 53 1—3, 54, 56, 57 1, 58 1 i 4—6, 60, 65 i 66, 69 2, 70 i 71, 73—75, 77 2, 2a, 5 i 6, 78 1—4, 78a 1—3 i 6, 79, 80 2d—2h i 4, 83, 84 3, 85 i 86, 89 i 90, 91 1, 1c—2, 6, 7 i 9—12, 91a—93, 94 1, 3 i 4, 95, 98 1, 99, 100 1—4, 101 2—4, 102, 104—106, 108, 111, 114 5—7, 115—118, 120, 121 2, 122, 126, szej kolejności na wolne etaty urzędnicze i pracownicze sądach lub prokuraturach, na ich wniosek, są zatrudniani urzędnicy i pracownicy zniesionego sądu.”;
+- **15)** 70 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „Do sądów wojskowych, sądów dyscyplinarnych, sędziów sądów wojskowych oraz asystentów sędziów i do ławników stosuje się odpowiednio przepisy 4 i 5, 8, 22 6, 37 5a i 6, 40, 41 2, 42, 44—52, 53 1—3, 54, 56, 57 1, 58 1 i 4—6, 60, 65 i 66, 69 2, 70 i 71, 73—75, 77 2, 2a, 5 i 6, 78 1—4, 78a 1—3 i 6, 79, 80 2d—2h i 4, 83, 84 3, 85 i 86, 89 i 90, 91 1, 1c—2, 6, 7 i 9—12, 91a—93, 94 1, 3 i 4, 95, 98 1, 99, 100 1—4, 101 2—4, 102, 104—106, 108, 111, 114 5—7, 115—118, 120, 121 2, 122, 126, c szej kolejności na wolne etaty urzędnicze i pracownicze sądach lub prokuraturach, na ich wniosek, są zatrudniani urzędnicy i pracownicy zniesionego sądu.”;
 - **2)** 5:
     - **a)** po pkt 3 dodaje się pkt 3a brzmieniu: „3a) ojskowym sądzie okręgowym prezes wojskowego sądu okręgowego;”,
     - **b)** pkt 4 otrzymuje brzmienie: „4) wojskowym sądzie garnizonowym prezes wojskowego sądu garnizonowego;”.
@@ -79,5 +79,5 @@ a) 1 i 2 otrzymują brzmienie: „§ 1. Uprawnionym oskarżycielem przed sądem 
 
 **Art. 7.** Do spraw rozpoznawanych sądzie dyscyplinarnym drugiej instancji niezakończonych do dnia wejścia życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
 
-**Art. 8.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: B. Komorowski
+**Art. 8.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: B. Komorowski c
 

@@ -43,20 +43,20 @@ zajęć na studiach doktoranckich albo czasie odbywania praktyki przewidzianej o
 10)przy wykonywaniu bezpośredniej ochrony przed klęskami żywiołowymi;
 11) przy wykonywaniu funkcji członka komisji powołanej przez organ państwowy organ samorządu terytorialnego do przeprowadzenia wyborów referendum.
 2. Za chorobę zawodową uprawniającą do świadczeń przewidzianych ustawie uważa się chorobę określoną wykazie chorób zawodowych, o którym mowa wart. 237 § 1 pkt 2 Kodeksu pracy, jeżeli została spowodowana działaniem czynników szkodliwych dla zdrowia występujących środowisku pracy sposobem wykonywania pracy, przy wykonywaniu zajęć pracy, októrych mowa wust. 1 pkt 7 i8.
-3.1. Osobom, które stały się niezdolne do pracy wskutek wypadku szczególnych okolicznościach, októrych mowa wart. 2 ust. 1, przysługuje:
+3.1. Osobom, które stały się niezdolne do pracy wskutek szczególnych okolicznościach, októrych mowa wart. 2 ust. 1, przysługuje:
 1) renta ztytułu niezdolności do pracy;
 2) jednorazowe odszkodowanie;
-3) świadczenia zdrowotne określone wustawie zdnia 6 lutego 1997 o powszechnym ubezpieczeniu zdrowotnym (Dz. U. 28, 153 75, stępstw wypadku choroby zawodowej, pod warunkiem że osoby te nie są objęte powszechnym ubezpieczeniem zdrowotnym.
-2. Osobie, która poniosła koszty pogrzebu osoby poszkodowanej wskutek wypadku choroby zawodowej albo osoby pobierającej rentę na podstawie ustawy, przysługuje zasiłek pogrzebowy.
+3) świadczenia zdrowotne określone wustawie zdnia 6 lutego 1997 o powszechnym ubezpieczeniu zdrowotnym (Dz. U. 28, 153 75, stępstw choroby zawodowej, pod warunkiem że osoby te nie są objęte powszechnym ubezpieczeniem zdrowotnym.
+2. Osobie, która poniosła koszty pogrzebu osoby poszkodowanej wskutek choroby zawodowej albo osoby pobierającej rentę na podstawie ustawy, przysługuje zasiłek pogrzebowy.
 3. Âwiadczenia określone wust. 1 przysługują również osobie, która stała się niezdolna do pracy wskutek choroby zawodowej powstałej wzwiązku zwykonywaniem zajęć pracy, o których mowa art. 2 ust. 1 pkt7 i8.
 4. Członkom rodziny osób, które zmarły wskutek wypadków, októrych mowa wart. 2 ust. 1, członkom rodziny osób, które zmarły wskutek choroby zawodowej, przysługuje renta rodzinna jednorazowe odszkodowanie.
 5. Członkami rodziny są małżonek, dzieci własne, dzieci drugiego małżonka, dzieci przysposobione, przyjęte na wychowanie utrzymanie przed osiągnięciem pełnoletności wnuki, rodzeństwo inne dzieci, tym również ramach rodziny zastępczej, rodzice, osoby przysposabiające, ojczym imacocha, jeżeli spełniają warunki do uzyskania renty rodzinnej myśl przepisów ustawy zdnia 17 grudnia 1998 oemeryturach rentach Funduszu Ubezpieczeń Społecznych (Dz. U. 162, 1118, 1999 38, 360, Nr70, 774, 72, 801 i802 iNr 106, 1215, 2000 2, 26, 9, 118, 19, 238, 56, 678 iNr 84, 948, z2001 8, 64, 27, 298, 85, 924, 89, 968, 111, 1194 154, 1792 2002 74, 676 199, 1673), zwanej dalej Ńustawą oemeryturach irentach zFUS”.
 6. Prawo do jednorazowego odszkodowania przysługuje członkom rodziny spełniającym warunki do uzyskania renty rodzinnej dniu śmierci osoby, która uległa wypadkowi zachorowała na chorobę zawodową.
-4.1. Osobie, która stała się niezdolna do pracy całkowicie częściowo wskutek wypadku szczególnych okolicznościach, o których mowa art. 2 ust.1, przysługuje renta ztytułu niezdolności do pracy: na stałe jeżeli niezdolność do pracy jest trwała, na okres wskazany decyzji organu rentowego jeżeli niezdolność do pracy jest okresowa.
+4.1. Osobie, która stała się niezdolna do pracy całkowicie częściowo wskutek szczególnych okolicznościach, o których mowa art. 2 ust.1, przysługuje renta ztytułu niezdolności do pracy: na stałe jeżeli niezdolność do pracy jest trwała, na okres wskazany decyzji organu rentowego jeżeli niezdolność do pracy jest okresowa.
 2. Osobie, która doznała stałego długotrwałego
-4. W sprawach nieuregulowanych ustawie do jednorazowego odszkodowania przysługującego osobie, która uległa wypadkowi wszczególnych okolicznościach zachorowała na chorobę zawodową, albo członkom rodziny pozostałym po osobie, która zmarła wskutek wypadku choroby zawodowej, stosuje się przepisy ustawy zdnia 30 paêdziernika 2002 oubezpieczeniu społecznym tytułu wypadków przy pracy ichorób zawodowych (Dz. U. 199, 1673).
+4. W sprawach nieuregulowanych ustawie do jednorazowego odszkodowania przysługującego osobie, która uległa wypadkowi wszczególnych okolicznościach zachorowała na chorobę zawodową, albo członkom rodziny pozostałym po osobie, która zmarła wskutek choroby zawodowej, stosuje się przepisy ustawy zdnia 30 paêdziernika 2002 oubezpieczeniu społecznym tytułu wypadków przy pracy ichorób zawodowych (Dz. U. 199, 1673).
 5. 1. Zasiłek pogrzebowy przysługuje osobie, która poniosła koszty pogrzebu:
-1) osoby, która zmarła wskutek wypadku choroby zawodowej;
+1) osoby, która zmarła wskutek choroby zawodowej;
 2) osoby pobierającej rentę na podstawie ustawy członka jej rodziny.
 2. Od członków rodziny, o których mowa ust. 1 pkt 2, nie wymaga się spełnienia warunków do uzyskania renty rodzinnej.
 3. W razie zbiegu prawa do zasiłku pogrzebowego na podstawie ustawy prawem do zasiłku pogrzebowego do świadczenia wwysokości zasiłku pogrzebowego na podstawie odrębnych przepisów zasiłek pogrzebowy świadczenie pieniężne przysługuje na podstawie przepisów odrębnych.
@@ -66,7 +66,7 @@ zajęć na studiach doktoranckich albo czasie odbywania praktyki przewidzianej o
 7.Renta ztytułu niezdolności do pracy spowodowanej wypadkiem szczególnych okolicznościach, októrych mowa wart. 2 ust. 1, chorobą zawodową, uprawnioną.
 chorobę zawodową wzwiązku zwykonywaniem zajęć
 3. Przepis ust. 2 stosuje się odpowiednio do osób pracy, októrych mowa wart. 2 ust. 1 pkt 7 i8, stopobierających uposażenie stanie spoczynku przy- suje się odpowiednio przepisy, o których mowa znane ze względu na wiek, zpowodu choroby utra- wart.237 § 1 Kodeksu pracy.
-ty sił albo uposażenie rodzinne. 3. Zakład Ubezpieczeń Społecznych dokonuje oceny okoliczności przyczyn wypadku szczególnych
+ty sił albo uposażenie rodzinne. 3. Zakład Ubezpieczeń Społecznych dokonuje oceny okoliczności przyczyn szczególnych
 9. W sprawach rent tytułu niezdolności do okolicznościach wydaje decyzję wsprawie świadpracy rent rodzinnych nieuregulowanych ustawą czeń przewidzianych wustawie.
 stosuje się odpowiednio przepisy oemeryturach irentach zFUS dotyczące: 4. Przepis ust. 3 stosuje się odpowiednio do wnio1) postępowania wsprawach rent iwypłaty rent; sku o przyznanie świadczeń tytułu choroby zawodowej.
 2) orzekania oniezdolności do pracy;
